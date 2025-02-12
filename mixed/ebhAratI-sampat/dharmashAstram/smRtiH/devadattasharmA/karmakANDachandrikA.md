@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDY
 
 **कर्मकाण्डचन्द्रिका**
 
-**![](../books_images/U-IMG-1727427415Screenshot2024-09-27142645.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1727427415Screenshot2024-09-27142645.png"/>**
 
 **“उत्तिष्ठतावपश्यतेन्द्रस्य भागमृत्वियम्”**
 
@@ -171,7 +171,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDY
 
 **इतीश्वर स्तुतिप्रार्थनापासना प्रकरणम्**
 
-![](../books_images/U-IMG-1731165656pic......png)
+<MISSING_FIG href="../books_images/U-IMG-1731165656pic......png"/>
 
 **अथ स्वस्तिवाचनम्  
 ————**
@@ -660,7 +660,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDY
 
 **इति शान्तिप्रकरणम्**
 
-**![](../books_images/U-IMG-1730992917e.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1730992917e.jpg"/>**
 
 **पुरुषसूक्त  
 ———**
@@ -852,11 +852,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDY
 
   वेदो में शङ्का होने का कारण यह है कि हिरण्यगर्भादि सूक्तो के अर्थ कई एक लोगों ने बिगाड़कर लिख दिये हैं कि वेद उस समय का वर्णन करता है जिस समय हिरण्य=सुवर्णधातु लोगों का ज्ञात हुई, यह अथ सर्वथा मिथ्या है, क्योंकि हिरण्यगर्भ के अर्थ यह हैं कि जिसके गर्भ में सूर्य चन्द्रमा आदि सब पदार्थ विद्यमान हैं उसका नाम “हिरण्यगर्भ” है, हिरण्य नाम सूर्य्य चन्द्रमा आदि पदार्थों का है अथवा हिरण्य नाम प्रकृति का है अर्थात् प्रकृति के ये चराचर कार्य्य कोटानकोटि ब्रह्माण्ड जिसके भीतर हों उसको “हिरण्यगर्भ” कहते हैं, इस प्रकार यह सूक्त ब्रह्मविद्या का निरूपण करता है किसी प्राकृतभाव का नहीं॥
 
-![](../books_images/U-IMG-1731028622ি.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731028622ি.jpg"/>
 
 **विष्णुसूक्त**
 
-**![](../books_images/U-IMG-1731033511्््.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1731033511्््.jpg"/>**
 
    सं०— इस सूक्त में परमात्मा को विष्णु— सर्वव्यापक कथन करते हुए यह वर्णन किया है कि मनुष्यसमुदाय परमात्मा को सर्वव्यापक मानकर किसी देश काल में भी पाप करने का साहस न करे अर्थात् उसका सर्वकाल में भय करते हुए अपने जीवन को सत्कर्म में प्रवृत्त रखेः—
 
@@ -994,7 +994,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDY
 **अब आगे सन्ध्या की विधि भलेप्रकार  
 जानकर अनुष्ठान सम्पन्न होंः—**
 
-**![](../books_images/U-IMG-1731077266ीी.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1731077266ीी.jpg"/>**
 
 **सन्ध्या-विधि**   
 **———**
@@ -1234,11 +1234,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDY
 
 **इति सन्ध्योपासनविधिः समाप्तः**
 
-**![](../books_images/U-IMG-1731309012िि.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1731309012िि.jpg"/>**
 
 **अथ देवयज्ञः प्रारभ्यते**
 
-**     ![](../books_images/U-IMG-1731309182क.jpg)**
+**     <MISSING_FIG href="../books_images/U-IMG-1731309182क.jpg"/>**
 
 १—देवयज्ञ का नाम ही अग्निहोत्र है और इसां के पर्यायवाची होम तथा हवन शब्द हैं॥
 
@@ -1501,11 +1501,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDY
 
 **इति देवयज्ञः समाप्तः**
 
-**![](../books_images/U-IMG-1731337913ं.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1731337913ं.jpg"/>**
 
 **अथ पितृयज्ञः प्रारभ्यते**
 
-**![](../books_images/U-IMG-1731338020ंं.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1731338020ंं.jpg"/>**
 
     पितुयज्ञ को “श्राद्ध” और “तर्पण” भी कहते हैं, “श्राद्ध” शब्द अत् धातु से बना है जो सत्य का वाचक है, जिस कृत्य से सत्य का ग्रहण किया
 
@@ -1533,11 +1533,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDY
 
 **इति पितृयज्ञः समाप्तः**
 
-**     ![](../books_images/U-IMG-1731338721ंंं.jpg)**
+**     <MISSING_FIG href="../books_images/U-IMG-1731338721ंंं.jpg"/>**
 
 **अथ भूतयज्ञः प्रारभ्यते**
 
-![](../books_images/U-IMG-1731344112र.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731344112र.jpg"/>
 
    “भूतयज्ञ” का हो दूसरा नाम “बलिवैश्वदेव यज्ञ” है, इसमें (१) कुत्ते (२) पतित ( ३ ) भङ्गी आदि चाण्डाल (४) कुष्ठी आदि पापरोगी ( ५ ) कौवे (६) चिउंटी आदि कृमी कीडादिकों के लिये दाल, भात, रोटी आदि की छः वक्षिदी जाती हैं, जिसमें प्रमाण यह है किः—
 
@@ -1623,11 +1623,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDY
 
 **इति भूतयज्ञः समाप्तः**
 
-**![](../books_images/U-IMG-1731343350ि.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1731343350ि.jpg"/>**
 
 **अथ नृयज्ञः प्रारभ्यते**
 
-![](../books_images/U-IMG-1731338923गग.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731338923गग.jpg"/>
 
      नृयज्ञ को ही “अतिथियज्ञ”कहते हैं, जो विद्वान्, परोपकारी, जितेन्द्रिय, सत्यबादी, छल कपट रहित, धार्मिक पुरुष देशाटन करता हुआ अकस्मात् घर आजाय उसको “अतिथि” कहते हैं, ऐसे अतिथि का सत्कार करके उससे सत्योपदेश ग्रहण करना “अतिथियज्ञ” कहाता है, इसमें अनेक वैदिक प्रमाण हैं, परन्तु यहां संक्षेप से अथर्ववेद के दो पत्र लिखते हैंः—
 
@@ -1644,12 +1644,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1MzA1OTM1NDY
 
 **इति नृयज्ञः समाप्तः**
 
-**![](../books_images/U-IMG-1731342728d.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1731342728d.jpg"/>**
 
     यह वैदिक पांच यश हैं जिनका विधिपूर्वक अनुष्ठान करने वाला पुरुष पवित्र होकर उस उच्चपद को प्राप्त होता है जिसको “त्र्यम्बकं यजामहे” मंत्र में वर्णन किया है, इन्हीं का अनुष्ठान करनेवाला सांसारिक ऐश्वर्य पाता और अन्ततः निःश्रेयस को प्राप्त करता है, इसलिये प्रत्येक वैदिकधर्मी का कर्त्तव्य है कि वह निरालस होकर उक्त यज्ञों का पालन करे॥
 
 **समाप्तश्चायं ग्रन्थः**
 
-**![](../books_images/U-IMG-1731342823dd.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1731342823dd.jpg"/>**
 
 \]

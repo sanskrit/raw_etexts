@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NTEwMTE3OTE
 
 ॥ सुनीति कुसुम माला सटीका ॥
 
-![](../books_images/U-IMG-1699425573Screenshot2023-11-08120853.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699425573Screenshot2023-11-08120853.png"/>  
 
 श्रीमदप्पय्यदीक्षितवंश्येन
 
@@ -38,7 +38,7 @@ APPA VAJAPEYA
 
 PART I
 
-![](../books_images/U-IMG-1699425860Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1699425860Screenshot2023-11-08121345.png"/>
 
 PUBLISHED BY  
 
@@ -47,18 +47,19 @@ K V. SUBRAHMANIA SASTRIAR.
 **SANSKRIT PANDIT,  
 MADURA COLLEGE, MADURA**
 
-![](../books_images/U-IMG-1699425909Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1699425909Screenshot2023-11-08121345.png"/>
 
 **KUMBAKONAM  
 SRI JANARDANA PRINTING WORKS**
 
-![](../books_images/U-IMG-1699425948Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1699425948Screenshot2023-11-08121345.png"/>
 
                         1927.         
+               
 
 **THE KUPPUSWAMY SASTRI**  
 
-![](../books_images/U-IMG-1699426494Screenshot2023-11-08122405.png)
+<MISSING_FIG href="../books_images/U-IMG-1699426494Screenshot2023-11-08122405.png"/>
 
  स्वस्ति श्रीमदखिलभूमण्डलालङ्कारत्रयस्त्रिंशत्कोटिदेवतासेवितश्रीकामाक्षीदेवीसनाथ श्रीमदेकाम्रनाथ श्रीमहादेवीसनाथ श्रीहस्तिगिरिनाथसाक्षात्कारपरमाधिष्ठान सत्यव्रतनामांकितकाञ्चीदिव्यक्षेत्रे शारदामठसुस्थितानाम् अतुलितसुधारसमाधुर्यकमलासन-कामिनीधम्मिल्लसम्फुल्लमल्लिकामालिकानिष्यन्द-मकरन्दझरीसौवस्तिक-वाङ्मि-गुम्भविजृम्भणानन्दतुन्द्रिलितमनीषिमण्डलानाम् अनवरताद्वैतविद्याविनोदर-सिकानाम् निरन्तरालंकृतशान्तिदान्ति-भूम्नाम् सकलभुवनचक्रप्रतिष्ठापक श्रीचक्रप्रतिष्ठाविख्या तयशोऽलंकृतानाम् निखिलपाषण्डषण्डकण्टकोत्पाटनेन विशदीकृतवेदवेदान्तमार्गषण्मतप्रतिष्ठापकाचार्याणाम् श्रीमत्परमहंसपरिव्राजकाचार्यवर्यश्रीजगद्गुरुश्रीमच्छंकर-भगवत्पादाचार्याणाम् अधिष्ठाने सिह्मासनाभिषिक्तश्रीमन्महादेवेन्द्रसरस्वतीसंयमीन्द्राणाम् अन्तेवासिवर्य **श्रीमच्चन्द्र-शेखरेन्द्रसरस्वती श्रीपादैः**।
 
@@ -68,6 +69,7 @@ SRI JANARDANA PRINTING WORKS**
 
 मु।पुदुच्चेरी  
 क्षयसं। मार्गशीर्ष                          
+            
 
  **नारायणस्मृतिः ॥**  
 
@@ -91,11 +93,11 @@ Assistant Sanskrit Pandit,
 
 Madura College, Madura.
 
-![](../books_images/U-IMG-1702702380vvvvvvvvvvvvvv.png)
+<MISSING_FIG href="../books_images/U-IMG-1702702380vvvvvvvvvvvvvv.png"/>
 
 ॥ ओं श्रीः ॥  
 ॥ श्री मीनाक्षीसुन्दरेश्वराभ्यां नमः ॥  
-![](../books_images/U-IMG-1699615037Screenshot2023-11-10164553.png)
+<MISSING_FIG href="../books_images/U-IMG-1699615037Screenshot2023-11-10164553.png"/>
 
 येसीबर्णलितिप्रसिद्धसुमति श्रीहूणदेश्यप्रभो-  
   रुत्साहस्य वशंवदेन रचिता धर्मार्थकामार्थिनाम्।  
@@ -124,9 +126,9 @@ Madura College, Madura.
 
 1—வது சுலோகத்தின் அதிக பாடம்.
 
-![](../books_images/U-IMG-170271000985.png)
+<MISSING_FIG href="../books_images/U-IMG-170271000985.png"/>
 
-![](../books_images/U-IMG-1699624660Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1699624660Screenshot2023-11-08121345.png"/>
 
 अथाक्षरावलिर्जयत्यकारपूर्विका यथा।  
 तथाखिलं चराचरं जगन्महेशपूर्वकम्॥१॥
@@ -188,9 +190,9 @@ Madura College, Madura.
 
 इति सुनीति कुसुममालायां भगवद्भक्तिरूपं प्रथमं कुसुमम्॥
 
-![](../books_images/U-IMG-17027104491.png)
+<MISSING_FIG href="../books_images/U-IMG-17027104491.png"/>
 
-![](../books_images/U-IMG-1699712017Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1699712017Screenshot2023-11-08121345.png"/>
 
 यतः सुवर्षजाज्जलाज्जगत्सुखेन जीवति।  
 ततोऽमृताभिधां दधे तदत्रलोकघोषिताम्॥१॥
@@ -203,7 +205,7 @@ Madura College, Madura.
 
 **उक्तमर्थं विवृणोति।**
 
-![](../books_images/U-IMG-1699712932Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1699712932Screenshot2023-11-08121345.png"/>
 
 बुभुक्षितस्य भक्षणं प्रकल्प्य सस्यपूर्वकम्।  
 प्रयाति भक्ष्यतां जलं सुवृष्टिसंभवं स्वयम्॥२॥
@@ -257,9 +259,9 @@ Madura College, Madura.
 
 इति द्वितीयं कुसुमम्॥
 
-![](../books_images/U-IMG-17027107582.png)
+<MISSING_FIG href="../books_images/U-IMG-17027107582.png"/>
 
-**![](../books_images/U-IMG-1699863512Screenshot2023-11-08121345.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699863512Screenshot2023-11-08121345.png"/>**
 
 स्वधर्मशीलनक्रमादहम्मामत्वमुत्सृजन्।  
 महानिति प्रगीयते समस्तशास्त्रपारगैः॥१॥
@@ -328,7 +330,7 @@ Madura College, Madura.
 
 4\. அறன்வலியுறுத்தல்  धर्ममहिमा॥
 
-![](../books_images/U-IMG-1699870601Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1699870601Screenshot2023-11-08121345.png"/>
 
 सुखाब्धिमोक्षदायिनः सुराधिपत्यदादपि।  
 सुधर्मसङ्ग्रहादृते नृणां किमत्र तारकम्॥१॥
@@ -382,11 +384,11 @@ Madura College, Madura.
 
 इति चतुर्थं कुसुमम्॥
 
-![](../books_images/U-IMG-1699939749Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1699939749Screenshot2023-11-08121345.png"/>
 
 **5. (இல்லறவியல்) இல்வாழ்க்கை गार्हस्थ्यम्॥**
 
-**![](../books_images/U-IMG-1699939826Screenshot2023-11-08121345.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699939826Screenshot2023-11-08121345.png"/>**
 
 सहैव भार्यया गृहे वसन्नरः पराश्रमान्।  
 वनस्थवर्णिभिक्षुकान्प्रपालयन्सखोच्यते॥१॥
@@ -446,9 +448,9 @@ Madura College, Madura.
 
  गृहाश्रमस्थितौ, क्षितौ वमन्नपि। यथोक्तधर्मपालनात् उक्तमनतिक्रमन्तो ये धर्मास्तेषांपालनात्, अत्रैकल्येनानुष्ठानात्। द्युलोकवासिमध्यगः, द्युलोकवासिनां मध्यगो भवन् लोकैर्विभाव्यते, धर्मानुष्ठानफलावश्यंभावनियमादित्यर्थः॥अनेन श्लोेकेन गृहाश्रमानुष्ठानात् आमुष्मिकफलप्राप्तिरुक्ता ॥१०॥ इति पञ्चमं कुसुमम् ॥
 
-![](../books_images/U-IMG-17027474384.png)
+<MISSING_FIG href="../books_images/U-IMG-17027474384.png"/>
 
-![](../books_images/U-IMG-1699955474Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1699955474Screenshot2023-11-08121345.png"/>
 
 गृहार्हशीलसद्गुणा धनागमोचितव्यया।  
 सुदक्षिणा सधर्मिणी प्रियाऽऽश्रमस्य साधिका॥१॥
@@ -476,6 +478,8 @@ Madura College, Madura.
 
 विनान्यदेवताश्रयं स्वतल्पतः समुत्थिता।  
 स्वदैवभर्तृपूजिनी निजेच्छयैव वर्षयेत्॥५॥
+
+ 
 
 स्वतल्पतः समुत्थिता, तल्प समुत्थान प्रभृतीत्यर्थः। अन्यदेवताश्रयं,देवतान्तरभजनं विना। खदैवभर्तृपूजनशीला पत्नी निजेच्छ्यैव स्वेच्छयैव।वर्षयेत्, पर्जन्यमितिशेषः। एतादृगगुणशीलवती पतिव्रता वर्षणे पर्जन्यमपि प्रेरयेच्चेत् स पर्जन्यःअवश्यंवर्षैदित्यर्थः ॥ ॥५॥
 
@@ -506,7 +510,7 @@ Madura College, Madura.
 
 इति षष्ठं कुसुमम् ॥
 
-![](../books_images/U-IMG-17027477375.png)
+<MISSING_FIG href="../books_images/U-IMG-17027477375.png"/>
 
 विवेकिपुत्रसंपदा धनादि संपदन्तरम्।  
 न मन्महे समं वयं गृहाश्रमव्यवस्थितौ॥१॥
@@ -569,9 +573,9 @@ Madura College, Madura.
 
 इति सप्तमं कुसुमम्॥
 
-![](../books_images/U-IMG-17027481706.png)
+<MISSING_FIG href="../books_images/U-IMG-17027481706.png"/>
 
-**![](../books_images/U-IMG-1700041830Screenshot2023-11-08121345.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1700041830Screenshot2023-11-08121345.png"/>**
 
 दयान्तराप्रगोपने कपाटिका न काचन।  
 यदश्रुशीकरोदयो निरर्गलः प्रकाशकः॥१॥
@@ -630,9 +634,9 @@ Madura College, Madura.
 
 इत्यष्ठमं कुसुमम्॥
 
-![](../books_images/U-IMG-1700045815Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1700045815Screenshot2023-11-08121345.png"/>
 
-![](../books_images/U-IMG-17027871377.png)
+<MISSING_FIG href="../books_images/U-IMG-17027871377.png"/>
 
 अगच्छता वन गृहास्थतनिजाजितैर्धनः।  
 प्रपूजनप्रयोजनं विनातिथेर्नकिञ्चन॥१॥
@@ -694,11 +698,11 @@ Madura College, Madura.
 
 इति नवमं कुसुमम्॥ 
 
-![](../books_images/U-IMG-1700131202Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1700131202Screenshot2023-11-08121345.png"/>
 
-![](../books_images/U-IMG-17027873078.png)
+<MISSING_FIG href="../books_images/U-IMG-17027873078.png"/>
 
-**![](../books_images/U-IMG-1700131236Screenshot2023-11-08121345.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1700131236Screenshot2023-11-08121345.png"/>**
 
 प्रतारणाविनाकृतं समादरेण संयुतम्।  
 सुधर्मशास्त्रवेदिनां वचो हि सान्त्ववादनम् \।\।१\।\।
@@ -758,11 +762,11 @@ Madura College, Madura.
 
 इति दशमं कुसुमम्॥
 
-![](../books_images/U-IMG-1700201872Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1700201872Screenshot2023-11-08121345.png"/>
 
 **11.செய்ந்நன்றியறிதல் परोपकारप्रशंसा॥**
 
-![](../books_images/U-IMG-1700203207Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1700203207Screenshot2023-11-08121345.png"/>
 
 पुरोपकारमन्तरा परस्य या ह्युपक्रिया।  
 प्रतिक्रियां न सार्हति क्षमादिवोः समर्पणम्॥१॥
@@ -818,9 +822,9 @@ Madura College, Madura.
 
 इत्येकादशं कुसुमम्॥
 
-![](../books_images/U-IMG-1700314407Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1700314407Screenshot2023-11-08121345.png"/>
 
-![](../books_images/U-IMG-17027876399.png)
+<MISSING_FIG href="../books_images/U-IMG-17027876399.png"/>
 
 महत्सु वा द्विषत्सु वा कदाप्यवीक्षितेषु वा।  
 समानमेव वर्तनं सतां हि कीर्तिवर्धनम्॥१॥
@@ -862,6 +866,8 @@ Madura College, Madura.
 तुलान्तरालशूकवत् द्वयोः समां धुरं वहन्।  
 ऋजुर्यदा भवेत् पुमानपक्षपातभूषणः॥८॥
 
+ 
+
 तुलान्तरालशूकवत्।घटामध्यभागगतकण्टकशब्दितनाराचवत्तादृशशूकमिव। द्वयोः, पक्षयोः अंसयोश्च। समां धुरं, तुल्यपरिमाणभारं।रागद्वेषादिरहिततया पक्षद्वयेऽपि सम्भावितसाध्वसाधुभावग्रहणनिराकारादिरूप-सम्यदिवृक्षितकार्यभारं तुल्यं वहन् पुमान् ऋजुः। एकनरपक्षपतनरहिततया समानःउपरिगतकण्टकेन तुल्यस्थान ........ यदाभवेत् ॥संभावनायां लिङ्। तदाऽपक्षपातभूषणः। पक्षपाताभावरूपमहागुणशोभी भवतीत्यभिप्रायः॥ ॥८॥
 
 मनोगतार्जवान्वितं दृढं वचस्यवस्थितम्।  
@@ -877,11 +883,11 @@ Madura College, Madura.
 
 इति द्वादशं कुसुमम् ॥
 
-![](../books_images/U-IMG-1700324992Screenshot2023-11-08121345.png)
+<MISSING_FIG href="../books_images/U-IMG-1700324992Screenshot2023-11-08121345.png"/>
 
-![](../books_images/U-IMG-170278780510.png)
+<MISSING_FIG href="../books_images/U-IMG-170278780510.png"/>
 
-**![](../books_images/U-IMG-1700325019Screenshot2023-11-08121345.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1700325019Screenshot2023-11-08121345.png"/>**
 
 मनोवचःकलेबरं शमं नयन् दिवं व्रजेत्।  
 यथागतं प्रवर्तयन् महातमोऽवगाहते॥१॥
@@ -940,7 +946,7 @@ Madura College, Madura.
 
 इति त्रयोदशं कुसुमम्॥
 
-![](../books_images/U-IMG-170278794384.png)
+<MISSING_FIG href="../books_images/U-IMG-170278794384.png"/>
 
 **14.ஒழுக்கமுடைமை सुशीलम्॥**
 
@@ -1160,6 +1166,7 @@ Madura College, Madura.
 
 அறத்தா றிதுவென வேண்டா சிவிகை  
 பொறுத்தானோ டூர்ந்தா னிடை.                       
+ 
 
 \(7\)
 

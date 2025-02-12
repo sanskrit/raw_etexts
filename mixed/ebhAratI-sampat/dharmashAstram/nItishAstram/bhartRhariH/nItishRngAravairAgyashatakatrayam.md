@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NjM4MjMzNDQ
 
 नीतिशतकं प्रारभ्यते।
 
-![](../books_images/U-IMG-1697693118Screenshot2023-10-19105451.png)
+<MISSING_FIG href="../books_images/U-IMG-1697693118Screenshot2023-10-19105451.png"/>
 
 ॥श्रीगणेशाय नमः॥
 
@@ -33,6 +33,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NjM4MjMzNDQ
 स्वानुभूत्येकसाराय नमः श
 
 न्ताय तेजसे ॥१॥
+
+ 
 
 (संस्कृतटीका) ॥ विघ्नेशं विघ्नहर्तारं गणराजं नमाम्यहम्॥ शारदां बरदांनौमि जाड्यापनुत्तये तथा ॥१॥ श्रीगोपालं नमस्कृत्य नत्वा गुरुपरंपराम्। भर्तृहरिकृतो ग्रन्थतस्य व्याख्यां करोम्यहम्॥ ॥२॥ दिगिति॥ दशदिशासु तथा भूतभविष्यद्वर्तमानत्रिकालेषु च अनवच्छिन्नः अत एव अनन्तः अन्तो नास्ति चिन्मात्रमेव ज्ञानं मूर्ति;स्वरूपं यस्य तथा स्वानुभूतिः स्वस्यानुभवः स एव सारांशो यस्य एतादृशं शान्तं यत्तेजो ब्रह्मरूपं तस्मै नमः। ग्रन्थादौ ग्रन्थमध्ये ग्रन्थान्ते मङ्गलमाचरणीयमिति शिष्टा
 
@@ -1092,15 +1094,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NjM4MjMzNDQ
 
 इति भर्तृहरिविरचितं नीतिशतकं समाप्तम् ।
 
-![](../books_images/U-IMG-1698851552kkk.png)
+<MISSING_FIG href="../books_images/U-IMG-1698851552kkk.png"/>
 
- ![](../books_images/U-IMG-1698851284ककक.png)![](#)
+ <MISSING_FIG href="../books_images/U-IMG-1698851284ककक.png"/><MISSING_FIG href="#"/>
 
 **भर्तृहरिविरचितम् ।**
 
 **शृङ्गारशतकं प्रारभ्यते ॥**
 
-![](../books_images/U-IMG-1698852280jjjj.png)
+<MISSING_FIG href="../books_images/U-IMG-1698852280jjjj.png"/>
 
 **शम्भुस्वयम्भुहरयो हरिणेक्षणानाम्  
 येनाक्रियन्त सततं गृहकर्मदासाः।  
@@ -1693,8 +1695,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NjM4MjMzNDQ
 र्णोमृतमयकपालार्पितगलः[^6]")  
 शुनीम
 
-[^6]: "पीवरकेति पाठान्तरम्‌ ( एतच्चिन्तम्
-
 न्वेति श्वा हतमपि निहन्त्येव मद
 
 नः ॥६३॥
@@ -2118,7 +2118,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NjM4MjMzNDQ
 
 **वैराग्यशतकम्**  
 
-**![](../books_images/U-IMG-1700460322Screenshot2023-11-20113510.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1700460322Screenshot2023-11-20113510.png"/>**
 
 दिक्कालाद्यनवच्छिन्नाऽनन्तचिन्मात्रमूर्त्तय।  
 स्वानुभूत्येकमानाय नमःशान्ताय तेजसे ॥१॥
@@ -2204,6 +2204,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ3NjM4MjMzNDQ
 व्यापारैर्बहुकार्यभारगुरुभिःकालो न विज्ञायते ।  
 दृष्ट्रा जन्मजराविपत्तिमरणं त्रासश्च नोत्पद्यते  
 पीत्वा मोहमयीं प्रमादमदिरामुन्मत्तभूतं जगत् ॥७॥**
+
+ 
 
 **(सं० टी०) गमनागमनं कुर्वन् रविर्हरति जीवितम् ॥**
 

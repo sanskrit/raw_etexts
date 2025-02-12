@@ -56,7 +56,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjM
 **॥ श्रीः ॥**  
 **कतिपयेषां पारिभाषिकशब्दानां समूच्यर्थनिरूपणम् ।**
 
-**![](../books_images/U-IMG-1709610923Screenshot(43).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1709610923Screenshot(43"/>.png)**
 
 |            |               |                                                                  |
 |------------|---------------|------------------------------------------------------------------|
@@ -69,7 +69,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjM
 
 .
 
-![](../books_images/U-IMG-1709610743Screenshot(42).png)
+<MISSING_FIG href="../books_images/U-IMG-1709610743Screenshot(42"/>.png)
 
 **॥ श्रीः ॥**  
 **विपयसूची.**
@@ -105,7 +105,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjM
 | २२ ग्रन्थप्रमाणपरिसंख्यानं, तस्य च लोकोपकारित्वं प्रदर्श्य तत्समाप्तिसूचनम्                                                                                                                                                      |
 | २३ ग्रन्थकर्तुः सामान्य परिचयः                                                                                                                                                                                                   |
 
-![](../books_images/U-IMG-1709611574Screenshot(44).png)
+<MISSING_FIG href="../books_images/U-IMG-1709611574Screenshot(44"/>.png)
 
 ॥ श्रीः ॥  
 **आपदेवापरपर्यायसदाशिवदेवविरचिता**  
@@ -113,7 +113,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjM
 
 **नारायणदेवकृतया वृत्त्या सहिता**
 
-![](../books_images/U-IMG-1709537418Untitled4_र्थ_मार्च-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1709537418Untitled4_र्थ_मार्च-removebg-preview.png"/>
 
 **नागेश्वरं गुरुं नत्वा देवनारायणः सुधीः।  
 सापिण्ड्यकल्पलतिकां व्याचष्टे प्राक्तनोदिताम्॥ १॥**
@@ -226,8 +226,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjM
 **प्रस्तारः स्यात्सर्वकस्तावदेवम्॥ ३॥**
 
   षट्पावाद्यादिति। षट् पवोगुरवः पुत्राश्च प्रमाणं यस्येति तद्धितार्थे द्विगुः। मात्रचो 'द्विगोर्नित्य'मिति लुक्। बहुव्रीहिर्वा। सर्वथा समूहो वाच्यः। षट्त्वं च मूलपुरुषं विहाय बोध्यम् ।सापिण्ड्यस्य साप्तपौरुषत्वात्। अत एव षडक्षरप्रस्तारस्यैवोपयोग इति षट्पावित्येवोक्तम्। षट्पुस्तस्मिन् उपरितनपंक्तौ लिखिते सति आद्यात्प्रथमात् पोर्गुरोः पुत्राच्चाऽधस्तादधोभागेऽधस्तनपंक्तौकं लघुं कन्यां च लिखेत्। यद्वत् यथा उपरिष्टादुपरितनपंक्तौ तथैव। एवो वैलक्षण्यव्यवच्छेदाय। अधस्तादित्यस्य मध्यमणिन्यायेनाऽत्रापि सम्बन्धः। अधस्तनपंक्तौ च व्युत्क्रमे शेषं वाऽवशिष्टं प्वादिकम्।लिखेदित्यस्यानुषङ्गः। यत्रोपरि पुस्तत्राधोऽपि पुः, यत्रोपरि कस्तत्राऽधोपि कः कार्य इत्यर्थः। नन्वेवमपि तृतीयमेदादौ क्वचिदाद्यादिस्थानस्य शून्यत्वात्तत्र किं लेख्यमत आहऊने इति। अत्र प्रस्तारे ऊने न्यूने शून्ये स्थाने पूनेवपुश्च[^3] पू च पत्रश्चेत्येकशेषेण बहुवचनं सर्वलक्ष्यव्यक्त्यभिप्रायेण । एवमग्रेऽपि दद्यात्। नैतावदेवेत्यांह भूय इति। अनुं प्रकारं भूयो वारंवारं कुर्यात्। अवधिं सूचयन्नुपसंहरति प्रस्तार इति। यावत् सर्वकः सर्वलघुः सर्वकन्यस्तावदेवमुक्तप्रकारेण प्रस्तारः स्यात्। प्रस्तार्यन्ते विस्तार्यन्ते पुत्रकन्यारूपतया सविण्डा अनेनेतिप्रस्तारः। अस्योदाहरणं यथा। अत्र कोष्ठन्यासो बोध्यः।
-
-[^3]: "पूश्च पूश्च प्वश्च - इति सर्वत्र पाठः।"
 
 **मगणः प्रथमः १**
 
@@ -814,17 +812,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjM
 देवेन विरचिता सापिण्ड्य कल्पलतिका  
 समाप्तिमगमत्।
 
-![](../books_images/U-IMG-17096251765th_february-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-17096251765th_february-removebg-preview.png"/>
 
 इति श्रीमद्रामकृष्णदेवसूरिसूनुश्रीमन्नारायणदेव विरचिता सापिण्ड्यकल्पलतावृत्तिः समाप्त।
 
-![](../books_images/U-IMG-17096252415थफेव्रुयारी-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-17096252415थफेव्रुयारी-removebg-preview.png"/>
 
 **॥ श्रोः ॥**
 
 **सापिण्ड्य कल्पलतिकायाः पद्यानामकारानुक्रमणिका।**
 
-**![](../books_images/U-IMG-170962674315फेव्रुयारी-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-170962674315फेव्रुयारी-removebg-preview.png"/>**
 
 |                       |
 |:---------------------:|
@@ -856,14 +854,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjM
 |    समानि शुद्धा ०     |
 |      सापत्नमातुः      |
 
-![](../books_images/U-IMG-1709884747Screenshot(46).png)
+<MISSING_FIG href="../books_images/U-IMG-1709884747Screenshot(46"/>.png)
 
 **॥ श्रीः ॥**
 
 **टीकायां स्थितानां पद्यानां पद्यांशानां च  
 अकाराद्यनुक्रमणिका ।**
 
-![](../books_images/U-IMG-1709628408कौ-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1709628408कौ-removebg-preview.png"/>
 
 |                            |
 |----------------------------|
@@ -900,14 +898,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjM
 | स्वगोत्राद् भ्रश्यते नारी  |
 | स्वगोत्रेण कृता ये स्युः   |
 
-![](../books_images/U-IMG-170962810115फेव्रुयारी-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-170962810115फेव्रुयारी-removebg-preview.png"/>
 
 **॥ श्रीः ॥**
 
 **ग्रन्थान्तर्गतानां ग्रन्थानां ग्रन्थकर्तॄणां च वर्णानुक्रम-**
 
 **सूचीपत्रम् ।  
-![](../books_images/U-IMG-1709885316Screenshot(47).png)**
+<MISSING_FIG href="../books_images/U-IMG-1709885316Screenshot(47"/>.png)**
 
 |                                                  |
 |--------------------------------------------------|
@@ -966,7 +964,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjM
 
 .
 
-![](../books_images/U-IMG-1709885802Screenshot(48).png)
+<MISSING_FIG href="../books_images/U-IMG-1709885802Screenshot(48"/>.png)
 
 **॥ श्रीः ॥**
 
@@ -1019,7 +1017,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDczMzQ3NTkxNjM
 
 .
 
-![](../books_images/U-IMG-1709886047Screenshot(48).png)
+<MISSING_FIG href="../books_images/U-IMG-1709886047Screenshot(48"/>.png)
 
 **THE PRINCESS OF WALES SARASVATI**
 

@@ -457,9 +457,9 @@ LAKṢMĪDHARA AND THE KṚTYA-KALPATARU
 
 as well as its critical acumen may be illustrated. Thus, in discussing the value of his authorities, Mitra Miśra (*Vīramitrodaya, Paribhāṣā-prākāsa*) justifies his recognition of a *Smṛtisangraha* on the ground that it had been accepted (*parigrhītam*) by the *Kalpataru*. It is curious that the work in question does not appear to be quoted anywhere in the *Kalpataru*. That, however, is immaterial to the argument; it was sufficient for Hindu legists to be told that the *Kalpataru* had admitted the authority. Such a declaration would have shut the mouth of possible objectors. Any reading accepted by Lakṣmīdhara, even if opposed to the texts available to later commentators and digestmakers, was never rejected. It was either accepted or explained Laksmīdhara's skill lay in selecting the necessary texts and stringing them together. He interpolates a rare comment or interpretation. So much value was attached to his selective capacity and his occasional elucidation of a word or a passage here and there, that later writers invariably reproduced his citations as well as his annotations without altering a syllable. Finality was held to attach to whatever he had written.[^56]
 
-ITS PLAN
-
 [^56]: "This is his own claim  एकार्थेष्वेकमेकं, क्वश्चिदपरमपि स्वीकृतं, कार्ययोगात्,  न्यस्तं विज्ञानमूलं, प्रचरदपि परित्यक्तमज्ञानमूलम् ।  शिष्टैस्सम्यग्गृहीतं वचनमभिहितं, स्पष्टितं चाऽस्फुटार्थं  यत्राऽपरो विरोधः स्फुरति विरचिता तेन तत्र व्यवस्था ॥"
+
+ITS PLAN
 
  In *two* other respects also the *Kalpataru* is unique. Firstly, it is distinguished by having been written in accordance with a well-conceived and logical plan. A digest must be true to the underlying principles of Hindu life. A cursory reading of even a comprehensive *smṛti* like that of Manu or Yājňavalkya will fail to disclose the background of Hindu life. Laksmīdhara so planned his *Nibandha* that it followed the natural sequence of life, in its different stages and activities, as laid down in the *S'astras*. To a Hindu, life commences with conception and marches through the prescribed four stages or asramas to the final release (*Moksa*), which crowns a life properly lived. The *Kalpataru* is
 
@@ -487,9 +487,9 @@ accordingly divided into *fourteen* books or *kāṇḍas*, and each book is div
 
  9. *Vrata-kāṇḍa* dealing with the performances of the periodical *vratas*.[^58]
 
- 10. *S'uddhi-kāṇḍa* on purification.
-
 [^58]: "M M Chakravarti, op cit, p 359 wrote. ''In the Malamāsa and Prayasccitta tattvas, Raghunandana quotes a Prayasccitta-kanḍa-kalpatāru That Lakṣmīdhara wrote on Prāyasccitta is clear from the Prayas'ccittaviveka of s'ūlapāṇi ''But, I discovered Vrata-kaṇḍa at Nagpur, which fills the gap The Asiatic Society in Calcutta has a fragment of a Prāyas'citta-Kalpataru"
+
+ 10. *S'uddhi-kāṇḍa* on purification.
 
  11. *Rājadharma-kānda* dealing with the specific obligations of princes.
 
@@ -499,9 +499,9 @@ accordingly divided into *fourteen* books or *kāṇḍas*, and each book is div
 
  14.*Mokṣa-kāṇḍa* dealing with the steps necessary for salvation.[^59]
 
- Of the three debts (ṛnatraya) with which man is born and which he has to discharge in this life, the means of discharging
-
 [^59]: "Only one other digest, viz, the Vīramıtrodaya deals with Mokṣa."
+
+ Of the three debts (ṛnatraya) with which man is born and which he has to discharge in this life, the means of discharging
 
 LAKṢMĪDHARA AND THE KṚTYA-KALPATARU
 
@@ -585,9 +585,9 @@ LAKṢMĪDHARA AND THE KṚTYA-KALPATARU
 
 भार्या पुत्रवती धर्म्या ज्ञातयः परिकीर्तिताः ॥[^71]
 
-इति वादिभयङ्करे बृहस्पतिवचनात् ॥
-
 [^71]: "Op cit, p 290, notes 640 and 641 It appears to me that Vādibhayamkara is the name of a work, rather than of an author, as assumed by Mr Kane"
+
+इति वादिभयङ्करे बृहस्पतिवचनात् ॥
 
  In *Vīramitrodaya*, Vyavahārakānda, Vādıbhayamkara is described as a work by a follower (*anuyāyī*) of Vijñānesvara, who exposed an apparent inconsistency in his master, in explaining a verse of *Yajñāvalkyasmrtı* (II, 51). The passage runs thus:
 
@@ -597,9 +597,9 @@ LAKṢMĪDHARA AND THE KṚTYA-KALPATARU
 
 पूर्वापरविरोधेऽपि नाऽनुसन्धानमद्भुतम् ॥[^72]
 
-This passage is wanting in the Udaipur MS., which is the *oldest* used, while it occurs in the rest.
-
 [^72]: "Viramitrodaya, Vyavahāraprakās'a Ed. Jibānanda 1875, p 350"
+
+This passage is wanting in the Udaipur MS., which is the *oldest* used, while it occurs in the rest.
 
 AUTHENTICITY OF THE PASSAGES EXAMINED.
 
@@ -749,9 +749,9 @@ THE DĀNA KĀṆḌA
 
  'He becomes the slave of the King. He cannot be emancipated (*na tasya mokṣosti*) being a slave for life'.[^87]
 
- The rule implies that a Brāhmana *can* be the slave of a king, who will normally belong the *ksatriya* caste and who can be of even a lower caste. If such a degradation of status of a Brāhmana occurs, it would be opposed to another rule of law that the relation of master and slave can exist only between those of equal caste (*varṇa*) or in the order of the castes (*anulomatah*), the master being of the higher and the slave of the lower caste. The reverse order is prohibited.
-
 [^87]: "Ed Jolly, Bibliotheca Indica, 1886, p 148  राज्ञां एवं तु दासस्यात् प्रव्रज्यावसितो नरः ।  न तस्य विप्रमोक्षोऽस्ति न विशुद्धिः कदाचन ॥"
+
+ The rule implies that a Brāhmana *can* be the slave of a king, who will normally belong the *ksatriya* caste and who can be of even a lower caste. If such a degradation of status of a Brāhmana occurs, it would be opposed to another rule of law that the relation of master and slave can exist only between those of equal caste (*varṇa*) or in the order of the castes (*anulomatah*), the master being of the higher and the slave of the lower caste. The reverse order is prohibited.
 
 वर्णानामानुलोम्येन दास्यं न प्रतिलोमत[^88] ।
 
@@ -769,9 +769,9 @@ LAKṢMĪDHARA AND THE KṚTYA-KALPATARU
 
 owner of a slave, who had forfeited his liberty by abandoning his *dharma* as an ascetic :[^89]
 
-स्वधर्मत्यागिनःपुनः परिव्राजकस्य प्रातिलोम्येन दासत्वमिप्यत एव ।
-
 [^89]: "Comment on Yājñāvalkya, II, 183"
+
+स्वधर्मत्यागिनःपुनः परिव्राजकस्य प्रातिलोम्येन दासत्वमिप्यत एव ।
 
  Accordingly, Vijñānesvara's view is that a Brāhmaṇa ascetic, who renounces his *Sanyāsa*, becomes for life the slave of one inferior to him in caste. But, the passage in the *Kalpataru*, which is brought up as containing a reference to Vijñānes'vara's view, definitely ascribes to him, as his characteristic opinion (*svarasaḥ*), the conclusion that the rule for Ksatriyas, Vais'yas and S'ūdras is that they *cannot* put a Brāhmana in the position of a slave to do a slave's work.[^90].")
 
@@ -807,9 +807,9 @@ LAKṢMĪDHARA AND THE KṚTYA-KALPATARU
 
 and sixth verses in the conclusion of the *Mitākṣarā*, which are indubitably by Vijñānes'vara himself, makes these claims : "There is and there will never be on the earth, a city equal to Kalyāna (Vikramāditya's capital). No king who could be compared to Vikramārka has ever been seen or head of. The learned Vijñānes'vara cannot submit to be compared to the slightest extent with a rival. May these three, who are comparable to the *Kalpavṛksa* (the immortal wish-yielding tree), last (live) till the end of the present cycle of time (kalpa). . . . From the causeway of the ornament of the race of Raghu, which is massed fame (*i.c*., "Rāma's Bridge ") to the monarch of the mountains (*ic*., the Himālayas), and from the western ocean, whose waves are raised by the gambols of shoals of fishes, to the eastern ocean (*i.c.*, from the Indian Ocean to the Bay of Bengal), may Vikramādityadeva, whose feet are resplendent from the lustre of the gems on the diadems of prostrating hings, protect the entire world so long as the Moon and the Stars endure."[^93]
 
-IMPLICATIONS OF VIJÑĀESVARA'S PANEGYRIC
-
 [^93]: "नासीदस्ति भविष्यति क्षितितले कल्याणकल्प पुरं  नो दृष्टः श्रुत एव क्षितिपतिः श्रीविक्रमार्कोपमः ।  विज्ञानेश्वरपण्डितो न भजते किं चान्यदन्योपम-  श्चाकल्पं स्थिरमस्तु कल्पलतिकाकल्पं तदेतत्रयम् ॥  आसेतोः कीर्तिराशे रघुकुलतिलकस्या च शैलाघिराजात्  आ च प्रत्यक् पयोधेः चटुलतिमिकुलोत्तुङ्गरिङ्गत्तरङ्गात् ।  आ च प्राचीसमुद्रान्नतनृपतिशिरोरत्नभाभासुरांघ्रिः  पायादाचन्द्रतारं जगदिदमखिल विक्रमादित्यदेवः ॥"
+
+IMPLICATIONS OF VIJÑĀESVARA'S PANEGYRIC
 
  The panegyric is as usual couched in somewhat exaggerated terms, but the skill of the author is shown in bringing into it innuendoes and references to facts or claims which a contemporary would readily detect. Thus, the words referring to the western ocean, as one of the limits of Vikramāditya's dominion, contain a concealed reference to his great contemporary and enemy, *Kulottunga Cola*, which has not till now caught the attention of scholars. The words "cațulatimi-*Kulottungaringattarangāt* "
 
@@ -817,7 +817,7 @@ continued in the descriptions of his successors Later on the same title is taken
 
 THE DĀNA KĀṆḌA
 
-which qualify in the more obvious sense 'the western ocean with waves raised by the gambols of shoals of giant fishes,' may be taken as qualifying the eastern ocean' in the concealed sensc of "the unsteady movements of the struggling whale of a *Kulottunga*." The spiteful statement may have been put in for the special delectation of Vikramāditya, even as even more spiteful allusions to Kulottunga, under a corrupt form of his earlier title, Rājendra,[^94](Rājīga) occur frequently in the poem (*Vikramānkadevacarita*) in which Bilhana lauded the life and achievements of Vikramāditya VI. Bilhana refers to Kulottunga specifically as "the family foe" of Vikramāditya. The careers of the two kings should have, by their remarkable parallelism, intensified the bitterness of their rivalry. Both came to their imperial heritage by what Bilhana calls "the concurrence of fortune," at almost the threshold of middle age. Both ruled for half-a-century. The Vengi country, forming the area between the mouths or deltas of the Kṛsnă and Godavarīrivers, was one of the bones of contention. The tract was originally a part of the Cālukya empire in the seventh century, and became independent under a younger branch of the original Cālukya line (the ''Eastern'' Cālukyas). Vikramāditya belonged to the later Cālukya line, whose kinship with the older line was hypothetical, while Kulottunga was by descent a scion of both the older Cālukya line (through the Eastern Cālukyas of Vengi) and of the Colas. Before he became the Cola emperor in 1070, he had fought, in A. D. 1067, Vikramāditya, who was then the favourite of his father Somes'vara I, the founder of Kalyāna, and obtained from his admirers the title *Virudarāja-bhayamkara*, ‘ the terror of Virudarāja or Vikramāditya.[^95]. See Nilakantha S'āstri, Colas, II, 1937, p. 5")The Cālukya had almost recovered Vengi, when the news of his father's death and the accession of his elder brother and enemy, Somesvara II made
+which qualify in the more obvious sense 'the western ocean with waves raised by the gambols of shoals of giant fishes,' may be taken as qualifying the eastern ocean' in the concealed sensc of "the unsteady movements of the struggling whale of a *Kulottunga*." The spiteful statement may have been put in for the special delectation of Vikramāditya, even as even more spiteful allusions to Kulottunga, under a corrupt form of his earlier title, Rājendra,[^94] (Rājīga) occur frequently in the poem (*Vikramānkadevacarita*) in which Bilhana lauded the life and achievements of Vikramāditya VI. Bilhana refers to Kulottunga specifically as "the family foe" of Vikramāditya. The careers of the two kings should have, by their remarkable parallelism, intensified the bitterness of their rivalry. Both came to their imperial heritage by what Bilhana calls "the concurrence of fortune," at almost the threshold of middle age. Both ruled for half-a-century. The Vengi country, forming the area between the mouths or deltas of the Kṛsnă and Godavarīrivers, was one of the bones of contention. The tract was originally a part of the Cālukya empire in the seventh century, and became independent under a younger branch of the original Cālukya line (the ''Eastern'' Cālukyas). Vikramāditya belonged to the later Cālukya line, whose kinship with the older line was hypothetical, while Kulottunga was by descent a scion of both the older Cālukya line (through the Eastern Cālukyas of Vengi) and of the Colas. Before he became the Cola emperor in 1070, he had fought, in A. D. 1067, Vikramāditya, who was then the favourite of his father Somes'vara I, the founder of Kalyāna, and obtained from his admirers the title *Virudarāja-bhayamkara*, ‘ the terror of Virudarāja or Vikramāditya.[^95]. See Nilakantha S'āstri, Colas, II, 1937, p. 5")The Cālukya had almost recovered Vengi, when the news of his father's death and the accession of his elder brother and enemy, Somesvara II made
 
 [^94]: "Canto VI, s'lokas 26 and 27  अथ कतिषुचिदेव दैवयोगात् परिगलितेषु दिनेषु चोलसुनोः ।  श्रियमहरत राजिगाभिधानः प्रकृतिविरोधहतस्य चेङ्गिनाथः ॥  कुटिलमतिरसासौ विशङ्कमानः पुनरमुमेव पराभवप्रगल्भम् ।  प्रगुणमपकृतपृष्टकोपहेतोः प्रकृतिविरोधिनमस्य सोमदेवम् ॥"
 
@@ -849,9 +849,9 @@ DATE OF THE MITĀKSARĀ
 
  Considered in this way, the date of the *Mitāksarā* must be about A. D. 1120, *i.e*., twenty years later than the *latest* limit assigned by Mr. Kane to its composition and fifty years later than his upper limit for Vijñānesvara. A considerable part of the Digest of Laksmīdhara must, on the date given below, have been composed before this date That is to say, the Digest should have been written *early* in the reign of Govindacandra, while the commentary (*i.e*., the *Mitāksarā*) should have been composed towards the end of the long reign of Vikramāditya. This is borne out by the tenor of Vijñanes'vara's panegyric which seems to refer to what has been accomplished rather than to glories to come.[^103]
 
-GOVINDACANDRA'S VICTORILS
-
 [^103]: "The panegyric begins with the words "
+
+GOVINDACANDRA'S VICTORILS
 
  To turn to the wish that that the Cālukya king should rule *from* *the Himālayas* to Rameswaram, we must treat it as a pious aspiration if we remember the rapid expansion of the power and dominions of the Gāhadvāla dynasty of Kānauj in spite of the ever present fear of Musalman invasion and conquest.[^104]In the Rāhan plate of A. D. 1106, the Yuvarāja Govindacandra records
 
@@ -1351,9 +1351,9 @@ Let every man besides be their protection, and let afflictions fall upon the nig
 
 R.V., X, 107 is a long paean of praise of liberality. It says with emphasis :[^137]
 
-8\. The liberal die not, never are they ruined; the liberal suffer neither harm or trouble.
-
 [^137]: "न भोजा मम्रुर्न न्यर्थमीयुर्न रिष्यन्ति न व्यथन्ते ह भोजाः । इदं यद्विश्वं भुवन स्वश्चैतत्सर्वं दक्षिणैभ्यो ददाति ॥ ८ ॥ भोजा जिग्युः सुरभिं योनिमग्रेभोजा जिग्युर्वध्वं १ या सुवासाः ॥ भोजा जिग्युरन्तः पेयं सुराय ।भोजा जिग्युर्ये अहूताः प्रयन्ति ॥ ९ ॥ भोजमश्वासुष्टुवाहो वहन्ति सुदृद्रयो वर्तते दक्षिणायाः । भोजं देवासोऽवता भरेषु भोजः शत्रून्त्समनी केषु जेता ॥ ११ ॥"
+
+8\. The liberal die not, never are they ruined; the liberal suffer neither harm or trouble.
 
 9\. The light of heaven, the universe about us—all this does sacrificial guerdon ( *daksiṇā*) give them.
 
@@ -1373,10 +1373,10 @@ THE DĀNA KĀṆḌA
 
 3.  Bounteous is he who gives unto the beggar, who comes to him in want of food and feeble. Success attends him in the shout of battle. He makes afriend of him in future troubles.[^138]
 
+[^138]: "न वा उ देवाः क्षुधमिद्वधं ददुरुताशितमुपगच्छन्ति मृत्यवः ।  उतो रयिः पृणतो नोप दस्यत्युताष्टणन्मर्डितारं न विन्दते ॥  य आध्राय चकमानाय पित्वो ऽन्नवान्त्सनफितायो पजग्मुषे ।  स्थिरं मनः कृणुते सेवते पुरीतो चित्स मडितारं न विन्दते ॥  स इन्द्रोजो यो गृहवे ददात्यन्नकामाय चरिते कृशाय ।  अरमस्यै भवति यामहूता उतापरीषु कृणुते सरवायम् ॥  न सखा यो न ददाति सरव्ये स चाभुवे स चमानायपित्वः ।  आपस्यालोयान्नतदोको अस्ति पृणन्तमन्यमरणं चिदिच्छेन् ॥"
+
  The praise of liberality is of the gifts of sacrificial fee or *dakṣiṇā*. The fee took not only the form of gold, but more usually was in the form articles of personal property such as kine, horses, buffaloes, or camels, ornaments etc. Land is not mentioned as a *dakṣinā*except with disapproval (*S'atapathaBrāhmaṇa* XII, vii, 1, 15).[^139]The rule that when no article is specified for the fee, the cow is meant ( *Kātyāyana-S'rautaSūtra,* xv, 2, 13 )[^140]
 indicates that the old fee was a cow. As *dakṣinā*means ''prolific," a word which aptly describes the cow, the term came to apply generally to fee or guerdon. No sacrifice was complete without a *daksinā*, and the number of fees or occasions for their payment in a sacrifice is specified *e.g.*, 33 in a *Sautrāmaṇi*. The *S'atapatha–Brāhmana*[^141]")(II, 2, 2) derives the term from *dakṣaya*, 'to invigorate', and points out that the fee invigorates the gods by being paid to the priest. The glory of the sacrifice is the gift; the priest should not therefore give it
-
-[^138]: "न वा उ देवाः क्षुधमिद्वधं ददुरुताशितमुपगच्छन्ति मृत्यवः ।  उतो रयिः पृणतो नोप दस्यत्युताष्टणन्मर्डितारं न विन्दते ॥  य आध्राय चकमानाय पित्वो ऽन्नवान्त्सनफितायो पजग्मुषे ।  स्थिरं मनः कृणुते सेवते पुरीतो चित्स मडितारं न विन्दते ॥  स इन्द्रोजो यो गृहवे ददात्यन्नकामाय चरिते कृशाय ।  अरमस्यै भवति यामहूता उतापरीषु कृणुते सरवायम् ॥  न सखा यो न ददाति सरव्ये स चाभुवे स चमानायपित्वः ।  आपस्यालोयान्नतदोको अस्ति पृणन्तमन्यमरणं चिदिच्छेन् ॥"
 
 [^139]: "तꣲ ह कश्यपो याज्ञयां चकरा । तदपि भूमिः श्लोकं जगौ 'न मा मर्त्यः कश्चन दातुमर्हति विश्वकर्मम्भौवन मन्द आसिथ उपसंक्ष्यति स्या सलिलस्य मध्ये मृषेष ते संगरः कश्यपायेति ॥ od. A. Weber, 1855, p 1002"
 
@@ -1613,17 +1613,17 @@ physical acts. The formerconsists, as pointed out by Medhātithi (*Manu*, IV, 5)
 
  A verse of the *Agnipurāna* is quoted by Govindānanda for instance, which extols the limitless reach of a *dāna* by describing how, after mentally deciding upon a recipient of a gift, the giver can complete the gift, by pouring water (as a mark of renunciation of ownership) on the ground; but it is explained away by pointing out that if by any chance the intended donee does not get possession of the thing, the *dāna* has not fructified, by being left incomplete. The verse is cited in a slightly different form by Nīlakanṭha, so as to convey the same sense of incompleteness, only so far as the donee is concerned: "If a donor, after determining mentally the person to whom the gift is made, pours water on water, then he obtains the fruit of the action, while the (intended) donee does not acquire the sin of acceptance."[^170]
 
- A third condition of a correct *pratigraha* is that in the formula with which the donation is made the name of the particular deity to whom the object donated is sacred must be mentioned. The recital of the deity's name corresponds to the indication of the name of the *ṛṣi* and *chandas* in the formula preceding the repetition of a Vedic *mantra.* When, specific results, besides the unseen benefit (*adṛṣta-phala*), are indicated in s'āstras for any gifts validly made, the specification of such
-
 [^170]: "Dānamayūkka, p 2"
+
+ A third condition of a correct *pratigraha* is that in the formula with which the donation is made the name of the particular deity to whom the object donated is sacred must be mentioned. The recital of the deity's name corresponds to the indication of the name of the *ṛṣi* and *chandas* in the formula preceding the repetition of a Vedic *mantra.* When, specific results, besides the unseen benefit (*adṛṣta-phala*), are indicated in s'āstras for any gifts validly made, the specification of such
 
 INTRODUCTION
 
 aims is an ingredient of the formula of donation. Other details of the actual ceremony of *dāna* are laid down and are to be regarded as essential to validity of a gift; *e.g*., the presentation of a *dakṣiṇā* to the donee, seating the donee so as to make him face west, the donor facing east, except for *kanyādāna*, for which the donee is seated facing east. The *dravyadevatas* are named, following a purāṇa (*e.g.,* *Viṣnudharmottara*) in the later works on *dāna* like *Dānamayūkha* (pp. 11, 13). *Dānakriyā-kaumudī* (pp. 5-7).[^171]
 
- *Dāna* is a religious act. It has to be done with scrupulous regard to the procedure prescribed, not only for all *dānas*, but the procedure indicated for individual *dānas*. The donor is assisted by a *purohita*, learned in the procedure, and will not therefore ordinarily go wrong. The recipient has an obligation not less onerous, and in fact more onerous. Fault in procedure will, from the standpoint of the giver only make him lose the expected benefit. But a defect in procedure will be serious to the donee (*pratigrahī*), since every *dāna* carries with it a load of demerit, which will be intensified by errors in procedure, such as the omission of the correct *mantras,* or use of wrong *mantras*, or omission of some formule. Such results may be calamitous to the donee.[^172]This is why *Manusmṛti* (IV, 187) contains this warning: "Without a correct knowledge of the rules prescribed by the sacred law for the acceptance of gifts, a wise man should not accept anything, even if he is pining (at the time) with hunger."[^173]The recipient of a gift must firstly possess the learning and spirituality, when will enable him to get over the bad effects of the acceptance of a *dāna,* and secondly, he must perform the penances (*prāys'citta*) enjoined for the acceptance of gifts generally and specifically. This why, according to Manu (IV, 191) "an ignorant person should be afraid of accepting any presents; for by reason of (even) a very small (gift, which he accepts), he, as a fool, sinks into hell, as a cow sinks into a morass."[^174]Manu indicates the evils which will follow acceptance of particular gifts, without either the capacity to merit them and
-
 [^171]: "See also Vīramıtrodaya, fol 154-155"
+
+ *Dāna* is a religious act. It has to be done with scrupulous regard to the procedure prescribed, not only for all *dānas*, but the procedure indicated for individual *dānas*. The donor is assisted by a *purohita*, learned in the procedure, and will not therefore ordinarily go wrong. The recipient has an obligation not less onerous, and in fact more onerous. Fault in procedure will, from the standpoint of the giver only make him lose the expected benefit. But a defect in procedure will be serious to the donee (*pratigrahī*), since every *dāna* carries with it a load of demerit, which will be intensified by errors in procedure, such as the omission of the correct *mantras,* or use of wrong *mantras*, or omission of some formule. Such results may be calamitous to the donee.[^172]This is why *Manusmṛti* (IV, 187) contains this warning: "Without a correct knowledge of the rules prescribed by the sacred law for the acceptance of gifts, a wise man should not accept anything, even if he is pining (at the time) with hunger."[^173]The recipient of a gift must firstly possess the learning and spirituality, when will enable him to get over the bad effects of the acceptance of a *dāna,* and secondly, he must perform the penances (*prāys'citta*) enjoined for the acceptance of gifts generally and specifically. This why, according to Manu (IV, 191) "an ignorant person should be afraid of accepting any presents; for by reason of (even) a very small (gift, which he accepts), he, as a fool, sinks into hell, as a cow sinks into a morass."[^174]Manu indicates the evils which will follow acceptance of particular gifts, without either the capacity to merit them and
 
 [^172]: "He may become a Brahmarakṣas"
 
@@ -1635,9 +1635,9 @@ THE DĀNA KĀṆḌA
 
 get over their bad influences, or through errors in procedure, thus: "Gold and food destroy his longevity, land and a cow his body, a horse his eye, a garment his skin, clarified butter his energy, seasamum seed his offspring." IV, 189). The risk is so great that Yājñavalkya utters this warning (I, 213): "He who though fully competent to accept (*pratigraha-samarthopi*) does not accept a *dana* attains the several worlds which are attained by those who are charitable and attain by their gifts." Reluctance to accept (*pratigrahe* *samkucitahasta*) is one of the qualities of the person who is a fit donee, according to Vasiṣtha (VI, 25, cited on p. 27, *infra*.) Sītā describes Rāma as a donor and as one who will not receive gifts.[^175]
 
-LAKṢMĪDHARA ON DĀNA PROCEDURE
-
 [^175]: "हिरण्यमायुर्रक्षं च भूर्गैश्चाप्योषतस्तनुम् ।  अश्वधक्षुस्त्वचं वासो घृतं तेजस्तिलम प्रजाः ॥"
+
+LAKṢMĪDHARA ON DĀNA PROCEDURE
 
  The importance of the tual in *dāna* is responsible for the careful description of *prayoga* in post-*Kalpataru* works on gifts. Lakṣmīdhara gives the special ritual for some of the greater gifts, along with the names of the mantras to be recited at the time, but the general rules are assumed as within the knowledge of his readers, or atleast the *purohits,* who will guide them, when they put the teachings of his work into effect. Some of the later works have chapters on *paribhāṣā* (definitions), corresponding to a general clauses section in relation to gifts (*e.g. Madanaratna*, p. 136 ff.) and (*Vīramıtrodaya*, p. 130 ff.) in which such matters as the measurement of objects to be donated etc. are treated of. The general attitude of Laksmīdhara is that his work is addressed to kings and laymen, who will requisition the services of men learned in the details of ritual when necessary, and to *Vaidīkas* to whom detailed instruction will be unnecessary. In many cases, he merely mentions the short name of the *riks* to be used. (e.g. *Pāvamānam,* p. 283, *Rātrisūktam*, p. 283 etc.). In Appendix C, an attempt is made to identify the Vedic *mantras* to which Lakṣmīdhara has referred in this way. (pp. 354-358).
 
@@ -1673,9 +1673,9 @@ INTRODUCTION
 
 right hand. The *dakṣiṇā* must be placed in the centre of the right palm of the donee. Water should be poured through *kus'a* (*kus'odakam*) on the recipient's palm. The formula of giving should mention the name of the person to whom the gift is made, his father's name, his grandfather's name and *gotra,* the object given, and purpose of the gift, and the words of donation, *viz. tubhyam aham sampradate* must be followed (except, in the case of *kanyādana)* by the words *na mama*. A gift should not be made or received wearing yellow or coloured clothes, according to a verse of Bodhāyana quoted by Mitra Misra (*op. cit.* p. 150). Ordinarily a *dāna* must not be made at night, such gifts as *utkrānti-dāna* and gifts during eclipses being obvious exceptions. Other exceptions to the rule are marriages (in areas in which they are celebrated at night), the birth of a child, and the occurrence of *kataka* and *makara-samkramaṇa*. During the *as'auca* (impurity) of either party a *dāna* is not permissible but in many cases a bath taken immediately before the ceremony purifies immediately (*sadyas'-s'aucam*). Those occupied in sacrifices, and *vratas* as well as kings are to be regarded as free of impurity, arising from birth or death. (*Dānakriyākaumudī*, p. 25).[^179]
 
-CLASSIFICATIONS OF GIFTS
-
 [^179]: "राज्ञां च सूतकं नास्ति व्रतिनां न च सत्रिणाम् ।  दीक्षितानाश्चसर्वेषां यस्य चेच्छन्ति ब्राह्मणाः ॥  ऋत्विजां पीक्षितानां च यज्ञियं कर्मकुर्वताम् ।  सन्नि-प्रति-ब्रह्मचारि दातृब्रह्मविदां तथा ॥  दाने विबाहे यज्ञेच सङ्ग्रामे देशविप्लवे ।  आपद्यपि हि कष्टायां सद्यः शौचं विधीयते ॥"
+
+CLASSIFICATIONS OF GIFTS
 
  There are many formal classifications of gifts according to form, purpose, parties, time, place, circumstance, object given away, ritual followed, and ethical nature. The divisions are useful in bringing out the elements of true and simulative or false gifts. Lakṣmīdhara gives some of the classifications for the purpose of bringing out the relevant features of a true *dāna* (pp. 5-11). The causative factors of gifts (*adhiṣthānāni*) of a *dāna* are six, according to Devala (p. 5), *viz., dharma, artha, kāma, vrīḍā* (shame), *harṣa*(joy) and *bhaya* (fear), and each may
 
@@ -1747,9 +1747,9 @@ THE DĀNA KĀṆḌA
 
 and village and town service, as well as Brāhmaṇas who do not perform their daily rites. The *Brāhmana-bruva* is defined, (p. 47) as one who having undergone the sacramental rites yet is devoid of Vedic knowledge and attachment to religious vows (*vrata-vihīna*). Brāhmaṇas who follow tainting occupations, such as cow-keeping, trading, artisanship, domestic service and lending money for interest, are to be excluded from gifts (Manu, VIII, 102 ff., cited on. p. 35). Dancers and singers (though Brāhmaṇas) are excluded by *Visnu-smṛti*, XCIII, 14, (p. 40). To make gifts to Brāhmanas devoid of Vedic learning is described by Vasistha as pouring an offering on ashes (p. 42). The eligible Brāhmana, who gives away the gift he has received to persons of ill-fame or misuses the gift should not (again) be given a *dāna* (p. 43). Those who teach (the Vedas) to S’ūdras (*vṛsalādhyapakāḥ*, p. 44) the sinful Brāhmaṇa, who delights to injure living beings but conceals his wickedness like a cat (*baidālakavratī*) or the shortsighted one who is vicious and selfish like a crane (*baka-vṛttah*) are also unfit to be donees, (p. 46) along with him who marries a *vrisalī*, p. 48, (*vṛsalīpatiḥ*). The last interdiction is not aimed at one who has married a S'ūdra wife (as such marriages are forbidden in Kaliyuga) but against the five kinds of *vṛsaḷīs* described in the anonymous quotation in *Mitāksarā* and the *Vīramitrodaya-vyavahāraprakās'a* (ed. Jīvānandanda, p. 73.)[^187]
 
-DONEES ELIGIBLE WITHOUT QUESTION
-
 [^187]: "मिताक्षरायां स्मृतिः—  चण्डाली बन्धकी बेश्या रजस्था या च कन्यका ।  कढा या च सगोत्रेण वृषल्यः पञ्चकीर्तिताः ॥"
+
+DONEES ELIGIBLE WITHOUT QUESTION
 
  There are certain classes of persons to whom preference is recommended on the principle of charity beginning at home, provided they are otherwise eligible: a neighbour (*sanmikṛṣta* or *āsannaḥ*), relatives, and descendants (p. 42). To overlook them in favour of distant eligibles is sinful. The performance of *samskāras* to orphan boys of Brāhmaṇa *varṇa* is lauded as excelling all gifts (p. 37). To giveto father, mother, brothers, sons, one's wife and daughters is meritorious. Laksmīdhara adds the explanation that what is commended is a gift peculiarly the
 
@@ -1790,17 +1790,15 @@ ELIGIBILITY OF A NON-BRĀHMANA TO RECEIVE A DĀNA
 
 [^192]: "प्रथमबृहस्पति वाक्ये वर्णापेक्षया उत्कर्षः । द्वितीयवाक्ये ब्राह्मणापेक्षया ॥ एतच उत्कृष्टशुद्रादिविवनम् ॥"
 
-however, suggest interpretations of the verses as they seem to run counter to sāstra. Caṇḍesvara gives this explanation of the two verses of Bṛhaspatı: "The first verse of Bṛhaspati gives the effect according to caste, and the second according to the grades of Brāhmaṇas" (p. 62). He explains the rule of Yama as "related only to the best among S'üdras and others." Hemādrı (Dänakhanda, p. 31) adds this comment on these and connected verses: "In these, certain a-brahmana, brahmana-bruva and other unfit recipients even are treated as recipients, but it is only in relation to gifts, which are not accompanied by the recitation of mantras, which must be repeated in danas like those of cows etc[^193]." The ***Dānapradipa***[^194]adds this comment to the citations from Bṛhaspati (p. 53) : "The ascription of the right to recieve (gifts) to S'ūdras and the like should be understood to relate only to the gifts of food and the pledge of safety and the like. So according to the ***Visnudharmottara***: 'The gift of food must be made at all times and to every one by one who looks for Dharma, and in the gift of food the search for even an iota of eligibility to accept must not be made'; and the words of Gautama 'to others a cooked food, ' and the words of Samvarta and others that by the fulfilment of the gift of a pledge of security (***abhayapradāna***) one attains all that he wishes [for](#)' The ***Dānamayūkha*** (p. 5), explains away the verses of Brhaspati thus "Thus, the ascription of eligibility to accept gifts (pâtrată) to S'üdras and others, is in regard to (only) food and clothing, for, in (gifts) of food and clothes. It isnever the practice to enquire into the eligibility for the reception of a gift (of the persons to whom food and raiment are to be given); for, it is laid down in the ***Visnudharmottara*** that eligibility for food comes from hunger and for clothes from nakedness. Gifts to those who have no real eligibility for a gift must be
+however, suggest interpretations of the verses as they seem to run counter to sāstra. Caṇḍesvara gives this explanation of the two verses of Bṛhaspatı: "The first verse of Bṛhaspati gives the effect according to caste, and the second according to the grades of Brāhmaṇas" (p. 62). He explains the rule of Yama as "related only to the best among S'üdras and others." Hemādrı (Dänakhanda, p. 31) adds this comment on these and connected verses: "In these, certain a-brahmana, brahmana-bruva and other unfit recipients even are treated as recipients, but it is only in relation to gifts, which are not accompanied by the recitation of mantras, which must be repeated in danas like those of cows etc[^193]." The ***Dānapradipa***[^194]adds this comment to the citations from Bṛhaspati (p. 53) : "The ascription of the right to recieve (gifts) to S'ūdras and the like should be understood to relate only to the gifts of food and the pledge of safety and the like. So according to the ***Visnudharmottara***: 'The gift of food must be made at all times and to every one by one who looks for Dharma, and in the gift of food the search for even an iota of eligibility to accept must not be made'; and the words of Gautama 'to others a cooked food, ' and the words of Samvarta and others that by the fulfilment of the gift of a pledge of security (***abhayapradāna***) one attains all that he wishes for[^1375]' The ***Dānamayūkha*** (p. 5), explains away the verses of Brhaspati thus "Thus, the ascription of eligibility to accept gifts (pâtrată) to S'üdras and others, is in regard to (only) food and clothing, for, in (gifts) of food and clothes. It isnever the practice to enquire into the eligibility for the reception of a gift (of the persons to whom food and raiment are to be given); for, it is laid down in the ***Visnudharmottara*** that eligibility for food comes from hunger and for clothes from nakedness. Gifts to those who have no real eligibility for a gift must be
 
 [^193]: "एतेषु केषांचिद्द्राह्मणब्राह्मणभुवादीनामपात्राणामपि पात्रत्वनिरूपणं मन्त्रवादिनव्यतिरिक्तदानविषयम् ॥"
 
 [^194]: "अत्र शूद्रादीनां पात्रत्वनिरूपणमभाभयादिदाने बोद्धव्यम् ॥"
 
+[^1375]: #
+
 made without ***mantras***[^195]." The comment of Mitra Misra on the point in the manuscript is not clear (p. 58, ***Dānaprakāsa***). ***Abhayādāna*** will apply to all classes of recipients. Govindananda excludes it from Däna proper on the ground that it involves only the removal of fear and no handing over. (***Dānakriyākaumudi***[^196], p. 3).
-
-[^195]: "यत्तुबृहस्पतिना शूद्रादीनामपि पात्रोकता सा अन्नाच्छादनपरा । अन्नाच्छादनेषु पात्रं नैव विचारयेत् । “अनस्य भुषितं पात्रं विवस्रो बसनस्य च "
-
-[^196]: "अभयदानस्य तु मयनिवारणरूपत्वात् सुतरामेव तत्र दानशब्दो गौणमेव ॥"
 
 ANNADĀNA
 
@@ -2008,9 +2006,9 @@ PROVISION OF WATER
 
 by simply pouring water on the ground, after mentally resolving that the gift should go to him (p. 124)[^236]
 
- The sources of water supply are treated, as stated in a definition cited cited from the *Kapila-pañcarātra* in the *Dānakriyākaumudi* (p. 126) as five: the *kūpa* or well, which may have a diameter upto fifty spans of the hand; the *vāpikā,* with a diameter upto 100 spans; *puṣkariṇī*, which exceeds a hundred spans, and goes upto 200; *tadāga*, whose width extends 800 spans; and the *nadī*(river) which exceeds this too.[^237]The spiritual advantage accruing to a giver is in proportion to the size of the reservoirs.[^238]To understand the descriptions, one must have knowledge of parts of India in which water is struck in wells at great depths, and the cost of even a small well is considerable. To excavate a well and line it with stone or brick, build steps to get at the water, and plant around the well groves of shade-giving or fruit-trees, and then find that the well goes dry, is not an unusual experience in North India Such drying up is deemed providential, and as due to failure to make the dedication with proper ceremonies, and to begin the excavation at suitable astrological moments. The wells spoken of are, not those reserved for private use (though to them also the astrological and ceremonial rites will apply) but wells thrown open to the public, after making the dedication in the presence of the sacred fire (which is a witness, *agni-sāksī*) and worshipping the Ocean (*Samudra*) as the divine parent of all water (p. 278). The goddess Ambikā and the god Ganes'a (Vināyaka) are to be worshipped in effigy, at the commencement of the ceremony of dedication, and the idols are to be left immersed in water. The ritual includes the worship of the Fire and Varuna, with a number of Vedic mantras (which are specified on pp. 283-284, and identified on pp. 355-357 in Appendix C). A full quota of priests is needed for the rites, who are to receive appropriate
-
 [^236]: "मनसा पात्रमुद्दिश्य भूमौ तोयं समुत्सृजेत ।  विद्यते सागरस्यान्तो न तद्दानस्य विद्यत ॥"
+
+ The sources of water supply are treated, as stated in a definition cited cited from the *Kapila-pañcarātra* in the *Dānakriyākaumudi* (p. 126) as five: the *kūpa* or well, which may have a diameter upto fifty spans of the hand; the *vāpikā,* with a diameter upto 100 spans; *puṣkariṇī*, which exceeds a hundred spans, and goes upto 200; *tadāga*, whose width extends 800 spans; and the *nadī*(river) which exceeds this too.[^237]The spiritual advantage accruing to a giver is in proportion to the size of the reservoirs.[^238]To understand the descriptions, one must have knowledge of parts of India in which water is struck in wells at great depths, and the cost of even a small well is considerable. To excavate a well and line it with stone or brick, build steps to get at the water, and plant around the well groves of shade-giving or fruit-trees, and then find that the well goes dry, is not an unusual experience in North India Such drying up is deemed providential, and as due to failure to make the dedication with proper ceremonies, and to begin the excavation at suitable astrological moments. The wells spoken of are, not those reserved for private use (though to them also the astrological and ceremonial rites will apply) but wells thrown open to the public, after making the dedication in the presence of the sacred fire (which is a witness, *agni-sāksī*) and worshipping the Ocean (*Samudra*) as the divine parent of all water (p. 278). The goddess Ambikā and the god Ganes'a (Vināyaka) are to be worshipped in effigy, at the commencement of the ceremony of dedication, and the idols are to be left immersed in water. The ritual includes the worship of the Fire and Varuna, with a number of Vedic mantras (which are specified on pp. 283-284, and identified on pp. 355-357 in Appendix C). A full quota of priests is needed for the rites, who are to receive appropriate
 
 [^237]: "पश्चाशद्भिर्भवेत् कूपः शतहस्ता तु वापिका ।  पुष्करिण्यस्तदूर्द्धन्तु यावद्धस्तशतद्वयम् ॥  तडागोऽष्टशतस्यान्तस्थो नदी च स्यात्तदूर्द्ध्वतः ॥"
 
@@ -2285,9 +2283,9 @@ Printed by C Subbarayudu at the Vasanta Press, Adyar, Madras, India
 
 श्रोत्रियाणां पुरीभिः[^262]
 
-फुल्लाब्जामोदमाद्यन्मधुकरमुग्वरव्योम
-
 [^262]: "A. S. B., पुरोभिः"
+
+फुल्लाब्जामोदमाद्यन्मधुकरमुग्वरव्योम
 
 भागैस्तडागैः।
 
@@ -2743,9 +2741,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
  तथा[^315]
 
-संश्रुत्य यो न दित्सेत याचित्वा यश्च नेच्छति।
-
 [^315]: " I. O. omits तथा"
+
+संश्रुत्य यो न दित्सेत याचित्वा यश्च नेच्छति।
 
 उभावनृतिनावेतौ मृषा पापमवाप्नुतः॥
 
@@ -2821,9 +2819,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 देशतः कालतः शौचतः सम्यक् प्रतिगृह्णीयात्[^324]
 
- इति दानानि प्रतिपादयति। 'देशतः'' 'प्रयागादौ[^325]।'कालतः' ग्रहणादौ। 'शौचतः' स्नानादिना।
-
 [^324]: "I. O., ग्रहीतभूत"
+
+ इति दानानि प्रतिपादयति। 'देशतः'' 'प्रयागादौ[^325]।'कालतः' ग्रहणादौ। 'शौचतः' स्नानादिना।
 
 [^325]: " I. O., वाराणस्यादौ"
 
@@ -2865,9 +2863,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 यमः[^329]
 
-यतीनां परमो धर्मस्त्वनाहारो वनौकसाम्।
-
 [^329]: "I. O. and A. S. B transpose the two lines and  ascribe them to यम"
+
+यतीनां परमो धर्मस्त्वनाहारो वनौकसाम्।
 
 दानमेव गृहस्थानां शुश्रूषा ब्रह्मचारिणाम्॥
 
@@ -3578,9 +3576,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
  पैठीनसिः[^440]
 
-क्षमा दमो दया दानं धर्मस्सत्यं श्रुतिर्घृणा।
-
 [^440]: "A. S. B. and I. O., अधिकपाठोऽयम्"
+
+क्षमा दमो दया दानं धर्मस्सत्यं श्रुतिर्घृणा।
 
 विद्याविज्ञानमास्तिक्यं एतद्ब्राह्मणलक्षणम्॥
 
@@ -3666,9 +3664,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
  मनुः[^458]
 
-गोरक्षकान् वाणिजकान् तथा कारुकुशीलवान्।
-
 [^458]: "I. O. and  A. S. B."
+
+गोरक्षकान् वाणिजकान् तथा कारुकुशीलवान्।
 
 प्रैष्यान् वार्द्धुषिकांश्चैव विप्रान् शूद्रवदाचरेत्॥
 
@@ -4064,9 +4062,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 मनुर्विष्णुश्च[^505]
 
-धर्मवर्जी सदा लुब्धः छाद्मिको लोकदाम्भिकः।
-
 [^505]: "A. S. B. and I. O., द्वितीयवर्जम्"
+
+धर्मवर्जी सदा लुब्धः छाद्मिको लोकदाम्भिकः।
 
 बैडालव्रतिको ज्ञेयो हिंस्रः सर्वाभिसन्धकः॥
 
@@ -4176,9 +4174,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^520]
 
-अथाऽतः सम्प्रवक्ष्यामि महादानानुकीर्त्तनम्।
-
 [^520]: "ānandāśrama edn., 1907, p. 557"
+
+अथाऽतः सम्प्रवक्ष्यामि महादानानुकीर्त्तनम्।
 
 दानधर्मेऽपि यत्प्रोक्तं[^521] विष्णुना प्रभविष्णुना॥
 
@@ -4216,9 +4214,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तथा[^524]
 
-यस्माद्विघ्नसहस्रेण महादानानि सर्वदा।
-
 [^524]: "Omitted by I. O."
+
+यस्माद्विघ्नसहस्रेण महादानानि सर्वदा।
 
 रक्षन्ति देवताः सर्वा एकैकमपि भूतले॥
 
@@ -4292,9 +4290,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तथा[^535]
 
-सप्तहस्ता भवेद्वेदिः मध्ये पञ्च कराश्रया।
-
 [^535]: "मत्स्य. पु. p. 558"
+
+सप्तहस्ता भवेद्वेदिः मध्ये पञ्च कराश्रया।
 
 तन्मध्ये तोरणं कुर्यात् सारदारुमयं शुभम्॥
 
@@ -4328,6 +4326,7 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 [^540]: "Udaipur Ms. reads पूजनानि"
 
+ 
 'ग्रहादि[^541]' इत्यादिशब्दोपात्ताश्चैते अधिदेवता ईश्वरादयः, प्रत्यधिदेवताः अग्न्यादयो, 'विनायकशुक्रवाय्वाका–[^542]
 
 [^541]: "The entire passage in Udaipur Ms. is corrupt and  is restored above."
@@ -4345,8 +4344,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 लोकेशवर्णाः परितः पताकाः
 
 मध्ये ध्वजः किङ्किणिकायुतस्स्यात्[^535]॥
-
-[^535]: "मत्स्य. पु. p. 558"
 
  'अर्चार्चनं' प्रतिमापूजनम्। 'तत्रैव' ग्रहवेद्याम्। 'लोकेशवर्णाः' लोकपालसवर्णाः पीतरक्तकृष्णनीलाञ्जननिभाः श्वेतकृष्णहरितशवला[^545]:'। 'पताकाः' पूर्वादिदिक्षु ऐशान्यान्तासु यथासंख्यं कार्या इत्यर्थः। 'किङ्किणिका' क्षुद्रघण्टिका।
 
@@ -4390,9 +4387,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तदङ्गजातिश्च तुलाऽवलम्ब्या[^552]
 
-हैमेन[^553] मध्ये पुरुषेण युक्ता।
-
 [^552]: "A. S. B and I. O., समानजातिश्च"
+
+हैमेन[^553] मध्ये पुरुषेण युक्ता।
 
 [^553]: "I. O., हेमेन युक्ता पुरुषेण मध्ये"
 
@@ -4425,8 +4422,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 **चक्रं लिखेद्वारिजगर्भयुक्तं**
 
 **नानारजोभिर्भुवि पुष्पकीर्णम्[^546]॥**
-
-[^546]: "मत्स्य पु. p. 558"
 
 **वितानकं चोपरि पञ्चवर्णं**
 
@@ -4476,9 +4471,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 ब्रह्माच्युतेशार्कवनस्पतीनां[^563]
 
-स्वमन्त्रतो होमचतुष्टयं स्यात्।
-
 [^563]: "Udaipur text corrupt; restored from I. O. and A. S. B."
+
+स्वमन्त्रतो होमचतुष्टयं स्यात्।
 
 जप्यानि सूक्तानि तथैव चैषां
 
@@ -4536,9 +4531,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 ममाऽध्वरं पाहि शुभादिनाथ[^567]
 
-लोकेश्वरस्त्वं भगवन्नमस्ते॥
-
 [^567]: "A. S. B. I. O and मत्स्य पु. p. 559 शुभादिनाथ; Udaipur  Ms. has पिशाचनाथ"
+
+लोकेश्वरस्त्वं भगवन्नमस्ते॥
 
 **ॐ निरृतये नमः**
 
@@ -4952,9 +4947,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^607]
 
-अथाऽतः सम्प्रवक्ष्यामि ब्रह्माण्डं[^608] विधिपूर्वकम्।
-
 [^607]: "अ. 276. pp. 562 ff"
+
+अथाऽतः सम्प्रवक्ष्यामि ब्रह्माण्डं[^608] विधिपूर्वकम्।
 
 [^608]: "मत्स्य पु. p. 562 ब्रह्माण्डविधिमुत्तमम्"
 
@@ -5042,9 +5037,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 त्वद्दानशस्त्राहपातकानां[^617]
 
-ब्रह्माण्डदोषाः[^618]प्रलयं व्रजन्तु॥
-
 [^617]: " I. O., त्वज्ञान"
+
+ब्रह्माण्डदोषाः[^618]प्रलयं व्रजन्तु॥
 
 [^618]: "I. O., ब्रह्माण्डदानात् and प्रयान्तु"
 
@@ -5062,15 +5057,15 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 स्वल्पे च देये गुरुरक एव[^621]
 
-कुर्यादयैकाग्निविधानयुक्त्या।
-
 [^621]: " A. S. B. and I. S. O., स्वल्पे न देगे गुरुरेक एव but  Udaipur Ms. reads स्वल्पेब हैमगुरुः"
+
+कुर्यादयैकाग्निविधानयुक्त्या।
 
 स एव सम्पूज्यतमोल्पवित्तैः[^622]
 
-यथोक्तवस्त्राभरणादिकेन[^623]॥
-
 [^622]: "I. O., तमात्मविद्भिः"
+
+यथोक्तवस्त्राभरणादिकेन[^623]॥
 
 [^623]: "I. O. and A. S. B., यथार्थ; म. पु. यथोक्त"
 
@@ -5242,9 +5237,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^642]
 
-अथाऽतः सम्प्रवक्ष्यामि महादानमनुत्तमम्।
-
 [^642]: "अ. 278"
+
+अथाऽतः सम्प्रवक्ष्यामि महादानमनुत्तमम्।
 
 गोसहस्रप्रदानाख्यं सर्वपापहरं परम्॥
 
@@ -5424,9 +5419,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^664]
 
-अथाऽतः शृणु[^665] भूपाल कामधेनुविधिं परम्।
-
 [^664]: "ch. 279, pp 565 ff."
+
+अथाऽतः शृणु[^665] भूपाल कामधेनुविधिं परम्।
 
 [^665]: "मत्स्य. पु. p. 565 and हेमा. p. 265 have सम्प्रवक्ष्यामि for शृणु  भूपाल"
 
@@ -5542,9 +5537,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 सोऽपि प्रयाति हतकल्मषशुद्धदेहः[^676]
 
-स्थानं पुरन्दरमहेश्वरदेवजुष्टम् ॥
-
 [^676]: "A.S. B., हृतकिल्बिष; I. O., हतकिल्बिष; Udaipur Ms. खल्लुकल्मष म. पु. and हेमा, p. 275 हतकल्मष"
+
+स्थानं पुरन्दरमहेश्वरदेवजुष्टम् ॥
 
 इति हिरण्याश्वदानम् ॥
 
@@ -5552,9 +5547,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^677]
 
-अथाऽतः सम्प्रवक्ष्यामि महादानमनुत्तमम्।
-
 [^677]: "मत्स्य. पु. ch. 281, p. 567 ff. हेमा. p. 277 ff."
+
+अथाऽतः सम्प्रवक्ष्यामि महादानमनुत्तमम्।
 
 पुण्यमश्वरथं नाम महापातकनाशनम्॥
 
@@ -5784,9 +5779,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 नयति च पितृपुत्रान् रौरवादप्यशेषान्[^702]
 
-कृतगजरथदानः शाश्वतं सद्म[^703] विष्णोः॥
-
 [^702]: " I. O., बान्धवानप्यशेषान्"
+
+कृतगजरथदानः शाश्वतं सद्म[^703] विष्णोः॥
 
 [^703]: "I. O., धाम शम्भोः"
 
@@ -5798,9 +5793,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^705]
 
-अथाऽतः सम्प्रवक्ष्यामि महादानमनुत्तमम्।
-
 [^705]: "of हेमा. p. 284 ff. and म. पु. ch. 283, p. 568-9. १२ "
+
+अथाऽतः सम्प्रवक्ष्यामि महादानमनुत्तमम्।
 
 पञ्चलाङ्गलकं नाम महापातकनाशनम्॥
 
@@ -5946,9 +5941,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^721]
 
-अथाऽतः सम्प्रवक्ष्यामि धरादानमनुत्तमम्।
-
 [^721]: "ch. 284. pp. 569-570"
+
+अथाऽतः सम्प्रवक्ष्यामि धरादानमनुत्तमम्।
 
 पापक्षयकरं नृृणाममङ्गल्यविनाशनम्॥
 
@@ -6190,9 +6185,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 व्रजति च स मुरारिधाम भित्वा[^739]
 
-भवमभितो भुवने भयानि भूयः॥
-
 [^739]: "I. O., जित्वा"
+
+भवमभितो भुवने भयानि भूयः॥
 
 इति विश्वचक्रदानम्॥
 
@@ -7004,9 +6999,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तथा[^811]
 
-तिलानां च शतं यस्तु विना गोभ्यः प्रयच्छति।
-
 [^811]: "हेमा. p. 264"
+
+तिलानां च शतं यस्तु विना गोभ्यः प्रयच्छति।
 
 पलमेकं सुवर्णस्य गोसहस्रद्विशिष्यते॥
 
@@ -7064,9 +7059,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^814]
 
-उमापतिरुवाच
-
 [^814]: "हेमा., p. 335, cites this passage, from पद्मपुराण and  begins : पुलस्स्य उवाच"
+
+उमापतिरुवाच
 
 मेरोः प्रदानं वक्ष्यामि दशधा मुनिसत्तम।
 
@@ -7146,9 +7141,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 ब्रह्माऽथविष्णुर्भगवान् पुरारिः[^818]
 
-दिवाकरोऽप्यत्रहिरण्मयः स्यात्।
-
 [^818]: " I. O., मुरारिः for पुरारिः"
+
+दिवाकरोऽप्यत्रहिरण्मयः स्यात्।
 
 मूर्द्धव्यवस्था गतमत्सरेण
 
@@ -7166,9 +7161,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तथेक्षुवंशावृतकन्दरस्तु[^821]
 
-घृतोदकः प्रस्रवणश्च दिक्षु॥
-
 [^821]: "A. S. B. and हेमा., आर्द्रेक्षुfor तथेक्षु"
+
+घृतोदकः प्रस्रवणश्च दिक्षु॥
 
 शुक्लाम्बराण्यम्बुधरावली स्यात्
 
@@ -7386,9 +7381,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्रमत्स्यपुराणे[^840]
 
-अथाऽतः सम्प्रवक्ष्यामि लवणाचलमुत्तमम्।
-
 [^840]: "हेमा. p. 346 ff."
+
+अथाऽतः सम्प्रवक्ष्यामि लवणाचलमुत्तमम्।
 
 यत्प्रदानान्नरो लोकं प्राप्नोति शिवसंयुतम्[^841]॥
 
@@ -7586,9 +7581,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^864]
 
-अथाऽतः सम्प्रवक्ष्यामि कार्पासाचलमुत्तमम्।
-
 [^864]: "हेमा. pp. 360, ascribes this to पद्मपुराण. It is not found  in म. पु."
+
+अथाऽतः सम्प्रवक्ष्यामि कार्पासाचलमुत्तमम्।
 
 यत्प्रदानान्नरः[^865]श्रीमान् प्राप्नोति परमं पदम्॥
 
@@ -7626,9 +7621,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^870]
 
-अथाऽतः सम्प्रवक्ष्यामि घृताचलमनुत्तमम्।
-
 [^870]: "In हेमा. p. 363, attributed to पद्मपुराण"
+
+अथाऽतः सम्प्रवक्ष्यामि घृताचलमनुत्तमम्।
 
 तेजोऽमृतमयं सर्वं महापातकनाशनम्॥
 
@@ -7694,9 +7689,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^878]
 
-अथाऽतः सम्प्रवक्ष्यामि रत्नाचलमनुत्तमम्।
-
 [^878]: "म. पु. ch. 90."
+
+अथाऽतः सम्प्रवक्ष्यामि रत्नाचलमनुत्तमम्।
 
 मुक्ताफलसहस्रेण पर्वतः स्यात्स उत्तमः॥
 
@@ -7764,9 +7759,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^886]
 
-अतः परं प्रवक्ष्यामि रूप्याचलमनुत्तमम्।
-
 [^886]: "म. पु. ch. 91. Attributed by हेमा. to पद्मपुराण"
+
+अतः परं प्रवक्ष्यामि रूप्याचलमनुत्तमम्।
 
 यत्प्रसादान्नरो याति सोमलोकं द्विजोत्तम॥
 
@@ -7820,9 +7815,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^890]
 
-अथाऽतः सम्प्रवक्ष्यामि शर्कराचलमुत्तमम्।
-
 [^890]: "म. पु. ch. 12, p. 162; attributed by हेमा. to पद्मपुराण"
+
+अथाऽतः सम्प्रवक्ष्यामि शर्कराचलमुत्तमम्।
 
 यस्य प्रदानाद्विष्णवर्करुद्रास्तुष्यन्ति सर्वदा॥
 
@@ -7918,9 +7913,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 इति महाराजाधिराजश्रीमद्गोविन्दश्चन्द्रदेवमहासान्धिविग्र[^894]
 
-हिक भट्टश्रीहृदयधरात्मज भट्टश्रीलक्ष्मीधरविरचिते
-
 [^894]: " A. S. B.; Udaipur Ms. hisइति श्रीमल्लक्ष्मीधरविरचिते  कृत्यकल्पतरौ दानकाण्डे पर्वतदानानि ; I. O. reads  पर्वतदानपर्व for पर्वतदानानि"
+
+हिक भट्टश्रीहृदयधरात्मज भट्टश्रीलक्ष्मीधरविरचिते
 
 कृत्यकल्पतरौ दानकाण्डे पर्वतदानानि॥
 
@@ -7928,9 +7923,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र मत्स्यपुराणे[^895]
 
-गुडधेनुविधानस्य यद्रूपमिह यत्फलम्।
-
 [^895]: "हेमा. p. 382, brings गुडधेन्वादिदानानि under अतिदान, as  defined in भविष्यपुराण :  'त्रीण्याहुरतिदानानि धेनुः पृथ्वी स्वरस्वती' ( p. 381 "
+
+गुडधेनुविधानस्य यद्रूपमिह यत्फलम्।
 
 तदिदानीं प्रवक्ष्यामि सर्वपापप्रणाशनम्॥
 
@@ -8000,9 +7995,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तथा[^898]
 
-यास्तु पापविनाशिन्यः पठ्यन्ते दश धेनवः।
-
 [^898]: "हेमा. p. 381"
+
+यास्तु पापविनाशिन्यः पठ्यन्ते दश धेनवः।
 
 तासां स्वरूपं वक्ष्यामि नामानि च नराधिप॥
 
@@ -8046,15 +8041,17 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 'कुम्भास्स्युर्द्रवधेनुनामितरासां तु राशयः'
 
+ 
+
 इतिभारचतुष्टयादिपरिमितद्रवद्रव्यस्याऽवस्थापनप्रकारकथनम्। यत्र पद्मपुराणादौ एकेनैव घटेन घृतादिधेनुकथनं, द्रोणमात्रेण च तिलधेनुकथनं, तदेतद्धेनुप्रकारात् प्रकारान्तराभिप्रायेण[^901]।
 
 [^901]: "हेमाद्रि p. 384, cites the entire prose explanation  between the stars aand adds 'इति कल्पतरुः'  This has enabled the erroneous version of the  passage in the manuscripts to be corrected."
 
 महाभारते[^902]
 
-गोमत्या विद्यया धेनुं तिलानामभिमन्त्र्य यः।
-
 [^902]: " हेमा. p. 388 ख."
+
+गोमत्या विद्यया धेनुं तिलानामभिमन्त्र्य यः।
 
 रसरत्नमयों दद्यान्न संशोचेत्कृताकृते॥
 
@@ -8078,9 +8075,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 पद्मपुराणे[^903]
 
-विधानं तिलधेनोर्यत्तच्छृणुष्व नराधिप।
-
 [^903]: "हेमा. p. 388 ग"
+
+विधानं तिलधेनोर्यत्तच्छृणुष्व नराधिप।
 
 षोडशाढमयी धेनुश्चतुर्भिर्वत्सको भवेत्॥
 
@@ -8136,9 +8133,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 वराहपुराणे[^905]
 
-चतुर्भिस्सेतिकाभिस्तु प्रस्थ एकः प्रकीर्तितः।
-
 [^905]: "वराहपुराण p. 433, Bibliotheca Indica ed."
+
+चतुर्भिस्सेतिकाभिस्तु प्रस्थ एकः प्रकीर्तितः।
 
 सा तु षोडशभिः कार्या चतुर्भिर्वत्सको भवेत्॥
 
@@ -8358,9 +8355,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 स्कन्दपुराणे[^925]
 
-जलधेनुं च यो दद्यात्तस्य दानफलं शृणु \।
-
 [^925]: "Omission : supplied by A. S. B. and हेमा. p. 401"
+
+जलधेनुं च यो दद्यात्तस्य दानफलं शृणु \।
 
 प्रपाशालां नगं कूपं वापीकासारपुष्कलम्[^926]॥
 
@@ -8416,9 +8413,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 आदित्यपुराणे[^933]
 
-दरिद्रः खलु यो दद्यात्तिलधेनुं विधानतः।
-
 [^933]: "हेमा. p. 388 ख"
+
+दरिद्रः खलु यो दद्यात्तिलधेनुं विधानतः।
 
 गोमयेनोपलिप्याऽथ तत्र धेनुं समालिखेत्॥
 
@@ -8446,9 +8443,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 महाभारते[^936]
 
-सुदक्षिणां काञ्चनचारुशृङ्गीं
-
 [^936]: "हेमा. p. 388 ख."
+
+सुदक्षिणां काञ्चनचारुशृङ्गीं
 
 कांस्योपदोहां द्रविणोत्तरीयाम्।
 
@@ -8474,9 +8471,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 आदित्यपुराणे[^939]
 
-गवाभावे तथा दद्यात् घृतधेनुं यतव्रतः।
-
 [^939]: " हेमा. p. 396"
+
+गवाभावे तथा दद्यात् घृतधेनुं यतव्रतः।
 
 केन कार्य्यविधानेन तदिहैकमनाः शृणु॥
 
@@ -8523,8 +8520,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 'ईदृक्स्वरूपां' सम्मुखंघृतधेनुवत् अवयवकल्पना[^888]
 
 प्रकारेण[^888]।
-
-[^888]: "A.S. B."
 
 तं च विप्रंमहाभागं मनसैव घृतार्चिषम्[^946]।
 
@@ -8646,9 +8641,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र 'याज्ञवल्क्यः[^954]
 
-हैमशृङ्गैःशफै रौप्यैः सुशीला वस्त्रसंयुता।
-
 [^954]: "cf. दानमयूख, Chowkhamba cdn. pp. 184-6"
+
+हैमशृङ्गैःशफै रौप्यैः सुशीला वस्त्रसंयुता।
 
 सकांस्यपात्रा दातव्या क्षीरिणी गौस्सदक्षिणा॥
 
@@ -8702,9 +8697,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 गोप्रदानेन स्वर्गमाप्नोति यो दान्तं वृषभं ददाति स च[^956]
 
-दशधेनुप्रदो गोलोकं शतप्रदश्च ब्रह्मणो लोकम्।
-
 [^956]: "A. S.B."
+
+दशधेनुप्रदो गोलोकं शतप्रदश्च ब्रह्मणो लोकम्।
 
 'दान्तः' कृतदमनः।
 
@@ -9496,9 +9491,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
  'शतेन' स्त्रीगवीनामिति शेषः। 'भूरिशृङ्गं' सुवर्णशृ[^991]
 
-ङ्गम्[^991]'। 'ऐश्वर्याण्यभिजायन्ते' ऐश्वर्यार्थमिति यावत्।
-
 [^991]: "हेमा. p. 467, repeats this comment."
+
+ङ्गम्[^991]'। 'ऐश्वर्याण्यभिजायन्ते' ऐश्वर्यार्थमिति यावत्।
 
 हतिकण्ठमनड्वाहं सर्वरत्नैरलंकृतम्।
 
@@ -9523,6 +9518,8 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 अथ कृष्णाजिनदानम्
 
 तत्र विष्णुः
+
+ 
 
 अथ वैशाख्यां पौर्णमास्यां कृष्णमृगाजिनं सखुरं सशृङ्गं रौप्यखुरं मुक्तालांगूलभूषितं च कृत्वा आविकैर्वस्त्रैःपवित्रे च प्रसारयेत्। ततस्तिलैःप्रच्छादयेत्। सुवर्णनाभंव कुर्यात्। अहतेन वासोयुगेन प्रच्छादयेत्। सर्वरत्नगन्धैश्चऽलङ्कुर्यात्। चतसृषु च दिक्षु चत्वारि तैजसानि पात्राणि क्षीरदधिमधुसर्पिःपूर्णानि निधायाऽऽहिताग्नये ब्राह्मणाय वासोयुगप्रच्छादिनाय दद्यात्।
 
@@ -9734,9 +9731,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 वैष्णवपदाधिकारे कालिकापुराणे[^1010]
 
-ये च रुक्मादिपात्रे तु कृत्वा[^1011] वह्निंददन्ति वै।
-
 [^1010]: " हेमा. p. 661."
+
+ये च रुक्मादिपात्रे तु कृत्वा[^1011] वह्निंददन्ति वै।
 
 [^1011]: "हेमा. p. 661, हुत्वा वह्निं ददन्ति वा"
 
@@ -9982,9 +9979,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तथा[^1027]
 
-अपि पापकृतां राज्ञां प्रतिगृह्णन्ति साधवः।
-
 [^1027]: "The following verses are cited by हेमा. p. 478 as from महाभारत"
+
+अपि पापकृतां राज्ञां प्रतिगृह्णन्ति साधवः।
 
 पृथिवीं नान्यदिच्छन्ति पावनं ह्येतदुत्तमम्॥
 
@@ -10154,9 +10151,11 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 **न्यस्तानि विधिवद् पूज्य द्विजानां चैव मन्दिरे॥**
 
-**काञ्चनीं रोद[^1040][सीं](#) स्पृष्ट्वा नगोदधिसमन्विताम्।**
+**काञ्चनीं रोद[^1040]सीं[^1376] स्पृष्ट्वा नगोदधिसमन्विताम्।**
 
 [^1040]: " I. O., रोरवी"
+
+[^1376]: #
 
 **पुण्यौषधिवनैर्युक्तां ददौ विप्रेभ्य एव सः॥**
 
@@ -10417,8 +10416,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 **नातिसन्ततविच्छिन्नैः नाऽश्लक्ष्णैश्चाऽप्यकर्कशैः।**
 
 **नन्दिनागरकैर्वर्णैर्लेखयेच्छिवपुस्तकम्[^961]॥**
-
-[^961]: "Note."
 
 **प्रारम्भे[^1058] पञ्च वै श्लोकान् पुनः शान्तिं तु कारयेत्।**
 
@@ -11096,8 +11093,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 **'गुरुवाक्येषु अनिश्चयः' गुरुवाक्येषु संशयवान्[^980]।**
 
-[^980]: "A. S. B."
-
 **यश्च श्रुत्वाऽन्यतः शास्त्रं संस्कारं प्राप्य वाशुभम्।**
 
 **अन्यस्य जनयेत्कीर्ति स गुरोर्ब्रह्महा भवेत्॥**
@@ -11389,8 +11384,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 सावर्णिर्नारदायाऽऽह कृष्णमाहात्म्यमुत्तमम्॥
 
 **यत्र ब्रह्मवराहस्य चरितं वर्ण्यते बहु[^455]।**
-
-[^455]: "I. O."
 
 **तदष्टादशसाहस्रं ब्रह्मवैवर्त्तमुच्यते॥**
 
@@ -11684,13 +11677,13 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 **धेनुं दत्वोभयमुखीं भूदानफलमाप्नुयात्॥**
 
-**माघान्धकारद्वादश्यां तिलैर्हु[^1140][त्वा](#)हुताशनम्।**
+**माघान्धकारद्वादश्यां तिलैर्हु[^1140]त्वा[^1377]हुताशनम्।**
 
 [^1140]: " I. O. and A. S. B., हुत्वा; Udaipur Ms. has दत्वा"
 
-**तिलान्दत्वा च विप्रेभ्यः सर्वपापैः प्रमुच्यते[^1141]॥**
+[^1377]: #
 
-[^1141]: "Cited by हेमा. p. 795"
+**तिलान्दत्वा च विप्रेभ्यः सर्वपापैः प्रमुच्यते[^1141]॥**
 
 **आदित्यवारे विप्राय सहिरण्यं सदैव तु[^1142]।**
 
@@ -11998,8 +11991,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 'चतुर्युक्तं' चतुर्भिर्हस्तिभिः संयुक्तम्[^1164]।
 
-[^1164]: "Reproduced by हेमा. p. 810"
-
 चित्रायां वृषभं दत्वा पुण्याङ्गां गां[^1166] च भारत।
 
 [^1166]: " हेमा. p. 810 explains: पुण्याङ्गां गां इति शुभलक्षणलक्षितशरीरां धेनुमित्यर्थः ।"
@@ -12196,9 +12187,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 नन्दिपुराणे[^1176]
 
-अन्नाद्भूतानि जातानि देवा ह्यन्नादिकाङ्क्षिणः।
-
 [^1176]: " हेमा. p. 900"
+
+अन्नाद्भूतानि जातानि देवा ह्यन्नादिकाङ्क्षिणः।
 
 न तस्य पात्रादिविधिर्विना श्राद्धं प्रकीर्त्तितम्॥
 
@@ -13248,8 +13239,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 **दानकाण्डे प्रकीर्णकदानानि[^455]।**
 
-[^455]: "I. O."
-
 **अथ कूपवापीतडागविधिः**
 
 **तत्र यमः[^1255]**
@@ -13307,8 +13296,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 [^1261]: " हेमा. p. 938 omits this clause."
 
 **तथा[^1258]**
-
-[^1258]: "हेमा. p. 915"
 
 **कूपारामतडागेषु देवतायतनेषु च।**
 
@@ -13709,9 +13696,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 देवीपुराणे[^1289]
 
-ब्रह्मोवाच
-
 [^1289]: "हेमा. pp 919-924ff"
+
+ब्रह्मोवाच
 
 देव्यः शस्ताः सुरश्रेष्ठ सर्वकामप्रसाधिकाः।
 
@@ -14088,8 +14075,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 **मठं देवालयं पश्चाद्याम्यरक्षोगतं शुभम्॥**
 
 **कूपारामं यथाशस्तं कर्तुर्लोके प्रजायते[^1258]।**
-
-[^1258]: "हेमा. p. 915"
 
 **तथा कुर्यात् सुरश्रेष्ठ यथा शोभा दृढा भवेत्॥**
 
@@ -14513,8 +14498,6 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 **पद्मपुराणे[^1259]**
 
-[^1259]: "हेमा. p. 938"
-
 **अपुत्रस्य च पुत्रत्वं पादपा इह कुर्वते।**
 
 **यच्छन्ति रोपकेभ्यस्ते सत्तीर्थे[^1358] तर्पणादिकम्॥**
@@ -14653,9 +14636,9 @@ A. S. B. Ms. begins : श्रीगणेशाय—The Ms. is torn.
 
 तत्र कालिकापुराणे[^1365]
 
-शङ्करात् परमं नाऽन्यदतस्तस्मै विकल्पयेत्।
-
 [^1365]: "हेमा. p. 629"
+
+शङ्करात् परमं नाऽन्यदतस्तस्मै विकल्पयेत्।
 
 यतीनामाश्रयं[^1366] दद्यात् कृत्वा पक्वेष्टकामयम्॥
 
@@ -17767,3 +17750,8 @@ These studies are a valuable addition to Western learning and reflect great cred
 
 \]
 
+[^1141]: "Cited by हेमा. p. 795"
+
+[^196]: "अभयदानस्य तु मयनिवारणरूपत्वात् सुतरामेव तत्र दानशब्दो गौणमेव ॥"
+
+[^195]: "यत्तुबृहस्पतिना शूद्रादीनामपि पात्रोकता सा अन्नाच्छादनपरा । अन्नाच्छादनेषु पात्रं नैव विचारयेत् । “अनस्य भुषितं पात्रं विवस्रो बसनस्य च "

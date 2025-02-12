@@ -21,7 +21,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **भूमिका ।**
 
-![](../books_images/U-IMG-1711902096WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1711902096WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>
+
+ 
 
 संसारकी अपनी मर्यादामें स्थिति राजशासन के अधीन है, वह शासन जिन नियमों के अनुसार होता है उसको राजनीति कहते हैं, उस नीति के अनुसार वर्तनेसे राजाको इस लोक में यश और परलोकमें आनन्द प्राप्त होता है, यद्यपि भारतवर्षकी पुरातन राजनीतिके पूरे ग्रन्थ इस समय सर्वथा प्राप्त नहीं होते, पर तोभी जो कुछ मिलते हैं उनमें बहुत कुछ भरा पडा है, उनमें से हम आज एक ग्रन्थ कामन्दकीय नीतिसारका अनुवाद करके यह दिखलाना चाहते हैं कि नीतिसार होनेपर भी इसके समस्त विषय महाराजोंके परम उपयोगी हैं, यदि महीपालगण ऐसे ग्रन्थोंका अपने राजकुमारोंको अभ्यास करावें, तो वह प्रजापालन कोष वृद्धि सदाचरण तथा धर्मप्रचार में बहुत कुछ वृद्धि करसकते हैं, इस अवसर में हम महामहिम गुणि जनमण्डलीमण्डन गढवाल टिहरीनरेश महाराजाधिराज श्री १०८ श्रीकीर्तिसाइजी बहादुर के. सी. एस. आई. महोदयको अनेक धन्यवाद करते हैं कि, जो ऐसे पुरातन ग्रन्थों के अनुशीलन पूर्वक पुरातन राजनीतिग्रन्थोंका आदर करते हुए धर्मसे प्रजापालन करते हैं, यदि इसी प्रकार अन्य महीपति इस ओर दत्तचित हों तो देश की पुरातन राजनीतिके ग्रन्थ फिर जगमगा उठें, और राजा प्रजामें धर्म की वृद्धि दिनोंदिन होती रहै.
 
@@ -41,7 +43,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 मुहल्ला दिनदारपुरा  
 मुरादाबाद.
 
-![](../books_images/U-IMG-1711902713WhatsAppImage2024-03-31at22.00.43_dcfe867a.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1711902713WhatsAppImage2024-03-31at22.00.43_dcfe867a.jpg"/>
 
 **॥ श्रीगणेशाय नमः ॥**
 
@@ -49,7 +51,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 भाषाटीकासहितः ।
 
-![](../books_images/U-IMG-1711863406WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1711863406WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>
 
 **प्रथमः सर्गः १.**
 
@@ -440,7 +442,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **द्वितीयः सर्गः २**
 
-**![](../books_images/U-IMG-1710261643WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)**  
+**<MISSING_FIG href="../books_images/U-IMG-1710261643WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>**  
 
 आन्वीक्षिकीं त्रयीं वार्त्ता दण्डनीतिञ्च पार्थिवः।  
 तद्विद्यस्तत्क्रियोपेतौश्चिन्तयेद्विनयान्वितः ॥१॥
@@ -676,7 +678,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **तृतीयः सर्गः ३**
 
-**![](../books_images/U-IMG-1710917122WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1710917122WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>**
 
 **दण्डं दण्डीव भूतेषु धारयन् धरणीपतिः ।  
 प्रजाः समनुगृह्णीयात्प्रजापतिरिव स्वयम् ॥१॥**
@@ -885,7 +887,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **चतुर्थः सर्गः ४.**
 
-**![](../books_images/U-IMG-1710923870WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1710923870WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>**
 
 **स्वाम्यमात्यश्व राष्ट्रञ्च दुर्गंकोशो बलं सुहृत् ।  
 परस्परोपकारीदं सप्ताङ्गं राज्यमुच्यते ॥१॥**
@@ -1297,7 +1299,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **पञ्चमः सर्गः ५.**
 
-**![](../books_images/U-IMG-1711105186WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1711105186WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>**
 
 **इत्यर्थवृत्तिसम्पन्नाः कल्पवृक्षोपमं नृपम् ।  
 अभिगम्य गुणैर्युक्तंसेवेयुरनुजीविनः ॥१॥**
@@ -1776,7 +1778,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 षष्ठः सर्गः ६.
 
-![](../books_images/U-IMG-1711204496WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1711204496WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>
 
 **लोके वेदे च कुशलः कुशलैः परिवारितः ।  
 आहतश्विन्तयेद्राज्यं स बाह्याभ्यन्तरं तथा ॥१॥**
@@ -1861,7 +1863,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **सप्तमः सर्गः ७**
 
-**![](../books_images/U-IMG-1711254283WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1711254283WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>**
 
 **प्रजात्मश्रेयसे राजा कुर्वीतात्मजरक्षणम् ।  
 लोलुभ्यमानास्तेऽर्थेषु हन्युरेनमरक्षिताः ॥१॥**
@@ -2170,7 +2172,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 अष्टमः सर्गः ८.
 
-![](../books_images/U-IMG-1711424835WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1711424835WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>
 
 **उपेतः कोषदण्डाभ्यां सामात्यः सह मन्त्रिभिः ।  
 दुर्गस्थश्चिन्तयेत्साधु मण्डलं मण्डलाधिपः ॥१॥**
@@ -2622,7 +2624,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **नवमः सर्ग ९.**
 
-**![](../books_images/U-IMG-1711462179WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1711462179WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>**
 
 **बलीयसाभियुक्तस्तु नृपोऽनन्यप्रतिक्रियः ।  
 आपन्नः सन्धिमन्विच्छेत्कुर्वाणः कालयापनाम ॥१॥**
@@ -3032,7 +3034,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 दशमः सर्गः १०
 
-![](../books_images/U-IMG-1711564578WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1711564578WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>
 
 अमर्षोपगृहीतानां मन्यसन्तप्तचेतसाम्।  
 परस्परापकारेण पुंसां भवति विग्रहः॥१॥
@@ -3249,7 +3251,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **एकादशः सर्गः ११.**
 
-**![](../books_images/U-IMG-1711692775WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1711692775WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>**
 
 **उत्कृष्ट बलवीर्यस्य विजिगीषोर्जयैषिणः।  
 गुणानुरक्तप्रकृतेर्यात्रायानमिति स्मृतम्॥१॥**
@@ -3641,7 +3643,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **द्वादशः सर्गः १२ .**
 
-**![](../books_images/U-IMG-1711599381WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1711599381WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>**
 
 **कृतमन्त्रस्तु मन्त्रज्ञो मन्त्रिणां मन्त्रसम्मतम्।  
 यातव्याय प्रहिणुयाद्दूतंदूत्याभिमानिनम्॥१॥**
@@ -3897,7 +3899,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 त्रयोदशः सर्गः १३.
 
-![](../books_images/U-IMG-1711690555WhatsAppImage2024-03-12at22.08.57_9387117a.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1711690555WhatsAppImage2024-03-12at22.08.57_9387117a.jpg"/>
 
 **अन्वहञ्चरचर्याभिर्विमलं दूतचेष्टितम्।  
 यायाद्यथोक्तलाभस्तु सूक्ष्मबुद्धिपुरःसरः॥१॥**
@@ -4384,7 +4386,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 **                 चतुर्दशः सर्गः १४.**
 
 **                       
-![](../books_images/U-IMG-1710055429वुलुरकगकत,त.jpg)**
+<MISSING_FIG href="../books_images/U-IMG-1710055429वुलुरकगकत,त.jpg"/>**
 
 **अमात्याद्याः प्रकृतयो मित्रान्ता राज्यमुच्यत।  
 अशेषराज्यव्यसनात्पार्थिवव्यसनं गुरु॥१॥**
@@ -4746,7 +4748,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **पञ्चदशः सर्गः १५.**
 
-![](../books_images/U-IMG-1710778886Screenshot2024-03-18215102.png)
+<MISSING_FIG href="../books_images/U-IMG-1710778886Screenshot2024-03-18215102.png"/>
 
 नानाप्रकारैर्व्यसनैर्विमुक्तः शक्तित्रयेणाप्रतिमेन युक्तः।  
 परं दुरन्तव्यसनोपपन्नं यायान्नरेन्द्रो विजयाभिकाङ्क्षी॥१॥
@@ -5069,7 +5071,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **षोडशः सर्गः १६.**
 
-![](../books_images/U-IMG-1709911532Screenshot2024-03-08205500000000000000000.png)
+<MISSING_FIG href="../books_images/U-IMG-1709911532Screenshot2024-03-08205500000000000000000.png"/>
 
 **यायाद्वौरिपुराभ्याशं भूभागे साधुसम्मते।  
 स्कन्धावारनिवेशज्ञःस्कन्धावारं निवेशयेत्॥१॥**
@@ -5283,7 +5285,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **सप्तदशः सर्गः १७.**
 
-**![](../books_images/U-IMG-1709994975Screenshot2024-03-092005466666666666666.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1709994975Screenshot2024-03-092005466666666666666.png"/>**
 
 **महाप्रज्ञानसम्पन्नः सत्त्वदवोपबृहितः।  
 उद्योगाध्यवसायाभ्यामुपायान्निक्षिपेत्परे॥१॥**
@@ -5614,7 +5616,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **अष्टादशः सर्गः १८**
 
-**![](../books_images/U-IMG-1709999835Screenshot2024-03-092126455555555555.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1709999835Screenshot2024-03-092126455555555555.png"/>**
 
 **सामादीनामुपायानां त्रयाणां विफले नये।  
 विनयेन्नयसम्पन्नो दण्डं दण्डेषु दण्डवित्॥१॥**
@@ -6308,10 +6310,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 **समाप्तश्चायं कामन्दकीयनीतिसारः।**
 
-![](../books_images/U-IMG-17101667652222222.png)
+<MISSING_FIG href="../books_images/U-IMG-17101667652222222.png"/>
 
 दोहा।  
-![](../books_images/U-IMG-1711032468Screenshot2024-03-21201722.....png)
+<MISSING_FIG href="../books_images/U-IMG-1711032468Screenshot2024-03-21201722.....png"/>
 
 श्रीरघुपति के चरणयुग, प्रेमसहित हियलाय।  
 नीतिसार कामन्दकी, भाषा लिखी बनाय॥१॥
@@ -6330,11 +6332,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY1MDk4NDU5MDI
 
 ॥शुभमस्तु॥
 
-![](../books_images/U-IMG-1710780210Screenshot2024-03-18221255585858.png)
+<MISSING_FIG href="../books_images/U-IMG-1710780210Screenshot2024-03-18221255585858.png"/>
 
 पुस्तकोंके मिलनेका ठिकाना—
 
 [TABLE]
 
 \]
-

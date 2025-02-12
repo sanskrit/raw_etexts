@@ -17,18 +17,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
 
 **सनातनधर्मप्रदीपे**
 
-**![](../books_images/U-IMG-1704798810सनातनधर्मप्रदीपे.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1704798810सनातनधर्मप्रदीपे.jpg"/>**
 
 **शुद्धिप्रकाशविवाहप्रकाशौ**
 
-**![](../books_images/U-IMG-1704798981धर्मप्रदीपे-2.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1704798981धर्मप्रदीपे-2.jpg"/>**
 
 श्री सन्तोजिमहाराजादिचाल्यमानसनातनधर्मोज्जीविनीसभाङ्ग-ग्रन्थनिर्माणसमित्या
 
 समालोचनार्थं सर्वेषां पण्डितानां  
 सविध उपहृियमाणौ।
 
-![](../books_images/U-IMG-1704799078सनातनधर्मप्रदीपे-3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1704799078सनातनधर्मप्रदीपे-3.jpg"/>
 
 कलिकाता नगरस्थ वर्णिक प्रेसद्वारा
 
@@ -46,7 +46,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
 
 शुद्धिप्रकाशविषयानुक्रमणिका
 
-![](../books_images/U-IMG-1694269593Screenshot2023-09-09195626.png)
+<MISSING_FIG href="../books_images/U-IMG-1694269593Screenshot2023-09-09195626.png"/>
 
 |                                                                            |
 |:--------------------------------------------------------------------------:|
@@ -129,7 +129,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
 
 शुद्धिप्रकाश शुद्धाशुद्धिपत्रिका
 
-![](../books_images/U-IMG-1694523705Screenshot2023-09-12183136.png)
+<MISSING_FIG href="../books_images/U-IMG-1694523705Screenshot2023-09-12183136.png"/>
 
 |        |         |            |
 |:------:|:-------:|:----------:|
@@ -373,7 +373,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
 | गृह्य                    | गृह           |
 | हि                       | हि            |
 
-![](../books_images/U-IMG-1696586006Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1696586006Untitled.jpg"/>
 
 ॥ श्रीः ॥
 
@@ -383,11 +383,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
 
 ॥ श्रीगुरुभ्यो नमः ॥
 
-![](../books_images/U-IMG-1694269287Screenshot2023-09-09195115.png)
+<MISSING_FIG href="../books_images/U-IMG-1694269287Screenshot2023-09-09195115.png"/>
 
 **सनातनधर्मप्रदीपः**
 
-![](../books_images/U-IMG-1694269354Screenshot2023-09-09195226.png)
+<MISSING_FIG href="../books_images/U-IMG-1694269354Screenshot2023-09-09195226.png"/>
 
 **( ३ ) शुद्धिप्रकाशः ।**
 
@@ -969,6 +969,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
 
 पतितचण्डालसूतिकोदक्याशवस्पृष्टितत्स्पृष्ट्युपस्पर्शने सचैलोदकोपस्पर्शनाच्छुध्येत्॥ श्वपचचण्डालपतितावेक्षणे दुष्टम् ॥ 
 
+                                   
                      
 
 अ० १४ । १५ ॥
@@ -1107,6 +1108,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
       अक्रामतस्त्रिरात्रं स्यात्षड्रात्रं कामश्चरेत् ॥**
 
 बृहस्पति—अस्नात्वा तु यदा भुंक्तेपिण्डं दत्वा पितुर्व्रती स्पृष्त्वा  
+       
 
 शवमुदक्यां वा चण्डालं सूतिकां तथा ॥  
 
@@ -5891,11 +5893,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
 
 **॥श्रीगुरुभ्यो नमः॥**
 
-![](../books_images/U-IMG-1694269287Screenshot2023-09-09195115.png)
+<MISSING_FIG href="../books_images/U-IMG-1694269287Screenshot2023-09-09195115.png"/>
 
 **सनातनधर्मप्रदीपः**
 
-**![](../books_images/U-IMG-1694269354Screenshot2023-09-09195226.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1694269354Screenshot2023-09-09195226.png"/>**
 
 (४) विवाहप्रकाशः।
 
@@ -6731,6 +6733,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
 धर्मस्थापनदीक्षादक्षस्त्वमतो वृषारुढः ॥"
 
    इति धर्मरूपवृषवाहनत्वहेतुं स्वाभिप्रेतम् । राजानोपि संस्मरन्तु सिंहासनारोहणपद्धतिम्, इतरेऽपि स्वस्वपरम्परामार्गम् ।येन सुखभूयांसः शान्ता नन्दतु । इति ॥
+
+ 
 
 सर्वथा तु न विधवापुनर्विवाहोऽयं शास्त्रसम्मतः, न वा युक्ति
 
@@ -9096,7 +9100,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
    तत्रापि वरेण कन्यायाः स्वस्य च आश्वलायनोक्तप्रकारेण शुद्धिः संपादनीयेति ।  
  ये तु पुनर्दैवात् दृष्टरजस्कायाः कन्यायाः कूपादिष्वेव पातनं शास्त्रीयं मन्यन्ते, मन्ये साहसिक्तानां कठिनहृदयानां च तेषां शास्त्रमप्यनाद्रियमाणानामास्तिकत्वाभिमान एव केवलं नास्तिकभावोपीति सुधीरमुद्घोषयामः । सर्वथापि तु आपत्कल्पनयैव रजस्वलाविवाहः शास्त्रेऽभ्यनुज्ञायतइति वयोनिर्णयकराणामाशयः समीचीनः, न त्वनापत्कल्पनयापि रजोदर्शनानन्तरं विवाहः शास्त्रचो-
 
-![](#)![](#)दित इति विवाहकालविमर्शकारणामाशय इति सर्वमनवद्यमिति वर्णयन्ति ।  
+<MISSING_FIG href="#"/><MISSING_FIG href="#"/>दित इति विवाहकालविमर्शकारणामाशय इति सर्वमनवद्यमिति वर्णयन्ति ।  
   अस्माकमपि परेषां मतमेव समीचीनमिति प्रतिभाति । अतो वयमपि तमेव पक्षमनुवर्तामहे \। यदित्वन्यैरास्तिकवयैःपक्षान्तरानुसरणमेव युक्तमिति समुचितप्रमाणजातैरुपाद्येत, तर्हिपूर्वाचार्यक्षुण्णमार्गानुसरणमेव निःश्रेयसं मन्वाना वयमपि तत्सि
 
 द्वान्तमेवानुसरिष्यामः ।
@@ -9106,7 +9110,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUzNjcwNzE2OTE
 दिते सनातनधर्मप्रदीपे विवाह-  
 प्रकाशः समाप्तः \।  
 
-![](../books_images/U-IMG-1695280069s.JPG)![](#)![](#)
+<MISSING_FIG href="../books_images/U-IMG-1695280069s.JPG"/><MISSING_FIG href="#"/><MISSING_FIG href="#"/>
 
 \]
-

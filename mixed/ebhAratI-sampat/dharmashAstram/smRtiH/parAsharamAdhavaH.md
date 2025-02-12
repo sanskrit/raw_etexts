@@ -16,11 +16,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **पराशरमाधवः।**  
 
-![](../books_images/U-IMG-1699077948parasaramadhava-removebg-preview.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1699077948parasaramadhava-removebg-preview.jpg"/>
 
 **व्यवहारकाण्डम्।**
 
-![](../books_images/U-IMG-1699078462pm3-removebg-preview.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1699078462pm3-removebg-preview.jpg"/>
 
 **वागीशाद्याः सुमनसः सर्वार्थानामुपक्रमे।  
 यन्नत्वाकृतकृत्याः स्युः तं नमामि गजाननम्॥  
@@ -431,12 +431,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 [^31]: "अत्र, 'इति'—इति भवितुं युक्तम्।"
 
-अर्थप्रत्यर्थिनोरननुशयानुमतं स्थानं कुलिकसार्थमुख्यपुरग्रामनिवासिनो गृह्यन्ते। ग्रामादीनि दश स्थानानि साधारणानि। ग्रामोग्रामाकारेणावस्थितो जनः। पौरः पुरवासिनां समूहः। गणः कुलानां समूहः। श्रेण्योरजकाद्यष्टादशहीनजातयः। चतुर्विद्यः [आन्वीक्षिक्यादिविद्याचतुष्टयोपेतः](#)। वर्गिणोगणप्रभृतयः। तथाच कात्यायनः,—
+अर्थप्रत्यर्थिनोरननुशयानुमतं स्थानं कुलिकसार्थमुख्यपुरग्रामनिवासिनो गृह्यन्ते। ग्रामादीनि दश स्थानानि साधारणानि। ग्रामोग्रामाकारेणावस्थितो जनः। पौरः पुरवासिनां समूहः। गणः कुलानां समूहः। श्रेण्योरजकाद्यष्टादशहीनजातयः। चतुर्विद्यः आन्वीक्षिक्यादिविद्याचतुष्टयोपेतः[^532]। वर्गिणोगणप्रभृतयः। तथाच कात्यायनः,—
+
+[^532]: #
 
 **"गणः पाषण्डपूगश्च[^32]ब्राह्मणश्रेण्यस्तथा।  
 समूहस्थाश्च ये चान्ये वर्ग्याख्यास्ते वृहस्पतिः”—इति।**
-
-[^32]: "पौगण्डपृगश्च,—इति स० शा०।"
 
  आयुधधराणां समूहो जातम्[^33]। कुलानि अर्थिप्रत्यर्थिनोः सगोत्राणि। कुलिकास्तत्र वृद्धाः।नियुक्ताः प्राड्विवाकसहितास्त्रयः सभ्याः। नृपतिः ब्राह्मणादिसहितः। सभ्यानाह याज्ञवल्क्यः,—
 
@@ -2058,8 +2058,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 त्वरमाण इवात्यर्थमपृष्टो बहूभाषते।  
 कूटसाक्षीस विज्ञेयस्तं पापं विनयेद्भृशम्”**—**इति॥**
 
-[^33]: "इत्यमेव पाठः सर्व्वत्र।"
-
 साक्ष्यनुयोजनमाह मनुः,—
 
 **"मभाऽन्तः साक्षिणःसर्वानर्थिप्रत्यर्थिसन्निधौ।  
@@ -2765,8 +2763,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 विनाऽपि मुद्रया लेख्यं प्रमाणं मृतसाक्षिकम्।  
 यदि[^36] लब्धं न चेत् किञ्चित् प्रज्ञप्तिर्वा कृता भवेत्।  
 प्रमाणमेव लिखितं मृता यद्यपि साक्षिणः[^36]”—इति।**
-
-[^36]: "नास्त्ययं श्लोकः स० शा० पुस्तकयोः।"
 
  लेख्यानां मिथोविरोधे बाध्यबाधकमाह व्यासः। "स्वहस्तकाज्ञानपेतं समकालं पश्चिमं वा तत्र राजकृतं शुभम्"—इति। साक्षाद्यसम्भवे हारीतः,—
 
@@ -6258,7 +6254,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 सम्भूयसमुत्थानाख्यं पदं समाप्तम्।
 
-![](../books_images/U-IMG-1698576352Screenshot2023-10-29161350.png)
+<MISSING_FIG href="../books_images/U-IMG-1698576352Screenshot2023-10-29161350.png"/>
 
 **अथ दत्ताप्रदानिकाख्यं पदमुच्यते।**
 
@@ -6537,8 +6533,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **“पथि विक्रीय तद्भाण्डं वणिग्भृत्यन्त्यजेद्यदि।  
 अगतस्यापि[^5] अगतस्यापि यावद् गन्तव्यमगतस्यापrति चण्डेश्वरीया व्याख्या।") देयं स्यात् भृतेरर्द्धंलभेत सः"—इति।**
-
-[^5]: "(१
 
  आसेधेन प्रतिबद्धभाण्डविषये राजाद्यपहतभाण्डविषये[^340]चाह कात्यायनः,—
 
@@ -10439,8 +10433,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
  कूटैरक्षादिभिरुपाधिभिर्मणिमन्त्रादीनामिति वचनेन[^400]ये दिव्यन्ति तान् श्वपदेनाङ्कयित्वा स्वराष्ट्रान्निर्वासयेदित्यर्थः। निर्वासने विशेषमाह नारदः—
 
-[^400]: "इत्थमेव पाठः सर्व्वत्र।"
-
 **"कूटाक्षदेविनःपापान् राजा राष्ट्राद्विवासयेत्।  
 कण्ठेऽक्षमालामासज्य स ह्येषां विनयः स्मृतः"—इति।**
 
@@ -10599,7 +10591,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **(आचारकाण्डस्य)**
 
-**![](../books_images/U-IMG-1699030702Screenshot2023-11-03222214.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699030702Screenshot2023-11-03222214.png"/>**
 
 [TABLE]
 
@@ -10706,7 +10698,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **आचारकाणडस्य)**
 
-![](../books_images/U-IMG-1699637632216-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1699637632216-removebg-preview.png"/>
 
 अ।
 
@@ -11141,7 +11133,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 (आचारकाण्डस्य)
 
-![](../books_images/U-IMG-1699643839218-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699643839218-removebg-preview.png"/>  
 
 अ।
 
@@ -11187,7 +11179,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 (आचारकाण्डस्य)
 
-![](../books_images/U-IMG-1699643368217-removebg-preview(2).png)
+<MISSING_FIG href="../books_images/U-IMG-1699643368217-removebg-preview(2"/>.png)
 
 **अ**
 
@@ -11533,7 +11525,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 (आचारकाण्डस्य )
 
-![](../books_images/U-IMG-1699632169215-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1699632169215-removebg-preview.png"/>
 
 **आ।**
 
@@ -11590,7 +11582,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **( आचारकाण्डस्य )**
 
-**![](../books_images/U-IMG-1699631894215-removebg-preview(1).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699631894215-removebg-preview(1"/>.png)**
 
 **द।**
 
@@ -11610,7 +11602,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **(आचारकाण्डस्य )**
 
-**![](../books_images/U-IMG-1699631731215-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699631731215-removebg-preview.png"/>**
 
 **आ।**
 
@@ -11717,7 +11709,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **(आचारकाण्डस्य )**
 
-**![](../books_images/U-IMG-1699630999215-removebg-preview(1).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699630999215-removebg-preview(1"/>.png)**
 
 **म।**
 
@@ -11737,7 +11729,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **( आचारकाण्डस्य )**
 
-**![](../books_images/U-IMG-1699630701214-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699630701214-removebg-preview.png"/>**
 
 **आ।**
 
@@ -11796,7 +11788,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **(आचारकाण्डस्य )**
 
-**![](../books_images/U-IMG-1699630168214-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699630168214-removebg-preview.png"/>**
 
 **स।**
 
@@ -11814,7 +11806,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **(आचारकाण्डस्य )**
 
-**![](../books_images/U-IMG-1699629934214-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699629934214-removebg-preview.png"/>**
 
 **आ।**
 
@@ -11929,7 +11921,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **(आचारकाण्डस्य )**
 
-**![](../books_images/U-IMG-1699629189214-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699629189214-removebg-preview.png"/>**
 
 **उ।**
 
@@ -11969,7 +11961,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **(आचारकाण्डस्य)**
 
-**![](../books_images/U-IMG-1699628784214-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699628784214-removebg-preview.png"/>**
 
 **अ।**
 
@@ -12022,7 +12014,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **(आचारकाण्डस्य )**
 
-**![](../books_images/U-IMG-1699628486214-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699628486214-removebg-preview.png"/>**
 
 **ज।**
 
@@ -12069,7 +12061,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **(आचारकाण्डस्य)**
 
-![](../books_images/U-IMG-1699627997213-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1699627997213-removebg-preview.png"/>
 
 **उ।**
 
@@ -12101,7 +12093,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI4MTI2OTM2MzQ
 
 **(आचारकाण्डस्य**
 
-![](../books_images/U-IMG-1699627447212-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1699627447212-removebg-preview.png"/>
 
 **अ।**
 
@@ -12278,7 +12270,7 @@ x     x     x    x
 
 **पराशरमाधवस्याकारादिक्रमेण विषयसूची।**
 
-**![](../books_images/U-IMG-1699620377120-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699620377120-removebg-preview.png"/>**
 
 व्यवहारकाण्डस्य।
 
@@ -12764,7 +12756,7 @@ x     x     x    x
 
 प्रज्ञापनपत्रम्।
 
-![](../books_images/U-IMG-1699031676Screenshot2023-11-03224415.png)
+<MISSING_FIG href="../books_images/U-IMG-1699031676Screenshot2023-11-03224415.png"/>
 
 (व्यवहारकाण्डस्य )
 
@@ -12778,7 +12770,7 @@ x     x     x    x
 
 प्रज्ञापनपत्रम्।
 
-**![](../books_images/U-IMG-1699031931Screenshot2023-11-03224825.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699031931Screenshot2023-11-03224825.png"/>**
 
 (**व्यवहारकाण्डस्य)**
 
@@ -12794,7 +12786,7 @@ x     x     x    x
 
 प्रज्ञापनपत्रम्।
 
-![](../books_images/U-IMG-1699032427Screenshot2023-11-03225642.png)
+<MISSING_FIG href="../books_images/U-IMG-1699032427Screenshot2023-11-03225642.png"/>
 
 (व्यवहारकाण्डस्य)
 
@@ -12808,7 +12800,7 @@ x     x     x    x
 
 प्रज्ञापनपत्रम्।
 
-![](../books_images/U-IMG-1699032609Screenshot2023-11-03225642.png)
+<MISSING_FIG href="../books_images/U-IMG-1699032609Screenshot2023-11-03225642.png"/>
 
 (**व्यवहारकाण्डस्य)**
 
@@ -12827,7 +12819,7 @@ x     x     x    x
 पराशरमाधवोल्लिखितानिर्दिष्टनामपुराणवचनाना-  
 मकारादिक्रमेण प्रज्ञापनपत्रम्।
 
-![](../books_images/U-IMG-1699032863Screenshot2023-11-03225642.png)
+<MISSING_FIG href="../books_images/U-IMG-1699032863Screenshot2023-11-03225642.png"/>
 
 (**व्यवहारकाण्डस्य)**
 
@@ -12840,7 +12832,7 @@ x     x     x    x
 पराशरमाधवोल्लिखितेतिहासनाम्नामकारादि-  
 क्रमेण प्रज्ञापनपत्रम् ।
 
-![](../books_images/U-IMG-1699033058Screenshot2023-11-03230658.png)
+<MISSING_FIG href="../books_images/U-IMG-1699033058Screenshot2023-11-03230658.png"/>
 
 (व्यवहारकाण्डस्य)
 
@@ -12853,7 +12845,7 @@ x     x     x    x
 पराशरमाधवोल्लिखितस्मर्त्तृनाम्नामकारादिक्रमेण  
 प्रज्ञापनपत्रम्।
 
-![](../books_images/U-IMG-1699075298Screenshot2023-11-04105107.png)
+<MISSING_FIG href="../books_images/U-IMG-1699075298Screenshot2023-11-04105107.png"/>
 
 (व्यवहारकाण्डस्य)
 
@@ -13047,7 +13039,7 @@ x     x     x    x
 **पराशरमाधवोल्लिखितग्रन्थकर्त्तृनाम्नामकारादिक्रमेण  
 प्रज्ञापनपत्रम्।**
 
-![](../books_images/U-IMG-1699088427Screenshot2023-11-04143009.png)
+<MISSING_FIG href="../books_images/U-IMG-1699088427Screenshot2023-11-04143009.png"/>
 
 (व्यवहारकाण्डस्य)
 
@@ -13089,7 +13081,7 @@ x     x     x    x
 
 (प्रायश्चित्तकाण्डस्य)
 
-![](../books_images/U-IMG-1699089051Screenshot2023-11-04143959.png)
+<MISSING_FIG href="../books_images/U-IMG-1699089051Screenshot2023-11-04143959.png"/>
 
 |                       |                          |
 |-----------------------|--------------------------|
@@ -13201,7 +13193,7 @@ x     x     x    x
 
 वबयोः पर्य्यावर्त्तनं स्वयमेव करणीयम्।
 
-![](../books_images/U-IMG-1699180305Screenshot2023-11-05115303.png)
+<MISSING_FIG href="../books_images/U-IMG-1699180305Screenshot2023-11-05115303.png"/>
 
 **पराशरमाधवस्याकारादिक्रमेण विषयसूची।**  
 
@@ -13209,7 +13201,7 @@ x     x     x    x
 
 ।
 
-![](../books_images/U-IMG-1699180827Screenshot2023-11-05160942.png)
+<MISSING_FIG href="../books_images/U-IMG-1699180827Screenshot2023-11-05160942.png"/>
 
 अ।  
 
@@ -13991,3 +13983,4 @@ x     x     x    x
 
 \]
 
+[^32]: "पौगण्डपृगश्च,—इति स० शा०।"

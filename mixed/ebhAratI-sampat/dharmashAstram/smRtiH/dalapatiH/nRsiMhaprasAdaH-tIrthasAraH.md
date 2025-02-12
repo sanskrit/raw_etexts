@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0Nzk4Njg0ODA
 
 **दलपतिराज विरचितः**
 
-**![](../books_images/U-IMG-1687013832Capturea.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1687013832Capturea.PNG"/>**
 
 वाराणीस्थराजकीय महाविद्यालयाध्यापकेन न्यायव्याकरणाचार्य-
 
@@ -31,7 +31,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ0Nzk4Njg0ODA
 
 पण्डित सूर्यनारायण शुक्लेन संशोधितः
 
-![](../books_images/U-IMG-1687013689Capture.PNGg.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1687013689Capture.PNGg.PNG"/>
 
 THE
 
@@ -53,17 +53,17 @@ Nyāya Vyākaraṇāchārya Miṁānsā Śiromaṇi,
 
 Assistant Professor, Govt. Sanskrit College, Benares.
 
-![](../books_images/U-IMG-1687013766Capturec.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1687013766Capturec.PNG"/>
 
 1936.
 
-**![](../books_images/U-IMG-1687441010Screenshot2023-06-22190637.png)![](../books_images/U-IMG-1687441087Screenshot2023-06-22190753.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1687441010Screenshot2023-06-22190637.png"/><MISSING_FIG href="../books_images/U-IMG-1687441087Screenshot2023-06-22190753.png"/>**  
 
-**![](../books_images/U-IMG-1687019183a.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1687019183a.PNG"/>**
 
 **तीर्थसारस्य सूचीपत्रम्-**
 
-![](../books_images/U-IMG-1687176928Screenshot2023-06-19174502.png)
+<MISSING_FIG href="../books_images/U-IMG-1687176928Screenshot2023-06-19174502.png"/>
 
 |                            |     |
 |:--------------------------:|-----|
@@ -86,13 +86,13 @@ Assistant Professor, Govt. Sanskrit College, Benares.
 |    मलप्रहरामाहात्म्यम्     |    |
 |          उपसंहारः          |    |
 
-![](../books_images/U-IMG-1687176826Screenshot2023-06-19174315.png)
+<MISSING_FIG href="../books_images/U-IMG-1687176826Screenshot2023-06-19174315.png"/>
 
 श्रीविश्वेश्वरः शरणम् ।
 
 **तीर्थसारस्य भूमिका–**
 
-**![](../books_images/U-IMG-1687087900Screenshot2023-06-18170110.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1687087900Screenshot2023-06-18170110.png"/>**
 
   अथेदानीमस्यामेव ग्रन्थमालायां समुपक्रान्तमुद्रणस्य महतो धर्मशास्त्रनिबन्धस्य क्रमेण संस्कारसारः आह्निकसारः भाद्धसारः कालनिर्णयसारः व्यवहारसारः प्रायश्चित्तसारः कर्मविपाकसारः व्रतसारः दानसारः शान्तिसारः तीर्थसारः प्रतिष्ठासारः इत्येवं द्वादशप्रकरणात्मकस्य नृसिंहप्रसादाख्यस्य तृतीयपञ्चमषष्ठप्रकरणमुद्रणानन्तरमेकादशं तीर्थसाराख्यं प्रकरणं संमुद्र्य तीर्थदर्शनार्थिनां सौकर्याय श्रीमतां करकमलयोरुपायनीक्रियते।
 
@@ -115,14 +115,14 @@ Assistant Professor, Govt. Sanskrit College, Benares.
 
 **काशी।**
 
-**![](../books_images/U-IMG-1687091205Screenshot2023-06-18175607.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1687091205Screenshot2023-06-18175607.png"/>**
 
 **श्रीदलपतिमहाराजविरचितो**
 
 **नृसिंहप्रसादः।**
 
 **तीर्थसारः।**  
-![](../books_images/U-IMG-1687019564aa.PNG)  
+<MISSING_FIG href="../books_images/U-IMG-1687019564aa.PNG"/>  
 **अथ सेतुबन्धमाहात्म्यम्।**
 
 तत्र प्रशंसा स्कन्दपुराणे—
@@ -375,7 +375,7 @@ Assistant Professor, Govt. Sanskrit College, Benares.
 
 **इतिसेतुबन्धमाहात्म्यम्।**
 
-![](../books_images/U-IMG-1687092204Screenshot2023-06-18181249.png)
+<MISSING_FIG href="../books_images/U-IMG-1687092204Screenshot2023-06-18181249.png"/>
 
 **अथपुण्डरीकक्षेत्रमाहात्म्यम्\।**
 
@@ -975,7 +975,7 @@ Assistant Professor, Govt. Sanskrit College, Benares.
 
 ** इतिपुण्डरीकक्षेत्रमाहात्म्यम्।**
 
-![](../books_images/U-IMG-1687072849Captureb.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1687072849Captureb.PNG"/>
 
 **अथामर्दकमाहात्म्यम्**
 
@@ -1377,7 +1377,7 @@ Assistant Professor, Govt. Sanskrit College, Benares.
 
 **इत्यामर्दकमाहात्म्यम्।**
 
-**![](../books_images/U-IMG-1687093084Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1687093084Capture.PNG"/>**
 
 **अथ गयामहात्म्यम्।**
 
@@ -1945,7 +1945,7 @@ Assistant Professor, Govt. Sanskrit College, Benares.
 
 **इति गयातीर्थमाहात्म्यम् ।**
 
-![](../books_images/U-IMG-1687174839Screenshot2023-06-18170110.png)
+<MISSING_FIG href="../books_images/U-IMG-1687174839Screenshot2023-06-18170110.png"/>
 
 **अथ गोदावरीमाहात्म्यम् ।**
 
@@ -3631,7 +3631,7 @@ Assistant Professor, Govt. Sanskrit College, Benares.
 
 **इति कृष्णवेणीमाहात्म्यम् ।**
 
- ![](../books_images/U-IMG-1687439371Screenshot2023-06-22183916.png)
+ <MISSING_FIG href="../books_images/U-IMG-1687439371Screenshot2023-06-22183916.png"/>
 
 **अथ नर्मदामाहात्म्यम् ।**
 
@@ -4491,9 +4491,9 @@ Assistant Professor, Govt. Sanskrit College, Benares.
 
 श्रीनृसिंप्रसादेऽस्मिन्संपूर्णं कुरुते शुभम् ॥
 
+ 
 इतिश्रीमच्चतुर्दशभुवनैकनाथमहेन्द्रादिदेवगणपूजितचरणकमल-सटा-डम्बरव्याप्तभुवनत्रयभक्ता-नुग्रहकारि-प्रसन्नवदन-प्रह्लादप्रणयवरद-करभाव-करदानेकराजाभयंकर-जगदेकसुन्दरश्रीमल्लक्ष्मी-नृसिंहचरणयुगलसरोरुहभ्रमर-सूर्यवंशतिलकौत्कलतैरभुक्तगौडगुर्जरमालवमागधपाञ्चालकार्णाटान्ध्रा-नेकप्रौढराजस्पृहणी यकीर्ति-सकलभूमण्डलाखण्डलदिङ्मण्डलीमण्डनीयनिजभुजार्जितप्रतापासादित-सकलसाम्राज्यपरमवैभवस्वपदच्युतसंस्थापितानेकमण्डलाधीश्वर-सकल-सामन्तचक्रचूड़ामणिकिरण-रञ्जितचरणारविन्द-सकलभूमण्डलमण्डनश्रीमत्प्रौढप्रताप-महाराजाधिराज सर्वपुरीसुन्दरीदेवगिरिपुरी-वराधीश्वर-समस्तयवनाधीश्वरश्रीमन्निजामशाहसम-स्तकरणाधीश्वर-सकलविद्याविशारदयाज्ञवल्कीय-गुप्तशाखाप्रवर्तक-द्विजराजकुलालंकारहीर-वैष्णवधर्मप्रवर्तकश्रीवल्लभात्मजश्रीवल्लभपण्डितप्रसादा-सादितश्रीसूर्य-पण्डिताभिधगुरुमन्वा-दिप्रणीतनीतिशास्त्राभिज्ञमहाप्रभुस्वकार्यनिरीक्षणप्रतिनिधीकृत-श्रीमन्महाराजश्रीदलपति-विरचिते-श्रीनृसिंहप्रसादे एकादशस्तीर्थसारः सम्पूर्णः ॥
 
-![](../books_images/U-IMG-1687178227Screenshot2023-06-19180638.png)
+<MISSING_FIG href="../books_images/U-IMG-1687178227Screenshot2023-06-19180638.png"/>
 
 \]
-

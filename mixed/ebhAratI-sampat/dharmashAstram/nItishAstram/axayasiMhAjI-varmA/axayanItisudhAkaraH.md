@@ -17,17 +17,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 \[
 
-![](../books_images/U-IMG-1693825105Screenshot2023-09-04162003.png)
+<MISSING_FIG href="../books_images/U-IMG-1693825105Screenshot2023-09-04162003.png"/>
 
 **श्रीः**
 
 **अक्षयनीतिसुधाकरः**
 
-**![](../books_images/U-IMG-1693825197Screenshot2023-09-04162120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1693825197Screenshot2023-09-04162120.png"/>**
 
 **भाषाटीकासहितः**
 
-**![](../books_images/U-IMG-1693825240Screenshot2023-09-04162208.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1693825240Screenshot2023-09-04162208.png"/>**
 
 मुद्रक व प्रकाशक
 
@@ -36,10 +36,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 अध्यक्ष– ‘लक्ष्मीवेङ्कटेश्वर’ स्टीम् प्रेस, कल्याण–बम्बई ४.
 
 संवत् २०१४. \]     
-![](../books_images/U-IMG-1693825316Screenshot2023-09-04163145.png) 
+<MISSING_FIG href="../books_images/U-IMG-1693825316Screenshot2023-09-04163145.png"/> 
     \[ सन् १९५८.
 
-![](../books_images/U-IMG-1693825389Screenshot2023-09-04162003.png)
+<MISSING_FIG href="../books_images/U-IMG-1693825389Screenshot2023-09-04162003.png"/>
 
 [TABLE]
 
@@ -136,7 +136,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 अकाराद्यनुक्रमणिका।  
 
-![](../books_images/U-IMG-1693883887Screenshot2023-09-05084753.png)
+<MISSING_FIG href="../books_images/U-IMG-1693883887Screenshot2023-09-05084753.png"/>
 
 |               |             |
 |:-------------:|:-----------:|
@@ -1076,16 +1076,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 इत्यक्षयनीतिसुधाकरस्याकाराद्यनुक्रमणिका समाप्ता ।
 
-![](../books_images/U-IMG-1694016608Screenshot2023-09-06213952.png)
+<MISSING_FIG href="../books_images/U-IMG-1694016608Screenshot2023-09-06213952.png"/>
 
-![](../books_images/U-IMG-1694016655Screenshot2023-09-06214025.png)
+<MISSING_FIG href="../books_images/U-IMG-1694016655Screenshot2023-09-06214025.png"/>
 
 **ॐ परमात्मने नमः ।**
 
 **अथाऽक्षयनीतिसुधाकरः।**
 
 **भाषाटीकासमेतः।  
-![](../books_images/U-IMG-1694019248Screenshot2023-09-06222342.png)**
+<MISSING_FIG href="../books_images/U-IMG-1694019248Screenshot2023-09-06222342.png"/>**
 
 **प्रथमस्तबकः १.**  
 
@@ -1175,6 +1175,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 **  अर्थ-** उनमेंभी सदैव पिताकी भक्ति विशेषरूपसे करनी चाहिये कारण कि, जिसकी देव परमेश्वर में परमभक्ति है अर्थात् जैसी परमेश्वर में भक्ति है उसी प्रकार गुरुमें अर्थात् पितामें भक्ति है उस मनुष्यके हाथमें इस लोक और परलोकका श्रेष्ठ सुख विद्यमान है ॥१३॥
 
+ 
+
 **अत्र गुरुशब्दः पितुर्वाचकोस्त्येव-गुरुः पिता गुरुर्ज्येष्ठो गुरुः सुरपुरोहितः॥ इत्यनेकार्थध्वनिमंजर्याम्। यतः सर्वैर्निर्व्यलीकेन पितुर्भक्तिर्विधेया यौनैर्व्यलीकेन पितुः शुश्रूषणं कृतं तैः सर्वे लोका जिता यतो युवराजेन मया सर्वदा पितुः शुश्रूषणं विधेयमित्येवावश्यंविचार्य ग्रंथादौ पितुर्भक्तिर्दर्शितेति ज्ञातव्या विद्वद्वर्यैः॥ १४॥**
 
  **अर्थ-** इस स्थान में गुरुशब्द पिताकाही वाचक है कारण कि, गुरु पिता और गुरु ज्येष्ठ (बड़ा) और गुरु सुरपुरोहित ( बृहस्पति) गुरुशब्द इतने अर्थोमेंवर्त्तनाहै ऐसा” अनेकार्थध्वनिमंजरीकोष ग्रंथ में लिखा है इसी कारण सबको निष्कपट होकर पिताकी भक्ति करनी चाहिये। जिन्होंने प्रपंच छोडके शुद्धभावसे पिता की सेवा की है उन्होंने मानो संपूर्ण लोकोंको वशीभूत करलिया इसी कारण मुझ युवाराजको सर्वदा पूज्यपाद पिताकी सेवा करनी चाहिये पिताकी भक्ति अवश्य कर्त्तव्य है इस बातको भली प्रकार विचार के ग्रंथके आदिर्में मैंने पिताकी भक्तिका निरूपण कियाहै यह विद्वानाोंको समझना चाहिये ॥१४॥
@@ -1190,7 +1192,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 ** अर्थ -** इस कारण संपूर्ण युवराजोंको विशेष करके पिताकी सेवा अवश्य करनी चाहिये यह मेरी प्रार्थना है ॥१६
 
 इति पुत्रकर्त्तव्यता।  
-![](../books_images/U-IMG-1694022597Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1694022597Screenshot2023-06-15124029.png"/>
 
 **अथ युवराजकृत्यम् ।**
 
@@ -3411,7 +3413,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 इति राजाश्रितकार्यम् ।
 
-![](../books_images/U-IMG-1694226225Screenshot2023-08-01215804.png)
+<MISSING_FIG href="../books_images/U-IMG-1694226225Screenshot2023-08-01215804.png"/>
 
 अथ सयविभागः।
 
@@ -3668,7 +3670,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 इति समयविभागः।
 
-![](../books_images/U-IMG-1694234022Screenshot2023-09-09100313.png)
+<MISSING_FIG href="../books_images/U-IMG-1694234022Screenshot2023-09-09100313.png"/>
 
 **अथ दंडप्राधान्यम्।**
 
@@ -3739,7 +3741,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 इति दंडप्राधान्यम्।  
 
-![](../books_images/U-IMG-1694335757Screenshot2023-09-09100313.png)
+<MISSING_FIG href="../books_images/U-IMG-1694335757Screenshot2023-09-09100313.png"/>
 
 **अथ व्यसनानि।**
 
@@ -3845,7 +3847,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 इतत्यष्टादशव्यसनानि।
 
-![](../books_images/U-IMG-1694353633Screenshot2023-09-09100313.png)
+<MISSING_FIG href="../books_images/U-IMG-1694353633Screenshot2023-09-09100313.png"/>
 
 **अथ यशस्वी।**
 
@@ -3897,7 +3899,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 **इति यशस्वी।**
 
-![](../books_images/U-IMG-1694355549Screenshot2023-09-09100313.png)
+<MISSING_FIG href="../books_images/U-IMG-1694355549Screenshot2023-09-09100313.png"/>
 
 **अथ जीवन्मृतः।**
 
@@ -4008,7 +4010,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 छसौ छासठ रुपिये पुंणिग्यारह आनेको खजाने की वृद्धि के प्रतिवर्ष खजाने में रक्खै ॥ ४४२ ॥ ४४३ ॥
 
-![](../books_images/U-IMG-1694515763Screenshot2023-09-12161849.png)  
+<MISSING_FIG href="../books_images/U-IMG-1694515763Screenshot2023-09-12161849.png"/>  
 
 **आयस्यैवंषड्विभागैर्व्ययं कुर्यात्तु वत्सरे \।\।  
 सामंतादिषु धर्मोयं न न्यूनस्य कदाचन ॥ ४४४ ॥**
@@ -4083,7 +4085,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 **भाषाटीकासमेतः।**
 
-![](../books_images/U-IMG-1697435799कककक.png)  
+<MISSING_FIG href="../books_images/U-IMG-1697435799कककक.png"/>  
 
 **द्वितीयस्तबकः २.**
 
@@ -4519,7 +4521,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
  अर्थ–सेनाका अधिपति क्षत्रीहीको बनावै, और योग्य क्षत्री के अभावमें ब्राह्मणको सेनाध्यक्ष बनावै, सेनापतिके योग्य क्षत्री तथा ब्राह्मण के अभाव में भीवैश्य को तथा शूद्रको सेनापति न बनावै और कायर क्षत्री तथा ब्राह्मण को भी कदापि सेनापति न बनावै अर्थात् शूरवीर ही को सदा सेनापति बनावै ॥ ८३ ॥
 
 **इति दशमकृतयः।  
-![](../books_images/U-IMG-1694689364Screenshot2023-09-14163232.png)**
+<MISSING_FIG href="../books_images/U-IMG-1694689364Screenshot2023-09-14163232.png"/>**
 
 **अथ सभासदाः (सभा के मैम्बर)**
 
@@ -4555,7 +4557,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
  अर्थ–राज्यविभूतिसे अलंकृत होने की इच्छा करनेवाला राजा अच्छे बुद्धिमानों को अपना सहायक बनावै और छत्रचामर, आदि तथा आज्ञा (हुक्म) मात्रकी आधिक्यता अपने आधीन रखके उनके साथ विविधभोगों को भोगै उन साहायकों के निमित्त (प्रत्यक्ष ) सन्मुख तथा परोक्ष (पीठपीछे) भी राजाकी वृत्ति समान ही होनी चाहिये इस प्रकार जो राजा राज्यशासन करता है वह इस लोक में दुःख का भागी नहीं होना ॥ ८९ ॥९०॥
 
 **इति सभासदाः ।  
-![](../books_images/U-IMG-1694690240Screenshot2023-09-14163232.png)**
+<MISSING_FIG href="../books_images/U-IMG-1694690240Screenshot2023-09-14163232.png"/>**
 
 **अथ प्रतिनिधिसमयः ।**
 
@@ -4593,7 +4595,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
  अर्थ– इस प्रकार, प्रकृति आदि वर्गको अपने अपने अधिकार पर नियत करके राजा अपनी कर्तव्यतासे युक्त होकर प्रजाकी बहुत सावधानी पूर्वक रक्षा करै॥ ९७ ॥
 
 **इति प्रतिनिधि समयः ।  
-![](../books_images/U-IMG-1694691545Screenshot2023-09-14163232.png)**
+<MISSING_FIG href="../books_images/U-IMG-1694691545Screenshot2023-09-14163232.png"/>**
 
 **अथ चारः (हलकारा वा गुप्तपुलिस) ।**
 
@@ -4663,7 +4665,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
  अर्थ– अपने राज्य में अधिकारोंपर नियत किये हुए अधिकारियोंकी अच्छी बुरी चेष्टा (आचरण) को गूढ चारोंके द्वारा जानके उनमें राजा प्रजाके हितकारी श्रेष्ठ कार्यों के करनेवाले अधिकारियोंका तौ राजा सत्कार करे और राज्यकार्य में हानिकारक तथा प्रजाद्रोहीको अधिकारसे दूर करै अर्थात् घूँस आदि लेनेवालेको अधिकारसे दूर करदै ॥१०९॥
 
 **इति चाराः ।  
-![](../books_images/U-IMG-1694699521Screenshot2023-09-14163232.png)**
+<MISSING_FIG href="../books_images/U-IMG-1694699521Screenshot2023-09-14163232.png"/>**
 
 **अथान्याधिकारिणः।**
 
@@ -4705,7 +4707,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 नहीं होता, किंतु सुवर्णमें जडने योग्य मणिको कथीरमें जडनेसे जडने वाले की ही निंदा होती है ॥ ११६ ॥
 
 **इति अन्याविकारिणः ।  
-![](../books_images/U-IMG-1694699916Screenshot2023-09-14163232.png)**
+<MISSING_FIG href="../books_images/U-IMG-1694699916Screenshot2023-09-14163232.png"/>**
 
 **अथ लेखकः ।**
 
@@ -4725,7 +4727,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
  अर्थ– शब्दार्थके तत्त्वको जाननेवाले, गणना करनेमें कुशल पवित्र कर्मों के सेवन करने वाले, नाना प्रकारकी लिपिको जाननेवाले अर्थात् सब देशोंके अक्षरोंको लिख पढ सकते हों ऐसे मनुष्यों को राजा गणक ( हिसाबी काम करनेवाला) और लेखक (लिखदार ) बनावै ॥११९॥
 
 **इति लेखकः ।  
-![](../books_images/U-IMG-1694700351Screenshot2023-09-14163232.png)**
+<MISSING_FIG href="../books_images/U-IMG-1694700351Screenshot2023-09-14163232.png"/>**
 
 **^()अथ कोशाध्यक्षः।**
 
@@ -4745,7 +4747,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
  अर्थ– जो धन वढानेवाला अमात्य है वह ही सब अमात्यों में श्रेष्ठ समझा जाता है इसीसे कोशाध्यक्ष को उचित है कि, खजाने को ही अपना प्राण समझे कारण कि, भूपति के प्राण प्राण नहीं है कोश ही भूपतिका प्राण है अर्थात् कोश हीन राजा निर्जीव है ॥ १२२ ॥
 
 **इति कोशाध्यक्षः।  
-![](../books_images/U-IMG-1694743500Screenshot2023-09-14163232.png)**
+<MISSING_FIG href="../books_images/U-IMG-1694743500Screenshot2023-09-14163232.png"/>**
 
 **अथ परिचारकाः।**
 
@@ -4856,7 +4858,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
   अर्थ– हे राजन् युधिष्ठिर ! भृत्योंके संग अत्यंत परिहास (हास्यमस्करी) करने में तत्पर, मृदु स्वभाववाले, हर्षुल राजाके राज्य शासन में ये कहे हुए दोष तथा अन्य भी कितने ही प्रकार के दोष निश्चय प्रगट हो जाते हैं इस कारण भृत्यों के संग राजा हारयमस्करी न करे ॥ १४२ ॥
 
 **इति परिचारकाः।  
-![](../books_images/U-IMG-1694745014Screenshot2023-09-14163232.png)**
+<MISSING_FIG href="../books_images/U-IMG-1694745014Screenshot2023-09-14163232.png"/>**
 
 **अथ नतिस्थाननिबोधकः (चोपदार अथवा छडीदार )।**
 
@@ -5218,7 +5220,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 भाषाटीकासमेतः
 
-![](../books_images/U-IMG-1694774438Screenshot2023-09-15161016.png)
+<MISSING_FIG href="../books_images/U-IMG-1694774438Screenshot2023-09-15161016.png"/>
 
  ॐ आब्रह्मन् ब्राह्मणो ब्रह्मवर्च्चसी जायतामाराष्ट्रे राजन्यः शूर इषव्योतिव्याधी महारथो जायतां दोग्ध्री धेनुर्वोढानड्वानाशुः सप्तिः पुरं धिर्योषाजिष्णू रथेष्ठाः सभेयोयुवास्य यजमानस्य वीरो जायतां निकामे निकामे नः पर्जन्यो वर्षतु फलवत्यो न ओषधयः पच्यन्तां योगः क्षेमो नः कल्पताम् ॥ १ ॥
 
@@ -6961,6 +6963,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 मातामातृकुलं चैव पिता तत्पितरौ तथा॥
 
+  
 पितृपितृव्यात्मकन्या पत्नी तत्कुलमेव च॥३१८॥
 
   अर्थ— माता और माता के कुटुंबी (नाना आदि) पिता और पिताके मातापिता (दादा दादी) पिता के काका और अपनी कन्या और पत्नी तथा पत्नीका कुटुंब (साला आदि)॥३१८॥
@@ -7138,10 +7141,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 **अथाऽक्षयनीतिसुधाकरः ।**  
 
 **भाषाटीकासमेतः ।**  
-![](../books_images/U-IMG-1694094198Screenshot2023-09-07191042.png)  
+<MISSING_FIG href="../books_images/U-IMG-1694094198Screenshot2023-09-07191042.png"/>  
 चतुर्थस्तबकः ४
 
- ॐ अग्ने जातान् प्रणुदानः सपत्नान् प्रत्यजातान्नुद्जातवेद॥ अधिनो ब्रूहि सुमनाऽअहेडँस्तव स्याम शर्मस्रिवरूथ उद्गौ॥१॥ सहसा जातान् प्रणुदानः सपत्नान् प्रत्यजाताञ्जातवेदो नुदस्व॥अधिनो ब्रुहि सुमनस्यमानोवय![](../books_images/U-IMG-1694600720Screenshot2023-09-13155454.png) स्याम प्रणुदानः सपत्नान् ॥२॥ रुचं नोधेहि ब्राह्मणेषुरुच![](../books_images/U-IMG-1694600819Screenshot2023-09-13155454.png)राज सुनस्कृधि॥ रुचंविश्येषुशुद्रेषुमयि धेहि रुचःरुचम् ॥३॥
+ ॐ अग्ने जातान् प्रणुदानः सपत्नान् प्रत्यजातान्नुद्जातवेद॥ अधिनो ब्रूहि सुमनाऽअहेडँस्तव स्याम शर्मस्रिवरूथ उद्गौ॥१॥ सहसा जातान् प्रणुदानः सपत्नान् प्रत्यजाताञ्जातवेदो नुदस्व॥अधिनो ब्रुहि सुमनस्यमानोवय<MISSING_FIG href="../books_images/U-IMG-1694600720Screenshot2023-09-13155454.png"/> स्याम प्रणुदानः सपत्नान् ॥२॥ रुचं नोधेहि ब्राह्मणेषुरुच<MISSING_FIG href="../books_images/U-IMG-1694600819Screenshot2023-09-13155454.png"/>राज सुनस्कृधि॥ रुचंविश्येषुशुद्रेषुमयि धेहि रुचःरुचम् ॥३॥
 
 **अथ राज्ययोग्यदेशराजधानी दुर्गे च।**
 
@@ -9106,14 +9109,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 इति श्रीमन्महाराजकुमार–श्रीअक्षयासहजीवर्मानामते अक्षयनीतिसुधाकरे  
 भाषाटीकासमलकृतः चतुर्थः स्तबकः समाप्तः ॥४॥
 
-![](../books_images/U-IMG-1694182475Screenshot2023-09-08194422.png)
+<MISSING_FIG href="../books_images/U-IMG-1694182475Screenshot2023-09-08194422.png"/>
 
 ॐ परमात्मने नमः।
 
 **अथाक्षयनीतिसुवाकरः।**
 
 **भाषाटीकासमेतः।**  
-![](../books_images/U-IMG-1694182611Screenshot2023-09-08194628.png)
+<MISSING_FIG href="../books_images/U-IMG-1694182611Screenshot2023-09-08194628.png"/>
 
 **पंचमस्तबकः ५.**
 
@@ -9897,7 +9900,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 **॥ श्रीः ॥**  
 
 बनेडा राज्यका संक्षिप्त इतिहास ।  
-![](../books_images/U-IMG-1694232792Screenshot2023-09-09094259.png)  
+<MISSING_FIG href="../books_images/U-IMG-1694232792Screenshot2023-09-09094259.png"/>  
 
 बनेडा राज्यके संस्थापक राजा भोमसिंहजी \।
 
@@ -10081,6 +10084,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
 
 यह आपकी ही उदारता तथा नीतिज्ञता का फल है । आप सदैव प्रजा के हित में लगे रहते हैं और सबके दुःख दर्द को पूर्ण सहानुभूति से सुनते हैं ।
 
+ 
+
 संवत् १९७१ में जब महायुद्ध आरंभ हुआ था राजा साहब ने साहब एजेन्ट टु दी गवर्नर जनरल को युद्ध में अपनी निजकी सेवा और संपूर्ण वैभव समर्पण किया उसका उन्होंने बडा ही धन्यवाद दिया।युद्धके दिनों में वे हर प्रकार से सहायता देते रहे। प्रजावर्ग में से जो लोग सेना में भरती हुए उनको कई रिआयतें दीं तथा युद्ध के अन्तिम दिन तक १००) मासिक देते रहे। एरोप्लेन फंड तथा अन्य युद्धकार्यों में भी आपने अच्छे चंदे दिये।
 
   संवत् १९६० तथा १९६८ के दोनों दिल्लीदरबारों में राजा साहब पधारे थे और संवत् १९७९ में जब प्रिन्स आफ वेल्स अजमेर पधारे मिस्टर हालैन्ड अब ए. जी. जीने उनके साथ आपका परिचय कराया।
@@ -10112,11 +10117,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE0MDAyOTgzNDA
   बनेडा नगर की जनसंख्या ४२२२ है जिनमें से २११२ पुरुष हैं तथा २११० स्त्रियां हैं।वनेडा में एक म्यूनिसिपैलिटी है जिसमें स्थानीय कार्यों की देखरेख के निमित्त सभासद चुने जाते हैं ।
 
 **इति ।  
-![](../books_images/U-IMG-1696054955Screenshot2023-08-04125502.png)**
+<MISSING_FIG href="../books_images/U-IMG-1696054955Screenshot2023-08-04125502.png"/>**
 
 **पुस्तक मिलनेका ठिकाना—**
 
 [TABLE]
 
 \]
-

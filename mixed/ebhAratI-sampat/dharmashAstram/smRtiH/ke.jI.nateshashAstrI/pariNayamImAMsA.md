@@ -30,7 +30,7 @@ Prace Twelve Annas.\]
 *of*  
 KADAYAM, (TINNEVELLY.)
 
-![](../books_images/U-IMG-1709781401pari3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1709781401pari3.jpg"/>
 
 **SRIRANGAM:**  
 SRI VANI VILAS PRESS.  
@@ -48,7 +48,7 @@ SRI VANI VILAS PRESS.
 
 विरचिता ।
 
-![](../books_images/U-IMG-1709781695pari4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1709781695pari4.jpg"/>
 
 श्रीरङ्गस्थ
 
@@ -89,7 +89,7 @@ K. G. Natesa Sastri.
 
 **॥ परिणयमीमांसा॥**
 
-**![](../books_images/U-IMG-1709651545parinoy-2.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1709651545parinoy-2.jpg"/>**
 
 ॐ नमो ब्रह्मादिभ्यो ब्रह्मविद्यासंप्रदायकर्तृभ्यो वंशऋषिभ्यो नमो गुरुभ्यः॥
 
@@ -164,11 +164,11 @@ K. G. Natesa Sastri.
 परिणयमीमांसायां बलाबलविचारोनाम  
 द्वितीयोध्यायः॥
 
-![](../books_images/U-IMG-1709407090parinaya2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1709407090parinaya2.jpg"/>
 
 **तृतीयोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1709659229Parinaya-3.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1709659229Parinaya-3.jpg"/>**
 
  अवसितः श्रुत्यर्थविचारः। इदानीं स्मृतीर्विचारयामः। तत्र गर्भाष्टमं वयो हि स्त्रीणां विवाहकाल इति प्रथममेव प्रपञ्चितमस्माभिर्भूमिमारचितवद्भिः। गौणोपि कालःप्राक्रजोदर्शनात् इति स्मृतिभ्योऽवगच्छामः। कथं। प्रायश्चित्तस्मरणात्, निन्दा श्रवणात्, निषेधदर्शनाच्च। प्रायश्चित्तं हि स्मर्यते विवाहात् पूर्वं रजः पश्यन्त्याः कन्यायाः, तत्पितुः, तद्वोढुश्च स्मृतिषु। तथा हि—निर्णयसिन्धावाश्वलायनः—।
 
@@ -241,13 +241,13 @@ K. G. Natesa Sastri.
 **तृतीयोऽध्यायः॥  
 समाप्तश्चायं ग्रन्थः॥**
 
-**![](../books_images/U-IMG-1709406923parinai.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1709406923parinai.jpg"/>**
 
 **॥ श्रीः ॥ **
 
 **॥ विद्वद्वर्याणां अभिप्रायः ॥**
 
-![](../books_images/U-IMG-1709782394pari5.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1709782394pari5.jpg"/>
 
 शेषं समावेशनसूत्रमत्र
 

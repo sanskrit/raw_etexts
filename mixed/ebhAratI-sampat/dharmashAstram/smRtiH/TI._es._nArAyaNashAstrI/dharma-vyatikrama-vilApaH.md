@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMjUzODg1NjE
 
 [TABLE]
 
-![](../books_images/U-IMG-1724767539Screenshot(60).png)
+<MISSING_FIG href="../books_images/U-IMG-1724767539Screenshot(60"/>.png)
 
 श्रीकाञ्च्यां  
 श्री मन्मद्रपुरी वर्णाश्रमधर्मसंरक्षण सभायाः  
@@ -32,7 +32,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwMjUzODg1NjE
 द शा व ता र द ण्ड क स म ल ङ्कृ तः
 
 **धर्म व्यतिक्रम विलापः  
-![](../books_images/U-IMG-1724767629Screenshot(61).png)**
+<MISSING_FIG href="../books_images/U-IMG-1724767629Screenshot(61"/>.png)**
 
  **अ**हह! कथमिव समायातोऽयं दुर्भाग्यमयः समयः सनातनधर्मस्य! यद्, यत्र गरुडाङ्किता महाध्वजाः ममुद्धूननै र्गगनतलोद्धयमानपवन मपावयन्, तत्र विस्रगन्धिनो विविधसाञ्चारि-करोगनिदानभूता वीथिप्रणाल्युध्मानधूमध्वजा भारताभिजसघनकलङ्का इव समुद्धूयन्ते; यत्र कोटिजन्मार्जितमहापातकदी-
 

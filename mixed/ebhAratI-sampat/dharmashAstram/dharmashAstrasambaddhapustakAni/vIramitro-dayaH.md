@@ -12,7 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 \[
 
+
+
 मित्रमिश्रः वीरमित्रोदय, समयप्रकाश
+
 
 {१}
 
@@ -47,6 +50,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 श्रीमान्भीमानुकारी बहलबलभरैर्मेदिनीमल्लनामा ।  
 आसीदासीविषेन्द्रद्युतिधवलयशा भूपचक्रावतसः  
 सीकाशीराजवंशे विधुरिव जलधौ सर्वभूसार्वभौमः । । ७ । ।
+
 
 {२}
 
@@ -561,6 +565,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति संवत्सरनिर्णयः ।
 
+
 अथायनं निरूप्यते ।
 
 तत्र यद्यप्ययनशब्देन"अयनं वर्त्म मार्गाध्व"इति कोशात्मार्गंसामान्यमुच्यते ।  
@@ -821,6 +826,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति दिवसः ।
 
+
 अथ पक्षः ।
 
 सद्विविधः शुक्लकृष्णभेदात् ।  
@@ -839,6 +845,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 तथा, हेमन्तशिशिरयोश्चतुर्णामपरपक्षाणामष्टमीष्वष्टका इत्यादि ।
 
 इति पक्षः ।
+
 
 अथ सामान्यतस्तिथिर्निर्णीयते ।
 
@@ -878,6 +885,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 सम्पूर्णा इति विख्याताः ।
 
 इति नारदीयोक्तेः ।
+
 
 {१९}
 
@@ -1016,6 +1024,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 चतुर्थी च तृतीयायां महापुण्यफलप्रदा । ।  
 इत्यादि ।
 
+
 {२२}
 
 तथा खर्वदर्पवाक्यं व्याघ्रोसनसोः
@@ -1072,6 +1081,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 द्वितीयादिकयुग्मानां पूज्यतानियमादिषु ।  
 एकोद्दिष्टादिवृद्ध्यादौ ह्रासवृद्ध्यादिचोदना । ।
+
 
 {२३}
 
@@ -1148,6 +1158,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 न चोपक्रमप्रभृतिसमाप्तिपर्यन्तं पार्वण एवापराह्णसम्बन्धात्ऽययास्तंऽ इतिवचनस्य तद्विषयत्वमेवास्त्विति वाच्यं ।  
 शुक्लपक्षगतपार्वणस्यापि पूर्वह्ण एवोपक्रमातुपक्रमप्रभृतिसमाप्तिपर्यन्तमपराह्वसम्बन्धाभावात् ।
 
+
 {२५}
 
 शुक्लपक्षस्य पूर्वाह्णे श्राद्धं कुर्याद्विचक्षणः ।  
@@ -1220,6 +1231,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 घटिकार्घं त्रिभागं वा स्वल्पं वा दूषयोत्तिथिं ।  
 पञ्चगव्यघटं पूर्णं सुराया बिन्दुको यथा । ।
 
+
 {२७}
 
 तथाः  
@@ -1259,7 +1271,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति श्रीमत्सकलसामन्तचक्रचूडामणिमरीचिमञ्जरीनिराजितचरणकमलश्रीमन्महाराजाधिराजप्रतापरुद्रतनूजश्रीमन्महाराजमधुकरसाहसूनुश्रीमन्महाराजाधिराजचतुरुदधिवल यवसुन्धरापुण्डरीकविकासदिनकरश्रीवीरसिंहदेवोद्योजितश्रीहंसपण्डितात्मजश्रीपरशुराममिश्रसुनुसकलविद्यापारावारपारीणधुरीणजगद्दारिद्र्यमहागजपारीन्द्रविद्वज्जनजीवातुश्रीमन्मित्रमिश्रकृते श्रीवीरमित्रोदयाभिधनिबन्धे समयप्रकाशे सामान्यतिथिनिर्णयः ।
 
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 
 {२८}
 
@@ -1536,6 +1550,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति द्वितीयानिर्णयः ।
 
+
 अथ तृतीयानिर्णयः ।
 
 रम्भातृतीयातिरिक्ता तृतीया उपवासादिसकलदैवेषु चतुर्थीयुता ग्राह्या ।  
@@ -1799,7 +1814,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति चतुर्थीनिर्णयः ।
 
+
 {३९}
+
 
 अथ पञ्चमीनिर्णयः ।
 
@@ -1954,6 +1971,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति षष्ठीनिर्णयः ।
 
+
 अथ सप्तमी निर्णीयते ।
 
 सा च सर्वत्र दैवे पूर्वविद्धैव ग्राह्या ।  
@@ -1996,6 +2014,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 तदा"गुणे त्वन्याय्यकल्पना"इतिन्यायात्गुणानुरोधेन प्रधानत्यागायोगात्निषेधमतिक्रम्यापि व चनाभावेऽपि गुणकालत्वेन अष्टमीविद्धाया एवोपादानं न्याय्यं ।  
 माघशुक्लसप्तमी चारुणोदयव्यापिनी ग्राह्या ।
 
+
 {४३}
 
 सूर्यग्रहणतुल्या तु शुक्लमाघस्य सप्तमी ।  
@@ -2005,6 +2024,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 वैशाखशुक्लसप्तम्यां गङ्गापूजा तत्र मध्यान्हव्यापिनी ग्राह्या शिष्टाचारात् ।
 
 इति सप्तमीनिर्णयः ।
+
 
 अथाष्टमीनिर्णयः ।
 
@@ -2120,6 +2140,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 तत्राष्टम्यां यदा वारो भानोर्नक्षत्रमेव च ।  
 नीलज्येष्ठेति सा प्रोक्ता दुर्लभा बहुकालिकी । ।
+
 
 {४५}
 
@@ -2273,6 +2294,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 तन्न ।  
 तत्र तद्योगासम्भवात् ।
 
+
 अथ कृष्णजन्माष्टमी निर्णीयते ।
 
 यद्यपीयं
@@ -2408,6 +2430,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इत्यादेः सामान्यतः श्रुतस्यात्रापि प्राप्तेरित्यनवद्यं ।
 
 इति जन्मष्टमीनिर्णयः ।
+
 
 अथास्याः पारणनिर्णयः ।
 
@@ -2597,6 +2620,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति रामनवमीनिर्णयः ।
 
+
 आश्विनशुक्लनवमी दुर्गानवमी सैव महानवमी ।  
 तथा च
 
@@ -2634,6 +2658,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 आश्वयुक्शुक्लनवमी मुहूर्तं वा कला यदि ।  
 सा दिथिः सकला ज्ञेया लक्ष्मीविद्याजयार्थिभिः । ।
+
 
 {५५}
 
@@ -2706,6 +2731,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति दशमीसामान्यनिर्णयः ।
 
+
 ज्येष्ठशुक्लदशमी दशहरा ।
 
 दशमी शुक्लपक्षे तु ज्येष्ठमासे कुजेऽहनि ।  
@@ -2727,6 +2753,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति ।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
 इति स्कन्दपुराणात् ।  
 अत्र योगविशेष उक्तस्तत्रैव
 
@@ -2746,6 +2773,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 उदये दशमी किञ्चित्सम्पूर्णैकादशी यदि ।  
 श्रवणर्क्षे यदा काले सा तिथिर्विजयाभिधा । ।
+
 
 {५७}
 
@@ -2802,6 +2830,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इयं च द्वादशी राजन्! प्रबोधार्थं विनिर्मिता ।  
 मयैषा सर्वलोकानां हितार्थं शेषशायिना । ।
+
 
 {५८}
 
@@ -2933,6 +2962,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 असम्भवे तुलार्केऽपि कर्तव्यं तत्प्रयत्नतः ।
 
+
 अथैकादशीव्रतं निर्णीयते ।
 
 तत्र
@@ -3008,6 +3038,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 प्राणाग्निहोत्रं नाम तद्"यदू भक्तं प्रथममागच्छेत्तद्धोमीयम्"इति विहितो भोजनाश्रितो नियमविशेषो नित्यतया विहितः ।  
 न चास्य आश्रयभूतभोजनाभावे लोपो दोषाय भवति तस्मादर्थवादः ।  
 हेमाद्रिस्तु ब्रह्मचारिगृहस्थयोर्मरणान्तिकानशनरूपतपोनिवृत्त्यर्थमिदं वचनमित्याह ।
+
 
 {६२}
 
@@ -3200,6 +3231,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति वचने रण्डायतिसमभिव्याहारात् ।  
 एवं च सधवाया गृहस्थवच्छुक्लायामेवाधिकार इत्यनवद्यं ।
 
+
 {६६}
 
 अथ व्रते एकादशीद्वैधं निर्णीयते ।
@@ -3236,6 +3268,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 अरुणोदयकाले तु दिशागन्धो भवेद्यदि ।
 
 इत्यादिवचनेषु अरुणोदयपदं तदपि मुहूर्तद्वयपरमेव ।
+
 
 यत्तु ब्रह्मवैवर्त्ते
 
@@ -3357,6 +3390,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति वैष्णवान्ग्रत्येकादशीनिर्णयः ।
 
+
 अथ स्मार्तान्प्रति ।
 
 तत्र शुद्धाभेदेन द्विविधापि एकादशी प्रत्येकं नवविधा ।
@@ -3374,6 +3408,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 शुद्धाधिकन्यूनद्वादशिका ७ शुद्धाधिकसमद्वादशिका ८ शुद्धाधिकाधिकद्वादशिका ९ एवं विद्धायामपीत्यष्टादश भेदाः ।  
 तत्र निर्णयसङ्ग्राहकश्लोकौ प्राच्यनिबन्धेषु
+
 
 {६९}
 
@@ -3832,6 +3867,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति श्रवणद्वादशीनिर्णयः ।
 
+
 अथ तदितरमहाद्वादशीनिर्णयः ।
 
 तत्र ब्रह्मवैवर्त्तेः  
@@ -3899,6 +3935,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति स्मरणात् ।
 
 इति द्वादशीनिर्णयः ।
+
 
 अथ त्रयोदशीनिर्णयः ।
 
@@ -4010,6 +4047,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति त्रयोदशीनिर्णयः ।
 
+
 अथ चतुर्दशीनिर्णयः ।
 
 तत्र व्यासः
@@ -4094,6 +4132,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 पूर्वविद्धा तु कर्तव्या परविद्धा न कर्हिचित् । ।  
 इति ।
 
+
 यत्तु नारदीये
 
 अष्टम्येकादशी षष्ठी कृष्णपक्षे चतुर्दसी ।  
@@ -4140,6 +4179,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 तदितरव्रतेषु"उभे पक्षे चतुर्दशी"इति प्रागुदाहृतपद्मपुराणात्तादृशवृद्धवशिष्ठवचनाच्च उत्तरविद्धा ग्राह्येति ।
 
 इति चतुर्दशीसामान्यनिर्णयः ।
+
 
 अथ नृसिंहचतुर्दंशीनिर्णयः ।
 
@@ -4253,6 +4293,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति भविष्योक्तेः ।  
 अस्या एव विश्वेश्वरप्रतिष्ठातिष्ठादिनत्वात्तत्प्रयुक्तपूजादावरुणोदयव्यापिनी ग्राह्या ।
 
+
 {८४}
 
 वर्षे च हेमलम्बाख्ये मासे श्रीमति कार्त्तिके ।  
@@ -4274,6 +4315,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति ब्रह्मपुराणात् ।
 
+
 अथ शिवरात्रिनिर्णयः ।
 
 तत्स्वरूपं शिवरहस्ये
@@ -4290,6 +4332,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 माघफाल्गुनयोर्मध्ये असिता या चतुर्दशी ।  
 शिवरात्रिस्तु सा ख्याता सर्वयज्ञोत्तमोत्तमा । ।  
 इति ।
+
 
 यत्तु भविष्यपुराणे
 
@@ -4337,6 +4380,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 बिल्वपत्रैर्नरश्रेष्ठ! कन्दमूलैश्च पारितः । ।  
 इति ।
 
+
 यत्तु क्वचितेकस्य द्वयोर्वा श्रवणं ।
 
 यथा,
@@ -4372,6 +4416,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 अर्णवो यदि वा शुष्येत्क्षीयेत हिमवानपि ।  
 मेरुमन्दरलङ्काश्च श्रीशैलो विन्ध्य एव च । ।
+
 
 {८६}
 
@@ -4596,6 +4641,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति शिवरात्रिनिर्णयः ।
 
+
 अथ पौर्णमासीनिर्णयः ।
 
 सा च सावित्रीव्रतातिरिक्ते कार्ये परैव ।  
@@ -4722,6 +4768,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 तद्वार्षिकमित्याचक्षत इति ।
 
+
 {९२}
 
 अनेन वर्षासम्बन्धिनोः श्रावणभाद्रपदयोर्मध्ये श्रावणस्य पूर्वं विहितत्वात्संज्ञाकरणसिद्धं भाद्रपदेऽनुष्ठानं स्तवयति ।  
@@ -4775,6 +4822,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 यद्यर्धरात्रादर्वाक्चेत्ग्रहः सङ्क्रम एव च ।  
 नोपाकर्म तदा कुर्यातावण्यां श्रवणेऽपि वा । ।
 
+
 {९३}  
 यानि तु
 
@@ -4822,6 +4870,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 सामगैस्तु सिंहस्थे सूर्ये हस्तनक्षत्रे कार्यं ।  
 प्रौष्ठपदीं हस्तेनेतिपूर्वोदाहृतगोभिलात् ।  
 प्रौष्ठपदीमित्यत्र प्रोष्ठपदः सौर एव सिंहार्किरूपः ।
+
 
 {९४}
 
@@ -4987,6 +5036,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 विस्तरस्तु मलमासनिरूपणे द्रष्टव्यः ।  
 अत्र विशेषो माधवीये
 
+
 {९७}
 
 वेदोपाकरणे प्राप्ते कुलीरे संस्थिते रवौ ।  
@@ -5076,6 +5126,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इत्युपाकर्मकालः ।
 
+
 अथोत्सर्जनं ।
 
 तत्र मनुः
@@ -5099,6 +5150,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति मनूक्तेः ।  
 प्रथमेऽहनीति पुष्य इत्यत्रापि सम्बध्यते ।
+
 
 {९९}
 
@@ -5157,6 +5209,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 तदा तु श्रावणे कुर्यादुत्सर्गं छन्दसां द्विजः । ।  
 इति ।
 
+
 {१००}
 
 प्रौष्ठपदे यो हस्तस्तस्मात्पूर्वः पुष्यो यदि श्रावणगतो भवेत्तदा श्रावण एवोत्सर्गं कुर्यादित्यर्थः ।  
@@ -5214,6 +5267,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति भविष्योक्तेः ।  
 कार्त्तिकपौर्णमासी त्रिपुरदाहे सन्ध्याव्यापिनी ग्राह्या ।
+
 
 {१०१}
 
@@ -5314,6 +5368,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 "यदहरुपवसथो भवति तदहः पूर्वाह्ण एव प्रातराहुतिं हुत्वा"इति गोभिलोक्तेः
 ।  
 एवं यागोऽपि प्रातरेव ।
+
 
 {१०३}
 
@@ -5528,6 +5583,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति प्रकृतेः कालनिर्णयः ।
 
+
 अथ विकृतेः ।
 
 तत्र दर्शपूर्णमासविकृतीनामिष्टिपशुबन्धादीनामतिदेशतो द्व्यहकालप्राप्तौ
@@ -5581,6 +5637,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 गोभिलसूत्रस्य त्वेकदेशवृत्तिनिमित्तप्रतिपादनार्थत्वेनाप्युपपत्तेः क्षणाभिधानपरत्वाभावादावर्तनतत्पूर्वसाध्यौदयिकपर्वणः प्रकृत्यवरुद्धत्वात्पूर्वपर्वणि प्रातस्तदभावेऽपि औदयिकप्रधानकालेनातिदेशिकप्रातः कालबाधस्योचितत्वात्पूर्वपर्वण्येव विकृत्यनुष्ठानमिति ।
 
 इति श्रीमत्सकलसामन्तचक्रचूडामणिमरीचिमञ्जरीनीराजितचरणकमलश्रीमन्महाराजाधिराजप्रतापरुद्रतनुजश्रीमन्मधुकरसाहुसूनुचतुरुदधिवलयवसुन्धराहृदयपुण्डरीकविकासदिनकरश्रीमन्महाराजाधिराजश्रीविरसिं होद्योजितहंसपण्डितात्मजपरशुरामणिश्रसूनुसकलविद्व्यापारावारपारीणधुरीणजगद्दारिद्व्यमहागजपारीन्द्रविद्वज्जनजीवातुश्रीमन्मित्रमिश्रकृते वीरमित्रोदयनिबन्धे समयप्रकाशे पर्वनिर्णयः ।
+
 
 {१०९}
 
@@ -5707,6 +5764,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 अत्र भूमिष्ठादेः पुण्यातिशयत्वस्तुतिर्भूमिष्ठाद्यसम्भव उद्धृतादिविध्युन्नयनार्था न तु गुणफलसम्बन्धः ।  
 स्नानफलमात्रार्थिनो गङ्गाकूपसमवाये कूपेऽपि स्नानप्रसङ्गात् ।  
 मासविशेषे तर्थिविशेषात्पुण्यातिशयो
+
 
 {१११}
 
@@ -6074,6 +6132,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 तेन राहुदर्शने वारितक्रादि तिलकुशयुतं कुर्यादिति विधीयते न दुष्यतीति दोषाभावस्तु नित्यनुवादः तिलकुशायोगे दोषः स्यादितिख्यापनायेत्यर्थः ।  
 वर्जनं च भोजने ।
 
+
 {११७}
 
 प्रेतश्राद्धे यदुच्छिष्टं ग्रहे पर्युषितं च यत् ।  
@@ -6139,6 +6198,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 माध्याह्निकक्रियापकर्षापत्तेः ।  
 किन्तु मूलकल्पनालाघवादुक्तकालादूर्द्ध्वं भोजनं निषिध्यते ।
 
+
 {११८}
 
 अथ वा"नाद्यात्सूर्यग्रहात्पूर्वं"इति निरवधिकभोजननिषेधस्यावधिसमर्पणमेतत् ।  
@@ -6189,6 +6249,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 ग्रस्तचन्द्रोदये नाहर्मोजनं ।
 
 ग्रस्तोदये विधोः पूर्वं नाहर्भोजनमाचरेत् ।
+
 
 {११९}
 
@@ -6305,6 +6366,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 एतच्च स्नानादि सर्वं चाक्षुष एवोपरागे ।  
 न त्वभ्रा दिच्छन्ने न चान्धानां ।
 
+
 {१२१}
 
 चन्द्रसूर्योपरागे तु यावद्दर्शनगोचरे ।  
@@ -6387,6 +6449,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति वाक्यशेषे कर्माधिकाररूपशुद्धिप्रतिपादनात् ।  
 एवं च जननाद्याशौचे निषेधप्रवृत्त्या दर्शनाप्रसक्तेर्न दोषो राहुदर्शने इत्यनुवादानुपपत्तिरनधिकारश्च पूर्वोक्त एव ।  
 न चाशौचिनौ दर्शननिषेधेऽपि
+
 
 {१२३}
 
@@ -6518,6 +6581,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 चन्द्रसूर्यग्रहे तीर्थे सिद्धक्षेत्रे शिवालये ।  
 मन्त्रमात्रप्रकथनमुपदेशः स उच्यते । ।
 
+
 {१२७}
 
 इति सारसङ्ग्रहादौ वचनात् ।  
@@ -6565,12 +6629,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति ग्रहणकालनिर्णयः ।
 
+
 अथैकभक्तनिर्णयः ।
 
 तत्स्वरूपं चोक्तं स्कन्दपुराणे
 
 दिनार्धसमयेऽतीते भुज्यते नियमेन यत् ।  
 एकभक्तमिति प्रोक्तमतस्तत्स्याद्दिवैव हि । ।
+
 
 {१२८}
 
@@ -6636,6 +6702,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 यत्तूपवासप्रतिनिधिभूतमेकभक्तं तत्तद्योग्यतिथौ मध्याह्ने कार्यं ।
 
 इत्येकभक्तनिर्णयः ।
+
 
 अथ नक्तनिर्णयः ।
 
@@ -6747,6 +6814,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति नक्तनिर्णयः ।
 
+
 अथ नक्तैकभक्तसन्निपाते निर्णयः ।
 
 तत्र यदेकभक्तनक्तादिविरुद्धं तिथिद्वयप्रयुक्तमेकस्मिन्दिने प्राप्नोति तत्र पूर्वप्रारब्धयोर्द्वयोः पूर्वतिथिप्रयुक्तमनुपसञ्जातविरोधित्वान्मुख्यकल्पेन कार्यम्, इतरत्तु अनुकल्पयेत् ।  
@@ -6755,6 +6823,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 कालस्यात्यन्तबाधाभावे कर्त्रनुरोधस्यापि न्याय्यत्वात् ।
 
 इति नक्तैकभक्तादिसन्निपाते निर्णयः ।
+
 
 अथायाचितनिर्णयः ।
 
@@ -6770,6 +6839,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इत्ययाचितनिर्णयः ।
 
+
 अथ नक्षत्रोपवासनिर्णयः ।
 
 तच्चास्तमयसम्बन्धि ग्राह्यं ।
@@ -6781,6 +6851,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 दिनद्वयेऽस्तमयसम्बन्धे वा पूर्वमेव निशीथव्याप्तेः सत्त्वात् ।
 
 इति नक्षत्रोपवासनिर्णयः ।
+
 
 अथ सङ्क्रान्तिनिर्णयः ।
 
@@ -6934,6 +7005,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 षाढीतिमुखेऽतीते वृत्ते च विषुवद्वये ।
 
+
 {१३५}
 
 इति देवीपुराणवाक्यात्वृत्त इत्याहुः ।  
@@ -7031,6 +7103,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति वशिष्ठवचनातर्द्धमेव ।  
 तदापि च यद्यर्द्धरात्रात्पूर्वं सङ्क्रमस्तदा पूर्वदिनस्य यद्यूर्ध्वं तदोत्तरस्य यदा तु अर्धरात्रे तदोभयोरिति व्यवस्थितमित्याह
 
+
 {१३७}
 
 स एव
@@ -7076,6 +7149,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 अर्धरात्रोत्तरं सक्रङ्मे तु भिन्नायामभिन्ना तदोत्तरदिनपूर्वार्धमित्यर्थसिद्धं ।  
 अर्धरात्रोत्तरं सक्रङ्मे तु भिन्नायामभिन्नायां वा पूर्वदिनतिथौ परेऽहन्येवेत्युत्तरार्धार्थः ।  
 यदा तु अर्धरात्रसङ्क्रमकालीना तिथिर्दिनद्वयार्धयोरपि भवति तदा पूर्वभीगिनीषु पूर्वदिनोत्तरार्धं उत्तरभोगिनीषु उत्तरदिनपूर्वार्धं उभयतोभोगिनीषु ऐच्छिको विकल्प इति व्यवस्था ।
+
 
 {१३८}
 
@@ -7185,6 +7259,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इतिसङ्क्रान्तिनिर्णयः ।
 
+
 अथ मलमासो निर्णीयते ।
 
 मलमासत्वं च एकमात्रसङ्क्रान्तिराहित्ये सति शुक्लादिमासत्वं ।  
@@ -7233,6 +7308,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 षष्टया तु दिवसैर्मासः कथितो बादरायणैः ।  
 पूर्वमर्द्धं परित्यज्य कर्तव्या चोत्तरे क्रिया । ।  
 इति ।
+
 
 "त्रयोदशमासाः संवत्सर"इति श्रुतिवचनं तत्त्रिंशद्दिवसमासाभिप्रायेण ।  
 मासविशेषसंज्ञत्वं चास्य चैत्रादिलक्षणाक्रान्तत्वात् ।
@@ -7404,6 +7480,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति मलमासनिर्णयः ।
 
+
 अथ मलमासे कार्याकार्यनिर्णयः ।
 
 तज्ञ पौठीनसिः
@@ -7489,6 +7566,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 मलमासेऽपि तत्कार्यं व्यासस्य वचनं यथा । ।
 
 इतिव्यासवचनेन दर्शश्राद्धस्यापि मलमासकर्तव्यताप्रतीतेश्च ।
+
 
 {१४६}
 
@@ -7655,6 +7733,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 प्रवृत्तं मलमासात्प्राक्यत्काम्यमसमापितं । ।  
 आगते मलमासेऽपि तत्समाप्यमसंशयं ।
 
+
 {१४९}
 
 इति मलमासेऽपि काम्यकर्मणः समाप्तिप्रतिपादकं काठकगृह्यं तत्सावनमानोपजीविकृच्छ्रचान्द्रायणाहीनसत्रादिविषयं ।  
@@ -7815,6 +7894,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 प्रथमाब्दिकं मल एव स्यात् ।  
 पुनराब्दिकं द्वितीयाद्याब्दिकं तु यदि तद्दिने मलमासपातस्तदा त्रयोदशे शुद्धे कुर्वीतेत्यर्थः ।
 
+
 {१५२}
 
 लघुहारीतोऽपि
@@ -7864,6 +7944,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 हेमाद्रिस्तु वत्सरात्प्रथमादृत इति सपिण्डीकरणादूर्ध्वमित्यत्रान्वेति
 ।  
 तथा च सपिण्डीकरणादूर्ध्वं यानि प्रथमसंवत्सरसम्बन्धीनि पुनर्मासिकानि क्रियन्ते तानि मलमासेऽपि कार्याणि इत्याह ।
+
 
 {१५३}
 
@@ -7917,6 +7998,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति वचनं तत्सामगानामेव प्रथमोपाकृतिनिषेधकं ।  
 माधवादयस्तु दशहरासु नेति वचनस्थं वृषादित इति हेतुवचनमनादृत्य
+
 
 {१५४}
 
@@ -8015,6 +8097,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 आब्दिकवद्वर्धापनेऽपि ज्ञेयं ।
 
 इति मलमासे कार्याकार्यनिर्णयः ।
+
 
 {१५६}
 
@@ -8184,6 +8267,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 अमावास्याष्टमेंऽशे च पुनः किल भवेदणुः । ।  
 इति ।
 
+
 {१५९}
 
 क्षीणः = चतुर्थभागोनकलावशिष्टः ।  
@@ -8276,6 +8360,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इत्यमावास्यानिर्णयः ।
 
+
 अथाष्टकाकालनिर्णयः ।
 
 तत्राश्वलायनःहेमन्तशिशिरयोश्चतुर्णामपरपक्षाणामष्टमीष्वष्टका इति
@@ -8326,6 +8411,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इतिब्रह्मपुराणवचनान्तरात्पौषकृष्णाष्टकायां शाकसन्तर्पणोक्तेः पौषमाघफाल्गुनगता एव तिस्र उक्ता भवन्ति ।  
 कूर्मपुराणे तु पौषादिगा एव तिस्र इति स्पष्टमुक्तं ।
 
+
 {१६२}
 
 अमावास्याष्टकास्तिस्रः पौषमासादिषु त्रिषु ।  
@@ -8374,6 +8460,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इत्यष्टका ।
 
+
 {१६३}
 
 अथान्वष्टका ।
@@ -8400,6 +8487,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 पूर्वेद्युः श्राद्धमङ्गमित्यपरे ।
 
 इत्यन्वष्टका ।
+
 
 अथ वृद्धिश्राद्धकालः ।
 
@@ -8504,6 +8592,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति वृद्धिश्राद्धकालाः ।
 
+
 अथ कृष्णपक्षश्राद्धकालः ।
 
 तत्र याज्ञवल्क्यः
@@ -8556,6 +8645,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 एतल्लोपे प्रायश्चित्तमेव गौणकालानाम्नानात् ।
 
 इति कृष्णपक्षश्राद्धकालः ।
+
 
 अथ कन्यागतापरपक्षः ।
 
@@ -8710,6 +8800,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 सकृत्करणं च पितुर्मृताहे तत्र वचनवारादिपिण्डदाननिषेधविन्तेत्याह
 
+
 {१६९}
 
 कात्यायनःः  
@@ -8849,6 +8940,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति मत्स्यपुराणात् ।
 
+
 अथ त्रयोदशी ।
 
 अत्र
@@ -8914,6 +9006,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इत्यादौ वर्षाया अपि पृथक्श्राद्धकालता स्यादिति वाच्यं ।
 
 "प्रावृट्काले सिते पक्षे त्रयोदश्यांऽ इति, तथा"वर्षात्रयोदश्याम्"इत्यादौ विशेषणत्वावगतेः ।
+
 
 {१७३}
 
@@ -9030,6 +9123,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति त्रयोदशी ।
 
+
 अथ चतुर्दशी ।
 
 मरिचिःः  
@@ -9140,6 +9234,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 सर्वस्वेनापीत्यनेनावश्यकत्वं ।  
 श्राद्धेच्छोपलक्षितश्च कालः श्राद्धकालः ।
 
+
 {१७७}
 
 मार्कण्डेयपुराणे
@@ -9210,6 +9305,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 कारणैः = माघपञ्चदशीयोगादिभिः ।
 
+
 अथ काम्यश्राद्धकालाः ।
 
 तत्र कात्यायनःअथ काम्यानि भवन्ति स्त्रियोऽप्रतिरूपाः प्रतिपदि, द्वितीयायां स्त्रीजन्म, अश्वास्तृतीयायां, चतुर्थ्यां क्षुद्रपशवः, पुत्राः पञ्चम्यां, षष्ठ्यां द्यूतर्द्धिः, कृषिः सप्तम्याम्, अष्टम्यां वाणिज्यम्, एकशफं नवम्यां, गावो दशम्यां, परिचारका एकादश्यां, द्वादश्यां धनधान्ये कुप्यम्, ज्ञातिश्रैष्ठयं त्रयोदश्यां युवानस्तस्मिन्म्रियन्ते शस्त्रहतस्य चतुर्दश्याममावास्यायां सर्वं ।
@@ -9240,6 +9336,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 सर्वान्कामान्बौधे, विद्यामभीष्टां जैवे, धनं शौक्रे, जीवितं शनैश्चरे ।
 
 इति काम्यश्राद्धकालाः ।
+
 
 {१७९}
 
@@ -9306,6 +9403,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 माघे पञ्चदशी राजन्! कलिकालसमा तु सा ।  
 एताश्चतस्रो राजेन्द्र! युगानां प्रभवाः शुभाः । ।
 
+
 {१८०}
 
 युगादयस्तु कथ्यन्ते तेनैताः पूर्वसूरिभिः ।  
@@ -9364,6 +9462,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति युगादयः ।
 
+
 {१८१}
 
 अथ युगान्ताः ।
@@ -9401,6 +9500,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति युगान्ताः ।
 
+
 अथ मन्वन्तरादयः ।
 
 मात्स्ये
@@ -9434,6 +9534,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति ।
 
 इति मन्वन्तरादयः ।
+
 
 अथ कल्पादयः ।
 
@@ -9495,8 +9596,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 तासु श्राद्धे कृते पुण्यमाकल्पस्थायि कल्पते ।
 
+
 मत्स्यपुराणे तु अन्यास्तिथयः कल्पादित्वेनोक्ताः ।  
 यथाः
+
 
 ब्रह्मणो हि दिनादिर्यः कल्पस्यादिः प्रकीर्त्तितः ।  
 वैशाखस्य तृतीयायां कृष्णायां फाल्गुनस्य च । ।
@@ -9516,6 +9619,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 प्राशस्त्यद्योतनार्थो वा एवशब्दः ।
 
 इति कल्पादयः ।
+
 
 अथ व्यतीपातः ।  
 वाराहपुराणे
@@ -9579,6 +9683,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 पाशाभिधाना = द्वादशीति हेमाद्रिः ।  
 करभेण = हस्तेनेति ।
 
+
 अथ वैधृतिः ।
 
 विष्णुःः  
@@ -9593,6 +9698,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति वैधूतिः ।
 
+
 {१८५}
 
 अथावमदिनं ।
@@ -9602,7 +9708,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 एकस्मिन्सावसानेऽह्नि तिथीनां त्रितयं यदा ।  
 तदा दिनक्षयः प्रोक्तस्तत्र साहस्रिकं फलं । ।
 
+
 अथ नवान्नश्रद्धकालः ।
+
 
 विष्णुधर्मोत्तरे
 
@@ -9612,6 +9720,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 (\*) वाह्यौ याप्यावित्यर्थः ।  
 \_\_\_\_\_\_\_\_\_\_
+
 
 व्रीहिः = शरत्पव्कधान्यं षष्टिकादि ।  
 अत एव
@@ -9687,6 +9796,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति नवोदकनवगृहकरणश्राद्धकालः ।
 
+
 अथ क्षयाहकालनिर्णयः ।
 
 तत्र ब्रह्मपुराणे
@@ -9706,6 +9816,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 अत्र मृताहशब्देन मरणाधिकरणकतिथिसजातीया तिथिर्विवक्षिता ।  
 संवत्सरान्ततिथौ मृतिसम्बन्धाभावात् ।  
 सजातीयत्वं च तिथेर्न प्रतिपदादित्वमात्रेण किन्तु तन्मासपक्षसजातीयमासपक्षगतत्वेन च ।
+
 
 {१८७}
 
@@ -9785,6 +9896,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 पारणे मरणे नॄणां तिथिस्तात्कालिकी स्मृता ।
 
 इतिवशिष्ठवचनेन मरणकालिक्या एवेति ।
+
 
 अथ क्षयाहाद्यज्ञाने सांवत्सरिककालनिर्णयः ।
 
@@ -9951,6 +10063,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति मृताहाज्ञाने सांवत्सरिककालनिर्णयः ।
 
+
 अथ श्राद्धविघ्ने निर्णयः ।
 
 तत्राशौचेन तावत्क्षयाहश्राद्धप्रतिबन्धे आशौचान्त्यदिनोत्तरदिने तत्कर्तव्यं ।  
@@ -9971,6 +10084,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 दानं प्रतिग्रहो होमः स्वाध्यायः पितृकर्म च ।  
 प्रेतपिण्डक्रियावर्जमाशौचे विनिवर्तते । ।  
 इति ।
+
 
 {१९३}
 
@@ -10180,6 +10294,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति श्राद्धविघ्ने निर्णयः ।
 
+
 अथ प्रेतश्रद्धानां कालाः ।
 
 तत्र तावत्द्विविधानि प्रेतश्राद्धानि नवानि नवमिश्राणि च ।
@@ -10224,6 +10339,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 प्रथमे सप्तमे चैव नवमैकादशेऽहनि ।  
 यत्तु वै दीयते जन्तोस्तन्नवश्राद्धमुच्यते । ।  
 इति ।
+
 
 {१९९}
 
@@ -10335,6 +10451,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इत्यत्र च विधीयमानं प्रेतोद्देशेन श्राद्धं ताभ्यां भिन्नमेव ।  
 नवश्राद्धमासिकयोरत्रात्यन्तमबुद्धिस्थत्वात् ।  
 कूर्मपुराणेऽपि"एकादशेऽह्नि कुर्वीत प्रेतमुद्दिश्य"इत्यादिना सधर्मकस्य प्रकृतिभूतस्यैकादशाहिकस्यैकोद्दिष्टस्यैव धर्मातिदेशो मासिकेषु दृष्टः ।
+
 
 {२०१}
 
@@ -10509,6 +10626,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति नवश्राद्धानां कालः ।
 
+
 अथावयवपिण्डकालाः ।
 
 तत्र ब्रह्मपुराणादौ"शिरस्त्वाद्येन पिण्डेन"इत्यारभ्य"दशमेन तु पूर्णत्वं"इत्यन्तेन ब्राह्मणे दशमपिण्डस्य दशमदिने कर्तव्यतामुक्त्वा
@@ -10645,6 +10763,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 तस्य त्रिरात्रमाशौचं द्वितीये त्वस्थिसञ्चयः ।  
 इति ।
 
+
 यत्तु कैश्चिन्नवीनैः सर्वकालानां सर्ववर्णविषयत्वेनेनोपन्यसनं तद्ब्रह्मपुराणवाक्यादर्शनमूलकमित्यश्रद्धेयमेव ।  
 न च ब्रह्मपुराणोक्तव्यवस्थापक्षे सप्तमनवमदिनपक्षयोर्निर्विषयता स्यादिति वक्तव्यं ।
 
@@ -10667,6 +10786,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 शुद्धिः सञ्चयने दाहान्मृताहस्तु यथाविधि । ।  
 इति ।
 
+
 अथोदकदानकालः ।
 
 गौतमःप्रथमतृतीयपञ्चमसप्तमनवमेषूदकक्रियेति ।
@@ -10675,6 +10795,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 प्रवृत्ताशौचतन्त्रस्तु यदि दर्शः प्रपद्यते ।  
 समाप्य चोदकं पिण्डान्स्नानमात्रं समाचरेत् । ।
+
 
 {२०७}
 
@@ -10769,6 +10890,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 आद्यादिषु च मासेषु कुयार्दूनाब्दिकादिकं । ।  
 इति ।
 
+
 {२०९}
 
 श्लोकगौतमोंऽपि
@@ -10827,6 +10949,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 अयमर्थः ।  
 द्वादशाहे इत्यनेन तत्र क्रियमाणमूनमासिकं, षण्मास इत्यनेनोनषाण्मासिकं, मासिकं प्रतिमासं मृताहे क्रियमाणं द्वादशसङ्क्याकम्, आब्दिकमूनाब्दिकं ।
+
 
 {२१०}
 
@@ -10946,6 +11069,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 अस्थिसञ्चयने श्राद्धं त्रिपक्षे मासिकानि च ।  
 रिक्तयोश्च तथा तिथ्योः प्रेतश्राद्धानि षोडश । ।  
 इति ।
+
 
 {२१३}
 
@@ -11160,6 +11284,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 यावद्वर्षं नरश्रेष्ठ! सतिलोदकपूर्वकं । ।  
 इति ।
 
+
 {२१७}
 
 हेमाद्रौ स्मृतिसमुच्चये
@@ -11262,6 +11387,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 कृष्णपक्षश्च तत्रापि वर्जयेत्तु दिनक्षयं ।
 
+
 {२१९}
 
 प्रेतश्राद्धं प्रकृत्य गार्ग्यः
@@ -11325,6 +11451,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 प्रेतश्राद्धेष्वपि सावकाशेषु न प्रवर्तन्ते ।  
 निरवकाशेषु स्वकालेऽनुष्ठीयमानेषु प्रवर्तन्ते ।
 
+
 {२२०}
 
 तदाह गोभिलः
@@ -11338,6 +11465,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 दैवादापतिता तत्र नक्षत्रादि न शोधयेत् । ।
 
 इति प्रेतक्रियाविहितनिषिद्धकालाः ।
+
 
 अथ सपिण्डीकरणकालः ।
 
@@ -11462,6 +11590,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 प्रकुर्वीताग्निमान्विप्रो मातापित्रोः सपिण्डनं । ।  
 इति ।  
 अत्रार्वाक्दर्शादित्युक्तावपि"एकादशाहे द्वादशाहे वा"इत्यादि बौधायनाद्युक्तविहितकाल एव कर्तव्यं, तदबाधेनैवोपपत्तौ बाधायोगात्स्वतन्त्रकालकल्पनाप्रसङ्गाच्च ।
+
 
 {२२३}
 
@@ -11708,6 +11837,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति गौतमवचनाच्च ।  
 यदा पूर्वेद्युरपराह्णव्यापिनी तदा पूर्वैव, ग्राह्या ।
 
+
 {२२८}
 
 तथाचमनुः
@@ -11805,6 +11935,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 मध्याह्नव्यापिनी या तु तिथिः पूर्वा परापि वा ।  
 तस्यां पितृभ्यो दातव्यं हासवृद्धी न कारणं । ।
 
+
 {२३०}
 
 इति बौधायनवचनान्निर्णयः ।  
@@ -11844,6 +11975,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इतिसामान्यश्राद्धतिथिनिर्णयः ।
 
+
 अथापराह्णदिलक्षणानि ।
 
 स्कन्दपुराणे
@@ -11862,6 +11994,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति ।
 
 अत्र माससमभागयोः पूर्वपक्षापरपक्षयोर्दृष्टान्तीकरणात्पूर्वार्धापरार्धरूपौ पूर्वाह्णापराह्णावह्नो भागौ प्रतीयेते ।
+
 
 {२३१}
 
@@ -11931,6 +12064,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 एते च पूर्वाह्णादयस्तु तत्तत्कर्मसु यथाविनियोजकं यथालाभं ग्राह्या यवब्रीह्यादिवत् ।  
 यद्वा"आवर्तनात्तु पूर्वाह्ण"इत्यादिवाक्यैस्सार्धस्पतमुहूर्तात्मकस्य कालस्य पूर्वाह्णत्वे बोधिते तदन्तर्गतसार्धप्रहराद्यात्मकस्याल्पपरिमाणस्य तदन्तर्गतत्वात्पूर्वाह्वत्वप्राप्तौ"पूर्वाह्णः प्रहरं सार्धम्"इत्यादिवचनानां वैयर्थ्यापत्तेरधिकाधिकपरिमाणपूर्वाह्णाद्यपेक्षयाल्पाल्पपरिमाणपूर्वाह्णादेस्तरतमभावः कल्पनीय इति हेमाद्रिः ।
 
+
 अथ कुतपकालः ।
 
 स्कन्दवायुपुराणयोःः  
@@ -11952,6 +12086,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 ब्राह्मणः कम्बलो गावो रूप्याग्न्यतिथयोऽपि च ।  
 तिला दर्भाश्च मध्याह्नो नवैते कुपाः स्मृताः । ।
+
 
 {२३३}
 
@@ -12254,6 +12389,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 पुत्रे जाते व्यतीपाते ग्रहणे चन्द्रसूर्ययोः ।  
 श्राद्धं कुर्यात्प्रयत्नेन पिण्डनिर्वपणादृते । ।
 
+
 {२३९}
 
 एवञ्च
@@ -12302,6 +12438,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इत्यादिवाक्येषु स्मृत्यन्तरविहितश्राद्धानुवादेन न पिण्डदानं पर्युदत्यते येनोक्तदोषावकाशः स्यात्किन्तु अपूर्वकर्मोत्पत्तिः क्रियते ।  
 स्मृत्यन्तरत्वाच्च न विहितस्य विधानं दोषाय ।
 
+
 {२४०}
 
 तेन पिण्डनिवर्पणादृत इत्यस्य स्ववाक्यविहिततत्तच्थ्राद्धविध्येकवाक्यत्वसम्भवात्पर्युदासत्वोपपत्तेर्युक्तैव पिण्डदाननिवृतिः ।
@@ -12311,6 +12448,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति श्रीमत्सकलसामन्तचक्रचूडामणिमरीचिमञ्जरीनीराजित चरणकमलश्रीमन्महाराजाधिराजप्रतापरुद्रतनूजश्रीमहाराजमधुकरसाहसूनु
 
 चतुरुदधिवलयवसुन्धराहृदयपुण्डरीकविकासदिनकरश्रीवीरसिंहदेवोद्योजितश्रीहंसपण्डितात्मजश्रीपरशुराममिश्रसूनु सकलविद्यापारावारपारीणधुरीणजगद्दारिद्षमहागजपारीन्द्रविद्वज्जनजीवात् श्रीमन्मित्रमिश्रकृते वीरमित्रोदयाभिधनिबन्धे समयप्रकाशे श्राद्धकालनिर्णयः ।
+
 
 अथ प्रकीर्णककालाः ।
 
@@ -12345,6 +12483,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 माघेऽपि विष्णुःः  
 तुलामकरमेषेषु प्रातःस्नायी भवेन्नरः ।
 
+
 {२४१}
 
 ब्राह्मे
@@ -12365,6 +12504,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 माघस्नानवतां पुण्यं क्रमात्तत्र च धारणा । ।  
 इति ।
 
+
 अथ प्रतिपत्प्रभृतिपुण्यतिथयः ।
 
 तत्र प्रतिपत्पाद्मे
@@ -12384,6 +12524,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति प्रतिपत् ।
 
+
 अथ द्वितीया ।
 
 स्कन्दपुराणे
@@ -12397,6 +12538,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति ।
 
 इति द्वितीया ।
+
 
 अथ तृतीया ।
 
@@ -12419,6 +12561,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 दानं श्रेयस्करं राजन्! स्त्रीणां च पुरुषस्य च । ।
 
 इति तृतीया ।
+
 
 अथ चतुर्थी ।
 
@@ -12453,6 +12596,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 शुक्ला मार्गशिरे पुण्या श्रावणे या च पञ्चमी ।  
 स्नानदानैर्बहुफला नागलोकप्रदायिनी । ।
 
+
 अथ षष्ठी ।
 
 भविष्यपुराणे
@@ -12474,6 +12618,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 महाषष्ठी तु सा ख्याताइति ।
 
 इति षष्ठी ।
+
 
 {२४३}
 
@@ -12500,9 +12645,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति सप्तमी ।
 
+
 अष्टम्यश्च जयन्त्यष्टकादुर्गाष्टमीरूपास्तत्र तत्रोक्ताः ।
 
 इत्यष्टमी ।
+
 
 अथ नवमी ।
 
@@ -12517,6 +12664,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति नंवमी ।
 
+
 अथ दशमी ।
 
 ज्येष्ठस्य शुक्लदशमी संवत्सरमुखी स्मृता ।  
@@ -12527,6 +12675,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 कार्तिकस्य तु मासस्य दशमी शुक्लपक्षगा ।  
 तस्यां व्रतादि कुर्वाणो लभते वाञ्छितं फलं । ।
 
+
 एकादशी द्वादशी च ।
 
 वाराहपुराणे
@@ -12534,11 +12683,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 एकादश्यामुपवसेत्पक्षयोरुभयोरपि ।  
 द्वादश्यां योऽर्चयेद्विष्णुमनन्तफलभाग्भवेत् । ।
 
+
 अथ त्रयोदशी ।
 
 स्कान्दे
 
 चैत्रे त्रयोदशी पुण्या तस्यां दशगुणं फलं ।
+
 
 {२४४}
 
@@ -12550,6 +12701,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 माघस्य कृष्णपक्षे यो दाने बहुफला हि सा । ।
 
 इति चतुर्दशी ।
+
 
 अथ पौर्णमासी ।
 
@@ -12604,6 +12756,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 तस्यां नियमकर्त्तारो न स्युः खण्डितसम्पदः । ।
 
 शशिपुत्रः = सौम्यः ।
+
 
 {२४५}
 
@@ -12732,6 +12885,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 तत्राश्वमेधिकं पुण्यं स्नातस्य च भवेन्नृप! ।  
 दानमक्षयतां याति पितॄणां तर्पणं तथा । ।
 
+
 {२४७}
 
 ब्रह्मपुराणे
@@ -12838,12 +12992,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति नक्षत्रवारादियोगप्रयुक्तपुण्यतिथयः ।
 
+
 अथ रात्रिकरणीयवर्ज्यानि ।
 
 रात्रौ स्नानं न कुर्वीत दानं चैव विशेषतः ।  
 नैमित्तिकं च कुर्वीत स्नानं दानं च रात्रिषु । ।
 
 इति रात्रिकरणीयवर्ज्यानि ।
+
 
 अथ चतुष्पथसेवावर्जनकालः ।
 
@@ -12852,6 +13008,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति ।
 
 इति चतुष्पथवर्जनकालः ।
+
 
 {२४९}
 
@@ -12865,6 +13022,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 मिथ्याभिदूषणं कुर्यात्तस्मात्पश्र्येन्न तं तदा । ।  
 इति ।
 
+
 षष्ठीवर्ज्यानि ।
 
 षष्ट्यां तैलं वर्जयेदभ्यङ्गे ।  
@@ -12873,6 +13031,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 षष्ठीषु तैलं पलमष्टमीषु क्षौरक्रियां चैव चतुर्दशीषु ।  
 स्त्रीसेवनं नष्टकलासु पुंसामायुःक्षयार्थं मुनयो वदन्ति । ।  
 इति ।
+
 
 अथ सप्तमीवर्ज्यानि ।
 
@@ -12888,6 +13047,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 निम्बस्य भक्षणं तैलं तिलैस्तर्पणमञ्जनं ।  
 सप्तम्यां नैव भुञ्जीत ताम्रपात्रेण भोजनं । ।  
 इति ।
+
 
 अथाष्टमीवर्ज्यानि ।
 
@@ -12917,6 +13077,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 विष्णुपुराणेः  
 चतुर्दशी अष्टमी च अमावास्या च पूर्णिमा ।  
 पर्वाण्येतानि राजेन्द्र! रविसङ्क्रान्तिरेवच । ।
+
 
 {२५०}
 
@@ -12978,6 +13139,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 दर्भच्छेदनिषेधमभिधायोक्तम्
 
 पितृदेवजपार्थं वा समादद्यादिति ।
+
 
 {२५१}
 
@@ -13383,6 +13545,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 कृते यदब्दाद्धर्मः स्यात्तत्र्रेतायामृतुत्रयात् ।  
 द्वापरे तु त्रिपक्षेण कलावहनि तद्भवेत् । ।
 
+
 {२५८}
 
 ब्रह्माण्डपुराणे
@@ -13555,6 +13718,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 गङ्गोत्तरवहा काश्यां लिङ्गं विश्वेश्वरं मम ।  
 उभे विमुक्तिदे प्लंसां प्राप्ते दावानले कलौ । ।
 
+
 {२६१}
 
 नारदीये
@@ -13589,6 +13753,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 वृथा दानानि तस्येह कलौ गङ्गां न याति यः । ।
 
 इति कलियुगधर्माः ।
+
 
 अथ कलियुगवर्ज्यानि ।
 
@@ -13715,6 +13880,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति कलिवर्ज्यानि ।
 
+
 अथ दीक्षाकालः ।
 
 कालोत्तरे
@@ -13784,6 +13950,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 दीक्षारम्भः प्रकर्तव्यो भूतिकामैः सिते तथा ।
 
 मुक्तिकामैः कृष्णपक्ष इति ।
+
 
 {२६६ ("२५७")}
 
@@ -13999,6 +14166,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 साधनं = साधनारम्भ इत्यर्थः ।  
 कार्यमिति शेषः ।
 
+
 अथ पूर्वोक्तदीक्षाकालापवादः ।
 
 अगस्तिसंहिताथाम्
@@ -14041,6 +14209,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 इति ।
 
 प्रसिद्धाः = समनन्तरोक्तास्तिथयः ।
+
 
 {२६९ ("२६१")}
 
@@ -14096,6 +14265,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 एवं ग्रहणादिकालेषु उक्तमासशुक्लद्वादश्यादिषु विष्णुदीक्षा कार्या इति ।
 
 इति दीक्षांकालाः ।
+
 
 {२७० ("२६२")}
 
@@ -14158,6 +14328,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति विष्णोर्नामकीर्त्तनकालः ।
 
+
 अथाधानकालः ।
 
 तत्र श्रुतिः
@@ -14197,6 +14368,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 आर्त्तः = व्याधितः ।  
 अतिवेलं श्रद्धायुक्तोऽतिशयेन श्रद्धावान् ।
 
+
 {२७२ ("२६४")}
 
 अथ कामनाविशेषेण ऋतव उक्ताः ।
@@ -14209,6 +14381,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 सौरा अपि मीनमेषौ मेषवृषौ वेत्यादिभेदेन द्विविधा इत्यपि चोक्तं ।  
 एवं च चैत्रवैशाखज्येष्ठास्तथा पूर्वोदाहृतात्"शिशिरः सार्ववर्णिक"इत्येतस्मान्माघफाल्गुनौ च मिलित्वा पञ्च मासा ब्राह्मणस्याधानकाल इति सिद्धं ।  
 एतन्मूलिकैव माघादिपञ्चमासा वसन्त इति याज्ञिकप्रसिद्धिरिति ।
+
 
 अथ तिथयः ।
 
@@ -14242,6 +14415,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 गृहांस्तस्याग्निर्द्दाहको भवति ।  
 रोहिण्यामाधाय सर्वान्रोहान्रोहति ।  
 मृगशीर्षे ब्रह्मवर्चसकामो यज्ञकामो वा यः पुराभद्रः सन्पापीयान्स्यात्स पुनर्वस्वोरादधीत ।
+
 
 {२७३}
 
@@ -14357,6 +14531,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 इति पशुकालः ।
 
+
 अथ चातुर्मास्यानां कालो निर्णीयते ।
 
 तत्र चातुर्मास्यानि कर्तव्यानीत्युक्तं याज्ञबल्क्येनचातुर्मास्यानि चैव हीति ।
@@ -14366,6 +14541,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 तानि च यावज्जीविकप्रयोगवन्ति, संवत्सरप्रयोगवन्ति, द्वादशाहप्रयोगवन्ति चेति त्रिविधानि ।  
 प्रयोगपर्याप्रकालपरिसमाप्यान्यपि केचिन्मन्यन्ते ।  
 तत्र संवत्सरप्रयोगवन्त्यपि द्विविधानि, ऋतकुयाजिकल्पेन चातुर्मास्ययाजिकल्पेन चेति ।
+
 
 {२७६}
 
@@ -14406,6 +14582,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 अत्र द्वितीयादिपदानि द्वितीयादितिथिपराणि प्रतिपदीति उपक्रमात्स्पष्टे चोक्तं बौधायनेन
 
 द्वादशाहेऽपि चातुर्मास्यैर्यजेताथ प्रथमायां वैश्वदेवेनेष्ट्वा चतुर्थ्यां वरुणप्रघासैरष्टम्यां नवम्यां च साकमेधेः द्वादश्यां शुनासीरीयैः पुरुषो यजेतेति विज्ञायत इति ।
+
 
 {२७७}
 
@@ -14450,6 +14627,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 
 उपमन्युमते तु प्रयोगदिने एव व्रतचर्येति ।
 
+
 {२७८}
 
 अपरे तु मास्तु यथाप्रयोगमित्यतः सन्ततकरणं तथापि"उदगयन आपूर्यमाणपक्षे समस्तानि"इति भारद्वाजवचनात्समस्तानां संलग्नानां प्रयोग इति ।  
@@ -14489,5 +14667,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4NDUwODUzNjI
 वीरमित्रोदयाभिधनिबन्धे समयप्रकाशः समाप्तः ।
 
 शुभं भूयात् ।  
+
+
 
 \]

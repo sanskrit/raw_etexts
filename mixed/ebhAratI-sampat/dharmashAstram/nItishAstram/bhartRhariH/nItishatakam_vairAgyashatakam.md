@@ -25,7 +25,7 @@ NîTI AND *V*AIRAGYA S'ATAKAS.
 
 BHARTRHARI
 
-![](../books_images/U-IMG-1698396194Screenshot2023-10-2714123400000000.png)
+<MISSING_FIG href="../books_images/U-IMG-1698396194Screenshot2023-10-2714123400000000.png"/>
 
 ***Edited with a Com. in Sans., an English***
 
@@ -49,7 +49,7 @@ Gopal Narayen & Co.
 
 INTRODUCTION.
 
-![](../books_images/U-IMG-1697913411Screenshot2023-10-22000610.png)
+<MISSING_FIG href="../books_images/U-IMG-1697913411Screenshot2023-10-22000610.png"/>
 
 THE POEM AND THE AUTHOR.
 
@@ -192,7 +192,9 @@ FOURTH EDITION,
 
 CONTENTS
 
-![](../books_images/U-IMG-1698045462Screenshot2023-10-23124653777777.png)
+<MISSING_FIG href="../books_images/U-IMG-1698045462Screenshot2023-10-23124653777777.png"/>
+
+ 
 
 The Satakas treat of the following themes:—
 
@@ -233,7 +235,7 @@ Miscellaneous. 1—14.
 अथ श्रीमद्भर्तृहरिविरचितं  
 नीतिशतकम्
 
-![](../books_images/U-IMG-1698045973Screenshot2023-10-2312554388888.png)
+<MISSING_FIG href="../books_images/U-IMG-1698045973Screenshot2023-10-2312554388888.png"/>
 
 **योनादिरप्यनुजिघृक्षुरपत्यहेतो–  
 स्तीव्रंतपो विदधतं मुनिमत्रिसंज्ञम् ॥  
@@ -1715,11 +1717,11 @@ Miscellaneous. 1—14.
 
  आयतः यः करवालः खङ्गः कररुह इव तेन विदीर्णम्। पक्षे आयतकरसम्बन्धिनोये बालकररुहाः कोमलनखाः यद्वा करवाल इव कररुहास्तैर्विदीर्णम् व्युत्पन्ना शृङ्गारविषये लब्धप्रावीण्या प्रौढा प्रगल्भा च। वनिता सुन्दरस्त्री।
 
-![](../books_images/U-IMG-1698423538Screenshot2023-10-27214826111111.png)
+<MISSING_FIG href="../books_images/U-IMG-1698423538Screenshot2023-10-27214826111111.png"/>
 
 **॥ श्रीगणेशाय नमः ॥  
 । अथ वैराग्यशतकम्।**  
-![](../books_images/U-IMG-1698423848Screenshot2023-10-27215331222222222.png)
+<MISSING_FIG href="../books_images/U-IMG-1698423848Screenshot2023-10-27215331222222222.png"/>
 
 चूडोत्तंसितचारुचन्द्रकलिकाचञ्चच्छिखाभास्वरो[^207]  
 लीलादग्धविलोलकामशलभः श्रेयोदशाग्रे स्फुरन् ।  
@@ -2281,6 +2283,8 @@ Miscellaneous. 1—14.
 [^297]: "अयं श्लोकोन्यथा पठ्यते कैश्चिद्यथात्रैलोक्याधिपतित्वमेव विरसं यस्मिन्महाशासने तल्लब्ध्वशनवस्त्रमानघटने भोगे रति मा कृथाः। भोगः (बोधः
 
  यत्र यस्मिन्भोगे स्थितः। पुरुष इति शेषः। ब्रह्मेन्द्रावादी येषां ते मरुद्गणा देवसंघास्तानपि। का कथेतरेषाम्। तृणलवानिव तुच्छान्मन्यते। मन्यकर्मण्यनादरे विभाषाऽप्राणिषु। (२–३–१७) इति विकल्पाद् द्वितीया। यस्यास्वादाद्रुच्यनुभवात्। त्रयो लोकास्त्रैलोक्यम्। ब्राह्मणादित्वात्ष्यम्। तत्र यद्राज्यं तदादि येषां ते विभवा विरसा रुचिहीना भवन्ति। एतस्यैवानन्दस्यान्यानि भूतानि मात्रामुपजीवन्तीति श्रुतेः। स तादृशः कोप्यनिर्वाच्यः परमः सर्वोत्कृष्टः एक एव भोगो नित्योदितः सर्वदा प्रकाशरूपः। अभिनवरस इत्यर्थः। जृम्भते उन्मिषति। हे साधो सत्पुरुष। उपदेशार्हेति यावत्। तस्मादितरे क्षणभङ्गुरे विषयादिभोगे रतिं रागमासक्तिमित्यर्थः। मा कृथा मा कार्षीः। लुङि न माङयोगे इत्यडागमननिषेधः। वृत्तं पूर्वोक्तम् ॥
+
+ 
 
 अथ कालमहिमावर्णनम् ।
 
@@ -2963,6 +2967,8 @@ Miscellaneous. 1—14.
 
 कदा शम्भो भविष्यामि कर्मनिर्मूलनक्षमः ॥९०॥
 
+      
+
  हे शम्भो शंकर। एकाकी असहायः। सङ्गरहित इत्यर्थः। संगात्संजायते काम इत्यादिवचनात्तस्यानर्थहेतुत्वात एकादाकिनिश्चासहाये इत्याकिनिच्प्रत्ययः। निःस्पृहः निस्तृष्णः। शान्त उपरतेन्द्रियः। रागाद्यनुपहतचित्त इत्यर्थः।शान्तो दान्त उपरतस्तितिक्षुः समाहितो (श्रद्धावित्तो) भूत्वेत्यादिश्रुतेः। पाणिः एव पात्रं यस्य सः। दिश एव अम्बरं वस्त्रं यस्य। संन्यासी त्यक्तसर्वपरिग्रहश्चत्यर्थः। कर्मणां संचितप्रारब्धानां निर्मूलने नाशे क्षमः समर्थः। कदा कस्मिन्काले भविष्यामि। एवंविधावस्थालालसोहमस्मिंइदानी संवृत्तः। तथा च भगवद्वचने गीतायाम्—एकाकी यतचित्तात्मा त्यक्तसर्वपरिग्रहः। शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम्॥ भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः। क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे॥ इति । अनुष्टुप् ॥
 
  एतदवस्थापन्नानां शिवप्रसादान्मोक्षमार्गः सुलभ एवेति निगमयति—
@@ -3247,10 +3253,12 @@ Miscellaneous. 1—14.
 
 शय्या शैलशिला गृहं गिरिगुहा वस्त्रं तरुणां त्वचः  
 सारङ्गाः सुहृदो ननु क्षितिरुहां वृत्तिः फलैः कोमलैः ।  
-येषां [नैर्झर](#)मम्बुपानमुचितं रत्यै[^468] च विद्याङ्गना  
+येषां नैर्झर[^513]मम्बुपानमुचितं रत्यै[^468] च विद्याङ्गना  
 मन्ये ते परमेश्वराः शिरसि यैर्वद्धो न सेवाञ्जलिः ॥११॥
 
 [^468]: "रन्येव"
+
+[^513]: #
 
  शैलशिला शैलसंबन्धिनी शिला एव शय्या। गिरेर्गुहागृहं। सारङ्गा हरिणाः पक्षिणो वा। क्षितिरुहां वृक्षाणां। वृत्तिः उपजीविका। रत्यै क्रांडार्थै विद्याङ्गना विद्यारुपा स्त्री। एवंविधपरिवारयुतैः यैः सेवार्थः अञ्जलिः सेवाञ्जलिः शिरसि मस्तके न बद्धः ते परमेश्वराः इति अहं मन्ये। धन्यास्ते सुकृतिनश्च यैः क्षुद्रोदरपूरणार्थमभीष्टतमं स्वातन्त्र्यं नापहारितमित्यर्थः। शार्दूलविक्रीडितम्॥
 
@@ -3271,9 +3279,11 @@ Miscellaneous. 1—14.
  यस्यां काश्याम्। तीव्रातितीमत्यन्ततीव्रं तपः कृच्छ्रादि। अद्भुतभोजनप्रकारसदृशं भवति। कौपीनस्य गुह्यस्य आवरणमाछादनं सुवस्त्रम्। अमितं परिमितिरहित भिक्षाटनं भिक्षार्थमटनं मण्डनं भूषणम्। यस्यां च आसन्नं निकटस्थितं मरणं मङ्गलसमं समुत्पद्यते। तां काशीं परिहृत्य परित्यज्य। इन्तेति खेदे।विबुधैः सुज्ञैः किमन्यत्र स्थीयते। अत्यन्तमाश्चर्यमिदमित्यर्थः । शार्दूल०
 
 नायं ते समयो रहस्यमधुना निद्राति नाथो यदि  
-स्थित्वा [द्रक्ष्यसि](#) कुप्यति प्रभुरिति द्वारेषु येषां वचः ।  
+स्थित्वा द्रक्ष्यसि[^514] कुप्यति प्रभुरिति द्वारेषु येषां वचः ।  
 चेतस्तानपहाय याहि भवनं देवस्य विश्वेशितु–  
 र्निर्दौवारिकनिर्दयोक्त्यपरुषं निःसीमशर्मप्रदम् ॥१४॥
+
+[^514]: #
 
  समयो दर्शनावसरः। रहस्यमेकान्तम्। यदि स्थित्वा द्रक्ष्यसि तर्हि प्रभुः कुप्यति इति येषां द्वारेषु वचः। हे चेतः तान् विहाय त्यक्त्वा विश्वस्य ईशितुः देवस्य। द्वारि नियुक्तः दौवारिकः। निर्दया उक्तयः निर्दयोक्तयः। निर्गता दौवारिकस्य निर्दयोक्तयः यस्मात्तत् निर्दौवारिकनिर्दयोक्तिः। अपरुषं निःसीमर्शमप्रदमत्यन्तसुखदं भवनं याहि। उन्मत्तपुरुषाणां परुषवचनश्रवणस्थानानि विहाय सर्वेदातारं करुणाकरं परमेश्वरं शरणमन्विच्छेति भावः ॥ शार्दूल०॥
 
@@ -3581,7 +3591,7 @@ TRANSLATION
 OF  
 NÎTIS'ATAKA.
 
-![](../books_images/U-IMG-1699161415Screenshot2023-11-05104603333333333..png)
+<MISSING_FIG href="../books_images/U-IMG-1699161415Screenshot2023-11-05104603333333333..png"/>
 
  1. Salutation to that peaceful Majesty whose form is pure knowledge, infinite and unconditioned by space, time, &c., and the principal means of knowing which is self-perception.
 
@@ -3885,7 +3895,7 @@ MISCELLANEOUS.
 TRANSLATION  
 OF  
 VAIRA´GYAS´ATAKA.  
-![](../books_images/U-IMG-1699624470Screenshot2023-11-10192333144444444444.png)
+<MISSING_FIG href="../books_images/U-IMG-1699624470Screenshot2023-11-10192333144444444444.png"/>
 
  1. Hara, the powerful lamp of knowledge, shines. bright in the house of the heart of ascetics; the lamp, which is resplendent with the flickering flame of light. from the beautiful digit of the moon, worn as crestornament, which barnt, with ease, the moth in the shope of the bustling Káma (the god of love), which sheds its quivering light at the top of the wick of supreme happiness. and which completely destroys the mass of darkness of unbounded infatuation existing (i. e, in the heart).
 
@@ -4200,6 +4210,7 @@ taneously), since they are not able in any way to do good to others (and since) 
 
  44. By the five senses, clever in ministering to their own advantage, which have marred supreme bliss, have I been duped, being revolved (among their objects) thus—Here is melodious music, here a dance, these are sweet flavoured viands, here is a spreading perfume, and here the touch of breasts.
 
+                                   
  **——————**
 
 NOTES
@@ -4208,7 +4219,7 @@ ON
 
 NITIS'ATAKA.
 
-![](../books_images/U-IMG-1701226494Screenshot2023-11-2908241444444444.png)
+<MISSING_FIG href="../books_images/U-IMG-1701226494Screenshot2023-11-2908241444444444.png"/>
 
  SI. 1. The poet begins with a salutation to Brahman, the *Supreme Ens*, which is one of the three modes prescribed for the opening of a poem by Sanskrt writers on Poetics, viz. आशीर्मनमस्क्रिया वस्तुनिर्देशो वापि तन्तुखम्[^510]—A blessing (to be conferred on the readers), a salutation (to the favourite Deity) and an indication of the subject matter are the three prescribed forms of introduction to a poem. It is also usual with Sanskrt writers to have what is technically called. *Mangalácharaña.* This is done either directly by an appeal to the favourite deity itself or to some of its attributes, or by the use of some such word as अथand the like. The efficacy of this *Mangala* is emphasised by all kinds of writers; see Patañ. quoted in the com.
 
@@ -5177,7 +5188,7 @@ APPENDIX.
 
 (गण०) of light and heavy syllables:—
 
-![](../books_images/U-IMG-1701178450Screenshot2023-11-2819032499999.png)
+<MISSING_FIG href="../books_images/U-IMG-1701178450Screenshot2023-11-2819032499999.png"/>
 
  The following couplet will help the student in remembering the long and short syllables forming each Gana—आदिमध्वसानेषु यरता यान्ति लाघवम्। भजसा गौरवं यान्ति मनौ यान्ति तु गुरुलाघवम् ॥
 
@@ -5397,4 +5408,3 @@ V. Give the context of:—
 **—————**
 
 \]
-

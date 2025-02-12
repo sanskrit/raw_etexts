@@ -463,9 +463,9 @@ and rightly regards the portion as part of the *Pariśista*.
 The second *praśna* which is now presented for the first time, attempts to describe whatever has been left out in the *dharmasūtra* to which it is attached. It limits itself to the *prāyaścitta* portion which has not been elaborated in the *Gautama-dharma- sūtra.*  
 In the composition of the work, the *Pariśista* has borrowed a great deal from the works of Manu and Yājñavalkya, Other works on Dharmaśāstra have also been utilized such as Visnu, Vasistha, Paithīnası, Hārīta, Śankha, Baudhāyana etc. An entire section on 'Dreams' has been bodily taken from the *Matsyapurāna*. The verses of the *Matsyapurāna* have been rendered into prose in sūtra style in the order in which the topics are cited in the verses³.[^36]
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 [^36]: "See chapter 16, infra, PP७४-७८"
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1 PP 457 to 475
 
@@ -627,6 +627,8 @@ There is no definite indication as to the date of the work Nor does the internal
 |        "        |                          भ्रणहालक्षणम्                          |       ११        |
 |        "        |                         पुनरभोज्यान्नाः                         |       १२        |
 |        "        |              बलात्कारेणाभोज्यभेजने प्रायश्चित्तम्              |       १३        |
+
+  
 
 |                 |                                                         |             |
 |:---------------:|:-------------------------------------------------------:|:-----------:|
@@ -1234,9 +1236,9 @@ There is no definite indication as to the date of the work Nor does the internal
 
 क्षीरं काकः ॥ २२ ॥[^86]
 
-गृहोपस्कर[^86]मुसलादि हृत्वा सरटाख्यः कीटविशेषो भवेत्² ॥२३॥
-
 [^86]: "क्षीरकारो गृहोपस्करº ----क."
+
+गृहोपस्कर[^86]मुसलादि हृत्वा सरटाख्यः कीटविशेषो भवेत्² ॥२३॥
 
 मधु हृत्वा दंशः[^88] ॥ २४ ॥
 
@@ -2912,7 +2914,9 @@ etc*— *विष्णुः ,३६,७–८.*
 
 वेदोक्तकर्मपरित्यागी चान्द्रायणं चरेत् ॥ ४ ॥
 
-संवत्सरपर्यन्तं ब्राह्मणगृहे [](#) भिक्षेत¹॥ ५ ॥
+संवत्सरपर्यन्तं ब्राह्मणगृहे [][^420] भिक्षेत¹॥ ५ ॥
+
+[^420]: #
 
 कन्यादूषणे चान्द्रायणम् ॥ ६॥
 
@@ -3503,7 +3507,7 @@ etc*— *विष्णुः ,३६,७–८.*
 [^249]: "सुरासमम्-क "
 
 गणान्नं गणिकान्नं[^250] विप्रप्रत्याख्यातान्नं[^251]
-स्तेन[^252]गायकवार्धुषिकान्न[^253]ं च[^254][व](#)र्जयेत्[^255] ॥ २१ ॥
+स्तेन[^252]गायकवार्धुषिकान्न[^253]ं च[^254]व[^421]र्जयेत्[^255] ॥ २१ ॥
 
 [^250]: "गणिकान गणानं--क"
 
@@ -3516,6 +3520,8 @@ etc*— *विष्णुः ,३६,७–८.*
 [^254]: "11 च-omitted by अ"
 
 [^255]: "cf., गणानं गणिकानं च विदुषा च जुगुप्सितम् । स्तेनगायनयोश्वान तक्ष्णो वाधुंषिकस्य च ॥ मनु, ४, २०९-२१०"
+
+[^421]: #
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3812,6 +3818,8 @@ etc*— *विष्णुः ,३६,७–८.*
 [^283]: "तस्यान्न for अव्रतस्यान्न-क."
 
 -----------------------
+
+ 
 
 *^(8.)cf , बलाद्दासीकृता ये च म्लेच्छचण्डालदस्युभि ।*
 
@@ -5533,4 +5541,3 @@ XVII, 3, p. 79*
 ♦
 
 \]
-

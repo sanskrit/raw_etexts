@@ -24,7 +24,7 @@ UNDER THE SUPERINTENDENCE OF
 KASHI PANDIT SAMAJ.  
 ॥ श्रीः॥**
 
-**![](../books_images/U-IMG-1709204783Screenshot2024-02-29163513.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1709204783Screenshot2024-02-29163513.png"/>  
 ॥श्रीः॥**
 
 **गोपीनाथभट्टीतिप्रसिद्धाभिधेया  

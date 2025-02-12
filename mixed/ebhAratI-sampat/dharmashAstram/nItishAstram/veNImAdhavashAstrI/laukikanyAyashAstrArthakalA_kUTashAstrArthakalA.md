@@ -21,7 +21,7 @@ THE
 HARIDAS SANSKRIT SERIES  
 100  
 
-![](../books_images/U-IMG-1698123141Screenshot2023-10-23192917.png)  
+<MISSING_FIG href="../books_images/U-IMG-1698123141Screenshot2023-10-23192917.png"/>  
 
 THE  
 **LAUKIKA NYĀYA S'ĀSTRĀRTHA KALĀ**  
@@ -48,7 +48,7 @@ by
 **श्रीराजनारायणशास्त्रिणा** तार्किकेण  
 उपयुक्तप्रदीपसम्पादिता ।
 
-![](../books_images/U-IMG-1698123225Screenshot2023-10-23192933.png)  
+<MISSING_FIG href="../books_images/U-IMG-1698123225Screenshot2023-10-23192933.png"/>  
 PUBLISHED BY  
 JAYA KRISHNA DÂS HARIDÂS GUPTA  
 *The Chowkhamba Sanskrit Series Office.*  
@@ -66,8 +66,9 @@ Benares City.
 संशोधनाशुद्धीर्मुद्रणादिदोषजन्याशुद्धिततीश्च क्षामं क्षाममनुग्रहीष्यन्ति भवन्त इति।
 
 **          
-![](../books_images/U-IMG-1697861296Screenshot2023-10-21093748.png)  
-
+<MISSING_FIG href="../books_images/U-IMG-1697861296Screenshot2023-10-21093748.png"/>  
+                                   
+                                   
   **
 
 **                                  
@@ -80,7 +81,7 @@ Benares City.
 
 लौकिकन्यायशास्त्रार्थकला
 
-![](../books_images/U-IMG-1697866958Screenshot2023-10-21111224.png)
+<MISSING_FIG href="../books_images/U-IMG-1697866958Screenshot2023-10-21111224.png"/>
 
 **ध्यात्वामरवचो दिव्यं सर्वसर्वार्थसाधनम्।  
 लौकिकन्यायशास्त्रार्थंकलान्तन्वे सताभ्मुदे ॥१॥  
@@ -1053,6 +1054,7 @@ Benares City.
 
 **११४ वायुभक्षन्यायः।**
 
+ 
 पूर्ववत्स्पष्टार्थकोऽयन्न्यायः।———————————————————————————————————————————————————  
 
 (१०७) अत्र च कुसुमाञ्जलीकाराः—
@@ -1437,13 +1439,14 @@ Benares City.
 
  (१७०) अत एव महाभाष्ये "अथवा कूपखानकवदेतद् भविष्यति। तद्यथा कूपखानकः कूपं खनन् यद्यपि मृदा पांसुभिश्चावकीर्णो भवति सोऽप्सु जातासु तत एव तंगुणमासादयति येन सच दोषो निर्हण्यते भूयसा चाभ्युदयेन योगो भवत्येवमिहापिइति ध्वनितम्।
 
+                                   
   
-![](#)![](../books_images/U-IMG-1698126745Screenshot2023-10-24112159.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1698126745Screenshot2023-10-24112159.png"/>
 
 श्रीमते रामानुजाय नमः  
 
 कूटशास्त्रार्थकलप्रारभ्यते।  
-![](#)![](../books_images/U-IMG-1697959293Screenshot2023-10-21111224.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1697959293Screenshot2023-10-21111224.png"/>
 
 ध्यात्वाऽमरवचो दिव्यं सर्वसर्वार्थसाधनम्।  
 तनोमि कूटशास्त्रार्थ-कलां सुविदुषाम्मुदे॥१॥  
@@ -2542,11 +2545,11 @@ Benares City.
 श्रीवेणीमाधवशास्त्रिणा सङ्कलिता  
 कूटशास्त्रार्थकला समाप्ता।
 
-**![](../books_images/U-IMG-1697972587Screenshot2023-10-22163243.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1697972587Screenshot2023-10-22163243.png"/>**
 
 \* शिवम् \*
 
-![](../books_images/U-IMG-1697972541Screenshot2023-10-22163139.png)
+<MISSING_FIG href="../books_images/U-IMG-1697972541Screenshot2023-10-22163139.png"/>
 
 ———————————————————————————————————————————————————
 

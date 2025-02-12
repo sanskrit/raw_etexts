@@ -221,7 +221,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYyMTAxMDg1MDk
 
 **(तृतीयो भागः)**
 
-![](../books_images/U-IMG-1724659645Screenshot2024-08-26133634.png)
+<MISSING_FIG href="../books_images/U-IMG-1724659645Screenshot2024-08-26133634.png"/>
 
 **सर्वस्फूर्तिविधातारं सर्वविघ्नविनाशनम्।  
 सर्वाभीष्टप्रदातारं सद्गुरुं प्रणमाम्यहम्॥  
@@ -4400,7 +4400,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYyMTAxMDg1MDk
  देवान्विसृज्य कायेन वाचेति कर्मेश्वरार्पणं कृत्वा यस्य स्मृत्येत्यादि पठेत्॥
 
 इति सवास्तुशान्तिशिलान्यासप्रयोगः॥  
-![](../books_images/U-IMG-1725002734189.png)
+<MISSING_FIG href="../books_images/U-IMG-1725002734189.png"/>
 
 **अथ गृहप्रवेशप्रयोगे विशेषः।**
 
@@ -8321,11 +8321,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODYyMTAxMDg1MDk
 इति शम्।
 
 इति परिशिष्टदीपकः समाप्तः।  
-![](../books_images/U-IMG-1725857641326.png)
+<MISSING_FIG href="../books_images/U-IMG-1725857641326.png"/>
 
 सं० १९७९ आश्विने शु० ८ गुरौ।
 
-![](../books_images/U-IMG-1725857687328.png)
+<MISSING_FIG href="../books_images/U-IMG-1725857687328.png"/>
 
 \]
-

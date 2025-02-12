@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारभूमिका।**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
  इदमिदानीमनेकप्रकरणपरिव्रंहितस्य नृसिहप्रसादारयस्य महतो धर्मशास्त्रग्रन्थस्यैकतम प्रकरणं श्राद्धासारारयमुद्राप्य प्रकाश प्राप्यते।
 
@@ -162,7 +162,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राध्दसारः।**
 
-**![](../books_images/1687496761.jpg)**
+**<MISSING_FIG href="../books_images/1687496761.jpg"/>**
 
 श्रीनृसिंहं नमस्कृत्य दलाधीशमहीपतिः।  
 श्राध्दप्रसादं कुरुते सर्ववैदिकतुष्टये॥
@@ -540,13 +540,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे श्राद्धमहिमा।** 
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **श्राद्धसारे पितरः।**
 
 **अथ पितरोऽभिधीन्ते।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 तत्र ते त्रिविधा मूर्ता अमूर्ता एकोद्दिष्टाशिनश्च। तदुक्तं ब्रह्माण्डपुराणे—
 
@@ -642,11 +642,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे पितृदेवतानिरूपणम्।**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **अथ श्राद्धाधिकारिनिर्णयोऽभिधीयते।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 तत्र कार्ष्णाजिनि—
 
@@ -714,7 +714,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे श्राद्धाधिकारिनर्णयः**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 कुर्युरेवं विधि सम्यगपुत्रस्य सुताः स्मृताः।  
 कुर्यान्मातामहायैवं पुत्रिकातनयस्तथा॥
@@ -774,11 +774,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे श्राद्धाधिकारिनिरूपणम्।**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **अथ जीवत्पितृकश्राद्धाधिकारोऽभिधोयते।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 तत्र मैत्रायणीयगृह्यपरिशिष्टनिष्ठंविशिष्ट विधिवाक्यम्—
 
@@ -853,7 +853,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे मातामह श्राद्धाधिकारिनिरणयः।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 व्यासः—
 
@@ -905,11 +905,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **मातामहश्राद्धाधिकारनिर्णयः।**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **अथापराह्णनिर्णयोऽभिधीयते।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
  यद्यप्यमावास्यादौ श्राद्धं विहितं तथापि तदमावास्यायामपराह्णेकर्तव्यमिति। “अमावास्यायामपराह्णे पिण्डपितृयज्ञेन यजेते”ति श्रुते। स्मृतेश्च। तथा हि स्मरति शातातप—
 
@@ -975,11 +975,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारेकालनिरूपणम्।**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **अथ पात्रनिरूपणम्।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
  देशे काले च पात्रे चेत्याद्यभिहितम्। तत्र देशः दक्षिणप्रवणादिः, कालोऽपराह्णादिः। अथ पात्रम्—तथा च सत्यव्रतः—
 
@@ -1422,7 +1422,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **अथ वर्ज्या निरूप्यन्ते।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 तत्र—
 
@@ -1488,11 +1488,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे पात्रनिरूपणम्।**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **अथ श्राद्धपाकनिर्णयः।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 तदर्थंद्रव्यनिर्णयः प्रसूयते। तत्र देवलः—
 
@@ -2150,7 +2150,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **अथ सुवर्णादिशुद्धिः**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 तत्र मनुः—
 
@@ -2238,11 +2238,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे सुवर्णादिशुद्धिनिर्णयः॥**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **अथान्नशुद्धिः ।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 मनु—
 
@@ -2281,7 +2281,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **अथ द्रवद्रव्यशुद्धिः।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 तत्र मनु—
 
@@ -2343,11 +2343,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे द्रवद्रव्यशुद्धिः।**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **अथ धान्यादिशुद्धिरभिधीय**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
  तत्र विष्णु–“असिद्धस्यान्नस्य मध्ये यावदुपहतं तावदेव परित्यज्यावशिष्टं ग्राह्यम्। सतुषस्य कण्डनप्रक्षालने विधेये।
 
@@ -2398,11 +2398,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्रीनृसिंहप्रसादे श्राद्धसारे वस्त्रशुद्धिः।**
 
-![](../books_images/1687696036.png)
+<MISSING_FIG href="../books_images/1687696036.png"/>
 
 **अथ देहशुद्धिरभिधीयते।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
  तच्च शरीरं ध्यानज्ञानतपोऽग्न्याहारराहित्यादिना शुद्ध्यति।
 
@@ -2478,7 +2478,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे धान्यशुद्धिः॥**
 
-![](../books_images/1687696938.png)
+<MISSING_FIG href="../books_images/1687696938.png"/>
 
  तत्र श्राद्धं द्विविधं पार्वणमेकोद्दिष्टं च। तत्र पार्वणं नाम यत्र पुरुषत्रयमुद्दिश्य क्रिया तत्पार्वणम्, एकपुरुषोद्देशेन क्रियमाणमेकोद्दिष्टम्। एतद् द्विविधमपि त्रिविधं, नित्यं नैमित्तिकं काम्यं च। तत्र जीवनोपाधितया विहित नित्यं यथा दर्शे विहितममावास्याश्राद्धम् इति। अनियतनिमित्तकं नैमित्तिकं यथा चन्द्रोपरागादौ विहितम्। कामनानिमित्ततया विहितं काम्यं यथा तिथिनक्षत्रादिषु। पुनर्द्वादशधा नित्यनैमित्तिककाम्यवृद्धिश्राद्धसपिण्डपार्वणगोष्ठीशुद्ध्यर्थकर्माङ्गदैविकयात्रापुष्ट्यर्थानि।
 
@@ -2702,7 +2702,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **अथ निषिद्धदेशा अभिधीयन्ते।**
 
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 तत्र विष्णु—
 
@@ -2777,10 +2777,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे देशनिरूपणम्।**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **अथ श्राद्धकालाः।**  
-![](../books_images/1687538865.jpg)
+<MISSING_FIG href="../books_images/1687538865.jpg"/>
 
 ते चामावस्याष्टकादयः। तदाह योगी—
 
@@ -3145,11 +3145,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्राद्धसारे श्राद्धभेदादिनिर्णयः।**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **अथ गन्धादीना निर्णयः**
 
-**![](../books_images/1687769427.png)**
+**<MISSING_FIG href="../books_images/1687769427.png"/>**
 
 विष्णुः —
 
@@ -4291,7 +4291,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **अथ पिण्डनिर्वपणमभिधीयते।**
 
-![](../books_images/1687951814.png)
+<MISSING_FIG href="../books_images/1687951814.png"/>
 
  अत्र पिण्डपितृयज्ञकल्पातिदेशेन चरुश्रपणसद्भावे अग्नौकरणशिष्टचरुशेषेण सह सर्वमन्नमुपादायाग्निसन्निधौ पिण्डान्दद्यात्। चरुश्रपणाभावे अग्नौकरणावशिष्टं यत् सार्ववर्णिकमन्नं तत्सर्वमुपादाय तिलमिश्रं दक्षिणामुख उच्छिष्टसन्निधौ पिण्डान् दद्यात्।
 
@@ -4419,7 +4419,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyMTYyMTk3MjM
 
 **श्रीनृसिंहप्रसादे श्राद्धसारः सम्पूर्णः।**
 
-![](../books_images/1687583864.png)
+<MISSING_FIG href="../books_images/1687583864.png"/>
 
 **इति श्रीमच्चतुर्दशभुवनैकनाथ महेन्द्रादिदेवपूजितचरणकमल सटाड-  
 म्बरव्याप्तभुवनत्रय भक्तानुग्रह कपिप्रसन्नवदन प्रल्हादप्रणयवरद-  

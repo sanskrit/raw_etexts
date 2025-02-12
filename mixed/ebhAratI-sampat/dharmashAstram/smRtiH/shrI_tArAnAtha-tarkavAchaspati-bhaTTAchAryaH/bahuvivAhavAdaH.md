@@ -617,7 +617,7 @@ ANSI/NISO Z39.48-1992 (permanence of paper)**
 by  
 Acme Bookbinding  
 Charlestown, Massachusetts  
-![](../../../../../books_images/1688619979.png)  
+<MISSING_FIG href="../../../../../books_images/1688619979.png"/>  
 1996**
 
 \]

@@ -637,9 +637,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MzA1Nzg3ODI
 जय विजय नारायणसिंह बरांब।                      
                   (**वेङ्कटेश्वर**)
 
+                              
+
 **\*पुराणों में १० सहस्र मुसलमानों की शुद्धि\***
 
-**![](../books_images/1688127053.png)**
+**<MISSING_FIG href="../books_images/1688127053.png"/>**
 
  इस समय जब कोई मुसलमान वा अङ्गरेंज शुद्ध होता है तो कई एक धर्मानभिज्ञ लोग कह उठते हैं कि यह भ्रष्टाचार हैं अधर्म हैइत्यादि।
 
@@ -3040,6 +3042,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MzA1Nzg3ODI
 चतुरोऽस्तमिते सूर्य्येशिशुश्चान्द्रायणं स्मृतम्।२१९**
 
  प्रातःकाल चार ग्रास भोजन करें और सायंकाल में भी चार ग्रास भोजन करे इसका नाम शिशु चान्द्रायणब्रत है। इत्यादि अनेक साधन हैं जिनका देशकाल और पापानुसार प्रयोग कराना विद्वानों का कर्त्तव्य है।          
+     
 
 इति शम्॥
 
@@ -3240,7 +3243,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MzA1Nzg3ODI
 |  १३४  |   १५   |     वा      |      तो       |
 |   २   |   २    |     ई०      |      हि०      |
 
-![](../books_images/1688372349.png)
+<MISSING_FIG href="../books_images/1688372349.png"/>
 
 \]
-

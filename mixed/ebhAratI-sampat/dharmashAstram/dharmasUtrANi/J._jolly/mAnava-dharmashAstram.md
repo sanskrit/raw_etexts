@@ -38,7 +38,7 @@ MÂNAVA DHARMA-ŚÂSTRA
 
 PROFESSOR OF SANSKRIT IN THE UNIVERSITY OF WÜRZBURG, LATE TAGORE PROFESSOR OF LAW IN THE UNIVERSITY OF CALCUTTA.
 
-![](../books_images/U-IMG-1699337209Untitled-imp-1.png)
+<MISSING_FIG href="../books_images/U-IMG-1699337209Untitled-imp-1.png"/>
 
 **LONDON:**
 
@@ -1714,9 +1714,9 @@ WÜRZBURG, January 1887.
 
 **    **
 
-**![](../books_images/U-IMG-1690521665Screenshot2023-07-28104944.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690521665Screenshot2023-07-28104944.png"/>**
 
-**![](../books_images/U-IMG-1689180611Untitleddeg.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1689180611Untitleddeg.png"/>**
 
 **षट्त्रिंशदाब्दिकं चर्यं गुरौ त्रैवेदिकं व्रतम् ।**
 
@@ -2866,7 +2866,7 @@ WÜRZBURG, January 1887.
 
 **॥ इति मानवे धर्मशास्त्रे भृगुप्रोक्ते तृतीयोऽध्यायः॥**  
 
-  ![](../books_images/U-IMG-1690523559Screenshot2023-07-28112124.png)
+  <MISSING_FIG href="../books_images/U-IMG-1690523559Screenshot2023-07-28112124.png"/>
 
 **चतुर्थमायुषो भागमुषित्वाद्यं गुरौ द्विजः। **
 
@@ -3910,7 +3910,7 @@ WÜRZBURG, January 1887.
 
 **॥ इति मानवे धर्मशास्त्रे भृगुप्रोक्ते चतुर्थोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1690524658Screenshot2023-07-28114013.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690524658Screenshot2023-07-28114013.png"/>**
 
 **श्रुत्वैतानृषयो धर्मान्स्नातकस्य यथोदितान् । **
 
@@ -4590,7 +4590,7 @@ WÜRZBURG, January 1887.
 
 **॥ इति मानवे धर्मशास्त्रे भृगुप्रोक्ते पञ्चमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1690525144Screenshot2023-07-28114818.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690525144Screenshot2023-07-28114818.png"/>**
 
 **एवं गृहाश्रमे स्थित्वा विधिवत्स्नातको द्विजः।**
 
@@ -4982,7 +4982,7 @@ WÜRZBURG, January 1887.
 
 **॥ इति मानवे धर्मशास्त्रे भृगुप्रोक्ते षष्ठोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1690525685Screenshot2023-07-28115716.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690525685Screenshot2023-07-28115716.png"/>**
 
 **राजधर्मान्प्रवक्ष्यामि यथावृत्तो भवेन्नृपः।**
 
@@ -5896,7 +5896,7 @@ WÜRZBURG, January 1887.
 
 **॥ इति मानवे धर्मशास्त्रे भृगुप्रोक्ते सप्तमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1690526891Screenshot2023-07-28121710.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690526891Screenshot2023-07-28121710.png"/>**
 
 **व्यवहारान्दिदृक्षुस्तु ब्राह्मणैः सह पार्थिवः। **
 
@@ -7542,9 +7542,9 @@ WÜRZBURG, January 1887.
 
 **॥ इति मानवे धर्मशास्त्रे भृगुप्रोक्तेऽष्टमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1690528190Screenshot2023-07-28121710.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690528190Screenshot2023-07-28121710.png"/>**
 
-> **![](../books_images/U-IMG-16888648082.png)**
+> **<MISSING_FIG href="../books_images/U-IMG-16888648082.png"/>**
 
 **पुरुषस्य स्त्रियाश्चैव धर्म्ये वर्त्मनि तिष्ठतोः।**
 
@@ -8894,7 +8894,7 @@ WÜRZBURG, January 1887.
 
 **॥ इति मानवे धर्मशास्त्रे भृगुप्रोक्ते नवमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1690529495Screenshot2023-07-28125937.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690529495Screenshot2023-07-28125937.png"/>**
 
 **अधीयीस्त्रयो वर्णाः स्वकर्मस्था द्विजातयः।**
 
@@ -9425,7 +9425,7 @@ WÜRZBURG, January 1887.
 **॥ इति मानवे धर्मशास्त्रे भृगुप्रोक्ते दशमोऽध्यायः॥**
 
 **
-![](../books_images/U-IMG-1690551053Screenshot2023-07-28114818.png)**
+<MISSING_FIG href="../books_images/U-IMG-1690551053Screenshot2023-07-28114818.png"/>**
 
 **सांतानिकं यक्ष्यमाणमध्वगं सर्ववेदसम् ।**
 
@@ -10492,7 +10492,7 @@ WÜRZBURG, January 1887.
 
 **॥ इति मानवे धर्मशास्त्रे भृगुप्रोक्त एकादशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1690553331Screenshot2023-07-28193756.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690553331Screenshot2023-07-28193756.png"/>**
 
 **चातुर्वर्ण्यस्य कृत्स्त्रोऽयमुक्तो धर्मस्त्वयानध ।**
 
@@ -11006,7 +11006,7 @@ WÜRZBURG, January 1887.
 
 **॥ समाप्तं चेदं मानवं धर्मशास्त्रम् ॥**
 
-**![](../books_images/U-IMG-1690553964Screenshot2023-07-28194813.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690553964Screenshot2023-07-28194813.png"/>**
 
 **NOTES.  
 \_\_\_\_\_\_\_\_\_\_**
@@ -11057,6 +11057,7 @@ Nd. — 363. रहः संभाषणं चरन् । G. – 364. प्
 
 409. दासा 8 °9 Nd. — 411. कारयेत्‌ ॥ M.G;Nd.; कारयन्‌ Go. M4 Ku, R.V.K,
 -- 412. यो दास्यं कारयेल्लोभाद्‌ ७. -- 413. स्वयमेव स्वयंभुवा ॥ M.— 414.विस्रृष्टो fart 0, -- 416. भार्याः; K. — 417. विस्रब्धो Nd. -- 418. क्षोभ -यन्ताचिदं ©. -- 420. ब्रह्मलोके मीयते ॥ Nd. Gr.  
+                  
 
 **CHAPTER IX**
 
@@ -11160,4 +11161,3 @@ juks mit uts nil
 U S
 
 \]
-

@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 **श्रीः ।  
 विशेष सूचना ।**
 
-![](../books_images/U-IMG-1695549172Untitled58989.png)
+<MISSING_FIG href="../books_images/U-IMG-1695549172Untitled58989.png"/>
 
 विदितहो कि इस श्रीवेङ्कटेश्वर यन्त्रालयमें हमारी बनाईभई रामगीता भाषाटीकात्रयोपेता तथा उपनयनपद्धतिभाषाटीका- सहित उपस्थितहै । इन सर्व नवरत्नविवाहपद्धति आदिपुस्तकोंका पुनर्मुद्रणादि सर्व अधिकार श्रीकृष्णदासात्मज गङ्गाविष्णु, खेमराजकूं दे दिया है यहाँसेकोई मतलबलेके दुसरेने छापना नहीं.
 
@@ -38,7 +38,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
  विज्ञापना ।  
 
-![](../books_images/U-IMG-1695550157Untitled789.png)
+<MISSING_FIG href="../books_images/U-IMG-1695550157Untitled789.png"/>
 
    विदित हो की हमारे आर्य्यावर्त भारतखण्डमें अतिचिरसेवर्धित अधर्मरूप यवन राज्यकें प्रताप ( संताप ) से नित्य आनंदरूप शीतलस्वभावसंपन्न सगुणनिर्गुणात्मक पूर्वोत्तर तटयुक्तऔर वेद४ पुराण १४ न्याय २ मीमांसा २ धर्मशास्त्र१८ शिक्षा १ कल्प २ व्याकरण ८ निरुक्त १ छंद ३ ज्योतिष ६ काव्य २ नाटक १० चंपू १ आख्यायिका इतिहासकोश ५२ अलंकार नीती मंत्र २ तंत्र चिकित्सा ८ गणित २वेदान्त सांख्ययोग कर्मकाण्डादिक रूप विकसित जो अनेक कमल उनपर लोभायमान भृंगरूप विद्वद्वृंद और आनंदमग्न कविरूपंहंस चक्रवाक पारावत कौंचादियोसे शोभायमान वेदविद्यारूपनदीके किञ्चित् शुष्कप्राय होनेपर तदनंतरही सर्वान्तर्यामि कृपालुपरमेश्वरकी कृपा दृष्टि और अखण्डप्रतापरूप श्रीमती महाराजराजेश्वरी श्रीविकटोरीयाजीके राज्यप्रतापरूप अरुणोदय होनेपरऔर धर्मरूप चारो तरफ वृष्टिके होनेसे वही सनातन वेदविद्यारूपनदी सगाध होकर वहने लगी उस्की अशुद्धिरूप मलनिवृत्तिकर्नेकलिये हमारे भातृगण क्षत्री वैश्य शूद्रादि तनमनधनसे अति उद्यत होनेपर बौद्ध चरक जैन अनार्य्यादि नूतनमलके निवृत्तहोनेसे वही हंसादिरूप विद्वान् निर्मलजलपान कर्ते है तथापि विनाकषाय पदार्थ हरीतक्यादि भक्षण विन जैसे जलका मधुरगुण ( मिठास ) मालुम नहीं होती तद्वत् विना अर्थ विनियोगके वेदविद्याका फलरूप गुण मालुम नहीं होता इस्में श्रुति प्रमाणभीहै
 
@@ -493,7 +493,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 अथनार्डाचक्रम्
 
-![](../books_images/U-IMG-1695642226Untitled321321.png)
+<MISSING_FIG href="../books_images/U-IMG-1695642226Untitled321321.png"/>
 
 दम्पत्योरे कनाड्यांपरिणयनमसत्मध्यनाड्यांहिमृत्युः  
 अर्थात् स्त्रीवरका एक नाडीमे स्थित नक्षत्रोमे विवाह  
@@ -591,7 +591,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 **(अथक्रांतिसाम्यम्)**
 
-**![](../books_images/U-IMG-1695701494Untitled21.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1695701494Untitled21.png"/>**
 
 अर्थात् चंद्रमा सूर्य अन्योन्य नक्षत्रगत होय सन्मुख स्थित होय तो क्रांतिसाम्य दोष होताहै विवाहमे शुभनहि होता॥
 
@@ -722,24 +722,24 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 **अथद्वितीयप्रकरणं.**
 
-![](../books_images/U-IMG-1695628737Untitled369.png)
+<MISSING_FIG href="../books_images/U-IMG-1695628737Untitled369.png"/>
 
 |                                                         |
 |:-------------------------------------------------------:|
 |                **अथतिलकनाममण्डलचित्रम्**                |
-| ![](../books_images/U-IMG-1695628313Untitled310310.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1695628313Untitled310310.png"/> |
 
-![](../books_images/U-IMG-1695358674Screenshotfrom2023-09-2210-27-34.png)
+<MISSING_FIG href="../books_images/U-IMG-1695358674Screenshotfrom2023-09-2210-27-34.png"/>
 
-![](../books_images/U-IMG-1695647169Screenshotfrom2023-09-2518-35-43.png)
+<MISSING_FIG href="../books_images/U-IMG-1695647169Screenshotfrom2023-09-2518-35-43.png"/>
 
-![](../books_images/U-IMG-1695647251Screenshotfrom2023-09-2518-37-07.png)
+<MISSING_FIG href="../books_images/U-IMG-1695647251Screenshotfrom2023-09-2518-37-07.png"/>
 
-![](../books_images/U-IMG-1695647306Screenshotfrom2023-09-2518-38-09.png)
+<MISSING_FIG href="../books_images/U-IMG-1695647306Screenshotfrom2023-09-2518-38-09.png"/>
 
-![](../books_images/U-IMG-1695647363Screenshotfrom2023-09-2518-39-03.png)
+<MISSING_FIG href="../books_images/U-IMG-1695647363Screenshotfrom2023-09-2518-39-03.png"/>
 
-![](../books_images/U-IMG-1695647417Screenshotfrom2023-09-2518-40-01.png)
+<MISSING_FIG href="../books_images/U-IMG-1695647417Screenshotfrom2023-09-2518-40-01.png"/>
 
 **यज्ञपात्राणि कात्यायनसूत्रे - ऋचोयजूꣳषिसामा निनिगदामन्त्रास्तेषांवाक्यं निराकाङ्क्ष मिथः सं बद्धं –** वैकङ्कतानिपात्राणिखादिरः स्रुवःस्फ्यश्चपा लाशीजुहूराश्वथ्युपभृद्वारणान्यहोमसंयुक्तानिबाहुमा त्र्यः स्रुचःपाणिमात्रपुष्करास्त्वग्वालाहꣳसमुखप्रसेका
 मूलदण्डाभवन्त्यरत्निमात्रःस्रुवोऽङ्गष्ठपर्ववृत्तपुष्कर स्फ्योऽस्याराकृतिरादर्शाकृतिः प्राशित्रहरणंचमसा कृति वा चात्वालोत्करावस्तरेणसञ्चरः प्रणीतोत्क राविष्टिषु ॥ ३ ॥ विस्तरस्तुतत्रैववासंस्कारभाष्ये द्रष्टव्यः ॥ विस्तरभयान्नलिखितं । विवाहप्रकरणे येषांप्रयोजनंतेषांप्रमाणपृ०प० अमुकोपरिलिखितंअ न्यान्यादर्शमात्राणि ॥ इतिश्रीदैवज्ञदुनिचंद्रात्मज विष्णुदत्तसंग्रहीतंगृहमण्डपपात्रचिन्हंनामप्रकरणं सप्रमाणंसमाप्तम् शुभम् ॥ श्रीः ॥
@@ -768,7 +768,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 **इति २ प्रकरणम् ।**  
 
-**![](../books_images/U-IMG-1695357660Screenshotfrom2023-09-2210-10-35.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1695357660Screenshotfrom2023-09-2210-10-35.png"/>**
 
 **ओंस्वस्तिश्रीगणेशायनमः॥ श्रीगुरवे नमः ॥ अथ**
 
@@ -792,15 +792,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 **हरिःओम् \।\। शुक्लयजुर्वेदअध्याय २५ कं० मंत्र १९**
 
-![](../books_images/U-IMG-1695649096Screenshotfrom2023-09-2519-07-47.png)
+<MISSING_FIG href="../books_images/U-IMG-1695649096Screenshotfrom2023-09-2519-07-47.png"/>
 
-![](../books_images/U-IMG-1695987570Screenshotfrom2023-09-2917-08-41.png)
+<MISSING_FIG href="../books_images/U-IMG-1695987570Screenshotfrom2023-09-2917-08-41.png"/>
 
-![](../books_images/U-IMG-1695987634Screenshotfrom2023-09-2917-10-10.png)
+<MISSING_FIG href="../books_images/U-IMG-1695987634Screenshotfrom2023-09-2917-10-10.png"/>
 
-![](../books_images/U-IMG-1695987692Screenshotfrom2023-09-2917-11-08.png)
+<MISSING_FIG href="../books_images/U-IMG-1695987692Screenshotfrom2023-09-2917-11-08.png"/>
 
-![](../books_images/U-IMG-1695987767Screenshotfrom2023-09-2917-12-24.png)
+<MISSING_FIG href="../books_images/U-IMG-1695987767Screenshotfrom2023-09-2917-12-24.png"/>
 
 हपठेच्छृणुयादपि ॥ विद्यारंभेविवाहेचप्रवेशेनिर्गमेतथा । संग्रामेसंकटेचैव- विघ्नस्तस्यनजायते ॥ श्रीगणपतयेनमः ॥ इति स्वस्तिवाचनम् ॥
 
@@ -837,13 +837,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 दिसे आगे लिखे षोडश उपचारसें पूजन करे । इस प्रकार ओंकार के मंत्रोसे ओंकार पूजन कर्ना ।
 
-![](../books_images/U-IMG-1695987930Screenshotfrom2023-09-2917-14-50.png)
+<MISSING_FIG href="../books_images/U-IMG-1695987930Screenshotfrom2023-09-2917-14-50.png"/>
 
 भा० टी० \[ मंत्रार्थ \]हेब्रह्मन हे ब्रह्माजी आपकी कृपासे यज्ञको कर्ना कराना पढना पढाना दान लेणा देणा इत्यादि षट्कर्म कर्ने वाले और ब्रह्मतेजवाले ब्राह्मण होमे ॥ और हमारे राष्ट्रमे क्षत्री व्याधि
 
 काततासे रहित शूरवीर महारथ इस यजमान के हो. और इस यजमान की दुग्ध देने वाली गौऊ होमें और शीघ्र गमन वाले घोडे और सुंदर रूप वाले होमे० और पुरुष रथमें बैठने वाले युवान सभा योग्य इस यजमान के संबंधि पुत्रादि होमे और हमारी प्रार्थना से वृष्टिहो और फल युक्त ओषधीया पके हमारे को योग क्षेम होवे ॥
 
-![](../books_images/U-IMG-1695988349Screenshotfrom2023-09-2917-22-06.png)
+<MISSING_FIG href="../books_images/U-IMG-1695988349Screenshotfrom2023-09-2917-22-06.png"/>
 
 मत करे किं तु हमारी रक्षाकरे अर्थात् असमर्थ शत्रुका क्या मारना वह आगे मृत होताहै \। \[ यदाबध्नन् \] दक्षकी संतान जोसुवर्ण शतानीक अर्थात् बहुत सेनायुक्त राजाको वंधतेभये प्रसन्न चित्तहोकर शतजीवनके लिये तिस प्रकार जैसे हम वृद्धावस्थाको प्राप्तहोमे तद्वत् बांधते है ॥
 
@@ -956,75 +956,75 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 जनोकर यह पूजनीयहै अर्थात् संपूर्ण जगत् इन्कीपूजा कर्ताहै॥
 
-![](../books_images/U-IMG-1695983099Screenshotfrom2023-09-2915-54-17.png)
+<MISSING_FIG href="../books_images/U-IMG-1695983099Screenshotfrom2023-09-2915-54-17.png"/>
 
  भा० टी० \[ मंत्रार्थ ब्र० \] ब्रह्मसर्वव्यापि सूर्य प्रथम पूर्वदिशामें उदय होता है फिर अपने प्रकाशसे चारोंतरफ मध्यवर्ती प्रकाश कर्ताहै वह प्रकाशमान लोक वेनमेधावी आदित्य दिशाकोसे जा  
 नाजाताहै इस जगत्विद्यमान का अधिष्ठाताहै और अमूर्त अदृ-
 
 श्यमान जगत् का कारणहै ॥ अर्थात् सूर्य भगवानही संपूर्ण लोकोंको दिशाको प्रकाश कर्ताहै ॥ विष्णोरराटमसि. इस्काअर्थ आगे लिखाहै शांतिपाठमें ॥ ॥ इति विष्णुंपाद्यादिभिरर्चयेत् ॥
 
-![](../books_images/U-IMG-1695983467Screenshotfrom2023-09-2916-00-07.png)
+<MISSING_FIG href="../books_images/U-IMG-1695983467Screenshotfrom2023-09-2916-00-07.png"/>
 
  भा० टी० \[ नमःशंभवेति \] नमस्कारहै शमके देनेवाले तथा सुख कल्याणादिगुण देनेवाले शंकरजीको ॥
 
 इति शिवंपाद्यादिभिरर्चयेत् ॥
 
-![](../books_images/U-IMG-1695983487Screenshotfrom2023-09-2916-00-31.png)
+<MISSING_FIG href="../books_images/U-IMG-1695983487Screenshotfrom2023-09-2916-00-31.png"/>
 
  भा० टी० \[ त्रातारमिंद्र \] रक्षाकर्नेवाला जिससे इंद्रजीको कहतेहैं बुलावनेमे शोभन शूरवीर वह इंद्र हमारे कर बुलायाभया ना नष्ट होनेवाला धन और स्वस्ति हमारेको देवे हम प्रार्थना कर्तेहे ॥
 
-![](../books_images/U-IMG-1695983733Screenshotfrom2023-09-2916-04-43.png)
+<MISSING_FIG href="../books_images/U-IMG-1695983733Screenshotfrom2023-09-2916-04-43.png"/>
 
 **इतिपूजयेत्**
 
  भा० टी० \[ हेवायुदेव \] योतुमारे सहस्रसंख्यकरथ सदृश रथहै उन्से युक्तहोकर आप सोम पानके लिये आयो हमप्रार्थना कर्तेहै॥  
-![](../books_images/U-IMG-1695983722Screenshotfrom2023-09-2916-05-06.png)
+<MISSING_FIG href="../books_images/U-IMG-1695983722Screenshotfrom2023-09-2916-05-06.png"/>
 
  \[ अग्नेसपत्न\] हेभगवन् अग्निदेव तुम शत्रुओंको नाशकर्नेले. हमारेको नाहिंसनकर्ते हमारी वृद्धिकरे हेचित्रावसो हेरात्रि ! ना नाशहोनेवाली कल्याणदेवे. ( रात्रिर्वै चित्रावसुरितिश्रुतिः ) और तुमारे पारको सुखपूर्वक प्राप्त होयाकरे ॥  
 
-![](../books_images/U-IMG-1695983930Screenshotfrom2023-09-2916-08-33.png)
+<MISSING_FIG href="../books_images/U-IMG-1695983930Screenshotfrom2023-09-2916-08-33.png"/>
 
-![](../books_images/U-IMG-1695984199Screenshotfrom2023-09-2916-13-00.png)  
+<MISSING_FIG href="../books_images/U-IMG-1695984199Screenshotfrom2023-09-2916-13-00.png"/>  
  भा० टी०आकृष्णेनेति ॥ सूर्य देव रात्रिरूप रजसे वर्तमान वारंवार भ्रमण कर्ता तथा अपने २ स्थानमें देवताओंको अमृत मनुष्यादिकोंको अन्न देता हुआ सुवर्णके रथसे १४ भुवनो को देखता भया और आरोग्य देता भया फिरताहै ॥ १ ॥ उदय होता है।  
 
-![](../books_images/U-IMG-1695984169Screenshotfrom2023-09-2916-12-33.png)
+<MISSING_FIG href="../books_images/U-IMG-1695984169Screenshotfrom2023-09-2916-12-33.png"/>
 
  भा० टी० इमंदेवा-देवो दानादिति - हे दानशील पुरुषो तुम इस चंद्रमाको शूरवीरताके लिये ज्येष्ठता राज्य ऐश्वर्यादिके लिये
 
 अमुक पुत्र इसकी सेवा करो यह चंद्रमा हम ब्राह्मणोंका राजा है \।
 श्रौतार्थमे हे देवताओ यह संबंध कर्ना \।\।
 
-![](../books_images/U-IMG-1695984516Screenshotfrom2023-09-2916-17-40.png)
+<MISSING_FIG href="../books_images/U-IMG-1695984516Screenshotfrom2023-09-2916-17-40.png"/>
 
  **अग्निर्मूर्द्धा -**हे अग्निस्वरूप वा अग्नि तत्व मंगल देव स्वर्ग आकाश में सूर्य रूप होकर मूर्द्धवर्तिहो और ककुत् बडे तेजस्वी और पृथिवी के पुत्र हौऔर तुमही जलवृष्टि रेतोत्पत्तिमें कारण है ॥ ( श्रौतार्थ मे अग्निस्तुतिमे विनियुक्त है ॥ )
 
   प्रमाण बृहज्जातके शिखिभूखपयोमरुद्रणानां वशिनो भूमि सुतादयः क्रमेण ॥
 
-![](../books_images/U-IMG-1695984530Screenshotfrom2023-09-2916-18-07.png)
+<MISSING_FIG href="../books_images/U-IMG-1695984530Screenshotfrom2023-09-2916-18-07.png"/>
 
 भा० टी० उद्बुध्यस्व. हे बुध देव अग्निवत् प्रकाशमान आप प्रसन्न हो आप की प्रसन्नता से यह यजमान इष्टमनोर्थको प्राप्त होवे और इस लोकमें ऐश्वर्यादि भोग उत्तर लोकमें देवताओं- के साथ निवास करे यह हम प्रार्थना कर्ते है ( श्रौतमें अग्नि)
 
-![](../books_images/U-IMG-1695987432Screenshotfrom2023-09-2917-06-29.png)
+<MISSING_FIG href="../books_images/U-IMG-1695987432Screenshotfrom2023-09-2917-06-29.png"/>
 
  **बृहस्पते** —हे बृहस्पति देव अतिशय सेंधन अर्थ स्वामिता अर्ह पूजा यज्ञ करनेवाले पुरुषमे धारण करे और बलसे यो रक्षा कर्नेवाले तथा सत्यसे है उत्पत्ति जिनकी वा सत्य प्रजावाले पुरुषोंको अनेक प्रकार चित्र विचित्र धन देमे यह प्रार्थनाकर्ते है।
 
-![](../books_images/U-IMG-1695987455Screenshotfrom2023-09-2917-06-47.png)
+<MISSING_FIG href="../books_images/U-IMG-1695987455Screenshotfrom2023-09-2917-06-47.png"/>
 
-![](../books_images/U-IMG-1695988737Screenshotfrom2023-09-2917-28-06.png)
+<MISSING_FIG href="../books_images/U-IMG-1695988737Screenshotfrom2023-09-2917-28-06.png"/>
 
  भा० टी० अन्नात्परिस्रुत÷हविलक्षणरूप अन्नका परिस्रुत रस त्रयी लक्षण ब्रह्मसें व्याप्त और क्षत्रसे व्याप्त सोम प्रजाप्रति संबंधि पय इस सत्यसे युक्त इंद्रकी इंद्रिय अन्न यह शुक्रजीके संबंधसे युक्त हो यह प्रार्थना कर्ते है ॥
 
-![](../books_images/U-IMG-1695988795Screenshotfrom2023-09-2917-29-32.png)
+<MISSING_FIG href="../books_images/U-IMG-1695988795Screenshotfrom2023-09-2917-29-32.png"/>
 
 **शन्नोदेवी** – सुखरूप हमारे कल्याण कारक देव स्वरूप रोग के विनाशके लिये भय के दूर कर्नेके वास्ते शनिदेवको स्तुति और प्रार्थना कर्ते है ॥ श्रौतमे वरुण संबंधि स्तुत्यमंत्र है ॥
 
-![](../books_images/U-IMG-1695988817Screenshotfrom2023-09-2917-28-37.png)
+<MISSING_FIG href="../books_images/U-IMG-1695988817Screenshotfrom2023-09-2917-28-37.png"/>
 
 **कयानश्वित्र**[^2] —हे राहु देव किस आगमनसे तुम हमारेको आनंद कर्ते है और किससे हमारेको धन देते है वह हम उपाय करे ( पूजा इति शेषः ) ( श्रौतमें इंद्र )  
 
 [^2]: "यह मेने उवटभाष्यसे संक्षिप्त अर्थ लिखाहै विशेष अर्थ ब्राह्मण सर्वस्वसे आगे लिखा देखलेगे ।"
 
-![](../books_images/U-IMG-1696046395Screenshotfrom2023-09-3009-29-29.png)
+<MISSING_FIG href="../books_images/U-IMG-1696046395Screenshotfrom2023-09-3009-29-29.png"/>
 
 ॐब्रह्मा मुरारिस्त्रिपुरांतकारी भानुः शशीभूमिसु  
 तो बुधश्च ॥ गुरुश्चशुक्रः शनिराहुकेतवःसर्वैग्रहाःशां  
@@ -1093,11 +1093,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 हा । इदंभुवः । ॐस्वःस्वाहा इदंस्वः ॥ एतामहा  
 व्यात्दृतयः ॥
 
-![](../books_images/U-IMG-1696047770Screenshotfrom2023-09-3009-52-23.png)
+<MISSING_FIG href="../books_images/U-IMG-1696047770Screenshotfrom2023-09-3009-52-23.png"/>
 
-![](../books_images/U-IMG-1696047834Screenshotfrom2023-09-3009-53-35.png)
+<MISSING_FIG href="../books_images/U-IMG-1696047834Screenshotfrom2023-09-3009-53-35.png"/>
 
-![](../books_images/U-IMG-1696066905Screenshotfrom2023-09-3015-11-27.png)
+<MISSING_FIG href="../books_images/U-IMG-1696066905Screenshotfrom2023-09-3015-11-27.png"/>
 
 इदंवरुणाय० । एताः सर्वप्रायश्चित्तसंज्ञकाः ॥ ॐगण  
 पतयेस्वाहा । इदंगणपतये० । ॐविष्णवेस्वाहा । इदं  
@@ -1136,7 +1136,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 पतिसंबंधि अमुक गोत्रबाह्मणको दक्षिणा देनेलिये देताहुं । स्वस्तिवाह्मणकहे ॥ ५० ॥ कुशनिर्मित ब्रह्माकी ग्रंथी खोलदेणी विवाह प्रकरण मे ब्रह्मादि कोका लक्षण लिखाहै ( पंचाशतोभवेद्ब्रह्मा)इत्यादि । और सुमित्रिया १ दुर्भित्रिया २ इनदोनो मंत्रोका अर्थ भी स्पष्ट विवाह प्रकरणमे लिखा है ॥
 
-![](../books_images/U-IMG-1696315958Screenshotfrom2023-10-0312-22-00.png)
+<MISSING_FIG href="../books_images/U-IMG-1696315958Screenshotfrom2023-10-0312-22-00.png"/>
 
  इतिबर्हिर्होमः । तत आचारात्दशदिक्पालेभ्योद  
 धिमापबलिर्देयः क्षेत्रपालबलिदानंच ॥ ततःस्थाली  
@@ -1152,9 +1152,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 दक्षिणादेया ॥ ततः छायापात्रदानं । तदनंतरंपू  
 र्णाहुतिः तद्यथा स्रुवेणपूगीफलादिकंगृहीत्वा ॥**
 
-![](../books_images/U-IMG-1696316402Screenshotfrom2023-10-0312-29-40.png)
+<MISSING_FIG href="../books_images/U-IMG-1696316402Screenshotfrom2023-10-0312-29-40.png"/>
 
-![](../books_images/U-IMG-1696316800Screenshotfrom2023-10-0312-36-22.png)
+<MISSING_FIG href="../books_images/U-IMG-1696316800Screenshotfrom2023-10-0312-36-22.png"/>
 
  भा० टी० प्रथम संकल्प ब्राह्मणो की दक्षिणा का है। पीछे छाया पात्र दान कर्ना अनंतर फल पुष्प स्रुव मे स्थित घृतसे मूर्द्धानं इस मंत्रसे पूर्णाहुति कर्नी । यह मंत्रका अर्थ विवाह प्रकरण में लिखाहै
 
@@ -1181,7 +1181,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 थग्रहादीनांविसर्जनम् ॥ यान्तुदेवगणाः सर्वेपूजामा  
 दायमामकीं। यजमानहितार्थायपुनरागमनायच ॥**
 
-![](../books_images/U-IMG-1696321259Screenshotfrom2023-10-0313-50-38.png)
+<MISSING_FIG href="../books_images/U-IMG-1696321259Screenshotfrom2023-10-0313-50-38.png"/>
 
  भा० टी० भलीभांति आये हुये और पूजन किये हुये मुझपर कृपा कर अपने २ स्थानको देवगण सिधारे यजमान की कुशल ताकेलिये तथा फिर आवे लिये ॥ जैसे खड्गादि शस्त्रोके प्रहारसे  
 रक्षा कर्नेवालाकवच ( संजोया ) होता है तद्वत् संपूर्ण विघ्नोके दूर कर्ने लिये शांति है ॥अग्नि मीले यह मंत्र ऋग्वेदके आदका है ।
@@ -1216,7 +1216,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 तांबूल सुपारी ७ पतासे मठ्ठिया घुंगनिया दालां ७ घृत तेल कुशा स्रुव पलाश समिधा पटढी यव तिल गोमय बटना कंकण रेत पत्र ग्रहजप । इति ।
 
-![](../books_images/U-IMG-1696322319Screenshotfrom2023-10-0314-08-21.png)
+<MISSING_FIG href="../books_images/U-IMG-1696322319Screenshotfrom2023-10-0314-08-21.png"/>
 
  ओंस्वस्तिश्रीगणेशायनमः ॥ ओंवेदपुरुषायनमः ॥ श्रीः अथविवाहसामग्रीलिख्यते ॥ आटा गुड चावल मौली रोला केशर पुष्प नैवेद्य मेवा धूप दीपअटे ७ सुपारिया ११वा चंदन पुष्पमाला २ आम्रकेपत्र १०० पटडीया२ वेद १ चंदोया १ खारे २ वाचौंकिया २ घृत प्रणीतापात्र प्रोक्षणीपात्र कांस्यपात्र २ मधुपर्क गौकादुग्ध दधी घृत शहत नालकेर १ धोती उपर्णा बालकनू । अर्धचौल अट्टे २ सिंधूर शूर्प १ लाजा अर्धशेर जंडीकेपत्र शण शंख सुवर्ण वीडेपानके २ पूर्णपात्र १ चावल अभिषेककेलिये गागरवाकुंभ वाकौरी १ समिधा पलाश वा वेरीकी १० सेर वटना शिलावट्टा शर्करा बहारी १ सालूगिरा ५ पर्णा १ कुशा समवस्त्र गज ४ स्रुवा १ आसन २ अर्धा हलपजाली मठिया ५ इति अथ चतुर्थदिनमे चतुर्थी कर्मकी सामग्रीलि० आटा गुड मौली चावल कसर धूप दीप नैवेद्य सुपारिया ५ दूर्वा आम्रपत्र १० पटडीया २ चंदोया १ घृत प्रणीता प्रोक्षणी अर्धचावल पृथूदकपात्र कुनाली १ हलपजाली गौदुग्ध अर्धसेर चावलपूर्णपात्र १ वस्त्रगज १० सिंदू
 
@@ -1346,7 +1346,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 वरहस्ते दद्यात् ॥ इतिनिवाहुरामटीकाधृत कन्या संकल्पविधानम् ॥ श्रीः ॥ अथ संस्कारभास्करोक्तः संक्षेपतः कन्यासंकल्पः ततोदाता स्वदक्षिणे पत्न्यासह वरदक्षिणपार्श्व भागे शुभासने उदङ्मुख उपविश्य आचम्य प्राणानायम्य संवत्सरादि क्षेत्रादि देशकालौसंकीर्त्य एवं गुणविशेषेणविशिष्टायां शुभपुण्यतिथौ अस्मिन्पुण्याहे अस्याः कन्याया अनेनवरेण धर्मप्रजया उभयोः वंशयोर्वंशवृद्धयर्थं तथाच मम समस्तपितृणांनिरतिशयसानंद ब्रह्मलोकावाप्त्यादि कन्यादानकल्पोक्त फलावातये अनेनवरेण अस्यां कन्यायामुत्पादयिष्यमाण संतत्या दशपूर्वान्दशावरान्मांचएकविंशति पुरुषानुर्द्धर्तुंब्राह्मविवाहविधिना श्रीलक्ष्मीनारायणप्रीतये कन्यादानमहं करिष्ये इति ॥ अत्र सर्वसंकल्पादिषु शर्म इत्यस्यस्थाने क्षत्रियवैश्यविवाहे वर्मन् गुप्तक्रमेण कथनम् ॥ यत्र अद्येत्यादि ० दृश्यते तत्रपूर्वमुक्तंसर्वं योजनीयम् ॥ गोत्रोच्चारणं श्लोकान्ते संकल्पविहितं प्रपितामह पूर्विकावंशसंख्या कथनीया इति परिभाषा ॥ अनुक्तंश्लोकतः सर्वंज्ञातव्यम् ॥ श्रीः ॥ अथ त्रैवर्णिकानां पूजनार्थं शुक्लयजुर्वेदोक्तं सुस्वरसहितं नवग्रहमंत्रविधानं लिख्यते ॥
 
-![](../books_images/U-IMG-1697302163Screenshot2023-10-14195004.png)
+<MISSING_FIG href="../books_images/U-IMG-1697302163Screenshot2023-10-14195004.png"/>
 
 **अथ सूर्यकण्डिका**
 
@@ -1356,23 +1356,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 **॥ अथ चंद्रमःकण्डिका ॥**
 
-![](../books_images/U-IMG-1697302458PIC2.png)
+<MISSING_FIG href="../books_images/U-IMG-1697302458PIC2.png"/>
 
 इ॒मन्दैवा असपुत्न सु॑वसम्महुतेक्षत्राय॑मह॒तेज्यैष्ठ्याय मह॒तेजान॑राज्या॒येन्द्र॑स्येन्द्रि॒याय॑ ॥ इ॒ममुमुष्यं पुत्रमुमुण्यै पुत्रम॒स्यैवि॒शऽए॒षवों मी॒राजा॒सोमो॒स्माक॑म्ञाह्म॒णाना छंराजां ॥ २ ॥
 
 **अथ भौमकण्डिका**
 
-![](../books_images/U-IMG-1697303010PIC3.png)
+<MISSING_FIG href="../books_images/U-IMG-1697303010PIC3.png"/>
 
 `अ॒ग्निर्मूर्द्धादि॒वः कुकुत्पति॑÷पृथि॒`
 
-![](../books_images/U-IMG-1697353931PIC4.png)
+<MISSING_FIG href="../books_images/U-IMG-1697353931PIC4.png"/>
 
 व्याऽअ॒यम् । अ॒पारेता सिजि न्न्वति ॥ ३ ॥
 
 अथ बुधकण्डिका
 
-![](../books_images/U-IMG-1697354049PIC5.png)
+<MISSING_FIG href="../books_images/U-IMG-1697354049PIC5.png"/>
 
 उद्बुद्ध्यस्वाग्ने॒प्प्रति॑जागृहि॒त्वमिष्टापूर्तेस-सृ॑जेथाम॒यञ्च ॥
 
@@ -1380,7 +1380,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 अथ बृहस्पतिकण्डिका
 
-![](../books_images/U-IMG-1697354159PIC6.png)
+<MISSING_FIG href="../books_images/U-IMG-1697354159PIC6.png"/>
 
 बृह॑स्पते॒ऽअति॒यदर्य्योऽअर्हाद्युमद्विश्राति॒क्रतु॑म॒ज्जने॑षु ॥
 
@@ -1388,11 +1388,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 अथ शुक्रकण्डिका
 
-![](../books_images/U-IMG-1697354258PIC7.png)
+<MISSING_FIG href="../books_images/U-IMG-1697354258PIC7.png"/>
 
 अन्ना॑त्परि॒स्रुतो॒रस॒म्ब्रह्म॑णा॒ध्य॒पि
 
-![](../books_images/U-IMG-1697354462PIC8.png)
+<MISSING_FIG href="../books_images/U-IMG-1697354462PIC8.png"/>
 
 बत्क्ष॒त्रम्पयःसोम॑म्प्र॒जाप॑तिः ॥  
 ऋ॒तेन॑स॒त्यमि॑न्द्रि॒य॑ति॒पान॑७शुक्क्र  
@@ -1400,20 +1400,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 अथ शनिकण्डिका
 
-![](../books_images/U-IMG-1697354575PIC9.png)
+<MISSING_FIG href="../books_images/U-IMG-1697354575PIC9.png"/>
 
 शन्नो॑दे॒वीर॒भिष्ट॑य॒ऽआपोभवन्तु्पीतये॑ । शँय्यो र॒भिस्व॑वन्तुनः ॥ ७ ॥
 
 अथ राहुकण्डिका
 
-![](../books_images/U-IMG-1697354798PIC11.png)
+<MISSING_FIG href="../books_images/U-IMG-1697354798PIC11.png"/>
 
 कयानश्चि॒त्रऽआश्रुवदूतिसदावृ॑धः  
 सखां। कया॒शचि॑ष्ठयावृता ॥८॥
 
 अथ केतुकण्डिका
 
-![](../books_images/U-IMG-1697354887PIC12.png)
+<MISSING_FIG href="../books_images/U-IMG-1697354887PIC12.png"/>
 
 के॒तुङ्कृण्वन्न॑के॒तवे॒पेशोमर्य्याअपेश  
 से । समुपद्भिरजायथाः॥ ९ ॥ इति ॥
@@ -1596,7 +1596,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु० अध्याय १७ मंत्र ३
 
-![](../books_images/U-IMG-1697355146PIC1.png)
+<MISSING_FIG href="../books_images/U-IMG-1697355146PIC1.png"/>
 
 ॐ ऋ॒तव॑स्थाऽऋता॒वृधा॑ऋजष्य  
 स्था॑ ऋता॒वृधा॑घृ॒त॒च्युतो॑मधु  
@@ -1619,7 +1619,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
  शुक्लयजुर्वेद० संहिता वाजसनेयी अध्याय २३ मं० १९ ॥
 
-![](../books_images/U-IMG-1697355307PIC2.png)
+<MISSING_FIG href="../books_images/U-IMG-1697355307PIC2.png"/>
 
 गुणाना॑न्त्वा गुणप॑ति हवामहेप्रि॒याणा॑न्त्वाप्रियप॑ति हवामहे ॥
 
@@ -1632,7 +1632,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजुः शु० अध्याय १६ मन्त्र २५ ॥
 
-![](../books_images/U-IMG-1697355466PIC3.png)
+<MISSING_FIG href="../books_images/U-IMG-1697355466PIC3.png"/>
 
 ॐ नमो॑गुणेब्भ्यो॑ गुणप॑तिब्भ्यश्च  
 वॊ॒नमो॒नमो॒व्व्रते॑भ्यो॒ व्व्रात॑पतिभ्य  
@@ -1644,7 +1644,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 शुक्ल० यजु० अध्याय० ३४ मन्त्र ४५ ॥
 
-![](../books_images/U-IMG-1697355806PIC4.png)
+<MISSING_FIG href="../books_images/U-IMG-1697355806PIC4.png"/>
 
 स॒हस्तो॑माःसुहछ॑न्दसऽआवृत॑÷  
 स॒हप्प्र॑मा॒ऽऋष॑यःस॒प्तदैव्व्याः। पूर्व्वे  
@@ -1655,7 +1655,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु० अध्या ३४ मंत्र ५
 
-![](../books_images/U-IMG-1697355968PIC5.png)
+<MISSING_FIG href="../books_images/U-IMG-1697355968PIC5.png"/>
 
 यज्जाग्ग्र॑तोदूरमु॒दैति॒ दैवं॒ तदु॑सु॒प्तस्य॒  
 तथैवैति॑ । दूर॒ङ्गमञ्ञ्ज्योति॑षा॒ञ्ज्यो  
@@ -1666,7 +1666,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु० अध्याय ३४ मंत्र ६ ॥
 
-![](../books_images/U-IMG-1697356076PIC6.png)
+<MISSING_FIG href="../books_images/U-IMG-1697356076PIC6.png"/>
 
 येनकर्मा॑ण्य॒पसो॑ मनी॒षिणॊ॑य॒ज्ञे  
 कृ॒ण्वन्ति॑ व्वि॒दथे॑षुधीराः॑। यद॑पूर्व्वष्य  
@@ -1677,7 +1677,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु अ०३४ मन्त्र ७
 
-![](../books_images/U-IMG-1697356209PIC7.png)
+<MISSING_FIG href="../books_images/U-IMG-1697356209PIC7.png"/>
 
 यत्प्र॒ज्ञान॑मु॒तचेतो॒धृति॑श्चयज्ज्यो  
 ति॑रन्तर॒मृत॑म्प्र॒जासु॑ । यस्म्मा॒न्न  
@@ -1688,7 +1688,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 शुक्ल यजुर्वेद ० अध्याय० ३४ मन्त्र ८
 
-![](../books_images/U-IMG-1697356406PIC8.png)
+<MISSING_FIG href="../books_images/U-IMG-1697356406PIC8.png"/>
 
 येने॒दम्भूतंम्भुव॑नम्भवि॒ष्यत्परि॑गृ  
 हीतम॒मृते॑न॒सर्व्वम् । येन॑य॒ज्ञस्ता॒  
@@ -1698,7 +1698,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु अध्याय ३४ मंत्र ९ ॥
 
-![](../books_images/U-IMG-1697356491PIC9.png)
+<MISSING_FIG href="../books_images/U-IMG-1697356491PIC9.png"/>
 
 यस्म्मुिन्नृचुःसामुयजू षिय  
 स्म्मि^(ꣲ)न्प्रति॑ष्ठितारथना॒भावि॑वा॒राः  
@@ -1711,7 +1711,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजुर्वेद ० शु० अध्याय ३४ मंत्र० १०
 
-![](../books_images/U-IMG-1697356668PIC1.png)
+<MISSING_FIG href="../books_images/U-IMG-1697356668PIC1.png"/>
 
 सुषार॒थिरश्वा॑निव॒यन्न्म॑नु॒ष्या॒न्ने  
 नी॒यते॒भीशु॑भिर्व्वाजिन॑ऽइव । हृत्प्र  
@@ -1724,11 +1724,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु० अध्याय २५ कं०१८
 
-![](../books_images/U-IMG-1697356760PIC2.png)
+<MISSING_FIG href="../books_images/U-IMG-1697356760PIC2.png"/>
 
 स्व॒स्तिन॒ऽइन्द्रोव्वृद्धश्रवाःस्व॒स्ति
 
-![](../books_images/U-IMG-1697357852PIC3.png)
+<MISSING_FIG href="../books_images/U-IMG-1697357852PIC3.png"/>
 
 **न॑÷ पू॒षा व्विश्श्ववे॑दाः ॥ स्व॒स्तिन  
 स्तार्क्क्ष्यो॒ऽरि॑ष्टनेमिःस्व॒स्तिनोबृ  
@@ -1738,7 +1738,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु अध्याय ३६ \। कंडि ३६ ॥
 
-![](../books_images/U-IMG-1697357957PIC4.png)
+<MISSING_FIG href="../books_images/U-IMG-1697357957PIC4.png"/>
 
 पय॑÷पृथि॒व्याम्पय॒ऽओष॑धीषुपयों  
 दि॒घ्यृन्तरि॑क्षेपर्योधाः\। पय॑स्व  
@@ -1748,11 +1748,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु अध्याय ५ कंडि २१॥
 
-![](../books_images/U-IMG-1697358035PIC5.png)
+<MISSING_FIG href="../books_images/U-IMG-1697358035PIC5.png"/>
 
 व्विष्ण्णॊ॑रराट॑मसि॒ विषण्णॊः श्र्नप्त्रे॑
 
-![](../books_images/U-IMG-1697358170PIC6.png)
+<MISSING_FIG href="../books_images/U-IMG-1697358170PIC6.png"/>
 
 स्त्थोव्विष्ष्णॊः स्यूर॑सि॒व्विष्ष्णॊ॑र्द्भ्रु
 
@@ -1762,7 +1762,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु० अध्याय १४ कंडिका २० ॥
 
-![](../books_images/U-IMG-1697358293PIC7.png)
+<MISSING_FIG href="../books_images/U-IMG-1697358293PIC7.png"/>
 
 अग्ग्निर्द्देवताव्वातो॑देवतासूर्य्योदेव
 
@@ -1778,7 +1778,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु०अध्याय ३६ कंडिका १७ ॥
 
-![](../books_images/U-IMG-1697358503PIC8.png)
+<MISSING_FIG href="../books_images/U-IMG-1697358503PIC8.png"/>
 
 द्यौःशान्ति॑र॒न्तरि॑क्षवंशान्ति÷पृथि॒  
 वीशान्ति॒रापशान्ति॒रोष॑धयुःशा  
@@ -1791,7 +1791,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजुर्वेद अध्याय ३० । अनु० १ मं० ३ ॥
 
-![](../books_images/U-IMG-1697358592PIC9.png)
+<MISSING_FIG href="../books_images/U-IMG-1697358592PIC9.png"/>
 
 **व्विश्श्वा॑निदेवसवितर्दुरि॒तानि॒परां  
 सुव ॥ यद्द्भ्रद्द्रन्तन्न॒ऽआसु॑व ॥ ६ ॥**
@@ -1802,7 +1802,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजुर्वेद अध्याय १६ अनु ७ मं ४८
 
-![](../books_images/U-IMG-1697360456PIC10.png)
+<MISSING_FIG href="../books_images/U-IMG-1697360456PIC10.png"/>
 
 इ॒मारु॒द्राय॑त॒वसे॑ कप॒र्द्दिने॑क्ष॒यद्द्वीरा  
 यप्रभ॑रामहेम॒तीः ॥ यथा॒शमस॑द्द्वि  
@@ -1813,11 +1813,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु० अध्याय २ मंत्र १२ ॥
 
-![](../books_images/U-IMG-1697360552PIC11.png)
+<MISSING_FIG href="../books_images/U-IMG-1697360552PIC11.png"/>
 
 एतन्तेंदेवसवितर्य्यज्ञम्प्प्रहुर्ब्बृह
 
-![](../books_images/U-IMG-1697360737PIC12.png)
+<MISSING_FIG href="../books_images/U-IMG-1697360737PIC12.png"/>
 
 **स्प्प॑तये ब्ब्रह्मणें ॥ तेन॑य॒ज्ञम॑व॒तेन॑य॒  
 ज्ञप॑ति॒न्तेनमामंत्र ॥ ८ ॥**
@@ -2191,9 +2191,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 स्तेमनुष्य॒जाः ।सोमो॑ददद्गन्ध॒र्वा[^8]
 
-य॑गन्ध॒र्वोद॑ददग्नये॑। र॒यिंच॑पु॒त्रांश्चा॑
-
 [^8]: " ऋग्वेद. मं० १० सूक्त. ८५ मंत्र ॥ ४१ ॥ १४"
+
+य॑गन्ध॒र्वोद॑ददग्नये॑। र॒यिंच॑पु॒त्रांश्चा॑
 
 दाद॒ग्रिर्मद्यु॒मथो॑ इ॒माम् ॥
 
@@ -2370,9 +2370,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 **ॐत्वन्नो॑ऽग्ने॒वरु॑णस्यव्वि॒द्वान्दे॒वस्य॒**
 
-**हेडोअव॑यासिसीष्ठात्![](../books_images/U-IMG-1695733101Screenshot2023-09-26182810.png)॥ यजि॑ष्ठो॒व**
+**हेडोअव॑यासिसीष्ठात्<MISSING_FIG href="../books_images/U-IMG-1695733101Screenshot2023-09-26182810.png"/>॥ यजि॑ष्ठो॒व**
 
-**न्न्हि॑तम॒![](../books_images/U-IMG-1695733224Screenshot2023-09-26182810.png)शोशु॑चानो॒ विश्वा॒॒द्वेष॑![](../books_images/U-IMG-1695733300Screenshot2023-09-26183128.png)**
+**न्न्हि॑तम॒<MISSING_FIG href="../books_images/U-IMG-1695733224Screenshot2023-09-26182810.png"/>शोशु॑चानो॒ विश्वा॒॒द्वेष॑<MISSING_FIG href="../books_images/U-IMG-1695733300Screenshot2023-09-26183128.png"/>**
 
 **सि॒प्रमु॑ मुग्ध्य॒स्मत्स्वाहा ॥ इदमग्नी**
 
@@ -2402,7 +2402,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 उदु॑त्त॒मं व्व॑रुण॒पाश॑ म॒स्म्मदवा॑ध॒मं
 
-विम॑ध्य॒म![](../books_images/U-IMG-1695734517Screenshot2023-09-26183128.png)श्श्र॑थाय \। अथा॑व्व॒य
+विम॑ध्य॒म<MISSING_FIG href="../books_images/U-IMG-1695734517Screenshot2023-09-26183128.png"/>श्श्र॑थाय \। अथा॑व्व॒य
 
 मा॑दित्यव्व॒तेतवाना॑गसो॒ऽअदि॑तये
 
@@ -2440,8 +2440,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 **( यजु० अध्याय १८ मंत्र ३९ ॥**
 
-**स॒![](../books_images/U-IMG-1695735454Screenshot2023-09-26183128.png)हि॒तोव्विश्वसा॑मा॒सूर्य्योगन्ध॒र्व्व![](../books_images/U-IMG-1695735556Screenshot2023-09-26182810.png)सन॑ऽइ॒दम्ब्रह्म॑क्ष॒त्रम्पा॑तु॒तस्मै॒स्वाहावाट् \।\।
-इद![](../books_images/U-IMG-1695735615Screenshot2023-09-26183128.png)स![](../books_images/U-IMG-1695735615Screenshot2023-09-26183128.png)सहितायविश्व**
+**स॒<MISSING_FIG href="../books_images/U-IMG-1695735454Screenshot2023-09-26183128.png"/>हि॒तोव्विश्वसा॑मा॒सूर्य्योगन्ध॒र्व्व<MISSING_FIG href="../books_images/U-IMG-1695735556Screenshot2023-09-26182810.png"/>सन॑ऽइ॒दम्ब्रह्म॑क्ष॒त्रम्पा॑तु॒तस्मै॒स्वाहावाट् \।\।
+इद<MISSING_FIG href="../books_images/U-IMG-1695735615Screenshot2023-09-26183128.png"/>स<MISSING_FIG href="../books_images/U-IMG-1695735615Screenshot2023-09-26183128.png"/>सहितायविश्व**
 
 **साम्रेसूर्यायगन्धर्व्वाय० ॥**
 
@@ -2449,7 +2449,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 **( यजु० अध्याय १८ मंत्र ३९ )**
 
-**सुं![](../books_images/U-IMG-1695735615Screenshot2023-09-26183128.png)हि॒तोव्वि॒श्वसा॑मा॒सूर्य्योगन्धु**
+**सुं<MISSING_FIG href="../books_images/U-IMG-1695735615Screenshot2023-09-26183128.png"/>हि॒तोव्वि॒श्वसा॑मा॒सूर्य्योगन्धु**
 
 **र्व्वस्तस्य॒मरी॑चयोऽप्स॒रस॑ऽआ॒यु**
 
@@ -2688,9 +2688,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 जरन्नआयुः । अपेतुमृत्युरमृतंनआगाद्वैवस्वतोनोऽ[^10]
 
-भयंकृणोतुस्वाहा[^10] ॥ इदमग्नये ०॥ ४ ॥ परंमृत्योऽनु
-
 [^10]: "अयैतुमृत्यु रित्यतिपाठः ॥"
+
+भयंकृणोतुस्वाहा[^10] ॥ इदमग्नये ०॥ ४ ॥ परंमृत्योऽनु
 
 परेहिपंथांयस्तेऽन्यइतरोदेवयानात् । चक्षुष्मतेशृ
 
@@ -2759,7 +2759,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 गाथांगास्यामियास्त्रीणामुत्तमंयशइति ॥ अथवधूवरौ अग्निंप्रक्रामयतस्तुभ्यमग्रेइतिमंत्रेणेति ॥  
 ऋ० मं० १० अ० ७ सू०८५ मंत्र ३८ ।
 
-![](../books_images/U-IMG-1695631554NVP-1.png)
+<MISSING_FIG href="../books_images/U-IMG-1695631554NVP-1.png"/>
 
 तुभ्य॒मग्रेपर्य्यवहन्सूर्याव॑ह॒तुनासह। पुन॒पति॑भ्योजा॒यांदाअंग्नेप्रज  
 या॑स॒हेतिपठन्। परिक्रामेत् ॥ १० ॥
@@ -2871,7 +2871,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 यजु अ० ७ मं० २४
 
-![](../books_images/U-IMG-1695805995NVP-2.png)
+<MISSING_FIG href="../books_images/U-IMG-1695805995NVP-2.png"/>
 
 **ॐ मूर्द्धानंदि॒वोऽअ॑र॒तिम्पृ॑थि॒व्यावैश्वानरमृतऽआजातमग्निम्।  
 कविúस॒म्राज॒मति॑थिंजना॑नामा॒सन्नापात्रंजनयन्तदेवाः स्वाहा॑।**
@@ -2880,7 +2880,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 य०अ० ३ मं० ६२
 
-![](../books_images/U-IMG-1695806216NVP-3.png)
+<MISSING_FIG href="../books_images/U-IMG-1695806216NVP-3.png"/>
 
 **त्र्या॒युषंज॒मद॑ग्नेः इतिललाटे। कश्यपस्य त्र्यायुषम् इतिग्रीवायां। यद्देवेषु॑त्र्यायुषं इतिदक्षिणबाहुमूले॥**
 
@@ -2968,39 +2968,39 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 (शुक्लयजुर्वेद अध्याय २१ मंत्र ३)
 
-![](../books_images/U-IMG-1695707163Screenshot2023-09-26111457.png)
+<MISSING_FIG href="../books_images/U-IMG-1695707163Screenshot2023-09-26111457.png"/>
 
 ॐत्वन्नो॑ऽअग्नेवरु॑णस्यवि॒द्वान्दे॒वस्य॒हेडोऽअव॑यासिसीष्टा॥ यजिष्ट्रोवन्हितमु शोशु॑चानो॒व्विश्वाद्वे
 
-![](../books_images/U-IMG-1695707723Screenshot2023-09-261124552.png)
+<MISSING_FIG href="../books_images/U-IMG-1695707723Screenshot2023-09-261124552.png"/>
 
 षा॑Úसिप्रमु॑मुग्ध्य॒स्म्मत्स्वाहा॥ इदमग्नीवरुणाभ्याम्॰॥१॥
 
 (शुक्ल यजु० अध्याय २१ मंत्र ४॥)
 
-![](../books_images/U-IMG-1695708522Screenshot2023-09-261137493.png)
+<MISSING_FIG href="../books_images/U-IMG-1695708522Screenshot2023-09-261137493.png"/>
 
 ॐसत्वन्नो॑ऽअग्ने॒व॒मोभ॑वो॒तीनोदि॑ष्ठोऽअ॒स्याऽउ॒षसव्यु॑ष्टौ॥ अवयक्ष्वनो॒व्वरु॑ण॒ररा॑णोव्वीहिमृंडीकसुहवोनऽएधिस्वाहा॥ इदमग्नये०२
 
 शुक्ल०यजु० अध्याय मंत्र
 
-![](../books_images/U-IMG-1695708683Screenshot2023-09-261140294.png)
+<MISSING_FIG href="../books_images/U-IMG-1695708683Screenshot2023-09-261140294.png"/>
 
 ॐअयाश्चाग्ग्नेस्यनभिशस्तिपाश्चसत्वमित्वमयाऽअसि। अयानोयज्ञंव्वहास्ययानोधेवेहिभेषजस्वाहा॥ इदमग्नये०॥३॥
 
 शुक्ल० यजुर्वेद अध्याय मंत्र
 
-![](../books_images/U-IMG-1695708830Screenshot2023-09-261142305.png)
+<MISSING_FIG href="../books_images/U-IMG-1695708830Screenshot2023-09-261142305.png"/>
 
 ॐयेतेशतम्व्वरुणयेसहस्रंयज्ञियाः
 
-![](../books_images/U-IMG-1695709285Screenshot2023-09-26115046.png)
+<MISSING_FIG href="../books_images/U-IMG-1695709285Screenshot2023-09-26115046.png"/>
 
 पाशाव्विततामहान्तः। तेभिर्नोऽअद्यसवितोत्तविष्णुर्विश्श्वेमुञ्चन्तुमरुतः स्वर्काः स्वाहा॥ इदंवरुणायसवित्रेविष्णवे-विश्वेभ्योदेवेभ्योमरुद्भ्यः स्वर्केभ्यः०॥ ४ ॥
 
 (शुक्र यजुर्वेद अध्याय २१ मंत्र १२॥
 
-![](../books_images/U-IMG-1695709500Screenshot2023-09-26115435..png)
+<MISSING_FIG href="../books_images/U-IMG-1695709500Screenshot2023-09-26115435..png"/>
 
 ॐउदुत्तमम्व्वरुणुपाश॑म॒स्म्मदवाधमँविम॑ध्य॒मÛश्रथाय। अथाव्वयमा॑दित्यव्र॒तेतवाना॑गसो॒ऽअदि॑तये स्यामस्वाहा॥ इदंव्वरुणाय५एताः सर्वप्रायश्चित्तसंज्ञकाः॥
 
@@ -3018,7 +3018,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 शुक्ल यजुर्वेद अध्याय ८ मंत्र २१
 
-![](../books_images/U-IMG-1695813732Screenshot2023-09-271649281.png)
+<MISSING_FIG href="../books_images/U-IMG-1695813732Screenshot2023-09-271649281.png"/>
 
 ॐदेवा॑गातुविदोगातुंव्वित्वागातुमित। मन॑स॒स्पतऽडमन्दे॑वय॒ज्ञÛस्वाहा॒व्वाति॑धास्वाहा॥
 
@@ -3037,7 +3037,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 (यजु० अध्याय ७ मंत्र २४)
 
-![](../books_images/U-IMG-1695635595NVP-2.png)
+<MISSING_FIG href="../books_images/U-IMG-1695635595NVP-2.png"/>
 
 **ॐमूर्द्धान॑दि॒वोऽअ॑र॒तिम्पृ॑थि॒व्यावैश्वानुरमृतऽआजातमुम्निम्। क॒विÛसुम्म्राज॒मति॑थि॒ञ्जना॑नामा॒सन्नापात्रंञ्जनयन्त**
 
@@ -3045,7 +3045,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 ततः स्रुवेणभस्मानीयदक्षिणानामिकयात्र्यायुषंकुर्य्यात् । यजु० अध्याय ३ मंत्र ६२
 
-![](../books_images/U-IMG-1695635802NVP-3.png)
+<MISSING_FIG href="../books_images/U-IMG-1695635802NVP-3.png"/>
 
 ॐ व्या॒युषंज॒मद॑ग्नेः॥ इति ललाटे।ॐ कश्यपस्यत्र्यायुषम्॥ इति ग्रीवायां ॐयद्दे॒वेषु॑त्र्यायु॒षम्। इतिदक्षिणबाहुमूले॥ ॐ तन्नोअस्तुत्र्यायुषम्। इतिहृदये॥
 
@@ -3398,7 +3398,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 कर्पूरस्थलेरम्येअद्रिवेदांकभूमिते।  
 वैक्रमेमधुमासेचकृताटीकामनोरमा॥ ११॥
 
-![](../books_images/U-IMG-1695632410Untitled321.png)
+<MISSING_FIG href="../books_images/U-IMG-1695632410Untitled321.png"/>
 
 श्रीः ।  
 **अथार्कविवाहः॥**  
@@ -3534,6 +3534,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY4OTMxMzg0NDA
 
 **मुंबई.**
 
-**![](../books_images/U-IMG-1695701403Untitled101.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1695701403Untitled101.png"/>**
 
 \]

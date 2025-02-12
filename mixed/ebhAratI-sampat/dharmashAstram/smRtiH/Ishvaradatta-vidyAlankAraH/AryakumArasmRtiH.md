@@ -19,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 आर्यकुमार स्मृति  
 -----------------------------------------------
 
-![](../books_images/U-IMG-1724303246Screenshot2024-08-22103556.png)
+<MISSING_FIG href="../books_images/U-IMG-1724303246Screenshot2024-08-22103556.png"/>
 
 भिषगाचार्य श्री ए. ईश्वरदत्तजी विद्यालङ्कार  
 मुख्याध्यापक श्रीश्रद्धानन्द ब्रह्मचर्याश्रम  
@@ -28,10 +28,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 [TABLE]
 
 **आर्य कुमार संकीर्तन  
-![](../books_images/U-IMG-1724903757EndofPage.gif)**
+<MISSING_FIG href="../books_images/U-IMG-1724903757EndofPage.gif"/>**
 
 परिवर्द्धित एवं संशोधित तृतीय संस्करण  
-![](../books_images/U-IMG-1724903814th.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1724903814th.jpeg"/>
 
  आर्य-कुमार संकीर्तन जैसी उपयोगा पुस्तक इतने सस्ते मूल्यमें आजतक नहीं देखी गई। एक हीपुस्तकमें स्वतिवाचन, शांति प्रकरण, ईश्वर प्रार्थनाके मंत्र, अर्थ सहित अग्निहोत्र, संध्या, उपयोगी वेदमन्त्र और सुन्दर समायिक बहुतसे भजनोंका अभूतपूर्व संग्रह है। पुस्तकको सफाई छपाई और कागज बहुत बढ़िया हैं। मुख्य पृष्ठपर महर्षि दयानन्दजी महाराजका भव्य चित्र है।
 
@@ -42,13 +42,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 **कलकत्ता।**
 
 मनुस्मृति-शतक  
-![](../books_images/U-IMG-1724939824Screenshot2024-08-16175039.png)
+<MISSING_FIG href="../books_images/U-IMG-1724939824Screenshot2024-08-16175039.png"/>
 
 अर्थात्
 
 आर्यकुमार-स्मृति की विशेषता
 
-![](../books_images/U-IMG-1724939824Screenshot2024-08-16175039.png)
+<MISSING_FIG href="../books_images/U-IMG-1724939824Screenshot2024-08-16175039.png"/>
 
 (१) मनुस्मृति जिस श्लोक पर समाप्त होती है, उसी श्लोकसे "आर्य कुमार-स्मृति" प्रारम्भ होती है।
 
@@ -56,7 +56,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 
 ( ३ ) प्रत्येक विषयके विखरे हुवेश्लोक एकत्रित कर दिए गये हैं अतएव विषयकीज्ञान ठीक ठीक हो सकता है।
 
-**![](../books_images/U-IMG-1724939959Screenshot2024-08-16182154.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724939959Screenshot2024-08-16182154.png"/>**
 
 प्रकाशक—  
 
@@ -108,7 +108,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 
 **आत्मनिवेदन**  
 
-**![](../books_images/U-IMG-1724940613R.jpeg)**
+**<MISSING_FIG href="../books_images/U-IMG-1724940613R.jpeg"/>**
 
  अपने परम पूज्य श्रद्धेय आचार्य श्रीस्वामी श्रद्धानन्दजी सन्यासीके मुखारविन्दसे गुरुकुल विश्वविद्यालय काँगड़ीमें जब मैं साप्ताहिक उपदेशों द्वारा मनुस्मृतिका स्वाध्याय किया करता था; उस समयकी मेरी प्रबल आकांक्षा आज पूर्ण हुई है। जिन पवित्र विचारोंका प्रतिबिम्ब मेरे कोमल बाल्य हृदयपर पड़ा था उन्हींका दिग्दर्शन “आर्यकुमार—स्मृति" में होगया है।
 
@@ -117,7 +117,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  फूलोंमें सुगन्ध है इसीलिये मेरे बनाये गुच्छोंमें भी सुगन्ध आ रही है परन्तु मैं इस श्रेयका पात्र नहीं हूं। मैं तो संसारभर की जागृति और उन्नति आर्यकुमारोंकी जागृति और उन्नतिमें मानता हूं इसीलिये आर्यकुमारोंकी हितसाधनाकी भावनासे मैंने यह प्रयत्न किया है।
 
 आर्यकुमार स्मृति  
-![](../books_images/U-IMG-1724940859Screenshot2024-08-29191949.png)
+<MISSING_FIG href="../books_images/U-IMG-1724940859Screenshot2024-08-29191949.png"/>
 
  मेरे आर्यकुमार भाइयों !  
  यह “आर्यकुमार-स्मृति” आपके लिए है; इसको अपनेसे कभी अलग मत कीजिए। प्रतिदिन प्रातःकाल स्वाध्याय कीजिए और चौंसठ कलाओं द्वारा अपने जीवनमें पूर्ण उन्नति कीजिये।
@@ -140,7 +140,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 (स्नातक—गुरुकुल,कांगड़ी)**
 
 प्रकाशकका वक्तव्य  
-![](../books_images/U-IMG-1724941397Screenshot2024-08-16175054.png)
+<MISSING_FIG href="../books_images/U-IMG-1724941397Screenshot2024-08-16175054.png"/>
+
+ 
 
 आर्य-कुमार स्मृतिके लेखक मेरे पर मित्र भिषगाचार्य पण्डित ईश्वरदत्तजी विद्यालङ्कार गुरुकुल कांगड़ीने इस पुस्तकको मेरे पास प्रकाशनार्थ दिसम्बर मासके आरम्भमें ही भेज दिया था। सुयोग्य लेखकने यह पुस्तक अपने आचार्य-गुरुकुल कांगड़ीके संस्थापक स्वर्गीय स्वामी श्रद्धानन्दजी महाराजको समर्पणकी है। पुस्तक गुरुकुल कांगडीका रजत जयन्ती (पचीसी) के उपलक्षमें लिखा गई थी। और लेखक महाशयका यह शुभ संकल्प था कि यह उपहार अपने "कुल पिता" के कर कमलोंमें समर्पितकर अपनेको कृत्य कृत्य करते किन्तु यह मनोवांच्छा अपूर्ण ही रह गई और विगत २३ दिसम्बर १९२६ को सांयकालके पौने ४ बजे उस वीर सन्यासीने एक कातिल अब्दुलरशीद नामक दुष्ट मुसलमान की पिस्तौलकी गोलियां अपनी छातीमें खाकर प्यारे वैदिक धर्मके लिये अपने प्राणों की आहुति देदी।
 
@@ -158,17 +160,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 प्रकाशन विभाग  
 आर्यकुमार कार्यालय कलकत्ता
 
-![](../books_images/U-IMG-1724309843Screenshot2024-08-22122650.png)
+<MISSING_FIG href="../books_images/U-IMG-1724309843Screenshot2024-08-22122650.png"/>
 
 \*ओ३म्\*  
 आर्यकुमार-स्मृतिमें वर्णित चौंसठकलाओं की  
 क्रमबद्ध-सूची  
-![](../books_images/U-IMG-1724943085Screenshot2024-08-16175131.png)
+<MISSING_FIG href="../books_images/U-IMG-1724943085Screenshot2024-08-16175131.png"/>
 
 [TABLE]
 
 **आर्यकुमार स्मृति  
-![](../books_images/U-IMG-1724943281th.jpeg)**
+<MISSING_FIG href="../books_images/U-IMG-1724943281th.jpeg"/>**
 
 [TABLE]
 
@@ -191,7 +193,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 **(पहिलीकला)**  
 
 मनुस्मृतिका बड़ा महत्व है।  
-**![](../books_images/U-IMG-1724949778Screenshot2024-08-16175039.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724949778Screenshot2024-08-16175039.png"/>**
 
 **(१) इत्येतन्मानवं शास्त्रं, भृगुप्रोक्तं पठन् द्विजः।  
 भवत्याचारवान्नित्यं, यथेष्टां प्राप्नुयाद्गतिम्॥**
@@ -242,6 +244,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 
 ( म० अ० २ श्लो० ७ )
 
+ 
+
 मनुने जो जिसका धर्म बताया है वह सब वेदमें कहा है। वास्तवमें वेद ही ज्ञानका भण्डार है। वेद विरुद्ध मनुस्मृति भी त्याज्य है।
 
 **(छठी कला)**  
@@ -267,7 +271,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  व्रत, यज्ञ, यम और नियम सभा दृढ़ संकल्प करने के बाद ही पूर्ण होते हैं॥
 
 अथ द्वितीयः स्तवकः  
-![](../books_images/U-IMG-1724950632Screenshot2024-08-16175301.png)
+<MISSING_FIG href="../books_images/U-IMG-1724950632Screenshot2024-08-16175301.png"/>
 
 **(आठवीं कला)**  
 
@@ -288,6 +292,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 धीर्विद्यासत्यमक्रोधो, दशकं धर्म लक्षणम्॥**
 
 (म० अ० ६ श्लो० ९२)
+
+ 
 
 धैर्य, क्षमा, शीतोष्णका सहन, अस्तेय, शुद्धता, इन्द्रियोंका वशीकरण, शास्त्रज्ञान, आत्म ज्ञान, सत्य और अक्रोध धर्मके मुख्य दस लक्षण हैं।
 
@@ -318,7 +324,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 
 गायत्री तीनों वेदोंका सार है इसलिये इसीका जप सर्व श्रेष्ठ है।
 
-![](../books_images/U-IMG-1725025128Screenshot2024-08-16175039.png)
+<MISSING_FIG href="../books_images/U-IMG-1725025128Screenshot2024-08-16175039.png"/>
 
 **(१३) त्रिभ्य एव तु वेदेभ्यः, पादं पादमदूदुहत्।  
 तदित्यृचोऽस्याः सावित्र्याः, परमेष्ठी प्रजापतिः॥**
@@ -337,7 +343,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  नोटः— प्रत्येक आर्यकुमारको प्रतिदिन सोनेसे पूर्व २५ बार गायत्रीका जप अवश्य करना चाहिये। साथ साथ कमसेकम २५ वर्ष ब्रह्मचारी रहनेकी भावना भी दृढ़ करनी चाहिये।
 
 अथ तृतीयः स्तवकः  
-![](../books_images/U-IMG-1725002524Screenshot2024-08-29191949.png)
+<MISSING_FIG href="../books_images/U-IMG-1725002524Screenshot2024-08-29191949.png"/>
 
 (ग्यारहवीं कला)  
 
@@ -374,7 +380,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 **( बारहवीं कला )**  
 
 स्वाध्यायमें कभीत्रुटि मत करो।  
-![](../books_images/U-IMG-1725025610Screenshot2024-08-16175054.png)
+<MISSING_FIG href="../books_images/U-IMG-1725025610Screenshot2024-08-16175054.png"/>
 
 **(१९) सर्वान्परित्यजेदर्थान्, स्वाध्यायस्य विरोधिनः  
 यथातथा ध्यापयंस्तु, साह्यस्यकृतकृत्यता॥**
@@ -391,12 +397,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  जो प्रतिदिन स्वाध्याय करता है वह फूलोंकी माला धारण करता हुआ भी नखसे शिख तक परम तप करता है। यद्यपि आर्यकुमारके लिये माला पहिनना अनुचित है तो भी स्वाध्यायका महत्व जितलानेके लिये ऐसा लिखा है।
 
 **अथ चतुर्थः स्तवकः  
-![](../books_images/U-IMG-1725025797th.jpeg)**
+<MISSING_FIG href="../books_images/U-IMG-1725025797th.jpeg"/>**
 
 ( तेरहवीं कला )  
 
 इन्द्रिय निग्रह तपस्यासे होता है।  
-![](../books_images/U-IMG-1725025855Screenshot2024-08-16174952.png)
+<MISSING_FIG href="../books_images/U-IMG-1725025855Screenshot2024-08-16174952.png"/>
 
 **(२१) श्रोत्रंत्वक्चक्षुषीजिह्वा, नासिका चैव पञ्चमी।  
 पायूपस्थं हस्तपादं वाक् चैव दशमी स्मृता॥**
@@ -448,12 +454,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  आचार हो परम धर्म है और वह इन्द्रिय निग्रहसे होता है। इसलिये इन्द्रिय निग्रह करते हुये सदाचारी बनो॥
 
 **अथ पञ्चमः स्तवकः  
-![](../books_images/U-IMG-1725026421Screenshot2024-08-16175114.png)**
+<MISSING_FIG href="../books_images/U-IMG-1725026421Screenshot2024-08-16175114.png"/>**
 
 **( चौदहवीं कला )**  
 
 सन्ध्या, अग्निहोत्र आदि पंच महा यज्ञ हैं।  
-![](../books_images/U-IMG-1725026451Screenshot2024-08-16175131.png)
+<MISSING_FIG href="../books_images/U-IMG-1725026451Screenshot2024-08-16175131.png"/>
 
 **(२८) ऋषियज्ञं देवयज्ञं च, भूतयज्ञं च सवथा।  
 नृयज्ञं पितृयज्ञं च यथाशक्ति न हापयेत्॥**
@@ -507,7 +513,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  स्वाध्याय, पंच महायज्ञादिके अनुष्ठानसे शूद्र कुलोत्पन्न भी गुण कर्मानुसार ब्राह्मण हो जाता है। इसलिये पंच महायज्ञोंको मत भूलो।
 
 **अथ षष्ठः स्तवक  
-![](../books_images/U-IMG-1725030575Screenshot2024-08-16175023.png)**
+<MISSING_FIG href="../books_images/U-IMG-1725030575Screenshot2024-08-16175023.png"/>**
 
 **(पन्दरहवीं कला)**  
 
@@ -543,7 +549,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 **(अठारहवीं कला)**  
 
 सदाचारो सौ वर्ष तक जीता है।  
-![](../books_images/U-IMG-1725030815Screenshot2024-08-16174952.png)
+<MISSING_FIG href="../books_images/U-IMG-1725030815Screenshot2024-08-16174952.png"/>
 
 **(३८) सर्वलक्षणहीनोऽपि, यः सदाचारवान्नरः।  
 श्रद्धानोऽनसूयश्च, शतं वर्षाणि जीवति॥**
@@ -555,7 +561,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 **(उन्नीसवीं कला)**  
 
 पाप करके सत्य कहनेसे पाप छूट जाता है।  
-![](../books_images/U-IMG-1725030815Screenshot2024-08-16174952.png)
+<MISSING_FIG href="../books_images/U-IMG-1725030815Screenshot2024-08-16174952.png"/>
 
 **(३९) यथा यथा नरोऽधर्मं, स्वयं कृत्वानुभाषते ।  
 तथा तथा त्वचेवाहि, स्तेनाधर्मेण मुच्यते॥**
@@ -572,12 +578,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  पश्चात्ताप करके पापसे निवृत्त हो जाता है। "मैं फिर ऐसा नहीं करू" इस प्रकार दृढ़ धारण करनी चाहिए।
 
 **अथ सप्तमः स्तवकः।  
-![](../books_images/U-IMG-1725031087Screenshot2024-08-16182154.png)**
+<MISSING_FIG href="../books_images/U-IMG-1725031087Screenshot2024-08-16182154.png"/>**
 
 **(बीसवीं कला)**  
 
 अवनतिके मूख्य चार कारण हैं।  
-![](../books_images/U-IMG-1725031118Screenshot2024-08-16175054.png)
+<MISSING_FIG href="../books_images/U-IMG-1725031118Screenshot2024-08-16175054.png"/>
 
 (४१) अनभ्यासेन वेदानां, आचारस्य च वर्जनात्।  
 आलस्यादन्नदोषाच्च, मृत्यु
@@ -640,13 +646,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  जिस प्रकार खोदनेसे पानी मिलता है; उसी प्रकार सेवासे विद्या प्राप्त होती है।
 
 अथ अष्टम स्तवकः।  
-![](../books_images/U-IMG-1725031605Screenshot2024-08-16174952.png)
+<MISSING_FIG href="../books_images/U-IMG-1725031605Screenshot2024-08-16174952.png"/>
 
 **( पच्चीसवीं कला )**  
 
 अधिक भोजन कभी मत करो।  
 
-![](../books_images/U-IMG-1725031630Screenshot2024-08-16175131.png)
+<MISSING_FIG href="../books_images/U-IMG-1725031630Screenshot2024-08-16175131.png"/>
 
 **(४७) अनारोग्यमनायुष्य,मस्वर्ग्यंचाति भोजनम्।  
 अपुण्यं लोकविद्विष्टं, तस्मात्तत्परिवर्जयेत्॥**
@@ -699,7 +705,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  दूसरोंके मांससे जो अपने मांसको बढ़ाने चाहता है उससे बढ़कर पापी कौन हो सकता है। इसलिये माँस भक्षणको महापाप जानकर छोड़ दो।
 
 अथ नवमः स्तवकः  
-![](../books_images/U-IMG-1725035928Screenshot2024-08-16175301.png)
+<MISSING_FIG href="../books_images/U-IMG-1725035928Screenshot2024-08-16175301.png"/>
 
 (सत्ताईसवीं कला)  
 
@@ -743,6 +749,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 
 (म० अ० २ श्लो० १४४ )
 
+ 
+
 सच्चे माता पिता ये ही है जो निरन्तर वेद ज्ञानसे कानोंको भरें; अतः सच्चे मतापितासे कभीद्वेषन करो।
 
 (इकत्तीसवीं कला)  
@@ -753,6 +761,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 ऋषयश्चक्रिरे धर्मं, योऽनृचानःसनो महान्॥**
 
 (म० अ० २ श्लो० १५४ )
+
+ 
 
 ऋषियोंने यह धर्म बनाया है कि जो वेद ज्ञानी है वही बड़ा है। आयु, धन आदिसे कोई बड़ा नहीं होता है।
 
@@ -768,12 +778,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  वालोंके सफेद होनेसे कोई बूढ़ा नहीं हो जाता है; जो युवक भीवेद ज्ञानी है उसको भी विद्वान् लोग वृद्ध समझते हैं।
 
 अथ दशमः स्तवकः  
-![](../books_images/U-IMG-1725036257R.gif)
+<MISSING_FIG href="../books_images/U-IMG-1725036257R.gif"/>
 
 (तेतीसवीं कला)  
 
 षोडष संस्कार अनिवार्य हैं।  
-![](../books_images/U-IMG-1725036284R.png)
+<MISSING_FIG href="../books_images/U-IMG-1725036284R.png"/>
 
 **५९) वैदिकैः कर्मभिः पुण्यै,र्निषेकादिर्द्विजन्मनाम्।  
 कार्यः शरीरसंस्कारः, पावनः प्रेत्य चेह च॥**
@@ -832,7 +842,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  नीच कुलोत्पन्न भी यदि बिद्वान् है तो उसको गुरु समझो और श्रद्धापूर्वक विद्या ग्रहण करो। विदुषी स्त्रीभी गुण कर्मानुसार उच्चकुलको प्राप्त करती है।
 
 अथ एकादेशः स्तवकः  
-![](../books_images/U-IMG-1725036751R.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1725036751R.jpeg"/>
 
 **\[सैंतीसवीं कला\]**  
 
@@ -904,12 +914,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  शराव अन्नोंका मैल है; और मैल खाना पाप है। इसलिये शराब कभी नहीं पीनी चाहिये।
 
 अथ द्वादशःस्तवकः।  
-![](../books_images/U-IMG-1725037333Screenshot2023-09-26205406.png)
+<MISSING_FIG href="../books_images/U-IMG-1725037333Screenshot2023-09-26205406.png"/>
 
 \[तेतालीसवीं कला \]  
 
 वर्णव्यवस्था गुण कर्मस्वभावानुसार मानों।  
-**![](../books_images/U-IMG-1725037379page-separator-png-4.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725037379page-separator-png-4.png"/>**
 
 **(७१) आचार्यस्त्वस्य यां जातिं विधिवद्वेदपारगः॥  
 उत्पादयति सावित्र्या, सा सत्या साऽजरामरा॥**
@@ -962,12 +972,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  "पुंस्" नामवाले बरकसे माता पिता की रक्षाकरनेके कारणही पुत्रकानाम पुत्र है।
 
 **अथ त्रयोदशः स्तवकः  
-![](../books_images/U-IMG-1725038049Screenshot2023-09-23135540.png)**
+<MISSING_FIG href="../books_images/U-IMG-1725038049Screenshot2023-09-23135540.png"/>**
 
 **\[ छियालीसवीं कला \]**  
 
 वर्ण केवल चार हैं।  
-![](../books_images/U-IMG-1725038073page-separator-png-4.png)
+<MISSING_FIG href="../books_images/U-IMG-1725038073page-separator-png-4.png"/>
 
 **(७७) ब्राह्मणः क्षत्रियो वैश्य,स्त्रयो वर्णाद्विजातयः।  
 चतुर्थ एक जातिस्तु, शूद्रो नास्ति तु पञ्चमः॥**
@@ -1033,12 +1043,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 
 **अथ चतुर्दशःस्तवकः**  
 
-**![](../books_images/U-IMG-1725038555R.gif)**
+**<MISSING_FIG href="../books_images/U-IMG-1725038555R.gif"/>**
 
 **\[बावनवीं कला\]**  
 
 स्त्रियोंका यथोचित सम्मान करो।  
-![](../books_images/U-IMG-1725038673page-separator-png-4.png)
+<MISSING_FIG href="../books_images/U-IMG-1725038673page-separator-png-4.png"/>
 
 **(८३) यत्र नार्यस्तु पूज्यन्ते, रमन्ते तत्र देवताः।  
 यत्रैतास्तु न पूज्यन्ते, सर्वास्तत्राफलाः क्रियाः॥**
@@ -1074,6 +1084,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 
 (म० अ० ९ श्लो० १७५ )
 
+ 
+
 विधवा अपनी इच्छासे पौनर्भव पुत्रको उपन्न करती है।  
  नोटः - नियोगके अभावमें ही पुत्रन
 
@@ -1087,6 +1099,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 पौनर्भवेन भत्रा सा पुनः संस्कारमर्हति॥**
 
 (म० अ० ९ श्लो० १७६ )
+
+ 
 
 यदि विधवा अक्षय योनि हो, चाहे पुनर्गमन भी हो चुका हो; तो भी उसके लिये पुनः संस्काकार अधिकार है।
 
@@ -1106,13 +1120,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  नोटः- अपने कर्त्तव्यका परित्याग कदापि न करो इसीसे वर्णसङ्कर होते हैं।
 
 **अथ पञ्चदशःस्तवकः**  
-![](../books_images/U-IMG-1725039125R.png)
+<MISSING_FIG href="../books_images/U-IMG-1725039125R.png"/>
 
 **\[ सत्तावनवीं कला \]**  
 
 अपना बलिदान करनेसे स्वाराज्य प्राप्त होता है।  
 
-![](../books_images/U-IMG-1725039155page-separator-png-4.png)
+<MISSING_FIG href="../books_images/U-IMG-1725039155page-separator-png-4.png"/>
 
 **(८९) सर्वभूतेषु चात्मानं, सर्वभूतानि चात्मनि।  
 समं पश्यन्नात्मयाजी, स्वाराज्यमधिगच्छति॥**
@@ -1177,12 +1191,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
  दण्डके बिना पाप नहीं रुकता है। इसलिये दण्ड मिलने पर बुरा मत मानो; अपितु पापोंको छोड़दो।
 
 अथ षोङशःस्तवकः  
-![](../books_images/U-IMG-1725039609R.png)
+<MISSING_FIG href="../books_images/U-IMG-1725039609R.png"/>
 
 **\[त्रेसठवीं कला\]**  
 
 शुद्धिका कार्य अत्यन्त आवश्यक है।  
-![](../books_images/U-IMG-1725039649page-separator-png-4.png)
+<MISSING_FIG href="../books_images/U-IMG-1725039649page-separator-png-4.png"/>
 
 **(९५) शनकैस्तु क्रियालोपा,दिमाक्षत्रियजातयः।  
 वृषलत्वं गता लोके, ब्राह्मणादर्शनेन च॥**
@@ -1231,7 +1245,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MzA1MzY2Njk
 
  गरमी हो, सरदी हो, वर्षा हो, आंधो हो, अथवा कोई अन्य आपत्ति गायपर आती हो तो अपने प्राणोंका तनिक भी ध्यान मत कर गाय की रक्षा करलो। जिस दिन भारतके बच्चे २ में गौके प्रति इतना पूजा भाव उत्पन्न हो जायगा —उस दिन भारत स्वतन्त्र होगा। याद रखो गो (पृथिवी वाणी, गौ) रक्षा करने वाला देश कभी परतन्त्र नहीं रह सकता है।
 
-![](../books_images/U-IMG-1725040042R.jpeg)
+<MISSING_FIG href="../books_images/U-IMG-1725040042R.jpeg"/>
 
 \*समाप्तमिदं मनुस्मृति शतकम्\*
 

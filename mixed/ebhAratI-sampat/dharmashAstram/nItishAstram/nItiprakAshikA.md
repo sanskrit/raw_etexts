@@ -33,7 +33,7 @@ This is the first edition of the Nītiprakāśikā, to which work I have repeate
 
 GUSTAV OPPERT.
 
-![](../books_images/U-IMG-1696328062Screenshot2023-10-03at10-10-21EditBookE-Bharatisampat.png)
+<MISSING_FIG href="../books_images/U-IMG-1696328062Screenshot2023-10-03at10-10-21EditBookE-Bharatisampat.png"/>
 
 THE
 
@@ -57,9 +57,9 @@ I, 11-18).
 
   Depravity of the Kaliyuga. Righteousness, truth, purity, patience and pity, he said, are fast disappearing in the Kaliyuga, and wealth is more highly appreciated than noble birth, noble deeds, and virtue. The gratification of animal passions has taken the place of legitimate marriage; the mere wearing of the thread constitutes a person a Brahman; the religious position of a man is only defined by external signs; the poor man is despised, though he be good. Abstaining from a bad deed is esteemed a good action; bathing is deemed sufficient for purification; taking a woman is regarded marriage; beauty consists in wearing hair on the head. Filling one's stomach is the principal object in life; good actions are done for the sake of glorification; ability is only displayed in the keeping up of one's family; and rude behaviour passes for truthfulness. All castes are like Śūdras, as cows are like goats, religion abounds with heresy, and kings behave like thieves.[^2]
 
- This being the case, Janamējaya asks how men may in an easy manner be taught the rules of polity, as well as the secrets of the Dhanurvēda and the practice of arms. Vaisam-
-
 [^2]: "Compare the description of the Kaliyuga in the Harivaṁśa, Chapters: and 187."
+
+ This being the case, Janamējaya asks how men may in an easy manner be taught the rules of polity, as well as the secrets of the Dhanurvēda and the practice of arms. Vaisam-
 
 *pāyana* replied that, knowing the wishes of the king, he had undertaken his journeyto satisfy them. A preceptor should only speak when his pupil asks him and gives him thus an opportunity of answering, for if the instructor should explain without being requested to do so, he would commit a sin. He then goes on saying (I, 20–28), that, as Brahma, Rudra,Subrahmanya, Indra, Manu, Brhaspati, Sukra, Bharadvāja, Gauraśiras, and Vyāsa had respectively written 100,000, 50,000, 12,000, 6,000, 3,000, 1,000, 700, 500, and 300 chapters on polity,[^3] he would not enlarge on the subject of polity.
 
@@ -87,9 +87,9 @@ Having accepted from me the Dhanurvēda, protect all your subjects as if they we
 
 and well versed in all sciences; possessing the six regal qualities,[^10]
 
-apply, according to your
-
 [^10]: " I.e., the king should be, according to Narada, eloquent, fearless, wise, of retentive memory, well versed in polity and gifted with originality. वक्ता प्रगल्भो मेधावी स्मृतिमान् नयवित् कविः!"
+
+apply, according to your
 
 strength or weakness, the seven State requisites,[^11]
 
@@ -111,9 +111,9 @@ the enemy's and 3 his own officials,[^14] 100, 35, 67.")
 
 having heard that the enemy is very weak,[^15]
 
-attack him quickly with your threefoldpower,[^16].")
-
 [^15]: "18 The 10 passions refer to women, play, hunting, drinking, dancing,singing, roaming about, music, vituperation and sleeping in day time.  स्त्री द्यूतं मृगया मद्यं नृत्यं गीतं तथाटनं। वाद्यनिन्दा दिवास्वापो व्यसनानि नृणां दश॥     In the above sloka are contained the 10 weak points. Manu VII, 46-47; compare Kam. XIII, 61, and XIV, 7."
+
+attack him quickly with your threefoldpower,[^16].")
 
 [^16]: " 19 According to Sitarama's commentary the threefold power consists of मन्त्रकोशभृत्याः, or of प्रभुमन्त्रोत्साहाः (king, minister and warlike enterprise
 
@@ -121,9 +121,9 @@ represented by ministers, treasury and
 
 troops. Begin the march at the right time, being well acquainted with the 'circle of kings,[^17]
 
-with your own superiority, and the inferior condition of the enemy. Having thus strengthened your own realm, go against the enemy, try to conquer him, and having done so, grant him your protection. Let your army with its eight component parts[^18]
-
 [^17]: "See Kam. VIII, 18, 24; and Weapons, p. 41."
+
+with your own superiority, and the inferior condition of the enemy. Having thus strengthened your own realm, go against the enemy, try to conquer him, and having done so, grant him your protection. Let your army with its eight component parts[^18]
 
 [^18]: " रथनागहया योधाः पत्तयः कर्मकारकाः।      चारा दैशिकमुख्याश्च ध्वनिन्यष्टाङ्गिका मता॥ i.e., chariots, elephants, horses, warriors, foot-soldiers, artisans, spies, and persons who know foreign countries and languages form the army."
 
@@ -199,7 +199,7 @@ of the Kṛṣṇayajurvēda is as follows: "This is the sūrmī which has a hol
 
 same meaning, but where the commentator is reported to have explained it merely by *flame (jvālayā),* which is no doubt a very insufficient interpretation, as the meaning of  
 *sūrmī* rather points to a hollow tube.  
- The ear-like hole (*karṇaka)* penetrates through the cylinder in this manner ![](../books_images/U-IMG-1696423337Screenshot2023-10-04124148.png) The hole where *a* is found is called the vent, *karṇa,* and the very same expression is used in the *Śukranīti* (p. 194, IV, 7, 196 ; see *Weapons*, p. 106). The *inside and outside blazing* mentioned by Bhaṭṭabhāskara refers to the firing the gun (at *a*), and the flame appearing outside the *muzzle* after the discharge (at *b*).  
+ The ear-like hole (*karṇaka)* penetrates through the cylinder in this manner <MISSING_FIG href="../books_images/U-IMG-1696423337Screenshot2023-10-04124148.png"/> The hole where *a* is found is called the vent, *karṇa,* and the very same expression is used in the *Śukranīti* (p. 194, IV, 7, 196 ; see *Weapons*, p. 106). The *inside and outside blazing* mentioned by Bhaṭṭabhāskara refers to the firing the gun (at *a*), and the flame appearing outside the *muzzle* after the discharge (at *b*).  
  The weight of these Vedic verses and of their commentaries can hardly be overrated, as they clearly establish the existence of ancient firearms in the earliest time of Indian history. We need hardly dilate further on this subject, which, as far as textual evidence and interpretation goes, is settled. The *sataghnī* occurs also in the epic literature as a projectile weapon lighted by fire, e.g., in the Harivaṁ*ś*a (*śataghnīābhiśca dīptābhis*[^22]। कर्णकावती अन्तस्सुषिरवतीअन्तर्बहिश्च ज्वलन्तीत्यर्थः। सांहितकं दीर्घत्वं। तत्सदृशा ऋगित्यर्थः। एतयेत्यादि। असुराणां मध्ये शततर्हानेकप्रहारेण शतस्यहन्तॄन्।  तृंहन्ति  घ्नन्ति स्म। एतया  ऋंचा तृह् हिंसायां रौधादिकः। लट् स्म इति लट् (Psp. IIT, 2, 118) तस्मादेतया ऋंचा समिध–")).
 
 [^22]: "25 See Kṛṣṇayajurveda, I, 5, 7, 6: एषा वै सूर्मी कर्णका वत्येतया ह स्म वै देवा असुराणां शततर्हास्तृहन्ति यदेतया समिधमादधाति वज्जमेवैतच्छतघ्नीं यजमानो भ्रातृव्याय प्रहरति. The jñānayajña of Bhattabhaskara on this verse runs as follows:— एषावा इत्यादि। ज्वलन्ती लोहमयी स्थूणा सूर्मी। गौरादित्वाद्ङीष् (Pap. VI, 1, 41
@@ -232,9 +232,9 @@ The fourth class possesses six weapons, but though these are only few, they are
 
 all-powerful and irresistible; they reside in the fourth foot of the Dhanurvēda.[^24]
 
-The enumeration of the weapons is followed by the story of the sage Dadhīci, who allowed his body to become the depository of the 32 weapons of the two first classes after the gods had been defeated in battle by the Asuras and had thrown away their weapons on their flight. Subsequently, as the gods wish to obtain again possession of their arms, a cow licks them out of the body of the sage, who, for his self-sacrifice, is transferred to heaven.[^25]
-
 [^24]: "See II, 40; Weapons, p. 30; and Madras Journal, p. 196."
+
+The enumeration of the weapons is followed by the story of the sage Dadhīci, who allowed his body to become the depository of the 32 weapons of the two first classes after the gods had been defeated in battle by the Asuras and had thrown away their weapons on their flight. Subsequently, as the gods wish to obtain again possession of their arms, a cow licks them out of the body of the sage, who, for his self-sacrifice, is transferred to heaven.[^25]
 
 [^25]: "See II, 43-60; Weapons, pp. 23, 24; and Madras Journal, pp. 189, 190."
 
@@ -242,9 +242,9 @@ The third chapter contains the origin of the sword, the whole chapter being devo
 
 this subject.[^26]
 
-The fourth and fifth chapters are devoted, as we have seen, to the description of the weapons belonging to the first two classes. The fifth chapter ends with an enumeration of the terrible weapons and implements which are used in the wars during the Kaliyuga, especially are mentioned machines made of metal, stone and other materials which throw balls on the enemy, big rocks, saws, smoke-balls, burning husk-coals, hot sand, boiling oil, melting sugar-treacle, resin of the śāl-tree, pots filled with honey and poisonous serpents, and other like preparations.
-
 [^26]: "See Chapter III, Weapons, pp. 24, 25, and Madras Journal, pp. 190, 191."
+
+The fourth and fifth chapters are devoted, as we have seen, to the description of the weapons belonging to the first two classes. The fifth chapter ends with an enumeration of the terrible weapons and implements which are used in the wars during the Kaliyuga, especially are mentioned machines made of metal, stone and other materials which throw balls on the enemy, big rocks, saws, smoke-balls, burning husk-coals, hot sand, boiling oil, melting sugar-treacle, resin of the śāl-tree, pots filled with honey and poisonous serpents, and other like preparations.
 
 With respect to the balls mentioned above some verses in the Atharvaṇavēda appear to support the existence of leaden balls. Lead is there mentioned as the metal with which the Rākṣasas are to be destroyed, and as weapons made of lead alone, or of which lead forms the principal ingredient, do hardly exist—as lead is by far too soft and does not recommend itself for being made use of in spikes, spears, &c.—the supposition that by lead *leaden balls* are meant seems very probable. The verses run as follows: Varuna blessed the lead; Agni is fond of the lead; Indra gave me the lead; it
 
@@ -256,9 +256,9 @@ The atrocity of the warfare is ascribed to the existence of such barbarous natio
 
 ērala, Mlēccha, Caṇḍāla, Śvapaca, Khala, Māvēllaka, Lalittha, Kirāta, and Kukkura.[^28]
 
-The sixth chapter treats about the army, and as this is a subject of greater interest and superior importance, I give its translation nearly in full.
-
 [^28]: "See V, 56, 57 ; my Weapons, p. 33; Madras Journal, p. 199. Rāmāyaṇa I, 41; IV, 40; Mahābhārata, I, 6685; III, 1991, &c; Harivaṁśa 229, 4756. In my monograph On the Weapons of the ancient Hindus I named on page 33 the above-mentioned tribes, and said incidentally in the note below "
+
+The sixth chapter treats about the army, and as this is a subject of greater interest and superior importance, I give its translation nearly in full.
 
 It contains especially valuable information about the composition of the army, the use made of its various branches as elephants, chariots, cavalry and infantry, the employment of artisans for military purposes, and an enumeration of the most necessary provisions. We find in it also discussed such subjects as the qualifications required for officers, a system of promotion according to seniority, pension-grants to faithful servants and their relicts, and other similar interesting topics.
 
@@ -312,9 +312,9 @@ Arsenal for guns
 
 22\. the treasury, armoury for the small weapons and an arsenal for the guns, granaries, stragglers, and all the exhausted animals,[^30]
 
-23\. so that he may not crowd the army; and he should ensure their protection by (guarding them with) valiant men.
-
 [^30]: "See Mahābhārata, Śantiparva, Rājadharma, LXIX, śl. 53, 54, and Rāmāyaṇa II, 4, 48. The word यन्त्रागाराणि is in the commentary explained as लोहगुलिकाक्षेपकनलिकाद्यगाराणि."
+
+23\. so that he may not crowd the army; and he should ensure their protection by (guarding them with) valiant men.
 
 what persons should be sent infront of the army.
 
@@ -380,7 +380,7 @@ Implements of armament and tools.
 
 46\. He should have ready all the necessaries for the Implemarch, as saddles, bridle-bits, stirrups and other such things, chowries, helmets, armours and housings,
 
-47\. Bowstrings, bows, armour, weapons, triangular bows ![](../books_images/U-IMG-1696592130Screenshot2023-10-06at11-34-50EditBookE-Bharatisampat.png) abundant fodder, big machines, iron arrows, toma-hawks and axes,
+47\. Bowstrings, bows, armour, weapons, triangular bows <MISSING_FIG href="../books_images/U-IMG-1696592130Screenshot2023-10-06at11-34-50EditBookE-Bharatisampat.png"/> abundant fodder, big machines, iron arrows, toma-hawks and axes,
 
 48\. ropes, spikes, spike-hammers, iron horse-shoes, planeirons, hoes, wood-chisels, and also knives,
 
@@ -591,9 +591,9 @@ Pay of officers.
 All the soldiers, from the private to the commander-in-chief, received their pay regularly every month. The crown prince, who was generally the next in command to the king, received every month 5,000 varvas or gold coins; the commander-in-chief drew 4,000 varvas; the atiratha, the first charioteer, who was usually a royal prince, received 3,000 varvas; the malharatha 2,000 varvas; the rathika and the gajayodhi 1,000 varvas each; the ardharatha 500 varvas; the êkaratha (commander of a chariot) and the leader of an elephant got each 300 niskas. The general commanding all the cavalry obtained 3,000 niṣkas; the general in command of the whole infantry received 2,000 niskas. An officer commanding 1,000 men of infantry got 500 niskas; an officer who led the same number of troopers received 1,000 niskas ;  
 an officer who had 100 men under his command, and who must ride on a horse, drew only 7 varvas, while a private got 5 suvarnas.[^38]
 
-Particular inhibition against fire-arms.
-
 [^38]: " See Weapons, pp. 7, 8; Madras Journal, 173 and 174."
+
+Particular inhibition against fire-arms.
 
 The following double verses (44-50) give an account of thereward of the brave soldier who falls in battle, and sums up the persons with whom one should not fight. Among these the most remarkable is the 45th śloka, which says that "in a combat no one should strike his enemy with concealed against fire-arms. weapons, nor with poisoned arrows, nor with machines kindled by fire, nor also with various stratagems." The commentator explains the Sanskrit term "agnyujvalair yantraiḥ" by "nalikaiḥ," guns[^39].The significance of this ślōka proving
 
@@ -601,15 +601,15 @@ The following double verses (44-50) give an account of thereward of the brave so
 
 the existence of fire-arms in India can hardly be exaggerated, but after the Vedic verses, which we have given before, and which contain the clearest evidence of the existence of fire-arms, no more need be added.[^40]
 
-Favorable time for warfare
-
 [^40]: "Sec pages 10-14."
+
+Favorable time for warfare
 
 The 51st ślöka discusses the favorable time in the year Favor-when expeditions may be undertaken; the month Marga śīrṣa[^41]
 
-is specially recommended; besides this Phalguna and Caitra are mentioned. Then follow some double verses, which contain the names of the already known army corps[^42]
-
 [^41]: "See Manu VII, 82."
+
+is specially recommended; besides this Phalguna and Caitra are mentioned. Then follow some double verses, which contain the names of the already known army corps[^42]
 
 [^42]: "See Manu VII, 190 ff."
 
@@ -2389,4 +2389,3 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 नीतिप्रकाशिका समाप्ता
 
 \]
-

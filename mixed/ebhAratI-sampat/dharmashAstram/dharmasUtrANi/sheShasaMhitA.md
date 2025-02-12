@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **ಪೀಠಿಕೆ**  
 
-**![](../books_images/U-IMG-1708758850Screenshot2024-02-24124449.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708758850Screenshot2024-02-24124449.png"/>**
 
  ಆಗಮಗಳ ವಿಷಯದಲ್ಲಿ ಬಹುದೊಡ್ಡದಾದ ಆಗಮವಿಚಾರವೆಂಬ ಗ್ರಂಥವು ಸಂಸ್ಕೃತದಲ್ಲಿ ಸಕಲಕಾಲದೇಶೋಪಯೋಗಕ್ಕಾಗಿ ಬರೆಯಲ್ಪಟ್ಟಿರುತ್ತದೆ. ಅದು ಸಮಯಾಂತರದಲ್ಲಿ ಪ್ರಚುರಪಡಿಸಲ್ಪಡುವುದು. ಪ್ರಕೃತದಲ್ಲಿ ಈ ಶೇಷಸಂಹಿತಾ ವಿಷಯದಲ್ಲಿ ಸಂಕ್ಷೇಪವಾಗಿ ಸಕಲ ಸಾಮಾನ್ಯಜನರ ತಿಳಿವಳಿಕೆಗೋಸ್ಕರ ದೇಶಭಾಷೆಯಲ್ಲಿ ಒಂದು ಉಪೋದ್ಘಾತವು ಬರೆಯಲ್ಪಡುವುದು.
 
@@ -3150,7 +3150,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 लभते पौरुषीं सिद्धिं तद्विष्णोः परमं पदम् ॥
 
 **इति शेषसंहितायां पञ्चदशोऽध्यायः**  
-**![](../books_images/U-IMG-1708477432Screenshot2024-02-19135503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708477432Screenshot2024-02-19135503.png"/>**
 
 **पुरुषसूतविधिः**
 
@@ -3306,7 +3306,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां षोडशोध्यायः.**
 
-**![](../books_images/U-IMG-1708479233rekha2.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708479233rekha2.png"/>**
 
 **श्रीसूक्तविधिः**
 
@@ -3371,7 +3371,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति श्रीपाञ्चरात्रे शेषसंहितायां सप्तदशोऽध्यायः**
 
-**![](../books_images/U-IMG-1708479683line.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708479683line.png"/>**
 
 **भूसूक्तविधिः**
 
@@ -3455,7 +3455,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 जपपूजादिहोमान्तं कुर्याद्विप्रस्सदाब्जज ॥
 
 **इति शेषसहितायां अष्टादशोध्ययः,  
-![](../books_images/U-IMG-1708478194Screenshot2024-02-19135503.png)**
+<MISSING_FIG href="../books_images/U-IMG-1708478194Screenshot2024-02-19135503.png"/>**
 
 **प्रणवबीजमन्त्रः**
 
@@ -3567,7 +3567,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति श्रीशेषसंहितायां एकोनविंशोऽध्यायः**
 
-![](../books_images/U-IMG-1708487552रेखासमान.png)
+<MISSING_FIG href="../books_images/U-IMG-1708487552रेखासमान.png"/>
 
 **अङ्गाङ्गिविचारः**
 
@@ -3808,7 +3808,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति श्रीशेषसंहितायां विंशोध्यायः.**
 
-![](../books_images/U-IMG-1708490874रेखासमान.png)
+<MISSING_FIG href="../books_images/U-IMG-1708490874रेखासमान.png"/>
 
 **भूबीजमन्त्रः**
 
@@ -4294,7 +4294,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां एकविशोऽध्यायः**
 
-![](../books_images/U-IMG-1708444446Screenshot2024-02-19135503.png)
+<MISSING_FIG href="../books_images/U-IMG-1708444446Screenshot2024-02-19135503.png"/>
 
 **मत्स्यमूर्तिबीजम्**
 
@@ -4426,7 +4426,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति श्रीशेषसंहितायां द्वाविंशोऽध्यायः.**
 
-**![](../books_images/U-IMG-1708449614Screenshot2024-02-19135503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708449614Screenshot2024-02-19135503.png"/>**
 
 **वराहबीजम्.**
 
@@ -4570,7 +4570,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां त्रयोविंशोध्यायः**
 
-**![](../books_images/U-IMG-1708450644Screenshot2024-02-19135503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708450644Screenshot2024-02-19135503.png"/>**
 
 **सुदर्शनबीजम्**
 
@@ -4692,7 +4692,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 नास्ति तद्वद्बीजमन्त्रं संस्काराणां तु शैववत्।
 
 **इति शेषसंहितायां पञ्चविंशोध्यायः  
-![](../books_images/U-IMG-1708475753Screenshot2024-02-19135503.png)**
+<MISSING_FIG href="../books_images/U-IMG-1708475753Screenshot2024-02-19135503.png"/>**
 
 **श्रीरामबीजम्**
 
@@ -4995,7 +4995,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 इति शेषसंहितायां सप्तविंशोध्यायः.
 
-![](../books_images/U-IMG-1708433164Screenshot2024-02-19135503.png)
+<MISSING_FIG href="../books_images/U-IMG-1708433164Screenshot2024-02-19135503.png"/>
 
 **अनन्तबीजम्.**
 
@@ -5067,7 +5067,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 चातुरङ्गफलं तद्वत् नृृसिंहैकाक्षरं यथा ॥
 
 **इति शेषसंहितायां अष्टाविशोध्यायः.  
-![](../books_images/U-IMG-1708431150Screenshot2024-02-19135503.png)**
+<MISSING_FIG href="../books_images/U-IMG-1708431150Screenshot2024-02-19135503.png"/>**
 
 **हनुमद्बीजम्.**
 
@@ -5216,7 +5216,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां एकोनत्रिंशोभ्यायः.**
 
-**![](../books_images/U-IMG-1708507389रेखासमान.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708507389रेखासमान.png"/>**
 
 **सुदर्शननृसिंहयन्त्रः.**
 
@@ -5692,7 +5692,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां महाशान्तिविथानं नाम एकत्रिंशोऽध्यायः**
 
-![](../books_images/U-IMG-1708513968रेखासमान.png)
+<MISSING_FIG href="../books_images/U-IMG-1708513968रेखासमान.png"/>
 
 **पञ्चगव्याविधिः.**
 
@@ -5852,7 +5852,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां द्वात्रिंशोध्यायः.**
 
-![](../books_images/U-IMG-1708513968रेखासमान.png)
+<MISSING_FIG href="../books_images/U-IMG-1708513968रेखासमान.png"/>
 
 **व्याधिशान्तिः.**
 
@@ -5966,7 +5966,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां त्रयस्त्रिंशोध्यायः**
 
-![](../books_images/U-IMG-1708513968रेखासमान.png)
+<MISSING_FIG href="../books_images/U-IMG-1708513968रेखासमान.png"/>
 
 **मन्त्र प्रयोगः**
 
@@ -6031,7 +6031,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां चतुस्त्रिंशोध्यायः.**
 
-**![](../books_images/U-IMG-1708516264रेखासमान.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708516264रेखासमान.png"/>**
 
 **गायत्रीकल्पः.**
 
@@ -6130,7 +6130,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 रामं कृष्णं वराहं च तर्कयेद्विधिनाब्जज ॥
 
 **इति शेषसंहितायां पञ्चत्रिंशोध्यायः.  
-![](../books_images/U-IMG-1708517091रेखासमान.png)**
+<MISSING_FIG href="../books_images/U-IMG-1708517091रेखासमान.png"/>**
 
 **गायत्र्यङ्गम्.**
 
@@ -6166,7 +6166,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां षट्त्रिंशोध्यायः.**
 
-**![](../books_images/U-IMG-1708517296रेखासमान.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708517296रेखासमान.png"/>**
 
 **गायत्र्यङ्गाङ्गम् .**
 
@@ -6220,7 +6220,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां सप्तत्रिंशोध्यायः**
 
-**![](../books_images/U-IMG-1708506407रेखासमान.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708506407रेखासमान.png"/>**
 
 **भूवराहमन्त्रः**
 
@@ -6292,7 +6292,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां अष्टत्रिशोध्यायः**
 
-**![](../books_images/U-IMG-1708506573रेखासमान.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708506573रेखासमान.png"/>**
 
 **भूवराहाङ्गमन्त्रः**
 
@@ -6395,7 +6395,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां एकोनचत्वारिंशोध्यायः.**
 
-**![](../books_images/U-IMG-1708521970रेखासमान.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708521970रेखासमान.png"/>**
 
 **सूर्यमन्त्रः**
 
@@ -6720,6 +6720,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 इति शेषसंहितायां द्विचत्वारिंशोध्यायः.
 
 *          *   
+               
 
 **हयग्रीवाङ्गाङ्गमन्त्रः,**
 
@@ -7540,6 +7541,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 इति शेषसंहितायां सप्तपञ्चाशोध्यायः
 
 *       *  
+                    
 
 मारगोपालमन्त्रस्य अङ्गाङ्गानि यथातथम्।  
 वक्ष्ये तन्मन्त्रसिद्ध्यर्थं जपेत्पूर्वोक्तसंख्यया॥

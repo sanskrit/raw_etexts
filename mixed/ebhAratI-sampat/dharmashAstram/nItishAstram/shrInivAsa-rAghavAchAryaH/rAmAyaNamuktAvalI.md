@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIxNjQwNjI3NTM
 
 **रा मा य ण मु क्ताव ली**
 
-![](../books_images/U-IMG-1696828054a.png)
+<MISSING_FIG href="../books_images/U-IMG-1696828054a.png"/>
 
 BY
 
@@ -32,7 +32,7 @@ RAMAYANA RATNAKARA
 Valmiki's Maxims with English  
 Translation.
 
-![](../books_images/U-IMG-169476660613.png)
+<MISSING_FIG href="../books_images/U-IMG-169476660613.png"/>
 
 **(2Edition, Revised and Enlarged.)**
 
@@ -51,7 +51,7 @@ WITH
 **The Hon'ble Mr. Justice M. Patanjali Sastri.  
 (Judge, Federal Court of India.)**
 
-![](../books_images/U-IMG-169476679114.png)
+<MISSING_FIG href="../books_images/U-IMG-169476679114.png"/>
 
 **1949**
 
@@ -68,7 +68,7 @@ The Hon'ble Mr. Justice,
 
 **RAMAYANA MUKTAVALI.**
 
-**![](../books_images/U-IMG-169476701915.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169476701915.png"/>**
 
   It is a happy idea of Sri T. Srinivasa Raghavacharya to offer to students and lovers of Sanskrit an anthology of didactic verses collected from that vast storehouse of beauty and wisdom, Valmiki Ramayana. The selection has been made with discrimination and the little book abundantly repays perusal. The English translation, which is quite a successful attempt at reconciling conformity to the original with the demands of English idiom, will make these veritable 'pearls' of wisdom available to a wider circle of readers.
 
@@ -83,7 +83,7 @@ The Hon'ble Mr. Justice,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **AUTHOR'S NOTE.  
-![](../books_images/U-IMG-169476740716.png)**
+<MISSING_FIG href="../books_images/U-IMG-169476740716.png"/>**
 
   This little book contains almost all the 'Neeti Slokas' or moral sayings culled out from Srimad Valmiki Ramayana, with an English rendering of the same. I need hardly say that even one with the Gandhian command of English language cannot render a happy translation of the Sanskrit verses into English and sometimes a close literal translation, even if it were possible, looks rather uncouth. My present endeavour therefore, is mainly to convey in English the idea of the original Sanskrit verses, giving a true translation wherever possible and necessery. Like lustrous pearls gathered from the deep ocean these invaluable pearls of Valmiki are collected from out of the unfathomable depths of the vast ocean of Ramayana and hence the book is styled as 'Ramayana Muktavali'. Though this little book may be welcomed by all the English-Sanskrit knowing lovers of Ramayana, it is mainly intended for students whom I request to get the verses by heart with great advantage to them not only during their scholastic career but also in their everyday life thereafter.
 
@@ -100,15 +100,16 @@ CHITTOOR,
 
   Who, more than the divine hero and heroine of his immortal work, is a source of perennial inspiration to me and to whose silent blessings Ientirely owe my feeble knowledge of Srimad Ramayana.
 
+                                   
                         T. S. R.
 
 **श्रीरामजयम्**
 
-![](../books_images/U-IMG-169476781817.png)
+<MISSING_FIG href="../books_images/U-IMG-169476781817.png"/>
 
 **॥ रामायणमुक्तावली ॥**
 
-**![](../books_images/U-IMG-169476789618.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169476789618.png"/>**
 
 “जयत्याश्रितसन्त्रास ध्वान्तविध्वंसनोदयः।  
 प्रभावान्सीतया देव्या परमव्योमभास्करः॥"
@@ -186,7 +187,7 @@ CHITTOOR,
 
   The eldest-born is generally the pet of the father and the youngest of the mother.
 
-![](../books_images/U-IMG-169479230719.png)
+<MISSING_FIG href="../books_images/U-IMG-169479230719.png"/>
 
 **॥ अयोध्याकाण्डम् ॥**
 
@@ -1012,7 +1013,7 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
   If only one realises that death is only another phase of life and that non existence here is another form of existence somewhere, what an earth can perturb him.
 
 **रामगीता संपूर्णा**  
-![](../books_images/U-IMG-169484163113.png)
+<MISSING_FIG href="../books_images/U-IMG-169484163113.png"/>
 
 **१४२. अन्तकाले हि भूतानि मुह्यन्तीति पुरा श्रुतिः।**  
 (108_13)
@@ -1187,9 +1188,9 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  For a woman there is no penance greater than devotion to her husband.
 
-![](../books_images/U-IMG-169496804438.png)
+<MISSING_FIG href="../books_images/U-IMG-169496804438.png"/>
 
-![](../books_images/U-IMG-169496806139.png)
+<MISSING_FIG href="../books_images/U-IMG-169496806139.png"/>
 
 **॥ आरण्यकाण्डम् ॥**
 
@@ -1577,13 +1578,13 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  Great and valourous souls who tread the path of the virtuous, and who are ever ready to help the weak, are found all over even in the animal kingdom.
 
-![](../books_images/U-IMG-169511577540.png)
+<MISSING_FIG href="../books_images/U-IMG-169511577540.png"/>
 
-![](../books_images/U-IMG-169511580141.png)
+<MISSING_FIG href="../books_images/U-IMG-169511580141.png"/>
 
 **॥ किष्किन्धाकाण्डम् ॥**
 
-**![](../books_images/U-IMG-169511626942.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169511626942.png"/>**
 
 **२२७. स्मृत्वा वियोगजं दुःखं त्यज स्नेहं प्रियेजने।  
     अतिस्नेहपरिष्वङ्गाद्वर्तिरार्द्रापि दह्यते॥**  
@@ -1973,7 +1974,7 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 
 **॥ सुन्दरकाण्डम् ॥**
 
-**![](../books_images/U-IMG-169512135143.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169512135143.png"/>**
 
 **२८७. कर्तव्यमकृतं कार्यं सतां मन्युरुदीरयेत्।**  
                                (1_96)
@@ -2179,13 +2180,13 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 
   Even as a serpent casts off its old skin by its effort, should a man cast off his anger by his forbearance. Then alone can he be called a man.
 
-![](../books_images/U-IMG-169600625988.png)
+<MISSING_FIG href="../books_images/U-IMG-169600625988.png"/>
 
-![](../books_images/U-IMG-169600628089.png)
+<MISSING_FIG href="../books_images/U-IMG-169600628089.png"/>
 
 **॥ युद्धकाण्डम् ॥**
 
-**![](../books_images/U-IMG-169603848590.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169603848590.png"/>**
 
 **३२०. यो हि भृत्यो नियुक्तः सन्भर्त्त्राकर्मणि दुष्करे।  
     कुर्यात्तदनुरागेण तमाहुः पुरुषोत्तमम्॥**  
@@ -2835,11 +2836,11 @@ devoid of them. All the same the latter should be preferred to the former.
 
   A help in need brings on friendship and harm leads to enmity.
 
-![](../books_images/U-IMG-169604890091.png)
+<MISSING_FIG href="../books_images/U-IMG-169604890091.png"/>
 
 **॥ उत्तरकाण्डम् ॥**
 
-**![](../books_images/U-IMG-169604899692.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169604899692.png"/>**
 
 **४२९. नरः प्रत्युपकाराणां आपत्स्वायाति पात्रताम्॥**  
                                  
@@ -2882,7 +2883,7 @@ devoid of them. All the same the latter should be preferred to the former.
 **श्रीवासराघवार्येण ग्रथिता बुधसंमुदे।  
 मुक्तावली रामकथापयोधिपरिशीलनात्॥**
 
-![](../books_images/U-IMG-169604948393.png)
+<MISSING_FIG href="../books_images/U-IMG-169604948393.png"/>
 
 **मङ्गलं कोसलेन्द्राय महनीयगुणाब्धये।  
 चक्रवर्तितनूजाय सार्वभौमाय मङ्गलम्॥**
@@ -2890,7 +2891,6 @@ devoid of them. All the same the latter should be preferred to the former.
 **विभीषणकृतप्रीत्या विश्वाभीष्टप्रदायिने।  
 सर्वलोकशरण्याय सत्यसन्धाय मङ्गलम्॥**
 
-![](../books_images/U-IMG-169604956894.png)
+<MISSING_FIG href="../books_images/U-IMG-169604956894.png"/>
 
 \]
-

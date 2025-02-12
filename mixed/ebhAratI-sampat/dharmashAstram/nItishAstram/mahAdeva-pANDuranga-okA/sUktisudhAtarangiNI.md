@@ -18,10 +18,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NzIyMjk2OTk
 
 **सूक्तिसुधातरङ्गिणी**
 
-![](../books_images/U-IMG-1698318140Screenshot2023-10-26163208.png)
+<MISSING_FIG href="../books_images/U-IMG-1698318140Screenshot2023-10-26163208.png"/>
 
 **प्रथमस्तरङ्गः**  
-![](../books_images/U-IMG-1698318200Screenshot2023-10-26163306.png)
+<MISSING_FIG href="../books_images/U-IMG-1698318200Screenshot2023-10-26163306.png"/>
 
 पुण्यपतनस्थ-  
 **'न्यू इंग्लिश स्कूल्'** संज्ञक पाठशालायां नियुक्तेन
@@ -38,21 +38,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NzIyMjk2OTk
 
 विजयसंज्ञकमुद्रणयन्त्रालये मुद्रिता
 
-![](../books_images/U-IMG-1698318077Screenshot2023-10-26163058.png)
+<MISSING_FIG href="../books_images/U-IMG-1698318077Screenshot2023-10-26163058.png"/>
 
 **क्रिस्ताब्दाः १९२४**  
 
-![](#)![](../books_images/U-IMG-1697632678mmmmmmm.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1697632678mmmmmmm.png"/>
 
 **PREFATORY NOTE.**
 
-![](../books_images/U-IMG-1697789247Screenshot2023-10-20133628.png)
+<MISSING_FIG href="../books_images/U-IMG-1697789247Screenshot2023-10-20133628.png"/>
 
  The cordial welcome with which my Sanskrit versions of about 300 quotations from various Western authors introduced in my **अभिनवरत्नमाला** Part II. have been received by the Sanskrit reading public has encouraged me to publish a separate volume containing Sanskrit versions of a number of other quotations of the same type. What success I have achieved in this labour of love, I leave my readers to judge. If I have the good fortune to see that this attempt of mine does interest those for whom it is intended, I mean to bring out more volumes (**तरङ्ग** s.) of the **सूक्तिसुधातरङ्गिणी** on a more comprehensive scale.
 
 **INTRODUCTION**
 
-![](../books_images/U-IMG-1697797613Screenshot2023-10-20155610.png)
+<MISSING_FIG href="../books_images/U-IMG-1697797613Screenshot2023-10-20155610.png"/>
 
   I agreed to write a few words of introduction to Mr. Oka's collection of English quotations rendered into Sanskrit, just because I thought that it would be a courteous way of acknowledging the debt I owe him for the many hours of delight I spent in his company when he read out to me the quotations and his excellent Sanskrit renderings of the original passages. The writer of introductions to books written by others acts the part of chorus in ancient drama. The public doesn't fancy such interpreters in these advanced days. They would rather deal directly with the author. Good wine, says the old English proverb, needs no bush, or, as a Sanskrit poet says, **न हि कस्तूरीकामोदःशपथेन विभाष्यते**.Moreover, I recalled the existence of many Sanskrit scholars who are far better qualified for this work than I. These considerations held me back for a time, but it is hard to refuse a request made by one of such transparent sincerity of purpose as Mr. Oka and I undertook the job in the hope that it would give me an opportunity to praise a friend who deserves all the good things one may say of him.  
   Mr. Oka has endeared himself to all lovers of Sanskrit by the two parts of **अभिनवरत्नमाला** which he published some time ago. By offering to the public this collection of quotations from European authors which he has rendered into Sanskrit (**सूक्तिसुधातरङ्गिणी**), he will have added one more title to their admiration and esteem. In these renderings of English quotations, Mr. Oka breaks new ground; I do not know that any one has essayed the task before. The author of the three parts of **लौकिकन्यायाञ्जलि**has put together a good many Sanskrit maxims and proverbs and wherever possible has given their English equivalents. But his work was essentially different and limited in scope. Mr. Oka's quotations cover a wider field. It is a collection of extracts made from writers well-known all over Europe and Mr. Oka has rendered them into his easy, fluent, graceful Sanskrit. As a rule,the translation follows the original lines of proseor verse and even if there
@@ -106,7 +106,7 @@ POONA,
 
 **किमपि निवेदनम्**
 
-![](../books_images/U-IMG-1698308097Screenshot2023-10-26134402.png)
+<MISSING_FIG href="../books_images/U-IMG-1698308097Screenshot2023-10-26134402.png"/>
 
 **भानुर्दिवोदेतु विधुश्च रात्रौ  
 बाह्यं तमो नाशयितुं समर्थौ।  
@@ -175,11 +175,11 @@ POONA,
 
 **सूक्तिसुधातरङ्गिणी**
 
-![](../books_images/U-IMG-1698311230Screenshot2023-10-26143646.png)
+<MISSING_FIG href="../books_images/U-IMG-1698311230Screenshot2023-10-26143646.png"/>
 
 (प्रथमस्तरङ्गः)
 
-![](../books_images/U-IMG-1698311373Screenshot2023-10-26143913.png)
+<MISSING_FIG href="../books_images/U-IMG-1698311373Screenshot2023-10-26143913.png"/>
 
 — 1 —
 
@@ -4020,10 +4020,10 @@ WARWICK—
 न्यूनस्य दानं जनयेद्विषादं  
 सुखाय न स्यादधिकस्य वापि ॥३॥**
 
-**![](../books_images/U-IMG-170039405676.png)**
+**<MISSING_FIG href="../books_images/U-IMG-170039405676.png"/>**
 
 **शुद्धिपत्रम्  
-![](../books_images/U-IMG-170039424577.png)**
+<MISSING_FIG href="../books_images/U-IMG-170039424577.png"/>**
 
 |                 |                 |
 |-----------------|-----------------|

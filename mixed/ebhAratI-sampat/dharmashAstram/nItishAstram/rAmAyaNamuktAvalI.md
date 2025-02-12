@@ -15,7 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk1Nzg1MjUwNTI
 
 [TABLE]
 
-# ![](../books_images/U-IMG-1710228110Screenshot2024-03-12124844.png)
+# <MISSING_FIG href="../books_images/U-IMG-1710228110Screenshot2024-03-12124844.png"/>
 
 ***AUTHOR'S NOTE.***
 
@@ -1806,7 +1806,7 @@ might be taken. Else it should be abandoned.
 
 340\. A help in need brings on friendship and harm leads to enmity.
 
-![](../books_images/U-IMG-1710573900ghgf.png)
+<MISSING_FIG href="../books_images/U-IMG-1710573900ghgf.png"/>
 
 SRI RAMAJAYAM.
 
@@ -1870,7 +1870,7 @@ KUMBAKONAM.**
 
 No.  
 G. C. 907 1931-32.                   
-![](../books_images/U-IMG-1710574145oooooooo.png)         Camp: Tirupathi 29-3-1932.
+<MISSING_FIG href="../books_images/U-IMG-1710574145oooooooo.png"/>         Camp: Tirupathi 29-3-1932.
 
 ம - ள-ள-ஸ்ரீ T.ஸ்ரீனிவாஸ ராகவாசாரியார் அவர்கள் சித்தூரில் ஸ்ரீமடம் ஸமஸ்தானம் விஜயமாயிருந்த காலத்தில் ஸ்ரீ மஹாஸந்நிதான த்தில் ஸ்ரீமத்ராமாயணத்தை உபந்நியஸித்தார் கள். இவர்கள் செய்யும் உபந்நியாசம் ஆஸ்தி கர்கள் அனைவரும் அவசியம் கேட்டு ஆனந்திக் கக் கூடிய அரிய பலவிஷயங்கள் அடங்கியிருப் பதோடு சொற்சுவையும் சரியான ஹேதுக்களு  
 டன் விஷயங்களை நிரூபணம் செய்வதும் எவர் மனதையும் கவரக்கூடியதா யிருக்கின்றது. இவர் கள் இந்த ஸத்விஷய உபந்நியாஸத்தை வெகு ஜனங்கள் கேட்டு ஆனந்திக்கச்செய்து ஸ்ரீபகவத் கிருபா பாத்திரர்களாக வேண்டியதென்பதாய் ஸ்ரீமஹாஸந்நிதானத்தில் அநுக்கிரஹிக்கிறார். கள்.
@@ -1897,6 +1897,7 @@ Manager.
 
 **            “THE MADRAS MAIL.”   Dated 12-4-1937.**  
 .                                   
+         
 
 **(Bangalore, 11-4-1937.)**
 
@@ -1916,6 +1917,8 @@ Manager.
  ஸ்ரீவால்மீகி ராமாயணத்திலும் கம்பராமா யணத்திலும் உபந்யாசகருக்கு இருக்கும் அசா தாரண பாண்டித்தியம் பெரிதும் பாராட்டப் பட்டது. முடிவில் ஸ்ரீமான் ஆச்சாரியாருக்குப் பொதுமக்கள் சார்பில் தங்கப்பதக்கம் ஒன்று தங்களது நன்மதிப்புக்கு அறிகுறியாக சன்மா னம் செய்யப்பட்டது. எல்லா உபந்யாசங்களுக் கும் ஆண்களும் பெண்களும் திரளாகக் கூடி யிருந்தனர்.
 
 **      “DHARMARAJYA”  Dated 20th July 1935.**
+
+     
 
 Mr. T. Srinivasa Raghavacharya of Chittoor delivered during the months of June and July a series of lectures on Valmiki Ramayana under the auspices of the Lakshmipuram Association, Madras. Pattabhishekam was celebrated on the 14th instant, Dewan Bahadur K. S. Ramaswami Sastrigal, presiding. The **exposition** of the subject by the lecturer **was of a very high order and brought out very well the beauty, sentiments, and ideas of the poem by Valmiki. Mr. Srinivasa Raghavacharya's mastery of the important portions of the great epic is remarkable and the power of impressive presentation is as remarkable as his memory. He threw additional and valuable light on the much-debated episode about Vali vadam and Vibhishana Saranagathi.** The chair-man complimented the lecturer on his **excellent performance and the public service** done by him by giving a clear presentation of Ramayana, and on behalf of the public **presented** the lecturer with **a gold medal** with the figure of Lakshmi embossed on it, which was the gift of the Association.
 
@@ -1961,12 +1964,18 @@ Mr. T. Srinivasa Raghavacharya of Chittoor delivered during the months of June a
   K. S. KRISHNASWAMI IYENGAR                    
   Dated 18th July 1939.**
 
+   
+
 It has not been my good fortune to have had many opportunities of listening to Mr. T. Srinivasa Raghavacharya's discourses on Ramayana. But the few that I have had, have been enough to impress me that Mr. Srinivasa Raghavacharya possesses a**rare combination of knowledge and skill** in handling his subject, not often met with even amongst the professional exponents. **His method of exposition is specially attractive and impressive** and makes a strong appeal to modern minds. He has a **profounded knowledge of traditional interpretations,** but what is noteworthy is that he is able to bring to bear on his discourses a **freshness of outlook,** and an **attractiveness of manner rarely met with** even amongst the professional exponents. One wishes that there were many more of his type to interpret our ancient culture.  
+
+                           
 
 **K. S. KRISHNASWAMI IYENGAR.**
 
 **K. S. RAMASWAMI SASTRI,            CUDDAPAH,  
 DT. & SESSIONS JUDGE.              9-3-1932.**
+
+ 
 
  M. R. Ry.,T. Srinivasa Raghavacharya delivered a series of lectures a few days ago here on the Ramayana. His exposition is characterised by an almost uncanny memory, a rare power of bringing out the beauty of sentiments and ideas in Valmiki's inspired poesy, and an admirable ability to supplement Valmiki's thoughts by Kamban's equally sublime poetry. His frequent flashes of humour and irony increase the effect of his delineation of moral and spiritual truths' Mr. Acharya is a great Ramabhakta, a master of the Ramayana and an able lecturer. We were all very much attracted by his learned and lovely presentation of the truths and sentiments contained  
 in Valmiki and Kamban. He is yet young and in the height of his powers. I shall be glad to watch his career of social and spiritual service of his country and his community.  
@@ -1980,6 +1989,7 @@ KRISHNA BAVANAM,
 
    I have listened with considerable pleasure and profit to Mr. T. Srinivasa Raghavacharya's exposition of select topics from the Ramayana. He has a thorough mastery of the grand Epic and is familiar with every detail. His discourses have been lucid and interesting and always held the audience spell-bounded. Not one of them would leave the hall until the Upanyasam was over. His thorough grasp of the philosophy profounded in the great Classic and his wonderful memory which makes him quote without effort are indeed remarkable and praiseworthy.
 
+                                   
         
 
 **  K. RAMANUJACHARI.**
@@ -1992,6 +2002,7 @@ SUB-JUDGE.                   15-4-1939.**
   He has a facile and charming method of exposition. The presentation of the story with its settings is simply facinating. It is not the usual pandit style that beats along trodden paths, that refuses to take note of the necessity for a change in social life with the changing of times, and that falls flat upon a discriminating audience. While dealing with particular incidents in the story, he is able to visualise and present them to the audience with a broad outlook, that pictures to us the past. the immediate present, and the possible future of the Hindu society. For doing this, he draws upon immense resources, such as the sentiments ex-pressed in the Ramayana of Kambar and the sayings of Sankara and the Alwars. Here and there, he punctuates the discourses with bits of humour or irony (natural and not artificial), which go to set the story in better and finer relief.
 
      May he live long and continue to render to the Hindu society the service which he has taken upon himself of social and spiritual regeneration.  
+                                  
 
 **R. S. SUBRAMANYAN.**
 
@@ -2015,6 +2026,7 @@ DISTRICT & SESSIONS JUDGE.**
    I had the delight of attending the series of lectures delivered at Nagapatam by Sri Ubha. Ve. T. Srinivasa Raghavacharya of Chittoor covering the entire Srimad Ramayana. His lucid style and mastery of the language, his clear exposition of the 'Thath-warthas' and the 'Goodarthas' of various important passages in the text revealed his extraordinary mastery over the subject. His delineation of the mighty Epic as an exposition of the Great Dharma of 'Saranagathi' was not only interesting but very instructive. The large and varied audience of men, ladies and boys who thronged to hear his lectures and waited till the end each day disclosed how popular and lucid his discourses were. He combines in himself the ancient Pundit and the modern critic, and his quotations from other great works in support of the ideas dealt with in the Ramayana disclosed his wide learning. It is such expositions that appeal to modern India and I am glad he is rendering a very useful and necessary service to the community.
 
                                    
+    
 
 C. N. KUPPUSAMI AYYAR.
 

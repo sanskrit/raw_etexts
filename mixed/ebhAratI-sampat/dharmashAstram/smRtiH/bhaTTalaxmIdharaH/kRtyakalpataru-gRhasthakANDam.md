@@ -421,7 +421,7 @@ MAGNIFICATION OF THE HOUSEHOLDER'S LIFE
 
 [^21]: " आचार्याय प्रियं धनमाहस्य प्रजातन्तुं मा व्यवच्छेत्सीः ॥ (तैत्तरीयोपनिषद,1, 99,1
 
-by Manu[^22](VI, 87-90). The other three orders find their being and support in that of the householder, who is therefore superior to the others. "As all rivers, both great and small, find a resting place in the ocean, even so men of all orders find their abode in the householder." Lakṣmīdhara cites these verses in**Brahmacārikāṇḍa.**
+by Manu[^22] (VI, 87-90). The other three orders find their being and support in that of the householder, who is therefore superior to the others. "As all rivers, both great and small, find a resting place in the ocean, even so men of all orders find their abode in the householder." Lakṣmīdhara cites these verses in**Brahmacārikāṇḍa.**
 
 [^22]: "सर्वेषामपि चैतेषां वेदस्मृतिविधानतः । गृहस्थ उच्यते श्रेष्ठः स त्रीनेतान् बिभर्ति हि ॥ यथा नदी नदास्सर्वे सागरे यान्ति संस्थितिम् । तथैवाश्रमिणः सर्वे गृहस्थेयान्ति संस्थितिम्॥"
 
@@ -1568,4 +1568,3 @@ EPILOGUE
 [^190]: "अनधीत्य द्विजो वेदाननुत्पाद्य तथा सुतान् । अनिष्ट्वाचैव यज्ञैश्चमोक्षमिच्छन्व्रजत्यधः॥ (मनु, ६, ३७
 
 \]
-

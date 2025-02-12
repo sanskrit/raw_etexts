@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 भूमिका
 
-![](../books_images/1680858484.jpg)
+<MISSING_FIG href="../books_images/1680858484.jpg"/>
 
 श्रुतिः स्मृतिश्च विप्राणां नयने द्वे प्रकीर्तिते।
 
@@ -46,7 +46,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 **श्रीः।**  
 
 **अथाष्टादशस्मृति विषयानुक्रमणिका।**  
-![](../books_images/1680860883.jpg)
+<MISSING_FIG href="../books_images/1680860883.jpg"/>
 
 |                                                                                                                      |
 |:--------------------------------------------------------------------------------------------------------------------:|
@@ -446,7 +446,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 **श्री योगिजनवल्लभाय नमः।**
 
-![](../books_images/1680869523.jpg)
+<MISSING_FIG href="../books_images/1680869523.jpg"/>
 
 **अथ अत्रिस्मृतिः १**
 
@@ -2102,13 +2102,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति श्रीमदत्रिमहर्षिस्मृतिः समाप्ता ॥ १ ॥
 
-![](../books_images/1680870688.jpg)
+<MISSING_FIG href="../books_images/1680870688.jpg"/>
 
 ॥ श्रीः ॥
 
 **विष्णुस्मृतिः २.**
 
-**![](../books_images/1680870954.jpg)**
+**<MISSING_FIG href="../books_images/1680870954.jpg"/>**
 
 **प्रथमोऽध्यायः १.**
 
@@ -2232,7 +2232,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति वैष्णवधर्मशास्त्रे प्रथमोऽध्यायः॥ १॥
 
-![](../books_images/1680871622.jpg)
+<MISSING_FIG href="../books_images/1680871622.jpg"/>
 
 ** **
 
@@ -2314,7 +2314,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इति वैष्णवे धर्मशास्त्रे द्वितीयोऽध्यायः ॥ २ ॥
 
-  ![](../books_images/1680872398.jpg)
+  <MISSING_FIG href="../books_images/1680872398.jpg"/>
+
+ 
 
   तृतीयोऽध्यायः ३.
 
@@ -2386,7 +2388,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति वैष्णवे धर्मशास्त्रे तृतीयोऽध्यायः ॥ ३ ॥
 
-![](../books_images/1680872470.jpg)
+<MISSING_FIG href="../books_images/1680872470.jpg"/>
 
  चतुर्थोऽध्यायः ४.
 
@@ -2534,7 +2536,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति वैष्णवे धर्मशास्त्रे चतुर्थोऽध्यायः ॥ ४ ॥
 
- ![](../books_images/1680872569.jpg)
+ <MISSING_FIG href="../books_images/1680872569.jpg"/>
 
   पंचमोऽध्यायः ५.
 
@@ -2596,15 +2598,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति वैष्णवे धर्मशास्त्रे पंचमोऽध्यायः ॥ ५ ॥
 
-   ![](../books_images/1680872797.jpg)
+   <MISSING_FIG href="../books_images/1680872797.jpg"/>
 
-![](../books_images/1680872816.jpg)
+<MISSING_FIG href="../books_images/1680872816.jpg"/>
 
 **श्रीः ॥**
 
 **हारीतस्मृतिः३.**
 
-**![](../books_images/1680872911.jpg)**
+**<MISSING_FIG href="../books_images/1680872911.jpg"/>**
 
 प्रथमोऽध्यायः १.
 
@@ -2738,7 +2740,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति हारीते धर्मशास्त्रे प्रथमोऽध्यायः ॥ १ ॥
 
-![](../books_images/1680873008.jpg)
+<MISSING_FIG href="../books_images/1680873008.jpg"/>
 
 **  द्वितीयोऽध्यायः २.**
 
@@ -2806,7 +2808,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति हारीते धर्म्मशास्त्रे द्वितीयोऽध्यायः ॥ २ ॥
 
-![](../books_images/1680938197.jpg)
+<MISSING_FIG href="../books_images/1680938197.jpg"/>
 
 **तृतीयोऽध्यायः ३.**
 
@@ -2878,7 +2880,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति हारीते धर्मशास्त्रे तृतीयोऽध्यायः ॥ ३ ॥
 
-** ![](../books_images/1680938837.jpg)**
+** <MISSING_FIG href="../books_images/1680938837.jpg"/>**
 
 **  चतुर्थोऽध्यायः ४**
 
@@ -3194,7 +3196,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति हारीते धर्मशास्त्रेचतुर्थोऽध्यायः ॥ ४ ॥
 
-        ![](../books_images/1680944048.jpg)
+        <MISSING_FIG href="../books_images/1680944048.jpg"/>
 
 **  ञ्चमोऽध्यायः ५.**
 
@@ -3240,7 +3242,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति हारीते धर्मशास्त्रे पंचमोऽध्यायः ॥ ५ ॥
 
-      ![](../books_images/1680944158.jpg)
+      <MISSING_FIG href="../books_images/1680944158.jpg"/>
 
   षष्ठोऽध्यायः ६.
 
@@ -3340,7 +3342,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति हारीते धर्मशास्त्रे षष्ठोऽध्यायः ॥ ६ ॥
 
-      ![](../books_images/1680944358.jpg)
+      <MISSING_FIG href="../books_images/1680944358.jpg"/>
 
 ** सप्तमोऽध्यायः ७**
 
@@ -3434,15 +3436,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति हारीतस्मृतिः समाप्ता ३.
 
-   ![](../books_images/1680946220.jpg)
+   <MISSING_FIG href="../books_images/1680946220.jpg"/>
 
-![](../books_images/1680946291.jpg)
+<MISSING_FIG href="../books_images/1680946291.jpg"/>
 
   ॥श्रीः॥
 
 **  औशनसी स्मृतिः ४.**
 
-![](../books_images/1680946434.jpg)
+<MISSING_FIG href="../books_images/1680946434.jpg"/>
 
 अथौशनसं धर्मशास्त्रम् ॥ उशना उवाच ॥
 
@@ -3654,15 +3656,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 औशनसी स्मृतिः समाप्ता ४.
 
-![](../books_images/1680947245.jpg)
+<MISSING_FIG href="../books_images/1680947245.jpg"/>
 
-![](../books_images/1680947296.jpg)
+<MISSING_FIG href="../books_images/1680947296.jpg"/>
 
 **     ॥श्रीः॥**
 
   आंगिरसस्मृतिः ५.
 
-![](../books_images/1680947395.jpg)
+<MISSING_FIG href="../books_images/1680947395.jpg"/>
 
 गृहाश्रमेषु धर्मेषु वर्णानामनुपूर्वशः ॥
 
@@ -4030,15 +4032,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
     **इत्याङ्गिरसस्मृतिः समाप्ता ॥ ५ ॥**
 
-**  ![](../books_images/1681129567.jpg)**
+**  <MISSING_FIG href="../books_images/1681129567.jpg"/>**
 
-       ![](../books_images/1681129500.jpg)
+       <MISSING_FIG href="../books_images/1681129500.jpg"/>
 
 **॥ श्रीः ॥**
 
+ 
+
 यमस्मृतिः ६.
 
-    ![](../books_images/1681129690.jpg)
+    <MISSING_FIG href="../books_images/1681129690.jpg"/>
 
 श्रुतिस्मृत्युदितं धर्मं वर्णानामनुपूर्वशः ॥
 
@@ -4432,15 +4436,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इति यमस्मृतिः समाप्ता ६.
 
- ![](../books_images/1681129873.jpg)
+ <MISSING_FIG href="../books_images/1681129873.jpg"/>
 
-![](../books_images/1681129821.jpg)
+<MISSING_FIG href="../books_images/1681129821.jpg"/>
 
 **श्रीः।**
 
 **आपस्तंबस्मृतिः७**
 
-**  ![](../books_images/1681130008.jpg)**
+**  <MISSING_FIG href="../books_images/1681130008.jpg"/>**
 
 **  प्रथमोऽध्यायः १.**
 
@@ -4582,7 +4586,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इत्यापस्तंबीयेधर्मशास्त्रे प्रथमोऽध्यायः ॥ १ ॥
 
- ![](../books_images/1681130095.jpg)
+ <MISSING_FIG href="../books_images/1681130095.jpg"/>
 
 ** द्वितीयोऽध्यायः २.**
 
@@ -4644,7 +4648,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इत्यापस्तंबीये धर्मशास्त्रे द्वितीयोऽध्यायः ॥ २ ॥
 
-  ![](../books_images/1681130198.jpg)
+  <MISSING_FIG href="../books_images/1681130198.jpg"/>
 
 **  तृतीयोऽध्यायः ३.**
 
@@ -4698,7 +4702,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इत्यापस्तंबीये धर्मशास्त्रे तृतीयोऽध्यायः ॥ ३ ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **  चतुर्थोऽध्यायः ४.**
 
@@ -4750,7 +4754,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इत्यापस्तंबीयेधर्मशास्त्रे चतुर्थोऽध्यायः ॥ ४ ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 ** पञ्चमोऽध्यायः ५.**
 
@@ -4814,7 +4818,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इत्यापस्तंबीयेधर्मशास्त्रे पंचमोऽध्यायः ॥५ ॥
 
-   ![](../books_images/1681130275.jpg)
+   <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **   षष्ठोऽध्यायः ६.**
 
@@ -4860,7 +4864,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति आपस्तंबीयेधर्मशास्त्रे षष्ठोऽध्यायः ॥ ६ ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 ** सप्तमोऽध्यायः ७.**
 
@@ -4954,7 +4958,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इत्यापस्तंबीये धर्मशास्त्रे सप्तमोऽध्यायः ॥७ ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **  अष्टमोऽध्यायः ८.**
 
@@ -5042,7 +5046,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इत्यापस्तंबीयेधर्मशास्त्रेऽष्टमोऽध्यायः ॥ ८ ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **  नवमोऽध्यायः ९.**
 
@@ -5226,7 +5230,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इत्यापस्तंबीये धर्मशास्त्रे नवमोऽध्यायः ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **  दशमोऽध्यायः १०.**
 
@@ -5300,13 +5304,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 आपस्तंबस्मृतिः समाप्ता ७.
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 श्रीः।
 
 **अथ संवर्त्तस्मृतिः ८.**  
 
-   ![](../books_images/1681130992.jpg)  
+   <MISSING_FIG href="../books_images/1681130992.jpg"/>  
 
 **  प्रथमोऽध्यायः १.**
 
@@ -6242,13 +6246,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  संवर्त्तस्मृतिः समाप्ता ॥ ८ ॥
 
-  ![](../books_images/1681130275.jpg)
+  <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **   श्रीः।**
 
 **कात्यायनस्मृतिः ९.**
 
-**  ![](../books_images/1681131270.jpg)**
+**  <MISSING_FIG href="../books_images/1681131270.jpg"/>**
 
 **   प्रथमः खंडः १.**
 
@@ -6330,7 +6334,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति श्रीकात्यायनस्मृतौ प्रथमःखंडः समाप्तः ॥ १ ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **  द्वितीयः खण्डः २.**
 
@@ -6392,7 +6396,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति कात्यायनस्मृतौ द्वितीयः खण्डः ॥ २ ॥
 
-  ![](../books_images/1681130275.jpg)
+  <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **   तृतीयः खण्डः ३.**
 
@@ -6452,7 +6456,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इति कात्यायनस्मृतौ तृतीयः खंडः ॥ ३ ॥
 
-     ![](../books_images/1681130275.jpg)
+     <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 ** चतुर्थः खण्डः ४.**
 
@@ -6506,7 +6510,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति कात्यायनस्मृतौ चतुर्थः खण्डः ॥ ४ ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **  पञ्चमः खण्डः ५.**
 
@@ -6560,7 +6564,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति कात्यायनस्मृतौ पंचमः खण्डः ॥ ५ ॥
 
-![](../books_images/1681130275.jpg)
+<MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **  षष्ठः खण्डः ६.**
 
@@ -6626,7 +6630,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति कात्यायनस्मृतौ षष्ठः खण्डः ॥ ६ ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **  सप्तमः खंडः ७.**
 
@@ -6688,7 +6692,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इति कात्यायनस्मृतौ सप्तमः खंडः ॥ ७ ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **  अष्टमः खण्डः ८.**
 
@@ -6790,7 +6794,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति कात्यायनस्मृतावष्टमः खण्डः ॥ ८ ॥
 
-![](../books_images/1681130275.jpg)
+<MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **  नवमः खण्डः ९**
 
@@ -6860,7 +6864,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
     इति कात्यायनस्मृतौ नवमः खण्डः॥ ९ ॥
 
- ![](../books_images/1681130275.jpg)
+ <MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 ** दशमः खण्डः १०.**
 
@@ -7050,7 +7054,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इति कात्यायनस्मृतौ द्वादशः खण्डः ॥ १२ ॥
 
-![](../books_images/1681130275.jpg)
+<MISSING_FIG href="../books_images/1681130275.jpg"/>
 
 **त्रयोदशः खंडः १३.**
 
@@ -7112,7 +7116,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति कात्यायनस्मृतौ त्रयोदशः खण्डः ॥ १३ ॥
 
- ![](../books_images/1681198009.jpg)
+ <MISSING_FIG href="../books_images/1681198009.jpg"/>
 
 **  चतुर्दशः खंडः १४.**
 
@@ -7192,7 +7196,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  **इति कात्यायनस्मृतौ चर्तुदशः खण्डः ॥ १४ ॥**
 
-![](../books_images/1681198180.jpg)
+<MISSING_FIG href="../books_images/1681198180.jpg"/>
 
 ** पंचदशः खंडः १५.**
 
@@ -7482,7 +7486,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति कात्यायनस्मृतौ सप्तदशः खंडः ॥ २५ ॥
 
-![](../books_images/1681198555.jpg)
+<MISSING_FIG href="../books_images/1681198555.jpg"/>
 
 **अष्टादशः खंडः १८.**
 
@@ -7584,7 +7588,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति कात्यायनस्मृतावष्टादशः खण्डः॥ १८॥
 
- ![](../books_images/1681202539.jpg)
+ <MISSING_FIG href="../books_images/1681202539.jpg"/>
 
 ** एकोनविंशः खंडः १९.**
 
@@ -7656,7 +7660,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति कात्यायनविरचिते कर्मप्रदीपे द्वितीयः प्रपाठकः ॥ २ ॥
 
- ![](../books_images/1681202674.jpg)
+ <MISSING_FIG href="../books_images/1681202674.jpg"/>
 
 ** विंशः खण्डः २०.**
 
@@ -7738,7 +7742,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
     इति कात्यायनस्मृतौ विंशतितमः खण्डः ॥ २०॥
 
-![](../books_images/1681202823.jpg)
+<MISSING_FIG href="../books_images/1681202823.jpg"/>
 
 **एकविंशः खंडः २१.**
 
@@ -7808,7 +7812,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
     इति कात्यायनस्मृतावेकविंशतितमः खण्डः ॥ २१ ॥
 
- ![](../books_images/1681202938.jpg)
+ <MISSING_FIG href="../books_images/1681202938.jpg"/>
 
  द्वाविंशः खण्डः २२.
 
@@ -7854,7 +7858,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
     इति कात्यायनस्मृतौ द्वाविंशतितमः खण्डः॥ २२॥
 
- ![](../books_images/1681203047.jpg)
+ <MISSING_FIG href="../books_images/1681203047.jpg"/>
 
 ** त्रयोविंशः खंडः २३.**
 
@@ -7916,7 +7920,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति कात्यायनस्मृतौ त्रयोविंशतितमः खण्डः ॥ २३ ॥
 
-  ![](../books_images/1681203208.jpg)  
+  <MISSING_FIG href="../books_images/1681203208.jpg"/>  
 
 ** चतुर्विंशः खण्डः २४.**
 
@@ -7986,7 +7990,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इति कात्यायनस्मृतौ चतुर्विंशतितमः खंडः ॥ २४ ॥
 
- ![](../books_images/1681203360.jpg)
+ <MISSING_FIG href="../books_images/1681203360.jpg"/>
 
 ** पञ्चविंशः खण्डः २५.**
 
@@ -8064,7 +8068,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति कात्यायनस्मृतौ पंचविंशतितमः खण्डः ॥ २५ ॥
 
-![](../books_images/1681203451.jpg)
+<MISSING_FIG href="../books_images/1681203451.jpg"/>
 
 ** षड्विंशः खण्डः २६**
 
@@ -8138,7 +8142,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति कात्यायनस्मृतौ षड्विंशतितमः खण्डः ॥ २६ ॥
 
- ![](../books_images/1681203524.jpg)
+ <MISSING_FIG href="../books_images/1681203524.jpg"/>
 
 ** सप्तविंशः खण्डः २७**
 
@@ -8228,7 +8232,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति कात्यायनस्मृतौ सप्तविंशतितमः खण्डः ॥ २७ ॥
 
-![](../books_images/1681203524.jpg)
+<MISSING_FIG href="../books_images/1681203524.jpg"/>
 
 **अष्टाविंशः खंडः २८.**
 
@@ -8310,7 +8314,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति कात्यायनस्मृतौ अष्टाविंशतितमः खण्डः ॥ २८ ॥
 
-![](../books_images/1681204450.jpg)
+<MISSING_FIG href="../books_images/1681204450.jpg"/>
 
 **एकोनत्रिंशः खण्डः २९.**
 
@@ -8402,7 +8406,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 ** अथ बृहस्पतिस्मृतिः १०.**
 
- ![](../books_images/1681204617.jpg)
+ <MISSING_FIG href="../books_images/1681204617.jpg"/>
 
 **अथ बृहस्पतिस्मृतिप्रारंभः ॥**
 
@@ -8728,13 +8732,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति श्रीबृहस्पतिप्रणीतं धर्मशास्त्रं समाप्तम् ॥ १० ॥
 
-![](../books_images/1681204855.jpg)
+<MISSING_FIG href="../books_images/1681204855.jpg"/>
 
 **। श्रीः।**
 
 ** अथ पाराशरस्मृतिः ११.**
 
-**   ![](../books_images/1681204939.jpg)**
+**   <MISSING_FIG href="../books_images/1681204939.jpg"/>**
 
 **  प्रथमः खण्डः।**
 
@@ -9116,7 +9120,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति पराशरीये धर्मशास्त्रे द्वितीयोऽध्यायः ॥ २ ॥
 
-![](../books_images/1681205125.jpg)
+<MISSING_FIG href="../books_images/1681205125.jpg"/>
 
 ** तृतीयोऽध्यायः ३**.
 
@@ -9322,7 +9326,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति पराशरीये धर्मशास्त्रे तृतीयोऽध्यायः ॥ ३ ॥
 
- ![](../books_images/1681205188.jpg)
+ <MISSING_FIG href="../books_images/1681205188.jpg"/>
 
 **  चतुर्थोऽध्यायः ४**.
 
@@ -9458,7 +9462,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 ॥ इति पराशरीये धर्मशात्रे चतुर्थोऽध्यायः ॥ ४ ॥
 
- ![](../books_images/1681215987.jpg)
+ <MISSING_FIG href="../books_images/1681215987.jpg"/>
 
 **  पंचमोऽध्यायः ५.**
 
@@ -9564,7 +9568,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 ** इति पराशरीये धर्मशास्त्रे पंचमोऽध्यायः ॥ ५ ॥**
 
- ![](../books_images/1681212870.jpg)
+ <MISSING_FIG href="../books_images/1681212870.jpg"/>
 
 ** **
 
@@ -9866,7 +9870,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इति पराशरीये धर्मशास्त्रे षष्ठोऽध्यायः ॥ ६ ॥
 
-![](../books_images/1681213291.jpg)
+<MISSING_FIG href="../books_images/1681213291.jpg"/>
 
 ** सप्तमोऽध्यायः ७.**
 
@@ -10042,7 +10046,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इति पराशरीये धर्मशास्त्रे सप्तमोऽध्यायः ॥ ७ ॥
 
- ![](../books_images/1681213622.jpg)
+ <MISSING_FIG href="../books_images/1681213622.jpg"/>
 
 **  अष्टमोऽध्यायः८.**
 
@@ -10246,7 +10250,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति पराशरीये धर्मशास्त्रेऽष्टमोऽध्यायः ॥ ८ ॥
 
-![](../books_images/1681214039.jpg)
+<MISSING_FIG href="../books_images/1681214039.jpg"/>
 
 **  नवमोऽध्यायः ९.**
 
@@ -10502,7 +10506,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
  इति पराशरीये धर्मशास्त्रे नवमोऽध्यायः ॥ ८ ॥
 
- ![](../books_images/1681214221.jpg)
+ <MISSING_FIG href="../books_images/1681214221.jpg"/>
 
 **  दशमोऽध्यायः १०.**
 
@@ -10678,7 +10682,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति पराशरीये धर्मशास्त्रे दशमोऽध्यायः ॥ १० ॥
 
- ![](../books_images/1681216207.jpg)
+ <MISSING_FIG href="../books_images/1681216207.jpg"/>
 
 **एकादशोऽध्यायः ११.**
 
@@ -10908,7 +10912,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति पराशरीये धर्म्मशास्त्रे एकादशोऽध्यायः ॥ ११ ॥
 
- ![](../books_images/1681216207.jpg)
+ <MISSING_FIG href="../books_images/1681216207.jpg"/>
 
 ** द्वादशोऽध्यायः १२.**
 
@@ -11242,7 +11246,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   **इति पाराशरस्मृतिः समाप्ता ॥ ११ ॥**
 
-   ![](../books_images/1681563326.jpg)
+   <MISSING_FIG href="../books_images/1681563326.jpg"/>
 
 **   श्रीः।**
 
@@ -11648,7 +11652,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति श्रीवेदव्यासीये धर्म्मशास्त्रे द्वितीयोऽध्यायः ॥ २ ॥
 
-![](../books_images/1682507857.jpg)
+<MISSING_FIG href="../books_images/1682507857.jpg"/>
 
 **तृतीयोऽध्यायः ३.**
 
@@ -12238,13 +12242,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 **       इति व्यासस्मृतिः समाप्ता ॥ १२ ॥**
 
-![](../books_images/1682508164.jpg)
+<MISSING_FIG href="../books_images/1682508164.jpg"/>
 
     श्रीः
 
 **   शंखस्मृतिः१३.**
 
-**  ![](../books_images/1682508295.jpg)**
+**  <MISSING_FIG href="../books_images/1682508295.jpg"/>**
 
 स्वयंभुवेनमस्कृत्य सृष्टिसंहारकारिणे ॥
 
@@ -12280,7 +12284,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति श्रीशंखस्मृतौ प्रथमोऽध्यायः ॥ १ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **द्वितीयोऽध्यायः २.**
 
@@ -12338,7 +12342,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   इति श्रीशंखस्मृतौ द्वितीयोऽध्यायः ॥ २ ॥
 
-    ![](../books_images/1682508413.jpg)
+    <MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **  तृतीयोऽध्यायः ३.**
 
@@ -12404,7 +12408,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति शंखस्मृतौ तृतीयोऽध्यायः ॥३ ॥
 
-  ![](../books_images/1682508413.jpg)
+  <MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 ** **
 
@@ -12478,7 +12482,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 **इति शंखस्मृतौ चतुर्थोऽध्यायः ॥ ४ ॥**
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **   पंचमोऽध्यायः ५.**
 
@@ -12560,7 +12564,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति शंखस्मृतौ पंचमोऽध्यायः ॥ ५ ॥
 
-   ![](../books_images/1682508413.jpg)
+   <MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **  षष्ठोऽध्यायः ६.**
 
@@ -12594,7 +12598,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति शंखस्मृतौ षष्ठोऽध्यायः ॥ ६ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **  सप्तमोऽध्यायः ७.**
 
@@ -12742,7 +12746,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति शंखस्मृतौ सप्तमोऽध्यायः ॥ ७ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **  अष्टमोऽध्यायः ८.**
 
@@ -12814,7 +12818,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
     इति श्रीशंखस्मृतौअष्टमोऽध्यायः ॥ ८ ॥
 
-![](../books_images/1682508413.jpg)  
+<MISSING_FIG href="../books_images/1682508413.jpg"/>  
 
 **  नवमोऽध्यायः ९.**
 
@@ -12880,7 +12884,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति शंखस्मृतौ नवमोऽध्यायः ॥९ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **  दशमोऽध्यायः १०.**
 
@@ -12970,7 +12974,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति शंखस्मृतौ दशमोऽध्यायः ॥ १० ॥
 
-    ![](../books_images/1682508413.jpg)  
+    <MISSING_FIG href="../books_images/1682508413.jpg"/>  
 
 **एकादशोऽध्यायः ११.**
 
@@ -12996,7 +13000,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति शंखस्मृतावेकादशोऽध्यायः ॥ ११ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **द्वादशोऽध्यायः १२.**
 
@@ -13074,7 +13078,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
     इति शंखस्मृतौ द्वादशोऽध्यायः ॥१२ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **त्रयोदशोऽध्यायः १३.**
 
@@ -13102,7 +13106,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति शंखस्मृतौ त्रयोदशोऽध्यायः ॥ १३ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **चतुर्दशोऽध्यायः १४.**
 
@@ -13240,7 +13244,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति श्रीशंखस्मृतौ चतुर्दशोऽध्यायः ॥ १४ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **पंचदशोऽध्यायः १५.**
 
@@ -13346,7 +13350,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
    इति शङ्खस्मृतौ भाषाटीकायां पंचदशोऽध्यायः ॥ १५ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **षोडशोऽध्यायः १६.**
 
@@ -13448,7 +13452,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति शंखस्मृतौ षोडशोऽध्यायः ॥ १६ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **सप्तदशोऽध्यायः १७.**
 
@@ -13728,7 +13732,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति शंखस्मृतौ सप्तदशोऽध्यायः ॥ १७ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **अष्टादशोऽध्यायः १८.**
 
@@ -13800,7 +13804,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 **अथ लिखितस्मृतिः १४**
 
-![](../books_images/1683363447.jpg)
+<MISSING_FIG href="../books_images/1683363447.jpg"/>
 
 इष्टापूर्ते तु कर्तव्ये ब्राह्मणेन प्रयत्नतः ॥
 
@@ -14174,11 +14178,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 **इति लिखितस्मृतिः समाप्ता ॥ ४१ ॥**
 
-![](../books_images/1682508413.jpg)  
+<MISSING_FIG href="../books_images/1682508413.jpg"/>  
 
 **अथ दक्षस्मृतिः १५,**
 
-**![](../books_images/1683524326.jpg)**
+**<MISSING_FIG href="../books_images/1683524326.jpg"/>**
 
 **प्रथमोऽध्यायः १.**
 
@@ -14246,7 +14250,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति दक्षस्मृतौ प्रथमोऽध्यायः ॥ ॥ १
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **द्वितीयोऽध्यायः २.**
 
@@ -14500,7 +14504,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति श्रीदाक्षे धर्मशास्त्रे द्वितीयोऽध्यायः ॥ २ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **तृतीयोऽध्यायः ३.**
 
@@ -14642,7 +14646,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति दक्षस्मृतौ तृतीयोऽध्यायः ॥ ३ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **चतुर्थोऽध्यायः ४.**
 
@@ -14734,7 +14738,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति दक्षस्मृतौचतुर्थोऽध्यायः ॥ ४ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **पंचमोऽध्यायः ५.**
 
@@ -14800,7 +14804,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति दक्षस्मृतौ पंचमोऽध्यायः ॥ ५ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **षष्ठोऽध्यायः ६.**
 
@@ -14886,7 +14890,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति दक्षस्मृतौ षष्ठोऽध्यायः ॥ ६ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **सप्तमोऽध्यायः ७.**
 
@@ -15116,15 +15120,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 **इति दक्षस्मृतिः समाप्ता ॥ १५ ॥**
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
-![](../books_images/1683524974.jpg)
+<MISSING_FIG href="../books_images/1683524974.jpg"/>
 
 **श्रीः।**
 
 **अथ गौतमस्मृतिः १६.**
 
-![](../books_images/1683525078.jpg)
+<MISSING_FIG href="../books_images/1683525078.jpg"/>
 
 **प्रथमोऽध्यायः १.**
 
@@ -15177,6 +15181,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
   ऋतावुपेयात् सर्वत्र वा प्रतिषिद्धवर्जम् ॥ देवपितृमनुष्यभूतार्षिपूजकः नित्यस्वाध्यायः पितृभ्यश्चोदकदानम्। यथोत्साहमन्यद्भार्यादिरग्निर्दायादिर्वा तस्मिन् गृह्याणि देवपितृमनुष्ययज्ञाः स्वाध्यायश्च बलिकर्म्माग्नावग्निर्धन्वंतरिर्विश्वेदेवाः प्रजापतिः स्विष्टकृदिति होमः दिग्देवताभ्यश्च यथा स्वद्वारेषु मरुद्भ्यो गृहदेवताभ्यः प्रविश्य ब्रह्मणे मध्ये अद्भ्य उदकुंभे आकाशायेत्यंतरिक्षे नक्तंचरेभ्यश्च सायं स्वस्तिवाच्यभिक्षादानप्रश्नपूर्वं तु ददातिषु चैवं धर्म्मेषु समद्विगुणसाहस्रानंत्यानि फलान्यब्राह्मणब्राह्मण श्रोत्रियवेदपारगेभ्यः गुर्वर्थनिवेशौषधार्थवृत्तिक्षीणयक्ष्यमाणाध्ययनाध्वसंयोगवैश्वजितेषु द्रव्यसंवि-भागौ बहिर्वेदिभिक्षमाणेषु कृतामितरेषु प्रतिश्रुत्याप्यधर्म्मसंयुक्ताय न दद्यात्।
 
+ 
 क्रुद्धहृष्टभीतार्तलुब्धबालस्थविरमूढमत्तोन्मत्तवाक्यान्यनृतान्यपातकानि। भोजयेत् पूर्वमतिथिकुमारव्याधितगर्भिणी-सुवासिनीस्थविरान् जघन्यांश्च आचार्यपितृसखीनां च निवेद्यवचनक्रियाः ऋत्विगाचार्यश्वशुरपितृ-मातुलानामुपस्थानमधुपर्कः संवत्सरे पुनर्यज्ञविवाहयोरर्व्वाक् राज्ञश्च श्रोत्रियस्य अश्रोत्रियस्यासनोदके श्रोत्रियस्य तु पाद्यमर्घ्यमन्नविशेषांश्च प्रकारयेत् नित्यं वा संस्कारविशिष्टं मध्यतोऽन्नदानं वैद्ये साधु- वृत्ते विपरीतेषु तृणोदकभूमिः स्वागतं ततः पूज्यानत्याशश्च शय्यासनावसथानुव्रज्योपासनानि संदृक्श्रेयसोः समानानि अल्पशोऽपि हीने। असमानग्रामोऽतिथिरेकरात्रिक्रोधिवृक्षसूर्योपस्थायी कुशलानामयारोग्याणामनुप्रश्नोऽथ शूद्रस्याब्राह्मणस्यानतिथिर-ब्राह्मणो यज्ञे संवृत्तश्चेत् भोजनं तु क्षत्रियस्योर्ध्वं ब्राह्मणेभ्यः अन्यान् भृत्यैः सहानृशंसार्थमानृशंसार्थम् ॥
 
 इति गौतमस्मृतौपंचमोऽध्यायः ॥ ५ ॥
@@ -15233,7 +15238,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतावेकादशोऽध्यायः ॥ ११ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **द्वादशोऽध्यायः १२.**
 
@@ -15243,7 +15248,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ द्वादशोऽध्यायः ॥ १२ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **त्रयोदशोऽध्यायः १३.**
 
@@ -15252,7 +15257,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ त्रयोदशोऽध्यायः ॥ १३ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **चतुर्दशोऽध्यायः १४.**
 
@@ -15262,7 +15267,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ चतुर्दशोऽध्यायः ॥ १४ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **पञ्चदशोऽध्यायः १५.**
 
@@ -15274,7 +15279,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ भाषाटीकायां पंचदशोऽध्यायः ॥१५ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **षोडशोऽध्यायः १६.**
 
@@ -15283,7 +15288,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौषोडशोऽध्यायः ॥ १६ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **सप्तदशोऽध्यायः १७.**
 
@@ -15292,7 +15297,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ सप्तदशोऽध्यायः ॥ १७ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **अष्टादशोऽध्यायः १८ः**
 
@@ -15301,7 +15306,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतावष्टादशोऽध्यायः ॥१८ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **द्वितीयः प्रपाठकः**
 
@@ -15312,7 +15317,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतावेकोनविंशोऽध्यायः ॥ १९ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **विंशोऽध्यायः २०.**
 
@@ -15320,7 +15325,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ विंशतितमोऽध्यायः ॥ २० ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **एकविंशोऽध्यायः २१.**
 
@@ -15332,7 +15337,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतावेकविंशोऽध्यायः ॥ २१ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **द्वाविंशोऽध्यायः २२.**
 
@@ -15340,7 +15345,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ द्वाविंशोऽध्यायः ॥ २२ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **त्रयोविंशोऽध्यायः २३.**
 
@@ -15348,7 +15353,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ त्रयोविंशोऽध्यायः ॥ २३ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **चतुर्विंशोऽध्यायः २४.**
 
@@ -15358,7 +15363,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ चतुर्विंशतितमोऽध्यायः ॥ २४ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **पंचविंशोऽध्यायः २५.**
 
@@ -15366,7 +15371,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ पंचविंशोऽध्यायः ॥ २५ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **षड्विंशोऽध्यायः २६**.
 
@@ -15374,7 +15379,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ षड्विंशतितमोऽध्यायः ॥ २६ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **सप्तविंशोऽध्यायः २७.**
 
@@ -15382,7 +15387,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ सप्तविंशोऽध्यायः ॥ २७ ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **अष्टाविंशोऽध्यायः २८.**
 
@@ -15390,7 +15395,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति गौतमस्मृतौ भाषाटीकायामष्टाविंशोऽध्यायः ॥२८॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **एकोनत्रिंशोऽध्यायः २९.**
 
@@ -15400,7 +15405,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 **इति श्रीगौतमस्मृतिः समाप्ता ॥ १६ ॥**
 
-**![](../books_images/1683536566.jpg)**
+**<MISSING_FIG href="../books_images/1683536566.jpg"/>**
 
 **श्रीः।**  
 
@@ -15408,7 +15413,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 **प्रथमोऽध्यायः १ः**
 
-**![](../books_images/1683536747.jpg)**  
+**<MISSING_FIG href="../books_images/1683536747.jpg"/>**  
 
 प्रायश्चित्तविहीनानां महापातकिनां नृणाम् ॥
 
@@ -15536,7 +15541,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 **इति शातातपस्मृतौ प्रथमोऽध्यायः ॥ १ ॥**
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **द्वितीयोऽध्यायः २.**  
 
@@ -15996,7 +16001,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति शातातपीये कर्मविपाके स्तेयप्रायश्चित्तं नाम चतुर्थोऽध्यायः ॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **पंचमोऽध्यायः ५.**
 
@@ -16156,7 +16161,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति श्रीशातातपीये कर्म्मविपाकेऽगम्यागमनप्रायश्चित्तं नाम पंचमोऽध्यायः ॥ ५॥
 
-![](../books_images/1682508413.jpg)
+<MISSING_FIG href="../books_images/1682508413.jpg"/>
 
 **षष्ठोऽध्यायः ६.**
 
@@ -16368,13 +16373,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 इति शातातपस्मृतिः समाप्ता ॥ १७ ॥
 
-![](../books_images/1683537620.jpg)
+<MISSING_FIG href="../books_images/1683537620.jpg"/>
 
 **अथ वशिष्ठस्मृतिः १८.**
 
 **प्रथमोऽध्यायः १.**
 
-**![](../books_images/1683537743.jpg)**
+**<MISSING_FIG href="../books_images/1683537743.jpg"/>**
 
    अथातः पुरुषनिश्रेयसार्थं धर्मजिज्ञासा ॥ ज्ञात्वा चानुतिष्ठन्धार्मिकः प्रशस्यतमो भवति लोके प्रेत्य च। विहितो धर्मः। तदलाभे शिष्टाचारः प्रमाणम्। दक्षिणेन हिमवत उत्तरेण विंध्यस्य ये धर्मा ये चाचारास्ते सर्वे प्रत्येतव्याः न ह्यन्ये प्रतिलोमकल्पधर्माः। एतदार्यावर्तमित्याचक्षते। गंगायमुनयोरंतराप्येके। यावद्वा कृष्णमृगो विचरति तावद्ब्रह्मवर्चसमिति ।
 
@@ -16762,9 +16767,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQyNjE3MjE1MTA
 
 **समाप्तेयं वासिष्ठस्मृतिः।**
 
-**![](../books_images/1683551097.jpg)**
+**<MISSING_FIG href="../books_images/1683551097.jpg"/>**
 
 [TABLE]
 
 \]
-

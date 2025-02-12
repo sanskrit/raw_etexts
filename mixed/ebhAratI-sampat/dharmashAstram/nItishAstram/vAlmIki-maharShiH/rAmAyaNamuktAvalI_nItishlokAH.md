@@ -35,11 +35,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMzc0Mjc3MjE
 
 ** श्रीरामजयम्**
 
-![](../../../books_images/1684215080.png)
+<MISSING_FIG href="../../../books_images/1684215080.png"/>
 
 **॥ रामायणमुक्तावली॥**
 
-![](../../../books_images/1684215197.png)
+<MISSING_FIG href="../../../books_images/1684215197.png"/>
 
 **“जयत्याश्रितसन्त्रास ध्वान्तविध्वंसनोदयः।  
 प्रभावान्सीतया देव्या परमव्योमभास्करः॥”**
@@ -765,7 +765,7 @@ If only one realises that death is only another phase of life and that non exist
 
 **रामगीता संपूर्णा**
 
-**![](../../../books_images/1684303114.png)**
+**<MISSING_FIG href="../../../books_images/1684303114.png"/>**
 
 **१४२. अन्तकाले हि भूतानि मुह्यन्तीति पुरा श्रुतिः । (106—13)**
 
@@ -901,9 +901,9 @@ The husband is the God for a worthy wife be he a wreck, or be he sensuous or dev
 
 For a woman there is no penance greater than devotion to her husband.
 
-![](../../../books_images/1684312784.png)
+<MISSING_FIG href="../../../books_images/1684312784.png"/>
 
-![](../../../books_images/1684312860.png)
+<MISSING_FIG href="../../../books_images/1684312860.png"/>
 
 **॥ आरण्यकाण्डम् ॥**
 
@@ -1236,13 +1236,13 @@ Persons are not aware of the acts done by them in their previous births; they ca
 
 Great and valourous souls who tread the path of the virtuous, and who are ever ready to help the weak, are found all over even in the animal kingdom.
 
-![](../../../books_images/1684323016.png)
+<MISSING_FIG href="../../../books_images/1684323016.png"/>
 
-![](../../../books_images/1684323130.png)
+<MISSING_FIG href="../../../books_images/1684323130.png"/>
 
 **॥ किष्किन्धाकाण्डम् ॥**
 
-![](../../../books_images/1684323204.png)
+<MISSING_FIG href="../../../books_images/1684323204.png"/>
 
 **२२७.** **स्मृत्वा वियोगजं दुःखं त्यज स्नेहं प्रियेजने ।  
 अतिस्नेहपरिष्वङ्गाद्वर्तिरार्द्रापि दह्यते ॥**(1—115)
@@ -1542,7 +1542,7 @@ Who will be so apathetic as to refuse a request politely made.
 
 One should never be disheartened. Despair eventually leads to miseries and kills a man even as an furious serpent kills a boy.
 
-![](../../../books_images/1684470883.png)
+<MISSING_FIG href="../../../books_images/1684470883.png"/>
 
 **॥ सुन्दरकाण्डम् ॥**
 
@@ -2379,4 +2379,3 @@ Whoever daily reads or hears with devotion the sacred Ramayana, or the history o
 **----------**
 
 \]
-

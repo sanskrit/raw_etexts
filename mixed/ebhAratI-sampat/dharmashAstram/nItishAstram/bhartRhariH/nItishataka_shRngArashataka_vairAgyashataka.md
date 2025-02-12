@@ -123,7 +123,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMzc3MDk1MTk
 
  बीहड़ पहाड़ों पर जंगली आदमियों के साथ विचरना अच्छा है, परन्तु मूर्ख पुरुषों के साथ इन्द्रभवन में भी रहना अच्छा नहीं॥१४॥
 
-![](../books_images/U-IMG-1701535243Capture1.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1701535243Capture1.JPG"/>
 
 **अथ विद्वत्प्रशंसा**
 
@@ -695,7 +695,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMzc3MDk1MTk
  यदि करील वृक्ष में पत्ते न लगें तो इसमें वसन्तऋतुका क्या दोष? — यदि दिनमें उल्लूको न दिखाई दे तो इसमें सूर्यका क्या दोष? — वर्षाऋतु में यदि चातक के मुँहमें जलधारा न गिरे तो मेघ का क्या दोष? — इन बातों के देखनेसे मालूम पड़ता है कि विधाताने ललाटमें पहलेसे जो लिख रखा है, उसको कोई मिटा नहीं सकता॥६४॥
 
 इति दैवप्रशंसा।  
-![](../books_images/U-IMG-1701537170Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1701537170Capture.JPG"/>
 
 अथ कर्मप्रशंसा।
 
@@ -801,11 +801,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMzc3MDk1MTk
 
 इति श्री मद्भर्तृहरिशतके नाथविरचित भाषाटीकासंवलितं नीतिशतकं समाप्तम्।
 
-![](../books_images/U-IMG-1698782978Screenshot2023-11-01013845.png)
+<MISSING_FIG href="../books_images/U-IMG-1698782978Screenshot2023-11-01013845.png"/>
 
 \* अथ शृङ्गारशतकम् \*
 
-![](../books_images/U-IMG-1698783114Screenshot2023-11-01011756.png)
+<MISSING_FIG href="../books_images/U-IMG-1698783114Screenshot2023-11-01011756.png"/>
 
 \* मङ्गलाचरणम् \*
 
@@ -1438,13 +1438,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMzc3MDk1MTk
 
 इति श्रीमद्भर्तृहरिशतके नाथविरचित भाषा-टीका संवलितं शृङ्गारशतकं समाप्तम्।
 
-![](../books_images/U-IMG-1699375148Screenshot2023-11-07220820.png)
+<MISSING_FIG href="../books_images/U-IMG-1699375148Screenshot2023-11-07220820.png"/>
 
 \* श्रीः \*  
 
 \* अथ वैराग्यशतकम् \*
 
-![](../books_images/U-IMG-1699645246Screenshot2023-11-11011018.png)
+<MISSING_FIG href="../books_images/U-IMG-1699645246Screenshot2023-11-11011018.png"/>
 
 चूडोत्तंसितचारुचन्द्रकलिकाचञ्चच्छिखाभास्वरो  
 लीलादग्धविलोलकामशलभः श्रेयोदशाग्रे स्फुरन्।  
@@ -2111,6 +2111,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMzc3MDk1MTk
 शेषं व्याधिवियोगदुःखसहितं सेवादिभिर्नीयते**  
 **जीवे वारितरङ्चञ्चलतरे सौख्यं कुतःप्राणिनाम्॥९१॥**
 
+ 
+
 मनुष्य की पूरा आयु एक सौ वर्ष की है, उसमें से आधीआयु ५० वर्ष रात्रि में सोकर बिता दीं, बाकी बचे ५० में से२५ वर्ष लड़कपन और बुढापे में बीत गये, इससे बचे २५ वर्षरोग, पुत्रकलत्रादिका वियोगादि दुःख से तथा अपनीजीविका के लिये धनी लोगों की सेवा आदि में बीत जाता है,तो अब जल तरङ्ग के समान चंचल इस जीवन में प्राणी को सुखकैसे मिल सकता है?॥९१॥
 
 **गंगातीरे हिमगिरिशिलाबद्धपद्मासनस्य  
@@ -2169,13 +2171,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzMzc3MDk1MTk
 
 भर्तृहरिशतकत्रयं समाप्तम् '
 
-![](../books_images/U-IMG-1699653064Screenshot2023-11-11032039.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699653064Screenshot2023-11-11032039.png"/>  
 
 **ठाकुरप्रसाद एण्ड सन्स बुक्सेलर,**  
 
 राजादरवाजा, दुकान-कचौड़ीगली, वाराणसी।
 
-![](../books_images/U-IMG-1701588868Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1701588868Capture.JPG"/>
 
 मुद्रक - ठाकुरप्रसाद, बम्बई प्रेस, राजादरवाजा, वाराणसी।
 
