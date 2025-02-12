@@ -13,23 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk1Nzg1MjUwNTI
 
 \[
 
-
-
 [TABLE]
 
-
-
-
-
 # ![](../books_images/U-IMG-1710228110Screenshot2024-03-12124844.png)
-
-
 
 ***AUTHOR'S NOTE.***
 
    This little book contains almost all the 'Neeti Slokas' or moral sayings culled out from Srimad Valmiki Ramayana, with an English rendering of the same. I need hardly say that even one with the Gandhian command of English language cannot render a happy translation of the Sanskrit verses into English and sometimes a close literal translation, even if it were possible, looks rather uncouth. My present endeavour therefore, is mainly to convey in English the idea. of the original Sanskrit verses, giving a true translation wherever possible and necessary. Like lustrous pearls gathered from the deep ocean these invaluable pearls of Valmiki are collected from out of the unfathomable depths of the vast ocean of Ramayana and hence the book is styled as 'Ramayana Muktavali'. Though this little book may be welcomed by all the English-Sanskrit knowing lovers of Ramayana, it is mainly intended for students whom I request to get the verses by heart with great advantage to them not only during their scholastic career but also in their everyday life thereafter.
-
-
 
 CHITTOOR,
 
@@ -37,10 +27,6 @@ CHITTOOR,
           **T. SRINIVASA RAGHAVACHARYA**,
 
 Author.
-
-
-
-
 
 **Respectfully dedicated  
 to  
@@ -57,13 +43,7 @@ RAMAYANA SARAVALI**
 (Manishadha) and his interpretation of the sloka is that the essence of the seven Kandas is contained in this. In the chapter on the Avathara Rahasyam, the author has referred to the controversy as to whether Sri Rama was a man or an avatar. The traditional view is that while Rama lived and behaved entirely like a man subjecting himself to all the limitations and even exhibiting all human frailties, as does an actor on the stage, he was nonethelessan avatar. This is well brought out in this essay by a reference to some occurences and also to the words of the characters in the poem and of Sri Valmiki himself.  
     The essays on Bharata and Lakshmana, bring out their respective characteristics admirably. There is a chapter dealing with the Pancha Kanyakas. The chapter on 'Rama Shadgunya' deals with the quintessence of the Ramayana and explains the glory of the Rama Avatar. Absolute self-surrender to God or 'Saranagathi' which is considered by many authorities to be the most outstanding teaching of Ramayana, is alluded to and briefly explained.
 
-
-
 THE NATIONAL PRINTING WORKS, TRIVANDRUM.
-
-
-
-
 
 “THE MADRAS MAIL”, OCTOBER 6, 1940.  
 **RAMAYANA MUKTHAVALI  
@@ -71,10 +51,6 @@ BY
 T. Srinivasa Raghavacharya, Chittoor.**
 
 The author of this little book is well-known to numerous audiences at Madras and elsewhere as a learned, **authoritative and original interpreter of the Ramayana**, one of the two great epics of the Hindus. He has already published several special works on the subject, and he has now added to them this volume on the ethical gems, rather, pearls (muktha), found scattered here and there in the different kandas of the Epic. These quota- tions, 340 in the number, show the profundity of Valmiki's wisdom, as well as his deep knowledge of the world. **The verses and sayings are fit to be memorised, particularly by students,** as the author suggests. The learned compiler has translated the same in English so that there might be an intelligent appreciation of the “pearls”.
-
-
-
-
 
 ॥ श्रीः ॥  
 
@@ -139,8 +115,6 @@ The author of this little book is well-known to numerous audiences at Madras and
 
 १८. धर्मो हि परमो लाके धर्मे सत्यं प्रतिष्ठितम्।  
    धर्मसंश्रितमेतच्च पितुर्वचनमुत्तमम्।(21-40)
-
-
 
 १९. संश्रुत्य च पितुर्वाक्यं मातुर्वा ब्राह्मणस्य वा।  
    न कर्तव्यं वृथा वीर धर्ममाश्रित्य तिष्ठता॥(21-41)
@@ -1142,10 +1116,6 @@ The author of this little book is well-known to numerous audiences at Madras and
 आर्तानामार्तिहन्तारं भीतानां भयनाशनम्।  
 द्विषतां कालदण्डं तं रामचन्द्रं नमाम्यहम्॥**
 
-
-
-
-
 **KABEER PRINTING WORKS**  
 
 **195, HIGH ROAD, TRIPLICANE, MADRAS.**
@@ -1836,19 +1806,13 @@ might be taken. Else it should be abandoned.
 
 340\. A help in need brings on friendship and harm leads to enmity.
 
-
-
 ![](../books_images/U-IMG-1710573900ghgf.png)
-
-
 
 SRI RAMAJAYAM.
 
 .................................................................................................
 
 PRINTED AT THE VICTORIA JUBILEE PRESS, CHITTOOR.
-
-
 
 **Gold Medals and Souvenirs**  
 
@@ -1900,10 +1864,6 @@ Sudhaswadini Sabha, TIRUPATI
 21. Public of MAMBALAM                        
  16-4-1940
 
-
-
-
-
 **Sri Kanchi Kamakoti Peetadhipathi Jagathguru.  
 Sri Sankaracharya Swamigal Mutt,  
 KUMBAKONAM.**
@@ -1923,8 +1883,6 @@ Despatched,
 C. S. VISVANATHA IYER,  
 Manager.
 
-
-
 *“THE HINDU”*           17-4-40.
 
      The series of lectures on Valmiki Ramayana delivered by Mr. T. Srinivasa Raghavacharya of Chittoor in the Sri Ramakrishna High School Prayer Hall, Thyagarayanagar, Madras, during the last 10 days was concluded last night with the celebration of Sri Rama Pattabhishekam, under the presidency of the Hon. Mr. Justice K. S. Krishna-swami Iyengar.
@@ -1937,13 +1895,8 @@ Manager.
 
      Mr. Justice Krishnaswami Iyengar presented the lecturer with a gold medal, being a gift from those who attended his lectures.
 
-
-
-
-
 **            “THE MADRAS MAIL.”   Dated 12-4-1937.**  
 .                                   
-         
 
 **(Bangalore, 11-4-1937.)**
 
@@ -1952,8 +1905,6 @@ Manager.
      This evening's formed the first of a series of ten discourses to be delivered every evening. The speaker explained that the Mangala Sloka in Valmiki Ramayana contained not only the fundamentals of the seven Kandas but also the enunciation of the basic principle of the ultimate union of the jeevathma and the paramathma as dwelt upon in detail in the Mundakopanishad.
 
       He proved from internal evidence from Valmiki Ramayana that the difference in age between Sri Rama and Sita was only a few months and not several years as is generally believed.
-
-
 
 **''சுதேச மித்ரன்.''**
 
@@ -1964,15 +1915,9 @@ Manager.
 
  ஸ்ரீவால்மீகி ராமாயணத்திலும் கம்பராமா யணத்திலும் உபந்யாசகருக்கு இருக்கும் அசா தாரண பாண்டித்தியம் பெரிதும் பாராட்டப் பட்டது. முடிவில் ஸ்ரீமான் ஆச்சாரியாருக்குப் பொதுமக்கள் சார்பில் தங்கப்பதக்கம் ஒன்று தங்களது நன்மதிப்புக்கு அறிகுறியாக சன்மா னம் செய்யப்பட்டது. எல்லா உபந்யாசங்களுக் கும் ஆண்களும் பெண்களும் திரளாகக் கூடி யிருந்தனர்.
 
-
-
 **      “DHARMARAJYA”  Dated 20th July 1935.**
 
-     
-
 Mr. T. Srinivasa Raghavacharya of Chittoor delivered during the months of June and July a series of lectures on Valmiki Ramayana under the auspices of the Lakshmipuram Association, Madras. Pattabhishekam was celebrated on the 14th instant, Dewan Bahadur K. S. Ramaswami Sastrigal, presiding. The **exposition** of the subject by the lecturer **was of a very high order and brought out very well the beauty, sentiments, and ideas of the poem by Valmiki. Mr. Srinivasa Raghavacharya's mastery of the important portions of the great epic is remarkable and the power of impressive presentation is as remarkable as his memory. He threw additional and valuable light on the much-debated episode about Vali vadam and Vibhishana Saranagathi.** The chair-man complimented the lecturer on his **excellent performance and the public service** done by him by giving a clear presentation of Ramayana, and on behalf of the public **presented** the lecturer with **a gold medal** with the figure of Lakshmi embossed on it, which was the gift of the Association.
-
-
 
 **“THE MADRAS MAIL.”        Dated 14-4-1937.  
                           (Bangalore, 13-4-1937.)**
@@ -1985,8 +1930,6 @@ Mr. T. Srinivasa Raghavacharya of Chittoor delivered during the months of June a
      The social and political organisation of ancient India as revealed in Valmiki's verses, the benevo-lent autocracy known as Rama Rajyam and the principles of government in ancient India were also expounded.  
   Concluding this evening's discourse, Mr. Acharya said, the Government of Ayodhya with Sri Rama's Padhuka (sandals) as the emblem of sovereignty, was the most unique recorded in the world's history.
 
-
-
 **       SIR S. VARADACHARI.           NEW DELHI,  
                                    
  8-3-1940.**
@@ -1997,8 +1940,6 @@ Mr. T. Srinivasa Raghavacharya of Chittoor delivered during the months of June a
    May Sri Ramachandra, in His Grace, bless. Mr. Acharya is the humble prayer of.  
                                    
    S. VARADACHARI.
-
-
 
 **V. V. SRINIVASA AYYANGAR, BA. B.L. MA DRAS.  **
 
@@ -2013,8 +1954,6 @@ Mr. T. Srinivasa Raghavacharya of Chittoor delivered during the months of June a
 **                                  
    V. V. SRINIVASAN.**
 
-
-
    
 
 **The Hon'ble Mr. Justice                       
@@ -2022,75 +1961,50 @@ Mr. T. Srinivasa Raghavacharya of Chittoor delivered during the months of June a
   K. S. KRISHNASWAMI IYENGAR                    
   Dated 18th July 1939.**
 
-   
-
 It has not been my good fortune to have had many opportunities of listening to Mr. T. Srinivasa Raghavacharya's discourses on Ramayana. But the few that I have had, have been enough to impress me that Mr. Srinivasa Raghavacharya possesses a**rare combination of knowledge and skill** in handling his subject, not often met with even amongst the professional exponents. **His method of exposition is specially attractive and impressive** and makes a strong appeal to modern minds. He has a **profounded knowledge of traditional interpretations,** but what is noteworthy is that he is able to bring to bear on his discourses a **freshness of outlook,** and an **attractiveness of manner rarely met with** even amongst the professional exponents. One wishes that there were many more of his type to interpret our ancient culture.  
 
-                           
-
 **K. S. KRISHNASWAMI IYENGAR.**
-
-
 
 **K. S. RAMASWAMI SASTRI,            CUDDAPAH,  
 DT. & SESSIONS JUDGE.              9-3-1932.**
 
- 
-
  M. R. Ry.,T. Srinivasa Raghavacharya delivered a series of lectures a few days ago here on the Ramayana. His exposition is characterised by an almost uncanny memory, a rare power of bringing out the beauty of sentiments and ideas in Valmiki's inspired poesy, and an admirable ability to supplement Valmiki's thoughts by Kamban's equally sublime poetry. His frequent flashes of humour and irony increase the effect of his delineation of moral and spiritual truths' Mr. Acharya is a great Ramabhakta, a master of the Ramayana and an able lecturer. We were all very much attracted by his learned and lovely presentation of the truths and sentiments contained  
 in Valmiki and Kamban. He is yet young and in the height of his powers. I shall be glad to watch his career of social and spiritual service of his country and his community.  
 
-
 K. S. RAMASWAMI SASTRI,  
 Dt. & Sessions Judge.
-
-
 
 **PROF. K. RAMANUJACHARIAR,                      
 KRISHNA BAVANAM,  
 (RETD.) OF PACHAIYAPPA'S COLLEGE.            Cuddalore, N. T. 9th July 1936**
 
-
-
    I have listened with considerable pleasure and profit to Mr. T. Srinivasa Raghavacharya's exposition of select topics from the Ramayana. He has a thorough mastery of the grand Epic and is familiar with every detail. His discourses have been lucid and interesting and always held the audience spell-bounded. Not one of them would leave the hall until the Upanyasam was over. His thorough grasp of the philosophy profounded in the great Classic and his wonderful memory which makes him quote without effort are indeed remarkable and praiseworthy.
 
-                                   
         
 
 **  K. RAMANUJACHARI.**
 
-
-
 **R. S. SUBRAHMANYA AYYAR       SIVAGANGA,  
 SUB-JUDGE.                   15-4-1939.**
-
-
 
     Sri T. Srinivasa Raghavacharya gave a series of discourses on Valmiki Ramayana in connection with Sri Rama Navami, at Chingleput, in March 1939 in the Kodanda Ramaswami temple.
 
   He has a facile and charming method of exposition. The presentation of the story with its settings is simply facinating. It is not the usual pandit style that beats along trodden paths, that refuses to take note of the necessity for a change in social life with the changing of times, and that falls flat upon a discriminating audience. While dealing with particular incidents in the story, he is able to visualise and present them to the audience with a broad outlook, that pictures to us the past. the immediate present, and the possible future of the Hindu society. For doing this, he draws upon immense resources, such as the sentiments ex-pressed in the Ramayana of Kambar and the sayings of Sankara and the Alwars. Here and there, he punctuates the discourses with bits of humour or irony (natural and not artificial), which go to set the story in better and finer relief.
 
      May he live long and continue to render to the Hindu society the service which he has taken upon himself of social and spiritual regeneration.  
-                                  
 
 **R. S. SUBRAMANYAN.**
-
-
 
 **PROF. K. SUNDARARAMA AIYAR, M. A..                 
     CUDDAPAH  
   (OF KUMBAKONAM.)                         
              4-4-32.**  
 
-
       
 
 In connection with this year's Sri Rama Navami celebration by the local Sri Ramakrishna Samaj, Brahma Sri T. Srinivasa Raghavacharya has been giving an exposition of almost all the chief and significant events in the life of Sri Rama during the last 10 evenings. I have attended all of them with immense pleasure and profit. His reasoned and eloquent expositions have been followed throughout with undiminished interest by all who formed his audience. His knowledge of the great Maharshi's epic is profound, and his numerous and ready quotations were relevant to his exposition of all his chosen themes. Finally, his manner of delivery was effective and clear to a degree rarely to be met with now-a-days and I am glad to be able to say that I fully believe that his explanations and exposition must have a spiritual value for all who care to enter into them with a genuine and sympathetic desire to derive practical and immediate benefit to themselves.  
 
-
                                 **K. SUNDARARAMAN.**
-
-
 
 **C. N. KUPPUSWAMI AYYAR.            NEGAPATAM.  **  
 
@@ -2098,19 +2012,11 @@ In connection with this year's Sri Rama Navami celebration by the local Sri Rama
         4th March 1938,  
 DISTRICT & SESSIONS JUDGE.**
 
-
-
    I had the delight of attending the series of lectures delivered at Nagapatam by Sri Ubha. Ve. T. Srinivasa Raghavacharya of Chittoor covering the entire Srimad Ramayana. His lucid style and mastery of the language, his clear exposition of the 'Thath-warthas' and the 'Goodarthas' of various important passages in the text revealed his extraordinary mastery over the subject. His delineation of the mighty Epic as an exposition of the Great Dharma of 'Saranagathi' was not only interesting but very instructive. The large and varied audience of men, ladies and boys who thronged to hear his lectures and waited till the end each day disclosed how popular and lucid his discourses were. He combines in himself the ancient Pundit and the modern critic, and his quotations from other great works in support of the ideas dealt with in the Ramayana disclosed his wide learning. It is such expositions that appeal to modern India and I am glad he is rendering a very useful and necessary service to the community.
 
-
                                    
-    
-
-
 
 C. N. KUPPUSAMI AYYAR.
-
-
 
 **DR. M. KRISHNAMACHARYA,               CHINGLEPUT,**  
 
@@ -2119,12 +2025,8 @@ C. N. KUPPUSAMI AYYAR.
 **                     1-4-1939.  
 DISTRICT & SESSIONS JUDGE.**  
 
-
-
 **To  
    SRI. T. SRINIVASA RAGHAVACHARYA,**
-
-
 
 Dear Sir,  
      It was indeed very kind of you to have spent a week with us to the deteriment of your professional work, **a selfless task for the benefit of a man and man's soul.**
@@ -2136,29 +2038,19 @@ Dear Sir,
 Yours sincerely,  
 **M. KRISHNAMACHARYA.**
 
-
-
 Brahmasri  
 T. SRINIVASA RAGHAVACHARYA, AVARGAL,  
 OF CHITTOOR.
 
-
-
    We, the Public of Negapatam, pay our tribute of praise and admiration to your beautiful and inimitable exposition of the Great Epic Ramayanam.   You have, Sir, in so short a period, indelibly impressed on us the essential truths by your comprehensive and masterly survey of the subject, and your wide study of Sanskrit, Tamil and English has easily earned for you the name of Thribasha Praveena.  
   In token of our humble appreciation of your fine interpretation of Ramayanam, we beg to present this address on the Pattabhisekam day.  
 
-
 **(Negapatnam, 4-3-1938.)**           **THE PUBLIC OF NEGAPATAM.**  
-
-
-
 
 श्रीः
 
 Mahamahopadyaya                 TIRUPATI  
 Kapistalam Desikacharya              20-3-1936
-
-
 
 **श्रीमद्वेदान्तदेशिक संप्रदायसुधास्वादिनी सभा ।**
 
@@ -2171,8 +2063,6 @@ Kapistalam Desikacharya              20-3-1936
 **क. देशिकाचार्यः  
 महामहोपाध्यायः- श्रीरामानुजसिद्धान्तविजयध्वजः  
 (अध्यक्षः)**
-
-
 
 ***FOR SALE.***
 
@@ -2195,8 +2085,5 @@ Some Episodes from Valmiki
 **Apply to**  
 **T. SRINIVASA RAGHAVACHARYA,  
 135, Brahmin St, CHITTOOR.**
-
-
-
 
 \]

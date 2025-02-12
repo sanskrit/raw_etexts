@@ -14,13 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 \[
 
-
-
-
-
 [TABLE]
-
-
 
 **ಪೀಠಿಕೆ**  
 
@@ -50,12 +44,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
  ಇದನ್ನು ಶೋಧಿಸುವುದಕ್ಕೆ ಶ್ರೀ ಪರಕಾಲ ಸ್ವಾಮಿ ಸನ್ನಿಧಿಯ ಗ್ರಂಥಾಕ್ಷರದ ಶುದ್ಧ ಪ್ರತಿಯೊಂದೂ, ಶ್ರೀ ಮೇಲ್ಕೋಟೆ ಯತಿರಾಜ ಸ್ವಾಮಿಗಳ ಸನ್ನಿಧಿಯ ಗ್ರಂಥಾಕ್ಷರದ ಶುದ್ಧವಾದ ಎರಡು ಪ್ರತಿಗಳೂ ಅನುಗ್ರಹಿಸಲ್ಪಟ್ಟವು. ಆದುದರಿಂದ ಆ ಸನ್ನಿಧಿಗಳಿಗೆ ಅನಂತ ಧನ್ಯವಾದಗಳು ಸಮರ್ಪಿಸಲ್ಪಡುತ್ತವೆ. ವಿಸ್ತರವು ಮುಂದಿರುತ್ತದೆ. ಇಂತು,
 
-
-
 ಸಜ್ಜನ ವಿಧೇಯಃ,  
 ಲಕ್ಷ್ಮೀಪುರಂ ಶ್ರೀನಿವಾಸಾಚಾರ್ಯಃ
-
-
 
 विषयसूची
 
@@ -63,15 +53,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 ॥श्रीः॥
 
@@ -210,8 +194,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 इति श्रीपञ्चरात्रे शेषसंहिताया प्रथमोध्यायः
 
 **––––––**
-
-
 
 **मन्त्राणां विशेषाः**
 
@@ -515,7 +497,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 आकारस्य ऋषिर्धाता बृहती छन्द उच्यते ।  
 देवता श्रीर्महालक्ष्मीः श्रीं बीजं शक्तिः ह्रीं ततः ॥  
-
 
 ईं कीलकं ऊं कवचं रक्तवर्णोथ षट्स्वरैः ॥
 
@@ -4669,8 +4650,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 **इति शेषसंहितायां चतुर्विंशोध्यायः**
 
-
-
 **वामनबीजम्**
 
 **शेषः—**
@@ -5090,8 +5069,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 **इति शेषसंहितायां अष्टाविशोध्यायः.  
 ![](../books_images/U-IMG-1708431150Screenshot2024-02-19135503.png)**
 
-
-
 **हनुमद्बीजम्.**
 
 **शेषः—**
@@ -5126,7 +5103,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 शङ्खचक्रधरं सौम्यं अमृताभयधारिणम्।  
 मुक्ताभरणभूषाङ्गं भजे अन्नाधिपं हरिम् ॥  
-
 
 **कार्तवीर्यबजिम्.**
 
@@ -6136,7 +6112,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 तद्बहिः पौरुषं सूक्तं श्रीभूसूक्ते तथाऽब्जज।  
 क्रमेण विलिखेन्मन्त्री तद्बहिः परितो लिखेत् ॥  
 
-
 ककारादिक्षकारान्तं हंसहंसेत्यनन्तरम् ॥
 
 रक्ष रक्षेति संयोज्य साध्यं कर्म सदर्हितम्।  
@@ -6479,7 +6454,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 मुद्रापुस्तकशङ्खचक्रविधृतश्रीमद्भुजामण्डलं  
 निर्यन्निर्मलभारतीपरिमलं विश्वेशमश्वाननम् ॥  
 
-
 **अङ्गारकमन्त्रः**
 
 पर्यायेण तथा वक्ष्ये अङ्गारकमनुर्यथा।  
@@ -6541,8 +6515,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 द्रविणं देहि नेत्रयोः चित्रमस्त्रे न्यसेत्तथा ॥
 
 व्याप्यं तद्व्यापकं चैव तन्मन्त्रेण न्यसेद्गुरुः।
-
-
 
 शङ्खचक्रधरं देवं बृहस्पतिहृदि स्थितम्॥  
 हयग्रीवं विभुं सौम्यं भजे विद्याधिदैवतम्।**     **
@@ -6748,7 +6720,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 इति शेषसंहितायां द्विचत्वारिंशोध्यायः.
 
 *          *   
-               
 
 **हयग्रीवाङ्गाङ्गमन्त्रः,**
 
@@ -7569,7 +7540,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 इति शेषसंहितायां सप्तपञ्चाशोध्यायः
 
 *       *  
-                    
 
 मारगोपालमन्त्रस्य अङ्गाङ्गानि यथातथम्।  
 वक्ष्ये तन्मन्त्रसिद्ध्यर्थं जपेत्पूर्वोक्तसंख्यया॥
@@ -7970,14 +7940,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNTUyNzQ3MDM
 
 इति शेषसंहितायां चतुष्षष्टितमोऽध्याय.
 
-
-
 इति श्रीमति भगवच्छास्त्रे पाञ्चरात्राभिधाने सर्वसंहिता-
 
 सारभूता शेषसंहिता समाप्ता॥
 
 श्रीवासुदेवार्पणमस्तु.  
 *         *
-
 
 \]

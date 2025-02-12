@@ -17,25 +17,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMzc0Mjc3MjE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 [TABLE]
 
@@ -47,13 +31,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMzc0Mjc3MjE
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
 
 ** श्रीरामजयम्**
 
@@ -77,8 +55,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDczMzc0Mjc3MjE
 [^2]: " वेदान्त देशिकं ।"
 
 ----------------------------------------------------------------------
-
-
 
 **॥ बालकाण्डम्॥**
 
@@ -134,8 +110,6 @@ Fate is more powerful than human prowess Everything in the world is preordained.
 The eldest-born is generally the pet of the father and the youngest of the mother.
 
 -----------------------------------------
-
-
 
 **॥ अयोध्याकाण्डम्॥**
 
@@ -480,8 +454,6 @@ He who attracted by the deceptive appearance of a Palasa flower, destroys a frui
 **८१. अविज्ञाय फलं यो हि कर्मत्वेवानुधावति।**  
 **   स शोचेत्फलवेलायां यथा किंशुकसेचकः॥ (63—9)**
 
-
-
 One who does not realise the consequences of one's own action will repent it at the time of fruit bearing, even as he who plants the palasa.
 
 **८२. नाराजके जनपदे विद्यन्माली महास्वनः।**  
@@ -526,7 +498,6 @@ In a kingless land, the expert story-tellers do not delight the eager and gather
 
 **९०. नाराजके जनपदे उद्यानानि समागताः।  
    सायाह्ने क्रीडितुं यान्ति कुमार्यो हैमभूषिताः॥(67—17)**
-
 
 In a kingless land, we do not behold bevies of girls decked in gold going in batches to pleasure groves to play in the evenings.
 
@@ -930,19 +901,11 @@ The husband is the God for a worthy wife be he a wreck, or be he sensuous or dev
 
 For a woman there is no penance greater than devotion to her husband.
 
-
-
 ![](../../../books_images/1684312784.png)
-
-
 
 ![](../../../books_images/1684312860.png)
 
-
-
 **॥ आरण्यकाण्डम् ॥**
-
-
 
 **१६७. अधर्मस्तु महांस्तात भवेत्तस्य महीपतेः।**  
 **     यो हरेद्बलिषड्भागं न च रक्षति पुत्रवत्॥ (6—11)**
@@ -1026,8 +989,6 @@ A sinner cannot escape the consequenses of his sins at the appointed time, even 
 
 Truly great men of prowess and valour do not make a vain boast of their capacity.
 
-
-
 एतवत्पर्यन्तम् Review & alignment अभवत् ( Page No.४४)
 
 **१८३.** **सक्तं ग्राम्येषु भोगेषु कामवृत्तं महीपतिम् ।  
@@ -1068,8 +1029,6 @@ A king who thinks too much of himself, who is evasive, self-conceited and ever i
 **१९०. नानुतिष्ठति कार्याणि भयेषु न विभेति च ।  
  क्षिप्रं राज्याच्च्युतो दीनस्तृणैस्तुल्यो भविष्यति ॥** **(33—17)**
 
-
-
 A king, who fails to attend to his duties when there is fear and danger, and is foolhardy, is deposed in the end and he is comparable only to worthless grass.
 
 **१९१. शुष्कैः काष्ठैर्भवेत्कार्यं लोष्टैरपि च पांसुभिः।**
@@ -1088,7 +1047,6 @@ A deposed king though capable, is as useless as a cast-off garment or used garla
 **कृतज्ञो धर्मशीलश्च स राजा तिष्ठते चिरम् ॥** **(33—20**)
 
 That king alone who is discreet, erudite, self-controlled, grateful and who obeys the divine law, can rule his kingdom long.
-
 
 **१९४.** **नयनाभ्यां प्रसुप्तोऽपि जागर्ति नयचक्षुषा ।**
 
@@ -1121,7 +1079,6 @@ Be ever content with thy wedded wife.
 **परेषामपराधेन विनष्टाः सपरिच्छदाः॥(39—20) **
 
 Many virtuous persons perish with their families for the sinful acts of others, merely because of their association with those sinners.
-
 
 **२००.** **वाक्यमप्रतिकूलं तु मृदुपूर्वं हितं शुभम् ।**
 
@@ -1167,13 +1124,11 @@ If a king stoops to sin, his subjects will also perish with him, losing all happ
 
 Righteousness and victory depend upon the ruler. So in spite of all odds, it is obligatory (on the part of the minister), to see always that the king does not swerve from the path of virtue.
 
-
 **२०७. राज्यं पालयितुं शक्यं न तीक्ष्णेन (निशाचर )।**
 
 **न चापि प्रतिकूलेन नाविनीतेन (राक्षस)॥**(41—11)
 
 A king who is proud and tyrannical, and rules against the interests of his subjects, cannot rule his kingdom long.
-
 
 **२०८.** **ये तीक्ष्णमन्त्रास्सचिवा भज्यन्ते सह तेन वै ।**
 
@@ -1198,7 +1153,6 @@ The unfortunate whose end is near will not heed the advice of well-meaning frien
 **तमर्थमर्थशास्त्रज्ञाः प्राहुरर्थ्याश्च (लक्ष्मण)॥**(43—33)
 
 The economists define 'Artha' as the material gain thoughtlessly sought after by persons attracted by fascinations.
-
 
 **२१२.** **स्वभावस्त्वेष नारीणामेवं लोकेषु दृश्यते ।**
 
@@ -1256,7 +1210,6 @@ Omens, auguries and the cries of birds, foreshadow the coming events of the weal
 
 All those who are nearing their ends turn a deaf ear to all good counsels.
 
-
 **२२२. उत्साहवन्तो हि नरा न लोके**
 
 **सीदन्ति कर्मस्वतिदुष्करेषु ॥**(63—19)
@@ -1283,24 +1236,13 @@ Persons are not aware of the acts done by them in their previous births; they ca
 
 Great and valourous souls who tread the path of the virtuous, and who are ever ready to help the weak, are found all over even in the animal kingdom.
 
-
-
 ![](../../../books_images/1684323016.png)
 
-
-
-
-
 ![](../../../books_images/1684323130.png)
-
-
-
-
 
 **॥ किष्किन्धाकाण्डम् ॥**
 
 ![](../../../books_images/1684323204.png)
-
 
 **२२७.** **स्मृत्वा वियोगजं दुःखं त्यज स्नेहं प्रियेजने ।  
 अतिस्नेहपरिष्वङ्गाद्वर्तिरार्द्रापि दह्यते ॥**(1—115)
@@ -1320,7 +1262,6 @@ Zeal is a potential power and nothing is more powerful than that. There is nothi
 विमृशन्वैस्वया बुध्या धृतिमान्नावसीदति ॥**(7—9)
 
 A courageous man is not at all perturbed even in times of distress, loss or fear or even when he is to lose his life. He will always be level-headed by reasoned aid.
-
 
 **२३१.** **बालिशस्तु नरो नित्यं वैक्लब्यं योऽनुवर्तते ।  
 स मज्जत्यवशः शोके भाराक्रान्तेव नौर्जले॥**(7—10)
@@ -1361,7 +1302,6 @@ In times of prosperity or adversity a friend is always the sole resort.
 He is indeed to be classified as a slayer of an unborn child in the womb, who kills a drunken man, a lunatic, one who is sleeping, or one who is defenceless.
 
 **२३९.** **दत्ताभयवधो नाम पातकं महदुच्यते ।**(12—35)
-
 
 The slaughter of a friend given protection is a most heinous crime.
 
@@ -1419,7 +1359,6 @@ The laws of Dharma are inconceivable and transcend the human power of imaginatio
 प्रचरेत नरः कामात्तस्य दण्डो वधः स्मृतः॥**(18—23)
 
 Seduction of a daughter, uterine sister, or a brother's wife with criminal intentions is punishable only with death.
-
 
 **२५१.** **राजभिर्धृतदण्डास्तु कृत्वा पापानि मानवाः।  
 निर्मलाः स्वर्गमायान्ति सन्तः सुकृतिनो यथा ॥**
@@ -1605,8 +1544,6 @@ One should never be disheartened. Despair eventually leads to miseries and kills
 
 ![](../../../books_images/1684470883.png)
 
-
-
 **॥ सुन्दरकाण्डम् ॥**
 
 **--------------**
@@ -1615,13 +1552,9 @@ One should never be disheartened. Despair eventually leads to miseries and kills
 
 Great men become indignant when an act that ought to be done is not done.
 
-
-
 **२८८. अतिथिः किल पूजार्ह : प्राकृतोऽपि विजानता ॥**(1-118)
 
 The wise honour their guests even though they are of the common folk.
-
-
 
 **२८९. भूताश्चार्था विपद्यन्ते देशकालविरोधिताः। **
 
@@ -1629,15 +1562,11 @@ The wise honour their guests even though they are of the common folk.
 
 Matters of whose fruitful results one is sure, fail to fructify if they are entrusted to a tactless ambassador who acts contrary to the needs of time and place, even as darkness is dispelled by sunrise.
 
-
-
 **२९०. अर्थानर्थान्तरे बुद्धिर्निश्चितापि न शोभते।**
 
 **घातयन्ति हि कार्याणि दूताः पण्डितमानिनः॥**(2-40)
 
 An ambassador who thinks too much of his capacity and intelligence brings ruin to his master by mishandling even simple affairs, and failing to adopt the course of action decided upon by the council of ministers.
-
-
 
 **२९१. मनो हि हेतुः सर्वेषामिन्द्रियाणां प्रवर्तने। **
 
@@ -1645,15 +1574,11 @@ An ambassador who thinks too much of his capacity and intelligence brings ruin t
 
 Mind is the cause for the direction of all senses leading to good and evil acts.
 
-
-
 **२९२. अनिर्वेदः श्रियो मूलमनिर्वेदः परं सुखम्। **
 
 **अनिर्वेदो हि सततं सर्वार्थेषु प्रवर्तकः॥**(12-10)
 
 Cheer leads to prosperity. Cheer is happiness. All actions done with enthusiasm lead to good results.
-
-
 
 **२९३. करोति सफलं जन्तोः कर्म यत्तत्करोति सः।**
 
@@ -1661,13 +1586,9 @@ Cheer leads to prosperity. Cheer is happiness. All actions done with enthusiasm 
 
 Whoever does anything with enthusiasm rarely fails to achieve his object.
 
-
-
 **२९४. भर्ता नाम परं नार्या भूषणं भूषणादपि।**(16-26)
 
 For women there is no ornament more valuable than their husbands.
-
-
 
 **२९५. यथा तव तथाऽन्येषां दारा रक्ष्या (निशाचर )।**
 
@@ -1675,15 +1596,11 @@ For women there is no ornament more valuable than their husbands.
 
 Honour the wives of others and protect them as you will your own. Set an example by loving your own wife.
 
-
-
 **२९६. अतुष्टं स्वेषु दारेषु चपलं चपलेन्द्रियम्। **
 
 **नयन्ति निकृतिप्रज्ञ परदाराः पराभवम्॥**(21-8)
 
 The wives of others illegally sought after by a lusty and indiscreet man discontented with his wife, hasten his downfall.
-
-
 
 **२९७. अकृतात्मानमासाद्य राजानमनये रतम्। **
 
@@ -1691,13 +1608,9 @@ The wives of others illegally sought after by a lusty and indiscreet man discont
 
 A thriving realm with all its cities will be ruined by an indiscreet monarch indulging in base pleasures.
 
-
-
 **२९८. अभिनन्दन्ति भूतानि विनाशे पापकर्मणः।**(21-13)
 
 All beings rejoice over the death of sinners.
-
-
 
 **२९९. वामः कामो मनुष्याणां यस्मिन्किल निबध्यते। **
 
@@ -1705,23 +1618,17 @@ All beings rejoice over the death of sinners.
 
 The lawless love evinced by men to women makes them bear their scorns and show friend- liness in return.
 
-
-
 **३००. अकांमां कामयानस्य शरीरमुपतप्यते।**
 
 **इच्छन्तीं कामयानस्य प्रीतिर्भवति शोभना॥**(22-42)
 
 The body emaciates when we love one who does not respond; but there is real joy when the love is heartily reciprocated.
 
-
-
 **३०१. लोकप्रवादः सत्योऽयं पण्डितैः समुदाहृतः। **
 
 **अकाले दुर्लभो मृत्युः स्त्रिया वा पुरुषस्य वा॥**(25-13)
 
 The proverbial satement of the learned in the world that Death does not approach any man or woman out of time, is only too true.
-
-
 
 **३०२. धन्याः खलु महात्मानो मुनयस्त्यक्तकिल्बिषाः।**
 
@@ -1733,15 +1640,11 @@ The proverbial satement of the learned in the world that Death does not approach
 
 Blessed and fortunate indeed are they, the great sages who had washed off their sins by their self-control and are free from likes and dislikes. They suffer not from the pangs of separation from those dear to them nor the still greater fear of those they abhor. I bow my head in reverence to those great souls who are not influenced by these.
 
-
-
 **३०३. सत्यं बतेदं प्रवदन्ति लोके**
 
 **नाकालमृत्युर्भवतीति सन्तः ॥**(28_3)
 
 It is said to be true that men of virtue do not die before the appointed hour.
-
-
 
 **३०४. कल्याणी बत गाथेयं लौकिकी प्रतिभाति मा ।**
 
@@ -1749,39 +1652,27 @@ It is said to be true that men of virtue do not die before the appointed hour.
 
 It is a nice worldly proverb that however unfortunate a man may be, he is sure to see happy days during his life-time of a hundred years.
 
-
-
 **३०५. ऐश्वर्ये वा सुविस्तीर्णे व्यसने वा सुदारुणे। **
 
 **रज्ज्वेव पुरुषं बद्धा कृतान्तः परिकर्षति॥**(37-3)
 
 Fate does not discriminate the joyous rich and the miserable poor. It drags all alike hither and thither as if by a rope.
 
-
-
 **३०६. अव्यवस्थौ हि दृश्येते युद्धे जयपराजयौ।**(37_55)
 
 Victory or defeat in a battle does not follow a definite law.
-
-
 
 **३०७. आनृशंस्यं परो धर्मः ।**(38_41)
 
 Kindness is a supreme virtue.
 
-
-
 **३०८. न च कर्मसु सीदन्ति महत्स्वमिततेजसः।**(39_36)
 
 Great men when they undertake to do a great deed are never upset.
 
-
-
 **३०९. न हि प्रकृष्टाः प्रेष्यन्ते प्रेष्यन्ते हीतरे जनाः।**(39_39)
 
 First rate men are not sent on errands.It is only others that are entrusted with such work.
-
-
 
 **6 ३१०. न साम रक्षःसु गुणाय कल्पते**
 
@@ -1793,15 +1684,11 @@ First rate men are not sent on errands.It is only others that are entrusted with
 
 Peaceful methods of persuasion are of no avail in the case of Rakshasas. Those who roll in opulence cannot be tempted by bribes The policy of divide and conquer cannot succeed in the case of the powerful. The only method that may be successfully tried under such circumstances is to resort to brute-force.
 
-
-
 **३११. कार्ये कर्मणि निर्दिष्टे यो बहुन्यपि साधयेत् ।**
 
 **पूर्वकार्याविरोधेन स कार्यं कर्तुमर्हति ॥**(41-5)
 
 He who is entrusted with an errand should do it in such a manner that it is not in conflict with the previous ones and at the same time see that it serves some future purposes also.
-
-
 
 **३१२. न ह्येकः साधको हेतुः स्वल्पस्यापीह कर्मणः।**
 
@@ -1809,19 +1696,13 @@ He who is entrusted with an errand should do it in such a manner that it is not 
 
 To achieve an object, however trifling it may be, one cannot depend on an only method. An intelligent man will find out divers ways and means of attainment.
 
-
-
 **३१३. अहिरेव ह्यहेः पादान् विजानाति न संशयः ॥**(42_9)
 
 It is only a serpent that undoubtedly knows the foot-tracks of another serpent.
 
-
-
 **३१४. युद्धसिद्धिर्हि चञ्चला॥**(46-15)
 
 Victory in war is unsettled.
-
-
 
 **३१५. न तु धर्मोपसंहारमधर्मफलसंहितम्। **
 
@@ -1829,15 +1710,11 @@ Victory in war is unsettled.
 
 A man who has done both good and bad deeds cannot simultaneously reap the fruits thereof. He will enjoy for his good deeds and suffer for his sins only by turns.
 
-
-
 **३१६. धन्यस्ति पुरुषश्रेष्ठा ये बुद्धा कोपमुत्थितम्। **
 
 **निरुन्धन्ति महात्मानो दीप्तमग्निमिवाम्भसा॥**(55_4)
 
 They are the blessed who by their wisdom can control their anger even as water subdues a conflagaration.
-
-
 
 **३१७. क्रुद्धः पापं न कुर्यात्कः क्रुद्धो हन्याद्गुरूनपि।**
 
@@ -1845,15 +1722,11 @@ They are the blessed who by their wisdom can control their anger even as water s
 
 What sin will an irate man not commit? He will even murder his own preceptors and shower all kinds of abuses on the virtuous.
 
-
-
 **३१८. वाच्यावाच्यं प्रकुपितो न विजानति कर्हिचित्। **
 
 **नाकार्यमस्ति क्रुद्धस्य नावाच्यं विद्यते क्वचित्॥**(55_6)
 
 A man who loses his temper loses his power of judgment as well. He is insensible to right and wrong. He does not know at that time what he is doing or speaking.
-
-
 
 **३१९. यः समुत्पतितं क्रोधं क्षमयैव निरस्यति। **
 
@@ -1862,8 +1735,6 @@ A man who loses his temper loses his power of judgment as well. He is insensible
 Even as a serpent casts off its old skin by its effort, should a man cast off his anger by his forbearance. Then alone can he be called a man.
 
 **------------**
-
-
 
 **॥ युद्धकाण्डम् ॥**
 
@@ -1875,15 +1746,11 @@ Even as a serpent casts off its old skin by its effort, should a man cast off hi
 
 A servant entrusted by his master with some difficult task is considered to be the best among men when he executes not only the same but does something more unasked which would be benificial to his master.
 
-
-
 **३२१. नियुक्तो यः परं कार्यं न कुर्यान्नृपतेः प्रियम्। **
 
 **भृत्यो युक्ताः समर्थश्च तमाहुर्मध्यमं नरम् ॥**(1-8)
 
 A servant who, entrusted by his master to do a certain act, does it well but does nothing more to please him though he is capable of doing is considered to be an averageman.
-
-
 
 **३२२. नियुक्तो नृपतेः कार्यं न कुर्याद्यस्समाहितः।**
 
@@ -1891,15 +1758,11 @@ A servant who, entrusted by his master to do a certain act, does it well but doe
 
 A servant though capable of achieving anything does not do even his master's bidding is considered to be the worst among mankind.
 
-
-
 **३२३. निरुत्साहस्य दीनस्य शोकपर्याकुलात्मनः ।**
 
 **सर्वथा व्यवसीदन्ति व्यसनं चाधिगच्छति ॥**(2_6)
 
 A dispirited man sunk in despair and grief invariably loses all his enterprise.
-
-
 
 **३२४. पुरुषस्य हि लोकेऽस्मिन्शोकः शौर्यापकर्षणः। **
 
@@ -1907,13 +1770,9 @@ A dispirited man sunk in despair and grief invariably loses all his enterprise.
 
 A man loses his valour by his grief, and all his hopes are thwarted if he grieves over the loss or death of those he loves.
 
-
-
 **३२५. शोकश्च किल कालेन गच्छता ह्यपगच्छति ।**(5-4)
 
 Grief will disappear by the eflux of time.
-
-
 
 **३२६. सहितो मन्त्रयित्वा यः कर्मारम्भान्प्रवर्तयेत्।**
 
@@ -1921,15 +1780,11 @@ Grief will disappear by the eflux of time.
 
 He ranks first among men who commences to do an act after mature del ration with his friends and relations and relies on Provi. dence for his success.
 
-
-
 **३२७. एकोऽर्थं विमृशेदेको धर्मे प्रकुरुते मनः। **
 
 **एकः कार्याणि कुरुते तमाहुर्मध्यमं नरम्॥**(6-9)
 
 He who is wholly self-reliant and begins to do an act carefully weighing the pros and cons, is a second rate man.
-
-
 
 **३२८. गुणदोषावनिश्चित्य त्यक्ता धर्मव्यपाश्रयम् ।**
 
@@ -1937,15 +1792,11 @@ He who is wholly self-reliant and begins to do an act carefully weighing the pro
 
 He who recklessly begins to do an act without any forethought defying fate, nor takes wise counsels is the worst among man- kind.
 
-
-
 **३२९. ऐकमत्यंमुपागम्य शास्त्रदृष्टेन चक्षुषा।**
 
 **मन्त्रिणो यत्र निरतास्तमाहुर्मन्त्रमुत्तमम्॥**(6-12)
 
 The decision unanimously arrived at by the ministers in consonance with the Laws of Dharma is deemed to be the very best.
-
-
 
 **३३०. बह्वोऽपि मतयो भूत्वा मन्त्रिणामर्थनिर्णये।**
 
@@ -1953,15 +1804,11 @@ The decision unanimously arrived at by the ministers in consonance with the Laws
 
 The decision unanimously arrived at by the ministers but with great difficulty and after a heated controversy falls under the category of 'Second class'.
 
-
-
 **३३१. अन्योन्यं मतिमास्थाय यत्र संप्रतिभाष्यते ।**
 
 **न चैकमत्ये श्रेयोऽस्ति मन्त्रः सोऽधम उच्यते ॥**(6-14)
 
 The decision where there is no unanimity of opinion among the councillors even after a stormy debate and which is not condusive to the prosperity of the state is the worst that can be imagined.
-
-
 
 **३३२.अप्युपायैस्त्रिभिस्तात योऽर्थः प्राप्तुं न शक्यते।**
 
@@ -1969,21 +1816,15 @@ The decision where there is no unanimity of opinion among the councillors even a
 
 The learned say that the proper moment to achieve an object by phyeical force comes only after we fail to achieve it by the three lawful methods, (viz., pacification, gift and alienation).
 
-
-
 **३३३. प्रमत्तेष्वभियुक्तेषु दैवेन प्रहृतेषु च ।**
 
 **विक्रमास्तात सिध्यन्ति परीक्ष्य विधिना कृताः ॥**(9-9)
 
 Physical force at times succeeds by chance only against the callous, those who are too good to offer resistence, as well as those stricken with misfortune.
 
-
-
 **३३४. अवश्यं प्राणिनां प्राणा रक्षितव्या यथाबलम् ।**(9-14)
 
 It behoves every one to protect the lives of others as much as lies in his power.
-
-
 
 **३३५. अयशस्यमनायुष्यं परदाराभिमर्शनम् ।**
 
@@ -1991,15 +1832,11 @@ It behoves every one to protect the lives of others as much as lies in his power
 
 Adultery with a wedded woman not only shortens one's life and brings on shame and ruin but also leads one to the committal of fresh crimes.
 
-
-
 **३३६. न्यायेन राजकार्याणि यः करोति ( दशानन) ।**
 
 **न स संतप्यते पश्चानिश्चितार्थमतिर्नृपः ॥**(12_30)
 
 A king who does his duty with a judicial frame of mind is sure of success and never repents afterwards.
-
-
 
 **३३७.अनुपायेन कर्माणि विपरीतानि यानि च ।**
 
@@ -2007,15 +1844,11 @@ A king who does his duty with a judicial frame of mind is sure of success and ne
 
 Thoughtless and indiscreet actions result n failure and are often fraught with danger even as the sacrificial offerings kept in polluted vessels.
 
-
-
 **३३८. यः पश्चात्पूर्वकार्याणि कर्माण्यभिचिकीर्षति ।**
 
 **पूर्वं चापरकार्याणि न स वेद नयानयौ॥**(12-32)
 
 He is indeed fool-hardy who tboughtlessly acts at first and then considers over the pros and cons of his actions.
-
-
 
 **३३९. चपलस्य तु कृत्येषु प्रसमीक्ष्याधिकं बलम्।**
 
@@ -2023,15 +1856,11 @@ He is indeed fool-hardy who tboughtlessly acts at first and then considers over 
 
 The fickle-minded however strong they may be are easily conquerred by their opponents, even as the swans cross the inaccessible Krouncha Mountains by making a hole in their crevices.
 
-
-
 **३४०.यः खल्वपि वनं प्राप्य मृगव्यालसमाकुलम्।**
 
 **न पिवेन्मधु संप्राप्तं स नरो बालिशो भवेत्॥**(13-2)
 
 He who, after going to a forest frequented by the wild beasts does not drink the honey available at hand is fool-hardy.
-
-
 
 **३४१. परस्य वीर्यं स्वबलं च बुध्वा**
 
@@ -2043,15 +1872,11 @@ He who, after going to a forest frequented by the wild beasts does not drink the
 
 A minister interested in the welfare of his king should weigh the relative strength of the king and his adversary and having found out by mature deliberation the equality, inferiority or superiority of the enemy's strength, take stock of his own position and advise the king accordingly to act upon.
 
-
-
 **३४२. वसेत्सह सपत्नेन क्रुद्धेनाशीविषेण वा।**
 
 **तु मित्रवादेन संवसेच्छत्रुसेविना॥**(18-2)
 
 One can live with a sworn enemy or a ferocious venomous cobra but not with one with friendly pretensions serving the foe behind the screen.
-
-
 
 **३४३. जानामि शीलं ज्ञातीनां सर्वलोकेषु (राक्षस)। **
 
@@ -2059,15 +1884,11 @@ One can live with a sworn enemy or a ferocious venomous cobra but not with one w
 
 It is the charecteristic of kinsmen all the worlds over that they ever rejoice at the fall of their own kinsmen.
 
-
-
 **३४४. प्रधानं साधनं वैद्यं धर्मशीलं च (राक्षस) ।**
 
 **   ज्ञातयो ह्यवमन्यन्ते शूरं परिभवन्ति च ॥**(16-4)
 
 It is the charecteristic of kinsmen to slander their own chieftain, the brave, the learned and the noble and also humiliate the chivalrous among them.
-
-
 
 **३४५. नित्यमन्योन्यसंहृष्टाः व्यसनेष्वाततायिनः ।**
 
@@ -2075,13 +1896,9 @@ It is the charecteristic of kinsmen to slander their own chieftain, the brave, t
 
 Kinsmen always pretend to be friendly with a cruel and treacherous heart within. In times of trial they shine in their true colours and cut each other's throat.
 
-
-
 **३४६. कृत्स्नाद्भयं ज्ञातिभयं सुकष्टं विदितं च नः ॥**(16\_\_8)
 
 It is well-known that of all the fears, those are the worst that emanate from the kinsmen.
-
-
 
 **३४७. विद्यते गोषु संपन्नं विद्यते ब्राह्मणे दमः ।**
 
@@ -2089,15 +1906,11 @@ It is well-known that of all the fears, those are the worst that emanate from th
 
 The flow of fortune from cows, self-control among brahmins, fickleness in women, and fear in kinsmen, may be seen all over.
 
-
-
 **३४८. यथा पुष्करपर्णेषु पतितास्तोय बिन्दवः ।**
 
 **न श्लेषमुपगच्छन्ति तथाऽनार्येषु संगतम् ॥**(16-11)
 
 Friendship with the unworthy cannot be deep-rooted, even as waterdrops do not stick on to a water-fed lotus leaf.
-
-
 
 **३४९. यथा मधुकरस्तर्षाद्रस विन्दन्न विद्यते । **
 
@@ -2105,15 +1918,11 @@ Friendship with the unworthy cannot be deep-rooted, even as waterdrops do not st
 
 Friendship with the ungrateful does not last a minute even as a drone deserts the flower after extracting the honey therefrom.
 
-
-
 **३५०. यथा पूर्वं गजः स्नात्वा गृह्यहस्तेन वै रजः।**
 
 **दूषयत्यात्मनो देहं तथाऽनार्येषु सौहृदम्॥**(16\_\_13)
 
 Friendship with an unbecoming man willbe courting one's own disaster even as an elephant throwing dust on its own head after a clean bath.
-
-
 
 **३५१. यथा शरदि मेघानां सिञ्चतामपि गर्जताम्। **
 
@@ -2121,15 +1930,11 @@ Friendship with an unbecoming man willbe courting one's own disaster even as an 
 
 Friendship with the unrighteous will not bear good fruit, even as a summer thunderbolt does not bring on a drop of rain from the heavens.
 
-
-
 **३५२. बद्धं कालस्य पाशेन सर्वभूतापहारिणा ।**
 
 **न नश्यन्तमुपेक्षेयं प्रदीप्तं शरणं यथा ॥**(18-21)
 
 Although one is under the grip of the almighty Fate the annihilater of all the created beings, and is nearing one's end. one should not be neglected by others even as we ought not to be silently watching a house in flames.
-
-
 
 **३५३. शूराव बलवन्तश्च कृतास्त्राश्च रणाजिरे । **
 
@@ -2137,15 +1942,11 @@ Although one is under the grip of the almighty Fate the annihilater of all the c
 
 Even the strong and the chivalrous and the heroes of the battlefields come to grief when their stars are in the descendent even as causeways of sand (give way to torrents).
 
-
-
 **३५४. मित्राटवीबलं चैव मौलं भृत्यबलं तथा।**
 
 **सर्वमेतद्वलं ग्राह्यं वर्जयित्वा द्विषद्धलम्॥**(17-22)
 
 One can count upon the support of friends, the tribesmen of the jungles, military reserves and even hirelings, but should scrupulously avoid the proffered help of an enemy.
-
-
 
 **३५५. सुहृदा ह्यर्थकृच्छ्रेषु युक्तं बुद्धिमता सता। **
 
@@ -2153,15 +1954,11 @@ One can count upon the support of friends, the tribesmen of the jungles, militar
 
 One should not be wholly guided by the advice of a single friend, good and intelligent though he may be. The advice of other interested friends should also be taken into account in times of stress.
 
-
-
 **३५६. छादयित्वाऽऽत्मभावं हि चरन्ति शठबुद्धयः।**
 
 **प्रहरन्ति च रन्ध्रेषु सोऽनर्थः सुमहान्भवेत्॥**(17_38)
 
 (In times of war) there are deceitful spies roaming about under the guise of guileless persons, watching for the loop-holes of the enemy to enter and cause havoc. This is fraught with grave danger.
-
-
 
 **३५७ अर्थानर्थौ विनिश्चित्य व्यवसायं भजेत है। **
 
@@ -2169,15 +1966,11 @@ One should not be wholly guided by the advice of a single friend, good and intel
 
 The good and bad aspects of a proposition should be carefully discussed before action is taken thereon. If there is a prospect of anything good resulting therefrom, action might be taken. Else it should be abandoned.
 
-
-
 **३५८. ऋते नियोगात्सामर्थ्यमवबोद्धुं न शक्यते।**
 
 **सहसा विनियोगो हि दोषवान्प्रतिभाति मा॥**(17_52)
 
 One's capacity cannot be understood without giving one an opportunity to display one's talents; but one cannot be entrusted with anything without previous credentials. (These two are inter-dependant and hence impractic-able).
-
-
 
 **३५९. अशक्यस्सहसा (राजन्) भावो वेत्तुं परस्य वै।**
 
@@ -2185,15 +1978,11 @@ One's capacity cannot be understood without giving one an opportunity to display
 
 It is impossible to fathom the depths of other's hearts. Clever and intelligent questions can only elicit clever and intelligent answers but not with any approach to truth.
 
-
-
 **३६०. अशङ्कितमतिः स्वस्थो न शठः परिसर्पति ।**
 
 **न चास्य दुष्टा वाक्चापि तस्मान्नास्तीह संशयः ॥**(17_60)
 
 A guilty man cannot freely roam about without fear of detection.
-
-
 
 **३६१. आकारच्छाद्यमानोऽपि न शक्यो विनिगूहितुम् । **
 
@@ -2201,15 +1990,11 @@ A guilty man cannot freely roam about without fear of detection.
 
 However much a man may put on airs to screen his bad intentions, his physiognomy will betray him and he will shine in his true colours.
 
-
-
 **३६२. अपापास्तत्कुलीनाश्च मानयन्ति स्वकान्हितान् । **
 
 **एष प्रायो नरेन्द्राणां शङ्कनीयस्तु शोभनः ॥**(18-11)
 
 Benevolent advice given by well-wishers is taken by the good and their clan; but kings generally view such advice with suspicion.
-
-
 
 **३६३. बद्धाञ्जलिपुटं दीनं याचन्तं शरणागतम्। **
 
@@ -2217,15 +2002,11 @@ Benevolent advice given by well-wishers is taken by the good and their clan; but
 
 To respect the doctrine of showing kindness to the suppliant, even a foe should not be slain if he seeks shelter at your doors with folded hands in a distressed condition.
 
-
-
 **३६४. आत वा यदि वा दृप्तः परेषां शरणागतः। **
 
 **अरिः प्राणान्परित्यज्य रक्षितव्यः कृतात्मना ॥**(18-28)
 
 A suppliant seeking refuge, be he a friend or a foe, should be given protection by the high-souled, even at the risk of losing his life if need be.
-
-
 
 **३६५. प्रशमव क्षमा चैव आर्जवं प्रियवादिता। **
 
@@ -2233,15 +2014,11 @@ A suppliant seeking refuge, be he a friend or a foe, should be given protection 
 
 Tranquility, patience, straightforwardness, pleasing conversation - these qualities, noble though they may be, are considered as defects by ignoble persons.
 
-
-
 **३६६. आत्मप्रशंसिनं दुष्टं धृष्टं विपरिधावकम्। **
 
 **सर्वत्रोत्सृष्टदण्डं च लोकः सत्कुरुते नरम्॥**(21-19)
 
 One who extols oneself, a cheat, a merciless man, one who goes to all and sundry, one who shows indiscriminate leniency to all all these are highly popular among the common folk.
-
-
 
 **३६७. दण्ड एव वरो लोके पुरुषस्येति मे मतिः ।**
 
@@ -2249,13 +2026,9 @@ One who extols oneself, a cheat, a merciless man, one who goes to all and sundry
 
 Toleration, pacification and gift are of no avail in dealing with the ungrateful persons. Deterrant punishment alone will bring them to their heels.
 
-
-
 **३६८. प्रथमं मरणं नार्या भर्तुर्वैगुण्यमुच्यते ॥**(32_9)
 
 It is said that a woman predeceasing her husband is blessed.
-
-
 
 **३६९. विद्यास्वभिविनीतो यो राजा राजन्नयानुगः।**
 
@@ -2263,15 +2036,11 @@ It is said that a woman predeceasing her husband is blessed.
 
 A king versed in the administrative lores who never deviates from the right, reigns long and is prosperous and brings his enemies under his thumb.
 
-
-
 **३७०. संदधानो हि कालेन विगृह्णवारिभिस्सह। **
 
 **स्वपक्षवर्धनं कुर्वन्महदैश्वर्यमश्नुते॥**(35-8)
 
 A king who yields or sues for peace when his enemies are stronger and tries to gain strength, attains great prosperity.
-
-
 
 **३७१. धर्मों वै ग्रसतेऽधर्मं ततः कृतमभूद्युगम् । **
 
@@ -2279,27 +2048,19 @@ A king who yields or sues for peace when his enemies are stronger and tries to g
 
 During Kritayuga Virtue conquerred Vice; but when the latter dominates over the former, the advent of kaliyuga is clearly manifest.
 
-
-
 **३७२. एको हि कुरुते पापं कालपाशवशं गतः। **
 
 **नीचेनात्मापचारेण कुलं तेन विनश्यति ॥**(38-7)
 
 A mean fellow committing a sin dragged by fate, ruins himself and his whole clan.
 
-
-
 **३७३. सत्यधर्माभिरक्तानां नास्ति मृत्युकृतं भयम् ।**(46-34)
 
 The truthful and the virtuous are never afraid of death.
 
-
-
 **३७४. न कालस्यातिभारोऽस्ति कृतान्तश्च सुदुर्जयः ॥**(48-19)
 
 Fate is invincible and there is nothing too heavy for it (to drag ).
-
-
 
 **३७५. प्रायेण गतसत्वानां पुरुषाणां गतायुषाम् ।**
 
@@ -2307,15 +2068,11 @@ Fate is invincible and there is nothing too heavy for it (to drag ).
 
 An unsightly facial metamorphosis gen. erally sets in on the bodies of those whose souls had departed by eflux of time.
 
-
-
 **३७६. देशकालविहीनानि कर्माणि विपरीतवत् ।**
 
 **क्रियमाणानि दुष्यन्ति हवींष्यप्रयतेष्विव ॥**(63-6)
 
 Any action done out of time and out of place brings on adverse results, even as sacrificial offerings kept in polluted vessels.
-
-
 
 **३७७.त्रयाणां पञ्चधा योग कर्मणां यः प्रपश्यति ।**
 
@@ -2323,15 +2080,11 @@ Any action done out of time and out of place brings on adverse results, even as 
 
 That king is in keeping with the times who in consultation with his ministers classifies his duties under the three heads (viz :- major; routine, and minor) and discharges them at the appropriate time adopting any or all the five methods.
 
-
-
 **३७८. यथागमं च यो राजा समयं विचिकीर्षति।**
 
 **बुध्यते सचिवान्बुद्ध्या सुहृदश्चानुपश्यति॥**(63-8)
 
 A king who resolves to do an act in time in accordance with the rules and regulations after consultation with his ministers and friends is considered to be a good administrator.
-
-
 
 **३७९. धर्ममर्थं च कामं च सर्वान्वा ( रक्षसां पते )।**
 
@@ -2343,15 +2096,11 @@ A king who resolves to do an act in time in accordance with the rules and regula
 
 A king or a prince who seeks virtue, wealth and pleasure either one by one or two at a time, must do so at the apportioned time (viz., morsing, afternoon, and evening) without mutual conflict. But if he ignores the best among these viz., virtue, and indulges in the last at all times, all his learning becomes na colossal waste.
 
-
-
 **३८०.उपप्रदानं सान्त्वं वा भेदं काले च विक्रमम्।**
 
 **योगं च (रक्षसां श्रेष्ठ) तावुभौ च नयानया॥**(63_11)
 
 Liberal gifts, kind words, separation or aloofness, and exhibition of physical strength are the fourfold means to be adopted at the appropriate time to achieve an object..
-
-
 
 **३८१. काले धर्मार्थकामान् यः संमन्त्र्य सचिवैः सह। **
 
@@ -2359,15 +2108,11 @@ Liberal gifts, kind words, separation or aloofness, and exhibition of physical s
 
 A king who, acting on the advice of his ministers, seeks after Dharma, Artha and Kama at the specified hours will never come to grief.
 
-
-
 **३८२. हितानुबन्धमालोच्य कार्याकार्यमिहात्मनः।**
 
 **राजा सहार्थतत्वज्ञैः सचिवैः स हि जीवति॥**(63-13)
 
 A king who cares for his own welfare resolves to do or not to do a particular act after mature deliberation with his councillors lives long in happiness along with them.
-
-
 
 **३८३. अनभिज्ञाय शास्त्रार्थान्पुरुषाः पशुबुद्धयः ।**
 
@@ -2375,15 +2120,11 @@ A king who cares for his own welfare resolves to do or not to do a particular ac
 
 Ignorant and uneducated councillors who are akin to animals often offer wrong advice even in vital matters. They should be avoided.
 
-
-
 **३८४. अशास्त्रविदुषां तेषां न कार्यमहितं वचः। **
 
 **अर्थशास्त्रानभिज्ञानां विपुलां श्रियमिच्छताम् ॥**(83-15)
 
 A king intent on the prosperity of the state should not listen to the unhealthy advice of ministers not versed in the laws of virtue and statecraft, as they would lead him in the mire.
-
-
 
 **३८५.अहितं च हिताकारं धाष्टर्याज्जल्पन्ति ये नराः। **
 
@@ -2391,15 +2132,11 @@ A king intent on the prosperity of the state should not listen to the unhealthy 
 
 Impudent fellows who give wrong advice under pretext of doing good and thereby bring disaster are to be carefully examined and expelled from the council of advisors.
 
-
-
 **३८६. विनाशयन्तो भर्तारं सहिता शत्रुभिर्बुधैः।**
 
 **विपरीतानि कृत्यानि कारयन्तीह मन्त्रिणः ॥**(63_17)
 
 Dishonest ministers often intrigue with the enemies and bring on positive ruin to their masters.
-
-
 
 **३८७.तान्भर्ता मित्रसंकाशानमित्रान्मन्त्र निर्णये ।**
 
@@ -2407,15 +2144,11 @@ Dishonest ministers often intrigue with the enemies and bring on positive ruin t
 
 Dishonest councillors offering evil advice to their masters under the garb of well-inten- tioned friends can easily be detected after an intelligent conversation with him.
 
-
-
 **३८८. चपलस्येह कृत्यानि सहसाऽनुप्रधावतः।**
 
 **छिद्रमन्ये प्रपद्यन्ते क्रौञ्चस्य खमिव द्विजाः॥**(63_19)
 
 A king who without any forethought listens to the advice of an incapable and roguish minister only gives a loop-hole to his enemies even as birds find loop-holes in the Krouncha Hills and get their passage through.
-
-
 
 **३८९. यो हि शत्रुमभिज्ञाय नात्मानमभिरक्षति। **
 
@@ -2423,15 +2156,11 @@ A king who without any forethought listens to the advice of an incapable and rog
 
 He who knows the danger ahead and does. not care to be on his guard brings on disasters and is soon pulled down from his position.
 
-
-
 **३९०. अस्मिन्काले तु यद्युक्तं तदिदानीं विधीयताम्। **
 
 **गतं तु नानुशोचन्ति गतं तु गतमेव हि॥**(63-25)
 
 The wise do not grieve over the past, as bygones are bygones. What is proper in the present circumstances must be done.
-
-
 
 **३९१. सद्यो विपन्नार्थं दीनमभ्यवपद्यते । **
 
@@ -2439,15 +2168,11 @@ The wise do not grieve over the past, as bygones are bygones. What is proper in 
 
 A friend who is attached even in adversity is a real friend; and he is indeed a relative who helps a kinsman in distress.
 
-
-
 **३९२. कर्म चैव हि सर्वेषां कारणानां प्रयोजकम्।**
 
 **श्रेयः पापीयसां चात्र फलं भवति कर्मणाम्॥**(64-7)
 
 Our present happiness or misery is the result of our previous actions good or bad.
-
-
 
 **३९३. निःश्रेयसफलावेव धर्मार्थावितरावपि ।**
 
@@ -2455,15 +2180,11 @@ Our present happiness or misery is the result of our previous actions good or ba
 
 Virtue and material acquisition eventually lead us to final beatitude and other bliss; but deeds done to the contrary lead to unhappy results.
 
-
-
 **३९४. ऐहलौकिकपारत्रं कर्म पुभिर्निषेव्यते। **
 
 **कर्माण्यपि तु कल्यानि लभते काममास्थितः॥**(64_9)
 
 A seeker of Dharma and Artha reaps the fruits of his actions either here or hearafter; but the seeker of Kama or physical pleasures attains the fruits of his actions only on this side of eternity.
-
-
 
 **३९५. अर्थेभ्यो हि विवृद्धेभ्यः संवृद्धेभ्यस्ततस्ततः। **
 
@@ -2471,15 +2192,11 @@ A seeker of Dharma and Artha reaps the fruits of his actions either here or hear
 
 As the mountain is the origin for the rivers to form and flow, even so our several actions owe their origin to our Artha or material acquisition.
 
-
-
 **३९६. अर्थेन हि वियुक्तस्य पुरुषस्याल्पतेजसः।**
 
 **व्युच्छिद्यन्ते क्रियास्सर्वा ग्रीष्मे कुसरितो यथा॥**(83_33)
 
 All actions done by a penniless man of no high order dwindle to nothingness even as the flow of rivulets during summer.
-
-
 
 **३९७. यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः।**
 
@@ -2487,15 +2204,11 @@ All actions done by a penniless man of no high order dwindle to nothingness even
 
 Friends and relations flock only to him that hath wealth and riches and he that commands a good bank balance is considered as a gentleman and a scholar.
 
-
-
 **३९८. यस्यार्थाः स च विक्रान्तो यस्यार्थास्स च बुद्धिमान्। **
 
 ** यस्यार्थाः स महाभागो यस्यार्थास्त महागुणः॥**(83_36)
 
 A wealthy man is praised as va liant and intelligent and is considered lucky, possessing all the virtues.
-
-
 
 **३९९. यस्यार्था धर्मकामार्थास्तस्य सर्वे प्रदक्षिणम्। **
 
@@ -2503,15 +2216,11 @@ A wealthy man is praised as va liant and intelligent and is considered lucky, po
 
 A wealthy man seeking after Dharma and prosperity will succeed at all cost but a poor person hunting after prosperity will find it difficult to attain.
 
-
-
 **४००. हर्षः कामश्च दर्पश्च धर्मः क्रोधः शमो दमः। **
 
 **अर्थादेतानि सर्वाणि प्रवर्तन्ते ( नराधिप )॥**(83_39)
 
 Wealth is the root cause of every kind of joy and desire, vice and virtue, anger and selfrestraint.
-
-
 
 **४०१. गुणवान्वा परजनः स्वजनो निर्गुणोऽपि वा। **
 
@@ -2519,15 +2228,11 @@ Wealth is the root cause of every kind of joy and desire, vice and virtue, anger
 
 It is possible that a stranger may possess fine qualities; whereas a kinsman may bedevoid of them.All the same the latter should be preferred to the former.
 
-
-
 **४०२. यः स्वपक्षं परित्यज्य परपक्षं निषेवते।**
 
 **स स्वपक्षे क्षयं प्राप्ते पश्चात्तैरेव हन्यते॥**(87-16)
 
 He who deserts his own clan and joins the enemy is in the end slain by the latter as soon as the latter is triumphant.
-
-
 
 **४०३. परखानां च हरण परदाराभिमर्शनम्।**
 
@@ -2535,19 +2240,13 @@ He who deserts his own clan and joins the enemy is in the end slain by the latte
 
 Robbing others of their wealth, seduction of other's wives and distrust of one's own friends, are considered as three great sins hastening one's downfall.
 
-
-
 **४०४. कार्याणां कर्मणा पारं यो गच्छति स बुद्धिमान्।**(88-13)
 
 One who can reach the goal of his actions by his efforts is really talented.
 
-
-
 **४०५. न हि प्रतिज्ञां कुर्वन्ति वितथां साधवोऽनघ॥**(102-49)
 
 Great men never take a vain vow.
-
-
 
 **४०६. नैकान्तविजयो युद्धे भूतपूर्वः कदाचन। **
 
@@ -2555,19 +2254,13 @@ Great men never take a vain vow.
 
 History has not recorded the onesided victory of any one. A warrior in battle either 'vanquishes his foes or is vanquished by them.
 
-
-
 **४०७. क्षत्रियो निहतः संख्ये न शोच्य इति निश्वयः।**(112_18)
 
 A warrior slain in battle should certainly not be mourned.
 
-
-
 **४०८. मरणान्तानि वैराणि निर्वृत्तं नः प्रयोजनम्॥**(113-26)
 
 Enemity should not be carried beyond the grave, after our perpose is served.
-
-
 
 **४०९. नैवार्थेन न कामेन विक्रमेण न चाज्ञया। **
 
@@ -2575,39 +2268,27 @@ Enemity should not be carried beyond the grave, after our perpose is served.
 
 The decrees of fate cannot be altered by wealth or desire, valour or behest.
 
-
-
 **४१०. अवश्यमेव लभते फलं पापस्य कर्मणः।**
 
 **घोरं पर्यागते काले कर्ता नास्त्यत्र संशयः॥**(114_25)
 
 A wrong-doer cannot escape the dire consequences of his action. He has to suffer for his sins at the approach of the grim hour.
 
-
-
 **४११. शुभकृच्छुभमानोति पापकृत्पापमश्नुते॥**(114-26)
 
 He that does good is rewarded and he that commits sin is punished.
-
-
 
 **४१२. सर्वथा सर्वभूतानां नास्ति मृत्युरलक्षणः ॥**(114-29)
 
 The god of Death never approaches any one without assuming some form or other.
 
-
-
 **४१३. धिग्राज्ञां चञ्चलाः श्रियः।**(114_34)
 
 Fie upon the transitory regal splendours.
 
-
-
 **४१४. पतिव्रतानां नाकस्मात्पतन्त्यश्रूणि भूतले॥**(114_67)
 
 Chaste women do not shed their tears invain.
-
-
 
 **४१५. न परः पापमादत्ते परेषां पापकर्मणाम्।**
 
@@ -2615,13 +2296,9 @@ Chaste women do not shed their tears invain.
 
 Great men do not retaliate the wrongs done to them as they care more for the maint- enance of their dignity and character.
 
-
-
 **४१६. न कश्चिन्नापराध्यति॥**(116_45)
 
 There is no man that does not err.
-
-
 
 **४१७. न गृहाणि न वस्त्राणि न प्राकारास्तिरस्क्रियाः।**
 
@@ -2629,15 +2306,11 @@ There is no man that does not err.
 
 Neither houses nor garments, neitherHer own chastity ramparts nor veils, nor the royal paraphernalia can protect a woman.Her own chastity is her shield of strength.
 
-
-
 **४१८. व्यसनेषु न कृच्छ्रेषु न युद्धेषु स्वयंवरे। **
 
 **न क्रतौ न विवाहे च दर्शनं दुष्यति स्त्रियाः॥**(117-27)
 
 Royal women do not veil their faces (1) at the time of their bereavements (2) when their state is in danger (3) in the battle-fields (4) at the time of self-choice of their partners in life (5) during the performance of rituals and (6) during their marriage.
-
-
 
 **४१९. सर्वकामसमृद्ध हि हस्त्यश्वरथसंकुलम्।**
 
@@ -2645,15 +2318,11 @@ Royal women do not veil their faces (1) at the time of their bereavements (2) wh
 
 Who will not be lured by the tempting regal splendours consisting of elephants, cavalry and chariots and all the enjoyables of a mighty kingdom.
 
-
-
 **४२०. सौहृदाजायते मित्रमपकारोऽरिलक्षणम् ॥**(180\_\_44)
 
 A help in need brings on friendship and harm leads to enmity.
 
 ---------------
-
-
 
 **॥ उत्तरकाण्डम् ॥**
 
@@ -2663,8 +2332,6 @@ A help in need brings on friendship and harm leads to enmity.
 
 A man deserves a return help in his \_adversity.
 
-
-
 **४२२. यो धर्मकार्यं वा विषये पार्थिवस्य तु।**
 
 **करोति चाश्रीमूलं तत्पुरे वा दुर्मतिर्नरः॥**
@@ -2672,8 +2339,6 @@ A man deserves a return help in his \_adversity.
 **क्षिप्रं च नरकं याति स च राजा न संशयः।**(74-29)
 
 Awicked man committing a lawless and despicable act in a kingdom brings disaster to the state and undoubtedly hastens to hell dragging also the monarch with him.
-
-
 
 **४२३. अधीतस्य च तप्तस्य कर्मणः सुकृतस्य च ।**
 
@@ -2683,13 +2348,9 @@ Awicked man committing a lawless and despicable act in a kingdom brings disaster
 
 A monarch who righteously rules his realm obtains a sixth share of the benefits of the vedic lore, penance and virtues of his subjects. How can a king who receives these benefits not protect them?
 
-
-
 **४२४. त्यागो वधो वा विहितः साधूनां तूभयं समम्।**(106_13)
 
 The virtuous consider alienation as tantamounting to beheading.
-
-
 
 **४२५. गायत्र्या स्वरूपं तद्रामायणमनुत्तमम्। **
 
@@ -2717,17 +2378,5 @@ Whoever daily reads or hears with devotion the sacred Ramayana, or the history o
 
 **----------**
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
 

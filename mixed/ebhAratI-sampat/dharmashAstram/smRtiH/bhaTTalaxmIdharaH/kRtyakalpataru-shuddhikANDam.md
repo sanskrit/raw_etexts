@@ -17,42 +17,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1Mjg2Mzk3NzA
 
 \[
 
-
-
 ![](../books_images/U-IMG-1702530229Kriyakalpatarusuddikanda.jpg)
 
 [TABLE]
-
-
 
 ***GAEKWAD'S ORIENTAL SERIES***  
 
 **Published under the Authority of the  
 Maharaja Sayajirao University of Baroda**
 
-
-
-
-
-
-
 GENERAL EDITOR :  
 B. BHATTACHARYYA, M.A., PH.D.
 
-
-
 **————————**
 
-
-
-
-
 No. CXII  
-
-
-
-
-
 
 **भट्टश्रीलक्ष्मीधरविरचिते**
 
@@ -60,13 +39,7 @@ No. CXII
 
 दशमो भागः
 
-
-
 **॥ शुद्धिकाण्डम् ॥**
-
-
-
-
 
 **KṚTYAKALPATARU**  
 
@@ -74,37 +47,15 @@ OF
 
 BHAṬṬA LAKṢMĪDHARA
 
-
-
 **Vol. X. S'UDDHIKĀṆḌA**
-
-
-
-
-
-
 
 Edited by  
 
 K. V. RANGASWAMI AIYANGAR
 
-
-
-
-
-
-
-
-
-
-
-
-
 Baroda  
 Oriental Institute  
 1950
-
-
 
 **PREFACE**
 
@@ -112,39 +63,27 @@ Oriental Institute
 
   It is natural that Dharmaśāstra should develop the ideas inherent in purity, impurity and its removal (if possible) by purification. Purity (*śuddhi*) being a *sine qua non* for dhārmic acts or rites, its elaborate conside-ration is necessary in *smṛti* and *nibandha*. Almost all important digests of Dharma devote a special section to this abstruse topic. A digest is incomplete without such a section. *Kṛtyakalpataru* as the only extant *nibandha*,
 
-
-
 which aims at a complete survey and exposition of Dharma, has devoted a special section to *Śuddhi*. It forms the tenth book of the Digest and logically follows the exposition of the ordinary daily duties and observances (*nitya*) and the special or periodical duties springing from occasion, purpose or function (*naimittika*) in the nine preceding *kāṇḍas*. The section on *Rājadharma* follows it, as in the s'āstraic view the normal work of government will not be invalidated by *aśuddhi* springing from birth or death in the families of the King or royal servants or the royal *Purohita*. The section on Law and Procedure (*Vyavahāra*) follows that on *Rājadharma*; for, the adjudication of disputes and punishment of offences is the King's duty. Family ties are reflected in liability to a share in impurity, springing from death or birth in the family circle, and the duration of the impurity and its intensity are held to depend on the nature of relationship. Relations are under an obligation to offer funeral oblations of balls of rice (*piṇḍa*) to a dead person and ancestors. The duty thus is an indication or reflction of kinship and family unity, just as the impurity descending on subjects on the death of their King is a reflection of the tie between ruler and ruled. *Sāpiṇḍya* (relationship determined by the degree of obligation to offer funeral cakes) is important also for determining the degrees of relationship within which marriage is permissible. In *Gṛhasthak*āṇḍ
 
 *a* Lakşmidhara deals briefly with *sapiṇḍa* relationship in the section on the eligibility of persons for marital union. As the *piṇḍa* and libation are important elements in funeral rites, in the section on *Suddhi* in the Digest the rites following death and the disposal of the dead are included (parvas 16 to 21). The arrangment of topics in the Digest is logical. It is not so in most *nibandhas*.
 
   The rites to the dead and the degrees of impurity (*aśuddhi*) are founded on and linked to fundamental philosophical beliefs like Karma, reincarnation (*samsāra*)
 
-
-
 and *Mukti* (salvation). Male progeny is desired to ensure the offering of *piṇḍa* and water to dead ancestors and ensure their postmortuary peace in the realms to which their Karma has wafted them. The duty to make these offerings and do the *śrāddhas* is inescapable, and one on whom the duty lies and fails to discharge it commits a grave sin and also earns misfortune and social oppro-brium. The duty descends on male offspring, and a married girl passes into a different family and *gotra* and loses both the liability to discharge this duty and along with it a corresponding claim to a share in inheritance. As I have pointed out in the Preface to *Srāddhakāṇḍa* (G. O. S. No. CX, pp. vi-viii) incorrect and imperfect notions of Śrāddha, *piṇḍa* and *gotra* underlie many loose ideas in the advocates for the reform of the Hindu Law of Inheritance and Marriage. A woman is in Dharmaśāstra (as in Roman Law) the *terminus* of the family. The study of Śuddhi and Śrāddha must precede, as it does in the *Kṛtyakalpataru*, the correct perception of *Dāyakrama* or mode of devolution of property.
 
   The study of the rules of *śuddhi* and *aśuddhi*, purity and pollution or impurity, in *Dharmaśāstra* is also necessary to correct prevalent misconceptions of the nature, origin and purpose of the rules of untouchability (*asprśyatva*), which have been regarded by foreigners (and modern reformers and advocates of 'democratic' equality) as blots in the Indian social system. The view that they originated in the selfish desire of the first *varṇa* to maintain and perpetuate its supremacy in society is untenable though now general. As observed by Mahāmahopādhyāya Dr. P. V. Kane (*History of Dharmāsastra*, II, p. 170) the rules were not inspired by any hardness of heart or any racial or caste pride as is often said, but they were due to psychological and religious reasons and (in the case of segregation) the requirements of hygiene." After the daily *Vaisvadeva* the.
-
-
 
 which aims at a complete survey and exposition of Dharma, has devoted a special section to *Śuddhi*. It forms the tenth book of the Digest and logically follows the exposition of the ordinary daily duties and observances (*nitya*) and the special or periodical duties springing from occasion, purpose or function (*naimittika*) in the nine preceding *kāṇḍas*. The section on *Rājadharma* follows it, as in the śāstraic view the normal work of government will not be invalidated by *aśuddhi* springing from birth or death in the families of the King or royal servants or the royal *Purohita*. The section on Law and Procedure (*Vyavahāra*) follows that on *Rājadharma*; for, the adjudication of disputes and punishment of offences is the King's duty. Family ties are reflected in liability to a share in impurity, springing from death or birth in the family circle, and the duration of the impurity and its intensity are held to depend on the nature of relationship. Relations are under an obligation to offer funeral oblations of balls of rice (*piṇḍa*) to a dead person and ancestors. The duty thus is an indication or reflction of kinship and family unity, just as the impurity descending on subjects on the death of their King is a reflection of the tie between ruler and ruled. *Sāpiṇḍya* (relationship determined by the degree of obligation to offer funeral cakes) is important also for determining the degrees of relationship within which marriage is permissible. In *Gṛhasthakāṇḍa* Lakṣmīdhara deals briefly with sapinda relationship in the section on the eligibility of persons for marital union. As the *piṇḍa* and libation are important elements in funeral rites, in the section on *Suddhi* in the Digest the rites following death and the disposal of the dead are included (parvas 16 to 21).The arrangment of topics in the Digest is logical. It is not so in most *nibandhas*.
 
   The rites to the dead and the degrees of impurity (*aśuddhi*) are founded on and linked to fundamental philosophical beliefs like Karma, reincarnation (*samsāra*)
 
-
-
 and *Mukti* (salvation). Male progeny is desired to ensure the offering of *piṇḍa* and water to dead ancestors and ensure their postmortuary peace in the realms to which their Karma has wafted them. The duty to make these offerings and do the *śrāddhas* is inescapable, and one on whom the duty lies and fails to discharge it commits a grave sin and also earns misfortune and social opprobrium. The duty descends on male offspring, and a married girl passes into a different family and *gotra* and loses both the liability to discharge this duty and along with it a corresponding claim to a share in inheritance. As I have pointed out in the Preface to *Śrāddhakāṇḍa* (G. O. S. No. CX, pp. vi-viii) incorrect and imperfect notions of Śrāddha, *piṇḍa* and *gotra* underlie many loose ideas in the advocates for the reform of the Hindu Law of Inheritance and Marriage. A woman is in Dharmaśāstra (as in Roman Law) the *terminus* of the family. The study of *Śuddhi* and *Śrāddha* must precede, as it does in the *Kṛtyakalpataru*, the correct perception of *Dāyakrama* or mode of devolution of property.
 
  The study of the rules of *śuddhi* and *aśuddhi*, purity and pollution or impurity, in Dharmaśāstra is also necessary to correct prevalent misconceptions of the nature, origin and purpose of the rules of untouchability (*asprśyatva*), which have been regarded by foreigners (and modern reformers and advocates of democratic' equality) as blots in the Indian social system. The view that they originated in the selfish desire of the first *varṇa* to maintain and perpetuate its supremacy in society is untenable though now general. As observed by Mahāmahopādhyāya Dr. P. V. Kane (*History of Dharmas'āstra*, II, p. 170) the rules were not inspired by any hardness of heart or any racial or caste pride as is often said, but they were due to psychological and religious reasons and (in the case of segregation) the require-ments of hygiene." After the daily *Vaiśvadeva* the
 
-
-
 Brāhmaṇa is enjoined to give away the offerings of food to *caṇḍālas*, crows and dogs. Untouchability, because impurity (*as'uddhi*) is communicated by touch (*spars'a*), is not a feature of only the so-called depressed class. As will be seen from the *Śuddhikāṇḍa* on certain occasions (in monthly illness or childbirth, for instance) a man's wife is to him untouchable. His acolyte son is untouchable to him during meals. In *Śrāddhas* the invited and honoured guests (*bhoktāraḥ*) cannot touch each other without conveying impurity that will disqualify them for the continuance of the rite. The touch of the temple priest, who lives on his earnings as such (*devadravyopajīvī*, or *devalaka*), of the village priest (*grāma-yājaka*) and of the seller of the soma plant (*somavikrayī*) convey impurity even though they are of the first *varṇa*, which can be removed only by a bath with clothes on (*sacelasnāna*) and the repetition of the *gāyatrī* (inf. p. 129).
 
   Death and birth are in the Dharmic view only inevitable incidents in the career of the soul (*ātman*) during its tireless and almost endless wandering in Time passing from birth to birth. The soul released by death from its mortal and perishable frame drifts through the impact of its Karma first to the worlds that are appro-priate to its action (*karma*) in its last "life" and then to re-birth in forms that are destined for it according to its Karma. When a father loses a son or a son loses his father or a husband his beloved wife recognition of this inexorable law must overcome the natual ebullition of grief. Life is like a bubble in the river (*jalabudbuda-sannibhā*, p. 91), and weak like the stem of the plantain tree (*kadalīsthambha*). Destruction ultimately is the destined end of the earth, the sea and even the gods. How then can the world of mortals which is transitory like foam not go to destruction, asks Yājñavalkya (III, 10). The tie between parent and child, or husband and wife is snapped by death and the release of the *ātman* from
-
-
 
 its temporary home in the body. The ideas are almost instinctively recognized by those brought up in the traditions of Dharma. This is why the funeral is followed by allocutions to the mourners on the nature of "life" and relationship and the illogicality and infructuousness of mourning and sorrow (*parva* 19).
 
@@ -152,23 +91,17 @@ its temporary home in the body. The ideas are almost instinctively recognized by
 
   The *caṇḍāla* and later on those who are aligned with him through their sin or misconduct, is the only person who is hereditarily untouchable. This raises the question as to who the *caṇḍala* is. The standard definition is that the offspring of the union of a Śūdra male and Brāhmaṇa female is a *caṇḍāla*, like both the parents who have
 
-
-
 descended to the level. The union is the extreme form of *pratiloma* union. To brand any one as a *caṇḍāla* or to class him as one is to emphasize the reprobation of the sin or crime. Those guilty of the five capital sins (*pañca-mahāpātakāḥ*) are sometimes classed with *caṇḍālas*. In regard to *pratiloma* unions, except those of Śūdra males with Brāhmaṇa women, Medhātithi (X, 13) regards the offspring as Śūdras and not untouchables like *caṇḍālas*. The children of parents of the same gotra and of an unmarried woman are classed as *caṇḍalas* by *Veda-Vyāsa-smrti* (Kane, *op. cit.*, II, 81). An ascetic who has relapsed to family status is also classed as a *cāṇḍla*. These statements should be regarded as merely emphasizing disapproval and not as proper definitions.
 
   Birth and death being equated in regard to their nor-mality, both cause pollution (*aśauca*). The impurity is invisible and is described as jumping on a person. The woman after child-birth is untouchable for ten days ordinarily. It is also the case with the nearest kin of a dead person on the agnatic side. Cremation and the performance of the last rites to the dead are so important that they are both individual and social obligations. Till a corpse is cremated the neighbours, though not related to the dead person, are under impurity and must get rid of it by a bath after the cremation. The corpse and the place at which it is cremated or burnt and trees or other things on the site are deemed as communicating impurity (*aśauca*) by contact. Nevertheless the social obligation side is stressed by the dictum that he who carries to the cremation ground the corpse of a kinless person acquires the merit (*puṇya*) equal to that accruing from the perform-ance of a Vedic sacrifice (p. 58 *inf*.).
 
   In the more ancient *smṛtis* the period of impurity in which one is untouchable is held to diminish with his learning, austerity and virtue. These passages are cited *in extenso* in the text. It may also be noted that the
 
-
-
 duration of impurity varies with the *varṇa* of the person affected, being lowest for the first *varṇa* (ten days for death impurity) and longest for the Śūdra (thirty days). Similar rules exist in regard to the segregation after confinement or even menstruation, and the age limits within which *upanayana* must be done vary with the *varṇa* of the boy. The differentiation is not against the spirit of Dharmaśāstra nor is it against the insistence on mental and spiritual purity for all Dharmic acts and rites. Lakṣmīdhara ignores the late dictum that the discrimination is *kalivarjya, i.e.*, inapplicable in our times. His position is logical.
 
   From what has been said it will be seen that the *Śuddhi-dharma* is logical, considerate and consistent. Consistently with his practice Lakṣmīdhara is economical of explanation and of citation. His work needs explanation and comment. This has been attempted in the INTRODUCTION and in the footnotes, in which citations from other works are given where necessary. As he avoids repeating what has been said in one book of his Digest in others, his *Śuddhikaṇḍa* has to be read with other sections of his great Digest. The brevity of the text makes it the smallest section of *Kṛtyakalpataru*, but in some respects it is one of the most difficult. Later writers on Śuddhi are diffuse and waste space in dealing with impurity springing from relations that have gone out of vogue and their duration.
 
   It may be seen by a close study of *Śuddhikaṇḍa* that the matter it deals with is logical and based on fundamental postulates of religion and philosophy. They are not due to class or racial or caste feelings of superiority or ill-feeling to any section of society. A study of this work may help to remove many current misconceptions. It will also show how within the pale of the orthodox section of the Hindu society which claims to follow Dharmaśastra some principles of *Śuddhi* like the
-
-
 
 idea of the pollution from crematoria or burial grounds have come to be modified in practice, like regarding the places where *ācāryas* have been buried as shrines which are pure and call for devotees. It may be noted that Kāśi which is described in the formulae used at the baths there as the "premier crematorium " (*mahāsmas'āna*) is not under this rule and persons there walk over the banks of the Gangā, which is scattered with cremation grounds without feeling the need for purification.
 
@@ -182,8 +115,6 @@ K. V. RANGASWAMI
 31, *Gandhinagar, Adyar*,
 
 Madras 20.
-
-
 
 ERRATA
 
@@ -212,8 +143,6 @@ NOTE:–In the Index of Half Verses p. 205 has been omitted by mistake. The omis
 | Read शुद्धिकौमुदी, ४५ for शुद्धिकौमुदी, ४७.        |
 | Read विष्णुः \[२२, २५\] for विष्णुः \[२२, २७\].    |
 | Read निक्षिपेत्तं तु for निक्षिपेत्तंतु.           |
-
-
 
 |                                                                           |
 |---------------------------------------------------------------------------|
@@ -250,8 +179,6 @@ NOTE:–In the Index of Half Verses p. 205 has been omitted by mistake. The omis
 | Read आश्वलायनगृह्यम् \[४, ५, १-८\] for आश्वलायनगृह्यम्\[४, ६, १-८\].      |
 | Read तपोऽग्निराहारो for तपोऽग्निराहरो.                                    |
 
-
-
 |                                                                                                                               |
 |-------------------------------------------------------------------------------------------------------------------------------|
 | Read^(२)श्रोत्रंचेति for³श्रोत्रंचेति.                                                                                    |
@@ -283,8 +210,6 @@ NOTE:–In the Index of Half Verses p. 205 has been omitted by mistake. The omis
 | Readअक्षताः for अस्रुता.                                                                                                     |
 | Readधातकीवटाः for धात्रिकीटजाः                                                                                               |
 | Read तथापोऽग्निः शकृन्मृच्च for तेषामग्निः सकृन्मृश्च.,                                                                       |
-
-
 
 |                                            |                                          |
 |--------------------------------------------|------------------------------------------|
@@ -324,11 +249,7 @@ NOTE:–In the Index of Half Verses p. 205 has been omitted by mistake. The omis
 | नियमाश्च तयोः सर्वे, लक्ष्मी., १           |                                         |
 | निरस्य तु पुमान् शुक्रम्, मनुः, १७         |                                         |
 
-
-
 [TABLE]
-
-
 
 |                                                                         |
 |-------------------------------------------------------------------------|
@@ -365,8 +286,6 @@ NOTE:–In the Index of Half Verses p. 205 has been omitted by mistake. The omis
 | प्रेतनिर्हरणम्                                                          |
 | प्रेतसंस्कारः                                                           |
 
-
-
 |                                                               |
 |---------------------------------------------------------------|
 | उदकदानम्                                                      |
@@ -391,15 +310,11 @@ NOTE:–In the Index of Half Verses p. 205 has been omitted by mistake. The omis
 
 **———————**
 
-
-
 **INTRODUCTION**
 
  LAKṢMĪDHARA deals with *Śuddhi* in the tenth section of his digest. The position of this section in the *nibandha* will be intelligible from Vijñānesvara's remarks introducing the topic at the beginning of his commentary on the *prāyaścittādhyāya* (Book III) of *Yajñavalkyasmṛti*: "In the previous sections the ordinary, daily duties and observances (*nitya*) and the special and periodical rites or duties (*naimittika*) have been detailed. The duties springing from the possession of certain qualifications by a householder have also been dealt with. It now becomes necessary to deal with obstacles to the doing of such rites or discharge of such duties as spring from impurity (*āsauca*), and the removal of the obstacles." Lakṣmīdhara makes no attempt to explain why the treatment of *Śuddhi* is deferred to the tenth section of the digest, but his reasons may be inferred from the topics covered in the preceding nine sections. He deals with the *samskāras* and the ordinary duties of the first two stages of life (*āśramas*) *viz.* those of the acolyte and the householder, the special duties of daily or occasional kind and their appointed times (*naiyatakāla*) in the first three kāṇḍas. The fourth is devoted to sraddha or rites to the manes, which are also obligatory but occasional, and the fifth to gifts (*dāna*) and the rules governing them. The next four deal with the consecration of images for worship and their worship (*pratiṣṭhā*), the making of pilgrimages (*tīrthayātrā*) and the performance of *vrataāḥ*. Impurity of any kind will be a bar to the performance of any of the duties dealt with in the first nine sections of the *Kalpataru*. The treatment of purity and impurity as validating or invalidating conditions of the performance of the rites or duties so detailed now becomes necessary and is undertaken in the tenth section.
 
  In one respect Lakṣmīdhara's treatment is more logical than Vijñānesvara's. The latter deals with *Rājadharma* and *Vyvahāra*
-
-
 
 (law) in the concluding portion of the first and the entire second *adhyāya* of the *Mitākṣarā*, though impurity will not affect either regal fitness or administration or the adjudication of disputes. In the *Kṛtyakalapataru* these topics are dealt with in the eleventh and twelfth sections, and the last two are devoted to propitiatory rites for overcoming adverse influences generated by *pāpa*, and to the last two stages of life and the attainment of *mokṣa* (release from re-birth). It will be seen that the topics. follow each other in this great digest in orderly and logical sequence.
 
@@ -411,13 +326,9 @@ NOTE:–In the Index of Half Verses p. 205 has been omitted by mistake. The omis
 
  The twenty-eight chapters (*parva*) of the *kāṇḍa* deal in sequence with the following topics, according to the *pratijñā* prefixed to the work. Impurity arising from death and from birth, the rules to be observed during impurity, impurity of mixed castes, mixtures of impurity, impurity springing from births or deaths that take place in distant places, impurity due to the death of children, impurity of women, impurity due to
 
-
-
 abortion, impurity due to specific forms of death, impurity from the demise of persons who are not *sapiṇḍas*, impurity of undertakers (carriers of corpses), persons to whom the rules of impurity do not apply, definition of *sapiṇḍa*, impurity from carrying a corpse to the cremation ground, rules for the disposal of the bodies of the dead, libations to the dead, assuagement of grief, return home of the survivors after the cremation, disposal of bones that remain uncalcined after cremation, purification from baths, purification of inanimate objects (*dravyaśuddhi*) and of objects which have been subjected to excessive pollution (*atyantadūṣita*), purification of the ground (*bhūsudḍhi*) and of water (*jalaśuddhi*) and of the complete removal of impurity (*aśuddhesca nirākriyā*).
 
  The topics are generally common to all works on Śuddhi but certain topics treated of in other works are omitted in this *kāṇḍa*. Thus the impurity springing from menstruation, which is dealt with elaborately in *Śuddhiprakāśa* (pp. 10-15), is omitted by Lakṣmīdhara in this kāṇḍa, as he has dealt with *rajasvalāniyama* in *Naiyatakālakāṇḍa* (pp. 350-353). The purification of inanimate objects is omitted in the Śuddhi sections of some digests like the *Vīramitrodaya*. The *Śuddhitatva* of Raghunandana begins with the rules of *sahagamana* (sati, pp. 234-244), apparently to illustrate overlapping of impurities of death. Lakṣmīdhara does not deal with matters not directly relevant to *Āśauca* and *suddhi*, nor does he anticipate or repeat what is dealt with in other sections of his work. He does not also attempt any definition or scholastic discussion of the terms *śuddhi* and *aśauca*, apparently satisfied that for practical purposes all concerned will know their connotation, as understood in the speeches of elders (*vṛddha-vyavahāra*). *Śuddhi* is construed as the absence of *a-śuddhi* or *āśauca, i.e.* impurity or pollution, which in the case of human beings is communicable by touch (*sparśa*). The interdiction of the consumption of the milk of a cow within ten or seven days of its calving (Hārīta on p. 296 of *Niyatakālakāṇḍa*) indicates that even among animals as holy as the cow impurity attaching to birth among women is to be construed. The impurity is generated by invisible (*adṛṣṭa*) agencies and is inferable by śāstraic rules only, and not by outward signs in all cases.
-
-
 
 DEFINITION OF S'UDDHI AND ĀS'AUCA
 
@@ -441,8 +352,6 @@ auca.
 
 *auca* implies im-purity under which the person affected is first interdicted from doing certain enjoined acts for which purity is essential, such as making gifts (*dāna*), and is also prohibited from Vedic study when under impurity, but, secondly, is competent to do certain other enjoined acts, which persons under the impurity are
 
-
-
 alone competent to perform, like the rites to the recently dead, like offering water and balls (*piṇḍa*) of rice etc.
 
  There are also other causes of impurity. Thus a person who touches another, who is under impurity, contacts it. Expulsion from varna or "fall" (*pātitya*) makes a person impure. Articles which are not by their very nature pure,' (*Svabhāva- śuddāḥ*) and which have been touched by persons under impurity become themselves impure and have to be made pure. Mitramiśra (*Śuddhiprākaśa*, p. 8) defines *śuddhi* as freedom from contact with impurity (*ā*ś*aucasamsargābhāvaḥ*), and *āśauca* as the peculiar condition which makes the person affected by it unfit to do the *pañcayajña* and other enjoined rites. In the case of animate persons, *i.e.*, human beings, it is the unseen (*adṛṣṭa*) effect produced by birth, death and contact with untouchable persons, and in the case of inanimate objects, like grain handled by *caṇḍālas* (untouchables) it is removable by sprinkling with water, and is not adrsta. Purification (*śuddhi*) in a person or object only removes the taint (literally 'sin', *pāpa*) engendered in it by an incident or contact causing defilement and does not generate spiritual merit (*puṇya*) in the person or object. That is to say, the process of *śuddhi* leaves it as it was before it became polluted. The causes of *śuddhi* (*śuddhi-hetavaḥ*) are enumerated as follows by Yājñavalkya (III., 31): time (*kāla*)-fire (*agni*), purificatory acts as prescribed (*karma*), earth (*mṛd*), air (*vāyu*), redeeming knowledge (*jñāna*), austerity (as shown in doing *kṛcchra* penances), water (*jalam*), repentance (*pascāt, tāpa*) and fasting (*nirāhāra*). Only some of these act in the removal of *āśauca* caused by birth and death *e.g.*, efflux of the prescribed time, and baths at the end of the period of impurity.
@@ -451,15 +360,11 @@ alone competent to perform, like the rites to the recently dead, like offering w
 
  Certain persons in certain stated circumstances are held to be free from *aśauca*, impurity by birth or by death. The topic is dealt with in Parva 13 (pp. 60-65 *infra*). Thus, a king, when engaged in State business is free from such pollution *aśaucam na rājñām rājakarmaṇi*, p. 62). The Kṣatriya is free from *āśauca* on the battle field (p 63). All persons in certain circumstances (*e.g*., battles, riots, revolutions, p. 64) are in the
 
-
-
 same position. In all such cases, freedom from impurity means only freedom from untouchability and from restrictions on doing religious acts; they still have to bathe at once to get immediate purity (*sadyaś saucam*). According to Aṅgiras on three occasions, (*viz.* marriage, sacrifices and divine worship and consecration of idols) death and birth impurity does not attach itself-during the period covered by the ceremonies–to the parties concerned (p. 64). Gold, jewellery etc. are by nature always free from impurity (*svabhāvaśuddha*) but before a gold vessel is fit for sacramental use, it has still to be washed of dirt and sprinkled (*prokṣaṇīya*). Heaps of grain handled by untouchables (*caṇḍālāḥ*) become pure by being sprinkled with water. A woollen blanket will not stand washing, so it (*kutapa*) is rendered pure by sprinkling. Vegetables, fruits, roots etc. sold in the bazaar (even by persons who are impure) become pure after they are washed. Clarified butter, salt, oils, etc. cannot stand even spraying, and they are held to be always *śuddha.*
 
  Certain persons are described as becoming instantaneously pure (*sadyaś-śuddha*) in certain circumstances. Here too, the instantaneousness does not mean omission of a bath or a wash before normal purity is restored. *Suddhiprakāśa* discusses the exact implication of the term *sadyaḥ* in such cases (pp. 92-93). In the case of infants the term means instan-taneous purification (*tatra tatkṣaṇamātram tadarthaḥ,* p. 92). Sadyah means that instant' (*tad-kṣane*). The purpose of the rule of instantaneous purification is to allow certain duties of an important religious or social nature to be discharged by the parties concerned without interruption. In times of famine and revolution or in battle the rules of impurity cannot be enforced, and they are declared therefore to be inapplicable then.
 
  There are gradations of impurity. A woman during confinement is regarded, during the first ten days as having the maximum of impurity. Touching her necessitates a bath. A husband who shares a room or a bed with such a woman contracts her impurity fully for ten days. After ten days, she does not radiate impurity, i.e. is approachable in close vicinity, though not to be touched. After twenty days, if the child is a son, and thirty days, if the child is a girl, she becomes fully competent to discharge all her domestic and religious duties, after the prescribed baths etc. A
-
-
 
 woman in menses is next below to the newly confined woman in impurity, but in her case the period of impurity is reduced to three days. One under death pollution (*maraṇāśaucam*) comes next in the order of impurity. Touching such a person com-municates his or her impurity to the person who touches him or her. Such persons should not touch one another, without necessitating a bath to restore them to a position in which they can do such things as eating etc., when under pollution. Birth impurity (*jananāś*
 
@@ -473,8 +378,6 @@ ara, on the second day as a Brāhmaṇacide (*Brahmaghātinī*) and on the third
 
 * Āsauca* is *aśuddhi* attaching to human beings, according to definite rules. Its extension to persons is based on relationship, real or metaphorical. Taking *sāpiṇḍya*, as Kullūka does, in the general sense of "relationship," all *sapiṇḍas* are seized by the pollution caused by death in the family circle, in varying degree, reflected by the duration of pollution, according to nearness or distance of relationship. The principle has use in stressing and emphasising family ties and the unity
 
-
-
 of the family. The extension of *āśauca* to those who have no relationship (*asapiṇḍādyāsauca*, parva 11), such as teachers, fellow students (*sabrahmacáriṇaḥ*) and the king similarly stresses the permanency of social ties. Extension of death pollution, till the removal of the corpse to the cremation ground to fellow villagers, who are not relatives of the dead person, also illustrates social ties.
 
  Anthropomorphism accounts for beliefs in the continua- tion of human cravings, for food and water, in the disembodied spirit, till, by special rites, the spirit is joined to the fraternity of departed ancestors in the world of manes (*pitṛloka*). Re-incarnation, viewed from the standpoint of the aspiration for release (*mukti*) is the reaction to the Karma of a past birth, and in that view is not desiderated. But birth in human form is valued as it enables a soul to redeem itself by sat-karma, good deeds and redeeming knowledge (*jñāna*). The birth of a son continues the line, ensures libations to ancestors. From a material standpoint, the birth of a child is a gurantee of support to parents in old age and of many joys. The father, grand-father, and the great grandfather are reborn in the male child; and accordingly the natal day is one of merit (*puṇya*) and joy (p. 21). The father of the child is accordingly enjoined to fill vessels with tila (seasame seed), and give them away with gold (*sa-hiraṇyāni*) to Brāhmaṇas before the navel cord is cut. Impurity starts only from the snapping of the navel cord (*nāḍyām tu chinnāyāmāsaucam*, p. 21). Marriage is conceived as effecting a merger of husband and wife. Brhaspati refers to the old view that the "wife is half the husband" (*śarirārdham smṛtā bhāryā*, p. 194).
@@ -483,13 +386,9 @@ of the family. The extension of *āśauca* to those who have no relationship (*a
 
  Birth and death are heralded by physical crises, in which the spirit of man seems to come in from and to go out into, the unknown. The customary funeral rites take about the same number of days as the time needed for physical rehabilitation of
 
-
-
 a newly confined woman. As birth heralds rejoicings, so death inaugurates lamentation and sorrow. The manifestation of grief is held to be bad for the released spirit. This is why, after the cremation, and libations, the assembled mourners are enjoined to reflect on the inevitability of death and shed their sorrow (Parva 19, *sokāpanodana*). Philosophy does not eradicate grief, which is fresh. Time alone can assuage it, along with absorption in duties that are held to be for the benefit of the departed soul. The intensity of grief is held to correspond to the relative nearness in kinship of survivors to the dead person, and it is reflected in the duration of impurity among relations, near and far.
 
  The trained mind masters emotional outbursts. Mental states have their external reactions. This is why Lakṣmīdhara at the very beginning of his book (p. 3) cites Hārīta's division of purity or purification (*saucam*) as 'external' (*bāḥya*) and 'internal' (*i.e.* mental), *i.e. ābhyantara*. He who has disciplined himself by Vedic study and austere life is obviously better able to understand the nature of death and life than the average person. He is devoted to the tending of the sacred fires, sacrifices and study of the scriptures (p. 5). It is natural therefore to presume that in the case of such a person, the pollution (*āśauca*) will either be ineffective in its assault, or weak lasting for less than the usual period of ten days after death. Persons, who for spiritual training or ascetic pursuit of emancipation are removed from society, like the acolyte (*Brahmacārin*) and the ascetic (*sanyāsin*), must be unaffected by rules of pollution that interfere with their dedicated lives. This is why both are held as untouched by *āśauca*, in the ordinary way, like persons who are of and in the world. The spiritual and social duties of persons must be discharged if society is to flourish. Hence persons who are engaged or dedicated to specific duties, must be free from any interruption of their normal duties, and therefore be regarded as not affected by periods of pollution. When a *śrāddha* is in progress, it cannot be stopped by news of the death of a person within the pollution-carrying degree of relationship, either to the performer of the *śrāddha* or the Brāhmanas who officiate at the *śrāddha* on his invitation
-
-
 
 (*nimantraṇa*). So with sacrifices (*yāga*). Once the principle is conceded, the determination of the exact moment when freedom from the pollution begins and ends gives scope (which has been largely availed of by mediaeval digest writers on *Śuddhi*) for logic and inference.
 
@@ -503,8 +402,6 @@ a newly confined woman. As birth heralds rejoicings, so death inaugurates lament
 
  From normal persons, who have died, the normal periods of pollution descend. Persons who are outside society, like *sanyasins* or outcasted persons (*patitāḥ*) or women who have taken to harlotry, cannot convey impurity by their death—extremes meeting ! In the case of such persons as the outcaste and the harlot, there can be no end to a pollution that descends. on them, for all life is for them a continuous pollution (*yāvadjīvam tu sūtakam*, p. 15).
 
-
-
  In regard to the gradation of *āśauca* according to austerity and learning, Lakṣmīdhara cites the authorities that lay down the rules of differentiation fully, without explanation or limitation. *Viśvarūpa* (c. 800 A.D.) whose work he has used, discusses (Yājñavalkya, III, 30) the question in five pages, and concludes that the rules constitue only an *arthavāda* intended to exalt the absence of greed and excellence in conduct, by saying that they can overcome even the rules of pollution. Later *nibandhakāras* reject the rules as interdicted in our Age (*Kalivarjya*) and hold that the duration of impurity is as prescribed for the different *varṇas*. In one place in the *Kṛtyakalpataru*, Lakşmīdhara cites *Brahmapur*ā*ṇa* for a *kalivarjya* usage. It has to be understood accordingly that he did not reject outright the rules of discrimination, favouring the lessening of periods of impurity for those of high learning and conduct. (*Niyata-kala-kāṇḍa*, page 190).
 
 **IMPURITY FROM DEATH (*Maraṇ***
@@ -515,15 +412,11 @@ a newly confined woman. As birth heralds rejoicings, so death inaugurates lament
 
  The standard duration for death impurity to near relations of the dead person is ten days. It is also so for birth impurity (p. 3). The pollution pursues those whom it affects, wherever they go, *i.e.* it is personal and inescapable. To relations (*sapiṇḍa*) who learn of the death only after the rite of disposal of bones (*astisañcayanam*) the pollution lasts only for three days. Dakṣa mentions ten kinds of *āśauca* as measured by their lasting for a moment (*sadyaḥ*), one day (*ekāha*), three days (*tṛyaha*), four days, six, ten and twelve days, a fortnight and a month, and lastly for life (*ā-maraṇāntam*). Bṛhaspati (p. 5) and Dakṣa hold that he who performs the daily fire-rites and has knowledge of his Veda with all its adjuncts, is unaffected by pollution. Dakṣa contemplates the rise of the period of pollu-tion to a Brāhmaṇa to a day, three and four days according to devotion to the fire rites, being relatively less intense. Parāśara (p. 6) repeats this view, and concludes that the ten days period of pollution applies to persons who are devoid of Vedic knowledge and rites. The same sentiment is expressed by Jābāli (p. 7). The principle (though logically allied to that which makes one engaged in a sacrifice or worship etc. free from pollu-tion) is now deemed as inapplicable to the present age of
 
-
-
 Kaliyuga. Lakṣmīdhara is apparently unable to get over the concurrence of authorities on the influence of the discriminatory clauses. Gautama holds that the ten days impurity is normal for all Brāhmaṇas except the acolyte (*Brahmacãrin*), he who has entered on the initiatory steps of a Śrauta sacrifice (*dīkṣita*) and the priest who conducts a sacrifice (*ṛtvik*). In regard to the next three *varṇas*, the duration of pollution is for twelve, fifteen and thirty days respectively. Mixed castes (*saṃkara*) should observe the Śūdra rule of pollution, *i.e*., for thirty days. (p. 13). Applying the principle of pollution corresponding to qualification (*guṇaviseṣa*) Dakṣa condemns to life-long pollution a number of despicable persons, *e.g*. the confirmed invalid, the miser (*kadarya*), the bankrupt debtor (*ṛṇagrasta*), the person devoid of devotion (*śraddhāhīna*), he who gives up his enjoined duties (*kriyāhīna*). Such declamatory statements merely emphaise the badness of the qualities named and are not to be taken as representing the infliction of lifelong pollution and untouchability on such persons. The remarried widow's hus- band (*anyapūrvā patiḥ*) is classed with these which is only a strong form of condemnation of widow marriage (p. 16).
 
 **BIRTH IMPURITY (Parva 2)**
 
  The ten days pollution (*sūtaka*) springs from the birth of a child and attaches itself to the parents, but it lasts the full period as untouchability (*aspṛs'yatā*) in the mother, while the father becomes touchable (*spṛśya*) after he has bathed (*upaspṛśya*). The purity (*śucitvam*) of the father is not absolute; for he has still the inhibition from doing religious rites during the ten days, and secondly as he can contract the impurity making him also "untouchable" by *samparka, i.e.* contact of the mother (p. 18). The father has to bathe with his clothes on to lose the impurity of birth but the relations need not bathe so (*nasacailinah*, p. 10). The Śūdra mother becomes " pure " only after thirteen days (p. 20), and the rule of Pracetas, cited by Lakṣmīdhara that women of all *varṇas* lose the impurity following their confinement after ten days, is explained away by Aniruddha (*Hāralatā*, p. 20) as applicable only to the exceptional or good Śūdrā (*sacchūdrāyāh dasāhena spṛsyatvamuktam*). The mother of a male child beoomes fit for all duties
-
-
 
 (*sarvakarma*) after twenty days, and in thirty days if she is the mother of a girl.
 
@@ -537,13 +430,9 @@ Kaliyuga. Lakṣmīdhara is apparently unable to get over the concurrence of aut
 
  *Varṇa-sannipāta* means the mixture of *varṇas*. *Anuloma* marriage by a Brāhmaṇa can be contracted only after he has married a wife of his own caste. If he is to marry a Śūdra wife, he must have already married wives in the three *varṇas* above the Śūdra. There should be no dropping of an intervening varna in such unions. If a Brāhmaṇa marries women of the four castes, say, one of each, in the case of a birth occurring in the wife of any one of the four, the period of impurity (*sūtakam*) to
 
-
-
 him will be ten, six, three and one day long in the order of wives beginning with a wife of his own *varṇa*. Hārīṭa gives different lengths for each of these *viz*. ten, seven, five and three days (p. 26). The inconsistency is explained away by *Hāralatā* (pp. 54-55) as a reference to "forbidden" marriages (*vyutkrama-vivāha*, *i.e.* marriages in which the rule of sequence of *varṇas* in wives is not followed. The rule of pollution from-*sapiṇḍas*. of lower *varṇas* is the imposition of the six, three and one day pollution, in sequence to the immediate lower *varnas, e.g.* a *kṣatriya* will observe six days pollution for a Vaiśya *sapiṇḍa*) and three days for a Śūdra sapiṇḍa, and a Vaiśya six days for a Śūdra sapiṇḍa. Distance in *varṇa* (*asāmīpya*) diminishes the duration of pollution, and vice *versa*. *Brahmapurāṇa* takes the rule as local custom (p. 26). The wife and her children should however follow the rule of duration of pollution of their own *varṇa* on the death of the higher *varṇa* husband or father (p. 27). The children should follow the rules of their mother after the father's death (p. 28). In regard to the offering of *piṇḍa* (funeral ball of rice) the rule in the cases of mixed marriages is this if the wives live with their children in different houses, while owning a common husband, all the children of all the wives should together offer only one common *piṇḍa* but observe the different rules of impurity prescribed for them (p. 28). Wives of different *varṇas* observe, like slaves (*dāsa*) periods of impurity prescribed to the husband or master—*i.e*. when the master is freed from impurity, the wife or slave is also freed from it. This rule applies only when the husband or master is alive. When he is no more, they follow the rule of duration of pollution of their own *varṇa*. Dependants (*bhṛtakāḥ*), disciples and slaves, who live with the master, are purified as is their master. In a *pratiloma* marriage the pollution of the mother is permanent and lifelong (p. 28). As such marriages are unlawful, the indication of lifelong impurity for those who are descended from such unions is only a way of emphatic con- demnation of such unions.
 
  To bring one within the ambit of pollution, descendants of anuloma unions must be those sprung from unions contracted in *śāstraic* form. A modern registered marriage, even when the
-
-
 
 pollution of either type, unless it is reinforced by a sacramental marriage. But such marriages are within *Kalivarjya*, though legal in some parts of India today. Lakşmīdhara's treatment of  
 pollution following such unions may justify the inference that he did not regard them as forbidden.
@@ -559,16 +448,12 @@ IN A FAR OFF PLACE (Parva 6)**
 
  News of births or deaths among relations will not reach other relations quickly in days in which communications were
 
-
-
 difficult or slow, and news will spread only slowly. Even relations living a hundred miles away might not get the news within the period of pollution. Some may not get the news for months or even years. If the news comes within the period. of pollution (*daśāha*, 'ten days', is mentioned merely as an illustration applicable to the first *varṇa*) the pollution ceases at the end of the prescribed term, and it does not run for a fresh term from the date of getting the news.  
  There is some difference of view among smṛtis on the duration of pollution in such cases. Thus, Manu holds that if the news comes after the ten days are over, the pollution is for three nights (*trirātram*, p. 33), while Gautama holds that the impurity lasts only for one night-and-day (*pakṣini*), and Vasiṣṭha makes it only one night (*ekarātram*). Jābāla holds to the three nights view (p. 34). The differences are thus reconciled by Lakşmīdhara, following Devala thus: the impurity is for three nights, if the news is heard after the ten days. following death and before the expiry of six months, a *pakṣiṇī* if it is heard after six months and before the expiry of nine months, and after that limit one night only up to twelve months. All are agreed that if the news arrives after one year, a bath clears the relation atonce, and he has no pollution.
 
 **IMPURITY FROM THE DEATH OF CHILDREN etc. (Parva 7)**
 
  In the case of children under three years or who have not cut their teeth, and who die in a far-off place, the impurity is cleared by a bath (*sadyas s'aucam*, p. 35). If the child dies in the neighbourhood it is for a night, but if the *cūḍākarma* (making the hair tuft) has been done for the child the impurity will last three nights. Yama makes the impurity in the case of such a child, if it dies abroad, one day and night (*ahoratra*,p. 36). Yājñavalkya rules instantaneous purity (after bath) for the death of children, who have no teeth, a night for children with teeth but who have not had *cūḍākarma* done, three nights for those who die between cuḍakarma and investiture (*Vrata*), and ten nights for boys who have died after Upanayana (*vrata*). Jābāla reduces the period to three nights in the case of boys who have undergone investiture but
-
-
 
 are without *ācāra* (*nirguṇa*, p. *36*). Vasiṣṭha makes the impurity last three nights for all children under two who die (p. 37). Paraskara holds that children under two years,when dead, convey impurity only to their parents, and they are buried, not cremated. If the infant dies within the ten days of confinement pollution, the impurity caused by the death is finished along with the birth impurity at the end of ten days (p. 38).
 
@@ -577,8 +462,6 @@ are without *ācāra* (*nirguṇa*, p. *36*). Vasiṣṭha makes the impurity la
 **IMPURITY SPRINGING FROM FEMALES (Parva 8)**
 
  In treating of *āśauca* springing from those of the female sex, its members are divided into classes according to age etc. Till *cuḍākarma* (roughly the third year) a girl is treated as a child; from that date till she is betrothed, she is treated like a boy, whose initiation (*upanayana*) has not been done. Her betrothal (*vāgdana*) is for purposes of *aśuddhi* almost like her later marriage (*vivāha*) in which the final step, which makes it irrevocable is the taking of the seven steps by bride and bridegroom round the fire, which they have lit (*saptapadi*). Marriage is a *samskāra* (sacrament) to women, and is likened to *upanayana* as it renders them fit for association in religious rites with their husbands. On marriage, a girl passes into the husband's family and *gotra*; to her parental home she is thenceforth a stranger (*parā*). Her liability to impurity hereafter follows that of her husband and his family. Marīci, cited by Vijñānesvara (III, 24), says a girl who has had *kanyakādānam* done is still unmarried even though she may havebeen offered, *i.e.*, betrothed. She is described as *asamskṛtā i.e*., *vāgdattā akṛtavivāhā* (p.40). Her relations have to observe three day's impurity on her death, as she will have died in the parental home (*gṛhe mṛtā*). Yājñavalkya (III, 24) and Angiras (as cited by the *Mitākṣarā*) treat the undisposed of daughter like children, and prescribe one day for purification on their death. Medhātithi rejects this view (V, 71). For married women there is no transmission of impurity on their death to
-
-
 
 the paternal side, while on their husband's side they will convey ten days pollution etc. (Viṣņu, p. 41). If a woman is confined for child-birth or dies in the father's house the pollution will be to that side one day (in the case of distant relations of the father) and *three* days for the parents. A betrothed girl's death conveys *three* days impurity to the bride-groom-elect's relationsand to the parents and their relations according to rule. Till *cūḍākarma*, being like an infant, immediate purification, after a girl's death is the rule (p. 42), and is applicable to all *varṇas* ;after *cūḍa* and till betrothal, the impurity is for a day; after betrothal it is three days for both the paternal and betrothed's groups.
 
@@ -591,8 +474,6 @@ WOMEN (Parva 9)**
 
  The discharge of the foetus before the normal period of gestation is termed *garbhasrāva*, and if the foetus has taken a "solid " form, it is termed *garbha-patana*. The birth of a child, alive or dead, before the full "ten months" is premature delivery. The terms are used indiscriminately by smṛtis though some (like *Smṛtimuktāphala*) discriminate between them. *Srāva*
 
-
-
 means " flow." Medhātithi (V, 64) interprets it not as the flowing out of a liquid discharge but as expulsion *before the right time.*
 
  The standard rule in cases of miscarriage is that from the fourth month of pregnancy, miscarriage results in pollution for as many days as the woman has been pregnant for months; *i.e.*, the months of pregnancy and of pollution should be equal. If there is a premature birth before the seventh month (and after the sixth) the still-born child should be dressed up and buried, and the pollution should be for as many days as there have been months. But, if the child survives the birth, it must, according to Medhātithi, be treated as a case of ordinary child birth, and the mother and father observe the full term of ten days impurity, while, if the child dies, it is to be only for as many days as there have been months of gestation. In regard to menstruation, he rules that if a woman's flow of blood ceases before the end of three days, she must still observe the full three days pollution, while, even if it continues after the third day she is to be deemed as "fit" to be touched, but not fit for participation in religious rites. The rule of impurity for miscarriage applies to all castes. Hārīta prescribes only three days impurity for abortion, if the foetus is not developed fully into a child, when the impurity will be for ten days, whether the child is born alive or is still-born (p.44). The prescription of immediate purification' (*sadyas-śaucam*) by Sumantu (p. 45) for miscarriage is interpreted by Kullūka (V, 66) not as an alternative for the mother's longer term of impurity, as per rule equating the term to the length of pregnancy, but as referring to the father. Immediate purification is for relations also.
@@ -600,8 +481,6 @@ means " flow." Medhātithi (V, 64) interprets it not as the flowing out of a liq
 **IMPURITY IN SPECIAL FORMS OF DEATH (Parva 10)**
 
  Death in certain contingencies causes no lasting pollution but one becomes pure on learning of it by a bath (*sadyas śauca*). These are death in riots of unarmed mobs (*ḍimba*) the battle field (*āhava*), death by lightning (*vidyut*), death by order of the king, and death on account of cows and Brāhmaṇas (*i.e.*, intheir defence). Death in the battle field must be to one who fights in it according to rule. In all these cases immediate
-
-
 
 purification ensues to relations. These are all cases of involuntary death. There are cases in which one of his own accord seeks death. Instances cited are going on the last journey'(*mahāpathagamana*), *i.e.*, proceeding onwards till one drops down dead, like the Pāṇḍ
 
@@ -620,8 +499,6 @@ POLLUTION FROM DEATH OF UNRELATED PERSONS
 
  Certain social or official relations create bonds like those of relationship by blood or by marriage. Such is the relation of the Teacher and pupil (*guru-siṣya*), the inherent idea being that the relationship was established when, after *upanayana* the pupil lived and studied under the Teacher in the teacher's family
 
-
-
 and house (*gurukula*). Such a *guru* is like a father, and by analogy, the ten days pollution springing from the death of a father attaches to a pupil on his *guru's* death. Other teachers (*ācāryāḥ*) under whom one has pursued supplementary studies are like *sapiṇḍas* and their death leads to three days pollution. It is noteworthy that smṛtis attach the pollution only to death in the families of the Teacher. The pollution is also reciprocal. The funeral rites of the Teacher may be done by the pupil. In such pollution, religious rites are interdicted as in the deathpollution periods following the death of relations by blood. In the case of a learned Brāhmaṇa of the village who dies, the death causes one day of pollution to all fellow villagers  
 (p. 51). In the case of a fellow student, whose death is heard of after the ten days, the impurity is for one day (p. 52). The death of the wives and sons of the Teacher confer pollution analogous to those of similar blood relations.
 
@@ -636,8 +513,6 @@ and house (*gurukula*). Such a *guru* is like a father, and by analogy, the ten 
 
 He who touches a corpse of a person who is not a relation is purified by a bath, if the contact has been unintentional or
 
-
-
 accidental, but if he has deliberately touched the corpse (*abhīsandhipūrva*) the impurity will last for three days (p. 58). The directions of Manu are that he who carries the corpse of an asapiṇḍa twice-born person, as if he was a relation (*i.e.* out of friendship) is purified after three nights, but if he also eats in the dead man's house he has impurity for ten days. If he neitherstays in the dead man's house nor eats in it, he is purified after one day. He who accompanies the funeral *cortege* (*anugamyaicchayā*) of his own wish, whether the dead person was a relation or not, is purified after he has bathed with his clothes on, touched the fire after the bath and sipped clarified butter. He who shares the bed and seats of persons under pollution for ten days, following death, becomes like them untouchable for that period. He who eats the food of those under pollution shares in full their pollution. If one who is not a relation dies in a man's house, the owner has three days pollution (p. 57). If a man is forced (*akāmataḥ*) to eat the food in a house under death pollution, he has pollution for three days. If a person enters the dead man's house, after the party returns to it, in due form, after cremation, he is purified by a bath, even though he may have previously touched the corpse (p. 58)
 
  The disposal of a corpse being a social obligation, a *dvija*, who carries to the cremation ground the corpse of a destitute and relationless Brāhmaṇa (*anātha*) does a meritorious act, like the performance of a sacrifice, and if the person who does this selfless task is a Brāhmaṇa, he obtains immediate purification by a bath, even if he has borne the corpse and placed the fire on it (p. 59). But a Brāhmaṇa should not follow a Śūdracorpse, and if he does so, he is impure for three days. If he cremates the corpse of a non-Brāhmaṇa or carries it for wages, he has impurity equal to that of a member of the caste of the deceased person (p. 59). A disciple who cremates his teacher's body for money is impure for ten days.
@@ -647,8 +522,6 @@ accidental, but if he has deliberately touched the corpse (*abhīsandhipūrva*) 
 
  A king in the discharge of his duties is free from pollution. The teacher does not contact impurity from a disciple even if
 
-
-
 the latter gets impurity on the death of his father. The king's domestic priest, being essential to the king, is free from pollution, as it may affect his public duties. Those under a vow and engaged in a sacrifice (*satra*) are free from pollution. But all of them have to bathe before becoming at once pure again. The king's servants in the discharge of their duties are also free from impurity. A Kṣatriya in the field of battle, a Vaiśya in the midst of his herd of cows, a Brāhmaṇa engaged in a sacrifice, *satrī* and an acolyte (*Brahmacārin*) are always free from birth and death impurity.
 
  Impurity springing from birth or death, and making the persons untouchable, does not operate in sacrifices, marriages and in battle fields (p. 63). The acolyte cannot give up his studies when his relations are under birth pollution. He has only three days impurity on the death of his parents (p. 64). Slave men and slave women (domestic servants), artisans (*kāravaḥ*) architects (*śilpinaḥ*), physicians are all under the rule of immediate purification. When one is engaged in making a gift (*dāna*) he is unaffected by pollution. Aṅgiras applies the exemption to *devayāga* or divine worship (p. 64), and Viṣṇu to the dedication of idols (*devapratiṣṭhā*), as well as to anarchy in the country (*deśaviplava*). Yama points out that the rules are intended for normal times (*svasthakāla*) only, and that when abnormal conditions spring about there should be relaxation of impurity (p. 65).
@@ -656,8 +529,6 @@ the latter gets impurity on the death of his father. The king's domestic priest,
 RELATIONSHIP OF SĀPIṆḌYA (Parva 14)
 
  In a broad sense, as taken by Kullūka, *Sāpiṇḍya* onlimplies relationship. The principle is important for determining the degrees of prohibited marriage of a man and a girl, the duration of pollution by birth and death among relations and for rights to and shares in inheritance of ancestral or other property. *Piṇḍa* is the term applied to the ball of cooked rice which one offers in a *srāddha* or funeral rite to departed ancestors or relations. In this sense, *sāpiṇḍya* is taken by Jīmūtavāhana and his followers as meaning the relationship within which the obligation to offer *piṇḍas* exists reciprocally among relations. But, as pointed out by Dr. MM. P. V. Kane
-
-
 
 (*History of Dharmasāstra*, II, p. 472) he does not apply this interpretation of *sapiṇḍya* to *āsauca. Piṇḍa* also means a "particle" and Vijñānesvara takes it to mean a particle of the body: *sapiṇḍas* are all those who have common particles derived from the same body, *i.e.* descendant of a common. ancestor. The application of this principle will lead to a very indefinite extension of the circle of *sāpiṇḍya*. Accordingly, the limits of *sapiṇḍya* are laid down in smrtis to the seventh person, above or below a person, calculated on the male or agnatic side alone, and if a mother intervenes, to the fifth person, on either side. The husband and wife are treated as *sapiṇḍas* of each other on the ground that they together contribute particles tothe making of a common offspring. The reckoning is from the person himself (*ātmā*) and goes up above to his grandfather's grandfather's grandfather. Similarly it goes down to his grandson's grandson's grandson. The common ancestor, who is seventh above is termed *kūṭastha*. Above the seventh, upto the tenth, or according to some upto the fourteenth, the ancestors are called *sakulyā* or *samānodakāḥ*. Lakṣmīdhara does not offer a definition of the term but is content to quote authorities to indicate its limits. After citing Manu's definition of the limits of *samānodakatā* extending till ancestral names are forgotten, he gives the practical limitation of it to ten steps, reckoned from one. *Sāpiṇḍya* in the case of women is restricted by Vasiṣṭha to three generations (p. 67).
 
@@ -667,24 +538,17 @@ RELATIONSHIP OF SĀPIṆḌYA (Parva 14)
 
  The corpse of a Śūdra should be carried out through the southern gateway of the town, while the corpses of Vaiśyas, Kṣatriyas and Brāhmaṇas should be carried out through the
 
-
-
 western, northern and eastern gateways (Medhātithi, V, 92). The corpse should not face the village (*grāmābhimukham*), when it is being carried out. If a Brāhmaṇa's corpse is carried out by S'ūdras, when Brahmaṇas are available to do the work, the contamination prejudices the dead man's ascent to Heaven. The interdiction applies to corpses of other *dvijas* also. If a S'ūdra volunteers his help to carry the cremation fire or firewood for even a master, he is guilty of an unrighteous action. A S'ūdra corpse should not be carried by a twice-born person (p. 70). Sons are to carry out the corpses of parents, but S'ūdra sons can not carry out their *dvija* father's corpse, or the corpse of their *dvija* step-mother (*Viṣṇu*). The Brāhmaṇa should not accompany the Sūdra's corpse (p. 70).
 
 RITES TO THE DEAD (*Pretasamskāra*) Parva 16
 
   Cremation is forbidden to dead children whose teeth have not appeared *ajātadanṭāḥ* or to those who are still-born. They should be simply buried in holes dug in the ground, the *Yamagāthā* (Rig Veda, VII, 3, 11. 11-12) and *Yamasūktam* (Rig Veda,V11, 6. 14, 1-16) being chanted at the time. No water libations should be offered, and impurity disappears with a bath (p. 71) Hārīta allows cremation in the case of children one year old (p. 71) but two years of age is regarded as equal to dentition. The burial should take place in "pure ground"(*Sucaubhūmau*), i.e. it should not be buried in a public burial or cremation ground, which are regarded as always impure. The relations, according to Manu, are to observe impurity for three days. There is an option to offer libations to a dead child which was three years old, and which has undergone the naming ceremony (p. 72). A boy who has undergone investiture should be cremated, and the relations should return silently to the village i.e. after the hymns to Yama had been recited at the cremation ground. Gautama prescribes libations to those who have died after the rite of cūḍākaraṇa, and for the wives and daughters (married also) of dead adults. One who has lit (and maintained) the Fire (ahitägnih) should be burnt only by that fire. But it may happen that such a person may die abroad or when on a journey, and his cremation then done in an ordinary  
 
-
-
-
 fire. Both Gautama and Vasiştha direct that in such a case a second cremation be done, with his fire, and the usual rites, by his relations on a dummy figure made of *kus'a* grass, and the usual period of impurity be then observed (p. 73). The fire to be used on the second cremation is the *dakṣiṇāgni*: and his sacrificial utensils should be cremated with him (Kane, op. cit.,II, p. 985), Yajñapārsva (p. 75) prescribes the use of a dummy corpse of *palās'a* twigs, bound together with a woollen string and pasted over with barley-dough (p. 76). The same should be done for the wife of such a person, when she dies. In regard to those who do not maintain the Vedic fires, the *gṛhyāgni*, the nuptial fire which is maintained by the grhastha should be used. During the second cremation the words "This man is to the celestial world (*asau svargāya lokāya*, p. 79) should be uttered. The chaste wife should be similarly cremated (p. 80).
 
 LIBATIONS TO THE DEAD (*Udakadānam*) Parva 17
 
   When the corpse has been taken to the cremation ground and laid there, the mourning relations, shall go round it, the youngest leading (in sequence) from the right to the left, saying "*apa naḥ s'osucadagham.*" After the body has been set on fire, they should, without looking on the burning body (anavekṣamāṇā), and facing south, enter a pool of standing water, with only their waist cloth on (and the sacred thread reversed), all the time muttering the hymns to Yama. They should plunge into the water atonce. They should with both palms offer a libation to the dead person, mentioning his name and gotra. The libations should be offered, according to Vasişṭha on even days, after the death. After rising from the water, after the stone (pāṣāṇa) has been installed, they should offer libations on it, till the ten days are over, one additional for each day, in the case of the Brāhmaṇa, and in the case of the other varnas for each day of their respective periods of pollution. After the first day, three libations should be offered to the dead person daily. Before offering the libation one should ask his wife's brother (if he is married) if he is permitted to offer the libations, and after receiving his assent he should proceed to make the libations (p. 84). Āpastamba
-
-
 
 notes that the mourners should have their hair knot loose i.e., have dishevelled hair, and he allows the bath in a river. He also wants the libation to be repeated thrice (p. 84).
 
@@ -700,17 +564,11 @@ CONSOLATION IN GRIEF (Parva 19)
 
 The removal of sorrow caused by death is technically named " sokäpanodana." After the mourners have bathed on the cremation day, offered libations, and come out of the river or pond, they should seat themselves on a lawn (s'ādvala) and hear extracts from old legends and epics showing the fleeting nature
 
-
-
-
-
 of life, the inevitability o death etc. The man who holds to the bubble of life as permament and mourns is a fool. Why should one lament when the body composed of the five elements returns to its constituents? The tears of mourners fill the dead man's spirit. Heroes have perished. The wailing of mourners handicaps the released spirit. Bhūridyumna, an ancient hero, lost his place in Heaven, owing to the drag of the sorrow of his relations (p. 92). Unions end in parting. Death is as natural as youth etc. The union of body and spirit is like the contact (momentary) of log with log in the ocean. Rebirth is certain to the dead. One is followed only by his good and bad deeds, and not by relations. So exert to make the dead man's spirit join the manes in the world of manes.
 
 RE-ENTERING THEHOUSE AFTER CREMATION
 
   Re-entry into the house after cremation is hemmed in by a number of rules, dictated by the desire to avert ill-luck and to ensure purity of relatives. In going back to the house the younger members of the funeral party of *sapiṇḍas*, should lead (p. 98), and all the persons should chew *margosa* (*nimba*) leaves perhaps as a token of the bitterness of the grief. They should place their feet on the stone threshold after washing their feet in water mixed with cowdung, and after sipping water (*ācamya*), Those who have handled the corpse should not re-enter the village till the stars appear (*ā-nakṣatradars'anāt*), i.e., till it is dark. If the cremation takes place at night, the re-entry of such persons should take place only after sunrise next day, but if formally permitted by Brāhmaṇas they may re-enter earlier. They should sleep in the period of impurity on the ground and eat on leaf plates in special sheds with thatched roof (*parṇakuṭ¡*). Touching the fire or oil is also prescribed as pre-requisite purification by Asvalāyana (p. 99). No food should be cooked in the house of the dead on the night of the death. For three nights they should not eat food which has salt in it. In returning to the village, they should not look on the cremation ground (p. 99). Pāraskara prescribes chewing leaves of *picumanda* in place of nimba leaves, and the chewed leaves should be spat out before entering the house. For three nights the relations
-
-
 
 should abstain from connubial intercourse. Food should be taken only by day, and it should not be meat, nor cooked in the house, but it may be purchased (*kritvā*) or obtained as a gift (*labdhvā*). Milk should be mixed with water and offered to the dead soul with the words: "Dead person, bathe in this." Before entering the house the clothes worn during the cremation should be discarded and fresh clothes worn, Flowers, balls of food, drink and unguents should be placed on the floor (of a shed) for the dead spirit. One meal daily is the rule for three days (p. 100). For ten days they should sleep on grass mats spread on the floor, and not on soft beds. On the eleventh and twelfth days come the sraddhas to the dead. For eleven days water should be offered to the spirit (p. 101). The offerings of water to the spirit should be made on odd days (p. 101, Gautama). The water libations to the dead should be made outside the house (bahiḥ, Sumantu, p. 102).  
   On the ninth day one should take a shave and have his nails clipped (p. 102). Āpastamba directs that only those younger than the dead man should shave on the ninth day, but even they should not shave off the top-knot (śikhā) A brahamcarin, who has completed his studies but not married(samāvṛtta) should not get shaved on such occasions, as such persons can shave only during great sacrifices (satra, p. 103). On the tenth day, the mourner should go to the adjoining jungle (araṇya), and after a shave bath and purification, wear new cloths (ahatavāsāḥ) and re-enter the house. After doing the srāddha meant for one person alone, viz. the dead (ekoddiṣṭa), he may proceed to other rehabilitation rites (svastyayanam, p. 104). A pacificatory rite should be done on return home on the tenth day (*sānti*). An odd number of Brāhmaṇas should be fed. At the end of the impurity, and after the *s'āntikarma*, the Brahmana mourner is rendered pure by *ācamana*, the Ksatriya by touching his horse, chariot or weapons, the Vaisya by touching a goad or the string that holds cattle, and the S'ūdra by holding his staff (yaşți, p. 106).
@@ -719,15 +577,11 @@ COLLECTION OF UNBURNT BONES (Asti-sañcayanam) Parva 21
 
 The rite of collecting and disposing the uncalcified bones left by the cremation should be done, according to *Vişnusmrti*,
 
-
-
 on the fourth day after the cremation (p. 107). He advocates their being thrown into the waters of the Ganges, as it would ensure heaven for countless years to the deceased. In Kāsi the practice is to perform the sañcayanam immediately after the cremation is finished, and bones and ashes are alone left. The bones should be placed with appropriate mantras in a pot, after being collected with the thumb and little finger, and spread over kus'a and besprinkled with ghee, milk and sandalwood paste. *Gobhilasmṛti* asks the rite to be done on the days following cremation or on the third day (p. 108). The mourner should wear his sacred thread reversed (prācīnāvīti) and should be silent when performing the rite. As'valayana directs the doing of the rite within ten days of death, on an odd with only one asterism (nakṣatra), and depositing the bones in a pot and covering it up with a lid, after throwing some earth within, in a spot near water where only rain water shall flow on it and it will not be splashed on by the water of the river or tank (p. 108). *Brahmapurāṇa* (p. 110) directs bali offerings to be made to the goblins of the cremation ground, before the sañcayanam. The pot containing the bones should be new, and it should be left at the foot of a tree or in a jungle. Either the grandson (by a daughter) or a brother may throw the bones with the vessel into the Ganges. The rite of *sañcayana* may be done, according to this authority, on the third day for a vipra, on the fourth for a Kşatriya, on the fifth for a Vaisya and on the tenth for a S'ūdra or, according to the custom of the country. The rites to the dead spirit should begin after the *sañcayana* (p. 11). A vipra who transports the bones of persons other than his parents and his blood relations, earns ill-luck (bhāgyakṣaya) and should perform an expiation (căndrāyaṇam caret, p. 113).
 
 BODILY PURITY (S'arirasuddhi) Parva 22
 
   The human being an animate person, his purification implies internal as well as external purity, i.e. subjective as well as objective cleansing. Earth and water are the ordinary means of cleansing. The Fire cleanses earthen vessels and in cases of exceptional impurity those of metal. The excreta of the cow
-
-
 
 form another potent source of ceremonial purity. Bodily impurity may consist of dust adhering to the body, or dirt sticking to it, or smell and dirt due to perspiration. These are removed by rubbing the body well with clean earth, and washing it away, and ending by a bath.  
   In regard to the bath, the rules of proper sanctifying bath are laid down elaborately in *Niyatakālakāṇḍa*(pp. 17-85).
@@ -737,26 +591,17 @@ form another potent source of ceremonial purity. Bodily impurity may consist of 
    The treatment of the means of mental purification leads to the enunciation of rules of high ethics. Thus, the learned are purified by a forgiving disposition, which is to say that learning bereft of that temperament is impure. "He is pure who gains wealth with pure hands," not he who purifies himself with earth and water. That is, external purification is ineffective without right thought feeling and conduct. The sources of impurity are not merely physical but social. Thus listening to slander pollutes the ears, the eyes are contaminated by lustful glances on the women of others (*parastrīdars'ana*) the tongue by talebearing (*paisunya*), the limbs by killing and theft, the soul by thoughts of inflicting pain (*himsā*). The drift of such dicta is that mere physical cleansing is not enough to make a person really fit to do religious rites. He must possess both moral and mental purity also. Sinful thoughts (*apunya*) contaminate the mind; the remedy for it, according to Hārīta (p. 118) is meditation on God (*Viṣṇucintanam*). Looking at the solar disc (*ādityadarsanam*) is a means of getting over impurity caused by misuse of the eyes, but it is ineffective where one has seen with lustful eyes a naked woman (other than his wife), because it is a combination of bad thoughts with misdirected vision.  
    Evil dreams are held to convey impurity. The body below the navel is held impure and touching such parts must necessitate purification by a bath or washing the contaminated hand (p. 122).
 
-
-
-
-
 PURIFICATION FROM BATHING (Snānaśuddhi) Parva 23
 
    A bath is the means of removing the impurity caused by the touch of a caṇḍāla *(divākirtya)*, an outcaste, a menstruous woman and one who is under impurity by confinement (*sūtikā*) as well as a corpse or a person who has touched a corpse (p. 123). When one sees impurity-causing things, he is cleaned by sipping water (*ācamana*) and the repetition of certain mantras. If one touches human remains that are still wet, he must bathe, but if they are dry (*nis-sneham*) he must do an *ācamana*, see the Sun and touch the hind quarters of a cow, but Brahmapurāṇa directs a bath in the latter case also, which is explained by Lakşmīdhara as necessary when the the contact is made deliberately (p.124).  
    Manu directs that one who vomits or purges should bathe and eat ghee, but if the attack comes on after food it is enough if he performs an *ācamana*. After sexual intercourse the man must bathe to get rid of the impurity (p. 124). After a shave one must bathe.  
    The touch of a dog is generally held to need a bath, but Gautama is satisfied with the washing of the limb that has accidentally touched the dog (p. 125). The touch of the village pig, cock, etc. needs purification by a bath, if done intentionally. An unclean person touching another unclean person needs a fast for a day to restore his old condition (p. 126). Touching human remains or excreta necessitates a bath and *ācamana*. He who travels on the road with a candāla must bathe with his clothes on, to regain purity. Trees on burial mounds (caityavrkṣa), a funeral pile (citi) a sacrificial post (yūpa) and a seller of Soma (somavikrayin), necessitate if touched or contacted a full bath (p. 127). Touching a leper necessitates a bath. If a crow strikes a man on his head he should bathe (p. 128). Touching the donkey and the camel also necessitate a bath. Kās'yapa prescribes some additional rites of purification (p. 128). A bath is also needed for touching a vessel containing intoxicants (*madyabhāṇḍam*) and its contents (p. 129). The part of the body (other than the head) touched by a washerman, a maker of nets, a worker in leather, a hunter, an actor and a woman
 
-
-
 who commits adultery irrespective of varṇa is rendered clean after a wash of the part of the body that contacts them (p. 129). The removed garland of an idol of S'iva is impure and its contact necessitates a complete bath (p. 130). One on whom the excreta of a crow or other bird falls must bathe. A bath in water collected by day purifies an impurity acquired after sunset, except that from touching a corpse (p. 131). A sick man, who is unable to bathe, is purified by the touch of one who bathes instead (p. 132).
 
 PURIFICATION OF INANIMATE OBJECTS (*Dravyasuddhi*) Parva 24
 
    Metallic objects, gems and objects of stone are rendered clean by the use of ashes, earth and water, for rubbing and washing. A vessel of gold is made clean by mere washing, if it shows no stain, and so also a vessel of silver. Copper, iron, brass, pewter, tin and lead must be cleansed by alkaline substance, or acid, followed by a wash in water. A liquid is purified by immersing in it two blades of burning kus'a grass, a solid by sprinkling water on it, and a wooden object by planing it. Sacrificial vessels are rendered pure by rubbing them with the palm and afterwards rinsing them with water (p. 133). Hot water may be used to clean other sacrificial accessories. Large heaps of grain and of cloth are made pure by sprinkling water on them, while small heaps must be washed. Silk and woollen stuff are cleaned with alkaline earth, blankets with pounded arista fruit, amsupatta by bel fruit and linen cloth by a paste of yellow mustard. Conch shell, horn, and ivory must be cleaned like linen stuff, or by washing in cow's urine. Grass,wood, and straw become pure by being sprinkled with water, a house by sweeping and smearing its floor with cowdung, and an earthen vessel by being placed in fire (p. 134). Flowers, fruit, roots and seats are made clean by mere sprinkling with water (p. 135). The antelope skin is cleaned by a brush of tail-hair. Gums, resins, sugar, salt, colored powder, and woollen stuff are made pure by being sprinkled with water (p. 136), but if they made very impure, Devala directs their abandonment (parityāga). Idols should be bathed and re-dedicated (p. 138).  
-
-
-
 
 Wheat, paddy, barley and other grains are cleaned by being put into a mortar and threshed. (p. 142). Grass and firewood are cleaned by exposure to the Sun (p. 142). Polluted bedsteads and beds should be washed (p. 143). One's wife, cot, seat, vehicle, boat, pathway and grass are pure to oneself, but if used by others are impure (p. 144).
 
@@ -767,16 +612,12 @@ PURIFICATION OF EXCESSIVELY IMPURE OBJECTS
 
    "What has been defiled by bodily dirt or excreta (*s'ariramala*) or by fermented liquor *(surā, madya*) illustrates the the height of impurity." says Vişṇusmrti (p. 149). He directs that defiled metallic vessels be placed in the fire, articles of wood thrown away, as also earthenware, of bone or ivory be scraped on the surface, articles of conch, or shell or mother of pearl be buried deep in the earth for seven days as also gems, crystal, or stone articles. If a garment is defiled badly, the part so defiled must be cut off and cast away, if even after washing that part shows stains. Hārīta notes that new cloths, which show some sign of color or smell on account of starching, may be worn unwashed, but for all clothes washing is the mode of purification. Metal objects contaminated by semen, urine, or excreta should be scraped clean (*ullekhanam*) with ashes (*bhasmanā*) and then washed seven times. This is an alternative to placing them in the fire, and is suggested by *S'ankha-Likhita* (p. 149). Objects which have been defiled by urine, ordure, blood, semen, or a corpse, but are not offensive to sight or smell, and are of metal shall be rubbed clean with cowdung or ashes twenty-one times" (Baudhāyana, p. 150); but non-metallic objects so contaminated are to be thrown away. Tears, phlegm and liquor are all defiling causes. Articles which cannot be easily cleaned should be thrown away. Objects of leather should be also washed like
 
-
-
 cloth, or have the defiled parts cut off (p. 151). Wet skins should be thrown away. Devala classifies defilement into four types: contaminated (*dūṣita*) i.e: defiled by contact with unclean objects or persons, which are rendered fit for use by sprinkling with water (*prokṣaṇa*); objects that are forbidden, like improper food and drink (*varjya*), which have simply to be thrown away; in the same category are persons who are temporarily or for stated periods impure e.g. a menstruous woman, a woman who is under pollution after child birth (*sūtikā*), who should be kept at a distance for the specified periods of impurity; what has been spoilt (*duşta*) like leather which has been defiled, which are cleanable in specified ways; and things which are naturally impure (*kas'mala*) like a corpse (*kunapa*), pus (*pūya*), human bones etc. which should simply be abandoned.
 
 PURIFICATION OF THE GROUND  
 (Bhūmisuddhi) Parva 26
 
    Land is cleansed (ritually) in five ways, according to Manu: sweeping, smearing with cowdung, sprinkling with the urine or milk of cows, by scraping (*ullekhana*) and by stalling cows on the spot for a day and night (p. 152). Yama adds five other modes: digging up the contaminated ground (khanana), filling it up with new earth or material *(pūraṇa*), burning up the floor (*dāha*), and cutting it up or scraping it (*abhigharṣaṇa*), and by leaving it unoccupied for some time (*kāla*). Mitramisra gives a triple division of land-uncleanliness for ritual use (*apavitra*) ; amedhya, duşta, malina (p. 152), cleansed respectively by five, four, three and two and the last of the above modes. A place in which a person has died or been delivered of a child or where a corpse or human remains have been kept is contaminated in an excessive way as also where outcastes have lived (*amedhyāḥ*), and ground which is full of unclean insects and maggots. Superficial accumulation of unclean objects makes a land dirty (*malina*). A house is rendered pure by being swept first and then rubbed all over with cowdung. (Yājñavalkya, p. 154). A temple ground which has been defiled should have its flooring dug up, and the *debris* thrown far out of the village or town (p. 154). Parāsara declares the following to be pure : e.g. water
-
-
 
 flowing on road drains, road and pathways, boats, grass and burnt brick and they are not polluted by touch of unclean persons or animals (p. 155). Vişņu declares: "Mire and water on the high road that have been touched by low caste people, by dogs or by crows, as well as buildings constructed with burnt bricks are purified by the wind" (p. 155). A road is cleanedalso by sunlight and the rays of the moon (
 
@@ -789,15 +630,11 @@ MAKING WATER FIT FOR RITUAL USE
 
     Water that is sufficient in quantity to satisfy the thirst of cows, which springs from the earth *(bhumigatā*), which is not contaminated by unclean things, and which possesses proper smell, color and taste, is always pure (Manu, p. 157). "Water which is collected on the ground is never rendered unclean " (*apo na duşyanti mahitalasthā*, p. 158). If an animal with five digits has been found dead in a well, the entire water of the well should be baled out, and its bottom should be wiped dry with a cloth (*Vişnusmrti*, p. 158). "If it is a well constructed with burnt bricks a fire must be lit within it, *pañcagavya* should be thrown in, when fresh water collects, after the old water is baled out. "For small ponds, the same process should be applied. Large tanks are not defilable. Wells, small tanks etc. are cleaned by baling out a hundred pots of water, and then throwing in *pañcagavya*. Water that has stood over for a night after collection in pots should be thrown away. (p. 160). Water should not be collected by night (p. 161). Wells and tanks untouched by candalas are pure. How can water, which purifies all things be itself made pure asks Brhaspati (p. 162) The water is cleaned by air, sunlight and moon beams and pa*ñ*cagavya.
 
-
-
 PURITY OF COOKED FOOD (*Pakvānnasuddhiḥ*) Parva 27-A
 
    Cooked food that has turned sour should not be eaten, but if it is washed clean in water, till the acidity disappears, it may be eaten in times of distress (p. 163). Such stale rice, if seasoned with pulse, may be eaten after being washed and mixed with ghee. Food that has been contaminated by hair, mosquitoes etc. may be eaten after being dusted with powder, and washed in water. Food seen by a newly confined woman or by outcastes may be eaten after being washed and touched by gold (p. 163). Accept what is praised in food, and reject what is condemned. Minute animalcules do not make cooked food unfit for consumption. Food that has been defiled by being smelt by a cow, or by hair being found in it may be used after being washed. Any part of a heap of food in which defiling objects like hair etc. are found may be removed, and the reminder eaten after it is washed.
 
    Clarified butter, honey, payasam, milk, jaggery, sugar-cane juice and butter milk or curds are not rendered unfit by being brought in vessels of S'ūdras (p. 165). Oils are rendered fit for use again after being boiled. Mined objects may be eaten after being sprayed with ghee. Cooked food seen by persons who should not see it, may be rendered fit for use by being sprinkled with ghee. Food that has been touched by monkeys, dogs, goats,cats, crows, and vultures should be cast off, according to a general rule, but Hārīta allows their consumption after being washed in water in which gold, coral, silver, and sapphires have been dipped, and it has been sprayed after repeating proper mantras, taking a piece of flaming *kus'a* round it, and making sunlight beat on it (p. 167). If a large heap of food is contaminated, a small portion may be taken out and the rest purified, as above. Baudhāyana specifies the *mantras* to be recited in the purification. Preparations of milk, oils etc. can be purified by pouring them from one vessel into another. Food exceeding in quantity a *droṇa*, if defiled by the touch of dogs or crows, need not be thrown away but be purified. The rules of contactimpurity do not apply (even to food) in festivals, in places of pilgrimage, during marriage festivities, when there is a conflagration, in battle, or rebellion. Questions of impurity by touch
-
-
 
 need not be raised in cowstalls, oil mills, sacrificial halls, and where women, children and sick or infirm persons are concerned. (p. 169). Preparations in oil may be eaten even if made by S'ūdras (p. 169) as also *pāyasam*.
 
@@ -806,13 +643,8 @@ EXCEPTIONS TO THE RULES OF IMPURITY
 
   The concluding Parva (i.e. the 28th) is devoted to an enumeration of exceptions to the rules of impurity. It begins with a declaration of Manu that the woman's mouth is always pure (so that kissing her causes no contamination), a bird is pure when it makes a fruit fall (by pecking at it), a suckling calf (or child) at the flow of its mother's milk and a hound on catching a deer. In the last three cases there is a transferred epithet: the pecked fruit is free from impurity and can be eaten, the udder and the woman's breast are not impure through suckling, and the touch of a dog does not contaminate the venison. The whole of a woman's body is described as free from impurity during sexual intercourse (*ratisamyoga*). If an animal whose flesh is allowed to be eaten is slain even by a *caṇḍāla*, it can be deemed free from pollution and may be eaten (p. 171). Mosquitoes (*masakāḥ*) and flies or bees (*makṣikāḥ*) do not carry impurity to the objects or persons they touch. One's bed and seat are always "pure " to him, and he may occupy them again and again without having them washed or sprinkled. The cooked food collected as alms (*bhaikṣya*) is pure in the sense that its being seen by animals or persons who communicate impurity by sight will not make it unfit to be eaten. The razor (*kşura*) is "pure" in the sense that (after washing) it can be used to shave different persons. A wollen blanket is always pure, and its being touched by one under pollution will not make it as'uddha. The ladles and spoons in a sacrifice (*yajña*) are always pure (This seems to be a reference to licking the ladle or spoon(camasa) by the sacrificer, which is one of the Kalivarjyas, and may indicate that Lakşmīdhara did not accept the interdiction of such licking). Cows, horses, drops of water, the shadow, grasshoppers and moths (*s'alabhāḥ*), parrots (*s'ukāḥ*) are always pure. Air, water, and fire, when 'free' are not only pure by  
 
-
-
-
 themselves but are purifiers *(pavitra*). The hands of the workman are always pure (i.e. a workman does not communicate his caste impurity by his working in a house). A jar which contained ghee or a shop offering for sale fruit are uncontaminable by the contact of forbidden food, (p. 172). Mines are ever pure, and so are goods exposed for sale. (*prasāritam paṇyam*). Bṛhaspati holds that the old and children do not contract impurity (p. 173). Distilleries are always impure (p. 173). Dust is pure when carried by the wind, unless it is from groups of asses, goats and dogs. Baudhāyana (p. 174) is cited for the dictum that even a selfrestrained (*niyatātman*) person living in a town whose mouth, face etc. are covered with dust raised in the town, is not free from impurity, i.e. town dust carries impurity with it, as physical purity is not less necessary than spiritual. The impurity due to consuming what is left over from the use or consumption of others (*ucchista-dosa*) does not attach to water, honey and clarified butter used in fire rites (*sarpis*).  
     Devala discriminates between *suci, pūta, svayam-s'uddha* and *pavitra*. The first consists of new and untainted things; what is by itself pure is *svayamsuddha*; and what conveys purity to other objects by its addition or touch is *pavitra*. Grains and ornaments are suci, and when they are put to use, they are described as *pūta*. Children and women not in menses are always s'uddha and so a Brāhmaṇa untouched by a menstruous woman. A long list of purification-conferring articles like *tulasī, darbha, sesame seed, fried grain* (*lāja*), turmeric, sandal and barley is given by Devala (p. 176). Fire and earth are purifiers par excellence but it should be fire that has not been itself handled by evil men (*durmanuṣyāḥ*)-Articles that are defiled are purified by being placed in the fire; and taking a flaming darbha round them purifies contaminated objects. But even then a fire that has been ignited and used (bhukta) by S'ūdras is not fit for acceptance for rites by Brāhmaṇas; in the same way a Brāhmaṇa's fire cannot be used by "dog-eaters" (*s'vapāka*) and S'ūdras. So are the fires of *caṇḍàlas*, of outcastes and of the funeral pyre (p. 176). They are unfit to be used by s'istas (p. 179). In the case of earth, for purification, it is best to take it from outside the village as it will be free from contamination.
-
-
 
     One engaged in a religious rite should not touch any part of his body below the navel, as it will be deemed impure (p. 177). The waistband that is tied round a man's waist in *jotiṣṭhoma* is said to divide the pure from the impure halves of the human body (p. 177, note). The saliva from a woman's mouth is pure (vāruņi) and her breath also (p. 178).
 
@@ -826,19 +658,13 @@ CONCLUSION: UNTOUCHABILITY
 
 The outward mark of *as'uddhi* is untouchability (*asprs'yatva*), to one who wishes to do a religious rite. As all the acts of a
 
-
-
 person, including bath, eating, sleeping and religious rites have a religious basis or background, *as'uddhi* makes one unfit, till he is again rendered 'pure' for any of them. The underlying idea in *as'uddhi* springing from birth, death, childbirth and menstruation has already been dealt with. When the impurity is intense (*atyanta*) as in the case of a menstruous woman or one within ten days of her confinement, it radiates to a distance, and one should not go near such a woman, without getting impure, even if he does not touch her. A husband who associates with his wife or enters her confinement chamber within ten days of childbirth shares her ten days impurity to the full. One menstruous woman touching another contaminates both still further. Relationship does not diminish the vulnerability in husband, father or brother or son. A Brāhmaṇa during meals cannot touch his 'initiated' son. The Brāhmaṇas at a *S'rāddha* cannot touch one another. A paid temple priest (*devalaka*) and a village priest (*grāma yājaka*) are untouchable. (Aparārka,p. 923). It cannot be said that the as'uddhi reflects a low idea of the women or treating them as low. A corpse is a source of impurity to all who not only touch it, but are in its neighbourhood or follow it to the cremation ground, even if it be that of one of the same caste, or of a dear relation or friend. Association with death makes not only a cremation or burial ground always impure and a source of impurity, but such things as the stake to which a sacrificial victim is tied (*yūpa*) is impure on the same ground.
 
   Those whose duty is to look after crematoria or cemetries, or who make killing their vocation, like fisherman, fowlers and hunters are deemed to radiate pollution. Those who eat carrion are despised and polluting animals are deemed as sources of pollution even from a distance. It will be natural to expect that persons who follow such callings will not find competitors and society will make their functions hereditary, leading to hereditary pollution.
 
   The *candāla* is defined as the son of a Brāhmaṇa woman and a S'ūdra or lower person. It is the height of *pratilomaism*, or forbidden unions, and the severity of the rule making the offspring of such unions the dregs of society must be viewed as a defensive measure in a society which abhorred such unions.
 
-
-
 The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. a person who has defied religious rules and has been oulawed from society is placed in a similar position, and if his wife and children do not abandon him in the forms prescribed, they share his sin and its consequences in untouchability. These are the only cases of hereditary untouchability, besides those springing from hereditary occupations of an unclean or noxious kind, which constitute *asprs'yatva* of an aggravated form. If the parents have sinned by forming a *pratiloma* union that makes them *caṇḍālas*, why should their offence be visited on the children? The explanation is to be sought in the belief, once universal, that one is born into a family according to his good or bad karma in a previous birth. Punishment or suffering expiates. Unless such expiation exists, the venom persists, and a caṇḍāla in one birth will be one in subsequent births also. Social ostracism or ignominy is viewed as the punishment or expiation that helps to overcome the original sin, and facilitate rehabilitation in subsequent births. When those concerned shared this belief, the sting of the penalty was largely neutralised. It is only when the spiritual or metaphysical background is either not understood or rejected by a community that such social degradation comes to be viewed as cruel, and as calling for strong action to eliminate it. One who offends may escape human justice, but not the force of the eternal law of Karma.
-
-
 
 **श्रीः**
 
@@ -873,8 +699,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^5]: "अ[ - अल्लाइ राजकीयग्रन्थशालीया मातृका ]- मरणात्पूर्वम्."
 
-
-
 **आशौचं सन्निपातेऽथ तथाशौचं विदेशगे।  
 बालाद्यशौचं स्त्र्याशौचं[^6] गर्भस्रावे ततः परम्॥**
 
@@ -907,8 +731,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^12]: "प्रोक्तान्येतानि शुद्धये- अ."
 
-
-
 **अथ मरणाशौचम्**
 
 ***प्रेतशुद्धिः***
@@ -934,8 +756,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 सपिण्डान् मातृबन्धूंश्च यत्र क्कचन गच्छतः॥**
 
 [^16]: "नुधावनम्- अ"
-
-
 
 **योनिज्ञातिद्विजेष्विष्टमाशौचं सहवासिषु।  
 भर्तृगुर्वोरशौचं स्यान्मृत्युप्रसवकारणम्॥  
@@ -966,8 +786,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **त्रिरात्रेण विशुद्ध्येत्तुविप्रो वेदाग्निसंयुतः।  
 पञ्चाहेनाग्निहीनस्तु दशाहाद्ब्राह्मणब्रुवः॥**
 
-
-
 **स्वाध्यायः क्रियते यत्र होमश्चोभयकालिकः।  
 सततं वैश्वदेवश्च तत्राशौचं न विद्यते॥**
 
@@ -992,8 +810,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 हीने हीनतरश्चैव त्र्यहश्चतुरहस्तथा॥**
 
 'हीनः ' स्मार्ताग्निमान्, वेदैकदेशाध्यायी। 'हीनतरः'श्रौतस्मार्ताग्निरहितः संपूर्णवेदाध्यायी॥
-
-
 
 *पराशरः*[^22] \[३-१८, ५, १९\]
 
@@ -1025,8 +841,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 \-
 
-
-
 *बृहस्पतिः* \[ आशौ., २३\] –
 
 **पञ्चाहेनाग्निहीनस्तु दशाहाद्ब्राह्मणब्रुवः[^27]'। इति॥**
@@ -1055,8 +869,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **"संपर्काद्दुष्यते विप्रो जनने मरणेऽपि च।  
 संपर्कविनिवृत्तानां न प्रेतं नैव सूतकम्॥"**
 
-
-
 इति पराशरेणाभिधानात् । एवंविधस्यापि पुंसः पुत्राद्य[^34]शौचसंपर्के[^34] सत्यशौचिनामिवाशौचं भवति। उपपद्यतेचैवं वेदाग्निहोत्रवतामपि संपर्किणां दशाहात् शौचसमाचारः । यःपुनरेवंविधो वेदमात्राध्याय्यमीमांसिततदर्थोऽग्निहोत्रवान् वेदाध्ययनस्मार्ताग्निमान् वा पुरुषस्तस्य संपर्कादेवैकाद्दत्र्यहाशौचंभवति । तथाविधाशौचविषय[^36]त्वेन[^37] च 'अग्निहोत्रिणामग्निहोत्र'(?) इत्यादि\*विष्णु[^38]-गौतमाद्युक्तस्याग्निहोत्रहवनादिक्रियावि[^38]षयस्याशौचाभावस्योपपत्तिः[^38]। न[^41] विशेषप्रवृत्तस्य शास्त्रस्याऽश्वस्तनिकादिविषयत्वेन सङ्कोच इत्युचितम्। अनेनाकारेण सङ्कोचेप्रमाणाभावात्[^42]। न चाश्वस्तनिकादिवृत्तिविधानेनाप्यशौचसङ्कोचाक्षेपः । वेदार्थज्ञानादिगुणयोग्यशौचिसंपर्कवर्जकपुरुषविषयत्वेनाप्यश्वस्तनादिवृत्तिविधानोपपत्तेः । वेदार्थज्ञानादिगुणयुक्ताशौचसंपर्करहितपुरुषविषयत्वेन वाशौचसङ्कोचे "ग्रन्थार्थतो विजानातिवेदमङ्गैःसमन्वितम्" इति, तथा "अग्नयो यत्र हूयन्ते", तथा"संपर्केषु निवृत्तानां न प्रेतं नैव सूतकम्" इत्यादि वचनान्येव
 
 [^34]: "पुत्राद्यशौचिसंपर्के- उ."
@@ -1070,10 +882,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 [^41]: "न त्वविशेष- अ."
 
 [^42]: "Gap in उ and आ here, filled from अ."
-
-
-
-
 
 प्रमाणम्। यच्चाग्निवेदसमन्वित एव दक्ष-पराशराभ्यामेकाहाशौचमुक्तम्, शङ्ख-बृहस्पतिभ्यां त्र्यहाशौचम्,तत्रैकाहत्र्यहाशौचवचनयोरेकविषयसमावेशाभावाच्छ्रौतस्मार्ताग्निमद्विषयत्वेन यथासंख्यं व्यवस्था युज्यते हि। श्रौताग्निमति पुरुषएकाहाशौचवचनं तस्य स्मार्ताग्निमदपेक्षयाभ्यर्हितत्वात्[^43]॥
 
@@ -1098,10 +906,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^45]: "तत्र उग़नाः-अ."
 
-
-
-
-
 *मनुः* \[५, ६४\]
 
 **अह्ना[^46]चैकेन रात्र्याच त्रिरात्रैरेव च त्रिभिः।  
@@ -1115,8 +919,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *बृहस्पतिः* \[आशौं, २९\]
 
 [^47]: "शत्रस्पृशः ' शवस्य स्नानालङ्कारादिकारिणः। एतच्च समानोदकानां, मूल्येन वा निर्हरताम्। अनाथनिर्हरणे तु स्मृत्यन्तरे-  न तेषामशुभं किंचिन्नाशौचं शुभकर्मणाम्। जलावगाहनाlत्तेषां सद्यः शौचं विधीयते॥ (मेधातिथिः
-
-
 
 **दशाहेन सपिण्डास्तु शुद्ध्यन्ति मृतसूतके।  
 त्रिरात्रेण सकुल्यास्तु स्नात्वा शुद्ध्यन्ति गोत्रजाः॥**
@@ -1133,8 +935,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **दिनत्रयेण शुद्ध्येत्तु ब्राह्मणः प्रेतसूतके।  
 क्षत्रियो द्वादशाहेन शुद्ध्यति प्रेतसूतके॥**
-
-
 
 **वैश्यः पश्चदशाहेन शूद्रो मासेन शुद्धयति ।  
 जन्मकर्मपरिभ्रष्टः सन्ध्योपासनवर्जितः ॥  
@@ -1156,8 +956,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
  शावमाशौचं ब्राह्मणस्य दशरात्रेण शुद्ध्यति । राजन्यस्यद्वादशरात्रेण । वैश्यस्यार्धमासेन । मन्त्रावश्यकवर्जनाच्छूद्रस्यनाधिकारो न प्रतिषेधः । तमास्थितस्तद्वत् स्यात् ॥
 
 'तं' ब्राह्मणादिवर्णम्, 'आस्थितः' 'तद्वत्' एतावत्कालमशुचिर्भवतीत्यर्थः।
-
-
 
 *याज्ञवल्क्यः* \[३, २२\]
 
@@ -1192,8 +990,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^50]: "संकराः- अ."
 
-
-
 *पैठीनसिः*
 
 जनने मरणे ब्राह्मणस्य दशाहमशौचम् । षोडशाहं क्षत्रियस्य ।विंशतिरात्रं वैश्यस्य । मासं शूद्रस्य ॥
@@ -1219,8 +1015,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **चतुर्थेहऽनि कर्तव्यमस्थिसंचयनं द्विजैः।  
 ततः संचयनादूर्ध्वमङ्गस्पर्शी विधीयते॥**
-
-
 
 **चतुर्थेऽहनि विप्रस्य षष्ठे[^52] वै क्षत्रियस्य तु।  
 अष्टमे दशमे चैव स्पर्शः स्याद्वैश्यशूद्रयोः॥**
@@ -1254,8 +1048,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^56]: "नासूतकं– अ; असूतकं– उ."
 
-
-
 *ब्रह्मपुराणे*
 
 **अन्यपूर्वा यस्य गृहे भार्या स्यात्तस्य नित्यशः।  
@@ -1267,8 +1059,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **तत्रातिदेशवाक्येषु प्रेतशौचानुवृत्तिद्रष्टव्या॥**
 
 **————**
-
-
 
 **अथ जननाशौचम्**
 
@@ -1286,8 +1076,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 बैजिकादभिसंबन्धादनुरुध्यादघं त्र्यहम्॥**
 
  'एवमेव' इति, मरणे यादृशमाशौचमस्पृश्यतालक्षणं भवति, \[एवमेव \] 'जनने' मातापित्रोरेव'सूतकं'प्रसवनिमित्तं स्पर्शनानर्हत्वमित्यर्थः । 'उपस्पृश्य' स्नात्वा। 'शुचिः' स्पर्शार्हः॥
-
-
 
 *वसिष्ठो[^59]ऽङ्गिराश्च*
 
@@ -1314,8 +1102,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *बौधायनः* (१, ११, १)
 
 सपिण्डेष्वादशाहमाशौचमिति जननमरणयोरधिकृत्य वदन्ति । इति—
-
-
 
 *विष्णुश्च* \[२२, १.\]
 
@@ -1345,8 +1131,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **यदि पत्न्यां प्रसूतायां द्विजः संपर्कमिच्छति।  
 सूतकं तु भवेत्तस्य यदि विप्रः षडङ्गवित्॥**
 
-
-
 **प्रसवे गृहमेधी तु न कुर्यात् संकरं द्विजः।  
 शुद्ध्येन्माता दशाहेन त्ववगाह्य पिता शुचिः॥**
 
@@ -1375,10 +1159,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 –––––––––
 
-
-
-
-
 **अथ जननमरणनियमाः**
 
 –––––
@@ -1400,8 +1180,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 हिरण्यधान्यगोवासस्तिलान्नगुडसर्पिषाम्॥**
 
 [^60]: "मनुः इति आ; कूर्मपुराण इति गोविन्दानन्दः."
-
-
 
 *शङ्कलिखितौ*
 
@@ -1432,8 +1210,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **दानं प्रतिग्रहो होमः खाध्यायः पितृकर्म च।  
 प्रेतपिण्डक्रियावर्जमशौचे विनिवर्तयेत्॥**
-
-
 
 *मनुश्च*[^61]
 
@@ -1466,8 +1242,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
  'हावयेदिति किं' इत्यादि—हावयेदिति यद्गृहानारभ्य विहितंकिं तस्य विषय इति प्रश्नपूर्वकविषयविशेषमाह- 'सूतके च प्रवासे'इत्यादिना ॥
 
-
-
 *पारस्करः* \[३, १०, ३१-३४\]
 
 न[^65] स्वाध्ययमधीयीरन् । नित्यानि निवर्तेरन् वैतानवर्जम् ।शालाग्नौ चेत्येके॥ अन्य एतानि कुर्युः ॥
@@ -1485,8 +1259,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 अरणीसंभवो वह्निर्दहेस्पापं सदा कृतः॥**
 
   'सूतके तु कुलस्यान्नमदोषं'इति—सूतकिनो दानं विनात्रेधा धर्मोपरोधेसति तन्निवृत्यर्थमुच्यते । अत एव हेतोः 'अरणी-संभवो वह्निः' इत्यादिनोक्तः॥
-
-
 
 *मनुः* \[५, ८४\]
 
@@ -1506,10 +1278,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **उभयत्रदशाहानि सपिण्डानामशौचकम् ।  
 स्नानोपस्पर्शनाभ्यासादग्निहोत्रार्थमर्हति ॥**
-
-
-
-
 
 **अथ वर्णसन्निपाताशौचम्**
 
@@ -1534,10 +1302,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **देशधर्मप्रमाणत्वात् षड्रात्रं क्षत्रियेष्वथ ।  
 त्रिरात्रमपि वैश्येषु शूद्रेष्वेकाहमेव च ॥**
-
-
-
-
 
 **क्षत्रियस्याथ वैश्यस्तु वैश्यस्य वृषलस्तथा।  
 म्रियते जायते बन्धुस्तत्राशौचं स्वकं[^68] चरेत् ॥**
@@ -1569,8 +1333,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **शूद्रापुत्रः पारशवः ब्राह्मणोत्पादितस्तु यः ।  
 शूद्राचारेण तत्यापि शौचाशौचं विधीयते ॥**
 
-
-
 *शङ्खलिखितौ*
 
 **यद्येकजाता बहवः पृथक्क्षेत्राः पृथग्गृहाः।  
@@ -1599,8 +1361,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 –––––––
 
-
-
 **अथाऽऽशौचसन्निपाताशौचम्**
 
 **–––––––**
@@ -1623,8 +1383,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^71]: "‘सन्निपातः’ समवायः। अन्यतरेण निमित्तेनदशाहे वर्तमाने इतरस्यापि निमित्तस्य तत्राऽन्तःपातः। तथा चेत् पूर्वाशौचत्रयुक्ततन्त्रमध्यपातितत्वादेतत्प्रसजति, न पृथक् दशरात्रं प्रयुङ्क्ते इत्यभिप्रायः। एवं व्यानिष्पे। तत्र भूयसा सहाल्पीयो गच्छति न त्वल्पीयसाभूयः। तत्र सजा- तीयस्यैव प्रसङ्ग इति केचित्। तस्मात् जनने जननं मरणे मरणमिति निवेशः सिद्धो भवति। आचार्यस्त्वनादृत्य तच्छब्दं जननमरणयारिति वदन् विजातीयस्यापि प्रसङ्गं मन्यते॥ (गोविन्दखामी
 
-
-
 *शङ्खलिखितौ*
 
 अथ चेदन्तराप्रमीचेत जायेत वाऽवशिष्टैरेव दिवसैः शुद्ध्येत् । अहःशेषे द्वाभ्याम् । प्रभाते तिसृभिः ॥
@@ -1646,8 +1404,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **अनिर्दशाहे जनने पञ्चात्स्यान्मरणं यदि ।  
 प्रेतमुद्दिश्य कर्तव्यं तत्राशौचं स्वबन्धुभिः ॥**
-
-
 
 *देवलः*
 
@@ -1678,8 +1434,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 सूतकस्यान्तरे वाथ मृतकं यत्र विद्यते॥  
 मृतकान्ते भवेत्तत्र चातुर्वर्णेषु नित्यशः॥**
 
-
-
 **अथ विदेशस्थाशौचम्**
 
 **\_\_\_\_\_**
@@ -1703,8 +1457,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 प्रोषितश्चेत् प्रेयाच्छ्रवणप्रभृति कृतोदकाः कालशेषमासीरन् ।अतीतश्चेदेकरात्रं त्रिरात्रं वा[^76]।
 
 [^76]: "'प्रोषितः' प्रवासं गतः यदि 'प्रेयात्' म्रियते तदा पुत्रादयः तन्मरणश्रवणकालमारम्य 'कृतं' दत्तं स्नानपूर्वकमुक्तविधिना 'उदकं' यैस्ते 'कृतोदकाः', 'कालशेषं' आशौचसमशेषं‘आसीरन् ' आशौचधर्मेण वर्तेर्रेन्। यद्यप्याशौचकालोऽतीतः, ततः प्रोषितमरणं च श्रुतं, तदैकरात्रमाशौचं त्रिरात्रं वा। अत्र यद्यपि सामान्येनोक्तस्तथाऽपि स्मृत्यन्तराद्विशेषोऽत्रगन्तव्यः। कथम् ?  मासत्रये त्रिरात्रं स्यात् षण्मासे पक्षिणी भवेत्। अहस्तु नवमादर्वाक सद्यश्शौचमतः परम्॥ [जयरामः]"
-
-
 
 *मनुः* \[५, ७५-७८\]
 
@@ -1744,10 +1496,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 सूतकसम्बन्ध'दशमी' अत्र रात्रिः। 'पक्षिणी' आगामिवर्तमानाहर्युक्ता रात्रिः।
 
-
-
-
-
 *विष्णुः* \[२२, ३७-४१\]
 
    श्रुत्वा देशान्तरस्थो जन्ममरणे आशौचशेषेण शुध्येत् ।व्यतीते त्वशौचे संवत्सरस्यान्तं त्वेकरात्रेण । अतः[^84] परं स्नानेन॥
@@ -1775,10 +1523,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
   'संवत्सरान्तरे' वर्षाभ्यन्तरे। अत्रेयं व्यवस्था—षण्मासाभ्यन्तरे ज्ञातिमरणश्रवणे त्रिरात्रमाशौचम् । तदूर्ध्वं मासत्रयंवा यावत् पक्षिणी । तदूर्ध्वं मासत्रयं यावदेकरात्रम्। अतः परंस्नानोदकदानमात्रम् ॥
 
-
-
-
-
 **अथ बालाद्याशौचम्**
 
 ––––––––
@@ -1799,8 +1543,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **बाले देशान्तरस्थे च पृथक्पिण्डे च संस्थिते।  
 सवासा जलमाप्लुत्य सद्य एव विशुध्यति॥**
-
-
 
 **नृणामकृतचूडानामशुद्धिर्नैशिकी स्मृता।  
 निर्वृत्तचूडकानां तु त्रिरात्राच्छुद्धिरिष्यते॥**
@@ -1829,9 +1571,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 *विष्णुः* \[२२, २७ - ३१\]  
    अदन्तजाते बाले प्रेते सद्य एव। नास्याग्निसंस्कारोनोदकक्रिया। दन्तजाते त्वकृतचूडे त्वहोरात्रेण। कृतचूडे \[तु\] असंस्कृतेत्रिरात्रेण। अतः परं यथोक्तकालेन॥  
-
-
-
 
 *शङ्ख*
 
@@ -1863,8 +1602,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **'अजातो' अजातदन्तः।**
 
-
-
 *पारस्करः*\[३, १०, २-६\]  
 अद्विवर्षे प्रेते मातापित्रोराशौचम्।[\[ शौचमेवेतरेषाम् \]][^94]।एकरात्रं त्रिरात्रं वा। शरीरमदग्ध्वा निखनन्ति। अन्तःसूतकेचेदोत्थानादाशौचं सूतकवत्॥[^95]")
 
@@ -1889,8 +1626,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^98]: "न च- अ."
 
-
-
 **अपि विंशतिरात्रं तु शूद्राणां च भवेत्क्रमात्।  
 अनुपनीतो विप्रस्तु राजा चैव धनुर्ग्रहात्॥**
 
@@ -1902,13 +1637,9 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 ––––––––––––––
 
-
-
 **अथ स्त्र्याशौचम्**
 
 **––––**
-
-
 
 **तत्र 'त्र्यहाच्छुध्यन्ति बान्धवा' इत्यनुवृत्तौ**
 
@@ -1934,10 +1665,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 [^100]: "अभ्यैस्तूक्तम् – सोदर्या दशरात्रेण इति। तेषां चाभिप्रायः। अष्टवर्षायाः कन्याया दानं विहितम्। दत्तायाश्च निर्वृत्तचौडकव्यपदेशाभावात् पुंस इव उपनीत्य, तदानीं कल्पान्तरस्यानाम्नानात् दशाह एव युक्तः॥ (मेथीतिथिः
 
 'असंस्कृतानां' वाग्दत्तानां अकृतविवाहानाम्। 'बान्धवाः'भर्तृसपिण्डाः। 'सनाभयः पितृसपिण्डाः।
-
-
-
-
 
 *याज्ञवल्क्यः*\[३, २४\]
 
@@ -1970,10 +1697,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **पितृवेश्मनि या नारी रजः पश्यत्यसंस्कृता।  
 तस्यां मृतायां नाशौचं कदाचिदपि शाम्यति॥**
 
-
-
-
-
 [*ब्रह्मपुराणे*[^104]।")
 
 [^104]: "'आदिपुराणे' इति शुद्धिप्रकाशे (पृ. २७
@@ -2004,8 +1727,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
  इति स्त्रयशौचत्रकरणे दृश्यते। अत्र प्रकरणे पुनस्तद्वचनं यस्यां कस्यांचित् मातृकायामपि नोपकम्पते। *कल्पतर्वादृ*तपुराणश्लोकश्च गोविन्दानन्देनादृतो व्याख्यातश्च॥
 
-
-
 **स्वजात्युक्तमशौचं स्यात् सूतके मृतकेऽपि वा।  
 पित्रा दत्ता तु या कन्या स्वातन्त्र्यादन्यमाश्रिता॥**
 
@@ -2022,8 +1743,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **पैतृकं त्वमसूतायां ततः पौर्विकभर्तृकम्।  
 कामादक्षतयोनिश्चेदन्यं गत्वा व्यवस्थिता॥  
 तस्यान्यस्य सगोत्रा स्याद्यं संश्रितवती स्वयम्॥**
-
-
 
 **अथ गर्भस्रावाशौचम्**
 
@@ -2043,8 +1762,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 [^108]: "“गर्भस्रावे स्रीणां त्रिरात्रं साधीयो रजोविशेषत्वात् ।” इति कुल्लूकोदाहृतहारोतवचनम्[५.६६]. Text corrupt; restored from शुद्धिकौमुदी, ४७,"
 
  गर्भमाससमा रात्री स्रंसने गर्भस्य। त्र्यहं वा। सर्वेषांसकुलानाम्॥
-
-
 
 *शातातपः*
 
@@ -2087,8 +1804,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^113]: "'क्षिपेत् तत्तु' इति अ."
 
-
-
 **अथ मृत्युविशेषाशौचम्**
 
 तत्र 'सद्यःशौचं विधीयते' इत्यनुवृत्तौ—
@@ -2114,8 +1829,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **डिम्बाशनिहतानां च तथैव प्राणसत्रिणाम्।  
 नदीश्वापददंष्ट्रिभ्यः सद्यःशौचं विधीयते॥**
-
-
 
 **शस्त्रेणाभिमुखो यस्तु युध्यते[^117] 'अ' च.") शस्त्रधर्मणा।  
 यज्ञः संसिध्यतेतस्य[^118] सद्यः शौचं विधीयते॥**
@@ -2144,8 +1857,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 आहवेषु विपन्नानामेकरात्रमशौचकम्॥**
 
 [^122]: "वन्दिनां- आ, शु. प्र - ५४ – “ दण्डिनामित्यत्रापपाठः 'वन्दिनां' चौरादिगृहीतानां बन्दिदशायामेव विपन्नानामित्यर्थ इति मिश्राः॥ (शुद्धिप्रकाशः, ५४
-
-
 
 *गौतमः* \[१४, ९-११\]
 
@@ -2177,8 +1888,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *शङ्ख लिखितौ*
 
 अथ शस्त्रानाशकाग्निवज्रभृगुजलविषुषप्रमापणेष्वेवमेव॥
-
-
 
 *जाबालः*
 
@@ -2213,8 +1922,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **प्रयागवटशाखाग्राद्देहत्यागं करोति वा।  
 स्वयं देहविनाशे तु काले प्राप्ते महामतिः॥**
 
-
-
 **उत्तमानाप्नुयाल्लोकानात्मघाती कचिद्भवेत्[^132]।^(१)  
 महापापक्रियः स्वर्गे दिव्यान् भोगान् समश्नुते॥**
 
@@ -2230,8 +1937,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 १
@@ -2243,8 +1948,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **अविमुक्तमुखस्तस्य कर्णमूलगतो हरः।  
 प्रणवं तारकं ब्रूते नान्यथा कुत्रचित् क्वचित्॥**
-
-
 
 **अथाऽसपिण्डाद्याशौचम्**
 
@@ -2260,12 +1963,9 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 दानाध्ययने वर्जयेरन् दशाहं सपिण्डेषु। गुरौ चासपिण्डे।अप्रत्तासु स्त्रीषु त्रिरात्रम्। इतरेष्वाचार्येषु। ज्ञातौ चासपिण्डे।प्रत्तासु च स्त्रीष्वदन्तजाते परिजाते चैकाहं सब्रह्मचारिणि समानग्रामीये च
 
-
 श्रोत्रिये[^135]")॥
 
 [^135]: "Text confused and restored. असपिण्डो गुरुः मातुलश्वशुरादिः।'इतरेषु' महागुरुव्यतिरिक्तेष्वाचार्येषु। 'असपिण्डो ज्ञाति : ' समानोदकः। 'प्रचासु' दुहित्रादिषु।'अदन्तजाते' बाले। 'परिजातो' दन्तजातः। तत्रापि एकाहं दानादि वर्जयेत्। उपनयनादारभ्यआसमावर्तनाद्यः सह व्रतं चरितवान् स 'सब्रह्मचारी'। समाने एकस्मिन् प्रामे भवः ' समान-ग्रामीयः '। 'श्रोत्रियः' अधीतवेदः॥ ( हरदत्तः
-
-
 
 *गौतमः* \[१४, १८-२७\]
 
@@ -2273,9 +1973,9 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^136]: "Words in brackets necessary but are missing in the manuscripts ; manuscripts corrupt.  'पक्षिणी ' अहर्द्वयमध्यगता रात्रिः, रात्रिद्वयमध्यगतं अहर्वा। सपिण्डजननं मरणं वा श्रुत्वा पक्षिण्याशौचं भवति। 'अण्ड' समानोदकः तस्मिन्मृते समानोदकांनां पक्षिणी। 'योनिसंबन्धिनः'मातुलमातृभागिनेयपैतृष्वस्त्रेयाः। तेषु मृतेषु पक्षिणी। 'सब्रह्मचारी' समानचरणः तस्मिन् मृतेएकाहोरात्रमाशौचं गृह्णीयात्।' उपसंपन्ने'ज्ञानानुष्ठानसंपदुपेते। 'उपस्पर्शने' चेद्यदि दृष्टमङ्गीकृत्य स्पृशति, न तु धर्मार्थकामतो वा। ' अर्तावीः ' ऋतुसमानसंख्या वा रात्रीः वैश्यशूद्रयोराशौचम्।आचार्यादिमृते चैवम्। चशब्दादाचार्याचार्ये॥ (मस्की
 
-*मनुः* \[५, ८०-८२; ७१\]
-
 [^137]: "From here folio 27, 28 and 29 in आ are missing."
+
+*मनुः* \[५, ८०-८२; ७१\]
 
 **त्रिरात्रमाहुराशौचमाचार्ये संस्थिते सति।  
 तस्य पुत्रे च पत्न्यां च दिवारात्रमिति स्थितिः॥**
@@ -2285,8 +1985,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **प्रेते राजनि सज्योतिर्यस्य स्याद्विषये स्थितः।  
 अश्रोत्रिये त्वहः कृत्स्नमनूचाने तथा गुरौ॥**
-
-
 
 **सब्रह्मचारिण्येकाहमतीतेक्षणं स्मृतम्।  
 जन्मन्येकोदकानां तु त्रिरात्राच्छुद्धिरिष्यते॥**
@@ -2321,10 +2019,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^139]: "Identical with मनुस्मृति, ५, ८२."
 
-
-
-
-
 *बौधायनः* \[१, ११, २५\]
 
 त्रिरात्रमहोरात्रमेकाहमिति कुर्वीत॥
@@ -2352,10 +2046,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **अनौरसेषु पुत्रेषु भार्यास्वन्यगतासु च।  
 निवासराजनि प्रेते तदहः शुद्धिकरणम्॥**  
-
-
-
-
 
 *ब्रह्मपुराणे*
 
@@ -2389,8 +2079,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 –––––
 
-
-
 **अथ निर्हाराद्यशौचम्**
 
 *तत्र मनुः* \[५, १००-१०३\]
@@ -2417,8 +2105,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **अन्तर्दशाहे भुक्त्वा तु सूतके मृतकेऽपि वा।  
 असंस्पृश्यो भवेत्तावद्यावत्तद्ग्रतमाचरेत्॥**
-
-
 
 **सुतके मृतके शावमाशौचं ह्यस्थिसंचयात्।  
 अन्नसत्रप्रवृत्तानामाममन्नं[^142]विगर्हितम्॥**
@@ -2455,8 +2141,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **गृहे यस्य मृते कश्चिदसपिण्डः कथंचन।  
 तस्याप्यशौचं विज्ञेयं त्रिरात्रं नात्र संशयः॥**
 
-
-
 **प्रेतान्नमसपिण्डस्य[^146]यावदश्नात्यकामतः।  
 तावत् त्र्यहाण्यशौचं स्यादपिण्डानां कथंचन॥**
 
@@ -2491,8 +2175,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **यः कश्चिन्निर्हरेत्प्रेतमसपिण्डः कथञ्चन।  
 स्नात्वा सचैलः स्पृष्टाग्निं तस्मिन्नेवाह्निशुध्यति॥**
-
-
 
 *पराशरः* \[३, ४१-\]
 
@@ -2529,10 +2211,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^153]: "प्रेते जातिसमं - उ, आ."
 
-
-
-
-
 **सर्वे वर्णाः सजातीयं दग्ध्वा व्यहमशौचिनः।  
 भवन्ति[^154]") परजातीयं निर्हृत्य परजातिवत्॥**
 
@@ -2565,8 +2243,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^157]: "'स्मृत्यन्तशत्' इति शुद्धिप्रकाशे, ६६."
 
-
-
 **उपवासरतः[^158] पश्चात् त्रिरात्रेण च शुध्यति।  
 सर्वेषां स्यादहोरात्रं शवानुगमनादपि॥**
 
@@ -2585,13 +2261,11 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^160]: "ततः इति शु प्र., ७०,"
 
+[^161]: "शुद्धिप्रकाशेऽत्रैष लोको दृष्टः—  अनस्थिसंचिते शुद्धे ब्राह्मणो रौति चेजडः। ततः स्मातः सचैलस्तु शुम्पेत्तु दिवसैस्त्रिभिः॥"
+
 **अस्थिसंचयनादूर्ध्वमहोरात्रेण शुध्यति।  
 सचैलस्नानमन्येषामकृतेऽप्यस्थिसंचये॥  
 कृते तु केवलं स्नानं क्षत्रविट्शूद्रजन्मनः॥**
-
-[^161]: "शुद्धिप्रकाशेऽत्रैष लोको दृष्टः—  अनस्थिसंचिते शुद्धे ब्राह्मणो रौति चेजडः। ततः स्मातः सचैलस्तु शुम्पेत्तु दिवसैस्त्रिभिः॥"
-
-
 
 **अथाऽनाशौचिनः**
 
@@ -2615,8 +2289,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *गौतमः* \[१४, ४२-४४\]
 
 सद्यः शौचं राज्ञां च कार्यनिरोधात्। ब्राह्मणस्य च स्वाध्यायनिवृत्यर्थम्॥
-
-
 
 *विष्णुः*\[२२, ४७-५२\]
 
@@ -2645,8 +2317,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **ब्रह्मचारिणि भूपे च यतौ व्रतिनि दीक्षिते।  
 यज्ञे विवाहे शस्त्रे च सूतकं न कदाचन॥**
-
-
 
 *छन्दोगपरिशिष्टे* कात्यायनः[^163]
 
@@ -2689,8 +2359,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **शिल्पिनःकारुका वैद्या दासीदासाश्च नापिताः।  
 राजानः श्रोत्रियाश्चैव सद्यःशौचाः प्रकीर्तिताः॥** (३,२०)
 
-
-
 'अशौचम्' इत्यनुवृत्तौ—
 
 *विष्णुः*\[२२, ५३-५५\]
@@ -2722,11 +2390,7 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **स्वस्थकाले त्विदं सर्वमशौचं परिकीर्तितम्।  
 आपद्गतस्य सर्वस्य सूतकेऽपि न सूतकम्॥**
 
-
-
 **अथ सपिण्डादिलक्षणम्**
-
-
 
 तत्र *मनुः* \[५, ६०\]
 
@@ -2755,8 +2419,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **लेपभाजश्चतुर्थाद्याः पित्राद्याः पिण्डभागिनः।  
 पिण्डदस्सप्तमस्तेषां सापिण्ड्यं सप्तपौरुषम्॥**
-
-
 
 *सुमन्तुः*
 
@@ -2789,8 +2451,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^173]: "'स्वविभक्त' इति उ."
 
-
-
 **भ्रातृभिर्वा यतस्त्वन्यैर्विभक्तार्थाः सहोदराः[^174]।  
 विभक्तार्थाः सकुल्यास्तु श्राद्धादौ लेषभागिनः॥**
 
@@ -2805,8 +2465,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 [^175]: "सपिण्डानां तु- अ."
 
 **——**
-
-
 
 **अथ प्रेतनिर्हरणम्**
 
@@ -2838,8 +2496,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^178]: "'नृप' इति अलवारूकोशेऽपपाठः।"
 
-
-
 *विष्णुः*\[१९, १-५\]
 
 मृतं द्विजं न शूद्रेण हारयेत्[^179]। न शूद्रं द्विजेन। पितरं मातरंच पुत्रा निर्हरेयुः। न[^180] द्विजं पितरं मातरं[^181] वा शूद्राः। ब्राह्मणमनाथं ये ब्राह्मणा निर्हरन्ति ते स्वर्गलोकभाजः॥
@@ -2863,8 +2519,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 [^182]: "'न शूद्रो न द्विजः क्वचित्' इति मिताक्षरदृतपाठः"
 
 ——
-
-
 
 **अथ प्रेतसंस्कारः**
 
@@ -2893,8 +2547,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **ऊनद्विवार्षिकं प्रेतं निदध्युर्बान्धवा बहिः।  
 अलङ्कृत्य शुचौ भूमावस्थिसंचयनादृते॥**
-
-
 
 **नास्य कार्योऽग्निसंस्कारो न च कार्योदकक्रिया।  
 अरण्ये काष्ठवत् त्यक्त्वा क्षिपेयुस्त्र्यहमेव[^184]। क्षपेयुस्त्रयमेव च (मेधातिथिः)। क्षपयेत्त्र्यहमेव च(कुल्लूकः)") तु॥**
@@ -2926,8 +2578,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^188]: "दह्यन्ते न मातुः (१
 
-
-
 अन्तःसूतकेत्यादि'-सृतकमध्ये यदि म्रियते बालकस्तदा'सूतकवदशौचम्'सूतकोत्थानपर्यन्तमेवं भवतीत्यर्थः। 'द्विवर्ष'इति, प्रेते इति शेषः। 'सर्वे' सपिण्डाः। 'इतरं' अकृतावसथ्यम्॥
 
 *बसिष्ठः* \[४, ९-१०\]
@@ -2954,8 +2604,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
  प्रोषितश्चेत् प्रेयात् प्राचीनावीती निवान्यां दुग्ध्वा दक्षिणतोऽधिश्रयणोद्वासने। तत एवहरणात्। अधस्तात् समिधं धारयन्।उदगग्रान् कुशान् दक्षिणाग्रान् कृत्वा। सकृद्वा पितृवत्पर्यस्य।
 
 [^190]: "Entire passage corrupt; reconstructed from Vidyadhara Gauda's edn of कात्यायनश्रौतसूत्रम्, सं. १९८७, पृ."
-
-
 
 शरीराण्याहृत्य कृष्णाजिने पुरुषविधिं विधायोर्णाभिः प्रच्छायाऽऽज्येनाभिधार्य पूर्ववद्दाहः॥
 
@@ -2991,8 +2639,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^193]: "शेषान् दग्धे- अ"
 
-
-
 प्रोषिते तु मृते स्वामिन्यस्थिनाश उपस्थिते।  
 पलाशस्य तु वृन्तानां विभागं ब्रूहि याज्ञिक॥
 
@@ -3019,7 +2665,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 1.भट्टकुमारिलप्रणीताश्वलायनगृह्यकारिकादृतश्लोकाः (आनन्दाश्रमे मुद्रिताः)
 
-
 शरीराणि न विन्देरन् देशान्तरमृतस्य यत्। पलाशपर्णवृन्तैस्तु कुर्युस्तत्प्रतिरूपकम्॥  
 दद्यात् शिरस्यगीत्यर्थं ग्रीवायां तु दशैव च। उरसि त्रिशतं दद्यात् विंशति जठरे तथा॥  
 बाह्वोर्द्वयोः शतं दद्याद्दश बाह्वङ्गुलीषु च। द्वादशार्धं वृषणयोः अष्टार्ध शिश्न एव च॥  
@@ -3030,8 +2675,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
  अथ पालाश्रविधिः\। शिरश्चत्वारिंशता, ग्रीवां दशभिः, उरस्त्रिंशता, उदरं विंशत्या, बाहू शतेन अङ्गुलीर्देशभिरिति। तदूर्णातन्तुबन्धैः पुरुषवत् कृत्वा स्नापयित्वा वाससा चाहतेनाच्छाद्य यथावत्संस्कुर्यात् सञ्चयनकर्मणा च तत्संहृत्य पुण्येऽम्भसि क्षिपेत्॥
 
  Wrongly ascribed to the *grhyasūtra* by the manuscripts.
-
-
 
 अस्थिनाशे पालाशवृन्तैः प्रतिनिधिं कृत्वा—
 
@@ -3065,8 +2708,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 असौ स्वर्गाय लोकाय स्वाहेत्युक्त्वा सवान्धवैः॥  
 एवं पर्णनरं दग्ध्वा त्रिरात्रमशुचिर्भवेत्॥**
 
-
-
 *तथा*
 
 **एवं कृते मृतभ्रान्त्या यद्यागच्छेत् पुमान् क्वचित्।  
@@ -3098,8 +2739,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 प्रातर्होमस्तथैव स्याज्जीवेच्चेद्वा पुनर्भवेत्॥**
 
 [^195]: "शावमाहुत्याम्– उ."
-
-
 
 **दुर्बलं स्नापयित्वा तु शुद्धचैलादिसंवृतम्।  
 दक्षिणाशिरसं भूमौ बार्हेप्मयां निवेशयेत्॥**
@@ -3137,8 +2776,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 तत्रोवीलीकचत्रे[^200] चानश्रुनयनो विभीः॥**
 
 [^200]: "बादौ विलोकमत्रैव न श्वययनो विभोः- उ."
-
-
 
 **अपसव्येन कृत्वैतद्वाग्यतः पितृदिङ्मुखः।  
 अथाग्निं सव्यजान्वक्तो दद्याद्दक्षिणतः शनैः॥**
@@ -3181,8 +2818,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^206]: "'नक्तं वा'–उ."
 
-
-
 **प्रायश्चित्तं ततः कुर्यात् कुर्वन्वा म्रियते यदि।  
 गृह्यं निर्वापयेच्छ्रौतमन्यश्चेत्[^207] सपरिग्रहम्॥**
 
@@ -3207,8 +2842,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 ———
 
-
-
 **अथोदकदानम्**
 
 तत्र *बैजवापः*
@@ -3224,8 +2857,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *वसिष्ठः* \[४, ११-१३\]
 
  शरीरमग्निना संयोज्यानवेक्षमाणा अपोऽभ्यवयन्ति। सब्येतराभ्यां पाणिभ्यामुदकक्रियां कुर्वीरन्। अयुग्मासु दक्षिणामुखाः॥
-
-
 
 *हारीतः*
 
@@ -3243,21 +2874,19 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^215]: "स्मृ. च, – यज्ञोपवीतिनः इति"
 
+[^216]: "Citation incomplete in Mss; Completed from शुद्धिप्रकाश P. 201 and shown in brackets."
+
 *ब्रह्मपुराणे*[^217]
 
-[^216]: "Citation incomplete in Mss; Completed from शुद्धिप्रकाश P. 201 and shown in brackets."
+[^217]: "Five lines from the second are inserted in S'uddhi prakāsa, p. 201"
 
 **आदौवस्त्रं च प्रच्छाद्य तेनैवाच्छादितैस्ततः।  
 कर्तव्यं तैः सचैलं तु स्नानंसर्वमलापहम्॥**
-
-[^217]: "Five lines from the second are inserted in S'uddhi prakāsa, p. 201"
 
 **ततः पाषाणपृष्ठे तु सर्व देयं तिलोदकम्।[^218]  
 एकैकेन च देयास्तु विप्रायाञ्जलयो दश॥**
 
 [^218]: "Lacuna in आ begins here."
-
-
 
 **राज्ञे द्वादश देयास्तु वैश्याय दश पञ्च च।  
 त्रिंशच्छूद्राय देयास्तु प्रेतभूमिगताय तु॥**
@@ -3286,8 +2915,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^219]: "Words in brackets found in printed बौ. ध. सू."
 
-
-
 प्रत्ययमुदकं प्रर्सिच्याऽतएवोत्तीर्य[^220]आसते \[आसीरन् \]।
 
 [^220]: "The following words in the printed work are omitted of here — आचम्य गृहद्वार्यङ्गारमुदकमिति संस्पृश्याक्षारलवणाशिनो दशाहं कटमासीरन्."
@@ -3304,9 +2931,7 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
  मातुश्च योनिसंबन्धेभ्यः पितुश्चासप्तमात्पुरुषाद्यावता वा संबन्धो ज्ञायते तेषां प्रेतेषूदकोपस्पर्शनं गर्भान् परिहाप्यापरिसंवत्सरात्। मातापितरावेव तेषु। हर्तारश्च। भार्यायां परमगुरुसंस्थायांचाकालभोजनम्। आतुरव्यञ्जनानि कुर्वीरन्। केशान् प्रकीर्यपांसुनोऽप्येकवाससो दक्षिणामुखाः सकृदुपमज्ज्योत्तीर्योपविशन्ति। एवं त्रिः। तत्प्रत्ययमुदकमुत्सिच्याप्रतीक्षा ग्राममेत्य यत्स्त्रिय आहुस्तत्कुर्वन्ति। इतरेषु चैतदेवैक उपदिशन्ति॥[^222]
 
-
 [^222]: "Lacuna in आ ends here."
-
 
 *याज्ञवल्क्यः* \[३, ३-५\]
 
@@ -3318,8 +2943,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **सकृत्प्रसिञ्चन्त्युदकं नामगोत्रेण वाग्यतः।  
 न ब्रह्मचारिणः कुर्युरुदकं पतितास्तथा॥**
-
-
 
 *शङ्खलिखितौ*
 
@@ -3337,8 +2960,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **अप्रत्तासु च कन्यासु प्रत्तास्वेके ह कुर्वते।  
 लोकसंग्रहणार्थं हि यदमन्त्राः स्त्रियो मताः॥**
 
-
-
 *पारस्करः* \[३, १०, ३९-४३\]
 
  आचार्ये चैवम्। मातामहयोश्च। स्त्रीणां चाप्रत्तानाम्।प्रत्तानामितरे कुर्बीरन्। ताश्च तेषाम्॥
@@ -3346,8 +2967,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 एवमिति। प्राचीनावीतित्वादिकर्तव्यताप्रेतस्नानोदकाक्रियातिदेशः। 'मातामहयोः' मातामहानां चैतत्पत्नीनाञ्चेत्यतिदेशः॥
 
 ——————
-
-
 
 **अथोदकानर्हाः**
 
@@ -3370,8 +2989,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 इति वचनाद्भवत्येवोदकादिक्रिया।**
 
 [^225]: "तस्य त्रिरात्रमाशौचं द्वितीये त्वस्थिसंचयः। तृतीये तूदकं कृत्वा चतुर्थे श्राद्धमाचरेत्॥ इति मेधातिथिनादृतः।"
-
-
 
 *यमः*
 
@@ -3401,9 +3018,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *गौतमः* \[१०, १४; २\]
 
 यस्य \[तु\] प्राणान्तिकं प्रायश्चित्तं स मृतः शुध्येत् । सर्वाणयु दकादीनि प्रेतकर्माणि कुर्युः ॥  
-
-
-
 
 *बृहस्पतिः*\[प्राय., ८४\]
 
@@ -3438,9 +3052,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **आदिष्टी नोदकं कुर्यादाव्रतस्य समापनात् ।  
 समाप्ते तूदकं कृत्वा त्रिरात्रेणैव शुध्यति ॥**  
 
-
-
-
 **आचार्यंस्वभुपाध्यायं पितरं मातरं गुरुम् ।  
 निर्हृत्य तु व्रती प्रेतान्न व्रतेन वियुज्यते ॥  
 'आदिष्टी' आदिष्टं व्रतं यस्यास्ति ।**
@@ -3459,8 +3070,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 ब्रह्मचारिणश्शवकर्मणा व्रतावृत्तिरन्यत्र मातापित्रोराचार्याच्च॥
 
-
-
 **अथ शोकापनोदनम्**
 
 तत्र *याज्ञवल्क्यः* \[३, ७-१९\]
@@ -3478,7 +3087,9 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 फेनप्रख्यः कथं नाशं मर्त्यलोको न यास्पति ॥
 
 श्लेष्माश्रु बान्धवैर्मुक्तं प्रेतो भुङ्क्ते यतोऽवशः ।  
-अतो न रोदितव्यं हि क्रिया कार्याः[स्वशक्तितः](http://॑# " प्रयत्नतः – उ ; 'स्वशक्तितः' इति मिताक्षरादृतपाठः ।") ॥
+अतो न रोदितव्यं हि क्रिया कार्याःस्वशक्तितः[^462] ॥
+
+[^462]: " प्रयत्नतः – उ ; 'स्वशक्तितः' इति मिताक्षरादृतपाठः ।"
 
 *बृहस्पतिः* \[आशौ, १४-१८\]
 
@@ -3486,8 +3097,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 आश्वसेयुः पुराख्यानैरितिहासैः पुरातनैः ॥**
 
 [^230]: " बान्धव स्सुहृदश्च तान् - आ"
-
-
 
 नहुषाद्या नृपतयः ऋषयश्च तपोधनाः ।  
 याताः कालवशं मर्त्ये का कथा बुद्बुदोपमे ॥
@@ -3521,8 +3130,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^233]: "शपित्वा त्वां – आ."
 
-
-
 *तथा*
 
 संयोगेऽभिमते तेषां वियोगः कथमप्रियः ।  
@@ -3551,19 +3158,15 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^236]: " भगवद्गीता, २, २८."
 
-*तथा*
-
 [^237]: "भगवद्गीता, २, १३."
+
+*तथा*
 
 **सर्वे क्षयान्ता निचयाः पतनान्ताः समुच्छ्रयाः ।  
 संयोगा विप्रयोगान्ता मरणान्तं हि जीवितम् ॥**
 
 **यथा काष्ठं च काष्ठंच समेयातां महोदधौ ।  
 समेत्य च व्यपेयातां तद्वद्भूतसमागमः ॥**  
-
-
-
-
 
 *विष्णु*[^238]ः\[२०, २८-५१\]
 
@@ -3601,8 +3204,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^244]: "'स्ववासमम् ' - इति नन्दपण्डितेनादृतः पाठः । “ श्राद्धे पार्वणादौ पुत्रादिदत्तं अनबावादि 'स्वधया' पितृभोग्येन अमृतविशेषेण 'समं ' तुल्यं भुङ्क्ते । (वैजयन्ती
 
-
-
 पितृलोकगतस्यास्य तस्माच्छ्राद्धं प्रयच्छत ॥  
 देवत्वे यातनास्थाने[^245] तिर्यग्योनौ तथैव च ।
 
@@ -3616,8 +3217,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 तस्माच्छ्राद्धं सदा कार्यं शोकं त्यक्त्वा निरर्थकम् ॥  
 एतावदेव कर्तव्यं सदा प्रेतस्य बन्धुभिः ।  
-
-
 
 नोपकुर्यान्नरः
 
@@ -3654,8 +3253,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^253]: " वृकी योऽरणमादाय - अ."
 
-
-
 न कालस्य प्रियः कश्चिद्द्वेष्यश्चाऽपि न विद्यते ।  
 मानुष्ये[^254] कर्मणि क्षीणे प्रसह्य हरते जनम् ॥
 
@@ -3690,8 +3287,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^259]: "Supplied by अ and आ ; missing in 3 ; गृह्णातीह यथानर - पु. बि"
 
-
-
 वासांसि जीर्णानि यथा विहाय  
 नवानि गृह्णाति नरोऽपराणि ।  
 तथा शरीराणि विहाय जीर्णा  
@@ -3702,13 +3297,9 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^260]: "Missing in भा and मु. बि; भगवद्गीता, २, २१"
 
-
 [^261]: "भगवद्गीता, २, २३."
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **अथ वेश्मप्रवेशनम्**
 
@@ -3740,8 +3331,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^267]: "ज्येष्ठपुरःसराः कनिष्ठजघन्या निःसृत्य कनिष्ठपुरःसरा ज्येष्ठजघन्याः प्रविशेयुः -हारलता, १५६"
 
-
-
 गोमयमक्षतं तैलं माषमप उपस्पृशन्ति । नैतस्यां रात्र्यामन्नंपचेरन् । \क्रीतोत्पन्नेन वा वर्तेरन् त्रिरात्रमक्षारलवणाशिनस्स्युः। [द्वादशरात्रं[^268] वा महागुरुषु ॥
 
 [^268]: "द्वादशरात्रं वा महागुरुषु — अ."
@@ -3755,8 +3344,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 शङ्कलिखितौ
 
  उत्तीर्य प्रेतस्पृष्टानि वासांस्युत्सृज्येतराणि परिधाय गृहद्वारे तस्मै प्रेताय पिण्डं दत्वा पश्चाद्दूर्वाप्रवालान् गोमयमग्निं जलं वृषभमालभ्य प्रविशन्तो घृतगौरसर्षपैर्मूर्धानमङ्गानि वाऽऽलभेरन् । शस्त्रपाणयो यथोक्तकालनियमाः प्रेतायावश्यकान्युभयकालं कुर्युः ।
-
-
 
 भूमौ माल्यं पिण्डं पानीयमुपलेपनानि वा दद्युः। तत्कालमनध्यायो गोत्रतः पर्युपासनं च ॥
 
@@ -3781,10 +3368,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 [^269]: "Lacuna in आ begins here, a leaf being lost."
 
 [^270]: "पृथक पृथक् उ, अ, आ, मिताक्षरा"
-
-
-
-
 
 पिण्डयज्ञावृता देयं प्रेतायान्नंदिनत्रयम् ॥  
 जलमेकाहमाकाशे स्थाप्यं क्षीरं च मृन्मये ।
@@ -3820,8 +3403,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
  अधश्शय्यासनिनो ब्रह्मचारिणस्सर्वे । न मार्जपीरन् । मांसं न भक्षयेयुराप्रदानात् । प्रथमतृतीय \[पञ्चम\] सप्तमनवमेषूदकक्रिया ।वाससां च त्यागः । अन्ते त्वन्त्यानाम् ॥
 
-
-
  'न मार्जयीरन्' उज्वलवेषधारिणो न भवेयुरित्यर्थः। आप्रदानात् आश्राद्धकरणात् । अन्ते त्वन्त्यानां' नवमशौचान्तइति *भर्तृयज्ञः* ॥[^271]
 
 *सुमन्तुः*
@@ -3855,8 +3436,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 नवश्राद्धं दशाहानि यवमिश्रं तु षडृतून् ।  
 अतः परं पुराणं च त्रिविधं श्राद्धमुच्यते ॥
 
-
-
 यस्मिन्नवे पुराणे वा विश्वेदेवा न लेभिरे ।  
 तदासुरं भवेच्छ्राद्धं वृषलं मन्त्रवर्जितम् ॥
 
@@ -3889,8 +3468,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^278]: "'अनुभाविनः' मृतापेक्षयाऽवरवयसः ।अपर आह - 'अनुभाविनः' उदकार्हाः तेषां मरणेपरिबापन मिति सह शिखया वापनप्रतिषेधपरम् ।सत्रेषु शिखाया वपनं वचनसामर्थ्यात्॥( उज्ज्वला
 
-
-
 *हारीतः*
 
  त्रिपञ्चसप्तरात्रेषु स्नायीरन् । नवमेऽहनि वासांसि शौचाय दद्युः। दशमेऽहन्यरण्यं[^279] गत्वा कृतश्मश्रुकर्माणः स्पृष्टान्युत्सृज्यतिलकल्कावघृष्टा गौरसर्षपैः शिरःस्नाता अहतवाससः शुक्ल[^280] वा ससो वा अश्माविष्टा गोहिरण्यादीन्यालभ्य प्रविशेरन् । शान्तिं कृत्वा श्वोभूत एकोद्दिष्टं प्रदाय स्वस्त्ययनादिधर्मार्थान् प्रवर्तयन्ति । त्रिविधा कुलशुद्धिराचारादाम्नायात्कृत्याच्च\। आचारो नाम लोक सिद्धो वेदसिद्ध आम्नायो व्यवहारादिना लोके व्याख्यातं कृत्य[^281] शौचमिति ॥
@@ -3909,8 +3486,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 ब्राह्मणाभिहितं[^282] वाक्यं न मिथ्या जायते क्वचित् ॥
 
 [^282]: " ब्राह्मणैर्निहितं बाक्यं न मिथ्या कारयेत् क्वचित् - उ."
-
-
 
 यद्ब्राह्मणास्तुष्टतमा वदन्ति  
 तद्देवताः प्रत्यभिनन्दयन्ति ।[^283]  
@@ -3931,8 +3506,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 कर्ता न विद्यते प्रेते यदा सूतककर्मणि ।  
 दशरात्रोषितः स्नात्वा कुर्याच्छान्त्युदकं स्वयम् ॥
 
-
-
 **यस्येह कर्ता शक्तश्चेत् त्रिरात्रं मारुताशनः ।  
 स्नात्वा चतुर्थे दिवसे ततः शान्तिं समाप्नुयात् ॥**
 
@@ -3948,12 +3521,7 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **\_\_\_\_\_\_\_\_\_**
 
-
-
-
-
 **अथास्थिसञ्चयनम्**  
-
 
 तत्र*विष्णुः*\[१९, १०-१२\]
 
@@ -3972,9 +3540,7 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^287]: "कृत्वा -- अ, उ;"
 
-
 [^288]: "The third Sūtra is thus given in Vidyādhara Gauda's edn.:—अक्त्वाऽस्थीनि सर्वसुरभिमिश्राणि दक्षिणपूर्वायतां कर्पू खात्वा कुशानास्ती वस्त्रावते च हारिद्रं वागिति निवत्यस्मिन्॥"
-
 
 *छन्दोगपरिशिष्टे*[^289] *कात्यायनः*[][^289]\[गोभिलस्मृतिः, ३, ५४-५८\]
 
@@ -4003,9 +3569,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 [^291]: "Mss. Corrupt; text reconstructed from Anavila."
 
   संचयनमूर्ध्वं दशम्याः कृष्णपक्षस्यायुजास्बेकनक्षत्रे । अलक्षणे कुम्भे पुमांसम् । अलक्षणायां स्त्रियम् ।अयुजोऽमिथुनाःप्रवयसः । क्षीरोदकेन शमीशाखया त्रिः प्रसव्यमायतनं परिव्रजन् प्रोक्षति शीतिके शीतिकावतीति । अङ्गुष्ठोपकनिष्ठिकाभ्यामेकैकमस्थ्य-  
-
-
-
 
 संह्रादयन्तोऽवदध्युःपादौ पूर्वं शिर उत्तरम् । सुसंचितं संचित्य पवनेन संपूय॥[^292]")
 
@@ -4040,8 +3603,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 निवेदयति वक्तव्यं तैः सर्वैः समलङ्कृतैः।  
 नमः क्रव्यादमुख्येभ्यो देवेभ्य इति सर्वदा ॥
 
-
-
 येऽस्मिन् श्मशाने देवाः स्युर्भगवन्तः सनातनाः ।  
 तेऽस्मत्सकाशाद्गृह्णन्तु बलिमष्टाङ्गमक्षयम् ॥
 
@@ -4074,10 +3635,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 पूजा च पुष्पधूपाद्यैर्वलिभिः पूर्ववत्क्रमात् ।  
 भूमेराच्छादनार्थं तु वृक्षः पुष्करकोऽथवा ॥
-
-
-
-
 
 पट्टकोवा प्रहर्तव्यस्तत्र सर्वैः सवन्धुभिः \।  
 ततः सचैलं स्वानं कर्तव्यं तैर्विधानतः ॥
@@ -4117,9 +3674,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 अस्थीनि मातापितृपूर्वजानां  
 नयन्ति गङ्गाम्भसि ये कदाचित् ।  
 
-
-
-
 सद्भावयुक्ता[^301] हि दयाभिभृता-  
 स्तेषां तुतीर्थानि फलप्रदानि[^302]॥
 
@@ -4153,11 +3707,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^305]: "विप्रय - अ, उ."
 
-
-
-
-
-
 **एवं कृते प्रेतपुरि स्थितस्व  
 स्वर्गे गतिः स्याच्चमहेन्द्रतुल्या ॥**
 
@@ -4175,12 +3724,7 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^307]: "शुद्धिकाण्ड : – अ.; ' इति महश्रीलक्ष्मीधरविरचिते कृत्यकल्पतरौ कुलशुद्धिः - उ."
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_  
-
-
-
-
 
 **अथ शरीरशुद्धिः**
 
@@ -4211,8 +3755,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^312]: "अत्र वैजयन्ती – 'ज्ञानं' आध्यात्मिकं बुद्धेः शुचिहेतुः । 'आहारः पञ्चगव्यादीनाम् । 'कर्म' सन्ध्यादि अहोरात्रकृतपोपस्य।योऽन्ने शुचिः शुच्यन्नादः स शुचिः ।अर्थशौचमिति पाठेऽपि आहारशुद्ध्यर्थमेवार्थशौचापेक्षेति । 'अकार्य' निषिद्धं तत्कारिणः । 'शोध्यं' अमेध्यादिलिप्ताङ्गम् ।'द्विजोत्तमः' ब्राह्मणः । 'गात्राणि' शरीराणि लिप्तान्यद्भिः स्नानैः शुध्यन्ति । 'मनः’ सङ्कल्पात्मकमसत्सङ्कल्पादशुद्धं 'सत्येन' सत्सङ्कल्पेन शुध्यति । 'विद्यातपोभ्यां शुद्धिः शरीरामिमानजन्यदुरितनिवृत्तिः । 'बुद्धिः' संशयविपर्ययात्मिका ।'ज्ञानेन' प्रमारूपेण॥"
 
-
-
 'ज्ञानं' आध्यात्मिकं सांख्ययोगोपदिष्टम् । 'तपः' कृच्छ्रचान्द्रायणादि । 'आहारः' पवित्रतमानामुत्पन्नपयोयावकादीनाम् । 'मनः' सङ्कल्पद्वारेण शुद्धिकरणम् । 'उपाञ्जनं' गोमयलेपादि । 'कर्म' सन्ध्योपसनादि । 'अर्थशौचं' दत्तादानादिवर्जनम् । ये विद्वांसः ते 'क्षान्त्या' ज्ञानेनैव[^313] शुध्यन्ति । ते हि द्वेषेर्ष्यामत्सरैरशुद्धिकरणैर्नोपहन्यन्ते । 'तपसा' वेदाभ्यासेन, तज्ज्ञानेन च । यथोक्तं 'ब्राह्मणस्य तपो ज्ञानं' इति । कृच्छ्रादि तु सर्वेषामेव शुद्धिहेतुः, न वेदविदामेव । 'नदी वेगेन शुध्यती' त्यनेन शरावाद्यसंसर्गेऽपि तद्रसगन्धविरहेण प्रदेशान्तरे वेगवशान्नदी शुद्धा भवति । न तु कूपादिवत् सर्वत्राशुद्धिः। 'मनोदुष्टा' परपुरुषाभिलाषमात्रवती । 'रजसा' आर्तवेन । 'संन्यासेन' चतुर्थाश्रमपरिग्रहणेन । 'भूतात्मा' जीवः । 'बुद्धिः' अविद्यमानार्थाभि निवेशेन वस्त्वात्मार्थाकारयोरसद्भेदाध्यवसायेन दुष्यति। सा तु 'ज्ञानेन'स्वप्रकाशाश्रयया प्रमाणव्युत्पत्या शुध्यतीति मेधातिथिः[^314] । ‘वायुः ' चण्डालादिस्पृष्टे तृणकाष्ठादौ रथ्यापतिते ॥ ( मेधातिथिः)") ॥
 
 [^313]: "क्षान्त्या शुष्यन्ति ' इति मेधातिथिः ।"
@@ -4223,9 +3765,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **कालोऽग्निः कर्म मृद्वायुर्मनो ज्ञानं तपो जलम् ।  
 पश्चात्तापो निराहारः सर्वेऽमी शुद्धिहेतवः ॥**  
-
-
-
 
 **अकार्यकारिणां[^315] दानं वेगो नद्याश्च शुद्धिकृत् ।  
 शोध्यस्य मृच्च तोयं च संन्यासो वै द्विजन्मनाम् ॥**
@@ -4266,8 +3805,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 स्वाध्यायेनानुतापेन होमेन तपसैनसः ।  
 ध्यानेन क्षेत्रवासेन दानेनांहः परिक्षयः ॥
 
-
-
 *तथा* \[आशौ, ५४, ५५, ५३\]
 
 परापवादाश्रवणं परस्त्रीणामदर्शनम् ।  
@@ -4304,8 +3841,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 श्रूयते द्विविधं शौचं यच्छिष्टैः पर्युपासितम् ।  
 अहिंसया च भूतात्मा मनस्सत्येन शुध्यति॥
 
-
-
 *पुनबौधायनः*[^325]\[१, ८, ४७-४८\]
 
 [^325]: "Most of the leaf of आ is worm-eaten and lost here."
@@ -4330,8 +3865,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
  अपुण्याभिधानं मनसोऽशुद्धिहेतुः । अभिपुण्याभिधानं पावयति । अपुण्यं पराभिद्रोहादि । पुण्यं विष्ण्वादीनां चिन्तनम् । चाक्षुषं त्वमेध्यादिदर्शने ।आदित्यदर्शनाच्छुद्धिः ।नग्नांपरस्त्रीं कामतो बुद्धिपूर्वं दृष्ट्वाप्यादित्येन नास्ति शुद्धिः ।तादर्थ्येनाप्यनुष्ठीयमानस्य शोधकत्वमितराभिधानवैपर्ययात् । घ्राण्यं पलाण्ड्वादिगन्धाघ्राणात् । उपघ्राते प्राणायामैस्त्रिभिः शुचिः ।वाच्यमसत्यवचने ।पुनरुपस्पर्शनम् ॥
 
-
-
 *शङ्खलिखितौ*
 
  आत्मयाजिनां शरीरस्याद्भिर्मृद्भिश्च । ज्ञानेन बुद्धेस्तपसा पाषात्मनाम् ॥
@@ -4352,9 +3885,7 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
  तत्र हृदयशौचमनसूयता मनसः साधुता । कर्मशौचं गर्हितकर्मान्यता । शारीरशौचं मृद्भिरद्भिश्च । वाचामप्रियानृतनैष्ठुर्यवर्जनम् । मनसापि मिथ्याङ्कल्पप्रतिषेधः ॥[^328]
 
-
 [^328]: "The citations from Usanas and the commentary are missing in अand corrupt in अ and उ"
-
 
 *पैठीनसिः*
 
@@ -4387,8 +3918,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^329]: "क्षुतादश्च परिश्रमात् ( ?
 
-
-
 **त्रप्साविद्धां तनुं लक्ष्य दृष्ट्वाचम्य शुचिर्भवेत्।  
 प्रलेपस्नेहगन्धानामशुद्धौव्यपकर्षणम्॥  
 शौचलक्षणमित्याहुर्मृदम्भोगोमयादिभिः।  
@@ -4408,9 +3937,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *विष्णुः* \[२२, ७७-८०\]
 
  नाभेरघस्तात्प्रबाहुषु च कायिकैर्मलैः सुराभिर्मद्यैश्योपहतो मृत्तोयैस्तदङ्गं प्रक्षाल्य शुध्येत्। अन्यत्रोपहतो मृत्तोयैस्तदङ्गं प्रक्षाल्य  
-
-
-
 
 स्नानेन । वक्त्रोपहतस्तूपोष्य स्नात्वा पञ्चगव्येन । दशनच्छदोपहतश्च ॥
 
@@ -4439,8 +3965,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **ग्रामसंकरः' ग्रामस्थावकरः[^332] ।**
 
 [^332]: "Supplied by आ."
-
-
 
 **अथ स्नानशुद्धिः**
 
@@ -4473,8 +3997,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 स्नातस्य वह्नितप्तेन तथैव परवारिणा \।  
 शरीरशुद्धिर्विज्ञेया शङ्गस्य च मतं यथा ॥
 
-
-
 धानात् । 'अशुचिदर्शने' दिवाकीर्त्यादीनामशचीनां दर्शने ॥
 
 ब्रह्मपुराणे
@@ -4499,9 +4021,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **अजीर्णेऽभ्युदिते वान्ते श्मश्रुकर्मणि मैथुने ।  
 दुःस्वप्ने दुर्जनस्पर्शे स्नानमात्रं विधीयते ॥  
 अभ्युदित' इति पर्युषितकालोपलक्षणार्थः ।**  
-
-
-
 
 *गौतमः* \[१४, २९-३१\]
 
@@ -4528,10 +4047,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 श्वकुक्कुटवराहांश्चग्राम्यान् संस्पृश्य मानवः ।  
 सचैलं सशिरः स्नात्वा तदानीमेव शुध्यति ॥
-
-
-
-
 
 **अशुद्धान् स्वयमप्येतानशुद्धश्च यदि स्पृशेत् ।  
 विशुध्यत्युपवासेन पुनः कृच्छ्रेण वा पुनः॥**
@@ -4561,11 +4076,11 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 अब्लिङ्गानि जपेच्चैव गायत्रीं मनसा सकृत् ॥**
 
 'तैःसंस्पृष्टः' तैः चाण्डालोदक्यादिभिः स्पृष्टैः दण्डादिना संस्पृष्टः' उपस्पृष्टः । 'उपस्पृशेत् आयामेत् । 'अब्लिङ्गानि[^338] '  
-'आपो हि ष्ठे त्यादीनि [त्रीणि](http://॑# "Additions in आ.") । एवं च ‘शवं तत्स्पृष्टिनं चैव' \[५, ८५\] इति *मानव*वचनं साक्षात्स्पर्शनविषयम् ॥
+'आपो हि ष्ठे त्यादीनि त्रीणि[^463] । एवं च ‘शवं तत्स्पृष्टिनं चैव' \[५, ८५\] इति *मानव*वचनं साक्षात्स्पर्शनविषयम् ॥
 
 [^338]: "ऋ- सं.. १०, स्, १."
 
-
+[^463]: "Additions in आ."
 
 *पराशरः* \[१२, २५\]
 
@@ -4593,8 +4108,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^340]: "मुष्टिकःम्लेच्छ इति (शु. वि.
 
-
-
 *विष्णुः*\[२२, ६६\]
 
  चिताधूमसेवने सर्वे वर्णाः स्नानमाचरेयुः \। मैथुने दुःस्वप्नेरुधिरोपगतकण्ठे वमनविरेकयोश्च । श्मश्रुकर्मणि कृते च । शवस्पृशं च स्पृष्ट्वारजस्वलाचाण्डालयूपांश्च\। भक्ष्यवर्जं पञ्चनखशवं तदस्थि सस्नेहं च । सर्वेष्वेतेषु वस्त्रं नाप्राक्षालितं बिभृयात् ॥
@@ -4610,8 +4123,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 [^341]: " From here folio 73 to 76 of आ are missing. ,"
 
 \[ *माध्यन्दिनसंहिता,* १, २, ३\]
-
-
 
 *वायुपुराणे*
 
@@ -4642,9 +4153,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **अभोज्यसूतिकाबण्डमार्जाराखुश्वक्कुक्कुटान् ।  
 पतितापविद्धचाण्डालमृतहारांश्च धर्मवित् ॥**  
-
-
-
 
 संस्पृश्य शुध्यति स्नानादुदक्याग्रामसूकरौ ।
 
@@ -4682,8 +4190,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^344]: "The Second sloka occurs only in अ."
 
-
-
 जातवेदः सुवर्णंच सोममार्गं तथैव च ।  
 ब्राह्मणानुमते चैव स्नात्वा दृष्ट्वाच शुध्यति॥
 
@@ -4714,11 +4220,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **अस्पृश्यस्पर्शने वान्ते श्मश्रुपाते भगे क्षुरे।  
 स्नानं नैमित्तिकं कार्यं देवपित्र्यविवर्जितम् ॥**  
 
-
-
-
-
-
 'स्नानं' तर्पणरहितमित्यर्थः । " दैवपित्र्यविवर्जितम् स्नानाङ्ग देवपितृतर्पणरहितमित्यर्थः ॥[^347]
 
 *यमः*
@@ -4727,8 +4228,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 आतुरं स्नानसंप्राप्तौ दशकृत्वस्त्वनातुरः ।  
 स्नात्वा स्नात्वा स्पृशेत् क्षिप्रं ततः शुद्धः स आतुरः॥
-
-
 
 **अथ द्रव्यशुद्धिः**
 
@@ -4760,8 +4259,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^348]: "त्वन्यानां - उ.; अल्पाना इति मेधा पाठः "
 
-
-
 **चैलवच्चर्मणां शुद्धिर्वैदलानां तथैव च ।  
 शाकमूलफलानां च धान्यवच्छुद्धिरिष्यते ॥**
 
@@ -4784,8 +4281,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 कांस्यायस्ताम्ररैत्यानि[^350]त्रपुसीसमयानि च ॥**
 
 [^350]: "रौप्यानि - अ"
-
-
 
 **निर्लेपान्येव शुध्यन्ति केवलेन जलेन च ।  
 शूद्रोच्छिष्टानि शोध्यानि त्रिधा क्षाराम्लवारिभिः ॥**
@@ -4819,8 +4314,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 दुकूलपदृकौशेयाः शुध्यन्त्यद्भिः सदैव तु॥**
 
 **'वालरज्वा' गोवालरज्वा ।**
-
-
 
 *तथा*
 
@@ -4859,8 +4352,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **तावन्तं मलिनं पूर्वमद्भिः क्षारैश्च शुध्यति ।  
 अंशुभिः शोषयित्वा च वायुना वा समाहरेत् ॥**
 
-
-
 ऊर्णापट्टांशुकक्षौमदुकूलाविकचर्मणाम् ।  
 अल्पशौचे भवेच्छुद्धिः प्रोक्षणादिभिरेव च ॥
 
@@ -4895,8 +4386,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 श्वपाको यत्स्पृशेद्द्रव्यं मृन्मयं द्रवमेव वा ।  
 पक्वंवा भोज्यकल्कं वा तत्सर्वं परिवर्जयेत् ॥
 
-
-
 उच्छिष्टाशुचिभिस्स्पृष्टमद्रवं शोध्यतेऽम्भसा ।  
 द्रवं वाऽपि प्रभूतं च शोधयेत्प्रोक्षणादिभिः ॥
 
@@ -4911,8 +4400,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *हारीतः*
 
  अद्भिः काञ्चनराजतानाम् । तद्गुणवर्णयोगात् स्नेहवैवर्ण्योपहतानां यवगोधूमकलायभाषगोमयचूर्णैर्मार्जनम्।अद्भिः प्रक्षालनं च। आम्ललषणाभ्यां ताम्राणाल् । भस्मना कांल्यानाम्शाणघर्षणैः कार्णायजालम् । सिकतावघातघर्षणैः शैलानाम् । शैलावघर्पणनार्जनैर्मणिभयानाम् । निर्लेखनैर्दारुमयाणाम् । पुनः पकात्पार्थिवानाम् ।गोमूत्रगोमयबिल्वैर्वैदलानाम् । गोयालरज्ज्वा सोदकया फलपात्राणाम् । मार्जनं कमण्डलूनां यतिपात्राणाम् ।आरोषाभ्यां कार्पासशणमयानाम् । पुत्रजीवकारिष्टैः क्षौमदुकूलानाम् । पुत्रजीवकोदस्विद्भिश्रीराणाम् । श्रीफलश्वेतसर्षपैः कौशेयानाम् । उदस्बिद्वल्मीकमृदा सर्पपेरूर्णानाम् । स्नेहसक्तुकुल्माषोद्वर्तनैर्गुरूणाम् ॥
-
-
 
 ‛कुल्माषाः[^357]")अर्धस्विन्नमाषाः।'गुरवः' ऊर्णामया एवोप हताश्च कम्बलाः ।
 
@@ -4934,8 +4421,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
  तैजसानां पात्राणामसकृन्मृद्भस्मभिः परिमार्जनमन्यतमेनवा। ताम्ररजतसुवर्णानामम्लैः । \[अमत्राणां दहनम् \] ।दारवाणां
 
-
-
 तक्षणम् । वैणवानां गोमयेन । फलमयानां गोवालरज्ज्वा । कृष्णाजिनानां बिल्वतण्डुलैः । कुतपानामरिष्टैः[^358]")। और्णानामादित्थेन । क्षौमाणां गौरसर्वपकल्केन । मृदा चेलानाम् । चेलवच्चर्मणाम् । तैजसवदुपलमणीनाम् । दारुवदस्थ्न्साम्। क्षौमवच्छङ्गशृङ्गशुक्तिदन्तानाम् ।पयसा वा । चक्षुर्घाणानुकूल्याद्वा ॥
 
 [^358]: "'कुतपः ' नाम पार्वतीयागनिर्मिताः कम्बला उभ्यन्ते । 'अरिष्टैः' दुगवृक्ष फलैः (गोविन्दस्वामी
@@ -4952,8 +4437,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
  काष्ठानां परिलेपनेन । मूलकफलपुष्पभूमितृणदारुपलालधान्यानामभ्युक्षणम्। रज्जुवैणवयज्ञचर्मकार्पासिकक्षौमदु- कूलचीनांशुकपट्टकौशेयोर्णकानामद्भिरेव प्रक्षालनम्॥
 
-
-
 *सुमन्तुः*
 
  मणिकनकरजतशङ्खशुक्त्युपलप्रवालानां परिमार्जनं शुद्धिः । वस्त्रविदलरज्जुचर्मणामद्भिः प्रक्षालनम् \। भूम्यस्थिकाष्ठानां तक्षणम् । मृत्पात्रलोहजानामग्निनोत्तापनम् । सीसत्रपुताम्रायसानामुदकभस्मभ्यां त्रिःपरिमार्जनाच्छुद्धि।गोवालरज्ज्वा पुष्पफलपत्रमूलानां च । अन्यत्र शकुनोच्छिष्टेभ्यः । तेषामदोषः । श्वदष्टानांचमसादीनां स्रुक्स्रुवाणां चरूणामन्येषां यज्ञभाण्डानामुष्णेनवारिणा शौचम् ।तैजसानान्तु भूर्जचर्मचीरवेणुवैदलवल्कलानामद्भिः प्रक्षालनम्॥
@@ -4967,9 +4450,7 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 अरिष्टैश्च तथा बिल्वैरिङ्गुदैश्चर्मणामपि ।  
 वैदलानां च सर्वेषां चर्मवच्छौचमिष्यते ॥[^360]
 
-
 [^360]: "Folio 82 of आ, which should begin here, is lost."
-
 
 वल्कलानां च सर्वेषां भस्मना शौचमिष्यते ।  
 तथास्थिचर्मदारूणां शृङ्गाणां च विलेखनम् ॥
@@ -4991,16 +4472,11 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 *आपस्तम्बः* \[१, १७, ९-१३\]
 
- 
 अनाम्नाते[^362]")
 
 [^362]: "‘अनाप्रीत''आप्रीतं' इति उज्वलादृतपाठौ ।आप्रीतं ' क्वचित्कार्ये पाकादावुपयुक्तमिति व्याख्यातच्च'॥ आपणः ' पण्यवीथी । तच्च कृतान्नं नाश्नीयात् ॥ ( उज्वला
 
-
-
 मृन्मये भोक्तव्यम् । आम्नातं चेदभिदग्धे । परिमृष्टं लोहं प्रयतम् । निर्लिखितं दारुमयम् ।यथागमं यज्ञे॥
-
-
 
 'आम्नातं' अन्यस्मै लौकिकप्रयोजनाय प्रक्षालितमिति कपर्दिभाष्यम्॥
 
@@ -5031,9 +4507,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
  पर्णानां प्रक्षालनमेव ।
 
 उकृपयुक्तकानाउल्लेर्खातथा पुष्पमूलफलानां च विष्किरावधूतानां प्रोक्षणम् \। अभ्युक्षणमित्येके । यानशय्यासनानां संहतवच्छौचम् ॥  
-
-
-
 
   'विष्किराः ' कुक्कुटादयः[^364] ।
 
@@ -5070,8 +4543,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^371]: " एवं क्षुद्रसमिधानाम् । संहतानां तु - अ."
 
-
-
 घाते प्रक्षाल्यावशोषणम्[^372]। बहूनां तु प्रोक्षणम् । दारुमयानां पात्राणामुच्छिष्टसमन्वारब्धानामवलेखनम् । उच्छिष्ट\[लेपो\]पहतानामवतक्षणम् । मूत्रपुरीषलोहितरेतःप्रभृत्युपहतानामुत्सर्गः । तदेतदन्यत्रनिर्देशात् । यथैतदग्निहोत्रे धर्मोच्छिष्टे च दधिधर्मे च कुण्डपायिनामयने चोत्सर्गिणामयने च दाक्षायणयज्ञे चैडादधे च चतुश्चक्रे च ब्रह्मौ दनेषु च तेषु सर्वेषु दर्भैरद्भिः प्रक्षालनम् । सर्वेष्वेव सोमभक्षेष्वद्भिरेव मार्जालीये प्रक्षालनम् । मूत्रपुरीषलोहितरेतः प्रभृत्युत्सर्गः ॥ मृन्मयानां पात्राणामुच्छिष्टसमन्वारनब्धानामवकूलनम् ।उच्छिष्टलेपोपहतानां पुनर्दहनम् । मूत्रपुरीषलोहितरेतःपभृत्युपह्तानामुत्सर्गः । तैजसानां पात्राणां पूर्ववत् परिमृष्टानां प्रक्षालनम् । परिमार्जनद्रव्याणि गोशकृन्मृद्भस्मेति । मूत्रपुरीषलोहितरेतःप्रभृत्युपहतानां पुनः करणम् । गोमूत्रे वा सप्तरात्रं परिशायनम्। महानद्यां वैवम्। एवमश्ममयानाम् \।
 अलावुबिल्वविनालानां गोवालैः परिमार्जनम् । नलवेणुशरकुशव्यूतानां गोमयेनाद्भिरिति प्रक्षालनम् । व्रीहीणामुपघाते प्रक्षाल्याऽवशोषणम् ।तण्डुलानामुत्सर्गः ॥
 
@@ -5084,8 +4555,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \(2\) एनन्तरं 'मृन्मयानां पात्राणां' इत्यादि 'प्रभृत्युपहतानामुत्सर्गः' इत्यन्तं पठित्वा,मुद्रितदेतदन्यत्र इत्यादि पठितमुदयपुरमातृकायाम् । 'आ' काशे त्वेवमेव पाठक्रमः \। पुस्तके वपीत्थमयमेव क्रमः॥
-
-
 
 *पैठीनसिः*
 
@@ -5112,8 +4581,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **शोध्यादौ शोधनीयं च गोमूत्रक्षारवारिभिः ।  
 रज्जुवल्कलपात्राणां चमसानां तु चर्मणाम् ॥**
-
-
 
 कृत्वा शौचं ततः शुद्धिर्गोवालैर्घर्षणं पुनः ।  
 कौशेयाविकयोर्देयं रजताक्तं जलं बहु ॥  
@@ -5142,9 +4609,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
  प्रोक्षणेन संहतानाम् ॥  
 
-
-
-
 *वसिष्ठः* \[३, ४८\]
 
 **लेपगन्धापकर्षणे शौचममेध्यस्यालिप्तस्याद्भिर्मदा च ॥**
@@ -5169,9 +4633,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**  
 
-
-
-
 **अथात्यन्तोपहतानां शुद्धिः**
 
 तत्र *विष्णुः* \[२३, १-६\]
@@ -5191,8 +4652,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *शङ्गलिखितौ*
 
  तैजसानां रेतोमूत्रपुरीषोपहतानामावर्तनमुल्लेखनं भस्मना वा सप्तकृत्वः परिमार्जनम् । चेलानामुत्सेधनं तस्मादुच्छेदनं वा ॥
-
-
 
 'आवर्तनं' अग्नौ द्रावणम् । तत्र चावर्तनादीनां शुद्धिप्रकाराणां बाहुल्याच्छुचिद्रव्यंचिराचिरसंसर्गेण व्यवस्था ॥
 
@@ -5218,8 +4677,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **अथ सूत्रपुरीषाभ्यां रेतसा रुधिरेण च ।  
 चेलं यदुपहन्येत पुनः प्रक्षालयेत्ततः ॥**
-
-
 
 **यद्यम्भसा न शुध्येत्तु वस्त्रं चोपहतं ध्रुवम् ।  
 छेदनं तस्य दाहो वा यन्मात्रं तु प्रदुष्यते॥**
@@ -5256,8 +4713,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **दूषितैः प्रोक्षणेनापि शुद्धिस्तूक्ता विधानतः ।  
 दुष्टैर्मार्जनसंस्कारैः कश्मलैः सर्वथा भवेत्॥**
 
-
-
 अथ भूमिशुद्धिः
 
 *तत्र मनुः \[*५, १२४\]
@@ -5284,8 +4739,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^383]: "अस्यार्थः— अपवित्रा भूमिः त्रिधा, अमेध्या दुष्टा मलिना च । तत्रामेध्या दहनादिभिः पञ्चभिः बहुत्वे, चतुर्भिःतदल्पत्वे शुध्यति । एवमग्रेऽपि । दुष्टा दहनादिभिः त्रिभिः, खननोपलेपनाभ्यां द्वाभ्यां वा । मलिना एकधोपलेपनेन शुध्यति । वापनं मृदन्तरेण पूरणम् ॥ ( शु. प्र., ९९
 
-
-
 प्रसूता गर्भिणी यत्र म्रियते वाऽथमानुषः ।[^384]  
 चाण्डालैरुषितं यत्र यत्र विन्यस्यते शवः ॥
 
@@ -5309,8 +4762,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
  घनाया भूमेरुपघात उपलेपनम् । सुषिरायाः कर्षणम् ।क्लिन्नाया[^387] अमेध्यमाहृत्य प्रच्छादनम् । चतुर्भिःशुध्यतेभूमिर्गोभिराक्रमणात् खननाद्दहनादभिवर्षणाच्च । पञ्चमाच्चोपलेपनात् षष्ठात्कालात् ॥
 
 [^387]: " क्लिन्नायां मेध्यं' इति गोविन्दस्वामिनादृतपाठः । 'क्लिन्ना' आर्द्रा । तस्या उपघात तृणादिना मृदा च प्रच्छादनं कार्यम् इति तेन व्याख्यातम् । "
-
-
 
 *याज्ञवल्क्यः* \[१, १८८\]
 
@@ -5341,8 +4792,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **गोचर्ममात्रमब्बिन्दुर्भूमेः शुध्यति पातितः ।  
 समूढमसमूढं वा यत्राऽमेध्यं न लक्ष्यते ॥** इति
-
-
 
 *यमः*
 
@@ -5376,8 +4825,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 पन्थानश्च विशुध्यन्ति सोमसूर्यांशुमारुतैः॥
 
-
-
 *शातातपः*
 
 **वल्मीकाच्च कराल्लेपात् जलाच्च पथिवृक्षयोः।  
@@ -5392,8 +4839,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 **शौचार्थं नैव संग्राह्याः शर्कराश्मादिवर्जिताः।  
 रक्ता गौरी तथा श्वेता मृत्तिकास्त्रिविधाः स्मृताः॥**
-
-
 
 **अथोदकशुद्धिः**
 
@@ -5420,8 +4865,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 अव्याप्तं चेदमेध्येन तद्वदेव शिलागतम्॥
 
 [^397]: "वितृष्णा ' - अ, आ, उ, शु. प्र., १०२ शु. वि."
-
-
 
 *यमः*
 
@@ -5454,8 +4897,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 प्रतिग्राह्यं च पेयं च न दुष्येन्मनुरब्रवीत् ।  
 वापीकूपतडागेभ्य आपो ग्राह्यास्तु सर्वशः ॥
 
-
-
 **पश्चात्पश्येदमेध्यं तु पञ्चगव्येन शुध्यति ॥**
 
 **अस्थिचर्मावसिक्तं च श्वमार्जारैश्च मूषिकैः ।  
@@ -5472,15 +4913,15 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 *शङ्कलिखितौ*
 
- आपो रूपरसगन्धवत्यः परिशुद्धाः ।[जीर्णचर्मकरण्डैरभ्युद्धृता](http://॑# "‘जीर्णचर्मकरण्डकैरुद्धृताः' इति शुद्धिविवेके; ‘चर्मकरण्श्चकः चर्मपुटः इति रुद्रधरः॥") भूमिगता मेध्या यत्र गौर्वितृष्णा भवेत् ॥
+ आपो रूपरसगन्धवत्यः परिशुद्धाः ।जीर्णचर्मकरण्डैरभ्युद्धृता[^464] भूमिगता मेध्या यत्र गौर्वितृष्णा भवेत् ॥
+
+[^464]: "‘जीर्णचर्मकरण्डकैरुद्धृताः' इति शुद्धिविवेके; ‘चर्मकरण्श्चकः चर्मपुटः इति रुद्रधरः॥"
 
 *पैठीनसिः*
 
  गन्धवर्णरसयुक्ताः शुद्धा आपो भूमिगता यत्र गौर्वितृष्णा भवति । विपर्यस्तं महोदकमपि ॥
 
  प्रकृताद्रसादन्यरसगन्धादियुक्तत्वेन भूतं 'विपर्यस्तम्' ।
-
-
 
 *देवलः*
 
@@ -5517,13 +4958,9 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^404]: " 'द्रोणी' काष्ठाम्बुवाहिनी । 'कोशः ' चर्मपुट इति कल्पतरूप्रभृतयः ( शु. प्र., १०४
 
-
-
  'घटको'ऽत्र सर्वानुगतकूपोदकोद्धरणार्थं प्रकल्पितः करकादिः। 'कोशः ' चर्मपुटः । ऋतेऽपि 'शूद्राद्' इति, ब्राह्मणादिस्वामिकमपि तदपेयम्॥
 
 *हारीत*
-
- 
 
 भूस्थाःः पुण्याञ्चापोऽशुचिभागवर्जम् । 'रात्राविता[^405] आपो वरुणं प्राविशस्तस्मान्न रात्रौगृह्णीयात् । धाम्नोधाम्न इत्यग्निमुपरिष्टाद्धारयन् गृह्णीयात् ॥
 
@@ -5544,8 +4981,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^407]: " 'असंवृत्तानि ' अस्पृश्यस्पृष्टान्यपीत्यर्थ इति कल्पतरुः इति रुद्रधरः (शु. वि., ३४
 
-
-
 *बृहस्पतिः*\[आशौ., ७७-७८\]
 
 **उच्छिष्टं मलिनं क्लिन्नंयच्च विष्ठाविलेपितम् ।  
@@ -5555,8 +4990,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 गवां मूत्रपुरीषेण शुध्यन्त्याप इति स्थितिः ॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 अथ पक्वन्नशुद्धिः
 
@@ -5585,8 +5018,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^410]: "अलातभस्म शुद्धस्थानमस्मोपलक्षणत् (शु. प्र., शु. वि.
 
-
-
 *तथा*
 
 **वाक्प्रशस्तानि भुञ्जीत वाग्दुष्टानि विवर्जयेत् ।  
@@ -5613,8 +5044,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *पैठीनसिः*
 
  केशकीटगवाघ्रातमन्नं हिरण्येन च भस्मना वा स्पृष्टं प्रोक्षितं भोज्यम् ॥
-
-
 
 *शातातपः*
 
@@ -5650,8 +5079,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
   आकारजानामभ्यवहरणीयानां घृतेनाऽभिधारितानां शुद्धिः । पुनःपचनमेव स्नेहानाम् । स्नेहवद्रसानाम् । मृदद्भिः संहतानाम् ।
 
-
-
  द्रव्यणामुत्पवनम् । शुष्काणामुद्धृतदोषाणां संस्कारः। परिप्लावितानां दोषाणां त्यागः ॥
 
 *बौधायनः* \[११०, २-३\]
@@ -5676,8 +5103,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^417]: "स्थाग्निकैः - अ"
 
-
-
 हारीत[^418]ः
 
 [^418]: " शु. प्र., १२९–“ काश्चनमस्मरजतवैडूर्यगोवालाजिनदर्माणामन्यतमेनाद्भिः संस्पृष्टमन्त्रप्रोक्षण "
@@ -5697,8 +5122,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 [^422]: "अवधायोपयोजयेदिति मु. बौ."
 
   एवमित्यादि-अनेन पात्रात् पात्रान्तरनयनमतिदिश्यते । ततोऽधिकविधानमनियतम् ॥
-
-
 
 *विष्णुः*\[२३, ३६-३७\]
 
@@ -5730,8 +5153,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 तदेव द्रोणीश्रवणं पक्वान्नप्रदर्शनार्थम्। तथा च 'द्रोणाधिक'मित्युक्तं प्रकृतेषूत्सवेषु ॥
 
-
-
 *बृहस्पतिः* \[संस्कार, २८\]
 
 तीर्थे विवाहे यात्रायां सङ्ग्रामे देशविप्लवे ।  
@@ -5756,8 +5177,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 [^426]: "'कन्दुपक्वं' उखापक्वंचिपीटकलाजादि । पायसं ' पयोविकारः, आमिक्षादीति रत्नाकरः । 'अशूद्रानभुज' द्विजानां शूद्रपक्वान्यप्येतानि भोज्यानीत्यर्थः ॥ (शुद्धिकौमुदी
 
 \_\_\_\_\_\_\_\_\_\_
-
-
 
 **अथाऽशुध्यपवादाः**
 
@@ -5789,8 +5208,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^430]: " 'द्विजैः' इति शु. प्र. पाठः, १०८ ' स्त्रियश्च सम्भार्या एव' इति रुद्रधरः "
 
-
-
 मनुः \[५, १३१\]
 
 **श्वभिर्हतस्य यन्मांसं शुचि तन्मनुरब्रवीत्।  
@@ -5821,10 +5238,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^433]: "त्रिपुरुषः – आ."
 
-
-
-
-
 भूमिरग्निरजो वायुरापो दधि घृतं पयः ।  
 सर्वाण्येतानि शुद्धानि दश[^434] मेध्यानि नित्यशः ॥
 
@@ -5853,9 +5266,7 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 अभोज्यान्नानामपि घृतघटादयो न दुष्टा इत्यर्थः ।[^436]
 
-
 [^436]: "The comment is repeated by रुद्रघर"
-
 
 *शङ्कलिखितौ*
 
@@ -5864,8 +5275,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 मुखवर्जच गौः शुद्धा मार्जारश्च[^437] क्रमे शुचिः ।**
 
 [^437]: "राजा यश्च -उ, अ."
-
-
 
 *बृहस्पतिः*\[आचार, ७६\]
 
@@ -5884,8 +5293,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 आकराश्शुचयस्सर्वे वर्जयित्वा सुराकरम् ॥**
 
 [^438]: "अदृश्या – उ, अ; अदूष्या — आ, मु. बौधा.; 'अदुष्टा' इति रुद्रघराहतपाठः ।"
-
-
 
 *शातातपः*
 
@@ -5906,7 +5313,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **अपां नोच्छिष्टदोषोऽस्ति मधुनो न च सर्पिषः ।  
 न फलानां कृषीमानां नाकरणां न योषिताम् ॥**  
 
-
 देवलः
 
 शुचि पूतं स्वयं शुद्धं पवित्रं चेति केवलम् ।  
@@ -5921,8 +5327,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 स्थावरं जङ्गमं वापि स्वयंशुद्धमिति स्मृतम् ॥
 
 [^441]: "धनतां गतम् – शु. प्र., १११. ५"
-
-
 
 अन्यद्रव्यैरदूष्यै[^442]र्यत् [][^443] स्वयमन्यानि शोधयेत् ।  
 हव्यकव्येषु पूज्यं यत्तत्पवित्रमिति स्मृतम् ॥
@@ -5958,9 +5362,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 अदुष्टं वाक् प्रशस्तं च स्वयं शुद्धं च केवलम् ।  
 त्रीण्येतानि विशुद्धानि भगवान्मनुरब्रवीत् ॥  
 
-
-
-
 **अजाश्वं मुखतो मेध्यं[^447] गावो मेध्याश्च पृष्ठतः ।  
 तरवः पुष्पिता मेध्या ब्राह्मणश्चैव सर्वतः ॥**
 
@@ -5990,9 +5391,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **श्वपाकवृषलौभोक्तुं ब्राह्मणाग्निं च नार्हतः ।  
 चाण्डालाग्नेरमेध्याग्नेर्मृतकाग्नेश्च कर्हिचत् ॥**  
 
-
-
-
 पतिताग्नेश्चिताग्नेश्च न शिष्टैर्ग्रहणं स्मृतम् ।  
 गोशकृच्छुद्धदेशस्थं श्मशानादुद्धृतं शिवम् ॥
 
@@ -6013,8 +5411,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 *उशना*
 
 **ऊर्ध्वंनाभेः पुरुषः । गौर्मेध्या च पृष्ठतः । मुखादजः \। स्त्रियः सर्वतः । हृदयमासामशुचि ॥
-
-
 
 यमः
 
@@ -6049,14 +5445,7 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **बलात्कारोपभुक्ता वा चोरहस्तगतापि वा ।  
 स्वयं विप्रतिपन्ना वा अथवा विप्रमादिता ॥**
 
-  
-
-
 .  
-
-
-
-
 
 **अत्यन्तदूषितापि[^453] स्त्री न परित्यागमर्हति ।  
 सर्वेषां निष्कृतिः प्रोक्ता नारीणां तु विशेषतः ॥**
@@ -6085,8 +5474,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 आपो न दुष्यन्ति महीतलस्था  
   विद्वान्न दुष्येत्तु प्रतिग्रहेण॥
 
-
-
 *याज्ञवल्क्यः*, \[१, ७१-७२\]
 
 सोमः शौचं ददावासां गन्धर्वश्च शुभां गिरम् ।  
@@ -6112,8 +5499,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
  न वै स्त्रीणां व्रतं न मन्त्रक्रिया न कार्यमिति *प्रजापतिः* । पाणिगृहीती सन्तानार्थिना परैरवकीर्णा न दुष्यतीति ऋषिवादः। ता ह्यार्तवेन शुध्यन्ति । न ह्यन्तर्वत्नी शुध्यतीति *वैवस्वतः* ।
 
-
-
 तस्या आर्तवेन च शुध्या असंभवात् । कामानुषगमप्रवृत्तिरकार्यमिति हारीतः । तद्ब्रतत्वादात्मसंभवाच्च दोष इति *गौतमः* । चान्द्रायणमासां पावनमि*त्याचार्याः*। प्राजापत्यो वा ॥
 
 *हारीतः*
@@ -6136,8 +5521,6 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 **स्वच्छन्दापि हि या नारी तस्यास्त्यागो विधीयते ।  
 न चैव स्त्रीवधं कुर्यान्न चैवाङ्गविकर्तनम् ॥**
 
-
-
 स्वच्छन्दव्यभिचारिण्या *विवस्वान्* त्यागमब्रवीत् ।  
 न बन्धनं न वैरूप्यं वधं स्त्रीणां विवर्जयेत् ॥
 
@@ -6158,13 +5541,7 @@ The touch of the caṇḍāla, and even his shadow, pollutes. An outcaste, i.e. 
 
 [^460]: "इति भट्टश्रीलक्ष्मीधरेण विरचिते कृत्यकल्पतरौ शुद्धिकाण्डं समाप्तम् (उ
 
-
 [^461]: " संवत् १४४६ समय पौषशुद्धि, १४ शनौ । नारायणेत्यादि बि + + दरन्तरी जिविभ्राज- मानमहानृपतिश्रीमदरामसिंहदेवभुज्यमानराज्ये द्विजचरणकमलनिरतेत्यादिसंस्तूयमानशुक्ल कनकत्वरकुलालंकृतसत्पण्डित श्रीनिकाजुकेन व्यलिखि । शुभमस्तु ॥"
-
-
-
-
-
 
 APPENDIX A
 
@@ -6172,20 +5549,9 @@ Index of smṛti-authors cited
 
 [TABLE]
 
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 APPENDIX B
 
@@ -6199,25 +5565,13 @@ Index of Vedic Works cited
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **APPENDIX C**
 
 Indexof Puraṇas cited  
 
-
 [TABLE]
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-
-
-
-
-
-
-
-
-
 
 APPENDIX D
 
@@ -6254,11 +5608,7 @@ Indexx of Authors and Works cited in the Footnotes
 | जयगमः २४                                           |                                                                 |
 | देवलः १५३                                            |                                                                 |
 
-
-
 [TABLE]
-
-
 
 APPENDIX E
 
@@ -6296,11 +5646,7 @@ Index of Half-verses
 | अजातदन्ता ये बालाः, परा,          | अतो न रोदितव्यं हि, वि.स्मृ         |
 |                                  | अत्यन्तदूषितापि स्त्री, बृह,        |
 
-
-
 [TABLE]
-
-
 
 |                                      |                                    |
 |--------------------------------------|------------------------------------|
@@ -6339,532 +5685,7 @@ Index of Half-verses
 | अप नः शोशुचदघम्, याज्ञ,              | \*अयुजोऽमिथुनाः, आश्व. गृ.,        |
 |                                     | \*अथोदकक्रिया, श. लि.,             |
 
-
-
 [TABLE]
-
-
-
 
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^359]: "'कुतपः ' नाम पार्वतीयागनिर्मिताः कम्बला उभ्यन्ते । 'अरिष्टैः' दुगवृक्ष फलैः (गोविन्दस्वामी
-
-
-[^324]: "Lacuna in आ ends here."
-
-
-[^290]: " Mss. Corrupt; text reconstructed."
-
-
-[^275]: "Lacuna in आ begins here."
-
-
-[^258]: "भगवद्गीता, २, ३०."
-
-
-[^212]: "स्मृतिचन्द्रिका शु. का. पृ.१००, पाठाः आदृताः। मूलमातृकापाठाः कोष्ठेषु सूचिताः"
-
-
-[^172]: "'सपिण्डताविच्छित्तिर्भवति' इति शुद्धिकौमुदी (५१
-
-
-[^126]: "' प्रपतनं ' गिरिशिखरादितः पातः॥ (शु. प्र., ५६
-
-
-[^123]: "वन्दिनां- आ, शु. प्र - ५४ – “ दण्डिनामित्यत्रापपाठः 'वन्दिनां' चौरादिगृहीतानां बन्दिदशायामेव विपन्नानामित्यर्थ इति मिश्राः॥ (शुद्धिप्रकाशः, ५४
-
-
-[^89]: "Suddhikaumudi (p. 35
-
-
-[^88]: "Suddhikaumudi (p. 35
-
-
-[^81]: "'कालशेषं' इति मूलमातृका."
-
-
-[^70]: "अत्रापि दशग्रहणमाशौचकालोपलक्षणार्थम्। यस्य चाशौचकालः तस्मिन् न निवृत्तेयदि पुनरन्यदाशौचनिमित्तमुत्पद्यते तदा पूर्वशेषेणैत्र शुद्धिः, न त्वन्तरानिपतितं यत्तदीयादहः प्रभृति दशाहादिगणना कर्तव्या। 'पुनः ' शब्दश्चसमानजातीयापेक्षया समर्थतरो भवति। विप्रग्रहणमप्या शौचानामुपलक्षणार्थम्। ( मेधातिथिः
-
-
-[^67]: "अन्ये त्वाहुः- अतीनतेष्वप्यहस्सुयावत् स्नानादिक्रिया न कृता तावन्नैव शुद्धिः। तत्राशुचित्वादननुष्ठाने न दुष्यानीति स्नानादिषु शुद्धये न प्रवर्तते। तत्रैवोच्यते 'न बर्धये'न्नातीतेष्वहस्सुबाह्यशौचे विलम्बितव्यम्।'प्रत्यूहो' निर्यामः, अनुष्ठानम्॥ (मेधातिथिः
-
-
-[^40]: "*विष्णुस्मृतिः, २२, ८३– ५०– न व्रतिनां व्रते। न सत्रिणां सत्रे॥ सत्रिन् includesब्रह्मचारिन् according to वैजयन्ती॥  गौतमधर्मसूत्रम्, १५, १– शावमाशौचं दशरात्रम् अनृत्विग्दीक्षितब्रह्मचारिणां सपिण्डानाम् !!"
-
-
-[^39]: "*विष्णुस्मृतिः, २२, ८३– ५०– न व्रतिनां व्रते। न सत्रिणां सत्रे॥ सत्रिन् includesब्रह्मचारिन् according to वैजयन्ती॥  गौतमधर्मसूत्रम्, १५, १– शावमाशौचं दशरात्रम् अनृत्विग्दीक्षितब्रह्मचारिणां सपिण्डानाम् !!"
-
-
-[^35]: "पुत्राद्यशौचिसंपर्के- उ."
-
-
-[^26]: "तथा हि विशुद्धौ इत्यनुवृत्तौ- अ."
-
-
-[^14]: "कुलशौचं आशौचं शरीरं च- आ; अनुशौचं- उदयपुरमातृका [-उ ] ; 'अर्थशौचं ' इति शुद्धिप्रकाशादृतपाठः (पृ. ९

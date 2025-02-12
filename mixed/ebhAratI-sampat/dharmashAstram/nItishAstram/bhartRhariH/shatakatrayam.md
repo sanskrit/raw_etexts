@@ -18,31 +18,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1ODgyMjI3MTM
 
 \[
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 **General Editor's Preface**
 
 I
 
 T gives me great pleasure to publish as the **ninth volume** of the **Bharatiya** **Vidya Series** this popular, famous, and charming S'atakatrayam of Bharatrhari edited by my friend Prof. Damodar Kosambi. Anyone who knows a little of the Sanskrit language has some acquaintance with these most sweet and delectable gnomic and lyric verses. There could be no real Sanskritist whose speech is not embellished by some stanza or phrase of these epigrams by Bhartrhari. Except for Kalidasa there is no poet more beloved than Bhartṛhari; these pearl-like stanzas of Bhartrhari are even more generally known than Kalidasa's poetry in the whole of India. Because of this popularity there have been many versions, commentaries, or renderings in Indian vernaculars and translations in all the major European languages. In India as well as Europe there have been many editions of the original text and of some commentaries, but no scholar has attempted hitherto the preparation and publication. of what might properly be called an exhaustive critical edition. It is a matter of gratification for me to announce that the task of initiating this important service has been undertaken by Prof. Kosambi, who has concentrated for over three years upon the examination of and research into all aspects of the problem. The valuable results of his researches have been published in the JBBRAS and elsewhere. Prof. Kosambi gathered or examined over two hundred manuscripts from all parts of the country, and found many known as well as unknown commentaries on the work. Along with the determination of the original text, he also edited some of these commentaries; as a fruit of his labours one version with an easy Sanskrit commentary by a scholar named Ramarsi was published last year in the Anandãśrama Series. In the present edition, another such commentary is being issued for the first time. The commentator has made no reference of any sort which gives a clue to his identity, time, or place; nevertheless, Prof. Kosambi conjectures from his general style that he was probably a learned southerner. The commentary is written in a clear and comprehensive manner so that even those who have not advanced very far in Sanskrit will be able to penetrate into Bhartrhari's figures of speech.
-
-
 
   Prof. Kosambi is a mathematician of renown; his principal subject of study and of research is mathematics. As senior professor of mathe- matics in a specialized and leading foundation like the Tata Instituteof Fundamental Research he pursues his valuable investigations in thatsubject. Nevertheless, it gave me the utmost joy to see his enthusiasm and activity in Sanskrit philological research as well. Though I guessed in his boyhood that he would one day be an acute and outstanding mathematician, it never occurred to me that he might attempt to surpass his saintly father, the world-famous Pali savant S'ri Dharmanand Kosambi, in Sanskrit philology. This I realized only last year when my dear friend S'ri Dharmanandaji came to me and said, "Baba' has been preparing a critical text of Bhartrhari for a couple of years and wishes to edit and publish some of the unpublished commentaries as well. If you publish these in your Series, it would be very useful". I accepted at once with alacrity and wrote to 'Baba' to send on his press copy. The first fruit thereof is now in the hands of the learned. The critical edition of Bhartrhari which he has completed has gone to press for publication immediately after this. It is hoped that that work also will soon be available to readers.
 
@@ -51,8 +39,6 @@ Sravant PaurnimāVikrama Samvat 2002
 }
 
                  ** JINA VIJAYA MUNI**
-
-
 
 **INTRODUCTION**
 
@@ -64,15 +50,11 @@ Sravant PaurnimāVikrama Samvat 2002
 
 [^3]: "Edited by K. V. Krsnamurti Sarmaand D. D. Kosambi, Anandaśrama Sanskrit Series no. 127 (1945
 
-
-
  This general type is quite familiar to readers in the Indian peninsula, a Telugu version having appeared in most of the Southern scripts as well as Devanagari with the Sanskrit commentary of Ramacandra Budhendra.
 
  The characteristic of this particular tradition is the division of verses into more or less logically grouped decades for the niti- and *vairagya-śatakas*, with scores for the *srigara*, each of these *Centuries* containing exactly a hundred stanzas. The rigid frame-work of such paddhati division does not allow much latitude, so that this is the smoothest and most homogeneous of all large MS groups handed down to us in Bhartrhari's name. Yet, such is the nature of the gnomic and lyric verse itself, with the absence of any guiding thread (such as a narrative; for example, the frame-story of the *Pañcatantra*) that there is surprising variation even in the present collection,albeit of far lesser extent than in any Northeren Bhartṛhari MS group of comparable geographic extent. The present archetype is notable also for being the only one properly represented by MSS in all major scripts of the peninsula as well as Devanagari, though Kanarese sources were omitted as they are either copies of ग्र. 2. 3. or incomplete like DC 12086 at Tirupati, or direct copies of the Ramacandra Budhendra (printed) version as with Magadi Kṛṣṇaśāstrī's and Dodbele Narayana Sastri's printed texts at Bangalore. The fact is that the one proper indigenous Kanarese version (represented by Tirupati DC 12090, Mysore Govt. Or. Library 1768 and the valuable Wali MS from Belgaum) is Northern in arrangement with the infiltration of Southern readings.
 
 ** 2.** The actual manuscript tradition utilized may be divided into groups by script. Of these, all the Southern alphabets and most devanagari represent in reality a single major version, while only one other major version within thearchetype is to be found, namely that of Tuka Brahmananda in Devanagari. The minor versions, unfortunately, are not cleraly determined, though there undoubtedly exist at least three main classes. Of these, the Telugu has an aberrant minor variety to which the famous Ramacandra Budhendra version belongs; this is characterized by the absence of the stanza *lajjam* *gunaughajananim*, and the inclusion of *sakyo varayitum*. Our
-
-
 
 last two Malayalam sources **म.४.५.**unquestionably represent a subclass of their own; finally, there are other characteristic differences, such as the inclusion or omission of *chinno'pi rohati taruḥ.*
 
@@ -90,8 +72,6 @@ last two Malayalam sources **म.४.५.**unquestionably represent a subclass o
 
 तु १ = No. 2 of the Rajapur Sanskrit Pathasala, by courtesy of Pt. Raghunath Sastri Patankar. Paper, size 81" x 4", fol. 111, lines 6-7 but the opening seven stanzas of Niti are missing. Text with the Marathi samavrtti of Tuka Brahmananda, dated saka 1677 = A. D. 1755. Supplemented for the opening
 
-
-
 slokas with MS no. 51 of the Rajaväde collection in the Bharata Itihiss
 Samsodhaka Mandala, Poona.
 
@@ -100,8 +80,6 @@ Samsodhaka Mandala, Poona.
  Both of these MSS are rather corrupt, but the fika helps decide occasionally unintelligible readings.
 
 सु = The Maheśvara Bhatta version.
-
- 
 
 Mahesvarabhatta Ramacandrabhatta Sukhathapakar was a famous com-mentator of the 18th century (1718-1816), the best known of his numerous works being the commentary on the Amarakośa. His version of Bhartrhariith the commentary (called Alibandha) was published by Abaji Ramacandra Savant at the Rämatattvaprakisa Sarasvatabhüşana Press at Belgaum in 1910, and was brought to my attention through the goodwill of Mr. A. K. Priolkar who also secured the two MSS. below from Maheśvarabhaṭṭa's descendants who still reside in the ancestral home at Madela (=mahāśāla) near Kumbharju, Goa. The version is closest to the preceding in readings, though in arrangement it is much nearer to the general southern type of the variety that contains *apeksante na pätrāņi*. The sources are:
 
@@ -113,15 +91,11 @@ Mahesvarabhatta Ramacandrabhatta Sukhathapakar was a famous com-mentator of the 
 
 **Other Devanagari sources.**
 
- 
-
 ना १ =University of Madras Collection no. 344, originally acquired at Baroda. Size 9 1/2" x 41/2" fol. 27-1-26, 28 with nos. 27 and 29 lost so that about 20 stanzas are missing from the frigara. Lines 9–13, order *vairāgya-nitifrágara.* Probably copied from a Telugu or other southern exemplar. Margi- nal variants and corrections as well as some readings in text show northern influence. Specially notable for substitution of three stanzas in niti.
 
  ना २= A MS. dated A.D. 1729 from Benares, from the collection of a Maharastrian pandit there, obtained by courtesy of Prof. S. V. Puntambekar, Principal of the Arts College of the Benares Hindu University. Size 6 1/2" x 4 1/2" fol. 62, lines 8–9. Contains some strikingly individualistic readings not found elsewhere which may be due to substitution in the memory of a Southern pandit who had remained in the North for a long time.
 
  ना ३.४.५ = Tanjore Sarasvathi Mahal Library Nos. 4903, 4904, 4906 respectively; paper MSS. without description whose variants were noted at Tanjore on an interleaved copy of the 7th Nirnayasagar edition of the Ramacandra Budhendra version. Some ambiguities remain in the collation.
-
-
 
 **Telugu Group.**
 
@@ -159,13 +133,9 @@ x 1 1/2"
 
   ग्र ५=R. 4783 C of the Madras Govt. collection, accurately collatedat Tirupati against a printed interleaved Ramacandra Budhendra (Nirnaya-
 
-
-
 sagar) text by Dr. T. R. Chintámani of the Madras University Department of Oriental Studies.
 
 **Malayálam Group.**
-
-
 
 This consists of five palm leaf MSS., of which म १was copied out in full and the other four collated against the copy, at Trivandrum. A few ambiguities remain. No description has been supplied. The numbers are:
 
@@ -175,23 +145,17 @@ This consists of five palm leaf MSS., of which म १was copied out in full and
 
 ** 3.** The evidence presented by presented by these twenty-four sources and four commentaries is confused enough. It seems impossible to determine exactly the text even of a single version preserved in one family, such as सु, where each of the three sources differs on occasion from the other two; therefore, the problem as a whole might seem insoluble. However, dividing it into two portions: I ) the determination of the actual stanzas, and 2) that of the text of each stanza, the first is seen to be comparatively simpler. Taking the evidence as it is, without prejudice, the stanzas to be included. and their order are settled with ease by reference to the majority of the MSS. Where the stanza is omitted in a version, or in two or more MSS, it has been starred and may be taken as doubtful, weaker than the rest, probably one of those added later to make up the exact 300. The additions found in each
 
-
-
 paddhati are indicated with separate numbering of their own. The number of these stray additions would undoubtedly be very greatly increased by searching through more southern. MSS. Omission in a single MS is treated as accidental.
 
  The exact determination of the text is of a different order of difficulty. For the greater part, the text is simply given by the agreement of all sources with negligible. variation. But where strong variation occurs, the critical editor will have to choose a reading that explains all variants. This is in fact the canon adopted in my forthcoming edition of Bhartrhari's stanzas from all MS tradition, but which it is impossible to apply in the same way here. In the first place, the Northern recension is a source of disturbance (the smoothing of which gave rise to the whole Southern, recension) which is not shown in our apparatus. This has continually influenced some readings in the Telugu group and Tuka Brahmananda, which have also affinities with the Western archetype. The readings naturally filter down through the other scripts. Secondly, Bhartṛhari himself, to judge from tradition as well as well as MS evidence, was a northerner, but even the Malayalam group shows only on occasion a clear Northern reading. The final constitution of the text has been done, therefore, as follows: wherever possible, the major reading is taken; where two groups of readings are about equally balanced, that which differs from the Northern reading is taken. In the rare cases where neither test applies, and there is little to choose between several discordant groups, I have taken the reading belonging to the group containing our MSS ग्र2. 3, for the commentary comes from these. Explicable mislections. and scribe's errors are generally ignored.
 
  The collation proper was done on the basis of one whole collation sheet per stanza. The sheets contain variants of all MSS collated, Northern as well as Southern; from these the Southernmost readings have been grouped for publication in this edition. Accuracy was increased by working in pairs; for Devanagari MSS, I dictated the text while Pt. K. V. Kṛṣṇamürti Śarma entered variants; for the remaining scripts, we exchanged rôles. in case of doubt, previous collation were checked by reference to the original MSS whenever available. For
 
-
-
 determining the order of the stanzas, a synoptic chart of all MSS has been prepared, of which a section had to be devoted to MSS of this archetype alone, for the order of the stanzas differs from version to version even more than the readings themselves.
 
  **4.** In the edition as printed, the text. I have determined is given in the largest type, followed by the commentary. The commentary itself, current over a hundred years ago in Kanarese territory, needed three MSS; for, the oldest ग्र3 is wormeaten in places, its companion ग्र 2 defective in that it omits an occasional word or phrase, so that the rather corrupt Nandināgari MS India office Mackenzie 68, copied in Kanarese territory, acquired by the I. O. in 1825) which came to hand after the first form had been printed off is useful for making a complete text. A fragment of the niti and another of the s'rngära, both in Devanagari, in the University of Bombay Library did not seem worth utilizing, though they go to prove that the commentary was not localized to Mysore. Wherever our accepted readings in the stanza differ from those of the commentary, or where the Grantha MSS of the commentary differ among themselves, the superfluous or inapplicable gloss in shown in parentheses; relevant excerpts from other commentaries, generally Rama- candra Budhendra's, are given in curly brackets; additions or emendations of our own are given is square brackets. The responsibility for carrying out this scheme of constituting the commentary rested wholly upon Pt. Krsnamurti, whose aid (on a part-time basis) in the collation and general preparation of the text has been priceless, though I take full responsibility for all decisions. Without his beautiful calligraphy, accurate copying, knowledge of Sanskrit grammar and versification, as well as of southern scripts, and patience in the face of adversity this edition would never have been possible.
 
  After the text and the commentary come, in the smallest type, the variants preceded by special remarks as to omissions or changed order. The variants (except mislections and scribe's errors) are noted in the order given, and unless the stanza is omitted by a particular MS., or missing because of some lacuna, it is to be understood that all sources not cited agree which the printed reading. Abbrevations used are: मू =original,
-
-
 
 टी = commentary, टीपा= variant in commentary. All variants between vertical bars (dandas) refer to the same original text reading which is, where not obvious, shown at the end in round brackets. Finally, after the variants, I have given citations of the stanza in other works. The order here is: first the work with section-and-number or page-and-number of the stanza (where stanzas are numbered), followed by the attri- bution to Bhartrhari, or any other author, or work, in brackets. The standard procedure in such cases is to use Th. Aufrecht's MS. pratika index no. 36 from the India Office collection, but the war made it impossible to secure this in time so that I had to index such works as were found on library shelves. For convenience, the commonest citations have been abbreviated as follows:
 
@@ -210,8 +174,6 @@ determining the order of the stanzas, a synoptic chart of all MSS has been prepa
 **सुर =** *Subhāṣita-ratnakara*; a collection of witty and epigra- mmatic sayings in Sanskrit, compiled and edited with explanatory notes by Krişna Sastri Bhaṭavadekar, Bombay (Ganpat Krishnäji) 1872.  
 **     3 नी. श.**
 
-
-
 **सक =** *Saduktikarṇámṛta of Sridharadasa*; ed. MM. Pt. Rāmavátāra Śarmá, and others. Lahore (Motilal Banárasi Dáss) 1933.
 
 **का =** titles in the (old) Kävyamāla series issued by the Nirnaysagar Press, Bombay.
@@ -224,17 +186,12 @@ determining the order of the stanzas, a synoptic chart of all MSS has been prepa
 
 **   5.** There remains the pleasant task of thanking those who have helped in the preparation of this edition; the following have put me under the heaviest obligations: Prof. P. K. Gode, Curator of the Bhandarkar O. R. Institute for having used his great influence to obtain MSS or copies; the staff of the BORI for giving cheerfully every aid in their power; the Librarian
 
-
-
 and authorities of the University of Bombay for acquiring copies of Tanjore and Trivandrum MSS, which materially reduced the expense of the edition; Acharya Jinavijayaji Muni the Honorary Director of the Bharatiya Vidya Bhavan for undertaking publication of the work at a time of universal shortages; the Nirnayasagar Press for their unequalled printing ; the J. R. D. Tata Trust for a subvention that took care of the heavy expenses of copying, collation, and obtaining MS evidence; many other friends whose advice and encouragement were essential for an interloper like me in the completion of the task. To my mother, however, the edition owes far more than to anyone else. At a time when my health and finances were both ruined and the work would have been suspended, she put at my disposal, unsolicited, the meagre savings of a lifetime devoted to the service of her children. To these funds, given without condition in the disappointed hope that I should use them to improve my health, this edition owes its very existence. A matron in the noblest Indian tradition, one to whom even Bhasa's broken hero of the shattered thigh, abandoned on the field of battle, might pray with his dying breath, "If merit be mine and rebirth fall to my lot, be thou again my mother",she deserves to have a far better work dedicated to her, just as she deserves a far better son. However, if she will condone the shortcomings of the book as she has those of the child, both are hers.
-  
-                                   
+
                       **D. D. KOSAMBI**
 
 Tata Institute of Fundamental Research.  
      Bombay, June 30, 1946.
-
-
 
 **वाचकानां पुरतः किंचिन्निवेदनम्।**
 
@@ -263,8 +220,6 @@ Tata Institute of Fundamental Research.
 **  ना १** पूर्व बरोडातः पश्चाचेन्नपुरीविश्वविद्यालयतः ( मद्रास युनिव्हर्सिटी) उपलब्धा ३४४ अनुचिह्निता।
 
 ** ना २** वाराणसीहिन्दुविश्वविद्यालयस्य प्रिन्सिपाल श्रीकृष्ण पुणताम्बेकरद्वारोपलब्धा शके १६५\[ त्रिस्त १७२९ \] वत्सरीया समीचीनस्वतन्त्रपाठघटिता ।
-
-
 
 **ना ३.४.५** इमा मातृकाः तञ्जावूरसरस्वतीमहालकोशागारस्थाः याभ्यः पाठान्तराणि संगृह्यात्मभ्यं प्रेषितानि. क्रमेण ४९०३, ४९०४,४९०६ इत्यङ्कैरहिताः।
 
@@ -303,13 +258,9 @@ Tata Institute of Fundamental Research.
 इतोऽन्ये च केचन भर्तृहरीयश्लोकोदाहर्तृग्रन्थास्तत्र तत्रैव श्लोकानामधोभागेषु द्रष्टव्याः ॥  
 **का०** काव्यमाला ( निर्णयसागर मुद्रणालयमुद्रिता प्राचीनाङ्कैर्घटिता).
 
-
-
 **विषयानुक्रमणिका**
 
  नीनिशतकेः—
-
-
 
 |                 |
 |:---------------:|
@@ -329,8 +280,6 @@ Tata Institute of Fundamental Research.
 
 [TABLE]
 
-   
-
 **वैराग्यशतकेः—**
 
 |                        |
@@ -345,8 +294,6 @@ Tata Institute of Fundamental Research.
 | नित्यानित्यवस्तुविचारः |
 | शिवार्चनम्             |
 | अवधूतचर्या            |
-
-
 
 शुद्ध्यशुद्धिपत्रिका
 
@@ -382,11 +329,7 @@ Tata Institute of Fundamental Research.
 
 \[ २५, २७ पुटयोः शीर्षके 'अर्थपद्धतिः' इति स्थाने 'दुर्जनपद्धतिः' इति ३३ पृष्ठे 'मानशौर्यपद्धतिः' इति स्थाने 'सुजनपद्धतिः' इति च, तथा १२१, १२३, १२५ पृष्ठेषु 'तृष्णादूषणम्' इति स्थाने' विषयपरित्यागविडम्बनम्' इति च पठनीयम्। \]
 
-
-
 **नीतिशतकम्।**
-
-
 
 **![](../books_images/U-IMG-1700680417WhatsAppImage2023-11-23at00.42.55_638d2171.jpg)**
 
@@ -406,8 +349,6 @@ Tata Institute of Fundamental Research.
 
  दिक पूर्वादिः कालः काष्ठादिः। दिशा वा कालेन वा।आदिशब्दात् अङ्गुलीवितस्तिहस्तक्रोशगव्यूत्यादिना वा अनवच्छिन्ना अपरिमिता अनन्तं नाशरहितं चिन्मात्रं ज्ञानमेव। मात्रशब्दो नपुंसकलिङ्गोऽवधारणे। 'मात्रं कात्सर्येऽवधारणे’। इत्यमरः। मूर्तिः स्वरूपं यस्य तस्मै। स्वानुभूतिरात्मानुभवः एकं मानं प्रमाणं यस्य तस्मै स्वसं (यं) वेद्यायेत्यर्थः। शान्ताय रागद्वेषविकाररहिताय तेजसे महसे नमः। 'नमः स्वस्तिस्वाहास्वधे'त्यादिना चतुर्थी। न हि ब्रह्म केनापि परिच्छेत्तुं शक्यते प्राच्यामेवास्ति प्रतीच्यां नेति वा। न च कालेनापि परिच्छेत्तुं शक्यते वा। शतमेवास्ति नातः परं वर्षसहस्रं नातः परमिति। न चाङ्गुल्यादिना परिच्छेत्तुं शक्यतेशताङ्गुलं ब्रह्म सहस्राङ्गुलमिति शतवितस्ति सहस्रवितस्ति शतहस्तं सहस्रहस्तं शतक्रोशं सहस्रक्रोशं शतगव्यूति सहस्रगव्यूतीत्यादि, सर्वगतत्वादनादिनिधन स्वाद्ब्रह्मणः॥ \[ अनुष्टुप्
 
-
-
 १) ना२. दिक्पाला°। ना१. °वच्छन्ना°; म४. °परिच्छिन्ना°।— २) तु२. ग्र१. म२.३. \[आ\]- नन्दचिन्मात्र°। —३) तु. ना१. ग्र १—३. म२.४.५ खानुभूत्यैक°; ना२.खानभूत्यैक°। ग्र ३ (मू). °बोधाय (°मानाय)।— ४) ना५. नमः सोमार्धमूर्तये। प्र१. म३. शंभवे (तेजसे)॥
 
  म. २७८९ (११५२)। सु. ३ (भर्तृ°) \। सुभा. पृ० १.२ \। लघुयोगवासिष्ठसारे १ .१॥
@@ -416,8 +357,6 @@ Tata Institute of Fundamental Research.
 अबोधोपहताश्चान्ये जीर्णमङ्गे सुभाषितम्॥२॥
 
  बोद्धार इति॥ बोद्धारो ज्ञातारः (विद्वांसः) मत्सरेण अन्यवैदुष्यद्वेषेण प्रस्ताः गृहीताः। प्रभवो राजानः स्मयेन दूषिताः राजगर्वेण उपहताः। अन्ये अपरे अबो-
-
-
 
 धोपहताः अबोधेन अज्ञानेनैव उपहताः दूषिताः। सुभाषितं सुजल्पितं अङ्गेशरीर एव जीर्ण यातयामं जातम्। अयं तात्पर्यार्थः। बोद्धारो मत्सरग्रस्ततया सतां सुभाषितानि नाद्रियन्ते अन्ये च न बुध्यन्ते (°ग्रस्ततया सुभाषितं न भूषयन्ति।अन्ये अज्ञतया दूषयन्ति)। राजानश्च गर्वेण नाद्रियन्ते इत्येतत्सर्व प्रायेण न तु सर्वेण, चेत् ग्रन्थनिर्माणवैयर्थ्यप्रसङ्गात्॥ \[ अनुष्टुप् \]
 
@@ -440,8 +379,6 @@ Tata Institute of Fundamental Research.
      न्नतु प्रतिनिविष्टमूर्खजनचित्तमाराधयेत्॥४॥
 
  प्रसह्येति। मकरस्य नक्रविशेषस्य दंष्ट्रान्तरात् मुखदंष्ट्रामध्यात् मणिं रत्नं प्रसह्य बलात् उद्धरेत् उत्पाटयेत्। प्रचलतां (°तां चञ्चलानां) ऊर्मिणां तरङ्गाणां मालाभिः पङ्क्तिभिः आकुलं संकीर्णं समुद्रं पारावारमपि संतरेत् सम्यक् लङ्घयेत्।कोपितं उत्पादितक्रोधं भुजंगं सर्पं शिरसि मूर्ध्नि पुष्पवत् कुसुममिव धारयेत्। विभृयात्। प्रतिनिविष्टस्य आग्रहग्रस्तस्य मूर्खस्य अशस्य जनस्य लोकस्य चित्तं
-
-
 
 मनस्तु नाराधयेत् न रञ्जयेत्। मकरादिभ्यो रत्नोद्धरणादिकमपि कर्तुं शक्यते केनचिदुपायेन। प्रतिनिविष्टमूर्खजनचित्तं तु केनाप्युपायेन रञ्जयितुं न शक्यत इत्यर्थः॥ \[ पृथ्वी \]
 
@@ -468,8 +405,6 @@ Tata Institute of Fundamental Research.
  व्यालमिति॥ यः सुधास्यन्दिभिः पीयूषवर्षिभिः सूक्तैः सुभाषितैः मूर्खान्खलान् \[ बलात् प्रसहा \] (सतां सज्जनानां) पथि मार्गे नेतुं गमयितुं वाञ्छत्यभिलषति असौ व्यालं दुष्टगजम्। 'सर्पहिंस्रपशुव्याला' वित्यमरः। बालमृणालस्य कोमलविसस्य तन्तुभिः सूत्रैः रोद्धुंबन्धुं
 समुज्जृम्भते व्यवस्यति। वज्रमणि हीररत्नम्। 'वज्रोऽस्त्री हीरके पवौ' इत्यमरः। शिरीषकुसुमस्य कपीतन (वाह) पुष्पस्य प्रान्तेनाग्रेणभेत्तुं छिद्रयितुं संनह्यति सज्जीभवति। क्षाराम्बुधेर्लवणसमुद्रस्य मधुवि-
 
-
-
 न्दुनाक्षौद्रपृषतेन माधुर्य मधुरभावं रचयितुं निर्मातुं ईहते वाञ्छति। यथा कोमलविसतन्तुभिर्व्यालबन्धनं न संभवति। यथा शिरीषकुसुमप्रान्तेन वज्रमणिभेदो न संभवति। यथा च लवणसमुद्रस्य मधुबिन्दुना माधुर्यनिर्माणं न संभवति तथैव सुधास्यन्दिभिरपि सूक्तैः खलानां, (सतां) पथि वर्तनं न संभवतीत्यर्थः॥ ७ \[ शार्दूलविक्रीडितम् \]
 
 १) ना१. नार्ग (व्यालं)। तु. सु. समुत्कण्ठते। – २) ना२. ते प्र१.३ (नू.). ५. म. मणीन्।तु. ना१.३. प्र२ (मू). ४. म४.५. संनद्यते। ३) तु२. क्षाराम्बुधेरीयते। —४) तु. ना२. नेतुं बान्छति यः सतां पथि खलान्। ना३. ४. मूर्ख यः। ना१.३ ५. रा.ते. प्र३ (मू, शोधनात्पूर्व ). ४ प्रति; ग्र ५. परि- (पथि) सु.ग्र२.३.म .१.२.४. सतां ग्र ४. नरः (बलात्)।सु. स्पर्धिभिः 1 (टी.पा स्यन्दिभिः)॥
@@ -491,10 +426,6 @@ Tata Institute of Fundamental Research.
 तदा मूर्खोऽस्मीति ज्वर इव मदो मे व्यपगतः॥ ८॥
 
  यदेति॥ यदा यस्मिन् काले अहं किंचिज्ज्ञः अल्पवित् गज इव द्विप इव मदेन अन्धः विवेकरहितः समभवं अभूवं तदा तस्मिन्काले सर्वज्ञः पण्डितः (सर्ववित्) अस्मि भवामि इति मम \[मे\] मनश्चित्तं अवलितं गर्वितम्। यदा तु बुधजनसकाशात् विद्वज्जनेभ्यः किंचित्किंचित् अल्पमल्पं अवगतं विदितं तदा तस्मिन्समये मूर्खोऽस्मि मूढो भवामीति ज्वरो व्याधिरिव मे मम मदो गर्वः व्यपगतो नष्टः। किंचिज्ज्ञानामेव मनस्यवलेपो भवति न तु सर्वज्ञानामित्यर्थः॥ \[शिखरिणी \]
-
-
-
-
 
 १) तुर. ना २. द्विप (गज )। —२) ग्र २. °भवमवलिप्तं। —३) म ४. बुधवर°। तु. 'काशादधिगतं; ते २. म ३. काशादपगतं। —४) ग्र ५. मूढो (मूख) तु १. विगलितः; ग्र १. म ३.—व्यपगतः॥
 
@@ -518,11 +449,7 @@ Tata Institute of Fundamental Research.
 
  शिर इति॥ सा प्रसिद्धेयं गङ्गा मन्दाकिनी स्वर्गात्सुरलोकात्सकाशात् शार्वं शर्वसंबन्धि शिरो मूर्धानं पशुपतिशिरस्तः परमेश्वरमूर्ध्नःपञ्चम्यास्तसिल् \। "क्षितिधरं हिमाचलं उत्तुङ्गात् उन्नतात् महीघ्रात् हिमाचलात् अवनिं क्षोणीं अवनेश्चापि जलधिमकूपारं, एवमधः अधस्तात्स्तोकमल्पं पदं स्थानमुपगता प्राप्ता।
 
-
-
 अत्युन्नतपदस्थायिन्या गङ्गायाः अधःस्थानप्राप्तिः कष्टेति तात्पर्यम्। (समाधत्ते)। अथ वा विवेकात्सकाशात् भ्रष्टानां च्युतानां विनिपातः पतनं शतमुखः अपरिमितमुखो भवति। गङ्गाया विवेकभ्रष्टत्वं जडात्मकतया। निर्विवेकानामापत्परंपरा भवन्तीत्यर्थः॥ \[ विशखरिणी \]
-
- 
 
 १) ग्र २ (मू.). शिवः शार्वं; म ५. शिरः शापं। ग्र४. शिरस्तत् म ५. पुरस्तः (°शिरस्तः) —२) म ४. महाद्रेर (महीध्राद्)। —३) तु. सु. अधोधो गज्ञेयं; ना ३—५. रा २. ग्र १. म१.२.५. अथो गङ्गा सेयं। ना १. ग्र ५. म ५. स्तोकमधुना; ग्र ४. तोकमधुना; म ४. स्तोकमधुरा। —४) तु २. विनिवातः। म ३.५. शतमखः॥
 
@@ -534,8 +461,6 @@ Tata Institute of Fundamental Research.
     साध्यन्यमिच्छति जनं स जनोऽन्यसक्तः।  
 अस्मत्कृते च परितुष्यति काचिदन्या  
     धिक्तां च तं च मदनं च इमां च मां च ॥ १ ॥
-
- 
 
 \[ सु. नीति. २ \] \[ भ. ५४२८ (२४६१) सिंहासनद्वात्रिंशकार्या)।सुभाष्, ३०२ \]
 
@@ -551,12 +476,8 @@ Tata Institute of Fundamental Research.
 
 \[ रा. नीति १० \]
 
-
-
 \[भ. ६३४८ (२९२९; पञ्चरत्ने५ (हे. ४); काव्यक°; काव्यस°; सुभाष २८२ \।
 सु. २९४३ ।सूक्तावल्यां १७ । सुर. पृ० ३५.८ (भर्तृ°) ।सुभा. पृ० ४१.६८ । सुभाषितार्णवे २७.८१। \]
-
-
 
 **॥ विद्वत्पद्धतिः ॥**
 
@@ -578,8 +499,6 @@ Tata Institute of Fundamental Research.
 
  हर्तुरिति। यत् हर्तुः चोरस्य गोचरं विषयं न याति न गच्छति। अपहर्तुं न शक्यते। यत्सर्वदा सर्वस्मिन्काले किमपि वर्णयितुमशक्यं शं सुखं पुष्णाति वर्धयति। यदर्थिभ्यो याचकेभ्योऽनिशं सर्वदा प्रतिपाद्यमानं परामधिकां वृद्धि उपचितिं प्राप्नोति याति। यत्कल्पान्तेषु प्रलयेष्वपि निधनं नाशं न प्रयाति नोपैति। हीति सर्वत्र संबन्धः प्रसिद्धौ। एवं धनं विद्यास्यं विद्याभिधेयं अन्तर्धनं अभ्यन्तर-
 
-
-
 विद्या बन्धुजनो विदेशगमने विद्या परा देवता  
 विद्या राजसु पूज्यते न हि धनं विद्याविहीनः पशुः॥१६॥
 
@@ -596,13 +515,7 @@ Tata Institute of Fundamental Research.
 
  क्षान्तिरिति॥ देहिनां शरीरिणां क्षान्तिश्चेत्क्षमा यद्यस्ति कवचेन वर्मणा किं प्रयोजनम्। शान्तिरेव देहं रक्षतीत्यर्थः। क्रोधः कोपः अस्ति चेत् अरिभिः शत्रुभिः किं किं प्रयोजनम्। स्वकोप एव स्वस्य शत्रुरित्यर्थः। ज्ञातिः सगोत्रः पितृध्यपुत्रादिरिति यावत्। चेद्यदि अनलेन अग्निना किं किं प्रयोजनम्। ज्ञातिरेव स्वपरितापकर इत्यर्थः। सुहृद्यदि आप्तोऽस्ति चेत् दिव्यौषघैरुत्कृष्टरसायनैः किंप्रयोजनम्। आत्मसुहृदेव स्वकीयरोगनिवर्तकः। आपन्निवारक इत्यर्थः। दुर्जनाः मूर्खाः यदि सर्पैराशीविषैः किं किं प्रयोजनम्। दुर्जना एव भयंकरा इत्यर्थः। अनवद्या दोषरहिता विद्या वेदशास्त्रादिर्यद्यस्ति धनैः सुवर्णैः किमु। व्यर्थम्। विद्यैव धनमित्यर्थः। व्रीडा चेल्लज्जा यदि भूषणैराभरणैः किमु किं प्रयोजनम्। स्त्रिया इति शेषः। स्त्रिया लज्जैव भूषणमित्यर्थः। सुकविता शोभनकवित्वं यद्यस्ति राज्येन राष्ट्रेण किं किं प्रयोजनम्। कवितैव सर्वराज्याधिपत्यमित्यर्थः। राज्यवस्सौक्यप्रदायिकेति यावत् ॥ \[ शार्दूलविक्रीडितम् \]
 
- 
-
 २) तु १. ज्ञातिश्चेञ्चदलेन। —३) तु. विद्यास्तिबन्द्यायदि॥
-
-
-
-
 
 भ. २०१६ (७८५); नीतिसंक° २७;पञ्चरत्ने४ (हे. ४); कवितामृतक° ५०। सुभा.पू० १७८ १०१९। सूहा. १८९ ६४ (भर्तृ°)॥
 
@@ -623,8 +536,6 @@ Tata Institute of Fundamental Research.
 सत्संगतिः कथय किं न करोति पुंसाम्॥१९॥
 
  जाड्यमिति॥ सत्संगतिर्विद्वत्संसर्गः पुंसां पुरुषाणां किं श्रेयः न करोति न विधन्ते कथय ब्रूहि। सर्वमपि श्रेयः करोतीत्यर्थः। तदेवा॥धियो बुद्धेर्जाड्यमज्ञत्वंहरति अपनयति। वाचि भारत्यां सत्यां (वाण्यां) सत्यं यथार्थकथां सिञ्चति निदधाति। मानस्य बहुमतेः उन्नतिं उच्छ्रायं दिशति वितरति। पापं दुरितमपाकरोति अपनुदति। चेतश्चित्तं प्रसादयति। विमलं (अनाविलं) करोति। दिक्षुआशासु कीर्तिं यशः तनोति विस्तारयति। सज्जनमैत्री सर्वेषां गुणानां निधानमित्यर्थः॥ \[ वसन्ततिलका \]
-
-
 
  १) ते २ (शोभनात्पूर्व)सीदति (सिञ्चति)। —३) ग्र ३ (मू). चित्तं (चेतः)।ना २. प्रसारयति। म ३ करोति कीर्तिं॥
 
@@ -651,8 +562,6 @@ Tata Institute of Fundamental Research.
 कीर्तिं च दिक्षु वितनोति तनोति लक्ष्मीं  
 किं किं न साधयति कल्पलतेव विद्या॥२॥
 
-
-
 \[ प्र १. नीति. १. १०; म १—३ नीति १. ११ \] \[ म. ४८०७ (२१७४) सु. ३४१५। सुभा पृ० ३०. १४ सुर. पृ० ४२.३ (स्फुटश्लोके)। विक्रमचरित्रे १२७।
 
 अव्याधि गात्रमनुकूलतरं कलत्रं  
@@ -662,8 +571,6 @@ Tata Institute of Fundamental Research.
 
 \[ अडयार२९. ई २. कोशे. नीति २१ \]
 
-
-
 **मानशौर्यपद्धतिः।**
 
 क्षुत्क्षामोऽपि जराकृशोऽपि शिथिलप्रायोऽपि कष्टां दशा-  
@@ -672,8 +579,6 @@ Tata Institute of Fundamental Research.
 किं जीर्णं तृणमत्ति मानमहतामग्रेसरः केसरी॥२१॥
 
  क्षुत्क्षाम इति॥ क्षुधा बुभुक्षया क्षामोऽपि दुर्बलोऽपि जरया विस्रंसया कृशस्तनुरपि शिथिलप्रायः श्लथकल्पोऽपि कष्टां दशामापन्नःप्राप्तोऽपि विपन्नदीधितिर्नष्टप्रभोऽपि प्राणेष्वसुषु नश्यत्सु गच्छत्स्वपि मत्तस्य गर्वितस्येमेन्द्रस्य करिवरस्य विभिन्नयोर्विदारितयोः कुम्भयोः शिरः पिण्डयोः पिशितग्रासेषु मांसकवलेष्वेकेष्वेववद्धस्पृहः संसक्तवाञ्छः मानेन चित्तसमुन्नत्या महतामुदाराणामग्रेसरो धुरीणः केसरी कण्ठीरवः जीर्ण पुराणं तृणं यवसं पलालादिकमत्ति भुङ्क्तेकिम्। न भुङ्कतइत्यर्थः। यथा केसरी कष्टावस्थां गतोऽपि मानं नोज्झत्येवमेव महानपीत्यर्थः। तथा चोक्तम् ॥ "अधमा घनमिच्छन्ति धनमानौ तु मध्यमाः। उत्तमा मानमिच्छन्ति मानो हि महतां धनम्”॥ इति ॥ \[ शार्दूलविक्रीडितम् \]
-
-
 
 १) तु. ना ३–५ ग्र४.म१. ३–५. जरान्वितोऽपि। तु. शिथिलप्राणोपि दीनां; ना २. शिथिलाःप्राप्तोपि कष्टां। — २) तु. सु. गच्छत्स्वपि ना २. शामत्स्वपि। —३) ना २, उन्मत्तेभ (मत्तेभेन्द्र )। ना २. कवल; ते २. पलल- (पिशित )। ते २. बद्धः स्पृहःम ५. बन्धस्पृहः। —४) ग्र १. म ३. किं जीवंस्; म ५. किंजीर्णस्। ते. केशरी ॥
 
@@ -686,10 +591,6 @@ Tata Institute of Fundamental Research.
 
  स्वल्पेति॥ श्वासारमेयः स्वल्पस्त्रायुवसया मेदसोऽवसेकेन क्लेदेन मलिनं श्यामलं निर्मासं मांसहीनमपि \[गोः\] अस्थि कीकसं लब्ध्वा प्राप्य परितोषं मुदमेति प्राप्नोति। तदस्थि तस्य शुनः \[क्षुधायाः\] (सुधः) बुभुक्षायाः शान्तये शमनाय नालं न पर्याप्तम्। सिंहः कण्ठीरवः जम्बुकं क्रोष्टारं अङ्कमुत्सङ्गमागतं प्राप्तमपि त्यक्त्वा विहाय द्विपं दन्तिनं निहन्ति हिनस्ति। सर्वो जनः सकलोऽपि लोकः कृच्छ्रगतःकष्टां दशां प्राप्तोऽपि { सत्त्वानुरूपं स्वशक्त्यनुगुणं } (सत्त्वानुकूलं आत्मशक्तिसदृशं) फलं वाञ्छति इच्छति। अर्थान्तरन्यासोऽयम्॥ \[ शार्दूलविक्रीडितम् \]
 
-
-
-
-
 \[ तु. कोशे नास्ति \] १) सु. स्वल्पं ना २. स्वल्पः।ना १.२. °वसावशेष° ग्र १. °वसायसैक° ; ग्र २–३ °वसायसेन। ना १. ग्र १–३.५. म १.२ अप्यस्थिकं; म ३. अप्यस्थि तं। —२) ना २. श्वालब्धा; म ३. कं लब्ध्वा सु. ना १ म १. ३–५. न पुनस् ( न च तत् )। सु. तत्स्यात् (तस्य )। म २.३. बुधः शान्तये— ३) ना २. जम्बुकमेकम् ग्र ३ (मू). जम्बुकमङ्गम्। ते १. आगतवति। ना १. घिहन्ति। –४) ना २. सर्व ग्र १.४ म२. ३. प्रायः ( सर्वः)। ना १. वाञ्छित-। ग्र २. ३.सत्त्वानुकूलं॥
 
  भ. ७३२२ (३३३५) सुभाष्. ३०७ पञ्चतन्त्रे १. १२। हितोपदेशे २. ३९। सु. १०२५ (पञ्चतत्रे)। सुभा. पृ० ७९.२२। तत्राख्यायिकायां १. ७ ॥
@@ -701,8 +602,6 @@ Tata Institute of Fundamental Research.
 
  लाङ्गुलेति॥ श्वाकौलेयकः पिण्डदस्यान्नकवलप्रदस्य। संबन्धषष्ठी। लाङ्गलस्य पुच्छस्य चालनं विधूननं अधःक्षितितले चरणानामङ्घ्रिणामवपातं निपातनं भूमौ क्षोण्यां निपत्य पतित्वा वदनोदरयोर्वक्रजठरयोदर्शनं प्रकाशनं पिण्डदकर्तृकं कुरुते विदधाति। गजपुंगवो गजश्रेष्ठस्तु धीरं यथा भवति तथा विलोकयति पिण्डदं पश्यति। चाटुशतैरपरिमितप्रियवाक्यैश्च भुङ्के जेमति। अन्यापदेशोऽयं। नीचमुदात्त (र) चित्तं च लक्ष्यीकृत्योक्तः। श्वा यथा पिण्डदस्याग्रे तच्चित्ता-नुरञ्जनाय कार्पण्यं भजते एवमेव नीचोऽपि। उदारचित्तस्तु मदवारण इव परैर्दीयमानं वस्तु प्रियवाक्यशतैः प्रार्थ्यमानः सन्कथंचिदन्येषां मुदे गृह्णाति। धैर्यं नत्यजतीत्यर्थः ॥ \[ वसन्ततिलका \]
 
-
-
 १) रा. ते १. ग्र ५. चरणावघातं। —२) म ३. निपात्य। —३) म ४. मदवारणस्तु (गजपुंगवस्तु ) —४) म ३. भुकैः॥
 
  भ. ५८४५ (२६६३); पञ्चतन्त्रे १. १४ ; हितोपदेशे २. ४० (३७)। सु. ६४१ सुर. पृ० ७८, ८ (भर्तृ°)। सुभा. पृ० २३१ .७१ तत्राख्यायिकायां १. ८ ॥
@@ -711,8 +610,6 @@ Tata Institute of Fundamental Research.
 स जातो येन जातेन याति वंशः समुन्नतिम्॥२४॥
 
  परिवर्तिनीति॥ परिवर्तिनि परिभ्रमति संसारे भवे मृतः परासुः को वा न जायते नोत्पद्यते। सर्वोऽपि मृतः पुनरुत्पद्यते। तस्य जन्म निरर्थकमित्यर्थः। तर्हि" कस्य जन्म सार्थकमित्याकाङ्क्षायामाह। जातेनोत्पन्नेन येन पुंसा वंशः कुलं समुन्नर्ति सम्यगुच्छ्रयं याति गच्छति स जातः उत्पन्नः। तस्य जन्म सार्थकमित्यर्थः॥ "कोऽर्थोऽस्ति बहुभिः पुत्रैर्गणनापूरणात्मकैः। वरमेकः कुलालम्बी यत्र विश्रमते कुलम्" इति॥ \[ अनुष्टप् \]
-
-
 
  \[ तु. कोशे पूर्वोत्तराधौविपर्यस्तौ \] १) सु १. °वर्तनि; ना २. °वर्त्मनि। –२) म ४. मदः कोपान्नजा°। —४) ते २. वंशो याति। तु १. वंशसमुन्नतीः। म ४. मानः (वंशः)। म ५. समुन्नतीं॥
 
@@ -734,8 +631,6 @@ Tata Institute of Fundamental Research.
 
  सन्तीति॥ सूर्य\[र्या\]चन्द्रमोभ्यामन्ये परेऽपि संभाविता बहुमता बृहस्पतिप्रभृतयो गुरुमुख्याः पञ्चषाः पञ्च षड्वासन्ति विद्यन्ते। 'संख्ययाव्ययासन्नादूराधिकसंख्याः संख्येये' इति संख्यावाचिनः पदस्य संख्यावाचिना पदेन सह संख्येयेऽर्थे बहुव्रीहिविधानात्समासः। 'बहुव्रीहौ संख्येये डजबहुगणात्' इत्यच्समासान्तः। टित्वाट्टिलोपः। विशेषविक्रमे अतिशयशक्तौ रुचिः प्रीतिर्यस्य तादृशः स एष दृश्यमानो राहुः स्वर्भानुस्तान्संभावितान्वृहस्पतिप्रभृतीन्प्रति उद्दिश्य न वैरायते वैरं न करोति। 'शब्दवैरकलहे’ त्यादिना क्यप्। दिनेश्वरः सूर्यः निशाप्राणेश्वरचन्द्रः। तौ भाखरौ तेजखिनौ। 'स्थेशकासे' त्यादिना वरच्।द्वावेव पर्वणि पक्षान्ते ग्रसते गिलति। हे भ्रातः सोदर्य। पश्यावलोकय। \[ शीर्षावशेषीकृतः शीर्षमात्रा-
 
-
-
 वशिष्टः \] (शीर्षावशेषाकृतिः शिरोमात्रावशिष्टाकारो) दानवपतिदैत्याधिपः इति राहोर्विशेषणद्वयं मानोन्नतिं च द्योतयितुम्।उदारः क्षीणवलोऽपि कीर्तिकामः सन्नुदारेष्वेव वैरायते नाल्पेष्वित्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
 
  १) ग्र४. सन्त्येवात्र सु. २ प्रभृतिभिः। ना १. निर्जरास् (प्रान्ते पञ्चषाप् इत्यपि)। ३) सु. रा. ते दिवाकरनिशा° सु २.३. ना २. भास्करौ। —४) तु २. ना २. ते २. म ४. भ्रान्तः, ग्र१. म१–३. ५. प्रीतः (भ्रातः)। ग्र. सोपि (पश्य)। ना १. दैत्यरिपुणा (दानवपतिः)। रा. ते. ग्र २.३. म १.२.४.५. शेषाकृतिः॥
@@ -749,8 +644,6 @@ Tata Institute of Fundamental Research.
 
  वहतीति॥ शेषोऽनन्तः फणाफलके स्फुटापट्टे स्थितामध्युषितां भुवनानां लोकानां श्रेणीं राजिं वहति धत्ते। कमठपतिना कच्छपनाथेन स च शेषः सदा सर्वदा मध्येपृष्ठं पृष्ठस्य मध्ये। 'पारे मध्ये पष्ठ्या वा' इति समासः। धार्यते उह्यते। पयोधिः समुद्रस्तमपि कमठपतिमनादराल्लीलया कोडाघीनं वराहपरतन्त्रंविधत्ते। महतामुदाराणां चरित्रविभूतयो वृत्तमहिमानो निःसीमानो निरवधिकाः। अह ह अद्भुते। 'अह हेत्यद्भुते खेदे' इत्यमरः॥ \[ हरिणी \]
 
-
-
 १) ना १. ३–५. रा. ग्र ५. म ४. श्रेणिं। म ४.५. °फलकस्थिता। —२) ते २. कमर्थ; म ५. ३–५. कमल° (कमठ°) तु १. ना.२ ग्र १ °पृष्ठे ना १. °तोयं (°पृष्टं)। तु १. स चाप्यवधीयते। —३) म ४.५. क्रोधाल्लीनंपयोधिमना। —४) ना २. निःसीमास्ताश्॥
 
  भ. ६०१२ (२०६३); सुभाष्. ३१५। सुभा. पृ. ५१. २२६ ।भोजप्रबन्धे २०७ ॥
@@ -761,8 +654,6 @@ Tata Institute of Fundamental Research.
 न चासौ संपातः पयसि पयसां पत्युरुचितः॥२८॥
 
  वरमिति॥ तुषाराद्रेर्हिमाचलस्य सूनोः पुत्रस्य मैनाकस्य समदेन गर्वसहितेन मघवता गोत्रभिदा मुक्तस्य प्रहितस्य कुलिशस्य वज्रस्य प्रहारैर्हतिभिः उद्गच्छतः उत्पततः बहुलस्य भूयिष्ठस्य (गहनस्य विषमस्य) दहनस्याग्नेरुद्वारादुद्गिरणात्
-
-
 
 गुरुभिः दुःसहैः प्रहारैः महरणैर्हेतुभिः प्राणत्यागः मरणं वरं मनाकप्रियम्। पितरि जनके क्लेशेन दुःखेन विवशे परवशे सति पयसां पत्युरर्णवस्य पयसि जलेऽसौ प्रसिद्धः संपातश्च पातस्तु। चस्त्वर्थः। नोचितो न युक्तः। अह ह खेदे। गोत्रभिदा लूनपक्षे हिमाचले महति दुःखार्णवे निमग्नेसति तथाविधं पितरं अगणयित्वैव स्वपक्षरक्षणाय पयोधिपयसि पतनं न वरं मैनाकस्य। अपि तु प्राणत्याग एव वरमित्यर्थः॥ \[ शिखरिणी \]
 
@@ -785,10 +676,6 @@ Tata Institute of Fundamental Research.
  सिंह इति॥ शिशुरर्भकोऽपि सिंहः कण्ठीरवो मदेन दानेन मलिनाः श्यामलाः कपोलभित्तयो गण्डस्थलानि येषां तेषु गजेषु निपतति। सत्त्ववतां तेजस्विनां इयं प्रकृतिः स्वभावः। वयो बाल्यादि तेजसः सत्त्वस्य हेतुः कारणं न भवति खलु ॥ \[आर्या\]
 
  १) ग्र.५ पतति (निपतति)। –२) ग्र. २ (मू). गजानां (गजेषु)। –४) रा. ते. ग्र ५. तेजसां॥ नी० श० ३
-
-
-
-
 
 भ. ७०४० (३२५१); सुभाष्. ३१६।शा. २८३।सु. ५१३ (श्रीवज्रायुधस्य)। सुभा. पृ० ७९.१४। सुर. पृ० १७४.३ (पृ० ४९.२ भर्तृ°) सभातङ्गे १६.३ (४०.६)॥
 
@@ -826,10 +713,6 @@ Tata Institute of Fundamental Research.
 
  जातिरिति॥ जातिः ब्राह्मणत्वादि रसातलं पातालं यातु गच्छतु। नश्यत्वित्यर्थः। गुणानां श्रुतशीलाध्ययनतपः प्रभृतीनां गणः समूहः तस्य रसातलस्य (तत्र रसातलेऽपि) अघोऽधस्तात् गच्छतां (तात्) ब्रजतु। शीलं सत्स्वभावः शैलतटात् अद्रिप्रदेशात्पततु भ्रश्यतु। अभिजनो वंशो वहिना कृशानुना संदह्यतां सम्यग्भस्मीक्रियताम्। शौर्ये पराक्रम एव वैरिणि रिपौ वज्रं दम्भोलिश्चाशु शीघ्रं निपततु गच्छतु। नः अस्माकं केवलमेक एवार्थो द्रविणमस्तु भवतु। जात्यादिध्वादरं विहायार्थमात्राङ्गीकारे कारणमाह। एकेन येनार्थेन विना अमी समस्ता गुणाः तृणलवप्रायाः यवस (घास) कणकल्पाः। गुणवन्तमपि दरिद्रं लोका नाद्रि यन्ते। गुणहीनमध्यर्थवन्तं पुरुषमाद्रियन्ते। तस्मादर्थस्यैव प्राधान्यमित्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
 
-
-
-
-
 १ तु १. गुणगुणस्; ग्र १. गुणगणास् \। ना १. ३–५. रा. ते. ग्र ३–५. तत्राप्यधो ना ३–५. ते २.ग्र२. म ४.५. गच्छतात्; ग्र ५. गच्छतः। —२) ४.५. शैलतटीग्र ४. अभिजनाः। —३) ग्र ४. शौर्य। —४) ते २. ह्येकेनैव (येनैकेन)। ग्र१. म३. तृणलघुप्रायाः।तु.ना २. रा. ते. इमे; ग्र १.म ३, अपि (अमी)।
 
  भ. २३८८ (९६५); शतकावलौ ८१;सुभाष्. ६५ । शा. ३३२ (भर्तृ॰)। सु.३०७३(माघस)। सुमु. १२५.९ (भर्तृ॰)। सुर. पृ० ४४.९ (भर्तृ॰)। सुभा. पृ० ६४.१५ (भर्तृ°)। सभातरङ्गे ४१.११ ॥
@@ -863,14 +746,10 @@ Tata Institute of Fundamental Research.
 
 ज्ञेयश्चेति' श्रुतेश्च। 'अधीतिबोधाचरणप्रचारणै'रिति श्रीहर्षश्च। कुलं वंशः कुतनयात् दुष्पुत्राद्विनश्यति। उक्तं च।
 
-
-
 **“लवणज लान्ता नद्यः स्त्रीभोगान्तानि वन्धुहृदयानि।  
 पिशुनजनान्तं द्रव्यं दुष्पुत्रान्तानि च कुलानि" इति॥**
 
 खलस्य दुर्जनस्योपासनात् शीलं सद्वृत्तं विनश्यति। 'शीलं स्वभावे सद्वृत्ता' वित्यमरः। मद्यात्सुरासेवनात् ह्नीर्लज्जा विनश्यति। अनवेक्षणात्पुनः पुनः प्रत्यवेक्षणाभावात्कृषिः सस्यं विनश्यति।प्रवासाश्रयात्स्वस्थानादन्यत्र स्थितेः स्नेहो मनः प्रीतिविनश्यति। सहावस्थानाभावात्पुत्रादिषु कोहोऽपि नश्यतीत्यर्थः। अप्रणयात् प्रणयस्य प्रेम्णोऽभावात्। अथ वा प्रणयस्य विस्रम्भस्याभावान्मैत्री सख्यं विनश्यति। प्रणयास्त्वमी॥ “ददाति प्रतिगृह्णाति गुह्यमाख्याति पृच्छति। भुने भोजयते चैव षड्विधं मित्रलक्षणम्"। इति॥ समृद्धिः संपत्तिरनया न्नीतेरभावाद्विनश्यति। त्यागात् चारणगायकादिभ्यः वित्तस्य वितरणात्प्रमादादवधानाभावाच्च धनं विनश्यति॥ \[ शार्दूलविक्रीडितम् \]
-
-
 
 ३) म २.४. °दनपेक्षणादपि। —४) ग्र ३. अनयत्यागात् सु २. त्यागाप्रमादाद; ना १. त्यागाप्रवासाद् ; ते २. त्यागप्रमादाद्।\[ ना २. कोशे 'स्नेहः प्रवासाश्रयात् त्यागात्प्रमाद्धनं इत्यंशौमिथो व्यत्यस्तौ \]
 
@@ -881,13 +760,9 @@ Tata Institute of Fundamental Research.
 
  दानमिति॥ दानं विश्राणनं भोगः सुखानुभवः नाशो राजचोराग्निमूषिकादिनिमित्तः इति वित्तस्य धनस्य तिस्रो गतयस्त्रीण्यपगमनिमित्तानि। यः पुमान्धनी पात्रेभ्यो न विददाति न वितरति न भुङ्क्तेनानुभवति तस्य पुंसस्तृतीया गतिर्धननाशो भवति। तस्माद्धनिको धनं दद्यात् भुञ्जीत। तथा चोक्तम्। “दत्तभुक्तफलं धनमिति”॥ “त्यागो गुणो वित्तवतां वित्तत्यागवतां गुणः। परस्परवियुक्तौ तु वित्तत्यागो विडम्बना॥ दद्ध्वमनिशं भुङ्ध्वंमा भूत कृपणा जनाः। भाग्यक्षयेण क्षीयन्ते नोपभोगेन संपदः॥ अदाता पुरुष(कृपण)स्त्यागी धनं संत्यज्य गच्छति। दातारं कृपणं मन्ये मृतोऽप्यर्थं न मुञ्चति॥ मृत्युः शरीरगोप्तारं संचेतारं वसुंधरा। जारिणीव हसत्यन्तः स्वपतिं पुत्रवत्सलम् (लालसम्)।दानपात्रमधमर्णमिहैकग्राहि कोटिगुणितं दिवि दायि। साधुरेति सुकृतैर्यदि कर्तुं पारलौकिककुसीदमसीदत्॥" \[ आर्या \]॥
 
- 
-
 १) तु. ॰गो विनाशस्; ग्र४. °गो नाशास्। —३) ते२. यन्न (यो न)। तु१. न हि भुङ्क्ते। —४) तु१. भवन्ति॥
 
  भ. २७५७ (११३४); पञ्चतन्त्रे२.१५९ (१४८); हितोप° १.१७२; प्रसङ्गाभ°, ७; विक्रमचरित्रे ७२ । सु. ४७८ । शा. ३९० ।प्रबन्धचिन्तामणौ ५.२६४ ।तन्त्राख्यायिकायां ११० ।सुर. पृ० ६३.४ (भर्तृ॰)। सुभा. पृ० ६९.१५ । सभातरङ्गे ४२.५ ॥
-
-
 
 मणिः शाणोल्लीढः समरविजयी हेतिदलितो  
 मदक्षीणो नागः शरदि सरिदाश्यानपुलिना।  
@@ -907,13 +782,7 @@ Tata Institute of Fundamental Research.
 
  परिक्षीण इति॥ परिक्षीणो निःखः कोऽपि पुरुषो यवानां सितशूकानां धान्यविशेषाणां प्रसृतये प्रसृतिपरिमितेभ्यो यवेभ्यः स्पृहयति। यवान्काङ्क्षीत्यर्थः 'स्पृहेरीप्सितः' इति संप्रदानसंज्ञायां चतुर्थी। स एव परिक्षीणः पश्चादुत्तरकाले संपूर्णः समग्रविभवो भूत्वा \[धरित्रीं\] धरणिमपि तृणसमां यवसतुल्यां कलयति मन्यते। कलिः कामधेनुः। अतः कारणादवस्थावशात् अर्थेषु यवादिषु विषये गुरुलघुतया स्थूलाल्पभावेन अनेकान्ता अनियता सती घनिनामाढ्यानां वस्तूनि धनानि प्रथयति गुरूकरोति संकोचयति लघुकरोति च। अनेकान्तशब्दो नियतपुंलिङ्गः। तस्मादवस्थाविशेषणत्वेऽपि पुंलिङ्ग एव। यथा माघः 'तेजः क्षमा वानैकान्तः कालज्ञस्य महीपते रिति। परिक्षीणावस्थायां यवानां प्रसृस्तिरिति \[रपि\] स्पृहणीया भवति। संपन्नावस्थायां धरित्र्यपि तृणायते ॥ \[ शिखरिणी\]
 
-
-
 १) ना१. प्रकृतिकां(प्रसृतये )।—२) म५. संपूर्ण सु. ना२. गणयति –३) तु१. सु. श्चानैकान्त्यं; तु २. °श्चानैकान्त्यात्ना१. °श्चानेकान्तर्;ग्र५. °श्चानेकान्तो। —४) ना१. प्रचयति ॥
-
-
-
-
 
 भ. ३९५५ (१७१३); सुभाष्, ३०३। सुभा. पृ० ६५.१५ ॥
 
@@ -937,16 +806,12 @@ Tata Institute of Fundamental Research.
 
  १) तु१. ग्र. २ (मू.). पुरुषा-। रा१. प्रियभाषिणी ग्र १. म३. प्रियवादिता। —३) ग्र ३ (मू.). नित्यंब्यया; म३. नित्यव्यथा। म३. दिव्यधना ॥
 
-
-
  भ. ६७३९ (३१३२); पञ्चतन्त्रे १.४७३ (४२५); हितोपदेशे २.१७४ (१६६,१८२); प्रसङ्गाभ° ७। तन्त्राख्यायिकायां १.१८५। सुभा. पृ० १५२.४०४। सुर. पृ० १२२.१० (हितोप°) ॥
 
 आज्ञा कीर्तिः पालनं ब्राह्मणानां दानं भोगो मित्रसंरक्षणं च।  
 येषामेते षड्गुणा न प्रवृत्ताः कोऽर्थस्तेषां पार्थिवोपाश्रयेण॥३९॥
 
  आज्ञेति॥ आज्ञा शासनं कीर्तिर्यशः ब्राह्मणानां विप्राणां पालनं रक्षणं गृहक्षेत्रधनधान्यादिदानेन चोरादिभयनिवारणेन च। यदुक्तं योगीश्वरेण। 'भोगांश्च दद्याद्विप्रेभ्यो (दीयते द्रव्यं ?) प्रजाभ्यश्चाभयं सदा’ इति। दानं त्रिविधेष्वपि पात्रेषु वित्तार्पणम्। भोगः अनिषिद्धसुखानुभवः। (वित्तस्य संरक्षणम्। अलब्ध- मिह धर्मेण लब्धं यत्नेन पालयेत्। पालितं वर्धयेन्नित्यं वृद्धि पात्रेषु निक्षिपेत्।इति॥) मित्रसंरक्षणमिति पाठे मित्राणां सुहृदां संरक्षण सम्यक्परिपालनम्। पते कथिताः षङ्गुणा ( ष(स ) ङ्गुणा) येषां न प्रवृत्ताः न प्रसृताः तेषां पार्थिवोपाश्रयेण { पार्थिवेति संबुद्ध्यन्तं भिन्नं पदम्। रा} कोऽर्थः किं प्रयोजनं न किंचि-त्प्रयोजनमित्यर्थः। पार्थिवोपाश्रयेणेत्यत्र भावप्रधानो निर्देशः ॥ \[शालिनी \]
-
-
 
 १) तु. सज्जनानां (ब्राह्मणानां )। —२) ग्र ३. भोगो मित्रः पुण्यसंर°। ग्र ४. नित्यसंर°। ना १. मित्रसंतर्पणं —३) वे २. ग्र २ (मू.). म३.४. एषां। तु. संप्रबृत्ता; म १.२. ४ न प्रसिद्धाः (न प्रवृत्ताः)॥
 
@@ -958,8 +823,6 @@ Tata Institute of Fundamental Research.
 कूपे पश्य पयोनिधावपि घटो गृह्णाति तुल्यं जलम्॥४०॥
 
  यदिति॥ धात्रा विश्वसृजा निजे स्वके भालपट्टे ललाटफलके स्तोकमल्पं महत्प्रभूतं वा यद्धनं द्रविणं लिखितं अस्यैतावद्धनमिति वर्णैः विन्यस्तं तद्धनं नितरामत्यर्थं मरुस्थले धन्वभूप्रदेशेऽपि प्राप्नोति लभते। मेरौ हेमाद्रावपि अस्मादधिकमतिरिक्तं न लभते। \[ तत् \] तस्मात्कारणात् हे लोक धीरो धैर्यवान्भव। वित्तवत्सु धनिकेषु कृपणां दीनां वृत्ति वर्त्तनं वृथा व्यर्थमेव मा कृथाः मा विदधाः। अमुमेवार्थमुदाहरणमुखेन स्फुटयति। घट कलशः कृपेऽन्धावपि पयोनिधौ पारावारेऽपि तुल्यं समप्रमाणं जलं गृह्णात्यादत्ते। पश्यावलोकय। यदि घटः कूपे यावज्जलं गृह्णाति ततो द्विगुणं वा जलं पयोनिधौ गृह्णाति चेत्तदा लोको धनिकं याचमानो निजललाटलिखितादप्यधिकं लभते। उभयमप्यसंभावितमित्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
-
-
 
  \[ ना१. नी. ८९ \] १) रा१. ग्र १–४. म. फाल ( भाल )। ना५. महद्वाफलं; म३. महद्यद्धनं। —२) ग्र १. स. नियतं (नितरां)। सु. मेरौ न चातो॥
 
@@ -981,8 +844,6 @@ Tata Institute of Fundamental Research.
 
  अकरुणत्वमिति॥ अकरुणत्वं कृपाराहित्यं अकारणविग्रहः निर्हेतुककोपः परेषामन्येषां धने वित्ते परयोषिति अन्यस्त्रियां च स्पृहा इच्छा। सुजनेषु साधुषुबन्धुजनेषु बान्धवेषु असहिष्णुता ईर्ष्यालुत्वमितीदं सर्वं दुरात्मनां दुर्जनानां प्रकृत्या स्वभावेनैव सिद्धं निष्पन्नम्। दुरात्मनामेतेषु दुर्गुणेषु अभ्यासमन्तरेणैव प्रावीण्यमित्यर्थः॥ \[ द्रुतविलम्बितम् \]
 
-
-
 \[ १९२४ सन. बत्सरे बंगलूर वेंकटेश्वरमुद्रणालये मागडीकृष्णशास्त्रिप्रकाशिते शतकत्रयपुस्तके नास्ति \] १) ग्र २ (मू.). कारणत्व° ना २ °निग्रहः। —२) ना२. परधनापहृतिः परयोषितः। —३) ग्र ४. म५. स्वजन–॥
 
   भ. ३ (१); संस्कृतपाठ° ६२ । सुभा पृ ०५९.२१७ । सुर. पृ० २६.५३ (भर्तृ॰) ॥
@@ -992,11 +853,7 @@ Tata Institute of Fundamental Research.
 
   दुर्जन इति॥ दुर्जनो दुष्टः विद्यया वेदशास्त्रोदितविद्यया अलंकृतोऽपि भूषि तोऽपि सन्। विद्यायुतश्चेदित्यर्थः। परिहर्तव्यः परिहर्तुं योग्यः। तत्र दृष्टान्तमाह।मणिना रत्नेन भूषितः परिष्कृतः असौ सर्पः आशीविषः भयंकरः भीतिदायी न किं न भवति किम्। सर्पः भयंकर एवेत्यर्थः। सर्वथा विद्वानपि दुर्जनः परिहर्तव्य एवेति तात्पर्यम्॥ \[ अनुष्टुप् \]
 
- 
-
   २) तु१. असन् (सन् )॥
-
-
 
  
 
@@ -1008,8 +865,6 @@ Tata Institute of Fundamental Research.
 तत्को नाम गुणो भवेत्सुगुणिनां यो दुर्जनैर्नाङ्कितः॥४३॥
 
   जाड्यमिति॥ ह्निमति लज्जावति जाढ्यं जडत्वं गण्यते गृह्यते। व्रतेषु नियमेषु रुचिः प्रीतिर्यस्य तस्मिन्दम्भः कपटाटोपो गण्यते। शुचौ शुद्धपुरुषे कैतवं धूर्ततागण्यते। शूरे विक्रमवति निर्घृणता निर्दयत्वं गण्यते। मुनौ मननशीले (ऋजौ अजिह्मे) विमतिता मतिहीनत्वं गण्यते। प्रियालापिनि प्रियभाषिणि दैन्यं दीनता गण्यते। तेजस्विनि मानोन्नते अवलिप्तता गर्विता गण्यते। वक्तरि वदावदे मुखरता दुर्मुखत्वं गण्यते। स्थिरे विमृश्यकारिणि अशक्तिः शक्तेरभावो गण्यते। तत् तस्मात्कारणात् गुणिनां गुणवतां यो गुणो दुर्जनैः नाङ्कितः न दूषितः स गुणः को नाम भवेत्। न कोऽपीत्यर्थः॥\[ शार्दूलविक्रीडितम् \]
-
-
 
  \[ तु. नीति. ८० \] १) ना. ३.५. रा. ते. ग्र४. व्रतशुचौ; म४. ५. व्रतपरे। ना१. ग्र १.४. म डम्भः। ते२. कुचौ (शुचौ)। —२) तु.
 
@@ -1030,11 +885,7 @@ Tata Institute of Fundamental Research.
 
  लोभ इति॥ लोभो धनप्रेमा यद्यस्ति विद्यते तदानीमगुणेनावगुणेन किम्। लुब्धस्य सर्वे गुणा नष्टकल्पा भवन्ति। उक्तं च व्यासेन।
 
-   
-
 नी० श०४
-
-
 
 **रथस्थान्धरणिस्थोऽपि पार्थः सर्वधनुर्धरान्।  
 एको निवारयामास लोभः सर्वगुणानिव"॥इति॥**
@@ -1049,8 +900,6 @@ Tata Institute of Fundamental Research.
 
 र्थमित्यर्थः। सौजन्यं सुजनता यद्यस्ति तर्हि निजैः बान्धवैः किम्। यः सुजनस्तस्य सर्वेऽपि वान्धवा भवन्तीत्यर्थः। स्वस्यात्मनो महिमा वित्तादिना सर्वोत्कर्षः यद्यस्ति तदानीं मण्डनैराभरणैः किम्। वि (चि) त्तायुत्कर्षा एवाभरणमित्यर्थः। सती समीचीना विद्या वेदशास्त्रादिर्यद्यस्ति तदानीमर्थैः किम्। यो विद्वांस्तं सर्वेऽपि वित्तैः पूजयन्तीत्यर्थः। अपयशो दुष्कीर्तिर्यद्यस्ति तदानीं मृत्युना मरणेन किम्। अपयश एव मृत्युरित्यर्थः॥ \[ शार्दूलविक्रीडितं \]
 
-
-
 १) ग्र१. चेत्सुगुणेन—२) ना२. तीर्थैश्च किं। —३) ना१. °न्यं स्वजनेन किं सुमहिमा।ना२. ग्र १. म१.२. जनैः सु°; सु (सुटीपा निजैः ख-) म४.५ गुणैः ख ना५. गुणैः सु; रा. बलेन; ते१. जनेन; ते२. निजैः सु°; ग्र२ (मू.). चनैः ख°; ग्र४.५ जनैः ख°;म३, धनैः सु° (निजैः खा°)।—४) तु१. यद्यस्तु ॥
 
  भ. ५८८१ (२६८६); षड्वे ६ (हे. ५); काव्यकल्प° ६ काव्यसं° ३ ; नीतिसं° २६; \[ प्रसङ्गाभ १० सुभाष्. २२१ । शा. १५५३ सुर. पृ० २४०.९३ (भर्तृ०)। सुभा पृ० १७८. 28 १०१५ (अमरुकस्य)। चाणक्यनीतिदर्पणे १७.४ । सुभाषितार्णवे २७.४४॥
@@ -1062,11 +911,7 @@ Tata Institute of Fundamental Research.
 
  शशीति॥दिवसे वासरे धूसर ईषत्पाण्डुः शशी चन्द्रः। गलितयौवना व्यपगततारुण्या कामिनी वामलोचना। विगतानि गतानि वारिजानि कमलानि यस्मात्तत्तादृशं सरः कासारः। स्वाकृतेः सुन्दराकारस्य पुरुषस्थानक्षरं अक्षरशून्यं योग्यतारहितमित्यर्थः। मुखं वदनम्। धनपरायणो वित्तपरतन्त्रः प्रभुः परिवृद्धः। सतता अविच्छिन्ना दुर्गतिर्दारिद्यं यस्य स तादृशः सज्जनः साधुः। नृपस्य राज्ञोऽङ्गणगतः अङ्गणं प्राप्तः खलः कर्णेजपश्च। तानि सप्त मे मम मनसि हृदये शल्यानि शङ्कवः। शोकहेतुत्वादेतेषां शल्य \[त्व\] मित्यर्थः ॥ \[ पृथ्वी \]
 
-
-
 \[ ना३. ग्र२.३.५. कोशेषु अस्मिन् श्लोके 'गलितयौवना कामिनी' इति द्वितीयपादे, 'मुखमनक्षरं स्वाकृतेः' इति तृतीयपादे 'सततदुर्गतिः सज्जन' इति प्रथमपादे च इति स्थलविपरिणामः \] । —३) तु. सु २.३. ना२.४. ग्र २. °दुर्गतः।—४) ग्र. नृपांकण°। ग्र१. म३. शल्या इमे॥
-
-
 
  भ. २४३४ (२९७३); अष्टरत्रे ७ (हे. पृ० ८); सुभाष्.३०३। शा. १५३० (भर्तृं°)। सु. ३४५८ (भट्टवृद्धेः)। सुर. पृ० २४०. ९४ (भर्तृ°)। सुभा पृ० १७७.९९३ । सक. (पृ० ३०२) ५.३६.५ (शिल्हणस्य)। सूहा. १८१.५९ (भर्तृ°)। काव्यप्रकाशे १०.५०९ । अलंकारसर्वस्वे (का० ३५ः पृ० २०४) । काव्यप्रदीपे (का० २४. पृ० ४२८)। अलंकारमहोदधौ ९१४(भर्तृ°)। उदाहरणचन्द्रिकायां। साहित्यदर्पणे १०. पृ० ६६७ । चन्द्रालोक-टी- ५.९७। हेमचन्द्रकाव्यानुशासने ६ (का० ७१ ; पृ० २.८५) ॥
 
@@ -1074,8 +919,6 @@ Tata Institute of Fundamental Research.
 होतारमपि जुह्वानं स्पृष्टो दहति पावकः॥४६॥
 
   नेति॥ चण्डकोपानां प्रकृष्टकोपानां (प्रकर्षरोषाणां ) भूमुजां नृपाणां आत्मीयो स्वकीयो नाम कश्चित्कोऽपि नास्ति। अस्मिन्नर्थे दृष्टान्तमाह। पावको दहनो जुह्वानं आज्यचर्वादिकं ददतमपि होतारमृत्विजं (मन्त्रन्दं?) स्पृष्टः सन्दहति भस्मीकरोति॥ \[अनुष्टुप् \]
-
-
 
 १) ग्र २ (मू.). कच्चिच्च°—२) ना५. °त्मीयोऽन्यो न। ना२. भूमुतां। —३) ग्र २ (मू.).हेतारमपि। तु. जुह्नन्तमपि होतारं। सु (टीपा). जुह्नन्तं; ग्र ४. जुह्नाभि–॥
 
@@ -1099,8 +942,6 @@ Tata Institute of Fundamental Research.
 
  १) तु. सु. चाटुलो; ना१.३.४. वादको; ग्र २.३.५. वातिको (वाचको)। —२) ना.३.४. ग्र १ घृष्णुः ; ग्र ३. घृष्णः ; ते२. दृष्टः; म२. दृष्टः। सु. ग्र १ .म१–३ बसति (भवति)। सु. च सदा;
 
-
-
  ना२. ग्र१. म १–३ .च तथा; ग्र४. निवसन्। तु. दूरतश्चाप्रमादी; ना२. °तश्चाप्रगल्भः; म४. °तोऽस्यप्रगल्भः; म५. °गोऽप्यप्रगल्भः। —३) ते२. नाभिजाने॥
 
  भ. ४९८७ (२२५७); हितोप° २.२६ (२५); सुभाष्. ३०८; पञ्चतन्त्रे १,२८५। सुभा. पृ० ९७.१५ । सुर. पृ० १०९.११ (भर्तृ०)। सक. ५.४२. १ (पृ० ३०५) ॥
@@ -1121,8 +962,6 @@ Tata Institute of Fundamental Research.
 दिनस्य पूर्वार्धपरार्धभिन्ना छायेव मैत्री खलसज्जनानाम्॥४९॥
 
  आरम्भगुर्वीति॥ खलानां दुर्जनानां सज्जनानां साधूनां च मैत्री सख्यं क्रमेण दिनस्य वासरस्य पूर्वार्धे प्रथमखण्डे परार्धे द्वितीयखण्डे च भिन्ना विसदृशी।उभयत्रार्धशब्दौ नपुंसकलिङ्गः समेंऽशे वर्तते। 'अर्धे समेंऽशके' इत्यमरः। छायेव अनातप इव। 'छाया सूर्यप्रिया कान्तिः प्रतिविम्बमनातपे' इत्यमरः। पूर्वार्धभिन्ना छाया खलमैत्र्या उपमानम्। परार्धभिन्ना छाया सज्जनमैत्र्याः। उपमानोपमेयसाम्यमाह। पूर्वार्धभिन्ना छाया खलमैत्री च आरम्मे प्रक्रमे गुर्वी अधिका तथा क्रमेण क्षयिणी हासवती। परार्धभिन्ना छाया सज्जनमैत्री च पुरा प्रथमं लघ्वी अल्पा पश्चादनन्तरं" वृद्धिमत्युपचयवती चेति ॥ \[ उपजातिः \]
-
-
 
  १) सु. प्रारम्भ–। तु. ना१. ग्र१. म३. क्षयणी। —२) ना४.५. लघ्वो पुरो–; लघुः पुरा सु१. वृद्धिमतीव; ना१. वृद्धिमयी च; ना३. रा. ग्र१.५. म१.३. वृद्धिमुपैति। —३) ग्र२(म्). दीनस्य; म५. इनस्य ना१. °भागा (°भिन्ना)। —४) ग्र४. छायैव। तु१. ना१. ग्र२.४.५. खलु (खल)॥
 
@@ -1151,8 +990,6 @@ Tata Institute of Fundamental Research.
 भक्तिः शुलिनि शक्तिरात्मदमने संसर्गमुक्तिः खलै-  
 रेते येषु वसन्ति निर्मलगुणास्तेभ्यो महद्भ्यो नमः॥५१॥
 
-
-
  वाञ्छेति॥ सज्जनसंगमे (तौ) विद्वत्संसर्गे वाञ्छा स्पृहा। परेषामन्येषा गुणे प्रश्रयादौ प्रीतिः प्रमोदः। गुरौ जनकदेशिकादौ नम्रता प्रह्नीभावः। विद्यायां शास्त्रादौ व्यसनमास्था।स्वयोषिति आत्मपत्न्यामेव रतिः अभिलाषः। लोकापवादात् जननिन्दायाः सकाशात् भयं साध्वसम्। शूलिनि शंकरे भक्तिः तात्पर्यम्। आत्मनः स्वस्य दमने अहंकारेभ्यो निवर्तने शक्तिर्बलम्। खलैर्दुर्जनैः सह संसर्गस्य सङ्गस्य मुक्तिस्त्यागः। एते नव निर्मलाः परिशुद्धा गुणा येषु पुरुषेषु वसन्ति तिष्ठन्ति तेभ्यो महद्भ्यो (नरेभ्यो) नमः। एवंविधगुणविशिष्टाः सर्वजनवन्द्या इत्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
 
   १) ना१. ३–५. रा. ते. ग्र २. ३. °संगतौ।—३) ना५. म. चकिणि (शलिनि )। तु. सु.ना१.२. म२. खले; ना३. ग्र ३. ४. खलेषु। —४) तु. ना१. ह्येते येषु वसन्तिः सु. ह्येते यत्र बसन्ति; म. येष्वेते निवसन्ति। रा (टीपा). तैरेव भूर्भुषिता; म २. तेष्वेव लोकस्थितिः (तेभ्यो महद्भ्यो नमः)। सु. ना२. म१. ३–५. नरेभ्यो ( महद्भ्यो ) ॥
@@ -1166,8 +1003,6 @@ Tata Institute of Fundamental Research.
 
  विपदीति॥ विपदि आपदि सत्यां धैर्य धीरत्वम्। अथ अनन्तरं अभ्युदये संपदि सत्यां क्षमा। सदसि सभायां वाग्विषये पटुता पेशलत्वम्। युधि समरे विक्रमः अतिशक्तिता। यशसि कीर्तौ अभिरतिः प्रीतिः। श्रुतौ शास्त्रादिश्रवणे व्यसनमास्था। इदं षड्विधं महात्मनां महतां प्रकृतिसिद्धं स्वभावसिद्धं हि॥ \[ द्रुतविलम्बितम् \]
 
- 
-
 (३) तु. सु१. ना२. चाभिरुचीर्व्य°॥
 
   भ. ६१४७ (२८२५); हितोपदेशे १.२८ (३२): सुभाष्. ६१; संस्कृतपाठ° ६१ । शा. २०९ (भर्तृ°)। सु. २६७ (मेण्ढकस्य)। सुमु. ६.२३ ( भर्तृमेण्ठस्य)। सुभा. पृ० ५०.१८८(भर्तृ॰)। सुर. पृ० १७.६२ (भर्तृ॰)। सुहा. १६८.३० (भर्तृ°)। सुभाषितार्णवे २४.९७ ॥
@@ -1176,8 +1011,6 @@ Tata Institute of Fundamental Research.
 मुखे सत्या वाणी विजयि भुजयोर्वीर्यमतुलम्।  
 हृदि खच्छा वृत्तिः श्रुतमधिगतं च श्रवणयो-  
 र्विनाप्यैश्वर्येण प्रकृतिमहतां मण्डनमिदम्॥५३॥
-
-
 
  कर इति॥ करे हस्ते श्लाघ्य प्रशस्तस्त्यागो वितरणम्। शिरसि मूर्ध्नि गुरोः पित्रादेः पादयोश्चरणयोः प्रणयिता प्रेमा। मुखे बदने सत्या तथ्या वाणी वाक्। भुजयोर्वाहोर्विजयि जयशीलं अतुलमनुषमं वीर्यं बलम्। हृदि हृदये खच्छा निर्मला वृत्तिर्वर्तनम्। श्रवणयोः श्रोत्रयोरधिगतमाकर्णितं श्रुतं शास्त्रं च। इतीदं प्रकृतिमहतां स्वभावत एवोदाराणामैश्वर्येण विभवेन विनापि मण्डनमलंकारः। ऐश्वर्यवतां तु कटककुण्डलादि विभूषणम्॥ \[ शिखरिणी \]
 
@@ -1201,14 +1034,10 @@ Tata Institute of Fundamental Research.
 
  भ. ४३१० (१८९१)। सोमदेवस्य यशस्तिलकचम्पां (का० ७०.२ पृ० ९९; वररुचेः। टी. वररुचिः = कात्यायनः)। सुर. पृ० ९९.२ । सुभा. पृ० १८०.१०५६ सुहा. ७.१९(भर्तृ°)। सुभाषितार्णवे २४.८९ ॥
 
-
-
 संपत्सु महतां चित्तं भवत्युत्पलकोमलम्।  
 आपत्सु च महाशैलशिलासंघातकर्कशम्॥५५॥
 
  संपत्स्विति॥ महतामुदाराणां चित्तं चेतः संपत्सु सतीषु उत्पलकोमलं कुवलयसुकुमारं भवति। विनयेन नम्रं भवतीत्यर्थः। आपत्सु विपत्तिषु महच्छैलस्याद्रेः शिलानां द्दषदां संघातश्चय इव कर्कशं कठिनं भवति। आपदुःखसहनं भवतीत्यर्थः॥ \[ अनुष्टुप् \]
-
-
 
 २) \[ तु१. अत्यशुद्धं \]सु. रा. ते १. ग्र५. भवेदुत्पलकोमलम्। —३) ग्र २. तु ( च ) ॥
 
@@ -1221,13 +1050,9 @@ Tata Institute of Fundamental Research.
 
  प्रियेति॥ न्याय्या न्यायादनपेता वृत्तिर्वर्तनं प्रिया अभीप्सिता। मलिनमविमलं कर्मं असुभङ्गे प्राणनाशेपि असुकरं दुष्करम्। तु शब्दोऽवधारणे असन्तोऽसज्जनाः नाभ्यर्थ्या अभ्यर्थनीया न भवन्ति। सुहृत् सोऽपि कृशधनः क्षीणवित्तः न याच्यो नाभ्यर्थनीयः। विपद्यापदि उच्चैरुन्नतं स्थैर्य स्थिरता। महतां महापुरुषाणां पदं स्थानमनुविधेयमनुसरणीयम्। इदमसिघाराव्रतं स्वड्गाग्रणीयम्।'नियमो व्रतमस्त्री' इत्यमरः। असिधारायामेव संचरामीत्येवंरूपं व्रतं यथा विषमं दुष्करं तथैवेदमपि प्रियेत्यादिपत्रयेणोक्तं व्रतं सतां सत्पुरुषाणां केन देशिकेनोद्दिष्टमिति प्रश्नः। तस्योत्तरमप्येतदेव। केन वेधसोपदिष्टमित्यर्थः। 'मारुते वेघसि ब्रघ्ने पुंसिक' इत्यमरः ॥ \[ शिखरिणी \]
 
- 
-
 १) सु१. न्याया; ना५. बन्या। ना२. वृत्तेर्। म १.३–५. °भङ्गेष्वसुकरं।—२) सु. ना २. ह्यसन्तो; ना१. वसन्तो। ग्र २. न ह्यर्ध्याः ; म३. ऽसामर्थ्याः। सु. सकृदपि। ग्र ४. वाच्यः; म५. याच्यः। ना१. कृतधनः। —३) तु१. स्थैयं; रा. ग्र १.५. म३. धैर्यं॥
 
  भ. ४३५४ (१९२२); सुभाष्. ३०४ । सु. २८० (जयादित्यस्य)। सुभा. पृ० ५२.२४८ (जयादित्यस्य)। सुर. पृ० १४.३९ (भर्तृ°)।सक. ५. ३५.४ (पृ० ३०१; धर्मकीर्तेः)॥
-
-
 
 **प्रदानं प्रच्छन्नं गृहमुपगते संभ्रमविधिः  
 प्रियं कृत्वा मौनं सदसि कथनं चाप्युपकृतेः।  
@@ -1235,8 +1060,6 @@ Tata Institute of Fundamental Research.
 सतां केनोद्दिष्टं विषममसिधाराव्रतमिदम्॥५७॥**
 
  प्रदानमिति॥ प्रदानं परस्मै द्रव्यवितरणं प्रच्छन्नं निगृढम्। गृहं गेहमुपगते प्राप्ते आगते विषये संभ्रमविधिः त्वरया करणम्। आसनं पादोदकमित्यादि प्रियमिष्टं कृत्वा विधाय मौनमविकत्थनम्। उपकृतेरन्येन कृतस्योपकारस्य सदसि सभायां कथनं प्रकटीकरणं चापि। लक्ष्म्या संपदा हेतुना अनुत्सेको मदराहित्यम्। परेषामन्येषां कथा वृत्तान्ता निरभिभवसाराः दूषणराहित्येनोत्कृष्टाः इतीदं विषमं दुश्चरं असिधाराव्रतं स्वङ्गधारानियमः सतां सभ्यानां केनोद्दिष्टमुपदिष्टम्। न केनापि। किंतु स्वभाव एवेत्यर्थः ॥ \[ शिखरिणी \]
-
-
 
 \[ तु. कोशे नास्ति। ना१. कोशे द्वितीयतृतीयचरणौ व्यत्यत्तौ \] १) सु१. गृहमपगते।— २) ना५. चाभ्युपगतेः ; ग्र१. म३. नाप्युपकृतेः। —३) सु. अनुच्छेको; ना१. निरुत्सेको ; ग्र १. म२.३. अनुद्वेगो। सु. ना२.५. ते १. ग्र २. ३. लक्ष्म्या। ना१.३.४. म २. अनभिभवगन्धाः ; ग्र १.४ म१.३.अनभिभवसाराः ; ग्र ३. निरभिभवसारा। ग्र३. परकथा। —४) ना१.३.४. श्रुतेऽत्यन्तासक्तिः पुरुषमभिजातं कथयति (ना३. °सि)॥
 
@@ -1250,8 +1073,6 @@ Tata Institute of Fundamental Research.
  संतप्तेति॥ अग्नौ सम्यक्तप्ते तापं गमिते अयसि लोहे संस्थितस्य सम्यक्स्थानं कृतवतः पयसो जलस्य नाम अभिधानमपि न श्रूयते नाकर्ण्यते। पयोऽत्यर्थ विनश्यतीत्यर्थः। तदेव पयो नलिनीपत्रे पद्मिनीपलाशे स्थितं मुक्ताकारतया मौक्तिकाकृतिभावेन दृश्यते विलोक्यते। मुक्ताफलमिव भवतीत्यर्थः। अन्तःसागरे समुद्रमध्ये शुक्तिकुक्षौ मुक्तास्फोटजठरे पतितं प्रविष्टं तदेव पयो मौक्तिकं जायते मुक्ताफलमेव भवति। प्रायेण भूम्ना अधममध्यमोत्तमजुषां निकृष्टमध्यमोत्कृष्टसेविनां वृत्तयो वर्तनानि एवंविधा इत्थंप्रकारा भवन्ति। अधममध्यमोत्तमसेविनां फलाम्यधममध्यमोत्तमानि भवन्तीत्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
 
     नी० श० ५
-
-
 
  २) म५. विसिनी° (नलिनी°)। तु.सु. ना२. राजते; ग्र४. जायते; म३–५. लक्ष्यते ( दृश्यते )। — ३) तु. सु. ना २ खात्यां ; ग्र४. खात्यां (इत्यपि )। तु. सु. ¯संपुटगतं; ना१.२.५. रा. ते ग्र३ (मू.). ४.५. म४. °मध्यपतितं। तु. सु. तज्जायते मौक्तिकं। —४ तु. °त्तमगुणाः संसर्गतो देहिनां॥
 
@@ -1275,8 +1096,6 @@ Tata Institute of Fundamental Research.
 
  नम्रत्वेनेति॥ नम्रत्वेन नम्र (अवनत) भावेन उन्नमन्तः नम्राः सर्वेऽपि विनीताः प्रशंसन्ति \[?\]। परेषामन्येषां गुणकथनैः विद्याविनयकुलाचारादिवर्णनैः खानात्मीयान्गुणान्त्यापयन्तः प्रथयन्तः। ये परेषामर्थे प्रयोजने वितता विस्तृताः पृथुतरा अत्यधिका आरम्भेषु प्रारम्भेषु **{** यज्ञाः येषां ते तथोक्ताः **}** (यक्षाः प्रयत्नाः )
 
-
-
 सन्तः स्वार्थान्स्वकीयप्रयोजनानि संपादयन्तः। आक्षेपादविक्षेपाद्रूक्षैः परुषैरक्षरैर्वर्णैर्मुखराणि शब्दायमानानि मुखानि वदनानि येषां तान्। दुर्जनान्दुष्टान्। क्षान्त्या क्षमयैव दुःखयन्तः। क्लिश्यन्तः \[ क्लेशयन्तः \] साश्चर्यचर्याः सविस्मयचरित्राः। बहुमताः संभाविताः। एवंविधाः सन्तः सत्पुरुषा जगति लोके कस्य नाभ्यर्चनीयाः न पूजनीयाः। सर्वेषामपि पूजनीया इत्यर्थः॥ \[ स्रम्धरा \]
 
  १) म४.५. °गुणनुतिभिः। सुर स्वागुणान्। सु(टी) वाचयन्तः (ख्यापयन्तः)। —२) ग्र १.म. पुष्णन्तः स्वीयमर्थं सततकृतमहा ( म४.५ °कृतसमा ) रम्भ°। ना२. वितथ; ग्र ४. विविध° (बितत°)। तु.सु. °बहुतरा°; ग्र२ (मू). °परधना° (°पृथुतरा°)।—३) म३–५. °परुष° (मुखर)। तु. सु३. ना२. दुर्मुखान्।तु. सु. ना२, दूषयन्तः ना५. दूरयन्तः ; म४. ५. पीडयन्तः। —४) ग्र २. चाश्चर्य°; ग्र ४. त्वाश्चर्य°। तु२. °वर्या (°चर्या )। म४. ५. सदसि (जगति)। तु. बहुमतो।ते२. ग्र१. म२.३. कस्य नाभ्यर्थनीयाः ; म४. केस्य न स्युर्नमस्याः ; म५. कस्य न स्युर्नमस्याः॥
@@ -1288,14 +1107,10 @@ Tata Institute of Fundamental Research.
 सुजनं कुजनं मन्ये महान्वंशसमुद्भवः।  
 स्वपरिभ्रमणेनैव परतापं व्यपोहति॥१॥
 
-
-
 \[ तु. नीति ५८ \] \[ भ. ७०९८ (५२५७); प्रसङ्गाभ° ३ । सुभा. पृ० ४५.१८ । सुर. पृ० १२.१६ (शाङ्गं°)। सभातरङ्गे १.२८ \]
 
 परदारपरद्रव्यपरद्रोहपराङ्मुख।  
 गङ्गा ब्रूते कदागत्य मामयं पावयिष्यति॥२॥
-
-
 
 \[ तु. नीति ६० \] \[ भ. ३९२२ (१६९७); सुभाष्.२१७ । शा. ६६७ । चन्द्रालोकटीकायां ५.१०३ । सुभाषितार्णवे २७.४८ \]
 
@@ -1305,8 +1120,6 @@ Tata Institute of Fundamental Research.
 अनुद्धताः सत्पुरुषाः समृद्धिभिः स्वभाव एवैष परोपकारिणाम्॥६१॥**
 
  भवन्तीति॥ तरवो वृक्षाः फलानां प्रसवानां उद्गमैरुत्पत्तिभिर्नम्राअवनता भवन्ति। घना मेघा नवाम्बुभिः नूतनोदकैर्दूरमधो यथा तथा बिलम्बिनो नम्रा भवन्ति। सत्पुरुषाः सज्जनाः समृद्धिभिः संपत्तिभिरनुद्धता अनौद्धत्या बिनीता भवन्ति। एषोऽयं परोपकारिणां स्वभावो निसर्गः। इयं प्रतिवस्तूपमा। यथोक्तं
-
-
 
 दण्डिना॥ 'वस्तु किंचिदुपन्यस्य न्यसनात्तत्सधर्मणः। साम्यप्रतीतिरस्तीति प्रतिवस्तूपमा मते 'ति। यथा परोपकारिणस्तरवो घनाश्च महत्यामपि संपदि सत्यामवनता भवन्ति। एवमेव सत्पुरुषा भवन्तीत्यर्थः ॥ \[ वंशस्थम् \]
 
@@ -1318,8 +1131,6 @@ Tata Institute of Fundamental Research.
 विभाति कायः करुणाकुलानां परोपकारेण न चन्दनेन ॥ ६२ ॥
 
  श्रोत्रमिति॥ श्रोत्रं शब्दग्रहः श्रुतेन शास्त्रादिश्रवणेनैव विभाति शोभते। कुण्डलेन कर्णाभरणेन न। पाणिर्हस्तो दानेन त्यागेनैव शोभते कङ्कणेन कटकेन च न। करुणा \[ कुलानां \] (पराणां) कृपालूनां कृपापरिपूर्णानां कायो देहः परेषामुपकारेण अन्येषां हिताचरणेनैव शोभते। चन्दनेन मलयजेन न परोपकारशून्यानां मलयजः शोभायै न भवति। मलयजशून्यानामपि परोपकारः शोभायै भवत्येव।" दानहीनानां कङ्कणः शोभायै न भवति। कङ्कणविहीनानामपि दानं शोभायै भवत्येव। श्रुतविहीनानां कुण्डलं शोभायै न भवति। कुण्डलहीनानां श्रुतं शोभायैभवतीत्यर्थः ॥ \[ उपजाति \] णौ
-
-
 
 \[ ना१. कोशे प्रथमद्वितीयचरणौमिथो व्यव्यस्तौ\] —२) सु२. न तु कुण्डलेन; म१. न ब कङ्कणेन।— ३) तु. सु. आभाति। तु. सु १.३. ग्र २.३.५. करुणापराणा (ग्र ३ °णालयानां इत्यपि ); ना१.३–५. ग्र४. °णाकराणां; ग्र १ कराणा ( इत्यपि)।— ४) ग्र १. म२.३. मण्डनेन; म४.५. भूषणेन ( चन्दनेन ) ॥
 
@@ -1335,8 +1146,6 @@ Tata Institute of Fundamental Research.
 सन्तः स्वयं परहिते विहिताभियोगाः ॥ ६३ ॥
 
  पद्माकरमिति॥ दिनकरो विकर्तनः पद्माकरं तटाकं विकचं व्याकोचकमलं करोति। स्वयमेव। न तु पद्माकरेणाभ्यर्थितः। चन्द्रोऽपि हिमांशुः कैरवाणां कुमुदानां चक्रवालं मण्डलं विकासयति प्रबोधयति। स्वयमेव। न तु कैरवचक्रेणाभ्यर्थितः। जलघरो धाराधरोऽपि जलमुदकं ददाति। स्वयमेव। न तु लोकैरभ्यर्थितः।
-
-
 
 सन्तः सत्पुरुषाः स्वयमात्मनैव परहिते परोपकारे विहिताभियोगाः कृतोद्योगाः। न तु परैरभ्यर्थिताः॥ \[ वसन्ततिलका \]
 
@@ -1360,11 +1169,7 @@ Tata Institute of Fundamental Research.
 आपद्गतं च न जहाति ददाति काले  
 सन्मित्रलक्षणमिदं प्रवदन्ति सन्तः॥६५॥
 
-
-
  पापादिति॥ सन्तो विद्वांसः इमेतत् सन्मित्रस्य सत्सख्युर्लक्षणं चिह्नं वदन्ति कथयन्ति। किं तदित्याह। पापाद्दुरितान्निवारयति निवर्तयति। हिताय श्रेयसे योजयते तद्युक्तं करोति। गुह्यमवाच्यं निगूहति आच्छादयति। गुणान् श्रुतादीन्प्रकटीकरोति प्रख्यापयति। आपद्गतमापन्नजनं न (वि) जहाति न त्यजति।काले सख्युः अकिंचनावस्थायां ददाति द्रविणादिकं वितरति। एवंविधगुणविशिष्टो यः स एव सन्मित्रमित्यर्थः॥ \[ वसन्ततिलका \]
-
- 
 
 १) ना१. पापं। ग्र१. यो यतते (इत्यपि)। म२ हितानि म४ हितं ये। —२) तु१. गुह्यं च गुह्यति; तु२. ना२–५. गुह्यं च गूहति; सु. ना१. ग्र१. म४.५. गुह्यानि गूहतिः ग्र ३ (मू). गुह्यं च गृहयति; म३. गुह्यान्निगूहति। —३) ना२. च निजहाति; ना३.४. ग्र२.३. न विजहाति(चन जहाति)। सु२. ३. तदाति–(ददाति) ॥
 
@@ -1380,8 +1185,6 @@ Tata Institute of Fundamental Research.
  १) ना२. °दको ननु गुणा; ना३.४ .ग्र२.३.५. दके ननु गुणा \[ ते१. कोशे 'गुणा' 'पुरा' शब्दौ मिथो व्यत्यस्तौ \] ना१. ते२. ग्र ५. निजास्तेखिलाः। ग्र१. म१–३. खेखिलाः; म४.५. येखिलाः। —२) तु१. सु. ना२.४. ते. ग्र३.५. म५. क्षीरे तापम्; ना३. क्षारे तापम्; म४. क्षीरातापम्। तु. अवीक्ष्य; ते२. अपेक्ष्य।ना१. ग्र२. ३. म४.५. ह्यात्मा। ना२. इतः (हुतः)। —३) ना२. ग्र१. म३–५. उन्मनास् (ग्र१. उन्मुखास् इत्यपि); ग्र४. उन्मुखं (इत्यपि)। ग्र२ (मू). नु (तु)। —४) तु१. सु. युक्तं तश्च; तु२. मुक्तंतश्च; म३. यत्तं तेन। तु. ना२. °गुणास्त्वीदृशः ; ना१. ग्र१.४. म३. ॰गुणास्त्वीदृशाः ; ना३. पुनस्त्वीदृशः; ना४. ग्र२.३. गुणस्त्वीदृशः; ग्र५. पुरा त्वीदृशी;म२. गुणस्त्वीदृशी ॥
 
  भ. २०२६ (७९०); सुभाष्. ३०६। सुभा.पृ ८८.२० । सुर. पृ० ५५.११ (भर्तृ॰) ॥
-
-
 
 इतः स्वपिति केशवः कुलमितस्तदीयद्विषा-  
 मितश्च शरणार्थिनः शिखरिणां गणाः शेरते।  
@@ -1401,11 +1204,7 @@ Tata Institute of Fundamental Research.
 
  जात इति॥ येन कूर्मेण पृथवेऽधिकाय भुवनानां लोकानां भराय भारं वोढुं। 'क्रियार्थोपपदस्य च कर्मणि स्थानिन' इति चतुर्थी पृष्ठं तनुचरमभागः। अर्पितं स्थापितम्। स एको मुख्यः। 'एके मुख्यान्यकेवला' इत्यमरः। कूर्मः कमठो जात उत्पन्नः। तस्य जन्म सार्थकमित्यर्थः। यत्र यस्मिन्ध्रुवे नियमितं वायुपाशैर्वद्धम्। तेजस्विनां ग्रहनक्षत्रताराणाम्। 'अस्मायामेधास्रजो विनि रिति विनिः। मत्वर्थश्च। चक्रं समूहो भ्रमति भ्राम्यति। तस्य ध्रुवस्यौत्तानपादेर्जन्म जननं श्लाध्यम्। स्तोत-
 
-
-
  व्यमित्यर्थः। अपरे आभ्यामन्ये परेषामन्येषां हितकरणे उपकारविधाने उपरिष्टादूर्ध्वमधोऽधस्ताच न भवन्ति। संजाता उत्पन्ना व्यर्था निरर्थकाः पक्षा गरुतः स्वमतानि च येषां ते ब्रह्माण्डमेव उदुम्बरमुदुम्बरफलं तस्यान्तर्मध्ये। मशकवन्मशका इव जातनष्टा उत्पन्नमृताः। जन्तवः प्राणिनः। येषां जन्म परोपकरणाय भवति तेषां जन्मसाफल्यमस्ति। ये तु परोपकारशून्यास्ते तूत्पन्नमृता जन्तव इत्यर्थः। पर हितकरणविहीनानां जन्मनो मरणस्य च विशेषभावात् ॥ \[ स्रग्धरा\]
-
- 
 
 १) म१. °यार्पितो येन पृष्ठः। २) सु१. भवति (भ्रमति) \। सु२. ग्र४ येन (यत्र)। —३) तु. संजाता। ग्र१. म३. परहितकरणं सु. नोपरिष्ठान्न चाधो; ना२. नोपरिष्ठोदधवो वा; म३. नोपरिष्ठान्नयाधो; म४.५. नोपदिष्टा न पन्थाः। —४) तु. °ण्डोदुम्बरान्ते; ग्रर(मू). °ण्डौदुम्बरान्तर्। तु. सु. ना२. प्राणिनः (जन्तवः)। तु संचरन्ति (जातनष्टाः)॥
 
@@ -1428,8 +1227,6 @@ Tata Institute of Fundamental Research.
 
 **माद्यन्ति विद्यया केचिद्धनेनान्धन्ति चापरे।**
 
-   
-
 अन्ये तु सुभगंमन्याः (अन्ये माद्यन्ति सुभगात्) परे पण्डितमानिन इति ॥
 
  पापे दुरिते रतिमभिलाषंमा कृथा मा विदधाः। कृञो लुङि रूपं 'न माङयोग' इत्यडभावः। सत्यं यथार्थमेव ब्रूहि वद। साधूनां सज्जनानां पदवीं पन्थानमनुयाहि अनुसर। विद्वज्जनं सुधीलोकं सेवस्वशुश्रूषस्व। मान्यान्मानार्हान्(मान्यं मानाहे) मानय पूजय। विद्विषः परिपन्थिनोऽप्यनुनय (प्रशमय) आश्वासय। प्रश्रयं विनयं प्रख्यापय प्रथय। कीर्तिं यशः पालय रक्ष। दुःखिते व्यथिते (अधीरे) दयां कृपां कुरु चर। एतदुक्तं द्वादशविधं सतां सज्जनानां चेष्टितं कृत्यम्॥ \[ शार्दूलविक्रीडितम् \]
@@ -1438,16 +1235,12 @@ Tata Institute of Fundamental Research.
 
  भ. २५९७ (१०५१)। सुभा. पृ० ५३.२७३। सुर. पृ० ३७.१ (शार्ङ्ग°)॥
 
-
-
 मनसि वचसि काये पुण्यपीयूषपूर्णा-  
 स्त्रिभुवनमुपकारश्रेणिभिःप्रीणयन्तः।  
 परगुणपरमाणून्पर्वतीकृत्य नित्यं  
 निजहृदि विकसन्तः सन्ति सन्तः कियन्तः॥७०॥
 
  मनसीति॥ मनसि चेतसि वचसि वाचि काये देहे च पुण्येनैव पीयूषेणामृतेन पूर्णा भरिताः त्रिभुवनं लोकत्रयमुपकारश्रेणिभिः सत्कारपरंपराभिः प्रीणयन्तस्तर्पयन्तः परेषामन्येषां गुणाः श्रुतशीलादयस्त एव परमाणवोऽत्यल्पाः तान्पर्वतीकृत्य गुरुकृत्य नित्यं सार्वकालं निजहृदि स्वचेतसि विकसन्तो हृप्यन्तः सन्तः सत्पुरुषाः कति सन्ति। विरला विद्यन्ते। न तु बहवः। ये मनोवाक्कायैः पुण्यमेव कुर्वन्ति न पापम्। ये परेषामुपकारमेव कुर्वन्ति नापकारम्। ये परेषामल्पानपि गुणान् बहुमन्यन्ते दोषांस्तु न कथयन्ति तादृशाः सज्जना जगति विरला इत्यर्थः॥ \[ मालिनी \]
-
- 
 
 २) तु. परहितम् (त्रिभुवनम्)। —४) सु३. विलसन्तः। ते १. ख्यापयन्तः (सन्ति सन्तः)।
 
@@ -1460,8 +1253,6 @@ Tata Institute of Fundamental Research.
 किं चाङ्गीकृतमुत्सृजन्स्वमनसा श्लाध्यो जनो लज्जते  
 निर्वाहः प्रतिपन्नवस्तुषु सतामेतद्धि गोत्रव्रतम्॥१॥
 
- 
-
 \[ ना. नीति ७.११ \] \[ भ. १७३७ (६७२) ; शतकाव ९२ । मुद्राराक्षसे २.१८ । सुभा. पृ० ५३.२६९ \]
 
 सन्त्येवात्र वने वनेऽपि बहवो निम्बाः क्वचिच्चन्दनः  
@@ -1472,8 +1263,6 @@ Tata Institute of Fundamental Research.
 \[ तु. नीति ७०.\]
 
 नी० श० ६
-
-
 
 **॥ धैर्यपद्धतिः ॥**
 
@@ -1497,8 +1286,6 @@ Tata Institute of Fundamental Research.
 
  भ. ४३४२ (१९१३)। दशरूपावलोके पृ० ६२ (भर्तृ॰)। मुद्राराक्षसे २.१७ (४८)। पञ्चतन्त्रे३.२५५ (१७७)। सु. ५४४ सुहा. १६८.३२ (मुद्राराक्षसे) ॥
 
-
-
 लज्जां गुणौघजननीं जननीमिवार्या-  
 मत्यन्तशुद्धहृदयामनुवर्तमानाः।  
 तेजस्विनः सुखमसूनपि संत्यजन्ति  
@@ -1517,13 +1304,7 @@ Tata Institute of Fundamental Research.
 
  क्वचिदिति॥ कार्यंयत्किंचिदर्थयत इति कार्यार्थी। 'बहुलमाभीक्ष्ण्ये' इतिणिनिः। मनस्वी धृतिमान् दुःखं पीडां च न गणयति सुखं शर्म \[ च \] न गणयति। सहत इत्यर्थः। किमित्याह। क्वचित्कुत्रचित् भूमौ धरण्यां \[ शायी \] (शेते) संविशति। क्वचिदपि च पर्यङ्कस्तूलमयी शय्या शयनं यस्य स तादृशो भवति। क्वचिच्छाकाहारः हा \[ ह? \]रितमेवाहारो यस्य तथाविधो भवति।क्वचिदपि च शाल्योदने अन्ने रुचिः प्रीतिर्यस्य तादृग्भवति। क्वचित्कन्थाधारी कन्थामाली भवति। क्वचिदपिच दिव्यान्यमानुषाण्यम्बराणि वस्त्राणि धारयतीति दिव्याम्बरधरो भवति। यत्किंचित्कार्यं साधयतः सुखदुःखविचारो यदि भवेत्तदा कार्यंन सिध्यतीत्यर्थः॥ \[ शिखरिणी \]
 
-
-
 १) तु. सु. ना१. २.ग्र ४.५भूमौशय्या;ना३.४.रा.ते१ पृथ्वीशय्या ना५. ग्र२.३ भूमौ शेते ते२ .पृथ्वी शय्या। ना२.रा. ते१. पर्यङ्कशयनं। —२) तु२. °च्छोकाहारः; ना१.२ग्र१. म१–३. °च्छाकाहारी; ग्र३. °च्छास्वाहारः। —३) तु. कन्धाधारः ग्र३. म१–३. कन्धाधारी। ना१. धनो (°धरो)। –४) तु२. गणयति न॥
-
-
-
-
 
 भ. १९८७ (७७२); शतकावलौ ८०; सुभाष्.३०५। शा. ४०९८ (भर्तृ॰)। सु. २९४०। सूमु. ७.१०। सूहा .१६८.४०। सुभा. पृ० ३६८.३९ (भर्तृ°) ॥
 
@@ -1532,15 +1313,11 @@ Tata Institute of Fundamental Research.
 अद्यैव वा मरणमस्तु युगान्तरे वा  
 न्याय्यात्पथः प्रविचलन्ति पदं न धीराः॥७५॥
 
- 
-
 {
 
 निन्दन्त्विति॥ नीतिनिपुणा नयविशारदा निन्दन्तु कथंचिद्दूषयन्तु वा, यदि अथ वा स्तुवन्तु भूषयन्तु वा। लक्ष्मी संपत्समाविशतु प्राप्नोतु वा, उत यथेष्टं निरर्गलं गच्छतु वा अद्यैवेदानीमेव मरणं निधनमस्तु वा, उत युगान्तरे कल्पान्तरे वास्तु। तथापि धीरा धैर्यशालिनो न्याय्यात् न्यायादनपेतात्पथो मार्गात्पदमेकपादविन्यासमात्रमपि न प्रविचलन्ति न भ्रश्यन्ति। तेषां न्यायमार्गापरित्याग एव परमार्थो न निन्दास्तुत्यादिरिति भावः॥ \[ वसन्ततिलका-रा०
 
 }
-
-
 
 \[ तु. सु. ग्र२.३.५. कोशेषु नास्ति \] २) ना२. लक्ष्मी समा°। म१.३.५. यथेच्छं (यथेष्टम्)। —४) म. ३. न्यायात्पथः ; म५. नार्यास्त्वतः। ग्र १. म१.२. प्रचलयन्ति (प्रविचलन्ति)। ग्र ४.पदान्न (पदं न)॥
 
@@ -1552,8 +1329,6 @@ Tata Institute of Fundamental Research.
 लोकत्रयं जयति कृत्स्नमिदं स धीरः॥७६॥
 
  कान्तेति॥ कान्तानां सुन्दरीणां कटाक्षा अपाङ्गविलोकितान्येव विशिखा बाणाः यस्य पुंसश्चित्तं हृदयं न लुनन्ति न छिन्दन्ति विकृर्ति न नयन्तीत्यर्थः।कोपस्य क्रोधस्यैव कृशानोर्दहनस्य तापः संज्वरो यस्य चित्तं न निर्दहति न भस्मीकरोति। न व्यथयतीत्यर्थः। भूरि बहुला विषया इन्द्रियार्था लोभ एव पाशा रजवश्च न कर्षन्ति। यस्य चित्तमिति पदद्वयं अत्राप्यनुसंधेयम्। यस्य चित्तं विषयासक्तं लोभाकान्तं च न भवतीत्यर्थः। तादृशो धीरो धृतिमान्कृत्स्नमशेषमिदं लोकत्रयं भुवनत्रितथं जयत्यभिभवति॥ \[ वसन्ततिलका \]
-
-
 
  \[ ना२. कोशे नास्ति \] १) तु.सु. न खनन्ति; म१.२.५. न दलन्ति; म३. नुदकन्ति ( न लुनन्ति)। —२) तु. काम; ते२. चोप° (कोप°)। तु१. तापाः। —३) ना५. रा. तर्षन्ति; ते२. कुर्वन्ति; ग्र १. म१-३. नह्यन्ति (कर्षन्ति)। तु. सु. ग्र १. म १-३. विषयांश्च। सु (टीपा.) म४. ५. विषयाश्च न लोभपाशात्। ग्र ४. लोभपाशै। —४) तु१. लोकत्रये; तु२. लोकत्रयां। ग्र १.हि (स) ॥
 
@@ -1575,11 +1350,7 @@ Tata Institute of Fundamental Research.
 
  वरमिति॥ शृङ्गोत्सङ्गात् शृङ्गोपरिभागात् हिमशिखरिणः प्रालेयाद्रेः (संबन्धिनः तुनादुन्नतात् शृङ्गाच्छिखरात्सकाशात्) क्वापि कुत्रचित् विषमे निम्नोन्नतप्रदेशे पतित्वा निपत्य कठिनानां कर्कशानां दृषदां शिलानामन्तर्मध्ये विदलितो भिन्नः (विगलितो विकीर्णः) \[ अयं \] (अधः) कायो देहः वरं मनाकूप्रियम्। वरशब्दो मनाक् प्रिये नियतनपुंसकलिङ्गः। 'देवाहते वरः श्रेष्ठे त्रिषु क्लीवं मनाक्प्रिये'इत्यमरः। तीक्ष्णदशने तिग्मदशने फणिपतेराशीविषश्रेष्ठस्य मुखे वदने न्यस्तो हस्तः करो वा वरं मनाक्प्रियम्। वह्नौ कृशानौ पातः पतनमपि वरं मनाक् प्रियम्। तदपि तथापि ततो विहितं शीलस्य सद्वृत्तस्य विलयो नाशो न वरः। 'शीलं स्वभावे
 
-
-
 सद्वृत्त' इत्यमरः। वृत्तनाशो मरणादतिरिच्यते। कण्ठगतप्राणैः न अशुभं कर्म समाचरन्ति कुश (कुशल) बुद्धयः ॥ \[ शिखरिणी\]
-
-
 
 १) ना. ते२. म४.५. शृङ्गोत्तुङ्गाद् ; ग्र २. ना१ . शृङ्गोत्तुङ्गाद्। रा. ग्र ५. गुरु- ( हिस-)। सु. ना१.ग्र ४. विषये (विषमे )। —२) ग्र१. २. म१-३ पतित्वाधः। सु. ना१. कठिण°। रा. ते१. ग्र५. द्दषदन्ते। रा. ते१. ग्र २-५ विगलितः; म३. निदलितः; म५. विलिखितः (विद्लितः)।—४) ना३. ४. ग्र २ (मू): वरः; ते २. ततः ( कृतः )। ते २. म४. ५. शीलविषमः ॥
 
@@ -1592,8 +1363,6 @@ Tata Institute of Fundamental Research.
 
  बह्निरिति॥ यस्याङ्गे देहेऽखिलानां सर्वेषामपि लोकानां जनानां वल्लभतमं अत्यन्ताभीष्टं शीलं सद्वृत्तं समुन्मीलति स्फुरति तस्य वह्निरग्निः जलायते जलमि-वाचरति। शीततरो भवतीत्यर्थः। 'कर्तुः क्यङ्सलोपश्च' इति कर्तर्युपमाने आचारे क्यङ्प्रत्ययः। जलनिधिः पयोराशिः कुल्यायते कुल्येवाचरति। ईषत्तर इत्यर्थः। मेरुः सुरालयः स्वल्पशिलायते स्वल्पशिलेवाचरति। मृगपतिः सिंहः सद्यः सपदि-कुरङ्गायते कुरङ्ग इवाचरति। कुरङ्गो हरिणः। व्यालो भुजंगः माल्यगुणायते माल्य-गुण इवाचरति। माल्यगुणः पुष्पस्रक्। विषरसो गरलद्रवः। 'शृङ्गारादौ विषेवीर्ये गुणे रागे द्रवे रसः' इत्यमरः। पीयूषवर्षायतेऽमृतवृष्टिरिवाचरति ॥ \[ शार्दूलबिक्रीडितम्\]
 
-
-
 \[ अडयार् २८. एम्. ५६ कोशे नास्ति \] ३) ते२. ब्यालः स्वल्पमृगायते। म५. विषरसं।—४) तु. सु१. ग्र ४. वल्लभमिदं; सु२.३. ना१.४.५. रा. ते१. ग्र ५. वल्लभतरं। सु१. समुन्मूहूति; ते२. म३. समुजृम्भते ॥
 
  भ. ६०१४ (२७६५); प्रसङ्गाभ ४। सुर. पृ० १०२.४ ( कल्पतरौ )। सुभा. पृ० ८४.१९ ॥
@@ -1602,8 +1371,6 @@ Tata Institute of Fundamental Research.
 ज्ञानस्योपशमः श्रुतस्य विनयो वित्तस्य पात्रे व्ययः।  
 अक्रोधस्तपसः क्षमा प्रभवितुर्धर्मस्य निर्व्याजता  
 सर्वेषामपि सर्वकारणमिदं शीलं परं भूषणम्॥८०॥
-
-
 
  ऐश्वर्यस्येति॥ ऐश्वर्यस्य प्रभुतायाः सुजनता सौजन्यं विभूषणमलंकारः। शौर्यस्य पराक्रमस्य वाक्संयमः अविकत्थनं विभूषणम्। ज्ञानस्य मोक्षधिय उपशमः शान्तिर्विभूषणम्। श्रुतस्य शास्त्रस्य विनयः प्रश्रयो विभूषणम्। 'मोक्षे धीर्ज्ञानमन्यत्रे'ति 'श्रुतं शास्त्रावधृतयो'रिति चामरः। वित्तस्य धनस्य पात्रे त्रिविधे व्ययः प्रतिपादनं विभूषणम्। धर्मपात्रं कार्यपात्रं कामपात्रं चेति पात्रस्य त्रैविध्यम्। तत्र धर्मपात्रे वित्तस्य व्ययः विद्यातपोवृत्तवत्सु विशेषु निर्व्याजं दानम्। “न विद्यया केवलया तपसा वापि पात्रता। यत्र वृत्रमिमे चोभे तद्धि पात्रं प्रकीर्तितम्" इति स्मृतेः। प्रत्युपकारार्थं यस्मै धनं दीयते तत्कार्यपात्रम्। अनिषिद्धात्मक सुखोपभोगार्थ यस्मै धनं दीयते तत्कामपात्रम् \। तपसः अनशनादेः अक्रोधः कोधराहित्यं विभूषणम्। प्रभवितुः शक्तस्य क्षमा सहिष्णुत्वं विभूषणम्। धर्मस्य पुण्यस्य निर्व्याजता अभिसंधिराहित्यं विभूषणम्। सर्वेषामपि पुरुषाणां सर्वस्य कारणं हेतुः इदमुक्तं शीलं सद्वृत्तं परमुत्कृष्टं विभूषणमाभरणम्॥ \[ शार्दूलविक्रीडितम् \]
 
@@ -1615,8 +1382,6 @@ Tata Institute of Fundamental Research.
 
 छिन्नोऽपि रोहति तरुः क्षीणोऽप्युपचीयते पुनश्चन्द्रः।  
 इति विमृशन्तः सन्तः संतप्यन्ते न लोकेषु॥१॥
-
- 
 
 {
 
@@ -1630,10 +1395,6 @@ Tata Institute of Fundamental Research.
 
 एको वासः पट्टणं वा वनं वा एका भार्या वंशजा वा प्रिया वा।  
 एकं मित्रं भूपतिर्वा यतिर्वा एको देवः केशवो वा शिवो वा॥२॥
-
-
-
-
 
  \[ अडयार २८ एम् ५६. नीति ७९; प्र३. पुष्पिकायामपि दृश्यते \]
 
@@ -1656,8 +1417,6 @@ Tata Institute of Fundamental Research.
  नेतेति॥ यस्य बलभिद इन्द्रस्य नेता मन्त्री बृहस्पतिर्वाचस्पतिः। यस्य ग्रहरणमायुधं वज्रं शतकोटिः। यस्य सैनिकाः सैन्याः सुरा अमराः। यस्य दुर्गंगिर्यादिष्वन्यतमं स्थानं स्वर्गस्त्रिविष्टपम्।यस्य हरेर्विष्णोरनुग्रहः कृपा। यस्य वाहनं (वारणः दन्ती) ऐरावतः अभ्रमातङ्गः। इत्येवमाश्चर्येणाद्भुतेन बलेन शक्त्यान्वितोऽपि युक्तोऽपि वलभिदिन्द्रः परैः परिपन्थिभिः संगरे युद्धे भन्नः पराजितः। तत्तस्मात्कारणात् दैवं भागधेयमेव व्यक्तं स्फुटं शरणं रक्षितृ। वृथा व्यर्थं पौरुषं पुरुषकारः। धिग्धिक् निन्दित इत्यर्थः। 'धिङ्गिर्भर्त्सननिन्दयो'रित्यमरः॥ \[ शार्दूलविक्रीडितम् \]
 
  १) तु२. नैता। —२) प्र. स्वर्गं ना५. असंग्रहः प्र४. अनुग्रहं। तु.सु.रा १ ते. ऐरावणो सु१. ते२. रावणः ; सु२.३. ना२–४. रा. ते१. २.३. वारणः ग्र१. म३. वाहनः। —३) तु. सु. इत्यैश्वर्य°; म३. उच्चैरव तु. ऽपि मध्वा म४. ऽपि सुरराङ् म५. सुरविराद् (ऽपि बलभिद्)। —४) तु२. ना१. ग्र१.२. म१.३–५ तद्युतं; म२. तब्द्युक्तं। ग्र४. बत ( ननु )। ना२. °मेव नृणां वृद्धौ क्षये कारणं म४.५. हि परं (शरणं) ॥
-
-
 
  भ. ३८१५ (१६४३); विक्रमचरित्रे १७२।सु. ३१५१। सुर. पृ० ७१.१० (शार्ङ्ग°)। सुभा. पृ० ९३.१००। आत्मानुशासनकाव्ये ॥
 
@@ -1682,10 +1441,6 @@ Tata Institute of Fundamental Research.
 
 नी० श० ७
 
-
-
-
-
 भ. ४३३३ (१९०६)। पञ्चतन्त्रे २,१७०। सुभाषितार्णवे २४.११७ (पाठमेदैः)।
 
 खल्वाटो दिवसेश्वरस्य किरणैः संतापिते मस्तके  
@@ -1694,8 +1449,6 @@ Tata Institute of Fundamental Research.
 प्रायो गच्छति यत्र दैवहतकस्तत्रैव यान्त्यापदः॥८४॥
 
  खल्वाट इति॥ खल्वा(र्वा)टः प्रकृत्या केशरहितमस्तकः। दिवसेश्वरस्य मार्ताण्डस्य किरणैर्मयूखैर्मस्तके शिरसि केशविहीनत्वात्संतापिते संतप्ते सति। अनातपं आतपरहितं देशं प्रदेशं गच्छन्व्रजन् द्रुतगतिः शीघ्रगमनः संस्तालस्य तृणराजस्य मूलं तलं गतः प्राप्तः। तत्र तालमूले पतता भ्रश्यता महता स्थूलेन तालस्य फलेन।अस्य खल्वाटस्य शिरो मस्तकं सशब्दं शब्दसहितं यथा भवति तथा भग्नं पपाट। दैवेन विधिना हत एव हतको नाशितो यत्र गच्छति यस्मिन्प्रदेशे याति तत्रैव प्रदेशे प्रायो भूम्ना आपदो विपदो यान्ति। तं दैवहतकमनुव्रजन्ति। पुरुषकारादपि दैवमेव प्रबलमित्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
-
-
 
 १) रा१. ग्र१–४. म. ख( म४. खा)र्बाटो। तु. सु. ना१.२. म१.३.५. संतापितो; ग्र१.म२.४. संताडितो। —२) तु. सु. ना१.२. म३–५. वाञ्छन्; ग्र१. भ्राम्यन् \। तु. सु. ना२. म१. ३–५ विधिवशात्; ना१. द्रुतमसौ। ते१. मूले स्थितः। —३) ते२. तत्रस्थेपि महत्फलं निपतितं;ग्र१. तत्रस्थस्य च तत्फलेन पतता; म५. तत्रस्थस्य तु तत्फलैर्निपतितेर्। ते. भिन्नं। म१.३.५. समस्तं। —४) म३. यत्रायान्ति हि मन्दभाग्यनिवहस्त। ना१.२ भाग्यरहितस्त° \। तुर. ग्र२ ( मू.).।यन्त्यापदः ॥
 
@@ -1706,13 +1459,9 @@ Tata Institute of Fundamental Research.
 
  गजेति॥ गजा दन्तिनः \[भुजंगाः सर्पाः विहंगमाः पक्षिणः\] (विहङ्गाः पक्षिणः भुजंगमाः सर्पाः) तेषां बन्धनं निरोधः। शशी चन्द्रः दिवाकरो भास्करश्च तयोर्ग्रहपीड़नं केतुराहुग्रहपीडां मतिमतां सतां दरिद्रतां दारिद्र्यं च समीक्ष्य दृष्टा बुद्ध्वाविधिदैवं बलवानधिकः इत्येवं मे मम मतिर्बुद्धिः। जातेति शेषः ॥ \[ द्रुतविलम्बितम् \]
 
-
-
 १) ३ (मू.). गजविहंगभुजंगम। —२) ना१. गृहपीडनम्। —३) ना२. ते२. निरीक्ष्य;रा. विलोक्य (समीक्ष्य ) ॥
 
  भ. २०६० (८११); पञ्चतन्त्रे२.२० (१९); हितोप १.४५ (५२) शा. ४४३। सु.३१२५। वेतालभट्टस्य नीतिप्रदीपे ४. (हे. पृ० ५२६) तन्त्राख्यायिकायां २.८ । विक्रमचरित्रे २६२ । सुभा. पृ० ९२.६८। सुर. पृ० १७१.१४ (भर्तृ॰) ॥
-
-
 
 सृजति तावदशेषगुणाकरं पुरुषरत्नमलंकरणं भुवः।  
 तदपि तत्क्षणभङ्गि करोति चेदह ह कष्टमपण्डितता विधेः॥८६॥
@@ -1736,9 +1485,6 @@ Tata Institute of Fundamental Research.
 परिचयबले चिन्ताचक्रे निधाय विधिः खलः।  
 मृदमिव बलात्पिण्डीकृत्य प्रगल्भकुलालव-  
 द्भ्रमयति मनो नो जानीमः किमत्र विधास्यति॥८८॥**  
-
-
-
 
  प्रियसखेति॥ हे प्रियसख अभिमतमित्र। खलो दुर्जनो विधिर्ब्रह्मा मनश्चित्तं मृदं मृत्तिकामिव बलात्प्रसभं पिण्डीकृत्य अपिण्डमेव पिण्डं कृत्वा। 'अभूततद्भावे च्विः'। 'अस्य च्वा'वितीत्वम्। 'ऊर्यादिच्विडाचश्चे'ति गतिसंज्ञायां 'गतिकारके'त्यादिना समासः। समासेन पूर्वोक्तो ल्यप्। प्रगल्भकुलालवत् प्रौढकुम्भकार इव विपद आपद एव दण्डस्य लगुडस्य आघातानां ताडनानां प्रपातानां पातानां परंपरा आवृ
 
@@ -1768,8 +1514,6 @@ Tata Institute of Fundamental Research.
 दैवेन प्रभुणा स्वयं जगति यद्यस्य प्रमाणीकृतं  
 तत्तस्योपनमेन्मनागपि महान्नैवाश्रयः कारणम्।
 
-
-
 सर्वाशापरिपूरके जलधरे वर्षत्यपि प्रत्यहं  
 सूक्ष्मा एव पतन्ति चातकमुखे द्वित्राः पयोबिन्दवः ॥९०॥
 
@@ -1787,8 +1531,6 @@ Tata Institute of Fundamental Research.
 हतविधिपरिपाकः केन वा लङ्घनीयः॥१॥
 
  {अयमिति॥ अयं परिदृश्यमानश्चन्द्रोऽमृतस्य निधानं स्थानमपि ओषधीनां संजीवन्यादीनां नायको नेतापि शतभिषजा नक्षत्रेण शतेन भिषग्भिवैद्यैश्च अनुयातोऽनुसृतोऽपि, किं बहुना शंभोः सकललोकक्षेमंकरस्य शंकरस्य मूर्ध्नोऽवतंसः शिरोभूषणमपि, एनमुक्तविशेषणविशिष्टं शशाङ्कं राजयक्ष्मा क्षयरोगो न च विरहयति न त्यजति खलु। अतो हतविधेर्नष्टदैवस्य परिपाको नियोगः केन वा पुंसा लङ्घनीयः। न केनापीत्यर्थः। हतेति निर्वेदानुसंधानार्थकः। (राजयक्ष्मेत्यत्र राज्ञश्चन्द्रस्य यक्ष्मा, राजा चासौ यक्ष्मेति वा विग्रहः।) यथा बाहटः—"अनेकरोगानुगतो बहुरोगपुरोगमः। राजयक्ष्मा क्षयोऽशेषरोगराडिति च स्मृतः” ॥ इति ॥ \[ मालिनीवृत्तम्\] - रा }
-
-
 
  \[ सु. ग्र.२.३.५. कोशेषु गोमन्तककोशेष्वेकस्मिंक्ष नास्ति \] १) ना२. ग्र ४. म१.२. स्वयम् (अयम्)। ग्र ४. निधानो ना१.२ ते. ग्र १. औषधीनां। —२) तु. ना२. अमृतमयशरीरः कान्तियुक्तोऽपि चन्द्रः। ना५. रा. शंभुमूर्ध्नोवतंसः। —३) तु. भवत विगतरश्मिर्मंण्डलं प्राप्य भानोः। ना१. विहरयति यदेनं; ना२. तदपि च वियुक्ते; ग्र १. म३. ग्लपयति च तथैनं; म१. म१.२. परिहरति न चैनं; म४.५. बिसृजति न हि चैनं ( विरहयति न चैनं )। —४) तु. परसदननिविष्टः को लघुत्वं न याति ॥
 
@@ -1821,14 +1563,10 @@ Tata Institute of Fundamental Research.
 येन यत्र च भोक्तव्यं सुखं वा दुःखमेव वा।  
 स तत्र रज्ज्वा बद्धवैव वलादैवेन नीयते॥६॥
 
-
-
 \[ अडयार २९ ई२. नीति ९.१४\] \[ सुभा. पृ० ९१.३३। \]
 
 यस्माच्च येन च यदा च यथा च यच्च यावच्च यत्र च शुभाशुभमात्मकर्म।  
 तस्माच्च तेन च तदा च तथा च तच्च तावच्च तत्र च विधातृवशादुपैति ॥ ७ ॥
-
-
 
 \[ अडयार् २९ ई२. नीति. ९. १५\] \[भ. ५३४३ (२४१८); पञ्चतन्त्रे २.१८ (१७);हितोपदेशे १.३४ (४१)। सुभा. पृ० ९२.७१। सुर. पृ० ७६.४ (हितोपदेश ) \]
 
@@ -1836,8 +1574,6 @@ Tata Institute of Fundamental Research.
 बध्यन्ते निपुणैरगाधसलिलान्मीनाः समुद्रादपि।  
 \[ दुर्नीतं किमिहास्ति किं सुचरितं \] कः स्थानलामे गुणः  
 कालो हि व्यसनप्रसारितकरो गृह्णाति दूरादपि॥८॥
-
-
 
 \[ अडयार् २९ ई २. नीति. ९. १६\] \[ भ. ६३३६ (२९२२)। सक. ५.७२.२ (१० ७)३२५, वसुभागस्य )। सुर. पृ० १००१ ( हितोपदेशे )। सुभा. पृ० ३७४.२०३।\]
 
@@ -1850,11 +1586,7 @@ Tata Institute of Fundamental Research.
 
 नमस्याम इति॥ देवानमररान्नमस्यामो वन्दामहे। 'नमो वरिवश्चित्रङः' क्यच्। नन्विति शङ्कायाम्। 'शङ्कासमुच्चयप्रश्नानुनयामन्त्रणे ननु' इत्यमरः। परिहरति।तेऽप्यमराः हतविधेर्दुष्टदैवस्य वशगाः परतन्त्राः। पक्षान्तरमाशङ्कते। विधिर्वन्द्यो नमस्कार्यः। उक्तमपि पक्षं परिहरति। सोऽपि विधिः प्रतिनियतस्य प्रतिपुरुषं भिन्नस्य कर्मणः सुकृतदुष्कृतरूपस्य एकस्य फलं ददातीति तथाविधः। यदि तर्हि फलं कर्मायत्तं न देवायत्तं नापि विध्यायत्तं तदानीम\[ परैरन्यैः \]( मरैर्देवैः) किं प्रयोजनं विधिना च किं प्रयोजनम्। न किंचित्प्रयोजनम्। तत् तस्मात् विधिरपि येभ्यः कर्मभ्यो प्रभवति न समर्थो भवति। तेभ्यः कर्मभ्यो नमः। कर्माण्येव फलदानि। विधिस्तु कर्मानुरूपं फलमनुभावयतीत्यर्थः ॥ \[ शिखरिणी \]
 
-
-
 १) तु२. देवाः मनु; सु. ना२. देवाननु; म३. दैवान्न तु; म४.५. देवान्न तु। तु. सु. ग्र १. म.बत विधेः; ना१. हितबिधेः। ग्र१. म१-३. सत्त्वविवशा ( तेऽपि वशगा)। ना१. वशजाः। —२) ग्र १. म३. रक्तैक ° (°कर्मैक)।—३) म५. कर्मायुक्तं। ग्र १. म१-४. यदिदम् (यदि किम्)।तु. सु. ना२. ग्र २. ३. अमरैः \। ना १. हि; ग्र ४. नु (च)। ग्र ४. विधिनो।— ४) ग्र ४. नमः; म३.नमः स्वात् (नमस्तत्-)। ग्र ३. म३.५. कर्मेभ्यो।
-
-
 
  भ. ३३६७ (१४३१); सुभाष्.३०५। शान्तिशतके १.१ (हे. पृ० ४१०)। शा.४३६ (भर्तृ)। सु. ३०७९। सुर. पृ० ७१.११ (भर्तृ०)। सुभा. पृ० ९३.८८ (भर्तृ०)।सुहा. ३४.२४ ( काव्यप्रकाशे)। सोमदेवस्य यशस्तिकचम्पवां (का० ७०.२.१० २५६ ) ॥
 
@@ -1864,8 +1596,6 @@ Tata Institute of Fundamental Research.
 सूर्यो भ्राम्यति नित्यमेव गगने तस्मै नमः कर्मणे ॥९२ ॥
 
   ब्रह्मेति॥ ब्रह्मा विधाता येन कर्मणा ब्रह्माण्डानामेव भाण्डानां कुम्भानामुद्रे मध्ये कुलालवत्कुम्भकार इव नियमितो निबद्धः क्षणमपि विश्रान्ति नानुभवति।विष्णुर्हरिरपि येन कर्मणा दशभिरवतारैर्मत्स्यकूर्मादिभिः गहने कलिले महासंकटेऽधिकसंबाधे क्षिप्तो निपातितः। रुद्रो हरोऽपि येन कर्मणा कपालपांणिपुटके करोटिरूपभाजने मिक्षाटनं भिक्षार्थ परिभ्रमणं \[ सेवते श्रयति \] (कारितो विधापितः)। सूर्यः सवितापि येन कर्मणा नित्यं सर्वदेव गगने व्योम्नि भ्राम्यति परिभ्रमति। तस्मै कर्मणे नमः। ब्रह्मादयोऽपि स्वकृतकर्मानुरूपं फलमनुभवन्तीत्युक्ते सति किमुतान्येषां मानुषादीनामित्यर्थः ॥ \[ शार्दूलविक्रीडितम् \]
-
- 
 
 \[तु. कोशयोर्नास्ति \] ३) सु. शंभुर् (रुद्रो)। ग्र २ (मू). लपात्रपुटके। ना.१ भिक्षाटणं; म४.भिक्षाशनं। सु. ना२. ग्र ३.५. म१-३. कारितः; ग्र १. कुर्वते; ग्र २ (मू.). कार्यतः (सेवते)। —४) म५. भ्रम्यति। ना ५. गहने ॥
 
@@ -1877,8 +1607,6 @@ Tata Institute of Fundamental Research.
 हे साधो व्यसनैर्गुणेषु विपुलेष्वास्थां वृथा मा कृथाः ॥९३॥
 
  या साधूनिति। हे साधो सज्जन या सत्क्रिया सत्कर्म साधून्सज्जनान् खलादुष्टान्करोति विदधाति। विदुषो विशेषान्मूढान्करोति। हितान्प्रियान्द्वेषिणः शत्रून्करोति। प्रत्यक्षं दृश्यमानं परोक्षमप्रत्यक्षं कुरुते करोति। अमृतं सुधां हालाहलं कालकूटं कुरुते। एवंविधां भगवतीं षड्गुणैश्वर्यसंपन्नां तां सत्कियां आराधयसेवख। विपुलेषु विशालेषु गुणेषु रूपादिषु व्यसनैदर्दोषैः वाञ्छितमिष्टं फलं भोक्तुं अनुभवितुं वृथा व्यर्थ आस्थां तात्पर्य मा कृथाः मा कार्षीः। वृथा व्यसनासक्ति परित्यज्य अघटनाघटनसमर्थ कर्मैव भजस्वेत्यर्थः ॥ \[ शार्दूलविक्रीडितम्\]
-
-
 
  २) तु२. प्रत्यक्षे। —३) ना२. चण्डिकां (सस्कियां)। ना३.४. भोक्तुः। —४) तु. सु.ना२. त्वमतो; ग्र२.४. व्यसने (व्यसनैर्)। तु१. सु. ३. म १–४. विफलेवास्थां; तु२. विफलेष्वास्था ; म५. विपुलैष्वास्थां॥
 
@@ -1904,16 +1632,12 @@ Tata Institute of Fundamental Research.
 
 नी० श० ८
 
-
-
 शल्येन शङ्कुना तुल्यं सदृशो हृदयदाही चित्तपरिदाही भवति। यत्किंचित्कार्यं कुर्वन्स विचारयेत् अन्यथा पश्चात्तापं च नयेदित्यर्थः। उक्तं च।
 
 **"सहसा विदधीत न क्रियामविवेकः परमापदां पदम्।  
 वृणुते हि विमृश्यकारिणं गुणलुब्धाः स्वयमेव संपदः"॥**
 
 इति॥ \[ मालिनी \]
-
-
 
 १) सु (टी). उचितमनुचितं वा। तु. कुर्वतो। ते२. कार्यजालं। —३) तु. आविपत्तौ —४) ना५. हृदयदावा; म४.५ °यतापी ॥
 
@@ -1926,8 +1650,6 @@ Tata Institute of Fundamental Research.
 
  स्थाल्यामिति॥ मन्दभाग्योऽल्पपुण्यो यो मनुजः इमां कर्मभूमि कर्मक्षेत्रं मर्त्यलोकं प्राप्य आसाद्य तपो न चरति न करोति स वैडूर्यमय्यां चालवायजमणिनिर्मितायां स्थाल्यामुखायां चान्दनैर्मलयजैरेव इन्धनानामेधसां ओधैः स्तोमैः तिलखलं तिलपिण्याकं पचति रन्धयति। सौवर्णैः सुवर्णमयैर्लाङ्गलाग्रैः हलमुखैः अर्कतूलस्य हेतोरर्कतूलाय। 'पष्ठी हेतुप्रयोगे' इति षष्टी। वसुधां भूमिं विलिखति कृपति।कर्पूरपण्डान् घनसारतरुनिचयान् छित्त्वा खण्डयित्वा कोद्रवाणां कोरदूषकाणांवृतिमावरणं समन्तात्परितः कुरुते रचयति। एतानि स्थाल्योक्तानि त्रीणि कर्माणि यथात्यन्तासंगतानि तथा कर्मभूमौ तपोविषयान्यकर्मानुष्ठानं अत्यन्तासंगतमित्यर्थः ॥ \[ स्रग्धरा\]
 
- 
-
 \[ ना१. कोशे नास्ति \] १) तु१. स्थाल्या। तु१. वैडूर्य°; तु२. बैदुर्य°; ना ३-५. रा. ते. वैदूर्य°। तु. ना२. तिलखलिं; सु१. ना३. तिलकणं; सु२.३. च लशुनं; ग्र१. म१-३. तिलगणं; ग्र २ (मू). तिलखिलं; म४. ५. तिलमलं। तु. ग्र १.३. म. चन्दनैर्। तु१. सु. इन्धनाद्येै.; ते. ग्र १. म. इन्धनोधैः; ग्र २ (मू.). इन्दनोघैः। —२) तु२. ना२. बिलखति; ते१. बिलिखत-। तु २. कर्ममूलस्य; सुर. -कर्मतूलस्य; ना२. अर्कमूलस्य। —३) ना३. ग्र २.३. कर्पूरपण्डान्। तु. कृषिमिव; सु. कृषिमिह; ग्र ५. वृतिमिव; म३. वृतिरिह (वृतिमिह )। —४) ना४. रा. ते. ग्र ४. भजति (चरति ) ॥
 
  भ. ७२२६ (३३११)। सु. ३०४५। सुभा. पृ० ९५.१२७। सुर. पृ० ७७.१० (भर्तृ०) ॥
@@ -1936,8 +1658,6 @@ Tata Institute of Fundamental Research.
 विद्यापि नैव न च यत्नकृतापि सेवा।  
 भाग्यानि पूर्वतपसा खलु संचितानि  
 काले फलन्ति पुरुषस्य यथैव वृक्षाः॥९७॥
-
-
 
  नैवाकृतिरिति आकृतिराकारो नैव फलति। कुलमभिजनो नैव फलति। शीलं सद्वृत्तं च न फलति। विद्या वेदशास्त्रादिरपि न फलति। यत्नेनोद्योगेन कृता सेवा आश्रयवृत्तिरपि न फलति। यदि सौन्दर्यकुलशीलादिकं न फलति तर्हि किं फलतीत्याह। पूर्वेण पुरातनेन तपसा अहिंसाब्रह्मचर्यादिना संचितानि संगृहीतानि भाग्यान्यदृष्टानि पुरुषस्य यथैव वृक्षास्तरवः काले समये फलन्ति पच्यन्ते तथैव काले फलन्ति ॥ \[ वसन्ततिलका \]
 
@@ -1960,16 +1680,12 @@ Tata Institute of Fundamental Research.
 
  १) तु. सु३. म४. शत्रुंः ना१. शुरं; ना३.४. ग्र २. ३. शक्त्या (शत्रूञ्)। तु२. जयत्याहवे। —२) सु. ना१-४. ग्र २-५ .°सेवनादि; ना५. रा. ते. सेवने च। ना १. ग्र ४. म३. सकलं। तु१. विद्याः खलाः। —३) म२. व्यक्त्वा। मर. परान्; म५. वरं ( परं ) ॥
 
-
-
  भ. ४६५४ (२०८५); शतकावलौ ८६। शा. ४३८ (भर्तृ॰)। सुर. पृ० ७२.२०(भर्तृ)। सुभा. पृ० ९४.११६ ॥
 
 वने रणे शत्रुजलाग्निमध्ये महार्णवे पर्वतमस्तके वा।  
 सुप्तं प्रमन्तं विषमस्थितं वा रक्षन्ति पुण्यानि पुराकृतानि॥९९॥
 
  वन इति॥ बने अरण्ये वा रणे संग्रामे वा शत्रूणां वैरिणां जलस्योदकस्य अग्नेर्वह्र्मेर्मध्ये महत्यर्णवे समुद्रे वा पर्वतस्य शैलस्य मस्तके मूर्ध्नि वा सुप्तं शयालुमपि वा प्रमत्तमनवहितं वा विषमे स्थाने चोरव्याघ्रादिसंकुले स्थितं वा पुराकृतानि जन्मान्तरानुष्ठितानि पुण्यानि सुचरितानि रक्षन्ति पान्ति। एकं भागधेयं मुक्त्वा नान्यच्छरणमस्तीत्यर्थः ॥ \[ उपजाति \]
-
-
 
 १) म१.२. बने जने; म३. परे बने। —२) तु. ग्र२.३. म३. मस्तके च; ना१. संकटे वा; ते२. °कन्दरायां; म४. मस्तकेव। —३) ग्र ४. स्थले (°स्थितं )। तु. ग्र ४. च (बा)। —४) म२. पुरातनानि ॥
 
@@ -1993,8 +1709,6 @@ Tata Institute of Fundamental Research.
 
 शुभमस्तु। श्रीपद्मनाभो रक्षतु।
 
-
-
  १) ना३.४. विशतु (भवति) \। ना३-५, रा. ग्र ५. यस्य। ते१. पुरप्रधानं। —२) तु. ना१.२. ते२. ग्र ४. सर्वे जनाः। तु. सु. ग्र १. म३.५. सुजनताम् (स्वजनताम्)। तु. ना १.२. ते२. ग्र४. उपयान्ति। सु२. यस्य; ग्र २.५. सद्यः (तस्य)।— ३) ना५. कृत्या च। म५. भूमिवति (भूर्भवति ) ॥
 
   भ. ४५९४ (२०५१); सुभाष् . ४१। सुभा पृ० ९२.७४ ॥
@@ -2016,12 +1730,7 @@ Tata Institute of Fundamental Research.
 
  \[ ना२. नीति. १०.१२; अडयार् २९ ई२. नीति ३.४.\] \[म. १०३० (३८९); संस्कृतपाठ पृ० ६२ सुर. पृ० ७४.७ (भर्तृ)। सुभा. पृ० ८३.१५ \]
 
-
-
 ---------00---------  
-
-
-
 
 **शृङ्गारशतकम्।**
 
@@ -2050,8 +1759,6 @@ Tata Institute of Fundamental Research.
 भ्रूचातुर्यात्कुञ्चिताक्षाः कटाक्षाः स्निग्धा वाचो लज्जितान्ताश्च हासाः।  
 लीलामन्दं प्रस्थितं च स्थितं च स्त्रीणामेतद्भूषणं चायुधं च॥३॥
 
-
-
  भ्रूचातुर्यादिति भ्रुवोश्चातुर्यात्पेशलतया कुञ्चिताक्षाः कुण्डलीकृतनेत्राः कटाक्षाः अपाङ्गविलोकितानि। स्निग्धा मसृणा वाचो गिरश्च लज्जितान्ता वीडि तावसाना हासा हसितानि च। लीलया विलासेन मन्दमलसं प्रस्थितं गमनं च स्थितमवस्थानं चेत्येतत् स्त्रीणां भूषणं आभरणमायुधं च। दर्शनीयत्वाद्भूषणं, पुंसां व्यथाजनकत्वादायुधम् ॥ \[ शालिनी \]
 
  १) तु. म१-३. °र्याकुश्चि°; म४.५. °र्थ कुश्चि°। ग्र४. कुश्चितान्तान्ताः; म४. कुश्चितार्थाः। —२) ग्र ४. लक्षितान्ताव; म३. लजितास्ते च। —३) ग्र ४. लीलामन्दप्र ॥
@@ -2065,8 +1772,6 @@ Tata Institute of Fundamental Research.
 
  क्वचिदिति॥ क्वचित्कुत्रचित्सभ्रूभङ्गैः भ्रुकुटिसहितैः क्वचिदपि लज्जया वीडया परिगतैः प्राप्तैः क्वचिद्भूरित्रस्तैः (त्रासैः) बहुलसाध्वसयुक्तैः क्वचिदपि च लीलया शृङ्गारचेष्टया विलसितैः शोभमानैः मदनसुभगैर्मन्मथेन रम्यैः। एतैः कुमारीणां कन्यानां नेत्राणां नयनानां वलितैः परिवर्तितैः दिशः ककुभः स्फुरतां प्रकाशमानानां नीलाब्जानामिन्दीवराणां प्रकरैः समूहैः परिकीर्णा व्याप्ता इव ॥ \[ शिखरिणी \]
 
-
-
 १) तु. सु. ना२. म४.५.सुभ्रूभङ्गै। —२) तु. २. भीतित्रस्तैः; ना१.३.४ ग्र २.३.५.भूरित्रासैः; ना५. भ्रविन्यासैः; म४.५. त्रस्तापानेः (भूरित्रस्तैः)। —३) तु. सु१. ४. म३. नयन°;ना१. म४.५. बदन॰ (मदन ° )। ना५. विभवैः (°बलितैः)।—४) तु.सु. स्फुरल्लोला। म३.परिपूर्णा इति दिशः। तु२. सु. ना१.२.५. दृशः (दिशः) ॥
 
  भ. १९८६ (७७१); शतकावलौ ६१ \। सुभा. पृ० २५३.२९ ॥
@@ -2077,8 +1782,6 @@ Tata Institute of Fundamental Research.
 वाचां हारि च मार्दवं युवतिषु स्वाभाविकं मण्डनम्॥५॥
 
  वक्रमिति॥ चन्द्रवि \[ कासि चन्द्रवद्विकसनशालि \] (लासि चन्द्रवद्विलासि) रम्यं वक्रं मुखम्। पङ्कजपरीहासक्षमे कमलाधिक्षेपशक्ते लोचने नयने। स्वर्णं हाटकम्।
-
-
 
  अपाकरिष्णुः क्षिप्रुः। 'अलंकृतनिराकृते' त्यादिना इष्णुच्। 'न लोके'त्यादिना षष्ठीप्रतिषेधः। वर्णः शरीरवर्णः। अलिनीजिष्णुः भृङ्गाङ्गनापरिभूष्णुः। कचानां कुन्तलानां चयः कलापः। इभस्य गजस्य कुम्भयोः शिरः पिण्डयोविंभ्रमं विलासं हरत इति तथोक्तौ। वक्षोजौ स्तनौ। गुर्वी दुर्वहा नितम्बस्थली। स्त्रीकटिपश्चाद्भागभूमिः। वाचां गिरां हारि वल्गु मार्दवं सौकुमार्य चेत्येतत् सर्व युवतिषु तरुणीषु स्वाभाविकमकृत्रिमं मण्डनं भूषणम् ॥ \[ शार्दूलविक्रीडितम्\]
 
@@ -2093,13 +1796,9 @@ Tata Institute of Fundamental Research.
 
  स्मितमिति॥ तारुण्यं यौवनं स्पृशन्त्याश्चुम्वन्त्या मृगदृशो हरिणाक्ष्याः संबन्धि चेष्टितं किमिव न रम्यम्। सर्वमपि मञ्जुलं हि। तदेव रम्यं चेष्टितमाह। स्मितं मन्दहासः किंचिन्मुग्धं ईषत्प्रौढम्। दृष्टेरवलोकनस्य विभवः संपत्सरलतरलः अजिह्मचलः। वाचां गिरां परिस्पन्दो रचना अभिनवाभिर्नूतनाभिर्विलासोक्तिभिः विलापितैः। रसेन सह वर्तत इति सरसः मधुरः। गतानां गमनानामारम्भ उद्योगः किसलयितलीलापरिकरः पल्लवितलीलाप्रकरः। इवेति वाक्यालंकारे ॥ \[ शिखरिणी \]
 
-
-
 १) तु. १.२. ना२. किंचिद्रकं; सु. किंचिद्धके; ते१. मुग्धं किंचित्। ग्र १. म. तरलतरलो। —२) ते१. °बिलासोपि; ग्र ४. म१.२. °बिलासैक- ('विलासोक्ति-)। तु. -सुरसः; ना२.- रसिकः; ग्र ४. –चतुरः। म१.२. - निलयः; म४. -करसा (सरसः)। —३) तु. सु. गतीनाम्; ग्र १.म१–२. रतानाम्। ना२. किसलयसलीला-; ग्र १. म३. कलयितसुलीला-; म४.५. करिकलभलीला। —४) ना२. ते१. ग्र १. किमिह। तुर. सु. न हिरण्यं; ना१. ग्र २.३.५. हि न रम्यं; ना२. न हि न रम्यं। ना१. मृगदृशाम् ॥
 
  भ. ७२६० (३३१८)। सु. २२३६। ध्वन्यालोके ४ (का० २५. पृ० २९४)। सुभा. पृ० २५५.९। सुर. पृ० २८५२ (भर्तृ)। अलंकारमहोदधौ १५२। साहित्यमीमांसायां ६ (पृ० १००)। हेमचन्द्रस्य काव्यानुशासने ७ (का० ७१, पृ० ३१०) ॥
-
-
 
 द्रष्टव्येषु किमुत्तमं मृगदृशः प्रेमप्रसन्नं मुखं  
 घ्रातव्येष्वपि किं तदास्यपवनः श्राव्येषु किं तद्वचः।  
@@ -2107,8 +1806,6 @@ Tata Institute of Fundamental Research.
 र्ध्येयं किं नवयौवनं सहृदयैः सर्वत्र तद्विभ्रमाः॥७॥
 
  द्रष्टव्येष्विति॥ द्रष्टव्येषु दर्शनीयेषूत्तमं श्रेष्ठं किमिति प्रश्नः। मृगदृशो हरिणाक्ष्याः प्रेमप्रसन्नं प्रेम्णा स्वीकृतं मुखं वदनमित्युत्तरम्। प्रातव्येषु घ्रेयेष्वपि किमुत्तममिति प्रश्नः। तस्या मृगदृश आस्यपवनो मुखमारुत इत्युत्तरम्। श्राव्येषु श्रोतव्येषु किमुत्तममिति प्रश्नः। तद्वचस्तस्या वचनमित्युत्तरम्। खाद्येष्वास्खादनीयेषु किमुत्तममिति प्रश्नः। तदोष्टपल्लवरसः तस्या अधरकिसलयसार इत्युत्तरम्। स्पृश्येषु स्पर्शनीयेषु किमुत्तममिति प्रश्नः। तद्वपुस्तस्याः शरीरमित्युत्तरम्। ध्येयं ध्यातव्यं किमिति प्रश्नः। \[ नवयौवनं नूतनतारुण्यमित्युत्तरम् \] ( नवयौवने नूतनतारुण्ये) सहृदयैरनन्यमनस्कैः कर्तृभिः सर्वत्र सर्वस्मिन्नपि स्थाने तस्या विभ्रमाः विलासा ध्येया इत्युत्तरम्। अपीति सर्वत्र संबन्धः। नेत्रघ्राणश्रवणरसन-स्पर्शनध्यानानां (ध्येयानां) षण्णामपीन्द्रियाणां विषयास्तस्यामेव सन्तीत्यर्थः॥ \[ शार्दूलविक्रीडितम्\]
-
-
 
 १) ना२. मृगदृश। —२) तु. सु. म४.५. च ( अपि )। ते२. पवनं। म३. तद्वयः।—३) तु१. सु. ग्र ४. आखाद्येषुः तु२. अखाद्येषु; ना१.२.४. ग्र २.३. कः खाद्येषु। ना२. पश्येषु (स्पृश्येषु )। तु. तत्तनुर्। —४) ग्र २. ३. यौवने; म२. 'यौवनो। तु. सु१.२. सुहृदयैः; ना२.किमपरं; ग्र १. म३. च हृदये; म४. सहृदये। म४.५. स्त्रीणां विलासान्वितं। तु. सु. ना३- ५. ग्र ५.तद्विभ्रमः; ग्र १. तद्वित्रमं ॥
 
@@ -2122,8 +1819,6 @@ Tata Institute of Fundamental Research.
  एता इति॥ चलतां कम्पमानानां वलयानां करभूषणानां संहतेः समूहात् मेखलाया रशनायाश्च सकाशादुत्तिष्ठन्तीति चलद्वलयसंहति मेखलोत्थाः। झंकारैर्नृपुराणां रवैः मञ्जीराणां शब्दैराहता आकारिता राजहंस्यो राजहंसानांस्त्रियो याभिस्ता पतास्तरुण्यो युवतयो वित्रस्ताभिर्विविग्नाभिर्मुग्धाभिरप्रौढाभिर्हरिणीभिः। मृगीभिः सदृशैस्तुल्यैः। मृगीकटाक्षतुल्यैरित्यर्थः। कटाक्षैरपाङ्गविलोकितैः साधनैः कस्य पुषरुस्य मनश्चित्तं परवशं न कुर्युर्न विदधीरन्। सर्वेषामपि मनः परवशं कुर्वन्ती (कुर्युरि) त्यर्थः॥ \[ वसन्ततिलका \]
 
 नी० श० ९ (भ०श०)
-
-
 
  १) म४. एकाक्ष। सु१.३. मेखलोत्यं; ते. मेघलोत्थ। —२) ना२. 'झुंकार'। तु. सु.रवाजित; रा. ते. म४.५. पराजित; ग्र३ (मू). रवामृत; ग्र ५ रवाहत'; म३ वराहत°(रवाहत )। तु. राजहंसा; सु. ना१.४. ग्र ४. म१. २. हंसाः; ग्र २ (मू). हंस्याः; (मू). 'हंस्युः।—३) तु. सु. विकचं; ग्र२ (मू.). -धिवशं। तु. तरुण्याः। —४) तु. सु. सदृशाक्षपातैः; ग्र ५.सदृशाक्षिपातैः ॥
 
@@ -2147,16 +1842,12 @@ Tata Institute of Fundamental Research.
 
  १) म२. सुकवयो (कविवरा)। तु.सु. ग्र ४. ५. म४.५. रीतबोधा। —२) तु. ना२. कामिनीनां; सु कामिनीहिं; ना३.४. ग्र २.३. कामिनीर्याः; ना५ कामिनीति। —३) ग्र. १. ३. यासां; ग्र २( मू.). ताभिर् (याभिर् )। ग्र ४. म४. कातर° ( 'तारक )। —४) म२. ईशाद° (शकाद° )। तु. अबलाः; ना२. ह्यबलाः (स्वबलाः ) ॥
 
-
-
  भ. ३८०४ (१६३५)। सु. १२८७। सुभा. पृ० २५२.४२।सुर.पृ० २७२.२० (भर्तृ॰)।
 
 नूनमाज्ञाकरस्तस्याः सुभ्रुवो मकरध्वजः।  
 यतस्तन्नेत्रसंचारसूचितेषु प्रवर्तते ॥ ११ ॥
 
  नूनमिति॥ मकरध्वजो मदनस्तस्याः सुभ्रुवः सुन्दर्या आज्ञाकरो निदेशकारी। नूनं निश्चयः। यतः यस्मात्कारणात् तन्नेत्रसंचारसूचितेषु तस्या नेत्रयोर्नयनयोः संचारेण प्रचारेण सूचितेषु निर्दिष्टेषु प्रवर्तते संचरति। तस्मान्मकरध्वजः सुध्रुव आज्ञाकर एव ॥ \[ अनुष्टुप् \]
-
-
 
 २) ग्र १. म१-४. सुदृशो ( सुभ्रुवो )। —३) तु. यस्तद्भूभङ्गसु. यत्तद्भूभङ्ग; ना२. यद्भङ्ग-नेत्र ं; ना५. यन्नेत्र॰ ( यतस्तन्नेत्र )। तु.सु. संचारैः; ना २. संचारः ॥
 
@@ -2173,14 +1864,10 @@ Tata Institute of Fundamental Research.
 
  स. १९१६ (७३९)। सुभा. पृ० ३१४.६९। सुर.प्रु० २८५.३ (भर्तृ)॥
 
-
-
 मुग्धे धानुष्कता केयमपूर्वा त्वयि दृश्यते।  
 यया विध्यसि चेतांसि गुणैरेव न सायकैः॥१३॥
 
  मुग्ध इति॥ हे मुग्धे उदयद्यौवने अपूर्वा पूर्वं न दृष्टा इयं त्वयि वर्तमाना धानुष्कता धनुर्धरत्वं का। इत्थमिति वक्तुं न शक्या सती दृश्यते। मयेति शेषः।अपूर्वत्वमेव विशिनष्टि। ययेति। यया धानुष्कतया कर्त्र्यांगुणैर्मौर्वीभिरेव सुगुणैरेव करणैः चेतांसि चित्तानि विध्यसि वेधनं करोषि। सायकैर्वाणैस्तु न विध्यसि। धानुष्कस्य वाणैर्मर्मवेधनं लोकप्रसिद्धम्। एतस्या धानुष्कतायास्तु गुणैर्मनोवेधनमुक्तम्। इत्यनेन इयं वाला स्वसौन्दर्यादिगुणैरेव सकललोकचित्ताकर्षिणी जातेति तात्पर्यम् ॥ \[ अनुष्टुप् \]
-
-
 
 २) ग्र १. म३. पूर्वता (अपूर्वा)। तु. ना २. तव; ते १. दृषि (त्वयि )। — ३) ना १. विन्ध्यसि; म १.३. विध्यति। —४) ना५. गणैरेव ॥
 
@@ -2190,8 +1877,6 @@ Tata Institute of Fundamental Research.
 विना मे मृगशावाक्ष्या तमोभूतमिदं जगत्॥१४॥
 
  सतीति ॥ प्रदीपे प्रकृष्टदीपे सति। अर्कै सूर्ये सत्यपि। तारामणीन्दुपु नक्षत्र रत्नचन्द्रेषु सत्सु। एतेषु विद्यमानेषु सत्स्वित्यर्थः। मे मम मृगशावाक्ष्याः मृगीदृशा विना अन्तरेण इदं परिदृश्यमानं जगत् लोकः तमोभूतमन्धीभूतम्।तरुणीमन्तरेण मे सकलं जगदन्धकारमिव तिष्ठतीत्यर्थः ॥ \[ अनुष्टुप् \]
-
-
 
 १) रा. ते. सत्यग्नौ( सत्यर्कै)।— २) तु. तारासु चन्द्रमा।—३) ते१. तन्;– म४. ५. तु(मे)। ना १.२. ग्र१–३. मृगशावाक्ष्यास् ॥
 
@@ -2204,8 +1889,6 @@ Tata Institute of Fundamental Research.
 
  उद्वृत्तेति॥ उद्वृत्तः उन्नतवर्तुल उद्धतश्च। एषः स्तनभारः कुचभारः तरले लोले चापल्ययुक्ते च नेत्रे नयने। चले चञ्चले चपलखभावे च। भ्रूलते भ्रूवक्ष्यौ
 
-
-
  { रागाधिष्ठितं रागेण लौहित्येन मात्सर्येण चाधिष्ठितं तद्भूयिष्ठमित्यर्थः। -रा- } ( रागावेष्टितं रक्तिमावृतं मात्सर्याविष्टं च ) इदमोष्ठपल्लवं अधरकिसलयं { व्यथां मनःपीडां कुर्वन्तु नाम नामेति कुत्सायाम्-रा-} (कामव्यथां मन्मथबाधां प्रकृष्टपीडां च) कुर्वन्तु विद्धतु। पुष्पायुधेन मदनेन सौभाग्याक्षरपङ्किरेव सौन्दर्यवर्णराजि-रेव लिखिता रोमावली रोमपङ्किः स्वयं मध्यस्थापि अवलग्नस्थितापि मध्यस्थभावं : गतापि \[ केन वा हेतुना \] अधिकमत्यन्तं तापं बाधां करोति विदधाति। लोके उद्धताश्चपला अव्यवस्थामात्सर्याविष्टाः जनस्यात्यर्थ वाधां कुर्वन्ति। मध्यस्थस्तु न बाधते। हे वनिते तवोद्वृत्तः स्तनभारस्तरले नेत्रे चलद्धुलते (रागावेष्टितमोष्ठपल्लवं) कामव्यथां कुर्वन्तु। तथैव पुष्पायुधेन लिखितैषा सौभाग्याक्षरपङ्किरेव रोमराजिः स्वयं मध्यस्थाप्यधिकतापकारिणी जातेत्यनेन रोमावल्याः स्तननेत्रादिभ्योऽतिशयेन। दर्शनीयत्वं मदनोद्दीपकत्वं च व्यज्यते ॥ \[ शार्दूलविक्रीडितम् \]
 
  १) तु. ना२. ते. ग्र १-४, उद्धृत्त –। ना५. चचञ्चलद्-। ग्र १. म३. नेत्रे च तद्-(नेत्रे चले)।—२) ना१.३.४. ग्र २.३. रागावेष्टित°। तु१. °तदोष्ठ° (° तमोष्ठ° )। ना१. पल्लवदलं। ना१. कामं; ना३.४. ग्र २.३. म५. काम- (नाम)। —३) ना३.४. सौभाग्याघर। तु. रा. ते. ग्र ४.५. म५. “मालिकेव; ना१. ॰पङ्क्तिरेव; ना२. पङ्क्तिकेव। —४) तु२. तापमनिशं। ना३-५. रा. ते. रोमावलिः। तु२. ना१. मे; ना२. ते२. म४.५. सा; ते १. ता (वा) ॥
@@ -2217,8 +1900,6 @@ Tata Institute of Fundamental Research.
 
 मुखेनेति॥ सा रमणी चन्द्रकान्तेन चन्द्रवद्रम्येण चन्द्रकान्तमणिना चमुखेन आननेन महानीलैरत्यन्तश्यामलैरिन्द्रनीलैश्चशिरोरुहैः केशैः पद्मरागाभ्यां कमलारुणाभ्यां पद्मरागरत्नाभ्यां पाणिभ्यां हस्ताभ्यां रत्नमयीव श्रेष्ठस्वरूपेव रेजेबभौ। 'रत्नं मणौ च श्रेष्ठे चेति विश्वः। तस्या मुखादीनां चन्द्रकान्तादिविशेषणैः रत्नमयीत्वं द्योत्यते ॥ \[ अनुष्टुप् \]
 
-
-
 २) सु१.२. सरोरुहैः। —३) रा. ना३. कराभ्यां (पाणिभ्यां )।— ४) ना२. रत्नमयैव सा ॥
 
  भ. ४८८५ (२२११)। शा. ३३७१ \। सु. १२३६ \। सुमु. ५३.९७ (शकवृद्धेः)। सुभा, पृ० २७०.२। सुर. पृ० २७२.१९ (भर्तृ॰) ॥
@@ -2227,9 +1908,6 @@ Tata Institute of Fundamental Research.
 शनैश्वराभ्यां पादाभ्यां रेजे ग्रहमयीव सा॥१७॥
 
  गुरुणेति॥ सा तरुणी गुरुणा अधिकेन स्तनभारेण भास्वता प्रकाश्य\[श\]मानेन मुखचन्द्रेण आननशशिना शनैश्चराभ्यां मन्दसंचाराभ्यां पादाभ्यां चरणाभ्यां ग्रहमयी ग्रहस्वरूपेव रेजे चकाशे। ग्रहमयीत्वमस्या गुरुचन्द्रभाखच्छनैश्वरैः द्योतितम् ॥ \[ अनुष्टुप् \]  
-
-
-
 
  \[ ग्र ४. कोशेऽयं श्लोका नास्ति \] २) ते२. मुखे चन्द्रेण। ग्र १. भासता। —३) ते१, शनैश्वराभ्यां।— ४) तु१, ग्राहमयीव; ग्र १.गृहमयीव॥
 
@@ -2253,8 +1931,6 @@ Tata Institute of Fundamental Research.
 
  इम इति॥ इमे परिदृश्यमानाः तारुण्यश्रीनवपरिमलाः यौवनलक्ष्मीनूतनसुरभयः तारुण्येनाभिरामा इत्यर्थः। प्रौढसुरतप्रताषप्रारम्भाः गाडरतिप्रतापोद्योगाः प्रौढरतिकरवाञ्छा इत्यर्थः। स्मरविजयदानप्रतिभुवः मन्मथजयदानलझका 'स्युर्लग्नकाः प्रतिभुव' इत्यमरः ( मन्मथजयदानदक्षाः)। चेतश्चोराश्चित्ततस्कराः सकलजनमनोहरा इत्यर्थः। अभिनव विकारैकगुरवः नूतनचेष्टामुख्याचार्याः मृगदशां स्त्रीणां विलासव्यापाराः लीलाव्यापाराः किमपि इत्थमिति बक्तुमशक्यं यथा तथा चिरमनेककालं विजयन्ते सर्वोत्कर्येण वर्तन्ते ॥ \[ शिखरिणी \]
 
-
-
  
 
 १) तु सु. ग्र ४. परिमल -, ते२. परिमिलाः। ग्र ४. प्रौढसुरता।—२) म४.५. प्रदोष ( °प्रताप )। ग्र४. °प्रारम्भ-। ग्र१. °मान (°दान ° )। —३) ना१.२. ग्र ३. त्वभिनव°। ग्र ४. म२.३. ० बिलासैकगुरवो। —४) ग्र १. म२. ३. विशाल° ( विलास )। ग्र २ ( मू.). ४. किमिव(किमपि )। ग्र १. म३. मृगदृशः ॥
@@ -2268,8 +1944,6 @@ Tata Institute of Fundamental Research.
 
   प्रणयेति॥ प्रणयमधुराः प्रणयेन प्रेम्णा मधुरा ललिताः प्रेमोगाढाः स्नेहपरिपूर्णाः \[ रसाईयुतास्तथा \] (रसैः कृतनिर्भराः) भणितिमधुराः भणनरम्याः मुग्धप्राया अतिसुन्दराः \[प्रकाशितसंमदाः\] {प्रकाशितः प्रकटीकृतः संमदो हषों यैस्ते -सु-} (प्रकाशितमन्मथाः प्रकटीकृतकुसुमायुधाः)। प्रकृति सुभगाः स्वभावतो मनोहराः विस्रम्भार्द्राः विश्वासाहु ( 'सापर) ताः सरोद्यदायिनः कामोदयदायिकाः मन्मथाविर्भावहेतवः मृगीदृशां हरिणेक्षणानां किमपि इत्थमपि \[ मिति ?\] वक्कुमशक्यं। यद्वा किं वेदि \[ वेति ?\] काकुः \[खैरालापाः \] {नर्मोक्तयः -रा- } (स्मेरालापाः ईषद्धाससहितभाषितानि ) हरन्ति गृह्णन्ति। मे मनः इति शेषः ॥
 
-
-
  \[ म४.५. कोशयोः अडयार् २२. बी. १० कोशे च नास्ति। १) तु. सु. ना१.५. प्रेमोद्वारा; ना४. रा. ते. ग्र ४. ५. प्रेमोदारा। तु. सु. रसादलसास्तथा; ना१. रसार्द्रयुतास्तदा; ना२. रसार्द्रतराः सुधा-; ना३.५. रा. ते. रसाश्रयतां गताः; ग्र १. रसाई यथा तथा; ग्र ३. रसैः कृतनिर्भरा; ग्र ४,रसादयो यथा; ग्र५. रसाश्रयतां तथा; म१. रसार्द्रकराः सुधा; म२. रसोदयधातवो; म३. रसार्द्रतया तथा। —२) तु. सु. भणित -; ना१. ग्र ४. प्रणति
 -; ना३-५. रा. ते२. फणिति -; ते १. पणिति-; ग्र २. प्रणित -। म३. मधुना। ग्र ३. मुग्धाः प्रायाः। ना१.३ २.३.५. मन्मथाः ; ग्र १.४. मर.३. संमताः (°संमदाः)। —३) २ (मू). प्रकृतिस्वभगा। तु१. सु. विलम्भार्हाः, तुर, विधम्भार्हाः; ना१. विश्रम्भार्द्राः; ना २ विश्वम्भाः ते२ विसम्भवाः; २. म१३. विनम्मा ४) म३. हरसि ( रहसि )। सु. म३. कमपि ( किमपि )। ना१.३.५. ग्र २.३. मेरालापा। ग्र ४. जयन्ति ( हरन्ति )। म३. मृगीदृशः ॥
 
@@ -2281,9 +1955,6 @@ Tata Institute of Fundamental Research.
 गात्राणि पात्राणि विलासिनीनां मध्यं च वेदी भणितं च मन्त्राः॥१॥
 
 \[ तु. शृङ्गार. २१ \]  
-
-
-
 
 **मधुरमधुरस्निग्धं चाङ्गं सुचन्दनरूपितं**  
 **मृदुभुजलतापाशाचामी सुकङ्कणभूषिताः।**  
@@ -2317,8 +1988,6 @@ Tata Institute of Fundamental Research.
 मालती शिरसि जृम्भणोन्मुखी चन्दनं वपुषि कुङ्कुमाविलम्।  
 वक्षसि प्रियतमा मदालसा स्वर्ग एष परिशिष्ट आगमः॥२३॥
 
-
-
  मालतीति॥ शिरसि मस्तके। केशपाशे इति यावत्। जृम्भणोन्मुखीविकासाभिमुखी। मालती। जातिपुष्पमालिकेति यावत्। वपुषि देहे। कुङ्कुमाविलं घुसृणकलुषितं चन्दनं चन्दनचर्चा। वक्षसि हृदये मदालसा प्रमदविक्लवा प्रियतमा कामिनी। एषः अयमेव स्वर्गः त्रिविष्टपः। आगमः वेदशास्त्रादिस्तु परिशिष्टः अवशिष्टः ॥ \[ रथोद्धता\]
 
  १) ना३-५. रा. ते. ग्र५. जृम्भणं मुखे; ग्र४. जृम्भणोन्मुखा; म२ जृम्भणोन्मुख; म५. भृङ्गिणोन्मुखी।—२) ग्र १.३.४. म. कुङ्कुमारुणं (ग्र३. माविलम् इत्यपि।—३) तु१. वक्ष्यसि। ग्र १. मदालस; म४.५. रसालसा। —४) ग्र १.२.४ म१-३. एव (एष )। तु.सु. परितुष्ट; ना५.परिसिद्धिर्। तु. सु. ना१.२. म. आगतः ॥
@@ -2332,8 +2001,6 @@ Tata Institute of Fundamental Research.
 
  प्रागिति। प्राक्प्रथमं मा मेति मनागीषदनागतरसं अज्ञातशृङ्गारं ततोऽनन्तरं जाताभिलाषं उत्पन्नवाञ्छं तद्नु ततः सव्रीडं सलज्जं अनुक्रमेण श्लथोद्यमं गलितोद्यमं पुनः अपि च प्रत्यस्तधैर्य त्यक्तधीरत्वं प्रेमार्द्र हार्दक्लिन्नं ततः परं स्पृहणीयनिर्भररहःक्रीडाप्रगल्भं अभिलषणीयात्युत्कटरहस्यक्रीडाप्रगल्भं निःसङ्गाङ्गवि(नि)कर्षणाधिकसुखं निरर्गलदेहविक (घ) र्षणात्यन्तसुखं कुलस्त्रीणां स्वभार्याणां रतं रतिः रम्यं मनोहरं भवतीति शेषः ॥ \[ शार्दूलविक्रीडितम् \]
 
- 
-
 १) तु. प्राग्वामेति; ग्र १. म३. प्रज्ञामेति (प्राच्यामेति)। तु. मनोरमागतगुणं; ग्र१. म३. मनागनारतरतं; म४.५. मनागसंगतरसं। सु३. जाताभिलाषा। —२) ग्र १. म२.३. तदयो ( तदनु )। तु. श्लषीकृततनु; ना३-५. रा. ते. ग्र ५. लथोद्यममथः प्रा. मिथोद्यममनु प्र४. उषोद्धतमनः म४. श्वथन्कचभरं; म५. थत्कचभरं ना२. प्रध्वस्थ ; ना५. रा. ते. ग्र५. म४.५. प्रध्वस्त ग्र १. म२.३. व्यत्यस्त। —३) ना३.४. प्रेमाई ना५. रा. ते. ग्र१.५. म. प्रेमार्द्र। ग्र २(मू.). 'गर्भर'; म४.५ °मन्मथ (°निर्भर°)। तु. 'रसक्रीडा; ग्र १. म३. 'रहःप्रौढ। म४. रणक्रीड़ा. —४) तु. निःशङ्काङ्क; सु. निःशङ्काङ्ग; म४.५ निःसङ्गादिव। सु२. विघर्षणाधिक"; ग्र१. म १-२. °विकर्षणोदित ; ग्र २.३.५ °निकर्षणाधिक; म४. ५. कर्षणाधिक। म३. रम्यं च कुस्तीवृतम्॥
 
   भ. ४२९९ (१८८५); शतकावलौ ६४; प्रसङ्गाभ°. ९। सु. २२४२। सुभा. पृ०३१७.७
@@ -2342,8 +2009,6 @@ Tata Institute of Fundamental Research.
 मुकुलितनयनानां किंचिदुन्मीलितानाम्।
 
 नी० श० १० (म० श०)
-
-
 
 उपरिसुरतखेदखिन्नगण्डस्थलीना-  
 मघरमधु वधूनां भाग्यवन्तः पिबन्ति ॥ २५ ॥
@@ -2368,11 +2033,7 @@ Tata Institute of Fundamental Research.
 
  इदमिति॥ पुंसां पुरुषाणामिदमेतदनुचितमयोग्यम्। अक्रमः व्युत्क्रमश्च। यत् यस्मात्कारणात् इहास्मिन् जरास्वपि वार्धक्येष्वपि मान्मथा मदनसंबन्धिनो
 
-
-
  विकाराश्चेष्टाः। उद्गच्छन्तीति शेषः। अपि च किञ्च तत्तस्मात्कारणात् नितम्विनीनां स्त्रीणां स्तनानां कुचानां पतनावधि पतनपर्यन्तं जीवितं प्राणधारणं रतं सुरतं वा {न कृतं तदप्यनुचितम् सु ॥ न कृतमिति यत्। ब्रह्मणेति शेषः। तदिति संबन्धः -रा-} (निकृतं निन्दितम्) तदिदं पुंसां वृद्धत्वेऽपि च सुरतवाञ्छा स्त्रीणां स्तनपतनपर्यन्तं प्राणधारणं वा सुरतं वा निकृतमेवेति भावः॥ \[ पुष्पिताग्रा \]
-
-
 
 १) सु. आश्रमस्थ-; ग्र ४. म४. ५. अक्रमं च। —२) सु१. जरासु मन्मथा; सु२, जरामु मान्मथा। ना१. म१.२. मान्मथो; ग्र २ (मू.). मन्मथा। ग्र २ (मू). म१.२. विकारः। —३) ग्र १.४. यदपि ना३. म१.२.४ विकृतं; ना५. २.३.५. म३.५. निकृतं; प्र१. निकृतिर् —४) २ (सू.). पतनादधि ॥
 
@@ -2394,16 +2055,12 @@ Tata Institute of Fundamental Research.
 रागस्यागारमेकं नरकशतमहादुःखसंप्राप्तिहेतु-  
 मोहस्योत्पत्तिबीजं जलधरपटलं ज्ञानताराधिपस्य।
 
-
-
 कन्दर्पस्यैकमित्रं प्रकटितविविधस्पष्टदोषप्रबन्धं  
 लोकेऽस्मिन्न ह्यनर्थव्रजकुलभवनं यौवनादन्यदस्ति॥२९॥
 
  रागस्येति॥ रागस्यानुरागस्य एकं मुख्य अगारं निलयः। नरकाणां निरयाणां शतैः समूहैः महादुःखस्य अत्यन्तकष्टस्य संप्राप्तेरागमस्य हेतुः कारणम्। मोहस्याज्ञानस्योत्पत्तेर्जननस्य बीजं कारणम्। ज्ञानताराधिपस्य ज्ञानचन्द्रस्य जलधरपटलं मेघसंघः। कन्दर्पस्य मन्मथस्य एकं मित्रं मुख्यबन्धुः। प्रकटितानां प्रख्यातानां विविधानां नानाविधानां स्पष्टानां दोषाणां पापानां प्रबन्धं ग्रन्थिः। अथ वा प्रख्यातनानाविधशब्दार्थवाक्यगतदोषाणां प्रबन्धं काव्यम्। अस्मिल्लोके भुवने यौवनात्तारुण्यात्। अनर्थव्रजकुलभवनं अनर्थसंघकुलजन्मस्थानम्। अन्यत् अव
 
 शिष्टं नास्ति न विद्यते। यौवनमेव सकलानर्थहेतुरित्यर्थः॥ \[ स्रग्धरा \]
-
-
 
 १) ग्र१. ३ (मू). ५. म१-४ . स्याकार। सु१. २. ग्र ५. संप्राप्तहेतुर ;म५. "संप्राप्तिहेतुं। —२) ग्र ४. तारापथस्य। —३) तु१. ग्र २ (मू.). विविधस्पृष्ट ग्र१. विविधस्पर्श ग्र ४. विभबस्पष्ट॰। ग्र१. म१. २. दोषप्रवृद्धं; ग्र ४. म४. ५ दोषप्रशङ्ग। —४) ग्र १. म१. २ अपि (हि)। तु२. ह्यनर्थ। तु. स्मरकुसुमवनं; सु ब्रजकुसुमवनं। ग्र १. म १. २. अस्ति नान्यत् ॥
 
@@ -2415,8 +2072,6 @@ Tata Institute of Fundamental Research.
 धन्यः कोऽपि न विक्रियां कलयति प्राप्ते नवे यौवने॥३०॥
 
  शृङ्गारेति॥ { शृङ्गारः संभोगविप्रलम्भरूपशृङ्गाररस एव हुमो वृक्षः तस्य नीरदे अम्बुवाहे-रा-} (संसारदुमस्य भवपादपस्य नीरदे जलदे) प्रसृमरस्य विसृत्वरस्य क्रीडारसस्य लीलारागस्य स्नोतसि प्रवाहे। प्रद्युम्नस्य कुसुमायुधस्य प्रियवान्धवे अभीष्टखजने। चतुरवाचां पेशलवचसामेव मुक्ताफलानां मौक्तिकानां उदन्वति रत्नाकरे। तन्वीनां तरुणीनां नेत्राणि लोचनान्येव चकोराञ्चन्द्रिकाहाराः पक्षिविशेषाः। तेषां पार्वणविधौ पूर्णिमासुधाकरे। सौभाग्यलक्ष्म्याः सौन्दर्यश्रियो निधौ शेवधौ। एवंगुणविशिष्टे नवे नूतने यौवने तारुण्ये प्राप्ते समागते सति कोऽपि धन्यः कृतार्थः विक्रियां मन्मथविकृतिं न कलयति न प्राप्नोति। न तु सर्वः।नवयौवनमेव संसारदुमवृद्धिहेतुत्वान्नीरदः। संसारवृद्धिश्च स्रक्चन्दनवसनवनितादिभोगबाहुल्यात्। क्रीडारसस्रोतांसि यौवन एव बहुलीभवन्ति न बाल्यवार्धकादौ। प्रद्युम्नोऽपि यौवनमेवालम्ब्य लोकान्विजयते। तस्माद्यौवनं प्रद्युम्नस्य प्रियबान्धवः। चतुरा वाचो यौवन एवोन्मिपन्ति। यौवनमेव तन्वीनेत्रचकोराणां पार्वणविधुर्भवति। यस्मात्तन्व्या युवान एव नेत्रैः पीयन्ते ( ईक्ष्यन्ते)। यौवनमेवसौभाग्यलक्ष्म्या निधिर्भवति। यस्माद्दर्शनीयोऽपि तारुण्ये सुभगतमो भवति॥ \[ शार्दुलविक्रीडितम् \]
-
-
 
  १) सु. ना१. ग्र २.३.५. संसार—; म४. शृङ्गारे। म४.५. नीरसे। म४. प्रसूमरे। ना३-५. ग्र ४.म३. क्रीडासर। —२) म ४. ५. प्रद्योतप्रिय। तु. सु. चतुरता- ; ग्र १-३ चतुरवान्; ग्र ४. चपलता –; म४.५ पितुरवान्। म३. दश्चति ( दन्वति )। —३) ग्र ४. म३. ५. पारणविधौ। ग्र १. लक्ष्मीविधी। —४) तु. रा. ग्र ४.५. कलयते ॥  
 
@@ -2442,11 +2097,7 @@ Tata Institute of Fundamental Research.
 
  सिद्धाभ्यासितेति॥ सिद्धैर्देवयोनिभिः अध्यासितकन्दरेऽधिष्ठितदरीके हरस्य परमेश्वरस्य वृषेण शाकरेण स्कन्धेन ककुदेन। वृषेणेति कर्तरि तृतीया। अवरुग्ण-द्रुमे भग्नपादपे गङ्गया भागीरथ्या धौतानि क्षालितानि शिलातलानि ग्रावस्वरूपाणि यसिस्तादृशे। स्थिरशब्दात् 'द्विवचनविभज्योपपदे तरबीयसुनौ' इति ईयसुनि
 
-
-
  कृते 'प्रियस्थिरस्फिरोरुबहुलगुरुवृद्धतृप्रदीर्घवृन्दारकाणां प्रस्थस्फवबंहिगवर्षित्रद्राधिवृन्दाः' इति \[स्थिरशब्दस्य स्थादेशे गुणे च रूपम्\]। स्थेयसि स्थिरतरे। हिमवतो हिमाचलस्य संबन्धिनि स्थाने प्रदेशे स्थिते विद्यमाने सति। शिरसो मस्तकस्य प्रणामेन हेतुना मानं चित्तसमुन्नति मलिनं गतश्रीकं मनस्वी धृतिमान्को जनो लोकः कुर्वीत विदधीत। न कोऽपि कुर्वीतेत्यर्थः। वि (उत्) त्रस्तानामुद्विग्नाकुरङ्गशावानां हरिणशिशूनां नयनानि नेत्राणि यासां ताः स्त्रियो नार्य एव सरास्त्रं मन्मथवाणः यदि न स्युर्न भवेयुः। मनस्विनोऽपि जना नारीनिमित्तमेव स्वकीयं मानं मलिनयित्वा तपोविमुखाश्च भूत्वा धनिकान् प्रणमन्तीत्यर्थः ॥ \[ शार्दूलविक्रीडितम्\]
-
-
 
 १) ना२. सिद्धाध्यूषित। तु. कन्धरे। ते१. हरिबृष। ग्र २(मू.). स्कन्दावरुग्न; ग्र ४.॥ °स्कन्धादिरुग्ण। —२) ना१. ग्र२.३ (टी). म१- ३. स्थिते स्थेयसि; ना२, स्थितः स्थेयसे; ना४.५. स्थिते प्रेयसि; ग्र१. शुभे स्थेयसि; ग्र ३ (मू.). स्थितः श्रेयत्ति ; ग्र ४ सिते प्रेयसि; म४.५. स्थितप्रेयसि।—३) म३. परप्रणाम। ना२. मानी; ना३-५. रा. ते. म्लानं। —४) ना१. ग्र २. ३.५. यद्युत्रस्त॰; ग्र३ (मू.). यद्यत्रस्थ; म४.५. यद्यात्रस्त—। तु. सु. ना. शाव° ( 'शाब' )। म३.स्मरात्नाः ॥
 
@@ -2457,8 +2108,6 @@ Tata Institute of Fundamental Research.
 
   संसारेति॥ संसार तव पर्यन्तस्य परिसरभूमेः पदवी पद्धतिः दवीयसी दूरतरा न भवति। संसारमध्यमङ्गानां प्राणिनां त्वां निस्तीर्य पर्यन्तपदवीं गन्तुं सुलभमेव। दुस्तरो न भवति। दवीयसीति दूरशब्दादीयमुनि 'स्थूलदूरयुवहस्वक्षिप्रक्षुद्राणां यणादिपरं पूर्वस्य च गुणः' इति र इत्येतस्य लोपे पूर्वस्य दू इत्यत्रोकारस्य ओकारे गुणेऽवादेशेकृतेदद्वीयस् इत्येवं निष्पन्नम्। 'कृत्तद्धितसमासाश्चेति प्रातिपदिकसंज्ञायां 'उगित'श्चेति ङीपि रूपम्। यदि दुस्तरा लङ्घयितुमगोचरा मदिरेक्षणा मदहेतुभूतनयना नार्यः अन्तरा मध्ये न स्युर्न भवेयुः। नार्य एव संसारनिमज्जनहेतवः नान्यत्। तस्मान्नार्यः अन्तरा न चेत्संसारः सुतर इत्यर्थः ॥ \[ अनुष्टुप् \]
 
-
-
  १) तु. संसारस्तव। ना१ (शोधनात्परं ). तट; ना२. म३-५. ताप; ग्र १. म२. 'दाव; म १. °सार" (तब )।— ४) ना१. यदीमा; ना३.४. ग्र २.३. यदिमा; रा. ते. यदि ते; ग्र १. म१-४. यदि चेन्; ग्र ४. म५. यदिमे। तु१. मन्दिरेक्षणाः; ना२. मदिरेक्षणः; म३. मदिरेक्षणा ॥
 
  भ. ६६४३ (३०८२); काव्यस° ६०; सुभाष्.३७। शा. ४१९३। सुर. पृ० ९९.१
@@ -2468,8 +2117,6 @@ Tata Institute of Fundamental Research.
 
 **दिश वनहरिणीभ्यो वंशकाण्डच्छवीनां  
 कवलमुपलकोटिच्छिन्नमूलं कुशानाम्।**
-
-
 
 शकयुवतिकपोलापाण्डुताम्बूलवल्ली-  
 दलमरुणनखात्रैः पाटितं वा वधूभ्यः ॥ ३४ ॥
@@ -2491,8 +2138,6 @@ Tata Institute of Fundamental Research.
 
   भ. ७७६ (२८९); शतकावली ६८ ॥
 
-
-
 मात्सर्यमुत्सार्य विचार्य कार्यमार्याः समर्यादमिदं वदन्तु।  
 सेव्या नितम्बाः किमु भूधराणामुत स्मरस्मेरविलासिनीनाम् ॥३६॥
 
@@ -2509,11 +2154,7 @@ Tata Institute of Fundamental Research.
 
  संसार इति ॥ स्वप्नसारे स्वप्नसंदर्शनतुल्येऽस्थिरांशे परिणतौ परिपाके विरसे अस्वादौ। (परिणतितरल इति पाठे परिपाकेन हेतुना तरले चञ्चले) संसारे भवे पण्डितानां विदुषां द्वे गती द्वौ मार्गों। गती एव दर्शयति। तत्त्वज्ञानं ब्रह्मज्ञानमेव अमृताम्भस्यमृतजलधौ प्लवेन निमज्जनेन लुलितधियां व्यासक्तबुद्धीनां सतां कदा-चित् एकदा कालोऽनेहा यातु गच्छतु। नो चेदेवं न भवति चेत् स्तनानां जघनानां च घनेन महता आभोगेन विस्तारेण संभोगिनीनां संभोगवतीनां मुग्धाङ्गनानां सुन्दराङ्गवतीनाम्। 'मुग्धः सुन्दरमूढयोरिति' विश्वः। स्थूलोपस्थस्थली (ले) पुपीवरमदनसदनप्रदेशेषु स्थगितेनाच्छादितेन करतलेन हस्ततलेन { स्पर्शः संपर्कः" स एव लीला तत्रोद्यम उद्योगो येषां तेषां- रा-} स्पर्शे स्पृष्टौ लोलोद्यमानां सतृष्णोद्योगानाम्। 'लोलञ्चसकृष्ण यो रित्यमरः। सतां कदाचित् कालो यातु ॥ \[स्रग्धरा \]
 
-
-
 १) तु. मु. ऽस्मिन्नसारे; ना१.२.५ ग्र१. म. स्वल्पसारे; ना १ ( प्रान्ते ).स्वल्वसारे तु. सु. ग्र२(मू.). ५. म१-३. बिरसे ('तरले)। —२) तु. सु. ज्ञानाम्बुराशौ; ग्र१. ज्ञानाद्भ-
-
-
 
 वाम्भः। तु. सु. ना२. श्रुत ना१-३.५. रा. ते. ग्र१. 'ललित; ना४. ग्र४. 'तुलित'। सु.०धिया। ग्र२ (मू.). म३. कालाः ; ग्र४. कामः ( कालः )। रा. ते.ग्र१.५. म१.२.४. कथंचित् ; ग्र ३.कथंचित् (इत्यपि )। —३) तु१. ना३-५. रा. ते ग्र ५. स्तनघनजघना ना२. स्तनजघनभरा;म३. स्तनभरजघना'। ना२. संसर्गिणीनां।—४) तु. सु. ग्र २.३. °स्थस्थलेषु; ना१. °स्थस्थलान्तः-;ना३.४. स्थस्थलान्त; ग्र५. स्थान्तराल; म१.२. °स्थत्रिकोण (°स्थस्थलीषु)। ग्र४ त्रुटित( "स्थगित" )। ना १. लोलोज्यमानां; ना२. संमीलितानां; रा. ते. ग्र १. म३-५. लीलोद्यमानां; ग्र ४.म१.२. लीलोद्यतामां ॥
 
@@ -2542,14 +2183,10 @@ Tata Institute of Fundamental Research.
 
 नी० श० ११ (भ० श०)
 
-
-
 सत्यं जना वच्मि न पक्षपाताल्लोकेषु सप्तस्वपि तथ्यमेतत्।  
 नान्यन्मनोहारि नितम्बिनीभ्यो दुःखैकहेतुर्न च कश्चिदन्यः ॥ ४० ॥
 
  सत्यमिति॥ हे जना लोकाः सत्यं यथार्थं वच्मि वदामि। पक्षपातात्स्त्रीपक्षावलम्वनात् न वच्मि। सप्तस्वपि लोकेषु भुवनेषु भूर्भुवःसुवरादिषु एतद्वक्ष्यमाणंवाक्यं सत्यं तथ्यम्। किं तदित्याह। नितम्विनीभ्यो युवतीभ्योऽन्यद्वस्तु। 'अन्यारादितरतें' त्यादिना पञ्चमी। मनोहारि रमणीयं नास्ति। दुःखस्य व्यथाया एको हेतुरसहायं कारणं च कश्चित्कोऽप्यन्य इतरो नास्ति ॥ \[ इन्द्रवज्रा \]
-
-
 
 \[ अडयार्. २८. एम्. ५६ कोशे नास्ति \] १) तु. सु. सत्यं जनान्; म१.५. भो सज्जना। ग्र १. म४. ५. पक्षपातो; म१.३. पक्षपातं। —२) तु. ग्र १.२.४.म१.२. सत्यमेतत्; म४.५. मध्य-७ मेतत्। —३) तु२. म३-५. नान्यं। ना२. विलासिनीभ्यो —४) ग्र २ (मू.). दुःखस्य; ग्र ४. नदुःख-(दुःखैक-)। ना२. हि (च)। ग्र४. किंचिदस्ति; म१. किंचिदन्यत्; म२. किंचिदन्यः; म३.कचिदन्यत्; म४.५. कविदेव ॥
 
@@ -2576,8 +2213,6 @@ Tata Institute of Fundamental Research.
 
  कान्तेति॥ विद्वान्धीरोऽपि प्रत्यक्षां दृग्गोचरां अशुचिभस्त्रिकां अपवित्रमयचर्मभस्त्रिकाम्। **अशुचिपुत्रिकामिति** पाठे अपवित्रमयपाञ्चालिकां
 
-
-
  स्त्रियं नारीं दृष्टवा विलोक्य कान्ता रमणीयेति उत्पललोचना कुवलयनयनेति विपुलश्रोणीभरा पृथुकटिभारेति उन्नमन्ताबुद्गच्छन्तौ पीनौ पीवरावुत्तुङ्गाबुच्छ्रितौ पयोधरौ कुचौ यस्याः सा तथाविधेति सुमुखाम्भोजा शोभनवदनकमलेति सुभ्रुः शोभनभ्रूकेति माद्यति उन्मत्तो भवति मोदते हृष्यति अभिरमते क्रीडति प्रस्तौतिप्रसञ्जयति। मोहस्य मायाया दुश्चेष्टितं दुश्चरित्रं अहो आश्चर्यम्। मूढं माया मोहयतु नाम विद्वांसं कथं मोहयतीति चित्रम्॥ \[ शार्दूलविक्रीडितम् \]
 
  \[ म४. ५. कोशयोर्नास्ति \] १) ना२. 'श्रेणीभरे'।— ३) ना५. च (यभि )।—४) तु.सु१.२. ना१.२. रा (टी. पा) पुत्रिकां; ते२ पुत्रिभस्त्रिकां ( भस्त्रिकां )। ना२. होमस्य दुधेष्टितम् ॥
@@ -2600,8 +2235,6 @@ Tata Institute of Fundamental Research.
 
  ३) तु२. सु१.३. ना१.२. रा१. ते ग्र१.४. चक्षुप्पधाद् ; सु२. चतुष्प। तु. सु. अपेता;ना२. अपेत्ता (अतीता)। —४) ग्र १. सा नारी विषवल्लरी ॥
 
-
-
  भ. २५४६ (१०२८)। सु. १२४४ ॥
 
 नामृतं न विषं किंचिदेकां मुक्त्वा नितम्बिनीम्।  
@@ -2621,13 +2254,7 @@ Tata Institute of Fundamental Research.
  आवर्त इति ॥ संशयानां संदेहानामावर्तः भ्रमः। अविनयानां दुर्नयानां भवनं
 निवासः। साहसानामविमृश्यकार्याणां पट्टणं नगरम्। दोषाणां दुर्गाणां (दुर्गुणानां) संनिधानं सुनिक्षेपः। कपटानां दम्भानां शतानि समूहास्तन्मयं तत्स्वरूपम्। अप्रत्ययानां अवोधानां (अविश्वासानां। 'प्रत्ययोऽधीनशपथशानविश्वासहेतुपु'इत्यमरः) क्षेत्रं आकरः। स्वर्गद्वारस्य त्रिदिवगोपुरस्य विघ्नः प्रत्यूहः। 'विघ्नोऽन्तरायः प्रत्यूह इत्यमरः। नरकपुरस्य निरयनगरस्य मुखं द्वारम्। सर्वासां अशेपाणां मायानां शाम्बरीणां करण्डं समुद्गकः। प्राणिलोकस्य जन्तुसमूहस्य पाशोबन्धनरज्जुः। अमृतमयं सुधाप्रचुरं विषं गरलं सुखदुःखयोर्हेतुत्वात्। एवंविधं स्त्रीयन्त्रं स्त्रीरूपं कृटं उन्माथ इति यावत्। केन हेतुना सृष्टं निर्मितं। विधिनेति शेषः ॥ \[ स्रग्धरा \]
 
-
-
 १) म३. आवासः (आवर्तः )। तु१. शंसयानां। सु३ (मू). अभिनवभवनं; ना३-५. रा. ग्र५. अविनयभुवनं। सु. ग्र ५. पत्तनं; म ४.५ मण्डपं। —२) तु१. देवानां (दोषाणां )। ग्र १.कृमिशतनिलयं क्षेत्र।—३) तु१. ना२. ग्र १. म४. विघ्नं; तु२ (नू.). विप्रं (विघ्नो)। म३. सर्व-
-
-
-
-
 
 मायाकराणां। —४) ग्र४. दृष्टं (सृष्टं)। सु१. जीवलोकस्य सु२.३. प्राणिनामेक-ग्र१. म१. प्राणिलोकैक; म२. सर्वलोकैक-। म४. ५. प्राणिनां प्राणहारि। ग्र१.४. पाशं (पाशः ) ॥
 
@@ -2640,8 +2267,6 @@ Tata Institute of Fundamental Research.
 
  नो इति॥ सत्येन परमार्थेन मृगाङ्कश्चन्द्र \[एषोऽयं \] (एव) वदनीभूतो मुखीभूतो नो न भवति। मा नो वा (अमानो न) प्रतिषेधे। वदनीभूत इति अभूततद्भावे च्विः। अस्य च्वावितीत्वम्। इन्दीवरद्वंद्वं नीलोत्पलयुगलं लोचनतां नेत्रत्वं न गतं न प्राप्तम्। अङ्गयष्टिरपि यष्टितुल्या तनुश्च कनकैर्हाटकैः कृता निर्मिता न भवति। किंतु अपि तु। एवमनेनोकप्रकारेण कविभिः काव्यनिर्माणकुशलैः प्रतारितमनाः वञ्चितचेताः सन् तत्त्वं यथार्थ रूपं विजानन्नवगच्छन्नपि मन्दो जनः मूढलोकः त्वङ्मांसास्थिमयं अजिनामिषकीकसविकारं मृगदृशां हरिणलोचनानां वपुः शरीरं सेवते भजते॥ \[ शार्दूलविक्रीडितम् \]
 
- 
-
 १) ना२. नो सत्यव; ग्र ४. नो सत्येषुः म३. नासत्येन।सु१. २. ३. (टी). ४. एव (एष )। —२) ना२. लोचनतागतं ना २. कुसुमैरप्यङ्ग; ग्र४. कनकैरस्याङ्ग। ना२. "यष्टीकृता। —३) ना२.त्वैवं। सु. प्रतारितमतस्; १. प्रतारिरगुणं। ते१. स्वत्वं। तु. न जानन्नपि। —४) ते १. सेव्यते ॥
 
   भ. ३८३८ (१६५४) ॥
@@ -2653,8 +2278,6 @@ Tata Institute of Fundamental Research.
 
  १) म३. बिलासिनीनां तु२. महजा; ग्र ३. सहसा —२) ते १. ता एव। —३) तु. अथ;ग्र१.४. म१.२.४. च (हि) —४) तु२. सु (मू.). भ्रमत्येष। ना २ ते .ग्र ३ (नू.). म १-३. मुदा; ना३-५. रा. वृथा ॥
 
-
-
  भ. ५८५७ (२६७३); सुभाष्.२१२। सुर. पृ० २७१.१० (स्फुटश्लोके) ॥
 
 यदेतत्पूर्णेन्दु द्युतिहरमुदाराकृतिधरं  
@@ -2663,8 +2286,6 @@ Tata Institute of Fundamental Research.
 व्यतीतेऽस्मिन्कालेविषमिव भविष्यत्यसुखदम् ॥ ४८ ॥
 
  यदेतदिति॥ पूर्णेन्दोरखण्डसुधाकरस्य द्युतिहरं कान्तिचोरं उदाराकृतिधरं सुन्दराकारधरं तन्वङ्ग्याः कृशाङ्ग्याः मुखान्जं वदनकमलम्। यत्र (तत्र) तस्मिन्वदनकमले अधररूपमधुमाक्षिकं वसति तिष्ठति किल। किलेति वार्तायाम्। तदिदं किंपाकद्रुमफलं विषवृक्षप्रसूनरूपकमिदं विषवृक्षफलतुल्यमित्यर्थः। अधरमधुनः किंपाकद्रुमस्य च साम्यमाह अस्मिन्काले व्यतीते सति। एतस्मिन्ननुभवसमयेऽतिक्रान्ते सति विषं गरलमिव असुखदं दुःखदायि भविष्यति। सुखं दुःखमेव भविप्यतीत्यर्थः। इदानीमनुभवनकाले अतिरसमतिस्वादु ॥ \[ शिखरिणी \]
-
- 
 
 १) तु. ग्र ३ (मू.). द्युतिधरम्; ग्र १. म१.२.४.५. द्युतिभरम्। ना२.३. रा. ते. परं; ना५.म४. ५. वरं; म३. -रसं (-घरं)। —२) सु (मू.). ना१.३.४. ग्र २. ३. तत्राघर। —३) ग्र १. त्किपतद्रुम'; ग्र४. त्किपाकत्रम। तु. इवास्तां च विरसं; ना५. इदानीमविरसं। —४) ग्र४. विपर्येन्दुसुखदः; म४.५. भविष्यत्यनुपमं॥
 
@@ -2678,8 +2299,6 @@ Tata Institute of Fundamental Research.
 संसारार्णवमज्जनं यदि ततो दूरेण संत्यज्यताम्॥४९॥
 
  उन्मीलदिति॥ उन्मीलन्त्यः स्फुटीभवन्त्यः त्रिवल्यः वलित्रयमेव तरङ्गवलयं ऊर्मिमण्डलं यस्याः सा। प्रोत्तुङ्गयोः प्रकृष्टोत्सेधयोः पीनयोः स्थूलयोः स्तनयोर्धक्षोजयोः द्वंद्वेन युगलेन उद्धतचक्रवाकयुगला गर्वितकोकमिथुना। प्रोत्तुङ्गपीनस्तन द्वंद्वेमेव चक्रवाकयुगलमित्यर्थः। वक्रेण मुखेनैव अम्बुजेन पद्मेन उद्भासिनी प्रकाशमाना। अभितः अग्रे (पुरतः) क्रूरा अनिष्टा। कान्ताकारघरा स्त्रीवेषधारिणी। इयं नारी तरङ्गिण्येव न तु स्त्रीति विश्वसनीया। अत्र अस्यां नयां संसारार्णवमज्जनं भवजलधिभो (मे)लनं यदि नापेक्ष्यते नाभिलप्यते। ततः तर्हि इयं नदी दूरेण दवीयसा आवेशेन संत्यज्यताम्। यस्तु कान्ताकारधरायां नद्यां निपतितस्तया नद्या वेगेनाकृष्टः संसारार्णवे न मज्जतीत्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
-
-
 
  १) तु२ (मू). ना३.५. रा. ते. ग्र१. म३. निलया; ग्र४. म१.२. निचया; ग्र५. वलय-। —२) तु. ग्र ४. म४.५ °द्वंद्वेनोद्यत°; सु. ना२. द्वंद्वेनोद्धृत; ना३.४. रा. ते. म३. द्वंद्वेनोद्गत;ना५. द्वंद्वेनोपरि; ग्र१. होमादिनि। म४
 -चक्रवाल-। तु. ना२. मिथुना; सु१.२. युगुला; ग्र २(मू.). युगली। ग्र४. म४.५. धैर्यद्रुमध्वंसिनी। —३) ना५. कान्ताकान्त्युदका; म३. कान्ताकारमहा-। तु. क्रूराशया नेक्षते; सु. क्रूराशया नेक्ष्यते; सु (टीपा). ना३-५ रा. क्रूरात्र नापेक्षते; ग्र४. क्रूरात्रिनावेक्षते; म१. क्रूरात्र संलक्ष्यते; म२. क्रूरात्र सा लक्ष्यते; म३. क्रूराननापेक्षते; म४.५.क्रूरोत्तरा लक्ष्यते।—४) ना५. लङघनं यदि तदा; रा. ते. मज्जनं यदि तदा; ग्र १. म१-३ °लङ्घनक्षमधिया॥
@@ -2702,8 +2321,6 @@ Tata Institute of Fundamental Research.
 
  \[ रा. ते१. अडयार् २५ एल् २ कोशेषु अयं श्लोकः तृतीयविंशत्यन्ते दृश्यते\] २) सु (मू.),हालाहालम्; ना२. हलाहलम्; म२. हालाहल। —३) म४. अधरं (अधरो ) ॥
 
-
-
  भ .४६७७ (२०९७); सुभाष् . १७। पञ्चतन्त्रे १.१५१ (१८९)। हितोपदेशे ६५.८। शृङ्गारबिन्दौ। कुवलयानन्दे। सु. ३३८० ( कालिदासमाधौ ) ॥
 
 अपसर सखे दूरादस्मात्कटाक्षविषानला-  
@@ -2724,10 +2341,6 @@ Tata Institute of Fundamental Research.
 
  विस्तारितमिति॥ अत्र अस्मिन् भवः संसार एवाम्बुराशिः समुद्रस्तस्मिन्। मकरकेतनेन धीवरेण मदनदाशेन। 'कैवर्तो दाशधीवरा' वित्यमरः। स्त्रीसंशितं स्त्रीनामधेयं बडिशं मत्स्यग्रहणजालम्। 'बडिशं मत्स्यबन्धन' मित्यमरः। विस्तारितं विपुलीकृतं विक्षिप्तमिति यावत्। येन बडिशेन। तद्धरामिषलोलमर्त्यमत्स्यान् तासां स्त्रीणामधरोष्ठा एवामिषं मांसं तस्मिन् लोलाः सतृष्णाः ते च ते मर्त्या मनुप्यास्त एव मत्स्या मीनास्तान्विकृष्य आकृष्य अचिराच्छीघ्रमेव। अनुरागोऽभिलापः स एव वहिस्तस्मिन्विपचति विशिष्य पाकं करोति। जनानां स्त्रिय एव मोहकारणं नान्यदिति भावः ॥ \[वसन्ततिलका \]
 
-
-
-
-
 २) ना२. संज्ञकं बिडिश; ते२. 'संज्ञतं बरिश। —३) तु. येनानिशं तद; ना२. येनात्तचित्तम°। ना१. तबधरामिव ; ना३.४.ग्र ४. म३. तदधरामृत - ( तदधरामिष-)। —४) ना१. -मच्छान्। तु. सु. ना१.२. ग्र १. स पचत्य॥
 
   भ. ६२३७ (२८७७); शतकावलौ ७४ ॥
@@ -2736,8 +2349,6 @@ Tata Institute of Fundamental Research.
 मा संचर मनःपान्थ तत्रास्ते स्मरतस्करः॥५४॥
 
  कामिनीति॥ हे मनःपान्थ चित्ताध्वनीन। कुचाभ्यां स्तनाभ्यामेव पर्वताभ्यां शैलाभ्यां दुर्गमे गन्तुमशक्ये कामिनीकाये वनितादेह एव कान्तारे महारण्ये। 'महारण्ये दुर्गपथे कान्तारं पुंनपुंसकमि त्यमरः। मा संचर नो गच्छ। संचरणे को बाध इत्याङ्कयाह तत्र कामिनीकायकान्तारे सरतस्करः कन्दर्प एव चोरः आस्तेतिष्ठति। असौ धैर्यस्व अपहरतीति तत्र संचरणस्य प्रतिषेधः॥ \[ अनुष्टुप् \]
-
-
 
 \[ म३. कोशे पूर्वोत्तराधौं व्यत्यस्तौ \] २) म१.२. स्तन ( कुच° ) ॥
 
@@ -2753,8 +2364,6 @@ Tata Institute of Fundamental Research.
  १) तु. ज्यादीर्घेण; ना५. भ्रूदीर्घेण; ग्र१. व्यादीर्णेन; म४. ५. व्याकीर्णेन। म खलेन (चलेन)। तु१. ग्र २ (मू.). वक्तुगतिना; ग्र ४. वक्तूशशिना। —२) तु२. नाहिमा। ना२. नापि सादरमहो। सु१.२. वरमहं; ग्र ४. ३. परमहो। तु १. सु१.२. ना२. रा. ते. ग्र१.४. दृष्टो न ; तु२. दृष्टो न; म३. दोषोस्ति। ग्र ४. मच्चक्षुषा; म३. तच्चक्षुषां। —३) तु. दृष्टे; ना३-५, रा. दष्टः। ग्र१.४. म. धर्मा
 
 नी० श० १२ (म० श०)
-
-
 
  त्मनो—४) ग्र३ (मू). मुग्धाक्षि। म१.२. क्षणमीक्षितस्य; म४.५. क्षणवेधितस्य। ना२. च(हि)। तु. मन्त्रो; ना२. ग्र१. वैद्या सु. १. चान्यौषधम्; म४.५. चान्यौषधः ॥
 
@@ -2779,8 +2388,6 @@ Tata Institute of Fundamental Research.
  नेति॥ अयं परिदृश्यमानः स्मरापस्मारो मन्मथोन्मादो मन्त्राणां मनूनां न
 गम्यो गन्तुं न शक्यः। भैषज्यस्य चिकित्साया विषयो गोचरो न भवति। विविधैर्नानाविधैः शान्तिकशतैः प्रशमनप्रयोगैः प्रध्वंसं नाशं न च व्रजति न याति। भ्रमावेशादज्ञानवशात् अङ्गेऽवयवे {असकृद्वहुवारं-रा-} (असममतुलं) किमपि इत्थमिति वक्तुमशक्यं भङ्गं व्यथां विद्धत् विधित्सन् भ्रमयत्यावर्तयति। दृशं दृष्टिं घूर्णयति उन्मेषयति केनापि अपरिहार्योऽयं स्मरोन्मादः कामपि व्यथां करोतीति भावः॥ \[ शिखरिणी \]
 
-
-
  १) म४. ५. अगम्यो। ते१. न भवति च। ना२. ४. विषया।—२) ना३.४. न चाति। ते १. प्रध्वस्तं। तु (मू.). म१.२.४.५. शान्तिशतकैः; म ३. शान्तिकतमैः। —३) ना १.३.४.ग्र३ (मू.).४. दङ्गैः। ना ३-५. रा. ते. कमपि। सु. च विपद्-, ग्र१. विविदद् ग्र४. विविध; म४. विपदद्( विदधद्)। सु. संगमनकृत्; ना १. भंगमनसं; ना २. ग्र२.३. म२. भंगमसमं; ग्र १. म ४.५. भङ्गुरसमं; ग्र ४. ध्वंसमसकृत्। —४) तु. स्मरोप°। तु. मनो;ग्र१.२. (मू.). म २.४.५. भृशं; म३.३ दिशं (दृशं)। म३. पूर्णयति ॥
 
  भ. ३२१७ (१३६५); शतकावलौ ७४। सूमु. ७०.५ (त्रिविक्रमभट्टस्य)। सुभा. पृ० २५० .१८. सुर.पृ० १२६.३ (शार्ङ्ग) ॥
@@ -2801,11 +2408,7 @@ Tata Institute of Fundamental Research.
 
  वेश्येति॥ असौ वेश्या प्रसिद्धवेश्या रूपेन्धनेन सौन्दर्यसमिधा करणेन विवर्धिता समेधिता मदनज्वाला मन्मथानलार्चिः। यत्र यस्यां वेश्यारूपायां ज्वालायां
 
-
-
  कामिभिः कामुकैः यौवनानि तारुण्यानि धनानि वित्तानि च हृयन्ते दीयन्ते। वाराङ्गनाकामुकस्य न केवलं धनमेव क्षीयते अपि तु यौवनमपीत्यर्थः ॥ \[ अनुष्टुप् \]
-
-
 
 **१-२)** ग्र४. वेश्या नाम मदज्वाला रागेन्धन। ग्र१. वेश्या सा; म४.५. वेश्याग्नौ। म४.५.मदनज्वाले। तु. "समेधिता; ना२. समृद्धिता; म२. °विवर्जिता; म४.५. विवर्धिनी। —३) ग्र१.३ हूयेत ॥
 
@@ -2834,8 +2437,6 @@ Tata Institute of Fundamental Research.
 
 \[ म४. ५. शृङ्गार ३.२०\]
 
-
-
 **॥ सुविरक्तदुर्विरक्तपद्धतिः ॥**
 
 धन्यास्त एव धवलायतलोचनानां  
@@ -2844,8 +2445,6 @@ Tata Institute of Fundamental Research.
 दृष्ट्वाकृतिं विकृतिमेति मनो न येषाम्॥६१॥
 
  धन्या इति ॥ धवलानि शुक्लान्यायतानि दीर्घाणि लोचनानि नेत्राणि यासां तासाम्। तारुण्यदर्पेण यौवनमदेन घना निविडाः पीनाः पीवराः पयोधराः स्तना यासां तासाम्। क्षामस्य कृशस्योदरस्य जठरस्य उपरि उपरिष्टाल्लुसन्त्यो भासमानास्तिस्रो वल्ल्यएव लता व्रतत्यो यासां तासां तरुणीनामाकृर्ति सौन्दर्य दृष्टा विलोक्य येषां जनानां मनश्चित्तं विकृतिं विकारं नैति न गच्छति त एव धन्याः श्लाघनीयाः। दुर्निवारस्य मनसो निवारणे येषामप्रतिहता शक्तिरस्ति त एव लोकेश्वराः श्लाघनीया इत्यर्थः। उक्तं च। “अहल्याया जारः सुरपतिरभूदात्मतनयां प्रजानाथोऽयासीदभजत गुरोरिन्दुरवलाम्। इति प्रायः को वा न पदमपथेऽकार्यत मया श्रमो म द्वाणानां क इव भुवनोन्मादविधिषु" ॥ "रम्यं सद्म नवाकृतिः सुनयना कूजद्धिरेफा लताः प्रोन्मीलन्नवमल्लिकासुरभयो वाताः सचन्द्राः क्षपाः। यद्येतानि जयन्ति।हन्त परितः शास्त्राण्यमोघानि मे तद्भोः कीदृगसौ विवेकविभवः कीदृक्प्रबोधोदयः” ॥ तथा च कालिदासः। “प्रत्यर्थिभूतामपि तां समाधेः शुश्रूषमाणां गिरिशोऽनुमेने। विकारहेतौ सति विक्रियन्ते येषां न चेतांसि त एव धीराः” ॥ \[वसन्ततिलका \]
-
- 
 
 १) तु. सु. ना१ (शोधनानन्तरं). २. चपलायत°; ग्र १.४. म. तरलायत°। तु१. °लोचनीनां।— २) ग्र४. °दृप्त° (°दर्प°)। ते२. °घटपीन°। तु१. सु. °पयोधरीणां— ३) म५. °त्रिवलीरसानां। —४) ग्र१. एव ( एति)। ना२. एषां (येषाम्) ॥
 
@@ -2857,8 +2456,6 @@ Tata Institute of Fundamental Research.
 क्षीणो मोहस्तृणमिव जगज्जालमालोकयामः॥६२॥
 
  बाल इति॥ हे वाले शैशवतारुण्यमध्यस्थे अमी मन्थरा मन्दगामिनो लीलामुकुलितं विलासेन निमीलितं यथा भवति तथा दृष्टिपाता विलोकितानि किमपि क्षिप्यन्ते प्रेर्यन्ते। लीलामुकुलितमिति क्षेपणक्रियाविशेषणम्। विरम विरम निवर्तस्व निवर्तस्व। एषोऽयं भवत्याः श्रमः प्रयासो व्यथो निरर्थकः। संप्रति इदानीं
-
-
 
  वयमन्ये परे। पूर्वे न भवामः। वाल्यं शैशवमुपरतं विरतम्। वनान्ते वनमध्ये। आस्था तात्पर्यम्। मोहः क्षीणः अज्ञानं नष्टं जगज्जालं (तं) भुवनानां समूहं तृणमिव पलालवत् आलोकयामः पश्यामः॥ \[ मन्दाक्रान्ता\]
 
@@ -2875,8 +2472,6 @@ Tata Institute of Fundamental Research.
 
  इयमिति॥ इयं वाला अनवरतं संततं इन्दीवरदलानां नीलोत्पलपत्राणां प्रभाचोरं कान्तितस्करं चक्षुर्नेत्रं मां प्रति मां लक्ष्यीकृत्य क्षिपति प्रेरयति। अनयाबालया किमभिप्रेतं किं मनसि कृतम्। अस्माकं मोहो गतो नष्टः। स्मरस्य मदनस्यैव शवरस्य म्लेच्छस्य वाणस्य व्यतिकरेण संपर्केण { यो ज्वरः संतापस्तस्य ज्वाला } (ज्वलन्ती दीप्यमाना ज्वाला) वह्निशिखा शान्ता उपरता। तदपि तथापि वराकी लोला न विरमति तूष्णीं न तिष्ठति॥ \[ शिखरिणी \]
 
-
-
 २) तु. प्रभाचौर। तु१. प्रेत्य मनया, तु२. प्रेत्यमनसा। —३) ग्र ४. गते मोहे। —४) सु. ज्वरज्वालाः; ना२. ग्र ३. म. ज्वलज्वाला। तु२. सु. शान्तास्। ग्र ४. तदपि च न पारे विरमते। म३. पताकी; म४. वरागी; म५. वियोगी (बराकी) ॥
 
   भ. ११३० (४२९); शतकावलौ ७५ । सक. ५.६३.२ (पृ० ३१९; ज्ञानशिवस्य ) ॥
@@ -2888,11 +2483,7 @@ Tata Institute of Fundamental Research.
 
  किमिति॥ रे कन्दर्प नीच मन्मथ कोदण्डस्य चापस्य टंकारितैः टंकारध्वनिभिः \[ शरं वाणं \] (कथं केन प्रकारेण अस्मान्) कदर्थयसि पीडयसि। किमित्याक्षेपे। अस्मान्पीडयितुं न शक्यत इत्यर्थः। रे रे कोकिल पिक कोमलं सुखकरं कलरवं अव्यक्तमधुरस्खरं वृथा व्यर्थमेव जल्पसि लपसि। किंशब्द आक्षेपे।कोकि-
 
-
-
  लरुतान्यपि नास्माकं विकारमुत्पादयितुं समर्थानीत्यर्थः। हे मुग्धे बुद्धिहीने स्निग्धैः मसृणैः विदग्धैः छेकैः मुग्धैः शारिकैः मधुरैः ( सुंदरैः) लोलैः चपलैः कटाक्षैः अपाङ्गावलोकनैः अलम्। अलमिति वारणे। कामिनीकटाक्षाः नास्माकं विक्रियां जनयितुं समर्था इत्यर्थः। 'अलं भूषणपर्याप्तिशक्तिवारणवाचक' मित्यमरः। अस्मि नर्थे हेतुमाह। चेतः चित्तं चुम्बितमास्वादितं चन्द्रचूडस्य परमेश्वरस्य चरणयोः। पदयोः ध्यानं चिन्तनमेव अमृतं पीयूपं येन तत्तादृशं वर्तते। स्मररिपोश्चरणौ ये ध्यायन्ति तान्स्मरविकाराः किमपि कर्तुं न समर्था इत्यर्थः ॥ \[ शार्दूलविक्रीडितम् \]
-
-
 
 १) तु२. ना१.३.४. ग्र २.३. कथं ना२ म३. करें; ग्र १.४ . म १.२.४.५. वृथा (शरं)। ग्र १.४. म१.२.४.५, मां; म३. ते (रे)। सु२. ढङ्कारितै; ना२. कङ्कारितं; ना५. रा. ते. ग्र ४. टङ्कारित; ग्र १. म२. झंकार; ग्र२. ३. ठंकारितै; म३. ठंकारितं २)— तु. कोमलैः कलरवैः; ना२. कोमलं कलकलं। म. किं त्वं वृथा। ग्र ४ म३. जल्पसे। —३) तु.सु. ना५. रा. ते.ग्र ४. चारु; ग्र १. म४. ५. नर्मः म२. निर्म –(-मुग्ध- )। सु१. मधुरैलोलै; म३. हरिणीतुल्यैः; म४.मधुरालोकै; म५. मधुरालोलैः। —४) तु१. चुम्बत; तु२. ना१. म३. चुम्बति; ग्र १. म१.२.४.५.संप्रति ( चुम्बित )। ग्र १. म १.२.४.५. चुम्बति; म३. संप्रति ( वर्तते ) ॥
 
@@ -2907,14 +2498,10 @@ Tata Institute of Fundamental Research.
 
   भ. ६१७७ (५०१९) ॥
 
-
-
 किं गतेन यदि सा न जीवति प्राणिति प्रियतमा तथापि किम्।  
 इत्युदीक्ष्य नवमेघमालिकां न प्रयाति पथिकः स्वमन्दिरम् ॥ ६६ ॥
 
  किमिति॥ सा प्रसिद्धा प्रियतमा प्रेयसी प्राणिति किं जीवति किं न जीवतीत्यर्थः। किमिति प्रश्ने। न जीवति यदि म्रियते चेत्तथापि तर्हि गतेन असद्गमनेन किं, किं प्रयोजनमस्ति। पथिकः पान्थः इत्येवमुक्त्वा नवमेघमालिकां नूतनजलघरपङ्किमुदीक्ष्य दृष्ट्वा स्वमन्दिरं स्वगृहं प्रति न प्रयाति न गच्छति। प्रियतमा मेघमालिकादर्शनहेतुना विरहमसहमाना सती न जीवत्येव। तथापि गतेन मया किं कार्यमिति नवमेघमालिकां निरीक्ष्य तूष्णीं स्थितवानिति भावः ॥ \[ रथोद्धता \]
-
-
 
 १) ग्र ४. यदि वा जीवति; म४. यदि सोऽनुजीवति। —२) तु. ना१. प्राणति; म३. प्राद्दणि॥ (प्राणिति )। ना२. प्रियतमे। म३. तदापि; म४. ५. स्थितेन ( तथापि )। —३) तु२. इत्युदीक्ष; ग्र १. इत्यवेक्ष्यः ग्र ४ .इत्युदीर्य। —४) ग्र२ (मू.). न प्रियाति; ग्र ४. संप्रयाति। ना२. पथिक ॥
 
@@ -2927,13 +2514,9 @@ Tata Institute of Fundamental Research.
 
  विरमतेति॥ हे बुधा विद्वांसः क्षणभङ्गुरादल्पकालनश्वरात् योषित्सङ्गात्स्त्रीसंसर्गात्सुखात् शर्मणो बिरमत निवर्तध्वम्। यदि योषित्सङ्गाद्विरन्तुं न शक्यते तदानीं करुणामैत्रीप्रशाख्यवधूजनसंगमं कुरुत विधत्त। करुणा दुःखिनि कृपा। मैत्री सुखिनि सख्यम्। प्रज्ञा नित्यानित्यवस्तुविवेकः। करुणादियोषितः पुमांसं (नरं) त्रातुं शक्नुवन्ति। प्राकृतास्तु योषितो न शक्नुवन्ति। नरके निरये हारैर्मुक्तावलिभिराक्रान्तमधिष्ठितं घनं निविडं स्तनयोः कुचयोर्मण्डलं बिम्बं शरणं रक्षितृ न खलु न भवति हि। अथ वा रणन्ती शिञ्जाना मणिमयी मेखला काञ्ची यत्र तच्छ्रोणीबिम्बं कटिमण्डलं शरणं न खलु। ये हितं कुर्वन्ति तैमैत्रीं कुर्यात् ये त्वहितमेवाचरन्ति तैमैत्री परिहरणीयेत्यर्थः॥ \[ हरिणी \]
 
-
-
 १) ते१. विरमति। ना२. क्षणात; ग्र४. सुतात् (सुखात्)।—२) ग्र १. कुरु तत्। ते२.करुणं मैत्री। ना. २ °वधूनवसंगमम्। —३) ग्र ४. नरको। ना२ ते १. हारकान्तं; ना५. दाराक्रान्तं; ग्र १.४. म२. भाराकान्तं। —४) ना१. चरणमथ। तु२. ग्र १. श्रेणीबिम्बं। ते. रणम्मणिमेलम्; ग्र ४. व्कणन्मणिमेखलम् ॥
 
   भ. ६१७३ (२८३३)। सु. ३३८५ ॥
-
-
 
 सदा योगाभ्यासव्यसनकृशयोरात्ममनसो-  
 रविच्छिन्ना मैत्री स्फुरति कृतिनस्तस्य किमु तैः।  
@@ -2941,8 +2524,6 @@ Tata Institute of Fundamental Research.
 सनिःश्वासामोदैः सकुचकलशाश्लेषसुरतैः ॥ ६८ ॥
 
   सदेति॥ सदा सर्वदा योगाभ्यासेनाष्टाङ्गयोगपरिशीलनेनैव व्यसनेन दुःखेन (वशयोर्दान्तयोः) { अष्टांगयोगपरिशीलने यद्यसनमासक्तिस्तेन (स्तया) कृशयोस्तत्परतन्त्रयोरित्यर्थः -रा-} आत्ममनसोः क्षेत्रशचित्तयोः अविच्छिन्ना मैत्री सख्यं यस्य स्फुरति प्रकाशते। कृतिनः कृतकृत्यस्य तस्य तैः प्रसिद्धैः प्रियाणां वल्लभानामालापैर्जल्पितैरधरमधुभिरधरोष्ठमाक्षिकैः वऋविधुभिर्मुखचन्द्रैः निःश्वासानां श्वासानिलानामामोदर्मनोहरगन्धैः सहितैः। इदं वक्रं वधूनां वा सुरतानां वा विशे- पणम्। कुचयोरेव कलशयोरालेषेणालिङ्गनेन सह वर्तन्त इति सकुचकलशाश्लेषणानि तथाविधैः सुरतैर्निधुवनैर्वा किमु किं प्रयोजनम्। न किंचित्प्रयोजनमस्तीत्यर्थः। योगाभ्यासस्य मन्मथविकाराणां च सहावस्थानविरोधः। यत्र योगाभ्यासो न तत्र मन्मथविकाराः। यत्र मन्मथविकारा न तत्र योगाभ्यास इत्यर्थः ॥ \[ शिखरिणी \]
-
-
 
 १) ना२.५. रा. ते. ग्र १.४.५.१ ३. यदा ( सदा )। तु१. व्यसनवासिनोर् ; तु२. व्यसनवसितोर्; सु. ना१.३.४ ग्र २.५ °व्यसनवशयोर्; म १.२. व्यसनदशयोर्।—२) म३. अविच्छिन्नं।तु१. कृतनस्तस्य; ग्र २. कृतकृत्यस्य; ग्र ४. न कृतिस्तस्य। —३) ग्र ४ (मू.). क्रियाणाम् ; म३. प्रियानाम्। तु. अधरमधुरैर्।—४) ना१. नवैः श्वासां; सु. विनिःश्वासा; ना३.४. ग्र ३ (मू). ननिः-श्वासा; रा. सनिश्वासा; ते१. खनिःश्वासा। ना१.३.४. खकुच; ना५. ग्र २ (मू.). म४. सुकुच; ग्र १, सचकुच°; ग्र५. निकुच।
 
@@ -2956,8 +2537,6 @@ Tata Institute of Fundamental Research.
  यदासीदिति॥ यदा यस्मिन्काले स्मरतिमिरसंचारजनितं मन्मथान्धकारसंपकंजनितं अङ्गानं मोह आसीदभूत् तदा तस्मिन्काले अशेषं कृत्स्नमिदमेतज्जगत् लोकः नारीमयं स्त्रीरूपमिति दृष्टमीक्षितम्। अस्माभिरिति शेषः। इदानीमस्मिन्काले पटुतरविवेकाञ्जनजुषां स्पष्टतरज्ञानकजलयुतानां अस्माकं समीभूता असमं समं संपद्यमाना दृष्टिरीक्षणम्। त्रयाणां भुवनानां समाहारस्त्रिभुवनम्। त्रिलोकानपि ब्रह्म ब्रह्मेति मनुते अवबुध्यते। पूर्वमङ्गानतः सकलमपि लोकं स्त्रीमयमिति दृष्टम्। इदानीं समबुद्धीनामस्माकं ज्ञानविशेषवशात्प्रपञ्चमिदं ब्रह्मेति ज्ञान (त) मितिभावः॥ \[ शिखरिणी \]
 
 नी० श० १३ (भ० श०)
-
-
 
  \[ तु. कोशे. अयं श्लोकः वैराग्ये १०१ तमत्वेन दृश्यते \] १) ग्र ४. म४.५. अस्माकं (अज्ञानं)। तु. ग्र १. 'संस्कार' (संचार )। ना२. निरतं; ग्र ४. जडितं (जनितं)। —२) म३. यदा (तदा)। तु. मन्ये (दृष्टं)। म५. नारीजन। ना१. जगदिदं; ग्र ४. म३-५. जगदपि। —३) म४. बिलोकाक्षनजुषीं। —४) ग्र४. तमी; म४. तपी ; म५. नवी (समी)। तु. ग्र ४. इदं (अपि)। तु. म४.५. तनुते; ग्र४. कुरुते (मनुते)॥
 
@@ -2983,11 +2562,7 @@ Tata Institute of Fundamental Research.
 
 वचसीति॥ श्रुतिभिः वेदैः मुखरमुखानां शब्दायमानानां केवलं पण्डितानां पाण्डित्यमात्रावशिष्टानां वैराग्यविहीनानामित्यर्थः। वचसि वाचि सत्यागं सर्वसङ्गपरित्यागमुद्दिश्य लक्षीकृत्य वार्ता वृत्तान्तमात्रं भवति वर्तते। कुवलयनयनानामिन्दीवराक्षीणां अरुणोऽव्यक्तरागः रत्नग्रन्थि रत्नमयं वपुर्यस्य तादृशः काञ्चीकलापो रशनारूपं भूषणं यस्मिंस्तत् अरुणरत्नग्रन्थिकाञ्चीकलापं जघनं स्त्रीकट्याः पुरोभागं कर्म। विहातुं त्यक्तुं का समर्थः शक्तः। न कोऽपीत्यर्थः।
 
-
-
  जघनमित्येतावतैव स्त्रीणां कटिपुरोभाग इति लब्धम्। यस्मादमरः ‘पश्चान्नितम्वः स्त्रीकट्याः क्लीचे तु जघनं पुर' इति तथापि कुवलयनयनानामिति अस्य सौन्दर्यकथनार्थ सुन्दरीणामेव जघनं विहातुं न शक्यते। न तु दुर्भागाणाम्। कुवलयान्युत्पलानीव नयनानि नेत्राणि यासां तासाम्। विदुषां धीराणामिव प्रायेण वाक्परिपाक एव न तु मनःपरिपाक इत्यर्थः ॥ \[ मालिनी \]
-
- 
 
 १) तु.सु. भवति वचसि। —२) ते१. प्रतिमुखर। —३) तु. मरुणरनं; सु२. तरुणरत्न। तु२. कलावं। —४) ग्र ४. विधातुं। तु१. समर्थाः ॥
 
@@ -2997,8 +2572,6 @@ Tata Institute of Fundamental Research.
 यस्मात्तपसोऽपि फलं स्वर्गः स्वर्गेऽपि चाप्सरसः ॥ ७२ ॥
 
  स्वपरेति ॥ यः अलीकपण्डितः कपटविद्वान् युवतीयोंषितो निन्दति दूषयति।असौ अलीकपण्डितः स्वपरप्रतारकः आत्मान्यवञ्चक एव। न तु शुद्धात्मा। यस्मात्कारणात् तपसः कृच्छ्रचान्द्रायणादेः फलं स्वर्गः द्यौरेव। स्वर्गे त्रिविष्टपेऽपि चाप्सरसः अप्सरस्त्रिय एव। सर्वेषां पुण्यकृतां त्रिदिवे रम्भाद्यप्सरः संगम एव फलमिति कृत्वात्र योषित्संगमोऽपि न दुष्यतीति भावः ॥ \[ आर्या \]
-
-
 
 १) तु. खपरः; ना३.४. रा. ते. स पर; ग्र १. स वरपरव्रताको; म४. खवर। —२) ना२.यो यो नः ग्र १. योषिक; म४.५. यो जगति (योडलीक°)। तु१. म४.५. युवतीम् ; तु२. सु. ना१.३.४. ग्र ४. युवतिम्; ग्र१. युवतिः। —३) ना१. स्वर्गे; ग्र ४. स्वर्ग।—४) ना२. स्वर्गपि ताश्चाप्सरसः। तु. सु. च स्त्रियोप्सरसः। ( चाप्सरसः)।
 
@@ -3011,8 +2584,6 @@ Tata Institute of Fundamental Research.
 
  मत्तेभेति ॥ भुवि भूलोके मत्तेभानां मदद्वारणानां कुम्भदलने शिरः पिण्डविपाटने शूराः विक्रान्ताः सन्ति। केचिदन्ये प्रचण्डानां अत्यन्तकोपानां मृगराजानां केसरिणां वधे निधनेऽपि दक्षाः पटवः सन्ति विद्यन्ते। किंतु अपि तु बलिनां शक्तिमतां पुरतः अग्रे प्रसह्य बलात्कृत्य ब्रवीमि वदामि कन्दर्पस्य मदनस्य दर्पदलने मदबिनाशने शूरा मनुष्याः पुमांसो विरलाः कतिचिदेव न तु बहवः सन्ति। गजकण्ठीरवादिजयो नाश्चर्यः। अपि तु मन्मथजय एव आश्चर्य इत्यर्थः ॥ \[ वसन्ततिलका \]
 
-
-
  १) सु१. वीराः; ना३. रा. ते. धीराः ( शूराः )। — २) १. मृगजाति° ( मृगराज)। म५. वधे विदग्धाः।—३) ग्र१. किं नु ( किंतु )। —४) ग्र४. मदने (°दलने ) ॥
 
   भ. ४६६२ (२०११); सुभाष्.७६ ॥
@@ -3023,8 +2594,6 @@ Tata Institute of Fundamental Research.
 यावल्लीलावतीनां हृदि न धृतिमुषो दृष्टिबाणाः पतन्ति ॥७४॥
 
  सन्मार्ग इति॥ भ्रूभिरेव चापैराकृष्टमुक्ता विकृष्टमुक्ताः श्रवणपथगता श्रोत्रमार्गप्राप्ता नीलपक्ष्माणः श्यामाक्षिलोमानः एते लीलावतीनां विलासवतीनां दृष्टिवाणानेत्रशराः धृतिमुषो धैर्यापहारिणः सन्तो हृदि वक्षसि चित्ते च यावन्न पतन्ति तावदेव नरः पुमान् सन्मार्गे सतां पथि आस्ते तिष्ठति। तावदेवेन्द्रियाणां प्राणादीनां प्रभवति प्रभुर्भवति। तावल्लज्जां\[अ\] कार्येषु व्रीडां विधत्ते कुरुते। तावदेव विनयं प्रश्रयमपि समालम्बते अङ्गीकरोति। नातः परमित्यर्थः। यावत्तावच्छब्दाववधौ ॥ \[ स्रग्धरा \]
-
-
 
 १) ते२. निरस्तापदेवे॰। — ३) तु.सु. 'जुषो नील; ग्र१. 'गतान्नील' ('गता नील )। तु. पक्ष्माणमेते। —४) तु.सु. न हृदि।ग्र४दृष्टिपाताः। ना२. पठन्ति; ते २. पतन्ते ॥
 
@@ -3039,14 +2608,10 @@ Tata Institute of Fundamental Research.
 
   भ. १२६६ (४७६) ॥
 
-
-
 तावन्महत्त्वं पाण्डित्यं कुलीनत्वं विवेकिता।  
 यावज्ज्वलति नाङ्गेषु हतः पञ्चेषुपावकः ॥ ७६ ॥
 
  तावदिति॥ यावदङ्गेषु देहावयवेषु हतो दुरात्मा पञ्चेषुपावकः कुसुमायुधानलः न ज्वलति न प्रवर्धते तावदेव महत्त्वं महापुरुषत्वम्। तावदेव पाण्डित्यं वैदुष्यम्। तावदेव कुलीनत्वं सत्कुलप्रसूतत्वम्। तावदेव विवेकिता विवेचनशालित्वम्। यदा तु पञ्चेपुरूपः पावकः अङ्गेषु ज्वलति तदानीं महत्वं पाण्डित्यं कुलीनत्वं विवेकिता च भ्रश्यन्तीत्यर्थः ॥ \[ अनुष्टुप् \]
-
- 
 
 \[ अडयार २९ ई २ कोशे नास्ति \] २) तु.सु. विवेकत्वं कुलीनता; ग्र ४. विवेकित्वं कुलीनता;ग्र ५. म४. कुलीनत्वं विवेकता; म३. कुलीनत्वं विपाकता।— ३) तु१. ना२. नागेषु।— ४) तु. सु.हन्त; ना२. हुतः; म४.५. ततः ( इतः )। म३. पावकाः; ४.५. सायकः ॥
 
@@ -3066,15 +2631,10 @@ Tata Institute of Fundamental Research.
 **कृशः काणः खञ्जः श्रवणरहितः पुच्छविकलो  
 व्रणी पूयक्किन्नः कृमिकुलशतैरावृततनुः।**  
 
-
-
-
 क्षुधाक्षामो जीर्णः पिठरककपालार्पितगलः  
 शुनीमन्वेति श्वा हतमपि च हन्त्येव मदनः॥७८॥
 
  कृश इति॥ कृशः अन्नाभावादश्ललक्ष्णः। काणः एकाक्षः। खञ्चखोडः। श्रवणरहिरिच्छिन्नकर्णः। पुच्छविकलः कृत्तलाङ्गूलः। व्रणी ईर्मवान्। पूयक्लिन्नः पूयार्द्रः। कृमीणां देह एवोत्पन्नानां कीटानां कुलशतैरपरिमितैः संघैः। शतं सहस्रमित्यादयः शब्दा अपरिमितवाचकाः। आवृततनुर्व्याप्तशरीरः। क्षुधया बुभुक्षया क्षामो दुर्बलः जीर्णः स्थविरः। पिठरकस्य स्थाल्याः कपाले कर्परे अर्पितो निहितो गलः कण्ठो येन स तादृशः। श्वा शुनकः शुनीं सरमामन्वेति अनुव्रजति। मदनः कामो हतं मारितमपि हन्ति मारयत्येव। एवंविधं श्वानमपि मन्मथो विकृतिं नयति किमुत सृष्टान्नभोजनपुष्टं जनमित्यर्थः ॥ \[ शिखरिणी \]
-
-
 
 १) तु२. काणः; ग्र५. कोणः (काणः )। ना२. कुञ्जः( खञ्जः)। तु. पृच्छविकटो।— २)तु२. रा१. ते. ग्र४. क्रिमिकुल; ग्र३. कृमिकुल। ना२. रादृत; ग्र४. 'राचित' ('रावृत )।— ३) ग्र १. पिठरित'। रा. "कसालार्पित। ना ५. पितगुणः। —४) ना २. शुनीमभ्येति। तु १. सु. हन्तेव { =घातुक इव -सु- }; ना२. इन्लेष ॥
 
@@ -3087,11 +2647,7 @@ Tata Institute of Fundamental Research.
 
  स्त्रीमुद्रामिति॥ ये मूढा बालिशाः कुधियः कुत्सितबुद्धयः सर्वार्थसंपत्करीं सर्वेन्द्रियार्थसमृद्धिविधायिनीं जयिनीं जयशालिनीं {जयावहामित्यर्थः। 'जिदृक्षी'त्यादिना इनिप्रत्ययः. रा. कुसुमायुधस्य मन्मथस्य स्त्रीमुद्रां स्त्रियमेव लाञ्छनं प्रविहाय त्यक्त्वा मिथ्याफलान्वेषिणः असत्यस्वर्गादिफलान्वेषिणः सन्तो यान्ति गच्छन्ति। ते कुधियः तेन मन्मथेनैव निर्दयतरमत्यन्तं दयारहितं यथा भवति तथा। निहत्य प्रहृत्य। नग्नीकृता दिगम्बरीकृताः। मुण्डिता मुण्डितमस्तकाः कृताः। केचिदन्ये पञ्चशिखीकृताः पञ्च शिखा येषां सन्तीति ते तथाविधाः कृताः। केचिज्जटिला जटाधारिणः कृताः। अपरेऽन्ये कापालिकाः पाषण्डिनश्च कृताः ॥ \[शार्दुल-विक्रीडितम्\]
 
-
-
 १) तु२. स्त्रीमुद्रा; ना२. स्त्रीमुद्राः। तु१. सु. जयनीं; ना२. जयनी।तु २. ना.२ संपत्करी। —२) तु१ (नू.). सहसा विधाय; तु१ ( टी ). २. सु. सहसा विहाय; ग्र २ (मू.). प्रविहाय यन्ति।
-
-
 
  ना२. कुधिया।—
 
@@ -3108,8 +2664,6 @@ Tata Institute of Fundamental Research.
 
 विश्वामित्रेति॥ बाताम्बुपर्णाशनाः वायूदकजीर्णपत्रभक्षिणः विश्वामित्रपरा शरप्रभृतयः गाधेयशाक्तेयादयोऽपि सुललितमतिसुन्दरं स्त्रीमुखपङ्कजं कामिनीमुखकमलं दृष्ट्वा विलोक्य विमोहं विशेषाज्ञानं मूर्छा वा गताः प्राप्ताः। ये मानवा मनुष्याः सघृतं साज्यं पयसा क्षीरेण दघ्नापयस्येन युतं संयुतं शाल्यन्नंओदनं भुञ्जते भोजनं कुर्वन्ति तेषां तादृशशाल्यन्नभोक्तॄणां इन्द्रियनिग्रहः चक्षुरादिनिग्रहणं यदि भवेत् अस्ति चेत् सागरे समुद्रे विन्ध्यशैलोऽपि प्लवेत् तरेत्। विश्वामित्रप्रभृतीनामपि इन्द्रियनिग्रहणं कर्तुं न शक्यते किं तु सकलभोगवतां कथं शक्यत इति भावः॥ \[ शार्दूलविक्रीडितम् \]
 
-
-
 १) तु२. १. म१. २. पर्णाशिनस्। —२) म३.४. दिव्य- (तेऽपि ) \। नार. दृष्ट्वा च; ग्र२.४. म३.५. दृष्ट्वापि; ३. म ४. दृष्ट्वा वि। तु१. संमोहिताः ( मोहं गताः )। —३) म५. सगुलं (संघृतं)। तु. सु१. ना२. ग्र१.म३.४. भुञ्जन्ति ये; ग्र २हे भुञ्जते। —४) सु. तरेद (प्लवेत् ) ॥
 
  भ. ६२०४ (२८५३)। प्रबन्धचिन्तामणौ४. १८२ (२०५)। सु २. पृ० २३५.४७ (पृ० २७८.७; भर्तृ॰)। सुभा. पृ० २५२.५७ ॥
@@ -3120,8 +2674,6 @@ Tata Institute of Fundamental Research.
 चिता दहति निर्जीवं चिन्ता जीवन्तमप्यहो ॥
 
 \[ अडयाद २९ ई २. शृङ्गार. ४.२० \]
-
-
 
 **॥ ऋतुवर्णनम् ॥**
 
@@ -3143,8 +2695,6 @@ Tata Institute of Fundamental Research.
 विरहिणः प्रहिणस्ति शरीरिणो विपदि हन्त सुधापि विषायते॥८२॥
 
  मधुरिति॥ अयं मधुर्वसन्तः मधुरैः श्रवणसुखैरपि कोकिलाकलरवैः पिकाङ्गनाकोलाहलैर्मलयस्य मलयाचलस्य संबन्धिभिर्वायुभिर्मन्दानिलैश्च { विरहिणः शरीरिणः वियोगिजनान्-रा-} (विरहिणां वियोगिनां शरीरिणां प्राणिनां) प्रहिः णस्ति हन्ति। विपदि आपदि सुधा पीयूषमपि विषायते विषमिवाचरति। हन्तेत्यनुकम्पायाम्। 'हन्त हर्षोऽनुकम्पाया' मित्यमरः ॥ \[ द्रुतविलम्बितम् \]
-
-
 
  १) तु.सुमधुरं; म३. मधुरयन्। तु१. मधुरं च; तु२, मधुरेपि च; म४.५. मधुरैः पिक–(मधुरैरपि)। ग्र १. म३. कोकिलाः; म४.५. कूजितैः। —२) तु१. ना१.३.४ ग्र ३. (मू.). कलकलैः ; म४. अभिनवैः। सु१. मधुरस्य च; ग्र २. मधुरैरपि; ग्र ३. मलयैरपि; ग्र ४, मलयोत्थित° (मलयस्य च)। —३) ना१. ग्र २-४. विरहिणां। तु. प्रणिहन्ति; सु.ना १.५. ग्र ४. म३-५. प्रहिणोति। ना१.३.४. ग्र १.३.४. म१-३. शरीरिणां; ग्र २ (मू). शरीरिणीं। —४) तु. ना२. हन्ति।ना२. सुखं हि (सुधापि) ॥
 
@@ -3168,11 +2718,7 @@ Tata Institute of Fundamental Research.
 
 नी० श० १४ (भ० श०)
 
-
-
 पान्थेति ॥ माकन्देषु रसालेषु पान्थस्त्रियाः पथिकवध्वाः विरहानलस्य वियोगाग्नेः आहुतिकलामाहुतिसंपत्तिमातन्वती कुर्वती मञ्जरी वल्लरी अधुना इदानीं पिकाङ्गनाभिः कलकण्ठकान्ताभिः ( वनप्रियसुन्दरीभिः) सोत्कण्ठमुत्कलिकया सहितं यथा तथा आलोक्यते विलोक्यते। नवपाटलापरिमलप्राग्भार (प्रोद्भार )पाटच्चरा नूतनपाटलिमनोहरगन्धचोराः क्लान्तिवितानतानवकृतः श्रमसंघकृशकारिणः श्रीखण्डशैलानिलाः मलयाद्रिमरुतोऽपि वान्ति वीजन्ति ॥ \[शार्दूलविक्रीडितम् \]
-
-
 
 १) तु२. बिरहानली। तु. ग्र४. °हुतिकथाम्; ना२. °वतिकलाम्। —२) म५. नापि मधुना ( °नाभिरघुना )। सु (टीपा.) आलिङ्गयते (आलोक्यते )। —३) रा. अल्पास्ते; ग्र १ .अस्येते (अप्येते )। तु. म३- ५. नवपाटली। ग्र २. परिमलाः; ग्र ३. परिमले। ग्र १. प्रागज्ज; ग्र ३ (मू). प्रोद्भार (प्राग्भार )। ते१. पाटबरा; ग्र १. पापाटवा।—४) म२. ४. ५. श्रान्ति (क्लान्ति° )। ग्र ४. तान च भृतः। ना२. ग्र १.२ (मू.). ४. श्रीकण्ठ°। तु१. म३.५. शैलानिलः; ना१. शैलानलाः; ग्र १. °कण्ठानिलाः; ग्र २. (मू). शैलानिभाः ॥
 
@@ -3192,8 +2738,6 @@ Tata Institute of Fundamental Research.
 
  सहकारेति॥ सहकाराणां रसालानां कुसुमानां पुष्पाणां केसराणां किञ्जस्कानां निकराणां समूहानां भरः औत्कट्यं तस्य आमोदः परिमलः तेन मूर्छिता व्याप्ताः दिशां हरितां अन्ताः कोट्यः यस्य स तथोक्तः तस्मिन्। मधुरेण खादुना मधुना मकरन्देन विधुरा विवशा मधुषा भृङ्गा यस्मिन्स तादृशे मधौ वसन्ते कस्य जनस्य उत्कण्ठा उत्कलिका नो भवेत् न भवति। सर्वस्यापि उत्कण्ठा जायते इत्यर्थः॥ \[ आर्या \]
 
-
-
  २) तु (मू.). "समूह"; तु (टी). "भवामोद"; ग्र१. °भवामोद°; ग्र २ (मू). °भारमोद°(°भरामोद)। —३) तु (म्.). °विदुध; तु (टी). निरत; म२.४.५. °मुखर° (°बिधुर°)।—४) ना२. भवति मधौ; ना३.४. मधुनि भवेत्। ग्र १. नोत्कण्ठाः ॥
 
  भ. ६९६५ (३२२४); काव्यसं २९; शतकावलौ ६६। सु. १६६६ (कपिलरुद्रकस्य)।शा. ३७८७ ( कपिलरुद्रस्य)। सुभा. पृ० ३३१.९ (कपिलरुद्रस्य) ॥
@@ -3204,8 +2748,6 @@ Tata Institute of Fundamental Research.
 ग्रीष्मे मदं च मदनं च विवर्धयन्ति॥८७॥
 
  अच्छाच्छेति॥ अच्छाच्छेन अतिखच्छेन चन्दनरसेन मलयजद्रवेण आर्द्रकराः क्लिन्नहस्ता मृगाक्ष्यो हरिणेक्षणाः धारागृहाणि यन्त्र ( मन्त्र, यज्ञ ) धारागाराणि कुसुमानि पुष्पाणि च कौमुदी चन्द्रिका च। मन्दो मन्थरः मरुदनिलश्च। सुमनोभिः कुसुमैः शुचि शुभ्रं हर्म्यपृष्ठं उपरितलं च। एतानि ग्रीष्मे निदाघर्तौ मदं दर्पं मदनं कन्दर्प च विवर्धयन्त्येधयन्ति ॥ \[ वसन्ततिलका \]
-
-
 
 १) ना२. अच्छाल°। ना५. रा. ते. ग्र ४. म५.°रसार्द्रतरा; ग्र १. रसप्रकरा; म१-३. °रसार्द्रकुचा तु. मृगाक्षो। —२) म १- ३. °गृहाश्च। —३) तु. °त्सुमनसां; ग्र २.३.५. °श्व सुमनः। —४) ना२. मुदं (मदं )। ग्र ३ (मू.). विवर्धयन्ती॥
 
@@ -3219,8 +2761,6 @@ Tata Institute of Fundamental Research.
  स्रज इति ॥ हृद्यामोदाः मनोहरगन्धाः स्रजः पुष्पमालिकाश्च व्यजनस्य तालवृन्तस्य पवनो वातश्च चन्द्रकिरणाः शशिमयूखाः परागः कुसुमरेणुश्च कासारः सरसी मलयजरजश्चन्दनधूलिः विशदं निर्मलं सीधु मद्यं शुचिः शुभ्रः सौघोत्सङ्गः प्रासादाग्रं प्रतनु वसनं अतिसूक्ष्मवस्त्रं पङ्कजद्दशः कमललोचनाश्च निदाघर्तौ ग्रीष्मे एवं विलसति शोभमाने सति सुकृतिनः पुण्यवन्तः लभन्ते प्राप्नुवन्ति ॥ \[ शिखरिणी \]
 
  १) तु. हृयामोदो; ग्र१. हृयामोद–। ग्र १. किरण–(-पवन-)। ते२. ग्र १.४. म१. ४.चन्द्रकिरणः; ग्र २ (मू). चन्द्रिकिरण। २) म५. वराङ्गः (परागः )। ग्र ४. रसाः; म१-३. °रसः(°रजः)। तु२. ना३-५. रा. ते१. ग्र ५. शीधु ना२. ग्र १.२ (मू.). सिन्धु–;ग्र ३.म१.२.४.५.
-
-
 
  शीथुः ग्र ४. लोध्र-; म३. शीत- (सीधु )। ग्र १.४. म१- ३. विशदः। —३) ग्र १. रुचिः (शुचिः)। ना२. म३. -वसनाः; ग्र १. तपन ( वसनं )। —४) तु. ना१. ते१. म३-५. निदाघार्ताव् ;ना२. निदाघान्ते; ग्र ४. निदाघात्तौ; म२. निदाघे तान्। ग्र १. निदाघावर्तापिद्विलसति। तु. एते; ना२.चैतद्; ग्र ४. केचिद्; म२. एतान्; म३.-पेताद्। तु. सुखमुपलभन्ते; सु२. विलसति भवन्ते ॥
 
@@ -3271,16 +2811,12 @@ Tata Institute of Fundamental Research.
 
   भ. २५०३ (१००५) ॥
 
-
-
 वियदुपचितमेघं भूमयः कन्दलिन्यो  
 नवकुटजकदम्बामोदिनो गन्धवाहाः।  
 शिखिकुलकलकेकारावरम्या वनान्ताः  
 सुखिनमसुखिनं वा सर्वमुत्कण्ठयन्ति॥११॥
 
  वियदिति॥ उपचितमेधं घटितवारिवाहं वियत् व्योम कन्दलिन्यः नवाङ्कुरवत्यः शिलीन्धवत्यो वा। भूमयो भुवः नवानां नूतनानां कुटजानां गिरिमल्लिकानां कदम्बानां नीपानां आमोदः परिमलो येषां ते तथाविधाः। गन्धवाहा वायवः। शिखिकुलकलकेकारावरम्याः मयूरसमूहव्यक्तकेकाध्वनिमनोहराः वनान्ता अरण्यप्रदेशाश्च सुखिनं सुखवन्तं अनुरक्तमिति यावत्। असुखिनं सुखरहितं विरक्तमित्यर्थः। वाशब्दः समुच्चये सर्व जनमुत्कण्ठयन्ति संतोषयन्ति ॥ \[ मालिनी \]
-
-
 
 २) तु. नवकुसुम; म. नवकुटच। ग्र २ (मू.). म३. माहिनो ; ग्र ४. मोदनो। तु. गन्धवाहः। —३) ग्र १. रम्यमाणा; म३. रावकान्ता ( "रावरम्या)। ते२. ग्र१. बनान्ता ॥
 
@@ -3298,8 +2834,6 @@ Tata Institute of Fundamental Research.
 **इतो विद्युद्वल्लीविलसितमितः केतकितरोः  
 स्फुरद्गन्धः प्रोद्यज्जलदनिनदस्फूर्जितमितः।**
 
-
-
 इतः केकीक्रीडाकलकलरवः पक्ष्मलदृशां  
 कथं यास्यन्त्येते विरहदिवसाः संभृतरसाः॥९३॥
 
@@ -3316,13 +2850,9 @@ Tata Institute of Fundamental Research.
 
  असूचीति ॥ तमस्यन्धकारे। असूचीसंचारे { सूच्यन्नमात्रस्याप्यनवकाशप्रदे- रा} (असूचेः संचारे सूच्यप्रकाशे ) शून्ये सति। नभस्याकाशे। प्रौढजलदध्वनिप्राशंमन्ये व्यूढमेघस्वनितप्राशंमाने \[ प्राशमानिनि\] सति। पृषतानां विन्दूनां निचये समूहे पतति गलति सति। कनककमनीयं सुवर्णवन्मनोहरं सौदामिन्यास्तटितः इदमेतद्विलसितं विलासः खैरसुदृशां स्वैरिणीनां पथि मार्गे मुदं संतोष म्लानिं ग्लानिं च च प्रथयति प्रकटयति। स्वमार्गप्रकाशकत्वहेतुना संतोषः। अन्यदर्शनहेतुना ग्लानिश्चेत्यर्थः ॥ \[ शिखरिणी \]
 
-
-
 १) ना२. असूचिः; ना३.४. प्रसूते; ग्र २. असूचेः; ग्र ३. आसूचेः; ग्र४. प्रसक्ते; ग्र ५. असुर्ये। सु२. ना३.४. ग्र ४. °संसारे; म४.५ °संपाते (°संचारे )। ग्र १. किमसि नहसि; ग्र ४. मनसिनभसि। —२) तु. प्रादुर्भावे; सु. ना४. ग्र २ (टी). प्रशंमन्ये। तु. दृषदानां; म१.२.४. पृषितानां। ग्र४. पृषतये ( च निचये )। —३) ना३ ५. रा. ग्र ५. सौदामन्याः। ना२. बिकसितं; ग्र ४.विलसिता \। ४—) ग्र १. २ ( मू.). ४. म्लानं। ना५. प्रथयति। ग्र ४. स्वैरिणिदृशाम् ॥
 
  भ. ७८५ (२९४); शतकावलौ ६७। सक. २.६६.२ (पृ० ११३; सुभटस्य) ॥
-
-
 
 आसारेण न हर्म्यतः प्रियतमैर्यातुं बहिः शक्यते  
 शीतोत्कम्पनिमित्तमायतदृशा गाढं समालिङ्ग्यते।  
@@ -3342,8 +2872,6 @@ Tata Institute of Fundamental Research.
 
 अर्धमिति॥ विविक्ते विजने हर्म्यपृष्ठे प्रासादोपरि निशाया रात्रेरर्घम् समांशं सुप्त्वासंवेश्य सरभससुरतायाससन्नश्लाथाङ्गः ससंभ्रमनिधुवनश्रमसन्नश्लक्ष्णावयवः प्रोद्भूतासातृष्णः संभूतासह्यपिपासः मधुमदनिरतो मद्यमदासक्तो जनस्तु कर्करीतः कलशविशेषात् संभोगक्लान्तकान्ताशिथिलभुजलतावर्जितं सुरतश्रान्ततरुणी-वाहु- विमुक्तं ज्योत्स्नया चन्द्रिकया भिन्ना मिलिता अच्छधारा स्वच्छधारा यस्य तत्ता दृशं शारदं शरत्कालसंबन्धि सलिलं जलं पिवति। मन्दपुण्यः मन्दभाग्यस्तु न पिवति पानं न करोति ॥ \[ स्रग्धरा \]
 
-
-
 १) म३. °
 
 तावास° (°तायास )। ना२. सन्नः ग्र १. म १.२.४. °
@@ -3351,8 +2879,6 @@ Tata Institute of Fundamental Research.
 सङ्ग°
 
 ; म३. 'संवि° (°सन्न)। —२) सु३. प्रोद्धूतासह्य; ४. प्रोद्धातानह्य; म४. प्राग्भूतासन्न। ना२ वर्षे ; ग्र. °तृप्णुर् ग्र४. तृप्ते; म१.२. तृष्णं; म४. तृष्णा (तृष्णो )। ना३. ग्र ४. °विरतो; म५. सरतो ( °निरतो )।— ३) ग्र४. °वर्धितुंः म५. विल्लितं (वर्जितं )। ना२. शार्वरीशो; ते२. कर्करीशो; म४.५. कर्क-
-
-
 
  रीभ्यो।— ४) ना२. ज्योत्स्नाभिर्नाच्छधारं; ग्र१. म१.२. ज्योत्स्नाच्छायाभिरामं; ग्र४. ज्योत्स्नाभिन्नाम्बुधार; म३. ज्योत्स्नोभिन्नाच्छधारं; म४. ज्योत्नोभिन्नात्तसारं; म५. ज्योत्स्नाच्छायात्तसारं।ना२. ग्र १. पिबति न; म१.२.५. पिवति च। ग्र १. सबिलिं ( सलिलं )। सु. ना२. म ४.५. मन्दभाग्यः; म३. मन्दपुण्याः ॥
 
@@ -3378,8 +2904,6 @@ Tata Institute of Fundamental Research.
 
  प्रोद्यदिति॥ { प्रोद्यन्त्य उदित्वराः प्रौढाः प्रवृद्धाश्च याः प्रियङ्गवः ताभिः शोभां बिभर्तीति तथोक्ते } (प्रोद्यद्गाढप्रियङ्गुद्युतिभृति प्रोन्मिषत्सान्द्रफलिनीकान्तिधरे) विकसत्कुन्देषु विकसनशीलकुसुमेषु माद्यन्तो भत्ता द्विरेफा भ्रमरा यस्मिंस्तथोक्तस्तस्मिन्। प्रालेयवातैर्हिमवायुभिः प्रचलानि चञ्चलानि विलसितानि प्रकाशमानानि उद्दामानि बहूनि मन्दारदामानि पारिजातकुसुमस्रजो यस्मिंस्तादृशे
 
-
-
  काले हेमन्तर्तौ तुहिनक्षोददक्षा(:) हिमनिवारणसमर्था(:) मृगाक्षी (क्ष्यः) हरिणेक्षणा(:) येषां यूनां कामिनीनां क्षणमपि क्षणमात्रमपि नो कण्ठलग्ना (:) कण्ठलग्ना न भवति (न्ति)। नालिङ्गिता चे (श्चे) दित्यर्थः। तेषां यूनां कामिनां आयामियामा आयतप्रहरा यामिनी रात्रिः यमसदनसमा अन्तकगृहकल्पा सती याति गच्छति ॥ \[स्रग्धरा\]
 
  १) ग्र २. ३. प्रोद्यनाढ। ग्र १. म१.२. विलसत् –; ग्र ५. विदलत्-(विकसत्-)। तु. द्विरेफाः; ग्र २ (मू.). द्युरेफे। —२) ते १. °बाता ('वात' )। तु. ना२. "प्रबल" ("प्रचल )। ना२ विकसितो। तु१. "द्दार; तु२. ना३-५. रा. ते. ग्र५. 'दार" ("द्दाम" )। तु१. सु. ना२. ग्र५.॰दान्नि; तु२. °दन्नि; ग्र३ (मू ). दाम्ना (°धाम्नि)। —३) ना२. ते२. ग्र २. एषां ( येषां )।सु. ग्र २. नो कण्ठलग्ना; ना२. ग्र४.५. नोत्कण्ठलमा; ते१. नः कण्ठलग्ना; म३. नो कर्णलग्न- सु१. क्षोददक्ष्या; ना२, क्षोदवक्षा; ग्र १. म२. क्षोदरक्षा ; ग्र ४. क्षोभदक्षा; म१. क्षोभरक्षा; म३. क्षोभराक्षो। सु. २.३. मृगाक्ष्यस्ः म३. मृगाक्ष्या। —४) तु. आयातयामैर्; सु.आयामियामैर; ना३-५. रा. ते२. ग्र ४.५. आयामयामा। ग्र १. म१.२. यातु नूनम्; म३.४. यातुयूनाम् (याति यूनाम् ) ॥
@@ -3395,13 +2919,9 @@ Tata Institute of Fundamental Research.
 
  चुम्बन्त इति॥ कान्ताजनानां कान्तासमूहानां गण्डभित्तीर्भित्तितुल्यगण्डस्थलानि। चुम्बन्तचुम्बनमाचरन्तः। मुखे वदने अलकवति विस्तृतकेशे सति। सीत्कृतानि सीत्काराणि आदधानाः कुर्वन्तः सीत्कारवति \[ मनु\] कुर्वन्त इत्यर्थः। वक्षःसु उरःसु स्तनेष्विति यावत्। उत्कञ्जुकेषु धृतवारवाणेषु स्तनभरेषु कुचभारेषु पुलकोद्भेदं रोमाञ्चोत्पत्तिमापादयन्तः संपादयन्तःऊरून्सक्धीनि आकम्पयन्त ईपच्चालयन्तः पृथुजघनतटाद्विशालकटिपुरोभागात् अंशुकानि वस्त्राणि स्रंस-यन्तः भ्रंशयन्तः विटचरितभृतः पिङ्गचारित्रभाजः शैशिराः शिशिरर्तुसंबन्धिनोबाता वायवो व्यक्तं स्फुटं यथा तथा वान्ति प्रसरन्ति ॥ \[ स्रग्धरा \]
 
- 
-
 \[ म४. ५. कोशयोर्नास्ति \] १) ना२. गल्लभित्तीर। सु१. स्वीत्कृता; ना२. संसीत्कृता। तु.आददाना। —२) ग्र ३. वक्षस्तत्कचुकेषु। ना२. त्कबुकीषु। ग्र ४. स्तनपुटपुलको। तु. द्वण्डमा पादयन्तः; ना२. °द्भेदमासादयन्तः। —३) ग्र १. तटी ग्र ३. तटत्। सु१. २. संसयन्तोशानि ग्र ३. भ्रंशयन्तोंशुकानिः ग्र ४. संसयन्नंशुकानि। —४) ग्र ४. वृत्तं (व्यक्त)। ग्र १. म१.२. विदितरतिकृतः (ग्र१. °ताः) (बिटचरितभृतः)। ग्र ३. वन्ति पातः ॥
 
 नी० श० १५ (भ० श०)
-
-
 
  भ. २३०२ (९१८); शतकावलौ ६८। शा. ३९४५। सु. १८५५। सुमु. ६४.९ (वङ्कलावर्तस्य)। सुभा. पृ० ३४८.१९॥
 
@@ -3432,8 +2952,6 @@ Tata Institute of Fundamental Research.
 
  \[ ग्र ४.शृङ्गार ९९; म४.५. शृङ्गार५.२० \] \[ सक. २.१७५.१ (पृ० १८२ ) \]
 
-
-
 **॥ वैराग्यशतकम् ॥**
 
 **तृष्णादूषणम्।**
@@ -3446,8 +2964,6 @@ Tata Institute of Fundamental Research.
  चूडोत्तंसितेति। योगिनां अष्टाङ्गयोगवतां चेतसि। मनस्येव सद्मनि गृहे
 ज्ञानप्रदीपो ज्ञानप्रकाशको हरः परमेश्वरो विजयते सर्वोत्कर्षेण स्फुरति। दीपोऽपि गृहे स्फुरति। ज्ञानस्वरूपः परमेश्वरोऽपि ध्यान निष्ठानां चेतःसंज्ञके गृहे स्फुरति विशे येणैव परमेश्वरस्य दीपसाम्यमाह। चूडायां मौलौ उत्तंसिता शेखरीकृता। 'पुंस्युकं " सावतंसी द्वौ कर्णपूरी तु शेखर' इत्यमरः। चार्वी रमणीया चन्द्रकलिका (चन्द्रिका) सुधांशुकला। सैव चञ्चती \[ न्ती \] प्रकाशमाना शिखा ज्वाला तया भासुरो दीप्यमानः। दीपोऽपि चञ्चच्छिखाभासुरो भवति। लीलया अक्लेशेनैव दग्धो भस्सीकृतः विलोलश्चपलः कामो मदन एव शलभः पतंगो येन स तादृशः। प्रदीपोऽपि विलोलं शलभं लीलया दहति। श्रेयोदशाया मोक्षावस्थाया अग्रे प्रथमं स्फुरन्विद्योतमानः। दीपोऽपि श्रेयस्या अतिशोभनायाः। 'श्रेयाञ्श्रेष्ठः पुष्कलः स्यात्सत्तमश्चाति शोभन' इत्यमरः। दशाया वर्तेः अग्रे शिरसि स्फुरति। श्रेयसी च सा दशा चेति कर्मधारये 'पुंवत्कर्मधारयजातीयदेशीयेषु' इति पुंवद्भावात्ङीपो लोपः। ततः 'ससजुषो रुः' इति रुत्वे हशि चेत्युत्वे आहुण इति गुणे च कृते श्रेयो इति रूपं भवति। अन्तश्चित्ते स्फूर्जन्विजृम्भमाणः अपारोऽनन्तो मोहोऽज्ञानं स एव तिभिरमन्धकारः। तस्य प्राग्भारो बाहुल्यम्। तं उच्छेदयन् उन्मूल-यन्। दीपोषि अन्तः गृहाभ्यन्तरे स्फूर्जन्तमपारतिमिरप्राग्भारं छेदयति ॥ \[ शार्दुलविक्रीडितम् \]
 
- 
-
 १) ते२. मारोत्तंसित°। ना३. रा.ग्र१. २. म३. चन्द्रचार। म३. कलितं ( °कलिका°)। ना२. बिभ्रच्छिरोभा; तु. ना३. रा. ग्र १.४. म४. ५. भाखरो. —३) तु१. अन्ते स्फूजिंद; तु२. अन्तःस्फूर्जिद°। रा. ग्र. म१-३. °मुच्चाटयन्।—४) ना२. श्रोतःसद्मनि ॥
 
   भ. २३०३ (९१९)। सूमु. १.६ (पाठान्तरैः) ॥
@@ -3457,11 +2973,7 @@ Tata Institute of Fundamental Research.
 भुक्तं मानविवर्जितं परगृहेष्वाशङ्कया काकव-  
 त्तृष्णे जृम्भसि पापकर्मपिशुने नाद्यापि संतुष्यसि॥२॥
 
-
-
   भ्रान्तमिति॥ अनेकैर्बहुविधैर्दुर्गैः वनादिप्रभृतिभिर्विषमं गन्तुमशक्यं देशं विषयं \[ उद्दिश्येति शेषः। भ्रान्तं अटितं। भावे प्रत्ययः \] (भ्रान्त्वा परिभ्रम्य ) किंचिदल्पमपि फलं न प्राप्तं न लब्धम्। जातौ ब्राह्मणत्वादौ कुले वंशे च उचितमहे अभिमानं चित्तसमुन्नतिं त्यक्त्वा विहाय सेवा श्ववृत्तिः कृता विहिता। सापि निष्फला फलरहिता। परेषामन्येषां गृहेषु वेश्मसु मानविवर्जितं बहुमानहीनं यथा भवति तथा काकवज्ञायसेनेव आशङ्कया मामेते वारयिष्यन्ति किं निर्भर्त्सयन्ति किं इत्येवमादिकया सह भुक्तमभ्यवहृतम्। इदं सर्वमपि तृष्णामयमिति तृष्णामुपालभते। पापस्य कर्मणः पिशुने सूचके हे तृष्णे स्पृहे जृम्भसि वर्धसे। अद्यापि इदानीमपि न विश्राम्यसि न विरमसि। यस्य तृष्णा महती वर्तते स पूर्वस्मिञ्जन्मन्यपि तृष्णावान्पापकृद्भविष्यति चेति ज्ञायते। तृष्णामूलकत्वात्परस्खग्रहणदुःखप्रतिग्रहादीनाम् ॥ \[ शार्दूलविक्रीडितम्\]
-
-
 
 १) ग्र ३.५. म५. भ्रान्त्वा (भ्रान्तं )। —२) ना५. मुचिता। म३. निष्फलं। —३) ना१. भुङ्क्त। —४) ना१. पापरूप°। तु. °निरते (°पिशुने )। ग्र ३ ( मू.). संतुष्यति ॥
 
@@ -3478,16 +2990,12 @@ Tata Institute of Fundamental Research.
 
  भ. ११७० (४३९); सुभाष्. २८७। सुर. पृ० ६६.४ (भर्तृ)। सुभा. पु० ७७.४९।सूहा. १७५.२८ (भर्तृ॰) ॥
 
-
-
 खलालापाः सोढाः कथमपि तदाराधनपरै-  
 निगृह्यान्तर्बाष्पं हसितमपि शून्येन मनसा।  
 कृतो वित्तस्तम्भप्रतिहतधियामञ्जलिरपि  
 ॥ ॥ त्वमाशेऽमोघाशे किमपरमतो नर्तयसि माम्॥४॥
 
  खलालापा इति॥ खलानां दुर्जनानां आलापः {-दुर्भाषितानि. रा. } (उल्लापाः परुषोक्तयः) कथमपि कृच्छ्रेण तेषामेव दुर्जनानां आराधनपरैः {-तत्सेवातत्परैः -रा-) आराधनरतैः सेवासक्तैः अस्माभिः सोढाः क्षान्ताः। अन्तरभ्यन्तरे बाप्पं नेत्राम्बु निगृह्यावरुध्य शून्येन हासहेतुरहितेन मनसान्तःकरणेन सह हसितं हासोऽपि कृतः। वित्तस्तम्भेन धनावष्टम्भेन प्रतिहताधियां नष्टबुद्धीनां अञ्जलिरपि करद्वयघटनापि कृतो विहितः हे आशे तृष्णे अमोघाशे अप्रतिहतोद्योगे। अतोऽस्मादपरं किमन्यन्मां नर्तयसि लास्यसि। यत्कारयितव्यं तदखिलमपि कारितमेवेत्यर्थः॥ \[ शिखरिणी \]
-
-
 
 १) ना२-५. ग्र १-३.५. खलोल्लापाः। —३) तु. ना२. कृतश्चित्तस्तम्भ –। ना१. - प्रणिहितधियाम्। —४) तु२. ते मितो (मतो)॥
 
@@ -3503,8 +3011,6 @@ Tata Institute of Fundamental Research.
  १) तु१. विसनी; तुर. विसिनी ना१. °पत्रपयसा। —२) तु. कृतं। तु२. व्यवसिताम्। —३) ना१. धनाढ्यानाम्। तु. निःसीममनसां; म१.२. निःसंज्ञमनसा। —४) ग्र १-३. कृत-। तु१. म्लानंव्रीडैर्; सु. वीतव्रीडेर् रा. ग्र ४. मानव्रीडैर् ॥
 
  भ. ५२६ (१९७)। शान्तिशतके १.१९। सुभा पृ० ७७.४५। सुर. पृ० ६७.३० (भर्तृ॰)। सक. ५.४३.३ (पृ ० ३०६; धर्मकीर्तेः ) ॥
-
-
 
 क्षान्तं न क्षमया गृहोचितसुखं त्यक्तं न संतोषतः  
 सोढा दुःसहशीतवाततपनक्लेशा न ततं तपः।  
@@ -3522,11 +3028,7 @@ Tata Institute of Fundamental Research.
 
  भोगा इति॥ भोगा वैषयिकसुखानि न भुक्ता नानुभूताः किं तु वयमेव कालेन भुक्ता भक्षिताः। तपः कृच्छ्रचान्द्रायणादिना शरीरशोषणं न तप्तं न कृतम्। किं तुवयमेव तप्ताः तापत्रयेण दग्धाः। कालोऽनेहा न यातो न गतः अपि तु वयमेव याता गताः। नवानां द्रव्याणां मध्ये आकाशकालदिगात्ममनांसि पञ्च द्रव्याणि नित्यानि। पृथिव्यप्तेजोवायवस्त्वनित्याः। परमाणुं वर्जयित्वा नव द्रव्याणि तार्किकरक्षायामुक्तानि। 'भूरापो ज्योतिरनिला नभः कालस्तथा दिशः। आत्मा मन इति प्राहुर्द्रव्याणि नव तद्विद' इति। अतः कालस्य नित्यत्वाद्गमनागमनं नास्ति। तृष्णाकाङ्क्षा न जीर्णा न दुर्बला किं तर्हि वयमेव जीर्णाः स्थविरा जाताः। जीवनं व्यर्थमेव जातमित्यर्थः ॥ \[ उपजाति \]
 
-
-
  १) तु१. भोगा न भुङ्क्ता; ते. भुक्ता न भोगा। ते२. वयमेव भोक्ता ॥
-
-
 
  भ. ४६३१ (२०७०); सुभाष्. ११७। शा. ४१५० ( भर्तृ°)। सु. ३३९६। क्षेमेन्द्रस्य औचित्यविचारचर्चायां (का०१. पृ० १५४; परिव्राजकस्य )। सुभा पृ० ३७४.२०९ (भर्तृ°) ॥
 
@@ -3549,8 +3051,6 @@ Tata Institute of Fundamental Research.
  १) म५. वपुषि (पुरुष–)। तु. सु. ना१. म१.५. मानो विगलितः। —३) तु. यद्युत्थानं। ग्र १. "विद्धे( रुदे)। —४) ग्र १. म१-३. ऽप्यहो; ग्र ४. त्वहो (अहो)। तु. हृष्टः; सु. ना२.पृष्टः; रा. ते. ग्र ५. मूढः; ग्र १. कष्टं; ग्र ४.म १-३. कष्ट(दुष्टः)। ना२. मरणोपाय ॥
 
  भ. ३७७२ (१६१५)। सु. ३३९८। सुभा पृ० ७७.४४। सुर.पृ ० ६७.७ ( रसिकजीवनस)। सुहा. १९६.२३ (भर्तृ°)॥
-
-
 
 आशा नाम नदी मनोरथजला तृष्णातरङ्गाकुला  
 रागग्राहवती वितर्कविहगा धैर्यद्रुमध्वंसिनी।  
@@ -3577,11 +3077,7 @@ Tata Institute of Fundamental Research.
 महद्भिः पुण्यौघैश्चिरपरिगृहीताश्च विषया  
 महान्तो जायन्ते व्यसनमिव दातुं विषयिणाम्॥११॥
 
-
-
  नेति॥ संसारोत्पन्नं भवोद्भूतं चरितं चरित्रं कुशलं हितकारि नानुपश्यामि नावलोके। ननु पापचरितमेव कुशलं मास्तु, पुण्यचरितं कुशलं किमिति न भवतीत्याश‘ङ्क्याह। पुण्यानां सुकृतानां विपाकः फलं विमृशतो विचारयतो मे मम भयं त्रासं जनयति उत्पादयति। अस्मिञ्जन्मनि हिरण्यान्नदानादिना पुण्येन जन्मान्तरेहिरण्यवानन्नवान्भवति। तदपि संसारान्तःपातित्वाद्भयजनकमेव दुःखहेतुत्वात्। तथा चोतं व्यासेन। "अर्थानामर्जने दुःखमर्जितानां तु रक्षणे। नाशे दुःखं व्यये दुःखं धिगर्थं दुःखभाजन” मिति ॥ ननु ज्योतिष्टोमादि महत्पुण्यं चिरकालस्थायिफलदत्वात्कुशलमेवेत्याशङ्क्याह। महद्भिरधिकैः पुण्यौघैः सुकृतसमूहैः चिरपरिगृहीता दीर्घकालमनुभूयमानाः स्वर्लोकविषयाश्चविषयिणां विषयानुभवितॄणां व्यसनं दुःखं दातुं महान्तोऽधिका जायन्ते भवन्ति। इवेति वाक्यालंकारे। तथा हि। केषांचित्स्वर्गवासमात्रं अन्यस्य तु खर्गराज्यमिति। परसंपदुत्कर्षो वा सततं नाशशङ्कया च स्वर्गविषया अपि दुःखावहा एवेत्यर्थः ॥ \[शिखरिणी\]
-
- 
 
 \[ तु. कोशे नास्ति \] ३) ग्र१. १.२.४. हि (च)। —४) ग्र१. महन्तो। ना१.२. इह ग्र१.म. अपि ( इब)। ग्र३ ( मू). दातुर् ( दातुं )। ना२. विषविनाम् ॥
 
@@ -3594,15 +3090,11 @@ Tata Institute of Fundamental Research.
 
  अवश्यमिति \। विषयाः शब्दादयः चिरतरं द्वाधिष्ठं कालं उषित्वां स्थित्वापि अवश्यं सर्वथा यातारो गमिष्यन्त्येव। या प्रापणे। लुटि रूपम्। नश्वरानप्यमून्वि पयाञ्जनो लोकः स्वयमात्मना न त्यजति न जहाति। तैर्वियोगे विरहे को भेदः किमन्तरम्। आत्मना त्यक्तेषु विषयेषु विशेषमाह। एते विषयाः स्वयं जनेन त्यक्ता उज्झिताः सन्तः अनन्तं निरवधिकं शं \[शम\] सुखं शान्तरूपं शर्म विदधतिकुर्वन्ति। स्वातंन्त्र्यात्स्वच्छन्दाजन्तो नश्यन्तो विषया मनसश्चेतसोऽतुलपरितापायनिरुपमसंतापाय। हि खलु ॥ \[शिखरिणी\]
 
- 
-
 १) तु. ना१. चिरपरिगृहीताश्च। —२) ग्र१. हेतुस् (भेदस्)। —३) ग्र५. व्रजन्त्यः।म५. मनसां। —४) तु. मुखं ( स्वयं )। ते२. ग्र३ (मू.). ४. व्यक्त्वा। ग्र५. श्रममुखम्। म३.विदधते ॥
 
  भ. ६६८ (२४३)। सु. ३३८६ (जयादित्यस्य )। शान्तिशतके ३.३। सुभा. पृ०३३८. ४२ ( जयादित्यस्य )। सक. ५. ६२. ५ (पृ० ३१८.; हरेः)।
 
 नी० श० १६ (वै० श०)
-
-
 
 ब्रह्मज्ञानविवेकनिर्मलधियः कुर्वन्त्यहो दुष्करं  
 यन्मुञ्चन्त्युपभोगभाञ्जयपि धनान्येकान्ततो निःस्पृहाः।  
@@ -3622,11 +3114,7 @@ Tata Institute of Fundamental Research.
 
   धन्यानामिति॥ धन्यानां कृतकृत्यानां गिरिकन्दरे \[पु\] पर्वतदर्यो\[दरीषु \] (नि) वसतां स्थितानां परं ज्योतिः ब्रह्मतेजो ध्यायतां चिन्तयतां \[ आनन्दाश्रुकणान् आनन्दबाप्पविन्दून् \] ( आनन्दाश्रुप्रमोदास्रमेव जलमुदकं कर्म ) शकुना विहंगा निःशङ्कं शङ्कारहितं यथा भवति तथा अङ्केशया उत्सङ्गशायिनः सन्तः पिबन्ति धयन्ति। एतेन ध्यानोत्कर्षः कथितः। मनोरथैर्मनोभिलाषैरुपरचितेषु (परिचितेषु ) प्रासादेषु सौधेषु वापीतदेषु दीर्घिकाकूलेषु क्रीडाकाननेषु नर्म-(रम्य) वनेषु ये केलयः तेषु कौतुकजुयां कुतूहलभाजां अस्माकं तु परं केवलं
 
-
-
 आयुर्जीवितकालः क्षीयतेऽपचीयते। ब्रह्मण्यासक्तचित्तानां तु जीवितकालःसार्थकः। विषयोपभोगसंकल्पनिमग्नानां तु आयुर्निरर्थकम् ॥ \[ शार्दूलविक्रीडितम् \]
-
- 
 
 १) तु. ना२. ग्र २.३.५. कन्दरे निवसतां; ना३. "गह्नरेषु वसतां। ना२. परे ( परं )। —२)ना२. १२.३. श्रुजलं; म३. श्रुगणान्।— ३) ग्र ३ (मू.). मनोरथे परिचित-।— ४) ग्र १. परि-क्षीयते ॥
 
@@ -3650,8 +3138,6 @@ Tata Institute of Fundamental Research.
 
  स्तनाविति॥ स्तनौ कुचौ मांसस्यामिषस्य ग्रन्थी पिण्डौ कनककलशौ शातकुम्भकुम्भौ इत्युपमितौ। मुखं वदनं श्लेष्मणः कफस्यागारं वासगृहं तदपि च शशाङ्केन चन्द्रेण तुलितमुपमितम्। स्रवता गलता मूत्रेण प्रस्रवेण क्लिन्नमार्द्रंजघनं स्त्रीकट्याः पुरोभागः करिवरस्य द्विपश्रेष्ठस्य शिरसा मस्तकेन स्पर्धि सहशम्।
 
-
-
 मुहुर्मुईः पुनः पुनः निन्द्यं गर्हणीयं रूपं स्त्रीणामाकृतिः कविजनविशेषैरुत्कृष्टकविभिः गुरु अधिकं कृतम्। अविचारितरमणीयं रमणीयरूपं विचार्यमाणं जुगुप्सास्पदमेवेत्यर्थः ॥ \[ शिखरिणी \]
 
  \[ तु. म३-५. कोशेषु प्रथमद्वितीयचरणौ व्यत्यस्तौ \] १) ते२. शामित्युपमितौ। ग्र १. त्युपमितं।— २) ग्र ३ (मू.). म२-५. श्लेष्माकारं।— ३) तु. तदपि च वराङ्गं निगदितं; सु. ना१. करि-वरकरस्पर्धि जघनं। —४) ना१. परं; ना२. अहो (मुहर्)। सु३. ग्र ४. कविवर (ग्र ४. 'कविजन'इत्यपि ); म४. कविनुत; म५. कविनुति। तु. ग्र४. म१.२.४.५. बचोभिर् (ग्र ४. विशेषैर् इत्यपि);ना२. विकल्पैर। ग्र १. उरु ( गुरु ) ॥
@@ -3672,8 +3158,6 @@ Tata Institute of Fundamental Research.
 अजानन्दाहात्म्यं पततु शलभस्तीव्रदहने  
 स मीनोऽप्यज्ञानाद्बडिशयुतमश्नातु पिशितम्।
 
-
-
 विजानन्तोऽप्येते वयमिह विपज्जालजटिला-  
 न्न मुञ्चामः कामानह ह गहनो मोहमहिमा॥१८॥
 
@@ -3691,8 +3175,6 @@ Tata Institute of Fundamental Research.
  तृषेति ॥ आस्ये वदने तृषा पिपासया शुष्यति शोषं व्रजति सति शीतं शिशिरं सुरभि सुगन्धि सलिलं जलं पिवति धयति। क्षुधा बुभुक्षयार्तः पीडितः सन् मांसादिकलितं पिशितव्यञ्जनादिसहितं शालिं शाल्यन्नं कवलयति ग्रासं करोति। 'तत्करोति तदाचष्ट' इति णिच्। कामो मदनः स एवाग्निः। तस्मिन्प्रदीप्ते ज्वलति सति वधूं तरुणीं सुदृढतरं अत्यन्तं दृढं यथा भवति तथा आश्लिष्यत्युप गृहति। जनो लोको व्याघेरामयस्य पिपासावुभुक्षारागरूपस्य प्रतीकारे चिकित्सायां सुखं शर्मेति विपर्यस्यति वैपरीत्येन बुध्यते। विषयसंयोगजं सुखं पारमार्थिकं न भवति। अपि तु व्याधिचिकित्सा। पारमार्थिकं तु ब्रह्मानन्द एवेत्यर्थः ॥ \[ शिखरिणी \]
 
  १) तु. पिपासुचेत्कक्षित्पिबति। ग्र ५. मृषा (तृषा)। ते१. तृष्यत्यास्ये। म४.५. शीतसुरभि।—२) सु. ते. सन्छालिं; ना१.५. रा. ग्र ४.५ .म१.२. शाल्यन्नं ; ना २. ग्र १.२. सन् शाली; ना३. सन् शाकं ( सशालीन्)। तु२. सूपादि; ना१. माषादि; ना२. मांसाज्य; ग्र १. म१.२.४.५.शाकादि ( मांसादि° )। तु. कलितान्; ना२. कलिताम्; म५. अनुगतान्। —३) तु१. ना२,
-
-
 
  आश्लिष्यति (आलिङ्गति)। तु१. वधु।—४) तु. प्रतीकारो; ग्र २. ३. प्रतीकारे। तु. सु. ना१.३.५.ग्र ९.३. सुखमिव। ग्र १. म१-३.५. विपर्येति कुजनः ॥
 
@@ -3723,8 +3205,6 @@ Tata Institute of Fundamental Research.
 
  \[ग्र ४. वैराग्य. २१\] \[भ. २४२८ (९७८); महाभारते १३.३६७-३६८; हरिवंशे १६४४; पञ्चतन्त्रे ५.१५ (८३); कवितामृत, ६५। सूहा. १७५.२\]
 
-
-
 **याच्ञादूषणम्।**
 
 दीना दीनमुखैः स्वकीयशिशुकैराकृष्टजीर्णाम्बरा  
@@ -3745,8 +3225,6 @@ Tata Institute of Fundamental Research.
 
  अभिमतेति॥ अभिमतस्य सज्जनसंमतस्य महतोऽधिकस्य मानस्य चित्तसमुन्नतेरेव ग्रन्थेः पर्वणः प्रभेदे विघट्टने पटीयसी चतुरतरा। गुरुतराणामधिकानां गुणानां श्रुतशीलवृत्तादीनां ग्रामाः समूहा एव अम्भोजानि सरसिजानि तेषां स्फुटा। प्रव्यक्ता उज्ज्वला विमला चन्द्रिका कौमुदी। विपुला विस्तृता विलसन्ती शोभ-
 
-
-
  माना लज्जा वीडैव वल्ली लता। तस्या \[ वितानं रीतिस्तस्य \] (विदारे छेदने) कुठारिका परशुः एवंविधा जठरपिटरी जठरमुदरमेव पिटरी स्थाली दुष्पूरा पूरयितुमशक्या सती विडम्बनां हास्यं करोति। मानादेर्ग्रन्थ्यादित्वेन समस्तरूपकं, जठरपिठर्याश्चन्द्रिकात्वेन च व्यस्तरूपकत्वं उपमेयतिरोहित- भेदरूपमिष्यते। यथा बाहुलता पाणिपद्मं चरणपल्लवमिति समस्तरूपकम्। “अङ्गुल्यः पल्लवान्यासन्कुसुमानि नखार्चिपः। वाहू लते वसन्तश्रीस्त्वन्नः प्रत्यक्षचारिणः” इति व्यस्तरूपकम्। उप-मारूपकयोरिवशब्दस्तदभावश्च भेदः। उदरपूरणार्थ प्रवर्तमाना गुणलज्जांविहायहास्यास्पदं भवतीत्यर्थः ॥ \[हरिणी\]
 
  १) ग्र२ (म्.). °महानामग्रन्थि°। तु. °ग्रन्थिः; म४. ग्रन्थी ( ग्रन्थि )। ते२. °दघटीयसी। —२) ते२. °ग्रामान्भोज°।ग्र१.म१.२. °ग्रामाम्भोजे सदोज्वल। —३) तु. विमल° (विपुल°)। मा४. ग्र२-४. °विदार°; म४. ५. °कठोर° (°वितान°)। ग्र४. °कुमारिका (°कुठारिका इत्यपि )।—४) ते२. जठरि°। ना२. दुःपूरेयं। तु ना३-५. रा. म३. विडम्बनं ; ग्र१. विडम्बनाः ॥
@@ -3761,8 +3239,6 @@ Tata Institute of Fundamental Research.
  पुण्य इति ॥ पुण्ये पवित्रे ग्रामे संवसथे वाश्रमस्य। पुण्यत्वं स्वाध्यायघोषशास्त्रव्याख्यानशब्दादिना विहितकर्मानुष्ठानपरविप्रसंपत्या प्रसिद्धदेवस्थानादिना " च पुण्ये पावने वने अरण्ये वा वनस्य पुण्यत्वं प्रसिद्धम्। नदीदेवस्थानहरिणसंचारव्याघ्रादिदुष्टमृगरहितकन्दमूलप्राचुर्यादिना। तथा च योगीश्वरः। °यस्मि-न्देशे मृगः कृष्णस्तस्मिन्धर्मान्निबोधत ॥ महति विपुले ग्रामवनयोरपि विशेषणम्। सितेन धवलेन पटेन वाससा छन्ना पाली अवकुण्ठिता अश्रिर्यस्यास्तां कपालीं कर्परमादाय गृहीत्वा क्षुधा बुभुक्षया आर्तः पीडितः सन् उदरदरीपूरणाय कुक्षिगुहाभरणाय न तु देहप्रावल्याय। न्यायो धर्मो गर्भेऽन्तःकरणे येषां तैर्द्विजैर्हुतानां हुतभुजामग्नीनां धूमैर्धूम्रः कृष्णलोहित उपकण्ठः समीपप्रदेशो यस्य तद्वारं प्रतिहारं प्रविष्टः मानी उन्नतचित्तः प्राणी शरीरी सनाथः प्रियः अनुदिनं प्रतिवासरं तुल्यकुल्येषु समानकुलप्रसूतेषु। दीनः पुनः दैन्यवांस्तु नरः। यस्मादयं सनाथः परतन्त्रः न तु स्वतन्त्रः। यत्र बान्धवा न सन्ति तत्र भैक्षचर्यापि मानभङ्गाय न भवति। बन्धुषु दैन्यं मानमुन्मूलयतीत्यर्थः ॥ \[ स्रग्धरा \]
 
  १) तु२. ना१. पुण्यग्रामे; म४. पूर्णे ग्रामे।ना१. पुरे (वने)। तु. ते२. शितपट॥तु. म५.च्छन्नपाली सु. ना१. ३-५. रा. ते. ग्र२. ५. च्छन्नपालिं; ग्र४. च्छन्नमौलिं। ना३-५. रा.कपालिम्।— २) ना३-५. रा. ह्यादाय।सु. न्यायगत्या; ना२. न्यायगर्भा; ग्र१. म१-३. \[आ \] म्नायगर्भ-। तु. हुतभुग्धाम। सु. ना१-४.ग्र२.३ म२.४.५. धूम्रोपकण्ठम्। —३) तु२(मू). प्रतिष्टो; ना२. प्रवृत्तो। ग्र१. म३.४. परम् (वरम्)।
-
-
 
 —४) सु. ना३-५. रा. ते. ग्र ५. प्राणैः (प्राणी)। ना२. स धन्यो ( सनाथो)। ग्र ४. म५. वरमनुदिनं। ना१. तूलतुल्येषु दीनः ॥
 
@@ -3792,8 +3268,6 @@ Tata Institute of Fundamental Research.
 
 नी० श० १७ (वै० स० )
 
-
-
  १) म४.५. काननेभ्यः (कन्दरेभ्यः)। तु. दरिभ्यः (गिरिभ्यः)। –२) ना२. गिरिभ्यः (तरुभ्यः)। ते१. वल्कलिन्यः शशाङ्काः।—३) ग्र ५. म४. वीक्षन्ते। तु१. ग्र ४. म४. ५. प्रसभमुपगत'; तु२. प्रसभमुखगत सु. ना३-५. ग्र २.३. प्रसभमुपरत; ना२ प्रसभसमगत; म२. प्रसभमवगत°।—४) ना३.४. दुःखात्तस्वल्पवित्त; रा. ते. दुःखाप्तस्वल्पवित्त। तु. ग्र ३. "वशपवनानर्तितः ना१. २. ग्र १.४. म१.२.५, पवनवशान्नर्तित; ग्र २. परपचनानर्तित; म४. 'परवशतानर्तित।ना२. भ्रूतलानि ॥
 
   भ. १७२५ (६६५)। सुभा. पृ० ९७.१४। सुर. पृ० ७८.४ (भर्तृ॰) ॥
@@ -3816,8 +3290,6 @@ Tata Institute of Fundamental Research.
 
  फलमिति॥ अखेदं दुःखरहितं यथा तथा स्वेच्छया लभ्यं प्राप्यं प्रतिवनं वने बने प्रति क्षितिरुहां वृक्षाणां फलं च स्थाने स्थाने पदे पदे पुण्यसरितां पुण्यनदीनां
 
-
-
 शिशिरमधुरं शीतलखादु पयः उदकं च सुललितानां मनोहराणां लतानां पल्लवमयी किसलयप्रचुरा अत एव मृदुस्पर्शा मृद्धी शय्या शयनं च। अस्तीति शेषः।तदपि तथापि कृपणाः दुर्गताः घनिनां धनवतां द्वारि द्वारे संतापं दुःखं सहन्तेइच्छन्ति ॥ \[ शिखरिणी \]
 
  १) म५. चेच्छालभ्यं। —२) ग्र ४. म४. ५. स्थाने लभ्यं (स्थाने स्थाने)। म४. भाति शिशिरः;म५. भवति शिशिरः (शिशिरमुधुर)।—३) ना२. सुललिततरा; ग्र ४. म५. सुललिततला। ना १.-चम्पकमयी। —४) ना१. संलापं (संतापं)। तु१. द्वारि कृपणः ॥
@@ -3838,8 +3310,6 @@ Tata Institute of Fundamental Research.
 **ये संतोषनिरन्तरप्रमुदितास्तेषां न भिन्ना मुदो  
 ये त्वन्ये धनलुब्धसंकुलधियस्तेषां न तृष्णा हता।**
 
-
-
 इत्थं कस्य कृते कृतः स विधिना तादृक्पदं संपदां  
 स्वात्मन्येव समाप्तहेममहिमा मेरुर्न मे रोचते॥२९॥
 
@@ -3856,8 +3326,6 @@ Tata Institute of Fundamental Research.
 
  भिक्षाहारमिति॥ योगीश्वरा मुनयः अदैन्यं दैन्यरहितं अप्रतिसुखं समानसुखरहितं भीतिच्छिदं भयनाशनं सर्वदा संततं दुष्टानां मात्सर्यमदाभिमानानां अन्योदयद्वेषगर्वाहंकाराणां मथनं ध्वंसनं { दुःखौघविध्वंसनं सांसारिकाशेषवा धानिवर्तकं -रा- } सर्वत्र सकलप्रदेशे अन्वहं प्रतिदिनं अप्रयत्नसुलभं अतिप्रयत्नेन विना सुखेन लब्धुं शक्यं साधुप्रियं सज्जनसंमतं पावनं पवित्रं अवार्य केनापि वारयितुमशक्यं अक्षयनिधिं नाशरहितनिक्षेपरूपं शंभोः परमेश्वरस्य सत्रं यागरूपं भिक्षाहारं भिक्षान्नभक्षणं शंसन्ति स्तुवन्ति। याच्ञादुःखमसहमानानां पुंसां भिक्षाहारमेव श्रेष्ठमिति प्रशंसन्तीत्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
 
-
-
  १) तु. अप्रतिहतं। तु१. भीतिच्छद; ग्र १. म १-३. तापच्छिदं। ना ५. रा.ते. म४.५. सर्वतो (सर्वदा)। —२) तु२.दुर्माच्छर्य°। ते २. °भवाभिमान°। ना३. ४. °दमनं; ग्र१. म१. २. शमनं (मथनं )। ग्र १. म१.२. दुःखेषु विध्वंसकम्; म५. दुःखौघविध्वंसकम्। —३) तु१. सर्वत्राबदम; तु२. सर्वत्रावहम; ना२. सर्वत्र क्रमता। तु. भावनं ( पावनं ) ॥
 
  भ. ४५८६ (२०४६); शतकावलौ ९८। सुभा. पृ० ३७०.१०१। सुर. पृ० ७८.७६(भर्तृ°) ॥
@@ -3871,8 +3339,6 @@ Tata Institute of Fundamental Research.
 
  भोग इति॥ भोगे स्रक्चन्दनादिके सत्यपि रोगभयं क्षयकाश्र्यादिरोगो जायत इति भयम्। कुले सदन्ववाये सति येन केनापि हेतुना च्युतिभयं सद्वृत्तादिपातित्यभयम्। वित्ते घने सत्यपि नृपालाद्राज्ञो भयम्। मानेऽहंकारे सत्यपि दैन्यभयं एतादृशस्य मम कदा दैन्येन भाव्यत इति भयम्। बले सत्त्वे सति रिपुभयं सत्वशालिनं रिपवो बाधन्ते इति भयम्। रूपे सौन्दर्ये जराया वृद्धत्वाद्भयं रूपानन्तरं अवश्यं वृद्धत्वेन भवितव्यमित्यर्थः। शास्त्रे शब्दादिशास्त्रे विद्यमाने वादिभ्यः प्रतिवादिभ्यो भयं भीतिः। गुणे सद्गुणे सति खलेभ्यो भयं दुर्जनाः सज्जनं दूषयन्तीति भीतिः। काये शरीरे सत्यपि कृतान्तादन्तकात् भयं भीतिः। शरीरिणां अवश्यमरणेन भाव्यत इति एवं भुवि लोके नृणां मनुष्याणां सर्व समस्तं वस्तु विद्यमानं भयान्वितं तत्तत्प्रतिकूलभयान्वितमेव। किं तु वैराग्यं विरक्तिरेव अभयं भयरहितम्। सर्वेषां वैराग्यमेव परमोत्कृष्टमित्यर्थः ॥ \[ शार्दूलविक्रीडितम्\]
 
-
-
 १) तु. सुखेऽसुखभयं; ग्र २. (मू). कुले च्युतभयं। ग्र ५. वित्तेऽपलापाद्वयं। —३) ते२,गुणे कलभयं। सु. ना३. काले ( काये )।—४) ना२. खलु ( भुवि ) ॥
 
  भ. ४६३७ (२०७५); सुभाष्.८८; काव्यक° ३। अष्टरत्ने ५ (हे. पृ० ८)। सुर. पृ०९२.१ (भर्तृ )। सुभा. पृ० ३७०.९० ॥ एतादृशोऽन्यः श्लोकः क्षेमेन्द्रस्यौचित्यविचारचर्चायां (का० १. पृ० १३०); चतुर्वर्गसंग्रहे (का० ५. पृ० ९८); सुभाषितार्णवे ३८.३५.। तथान्यत्र च द्रष्टव्यः ॥
@@ -3881,8 +3347,6 @@ Tata Institute of Fundamental Research.
 संतोषो धनलिप्सया शमसुखं प्रौढाङ्गनाविभ्रमैः।  
 लोकैर्मत्सरिमिर्गुणा वनभुवो व्यालैर्नृपा दुर्जनै-  
 रस्थैर्येण विभूतयोऽप्युपहता ग्रस्तं न किं केन वा॥३२॥
-
-
 
  आक्रान्तमिति॥ मरणेन मृत्युना जन्म जननं \[ आक्रान्तं ग्रस्तम्\] (आघ्रातं आत्तगन्धं प्रस्तमित्यर्थः)। जर\[सा\] (या) वार्धकेन अत्युज्ज्वलं अतिरमणीयं यौवनं तारुण्यमण्याघ्रातं। संतोषस्तुष्टिः धनस्य वित्तस्य लिप्सया लब्धुमिच्छया 'सनि मीमाधुरभलभशकपतपदामच इस्'। 'अत्रलोपोऽभ्यासस्य'। आघातं शमसुखं शान्तिशर्म प्रौढानां विदग्धानां अङ्गनानां सुन्दरीणां विभ्रमैर्विलासैः आघ्रातं। मत्सरिभिरन्यगुणद्वेषिभिः लोकैर्जनैः गुणाः श्रुतशीलवृत्तादयस्तु आघ्राताः। पवनोवायुः व्यालैर्भुजगैरात्रातः। अयं सर्पस्य दृष्टान्तः। नृपा राजानः दुर्जनैः खलैराघाताः। अस्थैर्येण चपलतया \[ विभूतयोपि \] (विभूतिः संपदपि)। अपहृता किंवा वस्तु केन वा न प्रस्तम्। एतेषां मध्ये जन्मयौवनादीनां नश्वरत्वादेतान्सर्वान्हित्वा मुक्तौ यतनीयमित्यर्थः ॥ \[शार्दूलविक्रीडितम् \]
 
@@ -3898,8 +3362,6 @@ Tata Institute of Fundamental Research.
  आधीति॥ आधयो मनोव्यथाः व्याधयो रोगास्तेषां विविधैर्बहुविधैः शतैः समूहैः आरोग्यं कल्यत्वं उन्मूल्यते उत्पाठ्यते। नश्यत इत्यर्थः। यत्र यस्मिञ्जने व्यापदो विविधापदो विवृतद्वारा इवोद्घाटितकवाटा इव पतन्ति गच्छन्ति। विपदां विविधत्वं राजचोराग्निकारणभेदात्। जातं जातमुत्पन्नमुत्पन्नं मृत्युर्मरणं यमो वा अवश्यं निश्चितं आशु शीघ्रं विवशं परवशं आत्मसादात्माधीनं करोति विधत्ते।यो यो जातस्तस्य जन्तोर्मृत्युरस्तीत्यर्थः। \[ तत्तस्मात्तेन \] (एकेन असहायेन)निरङ्कुशेन स्वच्छन्दवर्तिना विधिना वेधसा यद्वस्तु स्थितं \[रं\] नाशरहितं निर्मित सृष्टं अस्ति तत्किं नु। न किंचिदित्यर्थः ॥ \[ शार्दूलविक्रीडितम्\]
 
  १) तु. नरस्य (जनस्य)। ना१. ग्र २ (मू). उन्मील्यते। —२) ते२. विवितद्वारा; ग्र १. विविधाचारा; म. विविधाचोरा (विवृतद्वारा)। तु. इवासंपदः ना१.२. म३-५. इव त्यापदः। —३) म२. जाता-(जातं)। ग्र १. म२. ३. जातमजातम् (जातमवश्यम्)। तु. अवश्यभूत- (अवश्यमाश)। —४) ना१. किं नामाद्य; ना२. ग्र१.२.४. म२. तकि केन; ग्र ३ (मू.). तत्केनापि; म१.४.५ तल्कि नाम (तत्किं तेन)। ना५. ग्र २.३.५. सुस्थितम् ॥
-
-
 
  भ. ९४५ (३४९); शतकावलौ ९९। सुमा. पृ० ३७३.१८४। सुर. पृ० ९३.३(भर्तृ) ॥
 
@@ -3921,8 +3383,6 @@ Tata Institute of Fundamental Research.
 
  भोगा इति॥ भोगाः सुखानि मेघानां जलदानां वितानस्य विस्तारस्य मध्येऽन्तः विलसन्ती सौदामिनी तडिदिव चञ्चलाश्चलाः। आयुर्जीवितकालो वायुना
 
-
-
  मातरिश्वना विघट्टितानां निष्पीडितानामभ्राणामब्दानां पटले \[ ल्यां \] संदोहे लीनाम्बुवन्निगूढोदकमिव भङ्गुरं भङ्गस्वभावम्। 'भञ्जभासमिदो घुरच्'। यौवनलालसास्तारुण्याभिलाषातिशयाः।'कामोऽभिलाषस्तर्षश्च समहाल्लाँलसा द्वो
 
 योरित्यमरः।लोला अस्थायिन्यः। तनुभृतां देहिनामिति सर्वत्र संबन्धः। इत्येवमाकलय्य विचार्य। कलतिः कामधेनुः। 'ल्यपि लघुपूर्वा दिति णेरयादेशः। द्रुतं शीघ्रं धैर्यं विषयेष्व (व) लोलुपत्वम्। समाधिर्धारणातिशयोऽष्टमं योगाङ्गम्। तयोः सिद्ध्या निष्पत्त्या सुलमे सुखेन लब्धुं शक्ये योगे। यमनियमासनप्राणायामप्रत्याहारध्यानधारणसमाधयो देशकालावस्थाभिरनियताः। पुरुषस्य शुद्धिहेतबो यमाः। अहिंसाब्रह्मचर्यसत्यास्तेयापरिग्रहादयो देशकालावस्थापेक्षिणः पुण्यहेतवः कालविशेषा नियमाः। संध्योपासनजपहोमादयो योगविरोधिक्लेशपरिहारार्थम्। करणसंबन्धस्त्वासनं पद्मस्वस्तिकादिकोष्ठस्य वायोर्गतिविच्छेदः। प्राणायामो रेचककुंभकपूरकात्मकः शनैः शनैर्जेतव्यो वनगजेन्द्रवत्। विषयेषु धावमानस्य मनसः प्रीतिनिवर्तनं प्रत्याहारः। चित्तस्य देवतासंबन्धो ध्यानम्। तत्रैकाग्रता धारणा।तस्यामेवातिशयो विषयशून्यजपः समाधिः। हे बुधा विद्वांसः। बुद्धिं धियं। विदध्वं कुरुध्वम् ॥ \[शार्दूलविक्रीडितम् \]
@@ -3937,8 +3397,6 @@ Tata Institute of Fundamental Research.
 ब्रह्मण्यासक्तचित्ता भवत भवभयाम्भोधिपारं तरीतुम्॥३६॥
 
  आयुरिति॥ आयुर्जीवितकालः कल्लोलास्तरङ्गा इव लोलमस्थिरम्। यौवनस्य तारुण्यस्य श्रीः सौभाग्यं कतिपयेषु दिवसेषु वासरेषु स्थायिनी स्थिरा। अर्था धनानि संकल्पकल्पाः मनोव्यापारतुल्याः। 'ईषदसमाप्तो कल्पः'। घनानां मेघानां समयः कालः प्रावृट्। तत्र यास्तटितो विद्युतस्तासां विभ्रमा इव विभ्रमाः स्फुरिता येषां तेषां तथाविधानां भोगानां सुखानां पूगा राशयः। यत्प्रियाभिर्ववल्लभाभिः प्रणीतं विरचितं कण्ठयोर्गलयोराश्लेषः परस्परपीडनमेवमुपगूढमालिङ्गनं तदपि च चिरं दीर्घकालावस्थायि न। तस्मादैहिकस्य सुखस्य सर्वस्यापि क्षणिकत्वम्। भवभयं संसारात्साध्वसं तस्यैवाम्भोधेः समुद्रस्य पारं परकूलं तरीतुं विलङ्घयितुं ब्रह्मणि परमात्मनि परशिवे आसक्तचित्ताः तत्परचेतसो भवत। तदीशे तात्पर्यवतां भवभयाम्भोधितरणं सुकरमित्यर्थः ॥ \[ स्रग्धरा \]
-
-
 
  १) ते२. यौवनत्री। —२) तु. सु. ना२-५. रा२. ग्र ४.५ तडिद् (तटिद्)। ते१.भोगपूगः; ते२. भोगपूराः।— ३) तु. कण्ठश्लेषोपगूड; म५. कण्ठाश्लेषोपगूहस्। ना२. न रुचिरं (च न चिरं)। — ४) ना२. सक्तचित्तो। तु२. भवतु; ते२. भवति। तु. महाम्भोधिपारं; ना३. भयाम्भोधिपूरं; ग्र२ (मू.). भयाम्बोधिपार; म१.४.५. भयाम्भोषितीरं ॥
 
@@ -3964,8 +3422,6 @@ Tata Institute of Fundamental Research.
 
 नी० श० १८ (३० श०)
 
-
-
 भ्रश्यते। क्षीयते इत्यर्थः। तथापि लोको जनस्तु अहितमाचरति अनुतिष्ठतीति चित्रमाश्चर्यम्। अहित मिति संसारहेतवो नरकहेतवश्च ॥ \[ वसन्ततिलका \]
 
  १) तु२. परितर्जयन्ति। —३) ते२. परिश्रवन्ति। ग्र १. म२. दिवाम्बु (दिवाम्भो )। —४) म३. लोकस्तया व्यथितम्। म४. आचरतीव ॥
@@ -3985,8 +3441,6 @@ Tata Institute of Fundamental Research.
 
 **ब्रह्मेन्द्रादिमरुद्गणांस्तृणकणान्यत्र स्थितो मन्यते  
 यत्वादाद्विरसा भवन्ति विभवास्त्रैलोक्यराज्यादयः।**
-
-
 
 भोगः कोऽपि स एक एव परमो नित्योदितो जृम्भते  
 भो साधो क्षणभङ्गुरे तदितरे भोगे रतिं मा कृथाः॥४०॥
@@ -4008,10 +3462,6 @@ Tata Institute of Fundamental Research.
 
  १) ते २. नृपतेः। म४. चकश् (चक्रं)। ना२. यत् (तत्)। —२) ना२. यस्य ( तस्य )।म३. विदग्धपरुषस्; म. विदग्धपरुषा। —३) तु. उत्सिक्तः ( उद्वृत्तः )। म३. स चरन्तु पुत्रनिवहैः। ते२. ग्र ३.४. म. वन्दिनस्। —४) तु. सर्वे; ग्र १. सर्वा ( सर्व )। ग्र ४. बशादभूत्।तु. सु२. ना२. रा. ग्र २.४. स्मृतिपदं (ग्र ४. पथं इत्यपि ); ग्र १. म१-३. श्रुतिपथं। तु२.तुभ्यं (तस्मै ) ॥
 
-
-
-
-
 भ. ७०२५ (३२४६)। शा. ४१६४ (भर्तृ॰)। सु. ३३२८ ( श्रीकमलायुधस्य )। सुभा. पृ० ३७४.२०० ( भर्तृ॰)। सुर. पृ० १०० .२ (भर्तृ° )। सूहा. ३५.५७ ( भर्तृ° ) ॥
 
 यत्रानेकः क्वचिदपि गृहे तत्र तिष्ठत्यथैको  
@@ -4020,8 +3470,6 @@ Tata Institute of Fundamental Research.
 कालः कल्यो भुवनफलके क्रीडति प्राणिशारैः॥४२॥
 
  यत्रेति ॥ यत्र यस्मिन्क्कचिदपि गृहे वेश्मनि अनेको बहुप्राणी जन्तुरेव शारो-( जन्तुरेधमानो )ऽक्षस्तिष्ठति। अथ अनन्तरं तत्रैको द्वितीयः प्राणिशारस्तिष्ठति। तदनु तदनन्तरं तत्र बहवः प्राणिशारास्तिष्ठन्ति। तत्र चान्तेवसाने एकश्च न तिष्ठति। इत्थमनेन प्रकारेण कालो यमः { कल्यः कलनासमर्थः रा-} ( कल्या स्वपल्या सह) { भुवनफलके भुवनं फलकमिव शारप्रवर्तनोचित कोष्ठयन्त्रमिव तस्मिन् -रा-} ( बहवः कला विद्या यस्य स तादृशः सन्) द्वावक्षाविव। रजनिदिवसौ निशावासरौ नेयौ गमनीयौ। लोलयंश्चालयन्। प्राणिभिरेव शारैः कृतद्यूतकेलिं नटयति। द्यूतेऽप्येवमेव लेखामये एकस्मिन्गृहे अनेकशारस्तिष्ठति। तत्रानन्तरमेकस्तिष्ठति। यत्रैकस्तिष्ठति तत्र तदनन्तरं वहवस्तिष्ठन्ति। तत्रान्ते एकोऽपि न तिष्ठतीत्येवं द्यूतेन साम्यम् ॥ \[ मन्दाक्रान्ता \]
-
-
 
 १) ते२. यत्र (तंत्र)। — २) तु. तत्र नैकोऽपि चास्ते; ना१. तेषु नैकोऽपि चान्ते; ना२.तत्र चास्ते न चैकः; ग्र४. तत्र नैको विभाति (मूलवच्च )। —३) तु. चेमौ; ना२. चोभौ; रा. ते१. नेये। तु. ना१. दोलयन्द्रा°; ग्र १. म२. ३. लोलयन्त्राः म४. लोलयद्धा°। ग्र १. °विविक्षौ। —४) तु.सु. म२-५. काल्या; ना२. ग्र २ (मू.). कल्या। ग्र ३ (मू.). भुवनफलकैः; म२-५. सह बहुकलः। ना२. प्राणिसारैः ; ते२. प्राणिशान्तैः ; ग्र १. म२. प्राणिनाशैः; म३.५. प्राणिसारे ॥
 
@@ -4033,8 +3481,6 @@ Tata Institute of Fundamental Research.
 पीत्वा मोहमयीं प्रमादमदिरामुन्मत्तभूतं जगत्॥४३॥
 
  आदित्यस्येति ॥ आदित्यस्य सवितुर्गतागतैर्गमनागमनैः। भावे निष्ठा। अहरहः प्रतिदिनं जीवितं आयुः संक्षीयते क्षयं गच्छति। बहूनि कार्याणि कर्तव्यान्येव भारास्तैर्गुरुभिः दुरुद्धहैर्व्यापारैर्गृहारामादिनिर्माणैः कालः समयो \[ पि \] न (वि)शा-
-
-
 
 यते न प्रतियते। जन्मोत्पत्तिः जरा वार्धकं विपत्तिरापत् मरणं नाशः। जन्म च जरा च विपत्तिश्च मरणं चेति द्वंद्वैकवद्भावः। °सर्वो द्वंद्वो विभाषयैकवद्भवती°ति। तदृष्ट्वा विलोक्य त्रासो भयं च नोत्पद्यते। °समानकर्तृकयोः पूर्वकाले° इति त्रास-क्रियापेक्षया पूर्वकालत्वाद्दर्शनत्रासक्रिययोः समानकर्तृकत्वाच्च दृशेः क्त्वाप्रत्ययः। उत्पत्तिक्रियायास्तु त्रासकर्तृकत्वेन च त्रासप्रधानक्रियापेक्षया पूर्वकालेन भवितव्यम्। अप्रधानक्रियापेक्षया विप्रयोगात्। यथा स्मरस्मृत्यनाशं निरस्ति मे तथोक्तं पौर्वकाल्यं क्रियाणां यद्वास्तवं तदुपेक्षणीयत्वं पोर्वकाल्ये किं तासां प्राधान्येतरचिन्तयेति। जगल्लोकः मोहमयीमज्ञानविकृतिं। विकारे मयट। प्रमादोऽनवधानता।तामेव मदिरां सुरां पीत्वा निषेव्य उन्मत्तभूतं उन्मत्तं जातम् ॥ \[ शार्दूलविक्रीडितम् \]।
 
@@ -4049,13 +3495,9 @@ Tata Institute of Fundamental Research.
 
  रात्रिरिति ॥ पुनः भूयो रात्रिः रजनी सैव तादृश्येवेत्यर्थः। अतीतायां रात्रौ ये व्यापाराः त एव आगामि\[नी\]ष्वपि क्रियन्त इति तादृक्त्वम्। पुनः भूयोऽपि स एव ताहगेव दिवसो वासरः। गतेषु दिवसेषु ये व्यापाराः कृताः त एवआगामिनीष्वपि क्रियन्त इति तादृक्त्वम्। अतीतानां नक्तांदिवानामागामिनां च सदा सार्वकालं न कश्चिद्विशेष इति मत्वा शात्वापि जन्तवः शरीरिणः तथैव पूर्वमिव निभृतं निश्चलं यथा भवति तथा प्रारब्धतत्तत्क्रियाः उपकारं (?) तत्तद्व्यापारंउद्यमिनः उद्योगवन्तो धावन्ति आशु परिभ्रमन्ति। पुनरुक्तभुक्तविषयैः द्विगुणानुभूतैरिन्द्रियार्थैः व्यापारैः कर्मभिः इत्थंविधेन एवंप्रकारेण अमुना संसारेण भवेनकदर्शिताः परिभूताः वयं मोहादज्ञानात्कथं न लज्जामहे। (प्रकाशे लज्जये बीडे लज्जते पदे इति ? )। तदेवं कृतान्येव क्रियन्ते भुक्तान्येव भुज्यन्ते इति लज्जानिमित्ते विद्यमानेऽपि कथं न लज्जामहे इत्यर्थः ॥ \[शार्दूलविक्रीडितम् \]
 
-
-
 १) तु१. सु. ना२. ते२. ग्र ४. मुदा ;ना३.४. ग्र २.३.५. सदा ( मुधा )। —२ ) सु. उद्यमितास्तथैव; ना२. उद्यमिनस्त एव। ना १.२.निभृतं; ग्र १ निभृताः; म२. निभृता-। ना४. ग्र २.३.प्रारम्भ° (ग्र ३. प्रारब्ध° इति मूलवदपि )। तु. तन्तुकिया; ग्र१. दत्तक्रियाः। —३) ना२.भुक्तबिरसैर्; ग्र २ (मू.). भुक्तविषयैर् ग्र३. पक्षविषयैर् भूतविषयैर्। —४) ना२. म१.मोहान्न जानीमहे; म४. मोहो न लजामहे ॥
 
   भ. ५७७८ (२६२६)। सुभा. पृ० ३७५.२२७ ॥
-
-
 
 न ध्यातं पदमीश्वरस्य विधिवत्संसारविच्छित्तये  
 स्वर्गद्वारकवाटपाटनपटुर्घमोंऽपि नोपार्जितः।  
@@ -4074,8 +3516,6 @@ Tata Institute of Fundamental Research.
 तारुण्यं गतमेव निष्फलमहो शून्यालये दीपवत्॥४६॥
 
   नाभ्यस्तेति॥ भुवि पृथिव्यां वादिनां प्रत्यर्थिनां बौद्धजैनचार्वाकादीनां पाषण्डमतावलम्विनां वृन्दस्य समूहस्य दमनी मर्दनी विनीतानां प्रश्रितानामुचिता योग्या विद्या नाभ्यस्ता न शिक्षिता। खङ्गाग्रैः निस्त्रिशशिखरैः साधनैः करिकुम्भ पीठानां दन्तिशिरः पिण्डाग्राणां दलनैर्विपाटनैर्यशः कीर्तिः नाकं स्वर्ग न नीतं न
-
-
 
  प्रापितम्। कान्तानां सुन्दरीणां कोमलस्य सुकुमारस्य पल्लवाधरस्य किसलयनिभोष्ठस्य रसः खादः चन्द्रोदये सुधांशुप्रादुर्भावे न पीतः न खादितः। तारुण्यं 'यौवनं शून्यालये निर्मानुष्यगृहे। रिक्तगृह इत्यर्थः। दीपवत्प्रदीप इव निष्फलं व्यर्थ गतं नष्टम्। अहो आश्चर्यम्। यौवने कर्तव्यमुत्तमं मध्यममधमं वा न कृत-मित्याश्चर्यम्॥ \[ शार्दूलविक्रीडितम् \]
 
@@ -4102,8 +3542,6 @@ Tata Institute of Fundamental Research.
 
 वयं येभ्यो जाताश्चिरपरिगता एव खलु ते  
 समं यैः संवृद्धाः स्मृतिविषयतां तेऽपि गमिताः।
-
-
 
 इदानीमेते स्मः प्रतिदिवसमासन्नपतना  
 गतास्तुल्यावस्थां सिकतिलनदीतीरतरुभिः॥४८॥
@@ -4135,16 +3573,12 @@ Tata Institute of Fundamental Research.
 
 )सुभाषितार्णवे ३८.६ ॥
 
-
-
 क्षणं बालो भूत्वा क्षणमपि युवा कामरसिकः  
 क्षणं वित्तैहींनः क्षणमपि च संपूर्णविभवः।  
 जराजीर्णैरङ्गैर्नट इव वलीमण्डिततनु-  
 र्नरः संसारान्ते विशति यमधानीयवनिकाम्॥५०॥
 
  क्षणमिति॥ मनुष्यो नट इव भरतवत् \[ संसारान्ते संसारावसाने \] (संसार एवाङ्के नाटकाङ्के) क्षणं किंचित्कालम्। अत्यन्तसंयोगे द्वितीया। बालो माणवकः \[ इति \] यावत्। क्षणमपि काम्यत इति कामः। स्त्रीषु रसिको रागवान् युवा तरुणो भूत्वा क्षणं वित्तैर्धनैहींनो भूत्वा। क्षणमपि च संपूर्णविभवः समग्रघनो भूत्वा। अर्थरैविभवा अपी'त्यमरः। क्षणं जरया वार्धकेन जीर्णैः प्रशिथिलैरङ्गैदेहावयवैरुपलक्षितो वलिभिः त्वगङ्गैः (तरङ्गैः) मण्डिततनुरलंकृतदेहो भूत्वा यमधानीं \[ नी \] यवनिकां तिरस्करिणीं विशति प्रविशति। भरतोऽपि क्षणं वालवेषं बिभर्तिक्षणं तरुणवेषं क्षणमकिंचनाकल्पं क्षणं धनिकसदृक्षप्रसाधनं क्षणं स्थविरनैपथ्यं च धृत्वा यवनिकां प्रविशति। नरस्य बाल्यादिदेहाः नटस्येव क्षणिकाः। अवसानेत्रियेतापीत्यर्थः॥ \[ शिखरिणी \]
-
-
 
 १) तु. भूते ( भूत्वा )। ग्र १.४. मपि च युवा। ना२. कामनिरतः। —३ ) म४. वलीमुण्डित। —४) ना२. ग्र २. ३. संसाराङ्के। ग्र २.३. निविंशति। तु१. ना२. ते१. ग्र २.३.५. म४.५,यमधानीं; ग्र १. यमयानीं। तु. सु. ना२. जवनिकाम्; ते२. यवनिका ॥
 
@@ -4160,8 +3594,6 @@ Tata Institute of Fundamental Research.
  त्वमिति॥ त्वं राजा भवान्नृपतिः। वयमप्युपासितायामभ्यस्तायां गुर्व्या महत्यां प्रज्ञायां मतौ बिषयेऽभिमानेन गर्वेणोन्नता उच्छ्रिताः। त्वं विभवैः संपत्तिभिः ख्यातः प्रथितः। नः अस्माकं यशांसि स्तोत्राणि कवयो विद्वांसो दिक्षु ककुप्सु प्रतम्वन्ति विस्तारयन्ति। इत्थमनेन प्रकारेणावयोरप्युभयोरन्तरं मेदो मानेनाभिमानेन धनेन वित्तेन चाविदूरं संनिकृष्टम्। अल्पमिति यावत्। मम तु विद्यानिमित्तमानोऽस्ति। तव तु धनमस्ति इत्येतावदेवान्तरम्। औन्नत्यं तुभयोरपिसमानम्। असासु यदि पराङ्मुखः पराचीनोऽसि वयमप्येकान्ततो नितान्तं निःस्पृहा वीतरागाः। निःस्पृहाणां राजभिः किं प्रयोजनमित्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
 
 नी० श० १९ (वै० श०)
-
-
 
  १) ना२. वयमप्यपासित°
 
@@ -4195,8 +3627,6 @@ Tata Institute of Fundamental Research.
 स तु भवति दरिद्रो यस्य तृष्णा विशाला  
 मनसि च परितुष्टे कोऽर्थवान्को दरिद्रः॥५३॥
 
-
-
  वयमिति॥ इह संसारे वल्कलैस्तरुत्वग्भिर्वयं परितुष्टाः संतुष्टाः। त्वं च लक्ष्म्या राज्यश्रिया परितुष्टः। इद्द आवयोः परितोषः तुल्यः शेषः। राज्यनीरित्युत्कर्षो निर्विशेषो भेदरहितः। तवापि राज्यश्रीः संतोषं जनयति ममापि वल्कलानि संतोषजनकानि सन्ति। संतोषहेत्वोरेव भेदः न तु संतोषस्य। नन्वेवं तर्हि जगति कोऽपि दरिद्रो नास्तीत्याशङ्कयाह। यस्य तृष्णा विशाला महती अस्ति स तु घनवानपि दरिद्रो भव\[ति\]तु अकिंचनोऽस्तु। मनसि चित्ते परितुष्टे अर्थवान्धनिको दरिद्रोऽकिंचनकः \[ 'चनो वा कः। न कोऽपीत्यर्थः।\] धनासक्तो न संतोषेण उपयुज्यते अपि तु मनः संतुष्ट एवोपयुज्यत इत्यर्थः ॥ \[ मालिनी \]
 
  १) ना१. परितृप्ता। ना३-५. ग्र २.३. च लक्ष्म्या (दुकूलैः)। —२) सु२. ना३-५. रा.ते. ग्र ५. इव; म४. -हित- (इद्द)। म३. परितोषे। तु१. निर्विशोको; ग्र ४. निर्विकल्पो। —३) ते२. सति (स तु)। तु.रा. ते१. ग्र ४.५ .म१.३- ५. भवतु (भवति) ॥
@@ -4213,8 +3643,6 @@ Tata Institute of Fundamental Research.
  १) ना१. फलमुल; ग्र १. म२. सिलमल। ना२. °नायालं च (नाय खादु)। — २) रा.ते. ग्र ४. म४.५. क्षितिरपि शयनार्थ (म४.५. र्था); ना३-५ शयनमवनिपृष्ठं। तु. बल्कले वाससी;रा. ते. ग्र ४.५. वाससे वल्कलं।— ३) ना १. धननव; ना२. धनलव; ग्र १. म२.३. परधन॰; म१.वरधन' (नवधन')। ना१. मधुपनं। ग्र ३ (मू.). 'भ्राम्य' (भ्रान्त)। —४) तु.सु. अनुनयम् ; ग्र ३ (मू.). अपिनयम्। तु. अनुगन्तुं। सु (टी. पा). अविनयमभिनेतुं; ग्र १. अविनयमभि मन्तुं ॥
 
  भ. ४३७२ (१९३४) ॥
-
-
 
 अशीमहि वयं भिक्षामाशावासो वसीमहि।  
 शयीमहि महीपृष्ठे कुर्वीमहि किमीश्वरैः॥५५॥
@@ -4243,8 +3671,6 @@ Tata Institute of Fundamental Research.
 इह हि भुवनान्यन्ये धीराश्चतुर्दश भुञ्जते  
 कतिपयपुरस्वाम्ये पुंसां क एष मदज्वरः॥५७॥
 
-
-
  विपुलेति॥ पुरा पूर्वस्मिन्काले विपुलहृदयैरुदारचित्तैः धन्यैः कृतार्थैः कैश्चि इक्षप्रभृतिभिः जगल्लोको जनितं सृष्टम्। अपरैरन्यैर्विजितं पराजितम्। अन्यैरितरैर्विजित्य जित्वा तृणं यथा यवसमिव दत्तं वितीर्ण च। इह संसारे अन्ये केचन धीरा धृतिमन्तश्चतुर्दश भुवनानि लोकान्भुञ्जतेऽनुभवन्ति। पुंसां पुरुषाणां कतिपयानां पुराणां नगराणां स्वाम्ये आधिपत्ये सति एपोऽयं मदरूपो ज्वरः कः। तुच्छ इत्यर्थः। सर्वैरण्यात्मापेक्षया उत्कृष्टशनवलोक्य गर्वो न कर्तव्य इति तात्पर्यम् ॥ \[ हरिणी \]
 
  १) ना२. ग्र २ (मू). धन्यैः कश्चि; ना३- ५. धन्यैरेत; रा. ते. ग्र ३ (मू.).४. ईशैरेत;म३. ईशैः कैश्चि; म४.५. एकैरेत° (धन्यैः कैश्चि)। म३. जगजयितुं। —२) ना१. ग्र २ (मू.).विजितम् (विश्रुतम्)। ग्र ५. यान्यैर् (चान्यैर)। ना१. विचिन्त्य। तु२. म४.५. नृणा (तृण)। —३) सु. इह च; ते १. अह ह; ग्र २(मू.). इह वा। तु. सु. वीराश् ( घीराश्)। —४) ग्र ४.पुरखाम्यैः ॥
@@ -4261,8 +3687,6 @@ Tata Institute of Fundamental Research.
  १) ना३.४. ग्र ४. क्षणमिव। —२) सु३ (मू.). लोभे। ते२. कैव; ग्र५. म४.५. क इह। ना १. ग्र २.३. म४.५. क्षितिभुजाम्। —३) ना२. यदंशस्या। ना२. यदवयव। तु. °लेशे नृपतयो;सु. ना३.४. ग्र ५. लेशाधिपतयो; म४. देशेपि पतयो। —४) ना२. जहाः; मर. मृडाः; म५.जनाः (जडाः)। ना२. प्रस्तुतमुदाम् म४. प्रत्युतमिदम् ॥
 
  भ. ५०७ (१९३); सुभाष्, ३१०। सु. ५३३ (भर्तृ)। सुभा. पृ० ८०.३४ (भर्तृ ) ॥
-
-
 
 मृत्पिण्डो जलरेखया वलयितः सर्वोऽप्ययं नन्वणुः  
 स्वांशीकृत्य तमेव संयुगशतै राज्ञां गणा भुञ्जते।  
@@ -4282,8 +3706,6 @@ Tata Institute of Fundamental Research.
 
  स इति॥ मदनरिपुणा मन्मथवैरिणा यस्य धवलं अवदातं उच्चैरधिकं कपालं करोटिः मूर्ध्नि शिरसि अलंकारविधये मण्डनकृते विनिहितं न्यस्तं स कोऽपि वर्णयितुमशक्यः जातः उत्पन्नः आसीदभूत्। अस्य जन्म सार्थकमित्यर्थः। अधुना इदानीं प्राणानां स्वकीयानामसूनां त्राणे रक्षणे प्रवणा यत्नवती मतिर्येषां तैः नमद्भिः बन्दनकैः कैश्चित्कतिपयैर्नृभिः पुम्भिः निमित्तभूतैः पुंसां पुरुषाणामयं दृश्यमानः
 
-
-
 अतुलो निरुपमः दर्पो गर्व एव ज्वरो व्याधिविशेषः। वयं दशाननमप्यतिशेमहे ब्रह्माणमप्यतिशेमहे एवंरूपः कः। तुच्छ इत्यर्थः ॥ \[ शिखरिणी \]
 
  १) तु. कोऽप्यस्मिन्। —२) ग्र२ (मू.). विनिहितम्। —३) तु२. प्रणवमतिभिः। —४)तु. नमद्रीवैः; ना१. महद्भिः कः; म३. नमद्भिः किं। ग्र ४. ज्वरमदः ( इत्यपि ) ॥
@@ -4299,8 +3721,6 @@ Tata Institute of Fundamental Research.
 
   परेषामिति॥ हे हृदय चित्त परेषामन्येषां चेतांसि मनांसि प्रतिदिवसमनुदिनं बहुधा बहुविधैः प्रकारैराराध्य संसेव्य प्रसादं प्रसन्नतां नेतुं गमयितुं क्लेशकलिलं दुःखगहनं किं किमर्थ विशसि प्रविशसि। तर्हि किं कर्तव्यमित्यत आह। त्वयि भवति अन्तरभ्यन्तरे बाह्यानुसंधानं विहाय प्रसन्ने स्वति स्वयमात्मनैव उदितमुत्पन्नं चिन्तामणीनां रोहण (गण) रत्नानां गणः समूहो यत्र तादृशो विवितः पूतो विषयाभिलाषविहीनः संकल्पो मानसं कर्म ते तव किमभिलषितं न पुष्यति न पुष्णाति। सर्वमभिलषितं पुष्णाति। सर्वेषामपि कामानां मनःसंतोषप्रयोजनकस्वाद्यस्य मनः संतुष्टं तस्य सर्वे कामाः सन्तीत्यर्थः ॥ उक्तं च ॥ 'सर्वाश्च संपदस्तस्यसंतुष्टं यस्य मानसम्। उपानद्भुढपादस्य ननु चर्मास्तृतैव भूरिति॥\[शिखरिणी \]
 
-
-
 २) तु२. विशशि; म४. वहसि। सु२. हृदये; ना२. हृदयं। सु२. ग्र ४. क्लेशविकलम्; रा. ते.क्लेशकलितम्; म३. क्लेशसलिलम्।— ३) ग्र १. म२.३. त्वय्यर्थे ( त्वय्यन्तः)। ग्र ३ (मू). म१-३.स्वयमुचित। सु. ना२. म४.५ गुणो; ना१. गणे। —४) ग्र २(टी). विचित्तः; ग्र ४. विभक्तः।ना१. संकल्पो। ग्र २ (मू.). किमभिलष्यति। ना १. पुण्य तनुते; ना४. ग्र २ (मू.). पुष्यतु न ते ॥
 
  भ. ३९७५ (१७२६); सुभाष्. ३१२। सु. ३४१० (५३४ शङ्कुकस्य)। सुभा. पृ०३१८.४५ (शङ्कुकस्य ) ॥
@@ -4309,8 +3729,6 @@ Tata Institute of Fundamental Research.
 स्वयं भवति यद्यथा भवति तत्तथा नान्यथा।  
 अतीतमननुस्मरन्नपि च भाव्यसंकल्पय-  
 न्नतर्कितगमागमाननुभवामि भोगानहम्॥६२॥
-
-
 
  परिभ्रमसीति ॥ हे चित्त हृदय मुघा वृथा किं किमर्थं परिभ्रमसि परिभ्रमण करोषि। क्वचन कुत्रचित्मदेशे विश्राम्यतां विश्रामः क्रियताम्। यद्यथा भवति तत्तथा भवति। अन्यथा प्रकारान्तरेण न भवति। अहं अतीतं कर्म अननुसरन्न ननुस्मृत्वा\[त्य\] भावि कर्म चाप्यसंकल्पयन् यत्नमकुर्वन् अतर्कितगमागमान्आवाञ्छितगतागतान्भोगान्सुखदुःखात्मकान् अनुभवामि अनुभोक्ष्ये ॥ \[ पृथ्वी \]
 
@@ -4334,11 +3752,7 @@ Tata Institute of Fundamental Research.
 को वा वीचिषु बुद्बुदेषु च तडिल्लेखासु च श्रीषु च  
 ज्वालाग्रेषु च पन्नगेषु च सरिद्वर्गेषु च प्रत्ययः॥६४॥
 
-
-
  मोहमिति। हे चेतश्चित्त मोहमज्ञानं मार्जय अपनुद। चन्द्रस्य सुधांशोः अर्धः कला चूडामणिः शिरोरत्नं यस्य स चन्द्रार्धचूडामणिः शंभुस्तस्मिन्। तां उपनिषत्सु प्रतिपादितां रति उपार्जय संपादय। स्वर्गतरङ्गिण्याः भागीरथ्याः तटभुवां तीरभूमीनां आसङ्गं उपाश्रयणं अङ्गीकुरु स्वीकुरु। तत्र हेतुमाह। वीचिषु तरङ्गेषु चसरिद्रुद्बुदेषु जलविकारेषु च तडिल्लेखासु विद्युच्छ्रेणीषु च श्रीषु संपत्तिषु ज्वालाग्रेषु बहिशिखाग्रेषु च पन्नगेषु भुजंगेषु च सरिद्वर्गेषु नदीगणेषु (सरिद्वेगेषु नदीरयेषु) च प्रत्ययो विश्वासः कः। नास्तीत्यर्थः। वीच्यादिकमिदमखिलं श्रियामुपमानं, यथा वीच्यादिकमस्थिरं तथा श्रियोऽप्यस्थिराः। तस्मान्मोहमपहत्य शिवे रतिमुपार्ज्य गङ्गाकूलं सेवेत्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
-
-
 
 १) ग्र २ (मू). उपाश्रय (उपार्जय )। —२) ना२. तटभुवामास समङ्गीकुरु। —३) ग्र १. म४. को वीचीषु च; ग्र ४. 'को वा विद्विषु' (इत्यपि )। ना१. ग्र४. म१.३. तटिल्लेखासु; ग्र २ (मू.).तटिलोलासु; ग्र ३. तडिद्वल्लीषु ;म४.५ तद्विल्लीषु। ग्र १. म२. तडि (ग्र १. टि) ल्लोलामतल्लीषु च।तु. वल्लीषु; सु. ते२. म२. च स्त्रीषु; ना१. योषित्सु (च श्रीषु)। —४) ते२. ज्वालाशेषु। तु. सरिसृपेषु; सु. सरीसृपेषु (च पन्नगेषु )। तु. ग्र ३ ( मू.), सरित्यूरेषु ;सु. ना१.२. ग्र २. सरिद्वेगेषु रा.ते. ना५, ग्र ५. सुहृदुर्गेषु ;म४.५. सरित्पुगेषु ॥
 
@@ -4356,8 +3770,6 @@ Tata Institute of Fundamental Research.
  भ. २३०४ (९२०); शतकावलौ १०५।
 
 नी० श० १० (वै० श० )
-
-
 
 अग्रे गीतं सरसकवयः पार्श्वयोर्दाक्षिणात्याः  
 पश्चाल्लीलावलयरणितं चामरग्राहिणीनाम्।  
@@ -4378,8 +3790,6 @@ Tata Institute of Fundamental Research.
  प्राप्ता इति ॥ सकलकामदुधाः सर्वाभिलषितस्राविण्यः श्रियः संपदः प्राप्तालब्धाः ततः किम्। विद्विषतां वैरिणां शिरसि मस्तके पदं चरणं म्यस्तं निहितं ततः किम्। प्रणयिनः सुहृदः विभवैरैश्वर्यैः { संपादिताः संगृहीताः-रा-} (संभाविताः संमानिताः) ततः किम्। तनुभृतां शरीरिणां \[ तनवो देहाः कल्पस्थिताः कल्पकालपर्यन्तस्थायिनः \] (तनुभिदेहैः कल्पं कल्पपरिमितं कालं स्थितमुषितं ) ततः किम्। संपदादीनामपि नश्वरत्वान्मनोरथसिद्धिर्नास्ति। यदा नित्यं मोक्षसुखंसाध्यते तदा काङ्खितसिद्धिर्भवतीत्यर्थः ॥ \[ वसन्ततिलका \]
 
 १) ग्र१. प्राप्ताः श्रियं; म२. प्राप्ताश्रयः। ग्र१. म२. दुषां ततः किं।— ३) तु. सु.संतोषिताः; ना१. ग्र ४. म५. संमानिताः; ना५. ग्र १-३. म२. संभाविताः ;म४. सन्मानिताः।
-
-
 
 —४) तु१. कल्पैः स्थितास्; ना२. कल्पं स्थितं; ना३.४. कल्पस्थितं; ग्र २.३. कल्पं स्थिता; ग्र ५.कल्पस्थिरं। ना२. ग्र २.३. तनुभिस् ;म३. असवस् (तनवस्)॥
 
@@ -4403,11 +3813,7 @@ Tata Institute of Fundamental Research.
 
  तस्मादिति ॥ यस्मादतः परमर्थनीयं नास्ति इदमेवोत्कृष्टं भवति। तस्मात्कारणादनन्तं नाशरहितमजरं वार्धकविहीनं परममुत्कृष्टं विकासि विश्वव्यापि तत् तत्पदवाच्यं ब्रह्म परमेश्वराख्यं परमात्मानं चिन्तय ध्याय। एभिर्वक्ष्यमाणैरसद्विकल्पैः कुत्सितपक्षैः किम्। न किंचिदस्ति। इमे भुवनस्य लोकस्याधिपत्य स्वास्यं भोगः
 
-
-
 सुखाद्यादिर्येषां ते भुवनाधिपत्यभोगाः कृपणानां लुब्धानां जनानामभिमता यस्य ब्रह्मणोऽनुषङ्गिणः आनुषङ्गिकफलानि। महत्फलमुद्दिश्य प्रवर्तमानस्यायत्तसिद्धा न्यल्पानि फलानि आनुषङ्गिकफलान्युच्यन्ते एतेषु यद्यासको भवेत् तदानीं तन्म इतः फलस्यान्तरायो भवति ॥ \[ वसन्ततिलका \]
-
-
 
 १) तु. विशोकं; सु. ना२. विकाशि; म४.५. विभाति। —२) ना२. रे ब्रह्म; ग्र १. म१-३.तश्चित्त ( तद्ब्रह्म)। ना२. किमेभिरसिद्धकल्पैः; १. म२ किमस्त्यसद्विकल्पैः।— ३) ग्र २(मू.).म४.५. धिपत्यं। —४) सु. ना३-५. राज्यादयः; ते. ग्र ४. लोकादयः ( भोगादयः ) ॥
 
@@ -4419,8 +3825,6 @@ Tata Institute of Fundamental Research.
 न ब्रह्म संस्मरसि निर्वृतिमेषि येन॥७०॥
 
  पातालमिति॥ हे मानस हृदय चापलेन चपलतया पातालमधोभुवनं आविशसि प्रविशसि। नभः गगनं विलङ्घयातिक्रम्य यासि गच्छसि। दिशां हरितां मण्डलं चक्रवालं भ्रमसि पर्यटसि। भ्रान्त्वा परिभ्रम्यापि जातु कदाचिदपि आत्मम्येव लीनं निगूढं विमलं मलरहितं ब्रह्म परमात्मरूपं परं ज्योतिः कथं न संस्मरसि।येन चिन्तनेन निर्वृतिं सुखमेषि ब्रह्मानन्दमनुभवसीत्यर्थः ॥ \[ वसन्ततिलका \]
-
- 
 
 १) ना२. वासि ( यासि )। —२) तु२. दिग्मण्डलं; ग्र२ (मू.). दृमण्डलं। ना२. मानसि(मानस )। —३) ग्र २. ३. भ्रान्त्वापि। तु२. सु. विमले। ना२. रा. ते. ग्र १. आत्मनीनं। —४) तु. तद्ब्रह्म न स्मरसि; ना२ तद्ब्रह्म न स्पृशसि; ग्र ५. न ब्रह्म संस्पृशति। ना२. म३. एष ( एषि ) ॥
 
@@ -4434,8 +3838,6 @@ Tata Institute of Fundamental Research.
 न जाने संसारः किममृतमयः किं विषमयः॥१॥
 
  \[ तु. वैराग्य ६८ \] \[ भ. १९८९ (३९९१)। सुभाष्.२८ (३१३)। सु. २९४१ । सुभा.पृ० ८९.५। सुर. पृ० ९९.५ (भर्तृ°) \]
-
-
 
 अहिरिव जनयोगं सर्वदा वर्जयेद्यः  
 कुणमिव वसु नारीं त्यक्तकामो विरागी।  
@@ -4457,16 +3859,12 @@ Tata Institute of Fundamental Research.
 
   भ.१७२१(६६४);सुभाष्.२३४॥
 
-
-
 यतो मेरुः श्रीमान्निपतति युगान्ताग्निदलितः  
 समुद्राः शुष्यन्ति प्रचुरमकरग्राहनिलयाः।  
 धरा गच्छत्यन्तं धरणिधरपादैरपि धृता  
 शरीरे का वार्ता करिकलभकर्णाग्रचपले॥७२॥
 
   यत इति॥ श्रीमान्सर्वोत्कृष्टो मेरुः सुरालयो युगान्ताग्निना प्रलयकालवह्निना दलित श्चुर्णकृतो भूत्वा निपतति भ्रश्यति। प्रचुरैबहुलैर्मकरैर्मत्स्यविशेषैः ग्राहैः नक्रैर्यादोविशेषैश्च कलिला गहनाः समुद्राः सागराश्च शुष्यन्ति शोषं प्राप्नुवन्ति।धरणिधराणां पादैः पर्यन्तपर्वतैर्धृता ऊढापि धरा भूमिः अन्तं नाशं गच्छति प्राप्नोति। एवं सति करिकलभस्य गजशिशोः कर्णाग्रवत् श्रवणान्त इव चपले चञ्चले। क्षणिक इत्यर्थः। शरीरे शीर्यत इति शरीरं तस्मिन् वपुषि का वार्ता।किं कथनीयमित्यर्थः ॥ \[ शिखरिणी \]
-
- 
 
 १) म३-५. यदा (यतो)। ना३ -५. रा. ते. बलितः (दलितः )। —२) तु. शुष्यन्ते।तु१. न करग्राह। ना२. विलयाः; ग्र२.३. कलिताः; ग्र ५. कलिलाः ('निलयाः)। —३) ना२.धना (घरा)। तु२. ग्र५. गच्छत्यन्ते; सु. गच्छत्यन्तर्; ना५. गच्छेत्यन्तं। म३. धृतं ( धृता )।—४) तु२. किरिकलभ; सु३. करिकरभ°। म४. कण्ठाग्रचपले ॥
 
@@ -4479,11 +3877,7 @@ Tata Institute of Fundamental Research.
 
  गात्रमिति॥ गात्रं शरीरं संकुचितं खर्वीकृतम्। गतिर्गमनं विगलिता नष्टा। दन्तानां रदनानामावलिः पङ्किः भ्रष्टा विगलिता। दृष्टिदर्शनं नश्यति नष्टा जाताबधिरता बधिरत्वं वर्धते प्रवृद्धा। वक्रं वदनं लालायते सृणिकायुक्तं जातम्। बान्धवजनो बन्धुसमूहः वाक्यं स्वोक्तवचनं नाद्रियते न स्वीकरोति। भार्या गृहिणी शुश्रूषते न सेवते। पुत्रोऽपत्यमपि अमित्रायते शत्रुरिवाचरति। जीर्णवयसो वृद्धस्य पुरुषस्य। नरस्येति सर्वत्रान्वयः। हा कष्टम् ॥ \[ शार्दूलविक्रीडितम् \]
 
-
-
 १) ग्र २ (मू). संकुचिता। म४. गतिर्विलुलिता; म५. गतिर्विदलिता। म४.५. दन्ताश्च नाशंगता। ग्र १.४, म१.३. दन्तावली। —२) ना२. हृष्टिर् (दृष्टिर् )। तु. नार. नस्यति। ग्र ५. चबधिरं ( बधिरता )। —३) म४. ५. वाक्यं नैव करोति। म१.२. बान्धवजनैर्। ते१. भार्यापि( भार्या न )। ना १. शिश्रूषते। —४) तु. जरयाभिभूतपुरुषं; म४.५. जरसाभिभूतवपुषः (पुरुयसः )। म४.५. पुत्रोऽप्यवज्ञायते ॥
-
-
 
  भ. २१०३ (८३१); पञ्चतन्त्रे ३.१९५ (४.७८); प्रसङ्गाभ १७। शा. ४१६१। सुभा. पृ० ९६.१६ ।सुर. पृ० ९७.५ (सभातरङ्गे)। सुभाषितार्णवे ३८.६७ ॥
 
@@ -4504,8 +3898,6 @@ Tata Institute of Fundamental Research.
 न्संदीप्ते भवने तु कूपखननं प्रत्युद्यमः कीदृशः॥७५॥
 
  यावदिति॥ यावत् इदं शरीरं देहः अरुजं रोगरहितं सत्स्वस्थम् सुखेन स्थितंभवति। यावज्जरा वार्धक्यं दूरतो दवीयसि काले भविष्यति। यावदिन्द्रियाणां चक्षुरादीनां शक्तिः स्वविषयग्रहणपाटवं अप्रतिहता अविहता भवति। यावदेवायुषो जीवितकालस्य क्षयो नाशश्च न भवति। तावदेव विदुषा धीमता आत्मनः स्वस्य श्रेयसि कैवल्ये महानपि प्रयत्नः श्रवणाद्युद्योगः कार्यः कर्तव्यः। यदा तु नैवं तदा श्रवणोद्योगो न सिध्यति। एतदेव दृष्टान्तमुखेन समर्थयति। भवने गृहे संदीप्ते दग्धे (दह्यमाने ) कृपस्यान्धोः खननमवदारणं प्रत्युद्दिश्य उद्यम उद्योगः कीदृशः। व्यर्थ इत्यर्थः। यावत्तावच्छन्दाववधौ। गृहे वह्निना दह्यमाने कूपं निर्मास्यामि
-
-
 
 तद्भूतेन जलेन वह्नि निर्वापयिष्यामीति यत्नो निरर्थक इत्यर्थः। साधनचतुष्टयं नाम नित्यानित्यवस्तुविवेकः इहामुत्रार्थफलभोगविरागः शमदमादिसाधनसंपत्तिर्मुमुक्षुत्वं चेति ॥ \[ शार्दूलविक्रीडितम् \]
 
@@ -4529,8 +3921,6 @@ Tata Institute of Fundamental Research.
 जरा देहं मृत्युर्हरति दयितं जीवितमिदं  
 सखे नान्यच्छ्रेयो जगति विदुषोऽन्यत्र तपसः॥७७॥
 
-
-
  दुराराध्या इति ॥ तुरगवत् अश्व इव चलं लोलं चित्तं मनो येषां ते पते क्षितिभुजो राजानो दुराराध्या दुरुपासाः। 'ईषदुःसुषु कृच्छ्राकृच्छ्रार्थेषु खल्'। स्थूला महती इच्छा वाञ्छा येषां ते तथाविधाः वयं च सुमहत्यधिके मोक्षलक्षणे फले बद्धमनसः आसक्तचित्ताः। जरा विस्रुसा देहं शरीरं हरत्यपहरति। मृत्युर्मरणं दयितं वल्लभं जीवितं प्राणं हरति। हे सखे मित्र विदुषः सुधियः संकल्परहितात् तपसः कृच्छ्रचान्द्रायणादिरूपादन्यत्र श्रेयोलाभो जगत्यन्यनास्ति न विद्यते (अभावेविरक्तिः ? ) \[ शिखरिणी \]
 
  १) तु. क्षितिमृतो। —२) ना१. महति च; ग्र ३ (मू.). स महति (सुमहति )। ना १.३-५.रा. ते२. ग्र २.३.५. म३. फले; त १. भवे ( पदे )। ना२. दत्तमनसः। —३) नार. देहे। ना१.सकलं (दयितं )। —४) ग्र ४. सुखे ( सखे )। ग्र २(मू.). जयति ( जगति ) ॥
@@ -4544,15 +3934,11 @@ Tata Institute of Fundamental Research.
 
   मान इति॥ माने चित्तसमुन्नतौ म्लायति नश्यति वसुन्यर्थे च खण्डिते विच्छिन्ने सति अर्थिनि याचके व्यर्थ निष्प्रयोजने प्रयाते गते सति बन्धुजने बान्धवसमूहे क्षीणे कृशे सति परिजने सेवके गते व्यपयाते सति यौवने \[ शनैः \] (पुन) स्तारुण्ये नष्टे नाशं गते सति केवलमिदं वक्ष्यमाणमेव सुधियां विदुषां युक्तं न्याय्यम्। किं तदित्याह। यज्जहूकन्याया भागीरथ्याः पयसा जलेन पूता ग्रावाणःशिला यस्य तस्य गिरीन्द्रस्य हिमवतः यः कन्दरो गुहा तस्य दर्या विवरस्य कुञ्जे लतादिपिहितोदरे क्वचिदेकदेशे निवासो वसतिः। यदा मानस्य भङ्गो नास्ति वसु च प्रचुरतरमस्ति अर्थिनश्च याच्याभङ्गाभावात्संतुष्यन्ति परिजनाश्च संभाविताः क्कापि न गच्छन्ति यौवनं च न नश्यति तदानीं संसारोऽपि वरम्। अन्यथा सर्वसङ्गत्याग एवं न्याय इत्यर्थः ॥ \[ शार्दूलविक्रीडितम् \]
 
-
-
 १) तु२. म्लाने मानिनि। तु. ना२. व्यर्थ (व्यर्थे )। ग्र १. प्रयासेऽर्थिनि। – २) ना२.सखिजने (परिजने )। तु. भ्रष्टे (नष्टे)। तु२. शनियवने; ग्र २ (मू.). पुनयौबने। –३) सु३(मू).सुधिया; ग्र ४. विदुषां (सुधियां)। —४) म४.५. पूरे वाथ (पुतप्राव) ना२. 'करीन्द्र' (°गिरीन्द्र )।म४.५. ॰मन्दर॰ (कन्दर् )। तु. ना२. ग्र २.३.५ °दरी; सु. कुटी; ग्र ४. नटी(तटी)तु. कुक्षौ (कुञ्जे) ॥
 
  भ. ४८२५ (२१८३); प्रसङ्गाभ° १०; सुभाष्.३१२। शा. ४५७८ (भर्तृ॰)। सुभा.पृ० ३७६.२५४ (भर्तृ°) ॥
 
 नी० श० २१ (वै० श०)
-
-
 
 रम्याश्चन्द्रमरीचयस्तृणवती रम्या वनान्तस्थली  
 रम्यं साधुसमागमागमसुखं काव्येषु रम्याः कथाः।  
@@ -4560,8 +3946,6 @@ Tata Institute of Fundamental Research.
 सर्वं रम्यमनित्यतामुपगते चित्ते न किंचित्पुनः॥७९॥
 
  रम्या इति॥ चन्द्रस्य सुधांशोर्मरीचयो रश्मयो रम्या मनोज्ञाः। तृणवती यवसवती वनान्तस्थली काननमध्यस्थलं रम्या। साधूनां सज्जनानां समागमः संगमो {साधूनां समागमस्य य आगमः प्राप्तिस्तेन यत्सुखं तदपि रम्यम्-सु- } रम्यः। काव्येषु कविकृतिषु कथाः प्रबन्धकल्पाः सुखतरं अतिशयेन शर्म यथातथा रम्याः। कोपेन क्रोधेनोपाहिता निहिता बाप्पस्याश्रुणो बिन्दवः पृषन्ति यस्मिंस्तत्तरलं चञ्चलं प्रियाया वल्लभाया मुखं वदनं रम्यम्। इदं सर्वे नित्यानित्यवस्तुविवेकरहितानां रम्यम्। अनित्यत्वान्नश्वरत्वं अभ्युपगते अङ्गीकृतवति। कर्तरिनिष्ठा। 'आदिकर्मणि तः कर्तरि च'। चित्ते पुनः चेतसि तु किंचिदल्पमपि न रम्यम् ॥ \[ शार्दूलविक्रीडितम् \]
-
-
 
 १) तु. कुसुमिता (तृणवती )। —२) ना२. ग्र २.३. म१. रम्यः ( रम्यं )। ना१.५. रा. ते. ग्र १. म१. गमागतसुखं; ना२. गमोद्भवरसः; ना३.४. गमोत्सवमुखं; ग्र १.३. गमः सुखतरं; ग्र ५.गमोचितसुखं; म१. गमोत्सवरसः; म३. गमोन्नतसुखं ( गमागमसुखं )। ना१. काल्येषु (काव्येषु)।तु. गिरः (कथाः)। —३) ग्र१. कोपोल्लोहित; म१-४. कोपोदाहित। म३. कलितं ( तरलं )। —४) ना१. रम्यं सर्वम्। सु. ग्र २. ३. ताभ्युपगते; ना१. तामुपगतं; ग्र ४. ताभ्युपगमे; म२.ताप्युपगमे (तामुपगते )। तु. नित्यं; ना१. चित्रं; ना२. सर्व; म३. वित्ते ( चित्ते ) ॥
 
@@ -4573,8 +3957,6 @@ Tata Institute of Fundamental Research.
 च्छायाचञ्चलमाकलय्य सकलं सन्तो वनान्तं गताः॥४०॥
 
   रम्यमिति॥ रम्यं रमणीयं हर्म्यतलं सौधपृष्ठं वसतये वासाय न किं, वासाय भवत्येव। गेयादिकं गानवाद्यप्रभृति श्राव्यं श्रवणयोग्यं न किं, भवत्येव प्राणसमानानामसुतुल्यानां समागमः संगमः तेन सुखं शर्म अधिकप्रीतयेऽत्यन्तप्रमोदाय न वा किं भवति। एवंविधं सुखं किमिति त्याज्यमित्यत आह। किं तु उद्धान्तश्चासौ पतंगश्चोद्भान्तपतंगः तस्योङ्क्रान्तपतंगस्य शलभस्य पक्षपवनेन गरुद्वायुना व्यालोलस्य चञ्चलस्य दीपाङ्करस्य प्रदीपशिखायाश्छाया कान्तिरिव चञ्चलमस्थिरं सकलं सर्व हर्म्यतलप्रभृत्याकलय्य विदित्वा सन्तो धीमन्तो बनान्तं काननमध्यं गताः प्राप्ताः। नान्ये ॥ \[ शार्दूलविक्रीडितम् \]
-
-
 
  १) ना५. रा. ते. श्रव्यं ( श्राव्यं )। म२. गेयादि किं। —२) ग्र २ (मू.). नैवा प्राणसमं। सु२. म१.४.५. गमागम; ना१. गमागत ( समागम )। ते२. सुतं ( मुखं )। ना३-५. रा.ते. ग्र २.५. नैवाधिक–। तु१. प्रीयते। —३) सु. म३. किं तूद्भ्रान्त; ना १. किं भूभ्रान्त; ग्र २ (मू.).किंचिद्भ्रान्त; ग्र ३ (मू). किंचिद्धान्त; ग्र ४. किं नु भ्रान्त। म४.५ पतत्पतङ्गपवन। ग्र ५.'व्याधूत' (व्यालोल॰)। —४) ग्र १. म१.२. °ज्वाला (°च्छाया) ॥
 
@@ -4599,8 +3981,6 @@ Tata Institute of Fundamental Research.
 
  आसंसारमिति॥ हे तात (जनक) इति लोकं संबोधयति। (आ संसारात् संसारः संसरणं जन्म आरभ्य आ संसारात् जन्मप्रभृतीत्यर्थः। 'आङ्मर्यादाभिविध्यो' रिति मर्यादायां अव्ययीभावः)। आसंसारं इति पाठे अभिविधावव्ययीभावः। आसंसारं सर्वस्मिन्संसार इत्यर्थः। त्रयाणां भुवनानां समाहारस्त्रिभुवनम्। 'अकारान्तोत्तरपदो द्विगुः स्त्रियां भाप्यते' इत्यस्य 'पात्रादिभ्यः प्रतिषेधो वक्तव्य' 'इति प्रतिषेधात्स्त्रीलिङ्गत्वं नास्ति। 'न स पात्रयुगादिभि' रित्यमरः। इदमेतन्त्रिभुवनंचिन्वतां मृगयमाणानां अस्माकं नयनयोः पदवीं मार्ग वा श्रोत्रवर्त्म श्रवणपथं वा तादृक् तथाविधः पुरुषो नागतो न प्राप्तः। (पीवर ?) तथाविधं पुरुष क्वापि न पश्यामो न च शृणुम इत्यर्थः। तादृगिति कीडगित्याकाङ्क्षायामाह। योऽयमीहक्पुरुषो विषयाः शब्दादय एव करिण्यः करेणवस्तासु गाढं नितान्तं गूढेन लीनेनाभिमानेन प्रणयेन। 'अभिमानोऽर्थादिदर्पे ज्ञाने प्रणयहिंसयो' रित्यमरः। तेन क्षीवस्य मत्तस्यान्तःकरणस्य चित्तस्यैव करिणो वारणस्य संयमाय बन्धनायालानलीलां स्तम्भोषमां धत्ते विभर्ति। विषयेषु खेच्छया वर्तमानं मनोमातङ्गं निरोद्धुं केनापि न शक्यत इत्यर्थः ॥ \[ मन्दाक्रान्ता \]
 
-
-
  १) ना२. रा. ते२. ग्र २. ३. म२.५. आ संसारात्; ते१. आसंसा–। तु. तात तापन; ग्र ४. म४.५. तादृशानां; म३. चान्वितादृङ्।— २) ग्र २.३. मैवास्माकं। तु१. ग्र १.म१.२.४.५. श्रोत्रवर्मागतो वा; तु२. गोत्रवत्मा गतो वा। —३) ग्र१. म १.२. विषमकरिणीं; म३. विनयकरिणी. तु .म३.५. गाढरूढा; ना२. ग्र ४. गूडगाढा। – ४) ग्र ३ (मू). 'क्लीबस्यान्तः"; म३. 'कीडस्वन्तः; म५. 'क्षीणस्यान्तः। तु. करिणां; ग्र२(मू.). किरणः। तु. संयमालानलीनम्; रा. ते.संयमानायलीलाम्; म५. संयमालानलीला ॥
 
  भ. १०६० (४०१)। शा. ४१०५ (भर्तृ)। सुभा. पृ० ३६९.६१ ॥
@@ -4623,8 +4003,6 @@ Tata Institute of Fundamental Research.
 
 जीर्णा इति॥ हृदये मनसि मनोरथा अभिलाषाश्च जीर्णा विशिथिलाः। तत्तथा प्रसिद्धं यौवनं तारुण्यं च यातं गतम्। च अङ्गेष्ववयवेषु गुणा रूपादयश्च गुणशैर्गुणविद्भिः विना वन्ध्यफलतां व्यर्थफलत्वं याता गताः। बलवान्महान्कालः समयःसहसा शीघ्रमभ्युपैति समागतः। कृतान्तो यमः अक्षमी असहनः। हन्त खेदे। युक्तं किम्। मदनान्तकस्य परमेश्वरस्याङ्गियुगलं पादयुग्मं मुक्त्वा त्यक्त्वा अन्याअपरा गतिः शरणं नास्ति ॥ \[ शार्दूलविक्रीडितम् \]
 
-
-
  १) तु. ना२. वहृदये (च हृदये)। ग्र १. म १.२. यातं तु। —२) तु. ग्र १. म १-४ . मे विफलतां (वन्ध्यफलतां) —३) तु. व्यकं तत् ; ग्र ५. युक्तं तत्। ना२. ग्र ३ (मू.). म२. भ्युपेति; म३. प्युपैति। तु. कृतेऽर्थेऽक्षमी; ना२. हि लोकान्तकृत् (कृतान्तोऽक्षमी)। —४) तु१. हाः सातं; सु. ग्र ३. ह्यज्ञातं; ना१. ह्याज्ञातं; ना२. भो ज्ञातं; ग्र २. ह्यज्ञानान; म४.५. हा घ्यातं। ना२. त्रिपुरान्तकानि। सु. ना१. युगुलं ॥
 
  भ. २४२५ (९७६) ॥
@@ -4633,8 +4011,6 @@ Tata Institute of Fundamental Research.
 न वस्तुभेदप्रतिपत्तिरस्ति मे तथापि भावस्तरुणेन्दुशेखरे॥८४॥
 
  महेश्वर इति॥ जगतां लोकानामधीश्वरे प्रभौ महेश्वरे शंभौ वा जगतां लोकानामन्तरात्मन्यन्तर्यामिनि जनार्दने विष्णौ वा { वस्तुभेदप्रतिपत्तिः अयं महेश्वरोऽयं जनार्दन इति वस्तुगोचरभेदबुद्धिर्नास्ति-रा-} वस्तुतः परमार्थतः वेदप्रतिपत्तिः पृथक्त्वबुद्धिमें मम यद्यपि नास्ति तथापि तरुणेन्दुशेखरे बालचन्द्रमौली भावो भक्तिः। 'एक एव रुद्रो न द्वितीयाय तस्थ' इति श्रुतिरेव रुद्रस्यैक्यं समर्थयति। संरक्षित वहुस्यां ये ये (?) इति च तस्य लीलाविग्रहान्वति। तस्माद्विग्रहाणामेव भेदो न तु वास्तवः॥ \[ वंशस्थम् \]
-
- 
 
 \[ तु. म४.५. कोशेषु नास्ति \] १) ग्र १.४.म१-३. पिनाकिनि प्राणभृतां प्रणायके (ग्र४.मूलबदपि)।— ३) ग्र २ ( मू), 'पत्तिरस्तु मे। —४) ना३-५. रा. ते. ग्र ५. तथापि भक्तिस्;म१–३. तथा विभावस् ॥
 
@@ -4646,8 +4022,6 @@ Tata Institute of Fundamental Research.
 कदा यास्यामोऽन्तर्गतबहुलबाष्पाकुलदृशः॥८५॥
 
  स्फुरदिति॥ स्फुरन्त्या उज्वलया स्फारया महत्या ज्योत्स्नया चन्द्रिकया धवलितं पाण्डरीकृतं तलं स्वरूपं यस्य तस्मिन् द्युसरितः सुरनिम्नगायाः क्वापि कुचित् पुलिने सैकते शान्तध्वनिषु निःशब्दासु रजनीषु निशासु सुखेन आसीना उपविष्टाः भवस्य संसारस्य आभोगाद्विस्तारादुद्विग्नाः शिव शिव इति { उच्चवचसः उच्चतराणि वचांसि आक्रन्दनवचनानि येषां ते तथोक्ताः-रा-} (आत्तं उक्तं वचो वाक्यं येषां ते तादृशाः) \[अन्तर्गतबहुलवाष्पाकुलद्दशअन्तःस्तम्भितप्रभूतबाप्पाभिव्याप्तडशः\] (आनन्देन हर्षेणोद्गतो यो बाप्पोऽश्रु तेन प्लुते क्लिन्ने दृशौ नयने येषां तादृशाः) कदा कस्मिन्काले \[ यास्यामः गमिष्यामः \] ( स्याम भवाम। अस्तेर्लिंरूपम्) ॥ \[ शिखरिणी \]
-
-
 
 चञ्च १) तु. स्फुरञ्चन्द्र; ग्र २( मू). स्फुरत्स्कुर। —२) ना२. ते२. म४. सुखासीनः। ते१. शान्ता। —३) ते२. 'द्विन्नाः। सु३. शिवेत्युच्छ; ना२. ते.ग्र २. ३. म४. शिवेल्यात; म३. शिवेस्युक्त; म५. शिवेल्यात्त। —४) तु. कदा स्यामोऽनन्दामृत सु. ना १.२ ग्र २.३. म४.५. कदा स्यामानन्दोद्गत; ग्र१. म१. २. कदा नु स्यामोन्तर्गत; म३. कदा स्यामोन्तर्गत। ना२. म. बहल'। ग्र २.३. म४. 'बाप्पाष्ठत। ना३-५. ते२. दृशाम्; रा. ते१. °दशाम्; रा(टी. पा.) °दशम् ॥
 
@@ -4662,8 +4036,6 @@ Tata Institute of Fundamental Research.
 
  १) ग्र१.४. म४.५. विशीर्णे; म२. दृशार्णे (वितीर्णे)। म२. ३. करुण (तरुण )। ग्र १. म१.२.'करुणार्द्रार्द्र"; म३. "तरुणापूर्ण। ते२. 'हृदयः।—२) ते२. सरन्तत् - ;ग्र १. म२. तरन्तः (स्मरन्तः)। ग्र१. म२. संसारं। ना२. त्रिगुण ( विगुण )। तु. ना ३-५. ग्र २-४. परिणामावधि; ग्र१. °परिणामावधिर् ;म१. परिणामा विधि; म२. परिणामा विधिर्। ना ३-५. ग्र २.३. वयं; ग्र १. म२. इति म१. गतीः (॰गतिम्)। —३) रा. ते. ग्र ५. वयं ( कदा)। ग्र १-४. म. पुण्येऽरण्ये। ना२. परिणित-; ना ४.५. परिगत - ( परिणत - )। तु. किरणे; ना १.२ ग्र ३. किरणा; ग्र १. म १.२.५.बदनास्; म३. शिशिरास्; म४. 'बदनां ( किरणास्)। —ग्र ४. म.२.४.५. त्रियामां। तु. न्येस्यामो;म२. एष्यामो।— ४) ना३. ग्र १. म२. हरि -(हर - )। तु. सु१. ना३-५. ते. ग्र ३ (मु ). 'चित्तैक, सु२.३, °वित्तैक (चिन्तैक) ॥
 
-
-
  भ. ६०६८ (२७८९
 
 )
@@ -4677,8 +4049,6 @@ Tata Institute of Fundamental Research.
 
  कदेति॥ वाराणस्यां काशीक्षेत्रे अमरतटिनीरोघसि भागीरथीकूले वसन् कौपीनं कक्षपटं वसानः परिधानः सन् शिरसि मूर्ध्नि अञ्जलिपुटं अञ्जलिमेव पुटं निद्धानो निक्षिपन् अये गौरीनाथ पार्वतीपते त्रिपुरहर पुररिपो शंभो सुखजन्मभूमे त्रिनयन विषमलोचन प्रसीद प्रसन्नो भव इति क्रोशन्क्रन्दन्दिवसान्वासरान्निमिषमिव क्षणमिव अक्षिपरिस्पन्दपरिमितकालमिव कदा नेप्यामि। वीतरागस्य भागीरथीकूलमाश्रितस्य शंभावासक्तचित्तस्य मम कालः कदा सुखेन गमिष्यतीति कविराशास्ते॥ \[ शिखरिणी \]
 
-
-
 १) ना२. 'ममरतटनी'; ग्र ५. मरतकतटिनी। म५. तटिनीतीरनिवसन्।—२) म३.विनिधायाञ्जलि। —३) ग्र ३ (मू.). त्रिणयन —४) तु. ना२. रा२. प्रसीदेल्याक्रोशन ॥
 
  भ. १५२५ (५९४); कुवलयानन्दे १८९। सुभा. पृ० ३६९ .५९। सुर. पृ० २९७.९८ (भर्तृ)। साहित्यदर्पणे ३ (पृ० १९४)। सक. ५. ६०. ४ (पृ० ३१७; विश्वेश्वरस्य) ॥
@@ -4691,8 +4061,6 @@ Tata Institute of Fundamental Research.
  स्नात्वेति॥ गार्गङ्गासंबन्धिभिः। तस्येदमित्यण्। पयोभिर्वारिभिः स्नात्वा आशुत्य शुचिभिः पवित्रैः कुसुमैः करवीरकमलादिभिः फलैः बदरादिभिः। हे विभो स्वामिन् स्मरारे मदनरियो त्वां भवन्तमर्चयित्वा संपूज्य। क्षितिधरस्य पर्वतस्य कुहरं गुहा तस्य ग्रावा शिलैव पर्यङ्कः शयनं तस्य मूले तले आत्मारामः सन् फलाशी सन् गुरोः देशिकस्य वचने वाक्ये रतः सन्नहं ध्येये ब्रह्मणि परमेश्वरंध्यानं चिन्तां निवेश्य निधाय त्वत्प्रसादात् समकरचरणे समानहस्तपादे { मकरेण मकराकाररेखया सह वर्तत इति समकरश्चरणो यस्य तस्मिंस्तथोक्ते-रा-} पुंसि पुरुषे सेवासमुत्थं श्ववृत्तिसमुद्भूतं दुःखं पीडां कदा कस्सिन्काले मोक्ष्ये त्यक्ष्यामि। सांसारिकदुःखत्यागे ईश्वरप्रसादः कारणम् ॥ \[ स्रग्धरा \]
 
  १) तु. °चयैर्; ग्र ४. शतैर् (फलैर् )। ग्र १.म४. ५. निवेद्य ( विभो त्वां )। —२) तु.ध्यायन् चित्ते; सु. ना१. ग्र ४. ध्याये ध्यानं; म४.५. घ्यायं ध्यायं। ना१. निविश्य; ना२. विशेष्य;
-
-
 
 म३. निषेव्यः म४.५. भवन्तं ( निवेश्य )। म. ग्राम- (°ग्राव - )। — ३) तु. आत्मारामोपलीनो; ग्र २.३. आत्मारामो फलाशी। ग्र ५. वचनपरस्; म३. 'वचनगतस्। तु१. कृत्पुरस्तात्; तु२. त्वत्पु-रस्तात् ( त्वत्प्रसादात्)।तु. सु. म३. पुरारे; ना३.४. मुरारे ( स्मरारे)। —४) ग्र २ (म्).मोक्षे। तु१. कदा हे। तु. स्मरहरचरणे, ग्र४. करचरणसमे। ना२. समुद्धम्; ग्र२. समर्थः ( समुत्थम्)॥
 
@@ -4714,11 +4082,7 @@ Tata Institute of Fundamental Research.
 
  पाणिमिति॥ पाणिर्हस्तः \[तं\] पात्रयतां पात्रं कुर्वतां निसर्गेण स्वभावेन शुचिना शुद्धेन भैक्षे (क्ष्ये) ण भिक्षासमूहेन संतुष्यतां परितोषयतां\[ परितुष्यतां \] यन्त्र कापि यत्र कुत्रचित्प्रदेशे निषीदतां निषण्णानां मुहुः पुनः विश्वं प्रपञ्चं बहुतृणं तृणकल्पं यथा भवति तथा पश्यतां द्रष्टुणां तनोः शरीरस्यात्यागेऽविसर्जनेऽपि योगिनां महात्मनां { अखण्डोऽपरिच्छिन्नो यः परमानन्दो ब्रह्मानन्दस्तस्यावबोधमनुभवं स्पृशन्तीति तथोक्तानां शिवप्रसादेन सुलभः कोऽप्यनिर्वाच्योऽध्या संपत्स्यते संपन्नो भवति-रा-) (स्पृहामिच्छां मत्वा स्मृत्वा) कोऽप्यनिर्वाच्यः शिवप्रसादसुलभः शिवानुग्रहसुलभः अखण्डपरमानन्दावबोधः निरन्तरपरमानन्दज्ञानं संपत्स्यते उत्पत्स्यते ॥ \[ शार्दूलविक्रीडितम् \]
 
-
-
 १) तु २. ग्र ३ (मू.). पाणिः; म५. पाणी। ना१.२. शुचिनां; ते२. सुचिना। सु. ना१.२.ते. ग्र१. २. भैक्षयेण। —२) तु१. निषादतां; ना२. निषेचतां (निषीदतां )। —३) तु १. आत्या-
-
-
 
 गेऽपि; ना२. आयोगेऽपि। ना१-४. ग्र३.५. स्पृहाम्; ते२. 'स्पृशो ( °स्पृशाम् )। —४) तु १.लब्ध्वा; तु२. लब्धा; सु. मध्ये ना२.ग्र२.३.५. मत्वा; ते२. मद्वा; ग्र१. अद्धा (अध्या)। तु.'सुलमे; ग्र१. २. सुलभाः। ग्रर(मू.). संपद्यते ॥
 
@@ -4742,14 +4106,9 @@ Tata Institute of Fundamental Research.
 
  कौपीनमिति॥ शतखण्डजर्झ\[र्ज\]रतरं अनेकखण्डैरतिशयेन जर्जरं कौपीनं खण्डवसनं यद्यस्ति। कन्था पुनः कन्था तु तादृशी तथा जर्जरतरा यदि। नैश्चिन्त्यं चिन्तारहितं निरपेक्षमपेक्षारहितं भैक्षं भिक्षासंबन्ध्यशनमन्नंयदि। श्मशाने पितृवने अरण्ये वा निद्रा स्वापो यदि। स्वातत्र्येण स्वतन्त्रता निरङ्कुशं निरर्गलं यथा तथा विहरणं विहारो यदि। प्रशान्तं प्रकृष्टशमयुक्तं स्वान्तं चित्तं यदि। सदा संततं योगमहोत्सवे योगमहामहे स्थैर्यं स्थिरता यदि। त्रैलोक्यस्य भूर्भुवः सुवर्लोकरूपस्य राज्येन किं, किं फलमित्यर्थः॥ \[ शार्दूलविक्रीडितम् \]
 
- 
-
 १) तु२. ना१. ग्र२-५. जर्झरतरं; ते. झर्झरतरं। —२) ते२. २ ( मू.). नैश्चित्यं; म४.५.संशुद्धं (नैश्चिन्त्यं)। ना२. ग्र२ ( मू.). निरपेक्ष्य' ना२. ग्र२. 'भैक्ष्यम्। तु. सु. ना१.२.स्मशाने। —३) ना१.२. खातन्त्रेण। म३. यदा (सदा )। —४) ग्र१. म. धैर्यं (स्थैर्यं )। ग्र५.त्सवेषु। ग्र४. न ( इत्यपि ); म४. च ( अपि )। तु. च यता; म४.५. यदिदं ( च यदि ) ॥
 
 नी० श० २२ (वे श०)  
-
-
-
 
  भ. १९५६ (७५७); प्रसङ्गाभ ९ सुभा.पृ० ३७१. १११ ॥
 
@@ -4768,8 +4127,6 @@ Tata Institute of Fundamental Research.
 र्भिक्षासक्तुभिरेव संप्रति वयं वृत्तिं समीहामहे॥९३॥
 
  मातरिति॥ हे मातर्जननि लक्ष्मि हे श्रीः त्वमपरमन्यं कंचित्कंचन पुरुषं भजस्व प्राप्नुहि। मत्काङ्क्षिणी मामपेक्षिणी मामपेक्षमाणा मा स्मभूर्मा भवः। भोगेभ्यः सुखेभ्यः स्पृहयालवः। 'स्पृहिगृहिपतिदयिनि- द्रातन्द्राश्रद्धाभ्य आलुच्'। स्पृहयन्त इत्यर्थः। 'स्पृहेरीप्सित' इति संप्रदानसंज्ञायां भोगेभ्य इति चतुर्थी।तब वशे { त्वदायत्ततायां वर्तन्त इति शेषः-रा-} (तव वशास्त्वदधीना इत्यर्थः)। वशः कान्तिरिच्छेति यावत्। निःस्पृहाणां भोगस्पृहारहितानां त्वं कासि। तुच्छेत्यर्थः। सद्यः सपदि स्यूते प्रसेविते पलाशपत्राणां किंशुकपर्णानां पुटिकायां पुटएव पात्रे भाजने पवित्रीकृतैः। 'अभूततद्भावे कृभ्वस्तियोगे संपद्यकर्तरि च्विः'।‛अस्य च्वा' वितीत्वम् ॥ तथा च स्मृतिः। कारु हस्तः शुचिः पण्यं भैक्षं योषिन्मुखं तथा इति। भिक्षासक्तुभिः भिक्षाभूतयवचूर्णैरेव संप्रतीदानीं वयं वृत्तिं जीवनं समीहामहे इच्छामः। सद्यःस्यूतशब्देन कस्यचिदपि वस्तुनः संग्रहो नास्तीति सूचितम्। संग्रहरहिता वीतरागा लक्ष्मी नाद्रियन्त इत्यर्थः ॥ \[शार्दूलविक्रीडितम् \]
-
-
 
  १) ते२. मातुर्लक्ष्मि ग्र१. म२. लक्ष्मीरम्ब सु. ते. कं चिदपरं; म४. किंचिदपरं। ना१.मत्काङ्क्षणी। — २) तु. ग्र१-३. म१-३. भोगेभ्यः। ना२. स्वविवशे। सु. ना३.४. ग्र२-४ वशाः( वशे )। ग्र४. के (का)। म निस्पृहाणाम्। सु. ४.५ अपि ( असि )। —३) ना१. ग्र४.सद्यश्चूत; ते१. सत्यः -स्यूत; ग्र२ ( मू.). सद्यःस्यूत। ना२. पलाशपात्र; ते२. 'फलाशपत्र'। ते १.पुटकापात्रैः; म४. 'पुटिकापात्री' तु. सु.ग्र१.३. पवित्रीकृते। —४) ना३-५, रा. ते. भिक्षावस्तुभिरेव। ना२. समीहाम ये; म४. समीक्षामहे ॥
 
@@ -4791,11 +4148,7 @@ Tata Institute of Fundamental Research.
 रथ्याकीर्णविशीर्णजीर्णवसनः संप्राप्तकन्थासनो  
 निर्मानो निरहंकृतिः शमसुखाभोगैकबद्धस्पृहः॥९५॥
 
-
-
  भिक्षाशीति॥ भिक्षाशनवतः। 'व्रते' इति णिनिः। जनानां लोकानां मध्ये अन्तः समरहितो निःसङ्गः \[ स्वायत्तचेष्टः स्वाधीनव्यापारः \] ( स्वायत्तवेषः आत्माधीनाकल्पः) \[ सदा सर्वदा \] हा (दा) नं त्यागः उपादानं ग्रहणं ताभ्यां विविक्ते विरहिते मार्गे पथि निरत आसक्तः रथ्यासु प्रतोलीषु \[कीर्णानि विक्षिप्तानि विशीर्णानि विशकलितानि जीर्णवसनानि पुरातनवस्त्राणि यस्य स तथा\] (क्षीणानि जीर्णानि कैश्चिद्दत्तानि च चीराणि वासः खण्डा एव वसनानि यस्य सः) संप्राप्तं कन्थामयमासनं पीठं यस्य सः निर्मानो मानात्प्रेम्णो निष्क्रान्तः निरहंकृतिरहंकाररहितः। शमः शान्तिरेव सुखं शर्म तस्या भोगो विस्तारः तत्रैकस्मिन्नेव बद्धा संदानिता स्पृहा ईहा येन सः। एवंविधो भूत्वा स्थितो यः कश्चिञ्चण्डालो वा शूद्रो वा द्विजो " वा भवतु स एव तपस्वी तापसः ॥ \[ शार्दूलविक्रीडितम् \]
-
-
 
 १) तु२. भिक्षासी। ना२. स्वायत्तचित्तस्पृहा; ग्र२. ३. स्वायत्तवेषः सदा।—२) तु. हानाहान;ना२. म१.३. नानारूप ; म४. हारादान ( हानादान ° )। सु. "विरक्ति; ना १.३-५. रा. "विरक्ति;ना२. 'विवक्त'। तु. ना१. मार्गरहितः; ना२. मार्गनिहतः। तु. ना१.२. म३. तपस्वीजनः।—३)ग्र२. ३. रथ्याक्षीण।तु. ना१. १.३. म४. ५. विकीर्ण; ग्र२विजीर्ण। ग्र२.३. चीर°(°जीर्णे )। तु. ना१.२. ग्ग्र५. म१.३. 'वसनैः; ते२. 'वसनं ( 'वसनः)। —४) म३. निर्मानी।ना१. शमसुखे; ना२. म३. शमसुखो। तु. भोगैकदत्त; ग्र१. म१.२.४.५. भोगेकलब्ध; गेअ२(मू). भोगैरबद्ध°; म३. 'योगेकबद्ध' ॥
 
@@ -4809,8 +4162,6 @@ Tata Institute of Fundamental Research.
   चण्डाल इति॥ अयं पुरुषश्चण्डालो वा जनाधमः किम्। किं विकल्पे अथ वा द्विजातिर्ब्राह्मणक्षत्रियवैश्यानामन्यतमः। अथ वा शूद्रो वृषलजातिः। तापसस्तपस्वी किम्। किं वा तत्त्वनिवेशे ब्रह्मणोऽनुप्रवेशे पेशलमतिः पटुबुद्धिः कोऽपि योगीश्वरः योगीन्द्र इत्येवमुत्पन्ना जाता विकल्पा नानापक्षा येषां जल्पैयें मुखरा दुर्मुखाः। 'दुर्मुखे मुखरा बद्धमुखा' इत्यमरः। एतैर्जनैराभाष्यमाणा आलप्यमानाः सन्तः न क्रुद्धा नातुष्टाः नैव तुष्टमनसः संतुष्टचेतसः। योगिनः। स्वयं पथि मार्गे यान्ति गच्छन्ति।आत्मानं निन्दत्सु परेषु ये न क्रुध्यन्ति स्तुवत्सु च न तुष्यन्ति त एव योगीश्वरा इत्यर्थः॥ \[शार्दूलविक्रीडितम्\]
 
  १) ना२. रा. चाण्डालः। ग्र३ (मू.). किमथ (किमयं )। ना२. शूद्रो न किं। सु. ना३-५.रा. ते. ग्र४. किं (वा)। ग्र५. वा कोऽपि वा; ग्र३. वैश्योऽथ वा ( किं तावसः )। —२) ग्र५. कं(किं)। सु. ना. रा२. तत्त्वविवेक। ग्र२. 'पेशलपटुर। ग्र. म १.२. कथन; ग्र३.५. कोऽपि वा( कोऽपि किं )। —३) ग्र२ (मू.). पक्ष° (°जल्प )। ना१. आकीर्यमाणो; ना२. ते१. आभाष्य-
-
-
 
 माणो; ते२. आभाष्यमाणं; ग्र१. म४. ५. संभाष्यमाणा; ग्र४. आकृष्यमाणा; म१.२. संभाष्यमाणो। —४) ना१. नोक्रुद्धाः; ना२. संक्रुद्धा। म४. पथिकैः सुतुष्ट°। ना२. याति (यान्ति ) ॥
 
@@ -4834,8 +4185,6 @@ Tata Institute of Fundamental Research.
 
  गङ्गातीर इति॥ गङ्गाया भागीरथ्यास्तीरे रोधसि हिमगिरेः प्रालेयाद्रेः शिलायां दृषदि बद्धं पद्माख्यमासनं येन तस्य। ब्रह्मणः परमात्मनो ध्यानं चिन्तनं तस्याभ्यसनमावृत्तिरेव विधिर्व्यापारः। तेन योगनिद्रां योगरूपं स्वापं गतस्य प्राप्तस्य मम तैस्तादृशैः सुदिवसैः पुण्यदिवसैर्भाव्यं भवितव्यं किम्। तादृशाः सुदिवसा मम
 
-
-
  भविष्यन्ति किमित्यर्थः। कीदृशैरित्याकाङ्क्षायामाह। येषु दिवसेषु ते हिमगिरिवसतयो जरठहरिणाः प्रवृद्धकृष्णसाराः निर्विशङ्काः मामयं ताडयिष्यति हनिष्यति वेति शङ्कारहिताः सन्तः मदीये मामकेऽङ्गे तनौ \[ स्वाङ्गं स्वशरीरं\] (शृङ्गं) कण्डूयन्ते घर्षयन्ति। दयालूनां मुनीनां अधातुकत्वं विज्ञाय वा निश्चलत्वात्स्थाणुशङ्कया वा मृगास्तेषु विश्वासं प्राप्नुवन्ति ॥ \[ मन्दाक्रान्ता\]
 
  १) ग्र१. म१-४, गाङ्गेतीरे — २) तु. सु. ना२. ब्रह्मज्ञाना। — ३) सु. भाष्यं; ग्र५. साध्यं( भाव्यं )। सु२. हृदि (मम)। तु. ना. रा. ग्र४. ५. यत्र; ते. एषु (येषु )। —४) तु२. सु२ .ना२. ग्र१. म१.३-५, जठर; ग्र २.३. म२. जरढ( जरठ° )। सु. ना२. ग्र२.३. शृङ्गमङ्गेग्र५.स्वाङ्गमङ्के॥
@@ -4850,8 +4199,6 @@ Tata Institute of Fundamental Research.
  पाणिरिति॥ येषां पाणिर्हस्त एव पवित्रमनुपहतं पात्रं भिक्षाभाजनम्। मृत्पात्रस्य ताम्रादिपात्रस्य वोपहतस्य परित्याग एव विहितः। पाणेस्तूपहतस्य मृजलाभ्यां क्षालनेन शुद्धिः स्यात्। कनकादिपात्रस्य तु बन्धहेतुत्वादेव त्यागः। भ्रमणेनाटनेनपरिगतं लब्धं भैक्षं भिक्षाकदम्वकमेव अक्षय्यमनश्वरमन्नमशनम्। गृहे संगृहीतान्नस्य चोराग्निराजादिभिर्नाशः संभवति। आशानां दिशां दशकमेव अपमलं मलरहितं विस्तीर्णेविशालं वस्त्रं वसनम्। तत्वारधस्य वाससो मूत्रपुरीषशुक्लृशोणितादीनां मलसंभवः। तथा च स्मृतिः। “मूत्रस्य रक्तस्य पुरीषरेतसोर्लेपोंऽशुके याति न चेत्स्वशोधनैः। छिन्द्यात्प्रदेशं तमथापि वा दहेद्यद्वा तदेतद्वसनं परित्यजेत्”॥ \[इति\]। ककुभां तु मला एतेन संभवन्ति। उर्वी भूमिरेव अस्वल्पं विशालं तल्पं शयनम्। निःसङ्गतायाः असङ्कस्याङ्गीकरणात्परिणते परिपक्वेस्वान्ते चेतसि संतोषिणः प्रीतिमन्तो धन्याः कृतार्थाः संन्यस्तः परित्यक्तो दैन्यैः वर्णैः (सर्वपुण्यैः)व्यतिकराणां मेलनानां निकरः समूहः यैस्तैः। कर्म पुण्यापुण्यात्मकं निर्मूलयन्ति नाशयन्ति। उभयोरपि कर्मणोः संसारहेतुत्वात्॥ \[स्रग्धरा \]
 
  १) तु१. पाणेः। म३. भ्रमणपतगता। ना१. २. ग्र१. २. भैक्ष्यम्। तु१. अप्येक्षमन्नं; म३.अक्षय्यमङ्गं—२) ग्र५. °धवलम् (°दशकम् )। तु. अपतुलं; ना१. अविकलं; ना५, रा. ग्र४.अचपलं; ते अपरुषं; म४. ५. अलमलं (अपमलं )। ना१. तल्पमाकल्पम् ना२. तव्यमखल्पम्।म३. अल्पस्वमुर्वी। —३) तु. सु२. ते२. म३. एषां; ना२. योषा (येषां )। तु १, निःसङ्गिता।
-
-
 
  म४. ५. संगतालिङ्गनसुखमतुलं। तु परिणता; ना१. परिगत; ना२. परिणतिः; ते. ग्र१.२.'परिणतः। तु१. खात्म° (°खान्त°)। —४) ना२ कर्ममन्मूल; म३. कर्ममुन्मूल°। ते१. निर्मूलयन्तः; ते२. निर्मूलयन्ती ॥
 
@@ -4873,8 +4220,6 @@ Tata Institute of Fundamental Research.
 धैर्यं यस्य पिता क्षमा च जननी शान्तिः प्रिया गेहिनी  
 सत्यं मित्रमिदं दया च भगिनी भ्राता तपःसंगमः।
 
-
-
 शय्या भूमितलं दिशोऽपि वसनं ज्ञानामृतं भोजनं  
 ह्येते सन्ति कुटुम्बिनो मम सखे कस्माद्भयं योगिनः॥१॥
 
@@ -4885,17 +4230,7 @@ Tata Institute of Fundamental Research.
 
  इति श्रीभर्तृहरियोगीन्द्रविरचितवैराग्यशतकं सटीकं समाप्तम्। शुभमस्तु। गुरुभ्यो नमः। अविघ्नमस्तु। सरस्वत्यै नमः। \[ ततश्चात्र ‘एको वासः पट्टणं वा' इति, 'धैर्यं यस्य पिता' इति श्लोकद्वयं दृश्यते \] शुभमस्तु। ९८७ \[ = ख्रिस्ताब्दे १८१२ \] प्रजोत्पत्ति ते मासं ११ तेदि शुक्रपक्षत्तु नवमी शुभयोगशुभकरणमुं कूडिन दिनत्तिल् सीतारामशास्त्रियलपुत्रन् रामकृष्णन् एलुदिनदु। ग्रन्थं भर्तृहरिणी नीतिशतक शृङ्गारशतक वैराग्यशतकमेवं शतकत्रयस्य सव्याख्यानं रामकृष्णेन लिखितम्। भैरवाय नमः। अपीतकुचनायक्यम्बायै नमः। कृष्णो रक्षतु यादृशं पुस्तकं दृष्ट्वा तादृशं लिखितं मया। अबद्धं वा सुबद्धं वा मम दोषो न विद्यते॥१॥ करकृतमपराधं क्षन्तुमर्हन्ति सन्तः॥ पनसाम्रपाटल सदृशा उत्तमाधममध्यमाः। फलैः पुष्पफलैः पुष्पैः कर्मवाङ्कर्म वागेवा (?)॥
 
-
-
 ----------------00----------------
 
-
-
-
 \]
-
-
-
-
-
 

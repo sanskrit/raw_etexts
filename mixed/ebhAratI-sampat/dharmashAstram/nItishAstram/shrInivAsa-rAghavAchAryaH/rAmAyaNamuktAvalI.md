@@ -15,41 +15,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIxNjQwNjI3NTM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **रा मा य ण मु क्ताव ली**
 
-
-
-
-
-
-
 ![](../books_images/U-IMG-1696828054a.png)
-
-
 
 BY
 
 RAMAYANA RATNAKARA
 
 **T. SRINIVASA RAGHAVACHARYA**
-
-
-
-
 
 श्रीरामजयम्
 
@@ -81,16 +55,12 @@ WITH
 
 **1949**
 
-
-
 The Hon'ble Mr. Justice,                       
         "KRISHNA VIHAR"  
    **M. PATANJALI SASTRI.                     
              **Mylapore.  
                                    
               28th September, 1940.
-
-
 
 **FOREWORD**
 
@@ -106,39 +76,21 @@ The Hon'ble Mr. Justice,
 
 **M. Patanjali Sastri.**
 
-
-
-
-
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **PRINTED AT SRI VEDAVYASA PRESS, CHITTOOR.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-
-
 
 **AUTHOR'S NOTE.  
 ![](../books_images/U-IMG-169476740716.png)**
 
   This little book contains almost all the 'Neeti Slokas' or moral sayings culled out from Srimad Valmiki Ramayana, with an English rendering of the same. I need hardly say that even one with the Gandhian command of English language cannot render a happy translation of the Sanskrit verses into English and sometimes a close literal translation, even if it were possible, looks rather uncouth. My present endeavour therefore, is mainly to convey in English the idea of the original Sanskrit verses, giving a true translation wherever possible and necessery. Like lustrous pearls gathered from the deep ocean these invaluable pearls of Valmiki are collected from out of the unfathomable depths of the vast ocean of Ramayana and hence the book is styled as 'Ramayana Muktavali'. Though this little book may be welcomed by all the English-Sanskrit knowing lovers of Ramayana, it is mainly intended for students whom I request to get the verses by heart with great advantage to them not only during their scholastic career but also in their everyday life thereafter.
 
-
-
 CHITTOOR,                              
  T. SRINIVASA RAGHAVACHARYA,  
 5-3-40.                                
                      Author.
-
-
 
 **Respectfully dedicated**
 
@@ -148,13 +100,9 @@ CHITTOOR,
 
   Who, more than the divine hero and heroine of his immortal work, is a source of perennial inspiration to me and to whose silent blessings Ientirely owe my feeble knowledge of Srimad Ramayana.
 
-                                   
                         T. S. R.
 
-
-
 **श्रीरामजयम्**
-
 
 ![](../books_images/U-IMG-169476781817.png)
 
@@ -182,8 +130,6 @@ CHITTOOR,
                             (33 - 9)
 
   Forbearance is an ornament to men and woman alike. Forbearance is charity, Forbearance is virtue, Forbearance is sacrifice, Forbearance is fame, Forbearance is righteousness; in fact the entire world rests on forbearance.
-
-
 
 **२. न चावज्ञा प्रयोक्तव्या कामक्रोधवशादपि।**
 
@@ -216,8 +162,6 @@ CHITTOOR,
 
   Youth is ever transcient, the more so among human beings.
 
-
-
 **७. पिता हि प्रभुरस्माकं दैवतं परमं हि नः।  
   यस्य नो दास्यति पिता स नो भर्ता भविष्यति॥**  
                              (32_21)
@@ -244,8 +188,6 @@ CHITTOOR,
 
 ![](../books_images/U-IMG-169479230719.png)
 
-
-
 **॥ अयोध्याकाण्डम् ॥**
 
 **११. भूयो विनयमास्थाय भव नित्यं जितेन्द्रियः।  
@@ -271,8 +213,6 @@ CHITTOOR,
 
   Awe comes from those who fear.
 
-
-
 **१६. सन्निकर्षाच्च सौहार्दं जायते स्थावरेष्वपि।**(8_28)
 
   Even immoveables become attached to us by constant contact with them.
@@ -295,8 +235,6 @@ CHITTOOR,
    निन्दितः स वसेल्लोके स्वात्माप्येनं विगर्हति॥**(17_14)
 
   Any one who sees not Rama nor is seen by Him is scorned everywhere and he even detests himself.
-
-
 
 **२१. न ह्यतो धर्मचरणं किंचिदस्ति महत्तरम्।  
    यथा पितरि शुश्रूषा तस्य वा वचन क्रिया॥**  
@@ -327,8 +265,6 @@ CHITTOOR,
 
   Virtue reigns supreme in the world. Virtue is entwined with Truth; and to obey the commands of the father is only in consonance with the laws of virtue.
 
-
-
 **२६. संश्रुत्य च पितुर्वाक्यं मातुर्वा ब्राह्मणस्य वा।  
    न कर्तव्यं वृथा वीर धर्ममाश्रित्य तिष्ठता॥**  
                             (21_41)
@@ -351,8 +287,6 @@ CHITTOOR,
 
   No action should be done that does not lead to virtue, material prosperity and conjugal bliss. Whatever is done must be in con-
 
-
-
 formity with the laws of virtue, One's endeavour for mere material prosperity makes one an object of redicule, and likewise, one's action done solely for conjugal bliss lowers one's estimation in the eyes of others.
 
 **२९. गुरुश्च राजा च पिता च वृद्धः  
@@ -374,8 +308,6 @@ formity with the laws of virtue, One's endeavour for mere material prosperity ma
                                 (22_23)
 
   Even the mighty sages of lofty penance have to yield to the dictates of Fate and are
-
-
 
 decoyed from their life of austerity by desire and anger.
 
@@ -406,8 +338,6 @@ decoyed from their life of austerity by desire and anger.
                                 
 (24_12)
 
-
-
   It is simply cruel for women to discard their husbands.
 
 **३७. जीवन्त्या हि स्त्रिया भर्ता दैवतंप्रभुरेव च।**  
@@ -432,8 +362,6 @@ decoyed from their life of austerity by desire and anger.
                                (24_27)
 
   A true wife should ever be desirous of serving her husband in all that is conducive to his good and happiness.This is the law Eternal expounded by theVedas and the codes of morals.
-
-
 
 **४१. कृतान्तस्य गतिः... दुर्विभाव्या सदा भुवि।**  
                                (24_35)
@@ -463,8 +391,6 @@ decoyed from their life of austerity by desire and anger.
 (27_3)
 
   Father, mother, brother, son and daughter-in-law do all individually attain the fruits of their karma good or bad.
-
-
 
 **४६. भर्तुर्भाग्यं तु भार्यैकाप्राप्नोति।**  
                        (27_4)
@@ -497,8 +423,6 @@ decoyed from their life of austerity by desire and anger.
 
   The brahmin sages have stated that the Divine Vedas proclaim that she who in this
 
-
-
 world, is given in marriage to one, by her father and elders with the sprinkling of the holy water in accordance with their religious custom, is his wedded wife even in the world beyond.
 
 **५१. स्वर्गो धनं वा धान्यं वा विद्याः पुत्राः सुखानि च।  
@@ -518,8 +442,6 @@ world, is given in marriage to one, by her father and elders with the sprinkling
                                 (33_15)
 
   Rama who is the very essence of virtue, is the resplendant root of the tree of all created humanity whereof all other human beings are but flowers and fruits, leaves and branches.
-
-
 
 **५४. न हि क्षुभ्यति दुर्धर्षःसमुद्रः सरितांपतिः।**  
                                (34_46)
@@ -553,8 +475,6 @@ world, is given in marriage to one, by her father and elders with the sprinkling
 
   Men possess the traits of their father, and women those of their mother.
 
-
-
 **६०. यो हि दत्वा गजश्रेष्ठं कक्ष्यायां कुरुते मनः।  
    रज्जुस्नेहेन किं तस्य त्यजतः कुञ्जरोत्तमम्॥**  
                                (37_3)
@@ -584,8 +504,6 @@ world, is given in marriage to one, by her father and elders with the sprinkling
 
   It is also the charecteristic of faithless women to lead a false life, do acts unworthy
 
-
-
 of them, possess a heart ever unfathomable, be inclined to do sinful acts and in a trice cease to be affectionate.
 
 **६५. न कुलं न कृतं विद्यां न दत्तं नापि संग्रहम्।  
@@ -610,8 +528,6 @@ of them, possess a heart ever unfathomable, be inclined to do sinful acts and in
 **६८. मितं ददाति हि पिता मितं माता मितं सुतः।  
    अमितस्य हि दातारं भर्तारं का न पूजयेत्॥**  
                                 (39_30)
-
-
 
   Father, mother, and son all contribute to the happiness of a woman only to a limited extent. Which woman will not worship her husband who unlimitedly contributes to her joy any welfare.
 
@@ -641,8 +557,6 @@ of them, possess a heart ever unfathomable, be inclined to do sinful acts and in
    धर्मं विमृशमानानां प्रत्यक्षं देवि दैवतम्॥**  
                                (62_8)
 
-
-
   For those women who lead a life of virtue the husband with or without character is their visible God.
 
 **७४. नैषा हि सा स्त्री भवति श्लाघनीयेन धीमता।  
@@ -671,8 +585,6 @@ of them, possess a heart ever unfathomable, be inclined to do sinful acts and in
 
   Even ascetics well-versed in the laws of virtue, cultured and proficient in the Dharma
 
-
-
 Sastras to the highest degree fall a prey to grief and lose their mental equilibrium.
 
 **७८. यदाचरति कल्याणि शुभं वा यदि वाऽशुभम्।  
@@ -697,8 +609,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
 **८१. अविज्ञाय फलं यो हि कर्मत्वेवानुधावति।  
    स शोचेत्फलवेलायां यथा किंशुकसेचकः॥**  
                                (63_9)
-
-
 
   One who does not realise the consequences of one's own action will repent it at the time of fruit bearing, even as he who plants the palasa.
 
@@ -726,8 +636,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
 (67_12)
 
   In kingless realms, joyful citizens do not gather in pleasure-gardens nor resort to holy places.
-
-
 
 **८६. नाराजके जनपदे यज्ञशीलाःद्विजातयः।  
    सत्राण्यन्वासते दान्ताः ब्राह्मणाः संशितव्रताः॥**  
@@ -760,8 +668,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
                                 
 (67_17)
 
-
-
   In a kingless land, we do not behold bevies of girls decked in gold going in batches to pleasure groves to play in the evenings.
 
 **९१. नाराजके जनपदेवाहनैः शीघ्रगामिभिः।  
@@ -788,8 +694,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
                              (67_21)
 
   In a kingless land, military exercises of rival archers and the applause of clasping hands (of the lookers on) are not to be seen and heard.
-
-
 
 **९५. नाराजके जनपदे वणिजो दूरगामिनः।  
    गच्छन्ति क्षेममध्वानं बहुपण्यसमाचिताः॥  
@@ -819,8 +723,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
    संवदन्तोऽवतिष्ठन्ते वनेषूपवनेषु च॥**  
                            (67_26)
 
-
-
   In a kingless land, the scholars versed in sacred lore, do not debate and argue under the shades of woods and groves,
 
 **१००. नाराजके जनपदे माल्यमोदकदक्षिणाः।  
@@ -849,8 +751,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
 
   In a kingless realm, none may call his wealth his own and each will prey on the other every day even as one fish devevours another.
 
-
-
 **१०४. यो हि संभिन्नमर्यादा नास्तिका छिन्नसंशयाः।  
     तेऽपि भावाय कल्पन्ते राजदण्डनिपीड़िताः॥**  
                                  
@@ -876,8 +776,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
                               (67_35)
 
   A king of high character easily excels even the Gods Yama, Kubera, Indra and, mighty Varuna.
-
-
 
 **१०८. अहो तम इवेदं स्यान्न प्रज्ञायेत किंचन।  
     राजा चेन्न भवेल्लोके विभजन्साध्वसाधुनी॥**  
@@ -909,8 +807,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
 
   There is nothing wrong in dissociating ourselves with those who had wronged us before.
 
-
-
 **११३. मन्त्रो विजयमूलं हि राज्ञां भवति (राघव)।  
    सुसंवृतो मन्त्रधैररमात्यैः शास्त्रकोविदैः॥**  
                                (100_17)
@@ -940,8 +836,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
     शूरमैश्वर्यकामं च यो न हन्ति स वध्यते॥**  
                                (100_30)
 
-
-
   He who does not check the propensities of a clever and learned adviser, who takes delight inteasing the subordinates, who desires wealth, though valourous, is easily crushed in the end.
 
 **११८. कालातिक्रमणाच्चैव भक्तवेतनयोर्भृताः।  
@@ -967,8 +861,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
 **१२१. नास्तिक्यमनृतं क्रोधं प्रमादं दीर्घसूत्रताम्।  
     अदर्शनं ज्ञानवतां आलस्यं पञ्चवृत्तिताम्॥**  
                                (100_65)
-
-
 
 **एकचिन्तनमर्थानां अनर्थज्ञैश्च मन्त्रणम् ।  
 निश्चितानामनारम्भं मन्त्रस्यापरिरक्षणम्॥**  
@@ -996,8 +888,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
                                (105_7)
 
   One who is depended upon by others leads a happy life; whereas one depending on others leads a miserable lifc.
-
-
 
 **रा म गी ता**
 
@@ -1030,8 +920,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
     यात्येव यमुना पूर्णा समुद्रमुकाकुलम्॥**  
                               (105_13)
 
-
-
   A night that had passed will not return; even as the waters of the Yumuna getting into the ocean do not flow back
 
 **१३०. अहोरात्राणि गच्छन्ति सर्वेषां प्राणिनामिह।  
@@ -1061,8 +949,6 @@ Sastras to the highest degree fall a prey to grief and lose their mental equilib
 
   Wrinkles begin to appear all over the body and the hairs turn grey. Man's mortal
 
-
-
 frame is crumbled by old age. By doing what will he be able to overcome it?
 
 **१३४. नन्दन्त्युदित आदित्ये नन्दन्त्यस्तमिते रवौ।  
@@ -1088,8 +974,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                              (105_27)
 
   Just as a tidal wave brings together two wooden pieces in a vast ocean and another wave separates them, even so wife and sons, relatives and wealth live together for a short while and get themselves separated thereafter. The separation of these is certain.
-
-
 
 **१३७. नात्रकश्चिद्यथाभावं प्राणी समधिवर्तते।  
     तेन तस्मिन्न सामर्थ्यं प्रेतस्यास्त्यनुशोचतः॥**  
@@ -1119,8 +1003,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
     वर्जनीया हि धीरेण सर्वावस्थासु धीमता॥**  
                                 (105_35)
 
-
-
   A courageous and intelligent man shall avoid in all moods and states these various forms of griefs, lamentations and cries.
 
 **१४१. यथा मृतस्तथा जीवन् यथाऽसति तथा सति।  
@@ -1128,8 +1010,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                                 (106_4)
 
   If only one realises that death is only another phase of life and that non existence here is another form of existence somewhere, what an earth can perturb him.
-
-
 
 **रामगीता संपूर्णा**  
 ![](../books_images/U-IMG-169484163113.png)
@@ -1150,8 +1030,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 (106_22)
 
   Of the four ashrams or the stages of life, that of the householder is the best.
-
-
 
 **१४५. कः कस्य पुरुषो बन्धुः किमाप्यं कस्य केनचित्।  
     यदेको जायते जन्तुरेक एव विनश्यति॥**  
@@ -1180,8 +1058,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 (109_4)
 
  A man's conduct will reveal his lineage, valour, high or low birth, and purity cr otherwise of his thought and deed.
-
-
 
 **१४९. अनार्यस्त्वार्यसंकांशःशौचाद्धीनस्तथाऽशुचिः।  
     लक्षण्यवंदलक्षण्यो दुःशीलः शीलवानिव॥**  
@@ -1212,8 +1088,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                                   
 (109_11)
 
-
-
  Gods and sages regard truth as the best virtue. One who utters truth at all times obtains eternal bliss.
 
 **१५३. उद्विजन्ते यथा सर्पान्नरादनृतवादिनः।  
@@ -1243,8 +1117,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  One protects the world and another protects his clan. One hies to the damned hell and another enjoys the heavenly bliss.
 
-
-
 **१५७. असत्यसन्धस्य सतश्चलस्यास्थिरचेतसः।  
     नैव देवा न पितरः प्रतीच्छन्तीति नः श्रुतम्॥**  
                                 
@@ -1271,8 +1143,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                                 (109_28)
 
  Fire, Air and Moon have now become Gods, because prior to their becoming so, they did righteous acts when they were in this world and as a consequence of their having done so now enjoy an enviable status.
-
-
 
 **१६१. सत्यं च धर्मं च पराक्रमं च  
       भूतानुकम्पां प्रियवादितां च।  
@@ -1304,8 +1174,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                                    
   (117_21)
 
-
-
  A woman goes to the worlds of bliss if only she cheerfully serves her lord wherever he may be, living in beautiful cities or suffering in the forests, and whatever he may be, a sinner or saint.
 
 **१६५. दुःशीलः कामवृत्तो वा धनैर्वा परिवर्जितः।  
@@ -1321,11 +1189,7 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
 ![](../books_images/U-IMG-169496804438.png)
 
-
-
 ![](../books_images/U-IMG-169496806139.png)
-
-
 
 **॥ आरण्यकाण्डम् ॥**
 
@@ -1351,8 +1215,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                              (6_14)
 
  That king who rules his subjects in strict conformity with the established laws and looks after the hermits in the forests, obtain in return a fourth of the fruit of their Dharma.
-
-
 
 **१७०. त्रीण्येव व्यसनान्यत्र कामजानि भवन्त्युत।  
     मिथ्यावाक्थं परमकं तस्माद्गुरुतरावुभौ॥  
@@ -1381,8 +1243,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 **१७४. क्षत्रियैर्धार्यते चापो नातशब्दो भवेदिति।**  
                                (10_3)
 
-
-
  The warriors are armed with bows to protect the suppliant from their foes.
 
 **१७५.एषा हि प्रकृतिः स्त्रीणामासृष्टेः (रघुनन्दन)।  
@@ -1410,8 +1270,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  A person, though he may be the lord of the three worlds will perish, if he is tyrannical and cruel.
 
-
-
 **१७९.लोभात्यापानि कुर्वाणःकामाद्वा यो न बुध्यते।  
     भ्रष्टः पश्यतितस्यान्तंब्राह्मणी करकादिव॥**  
                                 
@@ -1438,8 +1296,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  Truly great men of prowess and valour do not make a vain boast of their capacity.
 
-
-
 **१८३. सक्तं ग्राम्येषु भोगेषु कामवृत्तं महीपतिम्।  
     लुब्धं न बहुमन्यन्ते श्मशानाग्निमिव प्रजाः॥**  
                                 
@@ -1464,8 +1320,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                                  (33_6)
 
  Kings with no independent power of judgment, who do not properly rule their kingdom and who are dependent on others ultimately recede into oblivion as a chain of mountains. submerged in the ocean.
-
-
 
 **१८७. यस्मात्पश्यन्ति दूरस्थान्सर्वानर्थान्नराधिपाः।  
     चारेण तस्मादुच्यन्ते राजानो दीर्घचक्षुषः॥**  
@@ -1494,8 +1348,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  A king, who fails to attend to his duties when there is fear and danger, and is foolhardy, is deposed in the end and he is comparable only to worthless grass.
 
-
-
 **१९९. शुष्कैः काष्ठैर्भवेत्कार्यं लोष्ठैरपि च पांसुभिः।  
     न तु स्थानात्परिभ्रष्टैः कार्यं स्याद्वसुधाधिपैः॥**  
                                  
@@ -1521,8 +1373,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                                 (33_21)
 
   That king is verily worshipped by his subjects, who though phisically asleep is mentally awake and does not indiscriminately punish or reward them.
-
-
 
 **१९५. सुलभाः पुरुषा राजन्सततं प्रियवादिनः।  
     अप्रियस्य तु पथ्यस्य वक्ता श्रोता च दुर्लभः॥**  
@@ -1550,8 +1400,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 **१९९. बहवः साधवो लोके युक्ता धर्ममनुष्ठिताः।  
     परेषामपराधेन विनष्टाः सपरिच्छदाः॥**  
                               (39_20)
-
-
 
  Many virtuous persons perish with their families for the sinful acts of others, merely because of their association with those sinners.
 
@@ -1582,8 +1430,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                                  
 (41_7)
 
-
-
  A king though given to sinful ways led by passion, mustbe checked by his good ministers. If they do not, they deserve to be chastised.
 
 **२०४. धर्ममर्थं च कामं च यशश्च (जयतां वर)।  
@@ -1612,8 +1458,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                                 (41_11)
 
  A king who is proud and tyrannical, and rules against the interests of his subjects, cannot rule his kingdom long.
-
-
 
 **२०८. ये तीक्ष्णमन्त्रास्सचिवा भज्यन्ते सह तेन वै।  
     विषमे तुरगारशीघ्रा मन्दसारथयो यथा॥**  
@@ -1646,8 +1490,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                                  
 (45_28)
 
-
-
  It is in the nature of women all over the world to be vicious, fickle, and sharp-tongued and to sow seeds of dissension (among friends).
 
 **२१३. ननु सद्योऽविगीतस्य दृश्यते कर्मणः फलम्।  
@@ -1674,8 +1516,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
                                 (50_11)
 
  Nature cannot be altered. Therefore the wicked nature cannot be set right by any amount of example or precept. Prosperity does not reside long in the abode of the wicked.
-
-
 
 **२१७. स भारः सौम्य भर्तव्यो यो नरं नावसादयेत्।  
     तदन्नमपि भोक्तव्यं जीर्यते यदनामयम्॥**  
@@ -1704,8 +1544,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 **२२१. मुमूर्षूणां हि सर्वेषां यत्पथ्यं तन्न रोचते॥**  
                                (58_17)
 
-
-
  All those who are nearing their ends turn a deaf ear to all good counsels.
 
 **२२२. उत्साहवन्तो हि नरा न लोके  
@@ -1732,8 +1570,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  Persons are not aware of the acts done by them in their previous births; they cannot see the virtuous or the wicked side of these acts; but it is certain that the fruits that are now being enjoyed must conform to the acts Cone by them before.
 
-
-
 **२२६. सर्वत्र खलु दृश्यन्ते साधवो धर्मचारिणः।  
     शूराः शरण्याः (सौमित्रे) तिर्यग्योनिगतेष्वपि॥**  
                                   
@@ -1741,15 +1577,9 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  Great and valourous souls who tread the path of the virtuous, and who are ever ready to help the weak, are found all over even in the animal kingdom.
 
-
-
 ![](../books_images/U-IMG-169511577540.png)
 
-
-
 ![](../books_images/U-IMG-169511580141.png)
-
-
 
 **॥ किष्किन्धाकाण्डम् ॥**
 
@@ -1779,8 +1609,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  A courageous man is not at all perturbed even in times of distress, loss or fear or even when he is to lose his life. He will always be level-headed by reasoned aid.
 
-
-
 **२३१. बालिशस्तु नरो नित्यं वैक्लव्यं योऽनुवर्तते।  
     स मञ्जत्यवशः शोके भाराक्रान्तेव नौर्जले॥**  
                                 (7_10)
@@ -1809,8 +1637,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 **२३५. धनत्यागः सुखत्यागो देहत्यागोऽपि वा पुनः।  
     वयस्यार्थे प्रवर्तन्ते स्नेहं दृष्ट्वातथाविधम्ll**  
                                (8_9)
-
-
 
  It is but meet that onesacrifices one's wealth, happiness or even one's life if need be for the sake of a friend.
 
@@ -1843,8 +1669,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  Chivalrous warriors who do not retrace their steps in the battle-field, prefer to give up
 
-
-
  their ghosts to bearing an unavenged dishonour.
 
 **२४१. दमः शमः क्षमा धर्मो धृतिः सत्यं पराक्रमः।  
@@ -1874,8 +1698,6 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  He who slays kings, brahmins and cows, a dacoit, he who delights in teasing animals, an infidel and the younger brother who untime-
 
-
-
 ly marries while his elder remains unmarried, all these wend their way to hell.
 
 **२४५. सूचकश्च कदर्यश्च मित्रघ्नो गुरुतल्पगः।  
@@ -1900,8 +1722,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 **२४८. यवीयानात्मनः पुत्रः शिष्यश्चापि गुणोदितः।  
     पुत्रवत्ते त्रयश्चिन्त्याधर्मश्चेदत्रकारणम्॥**  
                                (18_14)
-
-
 
  The laws followed by the good enjoin that the younger brother, the son, and the well-behaved disciple are to be treated alike as sons.
 
@@ -1931,8 +1751,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
                                    
 (18_84)
 
-
-
  A thief punished or pardoned by the king becomes free from sin but a king who leaves the wrong-doers scot-free goes to hell.
 
 **२५३. दण्ड्ये यः पातयेद्दण्डं दण्ड्यो यश्चापि दण्ड्यते।  
@@ -1960,8 +1778,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
                                 
 (22_19)
 
-
-
 **न चातिप्रणयः कार्यः कर्तव्योऽप्रणयश्च ते।  
 उभयं हि महान्दोषस्तस्मादन्तरदृग्भव॥**  
                           (22_22)
@@ -1986,8 +1802,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
                      (24_43)
 
  The wives of the chivalrous never bemoan.
-
-
 
 **२६०. न कालादुत्तरं किंचित्कर्म शक्यमुपासितुम्।**  
                                  
@@ -2019,8 +1833,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
     न मित्रज्ञातिसंबन्धः कारणं नात्मनो वशः॥**  
                                  (25_7)
 
-
-
  Fate has no relatives and cannot be conquered by valour. It has no friends or relations to be influenced by. It is the root-cause of all and is wholly independent of everybody.
 
 **२६५. किं तु कालपरीणामो द्रष्टव्यः साधु पश्यता।  
@@ -2047,8 +1859,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
                                 (29_11)
 
  A kin - who properly balances his treasury, punishinent, friends and his own self enjoys a happy reign.
-
-
 
 **२६९. अर्थिनामुपपन्नानां पूर्वं चाप्युपकारिणाम्।  
     आशां संश्रुत्य यो हन्ति स लोक पुरुषाधमः॥**  
@@ -2080,8 +1890,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
                                   
 (33_35)
 
-
-
  Great men do not misbehave in the presence of women.
 
 **२७४. पानादर्थश्च धर्मश्च कामञ्च परिहीयते।  
@@ -2109,8 +1917,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 
  That king who possesses good traits, who is born of a respectable family, who is sympathetic, who has self-control, who is grateful and truthful, is respected all over.
 
-
-
 **२७८. यस्तु राजा स्थितो धर्मे मित्राणामुपकारिणाम्।  
     मिथ्याप्रतिज्ञां कुरुते को नृशंसतरस्ततः॥**  
                                 (34_8)
@@ -2135,8 +1941,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
  (34_12)
 
  Expiations there are for certain kinds of sins such as the murder of a brahmin, drinking, theft, and failure to perform religious rites; but there is no redemption for ingratitude.
-
-
 
 **२८२. हित्वा धर्मं तथाऽर्थं च कामं यस्तु निषेवते।  
     स वृक्षाग्रे यथासुप्तः पतितः प्रतिबुध्यते॥**  
@@ -2167,8 +1971,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 
  One should never be disheartened. Despair eventually leads to miseries and kills a man even as an furious serpent kills a boy.
 
-
-
 **॥ सुन्दरकाण्डम् ॥**
 
 **![](../books_images/U-IMG-169512135143.png)**
@@ -2195,8 +1997,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
                                (2_40)
 
  An ambassador who thinks too much of his capacity and intelligence brings ruin to his master by mishandling even simple affairs, and failing to adopt the course of action. decided upon by the council of ministers.
-
-
 
 **२९१. मनो हि हेतुः सर्वेषामिन्द्रियाणां प्रवर्तने।  
     शुभाशुभास्ववस्थासु तच्च मे सुव्यवस्थितम्॥**  
@@ -2228,8 +2028,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 (21_7)
 
  Honour the wives of others and protect thèm as you will your own. Set an example by loving your own wife.
-
-
 
 **२९६. अतुष्टं स्वेषु दारेषु चपलं चपलेन्द्रियम्।  
     नयन्ति निकृतिप्रज्ञं परदाराः पराभवम्॥**  
@@ -2264,8 +2062,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 
  The body emaciates when we love one who does not respond; but there is real joy when the love is heartily reciprocated.
 
-
-
 **३०१. लोकप्रवादः सत्योऽयं पण्डितैः समुदाहृतः।  
     अकाले दुर्लभो मृत्युः स्त्रिया वा पुरुषस्य वा॥**  
                                  
@@ -2291,8 +2087,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 **३०४. कल्याणी बत गाथेयं लौकिकी प्रतिभाति सा।  
     एति जीवन्तमानन्दो नरं वर्षशतादपि॥**  
                               (34_6)
-
-
 
  It is a nice worldly proverb that however unfortunate a man may be, he is sure to see happy days during his life-time of a hundred years.
 
@@ -2323,8 +2117,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 
  First rate men are not sent on errands. It is only others that are entrusted with such work.
 
-
-
 **३१०. न साम रक्षःसु गुणाय कल्पते  
       न दानमर्थोपचितेषु युज्यते।  
 न भेदसाध्या बलदर्पिता जनाः  
@@ -2344,8 +2136,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
                               (41_6)
 
   To achieve an object, however trifling it may be, one cannot depend on an only method. An intelligent man will find out divers ways and means of attainment.
-
-
 
 **३१३. अहिरेव ह्यहेः पादान् विजानाति न संशयः॥**  
                                  (42_9)
@@ -2376,8 +2166,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 
  What sin will an irate man not commit? He will even murder his own preceptors and shower all kinds of abuses on the virtuous.
 
-
-
 **३१८. वाच्यावाच्यं प्रकुपितो न विजानति कर्हिचित्।  
     नाकार्यमस्ति क्रुद्धस्य नावाच्यं विद्यते क्वचित्॥**  
                                    
@@ -2393,11 +2181,7 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 
 ![](../books_images/U-IMG-169600625988.png)
 
-
-
 ![](../books_images/U-IMG-169600628089.png)
-
-
 
 **॥ युद्धकाण्डम् ॥**
 
@@ -2424,8 +2208,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 **३२३. निरुत्साहस्य दीनस्य शोकपर्याकुलात्मनः।  
     सर्वथा व्यवसीदन्ति व्यसनं चाधिगच्छतिः॥**  
                                  (2_6)
-
-
 
   A dispirited man sunk in despair and grief invariably loses all his enterprise.
 
@@ -2456,8 +2238,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
     करिष्यामीति यः कार्यमुपेक्षेत्स नराधमः॥**  
                                 (6_10)
 
-
-
   He who recklessly begins to do an act without any forethought defying fate, nor takes wise counsels is the worst among mankind.
 
 **३२९. ऐकमत्यमुपागम्य शास्त्रदृष्टेन चक्षुषा।  
@@ -2484,8 +2264,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
     तस्य विक्रमकालांस्तान्युक्तानाहुर्मनीषिणः॥**  
                                  
 (9_8)
-
-
 
   The learned say that the proper moment to achieve an object by phyeical force comes only after we fail to achieve it by the three lawful methods, (viz., pacification, gift and alienation).
 
@@ -2514,8 +2292,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 
   A king who does his duty with a judicial frame of mind is sure of success and never repents afterwards.
 
-
-
 **३३७. अनुपायेन कर्माणि विपरीतानि यानि च।  
     क्रियमाणानि दुष्यन्ति हवींष्यप्रयतेष्विव॥**  
                                (12_31)
@@ -2542,8 +2318,6 @@ ly marries while his elder remains unmarried, all these wend their way to hell.
 
   He who, after going to a forest frequented by the wild beasts does not drink the honey available at hand is fool-hardy.
 
-
-
 **३४१. परस्य वीर्यं स्वबलं च बुध्वा  
       स्थानं क्षयं चैव तथैव वृद्धिम्।  
     तथा स्वपक्षेऽप्यनुमृश्य बुद्ध्या  
@@ -2569,8 +2343,6 @@ strength, take stock of his own positiou and advise the king accordingly to act 
                               (16_4)
 
   It is the charecteristic of kinsmen all the worlds over that they ever rejoice at the fall of their own kinsmen.
-
-
 
   It is the charecteristic of kinsmen to slander their own chieftain, the brave, the learned and the noble and also humiliate the chivalrous among them.
 
@@ -2599,8 +2371,6 @@ strength, take stock of his own positiou and advise the king accordingly to act 
 
   Friendship with the unworthy cannot be deep-rooted, even as waterdrops do not stick on to a water-fed lotus leaf.
 
-
-
 **३४९. यथा मधुकरस्तर्षाद्रसं विन्दन्न विद्यते।  
     तथा त्वमपि तत्रैव तथाऽनार्येषु सौहृदम्॥**  
                                 
@@ -2626,8 +2396,6 @@ strength, take stock of his own positiou and advise the king accordingly to act 
                               (16_21)
 
   Although one is under the grip of the almighty Fate the annihilater of all the created beings, and is nearing one's end. one should not be neglected by others even as we ought not to be silently watching a house in flames.
-
-
 
 **३५३. शूराश्चबलवन्तश्च कृतास्त्राश्च रणाजिरे।  
     कालाभिपन्नास्सीदन्ति यथा वालुकसेतवः॥**  
@@ -2656,8 +2424,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
 
   (In times of war) there are deceitful spies roaming about under the guise of guileless persons, watching for the loop-holes of the enemy to enter and cause havoc. This is fraught with grave danger.
 
-
-
 **३५७. अर्थानर्थौविनिश्चित्य व्यवसायं भजेत ह।  
     गुणतः संग्रहं कुर्याद्दोषतस्तु विसर्जयेत्॥**  
                                (17_39)
@@ -2684,8 +2450,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
  (17_60)
 
   A guilty man cannot freely roam about without fear of detection.
-
-
 
 **३६१. आकारछाद्यमानोऽपि न शक्यो विनिगूहितुम्।  
     बलाद्धि विवृणोत्येव भावमन्तर्गतं नृणाम्॥**  
@@ -2714,8 +2478,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
 
    A suppliant seeking refuge, be he a friend or a foe, should be given protection by the high-souled, even at the risk of losing his life if need be.
 
-
-
 **३६५. प्रशमश्च क्षमा चैव आर्जवं प्रियवादिता।  
     असामर्थ्यं फलन्त्येते निर्गुणेषु सतां गुणाः॥**  
                                 
@@ -2740,8 +2502,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
                              (32_9)
 
   It is said that a woman predeceasing her husband is blessed.
-
-
 
 **३६९. विद्यास्वभिविनीतो यो राजा राजन्नयानुगः।  
     स शास्ति चिरमैश्वर्यमरींश्च कुरुते वशे॥**  
@@ -2773,8 +2533,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
 
   The truthful and the virtuous are never afraid of death.
 
-
-
 **३७४. न कालस्यातिभारोऽस्ति कृतान्तथ सुदुर्जयः॥**  
                                   
 (48_19)
@@ -2799,8 +2557,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
 
   That king is in keeping with the times who in consultation with his ministers classifies his duties under the three heads (viz:- major; routine, and minor) and discharges them at the appropriate time adopting any or all the five methods.
 
-
-
 **३७८. यथागमं च यो राजा समयं विचिकीर्षति।  
     बुध्यते सचिवान्बुद्ध्या सुहृदश्चानुपश्यति॥**  
                                 (63_8)
@@ -2821,8 +2577,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
                                 (63_11)
 
    Liberal gifts, kind words, separation or aloofness, and exhibition of physical strength are the four-fold means to be adopted at the appropriate time to achieve an object.
-
-
 
 **३८१. काले धर्मार्थकामान् यः संमन्त्र्य सचिवैः सह।  
     निषेवेतात्मवांल्लोके न स व्यसनमाप्नुयात्॥**  
@@ -2852,8 +2606,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
 
   A king intent on the prosperity of the state should not listen to the unhealthy advice of ministers not versed in the laws of virtue and statecraft, as they would lead him in the mire.
 
-
-
 **३८५. अहितं च हिताकारं धार्ष्ट्याज्जल्पन्ति ये नराः।  
     अवेक्ष्य मन्त्रबाद्यास्ते कर्तव्याः कृत्यदूषणाः॥**  
                                  
@@ -2881,8 +2633,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
 (63_19)
 
   A king who without any forethought listens to the advice of an incapable and roguish minister only gives a loop-hole to his enemies even as birds find loop-holes in the Krouncha Hills and get their passage through.
-
-
 
 **३८९. यो हि शत्रुमभिज्ञाय नात्मानमभिरक्षति।  
     अवाप्नोति हि सोऽनर्थान्स्थानाच्च व्यवरोप्यते॥**  
@@ -2915,8 +2665,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
                                   
 (64_8)
 
-
-
   Virtue and material acquisition eventually lead us to final beatitude and other bliss; but deeds done to the contrary lead to unhappy results.
 
 **३९४. ऐहलौकिकपारत्रंकर्म पुंभिर्निषेव्यते।  
@@ -2943,8 +2691,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
     यस्यार्थाः स पुमांल्लोके यस्यार्थाः स च पण्डितः॥**  
                                    
  (83_35)
-
-
 
   Friends and relations flock only to him that hath wealth and riches and he that commands a good bank balance is considered as a gentleman and a scholar.
 
@@ -2974,8 +2720,6 @@ and even hirelings, but should scrupulously avoid the proffered help of an enemy
 (87_15)
 
   It is possible that a stranger may possess fine qualities; whereas whereas a kinsman may be
-
-
 
 devoid of them. All the same the latter should be preferred to the former.
 
@@ -3008,8 +2752,6 @@ devoid of them. All the same the latter should be preferred to the former.
                                (112_17)
 
   History has not recorded the one-sided victory of any one. A warrior in battle either 'vanquishes' his foes or is vanquished by them.
-
-
 
 **४०७. क्षत्रियो निहतः संख्ये न शोच्य इति निचयः।**  
                                  
@@ -3044,8 +2786,6 @@ devoid of them. All the same the latter should be preferred to the former.
 **४१२. सर्वथा सर्वभूतानां नास्ति मृत्युरलक्षणः॥**  
                                (114_29)
 
-
-
   The god of Death never approaches any one without assuming some form or other.
 
 **४१३. धिग्राज्ञां चञ्चलाः श्रियः।**  
@@ -3076,8 +2816,6 @@ devoid of them. All the same the latter should be preferred to the former.
 
   Neither houses nor garments, neither ramparts nor veils, nor the royal paraphernalia can protect a woman. Her own chastity is her shield of strength.
 
-
-
 **४१८. व्यसनेषु न कृच्छ्रेषु न युद्धेषु स्वयंवरे।  
     न क्रतौ न विवाहे च दर्शनं दुष्यति स्त्रियाः॥**  
                                  
@@ -3098,8 +2836,6 @@ devoid of them. All the same the latter should be preferred to the former.
   A help in need brings on friendship and harm leads to enmity.
 
 ![](../books_images/U-IMG-169604890091.png)
-
-
 
 **॥ उत्तरकाण्डम् ॥**
 
@@ -3133,8 +2869,6 @@ devoid of them. All the same the latter should be preferred to the former.
 
   The virtuous consider alienation as tantamounting to beheading.
 
-
-
 **४२५. गायत्र्याश्च स्वरूपं तद्रामायणमनुत्तमम्।  
      यः पठेत् शृणुयान्नित्यं चरितं राघवस्य च॥  
      भक्त्यानिष्कल्मषो भूत्वा दीर्घमायुरवाप्नुयात्॥**  
@@ -3158,19 +2892,5 @@ devoid of them. All the same the latter should be preferred to the former.
 
 ![](../books_images/U-IMG-169604956894.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 \]
-
 

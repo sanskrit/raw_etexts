@@ -16,18 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NzIyMjk2OTk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **सूक्तिसुधातरङ्गिणी**
 
 ![](../books_images/U-IMG-1698318140Screenshot2023-10-26163208.png)
@@ -54,20 +42,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NzIyMjk2OTk
 
 **क्रिस्ताब्दाः १९२४**  
 
-
-
-
-
-
-
-
-
-
-
-
 ![](#)![](../books_images/U-IMG-1697632678mmmmmmm.png)
-
-
 
 **PREFATORY NOTE.**
 
@@ -75,17 +50,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE5NzIyMjk2OTk
 
  The cordial welcome with which my Sanskrit versions of about 300 quotations from various Western authors introduced in my **अभिनवरत्नमाला** Part II. have been received by the Sanskrit reading public has encouraged me to publish a separate volume containing Sanskrit versions of a number of other quotations of the same type. What success I have achieved in this labour of love, I leave my readers to judge. If I have the good fortune to see that this attempt of mine does interest those for whom it is intended, I mean to bring out more volumes (**तरङ्ग** s.) of the **सूक्तिसुधातरङ्गिणी** on a more comprehensive scale.
 
-
-
 **INTRODUCTION**
 
 ![](../books_images/U-IMG-1697797613Screenshot2023-10-20155610.png)
 
-
   I agreed to write a few words of introduction to Mr. Oka's collection of English quotations rendered into Sanskrit, just because I thought that it would be a courteous way of acknowledging the debt I owe him for the many hours of delight I spent in his company when he read out to me the quotations and his excellent Sanskrit renderings of the original passages. The writer of introductions to books written by others acts the part of chorus in ancient drama. The public doesn't fancy such interpreters in these advanced days. They would rather deal directly with the author. Good wine, says the old English proverb, needs no bush, or, as a Sanskrit poet says, **न हि कस्तूरीकामोदःशपथेन विभाष्यते**.Moreover, I recalled the existence of many Sanskrit scholars who are far better qualified for this work than I. These considerations held me back for a time, but it is hard to refuse a request made by one of such transparent sincerity of purpose as Mr. Oka and I undertook the job in the hope that it would give me an opportunity to praise a friend who deserves all the good things one may say of him.  
   Mr. Oka has endeared himself to all lovers of Sanskrit by the two parts of **अभिनवरत्नमाला** which he published some time ago. By offering to the public this collection of quotations from European authors which he has rendered into Sanskrit (**सूक्तिसुधातरङ्गिणी**), he will have added one more title to their admiration and esteem. In these renderings of English quotations, Mr. Oka breaks new ground; I do not know that any one has essayed the task before. The author of the three parts of **लौकिकन्यायाञ्जलि**has put together a good many Sanskrit maxims and proverbs and wherever possible has given their English equivalents. But his work was essentially different and limited in scope. Mr. Oka's quotations cover a wider field. It is a collection of extracts made from writers well-known all over Europe and Mr. Oka has rendered them into his easy, fluent, graceful Sanskrit. As a rule,the translation follows the original lines of proseor verse and even if there
-
-
 
 is a foreign flavour in the translated idea, the reader has no difficulty in understanding the drift of the quotation. Very frequently, however, it is hard to detect the original and its Sanskrit translation. The two are like new-born twins or to vary the image, they are like twin flowers springing from the same stem and branching on either side of it.
 
@@ -93,18 +63,12 @@ is a foreign flavour in the translated idea, the reader has no difficulty in und
 
   Broadly speaking, the book is an anthology or posy of aphorisms, maxims, sayings, proverbs, instinct with the experience of the world and the wisdom that is the fruit of ex- perience. We have in these quotations the thoughts of the great and wise masters of life, to adopt the words of Lord Morley—on the eternal commonplaces of human occasion friendship, health, bereavement, riches, poverty, death. It is a literary chapter, says Morley, which concerns life, manners, society, conduct, human nature, our aims, our ideals and all besides that is most animated in man's busy chase after happiness and wisdom. Mr. Oka has, indeed, cast his net wide and his selection evinces a truly catholic point of veiw. For we have sentences and lines of verse in this book which reveal the shrewdnes and penetrating insight of one writer, the biting, bitter wit of another, the kindly genial humour of a third. Now we admire the brlliance of words and phrases, now the point, the concision, the delicacy of the art with which the thonght is turned, now it is the depth and infinity of suggestion enshrined in a tiny, wee sentence which evoke our wonder and admiration. The wisdom of the ages is 'hived inthese pages.' As we read the quotations which are garnered
 
-
-
 here, we are enlightened, roused, uplifted, ennobled. They illuminate the understanding and point the way to right conduct. Mr. Oka's little volume offers what has been justly described as the literature of morality; it teaches and preaches.In a sense it is a criticism of life, but not in the sense in which the words are employed by Arnold in his famous definition that 'Poetry is at bottom a criticism of life.' Criticism is a word of unhappy associations, especially when it is used in regard to an essentially creative art, such as poetry and Arnold has paid heavily for this mistake. The criticism of life embodied in the many quotations in this book is in the majority of examples destitute of poetic qualities. For poetry presents truths of human life in the enkindling glow of imagination and passion and it clothes them in images and words of haunting charm and imperishable music. In the passages translated by Mr. Oka, we have only the cold brilliance of intellect. The phrases and words are clear-cut, chiselled; they arrest attention by their brilliance, polish and epigrammatic brevity. The cold light of reason and intellect rests on them. They do not possess the bewitching loveliness of colour and sound which one expects in poetry. But that can hardly be accounted as Mr. Oka's fault.  
   There are quotations in this collection from Tacitus,Epictetus, Shakespeare and Goethe. One meets with Bacon and Ben Jonson, Carlyle, Emerson, Confucius. We have Aristotle, Seneca, Pascal, Pope and La Bruyere. All these are far-shining names in European literature, and there are many others which I have not mentioned. Shakespeare figures prominently in these extracts and Goethe has also been freely laid under contribution. There is a large number of proverbs from various languages. Most of these quotations are short and concise. They express a mass of meaning in a few words. For the sense is brought to a point. There is an alertness in these lines and sentences, an intensity of thought, a delicacy of word and phrase, a polish and a sparkle which. account for the fascination they have for most readers.
-
-
 
   As a translator of these quotations, so pregnant with wit and wisdom, Mr. Oka has done his work admirably. Dryden laid down two qualifications for a translator. "The qualification of a translator worth reading", observes Dryden, "must be a mastery of the language he translates out of and that he translates into," but Dryden will condone a deficiency of mastery of the language of the original. No one who knows Mr. Oka will doubt his mastery of Sanskrit and the translations offered in this book will convince those who do not know him and bave not read his earlier books. Another principle which Dryden enunciates is that 'a translator who would write with any force or spirit of an original must never dwell on the words of an author." Mr. Oka bears this well in mind. He never clings fatuously to the words of the original, but plucks the soul out of them and invests the Sanskrit translation with an atmosphere of its own. The result is, his translations are just and accurate and mirror forth the meaning and spirit of thenogriial By not concentrating overmuch attention on the words of the original, Mr. Oka has avoided obscurity; and he never burlesques the original which is also the result of dwelling too much on the words of the author who is translated. In the many passages which he has rendered in Sanskrit, there are only a few in which 'the idiom of the original disturbs the reader' because the ghost is not successfully laid.
 
   This is all that a translator may hope to achieve. For the capital difficulty of translation—as Dr. Tagore pointed out once—is that it may be a reincarnation, but it cannot be identical. This is obvious because the sound of a word has a significance utterly apart from its meaning. Further, if the music and melody of words and the individual rhythms of a language are untranslatable, there are ahundred suggestions and associations bound up with words which cannot be shifted from one language to another as though they were dead stuff which might be hauled up from one trolley into another. "A version of a poem" adds Dr. Tagore, "may
-
-
 
 be a finer piece of work, but it is not the same piece of work." Most of Mr Oka's translations are reincarnations and some of them are finer pieces of work than their originals. His only defect as a translator is that sometimes he adds to the original and alters it. On occasions this is due to exigencies of metre, but it is sound policy to keep one's hands off the passage quoted.  
  To give a few illustrations:The quotation from Vergil(No. 4)– “Don't celebrate your triumph before you have conquered—" expresses the common idea, "Don't haloo till you are out of the wood." Mr. Oka not only renders it aptly—**अजित्वा नैव कुर्वीत कदापि जयघोषणाम्** - but clothes it in an old— world atmosphere. For the word **जयघोषणाम्**recalls the well— known line in **'उत्तररामचरितम्' 'अयमश्वः पताकेयमथवा वीरघोषणा'** Such words and phrases as the घोषणाmentioned above are steeped in time-honoured associations and suggestions. They spring unbidden to Mr. Oka's lips and lend him potent help in naturalizing foreign thoughts in Sanskrit translation. example occurs in his translation of a German proverb (No 72) 'A penny by right is better than a thousand by wrong.' This is rendered by
@@ -114,13 +78,9 @@ be a finer piece of work, but it is not the same piece of work." Most of Mr Oka'
 
 The word **काणवराट** at once takes us back to Bhartrihari's line, **'प्राप्तः काणवराटकोऽपि न मया तृष्णेऽधुना मुञ्चमाम्'** The employment of such a word produces in a trice the right atmosphere of Sanskrit poetry. It sets the reader at ease. Time and again, Mr. Oka's translation is well-nigh perfect. The quotation from Ward Beecher is a good example—No. 242— "Compassion will cure more sins than condemnation" **पापापमोदनेहेतुर्नानुकम्पेव गर्हणा.** Here not a syllable can be spared nor can a syllable be added. The translation fitaoriginal as a glove fits the hand. It is easy to multiply examples: Nos. 41, 44, 47, 83 must suffice for our present purpose. Sometimes he adds to the beauty
 
-
-
 of the original by expanding the thought, or by introducing a new image. No. 155-Truth irritates only those...'—is an example of this last. The metaphor **बोधरविः**does not appear in the original and it endows the translation with an added attraction of its own. In No. 106-Mr. Oka states the contrary of the original which does not appear in the passage quoted. Such additions and alterations have their dangers, of course; for they result in padding and take away from the charm of the original by spoiling its pregnant brevity and wit.' There are a few instances, again, where his love of melody has betrayed him into making an addition to the original words. This has happened in No. 113. On the other hand, time after time, Mr. Oka achieves melody in these verse—translations without calling in the assistance of aditional words. Nos, 116, 187, 188, furnish good illustrations. Here and there, he fails to translate accurately and in a few of his Sanskrit renderings the foreign idiom remains a disturbing factor. No. 117 is, I believe, incorrecetly rendered. In No. 118 the rose flower appears as **'गुलाब'संज्ञंकुसुमं** and in No.9 **शृङ्गारनामा बटुः**sounds harsh to my ears. In No. 305 the same alien note is heard. Finally, Mr. Oka may be justly charged with the inclusion of some trivial quotations—such as Nos.129 and 313.
 
    The multiplicity and variety of quotations in this book will meet all kinds of tastes. A moralist will rejoice in No.194 which lays down a rule of conduct, A statesman will find No. 181 very much to his taste, for it touches on the prime duty of kings towards their subjects. A humourist will be delighted with No 142. A philosopher will smile as he reads No. 293 Most of us will find an echo of our experience in No.198. The quotations which make the strongest appeal to me are those which set me thinking, start a train ofsuggestions, literary or other—those which open up the chambers of the reader's mind and seem in Bradley's words"to beckon away beyond themselves and to expand into something boundless." It is in such passages. as these that I find my highest delight. No.15—"A dog is obeyed in
-
-
 
 office" calls to my mind Napoleon's famous saying "Power is never ridiculous." And then I remember the proverb in the vernacular which speaks of the cur that dwells in a great man's house,—the Jack—in—office who guards the gate and insults with impunity the biggest people of the place when they have occasion to call on his master. And such cheeky behaviour puts me in mind of Isabel's words in Measure for Measure "Man, proud man, drest in a little brief authority like an angry ape plays such fantastic tricks as make the angels weep." I read No.166—"Pain past is pleasure" —and a line from Kalidasa leaps to my mind
 
@@ -137,20 +97,12 @@ I read the translation of the proverb—No.49–**'जन्मना नात�
 
 Finally, in the quotation from Cicero—"Liberty consists in the power of doing that which is permitted by law" we have a whole volume of noble thoughts packed into a short sentence. It is the gospel of liberty preached with such splendour of eloquence by Burke and Wordsworth.
 
-
-
  The brief aphoristic style of expression is nothing unfamilar to readers of Sanskrit literature, Almost every writer of distinction in Sanskrit can turn his hand to the work and make a successful job of it. Kalidasa has such tine close — knit expressions as **'आज्ञागुरूणां ह्यविचारणीया,' 'तेजसां हि न वयः समीक्ष्यते**' Kalidasa is, again, the author of that celebrated line '**अपथेपदमर्पयन्ति हि श्रुतवन्तोऽपि रजोटिमीलिताः'** Bhavabhuti has '**सर्वथा व्यवहर्तव्यं, कुतो ह्यवचनीयता,' 'सर्वंकषाभगवती** **भवितव्यतैव'** Bharavi has **'विचित्ररूपाः खलु चित्रवृत्तयः' 'दिशत्यपायं हि सतामतिक्रमः'** **'प्रकृत्यमित्रा हि सतामसाधवः'** but if I go on quoting like this I shall never finish. The harvest is ready to be gathered and I cannot imagine a person better fitted for the task than Mr. M. P. Oka He tells me hehas already started collecting such maximus and sayings Let me hope that before very long he will publish a goodly volume of such choice sayings culled from Sanskrit poets and prosaists Let him put the Sanskrit quotations side by side with quotations from European writers. So will the East dwell in happy harmony with the West in the domain of literature which recognises no delimiting frontiers.  
   I shall close this brief introduction by thanking Mr. Oka once again for the feast of reason which he has provided in this book; others, when they will have read the book, will, I have no doubt, entertain the same feeling of warm gratitute towards the author. Much that is good and enjoyable in this book I have, perhaps, left unnoticed; partly, owing to limitations of space, partly, doubtless, to my blindness. I have hinted at a few faults, but, they hardly make any show against the many striking merits of the book. It is indeed a fine achievement to have translated nearly 500 pieces (most of them in verse) and revealed such surprising excellencein translation.
-
-
 
 POONA,  
 30th March 1924                            
          **R. K. LAGU**
-
-
-
-
 
 **किमपि निवेदनम्**
 
@@ -171,8 +123,6 @@ POONA,
 
 **अतो गिरानयैवायमनुवादो विधीयते।  
 नानाविषयवास्तव्यविद्वद्वचनसंततेः॥४॥**
-
-
 
 **गीर्वाणवाणीस्तवः**
 
@@ -199,8 +149,6 @@ POONA,
 विद्यमाने च विन्ध्याद्रावचले च हिमाचले।  
 स्थिरीभूता कथं न्वेषामरवागुपरंस्यति ॥**
 
-
-
 **पुरा दीव्यति देवीयं द्योतयन्ती भुवस्तलम्।  
 अमरैरुपसेव्यत्वान्मरणाय न कल्पते॥  
 जनन्या इववृद्धाया अस्याः स्वतनयास्विव।  
@@ -224,8 +172,6 @@ POONA,
 पुराणानि रम्याः कथा गापयन्ती॥  
 मनोज्ञानि काव्यानि विस्तारयन्ती  
 कथं भारतीयं मृतेति ब्रुवन्ति॥**
-
-
 
 **सूक्तिसुधातरङ्गिणी**
 
@@ -269,8 +215,6 @@ VIRGIL—
 
 **अजित्वा नैव कुर्वीत कदापि जयघोषणाम्।**
 
-
-
 — 5 —
 
 BOUGLAS JERROLD—  
@@ -311,8 +255,6 @@ BUTLER—
 
 **अत्यर्थ वत लालितोऽत्र कविभिः शृङ्गारनामा वहुः।**
 
-
-
 — 10 —
 
 ADDISON—  
@@ -352,8 +294,6 @@ MARATHI PROVERB—
 
 **अधः पश्यति को लोके नाहारेण वशीकृतः।  
 प्रहारेण तु स्वङ्गस्य सर्वोऽप्युपरि पश्यति॥**
-
-
 
 — 15 —
 
@@ -396,8 +336,6 @@ MARATHI PROVERB—
 
 **अन्धस्य गा रक्षति गोकुलेशः।**
 
-
-
 — 20 —
 
 MARATHI PROVERB—
@@ -434,8 +372,6 @@ FOPE—
 
 **अपापमनसः पुंसो निर्मितिं जगतीतले।  
 विधातुः परमोदारां कृतिमाहुर्मनीषिणः॥**
-
-
 
 — 24 —
 
@@ -477,8 +413,6 @@ HRACTITUS—
 "अर्था अनर्थाय महीयसेऽत्र"  
 लोकोक्तिमेतां परिपोषयन्ति॥**
 
-
-
 THBODERE PARKER—  
   Covetuous men need money least, yet most affect it and prodigals who need it most, do least regard it.
 
@@ -514,8 +448,6 @@ SHAKESPEARE—
 
 **अल्पकार्यकरा ये स्युः प्रायस्ते बहुभाषिणः।**  
 **न वर्षन्ति शरत्काले मेघा गर्जन्ति केवलम्॥**
-
-
 
 — 34—
 
@@ -556,8 +488,6 @@ YOUNG–
 **अविद्वांसस्तथा भान्ति नियुक्ता ग्रन्थरक्षणे।  
 यथा कञ्चुकिनो वृद्धाः शुद्धान्तावनकर्मणि।**
 
-
-
 — 39—
 
 DANISH PROVERB—  
@@ -594,8 +524,6 @@ YOUNG—
  If wrong our hearts, our hearts are right in vain.
 
 **अहह हृदि सदोषे को गुणो धीगुणैर्नः।**
-
-
 
 — 44 —
 
@@ -635,8 +563,6 @@ SENECA—
 
 **आत्मन एवं प्रभवन् प्रबलतमः प्रोच्यते प्रभुः प्राज्ञैः।**
 
-
-
 — 49 —
 
 MARATHI PROVERB—  
@@ -674,8 +600,6 @@ MARATHI PROVERB—
                        नाक दाबलें की तोंड उघडतें.
 
 **आननोद्धाटनोपायो नासारन्ध्रनिरोधनम्।**
-
-
 
 — 54 —
 
@@ -719,8 +643,6 @@ ITALIAN PROVERB—
 **आयुःशान्तिमयं कर्तुं येऽभिवाञ्छन्ति तैरिह।  
 दृश्यतां श्रूयतां सर्व मा पुनः किंचिदुच्यताम्॥**
 
-
-
 — 59 —
 
 FRANKLIN—  
@@ -762,8 +684,6 @@ SENECA—
 
 **............न ह्यनाशो नैराश्यमुपगच्छति।**
 
-
-
 — 64 —
 
 EPICTETUS—  
@@ -772,7 +692,6 @@ EPICTETUS—
 **इन्द्रियाणां वशे मूर्खो वशे सुज्ञस्य तानि तु।**
 
 — 65 —
-
 
 STEREL—  
   Men spend their lives in the service of their passions instead of employing their passions in the service of their lives.
@@ -802,8 +721,6 @@ EA HECHE—
 
 **उपदेशस्य दानेया दृश्यते समुदारता।  
 सालोक्यते नृणां प्रायो नेतरत्र कदाचन॥**
-
-
 
 — 70 —
 
@@ -844,8 +761,6 @@ LESSING—
 
 **एके कीर्तिमुपार्जन्ति तामर्हन्त्यन्य एव तु।**
 
-
-
 — 74—
 
 GERMAN PROVERB—  
@@ -882,8 +797,6 @@ LORD CHESTERFIELD—
   Whatever is worth doing at all is worth doing well.
 
 **कर्तव्यमेव यन्नाम सम्यक्कर्तव्यमेव तत्।**
-
-
 
 — 79 —
 
@@ -928,8 +841,6 @@ RUBKIN—
 
 **कामं धर्मा बहवो नीतिस्त्वेकैव सर्वत्र।**
 
-
-
 — 85 —
 
 ANONIMOUS—
@@ -973,8 +884,6 @@ ENGLISH PROVERB—
 
 **कार्यं सुकरतां याति बहुभिश्चेत्करैः कृतम्।**
 
-
-
 — 90 —
 
 SOCRATES—  
@@ -1012,8 +921,6 @@ ENGLISH PROVERB—
   No noble task was ever easy
 
 **किंसत्कर्म भवेत्कदापि सुकरं दुष्कर्म वा दुष्करम्।**
-
-
 
 — 95—
 
@@ -1056,8 +963,6 @@ VOLTAIRE—
 **कृतागसं भीर्नजहाति जात्वपि  
 दण्डोऽपरः को नु सदांभयस्य च।**
 
-
-
 — 100 —
 
 WHITTER—  
@@ -1088,8 +993,6 @@ OVID—
   To the brave man every land is his native land,
 
 **को नाम वीरस्य निजो न देशः।**
-
-
 
 — 104 —
 
@@ -1127,8 +1030,6 @@ MARATHI PROVERB—
                       खाऊन माजावें, टाकून माजूं नये
 
 **खादन्नन्नं भजेत्पुष्टिं न त्यजन्भदमत्तताम्।**
-
-
 
 — 109 —
 
@@ -1171,8 +1072,6 @@ MARATHI PROVERB—
 **गाधं सलिलं सुतरां स्खलति  
 प्रस्तरविहतं नितरां नदति।**
 
-
-
 — 114 —
 
 LONGFELLOW—  
@@ -1209,8 +1108,6 @@ SHAKESPEARE—
 
 **गुर्वपि दानं लघुतां पुष्यति  
 दाता चेत् सावज्ञं यच्छति।**
-
-
 
 — 118 —
 
@@ -1260,8 +1157,6 @@ AMIRL—
 **गौरवोपचयतो विरतो यः  
 स क्रमेण लघुतामुपयाति।**
 
-
-
 — 124 —
 
 MARATHI PROVERB—  
@@ -1299,8 +1194,6 @@ CORNEILLE—
 
 **चित्तजे किल कृतार्थतां गते  
 सर्व एष लयमेति तद्रसः।**
-
-
 
 — 129 —
 
@@ -1353,8 +1246,6 @@ LEISH HUNT—
 **चुम्बितानि सुषितानि कामपि  
 माधुरीं प्रवितरन्ति सन्ततम्।**
 
-
-
 — 135 —
 
 BLATE—  
@@ -1400,8 +1291,6 @@ PASCAL—
 **जनकृतं स्तवमात्मन ईप्सता  
 पदुधिया क्रियतां न निजस्तवः।**
 
-
-
 — 141 —
 
 OOLTON—  
@@ -1441,8 +1330,6 @@ F. LEONARD—
   Though wrong may win, its victory is brief.
 
 **जितव्रतोऽप्यनयस्य जयोऽस्थिरः।**
-
-
 
 — 146 —
 
@@ -1484,8 +1371,6 @@ MONVEL—
 **तद्वयं लब्धुमिच्छामो यदस्माकं न विद्यते।  
 विद्यतेच यदस्माकं तद्वैरस्थाय कल्पते॥**
 
-
-
 — 151 —
 
 FRENCH PROVERB—  
@@ -1508,10 +1393,8 @@ SHAKESPEARE—
 DANISH PROVERB  
   No man is so tall that he need never stretch, nor so small that he need never stoop.
 
-
 **तुङ्गोऽपि लम्बेत न नो कदाचित्  
 खर्वोऽपि सर्वो न नमेन्न जातु।**
-
 
 — 154 —
 
@@ -1521,7 +1404,6 @@ PORT. PROVERB—
 **तुच्छो यस्याखिलो लोकः स लोकस्य पतिर्मतः।  
 लोको बहु मतो यस्य स दासस्तस्य गण्यताम्।**
 
-
 — 155 —
 
 PASQUIER QUESNAL—  
@@ -1529,8 +1411,6 @@ PASQUIER QUESNAL—
 
 **तेषामेव प्रकोपाय सत्यमुक्तं प्रकल्पते।  
 हृदि बोधरविर्येषामुद्रितोन तमो हरेत्॥**
-
-
 
 —156—
 
@@ -1570,8 +1450,6 @@ ENGLISH PROVERB—
 
 **दत्त्वान्यस्मै यद्देयं  
 ज्ञास्यसि पश्चात्किं स्वीयम्।**
-
-
 
 — 160 —
 
@@ -1616,8 +1494,6 @@ CERVANTES—
  Proverbs are short sentences drawn from long experience.
 
 **दीर्घानुभवसमुद्धृतमाभाणकसंज्ञकं वचो लघु यत्।**
-
-
 
 — 166 —
 
@@ -1666,8 +1542,6 @@ OR
 
 **दैर्घ्येण च्छाद्यते वक्त्रावाचां गाम्भीर्यहीनता।**
 
-
-
 — 173 —
 
 BOUSSEAU—  
@@ -1705,8 +1579,6 @@ ENGLISH PROVERB—
  He who follows two hares is sure to catch neither.
 
 **द्वौ शशकावनुधावन्नूनं गृह्णाति नैकमपि।**
-
-
 
 — 178 —
 
@@ -1754,8 +1626,6 @@ JOHN FORD
              ** OR  
 **धन्याः केऽपि नृपाला जनहृत्सिंहासनाधिरूढा ये।**
 
-
-
 — 182 —
 
 TUKARAMA—
@@ -1795,8 +1665,6 @@ ENGLILH PROBERB—
 
 **न केवलं प्रयुञ्जानः परेष्वपकृतिं स्वयम्।  
 क्रियमाणामरुन्धानोऽप्यन्यैर्भवति दोषभाक्॥**
-
-
 
 — 187 —
 
@@ -1841,8 +1709,6 @@ JONSON—
 
 **न कोऽपि सुकविर्भवेत् सुजनतामगत्वादितः ।**
 
-
-
 —193—
 
 BALL—  
@@ -1878,8 +1744,6 @@ MARTIAL—
 
 **यज्जीवतोऽनामयता नरस्य  
 तदेव तज्जीवितमामनन्ति ।**
-
-
 
 —196—
 
@@ -1926,8 +1790,6 @@ NAPOLEON—
 
 **न पुंसो जीवितत्यागात्**— **गौरवं त्यागकारणात् ।**
 
-
-
 — 202 —
 
 SWIFT—  
@@ -1964,8 +1826,6 @@ GARFIELD—
   The dead do not need us, but for ever and evermore we need them.
 
 **न मृता अर्थिनोऽस्माभिस्तैर्वयं तु सदार्थिनः ।**
-
-
 
 — 207 —
 
@@ -2004,10 +1864,7 @@ LUTHER—
 **नाधुनेति नकदापितामिह  
 हन्त हन्त कियदाशु गच्छति ।**
 
-
-
 — 212 —
-
 
  No evil is without its compensation.
 
@@ -2050,8 +1907,6 @@ TACITUS-
 
 **निन्द्यते मत्सरग्रस्तैः सदसञ्चाविशेषतः ।**
 
-
-
 — 218 —
 
 AUGREY—  
@@ -2092,8 +1947,6 @@ BACON—
             OR  
 **वेश्मानि वासाय न दर्शनाय।**
 
-
-
 — 223 —
 
 ENGLISH PROVRB—  
@@ -2132,8 +1985,6 @@ GEORGE ELIOT—
 
 **निश्चिन्वंश्चरितं निजं भुवि नरस्तेनापि निश्चीयते।**
 
-
-
 — 228 —
 
 BACON (of moderation)—  
@@ -2171,8 +2022,6 @@ LEIGH HUNT—
 
 **नैकमाश्चर्यमन्यस्माद्गरीयोऽस्ति कदाचन।  
 विवृतं सकृदेतच्चेदेतस्याश्चर्यर्यता कृतः॥**
-
-
 
 — 233 —
 
@@ -2213,8 +2062,6 @@ LOWELL—
 विपन्निहन्यात् खलु दुर्गृहीता  
 धृता तु धैर्येण हितं विदध्यात् ॥**
 
-
-
 — 238 —
 
 MARATHI PROVERB—
@@ -2253,8 +2100,6 @@ WARD BEECHER—
 
 **पापापनोदने हेतुर्नानुकम्पेव गर्हणा ।**
 
-
-
 — 243—
 
 SHAKESPEARE— 
@@ -2290,8 +2135,6 @@ COLTON—
 प्रकाशयेत्को रचितं यथावत्।  
 प्रकाशितं के रसिकाः पठेयु—  
 स्तापाः कवीनां त्रिविधाः प्रकाशाः॥**
-
-
 
 — 246 —
 
@@ -2336,8 +2179,6 @@ CATO—
   By doing nothing men learn to do ill.
 
 **प्रवृत्तिर्ज्जायते पुंसां कर्मत्यागात् कुकर्मणि।**
-
-
 
 — 252 —
 
@@ -2384,8 +2225,6 @@ CHANNING—
 
 **प्रोत्साहनाय धीराणां धैर्यध्वंसाय नो विपद्।**
 
-
-
 — 258 —
 
 ENGLISH PROVERB—  
@@ -2422,8 +2261,6 @@ ZIMMERAMAN—
 
 **बहवो नाशमायताः संपद्भिर्वसुधातले।  
 नङ्क्ष्ययन्तो बहवथान्ये तदभावेन रक्षिताः।**
-
-
 
 — 263 —
 
@@ -2464,9 +2301,6 @@ POPE—
 भवतु स्वगुणाप्रकाशने  
 परदोषावरणे च पाटवम्॥**  
 
-
-
-
 — 268 —
 
 MURPHY—  
@@ -2505,8 +2339,6 @@ SIR PHILIP SIDNEY—
 **भीरूणां यादृशी पीडा भयादेव प्रवर्तते।  
 धीराणां तादृशी नैव मरणादपि जायते॥**
 
-
-
 — 273 —
 
 LA BRUYERE—  
@@ -2540,8 +2372,6 @@ DOUGLES JERROLD—
 
 **भौतिकपिण्डविनाशकरः  
 प्राणभृतां समरोऽपि वरः।**
-
-
 
 **न पुनः पौरुषहानिकरः  
 श्लाघ्यः सुखशान्तिप्रसरः।  
@@ -2581,8 +2411,6 @@ ANDREW JACKSON—
 **मम पत्नीमेतस्य भूरासीत्स्वर्गसौख्यदा।  
 स्वर्गोऽप्यस्वर्ग एव स्यात्तत्र पत्नीमपश्यतः॥**
 
-
-
 — 281 —
 
 **ममेदमस्तीति मुदं य एति  
@@ -2620,8 +2448,6 @@ MOTTO—
 
 **मानना तमनुयाति मानवं  
 यः पुरो व्रजति ताममानयन्।**
-
-
 
 — 286 —
 
@@ -2667,8 +2493,6 @@ ANONIMOUS—
 
 **मुद्रणकला कलानां सकलानां रक्षिका विनिरमायि।**
 
-
-
 — 292 —
 
 LAVATER—  
@@ -2708,8 +2532,6 @@ CAMPBELL—
   Is not to die.
 
 **मृतोऽपि म्रियते नैव जीवतां हृदये वसन्।**
-
-
 
 — 297 —
 
@@ -2751,8 +2573,6 @@ ENGLISH PROVERB—
 
 **यथा प्रणयिता सुखा प्रणयपात्रता नो तथा।**
 
-
-
     OR
 
 **प्रियो भवन् यत् सुखमश्नुते नर-  
@@ -2791,8 +2611,6 @@ ENGLISH PROVERB—
  The heart sees further than the head.
 
 **यदीक्षितुं धीः शक्ता हृदयं पश्यति ततोऽपि यत्परतः।**
-
-
 
 — 306 —
 
@@ -2838,8 +2656,6 @@ LA PLACE—
 
 **यन्नोज्ञातं तदत्यल्पमज्ञातं बहुलं भुवि।**
 
-
-
 — 312 —
 
 LA FOUNTAINE—  
@@ -2884,8 +2700,6 @@ SHAKESPEARE—
 **युवानोऽपि ये ज्ञानवृद्धा भवन्ति  
 चिरं नैव जीवन्ति लोका वदन्ति।**
 
-
-
 — 317 —
 
 ENGLISH PROVERB—  
@@ -2925,8 +2739,6 @@ SPENSER—
 **यो दयां वितनुते न परेषु  
 हा कथं भवति सोऽत्र दयार्हः।**
 
-
-
 — 322 —
 
 PORT. PROVERE—  
@@ -2964,8 +2776,6 @@ FRENCH PROVERB—
 
 **योऽर्थेऽननुभूते विश्वासं कुरुते  
 स किल मृतेः पूर्वं कदाचिदनुशेते।**
-
-
 
 — 327 —
 
@@ -3006,8 +2816,6 @@ ENGLISH PROVERB—
 **रागस्य मूल्यं किल राग एव  
 धनेन नायं क्रयविक्रयार्हः।**
 
-
-
 — 331 —
 
 PUBLIUS BYRUS—  
@@ -3045,8 +2853,6 @@ SOPHOOLES—
 
 **वचो हितं दुर्वचनं न किंचित्।**
 
-
-
 — 336 —
 
 PLAUT—  
@@ -3082,8 +2888,6 @@ BEN. FRANKLIN—
 
 FELTHAM —  
   To be humble to our supertors is duty, to our equals courtesy to our inferiors, generosity.
-
-
 
 **वरिष्ठेषु नम्रः स्वकर्तव्यदक्षः  
 समानेषु नम्रो नरश्रेत्स सभ्यः।  
@@ -3125,8 +2929,6 @@ CARLYLE—
 **विचारवद्भिर्गदितं विचार्य यत्  
 तत् तत्त्वतो वाङ्मयमुच्यते बुधैः।**
 
-
-
 — 346 —
 
 JOHNSON—  
@@ -3162,8 +2964,6 @@ SIR. TEMPLE—
  Learning passes for wisdom among those who want both.
 
 **विद्या प्रज्ञेति मन्वानाः प्रायेणोभयवर्जिताः।**
-
-
 
 — 350 —
 
@@ -3204,8 +3004,6 @@ STEELE—
 तदभावकृतस्य निष्कृति—  
 र्न हि दोषस्य गुणेन केनचित्॥**
 
-
-
 — 355 —
 
 **विपदं सहमानस्य धैर्येणैव प्रयोजनम्।  
@@ -3245,8 +3043,6 @@ CICERO—
 
 **विहितस्यानुष्ठाने प्रभुता या सा स्वतन्त्रता पुंसः।**
 
-
-
 — 361 —
 
 TRENCE—  
@@ -3282,8 +3078,6 @@ MABATHI PROVERB—
 
 मारणाराचा हात धरवतो पण बोलणाराचें तोंड धरवत नाहीं.  
 **शक्यो वारयितुं करः प्रहरतो न त्वाननं जल्पतः।**
-
-
 
 — 366 —
 
@@ -3328,8 +3122,6 @@ STERNE—
   The brave only know how to forgive.
 
 **शूरा एव विजानन्ति प्रयोक्तव्या क्षमा कथम्॥**
-
-
 
 — 372 —
 
@@ -3376,10 +3168,6 @@ MARATHI PROVERB—
 **श्वश्रूः प्रभवति कतिचिदहानि  
 प्रभवति कतिचित् स्नुषा दिनानि।**
 
-
-
-
-
 — 378 —
 
 ENGLISH PROVERB-  
@@ -3417,8 +3205,6 @@ AUERBACH—
 
 **सङ्गीतं परिमार्ष्टि मानसमलं संसारकर्मोद्भवम्।**
 
-
-
 — 383 —
 
 JOHNSON—  
@@ -3455,8 +3241,6 @@ SOCRATES—
 
 **संतोषाख्यं हि साधूनां स्मृतं वित्तमकृत्रिमम्।  
 तथा भोगस्पृहा नाम कृत्रिमोक्ता दरिद्रता॥**
-
-
 
 — 388 —
 
@@ -3499,8 +3283,6 @@ CECIL—
 
 **सरलत्वं प्रोत्कटं यद्वाचां सा नाम वाग्मिता।**
 
-
-
 — 393 —
 
 **सरलः सरलेन संगतः  
@@ -3538,8 +3320,6 @@ OR
 
 **तत्सर्वं साधु यत्स्वन्तं यद्दुरन्तं तदन्यथा**
 
-
-
 — 398 —
 
 LAVATER—  
@@ -3569,8 +3349,6 @@ OKEN—
  Man is the sum total of all animals.
 
 **सर्वेषामपि सत्त्वानां सारभूतो हि मानवः।**
-
-
 
 — 402 —
 
@@ -3613,9 +3391,6 @@ YOUNG—
 
 **सुखसङ्गी किल दुःखविभागी।**  
 
-
-
-
 — 407 —
 
 GOETHE—  
@@ -3655,8 +3430,6 @@ SPANISH PROVERB—
   To him who has a good wife no evil can come which he cannot bear.
 
 **सुभार्याणां पुंसां व्यसनमविषह्यं न किमपि।**
-
-
 
 — 412 —
 
@@ -3700,8 +3473,6 @@ GLADSTONE—
 
 **स्त्रीत्वे स्त्रीणां कापि शोभा चकास्ति।**
 
-
-
 — 417 —
 
 EMERSON—  
@@ -3742,8 +3513,6 @@ PLATO THE YOUNGER—
 **स्वपुरःस्थमपि स्तम्भं तावदन्धो न बोधति।  
 उरसि महतो यावद्गच्छन् पतति नो भुवि॥**
 
-
-
 — 423 —
 
 BEAUMELLE—  
@@ -3782,8 +3551,6 @@ PYTHAGORAS—
 
 **स्वं यस्तन्त्रयितुं नालं स स्वतन्त्रो न कश्चन।**
 
-
-
 — 428 —
 
 BERTRAND—  
@@ -3821,8 +3588,6 @@ SENECA—
 
 **स्वाभाविकमिदं पुंसां स्खलन्ति यदमी क्वचित्।  
 मूर्खाणां तु स्वभावोऽयं यत्स्खलन्ति पुनः पुनः॥**
-
-
 
 — 433 —
 
@@ -3867,8 +3632,6 @@ OERVANTES—
 
 **हा हा चकास्तीति न हेम सर्वम्।**
 
-
-
 — 438 —
 
 CICERO—  
@@ -3887,8 +3650,6 @@ SCHOPENHAUER—
   No man can be in perfect accord with any one but himself.
 
 **नात्मानमन्तरेण कोऽपि केनापि साकल्येन संवादी भवति।**
-
-
 
 — 441 —
 
@@ -3914,8 +3675,6 @@ SPENSER—
  A circle cannot fill a triangle, so neither can the whole world if it were to be compassed, the heart of a man,  
  वर्तुलेन त्रिकोण इव न हि व्याप्यते त्रिभुवनेनापि हृदयमतितृष्णाभिभूतस्य।
 
-
-
 — 445 —
 
 STOFFORD BOOKE**—**  
@@ -3937,8 +3696,6 @@ QUARLES—
 
 **तदेव पर्याप्तत्वं गण्यते गुणानां पुरुषस्य यदसौ जानात्यपर्याप्ता मे गुणा इति।**
 
-
-
 — 448 —
 
 HOWE—  
@@ -3953,16 +3710,12 @@ SENECA—
 
  यदुपकारो न प्रत्युपकारेण निर्यात्यते तत्सर्वथा मानवानर्हम्। यत्तूपकुर्वन् युज्यते प्रत्यपकारेण तत्खल्वासुरमेव।
 
-
-
 — 450 —
 
 KRUMMACHER—  
  See a fond mother encircled by her children; with pious tenderness she looks around, and her soul even melts with maternal love. One she kisses on its cheek, and clasps another to her bosom; one she sets upon her knee, and finds a seat upon her foot for another. And while by their actions, by their lisping words, and asking eyes, she understands their numberless little wishes, to these she dispenses a look, and a word to those; and, whether she grants or refuses, whether she smiles or frowns, it is all in tender love. Such to us, though infinitely high and aweful, is Providence; so it watches over us, comfcrting these, providing for those, listening to all, and assisting every one; and if sometimes it denies the favour we implore, it denies but to invite our more earnest prayers; or, if sceming to deny & blessing, it grants one in the refusal.
 
   हन्त पश्यतेमां सुतवत्सलां मातरम्। परिवृतेयं लक्ष्यते शिशुगणेन। प्रणयपेशला दृशोऽनया परितः क्षिप्यन्ते। द्रवतीवास्या हृदयमपत्यस्नेहेन। तथा हीयं शिशुं कमपि कपोले परिचुम्बति। कमपि वक्षसा परिरभते। कमप्यङ्कमारोपयति। कमपि पादमूले संस्थाप्योपलालयति। कामं सुबहून्यपि सुपूराण्यमीषामभिलषितानि। जानाति पुनरियमखिलानीमानि तैस्तैस्तदीयैश्चष्टितैः। बालभावादपरिस्फुटान्यपि वचनान्युद्गिरतां शिशूनामाशयो विज्ञायत एवानया। अक्षिविक्षेपेणैव किममीभिः पच्छ्यत इत्यभ्यूह्यते। कदाचित् केवलं दृक्पातेन कदाचिच्चद्वित्रशब्दप्रयोगेण, तांस्तांस्तदीन् प्रश्नानुत्तरयति।
-
-
 
 कदाचिदमीषां प्रणयं प्रतिपद्यते। कदाचिच्चप्रत्याख्याति। कदाचित् स्मितं वितनुते। कदाचिच्च भ्रूभङ्गं विरचयति। सर्वमपीदं पुनरस्याश्चेष्टितं स्नेहमूलकमेव संदृश्यते।  
  एवमेव खलु भगवती जगज्जननी कांश्चित् केवलं दृक्पातेन, कांश्चित् समाश्वासनेन समनुगृह्णती सर्वेषामपि नो योगक्षेमं वहति। संशृणोत्यस्माकं वचनानि स्फुटानिचा स्फुटानि च। यदि कदाचिदस्म दभ्यर्थना नानया सफलीक्रियन्ते तदा केवलं समधिकया भक्त्या तदनुप्रसादनाय वयं प्रवर्तेमहीत्येवंप्रायोऽभिप्राय एवं प्रकटीक्रियतेऽनयेति मन्तव्यम्। अथवा श्रेय एकं प्रत्यादिशन्ती प्रत्याख्यानद्वारान्यदेव किंचिदुपपादयतीत्यपि सुवचम्।
@@ -3984,8 +3737,6 @@ Adapted from A PERSIAN SONG—
 
 **जात एव किल रोदिषि स्वयं  
 जात जाग्रदुपमातुरन्तिके।**
-
-
 
 **संमतेन निजजन्मना पुन—  
 र्हन्त हासयसि संनिधौ स्थितान् ॥१॥  
@@ -4013,8 +3764,6 @@ Adapted from AN ENGLISH SONG—
 हा इन्त कालवशतोऽखिलमेति नाशं  
 त्वत्सौरमेण सदृशं यश एव शेषम् ॥३॥**
 
-
-
 — 454 —
 
 Adapted from PAYNE'S "HOME ! SWEET HOME !" —
@@ -4039,8 +3788,6 @@ Adapted from PAYNE'S "HOME ! SWEET HOME !" —
 पुरारुवन् ये मधुरं विहङ्गाः।  
 मद्वाचमाकर्ण्य समुन्मुखास्ते  
 भूयोऽपि चित्तं मम मोदयन्तु ॥५॥**
-
-
 
 **तदेव गेहं तरवस्त एव  
 ता एव गाषो विहगास्त एवं।  
@@ -4069,8 +3816,6 @@ Adapted from PAYNE'S "HOME ! SWEET HOME !" —
 त्वं जीवितस्यैशिष एव नित्यं  
 वैद्यस्तु रोगस्य कदाचिदेव ॥४॥**
 
-
-
 — 456 —
 
 Adapted from :—  
@@ -4097,9 +3842,6 @@ Adapted from :—
 समः सर्वभूतेषु यो वर्ततेऽत्र  
 स जीवः शिवः शङ्करो मूर्त एव ॥५॥**  
 
-
-
-
 — 457 —
 
 Adapted from:—  
@@ -4125,8 +3867,6 @@ Adapted from:—
 संकल्पवत् स्वैरगतिश्चरामि।  
 चिन्तां विधते भिषजां गणस्ते  
 केनापि कार्यं तु न मे कदाचित् ॥५॥**
-
-
 
 **अनल्पवित्तस्त्वमनल्पचिन्त-  
 श्चित्ते सदा मृत्युभयं बिभर्षि।  
@@ -4155,8 +3895,6 @@ Adapted from :—
 सावेगं प्रहतास्त्वया ध्रुवममी साष्टाङ्गपातं भुवि  
 व्यापन्नोद्धरणक्षमा अशरणाः सर्वे पतत्यञ्जसा ॥२॥**
 
-
-
 **नाहं वेद्मिन नाम मे विलिखितं हन्तव्यनामावलौ  
 प्राप्तव्या बत भूमिवर्धनजनावस्था कदाचिन्मया  
 नूनं भीतिमुपैति नो मम मनो यद्भाव्यवश्यं ततः  
@@ -4181,8 +3919,6 @@ Adapted from :—
 प्रथमं प्राह कर्णाग्रे दर्शयन्त्यात्मचातुरीम्।  
 नन्विदं प्रेक्षतामार्यो यत्सदैवोपनेत्रयोः।  
 धार्यमाणतया देहे नासिका स्वाम्यमर्हति॥**
-
-
 
 **उपनेत्रे इमे धात्रा दीर्घजङ्घेतथा कृते।  
 यथा सुखं विदध्यातां नासिकोत्सङ्गसंश्रयम्॥७**
@@ -4214,8 +3950,6 @@ Adapted from :—
 **विरोधो नैव कर्तव्यो नेत्राभ्यामत्र कर्हिचित्  
 निमीलिततया चैव स्थातव्यमिति निर्णये ॥१६**
 
-
-
 — 460 —
 
 **विरक्तस्य शृङ्गारः**
@@ -4242,8 +3976,6 @@ Adapted from :—
 **इतो गतायास्त्रिदिवंतवेयं छायापि मत्तापविनोदनाय।  
 मूलस्य गम्या यदि नार्थसंपत् तदानुवादोऽपि मुदे न केषाम् ॥१**
 
-
-
 **गीर्वाणवाणीमदृशी त्वमासीः सदैव मन्मानसरञ्जनाय।  
 मृतापि तत्साम्यमुपाव्रजन्ती नाद्याप्यभूर्मे विमुखीति मोदे॥  
 तदेव मन्दस्मितमाननं तं स्निग्धानि तान्येव विलोकितानि।  
@@ -4266,8 +3998,6 @@ Adapted from :—
 स्थिरीकृता संप्रति भित्तिभागे स्थिरं मनो मे कुरु साहचर्यात्।  
 मातेव काले भगिनीव वापि मद्भातृवर्गस्य कृतोपचारा।  
 मातुर्ममाभूर्दुहिता स्नुषा वा समैव सर्वेषु कुटुम्बगेषु॥**
-
-
 
 **दृढा त्वदीया मयि भक्तिगसीद् गाढो मदीयस्त्वयि चानुगगः।  
 तथैव भूयादयि सापि सोऽपि सौख्याय नौ जन्मनि जन्मनीह।**
@@ -4292,10 +4022,6 @@ WARWICK—
 
 **![](../books_images/U-IMG-170039405676.png)**
 
-
-
-
-
 **शुद्धिपत्रम्  
 ![](../books_images/U-IMG-170039424577.png)**
 
@@ -4318,16 +4044,5 @@ WARWICK—
 | हस्म दभ्य       | दस्मदभ्य        |
 
 ---------------------------------
-
-
-
-
-
-
-
-
-
-
-
 
 \]

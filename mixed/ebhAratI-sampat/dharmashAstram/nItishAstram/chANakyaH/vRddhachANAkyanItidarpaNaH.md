@@ -17,21 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **अर्पण पत्रिका**
 
@@ -83,31 +69,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **राज धरमनी रीति ग्रंथेवरणी जनोतणे माटे  
 (तेथी) सुबोध सूर्य प्रकाशी, कहेछे धनजी कुबोध तम काटे ६**
 
-
-
 ![](../books_images/U-IMG-1698327152Screenshot2023-10-26185716.png)
-
-
 
 **परोदेशे पांडित्यं सर्वेषां सुकरं नृणम्॥**  
 **धर्मे स्वीयमनुष्ठानं कस्यचित्तु महात्मनः॥**
 
 **![](../books_images/U-IMG-1698329728Screenshot2023-10-26194516.png)**
 
-
-
 # ![](../books_images/U-IMG-1698329885Screenshot2023-10-26194752.png)
 
 ![](../books_images/U-IMG-1698329920Screenshot2023-10-26194830.png)
 
-
-
 # ![](../books_images/U-IMG-1698330020Screenshot2023-10-26195008.png)
 
-  
 ![](../books_images/U-IMG-1698330057Screenshot2023-10-26195045.png)
-
-
 
 ** ॥वृद्धताणक्यनीतिदर्पण॥**
 
@@ -134,8 +109,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698330779Screenshot2023-10-26200249.png)**
 
-
-
 **दुष्टा भार्या शठं मित्रं भृत्यश्चोत्तरदायकः॥**  
 **ससर्पे च गृहे वासोमृत्युरेव न संशयः॥५॥**
 
@@ -155,8 +128,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **न च विद्यागमोऽप्यस्ति वासं तत्र न कारयेत्॥८॥**
 
 **![](../books_images/U-IMG-1698331397Screenshot2023-10-26201307.png)**
-
-
 
 **धनिकः श्रोत्रियो राजा नदी वैद्यस्तु पंचमः॥**  
 **पंच यत्र न विद्यंते न तत्र दिवसं वसेत्॥९॥**
@@ -179,8 +150,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **
 ![](../books_images/U-IMG-1698332163Screenshot2023-10-26202552.png)**
-
-
 
 **योध्रुवाणि परित्यज्य अध्रुवं परिसेवते॥**  
 **ध्रुवाणि तस्य नश्यति अध्रुवं नष्टमेव च॥१३॥**
@@ -205,8 +174,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **
 ![](../books_images/U-IMG-1698332673Screenshot2023-10-26203426.png)**
 
-
-
 **स्त्रीणां द्विगुण आहारो लज्जा चापि चतुर्गुणा॥**  
 **साहसं षड्गुणं चैव कामश्चाष्टगुणः स्मृतः॥१७॥**
 
@@ -216,7 +183,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **इति वृद्धचाणक्यनीतिदर्पणे प्रथमोऽध्यायः॥१॥**
 
 ![](../books_images/U-IMG-1701590093Capture.JPG)
-
 
 **अनृतं साहसं माया मूर्खत्वमतिलोभता॥**  
 **अशौचत्वं निर्दयत्वं स्त्रीणां दोषाः स्वभावजाः॥१॥**
@@ -233,8 +199,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **
 ![](../books_images/U-IMG-1698333252Screenshot2023-10-26204402.png)**
-
-
 
 **ते पुत्रा ये पितुर्भक्ताः सपिता यस्तु पोषकः॥**  
 **तन्मित्रं यत्र विश्वासः सा भार्या यत्र निर्वृातेः॥४॥**
@@ -257,8 +221,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **
 ![](../books_images/U-IMG-1698334066Screenshot2023-10-26205738.png)**
 
-
-
 **कष्टञ्च खलु मूर्खत्वं कष्टञ्च खलु योवनम्॥**  
 **कष्टात् कष्टतरञ्चैव परगेहनिवासनम्॥८॥**
 
@@ -280,8 +242,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698334546Screenshot2023-10-26210533.png)**
 
-
-
 **लालनाद्बहवो दोषा स्ताडनाद्बहवो गुणाः॥**  
 **तस्मात् पुत्रञ्चशिष्यञ्च ताडयेन् न तु लालयेत्॥१२॥**
 
@@ -301,8 +261,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **मन्त्रिहीनाश्च राजानः शीघ्रं नश्यन्त्यसंशयम्॥१५॥**
 
 **![](../books_images/U-IMG-1698338049Screenshot2023-10-26220400.png)**
-
-
 
 **बलं विद्या च विप्राणा राज्ञां सैन्यबलं तथा॥**  
 **बलं वित्तञ्च वैश्यानां शूद्राणाञ्च कनिष्ठिका॥१६॥**
@@ -332,8 +290,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **इति वृद्धचाणक्यनीतिदर्पणे द्वितीयोऽध्यायः॥२॥**
 
-
-
 **कस्य दोषः कुले नास्ति व्याधिना कोनपीडितः॥**  
 **व्यसनं केन प्राप्तं कस्य सौख्यं निरन्तरं॥१॥**
 
@@ -354,8 +310,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698339450Screenshot2023-10-26222719.png)**
 
-
-
 **एतदर्थं कुलीनानां नृपाः कुर्वति संग्रहम्॥**  
 **आदिमध्यावसानेषु न त्यजन्ति च ते नृपम्॥५॥**
 
@@ -375,8 +329,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **विद्याहीना न शोभते निर्गंधा इव किंशुका॥८॥**
 
 **![](../books_images/U-IMG-1698340026Screenshot2023-10-26223700.png)**
-
-
 
 ![](../books_images/U-IMG-1698340497Screenshot2023-10-26224451.png)
 
@@ -400,8 +352,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698340617Screenshot2023-10-26224648.png)**
 
-
-
 ![](../books_images/U-IMG-1698340950Screenshot2023-10-26225222.png)
 
 **कोहिभारः समर्थानां किं दूरं व्यवसायिनाम्॥**  
@@ -418,8 +368,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **दह्यते तद्वनं सर्वं कुपुत्रेण कुलं यथा॥१५॥**
 
 **![](../books_images/U-IMG-1698341031Screenshot2023-10-26225343.png)**
-
-
 
 **एकेनापि सुपुत्रेण विद्यायुक्तेन साधुना॥**  
 **आहलादितं कुलं सर्वं यथा चंद्रेण शर्वरी॥१६॥**
@@ -440,8 +388,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **असाधुजनसंपर्के यः पलायेत् सजीवति॥१९॥**
 
 **![](../books_images/U-IMG-1698341621Screenshot2023-10-26230244.png)**
-
-
 
 **धर्मार्थकाममोक्षेषु यस्यैकोऽपि न विद्यते॥**  
 **जन्मजन्मनि मर्त्येषु मरणं तस्य केवलम्॥२०॥**
@@ -470,8 +416,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 ** 
 ![](../books_images/U-IMG-1698380423Screenshot2023-10-27095012.png)**
 
-
-
 **दर्शनध्यानसंस्पर्शै र्मत्सी कुर्मी च पक्षिणी॥**  
 **शिशुं पालयते नित्यं तथा सज्जनसंगतिः॥३॥**
 
@@ -491,8 +435,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **एकश्चन्द्रस्तमोहन्ति न च ताराः सहस्रशः॥६॥**
 
 **![](../books_images/U-IMG-1698381218Screenshot2023-10-27100329.png)**
-
-
 
 **मूर्खाश्चिरायुर्जातोऽपि तस्माज्जातमृतोवरः॥**  
 **मृतः सचाल्पदुःखाय यावज्जीवं जडोदहेत्॥७॥**
@@ -515,10 +457,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698381698Screenshot2023-10-27101130.png)**
 
-
-
-
-
 **सकृज्जल्पंति राजानः सकृज्जल्पन्ति पंडिताः॥**  
 **सकृत्कन्याः प्रदीयन्ते त्रीण्येतानि सकृत्सकृत्॥११॥**
 
@@ -538,8 +476,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **मूर्खस्य हृदयं शून्यं सर्वशून्या दरिद्रता॥१४॥**
 
 **![](../books_images/U-IMG-1698382301Screenshot2023-10-27102132.png)**
-
-
 
  ![](../books_images/U-IMG-1698382732Screenshot2023-10-27102845.png)
 
@@ -563,8 +499,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698382823Screenshot2023-10-27103016.png)**
 
-
-
 ![](../books_images/U-IMG-1698383343Screenshot2023-10-27103844.png)
 
 **अग्निर्देवोद्विजातीनां मुनीनां हृदि दैवतम्॥**  
@@ -587,8 +521,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **  
 ![](../books_images/U-IMG-1698383433Screenshot2023-10-27104024.png)**
 
-
-
  ![](../books_images/U-IMG-1698383876Screenshot2023-10-27104745.png)
 
 **तावद्भयेषु भेतव्यं यावद्भयमनागतम्॥**  
@@ -610,8 +542,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **पराङ्गनाः कुलस्त्रीणां सुभगानां च दुर्भगाः॥६॥**
 
 **![](../books_images/U-IMG-1698384006Screenshot2023-10-27104959.png)**
-
-
 
 ![](../books_images/U-IMG-1698384548Screenshot2023-10-27105859.png)
 
@@ -636,8 +566,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698384658Screenshot2023-10-27110041.png)**
 
-
-
 ![](../books_images/U-IMG-1698385075Screenshot2023-10-27110747.png)
 
 **दारिद्र्यनाशनं दानं शीलं दुर्गतिनाशनम्॥**  
@@ -659,8 +587,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **जिताक्षस्य तृणन्नारी निःस्पृहस्य तृणं जगत्॥१४॥**
 
 **![](../books_images/U-IMG-1698385189Screenshot2023-10-27110941.png)**
-
-
 
 ![](../books_images/U-IMG-1698385735Screenshot2023-10-27111847.png)
 
@@ -685,8 +611,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **मानवाः स्वर्गामिच्छंति मोक्षमिच्छंति देवताः॥१८॥ **
 
 **![](../books_images/U-IMG-1698385841Screenshot2023-10-27112033.png)**
-
-
 
 ![](../books_images/U-IMG-1698413496Screenshot2023-10-27190116.png)
 
@@ -713,8 +637,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **  
 ![](../books_images/U-IMG-1698413660Screenshot2023-10-27190341.png)**
 
-
-
 ![](../books_images/U-IMG-1698414106Screenshot2023-10-27191139.png)
 
 **राजपन्ती गुरोः पत्नी मित्रपत्नी तथैव च॥**  
@@ -739,8 +661,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **  
 ![](../books_images/U-IMG-1698414210Screenshot2023-10-27191322.png)**
 
-
-
 **भस्मना शुध्यते कांस्यं ताम्रमम्लेन शुध्यते॥**  
 **रजसा शुध्यते नारी नदी वेगेन शुध्यति॥३॥**
 
@@ -757,8 +677,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **  
 ![](../books_images/U-IMG-1698414595Screenshot2023-10-27191945.png)**
-
-
 
 **तादृशी जायते बुद्धिर्व्यवसायोऽपि तादृशः॥**  
 **सहायास्तादृशा एव यदृशी भवितव्यता॥६॥**
@@ -783,8 +701,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 ** 
 ![](../books_images/U-IMG-1698417727Screenshot2023-10-27201153.png)**
 
-
-
  ![](../books_images/U-IMG-1698422980Screenshot2023-10-27213925.png)
 
 **राजा राष्ट्रकृतं पापं राज्ञः पापं पुरोहितः॥**  
@@ -802,8 +718,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **मूर्खं छंदानुवृत्या च यथार्थत्वेन पंडितम्॥१२॥**
 
 **![](../books_images/U-IMG-1698423056Screenshot2023-10-27214047.png)**
-
-
 
 **वरं न राज्यं कुराजराज्यं वरं न मित्रं न कुमित्रमित्रम्॥**  
 **वरं न शिष्योन कुशिष्यशिष्यो वरं नदारा नकुदार दाराः॥१३॥**
@@ -827,8 +741,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698423646Screenshot2023-10-27215036.png)**
 
-
-
 ![](../books_images/U-IMG-1698424067Screenshot2023-10-27215739.png)
 
 **इंद्रियाणि च संयम्य बकवत् पंडितोनरः॥**  
@@ -851,8 +763,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698424170Screenshot2023-10-27215917.png)**
 
-
-
 ![](../books_images/U-IMG-1698424570Screenshot2023-10-27220601.png)
 
 **सुश्रांतोऽपि वहेद्भारं शीतोष्णे न च पश्यति॥**  
@@ -873,8 +783,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **नीचवाक्यं चापमानं मतिमान्न प्रकाशयेत्॥१॥**
 
 **![](../books_images/U-IMG-1698424657Screenshot2023-10-27220731.png)**
-
-
 
 **धनधान्येप्रयोगेषु विद्यासंग्रहणेषु च॥**  
 **आहारे व्यवहारे च त्यक्तलज्जः सुखी भवेत्॥२॥**
@@ -902,8 +810,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698425408Screenshot2023-10-27221957.png)**
 
-
-
   ![](../books_images/U-IMG-1698425814Screenshot2023-10-27222647.png)
 
 **शकटात् पंचहस्तेन दशहस्तेन वाजिनः॥**  
@@ -929,8 +835,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **
 ![](../books_images/U-IMG-1698425920Screenshot2023-10-27222831.png)**
 
-
-
 ![](../books_images/U-IMG-1698426255Screenshot2023-10-27223408.png)
 
 **बाह्वोर्वीर्यं बलं राज्ञो ब्राह्मणोब्रह्मविद्बली॥**  
@@ -948,8 +852,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698426348Screenshot2023-10-27223541.png)**
 
-
-
 **उपार्जितानां वित्तानां त्यागएव हि रक्षणम्॥**  
 **तडागोदरसंस्थानां परिस्रव इवांभसाम्॥१४॥**
 
@@ -965,8 +867,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **दानप्रसंगो मधुरा च वाणी देवार्चनं ब्राह्मणतर्पणं च॥१६॥**
 
 **![](../books_images/U-IMG-1698427039Screenshot2023-10-27224710.png)**
-
-
 
 **अत्यंतकोपः कटुका च वाणी दरिद्रता बंधुजनेषु बैरम्॥**  
 **नीचप्रसंगं कुलहीनसेवा चिन्हानि देहे नरकस्थितानाम्॥१७॥**
@@ -985,8 +885,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 ** 
 ![](../books_images/U-IMG-1698427456Screenshot2023-10-27225409.png)**
-
-
 
 **वाचां शैचं च मनसः शौचमिंद्रियानिग्रहः॥**  
 **सर्वभूतदयाशौचमेतच्छौचं परार्थिनाम्॥२०॥**
@@ -1007,8 +905,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698428072Screenshot2023-10-27230426.png)**
 
-
-
 **इक्षुरापः पयोमूलं तांवुलं फलमौषधम्॥**  
 **भक्षयित्वापि कर्त्तव्या स्नानदानादिका क्रिया॥२॥**
 
@@ -1026,8 +922,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **
 ![](../books_images/U-IMG-1698428475Screenshot2023-10-27231105.png)**
-
-
 
 **चांडालानां सहस्रैश्च सूरिभिस्तत्वदर्शिभिः॥**  
 **एकोहि यवनः प्रोक्तोन नीचोयवनात्परः॥५॥**
@@ -1048,8 +942,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **हतं निर्नायकं सैन्यं स्त्रियोनष्टाह्यभर्तृकाः॥८॥**
 
 **![](../books_images/U-IMG-1698429058Screenshot2023-10-27232051.png)**
-
-
 
 ![](../books_images/U-IMG-1698429547Screenshot2023-10-27232857.png)
 
@@ -1073,8 +965,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698429652Screenshot2023-10-27233041.png)**
 
-
-
 ![](../books_images/U-IMG-1698430100Screenshot2023-10-27233809.png)
 
 **क्रोधोवैवस्वतोराजा तृष्णा वैतरणी नदी॥**  
@@ -1097,8 +987,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698430209Screenshot2023-10-27234003.png)**
 
-
-
 **असंतुष्टा द्विजा नष्टाः संतुष्टाश्च महीभृतः॥**  
 **सलज्जा गणिका नष्टा निर्लज्जाश्च कुलांगना॥१७॥**
 
@@ -1119,8 +1007,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698470564Screenshot2023-10-28105236.png)**
 
-
-
 **मांसभक्षैः सुरापानै र्मूर्खैश्चाक्षरवर्जितैः॥**  
 **पशुभिःपुरुषाकारैर्भाराक्रांतास्ति मेदिनी॥२१॥**
 
@@ -1139,8 +1025,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **क्षमार्जवदयातोषसत्यं पीयूषवद्भज॥१॥**
 
 **![](../books_images/U-IMG-1698471174Screenshot2023-10-28110247.png)**
-
-
 
 **परस्परस्य मर्माणि ये भाषंते नराधमाः॥**  
 **तएव विलयं यांति वल्मिकोदरसर्पवत्॥२॥**
@@ -1161,8 +1045,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **व्योम्नि स्थितं रविशशिग्रहणं प्रशस्तं जानाति योद्विजवरः सकथं न विद्वान्॥५॥**
 
 **![](../books_images/U-IMG-1698471753Screenshot2023-10-28111226.png)**
-
-
 
 ![](../books_images/U-IMG-1698472170Screenshot2023-10-28111922.png)
 
@@ -1186,8 +1068,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698472283Screenshot2023-10-28112114.png)**
 
-
-
 **निर्विषेणापि सर्पेण कर्तव्या महती फणा॥**  
 **विषमस्तु नचाप्यस्तु फटोष्टोपोभयंकरः॥१०॥**
 
@@ -1202,8 +1082,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **स्वहस्तलिखितं स्तोत्रं शक्रस्यापि श्रियं हरेत्॥१२॥**
 
 **![](../books_images/U-IMG-1698480884Screenshot2023-10-28134437.png)**
-
-
 
 ![](../books_images/U-IMG-1698481228Screenshot2023-10-28135020.png)
 
@@ -1222,8 +1100,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **॥इतिपूर्वार्द्धं॥**
 
 **![](../books_images/U-IMG-1701596372Capture.JPG)**
-
-
 
 **॥अथ उत्तरार्द्धः॥**
 
@@ -1244,8 +1120,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **
 ![](../books_images/U-IMG-1698492572Screenshot2023-10-28165925.png)**
-
-
 
 **कवयः किन्न पश्यंति किन्न कुर्वंति योषितः॥**  
 **मद्ययाः किन्न जल्पंति किन्न खादंति वायसाः॥४॥**
@@ -1270,8 +1144,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **  
 ![](../books_images/U-IMG-1698493035Screenshot2023-10-28170707.png)**
-
-
 
 ![](../books_images/U-IMG-1698493400Screenshot2023-10-28171313.png)
 
@@ -1298,8 +1170,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698493519Screenshot2023-10-28171513.png)**
 
-
-
 ![](../books_images/U-IMG-1698493907Screenshot2023-10-28172138.png)
 
 **वरं वने व्याघ्रगजेंद्रसेविते दुमालये पत्रफलांबुसेवनम्॥**  
@@ -1319,8 +1189,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 ** 
 ![](../books_images/U-IMG-1698493982Screenshot2023-10-28172256.png)**
 
-
-
 ![](../books_images/U-IMG-1698494341Screenshot2023-10-28172849.png)
 
 **एकवृक्षसमारूढा रात्रौ नानाविहंगमाः॥**  
@@ -1339,8 +1207,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **त्वत्पादांबुज सेवनेन सततं कालोमया नीयते॥१७॥**
 
 **![](../books_images/U-IMG-1698494426Screenshot2023-10-28173014.png)**
-
-
 
 ![](../books_images/U-IMG-1698494917Screenshot2023-10-28173827.png)
 
@@ -1363,8 +1229,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1701596969Capture.JPG)**
 
-
-
 **दातृत्वं प्रियवक्तृत्वं धीरत्वमुचितज्ञता॥**  
 **अभ्यासेन न लभ्यंते चत्वारः सहजा गुणाः॥१॥**
 
@@ -1382,8 +1246,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **तेजोयस्य विराजते सबलवान् स्थूलेषु कःप्रत्ययः॥३॥**
 
 **![](../books_images/U-IMG-1698495561Screenshot2023-10-28174903.png)**
-
-
 
 **कलौ दश सहस्राणि हरिस्त्यजति मेदिनीम्॥**  
 **तदर्द्धं जान्हवीतोयं तदर्द्धं ग्रामदेवता॥४॥**
@@ -1407,8 +1269,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 ** 
 ![](../books_images/U-IMG-1698496059Screenshot2023-10-28175733.png)**
-
-
 
 ![](../books_images/U-IMG-1698496550Screenshot2023-10-28180541.png)
 
@@ -1434,8 +1294,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **
 ![](../books_images/U-IMG-1698496663Screenshot2023-10-28180734.png)**
 
-
-
 ![](../books_images/U-IMG-1698497126Screenshot2023-10-28181518.png)
 
 **एकाहारेण संतुष्टः षट्कर्मनिरतः सदा॥**  
@@ -1458,8 +1316,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698497212Screenshot2023-10-28181645.png)**
 
-
-
 **वापी कूपनडागाना मारामसुरवेश्मनाम्॥**  
 **उच्छेदने निराशकेः सविप्रोम्लेच्छ उच्यते॥१६॥**
 
@@ -1480,8 +1336,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **इतिवृद्धचाणक्यनीतिदर्पणे एकादशोऽध्यायः॥११॥**
 
 **![](../books_images/U-IMG-1701597478Capture.JPG)**
-
-
 
 **सानंदं सदनं सुस्तास्तु सुधियः कांता प्रियालापिनी॥**  
 **इच्छापूर्ति धनं स्वयोषिति रतिःस्वाज्ञापराः सेवकाः॥**  
@@ -1505,8 +1359,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **
 ![](../books_images/U-IMG-1698506863Screenshot2023-10-28205735.png)**
 
-
-
 ![](../books_images/U-IMG-1698507386Screenshot2023-10-28210618.png)
 
 **हस्तौ दानविवर्जितौ शुतिपुटौ सारस्वतद्रोहिणौ॥**  
@@ -1524,8 +1376,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 ** 
 ![](../books_images/U-IMG-1698507437Screenshot2023-10-28210710.png)**
-
-
 
 ![](../books_images/U-IMG-1698507946Screenshot2023-10-28211537.png)
 
@@ -1546,8 +1396,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698508023Screenshot2023-10-28211654.png)**
 
-
-
 ![](../books_images/U-IMG-1698509646Screenshot2023-10-28214359.png)
 
 **विप्रास्मिन्नगरे महान् वसति कस्तालदुमाणां गणः॥**  
@@ -1562,8 +1410,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **स्वाहास्वधाकारविवर्जितानि श्मशानतुल्यानि गृहाणितानि॥१०॥**
 
 **![](../books_images/U-IMG-1698509700Screenshot2023-10-28214452.png)**
-
-
 
 ![](../books_images/U-IMG-1698510022Screenshot2023-10-28215011.png)
 
@@ -1581,8 +1427,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **पत्युत्साहवती नारी अहं कृष्ण रणोत्सवः॥१३॥**
 
 **![](../books_images/U-IMG-1698510095Screenshot2023-10-28215127.png)**
-
-
 
 **मातृवत परदांराश्चपरद्रव्याणि लोष्टवत॥**  
 **आत्मवत् सर्वभूतानि यः पश्यति सपश्यति॥१४॥**
@@ -1602,8 +1446,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **नैतांस्ते तुलयामि भो रघुपते कस्योपमा दीयते॥१६॥**
 
 **![](../books_images/U-IMG-1698510512Screenshot2023-10-28215827.png)**
-
-
 
 ![](../books_images/U-IMG-1698510788Screenshot2023-10-28220300.png)
 
@@ -1627,8 +1469,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 ** 
 ![](../books_images/U-IMG-1698510881Screenshot2023-10-28220434.png)**
-
-
 
 **धनधान्यप्रयोगेषु विद्यासंग्रहणे तथा॥**  
 **आहारे व्यवहारे च त्यक्तलज्जः सुखी भवेत्॥२१॥**
@@ -1656,8 +1496,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 ** 
 ![](../books_images/U-IMG-1698511316Screenshot2023-10-28221150.png)**
 
-
-
 **गते शोकोनकर्त्तव्यो भविष्यन्नैव चिंतयेत्॥ **  
 **वर्त्तमानेन कालेन प्रवर्त्तंते विचक्षणाः॥२॥**
 
@@ -1681,8 +1519,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **
 ![](../books_images/U-IMG-1698511677Screenshot2023-10-28221750.png)**
 
-
-
 **यस्यस्नेहोभयं तस्य स्नेहोदुःखस्य भाजनम्॥**  
 **स्नेहमूलाने दुःखानि तानि त्यक्त्वा बेसत्सुखम्॥६॥**
 
@@ -1702,8 +1538,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **मृतधर्मेणसंयुक्तो दीर्घजीवी न संशयः॥९॥**
 
 **![](../books_images/U-IMG-1698518201Screenshot2023-10-29000634.png)**
-
-
 
 ![](../books_images/U-IMG-1698518441Screenshot2023-10-29001031.png)
 
@@ -1728,8 +1562,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 ** 
 ![](../books_images/U-IMG-1698518542Screenshot2023-10-29001216.png)**
 
-
-
 **ईप्सितं मनसः सर्वं कस्य संपद्यते सुखम्॥**   
 **दैवायत्तं यतः सर्वं तस्मात्संतोषवान् भवेत्॥१४॥**
 
@@ -1750,8 +1582,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **  
 ![](../books_images/U-IMG-1698518857Screenshot2023-10-29001731.png)**
-
-
 
 **कर्मायत्तं फलं पुंसां बुद्धिः कर्मानुसारिणी॥**   
 **तथापि सुधियश्चार्याः सुविचार्यैव कुर्वते॥१८॥**
@@ -1778,8 +1608,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 ![](../books_images/U-IMG-1701599021Capture.JPG)
 
-
-
 **पृथिव्यां त्रीणि रत्नानि अन्नमापः सुभाषितम्॥**  
 **मूढैः पाषाणखंडेषु रत्नसंख्या विधीयते॥१॥**
 
@@ -1803,8 +1631,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698585091Screenshot2023-10-29184116.png)**
 
-
-
 **जले तैलं खले गुह्यं पात्रे दानं मनागपि॥**   
 **प्राज्ञे शास्त्रं स्वयं याति विस्तारं वस्तुशक्तितः॥५॥**
 
@@ -1824,8 +1650,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **विस्मयोनहि कर्तव्योबहुरत्ना वसुंधरा॥८॥**
 
 **![](../books_images/U-IMG-1698585732Screenshot2023-10-29185157.png)**
-
-
 
 **दूरस्थोऽपि न दूरस्थोयोयस्य मनसि स्थितः॥**  
 **योयस्य हृदये नास्ति समीपस्थोऽपि दूरतः॥९॥**
@@ -1847,8 +1671,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698586544Screenshot2023-10-29190535.png)**
 
-
-
 ![](../books_images/U-IMG-1698586756Screenshot2023-10-29190908.png)
 
 **यदीच्छसि वशीकर्तुं जगदेकेन कर्मणा॥ **  
@@ -1865,8 +1687,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **कुणपं कामिनी मांसं योगिभिः कामिभिः श्वभिः॥१६॥**
 
 **![](../books_images/U-IMG-1698586845Screenshot2023-10-29191036.png)**
-
-
 
 ![](../books_images/U-IMG-1698587234Screenshot2023-10-29191651.png)
 
@@ -1890,8 +1710,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698587336Screenshot2023-10-29191843.png)**
 
-
-
 ![](../books_images/U-IMG-1698588468Screenshot2023-10-29193656.png)
 
 **इति वृद्धचाणाक्यनीतिदर्पणे चतुर्दशोऽध्यायः॥१४॥**
@@ -1913,8 +1731,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698588571Screenshot2023-10-29193922.png)**
 
-
-
 ![](../books_images/U-IMG-1698589004Screenshot2023-10-29194634.png)
 
 **कुचैलिनं दंतमलोपधारिणं बव्हाशिनन्निष्ठुरभाषिणं च॥**   
@@ -1933,8 +1749,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698589101Screenshot2023-10-29194812.png)**
 
-
-
 ![](../books_images/U-IMG-1698589581Screenshot2023-10-29195609.png)
 
 **अयुक्तं स्मामिनोयुक्तं युक्तं नीचस्य दूषणम्॥ **  
@@ -1952,8 +1766,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **
 ![](../books_images/U-IMG-1698589674Screenshot2023-10-29195740.png)**
-
-
 
 ![](../books_images/U-IMG-1698589984Screenshot2023-10-29200250.png)
 
@@ -1978,8 +1790,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698590146Screenshot2023-10-29200535.png)**
 
-
-
 ![](../books_images/U-IMG-1698590977Screenshot2023-10-29201924.png)
 
 **अयममृतनिधानं नायकोऽप्योषधीनाम्॥**   
@@ -1996,8 +1806,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **
 ![](../books_images/U-IMG-1698591050Screenshot2023-10-29202040.png)**
 
-
-
 **पीतः क्रुद्धेन तातश्चरणतलहतो वल्लभोयेन रोषात्॥**  
 **आबाल्याद्विप्रवर्यैः स्ववदनविवरे धार्यते वैरिणी मे॥**  
 **गेहं मे छेदयंति प्रतिदिवसमुमाकांतपूजानिमित्तम्॥**  
@@ -2009,8 +1817,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **दारुभेदनिपुणोऽपि षडंघ्रि र्निष्क्रियोभवति पंकजकोशे॥१७॥**
 
 **![](../books_images/U-IMG-1698591467Screenshot2023-10-29202737.png)**
-
-
 
 **छिन्नोपि चंदनतरुर्न जहाति गंध, वृद्धोऽपि वारणपतिर्न जहाति लीलाम्॥**  
 **यंत्रार्पितोमधुरतां न जहाति चेक्षुःक्षीणोऽपि न यजति शीलगुणान्कुलीनः॥१८॥**
@@ -2028,8 +1834,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **इति वृद्धचाणक्यनीतिदर्पणे पंचदशोऽध्यायः॥१५॥**
 
 **![](../books_images/U-IMG-1701601843Capture.JPG)**
-
-
 
 **न ध्यातं पदमीश्वरस्य विधिवत् संसारविच्छित्तये॥**   
 **स्वर्गद्वारकपाटपाटनपटुर्धर्मोऽपि नोपार्जितः॥**  
@@ -2050,8 +1854,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **  
 ![](../books_images/U-IMG-1698593543Screenshot2023-10-29210216.png)**
 
-
-
 **कोऽर्थान् प्राप्य न गर्वितोविषयिणः कस्यापदोऽस्तंगताः॥**  
 **स्त्रीभिः कस्य न खंडितं भुवि मनः कोनाम राज्ञः प्रियः॥**  
 **कः कालस्य न गोचरत्वमगमत् कोऽर्थी गतोगोरवम्॥**  
@@ -2065,8 +1867,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **
 ![](../books_images/U-IMG-1698594052Screenshot2023-10-29211045.png)**
-
-
 
 **गुणैरुत्तमतां याति नोच्चैरासनसंस्थितः॥**   
 **प्रासादशिखरस्थोऽपि काकः किं गरुडायते॥६॥**
@@ -2087,8 +1887,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **सुतरां रत्नमाभाति चामीकरनियोजितम्॥९॥**
 
 **![](../books_images/U-IMG-1698594419Screenshot2023-10-29211650.png)**
-
-
 
 **गुणैः सर्वज्ञतुल्योऽपि सीदत्येकोनिराश्रयः॥**   
 **अनर्ध्यमपि माणिक्यं हेमाश्रयमपेक्षते॥१०॥**
@@ -2112,8 +1910,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698594961Screenshot2023-10-29212555.png)**
 
-
-
 ![](../books_images/U-IMG-1698595179Screenshot2023-10-29212933.png)
 
 **श्रीयंते सर्वदानानि यज्ञहोमबलिक्रिया॥ **  
@@ -2130,8 +1926,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **प्राणत्यागे क्षणं दुःखं मानभंगे दिने दिने॥१६॥**
 
 ![](../books_images/U-IMG-1698595256Screenshot2023-10-29213046.png)
-
-
 
 ![](../books_images/U-IMG-1698596314Screenshot2023-10-29214825.png)
 
@@ -2155,8 +1949,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698596420Screenshot2023-10-29215013.png)**
 
-
-
 ![](../books_images/U-IMG-1698596774Screenshot2023-10-29215600.png)
 
 **इतिवृद्धचाणक्यनीतिदर्पणे षोडशोऽध्यायः॥१६॥**
@@ -2178,9 +1970,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698596977Screenshot2023-10-29215927.png)**  
 
-
-
-
 ![](../books_images/U-IMG-1698597595Screenshot2023-10-29220943.png)
 
 **लोभश्चेदगुणेन किं पिशुनता यद्यस्ति किं पातकैः॥**  
@@ -2195,8 +1984,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **शंखोभिक्षाटनं कुर्यान्नादत्तमुपतिष्ठते॥५॥**
 
 **![](../books_images/U-IMG-1698597655Screenshot2023-10-29221043.png)**
-
-
 
 ![](../books_images/U-IMG-1698598241Screenshot2023-10-29222026.png)
 
@@ -2215,8 +2002,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **वृश्चकस्य विषं पुच्छे सर्वांगे दुर्जनोविषम्॥८॥**
 
 **![](../books_images/U-IMG-1698598324Screenshot2023-10-29222155.png)**
-
-
 
 **पत्युराज्ञां विना नारी उपोष्य व्रतचारिणी॥ **  
 **आयुष्यं हरते भर्त्तुःसा नारी नरकं व्रजेत्॥९॥**
@@ -2239,8 +2024,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **मानेन तृप्तिर्नतु भोजनेन ज्ञानेन मुक्तिर्नतु मंडनेन॥१२॥**
 
 **![](../books_images/U-IMG-1698598905Screenshot2023-10-29223135.png)**
-
-
 
 ![](../books_images/U-IMG-1698599627Screenshot2023-10-29224337.png)
 
@@ -2266,9 +2049,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 
 **![](../books_images/U-IMG-1698599743Screenshot2023-10-29224535.png)**  
 
-
-
-
 ![](../books_images/U-IMG-1698600061Screenshot2023-10-29225053.png)
 
 **आहारानिद्राभयमैथुनानि समानि चैतानि नृणां पशुनाम्॥  
@@ -2288,8 +2068,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **
 ![](../books_images/U-IMG-1698600158Screenshot2023-10-29225232.png)**
 
-
-
 ![](../books_images/U-IMG-1698600555Screenshot2023-10-29225902.png)
 
 **अधः पश्यसि किं बाले पतितं तव किं भुवि॥**  
@@ -2305,16 +2083,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEwNDY1MTIzMjM
 **समाप्तोयं वृद्धचाणक्यनीतिदर्पणोग्रंथः॥**
 
   ![](../books_images/U-IMG-1698600657Screenshot2023-10-29230018.png)
-
-
-
-
-
-
-
-
-
-
-
 
 \]

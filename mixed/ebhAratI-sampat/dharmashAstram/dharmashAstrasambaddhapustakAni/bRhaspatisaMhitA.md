@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg4MTU3NTU0MDM
 
 \[
 
-
-
   बृहस्पतिसंहिता ।
 
 इष्ट्वा क्रतुशतं राजा समाप्तवरदक्षिणम् ।  
@@ -178,7 +176,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg4MTU3NTU0MDM
 
 इति बृहस्पतिसंहिता ।  
 -------------------\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*-------------  
-
-
 
 \]

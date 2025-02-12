@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk4MDM1NDk1NTk
 
 \[
 
-
-
 **THE**
 
 NîTI AND *V*AIRAGYA S'ATAKAS.
@@ -49,8 +47,6 @@ Gopal Narayen & Co.
 
 **————**
 
-
-
 INTRODUCTION.
 
 ![](../books_images/U-IMG-1697913411Screenshot2023-10-22000610.png)
@@ -61,11 +57,7 @@ THE POEM AND THE AUTHOR.
 
 ———————————————————————————————————————————————————
 
-
-
 \*This tradition seems to have given rise to Niti S'ataka al. 2 which has hardly any connection in the place where it stands, and may possibly be an interpolation. The use of the first personal pronono in the verse is not an induoitable proo. of its reference to the author himself and the want of true critical spirit on the part of the Pandits might have led to the fabrication of the story current among the people.
-
-
 
  kingdom to Bhartrhari who transferred the seat of government to Ujjain, placed Vikramaditya on the throne and appointed Subhatavírya his commander-in-chief (4) The name of Bh.'s wife was Padmâkshi and she was the daughter of Simhasena, king of Magadha. (5) Mr. Sheshagiri Shastri gives a rather curious tradition. He says:—"King Vikramaditya is said to have been the son of a Brahmana named Chandragupta who married four wives, one of the Brâhmana caste, another of the Kshatriya, the third of Vais'ya, the fourth of the S'údra caste. They were called Brahmani, Bhanumatí, Bhagyavati and Sindhumati. Each of the four bore him a son. Vara- ruchi was born of the first wife, Vikramárka of the Second,. Bhatti of the third, and Bhartrhari of the fourth. Vikramarka. became king, and Bhatti served him in the capacity of Prime Minister."
 
@@ -79,11 +71,7 @@ THE POEM AND THE AUTHOR.
 
 \*The controversy as to the identity of Bhartrhari and Bhatti ie discussed further on.
 
-
-
  verses in these *S'atakas* are found in works by other authors. which are not mere compilations, has lent colouring to this assumption. Another theory is that the author of the *S\`atakas*was not Bhartrhari but that some poet composed them in his name. This theory has neither a wide currency nor has it any stronghold on the minds of scholars. With regard to the former it is sufficient to remember that only a small number of the verses in the *S'atakas* have been attributed to other writers, that these in almost all cases are persons of less note and that they cannot be said to have preceded Bhartṛhari in chronological order. The number of verses which can at all be challenged as not being Bhartrhari's will not exceed fifty in the two *S'atakas*; and even of this number very few can be definitely ascribed to one writer or another. With the exception of Kalidasa with whom Bhartrhari has one verse incommon (sl. 70 *Niti S'ataka*) all others from whom Bhartrhari can be suspected of having borrowed" are persons less noted than he, and removed by several centuries from the period at which we think our post can be placed. The S'atakas, therefore, must be regarded as an original work. Had they been a mere compilation Bh, would have designated his col- lection by some such name as Subhashita-manjúshá or the like. Besides the verses are not altogether isolated. There are connecting links which divide them into different groups. To a careful reader they will appear to be the outpourings of a mind strongly disgusted with the world or powerfully affected by its incidents; and the poet must have penned his thoughts down as his mind was held in sway by different emotions at different times. We must, however, believe that the nature of work and its very want of a common thread as in a continuons narrative afforded facilities to unscrupulous persons to pass off either their own or other verses as Bhartyhari's, and that numerous interpolations must have, from time to time, be made, since the number of verses in each *S'ataka*has considerably increased, so much that the three *S'atakas*
-
-
 
  now contain nearly 400 verses[^1] between them. The growth, however, has been so much mixed with the original that it has now become an almost hopeless task to resort to the process of elimination.[^2]%20has%20been%20made%20in%20this%20edition%20to%20detach%20such%20verses%20from%20the%20original.)
 
@@ -97,8 +85,6 @@ THE DATE OF THE S'ATAKAS.
 
 [^3]: There%20is%20some%20difference%20of%20opinion%20among%20antiquarians%20as%20regards%20the%20beginning%20of%20Samvat%20Ers,%20Mr.%20Telang%20believes%20that%20Vikrama%20was%20the%20founder%20of%20the%20Shaka%20or%20Sålivahana%20era%20which%20dates%20with%2078%20A.%20D.,%20and%20thus%20he%20places%20Bhartṛhari%20towards%20the%20close%20of%20the%20first%20and%20the%20beginning%20of%20the%20second%20century%20after%20Christ.%20Telang's%20main%20contention%20is%20that%20Bhartrhari%20being%20the%20author%20of%C2%A0Vakyapadiya,%20sufficient%20time%20must%20be%20allowed%20to%20elapse%20between%20him%20and%20Patanjali%20for%20all%20the%20vicissitudes'%20in%20the%20life%20of%20the%20latter's%C2%A0Mahabhashya.%20We%20shall%20show%20further%20on,%20from%20evidence%20collected%20by%20Mr.%20K.%20B.%20Pathak,%20and%20which%20seems%20to%20be%20very%20conclusive,%20that%20the%20author%20of%20the%20Vakyapadiya%20was%20a%20Buddhist.%20Bhartrhari,%20the%20author%20of%20the%20S'alakas,%20was%20not%20a%20Buddhist,%20and%20therefore%20Mr.%20Telang's%20objection%20to%20accepting%20B.%20O,%2056%20as%20the%20date%20of%20the%20commencement%20of%20the%20Samvat%20Era,%20on%20the%20ground%20of%20insufficiency%20of%20the%20period%20we%20get%20for%20certain%20incidents%20in%20the%20history%20of%20the%20Mahabháshya%20recorded%20by%20the%20author%20of%20the%20Vakyapadiya,%20falls%20to%20the%20ground,%20%20%C2%A0%20%C2%A0Another%20date%20has%20been%20proposed%20to%20mark%20the%20commencement%20of%20the%20Samvat%20Era%20vía.%20A.%20D.%20544.%20The%20reasoning%20by%20which%20the– "There is some difference of opinion among antiquarians as regards the beginning of Samvat Ers, Mr. Telang believes that Vikrama was the founder of the Shaka or Sålivahana era which dates with 78 A. D., and thus he places Bhartṛhari towards the close of the first and the beginning of the second century after Christ. Telang's main contention is that Bhartrhari being the author ofVakyapadiya, sufficient time must be allowed to elapse between him and Patanjali for all the vicissitudes' in the life of the latter'sMahabhashya. We shall show further on, from evidence collected by Mr. K. B. Pathak, and which seems to be very conclusive, that the author of the Vakyapadiya was a Buddhist. Bhartrhari, the author of the S'alakas, was not a Buddhist, and therefore Mr. Telang's objection to accepting B. O, 56 as the date of the commencement of the Samvat Era, on the ground of insufficiency of the period we get for certain incidents in the history of the Mahabháshya recorded by the author of the Vakyapadiya, falls to the ground,   Another date has been proposed to mark the commencement of the Samvat Era vía. A. D. 544. The reasoning by which the–"
 
-
-
  might suppose that tradition places him in the first half of the century before Christ,[^4].%20The%20Vedantic%20age%20thus%20extended%20beyond%20the%20eighth%20century%20but%20its%20beginning%20cannot%20be%20traced%20with%20any%20degree%20of%20accuracy.%C2%A0 "It is difficult to determine the exact period in the history of Sanskrit literature which might appropriately be called the Vedântic age. This followed the Upanishad period and was coeval with the Pauranic and Buddhistic periods. The greatest names of the Vedantie period are those of Kumarila Bhatta, and the still more famous Shankaracharya. Kumarila is supposed to have flourished about 700 A. D., and Shankaracharya half a century later (though there are grounds to believe that the flourished long before this). The Vedantic age thus extended beyond the eighth century but its beginning cannot be traced with any degree of accuracy.")
 
 [^4]: It%20is%20difficult%20to%20determine%20the%20exact%20period%20in%20the%20history%20of%20Sanskrit%20literature%20which%20might%20appropriately%20be%20called%20the%20Vedântic%20age.%20This%20followed%20the%20Upanishad%20period%20and%20was%20coeval%20with%20the%20Pauranic%20and%20Buddhistic%20periods.%20The%20greatest%20names%20of%20the%20Vedantie%20period%20are%20those%20of%20Kumarila%20Bhatta,%20and%20the%20still%20more%20famous%20Shankaracharya.%20Kumarila%20is%20supposed%20to%20have%20flourished%20about%20700%20A.%20D.,%20and%20Shankaracharya%20half%20a%20century%20later%20(though%20there%20are%20grounds%20to%20believe%20that%20the%20flourished%20long%20before%20this
@@ -111,8 +97,6 @@ THE DATE OF THE S'ATAKAS.
 
 result has been arrived at, is, to speak most charitably of it, simply fancifully. (For further information, see Intro, to Abhi. S'ak.) B.C. 56-57 may, therefore, be taken as the date of the commencement of the Samvat of Vikrama ora.
 
-
-
  doubted whether the reasoning of Prof. Wilson is conclusive. enough; and whatever view might be held as to the interpolations which have been made in some of the Purâņas, yet in general it may be said that they or some of them at least have existed prior to the first century A. D. so that the mere mention of the Purânas in a work cannot prove any thing as to its being a modern production,
 
  Let us now see if *external evidence* will assist us in establishing the date of Bhartrhari. His commentators, it seems, never troubled themselves with this question, They like others before and after them appear to have followed the maxim,"gold is gold, why enquire how old it is?" Nor is there any specific mention of the author of the *S'atakas* in any of the old writers which will throw any the least light on his age.  
@@ -121,8 +105,6 @@ result has been arrived at, is, to speak most charitably of it, simply fancifull
 
 [^6]: %20%C2%A0%20Niti%20S'ataka,%20SL,%2094.%20Sharangadhara,%20however,%20quotes%20this%20verse%2088%20of%20some%20other%20poet%20after%20quoting%20a%20number%20from%20Bhartrhari. "  Niti S'ataka, SL, 94. Sharangadhara, however, quotes this verse 88 of some other poet after quoting a number from Bhartrhari."
 
-
-
  Thus it will be seen that there is nothing that goes against the date furnished by the tradition.
 
 THE IDENTITY[^7] OF BHARTṚHARI AND BHATTI.
@@ -130,8 +112,6 @@ THE IDENTITY[^7] OF BHARTṚHARI AND BHATTI.
 [^7]: This%20is%20taken%20here%20with%20minor%20changes,%20which%20do%20not%20affect%20the%20argument%20at%20all,%20from%20my%20Introduction%20to%20the%20Bhatti%20Kavya%20Cantos%20I-V. "This is taken here with minor changes, which do not affect the argument at all, from my Introduction to the Bhatti Kavya Cantos I-V."
 
  Bhartrhari has been identified with Bhatti, the author of the celebrated *Bhatti Kavya.* As regards Bhartṛhari himself there is a controversy as to whether the Bhartrhari of the *S'atakas* and his namesake, author of the *Vâkyapadiya,* are one and the same. So the controversy expends itself thus—Was Bhatti another name for the author of the *S'atakas,* or for the auhtor of the *Vâkyapadîya,* or were the three one and the eame or quite different individuals? That the three were no-one is conclusively proved from some evidence collected together by Prof. K. B. Pathak. Mr. Páthak has proved from contemporary and other unquestionable evidence that the author of the *Vakyapadîya* was a Buddhist. Neither Bhartṛhari, the author of the *S'atakas,* nor Bhatti, was a Buddhist. The *S'atakas* are not only not imbued with any of the characteristicthat ought to mark a Buddhistic work for the inculcation of moral principles (for which the *S'atakas* are intended), but even the alleged traces of Buddhism in them are so faint that one can confidently assert that the work is not the production of Buddhistie genius. Nor was Bhatti a follower of Buddha. He'glorifies in his epio, the *Bhatti kavya,* a hero whom Hinduism has idolised. A Buddhist would have chosen for his hero a co-religionist rather than a Hindu divinity. So the author of the *Vákyapadiya* was a distinet individual from either of the authors of the *Satakas* or the *Bhattikavya*, So the question to be determined now is— was Bhatti the same as the author of the *S'atakas*? And we think not. In the accounts of the lives of these two individuals there is too great difference to admit of the one being identified with the other. If we ignore the tradition that the two were one
-
-
 
  and the same individual, we find very little that is common to the life of the two. Bhartrhari was a *Kshatriya,* Bhaṭṭi a*Brahmana;* the former is connected with Central India and the latter seems from a passage in the *Bhatti Kavya* to have belonged to the court of Valabhi. From internal evidence offered by the *S'atakas* and the *Bhatti Kavya* we might say that they could not have been the productions of the same pen. The latter is, as is well known, a grammatical poet and the author shows a wonderful command in handling his words, and even from a grammatical point of view the poem can be said to be a perfect piece of composition. Of the *S'atakas* we cannot say the same. They confront us here and there with an uncouth form of word, and a clumsy construction[^8].This in itself is sufficient to awaken our suspicion, and reject all theories of identity. In their religion too they seem to be two different persons. Bhartrhari, though a professed unitarian as regards. Siva and Vishnu, now and then betrays his predilections towards the former deity[^9],while Bhatti is a devout worshipper of the latter. Another circumstance which leads to the same conclusion, is, as remarked by Mr. Govind Sankara S'astri Bápat (in his preface to his edition of the Bhatti Kávya, N. S. Press Series), that in ancient works, distinction is made of the quotations from the works of these two poets. In the absence of equally trustworthy evidence or convincing argument, the above circumstances are sufficient to dispel all ideas of the identity of these two poets.
 
@@ -142,8 +122,6 @@ THE IDENTITY[^7] OF BHARTṚHARI AND BHATTI.
 *THE TWO BHARTRHARIS.*
 
  Colebrooke seems to have made a distinction between the two Bhartrharis; for when speaking of *Bhattikávya* he says that its author was Bhartrhari and cautions his readers at the same time that this Bhartrhari was not the brother of Vikrama and author of the *S'atakas.* Evidently he must have been referring to the author of the Fályapadiya whom he identifies
-
-
 
  with Bhatti. We have already stated on Mr. Páthak's authority that the author of the *Vakyapadiya* was a Buddhist; and now we shall proceed to summarise Mr. Páthak's evidence in brief.
 
@@ -161,8 +139,6 @@ THE S'ATAKAS.
 1 Prof, Max Muller calculates this date as 850 A. D.  
 2 See *supra*, P. VI.
 
-
-
  captivate the hearts of men." In it the poet describes how men, how-so-ever strong-minded or learned they may be, fall victims to the shafts of Cupid or are caught into the snares of their wiles or amorous sports by women. The Śri. Sa., however, is written by the post with a view to create disgust for sensual pleasures in the hearts of men and as preparatory to the teachings of the Vairágya S'ataka,
 
 VEDANTIC OR BUDDHISTIC.
@@ -177,8 +153,6 @@ THEIR FATALISTIO TENDENCY.
 
  Some might be led to think that Satakas inculcate, at least countenance, fatalism. In a land where the doctrine of
 
-
-
  transmigration prevailed from the earliest times it was but natural that the conception of fate should have exerted its influence on moral poetry. And there is no wonder that Bhartrhari's mind, like all Indian minds, leaned toward fatalism. But his fatalism, like that of other writers, is not a fatalism of inaction-one that will paralyse all effort on the part of man. Side by side with fatalistic verses in the Satakas there are a number of others which impress the necessity of industry Bhexhorts his readers to put forth strenuous exertions and to persevere in their work till it is accomplished.
 
 THE TEACHINGS OF THE SATAKAS.
@@ -187,8 +161,6 @@ THE TEACHINGS OF THE SATAKAS.
 
 [^12]: %20The%20students%20find%20out%20the%20references " The students find out the references"
 
-
-
  hearts admiration and love for the sublime virtue of moral courage. He assigns to character the highest place among human virtaes as carrying with it a number of blessings. In the Vairágya Sataka the poet inculcates the principle of renunciation. He tells us to undermine desire, in verges which hold out the greed of worldly men to ridicule and the arrogance of the rich to contempt. He exhorts his readers to turn from worldly pleasures which give not lasting happiness but often disappoint, and to seek mental calm in the solitude of the forest. There, with all desires gone, his mindresting on God who is the only controller of the universe, and happy like a king an ascetic can attain final beatitude and get happiness which alone is permanent by being absorbed in the great Almighty. The poet often draws a glowing picture of the perfect happiness which men who have renounced the world enjoy.
 
 LITERARY ESTIMATE OF THE ŚATAKAS.
@@ -196,8 +168,6 @@ LITERARY ESTIMATE OF THE ŚATAKAS.
 Mr. Dutt says[^13] —"The reader will appreciate the opinion of Prof Lassen that it is the terse and epigramatic character of Bhartrhari's short poems which makes them conspicuous among the productions of the Indian muse; and the perfect art with which they are composed makes them worthy of being ranked among the master-pieces of Indian genius." The style is on the whole simple, but sometimes the meaning is obscure owing to an attempt at brevity at the sacrifice of perspicuity. Some of the shorter verses are written in a particularly graceful and forcible style which had endeared them to the general reader and assigned them a place on the tip of every tongue conversant with Sanskrt. The longer metres are on the whole free from long and parplexing compounds. In some cases there is one line, generally the last, which contains rather a long compound. This however Serves to give the style greater dignity which a tame ending could not do. True, there is not melody in the lines, but their artless and simple diction corresponds well with the subject, which, in both the *S'atakas,*embodied in this little volume, is moral and religious
 
 [^13]: History%20of%20Civilisation%20in%20ancient%20India,%20vol.%20II,%20p.%20294. "History of Civilisation in ancient India, vol. II, p. 294."
-
-
 
  instruction. The Slokas in both the Śatakas are embellished with figures of speech which are natural and of the simpler sort. To impress a prinsiple on the mind of the reader, Bhartrhari generally puts forth a wealth illustration, often drawn from nature, which is but seldom equalled; and his delineation of character is so varied, and so striking and his observation of natural phenomena so close that we must believe that he was a minute observer of the world. This minute observation, it may be presumed, has enabled him to discharge his self–imposed task of a didactic post with so much success, as is attested by the high popularity which he enjoys, and the unique position which he nolds in the history of Sanskrt literature.
 
@@ -220,13 +190,9 @@ FOURTH EDITION,
 
 —————
 
-
-
 CONTENTS
 
 ![](../books_images/U-IMG-1698045462Screenshot2023-10-23124653777777.png)
-
- 
 
 The Satakas treat of the following themes:—
 
@@ -263,8 +229,6 @@ Miscellaneous. 1—14.
 
 —————
 
-
-
 ॥ श्रीः ॥  
 अथ श्रीमद्भर्तृहरिविरचितं  
 नीतिशतकम्
@@ -293,10 +257,6 @@ Miscellaneous. 1—14.
 
   दिगिति—–दिग्दिशा । कालो भूतभविष्यद्वर्तमानलक्षणः। दिक्च कालश्च दिक्कालौ तावादी येषां तें दिक्कालादयः। आदिशब्देन गुणादयो ग्राह्याः। दिक्कालादिभरनवच्छिन्नमपरिमितम् । न विद्यते अन्तो यस्य तदनन्तम् चिदेव
 
-
-
-
-
  चिन्मात्रं मूर्तिर्यस्य तञ्चिन्मात्रमूर्ति केवलं ज्ञानस्वरूपम् । दिक्कालाद्यनवच्छिन्नं च तदनन्तं च चिन्मात्रमूर्ति च तस्मै। तथा च श्रुतिः–सत्यं ज्ञानमनन्तं ब्रह्म इति। स्वस्यानुभूतिः स्वानुभूतिरेव एकं मुख्यं मानं ब्रह्मणः परिनिष्ठितरूपत्वात्तदवगमे प्रमाणं यस्य तस्मै ।एके मुख्यान्यकेवलाः। इत्यमरः। शान्ताय। निष्कलं निष्क्रियं शान्तं निरवद्यं निरञ्जनमिति श्रुतेः। तेजसे परस्मै ज्योतिषे ब्रह्मणे नमः। तद्देवा ज्योतिषां ज्योतिः (उपासते) इति श्रुतेः। नमःस्वस्तीद्यादिना चतुर्थी। उक्तं च पञ्चदश्यां–देशकालान्यवस्तूनां कल्पितत्वाच्चमायया । न देशादिकृतोन्तोस्ति ब्रह्मानन्त्यं स्फुटं तथा ॥इति॥
 
  अस्मिञ्जगतीन्द्रियाणां चञ्चलप्रकृतिकत्वाददृष्टादिदोषाद्वा न कदाचित् कस्यचित्कस्याश्चिद्वा क्वचित्प्रीतिः स्थिरातो नरेण तथा वर्तितव्यं यथा मदनवशगो न भवेदिति दर्शयन्नाह—
@@ -309,8 +269,6 @@ Miscellaneous. 1—14.
 [^17]: "१ रक्तः २ परितुष्यति इ० पा०"
 
  कस्यापि निर्विष्णस्य विषयिण उक्तिरियम्। यां सततं सर्वकाले मम प्राणप्रियेति चिन्तयामि सा वस्तुतो मयि विरक्ता विरतानुरागा। अन्यं जनमुपपतिम्। अन्यस्यां सक्तः अन्यसक्तः। सर्वनाम्नो वृत्तिमात्रे पुंवद्भावः इति पूर्वपदस्य पुंद्भावः परिशुष्यति उत्ताम्यति। परितुष्यतीति पाठे मामुद्दिश्य संतोषमेतीत्यर्थः। अतः तां मत्प्रियां धिक्। धिक्शब्दयोगे द्वितीया। तस्या अभीष्टं जनं च धिक्। सर्वमिदं मदनकृतमिति तमपि धिक् इमां पुंश्चलीं च धिक्। अहमपि बहिराकाररमणीयतया स्त्रियैवं वश्चित इति मामपि धिक्।स्पष्टमन्यत् । च इमामित्यत्र–संहितैकपदे नित्या नित्या धातूपसर्गयोः। नित्या समासे वाक्ये तु सा विवक्षामपेक्षते॥ इति न सन्धिः कृतः। आलंकारिकाणां मते त्वत्र विसन्धिदोषः। वसन्ततिलका वृत्तम्। अत्रेयं किंवदन्ती श्रूयते—केनापि योगिना। ब्राह्मणेनेति क्वचित् । जरामृत्युराहित्यप्रापकं फलं भर्तृहरये दत्तम्। राजा तदात्मप्रियायै दत्तवान्। सा चान्यमनस्का तदात्मनो जाराय दत्तवती।
-
-
 
  तेनापि तत्कस्यैचित्स्वप्रणयिन्यै दत्तम्। तयापि सर्वेषां पालको नृप एव जरामरणराहित्यर्हतीति कृत्वा तत्पुना राज्ञे दत्तम्। तदृष्ट्वापरमं वैराग्यमापन्नो भर्तृहरिर्वनं जिगमिषुरिंदं शतकत्रयं रचयामासेति । एवं सत्यप्येतस्मिञ्शतकं नार्हति[^18] स्थानमेतत्पद्यम् । नीतिशास्त्रवित्कविः स्वयमेव स्वगृहच्छिद्रमेवं स्फुटीकुर्यादित्यपि न सम्भवतीत्यलं प्रासंगिकेन॥
 
@@ -338,8 +296,6 @@ Miscellaneous. 1—14.
 
  मकरो जलजन्तुभेदः। तस्य वक्त्रं तस्य दंष्ट्रे तयोरन्तरान्मध्यात्।प्रसह्य हठान्मणिमुद्धरेत्। उद्धर्तुमशक्यमपीत्यर्थः। अत्रोत्तरास्मिन्पद्ये च सर्वत्र शक्यार्ये विधिलिङ्।नर इति शेषः। ऊर्मीणं माला ऊ० लाः प्रचलन्त्यश्च ता ऊर्मि–
 
-
-
  मालाश्च प्रचलदूर्मिमालास्ताभिः। प्रचलन्तश्चते उर्मयश्च तेषां मालाभिरिति वा। आकुलस्तम् दुस्तरमपीत्यर्थः। संतरेत् बाहुभ्यां वा प्लवसाधनेन वा। कोपितं कोपोस्य संजातः तं सञ्जातकोपम्। तारकादेराकृतिगणत्वादितच् यद्वा कोपं प्रापितम् । पुष्पेण तुल्यं पुष्पवत्पुष्पुस्त्रजमिव। तेन तुल्यं क्रियाचेद्वतिः इति वतिप्रत्ययः। किंतु प्रतिनिविष्टं सति असति वा वस्तुनि जाताभिनिवेशम् । दुराग्रहाविष्टमित्यर्थः मूर्खजनस्य चित्तम्। प्रतिनिविष्टश्चासौ मूर्खजनश्च तस्य चित्तमिति वा । नाराधयेत्। सर्वेषां साधनानां प्रतिहतत्वात् । अत्र मण्युद्धरणाद्यसम्बन्धेपि तत्सम्बन्धाभिधानादतिशयोक्तिरलंकारः। पृथ्वी वृत्तम् ॥
 
   अधुना घटितघटनमपि संभवेन्न तु मूर्खचित्ताराधनमित्याह—
@@ -352,8 +308,6 @@ Miscellaneous. 1—14.
   यत्नतः प्रयासात्। पञ्चम्यास्तसिः। पीढयन्नद्भुतयन्त्रादिना। सिकतासु बालुकासु। तैलं तिलस्य तत्सदृशस्य वा विकारः। विकारार्थे अण्। लभेत लब्धुं शक्नुयात्। कश्चिदिति शेषः। पातुमिच्छा पिपासा । पा पाने इत्यस्माद्धातोः सन्नन्तास्त्रियामप्रत्यये टाप् । तया अर्दितः पीडितः। मृगाणां तृष्णाऽस्यां मृगतृष्णा सा एव मृगतृष्णिका। अत्र स्वार्थे कप्रत्यये प्रत्ययस्थात्कात्पूर्वस्यात् इदाप्यसुपः इतीकारः। केवलं जलभ्रमदायिनीष्वपि। मृगतृष्णिकासु मरीचिकासु। सलिलं जलम्। कदाचिदनुकूलवेलायां पर्यटन् तत्र तत्र भूप्रदेशे चरन्। शशस्य शृङ्गमपि आसादयितुं लब्धुं शक्नुयात्। पूर्ववदतिशयोक्त्यलङ्कारः। वृतं पृथ्वी। अत्र प्रथमद्वितीयचतुर्थपादेषु सिकतासु तैलमित्यादौ अष्टमवर्णे इष्टस्य विच्छेदस्याभावाद् यतिभ्रष्टनामा दोषः। तदुक्तं विद्यानाथेन। यंत्र स्थाने यतित्रंशस्तद्यतिभ्रष्टमुच्यते। अत्र केचित् सिकतानां सुतैलंसिकतासु तैलमेवं मृगतृष्णिकासु सलिलमित्येकं पदं वाञ्छन्ति। वृत्तं पृथ्वी॥
 
   अथाज्ञानोपहृतानां खलानां मधुरवचनैरनुनयने प्रयत्नोत्यन्तं हास्यास्पदमेवेत्याह—
-
-
 
 **व्यालं बाणमृणालतन्तुभिरसौ रोद्धुंसमुज्जृम्भते  
 छेत्तुं[^22] वज्रमणीञ्शिरीषकुसुमप्रान्तेन संनह्यते ।  
@@ -372,8 +326,6 @@ Miscellaneous. 1—14.
 [^24]: "३ हितं."
 
  स्वस्यायत्तं स्वायत्तं स्वाधीनं न त्वन्यापेक्षम् । एक एवान्तो यस्य स एकान्तः। एकान्तो गुणो यस्य तत्। एतादृग् अइतायाः। छाद्यतेऽनेनेति छादनम्। करणाधिकरणयोश्च (पा. ३. ३. ११७) इति करणे ल्युट्।विधात्रा निर्मितम्। किं तदित्यपेक्षायामाह—मौनमिति। कथंभूतं विशेषतः सर्वं विदन्तीति सर्वविदस्तेषां समाजे अपण्डितानां भूषणम् । पण्डा सदसद्विवेकबुद्धिः। पण्डा एषां सजाता इति पण्डिताः। तदस्य सञ्जातमिति तारकादिभ्य इतच्। (पा. ७. २. ३६) इति इतच्प्रत्ययः। न पण्डिता अपण्डितास्तेषाम् । अतः सर्वत्र विशेषतः पण्डितसभामु अज्ञैमौंनमाश्रित्य वर्तितव्यमिति भावः। उपजातिच्छन्दः ॥
-
-
 
  अथाल्पज्ञेन दृप्तेन न भाव्यं सति विशेषज्ञाने दर्पः सद्य एवापोह्यते इति दर्शयितुं कस्यचिदनुभवमाह॥
 
@@ -403,8 +355,6 @@ Miscellaneous. 1—14.
 
  कृमीणां कुलैः समूहैः चितं व्याप्तम्।बिगन्धि विस्रगन्धि । विशब्दस्य पूतिपर्यायत्वे**'**गन्धस्येदुत्पूति..**.’** (५. ४. १३५ ) इत्यादिना इकारान्तादेशः। यद्वा वि विरुद्धः गन्धो विगन्धः सोस्यास्तीति विगन्धि । जुगुप्सितं उद्वेगकरं निरामिषं निर्मांसं नरास्थि। लालया सृणिक्या क्लिन्नमार्द्रम् । निरुपमो रसो यस्मिन्कर्मणि तद्यथा तथा। रसप्रीत्येति पाठे प्रीतिः रसप्रीतिः। निर्गता उपमा यस्याः सा निरुपमा। निरुपमा या रसप्रीतिः तया। खादन् पार्श्वस्थं निकटस्थामिन्द्रमपि विलोक्य न शङ्कते लज्जते। तत्कर्म न जहाति। परिग्रहस्य स्वीकृतवस्तुनः फल्गुतां तुच्छत्वं न गणयति मनसि करोतीत्यर्थः। अत्राप्रस्तुतश्ववृत्तकथनात्प्रस्तुतमूर्खजनवृत्तेः प्रतीत्या अप्रस्तुतप्रशंसालङ्कारः। अर्थान्तरन्यासश्चेत्युभयोः सङ्करः।हरिणीवृत्तम् ॥
 
-
-
 शिरः शार्वं स्वर्गात्पशुप[^30]तिशिरस्तः क्षितिधरं  
 महीध्रादुत्तुङ्कादवनिमवनैश्चापि जलधिम् ।  
 अधोधो[^31] गङ्गेयं पदमुपगता स्तोकमथवा  
@@ -433,8 +383,6 @@ Miscellaneous. 1—14.
 तृणं न खादन्नपि जीवमानस्तद्भागधेयं परमं पशूनाम् ॥१२॥**
 
  साहित्यं च सङ्गीतं च कलाश्च ताभिर्विहीनः। गीतं वाद्यं नर्तनं च त्रिभिसङ्गीतमुच्यते। यद्वा संगीतस्य कला संगीतकला ।साहित्यं च संगीतकला च
-
-
 
  ताभ्यां विहीनः। विषाणं शृङ्गं । जीवमानः जीवतीति तच्छीलः। ताच्छील्यवयोचचनशक्तिषु चानश् । वृत्तमुपजातिः। अलङ्कारो रूपकभेदः ॥
 
@@ -467,8 +415,6 @@ Miscellaneous. 1—14.
 
  अय विद्याधनैः का स्पर्धा ते हि नम्रत्वेन गौरवेण च बहु माननीया इति प्रतिपादयन् नृपान् संबोधयति—
 
-
-
 **हर्तुर्याति न गोचरं किमपि शं पुष्णाति यत्सर्वदा  
 ह्यर्थिभ्यः प्रतिपाद्यमानमनिशं प्राप्नोति[^39] वृद्धिं पराम् ।  
 कल्पान्तेष्वपि न प्रयाति निधनं विद्याख्यमन्तर्धनं  
@@ -498,8 +444,6 @@ Miscellaneous. 1—14.
 
 [^41]: "३ विहार."
 
-
-
  नितरामत्यन्तं कुपितो विधाता हंसस्य । अम्भोजिनीनां वनमम्भोजिनीवनं तत्र निवास एव विलासस्तमपहन्ति । न त्वसौ अस्य हंसस्य दुग्धं च जलं च दुग्धजले तयोर्भेदविधौ भेदविषये प्रसिद्धां। वैदग्ध्येन जनिता कीर्तिः वैदग्ध्यकीर्तिस्तामपहर्तुं समर्थः। एवं कुपितो राजा विदुषः स्वविषयाद्विवासयेत्केवलं न तुतेषामनेक- विद्यापरिशलिनोत्पन्नचातुरीकीर्तिहरणे प्रभवेदिति भावः। वसन्ततिलका छन्दः॥
 
 **केयूरा न[^42]विभूषयन्ति पुरुषं हारा न चन्द्रोज्ज्वला  
@@ -525,8 +469,6 @@ Miscellaneous. 1—14.
  रूपं स्वाभाविकमाकारसौष्ठवम् तदुक्तं भावप्रकाशे–अवेध्यारोप्यविक्षेप्यबन्धनीयैरभूषितम्। यद्भूषितमिवाभाति तद्रूपमिति कथ्यते॥ इति। विद्या नाम। नाम प्राकाश्ये अभ्युपगमे वा। अधिकं श्रेष्टम्। उक्तलक्षणादधिकं लोकरजकत्वात्। प्रच्छन्नं यथा तथा गुप्तं रक्षितं धनम्। भोगान्करोतीति भोगकरी।यशश्च सुखश्च यशःसुखे ते करोतीति। उभयत्र कृञोहेतुताच्छील्यानुलोम्येषु (३.२.२०) इति टः टित्वान्डीप् च। गुरूणामुपदेष्टृणामपि उपदेष्ट्रृत्वाद्वरुःयद्वा श्रेष्ठानामपि श्रेष्ठा। यद्वा गृणाति हितमुपदिशतीति
 
 व्युत्प..। गुरुर्हिततमा। अत्र विद्याया रूपधनाद्याकारेण बहुधा निरूपणान्मालारूपकमलंकारः। वृत्तं पूर्वोक्तम् ॥
-
-
 
 क्षान्तिश्चेत्कवचेन किं किमरिभिः क्रोधोस्ति चेद्दोहिनां  
 ज्ञातिश्चेदनलेन किं यदि सुहृद्दिव्यौषधैः किं फलम् ।  
@@ -557,8 +499,6 @@ Miscellaneous. 1—14.
 जाड्यं धियो हरति सिञ्चति वाचि सत्यं  
 मानोन्नतिं दिशति पापमपाकरोति।
 
-
-
 चेतः प्रसादयति दिक्षु तनोति कीर्तिंं  
 सत्संगतिः[^50] कथय कीं न करोति पुंसाम् ॥२३॥
 
@@ -586,8 +526,6 @@ Miscellaneous. 1—14.
 काले शक्त्या प्रदानं युवतिजनकथा मूकभावः परेषाम् ।  
 तृष्णास्त्रोतोविभङ्गो गुरुषु च विनयः सर्वभूतानुकम्पा  
 सामान्यः सर्वशास्त्रेष्वनुपहतविधिः श्रेयसामेष पन्थाः॥२६॥
-
-
 
  प्राणानामाघातस्तस्मात्। संयमः मनसो नियमनम्। युवतीनां जनः युवतिजनः। परेषां युवतिजनस्य कथाः तासु मूकभावः। तृष्णायाः स्रोतः प्रवाहः तस्य विभङ्गः। न उपहृतः अनुपहृतः अनुपहतः विधिर्यस्य। स्रग्धरावृत्तम्॥
 
@@ -626,8 +564,6 @@ Miscellaneous. 1—14.
 
  क्षुषा क्षामः क्षीणः क्षुत्क्षामः। क्षायो मः इति मत्वम्। जरया कृशः जराकृशोपि। शिथिलप्रायः बाहुल्येन विश्वथाङ्गोपि प्रायो बाहुल्यतुल्ययोः इति मेदिनी। कष्टां कठिनामवस्था प्राप्तोपि। विपन्नादीधितिः तेजः यस्य। नष्ट—
 
-
-
  कान्तिरपीत्यर्थः। इभेषु इन्द्र इव इभेन्द्रः।मत्तश्वासौ इभेन्द्रश्चमत्ते०। विभिन्नौ च तौ कुम्भौ च विभि०। मत्तेभेन्द्रस्य विभिन्नकुम्भौ तयोः कवलः। पिशितेति पाठे तत्र यत्पिशितं मांस।तस्य ग्रासः मत्ते० ग्रासः। स एव एकस्तस्मिन्बद्धा स्पृहा येन सः। तथा च मानेन महान्त उन्नतास्तेषाम्। अग्रे सरतीत्यग्रसरः। पुरोग्रतोग्रेषु सर्तेः (३. २. १८) इति टप्रत्ययः। स केसरी शुष्कतृणमात्ति किम्। नैवात्तीत्यर्थः। अप्रस्तुतप्रशंसालङ्कारः शार्दूलविक्रीडितं वृत्तम्।
 
  अथ सर्वेषां सत्त्वानुरूपैव प्रवृत्तिरित्याह—
@@ -663,8 +599,6 @@ Miscellaneous. 1—14.
 
  परिवर्तिनि धर्माधर्मवशात्परिवर्तमाने । को वा मृतः सन् न जायते उत्पन्नो ।
 
-
-
  भवति। यद्वा को वा न मृतः को वा न जायते। सर्वोप्युत्पद्यते म्रियते च। तथा च भगवद्वचनं–जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च। इति । स एव परमार्थतो जात इत्यर्थः।
 
  अथ मानोन्नतस्य वर्तनक्रममाह—
@@ -693,8 +627,6 @@ Miscellaneous. 1—14.
 [^66]: "५ शीर्षावशेषाकृतिः,"
 
  अन्ये वक्ष्यमाणा दिवाकरनिशाकराभ्यामित्यर्थः। सम्भाविता बहुमताः। पञ्च बा षड् वा पञ्चषाः। संख्ययाव्यया—(२.२. २५) इत्यादिना बहुव्रीहिः। बहुव्रीहौ संख्येये डजबहुगणात् (५. ४. ७३) इति समासान्तो डच्प्रत्ययः। विशेषेषु तेजोगरिष्ठेषु विक्रमे रुचिर्यस्य सः। वैरायते कलहं करोति। शब्दवैरकलहाभ्रकण्वमेधेभ्यः करणे (३. १. १७) इति क्यङ्। अकृत्सार्वधातुक–योदीर्घः(७. ४. २५) इति दीर्घः। किंतु हे भ्रातरित्यादरे। स पूर्वोक्तः। शीर्षमवशेषो यस्य स शीर्षावशेषः। शीर्षा० अशीर्षावशेषः। अशी षः शर्षािवशेषः सम्पद्यमानः कृतः शीर्षा०कृतः। शीर्षावशेषाकृतिरितिपाठे शीर्षमेवावशेषो यस्यास्तादृशी आकृतिर्यस्येत्यर्थः। शिरोमात्रावशिष्टोपीत्यर्थः। दानवपतिः राहुः। पर्वणि दर्शेपूर्णिमायां च सूर्यंनिशापतिं च ग्रसते। यतस्तौ भास्वरौ। अङ्गवैकल्ययुक्तोपि महान्महत्कार्यं कर्तुमेव व्यवस्यतीत्यर्थः। शार्दूलविक्रीडितं वृत्तम् ॥
-
-
 
  अथ महतां चरित्रमाहात्म्यमाह—
 
@@ -725,8 +657,6 @@ Miscellaneous. 1—14.
 [^72]: "६ भर्तुः"
 
  तुषाराद्रेः हिमाचलस्य सूनोः मैनाकस्य।उद्गच्छन् यो बहलः दहनस्य उद्गारो निःसरणं तेन गुरुभिः दुःसहैः। मदेन सहितः समदः यो मघवांस्तेन विमुक्तस्य कुलिशस्य वज्रस्य प्रहारैः। पक्षच्छेदः वरम्। न तु पितरि क्लेशेन पक्षच्छेदजनितदुःखेन विवशे विह्वले सति। असौ सम्पात उचितः योग्यः। अत्रोद्गारशब्दस्य गौणत्वान्न ग्राम्यतादोषः। प्रत्युत सौन्दर्यातिशयं पुष्णाति। तदुक्तं दण्डिना–निष्ठ्यूतोद्गीर्णवान्तादि गौणवृत्तिव्यपाश्रयम् ।अतिसुन्दरमन्यत्र ग्राम्यकक्षा विगाहते॥ इति। पुरा किल-हिरण्याक्षमायया लब्धपक्षाणां स्वस्थानं विहाय लोकोपद्रवाय प्रवृत्तानां पर्वतानां कोपवशात्पक्षच्छेदोद्यत इन्द्रे मैनाकः समुद्रमध्ये निलीयातिष्ठदिति पौराणिकी कथात्रानुसंधेया ॥
-
-
 
  मानी पुरुषः पुरकृतं निकारं न सहेतेति सदृष्टान्तमाह—
 
@@ -759,8 +689,6 @@ Miscellaneous. 1—14.
 
 वैरिणि सत्यांपराभूतौ संक्षोभकारित्वाच्छत्रुभूते। वयं केवलमर्थमेव साधयाम इत्यर्थः। ननु उक्तगुणानां प्रध्वंसेनापि किमित्यर्थलाभइप्यते इति चेत् येनेति। तृणलवप्रायास्तृणलवतुल्याः। तद्वल्लघव इत्यर्थः। तदुक्तं रामायणे–धनमर्जंय काकुत्स्थ धनमूलमिदं जगत्। अन्तरं नाभिजानामि निर्धनस्य मृतस्य च ॥इति॥
 
-
-
 **तानीन्द्रियाणि सकलानि तदेव कर्म  
 सा बुद्धिरप्रतिहता वचनं तदेव ।  
 अर्थोष्मणा विरहितः पुरुषः स एव  
@@ -787,8 +715,6 @@ Miscellaneous. 1—14.
 
  दुष्टो मन्त्रः षाड्गुण्यचिन्तालक्षमःयस्य स दुर्मंन्त्रः। दुष्टा मन्त्रिणो यस्य इति वा तस्य भावो दौर्मन्त्र्यं। तस्मात्। विनश्यति। परै राज्याद्यपहरणात्। तदुक्तं—दुर्मन्त्री राज्यनाशायेति यतिः सङ्गात्। तस्य कामक्रोधादिहेतुत्वात्।
 
-
-
  सङ्गात्संजायते कामः कामात्कोधोभिजायते। इत्यादिगीतावचनात्। लालनात् यत उक्तम्—लालनाद्बहवो दोषास्ताडनाद्बहवो गुणाः। तस्मात्पुत्रं च शिष्यं च ताडयेन्न तु लालयेत् ॥ अनध्ययनाद्यतो विप्रत्वं विद्यानिबन्धनम्। तदुत्कं—जन्मना ब्राह्मणो ज्ञेयः संस्कारैर्द्विज उच्यते। विद्यया याति विप्रत्वं त्रिभिः श्रोत्रिय उच्यते॥ इति। कुत्सितस्तनमः कुतनयः। तदुत्कं—कोटरान्तर्भवो बह्निस्तरुमेकं दहिष्यति। कुपुत्रस्तु कुले जातः स्वकुलं नाशयेत्परम्॥ मद्यान्मय- सेवनात्। अनवेक्षणादपरामर्शनात्। अप्रणयादननुरागप्रदर्शनात्। अनयादनीत्याश्रयणेन त्यागे व्यये प्रमादादनवधानतया।शार्दूलवि० छन्दः।
 
 **दानं भोगो नाशस्तिस्रो गतयो भवंति वित्तस्य ।  
@@ -814,8 +740,6 @@ Miscellaneous. 1—14.
 [^81]: "५ नृपाः नराः"
 
  शाणः शस्त्रनिशातनसाधनोपलविशेषः तस्मिन्नुल्लीढः। तत्र घर्षणेनोत्तेजित इत्यर्थः। हेतिः शस्त्रम्। हेतिभिर्निहतः क्षतः । मदन दानस्रवणेन नागो गजः। आश्यानमीषच्छुकम्। संयोगादेरातो घातोर्यण्वतः (८–२–४३) इति निष्ठानत्वम्। पुन यस्याः सा। कलाशेषः षोडशांशमात्रावशिष्टः कला तु षोडशो भागः इत्यमरः। स च देवतादिभिः पीतशेषत्वाच्छोभते। तदुक्तं कालिदासेन–पर्यापीतस्य सुरैर्हिमांशोः कलाक्षयः श्लाध्यतरो हि वृद्धः। मृदिता लुलितेत्यर्थः। बालवनिता मुग्धाङ्गना। गलितः व्ययं प्रापितः विभवो येषाम्।तनिम्ना कार्श्येन।पृथ्वादित्वादिममिच्। अत्र प्रस्तुतानां जनानाम—
-
-
 
  प्रस्तुतानां च मण्यादीनां शोभारूपधर्मस्य सकृदुपादानाद्दीपकमलङ्कारः शिखरिणी वृत्तम् ॥
 
@@ -844,8 +768,6 @@ Miscellaneous. 1—14.
 [^85]: "४ फलैः"
 
  क्षितिर्धेनुरिवेत्युपमितसमासः। न तु क्षितिरेव घेनुरिति रूपकम्। वत्समिवेत्युपमालिङ्गगत् । तां दुधुक्षसि यदि दोग्धुमिच्छसि चेत्। दुहेः सन्नन्तात्सिच् वत्सं तर्णकमिव । परिपोष्यमणि परिपाल्यमाने इत्यर्थः। नानाफलं धनधान्यादिकम्। फलति निष्पादयति। वसन्ततिलका वृत्तम् ॥
-
-
 
  अधुना प्रसङ्गतो राजनीतेः स्वरूपवैविष्यमाह—
 
@@ -878,8 +800,6 @@ Miscellaneous. 1—14.
 [^89]: "४ नियतम्."
 
  निजभालमेव पस्तस्मिन् लिखितम्। स्तोकमल्पम्। मरुस्थलेपि उपरभूमा
-
-
 
  वपि नितरांसाकल्येन। मेरुः कनकाचलस्तत्रापि कृपणां दीनाम्। मा कृथा मा कुरु। अधिकधनप्राप्तेरसंभवादिति भावः। कृञो लुङि थास् । तनादित्वेपि सिचो नित्यलोपावधानान्न सिच्। न माड्योगे इति अट्प्रतिषेधः। अत्र दृष्टान्तमाह कूप इति । शार्दूल०वृत्तम् ॥
 
@@ -915,8 +835,6 @@ Miscellaneous. 1—14.
 प्रकृतिसिद्धमिदं हि दुरात्मनाम् ॥५२॥**
 
  अविद्यमानं कारणं यस्यासौ अकारणः। अकारणश्चासौ विग्रहश्व अकारणविग्रहः निष्कारणकलहः। परस्य योषित् तस्याम्। असहिष्णुता असहनशीलत्वम्। प्रकृतिसिद्धं स्वभावोत्पन्नम्। द्रुतविलम्बितं वृत्तम्॥
-
-
 
  विद्यादिगुणसम्पन्नोपि दुर्जनस्त्याज्यः किमु वक्तव्यं गुणाविहीन इति सदृष्टान्तमाह—
 
@@ -961,8 +879,6 @@ Miscellaneous. 1—14.
 
  अगुणेन दुर्गुणेन किम्।न किमपीत्यर्थः। तस्य सर्वदुर्गुणानां मूलत्वात् । तदुक्तं
 
-
-
  लोभमूलानि पापानीति। उक्तं च भागवते–यशो यशस्विनां शुद्धं श्लाघ्या ये गुणिनां गुणाः। लोभः स्वल्पोपि तान्हन्ति विश्वं रूपमिवेप्सितम् ॥ पिशुनता दौर्जन्यम्। सत्यं चेदिति। यतः सत्यमेव परो धर्मः। तथा च श्रुतिः—सत्ये सर्वे प्रतिष्ठितं तस्मात्सत्यं परमं वदन्ति। इति। मौनात्सत्यं विशिष्यते इति मनुरपि । शुचि मन इति। मनःशुद्धताया मोक्षहेतुत्वात्। स्मर्यते च—यः खात्मतीर्थेभजते विनिष्क्रियः स सर्ववित्सर्वंगतोऽमृतो भवेत् ॥ इति। किं मृत्युनेति। तदुक्तं भगवद्गीतायां—संभावितस्य चाकीर्तिमेरणादतिरिच्यते। इति। शार्दूल० वृत्तम्॥
 
  कदा कान्युद्वेगकारीणीत्याह—
@@ -994,8 +910,6 @@ Miscellaneous. 1—14.
 
 [^106]: "४ वसतिच तदा दूरतश्रा"
 
-
-
 क्षान्त्या भीरुर्यदि न सहते प्रायशो नाभिजातः  
 सेवाधर्मः परमगहनो योगिनामप्यगम्यः ॥५८॥
 
@@ -1024,8 +938,6 @@ Miscellaneous. 1—14.
 छायेव मैत्री खलसज्जनानाम् ॥६०॥**
 
  आरम्भे गुर्वी गुरुः। वृद्धेत्यर्थः। लघ्वीह्रस्वा। एवं खलस्य मैत्री प्रथमं गुर्वीं पश्चात्क्षयिणी भवति सुजनस्य तु तद्विपरीता यथासंख्यसंकीर्णोपमालंकारः। वृत्तमुपजातिः।
-
-
 
  अधुना दुर्जनानां निष्कारणवैरित्वं प्रतिपादयन्नुपसंहरति—
 
@@ -1068,8 +980,6 @@ Miscellaneous. 1—14.
 
  धैर्य **'मनसो निर्विकारत्वं धैर्येसत्स्वपि हेतुषु'** इत्युक्तलक्षणम्। वाक्पटुता वाक्चातुर्यम्। इदं—नपुंसकमनपुंसकेन इत्यादिना नपुंसकैकशेषः। महात्मनां महानुभावानाम्। प्रकृत्या स्वभावतः सिद्धम्। द्रुतविलम्बितं वृत्तम्॥
 
-
-
   अथैषामन्यदुःसाध्यं सदाचारप्रकारमाह—
 
 **प्रदानं प्रच्छन्नं गृहमुपगते संभ्रमविधिः  
@@ -1102,8 +1012,6 @@ Miscellaneous. 1—14.
 आपत्सु च महाशैलशिलासंघातकर्कशम् ॥६६॥**
 
   उत्पलवत्कोमलम्। महांश्चासौ शैलश्च तस्य शिलानां संघातस्तद्वत्कर्कशं कठिणम्। शैलशिलावद्धैर्याध्वंसेनाभेद्यमित्यर्थः। उपमालंकारः ।
-
-
 
  अथाधममध्यमोत्तमगुणावाप्तिप्रकारमाह—
 
@@ -1152,8 +1060,6 @@ Miscellaneous. 1—14.
 
 [^131]: "११ दूष्नयन्तः समन्तात् दुर्जनान्दुः खयन्तः."
 
-
-
  उन्नमन्तः उन्नतिं प्राप्नुवन्तः। परेषां गुणास्तेषां कथनैर्वर्णनैः। ख्यापयन्तःप्रकटयन्तः। न त्वात्मश्लाघया ।अतिशयेन पृथवः पृथुतराः।आरभ्यन्ते इति आरम्भाः कार्याणि। पृथुतराश्चते आरम्भाश्चपृथु० म्भाः। विततः पृथुतरारम्भेषु यत्नो यैर्येषां वा ते तथा। विततौ पृथुतरावारम्भयत्नौ येषां ते इति केचित्। आक्षेपस्य निन्दाया आक्षेपेण वा यानि रूक्षाण्यक्षराणि तैर्मुखराणि वाचालानि मुखानि येषां तान्। आश्चर्येण सहिता साश्चर्यासाश्चर्याचर्या आचरणं येषां ते। नाभ्यर्चनीया इति काकुः। सर्वेषामेव पूजनीया इत्यर्थः।खग्धरा वृत्तम् ।  
  अथ परोपकारपद्धतिः—
 
@@ -1187,8 +1093,6 @@ Miscellaneous. 1—14.
 सन्मित्रलक्षणमिदं प्रवदन्ति सन्तः ॥७२॥
 
  पापाद्दुष्कर्मप्रवृत्तर्निवारयति धर्माचरणोपदेशेनेति शेषः। वारणार्थीनामीप्सितः
-
-
 
 १. ४.२७) इति पञ्चमी। हिताय सत्कर्माचरणाय प्रवर्तयति। गुह्यं गोप्यम्। आपदं गत आपद्गतस्तम्। वसन्ततिलका वृत्तम्॥  
  अधुना सतां स्वभावत एव परहिते प्रवृत्तिरित्याह—
@@ -1230,8 +1134,6 @@ Miscellaneous. 1—14.
 
 [^142]: "८ ह्यात्मा."
 
-
-
 गन्तुं पावकमुन्मनस्तद्भवद् दृष्टा तु मित्रापदं  
 युक्तं तेन जलेन शाम्यति सतां मैत्री पुनस्त्वीदृशी ॥७५॥
 
@@ -1262,8 +1164,6 @@ Miscellaneous. 1—14.
 [^147]: "४ चेष्टितम्"
 
  छिन्धि वैराग्यशस्त्रेणेति भावः सति क्रोधादिकारणे चित्तस्य निराकुलत्वंं क्षमान्ताम्। सेवस्व बुद्धिविकासार्थमिति भावः तदुक्तं–यस्तु पर्यटते देशान्यस्तु सेवेत पण्डितान्।तस्य विस्तारिता बुद्धिस्तैलबिन्दुरिवाम्भसि ॥ मान्यान्पूज्या–
-
-
 
  न्मानय पूजय। अन्यथा महती हानिः स्यात्। उक्तं च।अपूज्या यत्र पूज्यन्ते पूज्याश्चैवावमानिताः।अयशो महदाप्नोति धनाद्धर्माच्च हीयते॥ प्रख्यापय प्रश्रयभितिपाठे गुर्वादिषु नम्रत्वं प्रकटयेत्यर्थः। दुःखमस्य संजातमसौ दुःखितस्तस्मिन्। तारकादित्वादितच्। शार्दूल०वृत्तम् ॥
 
@@ -1296,8 +1196,6 @@ Miscellaneous. 1—14.
 
 [^150]: "३ महार्घैः."
 
-
-
  अथ धैर्यपद्धतिः–
 
  रत्नैः कौस्तुभादिभिः। यद्वा जातौ जातौ यदुत्कृष्टं तद्रत्नमिति कथ्यते। इति वच्नादैरावतोचैःश्रवःकल्पवृक्षादिभिः श्रेष्टवस्तुभिः । तुतुषुः।मन्थनसमये इति शेषः। भीमविषेण कालकूटाख्येन।विरामं मथनादिति शेषः। निश्चयार्थात्प्रतिज्ञातार्थात्। न विरमन्ति इष्टफलप्रातिं यावत्प्रयतन्ते इत्यर्थः।जुगुप्साविरामप्रमादार्थानामुपसंख्यानम्। इति पञ्चमी। व्याङ्परिभ्यो रमः। इति परस्मैपदम्। अर्थान्तरन्यासोलंकारः। वृत्तमुपजातिः ॥
@@ -1325,8 +1223,6 @@ Miscellaneous. 1—14.
 [^153]: "३ निष्कामता."
 
  वाक्संयमःन तु असम्बद्धत्रलापः। उपशमो विषयेच्छानिवृत्तिः शान्तिर्वा ।
-
-
 
  अक्रोधः समाहितचित्तत्वम्। प्रसज्यप्रतिषेधेपि नञ्समासः क्वचिदिष्टः। निर्व्याजता निष्कापटयम्शार्दूल० वृत्तम् ॥
 
@@ -1365,9 +1261,6 @@ Miscellaneous. 1—14.
 
  यस्य चित्तं कान्तायाः कटाक्षा अपाङ्गवीक्षितानि एव विशिखा बाणा न लुनन्ति । भिन्दन्तीत्यर्थः। कोप एव कृशानुरग्निस्तस्य तापः न निर्दहति। भूरयो विषया लोभा एव पाशास्तैः न कर्षन्ति स्वायत्तं कुर्वन्तीत्यर्थः। जयति स्वाधी. नतां नयति। वसन्ततिलका वृत्तम् ॥  
 
-
-
-
 पातितोपि कराछातैरुत्पत्तत्येव कन्दुकः।  
 प्रायेण साधु[^158]वृत्तानामस्थायिन्यो विपत्तयः ॥८६॥
 
@@ -1402,8 +1295,6 @@ Miscellaneous. 1—14.
 
  यस्त्र पुरुषश्रेष्ठस्याङ्गे अखिललोकानां बल्लभतममिष्टतमं शीलं समुल्लसति तस्य। वह्निः दाहशीलोपि जलायते जलवदाचरति। शीतो भवतीत्यर्थः। कर्तुः क्यङ् सलोपश्च (३–१–११) इत्याचारार्थे क्यङ्।अकृत्सार्वधातुकयोरिति दीर्घः। एवं सर्वत्र।जलनिधिर्दुस्तरोपि अल्पनदीवद्भवति। कुल्याल्पाकृत्रिमा सरितू इत्यमरः। भेरुर्दुरारोहोपि। व्यालः सर्पस्तीत्रविषभीषणोपि। माल्यगुणः पुष्पस्रक्।स इवाचरति। पीयूवस्थामृतस्य वर्षो वर्षणं तद्वदाचरति। अत्र वृञर्थादौपम्यप्रततेरुपमालंकारः ।शार्दूरवि० वृत्तम्॥
 
-
-
  धीराणां न कदाचिदपि संतापो जायते इत्याह—
 
 छिन्नोपि रोहति तरुः क्षीणोप्युप[^164]चीयते पुनश्चन्द्रः ।  
@@ -1413,9 +1304,9 @@ Miscellaneous. 1—14.
 
 [^165]: "२ ते विपदा"
 
- क्षीणः कृष्णपक्षे क्रमशः कलाहीनोपि उपचीयते वर्धते। लोके इति विमृशन्तो विचारयन्तः सन्तः विप्लुता आपदभिभूता अपि। आर्या छन्दः॥
-
 [^166]: %C2%A0अस्मात्परमयं%20श्लोकः%20पुस्तकान्तरे—अपेक्षन्ते%20न%20पात्राणि%20न%20स्नेहं%20न%20दशान्तरम्।%20सदालोकहिता%20रक्ता%20रक्तदीपा%20इवोत्तमाः। "अस्मात्परमयं श्लोकः पुस्तकान्तरे—अपेक्षन्ते न पात्राणि न स्नेहं न दशान्तरम्। सदालोकहिता रक्ता रक्तदीपा इवोत्तमाः।"
+
+ क्षीणः कृष्णपक्षे क्रमशः कलाहीनोपि उपचीयते वर्धते। लोके इति विमृशन्तो विचारयन्तः सन्तः विप्लुता आपदभिभूता अपि। आर्या छन्दः॥
 
  अथ दैवपद्धतिः—
 
@@ -1451,8 +1342,6 @@ Miscellaneous. 1—14.
 
 कार्यायत्तं फलं पुंसां बुद्धिः कर्मानुसारिणी ।  
 तथापि सुधिया भाव्यं सुविचार्यैव कुर्वता ॥१२॥
-
-
 
  कर्मायत्तं कर्माधीनम्। अधीनो निम्न आयत्तः इत्यमरः।सुविचार्य कुर्वता उद्योगपरेणैव भाव्यम् । अनुष्टुप् छन्दः॥
 
@@ -1498,8 +1387,6 @@ Miscellaneous. 1—14.
 विरहयाति न चैनं राजयक्ष्मा शशाङ्कं  
 हतविधिपरिपाकः केन वा लङ्घनीयः ॥९६॥
 
-
-
  अयं दृश्यमानः चन्द्रः।अमृतस्य निधानं निधिरपि । ओषधीनां संजीवन्यादीनां नायकोपि। शतभिषक् शततारकानक्षत्रपुञ्जस्तेन। पक्षे शतं भिषजो वैद्यास्तैः। न केवलमेतत्—शम्भोः सर्वलोकसुखकरस्य शंकरस्य मूर्ध्नः अवतंसः शिरोभूषणम्। राजा चासौ यक्ष्मा च। अत्र बाहटः—अनेकरोगानुगतो बहुरोगपुरोगमः।राजयक्ष्मा क्षयोऽशेषरोगराडिति च स्मृतः॥ न विरहयति न त्यजति। हतविधेः दैवहतकस्य । केन वा लंघनीयो न केनापीत्यर्थः। मालिनीवृत्तम्।
 
  अथ सर्वत्र लाभालाभादौ दैवमेव प्रमाणमित्याह—
@@ -1521,8 +1408,6 @@ Miscellaneous. 1—14.
 यत्पूर्वंविधिना ललाटलिखितं तन्मार्जितुं कः क्षमः ॥९८॥**
 
  करीरो वृक्षविशेषः। उलूकोपि धूकश्च नावलोकते पदार्थान्पश्यति । स्पष्टमन्यत्। शार्दुल वृत्तम् ॥
-
-
 
  अथ कर्मपद्धतिः—  
  अथ दैवपद्धतेरनन्तरं दैवस्यापि कर्माधीनत्वात्कर्मपद्धतिं निरूपयति। तत्रादै? कर्मणो बलीयस्त्वं वर्णयति—
@@ -1554,8 +1439,6 @@ Miscellaneous. 1—14.
 भाग्यनि पूर्वतपसा खलु संचितानि  
 काले फलन्ति पुरुषस्य यथैव वृक्षाः ॥१०१॥
 
-
-
  आकृतिः शरीरसौष्टवम् । फलति इष्टफलं ददाति। यत्नेन कृता यत्नकृता।पूर्वमाचरितं यत्तपो तेन। काले तत्तत्कर्मपरिपाकसमये। वृक्षा यथा वृक्षा इव। वसन्ततिलका वृत्तम् ॥
 
  महासंकटपतितस्यापि पूर्वपुण्यमेव शरणं भवतीत्याह—
@@ -1583,8 +1466,6 @@ Miscellaneous. 1—14.
 [^181]: "१ स्थिरमिव स्फीत."
 
  शुभे कर्मणि चिरमनुस्यूते संलग्ने। षिवु तन्तुसंताने इति धातोः कर्तरि क्तः। छ्वोःशूडनुनासिके च इत्युठि यणादेशः। शुभ्रं सद्म सुधालिप्तहर्म्यादि। विभ्रमेणं सहिताः सविभ्रमाः सविलासाः। श्वेतं च तदातपत्रंच तेजोज्ज्वला लक्ष्मीः। इत्येतत्सर्वमनुभूयते। शुभकर्मणि विच्छिन्ने फलदानेनावसन्ने सर्वमेतत् अनङ्ग–
-
-
 
  कलहो रतिरणं स एव क्रीडा तस्यां त्रुटन्तस्तन्तवो यस्य तन्मुक्ताजालं मौक्तिकहार इव झटिति द्राक् भ्रश्यद् गलन्नितरां दिशः प्रयाति। दृश्यतामवलोक्यताम्। यद्वा दिशः अदृश्यतामिति पदच्छेदः। दिशः भ्रश्यद्दिक्षु गलद्दृश्यतां प्रयाति। केचिद्दिशोदृश्यतामित्येकं पदमिच्छन्ति। उपमालंकारः। शार्दूलवृत्तम् ॥
 
@@ -1618,8 +1499,6 @@ Miscellaneous. 1—14.
 
  यः मन्दभाग्यो मनुज इमां कर्मभूमिं कर्मानुष्टानयोग्यं मर्त्यलोकं प्राप्य सर्वश्रेयोहेतु तपो न चरति सः।विदूरात्प्रभवतीति वैदूर्यंमणिविशेषः। वैदूर्यं बालवालजम् इत्यमरः बिदूराञ्ञ्यः(४–३–८४) इति ञ्यप्रत्ययः। वैदूर्यप्रचुरा वैदूर्यविकारो वा वैदूर्यमयी ।प्राचुर्ये विकारार्थे वा मयट्। तस्यां स्थाल्यां तिलखलीं निस्तैलतिलपिण्डिकां पचति। अथवा अर्कमूलार्थे सुवर्णविकारैः सुवर्णनिर्मितैः लाङ्गलाग्रैः हलमुखैः। विलिखति कर्षति । कोद्रवाणां
 
-
-
  कोरदूषकाख्यशस्यविशेषाणां हरिक इति भाषायां। समन्तात्। कोरदूषस्तु कोद्रवः इत्यमरः। वृत्तिमावरणम्।असम्भबद्वस्तुसम्बन्धवाक्यार्थवृत्तिनिदर्शनाभेदोलंकारः। स्रग्धरावृत्तम् ॥
 
  नरो यान्कांश्चित्प्रयत्नान्विदधातु कर्मवशाद्भाव्यमेव भवतीत्याह—
@@ -1651,8 +1530,6 @@ Miscellaneous. 1—14.
 इति श्रीभर्तृहरिविरचितं नीतिशतकं संपूर्णम् ।
 
 ——————
-
-
 
 विविधविषयकाः श्लोकाः ।
 
@@ -1691,8 +1568,6 @@ Miscellaneous. 1—14.
 
  स्वपादेन आक्रान्तम्। पक्षे पादैः किरणैः। स्फारं विस्तीर्णं स्फुरितं देदीप्यमानं तेजः पराक्रमः पक्षे दीप्तिर्यस्य तेन॥
 
-
-
 लज्जागुणौघजननीं जननी[^197]मिव स्वा–  
 मत्यन्तशुद्धहृदयामनुवर्तमानाम् ।  
 तेजस्विनः सुखमसूनपि संत्यजन्ति  
@@ -1721,8 +1596,6 @@ Miscellaneous. 1—14.
 महीमेको मग्नांयदयमवहद्धन्त सलिले  
 शिरः शेषः शत्रुं निगिलति परः संत्यजति च ॥९॥
 
-
-
  इयतीदंपरिमाणके। निर्गतः अवधिः यस्मात् स निरवधिः स चासौ चमत्कृतेरतिशयश्च तस्मिन्। प्रभवति प्रकर्षेण वर्तते। यद्यस्मात्कारणादयं वराहः। परो राहुः शिरः शेषो यस्य सः।काव्यलिङ्गं यथासंख्यश्चालंकारौ।शिखरिणी वृत्तम्॥
 
 **उदन्वच्छन्ना भूः स च निधिरपां योजनशतं  
@@ -1748,8 +1621,6 @@ Miscellaneous. 1—14.
 किंवा नास्ति परिश्रमो दिनपतेरास्ते न यन्निश्चलः।
 
 [^199]: "१ त्येव यः."
-
-
 
 **किंत्व[^200]ङ्गीकृतमुत्सृजन्स्वमनसा[^201] श्लाघ्यो जनो लज्जते  
 निर्वाहः प्रतिपन्नवस्तुषु सतामेतद्धि गोत्रव्रतम् ॥१३॥**
@@ -1785,8 +1656,6 @@ Miscellaneous. 1—14.
 यास्त्वेषां स्वैरकथास्ता एव भवन्ति शास्त्राणि ॥१७॥**
 
  सन्तो यद्यपि सदुपदेशंन कथयेयुस्तथापि सेव्याः। यद्यतस्तेषां स्वैरालापा एव शास्त्राणि सदसत्प्रवृत्तिकारीणि भवन्ति ॥
-
-
 
 प्रायः कन्दुकपातेनोत्पतत्यार्यः पतन्नपि ।  
 तथा त्वनार्यः पतति मृत्पिण्डपतनं यथा ॥१८॥
@@ -1832,8 +1701,6 @@ Miscellaneous. 1—14.
 
 [^206]: "४ परिधिचपले."
 
-
-
  हे प्रियसखि। खलो विधिः विपदेव दण्डः तस्याघाताः प्रपातास्तेषां परम्परायाः परिचयेन चलतीति तत्तथोक्तंतस्मिन्। चिन्तैव चक्रं चिन्ताचक्रं तस्मिन्। मनो निधाय मृदमिव मृत्तिकामिव बलात्पिण्डीकृत्य प्रगल्भश्वासौ कुलालश्च तद्वत् चतुरकुम्भकारवत् भ्रमयति भ्रमणं कारयति। अत्र स विधिः किं विधास्यति करिष्यतीति न जानीमः।हरिणी वृत्तम् ॥
 
 **विरम विरसायासादस्माद्दुरध्यवसायतो  
@@ -1848,11 +1715,7 @@ Miscellaneous. 1—14.
 
  आयतः यः करवालः खङ्गः कररुह इव तेन विदीर्णम्। पक्षे आयतकरसम्बन्धिनोये बालकररुहाः कोमलनखाः यद्वा करवाल इव कररुहास्तैर्विदीर्णम् व्युत्पन्ना शृङ्गारविषये लब्धप्रावीण्या प्रौढा प्रगल्भा च। वनिता सुन्दरस्त्री।
 
-
-
 ![](../books_images/U-IMG-1698423538Screenshot2023-10-27214826111111.png)
-
-
 
 **॥ श्रीगणेशाय नमः ॥  
 । अथ वैराग्यशतकम्।**  
@@ -1884,8 +1747,6 @@ Miscellaneous. 1—14.
 
 **उत्खातं निधिशङ्कया क्षितितलं ध्माता गिरेर्धातवो  
 निस्तीर्णः सरितां पतिर्नृपतयो यत्नेन संतोषिताः ।**
-
-
 
 **मन्त्राराधनतत्परेण मनसा नीताः श्मशाने निशाः[^210]।  
 प्राप्तः[^211] काणवराटकोपि न मया तृष्णेऽधुना[^212] मुञ्च माम् ॥३॥**
@@ -1926,8 +1787,6 @@ Miscellaneous. 1—14.
 
  खलानामुल्लापाः दुर्भाषितानि।तेषामाराधने सेवने पराः प्रसक्तास्तैरेवंभूतैरस्माभिरिति शेषः। कथमपि महासंकटेन सोढा मर्पिताः। नैतदेव केवलं किंतु
 
-
-
  अन्तर्वाष्पंनिरुद्वय शून्येन हास्यजनकभावशून्येन मनसा ते हसन्तीति हसितमपि। तेषां खलानां हसितमपि कार्याकार्यविचारशून्येन मनसा सोढमिति केषांचिद्व्याख्यानं न सहृदयानां प्रीतिकरम्। चित्तस्तंभोन्तर्गतभावगुप्तिः। अन्तर्वर्ती कोपि विकारो न प्रकटीकृत इत्यर्थः। तथा प्रतिहता धीर्येषां तेषां जडधियामित्यर्थः। वित्तस्तम्भेति पाठे वित्तेन यः स्तम्भो जडिमा तेन प्रतिहता विचारशून्येत्यर्थः। धीर्येषाम्। प्रहसितेति पाठे प्रहसिते परिहासे धीर्बुद्धिर्येषां तेषाम्।अञ्जलिर्नमस्कारोपि कृतः। मोघा निष्फला आशा यस्याः सा। हे आशे इत्थं कृतपूर्वान्नर्तनात्किमपरमन्यत् यतो हेतोः मां नर्तयसि नृत्यकृत्ये योजयसि।शिखरिणी वृत्तम्॥
 
  अथ तृष्णाभिभूतैरनुचितमप्यस्माभिराचरितमित्याह—
@@ -1959,8 +1818,6 @@ Miscellaneous. 1—14.
 [^225]: "वञ्चितम्"
 
  परदत्तदुःखादि क्षमया हेतुभूतया न सोढं किंतु भयहेतुनाऽशक्त्या वा। गृहोचितस्वाद्वन्नभार्यापुत्रसमागमादि सुखं संतोषतः हेतोः न त्यक्तं किंतु परतंत्रत्वादनिच्छया। दुःसहशीतादिक्लेशःसोढः किंतु तपो न तप्तम्। नियमितप्राणैः निरुद्धप्राणवृत्त्या
-
-
 
  अहर्निशं सततं वित्तं ध्यातं न शंभोः पदम्। एवं च यद्यदेव मुनिभिः।ईश्वरमननान्मुनिः। तैः क्षान्तिसुखत्मागादि कर्म कृतं तत्तदस्माभिरपि कृतम् । किंतु तत्तत्कर्मफलेन वयं वञ्चिताः।मुनिभिः प्राप्यमाणं फलं न लब्धमिति भावः। विशेषोलंकारः । शार्दूलविक्रीडितं वृत्तम् ॥
 
@@ -1995,8 +1852,6 @@ Miscellaneous. 1—14.
 
  भोगेच्छा विषयभोगेच्छा निवृत्ता। असामर्थ्यात्। न तु तृष्णाया निर्मूलनात्। पुरुष इति भावप्रधानो निर्देशः। पौरुषोत्पन्न इत्यर्थः। बहुमानः गलितः तत्कारणपौषापायात्। सुहृदः सखायः। प्रत्युपकारनिरपेक्ष उपकारकर्ता सुहृदिति भाष्य–
 
-
-
  कृदादिभिः पूज्यैर्व्याख्यातोयं। जीवितेन समाः समानाः स्वसमानवयसः सपदि तत्कालं स्वर्याताः स्वर्गेगताः। परलोकवासिनः संवृत्ताः। न त्वहं मन्दभाग्यः।शनैः मन्दं मन्दं यष्ट्युत्थानं सहायभूतया यष्ट्या उत्थानं। घनं सान्द्रं यत्तिमिरं पाटलाख्यनेत्ररोगविशेषः तेन रुद्धे। स्वार्थग्रहणासमर्थे जाते। पञ्चम्या अपक्षयलक्षणया भावविक्रियया आपादितत्वात्। तदपि ईदृशीं कष्टावस्थां प्राप्तोऽपि कायः मरणरूपापायाञ्चकितो भीतो भवति। कष्टतरावस्थया क्लिश्यमानोपि जन्तुर्न देहसंबन्धि ममत्वाभिमानं त्यजतीति भावः। अतिकष्टास्वप्यवस्थासु जीवितनिरपेक्षा न भवन्ति खलु प्राणिनां प्रवृत्तय इत्यनुरूपो भावः कादम्बर्याम् ।शिखरिणी वृत्तम् ॥
 
  अथ तृष्णायाः प्राकृतजनदुस्तरत्वं द्योतयितुं तां महानदीत्वेन रूपयति—
@@ -2012,12 +1867,9 @@ Miscellaneous. 1—14.
 
  आशात्यायता तृष्णा। आशा तृष्णापि चायता।इत्यमरः। नामेति प्राकाश्ये।मनोरथाः कामा एव जलानि यस्याम्।तृष्णास्तत्तदर्थप्रप्त्याभिलाषा एव तरङ्गास्तैराकुला।रागाः प्रीतिविशेषाः। ते एव ग्राहा मकराः सन्त्यस्याम्। वितर्काःसंकल्पविकल्पात्मकवृत्तयो विहगाः पक्षिणो यस्याम्। धैर्यं धीरता एव द्रुमस्तं ध्वंसयतीति तथा। मोहा अज्ञानवृत्तय एव आवर्ताः तैः सुदुस्तरा।अत्यन्तदुःखेन तरणं यस्याः सा ।प्रोत्तुङ्गा प्रकर्षेणोत्तुङ्गोन्नता चिन्ता सैव तटी यस्याः सा।विशुद्धं निर्मलं मनो येषाम्। योगोऽस्ति एषां ते योगिनः तेषामीश्वराः। एवंविधाया नद्याः पारंगताः। ज्ञानप्लवेनेति शेषः। सिद्धा निरतिशयानन्दभाजो भवन्ति । अन्ये कलुषितान्तःकरणा अस्यां निमज्जन्तः क्लिश्यन्त इति तात्पर्यम्। अत्राविच्छिन्नप्रवाहरूपत्वादाशाया नदीसाम्यम्। सर्वत्र संचलनसंभ्रमत्वादिसादृश्यान्मनोरथानां जलत्वेनरूपणम्। उत्पत्तिविलयसातत्यात्तृष्णासु तरङ्गत्वारोपणम्। एवमन्यत्राप्यूह्यम्। समस्तवस्तुवर्तिसावयवरूपकालंकारः। शार्दूलवि० वृत्तम्॥
 
-
-
  अथ विषयपरित्यागविडम्बना—
 
  आशानद्याः पारंगता निर्मलमनसो योगीश्वरा एव नन्दन्तीत्युक्तम्। तञ्चान्तरेण विषत्ययागं न संभवतीत्यधुना विषयविडम्बनोच्यते—  
-
 
 न संसारोत्पन्नं चरितमनुपश्यामि कुशलं  
 विपाकः पुण्यानां जनयति भयं मे विमृशतः ।  
@@ -2038,8 +1890,6 @@ Miscellaneous. 1—14.
 [^234]: " त्वेते."
 
  विषयाः शब्दादयः। चिरतरं बहुकालमुषित्वापि स्थित्वापि। चिरपरिचयमनाहृत्यापि। अवश्यं निश्चयेन यातारः गन्तारः। ते हि अनित्याः खलु इति
-
-
 
  निश्चिते सति तेषां मनःपूर्वकत्यागे स्वयं गमने वा को भेदः। न कोपीति आक्षेपपूरणम्। यद्यतः हेतोः जनः स्वयममून्न त्यजति। वियोगे स्वरूपतो भेदाभावेपि फलतो भेदं दर्शयति। एते स्वातन्त्र्याद् व्रजन्तो गच्छन्तो मनसोऽतुलपरितापाय भवन्ति। स्वयं त्यक्तास्तु तेषां बुद्धिपूर्वकहाने अनन्तं निःसीमं शमसुखं समाधानलक्षणं विद्धति कुर्वन्ति। विषयाणां स्वतः वियोगो दुःखहेतुस्तेषामनर्थकरत्वालोचनेन बुद्धया हानं तु निरतिशयानन्ददायि तस्मात्पुरुषेण अवश्यं तेषां हानं कर्तव्यमिति भावः। तदुक्तम्—यञ्चकामसुखं लोके यञ्चदिव्यं महत्सुखम्। तृष्णाशमसुखस्यैते नार्हतः षोडशीं कलाम् ॥ वृत्तं पूर्वोक्तम् ॥
 
@@ -2073,8 +1923,6 @@ Miscellaneous. 1—14.
 
  गिरिकन्दरे पर्वतविवरे। विजने इत्यर्थः। विविक्तसेवी लध्वाशी (गौ १८–५२) इति भगवद्वचनात्। परं ज्योतिः स्वप्रकाशं परं ब्रह्म ध्यायतां ध्या–
 
-
-
  नेनानुभवतां धन्यानां कृतकृत्यानां पुरुषाणां आनन्दाश्रुजलं निःशंकं यथा स्यात्तथा निर्भयं शकुनाः पक्षिणः तेषामङ्केउत्संगे शेरते इति तदङ्केशयाः। अधिकरणे शेतेः। इत्यच्प्रत्ययः। पिबन्ति।तुशब्दः पक्षान्तरद्योती।मनोरथेन उपरचितः यः प्रासादः तस्य वाप्याः तटे यत् क्रीडार्थं काननं तत्र केल्याः कौतुकं जुषन्तीति० कौतुकजुषः तेषाम्। यद्वा मनोरथोपरचितः प्रासादश्चवापीतटं च क्रीडाकाननं च तेषु इत्यादि योज्यम्। अस्माकं पूर्वोक्तविपरीतवृत्तीनां तु आयुः आयुष्यं परिक्षीयते। पूर्वोकानां धन्यानां जीवितं सफलमस्माकं तु व्यर्थमित्यर्थः। शार्दूल० वृत्तम्॥
 
   भोगाभावेपि विषयत्यागे प्रवृत्तिर्न भवतीत्याह—
@@ -2098,8 +1946,6 @@ Miscellaneous. 1—14.
 महो निन्द्यं रूपं कविजनविशेषैर्गुरु कृतम् ॥१७॥**
 
   स्तनौ अन्नपरिणामस्य मांसस्य ग्रन्थी तथापि कनकघटोपमानेन वर्णितौ। मुखं श्लेष्मणः स्थानम्। किंतु तदपि शशाङ्केन चन्द्रेण तुलितं तत्तुल्यत्वेन वर्णितम्। स्रवन्मूत्रेण क्लिन्नमाद्रामपिजघनं स्त्रीकटीपुरोभागः तत्करिश्रेष्ठस्य शिरःस्पर्धि ।
-
-
 
  ताच्छील्ये णिनिः। इति वर्णितम्। अहो निन्द्यं निन्दायोग्यं रूपं स्त्रीलावण्यं कविजनविशेषैः कैश्चित् कामिजनरञ्जनतत्परैः कविभिर्गुरु कृतम्। महत्त्वमारोपितमित्यर्थः। वृत्तं शिखरिणी ॥
 
@@ -2126,8 +1972,6 @@ Miscellaneous. 1—14.
 [^246]: " ३ तीव्र"
 
  शलभः कीटविशेषः। माहात्म्यं दाहशक्तिमजानन्दीपस्य दहने ज्वालायां पततु नाम। न स तस्यापराधः।अज्ञानोपहतत्वात्। दाहात्म्यमिति पाठे दह्यतेऽनेनेति दाहस्तस्यात्मा स्वभावस्तस्य भावो दाहात्म्यम्। मीनोऽपि अज्ञानात् बडिशयुतं मत्स्यवेधनेन युतं सम्बद्धं पिशितं मांसमश्नातु कामं भक्षयतु। आमिषलोभाद्वक्रक–
-
-
 
  ष्टकक्षतगलो म्रियतामित्यर्थः। परंतु वयं इह संसारे विशेषेण जानन्तः। सदसद्विवेकवन्तोऽपि विपज्जालैः आपत्समूहैः। जटिलान् ग्रथितान् कामान् न मुञ्चामः॥ एवं चेद्वयमेवात्रापराध्यामः। नैवं यतः। अहहेति खेदे। मोहस्य महिमा गहनो दुर्विज्ञेयः खलु।प्रबलतरमोह एवात्रकारणमित्यर्थः। शिखरिणी वृत्तम् ॥
 
@@ -2159,8 +2003,6 @@ Miscellaneous. 1—14.
 
  तुङ्गंउच्छ्रितं वेश्म गृहं सतां सज्जनानां अभिमताः। मतिबुद्धीत्यादिना वर्तमानार्थेक्तः।सुताः पुत्राः। संख्यामतिक्रम्य गच्छन्तीति संख्यातिगाः संपदः संपत्तयः। कल्याणी शुभावहगुणोपेता दयिता स्त्री। नवं च वयः। इत्याकारकेण अज्ञानेन मूढो जन इदं विश्वं अनश्वरं नित्यं मत्वा संसाररूपकारागृहे बन्दि बासे निविशते। **'नेर्विशः'** इति आत्मनेपदम्। परंतु कश्चिद्धन्योऽपरः। ज्ञानी–
 
-
-
  त्यर्थः। तदखिलं सर्वं जगत् क्षणभङ्गुरं त्रिक्षणावस्थायि संदृश्य संन्यस्यति परिव्रजति। सर्वसंगपरित्यागं कुर्वाणः पुरुषः क्वचित्कश्चिदेव आश्वर्यवत् दृश्यत इति एकवचनप्रयोगेण सूचितम्। शार्दूलविक्रीडितं वृत्तम् ॥
 
  अथ याच्ञादैन्यदूषणम् ॥
@@ -2190,8 +2032,6 @@ Miscellaneous. 1—14.
 [^256]: "५ वितान"
 
  अभिमतः यः महामानः तस्य ग्रन्थिः तस्य प्रभेदः विश्लेषः तस्मिन्नतिशयेन पटुः। गुरुतरः यः गुणानां गाम्भीर्यधैर्यादीनां समूहः स एव अम्भोजानि तेषां स्फुटा चासौ उज्ज्वला च चन्द्रिका पूर्णिमाकौमुदी।तत्संकोचहेतुरित्यर्थः। विपुलं यथा तथा विलसन्ती या लज्जारूपा वल्ली तस्याः विदारे छेदे कुठारिका परशुः। जठरपिठरी उदरकुण्डी इयं दुष्पूरा विडम्बनं करोति। उदरपूरुणार्थं सर्वोपि जनः अकार्यकरणं अवाच्यवचनं अहेयहानं च करोतीत्यर्थः। तदुक्तं सुरेश्वरा–
-
-
 
  चार्यैः—अस्य दग्धोदरस्यार्थे किं न कुर्वन्त्यसाम्प्रतम्। इति। रुपकालंकारः। हरिणीवृत्तम्॥
 
@@ -2226,8 +2066,6 @@ Miscellaneous. 1—14.
 [^263]: "७कण, घन"
 
  गङ्गायाः तरङ्गाः तेषां ये हिमशीकराः शीततुषाराः तैः शीतलानि। विद्याधरैरघ्युषितानि सेवितानि चारूणि शिलातलानि येषां तानि।हिमवतः हिमालयस्यस्थानानि किं प्रलयं गतानि। किंशब्दो वितर्केप्रश्ने वा। कुत्साप्रश्ना वितर्केषु क्षेपे किंशब्द इष्यते । इति शाश्वतः। यत् यस्मादतोः मनुष्या अवमानेन स–
-
-
 
  हिताः। सतिरस्कारं दत्ता इत्यर्थः। ये परेषां पिण्डा अन्नग्रासाः तेषु रता आसक्ताः स्युः।दुर्जनयाच्ञांत्यक्त्वा हिमवत्परिसरेषु सुखेन वर्तितव्यमितिभावः। वसन्ततिलका वृत्तम् ॥
 
@@ -2265,8 +2103,6 @@ Miscellaneous. 1—14.
 
 [^272]: " ९ वि- चित्तव्यीध्यविवेक."
 
-
-
  हे प्रिय सखे पुण्यैः शोभनैः मूलफलैः। अकृपणैर्विपुलैः। अकरुणैरिति पाठ याञ्चावर्जितैरित्यर्थः। भूशय्या च नवानि वल्कलानि च तैः। प्रणयिनीं यत्र तव प्रणयः प्रीतिस्ताम्। वृत्ति वर्तनं। यत्र यस्मिन्वने क्षुद्राणां नीचपुरुषाणां अविवेकेन मूढानि विचारशून्यानि मनांसि येषां तेषामीश्वराणां स्वामिनां धनिनां वा। वित्तमेव व्याधिः तस्माद्विकाराः तैः विह्लालागीर्येषां तेषाम्। धनमदमूढानां मर्मभेदकवाक्यश्रवणाद्वरं गहनवने मूलफलैर्वृत्तिकरणमिती भावः।शार्दूल० वृत्तम् ॥
 
  सत्यामपि सुलभायां फलादिजीवनसामग्र्यांकेचिद्धनिनां द्वारि अवमाननासंताप सहन्त इत्यहो तेषां मौढ्यमित्याह–
@@ -2291,8 +2127,6 @@ Miscellaneous. 1—14.
 
 [^275]: "३ पर्यात."
 
-
-
  धनपतेःपुरः प्रार्थना याच्या तस्या दुःखं भजतीति दुःखभाक् तस्य। वर्धन्ते दीर्घा भवन्ति। विषयैराक्षेपः आकर्षणं तेनपर्यस्ता व्याकुलाबुद्धिर्यस्य तस्य हस्त्रा भवन्ति । तेषां दीनानाम्।ध्यानच्छेदे व्युत्थानानन्तरम्। अन्तः स्फुरितं यथा स्यात्तथा स्मरेयम्। अधीगर्थदयेशां कर्मणि इति कर्मणि षष्ठी।शिखरिणः पर्वतस्य कुहरे विवरे यो ग्रावा पाषाणः स एव शय्या शयनं तस्यां निषण्णः उपविष्टः सन्।याच्ञादुःखविषयाक्षेपरहितः परमेश्वरध्यानपरः कालं क्षपयेयमित्याशंसा।मन्दाक्रान्ता वृत्तम् ॥
 
 ये संतोषनिरन्तरप्रमुदितास्तेषां न भिन्ना मुदो  
@@ -2310,8 +2144,6 @@ Miscellaneous. 1—14.
 शम्भोः सत्त्रमर्वायमक्षयनिधिं शंसन्ति योगीश्वराः ॥३१॥
 
  भिक्षाया भिक्षान्नस्याहारः यस्मिन् तत्। अदैन्यं याञ्चादैन्यवर्जितम्। अविद्यमानं प्रतिसुखं यस्य।निर- तिशयसुखमित्यर्थः। सर्वदा भीतिच्छिदं भयनाशकम्। दुष्टाश्च ते मात्सर्यंच मदश्चाभिमानश्च मात्सर्य० नाः असहिष्णुत्वमदाहंकारास्तेषां मथनं नाशनं दुःखौघस्य विध्वंसनं सर्वत्र अन्वहं प्रतिदिनं अप्रयत्नेन सुलभं सुप्राप्यं साधूनां प्रियं पावतुं पवित्रं शम्भोः सीदन्त्यत्रेति सन्त्रंशिवमार्गानुसरणं पूजनं वा योगिनामीश्वराः अक्षयो नित्यो निधिः तं शंसन्ति कथयन्ति। अतः शुभेच्छुभिः सर्वगुणोपेतं तदेवाश्रयणीयनिति भावः। वृत्तं शार्दूल॥
-
-
 
  अथ भोगास्थैर्यपद्धतिः।
 
@@ -2338,8 +2170,6 @@ Miscellaneous. 1—14.
 [^278]: "३ वभुतिरप्युपहता, धृतिर्जगत्युपहृता."
 
  मरणेन जन्म आक्रान्तं व्याप्तम् । तदुकं—जातस्य हि ध्रुवो मृत्युरिति । अस्योत्तरत्राप्यनुकर्षः । अत्युज्ज्वलमतिरमणीयम्।विद्युच्चलमिति पाठे विद्युद्वच्चलंचञ्चलम् ।धनलिप्सया धनप्राप्तीच्छया।शमसुखं निरुद्धान्तःकरणजन्यं सुखं प्रौढा या अङ्गनाः तांसां विभ्रमैः विलासैः आक्रान्तम् । मत्सरिभिः परगुणासहिष्णुभिः । वनभुवः बनस्थलानि । नृपा दुर्जनैः दुष्टमन्त्रिभिः । तद्वुद्धिविपर्यास्कारिमिरित्यर्थः । आकान्ताः । विभूतयः अस्थैर्येण अस्थिरभावेन उपहताः ।अतः किं केन वा न ग्रस्तं सर्वमपि ग्रस्तम् । अतः बुद्धिमता पुरुषेण सर्वमनित्यं
-
-
 
   सदोषं च वस्तु विहाय नित्यवस्तुनि परमेश्वरे अन्तःकरणाभिनिवेशः कर्तव्य इत्यर्थः। वृत्तं शार्दू०॥
 
@@ -2377,8 +2207,6 @@ Miscellaneous. 1—14.
 
   भोगाः तुङ्गतरंगाणां भङ्गवञ्चपलाः चञ्चलाः। क्षणध्वांसिनः क्षणिका इति यावत्। स्तोकानि अल्पानि एव दिनानि कतिपयदिनपर्यन्तस्थायि यौवनसुखम्। प्रियेषु प्रीतिरस्थिरा। निखिलं संसारं असारमेव अनित्यमेव। बुध्वाहे बुधा बोधका उपदेशका लोकानुग्रहे पेशलं चारु दक्षं वा तेन मनसा यत्नः समाधीयतां क्रियताम्। सर्वमनित्यमिति परिचिन्त्य सर्वेषामपि सुज्ञानां स्वाचरणेन लोकोपकारकरणमेव उचितमिति तात्पर्यम्। **तदुक्तं भगवद्गीतायां–यद्य–दाचरति श्रेष्ठस्तत्तदेवेतरो जनः। स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥**इति ॥ शार्दूल० वृत्तम् ॥
 
-
-
  उक्तार्थं एवोपायं दर्शयति–
 
 भोगा मेघवितानमध्यविलसत्सौदामिनीचञ्चला  
@@ -2403,8 +2231,6 @@ Miscellaneous. 1—14.
 
  कल्लोलवल्लोलंचञ्चलं। कतिपयदिवसान् तिष्ठतीति तच्छीला। यौवनश्रीः यौवनसंपत्तिः।अर्था विषयाः संकल्पेभ्यः ईषन्न्युनाःसंकल्पकल्पाः क्षणावस्थायिनः। ईषदसमाप्तौ कल्पप्देश्यदेशीयरः इति कल्पप्प्रत्ययः। घनसमये या तडित् तस्या इव विभ्रमा विलासा येषां ते भोगपूगाः भोगसमूहाः। तथा यत्प्रियाभिः प्रणीतं दत्तं कण्ठस्याश्लेषो यस्मिन् कण्ठश्लेषेण वा उपगूढमालिङ्गन तदपि न चिरं स्थायि। अतः भवात् संसारात् यद्भयं तदेव अम्भोधिः। तस्य पारं तरीतुं तरणार्थं ब्रह्मणि विषये आसक्तचित्ता नितरां सक्तचित्ता भवत। सर्वस्यानित्यत्वान्न ब्रह्मव्यतिरिक्तं संसारतरण इष्टतमं साधनमित्यर्थः। एवं त्रिभिः श्लोकैः कल्याणपर्यवसायि ब्रह्मध्याननिष्ठोपादिष्टा। काव्यालङ्गमलंकारः। सग्धरा वृत्तम् ।
 
-
-
  अथ विचार्यमाणे संसारः कष्टमय एव न तस्मात्सुखप्राप्तयाशा इति प्रश्नद्वाराह—
 
 कृच्छ्रेणामेध्यमध्ये नियमिततनुभिः स्थीयते गर्भवासे[^291]  
@@ -2428,8 +2254,6 @@ Miscellaneous. 1—14.
 लोकस्तथाप्यहितमाचरतीति चित्रम् ॥३९॥
 
  जरा परितर्जयन्ती भीषयमाणा सती व्याघ्रीव अग्रे तिष्ठति। रोगाश्चशूलादयः शत्रःप्रतिपक्षियोद्धार इव देहं प्रहरन्ति अनेकप्रकारैः प्रहारान् कुर्वन्ति। भिन्नघटात् सच्छिद्रघटाद्यथा अम्भः जलं तथा आयुः परिस्रवति प्रतिक्षणं क्षरति। एवमपि लोकः प्राकृतो जनः अहितमकल्याणमाचरतीति चित्रमाश्चर्यम्। आगाम्यनर्थालोचनेनापि न स्वहितेऽभिनिवेशं कुरुत इत्याश्चर्यमित्यर्थः। उपमालंकारः।वसन्ततिलका॥
-
-
 
  अथास्मद्वचो यदि प्रमाणं तर्हि आत्मन्येष चेतः समाधेयमित्युपदिशति–
 
@@ -2456,11 +2280,7 @@ Miscellaneous. 1—14.
 
 [^297]: "अयं श्लोकोन्यथा पठ्यते कैश्चिद्यथात्रैलोक्याधिपतित्वमेव विरसं यस्मिन्महाशासने तल्लब्ध्वशनवस्त्रमानघटने भोगे रति मा कृथाः। भोगः (बोधः
 
-
-
  यत्र यस्मिन्भोगे स्थितः। पुरुष इति शेषः। ब्रह्मेन्द्रावादी येषां ते मरुद्गणा देवसंघास्तानपि। का कथेतरेषाम्। तृणलवानिव तुच्छान्मन्यते। मन्यकर्मण्यनादरे विभाषाऽप्राणिषु। (२–३–१७) इति विकल्पाद् द्वितीया। यस्यास्वादाद्रुच्यनुभवात्। त्रयो लोकास्त्रैलोक्यम्। ब्राह्मणादित्वात्ष्यम्। तत्र यद्राज्यं तदादि येषां ते विभवा विरसा रुचिहीना भवन्ति। एतस्यैवानन्दस्यान्यानि भूतानि मात्रामुपजीवन्तीति श्रुतेः। स तादृशः कोप्यनिर्वाच्यः परमः सर्वोत्कृष्टः एक एव भोगो नित्योदितः सर्वदा प्रकाशरूपः। अभिनवरस इत्यर्थः। जृम्भते उन्मिषति। हे साधो सत्पुरुष। उपदेशार्हेति यावत्। तस्मादितरे क्षणभङ्गुरे विषयादिभोगे रतिं रागमासक्तिमित्यर्थः। मा कृथा मा कार्षीः। लुङि न माङयोगे इत्यडागमननिषेधः। वृत्तं पूर्वोक्तम् ॥
-
- 
 
 अथ कालमहिमावर्णनम् ।
 
@@ -2480,8 +2300,6 @@ Miscellaneous. 1—14.
 [^301]: "४ पदम्"
 
  सा प्रसिद्धा पूर्वानुभूता वा। अत्र सर्वत्र तच्छब्दः प्रसिद्धार्ध्रंपूर्वानुभूतविषयो वा। अतो न यच्छब्दापेक्षा। तदुक्तं काव्यप्रकाशे–प्रसिद्धानुभूतार्थगोचरस्तच्छन्दो न यच्छन्दमपेक्षते। इति। महान् साम्राज्यभारोद्वहनसमर्थः। तद्वशवर्ति तत्। सम्यगन्तः समन्तः तस्मिन्समन्ते भवः सामन्तः।माण्डलिक इति यावत्। तत्र भवः इति अण्। तेषां चक्रं समूहः। विदग्धानां विदुषां कर्तव्यार्थचतुराणां वा। परिषत् सभा।चन्द्रबिम्बवदाननं यासां ताः। उत्सिक्तो गर्विष्ठः। उद्घृत्त इति पाठे उन्मार्गगामीत्यर्थः। स राजपुत्राणां निवहः समूहः। बन्दिनः स्तुतिपाठकाः। तस्य नृपतेः।का कथेतरेषाम्।
-
-
 
  इदंसर्वमपि यस्य कालस्य पलघटिकाप्रहरदिवसपक्षमासर्त्वयनसंवत्सरादिलक्षणस्य मृत्योर्वा वशाद् वशवर्तित्वात् स्मृतिपथं स्मरणपदवीम्। ऋक्पू–इत्यादिना समासान्तोऽच् प्रत्ययः अगात्। अनुभवयोग्य- ताविरहाद्द्बुद्धेर्द्वितीयावस्थापन्ने संवृत्तमित्यर्थः। तस्मै नमः। शार्दुलवि० वृत्तम्।
 
@@ -2521,8 +2339,6 @@ Miscellaneous. 1—14.
 
 रैः कियत्परिमाणः कालो गत इति न विशेषेण ज्ञायते। जन्म च जरा च विपत्तिश्चमरणं च दृष्ट्वा त्रासो जन्मादिजं भयं नोत्पद्यते। क्लेशपूर्णोऽयं जन्मादिकलापः। तत्र सुखलवाभावेऽपि सुखप्राचुर्ये प्रतीयते मूढैः। अत एव ते तद्धेत्वविद्याकामकर्मसु विरतिं न कुर्वन्तीति भावः। एवं जगत् मोहमयीं मोहप्रचु–
 
-
-
  रां। प्राचुर्यार्थमयटटित्वात् डिष् \। प्रमाद एव मदिरा तां पीत्वा प्राश्य उन्मत्तभूतं कर्तव्याकर्तव्यविचारशून्यं जातमिति भावः । एतदादिश्लोकपश्चकस्य शार्दूल० वृत्तम् ।
 
  उक्तमेवार्थं प्रकारान्तरेण वर्णयति—
@@ -2557,8 +2373,6 @@ Miscellaneous. 1—14.
 
  विधिवत् विध्यर्हम्। शास्त्रोक्तरीत्येत्यर्थ। तदर्हम् इति वतिप्रत्ययः। संसारविच्छित्तयेऽपुनर्भवायेश्वरस्य जगन्नियामकस्य पदं न ध्यातमेकाममनसा चिन्तितम्। अनेन मुमुक्षाभावः सूचितः। ईश्वरस्य शंकरस्य वा।कवेः शंकरे दृढानुरागत्वात्।
 
-
-
  तदुक्तं ब्रह्माण्डपुराणे–स्वराडाख्यस्य देवस्य हृदयाम्भोजमध्यमे। उमासहायो भगवान्नीलकंठत्निलोचनः॥ यो नृत्यत्यसौ नित्यं परमानन्दचिद्धनः। तं दृष्ट्वा मनुजः सर्वो विमुक्तो भवतीति हि॥ इति। अथ ज्योतिष्टोमेन स्वर्गकामो यजेत इत्यादि श्रुतेः धर्मस्य ज्योतिष्टोमादेः साक्षात्परम्परया च स्वर्गापवर्गसाधनत्वमुक्तं मीमांसायां तत्र द्वितीयं पक्षमाश्रित्याह—स्वर्गस्य द्वारं तस्य कपाटस्य पाटने उद्घाटने पटुः कुशलः समर्थो वा धर्मः। धर्मानुष्ठानजन्यं पुण्यमिति यावत्। नोपार्जितः। एतेन स्वस्य आमुष्मिकसुखानर्हत्वं दर्शितम्। रामाया वरस्त्रियाः पीनौयौ पयोधरौ तयोरूर्वोश्व युगुलं युग्मं स्वप्नेऽपि नालिङ्गितम्। एतेनकामपुरुषार्थोपि न संपादित इति सूचितम्। ततश्चैहिकमुखाभावोपि निदर्शितः। किंतु केवलं मातुर्जन्मदात्र्याः यौवनवनच्छेदनविषये वयं कुठाराः छेदनहेतवः संवृत्ताः। निरर्थकमेवास्माकं जन्मेति भावः॥
 
 नाभ्यस्ता भुवि[^317] वादिवृन्ददमनी विद्या विनीतोचिता  
@@ -2576,8 +2390,6 @@ Miscellaneous. 1—14.
 
 विद्या नाधिगता कलङ्करहिता वित्तं च नोपार्जितं  
 शुश्रूषापि समाहितेन मनसा पित्रोर्न संपादिता ।
-
-
 
 आलोलायतलोचना युवतयः[^319] स्वप्नेपि नालिङ्गिताः  
 कालोयं परपिण्डलोलुपतया काकैरिव प्रेरितः[^320]॥४८॥
@@ -2613,8 +2425,6 @@ Miscellaneous. 1—14.
 
 [^325]: "७ बुद्गुदसम्"
 
-
-
  तस्यार्धस्य पञ्चविंशतिसंख्याकस्यार्धे सार्धद्वादशसंख्याकं बाल्ये परस्यार्धस्य चापरमर्धेसार्धद्वादशवर्षाणि वृद्धत्वे इत्यर्थः। शेषं अवशिष्टं पञ्चविंशतिवर्षसंख्याकमायुः व्याधिश्च वियोगश्च तयोः दुःखेन सहितं सेवादिभिश्च नीयते। तस्मात् प्राणिनां वारितरङ्गवत् चञ्चलतरे अतिचञ्चले जीवे आयुषि सौख्यं कुतः। नास्ति सुखगन्धोऽपीत्यर्थः। शार्दूल वि० ॥
 
  अथ बाल्याद्यवस्थाक्रमेण नरो मृत्युवशं गच्छतीत्याह—
@@ -2638,8 +2448,6 @@ Miscellaneous. 1—14.
 [^326]: "१ मानधनाति०."
 
  रजयतीतिराजा। उपासितः सेवितो यो गुरुस्तस्माल्लव्धा या प्रज्ञा कार्याकार्यविवेकविषया बुद्धिस्तस्या अभिमानेनोन्नता लब्धोत्कर्षा वयम्। त्वं विभवैः एश्वर्यैः ख्यातः। नोऽस्माकं यशांसि एते आचार्यकृपया लब्धपरमार्थज्ञानमहामान–
-
-
 
  सम्पत्योन्नता इत्येवंरूपाणि कवयः काव्यकारा दिक्षु दशसु प्रतन्वन्ति प्रकर्षेण विस्तारं प्रापयन्ति। एवंप्रकारेण हे मानद शत्रूणां मानं द्यति खण्डयतीति तत्संबुद्धिः। आवयोरुभयोरप्यन्तरं भेदः नातिदूरं अतिशयेन न विद्यते। यदि त्वमस्मासु पराङ्मुख आदरवर्जितस्तर्हि वयमपि। त्वयीतिशेषः। एकान्ततः निस्पृहाः। अत्यन्तनिस्पृहत्वान्नादरापेक्षा अस्माकम्। शार्दूल० ॥
 
@@ -2681,8 +2489,6 @@ Miscellaneous. 1—14.
 
  इह अस्मिन् लोके। दुकूलैः क्षौमैः। उभयोर्मध्ये निर्विशेषः निर्गतो विशेषो भेदो यस्मात् स तथा विशेषः उत्कर्षः। उभावपि समं संतुष्टाविति यावत्। वि–
 
-
-
  शाला विपुला। मनसि परितुष्टे सति न कोपि दरिद्रः न कोऽपि धनवान्। मनःसंतोषभावाभावाभ्यामर्थवत्त्वदरिद्रत्वादिव्यपदेशा भवन्तीत्यर्थः। मालिनी॥
 
  अतएव प्राणयात्रार्थे विद्यमानान्यसाधना न दुर्जनानामविनयं सहामहे इस्याह—
@@ -2717,8 +2523,6 @@ Miscellaneous. 1—14.
 
  नृपस्य सद्म तस्मिन् वयं के नाम । न केपीत्यर्थः। येनास्माकं तत्र प्रवेशो भवेत्। वयं न नटाः वेषधारिणो नाट्यकर्मकुशलाः। न विटा एकविद्यो नायकानुचरभेदाः। तदुक्तं—किंचिदूनः पीठमर्द एकविद्यो बिटः स्मृतः। संधानकुशलवेटो हास्यप्रायो विदूषकः॥ इति। गायन्तीति गायकाः संगतिकुशलाः।गायना इति पाठे ष्युट् च इति साधुः परेषां द्रोहः परद्रोहः तस्मिन्निबद्धा
 
-
-
  बुद्धिर्यैस्ते। यतस्त एव राज्ञां प्रियाः। सभ्येतरेति पाठे सभायां साधवः सभ्याः।तत्र साधुरिति यत्प्रत्ययः। तेभ्य इतरे साधारणजनमनोरञ्जनमात्रकुशला इत्यर्थः। न तु शास्त्रार्थवादिनः। तेषां वादैर्वित्ताश्रुञ्चवः। तेन वित्तश्रुञ्चुपचणपौ। इति चुञ्चुप् प्रत्ययः। कुचभारेण नमिता योषितोऽपि न। नटत्वादिविशेषगुणविशिष्टत्वाभावादस्मादृशानां राजद्वारि प्रवेशोपि दुर्लभः । वैतालीयाख्यं वृत्तम्॥
 
 विपुलहृदयै[^342]र्धन्यैः कैश्चिज्जगज्जनितं पुरा  
@@ -2744,8 +2548,6 @@ Miscellaneous. 1—14.
 [^346]: "५ लेशाधिपतयः"
 
  नृपाणां शतैः यस्यां क्षणं क्षणपरिमाणं कालमपि अभुक्तायां सत्यां न यातं किंतु असंख्या नृपतयः यां भुक्त्वैव गताः।तस्या लाभे राज्ञां क इव को नाम बहुमानः स्यान्नकोपीत्यर्थः। सर्वसाधारण्यात्। किंतु तस्याः अंशस्यापि अंशे तथा तस्यांशस्याप्यवयवलेशे वयं पतयः इति विषादे कर्तव्ये।अन्योपभुक्तस्य तत्रापि तुच्छस्य तस्य गर्ह्यत्वात्। जडा अविवेकिनः प्रत्युत विपर्ययेण मुदं विदधति। अहो एषां विचारमूढता । शिखरिणी॥
-
-
 
  आस्तां तावत्क्षुद्रनृपाभिमानः। तद्याञ्चापरास्त्वतीव गर्ह्याइत्याह—
 
@@ -2774,8 +2576,6 @@ Miscellaneous. 1—14.
 [^351]: " प्रबल"
 
  कोप्यनिर्वचनयमहिमा। मदनरिपुणा शंकरेण। यस्य कपालं शिरोस्थि । अलंकारविधये अलंकारविधानार्थंशिरसि निहितम्। तस्य सफलं जन्म इति भावः। प्राणत्राणे जीवितरक्षणे प्रवणा नम्रा पटुर्वा बुद्धिर्येषां तैः नमद्भिः कैश्चित्पुरुषैः हेतुना कोऽयं पुंसां गर्वः। अत्यन्तमयोग्य इत्यर्थः। मरणानन्तरमपि यस्य कपालंभगवता शिवेन शिरसि निहितं स एव धन्योन्ये निष्फलजन्मानो क्षुद्रा एवेति भावः। शिखरिणी वृत्तम् ॥
-
-
 
  अथ मनःसम्बोधनपद्धतिः ।
 
@@ -2809,8 +2609,6 @@ Miscellaneous. 1—14.
 
  हे चित्त किं वृथा व्यर्थं परितः भ्रमसि। क्वचन यत्र कुत्रापि। स्वस्थान एवेतियावत्। विश्राम्यतां। तत्र हेतुः स्वयमित्यादि। स्वयं प्रकृतितः यद्यथा भवति तत्तथैव भवति न तु अन्यथा कदापि भवति। अतीतमपि न स्मरन्नपि च भावि असंकल्पयन्नचिन्तयन्। अतर्किताः गमागमाः येषां तात् अनिश्चितोत्पत्तिविकयानिति यावत्।भोगान् इह संसारे अनुभवस्व। हे चेतः यदृच्छालाभसंतुष्टं भव येनेश्वरप्रसादः स्यादित्यर्थः। तदुक्तं श्रीमद्गीतायां—यो न हृष्यति न द्वेष्टि न शोचति न कांक्षति। शुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः॥ इति। पृथ्वी॥
 
-
-
  उक्तमेव स्पष्टार्थमाह—
 
 **एतस्माद्विरमेन्द्रियार्थगहनादायासका[^358]दश्रय  
@@ -2841,8 +2639,6 @@ Miscellaneous. 1—14.
 
  हे चेतः मोहंधनपुत्रादिष्वासक्तिरूपं दोषं मार्जय क्षालय। तां प्रसिद्धां परमसुखानन्ददायिनीमिति रामर्षिः। चन्द्रार्धः चंद्रकला चूडामणिः शिरोभूषणं यस्य तस्मिन् शिवे रतिं प्रीतिमुपार्जय संपादय। स्वर्गतरङ्गिण्याः गंगायाः तटसंबन्धिन्यो या भुवस्तासामासङ्गं समागमम्। वीचिषु जलतरङ्गेषु बुद्वदेषु जलविकारेषु तडिल्लेखासु विद्युल्लतासु स्त्रीषु ज्वालाग्रेषु अग्निशिखाग्रेषु सर्पेषु नदीवेगेषु च को वा प्रत्ययः विश्वासः। न कोऽपीत्यर्थः। वृत्तं शार्दूलं०॥
 
-
-
  पुनः प्रकारान्तरेण संबोधयति—
 
 चेतश्चिन्तय मा रमां सकृदिमामस्थायिनीमास्थया  
@@ -2868,8 +2664,6 @@ Miscellaneous. 1—14.
 [^367]: "४ पश्चात्"
 
  अग्रे संमुखे गीतं गायनम्। पार्श्वतः उभयतः दाक्षिणात्याः। दक्षिणदेशे भवाः। दक्षिणापश्चात्पुरस्त्यक् (४–२–९८) इति त्यक्प्रत्ययः। सरसाः उत्तमाः रसिका वा कवयः। तेषामेव विचित्रवस्तुप्रबन्धनिर्माणपाटवादिति भावः। चामरग्राहिणीनां बालव्यजनवाहिनीनां लीलया वलयानां स्त्रीप्रकोष्टभूषणानां रणितं क्वणितम् ।वीजनव्यापारे इति शेषः। भवरसस्य संसाररसस्य आस्वादने। लम्पटत्वं लालसां कुरु। लोलुपो लोलुभो लोलो लालसो लम्पटश्च सः। इति यादवः। एवं न स्याञ्चेत् सहसा संभ्रमेण निर्विकल्पे ध्येयरूपविकल्पवर्जिते असंप्रज्ञातसमाधौ। यत्र ध्येयस्फुरणमपि विलीयते स्वस्फुरणमात्रं चावशिष्यते। मन्दाकान्ता॥
-
-
 
  अथ सम्पत्प्राप्त्यरिविजाद्यकिंचित्करमेव नास्ति तस्मात्परमार्थलाभ इत्याह—
 
@@ -2899,8 +2693,6 @@ Miscellaneous. 1—14.
 
 [^370]: "३ तदब्रह्मवाञ्छत जना यदि चेतनस्थाः"
 
-
-
 **यस्यानुषाङ्गिण इमे भुवनाधिपत्य–  
 भोगादयः कृपणलोकमता भवन्ति ॥७०॥**
 
@@ -2921,8 +2713,6 @@ Miscellaneous. 1—14.
 [^374]: "४ केन"
 
  हे मानस पातालमाविशसि नभो विलङ्गय यासि चापलेन दिङ्मण्डलं भ्रमसि। दूरे अगम्ये देशेऽपि तव अप्रतिहतं गमनं भवति। परंतु जातु कदाचित् भ्रान्त्यापि भ्रमवशेनापि। आस्तां तावद्विवेकेनेत्यर्थः। विमलं मलरहितं आत्मनीनं आत्मने हितं। **'आत्मविश्वजन'** इति खः। स्वोपकारकं तद्ब्राह्म कथं स्मरसि येन स्मरणेन कृतेन निर्वृतिं मोक्षाख्यां निरतिशयां तृप्तिम् एषि प्राप्नोषि ॥
-
-
 
  **अथ नित्यानित्यवस्तुविचारः ।**
 
@@ -2954,8 +2744,6 @@ Miscellaneous. 1—14.
 
  यदा यस्मात् श्रीमान् महासमृद्धिमान् मेरुः पर्वतविशेषः युगान्ते यः अग्निः तेन निहतः निपतति। विलीनो भवति। प्रचुरा ये मकरा ग्राहाश्च तेषां निलया गृहाणि एवंविधाः समुद्राः। यदेत्यनुकर्षणीयम्। शुष्यन्ति शुष्कीभवन्ति। धरणिधराणां पादैः धृता या घरा पृथ्वी सापि यदा अन्तं गच्छति। नश्यतीतिः यावत्। तदा तस्मात्कारणात् करिणो हस्तिनः कलभस्य शिशोः यत्कर्णाग्रंतद्वचपले। क्षणिके इति यावत्। शरीरे का वार्ता। तस्य तु अत्यन्तपरिच्छन्नत्वात् सुतरां नाशः सिद्धे एवेति तात्पर्यम्। करिकलभेत्यत्र करिशब्दस्य विशेषप्रतिपत्तिहेतोर्वैशेष्यप्रतीत्यर्थत्वादपौनसक्त्यम्।शिखरिणी॥
 
-
-
  अथ जराकृतांदुरवस्थामाह द्वाभ्याम्—
 
 **गात्रं संकुचितं गतिर्विगलिता भ्रष्टा च दन्तावलि–  
@@ -2986,8 +2774,6 @@ Miscellaneous. 1—14.
 [^383]: "४ कलेवरगृहं "
 
 [^384]: "५ यावज्जरा दूरत"
-
-
 
 आत्मश्रेयसि तावदेव विदुषा कार्यः प्रयत्नो महा  
 
@@ -3023,8 +2809,6 @@ Miscellaneous. 1—14.
 
 [^391]: "दत्त"
 
-
-
 **जरा देहं मृत्युर्हराति दयितं[^392] जीवितमिदं  
 सखे नान्यच्छ्रेयो जगति विदुषोन्यत्र तपसः ॥७८॥**
 
@@ -3053,8 +2837,6 @@ Miscellaneous. 1—14.
 [^394]: "३ रम्यः साधुसमागमः शमसुखम्"
 
 [^395]: "४ साधुसमागमोद्भव-गमागत."
-
-
 
  चन्द्रस्य मरीचयः मयूखाः।तृणमस्या अस्तीति तृणवती हरिततृणच्छन्ना वनान्तस्थली वनमध्यभूमिः।साधूनां सज्जनानां सुहृदां च समागमास्तस्य सुखं च रम्यम्। कोपेन प्रणयकलहादिषु उपाहिता उत्पन्ना ये बाध्यविन्दवः तैः तरलं भास्वरम्। वाष्पबिन्दवो यत्र तत्कोपो...न्दु च तत्तरलं चेति वा। एतत्सर्वे रम्यम्।चित्ते पुनः तु अनित्यतामुपगते सर्वमेतदनित्यमिति विवेकतां गते न किञ्चिद्रम्यं भाति ब्रह्मानन्दं विनेति शेषः। वृत्तं शार्दूल०॥
 
@@ -3085,8 +2867,6 @@ Miscellaneous. 1—14.
 
 [^399]: "४ मानाय."
 
-
-
  तातेति आदरद्योतकम्। आसंसारे संसारमभिव्याप्य इदंत्रिभुवनं चिन्वतामालोकयतामस्माकं नयनयोः पदवीं मार्गंश्रोत्रयोः श्रवणयोर्वर्त्म मार्गं वा तादृक् तथाविधः पुमान् नागतः। न दृष्टो न श्रुतो वेति यावत्। यो विषया एव करिणी हस्तिनी तस्यां गाढः अत्यन्तः गूढः निभृतः योऽभिमानस्तेन क्षीबस्य मत्तस्य। क्षीबु मदे इत्यस्य धातोः अनुपसर्गात्फुल्लक्षीबकृशोल्लाघाः (८–२–५५) इति निष्टान्तो निपातः। मत्ते शौण्डोत्कटक्षीबाः। इत्यमरः। अन्तःकरणमेव करी हस्ती तस्य संयमः निग्रह एव आलानं गजबन्धनं तस्य लीलाम्। आनाय इति पाठे आनायस्य रज्जुनिर्मितबन्धनस्य लीलाम्। आनायः पुंसि जालं स्यात् इत्यमरः।विषयैः बलवदाकृष्यमाणस्य दुर्दमस्यान्तःकरणस्य निग्रहे समर्थ इत्यर्थः। 'अत्रेदृक्पुरुषस्य नयनश्रोत्रपथविषयसंबध्येऽप्यसंबन्धोक्त्या संबन्धे असंबन्धरुपातिशयोक्तिः। तया च मनोनियमनस्यात्यन्ताशक्यत्वरूपं वस्तु व्यज्यते। इत्यलंकारेण वस्तुध्वनिः। तथा च केनचिद्योगेन मनो नियम्य तत्र ब्रह्मानन्दसाधनभूतान्तरङ्गशिवार्चनतपोऽवश्यं कर्तव्यमिति गूढोऽयमभिप्रायः। तथा अन्यधर्मस्यान्यत्र संबन्धासंभवादानायलीलामिव लीलामित्यौपम्यपर्यवसनसंभवद्वस्तुसंबन्धरुपो निदर्शनालंकारः। स चोक्तरुपकेणाङ्गाङ्गिभावेन संकीर्यते’।इति रामचन्द्रबुधेन्द्रः। मन्दाक्रान्ता वृत्तम् ॥
 
  तपःफलप्रकारमाह—
@@ -3097,8 +2877,6 @@ Miscellaneous. 1—14.
 न्न जाने कस्यैषा परिणतिरुदारस्य तपसः ॥८३॥**
 
  स्वच्छन्दं यथा स्यात्तथा स्वैरवृत्या विहरणं विहारः। स्वच्छन्दं स्वाधीनं वा। अकार्पण्यं कृपणस्य भावः कार्पण्यं याच्यादि दैन्यं। अविद्यमानं कार्पण्यं यस्मिस्तथा अशनं भोजनम्। आर्यैःश्रेष्ठैः सह संवासः वसतिः। उपशमः शान्तिरेव एकं व्रतफलं यस्मिंस्तादृक् श्रुतं श्रवणम्। बहिः बहिर्विषयेषु। मनोपि मन्दः स्पन्दः स्पन्दनं यस्य तत् मन्दस्पन्दम्। अन्तर्मुखत्वात्। कीदृशस्य उदारस्य उत्कृष्टस्य तपसः एषा परिणतिः फलं परिणामो वा न जाने न वेद्मि।चिरस्य चिरकालं विमृशन्नपि। तच्च तपः शिवाराधनमेवेति भावः। शिखरिणी॥
-
-
 
  अथ किं कर्तव्यमिति विचार उपस्थिते स्मृत्वेव हरचरणाराधनमेव शरणमित्याह—
 
@@ -3127,8 +2905,6 @@ Miscellaneous. 1—14.
 [^404]: "५ तयोर्न भेद न भेदहेतुप्रति."
 
  जगतामधीश्वरे जगन्नियामके महेश्वरे। जगदन्तरात्मनि जीवात्मस्वरुपेणवर्तमाने जगद्व्यापिनि वा जनार्दने। मे वस्तुभेदप्रतिपत्तिः। अयं महेश्वरोऽयं जनार्दन इति स्वरुपभेदज्ञानं नास्ति। तथापि मे मम भक्तिः तरुणश्चासौ इन्दुश्व स शेखरे यस्य तस्मिञ्शंकरे अतिशयेन वर्तते । अत एवमुक्तमिति भावः । वंशस्थं वृत्तम् ॥
-
-
 
  अथ शिव उत्पन्नानुरक्तेः शमस्योदयवशादाविर्भवतः निर्वेदस्थायिनः शान्तरसस्य व्यञ्जकानि वाक्यान्याह पञ्चभिः—
 
@@ -3165,8 +2941,6 @@ Miscellaneous. 1—14.
 कदा वाराणस्याममरतटिनीरोधसि वस–  
 न्वसानः कौपीनं शिरसि निदधानोञ्जलिपुटम् ।
 
-
-
 अये गौरीनाथ त्रिपुरहर शम्भो त्रिनयन  
 प्रसीदेत्याक्रोशन्निमिषमिव नेष्यामि दिवसान् ॥८८॥
 
@@ -3189,10 +2963,6 @@ Miscellaneous. 1—14.
 
 कदा शम्भो भविष्यामि कर्मनिर्मूलनक्षमः ॥९०॥
 
-      
-
-
-
  हे शम्भो शंकर। एकाकी असहायः। सङ्गरहित इत्यर्थः। संगात्संजायते काम इत्यादिवचनात्तस्यानर्थहेतुत्वात एकादाकिनिश्चासहाये इत्याकिनिच्प्रत्ययः। निःस्पृहः निस्तृष्णः। शान्त उपरतेन्द्रियः। रागाद्यनुपहतचित्त इत्यर्थः।शान्तो दान्त उपरतस्तितिक्षुः समाहितो (श्रद्धावित्तो) भूत्वेत्यादिश्रुतेः। पाणिः एव पात्रं यस्य सः। दिश एव अम्बरं वस्त्रं यस्य। संन्यासी त्यक्तसर्वपरिग्रहश्चत्यर्थः। कर्मणां संचितप्रारब्धानां निर्मूलने नाशे क्षमः समर्थः। कदा कस्मिन्काले भविष्यामि। एवंविधावस्थालालसोहमस्मिंइदानी संवृत्तः। तथा च भगवद्वचने गीतायाम्—एकाकी यतचित्तात्मा त्यक्तसर्वपरिग्रहः। शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम्॥ भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः। क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे॥ इति । अनुष्टुप् ॥
 
  एतदवस्थापन्नानां शिवप्रसादान्मोक्षमार्गः सुलभ एवेति निगमयति—
@@ -3205,8 +2975,6 @@ Miscellaneous. 1—14.
 [^416]: "१ स्पृहांमर्त्य... सुलभां."
 
  पाणिं पात्रयतां पात्रवदुपयुञ्जानानां । पात्रशब्दात् तत्करोति— इति ण्यन्ताल्लटः शत्रादेशः। निसर्गतः स्वभावतः शुचि तेन। भैक्षं भिक्ष्यत इति तेन भिक्षाकदम्बकेन। भिक्षादिभ्योऽण्। विश्वं प्रपश्चं ईषदसमाप्तं तृणं बहुतृणम्। तृणवदिति यावत्। विभाषा सुपो बहुच्पुरस्तात्तु इति बहुच् प्रत्ययः प्रकृतेः पुरस्ताद्भवति। स्यादीषदसमाप्तौ तु बहुच्प्रकृतिलिङ्गकः इति वचनात्प्रकृतिलिङ्गता। पश्यताम्। अखण्डः अपरिच्छिन्नः यः परमानन्दस्तस्य अवबोधः प्रति पत्तिः तं स्पृशन्तीति तेषाम्। जीवद्दशायामेव ब्रह्मानन्दमनुभवतामित्यर्थः। स्पृशोऽनुदके क्विन् इति क्विन्प्रत्ययः। योगिनाम्। तनोः शरीरस्य अत्यागे। देहसम्बन्धे विद्यमानेपीत्यर्थः। शिवप्रसादेन सुलभः कोप्पध्वा मोक्षमार्गः इति यावत् । संपन्नो भवति। स्पृहां मर्त्यः इत्यादि पाठे कोपि भाग्यवान्मर्त्यः ब्रह्मानन्दावबोधाय स्पृह संपत्स्यते प्राप्नोति। आश्चर्यवदेव कश्चिद्धीरो यो योगिगम्यां स्पृहा लभत इत्यर्थः। शार्दूलवि० ॥
-
-
 
  अथ अवधूतचर्या—
 
@@ -3257,8 +3025,6 @@ Miscellaneous. 1—14.
 
 [^428]: " वस्तुभिः"
 
-
-
  मातः लक्ष्मि। इत्यनेन रत्यभावो द्योतितः। भजस्व सेवस्व । मत्कांक्षिणी मय्यभिलाषिणी मा स्म भूः।स्मोत्तरे लङ् च इति चकारादाशीर्थे लुङ्। न माङ् योगे इत्यडागमनिषेधः। तत्र हेतुमाह भोगेभ्य इति। वयं भोगेभ्यः।'स्पहेरीप्सितः' इति चतुर्थी। स्पृहयालवः कामिनः न 'सृहिगृहि०' इति आलुच्। निःस्पृहाणामस्माकं त्वं कासि। न कापि त्वय्यास्थेत्यर्थः। यतः वयं सद्यः तत्कालं स्यूता निर्मिता। कर्मणि क्तः। च्छ्वोःशूडनुनासिके च इति ऊठि यणादेशः। पलाशपत्राणां पुटिका। द्रोण इति प्राकृते प्रसिद्धा। सैव पात्रं तस्मिन्। अपवित्रं पवित्रं संपद्यमानं कृतं तस्मिन्। भिक्षया लब्धाः सक्तवः। भिक्षासक्तवस्तैः। संप्रति इदानीम्। वृत्तिमुपजीविकाम्। समीहामहे इच्छामः।विक्षेपाद्युपाधिरहितं भैक्षमेव ममेष्टं न पुनः श्रीप्रयुक्ता दुःखपरिणामा भोगा इति तात्पर्यम्।शार्दूलवि० ॥
 
  अथ योगिन ऐश्वर्यसम्पन्नेन नृपेण साम्यमाह—
@@ -3279,8 +3045,6 @@ Miscellaneous. 1—14.
  भुजलता बाहुलता। विपुलं विस्तृतम्। उपधीयते शिरोत्र इति उपधानं उपबर्हः। 'उशी' इति भाषायाम्। वितानम्
 
 ..चः**'चांदवा'** इति प्राकृते। आकाशम्। अयमनुकूलोऽनिलः वायुः व्यजनं तालवृन्तकम्।'पंखा'इति भाषाप्रसिद्धिः।चन्द्रः स्फुरन् दीपः। विरतिः शान्तिरेव वनिता स्त्री तस्याः संगेन समागमेन मुदितः प्रीतः तृप्तो वा। न तनुः अतनुः भूतिरैश्वर्ये यस्य स मुनिः। निवृत्तः सर्वतत्वज्ञः कामक्रोधविवर्जितः। ध्यानस्थो निष्कियो दान्तस्तुल्यमृत्काञ्चनो मुनिः॥ इत्युक्तलक्षणः। विपुलसंपत्तिर्नृप इव शेते निद्राति।रुपकसंकीर्णोयमुपमालंकारः। तथा उपमानान्नृपादुपमेयस्य मुनेरपरिच्छिन्नशय्यादिसम्पन्नत्वेनाधिक्यप्रतितर्व्यतिरेको व्यज्यते इत्यलंकारेणालंकारध्वनिरिति रामचन्द्रबुधेन्द्रः। वृत्तं शिखरिणी ॥
-
-
 
  अथ योगिस्वरुपमाह द्वाभ्याम्—
 
@@ -3309,8 +3073,6 @@ Miscellaneous. 1—14.
 [^438]: "राभाष्य, राभाव्यमाना."
 
  द्विजातिः त्रैवर्णिकः। तत्त्वस्य विवेके पेशला पटुः मतिर्यस्य।उत्पन्ना ये विकल्पाः तेषां जल्पैः जल्पनैर्मुखरा वाचालास्तैः। एवंविधानि वाक्यान्युदाहरद्भिरित्यर्थः। तुष्टं प्रीतं मनो येषाम्। यान्ति ब्रह्मनिष्ठत्वातूष्णीं गच्छन्ति। तदुक्तंगीतायां—न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम्। स्थिरबुद्धिरसं मूढो ब्रह्मविद्बह्माणि स्थितः। शीतोष्णसुखदुःखेषु तथा मानावमानयोः॥ इत्यादि। 'अनाविष्कुर्वन्नन्वयात्'इति उत्तरमीमांसान्यायेन—पाण्डित्यं निर्विद्याथ बाल्येन तिष्ठासेत्' इति बृहदारण्यकश्रुत्या 'अद्वैत्तं समनुप्राप्य जडवल्लोकमाचरेत्' इति च गौडपादीयकारिकाया आहितमर्यादामनुल्लङ्घ्यवर्तनं करोतीति तात्पर्यम्। शार्दूलवि० ॥
-
-
 
  अथ योगिनां हिंसादिराहित्यवृत्तिमाह—
 
@@ -3341,8 +3103,6 @@ Miscellaneous. 1—14.
 [^444]: "शङ्ममङ्गे, संप्राप्स्यन्ते अरठहरिणाः शृङ्गकण्डूविनोदम्."
 
  गङ्गायास्तीरे हिमगिरेः शिलायां बद्धं पद्मासनम् । ऊरुमूले वामपादं पुनस्तु दक्षिणं पदं। वामोरौस्थापयित्वा तु पद्मासनमिति इत्युक्तलक्षणं येन तस्य। ब्रह्मणः ध्यानं। 'तत्र प्रत्ययैकतानता ध्यानम्' इति योगसूत्रलक्षितं ध्येयैकप्रत्ययस्य तैलधारावदविच्छिन्नवृत्तित्वम्। तस्य अभ्यसन अभ्यासः पुनः पुनरनुष्ठानम्। 'अभ्यासो नाम चित्तभूमौ कस्यांचित्समानप्रत्ययावृत्तिचित्तस्य' इति आचार्योक्तिः। तस्य विधिना करणेन योगनिद्रां संप्रज्ञातसमाधिं गतस्य प्राप्तस्य मम तैः सुदिवसैः पुण्यदिवसैः भाव्यं किम्। एवंविधान् पुण्यदिवसानहं पश्यामि किमिति यावत्। यत्र दिवसेषु। जरठाः वृद्धा हरिणाः निर्विशङ्काः निर्भयाः सन्तः। कण्डूयन्ते। डित्यपाषाणमिव चेतनरहितं जडपदार्थेमां ज्ञात्वेति पूरणम्। एकन्तवासी 'यस्मान्नोद्विजते लोको
-
-
 
  लोकान्नोद्विजते च यः’ इति सर्वसाम्यावस्थः बहिर्विषयविज्ञानरहितश्च कदा भविष्यामीति चिन्ता द्योतितास्मिन्पद्ये। मन्दाक्रान्ता॥
 
@@ -3377,8 +3137,6 @@ Miscellaneous. 1—14.
 
 [^449]: "५ महायोगीश्वरभर्तृ०."
 
-
-
 संकीर्णश्लोकाः।
 
 येनैवाम्बरखण्डेन संवीतो निशि चन्द्रमाः ।  
@@ -3412,8 +3170,6 @@ Miscellaneous. 1—14.
 
  पुरा प्राचीनकाले विद्वत्ता उपशमवतां शांतिपराणां क्लेशहतये दुःखक्षयार्थमासीत्। कालेन दीर्घकालेनासौ विषयिपुरुषाणां विषयसुखसिद्धयैवैषयिकसुखप्राप्त्यर्थं गता। इदानीं तु क्षितितलभुजः भूभजः शास्त्रविमुखान् शास्त्रपरा
 
-
-
  ढ्मुखान्प्रेक्ष्यसापि विद्वत्ता प्रतिदिनमधोधो गच्छति। एवं समुचिताश्रयाभावादधिकाधिकं नीचावस्थापन्ना भवतीत्यहो कष्टम् ॥
 
 अतिक्रान्तः कालो लटभ[^456]ललनाभोगसुभगो[^457]  
@@ -3446,8 +3202,6 @@ Miscellaneous. 1—14.
 [^460]: "चित्तैक."
 
  अहो आश्चर्ये। त्रुटितः छिन्नो भव एव बन्धः तस्य व्यतिकरः संबन्धो येषां ते। वनान्ते वनमध्ये विषमाः कठिणा ये विषया इन्द्रियार्थाः ते एव आशीविषाः सर्पाः। आश्यां विषमस्यास्तीति आशीविषः। तेषां गतिं मार्गमचिन्वन्तः अमृगयमाणाः। विषमेति गतिविशेषणं वा। शरदि यः चन्द्रः तस्प जोत्स्नाचन्द्रिका तया धवलो यो गगनस्य आभोगः परिपूर्णता । विस्तीर्ण–
-
-
 
  प्रदेश इति यावत्। तेन सुभगा ताम्। सुकृतस्य चयः वृद्धिः तद्विषया या चिन्ता सैव एकं शरणं आश्रयो येषां ते। अन्यत्सर्वंविहाय केवलं पुण्योपचयचिन्तापरा भूत्वा रात्रिं यापयन्ति ते धन्या इत्यर्थः।
 
@@ -3484,8 +3238,6 @@ Miscellaneous. 1—14.
 
  स्मरः मदन एव तिमिरमान्ध्यहेतुः तत्संस्काराज्जनितमज्ञानं ज्ञानप्रतियोगि यदा यस्मिन्काले आसीत् तदा इदमशेषमपि जगत् नारीमयं स्त्रीप्रचुरं दृष्टम्। अस्माभिरित्यध्याहारः। इदानीमित्यनेन विवेकावस्था द्योतिता। अतिशयेन पटुः कुशलः पटुतरः यो विवेकः स एव अञ्जनं तज्जुषामस्माकं समीभूता सर्वसाम्यावस्थापन्ना दृष्टिः त्रिभुवनमपि। न तु केवलमेकं जगत्। ब्रह्म मनुते । ब्रह्मातिरिक्तं तद्व्यतिरिक्तं वा किंचिन्नास्तीति पश्याम इति भावः। शिखरिणी ॥
 
-
-
 ज्ञानं सतां मानमदादिनाशनं  
 केषांचिदेतन्मदमानकारणम् ।  
 स्थानं विविक्तं यमिनां विमुक्तये  
@@ -3511,8 +3263,6 @@ Miscellaneous. 1—14.
 
  हरस्य शिरः चुम्बितीति हरशिरश्चुम्बिनी एवंविधा नीवेः कटिवस्त्रस्य च्छटा यस्याः सा तथा तस्यां त्रिलोकीसरिति गङ्गायाम्। तटे ये विटपिनः तरवः तद्भवैः वल्कलैः तत्फलैश्च सद्वृत्तिं योग्योपजीविकां कल्पयन्त्यां सत्याम्। विपत्तिरेव ज्वरः तेन जनिता या रुक् तयातीव अत्यन्तं दुःखमास्ते आसु इति दुःखासिकाः तासां वक्त्रं मुखं कोऽयं विद्वान् ज्ञाता वीक्षेत यदि हि दुःस्थे स्वे कुटुम्बे अनुकम्पां न बिभृयात्। न कोऽपि याच्ञादुःखदैन्यं सहेतेत्यर्थः। स्रग्धरा।
 
-
-
 उद्यानेषु विचित्रभोजनविधिस्तीव्रातितीव्रं तपः  
 कौपीनावरणं सुवस्त्रममितं भिक्षाटनं मण्डनम् ।  
 आसन्नं मरणं च मङ्गलसमं यस्यां समुत्पद्यते  
@@ -3537,8 +3287,6 @@ Miscellaneous. 1—14.
 [^471]: "पुण्य."
 
  अहौसर्पे। हारे स्रजि। बलवति रिपौ समर्थशत्रौ। लोष्टे मृपिण्डे।कुसुमानां पुष्पाणां शयनं शय्या तस्मिन् । दृषदि पाषाणे। स्त्रीणां समूहः स्रैणं तस्मिन्। समा दृक् यस्य तस्य। क्वचित् कुत्रापि पुण्यारण्ये बदरिकाश्रमसदृशपुण्यप्रदेशे 'शिव शिव शिव' इति प्रलपतः उच्चैर्वदतः मम दिवसा यान्तु।यत्र कुत्रापि देशे यस्यां कस्यामपि वृत्तौ यस्य कस्यापि संगमे सततं शिवनामस्मरणं कुर्वतो ममायुर्यात्विति तात्पर्यम् । शिखरिणी ॥
-
-
 
 अकिंचनस्य दान्तस्य शान्तस्य समचेतसः ॥  
 सदा संतुष्टमनसः सर्वाः सुखमया दिशः ॥१६॥
@@ -3578,8 +3326,6 @@ Miscellaneous. 1—14.
 
  एताः स्त्रियः कार्यहेतोः स्वहेतुसिद्ध्यै इसन्ति आनन्दप्रदर्शनं कुर्वन्ति रुदन्ति
 
-
-
  रोदनं कुर्वतेच। परं पुरुषं च विश्वासयन्ति स्वस्मिन् विश्रम्भं कारयन्ति स्वतस्तुन कस्मिन्नपि विश्वसन्ति। तस्मान्नरेण कुलं च शीलं च ताभ्यां समन्वितेन नार्यः स्त्रियः स्मशाने या घटिका मृत्पात्रविशेषास्ता इव वर्जनीया दूरतः परिव र्जनीयाः। तासां अनर्थहेतुत्वात्। वसन्ततिलका ॥
 
 कार्कश्यं स्तनयोर्दृशोस्तरलतालीकं मुखे श्लाघ्यते  
@@ -3610,8 +3356,6 @@ Miscellaneous. 1—14.
 नाट्येन केन नटयिष्यति दीर्घमायुः ॥२२॥
 
  गात्रैः गिरा च विकलः। चटुं चाटुभाषितम्प्रहसनस्य हास्यरसप्रधान–
-
-
 
  नाटकविषेशस्य। पलितयुतौ कर्णौ तौ एव कर्णकौभजतीति तं भाजं। नाट्येन अवस्थानुकृत्या। दीर्घे प्रविततम्। वसन्ततिलका ॥
 
@@ -3647,8 +3391,6 @@ Miscellaneous. 1—14.
 
 [^485]: "सुखे वा दुःखे वा."
 
-
-
  प्रहारामैः उद्यानैः स्वानन्देन वा रचिते पथि भिक्षा न मम दुष्प्रापा। यतो भूः भूमिः फलैः संपूर्णा । विटपिचर्म वृक्षत्वक् मृगचर्म कृष्णाजिनमपि वसनं वस्त्रम्। यदा। खलु निश्चये। सुखैः दुःखर्वा सदृशपरिपाकः समपरिणामः तदा त्रिनेत्रं शंकरं त्यक्त्वा विहाय कः सुधीः धनलवेन मदः तेन अन्धस्तं जनं प्रणमति। न कोऽपीत्यर्थः। शिखरिणी ॥
 
 नो खड्गप्रविदारिताः करटिनो नोद्वेजिता वैरिण–  
@@ -3680,8 +3422,6 @@ Miscellaneous. 1—14.
 
 [^490]: "कदशित."
 
-
-
  भव्यं सुंदरं भक्तं ओदनः। कदशनं कुत्सितमन्नम्। वासरान्ते दिनान्ते। सितं महञ्चाम्बरं शुभ्रमहावस्त्रम्।शतगुणैर्गुणिता एका कोटिः अपरिमिता इति यावत्। करिणां तुरगाणां च शतैः वेष्टितः। सर्वस्य नश्वरस्वभावत्वान्न किंचिदीप परमार्थसाधकंमिति तात्पर्यम्। स्रग्धरा॥
 
 भिक्षा कामदुधा धेनुः कन्था शीतनिवारिणी ।  
@@ -3709,8 +3449,6 @@ Miscellaneous. 1—14.
 
  हे कुरङ्ग यद्धनिनां वक्त्रंमुहुः वारंवार नेक्षसे न पश्यसि। मृषा चाटुं मिथ्या स्तुतिभाषणं च न ब्रूषे। एषां पूर्वोकानां गर्वप्रचुरा गिरः भाषणानि च न शृणोषि ।पुनः परं प्रत्याशया उत्कटेच्छया तान्प्रति न धावसि। काले क्षुत्काले बालतृणानि खादसि निद्राप्राप्तौ च सुखं निद्रासि तत्तस्मान्मे मां ब्रूहिभवता कुत्र पुण्यस्थले कि नाम तपः तप्तम्। यतः त्वत्सदृशचरितं बुद्धिमति पुरुषेऽपि न दृश्यते अतः कस्य तपस एषा परिणतिः न ज्ञाने इति भावः। शार्दूलवि०॥
 
-
-
 समारम्भा भग्नाः कति न कतिवारांस्तव पशो  
 पिपासोस्तुच्छेस्मिन्द्रविणमृगतृष्णार्णवजले ।  
 तथापि प्रत्याशा विरमति न तेद्यापि शतधा  
@@ -3734,8 +3472,6 @@ Miscellaneous. 1—14.
 
 स्थितिः पुण्येरण्ये सह परिचयो हन्त हरिणैः  
 फलैर्मेध्या वृत्तिः प्रतिनदि च तल्पानि हृषदः ।
-
-
 
 इतीयं सामग्री भवति हरभक्तिं स्पृहयतां  
 वनं वा गेहं वा सदृशमुपशान्त्येक[^494]मनसाम् ॥३६॥
@@ -3785,8 +3521,6 @@ Miscellaneous. 1—14.
 **विरमत बुधा योषित्सङ्गात्सुखात्क्षणभङ्गुरा–  
 त्कुरुत करुणामैत्रीप्रज्ञावधूजनसंगमम् ।**
 
-
-
 न खलु नरके हारा[^501]कान्तं घनस्तनमण्डलं  
 शरणमथवा श्रोणीविम्बं रणन्मणिमेखलम् ॥३९॥
 
@@ -3809,8 +3543,6 @@ Miscellaneous. 1—14.
 [^502]: "२ शबर-"
 
  इयं बाला कुमारी मां प्रति मामुद्दिश्य। अनवरतं अभीक्ष्णं प्रसक्तमिति व्यावत्। इन्दीवरदलस्य नीलकमलपत्रस्य प्रभा कान्तिः तां चोरयतीति चोरं चक्षुः क्षिपति। कि अनया बाल्या अभिप्रेतं इष्टम्। तथा च स्मरस्य कुसुमान्येव वाणाः तेषां व्यतिकरेण सम्बन्धेन यो ज्वरः दाहः तस्य ज्वाला शान्ता। तदप्येवमपि वराकी अनुकम्पा न विरमति कटाक्षविक्षेपान्ननिवर्तते । शिखरिणी ॥
-
-
 
 रेकन्दर्प[^503] करं[^504] कदर्थयसि किं कोदण्डटङ्कारितैः  
 रे रे कोकिल कोमलैः कलरवैः[^505] किं त्वं वृथा जल्पसि[^506] ।  
@@ -3845,8 +3577,6 @@ Miscellaneous. 1—14.
 
  इहेत्यनेन पञ्चेन्द्रियाणां विषया उक्ताः। इतः परमार्थः यैः तैः इन्द्रियैः भ्राम्यमाणः स्वहितकरणे धूर्तानि कुशलानि तैः पञ्चभिः ज्ञानेन्द्रियैः वञ्त्रितोस्मि अतस्तेषां दमनमेव सर्वार्थसाधकेन कर्तव्यमिति तात्पर्यम्। मालिनी ॥
 
-
-
 TRANSLATION  
 OF  
 NÎTIS'ATAKA.
@@ -3865,8 +3595,6 @@ NÎTIS'ATAKA.
 
  6. He who wishes to lead wicked men to the path of the good, with wise words that sprinkle nectar (as it were), tries to bind an elephant with a tender lotus-stalk,
 
-
-
  or attempts to cut a diamond with the edge of a *S'irisha*flower, or desires to impart sweetness to the salt (waters of) the ocean with one drop of honey.
 
  7. The Creator has created a certain and effective disguise for ignorance which can be readily commanded, viz. silence, which, especially in an assembly of learned men, becomes to ignorant folks a befitting ornament.
@@ -3878,8 +3606,6 @@ NÎTIS'ATAKA.
  10. The Ganges falls from heaven on the head of S'iva; from the head of the Lord of beings to the mountain Himalaya; from the lofty, mountain to the plain (lit. the earth): and from thence into the ocean. Thus going down and down the Ganges here has been reduced to a low posi- tion: or there is no cause for wonder; in a hundred ways. ruin overtakes those that have lost their discernment.
 
  11. It is possible to counteract (the working of) fire with water, and the heat of the sun with an umbrella; to control a lordly elephant with a sharp goad, and an infuriated bull and an ass with a cudgel; to cure illness by taking medicine, and to countermine the (effect of) poison by the use of spells. Every thing has an antidote prescrihed for it in the *S'astras,* but for a fool there is none.
-
-
 
  12. A person, unacquainted with poetics, music and the arts, is, in fact, a beast without the horns and the tail; and it is the highest piece of good luck for beasts that he lives without eating grass.
 
@@ -3895,8 +3621,6 @@ NÎTIS'ATAKA.
 
  18. (If he is) highly incensed, the Creator can deprive the swan only of the luxury of residing in a bed of lotus–
 
-
-
  plants; but he cannot rob the bird of his universal reputation for skill in separating milk from water.
 
  19. Bracelets do not beautify a person, nor do necklaces resplendent like the moon, nor bathing, nor anointing(with rubbed sandal &c.), nor (wearing) flowers, nor bedecked hair. Speech alone beautifies a person when it is possessed in a refined form. (Other) ornaments wear away continuously; the ornament of speech is the (only). one which lasts for over.
@@ -3906,8 +3630,6 @@ NÎTIS'ATAKA.
  21. If men have forgiveness, why should they require an armour; no (other) enemies (are required to ruin) them. if they are hot-tempered; if there are kins-people, where is the necessity of fire? (i. e. they will do the destructive work of fire); if there is a friend, what use is there of medicines of sovereign virtue? What need is there of serpents if wicked men (exist)? Of what account is wealth if there is blameless learning? What is the use of ornaments. if (one has) (a proper sense of) shame? If there is sweet. poesy, of what good is kingdom?
 
  22. The stability of the world solely depends on those men who are expert in the following arts:—courtesy to words one's relations, kindness towards strangers, cunning towards the wicked, affection for virtuous men, policy towards princes, humility towards the learned, bravery in
-
-
 
  dealing with one's enemies, patience with the elders, and shrewdness towards women.  
  23. Good company removes the dulness of intellect, infuses truth into speech, bestows great honour, removes sin, purifies the heart, and spreads fame in all directions; say what it does not secure for men.  
@@ -3921,8 +3643,6 @@ NÎTIS'ATAKA.
 
  28. A course of conduct pleasing and upright (at once), not stooping to a sinful act even when life is in danger,
 
-
-
  never to supplicate the wicked nor to beg of a friend who has very little wealth, living nobly in adversity, and following in the footsteps of the great,—by whom has this vow, as difficult (to perform) as walking on the edge of a sword, been taught to the good
 
  29. Though grown weak on account of hunger (starvation), emaciated by old age, almost unnerved and reduced to a pitiable state, with all energy lost and life dying out of him, will the lion, foremost among those who are great in self–respect, ever eat withered grass when his desire is (habitually) fixed solely on making a morsel of the broken. temples of a rutting elephant ?
@@ -3935,8 +3655,6 @@ NÎTIS'ATAKA.
 
  33, High–minded people have a two-fold course of action like a bunch of flowers, *viz.* to stand at the head (in the case of flowers—*on* the heads,) of all men, or to wither away in a forest.
 
-
-
  34. There are even others—Brhaspati chief among them, five or six in number, that are honourable (enough); but Ràhu, delighting in (showing) his peculiar prowess (or, showing his prowess against a distinguished adversary), does not act inimically towards them. On the new and full moon days the demon-chief, whose head is the only remnant part of his body, mark, friend, eclipses only two, the luminous sun and the bright moon.
 
  35. S'es'a supports the row of the worlds on his shelflike hood; he is ever held on his back by the great Tortoise; even him, the ocean consigns with little concern to the abyss (of its water); oh! unbounded is the magnificence of the actions of the great I
@@ -3948,8 +3666,6 @@ NÎTIS'ATAKA.
  38. A lion, though young, attacks elephants whose rampart-like temples are soiled with rut; this is the nature. of the valiant; age, indeed, is not the cause of valour.
 
  39. Let caste go to the nether world, and let the aggregate of virtues sink lower still; let goodness of character fall from a precipice, and nobility be burnt down with fire; let the thunderbolt strike at once bravery which is no friend (to
-
-
 
  us); wealth alone be ours, without which all these virtues are like (of as little worth as) a piece of straw.
 
@@ -3965,8 +3681,6 @@ NÎTIS'ATAKA.
 
  45. When poor, a man longs for a handful of rice; when afterwards he is full (of wealth) he regards the whole earth
 
-
-
  as straw. Hence we must say that for want of fixity as regards the smallness or largeness of the objects of desire. the position of the wealthy magnifies or lessens things (i.e. their value ).
 
  46. O king, if you wish to milk this cow-like earth, then first nourish (enrich) the nation as they do the calf? when the nation (the people) is being constantly enriched, the earth, like the desire-granting creeper, yields a variety of fruits.
@@ -3981,8 +3695,6 @@ NÎTIS'ATAKA.
 
  51. Oh friend *Chataka*, listen (to me) with an attentive mind for a moment; there are many clouds in the sky, but
 
-
-
  they are not all of them such (that a supplication should be addressed to them); some of them moisten the earth with showers, (whereas) others roar for nothing; do not utter a piteous cry before every one that you happen to see.
 
  52. Cruelty, unprovoked opposition, lust of another's wealth and wife, and envy of good men and relations these are natural with the wicked.
@@ -3995,8 +3707,6 @@ NÎTIS'ATAKA.
 
  56. The moon, pale by day (i. e. day-light), a beautiful woman past youth, a lake without lotuses, the unlettered mouth of a man with a fair exterior, a king solely given to hoarding wealth, a virtuous man ever plunged in misery, and a wicked man having access to a king's court—these are the seven barbs in my heart.
 
-
-
  57. No one is, indeed, a favourite of kings whose anger is extremely fierce; the fire burns even the sacrificer offering an oblation, when touched.
 
  58. The duty of service is most difficult to be understood; it is beyond the ken of even sages: (for a servant is called), dump if he is silent ! (if he is) ready with his answer, he is talkative or garrulous; if he stands near, he is impudent; and then if he keeps at a distance, he is timid; if he bears patiently, he is a coward; if he cannot brook (harsh words, insults, &c.) he is generally considered unmannerly.
@@ -4008,8 +3718,6 @@ NÎTIS'ATAKA.
  61. The deer, the fish, and the virtuous, living on grass, water and contentment respectively (find) in this world unprovoked enemies (in):the hunter, the fisherman, and the wicked.
 
  62. A bow to those men in whom reside the following sterling qualities:—desire for the company of the virtuous, satisfaction at the merits of others, humility towards elders, attachment to learning, love for one's own wife, fear of calumny, devotion to the Trident–holder (Siva),. strength to restrain the self, and freedom from the contact of wicked men..
-
-
 
  63. Fortitude in adversity, forgiveness in prosperity, cleverness of speech in an assembly, valour in war, a liking (earnest desire) for fame, and untiring application to the study of the Vedas—all these are natural with the magnanimous.
 
@@ -4025,8 +3733,6 @@ Svali
 
 .In general, the lowest, the mediocre, and the highest degree of excellence is imparted (to a thing) by association..
 
-
-
  68. He is a son who pleases his father with good actions; that is a wife who desires the good alone of her husband; that is a friend who acts the same way in adversity as in happy times. The meritorious (alone) secure these three things in this world.
 
  69. Rising by bending low (i. e. by their humility), evidencing their own merits by extolling those of others, gaining their ends by projecting extensive schemes for (the good of) others, and censuring calumniators, whose tongues (lit. mouths) are noisy with harsh syllables of accusation, with their patience alone—virtuous men of such extraordinary behaviour and highly esteemed in the world—who will not adore them?
@@ -4039,8 +3745,6 @@ Svali
 
  73. The sun causes the group of sun-lotuses to expand without a solicitation; the moon, though unasked, causes the moon-lotuses to bloom; and the cloud yields water without being solicited; good people direct their efforts-towards the good of others of their own accord.
 
-
-
  74. Those are the noblest persons who, giving up self-interest, bring about the good of others; those that under-take a business for the sake of others, not inconsistent. with their own good, are men of the middle order; those that stand in the way of the good of others for their own benefit are demons in a human form; but we know not what to call them (lit. who they are) that oppose the good of others without any advantage to themselves. 
 
  75. Milk, at first, imparted all (its) qualities to its constituent water; on seeing the distress of milk (i. e. when it was heated) water sacrificed itself in the fire (i. e. became evaporated); seeing the distress of its friend (i.e. water), it (viz, milk) became very eager to throw itself into the fire (lit. to go to the fire, i. e. began to boil over); but it settled down when united with that water—such is the friendship of the good.
@@ -4050,8 +3754,6 @@ Svali
  77, Cutdown (check) desire, have recourse to patience, give up pride, fix not (your) attachment on sinful deeds, speak the truth, follow the footsteps of the good, serve the learned, reverence those that deserve respect, conciliate (your) enemies, do not parade your good qualities, pre–serve fame and sympathise with those in ditress; this is the characteristic of the good.
 
  78. Very few good men are there who, full of the nectar of holiness in thought, word and action and pleasing the three worlds with numerous acts of beneficence, rejoice (lit.
-
-
 
  bloom) at heart in ever magnifying the minute good. qualities of others.
 
@@ -4064,8 +3766,6 @@ Svali
  82. Good-naturedness (kind behaviour) is the ornament of greatness; silence of valour, restraint over the sense of learning, humility of (Vedic) knowledge, spending in the right direction (or, bestowal on worthy recipient) of wealth, freedom from anger of austerities; for- giveness of a man in power, and freedom from hypocrisy of religious observances; while good character, which is the root of all these, is the highest ornament of all.
 
  83. Let men versed in policy praise or blame; let the goddess of wealth enter (their house) or go away (from it) as she likes; let death come even to-day or in another age; persons of mental calibre do not swerve from the path of justice.
-
-
 
  84. The virtue of courage of a heroic person cannot be obliterated though he be worried; though pointed down-wards the flame of fire does not point to the ground.
 
@@ -4080,8 +3780,6 @@ Svali
  89. A tree, though cut down, grows again; the moon, though waned, waxes again; thus reflecting good men are not troubled in this world, when plunged in misery.
 
  90. Indra was worsted in battle by his enemies; though possessed of greatness and prowess–even he who had Brhas-pati for his adviser, the thunderbolt for his weapon, the gods for his soldiers, and the heaven for his citadel; he verily enjoyed the favour of Hari (Vishnu), and had Air–avata for his elephant; it is clear, then, that it is better to submit to fate; oh, fie I valour is useless.
-
-
 
  91. A mouse, gnawing a hole into a basket, at night, fell into the mouth of a serpent that, with its body pent up in a basket and its limbs weakened by starvation, had grown despondent. Filled with its meat the serpent quickly glided away through the same opening (lit. the same passage viz. the hole made by the mouse); see, my men, it is destiny alone that is the cause of the rise and fall of men.
 
@@ -4098,8 +3796,6 @@ Svali
  97. That, which is fixed as a man's portion in this world by all-powerful Destiny, will go to him; patronage of the  
  N. T. 2
 
-
-
  great (lit. great patronage) is not at all the cause (of the aquisition). Although the cloud, the gratifier of the desires of all beings, showers daily, only two or three minute drops of water fall into the mouth the *Chataka.* 
 
  98. When on the branch of the *karira* tree there is not a single leaf, it is not the fault of the spring. If the owl cannot see by day what blame is due to the sun? Showers of rain do not fall into the mouth of the *châtaha;* but why blame. the clund for that? Who is able to wipe off what has once been written on the forehead by fate?
@@ -4112,8 +3808,6 @@ Svali
 
  102. Meritorious deeds done in a former life protect a man in a forest, on a battlefield, in the midst of foes, or water or fire, in the vast ocean, or on a mountain-top, whether he be asleep or careless or in a perilous condition.
 
-
-
  103. O good man, to obtain your cherished desire, adore that goddess—Good conduct–that changes wicked men into good, fools into wise men, enemies into friends, the invisible into the visible and deadly poison into nectar, in an instant. Fix not your hopes on numerous other qualities with persistent application.
 
  104. When good luck is favourable to one (lit. closely linked), a splendid mansion, sportive women and prosperity brilliant with the white umbrella—all these things are enjoyed for a long time; but when unfavourable (lit. when its thread is snapped) behold! all these vanish in all directions like a wreath of pearls, the thread of which is broken. in the sport of amorous quarrels.
@@ -4123,8 +3817,6 @@ Svali
  106 The luckless man that does not practise penance on coming into this Land of *Karman,* cooks (as it were) with sandal-wood, &c. for fuel, in a utensil made of the*Vaidurya gem,* the oil-cake of sesamum; or ploughs the earth with a golden ploughshare for the sake of the root of the *Arka* tree, or makes a hedge round a crop of*Kodravas* of camphor-trees having cut them down.
 
  107. That which is not to take place, never takes place, nor is a thing fated to take place averted, in this world, owing to the force of destiny, thongh:a man may dive into water, ascend to the top of the mountain Meru, conquer enemies in battle, learn trade, agriculture and all other arts and sciences, (or) pass like a bird with great effort through the infinite sky.
-
-
 
  108. To a man possessing immense merit (laid by) in a former life, a dreary forest becomes a capital city, all men act in a friendly way towards him and the whole earth becomes full of precious deposits and gems.
 
@@ -4144,8 +3836,6 @@ MISCELLANEOUS.
 
  6. Spirited men, devoted to the performance of the vow of truthfulness, sacrifice their lives willingly but not.
 
-
-
  their vow which is the source of modesty and numerous other good qualities, which keeps the heart exceedingly. pure and is binding like a mother of exceedingly pure heart and attached to one.
 
  7. Like unto the face reflected in a mirror the heart of woman cannot be caught (comprehended); their feeling, intricate like the faint mountain-track, cannot be gauged; their heart has been described by the wise as fickle like water on a lotus-leaf; a woman growing with faults is, evidently, like a creeper growing with its poisonous shoots.
@@ -4160,8 +3850,6 @@ MISCELLANEOUS.
 
  12. This earth, though supported dy the Tortoise, the (seven) principal mountains, the (eight) principal elephants and by the serpent king, shakes nevertheless. The under–
 
-
-
  taking of pure-minded persons (alone) shakes not (remains firm) even at the time of the final dissollution (of the world).
 
  13. Does not the Tortoise feel pain in his body on account of his burden, that he does not throw off the earth, or does not the lord of the day feel fatigue, in that he never remains motionless? (Yes they do). But a worthy man, when going to give up his undertaking, feels shame inwardly; for carrying to their completion things (once) undertaken is the hereditary vow of the good.
@@ -4173,8 +3861,6 @@ MISCELLANEOUS.
  16. Verily a statesman, who brings in new wealth from afar, avoiding dispute (or, war, lit. the sound of bows) al together, becomes engrossed in pleasing the assembly of the wise and takes his steps slowly and solwly agreeably to the heart (wishes) of the subjects, is never free from the burden of anxiety, like a poet who brings outcharming (lit. fresh) meaning (from words which are) far apart (in sense), leaves at a distance unsuitable words again, becomes deeply engaged in pleasing the assembly of the wise, and arranges words with care agreeably so popular taste.
 
  17. Good men should be waited upon, though they may not give good advice (in a special way). For what come from them as random discourses serve as rules for guidance.
-
-
 
  18. Though falling, a noble man generally falls like a ball (i. e. to rise again); but a mean fellow falls like a lump of clay (never to rise again).
 
@@ -4190,15 +3876,11 @@ MISCELLANEOUS.
 
  24. If you desire to see the courage of magnanimous persons give way in times of difficulty, desist from this wicked pursuit, all trouble in which must be fruitless—
 
-
-
  O you block-head these are not the * Kula*-mountains nor the oceans either which transgress their usual bounds at the time of the universal destruction—but insignificant on that account.
 
  25. The goddess of victory likes the chest of warriors. lacerated with the nail-like-long sword, just as an accomplished and grown up handsome woman longs for the chest of brave men scratched by her nails long and piercing like a sword.
 
 —————————
-
-
 
 TRANSLATION  
 OF  
@@ -4213,8 +3895,6 @@ VAIRA´GYAS´ATAKA.
 
  4. I wandered over the country ragged with numerous impassable tracts but did not gain any thing; giving up the proper pride for race and lineage I served (but) to no purpose; banishing all sense of self-respect, I dined in strange houses, fearing like a crow (of being driven away at any moment); but thou waxest still, oh Greed—delighting in wicked deeds—and art not satisfied.
 
-
-
  5. Intent upon propitiating them, I endured with great. difficulty the taunting words of wicked men; checking in my tears I even laughed with a vacant mind; I steadied my heart, and even bowed to the wicked. Disappointed Greed, in what other way wilt thou make me dance ?
 
  6. For the sake of this life (lit. these vital airs) that is compared to water on a lotus leaf, what, indeed, have we, destitute of discernment, not done?—since in the presence of the rich whose minds are blinded by the pride of wealth, we, shameless that we are, have committed the sin of even mentioning (singing the praises of) our own virtues.
@@ -4227,8 +3907,6 @@ VAIRA´GYAS´ATAKA.
 
  10. The desire for enjoyments is dead: the pride of youth is quiet: humbled co-eval friends, valued as life itself, have sped quick to heaven; (I have) to stand up slowly supported on a staff; and the eyes are obstructed by powerful blindness: oh the impudence of the body! It is still afraid of being overtaken by death.
 
-
-
  11, Desire is, indeed, a river, with the objects of desire for its water, agitated by waves in the form of hankerings, having for sharks the passions, and for birds the misgivings. (of the heart), destroying the tree of fortitude, difficult to cross on acconnt of eddies in the form of infatuation, very deep and having anxiety for its steep (lit. high) banks; the great ascetics of pure heart, who have crossed it (the river), enjoy felicity.
 
  12. I no not expect the course of life in this world to turn out happy; the result of meritorious deeds inspires me with fear as I contemplate it; for, enjoyments, long experienced in return for accumulated stores of merit, assume mighty proportions to make the enjoyer miserable, as it were.
@@ -4238,8 +3916,6 @@ VAIRA´GYAS´ATAKA.
  14. Those, who, by the knowledge of Brahman, have. acquired discrimination and possess a refined intellect, do what is hard to do, in that they renounce riches even such as contribute to pleasures, being absolutely unselfish: (these) were neither obtained before, nor are they now; nor is there any certainty (lit. firm belief,) as to their attainment; and still we are not able to renounce them, although their possession (lit. desire) is only a matter of imagination.
 
  15. Of the blessed persons who dwell in the caves of mountains and contemplate the Supreme Light, birds drink the tears of delight, fearlessly resting on their laps: our life on the other hand, is being wasted, (as) we enjoy the
-
-
 
  delight of sports in the pleasure gardens adjoining the walls of mansions reared up by our imagination.
 
@@ -4253,13 +3929,9 @@ VAIRA´GYAS´ATAKA.
 
  20. The removal of pain man wrongly considers as happiness itself—when the mouth is parched with thirst, he drinks sweet and fragrant water; when oppressed with hunger, he swallows rice mixed with vegetable and other
 
-
-
  condiments: and when the fire of love is kindled he clasps. his wife closely.
 
  21. A man, infatuated on account of ignorance, enters. on a worldly career which is like a prison, believing the world to be constant, on seeing the towering mansion, the sons esteemed by the good, the boundless wealth, the lovely wife, and the prime of life: but the blessed man renounces all this knowing it to be perishable in a moment.
-
-
 
 22. If a man did not see his wife distressed and wearing a care-worn appearance, with hungry and noisy children. ever tugging at her thread-bare raiment with piteous looks, what man, who respects himself, would, for the sake ofhis accursed stomach, say—"Give me"—the syllables being broken and absorbed in the gurgling throat for fear of the supplication being rejected.
 
@@ -4268,8 +3940,6 @@ VAIRA´GYAS´ATAKA.
  24. Blessed is the man of self-respect, who, living in a holy city or in a trackless forest, rather goes, when hungry, from one door to another—the vicinity of which has been darkened by the smoke arising from the fire into which oblations have been offered by Brahmaṇas reciting the Vedic*mantras* with the proper accents-in order to fill the cavity of his stomach, with a broken pot covered with a piece of white cloth; but not so the man who daily humiliates himself in (the presence of) his kinsmen, of equal rank with him.
 
  25. Are the Himalayan retreats, which are cool on account of the spray of the waves of the Ganges, and the
-
-
 
  charming slabs of which are occupied by Vidyàdharas, no more, that men are fond of a morsel from others (doled out) with an insult?
 
@@ -4283,8 +3953,6 @@ VAIRA´GYAS´ATAKA.
 
  30. The joys of those who always rejoice in contentment have not been interrupted, nor is the thirst of those others
 
-
-
  quenched, that have their minds agitated by covetousness for wealth. This being the case for whose sake was that Meru made by Brahman a peerless repository of wealth? I like not it, the glory of whose gold is for itself alone.
 
  31. The great ascetics say that the cult of S'iva is atreasure of inexhaustible happiness which cannot be refused to any one—a cult in which there is (i. e. which enjoius,) maintenance ou charity, in which there is no degradation, which yields unparalleled happiness, which always removes fear, does away with the haughty pride resulting from wicked jealousy, and counteracts the current of miseries, which is easily accessible every day at all places, is preferred by the good, and is holy.
@@ -4294,8 +3962,6 @@ VAIRA´GYAS´ATAKA.
  33. Birth is attended with death; vivacious youth with oldage; contentment with cupility; the felicity of renunciation stands in the danger of being disturted by the sportive movements of youtuful women, and virtues by malicious people; wood-lands are infested by serpents; kings are surrounded by wicked people; even prosperity is affected by:inconstancy; or, what is there that is not smitten by something else ?
 
  34. The health of man is undermined by hundreds of mental and physical infirmities; to where there is wealth. misfortunes come througing as if through gates throw open to them; Death hastily asserts his supremacy over every
-
-
 
  helpless creature that is born; what thing is there then, that despotic Fate has made immune from danger?
 
@@ -4309,8 +3975,6 @@ VAIRA´GYAS´ATAKA.
 
  39. Old age stands threatening like a tigress; like enemies diseases smite the body; life runs away like water
 
-
-
  from a broken jar; and yet, oh wonder, man acts in a way de trimental to his interest (does not try to secure *Moksha*).
 
  40. The enjoyments are multifarious and of a transient nature; and by them is constituted this worldly life; what for should you then wander; oh people? Refrain from your actions (pursnit). If our word is to be believed, concentrate your mind, pure on account of the snapping of the bonds of desires, within its cell which can be within reach when passion is rooted out.
@@ -4322,8 +3986,6 @@ VAIRA´GYAS´ATAKA.
  42. That delightful city, that great king, and the circle of feudatory kings, and that assembly of eminent scholars. at his side, the ladies (of the court) with their faces like the disc of the moon, and that group of haughty princes, those bards, and those stories—a bow to Death through whose (destructive) power all these things have become things of the past (lit. things to be remembered),
 
  43. In a certain house (also square of the dice board) where there were many, there (now) stands only one; even there where there was one many followed, and there is not one left at last; thus revolving day and night as if they were two dice, and Godof Death plays (at dice ) with his
-
-
 
  wife Káli making mortals their dice-pieces and the earth. the board.
 
@@ -4337,8 +3999,6 @@ VAIRA´GYAS´ATAKA.
 
  48. We did not acquire untainted knowledge; nor did we amass wealth; we did not even serve our parents with a
 
-
-
  devoted mind; nor did we embrace young women with long sparkling eyes even in a dream; like crows we have passed this period (of our life) craving a morsel from others.
 
  49. Those from whom we were born have long since passed away; those too, with whom we grew up, have been consigned to the region of memory; now here we are, with our fall approaching nearer and nearer day by day, reduced to the same state as that of trees (growing) on the bank of a sandy river.
@@ -4350,8 +4010,6 @@ VAIRA´GYAS´ATAKA.
  52. You are a king; we too are exalted by the pride we take in the wisdom acquired from the preceptor whom we served; you are known for your greatness, (even) our fame the poets spread in all directions; thus, O mortifier (of men) the difference between us is not very great; if you turn away your face from us, we too are utterly indifferent (to you).
 
  53. You are the lord of riches in full, we too of words in all their senses; you are brave, our skill in the act of subduing the feverish prile of a controversialist is inexhaustible, those who are filled with wealth serve you; even me serve
-
-
 
  those that have a longing to listen to me that the taint of their hearts may be removed; if you have no respect for me, the less have I for you; O king, here am I off.
 
@@ -4366,8 +4024,6 @@ VAIRA´GYAS´ATAKA.
  58. The world was formerly created by certain large–hearted blessed persons; by some it was sustained, and by others it was conquered and given away as if it were grass; other noble persons even now rule the fourteen worlds. What morbid infatuation is it on the part of men when they have acquired rulership over a few towns?
 
  59. What honour is it to kings to obtain (the rulership of) the earth, which was not left unenjoyed even for a moment by hundreds of kings; but the lords of a part of its (earth's) part, and of even a small part of that part—fools that they are—rejoice when on the contrary they ought to grieve ! !
-
-
 
  60. The clod of earth is encircled by the watery edge. Even when taken as a whole, it is indeed very small; and it is apportioned by a number of kings and enjoyed after hundreds of battles. Abject and exceedingly poor, they therefore, give or would give nothing. Fie upon those mean fellows who wish to get even from them a piece of coin.
 
@@ -4385,8 +4041,6 @@ and never again be attached to transient worldly happiness.
 
  65. O my mind sweep off infatuation, acquire that devotion to the moon-crested god (which grants the highest
 
-
-
  77. In this world in which life extends over a few winkings of the eye, we do not know what to do, whether we should taste nectarious juice of diverse kinds of poetry, or drink the streams of philosophy; whether we should modestly lead a householder's life in company with a wife ennobled by virtues; or whether we should dwell on the banks of the heavenly river, practising penance.
 
  78. These kings whose minds are as unteady as a horse are difficult to be propitiated: while we have a high ambition and our heart is set on a lofty position, old age despoils the body and death robs (one) of the dearly loved existence: (under these circumstances), O friend, there is nothing advantageons to a wise man in this world. except penance.
@@ -4396,8 +4050,6 @@ and never again be attached to transient worldly happiness.
  80. Delightful are the moon-beams, the forest spot. verdant with grass, the happiness arising from the company of the good and of friends is gratifying; the narratives in poetic works are pleasing; charming is the beloved shining with the tears deposited on it by anger; everything is charming; but nothing (is charming) when the mind is distracted. (See notes).
 
  81. Is there not a delightful mansion for habitation; is not music &c. pleasing to the ear (lit. fit to be heard); is not the happiness of the company of one as dear as) life itself to (a man's) great gratification? But wise men have resorted
-
-
 
  to a forest considering all this as unstable as the shadow of a small lamp flickering in the wind (caused by the wings) of a moth madly falling upon it.
 
@@ -4411,8 +4063,6 @@ and never again be attached to transient worldly happiness.
 
  86. On nights with all sounds hushed up, sitting at ease somewhere on the sandy bank of the heavenly river, the surface of which (bank) is whitened by the brilliant flood of moonlight, and grown despondent on account of the wearisomeness (lit. magnitude or expansiveness) of wordly existence, when shall we, loudly uttering the
 
-
-
  the words "Siva, S'iva" have our eyes flooded with copious tears proceeding from supreme bliss !
 
  87. Having given away everything with a heart full of tender compassion, and remembering the courses of destiny having adverse ends in this wordly existence, (when) shall we pass, in a sacred forest, the nights lit with the rays of the full autumnal moon, the feet of Hara being the sole refuge of our mind !
@@ -4425,8 +4075,6 @@ and never again be attached to transient worldly happiness.
 
  91. A certain path (i. e. of *Moksha*), easily attainable by the favour of Siva, opens up for the Yogins, who use the hand as a pot, who are contented with alms which are intrinsically pure, who sit anywhere, who ever look upon the world as almost like grass and who have all acquired, even without casting off the body, the knowledge of the uninterrupted and supreme delight (of Brahman).
 
-
-
  92. Happily lives the ascetic (with his) strip of cloth extremely thread bare and torn in a hundred pieces, and a wallet to match, (with his) freedom from care and meal consisting of alms got with ease, (with his) bed in a forest. or a cemetery, (with his) equal regard for friends and foes, with his extremely serene contemplation in a secluded place, and glad that all his errors arising from arrogance have been corrected.
 
  93. The mere (insignificant) group of worlds is nothing for the temptation of one who has restrained his mind. ever agitation produced in the sen by the motions of a S'afari (a female fish )?
@@ -4437,8 +4085,6 @@ and never again be attached to transient worldly happiness.
 
  96. There is (rarely found) an ascetic, living on alms, free from attachment (though) in the midst of the people, his movements ever under his control, attached to the path which is free from giving and taking, wearing a wallet made of old threadbare clothes thrown away in the streets, not caring for honour, not proud, and wishing solely for the enjoyment of tranquil pleasure.
 
-
-
  97. Is he a Chándal (pariah) or a Bráhmana (twiceborn), is he a S'adra or an ascetic, or is he some great saint, whose intellect is acute enough to understand philosophical truths: ascetics, although thus spoken of by people, garrulous on account of the doubts rising within them quietly (or, self-deNighted) go their way neither offended nor please at heart.
 
  98. The creator ordained the air to serve the serpents as food—not involving the sin of destroying life, and assessi ble without any effort; animals living on land be made to eat grass; (but) to men, whose talents are capable of bearing them over the ocean of life, he has assigned such a living that while in pursuit of it all their good qualities are invariably brought to an end (exhausted).
@@ -4448,8 +4094,6 @@ and never again be attached to transient worldly happiness.
  100. Those blessed ones–whose hand is (to them) a clean pot, and alms acquired by wandering (an) inexhaustible. (supply of) food, to whom the extensive ten quarters are as a spotless garment, and the earth as a spacious bed, whose development is in accepting renunciation, who are contented with themselves, and who have got rid of a number of opportunities of humiliation—root out *Karma.*
 
  101. O mother, earth; O father, wind; O friend, light; O water, my good relation, and O brother, sky; here do I fold, for the last time, my palms in salutation to you; by means of poor knowledge resulting from the preponderance of merit accumulated by virtue of association with you, all the trammels of infatuation having been removed, I now merge in the Supreme Brahman.
-
-
 
 MISCELLANEOUS.
 
@@ -4465,8 +4109,6 @@ MISCELLANEOUS.
 
  6. How very blessed, indeed, are some persons who with their shackles of worldly ties snapped and not looking out for the irregular course of serpentine
 
-
-
  sensualism, pass, in the farthest corner of a forest, the night, delightful on account of the expanse of the sky being brightened up by the winter moonshine, solely intent on storing up merit.
 
  7. Our view (at first) was that you were we and we were you (i. e. you and we were the same, and had no diverging interests ); what has happened now by which you are you and we are we (i. e. you and we have had diverging interests)
@@ -4478,8 +4120,6 @@ MISCELLANEOUS.
  10. Knowledge in the case of the good does away with conceit, vanity and the like; in the case of others (lit. some) it is the cause of haughtiness and vanity. A secluded place. in the case of self-restraining persons leads to salvation; in the case of love-sick persons it is a further incitement to love.
 
  11. I consider those men to be supremely rich, who have never joined their palms overhead in token of submission, to whom a slab on some mountain is as a couch and a cave in mountain as a home, to whom the barks of trees are as raiment and the deer as friends, whose subsistence.
-
-
 
  is by the sweet fruits of trees, who find an agreeable beverage in spring water, and to whom learning is as a pleasure-giving consort.
 
@@ -4493,8 +4133,6 @@ MISCELLANEOUS.
 
  16. Every thing gives happiness (lit. all directions are full of happiness) to a man who is poor, self-restrained, peaceful, of an equilibrating mini, and ever coutent at heart.
 
-
-
  17. Time never returns; it passes nselessly, a fact which was never considered (by you); (you) accommodated (yourself) to the various conditions, which are adverse on account of the concurrence of a hundred difficulties; or what shall we say? What harm have you not done your- self? Every now and then you have been repeatedly doing the same.
 
  18. "Arise, my friend, and bear for a moment the heavy burden of my poverty. I am now tired, and shall long enjoy the happiness you enjoyed from death."Thus addressed by a poor man who hai hurri
@@ -4506,8 +4144,6 @@ edto the cemetery, the corpse remained silent, knowing that death was better, fa
  20. To brutes alone would be dear those fawn-eyed. (women) in whose case faults (demerits) are a recommendation (*lit*. merits) for, their hardness of the breasts, unsteadiness of the eyes, and falsehool on the tongue *(lit*. mouth) are praised; crookedness of hair, dulness of the face, and plumpness of the hips, commended; and timidity of the heart and deceitful tricks towards their beloved (husbands). always mentioned (with approbation).
 
  21. In some places there is music of the lute, in otherscries of alas! alas!; in some places there is the conversation of learned men, in others the brawls of men intoxicated with drink; in some places there are charming ladies, in others (men or) women with leprous bodies; I do not know whether worldly life is full of sweets or bitters.
-
-
 
  22. Deformed in limbs and lisping in speech, here are you that have been made the buffoon of a farce, while flattering; what part (I do not know) will prolonged life. make you play, such as you are, with your ears bordered with grey hair.
 
@@ -4524,8 +4160,6 @@ taneously), since they are not able in any way to do good to others (and since) 
 
  \[Extra S1. in the foot-notes—By you Bali was not liberated from the nether world; death was not done away
 
-
-
  with; the dark spot on the Moon was not wiped away, nor were diseases rooted out; nor was S'esha's burden lightened (by you) for a moment by supporting the Earth. O heart, you suffer torment day and night by the false pride of being good.\]
 
  28. My mind desires to go to S'amkara, its scruples in the investigation of scriptural meaning being completely set at rest, its delight in poetry full of various sentiments being turned away, and all the different wild doubts (lit. expanse of doubts) being totally dispelled.
@@ -4539,8 +4173,6 @@ taneously), since they are not able in any way to do good to others (and since) 
  32. Tell me, O deer, where you performed penance and of what name, that (by virtue of it) you have never to see the face of the rich or to tell lying flatteries; you do not hear their haughty words, nor run to them with some expectation, but you eat tender grass when it is time (to eat) and lie down at ease when sleep comes (to your eyes).
 
  33. O brate, how many times and what preparationsof yours, desirous of drinking of the water of the ocean of
-
-
 
  mirage in the form of wealth, have not been baffled? (Very often they have been). Yet your hope is not dispelled; your heart must certainly be formed of adamantine stone, since it has not yet been broken into a hundred pieces.
 
@@ -4556,8 +4188,6 @@ taneously), since they are not able in any way to do good to others (and since) 
 
  39. Desist, O wise men, from associating with women—from the momentary happiness. Be attached to Mercy, Friendship and Reason. Neither the fully-developed orbs of breasts covered with a wreath, nor the
 
-
-
  round hips having a tinkling girdle round them set with diamonds, can be your salvation in hell.
 
  40. Why are those suggestive glances, O young women, darted from your sportively half-closed (eyes)? Desist, Oh, desist; vain is this effort (of yours). Now changed beings are we; youth is gone; our yearning (is only) for the farthest part of a forest; infatuation has subsided, and we look upon the meshes of the world. as straw.
@@ -4570,10 +4200,7 @@ taneously), since they are not able in any way to do good to others (and since) 
 
  44. By the five senses, clever in ministering to their own advantage, which have marred supreme bliss, have I been duped, being revolved (among their objects) thus—Here is melodious music, here a dance, these are sweet flavoured viands, here is a spreading perfume, and here the touch of breasts.
 
-                                   
  **——————**
-
-
 
 NOTES
 
@@ -4589,8 +4216,6 @@ NITIS'ATAKA.
 
  The Vedantic character of the s'1. the student will easily mark. दिक्काल—space and time, अवच्छिन्न is lit. what is cut off from all sides, is contained in another, is measured: अनवच्छिन्न means what is unmeasured; hence undefined, unconditioned. आदिrefers to qualities (*gunas*) such as , धर्म, अधर्म, &c., as well as to कार्य (effects) &c. न विद्यते अन्तः यस्य तदनन्तं Infinite. चिन्मात्रमूर्ति—चिन्मात्र pure intelligence or knowledge.A Karm. of the मयूरव्यंसकादि class मूर्तिः–whose form is pure intelligence, दिक्का ०ये—A *Tripada* Karm. This is the best way of taking the Comp. The attributes of Bramha, here expressed, are summed up in the *mahbuakya—*'सत्यं ज्ञानमनन्त ब्रह्म'? of the Taittiriya Upanishad. Another way is to analyse. the Comp. as a Bah. with मूर्तिas the second member, with all that precedes as its attributive member, itself being a Comp. of three adjectives. मूर्ति is derived from मूर्च्छ्1. P. to settle into a solid form x क्तिन्and literally means what is visible to the senses.henee secondarily what is perceptible
 
-
-
  by the mind. The Dat. sing, of *nou*. adjs. ending inइis optionaly formed like that of *mas*. nouns; so–मूर्तयेor र्तिने.see Gr. §69. Pán. VII.I. 74.
 
  स्वानुभूति &c.–स्वानुभूति-self-perception, manifestation of Brahma in contemplation. एकmeans 'principal, chief,' rather than 'sole;' of the couplet. एकोल्पार्थे प्रधाने च &c. quoted in Gr. § 154; also Amars 'एकेमुखयन्यकेवलाः'। मान—मीयतेऽनेनेति मानम्from मा+ल्युट् (अन्), a measure; hence the means of arriving at correct knowledge. In this sense the word प्रमाण is more common. The *pramánas,* according to the Vedantins, areप्रत्यक्षानुमानागमाः प्रमाणानि to which the Naiyayikas add उपमानBrahma is specially regarded as प्रत्यक्षप्रमाणगम्य‘capable of being realised by perception, although there are other means. of knowing it such as आगम्&c. Another reading here isस्वानुभूत्येकसारायwhich Mr. Telang interpretes in two ways:–(1) to him who is the sole essence of self-knowledge, or (2) to him whose sole (or principal) essence is self-knowledge, preferring the former, as that, he thinks, gives the अद्वैतview of the Vedánta.
@@ -4604,8 +4229,6 @@ Nyssen's description.of the divine nature quoted by the late Mr. Mansel in his p
 
  S'I. 2. The present S'loka is said by; the Commentators (whose remarks are perhaps based on a tradition which is almost universal) to refer to a family intrigue the incidental
 
-
-
  discovery of which filled Bhartṛhari with disgust for worldly life. It is this:–Once upon a time, a Bráhmaņa[^511], who had come by a fruit which conferred immortality on any one who ate, it, gave it to Bhartrhari, as the worthiest person to receive it, being the protector of many people. Bhartrhari gave it to his wife who gave it to her paramour, who in his turn gave it to a sweet-heart of his, who again presented it to Bhartṛhari. The s'loka, however, is quite out of place here as it has no connection with any things that follow. If it be supposed that it is the expression of the abhorrence of the intrigues and sins of the world felt by some one disgusted with it, then the most natural place for it would be the*Vairágyas'ataka.* Many manuscripts, however,agree in giving it here.
 
 [^511]: According%20to%20another%20version%20king%20Vikrama%20obtained%20the%20fruit%20from%20a%20Yogin,%20he%20gave%20it%20to%20a%20Bråhmana,%20he%20to%20Bhartrhari%20and%20so%20on. "According to another version king Vikrama obtained the fruit from a Yogin, he gave it to a Bråhmana, he to Bhartrhari and so on."
@@ -4616,16 +4239,12 @@ Nyssen's description.of the divine nature quoted by the late Mr. Mansel in his p
 
  धिक्—is used with the Acc मदन—from मद् (माद्यत्यनेन) + अन Lit. the intoxicating god.च इमाम् —The hiatus here is allowed by the rule संहितैकपदे &c. Sid. Kau.; see com.—*Sandhi* is absolutely necessary in a grammatical form, in the case of a
 
-
-
  preposition and a root, as also in compounds; but in composition it depends on the will of the writer. Rhetoricians, however, consider it a fault called 'विसंधिदोष'See Kåv. P. VII.  
  SI. 3. अज्ञ—जानातीति ज्ञः (ज्ञा+ कृ) न ज्ञः अज्ञः। सुखं सुखतर used as adverbs विशेषं जानातीति विशेषज्ञः। ज्ञानलव०—लव m. is derived from to out, to divide; a particle. दुर्विदग्ध–विदग्ध properly means what is well burnt, polished and burnished; hence refined with culture, learned; दुष्टं यथा विदग्धः दुर्विदग्ध badly learned or wise, vain, arrogant (with little learning; ज्ञानलवेन दुर्विदग्धः) दुर्विदग्धो दुश्चतुरः अर्धज्वलित इत्यर्थः।Rámarshi. *Cf.*Little knowledge is a dangerous thing. ब्रह्म–derived fr. वृह् 1. 6. P. to grow+ मनिन,theऋ being changed to र् before it by Uņ. IV. 145. रञ्जयति—रञ्ज् Cau, means to colour, to impart one's hue to; hence to win over, to gratify or propitiate. The Can, form is रञ्जयति when the meaning is to sport with or hunt deer; see Kir. VI, 24. Some read the line as ब्रह्मापि तं नरं&c. but this violates the laws of metre (as it makes 17 *mátrás* in Påda instead of 15 or 18 ) and is therefore inadmissible.
 
  ŚI. 4. प्रसह्य—Indec.. with great force. from. मणिfrom मण् sound + इ (न्). मकर०–मंविषं किरतीति (क+अचू) a crocodile, s shark. वक्त्र—वक्स्यनेनेति from वच् + ट्रन् करणे. द्रष्ट्रा–also der with ष्ट्रन् from दंश्to bite.०—अङ्कुर *V.l.—*from अङ्क्a to mark, stamp+उरच्means pointed, sharp दंष्ट्राङ्कुरात्—from the tips or points (i. e. when held fast between the points) of the jaws; sing. for pl. *Cf.*दर्भाङ्कुरS'âk. and दीपाङ्कुरःVair. S'at. 63.प्रचलद०—ruffled or agitated with a series of rolling billows. उर्मि
 m. f. from ऋ+ मि, अर्तेरुञ्चs Uṇ. IV. 44.  
  भुजङ्गः—भुजः (bent, curved कुटिलीभवन) सन् गच्छतीति भुज् + मुम्+खच् मुम् (the nasal) inserted by 'णरुर्द्विषदजन्तस्य मुम्' Pán. VI. 3. 67—Before the aff. खश्and the words अरुम्, द्विषत् and such as end in अtake the aug. म् when used prepositionally with verbs. पुष्पवत्—पुष्पेण तुल्यम् like a flower तेन तुल्यं क्रिया चेद्वतिः Pán. V. I. 15. वत् is attached to a noun in the sense of तेन तुल्यं 'equally with that' when the equality refers
-
-
 
  to an act. प्रतिनिविष्ट—obstination, holding contrary opinions, perverse, *Cf.*निविशतेVair. S'at. Mis. s'l. 19.
 
@@ -4639,8 +4258,6 @@ Cresura; see com.
 
 मकटोन्तः—extreme edge. शिरीष is known to be the softent flower. This shows the extreme folly of the act. सन्नह्यते—prepares, makes himself ready for. It properly means to put on an armour and thus to equip one's self for battle; cfMah. Bhár. युद्धाय सन्नह्यते It is Atm. in this sense. पथि—The root नीgoverns two objects and the Acc. would have been more idiomatio. But as पथिis not the principal object but only secondary, it depends upon the will of the speaker to put it in the Acc. or
 
-
-
  in its natural case. सुधास्यन्दिभिः—shedding nectar, mellifluous. The root is sometimes used transitively. Cf. हलाहलं खलु पिपासति कौतुकेन कालानलं परिचुचुम्बिषति प्रकामम्। व्यालाधिपं च यतते परिरब्धुमद्धा यो दुर्जनं दशयितुं कुरुते मनीषाम्। Bhẩm. Vil. I. 93; also 96, where the idea is somewhat differently expressed.
 
  The rhetorical fig. here is *Nidars'aná* (मालानिद०which is defined as–निदर्शना। 'अभवन्वस्तुसम्बन्ध उपमापरिकल्पकः॥' when an impossible connection of things implies a comparison it is निदर्शनं दृष्टान्तकरणम्(citing of an instance). We have here a*M'alanidars'aná* (a string of illustrations ) as the u*pamanas* or'things compared' to are many.
@@ -4653,13 +4270,9 @@ Cresura; see com.
 
  S1. 9. कृमि—Covered with, or full of a swarm of insects. विगन्धि— giving out a bad stench. This is grammatically. inaccurate विरुद्ध गन्धः अस्य givesविगन्धम् So to explain the form we must add इच्मत्वर्थे विरुद्ध गन्धः विगन्धः Karm. सोस्त्यस्य. But this is against the rule न कर्मधारयान्मत्वर्थीयः बहुव्रीहिश्वेत्तदर्थेप्रतिपत्तिकरः।No affix showing possession should be added to a Karm, if its sense can be conveyed by a Bab. So this way
 
-
-
  of defending the form is not very satisfactory. See, however, our note on तुल्यगन्धिषु Rag. IV. 45. जुगुप्सित—censured, condemned. निरुपम्— Avya.; रसप्रीत्या v. l. see com.; (eating it) with a relish the flavour of which is unparalled. न शङ्कते—has no fear or misgiving; does not think that he is doing something censurable or disgusting. परिग्रहफल्गुता—the worthlessness of one's belonging. The fig. here is अर्थान्तरन्यास—Def. सामान्यं वा विशेषो वा तदन्येन समर्थ्यते। यत्र सोर्थान्तरन्यासः साधर्म्येणितरेण Where a particular proposition is corroborate by a general proposition or a general proposition is supported by a particular instance either under a resemblance or contrast, that is *Arthántaranyása* or corroboration. There is also अप्रस्तुतप्रशंसा in the first three lines.  
 
  Ś1. 10.सार्वम्–शर्वस्येदं of Siva. Bhagirath, a king of the solar race, wishing to procure the salvation of his 60,000 ancestors that had been reduced to ashes by Kapila's curse, propitiated by his penance, Ganga, and induced her to come down to the earth. The river complied with his request but directed him to find out some one who would bear her force as she would fall down from heaven. Bhagiratha then propitiated S'iva who agreed to allow the river to fall on his head. Bhagirathi, accordingly, fell from heaven on Siva's head, thence descended to the peak of Himálaya, thence to the earth and thence to the nether world where her waters sanctified the offspring of Sagara. The whole story is given in RámaI.35-44. For पशुपति some read पतति शिरसः तत्क्षितिधरम् (his i.eSiva's mountain ) महीघ्र—महीं धरतीति धृक्+ क (अ) a mountain. अघोधः—The Ganges comes down to a lower and lower position. स्तोक—low, base.अथवा— or ra ther, what wonder if. far-Gangá, in her arrogance thought that she would bear down even S'iva and enter into the nether world with him; she was punished for this by Siva, See Rám. विनिपातः—Mark the *double entendre* on this word which means (i) great fall, and (ii) destruction, ruin. शतमुख-applies to
-
-
 
  the river in its literal sense; in the other case it means, in a hundred ways.' The fig. is *Arthántaranyása.*
 
@@ -4672,14 +4285,10 @@ Cresura; see com.
 
  SI. 14. पर्वत–fr(पर्वन् a joint, a part). दुर्ग—the impassable place. भ्रान्तम् p. p. used as a noun; for a similar use of गतं
 
-
-
  (gait) तिरश्वीनमनुसारथेः Sis. I. 2. उभावलंचक्रतुरञ्चिताभ्यां तपोवनावृत्तिपथं गताभ्याम् Rag. II. 18. सुर—The derivation of this word is far fetched. सुष्टु राति इति सुरः he who grants what is desired, याद्वा समुद्रोत्थासुरा (nectar churned ont of the sea) अस्स्यस्य; अर्श-आदित्वात् अच्Pān. V. 2 127 ef. Râmâ. सुरापरिग्रहाद्देवाः सुरा इत्य भिविश्रुताः ।The word, however, is of later growth, the original word being असुर from which it was derived. See note on असुर Rag. II. 37.  
  SI.15. शास्त्रोपस्कृत—शास्त्रैः (such as grammar, rhetoric &o.) उपस्कृताः (refined, polished) ये शब्दाः तैः सुन्दरा agreeable, eharming गीः येषाम्। उपस्कृत–उपात्मप्रतियत्नवैकृतवाक्याध्याहारेषु च\। Pán. VI. 1. 139. उपात्कृञः सुट् स्यादेषु अर्थेषु द्योत्येषु–स् is inserted betweenउप and कृ when these senses are to be implied; चात्मागुक्तयोरर्थयोः—by च we ought to understand that स् is inserted to express the senses already given (i.eभूषणे समवाये च Pän V.I. 1. 137 138). प्रतियत्नोगुणाधानं adding & property or excellence; विकृतमेव वैकृतं विकारः; वाक्यस्य अध्याहारः आकाङ्क्षितैकदेशपूरणम् ।उपस्कृता कन्या अलंकृता इत्यर्थः। This sense will do in the present case; उपस्कृता ब्राह्मणाः समुदिताः (collected together) इत्यर्थः। एधो दकस्योपस्कुरुते गुणाधानं करोतीत्यर्थः। उपस्कृतं भुंक्त विकृतमित्यर्थैःउपस्कृतं ब्रूते। वा- क्याध्याहारेण ब्रूते।Sid Kau. This last sense will also do—whose speeches are embellished with quotations from the different*Sástras.*
 
  शिष्यप्रदेयागमाः–आगम properly means the Vedas, but here it means literary acquirements, knowledge of the different branches of learning क—a learned man साङ्गं—stupidity, insbility to appreciate the merits of. ईश्वरः–ईशितुं शीलमस्य; from ईश्+ वरच्'स्थेशभासपिसकसो वरच्' Pán. III. 2. 175. These roots take this aff. ताच्छील्ये; स्वावर, भास्वर, पेस्वर &o. ईश्वर means 'rich' here. *Cf-*'मा प्रयच्छेश्वरे धनम्' H. I. कुत्स्याः—from कुत्स10 A to censure, fit to be censured, fit to blame अर्पतः पासिताः-Valued lower than their real worth. The fig. in the first three lines is विरोधाभास in as much as the poets are spoken of as ईश्वर, though without wealth, which apparent Virodha or incongruity is removed by taking
-
-
 
  ईश्वर to mean rich in the store of knowledge. The fig. in the last line is दृष्टान्त.
 
@@ -4689,8 +4298,6 @@ Cresura; see com.
 
  S1. 18. The idea expressed in the s'l. is this—A king, even though angry with a learned man, can at the most deprive him of his external comforts but do him no further injury—he cannot deprive him of his great inherent virtues अम्भोजिनी०—वनं a bed. नितराम् may mean 'wholly, entirely,' if taken with हन्ति or 'exceedingly, very much,' when taken with कुपित. दुग्धजलभेद—The power of separating milk from water is supposed to belong to all swans. *Cf.* सारं ततो ग्राह्यमपास्य फाल्गु हंसैर्यंथा क्षीरमिवाम्बुमध्यात्। Pan, Tan.I. नीरक्षीरविवेके हंसालस्यं त्वमेव तनुषे चेत्। विश्वस्मिन्नधुनान्यः
 
-
-
  कुलव्रतंपालयिष्यति कः॥ Bhām Vil. I. 12. वैदग्ध्य—विदग्धस्य भावःI See note on दुर्विदग्ध s'l. 3. The word is used here in the sense of 'natural skill or capaoity'. कृस्यवस्तुषु चातुर्ये वैदग्ध्यं परिकीर्त्यते।
 
  Śl. 19. केयुरः—an armlet.संस्कृताः—-polished or refined by oulture. Cf. Kali. 'संस्कारवत्येव गिरा मनीषी तथा स पुतश्व विभूषितश्वKum, I. 28, where Malli, renders the word संस्कारby व्यकरण–जन्या शुद्धिः।Here of course the word means more than that सतत—Lasting for ever.
@@ -4698,8 +4305,6 @@ Cresura; see com.
  S1. 20. नाम—is used here प्राकाश्ये ‘as is well known'; or it may have the sense of ‘indeed, verily' as in मया नाम जितंor न नाम शरासनम्Vik. प्रच्छन्नगुप्त—The Comp. may be taken in two ways प्रच्छन्नं यथा तथा गुप्तंvery carefully protected, or प्रच्छन्नमत एव गुप्तं चcarefully concealed (from view and protected) *Cf.*हर्तुर्याति न गोचरं*supra* s'1. 16. भोगकरी—contributing to pleasures. from भोग+कृ+टः (अ) added हेती+हे see com., टis attached to कृ in these senses:–यशस्करी विद्या, श्राद्धकरः (ताच्छील्य), वचनकरः (आनुलोभ्य); Sid. Kau. गुरुणां गुरुः the preceptor of preceptora, or the greatest of the great. For the Gen. गुरुणां see Pån II. 3. 41. (यतश्च निर्धारणम्)and Apto's G. § 82. The *fem,* of गुरु is गूर्वी or गुरुः the rule is'वोतो गुणवचनात्'Pån. IV. 1. 44.स्वरुसंयोगोपधान्न।Vårt—Adjectives of quality ending in उ not preceded by a conjunct consonant, except स्वरु, form their *fem*, by adding ईoptionally. See Gr. § 319 बन्धुः—बध्नाति मनः स्नेहादिनेति बन्धुः।बन्धु+उUn. I. 10. राजसुपुजिता—The construction is rather unidiomatic from a grammatical point of view. The rule of Pân, is ‛क्तस्य च वर्तमाने’'II. 3. 67. Past. p. participles ending in त, when used in the sense of the present tense, are used with the Gen. राज्ञां मतः बुद्धः पुजितो वाThe Loc. may be explained. as विषयाधिकरणे, राजसु विषये पूजिता or the whole may be taken as a Comp. word meaning well (सु) respected (पुजिता) by kings (राजभिः). विद्याविहीन पशुः—Comp. s' 1s 12, 13.
 
  Fig.— As there are many *rupakas* in this s'I. the figure of speech is *Mälä-rupaka*. A रुपक is defined as तद्रूपकमभेदो यः उपमानोपमेययोः—the identity of the उपमान and उपमेय is *Rüpaka*
-
-
 
  i. e. when two things known to be quite different from each other are identified together to show their great resemblance to each other the fig is *Rüpaka.*
 
@@ -4709,23 +4314,17 @@ Cresura; see com.
 
  SI. 23 सिञ्चति वाचि सत्यम्—4 curious phrase. It means‘eauses men to be always truthful.' सत्यं—सति साधु सत् + यत् दिशति—brings about; lit grants प्रसादयति—purifies, enlightene. कथय—*cf.* the similar use of 'say'in English poetry*cf.*दूरीकरोति कुमतिं विमलीकरोति चेतश्विरन्तनमघंचुलुकीकरोति। भूतेषु किं च करुणां बहुलीकरोति सङ्गः सतां किमु न मङ्गलमातनोति॥ Bhám. Vil.I, 119; also महाजनस्य संसर्गः कस्य नोन्नतिकारकः सतां हि सङ्गः सफलं प्रसुते &o. Fig.—In the last line there is अर्थान्तरन्यास अलङ्कार. There is also दीपकालङ्कार (कारकदीपक) in the first three lines, सैव (सकृद्वृत्तिः) क्रियासु बह्वीषु कारकस्यति दीपकम्. When & case noun oceurring onoe
 
-
-
 is connected with a plurality of verbs we have the (second) of दीपकालङ्कार.  
 
  SI. 24. जयन्ति–Glory to; veneration to (implied), सुकृतिन—'इनिः'।Pán. V. 2 115; (1) meritorious, whose works are good. (2) adepts in the preparation of medicines. रससिद्धाः—see com.; perfect or accomplished in the *Rasas* or sentiments i.e.capable of depicting the various sentiments, and, thereby touching the passions and feelings of men (what constitutes the soul of poetry); masters of the poetic art. The *Rasas* are eight in number; viz शृङ्गारवीरकरुणाद्भुतहास्यभयानकाः। बीभत्सरोद्री च रसाः (शान्तस्तु नवमः स्मृतः॥ शान्त is also added). Some also add a tenth–वात्सल्यरस. The *Rasasa* are more or less a necessary factor of every poetic composition. But according to Vis'vanátha they constitute the very essence of poetry (since he defines काव्य asवाक्यं रसात्मकं काव्यम्). रससिद्ध is also a *S'lishta* word. The side meaning is who are skilled in managing meroury (रस), which, when prepared in a particular way, is supposed to grant exemption from old age. यशःकाये—यशोरुपः कायः।काय irregularly derived from चि; चीयतेऽस्मिन्नस्थ्यादिकमिति, चीयते अन्नादिनति वा कायः। चि+घञ् चस्य कः।Pan III. 3. 41 जरा fr. ज+अङ् *Cf* कतिपयनिमेषवर्तिनि जन्मजरामरणविह्वले जगति। कल्पान्तकोटिबन्धुः स्फुरति कवीनां यशःप्रसरः॥Subha. The fig. in this śl. is S'lesha,
 
  SI25. सूनुः—a son; सूयते इति। सुवः कित् इति नुः।Un. III. 35. सञ्चरितः—well-behaved. सती—सती साध्वी पतित्रता Amara. प्रसादोन्मुखः—ready to favour,favourably disposed अवदात—अवदायते स्म इति । from दे to purify &o. + क्तः कर्मणि।refined polished: hence elegant or beautiful with विष्टपहारिन्—ताच्छील्यैणिनिः। habitually plessing the world, joy of the world (Vishnu being the most popular deity). The fig here is तुल्ययोगिता (and not दीपक) which is defined as नियतानां सकृद्धर्मः सा पुनस्तुल्ययोगिता।K. P.—a combination of several objects having the same attribute (here acquisition of the various things mentioned) the objects being either all relevant or all irrelevant.
 
-
-
  S'I. 26. संयम्ः—restraint over the mind (i. e. checking such a desire). काले—at the proper time, timely (charity). शक्त्या—i.e. यथाशक्ति according to one's power or means. युवति—maintaining silence with regard to speaking about other people's wives; in such cases means 'a collection.'परेषां–is connected with युवती० by सापेक्षत्वेपि गमकत्वात् (when the connection is easily understood): समासः। For a similar idea *cf*अनिर्वणनीयंपरकलत्रंनाम ।Sak V. युवति is the *fem.* of युवन् Pán. IV. 1. 77. तृष्णास्त्रोतः—The idea recurs in Vai. S'at, śl. 45. (आशा नाम नदी &०) सामान्यः—सह मानेन वर्तते समानः। ततः स्वार्थे ष्यञ्। See Vårt. on Pan. V. 1. 124. Common to all the*S'ástras.*अनुपहतः०—whose application (operation) is unobstructed i. e. which never fails to produce the desired effect.'Which violates no rules or ordinance.' K. T. Telang. श्रेयसां—Blessings of all kinds.
 
  S'I. 27. नीचैः—by law or poor-spirited men, men incapable of sustained exertion निकृष्टाम् ई शोभां चिनोतीति; नि + ई +चि+ङ। मध्याः—men of the 2nd class. *Cf*. Mud. II. 70.
 
  S'I. 28. प्रिया—Agreeable and yet not departing from, standing to, justice, just. वृत्तिः—course of conduct, behaviour. मलिन—मलोऽस्यास्ति। मल्+ इनच् अस्त्यर्थेsee Pän V. 2. 114 A dirty or foul deed. असन्तः &c.—Because अनिष्टादिटलाभेपि न गतिर्जायते शुभा। सुदृद्—For deri. see *supra*. 21. Mr. Joglekar takes this in the general sense of 'a noble-minded person',derīving it as शोभनं हृत् यस्य, 'as opposed to असन्तः But I am inclined to take it rather in its restricted sense of ‘a friend' who alone may be appealed to for help under any circumstances, and not every good person. The force of अपि is then properly brought out. The use of the sing. सुहृद् also shows that that is the intention of the poet. Otherwise he should have used the plural corresponding to सन्तः उच्चैः स्थेयम्— Acting nobly, keeping up one's dignity. *Cf*. S'is. IX. 5. पदमनुविधेयं&c.—Tread, follow, in the foot-steps (of the great). उद्दिष्ट—is here used for are advised, dictated. असिधारात्रतम्—Three meanings can be assigned to this:—(1)
-
-
 
  'असिधारायां शयनमिव दुष्करं व्रतं the vow difficult like that of lying on the edge of a aword. *Cf.* फण्टकव्रतरायनलीलाम् Kád. p. 396; (2) or as Malli explains it (Rag XIII 67) युवा युवत्या सार्धं यन्मुग्धभर्तृवदाचरेत्। अन्तर्निवृत्तसङ्गस्यादसिधारं व्रतं हि तत्॥ इति यादवः।इदं चासिधाराचंक्रमेण (moving on) तुल्यत्वादसिधाराव्रतमित्युक्तम्।Or (3) according to some शयने मध्ये खड्गं निधाय स्त्रीपुंसो यत्र ब्रह्मचर्येण स्वपतस्तत्।Or (seecom.). This explains the extreme difficulty of the course of conduct marked out for themselves by the good.
 
@@ -4735,8 +4334,6 @@ is connected with a plurality of verbs we have the (second) of दीपका�
 
  S'I. 30 निर्मोस—The word माँस is curiously derived in Manu Sm. V. 55. मांस भक्षयिताऽमुत्र यस्य मांसमिहाद्मयहम्। एतन्मांसस्य मांसत्वं प्रवदन्ति मनीषिणः॥ अस्थिकं—small bone; क in such cases is used in a diminutive sense; it may also have a deprecatory sense here; कुत्सितमस्थि अस्थिकम् Thereading अस्थि गोः has no special propriety here. सिंहः—हिनस्तीति, & word of the पृषोदरादि class: सिंहो वर्णविपर्ययात्।Sid Kau. सत्वानुरूपं worthy of in keeping with, one's greatness or magnanimity of heart
 
-
-
  inherent disposition or character (according to Malli; see com. on Rag. V. 21.) Fig—Arthântaranyása. For the idea comp... जरठज्वलनज्वलताप्यपगतशङ्का समागतापि पुरः। करिणामरिणा हरिणा हरिणाली हन्यतां तु कथम् ॥Bha. VI. 1. 49.
 
  SI. 31. अधश्चरणवपातम्—(1) He falls down on his knees; (2) falls at the feet of another. Both the senses seem to be intended. पिण्डद—the giver of food. गजपुङ्गव—पुङ्गव at the end of a Comp. indicates excellence. Compare the similar use of such words as ऋषभ,कुञ्जर &c. see com.धीरम्—with patience or seriousness. चाटुशटैः—with hundreds of cajoling expressions or words of coaxing (addressed to him). An *Anyôkti*(a kind of *Aprastutaprarsamsa).*
@@ -4745,16 +4342,12 @@ is connected with a plurality of verbs we have the (second) of दीपका�
 
  SI. 33. द्वयी—द्वौअवयवौयस्याः; 'two fold' संख्याया अवयवे तयप्।द्वित्रिभ्यां तयस्यायज्वा। Pän V. 2. 42, 48. अय is optionally substituted for तय in the case of द्वि or त्रि; द्वितयं, द्वयं त्रितयं, त्रयम्. मनस्विन्—noble-minded, high souled. द्वे गती स्तःः &o. v. I. means:–There are two courses (of action) for &c. The former is preferable as it implies an amount of consideration and determination on the part of the *Manishin.*&c.—(1) at the head of all; (2) on the head &c. For the idea expressed here comp. नैसर्गिकी सुरभिणः कुसुमस्य सिद्धा मूर्घ्निस्थितिर्नं चरणैरवताडनानि ॥Uttar I विशीर्यत०—A high –minded man rather than occupy a low position retires from society and leads a secluded. life. Fig. Upamâ.
 
-
-
  ŚI. 34. बृहस्पति—from बृहत् speech+पति the lord of; hare the planet Jupiter, 'तद्ब्र्हतोः करपत्योश्वोरदेवतयोः सुद् तलोपश्च' Virt. on Pán. VI, 1. 157.स्is substituted for the final of बृहत् and तत् when followed by पति and कर when the sense is a particular deity and a thief respectively; soतत् + कर=तस्कर सम्भाविताः—well respected or esteemed i. e. of middle size.
 
  विशेष—see com.; or विशेष्यत इति. विशेषःunusual, uncommon; or शिष्यते इति शेषः।complete, hence uncommon; विशेषः विक्रमः विशेष तत्र रुचिः यस्य bent on performing deeds of unusual valour. वैरायते A denom. from देर meaning वैरं करोति; derived with the aff. क्यङ्; see com. भास्वरौ—brilliant. भान्तः–v.l. revolving; कर्तरि क्तःby गत्यर्थाकर्मक &c. Pan III. 4. 72. पर्वन्—The time of new or full moon (opposition or conjunction). शार्षाव०—The allusion here is to the severance of the demon's head at the time when the nectar that was churned out of the ocean was served to the gods, and Ráhu attempted to drink it by joining their line. The sun and the moon informed Vishnu of the fraud, whereupon he severed the demon's head with his discus. But as the demon had tasted a little quantity of*Amyta* the head lived and is supposed to wreak its vengeance on the two luminaries. See Mat. Pu. Adh. II. 5. 13. 16. Bhâg. P. VIII. 9. 23–26. The fig. is अमस्तुतप्रशंसा as the action of Rahu which is not the matter in hand (अप्रस्तुत) implies the action of an inveterate wicked man which is the matter intended to be described.
 
  ŚI. 35. फणाफलक The flat surface of (extensive board formed by his hoods. Comp. Mat. Pu. OOLIX. 7. मध्येपृष्ठम्—on the back. Avy. Com. This is less common though by no means very rare: comp. Bv. I. 60; Nai, III. 40; Sis. III. 70.VII. 32 and 70 Bhatti. V. 4. पारे मध्ये षष्ट्या वा। Pan. II. 1. 18. The words पार and मध्य are optionally compounded with a noun in the Gen. case forming an Avy., the final अ of these being irregularly (निपातनात् एदन्तत्वं चानयोर्निपास्य़ते। Sid– Kan.) changed to ए; optionally there may be Gen, Tat. *e. g.*Sid.  
  N. N. 2
-
-
 
  गङ्गापारात्, गङ्गामध्यात् When the last word has the sense of the Loc. the final may be changed to अम् as here, the sense being पृष्ठस्य मध्ये.See Gr.§ 274. क्रीडाधीन—क्रोडेproperly means the bosom (भुजान्तर see Amara. 11. 77.); hence a portion, a corner of the ocean's surface, क्रोडे अधि क्रोडाधीनं Loc. Tat. The Tad. aff. अ(ईन) is necessarily added to a Tat. ending in अधिby Pân. V. 4. 7. अनादरात् with but scanty regard. The ocean seems to take but little notice of the Tortoise with his immense body. For the story, see Mat. Pu. Chap. OOXLIX. 26, 26. अहह expresses here ‘wonder, astonishment,' (अद्भुते). निःसीमानः—न विद्यते सीमा यासां. The *fem*. of निःसीमन्is formed in three ways, so the other forms of the pl. are निःसीमन्and; निःसीमन्य see बहुराजन् Gr. § 329. The fig. in the first three lines is Máladipaka, and in the fourth *arthántaranyasa* (confirming the general proposition about the magnanimity of the actions of the great by the particular instance of the sea).
 
@@ -4763,8 +4356,6 @@ is connected with a plurality of verbs we have the (second) of दीपका�
 seefor protection. Only Maináka escaped the fate which overtook others. For this legend, see Rámå. Sun. K, Adh. I. 115–119. For the physical explanation, see Notes on Rag. I, 68. Mark the use of the word उचितhere. In the construction of वरम् न च or न पुनः, such a word is not usual, its signification being implied in the construction itself. Mr. Telang's notes.
 
  ŚI. 37. यत्–तत्— since then; in as much as पादैःस्पृष्टः (1) touched with the rays; (2) with feet. तेजस्वी—of pre-eminent valour. विन् showing excess (भुमन्) (अस्मायामेधाम्नजो विनिःPân. V.
-
-
 
  2. 121. विकृति—insult *C*f. न तेजस्तेजस्वी प्रसृतमितरेषां प्रसहते स तस्य स्वो भावः प्रतिनियतत्वादकृतकः। मयूखैरश्रान्तं तपति यदि देवो दिनकरः किमाग्नेयग्रीवा निकृत इव तेजांसि वमति॥ Uttar. VI. 14; also पुरःसरा धामवतां यशोधनाः सुदुःसहं प्राप्य निकारमीदृशम्।भवादृशाश्वेदधिकुर्वते रतिं निराश्रया हन्त हता मनस्विता॥ Kir. I 43, where निकार is the same as निकृति *Cf.* alsoIII. 44. विकृती *V. I*which nearly means the same thing. It properly means 'change, agitation;'hence what causes such agitation, offence, injury. Fig. Drštânta.
 
@@ -4776,15 +4367,11 @@ Ganaratnamahodadhi quoted by Malli in his com.on Rag. V. 43. Or this may mean 't
 
  SI. 40. इन्द्रियाणि—इन्द्रिय is peculiarly derived by Pán (V 2 93.) इन्द्रियमिन्द्र- लिङ्गमिन्द्रदृष्टामिन्द्रसृष्टमिन्द्रजुष्टमिन्द्रदत्तमिति वा॥ इन्द्र is
 
-
-
  the soul, the lord of the body. It is thus explained by Vámanaइन्द्रस्य लिङ्गमिन्द्रियम्। इन्द्र आत्मा स चक्षुरादिना करणेनानुमीयते।नाकर्तृकंकरणमस्ति। इन्द्रेण दृष्टमात्मना दृष्टमित्यर्थः। इन्द्रेण सृष्टमात्मना सृष्टम्। तस्कृतेन शुभाशुभकर्मणोत्पन्नमिति कृत्वा। इन्द्रेण जुष्टमात्मना सेवितम्। तद्द्वरेण विज्ञानोत्पादनात् ॥ इन्द्रेण दत्तमात्मना विषयेभ्यो यथायथं ग्रहणाय ।Also. इन्द्रेणात्मना दुर्जयम् ।Bhattoji. There are two kinds of *Indriyas—Jnânendriyas* and *Karmendriyas,* thus given by Manu—श्रोत्रं त्वक्चक्षुषी जिह्वा नासिका चैव पञ्चमी। पायूपस्थं हस्तपादं वाक्चैव दशमी स्मृता॥ मनस्is the eleventh organ of sense which is internal. In the Vedantaमनस्, बुद्धि, अहंकार and चित्तare said to be the four internal organs. According to some these are the different faculties constitating the mind or अन्तःकरण Others add अन्तःकरण to the list making up aपञ्चक बुद्धिis evidently used here for the mind and not in the sense of the *Vedantins* अप्रतिहत—unrepulsed in full (un-impaired) vigour वचनम्–power or manner of speech अर्थोष्मन्—Comp.वित्तज उष्मा Pt. II. शौर्योष्मन् Mv. अन्य&c—becomes quite a changed man (inasmuch as he is differently treated by the world at large); see the next sI.
 
  SI. 41. कुलीनः—nobly born. *Cf.* for the iden in the slokas 39–41 the well-known *Subhashita* यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्यबान्धवाः।यस्यार्थाः स पुमान् लोके यस्यार्थाः स च पण्डितः॥ Also धनमर्जयकाकुत्स्थ घनमूलमिदं जगत्। अन्तरं नैव पश्यामि निर्धनस्य मृतस्य च॥ ब्रह्मघ्नोक्तिनरः पूज्यो यस्यास्ति विपुलं धनम्। शशिना तुल्यवंशोपि निर्धनः परिभूयते ॥ Fig. Kavyaliñgs, सर्वे गुणाः काञ्चनमाश्रयन्ते explaining the reason of a wealthy man being considered कुलीन &o.
 
  SI. 42. दौर्मन्त्र्यात्—see com सङ्ग—attachment to wordly objects, association with men कुतनयः—तनोति कुलमिति तनयः fromतन् + कयन् (अय). खलोपासन—serving, propitiating a wicked man. In doing this one is likely by habit to loss one's good disposition अनय—impudenos, impolitic conduct. अनवेक्षण—want of proper care or supervision. त्यागप्रमाद—carelessness or indiscretion (not exercising prudence and judgment) in expenditure, including charity, is evidently a better reading than.
-
-
 
  त्यागात् &c.where त्यागmeans 'liberality, giving away.' It also keeps up symmetry. Fig. तुल्ययोगिता, विनश्यति indicating the common attribute.
 
@@ -4798,8 +4385,6 @@ polished on a polishing stone हेतिनिहस—forcibly struck *i, e.*
 
 pitys &c., see our Raghu (V. 16) and note thereon. तनिमन्—An abs. noun from तनु. The aff. इमनिच् (इमन्) is optionally added, to form abstract nouns, to पृथु, मृदु, महत्,पटु, लघु&c.'पृथ्वादिभ्य इमनिज्वा''Pan. V. 1. 122. अर्थिषु &c.—as Chârudatta, the hero of the Mrch.; and not in vices.
 
-
-
  Fig. *dipaka,* as the common attribute शोभा is mentioned once with regard to 'जन' which is प्रकृत (matter in hand) and with respect to मणि &o. which are अप्रस्तुत. 'सकृद्वृत्तिस्तु धर्मस्य प्रकृताऽप्रकृतात्मनाम् (दीपकं) K. P.X.
 
  Śl. 45. परिक्षीणः—Reduced in circumstances every way (परि): completely poverty-stricken. प्रसृतिproperly means the palm hollowed, hence by *Lakshaná* what is contained therein; also a measure equal to two *palas*. स्पृहयति—स्पृहgoverns the Dat. See Pân. I. 4. 56. सम्पूर्णःfull of, scil. wealth. opp. to परिक्षीणः Mark the force of the prepositions परिand सम् कलयति(a verb capable of a very large number of meanings according to context); here, thinks, considers.
@@ -4809,8 +4394,6 @@ pitys &c., see our Raghu (V. 16) and note thereon. तनिमन्—An abs. 
  ŚI. 46. दुधुक्षसि—desiderative of दूह; although a द्विकर्मक root it is here used with one object. क्षितिधेनुम्—a Karm. and the Fig properly is रुपक. तेन— equivalent to तर्हि अद्य seems to have been used here in a wider sense:—now, at present. This verse gives a very sound advice to princes to secure the pros perity of their states. The last three lines contain an उपमाand the metaphor of the first has not been kept up. क्षितिtherefore should be taken as in the Com. *Cf.* Rag. I. 26. दुदोह गां&c.
 
  ŚI. 47. हिंस्रा—murderous, cruel, bloody. From हिंस्+र added ताच्छील्ये by 'नमिकम्पि &o.’ Pan. III. 2. 147. अर्थपरा-अर्थ एक परं यस्याः। with an eye solely to wealth; greedy. वदान्य—liberal,
-
-
 
  munificent. नित्यmay be taken either as *adj*. or *adv.* in the dissolution of the compounds, नित्यव्यया and प्रचुरनित्यधनागमा. The fig. is Upamâ.
 
@@ -4824,8 +4407,6 @@ pitys &c., see our Raghu (V. 16) and note thereon. तनिमन्—An abs. 
 
 stil
 
-
-
 the poet allows the ellipsis to remain because it is so easy to supply it .केचित्.....केचित् some...others. यं यं पश्यसितस्य तस्य पुरतः—before every one that you see. The fig. is अप्रस्तुतप्रशंसा here.
 
  SI. 52. अकारणविग्रहः—causeless strife, unprovoked quarrel. इदम् refers to each of the foregoing nominatives.
@@ -4838,8 +4419,6 @@ the poet allows the ellipsis to remain because it is so easy to supply it .क�
 
  ŚI. 56. दिवसं०—दिवसेन (Inst हेतौ) धूसरः rendered pale by (the overpowering light of) day; अनक्षरम्–अविद्यमानमक्षरं यत्र
 
-
-
  तत्। Nan. Bah. स्वाकृतेः–सुटु आकृतिर्यस्य तस्य।*Cf.* 'unlettered, illiterate'in English. Want of learning becomes a disgrace more marked in such a case.सततदुर्गतः—Here the word सततis to be emphasised. नृपाङ्गण–Both अङ्कनand अङ्कणare found used by classical writers, though the former is the correct form. The change of न to ण in अङ्कण is explained by referring it to the पृषोदरादि group. ०गतः खलः a wicked man gone to the courtyard of a king's palace. This may also be metaphorical—who has curried royal favour. This sl. is quoted in the K. P. as an instance of the fig. समुच्चय–अत्र शशिनि धुसरे शल्ये शल्यान्तराणीति शोभनाशोभनयोगः(of causes which are partly agreeable and partly otherwise). For definition seecom. Here the moon alone obscured by day is sufficient to become a
 
 s'alya (sore affliction) and yet others are mentioned.
@@ -4847,8 +4426,6 @@ s'alya (sore affliction) and yet others are mentioned.
  ŚI. 57. होतारम्—Here the word is used in its general sense; any sacrificer (comp. याच होत्रीŚák I. 1.) and has nothing to do with the priest of that name at a great sacrifice.जुह्वान–This is not the pre. p. of the root as it is always Par.; but formed with the aff. चानश्;see noted on जीवमानः Śl. 12.पावकः—पुनातीति fire; पृ+ण्वुल (अक). The fig. is Drstánta which is thus defined—दृष्टान्ताः पुनरेतेषां (उपमानोपमेयसाधर्म्याणां सर्वेषां प्रतिबिम्बनम्। K.P. X.
 
  ŚI. 58. चाटुलः—चटुल एव चाटुलः। चटुल from चटु+ल (लच्)a possessive affix added to the words.of the सिध्मादिclass; see Pán. V. 2. 97; garrulous, officious. जल्पकः—The proper form isजल्पकः; if we add आक (पाकन्) by जल्पभिक्ष्—Pan. III. 2. 155.*Cf*. Amara 'स्याज्जल्पाकस्तु वाचालः'. But as the form stands, it must be explained as जल्पतीति जल्पः, कुत्सित जल्पः जल्पकः अप्रगल्भ–timid. For the meaning of प्रगल्भ*cf*.'पुंवत् प्रगल्भा प्रतिहाररक्षी'Rag. VI. 20.अभिजातः—noble-born, polite in behaviour,courteous.योगिनामपि—Yogins have superhuman power by their practice of contemplation and so they must know every thing. But this is unfathomable even to them. अगम्यः—difficult to obtain success in; difficult properly to carry out.
-
-
 
  The other reading वातुलः for चाटुलः avoids repetition, the meaning in that case being 'delirious'; but when we look to what the common parlance is in this connection, this reading does not seem to be preferable. 
 
@@ -4862,8 +4439,6 @@ s'alya (sore affliction) and yet others are mentioned.
 
  ŚI. 62. व्यसनं—close application, strong attachment..खलेसंसर्गमुक्तिः—There is एकदेशी अन्वय here, खले यः संसर्गः तस्मात् मुक्तिः।We have preferred the sing. to the plural as it keeps up
 
-
-
  the uniformity of construction with regard to the use of the sing. throughout.
 
  ŚI. 63.वाक्पटुता—cleverness in speech, command overlanguage,eloquence. व्यसनं श्रुतौ—From the way in which the study of the Vedas is frequently referred to in the *S'atakas* we may infer that Bhartrhari was not a Buddhist. *Cf*. ŚI, 66, 67; see Introduction.
@@ -4871,8 +4446,6 @@ s'alya (sore affliction) and yet others are mentioned.
  ŚI. 64. संभ्रम—means आदर; see com.; it also means haste which sense will also do here if we take विधि to mean आदरविधिas remarked by Mr. Telang—'It would mean the flutter of preparation to do due honour.' कथनं चाप्युपकृतेः *v. i*. will mean–proclaiming the good deeds of others in an assembly. निरभिभवº–अभिभवः(insult, contempt); सारः essence, gist; conversation about others without meaning the least offence; even the pith of which is free from disrespect to others. असिधाराव्रतम्—the vow of lying on the edge of a sword; also, explained otherwise as the practice of continence even in the company of a young wife. See note on ŚI. 28. This ŚI. is quoted in the Kuvalayâ nanda as an instance of समुच्चयालङ्कार,with some variations—प्रदानं प्रच्छन्नं गृहमुपगते संभ्रमविधिर्निरुत्सेको लक्ष्म्यामनभिभवगन्धाः परकथाः।प्रियं कृत्वा मौनं सदसि कथनं चाप्युपकृतेः श्रुतेत्यन्तासक्तिः पुरुषमभिजातं कथयति॥
 
  ŚI. 65. त्यागcharity. *Cf*. दानेन पाणिःsI.71. श्लाष्यः—some take this with त्यागas well as with the nominatives following it, with the necessary change of gender.विजयिº विजयते तच्छीलौविजयिनी ever victorious; तौच तौभुजौच &c. Some separateविजयिनौmaking it an *adj.* to वीर्यम्. हृदि—Loc. sing. of हृदय which optionally becomes हृद from the Acc,plural. हृत् also occurs as a word by itself, but its use is rare. 'स्वान्तं हृन्मानसं मनः'।Amara. श्रुतम्—Holy knowledge: or knowledge in general. *Cf.*श्रोत्रं श्रुतेनैव न कुण्डलेनsl. 71 *infra.* The fig. is विभावना since there is the mani- festation of the effect, मण्डन, although its cause ऐेश्वर्य has been denied; क्रियायाः \[हेतोः\] प्रतिषेधोपि फलव्यक्तिर्विभावना।K. P. X.
-
-
 
  ŚI. 66 महाशैल &c.–शिलानां संघातः शिलासंघातः।महांश्वासौशैलश्व महाशैलः तस्य शिलासंघातः like a dense (सं) line (घात) of rocks &c. The fig. here is Upamá
 
@@ -4886,8 +4459,6 @@ sutra सुकर्मपापमन्त्रपुण्येषु क�
 
  SI. 69. नम्रत्वेनोन्नमन्तः—rising to greatness by humility. ख्यापयन्तः—pres. p. of causal of ख्या. Their appreciation of other people's merits is in itself a sign of their possessing merits.वितत०—दुषयन्तः—rebuking. Contemptuous silence is the best
 
-
-
  treatment of a caluminstor. साश्चर्यचर्याः—आश्वर्यसहिता admirable,चर्या (चरितम्) येषां ते. The fig here is Viródhābháss.
 
  SI. 70. भूरिविलम्बिनः—hanging very low. This reading is preferable to भूमि० as the point here is नम्रत्व. अनुद्धताः—Not. haughty. समृद्धिाभिः—with the acquisition of wealth. This sl. occurs in the Sâk. Act. V. The figures in this s'l. according to Rághavabhatta are क्रियादीपक मालाप्रतिवस्तूपमा (विनयस्य साधारणधर्मस्य नम्रदूरविलम्ब्यनुद्धतशब्देनोक्तेः), अप्रस्तुतप्रशंसा and अर्थान्तरन्यास (स्वभाव इत्यादिस्तु हिशब्दानुपादानेऽर्थान्तरन्यासः).
@@ -4900,8 +4471,6 @@ sutra सुकर्मपापमन्त्रपुण्येषु क�
 circle of, 'चक्रवालं तुं मण्डलम्'।Amara.नाम्यर्थितः to be taken with all the three—दिनकर, चन्द्र and जलधरअभिर्योगे—application, resolutely setting oneself about. Fig.*Arthántaranyása.*
 
  ŚI. 74.एते—Mr. Telang reads एके 'some'. ते एते, however, serves as a better correlative of ये and gives proper force to the main assertion. घंटकाः—who bring about, accomplish. उद्यमभृतः—
-
-
 
  उद्यमं बिभ्रतीति; सोद्ममा इत्यर्थः।स्वार्थाविराधेन—विरोधस्याभावःअविरोधः;स्वार्थेन अविरोधः, तेन*i. e.* without sacrificing their own good.स्वार्थाय—*i.e.* स्वार्थं साधयितुम्. See note on हिताय SI. 72.
 
@@ -4919,8 +4488,6 @@ sager, तेन जलेन युक्तम्—reunited with the same wat
 
  Sl. 77. In line 3 the Nirnayaságar Edition reads प्रख्यापयfor प्रच्छादय which will suit only with the reading प्रश्रयम् for स्वाद् गुणान्see com.; as it stands, however, it is entirely objection–
 
-
-
  able. Mr. Telang thinks the construction of the stanza to be similar to that of Sis. I, 5I, which is according to the Sútraसमुच्चयेऽन्यतरस्याम्. In such constructions all the verbs must be in the Imperative mood. Here मावमंस्थाःmust be considered as equivalent in sense to the Imperative mood. लक्षणम्—Mr. Telang adopts the reading चोटेतम्. But then what does एतद्refer to? Certainly to the actions indicated by छिन्धि &c.; so this amounts to एतत् चेष्टितं
 
 सतांचेष्टितम्. लक्षणं is thereforebetter. Such acts are the sign of &c.
@@ -4937,8 +4504,6 @@ sager, तेन जलेन युक्तम्—reunited with the same wat
 
 वो मङ्गलम्॥For the story, see Råmá. Bal. K. XLV. Bhâg. P. VII. 9-8. Nî. Sat. 27. The fig. here is Arthântaranyása.
 
-
-
   Śl. 81. क्वचित्–may better be taken as an adv. of time;at one time; at another, भूमीशायी is a better reading than भूमौ शायीas keeping up symmetry. शाल्योदन—Having a liking for Salt (a superior kind of paddy) only. कन्थाधारी—One wearing a wallet. मनस्वी—from मनस्+षिणिःhigh-souled, also wise विन्shows प्रशस्त्य .कार्यार्थी (कार्य अर्थयते इति) One that seeks to gain his object. This as well as कन्थधारी and शाकाहारी are formed by affixing इन् (णिनिः) by सुप्यजातौ णिनिस्ताच्छील्ये (इन् is added to a root in the sense of 'in the habit of' when it is preceded by a noun not denoting a class ). कार्यार्थीmay also be taken. as in the com.
 
  Śl. 82. उपशम्—Sabduing the passions, tranquillity. प्रभविद्—One possessing absolute power. This is the only concrete noun used in the s'loka for प्रभावस्य. निर्व्याजता—freedom from hypocrisy. सर्वेषाम्&c.—Some take this to mean 'of all persons,' in which sense अपिwould be superfluous. सर्वकारणम्cause of all i. e. of ऐश्वर्य. सुजनता&c. शील–virtuous or good conduct.
@@ -4948,8 +4513,6 @@ sager, तेन जलेन युक्तम्—reunited with the same wat
  SI. 84. कदर्थितस्य p. p. of कदर्थय् denom fr. कदर्थ(कुत्सितोर्थः) of one who is despised, afflicted, worried: प्रमार्ष्टुम्—to wipe off completely, to obliterate. Mr. Telang rightly remarks that अधोमुखस्य कृतस्य is not a usual construction and that therefore the reading तनुनपातः—(see foot-note p. 34) is better. This however, is open to another objection; for it involves the दोष—अप्रयुक्तत्व, the word तनूनपात्—though given by the lexicographers for fire, being hardly, if ever, used by the poets. The fig is Drstânta.
 
  ŚI. 85. न लुनन्ति 'cut or wound', or pierce. कटाक्षविशिखाः—arrows in the form of glances. कृशानुः–कृश्यतिthat which reduces size; hence fire; कृश+आनु (क). Construe यस्य चित्तं कान्तान खनन्ति ०तापः न दहति and so on.
-
-
 
  ŚI. 86. साधु &c.—The word वृत्त has a double application here; as applied to the ball साधुवृत्त means (साधु यथा तथा वृत्ताः) well-rounded, perfectly spherical, is the other case it means 'of virtuous conduct, whose course of actions is well-regulated."*Cf.* 'वृत्ते स्थितस्याधिपतेः प्रजानाम्' Rag. V. 33. अस्थायिन्यः—not abiding, short-lived. The Figures are *Arthántaranyása* *and S'les'a.*
 
@@ -4962,8 +4525,6 @@ sager, तेन जलेन युक्तम्—reunited with the same wat
  ŚI. 90. नेता—guide, adviser. *Cf*. अमात्ये नेतरि सुलभमेतत्कुमारस्य
 Mud. II. वृहस्पति—The spiritual adviser and counsellor of Indra. For derivation see sl. 34. अनुग्रहः किल हरेः,who, as is well-known (किल) enjoys the favour of Hari. ऐरावतः—इर आपः सन्त्यस्मिन् इरावान् तत्र भवः (अण्)lit. sprung from water. The name of Indra's elephant obtained at the churning of the milky ocean. ऐश्वर्यवल—may be taken as a Tat. or a Dwandwa. The latter is preferable. ऐश्वर्य—means here the accompaniments of royalty. भग्नः had to yield, was routed. दैवशरणन्*v. l*.—A poetical license. The poet's meaning is दैवं शरणं (रक्षिता) वरंand so the two words cannot be compounded.As it stands we may explainदैवं शरणं दैवशरणम्। धिक् धक् &c.—This may be taken in two  
  N. N. 3
-
-
 
  ways:—धिग्धिक् as an interjection andवृथा पौरुषं separately; or the whole together as meaning—'Fie upon vain valour.'
 
@@ -4987,15 +4548,11 @@ Mud. II. वृहस्पति—The spiritual adviser and counsellor of Indr
 
 कर्तरितदपि—तत् refersto पुरुषरत्न Sometake this to be equivalent
 
-
-
  to तथापि. तत्क्षणभङ्गि—स एव क्षणः तत्क्षणः the moment aman becomes a P*urusharatna;* तस्मिन् मज्यते इत्ये वंशीलम्।
 
  SI. 96. नायकोप्योष० ओषः (fr. उष् to burn) पाको घीयते अत्र इति औषधिः।A plant, & medicinal drug; also an herb which dies when its fruit becomes ripe. The moon is often called the Lord of herbs, probably because plants thrive under the influence of moon-light. *Cf*. Rg. X. 84,—'सोमेनादित्याबलिनः सोमेन पृथिवी मही।' where Säyans says–अमृतसेकेनौषध्यभिवृद्ध्या पृथिव्या बलवत्वम्। 'ततस्तस्मै ददो राज्यं ब्रह्मा ब्रह्मविदां वरः। बीजौषधीनां विप्राणामपां च जनमेजय'॥ Hv. XXV. See also Vay. P. XX VIII 12.16. Mat 'P. XXIII. 10–13. More probably, however, औषधीनाथ is *Soma,*the plant, the juice of which formed the well-known beverage of the ancient Rshis. By a curious misapplication of names the term *Soma* came to be an appellation of the moon and so all the epithets of Soma, the plant, were transferred to Soma, the moon. See notes on Rsg. II. 73, भिषक्–विभेत्यस्माद्रोगः & physivian. शतभिषक्–(1) & hundred physicians; (2) name of the 24th lunar mansion (the Satatárakas) containing one hundred Stars. अवतंस—an ear-ring or an ornament worn on the head. All these adjectives indicate that the moon had the means to counteract the effect of the disease. राजयक्ष्मा—consumption which attacked the moon; also consumption in general. So called because it is, as it were, the prince of diseases (यक्ष्मणां रोगाणां राजा). *Cf.* राजयक्ष्मेव रोगाणां समूहः स महीभृताम् Sis. II. 96, commenting on which Malli quotes from Vägbhatta—अनेकरोगानु० (seecom.)—शोषो रोगराडिति च स्मृतः॥ नक्षत्राणां द्विजानां च राज्ञोऽभूद्यदयं पुरा। यच्च राजा च यक्ष्मा च राजयक्ष्मा ततो मतः॥ The moon was cursed to be eternally consumptive by his father-in-law, Daksha, for paying sole attention to Rohini and neglecting his other daughters. At the intercession of his wives the sentence of enternal consumption was commuted to one of periodical consumption.
 
  SI. 97. प्रभुणा—प्रभवतीति प्रभुः, used in a literal senes, powerful having power to dispense प्रमाणीकृतं—प्राप्यत्वेन निर्णीतम्
-
-
 
  Râmarshi; marked or settled as one's measure *i. e.*portion destined to fall to one's share.उपनमेत्—Lit. go to, fall to one's lot. Comp. for this sense of नम् with उप, इदमुपनतमेवं रूपमक्लिष्टकान्तिŚak. V. 19. कस्यात्यन्तं सुखमुपनतं &c. Meg. Some read उपनयेत् supplying दैवं as the subject, but then the construction becomes clumsy. कारणम्—*i.e.* to obtain more. आशा—directions; there is also an indirect reference to the other meaning—'hopes, expectations'. वर्षति—Loc. of the pres. p of वृष्, which, though trans,is here used intransitively as its object जल is well-known. *Cf.*
 
@@ -5021,8 +4578,6 @@ accursed fat*e. Cf*. हत–हृदयं Sak. VI. 6.
 
 हि विचित्रो विपाकः। Śis. XI. 64. The word दग्ध is also similarly used. See Vai. Sat. śl. 22. The word हतकis more commonly used in this sense but at the end of a Comp.; न खलु विदितास्ते चाणक्यहतकेन । Mud. II. परिभूताः स्थरामहतकेन । Uttar. I. वशगाः—पशं गच्छन्तीति वशगाः।under the power of fate. The gods, Indra included, are finite beings, whose existence as separate deities terminates at the end of a *Kalpa*
 
-
-
  and whose sovereignty in heaven is not permanent.प्रतिनियत&c.—एकं केवलमेव फलमेकफलं कर्मण एकफलं कर्मैकफलं; प्रतिनियतं व्यवस्थितंpre-determined, fixed;
 
 कर्मैकफलं ददाति इति. Even *Vidhi* has no arbitrary power to dispense fruits. It is entirely guided by men's actions in the distribution thereof. The poet here distinguishes between *Vidhi* and *karman*.—कर्मभ्यः—Every action must bear its fruit, good or bad. *Cf*. 'न हि कर्माणि क्षीयन्ते।'Mahabharata, and the well-known Smrti 'नाभुक्तं क्षीयते कर्म।'न येभ्यः प्रभवति—The Dat. by
@@ -5040,8 +4595,6 @@ aff. वत् refers to the क्रिया *viz*. the work of forming thing
 'bese with great difficulty.' (2) The other way is to take गहनan *adj.* *qualifying*
 
 महासङ्कटे (a noun) meaning 'the great difficulty.' The latter way is preferable. Vishnu was cursed by Durvasas to undergo the penalty of being born on the earth ten times. The ten incarnations are given in the following couplet—मत्स्यःकूर्मो वराहश्व नरसिंहोथ वामनः। रामो
-
-
 
  रामश्व कृष्णश्च बुद्धः कल्की च ते दश॥ रुद्राः—
 
@@ -5062,8 +4615,6 @@ aff. वत् refers to the क्रिया *viz*. the work of forming thing
 ब्राह्मणवदधीते (see Pan.V. I. 115). Here वत् has a distinct relation with अधीते *i.e.* the क्रिया. Now here कुलालवत् is to be taken with नियमित wherein the action is implied. Then the construction becomes ब्रह्मा येन कुलालवत्ब्रह्माण्डभाण्डोदरे नियमितः &c.Here
 
 ºभाण्डोदरे goes well with Brahma but not with कुलाल as it is absurd to suppose aकुलाल to be confined in a pot. Again Rámarshi says ब्रह्माण्डभाण्डे नियमित *i. e*ब्रह्माण्डभाण्डानिविधातुं नियमितः—but then what is the meaning
-
-
 
  of गहन ? In the second line there is nothing objectionable but the construction is ambiguous, गहन being a noun as well as an adjective. In the third line the Comp. कपालपाणिपुटकेis to be understood as a Madhyamapadalopi. Then followsभिक्षाटनम्. Now what relation is there between कपालºand भिक्षाटनम् ? If any sense is to be given to the clause we must understandपुटके भिक्षा तदर्थमटनम् taking it as एकदेशी अन्वय. Perhaps the poet wrote ºपटुकःqualifying रुद्रः, के being a mistake for कोcommitted by some careless scribe. Again in the fourth line. the casual sense so prominently expressed by नियमित, क्षिप्तand कारितa altogether disappears भ्राम्यति being used. Thus there is the fault calledप्रक्रमभङ्ग
 
@@ -5087,8 +4638,6 @@ aff. वत् refers to the क्रिया *viz*. the work of forming thing
 
 virtuous conduct. *Cf.'*शकुन्तला
 
-
-
  मूर्तिमती च सत्क्रिया' Sak. V. 15. “With the reading वक्रिकाम् which would seem to mean "crookedness" the meaning of the Stanza must be 'that which makes wicked men of good ones,' &c.. This is also the meaning according to Râmarshi with the reading चक्रिकाम्, which he interpretsto be either सरस्वती or लक्ष्मी,"वक्रेणं विनास्मिन्युगे फलं न भवति(commentaty.)" Mr. Telang.व्यसनैः—used adverbially here, meaning 'with persistent application(for the acquisition of merits)'. आस्था—an energetic effort.
 
  Śl. 104. विभ्रम—amorous sport; it is also one of the
@@ -5099,8 +4648,6 @@ Bhávasof love (Śrngára.) श्वेतातपत्रोज्ज्व�
 ovar or considered. आविपत्तेः—till death;*cf* हिमसेकविपत्तिः, and'नरेन्द्रविपत्तिशोकात्' Rag. VIII. 45, XIX. 56 also Venî. IV. 6.विपाकः—from वि+पच्+अ(अञ् or कन्) originally means cooking and thence, ripeness, developmet, consequence. हृदयदाही—burning *(i. e*. giving pain to) the vitals of the heart like the barb of an arrow (supposed to be poisoned that it should cause burning). *Cf*. सविषमिव शल्यं दहति नाम्। Ś ák. VI. 9.
 
  SI. 106. स्थाली–acooking vessel; स्थलति तिष्ठत्यन्नमत्र।वैदूर्य–*lapislazuli;* विदुरे अद्रौ भवम् (ष्यञ् *i.c*अ) so called because first obtained from the mountain Vidûra. तिलखली—The cake of sesamum after oil has been pressed out of it; oil-cake.विलिखति—Scratches,
-
-
 
  ploughs. अर्कमूलस्य—The root of the *Arka* *(colatropis Gigantia,* रुईin Marathi) is a worthless plant. *Cf.* the proverb अर्के चेन्मधुविन्देत किमर्थं पर्वतं व्रजेत्। कर्पूरखण्डान्—(खण्ड m=a collection) a collection of *Karpura* plant.
 
@@ -5113,8 +4660,6 @@ ovar or considered. आविपत्तेः—till death;*cf* हिमस�
 Málánidars' aná.
 
  Śl. 107. The moral Mr, Telang draws from his verse is "A man may do the most difficult and dangerous things in order to do what is fated not to happen, or to avoid what is fated to happen. But he will fail." There is no reference in this verse, however, to “*avoiding* what is fated to happen." The verse says that although a man may live into the sea (for pearls or other gems), go to the golden mountain, Meru, conquer enemies in battle, or carry on trade and so forth, no wealth comes to
-
-
 
  him if it is fated not to come (यत्कर्मवशतोऽभाव्यं तन्न भवतीह); for how can that be counteracted which is destined to happen?मज्जतु &c.—*i.e.* for pearls &c. आहव आहूयन्ते अरयोत्र।सकलाः विद्याः—According to some the *vidyas* are three,
 
@@ -5131,8 +4676,6 @@ viz. आन्वीक्षिकी त्रयी वार्ता दण
 तस्य&c—is friendly disposed towards him. सन्निधिº–सत् may qualify निधि as well as रत्न सन्ति; च तानि (निधयो रत्नानिच) निधिरत्नानि च; or सन्निधि—collections of choice things.and jewels. Rämarshi takes it as सन्निधौ समीपे रत्नैरुत्कृष्टवस्तुभिर्गवाश्यान्न–वस्त्रादिभिर्वा पूर्णा। For the alleged fatalistic tendency of the Hindus in general, see Introduction.
 
 ————————
-
-
 
 MISCELLANEOUS.
 
@@ -5152,8 +4695,6 @@ figur...*Upamá*, and *Sles'a.*
 
  SI.6. लज्जा &c.—This is interpreted in three ways:—(1)लज्जा एवगुणः तस्यौध; (2) लज्जादयोयेगुणास्तेषां &c. and ( 3)
 
-
-
  लज्जया ये गुणाः &c.For taking आदिunderstood in (2) there is no authority. (2), though not quite unacceptable, does not seem to be intended. In (1) the word ओघhas hardly any propriety. It is, therefore, better to take it as लज्जा च गुणौघश्च modesty and many other qualities (as Mr. Telang does). अत्यन्तशुद्धहृदयाandअनुवर्तमाना may also be taken with both, प्रतिज्ञा and जननी and interpreted as (1) अत्यन्तं शुद्धं हृदयं यस्यां in which the heart, *i. e.*motive, is pure; (3)...हृदयं यस्याः whose heart is pure; अनु—(1) always going with one, binding: (2) devoted or attached to, lit. always following one. सुखप्तसूनपि—सुखंmay here be taken as a noun in the Acc. (comforts and even life), or as an *adverb,*meaning 'easily, willingly' (and this is preferable being more forcible); *cf*
 
 त्यजन्त्यसुन्शर्म च मानिनो वरं त्यजन्ति न त्वेकमयाचितव्रतम्॥Nai. I. 56; for the former sense comp. स्नेहं दयां च सौख्यं च यदिवा जानकीमपि। आराधनाय लोकानां मुञ्चतो नास्ति में व्यथा ॥Uttar. I 12; for सत्त्यव्रतव्यसन see
@@ -5163,8 +4704,6 @@ slokas 62, 102. The aff. इन् is added for the metre, as a Bah would have e
  Śl. 7. The word स्त्रीणां,in the second line, is to be construed with each of the first three lines. स्त्रीणां हृदयमग्राह्यम्—the heart of women cannot be comprehended (lit. seized); अग्राह्य has a twofold sense (1) not to be fathomed &c.; (2) not to be felt or touched by the hand. भाव—Real feeling, inward motive. ‘भावो–भिप्राय आशयः'Yâdava-kosha; see Malli. in his com. on Rag. II. 26. विषम्ः–crcoked or difficult to be perceived like the narrow mountain path. पुष्करपव्रतोयतरलं—acommon expression to denote nusteadiness. आशंसित—is used here for शंसित told, described. नाम—Mr. Telang takes this in the sense of—verily; it may perhaps be taken in the sense of प्रकाश्य—as is well-known.*Cf.* नलिनीदलगतसलिलं तरलं। तद्वज्जीवितमतिशयचपलम्—Mohamudgara.दोषैः समंवर्धिताः—growing with the faults; *i. e.* as the woman grows the faults develop in her. The fig. is *Upama.*
 
  ŚI. 8. अभिमुख &o–killed with his face towards (not turned away from) the enemy, or in the front line 'For the idea of
-
-
 
  the first line comp. Manus. VII.89. quoted in the com.; also Bg. II. 38. or the following stanza quoted by Madhusûdana Saraswati under Gita I. 31.—द्वाविमौपुरुषो लोके सूर्यमण्डलभेदिनौ।परिवाड्योगयुक्तश्च रणे चाभिमुखो हतः॥ तिष्ठतु तावत्—let that be apart, leave aside all consideration about.*Cf*. तिष्ठतु तावद्भवतो धीरताVik. साधुवादः–praise–साधु इति वादः वचनम्। श्रवणसुखः—श्रवणं सुखयतीति.Leaving aside all considerations of the attainment of heaven or victory, the applause of both the armies is not
 
@@ -5176,8 +4715,6 @@ aninsignificant gain for a man who falls *wounded* *in the front rank*in *a batt
 
  ŚI. 10. उदन्वत्—the ocean, उदकानि सन्त्यत्र; from उदक+वत्;उदक is changed to उदन्by‘उदन्वानुदधौ च’।Pån. VIII. 2. 13.सदा पान्थः–ever moving along apath पान्थ is derived as पन्थानंनित्यं गच्छनीति; fr. पथिन् +अ (अणू, पन्थादेशः). The space of the sky, although it may appear extensive.is every day traversed by the sun. कलयति—comprehends, takes the measure of. भावाः—things. स्फुरत्—clear, well-defined.अवधिमुद्रा—boundary-marks.मुकुलिताः—encased, as the flower is in the bud; hence confined, delimited. प्रज्ञोन्मेष—opening, blooming of the intellect, hence its brilliancy. The fig. in this śl. is. *Vyatireka* which is defined
 
-
-
  asउपमानाद्यदन्यस्य व्यतिरेकः स एव सः। There is व्य० when the superiority over the उपमान (the standard of comparison) of what is different from it is mentioned, as that of सतां प्रज्ञोन्मेष overभू&c., here.
 
  ŚI. 11. The idea of the śl. is that one should make once for all a choice of the alternatives stated and act accordingly;भार्या—प्रियते इति भार्या fr. भृ + य (ण्यत्), भर्तु योग्या वा; he should have the one or the other and nothing between these.
@@ -5188,8 +4725,6 @@ aninsignificant gain for a man who falls *wounded* *in the front rank*in *a batt
 
  SI. 13. कूर्मस्य—को जले ऊर्मिः वेगो अस्य। A tortoise. Here the second incarnation of Vishnu. Mr. Telang reads the third line asकिं त्वङ्गीº—न्नमनसा, suggesting that the line should be taken as a question and that for this it would be better to read किं चाङ्गीकृतम्, and further remarks—"The reading किंतु is more appropriate to what I think is the intended sense, but to obtain that न must be got rid of."But the third line makes a general statement and supports the figure in the line, while the questions in the first two lines refer to specific objects. निर्वाहः&c.—construe सतामेतद्धि गोत्रव्रतं (यत्) प्रतिपन्नवस्तुषु निर्वाहः।व्रत—
 
-
-
 An observance that is binding. The s'loka occurs in Mud.II. The fig. is *Arthántaranyása.*
 
  SI. 14. पिण्ड—a ball of rice. *cf*. 'ननु पश्य आश्वासितः पिशाचोपिभोजनेन'।Vik. II. This metaphorically means 'when bribed.'मृदङ्ग—Tabors were originally made of earth. मुखलेपेन—refers to the practice of applying kneaded flour to a
@@ -5199,8 +4734,6 @@ Mrdanga before it is played upon. The fig. is *Arthántaranyása.*
  Śl. 15. स्वभरणº—solely bent upon, exerting themselves for.*Cf.* जठरं को न विभर्ति केवलम्।Hit. अग्रणीः—The leader of; अग्रंनयतीति fr. अग्र+नी+किृप्(०) by 'सत्सूद्विष &o.' Pán.III. 2 61. The न is changed to ण of after अग्र and ग्राम by the Värt अग्रग्रामाभ्यांनयतेर्णो वाच्यः। दुष्पूर०—दुःखेन पूर्यते इति; shows the extreme selfishness of Vâdava. वाडवः—The submarine fire; also called Aurva; see sI.76. जीमूतः—जीवनस्यभूत—पटबन्धः जीमूतः a Comp. of theपृषोदरादि class संभृत—qualifies सन्ताप;caused or intensified by.विच्छित्तये—for entirely removing or annihilating. The Dat. isतादर्थ्येby the Vart. तादर्थ्येचतुर्थी वाच्या। The cloud is mentioned here as the type of सत्.
 
  ŚI.16. In this sl. a minister and a poot are described as having a similar function to do by epithets which are *slishta.*दुरात्—(1) from afar; may also be metaphorical; (2) far apart*i.e*, by using words in a *slishta* or secondary (लाक्षणिक) sense; by presenting a striking picture to the mind far beyond the conception of ordinary men.अर्थ—(1) wealth or a political end; (2) the intended sense. अपशद्वं त्यक्त्वा—Avoiding wrangling; or offensive words; or take the whole as चापशद्वंthe twanging sound of the bow *i, e*, achieving lofty aims by a wise stroke of policy without having recourse to war.; (2) faulty or offensive expressions, wrong words. सप्तभा—(1) assemblies of good (or politically clever) people, political bodies; (2) assemblies of learned (able to appreciate) सदृश्य men पदम्—(1) step; (2) words. लोकचित—(1) by consulting public opinion; (2) by going along with the current of ideas and conforming to the
-
-
 
  tastes of his times. For a similar comparison between a minister and a poet, see Mud. IV. 2; Śis. XI.6.
 
@@ -5218,8 +4751,6 @@ S6. आर्यः—An honourable man, a man of merit.मृत्पिण्
 
  SI. 22. गजाङ्गनाया *V.I*.—गजस्य इव अङ्गनं गमनं यस्याः; with the gait of an elephant; hence a beautiful woman. If the reading
 
-
-
  be कटे, गजाङ्गना would mean afemale elephant; protuberant temples being regarded as a mark of ugliness in her case. The reading लज्जाङ्गनायाः &c. is better; it also explains the force of च.शीलं &o.—*Cf*. सर्वेषामपि सर्वकारणमिदं शीलं परं भूषणम्।ŚI. 87, above.
 
  ŚI. 23. प्रियº–सख *v.I.*, for readings see next p., foot notes.विपद्दण्ड &c.—प्रपात is preferable to प्रताप which requires a straining.अत्र—In this case or in this world. Fig. *Upama*.The mind is here identified with clay, fate with a potter, anxiety with his wheel, and calamities with his rod. Fate whirls the minds of men by causing them anxiety and plunging them into misery.
@@ -5228,15 +4759,11 @@ S6. आर्यः—An honourable man, a man of merit.मृत्पिण्
 
 sc.) कुलशिखरिणः कुलपर्वताः न भवन्ति । अथवा एते जलराशयःसमुद्रा न। किंभूताः क्षुद्राः लघवः । पुनः किंलक्षणाः उभये कल्पापाये कल्पस्यअपायोन्तः तस्मिन् व्यपेतनिजक्रमाः व्यपेतः गतः निजक्रमो गुरुत्वगाम्भीर्यादिः येषां ते तथा. The ides of the stanza, as explained by us, is a common one. Comp. Kir. XI. 54, and still better because more closely alike is Viracbarita p.110 (Trith.) "न कम्पन्ते झञ्झामरूति किल वाति प्रतिदिशम्। समुन्मूच्छंसाराः कुलशिखरिणः किंचिदपि
 
-
-
  ते। न मर्यादां तेपि प्रतिजहति गाम्भीर्यगरिमस्फुरद्वर्ब्रह्माणोकलितमहिमानोम्बुनिधयः।" It will be seen, however, that Rámarshi's explanation is more to the point, as already explained by us above.*cf*. Bhāg. P. VIII. 24. Mr. Joglekar quotee–गिरयो गुरवस्तेभ्योऽप्युर्वी गुर्वी ततोति जगदण्डम्। तस्मादप्यतिगुरवः प्रलयेप्यचला महात्मानः॥Bhäm. Vil. I. The fig. is *Vyatireka;*see mis. SI.10.
 
  ŚI.25. स्पृहयति–स्पृह generally governs the Dative but when there is ardent longing or a strong desire, it governs the Acc.;प्रकर्षविवक्षायां तु परत्वात्कर्मसंज्ञा। पुष्पाणि स्पृहयति।Sid. Kau. भुजयोरन्तरम्–The space between the arms,*i.c*.the chest. करवालकररुह—applies to श्री and वनिता; (1) करवालः कररुह इव the nail-like sword. (2) आयताः करवाल इव कररुहाः long nails piercing like a sword. For the idea of the nail-marks inflicted by lovers on the bodies of their beloveds, comp. सद्यो बसन्तेन समागतानां नखक्षतानीव वनस्थलीनाम्॥ Kum.. III. 29. उपहितं शिशिरापगमश्रिया मुकुलजालमशोभत किंशुके। प्रणयिनीव नखक्षतमण्डनं प्रमदया मदयापितलज्जया॥ Rag. IX 31. व्युत्पन्न–instructed in, well versed in (love affairs).वनिता—'वनिता जानितात्यर्थानुरागायां च योषिति' Amara.; awoman in whom amour is produced. Since the words व्युप्तन्न and प्रौढ are used. वनिता here simply means a woman. The fig. *Upama.*
 
 ——————
-
-
 
 VAIRA´GYAS´ATAKA
 
@@ -5252,16 +4779,12 @@ Harais described as a lamp having for its flame the crescent moon, burning the m
 
 'गत्यर्थाकर्भव'Pán. III. 4. 12,तisadded भावेto verbs implying motionor used intransitively.देशं is an Accof place. Mr. Telang citesas a parallel instance 'निजश्रमपदं प्रति गमं च मुनिना'Pra. II; Cf.
 
-
-
  जनस्थाने भ्रान्तं कनकमृगºUttar. I Or देशंmay be taken as Nom. sing. of देश .(which is rare). भुक्तम्—(meals were) eater. (by me). काकवत् आशङ्क्या—miserably and with fear like a crow. The meaning is—being an unwelcome guest at the house of strangers I was afraid they might at any moment drive me away just as people drive away a crow. Mr. Telang puts on this a different interpretation. He says.—"The fear, however, would rather seem to be the fear of being seen by others eating at the house of a stranger." There is no warrant, however, to take the word stranger to mean a *person of a* *different caste.*जृम्भसि—The Faras. is for the metre; it should be जृम्भसे जृम्भto gape, increase, grow strong. Råmarshi takes पापकर्मनिरता as a Bah. dissolving it as पापकर्मणि निरतः पुमान् यथा ( हेतुभूतया) साbut this is ungrammatical.
 
  ŚI. 5. उल्लपाः—taunting words. आराधन—humouring; pleasing. शुन्येन मनसा–with a vacant mind; though my mind was not *sympathetic*. Some construeas (खलानां) हसितमपि शुन्येनकार्याकार्यविचारशून्येन मनसा सोढं; but this is rather farfetched and is not so forcible. चित्तस्तम्भः कृतः—(my mind revolted against these things but) I controlled my temper. प्रतिहतधियां (तान् प्रतीत्यर्थः।) of blunted faculties, senseless, wicked. मोघासो–मोघा आशायस्याः, तत्सम्बुद्धिः (O greed), of fruitlees expectations नर्तयसि—To incite to something bad. A derivative of this word is sometimes used in a similar sense in Marathi (नाचवर्णे).  
  ŚI. 6. तुलितº—this comparison is very common. *Cf*. नलिनीदलगतजलमतितरलं तद्वज्जीवितमतिशयचपलं Moh. M.5. कृते goes withप्राणानाम्; आढ्य arich man; derived from आ+ध्ये+क,पृषोदरादि०निजगुण०—self-praise is forbidden, and is therefore considered to be a sin. *Cf.*ब्रुवते हि फलेन साधवो न तु कण्ठेन निजोपयोगिताम्। Nai. II. 48 इन्द्रोपि लघुतां याति स्वयंप्रख्यापितैर्गुणैः॥ Subh.
 
  SI. 7. क्षान्तम्—We forbore, pardoned. *Cf.*भ्रन्तम् sI. 4. न क्षमयाbut not through forgiveness *i. e*. through inability to retaliate. गृहोचित&c.—The happiness which was not ours was. as good as relinquished; but we were discontented, and there–
-
-
 
  fore, we could not claim the merit of saints, though we did not enjoy pleasures. सोढाः—We had to put up with the inclemencies of the weather &c. on account of poverty (as Rámarshi suggests) but that does not entitle us to the merit of penance.ध्यातं—We were engaged in contemplation, not of the feet of Śiva but of wealth. Thus though we did the same actions that are done by sages, viz. forgiving, renunciation, endurance, and contemplation as to the fruits of those actions we have been deceived. We went the wrong way, and hence our disappointment. For नियमितप्राणैर्न शम्भोः परं *cf.*अन्तयंश्च मुमुक्षुभिर्नियमितप्राणादिभिर्मृग्यतेVik. I. 1. The fig. is *Vis'eshokti*.
 
@@ -5275,16 +4798,12 @@ we have our exits from this world. तृष्णा न जीर्णा— 
 
  SI. 10. पुरुषबहुमानः—Rámarshi explains this as equivalent to पुरुषसम्बन्धी पुरुषाणां यूनांयो भवतीत्यर्थः, which is equivalent to पुरुपत्वाविषयकः another way is to take it as पुरुषेषु बहुमानः respect among men. The first is preferable. समानः—of equal age or rank; contemporary. जीवितसमाः–equal to life, valued or esteemed as life itself. The other interpretation placed on this viz.जीवितं समं पूर्णंयेषां can hardly be acceptable. स्वर्—The word is an
 
-
-
  indeclinable ('स्वरव्ययं' Amara.) and has generally the sense. of the Acc. or Loc. It is compounded with certain nouns as,स्वर्ग, स्वर्णदी, स्वाराट् (स्वर्+राट्र) &c.धृष्टः—impudent, shameless (निर्लज्ज). The fig. of speech is *Vibhávaná.*
 
  ŚI. 11. नाम्—Verily, forsooth; or 'may well be considered'.ग्राह—A shark. वितर्क—misgivings, doubts; अस्मिन्कृते इदं भविष्यति न भविष्यतीति चेत्यादयः ऊहाः Rämarshi. धैर्यद्रुमध्वंसिनी—felling the tree of courage on its bank. *Cf*. *infra*. सिकलितनदीतीरतरुमिः sI. 49.आवर्त—an eddy, a whirlpool. तटी—the bank of a river. The Comp. should properly be तटीका; but it may be defended by the maxim समासान्तविधिरनित्यः तस्याः पारगताः—Those that have crossed it (the river) *i. e.* have conquered desire.  
  SI.12. संसारोत्पन्नं चरितम्—The course of life in this world, incidents of worldly life.अनुपश्यामि—To expect something good out of, to see in prospect; c*f.*न च श्रेयोनुपश्यामि Bhag. I. 31.विपाकः—result. विमृशसः—to me when I reflect, when I take a right view of the matter. See Nit. Sat. 89. चिरपरिगृहिताः–(1) enjoyed for a long time, or (2) enjoyed after a long time, as Râmarshi takes it. The former is, however, preferable; as long enjoyment is required to make a man attached to worldly pleasures. which is implied in the succeeding line. महान्तो जायन्ते—become big; assume large proportions; hence tempt men by their magnitude. व्यसनं दातुमिव—their object in assuming big proportions and tempting men away from *Moksha* being as it were to make men happy. The more a man clings to pleasures the more miserable he becomes; for he is always disappointed; o*f*. न जातु कामःकामानामुपभोगेन शाम्यति। हविषा कृष्णवर्त्मेव भूय एवाभिवर्धते॥ Manu. II. 91. Or व्यसनmay mean calamity; the fondness for enjoyments throws them into the turmoil of embodied existence; see com. and *infra.* s'l. 46. notes. विषयिणां—and not to विरागिनांwho at once renounce them and become happy.
 
  ŚI. 13. चिरतरमुषित्वापि—even after staying long. वियोगे–is here used in the sense of 'the vanishing of pleasures,' and is
-
-
 
  explained by the words ब्रजतः स्वातन्त्र्यात् below. स्वयम्—of one's own motion, voluntarily. परितापाय—mark the sense of परि; they trouble in every way. शमसुखम्—शम is the same as शान्ति; comp.विहाय कामान्यः सर्वान्पुमांश्चरति निस्पृहः। निर्ममो निरहङ्कारः स शान्तिमाधिगच्छति॥Bg. II. 71; also 70, 72. It is not used in its technical Vedantic sense here (for which see
 
@@ -5304,8 +4823,6 @@ poets.गुरुकृतम्—magnified, praised, made much of.
 
  ŚI. 18. रागिन्—one in the power of love, an amorousperson.प्रियतमा०—Siva and Pârvati form together but one body the right half being male and the left one being female. *Cf*. देहद्वयार्धघटनारचितं शरीरमेकं ययोः&c. Intro. ślokas; to Kád. Pt. II.
 
-
-
  नीरागेषु—Siva, though the greatest of lover, is also greater than the greatest of those who have renounced the world; for he only could do the two opposite things,viz,toyield to the influence of love so far as to allow his wife to share half of his body and also to resist successfully the action of the shafts of Kâma which are irresistible (दुर्बरि) to others. *Cf*. न राागिचेतःपरमा विलासिता वधूः शरीरेऽस्ति न चास्ति मन्मथः । Kir. XVIII. 31.विभूषणोद्भासि पिनद्धभोगि वा गजाजिनालम्बि दुकूलघारि वा । कपालिवा स्यादथवेन्दुशेखरं न विश्वमूर्तेरवधार्यते वपुः॥ Kum. V. 73,व्याविद्धमुग्ध—lying in a stupor, the poison having pervaded the body. शेषः—other than śiva. Ordinary people never enjoy pleasures (as they would do, for they are only
 
 कामविडाम्बित) and also are not able to renounce them.  
@@ -5319,8 +4836,6 @@ These, singly or together. कल्याणी–कल्यंनीरु�
 
  ŚI. 22. The adjectives in the first two lines require to be distributed between शिशुकैःand गेहिनीaccording as they are in
 
-
-
  the Instr.or the Nom. शिशुकैः—शिशव एव शिशुकाः क expresses pity. विधुरा—miserable (दीना), derived as विगता धुः कार्यभारो यस्याः Lit.having nothing to do; hence perplexed, as a loss to know what to do. गद्गद &c.—Avy. Comp. दग्धजठरस्यार्थे–for the sake of the accursed stomach. The word दग्ध is often used in the sense it has here. *Cf.* अस्य दग्धोदरस्यार्थे कः कुर्यात्पातकं महत्। Hit. I. See notes on Nit. Sat. śl. 99. मनस्वीa high-souled person; see Nit.śl. 33.  
  SI. 23. अभिमत०—highly valued. The demands of the stomach make one completely forago allself-respect.गुरुतर—nobier; higher.ग्राम—a collection. अम्भोज—the water–lily that blooms at sunrise, but fades when the moon rises. *Cf.* कुमुदवनमपश्रिश्रीमदम्भोजखण्डं–Sis. XI. 64. where the sun rise is described. The moon-light-like जठरपिठरी makes the lotuses of virtues fade away. विपुलº–विपुला (विपुलंयथा तथा वा) विलसन्ती या &c. कुठारिकाa small hatchet. पिठरी—a pan or boiler.
 
@@ -5332,8 +4847,6 @@ indecl
 . expressing preference, and used with the clause containing the thing preferred (which is put in the Nom. case). See Apte's Guide § 301.
 
  तुल्यकल्येषु—कुले भवाः fr. कुल्याः fr. कुल+यत् (य) by 'दिगादिभ्यो'यत् Pan. IV. 3. 54, कुल being a synonym of वंश. कुल्यःकुलोद्भवेःमान्ये कुलस्यातिहितोपि च। Visva. The sense intended by the poet, however, is तुल्यं च तत् कुलं तुल्यकुलं तत्र भवाः।But this is inadmissible from a grammatical point of view. भवार्थे यत् is to be
-
-
 
  to simple words, and not to compounds. Vâmana remarks—भवार्थे पुनर्दिगादिपाठेपि वंशशद्वस्य वंशशद्वादेव तत्र प्रत्ययः। ग्रहणवता प्रातिपदिकेन तदन्तविधेः प्रतिषेधात्।The form may be defended by explaining it as तुल्यकुले साधवः, यत् being affixed by 'तत्र साधुः’Pân. IV. 4. 98.
 
@@ -5347,15 +4860,11 @@ indecl
 
  SI. 29. वर्धन्ते—appear long. The man who has the misery to supplicate the rich, often in vain, finds the days very long.
 
-
-
  आक्षेपmeans allurement or distraction; one commentary explains it also as आदर. पर्यस्त—lit. tossed about; hence distracted. अल्पत्वंदधति—the man engaged in the pursuit of worldly objects finds. time too short to achieve all his ends. वासराणां the Gen. by'अधीगर्थदयेशां कर्मणी 'Pap. II. 3. 52. ध्यानच्छेदे—ध्यान is defined by Patañjali asप्रत्ययैकतानता (sameness of preception; see com. śl. 99). ध्यानम्—(1) at the end of my contemplation; and (2) during the interval between two समाधि.The idea is this—After I shall have broken my समाधि, I shall smile at the life of misery led by worldly people.May the time come when I shall be free from desire and renouncing the world enjoy the happinees of समाधि.
 
  SI. 30. सन्तोषº—सन्तोषेण निरन्तरंalways or greatly, highlyप्रमुदिताः—delighted. Mr. Telang reads सन्तोषसुखप्रमोदमुदिताः but we do not see the propriety of प्रमोद and मुदितwhich mean the same thing.भिन्नाः—interrupted, unaltered; they enjoy unmixed felicity (not affected by the report about the treasures of Meru). The joys of ordinary men are often interrupted by misfortunes, the thwarting of their desires &c.हता—mark the contrast. The happiness of the one never comes to an end; the thirst of the other never ends and makes him perpetually miserable. इत्थं &c.—The sentence ends with मेरुः;supply सः or एतद्विधेः कृत्यंas Nom. to रोचते. This indicates Vairágya, and so the śl. is in its proper place here. The idea seems to be this–A sane person never does any thing without some motive. But it is difficult to see what the motive of Brahmawas in creating Meru. Those who are self-contented have nothing to do with it. If the object be to gratify the lust for money of avaricious. persons, Meru, with its unending treasures, can never fulfil it.“Śârngadhara p. 23 ascribes this to Vidyapati." Mr. Telang.
 
  ŚI. 31. अदैन्य–in which there is no self-abasement; in which one has not the misery of undergoing humiliation, or making abject supplication.अप्रतिसुखं—This reading is better thanअप्रतिहतंas it nearly means the same thing as अवार्य. अप्रतिहत may mean knowing no obstruction, producing every desired effect...
-
-
 
  भीतिच्छद—*v.I.* shielding (lit. covering) from fear. अभिमान—may also mean 'egotism.' अन्वहं—day after day, always.साधुप्रियं— may also be taken as साधु च तत् प्रियं च।सत्रम्–सीदन्त्यत्रfr. सद्+ष्टन् (त्र). Un. IV. 159. That in which people sit down to worship or contemplate; hence here worship or the system of worship; it may have here the same meaning as that of संप्रदायor the course of life adopted by the devotees of Siva, अवार्य—If the reading अप्रतिहतbe adopted in the first line this should be taken to mean that cannot be opposed *i. e*. made to give way by being proved inferior. Mr, Telang who does not understand the word अबार्य in this sense suggests that अप्रतिसुखं should be preferred to अप्रतिहतम्. अवार्य mey also be taken with अक्षयनिधिम् as we have done in translating.  
  SI. 32. कुले—कुलis here used in the same way as 'birth' in English, in the sense of 'noble birth'. The reading मीने for मानेin 1. 2. is not to be preferred; because मौन byitself is a blemish and cannot be linked with other good things mentioned in the verse; secondly, all the expressions indicating danger are predicated as directly producing evil effects on the objects named while no direct effect can be produced on मौन by the fear of being considered spiritless. There is therefore a want of symmetry if we accept the reading मौनैinstead of माने. If we takeमौन its Vedautic sense of 'reticense' it will be inappropriate, as Mr. Joglekar remarks, to link it with other material things so opposed to asceticism. गुणे—comp. न दुर्जनानामिह कोपिदोषस्तेषां स्वभावो हि गुणासहिष्णुः ।Vikrámnga. I. 20.
@@ -5364,15 +4873,11 @@ indecl
 
  ŚI. 34. आधि—mental torment, anxiety. व्याधि—bodily ailment, disease.विवृतद्वाराः—may also be taken as विवृतं द्वारमासां
 
-
-
  to which a door has been opened, for which an entrance is. effected. जातं जातम्—every born being विवश—helplessआत्मसात् करोति—takes entirely in his custody. आत्मसात्—in one's possession. 'तदधीनवचने' (Pan V. 4 64.) सातिः स्यात्The aff. सात् is added to express possession and used with a form of the roots, कृ, भू or अम् or संपद. नाम—indeed, I should like to know; *cf*. तत्को नाम गुणो भवेत् स गुणिनां&c. Nit. Śat. śl. 54. सुस्थितम् *v.I.—*Standing well or firmly, secure, safe.
 
  ŚI. 35. तुङ्ग—This adds to the चपलत्व. भङ्ग—Mr. Telang translates this by 'breaking' preferring it to its usual sense of'रचना' (the waves rising in succession) but we think the sense of रचना is more poetical and better as it corresponds to भोग,the idea of breaking or vanishing being left to be implied.दिनानि—The Acc. by'कालाध्वनोरत्यन्तसंयोगे'Pan II. 3. 5.बोधकाःसन्तः—being instructors of people. The word has no special propriety here; it seems to be for alliteration. पेशल—may also mean चारुbeautiful, the चारुत्व lying in its excellence'चारौ दक्षे च पेशलः'Amara. यत्नः—effort; may mean an effort to lead. people to *Moksha* or may simply refer to the transactions of daily life. *Cf.* Bg. III. 21 quoted in the com.
 
  SI.36. वितानं—lit, expansion; a canopy; hence a collection or mass spread all round. सौदामिनी—lightning सुदाग्निमेघे भवाः; fr. सुदामन्a cloud and अण्. भङ्गुरन्—frail, liable to speedy dissolution; from भञ्ज+घुरच् (उर) see com.यौवनलालना—The indulgences of youth, youthful happiness. Râmarshi explains.लालना by धारणा, and snother commentary by अतिपालनाः but neither of these is satisfactory. लालसा *v.I.*—the ardent desire for pleasures which youth begets. योगे—योग seems to be used here in the sense of Union with, or manifestation in contemplation of, the Supreme Spirit. Its usual meaning is चित्तवृत्तिनिरोधः 'controlling the functions of the mind,'by means of which the individual soul can be in complete union with the supreme Soul. धैर्यसमाधि &c.–धैर्येण (by patience) या समाधिसिद्धिःsuccess in the acquisition of the Samidhi by patient contempla–
-
-
 
  tion. Or Samadhi may simply mean a state of equanimity not allowing the mind to be ruffled or agitated under any circumstances. Some take the Comp. as धैर्यं च समाधिश्च ताभ्यां, but without propriety. The reading ध्येयसमाधि presents no difficulty. Samadhi is the last and the most perfect stage of meditation, the eight stages being यमनियमासनप्राणायामप्रत्याहार-धारणाध्यानसमाधयोष्टावङ्गानि। विधद्ध्वं 2nd. pers. pl.Imper. of घा with वि.बुद्धिं विधद्ध्वं—From your inclination towards, fix your mind on. The figures are *Upamá* and *Kávyalinga,*
 
@@ -5384,8 +4889,6 @@ indecl
 
  SI. 39. परितर्जयन्ती—threatening.देहं प्रहरन्ति—The use of the Loc. with ag is more usual and idiomatic;*cf.*रुद्रौजसा तु प्रहृतं त्वयास्यां;and तस्मिन्प्रजहुर्युधि सर्व एव Rag. II.54 and VII. 59;न प्रहर्तुमनागसि Sak. I11., for Acc. see. Rag. V 58. परिस्रवति—oozes out, gently disappears. अहितमाचरति—(people) do injury to themselves, by doing evil deeds, (*i. e.* do not try to obtain*Moksha* ). Fig. *Upamá.*
 
-
-
  Śl. 40. भङ्गुरवृत्तयः—evanescent or transient by nature. तैरेव चायं भवः—And wordly life (is formed) of them only. कृतम्—enough with. मसाधीयताम्—fix in one place. कामोच्छित्तिवशे–which is (now) under control on account of desires being uprooted.स्वधामनि—in its own place or abode, viz.स्वयंप्रकाशे आत्मनि.
 
  SI. 41.तृणलव०—of as little consequence as a small blade of grass.यस्मिन्महाशासने—*V. I.* Some such words as लब्धे orअधिगते सति should be taken as understood after this Locative.महाशासने &c.—The knowledge of Brahma as expounded in the Upanishads; the highest truth taught by them (the four Mabâvâkyas especially); Râmarshi explains this by परमात्मज्ञाने(स्फुरिते सति). Mr. Telang says—"It means whose commands are great; thus in the Upanishads एतस्या वा अक्षरस्य गार्गि प्रशासने सूर्याचन्द्रमसौतिष्ठतः।or भीषाऽस्माद्वातः पवते &c.; the greatness consisting in the great powers which obey those commands."But Rámarshi's sense seems to be more natural. The knowledge of Brahma is called *Mahásásana* because it comes authoritatively from the Vedas, it being the highest truth taught by them.कोऽपि—indescribable. *Cf*. विकारः कोप्यन्तर्जदयति च तापं च कुरुते,Uttar. नित्योदित—ever existing, steady, permanent. *Cf*. with this sl. 70 *infra*.; Gita VI. 22.
@@ -5394,8 +4897,6 @@ indecl
 
  Śl. 43. गृहे—used here in a double sense; (1) a house; (2) a square on a dice-board. तदनु बहवः—(And there are) many after him *i.e*. many who follow or depend upon him. The last two lines describe the game at dice in which the god of death and his wife (the male and female personifications of the principle of Destruction) are engaged. The world is their dice-board,
 
-
-
  mortals the dice-pieces (शार Marathi सोंगट्या,) and day and night the two dice. Śiva may also he regarded as the Destroyer as he is described in the Puranas as playing at dice with his wife, Pârvati.
 
  ŚI. 44. व्यापारैः—avocations, affairs. गुरु—momentous, weighty. कालः—Time, *i. e,* the passing away of time. त्रासः—fear or disgust. जन्म &c.—a Comp. of the समाहारद्वंद्व class.मौहमयीं–मोहप्रचुरां the aff. मयis used in the sense of 'excess' (or made of). मदिरा—derived from मद+किरच्(इर) + टाप्(आ)—that which intoxicates. उन्मत्तभुतम्—उन्मत्तं भूतं;there is nospecial propriety of taking भूत् in the sense of इव.The poet makes a definite assertion here.
@@ -5403,8 +4904,6 @@ indecl
  ŚI. 45. निभृतम्—resolutely, steadily, or secretly. पुनरुक्त—*i. e.* repeatedly enjoyed, hence stale. कदर्थिताः—disgraced; or tormented. See Nît. Sat. śl. 84; and *infra. कदरानम्*Mis śl, 29.
 
  ŚI. 46. संसारविच्छित्ति—Cutting asunder, or utter destruction, of the bonds of संसार, leading to *Moksha* (salvation or unification with the Supreme Being). This is attained by means of *Yoga* and then there is no re-birth for man. This is the highest ideal, the next one is स्वर्ग. This is attained by means of religious merit, vows, sacrifices, &c; see com. The reward for these is स्वर्ग, and after the heavenly happiness is enjoyed for the prescribed term, there is again re-birth, again the acquisition of स्वर्ग by religious merit, again re-birth, and so no till the end of the creation. धर्मः—see com. The student can easily see the difference between संसारविच्छित्ति and स्वर्गप्राप्ति.In the eyes of a philosopher, the latter is nothing (तुच्छ) as compared to the former. रामा०—This refers to the third object of human pursuit, viz.काम or the enjoyment of worldly pleasures. यौवनवन—Not a happy metaphor, as वन expresses a plurality of ideas. It is probably used for alliteration the poet may seem to refer by *Vana* to an avenue of trees which gradually disappears as tree after tree is cut down and so to refer to the gradual disappearance of youth. वयम्—The plural is used to indicate self-disparagement.
-
-
 
  ŚI. 47. वादि &c.—Mr. Telang proposes that this *adj.* andविनीतोचिता should denote two kinds of learning and quotes the*Subhâshita* विद्या विवादाय धनं मदाय &c. to support his position. There, however, two kinds of persons are specially mentioned as possessing two kinds of learning. Here we have no mention made of two persons of different temperaments as in the*Subhashita;* but the *adj*. विनीतोचिता seems to have been purposely added to signify that the kind of learning meant here is not
 that which falls under the category (खलस्य) विद्या विवादाय.High learning is *capable* of putting down an antagonist, but it need not at the same time be
@@ -5420,8 +4919,6 @@ of. परिगतः *V. I.* Veni. III. अपगताःis simpler. To expla
  SI. 50 तस्यार्धस्य परस्य चार्धम्—Explain तस्यार्धस्य पञ्चाशत्संख्याकस्य अर्धस्य अर्धं साधंद्वादश वर्षाणि (बाल्ये) पुनः तस्य परस्यार्धस्यार्धं सार्धद्वादश वर्षाणि (वृद्धत्वे) इत्यर्थः। शेषं उर्वरितमायुः पञ्चविंशतिवर्षपरिमितमित्यर्थः।Human life extends over 100 years. Half of this is passed in the night, one fourth of the latter *viz.*  
  V. N. 5
 
-
-
  12½ years is passed in childhood and old age each. (In computing this the night-time is not taken into consideration, and the day is supposed to be of 24 hours as usual; this makes the 12½ years equivalent to 25 years for boyhood and for old age.) Mr. Telang suggests that तस्य परस्यार्थस्यार्धम्should be taken to mean रात्रिगतेतरार्ध (*i.e.* दिनगतारर्ध) स्यार्धम्i.e. half of the 50 years passes by day time. This gives 25 years for youth and old age together. अपरं—may be taken as in the com. or as an*adv*.; besides, another thing is that &c.
 
  ŚI. 51. The comparison of man with an actor pervades the whole verse. कामरसिकः—delighting in enjoyments. संसारान्ते—at the close of his wordly existence. यमधानीº—यमस्य धानी, सैव जवनिकाa curtain; as an actor having acted his part in several ways, retires behind the curtain on the stage, so man retires to the seat of death from the platform of the world.
@@ -5431,8 +4928,6 @@ of. परिगतः *V. I.* Veni. III. अपगताःis simpler. To expla
  ŚI. 53. The same idea is rendered clearer in this. वयं—The use of the pl.shows that the speaker wishes to assert his own greatness. यावदर्थम्—यावादर्थः तावत।we are the sole masters of the wealth of words *i.e.* werule supreme over the domain of letters. गिरां—The Gen. by the rule अधीगर्थदयेशांकर्मणि (षष्ठी) ।Pån. II. 3. 52. Words meaning to remember or remembrance and the roots दय्and for ईग् govern the Gen. of their object.  
 
  ŚI.54. दुकूलैः—is a better reading than चं लक्ष्या as it gives a good contrast with वत्कलैः.निर्विशेषो विशेषः—Ramarshi explains as follows:—अत्र विशेषः अन्तरं भेद इत्यर्थः। निर्विशेषः अनाधिक्यः। अत्र विशेषे अन्तरं नास्तीत्यर्थः।The philosopher says to the king—what you regard as *greater* satisfaction is not so in my estimation. Mr. Telang does not think Râmarshi's explanation to be satis–
-
-
 
  factory, and proposes that विरोष should be taken to mean 'great ness,' (उत्कर्ष). This is certainly no improvement on Râmarshi's interpretation which is quite unobjectionable and gives good sense. The fig. is *Arthantaranyása.*  
  ŚI. 55. फलं—विषं *v. I*. is not appropriate. शयन—a bed or couch; *fr*.शी+ल्युट् (अन्) added अधिकरणे*Cf*. शय्या च भुः*sI.*16*supra*.; also 27, 95. नवधन &c.—upstart wealth often produces intoxication. अनुमन्तुम्—to consent to, to tolerate. *Cf.* for the idea, *infra*. śl. 27.
@@ -5448,8 +4943,6 @@ Nor praise my patron's under serving rhymes."
 
  SI.59. अभुक्तायां &c.—The sovereign is considered as the husband of the earth by Sanskrit poets. *Cf*ना विष्णुः पृथिवीपतिः where the king is spoken of as the husband of the earth. क इव बहुमानः—what honour is it, indeed? हव being used for emphas is
 
-
-
  like वा in मृतः को Nit. Sat. 32. *Cf*. परैस्स्वदन्यःक इवापहारयेत् &c.. Kir. I.31. or क इव—what sort of. (what reason have they for).लेशेपि पतयः—the Loc. is noteworthy; see Pån. II. 3.30.विषादेकर्तव्ये–Mr.Telang here remarks–'for having so litte' they should have grieved; but it would be better to suppose that they should have chiefly grieved for being the lords of भुक्तोच्छिष्टा पृथ्वी.
 
  ŚI. 60. मृत्पिण्डः&c.–The whole earth is a ball of clay encircled by the line of water (sea); it is indeed, very small, and is parcelled out among themselves by a number of kings after hundreds of fights. These petty chiefs are poor and meanminded. The poet, therefore, despises those that wish to get something out of them. स्वांशीकृष्य is preferable to भागीकृत्य— which simply means 'having divided.'
@@ -5457,8 +4950,6 @@ Nor praise my patron's under serving rhymes."
  Śl. 61.कोऽपि—indescribable, unnamable. स जातः आसीत्—he alone was born; he alone deserves to be counted as having been born, the birth of others is as good as nothing. उच्चैः—on high; or so as to give it high honour. अलङ्कारविधये—for the purpose of decoration, as a decoration, or ornament. It is well known that Siva decorates himself with a string of the skulls of those who fall on the battle-field &c.; comp. कपालि वा स्यादथवेन्दुशेखरम्। Kum. V. 7s. That deity does not, however, give preference to one skull in particular, nor does he wear it on his head, as the peet seems to imply.प्रवण derived from प्रु 1. A. to 80 +ल्युट् (अन) प्रवन्ते अनेन अत्र वा sloping 'प्रवणः क्रमनिम्नोर्व्योपह्ये ना तु चतुष्पथे ।Amara;'inclined, disposed; नृभिः नमद्धिः—Instr. Absolute, same as the Loc. Absolute, नृषु नमत्सु सत्सु or the Inter. may be हेतौ (the whole being equivalent to नृणां नमनैः as Mr. Telang has it.). दर्पज्वरभरः—excess of feverish or morbid pride.
 
  SI. 62. प्रसादं नेतुम्to propitiate.क्लेशकलिलम्–The confusedmass of misery. *cf* महकलिलम् Bg. XI. 52, कल्पे कल्यते वाः कल+इल (च); Un.I.54.'कलिलं गहनंसमे।Amara.' Mr. Telangreadsकलितम्.He says 'कलितं might mean बन्धन but this requires a straining'. स्वयमुदित &c.—चिन्तामणि is a jewel the possession. of which is believed to give any desired object..
-
-
 
  When the mind is content it has acquired the power of the चिन्तामणि; for having nothing to wish for it can be said that it has given itself all that it longs for.विमुक्तः सङ्कल्पः&c.—When all desires have been foregone, every desire has in fact been gratified. *Cf*. Gita II. 70, 79.यदा सर्वे प्रमुच्यन्ते कामा येस्य हृदि स्थिताः। अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्रुति॥ Kathop. 2. 3, 14.
 
@@ -5469,8 +4960,6 @@ Nor praise my patron's under serving rhymes."
  ŚI. 65. Addressed to the mind. मार्गयImper. 2nd sing. Some read मोहं मार्जयताम्—of those who have swept away infatuation.'ताम्in our reading means प्रसिद्धाम्. तटभुवाम् of the grounds on the bank. आसङ्गमङ्गीकुरु–resort to the vicinity of. को वा प्रत्ययः—what faith can be placed? The answer being 'none'.स्त्रीषु श्रीषु *v. I.*may equally do. *Cf.* आपण्डितास्ते पुरुषा मता मेये स्त्रीषु च श्रीषु चविश्वसन्ति। पन्नग-पन्नं पतितं यथा तथा गच्छतीति.
 
  ŚI. 66. अस्था—earnestness. भूपाल०—Fortune very often depends upon the royal favour a man enjoys and its stability or otherwise is to be determined from a look of pleasure or a frown that the king's face wears. Lakshmî is, therefore, compared to a dancing girl dancing in imitation of the movements
-
-
 
  of a prince's eye-brows. कन्याकञ्चुकिताः—कञ्चुकः एषां
 
@@ -5486,8 +4975,6 @@ Nor praise my patron's under serving rhymes."
 
  SI. 71. मानस Vocsing.; some take मानसचापलेन as a Comp.meaning 'with the swiftness of thought (lit. mind),' and suppose the verse to be addressed to man in general. Rámarshi favours the former view. जातु—with the negative means'Never.' आत्मनीनम्—आत्मने हितम् tending to one's benefit.आत्मविश्वजनभोगोत्तरपदात् खः ।Pan.V. 1. 9. आत्मन्, विश्वजन, and
 
-
-
  compounds having भोग for their latter member take ख (ईन)in the sense of 'तस्मै हितम्' as पितृभोगीन &c.
 
  ŚI. 72. स्वर्गग्रमकुटी—The comparison of heaven to a village hut shows the contempt with which a Vedantin, longing for*Moksha*, treats the pleasures of heaven. विभ्रम—Sport. भवबन्ध—दुःखरचना–Rámarshi explains by रचना by प्राप्ति. Mr. Telang takes it to mean 'expanse', 'large extent,' but without any apparent authority. The meaning which naturally suggests itself from the primary meaning 'arrangement' of the word, is 'predestination, pre-arranging for future births.'स्वात्मनन्द &c.—फलनंthe compassing or effecting of &c. Râmarshi explains—स्वात्मानन्द एव परमानन्द एवं पदंवस्तु तत्र प्रवेशकलनमनुभवधारणम्। वणिग्वृत्तयः—mercenary doings.
@@ -5499,8 +4986,6 @@ Nor praise my patron's under serving rhymes."
  ŚI. 75. जरापरिभव—the injury or ravages done by old age.*Cf*.व्याघ्रीव &c. *supra* śl. 39. The reading तदा पुमांसम् is easier. We need not in this case supply पुंस. fr. पुंसां as object to परिहृत्य आरोपित—Mr. Telang says that this refers to the bit of bone suspended overa Chândâlakâpa (to distinguish it from wells used by the higher classes).
 
  SI. 76. स्वस्य—at ease, lit. in its natural condition *i. e.* not enfeebled by diseases &c.अरुजं—free from disease; as this
-
-
 
  idea, however, is included in स्वस्थthe reading कलेवरगृहंmay be preferred. The human body is frequently referred to as a‘house'; for therein dwells the soul. यादच्च&c.—and as long as the senses retain their faculties unimpaired. The last line very pithily expresses an idea which brings home to the most careless reader the necessity for striving to save his soul.
 
@@ -5514,8 +4999,6 @@ Nor praise my patron's under serving rhymes."
 
 जह्युकन्या—The Ganges is so called from the King Jahnu. "The river Ganges, when brought down from heaven by the austerities of Bhagiratha (See N'it.Sat. śl. 10.). was forced to flow over earth to follow him to the lower regions. In its course it inundated the sacrificial ground of King Jahnu who being angry drank up its waters. But the gods and sages, and particularly Bhagiratha, appeased his anger, and he consented to discharge those waters from his ears. The river is therefore regarded as his daughter." Apte's Sk. Dictionary.
 
-
-
  Another account of the descent of the Ganges, however, states that Jahnu was a Rahi performing penance and that the Ganges in its course having disturbed the sage in his concentration by flooding the country where he was, the sage in anger stopped the course of the river by pressing it under his thigh. At Bhagiratha's earnest entreaties, however, he let the stream flow again. कन्दर and दरि are usually given as synonymousterms;'दरि तु कन्दरो वा स्त्री'Amara; while कुञ्ज has a different shade of meaning.'निकुञ्जकुञ्जौवा क्लीबे लतादिपिहितोदरे' Amara. A कुञ्जis a hollow in a mountain covered over with creepers and other plants. दरि is a cave, a hollow *dug out or opened up* in the side of a hill; and, कन्दर,though synonymous with दरि should rather be taken here to mean the gorge or defile between two hills, in which sense it is used in śl. 26. क्वचित्—For दरिread तटि in the text.
 
  SI. 80.रम्यं साधु &c.—company of religious people cannot but be pleasing. तरलम्—glistening, beaming; *cf*. न प्रभातरलंज्योतिरुदेति वसुधातलात् Sak. Rāmarshi gives चपलम् as its explanation. उपाहित—placed (there, by anger). अनित्यतामुपगते &c.—When the mind has become unsteady *i. e.* is not its usual mood, nothing pleases it. Or when thoughts of the mutability of this existence cross the mind, it becomes distracted and then it cannot relish anything earthly, except the joy of Brahman.
@@ -5523,8 +5006,6 @@ Nor praise my patron's under serving rhymes."
  ŚI. 81. प्रीयते—the Dat, case as indicating the result दीपाङ्कुर—the tapering flame.छाया—shadow. Rámarshi explains it byआतपप्रत्यनीका—(the country of light) which Mr. Telang does not accept. He gives it the meaning of 'flame'; but as the word दीपाङ्कुर already occurs the word छायाwould be redundant if it were taken to signify 'flame.' The shadow thrown by the flickering flame of a lamp is even more unsteady than the flame on account of its magnitude. आकलय्य—having fully comprehended or known.
 
  ŚI. 82.आसंसारं—त्रिभुवनम् &c.—(Searching through) thethree worlds where the course of worldly life prevails:–Telang. The mind is deeply attached to sensual objects as the elephant
-
-
 
  is to his mate. In order to secure the elephant, there must be a strong post (आलान); and to curb a sensual mind a strong control or restraint. The post and the restraint, the elephant and the mind and the sensual objects and the female elephant, are the pairs compared here. तादृक—a worldly man who is strong-minded enough to resist the temptation of sensual objects.क्षीव—intoxicated. आलान a post for fastening elephants..
 
@@ -5536,8 +5017,6 @@ Nor praise my patron's under serving rhymes."
 
  SI.86. पुलिने–'तोयोत्थितं तत्पुलिनं' Amara; a sandy bank left by receding water; goes with द्युसरितः द्युसरित्—the heavenly river, the Ganges. भावाभोगाद्विग्नाः—बहुदुःखजन्मपरम्पराभीताः Rāmarshi; *cf*.शमसुखाभोग sl. 96 *infra*. आत्तवचसः *v.I.*.—आत्तं गृहीतं वचः यैः तेwho have taken to (i. e. are repeating) the words. आनन्दोद्गत&c.—Bah. The joy referred to is, of course, resulting from the manifestation of the Supreme Deity in contemplation. आर्तवचसः *v. I.* is meaningless unless we take it to mean'earnest cries, fervent prayers,' (आर्तस्य इव वचः येषां).
 
-
-
  SI. 87. वितीर्ण—given away; p. p. of तृ, with वि.तरुण–young tender. विगुण &o.—having an unfortunate result. विधिगतीः—the motions the working of fate त्रियामा—the night. 'त्रियामा क्षणदा क्षपा' Amara. याम is *prahara* or 3 hours 'द्वौयामप्रहरौसमौ'Amara; and the night is considered to have only three *praharas,* the first half watch and the last half watch being excluded. शरण—a protector, saviour.
 
  ŚI. 88. वाराणसी—Benares. त्रिपुरहर—this alludes to the story of the three *Puras* or towns of the demons, of gold, silver, and iron, situated in the sky, air and on earth, and built for them by Maya, which were burnt down by Siva along with the demons inhabiting them. See Kum. VII. 48 आक्रोशन्—merely means here–loudly uttering.
@@ -5547,8 +5026,6 @@ Nor praise my patron's under serving rhymes."
  ŚI. 90. एकाकी—एकः एव अकति गच्छतीति going alone in the world. पाणिपात्रः—to whom his hand is serviceable like a pot. कर्मनिर्मूलन—destroying entirely the roots. This is essential to cut off the repetition of births and deaths. This is done by being सङ्गरहित as indicated in the first half. Samsára is here compared to a tree of which actions are the roots. *Cf*. अश्वस्थमेनं सुविरुढमूलमसङ्गशस्त्रेण दृढेन छित्वाBg XV. 3; also Sáriraka Bhäshya on Brah. SūIV. I. 14, 19.
 
  SI. 91. पात्रय—adenom. भैक्षम्—भिक्ष्यत इति what is obtained by alms; fr. भिक्ष्+अ बहुतृणम् & little short of almost equal to, grass; see com. तृणकल्पमित्यर्थः। 'विभाषा सुपौ बहुच् पुरस्तानु' Pän. V. 3. 63 ईषदसमात्तिविशिष्टेऽर्थे सुबन्तात् बहुच्(the prefix बहु) वा स्यात्स च प्रागेव (prefix) न तु परतः। इषदूनः पदुः बहुपटुः &c. Sid. Kau.
-
-
 
  अत्यागेपि&c.—Even though the body is not cast off *i.e.*he will not have to wait for a second birth. सम्पत्स्यते—see Kum.II. 54 &c. स्पृहां सम्पत्स्यते *v.I.*—In this case सम्पत्mustbe understood as used transitively.
 
@@ -5564,8 +5041,6 @@ soगृहयालु, पतयालु &c. स्यूत—stitohed; p. p
 
  SI. 96. स्वयात्त&c.—जितेन्द्रियः whose movements are under control; who practises self-restraint.आस्यूत&c.—an एकदेशी अन्वय संप्रोत*v. I.* sewn together, patched with. शममुखाभोग&c.—
 
-
-
  आभोगenjoyment in full (आ); or with Rámarahi, परिपूर्णता. *Cf.*०ग्रासैकबद्धत्पृहNit. Sat. 29.  
  SI. 97. तत्त्व &c.—whose intellect is keen in discerning (thinking out) the truth, discrimination of the real from the unreal. तत्पन्न &c.—wise men do not care what others speak about them, but silently go their own way. स्वयं—स्वेनैव रुपेण आनन्दवन्तः। 'by themselves' Râmarshi; or 'without meddling with others' will also do.
 
@@ -5577,8 +5052,6 @@ A guiltless feast I bring.''
   पशवः—beasts are created so as to live on grass. स्थलीशायिनः—lying on the lawn; स्थली means a natural plot of land. संसार&c.—To those that do not possess the faculty of reason, God has assigned a cheap, easy livelihood; but to those who can think out the means of their salvation (*i. e.* men). He has assigned a mode of life in pursuit of which all their good qualities are exhausted. The struggle for existence, in the case of man, engrosses all his energies, and leaves him neither time, nor energy to seek eternal bliss. It is difficult to see the bearing of this śl. here. Probably the poet means—Men should, therefore, feel disgust for worldly life and direct their efforts to the acquisition of *Moksha*.
 
  SI. 99. पद्मासनंis a particular posture in religious meditation, thus described:—उत्तानौचरणौ कृत्वा ऊरुसंस्थौप्रयत्नतः। ऊरुमध्ये तथोत्तानौ पाणी पद्मासनं त्विंदम्॥ Or ऊरुमूले&c. see com.; योगनिन्द्रा—A sleep of meditation or contemplation. योगो मनसोविषयान्तरव्यावृत्तिः तद्रूपा निद्रा। contemplation of the mind on Brahma is here likened to sleep because the Yogi is dead to the external world during the time of meditation–his mind takes cognisance of no external objects like that of a man fast asleep.कि तैर्भाव्यम्—will they ever be ? कण्डयन्ते—A denom. from कण्डू
-
-
 
  (कण्डुञ् अङ्गविधर्षणे). The reading सम्पत्स्यन्ते&c. adopet by Mr. Telang (see foot-note) is more poetical but requires some such expression as 'from me' to be supplied.
 
@@ -5592,8 +5065,6 @@ MISCELLANEOUS.
 
  SI.1.अम्बरखण्ड—(1)a part of the sky; and (2) a strip ofcloth.संवितः—covered, clothed, or surrounded; p. p. of ष्येwithसम्. दौर्गवत्यम्—(दुष्टा गतिः गतं वा यस्य तस्य भावः) wretchedness. The poet bewails the wretchedness of the sun and the moon who are here described as having but one strip of cloth in common to cover themselves with. The fig. here is Ślesha. It is thus defined:– श्लेषः स वाक्य एकस्मिन्यत्रानेकार्थता ।K. P. X. When in the same sentence more than one meaning is possible it is श्लेष.
 
-
-
  SI. 2. विवेकन्याकोशे—विवेक is the same as नित्यानित्यवस्तुविवेकdiscrimination of the real from the unreal. When one knows wherein lies permanent happiness, which alone can be called true happiness, he tries to acquire it. For this purpose and others (शमदमोपरतितितिक्षासमाधानश्रद्धाख्याः। Ved.Sa.)are necessary. व्यकोश means 'unfolding, budding;' hence development. When one has *discrimination,* one should try to acquire *S'ama*and others. शम is defined as शमस्तावत् श्रवणादि- व्यतिरिक्तविषयेभ्यो मनसो निग्रहः *i.e.* restraining the mind from all other objects and devoting it to the hearing of the recital of holy texts &c.*(i. e.*मनन, निदिध्यासन &c.)—व्याकोश may also be taken as an*adj*.; see com. विकसित when it blooms and so produces the wished for result, viz. the annihilation of all desires—तुङ्ग—lofty; hence strong attachment. सा परिणतिः—that well known perfection (of contemplation) viz. what is called जीवन्मुक्तिin which one enjoys the joy of Brahma.
 
  ŚI. 3. क्लेशहतये–for the removal of miseries, (which consoled them in their afflictions). Or विद्वत्ता may mean परमार्थज्ञान and क्लेशthe trouble of birth and re-birth. विषयसुखसिद्ध्ये गता–(in course of time) it came to be the means of attaining sensual pleasures; it became subservient to sensualism. शास्त्रविमुख—averse or indifferent to the study of S'ástra; or not disposed to encourage learning. The same cause of the decline of learning has been given already in śl, 2 *supra.*
@@ -5601,8 +5072,6 @@ MISCELLANEOUS.
  ŚI. 4. लटभ—lovely, attractive, when a n. (लटभा) it meansa beautiful woman. सुभग—Properly 'fortunate', hence pleasant,charming, सरणि–is derived from मु to move+अनिः by Un II. 102. 'अयनं वर्त्म मार्गाध्वपन्थानः पदवी सृतिः। सरणिः पद्धतिः पद्या वर्तन्ये कपदीति च॥'Amara.स्वःसिन्धो—see śl. 86 and note on स्वर *supra*.sI 19.गिरः प्रतनुमः—We raise (lit. stretch forth) our cries ofinvocation. सुतारैः—तारोत्युच्चैः ( ध्वनिः ) Amars.फुरकारैः—with sighs.फुत्कारis an onomatopoeic word.
 
  SI. 5. अमरसरित्—The Ganges. हरितः—the quarters. अदैन्य—Not showing one's poverty; or (2) freedom from meanness. सुहृद्वा—वा is used here either in the sense of एवं or समुच्चय
-
-
 
  (as also). कियद्वा&c.—To be brief, in short. वटविटपः&—it is difficult to see the propriety of calling the *Vața* tree 'a *dayita'*; probably the poet refers by *dayitá* to गृहस्थाश्रम inwhich the wife plays a conspicuous part. Let the *Vata* tree be my home*i. e*. let me renounce the pleasures of the world and take to a devotee's life worshpping S'iva sitting under a *Vața* tree &c.
 
@@ -5616,8 +5085,6 @@ SI. 9.स्मर&c.—love is often described as blinding men's eyes. पट�
 
  ŚI. 10मानhaughtiness. विविक्तम्—lonely, solitary, P. P.off णिज् with वि. यमिनाम—of those who restrain their minds.
 
-
-
  SI.11. नैर्झर–निर्झरसम्बन्धि of a spring. उचित proper. विद्याङ्गना—विद्या एव अङ्गना (प्रशस्तानि अङ्गानि यस्याः सा; fr. अङ्ग+न) a beautiful woman.रत्यै—for deriving pleasure which is usually had from woman's society. The Dat. is तादार्थ्ये—Mr. Telang who reads रत्येवsupposes that र might be a misselection for सु(येषां विद्यैव सीत अङ्गना). सेवाञ्जलिः—the bow of obeisance.
 
  ŚI. 12. त्रिलोकीसरित्—The Ganges, so called because it flows through the three worlds, स्वर्, मृत्यु, and पाताल.नीवि–the tie-knot of a woman's under-garment and sometimes the garment itself. कल्पयन्ति०—providing, supplying; for वृत्तिcomp. the preceding s'loka. दुःखमसिकानाम्—trying or painful circumstances; or: दुःखमसिका इवpoignant pain (lit. misery cutting like a poniard). For a similar ides *cf.* दीना दीनमुखैः &c. sI. 22. *supra.*
@@ -5627,8 +5094,6 @@ SI. 9.स्मर&c.—love is often described as blinding men's eyes. पट�
  Śl. 14. The first line and half of the second contain the replies of gate-keepers or guards to supposed questions. समयः—the proper time. रहस्यं—He (the master) is now engaged in confidential matters; or isMr. Telang takes it-now he is in private. द्रक्ष्यसि–द्रक्ष्यति*v.I.* does not make good sense. दौवारिक—(fr. द्वार+ठक्) a door-keeper. अपरुपं—may be taken as a separate word or as part of the preceding compound word. निःसीमं &c.—निःसीमं शर्म प्रददातीति।conferring unbounded happiness.
 
  ŚI. 15.बलवति–breaks the symmetry as this is the only noun having an adj. to qualify it. तृणे वा स्त्रैणे वा–स्त्रैणis used here more for the sake of alliteration than as being the recognised opposite
-
-
 
  of तृण as the other parts aboveare. स्त्रैणं—स्त्रीणां समूहः स्त्रैणम् from स्त्री+नञ् (न) acollection of women. समदृशः—of one that looks upon all things as equal, having an equal regard for all things.
 
@@ -5644,8 +5109,6 @@ SI. 9.स्मर&c.—love is often described as blinding men's eyes. पट�
 
  S1. 21. The idea–The word presents puzzling scenes to the mind of a thinker, वीतवादः—is preferable toवीणावाद्यंas opposed.
 
-
-
  रुदितम, गोष्टी—गावः अनेका वाचः तिष्ठन्त्यस्याम्। गो+स्था+घञर्थे कः(अ)—means an assembly conversing on different topics aswell as a conversation (containing pros and cons).‛गोष्टी सभासंलापयोः स्त्रियाम्’ इति मेदिनी।the latter meaning is preferable as directly opposed to . कलह  
  Sl. 22. This sl. occurs in the Anar. R. विकल—deformed. चटु—the same as चाटुcoaxing speech, flattering expressionsग्रहसन—one of the ten kinds of Rupakas thus defined—तद्वत्(माणावत्) प्रहसनं त्रेधा शुद्धवैकृतसङ्करैः। पाखण्डविप्रप्रभृतिचेटचेदीविटाकुलम्॥D.R.पलित°grey-haired. नटयिष्यति—नट् forms its caus. asनटयति in the sense off to cause to dance.' नाट्य means अवस्था- नुकृतिः pantomimic representation of situations.
 
@@ -5654,8 +5117,6 @@ SI. 9.स्मर&c.—love is often described as blinding men's eyes. पट�
  S1. 24. कुर्मः—refers to the second incarnation of Vishnu, see note on कमठपतिNît. Śat. śl. 35. ध्रुव—the son of Uttânapåda, a king of the solar race. His devotion to Vishnu was so great that he was elevated to the rank of a heavenly body and now remains suspended in the sky as the polar star. His history is too well known to the Indian student to need any mention here. For his account see Apte's Sans. Dictionary.
 
  सञ्जातव्यर्थपक्षाः—सञ्जाताः व्यर्थाश्व पक्षा येषां; (1) who form factions (join one side or the other) to no purpose; some understand it in the sense given in the translation—उभयोरपि पक्षयोरिह- लोकपरलोकलक्षणयोः एकोपि न कश्चित्—isquoted by Mr. Telang (2) who possess wings to no purpose. नोपरिष्टात्&c.—an idiomatie expression for 'in no way.’ There is also an indirect reference here to the position of *Dhruva* and *Kárma* who by their situstion support the universe.ब्रह्माण्डोदुम्बरान्त—ब्रह्माण्डमेवोदुम्बरं(the fruit of the tree) तस्यान्तः &o. Every one has seen the
-
-
 
  little-winged insects in an *udumbara* fruit; उदुम्बरमशक, उट्दुम्बरकृमि&c. are proverbial expressions like कूपमण्डूकmeaning 'any useless person."
 
@@ -5666,8 +5127,6 @@ SI. 9.स्मर&c.—love is often described as blinding men's eyes. पट�
  S1. 27. करटिनः—i. e. elephants belonging to the enemy. The meaning of the first line is—We did not distinguish our–Belves as successful warriors, Cf. 1. 2. 1. 47. नितम्ब–०निबद्धफलकेv. 1. the board-like i. e. expansive and fleshy or well rounded(निबद्ध) hips. झणतूझाङ्कार—tautological expression; शणत् and.झाङ्कार meaning the same thing. For the idea comp. 'स्थाने स्थानेमुखरककुभो झांकृतैर्निर्झराणाम्' Uttar. II. 14. पयः—the reading वयmakes no sense. The fourth line is the same as that of śl. 48.
 
  Additional sl. बलिः–A demon; his story is too well known to the Hindu students to require any notice here; see Apte's Dictionary. व्याधय—i. e. the diseases in the world. We did not free the people from the diseases humanity is heir to. Mr. Telang who reads the last line as०मानगणनां मिथ्या वहन्न लज्जसे remarks–The stanza occurs in the Mahanataka, The last line is not metrical as it stands. In the Mahânâtaka it runs thus–चेतः सा पुरुषाभि
-
-
 
  मानपदवी मिथ्यैव किं खिद्यते। There are also other differences.' Mr. Telang.
 
@@ -5683,8 +5142,6 @@ SI. 9.स्मर&c.—love is often described as blinding men's eyes. पट�
 
  ŚI. 33. समारम्भ—attempts well-made, undertakings properly commenced. *Cf*. Bg. IV. 19. पशु—as one not becomingwiser by experience. शतधा न दीर्णम्—The many calamities with wiserwordly life is fraught ought to rend the heart.
 
-
-
  SI. 34. This sl. occurs in the Mrch. मदयन्ति—i. e. by their blandishments and sportive gestures. सदयं—such a man falls a ready victim to their charms, वामनयना—mark the pun on वाम् which means (1) beautiful; (2) crooked, destructive.
 
  SI. 35.खर—rough. The moral is–Magnanimous persons. never become slaves of passions.
@@ -5699,8 +5156,6 @@ SI. 9.स्मर&c.—love is often described as blinding men's eyes. पट�
 
  SI. 41. प्रभाचोर—one that robs another of its brilliancy i. e. is as brilliant as that, possesses its brilliancy. *Cf.*सरोरुहद्युतिमुषःRat. I. अनया किमभिप्रेतम्—What can she have intended? what
 
-
-
 is her object ? वराकी—miserable wretched; expresses pity.Also sometimes used as a word of contempt.  
  SI. 42. —कंदर्प—Kāma, the god of love*; cf.* कंदर्पयामीति मदाज्जातमात्रो जगाद्च। तेन कंदर्पनामानं तं चकार चतुर्भुजः॥ किं कदर्थयसि—why do you trouble your hand. टङ्कारितैः—टङ्कारवैः *v.I.*टङ्क+आरव;टङ्कायतीति (fr.टङ्क + अच्) or टमिति शब्दं कारयतीतिटङ्कःan onomotopoeicword. टङ्कारित however is better and has therefore been preferred. For the third line *cf*.*supra*. बाले लीलामुकुलितममी &c. Mis.sl.40 स्निग्ध affectionate; विदग्ध cleverly cast, artful,
 
@@ -5709,8 +5164,6 @@ is her object ? वराकी—miserable wretched; expresses pity.Also someti
  SI. 44. हतपरमार्थैः—The *Indriyas* which are often compared to horses, tempt a man further and further away from real bliss (मोक्ष).
 
                                ——————
-
-
 
 APPENDIX.
 
@@ -5735,8 +5188,6 @@ APPENDIX.
  आख्यानकी—It is a mixture of Indravajrá and Upendravajrá see below. I. 7.
 
  उपजाति–स्यादिन्द्रवज्रा यदि तौ जगौ गः। उपेन्द्रवज्रा जतजास्ततो गौ।अनन्तरोदीरितलक्ष्मभाजौपादौ यदीयावपुजातयस्ताः॥ A mixture of इन्द्र०and उपेन्द्र० forms उपजाति.Sch.of G. त त ज ग ग। ज त ज ग ग।
-
-
 
  शालिनी—मात्तौगो चेच्छालिनी वेदलोकः।Sch.of G. म, त, त, ग.
 
@@ -5773,8 +5224,6 @@ ryá; i. e. whose first and third quarters contain 12 *mātras* and second and f
 
 ———————
 
-
-
 2\. BOMBAY UNIVERSITY.  
 EXAMINATION PAPERS,  
 1868.
@@ -5794,8 +5243,6 @@ IV\. Quote two verses from the Nitishataka on one of the following subjects. (a)
  I. (a) What are the subdivisions of Vairagyashataka? (b) What are the effects of time as given by Bhartrhari? Quote one or two of his verses on this subject or give an outline of his description of time in prose in Sanskrit.
 
  II. Translate into English:—(a) Vai. Sat. 63. (b) Vai. Sat. 44. (b) Explain and analyse the following compounds, referring them to their several classes. अतर्कितगमागमान्, बहुकार्य भारगुरुभिः, जन्मजराविपत्तिमरणम् and प्रमादमदिराम् (c) Give as many synonyms of आदित्य, जन्मन् and जरा as you may have met with in your reading. (d) Is there any difference in meaning betweenक्व and क्वचन्? If so illustrate it by two or three examples. (e) What is the meaning of अपि च? Give its equivalent in Sanskrit.
-
-
 
  III. To what does Bhartṛhari compare life to illustrate its short duration? Give the simile he has often used.
 
@@ -5821,8 +5268,6 @@ IV\. Quote two verses from the Nitishataka on one of the following subjects. (a)
 
  II, Name and dissolve the compounds above. Translate and explain (a) वियोगे को भेदस्त्यजति न जनो यत्स्वयममून्। (b) विमुक्तःसंकल्पः किमभिलषितं पुष्यति न ते। (c) धन्याः संन्यस्तदैन्यव्यतिकरनिकराः कर्म निर्मूलयन्ति। (d) व्यापारैः पुनरुक्तभुक्तविषयैरेवंविधेनामुना संसारेण कदर्थिताः। (c) स्वर्गग्रामकुटीनिवासफलदैः कर्मक्रियाविभ्रमैः। (f) युष्मत्संगवशोपजातसुकृतोद्रेकः स्फुरन्निर्मलज्ञानापास्तसमस्तमोहमहिमा लीये परे ब्रह्मणि॥
 
-
-
  1885
 
  1. Translate into English adding notes where necessary.
@@ -5846,8 +5291,6 @@ IV\. Quote two verses from the Nitishataka on one of the following subjects. (a)
  3. Discuss the question whether Bhartṛhari is the author or mere compiler of the Shatakas. Do you find any evidence in the Shatakas to show that he worshipped a particular god? What was his favourite place of resort as a devotee ?
 
  4. Give & synopsis of the views embodied in the Shatakas regarding (a) The predominance of "Karman." (b) The use
-
-
 
  and greatness of knowledge. (c) The evanescent nature of human life and pleasures.
 
@@ -5873,8 +5316,6 @@ IV\. Quote two verses from the Nitishataka on one of the following subjects. (a)
 1898\.
 
  I What have you to say with reference to the following points put forward by some scholars to prove that the age of the
-
-
 
  author of the Shatakas should be brought down to about the 8th or 9th century A. D. (1) Resemblance in ideas and phraseology between Shatakas and Shankaracharya's work. (2) Mention of the Puransin one of the Stanzas of the Vairagyashataka (3) Mention of Buddha as a tenth incarnation of Vishnuin one of the passages.
 
@@ -5905,8 +5346,6 @@ IV\. Quote two verses from the Nitishataka on one of the following subjects. (a)
 
  II. What were the religious and moral views of Bhartrihari? Quote a few lines to illustrate your answer.
 
-
-
   III Explain the following similes—(c) छायेव मैत्री खलसज्जना नाम् (b) वाराङ्गनेव नृपनीतिरनेकरूपा. (c) कामंमन्वीनृप इव सदा खेदभारैरमुक्तः।  
   IV five the meaning of—प्रतिनिविष्ट, इनकान्त स्वाकृति, अवकर, ग्रणिसा (शा) र, बडिशकल्य, कुटीर.  
   V. Derive–क्षाम, पुङ्गव, परायण, न्याय्य, अवदात, उत्तम, विहग, दौवारिक-
@@ -5934,8 +5373,6 @@ V. Give the context of:—
 (i) Niti (a) 29; (b) 106; Vair. (c) 58; (d) 82; (e) 1.  
 (ii) Explain the metaphor in ( e) fully solving the compounds.
 
-
-
  II. (a) Give the meanings o—कृकवाक्, दुर्विदग्ध, फल्गु, निर्विकल्प, उद्रेक, ब्रात, अलीक, अपशद्व, मैक्ष and अवकर.
 
  (6) Write grammatical notes on—मध्येपृष्ठं, लालायते, तरुणायते, श्यानः, उपस्कृतः, अहर्निशं, पूर्वार्धः, जुह्वान, दाक्षिणात्य and शार्व.
@@ -5957,522 +5394,7 @@ V. Give the context of:—
 
  3. What has Bhar to say about Daiva and Paurusha ? Does he identify Karman with Daiva ?  
 
-
 **—————**
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

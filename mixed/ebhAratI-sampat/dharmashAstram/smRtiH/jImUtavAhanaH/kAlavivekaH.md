@@ -17,18 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzMDc0ODg2NTk
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **BIBLIOTHECA INDICA:**
 
 **A**
@@ -72,15 +60,11 @@ PRINTED BY SASIBHŪṢANA KṚTIRATNA BHAṬṬĀCĀRYA**
 
 **1905.**
 
-
-
 **धर्म्मरत्ने**
 
 **कालविवेकः**
 
 **स्मृतिनिबन्धः**
-
-
 
 **पारिभद्रीय-महामहोपाध्याय-**
 
@@ -88,23 +72,17 @@ PRINTED BY SASIBHŪṢANA KṚTIRATNA BHAṬṬĀCĀRYA**
 
 **विरचितः**
 
-
-
 **कलिकातास्थ संस्कृत विद्यालयाध्यापकेन**
 
 **श्रीप्रमथनाथ - तर्कभूषणेन**
 
 **सम्पादितः**
 
-
-
 **पार्क-वर्त्मनि सप्तपञ्चाशत्-संखाक-भवन-प्रतिष्ठितया**
 
 **आसियिक - समित्या**
 
 **प्रकाशितश्च**
-
-
 
 **कलिकाताराजधान्यां**
 
@@ -116,15 +94,11 @@ PRINTED BY SASIBHŪṢANA KṚTIRATNA BHAṬṬĀCĀRYA**
 
 **१६०५**
 
-
-
 **PREFACE.**
 
  The Dáyabhága by Jímutaváhana is a well known work. It has been the basis of the Hindu law of inheritance of the Bengal school for several centuries. Copies of the Dáyabhága are available all over Bengal and it has gone through several editions since the introduction of printing in India. A study of the Dáyabhága reveals the fact that it forms part of a complete code of Smṛti by the author, entitled the Dharmaratna. But other parts of this code were absolutely unknown except in quotations. And those engaged in the search of Sanskrit manuscripts tried hard to obtain copies of either whole or part of the Dharmaratna, for several years, in vain. In 1880, however, was discovered, what purported to be, a complete copy of that work, vithout the Dáyabhága. It was described by the late Rájá Rájendralála Mitra in page 297 of the fifth volume of his "Notices of Sanskrit Manuscripts," and it was acquired for Government. It now forms No. 1568 of the government collection at the Asiatic Society's Library.
 
    It is a palm-leaf minuscript written in that beautiful old Bengali character, which the Paṇḍits style chaँder lekhá and which common people call Tiruṭiá, though it has very little to do with Trihut. It has 156 leaves and is complete and correct.
-
-
 
 At the end of the work there occurs in a more modern hand and written with a different ink the following:-
 
@@ -136,8 +110,6 @@ At the end of the work there occurs in a more modern hand and written with a dif
 
  The Mahámahopádhyáya's own copy was defective in the
 
-
-
 beginning and there were gaps here and there. He completed them by copying from the other book. So the value of his copy to the editor is not very great. The other copy is a paper manuscript, complete but not very correct.
 
  The Mahámahopádhyáya however did not live to complete his edition. After the publication of the fourth fasciculus he died, and I was invited to complete the work. By the courtesy of the Society and of the owners of the other manuscripts I was put in possession of the materials used by my predecessor. I have marked his manuscript क, the Society's manuscript ख, and the other manuscript ग .
@@ -146,14 +118,10 @@ beginning and there were gaps here and there. He completed them by copying from 
 
  Various theories have been set up as to the time of Jímútaváhana. Professor Rájakumára Sarvádhikárí thought he must have flourished in the fifteenth century or later, but not earlier. (See Tagore Law Lectures, 1882). And he is followed by Dr.Jolly. But this is an impossible theory, as the Society's manuscript appears to be older than the fifteenth century. Again a
 
-
-
 commentary on the Dáyabhága has been written by Śrínátha Ācárya Cúḍámaui, son of Śríkara, who was the joint-commentator of Amarakosa with Riyamukuṭa. Rāyamukuta, according to his own statement, flourished during the reign of Jáláluddín Sháh, son of Rájá Gauesā, in the first quarter of the fifteenth century. Unless one is prepared to suppose that the Dáyabhága was commented upon by Śrínátha Ācárya Cúḍámaṇi immedi-  
 ately after its composition, these facts are fatal to Rájakumára Sarvádhikárí's theory.
 
   Jímútaváhana is always preceded by the epithet "Páribhadríya." The word "Páribhadríya" has long puzzled those interested in Indian Antiquity. A study of the Brahmin genealogies of Bengal, however, reveals the fact, that there were. five Gotras amongst the Ráḍhíya class of Brahmins in Bengal. Śándilya is one of these Gotras. The descendants of Sáṇḍilya in Bengal were distributed over sixteen villages, from which they still derive their surnames. Pári or Párihála was one of these villages. For fourteen generations, the Brahmins of Párigráma has been regarded so low that matrimonial connection with them has been regarded as degrading. The circumstances under which the Páris were degraded is not known. But it is a fact that within these fourteen generations no one would boastfully speak of his belonging to that gráma. But Jímútaváhana invariably describes himself as belonging to that Gáꣲi. The inference is therefore almost irresistible that he belonged to a period anterior to these fourteen generations, i. e. about five hundred
-
-
 
 years from this time. The position assigned to the Brahmins of Párigráma in Ballála's arrangements is not very enviable. They were relegated to the fourth and last class of Brahmins.
 
@@ -161,15 +129,11 @@ years from this time. The position assigned to the Brahmins of Párigráma in Ba
 
  The Paṇḍits of Bengal and the commentators are unanimous in saying that Jímútaváhana refutes the decisions of Vijñáneśvara's Mitákṣará,and if this be so, he must have flourished after Vijňáneśvara, who wrote during the reign of western Calukya Vikramáditya VI. (A. D. 1076 —1121), and so the age ascribed to him above becomes impossible. Against this it may be advanced that Jímútaváhana nowhere mentions Mitákṣará by name and he seems not to have known the work at all. They
 
-
-
 were contemporary authors living in distant parts of India at a time when communication was not easy and there were so many independent kingdoms. As an example, in speaking of the inheritance of an unmarried daughter, while the text of Yájňavalkya says that an unmarried girl is to get a fourth of her deceased father's property, Jímútaváhana after a long discussion comes to the conclusion that by a fourth is ment money sufficient for her marriage, for if there be many unmarried girls and each is to get a fourth of the property, there will be nothing left for the sons. Vijňáneśvara on the other hand says that such an interpretation is wrong. He does not quote the exact words of Dáyabhága but he refutes the reasoning and comes to the conclusion that fourth means the fourth of a son's share. So they do not seem to refute each other but to combat current objections.
 
  Another misapprehension about the age of the Dáyabhága has been caused by the fact that Jímútaváhana quotes the commentary of Govindarája, who is generally supposed to be Govindacandra, the king of Kanauja (1115-1143 A. D.). But this is a mistake. Govindarája, the commentator of Manu, was a Bhaṭṭa and a Bráhmaṇa, the son of Mádhava Bhaṭṭa. He cannot be the king of Kanauja, a Kṣattriya and a Ráṭhora.
 
  In his preface to the second edition of his translation of the Dayatattva, Bábu Golápcandra Sarkár Śástrí M. A., B. L., the learned Vakil, High Court, Calcutta, attempts to fix the age of Jímútaváhana by a quotation from the genealogical work of
-
-
 
 Eḍu Miśra, the oldest, the most respectable and the most reliable of the Brahminic genealogists of Bengal. But all that is known about Eḍu Miśra is that immediately after the Mahomedan conquest and the confiscation of Brahminic land-grants in Western Bengal, he as herald led the dispossessed Brahmins of Western. Bengal to the Sena king Viś varúpa at Vikramapura, and convinced him that he should do something for these Brahmins who were so much honoured by his father and grand-father. Many efforts have been made by various persons to get Eḍu Miś ra's work, but in vain. My esteemed and learned friend Bábu Golápcandra Śástrí should therefore have satisfied himself as to the authenticity of the manuscript, about which, I am sorry to notice, he says nothing.
 
@@ -182,8 +146,6 @@ Eḍu Miśra, the oldest, the most respectable and the most reliable of the Brah
 (5) That there were eight generations between Bhaṭṭanáráyaua, the first progenitor, and Jímútaváhána.  
 (1) The first assumption is untenable. The later genealogists.
 
-
-
 of Bengal indeed assumed that the five Brahmins came in Saṃvat 999 or according to some in "Vedaváuáṅka S'áke" i. e. Śaka 954-1032 A. D. But the older authorities say that the Brahmins came in Vedavágáṅga Śake" i.e. Śaka 654-732A.D. and this is borne out by the old Várendra genealogists also. And the earlier date makes it possible for an application being made by a king of Bengal to Kanauja for Brahmins. It was then ruled by Yaśovarmadeva with Bhavabhúti, the chiof disciple of Kumārila and the great organiser of Brahminic community, as his court-paṇḍita.
 
 (2) The second assumption is, on the face of it, an impossible one.
@@ -194,8 +156,6 @@ of Bengal indeed assumed that the five Brahmins came in Saṃvat 999 or accordin
 
 (5) Counting from Bhaṭṭanáriyana as first, his son Vaṭu Pari is second, Maṇibhadra third, Dhanañjaya fourth. But the
 
-
-
 relation between Dhanañjaya and Vidhu is not stated to be that of father and son. The verses simply state "Tasyánvaye Vidhurjátah." Anvaye játa does not mean that Vidhu was Dhanañjaya's son. Vidhu, Hala, Caturbhuja and Jímútaváhana are indeed four generations.
 
   Assuming all these impossible data to be correct the learned Śastrí will bring Jímútaváhana to Samvat 1199, i. e. in the middle of the 12th century A. D., either in the reign of Ballála or his father Vijaya.
@@ -203,8 +163,6 @@ relation between Dhanañjaya and Vidhu is not stated to be that of father and so
  The present work Kálaviveka or speaking more correctly that part of Dharmaratna which treats of Kala,has an unique interest. It is the oldest work known treating of Kála, a section of Smṛti, which has a vast literature. The object of this literature is not the calculation of time, as in astronomy, but to find out the proper time for the various religious observances. The calculations are all to be taken from astronomy. The Kála literature simply states what is to be done in difficult and doubtful cases, for instance, if a "Tithi" falls on two days, what sort of rite is to be performed on the first and what on the second day; again when the Dharmas´ástras simply mention the name of the month, it decides whether the solar, the lunar, the sidereal, or the sacrificial month is intended ; it necessarily leads to long discussions on intercalary months, and the intercalculation of the lunar and the solar months; rites and ceremonies are classified according to the various kinds of months in which they are to be performed.
 
  The peculiarity of this work is that when no particular
-
-
 
 kind of month is mentioned for the performance of any ceremony, the author insists upon that ceremony being performed in a solar month. In this matter he is opposed by all subsequent writers on Kála.
 
@@ -217,8 +175,6 @@ Sanskrit College,
 Calcutta, **}**    **PRAMATHANÁTHA TARKABHÉS ANA.**
 
 The 1st August, 1905,
-
-
 
 **कालविवेकधृतप्रमाणवचनानाम्**
 
@@ -241,8 +197,6 @@ The 1st August, 1905,
 | अथ मधुसुरभिफलकुसुम-५१७/१८            |
 | अथ वानप्रस्थद्वैविध्यं४२७/१६        |
 
-
-
 |                                      |
 |--------------------------------------|
 | अथाश्वयुजके मासि ५१२|१५              |
@@ -260,11 +214,6 @@ The 1st August, 1905,
 | अन्तपादो निशाभागे ५१४|२२             |
 | अन्त्योपान्तौ त्रिभौ २४/१,२६|४     |
 | अन्यदातु यदा भानोः ५२२|२१            |
-
-
-
-
-
 
 |                                       |
 |---------------------------------------|
@@ -306,8 +255,6 @@ The 1st August, 1905,
 | अमावास्याष्टमी षठी ४७६|१८                  |
 | अमा वै सोमवारेण ४६२|७                      |
 | अमाशब्दः सहार्थे३५४|१४                    |
-
-
 
 |                                          |
 |------------------------------------------|
@@ -352,8 +299,6 @@ The 1st August, 1905,
 | अहोरात्रन्तु नाश्नीयात्५३७|१६     |
 | अहोरात्रस्य यः सन्धिः ३३०/२१       |
 
-
-
 |                                         |
 |-----------------------------------------|
 | अह्नःपञ्चदशांशो ३६८|४                  |
@@ -395,8 +340,6 @@ The 1st August, 1905,
 | आषाढ्यां सरयूतोये ३२३|१९             |
 | आषाढ्यादिचतुर्म्मासं ३३२|१४          |
 
-
-
 |                                                   |
 |---------------------------------------------------|
 | आषाढ्यामथ कार्त्तिक्यां ३२०/१८                    |
@@ -430,8 +373,6 @@ The 1st August, 1905,
 |        उपवासासमर्थानां ४६०|२        |
 |      उपवासे तथा श्राद्धे ४५२|४      |
 |    उपाकर्म्म च कर्त्तव्यं २७५/८     |
-
-
 
 |                                      |
 |--------------------------------------|
@@ -473,8 +414,6 @@ The 1st August, 1905,
 | एकादशी दशायुक्ता ४४३/१३, ४४७/८, ४९१/६                 |
 | एकादशी द्वादशी च ४३८/२, ४४०/६, ४४७\|१३, ४४८|१७, ४६४|७ |
 
-
-
 |                                          |
 |------------------------------------------|
 | एकादशी प्रवृद्धा चेत् ४३९ \| ६          |
@@ -514,8 +453,6 @@ The 1st August, 1905,
 | **ओ**                                   |
 | ॐ वज्रहस्त सुरारिध्न२९६|४              |
 
-
-
 [TABLE]
 
 |                                      |
@@ -537,8 +474,6 @@ The 1st August, 1905,
 | कार्त्तिके कृष्णपक्षे तु ४७२ \| १२   |
 | कार्त्तिके ग्रहणं पुण्यं ५२४/१०      |
 | कार्त्तिके पुष्येण मासपुण्यानि३२५|४  |
-
-
 
 |                                       |
 |---------------------------------------|
@@ -580,8 +515,6 @@ The 1st August, 1905,
 | क्षमा सत्यं दया दानं ४५४|८             |
 | क्षारोदके चाप्यवगाह्य ४५८/१५           |
 
-
-
 |                                     |
 |-------------------------------------|
 | क्षीराब्धौशेषपर्य्यङ्के१८८|७   |
@@ -622,8 +555,6 @@ The 1st August, 1905,
 | घटिकार्द्धं विभागं वा ४७८|२०       |
 | घटिकैकाप्यमावास्या ३६० | १३, ४९१/९ |
 | घृतेन दीपं प्रज्वाल्य ३२६|१६       |
-
-
 
 |                                      |
 |:------------------------------------:|
@@ -669,8 +600,6 @@ The 1st August, 1905,
 | ज्यैष्ठशुक्लदशम्याञ्च ४०१|५      |
 | ज्येैष्ठस्य शुक्लदशमी ४००|१४     |
 
-
-
 |                                       |
 |---------------------------------------|
 | ज्यैष्ठे मासि सिते पक्षे ४०१|१,४६८/५ |
@@ -713,8 +642,6 @@ The 1st August, 1905,
 | तस्यां स्नानं तथा दानं ४११|४       |
 | तस्यामनग्निपक्वाशी ४५१|२           |
 
-
-
 |                                      |
 |--------------------------------------|
 | तस्यामेव दशम्याञ्च ५१६/१४          |
@@ -756,8 +683,6 @@ The 1st August, 1905,
 | त्रिदशाः स्पर्शसमये ५३६|१७               |
 | त्रिरात्रफलदा नद्यो ३३१|८                |
 | त्रिष्वेतेष्वथ भक्तेषु१७/९              |
-
-
 
 |                                   |
 |-----------------------------------|
@@ -802,8 +727,6 @@ The 1st August, 1905,
 | दिवा कपित्थच्छायान्ने ३३६|२०           |
 | दिवारात्रौ व्रतं यच्च ४९७/१२, ५०२/१९   |
 
-
-
 |                                    |
 |------------------------------------|
 | दिव्यान्तरीक्षभौमानि ३०४|१२        |
@@ -843,8 +766,6 @@ The 1st August, 1905,
 | द्विराषाढक्रिया तावत् १०३|१                |
 | द्विराषाढ़विकल्पोऽयं २००|४,२४०|१३          |
 | द्विराषाढ़े तु कन्यायां५१६|१२             |
-
-
 
 |                                           |
 |-------------------------------------------|
@@ -886,8 +807,6 @@ The 1st August, 1905,
 | नरपतिरिदमर्घं२९३|१             |
 | नरस्य द्विगुणच्छाया३७०|३       |
 | न राहुदर्शनवर्ज्जं ३२७|२०       |
-
-
 
 |                                       |
 |---------------------------------------|
@@ -932,8 +851,6 @@ The 1st August, 1905,
 | नेष्टकचिते पितॄंस्तर्पयेत् ३२९|१४     |
 | न्यूनातिचारे दुर्भिक्षं ११९|७         |
 
-
-
 |                                             |
 |:-------------------------------------------:|
 |                    **प**                    |
@@ -974,8 +891,6 @@ The 1st August, 1905,
 | पिचुमर्द्दस्य पत्राणि ४१४/४               |
 | पिण्डान्वाहार्य्यकं श्राद्धं ३५९/७, ३७०|७ |
 | पितृयज्ञन्तु निर्वर्त्त्य ३५४|५           |
-
-
 
 |                                     |
 |-------------------------------------|
@@ -1018,8 +933,6 @@ The 1st August, 1905,
 | पौषे मासि यदा देवि ४२१|४|१०                |
 | पौष्णशेषो यदा नाह्नि १५४|४                 |
 
-
-
 |                                          |
 |------------------------------------------|
 | पौष्यामतीतायां ४६८|१३                   |
@@ -1061,8 +974,6 @@ The 1st August, 1905,
 | बाल्ये वा यदि वा वृद्धे १३२/३     |
 | बुधवारेण संयुक्ता ४५९/१४          |
 | बुधश्रवणसंयुक्ता ४१०/२            |
-
-
 
 |                                                 |
 |-------------------------------------------------|
@@ -1108,8 +1019,6 @@ The 1st August, 1905,
 | माघ एव यदा माघी ३४५|३                            |
 | माघशुल्कैकादश्यामुपोष्य ४३३|९                    |
 
-
-
 |                                    |
 |------------------------------------|
 | माघस्रानं सदा पुण्यं३२८|८         |
@@ -1148,8 +1057,6 @@ The 1st August, 1905,
 | मिथुनस्थो यदा भानुः५५|६, १७०|१, २५३|४ |
 | मुक्तिं दृष्ट्वा तु भुञ्जीत५३८|७      |
 | मुक्ते शशिनि भुञ्जीत५३९|१९            |
-
-
 
 |                                     |
 |-------------------------------------|
@@ -1190,8 +1097,6 @@ The 1st August, 1905,
 | यदहस्त्वेव चन्द्रमा३५८|२         |
 | यदाक्रान्ता दशम्या तु४४६|१२       |
 
-
-
 |                                    |
 |------------------------------------|
 | यदा चतुर्द्दशी यामं३५९|९,३६८|१५   |
@@ -1229,8 +1134,6 @@ The 1st August, 1905,
 | यस्यान्तिथावभ्युदियात्५००|१८            |
 | यस्यान्तियौ यमुनया४०६|२                 |
 | यां काञ्चित्सरितं प्राप्य४००|१६, ४७१|१८ |
-
-
 
 |                                                  |
 |--------------------------------------------------|
@@ -1270,8 +1173,6 @@ The 1st August, 1905,
 | रविसंक्रमणे पुण्ये३८१|१६            |
 | राका चानुमतिश्चैव३४६|३             |
 | राजसूयाश्वमेधाभ्यां ३०४|७            |
-
-
 
 |                                          |
 |------------------------------------------|
@@ -1313,8 +1214,6 @@ The 1st August, 1905,
 |       वर्द्धमानेन्दुपक्षस्य ५०२/५        |
 |    वर्षे वर्षे तु यच्छ्राद्धं १४१/१७     |
 
-
-
 |                                      |
 |--------------------------------------|
 | वर्षैरेकगुणां भार्य्यां४२७|११      |
@@ -1355,8 +1254,6 @@ The 1st August, 1905,
 | वेदा हि यज्ञार्थमभिप्रवृत्ताः३|७              |
 | वैयाघ्रपद्यगोत्राय४२३|१०                      |
 | वैशाखपौर्णमास्यान्तु६२|९                      |
-
-
 
 |                                 |
 |---------------------------------|
@@ -1402,8 +1299,6 @@ The 1st August, 1905,
 |  शुक्लपक्षेद्वये पूजा२०५|१३   |
 | शुक्लपक्षस्य पूर्व्वाह्ने३६६|२० |
 
-
-
 |                                                              |
 |--------------------------------------------------------------|
 | शुक्लपक्षस्य सप्तम्यां४१५/६ \| १३, ४१७/८, ४९२/५, ५०७/१६\|२० |
@@ -1440,8 +1335,6 @@ The 1st August, 1905,
 | षष्ठ्यां फलाशनो राजन्४१४/९                                       |
 | षष्ठ्यां यो नियतो भूत्वा४१९/१                                     |
 | षष्ठ्यान्तैलमनायुष्यं३३४ |२०, ३३५|१५                            |
-
-
 
 |                                        |
 |----------------------------------------|
@@ -1485,8 +1378,6 @@ The 1st August, 1905,
 | सर्व्वं कोटिगुणं देवि४२१|१४                  |
 | सर्व्वं भूमिसमं दानं५२१/१३                   |
 
-
-
 |                                                  |
 |--------------------------------------------------|
 | सर्व्वदा भगिनीहस्तात् ४०५|२०                 |
@@ -1524,8 +1415,6 @@ The 1st August, 1905,
 | सुस्थे नरे सुखासीने३८२|८                  |
 | सूतके मृतके चैव४४९/९, ५२८|३, ५३५|१         |
 | सूतके मृतके स्नात्वा४४९/११                |
-
-
 
 |                                                     |
 |-----------------------------------------------------|
@@ -1565,8 +1454,6 @@ The 1st August, 1905,
 | स्रवन्तीष्वनिरुद्धासु३२९\|२                       |
 | स्वतोऽवसितमाममांसं ४२७|१८                         |
 
-
-
 |                                     |
 |-------------------------------------|
 | स्वर्गात्समेत्य भुवि२९८|६          |
@@ -1585,8 +1472,6 @@ The 1st August, 1905,
 | हेमन्तशिशिरयोश्चतुर्णां३५२|१८ |
 | हेमसमीपसिताम्बर ५१ ७ | २२     |
 
-
-
 **कालविवेकधृतप्रमाणवचनानाम्**
 
 **ऋष्यादिनामनिर्णयार्था सूची।**
@@ -1597,57 +1482,31 @@ The 1st August, 1905,
 
 [TABLE]
 
-
-
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | २९४\|४, २९५/२/१२, २९६|७, २९७/१६/१०, २९८|३|१०, ३०२/१, ३०३/१५, ३१०/६, ३१६/२, ३१९/१२, ३२०/१०, ३२३/५/१३, ३२४/१५, ३२६/१४,३२७/९/१२, ३२८|२१ ५/८, ३२९/७, ३३०/५, ३३३/२, ३२५/२१, ३३७/१८, ३३८/५, ३३९/१३, ३४०/८, ३४१/७, ३४२/१३, ३४४/१/५, ३४७/५/१४, ३४८/९/२६, ३४९/६/११/२१, ३५०/५, ३५१/१/८/२२, ३५२|१३, ३५३/२१. ३५४/२, ३५६|६|११, ३५७/५|१३|१५|१८, ३५९/१६, ३६१/६/२०, ३६२|१४/ १७, ३६३/२०, ३६४/१९, ३६५/१४, ३६७/२०, ३७०/१/७/१७, ३७३/१७/२१, ३७४|६|११, ३७५/५/१९, ३७८१७, ३८०|४/७, ३८२/३, ३८३/९/१७, ३८४/२२, ३८५|२|१९, ३८७/८/१७, ३८८/१३, ३८९/५/१४,३९१|४/१३, ३९२/५, ३९३/५, ३९५/४/१२/१४/२१, ३९६\|२\|७\| ११, ३९७/१/९, ३९८/२, ४०१/१२, ४१०/१६, ४१४/७, ४१५|१७, ४१७/२, ४१८/१४, ४१९/१७, ४२१/४,४२२|४|८/१७, ४२३|१०, ४२६/४, ४२७/१०/११, ४२८|९|११| १३/१७, ४२९/१७, ४३०/६/१०, ४३५/६/१३, ४३६|६|२४, ४४२|३|६, ४४५/९/१७, ४४६/८/१२/१६, ४४८/१७, ४५०/७, ४५१|१९, ४५२/२\|९\|१३\|१६, ४५३२, ४५६/११, ४५७/१८, ४६३|८|१६. ४६४|१७, ४६५/३/११, ४६८/१७, ४७०/४/८, ४७१|११|१८, ४७२/१२/१७, ४७४/९, ४७५/६, ४७६/११/१६, ४७८|८|१६, ४८०/२, ४८३/६, ४८६|१०, |
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 **विषयसूची**
 
@@ -1671,8 +1530,6 @@ The 1st August, 1905,
 |      क्षत्रियवैश्ययोः यथाक्रमं सौरसावनमासग्रहणपक्षे दोषकथनम्       |
 | जातिभेदेन मासविशेषग्रहणपक्षव्यवस्थापनाय पुनर्युक्तिप्रदर्शनारम्भः |
 
-
-
 |                                                                                          |
 |------------------------------------------------------------------------------------------|
 | प्रयोगदर्शनेन मासपदशक्तिनिरूपणासम्भवकथनम्                                                |
@@ -1690,8 +1547,6 @@ The 1st August, 1905,
 | मार्गशीर्षादिद्वादशमासेषु पूर्णिमायां विशेषनक्षत्रयोगे विशेषवस्तुदाने फलकथनम्            |
 | मासविशेषसम्बन्धेनैव पौर्णमासीनां महाफलत्वप्रतिपादनम्                                     |
 | पञ्जिकाकारमिश्रमतानुसारेण पञ्चशारदीयस्य विषयशुद्धिप्रकारचिन्तनम्                         |
-
-
 
 |                                                                   |
 |-------------------------------------------------------------------|
@@ -1712,8 +1567,6 @@ The 1st August, 1905,
 | चान्द्रसंवत्सरे त्रयोदशमासाः                                      |
 | षडृतवः                                                            |
 | उत्तरायणम्                                                        |
-
-
 
 |                                                         |
 |---------------------------------------------------------|
@@ -1737,11 +1590,6 @@ The 1st August, 1905,
 | त्रिविधाश्राद्धनिर्णयः                                  |
 | जन्मतिथिकृत्यस्य सौरमासकर्त्तव्यता                      |
 
-
-
-
-
-
 |                                                                   |
 |-------------------------------------------------------------------|
 | संवत्सरमध्ये अधिमासपाते मासिकश्राद्धवृद्धिः                       |
@@ -1764,8 +1612,6 @@ The 1st August, 1905,
 | शक्रदुर्गाविष्णूत्थानकालनिर्णयः                                   |
 | आश्विनादिपदानां चान्द्रे लाक्षणिकत्वाङ्गीकारपक्षेऽपि दोषाभावकथनम् |
 
-
-
 |                                                         |
 |---------------------------------------------------------|
 | शक्रध्वजोत्थानादिषु दीक्षितमतम्                         |
@@ -1785,8 +1631,6 @@ The 1st August, 1905,
 | सम्भ्रमभट्टमतखण्डनारम्भः                                |
 | सम्भ्रममतखण्डनोपसंहारः                                  |
 | जितेन्द्रियस्य मतेन हरिशयनादिव्यवस्थापनप्रकारकथनारम्भः  |
-
-
 
 |                                                            |
 |------------------------------------------------------------|
@@ -1808,8 +1652,6 @@ The 1st August, 1905,
 | छन्दोगानां सिंह एव उत्सर्गोपाकर्म्मकरणं विहितम्            |
 | उपाकरणादी इतिकर्त्तव्यताकथनम्                              |
 | उपाकर्म्मणि नद्या रजोयोगो न दोषाय                         |
-
-
 
 |                                                    |
 |----------------------------------------------------|
@@ -1833,8 +1675,6 @@ The 1st August, 1905,
 | अष्टमदिवसीयरात्रौ विसर्ज्जनं कार्य्यम्             |
 | अष्टमदिनातिक्रमहेतुः                               |
 | शक्रध्वजोत्थापनप्रकारः                             |
-
-
 
 |                                                       |
 |-------------------------------------------------------|
@@ -1860,8 +1700,6 @@ The 1st August, 1905,
 | चतुर्णां वर्णानां वृषलक्षणम्                          |
 | मत्स्यपुराणीयदानकालाः                                 |
 
-
-
 |                                                       |
 |-------------------------------------------------------|
 | उच्चावचपुण्यकालाः                                     |
@@ -1884,8 +1722,6 @@ The 1st August, 1905,
 | आपदि परकीयनिपाने स्नानस्य विधानम्                     |
 | देवखातलक्षणम्                                         |
 | सन्ध्याकालनिर्णयः                                     |
-
-
 
 |                                                |
 |------------------------------------------------|
@@ -1911,8 +1747,6 @@ The 1st August, 1905,
 | आमलकस्नाने निषिद्धकालाः                        |
 | तैलाभ्यङ्गे निषिद्धकालाः                       |
 
-
-
 |                                         |
 |-----------------------------------------|
 | वस्त्रपीड़ने निषिद्धकालाः               |
@@ -1937,8 +1771,6 @@ The 1st August, 1905,
 | महाज्यैष्ठ्यां विशेषः                   |
 | महामाघी                                 |
 
-
-
 |                                                                     |
 |---------------------------------------------------------------------|
 | तीर्थविशेषे पौर्णमासीफलम्                                           |
@@ -1960,8 +1792,6 @@ The 1st August, 1905,
 | निरग्नेस्तु पूर्व्वाह्णेऽपि अमावास्याश्राद्धविधानम्                 |
 | पूर्व्वाह्णेअमावास्याश्राद्धविरोधियोग्लौकमतम्                      |
 | तन्मतनिराकरणम्                                                      |
-
-
 
 |                                                     |
 |-----------------------------------------------------|
@@ -1987,8 +1817,6 @@ The 1st August, 1905,
 | निषेधे युग्मादरो नास्ति                             |
 | तैलनिरूपणारम्भः                                     |
 
-
-
 |                                             |
 |---------------------------------------------|
 | तैलशब्दस्य यौगिकत्वम्                       |
@@ -2013,8 +1841,6 @@ The 1st August, 1905,
 | संक्रान्तिश्राद्धे विशेषः                   |
 | दक्षिणोत्तरायण निर्णयः                      |
 
-
-
 |                                                            |
 |------------------------------------------------------------|
 | युगादिनिरूपणारम्भः                                         |
@@ -2036,8 +1862,6 @@ The 1st August, 1905,
 | अथ प्रतिपत्                                                |
 | कार्त्तिकशुक्लप्रतिपत्कर्त्तव्यम्                          |
 | अथ भ्रातृद्वितीया                                          |
-
-
 
 |                        |
 |------------------------|
@@ -2063,8 +1887,6 @@ The 1st August, 1905,
 | अथ षष्ठी               |
 | भाद्रपदषष्ठी           |
 
-
-
 |                                |
 |--------------------------------|
 | महाषष्ठी                       |
@@ -2089,8 +1911,6 @@ The 1st August, 1905,
 | लौहित्यस्नानविधिः              |
 | भीष्मतर्पणविधिः                |
 
-
-
 |                                                 |
 |-------------------------------------------------|
 | भीष्मतर्पणमन्त्रः                               |
@@ -2113,8 +1933,6 @@ The 1st August, 1905,
 | संयुक्तैकादशी                                   |
 | प्रवेशिन्येकादशी                                |
 | एकादश्यां सङ्क्षेपः                             |
-
-
 
 |                          |
 |--------------------------|
@@ -2140,8 +1958,6 @@ The 1st August, 1905,
 | विजया द्वादशी सैव        |
 | विष्णुशृङ्खलकम्          |
 
-
-
 |                                                       |
 |-------------------------------------------------------|
 | एकादशीद्वादश्योर्दीपदानम्                             |
@@ -2166,8 +1982,6 @@ The 1st August, 1905,
 | तत्र चतुर्द्दशयमतर्पणम्                               |
 | कार्त्तिककृष्णचतुर्द्दश्यां दिनोदये अवश्यं स्नातव्यम् |
 
-
-
 |                                                      |
 |------------------------------------------------------|
 | तिथिविप्रतिपत्तिः                                    |
@@ -2191,8 +2005,6 @@ The 1st August, 1905,
 | वारयोगविधाने न युग्मशास्त्रविषयत्वम्                 |
 | तिथि विशेषेषु वारविशेषयोगविधानपरवचनानि               |
 
-
-
 |                                                      |
 |------------------------------------------------------|
 | श्रीकृष्णस्य भगवतो जन्मकालः                          |
@@ -2215,8 +2027,6 @@ The 1st August, 1905,
 | कार्त्तिकेऽपि नीराजनम्                               |
 | खञ्जनपातशुभाशुभनिर्णयः                               |
 | खञ्जनपतने शुभदेशाः                                   |
-
-
 
 |                                            |
 |--------------------------------------------|
@@ -2242,8 +2052,6 @@ The 1st August, 1905,
 | अत्र विषये दीक्षितमतोपन्यासः               |
 | दीक्षितमतनिराकरणम्                         |
 
-
-
 |                                                                      |
 |----------------------------------------------------------------------|
 | स्वस्य परस्य वा प्रत्ययितस्य चाक्षुषं ग्रहणज्ञानं स्नानादौ निमित्तम् |
@@ -2254,8 +2062,6 @@ The 1st August, 1905,
 | जन्मनक्षत्रे ग्रहणे दोषः                                             |
 | तद्दोषशान्तिः                                                        |
 | ग्रन्थसमाप्तिश्लोकः                                                  |
-
-
 
 **ओं नमो गणेशाय।**
 
@@ -2288,8 +2094,6 @@ The 1st August, 1905,
 
 श्लोकार्थस्तु त्रिभुवनेत्यादि। त्रिभुवनानां त्रिजगतां भवनं सृष्टिःस्थास्थितिःपालन-
 
-
-
 **कालः कैश्चिदबुद्धः कैश्चित् सङ्क्षिप्तश्च वचननिबद्धः।  
 इति मन्दमतोनामपि सुबोधकरणोमया क्रियते॥ \***
 
@@ -2318,8 +2122,6 @@ The 1st August, 1905,
 तस्मै कालस्वरूपाय नमः नमस्कारोऽस्तु।
 
  \* कालः कैश्चिदिति। कैश्चिदिति निबन्धकारैः कालः कर्मणां कालःअबुद्धःस्त्रनिबन्धे नोक्तः कैश्चिनिबन्धकारैश्च सङ्क्षिप्तः सङ्क्षेपेनोक्तःउभयथापि सम्यक्कर्म्मोपपत्तिर्न भवतीति ध्वनितम्। वचननिबद्धःवचनेन मनुवाक्याद्यनुसारेण निबद्धः विस्तारक्रमेणोक्तः सन्दर्भरूपःमन्दमतीनां मूर्खानामपि मया सुबोधनी असुबोधनःसुबोधनः क्रियते सुखबोध्यःक्रियत इत्यर्थः।
-
-
 
 **प्रथमोऽध्यायः।**
 
@@ -2350,8 +2152,6 @@ The 1st August, 1905,
 
 ¶ यथा शिखेति। शिखा यथा मयूराणां मूर्ध्नि संस्थिता एवं मणयश्चसर्पाषां
 
-
-
 **अप्रदीपा यथा रात्रिरनादित्यं यथा नभः।  
 तथासांवत्सरो राजा भ्रमत्यन्ध इवाध्वनि॥\*  
 मुहूर्त्ततिथिनक्षत्राण्यृतवश्चायनानि च।  
@@ -2370,8 +2170,6 @@ The 1st August, 1905,
 § तत् किमिति। तत् तस्मात् वैशाखादिमासादेर्लोकप्रसिद्धत्वात् विवेचनेन मासादिविवेचनेन किं प्रयोजनं स्वीकृत्य समाधत्ते।
 
 ¶ सत्यमित्यादि। अहोरात्रव्यापिनि तिथ्यादौ यदा तिथिरहोरात्रव्यापिनी तदा तत्कार्य्या संशयः। तत्तिथिनिमित्तकोपवासादिकार्य्ये असंशयः संशयो नास्ति दिनद्वयास्पर्शात्उपवासादेरहोरात्रसाध्यत्वाच्च।
-
-
 
 तु दिनद्वयेऽपि तत्कार्य्यस्य सम्भवात्,\* कुत्र तत्क्रियेति। वैशाखादिपदार्थश्चान्द्रः सौरो वेति सन्देहादस्ति विवेचनप्रयोजनम्। द्वयोरपि शास्त्रे निर्द्देशात्।
 
@@ -2402,8 +2200,6 @@ The 1st August, 1905,
 
 त्रिंशद्दिवसः सावनः सौरसावनःरविसंक्रान्तिचिह्नं रविसंक्रान्तिचिह्नितं राशिभोगावच्छिन्नं तथाच एकराशिरविभोगावच्छिन्नः कालः सौरमासः।
 
-
-
 यथा पारस्करः।
 
 **अमावस्यापरिच्छिन्नो मासः स्याद्ब्राह्मणस्य तु।  
@@ -2420,8 +2216,6 @@ The 1st August, 1905,
 § पौर्णमास्युपक्रान्त इति। पौर्णमास्या ऊर्द्धंकृष्णप्रतिपदमारभ्य तदन्तेनैव समाप्त अपर पौर्णमासीपर्य्यन्तकालश्चान्द्रः गौणचान्द्रः, एतत् वैश्यस्य।
 
 ¶ तथा कर्म्मभेदेनैव इति। मासभेदेन मुख्यचान्द्र-गौणचान्द्र सौरमासभेदेन।
-
-
 
 यथा पितामहः।
 
@@ -2451,8 +2245,6 @@ The 1st August, 1905,
 
 \।\। नैतदिति। अनयोः जातिभेदकर्म्मभेदयोः परस्परव्याहतत्वात् परस्परविरुद्धत्वात्विरुद्धतां दर्शयति।
 
-
-
 मावास्यापरिच्छिन्नमासविधानात्। विवाहादिषु यज्ञादिषु च तस्यैव प्राप्तेः। विवाहादौ सौरमासस्य यज्ञादौ सावनस्य च विधिर्न स्यात्।\* तथा क्षत्रियस्य सौरमासनियमात् कर्म्मभेदेनचान्द्रसावनविधानं व्याहन्येत। एवं वैश्यस्यापि बोद्धव्यम्। कर्म्मभेदेनैव तत्तन्मासप्रतिनियमात्,† जातिभेदे मासभेदविधिर्व्याहन्येत।§ मासि मासि वोऽशनमिति श्रुत्या सर्व्ववर्णानामेवाभावास्यान्ते चान्द्रे मासि श्राद्धविधानात्।¶
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\*ब्राह्मणस्येति। सकलकर्म्मस्वेव अमावस्यापरिच्छिन्नमासविधानात् श्राद्धयज्ञविवाहादिसकलकर्म्मस्वेवमुख्यचान्द्रमासविधानात् अमावास्यापरिच्छिन्नकालः स्यात् ब्राह्मणस्य च इति विशेषवचनादिति शेषः तस्यैव चान्द्रमासस्यैव प्राप्तेः। विधिर्न स्यात् ब्राह्मणस्येति शेषः।
@@ -2464,8 +2256,6 @@ The 1st August, 1905,
 § जातिभेदे इति। ब्राह्मणादिजातिभेदे मासविधिः मुख्यचान्द्रमासविधिर्ब्राह्मणस्य।सौरमासविधिः क्षत्त्रियस्य गौणचान्द्रमास विधिर्वैश्यस्य इत्येवं मासविधिर्व्याहन्येत विरुद्ध्येत
 
 ¶अत्र हेतुमाह मासि मासि वोऽशनमिति श्रुत्या इति। मासि मासि प्रतिमासि बो युष्माकं पितृणाम् अशनं श्राद्धमिति श्रुत्या सर्व्ववर्णानां ब्राह्मणादिवर्णचतुष्टयानाम अमावास्यान्ते चान्द्रे मासि शुक्लप्रतिपदादि-अमावास्यान्तमुख्यचान्द्रमासि इति ग्रन्थकर्त्तुरभिप्रायः वस्तुतस्तु अमावास्यान्ते अमावास्या अन्तो यस्य तस्मिन् कृष्णपक्षेइत्यर्थःचान्द्रे मासिगौणचान्द्रे मासि पार्व्वणस्य ब्रह्मपुराणीयत्वात्। ननु मासपदस्य मासविशेषशक्तेःप्राग
-
-
 
 **यात्राजसिंहतुरगोपगते वरिष्ठा ( १ )[^3] वरिष्ठा इत्यत्र कनिष्ठेति राजमार्त्तण्डे पाठः।")  
 मध्या शनैश्चरबुधोशनसां गृहेषु।  
@@ -2480,8 +2270,6 @@ The 1st August, 1905,
 
 \* यात्राज इति। भानौ सूर्य्ये मेषसिंहधनुषि उपगते सति यात्रा वरिष्ठा श्रेष्ठा, मकरकन्याकुम्भमिथुनतुलाराशिषु भानौ उपगते मध्या यात्रा मध्यमा, कर्कटमौनवृश्चिकराशौ भानौ गते अतिदीर्घा चिरप्रवासयात्रा शस्ता, तथा देवलमुनिमते पृष्ठे रवौ अध्वनि पथि यात्रा शस्ला पृष्ठे रविस्तु चक्रभ्रमणवशेन यस्यां दिशि सूर्य्यस्तां दिशं पृष्ठतः कृत्वा गच्छेत्। यथा लग्नेऽर्केपश्चिमदिशं गच्छेत् रवेः पूर्व्वस्थितत्वात्, चतुर्थस्थरवौ दक्षिणां दिशं रवेरुत्तरावस्थितत्वात्, सप्तमस्थे पूर्व्वां दिशं गच्छेत् रवेः पश्चिमावस्थितत्वात्, दशमस्थे उत्तरां गच्छेत् रवेर्दक्षिणावस्थितत्वात्, एवं विदिक्ष्वपि आग्नेयादिकोणेषु। तथाच द्वितीयतृतीयलग्नस्वे सूर्य्येनैऋत्यां गच्छेत् रवेरैशान्यामवस्थानात्। पञ्चमषष्ठलग्नस्थ सूर्य्येआग्नेय्यां गच्छेत् रवेर्वायुकोणावस्थानात्। अष्टमनवमलग्नस्थे सूर्य्येऐशान्यां गच्छेत् रवेर्नैर्ऋतकोणावस्थानात्। एकादशद्वादशलग्नस्थे सूर्य्ये वायव्यां गच्छेत् रवेराग्नेयकोणावस्थानादिति बोध्यम्। तथाच देवलः। लग्नस्थे वरुणाशां हिवुकस्थे दक्षिणां रवौ यायात्। सप्तमगे पूर्व्वाशां दशमस्थेसूरे सौम्याम्॥ द्वित्रिस्थे नैऋत्यां पञ्चषष्ठ आग्नेय्याम्। नवाष्टम ऐशान्याम् अन्तोपान्ते च वायव्यामिति ॥ वरुणाशां पश्चिमदिशं, हिबुकस्थे चतुर्थस्थे, सौम्यामुत्तराम्।
 
-
-
 नात्। अजो मेषः। सुरगो धनुः, ॐ शनैश्चरस्य गृहं मकरकुम्भो। बुधगृहं मिथुनकन्ये। उशनसःवृषतुले।+ मासोपवासषाण्मासिकादिकृच्छ्राणां प्रायश्चित्ततया सावनेनैव मासेन सर्व्वार्थं विधानान्न जातितो व्यवस्था। तथा यज्ञादौ सावनः स्मृतः विवाहोत्सवयज्ञेषु सौरं मानमित्यनयोरपि विरोधात्। किञ्च ब्राह्मणस्यामावास्यान्त इति नियमविधिरयं न वा यदि नियमविधिस्तदा किं ब्राह्मणस्यैव दर्शान्तो नान्यस्येति नियम्यते। यद्वा दर्शान्त एव तस्य नान्य इति यदि प्रथमः कल्पः तदा मासि मासि वोऽशनमिति क्षत्रियादीनां न स्यात्। एवञ्च क्षत्रियस्यैव सौरो वैश्यस्यैव सावन§इति। तत्र सौरसावनयोरपि नियतसम्बन्धा-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\*तुरगो धनुरिति। तथाच दीपिका —अश्विनीमघमूलादौ मेषसिंहद्वयादय इत्यादि। अश्विन्यादौ मेषादयः मघादौ सिंहादयः मूलादौ द्वयादय इत्यर्थः।
@@ -2494,8 +2282,6 @@ The 1st August, 1905,
 + मासोपवासेत्यादि। उपवासस्त्रिरात्रंवा मासःपक्षस्तदर्द्धकम्। षड़हद्वादशाहादि कार्य्यं शुद्धिफलार्थिभिरिति विश्वामित्रवचनेन मासोपवासादिकृच्छ्राणां प्रायश्चित्ततया सायनेनैव मासेन विधानात् गणनाविधानादित्यर्थः। तथाच गार्ग्यः। आयुर्दायविभागश्चप्रायश्चित्तक्रियास्तथा। सावनेन तु कर्त्तव्या मन्त्राणामप्युपासना इति॥
 
 §वैश्यस्यैव सावन इति। चान्द्रसावनः गौणचान्द्र इत्यर्थः न तु सौरसावनः संक्रान्तिपौर्णमासोभ्यां तथैव नृपवैश्ययोरिति वचनेन पौर्णमास्या उपक्रान्तस्तदन्तेनैव समाप्यश्चान्द्रो वैश्यस्यैवेति स्वोक्तव्याख्यानेन च वैश्यस्य गौणचान्द्रमासावगमात्। तथाच सावनस्त्रिविधः सौरसावनःचान्द्रसावनः नाक्षत्रसावनश्च। सौरसावनस्त्रिंशदहोरात्रात्मकः चान्द्रसावनः कृष्णप्रतिपदादिपौर्णमास्यन्तः त्रिंशत्तिथ्यात्मकः नक्षत्र- सावनश्च आयुर्दीये स्मृतं प्राज्ञैर्नाक्षत्रं
-
-
 
 दुभयनियम एव स्यात् ब्राह्मणस्यैव\* दर्शान्तो दर्शान्त एव ब्राह्मणस्य इति। सौरसावनमास विहितेषु कर्म्मसु नाधिकारो+ ब्राह्मणस्य स्यात्। एवं क्षत्त्रियस्यैव सौरःसौर एव क्षत्त्रियस्य। वैश्यस्यैव सावनःसावन एव वैश्यस्येति जात्यन्तरसम्बन्धिमासगृहीतेषु कर्म्मस्वनधिकारः स्यात्। शूद्रस्य त्रिविधमासविहितकर्म्मस्वनधिकार आपद्येत। अथ दर्शान्त एव ब्राह्मणस्य नान्य इति। तदपि जातित्रयसम्बन्धिवचनत्रयपर्य्यालोचनया पुनरप्युभयनियमापत्तेः¶ प्राक्तनमेव दूषणं स्यात्। अथ नायं नियमविधिः। तदा विधेयाभावाद्विधित्वमेवास्य नास्तीति यथाकथञ्चिदेवास्य
 
@@ -2511,8 +2297,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 ¶ उभयनियमापत्तेरिति। विनिगमनाविरहेण तादृशोभयनियमस्यावश्यकत्वादिति भावः।
 
-
-
 वर्णना कार्य्या। \* अथ प्रायशो धर्म्मकार्य्येषु अमावास्यान्तमाससम्बन्धात्तत्प्रधानत्वात् ब्राह्मणानाममावास्यान्तो मासो दर्शितः। युद्धाद्यर्थञ्च यात्राप्रधानत्वात्।+ क्षत्रियाणां यात्रादेश्च सौरेणैव विधानात्।† क्षत्रियाणां संक्रान्तिपरिच्छिन्नःप्रदर्शितः। वैशस्यैव कुशीदप्रधानत्वात् § पौर्णमास्याश्च सायं चन्द्रोदयेन सुव्यक्तज्ञानत्वात्तदन्तेनैव मासेन कुशीदव्यवहारः ¶ सुकर इति वैश्यस्य साधूक्तो
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\*यथाकथञ्चित वर्णनां दर्शयति अथ प्रायशो धर्म्मकार्य्येष्वित्यादि।धर्म्मकार्य्येषु चान्द्रायणव्रतादिषु अमावस्यान्तमाससम्बन्धात् मुख्यचान्द्रमाससम्बन्धात्।  
@@ -2524,8 +2308,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 ¶ साधूक्त इति। ब्राह्मणस्य मुख्यचान्द्रव्यवहारः क्षत्रियस्य सौरव्यवहारः वैश्यस्य गौणचान्द्रमासेन कुशीदव्यवहारश्च यथाकथञ्चित सम्भवपरत्वेन उपपादित इत्यर्थःन तु व्यवस्थार्थः न तु नियमार्थः। इति हेतौ नियमाद्यसम्भवादित्यर्थः। वाच्यनिरूपणं मासपदस्य शक्तिविवेचनं युक्तं कर्तुं युक्तमित्यर्थः तथाच जातिभेदेन यदि मासभेदः स्यात् तदा मास-
 
-
-
 न तु व्यवस्थार्थ इति वाच्यनिरूपणं युक्तम्। तत्र प्रयोगमात्रेण तावन्नवाच्यत्वाध्यवसानं सम्भवति। देशभेदेन चान्द्रे सौरे च प्रयोगदर्शनात् विशेषानवधारणात्[^6] न च यववराहवत्प्रयोगान्निर्णयः[^7]उभयोरपि तदविशेषात्।[^8]  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_पदस्य वाच्यनिरूपणमनावश्यकमिति भावः। तत्र कर्म्मभेदस्थले वाच्यत्वाध्यवसानं पदमिष्ठबाचकतानिरूपितवाच्यतानिश्चयो न सम्भवति।
 
@@ -2534,8 +2316,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^7]: "+न च यववराहवच्छास्त्रप्रयोगान्निर्णय इति। तथाच दीर्घशूकेआर्य्याणां यवव्यवहारात् म्लेच्छानान्तु प्रियङ्गुषु यवव्यवहाराच्च एवं शूकरे आर्य्याणां वराहव्यवहारात्म्लेच्छानान्तु कृष्णशकुनौ वराहव्यवहाराच्च यववराहपदयोर्वाच्यत्वसन्देहे अथैते मोदमाना इवोत्तिष्ठन्तीति वराहं गावोऽनुधावन्तीति शास्त्रप्रयोगात् यथा दीर्घशूके यवपदस्य शूकरे च वराहपदस्य वाच्यत्वनिर्णयः तद्वदत्रापि शास्त्रप्रयोगात् मासपदस्य वाच्यत्वनिर्णयः स्यादिति। न च नहीत्यर्थः।"
 
 [^8]: " अत्र हेतुमाह उभयोरपि तदविशेषात्  उभयोरपि सौरचान्द्रोभयत्रापि तदविशेषात् शास्त्रीयप्रयोगाविशेषादित्यर्थः। यववराहयोर्वाच्यत्व निर्णयमाह अधिकरणमालायां माधवाचार्य्यः। यथा -  यवादिशब्दाः किंह्यर्थाः नो वार्य्यम्लेच्छसाम्यतः।  दीर्घशूकप्रियङ्ग्वाद्या द्वयेऽप्यर्था विकल्पिताः॥ यत्रान्या इति शास्त्रस्थप्रसिद्धिस्तु बलीयसी। शास्त्रीयधर्म्मेतेनात्र प्रियङ्ग्वादिर्न गृह्यते॥  यवमयश्चरुर्भवति। वाराही उपानहावुपमुञ्चत इति श्रूयते। तत्र यवशब्दमार्य्या दीर्घशूके प्रयुञ्जते। वाराहशब्दञ्च शूकरे। म्लेच्छास्तु यवशब्दं प्रियङ्गषु वाराहशब्दं कृष्णशकुनौ। तथा सति लोकव्यवहारेण निश्चेतव्येषु शब्दार्थेषु आर्य्यम्लेच्छप्रसिद्ध्योः समानबलत्वादुभयविधा अप्यर्थाः विकल्पेन स्वीकार्य्या इति प्राप्ते ब्रूमः। शास्त्रीयधर्म्माय-"
-
-
 
 **तथाहि सौरो वैशाखादि \* रित्याह[^9] भागुरिः।**
 
@@ -2559,8 +2339,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_बोधे शास्त्रप्रसिद्धिर्बलीयसी। प्रत्यासन्नत्वात् अविच्छिन्नपारम्पर्य्यागतत्वाच्च शास्त्रे च यवविध्यर्थवाद एवं श्रूयते। यत्रान्य ओषधयः म्लायन्ते अथैते मोदमाना इवोत्तिष्ठन्तीति। इतरौषधिविनाशकालेऽतिबृद्धिर्दौर्घशूकेषु दृश्यते न तु प्रियङ्गुषु तेषामितरौषधिपाकात्पूर्व्वंपच्यमानत्वात्। उपानद्विध्यर्थवादश्चैवं भवति। वराहं गावोऽनुधावन्तीति गवामनुधावनं शूकरे भवति न तु कृष्णशकुनौ। तस्माद्दौर्घशूकादिर्यवादिशब्दार्थः।
 
-
-
 तदेवं वसन्तादिपदैर्मीनमेषादिराशिद्वि[^11]कद्विकमासभोगावच्छिन्नभेदेन च षड़तवोऽभिधीयन्ते। तद्वाचकानान्तेषां चैत्रवैशाखादिपदद्विकद्विक- सामानाधिकरण्यात् सौरवाचकत्वं निर्णीयते। अतएव भारते[^12]।
 
 [^11]: "सौरमासं स्पष्टयति मौनमेषादीत्यादि। सौरचैत्रवैशाखादीनां द्वितयेन द्वितयेनेत्यर्थः तथाहि सौरचैत्रवैशाखौ वसन्तऋतु एवं सौरज्यैष्ठादयः ग्रीष्मादयः ऋतवो ज्ञेयाः। यत एव निरुपपदमासपदस्य सौरपरत्वम् अतएवेत्यर्थः।"
@@ -2580,8 +2358,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^15]: "¶श्रुत्यापि ऋतुश्च सौरमासघटित इति साधयति तथा श्रुतिरपीति। तपस्तपस्यौ माघफाल्गुनौ शिशिरौ शिशिरसंज्ञकौ ऋतुरिति अत्र मासद्वयस्यैककर्त्तृतया वेदाः प्रमाणमितिवदेकवचनं साधु अतएव प्रथमा व्युत्पत्तिवादे भट्टाचार्येण नियम उक्तः।"
 
-
-
 तपस्तपस्यौ शिशिरावृतु ( १ )र्मधुश्च[^3] शैशिरावृतुरिति हेमाद्रौ पाठः।") माधवश्च वासन्तिकावृतुः। शुक्रश्च शचिश्च ग्रैष्मावृतुः। अथैतदुदगयनं देवानान्दिनम्। नभो नमस्यश्च (२)[^4] नभश्च नभस्यश्चइति हेमाद्रौ पाठः।") वार्षिकावृतुः। इषश्च ऊर्ज्जश्चशारदावृतुः।  
 सहश्चसहस्यश्चहैमन्तिकावृतुः। अथैतद्दक्षिणायनन्देवानांरात्रिरित्यादि।
 
@@ -2598,8 +2374,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 उपयामगृहीतोऽसि मधवे त्वा गृह्णामि। उपयामगृहीतोऽसि माधवाय त्वा गृह्णामीत्यादि।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_यथा यत्र विशेष्यवाचकपदोत्तरविभक्तितात्पर्य्यविषयसङ्ख्याविरुद्धसङ्ख्याया अविवक्षितत्वं तत्र विशेष्यविशेषणपदयोः समानवचनत्वमिति नियमः। अतएव पुरुरवौ माद्रवसौ विश्वेदेवा इत्यादौ द्वित्वविशिष्टयोः पुरुरवमाद्रवःप्रकृत्योर्विशेषणतया विवक्षितत्वात् तद्वाचकपदस्य द्विवचनान्तता। वेदाः प्रमाणमित्यत्र विशेषगणपदोत्तरविभक्त्या बहुत्वविरुद्धमेकत्वं विवक्षितमित्यादि
-
-
 
 एवं शुक्राय शुचये नभसे नभस्यायेत्यादिनामभिरपरेषां मासानामत्राणि मधुमाधवादिपदानां वासन्तादिवाच्यसौरचैत्रवैशाखादिपर्य्यायत्वमेव। तपस्तपस्यादिपदैर्हि उत्तरायणसम्बन्धिनः षण्मासाश्चसौरा उचन्ते। नभोनभस्यादिपदैश्च षण्मासा दक्षिणायनसम्बन्धिनोऽभिधीयन्ते।
 
@@ -2618,10 +2392,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^20]: "+ तत इत्यादि। ततोराशेः तस्मात् मकरराशितः कुम्भं मीनञ्च राश्यन्तरं भास्करी याति इत्यनुसङ्गेनान्वयः। एतेषु त्रिषु राशिषु मकरकुम्भमीनराशिषु भुक्तेषु सत्सु ततस्तदन-"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_वैशाखाय त्वां गृह्णामि मधुमाधवौ वासन्ती मधुप्रमुखमन्नं वसन्ते प्रपद्यते। एवं शुक्राय ज्यैष्ठाय त्वां गृह्णामि इत्यादि यजुर्वेदसंहिता-सप्तमाध्याये त्रिंशन्मन्त्रं द्रष्टव्यम्। उपयामः पात्रविशेषः।
-
-
-
-
 
 तेन तपस्तपस्यादिपदानां सौरमासादिवचनत्वावधारणात् तप-
 
@@ -2652,8 +2422,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **मेषसंक्रमतः पूर्व्वं पश्चात्तारादिनान्तरे।  
 प्रातिलोम्यानुलोम्येन विषुवारम्भणं भवेत्॥**
 
-
-
 स्तपस्यादिपदैरवधृतपर्य्यायभावानां[^21] माघादिशब्दानामपि सौरनामत्वं श्रुतित एवावधार्य्यते। यथा य एवं विद्वानमावास्यायां यजेत इत्यादिवाक्येऽमावास्यादिशब्दस्याग्नेयादिनामत्वेऽवधृते[^22] प्रसिद्धतत्पर्य्यायभावस्य[^23] दर्शपदस्याप्यवधृतमिति दर्शपौर्णमासवाक्ये प्रवृत्तं नाम तदुच्यते[^24]। पर्य्यायत्वञ्च लोकस्य प्रसिद्धं (१)[^3] लोके सुप्रसिद्धमिति क्वचित् पाठः। लोकस्याप्रसिद्धमिति क्वचिदादर्शे पठितम्।  ") कोषे
 
 [^3]: "(१
@@ -2672,8 +2440,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 विषुवारम्भणं तत्र समं मानं दिवानिशोः॥ 
 
 इत्यादि सत्कुत्यमुक्तावलीग्रन्थे अनुसन्धेयम्। ततो रात्रिःक्षयं याति हसति। काष्ठां दिशम्।
-
-
 
 दर्शितम्। तपा माघेऽथ फाल्गुने स्यात्तपस्यःफाल्गुनिक इत्यादिना। भागुरिणापि निबद्धम्। तपस्तपस्यौ शिशिरौतौमासौ माघफाल्गुनौइत्यादिना[^26]। एवं चान्द्रोऽपि श्रौतः स्मार्त्तश्च[^27]।
 
@@ -2696,10 +2462,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  सा वैशाखस्यामावास्या या रोहिण्या सम्पद्यते तस्याः मादधीत।
 
-
-
-
-
 वृषस्थ एव हि सूर्य्येरोहिण्यामावास्या भवति। वृषभोग्यत्वाद्रोहिण्याः न तु मेषस्थे[^29]। चन्द्रसूर्य्ययोर्भिन्नराशिस्थितापत्तेर्न परः सन्निकर्षः स्यात् यः परः सन्निकर्षः सामावास्या इति तल्लक्षणकरणात्[^30]। ननु सूर्य्याचन्द्रमसोर्भिनराशिस्थत्वेऽप्यमावास्या दृश्यते। तथा च चतुर्द्दशोत्तरसहस्रशकवत्सरे सिंहस्थे रवौ द्वित्रिदण्डान्चतुर्द्दशी परतोमावास्याऽश्लेषानक्षत्रसप्तदण्डान् परतो मघा तेनाश्लेषासमयेऽमावास्यायां कर्कटे चन्द्र सिंहे चादित्यः। तद्वत्सर एक धनुस्थे भास्करे ज्येष्ठामूलाभ्याममावास्या तेन प्रथमं ज्येष्ठासमये[^31]वृश्चिके चन्द्रः सूर्य्योधनुषि तेनामावास्यायामपि चन्द्रसूर्य्ययोर्भिन्नराशिस्थत्वदर्शनात् कथं मेषस्थसूर्य्येचन्द्रस्य वृषावास्थित्यनुपपत्तिः[^32]। अमावास्यान्ते नियतमनयोःसहावस्थान-
 
 [^29]: "न तु मेषस्थे नतु सौरवैशाखे रोहिणीयुक्ता वैशाखी अमावस्या सम्भवतीति शेषः।"
@@ -2710,10 +2472,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^32]: "कथं मेषस्थसूर्य्ये इत्यादि। तथाच सा वैशाखस्यामावास्या या रोहिण्या सम्पद्यते इति श्रुतौ वैशाखपदस्य सौरवैशाखपरत्वेऽपि न क्षतिः विभिन्नराशिस्थयोरमावास्यादर्शनादत्रापि. तद्वत् मेषस्थे सूर्य्ये वृषस्थे चन्द्रमस्यपि अमावास्या भविष्यतीति भावः।"
 
-
-
-
-
 मिति चेन्न तथाप्यादावसम्भवात् मूर्खः खल्वसि नहि सूर्य्याक्रान्तराशेः परराशिस्थत्वं चन्द्रस्य भवतीति तस्यार्थः। अमावास्यान्ते सहावस्थाननियमात्। न च प्रथमं परराशिस्थस्य चन्द्रस्य व्यावृत्त्य पुनः पूर्व्वराशिगमनं सम्भवति। व्यभिचारोदाहरणे तु सूर्य्याकान्तराशेः पूर्व्वराश्यवस्थानञ्चन्द्रस्य प्रथमं पश्चात् दर्शान्तेसमानराशिस्थत्वमिति कानुपपत्तिः। तदैवम् उभयोरपि चान्द्रसौरयोः श्रुतिस्मृतिपरिग्गृहीतत्वात्। उभयत्र शक्तिकल्पनागौरवात् विनिगमनाप्रमाणस्याभावाद्भवति माघादिपदेषु सः सन्देहः[^33]। ननु माघादिशब्दा यौगिकाः। तथाहि नक्षत्रे युक्तःकाल इति विहिताग्प्रत्ययेन मघायुक्ता माघीति व्युत्पाद्य सास्मिन् पौर्णमासीति[^34]संज्ञायामिति विहिताणन्तरेण[^35] माघी
 
 [^33]: "अमावास्यान्ते इत्यादि। अनयोः सूर्य्याचन्द्रमसोः अमावास्यान्ते सहावस्थानं वाच्यम्। सूर्य्याचन्द्रमसोर्यत्र तिथ्यन्ते सहावस्थानं सामावास्या इति लक्षणं प्रकृते च सप्तदण्डात् परं मघा भवति तदा च मघानक्षत्रस्य सिंहघटकतया अमावास्यान्ते चन्द्रोऽपि सिंहे तिष्ठति अती नानुपपत्तिरिति। व्यावृत्य परावृत्य । उभयत्र चान्द्रे सौरे च। एकत्र पक्षपातिनी युक्तिर्विनिगमना मा एव प्रमाणम्। स एव सन्देहः किं सौरपरत्वं किं वा चान्द्रपरत्वमिति सन्देहाकारः।"
@@ -2721,10 +2479,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^34]: "नक्षत्रेण युक्तः काल इति पाणिनिसूत्रम् अत्र वृत्तिकारः जयादित्यः। योऽसौं युक्तः कालश्चेत् स भवति कथं पुनः नक्षत्रेण पुष्यादिना कालो युज्यते पुष्यादिसमीपस्थेन चन्द्रमसा युक्त इत्यर्थः। पौषी रात्रिः पौषमहः माघी रात्रिः माघमहः। अनेन सूत्रेण मघायुक्ता पौर्णमासीति वाक्यादण्प्रत्ययेन माघीति सिध्यति। साम्मिन् पौर्णमासीति द्वितीयसूत्रम्।"
 
 [^35]: "संज्ञायामिति। समुदायोपाधिः प्रत्ययान्तेन चेत् संज्ञा गम्यते मासार्द्धमास-"
-
-
-
-
 
 पौर्णमास्यस्मिन्निति माघो मासश्चान्द्र एव सौरे तदसम्भवात्। नहि सौराश्विनपौषमाघेष्वश्विनी[^36]पुष्यामघायुक्ताः पौर्णमास्यः कदाचिदपि सम्भवन्ति। तथाहि यः परो विप्रकर्षः सा पौर्णमासीति। सूर्य्याचन्द्रमसोःपरो व्यवधिरन्योन्यं[^37]सप्तमराश्यवस्थानेन भवति। तेन कन्यास्थे सूर्य्येमीनस्थेन चन्द्रेणैव पूर्णिमा भवति न मेषस्थेन एवं धनुःस्थे सूर्य्येमिथुनस्थेन चन्द्रेणैव न कर्कटचन्द्रेण[^38]। मकरस्थे च सूर्य्येकर्कटस्थचन्द्रेणैव न सिंहस्थेन। मेषकर्कटसिंहभोग्यत्वादश्विनीपुष्यामघानां तदा हि सूर्य्यादष्टमराशौ चन्द्रः स्यात्[^39]। सौर चायमपरो विशेषः। कार्त्तिकादिमासानां द्विभत्रिभत्वमुक्तम्[^40]।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
@@ -2740,18 +2494,12 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^40]: "सौरे चायमिति। अयं वक्ष्यमाणो विशेषः न सम्भवतीति शेषः। तदेव दर्शयति कार्त्तिकादिमासानामित्यादि।"
 
-
-
 **अन्त्योपान्त्यौत्रिभौज्ञेयौफाल्गुनय त्रिभो मतः।  
 शेषा मासा द्विभा ज्ञेयाः कृत्तिकादिव्यवस्थयेत्यनेन**
 
 न च वृषभोग्यरोहिणीयुक्ता पौर्णमासी कदाचनापि तुलादित्वे भवति। एवं वृश्चिकस्थे रवौ न मिथुनभोग्यार्द्रायुक्ता। धनुस्थेच रवौ न कर्कटभोग्येन पुष्येण। मकरस्थे रवौ न सिंहभोग्यमघया। कुम्भस्थे च रवौ न कन्याभोग्येन हस्तेन। मीनस्थे च न तुलाभोग्यस्वात्या। मेषस्थे च न वृश्चिकभोग्यानुराधेन। वृषे च न धनुर्भोग्येन मूलेन। सिंहे च न मीनभोग्येनोत्तरभाद्रपदेन। कन्यायाञ्च न मेषभोग्याश्विनीभरणीभ्याम् सर्व्वत्र सूर्य्यावस्थितराशेरष्टमराशौ चन्द्रस्यावस्थानात् परविप्रकर्षस्य पौर्णमासीलक्षणस्यानुपपत्तेः। अन्योन्यमुभयोः सप्तमराशिस्थत्वेनैव तत्सम्पत्तेः। तस्माच्चान्द्र एव योगसम्भवात् तद्वाचकत्वमेव माघादिपदानाम्[^41]। न च रूढ़िर्योगमपहरतीति न्यायस्यायं विषयः क्लृप्तरूढ़िविषयत्वात्तस्य।
 
 [^41]: "अन्त्योपान्त्य इत्यादि। अन्त्यःआश्विनःउपान्त्यःभाद्रश्च त्रिभः रेवत्यश्विनीभरण्यन्यतमनक्षत्रविशिष्टपौर्णमासीयुक्तो भवति एवं भाद्रश्च शतभिषादित्रितयान्यतमनक्षत्रविशिष्टपौर्णमासीयुक्तो भवति। तुलादित्ये सौरकार्त्तिक न च इत्यस्य भवति इत्यनेन सम्बन्धः। तथाच रोहिण्या वृषराशिघटकतया तत्स्थचन्द्रस्य तुलादिन्यापेक्षया अष्टमराशिस्थतया सप्तमराश्यवस्थानाभावात् रोहिणीनक्षत्रयुक्ता पौर्णमासी तुलादित्ये सौरकार्त्तिके कदापि न भवितुमर्हतीति भावः। एवं वृश्चिकस्थे रवौ सौरमार्गे, धनुस्त्वेरवौ सौरपौषे, मकरस्थे रवौ सौरमावे च यथाक्रमम् आर्द्रापुष्यामघायुक्ताः पौर्णमास्यः कदापि न भवितुमर्हन्ति सूर्य्याचन्द्रमसोःषड़ष्टकेनावस्थानात्। एवं कुम्भस्थरव्यादि-सौर-फाल्गुनादि-कन्यास्थर विपर्य्यन्तेषु सौराश्विनपय्येन्तेषु यथाक्रमं हस्तस्वात्यनुराधामूलीत्तर-"
-
-
-
-
 
 तदुक्तम्।
 
@@ -2766,14 +2514,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_भाद्रपदभरणौनक्षत्रयुक्ताः पौर्णमास्यः कदापि न भवितुमर्हन्तीत्यर्थः। अन्योन्यं परस्परम्उभयोः सूर्य्याचन्द्रमसोःतत्सम्पत्तेः पौर्णमासीसम्पत्तेः। तस्मात् नक्षत्रेणयुक्तः काल इत्यादिपाणिनिसूत्रानुसारात् चान्द्र एव शुक्लप्रतिपदादिदर्शान्तरूपमुख्यचान्द्र एव न सौरादौ योगसभवात् मघादिनक्षत्रयुक्तपौर्णमासौयोगसम्भवात् तद्वाचकत्वमेव मुख्यचान्द्रवाचकत्वमेव माघादिपदानां माघादिशब्दानामित्यर्थः।
 
-
-
-
-
-
-
-
-
 प्रष्टव्योऽत्रभवान् योगवादी किमम[^44]ोपाठकादिवद्योगानुसारिप्रयोगा माघादिशब्दाः। यत्र यत्र योगस्तत्र तंत्र प्रवर्त्तन्ते[^45]। पङ्कजादिवद्वा योगानुसारियोगव्यवस्थिते प्रयोगे तत्र योगसद्भावाद्यौगिकाः[^46]। अत्र न तावदाद्यःकल्प[^47]ःत्रिरात्रपञ्चरात्रदशरात्राद्यवच्छिन्नेषु कालेषु सत्यपि तन्नक्षत्रान्वितपौर्णमासीयोगे
 
 [^44]: "अत्र प्रकारद्वयेन पृच्छति किममी इत्यादि। अमी माघादिशब्दाः !"
@@ -2786,17 +2526,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_प्रदेशेषु संस्कृतानामेवाषां प्रोक्षणीशब्देनोच्यमानत्वादित्येकः पक्षः लोके जलक्रीड़ायां प्रोक्षणीभिरुडेजिताः स्म इत्यसंस्कृतास्वमु प्रयोगाद्वर्हिरादिशब्दवज्जातौ रुढ़त्वात् उदकत्वजातिःप्रवृत्तिनिमित्तं। न च प्रकर्षेणोच्यतआभिरिति योगोऽत्र शङ्गनीयः। रुढ़ेः प्रवलत्वादिति पक्षान्तरं तत्र न तावत् संस्कारोयुक्तः अन्योन्याश्रयत्वात् विहितेष्वभिमन्त्रणादिषु संस्कारेष्वनुष्ठितेषु पश्चात् संस्कृतास्वप्सुप्रोक्षणीशव्दप्रवृत्तिः तत्प्रवृत्तौ सत्यां प्रोक्षणीशब्देनापोऽनुद्याभिमन्त्रणा दिविधिरिति नापि जातिपक्षी युक्तःउदकजाती प्रोक्षणीशब्दस्य बृद्धव्यवहारे पुर्व्वमकृप्तत्वेन इतः परं शक्तेःकल्पनीयवात् ततोगोशब्दवदश्वकर्णादिशब्दवञ्च रूढ़ो न भवति योगन्तु व्याकरणेन क्लृप्तः सोपसर्गाद्धातोःकरणे ल्युट्प्रत्ययेन व्युत्पादनात् तस्मात् प्रोक्षणीशब्दो यौगिकःघृतादेःप्रोक्षणं प्रयोजनम्।
 
-
-
 माघादिपदप्रयोगादर्शनात्[^48]। अतएव सास्मिन्निति सूत्रे जयादित्येन मासार्द्धमाससंवत्सराणामेषा संज्ञेत्यभिधायोदाहृतम्। पौषो मासः पौषोर्द्धमासः पौषः संवत्सर इति इह न भवति। पौषी पौर्णमासी अस्मिन् दशरात्र इति। भृतकमासे च न भवतीत्युक्तम्। भृतकमासः सावनं भृतिगणनार्थत्वात्। सावननिषेधाच्चान्द्रसौरयोः प्रयोगोऽभ्यनुज्ञातः[^49]। अथ द्वितीयः सज्ञायामिति प्रसिद्ध्युपसंग्रहात् यत्रास्य प्रयोगस्तत्र योगो निमित्तं
 
 [^48]: "अत्र हेतुं दर्शयति त्रिरात्रपञ्चरात्रदशरात्राद्यवच्छिन्नेश्चित्यादि। कालेषु खण्डकालेषु तत्तन्नक्षत्रान्वितपौर्णमासीयोगे मघादिनक्षत्रान्वितपौर्णमासोयोगे सत्यपि माघादिपदप्रयोगादर्शनादिति। तथाहि यत्र यत्र योगः तत्र तत्र यौगिका इत्युक्तेः त्रिरात्रादिरूपखण्डकालेषु मघादियुक्त पौर्णमासीयोगसत्त्वेऽपि माघः त्रिरात्रः माघः पञ्चरात्र इत्यादि प्रयोगदर्शनाभावात्। न माघादिपदानां यौगिकत्वं। यत एव त्रिरात्रादिखण्डकालेषु माससंज्ञकनक्षत्रयोगसत्त्वेऽपि न माघादिसंज्ञा ।"
 
 [^49]: " अतएवेत्यर्थःजयादित्येन पाणिनिविवृतिकारेण सास्मिन्निति सूत्रे। इह न भवति इत्यत्रोदाहरणद्वयं स्पष्टयति पौषौत्यादि। पुष्ययुक्ता पौर्णमासौ पौषी अस्मिन् दशरात्रे इंत्यत्र पौषादिसंज्ञा न भवति एवं भृतकमासे च सावनमासे च पौषादिसंज्ञा न भवति इत्युक्तम् इति जयादित्येनेति पूर्व्वेण सम्बन्धः। भृतिगणनार्थत्वादिति। भृतिः कर्म्मवेतनं तस्य गणना संख्यया स्थिरीकरणं एकमासकर्म्मकरणे इयत्संख्यकमुद्रा प्राप्या एवंरूपा सा एव अर्थः प्रयोजनं यस्य तद्रूपत्वात् मासेन यास्यति मासेनायास्यति इति नियमेन सावनमासस्य वेतनप्रयोजकत्वादित्यर्थः। सावननिषेधात् सावनमासस्य पौषमाघादिसंज्ञानिषेधाम्। प्रयोगः पौषमाघादित्वेन प्रयोगः अभ्यनुज्ञातः स्वीकृतः।"
-
-
-
-
 
 मासादिषु चास्य प्रयोगो[^50] न
 दशरात्रिष्विति[^51]।नैतत् सावने मासे सत्यपि योगे प्रयोगादर्शनाच्चान्द्र एव चेन्न[^52] द्वितीयातृतीयाद्यारव्धेषु पूर्व्वतिथिसमापनीयेषु चान्द्रेष्व[^53] प्रयोगात्। प्रतिपदादिदर्शान्त एव मासीति चेत् नैतत् \। मघादिनक्षत्रयोगा-
@@ -2808,10 +2542,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^52]: "पुष्यमघादियुक्तपौर्णमासीयोगे यौगिकं पौषमाघादिपदमिति आद्यकल्पं दूषयित्वा तादृशपौर्णमासीयोगे योगरूढिकं पौषमाघादिपदमिति द्वितीयकल्पं दूषयितुं विचारमवतारयति नैतदिति। सत्यपि योगे पुष्यादियुक्तपौर्णमासौयोगे प्रयोगादर्शनात् सावने पौषमाघादिरूपसंज्ञाया अभावान् चान्द्र एव चान्द्रमास्येव तत् पौषमाघादिसंज्ञा इति चेन्नेति चान्द्रमासो त्रिविधः पूर्व्वतिथिसमाप्यत्रिंशत्तिथिसाधारणतिथिचान्द्रः एकः अपरश्च शुक्ल प्रतिपदादिदर्शान्तोमुख्यचान्द्रःकृष्णप्रतिपदादिपौर्णमास्यन्तगौणचान्द्रश्च। तत्र तिथिचान्द्रपक्षंदूषयति चेन्नेति।"
 
 [^53]: "तिथिचान्द्र कः तदेव स्पष्टयति दितीयातृतीयाद्यारब्धेषु इत्यादि। तथाहि शुक्लप्रतिपत्समापनीयः त्रिंशत्तिथ्यात्मक स्तिथिचान्द्र एवं शुक्ल तृतीयाद्यारब्धः शुक्लद्वितीयादिसमापनौयचिंशत्तिय्यात्मक तिथिचान्द्रः। तथाच ज्योतिर्वचनम् एका तिथिःकापि तदादिभूता तिथिस्तृतीयेऽपि तिथिप्रबन्धः। मासः स चान्द्रस्तिथिनाम्नि यस्माच्चान्द्रों कलां प्राप्य सदा प्रवृत्तः ॥अस्यार्थः। कापि एका शुक्लद्वितीया तदादिभूता या तिथिःसा यदि तृतीया वारत्रयं.गणनप्रतियोगिनी भवेत् तयाहि एका शुक्रद्वितीया तदादिभूतत्वेन प्रथमं गणनायां"
-
-
-
-
 
 भावे अश्लेषादिनक्षत्रयुक्तपौर्णमासीसम्बन्धेऽपि दर्शान्ते मासि माघादिपदप्रयोगदर्शनात् यौगिकत्वानुपपत्तेः[^54]।
 
@@ -2828,8 +2558,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_प्राप्ता प्रतिपत् ततो द्वितीया तृतीयाचतुर्थ्यादिक्रमेण गणनया कृष्णपक्षीयप्रतिपदपि पञ्चदशत्वेन प्राप्ता भवति ततः कृष्णद्वितीयादिक्रमेण गणनया शुक्लप्रतिपदपि त्रिंशत्तिथित्वेन पुनः प्राप्ता। ततश्च शुक्लद्वितीयादिक्रमेण गणनायां प्रतिपत् आदिभूततिथित्वेन एकवारं प्राप्ता पुनर्द्वितीयातृतीयादिक्रमेण गणनया पञ्चदशतिथिपूरणीभूतत्वेन क्लष्णपक्षीयत्वेन च प्रतिपदपि पुनःप्राप्ता अती वारद्वयं प्राप्ता भवति पुनरपि कृष्णद्वितीयादिक्रमेण त्रिंशत्तिथिपूरणीभूतत्वेन मासान्तत्वेन च गणनप्रतियोगितया शुक्लप्रतिपदपि प्राप्ता एवंरीत्या वारत्रयगणनप्रतियोगितया शुक्लद्वितीयादिशुक्लप्रतिपदन्तस्त्रिंशत्तिथ्यात्मक एकस्तिथिचान्द्रमासो भवति इति वर्तुलार्थः।
 
-
-
 त्रिभो रेवत्यश्विनीभरणीनामन्यतमयुक्तपौर्णमासीयोगात् उपान्त्यो भाद्रः[^56] शतभिषापूर्व्वोत्तरभाद्रपदाभिः फाल्गुनश्च त्रिभः पूर्व्वोत्तरफाल्गुनीहस्तैः। इतरे तु कार्त्तिकादयः कृत्तिकादिनक्षत्रद्विकयोगेन[^57]। प्रत्येतव्याः तेन[^58] कृत्तिकारोहिणीभ्यां कार्त्तिकः। मृगशीर्षार्द्राभ्यां मार्गशीर्षः। पुनर्वसुपुष्याभ्यां पौषः। अश्लेषामघाभ्यां माघः। चित्रास्वातीभ्यां चैत्रः। विशाखानुराधाभ्यां वैशाखः। ज्येष्ठामूलाभ्यां ज्यैष्ठः। पूर्व्वोत्तराषाढ़ाभ्याम् आषाढ़ः।
 
 [^56]: "सम्भुमपाठाद्वेति। सम्भूमेण घूर्णनेन प्रतिलोमक्रमेण इति यावत् पाठात् पठितत्वात् तदेव व्याकरोति कार्त्तिकोपक्रमगणनेति। कृत्तिकादिव्यवस्थया इत्युपक्रमैणोक्तत्वात् कृत्तिकादिनक्षत्रयुक्तपौर्णमासीयोगघटितत्वेन कार्त्तिकोपकमगणनासिद्धि ततश्चकार्त्तिकोत्तरः मार्गशीर्षः तदुत्तरःपौषः। तदुत्तरोमाघ इत्याद्युपक्रमेण गणनया आश्विनोऽन्त्यो भवति भाद्रश्च उपान्त्यो भवति अन्त्यसमीपस्थितत्वात् एष एव सम्भमपाठः। आश्विनोत्तरकार्त्तिकन्तु साहजिकः पाठः न तु सम्भूमपाठः। अन्त्य आश्विनः त्रिभो रेवत्यश्विनीभरणीनामन्यतमयुक्तपौर्णमासीयोगात् भवतीत्यर्थः। उपान्त्यो भाद्रश्च।"
@@ -2840,12 +2568,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_युक्तपौर्णमासीयोगे कार्तिको मासो भवति। एवं मृगशिरआर्द्रान्यतरनक्षत्रयुक्तपौर्णमासीयोगे मार्गशौर्षो मासीभवति एवं पुनर्व्वसुपुष्याद्यन्यतरनक्षत्रयुक्तपौर्णमासीयोगे पौषादयो मासाः द्विभा भवन्ति।
 
-
-
-
-
-
-
 श्रवणाधनिष्ठाभ्यां श्रावणः। तेन रोहिणीयुक्तापि[^59]\* पौर्णमासी कार्त्तिकी भवति। तद्योगान्मासः कार्त्तिकः। एवम् आर्द्रायोगान्मार्गशीर्षः। पुनर्वसुना पौषः। अश्लषेण माघः। हस्तेन फाल्गुनः। स्वात्या चैत्रः। अनुराधेन वैशाखः। मूले ज्यैष्ठः। धनिष्ठया श्रावणः। शतभिषेण भाद्रः। रेवती-भरणोभ्याञ्चाश्विन इति कथं न यौगिकः[^60]। नैतत् विद्विषामस्य वादस्य हास्यास्पदत्वात्। रोहिणीपदाडि नक्षत्रेण युक्तः काल इति विहितेनाण्प्रत्ययेन रोहिणी पौर्णमासी भवति रोहिणीपदाच्च सास्मिन् पौर्णमासीति संज्ञायामित्यणन्तरेण रोहिणपदनिष्पत्तःरोहिणःमासः स्यान्नतु कार्त्तिकः[^61]। एवमार्द्रायोगादा मासः। इत्यादयः भवेयुः। अतो रोहिण्यादियोगात् कार्त्तिकादिपदानि यौगिकानीति वदतां महार्घे
 
 [^59]: "रोहिणौयुक्तापौति। अपिः भिन्नक्रमेण तेन न केवलं कृत्तिकानक्षत्रयुक्त पौर्णमासौ कार्त्तिको रोहिणौयुक्तापीत्यर्थः।"
@@ -2853,8 +2575,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^60]: "कथं न यौगिक इति। कृत्तिका दिव्यवस्थया शेषा मासाः कार्त्तिकादिमासा द्विभा इति वचनोपदिष्टत्वात् इति शेषः।"
 
 [^61]: "दूषयति नैतदिति। विद्विषां विवादिनाम् अस्य वादस्य वदै व्यक्तायां वाचि इति धात्वनुसारेण निष्पन्नत्वात् कृत्तिकानक्षत्राभावे रोहिणौनचत्रयुक्त पौर्णमासी योगे रौहिणोऽयमिति वक्तव्ये कार्त्तिकोऽयमिति कथनस्य हास्यास्पदत्वात् अयोग्यत्वेन उपहसनीयत्वादित्यर्थः। रोहिणीपदात् रोहिणीपदोत्तरं नक्षत्रेण युक्तः काल इति सूत्रेणाणप्रत्ययात् रोहिणी नक्षत्रयुक्तपौर्णमासी रोहिणी भवति। संज्ञायामिति द्वितीय`सूत्रेण रोहिणीपदोत्तरम् अपराण्प्रत्ययेन मासो रोहिणी भवेदित्यर्थः। न तु कार्त्तिकःअनेनास्य योगरूढ़ित्वं व्याहन्यते इति भावः।"
-
-
 
 लोकान् संवर्द्धयति। (१)कलम्बीत्यन्वयोह्यूहः[^3] कलम्बौत्यन्वयोहि दृढ़ीकृत्य पुरस्कृत एव स्यादिति क्वचिदादर्शपुस्तके पाठः।") कृतः पुरस्कृत एव स्यात्[^63]। अथोच्यते। मासानां द्विभत्रिभत्वप्रतिपादनं तावदृश्यते तस्य चैतदेव प्रयोजनम्। यत् कृत्तिकारोहिण्यन्यतरयुक्तपौर्णमासीति योगात् कार्त्तिकपदं योगिकं भवतु। एवमितरेष्वपि। कथं चैतत् स्यात्[^64]यदि कृत्तिकादयो रोहिण्यादिकमपि लक्षयन्ति तेन कृत्तिकारोहिण्योरन्यतरयोगेन कार्त्तिकपदं यौगिकं एवमन्यान्यपीति तदयुक्तं नहि द्विभत्रिभत्ववचनं रोहिण्यादियोगेऽपि कार्त्तिकादयो यौगिका इत्याह न च पौर्णमास्या द्विभत्वादिकं किन्तु मासानामेव न च पाणिनिरपि रोहिण्यादियोगेऽपि कार्त्तिकादिपदानि पौर्णमासीषु अयोगाच्च कार्त्तिकादिमासेषु कार्त्तिकादिपदानि यौगिकानीति आह[^65]।
 
@@ -2866,15 +2586,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^65]: "प्रकार दर्शयति यदीत्यादि। लक्षयन्ति कृत्तिकानक्षत्रयुक्त पौर्णमासी इत्यत्र कृत्तिकापदं लक्षणया यदि कृत्तिकारोहिग्योरन्यतरार्थं भवति इत्यर्थः। तेन लक्षण या"
 
-
-
 न चाभिधीयमानमपि प्रमाणान्तरविरोधेन ग्रहणार्हं न च प्रकृतिपदस्य मुख्यलाक्षणिकवृत्त्याश्रयणेन यौगिकत्वं क्वचिदपि व्युत्पन्नं यदि चैवं स्याद्रथकारपदस्यापि रथमकुर्व्वत्यपि सौधन्वनजातीये रथकरणार्हतालक्षणया तदन्यलक्षण्या वा यौगिकत्वात्त्रैवर्णिकेऽपि तत्सम्भवाद्वर्षासु रथकार आदधीतेत्यत्र त्रैवर्णिकाधिकारो दुर्वारः स्यात्[^66]। एवं गच्छतीति गौरिति व्युत्पत्तौगमन-
 
 [^66]: "न चाभिधीयमानमपीति। पौर्णमासीषु कृत्तिकादियोगाभावेऽपि रोहिण्यादियोगे कार्त्तिका दिमासेषु योगरूढ़ित्वं विधीयमानमपि प्रमाणान्तरविरोधेन मुख्यार्थ बाधक-"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_कृत्तिकापदस्य कृत्तिकारोहिण्यन्यतरार्थकत्वेन यौगिकं योगरूढ़िकं एवमन्यान्यपि मार्गशीर्षादिपदानि इत्यर्थः। नहि द्विभत्रिभत्ववचनमित्यनेन आहेत्यस्य सम्बन्धः इत्याह बोधयति वचनस्य कथनासम्भवात्। न च पौर्णमास्या द्विभत्वादिकं किन्तु मासानामेवमिति तथाच रोहिणीयुक्तपौर्णमासीपक्षे कृत्तिकायोगाभावात् कार्त्तिकपदस्य योगरूढ़ित्वाभावेऽपि मासानां द्विभत्वादिविशेषणत्वे शुक्लप्रतिपदादिदर्शान्तस्य मुख्यचान्द्रमासस्य त्रिंशत्तिथिसमुदायात्मकतया काचिदपि तत्र कृत्तिकाविरहस्यासम्भवात् रोहिणीनक्षत्रयुक्तपौर्णमासीयोगपक्षेऽपि त्रिंशत्तिय्यात्मकमुख्यचान्द्रमासमध्ये कृत्तिकायोगस्यावश्यम्भावात् कार्त्तिकत्वसिद्धौ न कदापि योगरूढ़ित्वव्याघात इति भावः। ननु यद्यपि कार्त्तिकादिसंज्ञायां योगरूढ़ित्वसिद्धौ मासानामेव द्विभत्वादिविशेषणदाने दूषणान्तरं न दर्शितं तथापि मासानां द्विभत्वादिनिवेशे कृत्तिकानक्ष- त्रयुक्तमासः कार्त्तिकःएवं मृगशिरोनक्षत्रादियुक्तमासःमार्गशौर्षदिरपि भवितुमर्हति परन्तु द्वादशमासेषु कृत्तिकायोगसम्भवात् द्वादशमासाःकार्त्तिकः स्यात् एवं मृगशिरीनक्षत्रादियोगसम्भवात् द्वादशमासा अपि मार्गशीर्षादिरपि स्यात्इत्युक्तदोषश्चात्र द्रष्टव्यः। न च पाणिनिरपीत्याह अनेनास्यान्वयः तथाच रोहिण्यादियोगेऽपि पौर्णमास्यां रोहिण्यादियोगेऽपि पौर्णमासीषु तद्योगात् रोहिण्यादियोगात्कार्त्तिकादिपदानि च कार्त्तिकादिमासेषु न च यौगिकानि पाणिनिरपि इत्याह।
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_गौणार्थग्राहकप्रमाणान्तरं विना ग्रहणार्हग्राह्यं न च इत्यर्थः। न च प्रकृतिपदस्येति स्वार्थाद्यर्थबोधकलिङ्गरूपकृत्तिकादिपदस्य प्रकृतिरुक्ता शब्दशक्ति प्रकाशिकायां यथा-
 
@@ -2889,8 +2605,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 कारुषश्च विजन्मा च मैत्रः स्वात्वत एव च।**
 
  अत्र कुल्लुकभः। वैश्यात् पुनर्व्रात्यात् सवर्णायां सुधन्वाचार्य्यकारुषविजन्ममैत्रस्वात्वताख्या जायन्ते एकस्य चैतान्यपि नामानि तथा रथकारपदस्य लक्षण्या रथमकुर्व्वत्यपि सौधन्वनजातीये रथकरणार्हता दुर्व्वारः स्यात् इत्येकवाक्यार्थः तदन्यलचण्या वा तदन्यस्मिन्सौधन्वजातिभिन्ने रथकारपदस्य लक्षणया वा यौगिकत्वात् योगरूढ़ित्वात् त्रैवर्णिकेऽपि ब्राह्मणादिवर्णत्रयेऽपि तत्सम्भवात् लक्षणयायोगरूढ़ित्वसम्भवात् वर्षासु रथकार आदधीत इत्यत्र वर्षाकालीनरथकारकर्तृकत्वेन विहिताधानकर्म्मणि चैवर्णिकाधिकारः ब्राह्मणक्षत्रियवैश्याधिकारोऽपि दुर्व्वारःस्यादित्यपरोवाक्यार्थः। तथाच कात्यायनीयश्रौतसूत्रव्याख्याने शवरस्वाभिमतानुसारिकर्का- चार्य्ययाज्ञिकदेवः। रथकारस्याधाने अग्न्याधेयकर्म्मणि अधिकारोभवति वर्षासु रथकार आदधीत इति श्रुतेः। अत्रेदं सन्दिह्यते। किं त्रैवर्णिकानामन्यतमो रथकरणयोगात् रथकारःआहोस्वित् नियतं किञ्चिज्जात्यन्तरमिति किन्तावत् प्राप्तं त्रैवर्णिकानामन्यतम एवेति कुतः सोऽपि हि रथं करोतीति योगात्
-
-
 
 **प्रथमोऽध्यायः।**
 
@@ -2918,8 +2632,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  असो मनूक्तो यः सुधन्वा व्रात्यवैश्यपुत्रः तत्पुत्रानां सौधन्वमानामृभूमामेवात्राधिकारःयस्तु याज्ञवल्क्येनोक्तो न तस्याधिकारः सत्यपि रथकारशब्दवाच्यत्वे मन्त्रवर्णनाच्छागन्यायेन
 
-
-
 मगमनमपि लक्षयतीति गच्छत्यगच्छत्यपि यौगिकत्वं स्यात्[^67]। एवं प्रासादपदमपि प्रक्षेपणलक्षणया यौगिकं स्यात् नायौगिकं किञ्चित् स्यात्[^68]।तस्मात् प्रकृतिपदस्य मुख्यानुयोगादेव यौगिकत्वं नान्यथा यत्र तु मुख्यार्थयोगो नास्ति तत्र रूढ़िरेवः[^69]। किञ्च
 
 [^67]: " एवं गच्छतीति गौरिति व्युत्पत्ताविति। गमेडौइति सूत्रात् गमनायें डौप्रत्यये नः गौरिति पदं साधु। अत्र गमनम् अगमनमपि लक्षयति तथाच गच्छति अगच्छत्यपि। अगच्छतीत्यत्र अकारो निषेधार्थः न गच्छतीत्यर्थः। न तु न गच्छति नञ्तत्पुरुषादगच्छति इति मुख्याख्यातेन सह समासासम्भवात्। यौगिकत्वं योगरूढिकत्वं स्यात् तथाच गोशब्दस्य केवल रूढ़ित्वं सर्वमतसिद्धं व्याहन्येत।"
@@ -2930,18 +2642,12 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_सौधन्वनानामेवाधिकार इति। तथाच जैमिनिः। सौधन्वनान्तु हीनत्वान्मन्त्रवर्णात्प्रतीयेरन्निति सौधन्वना नाम जातिःहीनास्ते किञ्चित् त्रैवर्णिकेभ्यो जात्यन्तरं न च ते शूद्रा नवैश्या न क्षत्त्रिया न ब्राह्मणा इति। तेषामिदमाधानं कथं प्रसिद्धेः। मन्त्रवर्णाच्च मन्त्रवर्णों हि भवति सौधन्वना ऋभव इति ऋभूनां वेति च रथकारस्याधानमन्त्रः। तस्मात्सौधन्वना ऋभवश्च रथकाराः अपि च तं नेमिमृभवो यथेति च ये नेमिं नमन्ति ते ऋभव इत्युच्यन्ते रथकाराश्च नेमिं नमन्ति तस्मादत्रैवर्णिकानामशूद्रानामेतदाधानमिति शवरस्वामिन इत्यादि।
 
-
-
 कृत्तिकादिपदानां रोहिण्यादिलक्षणया यौगिकत्वेऽपि मुख्यकृत्तिकादियोगेन यौगिकत्वस्य शीघ्रमवगमात् कार्त्तिकादिमासविहितं कर्म्म मुख्यनक्षत्रयोग एव व्यवतिष्ठेत[^70] न
 लाक्षणिकयोगे[^71]मुख्य-
 
 [^70]: "प्रतिबन्धिमाह किञ्चेति। कृत्तिकादिपदानाम् आदिना मृगशीर्षादिमास संज्ञक नक्षत्रादिपरिग्रहः रोहिण्यादि इत्यत्र आदिना आर्द्रादिनक्षत्रपरिग्रहः मुख्यकार्त्तिकादियोगेन कार्त्तिकादिमासघटकमाससंज्ञककृत्तिकानक्षत्रादियोगेन शीघ्रावगमादिति तथा च यत्र मुख्यक्कृत्तिकानक्षत्रयुक्तः तत्र कृत्तिकानक्षत्रयुक्तपौर्णमासौरूपकार्त्तिकोयोगस्य साक्षादेवावगतेःकार्त्तिकपदाद्यौगिकत्वस्य शीघ्रप्रतीतिर्भवतीति कार्त्तिकमासविहितं कर्म्ममुख्यनक्षत्रयोग एव मुख्यत्वं शक्त्यांश्रयत्वं तथाच मुख्यमाससंज्ञोपयोगिकृत्तिकादिनक्षत्रयुक्तपौर्णमासोरूपकार्त्तिकीयोगयुक्तमासेष्वेव व्यवतिष्ठेत विदधीत।"
 
 [^71]: "न लाक्षणिकयोगे इति। तथाच यत्र तु रोहिणीयोगस्तत्र तु कार्त्तिकपदात् कृत्तिकाप्रतीतौ तत्र कृत्तिकाया अभावात् क्वत्तिकापदलक्षणया रोहिणीयुक्त पौर्णमासी रूपगौणका कार्त्तिक्यादियोगे कार्त्तिकपदात् यौगिकत्व प्रतीतेर्विलम्बितत्वात् न तत्र कार्त्तिकमासविहितं कर्म्म व्यवतिष्ठेत। अतएवोक्तम्। गौणे सदपि सामर्थ्यं न प्रमाणान्तरं विना। आविर्भवति मुख्ये तु शव्दादेवाविरस्ति तत्॥ तात्पर्य्यञ्च ततो मुख्ये गौणार्थपरता पुनः। प्रमाणान्तरविज्ञेया तदभावान्न सिध्यति॥  अस्यार्थः। गौणे अर्थे गौणार्थविषयकशाब्दबोधे सामर्थ्यं शब्दस्य तादृशशाग्दबोध-निरूपितानुकूलाकाङ्क्षादिमत्त्वं प्रमाणान्तरं विना मुख्यार्थबाधकगौणार्थबोधक प्रमाणं विना नाविर्भवति न गौणार्थबोधीपधानप्रयोजकं भवति मुख्ये तु मुख्यार्थबोधे तु शग्दादेव शब्दामुख्यार्थोपस्थितादेव एवशब्दात् प्रमाणान्तरापेक्षं व्यवच्छिद्यते। तच्छब्दनिष्ठ मुख्यार्थवोपधायकत्वमाविरस्ति स्फुटीभविष्यति।"
-
-
-
-
 
 लाक्षणिकयोगनिमित्तयोरतुल्यत्वेन तुल्यवद्विधानानुपपत्तेः[^72]। मुख्यग्रहणे च तस्य नित्यमप्राप्ते(१)[^3] नित्यप्राप्तेरिति क्वचिदादशें पाठः।") राभाका[^74] इत्यादि नित्यवद्विधानं न स्यात्[^75]। न च मुख्याभावे लाक्षणिकग्रहणार्थं वचनान्तरम-
 
@@ -2956,10 +2662,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ननु मुख्यार्थतात्पर्य्यग्रहासत्त्वे कथं शब्दादेव मुख्यार्थबोधः इत्यत आह तात्पर्य्यश्चेति। औत्सर्गिकमिति शेषः तथाच मुख्यार्थबाधकाभावे तात्पर्य्यग्रहस्य प्रायःसम्भवादिति भावः। गौणायपरता गौणार्थतात्पय्यं तदभावात् प्रमाणान्तराभावात् न सिद्ध्यति न विषयीभवति। तथाच मुख्यार्थबाध एव गौणार्थतात्पर्य्यकल्पनादिति तात्पर्य्यरुपकारणस्य मुख्यार्थेऽसत्त्वे सामग्रीविरहात् न मुख्यार्थबोधस्तत्रैव प्रमाणान्तर सहकारगणनगौणार्थतात्पर्य्यग्रहाणार्थबोधः। मुख्यार्थबोधे तु न गौणार्थतात्पर्य्यबाधकाद्यपेक्षेति भावः।
 
-
-
-
-
 स्तीति यौगिकत्वव्युत्पादनमप्यफलं स्यात्[^76]।यदेव कृत्तिकापदस्य लाक्षणिकत्वे दूषणं तदेव कार्त्तिकादिपदस्य रोहिण्यादियुक्तपौर्णमासोमध्यके मासि लाक्षणिकत्वेऽपीति हेयमेवैतत्[^77]। आषाढ़पदमात्रन्तु यौगिकं वक्तुं शक्यते[^78]। पूर्व्वोत्तराषाढ्योरुभयोरप्याषाढ़त्वात्। किञ्च यदा योगो निमित्तं पदानां तदा किं कृत्स्ननक्षत्रयोगः कृत्स्नपौर्णमास्याः अर्द्धपादादियोगोऽपि वा[^79]। तत्र कृत्स्न-
 
 [^76]: "ननु वचनान्तरादेव लाक्षणिकार्थग्रहणं भविष्यतीति कथमनुपपत्तिरित्याशयते न च मुख्याभावे इत्यादि। इतीति इति हेतौ अव्ययानामनेकार्यत्वात् यौगिकत्वव्युत्पादनं योगरूढ़ित्वकथनम् अन्त्योपान्त इत्यादिवचनेनेति शेषः। तथाहि अन्त्योपान्तः त्रिभः ज्ञेय इति वचनस्यान्यथानुपपत्तया कल्प्यमानाया लक्षणाया निरूढ़त्वेन शक्तितुल्यतया तत्कल्पनमपि न दूषणावहमिति भावः।"
@@ -2969,10 +2671,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^78]: "लचणां विना उपपत्तिं दर्शयति आषाढ़पदमात्रमिति।अत्र मात्रपदेन आषाढ़भिन्नज्यैष्ठादिमासानां सर्व्वदा मुख्ययौगिकत्वव्यवच्छेदः।"
 
 [^79]: "आषाढ़मात्रस्य मुख्ययौगिकत्वं साधयति पूर्व्वोत्तराषाढ्योरित्यादि। आषाढत्वात् आषाढ़पदवाच्यत्वात् तथाच शेषा मासा द्विभा ज्ञेया इत्यनेन पूर्व्वोत्तराषाढमात्रस्य द्विभत्वेन तयुक्तपौर्णमासौयोगात् नवाषाढस्य मुख्ययौगिकत्वव्याघात इति भावः। योगनिमित्तं"
-
-
-
-
 
 योगस्तावदतेकवत्सरैरेकस्यां कदाचिदिति न तेनाभाका इत्यादि व्यवहारो नित्यवत् शक्यः। एकदेशयोगे तु मासान्तरोयनक्षत्रयोगस्यावश्यम्भावान्न मूलापूर्व्वाषाढ्योर्योगे स एव चान्द्रो ज्यैष्ठश्चाषाढ़श्चेति स्यात्। उत्तराषाढ़ायणयोश्च योगे आषाढ़ः श्रावणश्चेति स्यात्। एवमितरत्रापि माससङ्करान्न कर्म्मणां व्यवस्थितिः स्यात्[^80]। अल्पयोगेनापि यौगिकत्वात् भूयोऽवयवयोगा-
 
@@ -2989,10 +2687,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  इति नारदीयात्।एकत्र निर्णीतः शास्त्रार्थो बाधकमन्तरेण अन्यत्रापि तथा इति न्यायात् नक्षत्रेऽपि तथा कल्प्यते।
 
-
-
-
-
 दिति[^81] चेत् न उभयोस्तुल्ययोगे एकस्यापि भूयोऽवयवयोगाभावाविनामकत्वापत्तेः[^82]। किञ्च पूर्व्वमासीयनक्षत्रस्यैकस्यां पौर्णमास्यां भूयोऽवयवयोगेन तन्नामप्रवृत्तावपरपौर्णमास्याञ्च परमासीयनक्षत्रस्य भूयोऽवयवयोमेन परमासोयनामप्रवृत्तौ मध्यमासो विलुप्येत[^83]। दृष्टञ्चैतत् तथाहि चतुर्द्दशोत्तरसहस्रशाकवर्षे लिख्यमाने तुलास्थभास्करे अश्विनीभरणीभ्यां व्याप्ता पौर्णमासी तावदाश्विनी। ततस्तत्रैव वत्सरे वृश्चिकस्थे भास्करे कृत्तिकारोहिणीभ्यां व्याप्ता पौर्णमासी तेन सा कार्त्तिक्येव। तद्योगाच्चासौ
 
 [^81]: "अल्पयोगेनापि यौगिकत्वात् भूयोऽवयवयोगादिति। अल्पयोगेनापि अल्पकालष्वत्तिनक्षत्रयोगेनापि भूयोऽवयवयोगात् अधिककालवृत्तिनक्षत्रयोगात्। तथाहि अल्पकालेनापि यौगिकत्वात् तदपेक्षया भूयोऽवयवयोगात् भूयोऽवयवयोगानुसारेण मासविहितकर्मणो व्यवस्था भवतीत्यर्थः।"
@@ -3003,10 +2697,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_भवति पुनस्तस्यां पौर्णमास्यां श्रवणनक्षत्रयोगात् स एव चान्द्रः श्रावणनामकश्च भवति, एवमितरत्रापि। एकस्यां पौर्णमास्यां धनिष्ठाशतभिषायोगात् स एव चान्द्रमासः श्रावणी भाद्रश्च भवति। माससङ्गरादित्यादि। एकस्य चान्द्रमासस्य मासद्वयात्मकत्वात् सङ्कल्पवाक्ये कस्य वा मासस्योल्लेखःस्यादित्यर्थः।
 
-
-
-
-
 कार्त्तिक एव। भवताम्मते तदनन्तरञ्च धनुः स्थभास्करे पौर्णमास्यां मृगशिरोनक्षत्रं नास्त्येव आर्द्रायुक्ता तु भूयोभिरवयवैः शेषे तु त्रयोदशदण्डा एव परं पुनर्व्वसुव्याप्ताः। तेन सा मार्गशीर्षी न तु पौषी अल्पयोगात्[^84]। मकरादित्ये च पुष्याश्लेषाभ्याम् अर्द्धार्द्धव्याप्ता तेन सा न पौषी न च माघीति स्यात्[^85]।भवतु वा कथञ्चिदेकद्विकदण्डगणननक्षत्राधिकयोगात् सा पौषी तद्योगाञ्च पौषः। माघी वा तद्योगात् माघः,[^86]अन्यतरस्तु विलु-
 
 [^84]: "एतच्च दृष्टान्तप्रदर्शनेन दृढ़ीकरोति दृष्टञ्चैतदिति। चतुर्द्दशोत्तरसहस्रशाकवर्षे चतुर्द्दशाधिकसहस्रशकाब्दे तुलास्थभास्करे सौरकार्त्तिक अश्विनीभरणीभ्यां व्याप्ता युक्ता आश्विनी तद्योगादाश्विन इति यथासम्भवक्रमेणोक्तमेतत्। वस्तुतस्तु अन्त्योपान्तस्त्रिभो ज्ञेय इति नियमात् रेवत्यश्विनीभरण्यन्यतमयुक्ता या पौर्णमासी सापि आश्विनौ तद्योगात् स एत्र चान्द्रमास आश्विन एव भवति। ततस्तदनन्तरं वृश्चिक स्थभास्करे सौरमार्गे मासि कृत्तिकारोहिणीभ्यां व्याप्ता युक्ता भवताम्मते पौर्णमास्याम् अधिककालवृत्तित्वेनैव नक्षत्रस्य माससंज्ञाप्रयोजकतेति वादिनाम्मते इत्यर्थः तदनन्तरञ्च सौरमार्गादेः परतश्च धनुस्थे भास्करे सौरपौषे भूयोऽवयवैः अधिककालं व्याप्य आर्द्रायुक्ता पौर्णमासी भवति तेन अधिककाला-र्ट्रानक्षत्रसम्बन्धेन सा पौर्णमासी मार्गशीष्यैव भवति न पौषी अल्पयोगात् अल्पकालपुनर्व्वसुसम्बन्धात्।"
@@ -3014,10 +2704,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^85]: "मकरादित्ये च सौरमाघे च पुष्याश्लेषाभ्याम् अर्द्धव्याप्ता इति। सान पौषो न च माघीति तथाच यत्र सौरपौषे पौर्णमास्यां पौषसंज्ञाप्रयोजक पुष्यनक्षत्रस्यार्द्धप्राप्तिः एवं माघसंज्ञाप्रयोजकाश्लेषानक्षत्रस्यार्द्धप्राप्तिः तत्र अधिकेन व्यपदेशा भवन्ति इति न्यायास्पर्शात् समव्याप्तिस्थले अधिकव्याप्तप्रभावात् तेनार्द्धपरिमितपुष्यनक्षत्रयोगेन सा पौर्णमासीन पौषौ, एवम् अर्द्धपरिमिताश्लेषनक्षत्रयोगेन सापि पौर्णमासी न माघीति। तयोर्योगे स चान्द्रमासो न पौषःनापि माघश्चेति।"
 
 [^86]: "अधिकव्याप्तिमङ्गीकृत्य समाधत्ते भवतु वा कथञ्चिदेकद्विकदण्डगणननक्षत्राधिक"
-
-
-
-
 
 प्येत[^87]। कुम्भस्थादित्ये हि पौर्णमास्याः पञ्चदशदण्डा एव परं मघाव्याप्ताः पूर्व्वफल्गुन्या तु भूयसामवयवानां योगात् सा फाल्गुनीति तद्योगात् स फागुनः स्यान्नास्ति माघः। मीनादित्ये तु पूर्णिमोत्तरफाल्गुनीहस्ताभ्यां व्याप्ता सोऽपि फाल्गुन एव द्विर्भवेत्[^88]। अथ प्रथमं येन युक्ता पूर्णिमा तेन व्यपदिश्यते तद्योगाच्च तन्नामा मास इति नास्ति मासलोपः। नैतदपि तस्मिन्नेवाव्दे वृषसंक्रान्तिदिने प्रथमं स्वातीयुक्ता पूर्णिमा, असौ चैत्रः, वृषशेषे च पूर्णिमा अनुराधादण्डै कद्विकयुक्ता प्रथमं,
 
@@ -3027,10 +2713,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_योगात् एकस्य द्विकस्य दण्डस्य गणनेन नक्षत्रस्याधिकयोगादित्यर्थः इति यदि पुष्यनक्षत्रस्य दण्डैकधिकाधिक्यमङ्गीक्रियते तदा सा पुष्ययुक्तपौर्णमासी पौषौ भवितुमर्हति। एवं पुष्यापेक्षया अश्लेषानक्षत्रस्य दण्डैकधिकाधिक्य मङ्गीक्रियते तदा सा माध्यपि भवितुमर्हति। अतस्तयोर्योगात् स चान्द्रमासोऽपि पौषो माघो वा भवति।
 
-
-
-
-
 तेनासौ वैशाखः स्यात्, ज्येष्ठो [लुप्येत](#)। मिथुनादित्यपूर्णिमाया आषाढ़द्वयव्याप्तत्वादाषाढत्वस्य, कर्कटस्थसूर्य्येच पौर्णमास्याःश्रवणधनिष्ठाव्याप्तत्वेन श्रावणत्वस्य च निर्विवादत्वात्। वृषशेषपौर्णमास्याञ्चानुराधायोगाभावे वैशाखो लुप्येत[^89]।तथा सिंहसूर्य्येशतभिषापूर्व्वभाद्रपदाभ्यां व्याप्तत्वादसौ भाद्र एव। कन्यासूर्य्येच प्रथममुत्तरभाद्रपदयोगादसावपि भाद्र एव स्यात्। अविशिष्टयोगमात्रस्य निमित्तत्वे तु माससङ्करान्न कर्म्मणामनुष्ठानव्यवस्थितिः स्यात्[^90]। तुलास्थे च भास्करे अश्विनीभरणीभ्यां युक्ते
 
 [^89]: "तत्साधयति मिथुनादित्ये इत्यादि। सौराषाढ़े पूर्णिमाया आषाढदयस्य व्याप्तत्वात् आषाढत्वस्य निर्विवादत्वा दिव्य ग्रिमेन सम्बन्धः। कर्कटस्थे मूछें सौरश्रावणे श्रवणधनिष्ठाव्याप्तत्वेन श्रावणत्वस्य च निर्विवादत्वात्। वृषशेषपौर्णमास्याम् अनुराधाभावे बैशाखो लुप्येत इति।"
@@ -3038,8 +2720,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^90]: "पूर्णिमा अनुराधादण्यैकद्धिकयुक्ता इति प्राक् दर्शितम् इदानीन्तु अनुराधाभावे"
 
 एतत्पूर्व्वपक्षेउत्तरयति अयेति। प्रथमं येन माससंज्ञाप्रयोजकीभूतनक्षत्रेण संयुक्ता पूर्णिमा भवति तेन नक्षत्रेणैव वैशाखीत्यादिना यथासम्भवं व्यपदिश्यते व्यवह्रियते, तद्योगाच्च तन्नक्षत्रयुक्तपौर्णमासौयोगाच्च यथासम्भवं वैशाखाद्यन्यतममासोभवतीत्यर्थः। अत्र प्राथमिकत्वेन तत्तन्नक्षत्रयुक्तपौर्णमासोयोगस्यैव तत्तन्नामकमासव्यवहृतौ नियामकता न तु बहुकालव्यापित्वेनापि। अतो मासलोपो नास्ति। तथाच कुम्भादित्ये पौर्णमास्यां मघासम्बन्धितया पञ्चदशदण्ड कालस्य स्वल्पत्वेऽपि मघानक्षत्रयोगस्य प्राथम्यात् कुम्भादित्यगतचान्द्रमासी माघ एव भवति न फाल्गुन इति भावः। नैतदपि प्रथमं स्वातीयुक्तपूर्णिमा असौ स्वातीयुक्तपूर्णिमामध्यकश्चान्द्रमासचैत्र एवं, तथाच द्वेद्वेचित्रादिताराणामिति वचनेन चित्रास्वात्योरन्यतरनक्षत्रस्य चैत्रसंज्ञाप्रयोजकत्वात् तद्योगस्य प्राथम्याच्च। अनुराधादण्डैकद्विकयुक्ता तेन असौ चान्द्रमासः वैशाखः, विशाखानुराधयोरन्यतरनक्षत्रस्य वैशासंज्ञामयोजकत्वात् तद्योगस्य प्राथम्याच्च ज्यैष्ठो विलुप्यते।
-
-
 
 ह्यासावाश्विनः पूर्व्वञ्च कन्यायामपि रेवतीयोगादाश्विन इति द्विर्भाद्रो द्विराश्विनश्च स्यात्, तथा त्रयोदशोत्तरसहस्रशकाव्दशेषे मीनस्थे सूर्य्येपूर्व्वोत्तरफाल्गुनीव्याप्ता पूर्णिमा, तदनन्तरं मेषसूर्य्येहस्तचित्राभ्यां युक्ता पूर्णिमा हस्तयोगात् फाल्गुनोऽप्यसौ त्रयोदशोत्तरसहस्राव्दीयकुम्भादित्यात् प्रभृति चतुर्द्दशोत्तरसहस्राव्दान्तमीनभोगपर्य्यन्तेन मासद्वयलोपः। भाद्राश्विनयोरावृत्तत्वं[^91], फाल्गुनस्य द्विरावृत्तत्वं[^92],मासानाञ्च सङ्करः स्यात्। मासलोपे सङ्करे च सति नियतक्रमावस्थितचान्द्रद्वादशमासगोचरो माघादिपदप्रयोगो बाध्यते[^93]। न च तदुयुक्तं प्रयोगानुसारित्वात् स्व-
 
@@ -3052,10 +2732,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 वैशाखोऽपि विलुप्येत इति दर्शयति। अविशिष्टयोगमात्रस्य अनियतयोगमात्रस्य हेतुत्वे तु यद्यपि परस्परविरुद्धानाम् एकत्रावस्थानं सङ्करःपृथिवीत्वतेजस्वादिना घटत्वं यदि नाना इत्यादिना उदाहृतं तथापि सोऽत्र न ग्राह्यः। अतएव स्वयमुदाहृतं भाद्राश्विनयोरावृत्तत्वं फाल्गुनस्य द्विरावृत्तत्वं मासानाञ्च सङ्करः स्यादित्यादि। माससङ्करात् मासानां साङ्कर्य्यद्वित्वलोपादेः सम्भवात् न कर्म्मानुष्ठानव्यवस्थितिः कर्म्मानुष्ठानव्यवस्था न स्यात्।
 
-
-
-
-
 निमित्तबाधाक्षमत्वात् सङ्करलोपयोश्च क्रमान्तरापत्तेः। अथोच्यते यस्मिन् दर्शान्ते मासि मघादियुक्तपूर्णिमा, तत्र[^94] माघादिप्रवृत्तिः, सूर्य्यचन्द्रयोर्हि पूर्णिमान्त एवान्योऽन्यं समसप्तकेनावस्थानात् परो विप्रकर्षो भवति। आदौ तु षड़ष्टकेनाप्यवस्थानात्[^95]। तथाहि त्रयोदशोत्तरसहस्रशाकान्ते मोनसूर्य्येपूर्णिमा पूर्व्वोत्तरफाल्गुनोभ्यां व्याप्ता, तत्र पौर्णमास्याः शेषपञ्चदशदण्डाष्वेव परं कन्यायाञ्चन्द्रः[^96] पूर्वं सिंह एव, तथा चतुर्दशोत्तरसहस्राव्दादौ मेषसूर्य्ये
 
 [^94]: "न च तद्युक्तमिति। मघादिपदप्रयोगबाधो न युक्त इत्यर्थः। योगस्यपौर्णमास्यां नक्षत्रयोगस्य प्रयोगानुसारित्वात् प्रयोगसमनियतत्वात् स्वनिमित्तबाधाचमत्वात् स्वनिमित्तस्य प्रयोगस्य बाधितुमयोग्यत्वात् सङ्करलोपयोश्च सतोः क्रमान्तरापत्तेः क्रमान्यथापत्तेः। सिद्धान्तयति अथोच्यते यस्मिन् दर्शान्ते मासि यस्मिन् मुख्यचान्द्रे मासि मघादियुक्त पूर्णिमा न तु अश्लेषादियुक्तपूर्णिमा तत्र चान्द्रमासि माघादिप्रवृत्तिः माघादिसंज्ञाप्रवृत्तिः।"
@@ -3066,19 +2742,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_माघादिपदप्रयोगः स बाध्यते इति वाक्यार्थः। ननु मलमासे सति मासस्य द्वित्वात् क्रमभङ्गेऽपि सति न क्षतिः तद्वदत्रापि भवतु को दोष इति चेन्न, द्वादशमासाःसंवत्सरः क्वचित्रयोदशमासा इति श्रुत्या मलमासपाते त्रयोदशमाससंवत्सरस्य श्रौतत्वात् तदितरत्र द्वादशमाससंवत्सरस्य श्रुतिप्रतिपादितत्वेन द्वित्वलोपे च श्रुतिविरोधापत्तेः।
 
-
-
-
-
 पूर्णिमा हस्तचित्राभ्यां व्याप्ता, तत्र तुलासम्बन्धिनश्चित्रापरार्द्धस्य त्रयोदशदण्डा एव परं पूर्णिमान्ते भूताः। तदितरांशे तु पौर्णमास्याः कन्यायामेव चन्द्रो, मेषे च सूर्य्यः। तथा तद्वत्सर एव वृषसूर्य्ये[^97], पूर्णिमा स्वातीविशाखाभ्यां व्याप्ता. तत्स्वात्यंशे विशाखापदत्रये तुलायाञ्चन्द्रः वृश्चिकसम्बन्धिविशाखाशेषैरष्टाभिरेव दण्डैःपरमन्ते व्याप्ता, तेनान्त एव नियतं चन्द्रसूर्य्ययोरन्योऽन्यं सप्तमराश्यवस्थानं, न पुनरादावपि। तदेवमवच्छिन्नपूर्णिमात्रयेऽपि प्रथमं सूर्य्यात् षड़ष्टकेनैव चन्द्रस्यावस्थानम्।
 
 [^97]: "पूर्व्वं सिंह एव इति। मघापूर्व्वफल्गुन्युत्तरफल्गुनीपादःसिंह इत्युपादानादत्र पूर्व्वफल्गुन्याःशेषार्द्धस्य उत्तरफल्गुन्याःप्रथमपादस्य च सिंहघटकतया च पूर्व्वं सिंह इत्यपि सङ्गच्छते। तथाच चतुर्दद्शसहसाब्दादौमेषसूर्य्येपूर्णिमा हस्तचित्राभ्यां व्याप्ता इत्यादि अत्र तुला सम्बन्धिनश्चित्राशेषार्डस्य तुलासम्बन्धिनश्चित्रातृतीयपादस्य त्रयोदशदण्डा एव परं प्रथमत्रयोदशदण्डा एव परं पूर्णिमान्ते पूर्णिमान्त पर्यन्तं व्याप्य भूता अवस्थिता। यद्यप्यत्रापि पूर्व्ववत् सम्पूर्णहस्तचित्राभ्यां व्याप्त्यसम्भवात् हस्त शेषार्द्धचित्रापूर्व्वार्द्धाभ्यां व्याप्ता वक्तुमुचिता, तथापि चित्रापूर्व्वार्द्धस्य कन्याघटकतया कन्या स्थे चन्द्रे मेषस्थ सूयें च षड़ष्टकेनावस्थित्या समसप्तकेनावस्थित्यभावात् परमविप्रकर्षाभावेन पौर्णमास्यपि न घटते, अतोऽगत्याप्यत्र हस्तचतुर्थपाद-किञ्चिन्यून-चित्रापादत्रयाभ्यां व्याप्ता वक्तव्या, यदि चात्र नक्षत्रपादस्य पञ्चदशदण्डात्मकतया त्रयोदशदण्डेति कथनमनुचितं भवति तथापि तदानीत्तनतिथिपरिमाणमवधार्य्यग्रन्थकारेण लिखितमती नानुचितं किञ्चित्। तदितरांशे चित्रापूर्व्वार्द्धादौ। वृषसूर्य्ये सौरज्यैष्ठे।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_इत्युपादानात् एकस्यां पौर्णमास्यां सम्पूर्णोभयनक्षत्रयोर्व्याप्तासम्भवात् पूर्व्वफल्गुनीशेषार्द्धोत्तरफल्गुनीपूर्व्वार्द्धाभ्यां व्याप्ता पौर्णमासीत्युपलभ्यते, सम्भाव्यते च ततश्चोत्तरफलगुन्या द्वितीयपादः पौर्णमास्याः शेषपञ्चदशदण्डेष्वेव परमवतिष्ठते तस्य द्वितीयपादस्य कन्याघटकतया च कन्यायां चन्द्र इत्युक्तं सङ्गच्छते।
-
-
-
-
 
 अतएव मार्कण्डेयः।
 
@@ -3093,10 +2761,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^101]: "तदप्ययुक्तमिति। अयोच्यते इत्यारभ्य वृषसूर्य्येइत्याद्यन्तं यदुक्तं तदप्ययुक्तमित्यर्थः।वृश्चिकस्थे धनुस्थे च सूय्यें सौरमार्गे सौरपौषे च मृगशिरोयोगस्याभावात् मृगशिरःपदस्योपलक्षणतया मृगशिरआद्रायोगस्यात्यन्ताभावादित्यर्थःअन्यथा मृगशिरआद्रीयोगस्य मार्गशीर्षघटकतया मार्गशौर्षविलोपापत्तेरित्यसङ्गतं भवेत्।"
 
-
-
-
-
 प्रयोगदर्शनात् द्विभत्रिभयोगादपि कथं यौगिकत्वम्। किञ्च सकलतिथेः किं योगो निमित्तम्। अथ सकलभस्य योगो वा, बहुयोगो वा, आदौ वा, अन्ते वा, योगमात्रं वा, सर्व्वं व्यभिचरति। इदन्तु नोपभोगिनि रवावुपक्रान्ते[^102] चतुर्दशोत्तरदशशतशाकाव्दे कार्त्तिके चान्द्रे तत्पूर्णिमाश्विनीभरणीभ्यां व्याप्ता। न च कृत्तिकादियुगयोगः। न च नासौ कार्त्तिक इति[^103]नियमात्तत्र प्रयोगस्य[^104]। तथाहि चतुर्दशोत्तरसहस्रशाकाव्दे तुला-
 
 [^102]: "प्रतिबन्ध्यन्तरं दर्शयति किञ्चेति। द्विभत्रिभत्वमन्तरेण व्यतिरेकेणापि प्रतिपदादिदर्शान्ते मासि मुख्यचान्द्रे मासि कार्त्तिकादिपदप्रयोगदर्शनात् इति। तथाच -"
@@ -3109,8 +2773,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \* प्रतिबन्ध्यत्तरं दर्शयति किञ्चेति। दिभक्धिभत्वमन्तरेण व्यतिरेकेणापि प्रतिपदादिदशान्ते मासि मुख्यचान्द्रे मास कार्तिंकादिपदप्रयोगदर्भनात्‌ इति। तथाच “कृष्णपक्षे ढतौवायां मासाँ जायते यदि। तत्नयोदशग सूर्य्य राहुणा ग्रस्यते शशौ॥” मासार्क्ष कात्तिकादौ कृत्तिकादि। ततश्च कष्णतृतीयायां मासार्क्षयीगे तत्पपूर्वपौर्णमास्यां छत्तिकारोहिण्यादिरूपदिभवादियोगाभावस्थय सिद्धिःसुतरागैव। अपिच मासार्क्षमित्यस्य कात्तिकादौ कृतिकादेर्वक्तत्यवादेव कार्तिकादिप्रयोगीऽपि सिद्ध एव। सकलतिथेः सम्पूर्णतिथेः। सकलभस्य सम्पूर्णनक्षत्रस्य। सर्व्वंव्यभिचरति सन्यैनानुगतलेन दिभत्वादियोगी न सम्भवति। इदन्तु सर्व्वेव्यभिचरति सकलतिधेरिव्यादि यदुक्तम्‌ इदन्तु सव्य व्यभिचरतौत्यर्थः उपभोगिनि राश्युपभोगिनि राशिस्पे सूर्य्ये अर्थात्‌ सौरे मासि उपक्राने आरब्धं सति दशान्ते मासिन भवति।
 
-
-
 स्थादित्याष्टमदिनोपकान्तस्य प्रतिपदादिदर्शान्तमासस्य पौर्णमास्यश्विनीभरणीभ्याम् व्याप्ता कृत्तिकारोहिण्योरन्यतरयोगाच्च[^105]कार्त्तिकः। तथा तदनन्तरितस्य वृश्चिकादित्यसप्तमदिनोपक्रान्तस्य प्रतिपदादिदर्शान्तमासस्य पूर्णिमा कृत्तिकारोहिणीभ्यां व्याप्ता मृगशिरआर्द्रयोश्चान्यतरयोगा[^106] न्मार्गशीर्षः[^107]। एवंविध
 
 [^105]: "तदेवोपपादयति तथाहीति। तुलास्थादित्याष्टमदिनोपकान्तस्य सौरकार्त्तिकाष्टमदिनारब्धस्य प्रतिपदादिदशीम्तमासस्य मुख्यचान्द्रमासस्य पौर्णमास्याम् अश्विनीभरपोभ्यां व्याप्तायां कृत्तिकारोहिण्योरन्यतरयोगाच्च।"
@@ -3118,10 +2780,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^106]: " कार्त्तिक इति। कृत्तिकारोहिण्योरन्यतरयोगयुक्तः स चान्द्रमास इति शेषः चकारात् अश्विनीभरणौव्याप्तपौर्णमासीयुक्तः स चान्द्रमासोऽपि कार्त्तिकः तथा यथा स चान्द्रमासःकार्त्तिकःतथा इत्यर्थः। तदनन्तरितस्य तदव्दीयसौरकार्त्तिकानन्तरमागतस्य वृश्चिकादित्यसप्तमदिन उपकान्तस्य सौरमार्गस्य सप्तमदिनारब्धस्य प्रतिपदादिदर्शीन्तमासस्य पूर्णिमायां कृत्तिकारोहिणौभ्यां व्याप्तायां मृगशिरआर्द्रयोरन्यतरयोगाच्च।"
 
 [^107]: "मार्गशीर्ष इति। मृगशिआद्रोयुक्तः स च चान्द्रमास इति शेषः। चकाराञ्च कृत्तिकारोहिणीयुक्तोऽपि स चान्द्रमासःमार्गशीर्ष एव भवतीत्यर्थः यद्यपि वक्ष्यमाणपद्मपुराणवचनात् भरणीयुक्तत्वेऽपि चान्द्रमासस्य कार्त्तिकत्वं वाचनिकम्। अत्र तादृशवचनाभावात् कथं कृत्तिकारोहिणीयोगे चान्द्रमासस्य मार्गशीर्षत्वम् इति चेन्न भरणीनक्षत्रयोगे चान्द्रमासस्य वाचनिककार्त्तिकत्वात् तदनन्तरागतस्य चान्द्रमासस्य तादृशवचनाभावेऽपि कार्त्तिकोत्तरमार्गशीर्ष इति क्रमनियमादेव तस्य मार्गशोषत्वे निर्विवादात्। अत्र क्वचित् पुस्तके पौर्णमास्यश्विनीभरणीभ्यां व्याप्तां कृत्तिकारीहिण्योरन्यतरयोगाञ्च कार्त्तिकःतथा तदनन्तरितस्य इत्यादि कृत्तिकारोहिणीभ्यां व्याप्तां मृगशिरआर्द्रयोरन्यतरयोगाच्च मार्गशीर्ष इति। क्वचिच्च व्याप्तामित्यत्र व्याप्ता इति विन्दुरहितपाठो दृश्यते तदुभयपाठोऽपि प्रामादिक एव। अन्यथा उत्तरनान्यतरयोगाच्चेत्यनन्व- यापत्तेःव्याप्तायामित्येव पाठःसमीचीनः।"
-
-
-
-
 
 एव कार्त्तिको द्वापञ्चाशदधिकनवशतसंख्याते शकाव्दे अन्धुकादिर्दर्शितवान्[^108](१)[^3] अन्धुकादिभिर्दर्शितवान् इति मूं पुं पाठः।")। न च तौ कार्त्तिकमार्गशीर्षो न भवत एवेति वाच्यं[^110]द्वयोरेव(२)[^111] तुलावृश्चिकादित्यारब्धत्वाद्वा[^112]। वृश्चिकधनुःसंक्रान्तिचिह्नितत्वाद्वा। कार्त्तिकमार्गशीर्षपदप्रयोगाविवादात्। तत्रैव च प्रयोगेण योगस्य यन्त्रितत्वात्। अनेनैवं धृते दर्शान्तेऽपि सावनमासेषु प्रयोगात्।
 
@@ -3142,10 +2800,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 यदा याम्यन्तु भवति तिथौ तस्यां नराधिप।  
 तिथिः सापि महापुण्या ऋषिभिः परिकीर्त्तिता॥**
 
-
-
-
-
 तस्यां कार्त्तिक्यां याम्यं भरणी तदयोगेऽपि कार्त्तिकत्वमव्याहतमेव प्रतीयते। अतएव[^113] तस्मिन् कार्त्तिके देवोत्थानमविवादम्, अन्यथा वृश्चिके देवोत्थानं क्रियमाणं न चान्द्रे न वा सौरे कार्त्तिके कृतं स्यात्[^114]। तुलास्थसूर्य्यसप्तमदिवसे अमावास्यायां लक्ष्मीप्रबोधस्य भूतत्वात्तदनन्तरितशुक्लपक्षे च देवोत्थानस्य तस्मिन् शुक्ले सदा विष्णुरिति नियतत्वात्[^115] किञ्च फाल्गुनः त्रिभो
 
 [^113]: "वृश्चिक धनुः संक्रान्तिचिह्नितत्वाहेति। मेषगरविसंक्रान्तिः चान्द्रमासे यत्र भवति स चैत्रः वः। एवं वृषादिगरविसंक्रान्तिरित्यादिना वैशाखादयो ज्ञेया इति ब्रह्मगुप्तकृतचान्द्रमासलक्षणाभिप्रायेणोक्तम्। कार्त्तिकमार्गशौर्षपदप्रयोगाविवादात् कार्त्तिकमार्गशौर्षपदवाच्यत्वे विरोधिपक्षाभावादित्यर्थः। तत्रैव च तुलादित्याएमदिनोपक्रान्तवृश्चिकादित्यसप्तमदिनोपक्रान्तचान्द्रमासयोरेव च प्रयोगेण कार्त्तिकमार्गशीर्षलक्षणाक्रान्तत्वेन योगस्य पौर्णमास्यां नक्षत्रयोगस्य यन्त्रितत्वात् नियमितत्वात्। अनेन निरुक्तप्रकारेणैवम्भूते एवमवष्टते दर्शान्ते मुख्यचान्द्रमा से सावनमासेषु तिथिसावनमासेषु च गौणचान्द्रमासेषु च इत्यर्थः प्रयोगात् कार्तिकादित्वविधानात्। यतएव पौर्णमास्यां भरणीयोगेऽपि कार्तिकत्वम् अतएवेत्यर्थः। कार्त्तिक्यां चान्द्रकार्तिक पौर्णमास्याम् आग्नेयम् अग्निदेवताकत्वात् कृत्तिका सा तिथिःस्नानदानादिषु महतो महाफलदा इत्यर्थः। याम्यं यमदेवताकत्वात् भरणी तिथिः सापि भरणीयुक्तपौर्णमासौतिथिरपि। अव्याहतमेव अखण्डितमेव। यतएव तुलादित्यारग्धचान्द्रमासस्य कार्त्तिकत्वम् अतएवेत्यर्थः।"
@@ -3153,10 +2807,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^114]: "तस्मिन् कार्त्तिके तुलादित्यारग्धचान्द्रकार्त्तिके देवोत्थानं हरेरुत्यानम् अविवादम् इति। तस्माच्चान्द्रमासस्य कार्त्तिकत्वेन तत्र हरिबोधने न कस्यापि असम्मतत्वम्। अन्यथा तस्य कार्त्तिकत्वस्वीकारे वृश्चिके सौरमार्गे क्रियमाणं देवोत्थानं हरेरुत्थानम्। न चान्द्रे कार्त्तिके न वा सौरे कार्त्तिक कृतं भवेत्। तथाच कार्त्तिके परिबुध्येत शुक्लपचे हरेर्दिने इत्यनेन विरुध्येत इति भावः।"
 
 [^115]: "तुलास्थसूर्य्यसप्तमदिवसे अमावास्यायां लक्ष्मीप्रबोधस्य भूतत्वादित्यादि। तथाच माण्डव्यः। अमावास्यां तुलादित्ये लक्ष्मीर्निद्रां विमुञ्चति। तस्मिन् शुक्ले सदा विष्णु-"
-
-
-
-
 
 मत इति पूर्व्वसिद्धं फाल्गुनमुद्दिश्य त्रिभत्वं ज्ञेयं[^116]। विहितत्रिभसम्बन्धादेव फाल्गुनत्वमितरेतराश्रयं स्यात्[^117]। न चैकनक्षत्रयोगनिमित्तं फागुनमुद्दिश्य नक्षत्रान्तरयोगोऽपि निमित्तत्रयविधानमिति[^118] पूर्व्वावधृतनिमित्तविरोधो[^119]त्रिभपदे च विध्यनुवाददोषा-
 
@@ -3170,25 +2820,13 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_स्तुलायामथ वृश्चिके॥ तस्मिन् शुक्ले सदा विष्णुरिति नियतत्वात् तस्मिन् शुक्ले सदा विष्णुरिति माण्डव्यवचनेन नियमितत्वादित्यर्थः।
 
-
-
-
-
 पत्तेः। पूर्वोक्तविकल्पकलापस्य च पूर्णिमान्तेऽपि मास्यविशेषात्तत्रापि यौगिकत्वं निरस्तं वेदितव्यम्। अस्मिंश्च दूषणगणे गणितज्ञेभ्यो यथोक्तंकालक्रममवगम्य विद्वद्भिः श्रद्धातव्यम्। किञ्च पूर्णिमान्तो मासः क्वचिदपि श्रुतिस्मृतिगोचरो न वैशाखादिपदैर्निर्द्दिष्टः[^120]। यस्तु बणिग्जनमात्र प्रयोगविषयः स चान्ययाप्युपपन्नः दर्शद्वयातिक्रमेण त्वधिमासद्विराषाढ़त्वादिकञ्च वदन्तो मुनयो दर्शान्त एव मासे वैशाखादिपदमिति दर्शयन्ति, तदन्त स्यैव तदानीं नियमेन सूर्य्यसंक्रान्तिवर्ज्जितत्वेनाधिमासत्वात्[^121],
 
 [^120]: "त्रिभपदे च विध्यनुवादापत्तेरिति। एकनक्षत्रयोगनिमित्तं फाल्गुनमुद्दिश्य फाल्गुनश्च विभी मत इति प्रागुक्तवचनेन त्रिभवे विधेये त्रयाणां नक्षत्राणां तन्मध्ये अप्राप्तनक्षत्रांशे विधिः। विधिरत्यन्तमप्राप्ताविति स्मरणात्। प्राप्तांशे अनुवादः प्राप्तानुसारित्वादनुवादस्य। पूर्वोक्तविकल्पकलापस्य सौरचान्द्रसावननाक्षत्रभेदेन चतुत्रिंधत्वेन विकल्पितस्य मासस्य च मध्ये पूर्णिमान्ते मासि गौणचान्द्रे मास्यविशेषात्। चान्द्रत्वेन विशेषाभावात्। यौगिकत्वं तत्तन्नक्षत्रयुक्तपौर्णमासौयोगेन योगरूढ़िकत्वञ्च निरस्तं वेदितव्यम्। अस्मिन् दूषणगणे अस्माभिर्निर्द्दिष्टे दोषसमूहे इत्यस्य अग्रिमेण श्रद्धातव्यमित्यनेन सम्बन्धः। पूर्णिमान्तो मासः गौणचान्द्रमासः श्रुतिस्मृतिगोचरः सन् वैशाखादिपदैर्न निर्दिष्टः इत्यन्वयः। तथाच श्रुत्या स्मृत्या वा क्वचिदपि कुत्रापि वैशाखादिनामकत्वेन गौणचान्द्रमासो म विहित इत्यर्थः।"
 
 [^121]: "मनु संक्रान्तिपौर्णमासाभ्यां तथैव नृपवैश्ययोरिति पारस्करवचनेन वैश्यसम्बन्धितया पौर्णिमान्तो मासः गौणचान्द्रमासो निर्द्दिष्ट एव कथम् अनिर्दिष्ट इत्याशय निराकरोति यन्तु वणिग्जनमात्रेत्यादि। बणिग्जनी वैश्यः तन्मात्र प्रयोगविषयः तन्मात्र सम्बन्धितया पारस्करेणोक्तः स चान्ययाप्युपपन्न इति। अत्र पारस्करवचने वैशाखादिनामकत्वाश्रवणात्"
 
-
-
 मत इत्यनेन त्रिभानां निमित्तता अवधृता एकनक्षत्रयोगनिमित्तं फाल्गुनमुद्दिश्य त्रिभत्वे विधेयेऽपि एकनक्षत्रमात्रयोगस्य निमित्तत्वात् त्रयाणां पूर्व्वावधृतनिमित्तविरोध इत्यर्थः।
-
-
-
-
-
-
 
 न तिथ्यन्तरान्तस्य प्रतिपदुपक्रान्तमासद्वयस्यैव चैकराशिसूर्य्योपक्रान्तत्वेन द्विराषाढ़ादिप्रयोगविषयत्वात्।
 
@@ -3207,10 +2845,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_केवलपौर्णमास्यन्तमासश्रवणाच्च अन्यथा वैश्यस्य कुशोदप्रधानत्वात् पौर्णमास्याञ्च सायं चन्द्रोदयेन सुव्यक्तज्ञानत्वादित्यादिना उपपन्नः। दर्शान्त एव मासे मुख्यचान्द्रमास एव न तु पौर्णमास्यन्तगौणचान्द्रमासे। वैशाखादिपदं वैशाखादिपदप्रयोगं दर्शयन्ति। तदन्तस्यैव दर्शान्तमासस्यैव सूर्य्यसंक्रान्तिवर्ज्जितत्वेन तदानीं नियमेन अधिमासत्वात्मलमासत्वात्।
 
-
-
-
-
 लवणस्य सुवर्णतुलाभम्[^3] चूर्णितलवणस्य सुवर्णतुलाभमिति विष्णुसंहितायां पाठः।")(१) प्रस्थमेकं चन्द्रोदये ब्राह्मणाय प्रतिपादयेत्। अनेन कर्म्मणा रूपसौभाग्ययुक्ता जायते। पौषी चेत् पुष्पायुक्ता स्यात् तस्यां गौरसर्षपकल्केन वर्त्तितशरीरः(२)[^4] उद्वर्त्तितशरीर इति विष्णुपुराणे पाठः।") गव्यघृतपूर्णेन कुम्भेनाभिषिक्तः सर्व्वौषधिभिः[^125] सर्व्वगन्धैः सर्व्ववीजैश्च स्नात्वा घृतेन भग-
 
 [^3]: "(१
@@ -3219,19 +2853,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^125]: "चूर्णितलबणस्य सुवर्णतुलाभं प्रस्थमेकमित्यादि। अत्र विधिमाह हेमाद्रौ व्रतखण्डे। मार्गशीर्षं ततः प्राप्य त्रिरात्रोपोषितः शुचिः। संपूज्य देवं प्रद्युम्नं हुत्त्वाग्नौ घृतमेव च॥ भोजयेदब्राह्मणञ्चात्र भोजनं लवणोत्कटम्। चूर्णितस्य ततः प्रस्थं लवणस्य द्विजातये॥ महाराजतरक्तञ्च वस्त्रयुग्मं तथा गुरोः। दद्याच्च कनकं राजन् कांस्यपात्रंतथैव च॥ मासेन लावण्यक प्रदिष्टं व्रतोत्तमं नाकगतिप्रदञ्च ।न केवलं यादव सर्व्वकामान् नरस्य दद्यात् पुरुषप्रधानम्॥  क्वचिदादर्शपुस्तके सुवर्णतुलाभमिति नास्ति। हेमाद्रावपि नास्ति, परन्तु महाराजतरक्तञ्च वस्त्रयुग्ममेतदस्ति। सौभाग्यलावण्ययुक्ता जायते नारीति शेषः। पौषो पौषपूर्णिमा गौरसर्षपकल्केन श्वेतसर्षपखलिना उच्चासितशरीरः उन्मेषितशरीरः गव्यघृत-"
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_त्वानुसरणम्। तथाच गौणचान्द्रमासे मासपदाशक्यत्वात् कल्पनीया तु लभते नात्मानं योगबाधत एतन्यायस्याविषयत्वेन गौणचान्द्रमासे सर्व्वथा योगरूढ़ित्वाभाव इति भावः। अयौगिकत्वं यौगिकत्वासम्भवम्। पञ्चदस्यां पौर्णमास्यां पञ्चदशकलाक्रियारूपत्वात्। मृगशिरः संयुक्तायामिति अनेन मार्गशीर्षपदस्य यौगिकत्वाभावोविज्ञापितः। 
-
-
-
-
 
 वन्तं वासुदेवं स्नापयित्वा पुष्पगन्धधूपनैवेद्यादिभिश्चअभ्यर्च्च्य वैष्णवैः शाकलैर्वार्हस्पत्यैश्च मन्त्रैः पावकं हुत्वा ससुवर्णेन तेन ब्राह्मणं स्वस्ति वाचयेत् वासोयुग्मं तदन्ते दद्यात् (१)[^3] वासोयुगं कर्त्रे दद्यादिति विष्णुपुराणे पाठः।")। अनेन कर्म्मणा पुष्यति। माघी मघायुक्ता चेत् स्यात् तस्यां तिलैः श्राद्धं कृत्वा पूतो भवेत्। फाल्गुनी फल्गुनीनक्षत्रयुक्ता चेत् स्यात् तस्यां ब्राह्मणाय संस्कृतं स्वास्तीर्णशयनं निवेद्य भार्य्यां रूपवतींमनोज्ञां द्रविणवतीञ्चाप्नोति, नार्य्यपि भर्त्तारम्। चैत्री चित्रायुक्ता चेत् स्यात् तस्याञ्चित्रवस्त्रप्रदानेन सौभाग्यमाप्नोति। वैशाखी विशाखायुक्ता चेत् स्यात् तस्यां पौर्णमास्यां ब्राह्मणसप्तकं क्षौद्रयुक्ततिलैः सन्तर्प्य धर्म्मराजं प्रीयत्वा पापेभ्यःपूतो भवतीति। ज्यैष्ठी ज्येष्ठायुक्ता चेत् स्यात्तस्यां छत्रोपानहप्रदानेन गवाधिपत्यमाप्नोति। आषा-
 
 [^3]: "(१
-
-
 
 पूर्णेन कुम्भेनाभिषिक्तः गव्यष्टपूर्णकुम्भस्थष्टघृतेन मर्हितसर्व्वशरीरः सर्व्वौषधिभिः सर्व्वौषधियुक्तजलैः।
 
@@ -3245,15 +2871,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **एषां पत्राणि साराणि मूलानि कुसुमानि च।  
 एवमादीनि चान्यानि कषायाख्यगण : स्मृतः॥**
 
-
-
 ढ्याम् भाषाढ्युक्तायाम् अन्नपानप्रदानेन तदेवाक्षय्यमाप्नोति। श्रावण्यां श्रवणयुक्तायां[^127] [जलधेनुं](#)शान्तां
 
 [^127]: " सर्व्वगन्धैः सर्व्वगन्धयुक्तजलैः सर्व्ववीजैःयवादिसर्व्ववीजयुक्तजलैःअभ्यर्च पूजयित्वा वैष्णवैः विष्णुमन्त्रैः इदं विष्णुर्विचक्रमे इत्यादिमन्त्रैः शाकलैःदेवकृतस्यैनमसीत्यादि सामवेदोक्ताष्टशाकलमन्त्रैः वार्हस्पत्यैः बृहस्पतेः परिदौया इति वार्हस्पत्यमन्त्रैश्च पावकं हुत्वा वही होमं कृत्वा ससुवर्णेन तेन सुवर्णसहितष्टतदक्षिणया स्वस्ति वाचयेत् स्वस्तिपदोच्चारणेन स्वीकारं कारयेत्। तदन्ते ससुवर्णघृतदानान्ते वासीयुगं वस्त्रयुगं दद्यात्। अनेन कर्मणा पुष्यति पुष्टियुक्तो वुद्धियुक्तो वा भवति। माघी माघपौर्णमासी तिलैः तिलादिभिः इत्यादिबहुवचनान्ता गणस्य संसूचका इति स्मरणात् तिलैरिति तिलपदोपादानं श्राद्धेतिलस्य प्राधान्यज्ञापनार्थम्। फाल्गुनी फाल्गुनपौर्णमासी तस्यां फल्गुनीयुक्तपौर्णमास्यां संस्कृतं संस्कारयुक्त स्वास्तीर्णम् आस्तीर्णमिति क्वचित् पाठः आस्तरणयोग्यं विस्तृतं शयनं शीयते अस्मिन् शयनं शय्यां निवेद्य दत्त्वा मनोज्ञां मञ्जुलां द्रविणवर्ती धनवतीम्। नारी चरेत् सादृशव्रतं करोति तदा धनिन्भर्त्तारं प्राप्नोतीत्यर्थः। चैत्रो चैत्रपूर्णिमा चौद्रयुक्ततिलैःमधुयुक्ततिलैः। धम्मेराजानमिति भाषें धर्म्मराजः पितृपतिरित्यादि कोषात्। ज्येष्ठौ ज्यैष्ठपूर्णिमा उपानत् चर्म्मपादुका गवाधिपत्यं गोस्वामित्वं गोधनं प्राप्नोतीत्यर्थः। आषाढ़्याम् आषापौर्णमास्यां तदेव अन्नपानादिकमेव अक्षय्यं क्षयरहितम्। श्रावण्यां श्रावणपौर्णमास्याम्।"
 
 जलधेनुमाइ - होता उवाच। जलधेनुं प्रवक्ष्यामि पुण्येऽह्नि विधिपूर्व्वकम्। गोचर्म्ममात्रं भूभागं गोमयेनोपलेपयेत्॥ तत्र मध्ये च राजेन्द्र पूर्णकुम्भन्तु विन्यसेत्। जलपूर्ण सुगन्धाढ्यं कर्पूरागुरुचन्दनैः॥ वासितां गन्धतोयेन तां धेनुं परिकल्पयेत्। वत्सं तथापरं कल्पं घृ॒तेनपरिपूरितम्॥
-
-
 
 **प्रथमोऽध्यायः।**
 
@@ -3286,8 +2908,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 योऽश्वमेधेन यजते समाप्तवरदक्षिणः।  
 जलधेमुञ्च यो दद्यात् सममेतन्नराधिप॥
 
-
-
 वासोयुगाच्छादितां गां दत्त्वा स्वर्गलोकमाप्नोति। प्रौष्ठपद्यां प्रौष्ठपदयुक्तायां गोदानेन सर्व्वपापविमुक्तो भवतीति। आश्वयुज्याम् अश्विनीगते चन्द्रमसि घृतपूर्णं भाजनं सुवर्णयुक्तं विप्राय दत्त्वा विप्राय दत्त्वा दीप्ताग्निर्भवति। कार्त्तिकी चेत् कृत्तिकायुक्ता स्यात् तस्यां सितमुक्ष्माणमन्यवर्णं वा शशाङ्कोदये सर्व्वरत्नगन्धोपेतं ब्राह्मणाय दद्यात्, कान्तारभयं न पश्यतीति वचनम्[^128]।
 
 [^128]: "प्रौष्ठपद्यं भाद्रपौर्णमास्याम्। आश्वयुज्याम् आश्विनपौर्णमास्याम्। भाजनं पात्रं दीप्ताग्निः अजीर्णरुक्शून्यो भवतीत्यर्थः। कार्तिको कार्तिकपौर्णमासी। सितं श्वेतम् उक्ष्माणं वृषम्। अन्य वर्णे कृष्णादिवर्णम्। शशाङ्कोदये चन्द्रोदये। सर्व्वशस्यरत्नगन्धोपेतं धान्ययवादिसर्व्वशस्ययुक्तं रत्नगन्धोपेतं सुवर्णचन्दनयुक्तम् एतद्वयम् उक्ष्मविशेषणम्। कान्तारभयं दुर्गवर्त्मभयं कान्तारोवर्त्म दुर्गममित्यमरः।"
@@ -3308,8 +2928,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति वाराहे जलधेनुमाहात्म्यनामाध्यायः।
 
-
-
 अथ द्विभत्रिभत्वान्मासानां नक्षत्रान्तरयोगेऽपि तत्तत्पदप्रवृत्तेश्वेच्छब्दस्योपपत्तिरिति। तन्न आषाढ्यामाषाढ्युक्तायाम् अन्नपानदानेन तदेवाक्षय्यमाप्नोतीति न स्यात् आषाढ़द्वयमन्तरेणाषाढ़ोपदाप्रवृत्तेः[^130] आषाढ्यामित्यभिधायाषाढ्युक्तायामिति पुनरभिधानानुपपत्तेः[^131] आषाढयोगादेवाषाढत्वात्।
 
 [^130]: "तत्तन्माससंज्ञकनक्षत्राभावेऽपि चान्द्रमासशब्दस्य नैमित्तिकत्वं व्यवस्थापयति अथेति। द्विभत्रिभत्वात् अन्त्योपान्त्यः त्रिभः ज्ञेय इत्यादिवचनेन नक्षत्रहितयत्रितयज्ञापनात् नक्षत्रान्तरयोगेऽपि माससंज्ञकभिन्नापरनक्षत्रयोगेऽपि तत्तत्पदप्रवृत्तेः पौषमाघादिपदप्रवृत्तेः मासानामित्यनेनास्य सम्बन्धः चेच्छब्दस्योपपत्तिर्न वैयर्थ्यमित्यर्थः। दूषयति तन्नेति। आषाढ्याम् आषाढ्युक्तपूर्णिमायाम् अक्षय्यम् अक्षयम् आषाढ़द्वयमन्तरेणाषाढीपदाप्रवृत्तेरिति पूर्व्वोत्तराषाढ़ाभ्यां नक्षत्राभ्यां विना आषाढ़ौपदस्याव्युत्पन्नत्वात्। तथाच अन्त्योपान्त्य इति वचनेन द्विभविधानेऽपि आषादपदप्रवृत्ती पूर्वीत्तराषादयोरेव प्राप्तेः आवश्यकत्वमिति भावः।"
@@ -3324,10 +2942,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 आग्नेयं कृत्तिका तद्युक्तपौर्णमास्या एव कार्त्तिकीत्वात् यदेति
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_एवंरीत्या यद्ययं मार्गशीर्षादिशब्दो यौगिकः तदा मार्गशीर्षादिपदादेव तत्पौर्णमास्यां तत्तन्नक्षत्रयोगस्य प्राप्तेः मार्गशीर्षपञ्चदश्यां मृगशिरसा युक्तायामित्यनुवादापत्तेः। एवं पौषौ चेदित्यादि यद्यर्थकचेच्छब्दप्रयोगानुपपत्तेश्च न नैमित्तिकत्वममीषामिति भावः।
-
-
-
-
 
 क्वचिदिति वचनं न स्यात्[^132] तस्य तत्र नित्यसम्भवात्। तस्मात्कार्त्तिकादिपदानि निमित्तान्तरादेव न तु यौगिकानि कार्त्तिकादेः पौर्णमास्यः कार्त्तिक्यादिका इति सिद्धम्। भारतेऽपि माससम्बन्धेनैव पौर्णमासीनां महाफलत्वावगमात्।
 
@@ -3348,10 +2962,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 तेन माघी चेत् मघायुक्ता स्यादित्यादिष्वपि सन्दिग्धेषु माससम्ब-
 
-
-
-
-
 न्वादेव पौर्णमासीनां माघीत्वादिकं निर्णीयते[^134]। यत्पुनः पञ्जिकाकारमिश्रैः पञ्चशारदीयस्य विषयशुद्ध्यर्थमुक्तं कार्त्तिकमाससम्भवासु विशाखानक्षत्रयोगिनीष्वमावास्यासु पञ्चभिर्वर्षैः पञ्च सुत्या भवन्तीति अत्राविच्छेदेन तावत्तथाविधामावास्या पञ्चसु वर्षेषु न
 प्राप्यते[^135]। अत्र कर्कभाष्यम् । तापश्चितमिति सत्रनाम तत्र दीरं दीक्षावत्सरमित्यर्थः। भवन्ति उपसदः मूल्याश्च इदानीमहान्याह देवम्। अत्र सूत्या आह। गवामयनेनेयुः (२)। गनमेव गवामयनमेव कर्त्तव्यमित्यर्थः। अग्निष्टोमेन वा (३)। ईयुःअपूर्व्वश्चायमग्निष्टोमःनैकाहिकी न हादशाहिकःसंस्थामात्रीपदेशात् (सं) । अग्निष्टोमसंस्थेन अग्निष्टोमसादृश्येनेत्यर्थः ज्योतिष्टोमेन पूरणं कर्त्तव्यं मूल्या भवन्ति अनुष्ठेया भवन्ति इत्यर्थः। अत्राविच्छेदेन यथाक्रमेण यथा प्रथमवर्षे न तथा द्वितीयादिवर्षे विशाखानक्षत्रयुक्तामावास्या प्राप्यते।")। तथाहि विशाखानक्षत्रयुक्तामावास्या तुलादित्यस्याष्टादशदिनेभ्यः परस्तादेव वृश्चिकादित्यस्य द्वादशदिनेभ्यः पुरस्तादेव परम्भवतिः[^136]। तुलायामष्टादश-
 
@@ -3360,10 +2970,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^135]: "मासपदस्य योगरूढ़ित्वे पुनरपि व्यभिचारं दर्शयति यत् पुनरित्यादि। पञ्चशारदीयस्य पञ्चशारदीयनामकस्य कस्यचिद्यागविशेषस्य विषयशुद्धार्थं विषयपरिदर्शनार्थं विशाखानक्षत्रानुयोगिनौषु विशाखानक्षत्रयुक्तासु। मूत्या मूल्यानामसोमकयाग विशेषः पञ्चभिर्वषैरिति सप्तम्यर्थे तृतीया पञ्चसु वर्षेष्वित्यर्थः। मूत्या उक्ता श्रौतकात्यायने २४ अ ४ का १सू ।यथा तापश्चितं दीक्षाःसंवत्सरमुपसदश्च तथा सूत्या (१
 
 [^136]: "तथाहीति।अमावास्यायां कार्त्तिकमाससम्बन्धिन्यां प्रतिवर्षं विशाखानक्षत्रयोगा-"
-
-
-
-
 
 दिनानि चित्रास्वातीगतः सूर्य्य इति[^137] निर्विषादम्। वृश्चिके तु द्वादशदिनेभ्यः पुरस्तादनुराधाज्येष्ठयोरेव। अतस्तेषु दिवसेषु विशाखायां यदा न चन्द्रः तदा कथममावास्या[^138]तदन्ते सूर्य्याचन्द्रयोरेकनक्षत्रावस्थाननियमात्। तथा त्रयोदशोत्तरसहस्रशाकाव्दे तुलादित्यस्य सप्तदशदिने चित्रास्वातीव्याप्तामावास्या वृश्चिकादित्येचानुराधाज्येष्ठाभ्यां युक्तेति। तद्वत्सरे तस्यां विशाखायोगोन वृत्त एवातो दर्शान्ते पौर्णमास्यन्ते वा कार्त्तिकपञ्चसु वर्षेषु विच्छेदेन प्राप्तेरभावाद्विच्छेदाभिप्रायं पञ्जिकाकारवचनं ग्राह्यम्[^139]।तत्र चेयं युक्तिःयदि वैशाखस्येयमिति
 
@@ -3375,10 +2981,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_भावं दर्शयति। तुलादित्यस्य सौरकार्त्तिकस्य परस्तात् ऊर्द्ध्वं वश्चिकादित्यस्य सौरमार्गस्य पुरस्तात् पूर्व्वम्। तुलायां सौरकार्त्तिके अष्टादशदिनानि प्राप्येति शेषः।
 
-
-
-
-
 वैशाखी गृह्यते तदा वैशाखपदव्युत्पत्तिनिमित्तमण्द्वयमवगम्य पुनरणन्तरेण वैशाखी प्रत्येतव्या[^140]। तथाहि विशाखानक्षत्रयुक्ता तु एकेनैवाण्प्रत्ययेणेति शीघ्रं शव्दावगतेरविच्छेदस्य[^141]त्वशब्दार्थीभूतस्यौचित्यमात्रतोऽवगतेस्तस्य बाध एवेति तेषामभिप्रायः। पौषो चेत् पुष्यायुक्ता स्यादित्यादिषु चेच्छब्दात् पौषस्येति
 
 [^140]: "अत्र विच्छेदाभिप्रायकत्वे इयं वक्ष्यमाणा युक्तिःतां युक्तिं दर्शयति यदौति। अत्र यद्यपि कार्त्तिकमाससम्भवासु इत्युपक्रम्य विच्छेदाभिप्रायेण पञ्जिकाकारवचनं ग्राह्यमित्युक्तम् अत्रेयं युक्तिरित्युक्तौ तदुदाहरणस्वेन कार्त्तिकस्येयमिति मामपदव्युत्पत्तिप्रदर्शनं समुचितमेव न तु वैशाखस्येयमिति तथात्वे अप्रस्तुताभिधानमपि स्यात्। तथापि पञ्जिकाकारवचने कार्त्तिकमाससम्भवास्वित्युक्तेस्तत्र कार्त्तिकीपदविर हे सर्व्वथा व्युत्पति प्रदर्शनासम्भवमाशय वैशाख्याममावास्यायां सप्तदश मारुतीरित्यादिश्रुतौ वैशाखीपदश्रुतेः। तदेव सर्व्वथा व्युत्पत्तिकल्पनस्थानमवगम्य प्रदर्शयति यदि वैशाखस्येयमित्यादि। वैशाखपदव्युत्पत्तिनिमित्तं वैशाखपदयोगार्थसिद्धिनिमित्तम्। अण्द्वयमवगम्येति। तथाच विशाखानक्षत्रयुक्ता पौर्णमासौ वैशाखो सा अस्मिन् मासे स वैशाखः इति अण्द्वयेन वैशाखपदं सिद्धमिति भावः। ततच पुनरन्तरेण वैशाखी प्रत्येतव्या तथाच वैशाखयेयमिति तृतीयाणप्रत्ययेन वैशाखौपदं सिद्धमिति भावः।"
@@ -3387,10 +2989,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_तद्वत्सरे त्रयोदशाधिकसहस्रवत्सरे तस्याम् अमावास्यायां न वृत्त एव न प्राप्त एव। अतोऽमावास्यायां विशाखायोगाभावात् दर्शान्ते मुख्यचान्द्रे। पौर्णमास्यन्ते गौणचान्द्रे। अविच्छेदेन प्राप्तेरभावात् पञ्चसु वर्षेषु यथाक्रमेण प्रतिवर्षम् अमावस्यायां विशाखायोगस्याभावात्विच्छेदाभिप्रायं न क्रमनियमार्थमित्यर्थः।
 
-
-
-
-
 पौषीति वचनार्थः[^142]। अथात्राप्यविच्छेदानुरोधः[^143]। ततः संवत्सरे राजीवा आनयन्ति तांश्चैवोक्ष्णःइत्यादिवचनबलात् तदा कार्त्तिके तदसम्भवात् वैशाखस्येयमिति वैशाख्यमावास्या ग्राह्या[^144]। अपरञ्च दक्षिणा वत्सतराः पञ्चवर्षाः पृश्नयः(१३) । पृश्नयो विचित्राः। वत्सतय्यैश्च विहायण्योऽप्रवीताः पञ्चवर्णा राजीवपृश्वयः नवनीतपृश्नयः अरुणाः पिशङ्गयः सारङ्गय इति (१३)। अप्रवीता अप्रकामिताःराजींनयःपद्मपृश्नयः नवंश्नयः ")
 
 [^142]: "अविच्छेदार्थस्याप्राप्तौ हेतुमाह प्रशव्दार्थोीभूतस्य प्रथमसूत्रविहितेन अणा साधितवैशाखौशब्दाद प्राप्तस्येत्यर्थः। ननु शब्दादप्राप्तस्य कथं बाधाशङ्का इत्यत आह औचित्यमात्रतोऽवगतेरिति वाक्यार्थतात्पर्य्यमानतोऽवगतेरित्यर्थः। तथाच अशब्दार्थोभूत्यापि वाक्यार्थतात्पर्य्यतोऽवगतिर्भवितुमर्हतौति भावः। तस्य अविच्छेदार्थस्य बाध एव अविवचा एवेत्यर्थः। तेषां पञ्जिकाकाराणाम्। पौषस्येति। पौषस्येयमिति इदमयें अण्प्रत्ययः न तु नक्षत्रेण युक्तः काल इति सूत्रानुसारेण पुष्पयुक्तपौर्णमासी पौषोति तयात्वे पुष्पयुक्ता चेदित्यनुवादापत्तेः चेच्छब्दवैयर्थ्यापत्तेश्च।"
@@ -3398,10 +2996,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^143]: "औचित्यप्राप्ताविच्छेदार्थस्य विवक्षैवास्वित्यभिप्रेत्याह अथात्रापीति। अविच्छेदानुरोध इति अविच्छेदार्थ स्वीकारोऽस्तु इत्यर्थः। ततः संवत्सरे इत्यादिवचनबलादिति तदा कार्त्तिके तदसम्भवादिति वैशाखस्येयमित्यादीति च। तथाहि अविच्छेदानुरोध इति तु कार्त्तिके तदसम्भवादित्यत्र हेतुः तदसम्भवात् कार्त्तिकमाससम्बन्धिन्य मावस्यायां पञ्चसु वर्षेषु अविच्छेदेन विशाखानक्षत्रयोगासम्भवादित्यर्थः। ततः संवत्सरे इत्यादि च वैशाखस्येयमित्यत्र हेतुः।"
 
 [^144]: " तथाच वैशाख्याममावस्यायां सप्तदश मारुतीस्त्रिवर्षा अप्रवीता उपाकरोतीति श्रुतिप्राप्तवत्सतरौर्विशेषयति सतः संवत्सरे राजौवा आनयन्तीति। संवत्सरे प्रथमसंवत्सरे राजीवा राजीवपृश्नीरित्यर्थः।राजीवा राजीवाकाराणि पद्मवर्णानि पृश्नीनि मण्डलानि यासां ताः। तथाच कात्यायनश्रौतसूत्रभाष्यम्। पृश्नयो विचित्रवर्णा आलभ्यन्ते वत्सतव्येश्च त्रिवर्षा अप्रवीता वृषभेनाभुक्ताः पञ्चवर्णा वत्सतर्य्यःसन्ति। प्रथमे वर्षे राजीवपृश्नयः द्वितीये नवनीतम् एवं तृतीये चतुर्थे पञ्चमे अरुणादयस्त्रयः (का. श्री. सू. २३ अ., का., पृ. १०२१
-
-
-
-
 
 **प्रथमोऽध्यायः**
 
@@ -3412,8 +3006,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अत्र सैव चिन्ता, किमुक्ष्णामुत्सर्गःआरण्यवत् कर्म्मशेषः, अथवा प्राजापत्यवत्संस्कार कर्म्मप्रतिषेधः। तेषाञ्च सुत्यासु प्रतिप्रसवः, त्रींस्त्रीनुक्ष्णः एकैकस्मिन् अहनि आलभन्ते पञ्चोत्तमे इति। यदि कर्म्मशेषप्रतिषेधः प्रतिवर्षम् अन्ये उक्षाणःअथ संस्कारप्रतिषेधः, ततस्तएव पञ्चवर्षाणि उपरुध्यन्ते पुनःपुनःसंस्क्रियन्ते, अन्त्यासु सुत्यासु आलभ्यन्ते इति पृ. ७२८।२८।
 
 कात्यायनश्रौतसूत्रस्य त्रयोविंशाध्यायस्य चतुर्थकाण्डिकायां तृतीयसूत्रम्। पञ्चशारदीयः। ३। इतीयं संज्ञा। चतुर्थमूत्रमाह। तेन यक्ष्यमाणाः पञ्चवर्षाण्याश्वयुजीशक्तेषु चतुस्त्रिंशतं पशूनालभते मारुतान्। ४। तेनेति पञ्चशारदीयोपलक्षणम्। सं। आश्वयुजौशुक्लपक्षे सप्तम्याम् अष्टम्यां वा। पञ्चमसूत्रमाह। वैश्यस्तीमदक्षीणालिङ्गान्। ५। सं। वैश्यस्तोमदक्षिणाया इव लिङ्गानि येषां ते तान्। तानि च दक्षिणा वत्सतराः (२२\।१६\।२)। षष्ठसूत्रमाह। उक्ष्णी वत्सतरौर्वर्णानुपूर्व्वेण। ६। प्रतिवर्षम्। सं। तत्र प्रतिवर्षम् उक्ष्णो वृषभान् वर्णानुपूर्व्वेण वर्णक्रमेण वत्सतरीश्चालभते। उक्षाणो वृषभाः, साण्डाः सेचनसमर्थाःपञ्चवर्षाःपृश्नयो विचित्रवर्णा आलभ्यन्ते। वत्सतर्य्यश्च त्रिवर्षा अप्रवीता वृषभेनाभुक्ताः। पञ्चवर्णा वत्सतर्य्यः सन्ति – प्रथमे वर्षे राजीषपृश्नयः, द्वितीये नवनीतम्. एवं तृतीये चतुर्थे पञ्चमे अरुणादय त्रयः (१०९१ पृ.)।
-
-
 
 तस्याः प्रत्यब्दभावात्[^145]यत् पुनरेतत्साधनार्थमुक्तमन्धुकेन मेषादित्यगतामावास्यायां वैशाखोपदं रुढं नक्षत्रयुक्तायान्तु यौगिकं तत्पुना रूढ़ितो दुर्ब्बलमिति[^146]तदयुक्तम्। वैशाखस्येयं वैशा-
 
@@ -3430,8 +3022,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  अस्त्यहीनेषु पञ्चशारदीयनामकः कश्चित् पञ्चाहविशेषः। स पञ्चसु वर्षेष्वनुष्ठेयः। तत्र प्रथमे वर्षे विशाखानक्षत्रयुक्तायाममावास्यायां सप्तदश स्त्रीपशवः सप्तदशोक्षाणश्च विहितास्तेषु सर्व्वेषु प्रोक्षितेषु च सत्सु स्त्रोपशूनामालम्मं पुंपशूनामुत्सर्गञ्चाम्नायः। पुनर्द्वितीये तृतीये चतुर्थे च वत्सरे तथैवानुष्ठानमाम्नायः। पश्चादाम्नायते त्रींस्त्रीनेकैकस्मिन्नहन्यालभेरन् पञ्चोत्तमेऽहनीति। तत्र वत्सरचतुष्टयगतासु चतसृषु अमावास्यासु योऽयं पशूनासत्सर्गस्तत्र कर्म्मशेषत्यागी न भवति किन्तूत्कर्षः। त्रींस्त्रीनिति वाक्येनालम्भस्याभिधानात्। यथा पूर्व्वं प्राजापत्यानामालम्भोत्कर्षस्तथात्रापि युज्यते इति प्राप्ते ब्रूमः। त्रींस्त्रीनेकस्मिन्नहन्यालभेरन्नित्यत्र पर्य्यग्निकरणानन्तरभाविनं प्राप्तमालम्भमनुद्यैकाहत्वत्रित्वगुणयोर्विधौ वाक्यं भिद्येत। तथा पञ्चोत्तमेऽहनीत्यत्रोत्तमाहत्वपञ्चत्वयोर्विधौ वाक्यभेदः। तस्मात्तद्गुणद्वयविशिष्टानाम् अन्येषां कर्म्मणां विधिरभ्युपेयः। तथा सत्यारण्यपशुन्यायेन सप्तदशोक्षाणः पर्य्यग्निकरणप्रोक्षणाभ्यां समापनीया इति माधवाचार्य्यआह स्म।पृ. ४११।
 
-
-
 खीति पदस्यक्लृप्तयोगादेवप्रवृत्तिसम्भवे समुदायशक्तिकल्पनानुपपत्तेः कथं रूढरिता। प्रोक्षणीशब्देऽप्ययमेव[^147]कल्पनीया तु।लभते नात्मानं योगबाधत इत्युक्तत्वात्‌[^148]।ननु वैशाखपदं मासवाचकं तत्सम्बन्धिनी च तिथिर्नावयवान्तरोपात्ता येनावयवशक्या यौगिकत्वमतो रूढ़िरेव[^149] उच्यते। अण्प्रत्ययेन सहावयवद्वयं
 
 [^147]: "दूषयति तदयुक्तमिति। क्लृप्तयोगादेव माससस्बन्धित्वरुपक्लृप्तयोगादेव प्रवृत्तिसम्भवे शक्यत्वानिर्णयसम्भवे। तथाच वेशाखस्थ इयमित्यत्र वेशाखशब्देन मास उच्यते तत्रेदमर्थविदिततद्धितप्रत्ययेन माससम्बन्धित्वमुच्यते इत्युभाभ्यामवयवाभ्यां वैशाखीपदं वैशाखमाससम्बन्धित्वबोधकत्वेन यौगिकमेव न तु समुदायशक्त्या रूढ़िकमिति भावः। अत्र दृष्टान्तं दर्शयति प्रीक्षणीशब्दे अयमेव यौगिकार्थ एव स्वीकृत इति शेषः।"
@@ -3442,19 +3032,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_नक्षत्रयुक्ता पौर्णमासी वैणाखौ अत्रैव वेशाखीपदं यौगिकं योगरूढ़िकमित्यर्थः। नतु विशाखानक्षत्रयुक्ता वैशाखस्यामावास्याइत्यर्थे वैशाखीपदं यौगिकम्‌। तत्र सूर्य्यस्यमेषगतत्वेन चन्द्रस्य तुलावृश्चिकान्यतरगतत्वेन च अनयोरेकराशिस्थत्वाभावेन सौरवैशाख सम्बन्धिन्याममावस्यायां विशाखानक्षत्रयोगासम्भवात्‌। रुढ़ितोदुर्ब्बलमिति “लब्धात्मिका सती रूढ़िर्भवेद्योगापहारिणीति” स्मरणात्‌।
 
-
-
-
-
 यद्यपि तन्न श्रूयते तथापि वैशाखपदमेव षष्ठीतत्पुरुषवत्सम्बन्धिनं लक्ष्यति। तेन प्रकृतिपदमवयवस्थाने वर्त्तत इति यौगिकत्वम्[^150]। यद्वावैशाखीपदमित्यत्र प्रथमाणप्रत्ययेन वृद्धौ भूतायामपि पुनरणन्तरेणापि दीर्घस्य स्थाने दीर्घो भवतीतिवदपरापि वृद्धिरण्विकारस्तत्सहितं वैशाखीपदं यौगिकं[^151]लाक्ष-
 
 [^150]: "यौगिकत्वं व्यवस्थापयति उच्चते इत्यादि। अण्प्रत्ययेन सहावयवद्धयमिति। तथाच अण्प्रत्ययैकावयवः अपरञ्च प्रकृतीभूतवैशाख एव इत्यवयवद्वयमित्यर्थः। ननु वैशाखीत्यत्र वैशाखस्येयमिदमर्थे विहितेन अण्णा साधितवैशाख़ोत्तर विहितेन ङीपा अण्लोपे कथम् अण्प्रत्ययेन सहावयवद्दयमित्याह यद्यपीति। तथापि अण्प्रत्ययलोपेऽपि षष्टीतत्पुरुषवदिति राजपुरुष इत्यत्र षष्ठीलोपेऽपि यथा राजपदं राजसम्बन्धिनं बोधयति तथा वैशाखीत्यत्र वैशाखपदं वैशाखसम्बन्धिनं बोधयति। तेन वैशाखोपदस्य वैशाखसम्बन्धित्वरूपार्थबोधकत्वेन प्रकृतिपदं प्रकृतिपदमपि अवयवस्थाने अवयवकार्य्यकारित्वे इति हेतौ यौगिकत्वमिति। तथाच प्रकृतिपदस्य अवयवस्थानीयत्वेन सम्बन्धित्वार्थबोधकत्वात् यौगिकत्वमिति भावः।"
 
 [^151]: "ननु लुप्तविभक्तः स्मारकत्वात् राजपुरुष इत्यत्र राजपदेन राजसम्बन्धित्वार्थसम्भवेऽपि लुप्तप्रत्ययस्य स्मारकताया अदृटत्वात् कथं राजपुरुषदृष्टान्तेन वैशाखीपदस्य वैशाखसम्बन्धित्वार्थबोधकतासम्भवः लक्षण्या चेत् लक्षणया यौगिकत्वं पदस्य कदापि न सम्भबति इत्यत आह यद्देति। प्रथमाण प्रत्ययेन नक्षत्रेण युक्तः काल इति सूत्रेण विशाखानक्षत्रयुक्ता पौर्णमासीत्यर्थे प्रथमाण प्रत्ययेन पुनरणन्तरेणापीति सास्मिन् पौर्णमासीति संज्ञायामिति द्वितीयसूत्रविहितेन द्वितोयेन अणा वृद्धौ भूतायामित्यनुषङ्गेणान्वयः। दीर्घस्य स्थाने दोर्घौ भवतीति यथा ह्रस्वस्यैव वृद्धेरौचित्येऽपि प्रकृते वैशाखौ इत्यत्र आद्यची हस्खाभावेऽपि दीर्घस्य ह्रस्वत्वमुपचर्य्य यथा सूत्रबलात् दीर्घस्थाने पुनर्घौ भवति तद्वत् अपरा वृद्धिः तृतीया वृद्धिः अण्विकार इति वैशाखस्येयमिति इदमर्थविहितस्य तृतीयस्थाणी विकारः प्रकृतेरन्यथाभावः तृतीयेन अणा साधिता इत्यर्थः विकारशब्दस्य अजहल्लिङ्गत्वात् स्त्रीलिङ्गविशेषणत्वेऽपि न स्त्रीलिङ्गता ।तत्सहितम् अणविकारवृद्धिसहितं यौगिकमिति। तथाच"
-
-
-
-
 
 णिकमेव वा वैशाखीपदं स्वसम्बन्धिनि न तु रूढ़म्।सा चेयं
 लक्षणा[^152]नक्षत्रेण युक्तः कालः सास्मिन् पौर्णमासीति संज्ञायामित्यण्द्वयावगमसापेक्षत्वान्नक्षत्रयोगमात्रेणामावास्या-विशेषाव-गमः शीघ्रमिति स एव वचनार्थःस्यात्[^153]। यद्वापर-
@@ -3465,10 +3047,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_दधि पश्यतीत्यादौ चम्पककुसुमसुवासितवसनादिवत् क्तिजनितसंस्कारादेव संख्याकर्म्माद्यवगम इतिवत् अण्लोपेऽपि वृद्धिप्रयोजकीभूताण्जनितसंस्कारादेव सम्बन्धित्वार्थलाभाद्यौगिकत्वसिद्धिरिति भावः।
 
-
-
-
-
 मुक्तं नक्षत्रेण युक्तः काल इति नक्षत्रयुक्तपौर्णमास्येव वैशाख्यादिपदेनोच्यते न कालमात्रमिति तदप्यनागमम्[^154]। पौषी रात्रिः पौषमहः[^155]माघी रात्रिःमाघमहः इति नक्षत्रेण युक्तः काल इत्यस्मिन्नेव सूत्रे उदाहृतत्वात् माससम्बन्धेनोदाहरणत्वानुपपत्तेः[^156]। माससम्बन्धस्यापक्रान्तत्वात् नक्षत्रेण युक्ततयोदाहरणस्यादेयत्वात्। अन्यथा पौषो पौर्णमासीत्येवोदाहरेत्अतएव सूत्रेऽपि काल इति नोच्यते। नक्षत्रेण युक्ता पूर्णिमे-
 
 [^154]: "यदापरमुक्तं यदप्यपरमुक्तमित्यर्थः अन्धुकभट्टेनेति शेषः तदेवाह नक्षत्रेण युक्तः काल इति। नक्षत्रयुक्तकालाय अण् भवति इति सूत्रे कालपदेन सामान्यस्य विशेषपरत्वात् पौर्णमासी काल एंवोच्यते। तथाच नक्षत्रेण युक्ता पौर्णमासीत्यर्थे अण् भवतीति प्रथमसूत्रार्यः। तदनागमं तत्प्रमाणशून्यम्।"
@@ -3478,10 +3056,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^156]: "तदेव दर्शयति उदाहृतत्वात् पौषौ रत्रिरित्यादेरिति शेषः। माससम्बन्धेनोदाहरणत्वानुपपत्तेरिति। पौषो रात्रिः पौषमहरित्यादेमीस सम्बन्धेनोदाहरणत्वानुपपत्तेः असम्भवादित्यर्थः। तथाच नक्षत्रेण युक्तः काल इति प्रथमसूत्रे यदि कालपदेन पौर्णमासी गृह्यते एवं सास्मिन् पौर्णमासीति संज्ञायामिति द्वितीयसूत्रेऽपि सैव गृह्यते, ततश्च सूत्रद्वयमेव माससाधकं भवेत्। प्रकृते पौषौ रात्रिरित्यादेरुदाहृतत्वेन माससम्बन्धेनीदाहरणमसम्भवौति भावः।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_विरोधाच्च। यद्यपि लक्षणया योगरूढ़ित्वकल्पनं न युक्तिसङ्गतं तथाप्यत्र सर्व्वथैव रुढ्यर्यासम्भव इति ज्ञापनार्थमिदं वागाड़म्बरमात्रंमन्तव्यम्।
-
-
-
-
 
 त्येवं ब्रूयात् सास्मिन् पौर्णमासीतिवत्। धर्म्मशास्त्रेषु च तिथ्यन्तरेष्वपि प्रायशः प्रयोगः दृश्यते[^157]।
 
@@ -3503,8 +3077,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  अत्र कृत्तिकादिव्यवस्थया इत्यनेन उपान्यो भाद्रो भवति। स च त्रिभः शतभिषया पूर्व्वोत्तरभाद्रपदाभ्यात्व युत्ताःअतोभाद्रपौणंसास्थां सव्या हस्तयीगासम्भवः। यत्रपुनर्हस्तयोगःसम्भवति भाद्रसस्बन्धि-तत्तिथिप्राप्त्यर्थम्अनियता इत्युक्तम्‌। भाद्र
 
-
-
 ट्ठञिति ठञ्प्रत्ययेन वैशाखीति स्यात् इत्युपाध्यायपादानां दूषणं तदपि पौषी चेत् पुष्यायुक्ता स्यादित्यादि। कार्त्तिक्यान्तु यदा ऋक्षमाग्नेयम्भवति क्वचित्। अपरपक्षाष्टकाभिधानाय च प्रौष्ठपद्यष्टकाभ्युदय[^159] इत्यादिभिर्मुनिभिरेव ठञ्प्रत्ययस्यानित्यता-
 
 [^159]: "कालाट्ठञितीति। कालवाचिभ्यः भवाद्यर्थे ठञ्प्रत्ययो भवतीत्यर्थः। ठञ्प्रत्यये वैशाखीति स्यात् तदा ठञ्प्रत्ययेनैव वैशाखीति पदसिद्धिः स्यात् न तु अण्प्रत्ययेन। तथाच"
@@ -3522,8 +3094,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 उत्सर्गश्चैक एवैषां तैष्यां प्रौष्ठपदेऽपि वा॥”**
 
 धर्म्मविज्जनः उदगयने उत्तरायणे उपाकृत्य वेदानारभ्य अधीयीत अध्ययनं कुर्य्यात्। प्रौष्ठपदे गौणचान्द्रभाद्रे मासि पुष्यनक्षत्रयुक्तात्रयोदश्यादितिथौ एषां वेदानाम् एक उत्सर्गः समापनमेव कर्तव्य इति शेषः। पौर्णमास्येव नक्षत्रयोगात्तिष्यनक्षत्रयोगात् यथा तैषीत्युच्यते तदनागमं प्रमाणशून्यमित्यर्थः भाद्रपौर्णमास्यां तिष्ययोगस्यासम्भवादिति शेषः। यच्चेति उपाध्यायपादानां दूषणमिति अग्रिमेण सम्बन्धः। वैशाखमासस्य वैशाखीग्रहणं वैशाखमाससम्बन्धि-वैशाखीयदि गृह्यते इत्यर्थः।
-
-
 
 विज्ञापनाददूषणम्[^160]। प्रयोगमूलत्वात् व्याकरणस्य तदाधाक्षमत्वात् शास्त्रकाराणाञ्चैवमादिप्रयोगादर्शनात्[^161]। सामान्यतः प्राग्दीव्यतोऽणिति तत्र जातः[^162] तत्र भव इत्याद्यन्यतमविहिताण्प्रत्ययेन वैशाख्यादिपदनिष्पत्तिसम्भवात्। क्वचिदपवादविषयेऽप्युत्सर्गःप्रवर्त्तत इति पाणिनीयानां व्यवहारादपवादकठञ्विषयेऽप्यणप्रवृत्तेः। किञ्च वैशाखिकी ज्यैष्ठिकीत्यादिप्रयोगस्य
 
@@ -3543,10 +3113,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 चतुर्थ्यां चतुर्थ्यष्टकायामित्यर्थः।
 
-
-
-
-
 लोके शास्त्रे चादर्शनात्[^163] कालाट्ठञिति सूत्रे च वैशाखादिपदतत्समानार्थस्य कालविशेषवचनस्य नाम्नोऽनुदाहृतत्वात् अवान्तरभेदविशेषेण(१)[^3] अवच्छेदविशेषेण तु इति क्वचिदादर्शे पाठः।") तु सकलकालवचनस्य मासार्द्धमासमात्रस्य ठञ्प्रत्ययेन मासिकम् आर्द्धमासिकमित्येवोदाहृतत्वात् विशेषवाचिनो वैशाखादिपदात् ठञ्प्रत्ययो नास्त्येवेत्येवावधार्य्यते। तेन पूर्वोपन्यस्तप्रयोगा उपपन्नाः। यद्यपि च वृद्धिर्यस्याचामादिस्तद्वृद्धमिति सूत्रेण यस्येति समुदाय उच्चते, अचां मध्ये यस्य वृद्धिसंज्ञक आदिभूतस्तद्रूपं वृद्धसंज्ञं भवति, वृद्धसंज्ञा च वैशाखादीनामस्ति तेन च वृद्धाच्छ इत्यण्बाधेन छविधानात् वैशाखीयेत्यादि भवेदिति चोद्यं[^165], तदपि परिहृतम्। विष्णुव्यासादिमुनिप्रयोगानुपपत्तितः पूर्व्वसूत्रत्रयप्राप्तमणमेतन्न बाधते। किञ्च स्यादिसूत्रे वा नामधेयस्येति वृद्धसंज्ञा वक्तव्या वक्तव्यत्वेन च विशेषवाचिनःपदस्य पाक्षिकी वृद्धसंज्ञा तेन देवदत्तस्येयं देवदत्तीया दैवदत्ती
 
 [^3]: "(१
@@ -3555,17 +3121,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^165]: "अचामिति। जातौ बहुवचनमिति काशिका।वृद्धाच्छ इत्यण्बाधेन छविधाजादिति। वृद्धसंज्ञकाच्छ प्रत्ययो भवति अण्बाधेन अणं बाधित्वा छविधानात् प्रत्ययविधामादित्यर्थः। चौद्यं कुतर्क परिहृतं दूषितम्।"
 
-
-
-
-
 वा छाण्प्रत्ययाभ्यामेषामुदाहृतं तेन वैशाखादीनां कालविशेषनामत्वेन पाक्षिकी वृद्धसंज्ञा अतो वैशाखस्येयमिति वैशाखीत्याणा सिध्यति। अतएव लोके माघीसप्तमी माघीद्वादश्यादि व्यपदिश्यते। ननु चेद्यौगिकम्, द्विभत्रिभसङ्कीर्त्तनं किमर्थमुच्यते स्वयमेव पृच्छन् योगान्ननु भवतीति साधितमवगतञ्च भवता[^166]। यद्यस्य प्रयोजनं नोपलभ्यते निरर्थकमेव। इदञ्चास्य प्रयोजनम्। यथाथर्व्ववेदमुक्षादिराष्ट्राणां विषयाणाञ्च च्यवनादीनाम्(१)[^3] व्यर्थवादिनामिति क्वचित् आदर्शपुस्तके पाठः।") नक्षत्रकीर्त्तनं तथा तत्तन्मासीयनक्षत्रोपजातदिव्यान्तरीक्षभौमापत्सूचितशुभाशुभफलविपाकज्ञापनाय मासानान्नक्षत्रकीर्त्तनं यन्मासीयनक्षत्रं पीड़यत्यनुकूलयति वा शुभाशुभनिमित्तं वा भवति तस्मिन्नेव मासि फलविपाकमवधार्य्यनिष्टप्रशमनाय नृपतेर्ब्राह्मणाः शान्तिहोमादौ प्रवर्त्तन्ते। तथा उपयामगृहीतोऽसि मधवे त्वा गृह्णामीत्यादिविहितमधुमाधवादिमासेज्यायां सनक्षत्राःसाधिदेवता इज्यन्ते इति मासानां नक्षत्रकीर्त्तनप्रयोजनम् अतएव मासःकार्त्तिकोऽग्निदैवत्य इत्यादिना
 
 [^3]: "(१
 
 [^166]: "पूर्व्वसूत्रत्रयप्राप्तमणं नक्षत्रेण युक्तः काल इत्यादि पूर्व्वसूत्रत्रयविहितम् अण्प्रत्ययम्। एतत् छप्रत्ययः। वा नामधेयस्येति वक्तव्या इति वार्त्तिकसूत्रम् । देवदत्तीया इति छप्रत्ययेन सिद्धं, देवदत्ती इति अण्णा सिद्धम्। छाण्प्रत्ययाभ्यां छप्रत्ययेन अण्प्रत्ययेन चेत्यर्थः। द्विभत्रिभसङ्कीर्त्तनमिति अन्त्योपान्त्यौ त्रिभौ ज्ञेयौ फाल्गुनश्च त्रिभो मतः। शेषा मासा द्विभा ज्ञेया कृत्तिकादिव्यवस्थया इति वचनेनेति शेषः। योगात्रनु भवतीति इति योगानुसारेण प्रयोगी भवतीति साधितम् अवगतञ्च भवता इत्यन्वयः।"
-
-
 
 मासानान्देवताः कीर्त्तिता विष्णुना। तस्माच्चान्द्रे सौरे वायौगिकत्वानुपपत्ते रूढ़िरेव वाच्या। तत्र सौर एव रूढ्या वाच्यइति जितेन्द्रियः। सौरचान्द्रयोःश्रुतिस्मृतिगृहीतत्वाविशेषे[^168]ऽप्यनेक(१)[^3] अनेकत्र इति क्वचिदादर्शे पाठः।") शक्तिकल्पनागौरवापत्तेरेकत्र शक्तिकल्पनायां सकलजनप्रसिद्धेः सौरेविनिगमनाप्रमाणं सौर एव वैशाखादयो मुख्याः तदपि न मनोऽनुगतमिति दीक्षितेन दूषितं[^170], सर्व्वजनप्रसिद्धेऽपि राजपदस्य राज्यकर्त्तरि मुख्यत्वानङ्गीकारात्।
 
@@ -3574,10 +3134,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^168]: "स्वयं नक्षत्रप्रयोजनं दर्शयति इदञ्चेत्यादि। इदं वक्ष्यमाणं यथाथर्व्ववेदम अथर्व्ववेदम् अनतिक्रम्य यथाथर्व्ववेदम् उक्षादिराष्ट्राणां राज्यसम्बन्वितृषादिपशूनां विषयाणाञ्च धनसम्पत्यादीनाञ्च च्यवनादीनाञ्च च्यवनप्रभृतीनाम् ऋषीणाञ्च नक्षत्रकीर्तनमिति तथाच अथर्व्ववेदे। राष्ट्रसम्बन्धिवषादीनां धनसम्पत्त्यादीनाञ्च शुभाशुभज्ञापनार्थं च्यवनादिभिः ऋषिभिः नक्षत्रकीर्तनम्। दिव्यानां स्वर्गीयाणां देवसम्बन्विनौनामित्यर्थः अन्तरीक्षायाम् आकाशसम्बन्धिनौनां भौमानां भूमिसम्बन्धिनौनाम् आपदां आपत्सूचितशुभाशुभानाम् इत्यर्थः। मधुमाधवादिमासेज्यायां चैत्रवैशाखादिमासविहितयागे। सनक्षत्राधिदेवता नक्षत्रेण सहाधिदेवताः। मासः कार्त्तिकोऽग्निदैवत्य इत्यादिनेति तथाच विष्णुःमासःकार्त्तिकोऽग्निदैवत्यः। अग्निश्च सर्व्वदेवानां मुखं तस्मात्तु कार्त्तिकं मासं वहिःस्रायो गायत्रीजपनिरतः सक़देव हविष्याशी संवत्सरकृतात् पूतो भवतीत्यादि। तस्मात् व्यभिचारात् सर्वदा योगाप्रसक्तेः। सौर एव न चान्द्रो रुढ्या वाच्यः निरुपदमासपदशक्यः। श्रुतिस्मृतिग्टहीतत्वा विशेषेऽपि सा वैशाखस्यामावास्या या रोहिण्या सम्बुद्धयते। मधुश्च माधवश्व वासन्तिकाढतुरित्यादिश्रुत्या, इन्द्राग्नी यत्र हयेते मासादिः स प्रकीर्त्तितः इत्यादिस्मृत्या, तपस्तपस्यौ शिशिरौ इत्यादिस्मृत्या च चान्द्रसौरयोः परिग्रहाविशेषेऽपि।"
 
 [^170]: "अनेकशक्तिकल्पनागौरवापत्तेरिति। सौरे चान्द्रे च उभयत्र मासपदशक्तिकल्पने अन्याय्यानेकार्य इति न्यायेन नानाशक्तिकल्पनागौरवापत्तेः। सकलजनप्रसिद्धिः बहु-"
-
-
-
-
 
 तदुक्त[^171]ंवार्त्तिककारपादैः।
 
@@ -3596,10 +3152,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_सेवादित्वं प्रयोगबाहुल्यं सौरे सौरे शक्तिकल्पने विनिगमनाप्रमाणम्। एकत्र पक्षपातिनी युक्तिर्विनिगमना तदेव प्रमाणं विनिगमकमित्यर्थः। दीक्षितेन दीक्षितनाम्नानिबन्धकारेण।
 
-
-
-
-
 सास्मिन् पौर्णमासीति संज्ञायां विशाखादिनक्षत्रयुक्तपूर्णिमायोगात् वैशाखादिशब्दानां व्युत्पादनात् सौरेषु आश्विनपौषमाघेष्वश्विनीपुष्यमघायुक्तपूर्णिमानां सर्व्वथैवासम्भवात्[^174]। चान्द्रे तु कादाचित्केनापि योगेनात्यन्तयोगव्यावृत्त्या[^175]विशेषणत्वसम्भवात्
 
 [^174]: "नैतदिति। जितेन्द्रियेण मासपदस्य सौरे रूढिशक्तिरुक्ता। तत्र च सकलजनप्रसिद्धिः विनिगमना प्रमाणं हेतुरित्युक्तम्, दीक्षितेन तु तत्र सर्व्वजनप्रसिद्धेः शक्तिग्राहकत्वे व्यभिचारमात्रं प्रदर्शितम् इदानीन्तु। मूलकारः स्वमतं परिष्कर्त्तमापाततः सौरशक्तौ प्रत्तिबन्धिं दर्शयित्वा चान्द्रशति प्रमाणयितुं विचारमारभते नैतदनापोति। वैशाखादिशब्दानां चैशाख।दिमासपदानां व्युत्पादनात् यौगिकत्वप्रतिपादनात् आश्विनपोषमाघेषु आश्विनपौष-माघेमासत्रयमात्रेषु सर्वथैवासम्भवादिति। तथाच सूथ्याचन्द्रमसीर्यः परोविप्रकर्षः सा पौर्णमासोति गोभिलमूत्रात् सौराश्विने अश्विनौनक्षत्रस्य मेषघटकतया तस्मिन् चन्द्रे कन्याराशौ रवौच एवं सौरपौष पुष्यनक्षत्रस्य कर्कटघटकतया तस्मिन् चन्द्रे धनुषि रवौ च एवं सौरमात्रे मघानक्षत्रस्य सिंहघटकतया तस्मिन् चन्द्रे मकरराशौ मूर्ये च षड़ष्टकेनावस्थानात् तेषु सौरमासेषु तेषु नक्षत्रेषु च सर्व्वदैव पूर्णिमायोगस्यासम्भवेन सास्मिन् पौर्णमासीति सूत्रस्याविषयत्वात् सा व्युत्पत्तिर्न घटते इति। अश्विनीनक्षत्रयुक्ता पौर्णमासी आश्विनीति विशेषणं मासस्य कदापि न सम्भवतीति भावः।"
@@ -3608,8 +3160,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_गमः स्यात् क्षत्त्रियजातौ शक्तिस्वीकारे तु शक्यतावच्छेदकस्य क्षत्त्रियत्वस्य नातित्वेनानुगततया सर्व्वसम्मतं भवतीति भावः।
 
-
-
 पाणिनिपुरस्काराय मेषाद्युपक्रान्ताश्च प्रतिपदादिदर्शान्ताश्चान्द्रा एव मुख्या वैशाखादयः[^176]। तथा सा वैशाखस्येत्यादि श्रुत्या चान्द्रस्यैव वैशाखस्य निर्द्दिष्टत्वात् वाच्चसन्देहे यववराहादिन्यायेनैव तदवगम इति चान्द्रो वैशाखः। तत्सामान्यादितरेष्वपि तथात्वमिति न्यायात् ज्यैष्ठादयोऽपि चान्द्रा एव मुख्याः। सौरस्तु मेषादित्यारव्धत्वगुणयोगाङ्गौण इति चेदतिदूषणं तपस्तपस्यादिश्रुत्या सौराणां माघादिद्वादशमासानामेव निर्द्दिष्टत्वात्[^177]। ननु न ते माघादिपदैर्निर्द्दिष्टाः सत्यं तपस्तपस्यादिपदानां
 
 [^176]: "विशेषणत्वसम्भवादिति। वैशाख्यादिपौर्णमास्याश्चान्द्रमासविशेषणत्वसम्भवात् तथाच चान्द्रवैशाखादिपौर्णमास्याःविशाखादिमाससंज्ञकनक्षत्रयोगसम्भवात् विशाखानक्षत्रयुक्तपौर्णमासी वैशाखीसा अस्मिन् वैशाखः। अत्र वैशाख्याश्चान्द्रमासविशेषणत्वं स्पष्टमवगम्यते। सौरेतु पौषमाघाश्विन पौर्णमास्याः पुप्यादिनक्षत्रयोगस्थासम्भवात् पौष्या माघ्याआश्विन्याश्च पौर्णमास्याः पौषादिमास विशेषणत्वं कदापि न सम्भवतीति भावः। पाणिनिपुरस्काराय पाणिनिसम्मताय। मेषाद्युपक्रान्ताःमेषादिस्थरव्यारब्धाः मुख्या मासपदशक्याः।"
@@ -3617,10 +3167,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^177]: "श्रुत्या उपपादयति सा वैशाखस्येति। सा वैशाखस्यामावास्या या रोहिण्या सम्बुयते इति निर्दिष्टत्वाद्दिधेयत्वात् वाच्यसन्देहे शक्यसन्देहे एव यववराहन्यायस्तु प्राक् प्रदर्शितः तदवगमः शक्यावधारणं तथाच अत्र श्रुत्यादिभिश्चान्द्र एव मासपदशक्तौ निर्णीतायां सत्यां न न्यायावसर इति भावः। चान्द्रो वैशाखः सा वैशाखस्य अमावास्या इति श्रुतौ वैशाखः चान्द्र एवेत्यर्थः या रोहिण्या सम्बुध्यते इत्यनेन वृषराशिघटकरोहिणीयोगस्य अमावास्यायां वृषराशौ सौरज्यैष्ठ एव सम्भवति न तु कदापि मेषराशौ सौरवैशाखे तत्र सूर्य्याचन्द्रमसोरेकराश्यवस्थानाभावात्। तथाच गोभिलः। सूर्याचन्द्रमसोर्यः परः सन्निकर्षः सामावास्या इति। परःसन्निकर्षश्च उपर्य्यधोभावापन्नयोःसूर्य्याचन्द्रमसो राश्येकांशावच्छेदेन सहावस्था-"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_त्येव। ततश्च कादाचित्केनापि योगेन अत्यन्तायोगव्यावृत्त्या तदत्यन्ताभावाभावरूपयोग्यतावलम्बनेनेत्यर्थः।
-
-
-
-
 
 लोकतःभागुरिवचनात् कोषकारस्मरणाच्च माघादिपर्य्यायत्वावधारणात् यो हि[^178]रोहिणीं लोकसिद्धामेव प्राजापत्यनक्षत्रवचनतामादाय चान्द्रस्य वैशाखमात्रस्य श्रुत्या परिग्रहणं वदति स कथं लोकशास्त्रप्रसिद्धम् माघादिपर्य्यायत्वं तपस्तपस्यादीनां बाधते।[^179] भूयसामनुरोधेन रोहिणोपदस्यैव प्राजापत्यनक्षत्रवचनत्वं कुतो न बाधते[^180]। तस्माच्चान्द्रसौरयोरुभयोरपि श्रुति-
 
@@ -3631,10 +3177,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^180]: "एतदेव साधयति भूयसामनुरोधेनेति। विरुद्धधर्म्मसमवाये भूयसां सधर्म्मकत्वमिति न्यायेनेति शेषः। रोहिणीपदस्येत्यादि। तथाच तपस्तपस्यौ शैशिरावृतुरित्यादिश्रुत्या पर्य्यायद्वारा माघादिद्वाददशमासानां सौराणामेव प्रतिपादनात् विरुद्धधर्मसमवाये"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_नम्। तत्सामान्यादितरेष्वपि तथात्वमिति। तथाच वैशाखस्य श्रुतौ चान्द्र एव प्रयोगात्तत्सामान्यात् तत्साधारण्यात् इतरेषु ज्यैष्ठादिष्वपि मासेषु तथात्वं चान्द्रशक्यत्वम्। मुख्या मासपदशक्या इत्यर्थः। अतिदूषणम् अतिमन्दम्। निर्द्दिष्टत्वात् विहितत्वात्।
-
-
-
-
 
 परिगृहीतत्वात् नास्ति यववराहन्यायः[^181]। किञ्च वैशाखपदवाच्यसन्देहे यववराहपदस्येव वैशाखपदस्यभवति नियामिका श्रुतिःन तु तदन्येषाम्[^182]।न ह्यन्यदीयवाक्यशेषेणान्यसंशयोऽपनीयते तत्सामान्यादिति न्यायेन च[^183] लोकशास्त्रप्रसिद्धतप-
 
@@ -3647,8 +3189,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 भूयसां सधर्म्मकत्वमिति न्यायेन बहूनामनुरोधात् रोहिणीपदस्यैव प्राजापत्यनक्षत्रवचनत्वं कथं न बाधते तथाच पर्य्यायद्वारा वैशाखादिद्वादशमासानां सौरत्वावगमात् सौरे च वैशाखे अमावास्यायां रोहिणीयोगस्यासम्भवात् बहूनामनुरोधात् वरं रोहिणीपदस्य लक्षणया अश्विन्यादिपरत्वमस्तु इति भावः।
 
-
-
 स्तपस्यादिपर्य्यायतयामाघादिशब्दानामवधृतसौरवचनत्वबाधे[^184]यववराहादिषु म्लेच्छप्रसिद्धे[^185] र्बाधादप्येकनियतामरकोषादिष्वपि
 
 [^184]: "अन्यदीयवाक्यशेषादेरन्धसन्देहनिरासकत्वे प्रतिबन्धिमाह लोकशास्त्रप्रसिद्धेति। लोकशास्त्राभ्यां प्रसिद्धा तपस्तपस्यादेर्या पर्य्यायता तथा अवधृतसौरवचनत्वबाधे अवधृतसौरशक्तेर्बाधस्वीकारे इत्यर्थः। तथाच सा वैशाखस्यामावास्या इति श्रुतौ श्रौततया वैशाखपदस्य चान्द्रवैशाखपरत्वेन शक्तौ निर्णीतायामपि वैशाखपदस्योपलचणत्या तपस्तपस्यौ शैशिरावृतुरित्यादि श्रुत्या तपस्तपस्यादीनां सौरतया तत्पर्य्यायडारा माघादीनामपि प्रतीतसौरशक्तोः निरुक्तश्रुत्या वैशाखपदस्योपलक्षणतया बाधःस्वीक्रियते इति भावः।"
@@ -3656,8 +3196,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^185]: "यववराहादिषु म्लेच्छप्रसिद्धेर्वाधादिति। यवपदस्य म्लेच्छप्रसिद्धेः प्रियङ्गुषु म्लेच्छानां यवव्यवहारस्य कृष्णशकुनौ च म्लेच्छानां वराहव्यवहारस्य च अथैते सोदमानास्तिष्ठन्तीति वराहं गावोऽनुषावन्तीति श्रौतवाक्य शेषेण बाधादपीत्यर्थः। तथाचाधिकरणः-मालायां माधवाचार्य्यः। यवादिशब्दाः किंह्यर्था नो वार्य्यम्लेच्छसाम्यतः। दौर्घशूके प्रियङ्ग्वाद्या द्वयेऽप्यर्था विकल्पिताः॥ यत्रान्या इति शास्त्रस्थप्रसिद्धिस्तु बलीयसी। शास्त्रीयधर्मे तेनात्र प्रियङ्गादिर्न गृह्यते॥ १५ ॥ यवमयश्वरुर्भवति वाराही उपानहावुपयुञ्ञ्जत इति श्रूयते। तत्र यवशव्दमार्थ्या दीर्घशूके प्रयुञ्जते वराहशब्दञ्च शूकरे । म्लेच्छास्तु यवशब्दं प्रियङ्गुषु वराहशब्दं कृष्णशकुनौ। तथा सति लोकव्यवहारेण निश्चितव्येषु शब्दार्थेषु आर्य्यम्लेच्छप्रसिद्ध्योः समानबलत्वादुभयविधा अप्पर्थाविकल्पेन स्वीकार्य्या इति प्राप्त ब्रूमः। शास्त्रीयधर्म्मावबोधे शास्त्र प्रसिद्धिर्बलीयसौ प्रत्यासन्नत्वात् अविच्छिन्नपारम्पर्य्यागतत्वाच्च। शास्त्रे च यवविध्यर्थवाद एवं श्रूयते। यत्रान्या औषधयः म्लायन्ते अथैते सोदमाना इवोत्तिष्ठन्तीति। इतरौषधिविनाशकाले अतिवृद्धिदीर्घशूकेदृश्यते न तु प्रियद्भुषु तेषामितरौषधिपाक-"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_सम्बन्धः तथाच न्यायस्य शास्त्रतोदुर्बलत्वादत्र शुक्रश्च शुचिश्च ग्रैष्मावृतुरित्यादि श्रुत्या पर्य्ययद्वारान्यैष्ठादीनां सौरे वाच्यत्वनिर्णयात् सन्देहाभावेनात्र न्यायानवसर इति भावः।
-
-
 
 बाध्येत। तस्मात्तपस्तपस्यौ शिशिरौ तो मासौ माघफाल्गुनौ। तथा तपा माघेऽथ फाल्गुने स्यात्तपस्य इत्यादि भागुरिकोषकारस्मरणाल्लोकतश्च तपस्तपस्यादिपदसमानार्थतावगतेः तैश्च श्रुतावुपनीतत्वात् माघादिशब्दानामपि श्रुतित एव सौरार्थत्वावगतेः[^186]। बहूनामनुरोधेन वैशाखादिपदस्यैव अन्यथा वर्णन
 
@@ -3670,23 +3208,17 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति विध्यर्थाकाङ्क्षया प्रवर्त्तमानात् वाक्यशेषाद्दीर्घशूके एव यवपदशक्तिग्रहात् कङ्गप्रभृतौ म्लेच्छानां यवव्यवहारेऽपि शिष्टानां न तद्भवतीत्याह।
 
-
-
 मुचितमिति विपरीतोऽत्र यववराहादिन्यायो युक्तः[^187]। न च
 
 [^187]: "बहूनामनुरोधेनेति। विरुद्धधर्म्मसमवाये भूयसां सधर्म्मकत्वमित्यादि न्यायादिति। विरोधो यत्र वाक्यानां प्रामाण्यं तत्र भूयसाम्। तुल्यप्रमाणसत्त्वे तु न्याय एव प्रवर्त्तकः॥ इति वचनाच्चेति शेषः। अन्यथावर्णनं सौरपरत्ववर्णनम्। तथाच एतदुदगयनम् एतद्दक्षिणायनमित्यनेन अयनयोरुक्तत्वात् सूर्य्यगत्या अयनस्य सौरत्वस्य सिद्धत्वाच्चतद्घटकानां तपस्तपस्यादिद्वादशानामेव सौरत्वेन विरुद्धधर्म्मसमवाये भूयसां सधर्म्मकत्वमिति न्यायात् भूयसामनुरोधेन मासानां सौरपरतया शक्तिसिद्धौ सत्यां सा वैशाखस्यामावास्या या रोहिण्या सम्बुध्यते इति श्रुत्यन्तरस्य अन्यथानुपपत्त्यतत्रस्थरोहिणीपदस्य लक्षणया आश्विन्यादित्वेनान्वयसम्भावात् वैशाखपदस्य सौरपरत्वमिति भावः। विपरीतयववराहादिन्यायो युक्तः यववराहादिन्यायस्य व्यतिक्रमो युक्त इत्यर्थः। यच्चात्र स्मार्त्तेन दूषणमभिहितं सा वैशाखस्यामावास्या या रोहिण्या सम्बुध्यते इति श्रुत्या चान्द्र औपदेशिकी शक्तिः क्लृप्ता सौरे तु तपस्तपस्यादिश्रुत्या पयायद्वारा शक्तिकल्पना सा च क्लृप्तशक्तिविरोधाद्भवितुं नार्हति। तन्न चान्द्रे क्लृप्तशक्तिस्तु परभसिद्धैव। तथाच मधुश्च माधवश्व वासन्तिकावृतुरिति श्रुतौ मधुमाधवपदयोरयनघटकतया सौरपरत्वमवश्यं वाच्यम्। सा वैशाखस्यामावास्या या रोहिण्या सम्बुध्यते इति श्रुतौ रोहिण्या वृषघटकतया तद्युक्तामावास्यायाः सौरवैशाखे असम्भवाच्चान्द्रवैशाखपरत्वम् अवश्यं वाच्यम्। ततश्च मधुश्च माधवश्व इति श्रुतौ अयनघटकतया मधुमाधवपदस्य सौरपरत्वात् तदेकवाक्यतया सा वैशाखस्यामावास्या इतितौ वैशाखपदस्य सौरपरत्वान्यथानुपपत्त्याअन्यायश्चानेकार्यत्वमिति न्यायेन श्रुत्यैकवाक्यतया च तत्रत्यरोहिणीपदस्यागत्या लक्षण्या अश्विन्यादिपरत्वस्यावश्यकत्वं कथं चान्द्रे क्लृप्तशक्तिः सङ्गच्छते।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_घटकतपस्तपस्यादीनां सुतरां सौरत्वं माघादिशब्दानां श्रुतित एव तपश्व तपस्यश्च शैशिरावृतुः मधुश्च माधवश्च वासन्तिकावृतुः शुक्रश्च शुचिश्च ग्रैष्मावृतुः। अथैतदुदगयनं देवानां दिनम्। नभाश्चनभस्यश्च वार्षिकावृतुः इषश्च उर्जश्चशारदावृतुः। अथैतद्दक्षिणायनं देवानां रात्रिरिति श्रुतितश्वेत्यर्थः।
 
-
-
 पाणिनिपुरस्कारः तस्यापि नवसु सौरेषु विशेषात् माघपौषाश्विनेषु हि तत्पुरस्कारः। स चात्यन्तयोगव्यावृत्त्या वाच्यः[^188] सोऽपि न सम्भवति। एकस्या एव हि व्यक्तेःकादाचित्कयोगेनात्यन्तायोगव्यावृत्त्या भवति विशेषणम्।यथा त्रिदण्डीपरिव्राजक इति यस्यैव दण्डत्रयं स एवकरस्थेनापि त्रिदण्डेन त्रिदण्डीत्युच्यते न तु परिव्राजकान्तरम्। अन्यथा परिव्राजकत्वसामान्यादेकदण्डोऽपि त्रिदण्डीत्युच्यते त्रिदण्डी चैकदण्ड इति। अत्र च कस्याञ्चिच्चान्द्रव्यक्तौ नक्षत्रयोगो नास्त्येव। तेन तत्र नात्यन्तायोगव्यावृत्तिरयोगादेव। यस्याञ्च योगः[^189]
 
 [^188]: "पाणिनिपुरस्कारः नक्षत्रेण युक्तः कालः सास्मिन् पौर्णमासीति सूत्रद्वयानुसारेण मासर्क्षयुक्तपौर्णमासीयोगःसौरशक्तौ न च सम्भवतीत्यर्थः। तदेव दर्शयति नवसु इत्यादि। तस्यापि तादृश्योगस्यापि नवसु कार्त्तिकमार्गशीर्ष फाल्गुनचैत्रवैशाखज्यैष्ठाषाढ़श्रावणभाद्रेषु नवसु सौरमासेषु अविशेषात् अविशेषेण योगप्राप्तेः माघपौषाश्विनेषु स तत्पुरस्कारःसौरेषु तेषु मासर्क्षयुक्तपौर्णमासीयोगः न च सम्भवति षड़ष्ट केनावस्थानादिति शेषः। स च योगः अत्यन्तायोगव्यावृत्त्या तदत्यन्ताभावाभावरूपयोग्यतया वाच्य इत्यर्थः।"
 
-
 [^189]: "निषेधयति सोऽपि न सम्भवतीति। एकस्या एव व्यक्तेरिति एवकारेण भिन्नव्यक्तेर्व्यवच्छेदः कादाचित्कयोगेन यदा कदाचित् एकवारयोगेन अत्यन्तायोगव्यावृत्त्या अत्यन्तयोगाभावाभावसत्त्वेन भवति विशेषणमिति अभावविरहात्तत्त्वं वस्तुनः प्रतियोगिता इति स्मरणात् तदत्यन्ताभावाभावस्य प्रतियोगिरूपतया विशेषेण भवतीति भावः। अत्र दृष्टान्तमाह यथा त्रिदण्डी परिव्राजकः स एव करस्थेनापि त्रिदण्डेन करे दण्डत्रयधारणेन। एतेन त्रिदण्डीति यौगिक इत्युच्यते न तु परिव्राजकान्तरमिति परिव्राजकस्य त्रिदण्डीति संज्ञा न त्वित्यर्थः। अन्यथा संज्ञास्वीकारे परिव्राजकत्वसामान्यात् परिव्राजकत्वधर्मवत्त्वात् एकदण्डोऽपीति अपिकारात् दण्डरहितोऽपि त्रिदण्डी उच्यते उच्यतामित्यर्थःतथाच एक-"
-
 
 तत्रापि योगो नित्यो न कादाचित्कः। चान्द्रत्वेनैकतामादायोच्यत इति चेत् न। मासान्तरीयचान्द्राव्यक्तावपि चान्द्रत्वविशेषात्तत्पदवाच्यता स्यादिति[^190]। वैशाखादिपदानामन्योऽन्यपर्य्यायत्वं प्रसज्येत। मेषाद्यारब्धप्रतिपदादिमासतयैकत्वेनात्यन्तायोगव्यावृत्तिरुच्यते इति चेत् तर्हि मेषादारब्धत्वमात्रे चान्द्रसौरव्यक्तीनामप्येकत्वात्। सौरेऽप्यत्यन्तायोगव्यावृत्त्या विशेषत्वम् अप्रतिहतम्। वैशाखादिप्रयोगविषयत्वे लोकसिद्धे हि पाणिनेरनुशासनम्। अन्यथा तिथ्यन्तरारब्धेषु सावनेषु चाविशेषात्। सौराणाञ्च वैशाखादिपदप्रयोगविषयत्वं चान्द्रस्येवाविशिष्टं तममादे तदप्यविरुद्धम्। किञ्च विशाखानक्षत्रयुक्ता पूर्णिमा कदाचिदस्मिन्मासि भवतीति वैशाखपदप्रवृत्तौ पाणिनिपुरस्कारे वैशाखपदावयवोपात्तस्य विशाखायुक्तपूर्णिमायोगस्य प्रवृत्तिनिमित्तत्वात्। कथमयौगिकत्वं पदावयवोपात्तस्य हि
 
@@ -3694,13 +3226,9 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_दण्डधारणात् एकदण्डी परिव्राजक इति। दण्डपरित्यागात् अदण्डपरिव्राजक इति शिष्टव्यवहारविरोधःस्यादिति भावः। त्रिदण्डी चैकदण्ड इति तथाच यद्यनयोः परिव्राजकस्य संज्ञा दण्डधारी च त्रिदण्डीत्युच्चतामित्यापततीत्ति भावः। नक्षत्रयोगो नास्त्येव माससंज्ञक नक्षत्रयोगस्यात्यन्ताभावः। तेन हेतुना अत्र अयोगादेव न अत्यन्तायोगव्यावृत्तिः न नक्षत्रयोगस्य अत्यन्ताभावाभावः। यस्याञ्च चान्द्रव्यक्तौ च योगः नक्षत्रयोगः।
 
-
-
 प्रवृत्तिनिमित्तत्वेन यौगिकत्वं सम्भवतीति त्रिदण्डीतिवत्[^191]। यथा चैकादशाध्यायाद्यपूर्व्वपक्षे स्वर्गकामनाया अत्यन्तायोगव्यावृत्त्या विशेषणत्वेऽपि यौगिकत्वमेव स्वर्गकामपदस्य न रूढ़िःकल्पना-
 
 [^191]: "अन्योऽन्यपर्य्यायत्वं प्रसज्येत इति। तथाच यदि चान्द्रत्वरूपसामान्यधर्म्म एव प्रयोजकः स्यात् तदा तादृशसामान्यधर्म्ममादाय वैशाखो न्यैष्ठपर्य्यायः स्यात् ज्यैष्ठोऽपि वैषाखपर्य्यायः स्यात् एवमपरापरोऽपि अपरापरमासपर्य्यायः स्यादिति भावः। मेषाद्यारब्धप्रतिपदादिमासतया मेषादिस्थरव्यारब्धशुक्लप्रतिपदादिदर्शान्तमासत्वेनैक्यमादाय अत्यन्तायोगव्यावृत्तिः नक्षत्रयोगात्यन्ताभावाभावरूपयोग्यता उच्यते इत्यर्थः। तर्हि तादृशमासत्वसामान्य धर्म्मेणैकत्वमादाय अयन्तायोगव्यावृत्तिः तदत्यन्ताभावाभावरूपयोग्यतास्वीकारे चेत्यर्थः मेषाद्यारब्धकालीनचन्द्रक्रियाया अव्यभिचारित्वे चान्द्रसौरव्यक्तीनामप्यैकत्वात् तत्क्रियाघटित चान्द्रसौरमासव्यक्तोनामप्यैक्यसम्भवादित्यर्थः। सौरेऽत्यन्ता योगव्यावच्या अपरचान्द्रवत् सौरेऽपि नक्षत्रयुक्तपौर्णमासीयोगात्यन्ताभावाभावरूपयोग्यतासत्त्वात् विशेषणत्वं मासर्क्षयुक्तपौर्णमासौविशेषणत्वम् अप्रतिहतम् अविरुद्धं सौरमासस्येति शेषः। पाणिनेरनुशासनं मासर्क्षयुक्त पौर्णमासीयोगानुसरणम् अन्यथा तादृशानुशासनास्वीकारे तिथ्यन्तरानुरब्धेषु मुख्य चान्द्रेषु सावनेषु च गौणचान्द्रेषु च अविशेषात् विशेषाभावात् चान्द्रस्येव चान्द्रे यथा वैशाखादिपदप्रयोगः तथा सौरेऽपौत्यर्थः। अस्मिन् मासि भवतीति हेतौ वैशाखपदप्रवृत्तौवैशाखजन्यशक्ति प्रतिपादितमुख्यार्थबोधे पाणिनिसूत्रसाधितवैशाखपदस्यावयवोपात्तस्य एकदेशीभूतस्य तत्पुरस्कारस्य पाणिनिमासपद विशेषणत्वेन गृहीतस्य प्रवृत्तिनिमित्तत्वस्याभावात् अनियततया शक्यतावच्छेदकत्व स्याभावादित्यर्थः। कथं यौगिकत्वं मासस्येति शेषः तथाच अतिप्रसत्ताद्यनापादकनियतलघुधर्म्मिणि अवच्छेदकत्वस्वीकारात् कादाचित्कत्वेनानियततया प्रवृत्तिनिमित्तत्वाभावात् न मासस्य यौगिकत्वसम्भव इति भावः। पदावयवीपात्तस्य एकदेशोभूतस्य नियत विशेषणत्वेन गृहीतस्य प्रवृत्तिनिमित्तत्वेन शक्यतावच्छेदकधर्म्मेवश्वेन यौगिकत्वं भवति सिध्यतीति भावः।"
-
-
 
 गौरवात्[^192]। अथ व्यक्त्यन्तरयोगं विनापि रथमकुर्व्वति रथकार-
 
@@ -3714,8 +3242,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  ‘ननु च नैवात्र स्वर्गः फलं श्रूयते - स्वर्गकामपदेन तावत् पुरुषोऽभिधीयते, यजेतेत्यनेनापि यागनिर्वृत्तिः, तयोर्वाक्येन सम्बन्धः, केनेदानों फलमुच्यते ?' अनेनैव स्वर्गकामपदेने याह। 'ननु पुरुषस्य अयं वक्ता'। न खलु कश्चित् पुरुषः स्वर्गकामी नामास्ति। 'ननु च यस्य स्वर्गे कामः स स्वर्गकाम इति'। एतदेव न जानीमः कस्य स्वर्गे काम इति, य एव हि स्वर्गकामः स एवावर्गकामो भवति इति। 'एवं तर्हि कालोपदेशोऽयं भवति – यदा स्वर्गकामस्तदा यजेत इति'। अवापि न कश्चित् कालविशेषोऽस्ति, यस्मिन्नियमेन स्वर्गकामः स्यात्. सर्व्वेषु कालेषु सर्व्वे कामा अनियमेन उत्पद्यन्ते। तत्र न कश्चित् कालविशेषोऽनेन शक्यते व्यपदेष्टुम्। 'एवं तर्हि नैवायं पुरुषोपदेशो नापि कालोपदेशः, किं खलु फलकामो निमित्तं, स्वर्यविषये कामे उत्पन्ने यजेत इति यथा कपाले नष्टे यजेत इति। अस्य पक्षस्य मूत्रेणैव परिहार उक्तः,- "फलकामो निमित्तमिति चेत्” (६\।२\।६)।"न नित्यत्वात्" (६\।२१०) इति । नित्यानि अग्निहोत्रादौनि कर्माणि तानि यदि निमित्ते विधीयन्ते, नित्यत्वमेषां विहन्येत । तत्र
 
-
-
 पदस्येव दर्शनादयौगिकत्वम्[^193]। तदाह पाणिनिः"योगप्रमाणे
 
 [^193]: "सर्व्वस्यां व्यक्तौ योगाभावेऽपि यस्यां कस्याञ्चितौ योगेऽपि यौगिकत्वं मासस्य स्यादित्याशय निराकुरुते अथेत्यादि। व्यक्त्यन्तरयोगात् विनापीति अन्या व्यक्तिः व्यक्त्यन्तरम् अत्र योगं विना सद्योगोऽस्ति मासर्क्षयुक्त पौर्णमासीयोगोऽस्ति इति हेतौ तत्पुरस्कारः सास्मिन् पौर्णमासौति पाणिनिसूत्रेण यौगिकत्व सिद्धिः। मेषस्थसूर्य्यावयवायां मेषस्थरव्यारब्धायामित्यर्थः। तत्समानजातीयतया चान्द्रमासारब्धकाले सौरमासस्याप्यारब्धतया अत्यन्तायोगव्यावृत्च्या तादृशपौर्णमासौयोगात्यन्ताभावस्याभावेन विशेषणत्वे मासर्क्ष-"
@@ -3724,8 +3250,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 परिशेषात् फलसंयोग एवायम्। 'कथं पुनरनेन शक्यते फलं विधातुम् ?' तदुच्यते, ‘स्वर्गकामो यजेत' इति। यदि वा स्वर्गकामो यागायोपदिश्यते यथा 'लोहितीणौषाः' ; यदि वा यागः स्वर्गकामाय, यथा मलिनःस्नायात्, बुभुक्षितोऽश्नीयात् इति। तत्र यदि स्वर्गकामः कर्म्मणे उपदिश्यते, उपदिष्टोऽपि न प्रवर्तेत, कोहि परार्थं प्रयासमातिष्ठेत् ? तथा कर्म्मचोदनाऽनर्थिकैव भवति, अय यागः स्वर्गकामार्थः, ततोऽसौ पुरुषस्योपकरोति, तं पुरुषः स्वार्थेन करोति इति ; तथा कर्म चोदना अर्थवती भवति। अपिच यागविधौ श्रुत्यर्थः परिगृहोतो भविष्यति, स्वर्गकामविधौ वाक्यार्थः। तस्माद्यागः स्वर्गकामस्योपकारकः। स्वर्गकामस्य अनेकपुत्रपगुग्रामात्रायादिलाभकरः, स यदि पुत्रान्नाद्यादीनामन्यतमं करोति, ततः स्वर्गकामशब्दोऽविवक्षितार्थः पुरुषमात्रवचनो भवति; तथाच आनर्यक्यमेव, अन्तरेणापि हि तद्वचनं पुरुषमात्रमाख्यातादेव गम्यते। तस्मादुयागात् स्वर्गो भवति। तत्रानेक कम सन्निपाते दर्शपूर्णमासादिषु भवति संशयः, किं तन्त्रमेषां फलम्, उत भेदेन ? इति। किं प्राप्तम् ? – भेदेन इति। किं कारणम् ? इमानि आग्नेयादीनि प्रधानानि परस्परानपेक्षाभिश्रीदनाभिः पृथग्भूतानि उत्पन्नानि पृथगेत्र फलमाकाङ्क्षन्ति। तत्सन्निधौ स्वर्गादिफलं श्रयमाणं भेदेनाकाङ्क्षितत्वाद्भेदेनैव सम्बध्यते। तस्मात् प्रति प्रधानं फलमेद इत्येवं प्राप्तम्।
 
-
-
 च तदभावेऽदर्शनं स्यात्”। यौगिकस्य योगाभावे प्रयोगः स्यात् इत्यर्थः। न चात्राप्रयोग इति न यौगिकत्वं तन्न अतएव रथकरणस्येव नात्यन्तायोगव्यावृत्त्या विशेषणत्वमपीति कथं पाणिनिपुरस्कारः। कस्याञ्चिच्चान्द्रव्यक्तौ तद्योगो नास्तीति तत्पुरस्कार इति चेन्न मेषस्थसूर्य्यारब्धायां कस्याञ्चिच्चान्द्रव्यक्तौयोगदर्शनादेवं सौरस्यापि मेषस्थादित्यारब्धत्वेन समानजातीयतयात्यन्तायोगव्यावृत्त्या विशेषणत्वेन पाणिनिपुरस्कारविरोधात्। अतएव दीक्षितेन तत्पुरस्कारमभिधायापि तदपरितोषेण कारणान्तरमेवोक्तम्। अथ सन्देहस्तथापि वाच्यसन्देहे यववराहादिश्रुतितो नेष्यते (१)[^3] श्रुतितोपमेष्यते इति क्वचिदादर्शे पाठः।") “सा वैशाखस्यामावास्या या रोहिण्या सम्पद्यत” इत्यन्तं तदपि च दूषितम् उभयोरपि श्रौतत्वात्[^195] विपरीतो वा यावद्विशेषः। वैशाखादयो द्वादशैव
 
 [^3]: "(१
@@ -3733,8 +3257,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^195]: "सूत्रार्थं स्वयं व्याकरोति यौगिकस्येत्यादि। न चात्र नर्ह्येव इति हेतौ यत एव योगाभावे न यौगिकत्वं रथकरणस्येव रथकारस्येव अत्यन्तायोगाभावेनापि न विशेषणत्वमित्यर्थः इति हेतौ। यत एव न पाणिनिपुरस्कारःअतएवेत्यर्थः। यववराहत्रकुतितो नेष्यते इति। यवे वराहे च यथा वाच्यसन्देही नास्ति, तद्वदत्रापि श्रुतितो वाच्यसन्देहो न इष्यते। श्रुतिं दर्शयति सा वैशाखस्यामावास्या इत्यादौति। उभवोरपि श्रौतत्वात् चान्द्रसौरयोरुभयोरपि वाच्यतायाः श्रुतिप्रतिपादितत्वादित्यर्थः। एतदपि दूषितमित्यत्र हेतुः।"
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_युक्तपौर्णमासीयोगस्य सौरमासविशेषणत्वेः इत्यर्थः। रथकारपदस्थेव रथम् अकुर्व्वति रथ कारपदस्य यथा न यौगिकत्वम्।
-
-
 
 मासाः सौराः श्रौताः।चान्द्रतु वैशाख एव परंश्रौतः। तदेवं भूयसामनुरोधेनसौरवचनत्वमवधार्य्यते।पाणिनेस्तु प्रकृतिप्रत्ययविभागकरणं स्वरमात्रप्रयोजनकम्।
 
@@ -3749,9 +3271,7 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 किञ्च मेषादित्योपक्रान्तत्वोपाधिना चान्द्रवैशाखो वाच्यः। मेषादित्यकाल एव सौरो वैशाखः। तेन सौरावगमसापेक्षा[^198]
 
-
 [^198]: "सौरशक्तौ लाघवं दर्शयति किञ्चेति। मेषादित्योपक्रान्तोपाधिना मेषस्थरव्यारब्धशुक्ल प्रतिपदादिदर्शान्तत्वधर्म्मेण। मेषादित्यकालः मेषस्थरविकाल एव। सौरावगमसापेक्षा सौरज्ञानसापेक्षा।नाग्टहीत विशेषणबुद्धिर्विशेष्ये चोपजायते इति न्यायादिति शेषः।"
-
 
 चान्द्रावगतिर्जघन्या सौरात्। तत्र तर्हि मेषादिस्यसूर्य्योपक्रान्तत्वमेव।सौरचान्द्रयोरेक वैशाखादिप्रवृत्तर्निमित्तमस्तु उभयत्र च मुख्यमिति[^199]। नैतत् शुक्लप्रतिपदितरतिथ्यारब्धेषु दर्शेतरान्तेषु सावने च त्रिंशदहोरात्रकेऽतिप्रसङ्गात्। न च तेभ्यो व्यावृत्तं सौरदर्शान्तचान्द्रमात्राभिधाने शक्तिभेदापत्तेः (१)[^3] तेभ्यो व्यावृत्तं सौरदर्शान्तचान्द्रमात्रानुमतं किञ्चद्रूपमुपलभामहे। तस्मादुभयाभिधाने शक्तिभेदापत्तेरिति आदर्शद्वये पाठः।") सौरवचनत्वमेव[^201]। तेन मेषभोगो यावत्कालं स वैशाखः वृषादिभोगावच्छेदे च ज्यैष्ठादयः सौराः। तत्रैकस्मिन् वत्सरेराशिभोग-
 
@@ -3760,8 +3280,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^199]: "चान्द्रावगतिरिति। तथाच प्रथमोपस्थितत्वात् सौर एव मुख्यश्चैत्रादिशब्दवाच्य इत्यर्थः। ननु तर्हि सौरे शक्तिस्वीकारेऽपि मेषादित्येमेषस्थरवौ सौरवैशाखेऽपि चान्द्रस्य उपक्रान्तत्वम् आरब्धत्वमेव सौरचान्द्रयोरिति वृत्तित्वं सप्तम्यर्थः वैशाखादिप्रवृत्तेः वैशाखादिपदशक्तेरेकं निमित्तं कारणमस्तु। उभयत्र मुख्यत्वमिति तथाच उभयत्र सौरे चान्द्रे च सासपदं मुख्यमिति भावः।"
 
 [^201]: "दूषयति नैतदिति। शुक्ल प्रतिपदितर तिथ्यारग्धेषु दर्शेतरान्तेषु तथाच यदि सूर्य्येणारञ्चत्वमेकं निमित्तं स्यात् शुक्लपदितरतिथ्यारन्धेषु दर्शेतरान्तेषु प्रतिपदन्तेषु यत्किञ्चित् त्रिंशत्तिथ्यात्मकतिथिचान्द्रेषु इत्यर्थः। एवं त्रिंशदहोरात्रात्मकसौरसावनेषु च अतिप्रसङ्गादतिव्याप्तेरित्यर्थः यथाश्रुतन्तु न सङ्गच्छते। वैशाखादि प्रवृत्तेरित्युक्तः तादृशमासयी बैंशाखादिसंज्ञाविरहादतिप्रसङ्गाप्रसक्तेः। वस्तुतस्तु शुक्लपदितरतिथ्याब्धेषु कृष्णप्रतिपत्तिय्यारब्धेषु दर्शेतरान्तेषु पौर्णमास्यन्तेषु गौणचान्द्रवैशाखादिषु अतिप्रसक्तेरित्यर्थः। चकारानवस्थायां पूर्वोक्तदोषमात्रं साधीयः। तेभ्यो व्यावृत्तं गौणचान्द्रादिभ्यो व्यावृत्तं सौरदर्शान्तचान्द्रमात्रानुमतमिति न च नहीत्यर्थः। शक्तिभेदापत्तेः नानाशक्तिकल्पनापतेःसौरवचनत्वमेवेति तथाच वैशाखादिपदं सौरमात्रशक्तमिति भावः।"
-
-
 
 स्यावृत्त्यभावात्नाधिमासोऽत्रानुगतं किञ्चिद्रूपमुपलभामहे। तस्मात् उभयविधाने न मलिम्लुचो न च द्विराषाढादिकं चान्द्रस्तु गौणः। तथापि संक्रान्तिचिह्निते द्विराषाढ़ादिकन्नास्ति[^202]। यथा ब्रह्मगुप्तः। मेषगरविसंक्रान्तिःशशिमासे भवति यत्र स चैत्रः(१)[^3] तच्चैत्रम् इति क्वचिदादर्शे पाठः।")। एवं वैशाखाद्या वृषादिसंक्रान्तियोगेन न ह्येकस्मिन्वत्सरे मेषादिसंक्रान्तिरावृत्ता भवति। तेनात्रापि न मासावृत्तिः। अतोऽस्मिन् वचने मेषगरविसंक्रान्त्यादिपदानि मीनाद्युपक्रान्तलक्षणानि। मीनाद्युपक्रान्तेष्वेव चान्द्रेषु मेषादिसंक्रान्तेर्नियतत्वात्। अतएवोपक्रान्तलक्षणायामुपक्रान्तत्वस्य गौणवैशाखादिपदप्रवृत्ताविदं प्रमाणम् \। यथा-
 
@@ -3774,21 +3292,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^204]: "प्राचीनब्रह्मगुप्तमासलक्षणं दर्शयति तथा ब्रह्मगुप्त इति। मेषग इत्यादि। यत्र शशिमासे मुख्यचान्द्रे मासि मेषगरविसंक्रान्तिः मीनतो मेषराशौ रविसञ्चारो भवति म"
 
-
-
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_चैत्रनामा मुख्यचान्द्रमासो भवतीत्यर्थः। एवं यत्र यत्र मुख्यचान्द्रमासि वृषादिराशौरविसञ्चारो भदति सचान्द्रवैशाखादिर्भवति। नहीति आवृत्या पौनःपुन्येन एकस्मिन्मेषादिमीनपर्य्यन्तसौर संवत्सरे मेषादिसंक्रान्तिर्नहि भवति। तथाच रवेर्वक्रातिचाराभावात् मेषादिमीनपर्य्यन्तेषु द्वादश राशिषु यथाक्रममेव सञ्चारो भवति न त्वेकस्मिन् संवत्सरे पुनः पुनर्मेषादिसंक्रान्तिर्भवितुमर्हतीति भावः। तेन अत्र न सौरमामावृत्तिः नैकसंज्ञकमासद्वयम्। अस्मिन् वचने ब्रह्मगुप्तलक्षणे मेषगरविसंक्रान्त्यादिपदानि मेषगतरविसंक्रान्तिः आदिर्येषां तानि पदानि मीनाद्युपक्रान्तलक्षणानि मीनादिस्थरव्यारब्धलक्षणानि शशिमासपदानीत्यर्थःमीनाद्युपक्रान्तेषु मीनादिस्थरव्यारब्धेष्वित्यर्थः। यत एव मीनाद्युपकान्तादौ नियतत्वम् अतएवेत्यर्थः। उपक्रान्तलक्षणायां मेषादिराशिस्थरव्यारब्धत्वेन शशिमासलक्षणायामित्यर्थः। उपक्रान्तत्वस्य मेषादिस्थरव्यारब्धत्वरुपधर्म्मस्थ गौणवैशाखादिपदप्रवृत्तौ गौणवैशाखादिपदजन्यबोधविषयतावच्छेदकत्वे च इदं ब्रह्मगुप्तलक्षणं प्रमाणम्। तथाच शशिमासानियततया नियतरूपेण मेषादिरविसंक्रान्तेन्तचासम्भवात् मोनादिस्थरव्याख्यात्वेन शशिमासो विशेषणीयः। ततश्च नागृहीतविशेषणा बुद्धिर्विशेष्ये चोपजायते इति न्यायात् मीनादिराशिस्थरविकालस्योपस्थितौ तत्र शक्यतावच्छेदकत्वकल्पनालाघवेन चैत्रादिपदस्य शक्यत्वसिद्धौ मीनादिस्थरव्यारब्धत्वस्य गुरुधर्म्मतया तत्र शक्यतावच्छेदकत्वकल्पनाया अन्याय्यत्वात् सुतरां लक्ष्यतावच्छेदकत्वकल्पनं समुचितमिति भावः। एकसंज्ञौ एकनामानौ मासौ मलमासशुद्धमासौ क्वचित् माधवादिषट्कमध्ये तत्र तयोराद्यमासे मलमासात् पूर्व्वमासे न तु एकसंज्ञमासयोः प्रथममासे मलमासरूपे पितृकार्य्याणीति कृष्णपक्षकार्य्यमात्रपरं देवकार्य्याणीत्ति शुक्लपक्षकार्य्यपरम्। तथाच मलमासाश्रितं कर्म्म कृष्णपक्षोदितञ्च यत्। तत् कर्त्तव्यं पूर्व्वमासे शुक्लपक्षोदितं परे॥ अथवा पितृकार्य्यपदं प्रेतकार्य्यपरम्। तथाच निर्ममे मलिनं मासं प्रेतानान्तु हिताय वै इति वचनं पूर्व्वमासपरं यथाश्रुतमलमासरुपपूर्व्वमासपरम्। हेमाद्रिस्तु षष्टिभिर्दिवसैर्मासः कथितो बादरायणैः। देवकार्य्याणि पूर्व्वेऽस्मिन् पितृकार्य्याणि चोभयोरिति वचनमधिकं लिखित्वा एवमादीनि मलमासे देवकार्य्यपितृकाय्येप्रतिपादकानि वचनानि आवश्यकदेवकार्य्यपितृकार्य्य विषयाणि द्रष्टव्यानीति व्याख्यातवान्।
-
-
 
 तथा ज्योतिःशास्त्रम्। “द्विराषाढ़े द्विराद्यम्” इति। संक्रान्तेरनावृत्ततया मासद्वयस्यैकनामतानुपपत्तेरेकराशिस्थे तु सूर्य्येऽधिमासे प्रतिपदादिदर्शान्तस्य मासद्वयस्योपक्रान्ततया भवति समाननामत्वम्। तन्निर्देशार्थमेव संक्रान्तिपदं भूयसामनुरोधेन वा मुख्यार्थमेव ब्रह्मगुप्तवचनं वर्णयिष्यामः। मेषाद्युपक्रान्तत्वं चान्द्रे गौणत्वं चान्द्रे गौणवैशाखादिपदप्रवृत्तौ निमित्तं वाच्यं तद्विना निमित्तान्तरादधिमासयोरेकनामत्वानुपपत्तेः। अतएवाधिमासस्य परभूतमासेन सह षष्टिदिनेनैकमासत्वमेकत्रोपक्रान्तत्वसाम्यात् न तु पूर्व्वेण।[^205] संक्रान्तेस्तु निमित्तत्वे मलमासस्य संक्रान्तिशून्यत्वात् पूर्व्वापरयोश्च तद्योगात् न क्वचि-
 
 [^205]: "द्विराषाढ़े मलमासे। सङ्क्रान्तेःएकनामकसङ्क्रान्तेःअनावृत्ततया पुनःप्राप्तसम्भवेन। मासद्वयस्य सौरमासद्वयस्य। प्रतिपदादिदर्शान्तस्य मुख्यचान्द्रस्य। समाननामत्वमिति। तथाच मलमासे चान्द्रमासस्य सङ्क्रान्तिशून्यत्वात् यत्र कृष्णचतुर्द्दश्यां मेषसङ्क्रान्तिः तत्परतः शुक्लप्रतिपदि च वृषसङ्क्रान्तिः तत्र प्रथमचान्द्रमासस्य स्वाव्यवहितमेषस्थरव्यारब्धतया वैशाखत्वम्। एवं प्रतिपदि वृषसङ्क्रान्तेः तदादिदर्शान्तरूपचान्द्रमासस्यापि मेषस्थरव्यारब्धतया च वैशाखत्वं सुतरां समाननामत्वसिद्धिरिति भावः। मेषाद्युपक्रान्तत्वं मेषस्थरव्यारब्धत्वम्। गौणवैशाखादिपदप्रवृत्तौ गौणवैशाखादिपदप्रयोगे। तद्विना मेषायुपक्रान्तत्वस्य निमित्तत्वास्वीकारे। अधिमासयोः मलमासशुद्धमासरूपैकनामक चान्द्रमासदयस्य। अतएव चान्द्रमासयोरेकनामत्वादेव। षष्टिदिनेन षष्टितिथिभिरित्यर्थः। एकमासत्वमिति। तथाच षट्यादिदिवसैर्मासःकथितो बादरायणैरिति। एकजोपक्रान्तत्वसाम्यात् एकराशिस्थरव्यारब्धत्वेन उभयोरेवाभिन्नलक्षणाक्रान्तत्वात्। न तु पुर्व्वेण मलमासात् पूर्व्वमासमादाय तेन सह षष्टिदिनेनैकमासत्वम्।"
-
-
 
 दप्यत्र विशेत्। उभयत्र वा प्रविशेदविशेषात्[^206]। यद्यपि प्रतिपदितरतिथ्यारब्धानां[^207] दर्शेतरतिथिसमाप्यानामपि शशिमासेनोपादानं भवति, तथापि -
 
@@ -3801,8 +3309,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 परतिथ्यन्तरारब्धपूर्व्वतिथिसमापनीयमात्रस्य चान्द्रत्वात् त्रिंशत्तिथिकश्चान्द्र इति वक्तव्ये यद्दर्शद्वयाक्रान्तक्रीड़ीकृतमात्रस्य कीर्त्तनं तद्वैशाखादिपदानां तथाविधमासनामत्वज्ञापनार्थं तस्यानन्यप्रयोजनत्वात् शशिमासग्रहणे वैशाखादिषष्ठमासेषु
 
-
-
 प्रतिवत्सरं षड़धिमासा भवेयुः[^208]। तथाहि द्वितीयायां मेषसंक्रान्तौ तदनन्तरिततृतीयारब्धस्य द्वितीयान्तस्य तृतीयायाचतुर्थ्यां वा वृषसंक्रान्तौ मलमासत्वं स्यात् संक्रान्तिशून्यत्वात्। ततः पञ्चम्यामुपक्रम्य चतुर्थ्यन्तस्य सप्तमीषष्ठयोरन्यत्र मिथुनसंक्रान्तौ मलमासत्वमिति। मेषाद्युपक्रान्तेषु प्रतिपदुपक्रमदर्शान्तेषु चान्द्रेषु गौणा इति सिद्धम्।
 
 [^208]: "इदानीं तिथिचान्द्रस्य मलमासत्वं खण्डयति तथापीत्यादि। दर्शाद्दर्शश्चान्द्र इति दर्शादनन्तरं शुक्लप्रतिपदमारभ्य दर्शान्तश्चान्द्र इत्यर्थः। अतएव विष्णुधर्मोत्तरे। चन्द्रमाःकृष्णपक्षान्ते सूर्य्येण सह युज्यते। सन्निकर्षादथारभ्य सन्निकर्षमथापरम्। चन्द्रार्कयोर्बुधैर्मासश्चान्द्र इत्यभिधीयते॥ त्रिंशद्दिवसस्तु इति। अत्र दिवसपदं तिथिपरं सौरदिनपरमपि तेन सौरसावनचान्द्रसावनश्च लभ्येते। रविसंक्रान्तिचिह्नंआदित्यैकराशिभोगावच्छिन्नः कालः सौरमासः। परतिथ्यन्तरारब्धपूर्व्वतिथिसमापनीयमात्रस्य द्वितीयाद्यारम्भप्रतिपदाद्यन्तमासमात्रस्येत्यर्थः। दर्शदयान्त क्रीड़ौकृतमात्रस्य मुक्तप्रतिपदादिदर्शान्तमात्रस्य। षड़धिमासा भवेयुः मलमास षटकं भवेदित्यर्थः।"
@@ -3814,8 +3320,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तदादित्यादृते सर्व्वा कालसंख्या न विद्यते॥”**
 
 [^209]: "तदेव दर्शयति तथाहोति। द्वितीयायां मेषसङ्क्रान्तौतदनन्तरिततृतीयारब्धस्य"
-
-
 
 तथा ब्रह्मगुप्तः।
 
@@ -3830,8 +3334,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **"अष्टादशनिमेषास्तु काष्ठाः त्रिंशत्तु ताः कलाः।  
 तास्तु त्रिंशत् क्षणस्ते तु मुहूर्त्तो द्वादशास्त्रियाम्॥”**
-
-
 
 तुल्यत्वावधारणेन विनिगमनाप्रमाणाभावात् उभयत्र शक्तिरक्षादिपदानामिव विनिगमनाप्रमाणाभावात् अनेकशक्तिस्वीकारः तदस्तु तावदेकान्ततश्चान्द्रवचनत्वं न निर्ल्लोपनीयम्। सौरवचनत्वं तावत्सिद्धं चान्द्रस्य तु मुख्यार्थत्वेऽपीप्सितपूर्व्वकमीप्सितप्रतीतिवत्[^210]। सौरमेषादिभोगावगमपूर्व्वकत्वाच्चान्द्रवैशाखाद्यवगमस्य जघन्यतया सर्व्वत्र माघादिपदेभ्यः सौराणामेव शीघ्रावगमः।
 
@@ -3852,8 +3354,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“यस्मान्मन्वन्तरस्यादौ रथानापुर्दिवाकराः।  
 माघमासस्य सप्तम्यां तस्मात्स्यात् रथसप्तमी॥ "**
 
-
-
 तथा स्मृतिसमुच्चये।
 
 **"सूर्य्यग्रहणतुल्या हि शुक्ला माघस्य सप्तमी।  
@@ -3867,8 +3367,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_अनुसङ्गेनान्वयः। न निर्ल्लोपनीयं न सर्व्वतीभावेन खण्डयितुं योग्यम्। ईसितपूर्व्वकं प्राप्तुमिष्टम् ईप्सितं तदेव पूर्वं यस्य।
 
-
-
 **"द्विराषाढ़क्रिया तावद्यावद्विष्णोः प्रबोधनम्।  
 विबुद्धे तु हरौ कार्य्याः सूर्य्यगत्येतराः क्रियाः॥”**
 
@@ -3878,13 +3376,9 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^213]: "तथाच बचनस्य यथाश्रुतार्थपरतामादाय क्रमेण व्यभिचारं दर्शयति उपाकर्म्मेत्यादि। योगनिद्रास्थे हरिशयनमध्ये। चान्द्रेण कर्त्तव्यताविधिःचान्द्रमासेन चातुर्म्मास्यव्रतादेःकर्त्तव्यताविधिः। तथाच वराहपुराणम्। आषाढशुक्लद्वादश्यां पौर्णमास्यामथापि वा। चातुर्म्मास्यव्रतारम्भं कुर्य्यात् कर्कटसंक्रमे॥ तदभावे तुलार्केऽपि मन्त्रेण नियमं व्रती। कार्त्तिकशुक्लद्वादश्यां विधिवत् तत् समाचरेत्॥ महाभारते। चतुर्धापि हि तच्चीर्णं चातुर्म्मास्यव्रतं नरः। कार्त्तिक्यां शुक्लपक्षे तु द्वादश्यां तत् समापयेत्॥ यद्यप्यत्र चातुर्म्मास्यव्रते द्वादश्यां पौर्णमास्याम् आरम्भपक्षे द्वयोरेव विध्योःचान्द्रविहितत्वं सम्भवति नापरयोःकर्कटसंक्रान्तितुलार्कारब्धयोः प्रत्युत सौरविहितत्वमेव, तथापि कार्त्तिक- शुक्लद्वादश्यां समापनोक्तेः समाप्तिकालमादायैव तत्सङ्गतिरिति भावः।"
 
-
-
 ततः प्रभृति सौरस्य ग्रहणं वाच्यम्। यतः शयितेऽप्युपाकर्म्म-रोहिण्यष्टमी - श्रवणाद्वादशी-हरितालिकाचतुर्थी सुखरात्रिप्रभृतीनां सौरनियमस्य दर्शनात्। विबुद्धे तु हरौ वह्न्युत्सवार्थञ्चान्द्रनियमदर्शनात्[^214]। तथोत्तरत्रिकाधिमासे आगामिवत्सरे कर्कटे शयिते
 
 [^214]: "शयनात् प्रभृति चान्द्रस्य विरोधाच्चेति। आगामिनि तदा वर्षे कुलीरे माधवः स्वपेत् इति वचनात् इति शेषः। ततःप्रभृति शयनात् प्रभृति हरिशयनमारभ्य इत्यर्थः। अत्र उपाकर्म्म वेदारम्भवेदसमापननामकं कर्म्म। रोहिण्यष्टमी जन्माष्टमीव्रतम्। हरितालिकाचतुर्थी सिंहसम्बन्धिनी शुक्लचतुर्थी। सुखरात्रिकाकार्त्तिकसम्बन्धिप्रतिपद। तथाच स्मृतिसमुञ्चये। उपाकर्म तु कर्त्तव्यं कर्कटस्थे दिवाकरे। हस्तेन शुक्लपञ्चम्यां श्रावण्यां श्रवणेन च॥ अपरमाह गार्ग्यः। सिंहे रवौ च पुष्यर्क्षे मध्याह्ने विचरेद्वहिः। छन्दोगा मिलिताः कुर्य्यरुत्स्मङ्गः सर्व्वछन्दसामित्यादि। भविष्योत्तरे। सिंहराशिगते सूय्यें गगने जलदाकुले। मासि भाद्रपदेऽष्टम्यां कृष्णपक्षेऽर्द्धरात्रके॥ शशाङ्के वृष राशिस्थे नक्षत्रे रोहिणीयुते। वसुदेवेन देवक्यामहं जाती जनाः स्वयम्॥ एकेनैवोपवासेन कृतेन कुरुनन्दन। सप्तजन्मकृतात् पापात् मुच्यते नात्र संशयः॥ अथ श्रवणाद्वादशी भविष्योत्तरे। मासि भाद्रपद शुक्ला द्वादशी श्रवणान्विता। महती द्वादशी ज्ञेया उपवासे महाफला॥"
-
-
 
 भगवति श्रीपती शक्रदुर्गाविष्णूत्थानानां सिंहकन्यातुलास्वेव दर्शनात्। शयिते विबुद्धे च हरौ मन्वन्तरादितिथीनां विहितत्वात्\*
 
@@ -3911,8 +3405,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \*उत्तरत्रिकाधिमासे श्रावणादिमासत्रयमध्ये मलमासपाते आगामिवत्सरे इति। तथाच श्रावणादौ मलमासपाते तत्पूर्वाषाढ़े हरिशयनस्य जातत्वात् मलमासात् परंमासवृद्धौ आगामिवर्षे चान्द्राषाढ़ःकर्कट एव सौरश्रावण एव सम्भवतीति भावः।
 
-
-
 सौरचान्द्रयोरन्यतरावधारणं न स्यात्। तस्मात् सौर एव मुख्यत्वात्[^215] अनुत्कर्षः कर्म्मणाम्। तेनैतदपि वचनं[^216]यथोक्तन्यायबलवत्त्वेनैव वर्णनीयम्। तेनाशोकाष्टमीमदनोत्सवमदनभञ्जिकादीनामपि सौरेष्वेव चैत्रादित्यविधिः सिध्यति। देवशयनादौ तु जघन्यचान्द्र परिग्रहे सप्रपञ्चं प्रमाणं वर्णयिष्यामः। तस्मात्सौरो वैशाखादिर्मुख्यो जघन्यश्चान्द्र इति स्थितम्[^217]। सा वैशा-
 
 [^215]: "सौरचान्द्रयोरन्यतरावधारणमिति। श्रावणकृष्णाष्टमी भाद्रतृतीयाश्विनशुक्लनवम्यादयस्तिथयः किं सौरमाससम्बन्धिन्यः उत वा चान्द्रमाससम्बन्धिन्यः एकतरावधारणं न स्यात्। तस्मादिति तस्मात् उभयोःश्रुतिसिद्धतया उभयत्र शक्तिप्रसक्तौ प्रामुक्तयुक्तेःसौरे मुख्यत्वात् मासपदस्येति शेषः।"
@@ -3927,8 +3419,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 आगामिनि तदा वर्षे कुलीरे माधवः स्वपेत् ॥**
 
 शकदुर्गाविष्णूत्थानां शकीत्थानदुर्गोत्सवविष्णुप्रबोधानामित्यर्थः। सिंहकन्यातुलासु यथाक्रमं सिंहे शक्रोत्थानं कन्यायां सौराश्चिने दुर्गोत्सवःतुलायां सौरकार्त्तिके हरेरुत्थानञ्च। तथाच पूर्व्ववत्सरे श्रावणादित्रिके मलमासपाते आगामिनि वत्सरे कर्कटे हरिशयनवत्सिंहे शक्रोत्थानस्य कन्यायां दुर्गोत्सवस्य तुलायां हरेरुत्थानस्य चावश्यम्भाव इति भावः। शयिते हरिशयनमध्ये विबुद्धे हरेरुत्थानादूर्द्ध्वं मन्वन्तरादितिथीनां विहितत्वात् शयनमध्ये श्रावणस्य कृष्णाष्टमी भाद्रस्य तृतीया आश्विनशुक्लनवमी कार्त्तिकशुक्लद्वादशी च मन्वन्तरादिलेन तिथिचतुष्टयमात्रं लभ्यते अपरञ्च उत्थानादूर्द्ध्वं लभ्यते।
-
-
 
 खस्यामावास्या इत्यत्र तु मुख्यस्यान्वयाभावात् जघन्यस्यापि चान्द्रस्य परिग्रह इति[^218]। मासशब्दश्च सौरसावननाक्षत्रचान्द्रेषु त्रिंशद्गुणितषष्टिनाड्यवच्छिन्नकालरूपतया[^219] सर्व्वत्र वर्त्तमानो न
 
@@ -3962,8 +3452,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  मधुमासे सौरचैत्रे। जघन्यचान्द्रपरिग्रहे अमुख्यचान्द्रपरिग्रहे सप्रपञ्चं सविस्तरम्। जघन्यः गौणः इति स्थितं व्यवस्थितम्।
 
-
-
 पृथक् शक्तिमपेक्षते। चतुर्विधा एक मासाःपुराणे दर्शिताः।
 
 **“सौरः सौम्यश्च विज्ञेयो नाक्षत्रः सावनस्तथा।  
@@ -3976,8 +3464,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 सामान्यधर्म्मावच्छिन्नानामेव वस्तूनां परस्परविरुद्ध-तद्व्याप्यधर्म्मप्रकारेण प्रतिपादनस्यविभागपदार्थत्वात् अतस्त्रिंशद्गुणितषष्टिनाड्यवच्छिन्नकालत्वरूपतादृशमासचतुष्टयानुगतसामान्यधर्म्ममादाय तेषां विभागं सम्पादयितुं सामान्यधर्म्मंदर्शयति मासशब्दश्चेत्यादि। सौरः आदित्यैकराशिभोगावच्छिन्नः कालः सावनःसौरसावनःत्रिंशदहोरात्रात्मकः नाक्षत्रः आयुर्दाये स्मृतं प्राज्ञैर्नाक्षत्रं षष्टिनाडिकमिति नाड़ीषष्ट्या तु नाक्षत्रमहोरात्रं प्रचक्षते, तत्त्रिंशता भवेन्मास इति वचनोक्तषष्टिदण्डात्मकदिनत्रिंशदिनरूपोऽत्र नाक्षत्रमासी ग्राह्यः। न तुसर्व्वर्क्षपरिवर्त्तैस्तु नाक्षत्रमिति चोच्यते इति वचनोक्तसप्तविंशतिनक्षत्रात्मकनाक्षत्रमासः तत्र त्रिंशद्गुणितत्वासम्भवात्। त्रिंशद्गुणितषष्टिनाड्यवच्छिन्नकालरूपतया त्रिंशद्गुणितः त्रिंशद्भागेन गुणितः इत्यर्थः एतत्तु सावननाक्षत्रमासे नियतं सौरमासस्तुरविगतेर्मन्दत्वामन्दत्वाभ्यां त्रिंशद्दिनन्यूनाधिककालेऽपि सम्भवितुमर्हति। षष्टिनाड्यवच्छिन्नकालरूपतया इति षष्टिनाड्यवच्छिन्नेति नाक्षत्रमासे नियतं सौरसावनयोस्तु रविभुज्यमानकालमादाय किञ्चिदधिकषष्टिदण्डावच्छिन्नकालरूपतया इति बोद्धव्यम्। तथाच रविदिनभोगस्तु लग्नदण्डपलानि द्विगुणीकृतानि पलविपलान्यौत्सर्गिकाणि त्रिंशद्दिनन्यूनाधिकवशात्तु किञ्चिदधिकन्यूनानि च। तथाच दिनं दिनं यानि यानि भुक्तानि तानि रव्युदयलग्नस्य रात्रिशेषे प्रविष्टानि अवशिष्टानि दिवसीयानि एवं तत्सप्तमलग्रपलविपलानि दिनशेषप्रविष्टानि अवशिष्टानि रात्रिसम्बन्धीनि।
 
  \*कालरूपतया यद्यपि दिनतिथ्योर्भेदात् विभिन्नत्वं तथापि सूर्य्यक्रियाप्रचयचन्द्रक्रियाप्रचयत्वोपलक्षितकालत्वेन एकत्वं विवक्षितम्। वर्त्तमान इति तथाच सौरसावननाक्षत्रचान्द्रेषु त्रिंशद्भागगुणितषष्टिदण्डावच्छिन्नकालरूपत्वेन सर्व्वत्र वर्तमानोऽपि मासशब्दः पृथक् प्रत्येकविश्रान्तां शक्तिं नापेक्षते इत्यर्थः। शक्तिग्राहकप्रमाणाभावात् प्रागुक्तयुक्त्या
-
-
 
 चान्द्रसौरनाक्षत्राणां त्रिंशद्भागस्य वृद्धिह्रासादिना यद्यप्यनियतं तथाप्यौत्सर्गिकं षष्टिनाड्यवच्छिन्नत्वमादाय लक्षणकरण \* मतएववृद्धिह्रासावित्युच्यते। अन्यथा वृद्धिह्रासव्यपदेशानुपपत्तेः[^220]।
 
@@ -3999,8 +3485,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति सूर्य्यसिद्धान्तवचनादिति शेषः।
 
-
-
 तथाविधमासस्य चार्द्धं पक्षः। द्वादश मासाः संवत्सरः[^221]। यत्तु त्रयोदश वा इत्युक्तं तत्र सौरसावनादिषु तावत् त्रयोदशत्वं नास्ति किन्त्वधिमासपाते चान्द्रस्य[^222]तत्र संवत्सरपदस्थानेकशक्तिकल्पनानुपपत्तेः[^223] त्रयोदशमासा अपि द्वादशैव एकसंज्ञत्वात्। एक एवाभ्यस्तो न पृथगेवासावित्यविरोधः द्वादशादिमासा इत्यस्य[^224]
 
 [^221]: "तथाविधमासस्य चार्द्धं पक्ष इति। सावनमासस्य अर्द्धं पञ्चदशदिनानि पक्षः। सौरमासस्य ह्रासवृद्धिवशात् यदा त्रिंशद्दिनात्मको मासः तदा तदर्द्धं पञ्चदशदिनानि पक्षः यदा द्वात्रिंशद्दिनात्मको मासः तदा तदर्द्धं षोड़शदिनानि पक्षः इत्यादिक्रमेण कल्पनीयः। चान्द्रमासस्य च विंशत्तिथ्यात्मकतया तदर्द्धं प्रतिपदादिपञ्चदशतिथयः पक्ष इति।"
@@ -4009,9 +3493,9 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^223]: "तत्र वत्सरपदस्यानेकशक्तिकल्पनानुपपत्तेरिति। तथाच द्वादशमाससमुदायत्वं वत्सरत्वम् एवं मलमासपाते त्रयोदशमाससमुदायत्वं वत्सरत्वम् एवं कल्पने अनेकशक्तिकल्पना स्यात्। गौरवात्तु तत्कल्पनयोरन्याय्यत्वमिति भावः।"
 
-——————————————————————————————————————
-
 [^224]: "ननु श्रुतिप्रतिपाद्यत्वात् नानाशक्तिरेवास्तु इत्यत आह त्रयोदशापि द्वादश एव एकसंज्ञत्वादिति। तथाच चैत्रादिवंत् मलमासस्य संज्ञान्तरविरहात् मलमासपाते"
+
+——————————————————————————————————————
 
  तेन चन्द्रस्य वृद्धिहानितः वृद्धिह्रासकालाभ्यां परिमिता ये स्वकालाःचन्द्रसम्बन्धिकालाः चन्द्रक्रियारूपाः तत्र ते मासाः स्मृता इत्यर्थः।
 
@@ -4021,8 +3505,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अतः सांवत्सरं श्राद्धं कर्त्तव्यं मासचिह्नितम् इत्यादि॥
 
  यतः सूर्य्यः कालवशात् चक्रवत् गतेर्मन्दत्वामन्दत्वाभ्यां गच्छेत् तथा चैकराशिमुपभुञ्जमानो रविर्मेषादौ मन्दगत्या कामप्येकां तिथिं द्विःस्पृशति तुलादौ शीघ्रगत्या कामप्येकां तिथिं न स्पृशति एतेन चान्द्रसौरयोरेव ह्रासवृद्धी सम्भवतः नान्येषाम्।
-
-
 
 सौरश्च वत्सरः षडृतवञ्च तपस्तपस्यौ शिशिरावृतुः इत्यादिश्रुत्या शिशिरवसन्तग्रीष्मवर्षाशरत्हेमन्ताख्याः कथिताः। तत्र त्रिभिः शिशिराद्यृतुभिरुदगयनम्। तद्देवानान्दिनम्।वर्षादिभिः त्रिभिर्दक्षिणायनं सा रात्रिः। अस्य वचनं प्रागेव लिखितम्। ऋतुर्वा संवत्सरो हेमन्तग्रीष्मवर्षाभिः[^225]।
 
@@ -4044,8 +3526,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 —————————————————————————————————————
 
 आषाढ़ादेरपि शुद्धत्वाशुद्धत्वभेदेन द्विराषाढत्वात् षष्ट्यातु दिवसैर्मासः कथितो बादरायणैरिति व्यासवचनाच्चत्रयोदशत्वेऽपि एकलक्षणाक्रान्तत्वेन एकसंज्ञकत्वात् द्वादशमासा इत्यस्य अविरोधात् विरोधाभावात् एक एव अभ्यस्त एकमास एव अभ्यस्तःशुद्धत्वाशुद्धत्वभेदेन असौ मासः न पृथक् न स्वतन्त्रत्वेन प्रतीतस्तथाच द्वादशमासत्वावच्छिन्नकालत्वं संवत्सरत्वमिति भावः।
-
-
 
 **र्मासिको वार्षिकःकालः। अतो हेमन्तप्रत्यासन्नः  
 शिशिरो हेमन्ततः प्रविष्टः ग्रीष्मे वसन्तः शरद्वर्षासु।”**
@@ -4069,8 +3549,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **एकरात्रं वसेत् ग्रामे नगरे पञ्चरात्रकम्।  
 वर्षाभ्योऽन्यत्र वर्षासु मासांश्चचतुरो वसेत्॥**
 
-
-
 अधिको मासोऽधिमासः। तस्य वीजमुपदर्शितं ज्योतिःशास्त्रे।
 
 **“दिवसस्य हरत्यर्कः षष्टिभागमृतौ ततः।  
@@ -4082,12 +3560,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  दिवसस्याहोरात्रस्य षष्टिभागं दण्डमेकं सूर्य्यःप्रतिदिनं हरति लङ्घयति। तेन ऋतौ षट्याहोरात्रैः षष्टिनाड्याकर्षात्तिथिरेका सूर्य्येणाकृष्टा एवञ्चन्द्रेणापि। तेन चन्द्रार्काभ्यां प्रत्यृतु दिनद्वयाकर्षादव्देन द्वादश दिनानि लभ्यन्ते। दिनपदं तिथिपरम्। एवं तृतीयाव्देनापि अधिमासा निष्पद्यन्ते। अर्द्धतृतीयानामपि गणनक्रमादौचित्यप्राप्तमिदमुक्तं न तु नियतं तिथिवृद्धिह्रासादिना
 
-
-
-
-
-
-
 न्यूनाधिकत्वदर्शनात्। इदन्तु नियतम् एकस्मादधिमासादारभ्य तृतीयसंवत्सरे भवतीति।
 
  यत्तु।
@@ -4098,10 +3570,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
  तद्गणितविद्भिः सुगणितसिद्ध्यर्थमधिमासान्तरमेवोक्तं न तच्छास्त्रोपयुक्तमिति[^230] न तद्विविच्यते। माधवादिषट्के चाधिमासपातः तत्रैव रविसंक्रान्तिवृद्ध्या तस्य दर्शनात्। तेन माधवादित्रिके पतने पूर्व्व इत्युच्यते। उत्तरात्रिके पाते पश्चिम इत्युच्यते। अन्यथा अनादित्वात् कालस्य पौर्व्वापर्य्यानुपपत्तेः पूर्व्वापरत्रिकभेदेन
 
 [^230]: "ज्योतिषवचनेन सार्द्धद्विवर्षोपरि मलमासविधानात् सद्विरुद्धतया राजमार्त्तण्डौयवचनस्य विषयव्यवस्थाप्रदर्शनार्थमाशङ्कते यत्विति। सप्तदशदिनाधिकाष्टमासाधिक वर्षद्वयाष्यवहितोत्तरदिवसाष्टमभागनैयत्यं मलमासस्य यदुक्तमित्यर्थः स्वमणितसिद्धार्थमिति।  सौरसंवत्सरस्यान्ते मानेन शभिजेन तु। एकादशातिरिच्यन्ते दिनानि भृगुनन्दन॥  इति विष्णुधर्म्मोत्तरोयवचनपर्य्यालोचनया वर्षे एकादशतिथिवृद्धौ वर्षद्वये द्वाविंशतितिथि-बृद्धिर्भवति। षण्मासेन तु सार्द्धपञ्चतिथिवृद्धिर्भवति। ततो दिवामात्राधिकसप्तदशाही-रात्रसहितमासद्वयेन सार्द्धद्वयतिथिवद्धौ मिलित्वा तादृशकालस्य त्रिंशत्तिथ्यात्मकाधिमास-योग्यकालत्वेन गणितसिद्धिप्रदर्शनार्थम् अधिमासान्तरम् अधिमाससम्भवयोग्यतामात्रं न तु वास्तविकाधिकमासान्तरं कालान्तरे अधिमासपाते तदानीमधिमासान्तरस्यालोकत्वात्। न तु शास्त्रोपयुक्तमिति। सूर्य्याचन्द्रमसोर्मतेर्मन्दत्वामन्दत्वाभ्यां कालान्तरोयाधिकमासपाहस्येष्टत्वेन तत्रैव शास्त्रीयस्य नैयत्याभावादिति भावः।"
-
-
-
-
 
 चाधिमासभेदकीर्त्तनं कार्य्यभेदार्थं तच्च वक्ष्यामः।एतदेव सङ्क्षिप्य परिशिष्टेन प्रदर्शितम्।
 
@@ -4124,8 +3592,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **"आषाढ़द्वयसंयुक्तं पौर्णमासीद्वयं यदा।  
 द्विराषाढ़ः स विज्ञेयः विष्णुः स्वपिति कर्कटे॥"**
 
-
-
 तदपि मिथुनाधिमासपाते तथा भवतीति तस्यैव चिह्नभूतं, न तु तदपि पृथक् एव द्विराषाढलक्षणम्।
 
 यदपि।
@@ -4137,15 +3603,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^232]: "आषाढद्वयसंयुक्तमिति। शुद्धाशुद्धभेदेनाषाढ़द्वयसम्बन्धि इत्यर्थः। तस्य मलमासस्य चिह्नभूतमिति चान्द्रमासस्य हित्वात् मलमासपाते पौर्णमासोदयसम्भवादिति भावः। तस्यैत्रः ऋधिमासस्यैव चिह्नभूतं ज्ञापकमात्रं न तु तदपि पृथगेव द्विरराषाढलक्षपमिति यथा अमावास्याद्वयं रविसंक्रान्तिवर्द्धितमिति मलमासलक्षणं तथा पूर्णिमाद्वयं रविसंक्रान्ति वर्जित रूपवास्तविक पृथङ्मलमासलक्षणं जः त्वित्यर्थः। लक्षण ज्ञापकमात्रम्। यथा अमावास्याइयं रविसंक्रान्तिवर्ज्जितम् इति मलमासलक्षणं तथा पूर्णिमाइयं रविसंक्रान्ति वर्जित मिति मलमासलक्षणं स्यादित्याशय निराकरोति न चेत्यादि। तस्य मलमासस्य। उत्तरत्र तस्येति वचनस्य। मूलभूतश्रुत्यन्तरकल्पनापत्ते रिति। अमावास्याइयस्य रविसंक्रान्तिवर्जितत्ववत् पूर्णिमादयस्य रविसंक्रान्तिवर्जितत्वरूपमलमासलचपस्वीकारापत्तेः पूर्णिमाइयघटितस्य लचणपरत्वे व्यभिचारं दर्शयति अधिमासस्तु चेत्तदानीं न पतित इति। अधिमासस्तु न भवति परन्तु एकस्मिन् सौरे मासि पूर्णिमाद्वयं भवति।"
 
-
-
 नक्षत्रयोगस्य प्रबन्धेन कारणत्वनिराकरणात्[^233]। सौरे रविभोगस्य चान्द्रे च तदारब्धत्वस्य प्रवृत्तिनिमित्तत्वात्। अत्र यद्यपि नाधिमासपातः तथाप्येकराशिसूर्य्येपूर्णिमाद्वयादेव शयनाद्युत्कर्षो वचनात्। तन्न, "आभाका सितपक्षे” ष्वित्यादिवचनानां बाधापत्तेः[^234]। वैशाखादिपूर्णिमाद्वये सति कर्कटशेषे शयनात्।
 
 [^233]: "ननु पूर्णिमाद्वयस्य रविसंक्रान्तिवर्ज्जितत्वे मलमासो भवत्येव कुतो व्यभिचारःइत्याशङ्कां निराकरोति दिवसस्य इत्यादि। तथाच एकस्मान्मलमासात्तृतीयाव्दे एव मलमासनियमात् यत्र तृतीयाव्दोन भवति परन्तु एकस्मिन् सौरे पूर्णिमाद्वयं भवति तत्र व्यभिचारी घटत एवेति भावः। एकनक्षत्रयोगात् मासद्वयमिति। तथाच मलमासाभावेऽपि पूर्णिमाद्वयेऽपि विशाखाद्येकनक्षत्रयोगात् विशाखादिनक्षत्रयुक्ता पौर्णमासी सास्मिन्नित्यनेन एकलक्षणाक्रान्तत्वेन मासद्वयत्वमित्यर्थः। प्रबन्धेन पूर्ध्वनिर्दिष्ट प्रबन्धेन कारणत्वनिराकरणात् कदाचित् पौर्णमास्यां नक्षत्रयोगाभावेन व्यभिचारात् नक्षत्रयोगसकारणत्वासम्भवादित्यर्थः।"
 
 [^234]: " तदा मासप्रवृत्तौ कस्य निमित्तता इत्यत आह सौरे रविभोगस्य इत्यादि। रविभोगस्य रविराशिभोगस्थः। तथाच आदित्यराशिभोगेन सौरमासः प्रकीर्त्तित इति विष्णुधर्म्मोत्तरीयात्। तदारव्धस्य रविभुक्तराश्यारब्धस्य।  तथाच।  मीनादिस्थो रविर्येषामारब्धप्रथमक्षणे। भवेत्तेऽब्दे चान्द्रमासाः चैत्राद्या द्वादश स्मृताः ॥  इति व्यासवचनात्। ननु यद्यपि न प्रकृतोमलमासः तथापि यथा मलमासस्थले आषाढ़ादेर्द्वित्वात् मलीभूतप्रथमाषाढ़ादेः परतः- शयनादिकं भवति। तथा प्रकृतमल-आसाभावेऽपि एकराशिस्थे पूर्णिमाद्वये सति वचनबलात् हरिशयनाद्यर्थं द्विराषाढ़ादिक-मङ्गीकृत्य प्रकृताषाढ़ादेः परतः कल्पनीयाषाढ़ादौ हरिशयनादिकं भविष्यति इत्याशङ्यतेअत्र यदापोत्यादि। दूषयति तन्नेति । आभाका सितपक्षेषु इत्यादिवचनानां बाधापत्ते-"
-
-
 
 न तत्सौरे नापि चान्द्रे आषाढ़े स्यात्। अविचारितवचनार्थपरिग्रहे च। “मिथुनस्थो यदा भानुरमावास्याद्वयं स्पृशेत्” इति स्पर्शमात्रावगमात् अतिक्रमणं विनापि शयनोत्कर्षो[^235] मलिम्लुचएव श्रावणे देवशयनं स्यात्। तस्मादेवमादिवचनानाममावास्यान्ताधिमासप्रदर्शकत्वमेव(१)[^3] अमावास्याद्यन्ताधिमासप्रदर्शकत्वमेवेति क्वचिदादर्शे पाठः।") न तु पृथग्लक्षणान्तरत्वम्। यतएव मेषादिषट्क एवाधिमासपातःअतएव तुलाविषुवादिमेषपर्य्यन्तेन संक्रान्तितिथिवृद्धिभावं दर्शयति।
 
@@ -4167,8 +3629,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **आभाकाद्येषु मासेषु मथुरा माधवस्य तु।**  
 **द्वादश्यामेव कुर्व्वीत शयनावर्त्तनादिकम्॥**
 
-
-
 **“यां तिथिं समनुप्राप्य तुलां गच्छति भास्करः।  
 तयैव तिथ्या संक्रान्ति(१)[^3] तयैव सर्वसंक्रान्तिरिति पाठो ग्रन्थान्तरे दृश्यते।") र्यावन्मेषं न गच्छति॥”**
 
@@ -4187,10 +3647,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^238]: "मलिम्लुच एव श्रावणे देवशयनं स्यादिति। अत्र एवकार इवार्थे अव्ययानामनेकार्थत्वात् मलिम्नुच इवेत्यर्थः तथाच यत्र सौराषाढ़े अमावास्याइयमाचं न तु चान्द्रमासोल्लङ्घनं भवति तत्र यदि यथाश्रुतवचनार्थमादाय हरिशयनोत्कर्षः स्खोक्रियते तदा आषाढमलमासे यथा श्रावणे हरिशयनं भवति तथात्रापि स्यादिति भावः। तस्मात् वचनस्य यथाश्रुतस्यार्थस्याग्राह्यत्वात् एवम् आदिवचमानाम् आषाढदयसंयुक्तं पौर्णमासोइयं यदा इत्यादिवचनानाम्अधिमासप्रदर्शकत्वमेव मलमासज्ञापकत्वमात्रम्। मेषादिषट्क एव सौरवैशाखाद्याश्वमपर्यन्त एव। तुलाविषुवादि तुलासंक्रान्ति रूपजलविषुवादीत्यर्थः। मेषपर्य्यन्तेन मेषः पर्यन्तं सौमा यस्य तेन कार्त्तिकादिचैत्रावधि के नेत्यर्थः। संक्रान्तितिथिवृद्धिभावं सूर्य्यस्य"
 
-
-
-
-
 इति फलश्रुतिः। फाल्गुने अधिमासादित्यर्थः। तिथ्यन्तरे चबहुश एव वक्रातिचारदर्शनात् अत्रासम्भवः कथमाशङ्क्यताम्[^239]। तथायमपरोदोषः पूर्व्वदर्शिततुलाधिमासे तुलास्थरव्युपक्र मासद्वयम् अपरश्च मासो धनुःस्थोपक्रान्त इति वृश्चिकस्थरव्य क्रान्तस्य मार्गशीर्षस्य लोपः स्यात्[^240]। तथा तस्मिन्नेव व अमावास्यायां धनुःसंक्रान्तौ भूतायां विषुवपर्य्यन्तं तस्यामेसंक्रान्तौ वृषादिसं कान्तेश्चैकद्विकतिथिव्वृद्धिनियतत्वात्तत्राप्यधिमासान्तरमिति सार्द्धसंवत्सरद्वयेनैकोऽधिमासःपततीति स्यात्।अत्रोच्चते “दिवसस्य हरत्यर्क" इति चन्द्रार्ककृताहश्छेदेन सार्द्धवत्सरद्वयेन त्रिंशत्तिथीनामेव लाभात्तैरेव सम्भूयाधिमासपातस्य वाचनिकत्वात् अधिमासद्वयं कारणाभावादेव न सम्भवः
 
 [^239]: "तिथ्यन्तरे तुलासङ्क्रान्त्यवच्छिन्नतिथिसजातीयतिथिभिन्नतिथौ रविगतेर्मन्दत्वामन्दत्ववशेन सङ्क्रान्तिदर्शनात् अत्र तुलादिषण्मासमध्ये असन्भवः अधिमासस्यासम्भवः।"
@@ -4200,8 +3656,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 ———————————————————————————————————————————
 
  ‘शीघ्रगमनात् न्यूनकालेन संक्रान्तितिथिवृद्धिभावं तिथिवृद्धित्वं सौरमासादधिककालेन चान्द्रमाससमापनमित्यर्थः। वक्रातिचाराभ्यां रविगतेर्मन्दत्वामन्दत्वाभ्यामित्यर्थःवस्तुतोरवेर्वक्रातिचारासम्भवात्। ततोऽतिचारेण रवेः शीघ्रगत्या। अन्धुकेन अन्धुकभट्टेन दृष्टःलिखित इत्यन्वयः। यत एव माधवादिभिन्नेऽपि अधिमासः अतएवेत्यर्थः। फाल्गुने अधिमासात्लोकस्य हृष्टिर्हर्षःविजयम् आदिशेत् कथयेत्।
-
-
 
 वति। ननु कोऽयं दृष्टापलापः\*। सत्यं तुलादित्यादौ दृश्यमानो नायमधिमासःकिन्तूत्पातादधिमाससधर्म्मायम्। अतएव प्रतिपदि वृश्चिकसंक्रान्तौ तस्य तुलारब्धत्वेऽपि+“यां तिथिं समनुप्राप्य" इति शास्त्रतो वृश्चिकारम्भार्हत्वात्तत्रानारम्भेऽपि शङ्खवेलान्यायेन प्रत्यभिज्ञानाद्भवति मार्गशीर्षपदवाच्यता[^241]।
 
@@ -4218,10 +3672,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  यत एव न प्रकृताताधिमासः अतएवेत्यर्थः। तस्य चान्द्रमासस्य।
 
-
-
-
-
 अतिचारपदाच्च स्वस्थानमतीत्य चरतीत्यमावास्यैव वृश्चिकसंक्रान्तेः स्वस्थानमवसीयते वृषादिसंक्रान्तिषु तु पूर्व्वतिथ्यतिक्रमेऽपि नातिचारपदप्रयोगः शास्त्रे। तत्र तिथिविशेषस्य संक्रान्तिस्थानतया शास्त्रतोऽनधिगमात्। व्यभिचारेण प्रमाणान्तराप्रचारात्। अतएव यदा कन्यायामधिमासपाते प्रतिपदि तुलासंक्रान्तौ भूतायां वक्रगत्या सूर्य्योऽमावास्यायां वृश्चिकं याति पुनःऋजुगत्या♦ प्रतिपदि धनुःसंक्रान्तिस्तदा वृश्चिके संक्रान्ति-
 
 ———————————————————————————————————————————
@@ -4229,8 +3679,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 वच्छेदेनाभेदावगाहिज्ञानं प्रत्यभिज्ञानम्। मार्गशीर्षपदवाच्यता इति तथाहि तुलासंक्रान्तेरमावास्यायां जातत्वात् प्रतिपदि वृश्चिकसक्रान्तावपि तस्या वृश्चिकसंक्रान्तेरमावास्यायामेव योग्यत्वात् तदुत्तरशुक्लप्रतिपदादिदर्शान्तमासस्य तुलास्थरव्यारब्धत्वेऽपि योग्यतया वृश्चिकस्थरव्यारब्धत्वात् मुख्यचान्द्रमार्गशीर्षत्वमित्यर्थः।
 
  ♦ तदेवोपपादयति अतिचारपदादित्यादि। तत्र मेषादौ अधिमासस्य प्रकृतत्वादेवोपादयति वृषादिसंक्रान्तिषु त्विति। पूर्व्वतिथ्यतिक्रमेऽपि अमावास्यामतिक्रम्य प्रतिपदि वृषादिसंक्रान्तिषु सतीषु इत्यर्थः। नातिचारपदप्रयोगः शास्त्रे शास्त्रे अतिचारपदप्रयोगो नास्तीत्यर्थः। तथाच “यां तिथिं समनुप्राप्य तुलां गच्छतीति" वचनमुक्त्वायदा वक्रातिचाराभ्यामिति वचनस्योक्तत्वात् पूर्व्ववचने “यावत् मेषं न गच्छतो" त्युक्तत्वाच्च प्रतिपदि वृषादिसंकान्तौ भूतायामपि नातिचारपदप्रयोगः सम्भवतीति भावः। तत्र मेषवृषादिसंक्रान्तिषु तिथिविशेषस्य अमावास्यादेः संक्रान्तिस्थानतया मेषवृषादिसंक्रान्तिस्थानतया इत्यर्थःतथाच "यायन्मेषं न गच्छति" इत्युक्तत्वात्। मोनपर्य्यन्तस्यैव अमावास्यायां योग्यता न वृषादेरिति भावः। व्यभिचारेण अमावास्याभिन्नतिथौवृषादिसंक्रान्तिदर्शनेन प्रमाणान्तराप्रचारात् प्रमाणान्तरसत्ताया अभावात्। यत एव तुलादिषण्मासे तुलासङ्क्रान्त्यवच्छिन्नतिथिसजातीयतिथौ मौनपर्यन्तसङ्क्रान्तेर्योग्यतास्वीकारःअत एवेत्यर्थः। वक्रगत्या मन्दगत्यासूर्य्यस्य वक्रातिचाराभावात्। ऋजुगत्या स्वभावगत्याइत्यर्थः।
-
-
 
 शून्यः प्रतिपदादिदर्शान्तो मासः पतति तस्य वृश्चिकारब्धत्वेन पूर्व्वस्य च कन्यारब्धत्वेनाकार्त्तिकत्वात् चान्द्रकार्त्तिकलोपाद्देवोत्थानं विफलं स्यात्\*। तुलादित्यगताश्विनशुक्लपक्षस्य दुर्गोत्थानार्थत्वात्। वृश्चिकसंक्रान्त्यमावास्यायाञ्च लक्ष्मीप्रबोधार्थत्वात्। 'तस्मिन् शुक्ले सदा विष्णुरिति' वचनेन लक्ष्मीप्रबोधनान्तरितशुक्लपक्ष एव देवोत्थानं सदेति नियमात्+।ततश्च वक्रातिचारकृत-
 
@@ -4251,8 +3699,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  + ननु "तुलायामथवृश्चिके" इत्यनेन तुलायां शुक्लपक्षे हरिबोधनविधानात् तुलागताश्विनशुक्लपक्षे हरिप्रबोधनं भवतु इत्यत आह तुलादित्यगताश्विनशक्लपक्षस्य दुर्गोत्थाना-र्थत्वात्। तथाहि आश्विने दुर्गोत्थानविधानात् तत्परतः तुलायाञ्च हरिप्रबोधनविधानाच्च तुलागताश्विनशुक्लपक्षे दुर्गोत्थानमेवोचितं न तु विष्णूत्थानम्। तथाच-
 
-
-
 मासलङ्घनेऽपि 'यां तिथिं समनुप्राप्य' वचनेन प्रतिपद एव संक्रान्त्यर्हज्ञापनात्। तुलोपक्रान्त्यर्ह एवासौ मास इति तस्य कार्त्तिकत्वात्तत्रैव देवोत्थानमित्यवश्यं वाच्यम्। अतएवासौनाधिमासो न मलिम्लुचः[^242] सार्द्धवत्सरद्वये त्रिंशत्तिथिभिरेव पतितस्य तथात्वात्। अतएव प्रतिपदि तुलासंक्रान्तौतुलायां वक्रेणामावास्यादौ यदि वृश्चिकं रविर्व्रजति तदैकस्याः कन्यागतत्वादपरस्य वृश्चिकगतत्वात् 'अमावास्यां तुलादित्ये लक्ष्मीर्निद्रां विमुञ्चतीति' नैकत्रापि स्यात्तदभावाच्च, तस्मिन् शुक्ले सदा विष्णुरित्येतदपि, व्याहन्येत[^243]। तेन तत्रापि यैवासौ वक्रेण वृश्चिकगता
 
 [^242]: "उपसंहरति ततश्चेति। वक्रातिचारकृतमासोल्लङ्घनेऽपि रवेः मान्द्यन्दाशीघ्रगति-कृतचान्द्रमासोल्लङ्घनेऽपि। सङ्क्रान्त्यर्हत्वज्ञापनात् वृश्चिकसङ्क्रान्तियोग्यत्वज्ञापनात्। तुलो-पक्रान्तार्ह एवासौ मासः तुलास्थरव्यारब्ध एवासौ मासः इति हेतौ देवोत्थानं हरेरुत्यानम् अतएव योग्यतया तस्य कार्त्तिकत्वस्वीकारादेव योग्यतावलम्बनेन स्वीकृतः असौ कार्त्तिकः यतो नाधिमासः नाधिकमासप्रयोजकः अतो न मलिम्लुचः न मलमास इत्यर्थः।"
@@ -4265,10 +3711,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तुलायां बोधयेत् देवींवृश्चिके तु जनार्द्दनमिति”
 
 वचनविरोधः स्यात्। सदेति “तस्मिन् शक्ले सदा विष्णु” रितिवचनस्थसदापदेनेत्यर्थः।
-
-
-
-
 
 सा तुलादित्यस्यैवोत्पाता वृश्चिकस्थेत्यर्हतया तत्रैव सुखरात्रिरुषः काल इत्यादि\* क्रियत इत्यविरोधः। यदा पुनरमावास्यायामेव तुलासंक्रान्तिर्भूता न भूतो माधवादिषट्केऽधिमासपातः अनन्तरमतिचारेण प्रतिपदि वृश्चिकसंक्रान्तौ वृत्तायामपरा अपि संक्रान्तयो विषुवपर्य्यन्तं प्रतिपद्येव भवन्ति तदाधिमासान्तरस्यापतितत्वात् पूर्व्वाधिमासाच्चार्द्धतृतीयवत्सरसञ्चितदिवसैरधिमासस्यावश्यम्भावात् अन्यस्य चानुपलम्भात् अत्र च बाधकाभावेन
 
@@ -4289,8 +3731,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 या रात्रिः सर्वभूतानां या च देवेष्ववस्थिता।  
 संवत्सरप्रिया या च सा ममास्तु सुमङ्गला॥” **इत्यादि।
 
-
-
 तुलादित्य एव संक्रान्तिशून्यस्य मासस्य पश्चात् कर्त्तव्यसंक्रान्तितिथ्यतिक्रमस्य इदानीमेव कृतत्वमवधार्य्याधिमासत्वं निर्णीयते समाधानान्तरं पुनरन्यन्न पश्यामः अतएव[^244] नाशङ्कितमिदं कैश्चित्। कथं पुनरसावधिमासो ज्ञेय इत्यपेक्षायामाह परिशिष्टः[^245]।
 
 [^244]: "अविरोध इति लक्ष्मीप्रबोधहरिप्रबोधादेरविरोध इत्यर्थः। अतिचारेण शीघ्रगत्या विषुवपर्य्यन्तं मेषपर्य्यन्तम् अधिमासान्तरस्य मलमासान्तरस्य अर्द्धतृतीयवत्सरसञ्चितदिवसैः अर्द्धंतृतीयं यस्य इति सार्द्धवत्सरदयसञ्चित तिथिभिरित्यर्थः। अन्यस्य माधवादिषट्कपतितस्य अनुपलभ्यत्वात् अदृष्टत्वात् अत्र च तुलादित्ये च बाधकाभावेन सार्द्धवत्सरद्वयसञ्चितत्रिंशत्तिथ्याकर्षादिति शेषः। यत एव तुलादिषट्के मलमासस्यावश्यकत्वम् अतएवेत्यर्थः।"
@@ -4301,8 +3741,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 मलिम्लुचः स विज्ञेयः कर्म्मणां फलनाशकृत्॥”**
 
  एकस्मिन्राशौ सूर्य्योदर्शद्वयमतिक्रम्य गच्छन्नधिमासं दर्शयति। सहजगत्या न, वक्रातिचाराभ्याम्। एतच्चतुर्द्दश्याममावास्यायां वा पूर्व्वसंक्रान्तौ प्रतिपदादिके च परसंक्रान्तौ भवति। तदाहि प्रतिपदादिदर्शान्तः सूर्य्यसंक्रान्तिशून्योऽधिमास एव मलिम्लुचः।
-
-
 
 तदाह परिशिष्टः।
 
@@ -4322,8 +3760,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  \*तस्यार्क इति। एकराशौ दर्शद्वयातिगःस्वाव्यवहितपूर्व्वत्वस्वघटकत्वोभयसम्बन्धेन दर्शद्वयान्त्यक्षणद्वयमतिक्रम्य वर्त्तमानोऽर्कःतस्य मलमासस्य दर्शकःज्ञापकः। स्वपदं मलमासत्वेनाभिधेयमानचान्द्रमासपरं स मलमासः यज्ञानां फलनाशकृत् विज्ञेय इत्वन्वयः। दर्शद्वयं दर्शद्वयान्त्यचणद्वयम्। दर्शयति ज्ञापयति। सहजगत्या नेति न भवतीत्यर्थः। केन भवतीत्यपेक्षायामाह वक्रातिचाराभ्यां मन्दशीघ्रगतिभ्यामित्यर्थः। मलमाससम्पादनं च चतुर्द्दश्यामिति मलमासस्यावश्यम्भावज्ञापनार्थ मुक्तम्। प्रतिपदादिदर्शान्तः मुख्यचान्द्र इत्यर्थः। अधिमास एवेति अधिमास एवेत्यर्थः। अन एवकारस्य व्यत्ययेन सूर्य्यसंकान्तिशून्य एव अधिमासः मलिम्च इत्यन्वयः। तथाच पूर्व्वा मावास्यान्यक्षणे क्रियोत्पत्तौ प्रतिपदाद्यचणे रायन्तरयोगे तच्छुकप्रतिपदादिदर्शान्तमासस्य पूर्व्वराशिस्थरव्यारब्धतया पूर्व्वमासत्वेन मासइयाभावात् रविसंक्रान्तिशून्यत्वाभावाच्च न मलमासत्वमिति भावः। अमावास्यापरिच्छिन्नमित्यस्यार्थमाह आद्यन्तयरित्यादि। आद्यन्तयोरिति सप्तम्या वृत्तित्वमर्थः। अमावास्यान्तइयक्रीड़ीकृतं स्वाव्यवहितपूर्व्वत्व स्व घटकत्वोभयसम्बन्धेन संक्रान्तिशून्यामावास्य।इयान्त्य चण्डयविशिष्टम् एकराशिवृत्तिचान्द्रमासं सर्व्वकर्म्मसु गर्हितं मलमासं जानौयादित्यन्वयः। यस्मिन् सावनात्मकैकवारे। यत्र चान्द्रमासे रविसंक्रान्तिर्नोनास्ति नो निषेधे।
 
-
-
 **"वत्सरान्तर्गतः पापो यज्ञानां फलनागकृत्।  
 नैर्ऋतैर्यातुधानाद्यैः समाक्रान्तो विनामकः॥”**
 
@@ -4337,8 +3773,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
  सौरत्वे च सनामकत्वमविवादात्। यदा विनामकत्वं नामशून्यत्वमौपचारिकम् आषाढ़ादिनाम्ना चान्द्रस्य कर्माङ्गतया विधौ तस्याननुप्रवेशात् सदपि नामासदेव पुत्रोऽप्यपुत्र इतिवत्[^246]। अतो
 
 [^246]: "विरुद्धनामकत्वे हेतुमाह मलिम्लुचत्वात् मलिसुचनामकत्वात् एकसंज्ञौ एकनामकौ विरोधात् मलमासस्य नामशून्यत्वे एकनामकत्वविरोधात्। यत एवैकराशिमूर्य्यारब्वचेन एकमासत्वम् अतएवेत्यर्थः। षटिदिनः षष्टितिथ्यात्मकः तदईन्तु त्रिंशत्तिथ्यात्मकः त्यक्त्वा तन्मलमासं त्यक्त्वा उत्तरे शुद्धमासि । दिवसैम्ति थिभिः। सौरले च सनामकत्वमविवादात्। अविवादादिति एकनामसौरमासइयासम्मवादिति भावः। औपचारिक कर्म्मानईत्वेन गौणं तत्तन्मास विहित कर्म्मान र्हत्व प्रयोजकम्। विधौ मासविहित कर्म्म विधाने तस्य मलमासस्य अननुप्रवेशात् मलमासे सावकाशकर्म निषेधेन वैधकम्माङ्गतया प्रवेशाभावात् सदपि नामेति मलमासस्येति शेषः। असदेव तत्तन्नामकमास विहित कम्माप्रयोजकत्वेन असत्तुल्यमित्यर्थः। अत्र दृष्टान्तमाह पुत्त्रोऽप्यपुत्रवदिति अन्धादिरिति शेषः।"
-
-
 
 मेषगरविसंक्रान्तिः शशिमासे भवति यत्र तच्चैत्रम्। एवं वैशाखादि वृषादिसंक्रान्तियोगेन इति वचनम्। कर्म्माङ्गचैत्राद्यभिप्रायेण मुख्यार्थमेव। अतएव गृह्यपरिशिष्टम्।
 
@@ -4369,8 +3803,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 तथाच यथा अन्धपतितादिःपुत्त्रोऽपि स्वजन्यपुंस्त्ववानपि पुत्त्रकर्त्तव्यश्राद्धादिकर्म्मानधिकारितया अपुत्त्रतुल्यःतद्वदित्यर्थः।
 
-
-
 **माङ्गल्यमभिषेकञ्च मलमासे विवर्जयेत्॥”**
 
 दानं महादानं यदाह।
@@ -4400,8 +3832,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **द्वादशं विष्णुचक्रञ्च ततः कल्पलतात्मकम्॥**
 
-
-
 प्रवृत्तिनिमित्तस्य कुण्डमण्डपादीतिकर्त्तव्यताविशेषस्य सम्भवात्\*।
 
  यत्तु
@@ -4417,8 +3847,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 ——————————————————————————————————————————————————
 
-
-
 **सप्तसागरदानञ्च रत्नधेनुस्तथैव च।  
 महाभूतघटं तद्वत् षोड़शः परिकीर्त्तितः॥**
 
@@ -4428,8 +3856,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **ब्रह्माच्युतेशानवनस्पतीनां स्वतन्त्रतो होमचतुष्टयं स्यात्**॥” इत्युक्तम्। 
 
  विनायकादिः षट् नव ग्रहाःदश दिक्पाला अष्टौ वसवः द्वादशादित्याःमरुद्गण एकः ब्रह्मादीनां चतुष्टयमिति पञ्चाशत्। तुलापुरुषादिदानानामिव कनकाश्वादिदानानामपि महादानत्वश्रुतेः।
-
-
 
 दानमनिषिद्धमेव[^251]। अनादरणन्तु(१)[^252] प्रामाण्यैकतया अन्यथा समाधानं कष्टावहम्[^253]। तथा नष्टभार्गवादावप्येतन्निषिद्धं यथा।
 
@@ -4453,8 +3879,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 तु वास्तविकमहादानम्। अन्यथा महादानस्वीकारे बहुशक्तिकल्पनापत्तेःनानाभक्तिकल्पनापत्तेः। ननु वचनबलात् नानाशक्तिकल्पना अस्तु को दोषः इत्यत आह सर्व्वत्रानुगतस्यैकरूपस्याभावादिति। कनकाश्वादिदशानुगतैकशक्यतावच्छेदकधर्म्मस्याभावादित्यर्थः। अत इति कनकाश्वादिदानस्य गौणमहादानत्वात्।
 
-
-
 त्यज्येदित्यनेनैवान्वयः\*। परम्परान्वयस्त्वेकत्यजतिक्रियान्वयार्थः। चतुरो मुष्टीर्निर्वपतीतिवत्। स च देवतादर्शनेऽप्यविशिष्टः। तस्यापि त्यज्येदित्यनेनैवान्वयात्+। अतो वचनान्तरेषु देवतादर्शनं देवताविलोकनमित्यादिसामान्यपदानामनावृत्तदर्शनपरत्वमेवानादिदेवताज्ञानार्थमेव तदपेक्षत्वात्। अन्यथा देवतामात्र-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -4463,15 +3887,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  + ननु द्वयोरपि कर्म्मकारकत्वात् त्यजेदित्यनेनैवान्वय इत्युक्तं कथं संगच्छते। धात्वर्थावच्छेदकफलशालिनः एव कर्म्मत्वनियमात्। प्रकृते वर्जनार्थत्यजधात्वर्थतावच्छेदकीभूतकरणाभावफलस्य प्रतियोगितासम्बन्धेन तीर्थस्नान एव साक्षादन्वयः सम्भवति न तुविशेषणीभूतानावृतेइत्यत आह परम्परान्वयस्त्वेकत्यजतिक्रियान्वयार्थः इति। एकत्यजतिक्रियान्वयार्थः एकत्यजतिक्रियाफलान्वयार्थ इत्यर्थः तथाच विशेष्यविशेषणभावस्थले विशेष्यान्वयिक्रियाफलस्य परम्परया विशेषणान्वयस्वीकारात् अन्यथा सविशेष्यान्वयिना अन्वयित्वं विशेषणत्वमिति नियमभङ्गापत्तेः। अत्र दृष्टान्तं दर्शयति चतुरो मुष्टीर्निर्वपतीतिवदिति मुष्टिविशेषणस्य चतुर इत्यस्य परम्परया निर्वपणक्रियान्वयात् यथा कर्मत्वं तथा प्रकृतेऽपीत्यर्थः। स च त्यजेदित्यस्यान्वयः। देवतादर्शने अनादिदेवतादर्शने अविशिष्टः अबाधितः तस्य देवतादर्शनस्य। अनाहत्तदर्शनपरत्वमेवेति अत इति अनादिदेवतां दृष्ट्वा इति पूर्व्वार्ध्वस्थित अनादिदेवतादर्शने। मलमासेऽप्यनावृत्तमिति पराङ्गीयानावृत्तविशेषणात्।
 
-
-
 दर्शननिषेध एव स्यात्। अस्य च विशेषवचननिरपेक्षत्वात्[^254]। आवृत्तदर्शननिषेधे च तावत्कालमनादिदेवतानामपूज्यताप्यापद्येत। विधिनिषेधानुपालकस्यैव शास्त्रतो देवपूजकत्वात्[^255]। धवलेनाप्युक्तं प्राथमिकानादिदेवतादर्शननिषेधोऽयमिति।अन्यैस्तु न चिन्तितमिदम्।
 
 [^254]: "वचनान्तरेष्विति। “अस्ते सन्ध्यागते बाले भृगौ मासि मलिम्लुचे।  देवतादर्शनं दानं महादानं विवर्ज्जयेदिति स्मृतौ-  भृगावस्ते गुरौ सिंहे गुर्व्वादित्ये मलिम्लुचे।  त्यजेद्दानं महादानं व्रतं देवविलोकनमिति लघुहारीतवचने -  तीर्थस्नानविवाहदेवभवनं मन्त्रादि देवेक्षणं  दूरेणैव जिजीविषुः परिहरेदस्तं गते भार्गवे -  इति सोमशेख़राख्यनिबन्धधृतवचने च देवतादर्शनं देवविलोकनमित्यादिसामान्यपदानां स्मृतिवचनस्थदेवतादर्शनं लघुहारीतवचनस्थदेवविलोकनं सोमशेखराख्यनिबन्धधृतवचनस्था दिपदग्राह्यदेवेक्षणमिति सामान्यशब्दानाम् अनावृत्तपरत्वम् अनावृत्तविशेषणविशिष्ट-परत्वमेवेत्यर्थः। अनादिदेवताज्ञानार्थमेव तदपेक्ष्यत्वादिति अनादिदेवतां दृष्ट्वा शुचः स्युरित्यादिवचने देवताया अनादित्वविशेषणात् तदेकवाक्यतया वचनान्तरस्थदर्शनीयदेवताया अपि तदपेक्षासत्त्वात् अन्यथा यथाश्रुतार्थम्वीकारे च देवतामात्रदर्शन निषेधः स्यादिति इष्टापत्तौ प्रागुक्तं देवताया अनादित्व विशेषणं व्यर्थं स्यादिति भावः। अस्य विशेषणस्य अनावृत्तविशेषणस्य विशेषवचननिरपेक्षत्वात् विशेषवचननिरपेक्षप्रवत्तत्वात्।"
 
 [^255]: "प्रतिबन्धिं दर्शयति आवृत्तेत्यादि। तावत्कालं समयाशुद्धिसत्ताकालम् अपूज्यता आपद्येत इति दर्शनं विना पूजनासम्भवादिति भावः। विधिनिषेधानुपालकस्यैव शास्त्रतो देवपूजकत्वात् इति तु पूजनाभावापत्तौ हेतुः। तथाच विधिनिषेधानुपालकत्वे समनियतशास्त्राधीनदेवपूजकत्वनियमात्तावत्कालापूजने निषेधानुपालकत्व समनियतदेवपूजकत्व नियमी व्याहन्येत इति ग्रन्थकर्त्तुराशयः।"
-
-
 
 बालवृद्धकालमाह।
 
@@ -4502,8 +3922,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 सर्व्वथा नैव कुर्य्याच्च करणे मरणम्भवेत्॥”  
 "केशरिगे सुरसचिवे व्रतमुद्वाहञ्च वर्जयेत्प्राज्ञः।
 
-
-
 **व्रतकरणे व्रतभङ्गः स्यात् उद्वाहे योषितां मरणम्\*॥”**
 
 **————————————————————————————————————————————————**
@@ -4521,8 +3939,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **पादास्ते तु दशाहानि वृद्धो बालो दिनत्रयम्॥”**
 
  महत्पादास्तः शुक्रस्य वृहस्पतेस्तन्नास्ति। जीवस्यास्तकालः द्वात्रिंशद्दिनानि वृद्धवालयोः कालः पक्षमात्रमिति विशेषः। केशरिसंस्थिते सिंहगते भृगुसुते शुक्रे नष्टे अस्तं गते दर्शयुगाग्निभे क्वचित् पुस्तके दर्शयुगाश्विभेइति पाठद्वयंदृश्यते तदुभयमपि लिपिकरप्रमादः दर्शयुगान्विते इत्येव पाठः साधुःदर्शयुगान्विते दर्शद्वयान्विते मासे मलमासे इत्यर्थः रवियुते जोवे गुर्व्वादित्ययोगे। विद्यां विद्यारम्भं पार्थिवदर्शनं राजदर्शनं मठं छात्रावासगृहं मन्दिरं साधारणगृहं पुरं वा। तडागानि वाप्यादिजलाशयान् आराम उपवनम्। व्रतभङ्गः व्रतफलाभावः। जन्ममासे इति। न जन्ममासे न च चैत्रपौषे क्षौरं विवाहो न च कर्णवेध इति। यो जन्ममासे क्षुरकर्मयात्रांकर्णस्य वेधं कुरुते च मोहादित्यादि। जन्मोदये जन्मसु तारकासु मासेऽथवा जन्मनि जन्मभे वा। व्रतेन विप्रो न बहुश्रुतो वा
-
-
 
 **“यात्रा क्षौरविवाहौव्रतकरणकर्णवेधनं विद्याम्।  
 कुर्य्यान्न जन्ममासेऽस्तमिते शुक्रे शशाङ्के च॥”  
@@ -4554,8 +3970,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 विद्याविशेषैः प्रथितः पृथिव्यामित्यादिवचनैकवाक्यत्वात् जन्ममासे यात्राचौरविवाहकर्णवेधानामेव निषेधः न तु व्रतकरणविद्यादेः। एवं चोद्वाहश्च कुमारीणां जन्ममासे प्रशस्यते इति वचनात् विवाहनिषेधस्तु पुरुषस्यैवेति बोध्यम्।
 
-
-
 तदाह काश्यपः।
 
 **'ऋक्षैकमन्दिरगतौ यदि जीवभानू  
@@ -4570,8 +3984,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 ———————————————————————————————————————————————
 
 महागुरुस्तु पुरुषस्य अदत्तकन्यायाश्च मातापितरौ, दत्ताया भर्त्ताएव महागुरुः। रवौअस्ते संक्रान्तिशून्ये चान्द्रमासि मलमास इति यावत् वस्तुतो रवेःप्रकृतास्तासम्भवात्। महच्छन्दान्वितं कर्म्मेति महादानमहापूजादि कर्म। मिथुनेति हरिशयने सति बोध्यं याग्यायने हरौ सुप्ते सर्व्वकर्माणि वर्जयेदित्येकवाक्यत्वात् सर्व्वकर्म्माणीति सावकाशकर्म्माणीति ज्ञेयानि। हरिगृहे सिंहे लुप्ते अस्तं गते प्रकाशे उदये। पण्डिताः पठन्ति विवाहस्य विवाहसम्बन्धे। एतेन एतानि मूलग्रन्थेन लभ्यन्ते परन्तु निबन्धकारीयग्रन्थे दृश्यन्ते इत्यायाति। त्रिदशगुरौ वृहस्पतौ रविभवनस्थे सिंहगते भृगुतनये शुक्रे रविकिरणविलीने अस्तं गते विबुधविलोकनवरफलदानमिति वरं श्रेष्ठं फलं यस्य तत् बरफलञ्च तत् दानश्चेति वरफलदानं महादानमित्यर्थःविबुधविलोकनञ्च वरफलदानञ्च द्वयोःसमाहारःविबुधविलोकनवरफलदानं शोभनफलं शोभनफलजनकं सम्यक्फलजनकं न भवतीत्यर्थः।
-
-
 
 नैतदुक्तं हि ज्योतिःशास्त्रे।
 
@@ -4594,8 +4006,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तदेवमादिवचनैरुत्तरार्द्धस्य सकलकर्म्माहत्वज्ञापनान्न विरोध[^260]ः। ननु किं सकलकर्म्मानर्हत्वमेव मलमासस्य नैतत्।
 
 [^260]: "न विरोध इति। नन्वधिमासे सर्व्वकर्म्मनिषेधादित्यादिना यो विरोध आशङ्कितः तस्य षष्टितिथ्यात्मकस्य बादरायणायुक्तमासस्य पूर्व्वार्द्धे त्रिंशत्तिथ्यात्मकमासे"
-
-
 
 यदाह बृहस्पतिः।
 
@@ -4633,8 +4043,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“मलमासे मृतानान्तु श्राद्धं यत्‌ प्रतिवत्सरम्‌।**  
 **मलमासे5पि कर्तव्यं नान्येषान्तु कदाचनेति॥”**
 
-
-
 तथा।
 
 "सैंहिक्रियो यदा सूर्य्यंग्रसते पर्व्वसन्धिषु।  
@@ -4663,8 +4071,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^261]: "गजच्छाया अमावास्यापराह्णइत्युक्तम्। तत्र प्रमाणं दर्शयति अथ पुराणम्।  वनस्पतिः अमावास्या। अतएव -  “अमावास्यां गते सोमे छाया या प्राङ्मुखीभवेत्। गजच्छाया तु सा प्रोक्ता तत्र श्राद्धं प्रशस्यते॥”"
 
-
-
 तथा प्रचेताः।
 
 **“अधिमासो न कर्त्तव्यः श्राद्धे सांवत्सरादिके।  
@@ -4692,8 +4098,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“मलमासमृतानाञ्च श्राद्धं यत् प्रतिवत्सरम्।  
 मलमासेऽपि कर्त्तव्यं नान्येषान्तु कदाचन॥”**
-
-
 
 त्सरादिश्राद्धञ्च कर्त्तव्यमेव। आदिशब्देन पुत्त्रजन्मादिनिमित्तं वृद्धिश्राद्धं नवश्राद्धञ्च भन्यते।
 
@@ -4731,8 +4135,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 “प्रथमे सप्तमे चैव नवमैकादशे तथा।  
 यत्तु वै दीयते जन्तोस्तन्नवश्राद्धमुच्यते॥ "
 
-
-
 "आद्यमेकादशेऽहनीति" वचनात् एकादशाहश्राद्धं षोड़शसम्बन्ध्येव। “श्राद्धमेकं दिनद्वयमिति” वचनाच्च द्वादशाहश्राद्धस्याप्यनुप्रवेशः\*। अभिषेको यौवराज्यस्य। तत्साहचर्य्यात् वर्षवृद्धिपदमपि राजवृद्धिपरं तत्परस्मिन्मासि कर्त्तव्यम्। जन्मदिनन्तु सौर एव नियतम्। ननु तस्याप्युत्कर्षः श्रूयते।
 
  यथा गृह्यपरिशिष्टम्।
@@ -4755,8 +4157,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  + साहचर्य्यादिति अभिषेकपदस्ययौवराज्याभिषेकपरत्वेन राज्ञ उपस्थितेरिति भावः। वर्षवृद्धिपदमिति वर्षस्य वयसोवृद्धिर्येन इति व्युत्पत्या राज्ञोदीर्घजीवित्व-
 
-
-
 वृद्ध्यपेक्षत्वादस्य वचनस्य उपाकर्म्मणः सौर एव नियतत्वात्। तत्सहचरितत्वात् प्रसवाहस्य।
 
  तदाह।
@@ -4776,8 +4176,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 राजाभिषेकं काम्यञ्च न कुर्य्यादधिमासके॥"**
 
  उपाकर्म्म तथोत्सर्गः वेदारम्भः वेदसमापमञ्च प्रसवाही जन्मतिथिकृत्यम् अष्टकादयः अष्टकादिश्राद्धानि।
-
-
 
 श्रुतेः तदेकवाक्यतया सौरतिथिबोधनात् अनुष्कर्ष एवं प्रतिभाति।
 
@@ -4824,8 +4222,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति छन्दोगविषयम्। तेषां हि कालवृद्धावपि सिंहार्के एव उपाकर्म्म।
 
-
-
 विष्णुविरोधात्\* । न हि मघायुक्ता मकरस्थसूर्य्येसम्भवति[^263]।
 
 [^263]: "नहि मघायुक्ता मकरस्थे सम्भवतीति। तथाच मघानचत्रस्य सिंहघटकतया तत्स्थे चन्द्रमसि मकरस्थे सूर्ये षड़ष्टकैनावस्थानात् सप्तमराश्यवस्थानाभावेन परमविप्रकर्षाभावात् सूर्य्याचन्द्रमसोर्यः परोविप्रकर्षः सा पौर्णमासीति गोभिलसूत्रात् मकरराशौमघायुक्ता पौर्णमासी न घटते इति भावः।"
@@ -4846,9 +4242,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  इति हेमाद्रिधृतेनऋष्यशृङ्गवचनेनैकवाक्यतया दशहरादौ सौरज्येष्ठादावेवानुत्कंषस्यावश्यवक्तव्यतात्‌ तत्सहचरिततया च माघ्याञ्चैव विशेषत इत्यत्रापि सौरमाघप्रतीतौसौरमाघे च माघ्यांमघायोगासम्भवेन विष्णुविरोधसख्य जागरुकत्वात्‌ वसतोविष्णुविरोधस्य उपलक्षणतया पौनरुक्तिदोषेण असङ्गकथनस्ययुक्तियुक्ता। तथाहि माघे तु पौणंमास्याञ्चघोरं कलियुग तथा इत्यादिवचनेन माघीपौर्णमास्या युगादित्वेनचतुर्ष्वपि युगादिषु इत्यनेन प्राप्तेःमाघ्याञ्चैव विशेषत इत्यस्यपौनरुक्तत्वं सुतरामेव।  
 
-
-
-
 पुष्याश्लेषयुक्ता तत्र भवति। तेन मघायुक्तायाः कुम्भ एव सम्भवात् कथमनुत्कर्षः।
 
 अतएव।
@@ -4865,8 +4258,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^266]: "उपाकर्म्मोत्सर्गाविति क्वचिदादर्शे पाठः।"
 
 [^267]: "तुलामकरमेषसिंहेषु चतस्रो युगाद्या इति। यद्यपि युगादिविधायकवचने तुलामकरादिपदं नास्ति तथापि ग्रन्थक्कृन्मते मासपदस्य सौरशक्तेर्विधायकवचनस्थकार्त्तिकादि-"
-
-
 
 इत्यत्र वर्षवृद्धिपदं यदि जन्मदिनाभिप्रायं तदा तस्यायमर्थः। अधिकेनाधिमासेनाधिमासस्यैवाधिकत्वाद्वर्षवृद्धाभिषेकमपि कर्त्तव्यम्। तुशब्दोऽप्यर्थः। निपातानामनेकार्थत्वात्\*। अभि-
 
@@ -4893,10 +4284,7 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“कुर्य्यात् प्रात्यहिकं कर्म्म प्रयत्नेन मलिम्लुचे। **  
 **नैमित्तिकन्तु कुर्वीत सावकाशं न यद्भवेदित्यादि॥**
 
-
  ननु जन्मदिनकृत्यस्य सौरमासीयत्वे कदाचित्तत्तिथेरप्राप्तौजन्मदिवसनिमित्तगुर्व्वादिपूजनमभिधाय “प्रतिसंवत्सरञ्चैव कर्तव्यश्च महोत्सव” इति वचनस्य “षष्ठीञ्चदधिभक्तेन वर्षे वर्षेपुनः पुनः” इति वचनस्यच का गतिः। ग्रन्थकृन्मते एतद्वचनद्वयममूलमेव। यदि च बहुप्रामाणिकपरिगृहीतत्वेनसमूलत्वमस्याङीक्रियतेतदा सर्वैश्च जन्मदिवसे इत्यत्र
-
-
 
 षेकोऽपि पुष्याभिषेकः। पौषे मलमासेऽपि कार्य्यः इत्यर्थः\*।
 
@@ -4932,8 +4320,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **‘‘यस्मिन् मासे नसङ्क्रान्तिः सङ्क्रान्तिद्वयमेव वा।  
 मलमासः स विज्ञेयो मासे त्रिंशत्तमे भवेदिति॥"**
 
-
-
 अत्र क्षयमाससाधारण्ये मलमासत्वकीर्त्तनं मलमासवत् सावकाशकर्म्मनिषेधार्थम्।
 
 पौषस्य क्षयमासत्वमाह वार्हस्पत्यज्योतिर्ग्रन्थे।
@@ -4967,8 +4353,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तुषकेशास्थिवल्मीककीटदेशादिवर्ज्जिते।  
 शर्कराकृमिभस्मादिदोषेण परिवर्जिते॥
 
-
-
 काकोलूकककङ्कैश्च काकोलैर्गृध्रश्येनकैः।  
 वर्ज्जिते कण्टकिवनविभीतकविवर्ज्जिते॥  
 शिग्रुश्लेष्मातकाभ्याञ्च जलौकाद्यैर्विवर्जिते।  
@@ -4995,8 +4379,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 आवाहयेदिमान्देवान् पूज्यान् पुष्याभिषेकतः॥  
 आगच्छन्तु सुराः सर्व्वे येऽत्र पूजाभिलाषिणः।  
 दिशोऽभिपालकाः सर्व्वेये चान्येऽप्यंशभागिनः॥
-
-
 
 सतः पुष्पाञ्जलिं दत्त्वा पुनर्मन्त्रं पठेदिमम्।  
 अद्य तिष्ठन्तु विबुधाः स्थानमासाद्य मामकम्॥  
@@ -5025,8 +4407,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 खरोष्ट्रमहिषाणान्तु आरोहोराज्यनाशकः।  
 नृत्यं गीतं तथा हास्यं पाठश्चाप्यशुभप्रदः॥
 
-
-
 रक्तवस्त्रपरीधानं रक्तमाल्यानुरञ्जनम्।  
 रक्तां कृष्णां स्त्रियञ्चैव कामयन् मृत्युमाप्नुयात्॥  
 कूपान्तरे प्रवेशश्च दक्षिणाशागतिस्तथा।  
@@ -5053,8 +4433,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 पश्चिमद्वारमध्येन शतहस्तां विनिर्दिशेत्॥  
 प्रत्येकद्वारमध्ये तु पद्मञ्चैवाष्टपत्रकम्।  
 कुर्य्यान्मण्डलभागे तुचूर्णैरव पृथक् पृथक्॥
-
-
 
 चूर्णैस्तु मण्डलं कृत्वा सूत्राण्युत्सारयेत्ततः।  
 उत्सार्य्यसूत्रं प्रथमं मण्डलं पूजयेत्ततः॥  
@@ -5083,8 +4461,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 कलां कलान्तु देवानामसित्वा ते पृथक् पृथक्।  
 यतः कृतास्तु कलसास्ततस्ते परिकीर्तिताः॥
 
-
-
 नवैव कलसाः प्रोक्ता नामतस्तान्निबोधत।  
 गोह्योऽपगोह्यो मरुतो मयूखश्च तथापरः॥  
 मनोहा त्वसिभद्रश्चविरुजस्तनुशोषकः।  
@@ -5111,8 +4487,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 कुक्षौ तु सागराः सप्त सप्तद्वीपाश्च संस्थिताः॥  
 नक्षत्राणि ग्रहाः सर्व्वे तथैव कुलपर्व्वताः।  
 गङ्गाद्याः सरितः सर्व्वा वेदाश्चत्वार एव च॥
-
-
 
 कलसेषु स्थिताः सर्व्वे तेषु तानपि चिन्तयेत्।  
 रत्नानि सर्व्ववीजानि पुष्पाणि च फलानि च॥  
@@ -5141,8 +4515,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 नवग्रहान् पूजयेत्तु मातृर्मातृघटेषु च।  
 सर्व्वे देवा घटे पूज्या घटस्तेषां पृथक् पृथक्॥
 
-
-
 नवैव तत्र पूर्व्वोक्ताः सदा मुख्यतमा नृप !।  
 भक्ष्यैर्भोज्यैश्च पेयैश्च पुष्पैर्नानाविधैः फलैः॥  
 यावकैःपायसैश्चापि यथासम्भवयोजितैः।  
@@ -5169,8 +4541,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 विसस्त्यधिकमिच्छन्ति नृपस्य गुरुविद्यया॥  
 अर्द्धचन्द्रसमं कुर्य्यादासनं चतुरस्रकम्।  
 उपधानानि शय्यायाः कर्णादिमूलदेशतः॥
-
-
 
 षोड़शैवात्र कार्य्याणि वर्णचित्रयुतानि च।  
 यानं सिंहासनं पट्टं शय्योपकरणादिकम्॥  
@@ -5199,8 +4569,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 सुरास्त्वामभिषिञ्चन्तु ये च सिद्धाः पुरातनाः।  
 ब्रह्मा विष्णुश्चरुद्रश्च साध्याश्च समरुद्गणाः॥
 
-
-
 आदित्या वसवोरुद्रा आश्विनेयौभिषग्वरौ।  
 अदितिर्देवमाता च स्वाहा लक्ष्मीःसरस्वती॥  
 कीर्तिर्लक्ष्मीर्धृतिः श्रीश्च सिनीबालीकुहूस्तथा।  
@@ -5228,8 +4596,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 प्रजापतिः क्षितिश्चैव गावो विश्वस्य मातरः।  
 वाहनानि च दिव्यानि सर्व्वेलोकाश्चराचराः॥
 
-
-
 अग्नयः पितरस्तारा जीमूताःखं दिशोजलम्।  
 एते चान्ये च बहवः पुण्यसंकीर्त्तनाः शुभाः॥  
 तोयैस्त्वामभिषिञ्चन्तु सर्वोत्पातनिवर्हणाः।  
@@ -5256,8 +4622,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 मांसमैथुनहोनश्च कुर्य्यान्मङ्गल्यसेवनम्॥  
 पुष्यनक्षत्रयुक्ता तु तृतीया यदि लभ्यते।  
 तस्यां पूज्या सदा देवी चण्डिका शङ्करेण ह॥
-
-
 
 तथा कुथुमिः।
 
@@ -5287,8 +4651,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 एवं यज्ञं नृपो दृष्ट्वा परत्रेह न सीदति॥”  
 इति कालिकापुराणे पुष्याभिषेकः६८ अध्यायः।
 
-
-
 तथा सत्यव्रतः।
 
 **“संवत्सरस्य मध्ये तु यदि स्यादधिमासकः।  
@@ -5312,8 +4674,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 ———————————————————————————————————————————————————————————
 
 मासादिति। द्वादशमासाः संवत्सरः क्वचित्रयोदशमासा इति श्रुतेः। तिथिवृद्ध्या वेति वाकारः समुच्चये दिनवृद्धिक्रमसञ्चयाभ्यां तिथिवृद्ध्या चेत्यर्थः। द्वयोरपि ग्रहणमिति। तथाच औत्पातिकमलमाससमानधर्मभानुलङ्घितनामासंक्रान्तमासे तिथिवृद्ध्याभावात् तद्व्यावृत्तये अधिमासात्तिथिवृद्ध्या वेति द्वयोरपि ग्रहणमित्युक्तम्।
-
-
 
 दुत्सर्गसिद्धसंख्यानुवादमात्रत्वात्। अमावास्यायां मृतस्य औनामासिकं वृद्धौ खण्डनीयमेव।
 
@@ -5340,8 +4700,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  भ्राता वेति वाशब्दात् भ्रात्रपेक्षया प्रधानत्वेन पूर्वाधिकारिणां दौहित्रान्तानां समुच्चयः। चतुर्थाहे इति नवश्राद्धोपलक्षणम्। नक्श्राद्धन्तु प्राग्दर्शितम्। नवश्राद्धत्वसामान्यधर्म्ममादाय षोड़शत्वसंख्यापूर्तेः श्राद्धान्येतानि षोड़श इत्यनेन न विरोधः।
 
-
-
 तथा कुथुमिः।
 
 **“संवत्सरातिरेको वै मासो यः स्यात्त्रयोदशः।  
@@ -5350,8 +4708,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
  अमावास्यायां मासिकस्य विशेषेण मलमासे निषेधात्। अपि तिथ्यन्तरकार्य्यस्याभ्यनुज्ञानम्। न च अमावास्यापार्व्वणश्राद्धस्यायं निषेध इति वाच्चम्। पुरुषभेदेन तस्यानियतसंख्यत्वात्त्रयोदशत्वानुपपत्तेः। नन्वत्राप्यव्दशेषेऽधिमासश्राद्धस्यक्रियमाणस्य त्रयोदशत्वं न पुनर्द्वितीयादिमासेषु क्रियमाणानां तेषां द्वितीयादिसंख्यत्वात्। नैतत् वार्षिकश्राद्धानि संकलय्य यतः कुतश्चिदारभ्य गणने त्रयोदशत्वं सर्व्वेषां त्रयोदशा इति गणनवत् पणपुरणादिवद्धा[^271]। किञ्च पर्व्व चाग्रयणं तथेति पर्व्वामावास्या तन्नि-
 
 [^271]: "सप्तदशत्वापत्तेरिति। मलमासपाते इति शेषः। उत्सर्गसिद्धसंख्यानुवादमात्रत्वादिति सामान्यसिद्धसंख्यानुवादमात्रात्। अमावास्यायां मृतस्य औनामासिकम्। औनामासिकं मलमाससम्बन्धिमासिकम्।  तथाच व्यासः।  “मलिम्लुचे तु सम्प्राप्ते ब्राह्मणो म्रियते यदि। ऊनाभिधेयो मासोऽसौ कथं कुर्य्यात्तदाव्दिकम्”॥ इति।  वृद्धौ खण्डनीयमेवेति। तथाचामावास्यामृतस्य मलमासपाते मासिकवृद्धिर्नास्तीति भावः। तिथ्यन्तरकार्य्यस्य अमावास्याभिन्नतिथिमृतस्य मलमासनिमित्तकत्रयोदशमासिक-वृद्धिर्भवतीत्यर्थः। पुरुषभेदेन नानापुरुषकत्तुंकपार्व्वणानुष्ठानेन तस्य पार्व्वणस्य अनियत-संख्यत्वात् नियतसंख्यावाचकशब्देनानभिधानात्। त्रयोदशत्वानुपपत्तेरिति तथाच मल-मासोयामावास्यायाः पूर्व्वं कस्यापि पार्व्वणमेकं भूतं, कस्यापि पावणयं, कस्यापि त्रयं,चतु-ष्ट्यादिकं वा, इत्यतः अमावास्यायां कर्त्तव्यस्य पार्वणस्य सर्व्वेषां त्रयोदशत्वं न सम्भवतीत्यभि"
-
-
 
 मित्तकस्य प्रतिप्रसवात् कथं तन्निषेधः[^272]। नन्वेकस्मिन्मासि
 
@@ -5374,8 +4730,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  इति विशेषविधिबलाच्च कृष्णपक्षातिरिक्तामावास्यानिमित्तकस्य पर्व्वनिमित्तकस्य च पृथक् श्राद्धद्वयस्य श्रवणात्। न च कृष्णपक्षनिमित्तस्य श्राद्धस्य पर्वकरणपक्षे फलविशेषज्ञापकमेवेदं वचनं न तु पर्व्वनिमित्तकश्राद्धविधायकमिति वाच्यम्। एतच्चानुपनीतोऽपि कुर्य्या-
 
-
-
 तिथिद्वये सति पूर्व्वस्मिन्नेव मासि द्वादशभिर्मासैः सिद्धे संवत्सरे वार्षिकपुनराव्दिकसपिण्डीकरणान्तानान्तत्रैव कृतत्वात् कथं पुनर्मासिकप्रसक्तिः[^273]। नैतत् वार्षिकादीनामेव वचनोत्कर्षात्।
 
 [^273]: "अमावास्यामृतस्य मलमासे मासिकवृद्धिर्न सम्भवतीत्याह नन्वेकस्मिन्नित्यादि। एकस्मिन् मासि सौरमासि तिथिद्वये सति अमावास्याद्वये सति पूर्व्वस्मिन्नेव मासि मलमासरूपपूर्व्वचान्द्रमास्येव द्वादशभिर्मासैः पूर्व्वमृततिथिं विहाय अपरमृततिथिमादाय परिगणितैः द्वादशभिर्मासैः सिद्धे समाप्ते संवत्सरे वार्षिकपुनराब्दिकसपिण्डीकरणान्तानां द्वितीयषाण्मासिकद्वादशमासिकसपिण्डीकरण श्राद्धानामित्यर्थः। “पूर्व्वेद्युराब्दिकं श्राद्धं परेद्युः पुनराव्दिकमिति” वचनात् वार्षिकपुनराव्दिकपदाभ्यां द्वितीयषाण्मासिकद्वादशमासिके उच्चेते। कथं मासिकप्रसक्तिरिति। अमावास्यामृतस्य त्रयोदशे मासि कथं मासिक वृद्धिप्रसक्तिः। सपिण्डनोत्तरं मासिकासम्भवादिति भावः।"
@@ -5383,8 +4737,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 ——————————————————————————————————————————————————
 
 दिति एतच्चेति चकारश्रुतेःपर्व्वनिमित्तत्वेन पृथक्श्राद्धस्यावश्यवक्तव्यत्वात्। तथाचायं वचनार्थः। एतत्प्रागुक्तश्राद्धचतुष्टयं, पर्व्वसु पर्व्वनिमित्तं साधारणं श्राद्धञ्च, “अनुपनीतो” जाताग्निः अपि समुच्चितसाग्न्यादिश्च "भार्य्याविरहितोऽपि” “प्रवासस्थोऽपि नित्यशः” कुर्य्यात्। श्राद्धस्य फलाकाङ्क्षायां “सर्व्वकामफलप्रदमिति” विशेषणम्। अनेन विधिना’ एतच्छ्राद्धपञ्चकम् “शूद्रोऽपि” “अमन्त्रवत्” कुर्य्यादिति। यत्तु अपरपक्षे यदहः सम्पद्यते अमावास्यायान्तु विशेषेणेति निगमवचनम्। अस्यार्थः – कृष्णपक्षे यदहः यां तिथिं प्राप्य सद्द्रव्यब्राह्मणादिकं लभ्यते तस्यां तिथौ कृष्णपक्षनिमित्तं श्राद्धम्, अमावास्यायाम्अमावास्यानिमित्तं श्राद्धञ्च कुर्य्यादिति शेषः। तुश्चायें। एतद्रूपेण ग्रन्थकर्त्तुराशयवर्णने न स्मार्त्तोक्तदोषावकाशः इति दिक्। अतएव हेमाद्रिणा अवषट्कारहोमाश्च पर्व्व चाग्रयणन्तथा वचनमुक्त्वा अवषट्कारहोमाः अग्निहोत्रोपासनवैश्वदेवादयः पर्व्व दर्शपौर्णमासौ पार्श्वणस्थालीपाकञ्च इति व्याख्यातम्। प्रतिप्रसवात् अमावास्यापार्व्वणस्य मलमासे कर्त्तव्यताविधानात्।
-
-
 
 तथाच विष्णुधर्मोत्तरे मार्कण्डेयः।
 
@@ -5402,8 +4754,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^274]: "निषेधयति नैतदिति। वचनोत्कर्षात् विशेषवचनेन उत्कर्षात् अमावास्यामृतस्य मलमासे मासिकनिषेधेन शुद्धमासि अन्यस्योत्कर्षादिति। विपत्तिं विनाशम्। तेषां तत्रैव तत्सौरमास एव। मृततिथिकर्त्तव्यसांवत्सरिकविषयत्वात् मलमासमृतस्येति शेषः। शुद्धमासि मृतस्य मलमासे सांवत्सरिकश्राद्धनिषेधात्।  इति मलमासनिरूपणम्।"
 
-
-
 तत्र ज्योतिःशास्त्रम्।
 
 **“व्रजति यदा मिथुनं विहाय कर्किं  
@@ -5414,12 +4764,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^275]: "अथ द्विराषाढ़निरूपणमिति। अधिमासं निरूप्य तत्प्रसङ्गेन द्विराषाढ़निरूपणम्प्रतिजानीते सम्प्रति द्विराषाढ़निरूपणं द्विराषाढ़ादिनिरूपणं अथवा मुख्यगौणसाधारणद्विराषाढ़निरूपणं क्रियते मयेति शेषः। व्रजति यदेति वचनार्थं स्वयं विवृणीति राजा सोम इत्यादि। तेन विवर्ज्जिता चन्द्रसम्बन्धरहिता। कर्कटगमन एव तदतिक्रमो न मिथुनगमन इति। तथाचायं वचनार्थः। सूर्य्यःपूर्व्वामावास्यान्त्यक्षणं विहाय उपान्त्यक्षणादौ यदा मिथुनं व्रजति सञ्चरति मिथुनं त्यक्त्वा राजविवर्जितां सोमसम्बन्धरहितां परामावास्याञ्च विहाय कर्किं कर्कटराशिं व्रजति प्रतिपदादितिथाविति शेषः तदैव द्विराषाढ़ः द्विश्चान्द्राषाढ़ोभवति तत्र सुरशयनस्य हरिशयनस्त्र विधिः द्वितीयमासि कर्कटगतशुद्धाषाढ़े भवतीत्यर्थः। तथाच पूर्व्वामावास्याया उपान्त्यचण्णादौ मिथुनसङ्क्रमे तदुत्तरशुक्ल प्रतिपदादिदर्शान्तमासस्य स्वाव्यवहितप्राक्क्षणावच्छिन्न मिथुनस्थरव्यारब्धतया चान्द्राषाढत्वम्। एवं परामावास्याम् अतिक्रम्य शुक्ल प्रतिपदादौ कर्कटसङ्क्रमे तच्छुक्लप्रतिपदादिदर्शान्तमासस्थापि स्वाव्यवहितप्राक्क्षण्णावच्छिन्न मिथुनस्थरव्यारब्धतया च चान्द्राषाढत्वमिति द्विराषाढ़त्वं निर्विवाद इति भावः।"
 
 राजा सोमस्तेन विवर्जिता अमावास्योच्यते, तां विहाय कर्कटगमनविशेषणात् कर्कटगमन एव तदतिक्रमो न मिथुनगमनसमय इति अमावास्याद्वयातिक्रमावगतेराषाढ़द्वयमेको मिथुने कर्कटे चापरः। एतदेवापरोऽप्याह \।
-
-
-
-
-
-
 
 **"मिथुनस्थो यदा भानुरमावास्याद्वयं स्पृशेत्।  
 द्विराषाढ़ःस विज्ञेयो विष्णुः स्वपिति कर्कटे॥"**
@@ -5444,8 +4788,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  \* अमावास्याद्वयान्तं स्पृशेदित्यर्थ इति। तथाच एकस्मिन् राशौ संक्रान्तिशून्यं पूर्व्वापरामावास्यान्त्यक्षणद्वयञ्चेत्तदैव अमावास्याद्वयान्त्यस्पर्शनं भवेदिति भावः। यदि दर्शद्वयमतिक्रमतीति। दर्शद्वयान्त्यक्षणद्वयमतिक्रम्य सूर्य्यःराश्यन्तरं सञ्चरतीत्यर्थः। प्राप्ते आषाढ़मासे तु सौराषाढ़मासे प्राप्ते सतीत्यर्थः। सा दृष्टेन्दुः सिनीबालीति कोषात् चतुर्द्दशीयुक्तामावास्यायाः सिनीबालीत्वात्। तदन्त्यद्वयस्य एकस्मिन् राशौ सत्त्वेऽपि मलमासासम्भवादाह सिनीबाल्यमावास्यान्त्यद्वयमिति सिनीबालीद्वयमत्रामावास्यान्त्यक्षणद्वयमित्यर्थः।
 
-
-
 तथा।
 
 **"अमावास्यामतिक्रम्य यदार्कःकर्कटं व्रजेत्।  
@@ -5456,10 +4798,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तदेतैर्मिथुनस्थसूर्य्येण द्वयातिक्रमे मुख्यश्चान्द्रो द्विराषाढ़ो दर्शितः। तस्यैव मिथुनस्थरव्युपक्रान्ततया द्विरावृत्तत्वात् सौरस्य नावृत्तिरित्युक्तम्। न च चान्द्रसौराभ्यां द्विराषाढ़स्तस्य प्रत्यव्दमेव भावात्[^276]। मेषवृषसूर्य्येऽप्यधिमासे पतिते द्विराषाढ़ः पतिते चाधिमासक इति भूतनिर्द्देशात्। स तु गौणःकर्कटे चान्द्राषाढलाभनिमित्ततागुणयोगात्। कर्कटादावप्यधिमासपाते द्विराषाढ़माह पारस्करः।
 
 [^276]: "प्रथमक्षणाद्यवच्छिन्नामावास्याद्वयमादाय मलमासापत्तिवारणाय तिथेरन्तपर्य्यन्तेनैवेति अन्त्य क्षणपर्य्यन्तेनैव इत्यर्थः। यदार्कः कर्कटं व्रजेदिति पूर्व्वोमावास्यान्त्यःक्षणमतिक्रम्य मिथुनमभिभुज्यमानोऽर्कः परामावास्यान्त्यक्षणमतिक्रम्य यदा कर्कटं व्रजेत्सञ्चरोदित्यर्थः। “पत्तिते चाघिमासके” इत्यनेन पूर्व्वामावास्यायाः परतः शुक्लप्रतिपदि मिथुनसङ्क्रमेण अमावास्याद्वयातिक्रमेऽपि द्विराषाढत्वाभावं बोधयति। न च चान्द्र सौराभ्यामिति। तथाच चान्द्रत्वेन सौरत्वेन च आषाढस्य द्वित्वादिति भावः। निषेधयति तस्य प्रत्यव्दमेव भावादिति। तस्य द्विराषाढस्य प्रत्यव्दमेव भावात् अव्दम् अव्दं प्रति प्रत्यव्दम् इत्यव्ययं, तस्य भावः तस्मात्। तथाच चान्द्रसौराभ्यां द्विराषाढत्वस्वीकारे तस्य प्रतिवर्षसद्भावात् मिथुनस्थसूर्य्ये अमावास्यादयस्पर्शाभावेऽपि द्विराषाढत्वापत्त्या "
-
-
-
-
 
 **"कृष्णपक्षे त्रयोदश्यां\*कर्कटं याति भास्करः।  
 द्विराषाढः स विज्ञेयः कुलीरे माधवः स्वपेत्॥”**
@@ -5479,8 +4817,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  \* “सषवृषसूर्य्येऽप्यधिमासे पतिते" इत्यादि स तु गौर इति। “माधवादिषु षट्केषु मासि दर्शद्वयं यदा। द्विराषाढ़ः स विज्ञेयः इत्यादिवचनबोधितः। बैशाखादिमासे दर्शद्वयेदिराषाढः स तु गौणो गौणोलक्षणयुक्त इत्यर्थः। तस्य द्विवैशाखत्वेन मुख्यादिराषाढत्वाभावात्‌। गुणमाह कर्कटे चान्द्राषाढलाभनिमित्ततागुणयोगादिति। चान्द्राषाढलाभोनिमित्तो यस्य तस्यभावः चान्द्राषाढ़निमित्तता तदेव गुणं तस्ययोगात्‌। तथाच आषाढेमलमासे सति शुद्धचान्द्राषाढ़स्य कर्कटगतत्वेन मुख्यद्विराषाढ़ोभवति ततश्च आषाढ़ाव्यवहितोत्तरत्वविशिष्टकर्कटगतचान्द्राषाढत्वावच्छिन्नशक्तस्यदिराषाढपदस्यवेशाखादेर्मलमासत्वेऽपिचान्द्राषाढस्यकर्कटगतत्वेन कर्कटगतचान्द्राषाढ़स्य कर्कटगतचान्द्राषाढत्वगुणयोगात्‌ गौणद्विराषाढत्वमक्षुणमिति भावः। द्विराषाढमाह गौणद्विराषाढमाह “कृष्णपक्षेत्रयोदश्या”मिति तु मलमासावश्यम्भावज्ञापनार्थम। न तावन्मात्रनियमः। तेन कृष्णचतुर्द्दश्याम्‌ अमावासान्यक्षणप्रागपि संक्रान्तौ अपरामावास्यास्यान्त्यक्षणात् ऊर्द्धमपरसंक्रान्तौ मलमासो भवत्येव।
 
-
-
 **“यदाधिमासः पतति तदा पूर्वोमलिम्लुचः।  
 कार्य्यंनात्राभिषेकादि द्विराषाढो भवेत्तदा॥  
 अमावास्याद्वयं यत्र रविसंक्रान्तिवर्जितम्।  
@@ -5494,8 +4830,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
  ननु पूर्व्ववचने अमावास्याद्वयस्य रविसंक्रान्तिवर्ज्जितत्वे नाधिमासपातो द्विराषाढ़निमित्तमवगम्यते। तच्च चतुर्द्दश्यां पूर्व्वसंक्रान्तौ प्रतिपदि च परसंक्रान्तौ[^277] भवतीति कथं दर्शोऽपि पूर्व्वसंक्रान्तौ द्विराषाढ़वर्णनम् उच्यते "दिवसस्य हरत्यर्क” इति। तैः सम्भूयाभ्यां तृतीयाव्दमध्य एव नियताधिमासपातनिमित्ताभिधानात्। संक्रान्तिविरहितामावास्याद्वयस्य विंशत्यव्दैरपि दुर्लभत्वात्। एकराशिस्थसूर्य्यस्य दर्शदयातिक्रममात्रं तस्य लक्षणम् \। तेन तल्लक्ष्यते अतएव तस्यार्को दर्शकश्चैकराशौ दर्शद्वयातिग इत्युक्तम्।
 
 [^277]: "कुलीरे माधवः स्वपेदिति। आगामिवर्षे इति बोध्यम्। एतत् पूर्व्वः मिथुनार्के शुक्लद्वादश्यादौ हरिशयनस्य जातत्वात्। उत्तरत्रिके श्रावणादित्रिके। उत्तरमयनमायाते गते सति अतीते सति इत्यर्थमाह दक्षिणायने इति। द्विराषाढ़ः गौणविराषाढ़ः। शेते कर्किणीत्यपि आगामिवर्षे ज्ञेयं सर्वत्र अधिमासपाते द्विराषाढ़ इत्युक्तं गौणविराषाढ़ इत्युक्तमित्यर्थः। अतएव गौणद्विराषाढत्वादेव। सामान्येनैवाह मास विशेषमनभिधाय द्विराषाढमात्रमुक्तम्। चतुर्दश्यां पूर्वसंक्रान्तौ प्रतिपदि च परसंक्रान्ताविति तु अमावास्याद्वयं यत्र रविसंक्रान्तिवर्जितमित्यादि समग्रामावास्यावर्ज्जनरूपयथाश्रुतार्थमादाय।"
-
-
 
 तल्लक्षणीयमाह।
 
@@ -5513,8 +4847,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **—————————————————————————————————————————————————**
 
  \* कथं दर्शेऽपि पूलसंक्रान्तौदिराषाढवर्णनमिति पूर्व्वपक्षो दृढीकृतः“सूर्य्येण लङ्घितोमासश्चान्द्रःख्यातोमलिम्लुच” इत्यादिवक्ष्यमाणवचनात्‌। तदेवीपपादयति दिवसस्येत्यादि। तेैःसम्भूय आभ्याम्‌। तृतीयाब्दमध्य एवेति। एकस्मात्‌ मलमासात्‌ तृतीयवर्षमध्ये एवैत्यर्थः। नियताधिमासपातनिमित्ताभिधानात्‌ मलमासान्तरस्यावश्यम्भावात्‌। विंशवत्यव्दैरपि दुर्लभत्वात्‌। तथाच। एकस्मात्‌ मलमासात्‌ तृतीयवर्षेमलमासान्तरपातस्यनियतत्वात्‌ यत्रयत्र मलमासस्तत्रतवैव संक्रान्या अमावास्थासामान्यवर्ज्जितत्वंन सम्भवति इति भावः।दर्शद्वयातिक्रमणमात्रंदर्शद्वयान्त्यक्षणद्वयस्यातिक्रमणमात्रम्‌। तस्यमलमासस्य। चान्द्रमात्रस्यापि चान्द्रमात्रस्येव न तु स्वाव्यवहितपूर्व्वासामास्यान्त्यक्षणसहितस्य। प्रत्यव्दं भावात्‌ केवलचान्द्रमासोल्लङ्घनस्यतुप्रायेण प्रतिवर्षसम्भवादित्यर्थः। अतोवि-
-
-
 
 सम्प्रति देवशयनादीनि चिन्त्यते।
 
@@ -5536,8 +4868,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 —————————————————————————————————————————————————
 
 शिनष्टि विशेषयति। अमावास्यापरिच्छिन्नं स्वाव्यवहितपूर्व्वत्वस्वघटकत्वोभयसम्बन्धेन अमावास्याद्वयान्त्यक्षणद्वयविशिष्टं चान्द्रमासं सर्व्वकर्म्मसु गर्हितम् अधिमासं मलमासं जानीयात् इत्यन्वयः। प्रतिपदुपक्रान्तं शुक्लप्रतिपत्प्राक्क्षणमारब्धापरामावास्यान्त्यक्षणपयेन्तं रवि-वर्ज्जितञ्चेत् मलमासः ज्ञेय इत्यर्थः। उपलक्षणं लक्षणम्। अव्यवस्थितवादात् अनियतलक्षणत्वेन निर्णयाभावात्, नार्थो न यथार्थार्थो व्यवतिष्ठते व्यवस्थितोभवति। अन्यत्र मिथुनभन्ने।
-
-
 
 **'आभाकाद्येषु मासेषु मथुरा माधवस्य च।  
 द्वादश्यामेव कुर्व्वीत शयनावर्त्तनादिकम्॥”**
@@ -5561,8 +4891,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 द्वादशीनक्षत्रयोगमात्रेण यथाक्रमेण निशासन्ध्यादिवसेषु शयनावर्त्तनोत्थानानि कर्त्तव्यानि। अस्य पुनरभावे तिथ्यन्तरेऽपि पाद-
 
-
-
 योगमात्रेण दिवाशयनं निशायामुत्थानं न तत्र निशाद्यादरः।
 
  अतएव मत्स्यपुराणे सामान्येनैवोक्तम्।
@@ -5585,8 +4913,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^279]: "नाहोरात्रं विचिन्तयेदिति। निशि स्वापी दिवोत्थानमित्यादिविचारो नास्तीति भावः। यथाक्रमेणेत्यादि शयने निशा पार्श्वपरिवर्त्तने सन्ध्याउत्थाने दिवस आदरणीय इत्यर्थः। अस्य द्वदश्यामृक्षयोगस्य।तिथ्यन्तरे दशमीप्रतिपद्भिन्नैकादश्यादिपञ्चतिथिषु। पूर्व्ववचनेन अप्राप्ते द्वदशीमृक्षे इत्यादिवचनेन। सम्बुध्यते गृह्यते। केवलमेव द्वादश्यामृक्षाभावे पादविशेषयोगमात्रमेव कारणं शयनादेरिति शेषः। द्वादश्यामेव नक्षत्रमात्रयोग एवेत्यर्थः। द्वदश्यामृक्षभावे त्रयोदस्यादी पादविशेषयोगात् परिवर्तनमात्रं कर्तव्यम् न तु शयनबोधने इति।"
 
-
-
 व्याख्यानं सन्ध्यायां परिवर्त्तनं पादयोगादन्यतिथौ त्रयोदश्यादौकर्त्तव्यम्। न पुनः शयनप्रबोधावपि तिथ्यन्तरे। किन्तर्हि निशि स्वापो दिवोत्थानञ्च द्वादश्यामृतयोगमात्रेणेति तदसङ्गतम्।
 
 **“अप्राप्ते द्वादशीमृक्षे उत्थानशयने हरेः।  
@@ -5603,8 +4929,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^280]: "वादिमतमाह यत्तु इत्यादि। किन्त्वर्हि निशि स्वापो दिवोत्यानञ्च द्वादश्यामृतयोगमात्रेणेति द्वादश्यामृक्षसंयोगमात्रेण न तु परिवर्त्तनम् इति तस्य मतं दूषयतितदमङ्गतम् इत्यादि। निशादेविशेषणत्वं निराकृतमिति द्वादश्यामृक्षाभावे नक्षत्रविशेषस्य पादविशेषयोगेन अन्यतिथौ शयनादेर्विधेयत्वे निशादेरन्यतिथिविशेषणत्वं नास्ति तथाच मैत्राद्यपादयोगेन त्रयोदश्यादौ हरिशयने। यत्र दिवा पादयोगस्तत्रैव शयनं रात्रौ हरि शयनं न कर्त्तव्यम् इति भावः। द्वादश्यां निशादिनियमात् तिथ्यन्तर एवैतद्वर्णनीय-"
 
-
-
 तथा।
 
 **“किन्तन्मैत्राद्यपादेन दशम्यंशेन यो दिवा।  
@@ -5618,8 +4942,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 मिति पाठो दृश्यते स तु लिपिकरप्रमाद एव परन्तु तिथ्यन्तरे नैव वर्णनीयमित्येव पाठः साधुः। एतत् रात्रौ प्रबोधो विनिहन्ति पौरान् इत्यादिदोषश्रवणं तिथ्यन्तरे नैव वर्णनीयमित्यर्थः। अन्यथा द्वादश्यां निशादिनियमादित्यसंलग्नापत्तेः।
 
-
-
 उच्चते अस्यामेवाप्रतिपत्तौवचनम्[^282]।
 
 [^282]: "ननु रूढ़ित्वेऽपि योगबलेन आश्विनप्रतीतिर्भवतु इत्यत आह रूढ़िर्योगमपहरतीति। तथाच भट्टवार्त्तिकम्। लव्धात्मिका सती रूढ़िर्भवेद्योगापहारिणीति। इति हेतौ रूढ़िपुरस्कारात् मासपदस्य रुढ्यर्थस्वीकारात्। यौगिकत्वस्य च मासपदस्य यौगिकार्थस्त्रीकारस्य च प्रतिबन्धेन व्यभिचारण निराकृतत्वादित्यस्य यौगिकत्वस्य च इत्यनेन सम्बन्धः। निराकृतत्वात् खण्डितत्वात्। किन्तु पूर्व्वपादत्रयं तिथ्यन्तरे एकादश्यामेवेति शेषः। तत्र द्वादश्यां दिवानियमादिति निशि स्वापो देवोत्थानमिति वचनेन रात्रौ प्रबोधो विनिहन्ति इति वचनेन चेति शेषः। तत्राप्यन्त्यपादनियमात् द्वादश्यामपि अन्त्यपादनियमात्। उभयत्र उभयाभावात् तिथ्यन्तरे पादयोगस्य द्वादश्यां दिवा नक्षत्रयोगस्य च अभावादिव्यर्थः। वचनमिति उच्यते इत्यनेन सम्बन्धः।"
@@ -5630,8 +4952,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 एवंविधश्च कालो रेवतीपादत्रयस्यैकादशीव्याप्तत्वे भवति तदा चैकादशीरेवतीयोगस्य दिवावश्यम्भावात् तदनादरेण दिनान्तं विदधद्वचनमेकादश्यामपि त्रयोदश्यादिष्विव पादयोगादरं ज्ञापयति[^283]। न तु द्वादश्यामिवैकादश्यामपि पादयोगस्यानादरः। अन्यथा दिवा रेवत्येकादशीयोगस्योत्थानकालतया प्राप्तस्य बाधो
 
 [^283]: "तदेव वचनं दर्शयति देवत्यन्त इत्यादि। एवंविधत्र कालः रात्रौ द्वादश्यां रेवत्यन्तः रेवत्यन्तपादसमायुतोभवति, एकादशीरेवतीयोगस्य एकादश्यां रेवतीप्रथमपादजययोगस्य। तदनादरेण दिवोत्थानमिति वचनात् एकादश्यां दिवा रेवतीप्रथमपादत्रययोगानादरेण इत्यर्थः। दिनान्तं विदधद्वचनं दिनान्तं प्राप्य रेवतीमिति विशेषवचने दिनान्ते बोधनं विदधद्वचनं विशेषवचनं पादयोगादरं ज्ञापयतीति। तथाच त्रयोदश्यादौ मैत्रादिनक्षत्रपाद विशेषयोगेन यथा शयादिकं तथा एकादश्यामपि पादविशेषयोगेनैव न तु नक्षत्रमात्रयोगेनेति भावः।"
-
-
 
 ऽनपेक्षितविधिश्च स्यात्। अतएव पादयोगादन्यतिथौ "द्वादश्यामृक्षयोगत" इति द्वादशीतोऽन्या एकादश्यप्यभिहिता। तथा “द्वादशीऋक्षसंयोगे पादयोगो न कारणम्” इति वदन् द्वादशीव्यतिरिक्तैकादश्यादौ पादयोगकारणमाह "अप्राप्ते द्वादशीमृक्ष" इति। एतदपि द्वादश्यामेव ऋक्षयोगाभावे तिथ्यन्तरे एकादश्यादौ पादादरं दर्शयति।
 
@@ -5645,8 +4965,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^284]: "न तु द्वादश्यामिवेत्यादि। यथा शयनादौ द्वादश्यां नचत्रमात्रयोग आदरणीयः तथा एकादश्यां न त्वित्यर्थः। तथाच शयनादौ एकादश्यां नक्षत्रपादविशेषयोग एव आदरणीय इति भावः। अन्यथा द्वादश्यामिव एकादश्यामपि पाद विशेषयोगमनादृत्य रक्षत्रमात्रयोगस्यादरणीयत्वे प्रातस्य स्वीकृतस्य। अनपेक्षितविधिश्चेति एतद्वाधविशेषणम् अनपेक्षितो विधिर्यत्र सः। द्वादश्यामेव एवकारात् न तु एकादश्यादौ। सर्व्ववचनेषु द्वादश्यामृक्षसंयोगे इतिः द्वादश्यामृक्षसङ्गमादिति द्वादशीऋक्षसंयोगे इत्यादिवचनेषु द्वादशीपदमुपलक्षणं स्यादिति एकादश्युपलक्षणापत्तिः स्यात् स्वप्रतिपादकत्ले सति खेतरप्रतिपादकत्वमुपलक्षणत्वम् इति तल्लक्षणात्।"
 
  यत्तु।
-
-
 
 **"एकादश्यां द्वादश्याञ्च नित्यं सन्निहितो हरिः।  
 तत्र नक्षत्रयोगेन पादयोगो न कारणम्॥”**
@@ -5663,8 +4981,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **ऋक्षादिपादयोगे च रजन्यान्तु तिथिद्वये।  
 त्रयोदश्यां चतुर्दश्यामृक्षादेव तथा हरेः।  
 निशि स्वापो भवेत्तस्य पादयोगस्य कारणात्॥"**
-
-
 
 तत्तिथित्रयेऽपि पादयोगस्य कारणतामाह। अतो द्वादश्यामेव पादयोगस्यानादरो न त्वेकादश्यामपि। एवं शयनेऽपि यदा दिवा द्वादश्यां मैत्राद्यपादःत्रयोदश्याञ्च तदितरपादत्रयं तत्रापि सायंसन्ध्यायां विधानमुक्तम्। तथाप्युभयोरेकाङ्गविकलत्वादेव[^287]शयनेऽपेक्षासद्भावात् सामान्येन वचनस्य तात्पर्यम्। यद्विहितकालद्वयाभावे विहितनक्षत्रमात्रमादृत्य सायंसन्ध्यायां देवशयनादिकमाचरणीयमिति। यदा पूर्वोक्तकालद्वयन्नास्ति सन्ध्यायाञ्च नक्षत्रस्याप्यलाभस्तदाषाढ़भाद्रकार्त्तिकमासीयशुक्लद्वादशीमात्रादरेण देवशयनादिकं करणीयम् ( १ )[^288]।
 
@@ -5685,8 +5001,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 वाचनिकत्वात् सामान्यमुखप्रवृत्तस्य तत्र “नक्षत्रयोगेन पादयोगो न कारण” मित्यस्य उत्थानमात्रपरत्वेन सङ्कोचस्यान्याय्यत्वमिति भावः।
 
-
-
 द्वादश्यां सन्ध्यायां नक्षत्रासम्भवे द्वादशीमात्रे सायंसन्ध्यायां शयनादिकं कुर्य्यादिति वैकल्पिकमिदं[^290] माथुरमिति जल्पन्ति। तथेदमपि वचनमस्मिन्नेव विषये योजनीयम्।
 
 [^290]: "यद्विहितकालद्वयाभावे इति। निशादिविहितकाले द्वादशोमैत्रादिनक्षत्रयोगद्वादशीत रैकादश्यादिविहितनक्षत्रपादयोगरूपविहितकालद्वयाभावे इत्यर्थः। आचरणीयमिति तथाच द्वादश्यां सन्धिसमये नक्षत्राणामसम्भवे इति वचने नक्षत्राणामसम्भवे सन्धिसमये द्वादश्यां शयनादिविधानात् नक्षत्रसम्भवे विहितनक्षत्र एव सन्धिसमये शयनादिकमर्थात्सिध्यति इत्यभिप्रेत्य विहितनक्षत्रमात्रमादृत्य सायंसन्ध्यायां देवशयनादिकमाचरणीयमित्यक्तमिति भावः। आदिपदं शयनावर्त्तनादिकम् इत्यादिपदं पूर्वोक्तकालत्रयाभावे इति। निशादौ द्वादश्या नक्षत्रमात्रयोग एकः। निशाद्यनादरेण एकादश्यादि पञ्चसु तिथिषु नक्षत्रविशेषपादविशेषयोगः द्वितीयः। सायंसध्यायां द्वादश्यां विहितनक्षत्रयोगः तृतीयः एतद्रूपपूर्वोक्तकालत्रयाभावे इत्यर्थः। तदभावे सायं सन्ध्यायां द्वादशोमात्रयोगः इति कल्पचतुष्टयमिति व्यवस्थानिष्कर्षः। इत्येवंविधवैकल्पिकमिदमित्यर्थः।"
@@ -5702,8 +5016,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 रूपैकाङ्गस्य विकलत्वम्। रात्रौत्रयोदश्याम् इतरपादत्रययोगेऽपि मैत्राद्यपादे स्वपितीत्यादिवचनबोधिताद्यपाद-योगस्यैकाङ्गस्य विकलत्वमिति भावः।
 
-
-
 **"आभाकासितपक्षेषु विष्णोरमिततेजसः।  
 स्वापावृत्तिप्रबोधाश्च द्वादश्यां क्रमशो मताः॥”**
 
@@ -5712,8 +5024,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^292]: "तस्याप्यभावे द्वादश्यामेव सन्ध्यायामिति अपराण्यपि केवलद्वादशीवचनानि अस्मिन्नेव विषये वर्णनीयानि। ननु माथुरकल्पोऽयं द्वादशीमात्रे पृथगेव नैवं पूर्व्वोक्तकालाभावे विधानात् इति पाठः क्वचिदादर्शपुस्तके दृश्यते।"
 
 [^293]: "कालचतुष्टयं दर्शयति द्वादश्यान्निशादावित्यादि। शयनादौ कालचतुष्टयमुक्तम्। एतेन रात्रौ द्वादश्यां रेवत्यन्तपादयोगे दिनशेष भागे एकादश्यां रेवतीनक्षत्रयोगे उत्थानस्य"
-
-
 
 णात् न च पूर्वोक्तकालानाञ्चतुर्णामप्यसम्भवः सम्भवति आषाढ़भाद्रकार्त्तिकानाञ्च चान्द्राणां पक्षचतुष्टयेऽप्यपरित्यागात्[^294]।
 
@@ -5733,8 +5043,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति पृथगवचनसामर्थ्यात् केवलद्वादश्यामेव मथुरामाधवस्य शयनबोधनादेः पृथग्विधिः नैवम्। पूर्व्वोक्तकालाभावे इति पूर्व्वोक्तकालाभावे द्वादश्यामृक्षसंयोगाद्यभावे एवं सायंसन्ध्यायां विहितनक्षत्रयोगतदभावाभ्यां व्यवस्थितवैकल्पि के नेत्यर्थः। विधानात्द्वादश्यां सन्धिसमये नक्षत्राणामसम्भवे इत्यनेन वैकल्पिकविधानात्।
 
-
-
 यत्तु वचनम्।
 
 **रेवत्यादिरथान्तो वा द्वादश्याञ्च विना भवेत्।  
@@ -5752,8 +5060,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अर्थाबोधादमात्वं चेन्न सामान्यानुमानतः॥**
 
 पूर्व्वोक्तकालानां चतुर्णामपीति। द्वादश्यां निशादौ नक्षत्रमात्रयोगः तदसम्भवे निशाद्यनादरेण नक्षत्रपादविशेषयोगः तदसम्भवे सायंसन्ध्यायां नक्षत्रमात्रयोगः तदसम्भवेसायंसन्ध्यायां दादशीमानयोगः। सम्भवं दर्शयति आषाढ़भाद्रेत्यादि सौरपरत्वे सदा योगाप्रसक्तेराह चान्द्रामिति। पक्षचतुष्टये द्वादश्यां निशादौ नक्षत्रयोगादिरूपकल्पचतुष्टयेऽपीत्यर्थः। नक्षत्रयुक्ता रेवतीनक्षत्र युक्ता दिवा न प्राप्ता इति उत्थानविषय मिति दिवोत्थानमिति स्मरणात्।
-
-
 
 यथा विष्णुधर्मोत्तरे मार्कण्डेयः।
 
@@ -5774,8 +5080,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अयञ्च कल्पोऽन्य एव वैकल्पिकः[^297] न तु पक्षान्तशब्दःसामीप्यात्द्वादश्यादिलक्षणार्थः लक्षणाकारणाभावात्। पौष्णशेषेण किन्तेन प्रतिपद्यथ यो निशीत्यनेन पौर्णमास्यामभ्यनुज्ञानादागमाविरोधात् पक्षान्तशब्द एव वा पक्षस्य त्रिभागेनैकादश्यादितिथिपञ्चकं पौर्णमासीपर्य्यन्तमन्तभागमाह तेन पञ्चतिथीनामन्य-
 
 [^297]: "रेवत्यादिरथान्तोवा इति। देवत्यादिरित्यस्व भावार्थं व्याचष्टे नक्षत्रयुक्ता द्वादशीदिवा न प्राप्ता इति न वाप्यन्याप्युक्ता रात्राविति च। अथान्तो वा इत्यस्य विवृतिमाह न च देवत्यन्त इत्यादि। तेनोभयाभाव इति दिवा रेवतीयुक्ता द्वादशी नाति एवं तदन्तपादयुक्ततिथ्यन्तरमपि नास्तीत्युभयोरभाव इत्यर्थः। आषाढ्याम् आषाढ पौर्णमास्यां संविशेत् शयोत। तयोः आषाढ़ौकार्त्तिक्योः। तं हरिम्। अयञ्च कल्पः आषाढ़पौर्णमास्यादौ शयनादिकल्पः अन्य द्वादश्यादिशयनादिकल्पभिन्नः। वैकल्पिकः त्रयोदश्यादिपादयोगेन सह व्यवस्थित विकल्पः। तथाच त्रयोदश्यादौ नक्षत्रपादयोगाभावे पौर्णमास्यामपि पादयोगेन यथासम्भवशयना दिर्भवितुमर्हतीति भावः।"
-
-
 
 तमायां स्वपिति आषाढ़ीकार्त्तिकोपदमप्येतासामन्यतममाह। एतेन किन्तन्मैत्राद्यपादेनेत्यनेन पञ्चतिथीनामभ्यनुज्ञानं सुव्यक्तम्।
 
@@ -5800,8 +5104,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^299]: "मिथुनादौ मलमासे हरिशयनं निरूप्य मिथुनमात्रे मलमासे मुख्यद्विराषाढ़ं हरिशयनादिकं निरूपयितुं प्रतिजानौते सम्प्रतीति। अधिको मासः अधिमासो मलमासः इत्यर्थः। कर्कटे सौरश्रावणे वृश्चिके सौरमार्गे। मासै चतुर्भिरिति आषाढशुक्लपनमारभ्य कार्त्तिकपर्यन्तम् अष्टसंख्यकपक्षेण इत्यर्थः। कन्यायां सौराविने शचीपतिः शक्रोत्थानम् ।"
 
-
-
 समुत्पन्ने सम्यगुत्पन्ने मुख्ये द्विराषाढ़ इत्यर्थः। तदा हरिशयनार्थंशक्रदुर्गोत्सवहरिहुताशनानां चोत्थानं चान्द्राणामाषाढ़भाद्राश्विनकार्त्तिकमाघानां कर्कटकन्यातुलावृश्चिककुम्भेष्वेव प्रतिलम्भात्।
 
 यद्यपि च
@@ -5816,8 +5118,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 --------------------------------------------------------------------------------------
 
 दुर्गा चैवेति दुर्गोत्सवः तुलाधरे सौरकार्त्तिके। आखण्डल इन्द्रः।अनन्तो विष्णुः।कुम्भे सौरफाल्गुने। हुताशनः वह्न्युत्सवः।
-
-
 
 हाराय गौणस्य चान्द्रस्य शास्त्रार्थता अन्यत्र तु निरपवादो मुख्यः सौर एव वचनार्थ इति दर्शयति तस्मादशोकाष्टमीप्रभृतीनामुत्कर्षमनुत्कर्षं माघीसप्तमीप्रभृतीनां विशेषकारणमन्तरेण ब्रुवाणा अवधीरणीया एव मनीषिभिः।
 
@@ -5839,15 +5139,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अधिमासनिपाते तु क्रमादिन्द्राम्बिकाहरीन्  
 कन्यातुलावृश्चिकेषु नृप उत्थापयेद्ध्रुवम्॥**
 
-
-
 अनेनैतदुक्तमधिमासं विना शक्रध्वजोत्थानविष्णुपार्श्वपरिवर्त्तने विष्णुशयनान्मासद्वयेन[^302]कर्त्तव्ये दुर्गोत्थानञ्च मासत्रयेणैव। एवकारोऽत्रैव सम्बुध्यते अन्यथा अनर्थकत्वात्। सति त्वधिमासे अन्यथेति तुशब्दार्थं दर्शयति। अधिमासपाते पुनरन्यथा कन्यायां शक्रोत्सवपार्श्वपरिवर्तौ तुलायां दुर्गोत्थानं वृश्चिके देवोत्थानमिति। अनेनैतद्दर्शितं शयनात्त्रिभिर्मासैः शक्रोत्सवः चतुर्भिर्दुर्गायाः पञ्चभिर्देवोत्थानम्। एवं मासचतुष्टयेनेत्यस्योत्तरत्रिकाधिमासेऽपवादो दर्शितः अन्यथा भावानुपपत्तेः। उत्तरत्रिकाधिमासे मिथुने देवशयने सत्ययमर्थः सिध्यति। अतोऽधिमासपाते तु क्रमादिति सम्बन्धो[^303]न तु क्रमादिन्द्राम्बिकाहरीन्
 
 [^302]: "यत्रोत्कर्षः श्रूयते इति। उत्कर्षश्रुतिस्तु चान्द्रत्वेन सौरत्वेनोभयथा श्रुतिरित्यर्थः। गौणस्य गौणस्यापि दर्शयतीत्यस्य ब्रुवाणा इत्यनेन सम्बन्धः। उत्कर्षं चान्द्रपरताम् अशोकाष्टमीप्रभृतीनामित्यनेन सम्बन्धः। अनुत्कर्षं सौरपरतां माघीसप्तमीप्रभृतीनाभित्यनेन सम्बन्धः अवधीरणीया निन्दनीयाः। एवमेव सर्व्वं कर्कटादौ हरिशयनादिकमेव सर्व्वम्। उत्तरत्रिके श्रावणादिमासत्रये। मिथुन एव हरिशयनं श्रावणादौ मलमासे मिथुन एव आषाढ़ शुक्लपक्षसमापनात्। वक्रातिचाराभ्यां मन्दशीघ्रगतिभ्याम्। वृश्चिके विष्णूत्थानमिति शुद्धकार्त्तिक शुक्लपक्षीयद्वादश्यादेवृश्चिके अवश्यम्भावात्। विष्णुशयनान्मासद्वयेन विष्णुशयनादूर्द्धं मासद्वयेनेत्यर्थः। मिथुनार्कगताषाढ़ादूर्द्धं मासद्वयं भाद्र एव भवति।"
 
 [^303]: "त्रिभिर्मासैरित्यस्यार्थमाह मासत्रयेणेति। तदपेक्षया आश्विन एव भवति। इन्द्राम्बिकाहरीन् शक्रोत्थानदुर्गोत्सवविष्णूत्थानानि। अधिमासनिपाते तु अधिमासं विनैव तु इत्यनेन व्यवस्था मुक्त्वाअधिमासनिपाते तु इत्यत्र व्यवच्छेदार्थक-तुशब्दार्थमाह अन्ययेति। तुशब्दार्थं दर्शयति इति अधिमासे पुनरन्यथा अधिमासाभावे शक्रोत्थानादिकं सिंहे उक्तम् अधिमासे तु कन्यायामिति सुतरामन्यथात्वम्। शयनात्त्रिभिर्मासैरिति"
-
-
 
 कन्यादिष्विति इन्द्रादीनाञ्च कन्यादीनाञ्च समसंख्यत्वेन समासनिर्द्देशेन समत्वम्। यथासङ्ख्यमन्वयस्य सिद्धत्वात् क्रमादिति वैयर्थापत्तेः। तेनोत्तरत्रिकाधिमासोऽपि यदि कर्कटसिंहयोर्भवति तदा कन्यातुलावृश्चिकेषु “इन्द्राम्बिकाहरीन्” अथ कन्यायां तदा तुलावृश्चिकयोरम्बिकाहरीन् तुलायाञ्च वृश्चिके हरिमुत्थापयेत् इत्यधिमासनिपातक्रमात्। क्रमेण इन्द्रादीनामुत्थानमिति तस्यार्थः। तत्रैव चान्द्रलाभादित्यभिप्रायः। तस्मात् शयनपार्श्वपरिवर्त्तनशक्रदुर्गाविष्णूत्थानानि चान्द्रेष्वेवाषाढ़ादिकेषु। ननु यद्याभाका इत्यादिपरिग्रहस्तदेतन्मूलभूतासु श्रुतिषु आषाढ़ादिपदानि चान्द्रेष्वेष्टव्यानि न केवलं वैशाखपदं नैतत् मिथुनसिंहकन्यातुलोपक्रान्तेषु[^304] प्रतिपदादिमासेषु देव-
 
@@ -5856,8 +5152,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 --------------------------------------------------------------------------
 
 श्रावणादौ अधिमासे इत्यर्थः। तथाच श्रावणादौ मलमासे मिथुन एव हरिशयनं भवति तदूर्द्धं त्रिभिर्मासैः सुतरां कन्यायामेव शक्रोत्सवः भवति। उत्तरत्रिकाधिमासे श्रावणादित्रिकाधिमासे। अपवादोविशेषः। अन्यथाभावानुपपत्तेः अन्यथाभावोऽन्यथात्वं तदनुपपत्तेरित्यर्थः। अयमर्थः शयनात् त्रिभिर्मासैः शक्रोत्यानं चतुर्भिर्मासैर्दुर्गोत्थानं पञ्चभिर्मासैर्देवोत्थानम् एवंरूपोऽर्थः सिध्यतीत्यर्थः। अतोऽधिमासपाते तु उत्तरत्रिकाधिमासेषु क्रमादिति सम्बन्धः इति क्रमादधिमासपातक्रमादित्यर्थः।
-
-
 
 शयनादिकं कुर्य्यादिति श्रुतयः कल्प्या न पुनराषाढादिपदवत्योऽनुपयोगात् अतो नामित विरोधः कश्चित्। लक्ष्मीप्रबोधः तुलायामेवेति अलमतिविस्तरेणेति सर्व्वं सुस्थम्[^305]। ननु भवन्मते सौरेष्वेवाषाढ़ादिशब्दानां मुख्यत्वात् चान्द्रे तु गौणत्वादाभाकेत्यादिषु सौरग्रहणमेव युक्तम्। यथा वा योग्लौको मन्यते मिथुनाद्युपक्रान्तेषु चान्द्रेषु सौरेषु मिथुनादिषु राशिभोगात्मकेष्वाषाढादिपदानां रूढ़िणैव वाचकत्वे सत्यपि शयनादिषु "मिथुनस्थ" इत्यादिनिर्द्देशादाभाका इत्यादिष्वपि सौरपरत्वमेव निर्णीयते। अतः कथं चान्द्रेषु शयनादिविधिः।
 
@@ -5872,8 +5166,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 सिंहे विधानात् आह अथ कन्यायां तदेत्यादि। तुलायाम् अधिमासपाते तु कन्यायां दुर्गोत्सवस्य समापनादाह तुलायाञ्चेति अधिमासपाते इति शेषः। मिथुनसिंहकन्यातुलोपक्रान्तेषु मिथुनस्थसिंहस्थकन्यास्थतुलास्थरव्यारब्धेष्वित्यर्थः।
 
-
-
 **“अधिमासेऽपि पतिते एष एव विधिः स्मृतः।  
 नान्यथा स्नापयेद्देवं न चैवोत्थापयेद्धरिम् ॥” भविष्यपुराणे।**
 
@@ -5886,8 +5178,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“अधिमासनिपाते तु क्रमादिन्द्राम्बिकाहरीन्।**  
 **कन्यातुलावृश्चिकेषु नृप उत्थापयेद्ध्रुवम्॥”**
 
-
-
 एवमादिवचनैश्च पूर्व्वत्रिकाधिमासे सत्युत्कर्षः[^307] शयनादीनां क्रियते। कर्कटे त्वधिमासे सति शयनादीनां मिथुनसिंहकन्यातुलास्वेव क्रिया नोत्कर्षः कस्यचित्। सिंहे त्वधिमासपाते तस्य मलिम्लुचत्वात् शक्रोत्सवपार्श्वपरिवर्त्तौकन्यायाम्। दुर्गोत्सवः कन्यायामेव सौर एव दुर्गोत्थानविधानात् तस्य चादुष्टत्वात्। विष्णूत्थानं तुलायामेव। कन्यायाञ्च मलिम्लुचेसिंह एव शक्रोत्सवः, दुर्गोत्सवस्तु तुलायां, देवोत्थानमपि तुलायामेव। तदयमर्थः। उत्तरत्रिकेऽधिमासे मिथुनतुलयोरेव देवशयनोत्थाने न तु तयोरुत्कर्षः। शयनोत्कर्षहेतोरधिमासस्यापतितत्वात् उत्थाने च कर्कटशयनोत्कर्षहेतोरभावात्।
 
 [^307]: "गणितगम्याधिमासान्तरस्येति। तथाच यत्र पूर्व्वं माधवादित्रिके अधिमासस्तत्र पञ्चाव्दान्ते तु पश्चिममिति वचनात् पञ्चादान्ते श्रावणादित्रिके अधिमासस्य शास्त्रीयतया यत्र पञ्चाव्दान्ते मिथुने अधिमासपातः कन्यायां पुनरधिमासान्तरं तत्र कन्यायामधिमासस्य प्रकृततया मिथुने पुनर्गणितगम्यमात्रमधिमाससमानं न तु प्रकृतमधिमासान्तरं तत्र तत्सत्त्वेऽपि मिथुन एव हरिशयनं मिथुन एव प्रकृताषाढ़समापनात् न तु कर्कटे तस्योत्कर्षः तस्य प्रकृताषाढ़ाधिमासविषयत्वमिति भावः। यत एव प्रकृतमलमासे शुद्धाषाढस्य कर्कटगतत्वम्अतएवेत्यर्थः। पूर्व्वत्रिकाधिमासे वैशाखादित्रये प्रकृताधिमासे सतीत्यर्थः। उत्कर्ष इति तत्र शुद्धाषाढस्य कर्कटगतत्वात् कर्कट एव शयनोत्कर्षः। भाद्रस्य आश्विनगतत्वात् कार्त्ति- कस्य वृश्चिकगतत्वाच्च यथाक्रमं पार्श्वपरिवर्त्तनोत्थानयोरुत्कर्षः।"
@@ -5896,8 +5186,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **"अमावास्यां तुलादित्ये लक्ष्मीर्निद्रां विमुञ्चति।  
 तस्मिन् शुक्ले सदा विष्णुस्तुलायामथवृश्चिके॥”**
-
-
 
 **“शुक्लपक्षे यदा भानुस्तुलां समधिरोहति।  
 उत्तिष्ठत्यग्रतो विष्णुः पश्चात् कृष्णचतुर्द्दशी॥"**
@@ -5911,8 +5199,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^308]: "कर्कटे त्वधिमासपाते सतीति। तथाच अधिमासनिपाते तत्र तद्वचनस्य पूर्वत्रिका-धिमासमात्रविषयता तदेव दर्शयति शयनादीनामित्यादि। तथाच कर्कटे अधिमासे मिथुन एव हरिशयनस्य वास्तविकत्वात् कर्किण्यर्केहरौ सुप्ते इति वक्ष्यमाणवचनात् कर्कटहरिशयनस्थल एव आश्विनादौ शक्रोत्यानादिनियम इति स्वयं वक्ष्यति। शयनोत्कर्षहेतोरधिमासस्येत्यादि तथाच यत्र पूर्वत्रिकाधिमासः तत्रैव कर्कटहरिशयनाद्युत्कर्षात् कर्किण्यर्के इति वचनाञ्च तत्रत्यमलमासस्य शयनोत्कर्षहेतुता नोत्तरत्रिकमलमासस्य शयनोत्कर्षहेतुत्वमिति भावः। अस्य वचनद्वयस्य अमावास्यां तुलादित्ये इति वचनस्य शुक्लपक्षे यदा भानुरिति वचनस्य च। उत्सर्गापवादन्यायेन सामान्य विशेषन्यायेन। अथ शुक्लपक्षे तुलासंक्रान्तौ चापवाद इति तथा च यत्र वैशाखादित्रितयान्यतमाधिमास्तत्रैव कृष्णपक्षे तुलासंक्रान्तिसम्भवात् कर्कटे हरिशयनेन कर्किण्यर्के इति वचनविषयसभावाञ्च हरिशयना-"
 
-
-
 सूरयः। तदेतत् दुर्भिक्षकालायाचितवृत्तिब्राह्मणवदनर्थकवचनमिदम्(१)[^309]। तस्मादवश्यं[^310]तुलासंक्रान्त्यनन्तरमेव देवोत्थानम-भिधेयं, तदनन्तरिते कृष्णपक्षे च तुलायामेव कृष्णचतुर्दशी। तत्परभूताऽमावास्यायाञ्च लक्ष्मीप्रबोधः, सा च सुखरात्रिरित्युच्यते। इत्युपपन्नमुत्तिष्ठत्यग्रत इति। उत्तरत्रिकाधिमासे चागामिवत्सरे शुक्लद्वादशीतः पूर्व्वंमिथुनसंक्रान्तौ यदि मिथुनादौ तदन्ते चानुराधाद्वादशीप्राप्तिः, तदा मासि संवत्सरे चैव तिथिद्वैध-
 
 [^309]: " दुर्भिक्षकालायाचितवृत्तिव्राह्मणवदनर्थकं वचनमिदं विपद्येत इति क्वचित्आदर्शे पाठः।"
@@ -5922,8 +5208,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 -------------------------------------------------------------------------
 
 देरुत्कर्षात् लक्ष्मीप्रबोधानन्तरमेव वृश्चिक एव हरेरुत्थानम्। यत्र तु श्रावणादित्रितयान्यतममासे अधिमासपातः तत्र शुक्लपक्षे तुलासंक्रान्तिसम्भवात् कर्कटे हरिशयनाभावेन कर्किण्यर्केइत्येतद्वचनाविषयत्वात् शयनादेरुत्कर्षाभावेन शुक्लपक्षे यदा भानुरित्यादिवचनात्हरेरुत्थानानन्तरमेव लक्ष्मीप्रबोधरूपसुखरात्रिका इति अपवादः विशेष इत्यर्थः। तद्विषयत्वं कर्किण्यर्केहरौसुप्ते इत्येतद्वचनविषयत्वम् तावद्वास्य वचनस्य इत्यन्वयः अत्र नास्य वचनस्येति पाठः प्रामादिकः लिपिकरप्रमादमानम्। विपर्य्यायपरत्वन्तावन्नास्य वचनस्येति पाठे व्यक्त एवार्थः। उत्तरत्रिकाधिमासेन श्रावणादित्रितयान्यतममासाधिमासपातेन। शुक्लपक्षे तुलासंक्रान्तौ चापि तुलासंक्रान्तिसम्भवेऽपि। परिभाव्य परिकल्प्य।
-
-
 
 मित्युत्तरप्राशस्त्यान्मिथुनान्त एव शयनविधिः[^311]। अथ मिथुने तत्प्राप्तिः। कर्कटादौ च तथाविधकालप्राप्तिः, तदा कर्कट एव शयनं वचनात्तदाह सत्यः।
 
@@ -5943,8 +5227,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 द्विराषाढ़मृते विष्णुः परं कर्कटके स्वपेत्[^312]॥”**
 
 [^312]: "वृषं त्यक्त्वेति। वृषस्थरव्यारब्धशुक्लप्रतिपदादिदर्शान्तं मुख्यचान्द्रमासं त्यक्त्वा इत्यर्थः। चतुर्थ्यर्द्धे पञ्चम्यादौ षड़शीतिरिति। धनुर्मिथुनकन्यासु मीने च षड़शीतय इति वचनात्द्विराषाढ़ं गौणद्विराषाढम्। अस्य द्विराषाढस्य शुक्लचतुर्थीमतिक्रम्येति तत्पूर्वशुक्लप्रति पदादिदर्शान्तमुख्यचान्द्रमाससहितशुक्लचतुर्थीपर्य्यन्तमतिक्रम्येत्यर्थः। द्विराषाढ़ं गौणद्विराषाढ़ं कर्कटादौ आदिना सिंहतुलयोः परिग्रहः अतएव स्वपेदित्युपलक्षणं पार्श्वेन परिवर्तयेत् उत्थापयेच्च इत्यपि बोध्यम्। प्रथमेऽकि शुक्लप्रतिपदि द्वितीय शुक्ल द्वितीयायां मेष-"
-
-
 
 एतद्व्याख्यातम्। विष्णुः परं कर्कटके स्वपिति शेषन्तु शक्रोत्सवादि यथाकालमेव कार्य्यम्।
 
@@ -5971,13 +5253,9 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 मियात् रविः मेषराशिञ्चरेत् द्विराषाढ़मृते मलमासं विनापीत्यर्थः। तथा च शुक्लप्रतिपदादौ रवेर्मेषादिसञ्चारे तत्शुक्लप्रतिपदादिदर्शान्तमासस्य चान्द्रचैत्रत्वात् तस्य च सौरवैशाखे मेषशेषे समापनात् तदुत्तरवृषराशौचान्द्रवैशाखसमापनात् तदुत्तरमिथुनराशौ चान्द्रज्यैष्ठसमापनाच्च कर्कट एव चान्द्राषाढ़ीयद्वादशी सम्भवति। तत्र हरिशयनादिति भावः।
 
-
-
 मन्यामहे। तत्र प्रथमतस्तावदनेकाभिधायकमाषाढ़ादिपदं रूढ्यैवेत्यसङ्गतं वचनम्। स्तोकशक्त्युपपन्नेऽर्थे बहुशक्तिरप्रामाणिकीति न्यायात्। एक एव कल्पनायां सौरे विनिगमनाप्रमाणं प्रदर्शितमेव प्राक्। यदपि देवशयनादौ सौरमासग्रहणार्थं वचनमुपन्यस्तं, 'मिथुनस्थे सहस्रांशावित्यादि,' तदपि तदर्थानवबोधादेव सौरपरिग्रहेऽधिमासेऽपि पतित इति नियमविरोधात्। कर्कटवृश्चिकयोरपि शयनोत्थानोत्कर्षदर्शनात्। न च गणितमात्रगम्योत्कर्षानुपयुक्ताधि-मासान्तराभिप्रायवर्णनया विरोधपरिहारो वाच्यः। तस्य शास्त्रतो वैदिककर्म्मोत्कर्षनिमित्तत्वेनापरिज्ञातस्य शयनादावुत्कर्षहेतुभावाप्रसक्तौ प्रतिप्रसववचनत्वानुपपत्तेः[^314]। तस्मान्मिथुनस्थे सहस्रांशाविति वचनस्यायमर्थः।
 
 [^314]: "हरिद्वयमिति। तथाच भाद्रमलमासे यदा मलभाद्रसम्बन्धिश्रवणनक्षत्रयुक्त्दादशी शुद्धभाद्रसम्बन्धि - श्रवणनक्षत्रयुक्तशुक्लद्वादशी चेत्यर्थः। परे शुद्धभाद्रसम्बन्धि-श्रवण-नक्षत्रयुक्तशुक्लद्वादश्यां कन्यायान्तु विसर्जयेदिति भरण्यन्तपाद इति शेषः।  तथाच कालिकापुराणे।  अथातः शृणु राजेन्द्र शक्रोत्थानध्वजोत्सवम्। यत् कृत्वा नृपतिर्याति नो कदाचित् पराभवम्॥ रवौ हरिस्थे द्वादश्यां श्रवणे सितपक्षके। आराधयेत् नृपः सम्यक्सर्व्वविघ्नोपशान्तये॥ श्रवणर्क्षयुतायान्तु द्वादश्यां पार्थिवः स्वयम्। अन्तपादे भरण्यान्तु निशि शक्रं विसर्जयेत्॥  कन्यायां पुनरन्ते चेति आदावन्ते च इत्यर्थः। शक्रमहः शक्रोत्थानम्। सैंहे सिंह एव सैंहं तस्मिन् सौरभाद्र इत्यर्थः। कान्ये कन्या एव कान्यः तस्मिन् सौराश्विन इत्यर्थः,"
-
-
 
 मिथुनस्थसूर्य्यप्रारब्धे चान्द्रे मासि प्रतिपदादिदर्शान्ते मधुसूदनं स्नापयेत्। तुलास्थसूर्य्यप्रारब्धे चान्द्रेषूत्थापयेत्। अधिमासे पतितेऽपि यदा कर्कटे देवशयनं, वृश्चिके उत्थापनं, तदापि मिथुनतुलोपक्रान्तयोरेव चान्द्राषाढ़कार्त्तिकयोः शयनोत्थाने 'एष एव विधिः सदा,' न पुनरेतस्मादन्यथा कदाचिदपि स्वापः प्रबोधो वा सर्व्वथायमर्थो न व्यभिचरतीत्यर्थः। सौरे तुलाद्यर्थं गृह्यमाणेऽधिमासे कर्कटवृश्चिकयोः शयनोत्थानोत्कर्षादधिमासे-
 
@@ -5985,15 +5263,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 पक्षौ शुक्लपक्षद्वयम्। परे परभूतश्रवणनक्षत्रयुक्तद्वादश्याम्। कन्यायामिन्द्रदुर्गयोरित्यत्र व्यवस्थामाह कन्यायां श्रवणद्वये इत्यादि। द्वितीये कन्यासम्बन्धि द्वितीय श्रवणनक्षत्रे ।दुर्गाया इति विसर्जनमिति शेषःश्रवणेन विसर्ज्जयेदित्येकवाक्यत्वात्। योगीश्वरेण तन्नाम्नानिबन्धकारेण। व्याख्यात इत्यनेन द्विराषाढ़विकल्प इत्यनेन सम्बन्धः। अनेकाभिधायकम् अनेकार्थाभिधायकं रुढ्या रूढ़िशक्त्या। स्तोकशक्त्युपपन्नेऽर्थे एकत्र शक्तिस्वीकारेणोपपत्तिसम्भवे बहुशक्तिः नानाशक्तिस्वीकारः अप्रामाणिकीति गौरवादिति शेषः। विनिगमनाप्रमाणं तपस्तपस्यावित्यादिश्रुतिरैवेति शेषः। तदर्थानवबोधनादेव मुनिवचनतात्पर्थ्यापरिज्ञानादेव सौरपरिग्रहे हरिशयनादाविति शेषः। अधिमासे पतिते माधवादित्रिके मलमासपाते नियमविरोधादिति तथा च माधवादित्रिके मलमासपाते कर्कटे हरिशयनोत्कर्षात् मिथुनस्थे सहस्रांशाविति वचनेन हरिशयनस्य मिथुन नैयत्यवाघापत्तेरिति भावः। गणितमात्रगम्यः गणितशास्त्रमात्रबोध्यः उत्कर्षानुपयुक्ताधिमासान्तराभिप्रायवर्णनया मासवृह्याद्यप्रयोजकीभूतभानुलङ्घितरूपमलमासान्तराभिप्रायवर्णनया विरोधपरिहार इति। तथाच मिथुनादौ हरिशयनादिस्वीकारे कर्कटादौ हरिशयनादीनामुत्कर्ष विधायकवचनेन सह यो विरोधः तस्य परिहारः अनया वर्णनया करणीय इति भावः। तस्य गणितमात्रगम्यस्य हेतुभावाप्रसक्तौ हेतुताप्रसक्तौ प्रतिप्रसववचनत्वानुपपत्तेः गणितमात्रगम्यत्वेन प्रतिप्रसवविधानानुपपत्तेः।
 
-
-
 ऽप्येष एव विधिर्नान्यथेत्यादिकं वाच्येत। सकलपदानुरोधेन वाच्यार्थवचनं युक्तम्। ततश्च मिथुनस्थे सहस्रांशावित्यत्रोपक्रान्ते चान्द्रे इत्यत्राध्याहार्य्यम्[^315]। सौरपरिग्रहे कल्पनागौरवमिति तथाहि “आभाका” इत्यस्य तावन्मूलभूतञ्चान्द्रसौरयोरन्यतरत्र शयनादिविधानार्थं श्रुतित्रयम्। मतद्वयेऽपि शक्रदुर्गोत्सवार्थमपि श्रुतिद्वयं निर्विवादम्[^316]। सौरवादिना त्वपरा अप्यधिकाः
 
 [^315]: "ननु यदि शयनादौ न सौरपरत्वं तदा मिथुनस्थसहस्रांशाविति वचनस्य का गतिरित्यत आह तस्मादित्यादि। अयमर्थः वक्ष्यमाणोऽर्थः। मिथुनस्थ इत्यादिवचनस्य चान्द्रपरतथा व्याचष्टे मिथुनस्थ सूर्य्य प्रारब्ध इत्यादि। मिथुनस्थे सहस्रांशौ इत्यत्र लक्षणया व्याककरोति मिथुनस्थ सूर्य्यप्रारब्धे चान्द्रे मासि इत्यादि। मिथुनतुलोपक्रान्तयोरेव मिथुनस्थतुलास्थरव्यारब्धयोरेव एष एव चान्द्रनियम एव। सदा एतस्मात् चान्द्रात् अन्यथा अन्य प्रकारं कदाचिदपोत्यस्य नेति इत्यनेन सम्बन्धः। अयमर्थः चान्द्रमासग्रहणरूपोऽर्थः। तुलाद्यर्थम्आदिना मिथुनपरिग्रहः। तथाच मिथुने चान्द्राषाढ़ अधिमासे तुलायां चान्द्रकार्त्तिके च अधिमासे कर्कटव्वृश्चिकयोः शयनोत्थानादिति। तथाच मिथुने चान्द्राषाढ़ अधिमासे मिथुनगतचान्द्राषाढस्य मलमासत्वेन कर्मानर्हतया कर्कटगतशुद्धचान्द्राषाढ़ एव हरिशयनम्। एवं तुलागत चान्द्र कार्त्तिके मलमासे तत्कार्त्तिकस्य कर्म्मानर्हतया वृश्चिकगतशुद्धकार्त्तिक एव हरेरुत्थानम्। एष एव विधिः कर्कटादिगते शुद्धचान्द्राषाढ़ादौ शयनायुत्कर्ष एव विधिः नान्यथा नाधिमासं विना। सकलपदानुरोधेन आषाढादिपदकर्कटादिपदसार्थक्यानुरोधेन वाच्यार्थवचनं पदानां शक्यार्थनिरूपणम्। इत्यत्र एतद्वचने उपक्रान्तचान्द्रे इति मिथुनस्ये सहस्रांशौ इत्यत्र मिथुनस्थर व्यारम्भ इत्यधिकं चान्द्रार्थग्राहकं पदमध्याहार्य्यम्।"
 
 [^316]: "सौरपरिग्रहे हरिशयनादौ सौरमासमात्रग्रहणे कल्पनागौरवमिति वाचनिकत्व कल्पनागौरवमित्यर्थः तदेव दर्शयति तथाहीति। चान्द्रसौरयोरेकतरत्र चान्द्रे सौरे वा एकतरस्मिन् शयनादिविधानार्थं शयनपरिवर्त्तनप्रबोधविधानार्थं मूलभूतं श्रुतित्रयमिति तथाच चान्द्रे शयनादिस्वीकारे चान्द्राषाढ़े शयनं भाद्रे परिवर्त्तनं कार्त्तिके उत्थानमिति"
-
-
 
 पञ्चदश श्रुतयः कल्पनीयाः। तथाहि पूर्व्वत्रिकाधिमासे शयनादित्रयस्य शकदुर्गोत्सवयोरुत्कर्षार्थम्। एवं पञ्चसिंहे चाधिमासे शक्रोत्सवार्थम्। कन्याधिमासे च दुर्गोत्कर्षार्थम्। तुलाधिमासे च देवोत्थानोत्कर्षार्थम्। तथोत्तरत्रिकेऽधिमासे आगामिवत्सरे कर्कटस्यादौ द्वादशीलाभे तत्र देवशयनार्थम्। मिथुनान्ते च तत्प्राप्तौ तत्रैव शयनार्थम्[^317]।
 
@@ -6002,8 +5276,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 -----------------------------------------------------------------------------------
 
 विधित्रयम्। सौरपरत्वेऽपि मिथुने शयनं सिंहे परिवर्त्तनं तुलायामुत्थानञ्चेति विधित्रयम्। मतद्वयेऽपि चान्द्रवादिसौरवाद्युभयमतेऽपि विधिद्वयं समानं तथाच चान्द्रवादिमते भाद्रे शक्रोत्थानं कुर्य्यात् आश्विने दुर्गोत्सवं कुर्य्यादिति विधिद्वयं सौरपक्षेऽपि सिंहे शक्रोत्थानं कन्यायां दुर्गोत्सवं कुर्य्यादिति विधिद्वयम्। निर्विवादम् उभयमतेऽपि विधिकल्पने लाघवगौरवविरहेण विनिगमनाप्रमाणशून्यम्।
-
-
 
 **“कर्किण्यर्के हरौ सुप्ते शक्रध्वजक्रियाश्विने।**
 
@@ -6029,15 +5301,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  द्विराषाढस्य विद्वद्भिस्तत्समाप्तिश्च तावते" ति व्यवस्थावचनद्वयम्। द्विराषाढ़समाप्तिवचनञ्चेति सौरपरिग्रहेऽधिकाःपञ्चदश श्रुतयः कल्पनीयाः। चान्द्रे तु नैतावती कल्पनीया।
 
-
-
 तथाहि मेषादित्रिकेऽधिमासपाते मिथुनोपक्रान्तः[^319]कर्कटावधिसंक्रान्तिचिह्नितः कर्म्मार्हचान्द्र आषाढ़ःकर्कट एव भवति। मिथुनाधिमासे तु मिथुनोपक्रान्तो मलिम्लुचःसंक्रान्तिविवर्ज्जितः। कर्म्मानर्हो द्वितीयोऽप्याषाढ़ो भवति। तेन मिथुनान्तत्रिकाधिमासे कर्कटगामिन आषाढस्य मिथुनोपक्रान्तस्य मिथुनोपक्रान्तः कर्कटसमापनीयः शुक्लपक्षः। सकलदेवशयनार्थो विष्णुश्च कर्कटे स्वपिति। तदा सिंहकन्यातुलारब्धमासानां शुक्लपक्षाः सिंहकन्यातुलारब्धास्तेषु यथाक्रमं शक्रदुर्गाविष्णुत्थानानि चान्द्रेषु भाद्राश्विनकार्त्तिकेषु भवन्ति। कन्यातुलावृश्चिकत्वमप्रयोजकम्। अतएव[^320]मेषेऽधिमासपाते प्रति-
 
 [^319]: "ननु तथात्वे "
 
 [^320]: "कर्कटावधिसंक्रान्तिचिह्नित इत्यादि। तथाच यदा पूर्व्वामावास्यान्त्यक्षणप्राक्क्षणादौ मिथुनसंक्रान्तिः कर्कटसंक्रान्तिस्तु शुक्लप्रतिपदि तदा तच्छुक्लप्रतिपदादिदर्शान्तस्य मुख्यचान्द्रस्य कर्कटगतस्य मिथुनस्थरव्यारव्धतया चान्द्राषाढत्वम्, अपिच – “आद्यो मलिम्लुचः"
-
-
 
 पदि वृषप्रवेशे तृतीयायां मिथुनगमने पञ्चम्यां कर्कटसंक्रान्ती सप्तम्यां सिंहाधिरोहणे नवम्याञ्च कन्यागमने एकादश्यां तुलास्थे त्रयोदश्याञ्चातिचारेण वृश्चिकसंयोगे कर्कटे हरौ सुप्ते कन्यायां प्रथमं शक्रोत्सवो भवति। कन्याशेषे तु दुर्गायास्तुलायाञ्च विष्णुमहोत्सवः कथं स्यात्? \* यदि चान्द्रमत्र प्रयोजकम् अन्यथा
 
@@ -6059,8 +5327,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   कथमित्यपपाठःआशङ्काया अभावात्।
 
-
-
 तुलाशेषे सुखरात्रेःपरस्ताद्-दुर्गोत्थानं स्यात् वृश्चिकशेषे च वासुदेवोत्थानमिति। “तस्मिन् शुक्ले सदा विष्णुरिति” बाधितं स्यात्। उत्तरत्रिकाधिमासे सिंहोपक्रान्तो भाद्रः कन्योपक्रान्त आश्विनःतुलोपक्रान्तः कार्त्तिकश्चान्द्रः, तेषां शुक्लपक्षाःकन्यातुलावृश्चिकेषु समाप्यन्ते, तेषु शक्रदुर्गाविष्णूत्थानानि भवन्ती-त्येतदपि वचनपञ्चकानतिरिक्तमूलम्।**\*** आगामिवत्सरे मिथुनोपक्रान्तस्य शुक्लपक्षद्वादशीमिथुनान्ते वा कर्कटादौ संक्रान्तिदिन एव वा तत्रैव शयनम्। तदपि चान्द्राषाढ़मूलम्। तदनन्तरं
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6073,8 +5339,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 “हरिद्वयं भाद्रपदे यदि स्यात् यद्यच्युतः कर्कट एव सुप्तः।  
 तदा परक्षेखलु वज्रपाणिरुत्तिष्ठते प्राणभृतां हिताय॥” इति त्रयम्।  
 "आभाका" इत्यादि साधारणं वचनद्वयमिति पञ्च।**
-
-
 
 सिंहशेषे कन्यादौ वा श्रवणालाभे यद्वचनं, तदपि सिंहोपक्रान्तभाद्रस्य चान्द्रस्य परिग्रहादेव, कन्याशेषे च कन्योपक्रान्तस्य चान्द्राखिनस्यासौ शुक्लपक्षः। कन्योपक्रान्तौ दुर्गोत्थानाय चान्द्राश्विनपरिग्रहादेव कन्यान्तगतैव च तदाष्टमी तुलोपक्रान्तस्य च द्वादशी तुलायामिति द्विराषाढ़समाप्तिवचनमपि न मूलान्तरमाहरतीति सर्व्वथा कल्पनागौरवाय। यदि 'आभाके' - त्यादिपदानि चान्द्रे गौण्या लाक्षणिक्या वावृत्त्या वर्त्तन्ते, तदपि न दोषाय।**\*** उक्तं हि भाष्यकारऽण—'लक्षणापि हि लौकिक्ये
 
@@ -6090,8 +5354,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   “प्रतिसंवत्सरञ्चैव स्थापनञ्च विसर्ज्जन" मित्यादि नानावचनानुपपत्तिमूलवादियं लक्षणा न दूषणावहा इति भावः।
 
-
-
 बहवोऽपसिद्धकल्पते'ति (१)[^321] अतएव 'वेदमधीत्य स्रायात्' न मुख्यस्नानपदानुरोधेन इदमदृष्टार्थंस्नानं विधीयते कल्पनागौरवात्। किन्त्वर्घ्यस्नानादिसकलब्रह्मचारिधर्म्मनिवृत्तिमेव लक्षणा ब्रवीति पूर्व्वपक्षन्यायमूलत्वमुक्तम्, अदृष्टकल्पनाभयादेव, 'धान्यमसी'त्यत्र धान्यपदस्य लक्षणयातण्डुलपरत्वं वर्णितम्। तस्मादमुख्यत्वेऽपि चान्द्रेष्वेवाषाढ़ादिष्वाभाका' इति वचनेन शयनपार्श्वपरि वृत्तिदेवोत्थानानि विधीयन्ते। एतद्विधिमूलान्येवापराणि पञ्चदशवचनान्यनुष्ठानं स्पष्टीकर्त्तुं न पुनरन्यमूलानि। एवं 'सिंहगते दिनकर' इत्यादिना सिंहस्थभास्करोपक्रान्ते प्रतिपदादिके चान्द्रे भाद्रे शक्रोव्सवः। दीक्षितेन उक्तं, सिंहगते सति यः सितपक्षे श्रवणाद्यपादः तत्र तदुत्थानं स च कन्यास्थे यः सितपक्षीयः श्रवणाद्यपादः सोऽपि भणितुं शक्यते। तस्यापि तदगमनोत्तरत्वादिति तदयुक्तं सोऽपि भणितुमित्यन्योऽपीत्यविशेषकं स्यात्। राश्यन्तरश्रुतेश्चावगतस्य सिंहस्य बाध एव स्यात्।
 
 [^321]: "लौकिकी हि लक्षणा हठोऽप्रसिद्धकल्पनेति भूं पुं पाठः।"
@@ -6106,8 +5368,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **\***अत्र लक्षणाया अदुष्टत्वे भाष्यकारसंवादमाह— “उक्तं हीति” “लक्षणापि हीति" इत्यादि।यत एव प्रामाणिको लक्षण न दूषणवहा अतएव इत्यर्थः।  
 “वेदमधीत्य
 
-
-
 **देवशयमादिचिन्तनम्।**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6121,8 +5381,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 उत्तरेण नवम्यान्तु बलिभिः पूजयेच्छिवाम्॥**
 
   अत्र यावच्छब्दः सीमार्थे नाभिविधौ, तेन नवमीपर्य्यन्तं पूजा। चान्द्रपरं शुक्लप्रतिपदादिदर्शपर्य्यन्तमुख्यचान्द्रपरम्।
-
-
 
 सहस्रांशौ स्रापये "दित्यादिषूपक्रान्ते चान्द्रे मासीत्यध्याहार एव न्याय्यः। “अधिमासेऽपि पतिते” इत्युत्कर्षनिमित्ते सत्यप्येष एवेति। नान्यथा इति **\***एतद्वचनान्नियमद्वयाविरोधाच्च“तस्मिन् शुक्ले सदेति" नियमोपपत्तिः। किञ्च सौराषाढ़ादिषु शयनादिकमिति वादिनो मेषवृषयोरधिमासे कथं शयनोत्कर्षः, मिथुने शयनस्य विहितत्वात् तस्य चामलिम्लुचत्वात्, “पतिते चाधिमास" इति वचनाच्चेत् न तदा कर्कटेऽप्यधिमासे कथं शक्रादीनामुत्कर्ष ब्रूषे ? पतित इत्यविशेषात् माधवाद्येषु षट्ष्विति वचनाच्चेत्**+**न उत्तरत्रिकाधिमासेऽपि शयनोत्कर्षापत्तेः। कर्कटा-
 
@@ -6139,8 +5397,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   **+** नियमद्वयाविरोधाच्चेति। माधवादित्रिकाधिमासे, कर्कटादौहरिशयनादिनियमस्य उत्तरत्रिकाधिमासे आगामिवर्षे कर्कटादौ हरिशयनादिनियमस्य चेति नियमद्वयस्य अविरोधाच्चेत्यर्थः।
 
-
-
 धिमासे शयनोत्कर्षे मलिम्लुचशयनापत्तेरपेक्षितत्वात्, मलिम्लुचे शयनमापद्येत इति चेत् न, वचनाददोषत्वात्। सिंहकन्ययोश्चाधिमासे सति शयनोत्कर्षे मलिम्लुचशयनापत्तेः परिहृतत्वाच्च, **\*** "माधवाद्येषु षट्ष्विति" "कृष्णपक्षे त्रयोदश्या"-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6152,8 +5408,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   + दूषयति उत्तरत्रिकाधिमासे श्रावणत्रिकाधिमासे इत्यर्थः। शयनोत्कर्षापत्तेरिति माधवाद्येषु षट्स्वेक इति वचनस्य यथाश्रुतार्थमादायेति शेषः। तथाच श्रावणमलमासे आषाढस्य मिथुनगतत्वात् शयने उत्कर्षाप्रसक्तेरिति भावः। कर्कटाधिमासे शयनोत्कर्षे इत्यादि तथाच माधवादिषण्मासमध्ये अधिमासपाते माधवाद्येषु षट्स्वेकइति वचनस्य यथाश्रुतार्थमादाय माधवादिषण्मासमध्ये अधिमासपाते श्रावणे हरिशयनरूपोत्कर्षस्वीकारे विष्णुःस्वपिति कर्कटे इति वचनात् मलीयश्रावणे शयनापत्तेरपेक्षासम्भव इति भावः। वचनाददोषत्वादिति माधवाद्येषु षट्स्वेक
 इति वचने सामान्यती माधवादिषण्मासे मलमासे
-
-
 
 मित्यादिवचनानां सामान्येन कर्कटशयनमुपदिशतामव्दान्तरीयकर्कटाभिप्रायेणाप्युपपत्तेः। न प्रथमवर्षीयकर्कटशयनविधायकत्वं वचनविरुद्धं युज्येत इति चेत् न। “मिथुनस्थे सहस्रांशौ" “अधिमासेऽपि पतित" इति अनयोर्विरोधस्य मेषवृषाधिमासपातेऽप्यविशेषात् **\*** एतन्निमित्तस्य शयनोत्कर्षस्याव्दान्तरेऽपि सम्भवात्अत्रापि न विरोधो विशिष्यत इति**+**चेत् न, उत्तरत्रि-
 
@@ -6169,8 +5423,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 द्विराषाढ़ः स विज्ञेयो विष्णुःस्वपिति कर्कटे॥” इति वचन-
 
-
-
 काधिमासेऽप्यविशेषात्। कर्कटशयनविधेरानर्थक्यादवश्यं तद्बाध इति चेत् समानमितरत्रापि अन्यत्राभिनिवेशात्। अथोच्यते।
 
 **“प्रथमेऽह्निद्वितीये वा शुक्ले मेषमियाद्रविः।  
@@ -6183,8 +5435,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 बोधितो माधवाद्यधिमासनिमित्तककर्कटहरिशयनरूपोत्कर्षः कथं सङ्गच्छते ? इत्यत आह, एतन्निमित्तस्य शयनोत्कर्षस्य अव्दान्तरे सम्भवादिति। एतन्निमित्तस्य मेषवृषाद्यधिमासनिमित्तस्य अव्दान्तरे आगामिवर्षे, 'आगामिनि तदा वर्षे कुलीरे माधवः स्वपेदित्येक वाक्यत्वात्। तथा च, ‘अधिमासेऽपि पति एष एव विधिः स्मृतः' इति विशेषोक्त्या मेषवृषान्यतरमासाधिमासेऽपि तदव्द एव मिथुनहरिशयनस्यावश्यम्भावितया 'माधवाद्येषु षट्स्वेक’ इति वचनबोधितस्य शयनोत्कर्षस्य अगत्या अव्दान्तरविषयत्वमिति भावः। एतत्तु परत्र अनापीत्यादौ हेतुः। तथाच कर्कटहरिशयनोत्कर्षस्य आगामिवर्षे चरितार्थत्वात्, अत्रापि मेषवृषान्यतरमासाधिमासेऽपि विरोधः। 'मिथुनस्थे सहस्रांशाविति' वचनबोधितमिथुनहरिशयनस्वीकारे कर्कटहरिशयनोत्कर्षेण सह यो विरोध इत्यर्थः, स न विशिष्यते न प्राप्यते इत्यर्थः।
 
   **\***निषेधयति 'चेन्नेति'। उत्तरत्रिकाधिमासेऽप्यविशेषादिति विशेषाभावादित्यर्थः। तथाच यदि सामान्यत एव माधवादिमलमासे आगामिवर्षे कर्कटे हरिशयनोत्कर्षः स्वीक्रियते, तदा 'कन्यासिंहकुलीरेषु' इति विशेषवचनं व्यर्थं स्यादिति भावः। कर्कटशयनविधेः 'अमावस्याद्वयं यत्र' इत्यादिनानावचनबोधितकर्कटशयनोत्कर्षविधेरित्यर्थः। ‘तद्वाधः’ श्रावणादिमलमासे, मिथुनस्थे सहस्रांशा 'विति वचनस्य विषयसम्भवेन माधवादिमलमासे मिथुनहरिशयनस्यावश्यं बाधः स्वीकर्तव्यः। 'समानमितरत्रापि अन्यत्राभिनिवेशादिति इतरत्रापि समानम्। तथाच, यथा कर्कटशयन-
-
-
 
 मासपातात् कर्कटे शयनविधिः। अतएव मेषेऽधिमासे मिथुनसंक्रान्तिः षड़शीतिपदवाच्या चतुर्थ्याञ्चतुर्थ्यूर्द्ध्वंवा भवति। तेन;—
 
@@ -6199,8 +5449,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  **\*** तदाचेति। यदा प्रतिपदि द्वितीयायां वा शुक्लायां मेषादिसंक्रान्तिसम्भवः तदैवेत्यर्थः। यत एत्र कर्कटे हरिशयनविधिरतएवेत्यर्थः। मेष इति वृषोपलक्षणार्थः। तथाच – 'धनुर्मिथुनकन्यासु मीने च षड़शीतय' इति वचनात् शुक्लप्रतिपदि द्वितीयायां वा मेषवृषान्यतरसंक्रान्त्या अन्यतरमलमासे सति षड़शीतिपदवाच्या मिथुनसंक्रान्तिः, चतुर्थ्यां तदूर्द्ध्वञ्चम्यां सम्भवतीत्यर्थः। द्विराषाढ़ः गौणद्विराषाढ़ इत्यर्थः। कर्कटे हरिशयनकल्पनमित्वर्थः। इति द्विराषाढनिबन्धनकर्कटहरिशयनकल्पनमित्यर्थः।
 
-
-
 म्यादिषु मिथुनसंक्रान्तिसम्भवः। भवति तु प्रतिपदूर्द्ध्वमिति तथैव वक्तुमुचितम्, अतश्चतुर्थ्यूर्द्ध्वमिति वदन् **\*** गतोत्तरत्रिकाधिमासमेव दर्शयति। किञ्च मेषवृषाधिमासविषयत्वेन वचनद्वयवर्णने, **+**“द्विराषाढ़मृते विष्णु" रित्यनुपपन्नं स्यात्। योग्लौकेन
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6208,8 +5456,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
   \*अथेत्यादि। कर्कटे हरिशयनकल्पनमित्यर्थः, इत्यन्तं यदुक्तं तदेतदसङ्गतम् अयौक्तिकमित्यर्थः। तुल्यन्यायस्याभावात् तुल्यन्यायतया इत्यनेनोक्तस्य न्यायस्याप्रसक्तेरित्यर्थः। तथाच वचने 'द्विराषाढ़मते' मलमासं विना प्रथमे द्वितीये अह्नि, शुक्लेशुक्लपक्षे, रविःयदि मेषं मेषराशिमियात् सञ्चरेत्, तदा विष्णुःकर्कटे सौरश्रावणे स्वपेदित्यन्वयो वाच्यः, सम्भवति च। अत्र यदि आदौ मलमासस्योपस्थितिर्भवेत्तदा, यथा,—मेषे वैशाखमलमासे कर्कटे हरिशयनं तत्तुल्यन्यायतया वृषे ज्यैष्ठमलमासेऽपि 'तथेति' तुल्यन्यायपदस्य सार्थक्यं भवेत्। स एव असिद्धः, मलमासस्य उल्लेखाभावात्। प्रत्युत 'द्विराषाढ़मृते इत्यनेन मलमासाभाव एवोपस्थितः। गताश्विने आश्विनान्ते पूर्व्वाव्दीयोत्तरत्रिकाधिमासे इत्यर्थः। तथाच पूर्व्वाव्देउत्तरत्रिकाधिमासे सति तदुत्तरशुक्लप्रतिपदादौ रवेर्मेषगमनक्रमेण आषाढ्शुक्लपक्षस्य कर्कटे प्रवेशात् तत्रैव हरिशयनं निष्प्रत्यूहमेवेति भावः। ‘चतुर्थ्यूर्द्ध्व' मिति वचनं 'वृषं त्यक्त्वा चतुर्ध्यूर्द्ध्व' मिति वचनम्।
 
   **+** गतोत्तरत्रिकाधिमासमेव दर्शयति गताव्दीयोत्तरत्रिकाधिमासमेव दर्शयति। तथाच पूर्व्वाव्देउत्तरत्रिकाधिमासे सति तदुत्तरं मिथुनसक्रान्तिःषड़शौतिपदवाच्या चतुर्थ्युद्ध्वमेव सम्भवति। इदन्तु न सम्यक् कदाचित्तिथेर्ह्नासतः सौरमासवृद्धौ च ज्यैष्ठमलमासेऽपि शुक्लपञ्चम्यां मिथुनसंक्रान्तिः सम्भवितुमर्हति। तथाहि यत्र पूर्व्वमावास्यान्त्यक्षणप्राक्क्षणे च वृषसंक्रान्तिः, ततः सौरज्यैष्ठस्योनत्रिंशद्दिवसे त्र्यहस्पर्शवशात् किञ्चिदमावास्या, ततः शुक्लप्रतिपत् रात्रिशेषे द्वितीया च ततस्त्रिंशद्दिवसे द्वितीयारात्रौ तृतीयारम्भश्च, तत एकत्रिंशद्दिवसे तृतीया, रात्रौ चतुर्थ्यारम्भः, ततोद्वात्रिंशद्दिवसे पञ्चमीक्षणे षड़शीतिपदवाच्या मिथुनसंक्रान्तिश्च, अतोज्यैष्ठमलमासे शुक्लपञ्चम्यां मिथुनसंक्रान्तिर्नानुचितेति। वचनद्वयवर्णने, 'वृषं त्यक्त्वा चतुर्थ्यूर्द्ध्वमित्यस्य,’ ‘प्रथमेऽह्निद्वितीये च' इत्यस्य च वचनद्वयस्य वर्णने।
-
-
 
 किल द्विराषाढ़ोव्याहृतः। एकः सौरो मिथुनराशिभोगात्मा मुख्य आषाढ़ः, द्वितीयस्तु कर्कटभोग्योऽप्याषाढ़ो देवशयनगुणयोगात्**\***। यद्वाकर्कटसंक्रान्तिचिह्नितश्चान्द्रो द्वितीयो मुख्य आषाढ़ इति द्विराषाढ़ः। स च यद्यपि प्रतिसंवत्सरं भवति, तथाप्यधिमासे सत्येव देवशयनार्थं गृह्यमाणो द्वितीयोऽसावाषाढ़ इति। एवञ्चेत् पक्षद्वयेऽपि**+** द्विराषाढ़ं विनेति न स्यात् कर्कटेशयने तद्गुणयोगेन कर्कटस्याप्याषाढत्वात् कर्कटसंक्रान्तिचिह्नितत्वे चान्द्र एव वा शयनमित्युभयथापि द्विराषाढ़त्वमेवेति तद्विनैवेति न स्यात्। अतएव "द्विराषाढ़प्रकल्पन" मित्येतदप्यनुपपन्नं, तद्वत्सरेऽपि तद्रूपत्वादेव द्विराषाढस्य कल्पनाभावात्
 
@@ -6223,8 +5469,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 इति विशेषविधि महिम्नाकर्कटभोग्योऽपि मिथुनभोग्यत्वाभावेऽपि हरिशयनगुणयोगादृगौण आषाढ़ इति भावः।
 
   + हरिशयनादिगुणयोगादुगौणतास्वीकारे गौरवादाह यद्वेति। कर्कटसंक्रान्तिचिह्नितः कर्कटसंक्रान्त्युत्तरकर्कटस्थरविगतश्चान्द्राषाढ़ः, द्वितीयः मुख्याषाढःसौराषाढः। द्वितीयः कर्कटगतश्चान्द्राषाढ़ः। एवञ्चेत् हरिशयनार्थं कर्कटगतचान्द्राषाढस्य ग्रहणञ्चेत् पक्षद्वये हरिशयनगुणयोगयुक्त-कर्कटभोग्यगौणाषाढ-कर्कटसंक्रान्तिचिह्नितचान्द्राषाढरूप-पक्षद्वये इत्यर्थः।
-
-
 
 अधिमासं विनेति वचनार्थस्तस्मिन् सत्येव प्रथमे द्वितीये चेति व्यवस्थितत्वात् द्विराषाढ़पदस्य चानर्थत्वापत्तेः**\***। अस्मन्मते तु मिथुनाधिमासे मुख्यो द्विराषाढ़ःद्वयोरेव चान्द्रयोः मिथुनोपक्रान्तत्वात् तमृतेपि कर्कटे चान्द्राषाढ़े शयनम्। तेनैव कार्य्यण द्विराषाढकल्पनमिति सर्व्वमुपपन्नम्**+**।किञ्च—
 
@@ -6242,8 +5486,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   + स्वमतमाह, अस्मन्मते तु द्वयोरेव चान्द्रयोः एकस्य मिथुनगतस्य मलीभूतस्य, द्वितीयस्य कर्कटगतस्य शुद्धस्य चान्द्राषाढस्य च। मिथुनोपक्रान्तत्वात् मिथुनस्थरव्यारब्धत्वात्। तमृतेऽपि तदव्दीयमलमासं विनापि पूर्व्वाव्दीयोत्तरत्रिकाधिमासपातेऽपि कर्कटे कर्कटगतचान्द्राषाढ़े द्विराषाढ़कल्पनं गौणद्विराषाढकल्पनं, 'वृषं त्यक्त्वा' इति वचने इति शेषः। सर्व्वमुपपन्नं द्विराषाढ़प्रकल्पनमिति 'द्विराषाढमृते' इति चोपपन्नम्।
 
-
-
 इति द्विराषाढ़त्वं विष्णोःकर्कटस्वापनिमित्तमवगम्यते। कर्कटशयने द्विराषाढ़त्वे विपरीतो हेतुसद्भावःस्यात्, तदा च प्रतिवचनं द्विराषाढ़कीर्त्तनं मुनीनामफलं स्यात्। अस्मन्मते तु मुख्यद्विराषाढ़ात् कर्कटे चान्द्राषाढ़प्राप्तेस्तत्र शयनम्। एवं मेषवृषयोरप्यधिमासे तदनन्तरितकर्कटे चान्द्राषाढ़ प्राप्तिः। उत्तरत्रिके चाधिमासे तदादिवत्सरशेषे कर्कर्ट चान्द्राषाढ़प्राप्तिरिति तद्गुणयोगेन मिथुनेतराधिमासे गौणद्विराषाढस्तेन मुख्यस्य गौणस्य च कर्कटे चान्द्राषाढ़प्राप्तिमुखेन कर्कटशयनहेतुत्वात्तत्कीर्त्तनमुपयोगि, यस्मात् कर्कटे चान्द्राषाढप्राप्त्या द्विराषाढ़स्तस्मात् विष्णुः कर्कटे स्वपितीत्यर्थः। किञ्च सिंहे चाधिमासपाते योग्लौकमतेऽपि मिथुन एव देवस्य सुप्तत्वात्।
 
 **“कर्किण्यर्के हरौ सुप्ते शक्रध्वजक्रियाश्विने।”**
@@ -6254,8 +5496,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तत्र यद्विहितं कर्म्म उत्तरे मासि कारयेत्॥”**
 
 इत्यादि वचनानाञ्चान्द्रमासविहितस्य कर्म्मणः पूर्व्वचान्द्रमलिम्लुचतयोत्तरचान्द्रे व्यवस्थितिपरत्वात् तत्रेति पूर्व्वोक्तचान्द्रपरामर्शात्। सौरे तु विहितस्यानवगतचान्द्रसम्बन्धस्य सोऽपि विधातव्यो व्यवस्था चोत्तरत्र कर्त्तव्येति तद्विकल्पः स्यात्। तस्मात्तुलाधिमासे सुखरात्रिरिष उत्कर्षः सिंहाधिमासे शक्रस्य युक्तः
-
-
 
 एवं कन्यायामधिमासे दुर्गायास्तुलाधिमासे च देवोत्थानस्य कथमुत्कर्षः। यद्येतानि नित्यानि तदा “नित्यनैमित्तिकं कुर्य्या” दिति वचनान्मलिम्लुचेऽपि कार्य्याणि काम्यानि चेत् "काम्या इष्टीर्विवर्जयेत्” इति लोप एव स्यात् न तूत्तर एतत्क्रियावचनाभावात्। अतएव स्वल्प एव ग्रन्थे योग्लौकेनोक्तं सिंहाधिमासेऽपि न शक्रक्रियानिवृत्ति **\***र्नैमित्तिकत्वेन मलिम्लुचेऽपि तत्प्राप्तिरित्यादि एवञ्च ग्रन्थभेदेन शक्रस्यैवोत्कर्षाभिधानं परस्परविरुद्धत्वाभिधानमपि योग्लौकस्य यदपि—
 
@@ -6270,15 +5510,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   \*दोषान्तरमाह किञ्चेति। द्विराषाढ़ःस विज्ञेय इति, मिथुनस्थो यदा भानुरमावास्याद्वयं स्पृशेत्। द्विराषाढ़ः स विजयी विष्णुः स्वपिति कर्कटे इति, कर्कटशयने द्विराषाढत्वे कर्कटशयनमात्रार्थं द्विराषाढत्वकल्पने हेतु हेतुमद्भावःकार्य्यकारणभावः। तदेव दर्शयति तदाच इत्यादि। तद्गुणयोगेन आषाढाव्यवहितोत्तरत्वविशिष्टकर्कटगतचान्द्राषाढत्वावच्छिन्नशक्तस्य कर्कटगतचान्द्राषाढत्वगुणयोगेनेत्यर्थः। मुखेन द्वारेण तदुत्कर्षः सिंहाधिमासे आश्विनशक्रध्वजोत्कर्षः। सौरे तु विहितस्य सौरवादिमते सौरमासविहितस्य अनवगतचान्द्रसम्बन्धस्य अप्राप्तचान्द्रसम्बन्धस्य सोऽपि उत्कर्षोऽपि। तद्विकल्पःस्यात् वचनं विनेति शेषः। एतानि देवशयनादीनि नैमित्तिकत्वेनेति नित्यनैमित्तिकं कुर्य्यात् प्रयतः सन् मलिम्लुचे इति वचनात्। लोप एव स्यादिति काम्यकर्मणां मलमासे लोप एव स्यादित्यर्थः। उत्तरत्र उत्तरमासे एतक्रिया एतेषां काम्यकर्मणां करणम्। न शक्रक्रिया-निवृत्तिःन शक्रोत्थानकर्म्मलोपः।
 
-
-
 इत्यनेन समानविषयम्। अन्यथैतद्वचनबलात् कर्कटेऽप्यधिमासपाते शक्रोत्सवादीनामुत्कर्षं कुतो न भणसि ? सिंहे चाधिमासपाते दुर्गोत्सवादीनां कन्यायां वाधिमासे देवोत्थानोत्कर्षं कुतो न कुरुषे ? न ह्येतद्वचनं सिंहाधिमासे शक्रस्यैव न दुर्गायाः कन्याधिमासे दुर्गाया एव न देवोत्थानस्य कर्कटाधिमासे न कस्यचिदुत्कर्ष इत्याह। अतोऽविशेषात् सर्व्वमेवोत्कर्षेत। न वा किञ्चिदपीति "कर्किण्यके हरौ सुप्ते" इत्यनेन समानविषयत्वमप्यस्य भवतैव वाच्यं मूलश्रुत्यन्तरकल्पनापत्तेश्च। किञ्च सिंहाधिमासपाते शक्रोत्सवपार्श्वपरिवर्त्तनयोः कन्यायामुत्कर्षे प्रथममष्टम्यां दुर्गोत्सवः। तदनन्तरं द्वादश्यां शक्रोत्सवादिकमिति विपरीतक्रमापत्तिः। कन्यायामधिमासे दुर्गातः प्रागेव सप्तमीपर्य्यन्ते सूर्य्यान्तानामुत्थानम्। ततो दुर्गायास्तदनन्तरं द्वादश्यां तुलायां विष्णूत्थानमिति सर्व्वत्र क्रमलोपःस्यात् **\***। स्वयमेव
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   **\***नैमित्तिकत्वेनेति नित्यनैमित्तिकं कुर्य्यात् प्रयतः सन् मलिम्लुचे इति वचनादिति शेषः। उत्कर्षानुत्कर्षाभिधानादिति तथाच चान्द्रवादिग्रन्थकारमते उत्कर्षः सौरवादिग्रन्थकारमते अनुत्कर्ष इति भावः। समानविषयं समानविषयत्वं अनयोरिति शेषःतथाच क्रमादिन्द्राम्बिकाहरीन् कन्यातुलावृश्चिकेषु उत्थापयेत कर्किण्यकेइति वचनेनापि शक्रध्वजक्रिया वि तुलायां देवीबोधनं वृश्चिके देवस्योत्थानं सुतरां समानविषयत्वमिति भावः। अन्यथा समानविषयत्वास्वीकारे। एतद्वचनबलात् अधिमासनिपाते तु क्रमादिन्द्राम्बिकाहरीनिति कन्यातुलावृश्चिकेषु नृप उत्थापयेद्ध्रुवमिति वचनबलात् नहीति एतद्वचनं नहि इत्याह इत्यन्वयः। सर्व्वं शक्रदुर्गादिकम्। न वा किञ्चिदपि न किमपीत्यर्थः। अस्य अधिमासनिपाते तु इत्यादिवचनस्य भवतैव वाच्यम् अवश्यं वाच्यम्। विपरीतक्रमापत्तिरिति तथाच दुर्गोत्सवात् पूर्व्वं शक्रोत्सवपार्श्वपरिवर्त्तौसर्व्वतन्त्रसिद्धाविति भावः। दुर्गातः प्राक् दुर्गो-
-
-
 
 योग्लौकेनोक्तं हरिशयनशक्रोत्सवपार्श्वपरिवर्त्तनदुर्गोत्थानविष्णूत्थानानां पौर्व्वापर्य्यनियतत्वात् इत्यन्तस्तदपि स्मृतं वचनावगतश्चक्रमः।
 
@@ -6301,15 +5537,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 त्सवात् पूर्व्वं सूर्य्यान्तानाम् इति सप्तमी भास्करस्योक्ता इति वचनात् तदनन्तरं सूर्य्योत्थानानन्तरं दुर्गाया उत्सव इति शेषः। क्रमलोपः स्यात् पूर्व्वापर्य्यक्रमलोपः स्यादित्यर्थः।
 
-
-
 नामानुपूर्व्व्य **\***मिति क्रमकल्पनामाशङ्क्य न वाऽसम्बन्धादिति सूत्रेण जैमिनिना निराकृतम्। तथापि यदि स्यादिति भणसि
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  \*शकोत्थानादीनां क्रमनियतत्वं वचनेनाऽपि साधयति शक्रध्वजस्थापनञ्चेत्यादि। अत्र मासद्वयेन त्रिभिर्मासैरित्याद्युपादानात् पौर्व्वापर्य्यक्रमनियतत्वं स्पष्टमवगम्यते। विहितत्वात् कौमुद्या विहितत्वात् कथमिति तथाच वचनाभावात् विशेषवचनाभावात् कथम् उत्कर्षः शुद्धाश्विनकर्त्तव्यता इति भावः। दुर्गोत्कर्षात् आश्विनमलमासे शुद्धाश्विनकर्त्तव्यतारुपदुर्गात्सवोत्कर्षात्। परभूताया दुर्गोत्सवात् परभूताया कौमुद्याः कोजागरपूर्णिमायाः तदादिन्यायात् स आदिर्यस्य तदादिः स एव न्यायःतदादिन्यायः तस्मात्। अग्निमारुतादूर्द्ध्वमनुयाजैश्चरन्तीतिवदिति मीमांसादर्शनस्य चतुर्थाध्यायीयतृतीयपादे। अनुयाजादीनामग्निमारुतोर्द्ध्वकालताधिकरणं निर्णीतम्। अनुत्पत्तौतु कालःस्यात् प्रयोजनेन सम्बन्धात् (३६)। ज्योतिष्टोमे श्रूयते अग्निमारुतादूध्वम् अनुयाजैश्चरन्ति। प्रहृत्य परिधीन् जुहोति हारियोजनम् इति। तत्र सन्देहः किम् अङ्गं विधीयते उत काल इति। अङ्गविधाने श्रुतिः, कालविधाने लक्षणा, तस्मादङ्गविधानमिति प्राप्ते ब्रूमः अनुत्पत्तिवाक्ये कालः स्यात् अग्निमारुतं सोमाङ्गम् अनुयाजाः पश्वङ्गं, तत्र न तयोः परस्परेण सम्बन्धः। तथा परिधयः पश्वङ्गं हारियोजनम् अन्यदेवप्रधानम्। अनुयाजः आग्निमारुतञ्च प्राप्तम्, आनन्तर्य्यमेव तयोर्न प्राप्तं तत् विधीयते। तथा हारियोजनस्य परिधिप्रहरणस्य च। एवञ्च सति न हारियोजनस्य परिधिप्रहरणेन कश्चित् उपकारः क्रियते हारियोजने न वा परिधिप्रहरणस्य। ननु परिधिप्रहरणस्य उपरिटाभावेन तस्य उपक्रियेत इति। उच्यते न हि उपरिभावार्थं परिधिप्रहरणम् अनुष्ठेयं विद्यते एव एतत्पश्वर्थं तस्मिंश्च सति तस्य उपरिभावो विद्यते एव इति तस्मात् कालार्थःसम्बन्ध इति। ४। ३। १५ अं। ३६ श्लो.। पृ. ५०९। पृथक्फलसम्बन्धेन विभिन्नफलतया तयोः विभिन्नफलकामाधिकारिणा क्रियमाणत्वेन। भिन्नप्रयोगत्वात् अपूर्व्वभेदेन पृथङनियोज्यानुष्ठेयत्वात्। अन्योन्यक्रमकल्पनानुपपत्तेः परस्परक्रमाभिधानानुपपत्तेः। यत एव पृथक्फलसम्बन्धेन भिन्न प्रयोगत्वेन क्रमकल्पना अतएवेत्यर्थः काम्यासु नानेष्टिषु अङ्गवदिति क्रतूनां सोमरससाध्ययज्ञविशेषाणाम् आनुपूर्व्यं पूर्व्वमनुक्रम्य इत्यर्थः।
-
-
 
 तदा सिंहाधिमासे शक्रोत्कर्षाद्दुर्गोत्थानोत्कर्षं कुतो न भणसि ? कन्याधिमासे दुर्गोत्कर्षाद्देवोत्थानोत्कर्षं कथं न स्वीकुरुषे ? कुतः प्रतीतक्रमबाधः ?**\*** किञ्च,—
 
@@ -6332,8 +5564,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   \*क्रमकल्पनाम् आशङ्क्यनिषेधयति नवेति। निषेधकल्पने हेतुं दर्शयति असम्बन्धादिति सूत्रेणेति। तथाच जैमिनिसूत्रं पञ्चमाध्यायस्य प्रथमपादीयसूत्रं यथा,—'असम्बन्धात्तु नोत्कर्षेत'। ३२। अत्र भाष्यम्। न अग्निहोत्रस्य सान्तपनीया अङ्गं न सान्तपनीयाया वा अग्निहोत्रम्। तेन नासावग्निहोत्रस्य परस्तात् कर्त्तव्या। अतो न अग्निहोत्रं उत्कृष्टव्यम्। तथाच पृथकफलसम्बन्धे क्रामनियमो नास्तीति सूत्रस्य तात्पर्य्यम्। प्रतीतक्रमबाध इति, तथाच शक्रान्मासेन दुर्गोत्थानमवगम्यते इत्यनेन यःप्रतीतक्रमः तस्य बाध इति भावः।
 
-
-
 पद्मपुराणवचनेन नियमाच्चान्द्रसौरयोरन्यतरस्यापि मासविशेषस्येतरदेवशयनाद्यर्थमनिर्द्देशान्मासविशेषापेक्षायां "स्नापयेन्मधुसूदन" मित्यादिषु मधुसूदनादिपदमुपलक्षणीकृत्य देवमात्रस्य शयनादौ मिथुनादिमासविधिर्वाच्यः**\***। उत्कर्षेऽप्येवं ततश्च मेषवृषयोरधिमासे विष्णुशयनस्योत्कर्षादन्येषामपि कर्कटे शयनं वाच्यं तदा चतुर्थीपञ्चम्योरन्यतरतिथौ प्रथमं वृश्चिके द्वादश्यादिलाभात् (१) विष्णुप्रभृतीनामुत्थानं वृश्चिकशेषपक्षेच सूर्य्यान्तानामुत्थानमिति देवशयनपक्षउत्थानपक्षइत्यादिषु प्रसिद्धिरपि यथोक्तयुक्त्या बाध्यते। तस्मात् सर्व्वमाकुलितं कालज्ञं मन्येन। किञ्च प्रतिवचनं मुनीनां द्विराषाढपदप्रयोगोऽपि शयनादौ चान्द्रपरिग्रहान्न एव प्रयोजनान्तरानुपलम्भात्**+**सौराषाढस्य चानावृत्त-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6346,15 +5576,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 ** +**उत्कर्षेऽप्येवमिति मधुसूदनपदमुपलक्षणौकृत्य अन्येषामपि देवानां शयनादिकल्पनम्। उत्कर्षस्थलं दर्शयति ततश्चेति। तदा चतुर्थीपञ्चम्योरन्यतरतिथौ प्रथमं वृश्चिकै द्वादश्यादिलाभात् विष्णुप्रभृतीनामुत्थानमिति एकस्मिन् आदर्शपुस्तके पाठो दृश्यते। एतत्-
 
-
-
 त्वात् हेतुमन्निगदोऽयं (१)[^322] यस्माद्द्विरावृत्त आषाढस्तस्मात् पूर्व्वोमलिम्लुचः। पूर्व्वमलिम्लुचत्वमन्तरेणाभावात्। तेन कर्कटस्य चान्द्राषाढस्य प्रशस्तत्वात्तत्रैव देवशयनमिति वाच्यम्। “विष्णुः स्वपिति कर्कट" इति कर्कटपदेन मुनयो निर्दिशन्ति। न हि “द्विराषाढ़ः स विज्ञेयो विष्णुः स्वपित्या" षाढ इत्युक्तःकर्कटगतचान्द्राषाढ़ावगतिर्भवतीति कर्कट इत्युक्तं सुव्यक्तीकरणाय तेनाय-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [^322]: " हेतुमन्निगद इति लिपिकरप्रमादपाठः वस्तुतोहेतुवन्निगद इत्येव पाठः साधुः।"
 
 पाठस्वीकारे अन्यतरतिथौ इत्यंशस्य कुत्रापि अन्वयो न भवितुमर्हति। अपरादर्शद्वये तु तदाच चतुर्थीपञ्चम्योरन्यतरतिथौ कर्कटसंक्रान्तौ कर्कटसंक्रान्तिःषष्ठीसप्तम्योरन्यतरत्रेति प्रतिपदादितिथिषु विहितं धनदादीनां शयनं कर्कटशेषपक्षेस्यात्। तदा शुक्लाष्टमीमतिक्रम्य वृश्चिकसंक्रान्तौ प्रथमं वृश्चिके द्वादश्यादिलाभात् विष्णुप्रभृतीनामुत्थानमिति पाठो दृश्यते। अत्रापि चतुर्थीपञ्चम्योरन्यतरतिथौ कर्कटसंक्रान्तौकर्कटसंक्रान्तिः षष्ठीसप्तम्योरन्यत्रेति इत्यन्वयो नोपपद्यते असोऽन्यतरतिथौ मिथुनसंक्रान्ती कर्कट- संक्रान्तिःषष्ठीसप्तम्योरन्यतरत्रेति इत्येव पाठः साधुः निरुक्तपाठन्तु प्रामादिकः। धनदादीनां कुवेरादौमां कर्कटशेषपक्षेकर्कटगतदेवशयनपक्षोत्तरपक्षेप्रतिपद् धनदस्योक्ता इत्यादिवचनादिति शेषः। तदा शुक्लाष्टमौमतिक्रम्येति शुक्लनवम्यादावित्यर्थःवृश्चिकसंक्रान्तौ सत्याम्। वृश्चिके सौरमार्गे। द्वादश्यादिलाभात् रेवतीनक्षत्रयुक्तद्वादशीदिवालाभे तत्रैव देवोत्थानं तदसम्भवे दिवाद्यनादरेण द्वादशीभिन्नैकादश्यादिपौर्णमास्यन्ततिथिषु रेवतीशेषपादयोगेनोत्थानम्। वृश्चिकशेषपक्षे च सूर्य्यान्तानामुत्यानमिति प्रसिद्धिरपि बाध्यते अप्रसिद्ध एवेत्यर्थः। तथाच सौरे कदाचित्तिथेरप्राप्त्यशेते विष्णुः सदाषाढ़े इति प्रसिद्धिबाधःसुघट एवेति भावः। कालज्ञंमन्येन कालं जानाति कालज्ञं मन्यते इति कालज्ञंमन्येन। सर्व्वमाकुलितं नावधारितम्। प्रतिवचनं वचनं वचनं प्रति प्रतिवचनम्। शयनादौ चान्द्रपरिग्रहार्थमेव चान्द्राषाढ़ादौ शयनादिविधानार्थमेव। प्रयोजनान्तरामुपलम्भात् अन्यत् प्रयोजनं प्रयोग जनान्तरं तद्नुपणन्मात् अदर्शनात्।
-
-
 
 मस्यार्थः। कर्कटे योऽयमाषाढ़चान्द्रस्तत्र विष्णुः स्वपिति कन्यातुलावृश्चिकेष्वित्येवमादिष्वपीत्थमेव योजना कार्य्या। यत्र कर्कटादिभिरमलिम्लुचानामाषाढ़ादीनामुपलक्षितत्वात् मिथुनादिष्वपि तन्मासीयैकदेशतिथिषु शयनादिकमविरुद्धमेवं न कल्पनागौरवं न व्यतिक्रमो **\*** न च देवशयनादिपक्षप्रसिद्धिबाधः।
 
@@ -6362,15 +5588,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   **\*** सौराषाढस्य चानावृत्तत्वादिति तथाच सौरमासस्य रव्येकराशिभोगात्मककालतया द्वित्वासम्भवात् द्विराषाढ़त्वं न सम्भवतीति भावः। हेतुबन्निगदोऽयमिति हेतुवल्लिगद्यते इति हेतुवन्निगदः। तदधिकरणन्तु प्रमाणलक्षणे यथा शूपेण जुहोति तेन ह्यन्नं क्रियते इत्यादि। भट्टवार्त्तिकेऽपि हेतुवन्निगद्यन्ते हि शब्दादिभिर्न तु परमार्थहेतव इत्युक्तम्। अत्र यन्मतुब्लिखितं तत्प्रमादकृतमिति मलमासतत्त्वे रघुनन्दन आह स्म। तदुपपादयति यस्मादित्यादि। तेन कर्कटस्य चान्द्राषाढस्य कर्कटगतस्य चान्द्राषाढस्य प्रशस्तत्वात् पूर्व्वो मलिम्लुचो ज्ञेयो द्वितीयश्चोत्तमः स्मृत इत्यनेनोत्तमत्वेन शुद्धत्वाभिधानात्। कर्कटपदेन सुनयो निर्द्दिशन्ति कर्कटगतचान्द्राषाढ़मिति शेषः। आषाढ़ इत्युक्तेःइति द्विराषाढपदेन आषाढ इत्युक्तेऽपि। कर्कटगतचान्द्राषाढ़ावगतिर्न भवतीति नहि इत्यनेन सम्बन्धः तथाच ‘द्विराषाढ़ः स विज्ञेय' इत्यनेन आषाढ़ावगतिमांत्र नहि कर्कटगताषाढ़ावगतिर्भवति इति हेतोः कर्कट इत्युक्तम्। सुव्यक्तीकरणाय कर्कटगतच्चान्द्राषाढव्यक्तीकरणाय। अयं वक्ष्यमाणो अर्थःकर्कटे योऽयमाषाढ़ःचान्द्रःकर्कटगतोयोऽयं चान्द्राषाढ़स्तत्र विष्णुः स्वपिति। इत्थमेव योजना कार्य्या चान्द्रमासे योजना कार्य्या। तथाच कन्यागतचान्द्रभाद्रे शक्रोत्यानं तुलागतचान्द्राश्विने दुर्गोत्सवः वृश्चिकगतचान्द्रकार्त्तिके हरेरुत्यानञ्च। कर्कटादिभिः विष्णुः स्वपिति कर्कटे इत्यादिकर्कटादिपदैः। अमलिम्नुचानां शुद्धानाम् आषाढ़ादीनामुपलक्षितत्वात् बोधितत्वात्। मिथुनादिष्वपि तन्मासीयैकदेशतिथिषु मिथुनस्थे सहस्रांशावित्यादिवचनबोधितमिथुनादिष्वपि तच्चान्द्रमासौयद्वादश्यादिरूपखण्डतिथिषु इत्यर्थः। न व्यतिक्रम इति तथाच शयमादेःसौरघटितत्वे वदाचित्तत्तिथेरप्राप्तौ व्यतिक्रमो भवतीति भावः।
 
-
-
 तत्र सङ्ग्रहश्लोकाः आषाढ़ादिपदानां यद्यपि रविमासमात्रवचनत्वं चान्द्रेषु गौणत्वं सौरो न तथापि शयनादौ गौणस्य हि सौम्यस्य ग्रहणे सति मूलकल्पना लघ्वीसौरे पुनरतिगुर्व्वीश्रेयान् गौणस्ततो मुख्यात्। सौरे शयनादिविधौ कल्प्या विधयो भवन्ति पञ्चदश। चान्द्रमतादप्यधिका इति शयनादौ न सौरः स्यात्। धनदादीनां प्रतिपत्प्रभृतिषु नियतक्रमं हि शयनादि। सौरे तद्बाधः स्यात्। प्रसिद्धिबाधश्चपक्षस्य। चान्द्रे शयनाद्यर्थं सुरपतिदुर्गोत्सवार्थमिति पञ्च श्रुतयः सौरसमाना नापरमेकं किमप्यधिकम् **\***। चान्द्रे न क्रमबाधः। प्रसिद्धिबाधो न
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   **\***न च देवशयनादिपक्षप्रसिद्धिबाध इति तथाच चान्द्राषाढ़ादौ सर्व्वदैव शयनादितिथेः प्राप्तिसम्भवात् सौर इव कदाचिदप्यप्राप्तिशङ्काविरहात् शेते विष्णुः सदाषाढ़े इत्यादेःप्रसिद्धिबाधो न घटते इति भावः। सूर्य्यान्तानामुत्थानमिति देवशयनपक्ष उत्थानपक्षइत्यादिषु प्रसिद्धिरपि यथोक्तयुक्त्या बाध्यते इति प्रागुक्तम् इदानीन्तु चान्द्रपक्षे न च देवशयनादिप्रसिद्धिबाध इत्युक्तम्। रविमासमात्रवचनत्वं सौरमासमात्रवाचकत्वम्। सौरे न इति पाठेःसौरे न गौणत्वं सौरो न इति पाठे तु सौरो न गौण इत्यर्थः। गौणस्य हि सौम्यस्य ग्रहणे गौणस्य हि सौम्यस्य सोमसम्बन्धिनःचान्द्रस्य ग्रहणे सति। सौरे पुनरतिगुर्व्वीति पञ्चदशश्रुतिकल्पनापत्तेरित्युक्तं प्राक् पश्चादपि। चान्द्रमतादप्यधिका इति शयनादौ न सौरः स्यादिति चान्द्रे शयनादिविधिकल्पनादपि अधिका श्रुतिकल्पना सौरे इति शेषः। इति हेतौअस्मात् कारणात् शयनादौ न सौरःकल्पनीयः स्यादित्यर्थः। धनदादीनां कुवेरादीनाम्। प्रतिपत्प्रभृतिषु तिथिषु नियतक्रमं हि शयनादि हि यतः शयनादि नियतक्रमं चान्द्रमासे शयनादिविधौ सर्व्वदा तिथिप्राप्त्याक्रमबाधो नास्तीति भावः। सौरे तद्वाधःस्यात् तथाच सौर मिथुनादौशयनादिविधौ कदाचित्तिथेरप्राप्तौ क्रमबाधः स्यात्। क्रमस्तु मैत्रनक्षत्रयुक्ताषाढद्वादश्यां शयनं ततः श्रवणनक्षचयुक्तभाद्रद्वादश्यां पार्श्वपरिवर्त्तनंततः रेवतीनक्षत्रकार्त्तिकद्वादश्याम् सत्यानञ्च। सौरविधौतु
-
-
 
 देवपक्षस्य इत्यविरोधाच्चान्द्रो गौणोऽपि हि मुख्यतो बलवान्। ये पुनरुभयं वाच्यं ब्रूते चान्द्रोऽथकेवलस्तेषाम् सुतरां सौम्यग्रहणं मुख्यत्वात् कल्पनाल्पत्वात्। तदयमर्थः सम्पद्यते यस्मिन्मास्यधिमासस्तत्प्रभृत्यैवोत्तरसौरेषु पूर्व्वपूर्व्वचान्द्रप्राप्तेस्तत्रैव चान्द्रमासविहितानि कार्य्याणि, **\*** तेन पूर्व्वत्रिकाधिमासे शयना-
 
@@ -6379,8 +5601,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 मिथुनादित्ये मैत्रनक्षत्रयुक्तशुक्लद्वादश्यां शयनं ततः सिंहादित्त्येश्रवणनक्षत्रयुक्तशुत्लद्वादश्यां पार्श्वपरिवर्त्तनम् ततः तुलादित्ये रेवतीनक्षत्रयुक्तशुक्लद्वादश्याम् उत्थानश्च। अत्र यदि रविगतिवशात् न्यूनदिने सौरमाससमाप्तौ कदाचित् शुक्लद्वादशौ नलभ्यते तदा शयनादेरभावात् क्रमबाधः स्यात्। क्रमबाधादेव कदाचिच्छयनादेरभावात् पक्षस्य देवपक्षस्य प्रसिद्धिबाधः सुतरामेव यथाक्रमेण शयनादेरभावे कुत्रापि देवपक्षस्य प्रसिद्धिनं भवितुमर्हति। चान्द्रे शयनाद्यर्थं शयनपार्श्वपरिवर्त्तनोत्थानार्थमिति त्रितयार्थम्। सुरपतिदुर्गोत्सवार्थं शकोत्थानदुर्गापूजाद्वयार्थमिति पञ्च श्रुतयः सौरसमानाः इति चान्द्रे यथा पञ्च श्रुतयः सौरेऽपि तथा इत्यर्थः। नापरमेकं किमप्यधिकमिति तथाच शयनपार्श्वपरिवर्त्तनोत्थानेषु शक्रोत्थानदुर्गोत्सवयोश्चचान्द्रत्वेन सौरत्वेन वा विधिकल्पने समानाः पश्चैव विधयो भवन्ति नापरं किमप्यधिकं न्यूनं वेति भावः।
 
   \*चान्द्रे न क्रमबाध इत्यादि तथाच चान्द्रस्य त्रिंशत्तिथिघटितत्वेन सर्व्वदेव शयनादौ तिथिसम्भवात् क्रमबाधौन घटते क्रमबाधाभावादेव प्रसिद्धिवाधोऽपि नास्तीति भावः। ये पुनरुभयं वाच्यं ब्रुवते सौरशक्यत्वचान्द्रशक्यत्वमित्युभयं ब्रुवते मासादिपदस्येति शेषः। चान्द्रोऽथ केवल इति अथवा केवलचान्द्रशक्यत्वं ब्रुवते इति पूर्व्वेषानुषङ्गः। तेषां मतेसौम्यग्रहणं चान्द्रग्रहणं मुख्यत्वात् चान्द्रशक्तिवादिनां मते इति शेषः। कल्पनाल्पत्वात् मासपदस्य चान्द्रे शक्तिकल्पनायां लघुत्वात्। तदयमर्थःअयं वक्ष्यमाणोऽर्थः। तत्प्रभृत्येव मलमासप्रभृत्येव उत्तरसौरेषु तन्मलमासोत्तरसौरमासेषु। पूर्वपूर्व्वचान्द्रप्राप्तेरिति तथाच यत्र आषाढ़े मलमासस्तदुत्तरसौरेषु मलीयाषाढोत्तरकर्कटे चान्द्रशुद्धाषाढस्य गतत्वात्। तत्रैव बर्षाढमशुद्धाषाढएव चान्द्रमासविहितानि हरिशयनादीनि कार्य्याणि कर्त्तव्यानीत्यर्थः।
-
-
 
 द्युत्थानान्तं कर्कटादिवृश्चिकान्तेषु कार्य्यमुत्तरत्रिकाधिमासे तु शयनं मिथुन एव अधिमासात्प्रभृत्युत्कर्षः यत्पुनरमोघास्त्रबुद्ध्या तेन पूर्व्वत्रिकाधिमासे—
 
@@ -6395,8 +5615,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  ** \*** तदेव स्पष्टयति तेनेत्यादि। पूर्व्वत्रिकाधिमासे वैशाखाद्याषापर्य्यन्ताधिमासे। कर्कटादिवृश्विकान्तेषु कर्कटे हरिशयनं कन्यायां पार्श्वपरिवर्त्तनं वृश्चिके उत्थानञ्च। उत्तरत्रिकाधिमासे तु श्रावणाद्याश्विनपर्य्यन्ताधिमासेषु हरिशयनं मिथुन एवेति श्रावणादिमलमासे मिथुन एव चान्द्राषाढ़समापनादिति भावः। अधिमासात्प्रभृत्युत्कर्षः मलमासोत्तरक्रियमाणपार्श्वपरिवर्त्तनादौनाम् उत्कर्षं एव चान्द्रभाद्रादौ विधानात् अमोघास्त्रबुद्ध्या अव्यर्थयुक्त्या तेन योग्लौकेन पूर्व्वत्रिकाधिमासे वैशाखादित्रिकमलमासे। तस्मिन् शुक्ले लक्ष्मीप्रबोधाधिकरणीभूतामावास्याया अव्यवहितोत्तरशुक्लपक्षेस्वविरोधिप्रथमवचनेम शुक्लपक्षेयदा भानुरित्याद्युत्तरवचनविरोधिना प्रथमवचनेन अमावास्यां तुलादित्ये इत्यादि
 
-
-
 पौर्व्वापर्य्यनियमप्रतिपादकत्वात्। द्वितीयस्य च विष्णूत्थानाच्चतुर्द्दश्यां नैमित्तिकपरभावप्रतिपादकत्वाद्वाधकाभावात्। अतो विल्वफलं वर्त्तुलं वंशो दीर्घतर इत्येतत्समानो विरोधः।न च कृष्णचतुर्द्दश्युत्कर्षात् सुखरात्रेरप्युत्कर्षो नियतक्रमत्वादेतयोरितिवाच्यं ; शास्त्रेण क्रमनियमाभावात्। आर्थस्त्वसौ स च 'तस्मिन् शुक्लेसदा विष्णुरिति' वचनेन सुखरात्रिपरभूतशुक्लपक्षे देवोत्थानस्य नियमाद्वाध्यः। बाधं विना तावदस्य वर्णनमशक्यम् **\***।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6405,15 +5623,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  **\*** प्राथमिकस्य अमावास्यां तुलादित्ये इति प्रथमवचनस्य। सुखरात्रिदेवोत्थानयोः लक्ष्मीप्रवोधस्तदुत्तरं शुक्लपक्षेनियतविष्णूत्थानक्षतयोः पौर्व्वापर्य्यनियमप्रतिपादकत्वादित्यस्य प्राथमिकस्य इत्यनेन सम्बन्धः। द्वितीयस्य शुक्लपक्षे यदा भानुरित्यादि द्वितीयवचनस्य च विष्णूत्यानात् चतुर्द्दश्यां नैमित्तिकपरभावप्रतिपादकत्वादिति उत्तिष्ठत्यग्रतो विष्णुः पश्चात् कृष्णचतुर्द्दशीत्यनेन विष्णूत्यानादूर्द्धंचतुर्द्दश्यां कृष्ण चतुर्द्दश्याम्। नैमित्तिकपरभावप्रतिपादकत्वात् नैमित्तिक उत्तिष्ठत्यग्रतो विष्णुः पश्चात् कृष्णचतुर्द्दशीत्यनेन प्रतिपादितः यः परभावः परत्वं कृष्णचतुर्द्दशीवृर्त्तित्वविष्णूत्थानोत्तरवर्तित्वं तत्प्रतिपादकत्वादित्यस्य द्वितीयस्य चेति
 
-
-
 तत्र सदेति शब्दयन्त्रितं नियमं न बाधितुं शक्यते प्रमाणबाधापत्तेः। न चार्थोऽपि नियमः कथं बाध्यतामस्यापि प्रमाणप्रतीतत्वादिति वाच्यं शब्दमूलत्वादर्थस्य शब्देन हि कार्त्तिककृष्णचतुर्द्दश्यां तत्कार्य्यविधानात् तुलादित्यामावास्यायां सुखरात्रिविधानाच्चतुर्द्दश्यमावास्याकर्म्मणोरर्थोऽयं क्रमो न शाब्दः। यदा पुनः शुक्लपक्षे तुलासंक्रान्तिनिमित्तेन चान्द्रकार्त्तिकचतुर्द्दश्यां तद्विहितं कर्म्म तदार्थप्रमाणस्याप्रवृत्तेः कस्य बाधः। प्रायिकमेव हि पौर्व्वापर्य्यमर्थरूपप्रमाणात् सिध्यति न च तस्यास्ति बाधः।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 सम्बन्धः। बाधकाभावादिति पूर्व्ववचनस्य लक्ष्मीप्रबोधविष्णूत्थानयोः पौर्व्वापर्य्यनियामकत्वेन द्वितीयवचनस्य च कृष्णचतुर्द्दशीमात्रस्य विष्णूत्थानात्पश्चाद्वर्त्तित्वमात्र प्रदर्शनेन च एकविषयत्वाभावेन पूर्व्वापरयोर्वाध्यबाधकत्वाभावादित्यर्थः। विभिन्नविषयतां दृष्टान्तेन दृढ़यति अत इति। समानो विरोध इति तथाच वर्त्तुलत्वस्य दीर्घतरत्वस्य च विरोधिपदार्थत्वेऽपि वर्त्तुलत्वस्य विल्वफलगतत्वेन दीर्घतरत्वस्य च वंशगतत्वेन च विभिन्नविषयतया यथा न विरोधस्तथा प्रकृतेऽपीति भावः। कृष्ण चतुर्द्दश्युत्कर्षात् विष्णूत्थानोत्तरकर्त्तव्यतारूपोत्कर्षात्। सुखरात्रेरप्युत्कर्ष इति तथाच चतुर्द्दश्युत्तरतिथौ अमावास्यायां सुखरात्रेः कर्त्तव्यतयाचतुर्द्दश्या उत्कर्षेसुखरात्रेरपि विष्णूत्थानोत्तरकर्त्तव्यतारुपीत्कर्षः सुतरां सिद्ध इति भावः। एतयोः चतुर्द्दश्यमावास्ययोरिति क्रमनियमाभावादिति पश्चात् कृष्णचतुर्द्दशीत्यनेन विष्णूत्थानादुत्तरवर्त्तित्वेन प्राप्तायाः कृष्णचतुर्द्दश्याः अमावास्यां तुलादित्ये लक्ष्मीर्निद्रां विमुञ्चतीति वचनबोधितामावास्यायाश्च शास्त्रेण केनापि शास्त्रेण पौर्व्वापर्य्यक्रमनियमस्यादर्शनादित्यर्थः। आर्थस्त्वसाविति अग्रतः पश्चादिति शब्दद्वयस्वरसलब्धः असौ आर्थःविष्णूत्थानात् परकर्त्तव्यः सुखरात्र्युत्कर्षरूप स च बाध्य इत्यग्रिमेनास्य सम्बन्धः। बाधं विनेति द्वितीयवचनबोधितस्य विष्णूत्थानात् परतः लक्ष्मीप्रबोधरूपसुखरात्र्युत्कर्षरूपार्थस्य वाधं विनेत्यर्थः। अस्य वर्णनं प्रथमवचनबोधितलक्ष्मीप्रबोधानन्तरविष्णूत्थानरूपनियमितार्थस्य निर्णय इत्यर्थः।
-
-
 
 ततश्चयदि तुलास्थ एव चतुर्द्दशीविहितं तस्यापि नैमित्तिकोत्कर्षवचनदर्शनान्नैमित्तिकेतरविषयत्वेन सामान्यशब्दस्योपसंहारः**\***। "सदेति" पदस्य नियमप्रतिपादकत्वात् सर्व्वथैव बाधःस्यात्। बाधाच्चोपसंहारः श्रेयान्। किञ्च सिंहेऽधि मासे शक्रस्य दुर्गानन्तरद्वादश्यामुत्थानं भणसि ? कन्याधिमासे तुलायां दुर्गाष्टमीपूर्व्वसप्तम्यामेव सूर्य्योत्थानमित्यादिव्युत्क्रमाभि-
 
@@ -6425,8 +5639,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 पूजनीया तदा लक्ष्मीर्विज्ञेया सुखरात्रिका॥”**
 
 इति वचनात्। एतदेव स्पष्टयति तुलादित्ये सुखरात्रिविधानात्। चतुर्द्दश्यमावास्याकर्म्मणोरर्थोऽयं क्रमः, चतुर्द्दशीयुक्तामावास्याकर्म्मणोरर्थोऽयं पश्चात् कृष्णचतुर्द्दशीति शब्दतात्पर्य्यार्थक्रमो न शाब्दःन शाब्दक्रमोऽयम्। 'उत्तिष्ठत्यग्रती विष्णु'रितिवत् विष्णुप्रबोधात् परतो लक्ष्मीप्रबोधस्य स्पष्टशब्दतोऽनवगतेः। चान्द्रकार्त्तिकचतुर्दृश्यां चान्द्रकार्त्तिकसम्बन्धिचतुर्द्दशीयुक्तामावास्यायाम्। तद्विहितं कर्म्म लक्ष्मीप्रबोधरूपकम विहितम्। तदा अर्थप्रमाणस्य पश्चात् कृष्णचतुर्द्दशीयुक्तामावास्या-लक्ष्मीप्रबोधरूपार्थप्रमाणस्य। अप्रवृत्तेरिति तथाच यदा शुक्लपक्षेतुलासंक्रान्तिःतदा आदौ लक्ष्मीप्रबोधः, पश्चात् वृश्चिके हरेरुत्थानम्। पश्चात् कृष्णचतुर्द्दशीत्यर्थक्रमस्य सुतरामप्रवृत्तिरिति भावः। पौर्व्वापर्य्यंलक्ष्मीप्रबोधानन्तरं हरेः प्रबोधस्य हरेः प्रबोधानन्तरं लक्ष्मीप्रबोधस्य च पौर्व्वापर्य्यम्। तस्य पौर्व्वापर्य्यस्य।
-
-
 
 धायिनः**\*** कथं कृष्णचतुर्द्दशीकर्म्मलक्ष्मीप्रबोधयोः पौर्व्वापौर्य्येऽर्थग्रहः? सर्व्वेषामर्थसिद्धत्वेनाविशेषात्। किञ्च “शुक्लपक्षे यदा भानु” रित्यस्य सामान्यप्रवृत्तत्वात् मेषवृषयोरधिमासेऽपि तुलासंक्रान्तःशुक्लपक्ष एव भावात् तद्विषयत्वमेवास्य कुतो नेष्यते ? तयोरधिमासे कर्कटे देवशयने—
 
@@ -6440,8 +5652,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तुलास्थ एव तुलास्थसूर्य्य एव सौरकार्त्तिकएवेत्यर्थः। तस्यापि चतुर्द्दशीयुक्तामावास्याकरणीयलक्ष्मीप्रबोधरूपकर्म्मणोऽपि नैमित्तिकोत्कर्षवचनदर्शनात् विष्णुप्रबोधोत्तरकर्त्तव्यरूपवाचनिकोत्कर्षदर्शनात्। नैमित्तिकेतरविषयत्वेन बाचनिकेतरविषयत्वेन। सामान्यशब्दस्य 'तस्मिन् शुक्ले सदा विष्णु रिति सामान्यशब्दस्य। उपसंहारः पश्चात् कृष्णचतुर्द्दश्यसन्त्वपक्ष एव लक्ष्मीप्रबोधानन्तरशुक्लपक्षनियतत्वेन हरेरुत्थानस्य सङ्कोचः।
 
  ** \*** सदापदस्य नियमपरत्वे प्रतिबन्धिं दर्शयति सर्व्वथैव बाधःस्यात्। बाधाच्चोपसंहारः श्रेयान् इति तथाच बाधसीकारे “उत्तिष्ठत्यग्रतो विष्णु” रित्यादिमुनिवचनान्तरवैयर्थंस्यात् तदपेक्षया सामान्यशब्दस्य निरुक्तविशेषपरत्वेन सङ्कोच इति भावः। शक्रस्य शक्रध्वजस्य दुर्गानन्तरद्वादश्यां दुर्गोत्सवात् परतोद्वादश्याम्। व्युत्क्रमाभिधायिनः यथार्थक्रममन्यथाकृत्याभिधायिनः। तथाच शक्रोत्थानात् परतोदुर्गोत्सवः दुर्गाष्टम्याः परतः सप्तम्यां सूर्य्योत्थानञ्चेति यथार्थक्रमः वृश्चिकशेषपक्षे सूर्य्यान्तानामुत्थानमिति प्रागुक्तेरिति भावः।
-
-
 
 देवोत्थानात्तत्परभूता चतुर्द्दशी प्राप्ता एव किमनेन विधीयते ? द्वेधा हि विधित्वमस्य भवति**\***। वृश्चिके देवोत्थानस्य प्राप्तस्य
 
@@ -6464,8 +5674,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति वचने दिवावृत्तिचतुर्द्दशीयुक्तामावास्यायां रात्रौ सुखरात्रिकाविधानात् चतुर्द्दशीकर्म्मशिवालयदीपदानादिलक्ष्मीप्रबोधरूपसुखरात्रिकयोः पौर्व्वापर्य्यं सूतरां सिद्धमिति भावः। “शुक्लपक्षे यदा भानुरित्यस्य,” “शुक्लपक्षे यदा भानुस्तुलां समधिरोहति। उत्तिष्ठत्यग्रतो विष्णुः पश्चात् कृष्णचतुर्द्दशीति" वचनस्य सामान्यप्रवत्तत्वात् शुक्लपक्षे तु रवेस्तुलारोहणमात्रेण प्रवृत्तत्वात्। भावात् सत्त्वात्। तद्विषयत्वमेव मेषवृषयोरधिनासविषयत्वमेव। अस्य वचनस्य। तत्कर्म्मविधानात् विष्णूत्थानानन्तरितकृष्णचतुर्द्दशीकर्म्मविधानात्। नास्त्यस्य विषयत्वं "शुक्लपक्षे यदा भानु" रित्यस्य वचनस्य विषयत्वं नास्तीत्यन्वयः। अविधित्वात् विधिप्रत्ययाभावेन विधेयत्वाभावात्। तथाच 'अधिरोहति, ' 'उत्तिष्ठती' त्याद्यर्थवादघटितत्वेन विधिर्न सम्भवतीति भावः। उत्तरत्रिकेऽधिमासे श्रावणादित्रिकाधिमासे। मिथुन एव शयने सति मिथुने चान्द्रमाससमापनात् वृश्चिकोत्थाननिमित्तस्य इति कर्कटशयनस्य विशेषणम्। तथाच—
 
-
-
 तुलायामपकर्षविधानात्तुलायां वा प्राप्तायाश्चतुर्द्दश्या उत्कर्षविधानात्। तत्र योगीश्वरमते वृश्चिके चोत्थानप्रसक्तेःनापकर्षविधिः नापि चतुर्द्दश्युत्कर्षविधिः। शुक्लपक्षे तुलासंक्रान्तौतस्मिन्नेव देवोत्थानाभिधानात्। अस्मन्मते तूत्तरत्रिकाधिमासे तुलोपक्रान्तचान्द्रकार्त्तिकशुक्लपक्षे वृश्चिकसमापनीये प्रहरति तन्मत एव दुर्भिक्षकालायाचितवृत्तिब्राह्मणवदनर्थकं वचनम्। तत्पश्चाद्भावेन चतुर्द्दश्याः प्राप्तत्वात् सोऽयमान्मीय एव वाणो भवन्तं प्रहरति। अस्मन्मते उत्तरत्रिकाधिमासे तुलोपक्रान्तचान्द्रकार्त्तिकशुक्लपक्षे वृश्चिकसमापनीये "आभाका" वचनेन देवोत्थानस्य प्राप्तौ तस्यापकर्षो विधातुं न शक्यते, "आभाका" इत्यस्य बाधात्।
 
 **"नान्यथा स्वापयेद्देवं न चैवोत्थापयेद्धरि” मिति**
@@ -6478,23 +5686,17 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   तुलायां बोधयेद्देवीं वृश्चिके तु जनार्द्दन” मिति वचनेन कर्कटहरिशयनमेव वृश्चिके हरेरुत्थाने निमित्तं, मिथुने शयने सति वृश्चिके विष्णूत्थाननिमित्तत्वं न सम्भवतीति भावः।
 
-
-
 ग्रत इति वर्द्धित्वादेव प्रबोधः ततः पृष्ठेकानीत्यर्थः। अयं ग्रामः पश्चादग्रतोऽसावित्यादेवि चरमार्थस्यैव प्रतीतेस्तस्यैव न्यायावगतेः तदयुक्तम्। नित्यत्वादेवंविधाग्रपश्चाद्भावस्य “शुक्लपक्षे सदेति" कादाचित्कावगतिविरोधात्**\*** तस्माच्चतुर्द्दश्युत्कर्ष एवात्रसमाधिः। तुलागतचतुर्द्दशोवचनमात्रस्य निमित्तवशादुपसंहार इति अनुवादः पुनरनर्थक एव स्यात्। ततश्चास्तामुत्तरत्रिकाधिमासे विषयत्वं किन्तु षट्ष्वेवाधिमासपाते शुक्लपक्षे तुलासंक्रान्तौवृश्चिके देवोत्थानाचतुर्द्दशी सौरकार्त्तिकगतत्वेन
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   \* द्वेधा हि विधित्वमस्य भवतीति यदुक्तंतदेव दर्शयति, वृश्चिके देवोत्थानसेत्यादीति। तस्मिन्नेव तुलास्थरवावेत्र। तुलोपक्रान्तचान्द्रकार्त्तिकशुक्लपक्षे तुलास्थरव्यारब्धचान्द्रकार्तिकशुक्लपक्षे। कोजागरपरभावेन कोजागरोत्तरकर्त्तव्यत्वेन पूर्व्वभावः स्यात्। कोजागरात् प्राक् देवोत्थानं स्यात् अतो बाधापत्तेः योग्लौकीयममोघास्त्रं तं विनिहन्ति इत्यस्य चतुर्द्दश्याएवोत्कर्षविधिरित्यनेन सम्बन्धः। अमोघास्त्रम् अव्यर्थप्रमाणं विनिहन्ति दूरीकरोति। दीक्षितमतमपाकर्त्तुमाह यत्त्वित्यादि। कृष्णचतुर्द्दश्याःपरतः, कृष्णचतुर्द्दशीयुक्तामावास्याक्रियमाणलक्ष्मीप्रबोधरूपसुखरात्रिकायाः परतः। पृष्ठेकानी पश्चाद्वर्त्तिनो। अयं ग्रामः पश्चात् पश्चाद्वर्ती, असौ अग्रतः पूर्व्ववर्ती। चरमार्थस्य प्रतीतेरिति पश्चाच्छब्देन चरमार्थस्य उत्तरवर्त्तित्वार्थस्य प्रतीतेः। नित्यत्वात् विष्णुप्रबोधस्य नित्यत्वात्। एवं विधाग्रपश्चाद्भावस्य उत्तिष्ठत्यग्रतो विष्णुः पश्चात् कृष्णचतुर्द्दशीति वचनबोधित-विष्णुप्रबोधलक्ष्मीप्रबोधयोरग्रपश्चाद्भावस्य। शुक्लपक्षे सदेति लक्ष्मीप्रबोधमभिधाय तस्मिन्शुक्ले सदा विष्णुरिति वचनेन विष्णुप्रबोधस्य लक्ष्मीप्रबोधानन्तरशुक्लपक्षनियतत्वेन। कादाचित्कावगतिविरोधादिति तथाच तस्मिन् शुक्ले सदा विष्णुरित्यत्र सदापदश्रुतेः लक्ष्मीप्रबोधानन्तरशुक्लपक्षनियतत्वेन कदाचित् लक्ष्मीप्रबोधात् पूर्व्वंकदाचिद्वातत्परत इतिकादाचित्काबगतिविरोध इति भावः।
 
-
-
 पूर्व्वतया प्राप्तापि निमित्तविशेषेण चान्द्राधिकर्त्तव्यतया पश्चाद्विधीयत इतीत्थमेव सार्थकवचनं यथा भवन्मते सौराषाढ़ादिविहितानामेव शयनादीनान्नैमित्तिकचान्द्रे विधिः। एवं “शुक्लपक्षे यदा भानुरिति” सामान्येनावगतेरप्यनुग्रहो भवति। अन्यथोत्तरत्रिकाधिमासविषयत्वं सामान्यावगतिबाधेन वर्णनीयम्**+**। यद्वायोग्लौकमतेऽपि चेत् पूर्व्वोक्तन्यायेन विधित्वमस्य न सम्भवत्येव तदानीं दीक्षितव्याख्यानेन चानुवादतास्य भवतु। यदेति पद-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   + तस्मात् कादाचित्कावगतिविरोधात् चतुर्दृश्युत्कर्ष एवात्रेति अत्र चतुर्द्दशीपदेन प्रबोधात् परतः सम्भाव्यमानकृष्णचतुर्द्दश्युत्कर्ष एवोच्यते न तु लक्ष्मीप्रबोधाधिकरणीभूतामावास्यायाः अत्र्यवहितपूर्व्ववर्त्तिकृष्णचतुर्द्दश्युत्कर्षःतत्परभूतशुक्लपक्षे विष्णुप्रबोधस्य नियमितत्वेन पश्चात् पदवैयर्थ्यापत्तेरिति भावः। निमित्तवशादुपसंहार इति कालविशेष निमित्तत्वेन सामान्यविधेः सङ्कोचः, तथाच यदा मार्गशीर्षोऽधिमासस्तदैव प्रबोधात्परतः कृष्ण चतुर्द्दश्यास्तुलागतत्वेनोत्कर्षसम्भव इति भावः। पूर्व्वतया विष्णुप्रबोधस्य पूर्व्वतया, तथाच वृश्चिके विष्णुप्रबोधविधानात् चतुर्द्दश्याःसौरकार्त्तिकगतत्वेन सुतरां पूर्व्वत्वम्। निमित्तविशेषेण लक्ष्मीप्रबोधभिन्नचान्द्रकार्त्तिककृष्णपक्षकरणीयकर्म्मविशेषनिमित्तत्वेनेत्यर्थः। पश्चात् विष्णुप्रबोधादूर्द्ध्वम्। नैमित्तिकश्चान्द्रे विधिरिति चान्द्रे नैमित्तिकविधिरित्यन्वयः।तथाच शेते विष्णुः सदाषाढ़े इति वचने शयने सदापदश्रुतेः सौरपरत्वे कदाचिच्छयननिमित्ततिथेरप्राप्तौ कर्म्मलोपःस्यादतश्चान्द्रे नैमित्तिकविधिरित्युक्तम्। एवमित्यादि, तथाच यथा चान्द्रे नैमित्तिकविधिः तथा 'शुक्लपक्षे यदा भानुस्तुलां समधिरोहति। उत्तिष्ठत्यग्रतो विष्णुः पश्चात् कृष्णचतुर्द्दशी'ति वचने शुक्लपक्षे तुलासंक्रान्तिमात्रे सामान्यतोऽग्रे विष्णोरुत्थानविधिः पश्चात् कृष्णचतुर्द्दशीविधिरिति, नतु उत्तरत्रिकाधिमासमात्रे उक्तविधिरिति भावः। ननु उत्तरत्रिकाधिमासविषयत्वसिद्धान्तो व्याहन्येत इत्यत आह अन्यथेत्यादि, तथाच सामान्यावगतिबाधेन उत्तरत्रिकाधिमासविषयत्वम् अन्यथा वर्णनीयमिति आसत्तिक्रमेणान्वयः।
-
-
 
 स्याप्यनुवादता। यदा शुक्लपक्षे तुलासंक्रान्तिस्तदा विष्णूत्थानस्य परभावमनुवदति। अन्यदापि परभाव एवेति चेत् विधित्वे ह्यन्यनिवृत्तावनर्थवत्त्व (१)[^323] मनुवादे तु नायन्दोषः। तस्माद्योग्लौकेनोपदर्शितो द्विराषाढ़ोऽवगाढन्यायापोढ़तयाऽनतिदृढ़ (मूढ़) स्यैवेति प्रतिभाति।
 
@@ -6520,8 +5722,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 “सर्व्वमज्ञानतिमिरमञ्जनेन हत" मित्यभिधायोक्तं "युक्तः शेषैस्तदा मासैरिति।” येऽपि मासाः पूर्वं गतास्तेऽपि काल-
 
-
-
 वृद्धिमग्रे भाविनीं वीक्ष्य उत्तरा एव ग्राह्या इत्यर्थः। तेनैवमादिवचनपर्य्यालोचनया दक्षिणायनात् पूर्व्वंपरेण वा दर्शद्वये द्विराषाढ़ एव स्यात् **\***। तस्मादुत्तरत्रिकाधिमासेऽपि प्राक्तनशयनमुत्क्रष्टव्यम्। कर्कटे चाधिमासे देवशयनं मलिम्लुचेऽपि, "विष्णुः स्वपिति कर्कट" इति वचनात् नास्ति वचनस्यातिभार इति न्यायविदां व्यवहारात्, आश्विने चाधिमासे कर्कट एव हरेःसुप्तत्वात्,
 
  "कर्किण्यर्के हरौसुप्ते शक्रध्वजक्रियाश्विन" इति वचनान्मलिम्लुचेऽपि शक्रोत्सवः। तुलायाञ्चाधिमासे तत्रैव दुर्गोत्सवः। तदेवमुत्तरत्रिकाधिमासे वत्सरद्वये कर्कट एव देवशयनम्।
@@ -6535,8 +5735,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति वचनात् श्रावणादित्रिकमलमासे आगामिवर्षीयकर्कटमात्रापेक्षं हरिशयने सामान्यवचनवर्णनं नच युक्तमित्यर्थः। अधिमासपाते तत्कार्य्ययोः अधिमासपातजन्यद्विराषाढ़कुलीरविष्णुशयनयोः समानसंवत्सरगोचरत्वावगतेःयस्मिन् संवत्सरे अधिमासपातः तस्मिन्नेव संवत्सरे सामानाधिकरण्येन विषयत्वावगतेः, न त्वागामिसंवत्सरमात्रगोचरत्वेनेत्यर्थः। द्विराषाढविकल्पोऽयं वैकुण्ठशयनम्प्रति इत्यादिवचनैरिति। आदिपदेन “ध्वजस्तु शतयज्ञस्य सिंह एव विधीयते” इत्युत्तरपतीकपरिग्रहः।
 
-
-
 भाविनि चोत्तरत्रिकाधिमासे यदि मिथुन एव देवशयनं तदोत्तिष्ठते मासचतुष्टयेनेति बाध्येत, तद्वत्सरे वृश्चिकोत्थानस्य निर्विवादत्वात्\*। तदेतदतिमहनाज्ञानतिमिराक्रान्तान्तःकरणतया प्रज्ञाप्रदीपकप्रकाशप्रत्यस्तमयेन सम्यग्भ्रान्तस्य सम्भ्रमस्याभिधानम्। तथा "आभाकासितपक्षेष्विति" चान्द्राषाढ़परत्वस्य महता प्रबन्धेन पूर्व्वप्रतिपादितत्वात् न चोत्तरत्रिकाधिमासे कर्कटे चान्द्राषाढ़ः सम्भवति। न च तस्य बाधो न्याय्यः,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6548,14 +5746,10 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति वचनात् आगामिवर्षीयकर्कटेऽपि देवशयनं वाचनिकमिति भावः। उत्तरत्रिकाधिमासे कर्कटहरिशयनानङ्गीकारे वचनान्तरविरोधं दर्शयति, भाविनि चोत्तराधिमासे इत्यादि। उत्तिष्ठते मासचतुष्टयेनेत्युपलक्षणम्, ‘पञ्चमासान् हरौसुप्ते देशे तत्र भयं भवेत्’ इत्येतद्वचनविरोधोऽपि द्रष्टव्यः। तथाच श्रावणादिमलमासे मिथुनहरिशयनस्वीकारे वृश्चिके हरेरुत्थाने च पञ्चमासहरिशयनात् मासचतुष्टयेनेति वचनविरोधःदेशे तत्र भयं भवेदित्यादिदोषश्च स्यादिति भावः।
 
-
-
 अबाधेनाप्युपपत्तेः। न च वाच्यमधिमासस्य शयनाद्युत्कर्षहेतुत्वात्, तस्य च तद्वत्सरे पातात् कथमनुत्कर्षः? यतो नायमुत्कर्षस्य हेतुरसिद्धस्य पश्चद्भाविनो हेतुत्वाभावात् तस्मात् “माधवाद्येषु षट्स्विति" वचनेन यदुत्तरत्रिकाधिमासस्य कर्कटशयनहेतुत्वमुक्तं तदागामिशयनोत्कर्षाभिप्रायम्, न च निमित्तनैमित्तिकयोरेकवत्सरगोचरत्वावगमबाधः**\***। कर्कटाधिमासेऽपि चान्द्रश्रावणाधिमासगणनयागामिकर्कटगतचान्द्राषाढ़पर्य्यन्तेनैव द्वा-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
   **\***इदानींसम्भ्रमभट्टमतमपाकर्त्तुमुपक्रमते तदेतदित्यादि। अतिगहनाज्ञानतिमिराक्रान्तान्तःकरणतया अतिदुरवगाहाज्ञानान्धकारांच्छन्नहृदयतया। प्रज्ञा एवं प्रदीपकः प्रदीपः तस्य यः प्रकाशः ज्योतिः तस्य प्रत्यस्तमयेन निर्व्वापणेन। सम्भ्रमशब्दस्य सम्यक् भ्रमो भ्रान्तिर्यस्येति व्युत्पत्तिमङ्गीकृत्याह सम्यग्भ्रान्तयेत्यादि। महता प्रबन्धेन अतिविस्तृतसन्दर्भेन, नचेति नहीत्यर्थः। चान्द्राषाढ़ इति, तथाच शेते विष्णुःसदाषाढ़े इत्यादिवचने सदापदसमभिव्याहृताषाढ़पदाच्चान्द्राषाढ़ एव प्रतीयते। अन्यथा सौरपरत्वे कदाचिद्रवेः शीघ्रगत्या न्यूनकाले माससमाप्तौ शयनतिथेरलाभात् सदा शेते इत्यनुपपन्नं स्यादिति भावः। अबाधेनाप्युपपत्तेरिति, तथाच शयने चान्द्राषाढ़वीकारे सर्व्वदैवाबाधेनोपपत्तिः सम्भवतीति भावः। अधिमासस्य उत्कर्षहेतुत्वात् शयनोत्कर्षहेतुत्वात् इत्यर्थःकथमन्यथा मिथुनमलमासपाते कर्कटे हरिशयनं स्यात्। नच वाच्यमिति, कथम् अनुत्कर्ष इति वाच्यं न च इत्यर्थः। अत्रं हेतुमाह यतो नायमित्यादि, यतोयस्मात् अयं मलमासो न हेतुः। अहेतुत्वे हेतुमाह असिद्धस्य पश्चाद्भाविनी हेतुत्वाभावादिति। तथाच – “अन्यथासिद्धिशून्य नियता पूर्व्ववर्त्तिता। कारणत्वं भवेत्तस्य" इत्यादिस्मरणात् कार्य्यव्यवहितपूर्व्ववर्त्तिन एव कारणत्वनियमात् मलमासस्य पश्चाद्भावित्वेनासिद्धतया अकारणत्वमिति भावः। यद्यपि मलमासे आरब्धे सति तदीयवाद्वादश्यादौ हरिशयनविधानेन तस्य पूर्व्ववर्त्तित्वमस्ति, तथापि दर्शद्वयातिक्रमणाभावेन असम्पूर्त्त्या असिद्धत्वमुक्तं सङ्गच्छते। तस्मात् असिद्धस्य तस्य कारणत्वाभावात्। निमित्तनैमित्तिकयोःकार्य्यकारणयोः।
-
-
 
 दशभिर्मासैः संवत्सरनिष्पत्तेरेकवत्सरगोचरत्वाविरोधात्। न च वत्सरगणनया मासं प्रति नियमोऽस्ति वर्षवृद्ध्यादावनियभात्, न च समानवत्सरगोचरत्वमप्यनयोरवगम्यते तद्वाचकशब्दाभावात्, न च "द्विराषाढ़ःस विज्ञेय" इति वत्सरे द्विराषाढ़ इति वचनार्थः। द्विराषाढ़वचनत्वात् पदस्य दर्शद्वयोपलक्षिताधिमासस्यैवाषाढस्य 'स' इति निर्द्देशात् द्विराषाढ़स्येव**\*** द्विर्वैशाखद्विःश्रावणादेरपि शयनाद्युत्कर्षहेतुत्वात् गौणः। स द्विराषाढ़ो विज्ञेय इत्यभिधानान्न तु संवत्सर इति। तस्मात् पूर्व्वसिद्धस्य हेतुत्वात् परभाविनश्च हेतुमत्त्वात् “पतिते चाधिमासक" इति भूतनिर्द्देशाच्च स्वपरभूतकर्कटशयननिमित्तमेवाधिमासानाम्। अतएव—
 
@@ -6573,23 +5767,17 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   **\***ननु माधवाद्येषु षट्स्वेकइत्यादिवचने एकवर्षमध्ये हरिशयनोपपत्तिरिति चेत् तदुपपादयति कर्कटाविमासे इत्यादि। श्रावणाधिमासगणनया इति तथाच चान्द्रमासस्य मलमासत्वात् तस्य शुद्धाशुद्धत्वभेदेन मासद्वयत्वेऽपि षष्ठ्यादिदिवसैर्मासःकथितो बादरायणैरिति वचनेन श्रावणत्वेनैक्यात् तमादाय गणनया चान्द्राषाढपर्य्यन्तस्य एकवर्षत्वसिद्धिरक्षुणैवेति भावः। अनयोरभिमासहरिशयनयोः, द्विराषाढस्येव मुख्यद्विराषाढस्यैव।
 
-
-
 यदा पतनं सम्भवति तदा द्व्याषाढो नतु पूर्व्वमेव **\***। किञ्च शयनाद्युत्कर्षनिमित्तस्य सकृदुपनिपातान्नैमित्तिकानामपि सकृदेव युक्तं तत्र च पूर्व्वत्रिकाधिमासस्य परभूतकर्कटे शयननिमित्तत्वात् उत्तरत्रिकाधिमासस्यापि तथात्वमेव युक्तं “माधवाद्येषु षट्स्विति" षणामेवाधिमासानां, "विष्णुः स्वपिति कर्कट" इति तुल्यरूपनिमित्ताभिधानात्। अतएव क्वचिद्भाविनोऽधिमासस्य क्वचिद्भूतस्य निमित्तत्वं नैकं वचनमवगमयितुं प्रभवति वैरूप्यात्। अथ कथमुत्तरत्रिकाधिमासे भाविनि भूते च कर्कटे शयनं, कथञ्च देवशयनकर्म्मण्येव कदाचिद्भावितया कदाचिच्च भूततयोत्कर्षनिमित्ततावर्णनं, मेषादित्रिकाधिमासस्य भूतत्वेनैव निमित्तत्वविधानादुत्तरत्रिकाधिमासस्यापि भूतत्वेनैव युक्तम्। “उत्तिष्ठते मासचतुष्टयेनेति" तु प्रायिकानुवादमात्रम्। विधित्वे तु किमनेन विधीयते ? न तावच्चतुर्थश्चान्द्रो मासः। द्वादश्यां हि शयने तत्तिथ्यारब्धानाञ्चतुर्णां मासानामेकादश्यां पूरणात् द्वादशी पञ्चमासस्येति तत्रोत्थानं न स्यात्। अथ चतुष्टयेन समाप्तेन तेन पञ्चम इत्यर्थः। तन्निष्पत्तिश्चैकादश्यन्ते तत्र
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  ** \*** उपसंहरति तस्मादिति। परभाविनश्चहेतुमत्त्वात् कार्य्यत्वात्। स्वपरभूतकर्कटशयननिमित्तमेवेति अत्र स्वपदेनाधिमास उच्चते। स्वस्य परभूतं स्वपरभूतं स्वपरभूतञ्चतत् कर्कटशयनञ्चेति स्वपरभूतकर्कटशयनं तस्य निमित्तत्वं परभूततादृशकार्य्यं प्रत्येव स्वस्य कारणत्वमित्यर्थः। उत्तरायणम् आयाते सवितरि सवितरि सूर्य्ये उत्तरायणम् आयाते गते सति दक्षिणायने इत्यर्थः। तदा तदैव पतनसमानकालीन एव नतु पूर्व्वमेव पतनात् पूर्व्वमेव असम्पूर्णपतनसमानकालीन एवेत्यर्थः।
 
-
-
 निष्पन्नस्य द्वादश्यांसमुत्थानकारणतेति नैतदस्वार्थपरतापत्तेः। द्वादशीप्रयमक्षण एवोत्थानं स्यात्,\* न नक्षत्रमपेक्षते, त्रयोदश्यादौ
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  ** \*** पूर्व्वत्रिकाधिमासस्य वैशाखादित्रिकाधिमासस्य। परभूतकर्कटे शयननिमित्तत्वात् स्वोत्तरवर्त्तिकर्कटगतचान्द्राषाढ़सम्बन्धि शयनं प्रति निमित्तत्वात् निमित्तत्वदर्शनात्। उत्तरत्रिकाधिमासस्य श्रावणादित्रिकाधिमासस्यापि तथात्वमेव स्वोत्तरवर्त्तिकर्कटगतशुद्धाषाढ़सम्बन्धि शयनं प्रति निमित्तत्वमेव युक्तं, नतु कर्कटाधिमासे मलीयश्रावणशुक्लद्वादश्यामसम्पूर्णत्वेन तदाधिमासस्य निमित्तत्वासम्भवात् “शेते विष्णुःसदाषाढ़े” इति सदापदबोधितनियमबाधापत्तेश्च। क्वचित् भाविन इति क्वचित् कर्कटाधिमासे मलीयश्रावणसम्बन्धिशुक्लद्वादश्यां वाचनिकश्यन स्वीकारे। एकं वचनमिति अवगमयितुं बोधयितुं न प्रभवति इत्यन्वयः। वैरूप्यात् पूर्व्वत्रिकाधिमासस्येव एकरूपत्वाभावात्। प्रायिकानुवादमात्रमिति अत्र प्रायिकत्वं मलमासयुताव्दभिन्नत्वेन बोद्धव्यम्। अनुवादमात्रमिति तु अत्रायमाशयः मास विशेषमनुल्लेख्य सामान्यतो मासचतुष्टयेन इत्युक्तौकिमपेक्षया मासचतुष्टयत्वभित्यनध्यवसायःस्यात् विशेषतन्तु कस्मिन् मासे कस्मिन् पक्षादौ मैत्राद्यपादयोगेन शयनं वैष्णव्यमध्येन पार्श्वपरिवर्त्तनं पौष्णशेषेण उत्थानञ्चेति पुनरनध्यवसायःस्यात्। अतः “आभाकासितपक्षेषु मैत्रश्रवणरेवती। आदिमध्यावसानेषु प्रस्वापोद्वर्त्तनोत्सवाः॥” इति वचनेन सामान्यतोऽभिधाय मैत्राद्यपादे स्वपितीह इत्यादिना मासचतुष्टयत्वेनानुद्य विशिष्यते इति सुतरामनुवादमात्रं सिध्यति। विधित्वे तु नियमविधित्वे तु किमनेन मैत्राद्यपादे स्वपितीत्यादिना विधीयते नियम्यते। चतुर्थःमासचतुष्टयेन इत्यनेन प्राप्तश्चतुर्थो मासःचान्द्रःएका तिथिःकापि तदादिभूता इत्यादिवचनबोधिततिथिचान्द्र इत्यर्थः। एकादश्यां पूरणात् शयनाद्यारम्भकद्वादशीमादाय गणनया एकादश्यास्त्रिंशत्तिथित्वेन तिथिचान्द्रमाससमापनात्। सुतरां द्वादशी पञ्चमासस्येति एकादश्यां तिथिचान्द्रमाससमापनात् सुतरां द्वादशी पञ्चममाससम्बन्धिनीभवति। तत्रोत्थानं न स्यादिति मासचतुष्टयनियमात्। चतुष्टयेन समाप्तेन तेन पञ्चम इत्यर्थ इति चतुष्टय समाप्त्युत्तरत्वविशिष्टेन पञ्चमेनेत्यर्थः। अस्वार्थपरत्वापत्तेःस्वार्थद्वान्या अन्यार्थकल्पनापत्ते
-
-
 
 सर्व्वथा न स्यादेव मासचतुष्टयस्य चिरातीतत्वादेकादश्याञ्च नोत्थानं स्यात्। चतुर्थमासस्यानिष्पन्नस्य कारणत्वानुपपत्तेः एकादश्यन्ते च तत्समाप्तिः। तथाच पादयोगादन्यतिथावित्यादिकमपहस्तितं भवेत् **\***। नाक्षत्रमासचतुष्टयमिति चेत् नैतदप्यनुराधानक्षत्रमादिभूतमादाय चतुर्थमासीयरेवतीगणने नैकोनविंशत्युत्तरशतेन मासचतुष्टयस्य एकोनस्यापत्तेरभिजिद्गणने रेवत्युत्तरस्येति कथं मासचतुष्टयेनेति विधिःविधेयस्यापरिज्ञाने विधानासम्भवात्। न च रेवत्यामपि नियतमुत्थानम्, उभयोरप्यभावे त्विति, द्वादशीमात्रस्यापि विधेः। न च सौरापेक्षं चतुर्थत्वमाषाढात् कार्त्तिकस्य पञ्चमात्, प्रतिपदादिदर्शान्तश्चान्द्रोऽपि पञ्चम एवेति। यथाकथञ्चिदेवानुवादतया वर्णनं प्राप्तिपरतन्त्रत्वादनुवादानामतएव मैत्राद्यपादादिभिर्व्यभिचरितैः सहचरितं व्यभिचार्य्येव युक्तम्। "शक्रध्वजोत्थापनञ्च विष्णोश्च परिवर्त्तन" मित्यादिना च पञ्चभिरपि मासैरुत्थानस्य
 
@@ -6599,15 +5787,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  **\*** ननु रेवतीनक्षत्रयुक्तद्वादश्यामुत्यानविधानात् द्वादश्याद्यक्षणे तद्योगस्य कादाचित्कत्वात् कथमुपपत्तिरित्याशङ्क्याह न नक्षत्रमपेक्षते। चिरातीतत्वादिति त्रयोदश्यादौ उत्थाने द्वादश्यादिव्यवधानेन एकादश्यन्तरूपकारणस्य प्राक् सत्त्वासम्भवात्। अपहस्तितं भवेदिति पादयोगादन्यतिथौ इति वचनं व्यर्थं स्यात् तथाच द्वादश्यां नक्षत्रयोगाभावे पादविशेषयोगेन अन्यतिथौ उत्थानव्यवस्था न स्यादिति भावः।
 
-
-
 दर्शितत्वात्\*। तस्मादुत्तरत्रिकाधिमासव्यतिरेकेण यथाकथञ्चित्-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   \* नाक्षत्रमासचतुष्टयमिति पादयोगादन्यतिथावित्यादिवचनस्य सार्थक्याय सप्तविंशतिनक्षत्रैः नक्षत्रयुक्तमासचतुष्टयमिति चेदिव्यर्थः। अनुराधानक्षत्रमादिभूतमादायेति “मैत्राद्यपादे स्वपितीह विष्णुर्वेष्णव्यमध्ये परिवर्तते च। पौणावसाने च मुरारिहन्ता प्रबुध्यते मासचतुष्टयेने” ति वचनादिति शेषः। अत्र यद्यपि नाक्षत्रतिथिचान्द्रमासस्य विंशत्तिथिनक्षत्रात्मकतया तच्चतुष्टयस्य विंशत्युत्तरशतेन समापनमुचितं, तथापि पौष्णवसानेन सुरारिहन्ता प्रबुध्यते मासचतुष्टयेनेत्यनेन पौणावसानमासचतुष्टययोः सामानाधिकरण्यदर्शनेन पौष्णावसानरूपरेवतौशेष भागस्यापि अनुराधामादाय गणने एकोनविंश्यत्युत्तरशतेन समापनात् तादृशमासचतुष्टयस्यापि एकोनविंशत्युत्तरशतेन समापनापत्तिः सुतरागेव सिध्यति। तथाहि, अनुराधामादाय गणने त्रिंशत्पूरणीभूतमूलनक्षत्रेण प्रथमतादृशतिथिचान्द्रमासःसमाप्तः। ततः पूर्व्वाषाढ़ामादाय गणने त्रिंशत्पूरणीभूतश्रवणनक्षत्रेनद्वितीयस्तादृशमासःसमाप्तः। ततः धनिष्ठामादाय गणने त्रिंशत्पूरणीभूतपूर्व्वभाद्रपन्नक्षत्रेन तादृशतृतीयो मासःसमाप्तः। तथाच उत्तरभाद्रपन्नक्षत्रमादाय त्रिंशत्पूरणीभूताश्विनीनक्षत्रेन चतुर्थो मासः समाप्यते च। ततश्च रेवतीनक्षत्रे प्रबोधे एकोनत्वं सुतरामेत्र सिद्धम्। द्वादशीमात्रस्यापि विधेः“द्वादश्यां सन्धिसमये नक्षत्राणामसम्भवे। आभाकासितपक्षेषु शयनावर्त्तनादिक” मिति वचनात्। न च सौरापेक्षंचतुर्थत्वमिति मासचतुष्टयेनेति मासचतुष्टयस्य सौरमासचतुष्टयत्वं न च नहीत्यर्थः। प्रतिपदादिदर्शान्तयान्द्रोऽपीति मुख्यचान्द्रोऽपीत्यर्थः। पञ्चम एव उत्तरत्रिकमलमासे सति श्रावणादेर्द्वित्वात्। अनुवादतयेति स्वयमये वक्ष्यति। प्राप्तिपरतन्त्रत्वादनुवादानामिति प्राप्तेः पुनःकथनमनुवाद इति स्मरणात्। मैत्राद्यपादादिभिर्व्यभिचरितैरित्यादि तथाच “मैत्राद्यपादे स्वपितीह विष्णुः वैष्णव्यमध्ये परिवर्त्तते च, पौणावसाने च सुरारिहन्ता प्रबुध्यते मासचतुष्टयेने "ति, “द्वादश्यामृक्षसंयोगे पादयोगी न कारण” मिति, “द्वादश्यां सन्धिसमये नक्षत्राणामसम्भवे। आभाकासितपक्षे” ष्वित्यादि-त्र्यभिचरितैः प्राप्तकादाचित्कसम्बन्धैः मैत्राद्यपादादिभिः सहचरितं तद्योगेन व्यवस्थापितम्। इत्यादिना इति आदिना तु मासद्वयेन निर्द्दिष्टम्। “शयनादाद्यकोविदैः। दुर्गायाश्च त्रिभिर्मासैः अधिमासं विनैव तु। अधिमासनिपाते तु क्रमा-
-
-
 
 प्राप्तस्य चतुष्टयस्य चतुष्टयेनेत्यनुवाद इति यत्किञ्चिदेतत्। एतच्चाधिमासस्य शयनोत्कर्षनिमित्ततामभ्युपगम्योक्तम्। परमार्थतस्त्वधिमासे पतिते एकस्य द्विरावृत्तत्वात् ततः प्रभृत्युत्तरोत्तरसौरमासेषु प्राप्तिरिति (१) चान्द्रमासोत्कर्षनिमित्तमधिमास इत्यर्थः। यत्तु अज्ञानतिमिरदहनार्थमञ्जनवर्त्तिरूपवचनमुपन्यस्तम्।
 
@@ -6624,15 +5808,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 दिन्द्राम्बिकाहरीन्। कन्यातुलावृश्चिकेषु नृप उत्थापयेद्ध्रुवमिति प्रतीकपरिग्रहः। पञ्चभिर्मासैरिति अस्मिन् वचने मलमासे सति वृश्चिके उत्थानविधानेन चान्द्रकार्त्तिक पक्षस्य वृश्चिकप्रवेशेऽपि आषाढ़ापेक्षया चान्द्रकार्त्तिकस्य पञ्चमत्वात्।
 
-
-
 तार्थप्रसाधकत्वात्। तथाहि यदाधिमासः पतति तदैक नामानौ चान्द्रौ भवतः तत्र चान्द्राषाढविहितकर्म्मानुष्ठानाय को ग्राह्य इत्यपेक्षाया "मुत्तरःस्मृत" इति विधिः। तत्परभाविनोऽपि चान्द्रमासाःपरमासेष्वेव प्राप्यन्त इति परभूतैर्मासैर्युक्तः स्मृतः न तु पूर्व्वैरिति, तेषां शेषपदानभिधेयत्वात्, वयःशेषे पुत्रपौत्त्रमायुःशेषे यच्छेषन्दशरात्रस्येत्यादिषु परभूत एव काले शेषपदप्रयोगनियमात् **\***। कर्कटाधिमासे च देवशयने तत्र चान्द्रे न वा सौराषाढ़े शयनं स्यात्। तदानीं द्विःश्रावणत्वाच्चान्द्राषाढस्यापि कर्कटप्रथमदिन एव समाप्तत्वात् "आभाका" इति "मिथुनस्थेऽपि सहस्रांशा" वित्यादिचान्द्रविधिपरं वा सौरपरं वा
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   **\*** परमार्थतः यथार्थतः। एकस्य द्विरावृत्तत्वात् अधिमासरूपस्य आषाढ़ादिनामकत्वेनद्वित्वात्। ततः मलमासात्। तत्र तत्र मलमासमध्ये।अञ्जनेन ज्ञानाञ्जनेन, उपहतं नष्टम्। तत्र मलमासे सति योऽसौ उत्तरकालः परिवृद्धः शुद्धत्वेन विहितः। जनीगतान्धव्याधिप्रशमनार्थमिति अत्र जनीगतान्धइत्यपपाठः, रजनीगतान्धइत्येव पाठःसाधुः। तथाच रात्र्यन्धतारोगप्रशमनार्थमित्यर्थः पृष्टः जिज्ञासितः। विपरीतफलम् उद्देश्यविरोधिफलम्, एतदौषधविशेषणम्। दिवापि न पश्यतीति, तथाच रात्र्यन्धतारोगनिवृत्तिर्दूरे आस्तां, प्रत्युत पुनर्दिवान्धोऽपि भवतीति भावः। आभासलोकोऽयमित्यपपाठः, आभाणकोऽयं विपरीतार्थप्रकाशकोऽयमित्यर्थः। तत्सदृशत्वे हेतुमाह तस्यापीत्यादि। परमासेष्वेव परसौरमासेष्वेव। शेषैर्नासैरिति दर्शयति परभूतैरित्यादि। तेषां पूर्व्वेषां, शेषपदानभिधेयत्वात् शेषपदवाच्यत्वाभावात् परभूतमास एव। शेषपदाभिधेयतां दृष्टान्तेन दर्शयति वयःशेषे इत्यादि, शेषे वयसि इत्यर्थः। पुत्त्रपौत्तं पुत्तश्च पौत्त्रश्व द्वयोःसमाहारः पुत्त्रपौत्र' समाहारे क्लीवलिङ्गत्वम्। आयुःशेषे आयुषोऽवसाने यच्छेषं दशरात्रस्येति तावदेवाशुचिर्भवेदित्युत्तरप्रतीकम्। दशरात्रस्य यः शेषः अन्तोऽवसानो वा तं प्राप्य तावत्कालपर्य्यन्तम् अशुचिर्भवेदिति। शेषशब्दस्य पुंलिङ्गत्वेऽपि न क्षतिः।
-
-
 
 सर्व्वथाबाधितं स्यात् **\***। किञ्च शेषैरित्यधिमासस्य पाते पूर्व्वकालाभिप्रायेण वर्णने पूर्व्वावधेरनिर्द्देशात् पूर्व्वाषाढादिविहितानामपि शयनादीनामुत्कर्षः स्यात्, तेषां वत्सरान्तरगोचरत्वान्नोत्कर्ष इति चेत् न समानवत्सरग्रहणप्रमाणाभावात्। अव्यवस्थितग्रहणे सर्व्वदैव शयनादुत्कर्षापत्तेराषाढादिविधेर्निर्विषयत्वं स्यादिति। समानवत्सरग्रहणमिति चेत् समानवत्सरग्रहणेऽपि वत्सरादिमासापरिज्ञानाद्दूषणस्य तदवस्थत्वात्, अधिमासावधिवत्सरगणने उत्तरत्रिकाधिमासे तत्पूर्व्वाषाढस्य तद्वत्सरानन्तःप्रविष्टत्वात् कथं तत्र कर्त्तव्यशयनोत्कर्षः। तदन्तवत्सरगणने मेषवृषयोरधिमासे (१)[^324] तत्पूर्व्वभूतैराषाढादिभिरेकवत्सरत्वात् प्राक्तनमेव शयनादिकमुत्कृष्येत, नतु परभूतमिति विपरीतापत्तेः। पूर्वोक्ताभाणकसिद्धिः मासान्तरस्य चाद्यन्तग्रहणे विनि-
 
@@ -6642,15 +5822,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   \* तदानींकर्कटमलमासे। कर्कटप्रथमदिन एव कर्कटप्रथमदिनसम्बन्धितिथावेव। चान्द्रमासस्य तिथिघटितत्वेन सौरदिने तदसम्भवात् 'अमावास्याद्वयं यत्र' इति वचनस्थामावास्याद्वयस्य यथाश्रुतसाकल्यामावास्यापरत्वमभिप्रेत्योक्तं, तथाच चतुर्द्दश्यां कर्कटसंक्रान्तौ अमावास्यायाःकर्कटप्रथमदिने विद्यमानत्वात् तत्र चान्द्राषाढ़समाप्तिः सुलभेति भावः। सर्व्वथा बाधितं स्यादिति, तथाच 'आभाकासितपक्षे तु मैत्रश्रवणरेवती। आदिमध्यावसाने तु प्रस्वापोद्वर्त्तनोत्सवा' इति वचने शयनादौ आषाढ़भाद्रकार्त्तिकनियमात् कर्कटमलमासे यदि मलीयश्रावणे हरिशयनं स्यात् तदा आभाकासितपदबोधिताषाढ़ादेः चान्द्रत्वेसौरत्वे वा उभयथापि बाधःस्यात्।
 
-
-
 गमनाप्रमाणाभावात् **\***। तस्माच्छयनादौ चान्द्राषाढ़ादिपरिग्रहमूलानि वचनानि, अतएवोत्कर्षस्य पूर्व्वोऽवधिर्न केनाप्युक्तः। अधिमासात् प्रभृत्येव परस्मिन् सौरे पूर्व्वचान्द्रमासप्राप्तेस्तदाद्येवोत्कर्षस्य प्राप्तत्वात्। यदा तु चान्द्राषाढ़भाद्रकार्त्तिकादयः सौराषाढ़भाद्रकार्त्तिकादिष्वेव प्राप्यन्ते ततःप्रभृत्यनुत्कर्षोऽपि प्राप्त एव। चान्द्रसौरयोर्मेलके प्रायशः क्रियमाणस्य परस्मिन् सौरे पूर्व्वचान्द्रप्राप्त्यादिक्रियमाणतयोत्कर्ष इत्युच्यते। उभयमेलके त्वनुत्कर्ष इति। परमार्थस्तु चान्द्रे विहितानां चान्द्र एव सदा करणान्नोत्कर्षापकर्षौ मलिम्लुचापेक्षयापि नोत्कर्षः, तत्पर्य्युदस्त एव चान्द्रे विधानात्। अतएव शयनाद्यर्थञ्चान्द्राषाढपरिग्रहेऽधिमासे सत्यसति वा 'आभाका' इत्यादेः न कस्यचिदपि वचनस्य
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   \* दोषान्तरमाह किञ्चेति। शेषैरिति, 'युक्तः शेषैस्तदा मासैरिति' वचनस्थशेषपदैः, इति इत्यस्य, मलमासपाते पूर्व्वावधेरनिर्द्देशात् अनियतत्वात्। वत्सरान्तरगोचरत्वात् अन्यो वत्सरः वत्सरान्तरं तद्गोचरत्वात्। वत्सरादिमासापरिज्ञानात् वत्सरस्य आदिभूतमासस्य अपरिज्ञानात्। अधिमासावधिवत्सरगणने अधिमासम् आदिभूतं परिकल्प्य वत्सरगणने। तद्वत्सरानन्तःप्रविष्टत्वात् तदत्सरमध्यप्रविष्टत्वाभावात्। तदन्तवत्सरगणने अधिमासान्तवत्सरगणने। मेषवृषयोरधिमासे तत्पूर्व्वभूतैः अधिमासाक्रान्तमेषवृषान्यतरगतवैशाखज्यैष्ठान्यतरमासपूर्व्वभूतैरित्यर्थः। एकवत्सरत्वादिति तथाच मेषाधिमासे पूर्व्वज्यैष्ठमासमादाय गणने मेषगतमलीयचान्द्रवैशाचान्द्रवैशाखपर्य्यन्तस्य वृषाधिमासे पूर्व्वाषाढ़मादाय गणने वृषगतमलीयचान्द्रज्यैष्ठपर्य्यन्तस्य चैकवत्सरत्वमिति भावः। प्राक्तनमेव शयनादिकं मलमासात् पूर्व्वाषाढ़ादिविहितशयनादिकमेव। न तु परभूतमिति मलमासोत्तराषाढ़ादिविहितशयनादिकं न तु इत्यन्वयः मलमासान्तस्य तन्मते एकवत्सरत्वात्। आभाणकसिद्धिः विपरीतार्थप्रकाशकतासिद्धिरित्यर्थः।
-
-
 
 बाधः। तस्मात् सम्भ्रमवादोऽपि सम्भ्रमवाद एव निरर्थकं विन्दुदानम् (१)[^325]।
 
@@ -6674,15 +5850,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   “सम्पूर्णे मिथुनेऽधिको यदि भवेन्मासस्तदा कर्कटे शेते" इति वचनैर्मिथुनाधिमासोऽयमेव द्विराषाढ़स्तदैव कर्कटे देवशयनं नान्यदा। तद्वत्सरे च कन्यायां शक्रोत्सवः, तुलायां दुर्गोत्सवः, वृश्चिके च देवोत्थानम्। 'सम्पूर्णे मिथुनाधिक' इति वचनात्, एवंविधश्च संसर्गश्चिरतरकालं विना न भवतीति चिरेणैव च द्विराषाढ़ोऽधिमासः। माथुरैश्चायमेव द्विराषाढ़ोऽनुष्ठीयते। यत्तु संवत्सरमध्ये षट्सु मासेषु रविचन्द्रभोगवृद्ध्या प्रतिमासंदिनद्वयाधिक्यात् सार्द्धवर्षद्वये त्रिंशद्दिनिवृद्ध्याधिमासः पतति। तथा च गणितविदः 'गतेऽव्दे द्वितय' इति, स यत्रैव पतति स एव
 
-
-
 द्विरित्युच्यते। तेन सिंहाधिमासे कन्यायां शक्रोत्थानपार्श्वपरि वर्त्तने। कन्याधिमासे तुलायां दुर्गोत्थानम्।द्विराषाढत्वञ्च सौरमानेन न सम्भवति \*। एकस्मिन् वत्सरे मिथुनभोगावृत्तेरभावात् स्वरूपतश्च कार्य्यतश्च वाच्यम्। सृष्ट्यादौ हि मधुमासः प्रथमं प्रवृत्तः प्रतिपदादिरिति, तथैव तस्या इज्या विहिता, तत्क्रियानुरोधाच्च मासान्तराणामपि इज्या प्रतिपदुपक्रमविधिबलादेव। तत्र यदि मिथुन एव रवौ प्रतिपद्द्वयं भवति, तदा "मासि संवत्सरे चैवतिथिद्वैधं यदा भवेत्” इति वचनेनोत्तरप्रतिपदःप्राश-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   **\*** सम्भ्रमवादोऽपि सम्भ्रमभट्टकल्पितशास्त्रार्थोऽपि सम्भ्रमवाद एव सम्भ्रमी भ्रान्तियुक्तो वादी यत्र सः। विन्दुदानम् अञ्जनशलाकादानं निरर्थकमिति पूर्व्वेणान्वयः। तथाच सर्व्वमज्ञानतिमिरमञ्जनेनानेनोपहतमिति सम्भ्रमभट्टेन प्रागुक्तं तस्योपरि कटाक्षोऽयमिति भावः। जितेन्द्रियमतमुपन्यस्यति जितेन्द्रियस्तु मन्यते इत्यादि। अमावास्याद्वयं अमावास्यान्त्यक्षणद्वयम्। आषाढ़मासे तु सौराषाढ़मासे तु। सिनीवालोद्वयमिह पूर्व्वापरामावास्यान्त्यक्षणद्वयोपलक्षणार्थमेव गृह्यते, न तु चतुर्द्दशीयुक्तामावास्यामात्रम्। द्विराषाढन्तथा प्राज्ञ इति आहेत क्रियाध्याहारणास्यान्वयः। मिथुनाधिमासःमिथुनस्थरव्यारब्धचान्द्राषाढ़ाधिमासः। अयमेव द्विराषाढ़ःद्विराषाढ़प्रयोजक इत्यर्थः। तत्रैव आषाढ़ाधिमास कर्कटे देवशयनं कर्कटगतशुद्धचान्द्राषाढ़ एव देवशयनम्, नान्यदा। कन्यायां कन्यागतचान्द्रमाद्रे। तुलायां तुलागतचान्द्राश्विने। वृश्चिके वृश्चिकगतचान्द्रकार्त्तिके। एवंविधः संसर्गः आषाढाधिमासरूपः। द्विराषाढोऽधिमासः द्विराषाढ़प्रयोजकोऽधिमासः। माथुरैः मथुरावासिपण्डितैः। गतेऽव्देद्वितये इति, 'गतेऽन्दे द्वितये सार्द्धेपञ्चपक्षे दिनद्वये। दिवसस्याष्टमे भागे पतत्येकोऽधिमासकः॥' स यत्रैव पतति यस्य मलमासत्वं स द्विरित्युच्यते। तथाच यस्य चान्द्रचैत्राचैत्रादेर्मलमासत्वं स द्विश्चान्द्रचैत्रादिर्भवतीति भावः। तेन मलमासस्यैकनामकमासद्वयात्मकत्वेन। द्विराषाढत्वञ्च सौरमानेन न सम्भवतीति सौरमासस्य द्विरावृत्त्या द्विराषाढ़त्वं न सम्भवतीत्यर्थः।
-
-
 
 स्त्येनाषाढयागार्थं ग्रहणात्तस्य त्रिंशत्तिथिसमाप्तत्वात् आषाढशेषारब्धस्य कर्कटशेषेणैव समापनात् तत्कार्य्यानुवृत्तिपर्यन्तं कार्य्यत आषाढ़ इत्येकः, स्वरूपतोऽपरश्च कार्य्यत इति भवति द्विराषाढ़ः। अत एवंविधस्य मासस्य षष्टिदिनत्वं परिशिष्टेन निर्दिष्टम् 'षष्ट्यातु दिवसैर्मास' इत्यादिना। तदेवंविधशास्त्रपौर्व्वापर्य्यालोचनानवहितैरभियुक्तंमन्यैर्माधवाद्येष्वित्यादि कथमुपनिबद्धम् ?अन्यान्यप्येवंविधानि सम्भ्रमभट्टकल्पितान्युपेक्षणीयानि इत्येतदन्तं, तदयमतिमन्दतमो वादः कथं सुन्दरमतिना जितेन्द्रियेणाभिनन्दितः ? \* तथा 'ह्यामावास्यामतिक्रम्येति' स्वोपन्यस्तवचनैरेव पूर्व्वार्द्धेन द्विराषाढ़मेकमभिधाय, पुनः ‘पतिते चाधिमासके’ इत्यनेनापि क्तप्रयोगेन द्विराषाढान्तरस्य मेषवृषयोरप्यधिमास-
 
@@ -6695,22 +5867,16 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति सत्यव्रतवचनेन, आषाढ्यागार्थम् आषाढत्वेन विहितयागार्थ, तस्य च आषाढस्य च।आषाढशेषारब्धस्य सौराषाढ़शेषारब्धस्य। कार्य्यानुवृत्तिपर्य्यन्तं कार्य्यसमाप्तिपर्य्यन्तम्।पौर्व्वापर्य्यालोचनानवहितैः पौर्व्वापर्य्यालोचनरहितैः। अभियुक्तमन्यैः आत्मानं पण्डितं मन्यमानैः। इत्येतदन्तमित्यस्य जितेन्द्रियस्तु मन्यते इत्यनेन प्राक्तनेन सम्बन्धः। अतिमन्दतमो वादः अतिनिक्कृष्टव्याख्या, मिथुनाधिमास एव द्विराषाढ़स्तदैव कर्कटे देवशयनं नान्यदा इत्येवंरूपः। अभिनन्दितः पुरष्कृतः।
 
-
-
 निमित्तस्याभिधानात् कथन्तस्यानादरः ? 'पतिते चाधिमासक' इत्येतावत् एवानर्थकत्वापत्तेः। कथञ्च बहूनामेव द्विराषाढ़प्रक्रमलिखितानामुत्तरत्रिकाधिमासेऽपि वत्सरान्तरीयशयनाद्युत्कर्षवचनानां, 'प्रथमेऽह्नि द्वितीये वेति,' 'उत्तरमयने याते सवितरि' इत्यादीनां सकलप्रामाणिकपरिगृहीतानां सम्भ्रमकल्पितत्वं युक्तमुत्सहामहे। किञ्च मिथुनाधिमासे शयनादीनामुत्कर्षो भवतामपि निर्विवाद एव। तदा च किं सौर शयनादिविधायिकां श्रुतिं परिकल्प्याधिमासनिमित्तोत्कर्षार्था अपरापि\* परि कल्प्यतामाहोस्विदाषाढ़ादिपदस्य लाक्षणिकत्वं कल्पनालाघवा-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   \* आषाढमात्रं यद्द्विराषाढत्वमुक्तं तद्दूषयितुमुपक्रमते तथाहीत्यादि। पूर्व्वार्द्धेन इति, 'प्राप्ते आषाढ़मासे तु सिनीबालोद्वयं यदा।द्विराषाढ़ःस विज्ञेयः' इति, 'अमावास्यामतिक्रम्य यदार्कः कर्कटं व्रजेत्। द्विराषाढ़स्तदा प्राज्ञ' इति पूर्व्वार्द्धेन। क्तप्रयोगेण अतीतार्थक्तप्रत्ययसाधितपतिते इति शब्देन। द्विराषाढ़ान्तरस्य अन्यो द्विराषाढ़ःद्विराषाढ़ान्तरम्। अधिमासनिमित्तस्य अधिमासःनिमित्तं यस्य, एतद्विराषाढ़ान्तरस्य विशेषणम्। एतावत एव पतिते चाधिमासके एतद्भागस्यैव। वत्सरान्तरीयशयनाद्युत्कर्षवचनानां, 'कन्यासिंहकुलीरेषु मलमासो यदा भवेत्। आगामिनि तदा वर्षे कुलीरे माधवः स्वपेत्' इत्यादिवचनानाम्। प्रथमेऽह्निद्वितीये चेति, 'प्रथमेऽह्निद्वितीये वा शुक्ले मेषमियाद्रविः। द्विराषाढमृते विष्णुः परं कर्कट के स्वपे' दिति। उत्तरभयने याते सवितरि इति, ‘उत्तरमयने याते सवितरि पतनं यदाधिमासस्य। भवति तदा द्विराषाढ़ःशेते कर्किणि सुरारातिः' इति। सम्भ्रमकल्पितत्वं युक्तमुत्सहामहे सम्भ्रमभट्टसम्मत द्विराषाढत्वमपि युक्तम, उत्सहामहे स्वीकुर्म्महे। निर्विवादः अवश्यं स्वीकार्य्यः। तदा च सौरे शयनादिविधायिकां श्रुतिं परिकल्प्येति, तथाच तदैव कर्कटे देवशयनं नान्यदेति स्वयमुक्तत्वादिति भावः। अपरापीति अपरा श्रुतिरपीत्यर्थः।
 
-
-
 दङ्गीक्रियताम्। तत्र कल्पनातो लक्षणैव श्रेयसी। तेन शक्रोत्सवादिषु चान्द्रपरिग्रहे सति न्यायमूलान्येव वचनानि कथमन्यथा क्रियन्ते ? यच्च द्विराषाढत्वसमाधानमुक्तंस्वरूपतः कार्य्यतश्चेति तदयुक्तम्। मिथुने अधिमासपाते उत्तरप्रतिपद्याषाढ़ेज्यायाःप्रवृत्त्यनुपपत्तेः। सृष्ट्यादौ हि चैत्रेज्यायाः प्रतिपदि प्रवृत्तत्वादाषाढ़े ज्यायाः प्रतिपदि प्रवृत्तिं प्रामाणिको वदति \*। तत्रासौ प्रष्टव्यः चैत्रेज्यायाः प्रतिपदि प्रवृत्तिःकिं चैत्रादित्वात् प्रतिपद्रूपत्वाद्वा? चैत्रादिप्रतिपद्रूपत्वाद्वा? तत्र यदि प्रथमस्तदा प्रतिपदोऽविधिसंस्पर्शात्, अर्थसिद्धत्वात्तिथ्यन्तरस्यापि चैत्रादित्वे तत्र कर्म्मणःकार्य्यत्वात् कथमाषाढ़ीयद्वितीयप्रतिपद्यनादिभूतायां तदिज्यारम्भसम्भावना ? यथा त्रिःप्रथमा मन्वाहेति, निरुत्तमामन्वाहेति स्थानधर्म्मत्वादृग्विशेषस्यानादरो-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
   \* स्वमतमाह आहोस्वित् उत वा इत्यादि। आषाढ़ादिपदस्य द्विराषाढ़ान्तर्गताषाढ़ादिपदस्य, लाक्षणिकत्वकल्पना गौणमुख्यत्वेन श्रावणादिसाधारण्येन लाक्षणिकत्वकल्पनालाघवात् अङ्गीक्रियतामित्यन्वयः। तत्र कल्पनातः श्रुतिद्वयकल्पनातः श्रेयसी लघुत्ररा। दूषयति तदयुक्तमिति। उत्तरप्रतिपदि शुद्धाषाढ़प्रतिपदि, आषाढ़ेज्या आषाढविहितयागविशेषः। तत्र प्रवृत्त्यनुपपत्तेरिति, तथाच मिथुन एव रवौ शुक्ल प्रतिपद्द्वयंभवतीत्यादिना कार्य्यानुवृत्तिपर्य्यन्तः कार्य्यत आषाढ इत्येकःइति जितेन्द्रियेण प्राक् उक्तं, ततश्चास्य प्रकृताषाढत्वास्वीकारे कार्य्यमात्रार्थस्वीकारेऽपि प्रकृताषाढ़ एव पुरुषस्य प्रवृत्त्या कार्य्यनुपयोग्याषाढ़े स्वतःप्रवृत्तिर्न भवितुमर्हतीत्याशय इति भावः। सृष्ट्यादौ हीति चैत्रसितादेरुदयाद्भानोरित्यादिवचने चैत्रसम्बन्धिशुक्ल प्रतिपदि युगाद्यारम्भात्। इज्याया अपि तत्रैवाकाङ्क्षितत्वेनाह, चैत्रेज्यायाःप्रतिपदि प्रवृत्तत्वादित्यादि।
-
-
 
 ऽर्थसिद्धत्वात् \*। प्रतिपद्रूपत्वाच्चेत् तदा चैत्रत्वस्याप्रयोजकत्वात्
 
@@ -6724,13 +5890,9 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
   भा. स्तो दर्शपूर्णमासौ, तत्र सामिधेनीःप्रकृत्योच्यते, 'त्रिः
 प्रथमामन्वाह' त्रिरुत्तमामन्वाह इति। तत्रैषोऽर्थः सांशयिकः,—किम् ऋग्धर्म एषः, —यत्र-तत्रस्था 'प्र वो वाजा' चिरभ्यसितव्या, उत स्थानधर्म्मः,—या अन्याऽपि प्रथममुच्यते, सा त्रिरभ्यसितव्या ? इति। कुतः संशयः ? उभयथोपपत्तेः,— यद्येवम् अभिसम्बन्धः क्रियते—या असौ उच्चारितानां सामिधेनीनां प्रथममुच्चारिता, सा त्रिरभ्यसितव्येति, ततः प्र वो वाजाया ऋचोधर्मः ? अथैवं विज्ञायते प्राथम्य संयुक्तं त्रिःब्रूयादिति ततो वचनस्य स्थानधर्म्मता, किन्तावत्प्राप्तम् ? ऋचोधर्म्मइति। कुतः ? प्राथम्यस्य व्यक्त्या सम्बन्धात्, व्यक्तैरभ्यासेन। कथमवगम्यते ? स्त्रीलिङ्गनिर्द्देशात्, व्यक्तिविशेषो हि स्त्री नाम, यदि तद्विशेषणं प्राथम्यं स्यात्, ततो लिङ्गविशेषनिर्द्देशोऽवकल्पते, साऽपि स्त्री अभ्यासेन सम्भंत्स्यते ; अथ प्रथममनुब्रुवता त्रिरभ्यसितव्यमिति ततो व्यक्तिविशेषो न विवक्ष्येत, तत्र स्त्रीलिङ्गविशेषनिर्द्देशो नोपपद्यते। अपि च वाक्यभेदः प्रसृज्येत। प्रथममुक्तं त्रिरभ्यसितव्यं, प्रथममुक्ता ऋक् त्रिरभ्यसितव्येति ; सत्पक्षेपुनःप्राथम्यलक्षिताया ऋचोधर्म्म उच्चते, तत्रैककार्य्यविधाने न भवेद्वाक्यभेदः। अपिच श्रुत्या प्राथम्येन स्त्री सम्बध्यते, वाक्येनाभ्यासः ; तस्मात् ऋग्धर्मो यत्र-तत्रस्था 'प्र वो वाजा' त्रिरभ्यसितव्येति। एवं
 
-
-
 मासान्तरीयप्रतिपद्यपि मासान्तरेज्याप्रसक्तेस्तन्मासेज्यात्वव्या-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_प्राप्ते ब्रूमः,—योऽयं सामिधेनीनां प्रथमायास्त्रिरभ्यास उच्यते, स प्रथमस्थाननिमित्तः धर्म्मः, न ऋचः कस्याश्चित् जातिनिमित्तः। कुतः ? न हि कृत्स्त्रेऽपि ऋग्वेदे प्रथमा नाम काचित् ऋक् विद्यते, या त्रिरभ्यस्येत, तत्र प्राथम्यम् ऋग्लक्षणार्थं स्यात्, इतरस्मिन्पक्षे श्रुतिर्न लक्षणा, श्रुतिश्च ज्यायसी लक्षणायाः, तस्मात् अस्मत्पक्षः। अथ यदुक्तं—स्त्रीलिङ्गसम्बन्धादस्मत्पक्षएव श्रुतिः, वाक्यं च न भिद्यते, स्त्रीलिङ्गोपपत्तेश्चेति। अत्रोच्यते, गुणवचनानां हि शब्दानामाश्रयतो लिङ्गवचनानि भवन्तीति अविशेष्यमाणायामपि ब्यक्तौ यदवश्यं प्राप्तं लिङ्गं, तत् आश्रयभूतं गुणस्य भवति ; अविधित्सितेऽपि तस्मिन्लिङ्गविशेषनिर्द्देशोऽनुवादभूतो भवत्येव ; यथा, शुक्लःपुमान्, शुक्ला स्त्री, शुक्लं नपुंसकं शुक्ल एकः, शुक्लौ द्वौ, शुक्लाबहव इति; शुक्लां शाटीमानयेति ; यद्यपि शाट्याद्यानयनं न विधीयते, शुक्लसम्बन्धमात्रविधित्मा भवति, न तत्र लिङ्गेन विशेषणं क्रियते, तथापि अनुवादभूतः स्त्रीलिङ्गनिर्द्देशो भवत्येव,—शुक्लामानयेति अनुवादभूतत्वाच्च न वाक्यभेदो भविष्यति। एवं च सति, यद्यपि प्राथम्यस्य स्त्रीलिङ्गसम्बन्धःश्रौतस्तथापि प्राथम्यस्यैवाभ्यासेन सम्बन्धो न लिङ्गस्य ; यदि लिङ्गस्यैतेन सम्बन्धोऽभिधीयते, प्राथम्यस्यानुवादता कल्प्येत। प्राथम्यसम्बन्धेऽप्यभिधीयमाने वाक्यं भिद्येत। अपिच, नैवात्र विवदितव्यं, प्रातिपदिकविशेषणं हि स्त्रीशब्दः, स्त्रियां यत् प्रातिपदिकं वर्त्तते, ततः टाबादय इति, न विशेषणस्य पदान्तेरण सम्बन्धो भवति, यथा राजपुरुषी गच्छतीति। यदा तु प्राथम्यस्याभ्यासेन सम्बन्धः, तत्र प्राप्तमनुद्यते स्त्रीत्वं, यानि सामिधेनीषु वचनानि, ऋचस्ताः, स्त्रीलिङ्गश्च ऋक्शब्दः, तत्र यत् प्रथमं वचनं, तस्याश्रयऋक्, गुणवचनानाञ्च शब्दानामाश्रयतो लिङ्गवचनानि भवन्ति, इत्यविशेषितायामप्यृचि स्त्रीलिङ्गं भविष्यतीति यत्प्रथमवचनं, तत् चिराहेति, स्त्री च सा ऋक् सामिधेनी; तस्मात् 'त्रिःप्रथमामन्वाह' इति प्राप्तस्य लिङ्गस्यानुवादः,—'त्रिः प्रथमामन्वाह त्रिरुत्तमान्ताः पञ्चदश सम्पद्यन्ते' इति पञ्चदशानां सामिधेनीनां सम्पत्तये त्रिर्वचनम् उच्यमानं परिपूर्णाया ऋचोभवति, न ऋगवयवस्य, परिपूर्णा च समिन्धनवती न ऋगवयवः। तस्मात् प्राप्तानुवादी लिङ्गस्येति प्राथम्यस्य धर्म्मोन ऋचः। (६/१/६अं।)
-
-
 
 इतिः\*। चैत्रे हि क्रियमाणा चैत्रेज्या भवति। चैत्रादिप्रतिपद्रूपत्वाच्चेत् नैतदपि तिथ्यन्तरस्य चैत्रादित्वे क्रियालोपापत्तेः, यथैव हि फाल्गुनेऽधिमासस्तदैव चैत्रादिःप्रतिपद्भवति, तेन पूर्व्वमधिमासे सति परमासेज्या प्रतिपदि प्रवर्त्तत इति। मिथुनाधिमासे श्रावणेज्यायाःप्रतिपदि प्रवृत्तिरिति। न तत्राषाढ़ेज्याप्रसक्तिस्तदादित्वाभावात्। न चैवंविधो विधिरप्यस्ति अनुपन्यासात्। अथ चैत्रे या प्रतिपत् तत्रारम्भ इति चेत्ततःचान्द्रचैत्रारब्धा तत्रैव च समापनीयेति तदिज्यैव स्यान्न सौरे, चैत्रेज्या सौर एव हि मासे प्रारम्भसमाप्तिभ्यां कर्म्मणस्तन्मासीयत्वं भवति नान्यथा**+**। सूर्य्यग्रहादिनिमित्तस्यैव कर्म्मणः।
 
@@ -6740,15 +5902,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   **+** तृतीयकल्पं दूषयति चैत्रादिप्रतिपद्रूपत्वाच्चेदित्यादि। तथाच यदि चैत्रस्य प्रथमदिनजातप्रतिपत्त्वेन विधिःस्यात्, तदा तिथ्यन्तरस्य चैत्रप्रथमदिनजातत्वे चैत्रेज्या न स्यादित्याह तिथ्यन्तरस्येत्यादि। चैत्रादिप्रतिषद्भवति चैत्रस्य प्रथमदिने प्रतिपत् सम्भवति। पूर्व्वाधिमासे सति अव्यवहितपूर्व्वमासस्याधिमासत्वे सतीत्यर्थः। प्रतिपदि वर्त्तते तन्मासीयप्रथमदिनजातप्रतिपदि वर्त्तते इत्यर्थः। अनुषन्यासात् एतद्रूपत्वेन विधिवाक्याश्रवणात्। चैत्रे या प्रतिपत् तत्रैवारम्भ इति, तथाच प्रथमप्राप्तिर्न विवक्षितेति भावः। चैत्रे या प्रतिपत् चैत्रसम्बन्धिनी या प्रतिपत् तत्र प्रतिपदि आरब्धा इज्येति चेन्न तत्रैव चान्द्रचैत्र एव समापनीय इति, समापनीया इति चेत् तदिज्यैव स्यात्। तदैव चान्द्रचैत्रेज्या न सौरचैत्रेज्या न सा सौरचैत्रेज्या। तन्मासीयत्वं सौरचैत्रमासीयत्वं नान्यथा, तथाच चान्द्रचैत्रारव्धासौरचैत्रसमापनीया सौरचैत्रेज्या न भवतीत्यर्थः।
 
-
-
 यच्चमासि संवत्सरे चैवेति वचनं तत्तिथिविशेषविहिते कर्म्मणि तिथिद्वैधे उत्तरग्रहणार्थमस्य च सौरमासयागत्वात् नान्तरीयकः प्रतिपत्सम्बन्धो न विवक्षितः। यत्र तु त्रिःपरिवृत्तत्य्रनीकाविधौ भागकर्म्मत्वपक्षे ऐन्द्रवायवाग्रं प्रथममाहुरिति श्रुतमप्योहोन विवक्षितं कथं तत्राश्रुतैवप्रतिपत्तिथिर्विवक्ष्यताम्\*। किञ्च प्रतिपदुद्वैधे भवतूत्तरग्रहणं तिथ्यन्तराणान्तमासे द्वैधाभावात् मिथुनस्थानामेव ग्रहणात् कर्कटे कथं तिथिकार्य्याणि ?न च प्रतिपदुत्कर्षात् तिथ्यन्तरकार्य्याणामुत्कर्ष इति वाच्यं, क्रमानुरोधेन कालबाधापत्तेः। प्रतिपन्मात्रानुरोधेन च सकलतिथि-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   \* अत्र दृष्टान्तं दर्शयति सूर्य्यग्रहादीत्यादि, आदिना चन्द्रग्रहणपरिग्रहः। तथाच ग्रहणनिमित्तकर्म्मणः ग्रहणेतरकाले समापनमनुचितमेवेति भावः। सौरमासयागत्वात् सौरमासकरणीययागत्वात्। नान्तरीयकःउद्दिश्यतासम्बन्धेन प्रवृत्त्यभावत्वेसति प्रवृत्तिजन्यफलशालित्वंयथा ओदनं पक्तुकामस्योदनसहमाषपाकः। प्रकृते दृष्टान्तार्थमाह, त्रिःपरिवृत्तत्य्रनीकाविधौ भागकर्म्मत्वपक्षेऐन्द्रवायवाग्रं प्रथममहरिति। त्य्रनीकाधिकरणं विस्तृतं मीमांसादर्शनस्य दशमाध्यायस्य पञ्चमपादे उक्तं संक्षिप्य प्रकृतोपयोगिमात्रमभिधीयते त्रिः परिवृत्त इति। अथेतरेषां नवानामह्नामैन्द्रवायवाग्रं प्रथममहः। अथ शुक्राग्रम् अथाग्रयणायम् अथैन्द्रवायवाग्रम्, अथ शुक्राग्रम् अथाग्रयणाग्रम् अथैन्द्रवायवायम्, अथ शुक्राग्रम् अथाग्रयणाग्रम् अथैन्द्रवायवाग्रमित्यनेन त्रिः परिवृत्त इत्यर्थः। त्य्रुनीकाविधौ त्रीणि अनीकानि अग्राणि ऐन्द्रवायवशुक्राग्रयणरूपाणि यस्यां सा त्य्रनीका तत्र विधौ विधित्वस्वीकारे। भागकर्म्मत्वपक्षे ऐन्द्रवायवाग्रं प्रथममहः अथ शुक्राग्रम् अथाग्रयणाग्रमित्यादिना कर्म्मणोविभागकल्पने। श्रुदमप्यहःप्रथममहः न विवक्षितमिति अन्यथा कर्म्मविभागानुपपत्तेरिति भावः। कथं तत्रैवेत्यादि तत्र अश्रुतैव प्रतिपत्तिथिः कथं विवक्षितेत्यन्वयः। तथाच मासि संवत्सरे चैव तिथिद्वैधमित्यादिवचने तिथित्वेन सामान्यतः श्रुतापि विशेषरूपेण प्रतिपत्तिथिरश्रुतैव इति भावः।
-
-
 
 कार्य्याणां कालबाधःस्यात्। 'अग्निमारुतादूर्द्ध्वमनुयाजैश्वरन्ती'ति\* तत्रापि कालबाधेनैव क्रमानुरोधानुकर्षः। न त्वनङ्गक्रमानुरोधेनाङ्गकालबाधः। अङ्गत्वपक्षेऽपि क्रमस्य कालाज्जघन्यत्वात्। वचनस्यैकतिथिकार्य्यमात्रगोचरतयाप्युपपत्तेः।
 
@@ -6764,8 +5922,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   भा.—ब्रूमः, अनुत्पत्तिवाक्ये “कालःस्यात्," अग्निमारुतं सोमाङ्गम् अनुयाजाः पश्वङ्गं, तत्र न तयोः परस्परेण सम्बन्धः। तथा परिधयः पश्वङ्गं हारियोजनम् अन्यदेव प्रधानम्। अनुयाजः आग्निमारुतञ्च प्राप्तम्। आनन्तर्य्यमेव तयोर्न प्राप्तं, तत् विधीयते ; तथा हारियोजनस्य परिधिप्रहरणस्य च। एवञ्च सति, न हारियोजनस्य परिधिप्रहरणेन कश्चिदुपकारः क्रियते, हारियोजनेन वा परिधिप्रहरणस्य। ननु परिधिप्रहरणस्य उपरिष्टाद्भावेन तस्य उपक्रियते इति। उच्यते, न हि उपरिभावार्थं परिधिप्रहरणम् अनुष्ठेयम् विद्यते एव, एतत् पश्वर्थं, तस्मिंश्च सति तस्य उपरिभावो विद्यते एव इति। तस्मात् कालार्थः सम्बन्धःइति। ( ४/३/१५ अ.)
 
-
-
 तस्मात् कथं प्रतिपद्द्वये हितोयप्रतिपदो ग्रहणम् ? न च शयनादेवि मासेज्यायाः पूर्व्वस्य मलमासत्वादुत्तरक्रिया तथाविधविधानाभावात् लक्ष्मीप्रबोधादीनामिव मलिम्लुचेऽपि तत्क्रिया स्यात्। अननुष्ठानमेव प्रतिष्ठादेवि, तस्मान्न कार्य्यतो द्वितीय आषाढ़ः। न च शयनादिकार्य्यसम्बन्धादेरिवि द्विराषाढ़ता। सति द्विराषाढ़े तद्विधानात् अन्योन्याश्रयापत्तेः\*। किञ्च यदामावास्यामतिक्रम्य रात्रौ प्रतिपदि कर्कटसंक्रान्तिस्तदा परदिनप्रतिपदःकर्कटसम्बन्धा'न्मासि संवत्सरे चैवे’त्येतद्विषयत्वाभावान्मिथुन एवाशुचौ शुचिमासेज्येति। अमावास्यातिक्रमेऽपि द्विराषाढत्वाभावात्[^326]+। स्वापावर्त्तप्रबोधानाञ्च सङ्कल्प -
 
 [^326]: " दोषान्तरमाहकिञ्चेति। 'अमावास्यामतिक्रम्येत्यादि'; 'मासि संवत्सरे चैव'"
@@ -6773,8 +5929,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   \* अत्र यथा कालबाधो न स्वीक्रियते तथा प्रकृतेऽपीति इत्याह कालबाधेनेत्यादि। न चेति न हीत्यर्थः, अस्य तु उत्तरक्रियायामन्वयः ; तथाच शयनादीनां मलमासे निषेधात् यथा उत्तरमासे कर्त्तव्यता नाच मासेज्यायां तथा। अत्र हेतुमाह तथाविध विधानाभावादित्यादि। लक्ष्मीप्रबोधादीनामिव – 'अमावास्यां तुलादित्ये लक्ष्मीर्निद्रां विमुञ्चति' इति वचने तुलादित्यगतामावास्यायां प्रबोधश्रुतेः यथा लक्ष्मीप्रबोधस्य मलमासे कर्त्तव्यता तद्वन्मासेज्याया अपि मलमासे कर्त्तव्यता किंवा प्रतिष्ठादेवि अननुष्ठानं, तथाच – 'मासे मलिम्लुचेऽप्येवं यजेद्देवीं सशङ्कराम्। किन्तु नोद्यापनं कार्य्यमित्याह भगवान् शिवः॥' न चेति न हीत्यर्थः। अन्योन्याश्रयापत्तेरिति, तथाच— ‘द्विराषाढ़ः स विज्ञेयः विष्णुः स्वपिति कर्कटे' इत्यादिवचनेन कर्कटादौ हरेः शयनादेर्विधानादेव द्विराषाढ़ोवा स्यात्। तदा सत्येव द्विराषाढ़े तद्विधानमुपपद्यते इति शयनादिविधानज्ञानसापेक्ष्य द्विराषाढ़ज्ञानं, द्विराषाढ़ज्ञानसापेक्ष्यशयनादिविधानमित्यन्योन्याश्रयापत्तिरिति भावः।
-
-
 
 रूपत्वेन मलिम्लुचेऽपि निषेधात्। उत्तरत्र द्विराषाढत्वे सति विधानाद्देवशयनं लुप्येत। यच्च सरूपकार्य्याभ्यां द्विरापाढमभिधाय षष्टिदिनत्वप्रुत्कं त तदसम्बद्धम् ; षष्ट्यातु दिवसैर्मास इत्यनेनाहोरात्रपरो वा दिवसशब्दस्तिथिपरो वेत्युभयथापि न षष्टिसंख्यातानियमः। चान्द्रस्य नियतत्रिंशत्तिथिसंख्यत्वेऽपि सौरस्य तदूनाधिकाहोरात्रसंख्यस्य सम्भवात्। वैशाखादिषु द्वात्रिंशत्तिथिभिरहोरात्रैर्वा प्रायशः सौरमासदर्शनात्। तस्माज्जितेन्द्रियोक्तोऽपि द्विराषाढ़ोऽसुन्दरतया मन्दैरिवाभिनन्दनीयः। विद्वद्भिस्तु यथोक्तसकलपर्य्यालोचनेनास्मदुपदर्शित द्विराषाढ़कल्पो निर्विकल्पमादरणीयः। अयमेवार्थो दीक्षितधवलैरप्युक्त इति**\***।
 
@@ -6787,8 +5941,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
   तत्रोत्तरोत्तमा ज्ञेया' इति वचने यत्तिथिद्वैधमुक्तं तद्विविधं, शुद्धाशुद्धभेदेनैकविधं, खण्डद्वयेनापरविधञ्च। खण्डद्वयमभिप्रेत्य निषेधयति एतद्विषयत्वाभावादिति। रात्रिवृत्तिप्रतिपदःकर्म्मयोग्यतया द्वैधानुदयात्। मिथुन एवाशुचौ मिथुनमलमास एवेत्यर्थःः, शुचिमासेज्या आषाढ़मासेज्या, 'ज्यैष्ठ शुक्लः शुचिस्त्वयमाषाढ़े इति कोषात्। द्विराषाढत्वाभावादिति। तथाच कार्य्यत एव जितेन्द्रियेण द्विराषाढ़त्वाङ्गीकारात् सौरमासेज्यायाःमलमासे निषेधाभावेन उत्तरमासि कर्त्तव्यत्वाभावात्मलमासे सत्यपि तत्कर्म्मणि द्विराषाढत्वाभावः सुतरामेवेति भावः।
 
   \* द्विराषाढत्वाभावे चापरमपि दोषं दर्शयति 'स्वापावर्त्तप्रबोधादीनाञ्चेत्यादि। सङ्कल्परूपत्वेन वैधरूपत्वेन। देवशयनं लुप्येत इति, द्विराषाढत्वाभावादिति, प्रागुक्त-
-
-
 
 तत्र विष्णुधर्मोत्तरे मार्कण्डेयः।
 
@@ -6812,8 +5964,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 हेतोरिति शेषः। स्वरुपकार्य्याभ्यां स्वरूपतः कार्य्यतश्चेत्यर्थः। द्विराषाढ़मभिधाय षष्टिदिनत्वमुक्तमिति। कार्य्यानुवृत्तिपर्य्यन्तं कार्य्यत आषाढ़ इत्येकः, स्वरूपतः अपरश्च कार्य्यत इति भवति। मासस्य षष्टिदिनत्वं परिशिष्टेन निर्द्दिष्टं, 'षष्ट्या तु दिवसैर्मास' इत्यादिना इत्यनेनोक्तं षष्टिदिनत्वम्। तदूनाधिकाहीरात्रसंख्यस्येति रविगतेर्मन्दत्वामन्दत्वाभ्यां त्रिंशद्दिनन्यूनाधिककाले सौरमाससमापनात् निर्विकल्पमिति क्रियाविशेषणम्।
 
   \* अथ शयनादिनिमित्तक्रियोच्यते। शयनादिकालं निरूप्य प्रसङ्गात् तन्निमित्तक्रिया अभिधीयते। प्रस्वापे शयनकाले, प्रबोधे च उत्थाने च, चकारात् पार्श्वपरिवर्तनकालपरिग्रहः, येन जनेन केशवः पूजितः तस्य महात्मनो जनस्य हिंसात्मकैः कर्मभिः
-
-
 
 दिविरोधश्च, सूतकमृतकादिकञ्च अशुचेरनधिकारात् \*। दीक्षा
 
@@ -6844,8 +5994,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **"काम्योपवासे प्रक्रान्ते त्वन्तरा मृतसूतके।  
 तत्र काम्यव्रतं कुर्य्यात् दानार्च्चनविवर्ज्जितम्॥'**
 
-
-
 याञ्चरुशेषप्राशनस्य विहितत्वात् अदीक्षायामित्युक्तम्।क्षुद्व्याधिनानारोगादिना वा पीड़ितः, सर्व्वमेतत् प्रदर्शनमात्रम्। शुचिः शक्तो निर्विरोध इत्यर्थः। तथा अन्नादिकमुपलक्षणम्, तेन तथाविधोऽयमुपवासं न कुर्य्यात्, तदा दोषं दर्शयित्वोपवासकर्त्तव्यतापरं वचनम्। पुत्त्रवता गृहिणा च वारादिविरोधपरिहारो यावन्मात्रेण वायुजलान्यतराशनेन कर्त्तुं शक्यते तावदेव तेन कार्य्यं, न पुनर्वारादिदूषितायामितरैकादश्यामिवेच्छातो नक्तं हविष्यान्नादिक्रियेति। एतदर्थमन्त्रं वा यदि भुञ्जीत फलं मूल' मित्याद्युक्तं, तेन च लोकसिद्धोपवासविधिरयं लोकसिद्धश्चजलवाय्वाहारोऽप्युपवासीत्युच्यते\*। अतएव शास्त्रेऽप्येकादशी-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
@@ -6867,8 +6015,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  \* वायुजलान्यतराशनेन यावन्मात्रेण कर्त्तुं शक्यते, तेन पुत्त्रवता गृहिणा तावदेवेति। एवकारस्यान्ययोगव्यवच्छेदं दर्शयति न पुनरित्यादि। तथाच, शयनीबोधनीभिन्नैकादश्यांरविशुक्रवारादियोगे पुत्त्रवता गृहस्थेन नक्तहविष्यान्नभोजनादिना यथा दोषपरिहारः क्रियते, नात्र शयनीपार्श्वपरिवर्त्तनीबोधनीष्वेकादशीषु रविशुक्रवारादियोगे-
 
-
-
 मुपवसन्ति निरम्बुभक्षा इति। अम्बुभक्षोनिरम्बुभक्षश्च उपवासो द्विविधः, अन्यथा निरम्बुभक्षा इति विशेषणानुपपत्तेः। तेन पार्थिवस्य यस्य भक्षणाद्रसस्य निष्पत्तिस्तस्याभक्षणमुपवासः; सलिलसमीरणनिगरणाद्रसनिष्पत्तिः शरीरे न कदाचिदिति, न तद्भक्षणादुपवासपदार्थबाधः। ततश्चोपवासमात्रविधानात् रविवारादौ च पुत्त्रवतो गृहिणो वायुजलाहारशून्योपवासव्यक्तिविशेषविरोधात् वायुजलाहारात्मकमेवोपवासमसौ कुर्य्यादिति निर्णीयते। यदि चैकेन विधिना एतद्वयं न
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -6880,8 +6026,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
   ग्रन्थकृन्मते तु जलस्याशितानशितत्वेन पुत्त्रवतो गृहस्थस्य जलपाने अशिततयारव्यादिदोषपरिहारः सिद्ध्यति, अनशिततया च उपवासः सिद्ध्यति चेति समाधानम्। तथाच—आपो वै सर्व्वरसाः तासामथनेनाशितोऽनशितश्च भवतीति।
 
   यत एव जलवाय्वशने उपवाससिद्धिर्लोकमात्रसिद्धा, अतएव इत्यर्थः। निरम्बुभक्षाइति निर्नास्तिअम्बुभक्षःजलपर्य्यन्तभक्षणं येषां ते निरम्बुभक्षाः। उपसंहरति तेनैत्यादि। पार्थिवस्य पृथिवीसम्बन्धिनः रसस्य निष्पत्तिरिति, रसस्य देहस्थधातुविशेषस्य निष्पत्तिर्वृद्धिरित्यर्थः। अतएव - 'अञ्जनं रोचनञ्चापि गन्धान् सुमनसस्तथा। पुस्तके चोपवासे च नित्यमेव विवर्ज्जयेदिति॥' 'गात्राभ्यङ्गं शिरोऽभ्यङ्गं ताम्बूलं चानुलेपनम्। व्रतस्थो वर्जयेन्नित्यं यच्चान्यद्वलरागकृ' दित्यादि वचनेन बलरागकृद्धस्तुमात्रम् उपवासे निषिद्धम्। सलिलसमीरणनिगरणात् जलवाय्वोर्भक्षणात्। न कदाचिदिति रसनिष्पत्तिरिति शेषः। तद्भक्षणात् जलवाय्वोर्भक्षणात्।
-
-
 
 सम्भवति, तदा वैष्णवविधिद्वयम्, एकः निरम्बूपवासविधिरपश्चरविवारादौ तदितरोपवासविधिः। यद्वायमत्र परमार्थः, रविवारादिनिषेधो नात्र प्रवर्त्तते, तस्यैकादश्युपवासविषयत्वात् अस्य चातद्रूपत्वादिति सर्व्वं सुस्थम्।
 
@@ -6896,16 +6040,12 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  \* उपसंहरति ततश्चेति। उपवासमात्रविधानात् निरम्बुत्वसाम्बुत्वौदासौन्येनोपवासविधानात्। वायुजलाहारशून्योपवासव्यक्ति विशेषविरोधादित्यादि। तथाच – 'आदित्येऽहनि संक्रान्तौ असितैकादशीदिने। पारणञ्चोपवासञ्च न कुर्य्यात्पुत्तवान् गृही॥' इति सामान्यनिषेधस्यासङ्कोचेनोपपत्तेरावश्यकतया जलपानस्याशितानशिततया च वायुजलाहारात्मकोपवासः सिद्ध्यप्रतीति भावः। वैष्णवमात्रगतदोषख्यापनादिति। तथाच कालमाधवीयेनारदः —‘नित्यं भक्तिसमायुक्तर्नरैर्विष्णुपरायणैः। पक्षे पक्षे च कर्त्तव्यमेकादश्यामुपोषणम्॥’ ‘पुत्त्रवांश्च सभार्थ्यश्च स्वजनैर्भक्तिसंयुतः। एकादश्यामुपवसेत् पक्षयोरुभयोरपि॥' गृहिणश्च वैष्णवातिरिक्तगृहिणश्रेत्यर्थः। विधिद्वयं विवृणोति एकश्वेत्यादि। ‘शयनीबोधनीमध्ये या कृष्णैकादशी भवेत्। सैवोपास्या गृहस्थेन नान्या कृष्णा कदाचन॥” इत्यादिनानावचनैः शयनीबोधनीमध्यवर्त्तिनीषु कृष्णैकादशीषु पुत्त्रवती गृहस्थस्य उपवासदर्शनात् 'बहूनामेकधर्म्माणामेकस्यापि यदुच्यते। सर्व्वेषामेव तत् कुर्य्यादेकरूपा हि ते स्मृताः॥' इति वचनात् शयन्यादौ रविवारादियोगेऽपि पुत्त्रवती गृहस्थस्य उपवासो विधीयते। लाघवादिति विभाव्याह यद्वेत्यादि। तस्य शयनादिनिमित्तोपवासस्य। अतद्रूपत्वात् एकादशीनिमित्तत्वाभावात्। तन्निमित्तोपवासस्यस्वापादिनिमित्तोपवासस्य।
 
-
-
 दिनं द्विधा विभज्याह्नः पूर्व्वभागः प्रहरद्वयं पूर्व्वाह्नस्ततस्त्वपरभूतमपरम् प्रहरद्वयमपराह्णः। तेन यदि दिनस्य पूर्व्वार्द्धेदेवस्य स्वापः प्रबोधो वा, तदा पूर्व्वदिने तूपवासः कार्य्यः। दिनोत्तरभागे तु तद्भवने तस्मिन्नेव निमित्तवति दिने उपवासक्रियेति वचनार्थः। त्रिधाविभागेन तु पूर्व्वाह्णपराह्णग्रहणे मध्याह्नस्वापप्रबोधनिमित्तक्रियाकलापोपदेशो न स्यात्। पूर्व्ववचनेन च दिनस्य पूर्व्वापरार्द्धभेदेन स्वापप्रबोधनिमित्तस्योपवासस्य कालविशेषनियमात् रात्रौ तन्निमित्तस्य कः काल इत्यपेक्षायां रात्रावुदयमापत्र इत्युदयपदं स्वापप्रबोधपरम्। तेन रात्रौ शयने प्रबोधे वा तस्या एव रात्रेः पूर्व्वंयद्दिनं, तत्रैवोपवासक्रिया, न तु तस्या रात्रेः परेऽहनि। यथा रात्रौ परार्द्धेसूर्य्यसंक्रमणे परस्मिन्नहनि तन्निमित्तकर्म्माचरणम्, न तथात्र, किन्तु निमित्तवत्येव दिन इत्यर्थः। तेनोदयात् प्रभृति प्रहरद्वयपर्य्यन्तं स्वापे वा प्रबोधे वा पूर्व्वदिन उपवास क्रिया। तदूर्द्ध्वन्तु सूर्य्योदयान्तरं यावच्छयने उत्थाने वा तदहरेवेति। अतः पूर्व्वार्द्धसामीप्यात् रात्रिशेषो लक्ष्यत इत्यप्रमाणकमप्रयोजकञ्च हेयम्। न च दिवाशयनस्य रात्रौ चोत्थानस्य निषेधात्तदनुपपत्त्यालक्षणा वाच्या। “पादयोगे न कर्त्तव्ये नाहोरात्रं विचिन्तये” दिति दर्शनात्।
 
 **“रात्रौ प्रबोधो विनिहन्ति पौरान्  
 स्वापो दिवा राष्ट्रकुलं नृभर्त्तुः।  
 सन्ध्याद्वये अल्पफला धरित्री  
 भवेन्नराणामपि रोगदुःखम्॥”**
-
-
 
 इति दोषश्रुतिः।  
 यच्च वचनम्।
@@ -6919,15 +6059,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 \*‘पूर्व्वेद्युरुपवासः स्या’दित्यादि वचनं स्वयं व्याकुरुते दिनं द्विधा विभज्य इत्यादि। तद्गवने स्वापादौ जाते निमित्तवति दिने स्वापाद्यधिकरणीभूतदिने। त्रिधा विभागे तु दिनं चिधा विभज्य पूर्व्वाह्णादिग्रहणे तु। तस्या रात्रेःपूर्व्वं यद्दिनं सूर्य्यकिरणावच्छिन्नचतुर्यामरूपं दिनमित्यर्थः। उपवासक्रिया इति उपवासस्य अहोरात्रसाध्यत्वात् उपवासारम्भक्रियेत्यर्थः। निमित्तवति निमित्तीभूतवापाद्यधिकरणीभूते दिने इति दिनपदस्याहोरात्रपरत्वात्। उपसंहरति तेनेति, उदयात् प्रभृति उदयमारभ्य पूर्व्वदिने स्वापप्रबोधाधिकरणदिनपूर्व्वदिने इत्यर्थः। 'पूर्व्वेद्युरूपवासः सात् पूर्व्वाह्नेस्वापबोधयो’रिति वचनात्। तदूर्द्धप्रहरहया सूर्य्योदयान्तरं यावत् अपरोदयपर्य्यन्तम्। तदहरवेति निमित्तीभूतस्वापप्रबोधाधिकरणदिनमैवेत्यर्थः। रात्रिशेष उत्तरप्रभात इत्यर्थः। रात्रिशेषलक्षणां साधयति, न चेत्यादि। लक्षणा वाच्या रात्रिशेषलक्षणा वाच्या यत एव पादविशेषयोगेन नाहोरात्रचिन्तनम् अतएवेत्यर्थः। दोषश्रुतिःमैत्राद्यपादादियोगादितरत्र दोषश्रुतिः। सञ्चिन्त्य संप्राप्य। पौष्णावसानं रेवतीशेषभागम्। अध्याहार्य्य आरोप्य। उत्थानमुखेन उत्थानविधानद्वारा विहितं प्राप्तम्। यत्र क्वचित् यद्यपि नक्षत्रवशेन नक्षत्रतत्पादविशेषयोगबलेन। एतदनुपपन्नमिति एकादशीद्वादश्योःशयनादिनिमित्तोपवासादिकर्म्म अनुपपन्नमित्यर्थः।
 
-
-
 वचनविरोधात् एकादश्यामुत्थानमारोप्यैकादश्यामेव तन्निमित्तं पूजोपवास कार्य्यमित्यवगमात्। कथमेकादशीद्वादश्योरेवेति व्याख्यानम् ? द्वादश्या अश्रवणात्। “न विधौ परःशब्दार्थः" इति न्यायेन च विधेयार्थस्यैकादशीपदस्य लक्षणानुपपत्तेः। कथञ्चोत्थानमात्रश्रुतौ शयनपार्श्वपरिवर्त्तनयोरेतद्वर्त्तनं तयोरश्रुतत्वात्। “पूर्व्वद्यु” रिति वचने च शयननिमित्तकर्म्मणि कालविशेषस्य विहितत्वात् अपेक्षाविरहेण लक्षणानुपपत्तेः विकल्पभयाच्च। ततश्चोत्थानमात्रनिमित्ते कर्म्मणि कालयोर्विकल्पो न शयननिमित्तेऽपि न चोत्थाने कालयोर्विकल्पः। शयने च नित्यवदेकस्य विधेर्वैरूप्यम्। शयनोत्थाननिमित्तभेदेनतन्निमित्तकर्म्मविधिभेदात्\*। किञ्चोत्थानस्याध्याहारस्तन्निमित्तकर्म्मा-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  \*अनुपपत्तौ हेतुमाह, ‘पूर्व्वेद्युरुपवासः स्या'दित्यादिवचनविरोधादिति। तथाच शयनादिनिमित्तकर्म्मणः पूर्व्वद्युविधानात् कथम् एकादशीद्वादश्योस्तत्कर्म्मकरणमिति भावः। पूर्व्वोक्तवचनं स्वयं व्याकरोति एकादश्यामित्यादि। पूजोपवासं पूजा च उपवासश्च द्वयोः समाहारः पूजोपवासं समाहारद्वन्द्वत्वादेव क्वीवलिङ्गम्। 'न विधौ परः शब्दार्थः,' न विधौ लक्षणा। एतद्वर्त्तनं एकादशीस्वीकरणम्। 'सञ्चिन्त्य तु' इति वचने शयनविधानाभावेऽपि 'पूर्व्वेद्यु'रिति वचने शयनविधानादेकवाक्यतया शयनलाभ इत्याकाङ्क्षां निराकरोति 'पूर्व्वेद्यु' रिति वचने चेत्यादि। शयननिमित्तकर्म्मणीति शयनपदं प्रबोधस्याप्युपलक्षणम्। ‘पूर्व्वेद्युरुपबासः स्यात् पूर्व्वाह्णेस्वापबोधयो' रिति विधानात्। कालविशेषस्य पूर्व्वदिनरूपकालविशेषस्य। ननु 'सञ्चिन्त्य तु' इति वचने एकादशीमात्रविधावपि, 'रेवत्यन्तो यदा रात्रौ द्वादश्या च समायुत' इत्यादिप्रागुक्तवचने द्वादशीश्रुतेस्तदेकवाक्यतया ‘सञ्चिन्त्य तु' इति वचनेऽपि द्वादशीलाभ इति विभाव्याह ततश्चेत्यादि। कालयोःएकादशीद्वादश्योः। वैरुप्यं क्वचित्सापेक्ष्यविधायकत्वं, क्वचिन्निरपेक्ष्यनित्यवद्विविधायकत्वं विधिभेदरूपं
-
-
 
 चरणमेव तेनैकत्वात्। कर्म्मणोऽध्याहार्य्यङ्कुर्य्यादित्यनुपपत्तेः। किञ्च कर्म्मणे भेदेन शयनादिनिमित्तं कर्म्म एकादश्यां कुर्य्यादित्येवं वक्तुं युक्तम्। परार्द्धरात्रसंक्रान्तिनिमित्तकर्म्मोपदेशवत् न पुनरध्याहार्य्येत्यनुपयोगात्। किञ्चाध्याहार्य्यतदोत्थानमित्यनेनैव उत्थानस्य कर्त्तव्यतया ज्ञापितत्वात्। “ततश्चोत्थापयेद्देव”-मित्यनर्थकं कथमयमध्याहारः? शब्दस्यान्विताभिधानार्थमशब्दोपात्तस्याधिकस्याध्याहरणमध्याहारो न चायं तथा उपदिष्टनुष्ठानकालस्यारोपणात्। तस्मान्मूर्खाधार्म्मिककल्पितं योग्लौकस्य वृहद्ग्रन्थे प्रक्षिप्तम्। अस्यैव स्वल्पग्रन्थे अन्येषु च निबन्धेषु दर्शनात् योग्लौकीयवृहद्ग्रन्थपुरातनपुस्तीष्वभावात्। तस्मात् स्वयमेवैतत् योग्लौकेनापि वृहद्ग्रन्थे लिखितम्। अगृहीतैकादशीव्रतानां शयनादिकालस्यातिप्रशस्तत्वात्तत्रैवानुष्ठानस्य युक्तत्वात्। यदि तु नानुतिष्ठन्ति किं कुर्म्मस्त एवोपालभ्याः किमिति सातिशयं पुण्यकालमुपेक्ष्य पुण्यकालमात्रे कर्म्माचरन्तीति शयनादिविधिः \*।
 
@@ -6935,8 +6071,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 विधिवैरुप्यलक्षणमित्यस्य न चेत्यनेन सम्बन्धः। कर्म्मविधिभेदादिति। तथाच एकस्य विधेः सापेक्ष्यनिरपेक्ष्यविधायकतया विधिवैरुप्यात्, अत्र विधिभेदान्न विधिवैरूप्यसम्भव इति भावः।
 
  \* किञ्चेति उत्थानस्याध्याहारःपरिकल्पनम् अध्याहार्य्यतदोत्थानं 'एकादश्यान्तु कारये' दिति वचने उत्थानपरिकल्पनं तेनोत्थानाध्याहारेण सह, कर्म्मणः तन्निमित्तकर्म्मणः रिकत्वात् अध्याहार्य्य तन्निमित्तकर्म्माचरणमेव कुर्य्यादित्यन्वयः। कर्म्मणोभेदेन शयनोत्थानयोः कालभेदात्, शयनोत्थानकर्म्मणो भेदेन कर्म्मणो भेदेऽपि इति पाठे तु शयनोत्थान-
-
-
 
 तत्राधिमासपातेऽपि कर्कटसिंहयोरेव कर्त्तव्ये श्रावणभाद्रादिपदस्वार्थग्रहणे बाधकप्रमाणाभावात्।
 
@@ -6951,8 +6085,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 कर्म्मणो भेदस्वीकारेऽपीत्यर्थः। परार्द्धरात्रसंक्रान्तिनिमित्तकर्म्मोपदेशवदिति। यथा रात्रेः परार्द्धेसंक्रान्तौ तन्निमित्तकर्म्मणः परदिनकर्त्तव्यता। न पुनरध्याहार्य्येतीति। शयनादिकं परिकल्प्यतन्निमित्तं कर्म्म कुर्य्यादित्यर्थः। अत्र हेतुमाह अनुपयोगादिति। उत्थानस्य उत्थानमात्रस्य। 'ततश्चोत्थापयेद्देव' मिति, 'ततश्चोत्यापयेद्देवं चतुर्भुजमरिन्दम’मिति। वचनम् अनर्थकमिति। तथाच पूर्व्ववचनेन उत्थानस्य ज्ञापितत्वात् परवचनमनर्थकमित्यर्थः। अन्विताभिधानार्थम् आकाङ्खितशाब्दबोधमिर्ष्वाद्वार्थम् अशब्दोपात्तस्य कल्पितस्य अध्याहरणं स्वीकारः। अयम् उत्थानस्याध्याहारः। अत्र हेतुमाह उपदिष्टेत्यादि। उपदिष्टस्य उत्थानस्य यः अनुष्ठानकालः तस्यैवारीपणादित्यर्थः। प्रक्षिप्तमिति। तथाच एतन्त्र योग्लौकसमातं, किन्तु केनचित् मूर्खाधाम्मिकेण योग्लौकीयमिति कृत्वा वृहदुग्रन्थमध्ये प्रक्षिप्तं स्वकल्पितं निवेशितमिति भावः। अत्र हेतुं दर्शयति, अस्यैव स्वल्पग्रन्थे इत्यादि योग्लौकीयग्रन्थद्वयस्यादर्शनात्। तस्मान्मूर्खाधार्म्मिककल्पितमित्यादि पुण्यकालमात्रे कर्म्मा चरन्ति इति यल्लिखितं तस्य निगूढ़तत्त्वमस्फुटमेवावतिष्ठते।
-
-
 
 तथा याज्ञवल्क्यः।
 
@@ -6977,8 +6109,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 प्रौष्ठपदीं तिथिं प्राप्य हस्तेनोपाकर्म्म प्रौष्ठपदीमेव च तैषीं तिष्यनक्षत्रयुक्तां प्राप्योत्सर्गः कार्य्यः। उत्सर्गपूर्व्वकञ्चोपाकर्म्म।
 
-
-
 यथा श्लोकगोतमः।
 
 **"अथ प्रौष्ठपदे मासि तिष्ययुक्ते च संस्थिताः।  
@@ -6992,8 +6122,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   **\*** प्रकरणान्तरमाह अथेति। विस्तृतविवृत्या ग्रन्थबाहुल्यतया कर्त्तृपक्षासन्तोषात् अतः परं सङ्क्षेपेण विवृतिर्विधीयते। उत्सर्गोपाकर्म्मणो वेदसमापनारम्भौ। श्रावण भाद्रादिपदस्वार्थग्रहणे श्रावणभाद्रादिमासपदानां सौरपरत्वरूपस्वार्थग्रहणे इत्यर्थः। उपाकृत्य आरभ्य। अर्द्धपञ्चमान् अर्द्धपञ्चमी येषां तान्। समाप्तिकालमाह पुष्ये त्वित्यादि। श्रावणी सौरश्रावणसम्बन्धिनी तिथिः। प्रौष्ठपदी सौरभाद्रसम्बन्विनी तिथिः। अध्यायानां वेदसंहितानाम्। श्रवणनक्षत्रयुक्तसौरश्रावणसम्बन्धितिथौ। ओषधिभावे शस्यपाककाले शुक्लपक्षे। जलान्ते जलसमीपे, नदीतीरे इति यावत्। उत्सर्गंसमापनम् श्रावण्यां श्रवणेन चेत्यपपाठःश्रवणेन चेदित्येव पाठः साधुः अन्यथा नचेदित्यनुपपत्तेरिति स्वयमुक्तमसङ्गतं स्यात्। एवं कृष्णपञ्चम्यामित्यपपाठः शुक्लपञ्चम्यामित्येव साधुः अन्यथा हस्तेन शुक्लपञ्चम्यामिति प्रमाणवचनविरोधापत्तेः। मदनपारिजातादिबहुग्रन्थेषु शुक्लपञ्चम्यामित्येव पाठो दृश्यते। ओषधीःशस्यम्, 'ओषध्यः फलपाकान्ता' इति कोषात्। तासाम् ओषधीनां वृद्धिभवनात् वृद्धेःसङ्गावात्। अप्रतिपन्नसौरपरिग्रहः सौरपरिग्रहे विरोधाभाव इत्यर्थः। उत्सर्गः समापनम्। श्लोकगीतमः पद्यात्मकगीतमसंहिता। सहिताः मिलिताः सन्तः। ओत्सर्गिकीं क्रियां समापनक्रियाम्। न उदीरणम् अनुदीरणमिति व्युत्पत्तिलभ्यार्थमाह, अनुदीरणं वेदस्यापठनम्।
-
-
 
 णम्। न च कदाचिदप्यस्मिंश्चान्द्रे भाद्रे पुष्यपूर्व्वोहस्तः प्राप्यते।प्रतिसंवत्सरञ्च वेदाध्ययनाङ्गतयोत्सर्गोपाकर्म्मणीविधीयेते॥ तस्मात् सौरभाद्रके छन्दोगानामुत्सर्गोपाकर्म्मणी।
 
@@ -7027,8 +6155,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^335]: "हस्तेन यावदित्यादि। अनुषज्यते इति तथाच प्रौष्ठपदे मासि हस्तेन संयुक्तम्"
 
-
-
 **“तस्माद्वृषादिराशिस्थे सूर्य्येतत् कर्त्तव्यं वृषादितः।”**
 
 तस्मान्नोत्कर्ष इति वदतोत्कर्षः कालवृद्धौस्यादुपाकर्म्मादि कर्म्मणामिति कालवृद्धिपदं तिथिद्वैधवृद्ध्यपेक्षमिति व्यक्तमुक्तम्। तिथिवृद्धौ च कर्म्मार्थं परतिथिग्रहणं वाजसनेयप्रभृतीनां न छन्दोगानां तेषामपराह्णविधानात्। अत्र च “दशहरास्वनुत्कर्ष" इति वचने “चतुर्थपदं” “माघ्याञ्चैव विशेषतः" इति कैश्चित् पठितं व्याख्यातञ्च। छन्दोगानां भाद्रपदीयोपाकर्म्मसमारब्धस्य वेदाध्ययनस्य पौषीमुत्सृजन्तीति। पौषे मास्युत्सर्गः कार्य्यः। उदगयने वृत्ते माघ्यामुपाकर्म्म कृत्वा
@@ -7037,14 +6163,10 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 उपाकरणवासरं वेदाध्ययनदिनं यावदित्यर्थः। अत्र यावच्छब्दस्य सीमावचनत्वं, 'दशमीञ्चयाव'दितिवत्, उपाकरणदिनपूर्व्वदिनपर्य्यन्तं वेदस्यापठनमिति प्रतीयते। चान्द्रे भाद्रे मुख्यचान्द्रभाद्रे। पुष्यपूर्व्वःपुष्यनक्षत्रात् पूर्व्व इति पञ्चमीतत्पुरुषः प्राप्यते इत्यस्य न कदाचिदिति प्राक्तनेन सम्बन्धः, तथाच मुख्यचान्द्रमासस्य शुक्लप्रतिपदादिदर्शान्ततया कृणपक्षेपुण्यनक्षत्रेवेदसमापनं कृत्वा शुक्लपक्षेहस्तनक्षत्रे वेदारम्भस्य विहिततया हस्तनक्षत्रस्य परभावितया च न कदाचिच्चान्द्रे पुष्यपूर्व्वभावित्वेन हस्तनक्षत्रप्राप्तिः सम्भवति। प्रौष्ठपदपदस्य सौरभाद्रपरत्वे च कृष्णपक्षात् परतःशुक्लपक्षस्य प्राप्तिसम्भवात्कृष्णपक्षेपुष्यनक्षत्रे वेदसमापनं कृत्वा शुक्लपक्षेपरभाविनो हस्तनक्षत्रस्य प्राप्तिः सम्भवतीति भावः। वेदसमापनारम्भयोः प्रतिवर्षकर्त्तव्यतां दर्शयति प्रतिसंवत्मरञ्चेत्यादि। सिंहे रवौ सौरभाद्रे सर्व्वछन्दसां वेदानाम् उत्सर्गं समापनं कुर्य्युरिति कृष्णपक्षेइति शेषः। दशहरासु सौरज्यैष्ठशुक्लदशमी हन्तनक्षत्रयुक्तसौरज्यैष्ठशुक्लदशमी कुजवाराधिकरणहस्तयुक्तसौरज्यैष्ठशुक्लदशमीषु अनुत्कर्षः, न ज्यैष्ठपदस्यचन्द्रापरतया सौराषाढ़वृत्तिचान्द्रज्यैष्ठशुक्लदशम्यादेर्ग्राह्यता। दशहरासु इति वचनस्य व्याख्या विशेषः १४५/१४६/१४७ पृष्ठटीकायां द्रष्टव्यः।
 
-
-
 आरण्यकाध्ययनं भाद्रपदीयपुष्यानक्षत्रं यावत्। अतस्तस्योत्सर्गं कृत्वा तदनन्तरितहस्ते पौषमासपरित्यक्ताध्ययनारम्भ इति। हैमन्तिकोत्सर्गोपाकर्म्मणी विहिते तयोर्माघ्यामिति। तयोरनुत्कर्ष इति \*। तस्यार्थः। उत्कर्षवचनन्तु कर्कट सिंहस्थसूर्य्यविहितयोरिति। सदसङ्गतम् “तत् कर्त्तव्यं वृषादित" इति पाठस्य बहुसम्मतत्वात्। भवतु "माघ्याञ्चैवेति पाठः। तथापि माघ्यामुत्सर्गस्य विहितत्वात् कथं तस्यां विहितयोरुत्सर्गोपाकर्म्मणोरुनुत्कर्षार्थत्वेन व्याख्यायते ? किञ्चोपाकर्म्म न माघ्यांविहितम्। किन्तूदगयने वृत्ते इत्येतावन्मात्रं गोभिलेनोक्तम्–“यथोदगयने चोपाकर्म्म सावित्रं हस्तःकाङ्क्षति"। सावित्रं हस्तः। तेन “माघ एव तु माघी स्यात्” इति येन कल्पितं तेनेदं तत्समानार्थं
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \* तिथिद्वैधवृद्ध्यपेक्षमिति। तथाच एकस्मिन् सौरमासे यदैव एकायास्तिथेर्वारद्वयप्राप्तिस्तदैव भवति, नतु खण्डद्वयप्राप्तौ परखण्डप्राप्त्यर्थं तिथिद्वैधमपेक्ष्यते। अपराह्णविधानादि —शुक्लपक्षेच हस्तायामुपाकर्म्मापराह्णिकमिति गाङ्ग्यवचनात्। तथाच छन्दोगा मिलिताः कुर्य्युरित्युपक्रम्य आपराह्णिकमित्यनेन विशिष्यापराह्णविधानेन उत्कर्षः। कालवृद्ध्याविति सामान्यवचनस्य सुतरां छन्दोगेतरविषयत्वमिति भावः। 'माघ्यञ्चैव विशेषत' इति कल्पितपाठस्यानुगुण्यं व्याख्यानं दर्शयति, छन्दोगानामित्यादि। 'पौषीं प्राप्य' इति, इति वचनेन उत्सर्ग समापनमित्यस्य प्राक्तनवेदाध्ययनस्य इत्यनेन सम्बन्धः। वृत्ते आरब्धे। उपकर्म्मकृत्वा आरभ्य। आरण्यकाध्ययनं आरण्यक भागस्याध्ययनम्। तदनन्तरितहस्ते पुष्यानन्तरितहस्तनक्षत्रे। पौषमासपरित्यक्ताध्ययनारम्भ इति। पौषमासे परित्यक्तः अध्ययनरम्भोयेन सः। सहश्च सहस्यश्च हैमन्तिकऋतुरिति श्रुत्या मार्गपौषयोर्हैमन्तिकसंज्ञा। उत्सङ्गोपाकर्म्मणीवेदसमापनवेदारम्भौ। अनुत्कर्ष इति ‘माघ्याञ्चैव विशेषत' इत्युपादानात्।
-
-
 
 पठितं हेयमेव। तत्रोत्सर्गो वेदाध्ययनस्य त्यागः। उपाकरणमुपसमीपजलाग्न्योःस्वशाखिनां वेदाध्ययनस्यासमन्तात्कारेणकरणं स्वीकरणमारम्भ इति। यदा सौरभाद्रपदे पुष्यपूर्व्वोहस्तः न लभ्यते तदा कथं कर्त्तव्यमित्यपेक्षायामाह छन्दोगपरिशिष्टम्।
 
@@ -7067,8 +6189,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 वेदाश्छन्दांसि सर्व्वाणि ब्रह्माद्याश्च दिवौकसः।  
 जलार्थिनो हि पितरो मरीच्याद्यास्तथर्षयः॥**
 
-
-
 **"उपाकर्म्मणि चोत्सर्गे स्नानार्थं ब्रह्मवादिनः।  
 पिपासवस्तु गच्छन्ति संहृष्टा ह्यशरीरिणः॥  
 समागमश्च यत्रैषां तत्रान्ये बहवो मलाः।  
@@ -7087,8 +6207,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   \* ननु उत्कर्षः कालवृद्धौस्यादित्याद्युत्कर्षबोधकवचनस्य का गतिरित्यत आह उत्कर्षवचनन्तु इत्यादि। दूषयति तदसङ्गतमित्यादि। बहुसम्मतत्वादिति एतेन 'तत्कर्त्तर्व्यंवृषादित' इति पाठस्यैव समूलत्वं सूचितम्। तनु 'तत्कर्त्तव्यं वृषादित' इतिवत्, 'माघ्याञ्चैव विशेषत' इति पाठस्यापि नानाग्रन्थधृतत्वेन बहुसम्मतत्वमस्ति इति विभाव्याह भवतु वेत्यादि। प्रथमभावितत्वात् प्रथमोक्तत्वात्। तत्कालानुग्रहः उत्सर्गकालस्वीकारः। जघन्यस्य पश्चाद्भाविनः। उपसंहरति तस्मादिति। उत्सर्गं समाप्य पाठसमापनं कृत्वा कन्यायां सौराश्विने उपाकरणं पुनर्वेदारम्भम्। गोतमादीन् इति गीतमादीन् सप्त ऋषीन् दर्भमयान् कृत्वा कुशपत्रेण निर्म्माय। सप्तर्षयो यथा,— मदनपारिजाते गोतमादीनिति स्वस्वशाखोक्तर्षिप्रदर्शनार्थम् ऋचमृग्वेदं पूजयेत् तथा उच्चरेत् पठेत्। एतेन गोतमगोभिलाश्वलायनशौनकपारस्करापस्तम्बबौधायनाः सप्तर्षयःप्रसिद्धाः। वंशमुद्धरेदिति पितृवंशं मातामद्ववंशश्च। एतच्चेति वेदसमापनाद्युत्तरस्नानादिकम्। यियासून्इति पाठे तु स्नानार्थं यियासून् जिगमिषून्, ब्रह्मवादिनः वेदपाठिनो जनानिति शेषः। अनुगच्छन्तीत्यस्य तथर्षय इत्यन्तेन सम्बन्धः। मलाःपापानि। पक्षद्वयं श्रावणादि इति यव्यद्वयं श्रावणादि इति ग्रन्थान्तरं पठितम्। यव्यो मासः समेकः संवत्सर इति शतपथश्रुतिः।
 
-
-
 त्यर्थः। अत्र भाद्र इति वक्तव्ये यत् श्रावणादीत्यभिधानं तत् श्रावणस्यापि ग्रहणार्थं, न च श्रावणस्यादिमादाय पक्षद्वयम् ; श्रावण एव इत्यस्यार्थो भवत्विति वाच्यम् ; पक्षद्वयपदादिपदयोरानर्थक्यापत्तेः। श्रावणपदादेव तत्सिद्धेः। उत्सर्गस्य रजोयुक्तायां प्रतिप्रसवानुपपत्तेः। न हि श्रावणे बह्वृचां वाजसनेयिनाञ्च उत्सर्गोऽस्ति, तेषां "पौषस्य रोहिण्यामष्टकायामथापि वेति” विधानात् छन्दोगानां भाद्र एवेति कथं प्रतिप्रसवः? तस्मात् श्रावणे भाद्रे च नदीनां रजोयोगः।
 
 तथा।
@@ -7105,8 +6223,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
   \* भाद्र इति वक्तव्य इति। श्रावणः आदिः आदिभूती यस्य इति बहुव्रीहिणा भाद्र एव गृह्यते। बहुव्रीहेर्जघन्यत्वात् तत्पुरुष एव वक्तव्य इत्याशङ्क्यनिषेधयति नचेत्यादि। श्रावण एव श्रावणपर्य्यन्त एव एवकारेण भाद्रव्यवच्छेदः। प्रतिप्रसवानुपपत्तिं दर्शयति, नहि श्रावणे इत्यादि। बह्वृचाम् ऋग्वेदिनां, वाजसनेयिनाञ्च यजुर्वेदिनाञ्च। भाद्र एव एवकारेण श्रावणव्यवच्छेदः। कथं प्रतिप्रसव इति। तथाच -
-
-
 
 यथा।
 
@@ -7126,8 +6242,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   \* समुद्रगानां पर्य्युदस्तत्वादिति। तासां समुद्रगाणां रजोयोगविधायकं रजोयोगविधायकं वचनं कल्पितमेवेति। अन्यथा सामान्यशास्त्रप्राप्त्यभावात् पर्य्युदासासङ्गतिरिति भावः। 'पक्षद्वयं श्रावणादि सर्व्वानद्यो रजस्वलाः। तासु स्रानं न कुर्व्वीत वर्ज्जयित्वा समुद्रगाः॥इति वचनेनेति। लक्षणमेतत् नदीलक्षणमेतत्। दर्शनात् नदीलक्षणदर्शनात्। ' या योजनशतङ्गता' इति द्वितीयनदीलक्षणदर्शनादित्यर्थः। नदत्वाभावे सतीति, तथाच
 
-
-
 नदलक्षणाभावेऽपि नदावगममुपगम्य एव समानप्रमाणावगतत्वान्नदीनां ग्रहणे सम्भवति, कथं जघन्यावगमनदीपरिग्रहः। न च लक्षणापेक्षा। नदीषु गङ्गा गण्डकी गोमती गोदावरी कावेरी कौशिकी सरयू सरस्वती तृतीया वितस्ता विपाशा यमुना नर्म्मदा नन्दा नन्दावरी चन्द्रभागा रेवा देविका बाहुदा प्रभृतीनां नदीनां शास्त्रतोऽवगमत्वात्। न च कथमेतास्वभिन्नरूपास्वेको नदीशब्द इति वाच्यम् ? एकानेकशक्तिसाधारणनदीशब्दार्थतयाऽवगतासु रजोविधौ लक्षणापेक्षाभावात्। यद्येकं निमित्तमेतास्वस्ति, तदाल्पीयसी कल्पना भविष्यति। नास्ति चेत् तदा नदशब्दवन्मन्त्रशब्दवद्वाभविष्यति। उत्तरावद्वान चोत्तरकाण्डपठितत्वमेकमुत्तरार्थनिमित्तमिति वाच्चं सापेक्षतापत्तेः। निरपेक्षतया च काण्डाधीतोत्तराग्रहणस्य दर्शितत्वात्। योन्यवधिकोत्तराग्रहणस्य सापेक्षत्वादुत्तराधिकरणराद्धान्तव्याकोपः
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
@@ -7136,8 +6250,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **'सङ्गताया भवेद्गत्वा समुद्रेण नदेन वा'।**
 
 'सा नदी या योजनशतङ्गता' इति वचने शतयोजनान्यूनानामपां नदसङ्गतत्वेनैव नदीलक्षणस्य वक्तव्यत्वेन नदलक्षणाभावे तत्परिचयाभावेन तत्सङ्गमापरिज्ञानात् नदीलक्षणमपि दुर्व्वच इति भावः। यद्यपि 'समुद्रेण नदेन वा' इति चाकारात् समुद्रसङ्गतत्वेन नदीलक्षणं भवितुमर्हति, तथापि 'वर्ज्जयित्वा समुद्रगा' इति कात्यायनेन रजोयोगविधौ पर्य्युदस्तत्वात् रजोयोगोपयोगिनदीलक्षणं समुद्रसङ्गतत्वेन न सम्भवति।
-
-
 
 स्यात्। किञ्चोत्तरासमूहसम्बन्धादेवोत्तरकाण्डत्वमान्त्रकाण्डवत्, प्रायणीयशब्दवृत्तिवद्वाशास्त्रीयनदीशब्दप्रयोगविषयत्वमुपाधिरस्तु। यस्मादिदमदूषणम्।
 
@@ -7151,8 +6263,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   \* न च लक्षणापेक्षा, नदीषु नहि लक्षणापेक्षा, नदीष्विव्यर्थः। अत्र हेतुमाह गङ्गेत्यादि, शास्त्रतोऽवगमत्वादिति। तथाच 'सर्व्वा नद्यो रजस्वला' इत्यभिधाय, ‘वर्ज्जयित्वा समुद्रगा' इत्यनेन समुद्रगाणां गङ्गादिबाहुदान्तप्रभृतीनां शास्त्रत एव नदीत्वेनावगम्यमानत्वात् लक्षणापेक्षा नास्तीति भावः। एतासु गङ्गादिषु भिन्नरूपासु गङ्गात्वादिना विभिन्नरूपासु इत्यर्थः। एको नदीशब्दःएकनदीशब्दवाच्यत्वम्। एकानेकशक्तिसाधारणेत्यादि नदीशब्दवाच्यतया बोधितासु इत्यर्थः। लक्षणापेक्षा नास्तीति। तथाच सर्व्वानुमतनदौलक्षणाभावेऽपि लोकप्रसिद्धासु नदीषु रजोयोगविधौ गङ्गादीनां पर्य्युदस्तत्वात्समुद्रगगङ्गादिभिन्नासु नदीत्वेन लोकप्रसिद्धासु श्रावणादिमासद्वये रजोयोगात् स्रानं न कर्त्तव्यम्। यद्येकं निमित्तं समुद्रगत्वेन निमित्तता इत्यर्थः। सरणयोगाविशेषात् सृ गतौ इति धात्वनुसारात्। तदन्यथाभूता धनुःसहस्राष्टाधिका नदीशब्दार्था नदीशब्दवाच्या प्रसवणाभावप्रसक्तेरिति। तथा च तस्या नदीसंज्ञात्वे प्रस्रवणलक्षणं न स्यादिति भावः।
 
-
-
 प्रयोगाभावप्रसक्तेः। न च गर्त्तप्रस्रवणमित्येकं नामेति वाच्यम्। "गर्त्तास्ते" इत्यप्रयोगापत्तेः।
 
 तथा।
@@ -7163,8 +6273,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **"आदौकर्कटके देवी त्र्यहं यावद्रजस्वला।  
 चतुर्थेऽहनि संप्राप्ते शुद्धा भवति जाह्नवी॥ "**
-
-
 
 'देवी' भगवती गङ्गोच्यते, न तु देवीनाम्नी काचिदस्ति नदी। न च 'देविकैव' 'देवी' पदोपात्तकावर्णलोपकल्पनापत्तेरप्रसिद्धत्वात्। जाह्नवीपदस्य जाह्नवीवत् 'शुद्धा भवतीति' व्याख्याने वत्पदाध्याहारापत्तेः।
 
@@ -7179,8 +6287,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
   \* अन्यतरपदप्रयोगाभावप्रसक्तेः इति। एकपर्य्यायत्वे एकार्थकतया पौनरुक्तापत्तेरिति भावः। उभयव्यतिरिक्तं नदीगर्त्तव्यतिरिक्तं जलाधारत्वं प्रस्रवणं प्रस्रवणलक्षणम्। यत एव नदीगर्त्तव्यतिरिक्तजलाधारत्वं प्रस्रवणलक्षणम् अतएवेत्यर्थः। इतरलक्षणस्यापि सिद्धेरित्यभिप्राय इति, तथाच न ता नदीशब्दवहा इत्यतेन तदधिकजलाधारत्वं नदीलक्षणं तन्न्यूनजलाधारत्वं प्रस्नवणलक्षणम्। मयूरवृद्धमयूरप्रभृतयः मयूरभट्ट-
-
-
 
 त्वम्। यथा– 'तासु स्नानं न कुर्व्वीत देवर्षिपितृतर्पणम्। 'तास्विति' तदन्तर्गतेन न स्नातव्यम्।तत एवोदकाञ्जलीं गृहीत्वा न तर्पणं कार्य्यम्। 'उद्धृतेनजलेन तु,' तत्कालेऽपिस्नानतर्पणादिकं क्रियमाणं न दोषाय। अतो यदि रजोयोगीऽनर्हत्वं तदा कथंन दूष्यति ? उच्चते अतएव तर्हि नायमर्थः। किन्तु मासद्वयं यावद् रजोयोगदोषो ज्ञाप्यते। असौ तासान्नास्तीत्यर्थः।
 
@@ -7199,20 +6305,14 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 वृद्धमयूरभट्टप्रभृतय इत्यर्थः। इत्यत्राहुरिति अग्रिमेणास्य सम्बन्धः। द्वैमासिकरजोयोगनिषेधार्थं पक्षद्वयं श्रावणादि सर्व्वानद्यो रजस्वला इति वचनोक्तश्रावणादिमासद्वयरजोयोगनिषेधार्थमित्यर्थः। न तु आदौ कर्कटके देवी त्र्यहं यावदित्युक्तत्र्यहरजोयोगनिषेधार्थं पक्षद्वयमिति वचनोत्तरार्द्धेवर्ज्जयित्वा समुद्रगा इत्यनेन समुद्रगात्वेन गङ्गादीनां रजोयोगविधौ पर्य्युदासदर्शनात् तदेकवाक्यतया तपनस्य सुता गङ्गा इत्यादिवचनस्थयमुनादीनामपि श्रावणादिमासद्वयरजोयोगनिषेधस्य युक्तत्वात्। अन्यथा "ये चान्ये नदसंज्ञका" इत्यनर्थकत्वापत्तेः। नदीत्वेनैव इत्यपपाठः नदत्वेनैव इत्येव साधुः अन्यथा रजसोऽप्रसक्तौ इत्युपपत्तेः। स्त्रीधर्म्मो रजोयोगः अस्त्रीणां नदीनां नहि सम्भवति इत्यन्वयः।
 
-
-
 सर्व्वाःसमुद्रगा नद्यो गङ्गावद्वेदितव्याः। कर्कटस्यादौ त्र्यहं तासां रजोयोगः परतः शुद्धिरित्यर्थः। यास्तु कैलासप्राग्दक्षिणस्थलौहित्यसरोविनिर्गतदक्षिणसमुद्रगामिण्यो लौहित्यनदप्रवेशिन्यः त्रिस्रोतःसन्ध्याप्रभृतयः शास्त्रस्थाश्च शोणादिनदप्रवेशिन्यो वा शास्त्रावगतनदीभावाः। या हिमवत्पादप्रभवा गङ्गाप्रवेशिन्यो गण्डकीकौशिकीतृतीयाप्रभृतयः। या च कैलासदक्षिणमानससरोविनिर्गता हिमवत्पादं भित्त्वा गङ्गाप्रवेशिनी सरयूर्नदी तासां मासद्वयमेव रजोयोगस्तासामपर्य्युदस्तत्वात्। शास्त्रेण च नदीभावेन कीर्त्तितत्वात्। किन्तु रजस्वलात्वविधौ लक्षणानपेक्षशास्त्रावगतनदीनामेव निरपेक्षतया नदीपदाच्छीघ्रमवगमात् नदीगर्त्तप्रस्रवणानाञ्च स्रोतःस्विन्यविशेषात्। तत्तल्लक्षणानुप्रवेशे नदीत्वावधारणस्य सापेक्षत्वात्। सापेक्षनिरपेक्षयोर्निरपेक्षं बलीयस्तथान्यां तदुत्तरयोर्गङ्गावधिकमुत्तरात्वं, किं तूत्तरा काण्डपातिनाम्। अतएवोत्तरापदार्थतयावगतानामुत्तराणां ग्रहणमितिन्यायसिद्धत्वादत्राप्यन्यानपेक्षनदीभावानामेव ग्रहणम्। तथाभूतानामेव च गङ्गायमुनागोमतीप्रभृतीनां पर्य्युदासदर्शनात्, शास्त्रकीर्त्तितानामेव नदीनां पर्य्युदस्तेतराणां मासद्वयं यावत्रजोयोगो न पुनरगस्त्योदयं यावत् पक्षद्वयं, श्रावणादीति द्वितीयातोऽत्यन्तसंयोगावगमात्, अविप्रतिपन्नकात्यायनवचनविरोधाच्च। यत् कैश्चित् पठितम्—
 
 **“यावन्नोदेति भगवान्दक्षिणाशाविभूषणः।  
 तावद्रेतोवहा नद्यो वर्जयित्वा तु जाह्नवी” मिति**
 
-
-
 तदनादेयम्। किञ्च अगस्त्योदयस्य देशभेदेनानियतकालत्वात्। तथाहि राढ़ादिषु सप्तदिनावशिष्टे भाद्रे तस्योदयः। उज्जयिन्याञ्च दिनचतुष्टयावशिष्ट इत्यनन्तरमेव वाच्यम्। तेन हिमवत्पादप्रभवाणां सरयूगण्डकीकौशिकीतृतीयादीनामसमुद्रगाणां मूलदेशे चिरेण शुद्धिरप्रदेशे च तीरभुक्तिवरेन्द्रीप्रभृतिष्वचिरेणैव स्यात्। किञ्च सप्तदिनावशिष्टोदयदेशस्य यः पूर्व्वोऽवधिर्नासावेवानुदयदेशस्यापि परोऽवधिरिति। अङ्गुलिवितस्तिमात्रेणैव शुद्ध्यशुद्धीस्याताम्। किञ्च रजस्वलाया रजः- प्रवाहो वाच्यः, कथं रेतोवहात्वमुच्यते ? रेतोरजसोर्भिन्नत्वात्। न च रजोवहात्वमप्युत्पादकत्वापत्तेः। रेतोरजस्वलात्वमदृष्टार्थकर्म्मानर्हतया गौणम्। किञ्चागस्त्योदयः परोऽवधिरनेनोक्तोन पूर्व्व इति। तदपेक्षायां पक्षद्वयं श्रावणादीत्येतदधीनत्वात् पूर्व्वावध्यवगमस्य न तदन्यथाकरणे प्रभवति। किञ्च 'वर्ज्जयित्वा समुद्रगा' इति वक्तव्ये जाह्नवीपदस्य तु शब्दस्यानर्थकस्य प्रयोगो वचनकल्पकस्याधर्म्मगलग्रहं ज्ञापयति। तस्मात् सर्व्वप्रकारकमिदं वचनमनुसन्धीयमानमसङ्गतार्थम्। अतएव भोजदेवदीक्षितप्रभृतिभिर्न लिखितः। तेनापि मूलशून्यः। 'यावन्नोदेती' त्यसन्मूलमिति योग्लौकेनोक्तम्। तस्मात् श्रावणादिभाद्रसमाप्त्यन्तमेव नदीनां रजोयोग इति सिद्धम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **अथागस्त्योदयास्तमयकालः।**
 
@@ -7240,8 +6340,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **"कन्यायामगते सूर्य्येपूज्यो वै सप्तमे दिने।  
 कन्यायां समनुप्राप्ते सूर्य्येऽर्घःसन्निवर्त्तते॥”**
 
-
-
 कन्यागतेऽर्घो निवर्त्तते, इत्यनेनावशिष्टानि सप्तदिनान्यर्घस्य काल इति विवक्षितम्।
 
 तथा मत्स्यपुराणम्।
@@ -7268,8 +6366,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 धेन्वा वृषेण परमात्रयुतैश्च भक्ष्यैः  
 दध्यक्षतैः सुरभिधूपविलेपनैश्च॥”**
 
-
-
 **“नरपतिरिदमर्घं श्रद्दधानो ददानः  
 प्रतिगतगददोषो निर्ज्जितारातिपक्षः।  
 भवति यदि च दद्यात् सप्तवर्षाणि सम्यग्-  
@@ -7289,8 +6385,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अर्घ्यं दद्युरगस्त्याय गौड़देशनिवासिनः”
 
 इति विशेषमुक्तवान्। तेन संक्रान्तिपूर्व्वदिनेऽर्घ्यदानमिति। “कन्यायां समनुप्राप्ते सूर्य्येऽर्घ्यः सन्निवर्त्तते" इति प्रागुक्तवचनादिति शेषः। स सर्व्वान् कामान् लभेत् इत्यन्वयः। वृषादित्यस्य सौरज्यैष्ठस्य। वृषस्य वृषादित्यस्य। अरुणरश्मिजालैः अरुणकिरणैः निश्यन्धकारे ईषत्प्रभिन्ने सतीत्यर्थः। सांवत्सरावेदितदिग्विभागे ज्योतिर्विद्भिः कथितदिशि इत्यर्थः। द्विजो यथालाभमिति अत्र द्विजः ब्राह्मणःक्षत्त्रियश्च, वैश्यस्य पृथगुपादानात् धर्म्मफलमिति।
-
-
 
 **अथ शक्रोत्थानम्**
 
@@ -7317,8 +6411,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 विश्वमुत्तराषाढ़ा, वासरो धनिष्ठा, तदपि तिथ्यन्तरे दिवा श्रवणाद्यपादस्याप्राप्तौ द्वादश्यां नक्षत्रान्तरेऽपीति तस्यार्थः। श्रवणानक्षत्रस्य बहुसम्मतत्वात्। 'वैष्णवादिगते चान्द्रे' इत्यादिभिश्च द्वादश्यनपेक्षस्य विधानात् तिथ्यनपेक्षभरण्यन्तसाहचर्य्याच्च।
 
-
-
 तथापरं वचनम्।
 
 **"सिंहे गते दिनकरे सितचारुपक्षे  
@@ -7335,8 +6427,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अत्र द्वादश्यनपेक्षत्वं (१)[^340] व्यक्तीकृतम्। एकस्मिन्मासि सिंहे कन्यायां हर्य्याद्यद्वयप्राप्तौ विशेषपरत्वादस्य, नचैकस्मिन्मासे वारद्वयं द्वादशीयुक्तश्रवणाद्यप्राप्तिः सम्भाविनी नक्षत्रस्य सप्तविंशतिदिनैस्तिथेश्च त्रिंशद्भिः पुनरपरावृत्तेः तस्माद्द्वादश्यनपेक्षश्रवणाद्यपादस्य दिवाप्राप्तिमात्रेण शक्रोत्थापनं कार्य्यम्। दिवा तु तदप्राप्तौ विश्वश्रवणवासराणामन्यतमेन तत्कार्य्यम्। तत्रापि श्रवणस्य मुख्यत्वं, तस्यैव बहुभिरुपदर्शितत्वात्। 'हरिद्वयं भाद्रपदे यदि स्यात्,' तथा 'यदि सिंहे हरिद्वयम्'।
 
 [^340]: "द्वादश्यनापेक्षत्वं क्वचिदादर्शेपाठः।"
-
-
 
 तथा भविष्योत्तरे व्यासः।
 
@@ -7364,8 +6454,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“तारापतौ त्रिदशदानवमन्त्रिभागे  
 सौम्यग्रहे च नवपञ्चमसप्तमस्थे।**
 
-
-
 **लग्नेषु दैत्यसचिवज्ञवृहस्पतीना-  
 मुत्थापनं शुभकरं भुवि शक्रकेतोः॥ "**
 
@@ -7389,8 +6477,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **सौरिभूमिजयोर्वारे सूतके मृतकेऽथवा।  
 भूमिकम्पादिकोत्पाते शक्रं नैव प्रवासयेत्॥**
-
-
 
 न च भाविभौमादिदिनप्रतिसन्धानेन पूर्व्वदिन एव पातःक्रियतामिति वाच्यम्।
 
@@ -7420,8 +6506,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 उत्थापयेल्लक्षसहस्रचक्षुषः  
 शालद्रुमालग्नकुमारिकान्वितम्॥**
 
-
-
 **नातिद्रुतन्नच विलम्बितमप्रकम्पं  
 मध्यस्थमन्यपिटकादिविभूषणञ्च।  
 उत्थानमिष्टमशुभं यदतोऽन्यथा स्यात्  
@@ -7449,8 +6533,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \* अथ शक्रोत्थानमुच्यते। चान्द्रमासे भाद्रपदे मुख्यचान्द्रभाद्रे। वैष्णवादिगते श्रवणाद्यश्विन्यन्तसप्तनक्षत्रगते। सुप्ते सर्व्वजनसुप्ते। सम्भाविनी सम्भविष्यति। पुनः रपरावृत्तेरिति नक्षत्रस्य सप्तविंशतिसंख्यकत्वात् तिथेस्तु त्रिंशत्संख्यकत्वाच्चसप्तविंशति-
 
-
-
 **अथापरपक्षश्राद्धम्**
 
 **यदपरपक्षश्राद्धंकन्यागत एव भास्करे कार्य्यम्।  
@@ -7472,8 +6554,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_'दिनात्परं नक्षत्रस्य त्रिंशद्दिनात्परं तिथेस्तुपुनः प्राप्तिः सम्भवतीति भावः। विश्वश्रवणवासराणामन्यतमेन उत्तराषाढ़ाश्रवणाघनिष्ठानामन्यतमनक्षत्रेण। लग्नेषु दैत्यसचिवज्ञवृहस्पतीनामिति सप्तम्यर्थे षष्ठीबहुवचनं तेन लग्नेषु शुक्रबुधवृहस्पतिषु सत्सु इत्यर्थः। अन्तकस्यादिमध्यान्तं भरण्या आदिमध्यान्तम्। प्रवासयेत् विसर्ज्जयेत्। नागरैर्वृतः नगरस्थजनसहितः। दैवज्ञसचिवकञ्चुकि विप्रप्रमुखैः ज्योतिर्जमन्त्रिनाटकप्रसिद्धकञ्चुकिनामकविप्रादिभिः। सुवेशधरैः सुन्दरस्वस्वपरिच्छदयुक्तैः। यष्टिं केतुम् \। केतुभङ्गपतने भग्नकेतुपतने इत्यर्थः। उल्का पुरोहितं पार्थिवञ्च हन्ति इति पूर्व्वेणानुषङ्गः। महिषींनृपपत्नीम् अशनिर्वज्रम्। मध्याग्रमूलेषु च केतुभङ्गः मध्ये मध्यदेशावच्छेदे केतुभङ्गः मन्त्रिणम्, अग्रदेशावच्छेदे क्षितिप्रालं, मूलदेशावच्छेदे चेत् पौरान् निहन्ति।
 
-
-
 **वृश्चिके समतिक्रान्ते पितरो दैवतैः सह।  
 निःश्वस्य प्रतिगच्छन्ति शापन्दत्त्वा सुदारुणम्॥”\***
 
@@ -7489,8 +6569,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तथा।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_अथ कन्यागतापरपक्षश्राद्धम्। दैवादिति कार्य्यान्तरव्यासङ्गादपाटवाद्वेत्यर्थः। तदकरणे कन्यास्थरविनिमित्तश्राद्धाकरणे। तुलायां तुलास्थरवौ तच्छ्राद्धं कर्त्तव्यमिति शेषः। ये तु कृतिनी ब्रुवते इत्यन्वयः। पञ्चमे आषाढ्याःपञ्चमपक्षे। सिंहेऽपि कन्यामलमासे तत्पञ्चमक्षपस्य सिंहे समापने सति तत्र श्राद्धं कार्य्यमित्यर्थः। पितृराज्ञ इत्यार्षं पितृराजस्य यमस्य इत्यर्थः। निराशा इति कन्यास्थरविनिमित्तश्राद्धाकरणे इति शेषः। स्वभवनं यमपुरम्। हस्तर्क्षस्थे दिनकरे इति कुञ्जरच्छाययोगज्ञापनार्थमुक्तम्। तथाच—योगो मघात्रयोदश्यां कुञ्जरच्छायसंज्ञितः। भवेन्मघायां संस्थे च शशिन्यके करस्थिते॥ इति।
-
-
 
 **“सूर्य्येकन्यास्थिते श्राद्धं यो न कुर्य्यादुगृहाश्रमी।  
 धनं पुत्राः कुतस्तस्य पिटनिश्वासपीड़नात्॥”**
@@ -7510,8 +6588,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तस्यान्दद्यान्नचेद्दत्तं पितृृणान्तु महालये॥ "**
 
 पूर्व्वंभविष्ये कन्याया एवादरणीयत्वेनोपन्यासात् अपरैरपि मुनिभिः कन्यायामेव महाफलत्वेन श्राद्धस्य कीर्त्तितत्वात् महालयः कन्यैव, तेन कन्यायामदत्ते श्राद्धे दीपान्विता तुलायां पञ्चदश्यपि ग्राह्या, तिथ्यन्तरेभ्योऽधिकफलं नतु तत्रैव परं कार्य्यं; भविष्य एव वृश्चिकप्राप्तेरवधित्वेनाभिधानात् कार्त्तिकं सकलं वापीति विष्णुवचनाच्च।
-
-
 
 **अथ कन्यायां काम्यकल्पाः**
 
@@ -7539,8 +6615,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अथ मत्स्यपुराणम्।
 
-
-
 **“उत्तराहस्तचित्रर्क्षे गते तीक्ष्णांशुमालिनि।  
 योऽर्च्चयेत्स्वपितॄन् भक्त्या तस्य वासस्त्रिपिष्टपे॥”**
 
@@ -7567,8 +6641,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 नभस्यः चान्द्रमासः। कन्यास्थ इत्यविरोधात्। इति षोड़शभिर्वचनैः कन्यागत एव बोधिताङ्गतया पितृयज्ञे मुख्यं संप्रति पञ्चमपक्षस्य वचनानि। यद्यपि भोजराजविश्वरूपगोविन्दराजैर्हेयतया न लिखितानि, तथाप्युपन्यस्य व्याख्यायन्ते।  
   तत्र कार्ष्णाजिनिः।
 
-
-
 **"शक्रध्वजनिपाताङ्को यः स्यात् पक्षस्तु पञ्चमः।  
 स विज्ञेयोऽपरः पक्षस्तत्र श्राद्धं विधीयते॥  
 पुत्राणां वर्द्धनं धान्यमारोग्यं भूतिमेव च।  
@@ -7580,8 +6652,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
  \*अक्रियायां श्राद्धाकरणे, दण्डात् शापं दत्त्वा सुदारुणमिति दण्डविधानात्। क्रियानियमसिद्धिः कन्यास्थरविनिमित्त श्राद्धस्यावश्यक- र्त्तव्यत्वरूपनियमसिद्धिः। नतु तत्रैव परं कार्य्यंदीपान्वितामावास्यामात्रे कर्त्तव्यं नत्वित्यर्थः। नभस्यस्य मुख्यचान्द्रभाद्रस्य, अपरे पक्षेकृष्णे पक्षे, षोड़शकमिति पञ्चदशमित्यर्थः। पञ्चदशतिथिमात्रस्य पक्षत्वात् षोड़शग्रहणं भौजङ्गीतिथिमासाद्य इतिवत् अव्यवहितपौर्णमास्यां संयमनविधानार्थम्। कृत्तिकादिभरण्यन्तं सप्तविंशतिर्नक्षत्राणीत्यर्थः। रविसप्तकं रविप्रभृतिसप्तकं, वाराःएते नक्षत्रवाराः। संयोगमात्रेण एकदेशसंयोगमात्रेण \। इतरथा अन्यथा। शक्रध्वजनिपाताद्धःशक्रध्वजपातचिह्नितः। पञ्चमः आषाढ्यपेक्षया पञ्चमः। यो व्यतिक्रमेत् आषाढ़ीयपञ्चमपक्षेअश्वयुक्क्कृष्णपक्षेयो जनः श्राद्धं न कुर्य्यात्।
-
-
 
 **“आकाङ्क्षन्ति पितरः पञ्चमं पक्षमाश्रिताः।  
 तस्मात्तत्रैव दातव्यं दत्तमन्यत्र निष्फलम्॥”**
@@ -7597,13 +6667,9 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^342]: "हिंसन्तीत्यनुपपत्तेरिति। प्राणवियोगफलकव्यापारस्य हिंसापदार्थत्वात् धनधान्यादीनां तदसम्भवादाह अप्राप्तिपरी हिंसाशब्द इति। पैतृकविधिं पितृश्रार्द्धं, नाति"
 
-
-
 युक्तञ्चैतत्, “तत्र श्राद्धं प्रकुर्व्वोतेति" तच्छब्देन प्रकृतस्य पक्षस्य परामर्शात् तत्र पक्षे, "कन्यां गच्छतु वा न वेति" प्रतीयते। न तु तत्पक्षीयतिथौ कन्या भवतु न वेति प्रतीतिः, पूर्व्वं तिथेरनुपात्तत्वात्। न च कन्यासम्बन्धशून्यस्य पञ्चमपक्षस्य श्राद्धाङ्गतेति वाच्यम्भवतामप्यनभिधानत्वात्, वयमपि दर्शयिष्यामः। तस्मात् स्तुतिरेवैषा। किञ्च यद्ययं “गच्छतु न वेति” विधिः, तदा किम् अनेन विधीयते ? किं कन्यान्वितः पञ्चमः पक्षः, अनन्वितो वा ? उभयविशिष्टो वा ? पञ्चमपक्षमात्रं वा ? यदि प्रथमः कल्पः, तदा कन्यान्वितस्याङ्गतया विधानात् कथं सिंहान्वितांशे पितृयज्ञक्रिया न वेत्यानर्थक्याच्च। अनन्वितश्चेत्
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_क्रमेत् अवश्यमेव कुर्य्यादित्यर्थः। नत्वनर्थान्तरम् अन्योऽनर्थः अनर्थान्तरम् अनर्थाभावः, न तु श्रूयते इत्यर्थः। अन्यत्र निष्फलं अल्पफलमित्यर्थः। तस्मान्नातिक्रमेदिति तस्मान्नातिक्रमेद्विद्वान् पञ्चमे पैतृकं विधिमित्येकवचनं, तस्मात्तत्रैव दातव्यमिति तस्मात्तत्रैव दातव्यं दत्तमन्यत्र निष्फलमिति द्वितीयवचनमिति वचनद्वयमित्यर्थः। कन्याविशिष्ट एव कन्यागत एव। पञ्चमपक्षस्य अश्वयुक्कृष्णपक्षस्य। अंशे अवयवे तिथिरूपे। अनतिक्रमणीयत्वम् अवश्या पेक्षणीयत्वम्। कन्यां गते सवितरीति कन्यां गते सवितरि दिनानि दश पञ्च च। पार्व्वणेनेह विधिना तत्र श्रार्द्धंविधीयते॥ इति वचनयोः इत्यनयोर्वचनयोरित्यर्थः। अस्यैव कन्याविशिष्टस्यैव। अङ्गस्य अङ्गत्वस्य। हत्तर्क्षस्थे दिनकरे इति हस्तर्क्षस्थे, दिनकरे पितृराजानुशासनात्। तावत् प्रेतपुरी शून्या यावदवृश्चिकदर्शनम्॥ वृश्चिके समतिक्रान्ते पितरो दैवतैः सह। निःश्वस्य प्रतिगच्छन्ति शापं दत्त्वा सुदारुणमिति वचनेन जातुकर्णेन पूर्व्वमुक्तत्वात्, हस्तर्क्षस्थे इत्यनेन कन्यास्थपञ्चमपक्षस्य पूर्व्वमुक्तत्वादित्यर्थः। कन्यां गच्छतु चा न वा इति पाठस्थाने स्वपोषकतया शङ्खधरसम्मतपाठं दर्शयति गच्छतु वा न वेति। इत्यन्तेन ग्रन्थेन शङ्खधरेण व्याख्यातमित्यन्वयः।
-
-
 
 कन्यान्वितस्यैवाग्रहणापत्तेः, कन्यागतं पञ्चमञ्चेत्यादिविरोधाच्च, कन्याङ्गच्छत्वानर्थक्याच्च। कर्कट सिंहयोरेव चाधिमासपाते कन्यानन्वितस्य पञ्चमस्य सिंहे सम्भवात्। तदा च कन्यायामेव चान्द्रभाद्रलाभे शक्रोत्थानापरपक्षयोर्निविवादत्वात् “अन्ते वा यदि वा मध्य" इति विरोधाच्च। न च " षष्ट्यातु दिवसैर्मास" इति कन्यागत एव तदानीं पञ्चम इति वाचम्, औपचारिकत्वान्मासशब्दस्य।
 
@@ -7614,15 +6680,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 मानुषो मासःपितॄणां रात्र्यहनी, तत्रापि कृष्णपक्षोऽहः, शुक्लः शर्व्वरी। अनेन प्रतिपदाद्यमावास्यान्तः कृष्णपक्षः, प्रतिपदादिपौर्णमास्यन्तश्च शुक्ल इत्युक्तम्। तथा 'पक्षान्ते स्रोतसी स्मृतौ,' ‘पक्षस्ते दश पञ्च चे’त्यभिधानज्ञैरुक्तम्। अतएव 'एकसंज्ञौ यदा मासौ, 'अधिमासः स विज्ञेयः, ' 'मलमासं विजानीयात्,' अन्यथा मासाविति न स्यात्।द्विराषाढ़त्वञ्चैकत्वान्मासस्याधिपक्षः स विज्ञेयो मलपक्षं विजानीयादित्यादि। तथा त्रयोदशमासाः संवत्सर इति श्रुतिर्नोपपद्येत। एकराशिस्थसूर्य्यावच्छिन्नत्वेन तु दर्शान्तमासयोरेकनामतया एकमासत्वमौपचारिकम्, पक्षत्वमौपचारिकमिति न श्रूयते। न हि तद्वचनं, “त्रिंशद्भिर्दिवसैः पक्ष" इति भणति, न चार्थाल्लभ्यते। मन्वाद्यविरोधेन चतुर्भिरेव पक्षैरसौ मास इत्युपपत्तेः। सत्यपि च पक्षशब्दे गौणत्वादस्य
 
-
-
 पञ्चमपक्षवचने सकृदुच्चरितपक्षशव्देन गौणमुख्यग्रहणानुपपत्तेः, अतएव योग्लौकेन 'एक एवासौ मास' इति काशकुशावलम्बनं, तस्माच्छ्रावणभाद्राधिमासपाते कन्यासम्बन्धीयपक्षः सप्तम एव। अतस्तद्वत्सरे कन्यान्वितस्य पञ्चमस्याभावात्, कन्यामात्रे वा विधिना श्राद्धं न स्यात् \*। अथ कन्यानिमित्तं "हंसे वर्षासु कन्यास्थे सूर्य्येकन्यास्थिते” इत्यादिष्ववश्यकर्त्तव्यतावगतेः। तदा पञ्चमपक्षे सिंहांशेऽपि कृते श्राद्धे कन्यानिमित्तं केन वार्य्यते ?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
   \* कन्यां गच्छतु वा न वेति पाठस्यापि समीचीनतां दर्शयति तत्र पक्षे इत्यादि। तथाच तत्र पक्षे आषाढ़ीयपञ्चमपक्षं साकल्यं व्याप्य कन्यां गच्छतु वा न वेत्यनुषङ्गेणान्वय इत्यभिप्राय इति भावः। कन्या भवतु वा न वा इति पञ्चमपक्षसम्बन्धियत्किञ्चित्तिथौ कन्यासम्बन्धी भवतु न वा इति, न तु इत्यर्थः। पूर्व्वंतिथेरनुपात्तत्वादिति तथाच पक्षत्वेनैवोपात्तत्वं न तु पक्षसम्बन्धियत्किञ्चित्तिथित्वेनोपात्तत्वमिति भावः। कन्यान्वितः कन्यामात्रान्वितः। अनन्वितः कन्यामात्रसम्बन्धशून्यः। उभयविशिष्टः कन्या सम्बन्धस्तदभावीभयविशिष्ट इत्यर्थः। श्रुतिर्नोपपद्येत इति श्रुतौ त्रयोदशमासैर्वत्सरकीर्त्तनविरोधात् षष्टिदिनैरेको गौणो मासःप्रतिभाति। दर्शान्तमासयोर्मुख्यचान्द्रमासद्वययोः, एकनामतय आषाढ़ाद्येकनामकत्वगुणयोगेन, लक्षणया एकमासत्वेन, औपचारिकं गौणमित्यर्थः। पक्षत्वन्तु नौपचारिकमित्यत्र प्रमाणं दर्शयति नहीत्यादि। तद्वचनं षष्ठ्यातु दिवसैर्मास इति वचनम्। अर्थात् साक्षात्शब्दादेव, न च लभ्यते त्रिंशद्भिर्दिवसैः पक्षइति न ज्ञायते। मन्वाद्यविरोधेन पित्र्यो रात्र्यहनी मास इति मन्वादिवचनाविरोधेन। असौ मास एको मासः, इत्युपपत्तेः पक्षचतुष्टयेनैकमासत्वोपपत्तेः। पक्षशब्दे त्रिंशत्तिथिभिरेव पक्षशब्दप्रयोगे सत्यपि चेत्यर्थः। मासद्वयेन एकगौणमासप्रयोगे दृष्टान्तमाह काशकुशावलम्बनमिति। काशकुशावलम्बनेन एकं कुशासनमुच्यते। कन्यासम्बन्धीयपक्षःसप्तम एव आषाढ्यपेक्षया कन्यागतापरपक्षःसप्तम एवेत्यर्थः। पञ्चमस्याभावात् कन्यान्विताश्वयुक्कृष्णपक्षस्य सप्तमत्वेन पञ्चमत्वाभावादित्यर्थः।
-
-
 
 निमित्तभेदात् संक्रान्तिनिमित्तं दर्शनिमित्तकवत् युगपन्निमित्तीपनिपाते तु तन्त्रानुष्ठानं भवतु। न च पञ्चमपक्षेदैवादकरणे कन्यागते विधानमिति। तथाऽश्रवणात्, यथा कन्यायामकरणे तुलाश्रुतिः पूर्व्वमुक्ता।
 
@@ -7648,17 +6710,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
   \* अथमा भूदश्वयुक्निमित्तं कन्यास्थरविनिमित्तं भवत्येव इत्याह अथ कन्यानिमित्तं प्रमाणं दर्शयति हंसे वर्षासु इत्यादि। अवश्यकर्त्तव्यात्वावगतेःकेवलकन्यास्थरविनिमित्तश्राद्धस्यावश्यकर्त्तव्यत्वावगतेः। निमित्तमेदादिति तयाचाश्वयुक्कृष्णपक्षनिमित्तं कन्यास्थ-
 
-
-
 मासपक्षे चैतद्वर्णने पञ्चमवादिमतेऽतीत्येत्यप्यनुपपत्तेः सिंहस्या विधानात्। पञ्चमस्य तन्मते कन्यायामेव भावात्। अन्यथा श्रावणाधिमासपाते सिंहे श्राद्धप्रसक्तेः। न च भवत्येव तत्रेति वाच्यं, तन्मते तृतीयत्वात्तस्य। अस्मन्मते तु केवलस्य पञ्चमस्यानङ्गत्वात्। किञ्च कन्यागतपञ्चमयोर्युगपत् सम्भवात्। प्रतिपक्षतासम्भवात् सम्प्रधारणानुपपत्तेः कथमभावविधिः ? न हि शुक्लमानयेति, तदभावे षटमिति परस्परपरीहारस्थितयोरेवान्य-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ रविनिमित्तञ्च श्राद्धद्वयमित्यभिप्रायः। तन्त्रानुष्ठानं भवत्विति तथाच यथा संक्रान्तिनिमित्तं दर्शनिमित्तकञ्च श्राद्धद्वयं यदा एकदिने भवति तदा यथा तन्त्रानुष्ठानं तथा अक्षयुक्कृष्णपक्षस्य कन्यास्थरवौ पाते तन्त्रानुष्ठानम्। न चेति नहीत्यर्थः। तथाश्रवणादिति तथाच यथा कन्यायां मलमासादिना श्राद्धाकरणे तत्श्राद्धस्य तुलास्थार्के करणश्रुतिरस्ति, न तथा पञ्चमपक्षे दैवादकरणे कन्यास्थार्केकर्त्तव्यताश्रुतिरस्तीति भावः। व्याप्याभावसाधने व्यापकाभावस्य हेतुत्वादन श्रुत्यभावात् विधित्वाभावोऽप्यनुमीयते। तत्प्रकारं दर्शयति अभावविधित्वमित्यादीति। अभावविधित्वम् अभावे यो विधिस्तस्य भावः अभावविधित्वम्, अभावश्रुतिव्याप्तम् अभावे अकरणे अन्यत्र कर्त्तव्यताबोधिनी या श्रुतिः तद्व्याप्यम्। व्यापकनिवृत्तौ व्याप्यस्यापि निवृत्तिं दर्शयति व्यापकभूतेत्यादि। निवर्त्तमाना वचनाभावात् तत्राकरणे अन्यत्र करणबोधनान्निवर्त्तमाना सती अभावश्रुतिः अन्यत्र करणबोधकविधित्वमपि निवर्त्तयतीत्यर्थः। सिनीबालीम् अमावास्याम्। कालस्य मुख्यचान्द्रमासरूपकालस्य। वृद्धत्वात् शुद्धाशुद्धभेदेन द्वित्वात्। शुक्लप्रतिपदि तुलासंक्रान्तौ तद्भवतीति तथाच स्वाव्यवहितपूर्व्वामावास्यायाः पूर्व्वामावास्यान्त्यक्षणप्राक् कन्यासंक्रान्तौ तदुत्तरामावास्यान्त्यक्षणमतिक्रम्य शुक्लप्रतिपदि च तुलासंक्रान्तौ आश्विनमलमासो भवति। तुलाविधानार्थं तुलास्थरवौ आश्विनकर्म्मविधानार्थमित्यर्थः। पूर्व्ववचनद्वयमूलश्रुत्या अमावास्यामतिक्रम्य इति यातुधानप्रियो मास इति च वचनद्वयरूपमूलश्रुत्यैकवाक्यत्वात्। अस्यापि सिनीबालीमिति वचनस्यापि।
 
-
-
 तराभावेऽन्यतरविधिदर्शनात्। सोमाभावे पूतिके विधिरिव पूर्व्वपक्षे न च वैजात्यात्। सिंहगत एव पञ्चमीविहितः, तदभावे च कन्येति वाच्यम्, कन्यागतसम्बन्धेन पुण्यतमश्रुत्यनुपपत्तेः। न हि यो यदभावे स एव ततः श्रेयानिति युक्तम्। नाप्युभयं वाक्यभेदापत्तेः विकल्पपाताच्च। न चोभयविशिष्टस्य युगपदभावात्। अथैकदेशद्वारेणानयोः संभवाद्विधानमिति तन्न, एकदेशद्वयस्यैव तदा विधानापत्तेः। तत्र चोक्तदोषः। पक्षपदस्य चैकदेशद्वयलक्षणापत्तेः। अथ पञ्चमपक्षमात्रविधानं तन्न, “कन्याङ्गच्छतु वा न वे” त्यानर्थक्यात्। अनादरार्थमिति चेन्न, अनादरार्थमिति कोऽर्थः ? यदि कन्या नादत्तव्येति विधिस्तदा पञ्चमविधिरनादरविधिश्चेति वाच्यं भिद्येत, कन्यान्वित स्यैव प्रतिनियमेनार्थग्रहणापत्तेः, कन्यापञ्चममेलकस्य च पुण्यतमश्रुतिविरोधात्। कन्यानादरविशिष्टपञ्चमविधानेन वाक्यभेदादितरं दूषणं, तदवस्थमेवासिद्धवदनादरप्रतिपादनञ्च न सम्भवति, कार्य्येकनियतत्वात्। शब्दप्रमाणभावस्य न चानुवादः,पूर्व्वसिद्धस्य वचनादरस्याभावात्। तस्मात् फलार्थिनां श्राद्धाभ्यासार्थं पञ्चमवचनं “गच्छतु वा न वेति”। न च विधेयविशेषणं, किन्तु स्तुत्यर्थम्। तत्र च कन्यानिमित्ताधिकारे सति तत्तत्फलार्थिनाञ्च तत्तत्तिथिषु श्राद्धाभ्यासे विहिते एकस्य पक्षस्य सिंहकन्याभ्यामपरस्य च कन्यातुलाभ्यां समापनीयत्वात्, कुत्र क्रियतामित्यपेक्षायां कन्यापञ्चमयोगप्रशस्ततमत्वेन कन्याधिकारस्य तत्र प्रवृत्तौ फलार्थमप्यभ्यासः। तस्मिन्नपि सिंहाशे कार्य्य
-
-
 
 एवेति विधिः। द्विखण्डतिथो युग्मतिथिविधिवत्, अतएव “गच्छतु वा न वेत्युक्तम्”।
 
@@ -7669,32 +6725,20 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 कन्यागते तावत् काम्यो नित्याधिकारश्च कार्य्यः। तदधिकारप्रवृत्तौ च प्रमाणसिद्धायान्तस्मिन् पक्षे कन्यागतेऽपि फलार्थंश्राद्धमभ्यस्येत। धवलेन, “चान्ते वा यदि वा मध्य” इति वचनस्य चतुर्थं पदं, श्राद्धषोड़शकं प्रतीति पठितम्। तेनैकस्मिन् श्राद्धे कन्यैवादरणीयेति योग्लौकेनाप्युक्तम्। यः शरीरधनादेरस्थिरतां कन्याप्रत्यवेक्षया शङ्कते, पञ्चमं पक्षमादद्यात् सः। यस्तु नैवं, स कन्यागतमेव प्राधान्यादवतिष्ठतीत्यन्तेन ग्रन्थेन कन्यागतसम्भवात्। पञ्चमे विधिरिति विपरीतोऽभावविधिरुक्तः। किञ्चेदमत्र विचार्य्यताम्। अकरणे दोषश्रुतेरवश्यकर्त्तव्यत्वात्, जीवनं तावदधिकारिविशेषणं, तदपि नावशिष्टं नित्यमधिकारापत्तेः। अर्थात् कस्यचित् कालस्य तद्विशेषणमुररीकरणीयम्। तेन किं निरपेक्षमुभयं, कन्या च पञ्चमश्च विशेषणम् ? तेन नित्याधिकारद्वयमेतत्। किंवा केवल एव पञ्चमः, कन्योपलक्षितः पञ्चमो वा ? न तावन्निरपेक्षमुभयमधिकारद्वयस्यानिष्टत्वादेव पञ्चमपक्षे कृतेऽपि श्राद्धे कन्यायां पुनःअकरणप्रसङ्गात्। एतान्येव हि हिंसन्तीत्यस्यार्थो वर्णितः।अथैतद्वचनं पञ्चमेऽवश्य कर्त्तव्यतार्थम्। तेन पञ्चम एव केवलो निमित्तमिति तन्न, मिथुने
 
-
-
 भगवति सुप्ते कर्कट सिंहयोरन्यतराधिमासे सिंह पञ्चमे श्राद्धक्रियाप्रसक्तिः, कन्याया अवश्यापेक्षणीयत्वात्। कन्यागतस्य तु शक्रपाताङ्कितस्य सप्तमत्वेन पञ्चमस्य व्यभिचारात् कन्यावचनानर्थक्याच्च, कन्यायामकरणे च दोषश्रुत्यनुपपत्तेः। अथ कन्यायाः पञ्चमस्य च दर्शनादुभयत्रोपसंहारान्मिलितमुभयं निमित्तं तन्न, तथापि सिंहे श्राद्धप्रसक्त्या युष्मदभिमतस्यासिद्धेः, विशिष्टस्य तदानीमभावात् कन्योपलक्षितपञ्चम इति चेन्न। सति विशेषणत्वे उपलक्षणत्वायोगात्। श्रावणभाद्राधिमासपाते चोपलक्षणभावेऽपि शङ्खयेलान्यायेनोपलक्ष्यस्य प्रत्यभिज्ञायमानतया श्राद्धाधिकारस्य दुर्व्वारत्वापत्तेः। प्रतिसंवत्सरं चैकत्वात्। पञ्चमस्य व्यावृत्त्यभावादुपलक्षणवैफल्यात् कर्कट सिंहाधिमासवत्सरीयपञ्चमव्यावृत्त्यर्थमिति न वाच्यं, तद्वत्सरे कन्योपलक्षितपञ्चमस्या. निमित्तत्वस्यानुपजातत्वेन तन्निमित्तस्य श्राद्धस्याभावप्रसक्तेः उपलक्षणभावेऽपि चोपलक्ष्यस्य तथात्वानिवृत्त्यनुपपत्तेः। तस्मात् कन्याया विशेषणस्यावश्यम्भावान्मृष्यामहे। हविषा विशेषण इति न्यायात् निरपेक्षतया कन्यामात्रमेव जीवनस्य विशेषणम्। तावतैवाधिकाङ्क्षोपरमात्, न चैवं कृष्णपक्षोऽपि न विशेषणं स्यादिति वाच्यम्। पित्रर्च्चनरूपत्वात् श्राद्धस्य जाग्रतश्चार्च्चनसम्भवात्। “कर्म्मचेष्टामहः कृष्णः शुक्लःस्वप्नाय शर्व्वरी” ति मनुना शुक्लपक्षे पितृनिद्राभिधानाद्विधेयभूतश्राद्धसामर्थ्यात् कृष्णपक्षस्यापि विशेषणत्वात् तदेवं कन्याया एव निमित्तत्वात्तस्याश्चैकत्वात्। नैमित्तिकमपि सकृदेव सिध्यति, प्रमाणसिद्धामेव
-
-
 
 च कन्याधिकारप्रवृत्तिमुपजीव्य तत्तत्फलार्थिना तत्तत्तिथिषु श्राद्धस्याभ्यासो गुणफलाधिकारवद्विधीयते, तेन यस्मिन् कृष्णपक्षे काम्यनित्याधिकारस्तत्पक्षोयतिथिष्वभ्यासः फलार्थः I स च कन्यायामेव वा कन्याधिकारप्रवृत्तस्य वा सिंहांशेऽपि सिध्यति। तदर्थमुक्तं कन्यागतान्वितञ्चेत् स्यादिति नायं कन्यान्वयोऽदृष्टार्थः येन रजनीमात्रयोगेऽपि ग्रहणं, किन्तु काम्यनित्याधिकारप्रवृत्त्यर्थम्। “अतएवान्ते वा यदि वा मध्य” इत्येतदपि कन्याश्राद्धार्हकालप्राप्त्यर्थं वचनम्। न पुनरन्तमध्यावेव विवक्षितौ,
 तद्विवक्षायामन्तमध्यशब्दौअमावास्यान्ताष्टमीमध्यक्षणपरौ। किंवा अमावास्याष्टमीपरौ एकादश्यादिषष्ठ्यादितिथिपञ्चकद्वयपरौ वा। तत्र प्रथमद्वितीयपक्षद्वयेऽष्टम्यमावास्ययोरेव संक्रान्तौ पक्षस्य पूज्यता स्यान्न, तिथ्यन्तरे तदा भवतामपि नाभिमतलाभः, महाजनविरोधश्च। अथ तृतीयः तदा प्रतिपदादितिथिपञ्चके संक्रान्तौश्राद्धं न स्यात्। अथ तत्पक्षकन्यासंक्रान्तिमात्रपरौ, न स्वार्थमात्रपरौ। नैतत् कन्यासम्बन्धस्यादृष्टार्थत्वे मध्यान्तशब्दयोरर्थाविवक्षायां हेत्वभावात्। शव्दमूलत्वाददृष्टसिद्धेः। तस्माद्वचनान्तरविहितश्राद्धार्हकन्याकालसम्बन्धात् काम्यनित्याधिकारप्राप्त्यर्थं वचनं दृष्टार्थम्। तेन यत्र कन्यासम्बन्धिकाम्यनित्याधिकारप्राप्तिः स पक्षः सकल एव गुणफलाधिकारवदनेन विधीयते। यत्र पुनरमावास्यायां रजन्यां कन्यागमनं भानोस्तत्र कन्यानित्याधिकारस्याप्रवृत्तेः। तत्प्रत्युपजीवी गुणफलाधिकारः अनुवर्त्तते। अतएवाह।  
 ·
-
-
 
 **"पुण्यं कन्यागतन्तावत् पुण्यः पक्षस्तु पञ्चमः।  
 कन्यागतं पञ्चमन्तु पुण्यात् पुण्यतमं स्मृतम्॥”**
 
 अत्र कन्यागते तावत्पदं प्रयुञ्जानः, कन्यागतं निमित्तमिति, तावत् प्रसिद्धोऽर्थ इति दर्शयति। पञ्चमे तुशब्दप्रयोगात् पञ्चमः पुनर्यथोक्तगुणफलाधिकारन्यायेनाकन्यांशेऽपि पुण्यः। उभय मेलकस्तु पुण्यतमो गुणफलाधिकारवत् फलभूयस्त्वात् कन्यामात्र एव वा, उत्तराहस्तचित्रर्क्षेराजसूयाश्वमेधाभ्यामित्यादिवाक्यविहितस्य काम्यकर्म्मणःफलातिरेकात् नित्याधिकारोऽपि वा, पञ्चमयोगे पितृतृप्तेराधिक्यात्ते तृप्तस्तर्पयन्त्येवमिति। तृप्तिगरीयस्त्वात्तल्लभ्यं फलमपि गरीयो भवति। अतस्तत्प्राप्तौ तन्नातितिक्रमणीयं, तदलाभे कन्धाकृष्णपक्षोनातिक्रमणीयः। “धनं पुत्राः कुतस्तस्य पितृनिश्वासपीड़ना” दिति श्रुतेः। तुलापर्य्यन्ते त्वधिकरणे, विश्वेदेवाः पितरश्च पितृमातृकुलस्य निश्वस्य नैराश्यमानस्यातिदारुणं शापं दत्त्वा व्रजन्ति। अकरणे दोषश्रुतेः, तत्परीहारक्रियास्वरूपादेव सिध्यतीति। न नियोज्यविशेषणम्, किन्तु कन्यावच्छिन्नजीवनमेव। कन्यायामकृतश्राद्धस्य तु तुलावच्छिन्नम्। किञ्चासतां दूषणान्तराणि कन्यायामधिमासे तुलायां श्राद्धोत्कर्षकारकमेव वचनत्रयं पञ्चमपक्षानादरे प्रमाणं, चतुर्द्दश्यमावास्ययोरन्यतरतिथौ कन्यासंक्रान्तौ हि सम्भवति, तदा च पञ्चमपक्षस्य कन्यान्वितस्य शक्रपाताङ्किः- तस्य सिंहे प्राप्तत्वात् तस्यैव च श्राद्धकालत्वात् कन्यायामेक प्रथमं कन्यापञ्चमपक्षीयामावास्यायोगस्य पुण्यतमस्य लब्धत्वा-
 
-
-
 दुत्कर्षवचनं न स्यात्। न च पञ्चमे दैवादकृतश्राद्धस्य कन्यायां प्रसक्तावुत्कर्षवचनमिति वाच्यम्। तथार्हश्रवणात् श्रुतेनैव चोत्पत्तौ पञ्चमेऽकृतश्राद्धस्येत्यवध्याहार्य्यानुपपत्तेः। पञ्चमपक्षे चाकरणे कन्याविधिरिति प्रागेव निरस्तम्। यत एव पञ्चमस्य न मुख्यकालताअतएव तदभावे न किञ्चिदपि श्रूयते तथा कन्याभावे तुला, तम्मात् कन्यायामेव काम्यस्य नित्याधिकारस्य वा प्रवृत्तिमुपजीव्य पञ्चमपक्षे गुणफलाधिकारन्यायेन विधानम्। यदा च कृष्णचतुर्द्दश्यां कन्यासंक्रान्तिस्तदा तदनन्तरितामावास्यातिथिद्वैधान्मलिम्लुचतया न कन्यागतश्राद्धार्हअमावस्यायाञ्च कन्यासंक्रान्तौ यद्यमावास्यायाः श्राद्धयोग्यकालः कन्यायान्तदासौ मलिम्लुचः। अथ सिंहे तदा न कन्यागतश्राद्धार्हः। अतस्तदुपजीविनी गुणफलाधिकारस्य सुतरामप्रवृत्तिः। अथ नित्यनैमित्तिके कुर्य्यादिति, मलिम्लुचे नित्यस्य कन्याधिकारस्य प्रवृत्तिः सम्भवतीति नैतत्। “गर्हितः पितृदेवाभ्यां सर्व्वकर्म्मसुतं त्यजेदिति” सर्व्वकर्म्मसु तस्य निषेधात् तदुपजीविनो नित्यनैमित्तिक इति प्रतिप्रसववचनस्य केवल- नित्यनैमित्तिकगोचरतया व्यवस्थितः। काम्यव्यावृत्त्या विशेषणत्वेनासाधारणरूपतया केवलनित्यनैमित्तिकरूपस्यैव प्रथममवगतेः, न पुनरपरपक्षश्राद्धस्य नित्यकाम्योभय रूपत्वात्। अतएवासाधारणरूपस्यैव तत्र कीर्त्तनम्। गजच्छायां प्रेतश्राद्धमिति, गजच्छायामावास्यापराह्णकालः। अत्र यच्छ्राद्धं प्रेतश्राद्धमिति केवलनित्यनैमित्तिकदर्शनार्थमेवोक्तम्। अन्यथा नित्यनैमित्तिकपदाभ्यामेवानयोरुपात्तत्वाद्गजच्छायादिपदमनर्थ-
 
-
-
 कम्भवेत्। किञ्च कन्यागतापरपक्षश्राद्धस्य राजसूयाश्वमेधाभ्यामिति। “तस्य वासस्त्रिपिष्टप" इति, “क्रतुभिस्तुल्यानी"त्यादिवचनैः- काम्यत्वन्तावन्निर्विवादम् तस्यैव तु कन्यान्वित इत्यादिवचनैरकरणेऽनर्थप्राप्तिदर्शनात्तदनुष्ठानादनर्थपरीहारः क्रियते एवेति अकरणनिमित्तानर्थपरीहारसाधनस्य श्राद्धकर्म्मणः काम्यफलार्थे विधानमेकमेवास्तु, किं नित्याधिकारार्थं श्रुत्यन्तर कल्पनेन काम्यनित्याधिकारद्वयवादिनापि श्राद्धं सकृदेव अतोऽकरणनिमित्तप्रत्यवायपरीहारं कुरुते ? अपूर्व्वद्वारेण तु काम्यं साधयतीति स्वीकर्त्तव्यम्। अकरणस्यानर्थहेतुत्वेन श्रुतेः। “धनं पुत्राः कुतस्तस्य पितृनिश्वासपीड़ना 'दिति दोषश्रुतिमूलत्वादवश्यकर्त्तव्यतायास्तेनाकरणस्यानर्थपरीहारार्थं फलार्थकामनामन्तरेणापि श्राद्धस्यानुष्ठाननियमश्रुतिरिति। व्यर्था श्रुत्यन्तरकल्पना, प्रत्यक्षश्रुत्याधिकारश्रुतिद्वये तु नायं प्रकारः सम्भवी, स्वतन्त्रप्रवृत्तत्वादुभयोरतस्मिंश्च पक्षेपृथग्जीवनाधिकाराभावात् कन्यादीनां जीवनविशेषणत्वेऽपि विकल्पाः, प्राचीनास्तेऽकरणं प्रति विशेषणत्वे योजनीयाः। अतः काम्यतया यथाप्रचारं वा काम्यनित्यो भयरूपतया केवलनित्यनैमित्तिकगोचरप्रतिप्रसववचनाविषयत्वात्। कन्यायां मलमासे सति श्राद्धस्याप्रसक्तत्वाद्विहितकाललाभेन च प्रसक्ताधिकारस्य “न चेद्दत्तं पितॄणान्तु महालय” इति वचनेन कादाचित्कत्ववाचिचेच्छब्द प्रयोगेण कथञ्चिदकरणे तुलाविधानान्मलिम्लुचेऽपि नित्यमेवाकरणार्थास्य तुलायामपि कर्त्तव्यतेति। तद्वत्सरे कर्म्मलोपप्राप्तौ "यातुधानादि" वचनैस्तुलादि-
-
-
 
 त्यस्य विधानं योग्लौकेनाप्युक्तम्। तेनातीत्य कन्यागतं तुलागते पितृक्रियेति वचनार्थः। तेन कन्यायामपरपक्षश्राद्धमिति मुख्यः कल्पः। तत्रासम्भवे तुलायामिति स्थितम्। कन्यापञ्चममेलकश्च पुण्यतमः उभयमेलक एव च, कन्यानिमित्तकाम्यनित्याधिकारे सति फलभूयार्थिनो गुणफलाधिकारवत् कृष्णपक्षे श्राद्धविधानात् सिंहांशेऽपि श्राद्धक्रिया। नित्यन्तु कन्यायामेवेति सिद्धम्।
 
@@ -7718,8 +6762,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 श्राद्धे श्रद्धावद्भिर्विद्वद्भिः कार्य्यमवधानम्॥”**
 
   इति पारिभाद्रोपाध्याय श्रीजीमूतवाहनकृतौ धर्म्मरत्नेऽपरपक्षः समाप्तः।
-
-
 
 **शस्त्रहतानाञ्चतुर्द्दश्या श्राद्धं कर्तव्यम्**
 
@@ -7749,8 +6791,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 द्वयोरयनयोश्चैव मुनिः शाट्यायनोऽब्रवीत्।  
 पूर्व्वोक्तेष्वथ कालेषु विषुवत्यपि शौनकः॥**
 
-
-
 **वैशाखे कार्त्तिके चापि वृषभं यः समुत्सृजेत्।  
 प्रेतत्वान्मोचितस्तेन पिता पुत्त्रेण धीमता॥  
 चतुर्णामपि वर्णानां वृषलक्षणमुच्यते।  
@@ -7779,8 +6819,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **" शनैश्चरस्य वारेण वारेणाङ्गारकस्य च।  
 कृष्णाष्टमीचतुर्द्दश्यौ पुण्यात्पुण्यतमे स्मृते॥**
 
-
-
 **सोमवारे त्वमावास्या आदित्य या च सप्तमी।  
 चतुर्थ्यङ्गारवारेण अष्टमी च बृहस्पतौ॥  
 आसु यत्क्रियते पापमथवा पुण्यसञ्चयः।  
@@ -7807,8 +6845,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 मुच्यते सर्व्वपापेभ्यः स्वर्गलोके महीयते॥  
 ब्रह्मचर्य्यफलं यच्च यत्फलं पर्व्वयाजिनाम्।  
 ऋतुगामिफलं यच्च तदवाप्नोत्यसंशयः॥”**
-
-
 
 अथ यमः।
 
@@ -7841,8 +6877,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 सर्व्वाञ्चतुर्द्दशीं पुण्ये देविकायान्तथाम्भसि।  
 महागङ्गामुपस्पृश्य कृत्तिकाद्वारके तथा॥**
 
-
-
 **त्रयोदश्यामश्वयुजे विपाशायान्तथैव च।  
 अभ्यर्च धर्म्मराजानं भरणीषु तथा सदा॥  
 चतुर्द्दशीभरणीयोगे शनैश्चरदिने यदा।  
@@ -7871,8 +6905,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“यद्भीष्मपञ्चकमिति प्रथितं पृथिव्याः  
 मेकादशीप्रभृति पञ्चदशीनिबद्धम्।**
-
-
 
 **मुन्यत्रभोजनपरस्य[^343] नरस्य तस्मिन्  
 इष्टं फलं दिशति पाण्डव शार्ङ्गधन्वा॥ "**
@@ -7904,8 +6936,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 आकाशस्थं जलस्थञ्च शृणु तस्यापि यत्फलम्॥**
 
 [^346]: "सर्व्वकुलमितिग्रन्थान्तरे पठितम्।"
-
-
 
 **धनधान्यसमृद्धिस्तु पुत्त्रवानीश्वरो गृही।  
 लोचने च शुभे तस्य विद्वानपि हि जायते॥"**
@@ -7939,8 +6969,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 तथा श्रीविष्णुः।
 
-
-
 "आश्विनं सकलं मासंब्राह्मणेभ्यःप्रत्यहं घृतं प्रदायाश्विनौ प्रीणयित्वा रूपवान् भवति। तस्मिन्नेव प्रत्यहं गोरसैर्ब्राह्मणान् भोजयित्वा आरोग्यभाग्भवति। प्रतिमासे रेवतीयुते चन्द्रमसि मधु घृतं परमान्नंब्राह्मणान् भोजयित्वा रेवतीं प्रीणयित्वा रूपभाग्भवति। मासि मास्यग्निं हुत्वा प्रत्यहं तैलस्थं वा सघृतं कुल्माषं ब्राह्मणान् भोजयित्वा दीप्ताग्निर्भवति।”
 
 कुल्माषो माषपिष्टक प्रकारः।
@@ -7965,8 +6993,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 “न राहुदर्शनवर्ज्जं न वा रात्रौ न सन्ध्यायां प्रातःस्त्राय्यरुणकिरणग्रस्तां प्राचीमवलोक्य स्नायात्।”
 
 न रात्रौ न सन्ध्यायामिति निषिध्यारुणकरग्रस्तामिति विदधान
-
-
 
 उभयोः सन्धिं सन्ध्याप्रवेशकालमेव विदधाति। यमुषःकालमिति ब्रवते अतएव, – “उषस्युषसि यत्स्नानं प्राजापत्येन" तत्सम” मित्याहुः।
 
@@ -7995,8 +7021,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 सेतोः कर्त्तत्यर्थः।
 
-
-
 तथा बौधायनः।
 
 **“स्रवन्तीष्वनिरुद्धासु त्रयो वर्णा द्विजातयः।  
@@ -8017,8 +7041,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 आहतुः शङ्खलिखितौ।
 
-
-
 नेष्टकचिते[^347]पितृृंस्तर्पयेद्वापीतड़ागोदपानेषु सप्त पञ्च त्रीन् वा पिण्डानुद्धृत्य देवपितृृंस्तर्पयेत्।
 
 [^347]: "इष्टकारचिते इति स्मार्त्तसम्मतः पाठः।"
@@ -8031,8 +7053,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 स्नायान्नदीदेवखातगर्त्तप्रस्रवणेषु च॥ "**
 
 मनुरपि परखातनिपानं निषिध्याह।
-
-
 
 **“नदीषु देवखातेषु तड़ागेषु सरःसु च।  
 स्नानं समाचरेन्नित्यं गर्त्तप्रस्रवणेषु च॥ "**
@@ -8064,8 +7084,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“अहोरात्रस्य यः सन्धिः सूर्य्यनक्षत्रवर्ज्जितः।  
 सा हि सन्ध्या समाख्याता तस्यां स्नानं समाचरेत्॥”**
-
-
 
 अथ मरीचिः।
 
@@ -8102,8 +7120,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 आग्नेयं भस्मना स्नानं वायव्यङ्गोरजः स्मृतम्॥  
 यत्तु सातपवर्षेण स्नानं तद्दिव्यमुच्यते।**
 
-
-
 **वारुणञ्चावगाह्यन्तु मानसं विष्णुचिन्तनम्॥  
 शस्तं स्नानं यथोद्दिष्टं मन्त्रस्रानक्रमेण तु।  
 कालदोषादसामर्थ्यात् सर्व्वं तुल्यफलं स्मृतम्॥”**
@@ -8138,8 +7154,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 आषाढ़ी पौर्णमासी शुक्ला एकादशी द्वादशी कर्कटसंक्रान्तिश्चेति।
 
-
-
 **अथ व्रतग्रहणमन्त्रः।**
 
 **“इदं व्रतं मया देव गृहीतं पुरतस्तव।  
@@ -8169,8 +7183,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अथ स्मृतिसमुच्चये
 
-
-
 **“अमावास्यां न तु छिन्द्यात् कुशांश्च समिधस्तथा।  
 सवित्रेऽवस्थिते सोमे हिंसायां ब्रह्महा भवेत्॥  
 कुशाःशाकाश्च पुष्पञ्च काष्ठानि च तृणानि च।  
@@ -8199,8 +7211,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 षष्ठ्यष्टमी पञ्चदशी उभौ पक्षौ चतुर्द्दशी।  
 अत्र सन्निहितं पापं तैले मांसे भगे क्षुरे॥  
 षष्ठ्यान्तैलमनायुष्यमष्टम्यां पिशितन्तथा।**
-
-
 
 **क्षुरकर्म्म चतुर्द्दश्यान्तथा पर्व्वणि मैथुनम्॥”**
 
@@ -8237,8 +7247,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **"सायंसन्ध्यां परान्नञ्च शिलापिष्टन्तथैव च।  
 अमावास्यां न सेवेत रात्रौ भोजनमैथुने॥**
 
-
-
 **सूर्य्यऋक्षगते सोमे परान्नं यो हि भक्षयेत्।  
 तस्य मासकृतं पुण्यं यस्यान्नं तस्य तद्भवेत्॥  
 दन्तकाष्ठे त्वमावास्या मैथुने च चतुर्द्दशी।  
@@ -8264,8 +7272,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 धात्रीफले च सप्तम्यामलक्ष्मीर्वसते सदा॥"**
 
 अत्र देवलः।
-
-
 
 **"अष्टम्याञ्च चतुर्द्दश्यां पञ्चदश्यां विशारदः।  
 तैलं मांसं व्यवायञ्च क्षुरञ्च परिवर्ज्जयेत्॥”**
@@ -8294,8 +7300,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 एतानि क्रमशो नित्यमष्टम्यादिषु वर्ज्जयेत्॥”**
 
 क्रमशो यथासङ्ख्यम्। अत्र शिरो नारिकेलमष्टम्यां, कपाल-
-
-
 
 मलाबुं नवम्याम्, अन्त्रंकलम्बिकां दशम्यां, नखं शिम्बिकामेकादश्यां, चर्म्मेति पूतिकां द्वादश्यां, तिलं वार्त्ताकुं त्रयोदश्यां न भक्षयेत्।
 
@@ -8326,8 +7330,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तैलेनाभ्यङ्गयेत् यस्तु चतुर्भिः स हि हीयते॥ "**
 
 गार्ग्यणैव पूर्वं पञ्चम्यादिषु धनापत्यबलायुषां वृद्धेरुक्तत्वाद्धानिरपि तेषामेव प्रतीयते।
-
-
 
 आह गार्ग्यः।
 
@@ -8361,8 +7363,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“दशमी नवमी चैव प्रतिपच्चत्रयोदशी।  
 तृतीया च विशेषेण स्नाने चैतानि वर्ज्जयेत्॥”**
-
-
 
 स्नानदोषमाह वशिष्ठः।
 
@@ -8401,8 +7401,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“न स्नायाद्वत्सरेऽतीते निर्वर्त्त्यापि च मङ्गलम्।  
 अनुव्रज्य सुहृद्बन्धून् पूजयित्वेष्टदेवताम्॥”**
 
-
-
 आह भृगुः।
 
 **“धर्म्मविन्नाचरेत्स्नानमाह्निकन्तु पुनः पुनः।  
@@ -8430,8 +7428,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 पद्यव्यासः।
 
   स्नायाद्वाचतुर्थी सप्तमी दशमी पौर्णमासीषु श्रीकामः तैलाभ्यङ्गं कुर्य्यात्। स्पृशेदमावास्या षष्ठ्यष्टमी द्वादशी चतुर्द्दशीषु कृष्णत्रयोदश्याञ्चतुर्द्दश्यां वा यमाय धर्म्मराजाय मृत्यवे चान्तकाय वैवस्वताय कालाय सर्व्वभूतक्षयाय एतेभ्यः सप्तभिर्नमस्कारान्तैर्मन्त्रैः सप्तो-
-
-
 
 **दकाञ्जलीन् दद्यात्। सर्व्वपापेभ्यो विमुच्यते।**
 
@@ -8464,8 +7460,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 प्रतिग्रहे भवेत्पापी तस्मात्सन्ध्यां विवर्ज्जयेत्॥”**
 
 महानिशायामपि निषेधमाह महापुराणम्।
-
-
 
 **“महानिशा तु विज्ञेया मध्यमं प्रहरद्वयम्।  
 स्नानन्तत्र न कुर्व्वीत नित्यनैमित्तिकादृते॥”**
@@ -8500,8 +7494,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अकालवृष्टावपि नाध्येतव्यमित्याह।
 
-
-
 **“चातुर्मासे निवृत्ते तु चक्रपाणौ समुत्थिते।  
 अकालवृष्टिं जानीयाद्यावद्विष्णुमहोत्सवम्[^350]॥”**
 
@@ -8534,8 +7526,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 माघादिमासषट्के च मेखलाबन्धनं यतः।  
 चूड़ाकरणमर्घञ्च श्रावणादौ न शस्यते॥**
 
-
-
 **सिंह धनुषि मीने च स्थिते सप्ततुरङ्गमे।  
 क्षौरोद्वाहं न कुर्व्वीत गृहकर्म्म विवर्ज्जयेत्॥  
 माघ एव यदा माघी सिंहे चैव यदा गुरुः।  
@@ -8563,8 +7553,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 नाड़िकादिनिरूपणमिति।
 
-
-
 तत्र ब्रह्माण्डपुराणम्।
 
 **राका चानुमतिश्चैव पूर्णिमा द्विविधा स्मृता।  
@@ -8591,8 +7579,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 गुरुणा याति संयोगं सा तिथिर्महती स्मृता॥**
 
 माससंज्ञम् ऋक्षं चित्राविशाखाज्येष्ठादयः, तेषु नक्षत्रेषु सम्पूर्ण-
-
-
 
 मण्डलश्चन्द्रः पूर्णिमायां भवति, तेन तस्यान्तिथौयद्येकस्मिन्नक्षत्रे माससमानसंज्ञके गुरुचन्द्रयोगो भवति तदा महाचैत्री महावैशाखी महाज्यैष्ठीत्यादिका द्वादश पौर्णमास्यो भवन्तीत्यर्थः।
 
@@ -8625,8 +7611,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **"चन्द्रमा एकऋक्षञ्च देवाचार्य्यस्तथैव च।  
 वसन्ति द्वादशाव्दान्ते तन्महत्त्वं तिथेः स्मृतम्॥”**
 
-
-
 ऋक्षपदं माससंज्ञकज्येष्ठादिनक्षत्रपरम्। माससज्ञकवचनेनैक वाक्यत्वात् तिथिपदञ्च पौर्णमासीपरं,तिथिनक्षत्रमात्रेपरत्वेद्वादशाव्दान्तात् इति विरोधात्। प्रतिमासं तस्याभावात् न च द्वादशाव्दान्तेऽप्यवश्यम्भावः, किन्तु ततः प्राङ्नभवतीति तस्यार्थः। तदेव द्वादशपौर्णमासीनामेव महत्त्वम्। गुरुचन्द्रयोर्माससंज्ञकनक्षत्रावस्थितौ भवतीत्युक्तम्। सौराणान्तु मासानान्नात्र विवक्षितत्वं वचनैरनुपादानात् महामाध्यादिषु वा सम्भवात्। महाज्यैष्ठ्यान्तु विशेषः।
 
 **"ऐन्द्रे गुरुः शशी चैव प्राजापत्ये रविस्तथा।  
@@ -8645,8 +7629,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 पूर्णिमा गुरुवारेण महाज्यैष्ठी प्रकीर्त्तिता॥  
 ऐन्द्रे शशी सुराचार्य्यश्चन्द्रे धातरि वा रविः।  
 पूर्णिमा ज्यैष्ठमासस्य महाज्यैष्ठी प्रकीर्त्तिता॥"**
-
-
 
 सौम्यचन्द्रपदाभ्यां मृगशिरो भण्यते। धाता तु रोहिणी, चन्द्रे धातरि वा रविरित्थमवक्लृप्तिदर्शने वृषादित्यमात्रं फलभूयस्त्वप्रयोजकं ब्रूते, महत्त्वन्तु ज्येष्ठानक्षत्रे गुरुचन्द्रयोरवस्थानमात्रेणैव, प्राजापत्ये रविस्तथेति च ततोऽपि फलातिरेकार्थम्, अन्यथा महाज्यैष्ठया बहुतरं लक्षणं स्यात्। यदपि पठन्ति।
 
@@ -8669,8 +7651,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **"ऐन्द्रे शशी सुराचार्य्योवृषे अग्नेऽथवा रवौ।  
 पूर्णिमा गुरुवारेण महाज्यैष्ठी प्रकीर्त्तिता॥"**
 
-
-
 अग्ने मिथुने, तेनार्द्रास्थेऽपि रवौ प्रसक्तिः। तन्निराकरणार्थं पञ्चदशकपर्य्यन्ते भवति, न षोड़शक इति तात्पर्य्यम्, ज्येष्ठात आर्द्रायाः षोड़शकत्वात्। न तु चतुर्द्दशकस्य रोहिणीनक्षत्रस्यापि निव्वृत्तिः, तस्य विधानात्। यानि तु वचनानि।
 
 **“ऐन्द्रे मैत्रे यदा जीवस्तत्पञ्चदशके रविः।  
@@ -8681,8 +7661,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 ऐन्द्रे शशी महाज्यैष्ठी वृषे युग्मेऽथवा रवौ॥"**
 
 ऐन्द्रे मैत्रे च गुरौ यदि महाज्यैष्ठी स्यात् तदा तत्पञ्चदशकविशेषणादनुराधास्थे जीवे रोहिण्यामेव रवौ न मृगशिरसि, ज्येष्ठायाञ्च गुरौ मृगशिरस्येव रवौ न रोहिण्यामिति स्यात्, एतच्च प्राजापत्ये रविस्तथेति सर्व्वसम्मतवराहवचनं विरुद्धम्। तस्मात्तत्पञ्चदशके रविरित्यनेनैवाकुलितत्वात् मूलस्य चानुपलम्भात् द्वादशभिर्वचनैः ऐन्द्रस्थ एव गुरौ महाज्यैष्ठीप्रतिपादनात् महाज्यैष्ठीलक्षणस्य च भेदापत्तेः तस्य चान्यायत्वान्निबन्धुभिश्चालिखितत्वात् पौर्ण्यमास्यन्तरेषु च माससंज्ञकनक्षत्र एव गुरुचन्द्रयोर्मेलकेन महत्त्वदर्शनादत्रापि तथा त्वस्यैव युक्तत्वादित्यनाकराणि। यदि पुनःमैत्रवचनान्याकरस्थान्येव तदा नास्ति वचनस्यातिभार इति न्यायात् सर्वं पूर्व्वोक्तं दूषणमदूषणमेव, किन्तु गुरुवारस्तदा न योज्यः। यच्चापरं वचनम्।
-
-
 
 **मेषपृष्ठे यदा सौरिः सिंहे च गुरुचन्द्रमाः।  
 भास्करे श्रवणामध्ये महामाघीति सा स्मृता॥**
@@ -8712,8 +7690,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“तत्रैव चन्द्रमाश्चैव देवाचार्य्यस्तथैव च।**
 
-
-
 **वसति द्वादशाव्दान्ते तन्महत्त्वं तिथेः स्मृतम्॥  
 तिथावस्यान्तु यत्पुण्यं तीर्थेष्वायतनेषु च।  
 तद्द्वादशगुणं कृत्स्नमृषिभिः परिकीर्त्तितम्॥”**
@@ -8741,8 +7717,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“हेमन्तशिशिरयोश्चतुर्णामपरपक्षाणामष्टमीष्वष्टकाः।”**
 
 हेमन्तशिशिरयोरित्यभिधानात् सौरमासाश्रयणेनाष्टकाःकार्य्याः। यच्च चतुरष्टको हेमन्त इति वचनम्, तत्र तु संवत्सर इति
-
-
 
 पक्षावलम्बनेन शिशिरस्थापि हेमन्तपदवाच्यत्वात्।
 
@@ -8776,8 +7750,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **"संक्रान्ते भास्करे कन्यां कृष्णपक्षे विशिष्यते।  
 अष्टमी साष्टका कार्य्याशाकेनापि न हापयेत्॥ "**
 
-
-
 तथा।
 
 **“अष्टकान्यपि तत्रैव पक्षे वै पञ्चमी स्मृता।" इति।**
@@ -8809,8 +7781,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 देवीपुराणे।
 
-
-
 **“अमा नाम रवे रश्मिः सूर्य्यलोके प्रतिष्ठिता।  
 तस्मात् सोमो वसेत्तस्याममावासी ततः स्मृता॥”**
 
@@ -8832,8 +7802,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अमावास्यायां चन्द्रस्यादृष्टत्वात् दृष्टचन्द्रत्वञ्चतुर्द्दशीक्षणे भवति, तेन तद्दिवसीयामावास्येत्यर्थः। ननु या परा सा अमावास्येति श्रुतिः, पराभूताया ग्रहणमाह। 'सिनोबाली सदा पित्र्य'
 
-
-
 इति च पूर्व्वग्रहणम्। प्रचेतसा वृद्धिह्रासादिना व्यवस्थेत्युक्तेऽपि परस्परविरोध उच्यते। श्रुत्या तावन्नविरोधः। न हि सा श्राद्धे ग्राह्या परेत्याह। तेन देवकार्य्यविषयत्वं श्रुतेर्भविष्यति।
 
 तथा।
@@ -8853,8 +7821,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
   अतएव छन्दोगपरिशिष्टे कात्यायनः।
 
 **“वर्द्धमानाममावास्यां लक्षयेदपरेऽहनि।**
-
-
 
 **यामांस्त्रीनधिकान्नापि पितृयज्ञस्ततो भवेत्॥  
 पक्षादावेव कुर्व्वीत सदा पक्षादिकञ्चरुम्।  
@@ -8888,8 +7854,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अपरदिने अपराह्णे यद्यमावास्याया अभावस्तदा पूर्व्वदिनामावास्यापराह्ण एव पिण्डादिक्रिया। शङ्खधरलिखितमेतद्वचनद्वयम्।
 
-
-
 एतदाह गोभिलः।
 
 **“यदहस्त्वेव चन्द्रमा न दृश्येत ताममावास्यां कुर्व्वीत,  
@@ -8915,8 +7879,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“द्वे पौर्णमास्यौ द्वे अमावास्ये।” इति।**
 
 प्रतिपदप्यमावास्यैव, तेन तदपराह्णे कर्त्तव्यमेतत् साग्नेरेव।
-
-
 
 तथाहि श्रुतिः।
 
@@ -8944,8 +7906,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“अरुणोदयवेलायाममावास्या यदा भवेत्।**
 
-
-
 **स कालः परमो ज्ञेयः पितृृणान्दत्तमक्षयम्॥”**
 
 उदयवेलोद्गमनवेला उद्गमनञ्चोर्द्ध्वगमनं वर्द्धमानता सा चार्द्धदिनपर्य्यन्तम्।
@@ -8971,8 +7931,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 दानं पितॄन् समुद्दिश्य विप्रेभ्यो दद्यात् पितृभ्यः प्रयतो मनुष्य
 
-
-
 इत्यादौ प्रयोगात्। अत्रापि 'मुहूर्त्त'पदेन घटिकोपादानम्। 'पर्व्वशेषस्तु पर्व्ववदिति' तदुभयदिनेऽप्यपराह्णाप्राप्तौ साग्नेः प्रतिपद्यपराह्णे श्राद्धविधानं, प्रतिपदो दर्शरूपत्वादपराह्णे च पिण्डपितृयज्ञविधानात्। अतो मुहूर्त्तमपीति घटिकैकापीति। 'आदित्यस्योदय इति' 'अरुणोदयवेलाया'मित्यादिवचनजातविरोधात्।
 
 **“प्रतिपत्सु त्वमावास्या पूर्व्वाह्णव्यापिनी यदि।  
@@ -8993,8 +7951,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 सन्ध्ययोरुभयोश्चैव सूर्य्ये चैवाचिरोदिते॥”**
 
 अचिरोदितसूर्य्ये निषेधादित्यन्तं, तदसङ्गतम्। न ह्ययन्निषेधः कलञ्जभक्षणादिष्विव रागतः प्रवृत्त्यभावात्, तत्काले क्रियमाणस्य समीहितसाधनतानवगतेः। विधितस्त्वपराह्णादिष्वेव नियतत्वात्, प्रातरादिकाले प्रसक्त्यभावात्। तस्मादपराह्णादिवि-
-
-
 
 शेषोऽयं चतुष्टयनिन्दानुवादः। पूर्व्वोक्तवचनजातपर्य्यालोचनया वाग्निहोत्रिण एवापराह्णविधेर्नाग्नेरिति; तस्य निषेधोऽनुवादः। किञ्च स्वायत्तेऽपराह्णपदप्रयोगे कर्त्तव्ये 'आदित्यस्योदयेत्यादि' अर्थान्तरवाचकप्रयोगो मुनीनां केन हेतुनेति न विद्मः। किञ्च द्विखण्डतिथौ तावदिदं वचनम्।
 
@@ -9018,8 +7974,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 इन्टुक्षये मासि मासि प्रायश्चित्तीयते तु सः॥  
 मासि मास्यसिते पक्षे पञ्चदश्यान्नरेश्वर।  
 अष्टकासु कुर्व्वीत काम्यानन्यान् शृणुष्व मे॥”**
-
-
 
 दैवन्तु तिथिनिर्णय एवोक्तं, अपरास्त्वमावास्यायां विशेषाः।
 
@@ -9052,8 +8006,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  माघासिते पञ्चदशी कदाचि-
 
-
-
 **दुपैति योगं यदि वारुणेन।  
 ऋक्षेण कालः स परः पितृृणा-  
 मत्यल्पपुण्यैर्नृप लभ्यतेऽसौ॥  
@@ -9074,8 +8026,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 मेषे रविः स्याद्यदि शुक्लपक्षे।  
 पाशाभिधाना करभेण युक्ता  
 तिथिर्व्यतीपात इतीह योगः॥"**
-
-
 
 अयन्तु द्वादशीव्यतीपातः। योग्लौकेन तु स्वल्पवृहद्ग्रन्थभेदेन द्वयमेवोक्तम्, बलाबलनिरूपणाक्षमत्वात्। नक्षत्रयोगे वर्त्तमान एव तन्निमित्ता क्रिया कार्य्या।
 
@@ -9100,8 +8050,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अपराह्णे यदा रात्रौ तदहर्नियमं विदुः॥**
 
 अत्र हि पूर्व्वाह्णपदेनाह्नः पूर्व्वार्द्धस्य ग्रहणम्, अपराह्णपदेन चापरार्द्धस्य, अन्यथा मध्यन्दिने स्वापप्रबोधयोः तन्निमित्तक्रियाकालो नाभिहितः स्यात्। न च पूर्व्वाह्णापराह्णपदयोरन्यतरन्मध्याह्नोपलक्षणमिति वाच्यं विनिगमनाकारणाभावादनुष्ठानानध्यवसायापत्तेः। रात्रौ तु स्वापादिषु रात्रावुदयमापन्न इत्यनेनैवोदय-
-
-
 
 मुपलक्षणोकृत्य रात्रिकालस्य निर्द्दिष्टव्रते तथा विनिगमः। 'पूर्वाह्णे चेदमावास्या नापराह्णे भवेद्यदी'त्यत्रापि कारणद्वयं निर्द्दिष्टम्। तथा 'प्रतिपत्सु त्वमावास्या पूर्व्वाह्णव्यापिनी यदी'त्येतदपि पूर्व्वाह्णे व्याप्तिमपराह्णे व्याप्तिञ्च वददह्नो द्विधैव विभागं दर्शयति। अन्यथा 'मध्याह्नव्यापिनी'त्युक्तं स्यात्।
 
@@ -9128,8 +8076,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 रौहिणं नवमघटिका। तत्पर्य्युदासात् प्रहरद्वयादूर्द्धमपराह्ण
 
-
-
 इति ज्ञापयति। अतएवोक्तं जितेन्द्रियेण,—“पूर्व्वापराह्णौ च यद्यपि विष्णुपुराणादिषु नाड़ित्रयं पूर्व्वापराह्णश्च तावानित्यक्तम्। तथापि पूर्व्वाह्णकृत्यस्य मध्याह्नं यावत् स्वकाललाघव एव च। अपराह्णस्य च मध्याह्नापराह्णानन्तरं प्रवृत्तस्य सूर्य्याानुवृत्तिं यावदिति तत् प्रत्येतव्यम्। श्रुतौ स्मृतौ च पूर्व्वापराह्णाभ्यामपि दिनविभागादित्यन्तम्। तस्माद्रात्रेः पूर्व्वापरार्द्धारात्रविभागवदह्नोऽपि पूर्व्वापराह्णविभागेनैव द्विधा विभागः। यत्तु क्वचित्त्रिधा विधानं तत् पूर्व्वापराह्णयोरेकैकदेशाभ्यां मध्यन्दिनं पृथक्कृत्यैकोद्दिष्टादिश्राद्धविधानार्थम्।
 
 **“पूर्व्वाह्णे दैविकं कार्य्यमपराह्णे तु पैतृकम्।  
@@ -9146,8 +8092,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 सङ्गवस्त्रिमुहूर्त्तस्तु मध्याह्नस्तत्समः स्मृतः।  
 ततस्त्रयो मुहूर्त्ताश्च अपराह्णः प्रकीर्त्त्यते॥  
 पञ्चमोऽथ दिनांशो यः स मायाह्न इति स्मृतः।**
-
-
 
 **यद्यदेतेषु विहितं तत्तत्कार्य्यं विजानता॥”**
 
@@ -9168,8 +8112,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अमावास्या क्षीयमाणा तदैव श्राद्धमिष्यते॥”**
 
 तृतीयांशोऽपराह्णः सायाह्नसहितोऽन्यथा अपराह्णे श्राद्धविधौ समीपपर्य्युदासो न स्यात्। तदा च दिवसस्य चतुर्थप्रहरञ्चतुर्द्दशी अनुपूरयेत्सम्यक् पूरयेदित्यमावास्यापरदिने क्षयगामितया व्यतीपातापरनामापराह्णांशं न व्याप्नोति तदा परस्मिन्नहनि श्राद्धमिष्यते। कर्त्तव्यतया चतुर्थे प्रहरे अमावास्याप्राप्तावपि न चतुर्थयामम् अनु पश्चात् तृतीयं यामं पूरयेद्यदोति योग्लौ-
-
-
 
 कीयव्याख्यानमादरणीयम्। श्रुतहान्यश्रुतकल्पनापत्तेः तुरीयमिति कर्म्मतया अवगम्यमानं परिहाय द्वितीयां कर्म्मप्रवचनीययोगेनोपपदविभक्तितया वर्णयित्वा कर्म्मतया द्वितीयस्याध्याहारात्। अनुपूरणञ्चासम्यक् पूरणं लोकप्रसिद्धम्।
 
@@ -9193,8 +8135,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 मुहूर्त्तद्वयार्थं यामैकभागेनाष्टधा विभक्तस्याह्नोऽष्टमभागो दिनार्द्धप्रहरः। यदभिप्राययुक्तमष्टमे लोकयात्रा वहिः सन्ध्या ततः पुनरिति पूर्व्ववचनेन चतुर्थप्रहरप्राप्तिमात्र एव निषिध्यते। पुनरष्टमभागे निषेधानुपपत्तिः ततश्चोत्तरोत्तरजघन्यार्थं वचनम्। अतएवाष्टम इत्यभिधाय पुनर्मन्दीभूत इति विशेषणादतिसन्ध्यासमीपस्यैव निषेधः।
 
 तथाच।
-
-
 
 **“वनस्पतिं गते सोमे च्छाया या पूर्व्वगामिणी।  
 गजच्छाया तु सा प्रोक्ता पितॄणां दत्तमक्षयम्॥  
@@ -9230,8 +8170,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^352]: "शालकटः स्मृत इति कालमाधवीये पाठः।"
 
-
-
 **सावित्रो विजयश्चैव[^353] गान्धर्व्वः कुतपस्तथा॥  
 रौहिणेयो विरिञ्चिश्च जयोऽथ[^354] नैर्ऋतस्तथा।  
 महेन्द्रो वारुणश्चैव भटः पञ्चदश स्मृताः॥”**
@@ -9241,8 +8179,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^354]: "विजयो नैर्ऋतस्तथा कालमाधवीये पाठः।"
 
 एतान् मत्स्यपुराणोक्तानेकैकमुहूर्त्तपरिमितान् यावन्नियतक्रमसंज्ञानभिधाय दर्शितम्। ये रौद्रादयो भटान्ताः पञ्चदश मुहूर्त्तास्तत्र रौद्रादिरोहिणेयान्ताः पूर्व्वाह्णसाध्यदेवकार्य्याय विहिताः। विरिञ्चिप्रभृतयश्च भटान्ताः पितृक्रियायाम्। तत्रापि पार्व्वणपिण्डान्वाहार्य्यादिषु विरिञ्चिजनैर्ऋतमपराह्णव्यतीपातापरनामकं प्रशस्तम्। यमधिकृत्यामावास्यायामपराह्णे पिण्डपितृयज्ञेनाचरन्तीत्यादिश्रुतिस्मृतयः। यस्तु माहेन्द्रवारुणभटत्रिमुहूर्त्तारब्धः सायाह्नः सोऽपराह्णसम्भवे सति निन्दितः पितृकृत्य इत्यन्तम्। अत्र तु यत् जितेन्द्रियेणोक्तम् रौहिणेयोऽपि पूर्व्वाह्णकार्य्यविहित इति तत्परं नानुमन्यामहे। दिनस्य द्विधा त्रिधा पञ्चधा दशधा भागेषु रौहिणस्य पूर्व्वाह्णेऽनुप्रविष्टत्वात्। अतएव रात्रौ श्राद्धं न कुर्व्वीत इत्यनेन रात्रिसन्ध्ययोरेकान्तपर्य्युदासः। अन्यथापराह्णविधिना सायाह्नादेः पर्य्युदस्तत्वाद्रविरित्यनर्थकं स्यात्। ततश्च सायाह्नस्य नातिनिन्दितत्वम्, किन्तु व्यतीपातनाम्नः सकाशात् रात्रिसन्ध्ययोस्तु सर्व्वथैवेति विशेषः। तथान्धुकेनापि परमार्थतस्तु त्रिधा दिवसं विभज्य यः
-
-
 
 पूर्व्वो भागः स पूर्व्वाह्णो मध्यो मध्याह्नोऽन्योऽपराह्ण इत्यभिधाय उक्तमपराह्णस्य पूर्व्वभागे श्राद्धकरणे शक्तौ सत्यां परभागस्य निन्दितत्वम्। प्रमादादिना तु तत्राकरणे परभागेऽप्यदोष इत्यर्थः। एकोद्दिष्टन्तु मध्याह्न इत्युक्तम् स च गान्धर्व्वकुतपरौहिणेयैस्त्रिभिस्तत्रापि रौहिणेयस्य प्राशस्त्यम्।
 
@@ -9274,8 +8210,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अत्रैव याज्ञवल्क्यः।
 
-
-
 **“मृताहनि तु कर्त्तव्यं प्रतिमासन्तु वत्सरम्।  
 प्रतिसंवत्सरञ्चैवमाद्यमेकादशेऽहनि॥”**
 
@@ -9305,8 +8239,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“एकोद्दिष्टन्तु यच्छ्राद्धं पक्वान्नेनैव कारयेत्।  
 पार्व्वणे वाथ संप्राप्ते शृतं वा यदि वाशृतम्॥”**
 
-
-
 शृतं पक्कम्। शृताशृतयोः पार्व्वणे विकल्पः। एतच्च साग्नेः। निरग्नेस्त्वाह शातातपः।
 
 **“आमश्राद्धप्रदोऽनग्निः सर्व्वत्रैव मनीषिणः।  
@@ -9324,8 +8256,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 ननु शूद्रस्यामपात्रक्रियाकृतो न पूर्व्वाह्णे। एकोद्दिष्टन्तु मध्याह्ने इत्यस्य बाधापत्तेरिति चेन्न, द्विजानामप्यविशेषात् दृश्यते। विधिद्वयं तावच्छ्रूयते। तत्र सिद्धान्नेन क्रियायान्तावत् एकोद्दिष्टन्तु मध्याह्ने इति निर्व्विवादम्। नैमित्तिकन्तु आमपात्रं द्विजानां विहितम्। तत्र एकोद्दिष्टन्तु मध्याह्ने इति न प्रवर्त्तते। पूर्व्वाह्णविधेर्निर्विषयत्वापत्तेः। शूद्रविषयत्वमस्यास्त्विति चेन्न, मध्याह्नविधेरनित्यवत्सिद्धान्नविधिना नैमित्तिकामपात्रविधिना चैकवाक्यत्वे वैरुप्यापत्तेश्च। पूर्व्वाह्णेऽधिकृतशूद्रविषयामपात्रविधेर्नैमित्तिकेन द्विजसम्बन्ध्यामपात्रविधिना चैकवाक्यत्वे तदेव दूषणम्। तस्मात् पूर्व्वाह्णविधेर्नैमित्तिकद्विजसम्बन्ध्यामपात्र-
 
-
-
 गोचरो मध्याह्नविधिस्तु शूद्रस्यापीति सिद्धम्। किञ्चामं शूद्रस्य पक्वान्नमिति पक्वान्नधर्म्मतया विहितत्वात्। पक्वान्नेन च मध्याह्नविधानात् शूद्रस्यापि तथैव युक्तम्। ननु यस्मिन् राशिगते भानाविति विरुद्धम्।
 
 **“आव्दिके पितृकृत्ये च चान्द्रमानं प्रशस्यते”**
@@ -9338,8 +8268,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **जन्मोदये जन्मनि वासरे वा  
 मासे तथा जन्मनि जन्मभे वा।**
-
-
 
 **अल्पाल्पविद्योऽपि नरः सभायां  
 प्रख्यातविद्यो भवति व्रतेन॥**
@@ -9362,8 +8290,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^356]: "शतेन इति स्मार्त्तादिग्रन्थे पाठः।"
 
-
-
 भक्षणनिषेधो न पुनस्तन्निवर्त्तयति किन्तर्हि भक्षणप्रवृत्तिमात्रमधिकारिविशेषणं यदा यदा भवति तदा तदैव निषेधविधिरपि तन्निवारयति। तद्वदत्रापि कालविशेषावच्छिन्नमांसभक्षणमपि प्रवृत्तिमात्रनिमित्तस्याधिकारेण विशेषणत्वात् तत्कालपर्य्यन्तमेव निषिद्धं निवारयति। नैमित्तिके तु श्राद्धादिविधौ अमावास्याविशिष्टजीवनस्याधिकारिविशेषणस्यैकवाक्यत्वात्। सकृत्करणेनैव शास्त्रस्य सफलत्वान्नैकामावास्यायामेव पुनः पुनः क्रियार्थविधेर्गौरवापत्तेः। न हि तत्र सकृत्करणमेव शास्त्रं विना सिध्यति। अमावास्याभेदे तु पुनस्तदवच्छिन्नजीवनभेदादधिकारव्यावृत्त्या शास्त्रार्थोऽप्यावर्त्तते। अत्र तु यद्यमावास्यानिषेधं विनापि तत्प्राप्तेः न ह्यमावास्यायां मांसभक्षणक्षणात् प्रभृति तदन्तपर्य्यन्तं भक्षयति, ततश्च भक्षणेतरकाले निवृत्तिः, अप्रवृत्तस्य प्रवृत्त्युपपत्तेः।[^357] सत्यं प्रवृत्युपाधिना प्रागभाव एव[^358]। साध्यमाना निवृत्तिरुच्यते, न तु प्रवृत्तिरपि साध्यतयोपदिश्यते, तद्वत एवाधिकारात्। अतः प्रागभाव एव कालान्तरतया साध्यभावेनोपदिश्यते[^359]। स चाप्रवृत्तस्यापि भक्षणकारणमननुतिष्ठतः सिध्यत्यवच्छिन्नतया जीवनमिव प्रवृत्तिरपेतकामेवाधिकारिविशेषणं तथापि तन्निमित्तासकृत्-
 
 [^357]: "निवृत्त्यनुपपत्तेरिति स्मार्तसम्मतपाठः।"
@@ -9371,8 +8297,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^358]: "प्रवृत्त्युपाधिना विनाशं प्राप्स्यन् प्रागभाव एव स्वनिवृत्तिनिराकरणादिति अधिकम् एकादशीतत्त्वे स्मार्तेन लिखितम्।"
 
 [^359]: "कालान्तरसम्बन्धितया साध्यत्वेनोपदिश्यते इति च तत्र तेन लिखितम्।"
-
-
 
 क्रियात्रेति सकृत्क्रियापर्य्यवसायित्वे विफलो विधिः। तस्मात् विधिनिषेधेष्वधिकारिविशेषणीभूतायाः प्रवृत्तेर्यावत्कालमनुवृत्तिः तावत्कालमनुवृत्तौ साफल्यं[^360] न पुनर्निमित्तान्तरवत् सकृदनुष्ठानेनैव शास्त्रार्थसम्पत्तिः। ततश्च कृत्स्नामावास्यायामेव निषेध इति नास्त्यपेक्षा। कस्मिन्नमावास्याक्षणे निषेधोऽनुमन्यताम्। नात्र युग्मविधिः। तन्न्यायमूलमेव व्याख्यातृवचनम्।
 
@@ -9387,11 +8311,7 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 तत्र तैलपदेन विधौ वा निषेधे वा तिलभवं तैलम् इति योगेन तिलभव एव स्नेहविशेषोऽभिधीयते न तु सर्षपादि, समुदायशक्तिकल्पनानुपपत्तेः। वीजप्रभवस्नेहसामान्याभिधानं हि तदा वाच्यम्। न च सामान्येन योगः सम्भवति, अतएव यौगिकैः शब्दैर्व्यक्तिरेवाभिधीयते। व्यक्तयश्च नानाजातीयवीजसम्भवाः परस्परं भिद्यन्ते। न चैकव्यक्तियोगेऽत्यन्तायोगव्यावृत्त्या
 
-
-
 व्यक्त्यन्तरेऽपि यौगिकत्वम्। रथकारपदस्याप्येकस्यामेव व्यक्तौ योगेन सर्व्वत्र यौगिकापत्तेः। ननु तैलपदस्य यौगिकत्वे मोदकादिष्वपि प्रयोगः स्यात्। स्नेहत्वमुपाधेरिति चेन्न, उपाधिकल्पना चेद्वरं समुदायशक्तिरेव कल्प्यतां, वीजप्रभवस्नेहमात्रे प्रयोगदर्शनात्। उच्चते, रूढ़िवादिनापि वीजप्रभवत्वस्योपाधेरेव स्यात्। अन्यथा प्राणिभवस्नेहेऽपि प्रयोगापत्तेः। अतोऽत्र यौगिकत्वमेव उपाधितो युक्तं नः रूढ़िः। न च वीजप्रभवमात्रेऽपि निरुपपदतैलप्रयोगः। करञ्जैरण्डतैलादिष्वपि दर्शनात्। सार्षपेऽस्तीति चेन्न, तथाप्युभयत्रार्थगतैकरूपाभावात् अनेकार्थतापत्तेः। योगस्तु तिलसम्भवस्नेहस्थाने प्रचुरसादृश्यात् सार्षपेऽपि प्रयोगो वर्णनीयः। सोपपदप्रयोगस्य च प्राणिभवस्नेहेऽपि गोतैलं शिशुमारतैलमिल्लिशस्य तैलमित्यादिषु दर्शनाददुग्धसम्भवस्नेहसामान्यवचनत्वमेव कुतो नाङ्गीक्रियते? किञ्च नारिकेलादिवीजसम्भवेऽपि स्नेहे तैलशब्दो न प्रयुज्यते। किन्तु नारिकेलस्य घृतमिति कथं वीजसम्भवस्नेहवचनताश्रयणम्? किञ्च तैलपदस्य योगानपेक्षस्य सर्षपादिष्वपि मुख्यत्वे सर्षपस्य तैलं सर्षपतैलमिति सिद्धे, यदेतत्सिद्ध्यर्थं स्नेहतैलमिति वक्तव्यं कात्यायनस्य तदनर्थकं स्यात्। यौगिकत्वे सार्षपतैलमिति कलायस्य भक्तशरावमितिवद्विरोधात्तदर्थं तैलवत्प्रत्ययार्थशासनमुपपन्नम्। तेन सार्षपतैलमित्यस्य पदस्य तैलेन च प्रत्ययान्तस्यैकदेशस्तैलशब्दः सर्षपादिस्नेहेषु एकदेशिलक्षणया प्रयुज्यते। उरूकं मन्यमाना च निष्टमानाविष्टेत्यत्र कशब्दोऽनवकाशलक्षणा
-
-
 
 न तु तिलभवं तैलमिति यत् साधितं तदेव वा गौणम्। तस्मात् सर्व्वत्र तैलविधौ निषेधे च तिलभवः स्नेहस्तैलपदेनोपादेयः, तस्याप्यपक्वस्यैव निषेधः।
 
@@ -9419,8 +8339,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 जीमूतवाहनकृतः कालविवेकः परं जयति॥**
 
 **\_\_\_\_\_\_**
-
-
 
 **अथ संक्रान्तिनिरूपणम्।**
 
@@ -9450,8 +8368,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तथा ज्योतिःशास्त्रे।
 
 **“अयने कोटिपुण्यन्तु लक्षं विष्णुपदीफलम्।**
-
-
 
 **षड़शीतिसहस्राणि षड़शीत्यां स्मृतं बुधैः॥”**
 
@@ -9483,8 +8399,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 तस्य सूक्ष्मसंक्रान्तिकालस्य पूर्व्वाः षोड़श पराः षोड़श कर्म्मार्थमित्यर्थः। इदं सामान्येन संक्रान्तौ उक्तं, विशेषेण पुनराहतुस्तावेव।
 
-
-
 **त्रिंशत्कर्कटके नाड्यो मकरे विंशतिः स्मृताः।  
 वर्त्तमाने तुलामेषे नाड्यस्तूभयतो दश॥  
 षड़शीत्यामतीतायामष्टिरुक्ताश्च नाड़िकाः।  
@@ -9509,15 +8423,11 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **भविष्यत्ययने पुण्यं त्रिंशदेव तु दक्षिणे।  
 अतीते उत्तरे नाड्य इति प्राहुः पुराविदः।**
 
-
-
 **षड़शीत्यामतीतायामष्टिनाड्यस्तु नाड़िकाः॥**
 
 अष्टिः षोड़शपर्य्यायः। अत्र दक्षिणायने भविष्यत्त्रिंशन्नाड़ीनां वृत्ते चोत्तरायणे नाड्य इति विंशतिनाड़ीनामेव विशेषविधानात्त्रिंशन्नाड़ीसाहचर्य्यावगतानां व्यवस्थापितत्वात् उभयत इत्यनुषङ्गेष्ववगताविरोधः। किञ्चासम्भवोऽप्युभयतः त्रिंशद्विंशतिनाड़ीनां पुण्यतमत्वस्य रात्रिकालस्यासम्भवात् दक्षिणायनदिनस्य सम्भवात् दक्षिणायनदिनस्य चतुस्त्रिंशत्पलोयपलाधिकत्रयस्त्रिंशद्दण्डाः, उत्तरायणदिनस्य च षड्विंशतिपलाधिकषड़विंशदण्डाः। न च दिनान्तरापेक्षसम्भव इति वाच्यं, पूर्व्वापरार्द्धरात्रद्वयक्रोड़ीकृतकाले संक्रमणस्य दिनैकमात्रपूज्यत्वात् सम्पूर्णार्द्धरात्रसंक्रमणे दिनद्वयस्य पूज्यत्वेऽपि मुक्त्वा मकरकर्कटावित्यनयोः पर्य्युदस्तत्वात्। एतदतिरिक्तविषयन्तत्, तस्मादुभय इत्यस्य सर्व्वत्रानुषङ्ग इति दीक्षितवचनस्यार्थं न विद्मः। ननु दक्षिणायनात् पूर्व्वं त्रिंशन्नाड़ीनाम् उत्तरायणाच्च परतः विंशतिनाड़ीनाम् अप्राप्तौ पुण्यता कथं वचनाधीनत्वादस्याः संख्यावच्छिन्नविषयत्वाद्वचनस्य। उच्यते, अवध्यर्थत्वाद्वचनस्य तावत्संख्यनाड़ीपर्य्यन्तं पुण्यतमत्वं वदता तत् क्रोड़ीकृतानां यथासम्भवं सर्व्वासामेव उक्तमिति न विरोधः। उत्तरायणवच्च षड़शीत्यामपि वृत्तायां पुण्यत्वाभिधानात् पूर्व्वार्द्धरात्रसंक्रमणेऽपि परमेव दिनं ग्राह्यम्। अतीतया पुण्यत्वस्य हेतोरविशेषात् दिनद्वयविधिस्तु विष्णुपद्यां विषुवद्वये च व्यवतिष्ठते।
 
 **पुण्याख्यविष्णुपद्यां च प्राक् पश्चादपि षोड़श।**
-
-
 
 तथा।
 
@@ -9536,8 +8446,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 पूर्व्वस्मात् परतो वापि प्रत्यासत्तेस्तु तत्फलम्॥”**
 
 पूर्व्वार्द्धेन दिवाकालस्य विहितत्वात् उभयतो दशषोड़शादिविधानं दिनसम्बन्धिनि व्यवतिष्ठते। अर्द्धरात्रात्तु पूर्व्वसंक्रमणस्य
-
-
 
 पूर्व्वस्मादह्नः प्रत्यासन्नत्वात्परसंक्रमणस्य च परस्मादासन्नत्वात् पूर्व्वदिने परदिने व्यवस्थामात्रम्। यथा मध्याह्नस्योपरिक्रिया उदयात्प्रहरद्वयमिति वचनद्वयम्।
 
@@ -9560,8 +8468,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अनेन कृत्स्नस्याह्नःपुण्यत्वाभिधानात् नैतत्तदहरिति परदिननिवृत्त्या पूर्व्वदिनस्य पुण्यतामात्रार्थमेतन्न तु कृत्स्नपरमपि गौरवापत्तेः। मध्याह्नस्योपरिक्रियाविधिविरोधाच्च विषुवायनाभिप्रायञ्चेति वक्ष्यामः। ननु कथं मध्याह्नस्योपरिक्रिया।
 
-
-
 तथाहि ज्योतिःशास्त्रम्।
 
 **“पूर्व्वोत्तरगते भागे रात्रौ संक्रमणं भवेत्।  
@@ -9582,8 +8488,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 न च पञ्चनाड़ीष्वपि प्रत्यासत्तिविशेषेण फलविशेष इति वाच्यम्। मध्याह्नस्योपरिकालस्य पञ्चनाड़ीनाञ्च पुण्यत्वपुण्यतमत्वविधिमूलेनोपपत्तौ मूलान्तरकल्पनानुपपत्तेः। सर्व्वसंक्रान्तिष्वेव प्रत्यासन्नपञ्चनाड़ीनां पुण्यतमत्वं वेदितव्यम्। रात्रिग्रहणमात्रो-
 
-
-
 पलक्षणम्। तेन यत्र यावान् पूर्व्वः परो वा उभयविधौ वा तत्र प्रत्यासन्नपञ्चनाड़ीनां पुण्यतमत्वमित्यर्थः। यच्चाह्नि संक्रमणे पुण्यमहः कृत्स्नमिति तत्संक्रमणमात्रश्रुतिः। सर्व्वसंक्रान्तिष्वेव कृत्स्नमहः पुण्यम्। अहनि संक्रमणात्तु तद्विशेषविहितं कालं विनापि तस्मिन्नहनि कर्म्मणा कृतेनाकरणनिमित्तप्रत्यवायपरीहारो भवति। दानादिकमिति यथोक्तकालादल्पफलमिति तस्यार्थः। विषुवत्ययने दिनमिति च। विषुवायनयोस्तु रात्रावपि संक्रमणे दिनमेव कृत्स्नं पुण्यम्। अन्यथा विषुवायनपदद्वयानर्थक्यापत्तेः। तदेवं त्रिविधः संक्रान्तिकालः पुण्यमहः। पुण्यतरविशेषः विहिता नाड्यः पुण्यतमश्चेत् संक्रान्तिप्रत्यासन्नाः पञ्च नाड़िकाः।
 
 विषुवे विशेषमाह।
@@ -9602,8 +8506,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“उपोष्यैव तु संक्रान्त्यां स्नात्वा योऽर्च्चयते रविम्।  
 प्रातः पञ्चोपचारेण स काम्यं फलमाप्नुयात्॥**
-
-
 
 **अयने विषुवे चैव त्रिरात्रोपोषितो नरः।  
 स्नात्वा यः पूजयेदर्कं स काम्यफलमाप्नुयात्॥”**
@@ -9634,8 +8536,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“विशाखानां यदा सूर्य्यश्चरत्यंशं तृतीयकम्।  
 तदा चन्द्रं विजानीयात्कृत्तिकाशिरसि स्थितम्॥**
 
-
-
 **कृत्तिकानां यदा सूर्य्यः प्रथमांशन्तु गच्छति।  
 विशाखायान्तदा सूर्य्यस्तृतीयांशे निशाकरः॥  
 तदेव विषुवाख्योऽयं कालः पुण्यो विधीयते।  
@@ -9665,8 +8565,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 मेषान्ते सूर्य्ये यदि चन्द्रः तुलान्ते वा सूर्य्ये यदि चन्द्रो मेषान्ते स्यादित्यर्थः।
 
 अथ पुराणे।
-
-
 
 **“मसूरं निम्बपत्राभ्यां पिबेन्मेषगते रवौ।  
 न विषं क्रमते तस्य यावदव्दं न पूर्य्यते॥”**
@@ -9699,8 +8597,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“वैशाखशुक्लस्य तु या तृतीया  
 नवम्यसौ कार्त्तिकशुक्लपक्षे।**
 
-
-
 **नभस्यमासस्य तमिस्रपक्षे  
 त्रयोदशी पञ्चदशी च माघे॥  
 युगादयः स्मृता ह्येता दत्तस्याक्षयकारिकाः।”**
@@ -9714,8 +8610,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 तत्र कश्चिन्मन्यते। न तूत्कर्षो युगादिष्वित्युत्कर्षनिषेधात् सौरएव मासि युगादयः। चान्द्रेषु विहितस्य तद्द्वैधे कर्म्मान्तरस्येवास्याप्युत्कर्षः स्यात्तदयुक्तम्। इतरमर्य्यादयोत्कर्षविधिसम्भवान्न सौरपरिग्रहे प्रमाणमिदं भवितुमर्हति। अतएव प्रतिषेधबलेनैव चान्द्रेषु वैशाखादिषु युगादय इति मन्यते शङ्खधरः। तत्र हि विहितस्य चान्द्रद्वैधे पूर्व्वस्य मलिम्लुचत्वेन कर्म्मान्तरवत् युगादिष्वपि उत्कर्षप्राप्तौ न तूत्कर्षो युगादिष्विति निषेधोपपत्तेः। सौरस्य तु द्वित्वाभावादप्रसक्तप्रतिषेधापत्तेः। तथा माघासिते पञ्चदशी कदाचिदिति सौरफाल्गुने चान्द्रमासस्यामावास्याया युगाद्याया वरुणनक्षत्रयोगेन पुण्यतमत्वाभिधानं चान्द्र एव मासि युगादिरिति ज्ञापयति। तथा प्रौष्ठपद्यादूर्द्ध्वंकृष्णत्रयोदशीति चान्द्रभाद्रस्य कृष्णत्रयोदशी युगादिरित्याह। सा हि प्रायशः कन्यागतएव भवति न चासौ सौर भाद्रश्चान्द्रस्तु भवति तथा वैशाखकार्त्तिकयोः शुक्लपक्षे माघभाद्रयोश्च कृष्णपक्षे युगादिरिति
 
-
-
 वचनमाह। तौ च पक्षौ चान्द्रस्यैव न सौरस्य। स एव कालश्चन्द्रक्षयत्वात् पुण्यो युगादित्वात् पुण्यतरो वारुणनक्षत्रयोगाच्च पुण्यतमः।
 
 यच्च।
@@ -9727,13 +8621,9 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति तदनाकरमित्युक्तम्। तदप्ययुक्तम्। वैशाखादिपदानां सौरमात्रवचनत्वात्तथैव युगादीनां युक्तत्वात्। न चाभाकासितपक्षेष्वित्यत्र गौणचान्द्रग्रहणे यथा कल्पनालाघवादिकारणं तथात्र किमप्यस्ति न च प्रतिषेधानुपपत्तिः। न ह्युपाकर्म्मण उत्कर्षः सौर एव तस्य विधानात्। किन्तु द्विखण्डतिथौ तस्योत्कर्षः पूर्व्वाह्णव्यापिनी तिथिर्गृह्यते दैवत्वादुपाकर्म्मणः। पूर्वाह्णे दैविकं कार्य्यमिति विधानात् बह्वृचानां वाजसनेयिनाञ्चापराह्णविधानाभावात् तथा युगादिषु नोत्कर्ष इत्यर्थः। किन्तु पितृकार्य्यप्रधानत्वात् प्रथमोपनिपातितत्वात्तृतीयायाञ्च द्वितीयायोगेन नवम्याश्चाष्टमीयोगेन मकरस्थामावास्यायाश्चतुर्द्दशीयोगेन पूज्यत्वात् युक्तोऽनुत्कर्षः त्रयोदश्याश्चतुर्द्दशोयोगेनैव पूज्यत्वेऽपि तदितराभिप्रायेणैवापि बहुवचनमुपपन्नमेव। यद्वा उत्कर्षः कालवृद्धौ स्यादित्यभिधाय न तूत्कर्षो युगादिष्वित्युत्कर्षपदस्य पुनः प्रयोगादयं मासान्तरसम्बन्धरूपोत्कर्षनिषेधः। सौर एव विहितत्वादित्यर्थः।
 
-
-
 उपाकर्म्मादिषु तु तिथिवृद्ध्यपेक्षोत्कर्षविधानमित्यविरोधः। अन्यथोत्कर्षपदस्य द्विरुच्चारणमनर्थकं स्यात्। न भवेत्तु युगादिष्विति ब्रूयात्। यत्तु माघासित इति प्रौष्ठपद्यूर्द्ध्वमिति द्वितयमुपन्यस्तम् तदतितुच्छं न ह्येतद्वचनद्वयं तयोर्युगादितामाह किन्तु पुण्यतमतां सा चायुगादित्वेऽप्यविरुद्धैव। पूर्व्वं दशहरास्वनुत्कर्ष इति वचनमनाकरमुक्तं तदप्यनुपयुक्तम्। वैशाखादिपदानां सौराभिधायकत्वेनास्यार्थस्य प्राप्तस्य व्याख्या निबध्यते नापि समूलतया वाचकत्वसम्भवात्। सौरेऽपि च मासे शुक्लकृष्णपक्षव्यपदेशो लोके कृत्स्नसम्बन्धाभावेऽपि दृष्टएवेति न तस्यापि विरोधः। ये तु चान्द्रवाचिनो वैशाखादय इति मन्यन्ते तन्मते दशहरावचनस्यानाकरत्वेन शङ्कितत्वात् न तूत्कर्षो युगादिष्वित्यत्र स्वयमेव चान्द्रे व्युत्पत्त्युपपादितत्वात्। वैशाखकार्त्तिकमाघपदानाञ्च चान्द्रवाचिता भूयसामनुरोधेन नभस्यपदस्यैवैकस्यान्यथावर्णनमुचितम्। न च सौरे निरूढ़लक्षणत्वे मुख्यलाक्षणिकग्रहणसन्देहे नभस्यपदानुरोधेन सौरपरिग्रह इति वाच्यम्। मध्यदेशादौ चान्द्रे मुख्य एव निरूढ़तयास्य स्वयमभिधानात् अतो मुख्यत्वनिरूढ़श्च देशभेदेन साधारण्याच्चान्द्र एव युगादिषूक्तः। अतएव दीक्षितेनैव तदपरितोषेणैव तत्कर्त्तव्यं वृषादित इत्ययमेव पुरस्कृतः। स चानाकरशङ्काव्याकुलितः। तत्कर्त्तव्यं वृषादित इत्यस्य स्थाने माघ्याञ्चैव विशेषतः इत्यपि केचित् पठन्ति।
 
 योग्लौकेन तूक्तम्।
-
-
 
 **“प्रतिसंवत्सरश्राद्धे मासश्चान्द्रमसः स्मृतः।  
 विवाहादौ स्मृतः सौरो यज्ञादौ सावनः स्मृतः॥”**
@@ -9761,8 +8651,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“वैशाखादिपदानां सिद्धे रविमासमात्रवचनत्वे।  
 विद्विषां कथमिह चान्द्रे गौणकलङ्काङ्कितशङ्का॥”**
 
-
-
 यदा तु सौरे वैशाखादौ शुक्लतृतीयादिद्वयम्भवति तदा
 
 **“मासि संवत्सरे चैव तिथिद्वैधं यदा भवेत्।  
@@ -9781,8 +8669,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 वचनात् श्राद्धमनुज्ञातमेव नैतत् युगादौ स्नायात्त्यजेत् जुहुयात् व्रतं कुर्य्यात् सलक्ष्मीकं विष्णुमभ्यर्च्चयेत् श्राद्धं कुर्य्यादिति। तथा स्नानदानादिकं सर्व्वं युगादौ चाक्षयं भवेदिति व्यासः। तथा दत्तस्याक्षयकारिकाः। अनन्तपुण्यास्तिथयश्चतस्र इत्यादिनानाकर्म्मविधानादेषाञ्च मलिम्लुचे निषेधात्। न च श्राद्धं पूर्व्वतिथावेव परतिथौ च स्नानादिकं भविष्यतीति वाच्यं युगादेरधिकसंख्यापत्त्या चतस्र इति बाधापत्तेः। किञ्च सति हि युगादित्वे पूर्व्वत्र श्राद्धक्रिया तस्य स्नानदानादिबहुतरकर्म्मानुरोधेन परतिथेरेव युगादिषु निर्णयात्तु निमित्तस्य श्राद्धस्यापि तत्रैव प्रसक्तिर्नोभयत्रेति। भूयसां स्यात्सधर्म्मत्वमिति न्यायात् किञ्च
 
-
-
 **“पानीयमप्यत्र तिलैर्विमिश्र-  
 न्दद्यात् पितृभ्यः प्रयतो मनुष्यः।  
 श्राद्धं कृतं तेन समासहस्रं  
@@ -9794,8 +8680,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 दैवं पित्य्रन्तथा कर्म्म तुलास्थे कर्त्तुरक्षयम्॥”**
 
 इत्युत्कर्षः। ततश्च यत्र काम्यनित्यस्याननुष्ठानं मलिम्लुचे कथन्तत्र केवलकाम्यस्य काम्या इष्टोर्विवर्ज्जयेदिति निषेधात्। एवंविधश्राद्धस्य मलिम्लुचे करणे पितृगर्हाभिधानं निर्विषयं स्यात् श्राद्धे पूर्व्वा तिथिर्ज्ञेयेति त्वेकोद्दिष्टविषयम्। तदुक्तम्। “मलमासेऽपि कर्त्तव्यं श्राद्धं यत्प्रतिवत्सर”मित्यादि मलमासप्रस्तावे दर्शितम् यत्नेन तूत्कर्षो युगादिष्विति वचनात्। योग्लौको मन्यते प्रथमतिथिरेव युगादिरिति तदयुक्तम्। अनुत्कर्षवचनस्य सौरे कर्त्तव्यतापरत्वेन पूर्व्वं व्याख्यातत्वात्तथैव चोपपत्तेरेकत्वान्मलिम्लुचतिथेः सकलकर्म्मानर्हत्वप्रतिपादकबहुतरवचनादन्यथाकरणसामर्थ्याभावात्। ननु वैशाखादिष्वधिमासपाते युगादेरनुत्कर्षान्मलिम्लुच एव परिग्रहः। सत्यं सौरमासविहितकर्म्मार्थं तस्या मलिम्लुचत्वात्।
-
-
 
 तथाहि।
 
@@ -9813,13 +8697,9 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“त्रयोदश्यान्तु वै श्राद्धं न कुर्य्यात् पुत्त्रवान् गृही।**
 
-
-
 **नेष्यते चोपवासश्च कैश्चिदप्ययनद्वये॥”**
 
 मनु विहितप्रतिषिद्धत्वात् विकल्पः स्यात् नैतत् विकल्पभयादेव पर्य्युदासोऽयं पुत्त्रवत् गृहिपर्य्युदासेन तदितरत्रयोदशीश्राद्धाधिकारीति ज्ञापयति। ननु युगादौ श्राद्धं कुर्य्यादिति विधेरेकत्वात्तत्र पुत्त्रवतो गृहिणः पर्य्युदस्तत्वात् चतुर्ष्वेव युगादिषु तस्य श्राद्धानधिकारः स्यात्। नैतत् स्मृतिकारस्यैतत् सङ्क्षिप्ताभिधानम्। परमार्थतस्तु विधिरत्र भिद्यते। वैशाखशुक्लतृतीयायां श्राद्धं कुर्य्यात् स्नानदानादिकञ्च एवं भाद्रकृष्णत्रयोदश्यादावपीति युगादित्वञ्च तद्विधानानुवादस्तुत्यर्थः। ननु युगादित्वं ज्ञाप्यत इत्यतः श्राद्धादिविधिः सिद्धरूपयुगादित्वज्ञापनपरत्वामुपपत्तेः। न च ज्ञापनमपि सप्रयोजनं तस्याज्ञानेऽपि तृतीयादिषु तत्तत्कर्म्मविधानसम्भवात्। अतस्त्रयोदश्यां यो विधिस्तत्र पुत्त्रवतो गृहिणः पर्य्युदासो नान्यत्रेति नास्ति वैरुप्यविधिः। एवञ्च यद्विमृष्टं दीक्षितेन पर्य्युदासादिह पुत्त्रीतरः श्राद्धेऽधिकारो प्रतीयते। तत्र यदि श्राद्धमात्रे पुत्त्रीतरस्याधिकारः तदा त्रयोदश्यामित्यनर्थकम्। तत्रैव कालविधिरिति चेत् न। मृताहादिकालविधिबाधप्रसङ्गात्। त्रयोदशीपदं श्राद्धोपलक्षणं वाच्यम्। तदा च स्वनिमित्तमेव यत् प्रौष्ठपद्या ऊर्द्ध्वंकृष्णत्रयोदश्यां विहितं तदेव लक्षयति न तु मृताहत्वनिमित्तत्रयोदशोप्राप्तमिव युगादित्वे यत्प्राप्तं तदपि पुत्त्रवतो न सिध्यते। पुत्त्रिणा तत्कर्त्तव्यमेवेत्यन्तं तदपि निरस्तम्भवति। तस्यापि त्रयोदशीत्वेनैव व्यापितत्वात् युगादित्वमपि त्रयोदशीत्वादेव।
-
-
 
 मृताहत्वन्तु न त्रयोदशीत्वात्। सर्व्वतिथिष्वेव तदविशेषात्। युगादित्वस्यापि तिथ्यन्तरेऽविशेषादिति चेत् न अत्रापि तत्तिथिरूपत्वस्य प्रयोजकत्वात्। अन्यथा तिथिचतुष्टयेतरेष्वपि युगादित्वप्रसङ्गात्। तस्मात् युगादित्रयोदशीश्राद्धे पुत्त्रीतरस्यैवाधिकार इति सिद्धम्। शुक्लयुगादिद्वये च पिण्डमन्तरेणैव श्राद्धं कार्य्यम्।
 
@@ -9844,8 +8724,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 हरते दश पापानि तस्माद्दशहरा स्मृता॥”**
 
 अथ ब्रह्माण्डपुराणम्।
-
-
 
 **“ज्यैष्ठे मासि सिते पक्षे दशमी हस्तसंयुता।  
 हरते दश पापानि तस्माद्दशहरा स्मृता।  
@@ -9875,8 +8753,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“परद्रव्येष्वभिध्यानं मनसाऽनिष्टचिन्तनम्।**
 
-
-
 **वितथाभिनिवेशश्च त्रिविधं कर्म्म मानसम्॥  
 पारुष्यमनृतञ्चैव पैशुन्यञ्चापि सर्व्वशः।  
 अनिवद्धप्रलापश्च[^367] वाङ्मयं स्याच्चतुर्विधम्॥  
@@ -9902,8 +8778,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 यथा।
 
-
-
 **“मनसा सङ्कल्पयति, वाचा वदति, कर्म्मणा करोतीति तस्मादमूलज्ञैरन्यथा पठितमनादेयम्।”**
 
 **इति दशहरा।**
@@ -9927,8 +8801,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तस्मिन् शुक्ले सदा विष्णुस्तुलायामथ वृश्चिके॥”**
 
 तेन लक्ष्मीप्रबोधस्तुलागतामावास्यायामेव तस्मिन्निति च तदमा-
-
-
 
 वास्यानन्तरितशुक्लपक्ष एव सदा देवोत्थानमिति प्रतिपादनात् तस्य पक्षस्य देवोत्थानाव्यभिचारोऽवगम्यते अतएव स पक्षस्तुलायां वा भवति वृश्चिके वेत्यत्रैव परमनियम इत्यत्राह तेनैतदनुरोधेनास्यैवानन्तरवचनं शुक्लपक्षे यदा भानुरिति वर्णनीयम्। अथ देवोत्थानपक्षपूर्व्वभूतैवामावास्या नियमेन लक्ष्मीप्रबोधकालः, सैव च सुखरात्रिरित्युच्यते।
 
@@ -9954,8 +8826,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 प्रतिपद्ब्राह्मणांश्चैव गुड़मिश्रैः प्रदीपकैः।  
 वासोभिराहतैश्चैव स गच्छेद्ब्रह्मणः पदम्॥**
 
-
-
 **पुष्पैर्गन्धैर्नवैर्वस्त्रैराह्वानं पूजयेच्च यः।  
 तस्यां प्रतिपदायाञ्च स गच्छेद्ब्रह्मणः पदम्॥”**
 
@@ -9974,8 +8844,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 स्वर्णालङ्कारवस्त्रादिपूजासत्कारभोजनैः।  
 सर्व्वा भगिन्यः सम्पूज्या अभावे प्रतिपन्नकाः॥  
 सर्व्वदा भगिनीहस्ताभोक्तव्यं पुष्टिवर्द्धनम्।**
-
-
 
 **यशस्यं धन्यमायुष्यं धर्म्मकामार्थवर्द्धनम्॥**
 
@@ -10006,8 +8874,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^372]: "प्रवरा इति ख-पुस्तके पाठः।"
 
-
-
 **अग्निमिष्ट्वा च हुत्वा च प्रतिपद्यमितं घृतम्।  
 हविषा सर्व्वधान्यानि प्राप्नुयादमितं धनम्॥”**
 
@@ -10035,8 +8901,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 कृष्णपक्षे द्वितीयायां श्रावणे मुनिसत्तम॥”**
 
 अनेन देवशयनानन्तरितैव सौरश्रावणस्य कृष्णद्वितीया ग्राह्या। सा च मिथुनशयनानन्तरं वा कर्कटशयनानन्तरं वा नास्ति विशेषः।
-
-
 
 **अथ तृतीया।**
 
@@ -10069,8 +8933,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 गङ्गातोये नरः स्नात्वा मुच्यते सर्व्वकिल्विषैः॥  
 योऽस्यान्ददाति करकान्वारिवीजसमन्वितान्।**
 
-
-
 **स याति पुरुषो धीरो नाकान्वै हेतिमालिनः[^373]॥”**
 
 [^373]: "हेममालिन इति स्मार्त्तभट्टाचार्य्यधृतपाठः।"
@@ -10102,8 +8964,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^375]: "तथा पाकमिति ख-पुस्तके पाठः।"
 
-
-
 **विशेषाद्बुधसंयुक्ता तृतीया या विशेषतः[^376]॥  
 बुधश्रवणसंयुक्ता तृतीया यदि लभ्यते।  
 अस्यां स्नानोपवासाद्यमक्षयं[^377] परिकीर्त्तितम्॥  
@@ -10133,8 +8993,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^378]: "तदाभ्यर्च्च्य यमं देवमिति क-पुस्तके पाठः।"
 
-
-
 अथ भविष्ये।
 
 **“शिवा शान्ता सुखा राजन्[^379] चतुर्थी त्रिविधा स्मृता।  
@@ -10162,8 +9020,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^381]: "लवणं गुड़ं तथा शाकं गुड़पूपांश्च भारत इति क-पुस्तके पाठः।"
 
 [^382]: "पूजयन् यो गुरुं नृप इति ख-पुस्तके पाठः।"
-
-
 
 **गुड़लवणघृतैर्वीर सुभगाः स्युः कुरूद्वह॥  
 यदा शुक्लचतुर्थ्यान्तु वारो भौमस्य वा भवेत्।  
@@ -10198,8 +9054,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^384]: "माघस्य सितपञ्चम्यामिति ख-पुस्तके पाठः।"
 
-
-
 अथ भविष्यपुराणे[^385]।
 
 [^385]: "अयं पाठः ख-पुस्तके नोपलभ्यते।"
@@ -10228,8 +9082,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^388]: "प्राणिनां प्राणजीविनामिति ख-पुस्तके पाठः।"
 
-
-
 **आसप्तमात्कुलात्तस्य न भयं सर्पतो भवेत्॥  
 सुप्ते जनार्द्दने देवे पञ्चम्यां भवनाङ्गने।  
 पूजयेन्मनसां देवीं स्नुहीविटपसंस्थिताम्॥  
@@ -10257,8 +9109,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 प्रत्यव्दमग्निपूजा च षष्ठ्यां कार्य्या ग्रहस्य च।**
 
 [^391]: "महाषष्ठी च सा प्रोक्ता तस्यां शेते हुताशनः इति ख-पुस्तके पाठः।"
-
-
 
 **दीप्ताग्निः[^392] स सुखी च स्यात्तस्मिन्नागामिवत्सरे॥”**
 
@@ -10291,8 +9141,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“माघस्य शुक्लपक्षे तु सप्तमी या त्रिलोचन।  
 जयन्ती नाम सा प्रोक्ता पुण्या पापहरा शिवा॥”**
 
-
-
 **मासि भाद्रपदे शुक्ले सप्तमी या गणाधिप।  
 अपराजितेति विख्याता महापातकनाशिनी॥  
 शुक्लपक्षे च सप्तम्यां यदा संक्रमते रविः।  
@@ -10319,8 +9167,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^397]: "योग्धोकेन इति ख-पुस्तके पाठः।"
 
 [^398]: "सप्तम्यां प्रशस्तत्वादिति क-पुस्तके पाठः।"
-
-
 
 तथा।
 
@@ -10352,8 +9198,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 रविवारेण संयुक्ता तिथिः पुण्यतमा स्मृता॥ ”**
 
 तथा मत्स्यपुराणम्।
-
-
 
 **“यस्मान्मन्वन्तरस्यादौ रथानापुर्दिवाकराः।  
 माघमासस्य सप्तम्यां तस्मात्सा रथसप्तमी॥”**
@@ -10390,8 +9234,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 “इत्येषा कथिता वीर रथाङ्गा सप्तमी परा।  
 महासप्तमी विख्याता महापातकनाशिनी॥”
 
-
-
 **षष्ठ्यां यो नियतो भूत्वा सप्तम्यां विधिवद्रविम्।  
 सम्पूज्योपवसेत्सोऽपि युयुक्षुश्चेप्सितं फलम्॥  
 सप्तमी सूर्य्यवारेण अमा वै सोमयोगतः।  
@@ -10421,8 +9263,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“गोधूममाषमधुमैथुनमद्यमांस-  
 पाषाणपिष्टयवषष्टिककांस्यपात्रम्।**
-
-
 
 **अभ्यञ्जनाञ्जनतिलांश्च विवर्ज्जयेद्यः  
 सोऽभीप्सितं लभति[^408] सप्तसु सप्तमीषु॥”**
@@ -10454,8 +9294,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 नित्यञ्च शङ्खे च तथैव पद्मे  
 दत्तम्भवेन्निष्कसहस्रतुल्यम्॥**
 
-
-
 **शङ्खं प्राहुरमावास्यां क्षीणसोमां द्विजोत्तमाः।  
 अष्टकास्तु भवेत्पद्मं तत्र दत्तमथाक्षयम्॥”**
 
@@ -10478,8 +9316,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 नगजे गौरि। माघस्य सप्तमीसाहचर्य्याच्च शुक्लाष्टमी न च तस्यां रौद्रस्य आर्द्रस्य योगः सम्भवतीति रौद्रपदेन पूर्व्वभाद्रपदोच्यते। तस्याजैकपाददैवतत्वात् “वासवाजैकपादर्क्ष” इत्यादिषुकलनात्[^412]। न तु भयङ्करत्वाद्यमस्य यमदेवताका भरणीति
 
 [^412]: "इत्यादिष्वपि दर्शनादिति ख-पुस्तके पाठः।"
-
-
 
 योग्लोकव्याख्यानम् आदरणीयम्। रुद्रदेवतस्यैव सम्भवात्। कृष्णाष्टम्यान्तु नक्षत्रत्रयस्यैव असम्भवः।
 
@@ -10514,8 +9350,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^413]: "वाजपेयफलं भवेदिति क-पुस्तके पाठः।"
 
-
-
 **चैत्राष्टम्यादिपूर्णिमाम[^414]शोकैर्मन्मथार्च्चनम्।  
 तच्च कार्य्यमशोकार्थं क्रिया वासन्तिकी हि सा॥[^415]  
 माघे मासि सिताष्टम्यां सलिलं भीषमवर्म्मणे।  
@@ -10537,8 +9371,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अन्ते स्वधेति कार्य्यं पितृत्वाध्यारोपणकार्य्यत्वात्। न च भीष्मस्य क्षत्त्रियत्वात्तदितरैर्ब्राह्मणादिभिस्तर्पणादि न कार्य्य-मुत्तमाधमवर्णयोरधमोत्तमक्रियानिषेधादिति वाच्यं वसोरवतारत्वाद्भीष्मस्य। अन्यथा दैवक्यां वसुदेवेनाब्राह्मणेन जातयोर्बलभद्रवासुदेवयोर्दाशरथेर्वा रामस्य ब्राह्मणाद्यैः सर्व्वैरेव वर्णैरर्च्चनादिकं न स्यात्। ( वाक्याच्चाविशेषेणैव श्रुतेः।)
 
 तथा भवधजेन लिखितम्।
-
-
 
 **“अष्टम्यान्तु सिते पक्षे भीष्माय तु तिलोदकम्।  
 अन्नञ्च विधिवद्युः सर्व्वे वर्णा द्विजातयः॥”)\*[^416] अनयो रेखयोरन्तःस्थः पाठः ख-पुस्तके नोपलभ्यते।") **
@@ -10572,8 +9404,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अथ देवीपुराणे।
 
-
-
 **“नवम्यां पूजयेद्देवीं महामहिषमर्द्दिनीम्।  
 कुङ्कुमागुरुकर्पूरैर्धूपान्नध्वजदर्पणैः[^420]।  
 दमनैर्मरुपत्रैश्च विजयाख्यं पदं लभेत्॥”**
@@ -10605,8 +9435,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“ब्रह्महा स भवेत्स्तेनः सुरापो गुरुतल्पगः।  
 विवेचयति यो मोहादेकादश्यौ सितासिते॥**
 
-
-
 **एकादश्यां न भुञ्जीत पक्षयोरुभयोरपि।  
 एकादश्यां हि भुञ्जानो विष्णुलोकाच्च्युतो भवेत्॥”**
 
@@ -10634,8 +9462,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 वनस्थयतिधर्म्मोऽयं शुक्लामेव सदा गृही॥”**
 
 वनस्थयतिमात्रोपादानाद्वनस्थयतिप्रतियोगिकगृहिमात्रोपादानात् आश्रममात्रे च वनस्थयतिद्वयसाहचर्य्याच्च गृहिमात्रस्यैवोपादानम्। न च मांसमैथुनवर्ज्जनविधानात् पुत्त्ररहितगृहिविष-
-
-
 
 यत्वमप्यस्य वाच्यम्। भार्य्यया सह वनं गतस्य ऋतौ मैथुनसम्भवात्।
 
@@ -10670,8 +9496,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 यत्यतिथिव्रतिभ्यश्च दत्त्वा अथेतरच्छेषभक्षा” इत्यादि।**
 
 मधुमांसवर्ज्जनन्तु वनस्थानाममांसवृत्तीनाम्। तस्मात्कथमेतद्वलादपुत्त्रस्य गृहिणोऽप्युभयैकादश्युपवासव्रतम्। कृष्णैकादश्यां
-
-
 
 च गृहिमात्रस्य उपवासनिषेधः श्रूयते।
 
@@ -10709,8 +9533,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 तत्र पुत्त्रवतां वानप्रस्थादीनामनिषेधार्थं गृहित्वं तावद्विशेषणं
 
-
-
 वाच्यम्। तथाच “मृष्यामहे हविषा विशेषण”मिति न्यायात् हविरुभयत्ववत् न पुत्त्रवत्तापि विशेषणं वाक्यभेदापत्तेः। किञ्च नायं निषेधः दुःखहेतावुपवासे रागतः प्रवृत्तेरभावात्। क्रोधादिना प्रसक्तौ तनिषेध एव स्यात् न तु “एकादश्यां न भुञ्जीत” इत्यस्यापि। अथ तस्यैव निषेधः पुत्त्रवतो गृहिण इति तन्न विहितप्रतिषिद्धत्वापत्तेः विधिवैरूप्याच्च। यतिवानप्रस्थयोर्नित्यवद्विधानात् गृहिणो[^425] विकल्पेन। यथा “उपात्र वपन्ति” इति चातुर्मासोयपर्व्वचतुष्टये उत्तरवेदिविधिः “न वैश्वदेव उत्तरवेदिमुपकिरन्ति न सुनासीर्य्ये” इत्यनयोर्वैकल्पिकत्वापत्तेः शाकमेधवरुणप्रघासयोश्च नित्यत्वापत्तेः। तस्मादधिकारिपर्य्युदासोऽयम्। तेनावश्याङ्गीकरणीयविशेषणेनैव[^426] तत्पर्य्युदस्तस्य उद्देश्यस्याधिकारिणो लब्धत्वान्न विशेषणान्तरं विवक्षितम् वाक्यभेदायत्तेः। तस्माद्गृहस्थेतरः पक्षयोरुभयोरुपवसेदिति तद्वचनस्यार्थः। “वनस्थयतिधर्म्मोऽय”मित्यनेनापि अन्वयमुखेन तदेवोक्तम्। पुत्त्रवानिति श्रुतिश्च प्रायः प्राप्तानुवादिका[^427]।
 
 [^425]: "गृहिणाञ्च इति ख-पुस्तके पाठः।"
@@ -10725,8 +9547,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 उपवासं न कुर्व्वीत यदीच्छेत्सन्ततिं ध्रुवाम्॥”**
 
 अत्र 'सन्ततिं यदीच्छेत्' इति सन्ततिरेव निरपेक्षेच्छाकर्म्मतया-
-
-
 
 ऽवगम्यते। “ध्रुवां” चेत्यर्थात् सन्ततिसम्बन्धः क्रियान्वये सति सन्ततिकामोऽनुत्पन्नसन्ततिरेव उत्सर्गतः। तेन अनुत्पन्नसन्ततेरपि पर्य्युदासः। “वनस्थयतिधर्म्मोऽयम्” इत्याश्रमधर्म्मताकथनेन\* नित्यतां ज्ञापयति।
 
@@ -10752,8 +9572,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^429]: "आश्रयधर्म्मताभिधानेन इति क-पुस्तके पाठः।"
 
-
-
 स्यात्। द्वादश्यामपि एकभक्तादिना “नैवाद्वादशिको भवेत्” इति विधानात्। अस्यैत्रोपवासस्य शुक्रवारादिष्वपि अनियमेन प्रसक्तौ तत्पर्य्युदासेन तदितरव्यवस्थितिः।
 
 रविवारसंक्रमणादिदूषिते तु।
@@ -10776,8 +9594,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 \* “द्वादश्यामुपोषितस्य” इत्यधिकः पाठः ख-पुस्तके दृश्यते।
 
-
-
 पत्तेः। उपवासानर्ह एव काले तद्विधेरापत्तेः तस्माददुष्ट एव काले “एकभक्तेन” इत्यादिना उपवासविधिः। गुरुणि कर्म्मणि फलभूयस्त्वम्। वारादिदूषितायान्तु उपवासनिषेधे उपवासपर्य्युदासफलस्य निषेधसमानफलत्वात् निषेधार्थेन “नक्तं हविष्यान”मितिविधानं तिलानोदनादिकं कृष्णायामेव अयाचितं भैक्ष्यं वा दुष्टायां कार्य्यमुपवासेन सह वैकल्पिकमिति यद्यपि पक्षः सम्भवति। तथापि “शुक्लामेव सदा गृही” इत्यत्र वनस्थयतिधर्म्मतया उक्तस्य उपवासस्यैव समन्वयः प्रक्रान्तत्वात्। एकभक्तादिविधाने च उपवासे फलान्तरकल्पना। नक्तादिविधानार्थञ्च फलान्तरकल्पना। तस्मात् “शुक्लामेव सदा गृही उपवसेत्” इत्येको विधिः (शुक्लापदेनैव कृष्णाव्युदासेन तत्समानरूपतया शास्त्रान्तरादवगतक-विरविवाररविसंक्रमणादिकमपि पर्य्यदस्तं तेषु नक्तादिविधिः)\*[^416] अनयोः खलु रेखयोरन्तःस्थः पाठो नोपलभ्यते ख-पुस्तके।") तेनोपवासेन नक्तादिना गृही शुक्लकृष्णपक्षयोः व्रतं कुर्य्यात् नाद्वादशिको भवेदिति। एतदेवोक्तम् “एकभक्तेन नक्तेन” इत्यनेन। “नैवाद्वादशिको भवेत्” इति नित्यतां दर्शयति। “उपवासफलं लभेत्” इति च नित्यकर्त्तव्यसमाप्तिं दर्शयति।नोपवासकरणदोषो भवतीत्यर्थः।
 
 [^416]: "(—
@@ -10786,8 +9602,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 “**यथा शुक्ला तथा कृष्णा विशेषो नास्ति कश्चन।  
 अभेदो दर्शितस्ते वै विशन्ति हरिमन्दिरम्॥”**
-
-
 
 **यथैव गौरो वै विप्रः कृष्णो वा वेदविद्द्विजः।  
 सन्तारयति दातारं द्वादश्युभयतस्तथा॥”**
@@ -10809,14 +9623,10 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 वह्नितर्पणं तिलहोमादिना, ब्राह्मणतर्पणञ्च भोजनदक्षिणादिना। तदेते चत्वारः कल्पाः पापक्षयकामस्य। संवत्सरं शुक्लैदश्या-
 
-
-
 मुपवासव्रतं द्वादश्यन्तम्। शुक्लायामेव यावज्जीविकम्[^434] उपवासव्रतं श्येतद्वीपप्राप्तिकामस्य। तथोभयपक्षोपवासव्रतं सांवत्सरिकं स्वर्गकामस्य। तदेव यावज्जीवं विष्णुलोकप्राप्तिकामस्य। कालाधिक्येन फलाधिक्यम्। “तदेतेषु व्रतेषु रविवारादेरवश्यम्भावात् तद्वर्ज्जनेन प्रथममेव गृहिणा सङ्कल्पः कार्य्य” इति योग्लोकवचनमनादेयं संवत्सरं यावज्जीवं वा उपवासस्यैव फलार्थं विहितत्वात् शुक्रवारादिवर्ज्जने तावत्कालीनव्रतस्यासिद्धेः कथं तत्फलसिद्धिः। एवमित्यादिपदैरुपवासस्यैव परामर्शात् नित्यस्याप्युभयैकादशीमात्रसमाप्यत्वाद्दर्शपूर्णमासवत् नास्ति यावज्जीवप्रयोगो यः सङ्कल्पनीयः। ननु तर्हि न भवत्वेतद्व्रतं गृहिणां, रविवारादिषु गृहिणां निषेधात् इति। नैतदपि, नायं निषेध इत्यसकृदुक्तत्वात् किन्तूपवासविधिनैकवाक्यतया पर्य्युदासो निषेधफलः। स च
 वारादिकालपर्य्युदासो वारादिवर्ज्जिते काले कुर्य्यात् गृहिपर्य्युदासो वा गृहिव्यतिरिक्तः कुर्य्यादिति। तत्र नित्यैकादशीव्रते रविवारादिवर्ज्जनेन उपवासविधानस्य वर्णितत्वात् रविवारादिषु च नक्तादिना तस्य कर्त्तव्यत्वात्। “उपवासनिषेधे तु भक्ष्यं किञ्चित्” इति, “नक्तं हविष्यान्नम्” इति च “एकभक्तेन नक्तेन” इत्यादिना च स्वहस्तितत्वात्। काम्ये पुनरुपवासस्यैव विधानात् कथं वारादिपर्य्युदासः। न ह्यस्ति सम्भवो वत्सरमुपवसेत् रविवारादिषु नोपवसेत्। किञ्च गृहिणां
 
 [^434]: "यावज्जीवमिति क-पुस्तके पाठः।"
-
-
 
 त्वस्त[^435] दिनबर्ज्जनेन[^436] उपवासविधानं वानप्रस्थादेश्चाबर्ज्जनेनेति वैरूप्यम्। अतएव गृहिणः पर्य्युदासः गृहिव्यतिरिक्तः कुर्य्यादिति नित्ये कालपर्य्युदासार्थत्वात् काम्ये पर्य्युदासार्थत्वानुपपत्तेः[^437]। एकत्वाद्वचनस्य।
 
@@ -10844,8 +9654,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^438]: "उपवासं न कुर्व्वीत यदीच्छेत्सन्ततिं ध्रुवामिति ख-पुस्तके पाठः।"
 
-
-
 **रविवारेऽर्कसंक्रान्त्यामेकादश्यां सितेतरे।  
 पारणञ्चोपवासञ्च न कुर्य्यात् पुत्रवान् गृही॥)\*[^416] अनयो रेखयोरन्तर्गतमधिकं श्लोकद्वयं क-पुस्तके नोपलभ्यते।")**
 
@@ -10871,8 +9679,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 ननु यदीच्छेदिति इच्छाकर्म्मतया विष्णुसहवासादितया प्रत्येकमवगमात् एकैकस्यैव फलवत्त्वम्। तत्रोभयैकादशीव्रतं सकृद्वावत्सरं वा यावज्जीवं वा कृतं फलसाधनतया विधीयते। तत्र सकद्वार्षिकौ विष्णुविरोधात् न सम्भवतः। यावज्जीवप्रयोगफलत्वेन विष्णुलोकप्राप्तेरुक्तत्वात्। सकृत्करणादेव तत्सिद्धौ
 
-
-
 यावज्जीवविधानानुपपत्तेः। (न च यावज्जीवप्रयोगसाध्यत्वं विष्णुना सहवासस्य सकृत्प्रयोगफलत्वञ्च पुत्त्रादेरिति सम्भवति न कुर्व्वीतीति सकृदुच्चरितेन तुल्यरूपकर्म्मविधानानुपपत्तेः)\*[^416] अनयो रेखयोरन्तर्गतः पाठः ख-पुस्तके नोपलभ्यते।")। अथ यावज्जीवप्रयोगोऽपि पारलौकिकपुत्त्राद्यर्थिनां सम्भवत्येव। नैतदेवम्[^441]। यावज्जीवप्रयोगादेव परमपुरुषार्थस्य विष्णुसहवासस्य सिद्धौ न कश्चिदपि प्रेक्षावान् पारलौकिकपुत्त्राद्यर्थी स्यात्, तदर्थं वा कर्म्म कुर्य्यात्। उच्यते,—अतएव तर्हि विष्णुविरोधात् न भुञ्जीतेत्यावृत्तं बोद्धव्यम्। मुनिना तु सकृदुच्चारणं लाघवार्थं कृतम्। तत्र पुत्त्राद्यर्थिनः सकृद्विधानात् आवृत्तिकल्पना प्रमाणाभावात्। विष्णुसहवासार्थिनस्तु यावज्जीवविधानमिति न विरोधः।
 
 [^416]: "(—
@@ -10888,8 +9694,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^442]: "बाद्धव्यमिति क-पुस्तके पाठः।"
 
-
-
 तथा भविष्ये।
 
 **“एकादशी द्वादशी च तत्रोपोष्य क्रतोः फलम्।  
@@ -10902,8 +9706,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^444]: "यावज्जीविकेऽपि काम्योपवासे इति क-पुस्तके पाठः।"
 
 [^445]: "सम्पूर्णमिति क-पुस्तके पाठः।"
-
-
 
 सायुज्यफलकम् (नित्यातिक्रमजनितपापक्षयं विना न सुफलप्रसवाय प्रभवति)\*[^416] अनयो रेखयोरन्तः क-पुस्तके “नित्यातिक्रमजनितपापक्षयविलक्षणसुफलप्रसवाय प्रभवति” इत्येवमेव पाठः समुपलभ्यते।") अतस्तत्कुरुत इति न विरोधः। अथ यदा पूर्व्वदिने पूर्णापि परदिने निःसृता, द्वादशी तु न निःसृता तदा पूर्व्वदिने गृहिभिः कार्य्या यतिभिश्चोत्तरा।
 
@@ -10927,8 +9729,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तथाप्येकादशी नास्ति दशम्या वाप्यसङ्गता॥”**
 
 अस्यार्थः। एकादशीलिप्तामात्रसंयुक्ता द्वादशी परदिने पारणोचिता द्वादशी वृद्धिपरा वर्त्तते, तदा दशम्याऽसंयुक्ता पूर्णापी-
-
-
 
 त्यर्थः। सा नास्ति एकादशीकार्य्यं न कुरुते, किन्तु एकादशीलिप्तायुक्तैव द्वादशी उपोष्या इत्यर्थः। यत्र तु पूर्व्वदिने दशमीयुक्तैकादशी, परदिने च एकादशीद्वादशी, अपरदिने द्वादशी न वर्द्धते।
 
@@ -10955,8 +9755,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 द्वादशीविनाशाभिधानेन हादशीव्रतमेवैतत् तदेकादश्युपोषणेन इत्युक्तम्। अतएव एकादशी पितृृणान्तु द्वादशी चक्रपाणिन
 
-
-
 इति पञ्चरात्रवचनम्। द्वादशीनाशदोषश्रुतिश्च सर्व्वाश्रमिणां सम्भवति, पापक्षयार्थमपि द्वादशीनां विष्णुना विहितानां सर्व्वैरेव कृतानां नाशसम्भवात्।
 
 **अथ दशमीयुक्तानां निषेधवचनानि।**
@@ -10982,8 +9780,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 संवत्सरकृताच्चैव सुखाद्धर्म्माच्च हीयते॥  
 दशमीशेषसंयुक्ता गान्धारी तामुपोषिता।  
 तस्याः पुत्त्रशतं नष्टं तस्मात्तां परिवर्ज्जयेत्॥**
-
-
 
 शेषोऽन्तविनाड़िका।
 
@@ -11018,8 +9814,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 रविचक्रार्द्धमात्रापि दशमी श्रूयते यदि।  
 शुद्धापि द्वादशी ग्राह्या त्रयोदश्यान्तु पारणम्॥**
 
-
-
 **कलार्द्धेनापि विद्धा या भवेदेकादशी यदा।  
 तदा ह्येकादशीं त्यक्त्वा द्वादशीं समुपावसेत्[^447]॥”**
 
@@ -11051,8 +9845,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 दशा दशमी। द्वादशीदिने एकादशीकलार्द्धमात्रस्यापि अनिर्गमे सति दशम्यापि विद्धा एकादशी उपोष्या इति प्रतीयते शास्त्रार्थः। स तु सौरधर्म्मोत्तरकूर्म्मपुराणादिविरुद्धः।
 
-
-
 यदाह सौरधर्म्मोत्तरे।
 
 **“एकादशीमुपोष्येत द्वादशीमथवा पुनः।  
@@ -11078,8 +9870,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 व्यास उवाच।
 
-
-
 **“या तिथिः स्पृशते राजन् प्रातर्वक्त्रावलोकिनी।  
 स वेध इति विज्ञेयो योगः सूर्य्योदयी मतः[^454]॥”**
 
@@ -11102,8 +9892,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तथा वराहपुराणम्।
 
 **“एकादशी विलुप्ता चेत्परतो द्वादशी स्थिता।**
-
-
 
 **उपोष्या द्वादशी तत्र यदीच्छेत्परमं पदम्॥  
 द्वादश्यामुपवासन्तु ये वै कुर्व्वन्ति ते नराः।  
@@ -11135,8 +9923,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 पूर्व्वदिने दशमी विद्धा क्षीणा परत्र च लुप्ता नास्ति किन्तु द्वादश्येव परं तत्र उपोष्या द्वादशीत्यर्थः।
 
 तत्रैवाह।
-
-
 
 **“त्रयोदश्यान्तु शुद्धायां पारणे पृथिवीफलम्[^457]।  
 शतमभ्यधिकं वापि नरः प्राप्नोत्यसंशयम्।  
@@ -11170,8 +9956,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“दिनक्षयेऽर्कसंक्रान्त्यां ग्रहणे चन्द्रसूर्य्ययोः।  
 उपवासं न कुर्व्वीत पुत्त्रपौत्त्रसमन्वितः॥”**
 
-
-
 दिनक्षयलक्षणमाह कूर्म्मपुराणे।
 
 **“द्वौ तिथ्यन्तावेकवारे यस्मिन् स स्याद्दिनक्षयः।  
@@ -11201,8 +9985,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^459]: "ब्राह्मणतर्पणमिति ख-पुस्तके पाठः।"
 
-
-
 गृहीतं द्वादशीव्रतं न त्याज्यम्।
 
 तदाह वराहपुराणे।
@@ -11229,8 +10011,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^460]: "मानवा इति क-पुस्तके पाठः।"
 
 [^462]: "तथार्हेत्तु व्रते चीर्णे इति ख-पुस्तके पाठः।"
-
-
 
 उपवासाशक्तौ पुनराह।
 
@@ -11262,8 +10042,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 मार्गशीर्षशुक्लपक्षादारभ्याव्दं विचक्षणः॥  
 तद्व्रतं धनदस्येदं कृतं वित्तं प्रयच्छति।**
 
-
-
 **तस्य ब्रह्मा ददौ प्रीतस्तिथिमेकादशीं प्रभुः॥  
 तस्यामनग्निपक्वाशी भवेत्सुनियतः शुचिः।  
 तस्यासौ धनदो देवस्तुष्टो वित्तं प्रयच्छति॥”**
@@ -11279,7 +10057,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **अथ इतिकर्त्तव्यता उच्यते।**
 
-
 तत्र स्मृतिसमुच्चये।
 
 **“सायमाद्यन्तयोरह्नोः सायम्प्रातश्च मध्यमे।  
@@ -11291,8 +10068,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“कांस्यं माषं मसूरञ्च चणकं कोरदूषकम्।  
 शाकं मधु परान्नञ्च वर्ज्जयेदुपवसन् स्त्रियः॥”**
-
-
 
 **अथ तद्द्विवसीयं त्याज्यमुच्यते।**
 
@@ -11324,8 +10099,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 “पाषण्ड”श्चाण्डालादिः। आदिपदं पापहेतुमात्रपरम्।
 
-
-
 अतएव।
 
 **“उपावृत्तस्य पापेभ्यो यस्तु वासो गुणैः सह।  
@@ -11352,8 +10125,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 प्रशस्ताचरणं नित्यमप्रशस्तविवर्ज्जनम्।  
 एतद्धि मङ्गलम्प्रोक्तमृषिभिस्तत्त्वदर्शिभिः॥  
 स्तोकादपि प्रदातव्यमदीनेनान्तरात्मना।**
-
-
 
 **अहन्यहनि यत्किञ्चिदकार्पण्यं हि तत्स्मृतम्॥  
 यथोत्पन्नेन सन्तोषः कर्त्तव्यो ह्यल्पवस्तुना।  
@@ -11383,8 +10154,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 तथाऽपरं वराहपुराणे।
 
-
-
 **“एकादश्यां सिते पक्षे यदर्क्षन्तु पुनर्व्वसुः।  
 नाम्ना सा विजया ख्याता तिथीनामुत्तमा तिथिः॥  
 यो ददाति तिलप्रस्थं त्रिकालं वत्सरं नरः।  
@@ -11406,8 +10175,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **“एकादश्यां सिते पक्षे पुष्यर्क्षं यत्र सत्तम।  
 द्वादश्यां वा तदाशेषपापक्षयकरं स्मृतम्॥”**
-
-
 
 **अथ सङ्कल्पः।**
 
@@ -11436,8 +10203,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^472]: "नैमित्तिकैकभक्तादीनामिति ख-पुस्तके पाठः।"
 
-
-
 रकं लिङ्गात्। अङ्गभूतोपवासप्रकाशको मन्त्रो नक्तादिपक्षे निवर्त्तते। व्रीहिमन्त्र इव यावके प्रयोगे[^473]। अतोऽस्याप्रयोग एव।
 
 [^473]: "अत्र च निरङ्गयवपृष्टस्येति अधिकः पाठः ख-पुस्तके दृश्यते।"
@@ -11454,8 +10219,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^475]: "नानासाधारणस्यैवातिदेशत्वादिति ख-पुस्तके पाठः।"
 
 **“उपावृत्तस्य पापेभ्यो वासो यस्तु गुणैः सह”**
-
-
 
 इत्युक्तवचनेन यौगिकत्वस्य शास्त्रकारैरुक्तत्वात्। “यौगिकञ्च नाम नातिदेशकं यत्रातिदेशं विनापि प्रवृत्तिनिमित्तं लभ्यते” इत्युक्तं सप्तमे प्रापणीयपदस्यानतिदेशकत्वं वदता। अतो हेयमेव योग्लोकवचनम्।
 
@@ -11482,13 +10245,10 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^478]: "जघ्नीत मात्रस्य समग्रमाशु यदिति क-पुस्तके पाठः।"
 
-
-
 अस्यार्थः। पुनर्व्वसौ यदा चन्द्रवृहस्पती यदा वारो ह्यनयोरन्यतरस्य भवेत् कुम्भे रविः स्यात् सौरस्तु फाल्गुनः। पुनर्व्वसौ कर्कट एव संस्थिते सौरे फाल्गुने वृहस्पतौचन्द्रे च पुनर्व्वसौ नक्षत्रे कर्कटे च बृहस्पतौ शुक्ला चैकादशी पापनाशिनीत्युच्यते।
 
 **दुर्विमर्षत्रिदोषेण ग्रस्तमेकादशीव्रतम्।  
 मृतसञ्जीवनीं विद्यामादाय परिरक्षितम्॥**  
-
 
 **इत्येकादशीकल्पः समाप्तः।**
 
@@ -11508,8 +10268,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^479]: "अत्यन्तं महतीति ख-पुस्तके पाठः।"
 
 सैव चेदिति भाद्रपदीया शुक्ला।
-
-
 
 तथा वृहद्विष्णुधर्म्मे।
 
@@ -11541,8 +10299,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 “सन्धितिः” श्रीपर्व्वतसन्निहिता पुण्या नदी भण्यते।
 
-
-
 अथ विष्णुधर्म्मे[^484]।
 
 [^484]: "विष्णुधर्म्मोत्तरे इति क-पुस्तके पाठः।"
@@ -11572,8 +10328,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^485]: "जप्यभावैष्णवं लभेदिति ख-पुस्तके पाठः।"
 
-
-
 तत्र भगवद्वासुदेवार्च्चनं श्रवणयोगकाल एव कार्य्यम्। “यदा द्वादशी श्रवणायुता,” “यदा द्वादश्यां श्रवणा भवेत्” इत्यादिवचनैर्योगसमस्यैव[^486] पूजार्थं विधानात्। कथमेतदन्यकाले कर्म्माचरणम्[^487]।
 
 [^486]: "योगसिद्धस्यैवेति ख-पुस्तके पाठः।"
@@ -11599,8 +10353,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 नात्र “भाद्र” इति। यत्र क्वचिदिति भाद्रव्यतिरेकेणापीत्याह। तदाश्विन एव सम्भवति श्रावणे वा नान्येषु। तथाविधायाञ्चैकादश्यामुपोष्य द्वादश्यामर्च्चनविधानम्। भाद्रपदे तु भवन्ती सैवो-
 
-
-
 पोष्या। “तां विजयां समुपावसन्” इति “द्वादश्यामुपवासोऽत्र” इत्यादिवचनैः हादश्यामेव उपवासविधानात्। तस्मात् “मासान्तरीयद्वादशीश्रवणायोगे एकादश्यामुपोष्य द्वादश्यामर्च्चनादिकं कार्य्यम्। भाद्रपदे तु द्वादश्यामेवोपवासोऽर्च्चनादिकञ्च। अतो यद्गृहीताऽगृहीतैकादशीव्रतवैष्णवपुरुषभेदेन वर्णनं” तदनादेयम्, काल्पनिकत्वादस्य। एकादश्युपवासविधौ क्वचिदिति भाद्रानादरेण प्राप्त्यनभिधानात्, भविष्योत्तरवचनविरोधाच्च।
 
 **“एकादशीमुपोष्यैव द्वादशीमप्युपोषयेत्।  
@@ -11616,8 +10368,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 इति विरोधस्तं समाधातुमाह “उभयोर्देवता हरिः” इति। तस्माद्यथोक्तेनैव व्यवस्था।
 
 अतएव विष्णुपुराणे।
-
-
 
 **“याः काश्चित्तिथयः प्रोक्ताः पुण्या नक्षत्रयोगतः।  
 तास्वेव तद्व्रतं कुर्य्याच्छ्रवणद्वादशीं विना॥”**
@@ -11646,8 +10396,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“तन्निमित्तोपवासस्य निषेधोऽयमुदाहृतः।”**
 
 इति वचनात् न्यायाद्वा उपवासो निषिध्यत इत्यपेक्षायां रवि-
-
-
 
 वारादिना स्वनिमित्तकोपवासस्यैव[^490] बुद्धौ सन्निधापितत्वात्। एकादश्यान्तु
 
@@ -11680,8 +10428,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 द्वादश्यां यस्तिलैरर्च्चेत्पद्मनाभं हि नित्यशः।  
 विष्णुलोकमवाप्नोति पुमान् स्त्री वा न संशयः॥**
 
-
-
 **अर्च्चयेत्पुण्डरीकाक्षमेवं संवत्सरं नृप।  
 जातिस्मरत्वमाप्नोति विन्द्याद्वहुसुवर्णकम्॥”**
 
@@ -11707,8 +10453,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 माघस्य मासस्य मया तवोक्ता।  
 कार्य्या तथेयं नृपते प्रयत्नात्  
 योगे पवित्रे सरितोर्द्वयस्य॥”**
-
-
 
 तथा।
 
@@ -11738,8 +10482,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 सुरत्वमिन्द्रत्वमनामयत्वं  
 मर्त्त्याधिपत्यं लभते मनुष्यः॥”**
 
-
-
 “पञ्चाननः” सिंहः, “मासाभिधाना” द्वादशी, “करभं” हस्तानक्षत्रम्।
 
 **“यस्तिष्ठत्येकपादेन वायुभक्षो जितेन्द्रियः।  
@@ -11766,8 +10508,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 गोविन्दद्वादशी नाम महापातकनाशनी॥”**
 
 [^493]: "फाल्गुनीमलमासस्येति क-पुस्तके पाठः।"
-
-
 
 **अथ त्रयोदशी।**
 
@@ -11798,8 +10538,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 प्रोक्ता दमनभञ्जीति सिद्धिदा तु महोत्सवा॥  
 पूजयिष्यन्ति ये मर्त्त्यास्तदङ्गमूलपल्लवैः।  
 ते यास्यन्ति परं स्थानं दमनस्य प्रभावतः॥**
-
-
 
 **न पालयन्ति ये पर्व्व दामनं[^496] मानवाधमाः।  
 तेषां पुण्यफलं दत्तं मया ते चैत्रमासिकम्॥”**
@@ -11836,8 +10574,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“नवमी शुक्लपक्षस्य कृष्णस्यैकादशी तथा।  
 दुर्गैव हि भवत्येषा पूर्णिमा च चतुर्द्दशी॥”**
 
-
-
 अथ पौराणिकाः पठन्ति।
 
 **“चैत्रकृष्णचतुर्द्दश्यामङ्गारकदिनं भवेत्।  
@@ -11868,8 +10604,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 यमुनायां विशेषेण नियतस्तर्पयेत्पुमान्॥  
 यमाय धर्म्मराजाय मृत्यवे चान्तकाय च।  
 वैवस्वताय कालाय सर्व्वभूतक्षयाय च॥**
-
-
 
 **दध्नोदराय[^501] दण्डाय प्रेताधिपतये नमः।  
 पाशिने चित्रगुप्ताय रौद्रायौदुम्बराय च॥  
@@ -11902,8 +10636,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^416]: "(—
 
-
-
 **अथ तिथिविप्रतिपत्तिः।**
 
 **अथ तिथिकार्य्ये बहुधा विप्रतिपत्तिर्मनीषिणां यस्मात्।  
@@ -11928,8 +10660,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“ययास्तं सविता याति पितरस्तामुपासते।  
 तिथिं तेभ्योऽपराह्णो हि स्वयं दत्तः स्वयम्भुवा॥**
 
-
-
 **दैवे कर्म्मणि सम्प्राप्ते यस्यामभ्युदितो रविः।  
 सा तिथिः सकला ज्ञेया विपरीता तु पैतृके॥”**
 
@@ -11950,8 +10680,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 सा तिथिस्तदहोरात्रं छेदे त्वस्तमयं प्रति॥”**
 
 “छेदः” क्षयः। एतदपि देवपितृकार्य्यपरम्। प्रायेण तिथिवृद्धिः शुक्लपक्षे, क्षयः कृष्णपक्ष एव भवति। तयोः पक्षयोर्देवपितृकार्य्यसम्बन्धात् तत्परत्वमेव। दैवकार्य्यं प्रति उदयसम्बन्धिनी, पित्र्ये च अस्तसम्बन्धिनी इति। दैवस्य पूर्व्वाह्णे पित्र्यस्य चापराह्णे विधानात्। प्रायेण च उदयास्तसम्बन्धितिथिद्वये तयोः प्राप्तेरिदमुक्तम्। न तूदयास्तमयसम्बन्ध एव विवक्षितः, अदृष्टकल्पनापत्तेः। साकल्यन्तु सकला यथा ग्राह्या तथेयमसकलापीत्यर्थः। तिथ्यन्तरस्यापि तिथ्यन्तररूपतया साकल्यवर्णने उदयसम्बन्धिन्यामपि अपराह्णस्य, अस्त-
-
-
 
 सम्बन्धिन्यामपि पूर्व्वाह्णस्य तिथ्यन्तरप्राप्तस्यापि साकल्याभिधानेन तथैव प्राप्तत्वात्। तत्प्राप्त्यर्थमुदयसम्बन्धेनैव दैवेऽस्तसम्बन्धेन च पित्र्ये वेति वचनमट्टष्टार्थं स्यात्। एक श्रुतिमूलत्वेनोपपत्तौ न मूलान्तरकल्पना भवेत्।
 
@@ -11978,8 +10706,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 रुद्रेण द्वादशीयुक्ता चतुर्द्दश्याथ पूर्णिमा॥  
 प्रतिपदाऽप्यमावास्या तिथ्योर्युग्मं महाफलम्।  
 एतद्व्यस्तं महाघोरं हन्ति पुण्यं पुराकृतम्॥”**
-
-
 
 द्वितीयातृतीये, चतुर्थीपञ्चम्यौ, षष्ठीसप्तम्यौ, अष्टमीनवम्यौ, एकादशीद्वादश्यौ, चतुर्द्दशीपौर्णमास्यौ, प्रतिपदमावास्ये, इति युग्मम्।
 
@@ -12010,8 +10736,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 अमावास्याष्टमी षष्ठी शुक्ला चैव चतुर्द्दशी।  
 एताः परयुताः कार्य्याः पराः पूर्व्वेण संयुताः॥”**
 
-
-
 षष्ठी च अष्टमी च पक्षद्वयसम्बन्धिन्यौ विशेषानुपादानात्[^507]। शुक्लचतुर्द्दशी अमावास्या त्रयोदशी च कृष्णा एतास्तिथयः पराभिः[^508] पौर्णमासीप्रतिपच्चतुर्दशीभिः संयुक्ताः पूज्याः, कर्म्माङ्गमित्यर्थः। यया च परभूतया युता पूर्व्वा तिथिः पूज्या, तथैव पूर्व्वया युक्ता परापि पूज्या। “शेषाः पूर्व्वेण संयुता” इति केचित्पठन्ति, तदापि पूर्व्वोक्तार्थः। परभूता एव शेषपदेन उपादेयाः पूर्व्वोक्तात्। परिशिष्टमात्रग्रहणे शुक्लत्रयोदशी कृष्णप्रतिपद्दशमीनामपि पूर्व्वसंयोगात् पूज्यतापत्तेः। न चैतदिष्टं वृद्धिह्रासवचनस्य निर्विषयत्वापत्तेः।
 
 [^507]: "विशेषेणानुपादानादिति ख-पुस्तके पाठः।"
@@ -12035,8 +10759,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 सप्तमी परविद्धा च नोपोष्यं तिथिपञ्चकम्॥**
 
 [^510]: "भूतविद्धा तथाष्टमी इति क-पुस्तके पाठः।"
-
-
 
 तथा।
 
@@ -12071,22 +10793,16 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“घटिकार्द्धं** **विभागं वा चान्यो दूषयते तिथिम्।  
 पञ्चगव्यघटं पूर्णं सुराया विन्दुको यथा॥”**
 
-
-
 तत्र “एतद्युग्मं महाफल”मिति स्तुतिर्युग्मविधानार्थम् “एतदव्यस्तं महादोष”मिति निन्दापि विधेः स्तुत्यर्थ[^512]मेव, एकवाक्यत्वात्। यथा “न गिरा गिरा इति ब्रूया”दिति गिरापदनिन्दा “ऐरं कृत्वोद्गेय”मिति इरापदविधानार्था एकवाक्यत्वात्।
 
 [^512]: "विधेः स्तुत्यर्था एकवाक्यत्वादिति क-पुस्तके पाठः।"
 
  तदस्य युग्मविधेः को विषयः ? अत्रोच्यते, युग्मस्य तावन्न विधिः, तस्यासम्भवादेव। न ह्येकस्मिन् क्षणे तिथिद्वयसमावेशः सम्भवी यो विधेयः। परस्परपरिहारेण तिथीनामवस्थितेः। नापि तिथिद्वयमन्यतरकार्य्यत्वेनावगते कर्म्मणि द्वयोर्विधानासम्भवात्। एकस्याप्राप्तत्वादन्यस्यापि चाप्राप्तत्वात् पदावृत्तिवैरूप्यापत्तेः। अन्यकार्य्यतया चानूदिते तदवबोधादन्यविधेरसम्भवात्। किञ्च उभयकार्य्ये उभयं नित्यवद्वा विधीयते, द्विखण्डतानिमित्तेन वा। न तावन्नित्यवत् सर्व्वदैव सप्तमीकार्य्यस्य षष्ठ्यां षष्ठीकार्य्यस्य सप्तम्यामापत्तेः उभयोरेवापि विधानमनर्थकं स्यात्। निमित्तेन चेत् तदा दिखण्डतिथौ सप्तमीकार्य्यं नियमेन षष्ठीक्षण एवापद्येत। सप्तमीक्षणे तु कृतमपि अकृतकल्पं भवेत्। राजन्यवैश्यकर्त्तव्यतानिमित्तेन विहिते फलचमसे, सोमेन क्रियमाण इव ज्योतिष्टोमः। ततः सप्तमीसम्बन्धः प्रयत्नेन त्याज्य एव स्यात्। न च सतम्यामपि पुनर्विधानान्न बाध इति वाच्यम्। यतः षष्ठीसप्तमीरूपस्य कालद्वयस्य विधानात् प्रयोगाङ्गत्वाच्च कालस्य कृत्स्नप्रयोग एव षष्ठीक्षणे सप्तमीक्षणे वा स्यात्।
 
-
-
 **उभयोस्तस्य निष्पत्तौ नैकत्रापि कृतो भवेत्।  
 समुच्चितयवव्रीहिमयेनेव कृतो यजिः॥**
 
 युग्मतानिमित्तः सप्तमीकार्य्ये षष्ठीविधिर्भवन् स्नानदानादिष्वेव भवेत्। नाहोरात्रैकसाध्योपवासादौ तावत्कालव्याप्ततया तदन्वयानर्हत्वात्। तेन वार्षिकोपवासादेः प्रविलोप एव स्यात्। सप्तम्यामपि तावत्कालव्यापित्वाभावात्। अतएव युग्मविधेर्गुणफलाधिकार इत्यपि न सम्भवति। द्विखण्डतिथौ मूलाधिकारस्य कालाभावेनाप्रवृत्तौ तदुपजीविनो गुणफलाधिकारस्याप्रवृत्तेः। कथञ्चिद्वा स्नानदानाद्यधिकारस्य प्रवृत्तौ गुणफलाधिकारे सम्भवति अपि मूलाधिकारस्य व्यस्ततिथावप्यनुष्ठानं दुर्व्वारं स्यात्। मूलाधिकारे युग्मस्य गोदोहनस्येवानङ्गत्वात्। अथ द्विखण्डता निमित्तेन पूर्व्वस्मिन्नेव कर्म्मणि सहितावस्थं तिथिद्वयं विधीयते। तन्न स्नानदानादिकस्यान्यतरतिथिक्षणे कृतस्य अकृतकल्पत्वापत्तेः। मिश्रितयोरेव साधनत्वेन विधानात्। न च तत्तत्तिथिविहितस्य कर्म्मणः तिथियुग्मे उपसंहार इति वाच्यं पुण्यतिथावकरणप्रसक्तेः। किञ्च उपवासव्रतादौ अस्तकालपर्य्यन्तव्यापिन्यामपि षष्ठ्यां षष्ठीसप्तम्योर्युग्मस्याविशेषात् तत्रापि सप्तमीकार्य्यविधानं स्यात्। परदिनोदयास्तसम्बन्धिन्यां न स्यात् रात्रौ व्यस्तत्वात्। न च दिवेति विशेषः श्रूयते। सत्यपि च श्रवणे निमित्तविशेषणस्य वाक्यभेदभयेन हविरुभयत्ववत् विवक्षानर्हत्वात्। न च सप्तम्यादिषु तत्तत्फलार्थं विहितमेव तिथियुग्मं महाफलार्थं विधीयते, तिथ्योर्यग्मं महाफलमिति
-
-
 
 वचनात् इति वाच्यम्। पूर्व्ववत्पूर्व्वाधिकारस्य व्यस्तेऽपि अविरोधापत्तेः। व्यस्तस्य निषिद्धत्वान्नेति चेन्न निषेधानुपपत्तेः। महाफले कर्म्मणि युग्मविधानादेव व्यस्तनिषेधस्य दर्शादिविधिनेव पञ्चम्यादिनिषेधस्य प्राप्तेर्विधानानुपपत्तेः।
 
@@ -12102,8 +10818,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  तेनायमर्थः। यत् खलु सामान्येन सप्तम्यादौ प्रातरादिसमन्वयमनादृत्य स्नानदानादिकं विहितं दिवा च तत्कार्य्यम्।
 
-
-
 रात्रेरासुरीत्वेन विशेषविहितेतरकर्म्मगोचरत्वेनानिमित्तत्वात्। दिनद्वये च कर्म्मयोग्यतत्तत्तिथ्यवयवप्राप्तौ तत् कुत्र क्रियत इत्यपेक्षायां दिखण्डतानिमित्तेन युग्मविधिना अवयवविशेषो नियम्यते। अतो नानपेक्षितविधिः। न च सतम्यादिबाधः। न च रात्रियुग्मप्रसक्तिः। नापि प्राप्तत्वाद्विध्यसम्भवः। द्विखण्डतानिमित्तत्वादवयवविशेषप्रतिनियमस्य। तथोपवासादिष्वपि। अहोरात्राभोजनमुपवासो न तु सप्तम्यामभोजनम्।
 
  न हि प्रहरद्वयोपरि सप्तमीप्रथमक्षणात् प्रभृति दिनान्तरेऽपि सप्तमीकालपर्य्यन्ताभोजने पूर्व्वदिने षष्ठीकालेऽपरदिने चाष्टमीकाले भुक्तवान् “उपवासी पुरुषोऽयम्” इति व्यपदिश्यते।
@@ -12113,8 +10827,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
  यत एव सप्तमीत्वेन नोपवासान्वयः अतएव षष्ठीसप्तमीयुग्मदिने कृतोपवासस्थ पारणार्थं सप्तमीविगमप्रत्यवेक्षाऽपि व्यामोह एव। “तिथिभान्ते च पारणम्” इति च रोहिण्यष्टम्येकवाक्यतापन्नं वाक्यं नान्यत्र सम्बध्यते।
 
  तदेवं सप्तम्यां दिनद्वयसम्बन्धिन्यां कुत्राहोरात्रे उपवासः कार्य्य इत्यपेक्षायां वार्षिकोपवासव्रतेषु च अन्यतराहोरात्रानु-
-
-
 
 प्रवेशस्यावश्यकत्वात् युग्मसम्बन्ध्यहोरात्रविशेषनियमः क्रियते युग्मविधिना। तेन तस्याहोरात्रस्य सप्तम्याद्यनाक्रान्तोऽप्यवयवस्तिथेः सहायभावेन विधीयते। न पुनरत्या षष्ठ्यादिका तत्कार्य्ये। दिनक्षये उपवासाद्यभावप्रसक्तेः॥
 
@@ -12136,8 +10848,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  ततश्च स्नानदानादौ युग्माहोरात्रीया सप्तम्यादिका ग्राह्या इति तिथ्योर्युग्मवचनम्। युग्मदिनस्य या षष्ठी या च सप्तमी
 
-
-
 सा स्वकार्य्यस्नानदानाद्यर्थं ग्राह्या महाफलत्वेन सैव स्तूयते। व्यस्तदिनसम्बन्धिनी निन्द्यते।
 
  अहोरात्रसाध्ये तु व्रतोपवासादौ अतद्रूपस्याप्यहोरात्रावयवस्य साकल्यवचनेन तत्कार्य्यकरतया तद्रूपत्वविधिः। तेन न तत्तिथिबाधः तत्साधनतानिर्व्वाहाय विधानात्।
@@ -12153,8 +10863,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^516]: "स्वयं कुर्व्वाणस्य इति क-पुस्तके पाठः।"
 
  अतएव “यदुपपद्यते तत्र न परापेक्षा” इति न्यायविद्व्याहारात्। तस्माद्यन्नियतप्रातरादिक्षणमात्रसाध्यं स्नानदानादिप्रधानं कर्म्म तन्मुख्यकाल एव करणीयम् क्षणान्तरे क्रियायां तत्तत्तिथिव्यापाराभावात्।
-
-
 
 तत्र[^517] सहायतानिरपेक्षेण क्षणान्तरेणैव तत्करणात्। तस्माद्वितत एव कर्म्मणि सहायग्रहणम्।
 
@@ -12188,8 +10896,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  यत्पुनः स्नानादौ साकल्यवचनं तस्यायमर्थः। उदयास्तसम्ब-
 
-
-
 न्धिनी यथा स्नानदानादौ गृह्यते, तथेयमसकलापि सकलेव प्रत्येतव्या कार्य्याय[^519]।
 
 [^519]: "कार्य्यार्थं प्रत्येतत्र्या इति क-पुस्तके पाठः।"
@@ -12215,8 +10921,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  न च व्यस्तदिनेऽपि बहुदोषश्रुतेः कथं तत्परिग्रह इति वाच्यम् यतो दोषमात्रख्यापनपरं तावन्न वचनम् सिद्धरूपार्थपर्य्यवसानानुपपत्तेः निषेध इह न सम्भवतीति उक्तमेव। तस्माद्व्यस्तनिन्दया युग्मविधिविशेषः तदेकवाक्यत्वात्। स च यत्रैव विधिस्तत्रैव व्यस्तनिन्दा इत्येवं कृत्वा ज्ञेयमिति।
 
-
-
  अनेन यत्रैव श्रुताविरापदविधिस्तत्रैव “यद्गिरा गिरा इति ब्रूयात् आत्मानमेव तदुद्गाता गिरे”दिति निन्दा नाध्ययनकर्म्मण्यपि। तत्रापि सति सन्देहे तदपनयनार्थो विधिः तत्रैव च व्यस्तनिन्दापि।
 
  सन्देहश्च दिनद्वयेऽपि विहितकालाभावात्। नियतप्रातरादिक्षणस्य तु कर्म्मणः एकत्रैव तत्प्राप्तौ कुतः सन्देहः। कुतस्तराञ्च तदपनयनार्थो विधिः। कुतस्तराञ्च तत्र व्यस्तनिन्दा।
@@ -12230,8 +10934,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
  तन्न तस्यापि प्रमाणविरोधात्। तुल्यकार्य्यत्वमात्रख्यापनपरत्वाच्च शास्त्रस्य, अन्ययोगस्य अन्ययोगपरत्वानुपपत्तेः।
 
  किञ्च युग्मत्वे सति एकस्या एव योगः अन्यस्या अपि योग इत्युच्यते तदा अष्टमीनवमीयुग्मदिने नवम्या अपि अर्द्धरात्रयोगे रोहिण्यष्टमी स्यात्। एकादशीद्वादशीयुग्मदिने एकादशीमात्रस्य
-
-
 
 अरूणायोगे अरुणाद्वादशी स्यात्। इत्यादि बहुतरमनिष्टमलौकिकमापद्येत।
 
@@ -12247,8 +10949,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  तथापरमुक्तम् “यच्च क्षणमात्रसाध्यं स्नानदानादिकमुभयत्र लभ्यते तत्र सन्देहे दैवं कर्म्म कया कार्य्यमित्यस्य प्रसरतो व्यवस्थितये परिशिष्टम् ‘युग्माग्नीति’। अस्यायमर्थः। दैवं कर्म्म
 
-
-
 कया कार्य्यमित्युदययोगिन्यां दैवकर्म्मविधायकं युग्मतिथिपरतिथौ प्रसक्तं व्यावर्त्तते। ततश्च दैवमपि उपवासादि तत्तत्तिथावस्तसम्बन्धिन्यामेव कर्त्तव्यम्। नतु तद्युग्मत्वात् परतिथिकमपि दैवं परतिथेः पूर्व्वाह्णक्षणे कार्य्यमित्यर्थः पूर्व्वप्रतीतकालबाधापत्तेः।”
 
  तथा शङ्खधरेणाप्युक्तम् “तस्माद्यथाकालमुपक्रान्तेनैव अतो यद्यस्यां तिथौ विहितम् तत्तस्यामेव कर्त्तव्यम्। यानि पुनः ‘सा तिथिः सकला ज्ञेया’ इत्यादीनि तानि उपवासादिष्वहोरात्रसाध्येषु योज्यानी”ति।
@@ -12263,8 +10963,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  अन्धुकेनापि “तिथ्योर्युग्मं महाफलम्। एतद्व्यस्तं महाघोरं हन्ति पुण्यं पुरातन”मिति वचनं तदुपवासविषयमेष्टव्यमित्युक्त्वा “माघस्य सप्तम्यां कोटिस्नानम् अष्टमीविद्धायामेव शिष्टाः समाचरन्ती”त्युक्तम्।
 
-
-
  तथापरम् “युग्मतिथीनामुपवासविषयावेव विधिनिषेधौ दृश्येते” इत्युक्त्वा “उपोष्याः स्युः परान्विता” इति विधिः नतु तत्र उपवसेदिति निषेधश्च उपन्यस्तः।
 
  वृहद्योग्लोकग्रन्थे च “यदा प्रथमदिने षष्ठीसप्तमीयुग्मन् उत्तरदिने वर्द्धमाना त्रिमुहूर्त्तव्यापिनी, तदा उत्तरदिनएव कोटिस्नानम्। अथ क्षीयमाणा तदा षण्मुहूर्तापि न कार्य्या” इत्युक्त्वा “नतु तदा पूर्व्वदिनएव स्नान”मिति तेनाप्युक्तम्।
@@ -12276,8 +10974,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
  यदि पुनः पूर्व्वदिनेऽपि अरुणोदयवेलायां सप्तमी लभ्यते तथा अष्टमीदिनेऽपि तदा अत्रापि व्यस्तनिन्दया तत्प्रतियोगिकं पूर्व्वसप्तमीग्रहणं विध्यर्थः सन्देहे सति वचनस्य प्रवृत्तेः।
 
  तेन निर्द्दिष्टयुग्मतिथीनां दिनद्वयप्राप्तौ पूर्व्वा तिथिः परदिने प्राप्तापरा च पूर्व्वदिने इति युग्मवचनस्यार्थः। नतु तत्तत्तिथिवाधार्थं तत्।
-
-
 
  “सा तिथिः सकला ज्ञेया” इत्यादिकन्तु अहोरात्रसाध्योपवासादिविततकर्म्मविषयम्।
 
@@ -12304,8 +11000,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“यदा शुक्लचतुर्थ्यान्तु वारो भौमस्य वै भवेत्।  
 तदा सा सुखदा ज्ञेया सुखानामेति कीर्त्तिता॥  
 स्नानदानादिकं कर्म्म सर्व्वमक्षयमुच्यते॥”**
-
-
 
 तथा शाम्बपुराणे।
 
@@ -12337,8 +11031,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“सिंहराशिगते सूर्य्ये गगने जलदाकुले।  
 मासि भाद्रपदेऽष्टम्यां कृष्णपक्षेऽर्द्धरात्रके॥**
 
-
-
 **शशाङ्के वृषराशिस्थे नक्षत्रे रोहिणीयुते।  
 वसुदेवेन देवक्यामहं जातो जनाः स्वयम्॥  
 एकेनैवोपवासेन कृतेन कुरुनन्दन।  
@@ -12365,8 +11057,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  “सिंहराशिगत” इति “भाद्रपद” इति सौराभिधायिपदद्वयानुरोधेन “नभसि चाष्टमी”ति नभः पदं चान्द्रश्रावणपरम्।
 
-
-
  तेन सिंहस्थे रवौ चान्द्रे नभसि “च”काराच्चान्द्रेऽपि भाद्रपदे प्राजापत्येन रोहिणीनक्षत्रेण युक्ताऽष्टमी यदाऽर्द्धरात्रे भवति स खलु भगवतो वासुदेवस्य जन्मक्षणः।
 
 तेन तस्याहोरात्रस्य पुण्यतमत्वात् तथा ब्रह्माण्डपुराणम्।
@@ -12389,8 +11079,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तत्पापं शमयेत्कृष्णस्तिथावस्यां सुपूजितः॥  
 स्नानं दानं जपो होमः स्वाध्यायोऽभ्यर्च्चनं हरेः।  
 तत्सहस्रगुणं पुण्यं जयन्त्यां यत्कृतं भवेत्॥**
-
-
 
 **धनधान्यवती पुण्या सर्व्वपापहरा शुभा।  
 समुपोष्या जनैर्यत्नात् जयन्ती नाम चाष्टमी॥  
@@ -12416,8 +11104,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  यद्यपि दिवाप्रभृतिवर्त्तमानायामष्टम्यां कलान्यूनार्द्धरात्रादपि प्रभृति रोहिणीनक्षत्रं भवति, कलाधिकार्द्धरात्रपर्य्यन्तं वा
 
-
-
 रोहिणी भवति, तदापि रोहिण्यष्टमी भवति। एवं हि सति अर्द्धरात्रयोगोऽवश्यं भवति। अर्द्धरात्रयोगपरत्वमस्यापि वचनस्य न पुनरेकदैव विवक्षितम्। “कलयापि वा” इत्यनादराभिधानात् अदृष्टार्थतापत्तेः।
 
  ननु भवत्वर्द्धरात्रयोगविवक्षा “तारापत्युदये तथे”ति किमर्थमुपन्यस्तम् अष्टम्यामर्द्धरात्र एव चन्द्रोदयात्। नैतदष्टम्यामर्द्धरात्रे चन्द्रोदयस्यानियतत्वात्। तत्र प्रथममध्यमशेषभागभेदेन उदयस्य अर्द्धरात्रादधश्चोर्द्ध्वञ्च सम्भवात् तदर्थमुक्तम्।
@@ -12429,8 +11115,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
  तेन सङ्कल्पादिग्रहणे सप्तमीमपि तत्सहायतयाऽनुजानाति इति न कश्चिद्दोषः।
 
  यद्वा “कार्य्या विद्धापि सप्तम्या” इति न्यायप्राप्तानुवादोऽयम् अहोरात्रैकसाध्ये ह्युपवासेऽहोरात्ररूपपुण्यकालानुपपत्तेः सर्व्वत्र पुण्यकालस्य स्वसम्बन्ध्यहोरात्रलक्षकत्वम्। तदीयश्च प्रातःसङ्कल्पकालः तेन सप्तमीकृत्तिकयोः प्रातःसम्बन्धेऽपि सङ्कल्पस्याविरोधः। अन्यथा रात्रौ प्रहरत्रयोपरि रोहिण्यष्टम्योरुपरमे उपवासः न स्यात् रात्र्यावष्टम्या व्यस्तत्वात्। शास्त्रेण मृग-
-
-
 
 शिरसोऽभ्यनुज्ञानात्। नवम्या अपि दिवायुग्म एवाभ्यनुज्ञानात्।
 
@@ -12448,8 +11132,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^531]: "व्रतमित्यनवद्यमिति क-पुस्तके पाठः।"
 
  ननु न्यूनार्द्धरात्रात्प्रभृति नक्षत्रसम्बन्धे दिनान्तरेऽपि तावत्कालव्यापित्वात् तिथिभान्ते च पारणविधे रात्रौ पारणं प्रसज्येत। सत्यं वचनान्न दोषः।
-
-
 
 ननु।
 
@@ -12477,8 +11159,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  नतु तिथिभान्ते च पारणमिति पारणकर्त्तव्यतापरं येन तदन्तएव विधिः। किं तर्हि ? नक्षत्रे च तिथौ च वर्त्तमाने न कुर्य्यादिति तात्पर्य्यं तत्रैव दोषश्रुतेः। रागप्राप्तभोजनानुवादेन वा तिथिनक्षत्रेतरकाले कुर्य्यादिति विधिः। स च
 
-
-
 रात्रिशेषभोजनेऽपि अविरुद्धः। तृतीय एवाहनि पारणं करिष्यतेऽपरेऽहनीतिवन्नियमाभावात्।
 
 **“अष्टम्यामथ रोहिण्यां न कुर्य्यात्पारणां क्वचित्।”**
@@ -12503,8 +11183,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
  तथा शुक्लत्रयोदशीकृष्णप्रतिपदुभयपक्षदशमीनां युग्माभावात्[^534] वृद्धिाह्रासादिना पूज्यत्वं स्थितम्।
 
 [^534]: "युग्मत्वाभावादिति ख-पुस्तके पाठः।"
-
-
 
 तथा बौधायनः।
 
@@ -12539,8 +11217,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 तदेवमादिवचनानां युग्मतिथिपूज्यताविधिविरोधात् यथोक्ततिथित्रयविषयत्वं स्थितम्।
 
-
-
 सम्भ्रमेण तु।
 
 **“शुक्लपक्षे तिथिर्ग्राह्या[^536] यस्यामभ्युदितो रविः।  
@@ -12570,8 +11246,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  अयुग्मविषयत्वे वृद्धिह्रासादिवचनं निर्व्विषयं स्यात्। तेन दशम्यां तिथौ समत्वे वृद्धौ वा परदिने पूज्यता। क्षये पूर्व्वदिने। तत्र समत्वे वृद्धौ वा यदि पूर्व्वदिनएव हस्तायोगः भौमवारः
 
-
-
 क्षीयमाणायां वा परदिने तदा सैव दशहरा तिथिरिति लोकानाम्प्रतिपत्तिः अस्मदुक्तन्यायानुसारेणैव।
 
  तस्मादुभयदिने प्राप्तौ कुत्र क्रिया इति सन्देहे युग्मतिथिषु युग्मवचनं अयुग्मासु[^538] तु वृद्धिह्रासादिवचनम्। एकत्र प्राप्तौ द्वयमपि निवर्त्तते। एकत्रैव नक्षत्रादिदर्शनाच्च कर्त्तव्यस्य कुत्रेति सन्देहाभावात्। तदस्तु प्रकृतमनुसरामः।
@@ -12598,8 +11272,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अत्र च प्रतिपद्युक्तापि द्वितीया कर्म्मार्थं दिवा च रात्रौ च यदा
 
-
-
 लभ्यते तदा न युग्मादरः कार्य्यः। द्वितीयातृतीयायुग्मदिने तत्कर्म्मोचितद्वितीयाकालस्याभावादित्यर्थः।
 
  यत्पुनरस्य वचनस्य योग्लोकीयं व्याख्यानं—“यत्र षष्ठीदिने रात्रिशेषे सप्तमी परदिनेऽपि रात्रिशेषं स्पृशति तत्र उदयास्तसम्बन्धिन्याः प्रशस्तत्वात्तदहोरात्रसम्बन्धिन्येव ग्राह्या युग्मभावस्य क्रियानर्हस्य अल्पस्यासङ्करत्वात्। न च पूर्व्वरात्रौ रात्रिसम्बन्धि कर्त्तुमुचितम् दिवा कर्त्तव्योत्तरकालीनत्वात् रात्रिकर्त्तव्यस्य क्रमबाधापत्तेः। उदयास्तमयसम्बन्धस्य पूज्यताहेतोरनतिक्रमणीयत्वा”दित्यन्तम्, तदसम्बद्धम्। यत्तावदुक्तम् उदयास्तमयसम्बन्धिन्याः पूज्यत्वमिति तत्तथाविधवचनाभावादनुपपन्नम्।
@@ -12617,8 +11289,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
  न च वचनमप्येतदुदयास्तमयसम्बन्धिनी तिथिः पूज्या इत्यभिदधाति। किञ्च यदा षष्ठीदिनेऽस्तमयात्परतः सप्तमी,
 
-
-
 दिनान्तरे चास्तमयसम्बन्धिनी सप्तम्येव तदा दिवारात्री यद्व्रतं तन्न षष्ठीसप्तमीभ्यां समाप्यं, रात्रियुग्मे युग्मभावासम्भवात्। न च परदिने रात्रौ अष्टमीकाले सप्तमीकार्य्यापत्तेः।
 
  अथ रात्रियुग्मेऽपि युग्मवचनं प्रवर्त्तते, नैतदपि उदयास्तसम्बन्धित्यामेव युग्मपरतिथौ तत्कार्य्यं न स्यात्। तिथ्यन्तरेण रात्रौ व्यस्तत्वात्। न भवतु इति चेन्न भवताम्मते साकल्यवचनेन उदयसम्बन्धिन्याः कार्य्येषु अस्तसम्बन्धितिथिविधानात्। उदयसम्बन्धविरहिण्याः कार्य्ये अन्यतिथिविधानाभावात् कार्य्यानिष्पत्तेः।
@@ -12630,8 +11300,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“अहःसु तिथयः पुण्याः कर्म्मानुष्ठानतो दिवा।  
 नक्तादिव्रतयोगे तु रात्रियोगो विशिष्यते॥”**
 
-
-
  अस्यार्थः। दिवाकर्म्मानुष्ठाने कर्त्तव्येऽनुष्ठानाय च अहःसुयास्तिथयः ताः पुण्याः कर्म्मार्थं ग्राह्याः। अनुष्ठानत इति सप्तम्यास्तसिल् चतुर्थ्या वा। “नक्तादिव्रतयोगे त्वि”ति निशासाध्यकर्म्मोपलक्षणम्। तत्र निशायोग एव युग्माद्विशिष्यते चतुर्थ्यां नक्तसाध्यस्य युग्मग्रहणे पञ्चम्यां तत्कृतं स्यात् तृतीयादिवसे च रात्रौ चतुर्थीग्रहणे स्वकाल एव व्रतं स्यात् इत्ययं पक्षो युग्माद्विशिष्यते।
 
  यच्च स्वल्पयोग्लोकेनात्रोक्तम् युग्मादरस्योक्तत्वात् युग्मव्यतिक्रमे दोषश्रुतेः ततश्चैकादश्यामुपवासे देवपूजाऽग्निहवनं ब्राह्मणतर्पणानुष्ठानम् अविरोधाद्दिवारात्रौ प्रसक्तं तदर्थमाह “दिवा च तिथयः पुण्याः” तथा नक्तमपि मुहूर्त्तोनदिने विहितमस्ति नक्षत्रदर्शने च तत्र “रात्रियोगो विशिष्यते” इति।
@@ -12641,8 +11309,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^540]: "न युग्मादरस्योक्तत्वादिति ख-पुस्तके पाठः।"
 
  यच्च दिवारात्रौ पूजादिकर्म्मप्रसक्तौ दिवाविधिरिति तन्न “अहःसुदिवे”तिपदयोरन्यतरानर्थक्यात्।
-
-
 
 यच्च रात्रिनक्तप्राशस्त्यार्थम् उत्तरार्द्धवर्णनं तदपि नोपपद्यते आदिपदानर्थक्यात्।
 
@@ -12657,8 +11323,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
  यदप्युक्तं योग्लोकेन “आरब्धवार्षिकादिव्रतेषु युग्मानतिक्रमेण कर्म्मानुष्ठान”मिति तदप्यहृदयं व्याख्यातम्।
 
  यद्येवं वदतोऽयमभिप्रायः—दीर्घकालीनसंवत्सरादिसाध्येष्वेव युग्मविधिर्नान्यत्रेति, तदैकदिवसीयस्नानदानव्रतादिषु
-
-
 
 युग्मविधेरप्रवृत्तेः माघीसप्तमीप्रभृतिषु\*[^542] कथं युग्मादरं भणसि। अथाविशेषेणास्य सर्व्वत्र प्रवृत्तिः तर्हि वार्षिकादिव्रतेषु युग्मानतिक्रमेण कर्म्मानुष्ठानं वक्तव्यं कथं सर्व्वत्रैवानतिक्रमणीयत्वात्।
 
@@ -12679,8 +11343,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 स्नानं दानं तथा होमःपितृदेवादिपूजनम्।  
 सर्व्वंकोटिगुणं प्रोक्तं भास्करस्य वचो यथा॥  
 शुक्लपक्षस्य सप्तम्यां यदर्क्षन्तत्करो भवेत्।**
-
-
 
 **तदा सा स्यान्महापुण्या सप्तमी पापनाशिनी॥  
 तस्यां सम्पूज्य देवेशं चित्रभानुं दिवाकरम्।  
@@ -12712,8 +11374,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 कूर्म्मपुराणस्य दशम्या मुहूर्त्तमात्रयोगेनापि अपूज्यत्वदर्शनात्। अत्र कस्यचित्समाधानम् “अल्पवेधेनापूज्यत्वे द्वादशनाड़िकादि-
 
-
-
 वेधवचनं दोषभूयस्त्वार्थम्। व्यस्तनिषेधे हि सति दोषाल्पवमहत्त्वाभिधानं युक्तम्।”
 
   स च प्रागेव दूषितः। किन्तु युग्मविधिशेषोऽयमनुवादइत्युक्तम्। स्वल्पयोग्लोकेन तिथिवृद्धिाह्नासादिनिर्णय इत्युक्तम्। “घटिकार्द्धंविभागं वा” इति निन्दानुवादोऽयम्। अन्यथा"नागो द्वादशनाड़ीभि रित्याद्यनर्थक स्यात् इति पुनरमावास्याप्रक्रमे दर्शितम्।
@@ -12734,8 +11394,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **"पूर्व्वाह्णे दैविक श्राद्धमपराह्ने तु पैतृकम्।**
 
-
-
 **एकोद्दिष्टन्तु मध्याहे वृद्धिश्राद्धन्तु साग्निकम् \*[^543]॥”**
 
 [^543]: " वृद्धिश्राद्धन्तु नाग्निकं इति क. पुस्तके पाठः।"
@@ -12753,8 +11411,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
   सत्यमतएव व्रतारम्भकाले दूषणमिदम्। आरब्धे वार्षिकादिव्रते अवर्ज्जनीये तत्तन्नाड़िकावेऽपि विधिसामान्यादेव कर्त्तव्यत्वात् न तु तद्विषयत्वं द्वादशनाड़िकावेधदूषणस्य।
 
   सम्भ्रमेण तु “घटिकार्द्धमिति दूषणवचनं व्रतोपवासादौ, व्रतोपवासनियमे घटिकैका यदा भवेत् इति वचनात्। नागो द्वादशनाड़ीभिरित्यादिकन्तु स्नानादिदूषक" मित्युक्तम्।
-
-
 
 **अथ दुर्गोत्सवकार्य्यम्  
 चान्द्रमसेऽश्वयुजि साधितं पूर्व्वम्।  
@@ -12779,8 +11435,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 आहरणकर्म्मतया उपात्ता शाखैव "पूजयित्वा" इत्यत्रापि कर्म्मतया सम्बध्यते।
 
-
-
 अथ लिङ्गपुराणम्।
 
 **“सप्तम्यां पत्रिकापूजा अष्टम्याञ्चाप्युपोषणम्।  
@@ -12804,8 +11458,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 एवं कृच्छ्रं चरेत्प्राज्ञो यावद्वैनवमी विभो॥”**
 
 अथ देवीपुराणे।
-
-
 
 **कन्यासंस्थे रवौ वत्स शुक्लामारभ्य नन्दिकाम्।  
 अयाची त्वथ नक्ताशी एकाशी चाप्यनोदनः॥  
@@ -12836,9 +11488,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 पूजयित्वा विधानेन विशोको मानवो भवेत्॥”**
 
 मूलनक्षत्रयुक्ताष्टमीपरभूता महानवमी भवति तदा न सप्तम्यां  
-
-
-
 
 मूलयोगोऽस्ति। कदाचिच्च षष्ठ्यामेव मूलनक्षत्रं दृश्यते, तदा च नवम्यां श्रवणान्तपादप्राप्तिः।
 
@@ -12871,8 +11520,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **" अन्तपादो निशाभागे श्रवणस्य भवेयदा।**
 
-
-
 **तदा देव्याः समुत्थानं नवम्यां दिनभागतः॥”**
 
 अन्तपादस्य निशागतत्वे तदितरभागा यदि दिवाप्राप्तास्तदा नवम्यामपि समुत्थानम्। प्रेषिता हि गन्तुं सद्यस्तिष्ठतीति सम्प्रेषणं फलेन निर्दिष्टम्।
@@ -12900,8 +11547,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 [^547]: "वर्द्धापयेत्तां बुध इति क पुस्तके पाठः।"
 
-
-
 अत्र पत्रिकाया विसर्ज्जनश्रुतेः तस्या एव पूज्यत्वं सुव्यक्तम्। अथ ज्योतिःशास्त्रम्।
 
 **“ऋक्षत्रये तु मूलादौनवम्यामाश्विने सिते।  
@@ -12922,8 +11567,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 रक्षां कृत्वा दशम्याञ्च शान्त्या नीराजयेद्बलम्॥”**
 
 दुर्गाबलिदाननवम्यनन्तरदशम्येव नीराजनकालः। देवीसम्प्रेषणं तु तदहरेवदिनान्तरे वा इत्यनुपयुक्तम्। तस्य विशेषणत्वेन अश्रवणात्। तथा कार्त्तिकेऽपि नीराजनमाह वराहः।
-
-
 
 **'द्वादश्यामष्टम्यां कार्त्तिक शुक्लस्य पञ्चदश्यां वा।  
 आश्वयुजे वा कुर्य्यान्नीराजनसंज्ञितां शान्तिम्॥  
@@ -12955,8 +11598,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 हस्तितुरङ्गमशालाच्छत्रध्वजचामराद्येषु॥  
 हेमसमीपसिताम्बरकमलोत्पलपूजितोपलिप्तेषु।**
 
-
-
 **दधिपात्रधान्यकूटेषु च श्रियं खञ्जनः कुरुते॥  
 पङ्केस्वाद्वन्नाप्तिर्गोवत्ससम्पच्च गोमयेऽपि गते।  
 शाद्वलगे वस्त्राप्तिः शकटस्थे देशविभ्रंशः॥**
@@ -12980,8 +11621,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 प्रियसङ्गममावहत्याशु॥ "**
 
 पृष्ठे त्वजाविकानामिति यद्यपि अशुभदेशप्रकरणे पठितम्तथापि सामर्थ्यात् शुभदेशप्रकरणेऽपि द्रष्टव्यम्। उत्तरत्रापि यदशुभदेशकालक्रियापेक्षं शुभकारि कथितम् तत्सामर्थ्यात् शुभकरे द्रष्टव्यम्।
-
-
 
 **“महिषोष्ट्रगर्द्दभास्थि\*[^549]–  
 श्मशानगृहकोण +[^550] शर्कराट्रिस्थः।  
@@ -13012,8 +11651,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **अब्जेषु गोषु गजवाजिमहोरगेषु  
 वास्तुप्रदः कुशलदः शुचिशाद्वलेषु।**
 
-
-
 **भस्मास्थिकाष्ठतुषकेशतृणेषु दृष्टो  
 दुःखं करोति खलु खञ्जनकोऽव्दमेकम्॥**
 
@@ -13043,8 +11680,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अमावास्याष्टमीव्यतिरिक्ता द्वादश तिथयः शुक्लाः। अनेकधा
 
-
-
 तथापदोच्चारणस्य शुक्लपक्षसम्बन्धार्थत्वात् उपक्रमोपसंहारयोश्च शुक्लकीर्त्तनात्। अमावस्यायामयोग्यत्वात् अष्टम्यां कृष्णेत्यभिधानात् न शुक्लान्वयः। इतरास्तु शुक्लाएव ग्राह्याः। कार्त्तिकीफाल्गुनीत्यत्रसिता पञ्चदशीति न पदद्वयस्यानुषङ्गः। पूर्व्वस्थितञ्च पूर्णिमापदमेवानुषज्यते।  
 एवं बहूनां शुक्लात्वात्सन्दिग्धतिथिष्वपि शुक्लात्वग्रहणम्।
 
@@ -13070,8 +11705,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **गवां कोटिसहस्रस्य सम्यग्दत्तस्य यत्फलम्।**
 
-
-
 **तत्फलं जाह्नवीतोये राहुग्रस्ते निशाकरे॥  
 दिवाकरे पुनस्तद्वद्दशसङ्ख्यमुदाहृतम्।**
 
@@ -13088,8 +11721,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 चूड़ामणिः समाख्यातः सोमे सोमग्रहस्तथा॥  
 अन्यदा तु यदा भानोरिन्दोर्वा ग्रहणं भवेत्।  
 तत्फलं कोटिगुणितं ज्ञेयं चूड़ामणौ ग्रहे॥"**
-
-
 
 तार्क्ष्यपुराणस्य। तथा स्मृतिसमुच्चये।
 
@@ -13119,8 +11750,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **“यस्त्रिरात्रमुपोष्यैव ग्रहणे चन्द्रसूर्य्ययोः।  
 स्नात्वार्च्चयेत विधिवन्मोदते ब्रह्मणा सह॥**
 
-
-
 **एकरात्रमुपोष्यैव स्नात्वा दत्त्वा च शक्तितः।  
 कञ्जुकादिव सर्पस्य निष्कृतिःपापकोषतः॥”**
 
@@ -13148,8 +11777,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 नर्म्मदावत् गङ्गासरस्वत्योरपि तोयसम्पर्कात् कृतकृत्यो भवे-
 
-
-
 दित्यर्थः। कृतकृत्यता च सकलपापक्षयात्। अपरं पापक्षयार्थं कृत्यं नास्तीत्यर्थः। एतदपि प्रचुरतरपापक्षयत्वेन वर्णनीयम्। अन्यथा सकलपापक्षयात् स्नानानन्तरमेव शरीरपातः स्यात् धमाधर्म्मनिबन्धनत्वात् मानुषशरीरस्य धर्म्ममात्रफलोपभोगत्वाभावात्। ततश्च पापेयत्तावधारणानुपपत्तेः पापक्षयकाम इत्येवं\*[^552] वाक्यं कर्त्तव्यम्। कर्म्मस्वभावात् तदपनेयपापक्षयो भविष्यति।
 
 [^552]: "पापक्षयः स्यात् यद्येवं वाक्यमिति ख- पुस्तके पाठः।"
@@ -13157,8 +11784,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
   यथा अग्निहोत्रे दर्व्वोहोमरूपतया अल्पेतिकर्त्तव्यताके, दर्शपूर्णमासयोश्च प्रचुरेतिकर्त्तव्यताकयोः, ज्योतिष्टोमे चातिप्रचुरेतिकर्त्तव्यताके बहुधनव्ययप्रयासेऽपि, वेदे स्वर्गत्वार्थपदमविशिष्टं तदनुसारेण च अग्निहोत्रादिसङ्कल्पकरणं स्वर्गकामपदेनैव, स्वर्गे तु कर्म्मस्वभावाद्विशेषः। अविशेषे तु ज्योतिष्टोमाद्यानर्थक्यापत्तेः। अथवा एतत्कालीनगङ्गादिस्नानापनेयपापक्षयकाम इति वाच्चम्। यदि पुन"र्गवां कोटिसहस्रस्य" इत्याद्यर्थवादावगतविशिष्टार्थफलेन वाक्यरचनम्, तदा एकरात्रोपवासपूर्व्वं यथाशक्तिस्नानदानाद्यर्थमेव पापकोषविनिर्गमार्थवादावगतफलस्य रात्रिसत्रन्यायेन फलत्वाङ्गीकारात् अयत्नसिद्धः स्वर्गः स्यात्। पुण्यमात्रस्याविशिष्टत्वात् तस्य च सुखमात्रफलत्वात् उपभोगेन पुण्यस्यापि विनाशात्।
 
   त्रिरात्रपूर्व्वकस्य च ब्रह्मलोकप्राप्तिफलत्वादयत्नसिद्धो मोक्षः स्यादिति यथोक्तमेव रमणीयम्।
-
-
 
 ग्रहणनिमित्तश्चोपवासः पुत्त्रवत एव गृहिणो निषिद्धः नान्येषाम्।
 
@@ -13190,8 +11815,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 **अकुर्व्वाणस्तत्र श्राद्धं पङ्केगौरिव सीदति॥”**
 
 राहुदर्शन इत्युभयोर्ग्रहणम्।
-
-
 
 अतएव भविष्यपुराणे।
 
@@ -13227,8 +11850,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 सूतकमृतकाशौचानुवृत्तावपि चात्र स्नातव्यम्।  
 यथा लिङ्गपुराणे।
 
-
-
 **"चन्द्रसूर्य्यग्रहे स्नायात्सूतके मृतके तथा।  
 अस्नायी मृत्युमाप्नोति स्नायो पापं न विन्दति॥  
 सूतके मृतके चैव न दोषो राहुदर्शने।  
@@ -13245,8 +11866,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति वचनेन दिवासम्बन्धिनश्चन्द्रग्रहणस्य रात्रिसम्बन्धिनः सूर्य्यग्रहणस्य निमित्ततानिषेधात्। सूर्य्यस्य दिवा रात्रौचन्द्रस्य
 
-
-
 यदि ग्रहणं तदेव निमित्तमिति। तदपि तथाविधस्यैव सूक्ष्मतमस्य निमित्तत्वात् तस्याप्यनिर्द्दिश्यमानत्वात् अभिन्नं निमित्तमिति।
 
   एवं तर्हि रात्रिसूर्य्यग्रह-दिवासोमग्रह-व्यतिरिक्तमसूक्ष्मञ्च यद्ग्रहणं तन्निमित्तमित्यभिधानात् त्रितयपर्य्युदासार्थं श्रुतित्रयं कल्पनीयम्। तद्वरं " दृष्टे राहौ महाग्रहे" इत्येकमेव विशेषणमस्तु लाघवात्।
@@ -13257,8 +11876,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   नैतत् सूर्य्याचन्द्रमसोर्हि दर्शनयोग्यतया राहुग्रहणस्थापि योग्यता न स्वतो नित्यमयोग्यत्वात्। न च रात्रौ सूर्य्यस्य दिवा चन्द्रस्य दर्शनयोग्यत्वम्। न हि विदूरगतस्य पुरुषस्य कतिपयकालीनादर्शनात् तस्यायोग्यतैव भवति।देशान्तरे तदानीन्तनस्य दर्शनान्नायोग्यत्वमिति चेत् सूर्य्याचन्द्रमसोरा-
 
-
-
 पाढ़ादिष्वस्तमितयोर्मेघाक्रान्तयोरिव “चतुर्द्दिनावशिष्टाहोरात्रानुपलब्धौ" (?) अयोग्यताधिगमः\*। तथा च पञ्चम्यादिकालेऽपि दर्शादिकालोपसंहारसामर्थ्यमस्त्येव। किन्तु तदानीं विपर्य्यस्तफलत्वाच्छक्तेः फलसम्भाजनं कुर्व्वन्नधिकारिहेतुत्वादनधिकारः। तदानीमपि अनधिकारकालविधेरनर्थकत्वाद्वाऽनधिकार इत्युक्तं कालशौचे। अतएव चक्षुषापि न तद्ग्रहणयोग्यताविनाशः। तथाविधविपर्य्यस्तफलं यच्चक्षुर्ग्रहणयोग्यत्वं तद्विशिष्टो राहुग्रहो निमित्तम्। दिवाचन्द्रग्रह- रात्रिसूर्य्यग्रहयोः सूक्ष्मस्य च योग्यत्वं विपर्य्यस्तफलं न निमित्तम्। मेधाक्रान्तस्य तु न विपर्य्यस्तं दर्शनमिति तत्र विशेषणपरम्परासिद्ध्यर्थं बहुपदवच्छ्रुतिकल्पनापत्तेः[^555]। अविप्रतिपन्नचाक्षुषमेव ग्रहणम्। राहुग्रहविशेषणभावकल्पना न कृत्ता स्यात्[^556]। दृष्टे राहाविति दर्शनस्यैव ग्रहणविशेषणत्वश्रुतेश्च। तथा सत्यनन्धादीनाम् अधिकारो न स्यादिति चेन्न प्रयोजनमात्रत्वादस्य। दर्शनपदन्तु अधिकारिविशेषणमेव। साक्षात्पारम्पर्य्य साधारणचक्षुर्मूलगमितसम्ब-
 
 [^555]: "बहुतरश्रुतिकल्पनापत्तेरिति क–पुस्तके पाठः।"
@@ -13268,8 +11885,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \* सूर्य्याचन्द्रमसोरपि राढ़ाद्यस्तमितयोर्मेघाक्रान्तयोरिव देशान्तरे गृह्यमाणत्वाविशेषात्पुनरुदयानन्तरञ्च तत्रापि दृश्यमानत्वात्। तथा चागस्त्यदर्शनं राढ़ादिषु सप्तदिनावशिष्टे सौरभाद्रे उज्जयिन्यादिषु च चतुर्द्दैिनैरपि भानोरहोरात्रानुपलम्भान्न योग्यताविनिर्गमः। इति पाठःक पुस्तके तथा च पञ्चम्यादीत्यादितः प्राक् दृश्यते।
-
-
 
 न्धादिज्ञानमस्तु। न तु श्रूयमाणस्य दर्शनस्य अन्यथाकरणे प्रमाणमस्ति। किञ्चास्मद्विमृष्ट एवार्थःस्पष्टीकृतो वैवस्वतेन।
 
@@ -13292,8 +11907,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 एततदपि यदिपदेन तत्कालीनमागन्तुकं विज्ञानं दर्शयति। न तु पूर्व्वजातं गणितविज्ञानम्। यथोक्तं दीक्षितेन।
 
-
-
 **“नेक्षेतोद्यन्तमादित्यं नास्तं यान्तं कथञ्चन।  
 नोपप्लुतं न वारिस्थं न मध्यं नमसो गतम्॥ "**
 
@@ -13306,8 +11919,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^558]: "“तदप्ययुक्त”मिति क-पुस्तके पाठः।"
 
 [^559]: "अट्टष्टरविग्रहणस्येति क–पुस्तके पाठः।."
-
-
 
 किञ्च "दृष्टे राहौमहाग्रहे" "अक्षयं कथितं पुण्यम्" इत्यादि वचनेन न्यायगणितसंवादिप्रमाणविषयतां गतस्यैव ग्रहणकालस्य अङ्गत्वादङ्गे च विधितः प्रयुक्तेर्दर्शनमपि विधिप्रयुक्तम्। तेन संवादे जाते यदपरं प्राप्तं दर्शनं तदेव नोपप्लुतमिति निषिद्धमित्यदोषः।
 
@@ -13330,8 +11941,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 यथा चाग्निहोत्रार्थं स्नानोपस्पर्शनात्तत्कालं शुचिरित्यादि तथात्र नास्तिइति। सत्यमुक्तमेवैतत्। किन्त्वत्रापि षट्त्रिंशन्मतवचनं शृणु।
 
-
-
 **"स्मार्त्तकर्म्मपरित्यागो राहोरन्यत्र सूतके।  
 श्रौते कर्म्मणि तत्कालं स्नातः शुद्धिमवाप्नुयात्॥”**
 
@@ -13350,8 +11959,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   एवञ्च यल्लिङ्गपुराणवचनम्।
 
-
-
 **"सूतके मृतके चैव सूतकं राहुदर्शने।  
 तावदेव भवेत् तच्च \*[^562] यावन्मुक्तिर्न दृश्यते॥”**
 
@@ -13365,8 +11972,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   किञ्च विवक्षामभिधाय पुनरपि दर्शनपदस्य योग्यतामात्र-
 
-
-
 परत्वमेव स्वीकृतम्। अन्यथोदितस्यापि मेघाक्रान्तौसूतका भोजने स्याताम्।
 
   किञ्च ग्रस्तास्तमिते चन्द्रमसि दिवा मुक्तौजातायामपि प्रमाणान्तरग्रहणयोग्यैव चेन्मुक्तिःकार्य्याय प्रभवति तदा ग्रहणनिमित्तमपि स्नानदानादिक कुतो न स्यात्। तथाविधमुक्त्यवधित्वात् स्नानदानादेः। ग्रहणकाल एव तद्विधिरिति चेन्न। सूतकेऽप्यविशेषात्। यथां “दृष्टे राहौ महाग्रहे। अक्षयं कथितं पुण्यम्” इति स्नानदानादिकं तत्काले विहितं नावधिमपेक्षते अर्थसिद्धत्वात् तत्कालविगसश्चावधिः। तथा सूतकं राहुदर्शने इत्यनेन स्नानदानादिविहिते सूतकेऽपि न विशेषं पश्यामः। न च दिवारात्रसम्बन्धिनोश्चन्द्रसूर्य्ययोरनङ्गत्वान्न तत्र स्नानदानादिक्रिया इति वाचम् यतो दिवानिषेधस्य प्रमाणान्तरावगतिमात्रपरत्वेन पूर्व्वमेव दर्शितत्वात्। अतएव सर्व्वया सर्वादिरूपेण गणितावगतस्य सूर्य्यग्रहणस्य अस्तमनकाले प्रमाणान्तरावगते ग्रहणे स्नानदानादिकम् अस्तमितेऽपि सूर्य्येक्रियते एव प्रमाणान्तरसंवादमात्रपरत्वात् दर्शनस्य जातत्वात्। न च वाच्यम्—
@@ -13379,8 +11984,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 **"अयनादौ सदा देयं द्रव्यमिष्टं गृहे तु यत्।  
 षडशीतिमुखे चैव विमोक्षे चन्द्रसूर्य्ययोः॥”**
-
-
 
 इति शातातपेन मुक्तिकाल एव दानस्य विहितत्वात् स्नानादिष्वपि तस्य निमित्तत्वं बोद्धव्यम्।  
   अतएव स्मृतिसमुच्चये।
@@ -13407,8 +12010,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   ननु विष्णुवाक्याद्ग्रहण एव भोजननिषेधोऽवगम्यते। न तु ग्रहणात् पूर्व्वं न वा मुक्तेः परस्तादपि निषेधः। ग्रस्तास्तमितयोस्तु मुक्तयोरपि उदयपर्य्यन्तं, शातातपवचनेनाहोरात्रं नाश्नीयात्।
 
-
-
 “मुक्तिं दृष्ट्वा तु भुञ्जीते” ति परम्परविरोधव्यवस्था विष्णुधर्म्मोत्तरवचनेन।
 
 **“चन्द्रस्य यदि वा भानोर्यस्मिन्नहनि भार्गव।  
@@ -13420,8 +12021,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तदेवं निषेधत्रयम्। तस्मिन् अहोरात्रग्रहणात् पूर्व्वंनाश्नीयात् ग्रहणकाले चेति निषेधद्वये नावधेरपेक्षा निषेधबलादेवावगतत्वात् "अद्यात् स्नात्वा तु मुक्तयो” रिति मुक्तयोःस्नायादिति विधीयते मुक्त्यवधित्वात् सूतकस्य। भोजनन्तु रागप्राप्तमनूद्यते। ग्रस्तास्तमितयोर्मुक्तयोरपि नाश्नीयादिति तृतीयनिषेधेऽवधेरनवगमात् तदपेक्षायाम् उदयं यावदिति अवधिपरत्वम्। यथा रथन्तरे प्रस्तूयमाने सम्मीलेत स्वदृशं प्रतीक्षेत \*[^565] इति स्वट्टपदोच्चारणं सम्मीलनस्यावधिः। स्नानन्तु मुक्तौ जातायामेव, मुक्तयोः स्नानादिति विधेः। अतएव मनुना अद्यादृष्टे इति पठितम् न तु स्नात्वा इति। पूर्वार्द्धेनैव स्नानस्य विहितत्वादित्यभिप्रायः। तदुत्कर्षे तु मनुरपि स्नात्वा इति ब्रूयात्। तेन शातातपवचनेऽपि एवं योजना कार्य्या। यदा चन्द्रसूर्य्यग्रहो ग्रस्तास्तमितो भवति तदा तस्मिन्नहोरात्रे न भुञ्जीत। चन्द्रग्रहे तु विशेषो
 
 [^565]: "प्रतिवीक्षेत इति क-पुस्तके पाठः।"
-
-
 
 गणितेन मुक्तिंदृष्ट्वा। दृशेरुपलब्धिमात्रवचनत्वात् निवृत्ते स्तके दिवा स्नात्वा उदिते चन्द्रे भुञ्जीत।
 
@@ -13441,8 +12040,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 अत्रापि मुक्तिमात्रमेव निर्व्विशेषणं स्नाननिमित्ततयोपात्तं स्नानत्वर्थसिद्धम्। गणितमूलमपि भवत्येव। तेन मुक्तिमात्रान-
 
-
-
 न्तरमेव स्नानं प्रतीयते। अनेन सूर्य्यग्रहापूर्व्वमह्निनाश्रीयात् रात्रौ च चन्द्रग्रहणात्पूर्व्वमित्युक्तम्। तेन चन्द्रग्रहणात्पूर्व्वमह्नि भोजने दोषो नास्ति। तत्पूर्व्वंनाचरेत् भोजनक्रियाम् इति यथोक्तविषयमेव भवति। न स्नानमाचरेद्भुक्त्वा इति विरोधो नैमित्तिकत्वेन पुत्त्रजन्मादिनिमित्तकश्राद्धादिविधाविवात्रापि न भुक्तेति निषेधस्याप्रवृत्तेः।
 
   त्रिरात्रैकरात्रादौयथा फलाधिक्यं तथा कृतभोजनादकृतभोजनस्य, न तु सोमग्रहे दिवाभुक्तवतः स्नानदानादावनधिकारएव भवति। ननु शातातपेन अहोरात्राभोजनविधानात् \*[^566] कथं चन्द्रग्रहणे दिवाभोजनमनिषिद्धमुच्यते। ग्रस्तास्तमितविषयोऽहोरात्रनिषेधस्य अस्य त्वतद्विषयत्वात्। अत्रापि परेऽहनि  
@@ -13451,8 +12048,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 [^566]: "अहोरात्रभोजननिषेधादिति ख-पुस्तके पाठः।"
 
   यस्तु भोजननिषेधेन सह सूतकस्य समानावधित्वं ब्रूते तस्य कोऽभिप्रायः ? किं ग्रहणात् पूर्व्वं निषेधेन ग्रहणकालीनेन वा ग्रस्तास्तमितमुक्तिपरभूतेन वा ? न तावत्पूर्व्वंनिषेधेन सूर्य्यो दयादिग्रहणोपक्रमावधित्वात् तस्य सूतकमपि तथा स्यादिति ग्रहणकाल एव सूतकं न स्यात्, अथ ग्रहणकालीनेन तदा तस्य मुक्त्यवधित्वात् कथं ततोऽपि परस्तात् सूतकमुच्यते। तस्य निषेधस्य ग्रहणात् ग्रहणात्परस्ताच्चाप्रवृत्तेः नापि मुक्तिपरभूतेन, तस्य मुक्तिसमाप्तेः प्रभृति दिनान्तरीयतदुदयावधित्वात् अस्यापि
-
-
 
 तथात्वात् ग्रहणकाले सूतकाभावप्रसक्तेः। तथा ग्रस्तास्तमितमन्तरेणापि दिनान्तरीयोदयान्तसूतकप्रसक्तेः। तस्मिन् दिने मुक्तस्याप्यनुदितत्वात्। समानयोगक्षेमस्य च भोजननिषेधस्य ग्रस्तास्तमितेऽप्रवृत्तत्वात् सूतकशास्त्रमपि न प्रवर्त्तते।
 
@@ -13466,8 +12061,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
   किञ्च तद्विधस्याप्युपगमस्य कुत्रावधित्वं स्रानदानादौ वा
 
-
-
 सूतके वा भोजननिषेधे वा। तत्र पूर्व्वविकल्पद्वयेऽर्थसिद्धत्वात् तदपगमविधेः न तत्र विशेषणविवक्षातस्यापि अर्थप्राप्तत्वात्। न च भोजननिषेधस्यापि तद्विधोपगमोऽवधिः। तृतीयस्य भोजननिषेधस्य ग्रस्तास्तमितनिमित्तस्य मुक्तौ सत्यां प्रवृत्तेर्न तस्य मुक्तिरेव परोऽवधिः सम्भवति येन तस्य विशेषणमालोच्यते। किन्तूदयान्तस्यावधिः “यावत्स्यान्नोदयस्तस्य” इत्यादिवचनात्।  
   दर्शनन्त्वर्थसिद्धत्वान्न श्रुतिविषयः तात्पर्य्यकल्पनागौरवात्। तदेवं स्थिते तदुदयस्य भोजनावधित्वं प्रसाध्य उक्तं दीक्षितेन “स चेदस्तु निमित्तं तदेव विशुद्धिरपि तावदेव स्यात् इति विना दर्शनात्र पाकस्पर्श " इत्यन्तम्।  
   तदपि निरस्तम्। यदि सूतकस्यापि उदयोऽपरोऽवधिः स्यात् तदा मुक्ते दृष्टेऽपि दिनान्तरीयोदयावधिस्तकं स्यात् पूर्व्वदिने उदयान्तराभावात्।  
@@ -13477,8 +12070,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 “यावत्स्यान्नोदयस्तस्य"**
 
   इत्यादिषु मुक्तेस्तदुपलम्भस्य वा निमित्तत्वेनानवगमात्। कथमश्रुतयोग्यतया अवधित्वम् अश्रुतकल्पनापत्तेः। यदेव च
-
-
 
 ग्रहणस्य उपलम्भयोग्यस्य स्नानादिनिमित्तत्वे दूषणमुक्तं तदेव सकलमत्रापि योजनीयम्।
 
@@ -13494,8 +12085,6 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 तस्माद्दानञ्च दातव्यं देवार्च्चनजपस्तथा।  
 कुर्य्यात्तस्मिन्दिने युक्तस्तस्य शान्तिर्भविष्यति॥”**
 
-
-
 बहुविधविवादतिमिर-
 
 ग्रस्तं ग्रहणं रवेः शशाङ्कस्य।
@@ -13506,681 +12095,10 @@ $ शूद्रस्य अधिकारसम्पादनाय आह 
 
 इति पारिभद्रीयमहामहोपाध्यायजीमूतवाहनकृतौधर्म्मरत्ने कालविवेकः समाप्तः।
 
-
 **समाप्तञ्चेदं भूरत्ने धर्म्मरत्नम्।**  
 इति शम्।
 
 ![](../books_images/U-IMG-1708755786Untitled24फेव्रुयारी-removebg-preview.png)
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^503]: "(—
-
-
-[^498]: "(—
-
-
-[^491]: "विष्णुधर्म्मोत्तरे इति क-पुस्तके पाठः।"
-
-
-[^465]: "(—
-
-
-[^461]: "(—
-
-
-[^446]: "(—
-
-
-[^440]: "(—
-
-
-[^439]: "(—
-
-
-[^431]: "(—
-
-
-[^237]: "(१
-
-
-[^236]: "(१
-
-
-[^203]: "(१
-
-
-[^200]: "(१
-
-
-[^196]: "(१
-
-
-[^194]: "(१
-
-
-[^169]: "(१
-
-
-[^167]: "(१
-
-
-[^164]: "(१
-
-
-[^126]: "(१
-
-
-[^124]: "(२
-
-
-[^123]: "(१
-
-
-[^109]: "(१
-
-
-[^99]: "(१
-
-
-[^98]: "(१
-
-
-[^73]: "(१
-
-
-[^62]: "(१
-
-
-[^25]: "(१
-
-
-[^17]: "(२
-
-
-[^16]: "(१
-
-
-[^5]: "(१

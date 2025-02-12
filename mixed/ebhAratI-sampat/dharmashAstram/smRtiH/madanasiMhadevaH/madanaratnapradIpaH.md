@@ -17,18 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2NTE3MDI1NDQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **MADANARATNAPRADĪPA**
 
 (VYAVAHĀRAVIVEKODDYOTA)
@@ -36,10 +24,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ2NTE3MDI1NDQ
 AN EXTENSIVE DIGEST ON DHARMA-S'ĀSTRA COMPILED
 
 UNDER THE PATRONAGE OF KING **MADANASIṀHA**
-
-
-
-
 
 EDITED BY
 
@@ -53,37 +37,11 @@ SENIOR ADVOCATE, FEDERAL COURT OF INDIA ;
 
 ADVOCATE, HIGH COURT, BOMBAY
 
-
-
-
-
 ![](../books_images/U-IMG-1702377496Screenshot2023-12-12160624.png)
-
-
 
 ANUP SANSKRIT LIBRARY, BIKANER.
 
 1948
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Published by K. Madhava Krishna Sarma,
 
@@ -95,8 +53,6 @@ Printed by Ramchandra Yesu Shedge,
 
 at the Nirnaya Sagar Press, 26-28, Kolbhat Street, Bombay.
 
-
-
 **श्री**
 
 **मदनरत्नप्रदीपे**
@@ -107,33 +63,15 @@ at the Nirnaya Sagar Press, 26-28, Kolbhat Street, Bombay.
 
 **महाराजाधिराज-श्रीमदनसिंहदेवेन विरचितः**
 
-
-
-
-
-
-
-
-
 **महामहोपाध्यायपदवीसमलङ्कृतेन मुम्बापुरस्थविश्वविद्यालयोप-**
 
 **कुलगुरुणा काणेकुलजेन वामनसुतेन पाण्डुरङ्गशर्मणा**
 
 **सम्पादितः**
 
-
-
-
-
-
-
-
-
 **बीकानेर**
 
 **संवत् २००५**
-
-
 
 **INTRODUCTION**
 
@@ -143,8 +81,6 @@ at the Nirnaya Sagar Press, 26-28, Kolbhat Street, Bombay.
 
  (1) A paper ms. in my possession containing 105 folios written on both sides and a portion of the 106th folio on one side. The ms. is fairly old and has been eaten up in a few places by ants in the margin and corners though no letters have become illegible. A margin of about one to two inches is left on each side of a folio. Each folio measures about 13 inches by 10 inches ; there are about 27 or 28 lines on each side of the folios and each line contains from 30 to 36 letters. The end of a sentence is indicated by a yellow vertical stroke in most places, while the names of authors and works are made red by the application of red ink or arsenic over them. The handwriting is that of one person who employs different pens at different times. The ink is dark and sticky and the handwriting is very beautiful. The Ms. is written in Devanāgarīscript and is tolerably correct, though here and there many letters are dropped and there is some confusion between certain letters like *pa* and *ya,* *ta* and *na.* In this ms. also there are a few gaps (e.g. on pp. 350, 356) and confusing repetitions, but their number is small. This ms. was probably in the possession of some *shastri* attached to the High Court of Bombay and when some years ago the old moth-eaten record containing old books was being disposed off and I was asked to see whether it contained anything of value, I chanced to see this ms. of the Madanaratna and requested the Registrar of the High Court that out of the rubbish that was to be disposed off or thrown away or burnt I might be allowed to keep this ms. and he readily agreed to hand it over to
 
-
-
 me after taking a receipt from me. The ms. is at least 150 years old. It is marked for reference.
 
  (2) The second ms. is found in the Anup Sanskrit Library at Bikaner. It is ms. No. 2546 of that Library. There are 166 folios. The paper measures 11 inches by 5 inches. There are eleven lines per page and 57 letters in each line. It is written in the Devanāgarīscript. The letters are of medium size, but bold. The right hand and left hand margins are ruledwith double lines. The ms. is in a fairly good condition, though the last page is somewhat damaged. I could not go to Bikaner to read the ms. in the original and only a transcript of it was supplied to me, from which it appears that the ms. is very incorrect and contains numerous gaps and omissions sometimes extending over whole pages. This will be clear from the footnotes to pp. 1, 71, 76, 173, 198, 206, 251, 254, 278. Sometimes this ms. contains more matter than the other two (vide pp. 229, 383–384). This ms. is designated ब. The ms. appears to be an independent one. It presents several different readings and carries the topic of *dyūtasamāhvaya* somewhat further than the stage it reaches in the other two mss.
@@ -152,8 +88,6 @@ me after taking a receipt from me. The ms. is at least 150 years old. It is mark
  (3) From the catalogue of the Jammu mss. prepared and edited by the late Sir Aurel Stein (p. 98 No. 2437), I came to know that the Kashmir *Durbar* had at Jammu a ms. of the Madanaratna on Vyavahāra. Through the kind offices of the Bikaner *Durbar* a transcript of this ms. was secured. That ms. has 240 folios with ten lines on each page and about 40 letters in each line. Each folio measures seven inches by 4½inches. The pages are rather old but no exact age can be specified. That ms. also contains a few gaps such as are indicated in the notes at pp. 94, 95, 97, 102, 203, 339, 350. It agrees closely with the ms.अ described above and the agreement extends so far that this ms. stops just at the place where on the topic of *dyūtasamāhvaya* the first ms. breaks off. It is possible that both mss. were copied from the same original ms. This transcript of the Jammu ms. is styled क.
 
  I hope that in spite of the somewhat defective state of the material on which this edition is based, the text here presented.
-
-
 
 (except in a very few cases) will be found quite readable and accurate. In the footnotes only very important variants have been mentioned, though there are numberless cases where the mss. contain mistakes. Most of such mistakes could be easily checked and detected by the context and by the fact that the Madanaratna draws profusely upon Smṛti texts and digests, many of which have been already printed.
 
@@ -185,8 +119,6 @@ MADANASIṀHA.[^1] 'Dāmodara lived in the time of Mahīpāladeva at Delhi and t
 
 [^1]: "Vide H. of Dh. vol. I pp. 391-392. Peterson is not right when he says (Ulway mss Cat. p. 62
 
-
-
  In the Introductoryverses to the Samayoddyota it is stated that Madanasiṁha called together[^2] सूनूना सुकृतिना ग्रन्थोऽयमारभ्यते॥  I. O. cat. p. 537, No. 1681 verse 53 of the समयोद्द्योत(verse 21 in Viśrāmabāg ms.).")four learned men, viz. Ratnākaramis'ra, Gopīnātha, Vis'vanātha and Garigādhara and entrusted to them the task of compiling an extensive digest. The colophon at the end of the S'āntyuddyota[^3] गुर्जरेण भट्टपूज्यात्मजेन वा भट्टश्रीविश्वनाथेन काशीतीर्थनिवासिना। शान्तिकं पौष्टिकं वापि यथाशास्त्रं प्रकीर्तितम् ॥ शान्त्युद्द्योत  D. C. ms. No. 392 of 1891-95. The same verses occur at the end of the प्रायश्चित्तोद्द्योत(No. 2547 of the Anup Sanskrit Library ) , the last half being सर्वपापक्षयकरं प्रायश्चित्तं प्रकाशितम् ॥ These verses occur also at the of the Baroda ms. of the section on Śuddhi where we read श्रीमालिना and भट्टपुंजात्मजेन च.")says that it was composed by Bhaṭṭa Vis'vanātha, a resident of Benares and son of Bhaṭṭapūjya, a S'rīmāli Gurjara (brāhmaṇa) There is a similar colophon at the end of the section on Prāyas'citta (vide Haraprasad Sastri's Nepal Cat. of palm-leaf and paper mss. at p. 223 and ms. No. 2547 of the Anup Sanskrit Library at Bikaner) and S'uddhi (Baroda Oriental Institute No. 4035). It is somewhat inexplicable why in many mss. of the sections of the Madanaratna the verses quoted above from the Samayoddyota and Prāyas'cittoddyota do not occur at all. For example, in the mss. of Ācāroddyota (No. 2539 dated *saṁvat* 1680), S'antyuddyota (No. 2544 dated s'ake 1550) and
 
 [^2]: "तेनाहूय मनीषिमण्डनमणिं सन्मिश्ररत्नाकरं गोपीनाथमनुत्तमं च सुधियं श्रीविश्वनाथं तथा । मुग्धं पण्डितमुन्नतद्युतिमतिं भट्टं च गङ्गाधरं राज्ञा शक्ति न (क ?
@@ -197,8 +129,6 @@ MADANASIṀHA.[^1] 'Dāmodara lived in the time of Mahīpāladeva at Delhi and t
 
 was abandoned was *govadha* and it was Dāmodara who made the Turuṣkas whose hordes had attacked Mūlasthāna give up govadha, so much so that the Yavanas of the days when the Madanaratna was composed did not even remember that they were once in the habit of slaughtering cows. Dāmodara is spoken of (in verse 9) as *prabhu* (lord) and as having vanquished a confederacy of enemical kings. Hence it appears that Dāmodara was himself a prince and probably a son of Mahīpāla. Verse 9 is as follows: यत्रासीद्भुवनेषुविश्रुतचणो दामोदराख्यः कृती श्रीमान्पुण्यवदग्रणीर्जितरिपुक्ष्मापालसङ्घः प्रभुः । मूलस्थानपुरे तुरुष्कनिवहाक्रान्ते परित्याजितो येनाद्यावधि गोवधो यवनकैः शत्रापि (कुत्रापि ?) न स्मर्यते ॥ verse 9 of the Ulwar ms. of समयोद्द्योत.
 
-
-
 Dānoddyota (No. 2541) of the Anup Sanskrit Library at Bikaner, either at the beginning or at the end no mention is made of the name of the author except the well-known colophon 'iti s'ri-kodaṇḍaparas'urāme &c.'
 
 **The Date of the Author.**
@@ -206,8 +136,6 @@ Dānoddyota (No. 2541) of the Anup Sanskrit Library at Bikaner, either at the be
  From the list of authors and works mentioned by the Vyavahāroddyota of the Madanaratna which follows a few pages later on, it is clear that he names Vijñānes'vara (author of the Mitākṣarā, com. on the Yajñavalkyasmṛti), Kalpataru, Smṛti-candrikā, Ratnākara, the Parās'aramādhavīya of Vidyāraṇya. From this it follows that the Madanratna could not have been composed earlier than about 1375 A. D. The work is quoted or referred to as a great authority on Dharmas'āstra by S'aṅkarabhaṭṭa in his Dvaitanirṇaya, by the Nirṇayasindhu, by Nīlakaṇṭha (author of the Vyavahāramayūkha and other Mayūkhas), Mitramis'ra (author of the Vīramitrodaya). As a matter of fact the Vyavahāramayūkha relies upon the Madanaratna as often as on the Mitākṣara. Therefore the work must have been written between 1375–1525 A. D. A closer approximation can be made from other sources of information. A ms of the *s'uddhi* section of the Madanaratnapradīpa in the Oriental Institute at Baroda (No. 4035) is dated *saṁvat* 1551 (1494-95 A. D. ).
 
  Verse 13 of the Introductory verses to the Samayoddyota states that Sūryadāsa brought about the abandonment of taxes on pilgrims at Vārāṇasīand also at Gayā. It is said that S'aktisiṁha's munificence was so great that even king Bhoja would have hung down his head in shame. From this description it follows that Madanasiṁha belonged to a family of kings. But it is difficult or almost impossible to take the title 'Mahārājādhirāja' literally. Delhi and the country about it was in the hands of Muslim rulers during the period to which the composition of the Madanaratna must be assigned. M. M. Haraprasad Sastri (Report on palm-leaf and paper mss. from Nepal) tells us(pp. 31–32) that the dynasty to which Madanasiṁha belonged ruled over Gorakhpur—Champaran (Western Tirhut) and that a ms. of the Amarakos'a was copied in
-
-
 
 *saṁvat* 1511 (1454–55 A. D.) when Madanasiṁhadeva ruled over Campakāraṇyanagara (p. 51 of the body of the Report) and that a ms of the Narasiṁhapurāṇa was copied in La-Sam. 339 (i. e. 1457-58 A. D.), when Mahārājādhirāja Madanasiṁhadeva ruled over Gorakṣapura (modern Gorakhpur); vide p. 29 of the Report. It follows from these notices that the ancestors of Madanasiṁhadeva were probably chieftains in charge of some territory adjoining Delhi and that gradually they pushed themselves forward towards the east. It follows from the above considerations that the digest Madanaratnapradīpa was composed between 1375-1450 A. D.
 
@@ -219,11 +147,7 @@ Dānoddyota (No. 2541) of the Anup Sanskrit Library at Bikaner, either at the be
 
  The Madanaratnapradīpa is one of the most important and extensive digests on Dharmaśāstra. The introductory verses to the Samayoddyota state that the work was divided into seven parts, or *uddyotas* on *samaya, ācāra, vyavahāra, prāyas'citta, dāna, s'uddhi* and *s'ānti*, that the Samayoddyota was the first of the seven sections and that the rest follow in the same order,
 
-
-
 In the Vyavahāroddyota (p. 335) reference is made to the Kalivarjya chapter of the Samayanirṇayoddyota and to the Ācāravivekoddyota (vide pp. 215, 315, 320, 335) and there is no reference to any of the other *uddyotas*. In the notes it has been pointed out how the Vyavahāroddyota is either quoted or referred to by the Vīramitrodaya and the Vyavahāramayūkha in numerous places. The latter, though sometimes it differs from the Madanaratna (vide p. 514 of my notes to the Vyavahāramayūkha), generally speaks of the Madanaratna with respect, places it on the same level with the Mitākṣarā (vide pp. 513-514 of my notes to the Vyavahāramayūkha) and sometimes apparently prefers the explanations of the Madanaratna to those of the Mitākṣarā (vide e. g. pp. 61, 72, 145 of my edition of the text of the Vyavahāramayūkha). The Madanaratna holds in great veneration Vijñānes'vara the author of the Mitākṣarā, generally employing the plural (Vijñānes'varācāryāḥ) in mentioning him (vide e. g. pp. 58, 60, 62, 69, 74, 83, 84, 89, 101, 103, 105, 119, 153, 176, 190, 193, 227, 283, 331 of the present work). But the author of the Madanaratna is not a slavish follower of Vijñānes'vara. He not only differs from Vijñānes'vara (e. g. pp. 233, 368 of this work) but in some cases criticizes him (e. g. pp. 105, 165-166). The author had not only made a deep study of the Dharmas'āstra Literature but he was also a profound student of the Literature on the Pūrvamīmāńsā system (vide pp. 94, 204, 324-325) and of the system of grammar, particularly of the Mahābhāṣya of Patañjali (pp. 23, 46, 252, 325). The Vyavahāra section of the Madanaratna deals exhaustively with most of the topics of Vyavahāra and is more extensive than even the Vyavahāramayūkha, though it is not so extensive or polemical as the Vyavahāraprakāśa section (of the Vīramitrodaya) of Mitramis'ra. The Madanaratnapradīpa, being composed by, learned men at the command of a ruling king who adopted it as his own work, may be regarded as law in the Austinian sense, viz. that law is a command addressed by political superiors to political inferiors and enforced by a sanction. The different lines of inheritance found in the Vyavahāramayūkha about what is called Anvādheya
-
-
 
 strīdhana and bhartṛ-prīti-datta and about varieties of strīdhana other than the above two are most probably based on the Madanaratna.
 
@@ -233,19 +157,9 @@ strīdhana and bhartṛ-prīti-datta and about varieties of strīdhana other tha
 
  I must thank the Nirṇayasāgara Press for printing this work in beautiful type and with speed in spite of the shortage of paper and labour.
 
-
-
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
 **                                 **
 
@@ -277,41 +191,28 @@ strīdhana and bhartṛ-prīti-datta and about varieties of strīdhana other tha
 |                    दत्तापह्नवे दिव्यविशेषाः                    |       के अस्वतन्त्राः केषु चविषयेषु        |
 |            दिव्ये दण्डे च मनूक्तं परिमाणं ग्राह्यं             |   यथाशास्त्रं निर्णयं कुर्वतो राज्ञःफलम्   |
 
-
-
                      
 
 [TABLE]
 
-
-
                                    
 
-
 [TABLE]
-
-
 
                                   
 
 [TABLE]
-
-
 
 **                                  
 **
 
 [TABLE]
 
-
-
 **                           **
 
 [TABLE]
 
 ![](../books_images/U-IMG-1702545441Screenshot2023-12-14144704.png)
-
-
 
 Bṛ=Bṛhaspati (fragments collected by Rao Bahadur
 
@@ -371,8 +272,6 @@ Jai=Jaimini.
 
 स्मृतिच.=स्मृतिचन्द्रिका
 
-
-
 **Names of Authors and Works mentioned in the  
 Text (except Vedic texts)**
 
@@ -380,10 +279,6 @@ Text (except Vedic texts)**
 ![](../books_images/U-IMG-1702390736Screenshot2023-12-12194847.png)
 
 [TABLE]
-
-
-
-
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -406,8 +301,6 @@ Text (except Vedic texts)**
 | **बृहद्विष्णु** ३६४                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **बृहस्पति** ३, ५-१६, १९-२२, २७-३१, ३४-३७, ३९, ४५, ४९, ५१, ५५, ५७, ६२, ६३, ६६, ७०, ७२, ७३, ७६, ७८, ७९, ८१-८३, ८५, ९९, ११३, ११८, १२०, १२२-१२९, १३१, १३५, १३६, १३८, १४२, १४५,                                                                                                                                                                                                                                                                                                                                                                                       |
 
-
-
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | १४७–१५१, १५३–१५६, १५८, १५९, १६२–१६४, १६७, १६८, १७०, १७२–१७४, १७८, १७९, १८३, १८५, १८६, १८८, १९२, १९३, १९५, १९७, १९९–२०८, २१३, २१५, २१७, २२५, २२६, २३०, २३२, २३४–२३६, २३८–२४३, २४८, २५०, २५१, २५७, २५८, २६३, २६४, २६७, २६८, २७१–२७४, २७९, २८१, २८२, २८५, २८८, २९१, २९३–२९८, ३००, ३०२–३०८, ३१२, ३१६, ३१८, ३२६–३२८, ३३१–३३५, ३३७, ३३९, ३४१, ३४७, ३४८, ३५०, ३५१, ३५३, ३५५, ३५६, ३५९, ३६३, ३६४, ३६७, ३६९, ३७२–३७४, ३८०, ३८२, ३८३                                                              |
@@ -428,8 +321,6 @@ Text (except Vedic texts)**
 | **यम** १६४, १८२, २९९, ३१२                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **याज्ञवल्क्य** ४, ६, ७, १०, १२, १३, २३, २४, २७, ३१, ३२, ३९, ४१, ४७, ४८, ५६–६२, ६४–६६, ७०, ७१, ७५,७६, ७९, ८०,८२,८५,८६,                                                                                                                                                                                                                                                                                                                                                                  |
 
-
-
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ९०, ९७, १०२, १०३, १०५, १०६, १०९, ११०, ११३, ११८, १२१, १३०, १३२, १३३, १३८, १३९, १४२, १४४, १४६, १४७, १४९, १५०, १५२–१५४, १५८, १५९, १६२–१६६, १६८, १६९, १७१–१७३, १७७, १७९–१८१, १८४–१८७, २०१, २०८, २१०, २१६, २२२, २२३, २२५–२२७, २२९, २३४, २३५, २३८, २४० २४४, २४६–२४९, २५१–२५४, २५७, २५९, २६५–२६७, २६८, २७१, २७५ – २७८, २८२–२८४, २८६–२८८, २९३, २९५, २९६, २९८, ३०३, ३०४, ३०७–३०९, ३११, ३१३, ३१४, ३१८–३२०, ३२६, ३२९, ३३०, ३३१–३३३, ३३५, ३३७, ३३८, ३४०, ३४१, ३४३, ३५१–५३, ३५५, ३५८, ३६५, ३६७, ३६९, ३७०, ३७१, ३७५, ३७८, ३८१– ३८४ |
@@ -447,8 +338,6 @@ Text (except Vedic texts)**
 | **वृद्धवसिष्ठ** ६८                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | **व्यास** ७–९, १५, १८, २०, २२, २३, ३१, ३४, ३९, ४०, ४९, ५०, ६७, ६८, ७३, ७४, ९४, ९, १००, १२९, १३०, १३७, १३८, १४२, १४३,                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-
-
 |                                                                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | १४७, १४८, १५०–१५२, १५४, १५७, १६५, १६९, १८५, १८६, १९१, १९४, १९५, २०१, २४२, २४९, २५२, २६०, २६२, २७९, २८५, २९१, २९२, २९४, ३२८, ३३१–३३३, ३३८, ३४४, ३४७, ३४९, ३७६ |
@@ -465,8 +354,6 @@ Text (except Vedic texts)**
 | **स्मृत्यन्तर** २३७, २५९, २८१, ३३१, ३३६                                                                                                                      |
 | **हलायुध** ३४०, ३६०                                                                                                                                          |
 | **हारीत** ७५, ८७, १०४, १३१, १४६, १४८, २१०, ३१५, ३२२, ३२७, ३३०, ३६२, ३७३                                                                                      |
-
-
 
 Bibliography (of works referred to).
 
@@ -504,8 +391,6 @@ Bibliography (of works referred to).
 
 मनुस्मृति ( निर्णयसागरed.of 1909 ) with the com. of कुल्लूक.
 
-
-
 महाभाष्य of पतञ्जलि ( ed. by Kielhorn )  
 मिताक्षरा (याज्ञवल्क्यस्मृतिटीका Nirṇaya-sāgara ed.)  
 याज्ञवल्क्यस्मृति ( निर्णयसागर ed. of 1926 ) with the मिताक्षरा  
@@ -516,15 +401,10 @@ Bibliography (of works referred to).
 व्यवहारमयूख-ed. by P. V. Kane for the Bhandarkar Oriental Research Institute, Poona  
 स्मृतिचन्द्रिका ( ed. by Mr. J. R. Gharpure)  
 
-
-
-
 **                             ** **Errata   ** **                         
        **
 
 [TABLE]
-
-
 
 **श्रीगणेशाय नमः**
 
@@ -576,8 +456,6 @@ Bibliography (of works referred to).
 
 उक्तो विषविधिः कोशविधिरुक्तस्ततः परम्॥
 
-
-
 **तण्डुलानां विधानं च तप्तमाषविधिस्ततः।**
 
 **उक्तः फालस्य च विधिर्धर्मजस्य विधिस्ततः॥**
@@ -628,8 +506,6 @@ Bibliography (of works referred to).
 
  **साध्यमूलः** प्रयोजनमूलकः। **वाद**शब्देनात्र प्रतिज्ञोत्तरक्रियानिर्णयरूपपदार्थचतुष्टयं गृह्यते याज्ञव-ल्क्यबृहस्पत्यादिवचनेष्वेतेषां चतुर्णां
 
-
-
 व्यवहारपादत्वाभिधानात्। तानि वचनान्यग्रेदर्शयिष्यन्ते। अत्र श्लोके **धर्माख्ये** इत्यन्तेन भागेन धर्मविच्छेदरूपोव्यवहारहेतुरुक्तः। अवशिष्टेन भागेन व्यवहारस्वरूपमुक्तम्। तस्य च वाक्यद्वयस्यैवं व्याख्या।**न्यायविस्तरे** न्यायस्य प्रमाणस्य विस्तरः प्रवृत्तिर्यस्मिंस्तस्मिन् विषये साध्यमूलो यो वादः स व्यवहारः। स च **प्रयत्नसाध्ये** विहिताचरणरूप[^6]प्रयत्ननिष्पाद्ये **धर्माख्ये** धर्मनामके वस्तुनि **विच्छिन्ने** विनष्टे सति भवतीति। **नारदो**प्यन्वयव्यतिरेकाभ्यां धर्मोच्छेदस्य व्यवहारे हेतुमाह
 
 [^6]: "व्यवहिताचरणरूप० इति अ-आदर्शे."
@@ -642,7 +518,6 @@ Bibliography (of works referred to).
 
 **नष्टे धर्मे मनुष्येषु व्यवहारः प्रवर्तते॥ इति।**
 
-                                   
   ( नारद, व्यवहारमातृका १—२ )।
 
  अथवा **प्रयत्नसाध्य** इति श्लोको वाक्यद्वयाश्रयणमन्तरेणैवं व्याख्येयः।**प्रयत्नसाध्ये** कष्टसाध्ये गृहक्षेत्रादिके विषये **विच्छिन्ने** स्वेच्छया भोक्तुमशक्ये सति **न्यायविस्तरे** न्यायः प्रमाणं विस्तीर्यते प्रपञ्च्यते निर्णीयते यस्मिंस्तस्मिन् **धर्माख्ये** धर्मनामके धर्माधिकरणमिति प्रसिद्धे सभालक्षणे स्थले **साध्यमूलको** **यो** गृहादिविषयो **वादः स व्यवहार** इति। विचारस्थानस्य धर्माधिकरणत्वमाह **कात्यायनः**
@@ -654,10 +529,6 @@ Bibliography (of works referred to).
  यद्यप्येतद् व्यवहारसामान्यरूपं संप्रतिपत्त्युत्तरे व्यवहारे नानुगतं **बृहस्पतिना–**द्विपात्संप्रतिपत्तिषु–इति द्विपात्त्वाभिधानात् तथापि अवयवेऽवयविलक्षणया तत्र व्यवहारपदप्रयोगोवगन्तव्यः।
 
  अयं व्यवहारो द्विविधः सोत्तरोऽनुत्तर इति। तथा च **नारदः** ( व्यः मा. अ. १ श्लो. ४ )
-
-
-
-
 
 **सोत्तरोऽनुत्तरश्चेति स विज्ञेयो द्विलक्षणः।**
 
@@ -701,8 +572,6 @@ Bibliography (of works referred to).
 
  **अनपाकर्म** अप्रदानम्। **क्रयविक्रयानुशय** इति क्रीतानुशयविक्रीयासंप्रदानयोरेकीकृत्योपादानम्।**स्त्रीपुंधर्म**शब्देन स्त्रीपुंधर्मपर्यालोचनं यत्र क्रियते तस्य स्त्रीपुंयोगाख्यस्य विवादपदस्य ग्रहणम्। **विभागो**
 
-
-
 दायभागः। **द्यूत**मप्राणिद्यूतम्। **आह्वयं** प्राणिद्यूतम्। इदमुभयमपि द्यूतत्वेनैकं पदं पृथङ्निर्देशस्त्ववान्तरभेदविवक्षया। तेन नाष्टादशत्वाभिधानविरोधः। **दण्डवाचिके** इत्यत्र दण्डशब्दस्याल्पाच्त्वात् पूर्वनिपातः। तेनात्र पाठक्रमो न विवक्षितः। अत एव तेन **(मनु. ८.२७८)**
 
 **एष दण्डविधिः प्रोक्तो वाक्पारुष्यस्य तत्त्वतः।**
@@ -728,8 +597,6 @@ Bibliography (of works referred to).
 **ऋणादानं ह्युपनिधिः सम्भूयोत्थानमेव च।**
 
 **दत्तस्य पुनरादानमशुश्रूषाभ्युपेत्य च॥**
-
-
 
 **वेतनस्यानपाकर्म तथैवास्वामिविक्रयः।**
 
@@ -773,12 +640,6 @@ Bibliography (of works referred to).
 
  व्यवहारदर्शनं क्रोधलोभरहितेन कर्तव्यम्। तथा च **याज्ञवल्क्यः** **(अ. २ श्लो.१)**
 
-
-
-
-
-
-
 **व्यवहारान्नृपः पश्येद् विद्वद्भिर्ब्राह्मणैः सह।**
 
 **धर्मशास्त्रानुसारेण क्रोधलोभविवर्जितः॥**
@@ -814,8 +675,6 @@ Bibliography (of works referred to).
 **राज्ञा सभासदः कार्या रिपौ मित्रे च ये समाः॥**
 
  **श्रुतं** मीमांसादिव्याकरणादिशास्त्रश्रवणम्। **अध्ययनं** **साङ्गवेदाध्ययनम्**।**कात्यायनः** (श्लो. ६६, ६७, ७१)
-
-
 
 **अलुब्धा धनवन्तश्च धर्मज्ञाः सत्यवादिनः।**
 
@@ -867,8 +726,6 @@ Bibliography (of works referred to).
 
  **व्यासः**
 
-
-
 **द्विजान्विहाय यः पश्येत्कार्याणि वृषलैः सह।**
 
 **तस्य प्रक्षुभ्यते राष्ट्रं बलं कोशश्च नश्यति॥**
@@ -915,8 +772,6 @@ Bibliography (of works referred to).
 
 **सभामेव प्रविश्याग्र्यामासीनः स्थित एव वा॥**
 
-
-
  **खिन्नः** श्रान्तः। तच्चराज्ञो विशेषणम्। **सभ्यैरेवे**त्येवकारेण राज्ञो व्यावृत्तिः। तेन कालान्तरवद्राजसंनिधानापेक्षा प्राड्विवाकेनास्मिन्पक्षे न कर्तव्येत्यर्थः। **सभामेवे**त्येवकारेण स्थलान्तरव्यावृत्तिः। **याज्ञवल्क्यः** (२. ३)
 
 **अपश्यता कार्यवशाद् व्यवहारान्नृपेण तु।**
@@ -961,8 +816,6 @@ Bibliography (of works referred to).
 
 [^13]: "तृषितक्षुच्चयोः–इति ब.तृषितकुच्चयोः–इति अ-क."
 
-
-
 **गणको गणयेदर्थं लिखेन्न्यायं च लेखकः॥**
 
 **प्रत्यर्थिसभ्यानयनं साक्षिणां च स्वपूरुषः।**
@@ -1002,8 +855,6 @@ Bibliography (of works referred to).
 **उपर्युपरिबुद्धीनां चरन्तीश्वरबुद्धयः॥**
 
  **कुलं** ज्ञातिसम्बन्धिबन्धूनां समूहः। **श्रेणि**र्भिन्नजातीयानामेककर्मोपजीविनां समूहः। **गणो** विजातीयानां नानाकर्मोपजीविनामेकग्रामादिवासिनां समूहः। **आदि**शब्देन सभ्यादीनां ग्रहणम्।**साहसन्यायव-**
-
-
 
 **र्ज्या**नि साहसाख्यव्यवहारपदव्यतिरिक्तानि। **नियुक्तकाः** सभ्याः।**याज्ञवल्क्यः** (२.३०)
 
@@ -1049,8 +900,6 @@ Bibliography (of works referred to).
 
 **एतानि धर्मशास्त्राणि पुराणं न्यायदर्शनम्॥ इति।**
 
-
-
  **अर्थशास्त्रं** नीतिशास्त्रम्।धर्मशास्त्रनीतिशास्त्रयोर्विरोधे व्यवस्थामाह **नारदः** (व्य. मा. अ. १ श्लो. ३९)
 
 **यत्र विप्रतिपत्तिः स्याद्धर्मशास्त्रार्थशास्त्रयोः।**
@@ -1092,8 +941,6 @@ Bibliography (of works referred to).
 **यस्य देशस्य यो धर्मः प्रवृत्तः सार्वकालिकः।**
 
 **श्रुतिस्मृत्यविरुद्धेन देशदृष्टः स उच्यते॥**
-
-
 
  शास्त्राभावे तु देशदृष्टानुसारेणैव निर्णयः कार्य इत्याह **स** एव (कात्या. श्लो. ४५)
 
@@ -1141,8 +988,6 @@ Bibliography (of works referred to).
 
  **सर्वे** ब्राह्मणादयः। पूर्वे इति **कृत्यकल्पतरौ** पाठः। पूर्वे पूर्वदेशे।
 
-
-
 **दमो** दण्डः। यत्तु स्मृत्यन्तरेष्वेतत्कर्मकरणे प्रायश्चित्तदण्डाभिधानं तदेतद्वचनानुपात्तदेशविषयम्। वणिगादीनां मिथो विवादे राज्ञा तद्धर्मं पर्यालोच्य[^17] तद्धर्माभिज्ञैरेव निर्णयः कारणीयः। तथा च **व्यासः**
 
 [^17]: "तद्धर्मपर्यालोचनम्–इति क."
@@ -1180,10 +1025,6 @@ Bibliography (of works referred to).
 **उत्कृष्टजातिशीलानां गुर्वाचार्यतपस्विनाम्॥**
 
  **सम्यग्विज्ञानसम्पन्नेने**ति तृतीयान्तं पदम्। गुरुशिष्यादीनां
-
-
-
-
 
 मिथो विवादे राजा केनचित्प्रकारेण यथाभ्यर्थितमर्थमवकलय्य विवादोपशमं कुर्यात्। न तु प्रतिज्ञोत्तरलेखनपूर्वकं विचारं कुर्यात्। एतदेवाभिप्रेत्याह **बृहस्पतिः**
 
@@ -1227,8 +1068,6 @@ Bibliography (of works referred to).
 
  आवेदनानन्तरं कार्यान्तरवैयग्र्येण राज्ञा प्रतिवादिनोऽनाह्वाने राजाज्ञया
 
-
-
 तद्दानपर्यन्तं वाद्येव केनचित्पुरुषेण प्रतिवादिनो निरोधं कुर्यात्। तथा च **कात्यायनः** (श्लो. २८,१०४)
 
 **उत्पादयति यो हिंसां देयं वा न प्रयच्छति।**
@@ -1247,7 +1086,6 @@ Bibliography (of works referred to).
 
 [^18]: "एतदर्धं न विद्यते अ–आदर्शे."
 
-
 **वक्तव्ये**[^19] निर्णेतव्ये। **न तिष्ठन्तं** निर्णयार्थमव्याप्रियमाणम्। **उत्क्रामन्तं** अतिक्रामन्तम्। **तद्वचो** वादिवचः। आसेधस्य चातुर्विध्यमाह **स** एव ( नारद, व्य. मा. अ. १ श्लो. ४८ )।
 
 [^19]: "वक्तव्ये....अतिक्रामन्तम्-इत्येतानि वाक्यानि न सन्ति अआदर्शे."
@@ -1257,10 +1095,6 @@ Bibliography (of works referred to).
 **चतुर्विधः स्यादासेधस्तमासिद्धो न लङ्घयेत्॥**
 
  अमुं विवादमनिर्णीयास्मात्प्रदेशादन्यत्र पदप्रक्षेपो न कार्य इत्येवंरूप आसेधः **स्थानासेधः**। एतन्निर्णयमकृत्वा त्वयास्मिन्दिने भोजनं न कर्तव्यमित्येवमादिरूपः **कालासेधः**। निर्णयमकृत्वा ग्रामान्तरं न गन्तव्यमित्येवंरूपः **प्रवासासेधः**। परिच्छेदमविधाय सन्ध्यावन्दनादिकं न करणीयमित्येवंरूपो देशकालावच्छेदरहितः कर्मनिरोधः **कर्मासेधः**। स्वनियुक्तपुरुषेण कृतस्य निरोधस्यातिक्रमे स्वपक्षसाधनसामर्थ्ये स्वहस्तेनासेधं कुर्यात्। तथा च **कात्यायनः**
-
-
-
-
 
 **क्रियार्थिना निरुद्धः सन्नासेधं चेद्विलङ्घयेत्।**
 
@@ -1306,8 +1140,6 @@ Bibliography (of works referred to).
 
 **अभियुक्तस्तथान्येन राजकार्योद्यतस्तथा॥**
 
-
-
 **गवां प्रचारे गोपालाः सस्यावापे कृषीवलाः।**
 
 **शिल्पिनश्चापि तत्कालमायुधीयाश्चविग्रहे॥**
@@ -1347,8 +1179,6 @@ Bibliography (of works referred to).
 **निष्कुलाश्चैव पतितास्तासामाह्वानमिष्यते॥इति।**
 
  **तदधीनकुटुम्बिन्यः** कुटुम्बपोषणकारिण्य आभीरादिस्त्रियः। **स्वैरिण्यो** व्यभिचारिण्यः।**गणिका** वेश्या॥ ये त्वभियुक्तास्तद्भयात्संन्यासादिकं गृह्णन्ति तेषामपि क्वचिदाह्वानमाह **स** एव
-
-
 
 **ज्ञात्वाभियोगं येपि स्युर्वने प्रव्रजितादयः।**
 
@@ -1398,12 +1228,6 @@ Bibliography (of works referred to).
 
 तयोरन्ते सदस्यास्तु प्राड्विवाकस्ततः परम्॥
 
-
-
-
-
-
-
 **नारदोपि** (व्य. मा. अ. २. श्लो. ३८) पूर्वमावेदयितुः प्रतिज्ञावादित्वमाह
 
 **राज्ञे कुर्यात्पूर्वमावेदनं यस्तस्य ज्ञेयः पूर्ववादो विधिज्ञैः॥इति।**
@@ -1444,11 +1268,8 @@ Bibliography (of works referred to).
 
 ** अभियुक्तेन** प्रत्यर्थिना।**अर्थिना** वादिना।**प्रतिवादि**शब्दोऽत्र प्रतिनिधिपरो न तु प्रत्यर्थिपरः।प्रतिपन्नश्च यः स्वयं यः स्वयमप्य-
 
-
-
 हमस्य प्रतिनिधिर्भविष्यामीति कृताङ्गीकारः।अत्र प्रतिपन्नश्चेतिशब्देन अर्थिसमर्पितत्वस्वयंप्रतिपन्नत्वयोः समुच्चितयोः प्रतिनिधित्वे प्रयोजकत्वमुक्तम्।प्रतिनिधिजयपराजयौ वादिप्रतिवादिगामिनावित्याह **नारदः**
 
-                                   
                        (व्य.मा.अ.२ श्लो.२२)
 
 **अर्थिना संनियुक्तो वा प्रत्यर्थिप्रेरितोऽपि वा।**
@@ -1489,10 +1310,6 @@ Bibliography (of works referred to).
 
  अनिर्णीतक्रियां कल्पयित्वा परामृश्य वादिनो विवदमानस्य प्रतिज्ञां भावयेत् साधयेत्। मिथ्योत्तरे इति शेषः। प्रत्यर्थी कारणं साधयेत्प्रत्यवस्कन्दने इति शेषः। प्राग्वृत्तवादी प्राङ्न्यायोत्तरवादी जयपत्रेणेति प्राड्विवाकादीनामुपलक्षणम्। अत एव **व्यासः**
 
-
-
-
-
 **प्राङ्न्याये जयपत्रेण प्राड्विवाकादिभिस्तथा। इति।**
 
  **नारदः**
@@ -1520,8 +1337,6 @@ Bibliography (of works referred to).
 **उभयोः प्रतिभूर्ग्राह्यः समर्थः कार्यनिर्णये।**
 
  निर्णयस्य कार्यं यत् साधितधनदानं दण्डद्रव्यदानं च तत् **कार्यनिर्णयः**। पूर्वनिपातशास्त्रस्यानित्यत्वात् तुल्यास्यप्रयत्नं सवर्णम् (पाणिनि १. १. ९) इति सूत्रे प्रारम्भोत्पन्नस्य ( प्रारम्भो यत्नस्य ? ) प्रयत्न इति वदता **महाभाष्यकारेण** क्वचित् षष्ठीसमासे षष्ठ्यन्तस्य परनिपातो
-
-
 
 भवतीति ज्ञापनाद्वा निर्णयशब्दस्य परनिपातः। **विज्ञानेश्वरस्तु** आहिताग्न्यादिगणपाठात् कार्यशब्दस्य पूर्वनिपातमाह। प्रतिभूत्वेनाग्राह्यानाह **कात्यायनः** (श्लो. ११४–११६ )
 
@@ -1560,8 +1375,6 @@ Bibliography (of works referred to).
 **द्विजातिः प्रतिभूहीनो रक्ष्यः स्याद् बाह्यचारिभिः।**
 
 **शूद्रादीन्प्रतिभूहीनान्बन्धयेन्निगडेनतु॥**
-
-
 
 **अतिक्रमेऽपयाने च दण्डयेत्तं पणाष्टकम्।**
 
@@ -1602,10 +1415,6 @@ Bibliography (of works referred to).
 [^24]: "तनुः- इति अ–क–आदर्शयोः."
 
 **विकारो वा व्यथा गात्रे गतिर्वा स्यान्न वान्यथा॥**
-
-
-
-
 
 **स जयी यद्यकोपः स्यान्न चेत् प्राक्तन एव हि।**
 
@@ -1655,8 +1464,6 @@ Bibliography (of works referred to).
 
  **आदेश्य**मभियोगम्। आदेशो यत्रार्थिप्रत्यर्थिनौ ऋणादानादिकाले स्थितौ स प्रदेश इति **कृत्यकल्पतरौ**। **स्मृतिचन्द्रिकायां** त्वदेश इति पठित्वा निर्णयसमयासम्भवी साक्षीति व्याख्यातम्। **अधरोत्तरान्**
 
-
-
 पूर्वापरान्। **विगीतान्** विरुद्धान्। **अपदिश्य** उक्त्वा। **अपदेशं** व्याजम्।**अपधावति** अपसरति। **सम्यक्प्रणिहितं** सम्यगभिहितम्।**पृष्टःसन्** किमत्रोत्तरं कथयसि केन प्रमाणेन स्वपक्षं साधयसीति पृष्टःसन्।**नाभिनन्दति** नोत्तरयति। **असम्भाष्ये देशे** सम्भाषणानर्हे प्रदेशे। **निष्पतेत्** अनुक्त्वा ग्रामान्तरं गच्छेत्। पूर्वोक्तस्यार्थस्य **ब्रूहि** इत्यादिना पुनर्वचनं दार्ढ्यार्थम्। **धर्मस्थो** धर्माधिकरणस्थः। **वध्यो**वधार्हे विषये। **दण्ड्यो** दण्डार्हे विषये। **याज्ञवल्क्यः** (२.१६)
 
 **सन्दिग्धार्थं स्वतन्त्रो यः साधयेद्यश्च निष्पतेत्।**
@@ -1690,10 +1497,6 @@ Bibliography (of works referred to).
 **तां क्रियां द्वेष्टि यो मोहात् क्रियाद्वेषी स उच्यते॥ इति।**
 
  **नोपस्थायी** सभ्यादिनिरूपिते काले सभायामप्राप्तः। दैविकादिविघ्नेनानागमने दोषाभावमाह **बृहस्पतिः**
-
-
-
-
 
 **आचारकरणे दिव्ये कृत्वोपस्थाननिर्णयम्।**
 
@@ -1741,10 +1544,6 @@ Bibliography (of works referred to).
 
  **स्ववाक्यप्रतिपन्नः** स्वयमङ्गीकृतपराजयः। अत्र त्रिंशद्रात्रादित्यादि-
 
-
-
-
-
 कालविशेषनिर्देशः कार्यलाघवगौरवानुसारी अल्पकालबहुकालोपलक्षणपरः। एतेषु हीनवादिचिह्नेषु कानिचित् साक्षिपराजितत्वादीनि चिह्नानि वाद्यभिमतार्थाभावनिश्चायकानि। तेषां दर्शने दण्डभङ्गौ कल्पनीयौ। तथा च **कात्यायनः** (श्लो. २०६ )
 
 **दोषानुरूपं संग्राह्यः पुनर्वादो न विद्यते।**
@@ -1776,10 +1575,6 @@ Bibliography (of works referred to).
  **सर्वेष्वर्थविवादेषु** अमन्युकृतेषु विवादेषु **वाक्छले** प्रमादाभिधाने **नावसीदति** न पराजयवान् भवति। तत्र दृष्टान्तः[^27] नास्ति अ–क आदर्शयोः.")। यथा पशुस्त्रीभूम्यृणादानेषु प्रमादाभिधानेन शास्योपि दण्ड्योपि स्वाभिमताद्वर्थान्न हीयते।
 
 [^27]: "तत्र दृष्टान्तः इत्यस्मात् साधयितृत्वादर्थी इत्यन्तो ग्रन्थः (पृष्ठ ३१ पङ्क्ति ७
-
-
-
-
 
 अत्रार्थविवादेष्वित्यभिधानान्मन्युकृतविवादेषु प्रकृतार्थहानिरुक्ता। पूर्वपक्षोत्तरलेखनानन्तरं राजानमविज्ञाप्य वादिप्रतिवादिनोर्मिथो मेलने दण्डमाह **कात्यायनः** (श्लो. २०६ )
 
@@ -1813,12 +1608,6 @@ Bibliography (of works referred to).
 
  अथ क्रियादानान्तरं कर्तव्यं क्रियाभेदादिकं च निर्दिष्टं तत्र क्रियादानमभिधायाह **बृहस्पतिः**
 
-
-
-
-
-
-
 **श्रुत्वा पूर्वोत्तरं सभ्यैर्निर्दिष्टा यस्य भावना।**
 
 **विभावयेत्प्रतिज्ञातं सोऽखिलं लिखितादिना॥**
@@ -1843,8 +1632,6 @@ Bibliography (of works referred to).
 
 **धटाद्या धर्मजान्त्या च दैवी नवविधा स्मृता॥**
 
-
-
  अत्र भुक्तेः पृथगनिर्देशोऽनुमानेऽन्तर्भावात्। साक्ष्यादिभेदनिरूपणं तत्प्रकरणे करिष्यते। **कात्यायनः** (श्लो. २१४ )
 
  साक्षिणो लिखितं भुक्तिः प्रमाणं त्रिविधं विदुः।
@@ -1856,8 +1643,6 @@ Bibliography (of works referred to).
 **एषामन्यतमाभावे दिव्यान्यतममुच्यते॥**
 
  **एषामन्यतम**स्याप्य**भावे** दिव्येषु धटादिष्वन्यतमं प्रमाणत्वेन ग्राह्यमिति शास्त्रविद्भिरुच्यत इत्यर्थः। **कात्यायनो**प्यनेनैवाभिप्रायेणैकस्मिन्वस्तुनि ममेदं ममेदमिति विवदमानयोर्युगपत्सभामागतयोरेकेन सा-
-
-
 
 क्ष्यादिप्रमाणावलम्बने अपरेण दिव्यावलम्बने साक्ष्यादिकमेव ग्राह्यम्। तथा सुवर्णशतमस्मिन्दिने इयत्या वृद्ध्या गृहीतं तदिदानीं मूलं वृद्धिं च न प्रयच्छतीत्यभियोगे प्रत्यर्थिना त्वपलापे कृते ऋणग्रहणे यदि साक्षिणः स्युः संख्यायां वृद्धिविशेषे वा न स्युस्तदाहं दिव्येन संख्यादिकं साधयिष्यामीत्यर्थिनोक्तेपि न तत्र दिव्यं ग्राह्यं स्थालीपुलाकन्यायेन संख्या वृद्धिविशेषयोर्निश्चयसम्भवादित्याह ( कात्या. २१८-२१९ )
 
@@ -1882,8 +1667,6 @@ Bibliography (of works referred to).
 **ऊने वाभ्यधिके वार्थे प्रोक्ते साध्यं न सिध्यति॥**
 
  इति **कात्यायन**वचनं (श्लो. ३९६ ) तद्विरोध इति वाच्यं, यत्रार्थिना सर्वस्मिन्प्रतिज्ञातेर्थे प्रमाणत्वेनोपन्यस्तैः साक्षिभिरेकदेशः साध्यते तद्विषयत्वात्। **याज्ञवल्क्य**वचनस्य त्वेतद्व्यतिरिक्तविषयत्वात्। साहसादौ तु सकलार्थसाधकत्वेनोपन्यस्तैरपि साक्षिभिरेकदेशस्याप्यभिधाने सकलार्थसिद्धिरक्तानेनैव।
-
-
 
 **साध्यार्थांशेऽपि गदिते साक्षिभिः सकलं भवेत्।**
 
@@ -1924,8 +1707,6 @@ Bibliography (of works referred to).
 **द्वारमार्गक्रियाभोगजलवाहादिके तथा।**
 
 **भुक्तिरेव हि गुर्वी स्यान्न लेख्यं न च साक्षिणः॥ इति।**
-
-
 
  **द्वारक्रिया** जननिःसरणप्रवेशरूपा मार्गक्रिया गवादिनिःसरणमार्गः। भुज्यत इति **भोगो** गृहक्षेत्रादिः। **जलवाहो** जलनिःसरणमार्गः। क्वचिद् दिव्यप्राबल्यमाह **बृहस्पतिः**
 
@@ -1971,8 +1752,6 @@ Bibliography (of works referred to).
 
 **तदा दिव्यैः परीक्षेत शपथैश्च पृथग्विधैः॥**
 
-
-
 **स्त्रीणां शीलाभियोगे च स्तेयसाहसयोरपि।**
 
 **एष एव विधिर्दृष्टः सर्वार्थापह्नवेषु च॥**
@@ -2011,8 +1790,6 @@ Bibliography (of works referred to).
 
  यदा तु न साक्ष्यादिसद्भावस्तदा दिव्यं ग्राह्यमेव। अन्यथा तस्य विवादस्य कदाचिदपि निर्णयाभावप्रसङ्गात्। न च ऋणादानाद्येष्वपि विवादेषु साक्ष्यादिसद्भावे दिव्याद्यग्रहणं साक्षाद्यभावे दिव्यग्रहणमिति स्थावरविवादे तदपेक्षया विशेषाभावादेतद्वचनमपार्थकं भविष्यतीति शङ्कनी-
 
-
-
 यम् ।यथा ऋणादिषु विवादेषु साक्षिसद्भावेपि प्रतिवादिना पराजये दण्डविशेषमभ्युपगम्य दिव्यं मया कर्तव्यमित्यभिधाने साक्षिषु क्रोधलोभादिपुरुषदोषाणां सम्भावितत्वाद् दिव्यस्य तु दोषराहित्येन यथावस्थि तार्थज्ञापनसमर्थत्वादस्मिन्नेव विषये दैवसाध्ये पौरुषेयीं न लेखाद्यां प्रयोजयेदिति **कात्यायनेन** लिखिते साक्ष्यादीनामग्राह्यत्वाभिधानाच्च दिव्यं ग्राह्यं भवति तथा स्थावरविषयेषु विवादेषु साक्षिसद्भावे प्रतिवादिना दण्डमभ्युपगम्य दिव्यं कर्तव्यमित्यभिधानेपि न दिव्यं ग्राह्यमित्येतद्विशेषावबोधनार्थत्वात्। यत्र त्वल्पकार्यत्वान्न दिव्यप्रवृत्तिर्न च साक्ष्यादिसद्भावस्तत्रराजेच्छैव प्रमाणमित्याह **पितामहः**
 
 **लेख्यं यत्र न विद्येत न भुक्तिर्न च साक्षिणः।**
@@ -2042,8 +1819,6 @@ Bibliography (of works referred to).
 **नृपोऽध्यक्षस्तथा ग्रामः साक्षी द्वादशधा स्मृतः। इति।**
 
  **अध्यक्षः** प्राड्विवाकः। अध्यक्षग्रहणं सभ्यलेखकादीनामुपलक्षणम्। यत आह **कात्यायनः** ( श्लो. ३५५)
-
-
 
 **लेखकः प्राड्विवाकश्च सभ्याश्चैवा[^30]नुपूर्वशः।**
 
@@ -2087,10 +1862,6 @@ Bibliography (of works referred to).
 
 **अत्र साक्षी त्वमस्माकमुक्तो यादृच्छिको मतः॥**
 
-
-
-
-
 **यत्र साक्षी दिशं गच्छन्मुमूर्षुर्वा यथाश्रुतम्।**
 
 **अन्यं संश्रावयेत्तं तु विद्यादुत्तरसाक्षिणम्॥**
@@ -2114,8 +1885,6 @@ Bibliography (of works referred to).
  **जाति**र्ब्राह्मणत्वादिका। **नाम** देवदत्तादि। **स्वं** आत्मीयम् ।**पित्र्यं** पितृसम्बन्धि \। **निवासो** वासस्थानं वाराणस्यादिः। **आर्थिक्रिया**मित्यस्यायमर्थः। **क्रियाभेदैः** प्रमाणविशेषैराप्तवाक्यादिभि**रर्थिक्रियां** कृत्वा अर्थिसम्बन्धिनः कार्यस्य निश्चयं कृत्वा तस्यार्थिनः सम्बन्धिनि ऋणादिके प्रत्यक्षं यो लेख्यते स लेखित उदाहृत इति। **विनिह्नुते** न प्रकाशयति। यथाभूतं यथाश्रुतमर्थम्। **न्यासक्रिया** न्यासलक्षणं कार्यम्। **आधाने** आधौ बन्धके इति यावत्। **प्रेषितः** अर्थिना प्रत्यर्थिसमीपं प्रत्यर्थिना चार्थिसमीपं चेति शेषः[^31]। **कर्तव्ये** ऋणदानादिरूपे कार्ये। **दिशं** देशान्तरम्। **उभाभ्यां यस्ये**त्यस्यायमर्थः। **उभाभ्या**मर्थिप्रत्यर्थिभ्यां **यस्य विश्वस्तं** यस्य वै तत्कार्यं प्रकाशनीयमित्येवरूपो विश्वासः कृतः **कार्यं** वाभिहितं स तथा तेन रूपेणाप्रकाशकत्वेन स्थितो गूढचारी कार्यमध्यगतो विज्ञेय इति। प्राड्विवाकसभ्यग्रहणं गणकलेखकयोरुपलक्षणम्। **सभ्यसहित** इति सभ्यादीनामपि पुनर्न्याये साक्षित्वमित्यभिधानार्थं न तु सभ्यादिविशिष्टस्यैव प्राड्विवाकस्य साक्षित्वबोधनार्थं
 
 [^31]: " समीपं चेन्निवेशः - इति क."
-
-
 
 **लेखकः प्राड्विवाकश्चसभ्याश्चैवानुपूर्वशः।**
 
@@ -2157,8 +1926,6 @@ Bibliography (of works referred to).
 
  निक्षेपादिष्वनाप्तत्वेन प्रागज्ञात एकोऽपि साक्षीत्याह **कात्यायनः** (श्लो. ३५३ )
 
-
-
 **अभ्यन्तरस्थनिक्षेपे साक्ष्यमेकोऽपि वाच्यते।**
 
 **अर्थिना प्रहितः साक्षी भवेदेकोऽपि याचिते॥**
@@ -2194,10 +1961,6 @@ Bibliography (of works referred to).
  **आप्ताः** यथाप्रमितार्थवादिनः। **शिष्टाः** निषिद्धकर्माचरणरहिताः। विबुद्धाः शास्त्रार्थज्ञानवन्तः। आदिकर्मविवक्षया कर्तरि क्तः (पा. ३. ४. ७१)। **विभाव्य** इति। **यादृक्** यज्ज्ञातीयः प्रतिवादी **वादिना विभाव्यः** स्वीकारयितव्यः **तत्सदृशैरेव** प्रतिवादिजातीयैरेव **विभावयेत्** अङ्गीकारयेत्सभ्य इति शेषः। **वादिने**त्युपलक्षणं प्रतिवादिनेत्युपलक्षणम्[^33]। प्रतिवादिनापि वादिजातीयैरेवाङ्गीकारयितव्यः। **नारदः** (ऋणादान, १५५)
 
 [^33]: "'प्रतिवादि•••लक्षणम्' इत्येतन्नास्ति ब–आदर्शे."
-
-
-
-
 
 **श्रेणिषु श्रेणिपुरुषाः स्वेषु वर्गेषु वर्गिणः।**
 
@@ -2237,8 +2000,6 @@ Bibliography (of works referred to).
 
 **रङ्गावतारिपाषण्डिकूटकृद्विकलेन्द्रियाः॥**
 
-
-
 **पतिताप्तार्थसम्बन्धिसहायरिपुतस्कराः[^34]।**
 
 [^34]: "सहायस्तेयतस्कराः–इति क."
@@ -2258,10 +2019,6 @@ Bibliography (of works referred to).
 **दासनैकृतिकाश्रद्धवृद्धस्त्रीबालचाक्रिकाः।**
 
 **मत्तोन्मत्तप्रमत्तार्तकितवग्रामयाजकाः॥**
-
-
-
-
 
 **महापथिकसामुद्रवणिक्प्रव्रजितातुराः।**
 
@@ -2307,14 +2064,6 @@ Bibliography (of works referred to).
 
  **नैकृतिकः** परच्छिद्रान्वेषणशीलः। **अश्रद्धः** श्रद्धारहितः। **चाक्रिको** वैतालिकः। **प्रमत्तः** सदानवहितचित्तः। **आर्तो** दुःखितः।**महापथिको** महापथगामी। **सामुद्रवणिक्**वहित्रयायी। **आतुरो**रोगी। **व्यङ्गः** विगताङ्गः। **आचारहीनः** आचाररहितः। **एकस्थाली** स्थालीशब्देनात्र स्थाल्यां कृतभोजनार्थान्नपाको गृह्यते। एका स्थाली यस्य
 
-
-
-
-
-
-
-
-
 स एकस्थाली। समासान्तविधेरनित्यत्वान्नात्र कप्। अर्धपिप्पलीत्यादिवन्न ह्रस्वः। **अरिचरः** पूर्वं शत्रुः। भूतपूर्वे चरट्र (पा. ५. ३. ५३)। **कृत्यकल्पतरौ** तु अरिधर इति पठित्वा अरिधरः शस्त्रधारीति व्याख्यातम्। **ज्ञातयः** सगोत्राः **सनाभयो** मातुलतत्सुतमातृष्वस्त्रीयादयः। **शैलूषः** स्त्रीणां नर्तयिता। **विषजीवी** विषविक्रयजीवी। **आहितुण्डिकः** सर्पग्राही। **गरदः**-विषदः। **अग्निदो** गृहादिदाहकर्ता। **कीनाशः** कृपणः। **उपपातकः** पातकयुक्तः। उप समीपे पातकं यस्य स तथेति विग्रहः। **क्लान्तो** अतिखिन्नः। **अश्रान्तो**ऽनवरतकर्मकारी। **निर्धूतो** बान्धवैर्बहिष्कृतः। लोकभयशून्य इति प्राच्याः। **अन्तावसायी** नापितः। **भिन्नवृत्तः** कुत्सिताचारः। **असमावृत्तः** अकृतसमावर्तनः। जडो मूर्खः। **तैलिकः** तिलविक्रयाजीवी। **मूलिको** मूलमत्र विप्रलम्भस्तत्कारीत्युक्तं **कृत्यकल्पतरौ**। **वर्षसूचको** वृष्टिसूचकः। **नक्षत्रसूचकः** ज्योतिषिकः। **अघशंसी** परकीयपापप्रकाशनकर्ता। **हीनाङ्गो** न्यूनाङ्गः। **भगवृत्ति**र्भार्यादास्यादिसम्भोगशुल्कोपजीवी। **शठो**ऽत्र खलः। **शौण्डिकः** सुराविक्रयी। **शङ्खो**वृषभनर्तनजीवी। **कुहको** दाम्भिकः। **प्रत्यवसितः** प्रव्रज्यातश्च्युतः। **कुलिकः** कुलं ब्राह्मणादिसङ्घस्तत्र नियुक्तः ब्राह्मणादिगणाधिकारीति यावत्। **सूचको** राज्ञा परदोषनिवेदने नियुक्तः। **भेदकृत्** मित्रादिप्रीतिभङ्गकर्ता। **श्रेण्यादि**ष्वित्यस्यायमर्थः। यस्य येषु श्रेण्यादिष्वेकः शत्रुस्तस्य विवादे तेषु श्रेण्यादिषु निविष्टा अन्येपि न साक्षिणो भवन्तीति। **कात्यायनः** (श्लो. ३६१–३६४)
 
 **तद्वृत्तिजीविनो ये च तत्सेवाहितकारिणः।**
@@ -2328,8 +2077,6 @@ Bibliography (of works referred to).
 **कुल्याः सम्बन्धिनश्चैव विवाह्यो भगिनीपतिः।**
 
 **पिता बन्धुः पितृव्यश्च श्वशुरो गुरवस्तथा॥**
-
-
 
 **नगरग्रामदेशेषु नियुक्ता ये पदेषु च।**
 
@@ -2373,8 +2120,6 @@ Bibliography (of works referred to).
 
 **वचनं यत्र भिद्येत ते स्युर्भेदादसाक्षिणः॥**
 
-
-
 **स्मृतिमत्साक्षिसाम्यं तु विवादे यत्र दृश्यते।**
 
 **सूक्ष्मत्वात्साक्षिधर्मस्य साक्ष्यं व्यावर्तते ततः॥**
@@ -2395,8 +2140,6 @@ Bibliography (of works referred to).
 
 ** आदि**शब्देन याचितकादीनां ग्रहणम्। **मुमूर्षुश्रावित** इत्यत्र प्रयोज्यव्यापारव्याप्ये कर्मणि क्तप्रत्ययः। ‘कथितेऽभिहिते त्वविधिस्त्वमतिर्गुणकर्मणि लादिविधिः सपरे ध्रुवचेष्टितयुक्तिषु चाप्यगुणे तदनल्पमतेर्वचनं स्मरत’ इति **महाभाष्यो**पनिबद्धे **वार्तिके** गत्यर्थाकर्मकेतरधातु-प्रकृतिकणिजन्तेभ्यः कथिते प्रधानकर्मणि गुणकर्मण्यप्रधानकर्मणि च पर्यायेण लकारादयो भवन्तीत्यभिधानात्॥ पूर्वोक्तानां वाचनिकाद्यसाक्षिणां स्पष्टीकरणार्थं **श्रोत्रियास्तापसा** इत्यादि वाक्यकदम्बकम्। अत्र श्रोत्रियास्तापसाश्चये परब्रह्मैकतानमानसा बाह्यपदार्थानासक्तचि-
 
-
-
 त्तास्ते विवक्षिताः। तेषां विप्रतिपन्नार्थस्मरणासम्भवात् सकलश्रोत्रियतापसग्रहणे पूर्वोदाहृत बृहस्पतियाज्ञवल्क्यवचनविरोधाच्च। **वचनात्** न तु दोषतः। **नात्र हेतुः** दोषरूप इत्यर्थः। **चण्डाः**अत्यन्तकोपनाः। **वधका**: प्राणिहिंसाकारिणः। **एकार्थनिश्चये** कर्तव्ये इति शेषः। वचनभेदमात्रेण नासाक्षित्वं किंतु चिरानुभूतार्थस्मरणादिगुणैः संख्यया च समानां वचनभेदे के सत्यवादिनः के मृषावादिन इति विवेचनासम्भवेन साक्षित्वस्य दुर्ज्ञानत्वात्तेषामसाक्षित्वमि-त्येतदर्थप्रतिपादकं **स्मृतिमत्साक्षिसाम्यं** त्विति वाक्यम्।तेनास्य न पूर्ववाक्यापेक्षया पौनरुक्त्यम्।यत्तु बहुष्वेकस्यान्यथावादे सर्वेषामप्यसाक्षित्वमित्येतदर्थप्रतिपादकं
 
 **साक्षिणां लिखितानां च निर्दिष्टानां च वादिना।**
@@ -2412,8 +2155,6 @@ Bibliography (of works referred to).
  **योऽर्थः श्रावयितव्य** इत्यस्यायमर्थः। योऽर्थस्त्वयात्र साक्षिवादो वक्तव्य इत्येवंरूपो येनार्थिना साक्षिणि श्रावयितव्यस्तस्मिन्नर्थिनि मृते श्रावयितुरभावेन क्व कस्मिन्ननिर्दिष्टेऽर्थे साक्षित्वं वदत्वित्यतो[^36] हेतोर्मृतान्तरो न साक्षीति। असाक्षित्वेनोक्तानामेतेषां क्वचित्साक्षित्वमाह **नारदः** ( ऋणादान, १८८ )
 
 [^36]: "क–आदर्शे ‘वदत्विति’ इत्यस्मादनन्तरं कानिचिद्वाक्यानि विसंष्ठुलानि पौर्वापर्यरहितानि 'अपक्षपातिन इति यावत्' इत्यन्तम् ।"
-
-
 
 **असाक्षिणो ये निर्दिष्टा दासनैकृतिकादयः।**
 
@@ -2461,8 +2202,6 @@ Bibliography (of works referred to).
 
 **वाग्दण्डयोश्च पारुष्ये न परीक्षेत साक्षिणः॥**
 
-
-
 **यत्तु**
 
 **ऋणादिषु परीक्षेत साक्षिणः स्थिरकर्मसु।**
@@ -2499,8 +2238,6 @@ Bibliography (of works referred to).
 
 **जितः सविनयं दाप्यः शास्त्रदृष्टेन कर्मणा।**
 
-
-
 **यदि वादी निराकाङ्क्षः साक्षिष्वेव व्यवस्थितः[^37]॥ इति।**
 
 [^37]: " 'साक्ष्यं सभ्येष्ववस्थितः' इति व"
@@ -2531,8 +2268,6 @@ Bibliography (of works referred to).
 
 **गूढास्तु प्रकटाः सभ्यैः काले शास्त्रप्रदर्शनात्॥**
 
-
-
 **गूढाः** शास्त्रप्रदर्शनेन **सभ्यैः** स्फुटीकृत्य **काले** साक्षिवादात्पूर्वकाले **वक्तव्या** इत्यर्थः। साक्षिवादा-नन्तरं दोषोद्भावनं न कार्यमित्याह **बृहस्पतिः**
 
 **लेख्यदोषास्तु ये केचित्साक्षिणां चैव ये स्मृताः।**
@@ -2557,7 +2292,6 @@ Bibliography (of works referred to).
 
 **गृहीत्वा तस्य सर्वस्वं कुर्यान्निर्विषयं ततः ॥ इति।**
 
-
 **कार्यस्य[^38] लोभेन** स्वाभिहितार्थसिद्धिवाञ्छया। **कूटसाक्षिण**: दुष्टसाक्षिणः। **सर्वस्व**ग्रहणमुपलक्षणम्। तेन विवादगुरुलघुभावमालोच्य दण्डो ग्राह्यः। **निर्विषयं** विवादविषयीभूतार्थरहितम्। **ततः** तस्मात्कूट-साक्ष्युपादानलक्षणात्कारणात्॥सभायामागतानां साक्षिणां केनचित्तद्दूषणानुद्भावनेऽपि राज्ञा ते परीक्षणीयाः। तथा च **कात्यायनः** (श्लो. ३४०)
 
 [^38]: "कार्यस्य``` दुष्टसाक्षिणः- इत्येते शब्दाः न सन्ति अ-क- आदर्शयोः.."
@@ -2565,8 +2299,6 @@ Bibliography (of works referred to).
 **उपस्थितान् परीक्षेत साक्षिणो नृपतिः स्वयम्। इति**
 
 ** बृहस्पतिरपि**
-
-
 
 **उपस्थिताः परीक्ष्याः स्युः स्वरवर्णेङ्गितादिभिः।**
 
@@ -2591,8 +2323,6 @@ Bibliography (of works referred to).
  **आविद्धं** व्याकुलम्। **शङ्खलिखिता**वपि—मन्त्रिभिः शास्त्रसामर्थ्याद् दुष्टलक्षणं ग्राह्यम्। तिर्यक् प्रेक्षते समन्तादेवावलोकयत्यकस्मान्मूत्रपुरीषं विसृजति देशादेशं गच्छति पाणिना पाणिं पीडयति नखान्निकृन्ततिमुखमस्य विवर्णतामेति प्रस्विद्यति चास्य ललाटं न चक्षुर्न च वाचं प्रतिपूजयत्यकस्माद् ददाति प्रशंसति पुनः पुनरन्यमपनुदति बहिर्निरीक्षते शस्त्रं परामृशति भूमिं विलिखति शिरः प्रकम्पयन्नोष्ठौ निर्भुजति सृक्किणी परिलेढि अतिविस्मितः कर्मस्वमहत्स्वपि भ्रुवौ संहरति हसति तूष्णीं ध्यायति पूर्वोत्तरविरुद्धं व्याहरत्येवमादि दुष्टलक्षणम्। क्रुद्धस्य च स्वामिनोऽन्यत्र प्रकृतिशीलात्। इति। **क्रुद्धस्य च स्वामिन** एवमादि दुष्टलक्षणमित्यनुषङ्गः। **अन्यत्र प्रकृतिशीलात्।** प्रकृत्या स्वभावेन शीलं पूर्वोक्तप्रेक्षणादिधर्मो यस्य स प्रकृतिशीलः ततोऽन्यत्रैतानि दुष्टक्रुद्धस्वामिलक्षणानि। स्वाभाविकतिर्यक्प्रेक्षणादिधर्मयोगी न दुष्टो नापि तादृशः स्वामी क्रुद्ध इत्यर्थः ॥
 
  एवं परीक्षितानां साक्षिणां दुष्टत्वस्याप्रतिपत्तौ विप्रतिपन्नमर्थं तेप्रष्टव्याः। तत्र प्रकारमाह **कात्यायनः** (मनु. ८. ८७, ७९-८०)
-
-
 
 **देवब्राह्मणसान्निध्ये साक्ष्यं पृच्छेदृतं द्विजान्।**
 
@@ -2629,8 +2359,6 @@ Bibliography (of works referred to).
 [^40]: "२ 'वादिनां' इति क."
 
 **तदभावे तु चिह्नस्य नान्यथैव प्रवादयेत्॥**
-
-
 
  **तत्** साक्षिभाषणं **चिह्नस्य** वधचिह्नस्याभावे कर्तव्यमिति शेषः। **अन्यथा** वधचिह्नसद्भावे॥साक्षिप्रश्नेविलम्बो न कार्य इत्युक्तं **तेनै**व (कात्या. श्लो. ३३९ )
 
@@ -2677,8 +2405,6 @@ Bibliography (of works referred to).
 **विवशः शतमाजातीस्तस्मात्साक्ष्ये वदेदृतम्॥**
 
 **सत्येन पूयते साक्षी धर्मः सत्येन वर्धते।**
-
-
 
 **तस्मात्सत्यं हि वक्तव्यं सर्ववर्णेषु साक्षिभिः॥**
 
@@ -2732,8 +2458,6 @@ Bibliography (of works referred to).
 
 ** बोधायनः**
 
-
-
 **त्रीनेव च पितॄन्हन्ति त्रीनेव प्रपितामहान्।**
 
 **सप्त जातानजातांश्च साक्ष्यं साक्षी मृषा ब्रुवन्॥**
@@ -2782,15 +2506,13 @@ Bibliography (of works referred to).
 
 **गोबीजकाञ्चनैर्वैश्यं शूद्रं सर्वैस्तु पातकैः॥**
 
-
-
  अस्यार्थः। ब्राह्मणमन्यथा ब्रुवतः सत्यं ते नश्यतीति शापयेत्। क्षत्रियं वाहनायुधानि तवविफलानीति। गोबीजकाञ्चनानि तव विफलानि भविष्यन्तीति वैश्यम्। शूद्रमन्यथा ब्रुवतस्तव सर्वाणि पातकानि भविष्यन्तीति शापयेदिति। यस्तु—शपथेनैके सत्यकर्म तद्देवराजब्राह्मणसंसदि स्यादब्राह्मणानाम्—इति **गौतमेन** (१३.१२—१३) ब्राह्मणस्य शपथाभाव उक्तः स सर्वैराप्तत्वेनावधारितो यस्तद्विषयः। **सत्यकर्म** यथाभूतार्थव्यवस्थापनम्। गोरक्षणादिभिरपकृष्टा ब्राह्मणास्तु शूद्रवच्छपथं कारयितव्या[^42] इत्याह **मनुः**[^43]
 
 [^42]: " 'शपथं कारयिरेत्' इति अ - क."
 
-**ये व्यपेताः स्वकर्मभ्यः परपिण्डोपजीविनः।**
-
 [^43]: "'इत्याह मनुः - एतन्नास्ति अ - क - आदर्शयोः, ८ मदनरत्न०"
+
+**ये व्यपेताः स्वकर्मभ्यः परपिण्डोपजीविनः।**
 
 **द्विजत्वमभिकाङ्क्षन्ति तांश्च शूद्रवदाचरेत्॥**
 
@@ -2819,9 +2541,6 @@ Bibliography (of works referred to).
 **तदप्यनुक्तं विज्ञेयमेष साक्ष्यविधिः स्मृतः॥ इति।**
 
  साक्षिणां विप्रतिपत्तौ कथं निर्णय इत्यपेक्षायामाह **याज्ञवल्क्यः** (२.७८)  
-
-
-
 
 **द्वैधे बहूनां वचनं समेषु गुणिनां तथा।**
 
@@ -2856,8 +2575,6 @@ Bibliography (of works referred to).
 **श्रावयित्वा तथान्येभ्यः साक्षित्वं यो विनिह्नुते।**
 
 **स विनेयो भृशतरं कूटसाक्षिपरो हि यः॥**
-
-
 
  **अन्येभ्यः** साक्ष्यं **श्रावयित्वा** अहमत्र साक्षी भवामीत्यन्यान् ज्ञापयित्वा साक्षिणा निगदे दत्ते यदि तत्र प्रत्यर्थिलोभादिकारणप्रतिकल्पनं कुर्यात्तदा यदि सप्ताहमध्ये साक्षिणोत्युपद्रवकारिरोगादिकं स्यात्तदा कूटसाक्षित्वात्स दण्ड्यः। इतरथा तु प्रत्यर्थ्येवेत्याह **मनुः** (८.१०८)
 
@@ -2895,8 +2612,6 @@ Bibliography (of works referred to).
 
  **नारदे**नाभिधानात् (व्य. मा.अ. १ श्लो.६२-६३ )। कूटसाक्षिणां लोभाविकारणविशेषपरिज्ञाने दण्डविशेषमाह **मनुः (८.११९-१२४ )**
 
-
-
 **लोभान्मोहाद्भयान्मैत्र्यात्कामात् क्रोधात्तथैव च।**
 
 **अज्ञानाद्बालभावाच्च साक्ष्यं वितथमुच्यते॥**
@@ -2929,8 +2644,6 @@ Bibliography (of works referred to).
 
 ** मनुना**भिधानात् (८. १३९ )। **पञ्च** शतानीति वचनविपरिणामेन शतशब्दस्यानुषङ्गः। **याज्ञवल्क्येन** ( १.३६६ ) तु किञ्चिदधिकमेषां परिमाणमुक्तं
 
-
-
 **साशीतिपणसाहस्रो दण्ड उत्तमसाहसः।**
 
 **तदर्धं मध्यमः प्रोक्तः तदर्धमधमः स्मृतः॥ इति।**
@@ -2959,8 +2672,6 @@ Bibliography (of works referred to).
 
  **ऋतोक्तौ** सत्योक्तौ। **यत्र**शङ्काभियोगादौ सत्यभाषणे शूद्रादिवधस्तत्रासत्यं भाषणीयमित्यर्थः। यत्र तु सत्यभाषणे चौरादेरतिनिन्दितस्य वधस्तत्रासत्यं न भाषणीयमित्याह **गौतमः—**नानृतवचने दोषोस्ति जीवनं
 
-
-
 चेत्तदधीनं न तु पापीयसो जीवनम्—इति (१३.२४–२५ )। यत्र तु सत्योक्तौ वादिप्रतिवादिनोरन्यतरस्य वधः सत्योक्तावपि तत्र न किमपि वक्तव्यम्। यदि राजाभिधानमन्तरेण न परित्यजति तदा साक्षिभिर्मिथो विरुद्धभाषणादसाक्षित्वं कर्तव्यं तस्याप्यसम्भवे सत्यमेव वक्तव्यम्। असत्यभाषणे शूद्रादिवधदोषोऽसत्यभाषणदोषश्चेति दोषद्वयापत्तेः। सत्यभाषणे यो वधदोषस्तस्य तु यथोक्तप्रायश्चित्त कर्तव्यमित्युक्तं **विज्ञानेश्वराचार्यैः**। द्विजातीनामेतदसत्यभाषणस्य प्रायश्चित्तमाह **याज्ञवल्क्यः** (२.८३)
 
 **वर्णिनां हि वधो यत्र तत्र साक्ष्यनृतं वदेत्।**
@@ -2984,8 +2695,6 @@ Bibliography (of works referred to).
 **साक्षिणामेष निर्दिष्टः संख्यालक्षणनिश्चयः।**
 
 **लिखितस्याधुना वच्मि विधानमनुपूर्वशः॥**
-
-
 
 **षाण्मासिकेऽपि समये भ्रान्तिः सञ्जायते ततः।**
 
@@ -3033,8 +2742,6 @@ Bibliography (of works referred to).
 
 **वस्त्रान्नहीनः कान्तारे लिखितं कुरुते तु यत्**
 
-
-
 **कर्माणि ते करिष्यामि दासपत्रं तदुच्यते॥**
 
 **धनं वृद्ध्या गृहीत्वा तु स्वयं कुर्याच्च कारयेत्।**
@@ -3078,8 +2785,6 @@ Bibliography (of works referred to).
 **विनापि साक्षिभिर्लेख्यं स्वहस्तलिखितं तु यत्।**
 
 **तत्प्रमाणं स्मृतं लेख्यं बलोपधिकृतादृते॥**
-
-
 
   **बलं** बलात्कारः। **उपधि**र्लोभक्रोधभयमदादिः। **नारदो**ऽपि ( ऋणादान १३७ )
 
@@ -3125,8 +2830,6 @@ Bibliography (of works referred to).
 
  **ते समाः** संख्यातो गुणतश्चसमाः साक्षिणः कर्तव्या इत्यर्थः।
 
-
-
 केचित्त्वकारप्रश्लेषेण असमाः विषमसंख्याकाः साक्षिणः कर्तव्या इत्याहुः। तत्र यस्मिन्देशे यथाचारस्तथा तत्र पक्षो ग्राह्यः। ऋणिनः साक्षिणश्च लिपिज्ञानाभावे विशेषमाह **नारदः**
 
 **अलिपिज्ञ ऋणी यः स्यात्स्वमतं तु स लेखयेत्।**
@@ -3167,8 +2870,6 @@ Bibliography (of works referred to).
 
  **सब्रह्मचारिणे** अमुकशाखाध्यायिने। **सर्वभागविवर्जितं** सकलराजपुरुषांशरहितम्। शासनविषये **याज्ञवल्क्योऽपि** ( १.३१८-३२०)
 
-
-
 **दत्त्वा भूमिं निबन्धं वा कृत्वा लेख्यं तु कारयेत्।**
 
 **आगामिभद्रनृपतिपरिज्ञानाय पार्थिवः॥**
@@ -3200,8 +2901,6 @@ Bibliography (of works referred to).
 **संनिवेशं प्रमाणं च स्वहस्तेन लिखेत्स्वयम्।**
 
 **मतं मेऽमुकपुत्रस्य अमुकस्य महीपतेः॥**
-
-
 
  **संनिवेशं प्रमाणं** चेति पूर्ववाक्येनान्वयः। एतच्च शासनं साधुशब्दान्वितमेव कर्तव्यं न त्वपशब्दान्वितम्। तथा च **संग्रहकारः**
 
@@ -3244,8 +2943,6 @@ Bibliography (of works referred to).
 **प्राड्विवाकादिमुद्राङ्कं मुद्रितं राजमुद्रया। इति।**
 
  अस्मिन् पत्रे राज्ञा सभ्यैश्च स्वहस्तेन स्वमतं लेख्यमित्याह **कात्यायनः** ( २६२-६३ )
-
-
 
 **सिद्धेनार्थेन संयोज्यो वादी सत्कारपूर्वकम्।**
 
@@ -3297,8 +2994,6 @@ Bibliography (of works referred to).
 
 **प्रतिग्रहे च क्रीते च नालेख्या सिध्यति क्रिया।**
 
-
-
   पूर्वलेख्यस्य कथंचिदुपहतौ तत्समानार्थं लेख्यान्तरं कर्तव्यमित्याह **याज्ञवल्क्यः** (२.९१ )
 
 **देशान्तरस्थे दुर्लेख्ये नष्टोन्मृष्टे हृते तथा।**
@@ -3342,8 +3037,6 @@ Bibliography (of works referred to).
 
 **लेख्यं कृत्वा स्वनामाङ्कं ज्ञेयं युक्त्यागमैस्ततः॥ इति।**
 
-
-
 **लेख्यपरीक्षा**
 
 तत्परीक्षाप्रकारमाह **स** एव (कात्या. २८४)
@@ -3383,8 +3076,6 @@ Bibliography (of works referred to).
 
 उपधा दुष्टान्तःकरणता। स एव ( कात्या. २८९, २७०)
 
-
-
 **धनिकेन स्वहस्तेन लिखितं साक्षिवर्जितम्।  
 भवेत्कूटं न चेत्कर्ता कृतं हीति विभावयेत्॥  
 देशाचारविरुद्धं तु सन्दिग्धं क्रमवर्जितम्।  
@@ -3420,8 +3111,6 @@ Bibliography (of works referred to).
 **कूटोक्तौ साक्षिणां वाक्याल्लेखकस्य च पत्रकम्।  
 नयेच्छुद्धिं न यः कूटं स दाप्यो दममुत्तमम्॥ इति।**
 
-
-
 **लेख्यं**
 
 **  उत्तमं** साहसमिति शेषः। स्थावरविक्रयादौ वृथा लेख्यं दूषयतःशारीरं दण्डमाह **व्यासः**।
@@ -3450,8 +3139,6 @@ Bibliography (of works referred to).
 
   भुक्तेः स्थावरे आवश्यकत्वसूचनार्थं स्थावरग्रहणम्। तच्च जङ्गमस्याप्युपलक्षणम्। तेन प्रतिग्रहादय उभयत्र स्वत्वहेतवः। **विद्या** प्रतिग्रहप्रकारः। **बन्धः** आधिः। **शौर्यागतं** युद्धप्राप्तम्। **अन्वया-**
 
-
-
 **गतम्** वंशप्राप्तम्। **सपिण्डस्याप्रजस्यांशः**असन्ततिकभ्रात्राद्यंशः।पित्र्यादिना पूर्वोक्तस्य सप्तविधस्यानुवादः। **लब्धं** प्रतिग्रहादिप्राप्तम्।**रिक्थ**मसन्ततिकभ्रात्राद्यंशः।**प्रवेदनं** विवाहः। **नारदः** (ऋणादान ८५)
 
 **आगमेन विशुद्धेन भोगो याति प्रमाणताम्।  
@@ -3478,8 +3165,6 @@ Bibliography (of works referred to).
 चोरदण्डेन तं पापं दण्डयेत्पृथिवीपतिः॥**
 
   यत्तु
-
-
 
 **अन्यायेनापि यद्भुक्तं पित्रा पूर्वतरैस्त्रिभिः।  
 न तच्छक्यमपाहर्तुं क्रमात्रिपुरुषागतम् (नारद, ऋणादान ९१)**
@@ -3509,8 +3194,6 @@ Bibliography (of works referred to).
 
 **योभियुक्तः परेतः स्यात्तस्य रिक्थी तमुद्धरेत्।  
 न तत्र कारणं भुक्तिरागमेन विना कृता॥**
-
-
 
 **  रिक्थी** अंशभागी। ननु
 
@@ -3545,8 +3228,6 @@ Bibliography (of works referred to).
 
 **  स** एव (कात्या.३१६)
 
-
-
 **भुक्तिः**
 
 **नोपभोगे बलं कार्यमाहर्त्रा तत्सुतेन वा।  
@@ -3579,8 +3260,6 @@ Bibliography (of works referred to).
 केशाकेशिगृहीतश्चयुगपत्पारदारिकः॥  
 कुद्दालपाणिर्विज्ञेयः सेतुभेत्ता समीपगः।  
 तथा कुठारहस्तश्च वनच्छेत्ता प्रकीर्तितः॥**
-
-
 
 **प्रत्यक्षचिह्नैर्विज्ञेयो दण्डपारुष्यकृन्नरः।  
 असाक्षिप्रत्यया ह्येते पारुष्ये तु परीक्षणम्॥**
@@ -3615,8 +3294,6 @@ Bibliography (of works referred to).
 **अभीक्ष्णं चोद्यमानो यः प्रतिहन्यान्न तद्वचः।  
 त्रिश्चतुःपञ्चकृत्वो वा परतोऽर्थं स दाप्यते॥**
 
-
-
 **युक्तिः**
 
   परतः तत ऊर्ध्वम्। चोदनाप्रतिकालमात्रेण न साध्यसिद्धिःकिं तर्हियुक्त्यन्तरसहकृतेन तेनेत्याह **नारदः** (ऋणादान २३८)
@@ -3642,8 +3319,6 @@ Bibliography (of works referred to).
 इत्येते शपथाः प्रोक्ता मनुना स्वल्पकारणे। इति (२५०)।**
 
   सत्यं तेषां सभ्यस्पर्शादीनां शपथानां कालान्तरभाविनिर्णयनिमित्तत्वादत्र च समनन्तरनिर्णयनिमित्तानां दिव्यत्वेन विवक्षितत्वात्तादृक्त्वं चघटादीनामेवेति नानुपपनं दिव्यानि नवेत्यभिधानम्। कोशस्य शपथत्वेपि घटादिषु पाठो महाभियोगविषयत्वसाम्यात्सावष्टम्भाभियोगविषयत्वसाम्याच्च। घटादीनि महाभियोगे सावष्टम्भाभियोगे च प्रयोज्यानि नशङ्काभियोगे इति नियमार्थमाह **याज्ञवल्क्यः** (२.९५-९६ )
-
-
 
 **तुलाग्न्यापो विषं कोशो दिव्यानीह विशुद्धये।  
 महाभियोगेष्वेतानि शीर्षकस्थेऽभियोक्तरि॥  
@@ -3674,8 +3349,6 @@ Bibliography (of works referred to).
 
 **  विप्रतिपत्तौ** परदारगमनाद्यभियोगरूपायाम्। **विवादे** **ऋणदाना-**
 
-
-
 दिविषये। **अवर्णो**ऽपवादः। परदाराभिमर्शे चेति चौर्यादीनाम**प्युपलक्षणम्।** **विष्णुः**(९.२२ )
 
 **राजद्रोहे साहसे च विना शीर्षप्रवर्तनात्।**
@@ -3705,8 +3378,6 @@ Bibliography (of works referred to).
 
   **दैविकी** क्रियेत्यनुषङ्गः। **आदि**शब्देनात्र स्थावरविषयो **विवादो**ऽपि**गृह्यते**। यत्तुस्थावरेषु विवादेषु दिव्यानि परिवर्जयेत्**-** **इति वचनं** (कात्या.२४०) तल्लिखितादिसद्भावे दिव्यं न कारणीयमित्येवं परम्। ननु **ऋणादिविवादेष्वपि** मानुषप्रमाणसद्भावे दिव्यं नाश्रीयत एवेतीदंविशेषवचनंव्यर्थं स्यादिति चेत्, उच्यते। ऋणादिविवादेष्वर्थिना साक्ष्युपन्यासे कृते**प्रतिवादी** पराजये दण्डमङ्गीकृत्य दिव्यं करिष्यामीति वदेत्तदा **सत्स्वपिसाक्षिषु तेषु** दोषशङ्कासम्भवाद् दिव्ये तु दोषशङ्काभावात्
 
-
-
 **तत्र सत्ये स्थितो धर्मो व्यवहारस्तु साक्षिषु।  
 दैवसाध्ये पौरुषेयीं न लेख्यं वा प्रयोजयेत्॥ इति**
 
@@ -3729,8 +3400,6 @@ Bibliography (of works referred to).
 **नासहस्राद्धरेत्फालं न तुलां न विषं तथा।**
 
   इति **याज्ञवल्क्यवचनं** (या.२.९९) तन्मध्यम**पुरुषविषयम्।सहस्रं** पणसहस्रमिति **विज्ञानेश्वराचार्याः**। यत्तु
-
-
 
 **सहस्रे तु घटं दद्यात्सहस्रार्धे तथायसम्।  
 अर्धस्यार्धे तु सलिलं तस्यार्धे तु विषं स्मृतम्॥**
@@ -3759,8 +3428,6 @@ Bibliography (of works referred to).
 **संख्या रश्मिरजोमूला मनुना समुदाहृता।  
 कार्षापणान्ता सा दिव्ये नियोज्या विनये तथा॥**
 
-
-
 **  संख्या** परिमाणं **रश्मिरजोमूला** त्रसरेण्वादिका **विनये** दण्डे।तच्च त्रसरेण्वादिकं परिमाणं प्रतिज्ञापूर्वकं दर्शयति **मनुः** (८. १३१-१३७)
 
 **लोके संव्यवहारार्थ याः संज्ञाः प्रथिता भुवि।  
@@ -3779,8 +3446,6 @@ Bibliography (of works referred to).
 कार्षापणस्तु विज्ञेयः कार्षिकस्ताम्रिकः पणः॥ इति।**
 
   अत्र **ताम्ररूप्यसुवर्णाना**मिति ताम्ररूप्य शब्दयोरल्पात् (अल्पाचत्वात्?) प्राक्प्रयोगो न तु क्रमप्रदर्शनार्थः। **पलानि धरणं दशे**त्यन्तं सुवर्णपरिमाणाभिधानम्। **चतुःसौवर्णिको निष्क** इत्यन्तं रूप्यपरिमाणाभिधानम्। अवशिष्टेन ताम्रपरिमाणाभिधानम्। जालान्तरप्रविष्टे सूर्यरश्मौ यत् सूक्ष्मं रजो दृश्यते तत् त्रसरेणुसंज्ञकम्। अष्टौ त्रसरेणवो लिक्षा तिस्रो लिक्षा राजसर्षपः त्रयो राजसर्षपा गौरसर्षपः षड्गौरसर्षपा मध्यमो यवो न स्थूलो न सूक्ष्म इति मध्यमयवस्य परिमाणत्वमुक्तं **विज्ञानेश्वराचार्यैः**। **मनुस्मृतिभाष्ये** तु मध्यशब्दः श्लोकपूरणार्थ इत्युक्तम्। त्रयो यवाः कृष्णलं पञ्चकृष्णलानि माषः षोडश
-
-
 
 माषाःसुवर्णः चत्वारः सुवर्णाः पलं दशपलानि धरणं द्वे कृष्णले रूपयस्यमाषः षोडशरूप्यमाषा रजतस्य धरणम्। पुराण इति चास्य संज्ञान्तरम्।दश राजतानि धरणानि राजतः शतमानः। अस्य राजतपलसंज्ञापिभवति।
 
@@ -3804,8 +3469,6 @@ Bibliography (of works referred to).
 
 **ब्राह्मणस्य घटो देयः क्षत्रियस्य हुताशनः।  
 वैश्यस्य सलिलं देयं शूद्रस्य विषमेव तु॥**
-
-
 
 **साधारणः समस्तानां कोशः प्रोक्तो मनीषिभिः।  
 विषं विना ब्राह्मणस्य सर्वेषां वा तुला स्मृता॥**
@@ -3851,8 +3514,6 @@ Bibliography (of works referred to).
 न मज्जनीयाः स्त्रीबाला धर्मशास्त्रविचक्षणैः।  
 रोगिणो ये च वृद्धाः स्युः पुमांसो ये च दुर्बलाः॥**
 
-
-
 **निरुत्साहान् व्याधिकिष्टान्नार्तास्तोये निमज्जयेत्।  
 सद्यो म्रियन्ते मज्जन्तः स्वल्पप्राणा हि ते स्मृताः॥**
 
@@ -3892,8 +3553,6 @@ Bibliography (of works referred to).
 **एतेष्वेवाभियोगेषु निन्द्येष्वेव प्रयत्नतः।  
 दिव्यं प्रकल्पयेन्नैव राजा धर्मपरायणः॥**
 
-
-
 **एतैरेव नियुक्तानां साधूनां दिव्यमर्हति।  
 न सन्ति साधवो यत्र तत्र शोध्यः स्वकैनरैः॥**
 
@@ -3930,8 +3589,6 @@ Bibliography (of works referred to).
 
 **कोशं तु सर्वदा देयं तुला स्यात्सार्वकालिकी।**
 
-
-
 **  विष्णुः**(९.२५-३० ) –न कुष्ठ्यसमर्थलोहकाराणामग्निर्देयःशरद्ग्रीष्मयोश्च। न कुष्ठिपैत्तिकब्राह्मणानां विषं देयं प्रावृषि च। न श्लैष्मिकाणां व्याध्यार्दितानां भीरूणां श्वासकासिनामम्बुजीविनामुदकं हेमन्तशिशिरयोश्च-इति। **हेमन्त**निषेधोऽत्र पौषमासविषय एव न तु मार्गशीर्षविषयोऽपि। चैत्रो मार्गशिर इति पूर्वोदाहृतपितामहवचने मार्गशीर्षस्य सकलदिव्यसाधारणत्वाभिधानात्। **नारदः** (ऋणादान २५९) .
 
 **न शीते तोयशुद्धिः स्यान्नोष्ण कालेऽग्निशोधनम्।  
@@ -3957,9 +3614,6 @@ Bibliography (of works referred to).
 **सभाराजकुलद्वारदेवतायतनचत्वरे। इति।**
 
   इन्द्रस्थानादीनां विषयविशेषे व्यवस्थामाह **कात्यायनः**  
-
-
-
 
 **इन्द्रस्थानेऽभिशस्तानां महापातकिनां नृणाम्।  
 नृपद्रोहप्रवृत्तानां राजद्वारे प्रयोजयेत्॥**
@@ -3994,8 +3648,6 @@ Bibliography (of works referred to).
 
   तेनैवोक्तत्वात्। मन्त्रस्त्वादित्यचन्द्रावित्यादिरग्नेदर्शयिष्यते। अङ्गदेवताविन्यासप्रकारमाह **स** एव
 
-
-
 **इन्द्रं पूर्वे तु संस्थाप्य प्रेतेशं दक्षिणे तथा।  
 वरुणं पश्चिमे भागे कुबेरं चोत्तरे तथा॥  
 अभ्यादिलोकपालांश्च कोणभागेषु विन्यसेत्।  
@@ -4022,8 +3674,6 @@ Bibliography (of works referred to).
 निर्ऋतेरुत्तरे भागे गणेशायतनं विदुः॥  
 वरुणस्योत्तरे भागे मरुतां स्थानमुच्यते।  
 गगनः स्पर्शनो वायुरनिलो मारुतस्तथा॥**
-
-
 
 **प्राणः प्राणेशजीवौ च मरुतोऽष्टौ प्रकीर्तिताः।  
 घटस्योत्तरभागे तु दुर्गामावाहयेद् बुधः॥  
@@ -4059,8 +3709,6 @@ Bibliography (of works referred to).
 
   दिव्यकर्तुरुपवासादिकमाह **याज्ञवल्क्यः** (२.९७)
 
-
-
 **सचैलं स्नातमाहूय सूर्योदय उपोषितम्।  
 कारयेत्सर्वदिव्यानि नृपब्राह्मणसंनिधौ॥**
 
@@ -4095,8 +3743,6 @@ Bibliography (of works referred to).
 
 **एवंविधानि काष्ठानि घटार्थं परिकल्पयेत्॥**
 
-
-
   **शांशपं** शिंशपावृक्षसम्बन्धि। देविकाशिंशपेति **पाणिनिस्मरणात्**(पा.७.३.१) इकारस्याकारः। **एवंविधानि** इत्यन्यस्याप्यौदुम्बरादेेर्यज्ञियस्य काष्ठस्य ससारस्य ग्रहणम्। अत एव **पितामहः**
 
 **छित्त्वा तु यज्ञियं वृक्षं यूपवन्मन्त्रपूर्वकम्।  
@@ -4115,8 +3761,6 @@ Bibliography (of works referred to).
 **हस्तद्वयं निखेयं तु प्रोक्तं मुण्डकयोर्द्वयोः।  
 षड्ढस्तं तु तयोः प्रोक्तं प्रमाणं परिमाणतः॥इति।**
 
-
-
 **  मुण्डकौ** पादस्तम्भौ। पितामहेनाप्युक्तं
 
 **हस्तद्वयं निखेयं तु पादयोरुभयोरपि। इति।**
@@ -4133,7 +3777,6 @@ Bibliography (of works referred to).
 **चतुरस्रा तुला कार्या दृढा ऋज्वी तथैव च।**  
 **कटकानि च देयानि त्रिषु स्थानेषु यत्नतः॥**
 
- 
 **कटका**[^53] इत्यन्तो भागः नास्ति क-आदर्शे.")न्ययोमयानि। **त्रिषु स्थानेषु** उपान्तयोर्मध्ये च। कटकग्रहणमन्येषामप्युपयुक्तानामयोमयानां कीलकादीनामुपलक्षणार्थम्। तेनाक्षकाष्ठस्य मध्ये तुलायोजनार्थ आयसः पाशो देयः। एवमन्यान्यप्यपेक्षिताम्ययोमयानि तत्र तत्र दातव्यानि। पादस्तम्भादीनां स्थौल्यं तु विशेषास्मरणाद्यावती स्थौल्ये कृते दृढता भवति तावत्कार्यं शिष्टाचाराद्वा विशेषोऽवगन्तव्यः। पादस्तम्भौ पूर्वपश्चिमसंस्थानौ कृत्वोदगायामा तुला कार्या
 
 [^53]: "अस्मादनन्तरं 'वादित्रतूर्यनिर्घोषैः' (९७ तमे पृष्ठे
@@ -4148,8 +3791,6 @@ Bibliography (of works referred to).
 
 **तोरणे तु तथा कार्ये पार्श्वयोरुभयोरपि।  
 घटादुच्चतरे स्यातां नित्यं दशभिरङ्गुलैः॥**
-
-
 
 **अवलम्बौ तु कर्तव्यौ तोरणाभ्यामधोमुखौ।  
 मृन्मयौ सूत्रसम्बद्धौ घटमस्तकचुम्बिनौ॥ इति।**
@@ -4183,8 +3824,6 @@ Bibliography (of works referred to).
 
 **प्रथमारोहणे ग्राह्यं प्रमाणं निपुणैः सह।  
 तुलाशिरोभ्यां तुल्यं तु तोरणन्यस्तलक्षणम्॥**
-
-
 
   तोलनानन्तरकर्तव्यमाह **पितामहः**
 
@@ -4221,8 +3860,6 @@ Bibliography (of works referred to).
 त्वं तुले सत्यधामासि पुरा देवैर्विनिर्मिता।  
 तत्सत्यं वद कल्याणि संशयान्मां विमोचय।**
 
-
-
 **यद्यस्मि पापकृन्मातस्ततो मां त्वमधो नयं।**  
 **शुद्धश्चेद्गमयोर्ध्वंमां तुलामित्यभिमन्त्रयेत्॥**
 
@@ -4253,8 +3890,6 @@ Bibliography (of works referred to).
 
 **ज्योतिर्विद् ब्राह्मणः श्रेष्ठः कुर्यात्कालपरीक्षणम्।  
 विनाड्यःपञ्चविज्ञेयाः परीक्षाकालकोविदैः॥**
-
-
 
 **साक्षिणो ब्राह्मणश्रेष्ठा[^55] क- आदर्शे.") यथादृष्टार्थवादिनः।  
 ज्ञानिनः शुचयोऽलुब्धा नियोक्तव्या नृपेण तु॥  
@@ -4291,8 +3926,6 @@ Bibliography (of works referred to).
 
 **  पुनस्तोल्यः**पुनर्देवतावाहनाद्यङ्गसहितं सर्वं कर्म विधाय तोलनीयइत्यर्थः।यत्तु कैश्चित्पौरस्त्यैस्तस्मिन्नेव प्रयोगे पुनस्तोलनमुक्तं तदसुन्दरं,साम्यहेतोः कर्मवैगुण्यस्य तादवस्थ्यात्। द्वित्रेष्वपि प्रयोगेषु साम्ये कर्म-
 
-
-
 वैगुण्यशङ्काया अनवस्थापत्तिपराहतत्वात्समस्यापि पराजयः। दण्डप्रायश्चित्तयोस्तु हीयमानापेक्षया तस्य स्वल्पत्वमभिप्रेत्याह **पितामहः**
 
 **तुलितो यदि वर्धेत शुद्धो भवति धर्मतः।  
@@ -4319,8 +3952,6 @@ Bibliography (of works referred to).
 **कक्षच्छेदे तुलाभङ्गे घटकर्कटयोस्तथा।  
 रज्जुच्छेदेऽक्षभङ्गे वा तथैवाशुद्धिमादिशेत्॥ इति।**
 
-
-
   स्मृत्यन्तरवचनं तदाकस्मिककक्षच्छेदादिविषयं कात्यायनवचनं तुदृश्यमानकारणकशिक्यच्छेदादिविषयमिति **विज्ञानेश्वराचार्याः**। इतिश्रीकोदण्डपरशुरामेति ....व्यवहारविवेकोद्द्योते घटविधिः॥८॥
 
  अथाग्निविधिः। तत्र **पितामहः**
@@ -4338,8 +3969,6 @@ Bibliography (of works referred to).
 द्रष्टव्यम्। यथा पूर्वमीमांसायां प्रैतुहोतुश्चमसः ब्रह्मण इत्यादि प्रैषमन्त्रस्थाया होतुश्चमसो ब्रह्मणश्चमस इत्यादिसमाख्याया बलाद्धोतृब्रह्मादीनां चमसभक्षणं सिद्धान्तितम्।अतस्तेषु मण्डलेष्वग्न्यादिदेवतापूजनं कार्यम्। मण्डलपरिमाणमाह स एव
 
 [^56]: "'अग्न्यादिपूजास्थानत्वेन' इति एतन्नास्ति अ - आदर्शे,"
-
-
 
 **द्वात्रिंशदङ्गुलं प्राहुर्मण्डलान्मण्डलान्तरम्।  
 अष्टभिर्मण्डलैरेवमङ्गुलानां शतद्वयम्॥  
@@ -4368,8 +3997,6 @@ Bibliography (of works referred to).
 
   तत्र नवमाष्टमयोर्मण्डलयोर्यदन्तरालं षोडशाङ्गुलं तस्य **गन्तव्यत्वाद**नन्तर्भावेनाङ्गुलपरिगणनमिति न विरोधः। यत्तु एतदेव वाक्यं **कल्पतरौ** चतुर्विंशतिराख्याता भूमेस्तु परिकल्पना इत्येवं पठितं तत्र षोडशा-
 
-
-
 ङ्गुलस्य प्रथमस्यावस्थानमण्डलस्यागन्तव्यत्वेन तदप्यनन्तर्भाव्य गम्यभूमेरङ्गुलानां परिगणनमिति न विरोधः। अङ्गुलप्रमाणं तु घटविधिप्रकरणेदर्शितम्। यत्तु **विष्णु**वाक्यं (११.२) षोडशाङ्गुलं तावदन्तरं मण्डलसप्तकं कुर्यादिति तद्गन्तव्यमण्डलविषयं
 
 **सतमादाय सप्तैव मण्डलानि शनैर्ब्रजेत्। इति**
@@ -4396,8 +4023,6 @@ Bibliography (of works referred to).
 
 **  सममस्त्रिहीनं** सर्वतोश्रिरहितं सर्वतः समवृत्तमिति यावत्। अष्टाङ्गुलंअष्टाङ्गुलायामम्।पञ्चाशत्पलिकं पञ्चाशत्पलपरिमितम्। पुनः
 
-
-
 समग्रहणं समन्तात्प्रतापयेदित्येतदर्थम्। **कालिकापुराणे** त्वयःपिण्डस्यद्वादशाङ्गुलायामत्वमुक्तं
 
 **शतार्धपलिकं वृत्तं द्वादशाङ्गुलमायतम्।  
@@ -4422,8 +4047,6 @@ Bibliography (of works referred to).
 **लक्षयेयुः क्षतादीनि हस्तयोस्तस्य कारिणः।**
 
 **  कारिणः** कार्यार्थनियुक्ताः पुरुषाः। **नारदो**ऽपि
-
-
 
 **लक्षयेत्तस्य चिह्नानि हस्तयोरुभयोरपि।  
 प्राकृतानि च गूढानि सव्रणान्यव्रणानि च॥**
@@ -4451,8 +4074,6 @@ Bibliography (of works referred to).
 **पत्रैरञ्जलिमापूर्यआश्वत्थैःसप्तभिः समैः। इति**
 
   स्मरणात्। सप्त शमीपत्राण्यक्षतान् सप्त दूर्वापत्राणि दध्यक्ताक्षतांश्चाश्वत्थपत्राणामुपरि स्थापयेत्।
-
-
 
 **सप्तपिप्पलपत्राणि शमीपत्राण्यथाक्षतान्।  
 दूर्वायाः सप्त पत्राणि दध्यक्तांश्चाक्षतान्न्यसेत्॥ इति**
@@ -4487,8 +4108,6 @@ Bibliography (of works referred to).
 
   एतदनन्तरं शोध्योऽप्यग्निं मन्त्रयते। अभिमन्त्रितवतश्च तस्य हस्तयोरयः पिण्डं स्थापयेत्। तदेतदाह**याज्ञवल्क्यः** (२.१०४-१०५)
 
-
-
 **त्वमग्ने सर्वभूतानामन्तश्चरसि पावक।  
 साक्षिवत्पुण्यपापेभ्यो ब्रूहि सत्यं कवे मम॥  
 तस्येत्युक्तवतो लोहं पञ्चाशत्पलिकं समम्।  
@@ -4509,8 +4128,6 @@ Bibliography (of works referred to).
 मण्डलं चाष्टमं गत्वा ततोऽग्निं विसृजेन्नरः॥**
 
 **  एकस्मिन्** प्रथमे मण्डले। **अग्निं विसृजेत्** नवमे मण्डलेशेषः। अत एव **पितामहः**
-
-
 
 **त्वरमाणो न गच्छेत्तु स्वस्थो गच्छेच्छनैः शनैः।  
 न मण्डलमतिक्रामेणान्तरा स्थापयेत्पदम्॥  
@@ -4547,8 +4164,6 @@ Bibliography (of works referred to).
 निर्विशङ्केन तेषां तु हस्ताभ्यां मर्दने कृते॥  
 निर्विकारे दिनस्यान्ते शुद्धिं तस्य विनिर्दिशेत्।**
 
-
-
 **  प्रास्येत्** प्रक्षिपेत्। क्वचिन्निर्विकारो यदा हस्त इति पाठः। तस्मिन्पाठे दिनान्तलक्षणकालबोधकाभावात्तदैव शुद्ध्यवधारणम्। न चदिनान्त इति पाठे
 
 मुक्त्वाग्निंमृदितव्रीहिरद्य (रदग्धः?) शुद्धिमवाप्नुयात् (शुद्धिमाप्नुयात् ?)।
@@ -4556,8 +4171,6 @@ Bibliography (of works referred to).
  इति **याज्ञवल्क्य**वचनविरोधः(या.२.१०७)। तत्र मुक्त्वेत्यानन्तर्यार्थस्य क्त्वाप्रत्ययस्य प्रयोगेण कृतव्रीहिमर्दनजोःकरयोर्विकारस्यादर्शनेतप्तायः पिण्डविमोकानन्तरमेव शुद्धिरवधारणीयेत्यभिधानादिति वाच्यंक्त्वाप्रत्ययस्य हि पूर्वकालत्वमर्थो न त्वानन्तर्यं- समानकर्तृकयोःपूर्वकाले(पा.३.४.२१ ) इति**पाणिनि**स्मरणाद्धारियोजनयागस्य संस्रावस्रुग्विमोकाभ्यां व्यवधानेन परिधिप्रहरणानन्तर्याभावेपि वेदे प्रहृत्यपरिधीञ्जुहोति–इति क्त्वाप्रयोगदर्शनाल्लोकेपि[^60]गमनस्योपवेशनादिक्रियान्तरव्यवधानेन भोजन्मनेतयो भावेपि(? भोजनानन्तर्याभावेपि)भुक्त्वा गच्छतीति प्रयोगदर्शनाञ्च। किं च क्त्वाप्रत्ययस्यानन्तर्यार्थत्वेपूर्वमीमांसाधिकरणविरोधः। तत्र हि वाजपेयेनेट्वा बृहस्पतिसवेनयजेत–इति वाक्येन विधीयमानो बृहस्पतिसवः किं शरदि वाजपेयेनइति श्रुते प्रधानकाले शरदि प्रधानेन सहैकप्रयोगनिवेशी कर्तव्य उतप्राकृतत्वादतिदेशतः प्राप्ते स्वकाले वसन्तेऽनुष्ठेय इति संशय्य शरदिवाजपेयेनेत्यनेन न करणभूतो वाजपेयः शरदि कर्तव्यतया चोद्यते किं तर्हिवाजपेयकरणक इतिकर्तव्यताविशिष्टो यः प्रयोगफलभावनादिशब्दव्यपदेश्यः पुंव्यापारः फलार्थस्तस्य कालो विधीयते। शरदि वाजपेयेनेतितृतीयान्तेन पदेन फलसामग्रीभूतस्य तस्य निर्देशात्फलार्थत्वाञ्चिकीर्षितस्यतस्य तत्कालापेक्षितत्वाच्च।ततश्च तस्य व्यापारस्याङ्गप्रधानव्यासक्तत्वात्प्रधानवदङ्गानामपि तत्कालयोगः समान इति वाजपेयवदबृहस्पतिसवस्यौपदेशिककालेनातिदेशिकः कालो बाध्यते। न चायमौपदेशिकःकालोबृहस्पतिसवव्यतिरिक्तेष्वङ्गेषु सावकाशत्वाद् बृहस्पतिसवे नातिदेशिकंकालं बाधितुं प्रभवतीति वाच्यं, अतिदेशस्यापि कालव्यतिरिक्ताङ्गेषुसावकाशत्वेनेतराङ्गेष्विव बृहस्पतिसवेपि निरर्गलतया प्रवर्तमानं कालविधिं
 
 [^60]: "'क्त्वाप्रयोग... भुक्त्वा गच्छतीति एतद्वाक्यं नास्ति ब-आदर्शे."
-
-
 
 सङ्कोचयितुं न सामर्थ्यमिति वक्तुं सुशकत्वात्। तस्मात्सावकाशत्वस्याप्रयोजकत्वेनौपदेशिकेनातिदेशिकस्य बाधनाद् बृहस्पतिसवः प्रधानेन सहशरदि कर्तव्य इति पूर्वपक्षं कृत्वा सिद्धान्तितम्। सत्यमौपदेशिकेनातिदेशिकं बाध्यते इति। इह त्वौपदेशिकस्य न सम्भवः। तथाहि वाजपेयकरणकः सेतिकर्तव्यताको यः फलभावनारूपः पुंव्यापारः शरदि वाजपेयेनेति कालविधिना शरत्काले कर्तव्यतया चोदितस्तं क्त्वाप्रत्ययेन निर्दिश्यततः पश्चात्तनत्वेन वाजपेयेनेष्वा बृहस्पतिसवेनेति विधीयमानो बृहस्पतिसवो वाजपेयप्रयोगबहिर्भावान्न तत्कालं भजते। तथा च वाजपेये कृतेकर्तव्यो बृहस्पतिसवस्तदनन्तरकालातिक्रमकारणस्यातिदेशकृतस्य वसन्तकाललक्षणाङ्गोपसंहारस्य सत्त्वात्तदुत्तरवसन्तकाले कर्तव्यः। क्त्वाच पूर्वकालतायां स्मर्यंते नानन्तर्ये। तन्निष्पन्नमपि वाजपेयापूर्वं तदुत्तरवसन्तकालेऽनुष्ठीयमानेन बृहस्पतिसवेन बलवत् क्रियते इति॥ केषुचिन्निमित्तेषु पुनरग्निधारणं कार्यम्। तथा च **कात्यायनः**(४४१ )
 
@@ -4581,8 +4194,6 @@ Bibliography (of works referred to).
 मण्डलं धूपदीपाभ्यां कारयेत विचक्षणः॥  
 शरान्संपूजयेद्भक्त्या वैणवं च धनुस्तथा।  
 मङ्गलैः पुष्पधूपैश्च ततः कर्म समाचरेत्॥**
-
-
 
   **शरान् धूपदीपाभ्यां संपूजये**दित्यन्वयः। जलसमीपे संस्कृतायांभुवि मण्डलं कृत्वा शरादिकं सम्पूज्य प्रयोगप्रारम्भः कर्तव्य इत्यर्थः।धनुषः प्रमाणं लक्ष्यस्थानं च **नारदेन** दर्शितम् (ऋणादान ३०७)
 
@@ -4614,8 +4225,6 @@ Bibliography (of works referred to).
 **नदीषु नातिवेगासु तडागेषु सरःसु च।  
 हृदेषु स्थिरतोयेषु कुर्यात्पुंसां निमज्जनम्॥**
 
-
-
 **  नातिवेगासु** अवस्थितिविरोधिवेगरहितासु। तत्र जले **प्राडि्ववाको**वरुणं पूजयेत्। तदाह **नारदः**
 
 **गन्धमाल्यैः सुरभिभिर्मधुक्षीरघृतादिभिः।  
@@ -4646,8 +4255,6 @@ Bibliography (of works referred to).
 
 **त्वमम्भः सर्वभूतानामन्तश्चरसि साक्षिवत्।  
 त्वमेवाम्भो विजानीषे न विदुर्यानि मानवाः॥**
-
-
 
 **व्यवहाराभिशस्तोऽयं मानुषस्त्वयि मज्जति।  
 तदेनंसंशयादस्माद्धर्मतस्त्रातुमर्हसि॥**
@@ -4681,8 +4288,6 @@ Bibliography (of works referred to).
 
   शरप्रक्षेप्तुर्विशेषमाह **पितामहः**
 
-
-
 **क्षेप्ता तु क्षत्रियः कार्यस्तद्वृत्तिर्ब्राह्मणोऽपि वा।  
 अक्रूरहृदयः शान्तः सोपवासस्तथा शुचिः॥**
 
@@ -4705,8 +4310,6 @@ Bibliography (of works referred to).
 प्रत्यागच्छेतु वेगेन यतः स पुरुषो गतः॥  
 आगतस्तु शरग्राही न पश्यति यदा जले।  
 अन्तर्जलगतं सम्यक् तदा शुद्धं विनिर्दिशेत्॥**
-
-
 
 **अन्यथा न विशुद्धः स्यादेकाङ्गस्यापि दर्शनात्।  
 स्थानाद्वान्यन्त्र गमनाद्यस्मिन् पूर्व निवेशितः॥**
@@ -4744,8 +4347,6 @@ Bibliography (of works referred to).
 
 **  हिमागमे** हेमन्तशिशिरयोः। शार्ङ्ग शृङ्गोद्भवम्। **हैमवतं**
 
-
-
 हिमालयोद्भवम्। **हेमन्ते** इति हेमन्तशिशिरयोर्ग्रहणम्। **शरदिततोऽव्यल्पा** षड्यवेत्यर्थः। वत्सनाभस्यापि ग्राह्यतामाह **पितामहः**
 
 **यवाः सप्त प्रदातव्याः शुचिहेतोरसंशयम्।  
@@ -4780,8 +4381,6 @@ Bibliography (of works referred to).
 
 **  पितामहोऽपि**
 
-
-
 **चारितानि च जीर्णानि कृत्रिमाणि तथैव च।  
 भूमिजातानि सर्वाणि विषाणि परिवर्जयेत्॥**
 
@@ -4815,8 +4414,6 @@ Bibliography (of works referred to).
 **दीयमानं करे कृत्वा विषस्य[^69] इति अ-क.") परिशापयेत्।**
 
 [^69]: "'विषणः' (?
-
-
 
 **विष त्वं ब्रह्मणा सृष्टं परीक्षार्थं दुरात्मनाम्।  
 पापेषु दर्शयात्मानं शुद्धानाममृतं भव॥**
@@ -4861,8 +4458,6 @@ Bibliography (of works referred to).
 
 **  विष्णुः**( १३.५ )
 
-
-
 **विषं वेगक्रमातीतं सुखेन यदि जीर्यते।  
 विशुद्धं तमिति ज्ञात्वा दिवसान्ते विसर्जयेत्॥**
 
@@ -4895,8 +4490,6 @@ Bibliography (of works referred to).
 
 **  सशृकस्य** असत्येन दिव्यकरणेऽनिष्टशङ्कायुक्तस्य। **कोशपानं**उग्रदेवतास्त्नापनोदकपानम्।देवतास्नानोदकं च प्रसृतित्रयं ज्ञातव्यम्।
 
-
-
 तथा **विष्णुः**(१४.२-३ )–उग्रान्देवान्समभ्यर्च्य तत्स्नानोदकात्प्रसृतित्रयं पिबेदिदं मया न कृतमिति व्याहरन्देवताभिमुखः–इति। **उग्रादेवाः**दुर्गादयः। स्नापनीयदेवतासु विशेषमाह **पितामहः**
 
 **भक्तो यो यस्य देवस्य पाययेत्तस्य तज्जलम्।  
@@ -4924,8 +4517,6 @@ Bibliography (of works referred to).
   एतच्च स्नापनोदकपायनं कृतोपवासेन प्राड्विवाकेन देवतायतनसमीपेमण्डलं विधाय तत्र शोध्यं स्थापयित्वा गन्धपुष्पादिभिर्देवतामभ्यर्च्यस्नापयित्वा तत्स्नानोदकं मण्डले नीत्वा प्रागुक्तधर्मावाहनादिप्रतिज्ञापत्रबन्धनान्तं कृत्वा शोध्यमसत्येनैतद्दिव्यकरणेऽनिष्टं संश्राव्य जलविधावुक्तेनतोय त्वं प्राणिनां प्राण इत्यादिना मन्त्रेणाभिमन्त्र्य कर्तव्यम्[^71]। शोध्यश्चप्रागुक्तेन सत्यानृतविभागस्येत्यादिना मन्त्रेणाभिमन्त्र्य पिबेत्। अत्र **नारदः**
 
 [^71]: "'कर्तव्यम्' इत्यारभ्य 'मन्त्रेणाभिमन्य' इत्ययंभागो नास्ति ब- आदर्शे."
-
-
 
 **तमाहूयाभिशस्तं तु मण्डलाभ्यन्तरे स्थितम्।  
 आदित्याभिमुखं कृत्वा पाययेत्प्रसृतित्रयम्॥**
@@ -4966,8 +4557,6 @@ Bibliography (of works referred to).
 
 [^73]: "'त्रिसप्ताहाद्' इत्यस्मादारभ्य 'रोगाद्युद्भवे न'इत्यन्तो भागो नारित ब- आदर्शे. "
 
-
-
 **तमशुद्धं विजानीयात्तथा शुद्धं विपर्यये।**
 
 **  कात्यायनः**( ४५६ )
@@ -4999,8 +4588,6 @@ Bibliography (of works referred to).
   अत्र द्विसप्ताह इत्यवधिकालमात्रोपलक्षणमन्ते कृतकालव्यतिक्रमादितिहेतोरभिधानात्। तेनैकविंशतिरात्रस्यावधिकालत्वाश्रयणे चतुर्दशरात्रादूर्ध्वमपि वैकृतोत्पत्तौ पराजयः, त्रिरात्रसप्तरात्रपक्षयोश्च चतुर्दशरात्रात्प्रागपि वैकृतोत्पत्तौ न पराजय इति सिद्धम्। इति श्रीकोदण्डपरशुरामे ••••व्यवहारविवेकोद्द्योते कोशविधिः॥१२॥
 
   अथ तण्डुलविधिः। तत्र **पितामहः**
-
-
 
 **तण्डुलानां प्रवक्ष्यामि विधिं लक्षणचोदितम्।  
 चौर्ये तु तण्डुला देया नान्यत्रेति विनिश्चयः॥  
@@ -5034,8 +4621,6 @@ Bibliography (of works referred to).
 **शोणितं दृश्यते यस्य हनुस्तालु च शीर्यते।  
 गात्रं च कम्पते यस्य तमशुद्धं विनिर्दिशेत्॥**
 
-
-
   इति श्रीकोदण्डपरशुरामे....व्यवहारविवेकोद्द्योते तण्डुलविधिः॥१३॥
 
   अथ तप्तमाषविधिः। तत्र **पितामहः**
@@ -5063,8 +4648,6 @@ Bibliography (of works referred to).
 
 **  रक्तं** रक्तवर्णम्। **यस्य कराग्रं विस्फोटाद्यैः उज्झितमि**त्यन्वयः। इत्येकस्तप्तमाषप्रकारः। प्रकारान्तरमप्याह **पितामहः**
 
-
-
 **सौवर्णे राजते ताम्रे आयसे मृन्मयेपि वा।  
 गव्यं घृतमुपादाय तदग्नौतापयेच्छुचिः॥  
 सौवर्णी राजतीं ताम्रीमायसीं वा सुशोभिताम्।  
@@ -5089,8 +4672,6 @@ Bibliography (of works referred to).
 न दग्धश्चेच्छुद्धिमियादन्यथा तु स हीयते॥**
 
   अत्रापि प्राड्विवाकः फालस्य तापे प्रवृत्ते धर्माबाहनादिप्रतिज्ञापत्रारोपणान्तं कुर्यात्। प्राड्विवाकस्य त्वमग्ने वेदा इत्यादिः प्रागुक्तोऽभिमत्रणमन्त्रः। शोध्यस्य त्वमग्ने सर्वभूतानामित्यादिः प्रागुक्तोऽभिमन्त्रणमन्त्रः।इति फालविधिः॥
-
-
 
   अथ धर्मजविधिः। तत्र **पितामहः**
 
@@ -5120,8 +4701,6 @@ Bibliography (of works referred to).
 समौ कृत्वा नवे कुम्भे स्थाप्यौ चानुपलक्षितौ।  
 ततः कुम्भात्पिण्डमेकं प्रगृह्णीताविलम्बितः॥**
 
-
-
 **धर्मे गृहीते शुद्धः स्यात्सम्पूज्यश्च परीक्षकैः।**
 
 **  जीवदानादिकैर्मन्त्रैः** मा प्र गामीति (प्र गाम इति ?) सूक्तपठितैः(ऋ.१०.५७) ऋङ्मन्त्रैरन्यैर्वा प्राणप्रतिष्ठामन्त्रैरित्यर्थः। इति धर्मजविधिः॥इति श्रीकोदण्डपरशुरामे.....व्यवहारविवेकोद्द्योते दिव्यनिरूपणम्।समाप्तं च क्रियापादनिरूपणम्॥ १४॥
@@ -5146,8 +4725,6 @@ Bibliography (of works referred to).
 वाक्छलानुत्तरत्वेन द्वितीयः परिकीर्तितः॥**
 
 **  प्रमाणा**न्यत्र साक्षिणो लिखितं च। **वाक्छलानुत्तरत्वेन** वाक्छलेन अनुत्तरत्वेन च यो निश्चयः स द्वितीयो व्यवहार इत्यर्थः।चरित्रनिर्णयस्य द्वौ भेदौ दर्शितो **ते**नैव
-
-
 
 **अनुमानेन निर्णीतं चरित्रमिति कथ्यते।  
 देशस्थित्या द्वितीयं तु शास्त्रविद्भिरुदाहृतम्॥**
@@ -5178,8 +4755,6 @@ Bibliography (of works referred to).
 क्रियते निर्णयस्तत्र व्यवहारस्तु बाध्यते॥**
 
 **  नैगमाः** पौरवणिजः। **नैगमानुमतेनानुमानेनेति** समानाधिकरणे पदे। **कात्यायनोऽपि** (४०-४१ )
-
-
 
 **प्रतिलोमप्रसूतेषु तथा दुर्गनिवासिषु।  
 विरुद्धं नियतं प्राहुस्तद्धर्मं न विचाध्येत्॥  
@@ -5213,8 +4788,6 @@ Bibliography (of works referred to).
 पश्चात्तत्सोदयं दाप्यं जयिने जयपत्रकम्॥**
 
 **  मध्ये यत्स्थापितं** विवादकाले मध्यस्थस्थापितम्। धनदापने प्रकारमाह **कात्यायनः**(४७७-४७८ )
-
-
 
 **राजा तु स्वामिने विप्रं सान्त्वेनैव प्रदापयेत्।  
 देशाचारेण चान्यांस्तु[^74] दुष्टान्सम्पीड्य दापयेत्॥  
@@ -5250,8 +4823,6 @@ Bibliography (of works referred to).
 **दश स्थानानि दण्डस्य मनुः स्वायम्भुवोऽब्रवीत्।  
 उपस्थ उदरं जिह्वा हस्तौ पादौ च पञ्चमम्॥**
 
-
-
 **चक्षुर्नासा च कर्णौ च धनं देहस्तथैव च। इति।**
 
 **  उपस्थः**स्त्रीपुंसयोश्चिह्नम्। एतेषामगम्यागमनादिविषयाणामुपस्थनिग्रहादीनां दण्डानां क्षत्रियादिविषयत्वं न ब्राह्मणविषयत्वं
@@ -5283,8 +4854,6 @@ Bibliography (of works referred to).
 इतरेषां तु वर्णानां दण्डः प्राणान्तिको भवेत्॥**
 
   इदमेवाभिप्रेत्याह **बृहस्पतिः**
-
-
 
 **महापातकयुक्तोऽपि न विप्रो वधमर्हति।  
 निर्वासनाङ्कनं मौण्ड्यं तस्य कुर्यान्नराधिपः॥**
@@ -5318,8 +4887,6 @@ Bibliography (of works referred to).
 
 **पलायनानुत्तरत्वादन्यपक्षाश्रयेण च।  
 हीनस्य गृह्यते वादो न स्ववाक्यजितस्य तु॥**
-
-
 
 **  नारदः** (व्य.मा.अ. २.४०)
 
@@ -5359,8 +4926,6 @@ Bibliography (of works referred to).
 कामक्रोधाभिभूतार्तभयव्यसनपीडिताः।  
 रागद्वेषपरीताश्च ज्ञेयास्त्वप्रकृतिं गताः॥**
 
-
-
 **तथा दासकृतं कार्यमकृतं परिचक्षते।  
 अन्यत्र स्वामिसन्देशान्न दासः प्रभुरात्मनः॥  
 पुत्रेण च कृतं कार्य यन्न स्याच्छन्दतः पितुः।  
@@ -5390,8 +4955,6 @@ Bibliography (of works referred to).
 निसृष्टाः कृत्यकरणे गुरुणा परिगच्छता॥  
 निसृष्टार्थस्तु यो यस्मिंस्तस्मिन्नर्थे प्रभुश्च सः।  
 तद्भर्ता तत्कृतं कार्यं नान्यथा कर्तुमर्हति॥**
-
-
 
 **  बृहस्पतिरपि**
 
@@ -5423,8 +4986,6 @@ Bibliography (of works referred to).
 
   **परिपूर्णं** वृद्धिसहितमूलद्रव्यपर्याप्तम्। **आधि**र्बन्धकम्। तत्र यो
 
-
-
 विशेषःसोऽग्रे दर्शयिष्यते। **बन्ध**शब्देनात्रोत्तमर्णस्य विश्वासार्थं तदभिमतस्य कस्यचिद्धस्तेऽधमर्णेन स्थापितं द्रव्यं गृह्यते। अस्मिन्नर्थे **बन्धशब्दः**प्रयुक्तो **नारदेन**
 
 **निक्षेपो मित्रहस्तस्थो बन्धो विश्वासकः स्मृतः।**
@@ -5455,8 +5016,6 @@ Bibliography (of works referred to).
 
 **कायिका कर्मसंयुक्ता मासग्राह्या तु कालिका।  
 वृद्धेर्वृद्धिश्चक्रवृद्धिः कारिता ऋणिना कृता॥**
-
-
 
 **प्रत्यहं गृह्यते या तु शिखावृद्धिस्तु सा स्मृता।  
 गृहात्तोष (षः?) फलं क्षेत्राद्भोगलाभः प्रकीर्तितः॥**
@@ -5491,8 +5050,6 @@ Bibliography (of works referred to).
 
   उत्तमर्णप्रलोभनार्थमापत्काले शास्त्रीयवृद्ध्यधिकापि स्वयं परिकल्पिता या वृद्धिःकारिताख्या सा दातव्या। **अन्यथा** न स्वयं परिकल्पिता किं तर्हि धनिकेनाधिका परिकल्पिता सा न दातव्येत्यर्थः। **प्रत्यहंगृह्यते** इति अधमर्णप्रतिश्रुतदिनसंख्यायुक्तवृद्धिग्रहणकालोपलक्षणम्।
 
-
-
   अत एव कालमात्र निर्देशः कृतः **कात्यायनेन** (४९९ )
 
 **प्रतिकालं ददात्येव शिखावृद्धिस्तु सा स्मृता। इति।**
@@ -5518,8 +5075,6 @@ Bibliography (of works referred to).
 
   सबन्धके प्रयोगे प्रयुक्तद्रव्यस्याशीतितमो भागो वृद्धिः। पणशतेप्रयुक्ते सपादः पणः प्रतिमासं वर्धत इत्यर्थः। **अन्यथा**बन्धकराहित्ये।**वर्णक्रमात्** ब्राह्मणादिवर्णक्रमेण **शतं द्वित्रिचतुःपञ्चकं** द्वित्रिचतुःपञ्चाधिकं-तदस्मिन्वृद्ध्यायलाभशुल्कोपदा दीयते (पा.५.१.४७ )-इतिकन्। बन्धकरहिते पणशतप्रयोगे प्रतिमासं ब्राह्मणात्पणद्वयं क्षत्रियात्पणत्रयं वैश्यात् पणचतुष्टयं शूद्रात्पणपञ्चकं ग्राह्यमित्यर्थः। प्रतिभूसहितेप्रयोगे वृद्धेः परिमाणमाह **व्यासः**
 
-
-
 **सबन्धे भाग आशीतः षाष्टो भागः सलग्नके।  
 निराधाने द्विकशतं मासलाभ उदाहृतः॥**
 
@@ -5543,8 +5098,6 @@ Bibliography (of works referred to).
 **यो गृहीत्वा ऋणं सर्वंश्वो दास्यामीति सामकम्।  
 न दद्याल्लोभतः पश्चात्तदह्नावृद्धिमाप्नुयात्॥**
 
-
-
   **श्व** इति प्रतिश्रुतस्य प्रतिदानकालावधेरुपलक्षणम्। सममेव **सामकम्**। योऽमुकस्मिन्दिने सममेवाहं त्वदीयं धनं दास्यामीति प्रतिज्ञायऋणं गृहीत्वा पश्चाल्लोभाद्विलम्बं कुर्यात्सोवधिदिनमारभ्य वृद्धिं दद्यादित्यर्थः। यदि स्वकार्यं कर्तुं याचित्वा गृहीतमप्रतिदायैव कश्चिद्देशान्तरंगच्छेत्तदा संवत्सरादूर्ध्वं तद्धनं वर्धत इत्याह **कात्यायनः**(५०२ )
 
 **यो याचितकमादाय तमदत्त्वा दिशं व्रजेत्।  
@@ -5566,8 +5119,6 @@ Bibliography (of works referred to).
 अनाकारितमप्यूर्ध्वं वत्सरार्धाद्विवर्धते॥**
 
 **  अनाकारिता** अकृता। प्रीतिदत्तस्य प्रतियाचितस्यादाने वृद्धिविशेषमाह **कात्यायनः**(५०५ )
-
-
 
 **प्रीतिदत्तं न वर्धेत यावन्न प्रतियाचितम्।  
 याच्यमानमदत्तं चेद्वर्धते पञ्चकं शतम्॥**
@@ -5593,8 +5144,6 @@ Bibliography (of works referred to).
 
 **  पण्यमूल्यं** क्रीतस्य मूल्यं **भृति**र्वेतनं **न्यासो** निक्षेपः। **वृथादानं** नटादिभ्यः प्रतिश्रुतम्। **आक्षिकपणो** द्यूतद्रव्यम्। **अविवक्षिताः** अप्रतिश्रुतवृद्धिकाः। अत्र पण्यमूल्यस्य वृद्ध्यभावाभिधानंप्रवासप्रतियाचनयोरभावे ज्ञातव्यम्। न्यासस्य वृद्ध्यभावो निक्षिप्तं वृद्धिशेषं चेति पूर्वोदाहृतकात्यायनवचनात्प्रतियाचनाभावे
 
-
-
 **न वृद्धिः स्त्रीधने लाभे न क्षिप्ते च यथास्थिते।  
 सन्दिग्धे प्रातिभाव्ये च यदि न स्यात्स्वयंकृता॥**
 
@@ -5619,8 +5168,6 @@ Bibliography (of works referred to).
 गुडे मधुनि चैवोक्ता प्रयुक्ते चिरकालिके॥**
 
 **  कुप्यं** त्रपुसीसादिकम्। **सदः** क्षेत्रफलं पुष्पफलमूलादिकम्।
-
-
 
 धान्यस्य क्षेत्रफलत्वेपि पृथङ्निर्देशो गोबलीवर्दन्यायात्। वाह्यो घोटकादिः। **लव** ऊर्णाचामरादिः। यत्तु
 
@@ -5656,8 +5203,6 @@ Bibliography (of works referred to).
 
   स्नेहस्तैलादिः। **रसः** क्षीरादिः। **विष्णुः** (विष्णुधर्मसूत्र ६.११-
 
-
-
 १५) हिरण्यस्य द्विगुणा वृद्धिस्त्रिगुणा वस्त्रस्य धान्यस्य चतुर्गुणा रसस्याष्टगुणा सन्ततिः स्त्रीपशूनाम् इति। यत्तु- त्रिगुणं धान्यं धान्येनैव रसाव्याख्याताः पुष्पमूलफलानि च तुलाघृतमष्टगुणम् इति **वसिष्ठ**वचने(वसिष्ठधर्मसूत्र २.४४-४७) धान्यादीनां त्रैगुण्याभिधानं तद्यस्मिन्देशेत्रिगुणमेव धान्यादिकं देयमिति स्थितिस्तद्विषयम्। **तुलाघृतं** शर्करादि।एवमन्यान्यपि यानि न्यूनाधिकपरमवृद्धिप्रतिपादकानि
 
 **वस्त्रधान्यहिरण्यानां चतुस्त्रिद्विगुणा परा।**
@@ -5676,8 +5221,6 @@ Bibliography (of works referred to).
 **कुसीदवृद्धिर्द्वैगुण्यं नात्येति सकृदाहिता।**
 
 **  कुसीद**मृणं तस्य वृद्धिः कुसीदवृद्धिः। **द्वैगुण्य**ग्रहणं त्रैगुण्यादीनामप्युपलक्षणम्। सकृदाहिता सकृत्प्रयुक्ता पुरुषान्तरसंक्रमण। दिप्रयोगान्तररहितेत्यर्थः। केचित्तु सकृदाहृतेति पठन्ति तत्रायमर्थः। यदि
-
-
 
 प्रतिमासं प्रतिवर्षंन गृह्यते किं तु सकृद् गृह्यते तदा द्वैगुण्यं नातिकामतीति। एतेन सकृद्ग्रहणाभावे द्वैगुण्यमतिक्रामतीति सूचितम्। क्वचिद्वृद्ध्युपरमो नास्तीत्याह **बृहस्पतिः**
 
@@ -5703,8 +5246,6 @@ Bibliography (of works referred to).
 यादृच्छिकः सावधिश्च लेखारूढोऽथ साक्षिमान्।**
 
   यद्यप्याधिरष्टविधो दर्शितस्तथापि गोप्यभोग्ययादृच्छिकसावधिरूपाणां चतुर्णां भेदानामत्रानेकविधाध्युपयोगार्थं तात्पर्यातिशयेन कथनंनान्येषामिति वक्तुं प्रोक्तचतुर्विध इत्युक्तमिति **स्मृतिचन्द्रिकायाम्**।आगृहीतस्य धनस्योपरि विश्वासार्थमधमर्णेनोत्तमर्णे धीयते स्थाप्यते**इत्याधिः**। **गोप्यो**रक्षणीयः। **यादृच्छिकः** अकृतावधिः। **सावधिः**अमुकस्मिन् दिने ऋणं प्रत्यर्प्याहमेनमाधिं मोचयिष्यामि नो चेत्तवैव
-
-
 
 चायमित्यवधिंकृत्वा स्थापितः। एता मुख्याश्चतस्रो विधा दर्शयति**नारदः** (ऋ. १२४-२५)
 
@@ -5732,8 +5273,6 @@ Bibliography (of works referred to).
 
   अर्धग्रहणमननुज्ञाताधिभोगानुसारेण कल्पितस्य वृद्धिभागस्योपलक्षणम्।बृहस्पतिवचन यन्मूलहान्यभिधानं तद्बलात्कारकृतमहाभोगविष-
 
-
-
 यमित्युक्तं **स्मृतिचन्द्रिकायाम्**। आधिविनाशविषयमिति केचित्।गोप्याधितया स्थापितस्य दास्यादेः कर्मकारणे विशेषान्तरमाह **कात्यायनः** (५२५)
 
 **अकाममननुज्ञातमाधिं यः कर्म कारयेत्।  
@@ -5758,8 +5297,6 @@ Bibliography (of works referred to).
 ऋणं सलाभं संशोध्य तन्मूल्यं दापयेद्धनी॥**
 
 **  सलाभमृणं संशोध्य** सम्यग्विचार्य विनष्टाधेर्मूल्यं दत्त्वा
-
-
 
 यद्यृणमध्ये किंचिदधमर्णेऽवशिष्टं तदा तद् गृह्णीयादित्यर्थः। सवृद्धिकमूलपर्याप्ताधेर्नाशे तद्धानिमाह**नारदः**(ऋ. १२६)
 
@@ -5796,8 +5333,6 @@ Bibliography (of works referred to).
 **न चेद्धनिकदोषेण निपतेद्वा म्रियेत वा।  
 आधिमन्यं स दाप्यः स्यादृणान्मुच्येत नर्णिकः॥**
 
-
-
 **  निपतेत्** नश्येत्। **म्रियेतेति** पश्वाद्यभिप्रायेण। अदाने तस्मादृणान्नमुच्येतेत्यर्थःसम्यग्रक्ष्यमाणस्याप्याधेरसारत्वे जाते धनमाध्यन्तरं वा दातव्यमित्याह **नारदः**( ऋ. १३० )
 
 **रक्ष्यमाणोपि यद्याधिः कालेनेयादसारताम्।  
@@ -5832,8 +5367,6 @@ Bibliography (of works referred to).
 
 **  निसृष्टानां** कृतानां **लेख्यानां** सद्भावेऽपीति शेषः। उभयोरप्ये-
 
-
-
 कस्य क्षेत्रस्य बन्धकीकृत्य निर्देशे तयोश्चोपभोगार्थं युगपत् प्राप्तयोर्विभज्यतद्ग्रहणमित्याह **वसिष्ठः**
 
 **यद्येकदिवसे तौ तु भोक्तुकामावुपागतौ।  
@@ -5854,8 +5387,6 @@ Bibliography (of works referred to).
 **हिरण्ये द्विगुणीभूते पूर्णे काले कृतावधौ।  
 बन्धकस्य धनी स्वामी द्विसप्ताहं प्रतीक्ष्य तु॥  
 तदन्तरा धनं दत्त्वा ऋणी बन्धमवाप्नुयात्।**
-
-
 
 **  धनी** उत्तमर्णः। तत् तस्मात्कारणात्। **अन्तरा**[^88] दिनचतुर्दशकमध्येइत्यर्थः। यत्तु
 
@@ -5878,8 +5409,6 @@ Bibliography (of works referred to).
 **हिरण्ये द्विगुणीभूते मृते नष्टेऽधमर्णिके।  
 द्रव्यं तदीयं संगृह्य विक्रीणीत ससाक्षिकम्॥**
 
-
-
 **रक्षेद्वा कृतमूल्यं तु दशाहं जनसंसदि।  
 ऋणानुरूपं परतो गृह्णीतान्यत्तु वर्जयेत्॥**
 
@@ -5897,8 +5426,6 @@ Bibliography (of works referred to).
 **  चरित्रं** शोभनाचारः[^89]। तेन यद्वन्धकं तञ्चरित्रबन्धकं तेन यद्द्रव्यमात्मसात्कृतं पराधीनं वा कृतं तच्चरित्रबन्धककृतम्। अयमर्थः। यदिधनिनः शोभनाचारतामवगत्याधमर्णेन बहुमूल्यं द्रव्यं बन्धकीकृत्याल्पमेव द्रव्यं गृहीतं यदि वाधमर्णस्य निर्दोषतामवगत्योत्तमर्णेनाल्पमूल्यंबन्धकं गृहीत्वा बहुधनं दत्तं तदा तद्धनं राजा सवृद्धिकं दापयेत्। नत्वाधिनाश इत्यर्थः। अथवा चरित्रं गङ्गास्नानाग्निहोत्रादिजनितमपूर्वंतद्बन्धकीकृत्य गृहीतं चरित्रबन्धककृतम्। **सत्यङ्कारकृतं**यदृणग्रहणसमये द्विगुणीभूतेपि धने मया धनमेव द्विगुणं दातव्यं न त्वयमाधिस्तवेति परिभाष्य गृहीतं धनम्। चरित्रबन्धकादिस्थले द्वैगुण्यादूर्ध्वमधमर्णेन नाधिनाशो भविष्यतीति बुद्ध्या न विलम्बः कार्य इत्याह**व्यासः**
 
 [^89]: "'शोभना वाचः' इति अ-क."
-
-
 
 **गोप्याधिं द्विगुणादूर्ध्वं मोचयेदधमर्णिकः। इति।**
 
@@ -5927,8 +5454,6 @@ Bibliography (of works referred to).
 
 **  तिष्ठे**दाधिरिति शेषः। **तत्र** प्रयोक्तृकुले। एतच्चाधिमोचनं यदिभोग्याधिर्गोप्याधिश्चैतावन्तं कालं मया न मोचनीय इत्यधमर्णेन परि-
 
-
-
 भाष्य स्थापितस्तदावधिकालात्प्राग्लोभेन न कर्तव्यम्। इदमेवाभिप्रेत्याहफलभोग्याधिविषये **व्यासः**
 
 **फलभोग्यं पूर्णकालं दत्त्वा द्रव्यं तु सामकम्। इति।**
@@ -5949,8 +5474,6 @@ Bibliography (of works referred to).
 
 **यदा तु द्विगुणीभूतमृणमाधौ तदा खलु।  
 मोच्य आधिस्तदुत्पन्ने प्रविष्टे द्विगुणे घने॥**
-
-
 
 **तदा** आधौ कृते इति शेषः। अयं च क्षयाधिरिति लोके व्यवह्रियते॥अथ प्रतिभूभेदाः। तत्र **बृहस्पतिः**
 
@@ -5982,11 +5505,8 @@ Bibliography (of works referred to).
 **नष्टस्यान्वेषणार्थं तु देयं पक्षत्रयं परम्।  
 यद्यसौ दर्शयेत्तत्र मोक्तव्यः प्रतिभूर्भवेत्॥**
 
-
-
 **काले प्रतीते प्रतिभूर्यदि तं नैव दर्शयेत्।  
 स तमर्थ प्रदाप्यःस्यात्प्रेते चैष विधिः स्मृतः॥**
-
 
 **परं**[^94] परमावधिरूपम्। **प्रतीते** अन्वेषणार्थं परिकल्पिते देशनैक**ट्याद्यनुसारेण।** दर्शनावधिकालभेदानाह **बृहस्पतिः**
 
@@ -6013,8 +5533,6 @@ Bibliography (of works referred to).
 उत्तरौ तु विसंवादे तौविना तत्सुतौ तथा॥**
 
 **  आद्यौ** दर्शनप्रत्ययप्रतिभुत्रौ। **वितथे** अहमेनं दर्शयिष्याम्यसौसाधुरित्येवंरूपयोः स्वोक्तयोर्वाक्ययोरसत्यत्वे। **उत्तरौ** दानर्णिद्रव्यार्पणप्रतिभुवौ। **विसंवादे** लोभादिना धारणकेनाप्रतिदाने। **तौ विना** तयोर्दूरदेशगमने मरणे च। अत्र तौ विनेति द्विवचनान्तसर्वनाम्ना संनिहि-
-
-
 
 तयोः दानर्णिद्रव्यार्पणप्रतिभुवोः परामर्शाद्दर्शनप्रत्ययप्रतिभूसुतैर्न तद्देयमिति गम्यते। अत्रार्थे **याज्ञवल्क्योऽपि** (२. ५३-५४)
 
@@ -6049,8 +5567,6 @@ Bibliography (of works referred to).
 **गृहीत्वा बन्धकं यत्र दर्शनेऽस्य स्थितो भवेत्।  
 विना पित्रा धनात्तस्माद् दाप्यःस्यात्तदृणं सुतः॥**
 
-
-
   **दर्शन**ग्रहणं प्रत्ययस्याप्युपलक्षणं समानन्यायत्वात्। दर्शने प्रतिभूत्वेनस्थित इत्यर्थः। यत्रानेके प्रतिभुवस्तत्र विशेषमाह **याज्ञवल्क्यः** (२.५५)
 
 **बहवः स्युर्यदि स्वांशैर्दद्युः प्रतिभुवो धनम्।  
@@ -6076,8 +5592,6 @@ Bibliography (of works referred to).
 
 **यस्यार्थे येन यद्दत्तं विधिनाभ्यर्थितेनतु।  
 साक्षिभिर्भावितेनैव प्रतिभूस्तत्समाप्नुयात्॥ (कात्या. ५४०)**
-
-
 
  **समाप्नुयात्[^99]** सममाप्नुयादित्यर्थः। **साक्षिभिर्भावितेन** साक्षिभिःसाधितेन। एतच्च समदानं धनिकानिर्बद्धेन प्रतिभुवा स्वयं गत्वा दानेवेदितव्यम्। धनिकनिर्बद्धेन दाने त्वधमर्णेन तस्मै तद् द्विगुणं दातव्यम्।तथा च **नारदः**
 
@@ -6108,8 +5622,6 @@ Bibliography (of works referred to).
 
 **  प्रतिपन्नं** संप्रतिपन्नम्। **दाप्यः**दातुमुन्मुखः कर्तव्यः। **उपक्रमैः**उपायैः। ते चोपाया विविच्य दर्शिता धर्मोपधीत्यादिना। **गृहसंरोध-**
 
-
-
 **नेन** आचरिताख्योपायेन। धर्मादीनां चतुर्णामुपायानां स्वरूपं दर्शयति**स** एव
 
 **सुहृत्सम्बन्धिसन्दिष्टैः सामोक्त्यानुगमेन च।  
@@ -6135,8 +5647,6 @@ Bibliography (of works referred to).
 
   **यथे**त्यनेन यस्मिन्देशे धनिकेन स्वयमेवावरुध्य धार्यते तत्र तथा
 
-
-
 धार्यः, यत्र देशेऽधमर्णाद्वेतनार्थिना क्रूरेणः पुरुषान्तरेणावरुध्य धार्यतेतत्र तथा धार्य इति दर्शितम्। अवरोध्यस्य विष्मूत्रशङ्कायां तत्प्रतिरोधोन कार्य इत्याह **स** एव (कात्या. ५८१)
 
 **विण्मूत्रशङ्का यत्र स्याद्धार्यमाणस्य देहिनः।  
@@ -6158,14 +5668,11 @@ Bibliography (of works referred to).
 
 **  प्रात्ययिकः** विश्वास्यः। कथं तर्हि स मोचनीय इत्याकाहङ्क्षायामाह**स** एव ( कात्या.५८४)  
 
-
 **सोऽनिबन्धःप्रमोक्तव्यो निबद्धः शपथेन वा।**
 
 **  अनिबन्धः**रक्षकरहितः। अत्रार्यस्यावरोधविषये विशेषाभिधानंयद्यपि विप्रादौ धर्माद्युपायस्य[^100] नियम उक्तस्तथापि क्वचिद्देशविशेषे विप्रादावुपायान्तरप्रयोगोस्तीति सूचनार्थम्। सावधिकमृणमवधिप्राप्तौ निरवधिकं द्वैगुण्यादिपरमवृद्धेः प्राप्तौ कार्यविशेषोपनिपातश्चेत्तस्याप्राप्तावप्येतैरुपायैः सवृद्धिकं ग्राह्यम्। अथवा परमवृद्धिसहितं धनं मूलं कृत्वा
 
 [^100]: "'धर्माद्यस्यायं नियम उक्तः' इति अ-क. "
-
-
 
 लेख्यान्तरं ग्राह्यम्। अथवा सवृद्धिकमूलोपभोगयोग्यक्षेत्रादिरूप आधिर्ग्राह्यः। तथा च **बृहस्पतिः**  
 यत्तु
@@ -6201,8 +5708,6 @@ Bibliography (of works referred to).
 **धनदानासहं बुद्ध्वास्वाधीनं कर्म कारयेत्।  
 अशक्तौ बन्धनागारे प्रवेश्यो ब्राह्मणादृते॥ इति**
 
-
-
 **  कात्यायने**नैवाभिधानात् (४७९)अत्र कर्मकरणाशक्तौ बन्धनागारप्रवेशनाभिधानं सामर्थ्योत्पत्तौ कथंचिदृणप्राप्त्यर्थमित्युक्तं **स्मृतिचन्द्रिकायाम्**। एतैर्धर्माद्युपायैः स्वीयं धनं साधयन्नुत्तमर्णोन राज्ञानिवारणीयः। तथा च **विष्णुः** (विष्णुधर्मसूत्र ६.१८) प्रयुक्तमर्थंयथाकथंचित्साध्यमानो न राज्ञा वाच्यः स्यात् इति।**यथाकथंचित्**स्मृतिदेशाचाराविरुद्धमार्गेण। **मनुरपि** (८.५०)
 
 **यः स्वकं साधयेदर्थमुत्तमर्णोऽधमर्णिकात्।  
@@ -6231,8 +5736,6 @@ Bibliography (of works referred to).
 प्रयुक्तं साधयेदर्थं पञ्चमेन बलेन च॥ इति**
 
   मनूक्तो (८.४९ ) व्यवहारलक्षण उपायो विप्रतिपन्नविषय इति
-
-
 
 ज्ञातव्यम्। **व्यवहारः** साक्ष्याद्युपन्यासः। संप्रतिपत्तिरहिते रोधनाद्युपायं निषेधति **बृहस्पतिः**
 
@@ -6265,8 +5768,6 @@ Bibliography (of works referred to).
 
   द्विगुणग्रहणं वृद्धिसहितमूलोपलक्षणम्। उत्तमर्णेन साक्ष्यादिभिःसाधितमृणं दापितवतो राज्ञोऽधमर्णाद्दण्डग्रहणमुत्तमर्णाद्भृतिग्रहणं चाह**विष्णुः** (विष्णुधर्मसूत्र ६.२०-२१) उत्तमश्चेद्राजानमियात्ततस्तद्विभावितेऽर्थेऽधमर्णो राज्ञे धनदशभागसमं दण्डं दद्यात् प्राप्तार्थश्चोत्तमर्णो
 
-
-
 विंशतितममंशम् इति। **तद्विभाविते** उत्तमर्णेन साधिते सति।**याज्ञवल्क्योऽपि** ( २.४२ )
 
 **राज्ञाघमर्णिको दाप्यः साधिताद्दशकं शतम्।  
@@ -6292,8 +5793,6 @@ Bibliography (of works referred to).
 
 **  व्यास**वचनविरोधापत्तेश्च। **कारणे** कारणोत्तरे। **असत्येन** मिथ्योत्तरेण। प्रत्यवस्कन्दने प्राङ्न्यायेमिथ्योत्तरे च वादिप्रतिवादिनोर्मध्येयस्यैकतरस्य पराजयस्तस्याभियुक्तधनाद्द्विगुणो दण्ड इत्यर्थः। यत्तु**विज्ञानेश्वराचार्यै**र्मिथ्योत्तरेऽपह्नोतुः पराजये समो दण्डो मिथ्याभियोक्तर्द्विगुणो दण्डः, एवं प्राङ्न्याये प्रत्यवस्कन्दने चार्थिनोऽपह्नववादित्वा-
 
-
-
 त्प्रत्यर्थिना प्राङ्न्यायकारणसाधने प्रकृतधनसम एव दण्डः, यदि प्रत्यर्थीप्राङ्न्यायकारणे न साधयति तदा स मिथ्याभियोग्येवेति तस्य द्विगुणोदण्ड इत्युक्तं तदेतद् व्यासवचनविरुद्धत्वान्नादरणीयम्। यत्पुन**र्मनु**नोकं (८.५१)
 
 **अर्थेऽपव्ययमानं तु कारणेन (करणेन ?) विभावितम्।  
@@ -6315,8 +5814,6 @@ Bibliography (of works referred to).
 दत्त्वा तु ब्राह्मणायैव नृपतेस्तदनन्तरम्॥**
 
 **  नृपतेः** क्षत्रियस्य। समानजातीयेषूत्तमर्णेषु येन क्रमेण धनग्रहणंतेनैव दापनं विजातीयेषु ब्राह्मणादिवर्णक्रमेणेत्यर्थः। **कात्यायनो**पि(५१४)
-
-
 
 **नानर्णसमवाये तु यद्यत्पूर्वकृतं भवेत्।  
 तत्तदेवाग्रतो देयं राज्ञः स्याच्छ्रोत्रियानु च॥**
@@ -6343,8 +5840,6 @@ Bibliography (of works referred to).
 
 **  यो** धनाभाववशात्सवृद्धिक**मृणं** **दातुमशक्तो** दीर्घकालत्वपरिहारेण धनिकमनःसमाधानं कर्तुं लेख्यादिरूपां **क्रियां पुन**श्चिकीर्षेत् स
 
-
-
 निष्पन्नां वृद्धिं दत्त्वा पुनस्तत्कालादिचिह्नितां क्रियां कुर्यादित्यर्थः। यस्तुसमग्रां वृद्धिमपि दातुमसमर्थस्तं प्रत्याह **स** एव ( मनुः ८.१५५)
 
 **अदर्शयित्वा तत्रैव हिरण्यं परिवर्तयेत्।  
@@ -6367,8 +5862,6 @@ Bibliography (of works referred to).
 [^105]: "'गृहीत्वेत्यर्थः' इति ब."
 
 [^106]: "'एतच्छेषहान्यभिधानं इति व."
-
-
 
 **धर्मादिनोद्ग्राह्य ऋणं यस्तूपरिन लेखयेत्।  
 न चैवोपगतं दद्यात्तस्य तद्वृद्धिमाप्नुयात्॥**
@@ -6403,8 +5896,6 @@ Bibliography (of works referred to).
 **तपस्वी चाग्निहोत्री च ऋणवान् म्रियते यदि।  
 तपश्चैवाग्निहोत्रं च सर्वं तद्धनिनो भवेत्॥**
 
-
-
 अघमर्णस्याभावे तत्पुत्रेण सवृद्धिकमृणं देयम्। तथा च **बृहस्पतिः**
 
 **याचमानाय दातव्यमप्रकालमृणं कृतम्।  
@@ -6437,8 +5928,6 @@ Bibliography (of works referred to).
 बाल आ षोडशाद्वर्षात्पोगण्डश्चेति शब्द्यते॥  
 परतो व्यवहारज्ञः स्वतन्त्रः पितुरा मृतेः।**
 
-
-
  मृतपितृकस्य बाल्ये स्वातन्त्रेसत्यपि नर्णदानेऽधिकारः किन्तु प्राप्तव्यवहारस्यैवेत्युक्तं तेनैव
 
 **अप्राप्तव्यवहारः सन् स्वतन्त्रोऽपि हि नर्णभाक्।**
@@ -6469,8 +5958,6 @@ Bibliography (of works referred to).
 
 **विभक्ता अविभक्ता वा यो वा तामुद्धरेद्धुरम्॥**
 
-
-
  पुत्राभावे पौत्रेण रिक्थाग्राहिणा वृद्धिरहितं धनं दातव्यं रिक्थग्रहणे तु सवृद्धिकमेव दातव्यम्[^108]। पुत्रेण रिक्थग्रहणे तद्भावे वा सवृद्धिकमेव देयम्। प्रपौत्रेण[^109] तु रिक्थग्रहणाभावे मूलमपि न देयम्–ऋणमात्मीयवत्पित्र्यमिति पूर्वोदाहृतबृहस्पतिवचनात्। रिक्थग्रहणाभावेऽपि पुत्रस्यर्णप्रतिदानमाह **कात्यायनः**(५५९ )
 
 [^108]: "'सवृद्धिकं दातव्यम्' इति क."
@@ -6500,8 +5987,6 @@ Bibliography (of works referred to).
 **धूर्ते वन्दिनि मल्ले च कुवैद्ये कितवे शठे।**
 
 **चाटचारणचोरेषु दत्तं भवति निष्फलम्॥**
-
-
 
  इति वचनात्। बृहस्पतिरपि
 
@@ -6537,8 +6022,6 @@ Bibliography (of works referred to).
 
  दायविभागक्रमेण प्राप्तं यद्द्रव्यं तद्रिक्थं तद्यो गृह्णाति स **रिक्थग्राहः**। योषितं परस्त्रियं यो रागादिवशाद्भार्यात्वेनाङ्गीकरोति स**योषिद्ग्राहः**। **पुत्रोऽनन्याश्रितद्रव्यः** अन्यमाश्रितमन्याश्रितं, एतादृशं यद्द्रव्यं परकीयं द्रव्यं मातापितृसम्बन्धिद्रव्यमिति यावत्। पित्रोरत्रान्यशब्देन विवक्षणात्। तन्मातापितृद्रव्यं यस्य नास्ति दायग्रहणायोग्यत्वात्स क्लीबादिः पुत्रोऽनन्याश्रितद्रव्य इत्यर्थः। **पुत्रहीनस्य** दायग्रह-
 
-
-
 णार्हपुत्रहीनस्य **रिक्थिनः**। ऋणं रिक्थग्राहो दाप्यस्तदभावे योषिद्ग्राहस्तदभावे दायानर्हःपुत्र इत्यर्थः। पाठक्रमस्यात्राश्रितत्वात्। क्लीबादेर्दायग्रहणानर्हत्वमुक्तं **मनुना** (९.२०१ )
 
 **अनंशौ कीबपतितौ जात्यन्धबधिरौ तथा।**
@@ -6564,8 +6047,6 @@ Bibliography (of works referred to).
 **व्यसनाभिप्लुते पुत्रे बाले वा यत्प्रदृश्यते।**
 
 **द्रव्यहृद्दापयेत्तं तु (दाप्यते तत्र ?) तस्याभावे पुरन्ध्रिहृत् ॥**
-
-
 
  दायभागानर्हस्यापि भूयिष्ठधनवत्त्वे योषिद्ग्राहो न दद्यादित्याह **स**एव ( कात्या. ५७७ )
 
@@ -6607,8 +6088,6 @@ Bibliography (of works referred to).
 
 **सवर्णाय सपिण्डाय सा तृतीया प्रकीर्तिता।**
 
-
-
 **स्त्रीप्रसूताऽप्रसूता;वा पत्यावेव तु जीवति।**
 
 **कामात्समाश्रयेदन्यं स्वैरिणी प्रथमा तु सा॥**
@@ -6635,8 +6114,6 @@ Bibliography (of works referred to).
 
 [^113]: "'न त्वेतेषां मेलने' इति ब."
 
-
-
 न भ्रातरो न पितरः पुत्रा रिक्थहराः पितुः। इति ( मनु ९.१८५) पुत्रे सत्यन्यस्य रिक्थग्राहित्वासम्भवात्। योषिद्ग्राहोपि नोपपद्यते
 
 **न द्वितीयश्च साध्वीनां क्वचिद्भर्तोपदिश्यते।**इति
@@ -6648,8 +6125,6 @@ Bibliography (of works referred to).
 **दद्युःपैतामहं पौत्रास्तच्चतुर्थान्निवर्तते॥**इति।
 
  अथवा योषिद्ग्राहाभावे पुत्रो दाप्यइत्युक्तं पुत्राभावे योषिद्ग्राहो दाप्य इत्येतदर्थं पुत्रहीनस्य रिक्थिन इति। अस्मिन् पक्षे रिक्थशब्देन योषिदुच्यते सैव चास्य धनं स्मृतमिति स्मरणात्। पुत्रहीनस्य सयोषि-
-
-
 
 त्कस्य ऋणं योषिद्ग्राहो दद्याद्रित्यर्थः। ननु योषिद्ग्राहाभावे पुत्रो दाप्यः पुत्राभावेयोषिद्ग्राहो दाप्यइत्युभयसद्भावे न कश्चिद्दाप्यः स्यात्। नैष दोषः। सप्रधनस्त्रीहारिणोऽन्तिमस्वैरिणीग्राहिणः प्रथमपुनर्भूग्राहिणश्चाभावे पुत्रो दाप्यःपुत्राभावे तु निर्धननिरपत्ययोषिद्ग्राही दाप्य इति व्यवस्थितेः। एतदेवोक्तं **नारदे**न (ऋ. २३ )
 
@@ -6678,8 +6153,6 @@ Bibliography (of works referred to).
 **दासस्त्रीमातृशिष्यैर्वा दद्यात्पुत्रेण वा भृगुः॥**
 
 **मनुः** (८.१६७ )
-
-
 
 **कुटुम्बार्थेध्यधीनोऽपि व्यवहारं समाचरेत्।**
 
@@ -6721,8 +6194,6 @@ Bibliography (of works referred to).
 
 ** स्नेहेन** न धर्मत इत्यर्थः।भार्ययाप्यापदुद्धरणार्थं यत्कृतं तदृणं देयम्।
 
-
-
 **न च भार्याकृतमृणं कथंचित्पत्युराभवेत्[^114]।**
 
 [^114]: "'कथं चित्पुराभवेत्' इति अ."
@@ -6758,8 +6229,6 @@ Bibliography (of works referred to).
 **पुत्रिणी तु समुत्सृज्य पुत्रं स्त्री यान्यमाश्रयेत्।**
 
 **तस्या ऋणं हरेत्सर्वं निःस्वायाः पुत्र एव तु॥**
-
-
 
  **अन्यं** भर्तारमिति शेषः। तस्या एव सधनत्वे विशेषमाह **कात्यायनः** ( ५७४ )
 
@@ -6802,8 +6271,6 @@ Bibliography (of works referred to).
 
 **जले क्षिप्तं तथाग्नौच धनं स्यात्पारलौकिकम्॥**
 
-
-
 ** अग्नौ** हुतमिति शेषः[^117]। न तु क्षिप्तमित्यस्यानुषङ्गः। अत एवोक्तं**स्मृतिसंग्रहे**
 
 [^117]: "'हुत्वेति शेषः' इति ब."
@@ -6841,8 +6308,6 @@ Bibliography (of works referred to).
 **वासनस्थमविज्ञातं हस्तेऽन्यस्य यदर्प्यते।**
 
 **द्रव्यं तदौपनिधिकं प्रतिदेयं तथैव तत्॥**
-
-
 
 ** वासनं** द्रव्याधारभूतं करण्डकादि। **हस्त**ग्रहणमुपलक्षणम्। अत एवोक्तं **नारदेन** (निक्षेप ५ )
 
@@ -6883,8 +6348,6 @@ Bibliography (of works referred to).
 **ददतो यद्भवेत्पुण्यं हेमकुप्याम्बरादिकम्।**
 
 **तत्स्यात्पालयतो न्यासं यथैव शरणागतम्॥**
-
-
 
 **भर्तृद्रोहे यथा नार्याः पुंसः पुत्रसुहृद्वधे।**
 
@@ -6927,8 +6390,6 @@ Bibliography (of works referred to).
 **भ्रेषश्चेन्मार्गितेऽदत्ते दाप्यो दण्डं च तत्समम्।इति।**
 
 ** मार्गिते** याचिते **अदत्ते** सति यदि **भ्रेषो** दैवराजादिकृतो नाशो भवति तथापि तद्द्रव्यमूल्यपरिकल्पनेन धनिने ग्राहको दाप्यो राज्ञे च तत्समं दण्डमित्यर्थः। **मनु**रपि ( ८.१९१)
-
-
 
 **यो निक्षेपं नार्पयति यश्चानिक्षिप्य याचते।**
 
@@ -6974,8 +6435,6 @@ Bibliography (of works referred to).
 
 **याच्यमानं न चेद् दद्याद्वर्धते पञ्चकं शतम्॥इति।**
 
-
-
  निक्षेपापहर्तारं प्रत्याह **विष्णुः**( विष्णुधर्मसूत्र ५. १६४ )–निक्षेपापहारी वृद्धिसहितं धनं धनिकस्य दाप्यः। अस्य[^120]दण्डमप्याह **मनुः**(८.१९२ )
 
 [^120]: " 'अस्य' इति नास्ति क-आदर्शे."
@@ -7016,8 +6475,6 @@ Bibliography (of works referred to).
 
 ** ग्रहीतृद्रव्यसहित**मित्युपेक्षाद्यभावनिश्चयार्थमुक्तम्। तेन कथंचिन्निक्षेपमात्रस्य नाशे प्रमाणान्तरेणोपेक्षाद्यभावनिश्चये न ग्राहकस्य दोष इत्यवसेयम्। **याज्ञवल्क्यो**ऽपि ( २. ६६ )
 
-
-
 **न दाप्योपहृतं तत्तु राजदैविकतस्करैः।**
 
 ** दैविकं** च किंंचिद्दर्शितं **मनुना** ( ८.१८९)
@@ -7048,8 +6505,6 @@ Bibliography (of works referred to).
 
 **याचितान्वाहितन्यासनिक्षेपादिष्वयं विधिः।**
 
-
-
 ** याचितं** विवाहादौ शोभार्थमन्यस्माद्याचित्वा समानीतं वस्त्रालङ्कारादि। **अन्वाहित**मिदममुकेन मयि स्थापितं त्वया तस्मै दातव्यमित्युक्त्वा ग्राहकेण पुरुषान्तरहस्ते स्थापितम्। यद्यपि न्यासनिक्षेपयोर्विधिरुपदिष्टस्तथापि याज्ञवल्क्येनोपनिधावेवोपदिष्टो नान्यत्रेत्युचितोऽतिदेशः।**बृहस्पति**रपि
 
 **अन्वाहिते याचितके शिल्पिन्यासे सबन्धके।**
@@ -7078,8 +6533,6 @@ Bibliography (of works referred to).
 
  नेजकहस्ते प्रक्षालनार्थं दत्ते वस्त्रे तेन नाशिते तन्मूल्यं कियद् ग्राह्यमित्यपेक्षायामाह **नारदः** ( क्रीता० ८-९)
 
-
-
 **मूल्याष्टभागो हीयेत सकृद्धौतस्य वाससः।**
 
 **द्विः पादस्त्रिस्तृतीयांशश्चतुर्धौतेऽर्धमेव च॥**
@@ -7106,8 +6559,6 @@ Bibliography (of works referred to).
 
 ** यत्कर्म** वस्त्रनिर्माणादि **स्वल्पेनापि** प्रान्तवानादिनापि विकलं **नष्टंचेद्भुतकस्य** शिल्पिन एव च तन्नष्टं पुनर्वेतनग्रहणमन्तरेणैव वानादिक्रियां कुर्यादित्यर्थः। यदि स्वामी तन्त्वादिकं नार्पयति तदा पुनर्वानाद्यभावेऽपि शिल्पिने दत्तां भृतिं स न लभते। **पर्याप्तं** परिपूर्णं वस्त्रादिकं **दित्सतस्तस्य** भृतकस्य हस्ताद्दीयमान**मगृह्णतः** स्वामिनस्तत्पर्याप्तं नश्यतीत्यर्थः। एवं चात्र भृतको नष्टं न दाव्य इति पर्यवसि-
 
-
-
 तोऽर्थः। कल्कादिनिर्माणार्थं सुवर्णकारादिहस्ते दत्तानि यानि सुवर्णादीनि तेषु सुवर्णं यत्परिमाणकं दत्तं तत्परिमाणक एव सुवर्णविकारःशिल्पिनो ग्राह्यः। रजतादिविकारास्तु किंचिन्न्यूना ग्राह्याः। कम्बलादयस्तु ऊर्णाद्यपेक्षया किंचिदधिका ग्राह्याः। यद्येवं शिल्पी न ददाति तदा राज्ञैव दाप्यो दण्डनीयश्च। तदेतत्सर्वमभिप्रेत्य सुवर्णे साम्यमितरत्र वृद्धिक्षययोरियत्तां च दर्शयति **याज्ञंवल्क्यः** (२.१७८-१८० )
 
 **अग्नौ सुवर्णमक्षीणं रजते द्विपलं शते।**
@@ -7131,8 +6582,6 @@ Bibliography (of works referred to).
 **याचितोऽर्धकृते तस्मिन्नप्राप्ते न तु दाप्यते॥**
 
  यद्दीर्घकालनिष्पाद्यं **कार्यं तदुद्दिश्य** संवत्सरपर्यन्तं दीयतामित्येवं**कालं परिनियम्य** याचिते कार्यमध्ये परिनियमितकालमध्ये वा प्रति-
-
-
 
 याच्यमानो याचितकं न ददाति यदि[^123] तदा सोदयं न दाप्यःकिं तु कार्ये कृते परिनियमितकालात्यये याचितकमात्रं दद्यादित्यर्थः। यदि कार्यानन्तरमुक्तकालात्यये वा न ददाति तदा देवादिना नाशे तन्मूल्यं दातव्यमित्याह **स** एव (कात्या. ६०७)
 
@@ -7174,8 +6623,6 @@ Bibliography (of works referred to).
 
 **विक्रीयते स्वाम्यभावे स ज्ञेयोऽस्वामिविक्रयः॥**
 
-
-
 ** स्वाम्यभावे** स्वाम्यसंनिधाने। अत्र विक्रयग्रहणं दानबन्धकयोरप्युपलक्षणम्। अत एव तयोरपि निवर्त्यत्वमाह **कात्यायनः**( ६१२ )
 
 **अस्वामि विक्रयं दानमाधिं वा विनिवर्तयेत्।**
@@ -7210,8 +6657,6 @@ Bibliography (of works referred to).
 
 ** अप्रकाशिते** गोपिते क्रये **क्रेतुर्दोषो** भवति। **हीनात्** तद्धनागमोपायरहितात् क्रये **रहसि** एकान्ते वा क्रये **हीनमूल्ये** अल्पमूल्येन वा क्रये **वेलाहीने** रात्र्यादिकृते वा क्रये क्रेता तस्करवद् दण्ड्य इत्यर्थः।
 
-
-
 स्वामिना तद्धनस्य ग्रहणं राजानं ज्ञापयित्वैव कर्तव्यमितरथा तस्करप्रच्छादकत्वेन स दण्डव इत्याह **स** एव (या.२.१७२)
 
 **हृतं प्रनष्टं यो द्रव्यं परहस्तादवाप्नुयात्।**
@@ -7239,8 +6684,6 @@ Bibliography (of works referred to).
 **अन्तर्गृहे बहिर्गामान्निशायामसतो जनात्।**
 
 **हीनमूल्यं च यत् क्रीतं ज्ञेयोऽसावुपविक्रयः॥**
-
-
 
 ** असतो जनात्** चण्डालादिजनात्। असद्ग्रहणं दासादीनामुपलक्षणम्। अत एव **नारदः**( अस्वामि. ३ )
 
@@ -7275,8 +6718,6 @@ Bibliography (of works referred to).
 **नाष्टिकस्तु प्रकुर्वीत तद्धनं ज्ञातिभिः स्वकम्।**
 
 **अदत्तत्यक्तविक्रीतं कृत्वा स्वं लभते धनम्॥**
-
-
 
 ** दत्तं** कस्मैचित्संप्रदानभूताय विध्युक्तप्रकारेण दत्तम्। **त्यक्तं** पारितोषिकादिरूपेण दत्तम्। राजपुरुषैरानीतेन क्रेत्रा यतः क्रीतं स दर्शनीय इत्याह **बृहस्पतिः**
 
@@ -7313,8 +6754,6 @@ Bibliography (of works referred to).
 **विशोधिते क्रये राज्ञा वक्तव्यः स न किंचन॥**
 
 ** क्रये विशोधिते** साक्षिभाषणेन प्रकाशिते सति **राज्ञा न किंचनवक्तव्यो** न दण्ड्य इत्यर्थः। यत्तु **तेनै**व ( कात्या. ६१३)
-
-
 
 **अभियोक्ता धनं कुर्यात्प्रथम ज्ञातिभिः स्वकम्।**
 
@@ -7354,8 +6793,6 @@ Bibliography (of works referred to).
 
 [^128]: " 'क्रेत्रा' इति अ-क."
 
-
-
 **यदा मूलमुपन्यस्य पुनर्वादी क्रयं वदेत्।**
 
 **आहरेन्मूलमेवासौ न क्रयेण प्रयोजनम्॥**
@@ -7383,8 +6820,6 @@ Bibliography (of works referred to).
 **एतद् द्वयं समाख्यातं द्रव्यहानिकरं बुधैः॥**
 
 ** हृतं** नाशितं **व्यवहारतः** स्वापराधात्। **अविज्ञातक्रयः** अविज्ञातस्थानकात् क्रयः। **अपरिपालन**मरक्षणमुपेक्षेति यावत्। **मरीचि**रपि
-
-
 
 **अविज्ञातनिवेशत्वाद्यत्र मूल्यं न लभ्यते।**
 
@@ -7434,10 +6869,6 @@ Bibliography (of works referred to).
 
 **अर्वाक् संवत्सरात् स्वामी हरेत परतो नृपः॥इति।**
 
-
-
-
-
 यत्तु अब्दत्रयमध्ये समागतः स्वामी गृह्णीयादित्यर्थप्रतिपादकं
 
 **प्रणष्टस्वामिकं द्रव्यं राजा त्र्यब्दंनिधापयेत्।**
@@ -7469,8 +6900,6 @@ Bibliography (of works referred to).
 **कुलीनदक्षानलसैः प्राज्ञैर्नाणकवेदिभिः।**
 
 **आयव्ययज्ञैः शुचिभिः शूरैः कुर्यात्सह क्रियाम्॥**
-
-
 
 ** क्रियां** वाणिज्यक्रतुकृषिशिल्पसङ्गीतस्तेयरूपाम्। नाणकज्ञानवतां वणिज्यायामधिकारः क्रतौ प्राज्ञानां कुलीनानां शुचीनां चाधिकारः कृषौ चायव्ययज्ञानां शिल्पक्रियायां सङ्गीतक्रियायां च प्राज्ञानां स्तेयक्रियायां शूराणामधिकारः। दक्षत्वानलसत्वे सर्वाधिकारिविशेषणे। दक्षानलसग्रहणं संभाग्यव्याध्यपीडितानामप्युपलक्षणम्। नाणकवेदिग्रहणं[^134] मूलधनवतामप्युपलक्षणम्। अतएव (वा ?) दक्षालसान्प्रतिषेधता **तेन** मन्दभाग्यादयोऽपि प्रतिषिद्धाः।
 
@@ -7507,8 +6936,6 @@ Bibliography (of works referred to).
 **भाण्डपिण्डव्ययोद्धारभारसारान्ववेक्षणम्।**
 
 **कुर्युस्तेऽव्यभिचारेण समये स्वे व्यवस्थिताः॥**
-
-
 
 ** व्यासो**ऽपि
 
@@ -7548,8 +6975,6 @@ Bibliography (of works referred to).
 
 **स तद्दद्याद्विप्लवाच्च रक्षिता दशमांशभाक्॥**
 
-
-
 ** अनादिष्ट**मननुज्ञातम्। **वृहस्पति**रपि
 
 **अनिर्दिष्टो वार्यमाणः प्रमादाद्यश्च नाशयेत्।**
@@ -7586,8 +7011,6 @@ Bibliography (of works referred to).
 
 ** स्वानि कर्माणि** याजमानव्यतिरिक्तानि हौत्रादीनि कर्माणि। एतत्तत्तदंशपरिकल्पनविधानं तस्य द्वादशशतं दक्षिणेति क्रतुसम्बन्धमात्रेण विहितायां दक्षिणायां न तु ऋत्विग्विशेषसम्बन्धित्वेन विहितायाम्।
 
-
-
 अश्वं दद्यान्निविदां शस्त्रे इत्यादितत्प्रतिपादकश्रुतिविरोधापत्तेः। तेन यदृत्विगुल्लेखेन च दक्षिणा विहिता स एव तां गृह्णीयात्। अत एवोक्तं**मनुबृहस्पतिभ्यां** (मनु ८.२०९)
 
 **रथं हरेदथाध्वर्युर्ब्रह्माधाने च वाजिनम्।**
@@ -7609,8 +7032,6 @@ Bibliography (of works referred to).
  द्वादशाधिकगोशतरूपाया दक्षिणायाः प्रथमतश्चत्वारो भागाः कर्तव्याः। तत्रैको भागो होतृवर्गस्यापरो ब्रह्मवर्गस्यापरोऽध्वर्युवर्गस्यापर उद्गातृवर्गस्य। पुनरेकैकस्य भागस्य पञ्चविंशतिर्भागाः कर्तव्याः[^135]। तेष्वाद्यानां होत्रादीनां द्वादशभागा द्वितीयानां षट् तृतीयानां चत्वारश्चतुर्थानां त्रय इत्यर्थः। **कात्यायनसू**त्रेपि ( १०.२.२४-२५) गोशतं दक्षिणेति
 
 [^135]: "'तत्रैको भागः··· पञ्चविंशतिर्भागाः कर्तव्याः' इति वाक्यद्वयं नास्ति क -आदर्शे,"
-
-
 
 पक्षमाश्रित्यायमेव विकल्पनाप्रकार उक्तः–द्वादश द्वादशाद्येभ्यः षट् षट्द्वितीयेभ्यश्चतस्रश्चतस्रश्च तृतीयेभ्यस्तिस्रस्तिस्र इतरेभ्यः–इति। पशुबन्धादौ विषमविभागो नोक्त इति तत्र साम्येन दक्षिणाविभागः समं स्यादश्रुतित्वात्–इति न्यायात् (जै. १०.३.५३)। यद्यृत्विजा कर्मैकदेश एव कृतस्तदा सम्भूयकारिभिरवशिष्टं कर्मान्येन कारयित्वोभाभ्यां कृतकर्मांशानुसारेण दक्षिणा देयेत्याह **मनुः** (८.२०६)
 
@@ -7637,8 +7058,6 @@ Bibliography (of works referred to).
 **तद्बन्धुना क्रिया कार्या सर्वैर्वा सहकारिभिः॥इति,**
 
  यच्च **शङ्खलिखित**वचनं–अथ चेदनुप्राप्ते सवने ऋत्विङ् म्रियेत तत्र किं कार्यमिति जिज्ञासा तस्य सगोत्रोऽथ शिष्यो वा तत्कार्यमनुपूरयेत्अथ चेदबान्धवस्ततोऽन्यमृत्विजं वृणुयात्–इति तदवान्तरगणरहितर्त्विक्कर्तृकदर्शपूर्णमासादियागविषयमिति **स्मृतिचन्द्रिकाकारः**। न च दर्शपूर्णमासादिषु याज्ञिकप्रयुक्तसवनशब्दार्थाभावादनुप्राप्ते सवने इत्यादिवचनस्य दर्शपूर्णमासादिविषयत्वं नोपपद्यत इति शङ्क्यं, दान्तस्त्रिषवणस्नायीति (या. ३. ४८) वाक्यवदत्रापि कालवाचिनः सवनशब्दस्य प्रयुक्तत्वात्। सम्भूयकारिभिः कर्षकैः कृषिः कीदृशैः सम्भूय कर्तव्येत्यपेक्षायामाह **बृहस्पतिः**
-
-
 
 **वाह्यकर्षकबीजाद्यैः क्षेत्रोपकरणेन च।**
 
@@ -7680,8 +7099,6 @@ Bibliography (of works referred to).
 
  क्वचिन्मुख्ये भागद्वयमाह **बृहस्पतिः**
 
-
-
 **हर्म्यंदेवगृहं वापि चार्मिकोपस्कराणि च।**
 
 **सम्भूय कुर्वतां तेषां प्रमुखो द्व्यंशमर्हति॥**
@@ -7722,12 +7139,9 @@ Bibliography (of works referred to).
 
 **तन्मोक्षणार्थं यद्दत्तं वहेयुस्ते यथांशतः॥**
 
-
 ऋत्विग्व्यतिरिक्त्तानां[^138] सम्भूयकारिणामिपतंश (? मियमंश) परिकल्पना समयाभावे वेदितव्या। समयकरणे तु समयानुसारेणैवांशपरिकल्पना। तथा च **स** एव ( कात्या. ६३७)
 
 [^138]: " इत आरभ्य 'ताम्बूलादिभोगाभाव' - इत्यन्तो भागो गलितो ब- आदर्शे."
-
-
 
 **वणिजांकर्षकाणां च चौराणां शिल्पिनां तथा।**
 
@@ -7764,8 +7178,6 @@ Bibliography (of works referred to).
 **प्रतिश्रुतमथान्यस्य न देयं त्वष्टधा स्मृतम्॥**
 
 ** सामान्यं** साधारणम्। **प्रतिश्रुतं** वाचा दत्तम्। अत्र यत्पुत्रस्यांदेयत्वमुक्तं तदेकपुत्रविषयं तद्दाने सन्ततिविच्छेदापत्तेः। अत एवाह**वसिष्ठः**(वसिष्ठधर्मसूत्र १५. १–४)–शुक्रशोणितसम्भवः पुरुषो मातापितृनिमित्तकस्तस्य प्रदानविक्रयपरित्यागेषु मातापितरौ प्रभवतो न त्वेकं पुत्रं दद्यात्प्रतिगृह्णीयाद्वा स हि सन्तानाय पूर्वेषाम्–इति। मात्रापि
-
-
 
 पत्यनुज्ञातया देय इत्याह **स** एव (वसिष्ठधर्मसूत्र १५.५)–न तु स्त्री पुत्रं दद्यात्प्रतिगृह्णीयाद्वान्यत्रीनुज्ञानाद्भर्तुः–इति। स्त्रीधनमप्यदेयमित्याह**दक्षः** (३. १९–२० )
 
@@ -7809,8 +7221,6 @@ Bibliography (of works referred to).
 
 ** भक्तं** भोजनं **वसन**माच्छादनम्। भक्त्तवसनाद्यदतिरिच्यते तद्देमित्यन्वयः। कुटुम्बपर्याप्ते गृहक्षेत्राद्यन्तरे सति गृहक्षेत्रादिकमपि देयमित्याह **स** एव
 
-
-
 **सप्तागमाद्गृहक्षेत्राद्यद्यत्क्षेत्रं प्रदीयते।**
 
 **पित्र्यं वाथ स्वयंप्राप्तं तद्दातव्यं विवक्षितम्॥**
@@ -7838,8 +7248,6 @@ Bibliography (of works referred to).
 [^141]: "'बन्धाचारेणापि देयम्' इति अ."
 
 [^143]: " 'रूपेणेति मताद्विरोधः' अ-क."
-
-
 
 **विभक्ता अविभक्ता वा सपिण्डाः स्थावरे समाः।**
 
@@ -7874,8 +7282,6 @@ Bibliography (of works referred to).
 **प्रतिश्रुतार्थादानेन दत्तस्याच्छेदनेन च।**
 
 **विविधान्नरकान्याति तिर्यग्योनौ च जायते॥**
-
-
 
 **वाचैव यत्प्रतिज्ञातं कर्मणा नोपपादितम्।**
 
@@ -7914,8 +7320,6 @@ Bibliography (of works referred to).
 
 **कर्ता ममायं कर्मेति प्रतिलाभेच्छया च यत् ॥**
 
-
-
 **अपात्रे पात्रमित्युक्ते कार्ये वाधर्मसंज्ञिते।**
 
 **यद्दत्तं स्यादविज्ञानाददत्तमिति तत्स्मृतम्॥**
@@ -7937,8 +7341,6 @@ Bibliography (of works referred to).
 **अथ प्रागेव दत्ता स्यात्प्रतिदाप्यस्ततो बलात्।**
 
 **दण्डं चैकादशगुणमाहुर्गार्गीयमानवाः॥**
-
-
 
 उत्कोचायाः स्वरूपं दर्शितं **तेनै**व ( कात्या. ६५०-६५१)
 
@@ -7974,8 +7376,6 @@ Bibliography (of works referred to).
 
  इति कोदण्डपरशुरामे…… व्यवहारविवेकोद्द्योते दत्ताप्रदानाख्यव्यवहारपदनिरूपणम्॥ २०॥
 
-
-
  अथ **नारदो**क्त्तस्याभ्युपेत्याशुश्रूषाख्यव्यवहारपदस्य निरूपणम्। तत्र तत्स्वरूपं दर्शयति **नारदः** (अभ्यु. १)
 
 **अभ्युपेत्य तु शुश्रूषां यस्तां न प्रतिपद्यते।**
@@ -8009,8 +7409,6 @@ Bibliography (of works referred to).
 **अशुभं कर्म विज्ञेयं शुभमन्यदतः परम्॥**
 
 **  तेषा**मिति निर्धारणे षष्ठी। **त्रिपञ्चकाः**पञ्चदश। **शिष्यो** वेदविद्यार्थी। **अन्तेवासी** शिल्पविद्यार्थी। वेतनं गृहीत्वा यः कर्म करोति स **भृतकः**। **अधिकर्मकृत्** कर्म कुर्वतामधिष्ठाता। **वृत्तितः** जीवनोपायतः।**अवस्करः**संमार्जितधूलिराशिस्थानम्। **शोधन**शब्दस्य गृहद्वारादिभिश्चतुर्भिः सम्बन्धः। **उज्झनं** त्यागः। **अन्ततः स्वामिनःइष्टतः**स्वाम्याज्ञया मूत्रपुरीषादिस्थले निर्मार्जनार्थ**सङ्गैरुपस्थानं**
-
-
 
 हस्ताद्यर्पणम्। शिष्यास्तेवासिदासानां जात्यादिकृतो विशेषो भवति। तत्र शिष्याणां ब्राह्मणक्षत्रियवैश्यान्यतमत्वमेव तेषामेव वेदग्रहणेऽधिकारादिति जातिकृतो विशेषः स्पष्टः। कर्मकृतं तु विशेषं दर्शयति **बृहस्पतिः**
 
@@ -8050,8 +7448,6 @@ Bibliography (of works referred to).
 
 ** आदि**शब्देन कुम्भनिर्माणादीनि कुलालादिकर्माणि गृह्यन्ते। कटकमुकुटनिर्माणादिविषयं विज्ञानं शिल्पमुच्यते तत्प्राप्त्यर्थं गुरोर्गृहे कटकनिर्माणादिकं कर्म कुर्यादित्यर्थः। एतेनान्तेवासिनां स्वर्णकारादिजातिकृतः कटकनिर्माणादिकर्मकृतश्च विशेष इत्युक्तम्। कर्मकृतं वृत्तिकृतं च विशेषं, तेषां दर्शयति **नारदः** (अभ्यु. १६-१७)
 
-
-
 **स्वशिल्पमिच्छन्नाहर्तुं बान्धवानामनुज्ञया।**
 
 **आचार्यस्य वसेदन्ते कालं कृत्वा सुनिश्चितम्॥**
@@ -8089,8 +7485,6 @@ Bibliography (of works referred to).
 **गृहीतशिल्पः समये कृत्वाचार्यं प्रदक्षिणम्।**
 
 **शक्तितश्चानुमान्यैनमन्तेवासी निवर्तते॥**
-
-
 
  भृतकाधिकर्मकृतोस्तु न जात्यादिकृतो विशेषः। भृतिभेदाद्भृतकभेदानाह **बृहस्पतिः**
 
@@ -8135,8 +7529,6 @@ Bibliography (of works referred to).
 
  एतावन्तं कालमहमेतत्कर्म करिष्यामीति प्रतिज्ञातं कर्म तावन्तं कालं
 
-
-
 कुर्यात्। एवं च परिकल्पिते[^155] ( तां ?) भृतिं लभत इत्यर्थः। अधिकर्मकृतः स्वरूपं दर्शयति **नारदः** (अभ्यु. २४ )
 
 [^155]: "'परिकल्पितो' इति ब-क."
@@ -8168,8 +7560,6 @@ Bibliography (of works referred to).
 **स्वधर्मत्यागिनोऽन्यत्र दारवद्दासता मता॥**
 
  एतच्च प्रव्रज्यावसितो हीनवर्णस्यापि दासो भवतीत्यभिधानं क्षत्रियवैश्यप्रव्रज्यावसितविषयं न तु ब्राह्मणप्रव्रज्यावसितविषयं तस्य निर्वास्यत्वाभिधानेन दासत्वाभावात्। निर्वास्यत्वं च तस्योक्तं **कात्यायनेन** (७२१)
-
-
 
 **प्रव्रज्यावसिता यत्र त्रयो वर्णा द्विजातयः।**
 
@@ -8205,8 +7595,6 @@ Bibliography (of works referred to).
 
  यस्मात्परोपकारः कर्तव्य इति विधिस्तस्मात्कारणादूनं हीनमपि भार-
 
-
-
 वहनादिकं कर्म **कामतो** वेतनादानमन्तरेण स्वेच्छया परोपकारार्थं कुर्यादिति पूर्वार्धस्यार्थः। **तत्रापि** तेष्वपि हीनकर्मसु **यदशुभं** कर्म गृहद्वारशोधनादिकं तन्न कुर्यादित्यर्थः। अथवा **तदू**नमित्येकं पदं **तदूनं**श्रुताध्ययनहीनम्। अस्मिन्पक्षे **कारये**दिति पूर्ववाक्यस्थितस्यानुषङ्गः। क्षत्रियवैश्ययोर्दासभावेन प्राप्तयोर्ब्राह्मणस्य स्वामिनो यत्कर्तव्यं तदाह**मनुः** (८.४११)
 
 **क्षत्रियं चैव वैश्यं च ब्राह्मणो वृत्तिकर्शितौ।**
@@ -8241,8 +7629,6 @@ Bibliography (of works referred to).
 
 **परिचारकपत्नीं वा प्राप्नुयात्पूर्वसाहसम्॥**
 
-
-
 ** तत्कार्यमकृतं**निवर्तनीयमित्यर्थः। **ते राज्ञा दण्ड्याः** स्युरित्यन्वयः। **विष्णुः** (विष्णुधर्मसूत्र ५. १५१ )–यस्तूत्तमं वर्णं दास्ये नियोजयति तस्योत्तमसाहसो दण्डः।
 
  क्वचिद्दासीविक्रयणे दण्डमाह **कात्यायनः**(७२९)
@@ -8270,8 +7656,6 @@ Bibliography (of works referred to).
 [^161]: "'क्रियेयं' इति अ-क."
 
 [^162]: " 'पराजीयेयं' इति अ-क."
-
-
 
 कालमहं तव दास इत्यङ्गीकारितः। **भक्तदासो** यो भक्षितभक्तमूल्य[^163]द्वारेण यावत्ते धनं ददामि तावदहं त्वद्दास इत्यङ्गीकृत्य प्राप्तः। **वडवाहृतः** वडवा गृहदासी तयाहृतस्तल्लोभेन तां परिणीय तत्स्वाम्यनुमत्यर्थं तद्दासभावं प्राप्तः। **आत्मनो विक्रेता** यः स्वयमेव धनार्थमात्मानं विक्रीणीते। एवं **दासाः** **पञ्चदश**प्रकारा धर्मशास्त्रे स्मृता इत्यर्थः। तेषु आद्यानां गृहजातादीनां चतुर्णां दासत्वविमोकः स्वाम्यनुग्रहादेव भवति न प्रकारान्तरेणेत्याह **स** एव (नारद, अभ्यु. २९, ३७)
 
@@ -8301,8 +7685,6 @@ Bibliography (of works referred to).
 
 **आहितोऽपि धनं दत्त्वा स्वामी यद्येनमुद्धरेत्॥**
 
-
-
 **ऋणं तु सोदयं दत्त्वा ऋणी दास्यात्प्रमुच्यते।**
 
 **तवाहमित्युपगतो युद्धे प्राप्तः पणे जितः॥**
@@ -8328,8 +7710,6 @@ Bibliography (of works referred to).
 **राज्ञा मोचयितव्यास्ते दासत्वं तेषु नेष्यते॥**
 
  चौरापहृताश्चते विक्रीताश्चेति कर्मधारयः। यः कस्यचिद् दासः सन्नन्यस्य दासीभवितुमिच्छति स न ग्राह्य इत्यभिप्रेत्योक्तं **तेनै**व ( नारद, अभ्यु. ४०)
-
-
 
 **तवाहमिति चात्मानं योऽस्वतन्त्रः प्रयच्छति।**
 
@@ -8369,8 +7749,6 @@ Bibliography (of works referred to).
 
  इति श्रीकोदण्डपरशुरामे ……व्यवहारविबेकोद्द्योते अभ्युपेत्याशुश्रूषाव्यवहारपदनिरूपणम्॥२१॥
 
-
-
 अथवेतनानपाकर्माख्यव्यवहारपदनिरूपणम्[^165]। तत्र तस्य स्वरूपं दर्शयति **नारदः** (वेत. १)
 
 [^165]: "'अथ ... ... निरूपणम्'—इति नास्ति क-आदर्शे"
@@ -8407,8 +7785,6 @@ Bibliography (of works referred to).
 
 **जातंसस्यान्त्रिभागं तु प्रगृह्णीयादथाभृतः॥**
 
-
-
 ** भक्ताच्छादभृतः**अलवस्त्रदानेन पोषितः। **अभृत** एतदितरः। अथवा यत्रैतावद् दास्यामीति परिभाषाया अभावस्तत्र मध्यस्था यावतींभृतिं निरूपयन्ति तावती दातव्या। तथा च **वृद्धमनुः**
 
 **समुद्रयानकुशला देशकालार्थदर्शिनः।**
@@ -8430,8 +7806,6 @@ Bibliography (of works referred to).
 **उभयोरप्यसाध्यं चेत्साध्ये कुर्याद्यथाश्रुतम्॥**
 
 ** उभयोरपी**त्यपिशब्दाद्बहूनां ग्रहणम्। यस्मिन् कूपादौ कृते तत्कर्तृृणामेतावद् दास्यामीति वेतने परिभाषिते द्विबहुभिरारब्धं तत्कर्म यदि व्याध्यादिवशात्तैर्न परिसमापितं तदा तेषु यो यावत्कर्म करोति तस्मै तत्कर्मानुसारेण मध्यस्थनिरूपितं वेतनं देयं न तु साम्येन दानं न च परिसमाप्त्यभावाददानम्।यदि तैः परिसमापितं तदा यथापरिभाषितं देयम्। न तु प्रत्येकं कृत्स्नं वेतनं दातव्यं न च कर्मानुसारेण परिकल्प्य दातव्यमित्यर्थः। यस्तु भृतिं गृहीत्वा शक्तोऽपि दर्पादिनाङ्गीकृतं कर्म न करोति स गृहीतां भृतिं द्विगुणीकृत्य स्वामिने दद्याद्राज्ञे दुण्डं चेत्याह **बृहस्पतिः**
-
-
 
 **गृहीतवेतनः कर्म न करोति यक्ष भृतः।**
 
@@ -8461,8 +7835,6 @@ Bibliography (of works referred to).
 
 ** प्रतिश्रुत्य** प्रारभ्येत्यर्थः। कात्यायनेन प्रारम्भ एव दण्डाभिधानात्। यस्तु **मनुना** (८. २१५ )
 
-
-
 **भृतो नार्तो न यः कुर्याद् दर्पात्कर्म यथोदितम्।**
 
 **स दण्ड्यः कृष्णलानष्टौ न देयं चास्य वेतनम्॥**
@@ -8489,8 +7861,6 @@ Bibliography (of works referred to).
 
 ** स्वामिदोषो** निष्ठुरभाषणादिः। स्वामिदोषमन्तरेण परित्यागे दण्डमप्याह **विष्णुः**(विष्णुधर्मसूत्र ५. १५२ - १५३)–भृतकाश्चापूर्णे काले त्यजन्सकलमेव मूल्यं जह्याद्राज्ञे च पणशतं दद्यात्–इति। **मूल्यं** वेतनम्। अपूर्णे काले स्वामिना भृतकस्य तदपराधमन्तरेण त्याजने परिकल्पितं समग्र वेतनं दण्डश्च देय इत्याह **विष्णुः**(विष्णुधर्मसूत्र
 
-
-
 ५. १५५-५६ )–स्वामी चेद्भृतकमपूर्णे काले जह्यात्तस्य सर्वमेव मूल्यं दद्यात्पणशतं च राजन्यन्यत्र भृतकदोषात्–इति। भृतकदोषात् स्वामिद्रव्यनाशे मूल्यद्वारेण तद् द्रव्यं स्वामिने देयमित्याह **स** एव ( विष्णुधर्मसूत्र ५. १५४)–तद्दोषेण यद्विनश्येत्तत् स्वामिने देयमन्यत्र दैवोपघातात्। दैवग्रहणं राजकृतस्याप्युपलक्षणम्। अत एव **नारदः** (वेत. ९)
 
 **भाण्डं व्यसनमागच्छेद्यदि वाहकदोषतः।**
@@ -8514,8 +7884,6 @@ Bibliography (of works referred to).
 **भृतिमर्धपथे सर्वां प्रदाप्यस्त्याजकोऽपि च।**
 
 ** प्रक्रान्ते** प्रस्थानकर्मणीति शेषः। स्वामी गमनारम्भानन्तरं यदि त्याजयति तदा पूर्वोक्तक्रमेण सप्तमभागादिकं भृत्याय दापनीय इति त्याजकोऽपि चेत्यस्यार्थः। स्वामिना त्याजने यच्चतुर्थभागदापनमुक्तं तदविक्रीत-
-
-
 
 भाण्डस्वामिविषयं विक्रीतभाण्डस्वामिना तु भृतेरर्धं दातव्यम्। अत एवाह**वृद्धमनुः**
 
@@ -8551,8 +7919,6 @@ Bibliography (of works referred to).
 
 [^169]: "'भाण्डप्रापणं द्यमुककार्य०' इति अ-क,"
 
-
-
 **अनयन्भाटयित्वा तु भाण्डवान्यानवाहने।**
 
 **दाप्यो भृतिं चतुर्भागं सर्वामर्धपथे त्यजन्॥**
@@ -8580,8 +7946,6 @@ Bibliography (of works referred to).
 **ग्रहीतुराभवेद्भग्नंनष्टं चान्यत्र संप्लवात्॥**
 
 ** स्तोमवाहीनि** भाटकगृहीतानि। तानि पूर्णपरिभाषितभाटककालानि तत्स्वामिनं प्रापयेदिति पूर्वार्धस्यार्थः। **भग्न**मेकदेशेन विकृतं **नष्टं**कार्येन विकृतम्। **संप्लवः**परस्परसङ्घर्षः। तद्व्यतिरिक्तप्रकारेण यद्भग्नंनष्टं च तद्भाटकग्रहीतुर्भवति संप्लवेन तु यन्नष्टं भग्नं वा तद्भाटकदात्रा पूर्ववत्कृत्वा मूल्यद्वारेण वा तत्स्वामिने देयमित्यर्थः॥ परभूमौ स्वयं गृहं निर्माय भूमिस्वामिने भाटकं दत्त्वा यस्तत्र वसति तंप्रत्याह **स**एव (नारद, वेत. २०)
-
-
 
 **परभूमौ गृहं कृत्वा स्तोमं दत्त्वा वसेत्तु यः।**
 
@@ -8627,8 +7991,6 @@ Bibliography (of works referred to).
 
 **शुल्कं सोऽष्टगुणं दाप्यो विनयं तावदेव तु॥**
 
-
-
  वेश्याया दत्तशुल्कं परित्यज्य पुरुषान्तरगमने दण्डादिकमुक्तं **मत्स्यपुराणे** (२२७. १४५)
 
 **गृहीत्वा वेतनं वेश्या लोभादन्यत्र गच्छति।**
@@ -8667,8 +8029,6 @@ Bibliography (of works referred to).
 
 ** पाषण्डाः** वैदिकमार्गविरोधिनः क्षपणकादयः। **नैगमाः** सार्थिका बणिजः। नैगमा वेदप्रामाण्याभ्युपगन्तारः पाशुपतादय इति **विज्ञानेश्वराचार्याः**। **आदि**शब्देन त्रैविद्यब्राह्मणवृन्दादयः। तेषां **स्थितिः**पारिभाषिकधर्मवत्तया व्यवस्थापनं **समय** इत्युच्यते। तस्य समयस्य
 
-
-
 **यदनपाकर्म** अव्यतिक्रमः परिपालनरूपः **तत्समयस्यानपाकर्मविवादपदं स्मृत**मक्रियमाणमिति शेषः। अथवा अव्यतिक्रमाभिधायिना अनपाकर्मशब्देनात्र विषं भुंक्ष्वेतिवद्विपरीतलक्षणया व्यतिक्रमः प्रतिपाद्यते। तस्य समयस्य यो व्यतिक्रमः स विवादपदमित्यर्थः। एतदुपयोगिनं कञ्चिदर्थं दर्शयति **याज्ञवल्क्यः** (२. १८५)
 
 **राजा कृत्वा पुरे स्थानं ब्राह्मण्यं न्यस्य तत्र तु।**
@@ -8697,8 +8057,6 @@ Bibliography (of works referred to).
 
 ** पौराणां** पुरवासिनाम्। **याज्ञवल्क्यो**ऽपि (२. १८६ )
 
-
-
 **निजधर्माविरोधेन यस्तु सामयिको भवेत्।**
 
 **सोऽपि यत्नेन संरक्ष्यो धर्मो राजकृतश्च यः॥**
@@ -8724,8 +8082,6 @@ Bibliography (of works referred to).
 **बाधाकाले तु सा कार्या धर्मकार्ये कथंचन॥इति।**
 
  ग्रामादीनां समयकरणमन्तरेण यद्युपद्रवो दुष्परिहरो धर्मकार्यं वा दुःसाध्यं तदा सङ्केतरूपा समयक्रिया कर्तव्येत्यर्थः। एतच्चोपलक्षणम्।
-
-
 
 तेनैतदभावेऽपि सर्वेषामिच्छातो भवति समयक्रिया। उपद्रवपरिहरणं समयिभिः सर्वैर्मिलित्वा कार्यन त्वेकेन। तथा च **स** एव
 
@@ -8754,8 +8110,6 @@ Bibliography (of works referred to).
 **विश्वासं प्रथमं कृत्वा कुर्युः कार्याण्यनन्तरम्॥इति।**
 
 ** कोशेन** देवतास्नानोदकपानेन। **लेख्यक्रियया** समयपत्रेण।
-
-
 
 **मध्यस्थैः** प्रतिभूभिः। राज्ञापि समयः परिपालनीय इत्याह **नारदः** (सम. २.)
 
@@ -8786,8 +8140,6 @@ Bibliography (of works referred to).
 **तस्य प्रक्षुभ्यते राष्ट्रं बलं कोशश्चनश्यति॥**
 
 ** यस्य राज्ञो** राष्ट्रे इति शेषः। निवर्तनीयान्तरं दर्शयति **स** एव (नारद, सम. ७)
-
-
 
 **दोषवत्करणं यत्स्यादनाम्नायप्रकल्पितम्।**
 
@@ -8822,8 +8174,6 @@ Bibliography (of works referred to).
 **यस्तत्र विपरीतः स्याद् स दाप्यःप्रथमं दमम्॥**
 
 ** प्रथमं** पूर्वसाहसम्। कार्यचिन्तकोक्तं यदि युक्तिबाधितं तदा न वदतिक्रमे दुण्ड इत्यभिप्रेत्याह **कात्यायनः**(६७१)
-
-
 
 **युक्तियुक्तं च यो हन्याद्वक्तुर्योऽनवकाशदः।**
 
@@ -8865,8 +8215,6 @@ Bibliography (of works referred to).
 
 ** वाग्दण्डः** पापिष्ठोसीति भाषणम्। **धिग्दण्डो** धिक्त्वामिति भाषणम्। **परित्यागो**ऽसंव्यवहार्यत्वकरणं निर्वासनं वा। एतच्चार्थदण्डादेरप्युपलक्षणम्। **निग्रहानुग्रहमि**त्यन्ते पुनः सामान्येनाभिधानम्।**निस्सृष्टार्था** अनुज्ञातकार्याः। द्वेषादिवशात्समुदायेनैकस्य निग्रहे कृते राज्ञा ते सर्वे दण्डनीया इत्याह **स** एव
 
-
-
 **बाधांकुर्युर्यदैकस्य संभूता द्वेषसंयुताः।**
 
 **राज्ञा तु विनिवार्यास्ते शास्याश्चैवानुबन्धतः॥**
@@ -8905,8 +8253,6 @@ Bibliography (of works referred to).
 
  नृपे विख्याप्य गणेनोच्छेद्या इत्यर्थः। समूहकार्यार्थमागताय मुख्याय राज्ञा समूहपूजार्थं यद्दत्तं तस्य तेन समूहायासमर्पणे दुण्डमाह**याज्ञवल्क्यः** (२.१८९–१९०)
 
-
-
 **समूहकार्य आयाता(तकार्यान् विसर्जयेत्।**
 
 **सदानमानसत्कारैः पूजयित्वा महीपतिः॥**
@@ -8938,9 +8284,6 @@ Bibliography (of works referred to).
 **आत्मार्थं विनियुक्तं वा देयं तैरेव तद्भवेत्॥**
 
 ** तै**र्मुख्यैः। ये समुदायानुग्रहात्तदन्तर्भावं प्राप्ता ये च समुदायक्षोभादिना ततो बहिर्भावं प्राप्तास्तेषु कश्चिद्विशेषमाह **स** एव ( कात्या. ६७५–६७६ )  
-
-
-
 
 **गणिनां श्रेणिवर्गाणां गताः स्युर्येपि मध्यताम्।**
 
@@ -8984,8 +8327,6 @@ Bibliography (of works referred to).
 
   अत्र त्र्यहादिगणनं क्रयदिनमारभ्येति ज्ञातव्यम्। **दोह्यं** गवादिकम्। **वाह्य**मश्वादिकम्। **मुक्ते**ति रत्नस्याप्युपलक्षणम्। **द्विपदां**
 
-
-
 **पुंसां** दासानामित्यर्थः। **तद्द्विगुणं** मासमित्यर्थः। **स्त्रियाः** दास्या इत्यर्थः। **सर्वबीजा**न्यत्र वापनार्थं गृहीतधान्यादीनि विवक्षितानि। भक्षणाद्यर्थं गृहीतानां पूर्वोदाहृतव्यासवचनेन सद्यःपरीक्ष्यत्वाभिधानात्।**कात्यायनः**
 
 **भूमेर्दशाहोऽनुशयः क्रेतुर्विक्रेतुरेव च।**
@@ -9015,8 +8356,6 @@ Bibliography (of works referred to).
 **परीक्ष्याभिमतं क्रीतं विक्रेतुर्न भवेत्पुनः॥**
 
 ** अनुशयं** पश्चात्तापम्। **पण्याना**मश्वादीनामस्मिन्देशे मूल्यस्यः हानिरस्मिन्देशे तदाधिक्यमिति **क्षयवृद्धी**। एतद्देशसम्भवमि**त्यागमं**च क्रयात्प्रागेव **विजानीया**दित्यर्थः। परीक्षाकाल एव दोषदर्शनमन्तरेण क्रीतस्य प्रत्यर्पणे विशेषमाह **कात्यायनः** (६८६-८७ )
-
-
 
 **क्रीत्वा वानुशयात्पण्यं[^180] त्यजेद्दोषादृते नरः।**
 
@@ -9050,8 +8389,6 @@ Bibliography (of works referred to).
 
 **सोऽन्तर्दशाहात्तद्द्रव्यं दद्याच्चैवाददीत वा॥**
 
-
-
 **परेण तु[^181] दशाहस्य न दद्यान्नापि दापयेत्।**
 
 [^181]: " अस्मादारभ्य 'तदभावादिकं ज्ञातव्यम्' इत्यन्तो भागो नास्ति ब-आदर्शे,"
@@ -9084,8 +8421,6 @@ Bibliography (of works referred to).
 
 ** दानं** विक्रयः। **आदानं** क्रयः। गणयित्वा यस्य क्रयविक्रयौ तद्ग**णिम**म्। एवं तुलिमादिकम्। **गणिम**माम्रफलादिकं **तुलिमं** कुङ्कुमसुवर्णचन्दनादिकं **मेयं** ब्रीह्यादिकम्। **क्रियया** वाहनदोहनादिरूपया युक्तमिति शेषः। **रूपतः** रूपेण युक्तं वस्तु। **श्रिया** दीप्त्या समन्वितं पुष्परा-
 
-
-
 गादिकम्। गृहीतमूल्येन विक्रेत्रा याचमानाय क्रेत्रे विक्रीतस्याप्रदाने यत्कर्तव्यं तदाह **स** एव ( नारद, विक्री० ४ )
 
 **विक्रीय पण्यं मूल्येन क्रेतुर्यो न प्रयच्छति।**
@@ -9113,8 +8448,6 @@ Bibliography (of works referred to).
 **स्थायिनामेष नियमो दिग्लाभं दिग्विचारिणाम्।**
 
 ** स्थायिनां** विक्रेतृदेशस्थायिनाम्। **एष नियमः** स्थावरस्य क्षयं दाप्य
-
-
 
 इत्यादिवचनोक्तो नियम इत्यर्थः। विक्रेतुर्दण्डमाह **विष्णुः**(विष्णुधर्मसूत्र ५. १२६–७ )–गृहीतमूल्यं यः पण्यं क्रेतुर्न दद्यात्तत्तस्यासौ सोदयं दाप्यो राज्ञा च पणशतं दण्ड्यः। एतच्चानुशयरहितदृप्तविक्रेतृविषयम्। यस्तु विक्रीयानुशयवशान्नार्पयति यश्चक्रीत्वानुशयवशाद्दत्तमूल्यं पण्यं न गृह्णाति तौ प्रत्याह **कात्यायनः**(६८३)
 
@@ -9150,8 +8483,6 @@ Bibliography (of works referred to).
 
 **हानिश्चेत्क्रेतृदोषेण क्रेतुरेव हि सा भवेत्।**
 
-
-
 ** क्रेतृदोषो** दीयमानस्याग्रहणम्। क्रेतुर्हानिर्दत्तस्य मूल्यस्याभाव इत्यर्थः। क्रयानन्तरं यत्र क्रेत्रान याचितं विक्रेत्रा च न समर्पितं जातश्च राजादिकृत उपघातस्तत्रोभयोरपि याचनानर्पणशैथिल्येन सापराधत्वसाम्यात्समा हानिः कल्पनीयेत्युक्तं **स्मृतिचन्द्रिकायां देवणभट्टैः**। अनुशयवशाद्दीयमानस्याग्रहणे विक्रीतस्याप्यन्यत्र विक्रये विक्रेतुर्नापराध इत्याह **नारदः** (विक्री ८ ९ )
 
 **दीयमानं न गृह्णाति क्रीत्वा पण्यं च यः क्रयी।**
@@ -9186,8 +8517,6 @@ Bibliography (of works referred to).
 
  अबुद्धिपूर्वकविक्रये तु परिवर्तनमात्रम्। क्वचिदन्यत्रापि क्रयपरावृत्तिमाह **स** एव (कात्या. ६९२)
 
-
-
 **मत्तोन्मत्तेन विक्रीतं हीनमूल्यं भयेन वा।**
 
 **अस्वतन्त्रेण मूढेन त्याज्यं तस्य पुनर्भवेत्॥**
@@ -9216,8 +8545,6 @@ Bibliography (of works referred to).
 
 [^186]: "'द्रव्यांग्राहकत्व०' इति अ."
 
-
-
  अथ स्वामिपालविवादाख्यव्यवहारपदनिरूपणम्॥ तस्य प्रतिपादनं प्रतिजानीते **मनुः** (८.२२९)
 
 **पशुषु स्वामिनां चैव पालानां च व्यतिक्रमे।**
@@ -9243,8 +8570,6 @@ Bibliography (of works referred to).
 **गोस्वाम्यनुमते भृत्यः सा स्यात्पालेऽभृते भृतिः॥**
 
 ** दशतः** दशानां दोग्ध्रीणां मध्ये **वरा**मुत्कृष्टां तत्क्षीरभृतो **भृत्यः**गोपो दशद्रोग्ध्रीपालनकृत् भृत्यर्थं **दुह्यात्**। **सै**षा **भृतिः** प्राग्द्रव्यान्तरेणा**भृते** सति भवति। यस्तु द्रव्यान्तरेण भृतस्तत्र तदेव भृतिरित्यर्थः। एतदनुसारेण न्यूनाधिकसंख्याकगवादिपरिपालने भृतिः परिकल्पनीया। स्वामिनः पशुपालस्य प्रतिदिनं यत्कृत्यं तदाह **नारदः** (वेत०११)
-
-
 
 **उपानयेद्गा गोपालःप्रत्यहं रजनीक्षये।**
 
@@ -9284,8 +8609,6 @@ Bibliography (of works referred to).
 
 ** तं** गवादिकम्। नष्टगवादिदानं च मूल्यद्वारेण ज्ञातव्यम्। अत
 
-
-
 एव **विष्णुः**(विष्णुधर्मसूत्र ५. १३७–१३८ )–दिवा पशूनां वृकाद्युपघाते पाले त्वनायति पालकदोषो विनष्टपशुमूल्यं स्वामिने दद्यात्–इति।**अनायति** अनागच्छति। दण्डे द्रव्यप्रमाणमाह **याज्ञवल्क्यः**(२. १६५)
 
 **पालदोषविनाशे तु पाले दण्डो विधीयते।**
@@ -9313,8 +8636,6 @@ Bibliography (of works referred to).
 **पालग्राहे ग्रामघाते तथा राष्ट्रस्य विभ्रमे।**
 
 **यत्प्रनष्टं हृतं वा स्यान्न पालस्तत्र किल्बिषी॥**
-
-
 
  गृहीतवेतनस्य पशुपालस्य दुर्गमे वने पशूंस्त्यक्त्वोपेक्षया गृहेऽवस्थाने तु दण्ड उक्तो **ब्रह्मपुराणे**
 
@@ -9350,8 +8671,6 @@ Bibliography (of works referred to).
 
 **ग्रामेच्छया गोप्रचारो भूमिराजवशेन वा।**
 
-
-
  **ग्रामेच्छया** ग्रामीणजनेच्छया **भूमि**वशेन भूम्यल्पत्वमहत्त्वापेक्षया। **राजवशेन** राजेच्छया वा **गोप्रचारो** गवादीनां गमनागमनसौकर्यार्थंपरिकल्पनीय इत्यर्थः। गवां स्थानासनसौकयार्थं ग्राममभितोऽपरं स्थानमकृष्टं क्षेत्रग्रामान्तरालरूपं कल्पनीयमित्याह **स** एव (या. २. १६७)
 
 **धनुःशतं परीणाहो ग्रामक्षेत्रान्तरं भवेत्।**
@@ -9382,8 +8701,6 @@ Bibliography (of works referred to).
 
 ** वृति**रावरणम्। **पथि क्षेत्रे** मार्गसंनिहिते क्षेत्रे। एतद्ग्रामादिसमी-
 
-
-
 पवर्तिक्षेत्रस्याप्युपलक्षणम्। आवरणे कथंचित्स्थितं छिद्रं पुनः कण्टकदिना पूरणीयम्। तथा च **मनुः** (८. २३९ )
 
 **वृतिं च तत्र कुर्वीत यामुष्ट्रो नावलोकयेत्।**
@@ -9409,8 +8726,6 @@ Bibliography (of works referred to).
 **स्वामी तु विवदेद्यत्र दण्डं तत्र प्रकल्पयेत्॥**
 
  यत्रान्याय्ये ताडने स्वामी विवदेत तत्र राजा ताडयितारं दण्डयेदित्यर्थः। सपालेन विपालेन च पशुना सस्याद्युपघाते कृते पशुस्वामिना क्षेत्रस्वामिने पशुभक्षितसस्यादिमूल्यं दातव्यम्। तथा चाग्रेवक्ष्यते। आवरणातिक्रमेण पशुना सस्यनाशे कृते पशुपालस्य यो दण्ड उक्तः स तेन पशावनिबार्यमाणे बेदितव्यः। तथा च **नारदः** (सीमा. २४)
-
-
 
 **उत्क्रम्य तु वृतिं यः स्यात्सस्यघातो गवादिभिः।**
 
@@ -9439,8 +8754,6 @@ Bibliography (of works referred to).
 **क्षेत्रेष्वन्येषु तु पशुः सपादं पणमर्हति।**
 
 ** अन्येषु** पथि क्षेत्रे परिवृते इति पूर्वोक्तावृतमार्गादिप्रत्यासन्नक्षेत्रव्यतिरिक्तेषु। पालकस्वामिनोर्दण्ड्यत्वे वक्तव्ये पशोर्दण्ड्यत्वाभिधानं पशुबहुत्वे प्रतिपशूक्तदण्डप्राप्त्यर्थम्। **पशु**शब्देनात्र पालकःस्वामी वा
-
-
 
 गृह्यते। तत्र सपाले पशौ पालको दण्ड्यः, अपाले तु स्वामीति व्यवस्था। अत एव **गौतमः** (गौतमधर्मसूत्र १२.१६–१७ )–पशुपीडने स्वामिदोषः पालसंयुक्ते तु तस्मिन्–इति। **नारदो**ऽपि (सीमा० ३५)
 
@@ -9478,8 +8791,6 @@ Bibliography (of works referred to).
 
 **दण्डनीया तदर्धं तु गौस्तदर्धमजाविके॥**
 
-
-
 **भक्षयित्वोपविष्टानां यथोक्ताद् द्विगुणो दमः।**
 
 **सममेषां विवीतेऽपि खरोष्ट्रं महिषीसमम्॥**
@@ -9501,8 +8812,6 @@ Bibliography (of works referred to).
  इति **बृहस्पति[^191]**वचनविरोधान्ना[^191]रदोक्तो विंशो भागो नाश्रयणीयः किं तु मनूक्तः षोडशो भाग एवाश्रयणीय इति तदुपास्तम्। यस्तु–सपादं पणमर्हति–इति मनूक्तो (८. २४१) दण्डः स बुद्धिपूर्वकविषयः, याज्ञवल्क्योक्तो दण्डस्त्वबुद्धिपूर्वकविषय इति न विरोधः। यत्तु पालस्य दण्ड्यत्वप्रतिपादकं **विष्णु**वचनं (विष्णुधर्मसूत्र ५. १४०–१४१)–महिषी चेत् सस्यावघातं कुर्यात्पालस्त्वष्टौ माषान्दण्ड्योऽपालायां स्वामी
 
 [^191]: "' इति वचनविरोधात्' इति अ."
-
-
 
 इति तदपि समूलसस्योपघातविषयमन्यतरदण्डस्याल्पापराध[^193] एवोचितत्वात्। यत्तु **स्मृत्यन्तरं**
 
@@ -9538,8 +8847,6 @@ Bibliography (of works referred to).
 
  **महोक्षो**दृतो वृषभः। **उत्सृष्टपशवः** वृषोत्सर्गादिविधानेन देवतोत्सर्गेण त्यक्ताः। **सूतिका** प्रसूता अनिर्दशाहा। **आगन्तुकः**
 
-
-
 स्वयूथात्परिभ्रष्टः सन्देशान्तरात्समागतः। आदिशब्दाद् हस्त्यादीनां ग्रहणम्। येषां पालको नास्ति तेऽपि दैवराजोपहताः सस्यादिनाशकारिणो न दण्ड्या इत्यर्थः। **मनुः** (८.२४२)
 
 **अनिर्दशाहां गां सूतां वृषं देवपशूंस्तथा।**
@@ -9565,8 +8872,6 @@ Bibliography (of works referred to).
 **अदण्ड्याश्चोत्सवे गावः श्राद्धकाले तथैव च।**
 
  श्राद्धकालादौ गोभिरुपभुक्तमतिशयेन श्रेयस्करं भवतीत्यभिप्रेत्याह **व्यासः**
-
-
 
 **आक्रम्य च द्विजैर्भुक्तं परिक्षीणैश्च बान्धवैः।**
 
@@ -9606,8 +8911,6 @@ Bibliography (of works referred to).
 
  ममेतोऽधिका भूरस्तीत्युक्ते नेति विवाद **आधिक्य**विवादः। एतावती भूस्तव नेत्युक्ते ममैतावतीति यो विवादः स **न्यून**ताविवादः। अत्र ममां-
 
-
-
 शोऽस्तीत्युक्ते नेति यो विवादः सोऽ**स्तित्व**विवादः। अत्र तवांशो नास्तीत्युक्ते विद्यत इत्येवंविधो विवादो **नास्तित्व**विवादः। मामिका भूस्त्वया प्रागभुक्तेवेदानीं भुज्यत इत्युक्ते प्रागपि मयेयं भूर्भुक्तेत्येवंविधो विवादोऽ**भोगभुक्ति**विवादः। इयं मर्यादा मामिकाया भुव इत्युक्ते नेति विवादः**सीमा**विवादः। इति षड्विधो विवाद इत्यर्थः। सीमा चतुर्विधा देशसीमा ग्रामसीमा क्षेत्रसीमा गृहसीमा चेति। तस्याश्चतुर्विधाया अपियथासम्भवं[^197] पञ्चविधत्वमाह **नारदः**
 
 [^197]: "'अपि यथासम्भवमि'त्यारभ्य ... 'नैधानी निखात ० ' इत्यतः प्राग्यो भागः स नास्ति ब-आदर्शे."
@@ -9637,8 +8940,6 @@ Bibliography (of works referred to).
 **इष्टकाङ्गारसिकता शर्करास्थिकपालिकाः।**
 
 **निहिता यत्र दृश्यन्ते नैधानी सा प्रकीर्तिता॥**
-
-
 
 **साक्ष्यभावे द्वयोर्यत्र प्रभुणा परिकल्पिता।**
 
@@ -9680,8 +8981,6 @@ Bibliography (of works referred to).
 
  इति **मनु**स्मरणात् (मनु ८. २४६–२४७)। **आदि**शब्देन मार्गादीनां ग्रहणम्। **अस्थीनि** पश्वाद्यस्थीनि। गुप्तचिह्नानां स्थापनप्रकारमाह**स** एव
 
-
-
 **करीषास्थितुषाङ्गारशर्कराश्मकपालिकाः।**
 
 **सिकतेष्टकगोबालकार्पासास्थीनि भस्म च॥**
@@ -9715,8 +9014,6 @@ Bibliography (of works referred to).
 **साक्षिप्रत्यय एव स्यात्सीमावादविनिर्णयः॥**
 
 ** साक्षिप्रत्ययः** साक्षिहेतुकः। **अपिशब्दः** लिङ्गाभावपक्षपरिग्रहार्थः। ते **साक्षिणः** सीमालिङ्गविषयाः सीमाविषया वा। सीमासाक्षिषु विशेषमाह **बृहस्पतिः**
-
-
 
 **आगमं च प्रमाणं च भोगं कालं च नाम च।**
 
@@ -9756,8 +9053,6 @@ Bibliography (of works referred to).
 
 **संमिश्र्यकारयेत्सीमामेवं धर्मविदो विदुः।**
 
-
-
 **
 अन्यान्**सामन्त-तत्सामन्त-तत्सामन्तव्यतिरिक्तान्[^199] सीमालिङ्गाभिज्ञान्नागरादीनित्यर्थः। **मौलादिभिः** मौलवृद्धोद्धृतैः। **संमिश्र्य**मेलयित्वा। नागरादयश्च दर्शिता **नारदेन** (सीमा० २)
 
@@ -9796,8 +9091,6 @@ Bibliography (of works referred to).
 **व्याधाञ्शाकुनिकान्गोपान्कैवर्तान्मूलखानकान्।**
 
 **व्यालग्राहानुञ्छवृत्तीनन्यांश्च वनगोचरान्॥**
-
-
 
  एतच्च वनगोचराणां ग्रहणं सीमासंनिहितप्रदेशकर्षकाणामभावे ज्ञेयम्। अत एव **नारदः** (सीमा० ३)
 
@@ -9839,8 +9132,6 @@ Bibliography (of works referred to).
 
 ** केदारः** क्षुद्रसेतुयुक्तः क्षेत्रविशेषःगोबलीवर्दन्यायात्पृथङ्निर्देशः।**प्रसादो**ऽत्र प्रासादः। राज्ञा साक्षिसामन्तादयो ग्रामीणानां वादिप्रति-
 
-
-
 वादिनोश्च समक्षं प्रष्टव्यास्तैरुक्तं च पत्रे लेखनीयमित्याह **मनुः** (८.२५४-५५)
 
 **ग्रामेयककुलानां तु समक्षं सीमसाक्षिणः।**
@@ -9879,8 +9170,6 @@ Bibliography (of works referred to).
 
 **ज्ञातृचिह्नैर्विना साधुरेकोप्युभयसंमतः।**
 
-
-
 **रक्तमाल्याम्बरधरो मृदमादाय मूर्धनि।**
 
 **सत्यव्रतः सोपवासः सीमान्तं[^202] दर्शयेन्नरः॥**
@@ -9915,15 +9204,12 @@ Bibliography (of works referred to).
 
 **शेषाश्चेदनृतं ब्रूयुर्नियुक्ता भूमिकर्मणि।**
 
-
-
 **प्रत्येकं तु जघन्यास्ते विनेयाः पूर्वसाहसम्॥**
 
 **मौलवृद्धादयश्चान्ये दण्डनीयाः पृथक् पृथक्।**
 
 **विनेयाः प्रथमेनैव साहसेनानृते स्थिताः॥**
 
-                                   
             (नारद, सीमा ८५)
 
  आदिशब्देनोद्धृतगणादीनां ग्रहणम्। **दण्डनीयाः** अनृतवादित्वेन दण्डयितुमर्हाः **मौलवृद्धादयः पृथक् पृथक् प्रथमेन साहसेनविनेया** दण्ड्या इत्यर्थः। अत्र साक्ष्यपेक्षया सामन्तादीनां दण्डाधिक्यं वाचनिकमिति न कोऽपि दोषः शङ्कनीयः। अथवा मनूक्तसाक्षिशब्दस्य सत्यार्थाभिज्ञत्वपरत्वमाश्रित्य मनुवचनं गोपालादिवनेचरविषयत्वेन योजनीयम्। कूटसाक्षिणां सर्वस्वापहारः कार्य इति **विष्णु**वचनं[^203] (विष्णुधर्मसूत्र ५. १७५) सामान्यविषयतया श्रूयमाणमपि दण्डगौरवादत्र भूमिवादविषये योजनीयः[^204](योजनीयम् ?)। साक्ष्यादीनां निर्णयार्थमानीतानामनुक्तौ भेदेनोक्तौ च दण्डमाह **कात्यायनः**(७५०, ७४१)
@@ -9949,8 +9235,6 @@ Bibliography (of works referred to).
 **यदा तु न स्युर्ज्ञातारः सीमाया न च लक्षणम्।**
 
 **तदा राजा द्वयोः सीमामुन्नयेदिष्टतः स्वयम्॥**
-
-
 
 ** याज्ञवल्क्यो**ऽपि (२.१५३)
 
@@ -9979,8 +9263,6 @@ Bibliography (of works referred to).
 **नद्योत्सृष्टा राजदत्ता यस्य तस्यैव सा मही।**
 
 **अन्यथा न भवेल्लाभो नराणां राजदैविकः॥**
-
-
 
 **क्षयोदयौ जीवनं च दैवराजवशान्नृणाम्।**
 
@@ -10016,8 +9298,6 @@ Bibliography (of works referred to).
 
 **निवेशकालादारभ्य गृहवार्यापणादिकम्।**
 
-
-
 **येन यावद्यथा भुक्तं तस्य तन्न विचालयेत्॥**
 
 ** येन** स्वामिना **यावत्** प्रचारभूम्यादियुक्तं **यथा** येन पूर्वादिदिगभिमुखद्वारादियुक्तत्वादिरूपेणोपभुक्तं **तत् तस्य** स्वामिनः सकाशान्न विचालयेदित्यर्थः। अत्र निवेशकालादारभ्येत्यभिधानान्मध्ये कृताया व्यवस्थाया निवर्त्यत्वं दर्शितम्। निवेशकालादारभ्य स्थितानि गवाक्षादिकानि प्रातिवेशिकाद्यनिष्टकारीण्यपि न निवर्तनीयानीत्युक्तं **तेनै**व
@@ -10045,8 +9325,6 @@ Bibliography (of works referred to).
 **वर्चःस्थानं वह्निचयं गर्तोच्छिष्टाम्बुसेचनम्।**
 
 **अत्यारात्परकुड्यस्य न कर्तव्यं कथंचन॥**
-
-
 
 ** वर्चःस्थानं** मलोत्सर्गस्थानम्। **अत्यारा**दतिसमीपे। अरत्निद्वयपरिमिते प्रदेशे इत्यर्थः। अतएव **कात्यायनः**(७५४)
 
@@ -10082,8 +9360,6 @@ Bibliography (of works referred to).
 
 ** सङ्करः** शकटादिसंकीर्णता।**वृक्ष**ग्रहणं लतादीनामप्युपलक्षणम्।**माषो**ऽत्र ताम्रिको ग्राह्योऽपराधानुसारेण दण्डस्य परिकल्पयितुमुचितत्वात्। राजमार्गे पुरीषोत्सर्गेऽधिकं दण्डमाह **मनुः** (९.२८२)
 
-
-
 **समुत्सृजेद्राजमार्गे यस्त्वमेध्यमनापदि।**
 
 **स द्वौ कार्षापणौ दद्यादमेध्यं चाशु शोधयेत्॥**
@@ -10114,8 +9390,6 @@ Bibliography (of works referred to).
 
 ** मर्यादायाः** भेदने सीमालिङ्गविनाशने पूर्वसाहसो दण्डः। **सीमातिक्रमे** सीमामतिक्रम्य कर्षणे उत्तमसाहसः क्षेत्रस्यापहरणे मध्यमसाहस इत्यर्थः। यत्तु–सीमाभेत्तारमुत्तमसाहसं दण्डयित्वा पुनः सीमां कारयेत्–इति **विष्णु**वचनं (विष्णुधर्मसूत्र ५, १७२) तत्र **सीमाभेत्ता** सीमामतिलङ्घ्यकर्षकः पुनः सीमाकरणं पुनस्तत्र कर्षणस्याकरणमित्येवं व्याख्येयम्। ततश्च न पूर्ववाक्येन विरोधः। एतच्चोत्तमसाहसाभिधानमर्धसीमातिक्रमे वेदितव्यम्। कृत्स्नसीमातिक्रमे तु दण्डविशेष उक्तः **शङ्खलिखिताभ्यां–**सीमाव्यतिक्रमे त्वष्टसहस्रम्–इति। अल्पसीमातिक्रमेऽल्पं दण्डमाह **वृद्धमनुः**
 
-
-
 **स्थापिताश्चैव मर्यादा उभयोर्ग्रामयोः सदा।**
 
 **अतिक्रामन्तिये पापास्ते दण्डया द्विशतं दमम्॥**
@@ -10139,8 +9413,6 @@ Bibliography (of works referred to).
 **स्वामिनं तं विजानीयाद्यस्य क्षेत्रे तु संश्रिताः॥**
 
 ** संश्रिताः** आश्रिताः प्ररूढा इति यावत्॥ परक्षेत्रे सेतुकूपादिप्रवर्तनं तत्स्वाम्याद्यनुज्ञालाभपूर्वकं कर्तव्यमित्याह **याज्ञवल्क्यः**(२.१५७)
-
-
 
 **स्वामिने योऽनिवेद्यैव क्षेत्रे सेतुं प्रवर्तयेत्।**
 
@@ -10173,8 +9445,6 @@ Bibliography (of works referred to).
 **अतोऽन्यथा क्लेशभाक् स्याद् मृगव्याधनिदर्शनात्॥**
 
  मृगव्याधदृष्टान्तः स्पष्टीकृत**स्तेनै**व (नारद, क्षेत्रजवि० २२ )
-
-
 
 **इषवस्तस्य नश्यन्ति यो विद्धमनुविध्यति।**
 
@@ -10214,8 +9484,6 @@ Bibliography (of works referred to).
 
 [^212]: "अत आरभ्य सीमाविवादप्रकरणान्तो भागो गलितो व-आदर्शे."
 
-
-
 णमभ्युपगम्य अकृष्टस्य तत्स्वामिने देयं यत्फलं तदित्यर्थः। **प्रदाप्य**दापयित्वा। यस्तु कर्षणादिकं प्रतिज्ञाय कर्षणमप्यकुर्वन् समग्रंफलोत्पत्तिकालमतिवाहयति स क्षेत्रफलसमं दण्डमपि राज्ञे दद्यात्। तथा च**व्यासवृहस्पती**
 
 **क्षेत्रं गृहीत्वा यः कश्चिन्न कुर्यान्न च कारयेत्।**
@@ -10241,8 +9509,6 @@ Bibliography (of works referred to).
 **विकृष्यमाणे क्षेत्रे तु क्षेत्रिकः पुनराव्रजेत्।**
 
 **खिलोपचारं तत्सर्वं दत्त्वा क्षेत्रमवाप्नुयात्॥**
-
-
 
  क्षेत्रस्यार्धखिलाद्यवस्था कदा भवतीत्याह **स** एव (नारद,क्षेत्रजवि० २६)
 
@@ -10282,8 +9548,6 @@ Bibliography (of works referred to).
 
  विङ्मुर्खंजाल्ममित्यादि **साक्षेपं** भाषणं निष्ठुरं, **न्यङ्गसंयु**तमवद्यं
 
-
-
 भगिन्यादिगमनसंयुत**मश्लीलम्**। **पतनोयैः** सुरापानादिभिः **उपाक्रोशस्तीव्रं** वाक्पारुष्यमित्यर्थः। बृहस्पतिस्त्वस्य प्रथमादीस्त्रीन्भेदानाह
 
 **देशग्रामकुलादीनां क्षेपः पापेन योजनम्।**
@@ -10321,8 +9585,6 @@ Bibliography (of works referred to).
 **समानयोः समो दण्डो न्यूनस्य द्विगुणस्तु सः।**
 
 **उत्तमस्याधिकः प्रोक्तो वाक्पारुष्ये परस्परम्॥**
-
-
 
  हीनस्योत्तमाक्षेपे द्विगुणः। उत्तमस्य हीनाक्षेपे अर्धपरिमितो दण्ड इत्यर्थः। **याज्ञवल्क्यः** (२.२०६)
 
@@ -10370,8 +9632,6 @@ Bibliography (of works referred to).
 
 **आक्रोशकस्तु विप्राणां जिह्वाच्छेदेन दण्ड्यते॥**
 
-
-
  शूद्र इत्यनुषङ्गः। मात्रादीनां पुत्रादिभिराक्षेपे दण्डमाह **मनुः** (८.२७५)
 
 **मातरं पितरं जायां भ्रातरं श्वशुरं गुरुम्।**
@@ -10409,8 +9669,6 @@ Bibliography (of works referred to).
 **उपपातकयुक्ते तु दाप्यःप्रथमसाहसम्॥**
 
 ** पतनीयैः** पातित्यहेतुभिर्ब्रह्महत्यादिभिः। उपपातकानि गोवधा-
-
-
 
 दीनि। सत्यदोषाभिधानेऽपि वाक्पारुष्यदण्डो भवत्येव। अत एव**नारदः**(पारुष्य २१)
 
@@ -10450,8 +9708,6 @@ Bibliography (of works referred to).
 
 ** वक्ष्ये** इत्यत्र वक्तीति शेषः। इति श्रीकोदण्डपरशुरामेति……व्यवहारविवेकोद्द्योते वाक्पारुष्याख्यव्यवहारपदनिरूपणम्॥२७॥
 
-
-
 **अथ दण्डपारुष्याख्यव्यवहारपदनिरूपणम्।**
 
  तत्र तत्स्वरूपं दर्शयति **नारदः** (पारुष्य ४)
@@ -10489,8 +9745,6 @@ Bibliography (of works referred to).
 **हत्वापराधिनं चैव नापराधी भवेन्नरः॥इति**
 
 ** बृहस्पति**वचनं तत्पूर्वप्रवृत्तसमदण्डत्वं पश्चात्प्रवृत्तस्य नेत्येतदर्थं न तु दण्डाभावार्थम्। पारुष्यद्वयेऽपि यः क्षमां करोति स पूज्य इत्याह **नारदः**
-
-
 
 **पारुष्ये सति संरम्भादुत्पन्ने क्षुब्धयोर्द्वयोः।**
 
@@ -10534,8 +9788,6 @@ Bibliography (of works referred to).
 
  ताडनार्थं हस्तपादाद्युद्योगे दण्डमाह **याज्ञवल्क्यः** (२. २१६ )
 
-
-
 **उद्गुर्णे हस्तपादे तु दशविंशतिकौदमौ।**
 
 **परस्परं तु सर्वेषां शस्त्रे मध्यमसाहसः॥**
@@ -10578,8 +9830,6 @@ Bibliography (of works referred to).
 
  अत्र **श्रेयांस**मिति सामान्येनोपादानात् क्षत्रियवैश्यापकारिणोऽपि शूद्रस्यायं दण्डः समानन्यायत्वात्। क्षत्रियापकारिणोऽपि वैश्यस्य याज्ञ-
 
-
-
 वल्क्योक्तो दण्डः॥ ये वाक्पारुष्ये प्रातिलोम्यानुलोम्यविषये दण्डा उक्तास्तानत्रातिदिशति **कात्यायनः**(७८६ )
 
 **वाक्पारुष्येयथैवोक्ताः प्रातिलोम्यानुलोम्यतः।**
@@ -10608,8 +9858,6 @@ Bibliography (of works referred to).
 
 **दण्डः क्षुद्रपशूनां तु द्विपणप्रभृतिः क्रमात्॥**
 
-
-
 **लिङ्गस्य छेदने मृत्यौ मध्यमो मूल्यमेव च।**
 
 **महापशूनामेतेषु स्थानेषु द्विगुणो दमः॥**
@@ -10629,8 +9877,6 @@ Bibliography (of works referred to).
 [^219]: "'तं स्वामिना तदुत्पत्तिम्' इति अ; 'तत्स्वामिना तदुत्पत्तिम्' इति ब-क."
 
  इति श्रीकोदण्डपरशुरामेति…व्यवहारविवेकोद्द्योते दण्डपारुष्याख्यव्यवहारपदनिरूपणम्॥२८॥
-
-
 
 **अथ स्तेयाख्यव्यवहारपदनिरूपणम्॥**
 
@@ -10669,8 +9915,6 @@ Bibliography (of works referred to).
 **द्विविधांस्तस्करान्विद्यात्परद्रव्यापहारिणः।**
 
 **प्रकाशांश्चाप्रकाशांश्च चारचक्षुर्महीपतिः॥**
-
-
 
 ** बृहस्पति**रपि
 
@@ -10715,8 +9959,6 @@ Bibliography (of works referred to).
 **प्रच्छाद्य दोषं व्यामिश्र्यपुनः संस्कृत्य विक्रयी।**
 
 **पण्यं वद्द्विगुणं दाप्यो वणिग्दण्डं च तत्समम्॥**
-
-
 
 **अज्ञातौषधिमन्त्रस्तु यश्च व्याधेरतत्त्ववित्।**
 
@@ -10766,8 +10008,6 @@ Bibliography (of works referred to).
 
 [^222]: "'चोरातिसम्भवात्' इति अ-क."
 
-
-
 **उत्क्षेपकः सन्धिभेत्ता पान्थमुड्प्रन्थिभेदकः।**
 
 **स्त्रीपुंगोऽश्वपशुस्तेयी चोरो नवविधः स्मृतः॥**
@@ -10805,8 +10045,6 @@ Bibliography (of works referred to).
 ** अङ्गुली** तर्जन्यङ्गुष्ठौ। **नारदः**[^225] (परिशिष्ट ३२ )
 
 [^225]: " इत आरभ्य 'निमज्जयेत्' इत्यन्तो भागो गलितः क-आदर्शे."
-
-
 
 **प्रथमे ग्रन्थिभेदानामङ्गुल्यङ्गुष्ठयोर्वधः।**
 
@@ -10858,8 +10096,6 @@ Bibliography (of works referred to).
 
 **सुवर्णरजतादीनामुत्तमानां च वाससाम्।**
 
-
-
 **पञ्चाशतस्त्वभ्यधिके हस्तच्छेदनमिष्यते।**
 
 **शेषे त्वेकादशगुणं मूल्याद्दण्डं प्रकल्पयेत्॥**
@@ -10896,8 +10132,6 @@ Bibliography (of works referred to).
 
 [^227]: " ' सुचिह्नैरेव' इति व."
 
-
-
 ** बृहस्पतिः**
 
 **संसर्गचिह्नलोप्त्रैर्वाविज्ञातो राजपूरुषैः।इति।**
@@ -10933,8 +10167,6 @@ Bibliography (of works referred to).
 **भक्तावकाशदातारः स्तेनानां ये प्रसर्पताम्।**
 
 **शक्ताश्चये उपेक्षन्ते तेऽपि तद्दोषभागिनः॥**
-
-
 
 **आह्वायकादेशकरास्तथा चान्तरदापकाः[^228]।**
 
@@ -10980,8 +10212,6 @@ Bibliography (of works referred to).
 
 ** भङ्गः** फलादिस्वरूपनाशनम्। आक्षेप आक्रोशो वाचा तिरस्करण-
 
-
-
 मिति यावत्। **अवमर्दः** स्वरूपावशेषेण पीडनम्। **एतेनैव प्रकारेण**भङ्गाक्षेपादिनोक्तप्रकारेण। मनुष्यमारणाख्यसाहसकारिज्ञानोपायमाह**बृहस्पतिः**
 
 **हतः संदृश्यते यत्र घातकस्तु न दृश्यते।**
@@ -11015,8 +10245,6 @@ Bibliography (of works referred to).
 **ज्ञात्वा सम्यग्धनं हृत्वा हन्तव्या विविधैर्वधैः॥इति**
 
  धनापहरणमप्युक्तं तद्ब्राह्मणवधकर्तृक्षत्रियादिविषयम्। अत एव**बौधायनः** (बौ. धर्मसूत्र १. १०. २०–२१)–क्षत्रियादीनां ब्राह्मणस्य वधे वधः सर्वस्वहरणं च। तेषामेव तुल्यावकृष्टवधे यथाबलमनुरूपं दण्डं च प्रकल्पयेत्–इति। **तेषां** क्षत्रियादीनां **तुल्यावकृष्टवधे** सजातीयहीनजातीयवधे **दण्डं** शारीरं दण्डम्। बहवो यद्येकं हन्युस्तदा ते दोषानुरूपं दण्ड्याः। तथा च **बृहस्पतिः**
-
-
 
 **एकस्य बहवो यत्र प्रहरन्ति रुषान्विताः।**
 
@@ -11066,8 +10294,6 @@ Bibliography (of works referred to).
 
  क्वचिन्मनुष्यवधकर्तुर्दोषाभावकथनमुखेन दण्डाभावमाह **मनुः** (८.३४८–४९ )
 
-
-
 **शस्त्रं द्विजातिभिर्ग्राह्यं धर्मो यत्रोपरुध्यते।**
 
 **द्विजातीनां च वर्णानां विप्लवे कालकारिते॥**
@@ -11093,8 +10319,6 @@ Bibliography (of works referred to).
 **नाततायिवधे दोषो हन्तुर्भवति कश्चन।**
 
 **प्रकाशं वाप्रकाशं वा मन्युस्तं मन्युमृच्छति॥इति।**
-
-
 
 ** प्रकाशं** जनसमक्षमाभाष्य।**अप्रकाशं** विषदानादिनेति व्याख्यातं**मेधातिथि**ना। एतच्च गोब्राह्मणव्यतिरिक्तविषयम्[^234]। तथा च **सुमन्तुः–**नाततायिवधे दोषोऽन्यत्र गोब्राह्मणवधात्। **कात्यायनो**ऽपि
 
@@ -11131,8 +10355,6 @@ Bibliography (of works referred to).
 **उद्यम्य शस्त्रमायान्तं भ्रूणमप्याततायिनम्।**
 
 **निहत्य भ्रूणहा न स्यादहत्वा भ्रूणहा भवेत्॥**
-
-
 
  इति **गालव**वचनात्
 
@@ -11176,8 +10398,6 @@ Bibliography (of works referred to).
 
 **हस्त्यश्वानां तथान्येषां वधे हन्ता न दोषभाक्॥**
 
-
-
  अत्र दोषाभावकथनात्पशुस्वामिने न धनदानं न च राज्ञे दण्डदानमित्यवगन्तव्यम्। साहसस्तेयस्वरूपमाह[^237] **याज्ञवल्क्यः**(२. २३०)
 
 [^237]: "'साहसस्य स्वरूपमाह' अ- क."
@@ -11215,8 +10435,6 @@ Bibliography (of works referred to).
 **हन्ता वा घातनीयःस्यात् प्रसङ्गविनिवृत्तये॥**
 
 ** यौषेयं** स्त्रीसम्बन्धि \। **हन्ता वा** इति वाशब्द एवार्थे। तेन दण्डग्रहणानन्तरं स्तेयप्रकरणोक्तस्तत्तच्छरीरदण्डः कर्तव्य एवेत्यर्थः। अत्र बिनाशयन् हरन्हिंसयंश्चोरयन् हन्तेति पदैः स्तेन॑स्य क्रोधलोभकृतह-
-
-
 
 ननसहितस्तेयकारित्वाभिधानेनास्य दण्डस्य साहसस्तेयविषयता स्पष्टीक्रियते। साहसस्तेयस्य क्रोधलोभकृतत्वमु[^240]क्तं **तेनै**व
 
@@ -11264,8 +10482,6 @@ Bibliography (of works referred to).
 
 **प्रार्थनादभिशस्तस्य न दिव्यं दातुमर्हति॥**
 
-
-
  अत्र दण्डमाह **मनुः** (८. ३७८)
 
 **सहस्रं ब्राह्मणो दण्ड्यो विप्रां गुप्तां बलाद् व्रजन्।**
@@ -11299,8 +10515,6 @@ Bibliography (of works referred to).
 **हीनवर्णोपभुक्ता या त्याज्या वध्याथवा भवेत्॥**
 
 ** गुप्तां** पुनःसम्भोगरहिताम्। **वासयेत्** विशुद्धि पर्यन्तमिति शेषः।**समे** सवर्णे। वाग्दण्डपारुष्यद्यात्मके फलमूलोदकादीनामिति वाक्योक्ते प्रथममध्यमोत्तमादिभेदेन त्रिविधे साहसे दण्डमाह **नारदः** (साहस, ७–९)
-
-
 
 **तस्य दण्डःक्रियापेक्षः प्रथमस्य शतावरः।**
 
@@ -11340,8 +10554,6 @@ Bibliography (of works referred to).
 
 **संयोगः क्रियते यत्तु तदुपाधिकृतं विदुः॥**
 
-
-
 **अन्योन्यचक्षूरागेण दूतीसंप्रेषणेन वा।**
 
 **कृतं रूपार्थलोभेन[^243] ज्ञेयं तदनुरागजम्॥**
@@ -11380,8 +10592,6 @@ Bibliography (of works referred to).
 
 **एतत्संग्रहणं प्रोक्तमुत्तमं शास्त्रवेदिभिः॥**
 
-
-
  एतेषु त्रिषु क्रमेण दण्डानाह **स** एव
 
 **त्रयाणामपि चैर्तेषां प्रथमो मध्य उत्तमः।**
@@ -11416,8 +10626,6 @@ Bibliography (of works referred to).
 
 **सज्जयन्ति हि ते नारीर्निगूढाश्चारयन्ति च॥**
 
-
-
 ** चारणा** नटाः। **आत्मोपजीविनः** वेशोपजीविनः। एतेषां**दारेषु एष विधिः** अभिभाषणादिनिमित्तकदण्डविधिः। यत एते**नारीः** स्वभार्याः **सज्जयन्ति** पुरुषान्तरे संयोजयन्ति प्रच्छन्नीकृत्य चारयन्ति चेत्यर्थः। सम्भोगे दण्डमाह **याज्ञवल्क्यः**(२. २८६)
 
 **सजातावुत्तमो दण्ड आनुलोम्ये तु मध्यमः।**
@@ -11441,8 +10649,6 @@ Bibliography (of works referred to).
 **शतानि पञ्च दण्ड्यः स्यात्सहस्रं त्वन्त्यजस्त्रियम्॥इति**
 
  स या वैश्यादयोऽगुप्ता मानसव्यभिचारादरक्षिता गृहेऽवरुद्धाः प्रसह्य रक्षिता इति यावत् तासां गमने वेदितव्यः। मानसव्यभिचारादर-
-
-
 
 क्षितानां गृहेऽवरोधेन बलाद्रक्षणं कार्यमित्युक्तं स्त्रीपुंधर्मप्रकरणे **तेनै**व (मनु ९. १२)
 
@@ -11478,8 +10684,6 @@ Bibliography (of works referred to).
 
 **विप्लुतौ शूद्रवद्दण्ड्यौ दग्धव्यौ वा कटाग्निना॥**
 
-
-
 ** शूद्रवद् दण्ड्यौ**वधसर्वस्वापहारभाजावित्यर्थः। क्षत्रियवैश्ययोः परस्परगुप्तरुयभिगमने क्रमेण पणसहस्रपणझतपञ्चके तयोर्दण्डः। तथा च **स** एव (मनु ८.३८२)
 
 **वैश्यश्चेत्क्षत्रियां गुप्तां वैश्यां वा क्षत्रियो व्रजेत्।**
@@ -11508,8 +10712,6 @@ Bibliography (of works referred to).
 
 **मातुः सपत्नीं भगिनीमाचार्यतनयां तथा॥**
 
-
-
 **आचार्यपत्नीं स्वसुती गच्छंस्तु गुरुतल्पगः।**
 
 **छित्त्वा लिङ्गं वनस्तस्य सकामायाः स्त्रियस्तथा॥इति।**
@@ -11526,9 +10728,9 @@ Bibliography (of works referred to).
 
 [^248]: "'येनाङ्गेनापराधं' इति क."
 
-**वृषलं सेवते या तु ब्राह्मणी मदमोहिता।**
-
 [^249]: "'यमः' इति नास्ति ब-आदर्शे,"
+
+**वृषलं सेवते या तु ब्राह्मणी मदमोहिता।**
 
 **तां श्वभिः खादयेद्राजा संस्थाने वध्यघातिनाम्[^250]॥**
 
@@ -11549,8 +10751,6 @@ Bibliography (of works referred to).
 [^251]: "'स्त्रीसंग्रहणे दण्डमाह' इति अ; 'स्त्रीकृते…बृहस्पतिः' इति नास्ति क-आदर्शे."
 
 **कामयेत्तत्र सा दण्ड्या नरस्यार्धदमः स्मृतः॥**
-
-
 
  वचसा स्त्रियं प्रलोभ्य गच्छतः पुरुषस्ययो दण्डस्तं ग्राह्यातद्दण्डार्धं पुरुषो ग्राह्य इत्यर्थः।क्वचिद् दास्यादिगमनेऽपिदण्डमाह **याज्ञवल्क्यः**(२.२९० )
 
@@ -11583,8 +10783,6 @@ Bibliography (of works referred to).
 **पशुवेश्याभिगमने प्राजापत्यं विधीयते।**
 
  इत्यादिवाक्यैस्तद्गमने प्रायश्चित्तोपदेशात्। अन्त्यजस्त्रीगमने मनूक्तपणसहस्रदण्डानन्तरं प्रायश्चित्तानभिमुखास्त्रयो वर्णा भगाङ्कनं कृत्वा राष्ट्रान्नि-
-
-
 
 र्वास्याः शूद्रस्तत्कर्मकारी चाण्डाल एव भवतीत्याह **याज्ञवल्क्यः** (२.२९४)
 
@@ -11620,8 +10818,6 @@ Bibliography (of works referred to).
 
  इति श्रीकोदण्डपरशुरामेति…व्यवहारविवेकोद्द्योते त्रीसंग्रहणाख्यव्यवहारपदनिरूपणम्॥३१॥
 
-
-
 **अथ स्त्रीपुंयोगाख्यव्यवहारपदनिरूपणम्।**
 
  तत्र तत्स्वरूपं दर्शयति **नारदः** (स्त्रीपुंस० १)
@@ -11653,8 +10849,6 @@ Bibliography (of works referred to).
 [^256]: " 'कुलसंस्कारिण्यः' इति अ. "
 
 [^257]: "'यस्मिन्नावर्तितः' अ-क."
-
-
 
 मार्तवे तादृशं पुत्रं जनयन्तीति। **तन्तुः** पुत्रपौत्रादिः। परपुरुषवीक्षणादिभ्योऽपि रक्षणीया इत्याह **मनुः** (९. ५–६)
 
@@ -11702,8 +10896,6 @@ Bibliography (of works referred to).
 
 **इतरा तु धनं वित्तं मांसं वीर्यं बलं सुखम्॥**
 
-
-
 **साशङ्का बालभावे तु यौवनेऽभिमुखी भवेत्।**
 
 **तृणवन्मन्यते नारी वृद्धभावे स्वीकं पतिम्॥**
@@ -11733,8 +10925,6 @@ Bibliography (of works referred to).
 **यादृग्गुणेन भर्त्रा स्त्री संयुज्येत यथाविधि।**
 
 **तादृग्गुणा सा भवति समुद्रेणेव निम्नगा॥**
-
-
 
 **अक्षमाला वसिष्ठेन संयुक्ताधमयोनिजा \।**
 
@@ -11773,8 +10963,6 @@ Bibliography (of works referred to).
 **अवृत्तिकर्शिता हि स्त्री प्रदुष्येत्स्थितिमत्यपि॥**
 
 ** स्थितिमती** सन्मार्गस्थिता। अलङ्कारादिकमपि यथाशक्ति भार्यायै देयमित्याह **बृहस्पतिः**
-
-
 
 **भर्त्रा पत्नी समभ्यर्च्यावस्त्रालङ्कारभोजनैः।**
 
@@ -11818,8 +11006,6 @@ Bibliography (of works referred to).
 
  निर्गुणोऽपि पतिः सेव्य इत्याह **मनुः** (५. १५३–१५४)
 
-
-
 **अमृतावृतुकाले च मन्त्रसंस्कारकृत्पतिः।**
 
 **सुखस्य नित्यं दतिह परलोके च योषितः॥**
@@ -11856,8 +11042,6 @@ Bibliography (of works referred to).
 
 **यस्मिन्नेव कुले नित्यं कल्याणं तत्र वै ध्रुवम्॥**
 
-
-
 **अन्योन्यस्याव्यभीचारो भवेदामरणान्तिकः।**
 
 **एष धर्मःसमासेन ज्ञेयः स्त्रीपुंसर्योः परः॥**
@@ -11888,8 +11072,6 @@ Bibliography (of works referred to).
 
 [^263]: "'यथा पुत्रादीनां पुत्रादि०' इति अ."
 
-
-
 **ऊर्ध्वं पितुश्च मातुश्च समेत्य भ्रातरः समम्।**
 
 **भजेरन् पैतृकं रिक्थमनीशास्ते हि जीवतोः॥**
@@ -11909,8 +11091,6 @@ Bibliography (of works referred to).
 [^264]: "‘यत्पुनरभावेपि मातुर्यतः' इति अ, 'यदपुत्रभावेपि मातुर्यतः' क."
 
 [^265]: " 'यद्यपि पैतृकेषु धनेषु' इति ब."
-
-
 
 **पितर्युपरते पुत्रा विभजेरन्पितुर्धनम्।**
 
@@ -11936,8 +11116,6 @@ Bibliography (of works referred to).
 
 [^266]: " 'क्रयः' इति नास्ति-अ-आदर्शे."
 
-
-
 स्वत्वहेतुः सप्रतिबन्धदायस्तु प्रतिबन्धापगमे सतीति ज्ञातव्यम्।**ब्राह्मणस्य लब्धं** प्रतिग्रहादिप्राप्त**मधिक**मसाधारणम्। **क्षत्रियस्यविजितं** विजयदण्डादिलब्धमसाधारणम्। **वैश्यशूद्रयोर्निर्विष्टं**भृतिरूपेण लब्धमसाधारणम्[^267]। तत्र वैश्यस्य कृषिगोरक्षादिलब्धं निर्विष्टं शूद्रस्य द्विजशुश्रूषादिलव्धम्। अत्र वैश्यशूद्रग्रहणस्योपलक्षणत्वादन्येषामनुलोमजानां प्रतिलोमजानां[^268] च– सूतानामश्वसारथ्यमित्यादिनोक्तं (मनु १०.४७) यद्यदसाधारणं भृतिद्रव्यं तत्सर्वं निर्विष्टशब्देन परिगृह्यते। निःपूर्वस्य विशेर्भृत्यर्थत्वं तु–निर्वेशो भृतिभोगयोरित्य**मरसिंहेना**भिधानादवगम्यत इति गौतमवचनस्यार्थः। न च[^269]येन यद्यथेष्टं विनियुज्यते स तस्य स्वामी तच्च तस्य स्वं चौर्यादिलब्धं तु न तथेति वाच्यम्। सर्वस्य न्यायोपार्जितस्यापि धनस्य कुटुम्बपोषणादौ विनियोगः शास्त्रेण नियमित इति स्वेच्छानुसारेण विनियोगविषयत्वाभावादिति। एतत्संग्रहकारमतं **धारेश्वरभट्टेना**प्याश्रितम्। तस्माच्छास्त्रैकसमधिगम्यत्वात् कथं स्वस्वामिभावस्य लोकसिद्धत्वमिति चेत्, अत्राभिधीयते। शास्त्रार्थज्ञानरहितानां पामराणामपि हि क्रयादिप्राप्ते धने क्रेत्रादिस्वत्वव्यवहारो दृश्यते। न च स शास्त्रैकसमधिगम्यत्वे घटते। न च लौकिकत्वे चौर्यादिलब्धस्यापि स्वत्वापत्तिरिति वाच्यम्। प्रतिग्रहाद्युपायके एव लोके स्वत्वव्यवहारात्। न चैव स्वामी रिक्थेत्यादिशास्त्रानर्थक्यापत्तिः। तस्य व्याकरणशास्त्रवल्लोकसिद्धस्वत्वहेतुनिबन्धनार्थत्वात्। उक्तं चैत**न्नयविवेके प्राभाकर**मताम्बुजप्रभाकरेण **भवनाथेन**–लोकसिद्धं वार्जनं जन्मादि, अत एवानिदंप्रथमलोकधीविषयतया स्थिते निबन्धनार्थास्मृतिर्व्याकरणादिस्मृतिवदिति। **अर्जनं** स्वत्वहेतुः। **जन्मादि** पुत्रजन्म पितृपितामहधने स्वत्वहेतुः। **आदि**शब्देन क्रयादीनां ग्रहणम्। **अनिदंप्रथम**त्वमनादित्वम्।**व्याकरणादिस्मृतिवदि**ति। यथा व्याकरणशास्त्रे सिद्धा एव शब्दाः
 
 [^267]: "'वैश्यशूद्रयो…साधारणम्' इति वाक्यं नास्ति अ-आदर्शे"
@@ -11945,8 +11123,6 @@ Bibliography (of works referred to).
 [^268]: "'प्रतिलोमजानाम्' इति नास्ति अ-क- आदर्शयोः"
 
 [^269]: " 'न च' इति नास्ति अ-क-आदर्शयोः."
-
-
 
 साधुत्वज्ञानार्थमनुख्यायन्ते तथेत्यर्थः। व्याकरणशास्त्रस्य लोकसिद्धशब्दान्वाख्यापकत्वमुक्तं **महाभाष्ये** सदन्वाख्यानाच्छास्त्रस्येति। सदन्वाख्यानात् सिद्धशब्दान्वाख्यापकत्वादित्यर्थः। न च यथेष्टविनियोज्यत्वं स्वत्वमिति वयं ब्रूमः। किं तर्हि यथेष्टविनियोगयोग्यत्वम्। तच्च शास्त्रेण कुटुम्बभरणादिविनियोगनियमनेन विनियोगान्तरविषयतामलभमानस्याप्यर्जितत्वप्रयुक्तमस्त्येव। यथा कुतश्चिद्धेतोरङ्कुरोत्पादनमकुर्वतोऽपि कुशूलादिस्थितस्य बीजस्य बीजत्वप्रयुक्तमङ्कुरोत्पादनयोग्यत्वम्। उक्तं च**नयविवेके–**तच्च तस्य तदर्हं यद्येनार्जितम्–इति। **तदर्हं**यथेष्टविनियोगार्हम्। **भट्ट**मतानुसारिणि **तन्त्ररत्ने**ऽपि–यथेष्टविनियोज्यत्वं हि स्वत्वं केवलक्रत्वर्थत्वेऽन्यत्राविनियोगाद्यथेष्टविनियोगाभाव इति। **विनियोज्य**मत्र विनियोगार्हं–अर्हे कृत्यतृचश्च–इति **पाणिनि**स्मरणात् (पा. ३.३.१६९)। यत्तु कैश्चित्स्वत्वस्य लौकिकत्वं प्रसाध्य तत्प्रयोजनमुक्तं ब्राह्मणेन यदसत्प्रतिग्रहेण वाणिज्यादिना वा लब्धं तत् स्वत्वस्य शास्त्रैकसमधिगम्यत्वे
 
@@ -11961,8 +11137,6 @@ Bibliography (of works referred to).
 **प्रयोगः कर्मयोगश्च सत्प्रतिग्रह एव वा॥**
 
 इति मनुनाभिधानात् (मनु १०. ११५)। **प्रयोगो** वृद्ध्यर्थं द्रव्यप्रयोगः। **कर्मयोगः** आर्त्विज्यादिकरणमिति। तदेतन्न सुन्दरमिव प्रतिभाति। यथा सिद्धशब्दानुशासनार्थे व्याकरणशास्त्रे ये लोकसिद्धाः
-
-
 
 शब्दास्ते सर्वे सामान्यतो विशेषतो वानुशिष्टा एवेति यस्तत्र नानुशिष्टो यो वा–न ङिसम्बुद्ध्योः (पा. ८.२.८ )—इत्येवमादिवाक्यैः सम्बुद्धौ लुप्तनकारोऽसाधुरित्येवंरूपेण प्रकारेणासाधुतयोपदिष्टः स लोकसिद्ध एव न भवतीति न प्रयोगार्हस्तथा लोकसिद्धस्य स्वत्वहेतुनिबन्धनार्थे गौतमादिशास्त्रे सर्वोऽपि स्वत्वहेतुरुपदिष्ट एवेति यस्तत्र नोपदिष्टो[^270] यो वा चौर्यादिवत्स्वत्वासाधकत्वेनोक्तः स लौकिकोऽपि स्वत्वहेतुर्न भवतीत्यतोऽसत्प्रतिग्रहवाणिज्यादिलब्धस्य यदि शास्त्रे स्वत्वं निषिद्धं तर्हि लोकेऽपि चौर्यादिलब्धवत् तत्स्वत्वस्यानङ्गीकर्तव्यत्वात्। तस्माद्यद्गर्हितेनेति वाक्यमसत्प्रतिग्रहस्वयंकृतकृषिवाणिज्यादीनां स्वत्वहेतुत्वे सत्यपि ब्राह्मणस्य
 
@@ -11984,8 +11158,6 @@ Bibliography (of works referred to).
 
 **अन्यथाशास्त्रकारी च न विभागे पिता प्रभुः॥**
 
-
-
 ** अन्यथाशास्त्रकारी** स्मृत्याचारव्यपेतमार्गवर्ता। **शङ्खो**ऽपि–अकामे पितरि रिक्थविभागो वृद्धे विपरीतचेतसि दीर्घरोगिणि च–इति।**अकामे** विभागेच्छारहिते **वृद्धे[^272]** कुटुम्बव्यवहाराक्षमे। अशक्तस्वादिदोषयुक्ते पितरि पुत्राणां विभागेच्छाभावे ज्येष्ठस्य स्वातन्त्र्यमनुजानां तु तदधीनतयावस्थानम्। तथा च **शङ्खलिखितौ**–पितर्यशक्ते कुटुम्बस्य व्यवहारं ज्येष्ठः कुर्यादनन्तरो वा कार्यज्ञस्तदनुमतेन–इति। **अनन्तरः** अनुजः।**तदनुमतेन** ज्येष्ठानुमतेन। **हारीतो**ऽपि–कामं दीने प्रोषित आर्तिं गते वा ज्येष्ठोऽर्थांश्चिन्तयेत्–इति। निर्दोषे पितरि जीवति तस्येच्छया पुत्राणां पैतृकधनविभागो मातरि निवृत्तरजस्कायां तु तदिच्छाभावेऽपि भवति पुत्राणामिच्छया तद्धनविभागः। तथा च **गौतमः** (२८.१-२)—ऊर्ध्वं पितुः पुत्रा रिक्थं विभजेरन्निवृत्ते रजसि मातुर्जीवति पितरि चेच्छति–इति। **बृहस्पति**रपि
 
 [^272]: "'वृद्धे' इति नास्ति क-आदर्शे."
@@ -12005,8 +11177,6 @@ Bibliography (of works referred to).
 [^273]: " 'मरणे' इति अ."
 
  अत्र **पुत्रा विभजेयु**रित्यभिधानात्पितुरिच्छाभावेऽपि विभाग उक्तः।**प्रत्तासु** कृतविवाहासु। **रमणे** रतिसामर्थ्ये। **उपरतस्पृहे** धनस्पृहानिवृत्तियुक्ते। **प्रत्तासु भगिनीषु** चेत्येतत्काकाक्षिवदुभयत्र सम्बध्यते। एतेनेदमुक्तं भवति। मातुर्निवृत्तरजस्कतया पितुर्निवृत्तरतिसामर्थ्यतया तयोरपत्योत्पादनयोग्यताभावनिश्चये पितुर्धनस्पृहाभावे भगिनीषु च कृतविवाहासु पुत्राः स्वेच्छया विभागं कुर्युरिति। केचित्तु मातुर्निवृत्ते रजसीत्यादिकमुपरतस्पृहे इत्यन्तमेकं वाक्यमित्यङ्गीकृत्य रजोनिवृत्त्यादीनां
-
-
 
 समुच्चितानां विभागं प्रति निमित्तत्वमाहुः॥ पित्रोर्जीवतोर्भ्रातृृणां सहवासो मुख्य इत्याह **व्यासः**
 
@@ -12040,8 +11210,6 @@ Bibliography (of works referred to).
 
 **जीवद्विभागे पितु ता गृह्णीतांशद्वयं स्वयम्।इति।**
 
-
-
  पितुरंशद्वयग्रहणमेकपुत्रविषयमित्यार्हतुः' **शङ्खलिखितौ**–स यद्येकपुत्रः स्याद् द्वौ भागावात्मनः कुर्यात्–इति। एकशब्दोऽत्र श्रेष्ठवाचीति**पारिजातकारः**। पुत्रो यदि गुणवत्तया धनार्जनसमर्थस्तदानेन सह विभागे पितांशद्वयं गृह्णीयादिति तन्मतेऽस्य वाक्यस्यार्थः। **कात्यायन**स्तु (८३८) पित्रा सर्वेभ्योऽपि पुत्रेभ्यः सम एवांशो देयो न तु ज्येष्ठायैकमुत्कृष्टं वस्तु स्वेनापि सम एवांशो ग्राह्यो न त्वंशद्वयमित्यभिप्रेत्याह
 
 **सकलं द्रव्यजातं यद्भागगृह्णन्ति तत्समैः।**
@@ -12069,8 +11237,6 @@ Bibliography (of works referred to).
 **यदि कुर्यात्समानंशान्पत्न्यःकार्याःसमांशिकाः।**
 
 **न दत्तं स्त्रीधनं यासां भर्त्रा वा श्वशुरेण वा॥**
-
-
 
  **पत्न्य**इति बहुवचनात्प्रतिपत्नि स्वांशेन समानमंशं गृह्णीयान्न तु ताभ्यः पृथक्कृत्यांशो देयः। जायापत्योर्न विभागो विद्यते–इति (आपस्तम्बधर्मसूत्र २.६.१४.१६) **हारीत**वचनविरोधापत्तेः। यदि पुत्रो धनार्जनसमर्थतया स्वांशं न जिघृक्षति तदा किमपि तस्मै दत्त्वा[^275] [][^276] तत्पुत्राणां दायग्रहणेच्छा मा भूदित्येवमर्थं विभागः कर्तव्य इत्याह **स** एव (या.२.११६)
 
@@ -12106,8 +11272,6 @@ Bibliography (of works referred to).
 
 **कलौ पञ्च न कुर्वीत भ्रातृजायां कमण्डलुम्॥**
 
-
-
 ** ज्येष्ठांशं** जन्मविद्यादिकृतज्यैष्ठ्यनिबन्धनमंशम्। **स्मृतिसंग्रहे**ऽपि
 
 **यथा नियोगधर्मो वा नानूबन्ध्यावधोऽपि वा।**
@@ -12135,8 +11299,6 @@ Bibliography (of works referred to).
 **यद्येकजाता बहवः समाना जातिसंख्यया।**
 
 **सापत्न्यात्तैर्विभक्तव्यं मातृभागेन धर्मतः॥**
-
-
 
 ** व्यासो**ऽपि
 
@@ -12178,8 +11340,6 @@ Bibliography (of works referred to).
 
 **जन्मनामपरिज्ञाने लभेतांशं क्रमागतम्॥इति।**
 
-
-
 ** बृहस्पति**वचनं तद्दूरदुर्गमदेशस्थितप्रपौत्रपुत्रादिविषयं तथा प्रकृत्य पाठात्। आ चतुर्थादित्येतत्तु वचनमेकदेशनिवासिविषयमिति नानयोर्विरोधः। पौत्रस्य पैतामहधने पित्रा सह कथं विभाग इत्यपेक्षायामाह**बृहस्पतिः**
 
 **द्रव्ये पितामहोपात्ते स्थावरे जङ्गमे तथा।**
@@ -12216,8 +11376,6 @@ Bibliography (of works referred to).
 
  असवर्णानां विभागप्रकारमाह **याज्ञवल्क्यः** (२.१२५)
 
-
-
 **चतुस्त्रिद्व्येकभागाःस्युर्वर्णशो ब्राह्मणात्मजाः।**
 
 **क्षत्रियास्त्रिद्व्येकृभागा विड्जास्तु द्व्येकभागिनः॥**
@@ -12252,8 +11410,6 @@ Bibliography (of works referred to).
 
 [^280]: "'आपरिगृहीतासु' इति अ."
 
-
-
 भागित्वमाह स (गौ. धर्मसूत्र २८.४३) एव—शूद्रापुत्रवत्प्रतिलोमासु–इति। **प्रतिलोमासु** उत्कृष्टवर्णस्त्रीषुहीनवर्णैरुत्पादिता अपरिणीतशूद्रापुत्रवद्वृत्तिमूलमात्रभाज इत्यर्थः॥ असवर्णेषु पुत्रेषु गुणवत्त्वनिर्गुणत्वादिकृतो यो विशेषः स
 
 **कन्यानामसवर्णानां विवाहश्च द्विजन्मभिः।**
@@ -12283,8 +11439,6 @@ Bibliography (of works referred to).
 **समस्तत्रविभागः स्याज्ज्येष्ठता नास्ति हि स्त्रियाः॥**
 
 ** बृहस्पति**रपि
-
-
 
 **एक एवौरस पित्र्ये[^282] धने स्वामी प्रकीर्तितः।**
 
@@ -12326,8 +11480,6 @@ Bibliography (of works referred to).
 
  इति **मनु**वचनं तदौरसप्रशंसापरम्। दत्तकादीनामौरसप्रतिकूलत्वे
 
-
-
 निर्गुणत्वे च चतुर्थभागनिषेधपरमिति तु **विज्ञानेश्वरयोगिनो** मतम्।**वसुनः**धनस्य। यत्तु
 
 **भ्रातृृणामेकजातानामेकश्चेत्पुत्रवान्भवेत्।**
@@ -12348,8 +11500,6 @@ Bibliography (of works referred to).
 
 **संस्कार्याःपूर्वजैस्ते वै पैतृकान्मध्यकाद्धनात्॥**
 
-
-
  **यवीयस** इति मुमूदीर्घयोंरभावश्छान्दसः। भ्रातृग्रहणमत्र भगिनीनामप्युपलक्षणम्। अत एव **व्यासः**
 
 **असंस्कृतास्तु ये तत्र पैतृकादेव तद्धनात्।**
@@ -12369,8 +11519,6 @@ Bibliography (of works referred to).
 **स्वात्स्वादंशाच्चतुर्भागं पतिताः स्युरदित्सवः॥**
 
 इति। अयमर्थः। ब्राह्मणादयो भ्रातरो ब्राह्मण्यादिभगिनीभ्यश्चतुस्त्रिद्व्येकभागा इत्यादिवाक्यैः स्वजातिविहितेभ्योंऽशेभ्यः स्वात्स्वादंशाच्चतुर्थभागं दद्युरिति। तद्यथा। यदि कस्यचिद् ब्राह्मण्येव पत्नी पुत्रश्चैकः कन्या चैका तत्र पित्र्यं सर्वं द्विधा विभज्य तयोरेकं भागं पुनश्चतुर्धा विभज्य चतुर्थमंशं कन्यायै दत्त्वावशिष्टं सर्वं पुत्रो गृह्णीयात्। यदि द्वौ पुत्रौ एका कन्या पितृधनं त्रेधा विभज्य तेष्वेकं भागं चतुर्धा विभज्य चतुर्थमंशं कन्यायै दत्त्वावशिष्टं पुत्राभ्यां विभज्य ग्राह्यम्। यद्येकः पुत्रो द्वे कन्ये तदा सर्वं द्वेधा विभज्य तयोरेकं चतुर्धा विभज्य तस्य द्वावंशौ द्वाभ्यां दत्त्वावशिष्टं पुत्रेण ग्राह्यम्। यदि ब्राह्मणीपुत्र एकः क्षत्रियापुत्री एका तदा पित्र्यं द्रव्यं सप्तधा विभज्य क्षत्रियापुत्रभागांस्त्रीन् चतुर्धा विभज्य चतुर्थमंशं क्षत्रियाकन्यायै दत्त्वाऽवशिष्टं पुत्रो गृह्णीयात्। एवं सर्वत्र योज्यम्। यत्तु कैश्चिदुक्तं संस्कारमात्रोपयोगि द्रव्यदानमत्र विवक्षितं न तु चतु-
-
-
 
 र्थांशदानं बहुभ्रातृकाया बहुधनप्रसक्तेर्बहुभगिनीकस्य च निर्धनत्वप्रसक्तेरिति तदप्युक्तप्रकारेण व्याख्यानात्परिहृतम्। न ह्यत्र स्वकीयभागादुद्धृत्य चतुर्थांशो देय इत्युच्यते। तस्मात्पितुरूर्ध्वंविभागे कन्याप्युक्तप्रकारेणांशभागिनी जीवति तु पितरि यदेवात्यै पिता ददाति तदेव लभते विशेषवचनाभावादिति **विज्ञानेश्वरासहायमेधातिथीनां** पक्षः। पित्र्यधनाभावे ज्येष्ठैः स्वार्जितद्रव्येणावश्यकाः संस्काराः कर्तव्या इत्याह **नारदः**(दाय०३३-३४)
 
@@ -12393,8 +11541,6 @@ Bibliography (of works referred to).
  अत्र हेतुरुक्त**स्तेनैव**
 
 **अनीशःपूर्वजः पित्र्ये भ्रातुर्भागे विभक्तजः।**
-
-
 
  अर्थान्तरमपि किञ्चिदाह '**स'**एव
 
@@ -12421,8 +11567,6 @@ Bibliography (of works referred to).
 **दृश्याद्वा तद्विभागः स्यादायव्ययविशोधितात्।**
 
  अयं पक्षो विभक्तभ्रात्रपेक्षया योऽल्पगुणस्तद्विषय इति व्यवस्था कृता**हलायुधेन**। एवं भ्रातृविभागकाले प्रमीतभ्रात्रन्तरभार्यायामप्रजस्य स्पष्टगर्भायां पश्चादुत्पन्नो भ्रातुः पुत्रः स्वपित्र्यंशं तेभ्यो लभते। स्पष्टगर्भायां भ्रातृभार्यायां न प्रसवपर्यन्तं विभागःकार्यः। तथा च **वसिष्ठः**(१७. ४०-४१)–अथ भ्रातृृणां दायविभागो याश्चनपत्याः स्त्रियस्तासामा
-
-
 
 पुत्रलाभात्–इति। आ पुत्रलाभात्प्रतीक्षा कार्येति शेषः। विभागानन्तरमुत्पन्नेन विभक्तेभ्यो भ्रातृभ्यः पित्रा यत्पूर्वं प्रीत्याभरणादिकं दत्तं न तद्विभागादूर्ध्वमुत्पन्नेन प्रत्याहर्तव्यम्। तथा च **याज्ञवल्क्यः**(२. १२३)
 
@@ -12462,8 +11606,6 @@ Bibliography (of works referred to).
 
 ** स्वयमर्जितं** पित्राद्यविभक्तद्रव्योपयोगेन स्वयमर्जितम्। अन्यथा स्वयमर्जितं तु न विभाज्यं पितृद्रव्याविरोधेनेत्यादिवक्ष्यमाणवचनात्।
 
-
-
 एतस्य त्रिविधस्यापि धनस्य विभागो यदि पितामहादिकृतमृणं स्यात्तदा तद्दत्त्वा कर्तव्यः। तथा चाह **स** एव (कात्या. ८५०)
 
 **ऋणं प्रीतिप्रदत्तं तु दत्त्वा शेषं विभाजयेत्।**
@@ -12499,8 +11641,6 @@ Bibliography (of works referred to).
 **तद् दृश्यमानं विभजेन्न दानं पैतृकाद्धनात्॥**
 
  सर्वैर्ज्ञायमानस्य गृहक्षेत्रादेर्विभज्य ग्रहणम्। अपरिज्ञायमानं तु यस्मि-
-
-
 
 न्पुरु[^290]षे तद्द्रव्यसम्बन्धशङ्का भवति तं कोशांख्यं दिव्यं कारयित्वा शोधयितव्यम्। तथा च **स** एव (कात्या. ८४१–४२)
 
@@ -12541,8 +11681,6 @@ Bibliography (of works referred to).
 **भ्रातुः सकाशात्पित्रोर्वा लब्धं सौदायिकं स्मृतम्॥इति।**
 
  एतच्च पित्र्याद्यविभक्तद्रव्यव्ययमन्तरेण यदि लब्धं तदा न विभाज्यमितरथा विभाज्यमेव। अत एव **याज्ञवल्क्यः** (२.१९८-९)
-
-
 
 **पितृद्रव्याविरोधेन यदन्यत्स्वयमर्जितम्।**
 
@@ -12586,8 +11724,6 @@ Bibliography (of works referred to).
 
 **स्वज्ञानशंसनाद्वादाल्लब्धं प्राध्ययनाच्च यत्॥**
 
-
-
 **विद्याधनं तु तत्प्राहुर्विभागे न विभज्यते।**
 
 **शिल्पिष्वपि हि धर्मोऽयं मूल्याद्यवाधिकं भवेत्॥**
@@ -12613,8 +11749,6 @@ Bibliography (of works referred to).
 **भागं विद्याधनात्तस्मात्स लभेताश्रुतोऽपि सन्॥**
 
 ** अश्रुतो**ऽ**पि** अविद्योऽपि। येनाविभक्तपित्रादेर्विद्या लब्धा तया धनमर्जितं तद्विद्याधनं सर्वैर्विभाज्यम्। तथा च **कात्यायनः**(८७४)
-
-
 
 **कुले विनीतविद्यानां भ्रातॄणां पितृतोऽपि वा।**
 
@@ -12647,8 +11781,6 @@ Bibliography (of works referred to).
 **आरुह्य संशयं यत्र प्रसभं कर्म कुर्वते।**
 
 **तस्मिन्कर्मणि तुष्टेन प्रसादः स्वामिना कृतः॥**
-
-
 
 **तत्र लब्धं तु यत्किञ्चिद्धनं शौर्येण तद्भवेत्॥**
 
@@ -12696,8 +11828,6 @@ Bibliography (of works referred to).
 
  अनयोरपि साधारणद्रव्याश्रयणेनार्जने पूर्वोदाहृतवचनाद्विभाज्यत्वमर्जकस्य चांशद्वयं ज्ञातव्यम्। साधारणद्रव्यानाश्रयणेनापि ज्येष्ठेनाविभक्तेन
 
-
-
 पितरि प्रेते यदर्जितं तद्यदि कनीर्यांसो विद्याभ्यासरतास्तदा तेभ्योऽपि विभज्य देयमर्जकत्वात्स्वेन चांशद्वयं ग्राह्यम्। अत एव **मनुः** (९.२०४)
 
 **यत्किंचित्पितरि प्रेते धनं ज्येष्ठोऽधिगच्छति।**
@@ -12730,8 +11860,6 @@ Bibliography (of works referred to).
 
  इति **मनु**नाभिधानात् (मनु ९. ११९)। अलङ्कारोऽपि येन धृतः
 
-
-
 स तस्यैव। अधृतः साधारणत्वाद्विभाज्यः। **कृतान्नं** तण्डुलमोदकादि। तदप्यविभाज्यं यथासंभवं भोक्तव्यम्।**उदकं** उदकाधारभूतं कूपादिकं। तच्चविषमसंख्याकं पर्यायेणोपभोक्तव्यं न मूल्यद्वारेण विभाज्यम्।**स्त्रियश्च** दास्यो विषमाः पर्यायेण कर्म कारयितव्याः पित्रावरुद्धास्तु समा अपि अविभाज्याः[^295] ' इति अ-क. ")। स्त्रीषु च संयुक्तास्वविभागः–इति**गौतमे**नाभिधानात् (गौ. धर्मसूत्र २८.४५)। **योग**शब्देनालब्धलाभकारणमिष्टं[^296] क्षेमशब्देन च तडागनिर्माणादिपूर्तं कर्म गृह्यते। एतद् द्वयं पितृद्रव्याश्रयणेनार्जितमपि न विभाज्यम्।
 
 [^295]: " 'किताज्याः (?
@@ -12753,8 +11881,6 @@ Bibliography (of works referred to).
 **न क्षत्रियभूर्देया क्षत्रियादिसुताय वै।**
 
 **यद्यप्येषां पिता दद्यान्मृते विप्रासुतो हरेत्॥**
-
-
 
 इति वचनात्। अस्य वस्त्रादिविभागनिषेधस्य धृतवस्त्रादिविषयत्वं न तु सामान्यविषयत्वमित्यभिप्रेत्य वस्त्रादिविषये संख्यामूल्यादिकृतवैषम्ये विभागप्रकारमाह **बृहस्पतिः**
 
@@ -12800,8 +11926,6 @@ Bibliography (of works referred to).
 
 [^299]: " 'बृहस्पतिः धर्मार्थं यन्निरूपितम्' इत्यारभ्य 'समभागेन तद् भृगुः । अन्योन्यापहृतं चैव' इत्यन्तो ग्रन्थो नास्ति अ-क- आदर्शयोः"
 
-
-
 ** धर्मार्थं यन्निरूपितं** देवपूजाद्यर्थं सर्वसाधारणत्वेन स्थापितं परादिकं (? घण्टादिकम्)। **निबन्धः** अत्रैतावद्देयमित्यादिरूपेण राजादिभिर्व्यवस्थापितं द्रव्यम्। **धृतं वस्त्रमत्र**बहुमूल्यं विवक्षितम्। **नानुरूपं यद्भवेत्** यत्साक्षाद्विभक्तुमशक्यम्। अङ्गयोजितं वस्त्रमत्राबहुमूल्यं विवक्षितम्। **प्रयोज्यशब्देन** पुस्तकादिकं गृह्यत इति प्राच्याः। पुस्तकादिकं शिल्पार्थं च क्रमान्मूर्खैःशिल्पानभिज्ञैश्चसह न विभाज्यमिति ज्ञातव्यम्। इतरथा जीवनोपायत्वात् तत्सर्वैर्विभाज्यमित्यर्थः। विभागो देशधर्मानुसारेण कर्तव्य इत्याह स एव (८८४ अ)
 
 **देशस्य जात्या सङ्घस्य धर्मो ग्रामस्य यो भृगुः।**
@@ -12832,8 +11956,6 @@ Bibliography (of works referred to).
 
 ** अन्योन्यापहृतं यच्चेति** दृष्टान्तार्थं पुनरुपादानम्। अत्र समभा-
 
-
-
 गविधानं पूर्वं विषमविभागकरणेऽप्यस्मिन्विषये समभाग एवेति नियमनार्थम्। यदन्येन केनचिद्धृतं नष्टं वा विभागानन्तरं लब्धं तदपि सर्वैर्विभज्य[^300] ग्राह्यम्। तथा च **स** एव (कात्या० ८८७)
 
 [^300]: "'सर्वैर्विभज्य' इत्यस्मादनन्तरं 'नापैतीति शेषः यत्पुनः' इत्यन्तो भागो गलितो ब–आदर्शे,"
@@ -12861,8 +11983,6 @@ Bibliography (of works referred to).
 **विभागभावना ज्ञेया गृहक्षेत्रैश्च यौतकैः॥**
 
 ** ज्ञातयः** पितृवंश्याः। **बन्धवो** मातृवंश्याः। **साक्षिणः** प्रागुक्तलक्षणाः। **अभिलेखितं** विभागपत्रम्। **यौतकैः** पृथक् कृतैर्गृहक्षेत्रैरिति विशेषणविशेष्यभावेनान्वयः। **नारदो**ऽपि (दाय० ३६)
-
-
 
 **विभागधर्मसन्देहे दायादानीं विनिर्णयः।**
 
@@ -12908,8 +12028,6 @@ Bibliography (of works referred to).
 
 **अनुमानेन विज्ञेयं न स्युर्यत्र च साक्षिणः॥**
 
-
-
  लिङ्गैरपि निर्णयस्य कर्तुमर्शक्यत्वे
 
 **युक्तिष्वप्यसमर्भासु शपथैरेनमर्दयेत्।**
@@ -12946,8 +12064,6 @@ Bibliography (of works referred to).
 
 [^302]: "'सर्वं स्वेच्छया कुर्युः' इति नास्ति अ-क-आदर्शयोः,"
 
-
-
 **विभक्ता अविभक्ता वा दायादाःस्थावरे समाः।**
 
 **एको ह्यनीशः सर्वत्र दानाधमनविक्रये॥**
@@ -12977,8 +12093,6 @@ Bibliography (of works referred to).
 **अन्धोऽचिकित्स्यरोगाद्या भर्तव्याः स्युर्निरंशकाः॥**
 
   तज्जः पतितोत्पन्नः। **अचिकित्स्यरोगाः** असाध्यक्षयादिरोगयुक्ताः। विभागानन्तरं कथंचिदौषधादिना रोगनिर्हरणे भागार्हस्वमस्त्येव
-
-
 
 यथाविभागानन्तरोत्पन्नस्य। **आद्य**शब्देन [पितृद्वेष्यादीनां](#) ग्रहणम्। अत एव **नारदः** ( दाय. २१ २२ )
 
@@ -13018,8 +12132,6 @@ Bibliography (of works referred to).
 
 **अतस्तु विपरीतेन तेन नास्ति प्रयोजनम्॥**
 
-
-
 **तया गवा किं क्रियते या ने धेनुर्न गर्भिणी।**
 
 **कोऽर्थः पुत्रेण जातेन यो[^304] न विद्वान्न धार्मिकः॥**
@@ -13049,8 +12161,6 @@ Bibliography (of works referred to).
 **तेषां पतितवर्जेभ्यो भक्तवस्त्रं प्रदीयते।**
 
  **लिङ्गी** कपटयत्यादिवेषधारी। **पतित**ग्रहणं पतितापत्यस्याप्युपलक्षणम्। अत एव **बौधायनः**( २.२.४३ ४६ ) —अतीतव्यवहारान्ग्रासाच्छादनैर्बिभृयुरन्धजडक्लीबव्यसनिव्याधितांश्चाकर्मिणः पतिततज्जवर्जम्–इति।**अतीतव्यवहाराः** मूकादयः। **अकर्मिणः** धर्मजनक श्रौतस्मार्तकर्मस्वसमर्थाः। आश्रमगताश्च न भरणीयाः। अत एव **वसिष्टः**( १७. ५२ ५४ ) —अनंशास्त्वाश्रमान्तरगताः क्लीबोन्मत्तपतिताश्च भरणं कीबोन्मत्तानाम्– इति। अत्र क्लीबोन्मत्तानामेव भरणीयत्वाभिधानादितरेषामर्थात् तत्प्रतिषेधः। प्रव्रज्यावसितोऽप्यतिदुष्टत्वात्पतितसमानन्यायत्वेन न पोषणीयः। निरंशकपुत्राणां दायानर्हतापादकक्लीबताद्यभावे पित्र्यभागहरत्वमाह **देवलः**
-
-
 
 **तत्पुत्राः पितृदायांश लभेरन् दोषवर्जिताः।**
 
@@ -13082,12 +12192,9 @@ Bibliography (of works referred to).
 
 **स्वर्यातस्य ह्यपुत्रस्य सर्ववर्णेष्वयं विधिः॥**
 
-
 **पत्नी**[^307]धर्म्यविवाहसंस्कृता। **दुहितरश्चे**त्यनुक्तसमुच्चयार्थेन चकारेण
 
 [^307]: " 'पत्नी धर्म्य' इत्येतौ शब्दौ न स्तः ब - आदर्श,"
-
-
 
 दौहित्राणां ग्रहणम्। **तत्सुताः**भ्रातुः पुत्राः। **गोत्रजाः** सपिण्डाः समानोदकाश्च। **एषा**मिति निर्धारणे षष्ठी। एतेषु पत्न्यादिषु पूर्वपूर्वस्याभावे उत्तर उत्तरः स्वर्यातविभक्तापुत्रधनं गृह्णाति। **अयं विधिः**सर्वेष्वनुलोमजेषु प्रतिलोमजेषु ब्राह्मणादिवर्णेषु च साधारण इत्यर्थः। यद्यप्यत्र पुत्रशब्दः सकलमुख्यगौणपुत्रसाधारणस्तथापि कलौ क्षेत्रजादीनां निषिद्धत्वेनाभावादौरसादिपुत्रत्रय एव पर्यवस्यति॥ पत्न्याःप्रथमं धनग्राहित्वं **बृहस्पति**रप्याह
 
@@ -13120,8 +12227,6 @@ Bibliography (of works referred to).
 
 **आदाय दापयेच्छ्राद्धं मासषाण्मासादिकम्॥**
 
-
-
 **पितृव्यगुरुदौहित्राम् भर्तुः स्वस्त्रीयमातुलान्।**
 
 **पूजयेत्कव्यपूर्ताभ्यां वृद्धांश्चाप्यतिथीन् स्त्रियः॥** इति।
@@ -13145,8 +12250,6 @@ Bibliography (of works referred to).
 **अपास्य श्रोत्रियद्रव्यं श्रोत्रियेभ्यस्तदर्पयेत्॥** इति
 
 **  कात्यायन**वचनं ( ९३१ ), यच्च
-
-
 
 **अन्यत्र ब्राह्मणात्किंचिद्राजाधर्मपरायणः।**
 
@@ -13186,8 +12289,6 @@ Bibliography (of works referred to).
 
 **अविभक्ते धनांशं तु प्राप्नोत्यामरणान्तिकम्॥**
 
-
-
  **अविभक्त**ग्रहणं संसृष्टर्स्यांप्युपलक्षणम्। **तु**शब्दोऽत्र वाशब्दार्थो निपातानामनेकार्थत्वात्। स्त्री मरणान्तिकमन्नवस्त्रभागिनी भवति। अक्लेशेन जीवनं धनसाध्यं नित्यनैमित्तिकं कर्म स्त्रीभिः कर्तुं योग्यं पूर्तादिकाम्यं कर्म च यावता धनेन सिध्यति स्वभर्तुर्धनात्तावन्तमंशं वा प्राप्नोतीत्यर्थः। अत्राद्यः पक्षः पत्नीव्यतिरिक्तभार्याविषयः स्त्रीणां जीवनमात्रोपयोगिद्रव्यभागित्वाभिधानात्। द्वितीयः पक्षः पत्नीविषय इति व्यवस्था। पत्न्यपि यदि श्वशुरादिषु शुश्रूषां न करोति तदा ग्रासाच्छादनमात्रभागिन्येव तथा च **स** एव ( कात्या. ९२३ )
 
 **भोक्तुमर्हति कॢप्तांशं गुरुशुश्रूषणे रता।**
@@ -13220,8 +12321,6 @@ Bibliography (of works referred to).
 
 ** कर्कशा** क्रूरान्तःकरणा शङ्कितव्यभिचारेति यावत्। तदेवं वृत्त-
 
-
-
 स्थाया विभक्तासंसृष्टपत्न्या जङ्गमस्थावरात्मकसकलभर्तृधनभाक्त्वं सिद्धम्। पत्नीनां बहुत्वे सजातीयाः पत्न्यःसमं विभज्य गृह्णीयुः। ये पत्न्या भर्तृधनग्रहणे प्रतिबन्धं कुर्वन्ति ते राज्ञा दण्डनीया इत्याह **प्रजापतिः**
 
 **तत्सपिण्डा बान्धवा वा ये तस्याः परिपन्थिनः।**
@@ -13251,8 +12350,6 @@ Bibliography (of works referred to).
 **पुत्रश्च दुहिता चोभौ पितुः सन्तानकारकौ॥**
 
  **पुत्र**ग्रहणं पत्न्या अप्युपलक्षणम्। केचिदाहुः। दुहितू रिक्थभाक्त्वबोधकान्येतानि वचनानि पुत्रिकाविषयाणीति। तदसत्। तृतीयः पुत्रः पुत्रिका विज्ञायत इति **वसिष्ठ**वचनात् ( १७.१५–१६ ) पुत्रकोटिनिविष्टायाःपुत्रिकाया औरसपुत्रवत्सल्यामपि पत्नयां पितृरिक्थहरायाः पत्न्यभावे रिक्थग्राहिताबोधकेषु पत्नी दुहितरश्चेत्यादिवचनेषु दुहितृशब्देन ग्रहीतुमयुक्तत्वात्। दुहितॄणां बहुत्वे समं विभज्य ताभिर्ग्राह्यम्। यदि कश्चित्परिणीतास्तदा त्वपरिणीतयैव ग्राह्यम्। अपरिणीतानां बहुत्वे ताभिर्विभज्य ग्राह्यम्। अत एव **कात्यायनः**( ९२६ )
-
-
 
 **पत्नी भर्तुर्धनहरी या स्याव्यभिचारिणी।**
 
@@ -13284,8 +12381,6 @@ Bibliography (of works referred to).
 
 ** ज्ञातयः** सपिण्डाः**सकुल्याः**समानोदकाः **बान्धवाः** पितृष्वस्त्रीयादयः।
 
-
-
 भ्रातॄणामभावे भ्रातुः पुत्रा धनभाजः। तेष्वपि सोदरभ्रातुः पुत्राः प्रथमं धनभाजः तेषामभावे भिन्नोदरभ्रातुः पुत्रा धनभाजः। भ्रातृभ्रातृपुत्रसमवाये भ्रातुः पुत्राणां धनग्रहणे नाधिकारः। यदा त्वपुत्रः कश्चिद् भ्राता प्रमीतः अवशिष्टा भ्रातरो यावत्तद्धनं विभज्य गृह्णन्ति तावत्कथंचिदन्यस्य भ्रातुर्मरणे तत्पुत्रः पितृव्यधनग्रहणे स्वस्य पितृद्वाराधिकारः प्राप्त इति–प्रमीतपितृकाणां तु पितृतो भागकल्पना ( या. २. १२० ) इति न्यायेन तद्धनमन्यैः पितृव्यैः सह विभज्य गृह्णीयात्। भ्रातुः पुत्राणामप्यभावे पितामही धनग्राहिणी।
 
 **मातर्यपि च वृत्तायां पितुर्माता धनं हरेत्।**
@@ -13298,15 +12393,13 @@ Bibliography (of works referred to).
 
 [^312]: " 'उपरितराः' इति अ-क"
 
-**सपिण्डता तु पुरुषे सप्तमे विनिवर्तते।**
-
 [^313]: "'बृहद्मनुः' इति ब."
+
+**सपिण्डता तु पुरुषे सप्तमे विनिवर्तते।**
 
 **समानोदकभावस्तु निवर्तेता चतुर्दशात्॥**
 
 **जन्मनाम्नोः स्मृतेरेके तत्परं गोत्रमुच्यते।** इति।
-
-
 
  समानोदकानामभावे बन्धवी धनभाजः। ते च त्रिविधा आत्मबन्धवः पितृबन्धवो मातृबन्धवश्चेति। तथाचोक्तं **स्मृत्यन्तरे**
 
@@ -13333,8 +12426,6 @@ Bibliography (of works referred to).
   बन्धूनामभावे आचार्यो धनग्राही। यद्यपि क्रमपरे याज्ञवल्क्यवाक्ये शिष्यस्येव नाचार्यस्य पृङ्निर्देशस्तथापि शिष्यग्रहणेन ततोऽपि प्रधानतमस्याचार्यस्य शिष्यापेक्षया प्रथमं धनभाक्त्वं सूचितमेवेति न विरोधः। अत एव **चापस्तम्बः**(आप.ध. सूत्र. २.६.१४.२–३)— पुत्राभावे प्रत्यासन्नः सपिण्डः[^314] तद्भावे आचार्य आचार्याभावेऽन्तेवासीति। आचार्याभावे शिष्यो धनभाक् तद्भावे सहाध्यायी पूर्वोदाहृतयाज्ञवल्क्यवचनात्। सब्रह्मचारिणामप्यभावे ब्राह्मणधनं श्रोत्रियो गृह्णीयात्। क्षत्रियादिधनं तु राजा गृह्णीयात्। तथा च **गौतमः** ( गौ. धर्मसूत्र २८. ३९ ) —श्रोत्रिया ब्राह्मणस्यानपत्यस्य रिक्थं भजेरन्। **विष्णु**रपि ( विष्णुधर्मसूत्र १७. १२-१३ )—तद्भावे सहाध्यायिगामि। तद्भावे ब्राह्मणधनवर्जं राजगामीति। **मनु**रपि (९.१८८-८९)
 
 [^314]: "सपिण्डःतदभावेन्तेवासीति पठितं अ- आदर्शे."
-
-
 
 **सर्वेषामप्यभावे तु ब्राह्मणारिक्थभागिनः।**
 
@@ -13368,8 +12459,6 @@ Bibliography (of works referred to).
 
  **ब्रह्मचारि**शब्देनात्र नैष्ठिको विवक्षितो यतिसाहचर्यात्। तेनोपकुर्वाणकब्रह्मचारिणो धनं पुत्रपुत्रीदौहित्राभावात् पित्रादय एव पूर्वोक्तक्रमेण गृह्णीयुः। नैष्ठिकब्रह्मचारिणो धनमाचार्यो गृह्णाति यतेर्धनं सच्छिष्यो गृह्णाति। सच्छदेनात्राध्यात्मशास्त्रश्रवणतदर्थानुष्ठानक्रमत्वं ( क्षमत्वं ? ) विवक्षितं न तु सद्वृत्तत्वं दुर्वृत्तस्याचार्यादेरपि भागानर्हत्वस्य प्रमाणान्तरेणैव प्राप्तत्वात्। वानप्रस्थधनं धर्मभ्रात्रेकतीर्थी लभते। **धर्मभ्राता**प्रतिपन्नो भ्राता समानाचार्यको वा। **एकतीर्थी** एकाश्रमी। धर्मभ्राता
 
-
-
 चासौ एकतीर्थी च धर्मभ्रात्रेकतीर्थी ।एवं क्रमशब्दस्य प्रतिलोमक्रमपरत्वमाश्रित्य नैष्ठिकब्रह्मचार्यादिधनमाचार्यादयो गृह्णन्तीत्युक्तं **विज्ञानेश्वराचार्यैः**। अस्माकं तु वानप्रस्थधनमाचार्यो गृह्णीयाच्छिष्यो वा—इति **विष्णु**वाक्यदर्शनात्
 (विष्णुधर्मसूत्र १७. १५–१६) क्रमशब्दोऽनुलोमक्रमपर इति प्रतिभाति। शिष्यस्य वानप्रस्थधनग्राहकत्वं विष्णूक्तमाचार्याभावे ज्ञातव्यम्। यत्तु—अनंशास्त्वाश्रमान्तरगताः –इति **वसिष्ठ**वचनं ( १७.५२) तदन्याश्रमिणो धनं यत्यादिभिर्न ग्राह्यमित्येवं परम्। अन्यथैतद्वचनविरोधापत्तेः। यत्तु –अनिचयो भिक्षुः —इति गौतमेनाभिधानात् ( गौ. धर्मसूत्र ३.१० ) यत्यादीनां धनसम्बन्धाभावेन कथं तद्धनभाक्त्वं शिष्यादीनामभिधीयते। अत्र ब्रूमः
 
@@ -13395,8 +12484,6 @@ Bibliography (of works referred to).
 
  अत्र समविभागनियमनादेव विषमविभागनिराकरणे सिद्धे पुनज्यैष्ठ्यं तत्र न विद्यते इत्यभिधानं ज्यैष्ठ्यादिकृत एव विषमविभागो न भवति
 
-
-
 बह्वल्पधनसंसर्गे तु संसृष्टधनानुसारेण भागवैषम्यं भवतीति ज्ञापनार्थम्। केचित्तु संसर्गसमये यदीयं यावत्संसृष्टं तदनुसारेण संसृष्टद्रव्यस्य य उपचयस्तद्विभागे वैषम्यं परिकल्पनीयमस्माज्ज्ञापकात् संसृष्टद्रव्यं तु समत्वेनैव विभाज्यं तस्य तथैव विधानादित्याहुस्तदसुन्दरम्। संसृष्टद्रव्योपचयांशो वैषम्येण विभाज्यःसंसृष्टद्रव्यं तु साम्येनैव तथा विधानादित्यत्र विनिगमकादर्शनात्। संसृष्टिषु विद्याशौर्यादिना यौऽधिकं लभते स तस्मिन्द्रव्येंऽशद्वयभागितरे समांशभाज इत्याह **बृहस्पतिः**
 
 **संसृष्टानां तु यः कचिद्विद्याशौर्यादिनाधिकम्।[^318]**
@@ -13419,8 +12506,6 @@ Bibliography (of works referred to).
 
  तुशब्दोऽत्र पत्नीदुहित्राद्यपवादत्वसूचनार्थः। अपुत्रस्य संसृष्टिनो मृतस्य धनं संसृष्येव गृह्णाति न तत्पत्न्यादिरिति प्रथमपादार्थः। अस्याप्यपवादः
 
-
-
 सोदरस्य तु सोदर इति। अत्र संसृष्टिनःसंसृष्टीतिपदद्वयस्यानुषङ्गः। ततश्चायमस्यार्थः। यत्र सोदरोऽपि संसृष्टी भिन्नोदरोऽपि संसृष्टी तत्र सोदरसंसृष्टिन एव तद्रिक्थग्राहित्वं न भिन्नोदरसंसृष्टिन इति। संसृष्टद्रव्यविभागकाले संसृष्टिनो मृतस्य पत्नयामविज्ञातगर्भायां पश्चादुत्पन्नस्य पुत्रस्य स्वपित्र्यंशभागित्वमस्त्येवेति सोदरो भिन्नोदरो वा संसृष्टी मृतसंसृष्ट्यंशं तस्मै दद्यात् तद्भावे स्वयं गृह्णीयादित्याह **स** एव (या. २.१३८)
 
 **दद्याच्चापहरेच्चांशं जातस्य च मृतस्य च।**
@@ -13441,8 +12526,6 @@ Bibliography (of works referred to).
 
 **भ्रातरों ये च संसृष्टा भगिन्यश्च सनाभयः॥**
 
-
-
 ** हीयेत** आश्रमान्तरपरिग्रहेण ब्रह्महत्यादिदोषेण वा स्वांशग्रहणयोग्यो न भवेदित्यर्थः। न **लुप्यते** न संसृष्टिभिरेव ग्राह्यः किं तु पृथगुद्धरणीयः।**तं** उद्धृतं भागं **सोदर्या** असंसृष्टा अपि **समेत्य** देशान्तरस्थिता अपि ततः समागत्य **सहिता** मिलिता भिन्नोदराः संसृष्टाः सोदरा भगिन्यश्च**समं** न्यूनाधिकभावमन्तरेण विभज्य गृह्णीयुरित्यर्थः। अत्र च स्थावरजङ्गमात्मकोभयविधधनसद्भावे स्थावरं द्रव्यमसंसृष्टा सोदरा भ्रातरो भगिन्यश्च विभज्य गृह्णीयुः। जङ्गमं गूढद्रव्यं प्रकटद्विपदचतुष्पदादिरूपद्रव्यं च संसृष्टा भिन्नोदरा विभज्य गृह्णीयुरिति व्यवस्था। तथा च **प्रजापतिः**
 
 **अन्तर्धनं च यद् द्रव्यं संसृष्टानां तु तद्भवेत्।**
@@ -13455,8 +12538,6 @@ Bibliography (of works referred to).
 
 [^321]: "'संसृष्टिनः....गृह्णीयुर्न त्व०' इतिं वाक्यभागः गलितः क- आदर्शे."
 
-
-
 योरुभयोरपि सद्भावात्संसृष्टिनः सोदरा गृह्णीयुर्न त्वसंसृष्टिनः सोदराः। अत एव **बृहस्पतिः**
 
 **संसृष्टौ यौ पुनः प्रीत्या तौ परस्परभागिनौ।** इति।
@@ -13464,8 +12545,6 @@ Bibliography (of works referred to).
  **गौतमो**ऽपि ( गौ. धर्मसूत्र २८.२६)—संसृष्टिनि प्रेते संसृष्टी रिक्थभाक्–इति। संसृष्टिनि प्रेते अपुत्रे इत्यनुषङ्गः। तेनायमर्थः सिद्धः। मृतस्य संसृष्टिनःपुत्रपौत्ररहिटत्वे आसन्नतरेषु पत्न्यादिषु सरस्वपि वचनबलात्तत्संसृष्टी पिता तद्धनं[^322] गृह्णाति। एवं पितृव्यभ्रातृपुत्रयोः। संसृष्टिनोः पुत्रपौत्राभावे परस्परं धनप्राहकत्वम्। तथा भ्रातॄणां संसृष्टिनां पुत्रपौत्राभावे मिथो रिक्थग्राहकत्वमिति। न च पितृसंसृष्टी पुत्र एव सत्यप्य्संसृष्टिनि पुत्रान्तरे पितृधनं संसृष्टित्वाद् गृह्णातीति वाच्यम्। अपुत्रसंसृष्टिमरणस्य धनग्रहणे प्रयोजकत्वात्। तस्य च पितुः सपुत्रत्वेन तत्राभावात्। न च संसृष्टिनस्तु संसृष्टीति याज्ञवल्क्यवाक्येऽपुत्रस्येति पदाश्रवणात्संसृष्टिमरणमेव प्रयोजकमिति वाच्यं, स्वर्यातस्य ह्यपुत्रस्यति वाक्योपात्तस्यापुत्रस्येति पदस्य स्वर्यातस्येतिपदवत् संसृष्टिवाक्येऽनुषङ्गात्। न च तस्यानुषङ्गो नात्र नाश्रयिष्यत इति वाच्यं सपुत्रपितृव्यादिधनस्यापि संसृष्टिभिर्भ्रातृपुत्रादिभिर्ग्राह्यत्वापत्तेः। किं चैवं पत्न्याद्यधिकारस्यापुत्रविषयत्वात् संसृष्ट्यधिकारस्य सपुत्रविषयत्वाद्भिन्नविषयत्वेनानयोरुत्सर्गापवादभावो न सम्भवतीत्यपवादत्वसूचकस्य संसृष्टिनस्त्विति तुशब्दस्य प्रयोगो न सङ्गच्छेत। अतोऽवश्यमपुत्रस्येति विशेषणं तत्राश्रयणीयम्। न च पितृव्यादिसंसृष्टिष्वपुत्रस्येति विशेषणं संभवाद् भिचाराद्यसंभवे ( ? सम्भवे ) व्यभिचारेव ( ? व्यभिचारे च ) स्याद्विशेषणमर्थवदिति न्यायेनाश्रीयते पुत्रसंसृष्टिनः पितुस्तु न तद्विशेषणमसंभवात् ततश्च संसृष्टिपुत्रस्य धनग्राहकत्वे संसृष्टिपितृमरणं प्रयोजकमस्त्येवेति संसृष्टिपुत्रेणैव तद्धनं ग्राह्यं नासंसृष्टिना पुत्रेणेति वाच्यं, संसृष्टिपितृव्यादिविषये विशेषणपुरस्कारेण विधेः प्रवृत्तिः संसृष्टिपितृविषये तु नेति पूर्वमीमांसाशास्त्राविरुद्धवाक्यभेदा-
 
 [^322]: " 'तद्धनं न गृह्णाति' इति अ."
-
-
 
 पादकविधिवैषम्यप्रसङ्गात्। किं च पित्र्यपैतामहद्रव्यार्हत्वे पुत्रपौत्रत्वं प्रयोजकं तच्चसर्वेषामविशिष्टमिति सर्वैरपि संसृपितुरंशो विभज्य ग्राह्यः न च विभागतः पितृद्रव्यार्हत्वमपगतमिति वाच्यं विभागानन्तरमपि धनार्जनसमर्थेनापि स्वथनमसमर्थेभ्यः पुत्रेभ्यो विभज्य देयं स्वेन चासमर्थेन समर्थेभ्यः पुत्रेभ्यो ग्राह्यमित्येतदर्थप्रतिपादकेन —जीवन्नेव वा विभज्य वनमाश्रयेद्दा ( ? येवृद्धा ) श्रमं वा गच्छेत् स्वल्पेन वा संविभज्य भूयिष्ठमादाय वसेत् यद्यपदस्थेत पुनस्तेभ्यो गृह्णीयात् क्षीणांश्च विभजेत् — इति**हारीत**वचनेन विभागानन्तरमपि पुत्राणां पितृद्रव्यार्हत्वापगमो न भवतीति दर्शितत्वात्। न चैवं विभक्तजे सत्यपि सर्वेषां पुत्रत्वेन पितृद्रव्यग्राहकता भविष्यतीति शङ्कनीयं
 
@@ -13482,8 +12561,6 @@ Bibliography (of works referred to).
 इति **बृहस्पति**वचनेन जीवद्विभागानन्तरं गर्भस्थो भूत्वा य उत्पन्नस्तस्यैव सकलपितृद्रव्यग्रहणाधिकारो नान्येषां विभक्तानामिति प्रतिपादनात्। न च यथा संसृष्टिसोदरे सत्यसंसृष्टिसोदराणां संसृष्टिधनानर्हत्वं तथा संसृष्टिपुत्रे सत्यन्येषां पुत्राणां न तद्धनभाक्त्वमिति वाच्यम्। तंत्र तु केवलसोदरत्वस्यासंसृष्टिधनग्राहकत्वेऽप्रयोजकत्वात् संसृष्टित्वसहितस्य सोदरत्वस्यसंसृष्टिनस्तु[^323] संसृष्टी सोदरस्य तु सोदर इति वचनबलेन प्रयोजकत्वावधारणाद्भवतु तथात्वं, पुत्रविषये तु केवलस्य पुत्रत्वस्यैव प्रयोजकत्वात् तस्य च सर्वत्र समानत्वान्न तथात्वम्। संसृष्टिवाक्यस्य तु पूर्वोक्तविधिवैषम्यप्रसङ्गान्न पुत्रविषये प्रवृत्तिर्येन संसृष्टित्वसहितस्य पुत्रत्वस्य संसृष्टिधन-
 
 [^323]: "अस्मादनन्तरं 'आसन्नतरेषु पत्यादिषु... संसृष्टिधनार्हत्व मिति प्रदीर्घो भागः पुनर्लिखितः ब –आदर्श,"
-
-
 
 ग्राहकत्वे प्रयोजकता स्यात्। तस्मात् संसृष्टिनः पितुर्धनं संसृष्टिभिरसंसृष्टिभिरपि पुत्रैर्ग्राह्यमिति स्थितम्। संसृष्टिधनग्राहकेण संसृष्टिनः स्त्रियः पोषणीया दुहिता च विवाहपर्यन्तं पोषणीया संस्कर्तव्या च। तथा च संसृष्टिधनं प्रक्रम्याहतुः **शङ्खनारदौ**(नारद, दाय० २५-२७)
 
@@ -13508,8 +12585,6 @@ Bibliography (of works referred to).
  **च**शब्दोऽत्र भ्रातृमात्रभावसमुच्चयार्थः।केचित्तु या तस्य दुहितेति पठित्वा दुहिता गृह्णीतेत्याहुः। दुहिताभगिन्यभावे–अनन्तरः सपिण्डाद्यस्तस्य तस्य धनं भवेत् ( मनु ९. १८७ ) —इति पूर्वोक्तक्रमेण संसृष्टिधनं गृह्णीयुर्विशेषाश्रवणात्[^324]॥
 
 [^324]: "'संसृष्टिधनं गृह्णातीयाहुः' इति अ-क."
-
-
 
 स्त्रीधनभेदानाह **मनुः** ( ९. १९४)
 
@@ -13551,8 +12626,6 @@ Bibliography (of works referred to).
 
 **न दत्तं स्त्रीधनं यासां दत्ते त्वर्धं प्रकीर्तितम्॥**
 
-
-
  पित्रादिभिर्जीवनार्थं स्त्रीभ्यो धनदाने विशेषमाह **कात्यायनः** ( ९०२ )
 
 **पितृमातृपतिभ्रातृज्ञातिभिः स्त्रीधनं स्त्रियै।**
@@ -13584,8 +12657,6 @@ Bibliography (of works referred to).
 **यत्ते समधिगच्छन्ति यस्यैते तस्य तद्धनम्॥**
 
 इति वचनं ( मनु ८.४१६) तदपि शिल्पादिप्राप्तधनविषयमेवेत्यवसेयम्। स्त्रीणां भर्तुरनुमतिमन्तरेण स्त्रीधनव्ययादौ स्वातंन्त्र्यं नास्तीत्याह **मनुः**( ९.१९९)
-
-
 
 **न निर्हारं स्त्रियः कुर्युः कुटुम्बाद्बहुमध्यकात्॥**
 
@@ -13635,8 +12706,6 @@ Bibliography (of works referred to).
 
 **सवृद्धिकं स दाप्यः स्याद्दण्डं चैव समाप्नुयात्॥**
 
-
-
 **तदेव यद्यनुज्ञाप्य भक्षयेत्प्रीतिपूर्वकम्।**
 
 **मूलमेव स दाप्यः स्याद्यदा स धनवान्भवेत्॥**
@@ -13670,8 +12739,6 @@ Bibliography (of works referred to).
 **अथ चेत्स द्विभार्यःस्यान्न च तां भजते पुनः।**
 
 **प्रीत्या निसृष्टमपि च पतिर्दाप्यश्च तद्वलात्॥**
-
-
 
 **ग्रासाच्छादनवासानामाच्छेदौ यत्र योषितः।**
 
@@ -13711,9 +12778,6 @@ Bibliography (of works referred to).
 
 **भजेरन्मातृकं रिक्थं भगिन्यश्च सनाभयः॥**
 
-
-
-
 एतच्चान्वाधेयभर्तृप्रीतिदत्तधनविषयम्[^330]। अत एवोक्तं **तेनै**व ( मनु. ९. १९५)
 
 [^330]: "'भर्तृप्रीति.....वनविषये' इति भागो गलितो ब - आदर्शे."
@@ -13746,8 +12810,6 @@ Bibliography (of works referred to).
 
  अन्वाधेयभर्तृप्रीतिदत्ताभ्यानन्यद्ध्यग्न्यादिस्त्रीधनं दुहितर एव गृह्णीयुः। तासु च प्रताप्रत्तासमवाये सत्यप्रत्ता एव गृह्णीयुस्तासामभावे प्रत्तास्वप्यनपत्यत्वेन निर्धनत्वेन या अप्रतिष्ठितास्ता एव गृह्णीयुः। अत
 
-
-
 एव **गौतमः** ( २८.२२)—स्त्रीधनं दुहितॄणामप्रत्तानामप्रतिष्ठितानां च— इति। दुहितॄणामभावे बहुतरस्त्र्यवयवत्वाद् दौहित्र्यो गृह्णीयुः। तासामप्यभावे दौहित्रा गृह्णीयुः। तथा च **नारंदकात्यायनयाज्ञवल्क्याः**[^331]( या.२.११७,नारद, दाय०२)
 
 [^331]: "'तथा च कात्यायनयाज्ञवल्क्याः' इति ब. "
@@ -13777,8 +12839,6 @@ Bibliography (of works referred to).
 **ब्राह्मणीग्रहणं हीनजाती ( ति ? ) व्यतिरिक्तकन्योपलक्षणम्।**
 
  ब्राह्मादिविवाहसंस्कृतानपत्यतद्पत्यरहितस्त्रीधनं भर्ता गृह्णीयादित्याह**मनुः** ( ९. १९६)
-
-
 
 **ब्राह्मदैवार्षगान्धर्वप्राणाप्रत्येषु यद्धनम्।**
 
@@ -13816,8 +12876,6 @@ Bibliography (of works referred to).
 
  **चतुर्षु** इत्युपलक्षणम्। गान्धर्वविवाहेऽपि भर्तुः स्त्रीधनग्राहकत्वस्य**मनुना**भिधानात् ( ९. १९६ )। आसुरादिविवाहेषु पितृव्यादिबन्धुलिन्नं ( दत्तं ? ) तैरेव ग्राह्यं तेषामभावे भर्त्रेत्याह **कात्यायनः**(९१८) बन्धुदत्तं तु बन्धूनामभावे पुत्रगामि ( भर्तृगामि ? ) तत् —इति। शुल्काख्यं स्त्रीधनं सोदरा एव गृह्णीयुः। तद्भावे माता गृह्णातीत्याह **गौतमः** ( गौ. धर्मसूत्र २८.२३) –भगिनीशुल्कं सोदर्याणा-
 
-
-
 मूर्ध्वं मातुः —इति। यत्तु–स्वं च शुल्कं, तोढा इति **शङ्ख**वचनं तद्विवाहात्प्राङ्मृतायां द्रष्टव्यम्। अत एव **याज्ञवल्क्यः** (२.१४६)
 
 **मृतायां दत्तमादद्यात्परिशोध्योभयैव्ययम्।** इति।
@@ -13852,8 +12910,6 @@ Bibliography (of works referred to).
 **प्रहरन्ते कृतपणास्तं वदन्ति समाह्वयम्॥**
 
 ** आदि**शब्देन मल्लादीनां ग्रहणम्। **मनु**रपि ( मनु ९. २२३ )
-
-
 
 **अप्राणिभिर्यत्क्रियते बल्लोके द्यूतमुच्यते।**
 
@@ -13901,8 +12957,6 @@ Bibliography (of works referred to).
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **NOTES.**
 
  N. B. Br**.** stands for the edition of the fragments of Bṛhaspati collected together by Rao Bahadur Prof. K. V. Rangaswami Aiyangar published in the Gaekwad's Oriental Series. Kalpataru stands for the edition of that part of the work on Vyavahāra which is being edited by the same learned author and is about to be published in the same series.
@@ -13922,8 +12976,6 @@ Bibliography (of works referred to).
 **P.5** निरन्वयं रक्षिजनरहितमिति मेधातिथिना व्याख्यातम् –The editions of both Mandlik and Gharpure do not exhibit this explanation.
 
 **P.6** बृहस्पतिः – दुर्गमध्ये०– vide Br. p. 8 verses 45–47,
-
-
 
 **P.7** सप्राड्विवाकः....धर्मतः– व्यवहारतत्त्व p. 198 reads सप्राड्...पुरोहितः। स्वयं स राजा चिनुयात्तेषां जयपराजयौ॥
 
@@ -13957,8 +13009,6 @@ Bibliography (of works referred to).
 
 **P.12** धर्मशास्त्र... स्मृतः –The व्यवहारतत्त्व p. 12 explains: युक्तिर्न्यायः, स च लोकव्यवहार इति व्यवहारमातृका,
 
-
-
 **P.13** केवल... विचारयेत् –Thesh occur in Br. pp. 19–20 114, 116–117. The story of माण्डव्य is referred to in कौटिल्य's अर्थशास्त्र IV. 8, in आदिपर्व 63. 92–93. Vide H. of Dh. vol. III p. 255 for other references to माण्डव्य. The verses चोरोऽचोरोand असत्याःare very similar to नारद ( व्यव. मातृका I. 42 and 71).
 
 **P.14** देशजातिकुलानां… दमार्हकाः–These are Br. p. 21 verses 126 (latter half)–130 In some digests (such as the कल्पतरु p. 21, व्यव. नि. p. 16, व्यव. अ. p. 22 ) a half line is added before अनेनकर्मणाviz खशजाताः प्रगृह्णन्ति ( Or खशजाः ) भ्रातृभार्यामभर्तृकाम् कल्पतरु ( P. 21 ) reads पूर्वे for सर्वे. अनेन कर्मणा... दमाईकाः–This is variously interpreted. The मदरत्न holds that in the respective countries those following the special usages are neither liable to undergo penances nor punishment by the king.व्यव.प्र.p. 22 refers expressly to these views of the मदरत्न and gives its own opinion that there is no punishment by the king, but a penance is necessary for other worldly purposes. Vide व्यव. म. p. 7 where the view of the मदरत्न is referred to as 'यत्त्वत्र प्रायश्चित्तादिस्मरणं तदेतद्वाक्यानुपात्तदेशपरमिति केचित्'.
@@ -13974,8 +13024,6 @@ Bibliography (of works referred to).
 **P.16** यस्याभियोगं–This is Bṛ. p. 23 verse 141.
 
 **P.17** उत्पादयति यो हिंसां – The स्मृतिच. II p. 34 ascribes this verse to व्यास.
-
-
 
 **P.18** माधवीये तु – vide परा. मा. III. p. 48, where, however, the printed text has दुर्देशो०
 
@@ -13998,8 +13046,6 @@ Bibliography (of works referred to).
 **P.24** नैव रिक्थी.. चैवान्यत्र वासिनः – व्यव. प्र. p. 43 reads अत्यन्तवासिनः and explains 'नैष्ठिकब्रह्मचारिण इति मिताक्षरादिषु' and then (p. 44 ) refers to the explanation of अन्यत्रवासिनः as read by the मदनरत्न.
 
 **P.26** The printed कल्पतरु ( p. 80 ) reads अदेशं यश्च दिशति and explains 'अदेशो यत्रार्थिप्रत्यर्थिनौ न तस्मिन्काले स्थितौ' which does not tally with what is stated in the text as the view of the कल्पतरु. The स्मृतिच.II p. 48 explains अदेश्यं as 'निर्णयसमयासम्भविनं साक्षिणं यो निर्दिशति'.
-
-
 
 **P.26** सन्ति ज्ञातार इत्युक्त्वा –The printed editions of मनु ( 8. 57 ) read साक्षिणः सन्ति मेत्युक्त्वा. The कल्पतरु reads सन्ति ज्ञातार इत्युक्त्वा as in the text The व्यव प्र. p. 75 remarks : सन्ति ज्ञातार इत्युक्त्वेति कल्पतरुलिखितस्त्वनाकर एवाचार्यमेधातिथिभ्यामभृतत्वादिति ध्येयम्. But it may be noted that even so early a writer as नारद ( व्यव. मातृकाI. 61 ) reads 'सन्ति ज्ञातार इत्युक्त्वा'. Jha's ed. reads ज्ञातारः... मेत्युक्त्वा.
 
@@ -14024,8 +13070,6 @@ Bibliography (of works referred to).
 
 **P.34** चिरन्तनोपांशु –This is Br. p. 48 verse 21 which reads प्रदुष्टेष्वनुमानेषु which is the reading in परा. मा. III. p. 90.
 
-
-
 **P.35**लिखिते... दिव्यं विशोधनम् –This is Br. p. 47 verse 17 and नृप...क्रियाम् is Br. p. 47 verse 14.
 
 **P.35**प्रक्रान्ते... काम्यया –These two are Br. p. 48 verses 19–20. They are ascribed to कात्यायन by परा. मा. III. p. 91 and the first is ascribed to कात्याby अपरार्क p. 629 and ऋणे लेख्यं साक्षिणो वा to कात्याby व्यव. नि. p. 73 and स्मृतिच. II. p. 51.
@@ -14044,8 +13088,6 @@ Bibliography (of works referred to).
 
 **P.40** आप्ताः शिष्टा विवुद्धा ये –व्यव. प्र. p. 111 notices the explanation of विबुद्धाःgiven by the मदनरत्न and offers its own explanation 'विबुद्धा विवादविषयीभूतार्थज्ञानवन्तः शास्त्रार्थज्ञानवन्तश्च। मतिबुद्धिपूजार्थेभ्यश्च इति कर्तरि क्तः।'
 
-
-
 **P.42**न साक्षी नृपतिः कार्यः– VideH. of Dh vol. III p. 336 n. 495 for the English law about a sovereign being cited as a witnesa.
 
 **P.42** दासनैकृतिकाश्रद्ध- The printed नारद reads अश्राद्ध, which is explained as न श्राद्धमर्हतीति by the com.
@@ -14059,8 +13101,6 @@ Bibliography (of works referred to).
 **P.43–44** Out of these eight verses five are found in the printed नारद and the verses श्रोत्रियाद्या वचनतः, स्वयमुक्तिरनिर्दिष्टः, स्मृतिमत्साक्षिसाम्यं तु are not in it.
 
 **P.46** 1.19.ff –कथितेऽभिहिते... स्मरत – This is a metrical वार्तिक on अकथितं च ( पाणिनि I. 4. 51 ). Vide Kielhorn's ed. of the महाभाष्य vol. I p. 335.
-
-
 
 **P.47** साक्षिणां लिखितानां च –व्यव. प्र. p. 115 cites the explanation of this verse given by the मदरत्न and disapprover of it.
 
@@ -14083,8 +13123,6 @@ Bibliography (of works referred to).
 **P.52**त्वरमाण इवाविद्धं –स्मृतिच. II p. 85 and परा. मा. III p.107 read इवात्यर्थं, while व्य. म. p. 40 and व्यव. प्र. p.124 read इवावद्धंand the latter notes that मदनरत्न read इवाविद्धम्.
 
 **P.53** देवब्राह्मण etc.–These three verses are कात्या०344, 342, 343. The first two are quoted as कात्यायन's by the मिता. on या. II. 79. कल्पतरु p. 124, व्यव. वि. p. 111–112 and परा. मा. III. p. 107–108, 111 ascribe them to मनु. व्यव. प्र. p. 125 ascribes all three to कात्यायन and व्य. म. p. 40–41 ascribes to both मनु and कात्या.
-
-
 
 **P.53** वधे चे...च्छिवसंनिधौ–This is the reading of कल्पतरु p. 136, व्य.म. p. 41, व्य. म. p. 125 and others, but परा. म. III p. 113 reads शबंसनिधौ, which is decidedly preferable. But the weight of authority is against it and it is probably an emendation.
 
@@ -14110,8 +13148,6 @@ Bibliography (of works referred to).
 
 **P.63**भ्रातरः संविभक्ता ये –These are Br. pp. 60-61 verses 11–17 ( with variations).
 
-
-
 **P.64** अभिशापे समुत्तीर्णे–This verse and the next are ascribed to पितामह by परा. मा. III. p. 128 and the first is aseribed to हारीत by स. वि. P. 116.
 
 **P.66** दत्त्वा भुम्यादिकं राजाetc.–These seven verses are Br. pp. 62–63 verses 20–26 (with slight variations). The स्मृतिच. II p. 56, परा. मा. III p. 120 and a few others read सर्वभाव्यविवर्जितम्. भाव्य or आभाव्य means a tax. Vide अपरार्कpp. 792, 794 ( where it says :) and Madhuban plate in E. I. vol. I P. 67 ( which has सर्वराजकुलाभाव्यप्रत्यायसमेतः ). Most of the copperplate and stone inscriptions from the 5th century A. D. onwards are composed in almost literal conformity with these rules of Bṛhaspati. Vide, for instance, the Chammak copperplate of महाराज प्रवरसेन II (Gupta Inscriptions by Fleet p. 235) and the Madhuban inscription of Emperor Harşa ( E. I. vol. I p. 67), where we meet with the words चन्द्रार्कक्षितिसमकालीनः and पितुः मातुः पुण्ययशोभिवृद्धये. The verse षष्टिं वर्षसहस्राणि स्वर्गे मोदति भूमिदः occurs in Gupta inscriptions (p. 265). Vide text pp. 234 and 292 for
@@ -14119,8 +13155,6 @@ Bibliography (of works referred to).
 **P.67** दानाच्छेदोपवर्णनम्–For verses praising the continuance of gifts made by former kings and condemning their resumption, vide H. of Dh. vol. II ( appendix), pp. 1272-1277 verses 2-4, 14, 25-26, 39.
 
 **P.68** षष्टिवर्षसहस्राणि– Vide H. of Dh. vol. II p. 1272 (appendix) verse 2 and note thereunder which gives references to ancient inscriptions wherein the verse—षष्टिं वर्षसहस्राणि स्वर्गे मोदति भूमिदः। आच्छेत्ता चानुमन्ता च तान्येव नरकं व्रजेत्॥ –occurs and is ascribed to व्यास.
-
-
 
 **P.70** स्वात्मना... कल्पतरौ – Vide p. 162 of कल्पतरु. अपरार्क (p. 687 ) and स्मृतिच. II. p. 61 read as in the text.
 
@@ -14158,8 +13192,6 @@ Bibliography (of works referred to).
 
 **P.79**सभ्यवाहन० –The text of नारद ( ऋणांदान 248 as printed ) reads सत्यं वाहनशस्त्राणि and the मिता. on या. II p. 96, स्मृतिच. II. p. 96, व्यव. प्र. p. 170 also read सत्यं वाहन.
 
-
-
 **P.81** I.1 अवर्णोऽपवादः – अपवाद means निन्दा.
 
 **P.81** I.10 तेनैव –This refers to पितामह and not कात्यायन. Vide व्यव. प्र. p. 173.
@@ -14186,8 +13218,6 @@ Bibliography (of works referred to).
 
 **P.86**11. 8 – 9 माधवीये–Vide परा. मा. III. p, 161, where the verse सव्रतानां is ascribed to पितामह स्मृतिच. II. 103 also does the same.
 
-
-
 **P.86**I. 17 वर्णानामन्त्यः... कल्पतरुकुारः –Vide p. 205 of the कल्पतरु.
 
 **P.86**क्लीबान्नरान्० All these verses are quoted as from नारद by कल्पतरु pp. 205–206 ( except स्त्रीणां तु ), व्यव. प्र. p. 177–78, व्यव. म. pp. 47–48, स्मृतिच. II p. 103, परा. मा. III pp. 159–160 ( except निरुत्साहान् ).
@@ -14212,8 +13242,6 @@ Bibliography (of works referred to).
 
 **P.94** I. 11 समुच्चय इत्यपरे –When the consequence of doing certain things or repeating certain मन्त्रऽ are invisible (अदृष्ट ) there is समुच्चय of them. Vide जै. XII. 4. 1. The व्य. म. p. 57 takes the view of समुच्चय of the सौम्य and वानस्पत्य मन्त्रऽ.
 
-
-
 **P.94**II. 12–14 वानस्पत्यस्य बाधशङ्का मा भूदित्येतदर्थम् –The general rule of the मीमांसा is अतिदिष्टानामुपदिष्टैर्बाधः यथा कुशानां शरैः. Compare जै. X. 2. 39–40, X. 8.8–6. The व्यव. प्र. (pp. 186–187 ) contains the very words of the मदनरत्न viz. 'वानस्पत्यस्य... तस्य बाध'.
 
 **P.94** II.21–22 अक्षकाष्ठं स्मृतिचन्द्रिकाकारः Vide स्मृतिच. II. p. 105 for the view.
@@ -14231,8 +13259,6 @@ Bibliography (of works referred to).
 **P.100** यत्तु कक्षच्छेदे... स्मृत्यन्तरवचनं –व्यव. प्र. p. 193 ascribes this verse to बृहस्पति. It occurs without name in व्यव. नि. p. 155.
 
 **P.101** अष्टमं सर्वदेवतम्। ... पर्युक्षितानि च॥ – व्य. म. p. 69 mentions this reading of the मदनरत्न,
-
-
 
 **P.101** Il. 13–14 सावित्रं त्वष्टमं... चार्यैः– vide मिताक्षरा on या. II 106.
 
@@ -14255,8 +13281,6 @@ Bibliography (of works referred to).
 **P.109**II. 13 ff पूर्वमीमांसाधिकरणविरोधः–The reference is to Jai IV 3, 29 – 31 and IV. 3. 40–41. बृहस्पतिसव is  
 .
 
-
-
 an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–41 Śabara quotes 'अग्निं चित्वा सौत्रामण्या यजेत वाजपेयेनेष्ट्वा बृहस्पतिसवेन यजेत' and arrives at the conclusion that although the Vājapeya is performed in s'arad the Bṛhaspatisava, an anga of Vājapeya, is not performed in śarad, but in its own proper season viz. Vasanta, Here the औपदेशिकः (expressly stated) time for वाजपेय is शरद् and for बृहस्पतिसव as an anga of Vājapeya that is the औपदेशिक काल, while the time for an independent बृहस्पतिसव is वसन्त and when बृहस्पतिसव is only made an anga of वाजपेय,वसन्त would be an ef time for it. The general rule is 'औपदेशिकेन आतिदेशिकस्य बाधः'. But here that rule does not apply. The termination त्वा( in इष्ट्वा) does not convey the idea of immediate succession in time but only priority in time. वाजपेय is performed before बृहस्पतिसव, that is all. The latter is to be performed in spring following the sarad in which वाजपेयwas performed. शबर on XI. 3. 48 states क्त्वा तावत्पूर्वकाल एव स्मर्यते. Vide टुप्टीका on जै. V. 1. 1. p. 1288.
 
 **P.113**I. 3 अनयो ... विकल्पः – Vide जै. XII. 3. 10 एकार्थास्तु विकल्पेरन् समुच्चये ह्यावृत्तिः स्यात्प्रधानस्य.
@@ -14264,8 +13288,6 @@ an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–
 **P.113** II. 9–10 सदसच्च– व्यव. प्र. 206 reads तदादिशस्वइति.
 
 **P.113** अप्सु प्रवेश्य–This half verse is Br. p. 88 verse 62.
-
-
 
 **P.II6**II. 12–14 शार्ङ्गणं... सम्बन्धः–These words occur verbatim in व्यव. प्र. p. 209
 
@@ -14295,8 +13317,6 @@ an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–
 
 **P.126**जीवदानादिकैर्मन्त्रः– Vide शारदातिलक 23.72–76 for directions about these *mantras* prescribed for the
 
-
-
 प्राणप्रतिष्ठा of images and the देवप्रतिष्ठातत्त्व ( p. 506 ) of रघुनन्दन where the शारदातिलक is quoted and explained. The व्यव. म.p. 86 and व्यव. प्र. p. 219 (which quotes both शारदातिलकand Ṛg. X. 57) also mention the प्राणप्रतिष्ठा mantras.
 
 **P.126** गायत्राद्यैश्च सामभिः– गायत्र is a Saman based on the sacred Gayatri verse. Vide  
@@ -14317,8 +13337,6 @@ an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–
 **P.129** मध्ये यत्स्थापितं - This verse is ascribed to नारद by the स्मृतिच. II. p. 120 and परा. मा. III. pp. 119–200, but to कात्या by व्यवहारसार p. 101.
 
 **P.130** दण्डस्य द्वैविध्यमाह नारदः –The readings in नारदपरिशिष्ट differ a good deal.
-
-
 
 **P.131** चतुर्णामपि वर्णानां – This is ascribed to कात्यायन by परा. मा. III. p. 208. It is almost the same as मनु IX. 236 ( चतुर्णामपि चैतेषां प्रायश्चित्त०)
 
@@ -14349,8 +13367,6 @@ an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–
 **P.137** 11. 6–7 स्मृति चन्द्रिकायां तु... कायिकेत्युक्तम्–This is found in स्मृतिच. II p. 154.
 
 **P.138** शिखेव –This is Br p. 101 verse 13.
-
-
 
 **P.138** II. 7–9 कल्पतरौ तु –Vide कल्पतरु p. 285 for the same. व्यव. प्र. p. 227 notices the reading and the explanation of कल्पतरु.
 
@@ -14384,8 +13400,6 @@ an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–
 
 **P.149** क्षेत्रमेकं द्वयोर्बन्धे –This is Br. p. 106 v. 44.
 
-
-
 **P.150** 1. 18–19 कालकृतः... परनिपातः – In the सूत्र 'निष्ठा' (पा. II.2.36 ) the first वार्तिक is 'निष्ठायाः पूर्वनिपाते जातिकालसुखादिभ्यः परवचनम्'. The महाभाष्य gives such examples as शार्ङ्गजग्धी, मासजाता. क्त–क्तवतू निष्ठा। पा. I. 1. 26.
 
 **P.150** हिरण्ये द्विगुणीभूते – These are Br. p. 107 verses 48–49.
@@ -14409,8 +13423,6 @@ an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–
 **P.158** 1.4 एकच्छायाश्रितेषु –Those who are jointly and severally liable for the debt.
 
 **P. 158**11. 12–14 स्मृतिचन्द्रिकायां तु –Vide स्मृतिच. II p. 152. The व्यव. प्र. p. 252 refers to the reading presented by the स्मृतिच, states the latter's explanation of it and quotes the explanation of परर्णं given by the मदनरत्न. 'स्मृतिचन्द्रिकायां तु एक... बृहस्पतिः इति पठित्वा इत्थं व्याख्यातम्। तथाहि सर्वं परर्णमपि न पित्रंशमात्र-
-
-
 
 मित्यर्थः। न तु सर्वं सवृद्धिकमिति व्याख्येयम्।... परर्णमन्येषां प्रतिभुवामंशमिति मदनरत्ने.
 
@@ -14442,8 +13454,6 @@ an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–
 
 **P.169**ततः कोटिशते –The printed नारद reads : कोटिशते तु संपूर्ण जायते तस्य वेश्मनि। ऋणसंशोधनार्थाय दासो जन्मनि जन्मनि॥
 
-
-
 **P.170** ऋणामात्मीय–This is Br. p 117 v. 114
 
 **P.170** अतः पुत्रेण जानते –This verse does not occur in the printed नारद but it is cited as नारद's in परा. मा, III p. 262, व्यव. नि. p. 264, व्यव. प्र. p. 263.
@@ -14468,8 +13478,6 @@ an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–
 **P.178** पितृव्यभ्रातृपुत्र –This is Br. p. 118 p. 121.
 
 **P.179** ऋणं पुत्रकृतं–This is Br. p. 119 v. 124.
-
-
 
 **P.180** पैतृकमविभक्तमातृकं etc. –The printed धर्मसूत्र reads 'पैतृकमृणमविभक्तानां भ्रातॄर्णां च’. व्यव. प्र. p. 274 reads 'पैतृकमविभक्ता मातृकं च । विभक्ताश्च दायानुरूपम्' इति.
 
@@ -14501,8 +13509,6 @@ an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–
 
 **P.190**II. 17–18 एतदप्रक्षालि...चार्याः–vide मिता. on या. II. 179 for this remark.
 
-
-
 **P.190** यदि तत्कायमुदिश्य – This is ascribed to कात्यायन by कल्पतरु p. 348, स्मृतिच. II. p. 183, परा. मा. III. p. 289, व्यव. प्र. p. 288.
 
 **P.192**I. 4 अस्वामि इति पृथक् पदम् –The व्यव. म. p. 195 'अस्वामीति पृथक् पदंक्रियाविशेषणं च' echoes the words of the मदनरत्नप्रदीप.
@@ -14526,8 +13532,6 @@ an independent sacrifice as well as an aṅga of Vājapeya. On Jai. IV. 3. 40–
 **P.197**II. 9–10 प्रमाणहीनवादे... असम्भवात्–This is criticized by the व्य. प्र. p. 293 which relies on the words of the मिता on या. II. 170 'यदा पुनः साक्ष्यादिभिर्दिव्येन वा क्रयं न शोधयति मूलं च न प्रदर्शयति'.
 
 **P.198** उद्दिष्टमेव भोक्तव्यम् –These seven verses are ascribed to नारद in परा. मा. III. p. 301–2, व्यव. प्र. p. 297; the first verse is quoted by the व्यव. म. p. 197.
-
-
 
 They are not found in the printed नारद. उद्दिष्ट means अनुज्ञातं and भुक्तभोगं means भोगानुरूपं भाटकम्. In the last verse परा. मा. reads 'तु द्वे पणे मुनिरब्रवीत्.'
 
@@ -14553,8 +13557,6 @@ They are not found in the printed नारद. उद्दिष्ट means �
 
 **P.202**I.20 तस्य द्वादशशतं दक्षिणा – शबर on जैमिनि x 2.22 and 35 quotes a vedic passage about ज्योतिष्टोम 'गौश्चाश्वश्चाश्वतरश्च, गर्दभश्चाजावयश्च ब्रीहयश्च यवाश्च तिलाश्च 'भाषाश्च तस्य द्वादशशतं दक्षिणा'. ताण्ड्यब्राह्मण xvi. J 10–II contains this passage. The Āp. Śrauta sutra (xiii. 5, 1–xIII. 7. 15) gives numerous rules about the *dakṣiṇā*to be distributed among the sixteen priests required in the Jyotiṣṭoma
 
-
-
 and other similar solemn sacrifices. The Śat. Br. (iv. 3. 4. 3) states that no priest should officiate at a *soma* sacrifice for a fee less than one hundred cows, and that a Soma sacrifice must present not less than one hundred cows as fee (तस्मान्नाशतदक्षिणः सौम्योऽध्वरः स्यात् नो हैवाशतदक्षिणेन यजमानस्यर्त्विक्स्यात् ). Some priests had specific gifts attached to certain ritual actions of theirs. Those were taken by the specific priests and were not distributed among all. The dakṣiṇāmay consist of 7, 21, 60, 100, 112 or 1000 cattle. These were to be divided not equally among the priests but in the manner prescribed by Manu VIII. 210 which is based on vedic passages. Śabara on Jai. X. 3. 55 quotes the following passage from the section on द्वादशाह in which the words अर्धिनः, तृतीयिनः and पादिनः occur : 'अध्वर्युर्गृहपतिं दीक्षयित्वा ब्रह्माणं दीक्षयति तत उद्गातारं ततो होतारम् । ततस्तं प्रतिप्रस्थाता दीक्षयित्वार्धिनो दीक्षयति।... ततस्तं नेष्टा दीक्षयित्वा तृतीयिनो दीक्षयति।... ततस्तमुन्नेता दीक्षयित्वा पादिनो दीक्षयति l'. Vide H, of Dh. vol. II. p. 981 note 2228 and pp. 1188–1189 for the four principal priests and the three assistants of each of the four principal ones and for the distribution of daksina.
 
 **P.203** रथं हरेदत्थाध्वर्यः–This is Br. p. 132 v. 19. The व्यव. प्र. p. 301 attributes this verse to both and बृहस्पति.
@@ -14562,8 +13564,6 @@ and other similar solemn sacrifices. The Śat. Br. (iv. 3. 4. 3) states that no 
 **P.203**. II. 6–7 निविद्वरम्etc. –These words are repeated in व्यव. प्र. p. 301.
 
 **P.203** II. 11–13 The कात्यायनश्रौतसुत्र x. 2. 25 taking the dakṣiṇāto be one hundred cows distributes them as stated in the text. Nearly half i.e.
-
-
 
 48 are shared equally by the four principal priests होता, अध्वर्यु, उद्गातृ and ब्रह्मा, each taking 12, The whole, passage of the मदनरत्न in Il. II–16 is taken verbatim in the व्यव. प्र. p. 301.
 
@@ -14584,8 +13584,6 @@ and other similar solemn sacrifices. The Śat. Br. (iv. 3. 4. 3) states that no 
 **P.206** हर्म्यं देवगृहं वापि etc. –This is Br. p. 136 1t is variously read. परा. मा. III. p. 310 reads धार्मिको यत्पुराणि च. अपरार्क p. 838, व्यव. म. p. 201, कल्पतरु p. 371 read धार्मिकोपस्कराणि च ( utensils and paraphernalia for religious worship ). The reading चार्मिकोपस्कराणि (articles manufactured from leather ) which occurs in the printed edition of the स्मृतिच. II p. 187, व्यव. नि. p. 286, वि. र. p. 125 is bad, particularly when in juxtaposition with हर्म्यं and देवगृहम्.
 
 **P.206** स्वाम्याज्ञया तु –This and the next verse are Br. p. 136, verses 38–39.
-
-
 
 **P.207** सामान्यं पुत्रदारादि– This is Br. p. 137 v. 2.
 
@@ -14609,8 +13607,6 @@ and other similar solemn sacrifices. The Śat. Br. (iv. 3. 4. 3) states that no 
 
 **P.215** विद्या त्रयी– This is Br. p. 141 v. 6.
 
-
-
 **P.215** विज्ञानमुच्यते – This is Br. p. 142 v. 7.
 
 **P.217** यो भुङ्क्ते– These are Br. p. 142 verses 8– 9.
@@ -14628,8 +13624,6 @@ and other similar solemn sacrifices. The Śat. Br. (iv. 3. 4. 3) states that no 
 **P.220** II. 14– 15 प्राभवत्यात्... वचनादञ्. प्राभवत्यis derived by मेधातिथि and some others from प्रभवत् (present participle of भू with प्र ). The व्यव. प्र. p. 319 remarks प्रभवतो भावः प्राभवयं तस्मात् प्रभुत्वादित्यर्थः । साधारणादिभ्यः स्वार्थे ष्यञ् वक्तव्यः – इति वार्तिकात् ष्यञ् ।'. I am unable to find this वार्तिक. There is a वार्तिक 'आग्नीध्रसाधारणादञ्' on पा. V. 4. 36 'तद्युक्तात्कर्मणोऽण्'. The editor of the व्यव. प्र., however, remarks that it is proper to derive it under पाणिनि V. 1. 124 " गुणवचन– ब्राह्मणादिभ्यः कर्मणि च' इत्यनेन भावे ष्यञ् इत्येव सुवचम्".
 
 **P.224** ततः प्रभृति – This verse is not found in the printed नारदस्मृति; but it is ascribed to नारद by कल्पतरु p. 393, स्मृतिच० II. 201, वि. र. p. 149, व्यव. म. p. 2II, व्यव. प्र. p. 322, व्यव. नि. p. 308. कल्पतरु, वि. र. read भोज्यान्नश्च प्रतिग्राह्यः; स्मृतिच, व्यव. म. and व्यव. नि. read भोज्यान्नोऽथ प्रतिग्राह्यः, while व्यव. प्र. reads 'भोज्यान्नोऽप्यतिग्राह्यः' This last would mean that, though
-
-
 
 after manumission, the former master may eat at his house he cannot accept gifts from him. The reading प्रतिग्राह्यः seems to be better.
 
@@ -14656,8 +13650,6 @@ after manumission, the former master may eat at his house he cannot accept gifts
 **P.233** गृहीत्वा वेतनं –In the printed मत्स्यपुराण the latter half is वेतनं द्विगुणं दद्याद्दण्डं च द्विगुणं तथ॥ . It may be noted that in अपरार्क p. 800 the 2nd half is: तां धनं दापयेद्दद्यादनूढस्यापि भाटकम्.
 
 **P.233**II. 22–24 पाषण्डाः... विज्ञानेश्वराचार्याः–These are repeated in व्यव. प्र. p. 331 which notes that the मदनरत्न explained नैगमाः as सार्थिका वणिजःSee मिता. on या. II. 192 for विज्ञानेश्वर's explanation of नैगमाः,
-
-
 
 **P.234**I. 3 विषं भुंक्ष्वेतिवृद्विपरीतलक्षणया – A man may say विषं भुंक्ष्व मा चास्य गृहे भोजनं कुरु.
 
@@ -14689,8 +13681,6 @@ after manumission, the former master may eat at his house he cannot accept gifts
 
 **P.240** मुख्यैः सह etc. –This is Br. p. 153 v. 20.
 
-
-
 **P.241** ततो लभ्येत – This and the next are Br. p. 154 verses 23–24.
 
 **P.241** यत्तैः प्राप्तं –This is Br. p. 154 v. 25.
@@ -14715,8 +13705,6 @@ after manumission, the former master may eat at his house he cannot accept gifts
 
 **P.249** मत्तोन्मत्तेन–This is ascribed to बृहस्पति by कल्पतरु p. 432, परा. मा. III. p. 370, स्मृतिच० II. p. 220,
 
-
-
  वि. र. p. 191, व्म्व, नि. p. 343; while स. वि. p. 312 ascribes it to कात्यायन.
 
 **P.250** तथा धेनुभृतः–This half verse is Br. p. 147 v. 14.
@@ -14734,8 +13722,6 @@ after manumission, the former master may eat at his house he cannot accept gifts
 **P.253**I. क्वचिदङ्कादि दर्शयेदिति पाठः–Vide कल्पतरु p. 418 for that reading. व्यव. प्र. p. 348 refers to both these readings. The व्यव. म. p, 219 has 'अङ्कः शृङ्गादीति मदनः .
 
 **P.254 I**. 10 प्रचुरकण्टकसन्तानो... केचित् –The मिता. on या. II. 167 offers this explanation of खर्वट and परा. मा. III. p. 377 also does the same. The व्यव. प्र. p. 349 mentions the explanations of a given by the मदनरत्न and also by the परा. मा. The
-
-
 
 words परीणाहशब्देन ( pr 25 4 1 7 ) ... मित्यर्थः ( 1 9 ) occur verbatim in व्यव. प्र. p. 349,
 
@@ -14773,8 +13759,6 @@ words परीणाहशब्देन ( pr 25 4 1 7 ) ... मित्य�
 
 **P.268** ज्ञातृचिह्रैर्विना – These are Br. p. 164 verses 33–34.
 
-
-
 **P.269** शेषाश्चेदनृतं – This yerse is not found in the printed नारदस्मृति.
 
 **P.270** मौलवृद्धादयश्चान्ये –नारद ( क्षेत्रजविवाद v. 8 ) is गणवृद्धादयस्त्वन्ये.
@@ -14800,8 +13784,6 @@ words परीणाहशब्देन ( pr 25 4 1 7 ) ... मित्य�
 **P.281** देशग्रामकुलादीनां –These three are Br. p. 169 verses 2–4.
 
 **P.281**1.9 द्रव्यं विना–व्यव. प्र. p. 281 mentions the explanation given by the मदरत्नand that given by the कल्पतरुः'द्रव्यं विनेत्यत्र द्रव्यशब्दोऽभिधेयपरः। तेनोच्यमानार्थव्यतिरेकेणैवंविधमभिधानं वाक्पारुष्यमिति कल्पतरौ। द्रव्यं विना द्रव्यवैशिष्ट्यं विनेति मदनरत्ने'. अपरार्क p. 806 gives the same explanation as the कल्पतरुand in the same words. The स्मृतिच० II. p. 6 says 'द्रव्यं विना द्रव्यवैशिष्ट्यं विनेत्यर्थः'. The व्यव. म. p. 227 explains 'द्रव्यवैशिष्टयं विना केवलं वाक्कृतमेवेत्यर्थः. Vide कल्पतरु p. 473.
-
-
 
 **P.281** पारुष्यदोषा०–This is नारद, ( दण्डपारुष्य verse 8 ) and is quoted as such by the मिताon या. II. 212.
 
@@ -14833,8 +13815,6 @@ words परीणाहशब्देन ( pr 25 4 1 7 ) ... मित्य�
 
 **P.294** सर्वस्वं हरतो नारीं –The first half occurs in नारद परिशिष्ट ( v. 28 ) but the latter half ( वाजि ... बृहस्पतिः ) does not occur therein. This last means 'सर्वस्वमाददीत'. The वि. र. p. 316 reads वाजिवारणबालानां and appears to ascribe the half verse to व्यास.
 
-
-
 **P.295** प्रदाप्यापहृतं –This half verse is Br. p. 179 v. 5 ( latter half).
 
 **P.296** संसर्गचिह्न– This half verse is Br. p. 179 v. 5 ( first half ).
@@ -14856,8 +13836,6 @@ words परीणाहशब्देन ( pr 25 4 1 7 ) ... मित्य�
 **P.301** 11. 16–18 आत्मरक्षणाद्यर्थं... विज्ञानेश्वराचार्यकृता व्यवस्था – Vide the मिता. on या. II. 21 where the conclusion established is ‘अतश्च ब्राह्मणादय आततायिनश्च आत्मादित्राणार्थं हिंसानभिसन्धिना निवार्यमाणाः प्रमादाद्यदि विपद्येरंस्तत्र लघुप्रायश्चित्तं राजदण्डाभावश्चेति निश्चयः'.
 
 **P.301** 1. 19, p. 30215 – स्मृतिचन्द्रिका II. 315 quotes the three verses as देवल's and remarks 'भ्रूणमपि ब्राह्मणमपि दण्डापूपन्यायाद्गामप्याततायिनमात्मपरित्राणायावश्यं हन्यादित्यर्थः'. The verse आत्मत्याग is ascribed to देवल by व्यव. नि. p. 519; while the verse उद्यम्य शत्रis
-
-
 
 ascribed to गालव by व्य. म. p. 242 and to देवल by व्यव. प्र. p. 20.
 
@@ -14891,8 +13869,6 @@ ascribed to गालव by व्य. म. p. 242 and to देवल by व्
 
 **P.312** परदाराभिमर्शे तु –This verse and the following half are ascribed to वृहस्पति by व्यव. म. p. 249 and to मनु by व्यव. नि. p. 400. They are मनु 8. 352 and 359 ( first half) with a variant reading viz, 'भिमर्शेषु प्रवृत्तान्नृन्महीपतिः.
 
-
-
 **P.312** 11. 17–20 मदमोहितेति... चन्द्रिकाकारः –Vide स्मृतिच०II. p. 323 which says “मदमोहितेति वदन् वधदण्डस्यासार्वत्रिकत्वमिति दर्शयति तेन 'नार्याः कर्णादिकर्तनम्' इति प्रागुक्तो दण्डो रागादत्यन्तासक्तविषय इति गम्यते। अत्यन्तासक्तिरहितविषये तु न शारीरो दण्डः। संव्यवहारार्थं 'यत्पुंसः परदारेषु तच्चैनां चारयेद्व्रतम्' इति प्रायश्चित्तविधानात्"।
 
 **P.312** गृहमागत्य या नारी–This is Br. p. 191 v. 16.
@@ -14919,8 +13895,6 @@ ascribed to गालव by व्य. म. p. 242 and to देवल by व्
 
 **P.323** 1. 12 विदितोऽर्थागमः शास्त्रे यथावर्णं पृथक् पृथक् –The व्यव. प्र. p. 416 notes that the स्मृतिच. ( II. p. 257 ) read
 
-
-
 यथावर्णं, while the मदनरत्न read तथावर्णि पृथक् पृथक्. But all our three mss. read यथावर्णम्.
 
 **P.324** II. 12–13 धारेश्वरभट्ट–It is somewhat amusing that धारेश्वर who is no one else than king Bhoja is styled धारेश्वरभट्ट by the मदनरत्न, धारेश्वराचार्य by the व्यव. म. p. 89 and धारेश्वरसूरि by the स्मृतिच. II. p. 257.
@@ -14934,8 +13908,6 @@ ascribed to गालव by व्य. म. p. 242 and to देवल by व्
 **P.325** 1. 19 भट्टमतानुसारिणि तन्त्ररत्नेऽपि –Vide तन्त्ररत्न ( सरस्वतीभवन series ) part I. p. 19 for the passage. तन्त्ररत्न is a work of पार्थसारथिमिश्र who follows भट्ट ( कुमारिलभट्ट ).
 
 **P.325** II. 12–26 यत्तु कैश्चित्... तदेतन्न सुन्दरमिव प्रतिभाति –Here the मदनरत्न criticizes the view of विज्ञानेश्वर in the मिता on या. II. II4 where occur the words 'विचारप्रयोजनं तु यद्गर्हितेनार्जयन्ति &c.'
-
-
 
 **P.326**I. 1 ये लोकसिद्धाः शब्दास्ते सर्वे सामान्यतो विशेषतो वानुशिष्टा एवेति –compare' महाभाष्य 'कथं तहीं शब्दाः प्रतिपत्तव्याः। किंचित्सामान्यविशेषवलक्षणं प्रवर्त्य येनाल्पेन यत्नेन महतो महतः शब्दौघान् प्रतिपद्येरन्’ (ed. by Kielhorn vol. I. p. 7 ).
 
@@ -14952,8 +13924,6 @@ ascribed to गालव by व्य. म. p. 242 and to देवल by व्
 **P.329** II. 1–2 पितुरंशद्वयग्रहण... इति – This is quoted as from the मदनरत्न in व्यव. म. p. 98.
 
 **P.329** II. 2–3 एकशब्दो... पारिजातकारःThe work पारिजात here mentioned seems to be व्यवहारपारिजात and
-
-
 
 not मदनपारिजात as the व्यव. प्र. p. 444 remarks 'व्यवहारपारिजातकार इदं वचनमेवं व्याचष्ट।एकशब्दोऽत्र श्रेष्ठवाचीति'. The दायभाग ( II. 59 p. 48 ) explains एकस्य पुत्रः एकपुत्रः... एक पुत्रश्चौरसः'. The व्यव. म. p. 98 mentions the view of मदरत्नcontained in these lines.
 
@@ -14972,8 +13942,6 @@ not मदनपारिजात as the व्यव. प्र. p. 444 remark
 **P.331** 1. 13 जननीग्रहण... लक्षणम्–This passage is quoted with approval from the मदनरत्न by व्यव. प्र. p. 454.
 
 **P.331** 11. 18–21 - Vide स्मृतिच० II. p. 268 which says : तथा च विभाज्यराशेरतिबहुत्वे निर्धनानामपि जनन्यादीनां न समांशहरणं किन्तु यथास्त्रोपयोगं समांशन्यूनस्यैवांशस्य हरणमित्यपि गम्यते।
-
-
 
 **P.331** यद्येकजाता बहवः –This is Br. p. 199 v. 24. परा. मा. III. p. 503 reads स्वधनैस्तैर्विभक्तव्यं.
 
@@ -15005,8 +13973,6 @@ not मदनपारिजात as the व्यव. प्र. p. 444 remark
 
 **P.338** यत्तु कैश्चिदुक्तं &c. – Vide the मिता. on या. II. 124 where the मिता combats this view and states that the explanation ( of Manu IX. II8 ) given by असहाय, मेधातिथि and itself is better and not
 
-
-
 that of भारुचि. The सु. वि. p. 361 says that the view opposed to that of the मिता. is held by भारुचि, अपरार्क and others.
 
 **P.339** पित्रा सह विभक्ता ये –This verse and the following half verse are Br. p. 204 verses 54–55.
@@ -15031,8 +13997,6 @@ that of भारुचि. The सु. वि. p. 361 says that the view oppose
 
 **P.349**II. 6–7 योगशब्देन. Vide अपरार्क p. 26 quoting two verses from the महाभारत for the meaning of योगक्षेम and my exhaustive note on p. 217 of my edition of the text of the व्यव. म. ( with notes etc. ).
 
-
-
 **P.350** वस्त्रादयोऽविभाज्या यै– The first three verses are Br. p. 203 verses 47, 50–51 and the last half verse is Br. p. 204 v. 52 (latter half). All these verses are found in अपरार्क p. 726, स्मृतिच. II. 277, वि. र. p. 507– 8, परा. मा. III. pp. 564– 565, व्यव. म. p. 130. Some of these also add a half verse viz. योगक्षेमवतो लाभः समत्वेन विभज्यते before प्रचारश्च etc.
 
 **P.351**11. 5– 7 प्रयोज्यशब्देन. The वि. र. p. 507 explains ‘प्रयोज्यं प्रयुक्तमृणमिति हलायुधः। प्रयोज्यं प्रयोगार्हंपुस्तकादि तन्नविभज्येत मूर्खादिभिरिति पारिजातः। शिल्पार्थं तूलिकादि'. The दायभाग also ( VI. 28. p. 127 ) explains 'प्रायोज्यं यद्यस्य प्रयोजनार्हं यथा श्रुतादौ पुस्तकादि etc.
@@ -15051,8 +14015,6 @@ that of भारुचि. The सु. वि. p. 361 says that the view oppose
 
 **P.355** विभक्ता अविभक्ता वा – This is quoted by the मिता. on या. II. 114 (without name ) and is ascribed to कात्यायन by अपरार्क p. 737 while मदनपारिजात p. 690,
 
-
-
 परा. मा. III. 316, व्यव. प्र. 562, व्यव. म. p. 136 ascribe it to बृहस्पति and दायभाग II. 27 p. 34 to व्यास.
 
 **P.355** 11. 3– 9 तत्स्थावरेतर... सिध्यत्येवेत्याहुः – The व्यवः म. p. 136 expressly mentions the views of the मदनरत्न and of विज्ञानेश्वर on the verse विभक्ता अविभक्ता वा. The passage (ll. 6 – 9 ) almost word for word is taken from the मिता. on या. II. 114 where it explains the verse विभक्ता अविभक्ता वा.
@@ -15060,8 +14022,6 @@ that of भारुचि. The सु. वि. p. 361 says that the view oppose
 **P.355** येनांशो यादृशो – This half verse and the verse स्वेच्छाकृतare Br. p. 221 v. 149 and p. 220 v. 140 respectively.
 
 **P.356** पितृद्विट्... दपपात्रितः– For अपपात्रितः there are various readings. The printed नारदस्मृति reads औपपातिकः. Some mss of the व्यव. म. p. 163 read अपयात्रितः,others read अपपात्रितः. The व्यव. म. p. 163 expressly mentions the explanation of अपपात्रितः given by the मदनरत्न, disapproves of it and explains अपयात्रितः as 'व्यवसायार्थं नावादिना समुद्रमध्ये द्वीपान्तरं गन्तेति तु युक्तम्। द्विजस्याब्धौ तु नौयातुः शोधितस्याप्यसंग्रहः– इति तस्य कलौ संसर्गनिषेधात। राजद्रोहादौ घटस्फोटबहिष्कारयोरविधानाच्च'. Vide my notes to the व्यव. म. (text) pp. 305– 307 for the various readings and their explanations. The दायतत्त्व ( p. 172 ) says 'कल्पतरुकृता तु औपपातिक इत्यत्र अपपात्रित इति पठित्वा राजवधादिदोषेण बान्धवैर्यस्य घटापवर्जनं कृतमिति विवृतम्'. The स्मृतिच. II. p. 270, वि. र. p. 491, अपरार्क p 720 give practically the same explanation. About seavoyage being prohibited in कलियुग, vide H. of Dh. vol. III. pp. 933–938. The व्यव. म. wrong in its remark राजद्रोहा दौ... रविधानाच्च, as will appear from गौतमधर्मसूत्र 20. 1– 4, मनु XI. 183 – 184 and या. III. 294,
-
-
 
 **P.356** सवर्णाजोऽप्यगुणवान्– This and the following three verses are Br. p. 201 verses 34– 37.
 
@@ -15079,8 +14039,6 @@ that of भारुचि. The सु. वि. p. 361 says that the view oppose
 
 **P.360** 11. 10– 11 प्रत्युत कल्पतरुप्रभृतिषु जङ्गमं स्थावरं हेम... बृहस्पति – वचनत्वेन निबद्धत्वात् – By अपरार्क 741, दायभाग XI. 2 ( p. 150 ), वि. र. p. 596 the two verses जङ्गमं स्थावरं हेम are ascribed to बृहस्पति and not to प्रजापति.
 
-
-
 **P.360** 11. 19– 20 स्थावरं मुक्त्वेलानिधानं... विद्यारण्यश्रीचरणाः – Vide परा. मा. III. p. 536 where on यद्विभक्ते it is remarked 'तदितरदायादानुमतिमन्तरेण स्थावरविक्रयनिषेधपरम्'.
 
 **P.361** मृते भर्तरि – This is ascribed to बृहस्पति by the स्मृतिच. II. p. 292, while व्यव. म. p. 138 ascribes it to कात्यायन and स. वि. p. 411 cites without name,
@@ -15097,8 +14055,6 @@ that of भारुचि. The सु. वि. p. 361 says that the view oppose
 
 **P.364** तथा बृहद्विष्णुः – अपुत्रधनं पत्न्यभिगामि... भ्रातृपुत्रगामि तदभावे सकु- ल्यगामि– The printed text of the विष्णुधर्मसूत्र reads तदभावे वन्धुगामि after भ्रातृपुत्रगामि. अपरार्क p. 741, व्यव. प्र. p. 494 contain these words in the quotation from विष्णु, while they ( तदभावे बन्धुगामि ) are omitted in the व्यव. म. p. 142. The quotation ( अपुत्रधनं &c. ) is cited as वृद्धविष्णु's by the मिता. ( on या. II. 135 ), परा. मा. III. pp. 526, 527, व्यवहारसार p. 252; most works including the मिता. read तदभावे पितृगामि 'तदभावे मातृगामि', but वि. र. p. 601
 
-
-
 and वि. चि. p.151 and दीपकालिका read तदभावे मातृगामि तदभावे पितृगामि . The व्यव. प्र. p. 524 remarks 'तस्मात्स्मृतिचन्द्रिका – मदनरत्नकार – कल्पतरु – रत्नाकर – पारिजातकारप्रभृतीनां बहूनां पितुरभावे मातुः पुत्रधनाधिकार इत्येव सिद्धान्तः।'. The reference to the रत्नाकर in व्यव. प्र. seems to be wrong as in the printed विवादरत्नाकर p. 601 it is expressly stated 'मात्रभावे पित्रधिकारबोधन मनेनेति'.
 
 **P.364** अत एव मनु। अनन्तरः सपिण्डो यस्तस्य &c. The usual reading of मनु IX 187 is अनन्तरः सपिण्डाद्यस्तस्य &c. A great deal of controversy has raged round this latter reading. Vide H. of Dh. vol. III, p. 733– 734 and note 1418 for the various readings and their explanations.
@@ -15112,8 +14068,6 @@ and वि. चि. p.151 and दीपकालिका read तदभाव�
 **P.367** येऽपुत्राः क्षत्रविद्रशद्राः– This is Br. p. 216 v. 119.
 
 **P.368** एवं क्रमशब्दस्य प्रतिलोमक्रमपरत्व... विज्ञानेश्वराचार्यैः– Vide the मिता. on या. II. 137 where it says 'क्रमेण प्रतिलोमक्रमेण'. The व्यव. म. p. 145 quotes the views of both विज्ञानेश्वर and मदन, but does not expressly state which of the two he prefers. From the way, however, in which the two views are stated, it appears that the व्यव. म. prefers the view of मदन. The व्यव. प्र. p. 531 follows the मिता, but mention the view of the मदनरत्न also (p. 532 ).
-
-
 
 **P369** संसृष्टानां तु यः कश्चिद् – This is Br. p. 215 v. II2.
 
@@ -15129,8 +14083,6 @@ p. 533 draw the same conclusion from the verse of बृहस्पति (स�
 **P.371** II. 22-23 किं च मनुवचन... मूलभूतश्रुत्यन्तरकल्पनापत्त्या कल्पनागौरवदोषः प्रादुःष्यात् – This refers to the assumption of all medieval writers that smrtis were to be deemed authoritative because they were based on the Veda. Vide for a discussion of this topic H. of Dh. vol. III. pp. 828– 831.
 
 **P.372** संसृष्टौ यौ etc. – This half verse is Br. p. 214 v. 106. It is quoted by स्मृतिच. II. p. 304, वि. र. p. 608, व्यव. म. p. 150.
-
-
 
 **P.372** 11. 13–14 स्वर्यात्स्यह्यपुत्रस्येति वाक्योपात्तस्यापुत्रस्येति पदस्य...नुषङ्गात्. The व्यव. म. ( p. 147 ll 10 – 15 ) quotes the view of the मदनरत्न and criticizes it.
 
@@ -15149,8 +14101,6 @@ p. 533 draw the same conclusion from the verse of बृहस्पति (स�
 **P.374** या तस्य भगिनी– This is Br. p. 214 v. 108.
 
 **P.375** 11.22– 23 गृहोपस्करादीनां... तच्छुल्कम्. The व्यव. प्र. p. 543 quotes this explanation of the मदनरत्न and contrasts it with that of the मिता'मिताक्षरायां तु यद्गृहीत्वा कन्या दीयते तच्छुल्कमित्युक्तम् .
-
-
 
 **P.376** 11. 5–10 स्थावरेतर... सत्यां शक्तौ दातव्यम् – These views of theमदनरत्नare mentioned in almost the same words by the व्यव. म. p. 154.
 
@@ -15171,8 +14121,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 
 ![](../books_images/U-IMG-1700244110Screenshot2023-11-17233029.jpg)
 
-
-
 **मदनरत्नप्रदीप ( व्यवहारविवेकोहयोत)**
 
 **     स्थानामवतरणानां सूचिः**
@@ -15182,7 +14130,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 **   Index of quotations**
 
   ( **N. B.—**Vedic quotations and Panini's sutras are not included. Half verses when independently quoted are included).  
-
 
 |                           |                            |
 |:-------------------------:|:--------------------------:|
@@ -15211,10 +14158,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |  अच्छलेनैव चान्विष्येत्   |     अथ पञ्चत्वमापन्ने      |
 |      अजाविकं सैकशफं       |  अथ प्रागेव दत्ता स्यात्   |
 |    अजाविकेतु संरुद्धे     |     अथ भ्रातॄणां दाय–      |
-
-
-
-
 
 |                           |                            |
 |:-------------------------:|:--------------------------:|
@@ -15252,10 +14195,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |    अनाख्यातं व्यवहित–     |    अन्ने भूमिवदित्याहुः    |
 |   अनागमं तु यो भुङ्क्ते   |  अन्यक्षेत्रे तु जातानां   |
 
-
-
-
-
 |                             |                           |
 |:---------------------------:|:-------------------------:|
 |           श्लोकाः           |                           |
@@ -15291,8 +14230,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |      अपुत्रस्याथ कुलजा      |     अरुन्तुदः सूचकश्च     |
 |    अपुत्रायां मृतायां तु    |      अर्घश्चेदवहीयेत      |
 |    अपुत्रा योषितश्चैषां     |  अर्ध्यादि पश्चादङ्गानां  |
-
-
 
 |                           |                               |
 |:-------------------------:|:-----------------------------:|
@@ -15330,8 +14267,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |  अविभक्तैः कुटुम्बार्थे   |   अस्वतन्त्रः स्मृतः शिष्यः   |
 |    अविभाज्यं सगोत्रा–     | अस्वतन्त्राः स्त्रियः कार्याः |
 
-
-
 |                            |                           |
 |:--------------------------:|:-------------------------:|
 |          श्लोकाः           |                           |
@@ -15367,8 +14302,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |   आत्मपितृष्वसुः पुत्रा    |    आवाहयेत्ततो देवान्     |
 |   आत्मानं बुद्धिसम्पन्नं   |    आवाह्य तु घटे धर्मं    |
 |  आत्मैव ह्यात्मनः साक्षी   |  आ विद्याग्रहणाच्छिष्यः   |
-
-
 
 |                            |                             |
 |:--------------------------:|:---------------------------:|
@@ -15406,8 +14339,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |      इष्टकाङ्गारसिकता      |       उपश्रवणसम्भोग–        |
 |  इष्टतः स्वामिनाश्चाङ्गेः  |     उपस्थितस्य मोक्तव्य     |
 
-
-
 |                            |                        |
 |:--------------------------:|:----------------------:|
 |          श्लोकाः           |                        |
@@ -15443,8 +14374,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |     ऋणं पैतामहं पौत्रः     |   एकशय्यासनं क्रीडा    |
 |   ऋणं प्रीतिप्रदत्तं तु    |    एकश्चेदुन्नयेत्     |
 |  ऋणं लेख्यं गृहं क्षेत्रं  |    एकस्य बहवो यत्र     |
-
-
 
 |                           |                          |
 |:-------------------------:|:------------------------:|
@@ -15482,8 +14411,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |   ओषधीर्मन्त्रयोगांश्च    |  कामक्रोधास्वतन्त्रात–   |
 |                          | कामात्तु संश्रितां यस्तु |
 
-
-
 |                           |                           |
 |:-------------------------:|:-------------------------:|
 |          श्लोकाः          |                           |
@@ -15519,10 +14446,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |    कुलजे वृत्तसम्पन्ने    | क्रियार्थिना निरुद्धः सन् |
 |      कुलशीलवयोवृत्त–      |   क्रीत्वा गच्छन्ननुशयं   |
 |   कुलश्रेणिगणाध्यक्षाः    |                          |
-
-
-
-
 
 |                                      |                           |
 |:------------------------------------:|:-------------------------:|
@@ -15560,8 +14483,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |     क्षेप्ता तु क्षत्रियः कार्यः     |   गृहीतमूल्यं यः पण्यं    |
 |                                     |    गृहीतमूल्यो गोपाल–     |
 
-
-
 |                            |                            |
 |:--------------------------:|:--------------------------:|
 |          श्लोकाः           |                            |
@@ -15597,8 +14518,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 | ग्रामयोरुभयोर्यत्र मर्यादा |     चिरन्तनोपांशुकृते      |
 |    ग्रामयोरुभयोः सीम्नि    |      चिरावसन्ने दशमं       |
 |       ग्रामसीमासु च        |     चेष्टाभोजनवाग्रोधे     |
-
-
 
 |                            |                             |
 |:--------------------------:|:---------------------------:|
@@ -15636,8 +14555,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |    जातिजानपदान्धर्मान्     |    ततः प्रभृति वक्तव्यः     |
 |      जातिनामाभिलिखितं      |      तत आवाहयेद्देवान्      |
 
-
-
 |                               |                            |
 |:-----------------------------:|:--------------------------:|
 |            श्लोकाः            |                            |
@@ -15673,8 +14590,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |       तदधीनकुटुम्बिन्यः       |    तिर्यग्यवोदराण्यष्टौ    |
 |      तदन्तरा धनं दत्त्वा      |    तीरितं चानुशिष्टं च     |
 |     तदपि त्रिविधं ज्ञेयं      |      तुलाग्न्यपा विषं      |
-
-
 
 |                            |                                     |
 |:--------------------------:|:-----------------------------------:|
@@ -15712,8 +14627,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |   त्रिपक्षाद् विब्रुवन्    |        दत्त्वादत्ते तथादत्ते        |
 |     त्रिभागं पञ्चभागं      |       दत्त्वा द्रव्यमसम्यग्यः       |
 
-
-
 |                                 |                                 |
 |:-------------------------------:|:-------------------------------:|
 |             श्लोकाः             |                                 |
@@ -15749,8 +14662,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |       दासेनोढा त्वदासी या       |      देयं स्वामिनि चायाते       |
 |     दासोऽन्धो बधिरः कुष्टी      |        देवखातेषु यत्तोयं        |
 |    दास्यं तु कारयेल्लोभादू–     |        देवतास्नानपानीय–         |
-
-
 
 |                         |                           |
 |:-----------------------:|:-------------------------:|
@@ -15788,8 +14699,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |   द्यूतमेतत्पुराकल्पे   |   धनस्त्रीहारिपुत्राणां   |
 |   द्यूतं समाह्वयं चैव   |     धनिकेन स्वहस्तेन      |
 
-
-
 |                             |                           |
 |:---------------------------:|:-------------------------:|
 |           श्लोकाः           |                           |
@@ -15825,8 +14734,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |     न कुष्ठ्यसमर्थलोह–      |      न लेखकेन लिखितं      |
 |     न क्षत्रियभूर्देया      |    न लोहशिल्पिनामग्निः    |
 |    नखिनां दंष्टिणां चैव     |   नव पञ्च सप्त वा स्युः   |
-
-
 
 |                             |                             |
 |:---------------------------:|:---------------------------:|
@@ -15864,8 +14771,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |     नासहस्राद्धरेत्फालं     | निश्चेतुं ये न शक्याः स्युः |
 |      नास्तिकवायदाराभि–      |  निष्क्रं सुवर्णाश्चत्वारः  |
 
-
-
 |                           |                                 |
 |:-------------------------:|:-------------------------------:|
 |          श्लोकाः          |                                 |
@@ -15901,8 +14806,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |    पञ्चविंशतिधा कृत्वा    |        परदाराभिमर्शेतु         |
 |    पञ्चाधिकस्य वा नाशे    |         परदाराभिमर्षे च         |
 |                          |        परद्रव्यगृहाणां च        |
-
-
 
 |                             |                             |
 |:---------------------------:|:---------------------------:|
@@ -15940,8 +14843,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |    पश्यतोऽब्रुवतो भूमेः     | पितृमातृपतिभ्रातृज्ञातिभिः  |
 | पाणिग्राहस्य साध्वी स्त्री  |   पितृमातृपतिभ्रातृदत्त–    |
 
-
-
 |                                 |                                  |
 |:-------------------------------:|:--------------------------------:|
 |             श्लोकाः             |                                  |
@@ -15977,8 +14878,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |     पूर्वनष्टां तु यो भूमि–     |      प्रकाशाश्चाप्रकाशाश्च       |
 |       पूर्वपक्षेऽधरीभूते        |       प्रकान्ते साहसे वादे       |
 |     पूर्वप्रवृत्तमुत्सृष्टं     |    प्रक्षिप्य कुम्भेष्वेतानि     |
-
-
 
 |                            |                            |
 |:--------------------------:|:--------------------------:|
@@ -16017,8 +14916,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 | प्रत्यक्षं दापयेद् दिव्यं  |   प्रयोगं कुर्वते ये तु    |
 | प्रत्यक्षचिह्नैर्विज्ञेयो  |      प्रयोजकेऽसति धनं      |
 
-
-
 |                                 |                            |
 |:-------------------------------:|:--------------------------:|
 |             श्लोकाः             |                            |
@@ -16056,8 +14953,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |      प्रेषणं गन्धमाल्यानां      | ब्राह्मणः क्षत्रियो वैश्यः |
 |       प्रोषितस्यामतेनापि        |                           |
 
-
-
 |                             |                             |
 |:---------------------------:|:---------------------------:|
 |           श्लोकाः           |                             |
@@ -16093,8 +14988,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |       भागदानक्रयाधान–       |     भ्रातृणामेकजाताना–      |
 |    भाण्डं व्यसनमागच्छेद्    |  भ्रात्रा पितृव्यमातृभ्यां  |
 |    भाण्डपिण्डव्ययोद्धार–    |  श्रेषश्चेन्मार्गितेऽदत्ते  |
-
-
 
 |                                |                           |
 |:------------------------------:|:-------------------------:|
@@ -16132,8 +15025,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |     मर्यादायाः प्रभेदे तु      |      मिथः सङ्घातकरणं      |
 |                               |  मिथ्या क्रिया पूर्ववादे  |
 
-
-
 |                               |                              |
 |:-----------------------------:|:----------------------------:|
 |            श्लोकः             |                              |
@@ -16169,8 +15060,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 | यः साक्ष्यं श्रावितोऽन्येभ्यो |     यदा च पथि तद् भाण्ड–     |
 |      यः साधयन्तं छन्देन       |     यदा तु द्विगुणीभूत–      |
 |        यः साहसं कारयति        |     यदा तु न विभाव्येते      |
-
-
 
 |                             |                              |
 |:---------------------------:|:----------------------------:|
@@ -16209,8 +15098,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |    यवाः सप्त प्रदातव्याः    |       याच्यमानस्तु यो        |
 |   यश्च संस्क्रियते न्यासो   |                             |
 
-
-
 |                              |                             |
 |:----------------------------:|:---------------------------:|
 |           श्लोकाः            |                             |
@@ -16246,8 +15133,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |    येषामेताः क्रिया लोके     |      राजचौरारातिभयात्       |
 |     येषु पापेषु दिव्यानि     |     राजतं कारयेद्धर्मं      |
 |       योगाघमनविक्रीतं        |      राजदैव भयाद्यस्तु      |
-
-
 
 |                           |                                |
 |:-------------------------:|:------------------------------:|
@@ -16285,8 +15170,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |  लभेतांशं स पित्र्यं तु   |       वणिजां कर्षकाणां च       |
 |    लिखितं मुक्तकं वापि    |        वत्सनाभनिभं पीतं        |
 
-
-
 |                            |                                  |
 |:--------------------------:|:--------------------------------:|
 |          श्लोकाः           |                                  |
@@ -16322,8 +15205,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |    वानप्रस्थयतिब्रह्म–     |         विद्याबलकृतं चैव         |
 |       वापीकूपतडागानि       |       विद्वेषिणो व्यसनिनः        |
 |   वाराही चैव माहेन्द्री    |       विधनस्य स्त्रीग्राही       |
-
-
 
 |                            |                            |
 |:--------------------------:|:--------------------------:|
@@ -16361,8 +15242,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |   विभाव्यो वादिना यादृक्   |     वेगो रोमाञ्चमाद्यं     |
 |   विरुद्धं न्यायतो यत्तु   |      वेतनस्यानपाकर्म       |
 
-
-
 |                                |                               |
 |:------------------------------:|:-----------------------------:|
 |            श्लोकाः             |                               |
@@ -16398,8 +15277,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |       शक्तस्यानीहमानस्य        |     शिक्षितोऽपि कृतं काल–     |
 |      शङ्का विश्वाससन्धाने      |     शिखावृद्धिं कायिकीं च     |
 |     शतं ब्राह्मणमाक्रुश्य      |      शिखेव वर्धते नित्यं      |
-
-
 
 |                            |                                 |
 |:--------------------------:|:-------------------------------:|
@@ -16437,8 +15314,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |    श्रावितो नातुरेणापि     |    सङ्ग्रहस्त्रिविधो ज्ञेयः     |
 |                           |    सचिह्नं ब्राह्मणं कृत्वा     |
 
-
-
 |                                  |                           |
 |:--------------------------------:|:-------------------------:|
 |             श्लोकाः              |                           |
@@ -16474,8 +15349,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |     स पुनर्द्विविधः प्रोक्तो     |   समाप्तेऽर्थे ऋणी नाम    |
 |      सप्तपिप्पलपत्राणि शमी–      |      समामासतदर्धाह–       |
 |    सप्तपिप्पलपत्राण्यक्षतान्     |     समावृत्तश्चगुरवे     |
-
-
 
 |                         |                            |
 |:-----------------------:|:--------------------------:|
@@ -16513,8 +15386,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |   सर्वे पुरुषपीडाकराः   | साक्षिदोषाः प्रयोक्तव्याः  |
 | सर्वेषामर्धिनो मुख्याः  |  साक्षिदोषाद्भवेद्दुष्टं   |
 
-
-
 |                              |                                      |
 |:----------------------------:|:------------------------------------:|
 |           श्लोकाः            |                                      |
@@ -16550,8 +15421,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |    सामान्यमस्वतन्त्रत्वं     |        सेवाशौर्यादिना तुष्टः         |
 |     सावित्र्या प्रणवेनाथ     |         सोत्तरोऽनुत्तरश्चेति         |
 |      साशङ्का बालभावे तु      |         सोत्तरोऽभ्यधिको यत्र         |
-
-
 
 |                             |                               |
 |:---------------------------:|:-----------------------------:|
@@ -16589,10 +15458,6 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |     स्त्रीभिर्भर्तृवचः      |  स्वतन्त्र स्यात्मनो दानात्   |
 |  स्त्रीषु कृतोपभोगः स्यात्  |      स्वतन्त्रोऽपि हि यः      |
 
-
-
-
-
 |                                 |                               |
 |:-------------------------------:|:-----------------------------:|
 |             श्लोकाः             |                               |
@@ -16626,382 +15491,5 @@ Mr. Gharpure's edition of the स्मृतिच. ( II. p. 283 ) feads वृ
 |      खेच्छया यः पिबेत्कोशं      |     हेमरत्नप्रवालाद्यान्      |
 |    स्वेच्छया यः प्रतिश्रुत्य    |   हेमाग्न्यम्बु दृशौ हृच्च    |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^287]: "'तथा चगौतमः…वांशं गृह्णीयात्' इति वाक्यद्वयं नास्ति क–आदर्शे."
-
-
-[^220]: "'तं स्वामिना तदुत्पत्तिम्' इति अ; 'तत्स्वामिना तदुत्पत्तिम्' इति ब-क."
-
-
-[^192]: "' इति वचनविरोधात्' इति अ."
-
-
-[^147]: "‘परीहासेनोपहासेन दत्तम्' इति नास्ति अ-क-आदर्शयोः"
-
-
-[^142]: "'बन्धाचारेणापि देयम्' इति अ."
-
-
-[^132]: "'अनर्पितं तु यो… वाह्यं तथैव च ' इत्येष भागो नास्ति ब-आदर्शे"
-
-
-[^131]: "'अनर्पितं तु यो… वाह्यं तथैव च ' इत्येष भागो नास्ति ब-आदर्शे"
-
-
-[^130]: "'अनर्पितं तु यो… वाह्यं तथैव च ' इत्येष भागो नास्ति ब-आदर्शे"
-
-
-[^104]: "'वृद्धिार्दातुं शक्या' इति अ-ब."

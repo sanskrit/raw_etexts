@@ -17,18 +17,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUyNTU5NDA4OTE
 
 \[
 
-
-
 ![](../books_images/U-IMG-1703240875Mokshakanda14.jpg)
-
-
 
 GAEKWAD'S ORIENTAL SERIES  
 
 **Published under the Authority of  
 the Government of His Highness  
 the Maharaja Gaekwad of Baroda**  
-
 
 GENERAL EDITOR:
 
@@ -46,8 +41,6 @@ No. CII
 
 **॥ मोक्षकाण्डम् ॥**
 
-
-
 **KṚTYAKALPATARU**  
 
 OF  
@@ -55,47 +48,12 @@ OF
 BHAṬṬA LAKṢMĪDHARA  
 Vol. XIV. MOKṢAKĀṆḌA  
 
-
-
-
-
-
-
-
 Edited by  
 K. V. RANGASWAMI AIYANGAR
-
-
-
-
-
-
-
-
-
-
 
 **Baroda  
 Oriental Institute  
 1945**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Printed by C. Subbarayudu, at the Vasanta Press, Adyar,  
 Madras, and Published on behalf of the Govern.  
@@ -106,29 +64,11 @@ Institute, Baroda.
 
 Price Rs. 12
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **PREFACE**
 
 MOKṢAKĀṆḌA is the fourteenth and last section of the *Kṛtya Kalpataru.* With it Lakṣmīdhara's survey of the obligations laid by the scriptures on all men and women is completed. It is more than a finial of an elaborate structure of Dharma. It deals with the duties of two *ās'ramas*—those of the forestdweller and the ascetic—which were not treated of in the previous twelve books, and which relate to the activities of only those who lead a family life. It also attempts to picture the philosophic and theological background against which the injunctions and inhibitions of Dharma have to be viewed. Failure to treat of these matters will leave the digest incomplete. A work like *Manusmṛti* merits its description as a dharma-samhitā because of its comprehensive outlook. A dharma–nibandha or digest of Dharma, like the *Kṛtya-Kalpataru*, brings within its purview all that a *dharma-samhitā*, treats of, and in addition fills up the gaps in individual smṛtis by citation of others which fill the omissions; and it prefixes to every pronouncement or dictum its scriptural or smṛti authority.
 
     In the Hindu view, the life of man is of value only as providing the opportunity for overcoming the pull of Karma and the trend to rebirth. The self is free only when the fetters of samsāra are broken. At every stage of a man's life this aim should be uppermost in his mind. All actions must be purposive in the sense that they are undertaken with this end. Constituted as he is, man cannot be deprived in life of the sources of well-being and pleasure (*artha, kāma*). They are accordingly included in the traditional enumeration, of the purposes of man (*puruṣārtha*). In such an enumeration, they are preceded by the signification of Dharma as another aim; the implication is that whatever is desired should be such as would harmonize with Dharma (righteousness). The three constitute *trivarga*,
-
-
 
 whose combined effort should be to reach the fourth puruṣārtha, *viz*. freedom from rebirth (mokṣa). The value of *trivarga* in the cosmic scheme is merely instrumental. In this view, action must be motivated by only one aspiration–*viz*. the desire for release from samsāra or rebirth. Mukti (release) or Mokṣa must be the pre-occupation of all beings, in all their actions and under all conditions and circumstances. Every one is a potential seeker of freedom, whether he makes the attempt consciously or not. In that sense every being is an aspirant for liberation, a *mumuk*ṣ*u*. *Mokṣa* is the highest good, because with it ends the endless cycle of birth, suffering and death to which the self has been subjected in milliards of incarnations. The striving for it is a common denominator of all ordained human activity.
 
@@ -136,31 +76,21 @@ whose combined effort should be to reach the fourth puruṣārtha, *viz*. freedo
 
      Accordingly, after describing the rules for entry into the last two *ā*sramas and the discipline to which those who have so entered them should subject themselves, Lakṣmīdhara feels the need to indicate for them as well as to all others the ways in which the requisite training may be secured. The
 
-
-
 bulk of *Mokṣakāṇḍa* is devoted to an account of the processes, the first seven chapters alone being given to a description of the duties of those who enter the two last *ās'ramas*. It may be noted, in passing, that it does not recognize the inhibition of the third *āsrama* for the present age, on the ground that certain institutions or practices which were proper for past ages are not desirable in Kaliyuga. The doctrine of *Kalivarjya* is ignored by *Lakṣmīdhara* and is tacitly rejected.
 
   That a person might consciously dedicate all his efforts to the attainment of liberation, he should first envisage the nature of *mukti, i.e.,* he should know exactly what it is and what its effects, when attained, will be. After providing an authorized definition of *mokṣa*, the next step to be undertaken is to steady the aspirant by presenting to him, side by side, a picture of release and another picture of the unattractive and repulsive thing which passes as "life." When so seen, a feeling composed of disgust for the world and its specious pleasures and so-called joys springs up; and their real nature is understood, and dispassion is created in the aspirant's mind. This is *vairāgya*. Mere command over body and mind, reinforced by even *vairāgya*, are still not enough, for, the *mumukṣu* (aspirant for freedom) is still in the dark about the eternal cosmic laws, which govern the evolution, involution and dissolution of the universe in cycle after cycle. He must also be enlightened as to the nature of ultimate Reality, the relation of the self to the Self *(jīva-brahmātmabhāva*) and the appropriate means of gaining the power to intuit Reality. As authorities have laid down different modes of obtaining this insight or of overcoming the drag of Karma to *samsāra*, a consideration of these is next called for, and their validity is tested in the light of their scriptural sanctions. The claim of a school of thought to be able to furnish this power of visualization is denoted by its being labelled as a *dars'ana*. Advocates of specific modes have claimed exclusive validity for their own solutions, and denied it to those of others. Does *mukti* result only from meticulous and unfaltering attention to one's enjoined duties (*karma*), or from faith, unalloyed devotion and self-surrender (*bhakti*), or from the cold clear light of knowledge (jñäna), which removes
-
-
 
 all that obscures the vision and impedes the perception of Reality, as distinct from illusive appearance? Those who advocate each of these ways (*mārga*) claim for it the sanction of scripture, reason and intuition. The same authorities exalt one of the modes at one time, and exalt another in another context. Are these solutions contradictory, or mutually exclusive? Which of them is most securely based on scriptural sanction? Have morals a metaphysical basis? Are the six systems of philosophy (*ṣaḍ-dars'ana*) rivals or complementary? How far is each of them grounded in tradition and scriptural sanction? Such are the questions that now arise for adjudication, and the guidance of the *mumkṣu*. As the ultimate aim of Dharma is to ensure *mokṣa* to those who accept its guidance, it is incumbent on a *dharma-nibandha* to decide these questions. To enable it to do so with any measure of success, its author must possess a range of learning and powers of philosophical exposition that are rare even among the erudite. He must excel in both *Dharmas'āstra* and in Daranaśāstra, and know how to reconcile the conclusions of both. Such capacity is rare. It is not a matter for surprise that with the exception of Lakṣmīdhara (and his imitator Mitramisra, whose *Mokṣaprakāsa* is a mere claboration of the *Mokṣakaṇḍa*) no other *nibandhakāra* has made the attempt.
 
    Lak*ṣ*mīdhara's contribution is thus unique in the history of both Dharmaśāstra and philosophy. In spite of his passion for terseness and disinclination to embark on long explanations or discussions, and judging from this achievement, Lakṣmīdhara is seen to have been well-qualified for this formidable task. In appraising his work, allowance must be made for the differences in the method of presentation in a *dharma-nibandha* and in a philosophical work. When conflicting authorities are available, if only some are chosen, which represent one viewpoint to the exclusion of the others, the latter should be regarded as rejected by him. His position has to be inferred as much from what he cites as from what he omits to cite. If he omits to include among valid institutions or forms certain types which his contemporaries or predecessors have advocated, it should not be put down as proof of his unfamiliarity with the views supporting them. Rather must it be deemed an indication of his condemnation of them, not bv
 
-
-
 express but by implied rejection. An illustration is furnished in certain types of sanyasa, which others have lauded, *e.g.,* *avadhūta, paramahamsa* etc. and the exemption from *nityakarma* claimed for such classes. Lakṣmīdhara's disapproval of them is inferrable by his deliberate omission to treat of them in his account of valid types of *sanyāsa*. Again, he rarely argues a point : he simply states a conclusion, cites its authority, and leaves it there. The duty of a *dharmādhikārin* is his: it is to give a *vyavasthā* (decision) on a disputed issue or to give a direction; it is not to argue in its defence. It is a correct position for one who upholds an established view. It is the dissenter who is called upon to justify dissidence. An illustration may be found in Lakṣmīdhara's treatment of the question of a *sanyāsin* bearing a staff composed of one bamboo (*ckadaṇḍa*), when Manu and other authorities have enjoined the use of a *tridanda* (three staves). He cites his authority, notices a passage ascribed to Baudhāyana which appears to give an option, and rejects the option by pointing out that the alleged statement of Baudhāyana is unauthentic. Other illustrations may be found noted in footnotes and the Notes appended to the volume. The adoption of this method has led to an underestimation of both the learning and powers of Lakṣmīdhara as compared with those of his famous contemporary Vijñāneśvara, who argues out rules or practices which Lakṣmīdhara curtly dismisses as unauthorized.
 
     Illustrations of Lakṣmīdhara's independence and erudition will be found in the Introduction prefixed to this volume. He subjects to close scrutiny the authorities cited in favour of views which are opposed to tradition, and smṛti. Instances will occur in a perusal of the Mokṣakāṇḍa. The features are conspicuous in his metaphysical position, and his rejection of views which have been advocated by so famous an authority as Śaṃkara. That he was familiar with the views (and writings) of Śaṃkara is evident in the book but he does not mention him by name or cite his views. They are not permissible in an exposition of Dharma for which the only valid sanctions are found in smṛtis and other authorities indicated at the very commencement of his digest in the *paribhāṣā-kāṇḍa.* In his days Lak*ṣ*mīdhara must have been the dominating personality at Kāsī, the real capital of his king, Govindacandra. The followers of Śaṃkara
 
-
-
 as well as the critics of Śaṃkara must then have been numerous in that ancient centre of learning, which after the sixteenth century became, through the influence and prestige of a group of scholars, the home of *Advaita Vedānta*. It is doubtful if in the days of Lakṣmīdhara, or even for two centuries atleast after his days, this school had attained at Kāśī a position as the accepted creed of the orthodox. Lakṣmīdhara's philosophical views are closest to those of *Bhāskara*, the reviver and popularizer of the *Bhedābheda* view, which is not later than the Advaitic. The critics of Advaita had apparently atleast as much influence in learned and orthodox circles of those days as its defenders and for a long time afterwards. The teachings of Rāmãnuja, Madhvācārya and Nimbārka were widely known. To them the views expounded by the Advaitin appeared schismatic. This seems to be Lakṣmīdhara's own position. It is necessary to stress this, in view of the manner in which, from its sources in present-day Kāśī, European studies of *Vedānta* have come to identify it only with its Advaita interpretation. How greatly accidents of scholarship have led to disproportion, will be seen from the almost total neglect of the authorities on whom Lakṣmīdhara relies, (*e.g.* the smṛtis, Purāṇas) and schools of thought critical of Advaita, like those of Bhāskara and Niṃbārka, in modern histories of Indian philosophy.
 
     I recognized even on a cursory perusal of it the importance of the *Mokṣakāṇḍa* in the history of Indian thought. Accordingly, I sought the help of scholars from whose guidance I hoped to determine Lakṣmīdhara's philosophical position and affiliations, but found that they knew only aspects of Advaita. It then became necessary for me to acquire first-hand knowledge of the relevant literature, and to obtain the help of scholars who were proficient in non-Advaitic Vedanta. Among those who have so helped me, I must mention with grati- tude my brother-in-law Sri R. Narasimha Aiyangar, my old pupil, Sri A. N. Srinivasaraghava Aiyangar, and a young scholar who has also specialized on Yoga, Sri V. N. Srinivasachar, M.A. My obligations are even heavier to Professor P. N. Srinivasacharya for the guidance that I have derived from his authoritative expositions of the *Philosophy of Viśiṣṭādvaita* and *Philosophy of Bhedā-bheda*. He was also good enough to read
-
-
 
 in 'proof' the Introduction and the Notes appended to this volume. The difficult nature of the subject made it necessary to provide these 'Notes,' and I became aware of the need in the course of my discussions. In the earlier stages of the printing of the text, I had the help of Mahāmahopādhyāya Pandit A. Chinnaswami Sastri, Principal, College of Oriental Learning, Benares Hindu University, and at all stages in passing the book through the press I have been assisted by my former pupil Sri A. N. Krishna Aiyangar, M.A., L.T., of the Adyar Library. The comparative study of the *Moksakāṇḍa* side by side with Mitramiśra's *Mokṣaprakās'a* was rendered possible by the generosity of Vaidyaratna, Captain G. Srinivasa Murti, M.B.C.M., B.A.. B.L., Honorary Director of the Adyar Library, who authorized me to get the only available manuscript of that work copied for his library, and when the transcript was made, placed it at my disposal.
 
@@ -171,8 +101,6 @@ Mylapore, Madras.*
 20th December, 1945
 
 K. V. RANGASWAMI
-
-
 
 **CONTENTS**
 
@@ -207,10 +135,6 @@ INTRODUCTION:
 | What Contributes to True Knowledge (Ātma-Jñāna-Hetavaḥ)           |
 | Yoga and Its Branches (Sa-pallavaḥ)                               |
 
-
-
-
-
 |                                                                  |
 |------------------------------------------------------------------|
 | Value of Yoga                                                    |
@@ -228,15 +152,9 @@ INTRODUCTION:
 | The Passage of the Soul from the Body (Utkrāntih)                |
 | Conclusion                                                       |
 
-
-
 TEXT
 
 [TABLE]
-
-
-
-
 
 [TABLE]
 
@@ -252,10 +170,6 @@ TEXT
 | Supplementary Identifications of Citations              |
 | Corrections                                             |
 
-
-
-
-
 **INTRODUCTION**
 
 WITH the *Mokṣakāṇḍa* the exposition of Dharma which Lakṣmidhara had undertaken to furnish in the *Kṛtya-kalpataru* is completed. He deals in the final *kāṇḍa* with the nature and importance of liberation, in the Indian view of life, and the manner in which it should be secured within the ordained social order. Out of its fourteen sections, the *Kṛtya-kalpataru* devotes three to a *direct* treatment of the functions and duties of the castes and stages of life (*varṇāśrama*) on the proper discharge of which both the stability of the established order and the realization of the ultimate aim of existence are held to depend. The first two books of the digest deal respectively with the acolyte (*brahmacārin*) and the householder (g*ṛ*hastha), and the last book with the two last *āsramas*, which are regarded as pre-eminently those most associated with liberation.[^1]; “‘मोक्षे निवेशयेत्’, मोक्षशब्देन प्राधान्यात् प्रव्रज्याश्रमो लक्ष्यते,” इति लक्ष्मीधरः॥(पृ. ३०)") The life of the householder, *i.e*., of the family, is acclaimed as the best of the four, since all the others are borne by it[^2]"). It is only the married *dvija* who is in a position to carry out the Vedic injunction to worship the fire all his life[^3]"). It is the only one in which the triple debt to sages, gods and ancestors can be repaid[^4]. The Vedic prayer to Agni to secure immortality through progeny makes family life a recognized means of securing liberation[^5]॥"). These justify the view of Gautama that the life of the householder is the only *āśrama* and that the others are inferior and
@@ -269,8 +183,6 @@ WITH the *Mokṣakāṇḍa* the exposition of Dharma which Lakṣmidhara had un
 [^4]: "Gṛhasthakaṇḍa, Intrn., pp. 6-8. 5"
 
 [^5]: "जातवेदो यशो अस्मासु घेहि प्रजाभिरग्ने अमृतत्वमश्याम् (ऋ.सं.,५, ४, १०
-
-
 
 **THE MOKṢAKAṆḌA**
 
@@ -292,15 +204,11 @@ subsidiary to it.[^6]") The *Vedāntasūtra* attributes a similar opinion to Jai
 
 [^11]: "दशलक्षणानि धर्मस्य ये विप्राः समधीयते। अधीत्य चानुवर्तन्ते ते यान्ति परम गतिम्॥ (मनु, ६, ९३
 
-
-
 conventions[^13]"), there are certain beliefs that are basic in the Indian attitude to life and *mokṣa*. First among these is the eternity of the self or soul *(ātman)*, as contrasted with the perishableness of the body *(sarīra)*. Second comes the faith in an ultimate reality or supreme soul *(Paramātman)* to which the self is related, though, as regards the character of the relationship as well as the nature of the phenomenal world and sense experience, there is disagreement among philosophers. Not less important is the third postulate of an eternal and inexorable moral law in the universe, based on the ineffaceable character of action (including thought) or *karma* and the conservation of moral values. The doer vanishes but the deed survives as an influence adhering to the real doer, *i.e*., the self. The effect of action thus clings to the *ātman*, throughout its wanderings, as an unseen fruition *(adṛṣṭa-phala)*. One reaps as one sows. He is the real moulder of his destiny. The so-called "natural gifts" that one occasionally notices in persons, are really not gifts or accidental, but manifestations of *adṛṣṭa,*[^14] or tendencies springing from previous births *(pūrva-janma-vāsanā)*. Progress up the scales of existence (or the reverse) is determined by one's accumulated karma *(karma-saṃcaya)*. Good fortune and misfortune, happiness and unhappiness in one's life are only the rewards of one's own action, the fruits of one's *karma*. The law of consequences works inexorably. It allows of no chance, of no cosmic misfit, and of 'no capricious destiny. One has to live out his *karma*. As seed comes from the tree, and the tree from the seed in endless succession, so action leads to birth, birth to action and action again to rebirth, in tireless sequence, till the circuit is broken, and with it reincarnation is once for all arrested, and stopped for ever. Release from the toils of *karma* is liberation *(mukti)*. Time and space
 
 [^13]: "Infra, p.33: एष नित्यो महिमा ब्राह्मणस्य न कर्मणा वर्द्धते नो कनीयान्। तस्यैवाऽऽत्मा पदवित्तं विदित्वा न कर्मणा लिप्यते पापकेन॥ It occurs also in बृहदारण्यकोपनिषत्, ४, ४, २३. The point is stated thus in an extreme form in कौषीतकी उपनिषत्, ३, १ः—स यो मां विजानीयान्नास्य केन च कर्मणा लोको मीयते न मातृवधेन, न पितृवधेन, न स्तेयेन, न भ्रूणहत्या नास्य पापं च न चकृषो मुखान्नीलं वेत्तीति॥ Medhātithi denounces this position: अहंकारममकारत्याग एव संन्यासो वक्ष्यते, नाऽशेषशास्त्रार्थत्यागः (मनुभाष्य, ६, ३२
 
 [^14]: "See J. C. Chatterji, Hindu Realism, 1912, p. 113."
-
-
 
 have no bounds. Our earth is a speck in the infinity of space, and our life a fraction of a moment in eternity. Created or evolved, the universe and all that it holds of every form of life (including in it the seemingly unsentient as well as supersentient)[^15] are dissolved and again recreated or re-evolved (with all its content) aeon *(kalpa)* after aeon. In an age-long procession of lives that stretches back to infinity the *ātman* (soul) has had milliards of physical "parents," as it will have myriads of "descendants," in unending sequence[^16]. The retrospect and prospect are awesome. The sorrows of life multiplied to infinity arouse horror and dread. The shock of parturition and the agony of death make the intervening span of life a hyphen between a crisis and a calamity[^17] and p. 70 (agony of death)."). An old belief is that the self has a memory of its past, when it dwells in the womb, and loses it in the shock, when it encounters the blast of the air *(vāyu)* on emerging into the world[^18] यथा—[गर्भंस्थितः] 'नवम मासि सर्वलक्षणज्ञानकरणसंपूर्णो भवति। पूर्वजातिं स्मरति। शुभाशुभं च कर्म विन्दति। अथ योनिद्वारं संप्राप्तो यन्त्रेणा पीड्यमानो महता दुःखेन जातमात्रस्तु वैष्णवेन वायुना संस्पृष्टस्तदा न स्मरति जन्ममरणानि न च कर्म शुभाशुभे च विन्दति’॥ See also 11. 1-3, p. 68 infra."). The joys of a transient life are few while its "triple pain" *(duḥkha-trya)* is real and lasting[^19]. To be born is to come to a heritage of *duḥkha*. The contemplation of *“life's ironies”* should induce a mood of permanent and over-whelming depression, which hardly hopes for a way of escape. That such depression does not settle down into hopelessness is due to the recognition that all the suffering has been born of *karma* and might be ended by a modulation of *karma* or by any means of escaping rebirth. Higher or more joyous forms of existence than man's are attained by the performance of enjoined action[^20]. Man might
 
@@ -315,8 +223,6 @@ have no bounds. Our earth is a speck in the infinity of space, and our life a fr
 [^19]: " Cf. inf. pp. 71-2: यावज्जीवति तावञ्च दुःखैः नानाविधैः प्लुतः। ct. seq.; and also p. 170, ‘अध्रुवं बहुदुःखं च शरीरं गर्भवासिनाम्’॥"
 
 [^20]: "Cf.p.8 inf. यज्ञेन देवानाप्नोति वैराजं पुनः।"
-
-
 
 lift himself by his own effort even to the realms of the gods. But even then his position there is not for all time. When his stock of merit *(karma-puṇya)* is exhausted, like the oil which feeds the flame of a lamp, he falls headlong again to lower forms of life[^21]. Even the king of the gods (Indra) knows that he must go when a *kalpa* ends. Thousands of Indras, and myriads of worlds, have come and gone[^22]"). Where everything dies, even the “immortal, unageing gods” *(amṛtā-nirjarā-devāḥ)* vanish and only the self endures. The seeming felicity of paradise is poisoned by the haunting fear that it must end[^23]"). The highest joy *(paramānanda)* is possible when there is assurance of the stoppage of rebirth, because the self has reached its goal. For this, only birth as a man furnishes the opportunity. Reincarnations can be welcome if viewed as a succession of opportunities[^24]") for spiritual ascent to a summit from which there is no descent. In that sense it is said that even the gods envy man[^25] ").
 
@@ -336,8 +242,6 @@ lift himself by his own effort even to the realms of the gods. But even then his
 
 [^26]: "  यं यं वापि स्मरन् भावं त्यजत्यन्ते कलेवरम्। तं तमेवैति कौन्तेय सदा तद्भाव भावितः॥ (गीता, VIII, 6.
 
-
-
 yearning takes the form of a desire for a new life, the self gets it. But there is scriptural authority[^27] for ascertaining the course taken by the released spirit, in harmony with its record *(karma)*. When the soul escapes, it flies away, taking one of three routes, according to its merit-demerit *(puṇya-apuṇya)*, which gives it the power of propulsion and direction. The first route is the “way of the gods” *(deva-yāna)* or “the path of light” *(arcirmārga).* It leads through Fire and the Sun to the plane of Brahman, from which there is no returning. Only the soul of the *mukta* (liberated) follows this course. The second route is “the way of the Fathers” *(pitṛ-yāna)* or “the path of darkness,” *(dhūma-māga)*. It leads souls that have not earned *mukti* through the world of the moon (Candraloka) to regions to which their merit *(puṇya)* entitles them. After sojourning there till the merit is exhausted, the souls return to the earth and to forms suited to their *karma*, from the worm to man. The third way is that destined for the morally depraved whose souls crawl in darkness through it, and return to loathsome forms of life.
 
 [^27]: "Bṛhadaraṇyakopaniṣad, IV,11;VI,2,2ff., Kauṣitaki Upaniṣad, I, 2, 3; Kaṭhopaniṣad, VI,14."
@@ -347,8 +251,6 @@ yearning takes the form of a desire for a new life, the self gets it. But there 
    Aspiration for release has to be linked to capacity for it, before the *Mumukṣu* can become a *Mukta*. Such capacity is rarely inborn, except in divinely inspired souls like those of *Praḥlāda* or Śuka, who had a congenital gift for intuiting Brahman. It has to be acquired and cultivated laboriously, and the end may come after many lives. For an easy upward progress of the *Mumukṣu*, the *varṇāśrama* organization provides an inclined plane. Scrupulous attention to the duties that are laid down in Dharmaśāstra for his station in life may, in case of special merit, confer this power directly on even a householder *(gṛahastha)*; but more commonly the capacity emerges from the rigorous discipline involved in the two last stages *(āsrama)* to a person entitled to them, or more naturally in the transit from *āsrama* to *āsrama* in enjoined sequence till that of renunciation *(sanyāsa)* is reached[^28]. Philosophy shows what
 
 [^28]: "inf. p. 64. II. 6-7; p. 65, II. 3-4."
-
-
 
 gives the power to a *Mumukṣu* that enables him to attain freedom *(mokṣa)*, but Dharmaśāstra has the additional function of indicating the manner in which the aspirant must prepare himself before the knowledge of the way to release dawns on him. Whatever be the type of the philosophical solution to the riddle, the prior training of its student (the Mumukṣu) is the function of Dharmaśāstra. It is in this sense that from the standpoint of Dharmaśāstra, which can be shown to be that of authentic tradition also[^29], pp. 612-629, where the authorities supporting this view are marshalled."), the two Mīmāmsa-darśanas are really parts of one and the same system, of which Pūrva-Mīmāmsa is the first book and Uttara-Mīmāmsa or Vedānta is the second. An investigation of the nature and purpose of Dharma is the first step in an enquiry which should culminate in discovering the way of overcoming the pull of *saṃsāra* (metampsychosis) and ending rebirth. In the unified system, the first *sūtra* in the *Pūrva* (prior) half is the beginning[^30]") and the triumphant declaration at the end of the latter *(uttara)* half—affirming that there is “no more return of birth, according to Scripture,” is the final aphorism[^31]"). Whethe the redeeming knowledge *(ātma-jñāna*), on which some Vedantists insist as the only solvent of the *ajñāna* (nescience), which leads to rebirth, results *directly* from cogitation, or is a by-product of the illumination that experience of living in the world and the hardening effect of the discipline of the āśramas as well as yogic practice give, their combination has to be accepted as essential for *mukṭi.* If it was not so, there would be no need for the social organization, and the elaborate rules governing it, which form the pre-occupation of Dharmaśāstra. The author of a digest of Dharma must draw equally upon all the orthodox schools of philosophy *(ṣaḍ-daṛśana)*, the records of the spiritual experience of gifted sages *(ṛṣis)* contained in the epics and the purāṇas, as well as the body of *smṛti* literature. He cannot ignore even spiritual intuition, which borders on mysticism, because the problems associated with liberation *(mukti)* do not all yield to logic[^32]. A digest of Dharma is a guide to conduct.
 
@@ -360,8 +262,6 @@ gives the power to a *Mumukṣu* that enables him to attain freedom *(mokṣa)*,
 
 [^32]: "See P. N. Srinivasachari, Philosophy of Visiştadvaita, 1923, pp. 15-17."
 
-
-
 It does not differ from a *darśana-bhāṣya* (commentary on aphorisms of philosophy) in this respect; for to the Indian the value of philosophy lies in its practical outlook, namely to furnish knowledge of the self and of the Absolute as the only means over-coming the pull of metempsychosis. Metaphysics becomes an art of life in its highest and widest sense. Dharmaśāstra and philosophy attack two of the four-fold aims of life *(puruṣārtha)*, viz., Dharma, Artha, Kāma and Mokṣa. As the four reflect the ethical, social, aesthetic and emotional and spiritual sides and needs of man, which have to be cultivated in harmonious co-ordination[^33]"), so as to maximize the benefit from the cultivation of each and all, they must necessarily come within the scope of any science of social organization, and are not excluded from ethical and metaphysical enquiries. The system of *varṇa* and *āśrama* offers a rough parallel to the *puruṣārtha*. The human make-up as well as the facts of life can be ignored by neither the *darśana* nor the *smṛtikāra*.
 
 [^33]: "कौटिलीय अर्थशास्त्रे यथा—धर्मार्थाऽविरोधेन कामं सेवेत न निस्सुखस्स्यात्। समं वा त्रिवर्गमन्योन्यानुबन्धम्। एको हि अत्यासेवितो धर्मार्थकामानामात्मानमितरौ पीडयति॥ ९,७
@@ -370,15 +270,9 @@ It does not differ from a *darśana-bhāṣya* (commentary on aphorisms of philo
 
     The education of the *Mumukṣu* is as much the function of Dharmaśāstra as of philosophy. Social purpose comprehends the higher aspirations of man. The hypothesis of an eternal sanction for the social system from a superhuman source brings the social organization within the ambit of the philosopher, and metaphysics within the province of the sociologist. In India, the orthodox *darśanas*(i.e., excluding the Cārvāka, Jaina and Bauddha systems) are at one with Dharmaśāstra in accepting the validity of the same sources. Both accept the over-riding authority of *Śruti* (the Veda) and the value of organized dialectic. They are not mutually antagonistic. Writers on the *darśanas* cite smṛtis, while writers on Dharma deal with the metaphysical basis of human relations and duties. In theistic systems ethics and metaphysics cannot be kept apart. In reasoning both follow the logic of the *Nyāya*, and in interpretation the rules of
 
-
-
 Mīmāmsa are accepted as valid by both. Neither rivalry nor antagonism exists between the two. The ultimate practical aim is the same, viz., they show the way to liberation *(mukti).* They borrow extensively from each other. There are differences between them in their approach to problems, the relative weight they attach to their authorities, the stress they lay on modes and means, and in their prescriptions. But the gap between *smṛti* and *darśana-sūtra* is not wider than that between one philosophical text and another. With the exception of the Cārvāka, all recognize the validity and value of moral standards. Whatever be the difference in their conception of salvation, they agree in making the moral life an essential prerequisite to it. Their acceptance of tradition as authority, next to revelation *(smṛti and Śruti)*, springs neither from blind loyalty nor from disloyalty to reason. The six orthodox *darśanas* have been viewed as complementary, and they have been grouped into three pairs. The association of *Nyāya* and *Vaiśesika* is ancient and natural. The facts of experience cannot be properly explained by logic ignoring physics. *Sāṃkhya* and *Yoga* go together, because by mere analysis we cannot explain the Universe if mental and spiritual experience be ignored. The old view that regards the *Mīmāmsa* and the *Vedānta* as a unit, can alone explain and justify the parallel streams of tradition which stress the need of *Karma* and *jñāna*, equally or in conjunction for *mukti*. A synoptic view has usually been taken by Indian writers and thinkers of the essenials of the *darśanas*, ignoring differences in detail, so as to bring out the essential unity of doctrine and the inner consistency which is a mark of truth. It is not necessary to seek a reconciliation between the *darśanas* by regarding them as designed to suit varying capacity, or as ‘more or less true.’ The unity of all systems, which has been seen by modern thinkers in Indian philosophy[^34], has always been accepted in practice in India. Dissent, except where it relates to fundamentals, is not deemed a sign of heresy. This attitude will explain the utilization of *ānvīksikī* or *ātma-vidyā,* which will include not only logic but all metaphysical systems (including the Vedānta) as well as Sāṃkhya, Yoga and Lokāyata, by *Arthaśāstra*, which is not
 
 [^34]: "Radhakrishnan, Indian Philosophy,II,pp,769-770,"
-
-
-
-
 
 rejected by Dharmasastra[^35]Vis’varūpa and Jimūtavāhana cite Kauṭilya as an authority."). It may also show that the exposition of different darśanas by the same authors (like Vācaspati, Vedānta Deśika, Mādhava and Vījñānabhikṣu) has more in it than the desire to display versatility, or dialectical skill.
 
@@ -390,8 +284,6 @@ THE CONTRIBUTION OF LAKṢMĪDHARA
 
 [^36]: "The divisions of विरमित्रोदयare arranged in this haphazard order: परिभाषा, संस्कार, आह्निक, पूजा, प्रतिष्ठा, राजधर्म, व्यवहार, शुद्धि, श्राद्ध, तीर्थ, दान, व्रत, समय, ज्योतिष, शान्ति, कर्मविपाक, चिकित्सा, प्रायश्चित्त, प्रकीर्णक, लक्षण, भक्ति, मोक्ष.On the logic of Lakṣmidhara's plan, see Tirthakāṇḍa, Intrn. pp. xix-xx, and Dānakāṅḍa, Int. pp. 17-19."
 
-
-
 digest, which consists of 22 sections, on the *Kṛtya-kalpataru*. He has absorbed almost entire sections of the earlier *nibandha*, when he has had to traverse the same ground as Lakṣmīdhara. But Mitramiśra's choice of topics and his arrangement of the different sections of his work do not show the logical sequence that is one of the special features of the *Kṛtya-kalpataru[^37].*He is a diffuse writer, more acute than critical, and gifted with less subtlety and a lower sense of proportion than his model. Like Aparārka and Hemādri, Mitramis´ra attempts a varíorum treatment, which has to discard selection in order to achieve fulness and bulk. Hemãdri's work bears the title *Caturvarga-cint*ā*mani*, which implies a plan to deal with all the four puruṣārthas. *Mokṣa* must necessarily have formed the concluding part of a work so designed, if it had been completed. In the introductory verses to two sections of his digest, Hemādri claims to have written on *vrata, dāna, tīrtha and mokṣa,* in sequence.[^38]  विष्णुप्रीत्यै चतुर्वर्गचिन्तामण्यामजीगणत्। भेदान् व्रतानां दानानां तीर्थानां मोक्षवर्त्मानाम्॥  Vopadeva's Bhagavatamuktāphala.") The claim is repeated in the introductory verses of his commentary on Vopadeva's *Muktāphala[^39]*.[^39] The thoroughness with which he garnered his material has made Hemādri's digest a quarry where later writers have dug for material for their own works. In the *Dānakhaṇḍa* Hemadri has borrowed freely from Lakṣmīdhara. Both were devotees of Viṣ*ṇ*u. If we had Hemadri's section on Moṣka, a comparison of it with the *Mokṣakāṇḍa* of Lakṣmidhara's *nibandha* would have been of great interest. That no writer, who composed works on *tīrtha* afteṝthe days of Hemādri should have cited his section on *tīrtha* suggests that it was probably not written at all. A similar doubt is suggested by the circumstance that Mitramis'ra, who invariably lays previous writers under contribution, makes no reference to *Hemādri*, in the *Mokṣaprakāśa.* We have therefore only two surveys of
 
 [^37]: "'चतुर्णी' धर्मार्थकाममोक्षाणां ' वर्गः ' समूहः, धर्मार्थकाममोक्षम् ॥"
@@ -399,8 +291,6 @@ digest, which consists of 22 sections, on the *Kṛtya-kalpataru*. He has absorb
 [^38]: "खण्डानि चास्मिन् व्रत-दान-तीर्थ- मोक्षभिधानि क्रमशो भवन्ति। यत्पञ्चमं तत्परिशेषखण्डमखण्डितो यत्र विभाति धर्मः॥ (II,i,v.16
 
 [^39]: "व्रतादिमेदांश्च क्रमाद् व्रतदानतीर्थमोक्षपरिशेष पूर्वेषु पञ्चसु खण्डेषु, मोक्षवर्मानि मोक्षोपायाः: is Hemadri's gloss on the above."
-
-
 
 *Mokṣa*, viewed from the standpoint of Dharmaśāstra, of which the earlier is a pioneer. An examination of the list of authorities he cites in the *Mokṣakāṇḍa* shows that Lakṣmīdhara had no predecessor, and establishes his claim to the title.
 
@@ -414,15 +304,11 @@ digest, which consists of 22 sections, on the *Kṛtya-kalpataru*. He has absorb
 
 [^43]: "A.C. Gough-Philosophy of the Upanishads, 2nd edn.,1891, pp. 161-178.Hiranyagarbha is another name for the Brahman manifested in the world."
 
-
-
 is an integral part of the monism of Śaṃkara was unacceptable to many Vedāntins who attacked it. The different types of the *Ved*ā*nta* are older than S'amkara or Rāmānuja or Nimbārka or Madhva,[^44] but their enunciation and development into complete self-contained systems was the work of these teachers. If we accept for S'amkara the date now generally assigned to him *viz*., the last quarter of the eighth century A.D., there was time for his interpretation of the *Vedānta* to be firmly established[^45], before the time of Lakṣmīdhara. Rāmānuja died in 1137 A.D. and tradition assigns to him the great age of 120 years when he passed away. In the case of a great historical character, who is not born of an established dynasty of rulers, there is bound to be more certainty about the date of his death than of his birth. In any case, as the famous commentaries of Rāmānuja were composed in the meridian of his life and apostolate, they must have appeared before the Gāhadwāla dynasty rose to power in the second half of the eleventh century. The circulation of new ideas and new books was far quicker in ancient and mediaeval India than one could now imagine. The wandering scholar and the pilgrim, the student who had finished his studies and the ascetic who was homeless, carried new ideas to the remotest parts of the Indian continent. Kāśī, the virtual capital of the Gāhadwāla dynasty, was even then the focus of spiritual and academic light for all India. Even apart from the tradition of his sect which mentions a tour undertaken by Rāmānuja to 50remote a region as Kashmir, from his South Indian home, there is no room to doubt that such important works as the bhāṣyas of Rāmānuja on two out of three of the fundamental texts of the *Vedānta, viz.* the *Vedāntasutra* of Bādarāyaṇa and the *Bhagavadgītā*, and his resume of the teachings of the third, *viz*. the Upaniṣads (*Vedārthasaṃgraha*) had become known to scholars in North India. The question is of importance in determining Lakṣmīdhara's sources and the influences that were abroad in his time.
 
 [^44]: "V.S. Ghate, The Vedanta, 1926, p. 19. P. N. Srinivasachari, Philosophy of Visiṣtadvaita, pp. 503-504."
 
 [^45]: "Sures'varācārya's Vārttika and Naişkarmya siddhi, Vācaspati's Bhamati, Padmapādā's Pañcapadika, and Ānandagiri's Nyāyanirnaya had appeared soon after S'aṃkara's time."
-
-
 
 **LAKṢMĪDHARA, ŚAṂKARA AND RĀMĀNUJA**
 
@@ -430,15 +316,11 @@ is an integral part of the monism of Śaṃkara was unacceptable to many Vedānt
 
 [^46]: "It seems to lean more to Bhāskara's view; See Philosophy of Bhedabheda, p, 114, as do the other interpretations lower down."
 
-
-
 that Mitramiśra, who champions the Advaitic view of Śaṃkara and the doctrine of *Jīvanmukti*, which he regards as involved in the text that Lakṣmīdhara had explained differently, has had to stress it against Lakṣmīdhara's own view. Lakṣmīdhara does not show anywhere in his work the acceptance of two *Brahmans*, the Kāraṇa-Brahman or the Absolute and the *Kārya-Brahman* or the Demiurgus, but whenever he conceives of the Paramātman, who is immanent (p. 103) as Viṣṇu, he refers only to the one Brahman, whose manifestations are the Trimūrtis (p. 106), and of whom *guṇas* are predicated. His interpretation of the *“yoga-yuktaḥ"* in *Bhagavadgītā*,V, 7, as "*advaitadarśane sthitaḥ*" and its claboration as ‘*mama nātra kartṛtvamiti dhārayet'* (pp. 153-154) differ from those of both S'amkara and Rāmānuja. So also seems the interpretation of the '*adhyātmacetasã'* in Bhagavadgītā, II, 30, cited on p. 157. The expression *‘Jīvanmuktaḥ'* (one who is released in lifetime) as defined, from the *Brahmapurāṇa* on p. 209, seems only to be a complimentary exaggeration of *mukti,* described in the earlier context as release *after* the mortal coils are cast off. It is the only place in the *Mokṣakāṇḍa* where *jīvanmukti,* which forms an important idea of the post-S'aṃkara Advaita, occurs. The contradiction is implicit in the idea of *jīvan-mukti*—the coexistence of *jivātman* with embodiedness that cannot coexist with *mukti*, which is freedom from it[^47].").The Puranic description is a rhetorical compliment to the person who has secured the knowledge (*jñāna*) that liberates, and not an assertion of the possibility of freedom in embodiment.
 
 [^47]: "P. N. Srinivasachari, Philosophy of Viśiṣtādvaita, p. 59 and p. 463. Keith holds that the Upaniṣads do not show belief in Jīvanmukti and they believe in the possibility of perfection only at death (i. c. pp. 583-584
 
   In these points of divergence, Lakṣmīdhara either follows an independent line of his own, or a tradition older than S'aṃkara. That in the choice of authorities and the value attached to certain rules of conduct, he was unable to support S'aṃkara, whom his younger contemporary Vijñāneśvara implicitly follows in both as well as in Advaitic doctrine, is evident from a number of cases in Mokśakāṇḍa. To take the former first: the *prasthāna* (literally starting point, i.e., authority) for S'amkara is threefold: *Upaniṣad*, *Vedāntasūtra* and *Bhagavadgītā*. Rām*ā*nuja indeed accepts the *prasthāna-traya,* but he also adds as authorities
-
-
 
 smṛti (i.e. *purāṇa* and *itihāsa*) as well as *āgama*, the *Pāncarātra*, which Śaṃkara held as rejected, and Rāmānuja as endorsed as *siddhānta* (final view) by the author of the Vedāntasūtra (II, ii, 42-45). There is not a single reference to any *āgama* in *Mokṣakāṇḍa*.[^48]But, the *Viṣṇupurāṇa*, whose authority was accepted by Rāmānuja, is extensively used by Lakṣmīdhara along with the *Narasimhapurāṇa* (another Vaiṣṇava work), the two epics, and some other purāṇas, like the *Mārkaṇḍeya*, *Vāyu*, *Matsya, Brahma* and *Brahmāṇḍa*. Treatises on the Vedānta give the first place to the prasthāna-traya and use other works sparingly, more for elucidation than for support. Lakṣmīdhara reverses this order. He cites sparingly both *Saṃhitā* and *Brāhmaṇa* as well as *Upaniṣad,* the *Vedāntasūtra only twice*, chiefly in elucidation or support of statements culled from the *Mahābhārata*, the Purāṇas and the Smṛtis (including in the category the Dharmasūtias). He follows the *Mīmāmsaka* in making no distinction between one branch of the Vedic canon and another, while the Vedāntin stresses the Upaniṣad more than the rest.[^49] and uncreated (apauruṣeya), the idea that any part of it can be older than any others cannot occur to an orthodox Hindu. The authenticity of an upaniṣad may, for example, be questioned but not its authority, like any other part of the Vedic canon, once it is accepted as genuine.") There are barely half-a-dozen citations of Upaniṣads. The M*ā*habh*ā*rata is the work most frequently drawn upon. Tradition in India identifies Bādarāyaṇa (the author of the *Vedāntasūtra* with *Vyāsa* the author of the *Mahābharata.* To an orthodox Hindu the one is therefore as good an authority as the other, and the two cannot but be consistent. Among smṛtis proper those of Manu and Yājñavalkya are cited most, and Dakṣa, Devala, Hārīta, Yama, and Śaṅkha-Likhita in smaller degree. Of the Dharmasūtras, Baudhāyana and Āpastamba are most used, and the former is practically cited in full where it treats of the last two āsramas.
 
@@ -448,8 +330,6 @@ smṛti (i.e. *purāṇa* and *itihāsa*) as well as *āgama*, the *Pāncarātra
 
    As regards practices or rules endorsed by Śaṃkara or his school, some points of divergence between it and Lakṣmīdhara may be mentioned. He is against entry into *sanyāsa* immediately after studentship. He rejects the use of a single daṇḍa by the ascetic, and regards as unauthentic a passage in *Baudhāyana*
 
-
-
 sūṭra, which appeared to allow it (p. 38). Advaita sanyāsins shave their heads completely, and remove the s'ikhā (tuft). Lakṣmīdhara explains a sūtra of Gautama, which allows an option in this respect, as only meaning that the removal of the hair excluding the śikhā is allowed. Advaitins attach unique importance to *sanyā sa* in the attainment of *mukti.* Lakṣmīdhara regards entry into *mukti* as also possible from *gṛhasthāsrama* and vanyāsrama (p. 27). He does not cite any of the authorities on which S'amkara relies for holding that an ascetic should cast off his sacred thread (yajñopaviīta). His view should be presumed to be that it should be retained even by an ascetic. Though he names only the *haṃsa* and *paramahaṃsa* class of ascetics, he omits to treat of them altogether. This will be in accord with his view that no one is above rules of Dharma. He does not know of, or approve of the *atyāsramin*, *i.e.* the ascctic who is beyond all duties of his order. S'amkara (and following him Vijñānes'vara) quotes the *Jābālopaniṣad* on *sanyāsa*. Lakṣmīdhara ignores [it](http://%C2%A0Rāmānuja%20also%20rejects%20it,%20thus%20:%20ब्रह्मचर्यं%20समाप्य%20गृही%20भवेत्%20गृहाद्वनी%20भूत्वा%20प्रव्रजेत्%20यदिवेतरतया%20ब्रह्मचर्यादेव%20प्रव्रजेत्%20गृहाद्वा%20वनाद्वा%20यदहरेव%20विरजेत्तदहरेव%20प्रव्रजेत्%20'%20इति%20जाबालानामाश्रमविधिं%20असन्तमिति%20कृत्वा%20etc.%20(%20श्रीभाष्य,%20३४,%20२०%20).%20He%20does%20not%20refer%20to%20it%20as%20S´ruti,%20i.e.%20Upaniṣad,%20as%20S'aṃkara%20does:—अनपेक्ष्यैव%20जाबालश्रुतिमाश्रमान्तरविधायिनीमयं%20आचार्येण%20विचारः%20प्रवर्तितः%20।%20विद्यत%20एव%20तु%20आश्रमान्तरविधिश्रुतिः%20प्रत्यक्षा%20॥%20शांकरभाष्य,%20ब्र.%20सू.,%20४,%20३,%20२०.)). It is noteworthy that in all these, the ascetics of the school of Rāmānuja follow the rules that Lakṣmīdhara upholds. He will not allow any enjoined duty or action to be omitted. This is made clear in his interpretation of *Bhagavadgītā*, II, 47-51 (p. 150) where karma is explained as the enjoined duty *appropriate* to a man's *āśrama*, which *must* be performed. He indicates the sättvic nature of the performance of a sacrifice (yajña) by interpreting *yajñārtha* in *Bhagavadgītā* (III, 9) as *yajña-puruṣa* *arthat, Yajña* meaning Viṣṇu, according to the Veda (*Yajño vai Viṣnuḥ*)[^50]. Lakṣmīdhara throughout interpretes '*yajña'* as *Parama-puruṣa*.
 
 [^50]: "Taittiriya Samhitā, I, vii, 8, see pp. 149 and 158 inf."
@@ -458,19 +338,13 @@ sūṭra, which appeared to allow it (p. 38). Advaita sanyāsins shave their hea
 
   The determination of the exact position of Lakṣmīdhara, from the views expressed in Mokṣakāṇḍa, is not very easy. It
 
-
-
 has been seen that he does not bow to the high authority of Śaṃkara, and that his opinions often display a leaning to those of other (and non-Advaitic) schools. It is his practice to allow extracts from authorities, which are themselves chosen with care, to speak for themselves, interposing his explanations and comments only where they are needed to make his own position clear. Most *nibandhakāras* are not so discriminating. We have to infer Lakṣmīdhara's view as much as from what he discards, in the way of *accessible* citation, as from what he actually quotes. Silence on any matter means in *his case* disapproval or atleast want of approval. His ‘official’ attitude to fundamental questions is indicated by the *mangala-śloka,* as well (as is usual with him) as his justification of his own *adhikāra* or authority to make an exposition of *Mokṣa[^51] drops away as a result of the abundant discriminatory knowledge of the words of the Upaniṣads (Vedānta) and for whom Sananda and other sages, who have attained Brahmānanda yearn. (Eng. Trn. of the Maṅgala-śloka).")*. The possession of a critical knowledge of the teachings of the Upaniṣads (*vedāntoktiviveka)*, which removed from his vision the obscuration of delusion (*māyātamas*), and enabled him to realize the Supreme Spirit (*Paramātman*), who is immeasurable knowledge (*ameya-cinmaya)*, and made him feel his unity with it (*braḥmaikatā*), is what he there claims to possess. He declares that he felt the sense of union with the Absolute for whom seers like the mind-born son of Brahma, Sananda, who had attained supreme bliss, yearn. He does not (it should be noted) describe himself as a *jīvanmukta*, but as one who has only acquired the competence for liberation, i.e. when the separation of the soul from the body comes at death. This is *videha-mukti* or *kramamukti* which the developed Advaita regards as inferior[^52]. See Śaṅkarabhāṣya, on V. S., I, 3, 23."). The use of the word *viveka* in reference to the teachings of the *Vedānta* (i.e. the *Upaniṣad*) instead of *jñāna* must be noted. That Lakṣmīdhara was an *aíkyavādín* is clearly seen in many places of his book. His definition of *mukti* as oneness with Brahman (*Brahmaṇā aikyam*- p. 5), his interpretation of the attainment of *Brahma-bhāvanā* (in *Visṇupurāṇa*, VI, vii, 95) as the conviction ‘I am Brahman’ (*Brahmohaṃ asmi,* p. 6), his interpretation of the
 
 [^51]: "Lakṣmidhara, the excellent Brāhmaṇa speaks of Mokṣa in the fourteenth Section—he whose soul is in unison with the Brahman of the form of inscrutable knowledge, freely manifesting itself when the irremovable darkness of delusion (Māyā
 
 [^52]: "Kramamukti is one of the objectives of the worship of a personal God Īśvara
 
-
-
 *Chandogya* passage (VIII, iii, 4)—*param* *jyotir upasampadya* (p. 6)—as “becoming *(bhūtvā)* Brahma” *(Brahmasvarūpam bhūtvā)*, the expression *braḥmībhūtah* (p. 7), in explaining the term *‘nivṛttaḥ,’* the interpretation of *‘sāmyam’* which would ordinarily be taken as equality as one-ness *(ekatvaṃ)* on p. 9, taking asatyam’ (untruth) in *Visṇupurāṇa,* 11, xii, 45 (cited on p. 142) as the idea of being other than Brahman *(Brahmād- atiriktaṃ,* p.143, and the suggested (p.147) equivalence of *svarājyaṃ* (in *Manusmṛti,* XII, 91) as “being Brahma” *(Brahma- bhāva*m*)* are all indications of affinity to an Advaitic system. But, three doctrines are basic in the Advaita of Śaṃkara. He insists on *Māyā,* which the other schools of Vedānta reject.He postulates a nirguna Brahman, who is the Absolute, and an Iśvara or Kārya-Brahman, which the other schools reject. The dicta regarding the attainment of *Brahma-sthānaṃ* etc., for *karma* and *yoga* are treated as relating *only* to the lower Brahman. Knowledge *(jñāna)* is the only means of removing *Māyā* and securing liberation *(mukti).* *Brahmānanda* is bliss which is Brahman. When Brahman is spoken of as *ānandamaya*, the reference is to the secondary, *saguṇa,* Brahman, whom Śamkara designates İśvara. Confusion is caused because the name İśvara, which Śamkara gives to the Demiurgus *(Saguṇa-Brahman)* is clearly used in many of the passages cited by Lakṣmīdhara, and by Lakṣmīdhara himself, when only the Highest is intended. In such cases, the omission of Lakṣmīdhara to put in caveats against mistaking the lower Brahman for the higher, should be taken as implying that he did not recognize the difference, which is manifestly brought into a literature that is unaware of the distinction. Mitramiśra, on the other hand, who wrote in the hey-day of Advaita of Śaṃkara at Benares in the 17th century, always supplies in his comments on such passages the caveat or explanation. In a work of Lakṣmīdhara the omission of qualifying explanations should *not* be regarded as due merely to indifference or carelessness. As to all *Vaiṣṇavas,* to him also Viṣṇu, the *Supreme* Being, is *ānandamaya,* full of bliss. The *Sāṃkhya* description of creation and destruction as evolution and involution, that he gives in as adapted form in the long extract cited on pp. 102-108, makes it clear that creation, as well as destruction, is the work of the *only* Supreme Being, in
-
-
 
 one or other manifestation. In explaining the famous passage in *Bhagavaḍgītā*(III, 3-9) on *karma-yoga* and *jñāna-yoga*, Lakṣmīdhara quotes with approval a dictum of Yogī–Yājñavalkya (p. 146 and p. 149) that *karma* and *jñāna* should be applied *together*, in support of his comment on the *Gītā* ślokas, and says pointedly (p. 149): “That salvation is *solely* through knowledge *(jñāna)* and that all action *(karma)* enjoined by the Veda and the smrtis should not be done (for this purpose), on the ground that they cause bondage (to rebirth) is hereby condemned[^53]").” Curiously, in this case, Mitramiśra, a pronounced follower of Śamkara, criticizes Śamkara for prescribing only the way of knowledge *(jñāna-mārga)* for liberation *(mukti)*, as *karma* is no less *necessary*[^54]"). As a Dharmaśāstrakāra and Mīmāmsaka, he could do no less. The acceptance of the idealistic view and its corollaries is subject to its harmony with the teachings of *sruti* and *smṛti*. To prevent a deterioration of the standard of redeeming karma by the association of the desire for results *(phalecchā)*, when he advocates it, as no less valid than *jñāna*, Lakṣmīdhara applies the doctrine of *sāttvika-tyāga* even in contexts in which it is not applied by Rāmānuja *(e.g., Gītā,* IV, 14-15, and p. 152 *infra.)* The insistence of *Bhagavad-ārādhanaṃ* (worship of God), or *Īśvarā-rādhanam,* which implies devotion *(Bhakti)* to a *personal* God, as a form of *sat-karma* (p. 148, pp. 150, 151) for reaching the abiding place of Viṣṇu, the Supreme Being (p. 151), implies the inclusion of devotion *(Bhakti)* in action *(karma)*, and making *bhakti-yoga* an integral part of *karma-yoga*. *Buddhi-yukta* or *jñāna-yukta* *karma-mārga* includes the *bhati-mārga* as well. Mitramiśra follows suit, and has provided a section dealing with *Bhakti*, side by side with his Mokṣa-prakāśa[^55].
 
@@ -481,8 +355,6 @@ one or other manifestation. In explaining the famous passage in *Bhagavaḍgīt�
 [^55]: "Printed in the Chowkhamba Sanskrit Series, 1936. Mokşaprakāśa is still unpublished. I am editing it."
 
   Lakṣmīdhara’s acceptance of other *darśanas* than the *Vedānta* is seen in chapter XI dealing with true creation *(tattva-sṛṣṭi)* in which he follows the *Sāṃkhya* version of creation, ending with a *Mahābhārata* śloka (which, as pointed out
-
-
 
 by Mitramiśra), gives the *Vedānta* version[^56]. The Vaiśeṣika-darśana, gives the order of evolution differently: akṣara, vayu, salilanidhi and tejas (Praśastapadabhaṣya, ed. Chowkhamba, pp. 21, 22)")*.* Chapters XVII to XXVI summarize the teachings of *Yoga* by Patañjali on a number of topics connected with Mokṣa.
 
@@ -498,8 +370,6 @@ SCHEME OF THE MOKṢAKĀṆḌA
 
 [^58]: "ममापि च क्षपयतु नीललोहितः पुनर्भवं परिगतशक्तिरात्मभूः॥ (शाकुन्तले
 
-
-
 after performing sacrifices, austerities, enduring fasts, and leading restrained lives. To secure lasting peace and freedom from fall, one should wash out the obscuring dust of pre-disposition to rebirth *(vāsanā-reṇu-guṇṭhitaḥ)*, which has clung to the self in countless births. This can be done only by the cleansing water of knowledge *(jñāna vāriņā,*p. 4).
 
 WHAT IS MOKṢA?
@@ -511,8 +381,6 @@ WHAT IS MOKṢA?
 [^60]: "पदार्थज्ञानस्य परमं प्रयोजनं मोक्षः। तथा हि। “आत्मा वा अरे द्रष्टव्यः श्रोतव्यो मन्तव्यो निदिध्यासितव्यः” ति श्रुत्या श्रवणादीनामात्मसाक्षात्कारहेतुत्वबोधनात्॥ (Tarkasamgraha, ed. Bodas, 1930, p. 66
 
 [^61]: "Chatterji and Datta, Int., to Philosophy, p. 314."
-
-
 
 One becomes free and is not born again, only if one realizes that life is misery, gets disgusted with life, desists from forbidden action, acquires knowledge of the self, and performs enjoined duties in a spirit of absolute disinterestedness. The freed soul being dissociated from all organs, including the mind *(manas)* feels pain no more[^62]. *Advaita Vedānta* regards the realization of the one-ness of Brahman and the self *(jīva)* as *mukti.* The state of *mukti* is one of indescribable bliss. Rāmānuja holds that *mukti* is through knowledge turned *bhakti* *(bhaktirūpāpannajñana)* aided by the performance of enjoined duties in a disinterested spirit *(karma-yoga)* and self-realization) *ātmasākṣātkāra* or *ātmāvalokana)*. The knowledge that leads to liberation consists in the ceaseless remembrance of *Iśvara*, like an uninterrupted flow of oil *(tailadhārāvat avacchinna smṛtisantāna)*. Liberation comes not from human effort but grace divine[^63].
 
@@ -528,8 +396,6 @@ LAKṢMĪDHARA’S CONCEPTION OF LIBERATION
 
   Fusion of the self with the Absolute, on *mukti*, is described by suggestive similes: a piece of impure gold, after purification in the furnace, is beaten up with an ingot of pure gold, till its identity disappears; flame thrown into flame; water flung on water; loss of their identity by rivers when they flow into the
 
-
-
 ocean (pp. 9-10). The steps in realization of *mukti* are five: divorce from delusion; extinction of desires; loss of marks of identity; disappearance of the tinges of old attachment: and absolute isolation. Clarified butter springs from the churning of milk; but clarified butter cannot again go back to the condition of milk; so, the self whose individuality has been lost in union with the Supreme cannot regain it (p. 9). By yoking oneself to an austere life, and thereby abandoning envy, desire and delusion, onc attains one-ness with Brahman(p.11). Austerities are possible only in the solitude of the forest (p.11).
 
 **THE LAST TWO ĀŚRAMAS**
@@ -537,8 +403,6 @@ ocean (pp. 9-10). The steps in realization of *mukti* are five: divorce from del
    With these preliminaries, Lakṣmīdhara proceeds to the consideration of the two last stages *(āsrama)* of life, viz., *Vānaprastha* and *Sanyāsa*. Being parts of the enjoined order, they must be lived by those who elect them, in a spirit of pure disinterestedness. But, the discipline and incidents of the lives led by hermits and ascetics promote the growth of the knowledge and the spirit that assures to one his *mukti.* This is incidental. On the general hypothesis of *varṇāsrama-dharma*, liberation results from the *niṣkāmya* discharge of the duties of one's *varṇa* and *āśrama*. Three chapters are devoted to the two *āśramas* (chs. V-VII).
 
   Entry into the two last *āsramas* is not compulsory; and liberation is the *summum bonum* to which every one has to direct his effort. It is possible to acquire the psychological, moral and spiritual competence for *mokṣa* by a course of disciplined life, without becoming an hermit or [anchorite](#). Even to the latter such a life is helpful, because self-knowledge and the self-control from which it springs do not necessarily follow a formal entry into the ascetic life. A knowledge of the methods is therefore necessary for every one, as it illuminates the path to liberation. The remaining nineteen chapters of the work deal with this systematic training. The rules of discipline of the lives of the hermit and the *sanyāsin* only concern these two.
-
-
 
 But the knowledge of the means of *mukti* described in ch. VIIIXXVI concerns all.
 
@@ -549,8 +413,6 @@ VAIRĀGYA
 **THE KNOWLEDGE NEEDED AS PREPARATION**
 
    A knowledge of the constitution of the world and its evolution is needed for the understanding of further questions. Ch. XI deals with it. Reflections on the physical body *(sarīracintā)* and recognition of the difference between body and soul *(deha-śārīra-vivekaḥ)* take up the next two chapters (XII and XIII), which naturally lead on to the discussion of the study of the nature of the self *(jīvātman)* and the universal self (Brahman), which takes up ch. XIV. The uses of the right knowledge and action in securing emancipation *(jñāna-karma-upayogaḥ)* are set out in ch. XV. The foundations of a knowledge of the self and the Self are exposed in Ch. XVI. Chief among them is *Yoga*, which contributes to the illumination. The remaining ten chapters are taken up with its detailed exposition, Yoga being conceived figuratively as a plant with sprouting buds *(sapallava)*. The characteristics *(lakṣaṇa)* of the adept in Yoga *(yukta),* the aspect of the Brahman on which the mind should be concentrated in Yoga, *(Dhyeyas-svarūpam)* the signs of successful Yoga *(Yoga-pravṛtti-ciḥnāni)*, diseases that may attack the yogin *(yogopasargāḥ)*, the powers developed by Yoga *(yoga-vibhūtayaḥ)*, the description of the behaviour of the man of the poised mind, *(sthita-prajña-caritam)*, what
-
-
 
 the product of Yogic training is, and the fate of the person who has slipped from Yoga *(Yogabhraṣṭa-gati)* form the successive chapters upto XXIV. The penultimate chapter is devoted to signs and portents of impending physical dissolution of the Yogin, and the last to the passing over, when the mortal body is cast off and the soul leaves it on the path of salvation. With it ends the survey of *mokṣa* undertaken by Lakṣmīdhara.
 
@@ -564,8 +426,6 @@ the product of Yogic training is, and the fate of the person who has slipped fro
 
 [^66]: "‘ऋतुकालाभिगामी स्यात्’ इति मनुः (३, ४५
 
-
-
 continues his fire-rites in the forest, and takes with him his fires, as well as the accessories for fire worship. The fire sacrifices should continue to be offered but with food fit for hermits. Life should be ascetic. Cooked meat should not be partaken. He can eat only salt that he has himself manufactured. His hut should be for his fire rather than for himself*(agnyartham saraṇam)*. He must bathe twice(or thrice) daily, use neither umbrella nor shoes (p. 20), wear his hair braided, maintain silence except when he is reciting the Vedas, never accumulate food for more than a year's use, and practise a graded type of starvation *(candrāyaṇavrata)*. When inured to forest life, he may begin to practise austerities of progressive rigor, exposing himself to sun, rain, wind and weather. A classification of different types of hermits is given by Baudhāyana (p. 22). The *Rāmāyaṇa* (VI, 2) names types of hermits that Śrī Rāma found in the forest. The hermit's indifference to comfort and pain should be shown by his taking no notice of either torment or rubbing him with sandal paste (p. 26). He should practise tapas, and attain *siddhi* by austerities. *Hārīta* assures the hermit, who knows both the rules of his order and the true soul, of attaining *Brahman*, “the tiniest of the tiny” *(sūkṣmātsūkṣmam, p. 27)*. *Vedāntasūtra*, III, iv, 48-49, discusses the eligibility of the hermit to the *mukti*, which seems reserved for the *yati*, and concludes that he has the eligibility, even as qualified householders have. This is why the hermit *āśrama* is named *Brahmāśrama* (p.27)[^67]. Mitramiśra, who jealously guards the theory of two *Brahmans*, notes on Manu's dictum (VI, 32) that the hermit is happy in *Brahmmaloka*, which would suit the *Rāmānujiya* conception of *mokṣa*, that the allusion there is to the attainment of the world of the *Kārya-Brahman*! Suicide by self-cremation, fall from cliffs, or by starvation or walking on till he dies is allowed for the hermit.[^68].")
 
 [^67]: "Sanyasasrama is known as mokṣaśrama."
@@ -573,8 +433,6 @@ continues his fire-rites in the forest, and takes with him his fires, as well as
 [^68]: " But not to ascetics. Jain ascetics are enjoined to starve to death. “While Buddhism repudiates suicide, Jainism holds that it ‘increaseth life’ when nirvāṇa is assured one can kill himself.” (Radhakrishnan, op. cit., I, p. 337
 
  A point of interest in regard to the hermit is this. Among the interdictions of the Kaliyuga *(kalivarjya)* *vānaprasthyam* The prohibition occurs in late *smṛtis* and *Purāṇas.*
-
-
 
 Lakṣmīdhara's inclusion of this *āṣrama* among those allowed by Dharma would indicate that the idea of *kalivarjya* developed after his time, or if it was known to him, he rejected it. He makes no reference to *kalivarjyas* in any section of the *Kṛtya- Kalpataru*, though the *Smṛticandrikā*, composed a century and a half later, details them[^69]; p. 30—वानप्रस्थाश्रमस्यापि प्रवेशे विधिचोदितः।......एतानि लोकगुप्त्यर्थं कलेरादौ महात्मभिः। निवर्तितानि कर्माणि व्यवस्थापूर्वकं बुधैः॥").
 
@@ -588,9 +446,6 @@ Lakṣmīdhara's inclusion of this *āṣrama* among those allowed by Dharma wou
 
 [^70]: " This view is ancient. It is controverted by Āpastamba (Dharmasūtra. II, 9, 21, 14-16
 
-
-
-
 enjoined action, and specifies sacrifices, gifts and austerities *(tapas)* among those that cannot be given up, because of their purifying effect on the spirit[^71]."). Absolute renunciation of everything can be predicated of only one type of *yati, viz.*, the *paramahamsa[^72].* It has been suggested that what is renounced is the fire, which one is enjoined to maintain so long as life lasts, and which an ascetic cannot maintain, though he lives physically after he enters the ascetic order. From the abandonment of the duty to maintain the fire, *tyāga* has extended to the renunciation of all ritualistic action.
 
 [^71]: "See inf. p. 154. They cannot be given up as they are elements of Dharma (inf p. 146
@@ -603,8 +458,6 @@ enjoined action, and specifies sacrifices, gifts and austerities *(tapas)* among
 
 [^74]: " तृतीयं भागमिति। कञ्चित्कालं स्थित्वा इत्यर्थः। यावता कालेन तपः सुतप्तं भवति विषयाभिश्लाषश्च सर्वो निवृत्तः। न हि मुख्यं तृतीयो आयुषो भाग एव अनेन शक्यो ज्ञातुम्। न तु वर्षशतापेक्षाऽऽश्रमाणां, यतो वलफलितापत्योत्पत्ती तृतीयाश्रमप्रतिपत्तौ काल उक्तः। न च सर्वस्य पंचाशद्वर्षदेशीयस्य तदुत्पद्यते । उक्तं चान्यत्र तपसि श्रद्धे परिव्रजेदिति॥ (मेधातिथिः, ६, ३३
 
-
-
 this as meaning that it need not imply that one should wait to be seventy-five before becoming a *yati* as one need not stay in the third stage the full quarter of his life. All are agreed that normally the *yati* should be of advanced years (*pariṇatavayasaḥ*, p. 31). The *Mahābhārata* (*Śānti*, 251, 3) allows one to become an ascetic from any of the other *Āśramas* (p. 31). The *Narasimhapurāṇa* (*inf.* p. 32) allows one who has controlled his tongue, sex-passion, stomach and speech to become a *sanyāsin* straight after *brahmacaryāśrama* *i.e.*, without entering into wedlock. *Sanyāsa* is glorified by the declaration that ninety generations of ancestors and descendants are freed from hell, if one person in the family becomes a *yati* (p. 40). *Sanyāsa* furnishes an opportunity to secure emancipation that one should not miss when he is eligible for it. If he does so, he incurs the sin of suicide (p. 40). The only noteworthy features in Lakṣmīdhara's *omissions* are his ignoring the *Jābālopaniṣad*, like Rāmānuja, perhaps for the reason that it was not deemed a genuine *upaniṣad* but a document of the Jābālas, and secondly the provision for allowing persons who are defectives or on sick-bed (*ātura*) to become *sanyāsins*. They have been so allowed by Aṅgiras, as cited by Mitramiśra. The justification is that as *virakti* (disgust with life) is the test, and that such persons will have naturally more of *virakti* than those in normal health. On similar grounds, the *Mahābhārata* (p. 64) asks: “What consistency can there be among those who deny *mukti* to the householder when idlers and mean persons, as well as illiterates, can become ascetics?” Manu endorses this view (p. 65). He declares that a Gṛhastha who has stamina, a forgiving disposition, restraint, non-covetousness, control of his senses, modesty, learning, truthfulness and freedom from anger, and who has also Vedic learning, surely attains *mokṣa.*
 
    The competence of all *dvijas* to enter the order has been denied, in a lengthy discussion, by the *Madanapārijāta.*[^75] It concludes that the order is open only to Brāhmaṇas. All authorities are agreed that it is not open to *non-dvijas*.
@@ -613,15 +466,11 @@ this as meaning that it need not imply that one should wait to be seventy-five b
 
    The procedure of initiation is described in chapter VI from Baudhāyana and the *Narasimhapurāṇa*. As a preparatory rite,
 
-
-
 the candidate should perform the Prajāpati *iṣṭi*, followed by *eight* *śrāddhas* to gods, sages, *siddhas,* *bhūtas*, the Manes, the Mothers, and to the self *(ātmaśrāddha).*
 
    After these ceremonies and vows, the candidate takes hold of a staff made up of three knotless bamboos, discards his white clothes and puts on clothes dyed ochre, and receives a water pot (*kamaṇḍalu*), a seat, a water-strainer, a *kaupīna*, and a pair of sandals. The *tridaṇḍa* is regarded by Lakṣmīdhara as obligatory (p. 38). Manu gives a spiritual meaning to the *tridaṇḍa*; the three starves stand for restraint of speech, mind and action (p. 42). The *tridaṇḍa* avails not if the spiritual da*ṇḍ*as are absent in the yati.
 
   The rules are intended to provide for solitary meditation for the anchorite, his progressive detachment from the world, his not proving a burden to the community, and his spiritual growth. For eight months he must wander about, moving two to four miles a day, and remain at the same place for four months (during the rains). He should be shaved, leaving a tuft behind. He should eat sparingly, taking only eight mouthfuls a day. He should collect his food in the afternoons, from different houses, as a bee collects honey, (his food is therefore called *Mādhūkāra*) after the fire of the hearth is extinguished and the noise of the pestle engaged in the daily cleaning of the grain for food, ceases. He should offer no hospitality, accept no money, collect no disciples, not engage in lecturing (*vyākhyāna*) for honour or money, and not make any reference to his past life. He should be silent, and never give up his Vedic studies. He should observe no impurity on the death of any relation in his former life (p. 51). He should bestow no blessings, make no salutations, merely say: “Nārāyaṇa when saluted, observe the vow of *ahimsā,* and give an assurance of fearlessness (*abhaya*) to the whole animate world. He should not be alone with women, nor congregate with other ascetics,—not even with one more ascetic, as it leads to frivolous talk. He must not make predictions, explain portents, or give advice. He should use no metal vessels. His begging bowl may be of wood, earth, gourd or leaf, or even the out-stretched palm (p. 60). He should meditate on Vedic texts, and especially the Upaniṣads (p. 62).
-
-
 
 He must think constantly on rebirth, and its miseries. His whole aim should be to promote dispassion and turn his mind towards Brahman. The virtues of householders (*yama-niyama*) should also be his. When he enters the order, neither he nor others should weep.
 
@@ -630,8 +479,6 @@ He must think constantly on rebirth, and its miseries. His whole aim should be t
 [^76]: "Kautilya would punish one who becomes an ascetic without first providing for his family :—पुत्रदारमप्रतिविधाय प्रव्रजतः पूर्वस्साहसदण्डः॥ (अ. शा., २, १
 
 *  *The ritual that Lakṣmīdhara describes as governing entry into *sanyāsa* is that laid down by Baudh*ā*yana. In commenting on the rule regarding the nature of the staff to be constantly carried, after the ascetic’s entry into the order, Lakṣmīdhara rejects as unauthentic the words “*eka-daṇḍī vā*” in Baudh*ā*yana, which now appears in the text commented on by Govindasv*ā*min. There is nothing in the ritual or the rules that Lakṣmīdhara gives, which prescribes the abandonment of the *yajñopavīta* (sacred thread) by the *sanyāsin*. He insists on the holding of the daṇḍa all through *sanyāsa*, along with a *pavitra* (p. 47), and makes no exception. It has been held by authorities like the Sanyāsopaniṣads, which are known to Śamkara and Vijñaneśvara, (with which Lakṣmidhara must have been conversant) that a *sanyāsin* should cast off his sacred thread, and when he becomes a *parama-hamsa*, throw away even the staff (*daṇḍa*). His omission of these relaxations should be regarded as a sign of silent disapproval. As the practices, following the wide-spread influence of Śamkara, were becoming general, Lakṣmidhara must have felt that he could not openly condemn them. The exaggeration of the spirit of renunciation, as outwardly expressed in the behaviour of the ascetic, had gone so far that not only the *paramahamsa* but others like the *avadhūta* were allowed already to defy all rules e.g. the prohibition of acceptance of *bhikṣā* from non-Brāhamaṇas. Even in the ninth century, the defiance of ancient rules on the ground that the hermit and the ascetic were *not* bound by them, must have been common. Medhātithi is thereby provoked (Manu, VI, 32), to protest (vol. I, p. 507 edn. Jha) as follows: "It is argued that to the *sanyāsins*, who have entered on the path of *nivṛtti*, the rules of śāstra do not exist. This is
-
-
 
 not a correct interpretation of the meaning of the *śāstra*. It is only said that *sanyāsa* consists in the abandonment of egotism and sense of possession; it is not said that it consists in the total defiance of rules of *śāstra[^77]")*.” The ascetic must follow the advice of Śrī Kṛṣṇa that a leader should set an example by his own conduct. as what he does is followed by all others (*Bhagavadgītā,* II, 21, p.156)[^78]. Social order will be endangered when ascetics claim to be above all law.
 
@@ -643,8 +490,6 @@ not a correct interpretation of the meaning of the *śāstra*. It is only said t
 
 [^79]: "ed. Ānandāśrama; 1928."
 
-
-
 go, practising astrology, and buying and selling, are all forbidden to the ascetic. He should have no cooking done for him, nor cook food himself. He should not be addicted to pilgrimage or dwelling in holy places (Kāśī is an exception[^80]: See Introduction to that Kāṇda, p. lxii.")),not practise (for advantage) fasts, and should not indulge in lecturing. He should eat nothing between meals. He should take no interest in the joys or sorrows of even his nearest relations and should ask for no news of them. The ascetic who breaks his vows is lost. He should not speak to evil persons. He should use no conveyance (*yānam*). The *yati* who touches metallic objects (including the precious metals) is liable to expiation. The ascetic who rides in a palanquin, or a horse or elephant or bull, or cart or chariot, must perform a hard expiatory *vrata*. The elaborate penances prescribed for numerous lapses of ascetics show that they *did* occur[^81]. By merely becoming an ascetic one does not get the spirit of renunciation or Brahma-know- ledge; nor does he lose his appetite for the pleasures of the world or for life itself. He needs as much discipline as the layman. This is the reason for the detailed exposition of disciplinary measures that lead to the conquest of the body and the spirit and their direction to ways of knowledge and real renunciation. The remaining chapters attempt this task.
 
 [^80]: "आदेहपतनाद्यावत् तत्क्षेत्रं यो न मुंचति । प्राप्य विश्वेश्वरं देवं न स भूयो विजायते॥ (Tirthakāṇḍa, p. 17
@@ -655,13 +500,9 @@ DISPASSION (VAIRĀGYAM)
 
   The three chapters which follow may be regarded as designed to help self-conquest and *that* knowledge of reality which ensures the liberation of the self from rebirth. The *Mahābhārata* (p. 66) states that true freedom from worldliness springs from wisdom (*jñānam*). Dispassion is therefore a cause of *mokṣa*. How is it to be secured? It must spring from a correct appreciation of values. Life is beset with afflictions that ‘burn’(*tāpa*). They may be classed as those caused by the human constitution, physical and mental (*ādhyātmika*), by outside agencies (*ādhibhautika*), and by super-human agencies (*ādhi-daivika*). There is no suffering to which
 
-
-
 man is liable that cannot be brought under one or other of these. The number of afflictions is countless. Man's life of misery begins when he is in the womb. In the foetus, the self, which is to be embodied, possesses consciousness and memories of its past; it is also conscious of its surroundings, which fill it with disgust. Birth is nastiness. The baby, which descends foremost from the womb, begins its unhappy experience of the world, by losing its memories of the past, when attacked by the blast of *vāyu*, *i.e.* the atmosphere. Helplessness is another name for childhood. Adolescence and youth are synonymous with recklessness and the sufferings that come in their train. Man-hood continues the servitude to the urges of sex and the stomach (*śisnodaraparāyaṇa*). The approach of old age is an unforgettable nightmare. It is only surpassed by the physical and mental agonies of death. Neglect of duties in life leads to detention in hell. Its torments are indescribable, but known. Pain in heaven is not less real. He who fears to be reborn in a life of suffering feels only pain even when he is in heaven. All is transient but sorrow and suffering. Liability to birth is liability to death. The birthless alone are deathless. In the cycle of ‘invincible and relentless time' (*duratikrama kāla*), there is nothing that is permanent. The sands on the bed of the Ganges and the rain drops of the monsoon cloud are easier to count than the ancestors who lived and died. Many Indras, Lords of Daityas and sages, have been ‘lost’ in the resistless march of Time.
 
   One cannot escape death, unless he is unborn. Ceaselessly strive therefore to arrest birth, for that alone will end eternal suffering. Those whose *karma* has lifted them to paradise will return to rebirth on the earth, because, in heaven, they cannot do any more good *karma* but live there till their stock of merit (*sukṛta*, *puṇya*) is exhausted. Their impermanent felicity is comparable to that of the tree which lives, after its roots, through which it draws nourishment, are cut, from the little moisture which still remains in the trunk (*mñlacchedena bhujyate*). He is foolish who only desires *svarga* (paradise) and performs sacrifices to attain it, in accordance with the *śruti* (*svaraga kāmo yajeta*). The multitudes of heaven (*devasaṅgha*) desert the person who has lost his *puṇya*, as friends and relations desert the rich man reduced to poverty (p. 80). From riches expect no
-
-
 
 joy. They bring only unhappiness in their train. Hardship is inseparable from their acquistion, protection, expenditure and loss. In wealth recognize a poison tree. If wealth yields no happiness, can the gratification of the senses yield it? Sense pleasures are momentary. They spring in an instant and are gone in an instant. But, after gratification the craving for them remains, even as an old cow, which has lost its appetite, will still yearn for its former pastures (p. 74). Or, if both fail, can you find it in sexual pleasure? Sex-gratification is a delusion. Woman is *māyā* (illusion), and is the spring of jealousy and rage. Learn to recognize in the female body that entrances the senses, the skeleton and the putrid things that lie beneath the skin. He is wise who avoids women as if they were demons (p.75[^82]).Turn to the family, and ask if sons, parents or kin yield any joy that lasts. In its tireless wanderings how many parents, children and wives has not the self acquired? Lastly, is there enduring happiness in friendship? The joy that springs from union turns to grief at separation. Both are inseparable from life. Suffering and sorrow find their roots in friendship. Thus, whichever way one turns in human relations or the gratifications open to man, all is vanity. *Mukti* can alone end them. Therefore, concentrate your thoughts on liberation.
 
@@ -673,11 +514,7 @@ joy. They bring only unhappiness in their train. Hardship is inseparable from th
 
     The Veda describes love (*kāma*) as the God of Fire—an indication of its ardent nature (p. 81). If it is not possible to give up love, transform it into a passion for emancipation (*mumukṣum* *prati kārya*, p. 82). Anger is akin to sex-passion. In the words of Hanumān in the Rāmāyaṇa those alone are fortunate who are able to quench the anger that rises within them, as fire is extinguished by water (p. 83). Lust and anger drive one to sin.
 
-
-
 They cloud the understanding. Through the senses, which are their instruments, they bewilder the self (p.84), and paralyse discrimination and knowledge. Control them. Avarice is an allied vice. It engenders meanness (*paiśunya*) and envy (*matsara*). Formal classifications of virtues and vices, based on psycholoy, is common in Indian literature. They serve their purpose by emphasizing the gregariousness of virtues as well as of vices. The compromise, which seeks to find solace in the practice of some virtues *(yama-niyamāḥ*), while succumbing to some vices, is self-destructive. This is the purpose of such classificatory systems as that of Devala and Hārīta, which Lakṣmīdhara has cited in the *Mokṣakāṇḍa* as well as in the *Gṛhasthakāṇḍa*. Mental vices are classed as twelve, and each of the twelve is the source of other vices (p.84). Thus, *moha* (delusion) gives birth to ignorance (*ajñāna*), doubt (*samśaya-jñāna*) and false knowledge (*mithyā*-*jñāna*). The sources of passion (*rāga)* are lust, comfort (*sukha*), attachment (*abhimāna*), irresistible attraction (*sannikarṣa*), ignorance (*ajñāna)* and will (*saṃkalpa*). Hatred (*dveṣa*) takes six forms: fury (*roṣa*), impetuousness *(amarṣa*), envy (*asūyā*), treachery (*droha*), falsehood (*mithyā*) and suspiciousness (*vitarkitā*). Such evil dispositions are born of past *karma* (p.86). As good *karma* can correct the *vāsanã* (impulse) springing from past *karma*, there is the consoling reflection that one can by his own action live down the bad impulses inherited from his past birth. Devala follows up the consequences of some of these qualities. Chief among them is avidity, or unquenchable thirst (*trṣṇā*), which leads to every kind of sorrow (p. 87). It grows with what it feeds on (p. 88). Contentment (*samtuṣṭi)* is the only remedy for it (p. 89). The intoxication of pride (*mada*) is equally ruinous. It manifests itself in many ways, all of which lead only to sorrow (*śoka*). They spring from the feeling of *mamatā*. The wise man, who knows the non-difference between the self and the not-self, is unaffected by sorrow (p. 90). Realizing it, one like king Janaka, can exclaim: ‘See ! My wealth is limitless, because I have nothing in the world! When Mithila is burnt down nothing of mine burns" (p. 91). The sense of being one's own (*mamatva*)' takes strange forms. The calf, the cowherd, the owner, the thief who steals the cow, and he
-
-
 
 who only drinks her milk, refer to it as“*my cow*” (p. 92). It is only he who realizes that there is no *“*I” or “Mine” that is not bound to the (wheel) of rebirth. The body is composed of the five elements, and is distinct from the self that inhabits it. Delusion lies in failing to see this. The pre-occupation of man is to act for the good of his body: that is why, when he dies, he gets a new body (after rebirth). It is this *ajñāna*, which is the one and only enemy of man (p. 95). The mental affliction that causes delusion must be, removed by the medicine of discernment (*prajñā*, p. 96).
 
@@ -687,21 +524,15 @@ THE TRUTH IN CREATION (TATTVA-SṚṢTIḤ)
 
    A knowledge of the origin and constitution of the cosmos is essential to a right understanding of the self and its relation to the Absolute. In such knowledge lies the wisdom that liberates. This subject is dealt with in the eleventh chapter, from the standpoint of the Sāṃkhya philosophy chiefly. Not only the *purāṇas* and the *Mahābharāta*, but the *smṛtis* have accepted and reproduced, with minor changes, the *Sāṃkhya* account of the evolution of cosmos and its involution in *pralaya* (dissolution). The Sāṃkhya, in its systematic presentation, is dualistic. It recognizes only two ultimate realities, namely *puruṣa* (referred to in the *Purāṇas* by its synonym *pumān, e.g. inf*. p. 108) and *prakṛti*
 
-
-
 (or *pradhāna*). Both are beginningless and eternal. In their existence, they are independent of each other. *Puruṣa* is pure intelligence. *Caitanya* or intelligence is not a characteristic of *puruṣa* but its very essence. *Prakṛti* is an unconcious principle, which is changing. It is held together in a condition of equilibrium by the three *guṇas, sattva, rajas*, and *tamas*, which like strands in a rope form constituents of *prakṛti*. The evolution of the universe is due to the association (*saṃyoga*) of *puruṣa* and *prakṛti*. The union disturbs their poise, and moves *prakṛti* to act. From *prakṛti* emerges first *mahat* (‘the great one’), the germ of the universe. ‘Consciousness of the self is reflected in it.’ It forms the intellect (*buddhi*), whose further change brings into being the feeling of “I,” (egoism) or *ahaṃkāra*. From ahaṅkāra spring the five organs of knowledge (*jñānendriya*), the five organs of activity (*karmendriya*), and the mind (*manas*), which is common to both organs (*ubhayendriya*). From an excess of *tamas* in *ahaṃkāra* are evolved the five subtle elements (*tanmātra*), subtle elements in the *pañcendriya* (sound, touch, color, taste and smell), and the *pañcabṅta* (*pṛthvī, ap, tejas, vāyu, ākāsa*), which are the gross elements. These twenty-five constitute principles of the *Sāṃkhya*. *Puruṣa* is the self. He is not considered to be the cause or effect of anything, but remains only an enjoyer (*bhoktā*) and an on-looker (*sākṣī*). *Avidyā* or *ajñāna* confounds the self with the physical body, the mind and the senses. If a discrimination (*viveka*) between the self and the non-self arises, it ends sensibility, the feeling of joy or sorrow, pain and pleasure. The self then rests in itself, unimplicated by the panorama of world events. This is the state of liberation or *mukti* according to the *Sāṃkhya*.
 
    In the *Mahābārata* and in the *purāṇas* (and especially the *Visṇupurāṇa*), *puruṣa* and *prakṛti* are not accepted as ultimate and self-sufficient. No explanation as to why they should move is furnished. Behind them therefore a higher power must be postu- lated. *Puruṣa*, whose association starts *prakṛti* on the process of evolution, is therefore regarded as an emanation (*aṃśa*) of the Universal Soul (*Paramātman*, p. 108). This *Paramātman* enters of his own accord (*svecchayā*) both *Puruṣa* and *Prakṛti* (*pradhāna*) and shakes them up (*kṣobhayati*), during evolution (*sargakāle*),
-
-
 
 and involution (*pralaya*). The dualism is resolved into monism by this importation, and the account of the birth and dissolution of the universe rendered acceptable to Vedantic theism, which is the creed of Lakṣmīdhara and his sources. But, the citation, on p. 102, of a śloka from the smṛti of Yama, which declares that the *sanyāsins* (*yatis*) who know the twenty-five-principle-truths (*pañcavimśati*-*tattvajña*)—of the pure *Sāṃkhya*—reach the highest place (*param* *padam*) of Viṣṇu, betrays some inconsistency with the statement on p. 108 that the *yati* attains the world of Viṣṇu, who is behind the twenty-five *tattvas*. In the śloka from the *Mahābhārata*, which concludes the chapter, the order of evolution is stated in terms of the *Vaiśeṣika* account, namely the imperishable first i.e., *Puruṣa* and *Prakṛti* in the Sāṃmkhya scheme), thence *vāyu*, from *vāyu* *jyotis*, (light), from *jyotis* water (*jalam*, ap) and from water what carries the world (*jagati*) and from *jagati* the universe (*jagat*). The order is reversed in involution.
 
 CONSIDERATION OF THE BODY (ŚARĪRA-CINTĀ)
 
   Reflection on the nature of the evolution and destruction of the world must enable a thoughtful person to obtain a knowledge of the place of the self in the cosmic order. It has to be supplemented by knowledge of the real nature—i.e., unattractiveness of the body *(śarīra)*, which is the temporary abode of the self and with which ignorance confuses the self. If *vairágya* is to be generated, such knowledge of the real nature of the body is essential. This is why a short chapter is next devoted to it. The bodies of the gods, of men and of animals are differently constituted, while desire, enmity comfort, sorrow, hunger, thirst (physical and mental), action, fear, birth and death are common to all the beings that have bodies (p. 109). The body is next described in terms that must evoke disgust. It is said, more in sadness than in sarcasm, that whoever has a body clings to it and does not aspire even to the position of the king of the gods! He who has *viveka* (discrimination) is ready to desert a body, propped up by bones, filled with marrow, blood, urine and excrement, covered up by skin, subject to old age, and sorrow, as well as disease and debility, and above all perishable (p. 110).
-
-
 
 DISCRIMINATION BETWEEN THE BODY AND THE SOUL
 
@@ -713,16 +544,12 @@ DISCRIMINATION BETWEEN THE BODY AND THE SOUL
 
 [^84]: "The imagery occurs in the Kaṭhopaniṣad, I, iii, 2.6. A. E. Gough (Philosophy of the Upanishads, pp. 140-142
 
-
-
 bonds of qualities, bonds of the sense organs and bonds forged by the performance of appointed rites (p. 124). The performance of sacrifices binds a person as much to rebirth as ignorance *(ajñāna)*. (This is a hit at the *karma-mārga*, as contrasted with the *jñāna-mārga*). The three *guṇas* *(sattva, rajas and tamas)* are imposed by *Prakṛti*. They induce in those who are dominated by them (1) fondness for knowledge and comfort, (2) action and (3) heedlessness, indolence and slumber, while a mixture of *guṇas* reacts appropriately on the disposition of the affected self. They determine the type of rebirth of the soul(p. 125). The elaborate description of the effect of the *gunas* in forming types of character is purposive.It is designed to convey instruction on the need to cultivate only *sattvaguṇa* as a preparation for *mukti*. The difference in endowment by qualities is reflected in appetites, dispositions, intelligence and knowledge. The *sātvika* is the person who knows what to do and what not to do, and what binds and what releases the soul. The *rājasic* person acts only for anticipated advantages and not disinterestedly. The *tāmasic* nature is dominated by evil qualities. Their respective estimates of values differ also materially. A study of the effects of the *guṇas* is thus helpful in the training for *mokṣa*. Hence, the space given to it in the epic, the *purāṇas* and in the *Mokṣakāṇḍa*.
 
 **THE JIVĀTMAN AND THE BRAHMĀTMAN  
 (JĪVA-BRAHMĀTMABHĀVAḤ)**
 
   The relation of *Jivātman* and the *Paramātman* is that of the many in one and of the one in many. Dualism is apparent ; monism is real. The immanence of the *Paramātman* can be illustrated by a variety of figures. It is so done in an important chapter of much value to the *mumukṣu*, who has to realize this truth as the most important step in *mukti.* The universal soul is unborn, (because he is eternal) but when he enters a perishable body, he is said to be ‘born.’ The old Upaniṣad explanation of the way in which the disembodied self is reborn is given by *Yājñavalkya* (III, 70 ff., p. 130). *Paramātman* has created the five elements (fire, air, water, *ākāsa* and earth), and assumes their forms. The rains nourish plants; they nourish animals and create the male sperm; from sperm, becoming a
-
-
 
 sixth element, *He* is born. As one sun, when reflected in flowing water, appears as many suns, so does the Self appear to be many selves, when seen through illusion (p.135). The individual self comes into wordly existence, dominated by ignorance and harassed by passions (p.133). The unripe cucumber does not taste sweet but the ripe one does. Similarly the self, whose senses are imperfect through *karman,* is unable to have the recollection of past births (p.133), which the sage has. The one-ness of the self and the universal SELF is shown by a person’s feeling what all others feel. Altruism is a witness to the immanence of the Supreme.
 
@@ -733,23 +560,17 @@ sixth element, *He* is born. As one sun, when reflected in flowing water, appear
 
   The purpose for which knowledge or *karma* is advocated is to secure freedom from re-birth. On the relative efficacy of action (enjoined or voluntary, egoistic or disinterested) and of
 
-
-
 knowledge, differences of opinion have existed. The *Gītā*, in particular, has dealt with the problem fully and directly, and it is therefore utilized by Lakṣmīdhara in his exposition, though his interpretation of some terms is different from that of the ‘authorized’ commentaries.
 
   On the value of action which is voluntary and egoistic there is no difference of opinion. It is worthless. It is such action that is categorically condemned as binding the self to rebirth, Enjoined *karma* is what is Dharmic. Truth, sacrifices, austerities and charity *(satyam, yajña, tapas, dāna)* are declared by Bṛhaspati to be characteristic features of Dharma (p.146). This is the reason why Śri Kṛṣna has pronounced these as having a purifying effect on the minds of those who perform them, and as therefore obligatory. In no circumstance will any one be justified in giving them up (p.154). They should be deemed enjoined action *(niyata* *karma)*, being Dharma which is mandatory. There are actions which are undertaken merely for desirable objects, such as to procure an increase of happiness or cause a continuation of earthly happiness *(pravṛtta-karma)*; and there is aspiration behind action for the cessation of rebirth and securing the bliss that follows mukti *(nivṛtta-karma)*. He who does the former attains equality with the gods in their worlds. He who does the latter transcends the bounds of ‘the five elements’ *(pañ-cabhūtāni)*. The performance of enjoined action *(niyata karma)* is obligatory. The universe is declared to be knit together by activity *(karma).* Action is better than quietism. Unless one acts, even to live will to him be impossible. The Veda has declared that Brahman is ‘known’ by the practice of austerity *(tapas)*, and austerity is in action. To keep in mind the pur-poses of action but to remain inactive at the same time, on the ground that action is not necessary, is mere delusion (p.148). The *karma-yoga* that has thus been indicated divinely is, explains Lakṣmīdhara, only the worship of God (p.148).
 
   On the other hand, *jñāna-yoga* has been advocated by some as the only effective means of securing liberation. While it is true that knowledge leads to salvation, *(jnānād mokṣodhigamyate)*, it is only from action that both the sense of well-being and knowledge spring (p.146). *Karma* and *jñāna* are correlated, and are not rivals. A middle path has been indicated by Yogī
 
-
-
 Yājñavalkya, *viz*. to *combine the two*: A bird cannot fly on one wing *(na ḥyekapakṣo viḥagaḥ prayāti)*. Such comparisons between the two ways, as is contained in *Śuka’s* speech (p.145), are only intended to magnify knowledge and not to condemn *karma*. Success is impossible if the two are deemed to be distinct, *(pṛthak bhāva na sidhyeta,* p. 146). But, declares Lakṣmīdhara, action done except as an adoration of God *(Bhagavadārādhanam)* is futile, and leads only to bondage to rebirth (p.149).
 
   The taint is not therefore in action but in the spirit in which it is done. If it is done disinterestedly, it is efficacious. It is even more effective, if the doer is conscious all the time that it is part of divine worship and that it is being tendered as an offering to God. Lakṣmīdhara wants the doer to realize that it is that Paramātman *(Parmeśvara)* who does the *karma*, for His own satisfaction, and not oneself. This is *sātvika-tyāga,* *i.e.,* the abandonment of the fruit of action, coupled to automatic recognition of the one-ness of the individual self and Brahman. It is in this spirit that Laksmīdhara interprets *yogayuktaḥ* (ordinarily taken to mean an ‘expert in Yoga),’as one confirmed in non-dualistic perception *(advaita-darśane sthitaḥ*, p.153.)
 
   The spirit of renunciation *(sanyāsa)* has been praised but its significance is not understood. The real meaning of *sanyāsā,* as explained by Śrī Kṛṣṇa, is this. Surrender (like a deposit) of all actions for wished-for ends is *sanyāsa,* while *tyāga* (abandonment) is merely relinquishment of any claim for the fruits of one's action. To give up action because of a fear of the bodily pain that it may cause is inferior *tyāga*; but not so the action which is done in a spirit of detachment *(sangam tyaktvā)* and surrendering the fruits of the action to God. Not to take a dislike to an action because it is unpleasant, or a liking to one because it is agreeable is in the true spirit of *tyaga* (p.155). He who is unattached to the fruits of action and does it solely from a sense of duty is the real *sanyāsin,* though he has not abandoned his fires and his *nitya* duties—as a *sanyāsin* has to do (p.155). Sages like King Janaka attained salvation solely through *karma*. The Lord has nothing to gain from doing enjoined action, and yet, as Śri Kṛṣṇa, He did it, because
-
-
 
 He had to carry the world with Him *(lokasamgraha),* since what a leader does is followed by others (p.156). Whatever is done should also be done with intense devotion *(śraddhā)* and with conviction. Indifference and doubt ruin action. Knowledge dawns on the mind of the earnest worker. He who has attained self-mastery *(ātmavān),* removed his lurking doubts by knowledge and renounced action by *yoga* is not tied to rebirth by his actions. The self whose individuality has been destroyed by knowledge never more comes back to birth. Seeds burnt by fire do not germinate (p.159).
 
@@ -760,11 +581,7 @@ WHAT CONTRIBUTES TO TRUE KNOWLEDGE
 
   Lakṣmīdhara places first (p.160) the enumeration of the pre-requisites of the attainment of *ātmajñāna* given by *Yājňavalkya*. “The practice of Vedic chanting, the performance of enjoined sacrifices *(yajña),* continence *(brahmacaryam)*, the practice of austerities *(tapas)*, fasting and self-dependence lead to the realization of a knowledge of the Self.” (III,190.) The *Brahmapurāṇa* adds to these a competent knowledge of the meaning of the Veda and its teaching, mastery of Mīmāmsa. and *Dharmaśāstra,* the practice of *ahimsā* (non-injury), control of the senses, and learning generally. It affirms that austerities only destroy sin, while by learning (knowledge) immortality *(i.e., mukti)* is obtained. The removal of the demerit flowing from bad actions is the first pre-requisite, according to the
 
-
-
 *Mahābhārata.* The epic adds that without devout action, the attainment of knowledge is never obtained. Such devout action is then illustrated by a citation from Yājňavalkya (p.161) which places first among the duties of the seeker of *mukti* the direction of a spiritual guide *(ācāryopāsanam),* followed by association with good men, gentle speech, avoidance of the touch (and even the sight) of women, fellow-feeling for all living beings, relinquishment of family ties with assumption of worn-out red-coloured clothing, giving up contact with objects of sense gratification and idleness and somnolence, dispassion, pure-mindedness *(satvaśuddhi),* and desirelessness *(aspṛhatā).* Obviously, such training implies (except as regards the rule prescribing association with the good) that the advice is only meant for the sanyasin, whereas the indications of the way by other writers are for all—laymen as well as anchorites. The *Gītā* (being a gospel of salvation for all) emphasizes the moral qualities and training which every one must acquire. Pride, guile, violence, hardheartedness, deceit, personal impurity, fickleness, lack of self-control, absence of dispassion, lack insight into the real meaning of birth, death, old age and illness, attachment to family and friends, and absence of equanimity as well as a feeling of indifference to desirable and undesired things, are all vices or weaknesses that one should shun. Their opposites should be cultivated by the *mumukṣu.* The climax of the advice of Śrī Kṛṣṇa, is reached in His insistence on devotion *(bhakti)* to Him and Him alone, as the most valued possession of the seeker. The *mumukṣu* must also realize the value of seclusion for meditation, of the enduring nature of a knowledge of the self, and of insight into the value of the knowledge of truth (p.162). A man may have divine or demoniac gifts *(daivāsurīsampat)* and dispositions which are noble or ignoble. The former lead to liberation and the latter to bondage. (p.163). Deliverance is solely the gift of the Lord *(Iśvara).* Knowledge of this truth is hidden from common vision. Place devout worship of God foremost among all enjoined actions *(sarva-dharma).* In self-surrender to Him and Him alone lies your assurance of *mukti*. He gives the intelligence to grasp the truth to those who visualize His being the highest, and identify themselves in thought and deed with Him. *His* compassion to them lifts the obscuring fog that hides from
-
-
 
 them the knowledge that liberates (p.164). The way of devotion is one that every one may, and *must*, tread, whatever be his *aśrama*, and the truth must be burnt into every aspirant by sight, hearing and mind.
 
@@ -776,8 +593,6 @@ them the knowledge that liberates (p.164). The way of devotion is one that every
 
 Chatterji and Datta, p.329.
 
-
-
 of *Yoga* training and philosophy. In fact, the addition of Iśvara as the twenty-sixth principle in the Sāṃkhya system, p.102, which it accepted, made the *Yogadarśana* a theistic version of *Sāṃkhya* *(Seśvara-Sāṃkhya)*. It made it possible for Vedāntic thinkers to utilize the transformed system as a help in the search for *mukti*.
 
    The value placed by Lakṣmīdhara on the Yoga, as a *direct* means of securing the *jñāna* that frees, is shown by the large space he gives to a very condensed statement of its main doctrines and teachings. The concluding chapters of *Mokṣakāṇda* are virtually taken up with it. By his time, the system had been perfected by Vyāsa, (c.4th century A.D.), Vācaspati (9th century) and Bhoja (c.1,000). The large part that the exposition of the Yoga must have had in philosophico-religious training of the Classical Age is indicated by the pre-occupation of the *Mahabhārata* and the *Purāṇas*, which reproduce the features of the system almost in the finished form it assumes in the *Yoga-sutra*. It is significant that Lakṣmīdhara relies more on them and on *smrtis*, which had absorbed Yoga principles, like those of Viṣṇu, Yājñavalkya, Devala, Dakṣa, Śańkha and Hārīta, than on the *Yoga-sutra*, which he rarely quotes. It is noteworthy that while smṛti-commentators of reputation, like Viṣvarūpa and Medhātithi, not to mention older writers like Asahāya or Bhaṛtr-yajña, are quoted by Lakṣmīdhara, he makes no citations from or reference to even the more famous *bhāṣyakāras* on the *philosophical* sytems. There is an obvious intention behind the discrimination.
@@ -785,8 +600,6 @@ of *Yoga* training and philosophy. In fact, the addition of Iśvara as the twent
 **VALUE OF YOGA**
 
   The “weak” are bound while the “strong” escape the fetters of *samsāra*, as the bigger fish and the bigger animals and birds break away from the nets in which they are entangled, while the smaller are caught (p.166). Such strength springs in the case of men from Yogic training. To the adept in Yoga, *mukti* is certain; there is no rebirth for him, declares Yogi-Yājñavalkya, who, accordingly adjures every one to prefer the *yoga-dharma* to all other forms of *dharma.* He who treads the path of Yoga makes the supreme transit on the road which is infested with
-
-
 
 many risks (*bahudoṣa*)—even as a well-guided person is able to travel in safety through a forest full of wild animals and robbers (p. 167). Yoga is open to all, irrespective of caste, sex or past way of life; and, by utilizing it, every one can gain the supreme end. The *Gītā* exalts the *Yogin* above the tapasvin (practitioner of austerity), the enlightenment seeker (*jñānī*), and the *karmin* (sacrificer); and among *yogins* he who shows devotion to God is the one who is the best of his class (p. 167).
 
@@ -800,13 +613,9 @@ many risks (*bahudoṣa*)—even as a well-guided person is able to travel in sa
 
 [^85]: "Yogasūtra, II, 29."
 
-
-
 author. They are: *yama* (restraint), *niyama* (culture), *āsana* (posture), *prāṇāyāma* (control of the breath), *pratyāhāra* (in- drawing of the senses), *dhāraṇā* (fixation of the mind), dhyāna (steady contemplation or meditation of the objective), and *samādhi* (the concentration of the mind which ends in its absorption in the object). These are next described with some fulness, in their classical form. The *yama* and *niyama* list of Yoga is not the same as the ethical inhibitions and prescriptions, which every one is to practise, and which are detailed in the *Gṛhastha*-*kānda*[^86]. The latter is larger, while the former is selective. Among the numerous *āsanas* described in the text-books on Yoga, Lakṣmīdhara selects only three : *padmāsanam*, *mūrdhāsanam*, and *svastikāsanam,* (p. 169). *Prāṇāyāma* (breath-control) is elaborately described along with its virtues, (pp. 169-172). It is claimed that the evils springing from the sense organs are corrected by its cultivation (p. 170). It has three stages: inspiration that is deep (*pūraka*), retention of breath (*kumbhaka*), and deep expiration (*recaka*). The steadiness of the bodily functions of breathing and circulation which it induces conduces to steadiness of mind and helps its concentration. When breathing is completely suspended, the mind attains a condition of absolute concentration. In some conditions of the body or mind *prāṇāyāma* is not to be done : *e.g.,* when one is tired, sleepy, depressed, hungry, ill, unable to stand heat or cold, and excited (p. 170). *Dhāraṇā* is next described (p. 172). It enables one to see the *Brahman* as all—as the good and bad *guṇas* of the soul. *Pratyāhāra* (withdrawal of the senses from their objects) is admittedly a difficult exercise, in which one may succeed only by resolution and long practice. These five constitute in Yoga the external or objective aids (*bahi- ranga*), while the remaining three are subjective (*antaraṅga*). Of the latter, *dhāraṇā* is concentration on an object, internal (like the heart, or forehead) or external, like the sun (p. 174). *Dhyāna*, uninterrupted and steady contemplation, is said to be of two kinds (p. 175). The type of concentration known as *Samādhi* is the final step. In *samādhi* the mind loses itself in its object, losing its sense of individuality completely. The way to *dhyāna* is described in the words of the *Mahābhārata* (pp. 183-184). In *dhyāna*
 
 [^86]: "Ch. XVIII, pp. 302-312."
-
-
 
 the *Paramātman*, who shines in the heart like a lamp, should be contemplated, and the words of *śruti* describing Him should be mentally recalled to help in the concentration.
 
@@ -828,23 +637,17 @@ RULES FOR FOOD ETC.
 
   Seen from different angles, he who has been successful in Yoga is both a *yukta* and a *mukta*; for he is in union with Brahman and is liberated from *saṃsāra*. Eloquent descriptions
 
-
-
 of his state are given in ch. XVIII. He is steady as a rock against which the rain beats in vain; his spirit shines steadily like a flame that does not flicker; he is deaf to noise, however great and music however entrancing; if he carries a brimming vessel of oil up a stairway, on which terrifying soldiers with drawn swords, stand on each side, he ascends steadily and does not spill a drop, so steadied is he. He neither sorrows nor rejoices. He does not will anything. He loves nothing. He is insensible ‘like a log.’He is above joy and grief. Such a person, to whom gold and dross are alike, is content with attaining knowledge and discrimination. He is the *yukta*, the peerless *yogin* (p. 188).
 
 **THE SUBJECT OF MEDITATION (DHYEYA-SVARŪPAM)**
 
  The subject of Yogic meditation in the *Sāṃkkya* is *Puruṣa* who, in the Seśvara modification of it, as in Yoga, is identified with the Supreme Being, in a manifestation or by Himself. The mind should be concentrated on aspects of the Supreme self,oneby one, and made to dwell on each aspect. In a year, such meditation will, according to *Vīṣṇusmṛti*, effect union with the Supreme Being (p. 190). The *yogin* can vary the mind-pictures of Brahman on which he wishes to concentrate his thoughts. he can visualize Him for instance as Vāsudeva. Worship should how- ever always take the form of a tribute of devout meditation and mental praise of Viṣṇu as Brahman, (p. 191). Every aspect of the Supreme Being, recorded in *Śruti* and *smṛti*, should be re-called to the mind and dwelt upon with intense concentration. Nārayāṇa must be conjured up before the mind, as seated on a lotus, with diadem, bracelets for the upper arms (*keyūra*), earrings, and necklace, golden-hued, holding the conch and discus, and as ever-present in the orb of the Sun. Viṣṇu may be seen (with the eye of the mind( seated in one's own heart, p. 193) or in the Sun or in the orb of the moon. Through the grace of Iśvara, He can be seen by the mind, as the atom of atoms, as the biggest of the big, in the cave of the human heart. He who sees His resplendence is thenceforth freed from sorrow (p. 193). Many verses, which similarly picture the spiritual visions of the seers of the Upaniṣads, are cited in this chapter. Lakṣmīdhara's purpose in
 
-
-
 doing so is to furnish suitable subjects for *dhyāna* to the *mumukṣu*, who practises mental concentration. In depicting the dangers or diseases (*upasarga*) to which the *yogin* is liable, stress is laid on a natural law: one becomes what one intensely longs for. This is as true of the higher as of the lower types of yearning. The need for concentration of the mind on only those aspects of Brahman as seers have testified to, as reflecting best His *vibhūti,* is vital. In Indian hymnology, the so-called prayers, uttered by a *yogin*, do not take the conventional form of begging for gifts, but are commemorative; they merely recall to the mind every aspect of the Divine. The aim is to habituate the mind of the *mumukṣu* to dwell, in constant contemplation, on such aspects as will enable him to *realize* Brahman. The repetition of innumerable names of Supreme Being, each of which is descriptive of one aspect, in the multi form or omniform Being, has the same end. *Manana* (recalling to the mind), *śravana* (hearing), *saṃkīrtana* (chanting) and *dhyāna* (intensively contemplating) of such names or aspects are accordingly commended as effective forms of spiritual exercise. A stotra or hymn of praise is neither a petition for favours, nor an attempt to please by flattery a Being who is above it. It is a flood of ecstatic memory which can carry the mind of the hymner to his spiritual destination. The refrain ‘by constant meditation on it, he is liberated’ (*sadā dhyāyan vimucyate,* p.191) occurs, for instance, at the end of every *śloka* in the extract from the *Narasimhapurāṇa*, in which the *yogin* is adjured to think, one after another, of aspects of the Supreme, *e.g.* His universal lordship, identity with the universe, birthlessness, eternal existence, omniscience, irresistible might, attributelessness (*nirguṇa*) etc., some of which appear to conflict with some others, but are really not inconsistent.
 
   Spiritual experience reflects the power of both thought and mystic instruments, like the *praṇava*, or *oṃkāra*. After an elaborate explanation and eulogy of the mystic syllable (pp.196.201), it is declared that he who is constantly associated with it, need entertain no fear of his ultimate release. The *praṇava* is the bow, the self (*ātmā*) is the arrow and Brahman is the target (p.199)[^87].
 
 [^87]: "The accounts of the Pranava merely paraphrase the Upaniṣad eulogies of Oṃkāra."
-
-
 
   In selecting the *dhyeya-svarūpam*, *i.e.,* the mental picture of the Supreme Being on which his thoughts should concentrate, the seeker is advised to begin with the lower (materialized) forms of Brahman and then ascend to the highest (p. 203).
 
@@ -853,8 +656,6 @@ doing so is to furnish suitable subjects for *dhyāna* to the *mumukṣu*, who p
   After one has practised Yoga for some time, he begins to feel its beneficial reactions on his health, temperament, mental condition and powers of endurance. The effects are also external, and are seen in the friendly attitude of men and animals to the *yogin* (p. 211). These are indications that the *yogin* is on the right road (*yoga-pravṛtti-ciḥnāni*). When he begins to perceive (as with his own eyes) the self and the earth in resplendence, his perfection in the practice is imminent. But, the path is beset with dangers, which are to be treated as diseases (*upasargāḥ*), that require immediate attention if they are to be cured. Physical reactions of an unfavorable kind are less serious than the more insidious mental and spiritual effects, which the Yogin's growing strength has to overcome. The temptation to utilize the new power to gain objects of sense gratification is a common danger. The correctives to the aberrations are briefly indicated in ch. XXI, which ends with the assurance that the *yogin*, who is intent always on Brahman, will be freed from disease (*upasarga,* p. 215).
 
    Super-normal powers are developed in the adept in Yoga. They are classed as eight: *aṇimā, mahimā* and *laghimā;* *prāpti* *prākāmyam, īśitvam, vaśitvam*, and *kāmāvasāyitvam*. Of these the first three are known as *śārīra*, and the rest *aindriya*. The adept can contract or expand his stature or size; become lighter than air, making it possible to cover quickly great distances; gain the power of seeing everything, near or distant, hidden or open, and of moving about in space as he desires, (*yatheṣṭacāritvam*); gain command over even superhuman agencies; prolong life indefinitely; and lastly subdue to his will any one whose shadow he treads, or enter into the minds of distant persons and pass into the bodies of any one. These great powers constitute a snare. One must practise Yoga not for getting such powers, but to attain *mukti*. The *yogin*
-
-
 
 must therefore avoid entanglement in them, and move towards his goal of freedom, recognizing that all that one experiences is unreal (*asat*), and that the only reality is *Brahman*. This knowledge will bring him the tranquillity which culminates in *mukti* (p. 217). The real proof of the fruition of *Yoga* is not the development of such supra-normal powers but the attainment of deathlessness in mokṣa (p. 218).
 
@@ -868,8 +669,6 @@ must therefore avoid entanglement in them, and move towards his goal of freedom,
 
    Having thus summarized the teaching of the *Gītā* on the subject, Lakṣmīdhara proceeds to illustrate the doctrine from a number of legends in the epic and the Purāṇas.
 
-
-
    The reply of Praḥlāda to his father Hiraṇyakasipu, when asked if he had been properly taught the science of polity by his teachers, (p. 244) as recorded in the *Viṣṇupurāna* (I, xix, 34-49), brings out this truth. As the child, in his inexperience and ignorance, takes the fire-fly for fire, so *ajñāna* blinds people to reality, and they mistake appearances for it. If a prince, whose eyes have been opened, is taught the ‘best’ means of overcoming enemies and gaining allies, he may retort, as Praḥlāda did, that in the universe everything is a manifestation of the Paramātman (Govinda), and the distinction of friend and foe is meaningless. Gods, men, animals, birds, and even reptiles are all forms of the Supreme Being (Viṣṇu), existing seemingly detached from Him. He who knows it knows that everything in the universe is identi- cal with himself, and looks upon them all with an even eye. In the face of cosmic unity all such distinctions vanish.
 
    Another apologue relating to Praḥlāda is cited from the *Mahābhārata*[^89] . A sage named appropriately Ajagara (the boa constrictor) was questioned by Praḥlāda on the secret of his equanimity under all conditions. The sage replied that having known how life comes into being and goes out, the decline, progress and destruction of the universe, he had learnt neither to rejoice nor to feel sad. Everything in the universe is tied to death. He had realized the Brahman behind creation and behind destruction. He proceeded to describe in detail how the elements of this knowledge had made him live like an *ajagara—*inert, insensible to pain and joy, to starvation and food, taking all that comes with calmness. Such a mode of life(*vrata*) is the *ajagara-vratam*, which is held out as an ideal to the enlightened. It is not quietism but serenity *in action,* after attaining *jñāna*, that the sage claims for his mode of life.
@@ -882,8 +681,6 @@ must therefore avoid entanglement in them, and move towards his goal of freedom,
 
 [^91]: "His powers are described in Śalyaparva, ch. 51,"
 
-
-
 reply was that he who strives for *mukti* obtains eternal joy by attaining Brahman, is therefore beyond praise and abuse, and can ignore both.
 
    The reply of Jaḍa to Dattātreya, as given in the *Mārkaṇḍeya-purāṇa* (ch. 37), when asked to look into the root of his grief, illustrates another aspect of the truth. Pain and pleasure, joy and sorrow, are all due to the mind only. The self is a thing apart from both the body and the mind. Accordingly, it is unaffected by the joys and afflictions to which they are subject. The same self exists in all bodies, as the same air may be found in different vessels (p. 231).
@@ -891,8 +688,6 @@ reply was that he who strives for *mukti* obtains eternal joy by attaining Brahm
    The fourth illustration is a dialogue between a king and a Brāhmaṇa, who had been pressed into service as bearer, to carry the king's palanquin. Finding the pace slow the king enquired, and was told that it was due to the inability of the short Brāhmaṇa to keep step with the other bearers. The king addressed the Brāhmaṇa and asked him why he could not keep step though he looked strong. The dialogue between the king and the Brāhmaṇa goes to the root of the matter, as the Brahmana does not recognize the distinction between “you” and “I”, between *pālki* and the king within the *pālki*, since all are manifestations of the same Brahman. He then instructs the king in the philosophy of the self, eternal and indivisible, which manifests itself in many apparent forms. The word “I” is wrong when used by an individual of himself and right only when used of the *ātman* (p. 234). In all bodies only one Person (*Pumān*) resides (p. 235). He is immanent (*vyāpī*), attribute- less (*nirguṇa*), behind nature, free from birth, *buddhi* and other qualities, is pure knowledge, and is indefinable by name, class and so forth (p.137).
 
    The conclusion is enforced by the Brāhmaṇa by a story of the sage Ṛbhu and his pupil Nidāgha, whom Ṛbhu used to visit (unrecognized) once every thousand years. When treated to a sumptuous meal, and asked if he was satisfied with the food, the sage pointed out, in his questions and answers, the delusiveness of any distinction between the eater and the food, the host and the guest, as well as the unreality of qualities and sensations. There is only one reality *viz.*, the Brahman. When met again, and asked by Nidāgha whether he had seen a king on
-
-
 
 an elephant going on a procession into the city, and holding up Nidāgha, who also wished to enter the city, Ṛbhu (unrecognized) refused to see the distinction between ‘above’and ‘below’, between ‘king’and 'elephant,’and between his questioner and himself (p. 142). Nidāgha then recognized his old teacher, who had come again to teach him this truth.
 
@@ -906,8 +701,6 @@ THE DESTINY OF THE PERSON WHO LAPSES FROM YOGA (YOGABHṚAṢṬAGATIḤ)
 
   The object of Yoga is to conquer death by conquering the tendency to rebirth. Death can therefore have no terrors to the Yogin. But, the knowledge of the time when physical death may happen, and the body die, is helpful to the Yogin. By his mastery of Yoga, he is able to prolong his life at will, and determine like Bhīṣma the moment of his death. Death in Uttarāyana, when the Sun has set on his northward course, is believed to be helpful in the transit by the path of light (arcir-mārga or devayāna). Belief in omens, portents and
 
-
-
 dreams is ancient. The long recital of such harbingers of death in this chapter may be presumed to reflect the Yogic experience of many adepts, and should be regarded as empirical rather than a mark of superstition.
 
 **THE PASSAGE OF THE SOUL FROM THE BODY  
@@ -919,19 +712,13 @@ dreams is ancient. The long recital of such harbingers of death in this chapter 
 
   The released self has to march through appointed routes to either *mukti* or to places from which it has to return in rebirth. The Upaniṣads have blazed the ways from the mystic experience
 
-
-
 of seers. The Smṛtis and Puraṇas paraphrase the revealed texts that describe the path of the spirit. Yājñavalkya who, by recognition of his compeers, is the *Yogi* among *smṛtikāras,* explains the mode of transit. The soul has many rays, some dark, some red, some variegated, and some purple. Of these rays, one runs upwards, penetrates the solar sphere, transcends the world of Brahman, and passes to beatitude. The rays, which are directed downwards, compel rebirth in the world to reap the fruits of *karma*. The soul that *transcends* Brahmaloka is welcomed by the Supreme Being, and to it there is no rebirth (pp.258-259). Those who have attained heaven in virtue of the performance of sacrifices, gifts and austerities are, after their sojourn in heaven, transformed into mists, the night, the dark fortnight, and *dakṣiṇāyana* (winter solstice), the regions of the manes *(pitr),* the moon, air, showers, water and the earth. They are then subjected to life on the earth. There is a penalty for those who miss the opportunity that life affords for acquiring the redeeming knowledge: they are driven back to rebirth. Such of them as have done good actions, without acquiring the knowledge that liberates, will be born in positions, which are half-way to the life in which the knowledge will dawn. Those who have lived evil lives, must be reborn as reptiles, insects or butterflies. The indication is only illustrative. The *Bṛhadāraṇyakopanișad*(VI, ii, 15), which Lakṣmidhara quotes here, allows the way of light even to the elect among householders and *vānaprasthas*, who have learnt the fundamental truth. They too pass from light to day, from day to the bright half of the month, from *śukla-pakṣa* to *uttarāyaṇa,* from it to the worlds of gods, from those worlds to the Sun and from the Sun to the plane of ‘lightning.’ When they reach the last, a spirit meets them and conducts them to the world of Brahman, from which there is no returning. Lakṣmīdhara interprets the expressions *‘ahas’* (day) etc. in the Upaniṣad as references to the divinities whom such souls have, in the last birth, most adored.
 
 CONCLUSION
 
  The *Mokṣakāṇḍa* ends in a note of triumph. The gods, who regard themselves as above man, have not his opportunity,
 
-
-
 nor his access to the condition from which there is no return; for, in the *mahāpralaya* or the dissolution at the end of a *kalpa*, they must perish and come back to their old forms in a new *sṛṣṭi*. The *mukta* will never return. In beatitude he experiences the union of all being with the Supreme. The march of the *mukta* to his goal is beyond the vision of even the gods, who vainly covet a destiny beyond their reach. The attainment of Brahman is not a mere incident in one person’s *janma*. It is a cosmic event of the first magnitude. For, it marks the culmination of a pilgrimage spread through aeons in the indescribable bliss of *Brahmānanda.*
-
-
 
 **श्री गणेशाय नमः**
 
@@ -964,8 +751,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^93]: "शरीरचिन्तनम्—स."
 
-
-
 **ज्ञानकर्मोपयोगित्वमात्मज्ञानस्य हेतवः।  
 सपल्लवाश्च योगाद्या मुक्तानां लक्षणं क्रमात्॥  
 ध्येयस्वरूपं योगस्य प्रवृत्तेर्लक्षणानि च।  
@@ -976,8 +761,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 पर्वणां मोक्षकाण्डेऽत्र षड्विंशतिमजीघटत्॥**
 
 [^94]: "रचितम्—स."
-
-
 
 **तत्र मोक्षप्रस्तावना**
 
@@ -1007,8 +790,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^99]: "पाषाणशिलेन—स."
 
 [^100]: "निर्वृतिं वृत्तिवर्जिताम्-स."
-
-
 
 **अपवर्गपथव्यापी[^101] मोक्षमार्गावरोधकः।**
 
@@ -1046,8 +827,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^105]: " ज्ञानेन वारिणा—ना; ज्ञानोष्मवारिणा—स"
 
-
-
 **अथ मोक्षस्वरूपम्**
 
 **तत्र *मार्कण्डेयपुराणे[^106]***
@@ -1071,8 +850,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 प्रतिपादितयोगवान्। 'सा मुक्तिर्ब्रह्मणा चैक्यमि’ ति योऽयमज्ञानेनाऽविद्यया सह योगिनो वियोगस्तस्मिन् सति या जीवस्य ब्रह्मस्वरूपेण[^109] विभूतिरतिशयानन्दाद्यभिव्यक्तिरिति यावत्, स एव मुक्तिशब्दार्थः। प्राकृतैश्च गुणैर्यदनैक्यमात्यन्तिको वियोगः सोऽपि सैव मार्थान्तरमित्यर्थः।
 
 [^109]: "स्वरूपेणाविर्भूतिः—स."
-
-
 
 **तदुक्तं *ब्रह्मपुराणे***
 
@@ -1101,8 +878,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **अत्राऽऽत्मव्यतिरेकेण द्वितीयं चेन्न पश्यति।  
 ब्रह्मीभूतः स एवेति *दक्ष*पक्ष उदाहृतः॥**
 
-
-
 **श्रूयते च *छान्दोग्योपनिषदि***
 
 **परं ज्योतिरुपसम्पद्य स्वेन रूपेणाऽभिनिष्पद्यत इति।**
@@ -1110,8 +885,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 अयमत्रार्थः—ब्रह्मसाक्षात्कारज्ञान उत्पन्ने अज्ञानस्याऽविद्यापरनामधेयस्य विलयात्[^112] तत्कृतभेदप्रत्ययास्तमये सति परं ज्योतिर्ब्रह्मस्वरूपमुपसम्पद्य भूत्वा ‘स्वेन रूपेण’ स्वाभाविकेन चिदानन्दादिरूपेण ‘अभिनिष्पद्य’ अभिव्यक्तो भवतीति। तथा च
 
 [^112]: "तत्कृतमेदप्रत्ययविलयात् अस्तमये सति—ना. and स"
-
-
 
 ***वेदान्तसूत्रम्[^113]*—**
 
@@ -1125,10 +898,10 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^115]: "दुःखज्ञानममिधाय—स."
 
+[^116]: "६, ५, ५९."
+
 **निरस्तातिशयाह्लादसुग्वभावैकलक्षणा।  
 भेषजं भगवत्प्राप्तिरेकान्ताऽऽत्यन्तिकी मता॥ इति।**
-
-[^116]: "६, ५, ५९."
 
 ***महाभारते***
 
@@ -1146,10 +919,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
  ‘तथा निवृत्तः’ जीवत्वापादकाविद्योपाधिनिलये सति ब्रह्मीभूतः। ‘निर्गुणा’दि\[पदानां\]' तत्तत्कार्यकारणादिविशेषपरत्वेनाऽपौनरुक्त्यम्। जन्मजरामरणदुःख\[निर्वृत्तिश्च आत्यन्तकी जन्ममरणदुःख\] योरत्यन्ता[^118]भावोऽपवर्ग इति पूर्वमेव *देवले*नाऽभिधानात्। स्वप्नादिदृष्टान्तेन स्वगतदुःखानुभवाभावं दर्शयति।
 
 [^118]: " [ ] Supplied by ना. and स."
-
-
-
-
 
 ***पुनर्देबलः***
 
@@ -1175,8 +944,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 तेन बद्धस्य वै बन्धो मोक्षो मुक्तस्य तेन तु॥  
 संसारे विनिवृत्ते तु मुक्तो लिङ्गेन मुच्यते।  
 स चापि त्रिविधः प्रोक्तो मोक्षो वै तत्वदर्शिभिः॥**
-
-
 
 **पूर्वो वियोगोऽज्ञानेन द्वितीयो रागसंक्षयात्।  
 लिङ्गाभावात्तु कैवल्यं कैवल्यात्तु निरञ्जनः॥**
@@ -1213,8 +980,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^125]: " पृथक्ज्ञातगुणेभ्यश्च—ना."
 
-
-
 **क्षीरे क्षीरं जले तोयं पवने पवनो यथा।  
 ब्रह्मभावनया योगी याति तन्मयतां तथा॥  
 एवं तन्मयतां योगी ब्रह्मभावनया गतः।  
@@ -1248,8 +1013,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  ‘न च स्वतां नियच्छन्ति’ स्वरूपमुदकरूपं न त्यजन्तीत्यर्थः। ‘सत्वसंक्षयः’ जीवस्य सम्यक्क्षयो बन्धविच्छेद इत्यर्थः। ‘प्रेयभावो’ जन्म। ‘अलिङ्गः’ लिङ्गशरीररहित इत्यर्थः।
 
-
-
 **तथा**
 
 **संयोज्य तपसाऽऽत्मानमीर्ष्यामुत्सृज्य मोहनीम्।  
@@ -1266,8 +1029,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **विमुक्तपापो नियतः प्रशान्त**
 
 **स्म याति दिव्यं पुरुषं पुराणम्॥**
-
-
 
 **अथ वानप्रस्थ्यम्**
 
@@ -1298,8 +1059,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 ***शङ्खलिग्वितौ***
 
  पुत्रानुत्पाद्य संस्कृत्य वेदमध्याप्य तेभ्यो वृत्तिं विधाय दारैः संयोज्य गुणवति पुत्रे कुटुम्बमावेश्य कृतप्रस्थान–
-
-
 
 लिङ्गो वृत्तिविशेषार्थमुत्क्रामेत्। क्रमशो यायावराणां वृत्तिमुपास्य वनमाश्रयेदुत्तरायणपूर्वपक्षे।
 
@@ -1334,8 +1093,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^135]: "३, ४५."
 
-
-
 ‘ब्रह्मचारी’ ऊर्द्धरेताः। ‘साग्निः’ वैतानाग्निसहितः। ‘सौपासनो’ गृह्याग्निसहितः[^136]।
 
 [^136]: "विज्ञानेश्वरः—“ब्रह्मचारी, ऊर्ध्वरेताः; साग्निः, वैतानाग्निसहितः; तथा सौपसनो, गृह्याग्निसहितश्च वनं व्रजेत्”"
@@ -1355,8 +1112,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^138]: " Not found in printed आ. ध. सू in this chapter but १, २, २३ reads तथा क्षारलवणमधुमांसानि(न भुञ्जीत
 
-
-
 द्वंद्वानामेकैकमुपादायेतराणि दत्वाऽरण्यमवतिष्ठेत। तस्याऽऽरण्येनैवाऽत उर्ध्वं होमः वृत्तिः प्रतीक्षाऽऽच्छादनं विहितम्। येषु कर्मसु पुरोडाशाश्चरवस्ते कार्याः। सर्वं चोपांशु सह स्वाध्यायेन नाऽऽरण्यमभ्याश्रावयेत्। अग्न्यर्थं शरणम्। आकाशे स्वयम्। अनुपस्तीर्णे शय्यास्थाने। नवे सस्ये प्राप्ते पुराणमनुजानीयात्। भृयांसं वा नियममन्विच्छन्नन्वहमेव पात्रेण सायं प्रातरन्नमाहरेत्। ततो मूलैः फलैः पर्णैस्तृणैरिति वर्त्तयंश्चरेदन्ततः प्रवृत्तानि ततोऽपो वायुमाकाशमित्यभिनिःश्रयेत्। तेषामुत्तर उत्तरः संयोगः फलनो विशिष्टः।
 
  ‘अत एव’ ब्रह्मचर्यात्। एकाग्निः यदा ब्रह्मचारी वानप्रस्थो भवति तदा लौकिक एकोऽग्निराहार्य्यः। ‘अनिकेतः’ गृहरहितः। ‘अशर्मा’ सुग्वरहितः। ‘अशरणः’ रक्षकशून्यः। ‘मुनि ‘मौनी’। ‘अन्ततः प्रवृत्तानि’ आरण्यैर्नीवारादिभिः कियन्तमपि कालं नीत्वा तनो मूलादिभिस्तृणपर्यन्तैः कालं यापयेत्। ‘अन्ततः’ तान्येव मूलादीनि हिंसां विना वातादिना पतितान्यादाय वर्त्तयंश्चरेत्। ‘अभिनिःश्रयेत्’ भवेत्। ‘सोमावरार्द्ध्यानि’ सोमयागात् प्राचीनानि दर्शपूर्णमासादीनि। ‘अभिषिक्तः’ स्नातः। ‘अभिघ्नन्’ जलप्राण्यपसारणाय उदकं पाणिना ताडयन्। ‘तस्य द्वन्द्वं द्रव्याणामिति’। तस्य वानप्रस्थस्य विहितद्रव्याणां दात्रादीनां युगलमुपादेयमित्युपदिशन्ति। ‘आरण्येन’ फलादिद्रव्येण,
@@ -1367,11 +1122,7 @@ nor his access to the condition from which there is no return; for, in the *mah�
 धान्यकं देवधान्यञ्च शमीधान्यं तथैक्षवम्॥  
 स्विन्नधान्यं तथा पण्यमूलं क्षारगणस्स्मृतः।**
 
-
-
 इति शेषः। ‘प्रतीक्षा’ आतिथ्यं। ‘सर्वं चोपांशुकर्मकाण्डं’ सर्वमुपांशु कर्म कर्तव्यम्। ‘नाऽऽरण्यमभ्याश्रावयेदिति’ नाभ्यधिकं मन्त्रादिभिः स्वरैः शरण्यं हविराश्रावयेत्। मन्त्रोऽपि मध्यमाभ्यामेव। ‘अग्न्यर्थं शरणं’ गृहं कुर्यात्। नात्मार्थं शय्यासने कुर्यादिति शेषः। ‘पुराणमनुजानीयात्’ पुरातनमन्नं ब्राह्मणेभ्यो दद्यादिनि शेषः। ‘अन्वहमेव पात्रेणे ‘त्यश्वस्तनवृत्तिरुच्यते॥
-
-
 
 अथ वानप्रस्थधर्माः
 
@@ -1397,8 +1148,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^140]: "ऋक्षेष्टयाश्रवणं, इति उद. मा."
 
 [^141]: "विघिवन्निर्वपेत् पृथक् इति मुद्रितमनौ."
-
-
 
 **देवताभ्यश्च तद्दत्वा[^142] वन्यं मेध्यतरं हविः।  
 शेषं[^143] समुपभुंजीत लवणं च स्वयंकृतम्॥**
@@ -1435,8 +1184,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **श्रावणेन विधानेन सायं प्रातरुपस्पृशेत्।  
 वेणुश्यामाकनीवारास्तन्तुयोधगवेधुकाः॥**
-
-
 
 **फलानामुपभुञ्जीत पक्वमांसं च वर्जयेत्।  
 मूलं पुष्पं फलं पत्रं दिवा स्थलजतोयजम्॥**
@@ -1481,8 +1228,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^150]: "३, ४८"
 
-
-
 बृहस्पतिः[^151]
 
  **वसीत चर्म चीरं वा छत्रोपानद्विवर्जितः।**
@@ -1496,7 +1241,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 ***वसिष्ठः***[^152]
 
-
 [^152]: "९, १०—१२."
 
 श्रावणकेनाऽग्निमुपसमाधायाऽऽहिताग्निः[^153]\[स्यात्\]। वृक्षमूलिक ऊर्द्ध्वंषड्भ्यो मासेभ्योऽनग्निरनिकेतनः। दद्याद्देवपितृमनुष्येभ्यः स गच्छेत् स्वर्गमानन्त्यम्॥
@@ -1505,14 +1249,11 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  ‘श्रावण केन’ *वैखानसं शास्त्रं* श्रावणकमिति *भर्तृयज्ञः*। तदुक्तविधिनेत्यर्थः॥
 
- 
 शरण्यः[^154] सर्वभूतानां संविभागरुचिः अमत्सरी परीवादपैशुन्यमृषावादवर्जितः। शुचिर्ग्रामं न प्रविशेत्। अरण्यनिलयः पश्चर्थेपुरोडाशाँश्चरुं वा निर्वपेत्। पर्वभागेषु[^155] देवान् यथाभागैर्योजयेत्। एकाग्निपरायणः। परैरुत्सृष्टान्याश्रमान्तरितानि नाऽभ्यवहरेत्। परिपूतां प्रोक्षितां भूमिमाक्रामेत्। संस्कृतानि मन्त्रैरधिश्रयेत्॥
 
 [^154]: " ‘शरण्य’ इत्यारभ्य ‘अधिश्रये’दिति पर्यन्तं अत्र वीरमित्रोदये मोक्षप्रकाशे च वासिष्ठत्वेनोक्तम्। परन्तु मुद्रितवासिष्ठेषु न दृश्यन्तै."
 
 [^155]: " पर्वकालेषु for पर्वभागेषु—ना and स."
-
-
 
 *बोधायनः*[^156]
 
@@ -1554,8 +1295,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  वानप्रस्थोऽरण्यमभिव्रज्य ब्राह्मीमिष्टिं कृत्वा अग्निधूम इत्युपस्थाय वन्येन जीवेन्नीवारेङ्गुदबदरशाक- भक्ष्योऽतिथिपि-
 
-
-
 तृदेवताभितर्पणं कुर्वन्नक्तं दिवार्द्धरात्रत्रिचतुर्थप्रभृतीनि कृत्वा रूक्षो धूम्रः कृशः केशी धमनिसन्ततश्च मृगचर्यया वा चरन् क्षपयेदिन्द्रियग्रामम्। यायावरीं वा वृत्तिमुपासीत॥
 
  ‘ब्राह्मी’ ब्रह्मदेवत्या। ‘नक्तं दिवेत्यादि’नैतेषु कालेषु भोजनविकल्पः। शक्त्यपेक्षयोच्यत इति *बौधायनः*[^162]॥
@@ -1569,8 +1308,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
  त्रेतां श्रावणकं वाग्निमाधाय वल्कलशाणचर्मचीरकुशमुञ्चफलकवासा[^163] वानप्रस्थोक्तेन विधिना । वानप्रस्थो
 
 [^163]: "कनकवास—ना. and स."
-
-
 
 द्विविधो भवति—स्वानुज्ञायिकोऽनुप्रस्थायिकश्चेति। स्वानुज्ञायिकश्चतुर्विधः—एकवृत्तिः संप्रक्षालक आत्मवृत्तिरहिंसकश्च।
 
@@ -1594,8 +1331,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **संवत्सरनिचयी[^166] पूर्वनिचयानाश्वयुज्यां जह्यात्।**
 
 [^166]: "९४, १२."
-
-
 
 *मनुः*
 
@@ -1634,8 +1369,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 षट्कालनिरताः केचित् केचिद्द्वादशकालिकाः।  
 पक्षोपवासिनः केचित्केचिन्मासोपवासिनः॥
-
-
 
 ऊष्मपाः सोमपाः केचित् वायुभक्षास्तथापरे।  
 शुक्लपक्षे पिबन्त्येके यवागूं क्वथितां सकृत्॥
@@ -1677,8 +1410,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 वृक्षसक्ताग्रपादाश्च ये चरन्ति महत्तपः।  
 अदर्शनेन ये धर्मं चरन्ति नियतव्रताः॥
 
-
-
 **एकाङ्गुष्ठेन तिष्ठन्ति ये च भूताविहिंसकाः।  
 सस्यभक्षाः[^170] पयोभक्षा निर्दिष्टफलभोजिनः॥**
 
@@ -1715,10 +1446,7 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 *हारीतः*
 
-
 स्थाण्वेकपादैकपार्श्वोर्ध्वावाग्ग्रीष्मतपनवर्षाभ्रावकाशहिमजलशयनकुशप्रस्तरस्थण्डिलशर्करोग्वलमुसलकीलकशय्या- प्रभृतिभिरात्मानं क्षपयेत्।
-
-
 
 अथात्रोदाहरन्ति
 
@@ -1759,8 +1487,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **कृच्छ्रैर्वाऽपि नयेत् कालं ब्रह्मचर्यं च पालयेत्।  
 एवं नीत्वा वने कालं द्विजो ब्रह्माश्रमी भवेत्॥**
 
-
-
 **नाऽग्निशुश्रूषया दान्त्या स्नानेन विविधेन च।  
 वानप्रस्थो दिवं याति याति भोजनवर्जनात्॥**
 
@@ -1796,8 +1522,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **‘अपराजिता’ ऐशानी। ‘अजिह्मगः’ ऋजुगामी।**
 
-
-
 ***यमः***
 
 **वने तपसि युक्तानां महर्षीणां महात्मनाम्।  
@@ -1813,8 +1537,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **र्व्रजेद्विजः स्वर्गमितो वनस्थः॥**
 
 इति कृत्यकल्पतरौ वानप्रस्थाश्रमपर्व॥
-
-
 
 **अथ यत्याश्रमः**
 
@@ -1838,8 +1560,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 अनिष्ट्वा चैव यज्ञैश्च मोक्षमिच्छन् व्रजत्यधः॥**
 
  ‘विहृत्य’ अटित्वा, यथोक्तविधिमनुष्ठायेति यावत्। ‘परिव्रजेत्’ सन्यासविधिना क्षपयेत्। ‘भिक्षाबलिपरिश्रान्तः’ भिक्षाबलिदानेनाऽऽयासितः। ‘मोक्षे निवेशयेत्,’ मोक्षशब्देन प्राधान्यात् प्रव्रज्याश्रमो लक्ष्यते।
-
-
 
 *शङ्खलिखितौ*
 
@@ -1874,8 +1594,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **अभयं सर्वभूतेभ्यो दत्वा चरति यो मुनिः।  
 तस्यापि सर्वभूतेभ्यो न भयं जातु विद्यते॥**
-
-
 
 अभयं सर्वभूतेभ्यो यस्तु दत्वा निवर्तते।  
 हन्ति जातानजातांश्च प्रतिगृह्णाति यस्य सः॥
@@ -1913,8 +1631,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^185]: "सत्तमः - ना. and स."
 
-
-
 **अथ सन्यासविधिः**
 
 तत्र बौधायन[^186]ः
@@ -1930,8 +1646,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^187]: "तै. ब्रा., ३, १२, ९, ७."
 
  अपुनर्भवं नयतीति नित्यः। महदेनं गमयतीति महिमा। केशश्मश्रुलोमनखानि वापयित्वोपकल्पयते। यष्टयः शिक्यं जलपवित्रं कमण्डलुं पात्रमिति। एतत् समादाय ग्रामान्ते ग्रामसीमान्तेऽग्न्यागारे वाऽऽज्यं पयो दधीति त्रिवृत् प्राश्योपवसेदपो वा।
-
-
 
  ॐ भूः सावित्रीं प्रविशामि तत्सवितुर्वरेण्यम्। ॐ भुवः सावित्रीं प्रविशामि भर्गो देवस्य धीमहि। ॐस्वः सावित्रीं प्रविशामि धियो यो नः प्रचोदयात् \इति। [पच्छोऽर्धर्चशः[^188]\] ततः समस्तयाव्यस्तया चाऽऽत्मानमात्मना आश्रमादाश्रममुपनीय ब्रह्मपूतो भवति इति विज्ञायते।
 
@@ -1949,8 +1663,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^190]: "सप्त ते अग्ने समिधस्सप्त जिह्वास्सप्तर्षयः सप्त धाम प्रियाणि। सप्त होत्रास्सप्तधा त्वा यजन्ति सप्तयोनीरा पृणस्वाघृतेन॥ इति समिद्वती ऋक् (तै. सं., १, ५, ३, २
 
  अथ सायं हुतेऽग्निहोत्र उत्तरेण गार्हपत्यं तृणाणि संस्तीर्थ तेषु द्वन्द्व न्यञ्चि पात्राणि सादयित्वा दक्षिणेनाऽऽहवनीयं ब्रह्मायतने दर्भान् संस्तीर्य तेषु कृष्णाजिनं चान्तर्धायैतां रात्रि जागर्ति। य एवं विद्वान् ब्रह्मरात्रिमुपोष्य ब्राह्मणोऽग्नीन् समारोप्य प्रमीयते स सर्वं पाप्मानं तरति तरति ब्रह्महत्याम्।
-
-
 
  अथ ब्राह्मे मुहूर्त उत्थाय काल एव प्रातरग्निहोत्रं जुहोति। अथ पृष्ठ्यां स्तीत्वऽपः प्रणीय वैश्वानरं द्वादशकपालं निर्वपति सा प्रसिद्धेष्टिः संतिष्ठते।
 
@@ -1971,8 +1683,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  यष्टयश्शिक्यं जलपवित्रं च कमण्डुलुं पात्रमित्येतत् समादाय, यत्राऽऽपस्तत्र गत्वा स्नात्वाऽप आचम्य सुरभि-
 
-
-
 मत्याऽब्लिङ्गाभिर्वारुणीभिर्हिरण्यवर्णाभिः पावमानीभिरिति मार्जयित्वाऽन्तर्जलगतोऽघमर्षणेन षोडश प्राणायामान् धारयित्वोत्तीर्य वासः पीडयित्वाऽन्यत् प्रयतं वासः परिधाय अप आचम्य ‘ॐभूर्भुवःस्वरि’ति पवित्रमादाय तर्पयति—
 
  ॐ भूःतर्पयामि। ॐ भुवस्तर्पयामि। ॐ स्वस्तर्पयामि ॐ[^194] भूर्भुवस्वर्महर्नम इति देववत् पितृभ्योऽञ्जलिमादाय तर्पयति। “ॐ भूः स्वधा, ॐ भुवः स्वधा, ॐ स्वः स्वधा, ॐ भूर्भुवस्स्वः स्वधा[^195],ॐ महः स्वधा, इति। अथोदयं चित्रं इति द्वाभ्यामादित्यमुपतिष्ठते। ॐ मिति ब्रह्म ते ब्रह्म वा एष ज्योतिर्य एष तपत्येष वेदो य एष तपनि वेद्यमेवैतद्य एष तर्पयत्येवमेवैष आत्मानं तर्पयति आत्मानं नमस्करोतिआत्मा ब्रह्माऽऽत्मा ज्योतिः।
@@ -1991,15 +1701,11 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^197]: "Ibid., आहारशुद्धिश्चेत् (बो. ध. स., २, १८, २
 
-
-
  ‘सन्यासविधिं’ चतुर्थाश्रमेतिकर्तव्यताम्। समस्तगर्भाधानादि संस्कारः। अत एव ब्रह्मचर्यवान् अविप्लुतब्रह्मचर्यः। ‘एकेषां’ दर्शनमिति शेषः।
 
  ‘विधुरे’ मृतभार्ये पुरुषे सन्यासमुपदिशान्ति इत्यन्वयः। ‘कर्मविरामे’ कर्मानुष्ठानसामर्थ्योपरमे। ‘एष’ इति ‘येन सूर्यस्तपतीति’ श्रुत्या अभिहितस्याऽऽत्मनो व्यपदेशः। ब्राह्मणस्य संबन्धिति शेषः। अनेन ब्राह्मणस्य सन्यासेऽधिकार इति दर्शयति। ‘स च नित्य आत्मा’ न कर्मणा वर्द्धते ‘पुण्येन नो कनीयात्’ पापेनेति शेषः। ‘तस्यैव’ ‘परब्रह्मण’ आत्मा स्वरूपं ‘पदवित्’ पद्यते गम्यतेऽनेनेति पदमत्र वेदः ‘उपकल्पयते’ संभवति। ‘यष्टय’स्त्रयो वैणवा दण्डाः। ‘पात्रं’ भिक्षापात्रं। ‘त्रिवृदिति’संसृष्टमाज्यादित्रयम्। ‘उपवसेत्’ पुनर्भोजनं न कुर्यात्। ‘अपो वे’ त्याज्यायभावे विकल्पः। ‘पच्छः’ पादशः ‘अर्द्धर्चशः’ अर्द्धर्चेन। समस्तया कृत्स्नया व्यस्तया व्याहृतिरहितया ।आत्मानमात्मनेत्यादि। ‘ब्रह्म’ शब्देन सावित्र्यत्रोच्यते। ‘पूतो’ विधूतपापो भवत्येवेत्यर्थः॥
 
  पुनराश्रमग्रहणेन सावित्र्यनुप्रवेशादूर्द्धं पुनरावृत्यभाव उच्यते। स एष भिक्षुरानन्त्याय कल्पत इति शेषः। ‘उपसमाधाय’ प्रज्वालय। आहृत्य भिन्नयोनिपक्षेऽपि अथ आयतने निधाय समिद्धति(?)। ‘प्रादेशमात्रीं ‘पालाशीं समिधमाधाय उद्धृत्याऽऽहवनीये तृणानि दर्भान् ‘पात्राणि यज्ञायुधानि कृष्णाजिनं चाऽन्तर्धाय’ दर्भेष्वास्तीर्य ‘अकाल एव ‘अनुदितएव पृष्ठ्यां स्तीर्त्वीगार्हपत्याहवनीययोरन्तरा उलपराजिं
-
-
 
 कृत्वा अमृण्मयाश्ममयानि मृण्मयाश्ममयव्यतिरिक्तानि दीर्धीमयानि(?) गार्हपत्येऽरणी प्रक्षिपति इति शेषः। ‘त्रिरुच्चैर्वदेदि’ ति अन्तर्वेदीति शेषः। ‘सुरभिमत्या’ दधिक्राव्ण इत्येतयर्चा। ‘अब्लिङ्गा’ ‘आपोहिष्ठीया। ‘वारुणी, ‘इमं मे वरुण’ इत्याद्या’ हिरण्यवर्णाः शुचय’ इत्याद्याश्चतस्रः ‘पावमान्यः’ ‘पवमानः सुवर्ज्जनः’ इत्यनुवाकः। ‘अघमर्षणमि’ ‘त्यृतं च[^198] सत्यं चेति’ सूक्तम्। ‘पवित्रं’ जलपवित्रम् ।‘देववदिति’ प्राचीनावीतित्वप्रतिषेधार्थम्। ‘ओमिति ब्रह्मेत्यादि’ ‘आत्माज्योतिरित्यन्तं सूक्तम्’ ॐकार इति।
 
@@ -2008,8 +1714,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
  आदित्योपस्थानानन्तरं सावित्रीं सहस्रकृत्व आवर्त्तयेत्। ॐ भूर्भुवःस्वरित्यादेः। यदा यदा यो गृह्णातीति तदा सप्रणवाभिर्व्याहृतिभिरेवमादायाऽपो गृह्णीयादिति शेषः। ‘अपरिस्रुताभिः’ जलपवित्रेणामिलिताभिः। ‘अपरिपूताभिः, निरीक्षणादिना अनिरस्तापद्रव्याभिः। ‘एकदण्डीत्रिदण्डी वेति’ केचित् पठन्ति। “सोऽपपाठः, अधस्तात् दण्डत्रयोपकल्पनस्योक्तत्वा”दिति *बोधायनभाष्यकार[^199]:—“एकदण्डी त्रिदण्डी वा इति पाठः अपरार्कविज्ञानेश्वरादिसम्मतः। कृत्यकल्पतरुस्तु ‘एकदण्डी’ इति पाठं नाऽनुमेने। भाष्यकृता उद्धृतत्वात्। त्रिदण्डस्यैवाग्रे ग्रहणोक्तश्च।” See या. अप. p.949 and या.मि., p.336, which confirm Mitranmisra’s statement. गोविन्दस्वामी (पृ.२०९ ) accepts the reading ‘एकदण्डी त्रिदण्डी वाः—‘उक्तेऽपि दण्डत्रित्वे विकल्पामिधानं किमर्थम्? उच्यते—सकलाश्रमधर्मानुष्टाने सति दण्डसख्यायां नाऽभिनिवेशः कर्त्तव्यः इत्यभिप्रायः॥” Manu (XII, 10, 11) and Yājnavalkya (III, 57 ) prescribe only the tridanḍa to the Sanyāsin. मनुस्मृतिः, १२, १० and 10, 8—(अपरार्क)")*ः[^199]:—“एकदण्डी त्रिदण्डी वा इति पाठः अपरार्कविज्ञानेश्वरादिसम्मतः। कृत्यकल्पतरुस्तु ‘एकदण्डी’ इति पाठं नाऽनुमेने। भाष्यकृता उद्धृतत्वात्। त्रिदण्डस्यैवाग्रे ग्रहणोक्तश्च।” See या. अप. p.949 and या.मि., p.336, which confirm Mitranmisra’s statement. गोविन्दस्वामी (पृ.२०९ ) accepts the reading ‘एकदण्डी त्रिदण्डी वाः—‘उक्तेऽपि दण्डत्रित्वे विकल्पामिधानं किमर्थम्? उच्यते—सकलाश्रमधर्मानुष्टाने सति दण्डसख्यायां नाऽभिनिवेशः कर्त्तव्यः इत्यभिप्रायः॥” Manu (XII, 10, 11) and Yājnavalkya (III, 57 ) prescribe only the tridanḍa to the Sanyāsin. मनुस्मृतिः, १२, १० and 10, 8—(अपरार्क)")। ‘त्यागः’ संगस्थेति शेषः।
 
 [^199]: "मित्रमिश्रः मोक्षप्रकाशे (पृ. ६०, अडयार मातृकायाम्
-
-
 
 *नरसिंहपुराणे*
 
@@ -2055,11 +1759,7 @@ nor his access to the condition from which there is no return; for, in the *mah�
 सर्वभूतहितश्शान्तः त्रिदण्डी सकमण्डलुः।  
 एकारामः परिव्रज्य भिक्षार्थी ग्राममाश्रयेत्॥
 
-
-
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **षड्भिर्वा पञ्चभिर्युक्तं मुष्टिभिः शिक्यलक्षणम्।  
 गृह्णीयान्मन्त्रतो विद्वान् पात्रं वाऽपि कमण्डलुम्॥**
@@ -2096,8 +1796,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **अधिकारिशरीरेण दुष्प्राप्यं प्राप्य यत्नतः।  
 नाऽपक्रामति संसारादात्महा स नराधमः॥**
 
-
-
 *दक्षः*
 
 **सत्वोत्कटाः सुरास्तेऽपि विषयैस्तु वशीकृताः।  
@@ -2108,8 +1806,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 त्रिदण्डव्यपदेशेन जीवन्ति बहवो जनाः॥**
 
 **यो हि ब्रह्म न जानाति न त्रिदन्डार्हको हि सः॥**
-
-
 
 **अथ यतिधर्मः**
 
@@ -2127,8 +1823,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 स्यैते नियताबुद्धि र्त्रिदण्डीति स उच्यते॥**
 
 [^204]: "कायदण्डस्तथैव च। यस्यैते निहितां बुद्धौ—इति मुद्रितमनौ."
-
-
 
 **त्रिदण्डमेतन्निक्षिप्य सर्वभूतेषु मानवः।  
 कामक्रोधौ वशे यस्य ततः सिद्धिं नियच्छति।**
@@ -2166,8 +1860,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **सप्तद्वारावकीर्णं च न वाचमभृतां वदेत्।  
 अध्यात्मरतिरासीनो निरपेक्षो निरामिषः॥**
 
-
-
 **आत्मनैव सहायेन सुखार्थी विचरेदिह।  
 क्लृप्तकेशनखाश्मश्रुः दण्डी[^207] पात्री कुसुंभवान्॥**
 
@@ -2194,8 +1886,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 न देहो भविता तत्र दृष्टं शास्त्रं पुरातनम्॥**
 
 [^209]: "See Tirtha Kāṇḍa of कृयकल्पतरु, वारणसीमाहात्म्यम्, पर्व, २."
-
-
 
 *मनुः*[^210]
 
@@ -2235,8 +1925,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 सायं प्रातर्नतृप्येत न प्रसज्येत भोजने।  
 नेंद्रियार्थेषु सज्जेत कदाचिदपि कामतः॥
 
-
-
 **यो वाऽस्य दक्षिणं बाहुं चन्दनेनानुलेपयेत्।  
 वामं वाऽप्यस्य यस्तक्षेत् समौ तौ पुरुषौ मतौ॥**
 
@@ -2264,8 +1952,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^211]: "वसिष्ट, १०,९-१०—एकशाटीपरिहितः। अजिनेन वा गोप्रलूनैस्तृणैरवस्तृतशरीरः॥"
 
-
-
 दित्यर्थः। ‘सायंप्रातर्नतृप्येत’ इत्यत्रैव वा हेतुः। ‘प्रसज्येत भोजने’ इति तक्षणं[^212] शास्त्रेण।
 
 [^212]: "लक्षणं for तक्षणम्—स."
@@ -2288,8 +1974,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
   ‘त्रिदण्डकुण्डी’ त्रिदण्डकमण्डलुयुक्तः। ‘पक्ष्मपवित्रप्रयोजनापेक्षी’। पक्ष्मशब्दोऽत्रगोवालवचनः। पक्ष्म-
 
-
-
 पवित्रयोरर्थः प्रयोजनं पात्रशुद्धिजलपावनादि। कौपीनमात्रवासाः’ गुदप्रदेशमात्राच्छादनवसनः। ‘मात्र’शब्दोऽत्राधिक- परिमाणनिवृत्यर्थः। ‘व्रणमात्रलेपनपरितुष्टः।’ ‘वृण’ शब्दोऽत्र शरीरपरः। ‘लेपन’ माहारस्तेन शरीरयात्रामात्रेणाऽऽहारेण परितुष्टो भवेत्। न ‘रसलालस’इत्यर्थः। ‘कालाकांक्षी’ जीवितकालप्रतीक्षां कुर्यात्। न तु वैराग्यादिना। अविहितोपायेनाऽऽत्मानं व्यापादयेदित्यर्थः। ‘असंविधानः’असञ्चयवान्। ‘कल्कः’पापम्। आत्मज्ञानविवेकार्थकुशलः’। आत्मविषयज्ञानं आत्मज्ञानम्। तत्र ‘विवेको’ देहाद्यनिरिक्तस्याऽऽत्मतत्वस्याऽववोधः। तस्मिन्नेवार्थे कुशलः। ‘द्विपरिधानी’ द्वे परिधाने कौपीनकटिवेष्टनाख्ये यस्य स तथा। ‘फलकं’ वार्क्षं। ‘शीतप्रावरणं’ शीतनिवारणार्थमुपरि वासो धारयेत्।
 
 पुनः *शङ्खलिखितौ*
@@ -2305,8 +1989,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^214]: "संयोगः इति मस्करिपाठः (पृ. ७०
 
 [^215]: "निर्णिज्य (Ib. पृ. ७१
-
-
 
 मुपादीत। न द्वितीयामपर्त्तु रात्रिं ग्रामे वसेत्। मुण्डः शिखी वा। वर्जयेज्जीववधम्[^216], and स.")। समो भूतेषु। हिंसानुग्रहयोरनारम्भी।
 
@@ -2328,8 +2010,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  परिव्राजको दीक्षाप्रभृति सर्वारम्भान् परित्यजेत्। चतुर्मासान्तरं केशश्मश्रृण्यपनयेत्। नाऽधौतः श्मश्रुरोमाणि। विद्याचारकुलवयोवृनित्ता परेभ्यो न कथयेत्। ‘सर्वारम्भान्’ गृहादीनामिति शेषः। चत्वारो मासा अन्तरं यत्र तत्रेति क्रियाविशेषणम्। ‘अधौतः’ अस्नातः।
 
-
-
 *पुनर्देवलः*
 
  स भिक्षुररागानुक्रोशप्रधानः कषायी मुण्डितः त्रिदण्डकमण्डलु पवित्रपात्रपादुकासनः, कन्थामात्रो, ज्ञानरतिरात्महृष्टः, बन्धुभिरसंपृक्तो, निरपेक्षः। परातिक्रम, क्षीणविगतपापः, सममृत्काञ्चनः स्वमात्रा, स्वय्यसक्तो, मध्यस्थः तुल्यारिमित्रो, निष्परिग्रहो, ब्रह्मवादी, मङ्गलव्यवहारसंस्कारजीव, शिखारत्नधनधान्यविषयोपभोगसंपर्केर्ष्यादर्पमोहमायाहर्षविरोधविस्मय- विवादत्रासवितर्कतन्द्रश्चेति यतिधर्माः।
@@ -2349,8 +2029,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **ध्रुवा ह्यनावृत्तिरुपेक्षकस्य॥**
 
  अव्यक्तलिङ्गो व्यक्ताचारोऽनुन्मत्त उन्मत्तवेषः। अथाप्युदाहरन्ति।
-
-
 
 **न शब्दशास्त्राभिरतस्य मोक्षो**
 
@@ -2376,8 +2054,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **भूषितोऽपि चरेद्धर्मं यत्र तत्राऽऽश्रमे रतः।  
 समः सर्वेषु भूतेषु न लिङ्गं धर्मकारणम्॥**इति।
-
-
 
  ‘अनुन्मत्त’ उन्मत्तवेषेण चरेदिव्यन्वयः। लोके पूजापरिहारार्थं चैतत् ‘त्रिपुष्करे’ त्रिदण्ड्यामिति कश्चित्। भिक्षापात्रधारे काष्ठत्रये चेति रोगाद्यापत्स्वेकान्नमपि भुञ्जीतेत्यनुज्ञातम्। ‘धर्मिष्ठः’ धर्म्येषु मध्ये प्रधाननमः।
 
@@ -2408,8 +2084,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 तस्माद्भिक्षुः प्रवृत्तेषु आददीताऽप्यहिंसया।
 
-
-
  ‘केतन'मत्र निमन्त्रणम्। ‘नियोगः' पराज्ञानुष्ठानम्। ‘मिक्षोदकपवित्राद्या' इति ‘आर्जव'मिति क्रियाविशेषणम्। तेन भिक्षाद्या ऋजुभावेन शोभना। भिक्षुसत्क्रियेत्यर्थः। नरकायेति'नियोगाद्या असत् क्रिया, उभयोरपि नरकायेत्यन्वयः।
 
 *पुनहरीतः*
@@ -2429,8 +2103,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **अमृतमध्ये वसति भयं तस्य न विद्यते।  
 मैत्रश्च सर्वभूतानाम हिंसानिरतः शुचिः॥**
-
-
 
 *बौधायनः*[^228]
 
@@ -2455,8 +2127,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **अनग्निरनिकेतः स्यादशर्माऽशरणो मुनिः।  
 भिक्षार्थी ग्राममन्विच्छेत् स्वाध्याये वाचमुत्सृजेदिति।**
-
-
 
  विज्ञायते च—परिमिता[^230] वा ऋचः परिमितानि सामानि परिमितानि यजूंषिः। अथैनस्यैवाऽन्तो नास्ति यद्व्रह्य तत् प्रतिगृणत आचक्षीत स प्रतिगर इति।
 
@@ -2489,8 +2159,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **एको भिक्षुर्यथोक्तस्स्यात् द्वौ चैव मिथुनं स्मृतम्।  
 त्रयो ग्रामाः समाख्याताः ऊर्द्ध्वन्तु नगरायते॥**
-
-
 
 **नगरं हि न कर्तव्यं ग्रामो वा मिथुनं तथा[^232]।  
 एतत्त्रयं हि कुर्वाणो स्वधर्माच्च्यवते यतिः॥**
@@ -2528,8 +2196,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
  मुण्डोऽममोऽपरिग्रहः। सप्तागाराण्यसङ्कल्पितानि चरेद्भैक्षम्।
 
 [^234]: "१०, ६—७."
-
-
 
 *यमः*
 
@@ -2572,8 +2238,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 सप्तागारं चरेद्भिक्षां भिक्षुकं नाऽनुभिक्षयेत्।  
 नाऽऽस्वादयेद्रसनया नाऽश्नीयात्कस्यचिद्गृहे॥
 
-
-
 *याज्ञवल्क्यः*[^238]
 
 **अप्रमत्तश्चरेद्भैक्ष्यं सायाह्नेऽनभिलक्षितः।  
@@ -2592,8 +2256,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^241]: " चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः॥ आप्रा द्यावापृथिवी अनतिरिक्षँसूर्य आत्मा। जगतस्तस्थुषश्च॥ तै. सं., १, ४, ४३."
 
 [^242]: "ब्रह्म जज्ञानं प्रथमं पुरस्ताद्वि सीमतस्सुरुचो वेन आवः। स बुध्निया उपमा अस्य विष्ठास्सतश्च योनिमसतश्च विवः॥ (तै. सं., ४, २, ८, २.
-
-
 
 दित्यमुपतिष्ठेत ‘उद्वयं[^243] तमसस्परी’ति ‘वाङ्म आसन्नसोः प्राण’इति[^244] जपित्वा।
 
@@ -2615,8 +2277,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 *देवलः*
 
  नित्यं प्रत्यादित्ये निवृत्तमुसलोद्यमे प्रशान्तधूमे काले ग्रामं प्रविश्य, भैक्षार्थं सर्वतः पर्यटन् अग्रतो युगमात्रमवलोक्य सङ्कल्पितानि विवृतद्वाराणि, अन्यवचनेऽनासक्तः प्रविशेत्। प्रविष्टः संकल्पप्रणयकुहकचिन्मयविलम्बनपरिहासयाचनाप्रेक्षितादि परिहरेत्। गोदोहनमात्रं त्थित्वा व्रजेत्। भिक्षां लब्ध्वा न प्रहृष्येत्। अलब्ध्वा न क्रुध्येत्। अन्त्यवसायिपरिपन्थि ज्ञातीश्वरप्रेतभूतकभिक्षां नोपलभ्यां प्रतिहतां गृह्णीयात्। आत्मनः संस्कृतां परबाधाकरीं वर्जयेत्। मधुमांसकुबीजविरहितां गृहीत्वा तद्भैक्षमेकान्ततो नैवपात्रेणान्येन वा तूष्णीं भूत्वा मात्रया भुञ्जीत।
-
-
 
 *हारीतः*
 
@@ -2651,8 +2311,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 सायाह्नेकाले विप्राणां गृहाणि विचरेन्मुनिः॥
 
 [^248]: "६०, १२."
-
-
 
 **उद्घाटयेच्च कवचं दक्षिणेन करेण च।  
 पात्रं वामकरे स्थाप्य दक्षिणेनाऽवशेषयेत्॥**
@@ -2694,8 +2352,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^250]: "अथवाऽप्यभ्यसन् वेदम् इति मिताक्षरपाठः—३, २०४."
 
-
-
 तथा
 
 **ज्ञेयं[^251] चारण्यकमहं यदादित्यादवाप्नुयात्।  
@@ -2729,8 +2385,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **चाक्षुषे दश कुर्वीत वाच्ये विंशतिमेव च।  
 मानसे त्रिशतं कुर्याच्छतं वाऽपि यथाविधि॥**
-
-
 
 *मनुः*[^255]
 
@@ -2769,8 +2423,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
  आहारार्थं कर्मकुर्यात्। निन्द्यं कुर्यात्। आहारं प्राणसंधारणार्थम् प्राणाधार्यास्तत्वजिज्ञासार्थम्। तत्वं जिज्ञासंयेन भूयान्नभूय[^257]।
 
 [^257]: "वी. मि. मोक्ष., ८५ adds—एवं धर्मरतस्यैव सिद्धिरित्युक्तम्."
-
-
 
 भूषितोपि[^258] चरेद्धर्मंयत्रतत्राश्रमे वसन्।  
 समः सर्वेषु भूतेषु न लिंगं वर्मकारणम्[^259]॥
@@ -2813,8 +2465,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^262]: "६, ८६—९६."
 
-
-
 **ब्रह्मचारी गृहस्थश्च वानप्रस्थो यतिस्तथा।  
 एते गृहस्थप्रभवाश्चत्वारः पृथगाश्रमाः॥**
 
@@ -2848,8 +2498,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 इति श्रीभट्टहृदयधरात्मज श्रीलक्ष्मीधरविरचिते कृत्यकल्पतरौ  
 मोक्षकाण्डे यतिधर्माः।
 
-
-
 **अथ वैराग्यम्**
 
 तत्र *महाभारते*
@@ -2878,8 +2526,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 तथाऽक्षिरोगातीसारकुष्ठाद्यामयसंज्ञितैः॥**
 
 [^266]: "गोरखपुर वि. पु. पृ. ५१३, reads— गुल्मार्शः श्वयथुश्वासच्छर्यादिमिरने कथा।"
-
-
 
 **भिद्यते देहजस्तापो मानसं श्रोतुमर्हसि[^267]।  
 कामक्रोधभयद्वेषलोभमोहविषादजः॥**
@@ -2920,8 +2566,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **प्राजापत्येन वातेन पीड्यमानास्थिबन्धनः।  
 अधोमुखो वै क्रियते प्रबलैः सूतिमारुतैः॥**
 
-
-
 **क्लेशान्निष्क्रान्तिमाप्नोति जठरान्मातुरातुरः।  
 मूर्छामवाप्य महतीं संस्पृष्टो बाह्यवायुना॥**
 
@@ -2956,8 +2600,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **एवं पशुसमैर्मूढैरज्ञानप्रभवं महत्।  
 अवाप्यते नरैर्दुःखं शिश्नोदरपरायणैः॥**
-
-
 
 **अज्ञानं तामसो भावः कार्यारम्भप्रवृत्तयः।  
 अज्ञानिनां प्रवर्तन्ते कर्मलोभाश्च भो द्विज॥**
@@ -2998,8 +2640,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **संस्मरन् यौवनेऽत्यर्थं निश्वसित्यतितापितः।  
 एवमेतानि दुःखानि जरायामनुभूय वै॥**
 
-
-
 **मरणे यानि दुःखानि प्राप्नोति शृणु तान्यपि।  
 श्लथग्रीवांघ्रिपादोऽथ व्याप्तो वेपथुना नरः॥**
 
@@ -3034,8 +2674,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 समस्तावस्थकं तावद्दुः ग्वमेव हि देहिनाम्।**
 
 [^273]: "१, १७, ५९."
-
-
 
 **क्षुत्तृष्णोपशमं तद्वच्छीताद्युपशमं सुखम्।  
 मन्यते बालबुद्धित्वात् दुःखमेव हि तत्पुनः॥**
@@ -3077,8 +2715,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **यद्यत्प्रीतिकरं पुंसां वस्तु मैत्रेय जायते।  
 तदेव दुःखवृक्षस्य मूलत्वमुपगच्छति॥**
 
-
-
 **कलत्रमित्रपुत्रात्मगृहक्षेत्रधनादिकैः।  
 क्रियते न तथा भूरि सुखं पुंसां यथा सुखम्॥**
 
@@ -3113,8 +2749,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **बहुनीन्द्रसहस्त्राणि दैत्येन्द्रनियुतानि च।  
 विनष्टानीह कालेन मनुजेष्विह का कथा॥**
-
-
 
 **राजर्षयश्च बहवः सर्वैः समुदिता गुणैः।  
 देवा ब्रह्मर्षयश्चैव कालेन निधनं गताः॥**
@@ -3160,8 +2794,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **आहारोऽपि न रोचेत किमुताऽकार्यकारिता।  
 न ते पुत्रक निर्वेदो मुमूर्षोर्न भविष्यति॥**
 
-
-
 **विमूढेन्द्रियवर्गस्य स तु नाऽर्थं करिष्यति।  
 बहुकृत्यो निरुद्योगः जागर्तव्ये प्रतप्तकः॥**
 
@@ -3191,8 +2823,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **जन्मान्तरशताभ्यस्ता विषयेषु रतिर्नृणाम्।  
 जरद्गौरिव सस्येषु सा हि दुःखेन वार्यते॥**
-
-
 
 *देवलः*
 
@@ -3229,8 +2859,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते॥**
 
 **‘मात्रास्पर्शाः’ विषयसम्बन्धाः।**
-
-
 
 *दक्षः*
 
@@ -3269,8 +2897,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **स्त्री नाम मायाविकृतिः क्रोधमात्सर्यविग्रहम्।  
 दूरात्त्यजेदनार्यां तां ज्वलनामेध्यवद्बुधः॥**
 
-
-
 **अथाऽर्थनिन्दा**
 
 तत्र *महाभारते*
@@ -3308,10 +2934,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **नैषा गुणेषु रमते नैर्गुण्यान्न निवर्त्तते।  
 उन्मत्ता गौरिवाऽन्धा श्रीः क्वचिदेवाऽवतिष्ठते॥**
 
-
-
-
-
 **अचेष्टमानमासीनं श्रीः कश्चिदुपतिष्ठते।  
 कश्चित् कर्माणि कुर्वन्हि न प्राप्यमधिगच्छति॥**
 
@@ -3346,8 +2968,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **नायमत्यन्तसंवासः कस्यचित् केनचित्सह।  
 अपि स्वेन शरीरेण किमुताऽन्यैः पृथग्जनैः॥**
-
-
 
 **संयोगा विप्रयोगास्तु जातानां प्राणिनां ध्रुवम्।  
 बुद्बुदा इव तोयेषु भवन्ति न भवन्ति च॥**
@@ -3385,8 +3005,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **स्वर्गभाजः प्राप्नुवन्ति तस्मात् स्वर्गं न कामयेत्।**
 
-
-
 **सुहृज्ज्ञातिसजातीयैर्यथोरु-**
 
 **क्षीणे वित्ते त्यज्यते मानवो हि।**
@@ -3406,8 +3024,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **नरकांश्चापि संप्रेक्ष्य महद्दुःखमवाप्यते।  
 एतां गतिमहं गन्तेत्यहर्निशमनिर्वृतः॥**
-
-
 
 **अथ कामादिवर्जनम्**
 
@@ -3432,8 +3048,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 *हारीतः*
 
  संकल्पात् कामः संभवति। आशयाच्च वर्द्धते स्नेहान्निबध्नाति स ह इच्छालक्षणो ऽनेकविधः कामो येनाऽभिभूतः। अतृप्त इव कामानां लोको ह्यनेन जन्मसंसारकामावर्ते निमज्जति। स एषोऽनलः कामः ‘कामो हि भगवान् वैश्वानर’ इति श्रुतिः। तस्याऽसंकल्पो नियमनम्।
-
-
 
 *महाभारते*
 
@@ -3461,8 +3075,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 *हारीतः*
 
  क्रोधाग्निनाभिभूतः, स्वेषामप्यबहुमतो, नाऽधिगमनीयोऽविश्वसनीयश्च भवति। कार्याकार्यवाच्यावाच्यानि न वितर्कयति। हितवादिनो गुरूनप्यतिक्रामत्यत्याविष्टः। प्रेतलोकायाऽऽत्मानं नयति। तत्र घोरां निरयप्रायां यातनामनुभूय क्रूरक्रव्यादासु निर्यग्योनिषु जायते। तत्र सर्वासां प्रजानां वध्यो भवति। क्रमात् मनुष्यतां प्राप्य सर्वजनविद्विष्टतामुपैति। क्रोधो हि तमोरूपस्तस्य क्षमा नियमनम्।
-
-
 
 *विष्णुपुराणे*
 
@@ -3506,8 +3118,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा।  
 कामरूपेण कौन्तेय दुष्पूरेणाऽनलेन च॥**
 
-
-
 **इन्द्रियाणि मनो बुद्धिरस्याऽधिष्ठानमुच्यते।  
 एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम्॥**
 
@@ -3542,8 +3152,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **अश्रेयः श्रेयसोर्मध्ये भ्रमणं संशयो भवेत्।  
 मिथ्याज्ञानमिति प्राहुरहिते हितदर्शनम्॥**
-
-
 
 **भवत्यधर्मादज्ञानमविद्यातश्च संशयः।  
 उभाभ्यामन्यथा ज्ञानं पापिष्ठमुपजायते॥**
@@ -3580,8 +3188,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **नाऽभिनन्दति यो द्वेषात् साऽभ्यसूयेत्युदाहृता।  
 सुहृदामपि यो नित्यमर्थानपि जिघांसति॥**
-
-
 
 **असौहृदमतिः पापस्तदाहुर्दोहलक्षणम्।  
 यः साधूनपदोषांश्च मन्यते दोषकारिणः॥**
@@ -3620,8 +3226,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **परान्नं परभोगांश्च परसामर्थ्यमेव च।  
 दृष्टा श्रुत्वा च या तृष्णा जायते लोभ एव च॥**
-
-
 
 **नास्ति तृष्णासमं दुःख नास्ति त्यागसमं सुखम्।  
 तस्मात्तु लोभसञ्जातां तृष्णां विद्वान् परित्यजेत्॥**
@@ -3669,8 +3273,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **निवार्यते केन मनोरथस्य च॥**
 
-
-
 **आमृत्युतोनैव मनोरथाना-**
 
 **मन्तोऽस्ति विज्ञानमिदं ममाऽद्य।**
@@ -3711,8 +3313,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **अकृतस्याऽऽगमो नास्ति कृते नाशो न विद्यते।  
 अकस्मादेव लोकोऽयं तृष्णे दासीकृतस्त्वया॥**
 
-
-
 **तृष्णा खनिरगाधेयं दुष्पूरा केन पूर्यते।  
 या महद्भिरपि क्षिप्तैः पूरणैरेव खन्यते॥**
 
@@ -3749,8 +3349,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **अनित्याः सर्वभावाश्चेच्छोकस्तत्र निरर्थकः।  
 अथवा यदि नित्याःस्युः कुतः शोकः प्रवर्तते॥**
 
-
-
 **नैवं हि शोचेत्सत्त्वस्थस्तामसे वाऽपि केवलम्।  
 शोकाद्दुःखमवाप्नोति समासेनेह रागतः॥**
 
@@ -3785,8 +3383,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **अहमित्यभिमानेन यः क्रियासु प्रवर्तते।  
 कार्यकारणयुक्तासु तदहंकारलक्षणम्॥**
-
-
 
 **अहंकारममत्वाभ्यां बध्यन्ते सर्वदेहिनः।  
 संसारविनियोगेषु ताभ्यां मुक्तस्य मुच्यते॥**
@@ -3824,8 +3420,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **अनन्तं बत मे वित्तं पश्य मे नास्ति किंचन।  
 मिथिलायां प्रदीप्तायां न मे किंचन दह्यते॥**
-
-
 
 *यङ्किरुवाच*
 
@@ -3865,8 +3459,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **आकाशवाय्वग्निजलपृथिवीभ्यः पृथक् स्थिते।  
 आत्मन्यात्ममयं भावं कः करोति कलेबरे॥**
 
-
-
 **कलेबरोऽप्यभोग्यं हि गृहक्षेत्रादिकं च कः।  
 अदेहेऽनात्मनि प्राज्ञो ममेदमिति मंस्यते॥**
 
@@ -3904,8 +3496,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **यो वृथा चिन्तयेदर्थान् मनसा ह्यपरस्परान्।  
 मोघचिन्तेति तामाहुर्द्धर्मकर्मोपघातिनीम्॥**
-
-
 
 **भोगैश्वर्यमदादीनि[^304] लोभाद्यः संस्मरेद्वृथा।  
 स मोघचिन्तयाऽऽत्मानं हन्ति बुद्धिं च कर्म च॥**
@@ -3947,8 +3537,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^306]: "भगवद्गीता, २, ६२–६३."
 
-
-
 **क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः।  
 स्मृतिनाशाद्बुद्धिनाशो वुद्धिनाशात्प्रणश्यति॥**
 
@@ -3989,8 +3577,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **उत्थाय च जयेत्तन्द्रां वितर्कं निश्चयाज्जयेत्।  
 मौनेन बहुभाष्यं च शौर्येण च भयं त्यजेत्॥**
 
-
-
 **द्रव्येषु समतीतेषु ये गुणास्तान्न चिन्तयेत्।  
 ताननाद्रियमाणस्तु स्नेहबन्धाद्विमुच्यते॥**
 
@@ -4030,8 +3616,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **निद्रा सर्वात्मना त्याज्या स्वप्नदोषानवेक्षता।  
 स्वप्ने हि रजसा देही तमसा चाऽभिभूयते॥**
 
-
-
 **अथेन्द्रियजयः**
 
 मनुः[^307]
@@ -4059,8 +3643,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
  ‘कामो’भिलाषः। ‘कामानां’ काम्यानां’ विषयाणां’शब्दादीनाम्। ‘दृति’र्भस्त्रा[^308]।
 
 [^308]: " दृतिः ‘चर्मनिर्मितं उदकपात्रम्’ इति कुल्लूकः।"
-
-
 
 *महाभारते*
 
@@ -4093,8 +3675,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **प्रसादे सर्वदुःखानां हानिरस्योपजायते।  
 प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते॥**
 
-
-
 **इन्द्रियाणां विचरतां यन्मनोऽनुविधीयते।  
 तदस्य हरति प्रज्ञां वायुर्नावमिवाऽम्भसि॥**
 
@@ -4124,8 +3704,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **जितात्मनः प्रशान्तस्य परमात्मा समाहितः।  
 शीतोष्णसुखदुःखेषु तथा मानापमानयोः॥**
 
-
-
 **अथ तत्वसृष्टिः**
 
 तत्र *देवलः*
@@ -4146,8 +3724,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^317]: "Omitted in Sarasvatibhavan Ms."
 
-
-
 भाषणं क्रिया गमनमुत्सर्गः प्रीतिरिति कर्मेन्द्रियार्थाः। वाय्वग्न्यम्ब्वाकाशपृथिव्यो भूतविशेषाः। दशेन्द्रियाणि बुद्ध्यहंकारमनांसि च करणानि। तेषां मनोबुद्ध्यहंकाराश्चाऽन्तःकरणानि दश बहिःकरणानि। इन्द्रियाणि च।
 
  गुणसाम्यलक्षणमव्यक्तम् प्रधानं प्रकृतिः विधानमित्यनर्थान्तरम्। अध्यवसायलक्षणो महान् बुद्धिर्मतिरुपलब्धिरित्यनर्थान्तरम्[^318]। अभिमानलक्षणोऽहंकारो वैकारिकोऽहंकारोऽभिमान इत्यनर्थान्तरम्। सत्तामात्रलक्षणानि तन्मात्राणि स्वानुग्रहलक्षणानीन्द्रियाण्यक्षाणीन्द्रियाण्युच्यन्ते। संकल्पलक्षणं मनः। इन्द्रियार्थलक्षणा विषयविशेषा भूतानीत्यनर्थान्तरमिति।
@@ -4167,8 +3743,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **श्रोत्राक्षिरसनघाणत्वचः सङ्कल्प एव च।  
 शब्दरूपरसस्पर्शगन्धवाकूपाणिपायवः॥**
-
-
 
 **पादावुपस्थ इति ते विकाराः षोडशाऽपरे।  
 चतुर्विंशकमित्येतत् ज्ञानमाहुर्मनीषिणः॥**
@@ -4208,8 +3782,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **त्रिगुणं तज्जगद्योनिरनादिप्रभवाऽव्ययम्।  
 तेनाऽग्रे सर्वमेवाऽऽसीद्व्याप्तं वै प्रलयादनु॥**
-
-
 
 **वेदवादविदो विद्वन् नियता ब्रह्मवादिनः।  
 पठन्ति चैतमेवार्थं प्रधानप्रतिपादकम्॥**
@@ -4256,8 +3828,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^329]: "विकासाणुस्वरूपैश्च इति मु. पु."
 
-
-
 **व्यक्तस्वरूपश्च तथा विष्णुः सर्वेश्वरेश्वरः।  
 गुणसाम्यात्ततस्तस्मात् क्षेत्रज्ञाधिष्ठितान् मुने॥**
 
@@ -4297,8 +3867,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **विप्रकुर्वाणि चाम्भांसि गन्धमात्रं ससर्जिरे।  
 संघातो जायते यस्मात् तस्य गन्धो गुणो मतः॥**
-
-
 
 **तस्मिंस्तस्मिंस्तु तन्मात्रात्तेन तन्मात्रता स्मृता।  
 तन्मात्राण्यविशेषाणि अविशेषास्तनो हि ते॥**
@@ -4341,8 +3909,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **भूतेभ्योऽण्डं महावुद्धे बृहत्तदुदकेशयम्।  
 प्राकृतं ब्रह्मरूपस्य विष्णोः स्थानमनुत्तमम्॥**
 
-
-
 **तत्राऽव्यक्तस्वरूपोऽसौ व्यक्तरूपी जगत्पतिः।  
 विष्णुर्ब्रह्मस्वरूपेण स्वयमेव व्यवस्थितः॥**
 
@@ -4379,8 +3945,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **पृथिव्यापस्तथा तेजो वायुराकाशमेव च।  
 सर्वेन्द्रियान्तःकरणं पुरुषाख्यं हि यज्जगत्॥**
-
-
 
 **स एव सर्वभूतेशो[^339] विश्वरूपो यतोऽव्ययः।  
 सर्गादिकं[^340]") तु तस्यैव भूतस्थमुपकारकम्॥**
@@ -4422,8 +3986,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **महान्तमेभिः सहितं प्रकृतिग्रसते द्विज।  
 गुणसाम्यसमुद्रिक्तमन्यूनं च महामुने॥**
 
-
-
 **प्रोच्यते प्रकृतिर्हेतुः प्रधानं कारणं परम्।  
 इत्येषा प्रकृतिः सर्वा व्यक्ताव्यक्तस्वरूपिणी॥**
 
@@ -4451,8 +4013,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **अक्षरोऽग्रे ततो वायुः वायोर्ज्योतिस्ततो जलम्।  
 जलात्प्रसूता जगती जगत्यां जायते जगत्॥**
 
-
-
 **अथ शरीरचिन्ता**
 
 तत्र देवमनुष्यतिर्यगनुवृतौ *देवलः*
@@ -4467,8 +4027,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 उत्पत्तिर्मरणं चेति सामान्यं सर्वदेहिनाम्॥**
 
 [^346]: "Nagpur Ms. has तथा."
-
-
 
 **अवश्यं प्राणिनः सर्वे रमन्ते स्वासु योनिषु।  
 असत्समाविशिष्टानां न जातिरिति निश्चयः॥**
@@ -4502,8 +4060,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **मांसास्थ्यसुखसापूयस्नायुविष्मूत्रसंहतौ।  
 देहे चेत् प्रीतिमान् मूढो भविता नरकेऽपि सः॥**
-
-
 
 *मनुः*[^349]
 
@@ -4546,8 +4102,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **उदानादुछ्वसिति च ध्वनिभेदश्च जायते।  
 इत्येते वायवः पञ्च चेष्टयन्ति च देहिनम्॥**
 
-
-
 **अथ देहशरीरविवेकः**
 
 तत्र *शङ्खः*
@@ -4576,8 +4130,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 तस्याऽपि शतिमाद्भागाजीवःसूक्ष्म उदाहृतः॥**
 
 [^352]: "स. बाला ग्रहातियोभागः ; ना. बालग्रहा इति यो भागः"
-
-
 
 *विष्णुपुराणे*
 
@@ -4615,8 +4167,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
  ‘अस्याऽऽत्मनः’ शरीररूपस्य आत्मार्थत्वादात्मशब्दोऽत्र गौणः[^359]–ना.")’। ‘कारयिता’ स्पन्दात्मिकासु चेष्टासु प्रवर्तयिता। स्वप्रयत्नद्वारेण। ‘भूतात्मा’ पृथिव्यादिभूतसंघातत्वात् शरीरम्। ‘जीवसंज्ञोऽन्तरात्मा अन्यः’ अन्तःकरणं मनो रूपं जीवोऽन्तरात्मा चाऽयमेव। ‘तदर्थत्वात्’ तस्य चान्तः–
 
 [^359]: "शब्दोऽगौणः(?
-
-
 
 करणत्वात्।‘येन वेदयत’ इति करणविभक्त्या निर्देशः। ‘सहजः” आमोक्षप्राप्तेस्तत्संबन्धात्।
 
@@ -4657,8 +4207,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **यदि प्राणायते वायुर्वायुरेव विचेष्टते।  
 श्वसित्याभाषते चैव तस्माज्जीवो निरर्थकः॥**
 
-
-
 **यद्युष्मभावमाग्नेयो[^363] ह्यग्निना पच्यते यदि।  
 अग्निर्जरयते चैव तस्माज्जीवो निरर्थकः॥**
 
@@ -4694,8 +4242,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **स सर्वगात्रानुगतोऽन्तरात्मा।**
 
-
-
 **स वेत्ति दुःखानि सुखानि चाऽत्र  
 तद्विप्रयोगं तु न वेत्ति देहः॥**
 
@@ -4727,8 +4273,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **श्रेयसा सुखदुःखाभ्यां कर्मभिश्च शुभाशुभैः।  
 निमित्तशाकुनज्ञानग्रहसंयोगजैः फलैः॥**
-
-
 
 **तारानक्षत्रसंचारैर्जाग्रज्जैः स्वप्नजैरपि।  
 आकाशपवनज्ज्योतिर्जलभूतिमिरैस्तथा॥**
@@ -4772,8 +4316,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^377]: "Omitted by ना. and स."
 
 **धूमं च पश्येज्ज्वलनं च काष्ठे।**
-
-
 
 **तद्वत्सुबुद्धिः स सदिन्द्रियत्वात्**
 
@@ -4822,8 +4364,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **दशार्द्धतेवास्य शरीरभेदः॥**
 
-
-
 **यथाऽर्चिषोऽग्नेः पवनस्य वेगः**
 
 **मरीचयोऽर्कस्य नदीषु चाऽऽपः।**
@@ -4865,8 +4405,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **वेदाऽविनाशिनं नित्यं य एनमजमव्ययम्।  
 कथं स पुरुषः पार्थ कं घातयति हन्ति कम्॥**
-
-
 
 **वासांसि जीर्णानि यथा विहाय**
 
@@ -4914,8 +4452,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^385]: "‘मविकल्प्यमाना विविधा गुणास्तेऽगुणाश्च भौताः सकलेन्द्रियेषु।’ इति मु. पु. १५८."
 
 **र्गुणाश्च भौताः सकलेन्द्रियेषु॥**
-
-
 
 **भूतानि भूतैः परिदुर्बलानि**
 
@@ -4968,8 +4504,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^391]: "४८, १६."
 
-
-
 **‘एकत्वेऽपि’ संश्लेषवशेनैकत्वाभिमानेऽपि।**
 
 *महाभारते*
@@ -5007,8 +4541,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **शैत्यात् प्रकुपितो वायुरूर्द्ध्वंच क्रमते ततः।  
 स चाऽयं सर्वभूतानां प्राणस्थानेष्ववस्थितः॥**
-
-
 
 **तमसा संवृते ज्ञाने संवृतेषु च कर्मसु।  
 सजीवोनाऽभ्यधिष्ठानाच्छक्यते मातरिश्वना॥**
@@ -5051,8 +4583,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **पुरुषाधिष्ठिता बुद्धिस्तेषु भावेषु वर्त्तते।  
 कदाचिल्लभते प्रीतिं कदाचिदनुशोचति॥**
 
-
-
 **न सुखेन न दुःस्वेन कदाचिदपि वर्तते।  
 इन्द्रियाणां स्वकार्येभ्यो[^398] श्रमादुपरमो यथा॥**
 
@@ -5087,8 +4617,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^401]: "वी. मि मो—पृ., २४१-२४२."
 
 [^402]: "वी. मि. मो—पृ., २४२."
-
-
 
 *महाभारते*[^403]
 
@@ -5129,8 +4657,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते।  
 तथा प्रलीनस्तमसि मूढयोनिषु जायते॥**
 
-
-
 **कर्मणः सुकृतस्याऽऽहुः सात्विकं निर्मलं फलम्।  
 रजसस्तु फलं दुःखमज्ञानं तमसः फलम्॥**
 
@@ -5170,8 +4696,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **तत्र यत् प्रीतिसंयुक्तं किंचिदात्मनि लक्षयेत्।  
 प्रशान्तमिव शुद्धाभं सत्वं तदुपधारयेत्॥**
 
-
-
 **त्रयाणामपि चैतेषां गुणानां यः फलोदयः।  
 अग्र्यो मध्यो जघन्यश्च तं प्रवक्षाम्यशेषतः॥**
 
@@ -5207,8 +4731,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  ‘सत्वं’ ज्ञानमित्याद—‘ज्ञानं’ विवेकः। ‘अज्ञानं’ मोहः। ‘उभयरूपं’ रजः। ‘रागद्वेष’ शब्देनोभयकर्मयोगमुच्यते। सामान्यमेतदेषां लक्षणम् व्यापि सर्वप्राणिषु। अप्रतर्क्यं तर्कोऽनुमानम्, तदगोचरः। सात्विकं लक्षणमिति।
 
-
-
 सत्वगुणमेतल्लक्षणमित्यर्थः। ‘आरम्भरतिता’ कर्मणां काम्यानां दृष्टार्थानां चाऽऽरंभाभिरतित्वम्। ‘अधैर्यं’ स्वल्पेप्युपद्रवहेतौ चेतसो ऽसमाश्वासः। ‘असत्कार्यं’ परिग्रहः। ‘लोकशास्त्रविरुद्धकर्माचरणं’ स्वल्पेऽप्यपराधे वैरानुबन्धः। ‘भिन्नवृत्तिता’ शीलभ्रंशः। ‘याचिता’ याचनशीलत्वम्।
 
 *महाभारते*[^413]
@@ -5241,8 +4763,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु।  
 प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय॥**
-
-
 
 **प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये।  
 बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्विकी॥**
@@ -5279,8 +4799,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः।  
 सत्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः॥**
 
-
-
 **अथ जीवब्रह्मात्मभावः**
 
 तत्र[^418] *याज्ञवल्क्यः*
@@ -5312,8 +4830,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 प्रयत्न आकृतिर्वर्णः स्वरद्वेषौ भवाभवौ।  
 तस्यैतदात्मजं सर्वमनादेरादिमिच्छतः॥
-
-
 
 \[तथा[^420]\]
 
@@ -5351,8 +4867,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^427]: "“स्वभावतः, जातिवशतः, यथोष्ट्रस्य कण्ठकाशनशीलता इति” कल्पतरुः मुद्रितमिताक्षरायां तु पाठोऽन्यथा दृश्यते."
 
-
-
  शक्तिद्वारेण सत्वादिगुणयोगी ‘वशी’ स्वतन्त्रः। ‘पञ्चधातून्’ पञ्च भूतानि। ‘धृतिः’ चित्तस्थैर्यम्। ’भवः’ धनपुत्रादिसंपत्तिः। तद्विपर्ययश्चाऽभवः। ‘भरतो’ नटः। ‘सर्वाणि’ शब्दाद्यर्थसहितानि।
 
 *महाभारते[^428]*
@@ -5389,8 +4903,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते।  
 सर्वत्राऽवस्थितो देहे तथाऽऽत्मा नोपलिप्यते॥
-
-
 
 **यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः।  
 क्षेत्रं क्षेत्री तथा कृत्स्नं प्रकाशयति भारत॥**
@@ -5437,8 +4949,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^438]: "एवं इति मिताक्षरापाठः"
 
-
-
 **मलिनो हि यथाऽऽदर्शो रूपालोकस्य न क्षमः।  
 \तथाऽविपक्वकरण आत्मज्ञानस्य न [क्षमः[^439]\]  
 कट्वेर्वारौ यथाऽपक्वेमधुरः सन्रसोऽपि न॥**
@@ -5473,8 +4983,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 न[^440] तानि कुरुते नाऽन्यत् कारयत्यपि कुत्रचित्॥**
 
 [^440]: "Four lines from this are confused in स."
-
-
 
 **किन्तु स्वभाव एवैष नैत्यिकः सूर्यलोकयोः।  
 चिन्मात्रः सूर्यवद्ज्ञेयो लोकवत् करणान्यपि॥**
@@ -5515,8 +5023,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^441]: "ब्रह्म सर्व शरीरेषु इति ना."
 
-
-
 **एवं सति यया बुद्ध्या देहोऽहमिति मन्यते।  
 अनात्मनात्मनो भ्रान्त्या सा स्यात् संसारबन्धना॥**
 
@@ -5554,8 +5060,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  ‘भोज्यं’ पृथिव्यादि विकारजातम्। ‘शस्त्रं’लोहम्। ‘तत्स्वभावानुगं मनः’ स्वभावानुगः। ‘धियि’बुद्धौ
 
-
-
 महत्तत्वे। ‘अभिधानवत्’ देवदत्तादिनामवत्। ‘दूरस्थाः’ घटाकाशाः।
 
 *तथा*
@@ -5591,9 +5095,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **पुरुषः प्रकृतिस्थो हि भुंक्ते प्रकृतिजान् गुणान्।  
 कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु॥**
 
-
-
-
 प्रकृतिस्तेजोबन्नलक्षणा[^444] प्रवाहरूपेणाऽनादिः, सर्गः पुनः प्रलयः पुनरिति संसारस्याऽनादित्वात्। पुरुषः परमात्मांशोऽनादिरभिन्नोऽपि सन् परमार्थतो न कदाचिद्व्यक्तपूर्वः। ‘कर्माऽविद्याभ्यामि’ति, कार्यं शरीरं, कारणानीन्द्रियाणि, तयोः कर्तृत्वे निर्वर्तकत्वे प्रकृतिः कारणं। एतेन भोग्यवर्गः सर्वः प्रकृतितो जायत इत्युक्तं भवति। ‘प्रकृतिस्थः’ कार्यकारणसङ्घातस्थः। ‘भुंक्ते प्रकृतिजान्[^445]’ प्रकृतितोजातान् सुखदुःखमोहान् भुंक्ते। ‘गुणेषु’ कार्यकारणलक्षणेषु ‘सङ्गो’ विपरीतग्रहोऽहंममेति प्रत्ययः सदसद्योनिप्राप्तिषु कारणमित्यर्थः। ‘सद्योनयो’ देवाद्याः, ‘असद्योनय’ स्तिर्यगाद्याः, मध्ययोनयस्तु मनुष्या इति।
 
 [^444]: "वी. मि. मोक्षप्रकाश, पृ. २६३—“कल्पतरुस्तु—प्रकृतिस्तेजोवन्नलक्षणा अनादिः पुनस्सर्गः पुनः प्रलय इति प्रवाहरूपेण। पुरुषो जीवः अनादिः परमात्मनोंऽशोमिन्नोपि सन्नविद्यया पूर्व न कदाचिद्व्यक्त इति व्याचरव्यौ”. "
@@ -5612,8 +5113,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **एतद्योनीनि भूतानि सर्वाणीत्युपधारय।  
 अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा॥**
-
-
 
 **मत्तः परतरं नान्यत् किञ्चिदस्ति धनञ्जय।  
 मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव॥**
@@ -5653,8 +5152,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **न च मां तानि कर्माणि निबध्नन्ति धनञ्जय।  
 उदासीनवदासीनमसक्तं तेषु कर्मसु॥**
-
-
 
 **मयाऽध्यक्षेण प्रकृतिः सूयते सचराचरम्।  
 हेतुनाऽनेन कौन्तेय जगद्विपरिवर्त्तते॥**
@@ -5696,8 +5193,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 अर्थस्वरूपं पश्यन्तो भ्राम्यन्ते मोहसंप्लवे॥**
 
 [^451]: " १, ५, ४०."
-
-
 
 **ज्योतींषि[^452] २, १२, ३८—४७.") विष्णुर्भुवनानि विष्णुः**
 
@@ -5749,8 +5244,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **क्वचित् कदाचित् द्विज वस्तुजातम्।**
 
-
-
 विज्ञानमेकं निजकर्मभेद-
 
 विभिन्नवृत्तैर्बहुधाऽभ्युपेतम्॥
@@ -5793,8 +5286,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^456]: "वी. मि. मोक्षप्रकाश, पृ. २७१ः—  “अर्थस्वरूपं प्रवृत्याद्यर्थकार्यकारित्वेन सद्रूपं मन्यमानाः ‘मोहसंप्लवे’ अज्ञानसागरे, मिथ्याज्ञानसागरे इति कल्पतरुः”"
 
-
-
 ‘मोहसंप्लवे’ मिथ्याज्ञानसागरे। ‘यदस्ति यन्नास्ति चे’ति यद्भावस्वरूपं तत्सर्वं स एवेत्यर्थः। ‘न च वस्तुभूतः’ न यत् पृथिव्यादिभिः भूतः। ‘नो वस्तुषु वस्तुभेद’ इतिन क्रियाकारकवस्तुषु पृथिव्यादिषु जातस्वभावेष्वेव सत्सु वस्तुभेदात् घटादयो भवन्ति। किन्तु संकल्पवशेनेत्यर्थः।
 
 तथा च *श्रुतिः*
@@ -5807,8 +5298,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^457]: "This is mentioned thus in the विषयनिर्द्देश."
 
-
-
 **अथ ज्ञानकर्मोपयोगः**
 
 तत्र *महाभारते*
@@ -5820,8 +5309,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 प्रहायोभयमप्येतद्ज्ञानं कर्म च केवलम्॥**
 
 **तृतीयेयं समाख्याता निष्ठा तेन महात्मना।**
-
-
 
 *तथा*
 
@@ -5841,8 +5328,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **कर्मणा बध्यते जन्तुर्विद्यया तु प्रमुच्यते।  
 तस्मात्कर्म न कुर्वन्ति यतयः पारदर्शिनः॥**
-
-
 
 **कर्मणा जायते प्रेत्य मूर्तिमान् षोडशात्मकः।  
 विद्यया जायते नित्यमव्ययो ह्यव्ययात्मकः॥**
@@ -5878,8 +5363,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **विज्ञायतेऽत्र सर्वोऽयमृग्यजुःसामसंज्ञितः।**
 
 **‘ऋग्यजुःसामभिः’बोधितः।**
-
-
 
 *योगियज्ञवल्कयः*
 
@@ -5926,8 +5409,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^462]: "१२, ८८—"
 
-
-
 **प्रवृत्तं च निवृत्तं च द्विविधं कर्म वैदिकम्॥**
 
 **इह चाऽमुत्र वा काम्यं प्रवृत्तं कर्म कीर्त्यते।  
@@ -5960,8 +5441,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^466]: "भगवद्गीता, ३, ३—९."
 
-
-
 **न कर्मणामनारंभान्नैष्कर्म्यं पुरुषोऽश्नुते।  
 न च सन्यसनादेव सिद्धिं समधिगच्छति॥**
 
@@ -5987,8 +5466,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  ‘आत्मनि’ बुद्धावित्यर्थः। पापक्षयश्च धर्मात् ‘धर्मेण पापमपनुदति। तपसा ब्रह्म विजिज्ञासस्व’ इति श्रुतेः। ज्ञानमपि सामान्यरूपमस्तीति क्वचित् किञ्चित् प्रधानमिति विशेषो न समुच्चये।
 
-
-
 **ज्ञानकर्मसमायोगात् परमाप्नोति पूरुषम्।  
 पृथग्भावेन सिध्येत उभे तस्मात् समाश्रये**
 
@@ -6010,8 +5487,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **‘यत्करोषि'स्नानादि। ‘यदश्नासी'त्यत्राऽशनं प्राणाहुतिरूपम्।**
 
-
-
 **कर्म[^470]ण्येवाधिकारस्ते मा फलेषु कदाचन।  
 मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥**
 
@@ -6031,8 +5506,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  ‘कर्मण्येवेति’कर्मण्येव आश्रमोचिते तवाऽधिकारोऽवश्यकर्तव्यत्वात्, न तु कर्मफलेषु। मा ते फलेष्वधिकार इत्येतस्याऽर्थं स्फुटयति—‘मा कर्मफलहेतुर्भूरिति’। कर्मफलं कामयमानः ‘कर्महेतुः’ कर्मणोऽनुष्ठाता। ‘मा भूस्त्वमिति’ फलेच्छा त्वया मा कर्तव्येत्युक्तं भवति।‘मा ते सङ्गोऽस्त्वकर्मणीति’ न चैवं सति कर्मकरण आसक्तिस्त्वया न कर्तव्या, किं तु कर्तव्यान्येव कर्माणीत्यर्थः। कथं तर्हि कर्माणि कर्तव्यानि ? इत्याकांक्षायामाह—‘योगस्थ’ इत्यादि। यानि नित्यानि कर्माणि सन्ध्यावन्दनादीनि ‘योगस्थः’ फलसङ्गं त्यक्त्वा कर्मफलसिद्ध्यसिद्ध्योः हर्षविषादरहितत्वेन समो भूत्वा कुरु। ईश्वराराधनार्थे च क्रियमाणे कर्मणि नाऽस्ति वैषम्यम्। स एव कर्त्ता तदात्मकं च कर्मेति
 
-
-
 क्रियमाणं तत्प्राप्तिहेतुत्वं भजत इत्यर्थः। तदिदं ‘समत्वं योग उच्यते’।
 
  समत्वबुद्धियुक्तादस्मात् कर्मणो दूरेण ज्ञानरहितं कर्म जघन्यम्। ‘बुद्धौ शरणमन्विच्छ’ बुद्धिमाश्रयेत्यर्थः। ‘फलहेतवः’। फलं प्रवृत्तिहेतुर्येषां ते तथा। ‘बुद्धियुक्त’ इतिईश्वराराधनार्थं कर्मेत्यनया बुद्ध्या युक्तः कर्म कुर्वन्’। नाऽऽरव्धेशुभाशुभे कर्मणी जहातीत्यर्थः। ‘योगाय युज्यख’ समत्वयोगाय यतस्व। ‘कर्मसु कौशल’मिति। इदं यद् ब्रह्मणि समर्पणं कर्मणः फलसङ्कल्परहितता च। ‘कर्मजमि’ति शुभाशुभकर्मजं[^471] ‘फलं त्यक्त्वा’ जन्मलक्षणरहिताः सर्वोपद्रवशून्यं विष्णोः स्थानं गच्छन्ति इत्यर्थः।
@@ -6050,8 +5523,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 कुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम्॥**
 
  ‘न मां कर्माणीति’, न मां कर्माणि लिंपन्ति यतो मम कर्मफले स्पृहा नाऽस्ति। एवमन्योऽपि यः स्वव्यापारे
-
-
 
 वीतफलतृष्णः ‘परमेश्वरायेद’मिति कर्मणि प्रवर्त्तते सोऽपि कर्मभिर्न बध्यत इत्यर्थः[^473]।
 
@@ -6090,8 +5561,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **नैव किञ्चित् करोमीति युक्तो मन्येत तत्ववित्।**
 
-
-
 **पश्यन् शृण्वन् स्पृशन् जिघ्रन्**
 
 **अश्नन् गच्छन् स्वपन् श्वसन्॥**
@@ -6108,14 +5577,11 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम्।  
 अयुक्तः कामकारेण फले सक्तो निबध्यते॥**
 
-
 कर्मसन्न्यासात्[^476] कर्मयोगो विशिष्यत इति। कृतानां कर्मणामीश्वरे सन्न्यासो य उक्तस्तस्माद्ब्रह्मैव कर्तृ कारकान्तरं च कर्म चेति यः कर्मयोगः स विशिष्यते। कथम् ? द्वैतविषयो हि संन्यासः, कर्मयोगः पुनरद्वैतविषयः, साक्षात् सम्यग्दर्शनाश्रय इत्यर्थः[^476]। ‘निर्द्वन्द्वो’ रागद्वेषादिद्वन्द्वरहितः। ‘सन्यासस्थितिः’ सन्यासयोगव्यतिरेकेणाऽनुष्ठीयमानो दुःखं प्राप्तुं भवति न तु ब्रह्मसाक्षात्कारायेत्यर्थः। ब्रह्म नचिरेणाऽधिगच्छति ब्रह्माऽचिरेण साक्षात् करोति। **‘**योगयुक्त[^478]’ अद्वैतदर्शने स्थितः। ‘विशुद्धात्मा’ निर्मलीकृतबुद्धिः। ‘विजितात्मा’ जितमनोवृत्तिः। इन्द्रियाणीन्द्रियार्थेष्विति। ‘एतेष्वन्द्रियार्थेषु इन्द्रियाणि वर्तन्ते’ मम
 
 [^476]: "Passage between asterisks cited by Mitramiśra, मोक्षप्रकाश, पृ. ३१५."
 
 [^478]: "“योगेन युक्तः योगयुक्तः” इति। “वैदिकेन कर्मयोगेन ईश्वरसमर्पितरूपेण फलनिरपेक्षेण युक्तः” इति च श्रीशङ्करभाष्ये। योगयुक्तः कर्मयोगयुक्तः इति श्रीरामानुजभाष्ये."
-
-
 
 नाऽत्र कर्तृत्वमिति चित्तं धारयेत्। ‘योगयुक्तो’मन्येतेत्यर्थः। ‘शान्ति माप्नोति नैष्ठिकीं’ सुखमात्यन्तिकं प्राप्नोति।
 
@@ -6154,8 +5620,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **कार्यमित्येव यत् कर्म नियतं क्रियतेऽर्जुन।  
 सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्विको मतः॥**
 
-
-
 **न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते।  
 त्यागी सत्वसमाविष्टो मेधावी छिन्नसंशयः॥**
 
@@ -6189,8 +5653,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन।  
 न चाऽस्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः॥**
 
-
-
 **तस्मादसक्तः सततं कार्यं कर्म समाचर।  
 असक्तो ह्याचरन कर्म परमाप्नोति पूरुषः॥**
 
@@ -6216,8 +5678,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 जोषयेत् सर्वकर्माणि विद्वान् युक्तः समाचरन्॥**
 
  आत्मन्येव रतिर्यस्य न विषयेषु स ‘आत्मरतिः’। आत्मन्येव तृप्तो नाऽन्नरसादिना स आत्मतृप्तः। आत्मन्येव सन्तुष्टः ‘आत्मसन्तुष्टः’, नार्थलाभेन तस्य कार्यं विद्यते। परं ज्योतिरुपसंपन्नस्य लोकव्यवहाराभावात् तस्य कर्तव्यं नाऽस्ति। अधिकारहेत्वभावात् अकृतेन निषिद्धाकरणेन तत्करणनिमित्तप्रत्यवायानुत्पत्तिलक्षणोऽर्थो नास्ति। ‘अर्थव्यपाश्रयः प्रयोजनापेक्षा। यतो लोकव्यवहारानुगतस्य कर्मत्यागानुत्पत्तिः तस्मात्कर्मफलेच्छारहितोऽवश्यं कर्त्तव्यं,
-
-
 
 कर्म कुर्वित्याह-तस्मादसक्त इत्यादिना। ‘कर्मणैव’ न कर्मत्यागेन लोकसंग्रहं लोकपरिपालनं। जोषयेत् सेवयेत्।
 
@@ -6250,8 +5710,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना॥**
 
 ‘निराशी’ र्निर्गतफलासङ्गः। ‘यतचित्तात्मा’ संयतात्मा। ‘कार्यकारणसङ्घातः’। शारीरमात्रं शरीरनिर्वत्यं। शास्त्रोक्तं कर्म केवलं फलरहितम्। ‘नाऽऽप्नोति किल्बिषं’ संसारं नाप्नोतीत्यर्थः। मुक्तस्य रागादिद्वेषैरिति शेषः।
-
-
 
 ‘यज्ञाय’ परमात्मने। ‘ब्रह्मार्पणं’ स्रुक्स्रुवादि। अर्प्यते अनेनेति व्युत्पत्या। ‘ब्रह्मकर्मसमाधिना’ ब्रह्मैव कर्मेति समाधियुक्तेन।
 
@@ -6290,8 +5748,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः।  
 सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि॥**
 
-
-
 यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन।  
 ज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा॥
 
@@ -6320,8 +5776,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^487]: "This śloka is not from भगवद्गीता."
 
 [^488]: " Three lines ending with this are wanting in स."
-
-
 
 **अथात्मज्ञानहेतवः**
 
@@ -6357,8 +5811,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^491]: "शां—२०२, ९."
 
-
-
 *मत्स्यपुराणे*
 
 **अयमेव[^492] क्रियायोगो ज्ञानयोगस्य साधकः।  
@@ -6389,8 +5841,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **तत्त्वस्मृतेरुपस्थानात् सत्वयोगात् परिक्षयात्।  
 कर्मणां सन्निकर्षाच्च सतां योग प्रवर्त्तते॥**
 
-
-
  ‘शरीरपरिसंख्यानं’ शरीराशुद्धित्वास्थिरत्वादिदोषपरत्वेनाऽनुसन्धानम्। ‘प्रवृत्तिषु’ गमनागमनादिकासु सूक्ष्मप्राणिवधादिदोषदर्शनम्। ‘तत्त्वस्मृतेः’ आत्मतत्वचिन्तनात्। ‘उपस्थानात्’ अवधारणात्।
 
 *महाभारते*[^496]
@@ -6400,8 +5850,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^496]: "भगवद्गीता–१३, ७–११."
 
 **अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम्।**
-
-
 
 **आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रहः॥**
 
@@ -6437,9 +5885,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 सद्भिः सह स कर्तव्यः सतः सङ्गो हि भेषजम्॥**  
 
 [^498]: "३७, २३."
-
-
-
 
 *महाभारते*[^499]
 
@@ -6482,8 +5927,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **सर्वगुह्यतमं भूयः शृणु मे परमं वचः।  
 इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम्॥**
 
-
-
 **मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।  
 मामैवेष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे॥**
 
@@ -6519,8 +5962,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^506]: "३, १९१."
 
-
-
 **सपल्लवयोगः**
 
 अथ योगः। तत्र *देवलः*
@@ -6544,8 +5985,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **तदेतत्कथितं राजन्नविद्याया मया तव।  
 क्लेशानां च क्षयकरं योगादन्यन्न विद्यते॥**
-
-
 
 *योगियाज्ञवल्क्यः*
 
@@ -6585,8 +6024,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 अप्रमत्तो[^512] यथा धन्वी लक्ष्यं हन्ति समाहितः॥**
 
 [^512]: "शा–३०६, ३१."
-
-
 
 युक्तः सम्यक् तथा योगी मोक्षं प्राप्नोत्यसंशयम्।  
 यथा[^513] कश्चिद्वनं घोरं बहुसर्पसरीसृपम्॥
@@ -6629,8 +6066,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  यमनियमासनप्राणायामप्रत्याहारधारणाध्यानसमाधयोऽष्टाङ्गानि योगस्य।
 
-
-
 *मार्कण्डेयपुराणे*
 
 प्रागेवाऽऽत्माऽऽत्मना[^516] ज्ञेयो योगिनां स हि दुर्जयः।  
@@ -6664,8 +6099,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 यमाख्यैर्नियमाख्यैश्च[^518] युञ्जीत नियतो यतिः॥
 
 [^518]: "समाख्यैः इति उद. मातृ."
-
-
 
 *वायुपुराणे*
 
@@ -6709,8 +6142,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^524]: "आचारकाण्डम्—३८ ; प्रजापतिमिति मु. पु. पाठः"
 
-
-
 अतीतानागतानर्थान् विप्रकृष्टांस्तिरोहितान्।  
 विजानातीन्दुसूर्यक्षं ग्रहाणां ज्ञानसंपदम्॥
 
@@ -6751,8 +6182,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 यथा तोयार्थिनस्तोयं पद्मनालादिभिः शनैः।  
 आपिबेयुस्तथा योगी पिबेद्वायुं जितश्रमः॥
 
-
-
 प्राङ्नाभ्यमुदरे चाऽथ तृतीया च ततोपरि[^528]।  
 कण्ठे मुखे नासिकाग्रे नेत्रभ्रूमध्यमूर्द्धसु॥
 
@@ -6768,8 +6197,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 शब्दादिभ्योऽनिवृत्तानि यदक्षाणि यतात्मभिः।  
 प्रत्याहृियन्ते योगेन प्रत्याहारस्ततस्स्मृतः॥
-
-
 
    ‘अनिवृत्तानि’स्वविषये संसक्तानि। ‘योगेन चित्तवृत्तिनिरोधेन’‘योगश्चित्तवृत्तिनिरोध’इति *पातञ्जलेऽभि*धानात्।
 
@@ -6788,8 +6215,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 पश्यता परमा तेन जायतेति च नात्मनाम्।  
 इन्द्रियाणामवश्यैस्तै र्न योगी योगसाधकः॥
-
-
 
 *देवलः*
 
@@ -6818,8 +6243,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 धारणासु सुयोगस्य दुःस्थेयमकृतात्मभिः॥
 
 [^532]: "शा —३०६, ५४."
-
-
 
 विपन्ना धारणा यस्मान्नयन्ति न शुभां गतिम्।  
 नेत्रहीनं यथा नारं पुरुषाणां तु वै नृप॥
@@ -6859,8 +6282,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 भुञ्जानं यावकं भक्ष्यं दीर्घकालमरिन्दम।  
 एकदाऽसौ विशुद्धात्मा योगी बलमवाप्नुयात्॥
 
-
-
 पक्षान्मासान् ऋतून् स्थित्वा सञ्चरंश्च ग्रहांस्तथा।  
 अपः पीत्वा पयोमिश्राः योगी बलमवाप्नुयात्॥
 
@@ -6890,8 +6311,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^536]: "स्वल्पेन मनसा—ना. and स."
 
-  
-
 ‘दुर्बलान्’अजितेन्द्रियान्। ‘स्वप्ने च’स्त्रीविषयानुरागोत्पतौ इत्यर्थः।
 
 *मार्कण्डेयपुराणे*
@@ -6900,8 +6319,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 नित्ययुक्तः सदा योगी ध्यानं सम्यगुपाक्रमेत्॥
 
 [^537]: "४१, २१."
-
-
 
 **सशब्दे[^538]ऽग्निजलाभ्याशे जीर्णे गोष्ठे चतुष्पथे।  
 शुष्कपर्णचये नद्यां श्मशाने ससरीसृपे॥**
@@ -6944,8 +6361,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **वाधिर्यं जडता लोपः स्मृतेर्मूकत्वमन्धता।  
 ज्वरश्च जायते सद्यः तद्वदज्ञानयोगिनः॥**
 
-
-
 अथ दोषचिकित्सा
 
 तत्र *वायुपुराणे*
@@ -6987,8 +6402,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^547]: "११,५५."
 
-
-
 **विषस्य तु पलं पीत्वा विशल्यां धारयेत्ततः।  
 सर्वतः सनगां पृथ्वीं कृत्वा मनसि धारयेत्॥**
 
@@ -7027,8 +6440,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **प्रशान्तात्मा विगतभीः ब्रह्मचारिव्रते स्थितः।  
 मनः संयम्य मच्चित्तो युक्त आसीत मत्परः॥**
-
-
 
 *वायुपुराणे*
 
@@ -7070,8 +6481,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **‘सत्त्वस्थः’ कामक्रोधादिरहितः।**
 
-
-
 *देवलः*
 
   देवतायतनं शून्यागारगिरिकन्दरनदीपुलिनगुहारण्यानामन्यतमे शुचौ निराबाधे विभक्ते समुपस्तीर्णमानसं कृत्वा, तस्मिन्लध्वाहारो निरामयः, शुचिः शिरोग्रीवापाणिपादौ च समास्थाप्य, शरीरमृजुं समाधाय, शिश्नवृषणावपीडयन्, यत्किञ्चिदपाश्रित्य स्वस्तिकं भद्रकं मण्डलं वाऽधिष्ठाय, उदङ्मुखः, प्राङ्मुखो वा, दन्तैर्दन्तानसंस्पृश्य, अक्षिभ्यामव्यक्तमनुन्मील्य च, मुखनासिकाभ्यां ऐक्यावसन्नाग्रस्थितदृष्टिः, सर्वेन्द्रियाणि संहृत्योर्ध्वं प्राणानुद्दीर्य, मनसा तच्चिन्तनं ध्यानम्।
@@ -7095,8 +6504,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 व्यापारास्तु समाख्याताः तैर्हीनं वशमानयेत्।  
 कुटुम्बैः पञ्चभिर्ग्रामषष्ठं तत्र महान्मनः।  
 देवासुरमनुष्यैर्वा संजेतुं नैव शक्यते॥**
-
-
 
 **बलेन परराष्ट्राणि गृह्णन् शूरस्तु नोच्यते।  
 जितेन्द्रियेन्द्रियग्रामः[^556] स शूरः कथ्यते बुधैः॥**
@@ -7137,8 +6544,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन।  
 सुखं वा यदि वा दुःखं स योगी परमो मतः॥**
 
-
-
 अर्जुन उवाच।
 
 **यो यो योगस्त्वया प्रोक्तः साम्येन मधुसूदन।  
@@ -7173,8 +6578,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **पूर्वध्यानपथे धीरः सदा दध्यान्मनोन्तरम्।  
 इन्द्रियाणि मनश्चैव यदा पिण्डीकरोत्ययम्॥**
-
-
 
 **एवं ध्यानपथः पूर्णो मया समनुवर्णितः।  
 तस्य तत्पूर्वसंरुद्धमात्मषष्ठमनोन्तरम्।  
@@ -7212,8 +6615,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **नाऽरण्यसेवनाद्योगो नाऽनेकग्रन्थचिन्तनात्।  
 व्रतैर्यज्ञैस्तपोभिर्वा न योगः कस्यचिद्भवेत्॥**
-
-
 
 **न वै पद्मासनाद्योगो न नासाग्रनिरीक्षणात्।  
 न वै शास्त्रातिरिक्तेन शौचेन भवति क्वचित्॥**
@@ -7255,8 +6656,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **ऋग्गाथा पाणिका दक्षविहिता ब्रह्मगीतिका॥**
 
-
-
 **गेयमेतत्तदभ्यासकारणान्मोक्षसंज्ञकम्।  
 वीणावादनतत्त्वज्ञः श्रुतिजातिविशारदः॥**
 
@@ -7265,8 +6664,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 रुद्रस्याऽनुचरो भूत्वा तेनैव सह मोदते॥**
 
  ‘अपरान्तकमुल्लोप्यम्’ अत्र प्रकर्यो रेणकानि स्वरबिन्दुसहितमुत्तरं चेति। एतानि प्रकरणाख्यानि सप्तगीतकानि ऋग्गाथाद्याः चतस्रो गीतिकाः। एतदपरान्तकादिगीतजातं परमात्मतया चिन्तिनं मोक्ष साधनत्वान्मोक्षसंज्ञकं ज्ञातव्यम्। तदभ्यासस्यैकाग्रताप्रतिपादनद्वारेणौत्सुक्यापत्तिहेतुत्वात्। ‘श्रूयत’ इति। श्रुतिर्द्वाविंशतिधा। सा तु स्वरेषु। तथाहि षड्जमध्यमपञ्चमाः प्रत्येकं चतुः श्रुतयः। ऋषभधैवते प्रत्येकं त्रिश्रुती। गान्धारनिषादौ प्रत्येकं द्विश्रुती। जातयस्तु षड्जातयः शुद्धाः। मङ्करजास्त्वेकादश। एवमष्टादशविधाः। ‘गीतज्ञो यदि’ इति। गीतिज्ञो यदि कथञ्चिद्विघ्नतो योगस्थः सन्मुच्यते तदा रुद्रानुचरत्वं लभत इत्यर्थः।
-
-
 
 **युक्तलक्षणम्**
 
@@ -7302,8 +6699,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **स्थिरीकृत्येन्द्रियग्रामं मनसा मिथिलेश्वर।  
 मनो बुद्ध्या स्थिरं कृत्वा पाषाण इव निश्चलः॥**
-
-
 
 **स्थाणुवच्चाऽप्यकम्पः स्याद्गिरिवच्चापि निश्चलः।  
 बुद्ध्या विधिविधानज्ञास्तदा युक्तं प्रचक्षते॥**
@@ -7345,8 +6740,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **‘कूटस्थो’ निर्विकार इत्यर्थः।**
 
-
-
 **अथ ध्येयस्वरूपम्**
 
 *विष्णुः*[^565]
@@ -7356,8 +6749,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^565]: "All three Mss. attribute what follows to the Viṣṇupurāṇa. The passage is from Viṣṇusmṛti, अ. ९७, १– Even Viramitrodaya, Mokṣaprakāśa, p. 359 refers to this passage as from the Viṣṇupurāṇa. "
 
 [^566]: "प्रशान्तात्मा इति मु. पु. ( पृ. २००
-
-
 
 भगवन्तं वासुदेवं किरीटिनं कुण्डलिनं गदिनम्। श्रीवत्साङ्कं वनमालाविभूषितोरस्कं सौम्यरूपं चतुर्भुजं शङ्खचक्रगदापद्मधरं ध्यायेत्॥१०॥ यद्यद्ध्यायेत् तदाप्नोति ध्यानगुह्यम्॥११॥ तस्मात्सर्वमेव क्षरं त्यक्त्वाक्षरमेव ध्याये॥१२॥ न च पुरुषं विना किञ्चिदपि अक्षरं अस्ति॥१३॥ तं प्राप्य मुक्तो भवति॥ १४॥
 
@@ -7386,8 +6777,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 मद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते[^568]॥ २१॥**
 
 [^568]: "All three manuscripts are unintelligible in parts. Text restored from printed Viṣṇusmṛti."
-
-
 
 *नरसिंहपुराणे*
 
@@ -7427,8 +6816,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **सर्वभावविनिर्मुक्तमप्रमेयमलक्षणम्।  
 निर्वाणमनघं विष्णुं सदा ध्यायन् विमुच्यते॥**
-
-
 
 **अमृतं परमानन्दं सर्वपापविवर्जितम्।  
 ब्रह्म ज्ञेयं शिवं विष्णुं सदा ध्यायन् विमुच्यते॥**
@@ -7471,8 +6858,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **हारी हिरण्मयवपुर्घृतशङ्खचक्रः॥**
 
-
-
 *शङ्खः*
 
 हृत्स्थस्य ध्यानयोगेन देवदेवस्य दर्शनम्।  
@@ -7512,8 +6897,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 तं वै विदित्वा न बिभेति मृत्यो-
 
 र्नाऽन्यः पन्था विद्यतेऽयनाय॥
-
-
 
 *ब्रह्माण्डपुराण*
 
@@ -7555,8 +6938,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **एकं कारणमानन्दं बोधरूपमनामयम्।  
 सूक्ष्मात्सूक्ष्मतरं ध्यायेत् जगदाधारमच्युतम्॥**
 
-
-
 **आत्मानमरविन्दस्थं तप्तचामीकरप्रभम्।  
 रहस्येकान्त आसीनो ध्यायेद[^578]भिरणादणुम्॥**
 
@@ -7595,8 +6976,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
  ‘नित्यक्रियान्तरे’ नित्यानां कर्मणामन्तराले, नित्यकर्मकाल एवेत्यर्थः। ‘आरणै[^584]’रुपनिषद्भिः।
 
 [^584]: "नेदं पदं वचनेषु दृश्यते."
-
-
 
 *तथा*
 
@@ -7639,8 +7018,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 अग्निवायुरविभ्यश्च त्रिमात्र इति संज्ञितः।  
 ऋग्यजुश्च तथा साम त्रिब्रह्म इति कीर्तितः॥
 
-
-
 **भूर्भुवःस्वस्त्र्यवस्थानं हृत्कण्ठतालुकास्तथा।  
 तुर्ये प्राणे तथाऽऽदित्ये त्रिषु चैव प्रतिष्ठितः॥**
 
@@ -7677,8 +7054,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 अकारे पीड्यमाने तू उकारं प्रतिपद्यते।  
 उकारे पीड्यमाने तु मकारं प्रतिपद्यते।**
 
-
-
 मकारे पीड्यमाने तु अर्धमात्रा तदा भवेत्।  
 जिह्वायां पीड्यमानायां निरालम्बस्तदा भवेत्।  
 एकमात्रं द्विमात्रं वा त्रिमात्रं कृत्स्नमेव च।  
@@ -7712,8 +7087,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 तदक्षरं सदा ध्यायेद्यदीच्छेद्योगमात्मनि॥
 
 [^589]: "विष्णुपुराणे ६, ५, ६४."
-
-
 
 **अकारश्चाऽप्युकारश्च मकारो विष्णुरेव च।  
 मात्रार्द्धत्रययोगाच प्रणवः पञ्चलक्षणः।  
@@ -7750,8 +7123,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **तस्मादोमिति पूर्वं तु कृत्वा युञ्जीत तत्परः।  
 जाग्रत्स्वप्नसुषुप्तानि पदान्येतानि तस्य तु॥**
-
-
 
 बहिःप्रज्ञस्तथांऽतश्च घनप्रज्ञस्त्रिधा भवेत्।  
 दक्षिणाक्षिमुखे विष्णोर्मनस्यन्तस्तु तेजसः॥
@@ -7791,8 +7162,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 प्रणवं ब्रह्मणि स्थाप्य न किन्चिदपि चिन्तयेत्।
 
-
-
 **अप्राणो विमलः शुद्धो निश्शब्दो ब्रह्मसंज्ञितः॥  
 तस्मादुत्पद्यते प्राणः पुनस्तत्रैव लीयते।  
 प्रणवे नित्ययुक्तस्य न भयं विद्यते क्वचित्॥**
@@ -7829,8 +7198,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  ‘कर्मफलसम्बन्धः’ सर्वमात्मनि संपश्येदिति युक्तम्। तत्र विशेषमाह–‘खं सन्निवेशयेत् खएष्विति’ बाह्यमाकाशं शरीरगतनवच्छिद्राकाशेन सहैकत्वेन भावयेत्। एवं चेष्टा—
 
-
-
 स्पर्शकारणभूतेन दैहिकेन वायुना सह बाह्यस्य वायोरैक्यम्। अशितपीतान्नपाकहेतुभूतकोष्ठचाक्षुषतेजोभ्यां सह प्रकृष्टतेजसः आदित्याख्यस्य ऐक्यं शारीराभिरद्भिः सह बाह्यानामपामैक्यम्। शारीरैश्च कठिनैर्भागैःपार्थिवैः सह बाह्यायाः पृथिव्या अप्यैक्यम्। मनसा सह चन्द्रस्य श्रोत्रेण सह दशदिशां पादेन्द्रियेण सह विष्णोः वीर्येण सह तस्यैक्यं भावयेत्। एवमाध्यात्मिकभूम्यादिभिः सहाऽऽधिभौतिकाधिदैविकानामैक्यं भावयित्वा तेषां प्रशासितारं ब्रह्मादिस्तम्बपर्यन्तानां व्यवस्थाकारिणां तथा च “तस्याक्षरस्य शासने *गार्गी*”त्यादि ब्राह्मणं परमाणोरपि सकाशात् सूक्ष्मतरममूर्तत्वात् सुवर्णवत् शुद्धरूपं उर्मिषट्करहितत्वात् सुषुप्तावस्थाविज्ञानोपमेयस्वरूपं परमात्मानं जानीयात्। यादृक् सुषुप्तावस्थायां प्रत्यस्तमितसुखदुःखविकल्पं क्षेत्रज्ञस्वरूपमेवं सर्वदा परमात्मनः। एनं परमात्मानमग्नित्वेनोपासते याज्ञिकाः।
 
  अन्ये पुनः ‘सर्वत एवाऽऽत्मानो व्युच्चरन्ती’ति स्रष्ट्टत्वश्रुतेः मन्वाख्यप्रजापतिरूपतयोपासते। अपरे पुनरैश्वर्ययोगादिन्द्ररूपतयोपासते। केचित् ‘प्राणमुद्गीथमुपासीते’ति श्रुतेः प्राणात्मनैनमुपासते। अन्ये पुनः परमात्मतयेति ‘एष परमात्मा सर्वान् प्राणिनः’ पंचभिः पृथिव्यादिभिभूतैः शरीरांभकैः परिगृह्य स्वार्जितकर्मापेक्षयोत्पत्तिस्थिति- विनाशैरसकृन्नियोजयतीत्यर्थः।
@@ -7839,8 +7206,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **इन्द्रियग्राममखिलं मनस्यभिनिवेश्य च।  
 मनस्तथैवाऽहंकारे प्रतिव्याप्य नराधिप॥**
-
-
 
 **अहङ्कारं तथा बुद्धौ बुद्धिं च प्रकृतावपि।  
 एवं च परिसंख्याय ततो ध्यायेच्च केवलम्॥**
@@ -7880,8 +7245,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 गन्धर्वयक्षदैत्याद्याः सकला देवयोनयः॥**
 
 **मनुष्याः पशवः शैलाः समुद्रास्सरितो द्रुमाः।**
-
-
 
 **भूभृता[^602]न्यप्यशेषाणि भूतानां पञ्चहेतवः[^603]।  
 प्रधानादि विशेषान्तं चेतनाचेतनात्मकम्॥**
@@ -7925,8 +7288,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **यथाऽग्निरुतशिखःकक्षं दहति सानिलः।  
 तथा चित्तस्थितो विष्णुः योगिनां सर्वकिल्बिषम्॥**
 
-
-
 तस्मात्समस्तशक्तीनामाकारे[^608] तत्र चेतसः।  
 कुर्वीत संस्थितिं सा तु विज्ञेया शुद्धधारणा॥
 
@@ -7965,8 +7326,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 तावद्यावद्दृढीभूता तत्रैव नृप धारणा।  
 वदतस्तिष्ठतोऽन्यद्वा स्वेच्छया कर्म कुर्वतः॥
 
-
-
 **नाऽपयाति यदा चित्तात् सिद्धां मन्येत तां तदा।  
 ततः शङ्खगदाचक्रशार्ङ्गादिरहितं बुधः॥**
 
@@ -8003,8 +7362,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **बलस्वरूपमत्यन्तं जवेनाऽन्तरितानिलम्।  
 चक्रस्वरूपं च मनो धत्ते विष्णोः करे स्थितम्॥**
-
-
 
 पञ्चरूपा तु या माला वैजयन्ती गदाभृतः।  
 सा भूतहेतुसङ्घाता भूतमाला च वै द्विज[^611]॥
@@ -8046,8 +7403,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 चतुर्णां सन्निकर्षण फलं यत्तदशाश्वतम्।  
 द्वयोस्तु सन्निकर्षेण शाश्वतं ध्रुवमव्ययम्॥
 
-
-
 यन्नाऽस्ति सर्वलोकस्य तदस्तीति विरुध्यते।  
 कथ्यमानं तथाऽन्यस्य हृदये नाऽवतिष्ठते॥
 
@@ -8083,8 +7438,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 मोक्षस्य नैव किञ्चित्स्यादन्यत्र गमनं क्वचित्।  
 स्थानं वा धाम परमं यत्र गच्छन्ति योगिनः॥
-
-
 
 **अज्ञानं बन्धभेदस्तु मोक्षो ब्रह्मलयस्त्विति।  
 त्यक्त्वा सर्वविकल्पांस्तु आत्मस्थं निश्चलं मनः॥**
@@ -8124,8 +7477,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **मय्येव मन आधत्स्व मयि बुद्धिं निवेशय।  
 निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः॥**
 
-
-
 **अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम्।  
 अभ्यासयोगेन ततो सामिच्छाऽऽप्तुं धनन्जय॥**
 
@@ -8157,8 +7508,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **यस्मिन्यस्मिंस्तु विषये यो यो याति विनिश्चयम्।  
 स तमेवाऽभिजानाति नाऽन्यं भरतसत्तम॥**
 
-
-
 **अथ योगप्रवृत्तिचिह्नानि**
 
 तत्र *मार्कण्डेयपुराणे*
@@ -8189,8 +7538,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^621]: "११, ६४."
 
-
-
 **अथ योगोपसर्गाः**
 
 तत्र *देवलः*
@@ -8219,8 +7566,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **तेभ्यस्तेभ्यश्च कर्मभ्य उपस्पृष्टोऽभिवाञ्छति।  
 चित्तमित्थं प्रवर्तन्ते येन योगी निवर्त्तयेत्॥**
-
-
 
 **ब्रह्मसङ्गि मनः कुर्वन्नुपसर्गात्प्रमुच्यते।  
 उपसर्गैर्जितैरेभिरुपसर्गास्ततः पुनः॥**
@@ -8260,8 +7605,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **स्पर्शं वायौ तथा तद्वद्विभ्रतस्तस्य धारणा।**
 
-
-
 व्योम्नस्सूक्ष्मप्रवृत्तस्य शब्दं तत्र जहाति च॥
 
 मनसा सर्वभूतानां मन आविशते यदा।  
@@ -8298,11 +7641,7 @@ nor his access to the condition from which there is no return; for, in the *mah�
 देवानामसुराणां च गन्धर्वोरगरक्षसाम्।  
 देहेषु लयमायाति सङ्गं नाऽऽप्नोतिच क्वचित्॥
 
-
-
  ‘मानुषाः कामाः’ सत्वादयः। ‘दारफलं’ पुत्रादिकं। ‘विद्या’ आध्यात्मिकातिरिक्ताः। ‘माया’ इन्द्रजालादि।
-
-
 
 ‘कुप्यं’ हेमरूप्यव्यतिरिक्तं कांस्यादि। ‘मरुत्प्रपतनं’ मरुद्गमनम्।
 
@@ -8323,8 +7662,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **नित्यं ब्रह्मपरो युक्त उपसर्गैः प्रमुच्यते।**
 
-
-
 **अथ योगविभूतयः**
 
 तत्र *देवलः*
@@ -8332,8 +7669,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
  अणिमा महिमा लघिमा प्राप्तिः प्राकाम्यमीशित्वं वशित्वं यत्र कामावसायित्वं चाऽष्टावैश्वर्यगुणाः। तेषामणिमामहिमालघिमास्त्रयः शारीराः। प्राप्त्यादयः पञ्चैन्द्रियाः। तत्र स्वशरीरत्वमणिमा[^627] अणुभावात् सूक्ष्माण्यप्याविशति। शरीरमहत्वं महिमा। महत्वात् सर्वशरीराण्यावृणोति। शरीराशुगामित्वं लघिमा। तेनाऽतिदूरस्थानपि क्षणेनाऽऽसादयति। विश्वविषयावाप्तिः प्राप्तिः। प्राप्त्या सर्वप्रत्यक्षदर्शी भवति। यथेष्टचारित्वं प्राकाम्यम्। प्राकाम्येन सर्वभोगवरानाप्नोति। अप्रतिहतैश्वर्यमीशित्वम्। ईशित्वेन दैवतान्यप्यतिशेते। आत्मवश्यता वशित्वम्। वशित्वेनाऽपरिमितायुर्वश्यजजन्मा च भवति। यत्र कामावसायित्वं त्रिविधम्—छायावेशः अवध्यानावेशः अङ्गप्रवेश इति। यत परस्य छायाप्रवेशमात्रेण चित्तं वशीकरोति स छायावेशः। यद्दूरस्थानामपि अनुध्यानेन चित्ताधिष्ठानं, सोऽवध्यानावेशः। यत्सजीवस्योभिस्ते \[?\] जीवस्य वा शरीरानुप्रवेशनं
 
 [^627]: "वी. मि. मोक्ष. पृ. ४४८. reads तत्राणशरीरत्वमणिमा."
-
-
 
 सोऽङ्गप्रवेशः। यत्र कामावसायित्वेन मूर्तद्रव्यं चाधितिष्ठतीति ऐश्वर्यावस्थानं तच्च प्रकृति-पुरुषोत्तरहेतोर्द्धर्मतेजोज्ञानविशेषात्। सातिशयेन[^628] संभूतं चैश्वर्याद्भवतीति। एवमेतानैश्वर्यगुणानधिगम्योद्धूतकल्मषः छिन्नसंशयः प्रत्यक्षदर्शी धर्मपरावरज्ञः कूटस्थः सर्वमिदं असदनित्यमिति ज्ञात्वा स्वयमेव शान्तिमधिगच्छतीत्यैश्वर्यात्र्याप्तिः[^629]।
 
@@ -8363,8 +7698,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **तदेव च यथा स्रोतो विष्टम्भयति रावणः।  
 तद्वद्योगबलं लब्ध्वा व्यूहते विषयान् बहुन्।**
-
-
 
 *\[तथा[^634]\]*
 
@@ -8400,8 +7733,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^639]: "‘अर्थानां छन्दतः सृष्टिः’ इति मिताक्षरापाठः"
 
-
-
 **अथ स्थितप्रज्ञचरितम्**
 
 तत्र *महाभारते*
@@ -8432,8 +7763,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^641]: "भगवद्गीता–२, ६९-७२."
 
-
-
 **आपूर्यमाणमचलप्रतिष्ठं**
 
 **समुद्रमापः प्रविशन्ति यद्वत्।**
@@ -8463,8 +7792,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **समदुःखसुखः स्वस्थः समलोष्टाइमकाञ्चनः।  
 तुल्यप्रियाप्रियो धीरः तुल्यनिन्दार्थसंस्तुतिः॥**
 
-
-
 मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः।  
 सर्वारम्भपरित्यागी गुणातीतः स उच्यते॥
 
@@ -8473,8 +7800,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 ब्रह्मणो हि प्रतिष्ठाऽहममृतस्याऽव्ययस्य च।  
 शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च॥
-
-
 
 प्रकाशस्य धर्मो ज्ञानं। प्रवृत्ती रजसो धर्मः। मोहस्तु तमसो धर्मः। ‘संप्रवृत्तानि’ सुखनिमित्तानीति शेषः। ‘निवृत्तानि' सुखदुःखनिमित्तानीति शेषः। ‘नेङ्गते' न चलति।
 
@@ -8500,8 +7825,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 बाह्यस्पर्शेध्वसक्तात्मा विन्दत्यात्मनि यत्सुखम्।  
 स ब्रह्मयोगयुक्तात्मा सुखमक्षय्यमश्नुते॥
-
-
 
 **ये हि संस्पर्शजा भोगा दुःखयोनय एव ते।  
 आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः॥**
@@ -8539,8 +7862,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 सुखं वा यदि वा दुःखं स योगी परमो मतः॥**
 
  ‘यदा भूतपृथग्भावमि’ति भूतानां पृथग्भावमेकस्थं प्रलयावस्थायां परमकारणेऽनुपश्यति तत एव चैकस्मा-
-
-
 
 त्परमात्मनो विस्तारं। “तस्माद्वा एतस्मादात्मन आकाशः संभूत[^647]” इति सृष्टिप्रलयविद्ब्रह्म संपद्यते इत्यर्थः। ‘पण्डिताः समदर्शिनः’ ब्राह्मणादिषु ब्रह्माऽवस्थितं समदर्शिनो भवन्ति। सर्वभूतेष्वाकाशवद् ब्रह्मरूपमनुगतं पश्यन्तीत्यर्थः।
 
@@ -8583,8 +7904,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^654]: "लक्ष्यसे—ना., मु. भा."
 
-
-
 नाऽनुतिष्ठसि धर्मार्थौ न कामं वाऽनुवर्त्तसे।  
 इन्द्रियार्थाननादृत्य मुक्तश्चरसि साक्षिवत्॥
 
@@ -8624,8 +7943,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 शये कदाचित् पर्यङ्के भूमावपि पुनः शये।  
 प्रासादे वाऽपि शय्या मे कदाचिदुपपद्यते॥
-
-
 
 धारयामि च चीराणि शाणक्षौमाजिनानि च।  
 महार्हाण्यथ वासांसि धारयाम्यहमेव च[^658]॥
@@ -8677,8 +7994,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 व्रत्तमिदमाजगरं शुचिश्चरामि॥
 
-
-
 **सुखमसुखमलाभमर्थलाभं**
 
 **रतिमरतिं मरणं च जीवितं च।**
@@ -8727,8 +8042,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **स्वपरमतैर्गहनं प्रतर्कयद्भिः॥**
 
-
-
 तदिदमनुनिशम्य विप्रपातं
 
 पृथगभिपन्नमिहाऽबुधैर्मनुष्यैः।
@@ -8776,8 +8089,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 महादेवान्तरे वृत्तं देव्याश्चैवान्तरे तथा ।  
 यथावच्छृणु राजेन्द्र ज्ञानदं पापनाशनम् ॥
 
-
-
 देवल[^662] उवाच।
 
 [^662]: "Not found in मु. भा."
@@ -8815,8 +8126,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **न च जातूपतप्यन्ते धीराः परसमृद्धिभिः।  
 निन्दाप्रशंसे नात्यर्थं न वदन्ति परस्य च॥**
 
-
-
 न च निन्दाप्रशंसाभ्यां विक्रियन्ते कदाचन।  
 सर्वतश्च प्रशान्ता ये सर्वभूतहिते रताः॥
 
@@ -8852,8 +8161,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 प्राप्नोति ब्रह्मणः स्थानं यत्परं प्रकृतेर्ध्रुवम्।  
 नाऽस्य देवा न गन्धर्वा न पिशाचा न राक्षसाः।  
 पदमन्ववरोहन्ति प्राप्तस्य परमां गतिम्॥
-
-
 
 *मार्कण्डेयपुराणे*[^665]
 
@@ -8893,8 +8200,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 [^671]: "A. S. B. समता for ममता ; तत्वावमयत्यक्ते—ना ; तथा च ममता त्यक्ते—स"
 
 [^672]: "The following lines are omitted here : तन्मात्रावस्थिते सूक्ष्मे तृतीयांशे च पश्यतः। तथैव भूतसद्भावं शारीरं किं सुखावहम्॥"
-
-
 
 मनस्यवस्थितं दुःखं सुखं वा मनसा श्रितम्[^673]।  
 यतस्ततो न मे दुःखं सुखं वा न ह्यहं मनः॥
@@ -8944,8 +8249,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 मन्ये च देहेषु शरीरभेदैः॥
 
-
-
 *विष्णुपुराणे*[^678]
 
 राजोवाच।
@@ -8981,8 +8284,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 वक्षःस्थलं तथा बाहूस्कन्धौ चोदरसंस्थितौ।  
 स्कन्धाश्रितेऽयं शिविका मम भारोऽत्र किंकृतः॥
-
-
 
 **शिबिकायां स्थितं चेदं वपुस्त्वदुपलक्षितम्।  
 तत्र त्वमहमप्यत्र प्रोच्यते चेदमन्यथा॥**
@@ -9024,8 +8325,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **एवमुक्त्वाऽभवन्मौनी स बहन् शिबिकां द्विजः।  
 सोऽपि राजाऽवतीर्योर्व्यां तत्पादौ जगृहे त्वरन्॥**
 
-
-
 राजोवाच।
 
 भो भो विसृज्य शिविकां प्रसादं कुरु मे द्विज।  
@@ -9063,8 +8362,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 ब्राह्मण उपाच।
 
 शब्दोऽहमिति दोषाय नाऽऽत्मन्येव तथैव तत्।
-
-
 
 अनात्मन्यात्मविज्ञानं शब्दो[^687] वा भ्रान्तिलक्षणः॥
 
@@ -9110,8 +8407,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 एवं छत्रशलाकानां पृथग्भावो विमृश्यताम्।  
 क्व यातंछन्त्रमित्येष न्यायस्त्वयि तथा मयि॥
 
-
-
 **पुमांस्त्री[^693] गौरजो वाजी कुञ्जरो बिहगस्तरुः।  
 देहेषु लोके संज्ञेयं विज्ञेया कर्महेतुषु॥**
 
@@ -9140,8 +8435,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
  ‘तदुपलक्षितस्त्वयात्मनाऽहं त्वया गृहीतः। तत्र त्वमिति’। तत्र त्वमहमत्रेत्यन्यथोच्यते। यतो नावयोर्वाच्य वाचकभावोऽस्तीति भावः। ‘गुणप्रवाहः’ गुणपरिणामस्रोतः। ‘शुद्ध’ केवलो वस्त्वन्तरसंसर्गशून्योऽसंज्ञीत्यर्थः। ‘अक्षरो’ऽविनाशी। ‘शान्तो’ रागद्वेषरहितः। ‘निर्गुणो’गुणातीतः। ‘प्रकृतेः परः’ अचेतनादत्यन्तविलक्षणः। ‘भूपालेत्यादि। यद्यन्येन ध्रियमाणे भावे परस्याऽपि भारो भवेत्,
 
-
-
  तदा मदुपलक्षितस्कन्धाश्रिते भर्त्तव्ये तवाऽपि भारः[^694] स्यादिति भावः। तथाऽन्यजन्तुभिर्भारः सम इत्यन्वयः। न केवलं शिबिकोत्थः भारः समः। किन्तु शैलभारोऽपि समः। ‘जाल्मः’ असमीक्ष्यकारी[^695] यन्निमित्तमित्यागमनहेतुविषयः। ‘किमागमनकारणमिति' उद्देश्यप्रश्नः। ‘शब्दोऽहमि'ति दोषायेत्यादि। ‘अहमि'ति शब्दोऽयमात्मनि स्वप्रयोक्तरि वर्त्तमानो न दोषाय भवति। किन्तु अनात्मन्यात्मविज्ञानं भ्रमः। तथाऽऽत्मशब्दस्याऽप्यनात्मनि प्रयोगो भ्रान्तिलक्षण इत्यर्थः। ‘एते जिह्वादयः' शब्दाभिव्यक्तिहेतवो नाऽहं कर्तृकत्वादशरीरत्वात् (?) अशरीरत्वाच्चाऽहमिति शब्दविज्ञानयोरन्यदानयन- मित्यर्थः।
 
 [^694]: "भावः इति उदयपुरमातृकायाम्."
@@ -9167,8 +8460,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **अभेदव्यापिनो[^697] वायोस्तथा तस्य महात्मनः।**
 
 [^697]: "अमेदयायिनो—A, S, B,"
-
-
 
 *तथा*
 
@@ -9205,8 +8496,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 भो विप्रवर्य भोक्तव्यं यदत्र भवतो गृहे।  
 तत्कत्थ्यतां कदन्नेषु नः प्रीतिः सततं मम॥
-
-
 
 निदाघ उवाच।
 
@@ -9247,8 +8536,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 न मे क्षुन्नाऽभवत्तृप्तिः कस्मान्मां द्विज पृच्छसि॥
 
 [^702]: " भुक्तेन्ने—A. S. B. makes a better reading."
-
-
 
 वह्निना पार्थिवे धातौ क्षयिते क्षुत्समुद्भवः।  
 भवत्यम्भसि[^703] च क्षीणे नृणां तृप्ति\[र्न\] जयते॥
@@ -9291,8 +8578,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 यवगोधूममुगादि घृतं तैलं पयो दधि।  
 गुडः फलादीनि तथा पार्थिवाः परमाणवः॥
 
-
-
 **तदेतद्भवता ज्ञात्वा मिष्टाऽमिष्टविचारि यत्।  
 तन्मना समतालम्बी कार्यं साम्यं हि मुक्तये॥**
 
@@ -9333,8 +8618,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **भो विप्र जनसंमर्दो महानेष नरेश्वरे।  
 प्रविविक्षौ पुरं रम्यं तेनाऽत्र स्थीयते मया॥**
 
-
-
 ऋभुरुवाच।
 
 **नराधिपोऽत्र कतमः कतमतरो जनः।  
@@ -9373,8 +8656,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **उपर्यहं यथा राजा त्वमधः कुञ्जरस्तथा।  
 अवबोधाय ते ब्रह्मन् दृष्टान्तो दर्शितो मया॥**
 
-
-
 ऋभुरुवाच।
 
 **त्वं राजवद्विजश्रेष्ठ स्थितोऽहं गजवद्यादि।  
@@ -9411,8 +8692,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 सितनीलादिभेदेन यथैकं दृश्यते नभः॥**
 
 **भ्रान्तदृष्टिभिरात्माऽपि तथैकस्सन् पृथक् पृथक्।**
-
-
 
 **एकः समस्तं यदिहास्ति किंचित्**
 
@@ -9454,8 +8733,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **तत्कर्म यन्न बन्धाय सा विद्या या विमुक्तये।  
 आयासायाऽपरं कर्म विद्याऽन्या शिल्पनैपुणम्॥**
 
-
-
 **तदेतदवगम्याऽहमसारं सारमुत्तमम्।  
 निशामय महाभाग प्रणिपत्य ब्रवीमि ते॥**
 
@@ -9485,8 +8762,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 प्रसीदति[^713] ततस्तत्र प्रसन्ने क्लेशसंक्षयः॥**
 
 [^713]: " प्रसीदत्यच्युतः तस्मिन्."
-
-
 
 अथ योगभ्रष्टगतिः
 
@@ -9518,8 +8793,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^715]: " ‘धीमतां’ इति भाष्यकाराः पठन्ति."
 
-
-
 **तत्र नं बुद्धिसंयोगं लभते पौर्वदेहिकम्।  
 यतते च ततो भूयः संसिद्धौ कुरुनन्दन॥**
 
@@ -9545,8 +8818,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **विनिष्पन्नसमाधिस्तु मुक्तिं तत्रैव जन्मनि।  
 प्राप्नोति योगी योगाग्निदग्धकर्मचयोऽचिरात्॥**
-
-
 
 **अथाऽरिष्टानि[^719]**
 
@@ -9580,8 +8851,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **पांशुस्थं कर्दमे वाऽपि यस्य खण्डं पदं भवेत्।  
 अग्रतः पृष्ठतो वाऽपि सप्त मासान्स जीवति॥**
-
-
 
 काकः कपोतो गृध्रो वा विलीनो यस्य मूर्द्धनि।  
 ऋव्यादाः पक्षिणश्चैव षण्मासान्स तु जीवति॥
@@ -9625,8 +8894,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 अद्भिः स्पृष्टो न हृष्येत सोऽहनी द्वे च जीवति।
 
-
-
 **घोषं न[^728] शृणुयात्कर्णे ज्योतिर्नेत्रे न पश्यति।  
 सद्योजीवः स वै विप्रः शुभकर्माणि कारयेत्॥**
 
@@ -9665,8 +8932,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 जायते दन्तवर्षं च तं गतायुषमादिशेत्॥**
 
 **भूयोभूयस्त्रसेद्यस्तु रात्रौ वा यदि वा दिवा।**
-
-
 
 **दीपगन्धं च नाऽवैति विद्यान्मृत्युमुपस्थितम्॥**
 
@@ -9707,8 +8972,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **येषां विनीतः सततं येऽस्य पूज्यतमाः स्मृताः।  
 तानेव चाऽवजानाति तानेव च विनिन्दति॥**
-
-
 
 **देवता नार्चते वृद्धान् गुरुन् विप्रांश्र निन्दति।  
 मातापित्रोरसत्कारं जामातॄणां करोति च[^733]॥**
@@ -9757,8 +9020,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **अरुन्धतीं न पश्यन्ति दृष्टपूर्वां कथञ्चन।  
 तथैव ध्रुवमित्याहुः पूर्णेन्दुं दीपमेव च॥**
 
-
-
 **खण्डपादं दक्षिणतस्ते हि संवत्सरायुषः।  
 परचक्षुषि चाऽऽत्मानं ये न पश्यन्ति पार्थिव॥**
 
@@ -9796,8 +9057,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **तथा मृत्युमुपादाय तत्परेणाऽन्तरात्मना।  
 आधाय धारणांचैव विदित्वा मनुजर्षभ॥**
 
-
-
 **जयेत[^741] मृत्युयोगेन योगिना परमात्मना[^742]।  
 गच्छेत्प्राप्य क्षयं कृष्णमजन्म शिवमव्ययम्।  
 शाश्वतं स्थानमचलं दुष्प्राप्यमकृतात्मभिः॥**
@@ -9810,10 +9069,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **आपन्ने तूत्तरां काष्ठां सूर्ये यो निधनं व्रजेत्।  
 नक्षत्रे च मुहूर्ते च पुण्ये राजन् स पुण्यकृत्॥**
-
-
-
-
 
 **अथोत्क्रान्तिः**
 
@@ -9842,8 +9097,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 देवैर्मुनिगणैर्वाऽपि दुर्गमं दुरतिक्रमम्॥**
 
 **उपगच्छति तत्वज्ञो योगी तद्गतमानसः॥**
-
-
 
 *मार्कण्डेयपुराणे*
 
@@ -9885,8 +9138,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^746]: "युग न इति भाग्यकाराः पठन्ति सुव्रत—स. ना"
 
-
-
 **मय्यर्पितमनोबुद्धिर्मामेवैध्यस्यसंशयः।  
 अभ्यासयोगयुक्तेन चेतसा नान्यगामिना।  
 परमं पुरुषं दिव्यं याति पार्थाऽनुचिन्तयन्।**
@@ -9927,8 +9178,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम्।  
 नाऽऽप्नुवन्ति महात्मानः संसिद्धिं परमां गताः॥**
 
-
-
 *मनु*[^747]ः
 
 [^747]: "६, ७८—७९."
@@ -9943,7 +9192,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **विमुच्यमानः पापेभ्यो वनेभ्य इव चन्द्रमाः।  
 विरजाः कालमाकांक्षन् धीरो धैर्येण सिध्यति॥**  
-
 
 **अथार्चिरादिमार्गः**
 
@@ -9966,8 +9214,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **येनैकरूपाश्चाऽधस्ताद्रश्मयोऽस्य मृदुप्रभाः।  
 इह कर्मोपभोगाय तैः संसरति सोऽवशः॥**
-
-
 
 *महाभारते*
 
@@ -10007,8 +9253,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **तत्रस्थान् पुरुषोऽभ्येत्य मानसो ब्रह्मलौकिकान्।  
 करोति पुनरावृत्तिस्तेषामिह न विद्यते॥**
 
-
-
 यज्ञेन तपसा दानैर्ये हि स्वर्गजितो नराः।  
 धूमं रात्रिं[^754] कृष्णपक्षं दक्षिणायनमेव च॥
 
@@ -10023,8 +9267,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
  सकलाश्रमिभिः असौ परमात्मा नानाप्रकारं जिज्ञासितव्यः। तमेव प्रकारमाह —‘द्रष्टव्यो’उपरोक्षी कर्तव्यः।तदुपायमाह ‘श्रोतव्यो मन्तव्य’इति। ‘श्रोतव्यो वेदान्तश्रवणेन निर्णेतव्यः। ‘मन्तव्यो’ युक्तिभिर्विचारयितव्यः।ततोऽसौ ध्यानेनाऽपरोक्षी भवति। ये द्विजातयः श्रद्धातिशययुक्ता आरण्यकं निर्जनप्रदेशमाश्रिताः ‘एव’ मुक्तेन मार्गेण ‘एन’मात्मानं सत्यं ब्रह्मोपासते ‘विन्दन्ति’लभन्ते प्राप्नुवन्ति। ब्रह्मप्राप्तिमार्गंदेवयानमाह—‘क्रमात्ते संभवन्तीति’। ते विदितात्मानः ‘क्रमात्’अग्न्याद्यभिमानिदेवतास्थानेषु मुक्तिमार्गभूतेषु।विप्रा[^755] पिताः परमं पदमाप्नुवन्ति।'अर्चि’ र्वह्निः। ‘अह’र्दिनम्। ‘शुक्ल’शुक्लपक्षः। ‘उत्तरं’ उत्तरायणम्। ‘देवलोकम’सुरसद्म। ‘सविता’सूर्यः। 'तेजः तानेवंक्रमादर्चिरादिस्थानगतान् मानसः ‘पुरुषो’ब्रह्मलौकिकान् करोति’ब्रह्मैव लोको ब्रह्मलोकः तं गमयति। परमात्मनैकी भवति। पितृयानमाह ‘यज्ञे’ नेत्यादि। ‘येपुन’ रिति तैर्यज्ञदानतपोभिः स्वर्गफलभोक्तारः ते क्रमात्
 
 [^755]: "Lacuna here in all four Mss."
-
-
 
 धूमादिपदार्थाभिमानिनीर्देवताःप्राप्य[^756] पुनरेव वायुवृष्टिजलभूमीः प्राप्य व्रीह्याद्यनुरूपेण शुक्रत्वमवाप्य संसारिणो योनिं व्रजन्ति। ‘दन्दशुकः’सर्पादिः[^757]।
 
@@ -10051,8 +9293,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 **नैते मृती पार्थ जानन् योगी मुह्यति कश्चन।  
 तस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन॥**
 
-
-
 **वेदेषु[^759] यज्ञेषु तपस्सु चैव**
 
 [^759]: "देवेषु यज्ञेषु—A.S. B."
@@ -10069,8 +9309,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^761]: "Nagpur Ms. ends with अर्चिर्देवता,"
 
-
-
 तथा च *श्रुतिः*
 
 **अर्चिषोऽहः अह्न आपूर्यमाणपक्ष इति[^762]।  
@@ -10085,8 +9323,6 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 **यथागतिर्न दृश्येत तथैवाऽस्य महात्मनः।**  
 
-
-
 **इति महाराजाधिराज श्रीमद्गोविन्दचन्द्र[^763] महासन्धिविग्रहिकेण श्रीहृदयधरात्मजेन  
 श्रीलक्ष्मीधरेण विरचिते कृत्यकल्पतरौमोक्षकाण्डं समाप्तम्[^764]।**
 
@@ -10094,21 +9330,7 @@ nor his access to the condition from which there is no return; for, in the *mah�
 
 [^764]: "A. S. B. gives the date of its transcription as संवत् १९५०, आश्वि. शु, ९. बु—काश्यां लिखितम्—[i.e., 1892 A. D.]. “इति श्रीमहाधिराजाधिराज श्रीमद्‌गोविन्दचन्द्रदेव महासान्धिविप्रहिकेण श्रीहृदयधरात्मजेन श्रीलक्ष्मीधरेण विरचिते कृत्यकल्पतरौ मोक्षकाण्डम् समाप्तम्। संवत् १७२१.In Sarasvatibhavan Ms. संख्यग्रन्थाः २६५०."
 
-
-
-
-
-
-
-
-
-
-
-
-
 **अनुबन्धः**
-
-
 
 **INDEX OF AUTHORS AND WORKS CITED  
 IN THE TEXT**
@@ -10117,262 +9339,133 @@ IN THE TEXT**
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
 
 **INDEX OF AUTHORS AND WORKS CITED ONLY  
 IN THE FOOT NOTES**
 
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **INDEX OF HALF-VERSES**  
 *Prose citations. Citations in foot-notes. References are to pages.*  
 
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 ह्रीर्विद्या सत्यमक्रोधो, मनु, ६५
-
-
 
 **NOTES**
 
@@ -10386,8 +9479,6 @@ IN THE FOOT NOTES**
   सालोक्यं सार्ष्टि सामीप्य सांख्यमेकत्वमच्युत ।दीयमानं न गृह्णन्ति विना मत्सेवनं जनाः॥  
  **6,** 18. The rendering of *upasampadya* as *bhūtvā* marks a point of difference from Visistādvaita. Rangarāmānuja in his *Viśiṣṭād*. *vaidic* commentary on the Chāndogyopaniṣad, p. 577 (Anandāśrama edition) renders upasamadya by prāpya.  
 **7**, 2. “(On the soul's) having approached (the highest light) there is manifestation; (as we infer) from the word ‘own’.” (*Śribhāṣya*, E. T., Thibaut). S'aṅkara has ‘entered into’ instead of Ramūnuja's ‘approached,’and adds ‘of its own nature’as a qualification of ‘manifestation.’
-
-
 
  **7**, 4-5. Vedānta Desika uses this passage from *Viṣnupurāna* in support of the *Visiṣṭādvaita* view of *Mokṣa*, that he expounds in his *Rahasyatrayasāra*, xxii. He interprets bheṣajam as Bhagavat. svarūpam bhogyam.  
    **7**, 13. cf. Sāmkhyasūtra, *Atyantiko* duḥkhanvṛttiḥ mokşah.  
@@ -10409,8 +9500,6 @@ IN THE FOOT NOTES**
  गृहस्थस्तु यदा पश्येद्रलीपलितमात्मनः। अपत्यस्यैव चापत्यं तदारण्यं समाश्रयेत्॥  
  According to Mokṣaprakās a, the birth of a son's daughter or of a daughter's son will not qualify:  
 ‘अपत्यस्यापत्यं पौत्रमित्याहुः शिष्ठाः’।
-
-
 
  The *Mitākṣara* view that the appearance of grey hair and the birth of a grandson are alternative qualifications is thus condemned by the Mokṣaprakāśa:
 
@@ -10439,8 +9528,6 @@ bathe only twice, missing the noon-bath.
 वास्येकं तक्षतो बाहुं चन्दनेनैकमुक्षतः। नाऽकल्याणं न कल्याणं
 चिन्तयन्नुभयस्तयोः॥
 
-
-
  26, 14-15. Three intervening lines are omitted between the twohalves from the *Viṣṇupurāṇa*, which have been formed into a *śloka* in the text. They are—तद्वत् त्रिसवनं स्नानं शस्तमस्य नरेश्वर॥ देवताभ्यर्चनं होमः सर्वाभ्यागतपूजनम्। भिक्षाबलिप्रदानञ्च शस्तमस्य नरेश्वर॥
 
  26, 17. पार्श्वोर्ध्वाग् should read पार्श्वोर्ध्वबाहू.
@@ -10467,8 +9554,6 @@ bathe only twice, missing the noon-bath.
 
  32. Lakṣmidhara does not provide for death-bed*(ātura)* *sanyāsa*, and the entry into *sanyāsa* of defectives, though he may have
 
-
-
 been aware of the verse of Aṅgiras, cited by Mitramiśra (मो. प्र. ३६)which allows such entry:  
  अन्धःपङ्गुर्दरिद्रो वा विरक्तः सन्यसेविजः। सर्वेषामपि वैराग्यं ...... स तुविधीयते॥  
   **36**, 17. As Lakṣmidhara has rejected the reading “ Ekadanḍi *tridaṇḍi vā*”on the ground that the commentator of Baudhāyana has rejected it as unauthentic (*apa-pāṭhaḥ*) —vide p. 38, 11,14-16,“vā”in the text should be dropped, as a mistake of copyists.  
@@ -10477,8 +9562,6 @@ been aware of the verse of Aṅgiras, cited by Mitramiśra (मो. प्र. �
 त्रिदण्डालाभारूपाप द्विषयता हारीत- मेधातिथिभ्यां व्यवस्थापिता। “त्रिदण्डं वैणवं सौम्यं सत्वचं समपर्वकम् ।वेष्टितं कृष्णगोवालरज्ज्वा तु चतुरङ्गुलम् ॥ नष्टे जलपवित्रे च त्रिदण्डे वा प्रमादतः। एकन्तु वैणवं दण्डं पालाशं बैल्वमेव वा ॥ गृहीत्वा विचरेत्तावद्यावलभ्यं त्रिदण्डकम्। यत्नेनान्वेषयेन्नित्यमप्रमत्तः समाहितः ” इति हारीतः ॥ मेधातिथिस्तु—“यावन्नास्यस्त्रयो दण्डास्तावदेकेन पर्यटेत्" इति। न चैतत्प्रान्तत्रिदण्डधारणपुरुष विशेषविषयमिति नियन्तुं शक्यम्, “एकदण्डी त्रिदण्डी वा” इत्यस्यायापि तुल्यत्वनिश्चयाभावात्। यद्यपि च प्रथममेत्र कस्यचित् त्रिदण्डालाभादेकदण्डग्रहणं संभवति, तथापि न तत्र प्रक्रमपरिनिय तिरङ्गीकर्तुं शक्या, अमुख्यत्वात्। “ यावन्नस्युस्त्रयोदण्डास्वावदेकेन पर्यटेत् ”इत्यस्य चाविशेषेण प्रकमेपि प्रवृत्तेः।  
    Vedānta Deśika then proceeds to support his position on three further grounds :(1) Vedic authority upholds the *tridaṅḍa*, whereas only smrti authority is cited in support of the option to use an eka. daṇḍa; (2) Manu's authority supersedes by convention those of all other smṛtis, and what is opposed to his statement is to be rejected,and Manuis for *tridaṇḍa* only; and (3) a number of smṛtis (which he cites, e.g., Śāndilya, Atri, Dattātreya, Dakṣa and Hārita ) prescribe only the tridaṇḍa.  
  **36**, 18. cf. Yogasūtra, II, 302—तत्राहिंसासत्यास्तेयब्रह्मचर्यापरिप्रहा यमाः॥
-
-
 
  **37**, 7-8. “अतो ब्राह्मणधर्म एव चातुराश्रयं इति सिद्धम्” (Medhātithi, ed. Jha, I, p. 533). Mitramiśra, who cites with approval Lakśmidhara's verdict (मो.प्र.४५), reproduces the elaborate discussion of the subject in the *Madanapārijāta* (*Bib. Ind*., pp. 365-373) to establish the right of the Brāhmaṇa alone to *sanyāsa*.
 
@@ -10502,8 +9585,6 @@ been aware of the verse of Aṅgiras, cited by Mitramiśra (मो. प्र. �
 
  The *yati* who proceeds to Gaya is enjoined not to make his obeisance to the *viṣṇupāda* there like others, but simply show his danda, *(Vāyupurāṇa*, cited in *Yatidharmasaṁgraha*, p. 106).
 
-
-
  **50,** 17-20. Cited as from Atri in *Yatidharmasaṁgraha,* p. 24.  
  **51,** 1. 'There is no liberation for one devoted to grammaticalstudies.' This is opposed to the view of Patañjali that the study ofgrammar is obligatory to Brāhmaṇas as a *nitya-karma* (ब्राह्मणेन निष्कारणो धर्मः षडङ्गो वेदोऽध्येयो ज्ञेयश्च । प्रधानं च षडङ्गेषु व्याकरणम् ।). Grammar should be studied for *mukti* ( महता देवेन नः सायं यथा स्यात् इत्यध्येयं व्याकरणम् ।). Nāgoji Bhaṭṭa is of opinion that the four ṛks cited and explained by Patañjali show that the study of grammar enables one to attain *mokṣa* (P. S. S. Sastri, *Lectures on the Mahābhāṣya,* 1944, p. 40).  
  **51,** 1-4. Though couched in general terms, the condemnation isof the *yati* who devotes himself to grammar-teaching, aims at gathering a following, takes pride in his food and raiment and finds pleasure in the beautiful surroundings of his hermitage. The gathering of disciples and the giving of discourses *(vyākhyānam)* in order to obtain gains and adoration *(lābhapūjā-nimittam)* are forbidden on p. 56, 1, 5.  
@@ -10516,8 +9597,6 @@ been aware of the verse of Aṅgiras, cited by Mitramiśra (मो. प्र. �
 **56,** 19. *Parigraha* may mean either "following"or "property." In the context, which deals with the mode of collecting his*bhikṣā*, it implies condemnation of going round begging, followed by disciples (as was the habit of the Buddha).  
  **57,** 13-14. A *yati* who makes himself pleasant to the donors ofalms will continue in the fetters of rebirth. Bühler takes the prohibition to imply that the *yati* makes humble salutations to the givers of alms, in order to obtain alms. This interpretation is alluded to by Nandapaṇḍita in his comment on the sūtra of *Viṣṇusmṛti*, p. 49, 1. 12 *inf*.  
 **51,** 16-17. The prohibition of the practices named here is absolute, though they are related to the obtainment of alms as their
-
-
 
 object. Astrology and palmistry have always been looked down on as beneath a pious person. *Aṅgavidyā*, which is taken as 'palmistry' (which makes it fit with *nakṣatra-vidyā,* which is astrology) is interpreted by two commentators of Manu as "the science of grammar and the five *aṅgas* of the Vedas "; they also interpret '*anus'āsanam*' as 'teaching the Veda.' Medhātithi and Govindarāja take ‘*anuśāsanam'* to mean 'giving advice' (on worldly matters). Vāda is taken to mean "exposition of the Śāstras" by Govindarāja, 'disputations' by Medhātithi, and 'the science of dialectics' by Rāghavānanda. "This verse, which occurs also in Vasiṣtha, X, 21, is historically important, as it shows that in ancient, as in modern times, ascetics followed worldly pursuits and were the teachers or advisers of the people." (Bühler, *Manu*, p. 208).  
 **59.** 17-18. Food cannot be accepted from *caṇḍalas* (*antyavāsi*) robbers (*paripantht*), relations (*jñāti*), temples (*iśvara-bhūta*), and crematoria.  
@@ -10532,8 +9611,6 @@ object. Astrology and palmistry have always been looked down on as beneath a pio
 ** 63,** 9-18. The injuntion to ponder over the consequences of actions (*Karma*) is to induce thereby the spirit of dispassion (*vairāgya*), which is dealt with more fully in the next chapter.  
 ** 64,** 9-10. That *mukti* is open *only* to the ascetic is a doctrine that has been upheld by certain schools of thought. Yājñavalkya rebuts the idea here by declaring that liberation (*mokṣa*) is open to
 
-
-
 the householder who lives virtuously, is hospitable and regular in the performance of *s'rāddhas,* and is diligent in the pursuit of the knowledge of the Truth. It may be noted that it is *mokṣa* in the strict sense, and not attaining the world of the *Saguṇa* Brahman that is promised.  
 ** 64,** 12-15. The same idea is enforced by the citation from the*Mahābhārata*. How can *mukti* be denied to the *gṛhastha* when, inone who becomes an ascetic, all defects that are unspiritual are held as destroyed by mere *sanyāsa*?  
 **64,** 13. A syllable is missing in the first quarter :अनज्ञैः is suggested for अज्ञैः  
@@ -10544,8 +9621,6 @@ the householder who lives virtuously, is hospitable and regular in the performan
  एतानेके महायज्ञान्यज्ञशास्त्रविदो जनाः । अनीहमानाः सततमिन्द्रियेष्वेव जुह्वति ॥ वाच्येके जुह्वति प्राणं प्राणे वाचं च सर्वदा \। वाचि प्राणे च पश्यन्तो यज्ञनिर्घृत्तिमव्ययम् ॥ ज्ञानेनैवापरे विप्राः यजन्त्येतैर्मखैः सदा \। ज्ञानमूलां क्रियामेषां पश्यन्तो ज्ञानचक्षुषा ॥ ४. २२-२४ ॥  
  Such a householder is termed वेदसन्यासिक here. But, if the renunciation of activity ( एवं सन्तस्य कर्माणि, p. 65, 1. 19) is taken in the
 
-
-
 sense of the renunciation merely of the *fruits* of action (कर्मफल)–as explained later on pp. 152-154-the वेदसन्यासिकmust continue to perform his appointed *yājñika* duties ( यज्ञो दानं तपः कर्म न त्याज्यं कार्यमेव तत् । p. 154 *inf*.). The ten-pointed duty, दशलक्षणको धर्मः(p. 65,11. 10-12) is as obligatory for the वेदसन्यासिक as for every *āśramin*, i.e., for everyone.  
  *Vedasanyāsa* is not new *āśṛama* but is only a mode of liferecommended for the spiritually inclined and aged householder. The commentators on *Manusmṛti* make this clear: there are only four *āśramas*, no fifth. The significance of tacking a description of *Vedāśanyasa* at the end of a chapter dealing with ascetic duties (*yatidharma*), after an eulogy of the householder's life as the best, lies in the need to emphasize the *spirit* of renunciation, as contrasted with the *form* of *sanyāsa*, for securing liberation (*mukti*).
 
@@ -10554,13 +9629,9 @@ NOTE ON CH. VI & VII. (*Sanyāsa-vidhi* and *Yati-dharma*).
   The treatment of the different classes of *yatis* by Lakṣmidhara is in marked contrast to his enumeration of many types of anchorites on pp. 18-28. On p. 32 he cites a s'loka from the *Anuśāsanaparva* which names (but does not describe the distinguishing marks of) four classes of begging ascetics (*bhikṣu*). The four are: *kuticaka, bahūdaka, hamsa* and *parama-hamsa*. Mitramis'ra (Mokṣaprakās'a, pp. 86 ff.) gives, from the minor upaniṣads, dealing with *sanyāsa*, and from minor *smṛtis*, a full account of the features of each of these four classes. Mādhavācārya (*Parās'arasmṛti*, Vol. I, pt. ii, pp. 175-176) discriminates between two types of *parama-hamsa*, viz. *vidvat* (the *jivan-mukta*, who has realized *mukti* in life) and the *vividiṣu,* who aspires to *mukti* after death. A minor *upaniṣad* mentions two more classes, who are super-*paramahamsas*: the *turyātita* ('above the fourth class' i.e. *paramahamsa* class) and *avadhūta*. Both these are nude ascetics. The first of these does not grasp his food with his hands but takes it in his mouth like an animal; the second is beyond all rules and convention, takes food from one of any caste, and eats like a boa-constrictor, (*ajagara*), i.e. keeps his mouth open for any food that may fall within it, and starves if he does not get food. This life is *not* however identical with that described (on pp. 177, 11. 17-37) as *ajagara-vratam*, which is only symbolic of the even-mindedness which comes to the *yogin*.  
   The *kuṭicaka* is formally enrolled among *sanyāsins*, after the completion of the usual ceremonies, but he continues to live with his sons and relatives in the family house, or in a hut put up by them for
 
-
-
 his use, and he takes his *bhikṣā* from them. He does not move about from place to place. Or, he lives in the hermitage of some great sage (who leads a *gṛhastha* life). This mode of life is contrary to the rule that an ascetic should move about from place to place, except for four months in a year, and that he must not beg food of his relations (*jñāti*, p. 59). He does not lead also the solitary life enjoined for the ascetic by the authorities cited by Lakṣmidhara. The *hamsa* and *parama-hamsa* are described as giving up their *s'ikhā* (top-knot) and sacred thread (*yajñopavita*) and as bearing only an *ekadaṇḍa*. Lakṣmīdhara stresses the *tridaṇḍa*. The *paramahamsa* is nude, takes food from any caste and may throw off his staff altogether. Both are enjoined to conduct themselves, while really sane, as if mad. This advice is embodied in a *sūtra* of Vasiṣṭha, cited on p. 50 as a general rule for all ascetics (*anunmatta unmattaveṣaḥ*), as a preventive against being made much of by the public (*loke pūjāparihārārtham caitat*, p. 52). The normal type of ascetic is the *bahūdaka*, and it is to it that the rules extracted by Lakṣmidhara approximate. The*bahūdaka* is invested by him with features (supposed to be characteristic of other types) so far as they are not in conflict with the s'astraic rules :*e.g.*, living under trees, or caves or on river banks; *appearing*mad etc. The graduated starvation (*cāndrāyaṇa*) and consumption of the excreta of the cow (*go-s'akṛt*), which are described as features of the *hamsa* type of ascetic, are indicated by Lakṣmidhara as practices of the *vānaprastha* (pp. 24-25), and not of the *Sanyāsin*.  
   In the attempt to reflect in their appearance and modes of life the spirit of renunciation, many ascetics went to extremes. A Jaina ascetic, who went nude, acted on this principle, as did the *avadhūta* or some *paramahamsas*. The idea that the ascetic, who led the most exacting life, was above ordinary rules or even the *s'āstras*, was an exaggeration of the features of the *jivan-mukta*. Writers on Dharmas'āstra like Vis'varūpa and Medhātithi, whom Lakṣmidhara usuallyfollows, have said emphatically that the ascetic is *not* to do as he pleases (Yājñavalkya, III, 66 und Manu, VI, 32). That the defiance of rules by ascetics, on the score of their supreme knowledge, is old is evident from the criticism of this attitude by Āpastamba (*Dharmasūtra*, II, 9, 21, 13-17) and by the *Vedāntasūtra* (III, IV, 27-31).  
 ** 66**. The longing for life, which will lead to rebirth, should be overcome by making the mind dwell on the incidents of life which will induce disgust for it, and produce the spirit of dispassion (*Vairāgyam*). तत्र देहादिभ्यः वैराग्याय प्रपञ्चस्य दुःखमयत्वं प्रस्तूयते विष्णुपुराणे
-
-
 
 (मो. प्र. १६२) cf. Yogasūtra, I, 15—–दृष्टानुश्रविकविषयवितृष्णस्य वशीकरसंज्ञा वैराग्यम् ॥  
 ** 66,** 13 प्रतिश्यायः, पीनसः  
@@ -10591,8 +9662,6 @@ his use, and he takes his *bhikṣā* from them. He does not move about from pla
 ** 84,** 17, Cf. p. 94, 1. 9.  
 ** 86,** 5. Bad qualities are the result of bad actions in past lives.(From Praḥlāda's reply to Hiraṇyakàśipu).
 
-
-
 ** 86,** 9. For *tāpatraya* see *Sāṃkhya Kārikā*, 1.  
 ** 87,** 10 ff. From the soliloquy of the Sage Saubhari, who underwent rejuvenation and married the fifty danghters of King Māndhātā.  
 ** 88,** 7-8. Not found in printed editions of *Viṣṇupurāṇa*, or in*Bhāgavata*, IX, 6, 39-55, where the story of Saubhari is given.  
@@ -10613,8 +9682,6 @@ his use, and he takes his *bhikṣā* from them. He does not move about from pla
  **97,** 10, Medhätithi explains '*asevay*ā'as avoiding placeswhere enjoyments are obtainable, *i.c*. by dwelling in a forest.  
  **102-108.** The description of the origin of the world given hereis not the Sāṃkhya view. Sāṃkhya accepts only twenty-four categories besides the Self, and lands in dualism. Vedānta, on the other hand, recognizes besides these twenty-five principles, the Supreme Self or Paramātman as a twenty-sixth, who controls Prakṛti and Puruṣa. The dualism of Sāṃkhya is thus overcome. We have *Seśvara* or theistic Sāṃkhya. The Supreme Lord is described as entering of his own will (*svecchayā*) Prakṛti and Puruşa and agitating the immutable and mutable principles. The hypothesis of *Īśvara* as the stimulus (*kṣobhaka*) to evolution and involution gets over a defect of Sāṃkhya. "The theory of creation *ex* *nihilo* is unknown to
 
-
-
 Vedāntic cosmogony.” (*Phil. of Bhedabheda*, p. 319). The view unfolded here is the doctrine of *pariṇāma* (*pariṇāma-vāda*), “ the perpetual unfolding of what is unfolded,”which is opposed to the *vivarta-vāda* of *Advaita-vedānta*, which views creation as illusory, and even to the *Brahma-pariṇāma-vāda* of *Bhāskara* (*op. cit*.pp. 102-104). The conception of the Supreme Being as indywelling in all (*antaryāmin*) and of starting of His own will the cycle of evolution and involution of the cosmos, leans to the *Viśistādvaita* view. In fact, the long quotation from *Viṣṇupurāṇa*, which is held up as the true view (and so the author's), contains many indications of a trend to Viśiṣṭādavaita and of opposition to Advaita. Some of these may be specified: (1) the description of Prakṛti, on p. 102, as nitya; (2) the description of *kāla* (time) as beginningless and endless (*ananta*) on p. 103; (3) the identification of *Para-Brahman* with Viṣṇu on pages 106 and 108; and (4) the description of Brahman in the state of involution as *prādhānikam pumān* etc. on p. (103) i.e. Brahman as qualified by *Pradhāna*. In Viśiṣtādvaita, Prakṛti, Kāla and Suddhasatva are the three kinds of a-cit (*trividha-acetana*): cf. Vedānta Deśika's *Rahasya-traya-sāra*, ch. V. The view that Brahman is present in *Pradhāna*, both when it is contracted and when it is expanded (sa *saṃkoca-vikasābhyām pradhānatvepi samsthiti,p*. 103) enunciates two states, viz. *pralaya*, in which Brahman exists qualified by the subtle Prakṛti (*sūkṣma-cit-acit-viśiṣṭa-Brahma*) and evolution, in which Brahman exists in manifest Prakṛti. The process of evolution and involution described in the passage corresponds to the Viśiṣṭādvaita account of creation (See Srinivasachari, *Philosophy*of *Viśiṣṭādvaita*, pp. 261-262).  
   **106**, 15-18. Śrīdhara's readings are *kalpavikalpanā*, *karaṇim Brahma, and sa samiñam.*  
  **108**, 15. The Kumbakonam edition of *Sāntiparva*, cci, 1, reads“*Akṣarāt kham*” instead of “*akṣaro agre*.” It makes a difference, The form adopted by Lakṣmidhara is significant.  
@@ -10623,15 +9690,11 @@ Vedāntic cosmogony.” (*Phil. of Bhedabheda*, p. 319). The view unfolded here 
 **112**, ff. heading and head-lines. All the Mss. have adopted theprinted form, which is manifestly incorrect. It should read deha-*sarīri-viveka*.  
   **113**, 2-7. “To Rāmanuja, Brahman is sat or supreme reality that is the pervading essence of the universe and its indwelling self and is therefore *satya* or true. The universe is not Brahman enveloped
 
-
-
 by *māyā* or *avidyā*, but is *Brahmamaya*, pervaded by Brahman. . . It exists in Brahman and not as Brahman, and does not exhaust its content. Reality exists as Brahman in *cit* and *acit*. Acit is matter which is ever-changing and perishing and may be called *asatya*. *Cit* is the eternal self with a uniform nature or intelligence, which is realized as distinct from the perishing *prakṛti* or matter, and may be called satya or the true and the inner self of the existent *prakṛti*; Brahman may be called *Satyasya satyam*, the real of all reals or the true of the true or Vāsudeva.”(*Phil. of Viśiṣṭādvaita*, p. 46). In the passage from *Viṣṇupurāṇa* quoted here, Lakṣmidhara takes *visṇuśakti* as Brahman, *kṣetrajña* as *jiva*, which is the *apara* tatva (the other reality) and *avidyā*, which is the *ajñāna* or karma that causes bondage, to the self. The three are treated as real and distinct, and correspond to sat, *cit* and *acit,* the three ultimate reals of Visiṣṭādvaita, as set out in the passage quoted above. The leaning of Lakṣmidhara to *Viśistādvaita* in this may be noted. The quotation from *Viṣṇūpurāna* that is commented on here is used by Vedānta Deśika, the Viśiṣṭādvaita philosopher, in his *Rahasyatrayasāra. Avidyā* will, in this sense, be equated with *prakṛti.* Mitramiśra interprets Viṣnuśakti as *Iśvara, kṣetraśakti* as *jīva* and *avidyāśakti* as *māyā*.  
   **114**, 4-8. The passage is also used by Vedānta Deśika in *Rahasyatrayasāṛa*, ch. 22. *Nirguṇa* in line 4, is the negation, not ofsaguṇa, but of heyagūna, or evil in the divine nature. That this isthe sense is evident from the description, lower down in the passage— ‘*na lipyate karmaphalaih*.’ *Karmātmā* is *jīva* or *jivātmā.* *Apara*means “different ” i.e. from the Absolute. *Jivātmā* is subject to *saṃsāra*, and release from it (*mokṣa*). Note that the distinction between *jīva* and *paramātman* is emphasized here as well as the ultimate reality being *Nārāyaṇa*, as held by the school of Rāmānuja. *Advaita* regards the distinction between *jīva* and *Brahman* as illusory and unreal.  
  **115**, 16-17. Note the word *vetti* in relation to the inner self (*antarātmā*). It declares that he is the cognizer and experiencer ofthe sensory feeling. This view is non-Advaitic.  
  **116**, 10. Note the assertion that the self is real (*satya*), as are the elements. The declaration of the reality of the external world ranges the author against *Advaita*.  
   **118**, 14.Śarīrī here denotes the Supreme Self, to whom the universe, consisting of cit and *acit*, is a body, or *Śarīra*. The relation of the Absolute and the Universe thus conceived is a cardinal doctrine of *Visiṣṭādvaita* (*śarīri-śarīra-bhāva-saṃbandha*). See *Phil.* of *Visiṣṭādvaita*, pp. 241-249.
-
-
 
   **122**, 12. The idea that *jīva* is atomic in size (*aṇumāṭra*), which is set out here, is common to the schools of both Bhāskara and *Rāmānuja*. See Srinivasachari, *Bhedābheda*, p. 86 and Phil. of *Viśiṣṭādvaita*, p. 234.  
  **124**, 11-12. Compare *Yogasūtra*, II, 5, which describes *ajñāna*in similar terms :—अनित्याशुचिदुःखानात्मसु नित्यशुचिसुखात्मख्यातिरविधा॥  
@@ -10639,8 +9702,6 @@ by *māyā* or *avidyā*, but is *Brahmamaya*, pervaded by Brahman. . . It exist
   **131**, 2-10. The illustrative analogies that are used e.g., the actor transforming himself as different persons by painting himself differently, ether which is one but is different in different pots, the sun reflected as many suns in different vessels of water, all suggest that the one and only self, which is unconditioned, becomes manifold when conditioned by *upādhis*, and bring the view upheld here into line with that of Bh*ā*skara. According to him “the Absolute is both conditionedand unconditioned; it differentiates itself into the manifold of finite selves and things, and when the condition is removed, the finite becomes one with the infinite.”(*Bhedābheda*, p. 6). The omission to refer to *māyā* or *avidyā* in this context, by Lakṣmidhara precludes the possibility of giving an *Advaitic* turn to his view.  
   **133**, 12. *Yadyevam*, it should be noted, is interpreted (on p. 134) as yadi *atmaiva jīvabhāvam* bhajate.  
   **134**, 15-16. The two lines, and in fact the whole passage from the Brahma *purāṇa*, lean to the *Bhedābheda* view of Bhāskara. The Lord, the one Supreme Self (*eka eva Paramātmā*) is found differentiated as two; the enjoyer (the individual self) and the enjoyed (the universe). This is possible only when the Absolute is conditioned or limited. Cf. *Bhāskarabhāṣya*, II, iii, 45:—sa ca *bhinnābhinna-svarūpaḥ* Lakşmidhara's own interpretation (p. **138**.,2-3)—*puruṣhaḥ paramātmāmso anādirabhinno api san na kadācid-vyaktapūrvaḥ*) makes it even clearer. The word api, in the above comment, is significant. It implies that, though they are not different, they are yet different, owing to *upādhi*. That this difference is adventitious (*aupādhika*), while the non-difference is natural
-
-
 
 (*svābhāvika*), is indicated by the use of the expression *paramārthataḥ abhinno api*, i.e., “though in fact undivided.”  
  **143**, 11-12. The reference to Vāsudeva as the Supreme Being is noteworthy. See Phil. of *Visiṣṭādvaita*, p. 226.  
@@ -10654,8 +9715,6 @@ the need for both*Jñāna* and karma for *mukti.* One of these alone is inadequa
 ** 148**, 13-19. The comments lean to*Viśiṣṭādvaita* views.  
  **148**, 23. The Vedic reference is to *Taittiriya Upaniṣad*, III,ii, 1.  
 ** 149**, 3-6. The *Advaitic* view that *mukti* is solely due to*Jñāna*is repudiated here (*nirākṛtam*).
-
-
 
  **149**, 7. *Yajña* is one of the thousand names of *Viṣṇu in Viṣṇu- sahasra-nāma*. The citation from the Veda is from *Taittīrīya Samhita,* I, vii, 4.  
  **149**, 9-10. Action, except as an act of adoration of God, is upheldhere as leading to the bondage of rebirth. This is a Vaiṣṇava view.  
@@ -10675,8 +9734,6 @@ the need for both*Jñāna* and karma for *mukti.* One of these alone is inadequa
  **168**, 4-5. Compare with p. 170, ll. 1-2.  
 **168**, 13. Cf. *Yogasūtra*, II, 30-*Tatrāhimsāsatyāsteyabrahmacarya-parigrahā yamāh,*
 
-
-
 **168,** 15. Cf. *Yogasūtra*, II, 32: *Sauca-santoṣa-tapaḥ-svādh- yāyeśvara-praṇidhānāni niyamaḥ.*  
 **169**, 5. Cf. Yogasūtra, II, 49: *Tasmin sati śvāsa-praśvāsayor gati-vicchedaḥ prāṇāyāmaḥ.*  
 **170**, 8-9. Cf. Yogasūtra, II, 50—*Bāḥyābhantara-sthambha- vṛttir-deśakāla-samkhyābhiḥ paridṛṣṭo dirgha-sūkṣmaḥ.*  
@@ -10694,8 +9751,6 @@ the need for both*Jñāna* and karma for *mukti.* One of these alone is inadequa
  **189**, 5-6. The object of contemplation is the self.  
 **196**, 5. *Yogt-Yājilavalkya* is an error for *Mahābhārata*. The citation from the former begins with *Oṃkāra* on 1. 14. Viṣṇu, the
 
-
-
 Para-brahman, is conceived as *Oṃkārasvarūpin*: hence the eulogy of the mystic syllable follows.  
 ** 197**, 12. The long passage, which begins here, is headed *Viṣṇuh* in *Mokṣaprakasa* also, but it has not been traced either in *Viṣṇusmṛti* or in *Viṣṇupuṛāna*, from, both of which many citations are made in the book. Mitramiśra, however, ends the quotation, as from Viṣṇu, with the penultimate śloka on the page, and attributes what follows to *Śaunaka* (p. 376).  
  **198**, 21-24. These ślokas and those which follow on pp. 199. 200 are ascribed by *Mokṣaprakāśa to Yogi-Yājñavalky*a.  
@@ -10712,8 +9767,6 @@ Para-brahman, is conceived as *Oṃkārasvarūpin*: hence the eulogy of the myst
 ** 253**, 18 ff. An adept in Yoga can postpone the moment of his death to *uttarāyaṇa*, as was done by Bhiṣma. (*Mokṣaprakāśa*, p. 458.)  
 ** 255**, 2. The expression ‘*utkrāntih*’is noteworthy, as descriptive of Lakṣmidhara’s conception of the dissolution of the body of the *mukta* or *yogin* and the ascent of the self by the shining path (arcirādi-mārga), as conceived by Viśiṣṭādvaitins. The ascent by the path of light (*arcirādigatiḥ*) is criticized by Advaitins, but is upheld by Bhāskara (*Bhedābheda*, pp. 140-149), as well as by Rāmānuja.
 
-
-
 **MANUSCRIPTS OF THE MOKṢAKĀṆḌA**  
 .
 
@@ -10725,17 +9778,12 @@ Para-brahman, is conceived as *Oṃkārasvarūpin*: hence the eulogy of the myst
 
   Besides these three manuscripts, which are more or less complete, use has been made of a fragment now in the Government Collection in the custody of the Royal Asiatic Society of Bengal. It is a modern transcript from an undated, older
 
-
-
 manuscript, and the copy was made as recently as *Samvat* 1950 i.e. 1892 A. D. It is described by MM. Haraprasad Shastri in his *Descriptive Catalogue* *of the* *Smṛti Manuscripts in the Government Collection under the care of the Asiatic Society of Bengal*, (1925), p. 61. It comprises only eleven folia, numbered consecutively as 102 to 112. It begins at ch. 32 and goes to the end of the *kāṇḍa*. It was copied at Benares, and the earlier part was apparently unavailable to the scribe. The original of this manuscript cannot be traced.  
   The Rāj Library at Dharbanga has a solitary leaf of a manuscript of the *Mokṣakāṇḍa*. It takes us to the end of ch. 2.It is described in Dr. K. P. Jayaswal’s *Catalogue of the SmṛṭiMannscripts in Mithila* (1927). It is written in Maithili characters and apparently belongs to an old manuscript transcribed in the latter half of the seventeenth century.  
   The Library of the Śankarācārya at Puri once had a manuscript of the *Mokṣakānda*, that was apparently old and complete. Rajendralala Mitra has described it in his *Notices of Samskrit Manuscripts*, Vol. VIII, p. 297. I tried hard to secure it, but was told by those in authority, who sought for it on my behalf, that it had been lost.  
  Mitra Miśra, who follows closely on the steps, of Lakṣmidhara, and absorbs large slices of the latter's digest, has also written on *Mokṣa*, under the caption of *Mokṣaprakāśa*. It was, like the *Mokṣkāṇḍa*, the last section of the digest (*nibandha*) of which it formed a part. I secured a copy of the only known manuscript of it. *Vīramitrodaya* was composed at the beginning of the seventeenth century. It is therefore not more than a generation earlier than our oldest extant manuscript of the *Mokṣakāṇḍa*. While *Mokṣaprakāśa* has been helpful in clearing up occasional difficulties in the manuscripts used, the circumstance that only one manuscript of it exists, has limited its value in collation. I have undertaken to edit it for the Chowkhamba Sanskrit Series in which several sections of the *Vīramitrodaya* have already appeared.
 
-
-
 **SUPPLEMENTARY IDENTIFICATIONS OF CITATIONS**  
-
 
 *Mahābhārata* (Kumbakonam edition)
 
@@ -10775,8 +9823,6 @@ p. 118, ll. 1-6, Ib., 13 (b)-14.
    "  11. 15-18, Ib., 6-7.  
    " 11. 21-24, Śānti., **185**, 27;वनपर्व , **213**, 27.
 
-
-
 p\. 119, 11. 1-4, *Ib*. **200**, 11.  
    "  11. 11-20, Śānti., **247**, 1-4, 7.  
 p. 145, 11. 1-10, *Ib*., 8-12.  
@@ -10802,8 +9848,6 @@ p. 202, 11. 9-10, *Brhadāraṇyakopaniṣat*, 3, 8, 9.
 p. 143, 1. 8, *Vedāntasūtra*, 4, 4, 8.  
 p. 167, 11. 12-20, cf. *Yogasūtra*, II, 29.  
 p. 174, 11. 12-13, *Pātañjalasūtra*, IV, 1.
-
-
 
 **CORRECTIONS**
 
@@ -10841,8 +9885,6 @@ p. 27, 1. 3 : for कथं चन read कथंचन.
 p. 28, 1. 15: for वृद्र्यर्थं read वृद्ध्यर्थं.  
 p. 31, 1. 8 for काषायं read कषायं.  
 p. 36, 1. 17; *delete*वाafter त्रिदण्डी.
-
-
 
 p\. 37, 1. 4 : for दिशान्ति read दिशन्ति.  
 p. 38, footnote, last line, for '10. 8' read p. 957.  
@@ -10882,10 +9924,6 @@ p. 63, 11.20.22 to be corrected and rewritten in verse-form thus
  प्राणा धार्यास्तस्वजिज्ञासनार्थं तत्वं जिज्ञास्यं येन भूयान्न भूयः॥  
 p. 64, 1. 9 : for न्यायाजितधनस्त्रंतत्व read न्यायार्जितधनस्तत्व.
 
-
-
-
-
 p\. 64, 1. 13 : for अश्रद्धधानैरज्ञैः read अश्रद्धधानैर\[ल्प\]ज्ञैः  
 p. 64, 1, 14 : for अलसेरर्वर्णैरल्पज्ञै read अलसैरर्वणैस्त्वज्ञैः  
 p. 65, 1. 8 : for तथैबाread तथैवा.  
@@ -10923,8 +9961,6 @@ p. 115, 1. 16 : for श्रुतिश्च read श्रुतीश्च
 p. 120, f. n. 2 : read जीवानन्दमुद्रिते.  
 p. 121, footnote 6 : for ४८ read ३८.
 
-
-
 p\. 122, 1. 16 : for तीब्रread तीव्र.  
 p. 122, 1. 20 : for नेष्बवस्थितःread नेष्ववस्थितः  
 p. 123, 1. 2 : for सजीवोनाऽभ्य read सजीवो नाऽभ्य.  
@@ -10961,10 +9997,6 @@ p. 198, after line 20, provide the heading \[योगीयाज्ञवल�
 p. 200, 1. 14 : for र्मौकारो read र्मोकारो.  
 p. 202, 1. 18 : for प्राणमुद्गीत read प्राण\[स्त\]मुद्गीत.
 
-
-
-
-
 p\. 202, 1. 18 : for नियोजयती read नियोजयन्ती.  
 p 203, 1. 3 for विरजस read विरजस्क.  
 p. 206, 1. 16 : for बिभत्रि read विभर्ति,  
@@ -10990,811 +10022,7 @@ p. 266: under श्रुतिः insert between १४३ and २६२, १�
 p. 267 : under कठोपनिषत् add १३३.  
 p. 327, 1. 5: Read ‘Brahmaṇā ’ for ‘Brahm aṇā.’
 
-
-
 # Please dont Edit this page (Blank Page)
-
-
-
 
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^670]: "A. S. B. Ms. G. 10645 begins here."
-
-
-[^655]: "Omitted in text."
-
-
-[^507]: "६, ७, ३१."
-
-
-[^477]: "Passage between asterisks cited by Mitramiśra, मोक्षप्रकाश, पृ. ३१५."
-
-
-[^416]: "Lacuna from this point in सरस्वतीभवन Ms."
-
-
-[^378]: "Omitted by ना. and स."
-
-
-[^374]: "Missing in स."
-
-
-[^252]: "अवाप्तवानिति मिताक्षरायां—३, ११०, सरस्वतीभवन मातृकायां च."
-
-
-[^200]: "मित्रमिश्रः मोक्षप्रकाशे (पृ. ६०, अडयार मातृकायाम्
-
-
-[^40]: "व्रतादिमेदांश्च क्रमाद् व्रतदानतीर्थमोक्षपरिशेष पूर्वेषु पञ्चसु खण्डेषु, मोक्षवर्मानि मोक्षोपायाः: is Hemadri's gloss on the above."
-
-
-[^12]: "दशलक्षणानि धर्मस्य ये विप्राः समधीयते। अधीत्य चानुवर्तन्ते ते यान्ति परम गतिम्॥ (मनु, ६, ९३

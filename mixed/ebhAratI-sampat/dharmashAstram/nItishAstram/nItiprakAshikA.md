@@ -15,15 +15,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczNzk4MjYzNjc
 
 \[
 
-
-
 # Please dont Edit this page (Blank Page)
 
-
-
 [TABLE]
-
-
 
 PREFACE
 
@@ -41,13 +35,9 @@ GUSTAV OPPERT.
 
 ![](../books_images/U-IMG-1696328062Screenshot2023-10-03at10-10-21EditBookE-Bharatisampat.png)
 
-
-
 THE
 
 NITIPRAKASIKA
-
-
 
 **INTRODUCTORY REMARKS.**
 
@@ -56,8 +46,6 @@ The Nītiprakaśikā or "expounder of polity" is ascribed to Vaiśampāyana, the
  The fact that the same passages occur in different works by no means proves that the passages in one work have been borrowed from another, especially if we have reason to suppose that there existed a period, when, the text of early compositions being still unsettled, many *dicta* were regarded as public property, and were, as such, embodied in various texts.
 
  The principal part of the Nītiprakāśikā is that comprising the Dhanurvēda, and this, as far as I know, in a form more complete than any other work; the four chapters in the Agnipurāṇa (248-251) being very defective when compared in this respect with the Nītiprakāśikā.
-
-
 
 hundred years ago. The other copy is written in Grantha characters.
 
@@ -73,8 +61,6 @@ I, 11-18).
 
 [^2]: "Compare the description of the Kaliyuga in the Harivaṁśa, Chapters: and 187."
 
-
-
 *pāyana* replied that, knowing the wishes of the king, he had undertaken his journeyto satisfy them. A preceptor should only speak when his pupil asks him and gives him thus an opportunity of answering, for if the instructor should explain without being requested to do so, he would commit a sin. He then goes on saying (I, 20–28), that, as Brahma, Rudra,Subrahmanya, Indra, Manu, Brhaspati, Sukra, Bharadvāja, Gauraśiras, and Vyāsa had respectively written 100,000, 50,000, 12,000, 6,000, 3,000, 1,000, 700, 500, and 300 chapters on polity,[^3] he would not enlarge on the subject of polity.
 
 [^3]: "6See my book On the Weapons, Army Organisation, and Political Maxims of the ancient Hindus, p. 36 ; and Madras Journal of Literature for 1879, p. 202."
@@ -87,19 +73,13 @@ I, 11-18).
 
 [^6]: "प्रजारागात् , I, 31; compare Raghuvaṁs॑a, IV, 12— तथैव सोऽभूदन्वर्थो राजा प्रकृतिरञ्जनात्।"
 
-
-
  BrahmainstructsPrthu onhisrequest in theDhanur-veda.Brahma being apprised of his virtues, visited Prthu and granted him a boon, upon which the latter, highly pleased, replied "Teach me the Dhanurvēda, with its ‘members, 'minor limbs' and 'secrets'; adorned with its arms and missiles. I am blessed among men that I have been granted the sight of you, the depository of the Vēda." To the king— who was immersed in the ocean of delight, on which Brahma's voice floated as a boat bearing away the enchanted Prthu—replied thus the Creator of the Universe: "The desire of learning the Dhanurvēda is given to you by fate, and I have come to teach it to you. The sword was formerly created by me in order to suppress wicked people; if it is in the hands of men resembling you, it will punish the bad.Thou art the first to whom the weapons, beginning with the bow, are imparted, and all the arms and missiles are therefore given to you. Bhṛśāśva had two wives,[^7]
-
 
 [^7]: "Both forms Bhrśaśva and Kréaśva occur."
 
-
 Jaya and Suprabhā, the daughters of Dakṣa. Jayā obtained from me a boon, and brought forth all the arms and missiles; while the other,Suprabhā, became the mother of the powerful and unapproachable Saṁhāra weapons.[^8]
 
-
 [^8]: "See : p. 9 ; snd madras journal for 1879, p. 175."
-
 
 Having accepted from me the Dhanurvēda, protect all your subjects as if they were your sons. Knowing the nature of peace and war, being well accustomed to think and to discern, and familiar with the use of the six political principles[^9] II, 72, 100 (or, according to the Grantha edition, II, 100, 69). Compare Mahabharata, Santiparva, Rajadharma, LXIX, śl. 65-72.")
 
@@ -111,19 +91,13 @@ apply, according to your
 
 [^10]: " I.e., the king should be, according to Narada, eloquent, fearless, wise, of retentive memory, well versed in polity and gifted with originality. वक्ता प्रगल्भो मेधावी स्मृतिमान् नयवित् कविः!"
 
-
-
 strength or weakness, the seven State requisites,[^11]
-
 
 [^11]: "दशपञ्चचतुर्वर्गान् सप्तवर्गं च तत्वतः। अष्टवर्गं त्रिवर्गं च विद्यास्तिस्त्रश्च राघव॥  Ram. II, 72, 99. The seven requisites are: king, ministers, friends, treasure, territory, forts, and an army."
 
-
 and consider all the fourteen faults.[^12]
 
-
 [^12]: "15 These 14 faults are atheism, untruth, anger, carelessness, procrastina- tion, neglect of learned men, indolence, giving way to sensuality, thinking of nothing but wealth, consulting with ignorant persons, not beginning to carry out one's resolves, not keeping one's own counsel, non-observance of holidays and making war at the same time against all the enemies around.  नास्तिक्यमनृतं क्रोधं प्रमादं दीर्घसूत्रतां। अदर्शनं ज्ञानवतामालस्यं पञ्चवृत्तितां॥९६॥ एकचिंतनमर्थानामनर्थज्ञैश्च मन्त्रणं। निश्चितानामनारम्भं मन्त्रस्यापरिरक्षणं॥९७॥ मङ्गलाद्यप्रयोगं च प्रत्युत्थानं च सर्वतः। कच्चित्त्वं वर्जयस्येतान् राजदोषांश्चतुर्दश॥९८॥ Ram. II, 72, 96-98."
-
 
 Having examined yourself and your enemies, make peace with your enemies and devote yourself to the eight pursuits of peace;[^13], elephant- catching, working of jewel and gold mines, collection of taxes, and restoration of dilapidated baildings.")
 
@@ -131,15 +105,9 @@ Having examined yourself and your enemies, make peace with your enemies and devo
 
 being acquainted with the intentions of the 18 principal officers of the enemy and with those of 15 of your own with the help of 6 spies, 3 observing
 
-
-
-
-
 the enemy's and 3 his own officials,[^14] 100, 35, 67.")
 
 [^14]: "17 The 18 principal officers are the minister, house priest, crown prince,revenue officer, chamberlain, superintendent of the harem, head-gaoler, treasurer, master of the rolls, judge,  municipal commissioner, engineer, official trustee, president of the council, commander-in-chief, superintendent of fortifications, guardian of the frontier, and superintendent of forests. They are contained in the following ślokas :—  मन्त्री पुरोहितश्चैव युवराजश्व भूपतिः। पञ्चमो द्वारपालश्च षष्ठोऽन्तर्वशिकस्तथा॥ कारागाराधिकारी च द्रव्यसञ्चयकृत् तथा। कृत्याकृत्येषु चार्थानां नवमो विनियोजकः॥ प्रद्रष्टा नगयी दक्षकार्यनिर्माणकृत् तथा। धर्माध्यक्षस्सभाध्यक्षो दण्डपालस्त्रिपञ्चमः॥ षोडशो दुर्गपालश्च तथा राष्ट्रान्तपालकः। अटवीपालकांतानि तीर्थान्यष्टादशैव तु॥ चारान् विचारयेत् तीर्थेष्वात्मनश्च परस्य च। पाषण्डादीनविज्ञातानन्योऽन्यमितरेष्वपि॥     The Govindarajıya commentary of the Ramayaņa gives a similar enumer ation in prose. The three first, i.e., the minister, house-priest, crown prince excepted, the 15 chief officers are the same on both sides; so that one's own three first officials should not be under the control of spies. Compare Ram. II,72, 69, or ( Grantha edition
-
-
 
 having heard that the enemy is very weak,[^15]
 
@@ -151,21 +119,17 @@ attack him quickly with your threefoldpower,[^16].")
 
 represented by ministers, treasury and
 
-
-
 troops. Begin the march at the right time, being well acquainted with the 'circle of kings,[^17]
 
 with your own superiority, and the inferior condition of the enemy. Having thus strengthened your own realm, go against the enemy, try to conquer him, and having done so, grant him your protection. Let your army with its eight component parts[^18]
 
 [^17]: "See Kam. VIII, 18, 24; and Weapons, p. 41."
 
-and its four corps,[^19]
-
 [^18]: " रथनागहया योधाः पत्तयः कर्मकारकाः।      चारा दैशिकमुख्याश्च ध्वनिन्यष्टाङ्गिका मता॥ i.e., chariots, elephants, horses, warriors, foot-soldiers, artisans, spies, and persons who know foreign countries and languages form the army."
 
+and its four corps,[^19]
 
 [^19]: " मौलमैत्रभृत्याटविकाः, veterans, allies, servants, and foresters."
-
 
 being well led by your best generals, destroy your enemies."
 
@@ -211,8 +175,6 @@ II
 
 (discus); 11, *danta-*
 
-
-
 *kaṇṭaka* (tooth-thorn); and 12, *musuṇḍi* (octagon-headed club). These weapons—among which as the seventh is mentioned the *musket*—are placed in the first foot of the Dhanurvēda.[^20]For an explanation consult my monograph on the *Weapons*, pp. 11-16, and *Madras Journal*, pp. 177-182.
 
 [^20]: "See II, 17, 18, and the whole of Chapter IV; and Harivaṁśa, 227-235."
@@ -222,8 +184,6 @@ II
 [^21]: "See II, 19, 20, and Chapter V. Consult my Weapons, pp. 16-23, and Madras Journal, pp. 182–189."
 
  SataghmThe word *śataghm* does not afford us any tangible clue as to the nature of this formidable weapon. Indeed it seems to have been both a weapon of defence and of offence, a missile as well as a projectile weapon. It is compared with the club (*gadā*), which spreads destruction among the forces of the enemy either by knocking them down in hand-to-hand fight or by doing dreadful execution amongst them when hurled from afar. That the *śataghnī* was used as a missile in some way or other is apparent from many places where it occurs as such in the epics, but, on the other hand, it is equally certain that in other places it clearly denotes a projectile weapon which throws a destructive missile on the enemy. In each capacity, both as the cannon and as the shot, it deserves its name—*hundred-kille*r. The use of fire as the motive power is easily accounted for if it is once admitted—which I believe has been proved beyond doubt in my monograph on the weapons of the ancient Hindus—that the ancient Hindus were
-
-
 
 well acquainted with gunpowder and that they possessed firearms. Though ample evidence has been produced for proving the existence of guns and gunpowder in ancient India, still it would be of great importance if the existence of firearms could be traced to the earliest, or the Vedic period of Indian history. And this can be done. The words *sataghnī* and *surmi*, which are synonymous, occur in the black Yajurvēda, and the latter word in the Rgvēda. The earliest commentator of the Kṛṣṇayajurvēda, *Bhaṭṭabhāskara,* as well as the 400 years later *Vidyāraṇyasvāmī*—the priestly name of *Sāyaṇamadhava*—explain it as a blazing tube made of metal.
 
@@ -237,18 +197,12 @@ of the Kṛṣṇayajurvēda is as follows: "This is the sūrmī which has a hol
 
  *Vidyāraṇyasvāmī's* Scholia in his *Taittiriyavēdārthapra-kāśa* coincide with the above explanation, having most likely borrowed it of *Bhaṭṭabhāskara.* He says *karṇakāvatī*c means "having a hole and therefore surely blazing. "Vidyāraṇyasvāmi's interpretation of this passage in the Yajurvēda is the more important, as it is also applicable to the Rgvēda, where (VII, 1, 3) the word *sūrmi* occurs in the
 
-
-
-
-
 same meaning, but where the commentator is reported to have explained it merely by *flame (jvālayā),* which is no doubt a very insufficient interpretation, as the meaning of  
 *sūrmī* rather points to a hollow tube.  
  The ear-like hole (*karṇaka)* penetrates through the cylinder in this manner ![](../books_images/U-IMG-1696423337Screenshot2023-10-04124148.png) The hole where *a* is found is called the vent, *karṇa,* and the very same expression is used in the *Śukranīti* (p. 194, IV, 7, 196 ; see *Weapons*, p. 106). The *inside and outside blazing* mentioned by Bhaṭṭabhāskara refers to the firing the gun (at *a*), and the flame appearing outside the *muzzle* after the discharge (at *b*).  
  The weight of these Vedic verses and of their commentaries can hardly be overrated, as they clearly establish the existence of ancient firearms in the earliest time of Indian history. We need hardly dilate further on this subject, which, as far as textual evidence and interpretation goes, is settled. The *sataghnī* occurs also in the epic literature as a projectile weapon lighted by fire, e.g., in the Harivaṁ*ś*a (*śataghnīābhiśca dīptābhis*[^22]। कर्णकावती अन्तस्सुषिरवतीअन्तर्बहिश्च ज्वलन्तीत्यर्थः। सांहितकं दीर्घत्वं। तत्सदृशा ऋगित्यर्थः। एतयेत्यादि। असुराणां मध्ये शततर्हानेकप्रहारेण शतस्यहन्तॄन्।  तृंहन्ति  घ्नन्ति स्म। एतया  ऋंचा तृह् हिंसायां रौधादिकः। लट् स्म इति लट् (Psp. IIT, 2, 118) तस्मादेतया ऋंचा समिध–")).
 
 [^22]: "25 See Kṛṣṇayajurveda, I, 5, 7, 6: एषा वै सूर्मी कर्णका वत्येतया ह स्म वै देवा असुराणां शततर्हास्तृहन्ति यदेतया समिधमादधाति वज्जमेवैतच्छतघ्नीं यजमानो भ्रातृव्याय प्रहरति. The jñānayajña of Bhattabhaskara on this verse runs as follows:— एषावा इत्यादि। ज्वलन्ती लोहमयी स्थूणा सूर्मी। गौरादित्वाद्ङीष् (Pap. VI, 1, 41
-
-
 
 All these last-mentioned weapons are deposited in the second foot of the Dhaṅurvēda.  
  The third class is divided into Sõpasaṁhāra and Upasaṁhāra weapons: of the former there are 44, of the latter 55 specimens;^(26[^23]) all these rest in the third foot of the Dhanurvēda.
@@ -263,7 +217,6 @@ All these last-mentioned weapons are deposited in the second foot of the Dhaṅu
 
 ज्वलन्ती लोहमयी स्थूणा सूर्मी सा च कर्णकावती छिद्रवती अत एव ज्वलन्तीत्यर्थः तत्समानेयमृक्। एकेन प्रहारेणु शतसङ्ख्याकान् मारयन्तश्शूराश्शततर्हाः। असुराणां मध्ये तादृशान् एतयर्चा देवा हिंसन्ति। अनया समिदाघानेन शतघ्नी-मेनामृचं वज्रं धृत्वा वैरिणं हन्तुं प्रहरति.  
 
-
 The surmi being described in the Veda as a weapon with which the gods kill the Asuras, it is surprising that in the otherwise so excellent Sanskrit Wörterbuch von Böthlingk und Roth it should have been described in part VII,p. 1172 as ein röhrenartiges Gefäss als Leuchter dienend (für Oel oder Talg), i.e., a tubular vessel serving as a candlestick for oil or tallow, and karpakāvatī as mit Oehr und Handgriff versehen provided with an ear and a handle. Such an interpretation gives no sense in the context, especially if the surml as candlestick is likened in the same verse to the sataghni. In extenuation of this wrong explanation it may be assumed as certain that the commentaries of Bhaṭṭabhāskara and Vidyāraṇyasvāmi were not known to the above-mentioned lexicographers. Moreover it seems that both these learned Sanskritists were unacquainted with the form of the Indian lamp (for the Hindus do not possess our hollow candlestick), which has a solid pedestal and stand on which latter is a small vase-shaped surface which contains the oil (omitting altogether the strange allusion to tallow) and the wick; the handle, if any, being above the latter.- Compare also Harivarnsa 227, 20—
 
 मुद्गरैः कूटपाशश्च शूलोलूखलपर्वतैः।  
@@ -275,8 +228,6 @@ The surmi being described in the Veda as a weapon with which the gods kill the A
 
 ²⁶ See II, 22-28; Weapons, pp. 26-29, 30; and Madras Jowwnal, pp. 191-196; Harivarhia 22, 7.
 
-
-
 The fourth class possesses six weapons, but though these are only few, they are
 
 all-powerful and irresistible; they reside in the fourth foot of the Dhanurvēda.[^24]
@@ -285,9 +236,9 @@ The enumeration of the weapons is followed by the story of the sage Dadhīci, wh
 
 [^24]: "See II, 40; Weapons, p. 30; and Madras Journal, p. 196."
 
-The third chapter contains the origin of the sword, the whole chapter being devoted to
-
 [^25]: "See II, 43-60; Weapons, pp. 23, 24; and Madras Journal, pp. 189, 190."
+
+The third chapter contains the origin of the sword, the whole chapter being devoted to
 
 this subject.[^26]
 
@@ -296,8 +247,6 @@ The fourth and fifth chapters are devoted, as we have seen, to the description o
 [^26]: "See Chapter III, Weapons, pp. 24, 25, and Madras Journal, pp. 190, 191."
 
 With respect to the balls mentioned above some verses in the Atharvaṇavēda appear to support the existence of leaden balls. Lead is there mentioned as the metal with which the Rākṣasas are to be destroyed, and as weapons made of lead alone, or of which lead forms the principal ingredient, do hardly exist—as lead is by far too soft and does not recommend itself for being made use of in spikes, spears, &c.—the supposition that by lead *leaden balls* are meant seems very probable. The verses run as follows: Varuna blessed the lead; Agni is fond of the lead; Indra gave me the lead; it
-
-
 
 is, O friend, the destroyer of the Rākṣasas ........ If thou killest our cow; horse or servant, we shall pierce thee with lead, that thou mayest not kill weak creatures.[^27] Besprechung eines Amuletts von Blei. As far as I understand the poem, it does not refer to an amulet of lead, but to lead in general. Moreover lead is not one of the metals of which amulets are made, for besides birch bark (bhūrjapattra) only gold (svarṇa), silver (rajata), and copper (tāmra) are mentioned in the Mantraśāstra as being used for this purpose. The translation of tam tvā sīsēna vidhyāmō (śl. IV) into ")
 
@@ -310,8 +259,6 @@ The atrocity of the warfare is ascribed to the existence of such barbarous natio
 The sixth chapter treats about the army, and as this is a subject of greater interest and superior importance, I give its translation nearly in full.
 
 [^28]: "See V, 56, 57 ; my Weapons, p. 33; Madras Journal, p. 199. Rāmāyaṇa I, 41; IV, 40; Mahābhārata, I, 6685; III, 1991, &c; Harivaṁśa 229, 4756. In my monograph On the Weapons of the ancient Hindus I named on page 33 the above-mentioned tribes, and said incidentally in the note below "
-
-
 
 It contains especially valuable information about the composition of the army, the use made of its various branches as elephants, chariots, cavalry and infantry, the employment of artisans for military purposes, and an enumeration of the most necessary provisions. We find in it also discussed such subjects as the qualifications required for officers, a system of promotion according to seniority, pension-grants to faithful servants and their relicts, and other similar interesting topics.
 
@@ -349,8 +296,6 @@ War elephants.
 
 . He should render fit for fighting the elephants which are five years old, and those which are ten, thirty and fifty years old, as well as those in rut.
 
-
-
 Tame elephants.
 
 18\. A number of tamed elephants should be kept for the roads.
@@ -383,8 +328,6 @@ The king’s own retinue.
 
 26\. He should place in front for his own protection the officials who precede the king (together with their servants), the military escort (with their attendants), persons who walk immediately before the king, runners, staff-bearers and other followers,
 
-
-
 27\. as well as sword and armour bearers, eulogists and bards.
 
 28\. A king should place behind and near him well-bred, fleet and fiery riding and chariot horses, which are clad in mail.  
@@ -416,8 +359,6 @@ What places to avoid while marching
 
 37\. the hermitages of great sages, holy fords and sanctuaries, he should not tread on burning husk ashes, hair and skulls.
 
-
-
 38\. The king should for his welfare force an entrance for his army into a pleasant, not brackish, prosperous, healthy and well-watered country.
 
 39\. He should drive away the detachments of the enemy, and also single individuals who roam about, and surrounded by his body-guard he should visit all the parts of his army.
@@ -444,8 +385,6 @@ Implements of armament and tools.
 48\. ropes, spikes, spike-hammers, iron horse-shoes, planeirons, hoes, wood-chisels, and also knives,
 
 49\. wheels, cramp-irons, saws, leather water-bags, baskets, shovels, needles fit for sewing purposes,
-
-
 
 50\. bulls for carrying burdens, mules, far-going camels, and medicine for elephants, horses and men,
 
@@ -475,8 +414,6 @@ Use of elephants.
 59\. Experts declare that the work of elephants consists in elephants. marching in front, entering into forest forts, making new and clearing existing roads.
 
 60\. destroying fear-exciting appliances, breaking walls, carrying treasure, allaying the fear (of timid, and) conciliating quarrelsome elephants,
-
-
 
 61\. blockading in a fort the hostile infantry and cavalry, carrying loads and breaking trees.
 
@@ -514,8 +451,6 @@ Country suitable for chariots.
 
 71\. A country which has trees and excellent creepers, Country which can be crushed (for eating), is without mire, or caverns, whose rocks can easily be mounted and which is uneven, elephants. is one fit for elephants.
 
-
-
 Qualifications for commandership-in-chief
 
 72\. As commander-in-chief[^34].")should be elected a person of good family, one who has conquered his passions, who has been tried in the past, is clever, handsome, a favorite with the king,
@@ -546,8 +481,6 @@ Seniority.
 Punishment of transgressors.
 
 81\. Except those who are on duty the king should kill all those who walk about the camp at night, who give a wrong watch-word, transgressing the royal orders.
-
-
 
 Appointment of three generals.
 
@@ -587,10 +520,6 @@ Scale of rewards.
 
 90\. on the putting to death of a leader of an akṣauhini they say he should give half of the former sum, on the murder of a councillor or minister half of that,
 
-
-
-
-
 91\. to him who kills the commander of an anikini, camû, pṛtanā, vāhinī, gaṇa, gulma, sēnāmukha and patti,
 
 92\. having respectively deducted one-half, he should give the remaining halves; if a soldier receives this (reward) in excess of his pay, he will perform daring feats.
@@ -618,8 +547,6 @@ Troops to be fed while on march.
 Extra expenses of soldiers.
 
 102\. The soldiers should out of their income pay for their clothes and washermen's bills as well as for medicines when sick.
-
-
 
 Division of booty.
 
@@ -653,8 +580,6 @@ Double wages.
 
 [^37]: " Pp. 4-6 and Madras Journal, pp. 170-172."
 
-
-
 Banners.
 
 The 32nd sloka recommends the advisability of providing the different corps with banners, in order to distinguish between the two fighting armies.
@@ -674,8 +599,6 @@ The following double verses (44-50) give an account of thereward of the brave so
 
 [^39]: "See Weapons, pp. 73 and 74, and Madras Journal, pp. 239 and 240 Harivanisa, 225."
 
-
-
 the existence of fire-arms in India can hardly be exaggerated, but after the Vedic verses, which we have given before, and which contain the clearest evidence of the existence of fire-arms, no more need be added.[^40]
 
 Favorable time for warfare
@@ -688,9 +611,9 @@ is specially recommended; besides this Phalguna and Caitra are mentioned. Then f
 
 [^41]: "See Manu VII, 82."
 
-and give some general advice as to the leading of troops and combating the enemy.
-
 [^42]: "See Manu VII, 190 ff."
+
+and give some general advice as to the leading of troops and combating the enemy.
 
 General advice.
 
@@ -700,8 +623,6 @@ Eighth Chapter.
 
 The eighth chapter is entirely devoted to the general duties a king has to perform in the government and administration of his kingdom. It contains many lines which are also
 
-
-
 found in Manu, especially in the seventh book, which treats at large of the duties incumbent on a king.[^43] and Mahābhārata Śāntiparva LVII, 40 with 44 ; VII, 116 and 117 with 46 and 47 ; VII, 99 and Hitöpadesa II, p. 65, line 4 with 61; VII, 147 with 68; VII, 148 and 149 with 70 and 71; Rāmāyana Sundarakānda, 41, 1 with 72 ; M. VII, 163b-68 with 80 - 85 ; VII, 216a with 88a ; VII, 217b with 89a ; VII, 221a with 89b; VII, 225b with 91b, &c., &c.")
 
 [^43]: "Compare Manu VII, 56 and proceding, with Nitiprakāśika 3; M. VII, 7 –9 with N. VIII, 4–6 ; M. VII, 37b with N. 11‘b ; VII, 40b with 12b; VII, 44b with 13a ; VIII, 20 and 21 with 16 and 17 ; VII, 54 with 18 ; VII, 63 with 21 ; VII, 25 and Mahābhārata Śāntiparva XVI, 10 with 30 ; Hitöpadesa I, p. 59, lines 9, 10 (Calcutta edition
@@ -709,8 +630,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
   A few specimens of grammatical irregularities and of archaic forms are given below, in order to substantiate the statement that the Nītiprakāśikā is old in style and language[^44] Disregard to the rules of Sandhi : see p. 74, VIII, line 47, विज्ञाय आयत्यभ्युदयंः p. 78, VIII, 155 त्रिधा अन्यतरः : p. 66, VI, 16 द्विधा इतिः p. 30, I, 27 ख्यातौ अन्यः : p. 48, IV, 88 पत्तिवर्गो तेनः p. 56, VI, 13 वज्रो शर्कटकः p. 50, V4 तेजोपबृंहितं - P. 37,II, 47 विद्याविद्येऽस्त्रसंज्ञिकेः P. 47, IV, 58 गतीभगो;  b) Irregularities in the declension, formation of nouns, &c.: sec p. 32, I, 72 सौवर्णाम् ; P. एकविंशत्सहस्राणि; (c) Irregularities in the conjugation of verbs: ¹Parasmaipada used instead of Ātmanepada : p. 76, VIII, 104 अपेक्षॆत् ; P. 44, III, 80 लभन्ति; P. 64, VI, 208 लभेतू; 2Ātmanepada used instead of Parasmaipada ; p. 39, II, 103 व्रजे : P. 76, VIII, 94 आचक्षेत P. 42, III, 31 उत्पतमाने; (d) p. 32, I, 81 मज्जयानं; p. 46, IV, 22 and 23 योज्यः p. 45, IV, 21 नाम्य ;  (e) Metrical irregularities II, 62, (p. 37 ) ; V, 55, (p. 52 ) and VIII, 79 (p. 75) contain 17 syllables.").
 
 [^44]: " (a
-
-
 
 श्रीः
 
@@ -744,8 +663,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
   15 उपविष्टे मुनौ तस्मिन् भद्रपीठे नृपोत्तमः।  
     परिवृत्यासनाभ्याशे कृतांजलिरूपाविशत्॥८॥
-
-
 
 **कथान्तरमथासाद्य जनमेजयभूपतिः।  
 प्रणम्य तमृषिं भक्त्या कृतांजलिरभाषत॥९॥**
@@ -785,8 +702,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 **इङ्गितं ते मया ज्ञातं सूक्ष्मनीतिप्रबोधने।  
 40 लब्धानुयोगः प्रब्रूयाच्छास्त्रं नो चेदधी भवेत्॥२०॥**
 
-
-
 ब्रह्मा महेश्वरस्स्कन्दश्चेन्द्रः प्राचेतसो मनुः।  
 बृहस्पतिश्च शुक्रश्च भारद्वाजो महातपाः॥(२१)॥  
 वेदव्यासश्च भगवान् तथा गौरशिरा मुनिः।  
@@ -811,8 +726,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 अकृष्टपच्या पृथिवी चासीद्वैन्यस्य कामधुक्॥३१॥  
 आसन् हिरण्मया दर्भास्सुरवस्पर्शा मनोहराः।  
 तेषां चीरैस्सुसंवीताः प्रजास्तेष्वेव शेरते॥३२॥
-
-
 
 65 प्रविभागो न राष्ट्राणां पुराणां चाभवत् तदा।  
 यत्र यत्र प्रजा आसंस्तत्र दोग्ध्री मही सुखं॥३३॥
@@ -850,8 +763,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 धनुराद्यायुधव्यक्तौ त्वमेवादिस्स्मृतो मया।  
 तस्माच्छस्त्राणि चास्त्राणि ददानि तव पुत्रक॥४४॥
 
-
-
 भृशाश्वो मानसः पुत्रो द्वे जाये तस्य संमते।  
 90 जया च सुप्रभा चैव दक्षकन्ये महामती॥४५॥
 
@@ -888,16 +799,12 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 दृढमष्टांगसंयुक्ता चतुर्विधबला चमूः।  
 बलमुख्यैस्सुनीता ते द्विषतां प्रतिवर्धनी॥५६॥
 
-
-
 इत्येवमनुशास्यैनं ब्रह्मा लोकगुरुः पुनः।  
 धनुर्वेदं ग्राहयितुं वक्तुमेवोपचक्रमे॥५७॥
 
 ————
 
 इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां संगतिप्रदर्शनपूर्वकराजधर्मोपदेशो नाम प्रथमोऽध्यायः
-
-
 
 द्वितीयोऽध्यायः
 
@@ -932,8 +839,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 20 धनुर्वेदस्य विवृतिमथाख्यास्ये निबोध मे॥१०॥
 
 मुक्तं चैव हामुक्तं च मुक्तामुक्तमतः परं।
-
-
 
 मंत्रमुक्तं च चत्वारि धनुर्वेदपदानि वै॥११॥
 
@@ -974,8 +879,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 45 शिखरी धर्मपाशं च तथा वरुणपाशकं।
 
-
-
 पैनाकास्त्रं च वायव्यं शुष्कार्द्रे शिखरास्त्रकं॥(२३)॥
 
 क्रौञ्चास्त्रं हयशीर्षं च विद्याविद्येऽस्त्रसंज्ञिके।  
@@ -1012,8 +915,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 वरुणस्सर्वदमनस्संधानस्सर्वनाभकः॥(३४)॥
 
 कंकालास्त्रं मौसलास्त्रं कापालास्त्रं च कंकणं।
-
-
 
 70 पैशाचास्त्रं चेति पंचाप्यसुरास्त्राणि भूपते॥ (३५)॥
 
@@ -1052,8 +953,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 अथाददां धनुर्वेदं देवेभ्यस्सरहस्यकं।
 
-
-
 चतुष्पादयुतं सांगं तेषामनुजिघृक्षया॥४७॥
 
 95 अथ लब्धवरा मत्तो योद्धुं दैतेयसत्तमान्।  
@@ -1091,8 +990,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 शस्त्राणि लोके द्वात्रिंशत् प्रचरिष्यन्ति पार्थिव।
 
-
-
 कशेरुकोद्गतं वज्रमिन्द्रहस्तगतं विना॥५९॥
 
 धनुर्वेदस्य माहात्म्यान्निर्जिता दानवास्सुरैः।  
@@ -1117,8 +1014,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 विवेककथनं नाम द्वितीयोऽध्यायः।
 
 —————
-
-
 
 तृतीयोऽध्यायः
 
@@ -1153,8 +1048,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 20 धर्मसेतुमतिक्रम्य देवैर्योद्धुमुपाक्रमन्॥१०॥
 
 तदा हिमवतश्शृंगे नानाधातुविराजिते।
-
-
 
 शतयोजनविस्तारे पुष्पितदुमकानने॥(११)॥
 
@@ -1193,8 +1086,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 45 चचार विविधान् मार्गान् महाबलपराक्रमः।
 
-
-
 छिन्दन् भिन्दन् रुजन् कृन्तन् दारयन् पोथयन्नरीन्॥(२३ )॥
 
 द्वात्रिंशत् करणानि स्युर्यानि खड्गप्रयोधने।  
@@ -1232,8 +1123,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 कृत्तिकास्तस्य नक्षत्रमसेरग्निश्च देवता।
 
-
-
 70 रोहिणी गोत्रमप्यस्य रुद्रस्तस्याधिदैवतं॥३५॥
 
 असेरष्टौ हि नामानि रहस्यानि निबोध मे।  
@@ -1254,8 +1143,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 —————
 
 इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां खड्गोत्पत्तिकथनं नाम तृतीयोऽध्यायः।
-
-
 
 चतुर्थोऽध्यायः
 
@@ -1290,8 +1177,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 20 तद्ध्यात्वा मनसा सम्यग्गुरुं नत्वा विधानतः॥(१०)॥
 
 धनुर्वेदविधानेन नाम्य वामकरेण तत्।
-
-
 
 दक्षिणेन ज्यया योज्य पृष्ठे मध्ये प्रगृह्य तत्॥(११)॥
 
@@ -1332,8 +1217,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 45बद्धगोधांगुलित्राणः पृष्ठबद्धेषुधिस्सदा।
 
-
-
 योग्यां कुर्यादन्यथा स्यादपराध्दपृषत्ककः॥२३॥
 
 प्रत्यालीढकमालीढं तथा समपदं स्मृतं।  
@@ -1370,8 +1253,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 भुजद्वयप्रेरणीया युद्धे जयविधायिनी॥३४॥
 
 तोलनं भ्रामणं चैव वल्गनं नामनं तथा।
-
-
 
 70 मोचनं भेदनं चेति षण्मार्गाश्शक्तिसंश्रिताः॥३५॥
 
@@ -1411,8 +1292,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 चक्रं तु कुण्डलाकारमन्ते स्वश्रसमन्वितं।
 
-
-
 नीलीसलिलवर्णं तत् प्रादेशद्वयमण्डलं॥४७॥
 
 95 ग्रंथनं भ्रामणं चैव क्षेपणं परिकर्तनं।  
@@ -1433,8 +1312,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 ——————
 
 इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां मुक्तायुधनिरूपणं नाम चतुर्थोऽध्यायः।
-
-
 
 पञ्चमोऽध्यायः
 
@@ -1471,8 +1348,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 20 पातनं छेदनं चेति गुणौ परशुमाश्रितो॥१०॥**
 
 **गोशीर्षं गोशिरःप्रख्यं प्रसारितपदद्वयं।**
-
-
 
 अधस्ताद्दारुयन्त्राढ्यमूर्ध्वायः फलकांचितं॥(११)॥
 
@@ -1511,8 +1386,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 45 उढ्ढीनमवडीनं च निडीनं भूमिलीनकं।
 
-
-
 तिर्यग्लीनं निखातं च षण्मार्गाः कुन्तमाश्रिताः॥२३॥
 
 स्थूणस्तु रक्तदेहस्स्यात् समीपदृढपर्वकः।  
@@ -1549,8 +1422,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 उपन्यस्तमपन्यस्तं गदामार्गाश्च विंशतिः॥३४॥
 
 मुद्गरस्सूक्ष्मपादस्स्याद्धीनशीर्षस्त्रिहस्तवान्।
-
-
 
 **मधुवर्णः पृथुस्कंधश्चाष्टभारगुरुश्च सः॥(३५)॥**
 
@@ -1589,8 +1460,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 **आघातं च प्रतीघानं विघातं परिमोचनं।**
 
-
-
 अभिद्रवणमित्येते मयूखीं पञ्च संश्रिताः॥४७॥
 
 95 शतघ्नी कंटकयुता कालायसमयी दृढा।  
@@ -1628,15 +1497,11 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 इत्येतत् कथितं वत्स मया लोकहितैषिणे।
 
-
-
 **तुभ्यं शुश्रूषवे धर्मान् किं भूयः कथयाम्यहं॥५९॥**
 
 **——————**
 
 **इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां अमुक्तायुधनिरूपणं नाम पञ्चमोऽध्यायः।**
-
-
 
 षष्ठोऽध्यायः
 
@@ -1671,8 +1536,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 20 व्यूहास्सहस्त्रशो राजन् इति ज्ञेया मनीषिभिः॥१०॥**
 
 **उरः कक्षौ च पक्षौ च मध्यं पृष्ठः प्रतिग्रहः।**
-
-
 
 कोटी च व्यूहशास्त्रज्ञैस्सप्तांगो व्यूह उच्यते॥११॥
 
@@ -1712,8 +1575,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 45 प्रतिग्रहे वासयेच्च योधासंमर्दहेतवे।
 
-
-
 तस्य रक्षाञ्च विधिवच्छूरैः कुर्यान्नराधिपः॥२३॥
 
 ऊर्जस्वलांश्च जंघालानाभ्यमित्रीयतस्तथा।  
@@ -1750,8 +1611,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 सूत्रिणो रोपकांश्चैव सेतुबन्धकरानपि॥(३४)॥
 
 तथा भूमिप्रदेशज्ञान् व्याधान् वनविशारदान्।
-
-
 
 70 विषमस्थं रिपुबलं ये विद्युस्तान् बहुश्रुतान्॥(३५)॥
 
@@ -1790,8 +1649,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 ज्याधनुर्वर्मशस्त्राणि चापानि यवसं बहु।
 
-
-
 महायन्त्राणि नाराचांस्तोमरांश्च परश्वधान्॥(४७)॥
 
 रज्जूञ्शंकूञ्शंकुरोपान् लोहपादविबन्धनान्।  
@@ -1828,8 +1685,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 चतुरङ्गबलं सर्वं तेषु कुर्यात् सुनिष्ठितं॥५८॥
 
 प्रयाणपूर्वयायित्वं वनदुर्गप्रवेशनं।
-
-
 
 अकृतानां च मार्गाणां कृतानां च प्रवर्तनं॥(५९)॥
 
@@ -1868,8 +1723,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 मर्दनीयतरुश्रेष्ठव्रततिः पंकवर्जिना।
 
-
-
 निर्दरा गम्यशैला च विषमा गजमेदिनी॥७१॥
 
 सर्वसेनाधिपः कार्यः कुलपुत्रो जितेन्द्रियः।  
@@ -1906,8 +1759,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 उत्तमाधममध्यस्था ज्येष्ठाज्ञावशवर्तिनः॥८२॥
 
 165 दिवसे दिवसे सेनां परिवर्त्य प्रचोदयेत्।
-
-
 
 एकत्र सुस्थितं सैन्यं शंकां स्वस्यापि साधयेत्॥८३॥
 
@@ -1946,8 +1797,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 पलायितं सायुधं तु धृत्वा स्वभटदायिने।
 
-
-
 190 वर्वाणां पंच वै दद्यात् तस्मै सत्कृत्य भूमिपः॥९५॥
 
 पलायितं स्वभृतिकं विशस्त्रं देहलोभिनं।  
@@ -1985,8 +1834,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 मृतानां जीवतां चापि पूर्व सेवापरात्मनां।
 
-
-
 षष्ठोऽध्यायः
 
 **तदीयानां तु तेषां वा पूर्वभर्माधजीवनं॥१०७॥**
@@ -2008,8 +1855,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 **—————**
 
 **इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां सेनानयकथनं नाम षष्ठोऽध्यायः।**
-
-
 
 सप्तमोऽध्यायः
 
@@ -2044,8 +1889,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 20 अनीकिनीं दशगुणामाहुरक्षौहिणी बुधाः॥१०॥**
 
 **सेनामुरखे तु गुणितास्त्रयश्चैव रथा गजाः।**
-
-
 
 त्रिंशत् विलक्षपदगास्त्रिसहस्त्रं हि वाजिनः॥११॥
 
@@ -2084,8 +1927,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 45 अनीकिन्यां द्वे सहस्त्रे सप्ताशीत्यधिकं शतं।
 
-
-
 रथानामथ नागानां गणनां वच्मि तेऽनघ॥(२३)॥
 
 एकविंशत्सहस्त्राणि तथा चाष्टशतं नृप।  
@@ -2122,8 +1963,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 महारथाय साहस्त्रद्वयं राज्ञाधिमासिकं॥३४॥
 
 वेतनं रथिकायाथ साहस्त्रं गजयोधिने।
-
-
 
 70 दद्यादर्धरथायाथ वैतनं शत्रपञ्चकं॥३५॥
 
@@ -2162,8 +2001,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 न प्रसुप्तं न प्रणतं न नग्नं न निरायुधं।
 
-
-
 **न युध्यमानं पश्यन्तं न परेण समागतं॥(४७)॥**
 
 **95 आयुधव्यसनं प्राप्तं नार्तं नातिपरिक्षतं।  
@@ -2201,8 +2038,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 **तादृशानेव स्वीयांस्तु शिक्षयेदविचारयन्।**
 
-
-
 **गोपयेत् स्वीयमार्गांश्च परमर्मपरो नृपः॥५९॥**
 
 **युद्धकाले ह्यनुप्राप्ते स्वीयाज्ञापरिपंथिनां।  
@@ -2223,8 +2058,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 **———————**
 
 **इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां सैन्ययोगकथनं नाम सप्तमोऽध्यायः।**
-
-
 
 **अष्टमोऽध्यायः**
 
@@ -2259,8 +2092,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 20 शुचिर्भूत्वा तु विधिवन्मङ्गलालम्बनं चरेत्॥१०॥
 
 नित्यकर्म समाप्याथ नित्यदानं विधाय च।
-
-
 
 त्रैविध्यवृद्धान् नत्वा तु तिष्ठेदेषां च शासने॥११॥
 
@@ -2298,8 +2129,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 व्यवहारान् नृपः पश्येद्विद्वद्भिर्बाह्मणैस्सह॥२२॥
 
 45 सेनाकर्म समालोक्य भृतिं तेभ्यो विधाय च।
-
-
 
 दीनान्धकृपणानां च वृत्तिं सम्यग्विचार्य च॥(२३)॥
 
@@ -2339,8 +2168,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 स्वाधीनाधिकृतानां तु वेतनार्धं प्रगृह्णतां।
 
-
-
 70 स्वयूधभेदकर्तॄणामभिचाररतात्मनां॥(३५)॥
 
 अपलापप्रसक्तानां स्ववाक्ये राजसन्निधौ।  
@@ -2378,8 +2205,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 ग्रामीयान् ग्रामदोषांश्च ग्रामिकः परिपालयेत्।
 
-
-
 **तानाचक्षेत दशिने दशको विंशतीश्वरे॥(४७)॥**
 
 **95 विंशतीशश्च तत्सर्वं वृत्तं जानपदे जने।  
@@ -2416,8 +2241,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 नीवृद्यात्रां तथा भूपो लोकानुग्रहकृत् स्वयं॥५८॥**
 
 **बंधयेच्च तटाकानि सरांसि स्वगृहाणि च।**
-
-
 
 श्रेणींवृक्षांस्तथारामान् गोपयेच्च सुमार्गकृत्॥५९॥
 
@@ -2467,8 +2290,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 जडान्धुमूकबधिरान् काणाशौण्डाधमानपि।
 
-
-
 स्त्रीम्लेछव्याधितव्यङ्गान् मन्त्रकाले विवर्जयेत्॥७१॥
 
 उपायांश्चतुरो युंज्यात् षड्गुणानुदयांश्च त्रीन्।  
@@ -2506,8 +2327,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 क्षीणस्य चैव क्रमशो दैवात् पूर्वकृतेन वा।  
 165 मित्रस्य चानुरोधेन द्विविधं कृतमानसं॥८२॥
 
-
-
 बलस्य स्वामिनश्चैव स्थितिकार्यस्य सिद्धये।  
 द्विविधं कीर्त्यते द्वैधं तद्गुणागुणवेदिभिः।  
 यदावगतं न्यूनत्वमाधिक्यं ध्रुवमात्मनः॥८४॥
@@ -2544,8 +2363,6 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 पारीक्षित त्वमप्येवं कृत्वा सौख्यं भविष्यसि।
 
-
-
 190 ख्याति॑ च लोके संस्थाप्य परां गतिमवाप्स्यसि॥९५॥
 
 यावत् कीर्तिर्मनुष्यस्य लोकेषु विचरिष्यति।  
@@ -2571,51 +2388,5 @@ found in Manu, especially in the seventh book, which treats at large of the duti
 
 नीतिप्रकाशिका समाप्ता
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

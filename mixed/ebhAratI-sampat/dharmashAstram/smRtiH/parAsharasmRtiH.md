@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA4NzY4Nzg1MTg
 
 \[
 
-
-
 **पराशर स्मृतिः**  
 
 प्रथमोऽध्यायः  
@@ -41,8 +39,6 @@ Now to begin. — On the top of the snowy hill, in the hermitage of the Devadaru
 प्रत्युवाच महातेजाः श्रुतिस्मृतिविशारदः ३**
 
 3\. Hearing the above saying of the Rishis, (he) the adept 4n the Veda and the Smriti, and exceedingly bright, like a a kindled fire or the sun, who was attended by his pupils, said in reply,
-
-
 
 **न चाहं सर्वतत्त्वज्ञः कथं धर्मं वदाम्यहम्**  
 
@@ -75,8 +71,6 @@ Now to begin. — On the top of the snowy hill, in the hermitage of the Devadaru
 **कृताञ्जलिपुटो भूत्वा व्यासस्त्वृषिभिःसह  
 प्रदक्षिणाभिवादैश्च स्तुतिभिः समपूजयत् ९**
 
-
-
 9\. Paid respects to Parasara, the son of Shakti, seated at his ease in the midst of an assemblage of Rishis, and surrounded by a host of Munis of the highest rank.
 
 **ततः संतुष्टहृदयः पराशरमहामुनिः  
@@ -86,8 +80,6 @@ Now to begin. — On the top of the snowy hill, in the hermitage of the Devadaru
 
 **कुशलं सम्यगित्युक्त्वा व्यासः पृच्छत्यनन्तरम्  
 यदि जानासि भक्तिं मे स्नेहाद्वा भक्तवत्सल ११**
-
-
 
 11\. Vyasa having said " (All are) well," thus interrogated him : " If thou art aware of my reverence (for thee), or from affection, O thou affectionate to persons revering thee !
 
@@ -110,8 +102,6 @@ Now to begin. — On the top of the snowy hill, in the hermitage of the Devadaru
 श्रुता ह्येते भवत्प्रोक्ताः श्रुत्यर्था मे न विस्मृताः १५**
 
 15\. and Katyayana andPrachetas and Apastamba;"All these (laws) have been heard (by me as they were) expounded by thee; they embody the sense of the veda; (they) have not been forgotten by me.
-
-
 
 **अस्मिन्मन्वन्तरे धर्माः कृतत्रेतादिके युगे  
 सर्वे धर्माः कृते जाताः सर्वे नष्टाः कलौ युगे १६**
@@ -140,8 +130,6 @@ Now to begin. — On the top of the snowy hill, in the hermitage of the Devadaru
 
 **श्रुतिस्मृतिसदाचारनिर्णेतारश्च सर्वदा २०**
 
-
-
 20\. "In each Kalpa (the deities) Brahma and "Vishnu and Shiva, and the expounders of the Veda, the Smrithis invariably perish, and are born again.
 
 **न कश्चिद्वेदकर्ता च वेदं स्मृत्वा चतुर्मुखः**
@@ -167,8 +155,6 @@ Now to begin. — On the top of the snowy hill, in the hermitage of the Devadaru
 **द्वापरे शाङ्खलिखिताः कलौ पाराशराः स्मृताः २४**
 
 24\. "For the Krita are suited the laws of Manu; for the Treta, those by Gautama (are) prescribed; for the Dvapara those by Shank and Likhita; for the Kali, those by Parasara are prescribed.
-
-
 
 **त्यजेद्देशं कृतयुगे त्रेतायां ग्राममुत्सृजेत्**  
 
@@ -198,12 +184,6 @@ Now to begin. — On the top of the snowy hill, in the hermitage of the Devadaru
 
 **अधमं या च मानायसेवादानं तु निष्फलम् २९**
 
-
-
-
-
-
-
 29\. "Excellent is the gift, made on coming to the donee's side;the gift after invitation is of the middling kind; gift to a suitor is of a low character; but gift for service (rendered) is fruitless.
 
 **जितो धर्मो ह्यधर्मेणसत्यं चैवानृतेन च**
@@ -227,12 +207,6 @@ Now to begin. — On the top of the snowy hill, in the hermitage of the Devadaru
 **तेषां निन्दा न कर्तव्या युगरूपा हि ते द्विजाः ३३**
 
 33."Special are the rules of conduct for each cyclical age; and the regenerate castes are guided by the rules that govern the age; no censure (therefore ) can attach to them; for the regenerates conform to the spirit of the age."
-
-
-
-
-
-
 
 **अहमद्यैवतत्सर्वमनस्मृत्यब्रवीमि वः**
 
@@ -264,14 +238,6 @@ Now to begin. — On the top of the snowy hill, in the hermitage of the Devadaru
 
 38\. A Brahman, who is given to observe the six duties of his caste, who worships the deities and hospitably receives the guests whose meals consist of what remains after
 
-
-
-
-
-
-
-
-
 (daily) offerings made (on the fire), has never to suffer from misery or want.
 
 **संध्या स्नानं जपो होमो देवतातिथिपूजनम्**
@@ -298,12 +264,6 @@ Now to begin. — On the top of the snowy hill, in the hermitage of the Devadaru
 
 42\. Never should one belonging to the selfsame village  
 be accepted as an unexpected guest. His name atithi (lit., having no date fixed) arises from the fact of his having arrived unexpectedly.
-
-
-
-
-
-
 
 **अतिथिं तत्रसम्प्राप्तं पूजयेत्स्वागतादिना**
 
@@ -335,12 +295,6 @@ be accepted as an unexpected guest. His name atithi (lit., having no date fixed)
 
 47\. The seed should be sown on excellent soil; wealth should be bestowed on a worthy recipient; for what is sown on excellent soil, –what is bestowed on a worthy recipient is never lost,
 
-
-
-
-
-
-
 **न पृच्छेद्गोत्रचरणे न स्वध्यायं श्रुतं तथा**
 
 **हृदये कल्पयेद्देवं सर्वदेवमयो हि सः ४८**
@@ -370,12 +324,6 @@ be accepted as an unexpected guest. His name atithi (lit., having no date fixed)
 \*Lit. with pleasant enquiries, I. e., whether any more food would be welcome to the guest, and so forth.
 
 \[The ' lunar fast, called the \* Chandrayana, consists in the reduction of a mouthful every succeeding day, till on the day of the full moon the meal is reduced to a single mouthful.\]
-
-
-
-
-
-
 
 **दद्याच्च भिक्षा त्रितयं परिव्राड्ब्रह्मचारिणाम्**
 
@@ -409,12 +357,6 @@ be accepted as an unexpected guest. His name atithi (lit., having no date fixed)
 
 56\. The regenerate men who eat their meals, not having performed the rite for the Visvadevam, are born as crows; their food by no means should be partaken.
 
-
-
-
-
-
-
 **वैश्वदेवविहीना ये आतिथ्येन बहिष्कृताः**
 
 **सर्वे ते नरकं यान्ति काकयोनिं व्रजन्ति च ५७**
@@ -443,12 +385,6 @@ be accepted as an unexpected guest. His name atithi (lit., having no date fixed)
 
 **निर्जित्यपरसैन्यानि क्षितिं धर्मेणपालयेत् ६१ **
 
-
-
-
-
-
-
 61\. A king of the Kshatriya caste should arm himself, and have his troops; should protect his people; should overcome the forces of a hostile king; and rule the State in the way prescribed by law.
 
 **पुष्पं पुष्पं विचिनुयान्मूलच्छेदं न कारयेत्**
@@ -475,12 +411,6 @@ be accepted as an unexpected guest. His name atithi (lit., having no date fixed)
 
 65\. Salt, honey and oil, curded milk, whey, and milk all these are not polluted by the touch of persons of the Shoodra caste. Shoodra may sell these to all the castes.
 
-
-
-
-
-
-
 **विक्रीणन्मध्यमांसानि ह्यभक्षस्य च भक्षणम्**
 
 **कुर्वन्न गम्यागमनं शूद्रः पतति तत्क्षणात् ६६**
@@ -496,8 +426,6 @@ be accepted as an unexpected guest. His name atithi (lit., having no date fixed)
 **इति पाराशरे धर्मशास्त्रे प्रथमोऽध्यायः**
 
 Here ends the First Chapter of Parasara.
-
-
 
 **SECOND CHAPTER**
 
@@ -516,12 +444,6 @@ Here ends the First Chapter of Parasara.
 A Brahman who regularly performs the six ceremonies, may also betake himself to agriculture.
 
 \[The six ceremonies have been enumerated in ch. I., S' loka 39. Madhava says that the causal form 'karayet', in connection with the
-
-
-
-
-
-
 
 practice of agriculture allowed in the Kali to the priestly class, has a special meaning: –he says that a Brahmana must employ ploughmen of the lower caste in carrying on his agricultural operations; he is not permitted himself to hold the plough.\]
 
@@ -551,12 +473,6 @@ practice of agriculture allowed in the Kali to the priestly class, has a special
 
 6\. With the paddy cultivated by himself, or acquired from a field cultivated on his behalf, he should offer the five sacrifices (enjoined in the works on Smriti); and should likewise be engaged in celebrating the sacrificial rites, such as the Veda prescribes.
 
-
-
-
-
-
-
 \[The five sacrifices are mentioned by Manu in eh. 3, sl. 70.\]
 
 **तिला रसा न विक्रेता विक्रेता धान्यतत्समाः**
@@ -584,12 +500,6 @@ practice of agriculture allowed in the Kali to the priestly class, has a special
 10\. By cutting trees, by rending the earth, and by Destroying insects and worms, what sin is incurred by a tiller of the soil is removed by the sacrifice on the threshing floor.
 
 \[The sacrifice on the threshing floor consists of gifts of paddy at that place.\]
-
-
-
-
-
-
 
 **कर्षकः खलयज्ञेन सर्वपापैः प्रमुच्यते**
 
@@ -621,17 +531,9 @@ practice of agriculture allowed in the Kali to the priestly class, has a special
 
 15\. This is the eternal rule of life for all the four castes. Here ends the Second Chapter of the Institutes of Parasara.
 
-
-
-
-
-
-
 इति पाराशरे धर्मशास्त्रे द्वितीयोऽध्यायः
 
 END OF SECOND CHAPTER
-
-
 
 **तृतीयोऽध्यायः**
 
@@ -640,8 +542,6 @@ END OF SECOND CHAPTER
 THIRD CHAPTER.
 
 Impurity caused by birth and death: 19
-
-
 
 **अतः शुद्धिं प्रवक्ष्यामि जनने मरणे तथा**
 
@@ -682,12 +582,6 @@ Impurity caused by birth and death: 19
 **नामधारकविप्रस्तु दशाहं सूतकी भवेत् ६**
 
 6\. A Brahman who has never received the purificatory rites prescribed from the day of birth, who neglects to perform the threefold daily prayers (sandhya), who is a Brahman in name alone,–must observe ten days of impurity on account of abirth.
-
-
-
-
-
-
 
 **एकपिण्डास्तु दायादाः पृथग्दारनिकेतनाः**
 
@@ -885,12 +779,6 @@ If victorious, wealth is won; if death results, beautiful women fall to his shar
 
 If blood oozes out from the forehead, 'while fighting, and enters the mouth –that is on a par with a drink of the soma juice, for a fight is a religious rite properly performed : so it has been represented by the saints.
 
-
-
-
-
-
-
 **अनाथं ब्राह्मणं प्रेतं ये वहन्ति द्विजातयः**
 
 **पदे पदे यज्ञफलमानुपूर्व्याल्लभन्ति ते३९**
@@ -925,12 +813,6 @@ Where a Brahman from ignorance follows the corpse. of one who belongs to the mil
 
 \[These are, milk, curd, clarified butter, cow's urine and cowdung.\]
 
-
-
-
-
-
-
 **शवं च वैश्यमज्ञानाद्ब्राह्मणे योऽनुगच्छति**
 
 **कृत्वाशौचं द्विरात्रं च प्राणायामान्षडाचरेत् ४४**
@@ -959,17 +841,7 @@ When the Shoodras have finished all the obsequial rites, and have come to the wa
 
 **इति पाराशरे धर्मशास्त्रे तृतीयोऽध्यायः**
 
-
-
-
-
-
-
 End of third chapter of Parasara.
-
-
-
-
 
 **चतुर्थोऽध्यायः**
 
@@ -978,8 +850,6 @@ End of third chapter of Parasara.
 CHAPTER IV.
 
 VARIOUS KINDS OF EXP IATION RITES :
-
-
 
 **अतिमानादतिक्रोधात्स्नेहाद्वा यदिवा भयात्**
 
@@ -1005,12 +875,6 @@ VARIOUS KINDS OF EXP IATION RITES :
 
 4\. Those who carry the corpse or set it on fire, or cut the rope wherewith the person hanged himself or herself, must
 
-
-
-
-
-
-
  purify themselves by a Taptakrichchhra; so has Prajapati declared the law to be.
 
 \[Taptakrichchhra is a sort of penance; the person observing it must live on clarified butter, milk, and hot water, three days each ; and must inhale hot air for three days.\]
@@ -1035,12 +899,6 @@ VARIOUS KINDS OF EXP IATION RITES :
 
 Hot water should be drunk for three days, hot milk for three ; hot ghee for three; and air should be the sole subsistence for the next three days. Seven palas (a pala = 4 tolas ) is the quantity of water to be drunk three palas that of the milk to be drunk a single pala is the measure of the ghee. This rule governs the penance Taptakfichchhra
 
-
-
-
-
-
-
 **यो वै समाचरेद्विप्रः पतितादिष्वकामतः**
 
 **पञ्चाहं वा दशाहं वा द्वादशाहमथापि वा ६**
@@ -1060,12 +918,6 @@ Hot water should be drunk for three days, hot milk for three ; hot ghee for thre
 If a Brahman associates with persons degraded by sin, but has been forced to do so against his wish, for five, or ten, or full twelve days ; or for half a month, or a month; or for a couple of months; or for half a year, or for one complete year; at the expiration of the term he becomes degraded as they. He should fast three days, if the association has ended in the first fortnight; if in the second, the penance should be a Krichchhra; (a sortof penance extending over twelve continuous days, and consisting in partial or absolute fasts); if in the third fortnight, the penance should be a Santapana–krichchhra; if in the fourth fortnight, the penance is a fast for full ten days ; if in the fifth fortnight, the fast must be for full twelve days; if in the sixth fortnight, a single Chandrayana is the penance ; if in the seventh, a double Chandrayana; if in the eighth, he should, for the sake of purity, observe a Krichchhra extending over full six months. As many gold coins must the gratuity be, as there are fortnights in the period the association lasts.
 
 \[A gratuity, dakshina, is the money gifted to a Brahmana, without which no religious observance has efficacy.\]
-
-
-
-
-
-
 
 **शुद्ध्यर्थमष्टमे चैव षण्मासान्कृच्छ्रमाचरेत्**
 
@@ -1097,12 +949,6 @@ If a woman despises her husband, because he being either poor, or diseased, or a
 
 If a woman, during her husband's life, observes a religious vow which involves a fast, that woman thereby shortens her husband's life, and after death goes to hell.
 
-
-
-
-
-
-
 **अपृष्ट्वा चैव भर्तारं या नारी कुरुते व्रतम्**
 
 **सर्वं तद्राक्षसान्गच्छेदित्येवं मनुरब्रवीत् १८**
@@ -1133,12 +979,6 @@ He who sets his face against righteousness, is but a Chandala by his acts. He ga
 
 If seeds be carried either by a stream or by wind
 
-
-
-
-
-
-
 unto the soil of a person's field, and a crop is yielded by the field so sown, the crop will belong to the owner of the soil, not to the person who owned the seeds.
 
 **तद्वत्परस्त्रियाः पुत्रौद्वौस्मृतौ कुण्डगोलको**
@@ -1164,12 +1004,6 @@ An elder brother remaining unmarried while a younger marries, and that same youn
 **कृछ्रातिकृच्छ्रौ दातुस्तु होता चान्द्रायणं चरेत् २६**
 
 A double Krichchhra is the penance ordained for the said elder brother, a single Krichchhra for the bride herself. He who gave away the bride must perform a Krichchhra and an Atikrichchhra; while the priest must observe the Chandrayana rite.
-
-
-
-
-
-
 
 **कुब्जवामनषण्ढेषु गद्रदेषु जडेषु च**
 
@@ -1197,12 +1031,6 @@ Where the elder brother is alive, but hasn't set up agnihotra fire, the younger 
 
 When her husband is missing, or is dead, or has renounced the world, or is impotent, or has been degraded by sin, –on any of the said five calamities befalling a woman, law has ordained another husband for her.
 
-
-
-
-
-
-
 **मृते भर्तरि या नारी ब्रह्मचर्यव्रते स्थिता**
 
 **सा मृता लभते स्वर्गं यथा ते ब्रह्मचारिणः ३१**
@@ -1223,8 +1051,6 @@ As a snake–catcher seizes a venomous serpent by force, and from within its hol
 
 **इति पाराशरे धर्मशास्त्रे चतुर्थोऽध्यायः**
 
-
-
 **अथ पञ्चमोऽध्यायः**
 
 **प्रायश्चित्तवर्णनम्**
@@ -1233,21 +1059,9 @@ As a snake–catcher seizes a venomous serpent by force, and from within its hol
 
 **EXPIATIONS**
 
-
-
-
-
-
-
 **वृकश्वानसृगालाद्यैर्दष्टो यस्तु द्विजोत्तमः**
 
 **स्नात्वा जपेत्सगायत्रीं पवित्रां वेदमातरम् १**
-
-
-
-
-
-
 
 1\. If a superior Brahman is bitten by a wolf, or by a dog, or a jackal, or the like, he should wash himself, and should inaudibly recite the Gayatri verse, the holy mother of the vedic hymns.
 
@@ -1274,12 +1088,6 @@ As a snake–catcher seizes a venomous serpent by force, and from within its hol
 **प्रणिपत्यभवेत्पूतो विप्रैश्चक्षुर्निरीक्षितः ५**
 
 5\. If a twice born, whether he leads a strictly religious life or not, is bitten by a dog, let a number of Brahmans be saluted by him, who render him pure by casting their eyes on him.
-
-
-
-
-
-
 
 **शुना घ्रातावलीढस्यनखैर्विलिखितस्य च**
 
@@ -1309,12 +1117,6 @@ As a snake–catcher seizes a venomous serpent by force, and from within its hol
 
 **आहिताग्निर्मृतो विप्रो विषेणात्महतो यदि १०**
 
-
-
-
-
-
-
 **दहेत्तं ब्राह्मणं विप्रो लोकाग्नौ मन्त्रवर्जितम्**
 
 **स्पृष्ट्वा वोढ्वा च दग्ध्वा च सपिण्डेषु च सर्वथा ११**
@@ -1336,12 +1138,6 @@ As a snake–catcher seizes a venomous serpent by force, and from within its hol
 **कृष्णाजिनं समास्तीर्यकुशैस्तु पुरुषाकृतिम्**
 
 **षट्शतानि शतं चैव पलाशानां च वृन्ततः १५**
-
-
-
-
-
-
 
 **चत्वारिंशच्छिरे दद्याच्छतं कण्ठे तु विन्यसेत्**
 
@@ -1371,12 +1167,6 @@ As a snake–catcher seizes a venomous serpent by force, and from within its hol
 
 19 – 21. The vessel shamya should be placed on the male
 
-
-
-
-
-
-
 organ, and the wood for generating the frictional fire (arani) on the two testicles; the vessel juhu on the right hand; the vessel upabhrit on the left hand; the mortar on his back, as also the pestle ; the stone slab on the chest ; rice, ghee and sesamum seed upon the mouth; the water vessel upon his ear ; the vessel for holding the ghee on his eyes. A piece of gold should be placed on his ear, eyes, mouth and nose.
 
 **अग्निहोत्रोपकरणमशेषं तत्रनिक्षिपेत्**
@@ -1401,19 +1191,9 @@ organ, and the wood for generating the frictional fire (arani) on the two testic
 
 25, But if they rely upon their own understanding, and are led to adopt a different course, they are sure to shorten their lives, and cast themselves into an impure hell.
 
-
-
-
-
-
-
 **इति पाराशरे धर्मशास्त्रे पञ्चमोऽध्यायः**
 
 End of fifth chapter.
-
-
-
-
 
 **अथ षष्ठोऽध्यायः**
 
@@ -1422,11 +1202,6 @@ End of fifth chapter.
 SIXTH CHAPTER
 
 EXPIATION FOR KILLING ANIMALS :
-
-
-
-
-
 
 **अतः परं प्रवक्ष्यामि प्राणि हत्यासु निष्कृतिम्**
 
@@ -1445,12 +1220,6 @@ EXPIATION FOR KILLING ANIMALS :
 **अहि न क्रविघाती च शुध्यते नक्तभोजनात् ३**
 
 3\. The killer of a heron, a tittibha, a parrot, a pigeon, a snake, or a crocodile, attains purity by fasting in the daytime and eating at night.
-
-
-
-
-
-
 
 **वृककाककपोतानां शारि तित्तिरिघातकः**
 
@@ -1479,12 +1248,6 @@ EXPIATION FOR KILLING ANIMALS :
 **भारद्वाजादिकं हत्वा शिवं पूज्यविशुध्यति ७**
 
 7\. Let the killer of a klirandava, a chakora, the tawny bird, an osprey, a sky–lark, or the like, purify himself by worshipping Shiva.
-
-
-
-
-
-
 
 **भेरुण्डचाषभासांश्च पारावतकपिञ्जलौ**
 
@@ -1518,12 +1281,6 @@ EXPIATION FOR KILLING ANIMALS :
 
 12\. The expiation for killing an elephant, a horse, a buffalo, or a camel, is a fast for an entire day, and plunging in water for three times, –at sunrise, sunset and noon.
 
-
-
-
-
-
-
 **कुरङ्गं वानरं सिंहं चित्रं व्याघ्रं तु घातयन्**
 
 **शुध्यते सत्रिरात्रेणविप्राणां तर्पणेन च १३**
@@ -1554,12 +1311,6 @@ EXPIATION FOR KILLING ANIMALS :
 
 17\. Should one kill an innocent member of the military caste, or a similar Vaisya, he should expiate it by a double atikrichchhra, and a gratuity of twenty heads of cattle,
 
-
-
-
-
-
-
 **वैश्यं शूद्रं क्रियासक्तं विकर्मस्थं द्विजोत्तमम्**
 
 **हत्वा चान्द्रायणं तस्यत्रिंशद्गोश्चैव दक्षिणाम् १८**
@@ -1589,12 +1340,6 @@ EXPIATION FOR KILLING ANIMALS :
 **अहो रात्रोषितः स्नात्वा पञ्चगव्येन शुध्यति २२**
 
 22\. If a Brahman speaks to one of the Svapaka caste, or to a person of the Chandala tribe, he should speak to a member of the Brahman caste, and once recite the Gayatri
-
-
-
-
-
-
 
 verse.
 
@@ -1628,12 +1373,6 @@ verse.
 
 27\. If a Brahman drinks water contained in a Chandala's jar, provided he throws it up then and there, he will have
 
-
-
-
-
-
-
  to observe the prajiipatya penance.
 
 **यदि नक्षिपते तोयं शरीरे यस्यजीर्यति**
@@ -1659,12 +1398,6 @@ verse.
 30 –31. If a Brahman, a Kshatriya, a Vaisya, or a Shoodra, should by inadvertence drink water, or curd, or milk contained in the vessel of the lowest castes; –then the regenarrates are purified by Brahmakoorcha and a fast ; a Shoodra by a fast and bymaking gifts, so far as his ability extends.
 
 \[Madhava cites a verse mentioning the following seven as the lowest castes, orantyaja', as they are called the the : - the washerman,the worker in leather, the actor, the Varuda (probably the betelgrower), the fisherman, the Meda, and the Bheel.\]
-
-
-
-
-
-
 
 **भुङ्क्तेऽज्ञानाद्द्विजश्रेष्ठश्चण्डालान्नं कथंचन**
 
@@ -1696,12 +1429,6 @@ verse.
 
 36\. He and his servants, all should eat milk, unripe barley, cow's urine, curd and ghee; and there–should be a plunge in water at the three conjunctions, (sunrise, sunset and noon).
 
-
-
-
-
-
-
 **त्र्यहं भुञ्जीतदध्ना च त्र्यहं भुञ्जीतसर्पिषा**
 
 **त्र्यहं क्षीरेणभुञ्जीतैकैकेन दिनत्रयम् ३७**
@@ -1730,12 +1457,6 @@ verse.
 
 \[The above expiations are intended as a purification, when a Chandala has lived unknown in the house.\]
 
-
-
-
-
-
-
 **एवं शुद्धस्ततः पश्चात्कुर्याद्ब्राह्मणतर्पणम्**
 
 **त्रिंशतं गोवृषं चैकं दद्याद्विप्रेषु दक्षिणाम् ४१**
@@ -1763,12 +1484,6 @@ verse.
 **गृहदाहं न कुर्वीतशेषं सर्वं च कारयेत् ४५**
 
 44 – 45. If a washerwoman, or a woman of the caste that works in leather, or of the hunter, or of the fowler caste, or of that works in bamboo, should live unknown in the house of one who longs to any one of the four chief castes ; –then, when the fact known, the process for purification is half of what has been described above the house, however, need not be burnt; but the rest of the foregoing ceremony must necessarily be performed.
-
-
-
-
-
-
 
 **गृहस्याब्भ्यन्तरं गच्छेच्चण्डालो यदि कस्यचित्**
 
@@ -1800,12 +1515,6 @@ verse.
 
 50\. A Kshatriya too, should become pure, by making
 
-
-
-
-
-
-
 a gift of five mashas of gold. For a Vaisya, the prescribed penance is, –the gratuity of a cow, and likewise a fast.
 
 **शूद्राणां नोपवासः स्याच्छूद्रो दानेन शुध्यति**
@@ -1836,12 +1545,6 @@ I scarcity or civil commotion, –the fast, the austerities and ! offerings are 
 
 55\. If penance is performed by employing Brahmans, all its objects are sure to be gained. Indulgence is due to a
 
-
-
-
-
-
-
 feeble man, as also to the young and the aged.
 
 **अतोऽन्यथा भवेद्दोषः तस्मान्नानुग्रहः स्मृतः**
@@ -1870,12 +1573,6 @@ feeble man, as also to the young and the aged.
 
 58 –60. For thereby is impeded a momentous duty. But this rule applies not to a healthy man. If, however, the prescribers of expiation, from ignorance of the law, vicariously perform the penance for a healthy man, and propound this rule for even him, they obstruct the real expiation of the sinful man, and sink into an impure region of woe. If a person disregards the instructions a Brahman gives, and if he performs the expiation just a^ it pleases himself, his fast is fruitless; he never wins any religious merit. The form of expiation, which even a single Brahman thinks fit to prescribe, should be accepted by all.
 
-
-
-
-
-
-
 \[The beginning of shloka 58 is thus explained by Madhava. momentous duty referred to here is the duty of calling to mind some beneficent divinity at the very moment of death, whereby all sins may be removed then and there. If an impracticable expiation is prescribed, the dying man will be in anxiety and trepidation thinking solely that he was going to die with all his sins unexpiated - And so with a preoccupied mind, the sinner does not even call the to mind, which no doubt would be deplorable. Therefore, one who undertakes prescribe penance should be cautious that he does not prescribe an exceedingly severe form of expiation, beyond the power of the sinful man to perform. But this rule does not apply to a healthy man, I. e., there ought not to be any fear in prescribing the proper form of expiation if the sinner is healthy.\]
 
 **कुर्याद्वाक्यं द्विजानां त्वन्यथा भ्रूणहा भवेत्**
@@ -1901,12 +1598,6 @@ so are righteous persons; what they utter is like the water from a holy pool. It
 
 **भुञ्जानश्चैव यो विप्रः पादं हस्तेन संस्पृशेत् ६५**
 
-
-
-
-
-
-
 **स्वमुच्छिष्टमसौ भुङ्क्तेपाणिना मुक्तभाजने**
 
 **पादुकास्थो न भुञ्जीतपर्यङ्के संस्थितोऽपि वा ६६**
@@ -1926,12 +1617,6 @@ so are righteous persons; what they utter is like the water from a holy pool. It
 **काकश्वानावलीढं तु द्रोणान्नं न परित्यजेत् ६९**
 
 67 - 69. Articles of food which have been looked at by a dog, or by a person of the Chandala caste, should be thrown away. What food is forbidden, and what the purification is for polluted food, I am going to tell you, just as Parasara has propounded it. If it is food, which has been already cooked, where its quantity equals an Dhaka or a droids a, and is polluted by contact with a crow or a dog, the owner of the polluted food should present himself before a number of Brahmans, and should submissively ask them how the food should be rendered pure. But a quantity of food equal to a drona in measure, though it be touched by the mouth of a crow or a dog-, should never be thrown away as unclean food.
-
-
-
-
-
-
 
 **वेदवेदाङ्गविद्विप्रैर्धर्मशास्त्रानुपालकैः**
 
@@ -1965,18 +1650,11 @@ so are righteous persons; what they utter is like the water from a holy pool. It
 
 71 –76. From this, the learned in the Veda and in the law, may readily ascertain what quantity of food a drona
 
-
-
-
-
-
-
 or an ddhaka is." A Brahman should throw away a small quantity of food, if it has been touched by the mouth of a crow or a dog, or has been smelt by a cow or an ass. If a drona or an ddhaka be its measure, then there is no uncleanness in it. That part of the food, which the saliva of the animal has made unclean, should be picked up and thrown away; then the food should be besprinkled with water touched with gold; then it should be heated near a fire. Touched with the fire, and besprinkled with water which has had a contact with gold, and purified with the hymns of the Veda which the Brahmans recite near the polluted food, it becomes fit to be eaten without a moment's hesitation. If it be oil or ghee, or milk of the cow, and if the question be, what purification is proper for it,– a small portion should be thrown away; and the oil or ghee should be strained; the milk of a cow is purified by applying the flame of a fire to it.
 
 **इति पाराशरे धर्मशास्त्रे षष्ठोऽध्यायः**
 
 End of the sixth chapter.  
-
 
 **अथ सप्तमोऽध्यायः**
 
@@ -1985,7 +1663,6 @@ End of the sixth chapter.
 SEVENTH CHAPTER.
 
 PURIFICATION OF MATERIALS:  
-
 
 **अथातो द्रव्यशुद्धिस्तु पराशरवचो यथा**
 
@@ -1998,12 +1675,6 @@ PURIFICATION OF MATERIALS:
 **रजसा शुध्यते नारी विकलं या न गच्छति २**
 
 2\. A woman becomes pure, by her monthly courses, provided she has not gone astray; a river is pure, if there is a stream in it, and if no impurities are visible on it.
-
-
-
-
-
-
 
 **नदी वेगेन शुध्येतलोपो यदि न दृश्यते**
 
@@ -2037,12 +1708,6 @@ PURIFICATION OF MATERIALS:
 
 7\. If a Brahman, deluded by ignorance and pride, comes to marry a girl of the aforesaid kind, he does not
 
-
-
-
-
-
-
 deserve to be spoken to food should never be partaken in company with him : that Biahman becomes the husband of a Shoodra girl.
 
 **असम्भाष्यो ह्यपाङ्क्तेयः सविप्रो वृषली पतिः**
@@ -2073,12 +1738,6 @@ deserve to be spoken to food should never be partaken in company with him : that
 
 **स्पृष्ट्त्वा रजस्वलान्योन्यं ब्राह्मणी क्षत्रिया तथा १२**
 
-
-
-
-
-
-
 12\. If one of two women be of the Brahman caste, and the other belong to the Kshatriya tribe,– both being in their monthly courses then, and they should happen to touch each other's person, the first must observe one half of the Krichchhra penance, while the second only a fourth.
 
 **अर्धकृच्छ्रं चरेत्पूर्वा पादमेकमनन्तरा**
@@ -2105,12 +1764,6 @@ deserve to be spoken to food should never be partaken in company with him : that
 
 16\. When the menstrual fluid flows from day to day on account of a disease, it causes no impurity; that is, uncleanness by reason of disease alone.
 
-
-
-
-
-
-
 **नाशुचिः सा ततस्तेन तत्स्याद्वैकालिकं मतम्**
 
 **साध्वाचारा न तावत्स्याद्रजो यावत्प्रवर्तते १७**
@@ -2136,12 +1789,6 @@ deserve to be spoken to food should never be partaken in company with him : that
 **उच्छिष्टोच्छिष्टसंस्पृष्टः शुना शूद्रेणवा द्विजः २०**
 
 20\. While a Brahman has not washed himself after taking his meals, if he chances to be touched by another yet unwashed after a meal, or by a dog, or by a Shoodra, he should fast for a single night, and then swallow the five articles derived from a cow, whereby purity is restored to– him.
-
-
-
-
-
-
 
 **उपोष्यरजनीमेकां पञ्चगव्येन शुध्यति**
 
@@ -2170,12 +1817,6 @@ deserve to be spoken to food should never be partaken in company with him : that
 **षण्मासान्भुविनिःक्षिप्योद्धृत्यपुनराहरेत्**
 
 **आयसेष्वायसानां च सीसस्याग्नौ विशोधनम् २५**
-
-
-
-
-
-
 
 **डन्तमस्थितथा भृङ्गं रूप्यं सौवर्णभाजनम्**
 
@@ -2206,12 +1847,6 @@ deserve to be spoken to food should never be partaken in company with him : that
 **शोषयित्वातपेनैवप्रोक्षणाच्छुद्धितामियुः ३०**
 
 30\. Cats, flies, insects, moths, worms, and frogs, come in contact with both what is pure and what is the reverse
-
-
-
-
-
-
 
 of pure; but their contact transmits no impurity. So Manu has said.
 
@@ -2247,12 +1882,6 @@ Madhuparka is a present made to an honored guest i.e madhu or honey being an ess
 
 35\. A continuous stream is never unclean, nor dust which is carried by the breeze here and there; and women, and aged persons, and infants too, are never unclean.
 
-
-
-
-
-
-
 **देशभङ्गे प्रवासे वा व्याधिषु व्यसनेष्वपि**
 
 **रक्षेदेवस्वदेहादि पश्चाद्धर्मं समाचरेत् ३६**
@@ -2275,7 +1904,6 @@ Madhuparka is a present made to an honored guest i.e madhu or honey being an ess
 
 End of the seventh chapter.  
 
-
 **अष्टमोऽध्यायः**
 
 **धर्माचरणवर्णनम्**
@@ -2283,12 +1911,6 @@ End of the seventh chapter.
 EIGHTH CHAPTER.
 
 EXPLANATION FOR PRACTISE OF DHARMA:
-
-
-
-
-
-
 
 **गवां बन्धनयोक्त्रेषु भवेन्मृत्युरकामतः**
 
@@ -2320,12 +1942,6 @@ EXPLANATION FOR PRACTISE OF DHARMA:
 
 5\. Whatever is said by densely stupid and senseless people unacquainted with the law for the expiation of sin, –the same multiplies a hundred–fold into sin, and the expounders are affected by the multiplied sin.
 
-
-
-
-
-
-
 **अज्ञात्वा धर्मशास्त्राणि प्रायश्चित्तं ददाति यः**
 
 **प्रायश्चित्ती भवेत्पूतः किल्बिषं पर्षदि व्रजेत् ६**
@@ -2355,12 +1971,6 @@ EXPLANATION FOR PRACTISE OF DHARMA:
 **मारुतार्कादि सम्योगात्पापं नश्यति तोयवत् १०**
 
 10\. The sin affects not the sinner n attacks not the council; it is destroyed, like water from contact with wind and solar heat.
-
-
-
-
-
-
 
 **चत्वारो वा त्रयो वापि वेदवन्तोऽग्निहोत्रिणः**
 
@@ -2392,12 +2002,6 @@ EXPLANATION FOR PRACTISE OF DHARMA:
 
 15\. Besides these –whatever other Brahmans there may possibly be, who are the bearers of the Brahman name alone, –they, even though numbering thousands upon thousands, have not the qualification to form a council.
 
-
-
-
-
-
-
 **यथा काष्ठमयो हस्ती यथा चर्ममयो मृगः**
 
 **ब्राह्मणस्त्वनधीयानस्त्रयस्ते नामधारकाः १६**
@@ -2428,12 +2032,6 @@ EXPLANATION FOR PRACTISE OF DHARMA:
 
 20\. If Brahmans, the mere bearers of a Brahman's name, presume to prescribe a penance for sin, –they are guilty of a sin, and are destined to go to hell
 
-
-
-
-
-
-
 **ये पठन्ति द्विजा वेदं पञ्चयज्ञरताश्च ये  
 त्रैलोक्यं तारयन्त्येते पञ्चेन्द्रियरतापि २१**
 
@@ -2463,12 +2061,6 @@ EXPLANATION FOR PRACTISE OF DHARMA:
 
 25\. Even a Brahman of a bad character deserves repect; but not so a Shoodra, even though his passions may have been subdued by him. Who would quit a wicked cow, and try to milk a docile female ass ?
 
-
-
-
-
-
-
 **धर्मशास्त्ररथारूढा वेदखड्गधरा द्विजाः**
 
 **क्रीड्र्थमपि यद्ब्रूयुः सधर्मः परमः स्मृतः २६**
@@ -2497,12 +2089,6 @@ EXPLANATION FOR PRACTISE OF DHARMA:
 
 **आत्मकृच्छ्रं ततः कृत्वा जपेद्वै वेदमातरम् ३०**
 
-
-
-
-
-
-
 30\. Expiations should be prescribed in front of a temple ; then the prescriber shall perform a Kricchra for himself, and then recite the Gayatri hymn, the mother of the Veda.
 
 **सशिखं वपनं कृत्वा त्रिसंध्यमवगाहनम्**
@@ -2528,12 +2114,6 @@ EXPLANATION FOR PRACTISE OF DHARMA:
 **पतितां पङ्कमग्नां वा सर्वप्राणैः समुद्धरेत् ३४**
 
 34\. The sinner should drink water when the cows would drink he should go to sleep when they are about to sleep; if a cow gets a fall, and sticks in the mud, he should raise her with the exertion of his utmost strength.
-
-
-
-
-
-
 
 **ब्राह्मणार्थे गवार्थे वा यस्तु प्राणान्परित्यजेत्**
 
@@ -2565,12 +2145,6 @@ EXPLANATION FOR PRACTISE OF DHARMA:
 
 39\. For three days to have a single meal a day, for three days to eat only at night; for three days to refrain from asking for food and for three days, to subsist on air.
 
-
-
-
-
-
-
 **चतुरहं चैकभक्ताशी चतुरहं नक्तभोजनः**
 
 **चतुर्दिनमयाची स्याच्चतुरहं मारुताशनः ४०**
@@ -2591,12 +2165,6 @@ EXPLANATION FOR PRACTISE OF DHARMA:
 
 End of the eighth chapter.
 
-
-
-
-
-
-
 **नवमोऽध्यायः**
 
 **गोसेवोपदेशवर्णनम्**
@@ -2604,9 +2172,6 @@ End of the eighth chapter.
 Ninth chapter
 
 Service to cows:
-
-
-
 
 **गवां सम्रक्षणार्थाय न दुष्येद्रोधबन्धयोः**
 
@@ -2625,12 +2190,6 @@ Service to cows:
 **एकपादं चरेद्रोधे द्वौ पादौ बन्धने चरेत् ३**
 
 3\. On death from confinement, a quarter of the penance is to be performed on death from binding, two quarters ; on death from tying to a yoke, three quarters; the entire penance, when hitting causes the death.
-
-
-
-
-
-
 
 **योत्रेषु पादहीनं स्याच्चरेत्सर्वं निपातने**
 
@@ -2660,12 +2219,6 @@ Service to cows:
 
 6 – 9. Death occurring while a bull is tied to a yoke, or with a band round the belly or neck, or with an ornament of any kind, whether. in a house or in a wood, would be death by binding, whether brought about willfully or not. If death should happen while the bull is attached to a plough,
 
-
-
-
-
-
-
 or to a cart, or oppressively burdened by men on the back, then also it is said to be caused by a tie. If a person drunk, heedless, or mad, whether conscious or unconscious of his act, whether willfully or otherwise, excited with wrath, hits the cow with sticks or stones; and the cow so hit happens to be killed, the death is said to be caused by hitting.
 
 **मूर्छितः पतितो वापि दण्डेनाभिहितः सतु**
@@ -2691,12 +2244,6 @@ or to a cart, or oppressively burdened by men on the back, then also it is said 
 13\. If the foetus of a cow is destroyed, while it is in an amorphous state, a quarter penance is prescribed for the sin; when it has attained some distinct form, then the penance should be two quarters; by destroying a foetus which has not yet developed its consciousness, the sinner must perform three quarters.
 
 \[Madhava says that there are four states of the foetus in the womb, –viz., amorphous, morphous, unconscious, and conscious ; in the amorphous, or panda condition, the foetus is but a bubble.\]
-
-
-
-
-
-
 
 **पादे वस्त्रयुगं चैव द्विपादे कांस्यभाजनम्**
 
@@ -2725,12 +2272,6 @@ or to a cart, or oppressively burdened by men on the back, then also it is said 
 **त्रिपादं चैव कर्णे तु चरेत्सर्वं निपातने १८**
 
 17 – 18. If a person has hit a cow with a piece of stone or with a stick, – he must perform quarter penance on breaking a horn; and two quarters on fracturing a bone; on
-
-
-
-
-
-
 
 injury to an ear, three quaters; but the penance should be full, when death is caused.
 
@@ -2766,12 +2307,6 @@ injury to an ear, three quaters; but the penance should be full, when death is c
 
 23\. If cattle are bound or confined, with a view to protect them at night, and if pain is caused, by reason of loading or unloading the beasts, there is no sin.
 
-
-
-
-
-
-
 **चरेत्सांतपनं काष्ठे प्राजापत्यं तु लोष्टके**
 
 **तप्तकृच्छ्रं तु पाषाणे सस्त्रे चैवातिकृच्छ्रकम् २४**
@@ -2801,12 +2336,6 @@ injury to an ear, three quaters; but the penance should be full, when death is c
 **नदी पर्वतसंचारे प्रायश्चित्तं विनिर्दिशेत् २८**
 
 28\. Five cattle are the gratuity in the santapana penancein the Prajapatya, three cows are prescribed; it is
-
-
-
-
-
-
 
 eight cows, in the Taptakrichra penance; thirteen cows in the Atikrichchhra.
 
@@ -2840,12 +2369,6 @@ eight cows, in the Taptakrichra penance; thirteen cows in the Atikrichchhra.
 
 33\. The ropes for binding cows must not be made of cocoanut fibre, nor of flax or hemp, nor of hair, nor of munja grass, nor of the bark of a tree, nor of iron chain;
 
-
-
-
-
-
-
 should they be unavoidably bound with any such material, the owner should be ready with an axe, (to sever the bonds,) should any emergency arise.
 
 **कुशैः काशैश्च बध्नीयाद्गोपशुं दक्षिणामुखम्**
@@ -2876,12 +2399,6 @@ should they be unavoidably bound with any such material, the owner should be rea
 
 37 –38. On the occasion of worshipping a bull, should
 
-
-
-
-
-
-
 the bull, while being driven to run, (as a part of the ceremony of worship), have his side broken; or get his ear or heart broken or injured, by reason of falling into a well ; or, while getting out of the well, get his neck or legs injured or broken; and the animal expire in that state in such a case, three quarters of the penance should be observed.
 
 **कूपखातेतटाबन्धे नदी बन्धे प्रपासु च**
@@ -2909,12 +2426,6 @@ the bull, while being driven to run, (as a part of the ceremony of worship), hav
 42\. If cows, while confined or tied at night, are killed by tigers or by snakes, or are burnt to death, or killed by lightning, –there is no liability to expiate the sin.
 
 **ग्रामघाते शरौघेणवेश्मभङ्गान्निपातने**
-
-
-
-
-
-
 
 **अतिवृष्टि हतानां च प्रायश्चित्तं न विद्यते ४३**
 
@@ -2944,12 +2455,6 @@ the bull, while being driven to run, (as a part of the ceremony of worship), hav
 
 47\. When spectators keep aloof, and refrain from giving help to cows or bulls in distress they are affected by sin.
 
-
-
-
-
-
-
 **एको हतो यैर्बहुभिः समेतैर्न ज्ञायते यस्यहतोऽभिघातात्**
 
 **दिव्येन तेषामुपलभ्यहन्ता निवर्तनीयो नृपसम्नियुक्तैः ४८**
@@ -2973,12 +2478,6 @@ the bull, while being driven to run, (as a part of the ceremony of worship), hav
 **मनुना चैवमेकेन सर्वशास्त्राणि जानता ५१**
 
 51\. Manu, versed in all the branches of learning, has prescribed a general penance for killing a cow, where the special features of the sin cannot be known. He directs that a person killing a cow is to observe the lunar fast.
-
-
-
-
-
-
 
 **प्रायश्चित्तं तु तेनोक्तं गोघ्नश्चान्द्रायणं चरेत्**
 
@@ -3010,12 +2509,6 @@ the bull, while being driven to run, (as a part of the ceremony of worship), hav
 
 56\. A woman must not rest in the cow pen in night, follow cows in daytime, joining of rivers and in forests.
 
-
-
-
-
-
-
 **न स्त्रीणामजिनं वासो व्रतमेवसमाचरेत्**
 
 **त्रिसंध्यं स्नानमित्युक्तं सुराणामर्चनं तथा ५७**
@@ -3046,12 +2539,6 @@ the bull, while being driven to run, (as a part of the ceremony of worship), hav
 
 61\. Therefore sin should ever be disclosed; and theprescribed penance should always be performed. One should forswear immoderate wrath towards a woman, a child, a cow or a Brahman.
 
-
-
-
-
-
-
 **इति पाराशरे धर्मशास्त्रे नवमोऽध्यायः**
 
 End of the ninth Chapter.
@@ -3059,11 +2546,6 @@ End of the ninth Chapter.
 **दशमोऽध्यायः**
 
 **अगम्यागमनप्रायश्चित्तवर्णनम्**
-
-
-
-
-
 
 **चातुर्वण्येषु सर्वेषु हितां वक्ष्यामि निष्कृतिम्**
 
@@ -3082,12 +2564,6 @@ End of the ninth Chapter.
 **अन्याथा भावदोषेण न धर्मो न च शुध्यति ३**
 
 3\. Each mouthful is to be made as big as a hen's egg ; otherwise, the sinful man would be wanting in good faith, and win no religious merit; so he would not obtain freedom from the sin.
-
-
-
-
-
-
 
 **प्रायश्चित्तं ततश्चीर्णे कुर्याद्ब्रह्मणभोजनम्**
 
@@ -3119,12 +2595,6 @@ End of the ninth Chapter.
 
 8\. If a Shoodra commits an act of guilt with a woman of the Chandala or Svapaka caste, he must perform the prajapatya penance, and give a fee of four couples of cattle, each couple to include a female and a male ;
 
-
-
-
-
-
-
 **मातरं यदि गच्छेत्तु भगिनीं स्वसुतां तथा**
 
 **एतास्तु मोहितो गत्वा त्रीणि कृच्छ्राणि संचरेत् ९**
@@ -3148,12 +2618,6 @@ End of the ninth Chapter.
 **गुरुपत्नींस्नुषां चैव भ्रातृभार्यां तथैवच १२**
 
 12\. On carnal intercourse with a beast, or a prostituteand the like,or with a female buffalo, or with a female camel, or with a she monkey, or with a sow, or a female ass, one should perform the Prajapatya penance.
-
-
-
-
-
-
 
 **मातुलानीं सगोत्रां च प्राजापत्यत्रयं चरेत्**
 
@@ -3185,12 +2649,6 @@ End of the ninth Chapter.
 
 17\. She is to shave her head, including even the coronal hair; she is to eat unripe barley mixed with water; she is to fast for three successive nights, and stay in water for a single night.
 
-
-
-
-
-
-
 **आकण्ठसम्मिते कूपे गोमयोदककर्दमे**
 
 **तत्रस्थित्वा निराहारा त्वहो रात्रेणनिष्क्रमेत् १८**
@@ -3218,12 +2676,6 @@ End of the ninth Chapter.
 **प्रायश्चित्ते ततश्चीर्णे कुर्यादब्राह्मणभोजनम्**
 
 **गोद्वयं दक्षिणां दद्यच्छुद्धिं पाराशरोऽब्रवीत् २२**
-
-
-
-
-
-
 
 22\. If against her will, a woman has been once enjoyedby a wicked man; she becomes pure by a Prajiipatya, and by the flow of blood during her monthly courses.
 
@@ -3255,12 +2707,6 @@ End of the ninth Chapter.
 
 **गायत्रीं गोमयं क्षीरं दधिसर्पिः कुशोदकम् २७**
 
-
-
-
-
-
-
 27\. If a woman, from passion, or senselessness, abandons her relatives, her husband and sons, and goes away, she is lost, so far as her future life is concerned; –altogether lost, so far as her relations are concerned.
 
 **एकरात्रोपवासश्च कृच्छ्रं सांतपनं स्मृतम्**
@@ -3288,12 +2734,6 @@ End of the ninth Chapter.
 31\. If a Brahman female goes away, although not accompanied by a paramour, still her relatives must give her up, for fear that she may have had, after her departure from the house, sexual intercourse with a hundred men.
 
 **अद्वितीया गता चैव पुनरागमनं भवेत्**
-
-
-
-
-
-
 
 **दशमे तुदिने प्राप्ते प्रायश्चित्तं न विद्यते ३२**
 
@@ -3328,12 +2768,6 @@ should be purified.
 
 34\. Allfurniture should be purified in the prescribed
 
-
-
-
-
-
-
 form vessels made with shells of fruit are to be rubbed with the hair of the cow; copper vessels should be purified with the five articles derived from a cow, and those of white copper by ten times rubbing them with ashes.
 
 **गोद्वयं दक्षिणां दद्यात्प्राजापत्यद्वयं चरेत्**
@@ -3358,16 +2792,9 @@ form vessels made with shells of fruit are to be rubbed with the hair of the cow
 
 End of the tenth Chapter.
 
-
-
-
-
-
-
 **एकादशोऽध्यायः**
 
 **अभक्ष्यभक्षणप्रायश्चित्तवर्णनम्**  
-
 
 **अमेध्यरेतो गोमांसं चण्डालान्नमथापि वा**
 
@@ -3397,12 +2824,6 @@ End of the tenth Chapter.
 
 **ज्ञात्वा समाचरेत्कृच्छ्रं ब्रह्मकूर्चं तु पावनम् ५**
 
-
-
-
-
-
-
 4 - 5. If a Brahman has partaken of a S'lidra's food, or the food of a person unclean on account of an impurity of birth, or of a person who is unfit to be associated with in the matter of food, or any food suspected to be unclean, or any prohibited food, or the leavings of what another has eaten, and if this be done either with or without knowledge, or account of being in a condition of distress; –the Brahman, when he knows, should perform a Kricchra; and .part of the purificatory process is to drink Brahma-kirsch.
 
 **बालैर्न कुलमार्जारैरन्नमुच्छिष्टं यदा**
@@ -3426,12 +2847,6 @@ End of the tenth Chapter.
 **पीयूषं श्वेतलशुनं वृन्ताकफलगृञ्जने**
 
 **पलाण्डुवृक्षनिर्यासदेवस्वकवकानि च ९**
-
-
-
-
-
-
 
 **उष्ट्रीक्षीरमविक्षीरमज्ञानाद्भुञ्जते द्विजः**
 
@@ -3461,12 +2876,6 @@ End of the tenth Chapter.
 
 **तं शूद्रं वर्जयेद्विप्रः श्वपाकमिवदूरतः १४**
 
-
-
-
-
-
-
 14\. If a Shoodra be addicted to flesh meat and spirituous drinks, and constantly engaged in low occupations –he, like a member of the 8'vajpdha caste, should be shunned by a Brahman from afar.
 
 **द्विजशुश्रूषणरतान्मद्यमांसविवर्जितान्**
@@ -3494,12 +2903,6 @@ End of the tenth Chapter.
 **शुष्कान्नं गोरसं स्नेहं शूद्रवेश्मनागतम्**
 
 **पक्वं विप्रगृहे भुक्तं भोज्यं तन्मनुरब्रवीत् १९**
-
-
-
-
-
-
 
 19\. If dry food or milk, or any oily substance, be brought from a S'lidra's house and cooked in a Brahman's house, –that may be taken as food : –So Manu has said.
 
@@ -3529,12 +2932,6 @@ End of the tenth Chapter.
 
 **सगोपालेति ज्ञेयो भोज्यो विप्रैर्नसंशयः २३**
 
-
-
-
-
-
-
 **वैश्यकन्या समुत्पन्नो ब्राह्मणेन तु संस्कृतः**
 
 **साह्यार्धिकेति ज्ञेयो भोज्यो विप्रैर्न संशयः २४**
@@ -3560,12 +2957,6 @@ End of the tenth Chapter.
 **निर्दिष्टं पञ्चगव्यं तु पवित्रं पापशोधनम् २८**
 
 28\. Urine of the cow, cow–dung, milk, curd, and ghee,these five are the five articles derived from a cow. They,and water in which the kusa grass has been dipped, –are themselves pure, and therefore purify the sin.
-
-
-
-
-
-
 
 **गोमूत्रं कृष्णवर्णायाः श्वेतायाश्चैव गोमयम्**
 
@@ -3593,12 +2984,6 @@ End of the tenth Chapter.
 
 33\. The verse to be recited when ghee is taken begins with the words, 8'ulcramasi; ‘that for the water with the kusa grass dipped in it begins with the words’ devasyatva. The five articles derived from a cow, so sanctified by the recitation of the rig-veda verses, are to be placed near the fire.
 
-
-
-
-
-
-
 **आपो हि ष्ठेति चालोड्यमानस्तोकेति मन्त्रयेत्**
 
 **सप्तावरास्तु ये दर्भाछिन्नाग्राः शुकत्विषः ३४**
@@ -3622,12 +3007,6 @@ End of the tenth Chapter.
 **यत्त्वंस्थिगतं पापं देहे तिष्ठति देहिनाम् ३७**
 
 37\. Whatever sin there may lie in the body of embodied beings, lurking in the skin or in the bones, –is wholly burnt by the Brahmakoorchcha; as fuel is burnt by kindled fire. For, it is pure in all the three worlds, and gods themselves are within it.
-
-
-
-
-
-
 
 **ब्रह्मकूर्चोदहेत्सर्वं प्रदीप्ताग्निरिवेन्धनम्**
 
@@ -3657,12 +3036,6 @@ End of the tenth Chapter.
 
 **तटाकस्याथदुष्टस्यपीतं स्यादुदकं यदि ४३**
 
-
-
-
-
-
-
 **प्रायश्चित्तं भवेत्पुंसः क्रमेणैतेन सर्वशः**
 
 **विप्रः शुध्येत्त्रिरात्रेणक्षत्रियस्तु दिनद्वयात् ४४**
@@ -3686,12 +3059,6 @@ End of the tenth Chapter.
 **गृहीत्वाग्निं समारोप्यपञ्च यज्ञान्न निर्वपेत् ४७**
 
 47\. He,, who having accepted and set up the householdfire, does not perform the five sacrifices, –the saints declare him to be a person averse to cook for the sake of others.'
-
-
-
-
-
-
 
 **परपाकनिवृत्तोऽसौ मुनिभिः परिकीर्तितः**
 
@@ -3722,12 +3089,6 @@ End of the tenth Chapter.
 **ताडयित्वा तृणेनापि कण्ठे बद्ध्वापि वाससा ५२**
 
 52\. If one strikes a Brahman even with a wisp of grass, or drags him with a piece of cloth thrown round his neck; or wins even a lawsuit against him; he should bow down and beg pardon.
-
-
-
-
-
-
 
 **विवादेनापि निर्जित्यप्रणिपत्यप्रसादयेत्**
 
@@ -3761,12 +3122,6 @@ End of the eleventh Chapter.
 
 **तत्रादौ– –पुनः संस्कारादिप्रायश्चित्तवर्णनम्**
 
-
-
-
-
-
-
 **दुःस्वप्नं यदि पश्येत्तु वान्ते तु क्षुरकर्मणि**
 
 **मैथुने प्रेतधूमे च स्नानमेवविधीयते १**
@@ -3795,12 +3150,6 @@ End of the eleventh Chapter.
 
 **प्रत्यावसितवर्णानां कथं शद्धिर्विधीयते ५**
 
-
-
-
-
-
-
 5\. What should be the expiation of the offender (Pratyavasita) who tries to kill himself by falling into water, or fire, or by falling from a precipice, or by undertaking a journey for a suicidal purpose?
 
 **प्राजपत्यद्वयेनैवतीर्थाभिगनमेन च**
@@ -3824,12 +3173,6 @@ End of the eleventh Chapter.
 **आग्नेयं वारुणं ब्राह्मं वायव्यं दिव्यमेव च ९**
 
 9\. The learned have declared five kinds of bathing topurificatory: the Agneya or fiery bathing, the Varuna or the watery bathing, the Brahma or Vedic bathing, the VAyavya or windy bathing, and the Divya or the celestial bathing.
-
-
-
-
-
-
 
 **आग्नेयं भस्मना स्नानमवगाह्यतु वारुणम्**
 
@@ -3857,12 +3200,6 @@ End of the eleventh Chapter.
 
 14\. If, while offering libations of water to the Pitrus, one should place the sesamum seed in contact with the pores ^ at the root of the hair on the body, and should offer libations with the seeds so placed, he should thereby be offering
 
-
-
-
-
-
-
 libations of blood. and impurities to the Pitrus,
 
 **अवधुनोति यः केशान्स्नात्वा यस्तूत्सृजेन्मलं**
@@ -3888,12 +3225,6 @@ libations of blood. and impurities to the Pitrus,
 **आचान्तः पुनराचामेद्वासो विपरिधाय च १८**
 
 18\. One should perform Achamana, after bathing, drinking, sneezing, eating, travelling on the road, and change ing his garment, although he may have performed it once before.
-
-
-
-
-
-
 
 **क्षुते निष्ठीवनेए चैव दन्तोच्छिष्टे तथानृते**
 
@@ -3925,12 +3256,6 @@ libations of blood. and impurities to the Pitrus,
 
 **अन्यदा त्वशुची रात्रिस्तस्मात्तां परिवर्जयेत् २३**
 
-
-
-
-
-
-
 23\. The Mouths, the Vases, the radars, the Amity's, and other deities, all disappear with the moon. Therefore, gifts are not proper at night.
 
 **मरुतो वसवो रुद्रादित्याश्चैव देवताः**
@@ -3958,12 +3283,6 @@ Pradosha seems to be the first prahara after sunset.\]
 **प्रदोषपश्चिमौ यामौ दिनवत्स्नानमाचरेत् २७**
 
 27\. A tree on a burning-ground, a funeral pile, pus, a Chandala, and a seller of the Soma plant; having touched any of these, a Brahman should plunge into water with his clothing on.
-
-
-
-
-
-
 
 **चैत्यवृक्षश्चितिर्यूपश्चण्डालः सोमविक्रयी**
 
@@ -3994,12 +3313,6 @@ Pradosha seems to be the first prahara after sunset.\]
 **वेदं चैवानधीयानास्सर्वे ते वृषलाः स्मृताः ३२**
 
 32\. Therefore, for fear of being turned into a Shoodra,
-
-
-
-
-
-
 
 every Endeavour should be made, particularly by a Brahman, to study at least a portion of the Veda, (every day) in case he is unable to study the whole.
 
@@ -4033,12 +3346,6 @@ every Endeavour should be made, particularly by a Brahman, to study at least a p
 
 37\. Twelve times he will be born as a vulture; ten times as a hog; seven times as a dog; this is what Manu has
 
-
-
-
-
-
-
 said.
 
 **गृध्रो द्वादशजन्मानि दशजन्मानि सूकरः**
@@ -4064,12 +3371,6 @@ said.
 **हतं दैवं च पित्र्यं चात्मानं चोपघातयेत् ४१**
 
 41\. While Brahmans are eating together, if one out of them leaves his plate before the others have finished their meal, he is a dunce ; he is the worst of sinners; he is declared to be the killer of a Brahman.
-
-
-
-
-
-
 
 **भुञ्जानेषु तु विप्रेषु योऽग्रे पात्रं विमुञ्चति**
 
@@ -4097,12 +3398,6 @@ said.
 
 45\. With wealth acquired by righteous means, one should support himself. He who makes his living by unrighteous means, is unworthy to perform duty.
 
-
-
-
-
-
-
 **न्यायोपार्जितवित्तेन कर्तव्यं ह्यात्मरक्षणम्**
 
 **अन्यायेन तु यो जीवेत्सर्वकर्मबहिष्कृतः ४६**
@@ -4126,12 +3421,6 @@ said.
 **तिलान्कृष्णाजिनं छागं गृहे चैतानि रक्षयेत् ४९**
 
 49\. By making a gift of a gocharma quantity of land,a person is freed from all sins, such as the killing of a Brahman, and like other sins, which he may have committed, by word of mouth, or in thought, or in deed.
-
-
-
-
-
-
 
 **ब्रह्महत्यादिभिर्मर्त्यो मनो वाक्कायकर्मजैः**
 
@@ -4158,12 +3447,6 @@ said.
 53\. person becomes impure by approaching a Handclap, a woman in confinement, a woman in menstruation, or a degraded sinner, within the distance of a yoke, or two yokes, or three yokes, or four yokes, in the reverse order.
 
 \[A yoke is a particular measure of length. In the reverse order, ' I. ^ ., the rule of one yoke's length applies to a degraded sinner and ^o on.\]
-
-
-
-
-
-
 
 **युगं युगद्वयं चैव त्रियुगं च चतुर्युगम्**
 
@@ -4193,12 +3476,6 @@ said.
 
 58\. ^ He should, at a confluence of great rivers, bathe three times, at dawn, noon, and sunset. After completing the expiation, be should give away a cow, and feast ten Brahmans.
 
-
-
-
-
-
-
 **उपस्पृशेत्त्रिषवणं महानद्युपसंगमे**
 
 **चीर्णान्ते चैव गां दद्याद्ब्राह्मणान्भोजयेद्दश ५९**
@@ -4224,12 +3501,6 @@ said.
 **कृच्छ्रत्रयं प्रकुर्वीताशौचमरणे तथा ६२**
 
 62\. A Kricchhra consists in reciting the Gayatri verse/ ten thousand times; or reciting the Pranayama two hundred times; or bathing twelve times in a holy place, without^ drying the head after each bath or in making a pilgrimage to a distance of two 'yojanas' (eight kroshas).
-
-
-
-
-
-
 
 **कृच्छ्रं देव्ययुतं चैव प्राणायामशतद्वयम्**
 
@@ -4261,12 +3532,6 @@ said.
 
 67\. He should likewise dwell in the midst of cows, with–
 
-
-
-
-
-
-
 in villages or cities; or in places of hermitage, or of pilgrimage; or near the sources of rivers.
 
 **गृहद्वारेषु तिष्ठामि भिक्षार्थी ब्रह्मघातकः**
@@ -4297,12 +3562,6 @@ in villages or cities; or in places of hermitage, or of pilgrimage; or near the 
 
 72\. The killer of a Brahman is freed from his sin, if the
 
-
-
-
-
-
-
 Brahmans are prepared to give him a solution.
 
 \[This seems to imply, that if the Brahmans are satisfied that his expiation has been properly performed, and express an opinion to that effect, the sinner is freed from the sin.\]
@@ -4330,12 +3589,6 @@ Brahmans are prepared to give him a solution.
 **सुरापानं सकृत्कृत्वाग्निवर्णं सुरां पिबेत् ७६**
 
 76\. If a Brahman has drunk wine only once, he must drink flaming hot spirituous liquor; thereby he will purify himself, both as regards this world, and as regards the other world.
-
-
-
-
-
-
 
 **सपावयेदथात्मानमिहलोके परत्र च**
 
@@ -4367,12 +3620,6 @@ Brahmans are prepared to give him a solution.
 
 81\. This compilation of the ordinances of law, consisting of five hundred and ninety-two slokas, is the work of Parasara.
 
-
-
-
-
-
-
 **द्विनवत्यासमायुक्तं धर्मशास्त्रस्यसंग्रहः**
 
 **यथाध्ययन कर्माणि धर्मशास्त्रमिदं तथा ८२**
@@ -4395,8 +3642,5 @@ END OF PARASHARA SMRITHI
 
 Copy rights reserved by SRI HAYAGREEVA VEDA GURUKULA TRUST.  
 E-mail: srisharmaa@gmail.com
-
-
-
 
 \]
