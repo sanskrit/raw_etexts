@@ -15,8 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzNjIwMzQ0MzE
 
 \[
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Barcode: 1990020047460 Title - khandanodwara Author - VachaspatimMisra Language - sanskrit Pages - 178 Publication Year - 1909 Barcode EAN.UCC-13  
@@ -6484,8 +6482,5 @@ aaPM
 P
 
 ----------
-
-
-
 
 \]

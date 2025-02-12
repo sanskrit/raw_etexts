@@ -12,16 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1MTIwMzgzNTI
 
 \[
 
-
-
-
-
-
-
 **समाससूत्र -  
 सर्वोपकारिणी टीका ।**
-
-
 
  यद्वाग्विभूतिरमलाखिलतत्त्वजाता-  
  न्नानाद्य तत्त्वममलं परिबोधयन्ती ।  
@@ -71,13 +63,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg1MTIwMzgzNTI
 
 **इति सर्वोपकारिणी संक्षिप्तकापिलसूत्रवृत्तिः समाप्ता ॥**
 
-
-
 **--------------------------------------------------------------------**
-
-
-
-
-
 
 \]

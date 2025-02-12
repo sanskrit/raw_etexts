@@ -19,8 +19,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5NDA5NDMxNTg
 
 \[
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Barcode: 99999990003421 Title - The Asutosh Sanskrit Series Author - Vedantatirtha, Narendrachandra Language - sanskrit Pages - 894 Publication Year - 1964 Barcode EAN.UCC-13  
@@ -5089,8 +5087,5 @@ HAL
 र्थ्य मेव दर्शयति । सुपथे तीति । विशपणाशाहहयो मार्गा भान्तु कि पुनस्त स्वरूपं तदाह । पन्थानोति ॥ तल याक्यप्रमत्तफूल यति ॥ बचप्रति चेति ॥ सम्मत्याकाहाहारा समनन्तरबापतात्पर्यभार ,तलति
 
 ----------
-
-
-
 
 \]

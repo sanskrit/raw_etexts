@@ -17,49 +17,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3NDQ4NDI3MzE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **YOGA SŪTRAS**
 
 **of Patañjali**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **TABLE OF CONTENTS**
 
@@ -105,8 +65,6 @@ Vibhūti Pāda: Glory Displayed
 
 Kaivalya Pāda: Segregation Accomplished 
 
-
-
 **Part 3**
 
 ***Yoga Sūtra: Verses, Translation and Commentary** *
@@ -141,8 +99,6 @@ Kaivalya Pāda: Segregation Accomplished
 
 **About the Author**
 
-
-
 **Introduction **
 
 Anyone who does not have a basic knowledge of sanskrit is at a disadvantage when studying a translation. This is because the reader is at the mercy of the translator and is liable to be exploited. Texts like the Bhagavad-gita and the Yoga Sutras were and are being translated by many writers. Each translator has a motive. If the reader is naieve, he can hardly sort between the intentions of the original writer and the agenda of the translator.
@@ -155,29 +111,16 @@ I would suggest however, that readers tackle the second part first, that is the 
 
 Mdv.
 
-
-
 **Part 1**
-
-
-
-
-
 
 **Yoga Sūtras:  
 Verses and Translation**
 
-
-
 # Please dont Edit this page (Blank Page)
-
-
 
 **CHAPTER 1: SAMĀDHI PĀDA**
 
 **Transcendence Accomplishment**
-
-
 
 **Verse 1**
 
@@ -211,8 +154,6 @@ with the mento-emotional energy.
 vṛttayaḥ pañcatayyaḥ kliṣtāakliṣṭāḥ  
 The vibrations in the mento-emotional energy  
 are five-fold being agonizing or none-troublesome.
-
-
 
 **Verse 6 **
 
@@ -256,8 +197,6 @@ by the absence of objective awareness.
 **अनभूतविषयासम्प्रमोषः स्मृतिः**  
 anubhūta viṣaya asaṁpramoṣaḥ smṛtiḥ  
 Memory is the retained impression of experienced objects.
-
-
 
 **Verse 12 **
 
@@ -303,8 +242,6 @@ That highest non-interest occurs when there is
 freedom from desire for the features of material nature  
 and thorough awareness of the spiritual person.
 
-
-
 **Verse 17**
 
 **वितर्कविचारानन्दास्मितारूपानुगमात् सम्प्रज्ञातः**  
@@ -345,8 +282,6 @@ all being previously mastered, serves as the cause.
 tīvrasaṁvegānām āsannaḥ  
 For those who practice forcefully in a very intense way,  
 the skill of yoga will be achieved very soon.
-
-
 
 **Verse 22 **
 
@@ -391,8 +326,6 @@ the authorities from before.
 tasya vācakaḥ praṇavaḥ  
 Of Him, the sacred syllable Āuṁ(Om) is the designation.
 
-
-
 **Verse 28 **
 
 **तज्जपस्तदथभावनम्**  
@@ -436,8 +369,6 @@ For the removal of the obstacles,
 there should be the practice of a standard method  
 used in the pursuit of the reality.
 
-
-
 **Verse 33**
 
 **मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणाम्भावनातश्चित्तप्रसादनम्**  
@@ -477,8 +408,6 @@ or by sorrow-less and spiritually-luminous states;
 *vītarāga viṣayaṁ vā cittam*  
 or by fixing the mento-emotional energy  
 on someone who is without craving;
-
-
 
 **Verse 38**
 
@@ -521,8 +450,6 @@ to a higher concentrating force occurs
 when a word, its meaning and the knowledge of the object  
 alternate within the mind, blending as it were.
 
-
-
 **Verse 43 **
 
 **स्मृतिपरिशुद्धौ स्वरूपशून्येवार्थमात्रनिर्भासानिर्वितर्का**  
@@ -558,8 +485,6 @@ The previous descriptions concern the effortless
 and continuous linkage of the attention  
 to a higher concentration force,  
 as motivated by the mento-emotional energy.
-
-
 
 **Verse 47**
 
@@ -605,13 +530,9 @@ occurs when there is a non-operation,
 even of that preventative impression  
 which caused the suppression of all other lower memories
 
-
-
 **CHAPTER 2: SĀDHANA PĀDA**
 
 **Practice Accomplishment **
-
-
 
 **Verse 1 **
 
@@ -648,8 +569,6 @@ prasupta tanu vicchina udārāṇām*
 Spiritual ignorance is the existential environment  
 for the other afflictions, in their dormant, reduced,  
 periodic or expanded stages.
-
-
 
 **Verse 5 **
 
@@ -689,8 +608,6 @@ which is due to the instinctive fear of death,
 and which is sustained by its own potencies,  
 which operates for self preservation,  
 is developed even in the wise man.
-
-
 
 **Verse 10**
 
@@ -734,8 +651,6 @@ gained in that form.
 They produce happiness and distress as results,  
 on the basis of merit and demerits.
 
-
-
 **Verse 15 **
 
 **परिणामतापसंस्कारदुःखैर्गुणवृत्तिविरोधाच्च दुःखमेव सर्वं विवेकिनः**  
@@ -777,8 +692,6 @@ Its purpose is to give experience or to allow liberation.
 The phases of the influences of material nature  
 are those which are specific, regular, indicated or not indicated.
 
-
-
 **Verse 20**
 
 **द्रष्टा दृशिमात्रः शुद्धोऽपि प्रत्ययानुपश्यः**  
@@ -815,8 +728,6 @@ the experience of his own form.
 *tasya hetuḥ avidyā*  
 The cause of the conjunction is spiritual ignorance.
 
-
-
 **Verse 25**
 
 **तदभावात् संयोगाभावो हानं तदृशेः कैवल्यम्**  
@@ -849,8 +760,6 @@ From the consistent practice of the parts of the yoga process,
 on the elimination of the impurity,  
 the radiant organ of perception becomes manifest,  
 until there is steady discriminative insight.
-
-
 
 **Verse 29**
 
@@ -890,10 +799,6 @@ They are related to all stages of yoga, being the great commitment.
 Purification, contentment, austerity  
 and profound religious meditation on the Supreme Lord  
 are the recommended behaviors.
-
-
-
-
 
 **Verse 33**
 
@@ -937,8 +842,6 @@ his actions serve as a basis for results.
 On being firmly established in non-sealing,  
 all precious things wait to serve a yogin.
 
-
-
 **Verse 38**
 
 **ब्रह्मचर्यप्रतिष्ठायां वीर्यलाभः**  
@@ -975,8 +878,6 @@ and fitness for abstract meditation.
 **सन्तोषादनुत्तमसुखलाभः**  
 *saṅtoṣāt anuttamaḥ sukhalābhaḥ*  
 From contentment, the very best in happiness is obtained.
-
-
 
 **Verse 43**
 
@@ -1019,8 +920,6 @@ It results in relaxation of effort and the meeting with the infinite.
 From then on, there are no botherations  
 from the dualities like happiness and distress, heat and cold.
 
-
-
 **Verse 49**
 
 **तस्मिन्सति श्वासप्रश्वासयोर्गतिविच्छेदः प्राणायामः**  
@@ -1060,8 +959,6 @@ From that is dissipated, the mental darkness which veils the light,
 for linking the attention  
 to a higher concentration force or person.
 
-
-
 **Verse 54**
 
 **स्वविषयासम्प्रयोगे चित्तस्य स्वरूपानुकार इवेन्द्रियाणां प्रत्याहारः**  
@@ -1077,8 +974,6 @@ when not contacting their own objects of perception.
 *tataḥ paramā vaśyatā indriyāṇām*  
 From that accomplishment, comes the highest degree  
 of control of the senses.
-
-
 
 **CHAPTER 3: VIBHŪTI PĀDA**
 
@@ -1100,8 +995,6 @@ When in that location,
 there is one continuous threadlike flow  
 of one's instinctive interest that is the effortless linking  
 of the attention to a higher concentration force or person.
-
-
 
 **Verse 3 **
 
@@ -1141,8 +1034,6 @@ The practice of this complete restraint occurs in stages.
 In reference to the preliminary stages of yoga,  
 these three higher states concern the psychological organs.
 
-
-
 **Verse 8**
 
 **तदपि बहिरङ्गंनिर्बीजस्य**  
@@ -1181,8 +1072,6 @@ increase of the one aspect within it,
 is the change noticed  
 in the practice of continuous effortless linking of the attention  
 to higher concentration forces, objects or persons.
-
-
 
 **Verse 12 **
 
@@ -1225,8 +1114,6 @@ From the complete restraint of the mento-emotional energy
 in terms of the three-fold transformations within it,  
 the yogi gets information about the past and future.
 
-
-
 **Verse 17**
 
 **शब्दार्थप्रत्ययानामितरेतराध्यासात्-  
@@ -1262,8 +1149,6 @@ in the mind of others.
 And he does not check a factor  
 which is the support of that content,  
 for it is not the actual object in question.
-
-
 
 **Verse 21**
 
@@ -1302,8 +1187,6 @@ by the complete restraint in relation to portents.
 *maitryādiṣu balāni*  
 By complete restraint of the mento-emotional energy  
 in relation to friendliness he develops that very same power.
-
-
 
 **Verse 25**
 
@@ -1347,8 +1230,6 @@ By the complete restraint of the mento-emotional energy
 in relation to the Pole Star, ayogi can know  
 of the course of planets and stars.
 
-
-
 **Verse 30**
 
 **नाभिचक्रेकायव्यूहज्ञानम्**  
@@ -1391,8 +1272,6 @@ while focusing on the shining organ of divination
 in the head of the subtle body,  
 the yogin gets the ability to know all reality.
 
-
-
 **Verse 35**
 
 **हृदये चित्तसंवित्**  
@@ -1434,8 +1313,6 @@ in the practice of continuous effortless linkage
 of the attention to a higher concentration force, object or person.  
 But in expressing,  
 they are considered as mystic perfectional skills.
-
-
 
 **Verse 39**
 
@@ -1480,8 +1357,6 @@ between the body and the sky and linking the attention
 to being as light as cotton fluff,  
 a yogi acquires the ability to pass through the atmosphere.
 
-
-
 **Verse 44**
 
 **बहिरकल्पिता वृत्तिर्महाविदेहा ततः प्रकाशावरणक्षयः**  
@@ -1518,8 +1393,6 @@ and the non-obstructions of its functions.
 rūpa lāvaṇya bala vajra saṁhananatvāni kāyasaṁpat  
 Beautiful form, charm, mystic force and diamond-like definition  
 come from the perfection of the subtle body.
-
-
 
 **Verse 48**
 
@@ -1560,8 +1433,6 @@ By a lack of interest, even to that
 and the self) when the cause of that defect is eliminated,  
 the absolute isolation of the self  
 from the lower psyche of itself, is achieved.
-
-
 
 **Verse 52 **
 
@@ -1604,8 +1475,6 @@ transcending of all subtle and gross mundane objects
 in all ways they are presented, without the yogi taking recourse  
 to any other sequential perceptions of mind reliance.
 
-
-
 **Verse 56 **
 
 **सत्त्वपुरुषयोः शुद्धिसाम्ये कैवल्यमिति**  
@@ -1615,15 +1484,9 @@ between the intelligence energy of material nature
 and the spirit, then there is total separation  
 from the mundane psychology.
 
-
-
-
-
 **CHAPTER 4: KAIVALYA PĀDA**
 
 **Segregation Accomplished**
-
-
 
 **Verse 1 **
 
@@ -1642,8 +1505,6 @@ to a higher concentration force, object or person.
 *jātyantara pariṇāmaḥ prakṛtyāpūrāt*  
 The transformation from one category to another  
 is by the saturation of the subtle material nature.
-
-
 
 **Verse 3 **
 
@@ -1685,8 +1546,6 @@ The cultural activity of the yogis
 is neither rewarding nor penalizing,  
 but others have three types of such action.
 
-
-
 **Verse 8 **
 
 **ततस्तद्विपाकानुगुणानामेवाभिव्यक्तिर्वासनानाम्**  
@@ -1725,8 +1584,6 @@ in terms of cause and effect,
 supportive base and lifting influence.  
 Otherwise if their causes are not there, they have no existence.
 
-
-
 **Verse 12 **
 
 **अतीतानागतं स्वरूपतोऽस्त्यध्वभेदाद्धर्माणाम्**  
@@ -1764,8 +1621,6 @@ An object is not dependent
 on one person's mento-emotional perception.  
 Otherwise, what would happen  
 if it were not being perceived by that person?
-
-
 
 **Verse 17 **
 
@@ -1807,8 +1662,6 @@ In the perception of mento-emotional energy
 by another such energy, there would be an intellect  
 perceiving another intellect independently.  
 That would cause absurdity and confusion of memory.
-
-
 
 **Verse 22**
 
@@ -1854,8 +1707,6 @@ is inclined towards discrimination
 and gravitates towards the total separation  
 from the mundane psychology.
 
-
-
 **Verse 27 **
 
 **तच्छिद्रेषु प्रत्ययान्तराणि संस्कारेभ्यः**  
@@ -1893,8 +1744,6 @@ Subsequently there is stoppage of the operation
 of the mento-emotional energy  
 in terms of generation of cultural activities  
 and their resulting afflictions.
-
-
 
 **Verse 31 **
 
@@ -1942,30 +1791,10 @@ as the force empowering the mento-emotional energy.
 
 **END.**
 
-
-
-
-
-
-
-
-
-
-
-
-
 **Part 2**
-
-
-
-
-
-
 
 **An Approach to**   
 **Patañjali's Yoga Sūtras**
-
-
 
 **    Chapter 1**
 
@@ -1984,8 +1813,6 @@ usually form. When these concepts misrepresent the actual thing,
 that misconception is imagination. 10. Sleep is that creative urge which operates without your awareness. 11. Memory operates anytime you visualize something which was
 experienced before. 12. By not having an interest in the mental ideas and emotional
 feelings, you may develop the power to stop their influence. 13. You should persistently cultivate that lack of interest.
-
-
 
 14. However you should be reverential in the practice and it must be
 sustained for a long time. 15. Note well, that the lack of interest in one's own ideas and emotions
@@ -2017,8 +1844,6 @@ very intense way, will be masterful yogis in the near future. 22. But not everyo
 might be mediocre. Another might practice infrequently. 23. There is a special method to be mentioned. That is the profound
 religious meditation upon the Supreme Lord.
 
-
-
 24. This person is that special individual who is not affected by
 troubles, actions, developments or by subconscious motivations,
 which are based on the urgings of subtle material nature. 25. He is, for all practical purposes the ultimate knower. He is the
@@ -2047,8 +1872,6 @@ to the successful cultivation of friendliness, compassion,
 cheerfulness and non-responsiveness to happiness, distress, virtue
 and vices.
 
-
-
 34. That abstract meditation may be caused by practicing a method of
 breath manipulation wherein the vital energy of the gross and subtle
 body is enhanced, causing the creative urges to subside, so that the
@@ -2073,8 +1896,6 @@ observation of how the mind-attention mechanism operates when a
 word, it's meaning and the knowledge of the object alternate within
 the mind, blending as it were, with one of those facets permeating
 with the other.
-
-
 
 43. Even though analysis is useful in material existence, it does not
 serve the purpose in higher yoga practice. In fact such analysis is
@@ -2105,8 +1926,6 @@ impressions of that contact which forms in the mind, acts as the
 preventer of the other impressions which used to contravene yoga
 practices.
 
-
-
 51. When there is linkage of the attention to the higher concentration
 force, this must be effortless and continuous (not with effort and
 not momentarily). When it is like that it is considered to be
@@ -2114,10 +1933,6 @@ samadhi, the highest stage of yoga. In that state there is a
 complete departure from the memory and so its power of reminding the
 self of its contents is nullified completely. The self then becomes
 freed.
-
-
-
-
 
 ***Chapter 2***
 
@@ -2140,8 +1955,6 @@ tools, the compelling tendency to react to other influences, the
 tendency to link with other factors emotionally, the strong urge to
 dislike certain other factors, and the instinctive fear of death
 which sponsors a strong focus on mundane existence.
-
-
 
 4.  The inability to know the difference between one's spirit and its
 subtle sensing tools, is not just that lack of knowledge, but it
@@ -2170,8 +1983,6 @@ stored there but this stored energy is itchy and troublesome. An
 advanced yogi may perceived those stored impressions which erupts
 into mental and emotional distress and is even felt by persons who
 are not yogis.
-
-
 
 13. Those bodies which are assumed as well as the various climatic and
 geographic environments come about on the basis of those stored
@@ -2206,8 +2017,6 @@ anticipated at all. 20. Even though the perceiver is the pure extent of his cons
 his conviction, once formed in any way, is patterned by what he
 perceived.
 
-
-
 21. The individual spirit who is involved in what is seen exists here
 for either purpose. He may either accept the experience presented to
 him and react to it as he is urged and biased, or he may side-step
@@ -2238,8 +2047,6 @@ to become habituated to the higher forces or persons, and
 experiencing the resultant fusion of the attention into the higher
 dimension encountered.
 
-
-
 30. *The **moral restraints**consist of the following:*
 
 **Non-violence:**The avoidance of violence towards other life forms, the avoidance of psychological violence towards other spiritual entities, the practice of a calm, detached mood as professed by Sri Krishna in the Bhagavad-gita, if one is duty bound to discipline or apply violence to anyone.
@@ -2265,8 +2072,6 @@ all stages of yoga, they are the great commitment for all yogis. 32. The recomme
 **Austerty*: *This means to practice kriya yoga under the guidance of a more advanced yogi. These austerities should suppress unwanted desires to the point of eliminating them. Such desires are those which cause extroversion and which discourage the quest for liberation.
 
 **Profound meditation on the Supreme Lord:* *One can meditate on the Person God, if one has a functional relationship with Him. Over all, this is impractical for most practitioners since they either have an imaginary relationship with their preferred deity or a very meager connection. To be realistic one has to develop a relationship with a person who is more advanced on this spiritual path laid out by Sri Patanjali.
-
-
 
 33. There may be doubts about the claims of yoga made in this text of
 Sri Patanjali and made in other yoga books, however one should cast
@@ -2295,8 +2100,6 @@ the causes of his birth. By mystic skill he reviews actions from
 past lives which caused him to take the present birth. 40. From purification of the subtle body, comes a disgust for one's own
 gross form and lack of desire to associate sexually with others.
 
-
-
 41. Purification of the subtle energy results in a great reduction in
 emotional needs. From that stability one finds it easy to link the
 attention to one concentration force or person. After much practice
@@ -2324,8 +2127,6 @@ with physical breathing. This is the energy consumption of the
 subtle body. That regulation of the subtle energy or prana is the
 fourth type of pranayama energy intake.
 
-
-
 52. When a yogi shifts his attention to that subtle plane of
 consciousness, the darkness within his mind becomes dissipated,
 resulting in perception of light in real subtle objects, 53. and the establishment of always being able to link his attention to
@@ -2337,10 +2138,6 @@ their assumption of the form of unformed psychological energy which
 is quiescent when it is not contacting the objects of perception. 55. From that accomplishment comes the highest degree of control of the
 senses because they are powered by the inner sensual energy which a
 human being identifies as his emotions and mental force.
-
-
-
-
 
 **Chapter 3**
 
@@ -2359,8 +2156,6 @@ the yogi experiences that there is a continuous threadlike flow of
 his instinctive interest to the selected location in the mind or
 emotions. This is the effortless linkage of the attention to a
 higher concentration force or person.
-
-
 
 3.  When, however, that sense of effortless linkage of the attention
 joins continually to a particular location in the mind or emotions
@@ -2390,8 +2185,6 @@ should attach his attention to that place in the mind or emotion
 environment. When practicing however, he should, with attention,
 suppress any emerging idea or image and hold his mind or emotion in
 that blank state so that no other idea or image expresses itself.
-
-
 
 10. When one learns how to use the attention to suppress any emerging
 idea or image, and to hold the mind and emotions in that blank
@@ -2424,8 +2217,6 @@ confuse his perception. 18. The yogi gains knowledge of his previous lives by de
 intuitive perception of the subtle impressions stored in his own or
 another's memory.
 
-
-
 19. Though he can know the mental or emotional content of a person, he
 should not seek to use that skill. Unless he is advised to do so by
 a senior yogi, he should not exercise that skill. 20. The tendency of the memory and imagination, is to check, recheck,
@@ -2451,8 +2242,6 @@ planet. Thus knowledge about the solar system is gained. 28. From an application
 the system of stars. 29. By application to the Pole Star he can know of the course of the
 planets and stars. 30. By supernaturally focusing on the navel energy-gyrating center, the
 yogi gets knowledge about the layout of his subtle body.
-
-
 
 31. By focusing on the gullet, he causes the suppression of appetite. 32. By focusing on the kurmanadi nerve which runs from below the gullet
 down the inner center of the subtle body, he acquires steadiness of
@@ -2482,8 +2271,6 @@ and linking the attention to being as light as cotton fluff, a yogi
 acquires the ability to objectively pass his subtle form through the
 atmosphere.
 
-
-
 44. By restraining his response to the mental and emotional energy,
 which is universal, a yogi achieves the great bodiless state. From
 that, the great mental darkness which veils subtle light is
@@ -2512,8 +2299,6 @@ near to this one, from which he would be transferred here again. 53. By supernat
 to the sequence of moments, the yogi has detailed supernatural
 information.
 
-
-
 54. Subsequently, the yogi clearly distinguishes between two similar
 realities which otherwise, could not be sorted due to lack of
 definition in terms of their general category, individual
@@ -2525,21 +2310,11 @@ intelligence energy of material nature and the spirit, then there is
 total separation from the error-prone, spiritually-misleading
 mundane psychology
 
-
-
-
-
-
-
-
-
 **Chapter 4 **
 
 ***Kaivalya Pāda:** *
 
 ***Segregation Accomplished***
-
-
 
 1.  The mystic skills are demonstrated on the material plane through the
 various abilities of the varying species of life one may assume.
@@ -2551,8 +2326,6 @@ a body. Physical austerities may change a body to make it do what is
 normally impossible for the particular species. And supernatural
 linkage of one's mystic attention may affect changes which are
 unusual for one's body.
-
-
 
 2.  The transformation from one life form to another or from one
 dimension to another, from one existential status to another, occurs
@@ -2585,8 +2358,6 @@ Hope and desire energies are eternal as well. Thus the proposal
 which makes sense, recommends a removal of the individual spirit
 from this unalterable environment.
 
-
-
 11. The memories, the impressions, the hope and desire energies, exist
 by what holds them together in terms of what produced them and what
 they generate, as well as the supportive basis and the lifting
@@ -2614,8 +2385,6 @@ the mind nor the emotions. For these are only capable of being
 perceived by a real viewer. It is like a viewing instrument which
 cannot see for itself even though it is useful to the vision of a
 human being. 20. It cannot by itself execute the focus of itself or something else.
-
-
 
 21. If it were possible for the mind or emotions to view themselves,
 then one mind would perceive another mind independently without
@@ -2652,8 +2421,6 @@ whereby he perceives the mento-emotional clouds of energy which
 dictate the laws of responsibility. Subsequently, he can side-step
 such obligations.
 
-
-
 30. Unless instructed by a divine being, he stops the participation of
 his auxiliary shadow-self, which has the mind and emotions as its
 chief components. These are restrained from generating further
@@ -2668,26 +2435,12 @@ neutrality in reference to the subtle separation from his auxiliary
 self, is established. Thus he discovers his segregated real
 self,which empowers the auxiliary shadow character.
 
-
-
-
-
-
-
-
-
 **Part 3**
-
-
-
-
 
 **Yoga Sūtras:**
 
 **Verses, Translation  
 and Commentary**
-
-
 
 **Chapter 1 **
 
@@ -2727,8 +2480,6 @@ Yoga is something personal and practical. It is not a group effort. Each student
 
 There were many attempts to translate the word chitta. Some say it is the mind, some say it is the energy in the mind. Some say it is the consciousness.
 
-
-
 These terms, though accurate to a degree bring with them a certain vagueness which covers the meaning even more.
 
 To understand chitta we have to consider two aspects, those of thinking and feeling. Whatever energy is used for thinking is chitta, and whatever is used for feeling is chitta. It is chitta through which we think and feel. To understand chitta one has to become concerned with psychological locations. Where does your thinking take place? When a thought arises in which energy is it illustrated in the mind? When you have an emotional response to something real or imaginary, in which part of your psyche does that take place? What sort of energy is used to develop and transmit emotion? Whatever correct answer one would give to any of these questions would identify the chitta energy. Chitta is the mento-emotional energy in which our thoughts are formed and are disintegrated. It is the energy in which our feelings are formed and in which the same feelings subside to nothingness.
@@ -2745,8 +2496,6 @@ tadā— then; draṣṭuḥ— the perceiver, svarūpe— in his own form;
 avasthānam— is situated.
 
 **Then the perceiver is situated in his own form.**
-
-
 
 *Commentary*:
 
@@ -2783,8 +2532,6 @@ being agonizing or none-troublesome**.
 
 Śrī Patañjali has not given a middle designation or a mixed status for the mento-emotional vibrations. He simply stated that there were five types of these vibrations; some causing agony and some which are not troublesome. This is to be realized in mystic yoga practice so that the yogi becomes expert at recognizing the various moods of his mind and emotions. An ignorance of the operations of the mental and emotional energy, will cause the self to trail
 
-
-
 ‍behind the mental and emotional moods. This will invariably lead to haphazard rebirths and responsibility for wreckless acts. Ignorance of one's psychology and of how it operates, is costly to the living entity.
 
 As stated in the second verse of these sūtras, the skill of yoga is demonstrated by non-vibration of the mento-emotional energies. When the yogi ceases the vibrations, the energy converts into being a supernatural vision with which he sees into the chit akash, the sky of consciousness, the spiritual environment. The yogin was given the chitta energy for that purpose but due to his ineptness he was not able to use it appropriately. Instead it served him for imagining and analyzing mundane energy. Śrī Patañjali will tell us something more about the five vibrational modes of the mental and emotional energy.
@@ -2807,8 +2554,6 @@ We are endowed with the mento-emotional energy and it is restricted to those fiv
 
 Let us take for example the operation of sleep. One may fall asleep and not know it until after the sleep mode has terminated. A man for instance, who drives a car in a tired state, would realize that he fell asleep at the wheel after his car had crashed into a tree and he awoke in a badly damaged body in a hospital. The operations are impulsively performed in the mind and emotions. This impulsiveness is a handicap for the living entity.
 
-
-
 *Now I will discuss these five operations one by one:*
 
 **Correct Perception:**
@@ -2826,8 +2571,6 @@ It is not false perceptions that are the problem but rather the vibrations in th
 **SPECIAL NOTE:**
 
 *Two persons in particular requested that I write this translation and commentary of Śri Patañjali Muni's Yoga Sūtras. Those persons are Śrīla Yogeshwaranand Yograja who has departed from his physical body and Sir Paul Castagna, who to this date (Jan 2003) still sees a physical form. Śrīla Yogeshavarananda, thought that I was duty bound to write such a translation and commentary and that it would benefit me. Sir Paul Castagna thought that I would further break open the meaning of the sūtrus. In any case I now thank these two individuals for their pushing and tugging*
-
-
 
 *Śrī PatañjaliMaharshi is not an ordinary person. And though I was reluctant to translate and comment on this classic work on Yoga and its practice, still I benefited from this task which my teacher Śrīla Yogeshwarananda and my colleage Sir PaulCastagna motivated me to begin and complete.*
 
@@ -2855,8 +2598,6 @@ When the imagination faculty is fully curbed, it develops into the eye of consci
 
 The vibration of sleep cannot be eliminated altogether but its negative aspects may be curtailed by a yogin through mastery of prāṇāyāma and expertise in the dhāraṇā linkage of the attention to higher concentration forces. According to Śrīla Yogeshwarananda, sleep is a permanent
 
-
-
 requirement for the subtle and causal forms. These bodies require sleep for rejuvenation. Even the cosmic god, the Hiranyagarbha personality, has to sleep from time to time, thus shutting down his energies which flow into this material world.
 
 However, a yogin should curtail the negative aspects of sleep by learning how to keep his subtle body fully charged with fresh prāṇa and with energies which come in from higher dimensions.
@@ -2878,8 +2619,6 @@ pratyakṣanumānā gamāḥ = pratyakṣa— direct but correct perception + an
 *Commentary*:
 
 Even though this is obvious, Śrī Patañjali alerts us in this verse, that we have to learn how to recognize when our intellect functions in this mode of operation. Everyone understands that when false information is used there will be incorrect conclusions. Analysis, when applied to false information, results in false conclusion, which leads to incorrect insight. It is the same with reference. A reference may be the wrong one, or it may be inaccurate, hence the use of it will lead to false conclusions. Direct perception may be incorrect. Pratyakṣa is a combination of prati and akshah, but aksha means perception. When that perception is correct, it is prati-aksha, pratyakṣa. For true perception a yogin must have an accurate intellect and also have accurate information from outside his intellect. It is not just reliant on his intellect. It is reliant on getting accurate information outside the intellect. However, if the yogin's intellect is sufficiently surcharged with higher concentration forces, he will recognize the incorrect and unreliable information. He will not use such information to produce wrong conclusions. A yogi must be in the right position to get the right information. This is achieved by mystic maneuvers. This all means that there is more for accurate perception; more is required besides the purity of the psyche of the yogi. He has to get himself into a position from which he can use his accurate buddhi organ to perceive correctly.
-
-
 
 An astronomer may have an accurate telescope but still he cannot take an accurate reading on a very cloudy night unless he can go beyond the cloud formations. He has to put himself in the proper positions to use the accurate instrument. Correct perception may be acquired directly only if the yogin has a reality-perceiving intellect and is in the proper position to use it.
 
@@ -2904,8 +2643,6 @@ The vibrational mode which produces a firm conviction about something that is in
 The willingness of the buddhi organ in accepting the information given to it by the senses is the root of this problem. The reliance of the buddhi on the sensual energies must be broken by the yogin. This can be achieved by perfecting the pratyāhār 5th stage of yoga practice, where the sensual energies are withdrawn from their interest into the subtle and gross mundane world. The strength of the senses which is their ability to keep the buddhi organ under subjugation is based on the extrovert tendencies of the organ. Thus if that tendency is squelched, the senses lose their authority over the organ and it becomes independent of them. This is mastered by pratyāhār practice.
 
 The perception of the sensual energies is operated with the energy of fuel of the prāṇa which is subtle air. When the yogi practices prāṇāyāma and is able to take in a higher grade of prāṇa, his senses become purified and they no longer make so many erroneous judgments which they force the buddhi to accept. Thus the yogi becomes freed from incorrect perceptions.
-
-
 
 **Verse 9**
 
@@ -2938,8 +2675,6 @@ abhāva— absence of awareness; pratyayaḥ — conviction or belief as mental 
 There are various types of sleep but the true sleep is when the mind has no content, such that one feels as if one was barely existing during the sleep. This is realized not during that state but after it. During such sleep the living entity becomes disconnected from his buddhi organ. But when he is connected to it again, he realizes that he was barely connected to his discrimination and sense of objectivity.
 
 We may consider that the vṛittis or vibrational modes of the mental and emotional energy are fivefold in normal consciousness. It is like a car which has a set of five gears, with a neutral function. The reverse function is comparable to the operational mode of memory. Memory has to do with recalling something from the past. The other modes or gears are all forward vibrations, which Śrī Patañjali gave as correct perception, false perception, imagination, and sleep.
-
-
 
 **Verse 11 **
 
@@ -2975,8 +2710,6 @@ restraint, non-operation.
 "*Those who are advanced should continue practicing with firm faith so that their connection with the lower operational modes of the mental and emotional energies decreases daily. They need not read any more of these sūtras which I wrote down so long ago.*
 
 *"However those who are not so advanced should read further and take hints according to their particular progressions. In this verse twelve, these **sūtras** are concluded, but dull students need to hear more from the teacher. They should listen to more of the verses. This book ends in this verse twelve for those who are advanced, but others should read on for more hints on practice."*
-
-
 
 To wipe out one's connection with the vṛttis or the operational modes, we need to be detached from the very same operations or modes. That is all we need to do. However, for those of us who are not so advanced we need to hear more. Basically speaking we have to enter into the neutral mode and from there into higher concentration energies which cause sensual perception into the chit akash, the sky of consciousness.
 
@@ -3014,8 +2747,6 @@ sa = sah — that, tu — but; dīrgha— long; kāla— time; nairantarya— un
 
 What was acquired over millions and millions of births will take some time for its removal from the psyche. It will not go away overnight. Thus this yoga course is not the same as the easy paths of salvation.
 
-
-
 **Verse 15**
 
 **दृष्टानुश्रविकविषयवितृष्णस्य वशीकारसञ्ज्ञा वैराग्यम्**  
@@ -3051,8 +2782,6 @@ This does not come about easily. This is why ŚrīPatañjali alerted the student
 
 Puruṣa, the spiritual personality and prakṛti, the gross and subtle material nature, display a liking for one another. It is not an easy task for anyone to nullify this affinity. A complete transformation in the psychology would be required for one to develop the full non-interest in the subtle or gross mundane energy.
 
-
-
 **Verse 17**
 
 **वितर्कविचारानन्दास्मितारूपानुगमात् सम्प्रज्ञातः**  
@@ -3075,8 +2804,6 @@ Some other commentators categorized saṁprajñātaḥ as a type of samadhi. In 
 In the stage of samāmdhi, he loses himself more and more, because he does not have to exert his will or deliberation. Thus he becomes relaxed. His mystic power loses tension and application because it is effortlessly pulled into and fused to the higher concentration force.
 
 In the saṁprajñāta observational linkage, the yogin sometimes finds that he must analyze what he is linked to. This is preliminary. All yogis go through these stages one by one as they progress and one does not move from lower to a higher stage until one has integrated the lower progression. At first when the deliberate linkage occurs, there is an analysis of what one is linked to, as to what level it is on and as to its value, as to what it will evolve into and as to the extent of transcendence.
-
-
 
 After this one reflects on it, for the purpose of integrating it fully for the sake of being able to explain it to others at a later date. Many of the writings of this writer were made on the basis of due reflection in this stage. It is for the integration of the writer himself and use later on in teaching and explaining. After one advanced beyond this, one reaches a stage of introspective happiness. This is due to full pratyāhār when one loses interest in others and totally pulls in all sensual energies and is able to direct oneseIf purely without looking back for others.
 
@@ -3103,8 +2830,6 @@ Most commentators agree that this is the stage of asaṁprajñāta samādhi or a
 
 Provided that one has had a previous practice of repeatedly losing track of one's opinions and motivations, one can attain this other state in which there is awareness of the remaining impressions in their seed form as they exist in
 
-
-
 the mind compartment and in the emotions. The yogi must repeatedly practice to attain this, as Śrī Patañjali told us of the long practice (dīrgha kāla) required. In this state there is no foothold on any form or forms, and therefore the yogi has to be very determined, patient and persistent.
 
 **Verse 19**
@@ -3129,8 +2854,6 @@ Certain other individuals attain the bodiless state and remain in material natur
 Bengali Baba, in his commentary on these sūtras stated that the videhas, the bodiless ones, are the persons who after performing virtuous actions such as Agnihotra ceremonies of the Vedas, attain the state of freedom, which is similar to absoluteness. He referred to Māṇḍūkopaniṣad, Chapter 2 Part 1. He wrote that they are not to return to human life but they will become presiding officers in future creations. He cited King Suratha who will be the eighth Manu after the reign of the current Manu who is Vaivasvata.
 
 Such persons attain a permanent status as small-time gods of these worlds. They have no need at all to take a gross body. They either use a subtle body or no type of material body at all, but their energy affects this creation.
-
-
 
 **Verse 20 **
 
@@ -3161,8 +2884,6 @@ One must practice samādhi repeatedly. Samādhi is the continuous effortless lin
 The yogin must have profound insight gained through development of the buddhi intellect organ which sees beyond the material world into the superphysical planes and beyond.
 
 Śrī Patañjali though acknowledging those persons who are natural mystics, wrote these sutras expressively for those yogis who are endeavoring with such stamina that they will adhere to yoga, life after life until they reach the culmination. There are many people who without any record of yoga practice in their current or perhaps even in their past lives, are able to switch themselves to psychic or supernatural levels. But these persons rely on their inherent nature either to be accustomed to being bodiless, or to being diffused into particular subtle phases of material nature (prakṛtilāya).
-
-
 
 **Verse 21**
 
@@ -3208,8 +2929,6 @@ Yoga practice yields results according to the intensity of correct practice. One
 
 Śrī Patañjali in an abrupt statement gave an alternative method (vā - or), which is the profound religious meditation upon the Supreme Lord. Readers
 
-
-
 who want to inquire further into the meaning and application of this verse may check on the root words in Sanskrit to find out what that word praṇidhāna means. One should first check the root word dha, which meant to put, to lay upon, to fix upon, to hold, to contain, to seize. Then check nidhāna, which means putting down, depositing, or a place where anything is placed. Then check praṇidhāna.
 
 This indicates very profound and a deep laying of the mind upon the Supreme Lord. This is very deep meditation. If one can achieve that without doing yoga practice, one would be demonstrating that culmination of yoga, or one would have the mastery of yoga, even without practice.
@@ -3245,8 +2964,6 @@ tatra — there, in Him; niratiśayaṁ — unsurpassed; sarvajña — all knowi
 **Commentary**:
 
 This is a further description of the Supreme Lord. Śrī Patañjali has carefully not named this Lord as Krishna or Shiva or Brahma, or anyone else. He gave that. Lord's special characteristics through which He may be identified.
-
-
 
 **Verse26**
 
@@ -3290,8 +3007,6 @@ taj = tat — that sound = japaḥ — murmering; tadarthabhāvanam = tat = that
 
 A whimsical repitition of āuṁ (Oṁ) will not serve the purpose. The japa murmuring has to be done with deep feeling and intense concentration. This leads into a deeper state of mind and to a quietude in which reverberates the sounds which come in from the supernatural world. These sounds are the actual āuṁ (Oṁ) and the yogi recognizes them after purifying his mento-emotional energy through prāṇāyāma and a lack of interest in the material world.
 
-
-
 A key factor is to disengage the gears of memory from the engine of the buddhi organ. For so long as the memory runs on automatically, the yogi cannot be free from the chatter and picturizations of the mind. Thus he will not experience what comes from the supernatural and spiritual world.
 
 **Verse 29**
@@ -3322,14 +3037,11 @@ As soon as one has mastered the internalization of the sense consciousness, many
 
 vyādhi — disease; styāna — idleness; saṁśaya — doubt; pramāda — inattentiveness; ālasya — lack of energy; avirati — proness to sensuality; bhrāntidarśana — mistaken views; alabdhabhūmikatva — not being able to maintain the progress made, not holding the ground (bhumi); anavasthitatvāni — unsteadiness in the progression; cittavikṣepaḥ — scattered mental and emotional energy; te - these; antarāyāḥ — obstacles.
 
-
-
 **These obstacles are disease, idleness, doubt, inattentiveness,  
 lack of energy and prone to sensuality, mistaken views,  
 not being able to maintain the progress attained,  
 unsteadiness in progression,  
 scattered mental and emotional energy.**
-
 
 **Commentary**:
 
@@ -3353,8 +3065,6 @@ The truth is that everyone cannot become liberated because byconstitution some s
 
 However a person who is by nature idle-minded might become liberated ifhis atma or spirit is connected existentially to a great yogin. By proximity to that great yogin, an idle-minded person might become liberated. If a boat has
 
-
-
 got too small of an engine, then a tug which is a small boat with an overly- powerful engine can pull it along. Similarly if another boat has a large enough engine which is defectively operating, it too can be pulled by a powerful tug. It is a question of how long such a tug would pull the powerless boat. How long can a great yogi drag an idle-minded disciple?
 
 Idle mindedness can be overcome after long long practice, especially in prāṇāyāma and pratyāhār, which are breath infusion and sensual restraints. It is the outpouring of the sensual energies which cause a person to have a scattered mind. This is why in the last sūtra, Śrī Patañjali indicated that if one chants the Oṁkāra one could develop internalization.
@@ -3376,8 +3086,6 @@ This is also driven by the type of pranic energy in the mind. Hence the need for
 **Mistaken views (bhrāntidarśana)**  
 Mistaken views come about according to the status of the buddhi organ which is used for analyzing. That organ, regardless of its accurate or inaccurate deductions, is prone to receiving information from the senses. The senses in turn accept information in a prejudiced way, depending on the type of sensual energy used and on the basis what come up in the memory circuits. Purification of the buddhi brings about a dismissal of the mistaken views and that process is called buddhi yoga which is described in detail in chapter two and three of the Bhagavad-gītā.
 
-
-
 One must purify the lifeforce, the kuṇḍalini chakra, as well as all parts of the subtle body. One must be celibate by practicing the yoga austerities. Then the buddhi organ assumes a brighter glow and becomes capable to avoiding mistaken views. The sensual energies are purified by prāṇāyāma and pratyāhār practice.
 
 **Not being able to maintain the progress made (alabdhabhūmikatva)**  
@@ -3390,8 +3098,6 @@ A yogi in such a position needs to consult with a person who understandings karm
 
 **Scattered mental and emotional energy (cittavikṣepaḥ)**  
 There is only one way to get rid of the scattered mental and emotional energy. That is the method of prāṇāyāma and pratyāhār practice. Pratyāhār practice causes one not to need much association from others because by it one conserves the sensual powers and enriches oneseIf being less and less dependent on whimsical social associations. Prāṇāyāma practice makes the yogin see that it is possible to change out the lower pranic energies in the psyche for higher ones which accelerate yoga.
-
-
 
 **Verse 31**
 
@@ -3433,8 +3139,6 @@ One has no alternative but to practise, using methods which yogis in the past we
 
 *The Blessed Lord said: Undoubtedly, o powerful man, the mind is difficult to control. It is unsteady. By practice, however, o son of Kunti, by indifference to its responses, also, it is restrained. (Gītā6.35)*
 
-
-
 **Verse 33**
 
 **मैत्रीकरुणामुदितोपेक्षाणां सुखदुःखपुण्यापुण्यविषयाणम्भावनातश्चित्तप्रसादनम्**
@@ -3471,8 +3175,6 @@ pracchardana - exhalation; vidhāraṇābhyāṁ- by inhalation; vā – or; pr�
 
 **or by regulating the exhalation and inhalation of the vital energy.**
 
-
-
 *Commentary*:  
 This is the practice of prāṇāyāma, the fourth stage of yoga practice. This must be learned from a knowlegable yogin who practices and knows the benefits of the methods he teaches. It may be discovered by a few fortunate students of yoga.
 
@@ -3502,8 +3204,6 @@ This refers to the supernatural and or spiritual perception, which is developed 
 viśokāh - sorrowless; vā – or, jyotiṣmatî - spiritually-luminous.
 
 **or by sorrow-less and spiritually-luminous states;**
-
-
 
 *Commentary:*
 
@@ -3537,8 +3237,6 @@ svapna - dream; nidrā - dreamless sleep; jñāna - information; ālambanaṁ - 
 
 Some yogis gain steadiness of mental and emotional energy by keeping track of their dreams and by remaining objectively conscious in dreamless sleep. Through these mystic observations they study the movements of consciousness and are able to discern reality and non-reality and to situate themselves in the state which is detached from the normal operations of the mental and emotional force. For success in this course a yogi must distance himself from his memory, because its impressions aggravate the instability of the mind and motivate the emotional energies to create picture sensations for further cultural activity in the material world.
 
-
-
 **Verse 39**
 
 **यथाभिमतध्यानाद्वा**  
@@ -3568,8 +3266,6 @@ or to cosmic proportions.**
 
 Some commentators explain that this means the yogi gains control over what is atomic (aṇu) and what is cosmic (mahatva). However, on a close check of the Sanskrit term vaśīkāraḥ, this does not tally with what ŚrīPatañjali indicated. He means that the yogi is able to control not the atomic and cosmic but rather his relationship to the same. By controlling the forces in his psyche, his psychological energies, he acquires a greater degree of control over his response to what is cosmic and atomic. Those aspects remain the same in the universe he inhabits, but his response to them changes in such a way as to set him in a position of relative immunity to their negative or spiritually detrimental influences. This occurs because of the yogin's detachment, his lack of interest as described in text 12 and 15.  
   While a human being is almost compelled to react in a preset way to a set of circumstances or to a type of energy, the yogin, because he has switched his energy intake to a higher concentration force, can side-step most influences and remain in an unbiased status as conferred on him by his yoga practice.
-
-
 
 **Verse 41**
 
@@ -3603,8 +3299,6 @@ to a higher concentrating force occurs when a word, its meaning and the
 knowledge of the object  
 alternate within the mind, blending as it were.**
 
-
-
 *Commentary*:  
 There are various types of linkage between the yogin's partially or fully purified attention and some other person or force. It might be a person or force residing in his psyche or one that is exterior to it. When that linkage occurs with the analytical organ being operative, then it is called deliberative linkage or vitarkā samāpattiḥ. Śrī Patañjali defined each type of higher linkage to clarify the various levels of accomplishment of a yogi and to remove any vagueness regarding lower accomplishment and higher yoga.
 
@@ -3628,8 +3322,6 @@ This is a description of what a yogi experiences when he engages in non-analytic
   Shudda means purity but parishudda means complete, all around purity. When the memory is cleaned by a consistent and thorough practice, which results in stopping its impulsive activations and silencing its influences and biases, then the yogi is able to disarm the buddhi organ. This is the important clue in this verse.  
   Because the buddhi carries the weapon of analysis, it is able to blackmail and intimidate the self into cooperating with the plan of the impulsive but blind life force and the sensible but shortsighted senses. Thus when the yogin silences the weapon of analysis, he becomes freed from its harassments.  
   At that time the senses become powerless to bother him, because they lose the protective support of their powerful friend, the analytical intellect organ
-
-
 
 (buddhi). Thus the yogin no longer has to fight with the memory to stop it from whimsically and impulsively showing him so many impressions in their visual and audial forms. With such distractions reduced to nil, he progresses quickly and is able to move his attention into the realm of the chit akash, the sky of consciousness.
 
@@ -3662,8 +3354,6 @@ which has no characteristics**.
 
 *Commentary*:  
 As far as matter is concerned, a yogin has to research into it by linking his attention to its subtle states. Ultimately, he will reach a stage where he connects with the undifferentiated status of matter, which is its ultimate stage. At that point, his research into it terminates. Yet he still has to discover the role played by the Supreme Lord (īśvara) in activating and manifesting matter.
-
-
 
   Śrī Patañjali has graciously informed all student-yogins that when they reach the featureless state of the subtle material energy, they have reached the end of their research into it. But this must be discovered by each yogin during the linkage of his attention to higher concentration forces.
 
@@ -3699,8 +3389,6 @@ of the Supreme Soul and the limited one.**
 *Commentary*:  
 When the yogin passes beyond the realm of material nature, his attention links up with spiritual energy in total. Then he may, if he continues to
 
-
-
 progress, gain the competence described in this verse. That causes his limited. spirit to link up with the Supreme Personality. From that connection a serenity of spirit as well as a clarity of the relation between him and that Supreme Person develops.
 
 **Verse 48  
@@ -3732,8 +3420,6 @@ because that is limited to a particular aspect of an object.**
 *Commentary*:  
 Direct perception with the reality-perceptive insight is different to conventional perception which is based on what is heard or read of and what is surmised or reasoned out on the basis of lower sense perception. This is because in lower sense perception, the mind can only deal with one aspect at
 
-
-
 a time. It then presents this to the buddhi organ for analysis and comparison. Then through prejudiced notions one forms opinions. This is haphazard.
 
 **Verse 50  
@@ -3752,8 +3438,6 @@ acts as the preventer of the other impressions.**
   Śrī Patañjali composed a Sanskrit grammar which means that he was very knowledgable of the language. To deal with his Sanskrit, one has to know Sanskrit grammar thoroughly. Patañjali was very observant of his own yoga practice and had good schooling in it. Besides he is a mahayogin from his previous births. Thus to translate and comment on his sūtras is a challenge for anyone. In any case, he did us a great favor by explaining the stages of higher yoga, a process which to say the least, is vague even to many of the yogins who reached the higher practice. This is because of the subtlety of the experiences and the failure of yogins to observe the minute details as Śrī Patañjali did. By a careful study of the information, any yogi can get some idea of where he is located on the path.  
   Śrī Patañjali informed us, that the impression derived from the reality-perceptive insight acts as a preventer to the other impressions in the psyche which were formed by the lower buddhi organ and which bother a student yogi.  
   This information is significant, because in higher yoga one wonders when and where, one will get rid of the impressions which arise repeatedly in the mind and jar one loose from the prescribed focus. The answer is that until one develops the reality-perceptive insight as stipulated here, one will not be able to completely suppress the distracting impressions. One will have to tolerate them to a degree and use other partial controlling methods. This clears
-
-
 
 misconceptions and gives the student yogi hope that a time will come when the bothersome memories will be suppressed.
 
@@ -3775,8 +3459,6 @@ which caused the suppression of all other lower memories.**
 When all the impressions cease to be activated, when they all seem to be finished for good, then the highest contemplation occurs. That is a contemplation which is not motivated from this end of existence. It is controlled by and operated by the spiritual level of existence, from the other side of life, the chit akash.  
  Traditionally this first chapter is called samādhi pāda, which means the chapter defining Samādhi. The Second chapter is usually called sādhana pāda, which deals with the practice of yoga. That is of special interest to the student yogis. After describing the higher yoga, the so-called rāja yoga, Śrī Patañjali described the practice of yoga as it is. Anyone who calls himself a yogi or aspires for that honor, should pay close attention to the second chapter.
 
-
-
 **Chapter 2**
 
 **Sādhana Pāda:**
@@ -3797,8 +3479,6 @@ on the Supreme Lord is the dynamic kriyā yoga practice.**
 There are many Vaiṣṇava teachers who deride Śrī Patañjali as an impersonalist. This is because they misunderstand these sūtras and have a negative bias towards yoga. Even though Śrīla Vyāsadeva, his son Shuka and others like Nārada, themselves being leading Vaiṣṇavas, did perfect the dynamic kriyā yoga practice, still today many Vaiṣṇavas leaders who hail in their name, denounce the very process as being devoid of bhakti or devotion to Īśvara. Thus they ridicule it as being useless.  
   However, it is clear that this dynamic kriyā yoga practice was taught to Uddhava by Śrī Krishna in their final conversation. The three aspects mentions, namely austerity (tapaḥ), study of the psych(svādhyāya) and profound religious meditation upon the Supreme Lord (Īśvaraprāṇidhānāni) are absolutely essential for the liberation of a living being. Whether one cultivates this by long practice, as Śrī Patañjali described or one does so effortlessly as Śrī Caitanya Mahāprabhu did, it will still be necessary in one way or the other. There is no avoiding this. Ultimately it must be done.  
   Those who do the dynamic kriyā practice and who avoid the profound religious meditation upon the Supreme Lord, must substitute a profound type of religious meditation toward the yogi guru who gives them techniques. Ultimately, the offering of devotion to that person reaches the Supreme Lord, either directly or through the chain of siddhas, who ultimately must be connected to that ultimate teacher, the spiritual master of the ancient yogis. The profound religious meditation cannot be avoided in the course of dynamic kriyā yoga. This explains why some one may become a siddha even though he is not an avowed devotee of that Supreme Lord. It is because that person has an indirect but very effective connection to the Godhead.
-
-
 
 **Verse 2  
 
@@ -3831,8 +3511,6 @@ which is due to an instinctive fear of death.**
 *Commentary:*  
 The prime cause of the mental and emotional afflictions is spiritual ignorance (avidyā). Unfortunately this ignorance is primeval for many of the living entities who end up in the material creation. They have no idea of their spiritual whereabouts. They assume that their existence is mundane. By not
 
-
-
 understanding their essential self (sva-bhāva), they are subjected to endless mis-identities, on and on and on. It is by the grace of a guru that one gets some idea about the essential self. It is by the example of a guru that one makes the endeavor to release the self.  
   The misplaced seIf identity (asmitā) causes numerous afflictions in the day to day existence. By it, one attaches one's psychological energy to persons and things in a harmful way. It is by yoga discipline that one develops the power to control the sense of identity, so that it may focus only on higher realities and ultimately cause one to be situated in a permanent non-painful condition.  
   The tendency for emotional attachment (rāga) is an impulse which is curbed after one has mastered the pratyāhār fifth stage of yoga practice, consisting of withdrawing the sensual energies from their external pursuits and conserving that energy within the psyche for application to higher realities.  
@@ -3853,8 +3531,6 @@ periodic or expanded stages.**
 
 *Commentary:*  
 Spiritual ignorance(avidyā) is the root cause of the mental and emotional distresses which come upon a living entity, and which is perceived as an impediment by aspiring yogins. The other afflictions form on the basis of spiritual ignorance. These four others arise in the psychological environment of a person who is spiritually-ignorant of his self-identity, due to having not experienced it objectively and due to having a strong focus on gross existence.
-
-
 
 **Verse 5  
 
@@ -3885,8 +3561,6 @@ and what is seen through it, seems to be identical.**
 The drig shakti or drik shakti is the supernatural visionary power which emits from the spirit itself. It is not what is seen, even though it is the medium which is used directly or in conjunction with other perceiving instruments. Hence it is mistaken identity when one feels that what is seen is identical to his own vision.  
   First of all, the supernatural vision is experienced as one's attention on this level of existence. On this level one uses a subtle and gross instrument for focusing one's attention. The subtle instrument is the buddhi which is the brain of the subtle body. The gross instrument is the brain, and it's auxiliary nerves. When the attention is focused through the subtle reality, it suffers from inaccuracy. Therefore it is a mistake to think that it is true vision or direct perception.
 
-
-
 **Verse 7  
 
 सुखानुशयी रागः**  
@@ -3914,8 +3588,6 @@ results from a devoted attachment to distress.**
 Impulsive emotional disaffection is manifest as an instinctive dislike for something or someone. One can be come habituated to such disaffection. This results in a cynical attitude and abhorrence towards one object or the other. It destroys yoga practice.  
   Distress, though painful on the emotional level, maybe liked by someone. Thus the person is drawn into distressful situations again and again to derive the emotional satisfaction caused by linking the emotions to painful situations. All this should be discovered by a yogin, so that he can wean himself from distress and its causes.
 
-
-
 **Verse 9  
 
 स्वरसवाही विदुषोऽपि तथारूढोऽभिनिवेशः**  
@@ -3936,8 +3608,6 @@ Even though wise, a person has to curb his instinctive life force. This is why t
   In his translation, the Raj Yogi I.K. Taimni gave riding and dominating as the meaning of rūḍhah. His translation reads that abhiniveśaḥ is the strong desire for life which dominates even the learned (or the wise). In his purport, he stated that the universality of abhiniveśaḥ shows that there is some constant and universal force inherent in life which automatically finds expression in this "desire to live".  
   In higher yoga one realizes this when one traces that urge to the life force in the subtle body and then to the cosmic life force which dominates or rides on the back of the psyche, dictating by urges and motivations, how it should procure gross existences, maintain these and fight to remain rooted in these.  
   It is only when a yogin has developed a yoga siddha body that he becomes totally free of that lifeforce impulse which forces him to procure a foot hole in the gross existences for participation in the struggle for survival in lower worlds.
-
-
 
 **Verse 10  
 
@@ -3968,8 +3638,6 @@ to a higher concentration force or person**
 *Commentary:*  
 This advice is direct. It does not state that there are alternate methods for dealing with the vibrational motivations which spring from the abhiniveśaḥ urges which cause a yogi and others to pursue mundane life with a wanton passion which usually cannot be controlled. This is because there are no other methods but the attempt at effortless linkage of the attention to higher concentration forces or persons. This is the only method that reveals to the yogin the various parts of the psyche and the complications he faces in trying to purify his nature. The vibrational modes which apply to the lower psychic level and to the physical planes, are not to be silenced except by causing the mind to abandon those lower planes. The techniques are realized by practicing higher yoga.
 
-
-
 **Verse 12  
 
 क्लेशमूलः कर्माशयो दृष्टादृष्टजन्मवेदनीयः**  
@@ -3987,8 +3655,6 @@ is experienced in realized and non-realized births.**
 This karma āśayaḥ or psychological storage-compartment which holds the compacted impressions which are left by the performance of cultural activities, is manifested to us in meditation as memory. It is very troublesome and stalls the yogi in his attempts to master pratyāhār, dhāraṇā and dhyāna. A yogi may be stalled for years by motivations which come out of the memory compartment. When the memory emits impressions, they are translated when they hit the mento-emotional energy, the citta. Then the buddhi organ takes possession of the pictures and sounds and creates further impressions, causing the psyche to create desires and motivations to act. This is the bane of higher yoga. Until a yogin can control this, he does not progress in the dhāraṇā and dhyāna practice.  
   Some translators have innocently translated dṛṣṭa adṛṣṭa janma as present and future births, but this is a mistake. Dṛṣṭa does not mean what is present in terms of time and adṛṣṭa does not mean what is not present today. Dṛṣṭa means observing or seeing, perceiving. Adṛṣṭa is the opposite, meaning births that a yogi does not objectively realize. In other words, in some births one can realize that it is a temporary circumstance one has entered into and in other births due to limited perception one does not realize this. As for instance, in the case of souls who take animal or vegetative forms. They have no idea that they are in a birth for a limited amount of time. Still, as Śrī Patañjali stated, the person will experience the impressions which were in his psyche, and which were left behind by his past acts in the cultural worlds. He cannot avoid those experiences even though he may not make any sense of why the impressions go through his mind.  
   The impressions are experienced even by animals and trees but they do not understand what they perceive. The spiritually-ignorant human beings do not understand the impressions either. They try to rationalize all of it in terms of what they remember in the present life. A yogi, by higher practice, has a big advantage, because according to his level of advancement, he may understand the impressions to a lesser or greater degree. He may also gethelp from his teachers, who are conversant with the forces in the psyche.
-
-
 
 **Verse 13  
 
@@ -4020,8 +3686,6 @@ The impressions from previous cultural activities form happy or unhappy times ac
   The merits are those which are approved by nature. The demerits form from Her disapproval. However, a living being must some times wait for many years, or even many thousands of years before he can enjoy or suffer for breaking or confirming to a law of nature.  
   His past cultural acts which left impressions in his subconscious memory (karmāśayaḥ) remains there until it senses a favorable circumstance for its conformity to the matching meritorious or demeritorious reaction.
 
-
-
 **Verse 15  
 
 परिणामतापसंस्कारदुःखैर्गुणवृत्तिविरोधाच्च दुःखमेव सर्वं विवेकिनः**  
@@ -4050,8 +3714,6 @@ heyaṁ - that which is to be avoided; duḥkham - distress; anāgatam what has 
 
 **Distress which is not manifested is to be avoided.**
 
-
-
 *Commentary:*  
 For liberation, a yogin will have to reach a stage where he can side-step all the merits and demerits which are due to him from providence but which he may side-step. Both happiness and distress which are coming on the basis of cultural activities from the past are to be avoided at all costs. However a yogin has to advance sufficiently before he can side-step these. It requires insight as to the psychological receptacles which are submissive towards the manifestation of the merits and demerits. A yogin has to close off the opening to such receptacles by practicing kriyā yoga.
 
@@ -4070,8 +3732,6 @@ and what is perceived.**
 When we identify wholly and solely with what we perceive, we loose objectivity and become attached, rather than detached. This causes a misplaced identity with things which are not in our interest and which make us lose objectivity. Then we experience an impulsive interaction between the new impressions received through the senses and the old impressions stored in the memory (karmāśayaḥ). The analytical part of the buddhi organ then hashes over the matter and comes to a conclusion which is shown to us internally in the mind through the magical imagery of the imagination orb. Thus we again come under the spell of the function of that psychic organ.  
   If a yogi reaches a stage of control, where by he stops the impulsive sensual intakes or puts a damper on them as soon as they enter the psyche, he realizes himself as being the perceiver or observer. Then he sees the operations of the senses and the machinations of his memory as beingcounterproductive. These interact to produce new images which he usually identifies with, to his detriment.  
   In higher yoga, one is trained in how to distinguish the various parts of the buddhi organ subtle mechanism and the citta mento-emotional energy gyrations. Then one puts an end to the impressions and their varied motivations which destroys one's ability to see beyond the material world.
-
-
 
 **Verse 18  
 
@@ -4103,8 +3763,6 @@ are those which are specific, regular, indicated or not indicated.**
 *Commentary:*  
 By higher yoga, a yogin gets to see all this clearly: how material nature has certain over-riding phases which it shifts into by its own accord, and which the yogi can enter once he mastered dhāraṇā linkage of his attention to higher concentration force, either in or beyond material nature.
 
-
-
 The specific objects are those which are perceivable on the gross plane of existence and which are highlighted to our senses because of strong attraction. The non-specific are those gross objects which exhibit mild attraction.  
   These are regular items like dirt. Even though a gem is a form of dirt, still it is specific. While a speck of mud or a grain of sand are regular, being non-specific. These all have subtle counterparts, which are categorized in the same way and which can be seen through the perception of the subtle body when it is highly energised.  
   That which is indicated is the subtle matter which we may detect with electronic instruments or discover by mystic techniques in higher yoga. That which has no indication at all is the material energy in it's quiescent stage where it has no differentiation. It is as it were, just nothing at that stage. In higher meditation, one perceives each of these.
@@ -4122,8 +3780,6 @@ but his conviction is patterned by what is perceived.**
 *Commentary:*  
 In actuality the dṛśi or consciousness which spiritually emanates from the individual self, is itself that self and that self alone. However, due to it's absorbent nature, the self loses tract of itself and instead adopts patterns which form in its consciousness as conviction. On the assumption of these convictions one is motivated into cultural activities.  
   Śrī Patañjali Maharshi used the technical term mātra which means a measure of or to an extent. The individual soul is limited. His consciousness radiates only to a certain extent, before it becomes attenuated or is linked to lower or higher concentration forces which help to off-set its limited range. In the material creation, with a psychic body, the perceiver, the individual self, is itself the pure extent of its own consciousness. That is its very form. However it functions following along behind what is perceived, thus it is influenced not to realize itself by itself, but to accept itself as its perceptions. These perceptions occur when its pure consciousness is linked to a sensing mechanism. The spirit derives a correct or erroneous notion by sensual influence. By that he transmigrates from one situation to another and is implicated.
-
-
 
 **Verse 21  
 
@@ -4161,14 +3817,10 @@ kaścid yatati siddhaye
 yatatām api siddhānāṃ  
 kaścin māṃvetti tattvataḥ**
 
-
-
 *Someone, in thousands of human beings, strives  
 for psychological perfection. Of those who  
 endeavor, even of those who are perfected,  
 some one knows Me in truth.(Gītā7.3)*
-
-
 
 **Verse 23**
 
@@ -4199,8 +3851,6 @@ There, in Him, is found the unsurpassed origin of all knowledge.*
 The ultimate purpose of the conjunction is for the limited beings to objectively realize their spiritual selves, apart from and distinct from the subtle material nature which they accept initially as their personal psychology.  
  The individual self is supposed to be the master, the swami of his psychological powers but initially he is overtaken, influenced and dominated by them. Thus he has the task of realizing what happened to his autonomy.
 
-
-
 **Verse 24  
 तस्य हेतुरविद्या**  
 *tasya hetuḥ avidyā*
@@ -4229,8 +3879,6 @@ of the perceiver from the mundane psychology.**
 
 *Commentary:*  
 Yogis should take care in studying this verse, to get Śrī Patañjali's definition of kaivalyam. This term has come down to us as meaning various forms of liberation, all depending on the spiritual sect which advocated it. However, to understand Śrī Patañjali, we must stick to his definitions. Clearly, kaivalya is defined in this verse, within the context of what Śrī Patañjali spoke of, which is the saṁyogā or conjunction between the individual spirit and his subtle
-
-
 
 mundane psychology (sva). This psychology is hinted at in the second verse of  
 chapter one, as operational vṛttis:
@@ -4269,8 +3917,6 @@ tasya - of his; saptadhā - seven fold; prānta - boundary or edge + bhūmiḥ -
 **Concerning the development of his discriminative insight,  
 there are seven stages.**
 
-
-
 *Commentary:*  
 Śrī Patañjali clarified that in developing the discriminative insight, one moves through seven stages. It does not come overnight. One develops it step–by–step.
 
@@ -4306,8 +3952,6 @@ or persons, continuous effortless linkage of the attention
 to higher concentration forces or persons  
 are the eight parts of the yoga system.**
 
-
-
 *Commentary:*  
 Śrī Goraksnath in his writings gave six parts to yoga, leaving out the preliminary parts of yama, moral restraints and niyama, recommended behaviors. This is because those two are preliminary. A person who has not integrated those, must instill them in himself as he practices the advanced portions. I experienced many students who are not masterful at the preliminary stages. They should master these as they proceed or find that their lack of skill in cultural dealings causes impediments. According to the advisories and warnings issued by Śrī Krishna to Arjuna in the Bhagavad–gītā, a person who does not have an exemption from cultural activities, cannot succeed fully in yoga. Actually the sooner that a yogi can realize this, the better and more advanced he will be. If he does not cooperate with the central person in the Universal Form, with Śrī Krishna, he will not be able to get to the samādhi stage. It will be impossible.  
   Śrī Gorakashnath did not want the Haṭha yogis, his students, to waste their time and energy in the moral field, in trying to perfect righteous living, but nevertheless, if one does not work his way cautiously through the cultural world, one will fail at yoga practice. We must understand that Śrī Gorakshnath is a birth taken by Śrī Skanda Kumara, the celibate son of Lord Shiva. As such he never advocates grhasta ashram but that does not mean that it has no value. We have to understand its value, just in case we require another human form. The moral restraints and recommended behaviors have their usage to keep us on the good side of King Dharma, the supernatural person who sponsors righteous life style.
@@ -4328,8 +3972,6 @@ and non–possessiveness are the moral restraints.**
 Some authorities list other moral restraints, but these given by Śrī Patañjali cover the entire listing of the negative qualities which are to be avoided. This is the list of qualities which should be cultivated if they are not innate to one's character.  
   Ahiṁsā is the attitude of genuine harmlessness towards other creatures, not just human beings. Of course a yogi has to know that the human form of life is comparatively more valuable than other species, but he should know as
 
-
-
 well that creatures who are in other life forms must fulfill their gratifications there before they could be permanently transformed to higher forms. Their lives should not be underrated. A yogi should not assume a master-of-the-species attitude. He should not harm any other creature willfully. He should situate himself circumstantially so that occasions for killing do not arise.  
   According to Lord Mahavira and other Tirthankaras in the Jain disciplic succession, we have no business killing other creatures. A yogin should be non-violent. If one finds that he has a violent nature or that a part of his psyche takes pleasure in harming others or in seeing others being hurt, then he should work to purify that part. Each yogin has to realize defects and work to remove them by the relevant yoga kriyās.  
   Satya or realism includes truthfulness, but for the yogin it is more than conventional honesty. It has to do with developing the deep insight described by Śrī Patañjali in the previous verse as jñāna-diptiḥ and as vivekakhyātiḥ. This gives one deep insight into reality, even to perceive past lives and to properly interpret the saṁskāra subconscious impressions which are buried deep in memory and which surface from time to time.  
@@ -4337,8 +3979,6 @@ well that creatures who are in other life forms must fulfill their gratification
   Brahmacarya has a conventional meaning as celibacy but it is more than that. It is an active or dynamic celibacy which is assisted by yoga practice and which results in the perception of brahman or spiritual reality. This means mastership of celibacy yoga, so that even in an adult body, the sexual urge is sublimated and does not arise to disturb the psyche. A celibate yogi should not have sexual intercourse unless he or she desires to have a child. He should ideally only have as many intercourses as there are children produced from his or her body. This is the ideal behavior. Failing in this a yogin has to work with his psyche to improve its sexual outlook, so that eventually its sexual needs are eliminated by the practice of celibacy yoga and kuṇḍalini yoga. Without attaining celibacy one cannot become liberated. It is not possible, because the energy of the subtle body will not be efficiently used if sexual expression continues through it. Thus one will not realize the subtle mundane existence which is preliminary for spiritual seekers.  
   Aparigrahāḥ or non-possessiveness has to do with understanding that whatever we encounter in the gross or subtle existence is the property of more powerful beings. The only real possession we have is the task of our purification. The critical nature within us which usually seeks external expression should be directed backward into the psyche. This redirected critical force improves our condition by the application of corrective tendencies.  
   Overall these moral restraints are necessary for a yogi, but he does not master these initially, even though this is listed as the first stage of yoga. He masters this a little and then he continues to get more control of his nature as he advances and sees more and more how subtle the defects are and how mystic and specific he must be to root the mout.
-
-
 
 **Verse 31  
 
@@ -4373,8 +4013,6 @@ are the recommended behaviors.**
 *Commentary:*  
 Many religious leaders ridicule Śrī Patañjali because he classified profound religious meditation to the Supreme Lord as part of an elementary stage in yoga practice, but just as the first stage remains relevant throughout the practices (sārva-bhaumāḥ verse 31), so also every other stage remains in place, and is improved upon as the yogi moves to higher levels.  
   According to some critics, Śrī Patañjali hawked too much about yoga and neglected the bhakti or bhakti–yoga, giving it an insignificant place in the layout of spiritual disciplines. However if one checks the Bhagavad–gītā carefully, he will discover that Śrī Krishna, who declared Himself as the Supreme Lord, gave high precedence to yoga.
-
-
 
 The other aspect of Śrī Patañjali's treatment of devotion to God, is understood when we consider the term praṇidhānāni. Śrī Patañjali spoke of profound religious meditation. This is a mystic process of internal focus upon the Supreme Lord, to reach the Divinity in a totally different dimension. But why one may ask did Śrī Patañjali not place this as the foremost aspect of yoga practice? The reason is simple: One cannot perfect this unless one first masters yoga. The skill to do this comes only by perfecting the yoga austerities.  
   In the Bhagavad-gitā, the purpose of yoga is defined by ŚrīKrishna in the  
@@ -4411,8 +4049,6 @@ one should conceive of what is opposite.**
 *Commentary:*  
 When there are any doubts regarding the moral restraints and the recommended behavior, a yogi should counteract that state of mind by conceiving of the opposite. In other words, sometimes a yogi is pressured by the same status, location, time or condition mentioned in verse 31. Then he may cast aside the five great commitments, feeling that he is allowed to do so
 
-
-
 because of a particular status he is awarded by providence, or because of being in a certain location, or through the time of an occurrence, or because he was pressured by certain conditions. However, Śrī Patañjali objects and states that the yogi should not give-in but should hold on to the principles by considering and contemplating the opposite type of actions which conflict with the five great commitments.  
   If a yogi remembers this instruction his course into higher yoga would be accelerated, otherwise he will be stalled in lower stages for a very long time. Some times a yogi gets an idea to do something which jeopardizes his practice. He may feel that he must do it to comply with a pressure of providence which is forced into his mind. Usually, such a situation will pass on even if the yogi does not satisfy the urges, but if he is rash, he will act in the wrong way and forestall his practice. Thus Śrī Patañjali ask that there be considerations to the contrary, anytime we get some idea to do something that is against the moral principles.  
   Sometimes in the astral world and in parallel dimensions a yogi is circumstantially positioned for breaking moral rules, but when he gets back into this material body and recalls the incident, he regrets or thinks that for some reason he was unable to use his discrimination. Śrī Patañjali mentioned this discriminative insight before under the terms of vivekakhyātiḥ. Unless this is developed to the extent that it is carried everywhere the yogi may go through this and into other dimensions, he will of necessity break the moral restraints here or there, whenever his discriminative insight vanishes or is weakened.
@@ -4433,8 +4069,6 @@ and which are caused by greed, anger and delusion,
 even if minor, mediocre or substantial,  
 cause endless distress and spiritual ignorance as the results.  
 Therefore, one should consider the opposite features.**
-
-
 
 *Commentary:*  
 Violence and related actions are those which run contrary to the moral restraints of non-violence, realism, non-stealing, sexual non-expressiveness and non-possessiveness. Any ideas which run contrary to morality and which seem to justify such immoral acts are to be abandoned. If a yogin finds that he does not have the power to abandon immoral acts, then he should think deeply of the benefit of morality. This may give him the required detachment and invoke in him sufficient patience so that he restrains from vices until the impulsions pass out of his mind or loose the ir impulsive force.  
@@ -4460,8 +4094,6 @@ the abandonment of hostility occurs in his presence.**
 *Commentary:*  
 This charm over the violent nature of others is sometimes exhibited by great yogins. Sometimes haphazardly it is manifested in the life of student yogins. It begins in human society where people who are normally hostile to each other exhibit undue kindness even to their enemies, when they are in a presence of a yogin.  
   The force of the non-violent nature of the yogi may disarm and temporarily disintegrate the hostile nature of others. Sometimes this is shown when a fish-eating human being is in the presence of a great yogin. The fish-eater feels as if he cannot eat fish but must eat vegetarian or fruitarian meals. But that animal nature is again manifested when the person gets out of the range of the yogin. On the contrary however, some times it is seen that a great
-
-
 
 yogin has no effect on a cannibal, or flesh-eater. This is because the lower tendencies may be so strong as to resist saintly influence or it may be that the yogin assumes a sensual withdrawal attitude, intending not to adjust the life style of others.
 
@@ -4491,8 +4123,6 @@ all precious things wait to serve a yogin.**
 
 *Commentary:*  
 Still, usually a yogin is not concerned about these things. This is because his mind is fixed on the most precious thing, which is his yoga practice. Thus many opportunities for exploitation come to a yogin but he does not take advantage of them. People often wonder why a great yogi wastes his life away, and why he does not exploit all the people and resources which are in a position to be used by him. The answer is that a yogi is too preoccupied with yoga practice. A great yogin is easily discovered if one searches for the person around whom, all sorts of wealth manifest but who does not use any of that wealth and who is indifferent to it, seemingly stupid, seemingly not realizing the worth in valuables and in the cheap labor which could be derived from others.
-
-
 
 **Verse 38  
 
@@ -4533,8 +4163,6 @@ When a yogi has mastered the quality of non-possessiveness in relation to this g
 **From purification comes a disgust for one's own body  
 and a lack of desire to associate with others.**
 
-
-
 *Commentary:*  
 True purification comes after long and hard yoga austerities. Thus the student yogi once he has earned purity of his psyche, develops a disgust for the same material body through which he worked hard to develop that purity. This is because the material body and the subtle one which caused it, has an innate tendency to absorb the pollutions which pull an ascetic down from yoga practice. As soon as a student yogi stops practice, he regresses. Even though the material body is an asset, still it always remains as a liability so long as it exists. Worse still, is the subtle body, because, until one can shed it off and take on a yoga siddha form, one is in danger of being degraded. The subtle body is worse than the gross form when it comes to adaptation and acceptance of vices.  
   A yogi develops a lack of desire to associate with others, except for his advanced teachers. This is because in such association he or she always runs the risks of degradation, due to susceptibility to the habits of others. People think that a yogi hates them or avoids them. Actually a yogi has no time to hate anyone because he has to attend to his practice and the energy which would be used to hate others is needed to accelerate the progress. But he develops a desire not to associate with others. This happens as a matter of course. It is a result of higher yoga practice.
@@ -4555,8 +4183,6 @@ vision of the spirit and fitness for abstract meditation**.
 *Commentary:*  
 Purification of the psyche (sattva-śuddhi) is possible only after celibacy yoga is mastered. Then the student yogi develops benevolence towards everyone. This is a type of detachment, but in its social application it functions as benevolence or good will towards one and all.  
  This student yogi develops the ability to link his mind to one concentration force in the dhāraṇā sixth stage of yoga practice. He masters the sensual energy by perfecting the pratyāhār fifth stage, and is able to begin the dhyāna seventh stage, to have the vision of the spirit and a fitness for abstract meditation. This is not impersonal meditation as some profess, but it is rather meditation on levels above this physical world and above the lower astral regions.
-
-
 
 **Verse 42  
 
@@ -4597,8 +4223,6 @@ comes intimate contact with the cherished divine being.**
 *Commentary:*  
 Śrī Patañjali has not named the iṣṭadevatā, the cherished divine personality, who the student yogi aspires to be with. However for the yogi, that person might be different than He is for some other ascetic. There are many of these divine beings who serve as cherished Lords of the limited entities.
 
-
-
 However, when the yogi has achieved complete purity of the psyche, he gets a divine vision through which he meets the cherished deity face to face and can relate with that Personality of God head.
 
 **Verse 45  
@@ -4636,8 +4260,6 @@ prayatna – effort; śaithilya – relaxation; ananta – endless, in finite; s
 
 **It results in relaxation of effort and the meeting with the infinite.**
 
-
-
 Commentary:  
 Āsāna is perfected when it becomes steady and comfortable, so much so that the yogin relaxes his efforts to hold the body in the posture. He shifts his attention to link it with the infinite.
 
@@ -4670,8 +4292,6 @@ is attained.**
 The prāṇāyāma cannot be mastered properly until one has mastered postures or asanas but that does not mean that preliminary prāṇāyāma cannot be learned before hand. All the stages of yoga are learned one by one or even haphazardly according to one's destiny regarding availability of knowledge-able teachers. One cannot focus properly on the vital force until one has mastered a suitable posture. This is the point but one can become familiar with the various prāṇāyāmas before hand.  
   A yogin has to learn how to separate the flow of the breath, so that the inhalation is distinct from the exhalation, so that there is a pause between these. This is why the word vicchedaḥ was used. It means separation, cleavage, or gap. Generally, mammals breathe in and out without pause because their breath is not complete or sufficient. It is usually shallow. The out breath is rushed in to speed up the next intake of air. When one reconditions his lung apparatus, so that the intake is complete, this rush for
 
-
-
 exhalations in order to inhale again, ceases. And the separation of the intake and out breath becomes evident, along with the benefits of that for meditation.
 
 **Verse 50  
@@ -4702,8 +4322,6 @@ bahya – external; abhyantara – internal; viṣaya – objective; akṣepī
 the objective external and internal breath regulation  
 is the fourth type of prāṇāyāma.**
 
-
-
 *Commentary:*  
 In the previous sūtra, Śrī Patañjali listed three types of operations, relating to internal, external and restrictive operations of the breath. Then he gave a fourth operation having to do with transcending the objective of the preliminary three operations.
 
@@ -4733,8 +4351,6 @@ to a higher concentration force or person.**
 
 *Commentary:*  
 Dhāraṇā practice requires a preliminary mastership in certain aspects of prāṇa energy control. This is why when someone sits to meditate without first doing prāṇāyāma, he cannot be successful even though he may imagine for himself in peace, happiness and light. One has to make the mind fit for yoga practice (yogyatā manasaḥ). The mind will prevent the attention from linking to a higher concentration force or person if the mind itself is not surcharged with a higher grade of pranic energy. It will be unable to make a higher linkage, except now and again, by a fluke, haphazardly. For consistent practice one must do the āsana with prāṇāyāma daily before meditation practice.
-
-
 
 **Verse 54  
 
@@ -4768,8 +4384,6 @@ comes the highest degree of control of the senses.**
 *Commentary:*  
 Pratyāhār practice when mastered, gives the student yogin, the qualification to practice higher yoga, which are mainly actions on the mystic plane.
 
-
-
 ***Chapter 3***
 
 ***Vibhūti Pāda:***
@@ -4801,8 +4415,6 @@ tatra – there, in that location; pratyayaḥ – conviction or belief as menta
 of one's instinctive interest that is the effortless linking  
 of the attention to a higher concentration force or person.**
 
-
-
 *Commentary:*  
 The key term in this verse is pratyayaḥ. Shivram Apte in his Sanskrit English Dictionary gave the following meanings: conviction, settled belief, trust, faith, conception, idea, and notion. I have given instinctive interest as the meaning. In any case, when that (pratayaya) flows in a continuous threadlike motion at the place of focus, then it is the dhyāna, seventh stage of yoga practice.  
   The Raj Yogi I.K. Taimni gave stretching or streaming unbrokenly as one, as the meaning for ekatānatā. A student yogi would do well for himself by carefully studying the Sanskrit of this verse, because it is not sufficient to say that dhāraṇā is concentration, dhyāna is contemplation or meditation as we are accustomed to. Such definitions are too vague.
@@ -4824,8 +4436,6 @@ to the special person, object, or force.**
 *Commentary:*  
 Samādhi is not defined here as it is popularly described by so many meditation authorities, by those who dislike it or shun it as being impersonal. There is no word here that says that samādhi is a void or that it is sunya. The word sunya occurs in reference to the svarupa or form of the yogi, and only in the sense that while he is in contact with the force, object or person of his interest, he is so much connected to it that his own form seems as if it were not there and that only the force, object or other person being contacted was there. The Sanskrit article iva means 'as if'.  
   When there is continued effortless linkage of the attention to a higher concentration force, object or person, the yogi's attention is completely or near completely given over to that higher reality, so that it feels as if he is not there (iva sunya) and that only the higher reality is present with illumination (nirbhasam). This gives him a thorough insight into the said force, object or person.
-
-
 
 **Verse 4  
 
@@ -4862,8 +4472,6 @@ taj = tad = tat – that; jayāt – from the mastery; prajñā – insight; alo
 of the mento-emotional energy,  
 one develops the illuminating insight.**
 
-
-
 *Commentary:*  
 This illuminating insight is not an understanding in the mind or mere insight or intuition. It is rather the illuminated buddhi organ in action, peering into parallel dimensions and spiritual atmospheres. With that illuminating insight, one sees visually into other worlds through one's buddhi organ and also directly through a vision which is formed by one's attention.
 
@@ -4891,8 +4499,6 @@ these three higher states concern the psychological organs.**
 
 *Commentary:*  
 Dhāraṇā, dhyāna and samādhi concern the psychological organs. These concern mystic practice as assisted by the physical and social practices which involve yama, niyama, āsana, prāṇāyāma and pratyāhāra. While in the five preliminary stages there are physical actions, in the three higher stages, it is mostly mystic actions having to do with controlling, observing and operating psychological organs in the subtle body.
-
-
 
 **Verse 8  
 
@@ -4926,8 +4532,6 @@ cittānvayaḥ nirodhapariṇāmaḥ*
 
 vyutthāna – expression; nirodha – suppression; saṁskārayoḥ – of the mento-emotional impressions; abhibhava – disappearance; prādurbhāvau – and manifestation; nirodha – restraint, cessation; kṣaṇa – momentarily; citta – mento-emotional energy; ānvayaḥ– connection; nirodha – restraint, pariṇāmaḥ – transforming effects.
 
-
-
 **When the connection  
 with the mento-emotional energy momentarily ceases  
 during the manifestation and disappearance phases  
@@ -4940,8 +4544,6 @@ that is the restraint of the transforming mento-emotional energy.**
   A student yogi should note what is emotional and what is mental energy. He should note that the two energies are interchangeable under certain psychological circumstances. Furthermore even though the mental energy hold to its own integrity, showing a distinction between itself and the emotions, still the two energies do communicate with each other. Beyond that, a student should note how impressions arise and subside. Anyone who has done concentration, contemplation or meditation, knows very well that the impressions come and go of their own accord. But Śrī Patañjali spoke of the interval (kṣana) between the expression of an idea in the mind and the suppression of that very same idea. At first this sounds easy. But let us think of it again.  
   When an idea arises in the mind, depending on its value to the emotions, it may be expanded or it may be dissipated immediately. If it is expanded, what really takes place? If it is expanded the idea ceases for a split second. The memory in conjunction with the imagination creates another idea which is associative to the one which disappeared. Śrī Patañjali wants us to focus on that split second cessation (nirodhakṣana). He wants us to extend that split second to a longer, much longer period. If we could keep the mind in that state for long we would enter into samādhi.  
   Of course such a feat is easier said than done. Sometimes effortlessly, the mind remains for five or ten seconds in that blank state. Expert yogis hold the mind in that state for minutes and some do so for hours at a time. This is their accomplishment of samādhi. One will find that if he can hold the mind there, the imagination faculty will change into being spiritual vision, an actual illuminating sight, an eye. With the help of Lord Krishna, Arjuna had some experiences of this at Kurukshetra. When again Arjuna wanted that insight, Śrī Krishna with mild disappointment, declined. He said, in the AnuGītā, that He could not again impart it to Arjuna because it involved a yoga siddhi which Krishna expressed at Kurukshetra for a specific purpose.
-
-
 
 By careful study of this verse, one will get an idea of what is required for yoga success, which is the prolonging of the momentary blankness which occurs in the mind between the expression within it of one idea and another. The whole problem with meditation has to do with this.  
   For success, a yogi must be prepared to spend years if necessary noticing that momentarily blankness and practicing to hold the mind there. Initially, it will seem that it is impossible to stop the mind there, but by regular practice for a long time, the period for holding the mind in that state is extended.
@@ -4974,8 +4576,6 @@ is the change noticed
 in the practice of continuous effortless linking of the attention  
 to higher concentration forces, objects or persons.**
 
-
-
 *Commentary:*  
 We are reminded that the samādhi stage will come after long practice. It will come gradually over time of practicing samyama, as Śrī Patañjali defined, being the practice of dhāraṇā which progressed into dhyāna, which then changes into samādhi.  
   As one tries to practice samādhi, he will find that there is a decrease in the mind's many objectives and an increase of its tendency for one focus as dictated by the practice. This one focus is not a focus on a deity but rather it is the focus mentioned in verse 9 of this chapter, which is the restraint of the transformations of the mento-emotional energy.  
@@ -4999,8 +4599,6 @@ that is the transformation called
 This condition of mind is related to everything which was described in this chapter so far. As the yogin gets to the stage where his mind content is no longer dominated by memories, he is able to keep his attention in a quiescent state, (praśānta -vāhita verse 10). However, this is maintained only by keeping the expressive and depressive restraining gyration of the mind out of contact with the memory.  
   At any time, when the attention is allowed to contact the memory, either by accident or as induced or deliberately, the mind content will be altered to accommodate various images and sounds (sarvārthatā, verse 11). That is
 
-
-
 counter productive, being regretted by the yogi, since it puts him at odds with his objective, which is to cease such mental operations completely.  
   The subsiding and emerging nature of the mind cannot be changed but a yogi can get relief from it by his assumption of a focus into other dimensions and by his freezing the mind by prāṇāyāma practice. But as soon as it is possible, the mind will be found to have reverted back to its essential nature. This is, in a sense, disgusting and it causes the yogin to feel that somehow he has got to get rid of such a mind.  
   It is not easy to have just one aspect in front of the attention. By nature the mind seeks to change its position by an in and out, rising and falling, creating and disintegrating function. This is the natural condition of thenormal mindal stage. This is why it is necessary to do prāṇāyāma. By regulating the breath and by surcharging the mind with a high pressure charge of prāṇa, it slows down or abandons lower diversions altogether. But then again as soon as the higher pressure charge dissipates, the mind returns to its normal gyrations, except in the case of those yogins who have developed a yoga siddha body. Skeptics therefore suspect that yoga is a waste of time. They feel that no one can overcome the gyrating nature of the mind.  
@@ -5014,8 +4612,6 @@ counter productive, being regretted by the yogi, since it puts him at odds with 
 
   The diffused light which is actually light mixed with cloudy energy or misty force, will be separated such that the misty force or cloudy energy will disappear, leaving only light. When a yogi attains this practice, it is understood that he mastered the seventh state of yoga called dhyāna.  
   Some people think that this practice includes imagining a deity, asupernatural, or spiritual being, or imaging a subtle primal force, but that is incorrect. The yogi only needs to get his supernatural and spiritual visions to
-
-
 
 be operative. Then he sees everything in the chit akash, the sky of consciousness. He does not need to imagine any supersubtle or divine objects.
 
@@ -5047,8 +4643,6 @@ reach full retrogression, that is the most basic condition.**
 *Commentary:*  
 Most commentators attribute dharmi as the prakṛti energy, or the most subtle form of material nature. This is correct. However, in the case of the yogi, his research into it has to do with finding a technique for abandoning it once and for all, for complete detachment and independence from it. Thus the assessment of it occurs within his psyche within the mento-emotional energy. Once he gets down to its most basic condition, or to the ultimate substratum of material nature, he can take a good look at it with supernatural vision and make his decisions for not responding to it anymore. Once he sees the course of its progression into manifestation, and retrogression out of manifestation,
 
-
-
 he will no longer be afraid of it or be attracted to it. Then it served its purpose for him and he becomes liberated quickly and definitely.  
   Obviously we have got some desire to be in touch with material energy. Thus it is necessary that we understand our attraction to it and eliminate that fondness for it or eradicate and dismember whatever it is that influenced us to embrace it.
 
@@ -5068,8 +4662,6 @@ A student yogi may be come preoccupied with the various changing scenes, which o
   A person entering a film theater usually becomes enthralled with the images on the screen. But that is childish. He should be interested in the projector mechanism which causes the movie to be shown in the first place. It is the working of that mechanism that is important, not the content of the various movies which are shown through it. When a student yogi gets this understanding, he becomes freed. So long as one is attracted primarily to the mind content, one will not adhere to the instructions for higher yoga, but will instead, complain about the disciplines just as how a child cries if his parent takes him out of a movie theater before a film is finished.  
   The parent wants to show the child the projection apparatus and the operator of that mechanism, but the child finds the projection room to be dull and boring and not as stimulating as the film show it produces. He feels that it
 
-
-
 is not interactive with him. So the student yogi usually fights tooth and nail with advanced teachers who come down from siddhaloka to free them.  
   The difference in the sequential change of ideas and images in the mind occur because of how the memory and imagination interact with the information which comes in a compressed form from the senses from the subtle and gross world. This admixture is bewildering. Advanced yogis advise us to forgo them, to just ignore them. Their policy is that instead of looking at those impressions, we should just avoid them all together. This avoidance disempowers them and weakens their grip on us.  
   The analogy of the boy in the movie house would help in this case. The more and more he stays out of the movie house, the more detached and disinterested he may become. The more he goes to it, the more his nature reacts in response to it and the more attached and interested he becomes. But in that case his interest is being abused, being needlessly exploited by fiction. This is why in India, there was a period of history where many leading yogis condemned human consumption of name and forms. If we be come enthralled again and again with names of things and with the forms of things, it will cause us to become more and more fascinated with this world and that will push us away from liberation.  
@@ -5077,8 +4669,6 @@ is not interactive with him. So the student yogi usually fights tooth and nail w
   Even though this is the solution, this is easier said than done. When one becomes determined to follow this advice, he discovers that somehow he is enthralled by the content of the mind. That itself entraps him. At least that is how a student yogin will feel. But again, he should study the operation of the entrapme nt mechanism.  
   The boy in our analogy must study how the movie building was constructed with a small door for entry on a back street and a large attractive door for entry on a main street. The very construction of the place is bewildering and causes the body to go into the theater through the front door, which leads into the gallery where the movie is showing. Once the boy understands this he can avoid that door and find his way to the small door on the back street which leads to the projection room where he will be able to study something that is of vital importance to him, which is the way the projection apparatus operates.  
   Sometimes a student yogi finds that he repeatedly finds himself in front of a series of images which are projected by the imagination faculty or which were released from the memory or from the sensual organs which collect information. Before he can realize it, or be objective to it, he finds himself looking, analyzing, interacting with these images. This procedure, though. impulsive must be stopped by the student yogin.
-
-
 
 **Verse 16  
 
@@ -5106,8 +4696,6 @@ Everything about the future is potentially present in the existence right now. T
   One should not interpret this verse to mean that a yogi can know everything. A yogi can know much if he applies himseIf sufficiently and can enter into the cosmic memory and decipher its impressions. First of all, he must be allowed to do that. This allowance is not always granted to a yogi by the Supreme Being. However a yogi does not need the permission of the Supreme Being to enter his own limited memory bank. His ability to do that relies on his expertise in the complete restrain of his mento-emotional energy.  
   A great yogin, Shrila Yogeshwarananda can decipher the cosmic parameters which will control what happens in the future of this universe. Therefore it is possible but only a rare yogin can do this. The complete
 
-
-
 conquest of the mento-emotional energy is a feat reserved for a select few great yogis like him. The important achievement is to get your own memory under control. When this is done one can check on the relationship between one limited memory and the cosmic reservoir of past impressions.  
   Some people feel that if a yogi reaches a stage of knowledge about the past and future, he would be omniscient, but that is an exaggeration. Such information will not affect the course of history nor change the probability, nor affect how the Supreme Being relates to the limited personalities. Its value is in the potency to convince the yogi to make an exit from these gross and subtle mundane histories. But that is not all, because a yogin has to acquire permission to do that. That permission must be gained from the Supreme Being, who might not grant it to a particular yogin.
 
@@ -5128,8 +4716,6 @@ knowledge about the language of all creatures is gained.**
 
 *Commentary:*  
 When a student yogin simplifies his mentality by sorting out the various parts of it, and when he detaches his imagination faculty from it's involuntary connection to the memory, as well as when he consistently retracts his sensual energies from the gross and lower subtle worlds, he gains a certain mental clarity, by which his buddhi organ instantaneously sorts the sound, it's meaning and related idea which was made by any other creature.
-
-
 
 **Verse 18  
 
@@ -5173,8 +4759,6 @@ for it is not the actual object in question.**
 *Commentary:*  
 This explains the accuracy of the intuitional powers of a advanced yogin.
 
-
-
 **Verse 21  
 
 कायरूपसंयमात्तद्ग्राह्यशस्तिम्भेचक्षुः प्रकाशासम्प्रयोगेऽन्तर्द्धानम्**  
@@ -5193,8 +4777,6 @@ which results in invisibility.**
 The mento-emotional energy emanates a psychic light, which is called an aura. Now if this aura is restrained or if it loses its expressiveness, the particular form cannot be seen by another. A yogi may also suspend this energy from operating. In that case, others who send out psychic feelers to find him, discover to their dismay that he is missing. Sometimes when this happens, the persons who are trying to find that yogi know that he is in the vicinity or that he is where they think he is, therefore they become annoyed and attribute the lack of contact to his anti-social tendency.  
   The lack of contact (samprayoga) between the light and vision has to do with the light coming from the yogi's form and the vision beam which emanates from the person who searches psychically or physically for him. Some times a yogi can sit right next to a person and that person cannot realize that the yogi is by his side. One of my gurus, a certain Rishi Singh Gherwal was hired by the British Government to find himself. Being employed as a spy to find a spy he remained in the services of the British for many years. He was a mahayogi but was unknown because of his great humility and resistance to popularity.
 
-
-
 **Verse 22**
 
 **एतेन शब्दादि अन्तर्धानम् उक्तम्**  
@@ -5206,14 +4788,10 @@ etena – by this; śabdādi = śabda – sound + ādi – and the related sensu
 sound and the related sensual pursuits, may be restrained,  
 which results in the related non-perceptibility.**
 
-
-
 *Commentary:*  
 A yogi may use a mystic process to cause imperceptibility in any or all aspects of sensual energy, so that he may not be detected by others. But this might only be done for the sake of yoga practice progression, and not otherwise. If a yogi uses these mystic skills for other reasons, it will distract from yoga practice and cause a long or short lapse in progression.  
   Sometimes people send out thoughts to attract a yogi. They do this by thinking. These thoughts are transmitted from their psyches just like radio waves being transmitted from a radio station. These thoughts are usually disruptive to yoga practice and are usually meant to engage a yogi in cultural activities which do not accelerate, but which rather decelerate yoga. Thus a yogi has to protect his practice by causing such thoughts not to reach him. There are many ways of doing this. The yogi uses a method, which he is allowed according to the level of his practice.  
   Just as a yogi might sit next to someone on a bus or train and travel miles with that person, without the person recognizing him, even though he is the very same person whom that searcher seeks, so a yogi might stay out of reach of the others even though he might be right next to them or even though they might know him so well that their thoughts instantly reach his psyche.
-
-
 
 **Verse 23**
 
@@ -5232,12 +4810,8 @@ by the complete restraint in relation to portents.**
 *Commentary:*  
 Both the current and the future cultural activities are the result of destiny, which is a combination of several forces. These destined energies work now. They worked in the past. They will work in the future. By restraining the mento-emotional energy in relation to the confusing impressions, which we take in now, and the ones which are stored in our memory we may derive intuitive or direct supernatural perceptions into the subtle world to see when it would be necessary for any of us to leave a material body. By this process, a
 
-
-
 yogi can leave his body and enter other dimensions of the hereafter where civilizations are currently taking place.  
   Each person who is about to leave his or her body experiences portents. Most persons cannot properly interpret the indications. A yogi can accurately gage those signs and messages.
-
-
 
 **Verse 24**
 
@@ -5251,8 +4825,6 @@ in relation to friendliness, he develops that very same power.**
 
 *Commentary:*  
 When the yogi detaches himself from the cultural prejudices, which were cultivated in this and in some past lives, he develops universal friendliness which is applied evenly without biases which come up from the subconscious memory as predispositions. However, being aware of those attitudes in his memory, he can know what sort of friendly or antagonistic relationship he had with others in past lives.
-
-
 
 **Verse 25**
 
@@ -5269,8 +4841,6 @@ The same applies to other aspects.**
 *Commentary:*  
 A yogi develops certain mystic perfections during practice. This cannot be avoided. A yogi must stick to his objectives as shared with him by advanced teachers. Then he is not distracted by the mystic perfections, but observes their development and notes the various powers of the subtle and supersubtle bodies.
 
-
-
 **Verse 26**
 
 **प्रवृत्त्यालोकन्यासात्सूक्ष्मव्यवहितविप्रकृष्टज्ञानम्**  
@@ -5279,8 +4849,6 @@ vyavahita viprakṛṣṭajñānam*
 
 pravṛittyālokanyāsāt= pravṛitti – destined activity, the force of cultural activity + āloka – supernatural insight + nyāsāt – from placing or applying; sūkṣma – subtle; vyavahita – concealed; viprakṛṣṭa – remote; jñānam – knowledge.
 
-
-
 **From the application of supernatural insight  
 to the force producing cultural activities,  
 a yogi gets information about what is subtle, concealed  
@@ -5288,8 +4856,6 @@ and what is remote from him.**
 
 *Commentary:*  
 Sometimes it is necessary to side-step destiny and to see what will happen if one takes one kind of action or if one stays in a particular dimension or world. Then a yogi might apply supernatural vision to peer into the future, so that he can make a decision to remain in one dimension or be transcribed into another. A yogi can only find out what he is allowed to by the Supreme Being, but that allowance is very wide. He may get special insight from Lord Shiva or from some other divine being.
-
-
 
 **Verse 27  
 
@@ -5317,13 +4883,9 @@ ekayā yāti anāvṛttim anyayāvartate punaḥ**
 *O bullish man of the Bharata family, I will tell you of the departure for the yogis who do or do not return.  
 The summer season, the bright atmosphere, the daytime, the bright moonlight, the six months*
 
-
-
 *when the sun appears to move north; if at that time, they depart the body, those people who know the spiritual dimension, go to the spiritual location.  
 The smoky, misty or hazy season, as well as in the night-time, the dark-moon time, the six months when the sun appears to move south; if the yogi departs at that time, he attains moonlight, after which he is born again.  
 The night and the dark times are two paths which are considered to be perpetually available for the universe. It is considered 80 by the authorities. By one, a person goes away not to return; by the other he comes back again.     (Gītā 8.23-26)*
-
-
 
 **Verse 28**
 
@@ -5340,8 +4902,6 @@ the yogi gets knowledge about the system of stars.**
 This is in the case of a yogi who has an interest of going beyond the jurisdiction of the solar deity. To relieve himself of reliance on this person, a yogi must get permission for transference to another zone of some other deity. All places are controlled. Thus a yogi needs permission both to leave this realm as well as to enter any other.  
   A yogi's desire for some thing is no guarantee that he will acquire it. It all depends on if he is permitted and if he qualifies by the required austerities. Yogis, who are spiritually linked to a local deity like the sun-god or moon-god, cannot relinquish their spiritual connection, even though they may get permission for a change of services or for a relocation to another zone that is controlled by the same deity.
 
-
-
 **Verse 29**
 
 **ध्रुवे तद्गतिज्ञानम्**  
@@ -5353,12 +4913,8 @@ dhruve – on the Pole Star, tat – that; gati – course of heavenly planets a
 in relation to the Pole Star,  
 a yogi can know of the course of planets and stars.**
 
-
-
 *Commentary:*  
 Some yogis do develop whimsical interest and inquiries which satisfy their curiosity. But other yogis who are serious about it and who hope to migrate from this planet to other superior places do check on the other zones before leaving their bodies, to be sure that their conceptions of these places perfectly match the actual situations there. Such yogis use their higher astral bodies to move from sphere to sphere checking the various living conditions in the other places.
-
-
 
 **Verse 30**
 
@@ -5376,8 +4932,6 @@ It is necessary in the course of kuṇḍalini yoga to energize the energy gyrat
   A yogin may enter the navel chakra of his own body or that of others, from the front of the body, from the naveI, where the umbilical cord was connected while that body was in the womb of its mother. From there a yogi can see the entire layout of the body, including its lifespan, its potential for disease and its maximum capacity for helping the soul in the quest for liberation.  
   In some cases, a person cannot be liberated in his present body. When a yogi sees this he does not waste time with that person. He directs that person to earn more conducive birth opportunities. In yogic terminology the navel chakra is called manipuraka. It is the third major chakra when counting these from the bottom of the spine. By completing the course of Haṭha yoga, a yogi curbs this chakra.
 
-
-
 **Verse 31**
 
 **कण्ठकूपे क्षुत्पिपासानिवृत्तिः**  
@@ -5389,15 +4943,11 @@ kaṇṭha – throat; kūpe – on the gullet; kṣut – hunger, pipāsā – 
 in focusing on the gullet,  
 a yogi causes the suppression of hunger and thirst.**
 
-
-
 *Commentary:*  
 The practice of suppressing hunger and thirst is part of Hatha yoga. The purpose of this is to get the life force to cease its independent activities. A Hatha yogi endeavors to bring the life force under his control, not to stop it from functioning but to cease its independent activities which are counter productive to the aims of yoga. Thus, a yogi surcharges and subsequently purifies the energy gyrating centers (chakras) one by one, beginning at the base of the spine.  
   Some people feel that they can use rāja yoga to purify the chakras from the top downwards, from the brow or crown chakra. Actually this cannot be done, except in a person's imagination. One has to do kuṇḍalini yoga by a vigor practice like bhastrika prāṇāyāma. By charging the body with prāna and pushing it down into the passages which are filled with apana, one causes purification from the base chakra upwards. It takes a certain amount of practice according to the extent of impurities.  
   A yogi does cause his hunger and thirst to be suppressed initially when he sets out to control those urges, but over a time of practice, his subtle body changes and the urges for solid and liquid food go away. This is because the throat chakra become altered.  
   Of course a yogi can be degraded, because whatever low habits or vices he acquired in the past, he can again take up in the future if he is not careful, or if he is not transferred into a dimension where such sordid aspects are unavailable.
-
-
 
 **Verse 32**
 
@@ -5414,8 +4964,6 @@ a yogi acquires steadiness of his psyche.**
 This has to do with being ready to enter samādhi, which is continuous effortless linkage of one's attention to a higher concentration force, object or person. Unless one can keep his body in a steady pose, preferably the padmāsana lotus posture, and also have the bodily urges like hunger quelled completely, he cannot enter into samadhi. Śrī Patañjali brings this to our attention at this point.  
   The kurmanadi is supposed to be located below the gullet. In other words if one has not stilled the gross and subtle nerves in this area, one will not be able to enter samādhi. When those nerves are stilled, the life force gives up its effort to protect and overly maintain the lower part of the body, the part which is lower than the neck. Unless the life force can be relieved from its creature survival duties, it does not allow the person to enter samādhi.
 
-
-
 **Verse 33**
 
 **मूर्द्धज्योतिषि सिद्धदर्शनम्**  
@@ -5431,8 +4979,6 @@ a yogi gets views of the perfected beings.**
 Mūrdhajyotiṣi is known otherwise as jñānadipa or jñānadiptih or jñānachaksu. It is a light seen in the front central area of the subtle head. This light is the energized buddhi organ. In its normal stage in a human being, it is dark and cloudy, like a filament of a light bulb which gets insufficient current. The insufficient current warms the filament but does not cause it to glownoticeable. When the yogi masters prāṇāyāma and perfects himself in the disciplines of kuṇḍalini and celibacy yoga, his buddhi organ gets sufficiently charged. It glows with shining light (jyotiṣi), otherwise it remains dull but is felt as the centre of the mind, as one's ability to understand, analyse, plan and draw conclusions.  
   When a yogi develops himself to the extent that his buddhi organ begins to glow in his lower subtle body even, then he perceives the perfected beings, the siddhas like Śrī Babaji Mahasya, Śrī Gorakshanath, and other Mahayogins. Some times fortunately he sees Lord Shiva at Kailash in the other dimensions. Once a yogin sees the siddhas, it is understood that he is blessed. If he accelerates the practice further, he will develop a yoga siddha body. He can take advices and get rare kriyā yoga practices from those siddhas whom he is allowed to perceive. Such a yogin does not rely on physical contact with a yoga guru. Hence he does not have to have a guru who uses a physical form. He takes initiation either physically or subtly from these teachers.
 
-
-
 **Verse 34**
 
 **प्रातिभाद्वा सर्वम्**  
@@ -5445,12 +4991,8 @@ while focusing on the shining organ of divination
 in the head of the subtle body,  
 the yogin gets the ability to know all reality.**
 
-
-
 *Commentary:*  
 This pratibha is the brahmarandra development in the head of the subtle body of a yogi. At first a yogi develops the top part of the subtle body which is known as the brahmarandra. Śrī Patañjali used the terms, pratibha which literally means relating to divination or genius. A yogi who has developed his brahmarandra is said to be liberated even while using a gross body. Such a yogi can select which of the dimensions he would live in after he sheds his material body, but of course again, since he is a limited being in the conditioned and liberated stages, he has to get approval from higher authorities like Lord Shiva or Lord Krishna.
-
-
 
 **Verse 35**
 
@@ -5468,8 +5010,6 @@ into the cause of the mental and emotional energy.**
 For all these practices, one should have mastered the samyama procedure described before by Śrī Patañjali as a development from dhāraṇā, to dhyāna and to samādhi. Once this is mastered, one can apply himself to the practices described. Stated differently on who mastered samādhi can use samādhi.  
   A person whose mind is jumpy, whose emotions are reactive and who is still linked to the cultural affairs of this world, cannot develop samādhi. It is as simple as that. In fact such a person cannot go beyond attempts at dhāraṇā, which is effortful linkage of the attention to a higher concentration force, object or person. This is because the mento-emotional energy will remain unstable, locking and unlocking unto various ideas and images which emerge from the memory, come in through sensual perception or are developed by the dull darkish non-glowing buddhi organ.  
   Until the mento-emotional energy is established by a complete pratyāhāra sensual withdrawal procedure, the attention will not be freed to focus on the void which occurs before a split second interval between locking and unlocking of the mento-emotional energy. All these factors must be properly mastered before one can get to the dhyāna effortless linkage of the attention to higher concentration force, object or person. And when that is mastered by regular practice, then one can do samādhi which is the continuous effortless linkage of the same.
-
-
 
 **Verse 36**
 
@@ -5507,8 +5047,6 @@ It is not effective for one to whom its purpose is fulfilled but it has a common
 There is a reason for the conjunction of the individual self and his psychological energies. Itis for obtaining the experience of his own form.  
 The cause of the conjunction is spiritual ignorance.*
 
-
-
 *The elimination of the conjunction which results from the elimination of that spiritual ignorance is the withdrawal that is the total separation of the perceiver from the mundane psychology.*
 
 This verse, which defines experience as being the inability to distinguish between the individual spirit and the intelligent energy of material nature, is the heart of the matter of self-realization. It causes us to bow down very low to the Maharishi Mahayogi Śrī Patañjali. In a very rare and precise declaration, he outrightly condemns our experiences (bhogas) in material nature.  
@@ -5530,15 +5068,11 @@ touching and hearing, through the shining organ of divination.**
 Now all of a sudden, Śrī Patañjali continues with some promising statement about yoga development. The student will have to review sūtra 36 of this chapter at a later date. It is vital that he understands the implications of it, which is nirvana or the blowing out of the subtle and gross material existence.  
   From complete restraint of the mental and emotional energy and the focusing on the self-interest of the spirit, leaving aside completely the interests of material nature, the yogi becomes occupied applying his organ of divination, his developed brahmarandra, to all his sensual pursuits. Then, instead of sensing through the mento-emotional energy (citta), he senses directly through spiritual energy. This was recommended before:
 
-
-
 **draṣṭṛdṛśyayoḥ saṁyogo heyahetuḥ**
 
 *The cause which is to be avoided is the indiscriminate association of then observer and what is perceived. (Yoga Sūtra 2.17)*
 
 The idea that the individual spirit will merge into the absolute and will thenbe without senses is not given in Patañjali's sūtras, even through many yogis and yogi philosophers seem to think so.
-
-
 
 **Verse 38**
 
@@ -5552,7 +5086,6 @@ in the practice of continuous effortless linkage of the attention
 to a higher concentration force, object or person.  
 But in expressing,  
 they are considered as mystic perfectional skills.**
-
 
 *Commentary:*  
 A yogi is stalled if he is distracted for exhibitions of the perfectional skills which are manifested as he progresses. Those student yogis who cannot resist such exhibitions are doomed. They become premature gurus of a very gullible and stupid public.
@@ -5572,16 +5105,12 @@ and by knowing the channels of the mento-emotional energy.**
 *Commentary:*  
 The slackening of the cause of bondage is done by a yogi, when he reaches the causal level mentioned in verse 35. From the causal plane, he is able to slacken the cause of his having to take his current body. Then he leaves that body temporarily while it stays in hibernation in samādhi. He enters forms of
 
-
-
 others. A spiritual master may do this after his body dies. He enters into the forms of his disciples on earth and speaks to small or large audiences, giving instructions. This prevents him from having to take a new material form. In that way he remains in the astral world for many years, avoiding physical rebirth.  
   Some great yogis like Śrī Adi Shankaracarya and Mahayogin Śrī Matsyendranath entered the bodies of others, while their disciples maintained their gross bodies. They did this for special purposes. Over all, a student yogi should not endeavor for this paraśarīrāveśaḥ siddhi since it is very dangerous. It is said that recently in our era, T. Lobsang Rampa who was a Tibetan mystic yogi in his past life, entered into an Englishman's body after the said occupant agreed to give over his body in exchange for some merits of Lobsang. Generally such a course is not recommended for a student yogin.  
   If one gets in the causal plane and stays there long enough one may develop an ability to adjust one's resultant reactions which are left in a particular dimension and which would forestall one's liberation. Thus one may do so and not have to exhibit the paraśarīrāveśaḥ siddhi. It is not recommended.  
   If one enters the form of another, one has to go through the channels of that person's mento-emotional energy. That entails adopting part of his nature and assuming some of his responsibilities. That is dangerous since one may forget oneself, and begin to feel as if one is the other person, all because of becoming too familiar in identity to that person's psyche. Śrī Matsyendranath even though he was a siddha at the time, was rescued by his most advanced disciple, the mahayogin Śrī Gorakṣnatha. Matsyendranatha entered the body of another person and forgot his identity after adopting the stranger's psyche. In the case of Śrī Adi Shankaracarya, he did not forget himself, but the queen of the King's body whom he adopted, wanted to kill Shankara's yogi body. She wanted him to stay on as her husband and not to return to his body. There are dangers in adopting the body of another.  
   It is interesting that a great yogin as Śrī Adi Shankara had to enter the almost dead body of a king, just to experience sexual intercourse with a female, because after all a yogi can get such experiences on the astral planes which are near to this world or he may enter a parallel world and get such experiences. It is not necessary to enter any other person's physical body to get such experiences. We must conclude therefore that destiny plays hard cards against a certain yogin at specific stages of his advancement, in order to force him to do certain dangerous and risky things.  
   Śrī Adi Shankaracharya is rated as an incarnation of Lord Siva. From what I learned in the association of the siddhas in the higher astral world, he is Skanda Kumara, the celibate son of Lord Shiva. They claimed that due to his insubordination to Devi, Lord Shiva's wife, he had that difficulty in that incarnation. If one plans to be celibate, one should not expect much help from Goddess Durga, but all the same, She is in a position to cause disruptions in one's practice.
-
-
 
 **Verse 40  
 
@@ -5599,8 +5128,6 @@ with water, mud or sharp objects.**
 Udana vayu is the air which moves up from the throat area to the top of the head. Initially a yogi controls that in kuṇḍalini yoga practice, when he is able to force the apana air, the lowest most polluted air in the body, up and out of the body through the spinal column. Sometimes for convenience sake, one is able to cross water or mud or sharp objects, miraculously even though one may not willfully exhibit such perfectional power, which was demonstrated by many greatyogis before and by Lord Jesus Christ.  
   Certain animals have the natural power since their spirit use forms which are able to suppressed and regulate the udana vayu. Of course, a yogi's exhibition of that siddhi is something different. The expression of miracles, even though it helps a yogi on occasion, can cause impediments under other conditions. These exhibitions are not recommended. Śrī Patañjali lists these not to encourage their use but to alert student yogis of the landmarks of yoga practice.
 
-
-
 **Verse 41**
 
 **समानजयाज्ज्वलनम्**  
@@ -5614,11 +5141,7 @@ a yogi's psyche blazes or shines with a fiery glow.**
 *Commentary:*  
 Conquest of the samana digestive force comes by the practice of kuṇḍalini yoga which entails various asanas combined with prāṇāyāma, especially bhastrika prāṇāyāma. By that a yogi gets control over diet. He purifies the navel region of the body. This sets the stage for purification of the sexual functions which opens a gate for the yogi to attack the muladhar anal region. After this is achieved in the downward course, it must be achieved in the upward course, as the prāṇa is pushed down and forces the apana energy to
 
-
-
 move upwards through a subtle tubing called the sushumna nadi. When a yogi on the upward purification course, purifies his navel region, he experiences frontal kuṇḍalini. It is then that he achieves conquest over the samanadigestive fire. His subtle body then appears with an orangish fiery glow.
-
-
 
 **Verse 42**
 
@@ -5633,8 +5156,6 @@ a yogin develops supernatural and divine hearing.**
 
 *Commentary:*  
 Each yogi masters a particular mystic skill, all depending on the force of practice, on association while progressing and because of his cultural background from many previous lives. By this, particular skills attract his attention. However, if he has the superior association of Lord Shiva, and other maha-yogis, he will not invest time in using the mystic skills but will stay focused on the objective of psyche purification; something from which he could quickly gain spiritual perfection.
-
-
 
 **Verse 43**
 
@@ -5653,11 +5174,7 @@ a yogi acquires the ability to pass through the atmosphere.**
 *Commentary:*  
 This does not necessarily mean levitation of the physical body. It can mean that usage of the subtle body. Since every user of a physical body, already has a subtle form which can pass through the atmosphere with ease, it is not
 
-
-
 necessary to focus on making the physical body as buoyant as a cotton fluff which can float easily in the air, as if to deny the power of gravity. In addition, a yogi who can see or hear from afar, would not require that his gross body be moved from one place to another merely to perceive through it, what he can divine from a distance.
-
-
 
 **Verse 44**
 
@@ -5676,8 +5193,6 @@ is dissipated.**
 *Commentary:*  
 The great bodiless state, mahāvidehā, is a special accomplishment of great yogis, who go beyond the causal plane but who do not get an exception to leave this solar system. Because they fail to obtain the exemption for whatever reason, they remain in the unformed, untapped pure mental energy which was not parceled out to individual spirits. They remain free of involvements. Such yogins hardly interact in the cultural world which is so important to a human being. For those great yogis the mental darkness which human beings consistently experience, do not exist. They moved beyond the subtle negative influences of material nature.
 
-
-
 **Verse 45**
 
 **स्थूलस्वरूपसूक्ष्मान्वयार्थवत्त्वसंयमाद्भूतजयः**  
@@ -5691,12 +5206,8 @@ while linking the attention to the gross forms, real nature,
 subtle distribution and value of states of matter,  
 a yogi gets conquest over them.**
 
-
-
 *Commentary:*  
 Some yogins are diverted from their progression by too much research into the material nature. However, for them that diversity is necessary, until they reach a stage of greater resistance. The main asset of a yogi is to keep in touch with more advanced yogins so that even if the student yogin becomes fascinated or stalled somewhere in the practice, his advanced teachers can guide him away from degradation.
-
-
 
 **Verse 46**
 
@@ -5714,8 +5225,6 @@ and the non-obstructions of its functions.**
 When the yogi develops the mystic skills, he finds that the subtle body is perfected to such a degree that the nadis, subtle tubes within it carry a subtle fluid which is as crystal clear as pure water. From certain dimensions this appears to be liquid light traveling through the subtle body of the yogi. Some of this purity filters into the gross body and the yogi is said to perform miracles.  
   The obstructions a common man experiences, and those a neophyte yogi are fascinated with, are removed from the perfected yogin, because his subtle form is completely purified. The way of operation of the subtle body is obstructed by impurities which arise by attachments to the material energy. When a yogi completes this pratyāhār, fifth stage of yoga and when he ceases interactions with the citta mento-emotional energy, thus resting his buddhi organ from involvements and calculations regarding cultural activities, then he reaches the required purity.
 
-
-
 **Verse 47**
 
 **रूपलावण्यबलवज्रसंहननत्वानि कायसम्पत्**  
@@ -5726,13 +5235,9 @@ rūpa – beautiful form; lāvaṇya – charm; bala – mystic force; vajra –
 **Beautiful form, charm, mystic force, diamond-like definition  
 come from the perfection of the subtle body.**
 
-
-
 *Commentary:*  
 Most commentators give kāya as the physical body. However, in advanced yoga practice, kāya is the subtle body, the temporary but long lasting body which the yogin must perfect before he can attain liberation.  
   When the subtle body is upgraded by the practice of kuṇḍalini yoga, it attains beauty of form, mystic force and diamond-like definition. It attains clarity in it. Its colors become free from cloudiness and vagueness. It moves into the higher pranic force. It is experienced as a sattva guna body, a form of the mode of pure goodness.
-
-
 
 **Verse 48**
 
@@ -5752,8 +5257,6 @@ a yogi acquires conquest over his relationship with it.**
 It is important to understand and to accept for oneself, that these achievements occur after prolonged practice. Those who feel they can achieve these overnight will definitely be frustrated. Yoga practice matures and remains firm only after long practice, and not just for one life but through a succession of lives, until the practice becomes an instinct.  
  A yogin must study his own sensual energy. He must also take hints from the way others use their sensual powers. It takes time to accomplish this. The sensual energy is subtle and moves at a rapid rate to execute its functions. It is mostly involuntary, which means that it operates on its own. This makes it difficult to track. However, after long practice, a yogin gets a foothold in these achievements described by Śrī Patañjali. One must study how the sensual energy appropriates or grasps subtle phenomena. This is indicated by the term anvaya. One must study how the energy connects with and associates with various types of subtle and gross objects. One must know the form of the sensual energy, its svarūpa. This is its form when it does not assume the identity of other objects. One should understand its nature for identification as well as its worth to the self. When all this is achieved, then the yogi gains mastery over his relationship to that sensual force.
 
-
-
 **Verse 49  
 
 ततो मनोजवित्वं विकरणभावःप्रधानजयश्च**  
@@ -5769,8 +5272,6 @@ with the required swiftness of mind.**
 
 *Commentary:*  
 These aspects are on the mystic plane. This is attained after long practice at dhāraṇā. At first a yogi practices dhāraṇā, feeling that he mastered the pratyāhār sensual restraint. Thereafter he discovers that he only mastered particular phases of such restraint. Under direction of higher yogis, he goes back to his restraint practice. Then he again returns to dhāraṇā. This occurs frequently, until at last his perception of the subtle realities develop fully. What was subtle becomes gross; what was gross fades away completely. He purifies himself even further and grasps more higher reality which used to affect him in lower stages.
-
-
 
 **Verse 50**
 
@@ -5789,12 +5290,8 @@ and all-applicative intuition**.
 *Commentary:*  
 Khyati means the well-develop truth-yielding discrimination of the buddhi organ. But this is attained after long practice only. When this is developed, then the yogi sees clearly at all times the distinction between his spiritual
 
-
-
 person and the clarifying influences of material nature, influences from which he took assistance all along.  
   In advanced yoga, or kriyā yoga, one has to maintain the distinction between oneself and the perceiving instruments of the subtle body, even through initially one must take help from those truth-yielding perceptions. Adhiṣṭhātṛtvaṁ means complete or full disaffection from the subtle influence of material nature, even from the clarifying powers which are so helpful.
-
-
 
 **Verse 51**
 
@@ -5820,8 +5317,6 @@ hānaṁ taddṛśeḥ kaivalyam**
 
 It is amazing how so many translators, following the one-ness craze completely distorted Śrī Patañjali by giving so many misleading and totally out-of-context meanings for the term kaivalyam. Vaman Shivram Apte in his practical Sanskrit-English dictionary gives the following plain meaning for these terms; perfect isolation, soleness, exclusiveness, individuality, detachment of the soul from matter, identification with the Supreme Spirit, final emancipation or beatitude.
 
-
-
 **Verse 52  
 
 स्थान्युपनिमन्त्रणे सङ्गस्मयाकरणं पुनरनिष्टप्रसङ्गात्**  
@@ -5841,8 +5336,6 @@ to arise again.**
 A perfect example of a person who implemented this advice of Śrī Patañjali, long before Patañjali took his material body to write the yoga sūtras, is Mudgala, who in the Mahabharata rejected proposals for transference to the Swarga angelic world. Mudgala had reached a stage of progression where he was eligible to live in a special palace of the lord of the angelic world. He was visited by Matali the lord's charioteer, but when questioned by Mudgala, Matali admitted that there were defects in the angelic world, even for great yogins who would go there. They would again (punaḥ) have to revert back to this world after sometime of enjoying paradisiacal enjoyments. Thus Mudgala said that he did not want to go to such a place but would continue his austerities to go somewhere which was devoid of all unwanted features of existence (aniṣṭa).  
   For others, who are not as strong and determined as Mudgala, it is easier said than done. They may not avoid the temptation of the angelic world. By developing endearing friendless (prasaṅgāt), they will succumb to angelic association and the fascinations of such a world. Just as governments of the developed countries skim off the intelligent people from the lesser-developed lands, so the angelic people attract the higher minds of the earthly planets.
 
-
-
 **Verse 53**
 
 **क्षणतत्क्रमयोः संयमाद्विवेकजं ज्ञानम्**  
@@ -5854,13 +5347,9 @@ kṣaṇa – moment; tat – that; kramayoḥ – on the sequence; saṁyamāt 
 to the moment and to the sequence of the moments,  
 the yogi has knowledge caused by the subtle discrimination.**
 
-
-
 *Commentary:*  
 Every word in these texts must be understood within the context of Patañjali and not just for our own fancy according to our stage of development or agenda of spiritual mission. To understand Patañjali and to get the most benefit from his sūtras, we have to stay with his meanings, and then try to see where we have progressed to and where we should advance onwards.  
  When a yogi can observe subtle mystic moments and see how they flow on one to another, he develops a very subtle insight which gives definite knowledge of things. Vive ka means very subtle insight and jam means what is caused or produced from the super knowledge of that yogi.
-
-
 
 **Verse 54**
 
@@ -5878,8 +5367,6 @@ characteristic and location.**
 *Commentary:*  
 Persistence in higher yoga brings on more definition. Things which before, seemed to be one or seem to be merged, appear clearly by their category, individual characteristics and locations. This begins by his sorting out his buddhi intellect organ, its various parts, as well as the sense of identity. A yogi thus develops mystic clarity.
 
-
-
 **Verse 55**
 
 **तारकं सर्वविषयं सर्वधाविषयमक्रमं चेति विवेकजं ज्ञानम्**  
@@ -5887,8 +5374,6 @@ Persistence in higher yoga brings on more definition. Things which before, seeme
 akramaṁ ca iti vivekajaṁ jñānam*
 
 tārakaṁ – crossing over transcending; sarva – all; viṣayaṁ – subtle and gross mundane objects; sarvathā – in all ways; viṣayaṁ – subtle and gross mmdane object; akramaṁ – without sequential perceptions; ca – and; iti – thus, subsequently; vivekajaṁ – the distinction caused by subtle discrimination; jñānam - knowledge.
-
-
 
 **The distinction caused by subtle discrimination  
 is the crossing over or transcending  
@@ -5899,8 +5384,6 @@ to any other sequential perceptions of mind reliance.**
 
 *Commentary:*  
 Śrī Patañjali highlights the culmination of yoga, so that as a yogi we can gage ourselves to know where we are on the course of crossing over the mundane reality which keeps us so occupied when we try to transcend it.
-
-
 
 **Verse 56**
 
@@ -5918,15 +5401,11 @@ from the mundane psychology.**
 Readers should check verses 2:25 and 3:36 to understand Śrī Patañjali's use of the terms sattva, puruṣayoḥ and kaivalyam. Obviously the key term in this verse is sattva. What is sattva? It is clear however that for the aspiring yogi, he must use sattva to become self-realized. This being established, all questions as to why he is to depend on nature are irrelevant. It is not why he has to depend, but rather how he can protect himself or cause himself to be situated in alliance with the material nature in its primal purity (śuddhi-sāmye). What will happen to him thereafter? Is there something higher? Where will he go after that? What will be his status? Is there a world to which he will escape if he attains that? Will that world have the same purified sattva-energy (intelligence energy of material nature)? Is there any place or world where he could encounter only energy like his spirit (purusaḥ).  
 These are the questions to be considered by the yogin.
 
-
-
 ***Chapter 4***
 
 ***Kaivalya Pāda:***
 
 ***Segregation Accomplished***
-
-
 
 **Verse 1  
 
@@ -5945,8 +5424,6 @@ to a higher concentration force, object or person.**
 *Commentary:*  
 The mystic skills are inherent in the subtle body of each creature but the manifestation of these depends on particular circumstances. Taking birth in a particular species either as an animal, angel, or human being, can cause one to express unusual powers. Taking narcotic drugs or stimulants may cause shifts in pranic force in the subtle body. This would activate some paranormal powers. Repeating special sounds or having these recited on one's behalfmight affect the pranic arrangement in one's subtle body, resulting in paranormal powers. And of course yoga austerities in Haṭha Yoga would definitely cause the development of psychic powers. Samādhi, which is listed last by Śrī Patañjali, is definitely yielding of paranormal perceptions.
 
-
-
 **Verse 2  
 
 जात्यन्तरपरिणामः प्रकृत्यापूरात्**  
@@ -5956,8 +5433,6 @@ jātyantara = jāti – category + antara – other, another; pariṇāmaḥ– 
 
 **The transformation from one category to another  
 is by the saturation of the subtle material nature.**
-
-
 
 *Commentary:*  
 Modern authorities like Timothy Leary and Aldous Huxley, preferred the use of drugs for the development of higher perception. But Śrī Gorakshanath wanted us to use the Haṭha Yoga austerities. Śrī Babaji Mahasaya recommended the Samādhi continuous effortless linkage of the attention to a higher concentration force, object or person. However modern spiritual masters from India usually hawk the mantra special sounds as the means of perfection. And some psychics say that a person should be gifted from birth with mystic abilities.  
@@ -5971,8 +5446,6 @@ Modern authorities like Timothy Leary and Aldous Huxley, preferred the use of dr
   **Mantra**, special sounds is the general method preferred by most human beings. This operates the confidence energy of the person, but he may or may not succeed in experiencing something about the subtle body. This is an easy method requiring only the working of the vocal chords or silent mental sounding. This method remained popular for thousands of years due to human tendency for relying on hope for calling on superior authority for assistance.  
 **  Tapah** means the Haṭha Yoga austerities which purify both the gross and subtle bodies. This includes kuṇḍalini yoga for displacing bad subtle energy. This is the classic method for attaining purity of the intelligence energy of material nature; an energy mentioned in verse 56 of the last chapter:
 
-
-
 **sattva puruṣayoḥ śuddhi sāmye kaivalyam iti**
 
 *When there is equal purity between the intelligence energy of material nature and the spirit, then there is total separation from the mundane psychology. (Yoga Sūtra 3.56)*
@@ -5980,8 +5453,6 @@ Modern authorities like Timothy Leary and Aldous Huxley, preferred the use of dr
 If that energy is not purified, then the progress will be erratic causing the yogi to fall to a lower level sooner or later. The Haṭha Yoga austerities are the definite way for such purity. Study what Krishna said in the chapter 6 verse 12 of His Bhagavad–gītā discourse.  
   The last method which is the best is samādhi, the continuous effortless linkage of the attention to a higher reality. This is the choice method. However this is merely an advancement of the tapah or Haṭha Yoga austerity method. It does not stand alone. One cannot attain Samādhi without doing the Haṭha Yoga austerities proficiently.  
   In summary, janma mears efforts in a past life. Auṣadhi means eating, drinking, smelling or otherwise ingesting chemicals which affects the subtle body. Mantra means using one's faith or confident energy. Tapah means physical austerities which eradicate impurities in the subtle form. Samādhi means using one's psychic force to reach higher realities.
-
-
 
 **Verse 3  
 
@@ -5998,8 +5469,6 @@ hence it is compared to a farmer.**
 *Commentary:*  
 Even though a yogin is assisted by material nature, which exhibits powerful motivating forces from time to time, still his spiritual progress is not really caused by nature. It is just that sometimes nature removes its own forces which acted as impediments to the efforts of the yogi. Even though a farmer does so many things to facilitate the growing of seeds, still that does not mean that any of his actions are the real causes of plant growth. The development from seeds to plant has more to do with the potential within the seed thanit does with the farmer's efforts. Similarly material nature does not cause a yogi's development, even though nature may facilitate that progression.
 
-
-
 **Verse 4  
 
 निर्माणचित्तान्यस्मितामात्रात्**  
@@ -6013,8 +5482,6 @@ which is developed in relation to material nature.**
 
 *Commentary:*  
 Even though the spirit's attention is one only, still because of the mento- emotional energy, there appears to be various regions within the mind and feelings of a personality. A yogi by mystic research in kriyā yoga, within his psyche, traces all these mental regions and emotional moods to the sense of identity which he experiences anytime his attention goes in the direction of the gross or subtle material nature. Thus eventually he develops a disgust (nirvedaḥ), and becomes very serious about spiritual progression. He no longer wants to be entertained by the various imaginings within the mind.
-
-
 
 **Verse 5  
 
@@ -6030,8 +5497,6 @@ in numberless different dispersals of energy.**
 *Commentary:*  
 With this in mind, a yogi takes steps to stop the innumerable impulsive operations of the mind.
 
-
-
 **Verse 6  
 
 तत्र ध्यानजमनाशयम्**  
@@ -6043,12 +5508,8 @@ tatra – there, in that case; dhyānajam – produced by the effortless linkage
 which are produced from the effortless linkage of the attention  
 to a higher reality are without harmful emotions.**
 
-
-
 *Commentary:*  
 Āśayam is the seat of feelings, the place in the mento-emotional energy from which is derived endearing but harmful emotions. This location is difficult to track since it is in a mystic domain. Until a yogi gets clarity of consciousness he cannot transcend his feelings. He is continually fooled by them. When he masters the effortless linkage of the mind to higher realities, then he gains objectively and can sort out the endearing but harmful feelings, even the memory which is a store house of these.
-
-
 
 **Verse 7  
 
@@ -6065,8 +5526,6 @@ but others have three types of such action.**
 An advanced yogi, who has mastered the dhyāna effortless linkage of the mind to a higher reality, may perform cultural activities just as others do, but for him, these do not result in rewarding, penalizing nor fruitless results.  
  What then does the yogi gain from cultural activities? He gains absolutely nothing, because his detachment allows the reactions to fall back into material nature without a claimant.
 
-
-
 **Verse 8  
 
 ततस्तद्विपाकानुगुणानामेवाभिव्यक्तिर्वासनानाम्**  
@@ -6080,14 +5539,10 @@ there is development according to corresponding features only, bringing
 about the manifestation of the tendencies  
 within the mento-emotional energy.**
 
-
-
 *Commentary:*  
 Everything in the material creation works according to innate tendency, manifesting according to time and place. Sometimes it takes thousands of years before something can manifest or be given any type of satisfaction.  
  In terms of the time of the earth, modern civilization is very recent. Still we see that the majority of people feel comfortable within the modern world. This is due to latent desires, which are being fulfilled under the present circumstances.  
   Because a yogi has mystic insight, he understands how numberless different dispersals of energy arise in the mento-emotional force by its proximity to the spirit's sense of identity. Thus he withdraws that sense and deactivates the mundane consciousness, freeing himself from being a slave to desires which arise in the seat of feelings. Others however must comply with the urges
-
-
 
 **Verse 9  
 
@@ -6106,8 +5561,6 @@ and operate on a timeful sequence.**
 *Commentary:*  
 This has to do with why past lives affect the present one, even though the individual may or may not recall his past. A different status, a different place and a different time, though separated from a cultural activity of the past, is in fact timeful and in sequence according to how it was laid into the memory within the mento-emotional energy of the individual concerned. Something that makes sense subjectively may seem totally inappropriate to the conscious mind which takes into account only what it can grasp about the present. Irrespective of the present circumstances, the memory and the urges from past lives, operate in timeful sequence.
 
-
-
 **Verse 10  
 
 तासामनादित्वं चाशिषो नित्यत्वात्**  
@@ -6115,16 +5568,12 @@ This has to do with why past lives affect the present one, even though the indiv
 
 tāsām – those; anāditvaṁ – what is without beginning, primeval; ca – and; āśiṣaḥ – hope and desire energies; nityatvāt – what is eternal.
 
-
-
 **Those memories and impressions are primeval,  
 without a beginning.  
 The hope and desire energies are eternal as well.**
 
 *Commentary:*  
 When a yogi sees that the hope and desire energy is eternal, he makes a decision to let it be and to detach himself from the urges. He must, by all means, get himseIf separated from the mento-emotional force or remain a victim of it. The memories and the circumstance-forming impressions will be there for all eternity. A yogin has no choice but to extract his existence from the realm of it.
-
-
 
 **Verse 11**
 
@@ -6142,8 +5591,6 @@ they have no existence whatsoever.**
 *Commentary:*  
 For a yogi, his involvement is the supportive element, which makes the subtle material nature exist for him and engage him or use his consciousness. Thus if he detaches himself the supportive element being removed, material nature no longer affects him.
 
-
-
 **Verse 12  
 
 अतीतानागतं स्वरूपतोऽस्त्यध्वभेदाद्धर्माणाम्**  
@@ -6158,11 +5605,7 @@ which is denoted by the different courses of their characteristics.**
 *Commentary:*  
 Śrī Patañjali establishes that the past and future are real existences, having contents, which cause the present. Time is not an illusion. It is real in that sense. Because of definite characteristics, there is a certain course which time takes from the past into the present and into the yet-emerging future. The
 
-
-
 inherent characteristics (dharmāṇām) from the past mold the future. The changes which come about in the present are stockpiled by time as the basis for slight or major differences which are to come.
-
-
 
 **Verse 13  
 
@@ -6175,8 +5618,6 @@ te – they; vyakta – gross; sūkṣmāḥ – subtle; guṇātmānaḥ = gu�
 
 *Commentary:*  
 The three phases of time, the past, present and future, are perpetual, having a relationship one with the other. They are reliant on their inherent energies which comprise the subtle and gross material nature. A limited being cannot permanently affect these, even though he may take part in their operations according to how he is positioned in time and place.
-
-
 
 **Verse 14  
 
@@ -6191,8 +5632,6 @@ is based on the uniqueness of the transformation.**
 *Commentary:*  
 Each object, no matter how similar, has certain unique qualities which are based on the particular transformations which caused its production. The varieties in material nature are researched by a yogi. Under lying all this, he finds the manifesting force of time along with the inherent qualities of material nature, mixed in various ways.
 
-
-
 **Verse 15**  
 
 **वस्तुसाम्ये चित्तभेदात्तयोर्विभिःपन्थाः**  
@@ -6205,15 +5644,10 @@ in the mento-emotional energy of two persons,
 separate prejudices manifest  
 in their viewing of the very same object.**
 
-
-
 *Commentary:*  
 Separate prejudices lie dormant in the mento-emotional energy of each living entity. When viewing the same object which has the same composition, persons react differently. These prejudices are sponsored in material nature by time which, with the power of the past, regulates the present and future.
 
-
-
 **Verse 16**
-
 
 **न चैकचित्ततन्त्रं वस्तु तदप्रमाणकं तदा किं स्यात्**  
 *na ca ekacitta tantraṁ ced vastu  
@@ -6228,8 +5662,6 @@ if it were not being perceived by that person?**
 
 *Commentary:*  
 Śrī Patañjali refutes the idea that the world is dependent on a limited mind or on a group of such minds. Otherwise if that or those limited minders were to lose perception of an object, the item would no longer exist.
-
-
 
 **Verse 17**  
 
@@ -6246,8 +5678,6 @@ in reference to it.**
 *Commentary:*  
 The application or non-application of consciousness is what brings objects into purview.
 
-
-
 **Verse 18**  
 
 **सदा ज्ञाताश्चित्तवृत्तयस्तत्प्रभोःपुरुषस्यापरिणामित्वात्**  
@@ -6263,8 +5693,6 @@ because of the changelessness of that spirit.**
 *Commentary:*  
 Here an explanation is given, as to why the spirit appears to be affected by the operations of the mento-emotional energy of the psyche. It is due to the changelessness of the spirit, which serves as a background for the movements of consciousness.
 
-
-
 **Verse 19  
 
 न तत्स्वाभासंदृश्यत्वात्**  
@@ -6278,8 +5706,6 @@ for it is rather only capable of being perceived.**
 *Commentary:*  
 The mento-emotional energy has for its nature the capability of being perceived but is not self-illuminative. This has to be studied objectively in meditation by the particular yogin.
 
-
-
 **Verse 20  
 
 एकसमये चोभयानवधारणम्**  
@@ -6291,8 +5717,6 @@ ekasamaye – at the same time; ca – and; ubhaya – both; anavadhāraṇam �
 
 *Commentary:*  
 This means that the mento-emotional energy cannot both focus on itself and the seer at the same time. This has to be verified in deep meditation.
-
-
 
 **Verse 21  
 
@@ -6311,8 +5735,6 @@ That would cause absurdity and confusion of memory.**
 *Commentary:*  
 Śrī Patañjali states here that it is absurd to think that without a spirit one's mind could perceive another mind. It would be absurd. Unless there is a spirit behind a mind, there would be no perception in that energy.
 
-
-
 **Verse 22  
 
 चित्तेरप्रतिसङ्क्रमायास्तदाकारापत्तौ स्वबुद्धिसंवेदनम्**  
@@ -6327,8 +5749,6 @@ from one operation to another.**
 *Commentary:*  
 Until the mind is still and the mento-emotional energy ceases to fluctuate, one cannot perceive one's intellect objectively. Otherwise, one feels as though one's self and one's intellect were part of an homogeneous consciousness.
 
-
-
 **Verse 23  
 
 द्रष्टृदृश्योपरक्तं चित्तं सर्वार्थम्**  
@@ -6338,12 +5758,8 @@ draṣṭṛ – the perceiver; dṛśya – the perceived; uparaktaṁ – prej
 
 **The mento-emotional energy which is prejudiced by the perceiver and the perceived, is all evaluating.**
 
-
-
 *Commentary:*  
 When the mento-emotional force absorbs energy from the spirit, as well as from an object, it seems to be all-evaluating. Thus the spirit becomes absorbed by its operations of analysis, conclusion and action.
-
-
 
 **Verse 24  
 
@@ -6362,8 +5778,6 @@ because of its proximity to that other force.**
 Everything done by the mento-emotional energy, even those subtle actions which seem to imperil the spirit are done for the sake of the spirit itseIf, even though the spirit may not deliberately motivate the psyche.  
  The proximity (saṁhatya) of the spirit is itself, the cause of the innumerable moods and urges.
 
-
-
 **Verse 25  
 
 विशेषदर्शिन आत्मभावभावनाविनिवृत्तिः**  
@@ -6378,8 +5792,6 @@ between feelings and the spirit itself.**
 
 *Commentary:*  
 This is repeated again and again in different verses. A yogin has to sort out between his spirit and his mento-emotional energy. He has to transcend the proximity of the two.
-
-
 
 **Verse 26  
 
@@ -6396,8 +5808,6 @@ from the mundane psychology.**
 *Commentary:*  
 The yogi has to achieve this. It does not come by wishful thinking. Only through higher yoga can this be achieved consistently.
 
-
-
 **Verse 27  
 
 तच्छिद्रेषु प्रत्ययान्तराणि संस्कारेभ्यः**  
@@ -6412,8 +5822,6 @@ These are based on subtle impressions.**
 *Commentary:*  
 The yogi has to work through this without being disappointed or frustrated. He should not give up the higher yoga practice. He faces failures at every step but he must forge ahead. He must work for emancipation from his helpless alliance with the mento-emotional force. His main energy is the mind's content, which is deeply inlaid, in the mento-emotional force as urge-producing impressions from the past. Some of these surface as memory and others surface as pictures, sound formation, and then are expanded into meaningful or meaningless picturizations and sounds which distract the yogi by keeping him occupied in the picture-sound show of the mind. A yogi has to fight this to gain self-conquest.
 
-
-
 **Verse 28  
 
 हानमेषां क्लेशवदुक्तम्**  
@@ -6427,8 +5835,6 @@ is like the elimination of the mento-emotional afflictions.**
 *Commentary:*  
 It is a personal struggle. The God is there but each yogi has to master this himself. As a beginning yogi becomes preoccupied removing all causes for the mental and emotional troubles, so the advanced yogi has to remove the mind content which poses a botheration and which the mind clings to automatically when it relaxed from the proper focus.  
   Great yogis went on before. They can help us with this inner struggle. They encourage us to practice. They have shown the way by their personal lives on earth, or by their current austerities in higher dimensions. Besides that, each yogi has to endure this inner conflict alone.
-
-
 
 **Verse 29  
 
@@ -6450,16 +5856,12 @@ according to nature's way of acting for beneficial results.**
 *Commentary:*  
 Dharmameghaḥ is usually translated as cloud (meghaḥ) of virtue (dharma). However we took hints from I. K. Taimni, where he stated that dharmameghaḥ samādhi, means the final samādhi in which the yogi shakes himseIf free from the world of Dharmas which obscure reality like a cloud.
 
-
-
 He is perhaps, the first commentator who understood this particular verse of Śrī Patañjali. That is to be regretted. The key to the meaning of this verse lies in the terms akusīdasya. This is because kusida means a moneylender, or any money lent at a rate exceeding 5%. When "a" is added as a prefix, it means not having any desire to gain anything.  
  Śrīla Yogeshwarananda asked us to develop paravairāgya, which is complete disinterest in this world. Śrī Patañjali was specific in stating that one has to lose interest even in the very subtle aspect of material nature, aspects which we encounter in deep meditation on other levels of this reality. This is indicated by the term prasaṁkhyāne which means that one may see something of value in deep meditation, in which case one cannot develop the paravairāgya and one will not lose interest in the Dharmas or ways of righteous living which are legated by material nature for different beings on different gross and subtle levels.  
   If we want to benefit in any way (sarvathā) from material nature, on any level, we will be attracted proportionally, and we will fall under the cloud (megha) of values (dharmas) which dictate how we should act to gain in the particular realm of our interest. This will keep us in the material world.  
   All yogis are forewarned by Śrīla Yogeshwaranada, who warned this writer in the same way, that the main obstacle is the desire for fame as a spiritual master. From that comes the idea that one should develop a territory where one can have his own kingdom with loyal disciples. Material nature will then show one a layout of values which one must adapt for success as a territorial spiritual master or god. This will cause a fall down.  
   Even though Śrīla Yogeswarananda had left behind many books, as well as ashrams and spiritual missions, still when I see him come down from the causal level where he is completing more auste rities and researched into our complication, I never see him with disciples. He is not interested in any of the rules and regulations or dharmas which are laid out for spiritual masters who want to be worshipped as exalted saviors orgurus.  
   Everything in the material world, in the subtle, supersubtle or gross parts of it, is dangerous. We should know this. There were many people who came to me to be disciples and who suggested that they become elevated so that they can help others. All of them are conceited.
-
-
 
 **Verse 30  
 
@@ -6473,13 +5875,9 @@ of the mento-emotional energy
 in terms of generation of cultural activities  
 and their resulting afflictions.**
 
-
-
 *Commentary:*  
 The meaning of dharma-meghaḥ in the preceding verse is now explained by the subsequently result of the stoppage of generation of cultural activities which are themselves dictated by various types of dharma righteous lifestyle for particular results in the gross or subtle mundane world. None of these karmas or cultural activities are completely free from afflictions. Thus when the yogi reaches the causal level and sees the various clouds of energy (meghaḥ) in which the dharmas or laws for righteous life, are created and maintained, he gets an ease in his higher yoga practice. He smiles for he will never again fall into the trap of making spiritual missions to help or to save others. Such things are a complete farce, and are very disgusting to one who has seen the reality as it is.  
   An example of a yogin who left aside such things is Swami Satyananda of Bihar, who though he complete all duties given to him by his spiritual master, the great Swami Shivananda, did not himself continue to be a guru in this world, but carefully and efficiently left all that aside to proceed honestly with his advancement. Such a high class person is neither selfish nor conceited. If anything, he is realistic.
-
-
 
 **Verse 31  
 
@@ -6498,8 +5896,6 @@ from it.**
 *Commentary:*  
 For this world, the mento-emotion energy is the linking agent. It is the means of prying into various things. It shows us how to be interested in and how to invest in this world for a benefit. But once we become freed from that energy, and we experience the self by itself, we no longer consider this world as being essential.
 
-
-
 **Verse 32  
 
 ततः कृतार्थानां परिणामक्रमसमाप्तिगुणानाम्**  
@@ -6507,15 +5903,11 @@ For this world, the mento-emotion energy is the linking agent. It is the means o
 
 tataḥ – thus; kṛtārthānāṁ – having done their purpose; pariṇāma– changes, alteration; krama – a step, succession, progression, process of development, samāptir = samāptiḥ – end conclusions; guṇānām – of the influence of the subtle material nature.
 
-
-
 **Thus, the subtle material nature, having fulfilled its purpose,  
 its progressive alterations end.**
 
 *Commentary:*  
 This is only for the yogin who achieved isolation from his mento-emotional energies and their impulsive operations. For him, the natural power transfer from his spirit to the mento-emotional force ceases. For others it continues just as before.
-
-
 
 **Verse 33  
 
@@ -6539,8 +5931,6 @@ The advanced yogi alone achieves this. This is an individual accomplishment, whe
 
 Some of what is natural for God, becomes natural for the yogin who made that much endeavor and who completed the course of higher yogi described by Śrī Patañjali Muni.
 
-
-
 **Verse 34  
 
 पुरुषार्थशून्यानां गुणानां प्रतिप्रसवः  
@@ -6550,8 +5940,6 @@ pratiprasavaḥ kaivalyaṁ
 svarūpapratiṣṭhā vā citiśaktiḥ iti*
 
 puruṣārtha – the aims of a human being; śūnyānāṁ – devoid of; guṇānāṁ – of the influences of material nature; pratiprasavaḥ – reabsorption, retrogression, neutralization; kaivalyaṁ – separation of the spirit from psychology; svarūpa – own form; pratiṣṭhā – established; vā – this, at last; citiśaktiḥ – the power of pure consciousness; iti– that is all.
-
-
 
 **Separation of the spirit  
 from the mento-emotional energy (kaivalyam)  
@@ -6565,15 +5953,10 @@ as the force empowering the mento-emotional energy.**
 *Commentary:*  
 This ends the description of higher yoga practice, given to us by Śrī Patañjali Muni, that authority for all times. Undoubtedly, Śrī Patañjali Mahamuni covered everything in the mystic practice of yoga. Allglories unto him.
 
-
-
 ***END*  
 ![](../books_images/U-IMG-1691672254Screenshot2023-08-10182609.png)**
 
-
-
 ![](../books_images/U-IMG-1692616885Screenshot2023-08-21164641.png)
-
 
 **Glossary with *Word-for-Word* Meanings**
 
@@ -6633,8 +6016,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | anāditvaṁ          | what is without beginning, primeval                                         |
 | anāgata           | future                                                                      |
 | anāgataṁ           | the future, what has not manifested                                         |
-
-
 
 |                   |                                                                     |
 |-------------------|---------------------------------------------------------------------|
@@ -6696,8 +6077,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | api               | also, even, although, but                                           |
 | apramāṇakam       | not being observed                                                  |
 | apratisaṁkramāyāḥ | not moving from one position to another                             |
-
-
 
 |               |                                                                     |
 |---------------|---------------------------------------------------------------------|
@@ -6768,8 +6147,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | balāni        | powers                                                              |
 | baleṣu        | by strength                                                         |
 
-
-
 |                 |                                                                           |
 |-----------------|---------------------------------------------------------------------------|
 | bandha          | bondage                                                                   |
@@ -6828,8 +6205,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | dhruve          | on the Pole Star                                                          |
 | dhyāna         | effortless linkage of the attention to higher concentration forces        |
 | dhyānajam      | produced by the effortless linkage of the attention to a higher reality   |
-
-
 
 |              |                                                                               |
 |--------------|-------------------------------------------------------------------------------|
@@ -6895,8 +6270,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | heyaṁ        | that which is to be avoided                                                   |
 | hi           | indeed                                                                        |
 | hiṁsa       | violence                                                                      |
-
-
 
 |              |                                                            |
 |--------------|------------------------------------------------------------|
@@ -6968,8 +6341,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | kṣaṇa       | moment                                                     |
 | kṣaya       | decrease                                                   |
 
-
-
 |               |                                                    |
 |---------------|----------------------------------------------------|
 | kṣayaḥ        | dissipation, removal                               |
@@ -7038,8 +6409,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | nitya        | eternal                                            |
 | nityatvāt     | what is eternal                                    |
 
-
-
 |                |                                                            |
 |----------------|------------------------------------------------------------|
 | nivṛttiḥ       | cessation, suppression                                     |
@@ -7106,8 +6475,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | pratiṣthā     | established                                                |
 | pratiṣṭham     | positioned, based                                          |
 
-
-
 |                |                                                                                          |
 |----------------|------------------------------------------------------------------------------------------|
 | pratiṣṭhāyāṁ   | on being firmly established                                                              |
@@ -7162,8 +6529,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | samāpatteḥ    | of meeting of linking                                                                    |
 | samāpattibhyām | meeting encounter                                                                        |
 | samāpattiḥ    | linkage fusion                                                                           |
-
-
 
 |                 |                                                                            |
 |-----------------|----------------------------------------------------------------------------|
@@ -7224,8 +6589,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | savicāra        | investigative linkage of one's attention to a higher concetration force    |
 | savitarkā      | thoughtfulness, reasoning, deliberation                                    |
 | śeṣaḥ          | what is remaining                                                          |
-
-
 
 |                  |                                                         |
 |------------------|---------------------------------------------------------|
@@ -7302,8 +6665,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | tattvam          | essence, actual composition                             |
 | tayoḥ            | of these two                                            |
 
-
-
 |                |                                                         |
 |----------------|---------------------------------------------------------|
 | te             | these, they                                             |
@@ -7375,8 +6736,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | viparyaya      | incorrect perception                                    |
 | viprakṛṣṭa     | remote                                                  |
 
-
-
 |               |                                                                            |
 |---------------|----------------------------------------------------------------------------|
 | virāma        | losing track of, dropping                                                  |
@@ -7421,10 +6780,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | yoginaḥ       | of the yogis                                                               |
 | yogyatā       | being conducive for abstract meditation                                    |
 | yogyatvāni    | being fit for yoga or abstract meditation                                  |
-
-
-
-
 
 **Index to *Verses*; Selected Sanskrit Words**
 
@@ -7493,8 +6848,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | dvandvāḥ          | 2.48        |
 | dveṣaḥ            | 2.8         |
 
-
-
 |                    |                          |
 |--------------------|--------------------------|
 | **E**              |                         |
@@ -7560,8 +6913,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | nivṛttiḥ           | 3.31; 4.30               |
 | niyama             | 2.29, 32                 |
 | nyāsāt             | 3.27                     |
-
-
 
 |                    |                                     |
 |--------------------|-------------------------------------|
@@ -7632,8 +6983,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | tantraṁ            | 4.16                                |
 | tapaḥ              | 2.1, 32; 4.1                        |
 
-
-
 |                 |             |
 |-----------------|-------------|
 | tapasaḥ         | 2.43        |
@@ -7664,53 +7013,9 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | yogyatā         | 2.53        |
 | Yogyatvāni      | 2.41        |
 
-
-
 [TABLE]
 
 **Index to *Verses*: Selected English words**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 |                                 |              |
 |---------------------------------|--------------|
@@ -7792,8 +7097,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | Inhalation                     | 1.34         |
 | Inherent nature                | 4.13         |
 
-
-
 |                                           |          |
 |-------------------------------------------|----------|
 | Insight                                   |         |
@@ -7853,8 +7156,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 |     phases                           | 2.19     |
 |     purpose fulfilled                | 4.32     |
 | Matter                                    | 3.12     |
-
-
 
 |                                       |                  |
 |---------------------------------------|------------------|
@@ -7942,13 +7243,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | Past and future                      | 3.16             |
 | Past                                 | 4.12             |
 
-
-
-
-
-
-
-
 |                                       |                        |
 |---------------------------------------|------------------------|
 | Peace                                 | 3.10                   |
@@ -8032,8 +7326,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | State                                 | 1.18,19                |
 | States of matter                     | 3.45                   |
 
-
-
 |                                     |                       |
 |-------------------------------------|-----------------------|
 | Status/ moral restraints           | 2.31                  |
@@ -8084,8 +7376,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 |     rates                      | 1.21,22               |
 |     results                   | 2.28                  |
 |     standard methods          | 1.32                  |
-
-
 
 |                           |                                    |     |
 |---------------------------|------------------------------------|-----|
@@ -8171,11 +7461,7 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | British government       | 164                                |    |
 |                          |                                   |    |
 
-
-
 [TABLE]
-
-
 
 |                                             |                       |
 |---------------------------------------------|-----------------------|
@@ -8266,8 +7552,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | Incorrect perception                       | 85,88                 |
 | useful ones                                 | 114                   |
 
-
-
 |                              |                                                  |
 |------------------------------|--------------------------------------------------|
 | I-ness                       | 93                                               |
@@ -8352,15 +7636,9 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | Mantra                       | 188                                              |
 | Manu                         | 95                                               |
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 |                                        |                                 |
 |----------------------------------------|---------------------------------|
@@ -8445,8 +7723,6 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | Shivram Ape,                           | 150                             |
 | Shuddha,                              | 110                             |
 | Shuka,                                | 116                             |
-
-
 
 |                                                                                                                  |                           |
 |------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -8534,13 +7810,7 @@ This ends the description of higher yoga practice, given to us by Śrī Patañja
 | Trees,memory                                                                                                     | 123                       |
 | Truthfulness                                                                                                    | 135                       |
 
-
-
 [TABLE]
-
-
-
-
 
 **Scheme of Pronunciation**
 
@@ -8579,7 +7849,6 @@ ya    ra    la     va
          **Aspirate**:     ह            
 śa    ṣa   sa                        
              ha                     
-                              
 
 Vowels:
 
@@ -8594,12 +7863,6 @@ u        ū      ṛ         ṝ
 
 e       ai       o       au        
 ḷ         ḹ       ṁ      ḥ
-
-
-
-
-
-
 
 **About the Author**
 
@@ -8626,16 +7889,5 @@ If you have some interest in yoga, nurture and develop it. Sri Krishna, the Supr
 *yatate ca tato bhūyaḥ saṁsiddhau kuru nandana*
 
 **In that environment (in the new birth), he (the yogi) is inspired with the cumulative intellectual interest from a previous birth. And from that time, he strives again for yoga perfection, O dear son of the Kurus. (Gitā 6.43)**
-
-
-
-
-
-
-
-
-
-
-
 
 \]
