@@ -15,6 +15,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgyNjU2ODk1ODU
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 KASHMIR SERIES OF TEXTS & STUDIES  
 No. LXXII.
 
@@ -48,10 +62,13 @@ Printed at the Shree Durga Press
 
 1947 A.D.
 
+
+
 **कश्मीरसंस्कृतग्रन्थावलिः**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 **ग्रन्थाङ्काः ७२**
+
 
 **प्रासादमण्डनम्**
 
@@ -79,6 +96,10 @@ Printed at the Shree Durga Press
 
 ** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
+
+
+
+
 ( ALL RIGHTS RESERVED)  
 Printed atthe DURGA PRESS, SRINAGAR.  
 -------------- ------------
@@ -90,17 +111,23 @@ for the Research Department
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
+
+
 **PRASADA MANDANA.**
 
 **PREFACE**
 
 --------------------
 
+
  Prasadamandnam is a brief treatise on Hindu Architecture and sculpture, outlining the procedure to be adopted in the construction of temples for gods and goddesses. It is for the first time that an edition of the work of this type is being brought out by this Department.
 
+  
       Following is a short description of the manuscript which forms the main basis of the present edition :-
 
+
 **No. of manuscript : 2803 \[ R.N. Library Catalogue \]**
+
 
 Name of the manuscript :  Prasadamandanam,  
 Name of the author  : Mandana Sutradhara  
@@ -111,9 +138,12 @@ Script : Devanagri
 Shape :  Talapatra  
 Condition :   Good and complete
 
+
  The manuscript is almost correct, notwithstanding the unfamiliar construction of the technical language used in the text, where the copyists are generally expected to commit blunders. There are also a few lacunea which could not be filled up in absence of other manuscripts.
 
 The manuscript begins with the following lines :
+
+
 
 **श्रीगणेशाय नमः। श्रीकरञ्जेश्वर्यै नमः ।**
 
@@ -141,9 +171,12 @@ it ends :-
 
 ** इति श्रीसूत्रधारमण्डनविरचिते वास्तुशास्त्रेप्रासादमण्डनेऽष्टमोऽध्यायः ॥८॥**
 
+
  As alluded to above, the manuscript is a brief compilation of the books on the ancient Indian architecture. It consists of eight Adhyayas or Chapters. The first deals with मिश्रकलक्षण i.e. the preliminaries in the architecture of temples; the second tells us about the mouldings of the base; the third describes measurements etc; of the Pitha the \[Pedestal\], Mandovara (Munder) Garba griha (the sanctuary of the temple ) and Udumbara (the threshold); the fourth Adhyaya treats of the various sizes of statues, their positions, flag-staffs and Kalasha or the finials; the fifth, sixth and the seventh give details of Phalana, Nandna, storeyed buildings, various constructions of the temples, Kesari etc., fifty four classes of Meru (a class of building mostly storeyed). Mandapas (pavilions and open halls and Balanaka, a raised platform along the wall of the council hall of a temple): the eighth briefly mentions the ways regarding the conservation of the temples and the religious merit which one attains as a result of the work of repairs done to them; flaws in the architecture of the temples are also enumerated. The chapter ends with brief details regarding the construction of Mathas
 ----- monasterics, the institution of a stationery idol, worship to the Chief architect, laying the foundation of a Jaina temple and the installation of the Vastu-purusha \[home diety\].  
  I am pleased to record my thanks to the editing staff and other members of the Department, who have in various ways helped me in bringing out the present edition of the Prasadamandana.
+
+
 
                 
                 
@@ -151,6 +184,7 @@ it ends :-
 
       **              
 INTRODUCTION**
+
 
   Prasadamandana literaly means the ornament of the temples or palaces, whereby the author seems to presume that the book under edition is one of the best treatises on the Indian architecture and sculpture. The word Prasada, generally, means a palace. It also conveys the meanings of a temple, an edifice, a platform, and a Buddhist assembly or confessional Hall. There seems to be a significant usage of the word Mandana in the title of the book, Mandana besides conveying the idea of an ornament signifies the name of the author - Mandana Sutradhara who is the composer of the present book Prasadamandana may, therefore, mean a treatise out lining the principles of architecture of temples and palaces set forth by Mandanas.  
   As is evident from the brief contents of the text, it seems to be an abstract of Vastu-shastra, one of the works on Indian architecture by the same author, Dr P. K. Acharya mentions 300 manuscripts on Indian architecture lying scattered in the various libraries in and outside India. Very few of them have been published on modern lines of Research and criticism, one among them being Manasara edited by Dr P.K. Acharya in 5 volumes, It is a monumental work of his 17 years hard and patient labour, which has shed a considerable light on the Indian architecture and a branch of literature which was neglected and dubbed as the most barbarous piece of sanskrit literature
@@ -162,6 +196,7 @@ INTRODUCTION**
 -- Rajavallabha-mandana, and on the general principles of the Hindu Architecture - Vastu-Shastra, are also from the pen of the same author. His compilations are brief and succinct.  
  Prasadamandana or other compilations on Hindu Architecture and sculpture by Sutradhara Mandana seem to be modern compilations. The specific usage of some of the words, Bhitta, Phalana Mandovara etc. which I have come across in the text under edition testify also to that direction. Compilations of this type seem to have been written not as much with a view to contain instruction to the would-be builders and carpenters as with the aim of advising the kings and othermen intending to build temples, as to how they should direct the artisans to proceed with the constructional work on lines and forms ordained by the Shastras. In a way, it or any other book on the subject Indian architecture of modern times, is not so much as a guide book for young artisans as it is more or less a book of injunctions on the VastuKriya. I don't think this statement pertains to the older works of high standard and orginality. They are the fountain heads of the science of Engineering which have afforded great resources to later authors who unmindful of the scientific treatment of the subject, seem to have written nunerous compilations for the use of religious-minded people, who out of faith or for attainment of religious merit, erect temples for the prepitiation of their beloved deities. Much stress has been laid on the particular period of time, the auspicious conjunction of stars, the pacificatory rites and all other items conducive to the successful completion of the constructional work of the temples and edifices, by the different group of authors of such compilations to ensure happy future of the constructors of the holy abodes of gods.
 
+
  Text General topics dealt with in Prasadamandana are not original but repetitions of the items already treated exhaustively in older works It begins with the usual solutations to Ganesha for warding off of the obstacles. Another homage is paid to Karanjeshvari - the Divine Mother of trees, which are the main sources of timber for constructional work of the temples and mansions. In Manasara, a long detail is given regarding the collection of logs of wood, with unique formalities to be observed by the chief architect -Sthapati, who will be incharge of the constructions. The same procedure to be gone through at the laying out of the foundations or on the opening ceremony of an edifice, says Mandana, is to be observed in the case of temples also. God Shiva is also propitiated being presumably the presiding deity of the science of Architecture. As a result of Shiva's propitiation there arise, it is said, fourteen kinds of the temples out of which eight are considered to be the best. Then comes the selection of site and the examination of the soil. The plots thus chosen for constructional work should be demarcated and worship offered to them with flowers, rice, and other material for worship. The guardians of the quarters and sub-quarters are also to be worshipped. Importance is laid on the careful observation of the auspiousness of the time, the day, the month, the hour, the minute or the fraction of a minute when such constructions are to begin. Foundation should be dug down says the author, till the appearance of stone or water bed, when a tortise (Kurma) should be firmly fixed. During the process of masonary work songs, music, dancing should continue. Regarding the merit which arises out of the construction of a temple of any material, it is said that out of temple made even of grass, springs up merit that kills one crore sins; the one made of earth bestows the merit ten times the former the one made of bricks gives merit capable removig of one hundred crore of sins; bliss adinfinitum accrues from stone-built temples. 
 
       Details about the construction of Jagati - the base of the temple are next discussed, Its importance is magnified in the same way as that of the construction of a Simhasana - the royal throne. It should the erected in five different mouldings in accordance with the shape, and size of the temple. In design it may be high, middle or low according to the construction being three-fold, four-fold or five-fold. Auspicious signs should adorn it and enhance its artistic beauty, Its cornors should number twelve, twenty, twenty-eight or thirty-six in consistence with the various designs of the bases of columns. The pavilions with flights of steps and arches may be constructed with skilled workmanship wherever necessary. Chariot sheds, the monastery and other minor temples dedicated to various gods should be beautifully designed at their proper places. The construction of Jagati should be commensurate with the height and magnitude of the temple.  
@@ -170,9 +205,13 @@ INTRODUCTION**
  A few pages of the text encompass a brief summary of the constructional ways regarding the Shikhara, the lower part of the finial and its size and measurements with other details, inter alia, pertaining to the construction of the upper portion of the temple.Among all the auspicious items of constructions the Kalasha, the eldest son of milk-ocean, and the foremost part of a temple, is said to be conducive to enormous bliss and prosperity of the master, with its unfurled flag-staff which should be circular and made of strong and durable wood. In no case should there be an omission in the erection of a Dhvaja on a temple a well, a pond, a chariot, a rampart or royal mansion Demons, it is said, come to reside in temple without flag-staff with the unfurling of which the gods, the manes and other higher divine beings become gratified. There are also enumerated the various kinds of temples with their pavilions running along side of the council hall-walls in the temples.  
  The book ends with the salutory advice or rather a caution to those who build the temple, or cause them to be built, to the effect that they should not overlook the injunctions of the Shastras enjoining the various auspicious ways and designs or particulars to be observed in the process of the constructions of the temples. All the minute details should be strictly adhered to. Not only the erection of the temples (may be of wood, earth, bricks or stone): digging wells ponds and monasteries etc. does bring everlasting religious merit to the person whose life-mission is the devotion to mankind at large, but also their conservation and repairs executed with a view to remove certain flaws in the component parts of the idols enshrined in them.
 
+
 **Srinagar,** J. D. ZADOO.
 
 **22-7-47.**  
+
+
+
 
 ** विषयानुक्रमणी**
 
@@ -195,6 +234,7 @@ INTRODUCTION**
 |       14       |    तत्तद्द्रव्यजे तत्तत्फलानि     |
 |       15       |        प्रासादप्रमाणनिरू०         |
 
+
  **द्वितीयोऽध्यायः।**
 
 |     |                        |
@@ -209,6 +249,7 @@ INTRODUCTION**
 | 23  | चण्डिकायतनम्           |
 | 24  | शिवायतनम्              |
 | 25  | त्रिपुरुषन्यासनिरू     |
+
 
   **तृतीयोऽध्यायः।**
 
@@ -232,6 +273,7 @@ INTRODUCTION**
 | 41  | सप्तमशाखानिरू०        |
 | 42  | नवशाखानिरू०          |
 
+
 **चतुर्थोऽध्यायः।**
 
 |     |                            |
@@ -240,6 +282,8 @@ INTRODUCTION**
 | 44  | प्रासादस्योर्ध्वलक्षणम्    |
 | 45  | कलशनिरू०                   |
 | 46  | ध्वजलक्षणपुण्याधिकारः      |
+
+
 
 **पञ्चमोऽध्यायः**:
 
@@ -251,6 +295,8 @@ INTRODUCTION**
 | 50  | पञ्चाङ्गतिलकनिरू० |
 | 51  | सप्ताङ्गतिलकनिरू०  |
 | 52  | भद्रप्रमाणनिरू०    |
+
+
 
 **षष्ठोऽध्यायः**
 
@@ -266,6 +312,8 @@ INTRODUCTION**
 | 60  | कमलहंसनिरू०            |
 | 61  | नवमेरुकनिरू०           |
 
+
+
 **सप्तमोऽध्यायः**
 
 |     |                         |
@@ -276,6 +324,8 @@ INTRODUCTION**
 | 65  | सामान्यमण्डपनिरू०      |
 | 66  | पञ्चविधबलानकनिरू०       |
 | 67  | मण्डपस्योर्ध्वसंवर्णाः |
+
+ 
 
 **अष्टमोऽध्यायः।**
 
@@ -306,6 +356,8 @@ INTRODUCTION**
 | 90  | वास्तुपुरुषन्यासः    |
 | 91  | ग्रन्धममाप्तिः      |
 
+ 
+
 **प्रासादमण्डनम् **
 
 **श्रीसूत्रधारमण्डनविरचितम्**
@@ -313,6 +365,9 @@ INTRODUCTION**
 **------------------------**
 
 **श्रीगणेशायनमः। श्रीकरञ्जेश्वर्घ्यै नमः ॥**
+
+
+
 
 गणोशाय नमस्तस्मै निर्विघ्नसिद्धिहेतवे।
 
@@ -491,6 +546,7 @@ INTRODUCTION**
 **इति श्रीसूत्रधारमण्डनविरचिते प्रामादमण्डने**
 
 **वास्तुशास्त्रे मिश्रकलक्षणे प्रथमोऽध्यायः॥१॥**
+
 
 ** अथ द्वितीयोऽध्यायः।**
 
@@ -703,7 +759,10 @@ INTRODUCTION**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
  **अथ तृतीयोऽध्यायः।**
+
 
 अतिस्थूलातिविस्तीर्णा प्रासादाधारिणी शिला।
 
@@ -1010,6 +1069,7 @@ INTRODUCTION**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
 **अथ चतुर्थोऽध्यायः।**
 
 द्वारोच्छ्रायोऽष्टनवधा भागमेकं परित्यजेत् ।
@@ -1224,6 +1284,8 @@ INTRODUCTION**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
+
+
 ** अथ पञ्चमोऽध्यायः।**
 
 नानाविधमिदं विश्वं विचित्रं येन सूत्रितम् ।
@@ -1381,7 +1443,9 @@ INTRODUCTION**
 
 ** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
+
 **अथ षष्ठोऽध्यायः**
+
 
 केसरी सर्वतोभद्रो नन्दनो नन्दिशालकः।
 
@@ -1584,7 +1648,9 @@ INTRODUCTION**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
+
 ** अथ सप्तमोऽध्यायः।**
+
 
 रत्नगर्भाङ्कनं सूर्यचन्द्रतारावितानकम् ।
 
@@ -1798,6 +1864,7 @@ INTRODUCTION**
 सप्तमोऽध्यायः ॥७॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  
+
 
 **अथ अष्टमोऽध्यायः।**
 
@@ -2085,6 +2152,7 @@ INTRODUCTION**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
 क्षीरं क्षौद्रं घृतं खण्डपक्वान्नानि बहून्यपि ।
 
 षड्रसाः स्वादुभक्षाणि समन्तात्परिकल्पयेत् ॥ ६९॥
@@ -2286,6 +2354,7 @@ INTRODUCTION**
 
 **इति वास्तुषुरुषन्यासः।**
 
+
 एकेन शास्त्रेण गुणाधिकेन
 
  विना द्वितीये न पदार्थसिद्धिः।
@@ -2307,6 +2376,15 @@ INTRODUCTION**
 **इति प्रासादमण्डनं समाप्तम् ॥**
 
 **------------------------------------------------------**
+
+
+
+
+
+
+
+
+
 
 \]
 

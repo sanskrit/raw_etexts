@@ -12,6 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 \[
 
+
+
+
+
 **फलदीपिका**
 
    **प्रथमोऽध्यायः**
@@ -71,6 +75,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 दिक्त्र्यंशैर्मनुयुक्तिथीषुभनकांशैस्तेऽस्तनीचाः क्रमात्॥६॥
 
 सिम्होक्षाजवधूहयाङ्गवणिजः कुंभस्त्रिकोणा रवेः
+
+
 
 ङ्य़ेन्द्वोस्तूच्चलवान्नखोड्विनशरैर्दिग्भूतकृत्यंशकैः।
 
@@ -134,6 +140,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 स्थानं त्रिषड्व्ययपराभवराशिनाम्॥१६॥
 
+
+
 दुःस्थानमष्टमरिपुव्ययभावमाहुऊ सुस्थानमन्यभवनं शुभदं प्रदिष्टम्।
 
 प्राहुर्विलग्नदशसप्तचतुर्थभानि केन्द्रं हि कण्तकचतुष्टयनामयुक्तम्॥१७॥
@@ -193,6 +201,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 संपद्वाहनवस्त्रभूषणनिधिद्रव्याणि तौर्यत्रिकं
 
 भार्यसौख्यसुगन्धपुष्पमदनव्यापारशय्यालयाण्।
+
+
 
 श्रीमत्त्वं कवितासुखं बहुवधूसङ्गं विलासं मदं
 
@@ -256,6 +266,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 शैवो भिषङ्नृपतिरध्वरकृत्प्रधानी
 
+
+
 व्याध्रोमृगो दिनपतेः किल चक्रवाकः
 
 शास्ताङ्गनारजकर्कषकतोयगाः स्यु
@@ -317,6 +329,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 प्राहुः सत्त्वरजस्तमांसि शशिगुर्वर्काः कविङ्य़ौपरे
 
 ग्रीष्मादर्ककुजौ शशी शशिसुतो जीवः शनिर्भार्गवः॥२४॥
+
+
 
 ताताम्बे रविभार्गवौ दिवि निशि प्राभाकरीन्दू स्मृतौ
 
@@ -380,6 +394,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 रक्तोग्रदृष्टिविषवाग्रदेहः सशस्त्रः पतितश्च केतुः।
 
+
+
+
+
 धूम्रद्युतिधूमप एव नित्यं व्रणाङ्किताङ्गश्च कृशो नृशम्सः॥ ३४॥
 
 सीसं च जीर्णवसनं तमसस्तु केतो
@@ -439,6 +457,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 नागं योग खगं बलं भग शिला धूलिर्नवं प्रस्वनम्।
 
 लाभं विश्व दिवं रम धर्मं षष्ट्यंशकाश्चौजभे
+
+
 
 क्रूराराख्याः समभे विपर्ययमिदं शेषास्तु सौम्याह्वयाः॥ ५॥
 
@@ -502,6 +522,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 मध्यौ स्त्रीयमयोरिहायुधभृतः पाशोलिमध्यो भवेत्।
 
+
+
 नक्राद्यो निगलो मृगेन्द्रघटयोराद्यो वणिङ्मःध्यमो
 
 गृध्रास्यो वृषभान्तिमश्च विहगः कार्क्यादिकोलाननम्॥ १३॥
@@ -561,6 +583,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 निश्यारेन्दुसिताः परे दिवि सदा ङ्य़ःशुक्लपक्षे शुभाः
 
 कृष्णेऽन्ये च निजाब्दमासदिनहोरास्वङि्ध्रिवृधद्ध्या क्रमात्॥१॥
+
+
 
 राकाचन्द्रस्य चेआबलमुदगयते भास्वतो वक्रगानां
 
@@ -624,6 +648,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 तद्वीर्यपाददलशक्तिभृतौ ङ्य़शुक्रौ
 
+
+
 चान्द्रं बलं तु निखिलग्रहवीर्यबीजम्॥११॥
 
 चन्द्रक्रियादि
@@ -686,6 +712,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 मुन्मत्तता च सलिलाप्लवनं विरोधः॥ १८॥
 
+
+
 स्वोच्छास्नानं क्षुद्भयं शास्त्रलाभं स्वैर गोष्ठी योधनं पुन्यकर्म।
 
 पापा चारः क्रूरकर्मा प्रहर्षं प्राङ्य़ैरेवं चन्द्रवेला प्रदिष्टा॥ १९॥
@@ -746,6 +774,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 जीवांशके भूसुरदेवतानां समाश्रयाद्भूमिपतिप्रसादात्।
 
+
+
 पुराणशास्त्रागमनीतिमार्गाद्धर्मोपदेशेन कुसीदवृत्या॥६॥
 
 स्त्रीसंश्रयाद्गोमहिषीगजाश्वैस्तौर्यत्रिकैर्वा रजतैश्च गन्धैः।
@@ -805,6 +835,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 न हीति कथितोऽथवा हिमकराद्ग्रहैः केन्द्रगैः॥ ५॥
 
 स्वयमाधिगतवित्तः पार्थिवस्तत्समो वा
+
+
 
 भवति हि सुनफायां धीधनख्यातिमांश्च।
 
@@ -868,6 +900,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 स्त्रीणान्तद्व्यत्ययेस्याच्छशिनि सुरगुरोः केन्द्रगे केसरीति।
 
+
+
 जीवन्त्याष्टरिसंस्थे शशिनि तु शकटः केन्द्रगे नास्ति लग्ना
 
 च्चन्द्रे केन्द्रादिगेऽर्कादधमसमवरिष्ठाख्ययोगाः प्रसिद्धः॥ १४॥
@@ -929,6 +963,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 तेजस्वी स्वजनान् सुरक्षति महालक्ष्मीप्रसादालयः।
 
 श्रेष्ठान्दोलिकया प्रयाति तुरगस्तम्बेरमध्यासितो
+
+
 
 लोकानन्दकरो महीपतिवरो दाता च लक्ष्मीभवः॥२४॥
 
@@ -994,6 +1030,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 क्रूरोक्तिः किलदैन्यजश्चलमतिर्विच्छिन्नकार्योद्यमः।
 
+
+
 उद्वृत्तश्च खले कदाचिदखिलं भाग्यं लभेताखिलं
 
 सौम्योक्त्तिश्च कदाचिदेवमशुभं दारिद्र्यदुःखदिकम्॥ ३३॥
@@ -1055,6 +1093,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 भाग्यख्यातिसुपारिजातमुसलास्तज्ङ्य़ैर्यथा कीर्तिताः॥ ४४॥
 
 प्रत्यहं व्रजति वृदिमुदग्रं शुक्लचन्द्र इव शोभनशीलः।
+
+
 
 कीर्तिमान् जनपतिश्चिरजीवी श्रीनिधिर्भवति चामरजातः॥ ४५॥
 
@@ -1118,6 +1158,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 योगा द्वादश ते दरिद्र विमले प्रोक्ताविपश्चिज्जनैः॥ ५७॥
 
+
+
 अप्रसिद्धिरतिदुःसहदैन्यं स्वल्पमायुरवमानमसद्भिः।
 
 संयुतः कुचरितः कुतनुः स्याच्चञ्चलस्थितिरिहाप्यवयोगे॥ ५८॥
@@ -1177,6 +1219,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
  **  सप्तमोऽध्यायः**
 
    राजयोग
+
+
 
 त्र्याद्यैह् खेटैः स्वोच्चगैः केन्द्रसंस्तहिः स्वःर्क्षस्थैर्वा भूपतिः स्यात्प्रसिद्धिः।
 
@@ -1240,6 +1284,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 कर्मेशो नवमगतश्च भाग्यनाथो
 
+
+
 मध्यस्थो भवति नृपो जनैः प्रशस्तः॥ ९॥
 
 चापार्द्धेभगवान् सहस्रकिरणस्तत्रैव ताराधिपो
@@ -1301,6 +1347,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 यस्याश्वबृन्दखुरघातरजोऽभिभूतो
 
 भानु प्रभातशशिनोऽनुकरोति रूपम्॥ १७॥
+
+
 
 केन्द्रगौ यदि च जीवशशाङ्कौ
 
@@ -1364,6 +1412,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 यस्य स तु चक्रवर्ती समस्तभूपालवन्द्यांध्रिः॥२७॥
 
+
+
 यस्मिन्ग्रशौ वर्तते खेचरस्तद्राशीशेन प्रेक्षितश्चेत्स खेटः।
 
 क्षोणीपालं कीर्तिमन्तं विदध्यात् सुस्थानश्चेत्किंपुनः पार्थिवेन्द्रः॥ २८॥
@@ -1423,6 +1473,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 धनाढयोऽन्तर्वाणिविषयसुखवान् वाचि विकलः
 
 सहोत्ये सभ्रातृप्रमदबलशौर्योऽतिकृपणः॥५॥
+
+
 
 सुखी भोगी त्यागी सुहृदि ससुहृद्वाहनयशाः
 
@@ -1486,6 +1538,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 बह्वायुः सत्यसन्धो विपुलधनसुखी लाभगे भृत्ययुक्तो
 
+
+
 दीनो विद्याविहीनः परिभव सहितोऽन्त्ये नृशंसोऽलसश्च॥१३॥
 
 शोभावान् सुकृती चिरायुरभयो लग्ने सुरौ सात्मजो
@@ -1547,6 +1601,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 विमुखमधनमर्थेऽन्यायवन्तं च पश्चा
 
 दितरजनपदस्थं यानभोगार्थयुक्तम्।
+
+
+
+
 
 विपुलमतिमुदारं दारसौख्यं च शौर्ये
 
@@ -1610,6 +1668,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 भूक्षेत्रयानजननीसुखजन्मभूमि
 
+
+
 नाशं सुखे परगृहस्थितिमेव दत्ते॥ २९॥
 
 पुत्रक्षयं जठररोगपिशाचपीडां
@@ -1669,6 +1729,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 पृष्ठास्यपश्वेर्ऽण्कयुतो पृषोत्थः॥ २॥
 
 श्यमेक्षणः कुञ्चितमुर्द्धजः स्त्रीक्रीडानुरक्तश्च परेण्गितङ्य़ः।
+
+
 
 उत्तुण्गनासः प्रियगीतनृत्तो वसन् सदान्तः सदने च युग्मे॥३॥
 
@@ -1732,6 +1794,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 ङ्य़त्वानुरूपाणि फलानि तस्य।
 
+
+
 युक्त्त्या वदेदत्र फलं विलग्ने
 
 यच्चन्द्रलग्नेऽपि तदेव वाच्यम्॥१३॥
@@ -1788,9 +1852,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 स्वक्षेत्रगस्योक्तफलानि तद्वत्॥ २०॥  
 
+
 **दशमोऽध्यायः**
 
 **कलत्र भव**
+
+
 
 शुभाधिपयुतेक्षिते सुतकलत्रभे लग्नतो
 
@@ -1854,6 +1921,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 नीचारिभस्थैरशुभैर्मदे स्त्री
 
+
+
 पुंसोर्मृतिः स्यान्निधने धने वा॥ ८॥
 
 लग्नात्कलत्रभवने समराशिसंङ्य़े
@@ -1913,6 +1982,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 कलत्रहानी प्रवदन्ति सन्तः॥१५॥
 
 एकादशमोऽध्यायः
+
+
 
 स्त्री जातक
 
@@ -1976,6 +2047,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 बलाबलविकल्पेन तयोरेवं विचिन्तयेत्॥ ८॥
 
+
+
 ज्योष्ठाभ्रातरमन्बिकां च पितरं भर्तुः कनिष्ठं क्रमात्
 
 ज्योष्ठा ह्यासुरशूर्पजाश्च वनिता घ्नन्तीति तज्ङ्य़ाविदुः।
@@ -1999,6 +2072,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 दृष्टेऽस्मिन् गुरुणा निजोपचयगे कुर्यान्निशेकं पुमान्
 
 अत्याज्ये समये शुभाधिकयुते पर्वादिकालोज्भिते॥११॥
+
+
 
 द्वादशोऽध्यायः
 
@@ -2035,6 +2110,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 चन्द्र लाभगते गुरुस्थितसुतस्थाने सपापे भवे
 
 ल्लग्नेऽनेकखगानन्विते तनयभाक्कालान्तरे यत्नतः॥४॥
+
+
 
 सूर्ये नान्युते सुतर्क्षसहिते चन्द्रस्य गेहे स्थिते
 
@@ -2098,6 +2175,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 अशत्रुनिचारिनवांशकैः सुते
 
+
+
 सुतेशयुक्तैरपि तैस्तथाविधैः।
 
 सुतर्क्षगैर्वा गुरुभादिनांशकात्सुते
@@ -2160,6 +2239,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 शापाद्वालकृताद्विलालवधतः श्चीविष्णुकोपादूबुधे॥ २०॥
 
+
+
 पारंपर्यसुरप्रियद्विजगुरुद्रोहात्फलाढ्यद्रुम
 
 च्छेदाद्देवगुरौ तथा सति भृगौ पुष्पद्रुमच्छेदनात्।
@@ -2221,6 +2302,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 अथान्यशास्त्रेण च जन्मकालतो
 
+
+
 निरूपयेत्सन्ततिलक्षणं बुधः॥२९॥
 
 जन्मनक्षत्रनाथस्य प्रत्ययर्क्षर्धिपस्य च
@@ -2247,6 +2330,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 प्रश्नात्मजस्वीकरणोपनीतिकन्याप्रदानाभिनवार्तवेषु।
 
 आधानकालेऽपि च जन्मतुल्यं फलं वदेञ्जन्मविलग्नतश्च॥३४॥
+
+
 
 त्रयोदशोऽध्यायः
 
@@ -2279,6 +2364,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 बालस्तदन्त्यासु चतुःशरत्सु
 
 स्वकीयदोषैः समुपैति नाशम्॥ ४॥
+
+
 
 तद्दोषशान्त्यै प्रतिजन्मतार
 
@@ -2342,6 +2429,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 जन्मेशोऽथ विलग्नपो यदिभवेद्दुस्थोऽबलो वत्सरै
 
+
+
 स्तद्राशिप्रमितैश्च मारयति तन्मासैदृर्गाणाधिपः।
 
 अंशेशो दिवसैस्तथा यदि मृतिर्द्वित्र्यादियोगान्बहू
@@ -2404,6 +2493,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 गुणधिकं तं कथयन्ति कालम्॥ २०॥
 
+
+
 लग्नाधिपोऽतिबलवानशुभैरदृष्टः
 
 केन्द्रस्थितः शुभखगैरवलोक्यमानः।
@@ -2440,6 +2531,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 दायुर्बुधो वदतु भूरिपरीक्षया च॥ २५॥
 
+
+
 चतुर्दशोऽध्यायः
 
 रोगनिर्णय
@@ -2463,6 +2556,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 चेतः शान्तिमसृग्विकारमुदकाद्भितिं च बालग्रहाद्
 
 दुर्गकिन्नरधर्मदेवफणभृद्यक्ष्याश्च भीतिं वदेत्॥३॥
+
+
 
 तृष्णासृक्कोपपित्तज्वरमनलविषास्त्रातिकुष्टाक्षिरोगान्
 
@@ -2526,6 +2621,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 राहौभौमनिरीक्षिते च पिलकां सेन्दौ शनौ गुल्मजं
 
+
+
 क्षीणेन्दौ जलभेषु पापसहिते तत्स्थेऽम्बुरोगं क्षयम्॥११॥
 
 जातो गच्छति येन केन मरणं वक्ष्येऽथ तत्कारणं
@@ -2588,6 +2685,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 कोपात्प्रभोः शस्त्रविषाग्निजैर्वा॥२०॥
 
+
+
 सौम्यांशके सौम्यगृहेऽथ सौम्य
 
 सम्बन्धगे वा क्षयभे क्षयेशे।
@@ -2648,6 +2747,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 समे मृगाः स्युवीहगाः परस्मिन्
 
+
+
 द्रेक्काणरूपैरपि चिन्तनीयम्॥ २८॥
 
 ताधेकराशौ जननं स्वदेशे।
@@ -2657,6 +2758,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 वर्णो गुणस्तस्य खगस्य तुल्यः
 
 संङ्य़ोदितैरेव वदेत्समस्तम्॥ २९॥
+
+
 
 पञ्चदशोऽध्यायः
 
@@ -2707,6 +2810,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 भावार्यष्टमकामगा निजदशायां भावनाशप्रदाः।
 
 पापा भावगृहात् त्रिशत्रुभवगाः केन्द्रत्रिकोणे शुभाः
+
+
 
 वीर्यढ्याः खलु भावनाथसुहृदो भावस्य सिद्धिप्रदाः॥७॥
 
@@ -2770,6 +2875,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 चेतोबुद्धिनृपप्रसादजननीसंपत्करश्चन्द्रमाः।
 
+
+
 सत्वं रोगगुणानुजावनिरिपुङ्य़ातीन्धरासूनुना
 
 विद्याबन्धुविवेकमातुलसुहृद्वाक्कर्मकृद्बोधनः॥१५॥
@@ -2832,6 +2939,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 बुधिं प्रसादं सुतभाच्च षष्ठा
 
+
+
 त्पीडा पितुर्दोषर्मारं च रोगम्।
 
 कामं मदं तस्य तु सप्तमेन
@@ -2891,6 +3000,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 त्रिकोणे वा स्थितिः पञ्चप्रकारो बन्ध ईरितः॥ ३०॥
 
 षोडशोऽध्यायः
+
+
 
 द्वाद्श भावफल
 
@@ -2954,6 +3065,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 गुर्वर्कभूसूनुनिरीक्षितौ चेत्।
 
+
+
+
+
 ओजो गृहः स्याददि विक्रमाख्यः
 
 पुंभ्रातरस्त्वंशवशाड्भवेयुः॥९॥
@@ -3015,6 +3130,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 ष्वारोग्यमाग्यसहितो दृढगात्रयुक्तः॥१७॥
 
 शत्रुनाथे तु दुःस्थाने नीचमूढारिसंयुते
+
+
 
 टस्माद्बलाध्येलग्नेशे शत्रुनाशं रवौ शुभे॥१८॥
 
@@ -3078,6 +3195,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 लग्नेशस्थितभांशकोणमुदयं वाऽयाति भावाधिपः।
 
+
+
 संयोगेऽपि विलोकनेऽपि च तयोस्तद्भावसिद्धिं तदा
 
 ब्रूयात्कारकयोगतस्तनुपतेर्लग्नाच्च चन्द्रादपि॥ ३१॥
@@ -3105,6 +3224,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 भावेशवीर्ये शुभमन्यथान्य
 
 ल्लग्नाच्च चन्द्रादपि चिन्तनीयम्॥ ३५॥
+
+
 
 सप्तदशोऽध्यायः
 
@@ -3137,6 +3258,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 याते गुरौ स्वमरणन्त्वथ राहुहीन
 
 भूसूनुभांशकगुरौ सहजप्रणाशः॥६॥
+
+
 
 भानोः कण्टकवर्जितस्य भवनांषे वा त्रिकोणे गुरौ
 
@@ -3200,6 +3323,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 विलग्नजन्माष्टमराशिनाथयोः
 
+
+
 खरत्रिभागेश्वरयोस्तयोरपि।
 
 शशाङ्कमान्द्योरपि दुर्बलांशक
@@ -3262,6 +3387,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 तेषामंशवशाद्वदन्तु निधनं तत्तत्रिकोणेऽपि वा॥ २८॥
 
+
+
 अष्टादशोऽध्यायः
 
 द्विग्रहयोग
@@ -3321,6 +3448,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 स्वर्क्षेयोधप्राङ्य़सूरिक्षितीशा
 
 लोहाजीवो नेत्ररोगी क्रमेण॥ ७॥
+
+
 
 राजा ज्योतिर्विद्धनाढ्यो नरेन्द्रः
 
@@ -3384,6 +3513,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 अल्पापत्यो दुःखितः सत्यपि स्वे
 
+
+
 मानासत्कः कर्मणि स्वेऽनुरक्तः।
 
 दुष्टस्त्रीष्टः कोपनश्चार्किभागे
@@ -3443,6 +3574,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 भागक्रमात्तदृवसाः प्रकल्प्याः॥ ४॥
 
 दशाफल
+
+
 
 भानुः करोति कलहं क्षितिपालकोप
 
@@ -3506,6 +3639,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 ङ्य़नक्रियां सलिलयानमुपैति शौक्रयां
 
+
+
 कल्याणकर्मबहुमानमिलाधिनाथात्॥१२॥
 
 पाकेऽर्कजस्यनिजदारसुतातिरोगान्
@@ -3568,6 +3703,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 प्रतिजनितविभूतिः स्यात्पशुक्षेत्रलाभः।
 
+
+
 सहजतनयवैरं दुर्जनस्त्रीषुसक्ति
 
 दर्हनरुधिरपित्तव्याधिरर्थोपहानिः॥ २०॥
@@ -3627,6 +3764,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 भावेश्वरेण प्रबलेन येन यद्यत्फलं हीनबलेन येन।
 
 यदानुभोक्तव्यमनन्यसम्यक्संसूचयिष्यत्यथ संग्रहेण॥१॥
+
+
 
 लग्ने बलिष्ठे जगति प्रभुत्वं सुखस्थिति देहबलं सुवर्चः।
 
@@ -3690,6 +3829,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 यत्कार्यमारब्धमुपैत्यनेन
 
+
+
 तस्यैव सिद्धिं सुखजीवनं च।
 
 कीर्तिं प्रतिष्ठां कुशलप्रवृत्तिं
@@ -3751,6 +3892,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 पूर्वोपासितदेवकोपमशुभं जायातनूजापदं
 
 दौष्कृत्यं स्वगुरोः पितुश्च निधनं दैन्यं शुभे दुर्बले।
+
+
 
 यद्यत्कर्म करोति तत्तदफलं स्यान्मानभङ्गो नभो
 
@@ -3814,6 +3957,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 नीचारिषष्ठव्ययसंश्रिता हि
 
+
+
 शुभाः प्रयच्छन्त्यशुभानि सर्वे।
 
 शुभेतरास्त्वेषु गताः प्रयच्छ
@@ -3875,6 +4020,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 तद्भावपुष्टिं कुरुते तदानीं
 
 बलान्वितश्चेज्जननेऽपि तस्य॥ ३४॥
+
+
 
 बलोनितो जन्मनि पाकनाथो
 
@@ -3938,6 +4085,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 द्वावप्येतौ भुक्तिकाले दशाया
 
+
+
 मन्योन्यं तौ योगदौ सोपकारौ॥४२॥
 
 न दिशेयुर्ग्रहाः सर्वे स्वदशासु स्वभुक्तिषु।
@@ -4000,6 +4149,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 मध्या भवेत्सा सुहृदुच्चभागे।
 
+
+
 आरोहिणी निम्नपरिच्युतस्य
 
 नीचारिभांशेष्वधमा भवेत्सा॥५६॥
@@ -4051,6 +4202,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 प्रश्नोदयग्रहवशादथ वा स्वजम््म
 राश्यादिना वदतु नास्त्यनयोर्विशेषः॥ ६३॥
 
+
+
 एकविंशोऽध्यायः
 
 प्रत्यन्तर्दशाफल
@@ -4058,6 +4211,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 अपहारविभागलक्षणं तत्पंक्तिं क्रमशः स्फुटं प्रवचिम्।
 
 यदुदीरितमत्र तत्समस्तं कथयेत्स्वदशान्तरान्तरादौ॥१॥
+
+
 
 पाकेशाब्दहता दशेश्वरसमा नेत्राङ्कभक्ताः समाः
 
@@ -4121,6 +4276,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 विशर्धनं जठरकटिप्रपीडनम्।
 
+
+
 महीक्षयः त्रिगदभयं भवेत्तदा
 
 विधोः सुते चरति रवेरथाब्दकम्॥ ९॥
@@ -4182,6 +4339,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 चित्तबोध इति जायते विधो
 
 रायुषि प्रवेशति प्रबोधने॥ १७
+
+
 
 चित्तहानिरपि सपदश्च्युति
 
@@ -4245,6 +4404,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 विगमनमथ देहाद्वित्तनाशोऽथवा स्यात्।
 
+
+
 अपगमनमसुभ्यो योषितो वा विनाशः
 
 प्रविशति यदि केतुः क्रूरनेत्रायुरन्तम्॥२६॥
@@ -4306,6 +4467,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 पटुक्रियाभूषणकौशलादयो
 
 भुजङ्गसंवत्सरहारिणीन्दुजे॥ ३३॥
+
+
 
 ज्वराग्निशस्त्रारिभयं शिरोरुजा
 
@@ -4369,6 +4532,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 केचिद्वदन्त्यपि च केवलमङ्गलाप्तिः।
 
+
+
 देवद्विजार्चनसुतार्थसुखप्रयोगै
 
 र्गीवर्णपूजितदशां हरतीन्दुसूतौ॥ ४१॥
@@ -4430,6 +4595,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 स्थविराङ्गनाप्तिरलसत्वमघो
 
 निजवत्सरान्तरगते रविजे॥ ४८॥
+
+
 
 सुभगत्वमस्ति सुखित वनिता
 
@@ -4493,6 +4660,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 धनधान्यवृद्धिरधिका हि नृणां
 
+
+
 गतवत्यथार्किवयसीन्द्रगुरौ॥५६॥
 
 बुध की महादशा में विविध अन्तर्दशों का फल
@@ -4554,6 +4723,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 रिपुजनकलहं सुहृद्विरोधं
 
 त्वशुभचः श्रवणं ज्वराङ्गदाहम्।
+
+
 
 गमनपरधाम्नि वित्तनाशं
 
@@ -4617,6 +4788,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 सुतवर्जननं प्रभुप्रशस्तिः
 
+
+
 क्षितिधनसिद्धिररीश्वरप्रपीडा।
 
 पशुकृषीविहतिर्भवेत्तु पुंसां
@@ -4679,6 +4852,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 विविधवित्तपरिच्छदसंयुति
 
+
+
 दितिपूजितदायगते शनौ॥ ८१॥
 
 तनयसौख्यमागमसम्पदां
@@ -4704,6 +4879,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 छिद्रेषु सूक्ष्मेष्वपि तत्फलाप्तिः
 
 छायाङ्कवार्तश्रवणानि वा स्युः॥ ८४॥
+
+
 
 द्वाविंशोऽध्यायः
 
@@ -4738,6 +4915,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 राशीशवर्षैःपरमायुरत्र॥ ४॥
 
 पौरं गावो मित सन्दिग्धं
+
+
 
 नक्षत्रेन्दुः स तु भूशूलम्।
 
@@ -4801,6 +4980,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 दशान्तरं दुःखफलप्रदं स्यात्॥ १२॥
 
+
+
 तद्वाक्यवर्णक्रमशोपहार
 
 वर्षाहते तत्परमायुराप्ते।
@@ -4862,6 +5043,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 तस्योपदेशो वरमत्र किन्तु
 
 कुर्वन्त्ययोग्यं बहुवर्गणभिः।
+
+
 
 आचार्यकं त्वत्र बहुघ्नतायाम्
 
@@ -4925,6 +5108,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 ब्रूमस्रयाणामपि वीर्यसाम्ये॥ २८॥
 
+
+
 तेषां त्रयाणामिह संयुतिस्तु
 
 त्रिभिर्हृता सैव दशा प्रकल्प्या।
@@ -4952,6 +5137,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 लोके नरा दधति ये कुलशीललिलां
 
 तेषामिदं कथितमायुरुदारधीभिः॥ ३२॥
+
+
 
 त्रयोविंशोऽध्यायः
 
@@ -4984,6 +5171,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 तीक्ष्णांशोर्गणितानके शिशिरगोर्लाक्षाय भूमेः सुतात्
 
 पुत्रीवासजनाय चन्द्रतनयाद्गोमेतके गीष्पतेः।
+
+
 
 तन्नाकारि सितात्तदा कुरुशनेः कोवासदाधेनुको
 
@@ -5047,6 +5236,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 तत्तद्ग्रहर्क्षाशकतुल्यभांश
 
+
+
 स्थिता ग्रहाश्चारवशादिदानीम्।
 
 तथैव तद्भावसमुत्थितानि
@@ -5109,6 +5300,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 अष्टाक्षसंख्याधिकविन्दवश्वेत्
 
+
+
 शुभं तदुने व्यसनं क्रमेण॥ २०॥
 
 यावन्तस्तुहिनरुचेः शुभाङ्कसंस्था
@@ -5168,6 +5361,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 शनौ याते मातृहानिः त्रिकोणसंगतेऽपि वा॥ ७॥
 
 चन्द्रात्सुखाष्टमेशंशत्रिकोणे विदेसाधिपे।
+
+
 
 मातुर्वियोगं तन्मासे निर्दिश्लेल्लग्नतः पितुः॥८॥
 
@@ -5231,6 +5426,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 उभयोर्ग्रहसंयुक्ते न संशोध्यं कदाचन॥२१॥
 
+
+
 एकस्मिन् भवने शून्ये न संशोध्यं कदाचन।
 
 द्वावग्रहौचेद्यन्नयूनं तत्तुल्यं शोधयेद्द्वयोः॥ २२॥
@@ -5293,6 +5490,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 रागी वली भास्वरगीर्भगाचलाः।
 
+
+
 गिरौ विवस्वान्बलवद्विवक्षया
 
 शुली मम प्रीतिकरोऽत्र तीर्थकृत्॥ ३५॥
@@ -5333,6 +5532,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 तज्ङ्य़ैर्विस्तरतः प्रोक्तमन्यत्र पटुबुद्धिभिः॥ ४४॥
 
+  
+
 **पंचविंशोऽध्यायः**
 
    गुलिकादि उपग्रह
@@ -5352,6 +5553,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 अहर्मानवृद्धिक्षयौ तत्र कार्यौ
 
 निशायां तु वारेश्चरात्पञ्चमाद्याः॥ २॥
+
+
 
 दिव्या घटी नित्यतनुः खनीनां
 
@@ -5415,6 +5618,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 बहुरिपुगणहन्ता भूतविद्याविनोदी
 
+
+
 रिपुगतगुलिके सच्छेष्ठपुत्रः सशूरः॥११॥
 
 कलत्रसंस्थे गुलिके कलही वहुभार्यकः।
@@ -5477,6 +5682,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 व्यतीपाते मृगभयं चतुष्पान्मरणं तु वा॥ २३॥
 
+
+
 परिवेषे जले भीरुर्जलरोगश्च बन्धनम्।
 
 इन्द्रचापे शिलाघातः क्षतं शस्त्रैरपि च्युतिः॥२४॥
@@ -5513,6 +5720,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 महितपृथुयशास्स्यान्मेदिनीमङ्डलेन्द्रः॥ ३०॥
 
+
+
 षड्विंशोऽध्यायः
 
 गोचरफल
@@ -5536,6 +5745,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 लाभविक्रमखशत्रषु स्थितः
 
 शोभनो निगदितो दिवाकरः।
+
+
 
 खेचरैः सुततपोजलान्त्यगैः
 
@@ -5599,6 +5810,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 क्रमेण भाग्योदयमर्थहातिं जयं श्लोकमरोगतां च।
 
+
+
 सुखान्यनिष्टं गदमिष्टसिद्धिंमोदं व्ययं च प्रददाति चन्द्रः॥१२॥
 
 अन्तः शोकं स्वजनविरहं रक्तपित्तोष्णरोगं
@@ -5660,6 +5873,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 भाग्ये जीवे सर्वसौभाग्यसिद्धिः
 
 कर्मण्यर्थास्थनपुत्रादिपिडा
+
+
 
 लाभे पुत्रस्थानमानदिलाभो।
 
@@ -5723,6 +5938,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 वैनाशिके प्रत्यरभे वधाख्ये
 
+
+
 पापग्रहो मृत्युभयं विदध्या
 
 द्वेधेतथा कार्यहरः शुभाख्ये॥ २८॥
@@ -5784,6 +6001,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 शीतांशोर्वदने द्वयोरतिभयं क्षेमंशिरस्यम्बुधौ
 
 पृष्ठे शत्रुजयं द्वयोर्नयनयोर्नेत्रे धनं जन्मभात्।
+
+
 
 पञ्चस्वात्मसुखं हृदि त्रिषु करे वामे विरोधं क्रमात्
 
@@ -5847,6 +6066,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 शुक्रस्य कलहो भ्रंश अनर्थः शशिजस्य तु।
 
+
+
 चन्द्रस्य तु महाहानिर्लत्तामात्रफलं भवेत्॥ ४६॥
 
 सर्वत्र लत्तासाङ्कर्ये द्विगुणत्रिगुणादिकम्।
@@ -5856,6 +6077,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 सर्वतो भद्र चक्रोक्त शुभवेधाः शुभावहाः।
 
 पापवेधा दुःखतरा गोचरेताश्च चित्तयेत्॥४८॥
+
+  
 
 सप्तविंशोऽध्यायः
 
@@ -5907,6 +6130,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 यदि भवति तपस्वी दुःखितः शोकतप्तो
 
+
+
 धनजनपरिहीनः कृच्छ्रलब्धान्नपानः॥६॥
 
 प्रकथितमुनियोगे राजयोगो यदि स्या
@@ -5924,6 +6149,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 सब्द्बाहुल्यवशाच्च तत्र सुशुभस्थानस्थितैस्तैर्वदेत्
 
 प्रव्रज्यां महितां सताम्भिमतां चेदन्यथा निन्दिताम्॥८॥
+
+ 
 
 **अष्टाविंशोऽध्यायः**
 
@@ -5967,8 +6194,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM2MTYyMTE0Mzk
 
 सुकुन्तलाम्बां सम्पूज्य सर्वभीष्टप्रदायिनीम्।
 
+
+
 तत्कटाक्षविशेषेण कृता या फलदीपिका॥६॥
 
 ----------
+
 
 \]

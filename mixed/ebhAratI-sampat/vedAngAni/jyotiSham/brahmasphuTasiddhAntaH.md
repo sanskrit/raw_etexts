@@ -12,7 +12,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5MTg3ODkwMDU
 
 \[
 
+
+
+
 ब्रह्मस्फुटसिद्धान्त ब्रह्मगुप्त
+
 
 \[अथ गणिताध्यायस्\]
 
@@ -925,5 +929,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc5MTg3ODkwMDU
 २१.२३अ । उत्क्रमसमखण्डगुणात्व्यासातथ वा %चतुर्थभागात्यत् ।
 
 २१.२३च् । कृत्वा उक्तखण्डकानि ज्या%अर्धऽनयनं न लघु अस्मात् । ।
+
 
 \]

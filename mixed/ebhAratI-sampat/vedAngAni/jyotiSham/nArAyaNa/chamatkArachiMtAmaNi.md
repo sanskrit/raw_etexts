@@ -79,7 +79,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxMjIzNzEzMzk
 
 **टीका.** एक चक्र असे काढावें कीं, त्यांत बारा कोष्टकें होतील. अशा रमणीय चक्रामध्यें आंरूढ लग्न (१) मध्यें मांडावें. आणि त्याशिवाय बाकीच्या अकरा राशी डाव्या आंगाच्या बाजूनें मांडाव्या नंतर ज्याराशीस जोग्रहअसेल तो त्या राशीस लिहावा.
 
-वामांग![](../books_images/1688978354.jpg) दक्षिणांग
+वामांग<MISSING_FIG href="../books_images/1688978354.jpg"/> दक्षिणांग
 
 याप्रमाणें कुंडली तयार करून तिजपासून शुभाशुभ फलें सांगावीं. याकुंडलीस जन्म कुंडली ह्मणतात.
 
@@ -1106,7 +1106,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxMjIzNzEzMzk
 
 द्वादशभावांचा नावाची कुंडली
 
-![](../books_images/1688980909.jpg)
+<MISSING_FIG href="../books_images/1688980909.jpg"/>
 
 द्वादशभावांचा नावाचा कोश.
 
@@ -1457,4 +1457,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDgxMjIzNzEzMzk
 |      **"**       | "दाहाचे आंत प्रती घेणारांची संख्या ११३ आणि प्रतीची संख्या ३१७ |                   |
 
 \]
-

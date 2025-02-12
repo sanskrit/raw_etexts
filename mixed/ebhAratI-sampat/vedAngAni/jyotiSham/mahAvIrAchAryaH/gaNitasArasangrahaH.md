@@ -1044,8 +1044,6 @@ CONTENTS.
 
 गतिगज[^74]विषयेषुविधुखराद्रिकरगतियुगस्य भण मूलम् ।
 
-[^74]: "This stanza is not found in M"
-
 लेख्याश्वनगनवाचलपुरखरनयजीवचन्द्रमसाम् ॥ ५९ ॥
 
 गतिखरदुरितेभाम्भोधितार्क्ष्ययध्वजाक्ष-
@@ -1607,8 +1605,6 @@ CONTENTS.
 
 तत्प्रभवगुणं प्रभवो गुणभागस्येष्टवित्तस्य[^84] ॥ २९ ॥
 
-[^84]: "M गुणभागाद्युत्तरेच्छायाः"
-
 अत्रोद्देशकः ।
 
 प्रभवस्त्र्यर्धोरूपं प्रचयः पञ्चाष्टमस्समानपदम् ।
@@ -1855,15 +1851,11 @@ CONTENTS.
 
 अष्टुपञ्चमुखौ[^80] हारावुभयेऽप्येकवृद्धिकाः ।
 
-[^80]: "This stanza is omitted in M."
-
 त्रिंशदन्ताः[^111] पराभ्यस्ताश्चतुर्गुणितपश्चिमाः ॥ ६५ ॥
 
 [^111]: "B विंशत्य."
 
 स्वस्ववक्र[^94]प्रमाणांशा रूपात्संशोध्य तद्द्वयम् ।
-
-[^94]: "This stanza is not found in M."
 
 शेषं सखे समाचक्ष्व प्रोत्तीर्णगणितार्णव[^113] ॥ ६६ ॥
 
@@ -8582,7 +8574,7 @@ The rule relating to the *Aṃśavarga* variety (of miscollaneous problems on fr
 62. (A number) of buffaloes (equivalent to) the square of $\\frac{1}{8}$(of the whole herd) minus 1 is sporting in the forest. The(remaining) 15 (of them) are seen grazing grass on a mountain. How many are they (in all)?
 
 **61**. Algebraically,  
-$x\~ = \~\\left\\{ \~ \\pm \~\\sqrt{\\left( \\frac{n}{2m}\~ \\pm \~d \\right)^{2}\~ - \~d^{2}\~ - \~a}\~ + \~\\left( \\frac{n}{2m}\~ \\pm \~d \\right)\~ \\right\\}\~ \\div \~\\frac{m}{n}$, This value is obtained from the equation![](../books_images/1673327016.jpg) where *d* in the given known quantity.
+$x\~ = \~\\left\\{ \~ \\pm \~\\sqrt{\\left( \\frac{n}{2m}\~ \\pm \~d \\right)^{2}\~ - \~d^{2}\~ - \~a}\~ + \~\\left( \\frac{n}{2m}\~ \\pm \~d \\right)\~ \\right\\}\~ \\div \~\\frac{m}{n}$, This value is obtained from the equation<MISSING_FIG href="../books_images/1673327016.jpg"/> where *d* in the given known quantity.
 
 63. (A number) of elephants (equivalent to) $\\frac{1}{10}$ of the herd *minus* 2, as multiplied by that same($\\frac{1}{10}$of the herd *minus* 2), is found playing in a forest of *sallakī* trees. The (remaining) elephants of the herd measurable in number by the square of 6 are moving on a mountain. How many (together) are (all) these elephants here?
 
@@ -8598,7 +8590,7 @@ The rulerelating to the *Mūlamiśra* variety (of miscellaneous problems on frac
 
 65. To the square of the (known) combined sum (of the square roots of the specified unknownquantities), the (given) *minus* quantity is added, or the(given) *plus* quantity is subtracted (therefrom); (then) the quantity (thus resulting) is divided by twice the combined sum (referred to above); (this) when squaredgives rise to the required value (of the unknown collection). In relation to the working out of the *Mūlamiśra* variety of problems, this is the rule of operation.
 
-**65**.Algebraically ![](../books_images/1673327952.jpg) This is easily derived from the equation $\\sqrt{x}\~ + \~\\sqrt{x\~ \\pm \~d}\~ = \~m$. The quantity *m* is here the known combined sum mentioned in the rule.
+**65**.Algebraically <MISSING_FIG href="../books_images/1673327952.jpg"/> This is easily derived from the equation $\\sqrt{x}\~ + \~\\sqrt{x\~ \\pm \~d}\~ = \~m$. The quantity *m* is here the known combined sum mentioned in the rule.
 
 *Examples of the* minus *variety.*
 
@@ -9240,8 +9232,8 @@ Here it is stated that 63 heaps of plantains together with 7 separate fruits are
 
 Now, according to the rule, we divide first the rāśi, or group-number 63, by the *chēda* or the divisor 23, and then we coutinue the process of division as in finding out H.C.F. of two nunbers:-
 
-![](../books_images/1673437326.png)    
-![](../books_images/1673437417.png)
+<MISSING_FIG href="../books_images/1673437326.png"/>    
+<MISSING_FIG href="../books_images/1673437417.png"/>
 
 Here, the first quotient 2 is discarded; the otherquotients are written down in a line one below the  
 other as in the margin; then we have to choosesuch a number as, when multiplied by the last  
@@ -9249,7 +9241,7 @@ remainder 1, and then combined with 7, (the number of separate fruits given in t
 
 Thus weget the chain or *Vallikā* noted in the first column of figures in the margin.
 
-![](../books_images/1673438319.png)Then wemultiply the penultimate figure below in the chain, viz., 1, by 4, which is above it, and add 8, the lastnumber in the chain; the resulting 12 is written down so as to be in the place corresponding to 4 : then multiplying this 12 by 1 which is the figure above it in the creeper chain, and adding 1, the figure similarly below it, we get 13 in the place of 1; proceeding in the same manner 38 and 51 are obtained in the places of 2and 1 respectively. This 51 is divided by 23, the divisor in the problem; and the remainder 5 is seen to be the least number of fruits in a bunch.
+<MISSING_FIG href="../books_images/1673438319.png"/>Then wemultiply the penultimate figure below in the chain, viz., 1, by 4, which is above it, and add 8, the lastnumber in the chain; the resulting 12 is written down so as to be in the place corresponding to 4 : then multiplying this 12 by 1 which is the figure above it in the creeper chain, and adding 1, the figure similarly below it, we get 13 in the place of 1; proceeding in the same manner 38 and 51 are obtained in the places of 2and 1 respectively. This 51 is divided by 23, the divisor in the problem; and the remainder 5 is seen to be the least number of fruits in a bunch.
 
 The rationale of the rule will be clear from the following algebraical representation :-
 
@@ -9271,8 +9263,8 @@ This same rule contemplates problems where two or more conditions are given, suc
 
 Now, according to the method already given, find out first the least number of fruits that will satisfy the first condition, and then find out the number of fruits that will satisfy the second condition. Thus we get the group-values 15and 16 respectively. Now, the divisor related to the larger group-value is divided as before by that related to the smaller group-value to obtain a fresh *vallikā* chain. Thus dividing 13 by 8 and continuing the division, we have -
 
-![](../books_images/1673440265.png)  
-![](../books_images/1673440323.png)
+<MISSING_FIG href="../books_images/1673440265.png"/>  
+<MISSING_FIG href="../books_images/1673440323.png"/>
 
 From this the *Vallikā* chain comes out thus - Choosing 1 as the *mati*, and adding the difference between the two group-values already arrived at, that is, 16-15, or 1, to the product of the *mati* and the last divisor, and dividing this sum by the lastdivisor, we have 2, which is to be written down below the *mati* in the *Vallikā* chain. Then proceeding as before with the *Vallikā*, we get 11,which, when divided by the first divisor 8, leaves the reminder 3. This is multiplied by the divisor related to the larger group-value, viz., 13, and then is combined with the larger group-value. Thus 55 is the number of fruits in the heap.
 
@@ -9378,8 +9370,8 @@ Thus the creeper-like chain of figures required for the solution of this latter 
 
 Carry out the required process of continued division :-
 
-![](../books_images/1673506586.png)    
-![](../books_images/1673506647.png)
+<MISSING_FIG href="../books_images/1673506586.png"/>    
+<MISSING_FIG href="../books_images/1673506647.png"/>
 
 After discarding the first quotient, the others are written down in a chain thus:-
 
@@ -9470,7 +9462,7 @@ The rule for arriving at the desired numerical value of certain specified object
 
 **151**. The following working of the problem given in 152-153 will illustrate the rule :-
 
-![](../books_images/1673523331.png)
+<MISSING_FIG href="../books_images/1673523331.png"/>
 
 Write down the rate-things and the rate-prices intwo rows, one below the other. Multiply by the total price and by the total number of things respectively. Then subtract. Remove the common factor 100. Multiply by the chosen numbers 3, 4, 5, 6. Add the numbers in each horizontal row and remove the common factor 6. Change the position of these figures, and write down in two rows each figure as many times as there are component elements in the corresponding sum changed in position. Multiply the two rows by the rate-prices and the rate-things respectively. Then remove the common factor 6. Multiply by the already chosen numbers 3, 4, 5, 6. The numbers in the two rows represent the proportions according to which the total price and the total number of things become distributed.
 
@@ -9752,7 +9744,7 @@ The ruleregarding the (possible) varieties of combinations (among given things) 
 
 221, O (my) friend, who know the principles of calculation, tell (me) how many varieties there may be, owing to variation in combination, of agarland made up of tho (following) flowers - *kētakī*, *aśōka*, *campaka*, and *nīlōtpala*.
 
-**218**. This rule relates to a problem in combination. The formulagiven here is $\\frac{n\~(n\~ - \~1)\~(n\~ - \~2)\~....\~(n\~ - \~r\~ + \~1)}{1.\~2.\~3.\~....\~r}$; and this is obviously equal to![](../books_images/1673601173.png).
+**218**. This rule relates to a problem in combination. The formulagiven here is $\\frac{n\~(n\~ - \~1)\~(n\~ - \~2)\~....\~(n\~ - \~r\~ + \~1)}{1.\~2.\~3.\~....\~r}$; and this is obviously equal to<MISSING_FIG href="../books_images/1673601173.png"/>.
 
 The ruleto arrive at (the unknown) capital with the aid of certain known and unknown profits (in a given transaction):-
 
@@ -10234,7 +10226,7 @@ The rule for arriving at the number of bricks to be found in structures made up 
 
 Rules regarding the six things to be known in the science of prosody :-
 
-**332**$\\frac{1}{2}$. The *nandyāvarta*figure referred to in the stanza is![](../books_images/1674118110.png)
+**332**$\\frac{1}{2}$. The *nandyāvarta*figure referred to in the stanza is<MISSING_FIG href="../books_images/1674118110.png"/>
 
 333$\\frac{1}{2}$-336$\\frac{1}{2}$. (The number of syllables in a given syllabie metre or *chandas* is caused to be marked in a separate column) by *zero* andby *one* (respectively), corresponding to the even (value) which is halved, and the uneven (value from which *one* is subtracted, till by continuing these processes zero is ultimately reached. The numbers in the chain of figures so obtained are) all doubled, (and then in the process of continued multiplication from the bottom to the top of the chain, those figures which come to have a *zero* above them) are squared. The (resulting) product (of this continued multiplication) gives the number (of the varieties of stanzas possible in that syllabic metre or *chandas*).
 
@@ -10244,30 +10236,30 @@ The rules will become clearfrom the following working of the problems given in s
 
 (1) There are 3 syllables in a metre; now, we proceed this:
 
-![](../books_images/1674119179.png)  
+<MISSING_FIG href="../books_images/1674119179.png"/>  
 Now, multiplying by 2 the figures in the right-hand chain, we obtain 0. By the process of  
 multiplication and squaring, as explained in the note to stanza 94, Ch. II, we get 8, and this is the number of varieties.
 
 (2) The manner of arrangement of the syllables in each variety is arrived at thus :-
 
-1st variety : 1, being odd, denotes long syllable so the first syllable is long. Add 1 to this 1, and divide the sum by 2; the quotient is odd. anddenotes another long syllable. Again, 1 is added to this quotient 1, and dividedby 2; the result,again odd, denotes a thind long syllable. Thus the first variety consists of three long ayllables, andis indicated thus ![](../books_images/1674119843.png).
+1st variety : 1, being odd, denotes long syllable so the first syllable is long. Add 1 to this 1, and divide the sum by 2; the quotient is odd. anddenotes another long syllable. Again, 1 is added to this quotient 1, and dividedby 2; the result,again odd, denotes a thind long syllable. Thus the first variety consists of three long ayllables, andis indicated thus <MISSING_FIG href="../books_images/1674119843.png"/>.
 
-2nd variety : 2, being even, indicates a short syllable; when this 2 is divided by 2, the quotient is 1, which being odd indicates a long syllable. Add 1 to this 1, and divide the sumby 2; the quotient being odd indicates a long syllable; thus we get![](../books_images/1674119698.png).
+2nd variety : 2, being even, indicates a short syllable; when this 2 is divided by 2, the quotient is 1, which being odd indicates a long syllable. Add 1 to this 1, and divide the sumby 2; the quotient being odd indicates a long syllable; thus we get<MISSING_FIG href="../books_images/1674119698.png"/>.
 
 Similarly the other six varieties are to be found out.
 
 (3) The fifth variety, for instance, may be found out as above.
 
-(4) To find out, for instance, the ordinal position of the variety,![](../books_images/1674119642.png)
+(4) To find out, for instance, the ordinal position of the variety,<MISSING_FIG href="../books_images/1674119642.png"/>
 
 weproceed thus :-
 
-![](../books_images/1674120180.png)
+<MISSING_FIG href="../books_images/1674120180.png"/>
 
 Below these syllables, write down the terms of a series in geometrical progression, having 1 as the first term and 2as the common ratio. Add the figures 4 and 1 under the short syllables, and increuse the sum by 1; we get 6: and we, therefore, say that this is the sixth variety in the  
 tri-syllabicmetre.
 
-(5) Suppose the problem is: How many varieties contain 2 short syllables ? Write down the natural numbers in the regular and in the inverse order, one below the other thus:![](../books_images/1674120775.png) .Taking two terms from right to left, both from above and from below, we divide the product of the former by the product of the Iatter. And the quotient 3 is the answer required.
+(5) Suppose the problem is: How many varieties contain 2 short syllables ? Write down the natural numbers in the regular and in the inverse order, one below the other thus:<MISSING_FIG href="../books_images/1674120775.png"/> .Taking two terms from right to left, both from above and from below, we divide the product of the former by the product of the Iatter. And the quotient 3 is the answer required.
 
 (6) It is prescribed that the symbolsrepresenting the long and short syllablesof any variety of metre should occupy an *aṅgula* of vertical space, and that the intervening space between any two varieties should also be an *aṅgula*. The amount, therefore, of vertical space required for the 8 varieties of this metre is 2 x 8 - 1 or 15 *aṅgulas*.
 
@@ -10309,11 +10301,11 @@ Hereafter we shall expound the sixth variety of calculation forming the subject 
 5. Learned men say that the trilateral areamay be equilateral, isosceles or scalene, and that the quadrilateral areaalso may beequi-lateral, equi-dichastic, equi-bilateral, equi-trilateral and in-equi-lateral.
 
 **5 and 6**. The various kinds of enclosed areas mentioned in these stanzas are illustrated below:-  
-![](../books_images/1674190923.png) ![](../books_images/1674191021.png)![](../books_images/1674191097.png)
+<MISSING_FIG href="../books_images/1674190923.png"/> <MISSING_FIG href="../books_images/1674191021.png"/><MISSING_FIG href="../books_images/1674191097.png"/>
 
 6. (The curvi-linear areamay be) a circle, a semicircle, an ellipse, a conchiform area, a concave circular area, a convex circular area, an out-lying annulus or an in-reaching annulus.
 
-![](../books_images/1674191193.png) ![](../books_images/1674191240.png)
+<MISSING_FIG href="../books_images/1674191193.png"/> <MISSING_FIG href="../books_images/1674191240.png"/>
 
 From consideration of the rules given for the measurement of the dimensions and areas of quadrilateral figures, it has to be concluded that all the quadrilateral figures mentioned in this chapter are cyclic. Hence an equilatoral quadrilateral is a square, an equidichastic quadrilateral is an oblong;and equililateral and equi-trilateral quadrilaterals have their topside parallel to the base.
 
@@ -10356,7 +10348,7 @@ In the case of a figure resembling the crescent moon, it is evident that the res
 
 17. In an annulus, the inner circular boundary measures 30 *daṇḍas*; the outer circular boundary is seen to be 300. The breadthof the annulus is 45. What is the calculated measure of the area of (this) annulus ?
 
-**11**. The shape of the figure mentioned in this stanza seems to be what is given here in the margin: it is intended that this should be treatedas a trilateral figare, and that the area thereof should be found out in accordance with the rule given in relation to trilateral figures.![](../books_images/1674192927.png)
+**11**. The shape of the figure mentioned in this stanza seems to be what is given here in the margin: it is intended that this should be treatedas a trilateral figare, and that the area thereof should be found out in accordance with the rule given in relation to trilateral figures.<MISSING_FIG href="../books_images/1674192927.png"/>
 
 18. In the case of a figure resembling the crescent moon, the breadth is seen to be2 *hastas*, the outer curve 68 *hastas*, and the inner curve 32 *hastes*. Say what the (resulting) area is.
 
@@ -10433,7 +10425,7 @@ Let *c*be the circumference of the circle. As*π* is taken to be equal to 3, $\\
 $c\~ + \~\\frac{c}{3}\~ + \~3\\frac{c^{2}}{36}\~ = \~m$.
 
 **32**. *Muraja* means the same thing as mardala and *mṛdaṅga*. The shape of the various figures mentioned in this states is as follows:  
-![](../books_images/1674214818.png)
+<MISSING_FIG href="../books_images/1674214818.png"/>
 
 The measures of the area arrived at according to the rule given in this stanza are approximately correct in the case of all the figures, as the rule is based on the assumption that each of the bounding curved lines may be taken to be equal to the sum of two straight lines formed by joining the ends of the curves with the middle point thereof.
 
@@ -10465,7 +10457,7 @@ The rule for arriving at the practically approximate measure of the areaof field
 
 **39**. The rule stated in this stanza given the area of figures made up of any number of sides. If*s* is half the sum of the measures of the sides, and *n* the number of sides, the area is said to be equal to $\\frac{s^{2}}{3}\~ \\times \~\\frac{n\~ - \~1}{n}$. Thisformula is found to give the approximate value of the area in the case of triangle, a quadrilateral, hexagon and a circle conceived as a figure of Infinite number of sides. The other part of the rule deals with the interspace bounded by parts of circles in contact, and the value of the area arrived at according to the rule here given is also approximate. The figure below shows an interspace so bounded by four touching circles.
 
-![](../books_images/1674216682.png)
+<MISSING_FIG href="../books_images/1674216682.png"/>
 
 *Examples in illustration thereof.*
 
@@ -10525,7 +10517,7 @@ The rule for arriving at the measure of the perpendicular (from the vertex to th
 
 **49**. Algebraically represented -
 
-![](../books_images/1674278446.png)  
+<MISSING_FIG href="../books_images/1674278446.png"/>  
 $c\_{1}\~ = \~\\left( c\~ + \~\\frac{a^{2}\~ - \~b^{2}}{c} \\right)\~ \\times \~\\frac{1}{2}$; $c\_{2}\~ = \~\\left( c\~ - \~\\frac{a^{2}\~ - \~b^{2}}{c} \\right)\~ \\times \~\\frac{1}{2}$; $p\~ = \~\\sqrt{a^{2}\~ - \~{c\_{1}}^{2}}\~or\~\\sqrt{b^{2}\~ - \~{c\_{2}}^{2}}$.Here a, b, c, represent the measures of the sides of a triangle, c₁, c₂, the measures of the segments ofthe base whose total length is *c*; and *p*represents the length of the perpendicular.
 
 The rule for arriving at the minutely accurate measurement of the area (of trilateral and quadrilateral figures) :-
@@ -10632,7 +10624,7 @@ The rule for arriving at the minutely accurate values relating to a figure resem
 
 The rule for arriving at the measure of the (bent) stick of the bow as well as of the arrow, in the case of a figure having the outline of a bow :-
 
-**70$\\frac{1}{2}$**.The figure resembling a bow is obviously the segment of a circle. The area of the segment as given here $= \~c\~ \\times \~\\frac{p}{4}\~ \\times \~\\sqrt{10}$. This formula is not accurate. It seems to be based on the analogy of the rule for obtaining the area of a semi-circle, which area is evidently equal to the product of*π*,the diameter and one-fourth of the radius, i.e.,$\\pi\~ \\times \~2r\~ \\times \~\\frac{r}{4}$.![](../books_images/1674537931.png)
+**70$\\frac{1}{2}$**.The figure resembling a bow is obviously the segment of a circle. The area of the segment as given here $= \~c\~ \\times \~\\frac{p}{4}\~ \\times \~\\sqrt{10}$. This formula is not accurate. It seems to be based on the analogy of the rule for obtaining the area of a semi-circle, which area is evidently equal to the product of*π*,the diameter and one-fourth of the radius, i.e.,$\\pi\~ \\times \~2r\~ \\times \~\\frac{r}{4}$.<MISSING_FIG href="../books_images/1674537931.png"/>
 
 The figure resembling the longitudinal section of a *yava* grain may be easily seen to be made up of two similar and equal segments of a circle applied to each other so as to have a common chord. It is evident that in this case the value of the arrow-line becomes doubled. Thus the same formula is made to hold good here also.
 
@@ -10685,7 +10677,7 @@ The rule for arriving at the minutely accurate value of the area of a figure for
 
 83$\\frac{1}{2}$. What is the minutely accurate measure of the area of the interspace included within four mutually touching (equal) circles whose diameter is 4 (in value) ?
 
-82$\\frac{1}{2}$. The rationale of the rule will be clear from the figure below:-![](../books_images/1674559920.png)
+82$\\frac{1}{2}$. The rationale of the rule will be clear from the figure below:-<MISSING_FIG href="../books_images/1674559920.png"/>
 
 The rule for arriving at the minutely accurate value of the figure formed in the interspace caused by three (equal) circular figures touching each other :-
 
@@ -10701,7 +10693,7 @@ The rule for arriving at the minutely accurate values of the diagonal, the perpe
 
 **84**$\\frac{1}{2}$. Similarly the figure here elucidates at once the reason of the rule :-
 
-![](../books_images/1674561038.png)
+<MISSING_FIG href="../books_images/1674561038.png"/>
 
 **86**$\\frac{1}{2}$. The rule seems to contemplate a regular hexagon. The formula given for the value of the area of the hexagon is $\\sqrt{3a^{4}}$, where *a* is the length of a side.The correct formula, however, is    $a^{2}\~ \\times \~\\frac{3\\sqrt{3}}{2}$.
 
@@ -10786,17 +10778,17 @@ III. $\\sqrt{\\left( a^{2}\~ + \~b^{2} \\right)^{2}\~ - \~(2\~ab)^{2}}\~ = \~a^{
 **99**$\\frac{1}{2}$. The problem solved in the rule stated in this stanza is to construct with the aid of two given *bījas*a quadrilateral having two equal sides. The length of the sides of the diagonals, of the perpendicular from the end-points of the top-side to the base, and of the segments thereof caused by the perpendicular are all derived from two rectangles constructed with the aid of the given *bījas*. The first of these rectangles is formed according to the rule given in stanza 90$\\frac{1}{2}$ above. The second rectangle is formed according to the same rule from two optionally chosen factors of half the length of the base of the first rectangle, taken as *bījas*. Hence the first rectangle is called the primary figure in the translation to distinguish it from the second rectangle.  
 The rationale of the rule will be clear from the following diagrams illustrating the problem given for solution in stanza 100$\\frac{1}{2}$. Here 5 and 6 are the *bījas*given; and the first rectangle or the primary figure derived from the *bījas*is ABCD :-
 
-![](../books_images/1674624148.png)
+<MISSING_FIG href="../books_images/1674624148.png"/>
 
 Half the length of the base in this figureis 30; and two factors of this, namely, 3 and 10 may be chosen. The rectangleconstructed with the aid of these numbers as *bījas*is EFGH:
 
-![](../books_images/1674624567.png)
+<MISSING_FIG href="../books_images/1674624567.png"/>
 
 To construct the required quadrilateral with two equal sides, one of the two triangles into which the first rectangle is divided by its diagonal is applied to thesecond rectangle on one side, and a portion equal to the same triangle is removed from the same second rectangle on the other side, as shown in the figure HA'FC'.
 
 The process will be clear from a comparison of the diagrams:
 
-![](../books_images/1674624774.png)
+<MISSING_FIG href="../books_images/1674624774.png"/>
 
 Area of the required quadrilateral, HA'FC'= area of the second rectangle, EFGH.  
 Base A'F= perpendicular-side of the first rectangle plus perpendicular-side of the second rectangle, i.e., AB + EF.
@@ -11082,6 +11074,7 @@ In the case of the Circle $\\frac{x\~ \\times \~m}{x\~ \\times \~n}\~ = \~\\frac
 In the case of the Square$\\frac{x\~ \\times \~m}{x\~ \\times \~n}\~ = \~\\frac{a^{2}}{4a}$;
 
 In the case of the Equilateral Triangle$\\frac{x\~ \\times \~m}{x\~ \\times \~n}\~ = \~\\frac{\\frac{a^{2}}{2}}{3a}$;
+   
 
 In the case of the Oblong $\\frac{x\~ \\times \~m}{x\~ \\times \~n}\~ = \~\\frac{a\~ \\times \~b}{2\~(a\~ + \~b)}$; here*b* is taken to be equal to half of *a*. It has to be noted that only the approximate value of the area of the equilateral triangle, as given in stanza 7 of this chapter, is adopted here. Otherwise the formulagiven in the rule will not hold good.
 
@@ -11107,14 +11100,14 @@ The rule for arriving at a quadrilateral figure with two equal sides having the 
 
 The first thing we have to do is to construct a rectangle with the aid of the given *bījas*in accordance with the rule laid down in stanza 90$\\frac{1}{2}$in this chapter. That rectangle comes to have 5 for the measure of its smaller side, 12 for the measure of its larger side, and 13 for the measure of its diagonal; and its area is 60 in value. Now the area given in the problem is to be multiplied by the square of the given optional number in the problem, so that we obtain 7 × 3²=63.
 
-![](../books_images/1674725408.png)
-![](../books_images/1674725487.png)
+<MISSING_FIG href="../books_images/1674725408.png"/>
+<MISSING_FIG href="../books_images/1674725487.png"/>
 
 From this 63, we have to subtract 60, which is the measure of the area of the rectangle constructed on the basis of the given *bījas*: and this gives 3 as the remainder. Then the thing to be done is to construct a rectangle, the area whereof is equal to this 3, and one of the sides is equal to the longer side of the rectangle derived from the same *bījas*.
 
 Since this longer side is equal to 12 in value, the smaller side of the required rectangle has to be 1/4 in value as shown in the figure here. Then the two triangles, into which the rectangle derived from the *bījas*may be split up by its diagonal are added one on each side to this last rectangle, so that the sides measuring 12 in the case of these triangles coincide with the sides of the rectangle having 12 as their meusure. The figure here exhibits the operation.
 
-![](../books_images/1674725714.png)
+<MISSING_FIG href="../books_images/1674725714.png"/>
 
 Thus in the end we get the quadrilateral figure having two equal sides, each of which measures 13, the value of the other two sides being $\\frac{1}{4}$ and 10$\\frac{1}{4}$ respectively. From this the values of the sides of the quadrilateral required in the problem may be obtained by dividing by the given optional number namely 3, the values of its sides represented by 13, $\\frac{1}{4}$,13 and 10$\\frac{1}{4}$.
 
@@ -11128,7 +11121,7 @@ The rule for arriving at a quadrilateral figure with three equal sides, having a
 
 150. It is stated in the rule here that the given areas when divided by the given optional number gives rise to the value of the perpendicular in relation to the required figure. As the areais equal to the product of the perpendicular and half the sum of the base and the top-side, the given optional number represents the measure of half the sum of the base and the top side. If ABCD be a quadrilateralwith three equal sides, and CE the perpendicular from C on AD, then AE is half the sum of AD and BC, and is equal to the given optional number. It can be easily shown that 2*A**D*.*A**E*=*C**E*²*A**E*².
 
-![](../books_images/1674726577.png)  
+<MISSING_FIG href="../books_images/1674726577.png"/>  
 $\\therefore\~AD\~ = \~\\frac{CE^{2}\~ + \~AE^{2}}{2AE}\~ = \~\\frac{CE^{2}}{2\~AE}\~ + \~\\frac{AE}{2}\~ = \~\\frac{\\frac{CE^{2}\~ \\times \~AE^{2}}{AE^{3}}\~ + \~AE}{2}\~ = \~\\frac{\\frac{(CE\~ \\times \~AE)^{2}}{AE^{3}}\~ + \~AE}{2}$ Here*C**E*×*A**E*=thegiven area of the qundrilateral. This last formal happens to be what is given in the rule for finding out any of the three equal sides of the quadrilateral contemplated in the problem.
 
 *An example in illustration thereof.*
@@ -11206,7 +11199,7 @@ On knowing the approximate measure as well as the accuratemeasure of an area, th
 
 **165**$\\frac{1}{2}$. If R represents the approximate area of a quadrilateral with two equal sides, and *r* the accurate value thereof, and *p* is the optionally chosen number, then base $\\frac{\\sqrt{R^{2}\~ - \~r^{2}}\~ + \~p}{\\sqrt{p}}$; top side $\\frac{p\~ - \~\\sqrt{R^{2}\~ - \~r^{2}}}{\\sqrt{p}}$and each of the equal sides $\\frac{R}{\\sqrt{p}}$.
 
-![](../books_images/1674734979.png)
+<MISSING_FIG href="../books_images/1674734979.png"/>
 
 If a, b, c and d be the measures of the sides of the quadrilateral with two equal sides, then it may be seen that$R\~ = \~\\frac{a\~(b\~ + \~d)}{2};\~p\~ = \~\\left( \\frac{b\~ + \~d}{2} \\right)^{2};\~and\~r\~ = \~\\frac{b\~ + \~d}{2}\~ \\times \~\\sqrt{a^{2}\~ - \~\\frac{(b\~ - \~d)^{2}}{4}}$.  
 The formulas given above for the base and the top side can be easily verified by substituting these values of R, *r*and*p* therein. Similarly the rule may be seen to hold good in the case also of a quadrilateral figure with three equal sides.
@@ -11285,7 +11278,7 @@ KL $= \~\\sqrt{\\frac{d^{2}\~ - \~b^{2}}{m\~ + \~n\~ + \~p\~ + q}\~ \\times \~(m
 
 and so on.
 
-![](../books_images/1674800767.png)  
+<MISSING_FIG href="../books_images/1674800767.png"/>  
 Similarly AE $= \~\\frac{\\left( a\~ \\times \~\\frac{d\~ + \~b}{2} \\right)\~ \\times \~\\frac{m}{m\~ + \~n\~ + \~p\~ + \~q}}{\\frac{EF\~ + \~AD}{2}}\~;$EG$= \~\\frac{\\left( a\~ \\times \~\\frac{d\~ + \~b}{2} \\right)\~ \\times \~\\frac{n}{m\~ + \~n\~ + \~p\~ + \~q}}{\\frac{GH\~ + \~EF}{2}}\~;$  
 GK $= \~\\frac{\\left( a\~ \\times \~\\frac{d\~ + \~b}{2} \\right)\~ \\times \~\\frac{p}{m\~ + \~n\~ + \~p\~ + \~q}}{\\frac{KL\~ + \~GH}{2}}\~;$ and so on.
 
@@ -11348,13 +11341,13 @@ The measure of the height of the pillar is known. For some reason or other that 
 
 **188$\\frac{1}{2}$-189**$\\frac{1}{2}$. The figure contemplated In this problem seems to be this:-
 
-![](../books_images/1674814067.png)
+<MISSING_FIG href="../books_images/1674814067.png"/>
 
 The inner perpendiculars referred to herein are GH and KL. To find out these, FE isfirst determined. FE, according to the commentary, is said to be equal to $\\sqrt{\\frac{CM^{2}}{2}\~ - \~\\left\\{ DM^{2}\~ + \~DE^{2}\~ + \~\\left( \\frac{1}{2}\~DM \\right)^{2} \\right\\}}$. Then with FE and BC or AD taken aspillars, the rule under reference may be applied.
 
 190$\\frac{1}{2}$. If ABC is a right-angled triangle, and if the measures of AC and of the son of AB and BC are given, then AB and BC can be found out from the fact that *B**C*²=*A**B*²+*A**C*².The formula given in the rule is $AB\~ = \~\\frac{(AB\~ + \~BC)^{2}\~ - \~AC^{2}}{2\~(AB\~ + \~BC)}$; and this can be easily proved to be true from the above equality.
 
-![](../books_images/1674814565.png)
+<MISSING_FIG href="../books_images/1674814565.png"/>
 
 192$\\frac{1}{2}$. There are 49 *hastas* in the measurement of the height of a bamboo (as it is growing). It is broken somewhere between (the top and the bottom). The distance (between the fallen top on the floor and the bottom of the bamboo) is 21 *hastas*. How far away (from the foot) is it broken ?
 
@@ -11366,7 +11359,7 @@ The numerical value (of the height) of a taller pillar as also the numerical val
 
 196$\\frac{1}{2}$. If *a* represents the height of the taller pillar and*b* that of the shorter pillar,*c* the length of the intervening space between them, and *a₁* the height of the standing portion of the broken pillar, then, according to the rule,  
 $a\_{1}\~ = \~\\frac{a^{2}\~ - \~\\left( b^{2}\~ + \~c^{2} \\right)}{2(a\~ - \~b)}$;
- ![](../books_images/1674815895.png)
+ <MISSING_FIG href="../books_images/1674815895.png"/>
 
 *An example in illustration thereof.*
 
@@ -11382,7 +11375,7 @@ Taking two-thirds of the numerical value of the vertical side of a longish quadr
 
 In an area representable by a (suspended) swing (and its vertical supports resting on the ground), the measures of the heights of either two pillars or two hill-tops are taken to be the measures of the horizontal sides of two longish quadrilateral figures. Then, (with the aid of these known horizontal sides and) in relation to the base line either between the two hills or between the two pillars, (as the case may be), the values of the two segments (caused by the meeting point of the perpendicular) are arrived at. Those two segments are written down in the inverse order. The values of the two segments so written down in the inverse order are taken to be the values of the two perpendicular sides of the two longish qundrilateral figures. And, now, the rule for arriving at the equal numerical value of the diagonals of those (two longish quadrilateral figures) :-
 
-**199$\\frac{1}{2}$-200**$\\frac{1}{2}$. If in the marginal figure, *a* represents the height of the mountain,*b* the distance of the city from the foot of the mountain, and*c* the length of the hypotenus course, then *a* is, according to the supposition made in the preamble to the rulein 198$\\frac{1}{2}$, $\\frac{2}{3}$of the side AB. Therefore the height of the flight upwards i.e., EB., is $\\frac{1}{2}$*a*... ... ... ... I![](../books_images/1674821366.png)
+**199$\\frac{1}{2}$-200**$\\frac{1}{2}$. If in the marginal figure, *a* represents the height of the mountain,*b* the distance of the city from the foot of the mountain, and*c* the length of the hypotenus course, then *a* is, according to the supposition made in the preamble to the rulein 198$\\frac{1}{2}$, $\\frac{2}{3}$of the side AB. Therefore the height of the flight upwards i.e., EB., is $\\frac{1}{2}$*a*... ... ... ... I<MISSING_FIG href="../books_images/1674821366.png"/>
 
 As the courses of the two asceticsare equal,  
 $c\~ + \~\\frac{1}{2}a\~ = \~a\~ + \~b\~;\~\\therefore\~c\~ = \~\\frac{1}{2}a\~ + \~b$........
@@ -11402,7 +11395,7 @@ The three formulas marked I, II and III above are those given in the rule.
 
 **201$\\frac{1}{2}$-203$\\frac{1}{2}$**. In the two quadrilaterals of the kind contemplated in this rule, let the vertical sides be represented by *a, b*; let the base be *c*; and let c₁, c₂, be its segments and *l* the length of each of the equal portions of the rope.
 
-![](../books_images/1674823283.png)
+<MISSING_FIG href="../books_images/1674823283.png"/>
 
 Now,
 
@@ -11441,7 +11434,7 @@ The rule for arriving at the numerical value of the diameters of circles describ
 **213**$\\frac{1}{2}$. Let ABC be a triangle inscribed in a circle, AD the diameter thereof, and BE the perpendicular on AC. Join BD. Now the triangles ABD and BEC are similar. Hence, *A**B*:*A**D*=*B**E*:*B**C*
 
 $\\therefore\~AB\~:\~AD\~ = \~BE\~:\~BC\\therefore\~AD\~ = \~\\frac{AB\~ \\times \~BC}{BE}$
-      ![](../books_images/1674882593.png)  
+      <MISSING_FIG href="../books_images/1674882593.png"/>  
 This is the formula given in the rule for the diameter of a circle circumscribed about a quadrilateral or a triangle.
 
 215$\\frac{1}{2}$. The two lateral sides are (each) 13 in measure; the topside is 4; and the base is said to be 14 in measure. In this case, what may be the diameter of the circle described about (such) a quadrilateral figure with two equal sides ?
@@ -11701,7 +11694,7 @@ pile.
 
 **50$\\frac{1}{2}$-51**$\\frac{1}{2}$. In finding out the cubical contents of the wall, the average breadth calculated according to the rule, given in the latter half of stanza 4above, is used; so the *Karmāntika* value is taken into consideration here.
 
-![](../books_images/1675078614.png)
+<MISSING_FIG href="../books_images/1675078614.png"/>
 
 **51**$\\frac{1}{2}$. This sloping platform is bounded at its two ends by two vertical planes, the top and the side surfaces alone being sloping. The top forms an inclinedplane, the breadth of which is 2*hastas* at the raised end and 4*hastas* at the other end. Vide diagram in the margin of page 269.
 
@@ -11731,7 +11724,7 @@ The rule for arriving at the growing number of layers (of bricks) in relation to
 
 **54**$\\frac{1}{2}$. If *a* be the breadth at the bottom, *b* the breadth at the top, *h* the total height and *l*the length of the wall, and *d* the height above the ground of the unbroken part of the wall then $\\frac{lh}{6}\~(2a\~ + \~b\~ + d)$, and $\\frac{lh}{6}\~(2b\~ + \~a\~ - \~d)$ represent the number of bricks intact and the number of bricks fallen off.
 
-![](../books_images/1675080670.png)
+<MISSING_FIG href="../books_images/1675080670.png"/>
 
 The figure in the margin shows the wall mentioned in stanza 56$\\frac{1}{2}$; and ABCD indicate the plane along which the wall fractured when it broke.
 
@@ -11789,7 +11782,7 @@ In the beginning, we shall give out the means of determining the eight direction
 
 4. The string with theaid of which, the fish-shaped figure is drawn should be longer than the radius of the circle drawn according to stanza 2above. If OE and OWin the annexed diagram represent the eastern and the western directions, NPSR will be the lune drawn by describing two circles with centres respectively at E and W and with ER and WP as equal radii. The line NS cutting the angles of the lane marks the northern and the southern directions.
 
-**![](../books_images/1675083697.png)**
+**<MISSING_FIG href="../books_images/1675083697.png"/>**
 
 4$\\frac{1}{2}$. The (measure of the) equinoctial shadow is indeed half of the sum of the measures of the shadows obtained at the middle of the day-time (or noon) on days when the sun enters the sign of Aries as also the sign of Libra.
 
@@ -11876,7 +11869,7 @@ The rule for arriving at the numerical value of the measurement of the interspac
 
 21. Aigebraically,$h\~ = \~\\frac{a\~ \\times \~b\~ - \~c}{b}$,where *a* in the altitudeof the shadow-casting style, *h*the height of the shadow on the wall, *b*the mensure of the human shadow in terms of the man's height, and*c* the distanee between the pillar and the wall. The diagram here given elucidates the rule. It has to be noted here that the distance between the pillar and the wall has to be measured along the line of the shadow which is cast in sunlight.
 
-![](../books_images/1675146089.png)
+<MISSING_FIG href="../books_images/1675146089.png"/>
 
 *An example in illustration of the (rule in the) latter half  
 (of the stanza).*
@@ -11951,7 +11944,7 @@ An example in illustration thereof.
 
 **40**$\\frac{1}{2}$. Algebraically stated the rule is $s\~ = \~c\~ \\div \~\\frac{b\~ - \~a}{a}$;where*s* is the length of the shadow of the stylewhose height is represented by *a, b* is the height of the lamp above the ground, and *c*the horizontal distance between the Iamp and the style. The formula may beseen to be correct by means of the diagram here given.
 
-![](../books_images/1675149399.png)
+<MISSING_FIG href="../books_images/1675149399.png"/>
 
 43. Using the same symbols, $c\~ = \~s\~ \\times \~\\frac{b\~ - \~a}{a}$
 
@@ -13611,4 +13604,3 @@ TABLES OF MEASURES.
 | $\\frac{1}{7}$of a man's height | his foot measure. |
 
 \]
-

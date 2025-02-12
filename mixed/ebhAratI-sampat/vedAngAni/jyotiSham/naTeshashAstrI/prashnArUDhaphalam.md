@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg2NDY1NzM0MTI
 
 \[
 
-*![](../books_images/1681562896.png)*
+*<MISSING_FIG href="../books_images/1681562896.png"/>*
 
 (Based on the axioms of Indian sages in PRAGNAANA DEEPIKAA (Sanskrit Classic) and JINENDRA MAALAI (Tamil Classic), this book helps answer questions and offer solutions regarding war and armies, wells and swimming pools, travel and ships, omens and dreams, cure of diseases, love, marriage and conjugal felicity, profit and loss, and misfortunes, and recovery of lost property. This will be of great interest to the West too.)**———————————————————————————————————————————————————**
 
@@ -32,7 +32,7 @@ B.A., M.Ed., Doctorate in Counselling
 **Prof. B. Ardhanareeswarar**  
 M.A., B.Sc., M.Ed., Doctorate in Linguistics
 
-***![](../books_images/1681562410.png)***
+***<MISSING_FIG href="../books_images/1681562410.png"/>***
 
 ***"Cowards die many times before their deaths;***
 
@@ -86,7 +86,7 @@ Such was the mutual admiration and affection between the two intellectual giants
  He had no sons and therefore he chose to give intensive training in the practice of Astrology to his youngest daughter K.N. Saraswathy, and training in exposition of epics and Naaraayaneeyam to his eldest son–in–law Anantaraama Deekshitar.  
  The great Pandit had no patience or time to lose with indifferent disciples or those without intuition, as far as astrology was concerned. Astrological study requiredmore intense concentration, capacity for application and intuition. So the only desciple who completed the course and internship in astrology under Kadalangudi was K.N. Saraswathy. Even after the course he was happy to have her as apprentice and collaborator in republishing the astrology books.
 
-***![](../books_images/1681707463.png)***
+***<MISSING_FIG href="../books_images/1681707463.png"/>***
 
  We are highly appreciative of the expeditious and efficient service done by the enthusiastic publisher Mr. M.A. Jaishankar. He is grandson of Rev. Pt. Kadalangudi Natesa Sastri. He is an Economics graduate with a Masterate in Business Management. He manages distribution of books brought out by Kadalangudi Publications, the Kadalangudi Astrological (Indological) Research Centre (Regd. Charitable Trust), which runs basic correspondence courses on Hindu Astrology in English and Tamil. Kadalangudi Art Centre teaches commercial art through correspondence in English and Tamil. He has enthusiastically organized and been conducting the correspondence courses on Hindu Astrology and Art.  
  He has been bringing out with great interest and devotion the revised edition of the earlier titles of the Kadalangudi Centenary Book Series, each time in a better get–up. He is mightily Interested in culture, and modernization not detrimental to but supporting culture, and in Oriental Studies.
@@ -95,7 +95,7 @@ Kadalangudi Astrological (indological)
 
 Research Centre (Advisory Committee)
 
-***![](../books_images/1681707734.png)***
+***<MISSING_FIG href="../books_images/1681707734.png"/>***
 
 |                 |                                        |          |
 |:---------------:|:--------------------------------------:|----------|
@@ -139,7 +139,7 @@ Research Centre (Advisory Committee)
 |       \*        |                Glossary                | 181      |
 |       \*        |         **TOTAL NO. OF PAGES**         | **184**  |
 
-***![](../books_images/1681707919.png)***
+***<MISSING_FIG href="../books_images/1681707919.png"/>***
 
  The Science of Astrology is usually divided into three categories: calculation, horoscopy and inquiry. Determining the rising star at the time of birth and preparing the horoscope of the native and on this basis predicting the good and the bad effects that may ensue in the course of his life is called the art of horoscopy. But the Science of Inquiry (or 'PRASNA') is a more intriguing one.  
  A man loses his property all of a sudden; how does it happen? can he ever recover it? A person hides an object in his hand and inquires the astrologist whether he can declare what it is. Or he thinks of some object or idea; can the astrologist predict its nature, quantity and characteristics? That science which solves these enigmas is named Prasna. The means by which one is able to determine exactly the various configurations of the planets at one particular moment, whether in the present, past or future is called the science of calculation, All these three aspects of the science of astrology had to be mastered, if one is to make predictions correctly.  
@@ -153,10 +153,10 @@ Research Centre (Advisory Committee)
 
 **B. ARDHANAREESWARAR**
 
-![](../books_images/1681708523.png)
+<MISSING_FIG href="../books_images/1681708523.png"/>
 
-![](../books_images/1681708652.png)  
-**![](../books_images/1681708429.png)**  
+<MISSING_FIG href="../books_images/1681708652.png"/>  
+**<MISSING_FIG href="../books_images/1681708429.png"/>**  
 
 ***PRASNA AAROODHAPHALA***  
 **or**  
@@ -220,7 +220,7 @@ Chapter I
 
  The science of PraSna (Inquiry,) as narrated in **GNAANA PRADEEPIKAA** considers the peculiarities attributed to every Zodiacal sign, whether moveable, fixed or common and also the time of enquiry, whether day, night or twilight, and the place and other characteristics. It is able to give answers to the following issues, namely, loss of articles, hidden things, the idea or object one is thinking about, profit or loss, diseases, death, food, dreams, omens, past events, weapons, the arrival of armies, flow of rivers, rain, commodity prices, state of ships etc. etc. (7 to 10)
 
-**![](../books_images/1681983468.png)**
+**<MISSING_FIG href="../books_images/1681983468.png"/>**
 
 *Chapter II*  
 ***FUNDAMENTAL PROPOSITIONS***  
@@ -400,6 +400,8 @@ Saturn, the Sun and Mars are quadruped planets.
 
 The Moon and Mercury are multiple–feet planets.  
 The Moon is a fast–moving planet; Saturn and the Sun crawl on their knees; and the rest of the planets walk on their feet. 34       
+                                   
+                   
 
 **उदीयन्तेऽजवीथ्यान्तु चत्वारो वृषभादयः। **
 
@@ -426,9 +428,9 @@ The Moon is a fast–moving planet; Saturn and the Sun crawl on their knees; and
 The following pairs of houses:  
  Taurus and Scorpio, Gemini and Sagittarius, Cancer and Capricorn, Leo and Aquarius, Pisces and Virgo, Aries and Libra are aspecting each other mutually in the pratisuutra manner as indicated in the 2nd figure. 37 & 38
 
-![](../books_images/1681722873.png)
+<MISSING_FIG href="../books_images/1681722873.png"/>
 
-![](../books_images/1681722799.png)
+<MISSING_FIG href="../books_images/1681722799.png"/>
 
 **गगनं भास्करः प्रोक्तश्चन्द्रो भूमिरुदाहृतः।**
 
@@ -493,7 +495,8 @@ The following pairs of houses:
 **तिर्यक्पश्यन्ति तिर्यञ्चो मानुषास्समद्दष्टयः॥ ४८॥**  
 
  Jupiter in his half–aspect, Mars in his three–fourth and one–eighth aspects, and Saturn in his quarter–aspect too arepowerful. The 'Paswadi' Raasis (i.e.) Aries, Taurus, Leo and Scorpio,) aspect cross–wise and the 'Maanusha' Raasis (Gemini, Virgo, Libra, Sagittarius and Aquarius,) aspect on a level–basis.48               
-
+                                   
+                       
 **ऊर्ध्वेक्षणौ पत्ररथावधोनेत्रास्सरीसृपाः।**
 
 **अन्योन्यालोकिनौ जीवचन्द्रावूर्वेक्षणो रविः॥ ४९॥**
@@ -555,6 +558,8 @@ The following pairs of houses:
 वुधो वैश्यो भृगुः शृद्रो नीचावार्किभुजङ्गमौ॥५९॥**
 
  Likewise among planets, Jupiter and the Moon are Brahmin planets; the Sun and Mars, Kshatriya planets; Mercury is Vaisya; Venus another kind; and Saturn and Rahu are the Depressed Class planets.59        
+                                   
+                          
 
 **रक्ता मेषघनुस्सिया कुलीरोक्षतुलास्सिताः। **
 
@@ -602,7 +607,8 @@ The following pairs of houses:
 **सप्तविंशतिसङ्ख्याश्च मेषादीनां परे विदुः॥६७॥**
 
  But there are others giving different figures for the Raasis: Cancer, Aries, Libra and Aquarius & each; Gemini, Taurusand Capricorn 6; Leo 7; Virgo and Sagittarius 7; Scorpio 4 and Pisces 27. Another version is that from Aries onwards to Pisces, the rays are respectively, 7, 8, 5, 3, 7, 11, 2, 4, 6, 8, 7 and 20.65–67                 
-
+                                   
+                 
 **कुजेन्दुशनयो हस्वा दीर्घा जीवबुधोरगाः। **
 
 **रविशुक्रौ समौ प्रोक्तौ शास्त्रे ज्ञानप्रदीपके॥ ६८॥**
@@ -759,6 +765,8 @@ what direction the lord of the day is situated. In the next direction would be t
 **सार्द्धाद्विघटिपर्यन्तमर्कलग्नं प्रचक्षते॥९०॥**
 
  From sunrise to sunset the first hour is called Arka Lagna; the second hour is Kaala Lagna and so on; alternately, the day is divided into these two Lagnas. And these Lagnas have to be posited in the east, south–east, south etc. in regular order. From this one can determine at the time of enquiry–which direction it implies either as Arka or Kaala Lagna. This direction is to be taken as the Aaroodha direction and the lord of the planet there at the time can also be determined (according to either the 87th or 89th verse).90                 
+                                   
+         
 
 **तदूर्ध्वं काललग्नं तु ज्ञात्वा पूर्वादिके न्यसेत्। **
 
@@ -808,7 +816,8 @@ what direction the lord of the day is situated. In the next direction would be t
 **रौप्यं शुक्रश्शशी कांस्यमायसं मन्दभोगिनौ॥९६॥**
 
  Mars is copper; Mercury brass; Jupiter gold; Venus silver, the Moon bronze; Saturn and Rahu are iron.96                  
-
+                                   
+                      
 **भौमार्कमन्दशुक्रास्तु स्वस्वलोहाः स्वभस्थिताः।**
 
 **चन्द्रज्ञगुरवस्स्वस्वलोहाः स्वक्षेत्रमित्रगाः। **
@@ -846,7 +855,7 @@ Saturn's favourite stone is Sapphire. Venus's cat's eye gem; Mercury's emerald; 
 
  If a male Raasi is aspected by or associated with a male planet then one can predict about the loss of ornaments worn by men. In other places appropriate prediction is to be made in accordance with the nature of the signs and planets. The colour of the article is to be judged according to the strength of the planet and sign. If both are of equal strength, the result also will be of a mixed nature. 101 & 102
 
-**![](../books_images/1681983410.png)**
+**<MISSING_FIG href="../books_images/1681983410.png"/>**
 
 **Chapter III**
 
@@ -916,6 +925,8 @@ Saturn's favourite stone is Sapphire. Venus's cat's eye gem; Mercury's emerald; 
 
  Regarding grains the classification is as follows:  
  The planet Mercury is associated with green gram; Venus with white dhal; Mars with peanuts; the Moon with sesamum; the Sun with beans; Jupiter with red dhal; and Saturn and Rahu with black gram. 111    
+                                   
+                                
 
 **प्रियङ्गुर्भूमिपुत्रस्य बुधस्य व्रीहयः स्मृताः।**
 
@@ -939,7 +950,7 @@ Mars and the Sun correspond to hilly tracts; Mercury and Rahu to anthills; the M
 
   About determining the appropriate colour, juice, caste, jewel, weapon etc. and also the leaf, fruit, bark, root etc. of the various planets, their rising position (Aaroodha) and the Chhatras, prediction is to be made with proper care and investigation. 114
 
-![](../books_images/1681796417.png)
+<MISSING_FIG href="../books_images/1681796417.png"/>
 
 **Chapter IV**
 
@@ -964,7 +975,8 @@ Mars and the Sun correspond to hilly tracts; Mercury and Rahu to anthills; the M
 **एकज्ञानं शनेः प्रोक्तं शास्त्रे ज्ञानप्रदीपके॥११७॥**
 
  These five planets have different powers of knowledge, namely Jupiter 5, Venus 4, Mars 3, Mercury 2, and Saturn 1 *i.e.* that Jupiter is capable of grasping the five senses of sound, touch, sight, taste, and smell; Venus to the four senses of touch, sight, taste and smell; Mars to three senses of sight, taste and smell; Mercury to the two senses of taste and smell; and Saturn only to the one sense of smell only.117 
-
+                                   
+                                  
   
 **बुधवर्गा इमे प्रोक्ताः शङ्खः शुक्तिर्वराटिका।**
 
@@ -1033,12 +1045,16 @@ Mars and the Sun correspond to hilly tracts; Mercury and Rahu to anthills; the M
 **शङ्खच्छेदी धातुचूर्णान्वेषिणः स्वर्णकारिणः॥१२८॥**
 
  If an exaltated sign is rising in the horizon and the Sun is posited there or aspecting it, the person thought about will either be a ruler of the earth or one associated with him; if the Sun is in Aries (his exalted sign,) and aspects the rising sign, the person thought about is a king or emperor; if the Sun is in his own house and aspects the rising sign, the person will be commander–in–chief; if the Sun is in friend's house and aspects the rising sign, the person will be one attached to the king; if the Sun is in neutral house and aspects the rising sign, the person will be a warrior. But if the rising sign is in any house other than Aries and is aspected by the Sun, the person thought about should be predicted in an appropriate fashion according to what is stated above; *i.e.* as one doing work on bronze, or a potter; or one sellingbronze ware; or a breaker of shells; or one seeking chemical powders; or a gold, smith etc, etc.126–128              
+                                   
+            
 
 **नृराशो जीवदृष्टे वा भानुवद्ब्राह्मणादयः। **
 
 **बुधयुक्तेऽथवा दृष्टे तद्वद्ब्रूयात्तपस्विनः॥१२९॥**
 
  If a male Raasi is rising and it is aspected by Jupiter, prediction is to be made as stated in previous verses for the Sun, with the provison that the man to be seen will be a brahmin; and in the case of a male Raasi rising aspected by or associated with Mercury, the person to be seen will be an ascetic. 129                    
+                                   
+                       
 
 **तद्वच्छुक्रे तु वृषलाः सङ्कराश्शशिभोगिनौ। **
 
@@ -1066,7 +1082,7 @@ Mars and the Sun correspond to hilly tracts; Mercury and Rahu to anthills; the M
 
  If aspected by Venus, the person may be a seller of snuff or pearl–diver. The caste of the person is to be determined by judging the signs and the occupants of the signs. From the strength of the different planets, the finding of lost articles is to be determined. 133
 
-**![](../books_images/1681800191.png)**
+**<MISSING_FIG href="../books_images/1681800191.png"/>**
 
 **Chapter V**
 
@@ -1192,8 +1208,10 @@ Mars and the Sun correspond to hilly tracts; Mercury and Rahu to anthills; the M
 
  The loss of an article, the hidden article in the fist or the idea thought about are to be predicted thus; If the planets are in quadrants (the 1st, 4th, 7th and 10th places) and if the planets are in their own houses, or in. friendly signs or in exaltation or if they aspect the quadrants (the 1st, 4th, 7th and 10th places; the desired result will come into effect. From the rising Lagna, all ideas about Dhaatus from Aaroodha Lagna and thoughts about Moola and from Chhatra Raasi everything about Jeeva can be predicted. By studying the quadrants (the 1st, 4th, 7th and 10th houses) the idea thought about can be predicted by studying the Panapharas (the 2nd, 5th, 8th and 11th houses), the article hidden in the fist can be stated, by studying the Aapoklimas (the 3rd, 9th, 6th and 12th places) the loss of an article can be traced from these, the success of the venture can be determined.  
  From verse 122 to verse 152 the methods of determining the loss of property or the idea thought about are detailed, and one has to apply them appropriately as the occasion demands before prediction. 150–152 
+                                   
+                            
 
-![](../books_images/1681983526.png)  
+<MISSING_FIG href="../books_images/1681983526.png"/>  
 **Chapter VI**
 
 ***ON AAROODHA***
@@ -1233,7 +1251,7 @@ Mars and the Sun correspond to hilly tracts; Mercury and Rahu to anthills; the M
 
  If the rising Lagna is either associated with or aspected by the Sun, the idea in the enquirer's mind is about a king or god; if aspected by or associated with Jupiter, the idea is about noble and good things; and if associated with or aspected by Mercury or Venus, the person is thinking about marriage matters. 157
 
-![](../books_images/1681983526.png)  
+<MISSING_FIG href="../books_images/1681983526.png"/>  
 **Chapter VII**
 
 ***ON CHHATRA RAASI***
@@ -1270,7 +1288,7 @@ Mars and the Sun correspond to hilly tracts; Mercury and Rahu to anthills; the M
 
  If the Chhatra Raasi is in the 2nd, 8th, 6th or 12th house, the lost property cannot be recovered; diseases also will not be cured; the wished for fruit cannot be attained; and enmity will not cease. 162
 
-![](../books_images/1681808575.png)  
+<MISSING_FIG href="../books_images/1681808575.png"/>  
 **Chapter VIII*  
 **ON THE RISING RAASI***
 
@@ -1323,7 +1341,7 @@ Mars and the Sun correspond to hilly tracts; Mercury and Rahu to anthills; the M
 
  If maleflcs are posited in or aspecting the Lagnas, namely Udaya, Chhatra or Aaroodha destruction will result. But if benefics are posited in or aspecting these Lagnas, good willaccrue. 170
 
-![](../books_images/1681809651.png)
+<MISSING_FIG href="../books_images/1681809651.png"/>
 
 **Chapter IX**
 
@@ -1489,7 +1507,7 @@ If the Udaya Raasi is a biped sign and if Rahu is posited therein a human being 
 
 The number of signs separating the Udaya Raasi from the house in which the Moon is situated gives the number of days by which success will be effected. If the signs of the Moon and the Udaya Lagna are moveable signs, the above number gives the days for fruition of the prediction. If they are fixed signs, the number has to be trebled. 196
 
-![](../books_images/1681811435.png)  
+<MISSING_FIG href="../books_images/1681811435.png"/>  
 **Chapter X**
 
 ***OF GAIN AND LOSS***
@@ -1566,7 +1584,7 @@ The number of signs separating the Udaya Raasi from the house in which the Moon 
 
  When the planets reach their friend's house, or are in own house or in very high exaltation then they confer all good benefits; and when they are in debilitation or in their enemy's house, all kinds of work will meet with failure. 208
 
-![](../books_images/1681812026.png)
+<MISSING_FIG href="../books_images/1681812026.png"/>
 
 **ChapterXI**
 
@@ -1700,7 +1718,7 @@ The number of signs separating the Udaya Raasi from the house in which the Moon 
 
  If a benefic occupies Trikona, Lagna or the 10th house, diseases will not afflict. If the planet is debilitated or inimical, disease will afflict. 228
 
-![](../books_images/1681818159.png)  
+<MISSING_FIG href="../books_images/1681818159.png"/>  
 **Chapter XII**
 
 ***ON DEATH***
@@ -1779,7 +1797,7 @@ The number of signs separating the Udaya Raasi from the house in which the Moon 
  If a malefic is in the 10th place, death in 3 days is to be predicted. If a malefic is in the 7th place from Udaya Lagna, death in 10 days is likely. Along with this, one has to reckon the days and months given for various planets and give the prediction accordingly.  
 * Note:* Some other text books affirm that if the bouse of death is a fixed sign, death will be in the native country; if it is a moveable sign, death will be in a foreign country; and if it is a common sign, death will be in the neighbouring country. 239
 
-![](../books_images/1681983526.png)  
+<MISSING_FIG href="../books_images/1681983526.png"/>  
 **Chapter XIII**
 
 ***ON HEAVENLY ABODE***
@@ -1792,7 +1810,7 @@ The number of signs separating the Udaya Raasi from the house in which the Moon 
 
  If at the time of Prasna, the Udaya Lagna is in exaltation, the dead man will attain the heavenly abode. If it is in an inimical sign the dead man will be reborn as an animal. If it is in debilitation he will go to hell. If it is a friendly house he will be reborn in a friend's house. If it is in its own house he will be reborn among his family or relatives. 240
 
-![](../books_images/1681983526.png)  
+<MISSING_FIG href="../books_images/1681983526.png"/>  
 **Chapter XIV**
 
 ***ONFOOD***  
@@ -1868,7 +1886,7 @@ If it is Jupiter the food is served with ghee and sweets; if it is Saturn, the f
 
  If a malefic is posited in a watery sign and (even if) associated with a benefic or aspected by it, articles of food fried in oil are to be predicted. A wise man by reckoning the nature of signs and planets with regard to food articles (mentioned in verses 243–247), should predict appropriately by noting the rising sign and planet at the time of Prasna. All considerations have to be taken into account before giving a prediction. 250–252
 
-![](../books_images/1681983526.png)  
+<MISSING_FIG href="../books_images/1681983526.png"/>  
 **Chapter XV**
 
 ***ON DREAMS***
@@ -1934,7 +1952,7 @@ If it is Jupiter the food is served with ghee and sweets; if it is Saturn, the f
 
 Dreams are to be interpreted in terms of the planets inthe 4th house from Udaya Raasi and in terms of planets aspecting the 4th house. 261
 
-![](../books_images/1681879171.png)
+<MISSING_FIG href="../books_images/1681879171.png"/>
 
 **Chapter XVI**
 
@@ -1982,7 +2000,7 @@ If a fixed sign is rising at the time of Prasna, he will see definite good omens
 
  If it is Mars in the Udaya Lagna, he will see dog, bear and hare;, if it is Venus, he will see flying birds and chameleon. 268
 
-![](../books_images/1681880096.png)  
+<MISSING_FIG href="../books_images/1681880096.png"/>  
 **Chapter XVII**
 
 ***ON MARRIAGES***
@@ -2101,7 +2119,7 @@ If a fixed sign is rising at the time of Prasna, he will see definite good omens
 
  If Mercury is in the 12th place, the girl will have male issues; and if Jupiter is in the 12th, she will have wealth and grains in plenty Rahu or Sun in the 12th will make her barren; but Venus in the 12th will make her happy and prosperous. 286
 
-![](../books_images/1681884136.png)
+<MISSING_FIG href="../books_images/1681884136.png"/>
 
 **Chapter XVIII**
 
@@ -2250,7 +2268,7 @@ If Mars is associated with or aspected by Venus, the wife would have liaison wit
 
  From the nature of the planets are to be determined the character and habits of men and women. 310
 
-![](../books_images/1681906352.png)
+<MISSING_FIG href="../books_images/1681906352.png"/>
 
 **Chapter XIX**
 
@@ -2319,7 +2337,7 @@ If Mars is associated with or aspected by Venus, the wife would have liaison wit
 
  The time taken for the Moon to transit from the Aaroodha Raasi to its 7th place or the number of stars in the signs from Aaroodha to the 7th place will give the number of days by which the woman will deliver the child. 320
 
-![](../books_images/1681983526.png)  
+<MISSING_FIG href="../books_images/1681983526.png"/>  
 **Chapter XX**
 
 ***OF MISFORTUNES***
@@ -2375,7 +2393,7 @@ If Mars is associated with or aspected by Venus, the wife would have liaison wit
 
  If Jupiter does not aspect the Prasna Lagna or the Moon, but only malefics are aspecting; the two Lagnas, the child is born to a different father. 329
 
-![](../books_images/1681906691.png)  
+<MISSING_FIG href="../books_images/1681906691.png"/>  
 **Chapter XXI**
 
 ***OF KNIVES***
@@ -2430,7 +2448,7 @@ If Mars is associated with or aspected by Venus, the wife would have liaison wit
  If forward–looking planets (the Moon and Jupiter,) aspect the Udaya, Aaroodha or Chhatra Raasis, the knife belongs to the owner (i.e. the person making the Prasna,). If the obliquely looking planet (Mars) aspects the above Raasis, the knife belongs to another; and if the downward–looking planets (Venus and Mercury) aspect the above Raasis, the knife has been obtained after defeating the foe, and the knife has fallen down and been picked up by the present owner. By taking into consideration the various characteristics of the planets, the ownership or misplacement of the knife is to be determined.  
  Note: This is explained in verses 40 and 50 earlier. 337–338
 
-![](../books_images/1681906921.png)
+<MISSING_FIG href="../books_images/1681906921.png"/>
 
 **Chapter XXII**
 
@@ -2487,7 +2505,7 @@ What the wise men have stated as 'Ahi Chakra" I shall describe now. By this mean
 
 He, who is anxious to find treasure and is searching, should make the ‘Ahi Chakra' at that place of his search. 346
 
-**![](../books_images/1681907468.png)**
+**<MISSING_FIG href="../books_images/1681907468.png"/>**
 
 **तत्र पौष्णाश्वियाम्यर्क्षंकृत्तिकापितृभाग्यकम्।**
 
@@ -2699,7 +2717,7 @@ He, who is anxious to find treasure and is searching, should make the ‘Ahi Cha
 
  If Mars and Mercury are in the trough of a star belonging to Mercury there will be found a 'Salya' associated with Mercury. If Venus and the Moon are in a Kendra which is the trough of a star belonging to Venus, there will be found silver or white stone. The Sun, the Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and Ketu are respectively having 5,6,8, 5, 1¼, 1¼, 1½, 2 and 12 rays. In terms of these rays, one has to dig deep in the earth to find the Salya. 379–381
 
-![](../books_images/1681967786.png)  
+<MISSING_FIG href="../books_images/1681967786.png"/>  
 **Chapter XXIII**
 
 ***OF WELLS***
@@ -2838,13 +2856,13 @@ He, who is anxious to find treasure and is searching, should make the ‘Ahi Cha
 
  The kind of soil a place would be, where one wants to dig a well is determined thus. If the Sun is there, the soil would be barren with saline content; the malefics–Saturn and Mars–indicate a soil where only thorns and brambles can grow. Jupiter indicates coconut, dates and arecanut groves; Venus indicates plantain and creeper–growing expanse; Mercury points to jack–fruit–growing soil; Rahu and Ketu indicate anthills. 403–404
 
-![](../books_images/1681969978.png)
+<MISSING_FIG href="../books_images/1681969978.png"/>
 
-![](../books_images/1681970139.png)
+<MISSING_FIG href="../books_images/1681970139.png"/>
 
-![](../books_images/1681970276.png)
+<MISSING_FIG href="../books_images/1681970276.png"/>
 
-![](../books_images/1681970434.png)
+<MISSING_FIG href="../books_images/1681970434.png"/>
 
 **शनिराहूदये काष्ठोरगवल्मीकदर्शनम्।**
 
@@ -2854,7 +2872,7 @@ He, who is anxious to find treasure and is searching, should make the ‘Ahi Cha
 
  If Saturn or Rahu is posited in Udaya Lagna at the place where one wants to dig a well, one can only meet with termites, snakes and other insects. If the rising Lagna sign is aspected by the lord of the Lagna, the place where the well is being dug is owned by the person; but if it is either aspected by or associated with other planets, the place belongs to another. 405
 
-![](../books_images/1681970550.png)  
+<MISSING_FIG href="../books_images/1681970550.png"/>  
 **Chapter XXIV**
 
 ***OF ARMIES***
@@ -3049,7 +3067,7 @@ He, who is anxious to find treasure and is searching, should make the ‘Ahi Cha
  If the Moon is in Leo, Virgo, Libra, Scorpio, Sagittarius and Capricom, the sthaayee will meet only with defeats. But if it is in the other six signs, namely, from Aquarius to Can– cer, the yaayee will be defeated.  
 Thus is prediction about success or defeat to the parties made by the position of the planets. 435
 
-![](../books_images/1681974213.png)
+<MISSING_FIG href="../books_images/1681974213.png"/>
 
 **Chapter**XXV**
 
@@ -3155,7 +3173,7 @@ Thus is prediction about success or defeat to the parties made by the position o
 
  If a malefic is in the 6th place the man who has gone out will be imprisoned. If the malefic is in a watery sign, the man on travel will come back home after a long time. Good and bad effects of travel are to be predicted in terms of the strength or wekness of the planets. 452
 
-![](../books_images/1681980111.png)
+<MISSING_FIG href="../books_images/1681980111.png"/>
 
 **Chapter XXVI**
 
@@ -3213,7 +3231,7 @@ Thus is prediction about success or defeat to the parties made by the position o
 
  The prices will be moderate, if the Lagna is aspected by or assocfated with a friendly planet or the lord of the Lagna. If a benefic is associated with the Lagnaj. the prices will increase; and if a malefic, the prices will fall. 461
 
-![](../books_images/1681980428.png)  
+<MISSING_FIG href="../books_images/1681980428.png"/>  
 **Chapter**XXVII**
 
 ***OF SHIPS***
@@ -3243,7 +3261,7 @@ Thus is prediction about success or defeat to the parties made by the position o
 
  If either the Prasna Lagna or the Chhatra Raasi is a moveable sign, the ship will arrive soon. If the Moon is in the 4th or 5th place, the ship will come very soon. If Venus is in the 2nd or 3rd place, the ship will arrive. Like–wise should other predictions be made after careful investigation. 465
 
-![](../books_images/1681980773.png)  
+<MISSING_FIG href="../books_images/1681980773.png"/>  
 **Chapter XXVIII**
 
 ***ACHIEVEMENT***
@@ -3352,6 +3370,6 @@ ASTROLOGY ENDS**
 |     Vighati      |       ... 1/60th part of a ghati or 1/60th of 24 minutes        |
 |    Vrishabha     |                           ... Taurus                           |
 
-![](../books_images/1681983233.png)
+<MISSING_FIG href="../books_images/1681983233.png"/>
 
 \]

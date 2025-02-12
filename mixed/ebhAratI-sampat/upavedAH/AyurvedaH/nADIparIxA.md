@@ -532,6 +532,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MjIwNTk5MjQ
   कछुएके आकार नाभि है तहां आठ पैरवाली महानाड़ी है पृष्ठभागमेंचार नाड़ी और छाती देशमें चार नाड़ी स्थित हैं॥१००॥
 
 इति हिंदीटीका सहित नाड़ीपरीक्षा संपूर्ण।  
-![](../books_images/U-IMG-1703695936Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1703695936Capture.JPG"/>
 
 \]

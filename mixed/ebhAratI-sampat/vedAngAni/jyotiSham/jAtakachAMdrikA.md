@@ -16,7 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODE4Mzc0NjE1NTA
 
 \[
 
-![](../../../books_images/1679718256.jpg)
+<MISSING_FIG href="../../../books_images/1679718256.jpg"/>
 
 **JATAKACHUNDRIKA**  
 
@@ -55,7 +55,7 @@ PRINTED AT THE ROYAL VICTORIA PRESS,
 
 **1900.**
 
-![](../../../books_images/1679719223.jpg)
+<MISSING_FIG href="../../../books_images/1679719223.jpg"/>
 
 INTRODUCTION
 
@@ -163,7 +163,7 @@ NOTES**.**
 
 The counting of the planets must always be from the birth time or *lagna*. Ravi owns Simha, Chundra owns Kataka, Buda owns Mithuna and Kanya; Sukra is the lord of Vrishabha and Thula, Kuja owns Mesha and Vrischika, Guru is the lord of Meena and Dhanas, andSaniowns Makara and Kumbha. Their owning a house is different from their occupation of a house.
 
-![](../../../books_images/1679726012.jpg)
+<MISSING_FIG href="../../../books_images/1679726012.jpg"/>
 
 Take an example of a living horoscope of a great man. Birth is Vrishabha, lords of Kanya 5th and Makara 9th Buda and Sani are respectively good planets for this *lagna*, and when they are favourably situated and aspected they produce good. Guru is the lord of 11th, Sukra is the lord of 6th and Chundra is the lord of 3rd and these are bad. Their periods and sub-periods are productive of evil and if they derive good strength from other sources, they may considerably modify their evil effects. Sani aspects Sukra, but his aspect of Simha 3rd and Meena10th from him is stronger, and in predicting the results of those *Bhavas* we have to remember the evil aspect and make allowance for such. Sukra aspects Sani in the 7th and this is his best aspect. Guru aspects Sani and Kuja. 5th and 9th, but he also sees Simha or the 4th house from birth. But this house is also aspected by Ravi and Buda who only have
 
@@ -288,7 +288,7 @@ NOTES**.**
 
 Rahu and Kethu are once for all dealt with in this stanza by the author and dismissed. They own no houses, and they are called shadowy planets *or chayagrahams*. I have explained at great length what is meant by Rahu and Kethu in the Astrological Magazine and students would do well to refer to it for more complete information. They give the *Phalam* of the Rasis they occupy, the planets they are associated with, and the aspects they have. Take an example.
 
-![](../../../books_images/1679752789.jpg)
+<MISSING_FIG href="../../../books_images/1679752789.jpg"/>
 
 Meena is birth. Rahu is in the 4th house with Sukra and aspected by Sani and Guru. 3rd and 9th houses respectively. Rahu occupies Buda's house.Therefore the*phalam* that Rahu gives is the *phalam* of Buda, Sani, Sukra and Guru. All these sources of strength must be carefully calculated and balanced before we venture to make any predictions about Rahu. Kethu will give the results of Guru and Sukra, because he is in the house of. Guru and aspected by Sukra. The *phalam* of the houses they occupy *viz* Mithuna and Dhanas must also be taken into consideration. But in giving good or evil they act with greater energy, and when badly disposed they do more harm, if well disposed they do more good than the houses they occupy, the planets they are in conjunction with, and the lords who aspect them. Among the ancient works, Rahu and Kethu are not much treated of as they generally give the results of the houses they are in and the planets they are joind with.
 
@@ -446,7 +446,7 @@ NOTES.
 
 The 8th house from Birth is the house of life as also the 8th house again from this 8th house. There are therefore two houses *viz*. the 3rd and 8th from Lagna which are called the houses of life. The 12th house from the 3rd is the 2nd house from Lagna and the 12th from the 8th house is the 7th from Lagna. These two, 2nd and 7th houses represent death. Take an example.
 
-![](../../../books_images/1679896777.jpg)
+<MISSING_FIG href="../../../books_images/1679896777.jpg"/>
 
 The 8th from birth which is Thula, is Vrishabha, and the 8th from Vrishabha is Dhanas, these two Dhanas and Vrishabha are called houses of life. The 12th from the 8th Vrishabha is Mesha and the12th from Dhanas is Vrischika and these two are called houses of death.Practically the 3rd and 8th houses from Lagna are houses of life and the 2nd and 7th are houses of death. When the lords of the houses of life are strong, when good planets join those houses or when those houses are aspected by them they produce long life; if not the result will be unfavourable. Life and death therefore have to be primarily determined by the strength or weakness of the planets who own those houses, who are in conjunction with them, who are oocupying those houses and who aspect them. The details will be explained in the next few slokas.
 
@@ -532,7 +532,7 @@ Sani is an evil planet of the first water. He is the weakest of the planets and 
 
 death. Take the horoscope of a gentleman living.
 
-![](../../../books_images/1679900617.jpg)
+<MISSING_FIG href="../../../books_images/1679900617.jpg"/>
 
 Guru is the lord of 8th and 11th houses, Kuja is the lord of 7th and 12th houses, Buda isthe lordof2nd and 5th houses and Sani is the lord of the 9th and 10th houses.As per rules stated already, lords of 2nd and 7th are death inflicting. Buda and Kaja are *Maraka* planets. But those who are in the 2nd and 7th are stronger and those who join the lords of the 2nd and 7th are strongest in inflicting death. In the example given above Sani is stronger than Buda being in the 2nd house but Guru is stronger than Sani in causing death because he is in conjunction with the lord of the 2nd house Buda.
 
@@ -594,7 +594,7 @@ There are 27 constellations or *Nakshatras* and they are divided among the nine 
 
 The total of all these planetary periods will give 120 years as the extreme limit of the man's general age. There are instances of persons living beyond this period, but they fall under exceptions. Taking the horoscope given on page 32, I shall also give the Navamsa :-
 
-![](../../../books_images/1679901139.jpg)
+<MISSING_FIG href="../../../books_images/1679901139.jpg"/>
 
 Please note carefully the reasoning - Guru is the lord of the 8th and 11th houses and is evil. He occupies 10th house from birth with Ravi and Buda and 11th house from Chundra. From *Lagna* Buda owns 2nd and 5th houses and Ravi owns 4th house. *Lagna* has evil planets on both sides, Sani in the 2nd and Chundra and Rahu in the 12th. These with Kuja and Kethu in the 6th indicate Balarista or early death. Sukra lord of birth is in the 8th aspected by Sani. These are evil combinations for early death. But the presence of Guru, Buda and Ravi in the 10th house which is the last and the best quadrant saved the life and the gentleman is living. He passed through very serious dangers in Sukra's Period early in life and his life was despaired of on more than half a dozen occasions and the occupation of the 10th by auspicious planets saved him from an early grave. We shall examine his future life. Sani is in the 2nd house. Guru owns 8th and 11th houses and Buda owns 2nd and 5th houses. There are 3 planets threatening his life *viz*., Guru, Sani and Buda. As per illustration of the above principle we have to look to the most powerful
 

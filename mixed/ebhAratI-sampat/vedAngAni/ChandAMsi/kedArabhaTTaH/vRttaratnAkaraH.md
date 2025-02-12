@@ -12,6 +12,18 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDMyMTg3ODU4
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
      वृत्तरत्नाकरः  
        अथ प्रथमोऽध्यायः  
    
@@ -590,5 +602,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDMyMTg3ODU4
   छन्दस्तेनाभिरामं प्रविरचितमिदं वृत्तरत्नाकराख्याम्॥ 10॥  
   इति श्रीकेदारभट्टविरचिते वृत्तरत्नाकरे षष्ठोऽध्यायः॥  
    -------- \*\*\*\*\*\* --------
+
+
+
+
+
+
+
+
 
 \]

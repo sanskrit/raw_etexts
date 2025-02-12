@@ -1141,6 +1141,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 द्वितीयोऽध्यायः
 
+
+
 वास्तुप्रकरणम्
 
 तैतलाश्च नराश्चैव यस्मिन्यस्मिन् परिस्थिताः
@@ -1212,6 +1214,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 भूपानां तद्विशां शूद्रै ः! प्रागुक्तक्रमतो भवेत् १७
 
 इति मानसारे वास्तुशास्त्रे वास्तुप्रकरणं नाम तृतीयोऽध्यायः
+
+
 
 भूमिसंग्रहविधानम्
 
@@ -1584,6 +1588,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 चतुर्थोऽध्यायः
+
+
+
+
 
 भूपरीक्षाविधानम्
 
@@ -2424,6 +2432,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 पञ्चमोऽध्यायः
+
+
 
 शङ्कुस्थापनलक्षणम्
 
@@ -6289,6 +6299,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 सप्तमोऽध्यायः
 
+
+
 बलिकर्मविधानम्
 
 बलिकर्मविधिं
@@ -7034,6 +7046,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 अष्टमोऽध्यायः
+
+
 
 ग्रामलक्षणम्
 
@@ -12133,6 +12147,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 नवमोऽध्यायः
 
+
+
 नगरविधानम्
 
 भूपतीनां
@@ -16510,6 +16526,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 द्वादशोऽध्यायः
+
+
 
 उपपीठविधानम्
 
@@ -22048,6 +22066,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 चतुर्दशोऽध्यायः
+
+       
+
+
 
 स्तम्भलक्षणम्
 
@@ -30408,6 +30430,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 सप्तदशोऽध्यायः
 
+
+
 विमानलक्षणम्
 
 विमानलक्षणं
@@ -37760,6 +37784,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 विंशोऽध्यायः
 
+
+
 त्रितलविधानम्
 
 त्रितलस्य
@@ -38397,6 +38423,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 एकविंशोऽध्यायः
+
+
 
 चतुस्तलविधानम्
 
@@ -39326,6 +39354,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 द्वाविंशोऽध्यायः
 
+
+
 पञ्चतलविधानम्
 
 पञ्चभूमिविधानस्य
@@ -39769,6 +39799,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 त्रयोविंशोऽध्यायः
+
+
 
 षट्तलविधानम्
 
@@ -40230,6 +40262,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 चतुर्विंशोऽध्यायः
 
+
+
 सप्ततलविधानम्
 
 सप्तभूमिविधानस्य
@@ -40589,6 +40623,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 पञ्चविंशोऽध्यायः
+
+
 
 अष्टतलविधानम्
 
@@ -41720,6 +41756,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 सप्तविंशोऽध्यायः
 
+
+
 दशतलविधानम्
 
 दशभूमिविधानं
@@ -42121,6 +42159,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 अष्टाविंशोऽध्यायः
+
+
 
 एकादशतलविधानम्
 
@@ -44374,6 +44414,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 त्रिंशोऽध्यायः
 
+
+
 प्राकारविधानम्
 
 बलार्थं
@@ -45269,6 +45311,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 एकत्रिंशोऽध्यायः
+
+
 
 परिवारविधानम्
 
@@ -46965,6 +47009,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 द्वात्रिंशोऽध्यायः
+
+
 
 तद्बहिः
 
@@ -50722,6 +50768,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 २०५
 
+
+
 एकांशं
 
 कर्णकूटं
@@ -52519,6 +52567,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 त्रयस्त्रिंशोऽध्यायः
+
+
+
+
 
 सर्वेषां
 
@@ -58124,6 +58176,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 भवेत्
 
+
+
 द्विद्विहस्तप्रवृद्धेन
 
 कारयेत्
@@ -61862,6 +61916,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 पञ्चत्रिंशोऽध्यायः
 
+
+
 -   गृहमानस्थानविधानम्
 
 द्विजातीनां
@@ -62879,6 +62935,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 षट्त्रिंशोऽध्यायः
+
+
 
 गृहप्रवेशविधानम्
 
@@ -64279,6 +64337,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 अष्टत्रिंशोऽध्यायः
+
+
 
 द्वारमानविधानम्
 
@@ -65793,6 +65853,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 एकोनचत्वारिंशोऽध्यायः
+
+
 
 राजहर्म्यविधानम्
 
@@ -67350,6 +67412,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 चत्वारिंशोऽध्यायः
 
+
+
 राजाङ्गविधानम्
 
 भूपतीनां
@@ -67829,6 +67893,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 एकचत्वारिंशोऽध्यायः
+
+
 
 राजलक्षणम्
 
@@ -68617,6 +68683,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 द्विचत्वारिंशोऽध्यायः
+
+
 
 रथलक्षणम्
 
@@ -70103,6 +70171,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 त्रिचत्वारिंशोऽध्यायः
+
+
 
 शयनविधानम्
 
@@ -72789,6 +72859,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 पञ्चचत्वारिंशोऽध्यायः
 
+
+
 तोरणविधानम्
 
 देवानां
@@ -73459,6 +73531,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 षट्चत्वारिंशोऽध्यायः
 
+
+
 मध्यरङ्गविधानम्
 
 देवानां
@@ -73752,6 +73826,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 सप्तचत्वारिंशोऽध्यायः
+
+
 
 कल्पवृक्षविधानम्
 
@@ -79172,6 +79248,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 पञ्चाशदध्यायः
 
+
+
 त्रिमूर्तिलक्षणम्
 
 ब्रह्माविष्णुमहेशानां
@@ -80059,6 +80137,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 एकपञ्चाशदध्यायः
+
+
 
 लिङ्गविधानम्
 
@@ -83460,6 +83540,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 द्विपञ्चाशदध्यायः
 
+
+
 पीठलक्षणम्
 
 सर्वेषामपि
@@ -84047,6 +84129,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 त्रिपञ्चाशदध्यायः
+
+
 
 शक्तिलक्षणम्
 
@@ -86334,6 +86418,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 चतुष्पञ्चाशदध्यायः
 
+
+
 जैनलक्षणम्
 
 सुगतजैनकादीनां
@@ -87160,6 +87246,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 पञ्चपञ्चाशदध्यायः
 
+
+
 बौद्धलक्षणम्
 
 बौद्धस्य
@@ -87355,6 +87443,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 षट्पञ्चाशदध्यायः
+
+
 
 मुनिलक्षणम्
 
@@ -87932,6 +88022,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 सप्तपञ्चाशदध्यायः
 
+
+
 यक्षविद्याधरादिलक्षणम्
 
 यक्षविद्याधरादीनां
@@ -88181,6 +88273,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 अष्टपञ्चाशदध्यायः
+
+
 
 भक्तलक्षणम्
 
@@ -89100,6 +89194,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 एकोनषष्टितमोऽध्यायः
 
+
+
 हंसलक्षणम्
 
 अथ
@@ -89529,6 +89625,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 षष्टितमोऽध्यायः
+
+
 
 गरुडलक्षणम्
 
@@ -90718,6 +90816,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 एकषष्टितमोऽधायः
 
+
+
 वृषभलक्षणम्
 
 वृषभस्य
@@ -91351,6 +91451,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 द्विषष्टितमोऽध्यायः
+
+
 
 सिंहलक्षणम्
 
@@ -92653,6 +92755,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 चतुःषष्टितमोऽध्यायः
+
+
 
 उत्तमदशतालविधानम्
 
@@ -94386,6 +94490,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 पञ्चषष्टितमोऽध्यायः
 
+
+
 मध्यमदशतालविधानम्
 
 स्त्रीमानं
@@ -95083,6 +95189,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 षट्षष्टितमोऽध्यायः
+
+
 
 प्रलम्बलक्षणम्
 
@@ -96500,6 +96608,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 
 सप्तषष्टितमोऽध्यायः
 
+
+
 मधूच्छिष्टविधानम्
 
 बिम्बानां
@@ -97061,6 +97171,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 अष्टषष्टितमोऽध्यायः
+
+
 
 अङ्गदूषणविधानम्
 
@@ -97771,6 +97883,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 ऊनसप्ततितमोऽध्यायः
+
+
 
 नयनोन्मीलनलक्षणम्
 
@@ -98847,5 +98961,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjcyMTI3NDQ5
 नाम
 
 सप्ततितमोऽध्यायः
+
+
 
 \]

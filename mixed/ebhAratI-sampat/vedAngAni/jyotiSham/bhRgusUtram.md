@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNDIwNTkwNjQ
 
 \[
 
+
+
 भृगु सूत्रम्
 
 अथ तन्वादिद्वादशभावस्थितरविफलमाह  
@@ -282,6 +284,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNDIwNTkwNjQ
 स्त्रीयोगयुक्तः अन्न हीनः ॥ ७०॥  
 शुभयुते विद्वान् दयावान् पापशत्रुयुते पापलोकः  
 शुभमित्रयुते श्रेष्ठलोकवान् ॥ ७१॥
+
 
 अथ तन्वादिद्वादशभावस्थित भौमफलम् तत्रादौ लग्ने भौमफलम्
 
@@ -646,6 +649,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNDIwNTkwNjQ
 पापयुते पापलोकप्राप्तिः ॥ ५७॥  
 धर्ममूलेन धनव्ययः ब्राह्मणस्त्रीसम्भोगी गर्भिनीसम्भोगमी ॥ ५८॥
 
+
 अथ तन्वादिद्वादश भावस्थित भृगुफलमाह  
 तत्रादौ लग्ने भृगुफलम्
 
@@ -759,6 +763,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNDIwNTkwNjQ
 श्य्याखट्वंगादिसौख्यवान् शुभलोकप्राप्तिः  
 पापयुते नरकप्राप्तिः ॥ ६८॥
 
+
 अथ तन्वादिद्वादश भावस्थित शनिफलमाह  
 तत्रादौ लग्ने शनिफलम्
 
@@ -851,6 +856,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNDIwNTkwNjQ
 पापयुते नरक प्राप्तिः ॥ ५२॥  
 अपात्रव्ययकारी निर्धनः ॥ ५३॥
 
+
 अथ तन्वादिद्वादश भावस्थित राहुकेत्वोः फलमाह
 
 तत्रादौ लग्ने राहुकेत्वोः फलम्
@@ -922,5 +928,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNDIwNTkwNjQ
 
 अल्पपुत्रः ॥ ३१॥  
 नेत्ररोगी पापगतिः ॥ ३२॥
+
 
 \]

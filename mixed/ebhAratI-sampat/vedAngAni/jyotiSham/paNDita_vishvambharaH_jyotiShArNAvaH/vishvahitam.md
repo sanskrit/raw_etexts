@@ -15,33 +15,58 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **विश्वहितम्।  
 \_\_\_\_\_\_**
 
+
 **राजकीयज्योतिषिणा**
+
 
 **पण्डित श्रीविश्वम्भर ज्योतिषार्णवेन**
 
+
 तथा तत्पश्चेता
+
 
 **पण्डित श्रीशश्चन्द्र ज्योतीरत्नेन**
 
+
 संशोधितम्
+
 
 **एसियाटिक सोसाइटी द्वारा  
 प्रकाशितम्।**
+
+
 
 कलिकाता राजमान्या ब्याप्टिष्ट-मिशन-यन्त्रेमुद्रितम्।
 
 शकाब्दाः १८३४
 
+
 **भूमिका।**
 
 **अस्मद्देशे पञ्चाङ्गगणनसहाया ये खलु ग्रन्था विद्यन्ते तेषु "विश्वहितम्" अन्यतमम्। अस्य ग्रन्थस्य मङ्गलाचरणश्लोकात् ज्ञायतेप्रायेण किञ्चिदधिक त्रिशताधिकवर्षेभ्यः पूर्व्वंग्रहभूसुरकुलालङ्कारभूतेन महामहोपाध्याय पण्डितवरेण राघवानन्दशर्म्मणासूर्य्यसिद्धान्तनामधेयं सुविश्रुतं ज्योतिःसिद्धान्तमुपजीव्यग्रन्थोऽयं निरमायि। यथाः, —**
 
+
 **यत्पादपद्मप्लवमाकलय्यज्यो......... गणकास्तरन्ति।  
 नत्वा तमर्कं खचरस्फुटाय श्रीराघवो विश्वहितं तनोति॥  
 तस्य निर्म्माणकालोऽपि ग्रन्थकृता ग्रन्थारम्भे स्पष्टमुक्तः।**
+
 
 **यथाः, —"शाकोरामः क्षितिशरमहीअनेन १५१२शकाब्देषु ग्रन्थोऽयं विरचित इति निश्चीयते। ग्रन्थकर्त्तुःराढ़प्रदेशे ग्रहभूसुरकुले जातत्वं सर्व्वजनप्रसिद्धमेव। कियत्कालात्पूर्व्वं नन्ददुलाल आचार्य्य नामधेयः कश्चित् सङ्ख्यावतामग्रणीरस्यग्रन्थस्य व्याख्यानं कृतवान्। सेऽयं टीका ज्योतिर्व्विदां मध्ये नन्द्रदुलालीति नान्माख्यायते। अधुना विश्वहितस्य विरलप्रचारात् ग्रन्थोऽयं प्रायेण दुर्लभोऽभवत्, साम्प्रतमहं बजशोऽनुसन्धाय पावनाजेलान्तर्गत प्रतापपुरग्रामे मदीयश्वशुरभवने प्रज्यँपादमदीयश्वशुरस्य ँशिवशङ्कर उपाध्यायस्य सहोदरेण**
 
@@ -49,13 +74,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 **अलमतिविस्तरेण।**
 
+
 **शकाब्दाः १८३४,  
 वैशाखस्य पञ्चदशदिवसे।**} **श्रीविश्वम्भर शर्म्मा।**
+
+
 
 **विश्वहितम्।  
 \_\_\_\_\_\_**
 
 **श्री श्री सूर्य्यायनमः।शुभमस्तु॥**
+
 
 **यत्पादपद्मप्लवमाकलय्य ज्योतिःममुद्रं गणकास्तरन्ति।  
 नत्वा तमर्कं खचरम्फुटाय श्रीराघवो विश्वहितं तनोति॥  
@@ -87,6 +116,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 खण्डैर्युतःस्यात् स्फुटः॥**
 
 **चन्द्रस्फुटः॥**
+
 
 **भूरामा ३१ स्त्रिरमाः ६३ युगाङ्क ९४ मिषुदृश् चन्द्राः १२५ रमार्थेन्दवः १५६ शैलव्यालभुवो १८७मुनीन्दुयमलं २१७शैलाब्धिनेत्राणि च २४७षड्भान्यङ्ग २७६खवह्नयः३०६ शरगुणत्रीणी३३५ षुषड्वह्नयः३६५ मेषादेर्गतवामरादिनयुता मासस्य तत् स्याद्दिनम्॥**
 
@@ -135,6 +165,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 **इति वारध्रुवगुणकाः।**
@@ -168,6 +200,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 **त्रिवेद ४३ लब्धगुणका योज्याः भ्रमः २७००शोध्याः।**
@@ -182,17 +216,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
 
 [TABLE]
+
+
+
+[TABLE]
+
+[TABLE]
+
+
 
 [TABLE]
 
@@ -210,17 +252,31 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
+
+
+
+[TABLE]
+
+   
+
+[TABLE]
+
+
+
+[TABLE]
+
+
 
 [TABLE]
 
@@ -230,7 +286,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
+
+
 
 [TABLE]
 
@@ -397,6 +457,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 **वारध्रुवस्य दण्डादिकं षष्ट्याशोधयेत् भोग्यघटिका कुजादीनां गतदिनण्डादौ योजयेत् तदा औदयिका भवेत् तत्र स्फुटदिनयोगात् स्फुटा आयान्ति।**
@@ -418,13 +480,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
+
+
 
 [TABLE]
 
 **चक्रदिनं मङ्गलस्य ७७९\। ५५ । २७ । २२ । ३५ ॥ पूर्व्वाब्दे समानीतं गतदिनं ५९६ । ३५ । ० अस्माच्छोध्यं शोधनाभावे विपरीतं शोधनं तदागम्यदिनं भवति॥ मङ्गलखण्डध्रुवाः। नवाग ७९शेषसंख्यया पूर्व्ववत् ग्राह्याः॥ ०॥**
 
 [TABLE]
+
+
 
 [TABLE]
 
@@ -455,12 +523,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 **अथ गुरोस्त्रिनाग ८३ शेषसंख्ययागतदिनानि।  
 अथ गुरोर्गतदिनानयनं ॥ शेषगुणकं।**
 
 [TABLE]
+
+
 
 [TABLE]
 
@@ -472,11 +544,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 **अथ लब्धगुणकम्।**
 
 [TABLE]
+
+
 
 [TABLE]
 
@@ -487,6 +563,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 **अथ भनेत्र २२७ लब्धगुणका अपि शोध्याः।**
 
 [TABLE]
+
+
 
 [TABLE]
 
@@ -517,12 +595,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 **अथ नवशर ५९ लब्धसंख्यगुणकाः योजयेत्।  
 अथ लब्धगुणकम्।**
 
 [TABLE]
+
 
 **ह्रासदिने वृद्धिः८४ । १७। ३६ चक्रं २४०० मङ्गलादीनां गतदिनानयनेशोधनाधिक्येविपरीतशोधनाधिक्येविपरीते शोधनंकृत्वा चक्रदिनाच्छोधयेत गतदिनंस्यात्। एवं प्रकारेण गतदिनानयनेखण्डध्रुवेचक्रभुक्तिंशोधयेत्. खण्डध्रुवंस्यात्। यत्र योजनेकृते चक्रदिनादधिकंभवतितदा चक्रदिनंशोधयेत् गतदिनं भवति। एवं गतदिनेसमानीतखण्डध्रुवे चक्रभुक्तिंमिश्रयेत् खण्डध्रुवस्यात्। एवं प्रकारेणान्यप्रकारेण वा यद्गतदिनमानीतं, तच्चक्रदिनाच्छोधितंगम्यदिनंस्यात्। एवं गम्यदिनेखण्डध्रुवेचक्रभुक्तिंमिश्रयेत् खण्डध्रुवोभवतीति॥ कुजदिनं १५७७९१७८२८**
 
@@ -535,15 +616,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
+
+
 
 [TABLE]
 
 [TABLE]
 
+
+
 [TABLE]
 
 [TABLE]
+
+
 
 [TABLE]
 
@@ -557,6 +646,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 [TABLE]
@@ -569,23 +660,33 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
 
 [TABLE]
+
+
+
+[TABLE]
+
+[TABLE]
+
+
 
 [TABLE]
 
 **७२० दिने कुजास्तं पश्चात्।**
 
 [TABLE]
+
+
 
 [TABLE]
 
@@ -597,15 +698,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 **( बुधस्य )**
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
+
+                                
+
+[TABLE]
+
+
 
 [TABLE]
 
@@ -613,19 +722,29 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 **( ६६ दिने वक्रि बुधोदयः प्राक् )**
 
 [TABLE]
 
+
+
 [TABLE]
+
+                
+
+[TABLE]
+
+
 
 [TABLE]
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
 
@@ -633,15 +752,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 **१६ दिने गुरोः प्रागुदयः। ३१ दिने गुरोर्वाल्य त्यागः।**
 
 [TABLE]
 
+
+
 [TABLE]
 
 [TABLE]
+
+
 
 [TABLE]
 
@@ -649,15 +774,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 [TABLE]
+
+
 
 [TABLE]
 
 **२५६ दिने गुरोर्व्वक्रत्यागः।**
 
 [TABLE]
+
+
 
 [TABLE]
 
@@ -679,13 +810,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
-[TABLE]
+
 
 [TABLE]
 
 [TABLE]
 
+
+
 [TABLE]
+
+[TABLE]
+
+
 
 [TABLE]
 
@@ -708,9 +845,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 [TABLE]
+
+
 
 [TABLE]
 
@@ -730,6 +871,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 [TABLE]
@@ -740,9 +883,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 [TABLE]
+
+
 
 [TABLE]
 
@@ -754,6 +901,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 
 [TABLE]
 
+
+
 [TABLE]
 
 [TABLE]
@@ -761,6 +910,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcxNzA4NzU1OTQ
 **३५७ दिने शने रस्तं पञ्चात्।**
 
 [TABLE]
+
 
 **अथ विश्वहिते चन्द्रग्रहणं ॥अब्दो$\\overset{१}{भू}$$\\overset{३}{वम}$$\\overset{१}{भू}$ हतःस्वस्वगजां ८०० शाखो जिन २४ घ्नाब्दयुक्। पञ्चांशाढ्यनवग्रहाङ्कशशियुक् १९९९। १२ वारभुवस्य खणात्। आपर्व्वान्तदिनानियत् कृत४ हतात् अर्थेन्दु १५३ भागोनिता दाशां १० शेनयुतः यथाचलयमैः २७०० शिष्टस्तमः स्यादयं ॥ पर्व्वान्तार्कतमोयुजिग्रह$\\overset{९}{ण}$वैर्हौणे स्वस्वाङ्गेर्हते लब्धाङ्के विषमेनभोऽम्बर रसाऽशेषो वियुक् नान्यथा॥ सवि$\\overset{३}{घ्ना}$र्कगतिर्वियुक् श$\\overset{५}{र}$युतस्तौ ४ भुक्तितः स्वगुणं स्यादिन्दोरसनिघ्न भुक्तिगुण$\\overset{१३}{भूभा}$गोऽच मानं ग्रहः॥**
 
@@ -772,6 +922,7 @@ $\\overset{६}{४}$६ । १ । $\\overset{७}{५}$४ ॥ २ । $\\ove
 **प्कुर पद पररकब  
 इव हरेत् वेदहतेन्दु युताः  
 स्वाल्यून शास्यात् स्थितिकाङिकार्द्धम्। इति ॥ ० ॥**
+
 
 **        अथ विश्वहिते सुर्य्यग्रहम्॥**
 
@@ -791,5 +942,26 @@ $\\overset{६}{४}$६ । १ । $\\overset{७}{५}$४ ॥ २ । $\\ove
 वालास्योविषमे लब्धेः सौम्यः शेषे बलेऽन्यथा।  
 षट्शता ६०० दधिकःशोधः स्वस्वसूर्य्यात् १२०० स नान्यथा॥**
 
+
+
+
+
+
+
+
+
+
 \]
+
+
+
+
+
+
+
+
+
+
+
+
 

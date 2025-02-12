@@ -46,7 +46,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNDA1NzA0OTg
 
 पं० श्रीदुर्गाप्रसाद द्विवेदशर्मा.
 
-![](../books_images/1680170538.jpg)
+<MISSING_FIG href="../books_images/1680170538.jpg"/>
 
 ॥ भूमिका ॥
 
@@ -79,7 +79,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwNDA1NzA0OTg
 तैरेव पुनरादिष्टा द्वेधा गणितकल्पना।  
 दृष्टादृष्टफलप्राप्त्यै ततो धर्मव्यवस्थितिः॥
 
-![](../books_images/1680171346.jpg)
+<MISSING_FIG href="../books_images/1680171346.jpg"/>
 
 **॥श्रीगणेशाय नमः ॥**  
 
@@ -900,7 +900,6 @@ $\\frac{०}{१},\\frac{१}{२},\\frac{१}{३},\\frac{३}{८},\\frac{७}
 **इति श्रीद्विवेदिदुर्गाप्रसादज्योतिश्शास्त्रविद्वरविरचिताधि  
 ( क ) मासपरीक्षा समाप्ता॥**
 
-**![](../books_images/1680264612.jpg)**
+**<MISSING_FIG href="../books_images/1680264612.jpg"/>**
 
 \]
-

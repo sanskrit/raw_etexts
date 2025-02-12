@@ -13,6 +13,18 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIwMDc4NzAz
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 **श्रीः**
 
 **वृत्तरत्नाकरः**
@@ -27,6 +39,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIwMDc4NzAz
 
 तेनेदं क्रियते छन्दो लक्ष्यलक्षणसंयुतम् ।  
 वृत्तरत्नाकरं नाम बालानां सुखसिद्ध्ये ॥ १.३ ॥
+
 
 पिङ्गलादिभ्राचार्यैर्यदुक्तं लौकिकं द्विधा ।  
 मात्रावर्णविभेदेन च्छन्दस्तदिह कथ्यते ॥ १.४ ॥
@@ -454,5 +467,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDIwMDc4NzAz
 प्रस्ताराध्यायः षष्ठः समाप्तः ॥
 
 **----------------------------------------------**
+
+
+
+
+
+
+
+
 
 \]

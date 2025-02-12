@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **॥श्रीः॥**
 
-**![](../books_images/1680933924.png)धनुर्वेदसंहिता.![](../books_images/1680934009.png)**
+**<MISSING_FIG href="../books_images/1680933924.png"/>धनुर्वेदसंहिता.<MISSING_FIG href="../books_images/1680934009.png"/>**
 
 **श्रीमद्वसिष्ठमहर्षिप्रणीता.**
 
@@ -30,7 +30,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **स्वामिविरचितभाषाटीकासमेता**
 
-**![](../books_images/1680934200.png)  
+**<MISSING_FIG href="../books_images/1680934200.png"/>  
 
 सेयं**
 
@@ -44,17 +44,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 शके १८२३,सं० १९५८.
 
-![](../books_images/1680934318.png)
+<MISSING_FIG href="../books_images/1680934318.png"/>
 
 सर्वाधिकार “श्रीवेङ्कटेश्वर” यन्त्रालयाध्यक्षने
 
 स्वाधीनरक्खाहे.
 
-![](../books_images/1680934399.png)
+<MISSING_FIG href="../books_images/1680934399.png"/>
 
 **भूमिका ।**
 
-**![](../books_images/1680934463.png)**
+**<MISSING_FIG href="../books_images/1680934463.png"/>**
 
 पाठकगण ! यह "वासिष्टी धनुर्वेदसंहिता" मूलमात्र मुझको इलाका जयपुरके सनथली बनथली कोढाके मोलकराम ब्राह्मणके पाससे लिखनेको संवत् १९३३ में चूरू रामगढ़में मिली जबसे यह धरीथी अब एक प्रति खड्गविलासयंत्रालयकी छपी हुई देखनेमें आई तथा एक पुस्तक अलीगढ़के जिलेमें छपी इसको देखकर हमनेभी अपनी पुस्तक पण्डित ईश्वरीप्रसादजी पाण्डेको दिखाई इनकी आज्ञानुसार इसकी भाषा अति परिश्रम करके बनाई परिश्रमका फल यथाशक्ति पण्डितजीसे पाया अब इस पुस्तकका सर्वाधिकार श्रीमान् खेमराज श्रीकृष्णदास “श्रीवेङ्कटेश्वर" (स्टीम् ) यन्त्रालयाधिपको समर्पण करदिया ।
 
@@ -66,7 +66,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **धनुर्वेदसंहितास्थविषयानुक्रमणिका ।**
 
-![](../books_images/1680935085.png)
+<MISSING_FIG href="../books_images/1680935085.png"/>
 
 |                                 |              |                       |          |
 |:-------------------------------:|:------------:|:---------------------:|:--------:|
@@ -106,7 +106,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **अथ वासिष्ठी धनुर्वेदसंहिताप्रारम्भः ।**
 
-**![](../books_images/1680937447.png)**
+**<MISSING_FIG href="../books_images/1680937447.png"/>**
 
 **अथैकदा विजिगीषुर्विश्वामित्रो राजर्षिर्गुरुं वसिष्ठमभ्युपेत्य प्रणम्योवाच ब्रूहि भगवन्धनुर्विद्यां श्रोत्रियाय दृढचेतसे शिष्याय दुष्ट शत्रुविनाशाय च। तमुवाच महर्षिब्रह्मर्षि प्रवरो वसिष्ठः शृणु भो राजन्विश्वामित्र यां सरहस्यधनुर्विद्यांभगवान्सदाशिवः परशुरामायोवाच तामेव सरहस्यां वच्मि तेहिताय गोब्राह्मणसाधुवेदरक्षणाय च यजुर्वेदाथर्वसम्मितां संहिताम् ॥**
 
@@ -507,33 +507,33 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 आरामुख        क्षुरप्र        गोपुच्छ      
 अर्द्धचन्द्र
 
-![](../books_images/1680955828.png)         
-![](../books_images/1680955878.png)      
-![](../books_images/1680955977.png)         
-![](../books_images/1680956022.png)  
+<MISSING_FIG href="../books_images/1680955828.png"/>         
+<MISSING_FIG href="../books_images/1680955878.png"/>      
+<MISSING_FIG href="../books_images/1680955977.png"/>         
+<MISSING_FIG href="../books_images/1680956022.png"/>  
 
 सूचीमुख        भल्ल        वत्सदन्त       
 द्विभल्ल
 
-![](../books_images/1680956198.png)         
-![](../books_images/1680956251.png)       
-![](../books_images/1680956321.png)       
-![](../books_images/1680956447.png)  
+<MISSING_FIG href="../books_images/1680956198.png"/>         
+<MISSING_FIG href="../books_images/1680956251.png"/>       
+<MISSING_FIG href="../books_images/1680956321.png"/>       
+<MISSING_FIG href="../books_images/1680956447.png"/>  
 
 कर्णिक         काकतुण्ड       अण्य          
 तोमर
 
-![](../books_images/1680956522.png)       
-![](../books_images/1680956578.png)        
-![](../books_images/1680956652.png)      
-![](../books_images/1680956785.png)
+<MISSING_FIG href="../books_images/1680956522.png"/>       
+<MISSING_FIG href="../books_images/1680956578.png"/>        
+<MISSING_FIG href="../books_images/1680956652.png"/>      
+<MISSING_FIG href="../books_images/1680956785.png"/>
 
       प्रास दीप्ताग्र     नतपर्व          
 झिल्लम टोप - शिरस्त्राण
 
-        ![](../books_images/1680956873.png)       
-![](../books_images/1680956949.png)          
-![](../books_images/1680957006.png)  
+        <MISSING_FIG href="../books_images/1680956873.png"/>       
+<MISSING_FIG href="../books_images/1680956949.png"/>          
+<MISSING_FIG href="../books_images/1680957006.png"/>  
 अर्थ^(–)आरामुखसे ढालछेदन, क्षुरप्रसे हाथ काटना, गोपुच्छसे निशाना मारना, अर्द्धचन्द्रसे माथा गरदन बाण काटना, धनुष काटना, सूचीमुखसे वख्तर छेदन, भल्लसे हृदयको फोडना, वत्सदंतसेसे धनुषकी गुणा काटना, द्विभल्लो बाण रोकना, कर्णिकसे लोहेके बाण काटना, काकतुण्डसे वेधनके योग्योंका वेध विचारसे करै॥
 
 **अन्यद्गोपुच्छकं ज्ञेयं शुद्धकाष्ठविनिर्मितम् ।**
@@ -1354,7 +1354,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **इत्यस्त्रप्रकरणं समाप्तम् ।**
 
-**![](../books_images/1681127189.png)**
+**<MISSING_FIG href="../books_images/1681127189.png"/>**
 
 **हस्तार्के लांगली कन्दो गृहीतस्तस्यलेपतः ।**
 
@@ -1622,7 +1622,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **उसका चित्र आगे देखो-**
 
-![](../books_images/1681191124.png)
+<MISSING_FIG href="../books_images/1681191124.png"/>
 
 **दण्डव्यूहश्च शकटो वराहो मकरस्तथा ।**
 
@@ -1642,9 +1642,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **आगे इनके चित्र देखो—**
 
-![](../books_images/1681191832.png)
+<MISSING_FIG href="../books_images/1681191832.png"/>
 
-![](../books_images/1681191923.png)
+<MISSING_FIG href="../books_images/1681191923.png"/>
 
 **पृष्ठतो भये शकटव्यूहः ।**
 
@@ -1656,11 +1656,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **वराहव्यूह ।**
 
-![](../books_images/1681192103.png)
+<MISSING_FIG href="../books_images/1681192103.png"/>
 
 **गरुड़व्यूह ।**
 
-![](../books_images/1681192182.png)
+<MISSING_FIG href="../books_images/1681192182.png"/>
 
 **अग्रतो भये पिपीलिकाव्यूहः ।**
 
@@ -1668,15 +1668,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **पिपीलिकाव्यूह ।**
 
-![](../books_images/1681192302.png)
+<MISSING_FIG href="../books_images/1681192302.png"/>
 
-**![](../books_images/1681192479.png)**
+**<MISSING_FIG href="../books_images/1681192479.png"/>**
 
-**![](../books_images/1681192539.png)**
+**<MISSING_FIG href="../books_images/1681192539.png"/>**
 
-![](../books_images/1681192637.png)
+<MISSING_FIG href="../books_images/1681192637.png"/>
 
-![](../books_images/1681192822.png)
+<MISSING_FIG href="../books_images/1681192822.png"/>
 
 **स्वल्पा युद्धं कुर्याद्बह्वीसेना च सर्वतो भ्रमेत् समभूमौ चाश्ववारा युद्धं कुर्य्युः । जले करितुंबीदृतिनौकाभिर्युद्धं विधेयम् । पदातयो भुशंडिं गृहीत्वा वा धनूंषि चादाय वने वृक्षेष्वंतर्धाय वाऽऽरूढा भूत्वा युद्ध्येरन् । स्थले चर्म्मखड्गभल्लैर्युध्येरन् । युद्धाहंकारिणः स्तुंगा अग्रे स्थाप्या अन्ये पश्चात् ॥ ५१ ॥**
 
@@ -1712,7 +1712,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **इति धातुपाठः ।**
 
-![](../books_images/1681195031.png)
+<MISSING_FIG href="../books_images/1681195031.png"/>
 
 **अथैतेषामुदाहरणक्रमः ।**
 
@@ -1800,7 +1800,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 ** इतिपदातिक्रमः ।**
 
-**![](../books_images/1681197503.png)**
+**<MISSING_FIG href="../books_images/1681197503.png"/>**
 
 **अथाश्वक्रमः ।**
 
@@ -1810,9 +1810,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 अर्थ^(–) गोलाकार-चौकोर-गोमूत्राकार-अर्धचन्द्राकार और नागपाश क्रमसे घोड़ेकी कवायद करानेसे वह फिर कहीं नहीं अटकता भ्रमावे ॥ ६४ ॥
 
-![](../books_images/1681197804.png)
+<MISSING_FIG href="../books_images/1681197804.png"/>
 
-![](../books_images/1681197895.png)
+<MISSING_FIG href="../books_images/1681197895.png"/>
 
 इन पाँच गतियोंसे जो घोडोंको फिरा लेगा उसका घोड़ा कहीं नहीं अटकेगा ॥ ६५ ॥
 
@@ -1828,7 +1828,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **अलातचक्ररूपम् ।**
 
-**![](../books_images/1681198410.png)**
+**<MISSING_FIG href="../books_images/1681198410.png"/>**
 
 **इति गजक्रमः ।**
 
@@ -1878,7 +1878,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 
 **संपूर्णतामयासीत् ॥**
 
-![](../books_images/1681203004.png)
+<MISSING_FIG href="../books_images/1681203004.png"/>
 
 पुस्तक मिलनेका ठिकाना-
 
@@ -1887,4 +1887,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY2MDExODIzMDc
 “श्रीवेङ्कटेश्वर” (स्टीम् ) यन्त्रालय - बंवई.
 
 \]
-

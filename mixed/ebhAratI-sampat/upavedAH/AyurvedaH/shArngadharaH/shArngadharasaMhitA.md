@@ -12,6 +12,14 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDcxNjcxMjQ1
 
 \[
 
+
+
+
+
+
+
+
+
 शार्ङ्गधर संहिता  
 Shārngadhar Saṁhitā  
 प्रथम खण्ड  
@@ -1280,6 +1288,8 @@ Typed by Pramod Sharma, M.A.
 Proofread by Maya Nand Sastri, Ved Vyakaranacharya.  
 Font conversion by Claude Setzer and Ralph Bunker.  
 Formatted for Maharishi University of Management Vedic Literature Collection.
+
+
 
 शार्ङ्गधर संहिता  
 Shārngadhar Saṁhitā  
@@ -4422,6 +4432,8 @@ Chapter 1 2 3 4 5 6 7 8 9 10 11 12
 मारणकल्पना नाम द्वादशोऽध्यायः  
 इति मध्यखण्डं समाप्तम्
 
+
+
 शार्ङ्गधर संहिता  
 Shārngadhar Saṁhitā  
 उत्तर खण्ड  
@@ -6368,5 +6380,15 @@ Typed by Pramod Sharma, M.A.
 Proofread by Maya Nand Sastri, Ved Vyakaranacharya.  
 Font conversion by Claude Setzer and Ralph Bunker.  
 Formatted for Maharishi University of Management Vedic Literature Collection.
+
+
+
+
+
+
+
+
+
+
 
 \]

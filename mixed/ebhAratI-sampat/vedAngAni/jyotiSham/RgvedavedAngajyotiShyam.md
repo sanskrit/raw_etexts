@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk4MTg3NDc5NzE
 
 \[
 
+
+
 लगधः ऋग्वेदवेदाङ्गज्योतिष
 
 पञ्चसंवत्सरमयं युगाध्यक्षं प्रजापतिं ।  
@@ -84,5 +86,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk4MTg3NDc5NzE
 माघशुक्लाह्निको युङ्क्ते श्रविष्ठायां च वार्षिकीं । । ३४  
 यथा शिखा मयूराणां नागानां मणयो यथा ।  
 तद्वद्वेदाङ्गशास्त्राणां ज्योतिषं मूर्धनि स्थितं । । ३५  
+
+
 
 \]

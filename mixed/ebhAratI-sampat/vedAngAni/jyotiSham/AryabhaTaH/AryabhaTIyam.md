@@ -13,6 +13,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5Mjc4MzQxODk
 
 \[
 
+
+
+
 दश-गीतिका-पाद
 
 १.१ ॰प्रणिपत्य एकमनेकं कं सत्यां देवतां परं ब्रह्म्
@@ -66,6 +69,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5Mjc4MzQxODk
 १.१३ दश-गीतिक-सूत्रमिदं भू-ग्रह-चरितं भ-पञ्जरे ॰ज्ञात्वा।
 
 १.१३ ग्रह-भ-गण-परिभ्रमणं सस्॰याति ॰भित्त्वा परं ब्रह्म् ।
+
 
 गणित-पाद
 
@@ -201,6 +205,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5Mjc4MzQxODk
 
 २.३३ अधिकाग्र-छेद-गुणम् द्वि-छेदाग्रमधिकाग्र-युतम्॥
 
+
 काल-क्रिया-पाद
 
 आB ३.१ वर्षम् द्वादश-मासास्त्रिंशत्-दिवसस्॰भवेत्सस्मासस्तु।
@@ -302,6 +307,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5Mjc4MzQxODk
 ३.२५ भू-तारा-ग्रह-विवरं व्यास-अर्ध-हृतस्स्व-कर्ण-संवर्गस्।
 
 ३.२५ कक्ष्यायां ग्रह-वेगस्यस्॰भवति सस्मन्द-नीचोच्च् ।
+
 
 गोल-पाद
 
@@ -505,5 +511,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA5Mjc4MzQxODk
 
 ४.५० सु-कृतायुषोस्प्रणाशम् ॰कुरुते प्रतिकञ्चुकं यसस्य् ।  
 \\Z  
+
+
 
 \]

@@ -19,11 +19,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxODc2Nzc0MjE
 
 **श्रुतबोधः।**
 
-![](../books_images/U-IMG-1735268132Screenshot2024-12-27082402.png)
+<MISSING_FIG href="../books_images/U-IMG-1735268132Screenshot2024-12-27082402.png"/>
 
 **महाकवि श्रीकालिदास विरचितः।**
 
-![](../books_images/U-IMG-1735268241Screenshot2024-12-27082626.png)
+<MISSING_FIG href="../books_images/U-IMG-1735268241Screenshot2024-12-27082626.png"/>
 
 पण्डित– कुलपतिना,
 
@@ -33,7 +33,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxODc2Nzc0MjE
 
 **विरचितया व्याख्यया समलङ्कृतः।**
 
-![](../books_images/U-IMG-1735268308Screenshot2024-12-27082805.png)
+<MISSING_FIG href="../books_images/U-IMG-1735268308Screenshot2024-12-27082805.png"/>
 
 तदात्मजाभ्यां
 
@@ -63,7 +63,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxODc2Nzc0MjE
 
 **श्रुतबोधः।**
 
-![](../books_images/U-IMG-1735228032Screenshot2024-12-26211518.png)
+<MISSING_FIG href="../books_images/U-IMG-1735228032Screenshot2024-12-26211518.png"/>
 
 मुखबन्धः।
 

@@ -17,8 +17,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAxMjg0NDA0MzA
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 श्री महादेवकृतं  
 **Il जातकतत्त्वम् ll**  
+
 
 **MAHADEVA'S**
 
@@ -44,8 +59,11 @@ PRINTED BY
 
 V. B. SOOBBIAH & SONS, BANGALORE  
 1941  
+                       
 
                          Price Rs. 5-4-0
+
+
 
 **INTRODUCTION**  
 \_\_\_\_\_\_\_
@@ -70,6 +88,7 @@ I have great pleasure in being able to present before the public one more monume
 -Samjn Tatva and the introductory Sloka in the **प्रकीर्णतत्त्व**
 -Prakeerna Tatva speak in support of this statement. He has freely adopted ideas from Varahamihira, Kalyana-Varinan, Vaidyanatha Dikshita and others, but with the difference that he has inade use of his own free views wherever necessary. This goes to show that the date of Mahadeva should be a later one than that of Vaidyanatha Dikshita.  
 
+
 The work consists of five Tatvas. ; viz , (1) **संज्ञातत्त्व -**Samjna Tatva (2) **सूतिकातत्त्व**- Sutika Tatva (3) **प्रकीर्णतत्त्व**- Prakirna Tatva (4) **स्त्रीजातकतत्त्व**- Stri Jataka Tatva, and (5)
 **दशातत्त्व**- Dasa Tatva. The word **तत्त्व**-Tatva, itself gives us a suggestion that the five elements which compose the human body respectively correspond to the five above Tatva. **पृथ्वीतत्त्व**- Prithwi Tatva is the foundation of our body and **संज्ञातत्त्व**-Samjna Tatva is therefore enunciated first. This is followed by **सूतिकातत्त्व**-Sutika Tatva as'water' follows Earth (**पृथ्वी**- Prithwi ) .**प्रकीर्णतत्त्व**- Prakirna Tatva is the biggest and the most beautiful of the work; and if this is removed, the work suffers extinction, just as our body suffers extinction, if **तेजस्**-Tejas is removed. **स्त्रीजातकतत्व**-Stri Jataka Tatva is comparable with
 **वायु** -Vayu as the planet presiding over this **तत्त्व**-Tatva is Venus -a female planet-- vide **उत्तरकालामृत**IV-25 . Further,the direction for which **वायु**-Vayu is the lord is owned by the Moon
@@ -79,17 +98,24 @@ The work consists of five Tatvas. ; viz , (1) **संज्ञातत्त�
 
         Opportunity has been freely taken to show the esoteric side of Astrology. Helping incidents from the IndianMythology have been stated more than once in their proper places. An appendix containing two charts has been added wherein importance of lunar constellations and their influence on life are widely discussed.  
 
+
      I have to state here that almost all the notes in this work have been written by my son, Chi: K. S. Krishnamurti, B. Sc. (Hons). I must offer my thanks to Mr. V. B. Srikantaiya of Messrs. V. B. Soobbiah & Sons, for the neat and expeditious execution of the work.
+
 
   BASAVANGUDI                           
       **     V. Subrahmanya Sastri**
 
      29th January 1941  
 
+
+
+
 ***CONTENTS***
+
 
 Tatva Indicative letter
 
+  
 I. A **संज्ञातत्वम्**-- Samjna Tatva
 
 II. B **सूतिकातत्वम्** -- SutikaTatva
@@ -126,6 +152,8 @@ IV. S **स्त्रीजातकतत्त्वम्** -- Strijataka T
 
 V. T **दशातत्त्वम्** -- Dasa Tatva
 
+
+
   **APPENDIX.**
 
 Chart I
@@ -142,6 +170,8 @@ ENGLISH INDEX.
 
 ERRATA. FIG
 
+
+
 **सूत्रानुक्रमनिका**-- Sutranukramanika.
 
 **मुख्यविषयापदानामकारादिकोशः -**- Index of important Sanskrit words.
@@ -150,14 +180,22 @@ A list of abbreviations used in the book.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
+
+
+
+
 **॥ श्री गणेशाय नमः ॥**  
 **॥ जातकतत्वम् ॥ **
 
 **JATAKA TATVA**  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
 **A. I.संज्ञातत्त्वम् - Samjna Tatva**  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 
 **१. श्री भुवनेश्वरी विजयते ।**
 
@@ -491,9 +529,13 @@ The following are the 12 अवस्थाः(Avastthas): -
 (1) शयन -Sayana (lying down), (2) उपवेशन -Upavesana (sitting), (3) नेत्रपाणि -Netrapani (with the hand on the eye), (4) प्रकाशन -Prakasana (making bright or irradiating), (5) गमन -Gamana (going), (6) आगमन
 -Agamana (not going), (7) सभा -Sabha (assembly), (8) आगम -Agama (coming), (9) भोजन - Bhojana (eating)
 
+
+
 (10) नृत्यलिप्सा- Nrityalipsa (desire to dance), (11) कौतुक-Kautuka (delight, joy, pleasure) and (12) निद्रा-Nidra (sleep).
 
 **७६. खोच्चगो दीप्तः स्वभगः स्वस्थो हितभगो हास्ययुक्तः शुभवर्गगः शान्तः स्फुरद्रश्मिः शक्तो मूढो लुप्तो नीचगो दीनः पापशत्रुभगः पीडितः।**
+
+
 
 **॥ इति महादेवकृतजातकतत्वे संज्ञातत्वं प्रथमम् ॥**
 
@@ -502,6 +544,8 @@ The following are the 12 अवस्थाः(Avastthas): -
 **Thus ends the first chapter styled "Samjna Tatva" in the work Jataka Tatva composed by Sri:Mahadeva.**
 
 \_\_\_\_\_\_\_\_
+
+
 
 **B. II. सूतिकातत्वम् - Sutika Tatva.**
 
@@ -861,6 +905,7 @@ If the fifth house be a malefic one and be occupied by the Moon, the Sun and Mar
 
 If malefics occupy any of the following 5 pairs, viz, the 2nd and 12th, the 12th and 6th, 8th and 6th, 8th and 9th or 6th and 8th, the child born will die in a month.
 
+
 **८६. लग्नद्रेष्काणेशे षष्ठे भतुल्ये मासि मृतिः।**
 
 If the lord of the Lagna decanate be in the 6th, the child will live for so many months as are denoted by the Rasi of the 6th house.
@@ -1202,6 +1247,8 @@ The planet, in whose Trimsamsa the Sun is situated in the nativity of a person, 
 **Thus ends the 2nd Tatva styled “Prasutika Tatva" in the work Jataka Tatva composed by Sri Mahadeva.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
 
 **C. III प्रकीर्णतत्त्वम्. -Prakeerna Tatva.**
 
@@ -2659,9 +2706,12 @@ If the lord of the 7th be Saturn and he be conjoined with a malefic, the person 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
 **D. अथ धनविवेकः Dhana Viveka.**
 
 **\_\_\_\_\_\_\_\_\_\_\_**
+
+
 
 **१. धनेऽङ्गेशे खे लाभपे धनेशांशेशे शुभे नामतो धनी ।**
 
@@ -2934,6 +2984,7 @@ The lords of the 2ndand the 11th if occupying Kendra positions indicate afflux o
 If the 11th Bhava has attained पारावतor other higher Amsa, there will be afflux of wealth.
 
 **६५. लाभेशे केन्द्रकोणे शुभसम्बन्धे धनाप्तिः।**  
+
 
 The lordof the 11th in a Kendra or a Kona and in benefic relation indicates afflux of wealth.
 
@@ -3230,9 +3281,13 @@ If all planets should be posited in the 1st, 12th and 7th houses, the full retin
 
 \_\_\_\_\_\_\_\_\_\_\_
 
+
+
 **E. अथ सहजविवेकःSahaja Viveka.**
 
 **\_\_\_\_\_\_\_\_\_\_\_**
+
+
 
 **१. लग्नलग्नेशान्यतरतस्त्र्यागैर्ज्ञेन्द्वारेज्यैर्बहुभ्रातरः केतौ तु बहुभगिन्यः ।**
 
@@ -3543,6 +3598,7 @@ If benefics in strength occupy the 1st, 2nd and 11th houses, the native acquires
 **Thus ends the 3rd discussion.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 
 **F. अथ चतुर्थविवेकःChaturttha Viveka.**
 
@@ -4136,9 +4192,12 @@ If the lord of the Lagna be conjoined with Saturn, Mandi or Rahu, the person con
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
+
 **G. अथ पञ्चमविवेकः PanchamaViveka.**
 
 \_\_\_\_\_\_\_\_\_\_
+
+
 
 **१. सुतर्क्षेशुभे शुभदृष्टयुते बुद्धिमान् ।**
 
@@ -5028,9 +5087,12 @@ If Ketu be in the Navamsa Rasi of the Atmakaraka planet and be aspected by Mercu
 
 If Venus be in the 12th and in an Amsa of Saturn, the native will be the son of a female slave.
 
+
+
 **॥ इति पञ्चमविवेकः ॥**
 
 **Thus ends the 5th discussion.**
+
 
 **H. अथ षष्टविवेकः ShashtaViveka. **
 
@@ -5812,9 +5874,12 @@ If the Sun occupy the 6th house and be in कोतुकावस्था, the
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
+
 **K. अथ सप्तमविवेकः Sapthama Viveka.**
 
 \_\_\_\_\_\_\_\_\_\_
+
+
 
 **१. स्वोच्चेसोत्थेशे पष्ठे पापयुते चरभांशे युद्धारम्भात्पूर्वंधृष्टः।**
 
@@ -6498,6 +6563,8 @@ If the Navamsa Rasi of the Atmakaraka planet belong 70 Mercury or if it be Katak
 
 If Mercury and Mars be together, the native will be a trader.
 
+
+
 **॥ इति सप्तमविवेकः॥**
 
 **Thus ends the 7th discussion.**
@@ -6507,6 +6574,8 @@ If Mercury and Mars be together, the native will be a trader.
 **L. अथ अष्टमविवेकःAshtama Viveka. **
 
 \_\_\_\_\_\_\_\_\_\_\_
+
+
 
 **१. सुते चन्द्रेगुरौ कोणे खे भौमे दीर्घायुः।**
 
@@ -7139,6 +7208,8 @@ If a malefic occupy a Kendra, and Venus aspected by a malefic be in the 8th hous
 
 If the Moon and Mercury occupy the 10th house and be aspected by malefics, be in depression Amsas or be devoid of benefic aspect, the native will ever be addicted to the killing of birds,
 
+
+
 **॥ इत्यष्टमविवेकः ॥**
 
 **Thus ends the 8th discussion.**
@@ -7148,6 +7219,8 @@ If the Moon and Mercury occupy the 10th house and be aspected by malefics, be in
 **M. अथ नवमविवेकः NavamaViveka. **
 
 \_\_\_\_\_\_\_\_\_\_
+
+
 
 **१. सुखे ज्ञाच्छौ पुण्यवान् ।**
 
@@ -7610,15 +7683,21 @@ If Jupiter be posited in the 6th house and the Sun in the 4th, the native concer
 
 When the Moon, Jupiter and the Lagna are aspected by Saturn, and Jupiter occupies the 9th house, the person born in the Raja Yoga will become a holy illustrious founder of a system of philosophy similar to ब्रह्मगुप्त-Brahma gupta, काणाद-Kanada and the like.
 
+
+
 **॥ इति नवमविवेकः॥**
 
 **Thus ends the 9th discussion.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
 **N. अथ दशमविवेकः Dasama Viveka.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_
+
+
 
 **१. राज्ये शुभदृष्ट्याधिक्ये व्यापारी ।**
 
@@ -8481,15 +8560,21 @@ If malefics be all in depression and occupy Kendra houses, and benefics occupy t
 
 If all benefics be eclipsed and occupy houses other than Kendras, Rahu be in the Lagna aspected by the Moon, and the malefics occupy the 3rd, the 6th and the 11th houses, the Rajayogas, if any, become futile.
 
+
+
 **॥ इति दशमविवेकः॥**
 
 **Thus ends the 10th discussion.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
 **P. अथैकादशविवेकः Eleventh Viveka. **
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
 
 **१. लाभे शुभा न्यायतो लाभोऽन्यथाऽन्यायतो मिश्रा उभयथा।**
 
@@ -8595,15 +8680,21 @@ If the lord of the 4th house has attained an Iravataamsa, the native concernedwi
 
 If the lord of the 4th house be in a Kendra or has attained a Vaiseshikamsa, and the lord of the 11th, a Gopuramsa, the native concerned will go on elephants.
 
+
+
 **॥ इत्येकादशविवेकः ॥ **
 
 **Thus ends the eleventh discussion.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
 **Q. अथद्वादशविवेकः Twelfth Viveka.**
 
 \_\_\_\_\_\_\_\_\_
+
+
 
 **१. षष्ठेऽष्टमे चन्द्रे द्यूने मन्दे सर्वहानिः ।**
 
@@ -8779,6 +8870,8 @@ If the lords of the 1st and 6th houses be conjoined with Saturn in a Kendra or a
 
 The event will come to pass in the Dasa and Antardasa of the strongest of the planets causing this yoga.
 
+
+
 **॥ इति द्वादशविवेकः ॥ **
 
 **Thus ends the 12th discussion. **
@@ -8788,6 +8881,8 @@ The event will come to pass in the Dasa and Antardasa of the strongest of the pl
 **R. ॥ अथमिश्रविवेकः ॥ Misra (miscellaneous) Viveka. **
 
 \_\_\_\_\_\_\_\_\_\_
+
+
 
 **१. अंशे भौमे धातुवादी कौन्तिको वह्निजीवी च ।**
 
@@ -9195,6 +9290,8 @@ Benefic planets when retrograde will bestow kingdom, power and wealth, while mal
 
 All benefics when they are in the 3rd, the 6th and the 11th houses make the native happy in his early period, while malefics in the same position make him so in the last period.
 
+
+
 **॥ इति मिश्रविवेकः ॥**
 
 **Thus ends the discussion on ‘Diverse matters.'**
@@ -9205,9 +9302,13 @@ All benefics when they are in the 3rd, the 6th and the 11th houses make the nati
 
 \_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
 **S. IV. स्त्रीजातकतत्वम्Stri Jataka Tatva.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
 
 **१. यत्पुंजातकोक्तं तत्सर्वं स्त्रीणामपि ।**
 
@@ -9489,15 +9590,21 @@ If Saturn and the Sun be in the 8th house, the woman concerned will be barren.
 
 Thus should consideration be made at the time of the marriage of a girl or when a query is made regarding her.
 
+
+
 **॥ इति जातकतत्वे स्त्रीजातकतत्वंचतुर्थम् ॥**  
+
 
 **END OF THE FOURTH TATVA.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
 **T. V. दशातत्वम्Dasa Tatva.**
 
 \_\_\_\_\_\_\_\_\_\_\_
+
 
 **१. ग्रहो भावराशिदृग्योगजीविकादिफलं खदशान्तर्दशायां ददाति ।**
 
@@ -9701,13 +9808,20 @@ At the commencement of the Dasa of a calamityproducing planet, if there be a pla
 
 If, with respect to the Moon or the Lagna at the commencement of a Dasa, the Dasa-lord occupy during his transit an Upachaya place, a friendly house, his exaltation, or his Moolatrikona Rasi, he will produce in full the effects derived from the benefic dots and will reveal only in a small degree the evil effects resulting from the malefic dots. Otherwise, the evil effects due to malefic dots will be fully revealed, while those due to the benefic dots, only in a small degree.' Even here, predictions will have to be made (or attempted) proportionately.
 
+
+
 **अनुभूतिप्रदं नाम ज्यौतिषंशास्त्रमुत्तमम् । निगमान्निर्गतं लोकवन्धं विजयतेतराम् ॥                            
            जैमिन्याद्युक्तितः सारं नवनीतमिवोद्धतम् । महादेवेन विदुषा स्वादयन्तु सुबुद्धयः ॥**
+
+
 
 This sacred Science of Astrology which expounds human experience, which has sprung forth from the Vedas, and which should be respected by the whole world, flourishes greatly.  
     The essence has been culled from the sayings of Jaimini and other sages by the learned Mahadeva, just as butter is drawn from milk, so that intelligent students may read and assimilate the same to their knowledge.
 
+
+
 **॥ इति महादेवकृतजातकतत्वे दशातत्वं पञ्चमम् ॥**  
+
 
 **॥ समाप्तश्चायं ग्रन्थः ॥**
 
@@ -9716,6 +9830,8 @@ This sacred Science of Astrology which expounds human experience, which has spru
 **FINISH**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
 
 ***APPENDIX***
 
@@ -9727,13 +9843,23 @@ Born 4th June 1884 at 11 ghatikas, 40 vighatikas after Sunrise.
 
 Died on 3rd August 1940 - 9P.M. Ayanamsa 22° 13' 44 1/2 ".  
 
+
 ***Rasi***
 
+
+
 [TABLE]
+
+
 
   ***Navamsa***
 
+
+
 [TABLE]
+
+
+
 
 Balance of Mars' Dasa-2 years 8 months and 12 days.
 
@@ -9771,19 +9897,30 @@ The Sun, the पितृकारक -Pitrukaraka, is in exact conjunction with
 
 The native was a saintly ruler, as is evident from the Sloka quoted above from बृहज्जातक.The lord of धर्मDharma, Jupiter, identifies himself with the body with full Directional strength and in company with the ministerial planet Venus in Vargottamamsa. This combination resulted in enabling the native to succeed in both the वैदिकVaidika as well as the लौकिकLoukika sphere. People credited with such balance of thoughts are rare and by the dernise of His Highness, the world has really lost a real Seer and it will be long before this gulf is bridged.
 
+
+
 ***CHART II.***
 
 **Pradhana Siromani Mr. T. Ananda Row , B. A., G.I.E. Dewan of Mysore.**
 
 Born 15th May 1852 at 1 1/2ghatikas aster Sunset. Died on 20th July 1919. Ayanamsa 21° 46' 56".
 
+
+
 ***Rasi***
 
+
+
 [TABLE]
+
+
 
 ***Navamsa***  
 
+
 [TABLE]
+
+
 
 Balance of Mercury's Dasa -8 years, 5 months and 20 days.
 
@@ -9802,9 +9939,14 @@ These arguments only go to show that Time is capable of utilising the same facto
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+
+
+
+
 ***INDEX***
 
 **N.B.-The Capital letter and the Arabic figures against each word refer respectively to the Tatva or Viveka to which it belongs and its number therein.**  
+
 
 *** A***
 
@@ -10084,6 +10226,8 @@ A female to be put \_\_\_ by her husband . S-22.
 
 ***B***
 
+
+
 BACTERIAL. To die by \_\_\_ infection.L-75.
 
 BAD. One to have a \_\_\_ end . L- 41.
@@ -10221,6 +10365,17 @@ BOAT. Parts of the \_\_\_ of Kalapurusha A - 3
 
 BOILS . To suffer from \_\_\_. H- 14,15.
 
+
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+
+
+
+
+
+
 
 \]

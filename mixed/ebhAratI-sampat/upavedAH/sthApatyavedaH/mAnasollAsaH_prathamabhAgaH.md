@@ -82,9 +82,9 @@ The last three MSS belong to the Bikaner Durbar.
 
    The authorship of the Mānasollāsa is attributed, in the 9th śloka on page 2 and the colophon, to the Chalukya King Someśvara, surnamed Bhūlokamalla and Satyāśrayakulatilaka. A reference to śloka 371 on page 62 will, however, make it evident that this attribution is incorrect. In this śloka Somesvara is himself made the standard of comparison, and no anthor would be guilty of so flagrant a piece of vanity. It is therefore probable that the book was composed in his Court by some prodigiously learned and well-informed man, thoroughly acquainted with the royal household, royal necessities and royal whims.[\*[^1]
 
-  King Someśvara is the son of Vikramāditya VI, and belongs to the line of the Western Chalukyas whose capital was at Kalyāni. Aufrecht in his *Catalogus Catalogorum* fixes the period of his reign as 1127-1138. In Barnett's *Antiquities of India* the date is 1126-1138. The date of composition of this work seems to be 1052 Śaka (1131 A. D.) as theśloka 61 on page 34 while giving theDhruvāṅka mentionsFriday as the first day of the month of Chaitra when theŚaka year 1051 had elapsed.
-
 [^1]: "Another work attributed to him is the Vikramȃṅkȃbhyudaya, an incomplete MS of which appears in one of the Pattan Bhandars. Further details of this MS with be given in our Pattan Catalogue which is in course of preparation."
+
+  King Someśvara is the son of Vikramāditya VI, and belongs to the line of the Western Chalukyas whose capital was at Kalyāni. Aufrecht in his *Catalogus Catalogorum* fixes the period of his reign as 1127-1138. In Barnett's *Antiquities of India* the date is 1126-1138. The date of composition of this work seems to be 1052 Śaka (1131 A. D.) as theśloka 61 on page 34 while giving theDhruvāṅka mentionsFriday as the first day of the month of Chaitra when theŚaka year 1051 had elapsed.
 
    It is generally believed that Someśvara ascended the throne in A. D. 1127; but the inscription recording the grant of land made by Mahāmṇdaleśvara Mârasiṃhadevarasa to the temple of Māṇikyadeva containing an image of Ekaśāleya Pâršvanātha in the 6th year of the reign of Someśvara Bhūlokamalla in the year Śaka (1052 corresponding to A.D. 1130-31) shows that the date of his accession cannot be 1127; it must be 1124-25. The real date of Someśvara's accession therefore is a matter of controversy which may better be left in the hands of the historians and antiquarians for solution. The date of accession, whether 1124 or 1127, does not, however, materially come in conflict with the date given as Dhruvānka in the Mānasollāsa already mentioned.
 
@@ -175,6 +175,7 @@ Among them the Potaki is the chief. The śloka runs thus -
  We take this opportunity of recording our cordial thanks and deep gratitude to HIS EXCELLENCY SIR MANUBHAI N. MEHTA Kt, C.S.I., M.A., L.L.B., Dewan Saheb of Baroda, for the keen interest he takes in the Series, and for the kind help rendered to us by obtaining a loan of the three Bikaner Durbar MSS on his personal responsibility. Our thanks are also due to the Bikaner Durbar for their courtesy in lending us these MSS; to the Bhandarkar Oriental Research Institute, Poona, for giving the loan of their MS; and to Pandit LB. Gandhi of our Library for assistance rendered by him in many directions, such as collating MSS, reading proofs, etc.
 
 $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{array} \\right\\}$                       
+                 
 
 **G. K. SHRIGONDEKAR.**
 
@@ -295,13 +296,13 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 | दण्डभेदाः                   |
 | व्यवहारपदानि                 |
 
-![](../books_images/1680674136.jpg)
+<MISSING_FIG href="../books_images/1680674136.jpg"/>
 
 **श्रीसोमेश्वरभूपतिविरचितो**
 
 **मानसोल्लासः।**
 
-![](../books_images/1680674233.jpg)
+<MISSING_FIG href="../books_images/1680674233.jpg"/>
 
 अभीष्टफलदं सिद्धिसिद्धमन्त्रं गणेश्वरम् ।
 
@@ -1593,7 +1594,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 ** द्वितीयं प्रकरणम् ।**
 
-**![](../books_images/1680677553.jpg)**
+**<MISSING_FIG href="../books_images/1680677553.jpg"/>**
 
 राज्यप्राप्तिनिमित्तानि कथितानीह विंशतिः ।
 
@@ -7127,7 +7128,6 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 **राज्यस्थिरीकरणोपायकथने द्वितीयं प्रकरणम् ॥**
 
-**![](../books_images/1680688134.jpg)**
+**<MISSING_FIG href="../books_images/1680688134.jpg"/>**
 
 \]
-

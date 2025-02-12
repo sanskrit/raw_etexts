@@ -21,14 +21,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI2OTQ2ODM0NzY
 
 ऊँ  
 काश्मीर-संस्कृतग्रन्थावलिः।  
-![](../books_images/U-IMG-17017862521.png)
+<MISSING_FIG href="../books_images/U-IMG-17017862521.png"/>
 
 ग्रन्थाङ्कः४५
 
 **नरेश्वरपरीक्षा।**
 
 श्रीमाहेश्वराचार्यश्रीरामकण्ठकृतप्रकाशाख्यटीकोपता।  
-![](../books_images/U-IMG-17017863272.png)
+<MISSING_FIG href="../books_images/U-IMG-17017863272.png"/>
 
 श्रीभारतधर्ममार्तण्ड-कश्मीरमहाराज-  
 श्रीप्रतापसिंहवर-प्रतिष्ठापिते
@@ -45,7 +45,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI2OTQ2ODM0NzY
 
 "कश्मीर प्रताप स्टीम प्रेस" मुद्रणालये मुद्रापयित्वा प्राकाश्यमानीता।
 
-![](../books_images/U-IMG-17017865283.png)
+<MISSING_FIG href="../books_images/U-IMG-17017865283.png"/>
 
 .  
       संवत् १९८३.      **काश्मीर - श्रीनगर     
@@ -68,6 +68,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI2OTQ2ODM0NzY
 
  In the preparation of this book my hearty thanks are due to Pandit Rajanaka Maheshvara a well-informed Pandit of the Department.
 
+                                   
                       **Madhusudan Kaul.**  
 Srinagar, Kmr.  
 The 27th April, 1926.
@@ -167,7 +168,7 @@ Commentator Shri Ramakantha.
 
  Ramakantha, the commentator of the text, was the son of Narayanakantha, the author of the Mrigendravritti. In the last stanza of the Nadakarikas, Ramakantha makes a definite statement as to his own parentage. Narayanakantha, in an opening stanza of the Mrigendravritti, tells us that his preceptor was Shri Vidyakantha who was initiated into the sacred lore by his teacher Ramakantha and who ordered him (Narayanakantta) to write a small Vritti on the Mrigendra. Hence, the line of teachers stands thus:
 
-![](../books_images/U-IMG-169884620864.png)
+<MISSING_FIG href="../books_images/U-IMG-169884620864.png"/>
 
  It is reasonable to conjecture that Narayanakantha, out of his inestimable regard and reverence for the teacher's teacher, named his son after him.
 
@@ -192,16 +193,16 @@ view to embellishing his commentary and developing the arguments employed in it.
 
 श्रीमदाचार्यसद्योज्योतिर्विरचितः।
 
-![](../books_images/U-IMG-169884673565.png)
+<MISSING_FIG href="../books_images/U-IMG-169884673565.png"/>
 
 **श्रीनारायणकण्ठसूनुश्रीमद्रामकण्ठाचार्य-  
 विरचितप्रकाशाख्यटीकया  
 संवलितः।**
 
-**![](../books_images/U-IMG-169884684366.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169884684366.png"/>**
 
 प्रथमः काण्डः।  
-![](../books_images/U-IMG-169884690567.png)
+<MISSING_FIG href="../books_images/U-IMG-169884690567.png"/>
 
 **अथ मेयाब्धिरत्नस्य  
   शंकरस्यामितद्युतेः।  
@@ -1620,15 +1621,15 @@ view to embellishing his commentary and developing the arguments employed in it.
 नरेश्वरपरीक्षाप्रकाशे नरपरीक्षा  
 प्रथमं काण्डम् ॥१॥
 
-![](../books_images/U-IMG-169938412268.png)
+<MISSING_FIG href="../books_images/U-IMG-169938412268.png"/>
 
 अथ
 
-![](../books_images/U-IMG-169941599369.png)
+<MISSING_FIG href="../books_images/U-IMG-169941599369.png"/>
 
 **द्वितीयं काण्डम्**
 
-**![](../books_images/U-IMG-169941602270.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169941602270.png"/>**
 
  अथ पुरुषपरीक्षानन्तरमीश्वरपरीक्षा।ननु युक्तमेतत्तन्त्रान्तरीयाणां वक्तुम्, इह तु ज्ञत्वकर्तृत्वस्वभावे पुंसि आवरणभावाभावाभ्यां सवितरीवाल्पमहाविषयत्वे स्वसंवेदनयोग्यतानुमानाभ्यां पूर्वोक्करीत्या प्रतिपादिते स्वल्पमहतो-रीश्वरयोः सिद्धिः स्थितैव ज्ञत्वकर्तृत्वरूपत्वादीश्वरस्येति किमन्यया तत्परीक्षया।सत्यमेतत्, जगद्धेतुभूतानादीश्वरपरीक्षा तु इयमन्यैवेत्यविरोधः। तथाहि न तावदसावस्मदादीनामात्मवत् स्वसंवेदनप्रत्यक्षसिद्धो भिन्नात्मरूपत्वेन तस्य ततोऽन्यत्वात्, नहि आत्मनां स्वसंवेदनमात्राः संकीर्यन्त इत्युक्तम्। नापि इन्द्रियप्रत्यक्षेण परस्परं स्वभावादेवेन्द्रियातीतत्वेन तेषां सिद्धेः, तच्छरीराणामिन्द्रियानतीतत्वसिद्धावपि विशिष्टज्ञानक्रियात्मनोरीश्व-रेतरयोरसिद्धेः। यदाहुर्जैमिनीयाः
 
@@ -2253,19 +2254,19 @@ view to embellishing his commentary and developing the arguments employed in it.
 मायाशक्तिर्व्यक्तियोग्याः प्रकुर्व-  
   न्पश्यन् सर्वं यद्यथा वस्तुजातम्॥'
 
-![](../books_images/U-IMG-169960390267.png)
+<MISSING_FIG href="../books_images/U-IMG-169960390267.png"/>
 
 इति नारायणकण्ठसूनोः भट्टरामकण्ठस्य कृतौ  
 नरेश्वरपरीक्षाप्रकाशे ईश्वरपरीक्षा नाम  
 द्वितीयं काण्डम् ॥२॥
 
-![](../books_images/U-IMG-169960394368.png)
+<MISSING_FIG href="../books_images/U-IMG-169960394368.png"/>
 
 अथ  
-![](../books_images/U-IMG-169998854374.png)
+<MISSING_FIG href="../books_images/U-IMG-169998854374.png"/>
 
 **तृतीयं काण्डम्  
-![](../books_images/U-IMG-169998857575.png)**
+<MISSING_FIG href="../books_images/U-IMG-169998857575.png"/>**
 
  तदियता स्वदर्शनसिद्धमीश्वरं प्रमाणतः प्रतिपाद्य परदर्शनप्रसिद्धेश्वरस्वरूपं तत्प्रतिक्षेपायाह
 
@@ -3794,6 +3795,8 @@ view to embellishing his commentary and developing the arguments employed in it.
 इति॥  
  एतदप्ययुक्तमित्याह
 
+ 
+
 उक्तमानतः ॥११०॥
 
 **साक्षाच्च सेवनीयो हि  
@@ -4557,6 +4560,8 @@ view to embellishing his commentary and developing the arguments employed in it.
 
 इति॥
 
+ 
+
 ननु 'सिद्धसाधनमेतत्' इति सांख्याः, योगिनां सत्त्वात्मनः कर्मजैश्वर्यस्य तैरभ्युपगमात्। यदुक्तम्
 
 'धर्मेण गमनमूर्ध्वं गमनमधस्ताद्भवत्यधर्मेण।' \[सां०का० ४४\]
@@ -4618,12 +4623,12 @@ view to embellishing his commentary and developing the arguments employed in it.
 
  एवं च प्रोक्तनयेन ईश्वरपरीक्षाक्षिप्तैव नरपरीक्षेति तत्प्रयोजनेनैव सप्रयोजनेति सिद्धम् ॥१८३॥
 
-![](../books_images/U-IMG-169998349971.png)
+<MISSING_FIG href="../books_images/U-IMG-169998349971.png"/>
 
 दर्शनमात्राच्छ्रीमत्सद्योज्योतिस्तमो निहन्त्युग्रम्।  
 सततावलोकनेन तु सदृष्टीश्चन्द्र इव विवर्धयति॥
 
-![](../books_images/U-IMG-169998355772.png)
+<MISSING_FIG href="../books_images/U-IMG-169998355772.png"/>
 
 नरेश्वरपरीक्षणेऽतिगहनत्वतो नैव य-  
   द्गतिर्जगति गम्यते विततबुद्विवेगिष्वपि।  
@@ -4634,7 +4639,7 @@ view to embellishing his commentary and developing the arguments employed in it.
      प्रतिक्षेपाख्यं तृतीयं काण्डम्॥  
      संपूर्णश्वायं नरेश्वरपरीक्षाप्रकाशः॥
 
-![](../books_images/U-IMG-169998370273.png)
+<MISSING_FIG href="../books_images/U-IMG-169998370273.png"/>
 
 श्रीमच्छ्रीहरिभ्रभर्तुराज्ञया प्रीतये सताग्।  
 मधुसूदनकौलेन संपाद्येयं प्रकाशिता॥
@@ -4674,4 +4679,3 @@ view to embellishing his commentary and developing the arguments employed in it.
 | भासेनार्थोऽर्था               | भासेऽवर्थेऽर्था                |
 
 \]
-
