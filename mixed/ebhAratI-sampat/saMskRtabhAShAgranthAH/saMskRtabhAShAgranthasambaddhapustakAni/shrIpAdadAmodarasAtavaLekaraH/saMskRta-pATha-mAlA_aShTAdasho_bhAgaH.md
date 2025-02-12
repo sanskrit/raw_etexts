@@ -30,7 +30,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5OTI4NDI5ODg
 **~~                                 
                                  ~~**
 
-![॑#](../books_images/U-IMG-1734596896Screenshot2024-12-19135857.png)  
+!॑#[^1]  
+
+[^1]: ../books_images/U-IMG-1734596896Screenshot2024-12-19135857.png
 
 **संस्कृत—पाठ—माला।**  
 
@@ -512,7 +514,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ5OTI4NDI5ODg
 |     अमला =      |                      न मलिना |                      |
 |  कामपराधीनः =   |                   कामेन पराधीनः |                   |
 
-![\#](../books_images/U-IMG-1734626354Screenshot2024-12-19220953.png)
+!\#[^2]
+
+[^2]: ../books_images/U-IMG-1734626354Screenshot2024-12-19220953.png
 
 पाठ ५  
 

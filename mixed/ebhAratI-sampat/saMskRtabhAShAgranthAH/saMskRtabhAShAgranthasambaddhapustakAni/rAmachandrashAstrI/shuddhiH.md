@@ -583,11 +583,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  प्रत्युत हर्ष से कहा जाता है कि वर्त्तमान सतातन धर्म्म महापरिषद् ने भी गत वर्ष १९०८ ई० में नासिक सतातन धर्म महा परिषद में इस विषय की पर्यालोचना की जो प्रस्ताव उस सभा में पढ़ा गया पाठकों के उत्साह के लिये उसको उद्धृत किया जाता है।
 
-![](../books_images/U-IMG-1730975893Screenshot2024-11-07160742.png)
+<MISSING_FIG href="../books_images/U-IMG-1730975893Screenshot2024-11-07160742.png"/>
 
 **नासिक सनातनधर्म्म महापरिषद् में वक्तृता**
 
-**![](../books_images/U-IMG-1731398943Screenshot2024-11-10194120.png) पतित परावर्त्तन ![](../books_images/U-IMG-1731398943Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731398943Screenshot2024-11-10194120.png"/> पतित परावर्त्तन <MISSING_FIG href="../books_images/U-IMG-1731398943Screenshot2024-11-10194120.png"/>**
 
 **जो हिन्दू विधर्मी होगये हैं उनको पुनरपि अपने धर्म्म में लेना।**
 
@@ -642,8 +642,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
       जय विजय नारायणसिंह बरांव।              
 (वेङ्कटेश्वर)
 
-**![](../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png)पुराणों में १० सहस्र मुसलमानों की शुद्धि![](../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png)**  
-**![](../books_images/U-IMG-173108612782.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png"/>पुराणों में १० सहस्र मुसलमानों की शुद्धि<MISSING_FIG href="../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png"/>**  
+**<MISSING_FIG href="../books_images/U-IMG-173108612782.png"/>**
 
  इस समय जब कोई मुसलमान वा अङ्गरेज शुद्ध होता है तो कई एक धर्मानभिज्ञ लोग कह उठते हैं कि यह भ्रष्टाचार हैं अधर्म है इत्यादि।
 
@@ -726,7 +726,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  विष्णु स्वामी हरिद्वार में गया और वहां म्लेच्छों के विरुद्ध प्रचार कर सब को वैष्णव बनाया। एवं वाणी भूषण आदि विद्वानों ने काशी आदि स्थानो में जाकर सहस्रों म्लेच्छों को शुद्ध किया।
 
-**![](../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png) अंत्यजों का परिवर्तन ![](../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png"/> अंत्यजों का परिवर्तन <MISSING_FIG href="../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png"/>**
 
  बंशानुगत (मौरूसी) वर्णाभिमान से आर्य्य जाति की जो हानि हुई उसको कौन विज्ञ पुरुष नहीं जानता। कौन नहीं जानता कि इस खानदानी जात्याभिमान ने ही ब्राह्मणों को वेद विहीनकर अपने बृत्त से पतित किया। कौन नहीं जानता कि स्वश्लाघी जात्यभिमानियों की घृणा और उदासीनता से सहस्रों जन पवित्र आर्य धर्म्मसे वियुक्त हुए।क्योंकि वर्त्तमान वंशानुगत निर्मूल जातपात के नियमानुसार एक छोटी जाति का पुत्र कभी ऊंचा नहीं हो सकता। चाहे वह कितना ही विद्वान् और सदाचारी क्यों न हो। उसका स्पर्श दोष दूर नहीं होता चाहे उसका आहार आचार और व्यवहार एक मौरूसी ब्राह्मण से भी पवित्र क्यों न हो, परन्तु
 
@@ -937,9 +937,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  इत्यादि प्रमाणों तथा उदाहरणों से निस्सन्देह मानना पड़ता है कि समय समय पर परिवर्त्तन होता रहा है।
 
-![](../books_images/U-IMG-173108783114.png)
+<MISSING_FIG href="../books_images/U-IMG-173108783114.png"/>
 
-**![](../books_images/U-IMG-1731556783Screenshot2024-11-10194120.png)पुराणों में चांडाल की शुद्धि![](../books_images/U-IMG-1731556783Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731556783Screenshot2024-11-10194120.png"/>पुराणों में चांडाल की शुद्धि<MISSING_FIG href="../books_images/U-IMG-1731556783Screenshot2024-11-10194120.png"/>**
 
  पौराणिक इतिहासों से प्रतीत होता है कि कभी कभी बिना प्रायश्चित्त विधि के ही चाण्डालादिकों को शुद्धकर आचार्य तथा
 
@@ -1074,7 +1074,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  अहो रात्र का ब्रह्म कूर्म नाम व्रत श्वपाक चांडाल को भी शुद्ध कर देता है।
 
-**![](../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png)खान पान और विवाह![](../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png"/>खान पान और विवाह<MISSING_FIG href="../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png"/>**
 
  संसार की गति भी एक विचित्र गति है। आर्य्य जाति जो कभी विद्या की कान थी जिस के निष्कलङ्क चरित्र और उच्च शिक्षा के सामने दूसरी जातियें मस्तिष्क नवाती थी। जिसका धर्म पवित्र और सच्चा धर्म माना जाता था उसने समय के परिवर्तन और अपने आलस के कारण उस निर्मल धर्म को अपना भ्रम जनक कल्पित कल्पनाओं से इतना कलङ्कित कर दिया कि वह न केवल दूसरों को ही भ्रम जाल भासने लगा, प्रत्युत स्वयं आर्य्य(हिन्दू) जाति भी उसे कच्चा धागा समझने लगी। जिसका तोड़ना वायु के अति निस्सार झोंकों ने सुकर समझा। चाहे वह पूर्व से आये हों
 
@@ -1385,7 +1385,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  एवं रस दुष्ट गुण दुष्ट और काल दुष्ट अन्न का निषेध है जिन से शारीरिक और आत्मिक उन्नति में बाधा पड़ती हो।
 
-**![](../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png)** **विवाह** **![](../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png"/>** **विवाह** **<MISSING_FIG href="../books_images/U-IMG-1731471232Screenshot2024-11-10194120.png"/>**
 
  इसमे सन्देह नहीं कि तुल्य वर्ण का विवाह अर्थात् ब्राह्मण गुण युक्त ब्राह्मण कुमार का तदनुकूल ब्राह्मण कुमारी से विवाह उत्तम और श्रेयस्कर है और इसकी सबने प्रशंसा की है, क्योंकि उत्तम वीर्य और उत्तम क्षेत्र के संयोग से उत्तम संतान की विशेष संभावना है परन्तु इसका तात्पर्य यह नहीं कि अपने से नीचे वर्ण में विवाई करने वाला पतित होजाता है। क्योंकि ऋषियों ने वर्ण क्राम से चार, तीन, दो और एक वर्ण में विवाह की आज्ञा दी है :—
 
@@ -1471,7 +1471,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  स्त्री, रत्न, विद्या, धर्म्म, शौच, और सुभाषित जहां से मिले ले लेना चाहिये॥
 
-**![](../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png) पतित और प्रायश्चित्त ![](../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png"/> पतित और प्रायश्चित्त <MISSING_FIG href="../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png"/>**
 
 **१ अकुर्वन् विहितं कर्म निन्दितञ्चसमाचरन्।  
 प्रसक्तश्चेन्द्रियार्थेषु, प्रायश्चित्तीयते नरः॥**  
@@ -1589,7 +1589,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  बिना अवकीर्णी के शेष सत्र उपपातकियों की चान्द्रायण से शुद्धि होजाती है।
 
-**![](../books_images/U-IMG-1731332678Screenshot2024-11-10194120.png)** **अभक्ष्यभक्षण तथा अगम्या गमन** **![](../books_images/U-IMG-1731332678Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731332678Screenshot2024-11-10194120.png"/>** **अभक्ष्यभक्षण तथा अगम्या गमन** **<MISSING_FIG href="../books_images/U-IMG-1731332678Screenshot2024-11-10194120.png"/>**
 
 **अभोज्यानांञ्च भुक्त्वान्नं स्त्री शूद्रोच्छिष्ट मेवच।  
 जग्ध्वा मांस मभक्ष्यंच सप्तरात्रं यवान् पिबेत्॥**
@@ -1697,7 +1697,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  जो पांच वर्ष से लेकर बीस वर्ष पर्यन्त म्लेच्छों के साथ रहा हो उसकी शुद्धि दो चान्द्रायण ब्रत करने से होजाती है।
 
-**![](../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png)** **चाण्डालादिकों के जलपान में शुद्धिः** **![](../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png"/>** **चाण्डालादिकों के जलपान में शुद्धिः** **<MISSING_FIG href="../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png"/>**
 
 **चाण्डाल भाण्डे यत्तोयं पीत्वा चैव द्विजोत्तमः।  
 गोमूत्र यावकाहारो सप्त षट् त्रिः द्व्यहान्यपि॥**  
@@ -1718,7 +1718,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  जो द्विज मद्य आदि से दुष्ट भांडे में जल पान करे, तो कृछ्रपाद से शुद्ध होजाता है।
 
-**![](../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png) कुपादि की शुद्धिः ![](../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png"/> कुपादि की शुद्धिः <MISSING_FIG href="../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png"/>**
 
 **अस्थि चर्म मलं वापि मूषिके यदि कूपतः।  
 उद्धृत्य चोदकं पंचगव्याच्छुद्ध्येच्छोद्धितम्॥४६॥  
@@ -1729,7 +1729,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  यदि जल भरने वाले कूप से अस्थि, चर्म, मल (विष्टा) वा मृत मूष निकले तो कूप का जल निकालने और पंचगव्य मे शुद्धि होजाती है। कूप में कुत्ता, गीदड़ वा वानर का गिरा हुआ देख कर और पुनः उसका जल पीकर ब्राह्मण तीन दिन में शुद्ध होता है।
 
-**![](../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png)मलिन पदार्थों से शुद्धि![](../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png"/>मलिन पदार्थों से शुद्धि<MISSING_FIG href="../books_images/U-IMG-1731334135Screenshot2024-11-10194120.png"/>**
 
 **अज्ञानात् प्राश्य विन्मूत्रं सुरासंस्पृष्ट मेवच।  
 पुनः संस्कार मर्हन्ति त्रयोवर्णा द्विजोतमाः॥**  
@@ -1838,7 +1838,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  जो म्लेच्छों के साथ पांच से वीस वर्ष पर्यन्त रहा हो उसकी दो चान्द्रायण ब्रत से शुद्धि होती है। और उसके कक्षा गुह्य और श्मश्रु (दाढ़ी) आदि के लोम और हाथ पाओं के नख उतरवा देने चाहिये॥
 
-**![](../books_images/U-IMG-1731386397Screenshot2024-11-10194120.png)** **पतित स्त्रियों की शुद्धि** **![](../books_images/U-IMG-1731386397Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731386397Screenshot2024-11-10194120.png"/>** **पतित स्त्रियों की शुद्धि** **<MISSING_FIG href="../books_images/U-IMG-1731386397Screenshot2024-11-10194120.png"/>**
 
 **पुरुषस्य यानि पतन निमित्तानि स्त्रीणामपितान्येव।  
 संसर्ग स्तदीयमेव प्रायश्चित्तमर्हंकृत्वा प्रदातव्यम्॥**(शौनकः)
@@ -1946,7 +1946,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  इसी सिद्धान्तानुमार विद्वानों ने देश कालानुसार गायत्री जाप से, वेद पाठ से, प्राणायाम से, ईश्वर ध्यान से, राम नाम से तीर्थ स्नान से पश्चात्ताप से यहांतक कि ब्राह्मणों के चर्णामृत से ही शुद्धि का उपदेश किया न केवल उपदेश किया प्रत्युत् इस पर अनुष्ठान किया। जैसाकि कई एक उदाहरणों से प्रतीत होता है।
 
-**![](../books_images/U-IMG-1731386397Screenshot2024-11-10194120.png) गायत्री से शुद्धिः ![](../books_images/U-IMG-1731386397Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731386397Screenshot2024-11-10194120.png"/> गायत्री से शुद्धिः <MISSING_FIG href="../books_images/U-IMG-1731386397Screenshot2024-11-10194120.png"/>**
 
 **शतं जप्ता तु सा देवी स्वल्प पाप प्रणाशिनी।  
 तथा सहस्र जप्ता तु पातकेभ्यः समुद्धरेत्॥  
@@ -2022,7 +2022,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  गोष्ट में निवासकर तीन हजार गायत्री जपकर असत् प्रतिग्रह दोष से विमुक्त होजाता है।
 
-**![](../books_images/U-IMG-1731306294Screenshot2024-11-10194120.png)रहस्य प्रायश्चित्तानि** **![](../books_images/U-IMG-1731306294Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731306294Screenshot2024-11-10194120.png"/>रहस्य प्रायश्चित्तानि** **<MISSING_FIG href="../books_images/U-IMG-1731306294Screenshot2024-11-10194120.png"/>**
 
 **मनुः— ऋक् संहितां त्रिरभ्यस्य यजुषां वा समाहितः।  
     साम्नां वा सरहस्यानां सर्वपापैः प्रमुच्यते॥**  
@@ -2094,9 +2094,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  वैदिकज्ञान से शुद्धि और परिवर्त्तन, व्याधकर्माके दृष्टान्त से स्पष्ट है देखो पृ०।
 
-**![](../books_images/U-IMG-1731306294Screenshot2024-11-10194120.png)
+**<MISSING_FIG href="../books_images/U-IMG-1731306294Screenshot2024-11-10194120.png"/>
 वेदों में शुद्धि
-![](../books_images/U-IMG-1731306294Screenshot2024-11-10194120.png)**
+<MISSING_FIG href="../books_images/U-IMG-1731306294Screenshot2024-11-10194120.png"/>**
 
  मनु बतलाता है।
 
@@ -2133,7 +2133,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 **कौत्सं—अपनः शोशुचदघ मग्ने! शुशुग्ध्यारयिम्।  
       अपनः शोशुचदघम् ऋ० अष्ट १ अ० १५ व० ५॥**
 
- हे [अग्ने]("नोट - यहां अग्नि शब्द से तीन अर्थ जानने।") ! हमारा पापहम से दूर हो-हमारा ऐश्वर्य बढ़े पुनः हमारा पाप दूर हो - इस पर सायणाचार्य लिखता है।
+ हे अग्ने[^2] ! हमारा पापहम से दूर हो-हमारा ऐश्वर्य बढ़े पुनः हमारा पाप दूर हो - इस पर सायणाचार्य लिखता है।
+
+[^2]: "नोट - यहां अग्नि शब्द से तीन अर्थ जानने।"
 
 **उक्तार्थमपि वाक्यं आदरातिशय द्योतनाय पुनः पठ्यते।  
 अवश्य मस्माक मघंविनश्यतु॥**
@@ -2157,7 +2159,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  "एवं नतयंहो न दुरितं" इत्यादि मंत्र से साफ है कि जिस पर विद्वान जन अनुग्रह करते हैं उसका कोई पाप नहीं रहता इत्यादि।
 
-**![](../books_images/U-IMG-1731310119Screenshot2024-11-10194120.png)** **प्राणायाम से शुद्धिः** **![](../books_images/U-IMG-1731310119Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731310119Screenshot2024-11-10194120.png"/>** **प्राणायाम से शुद्धिः** **<MISSING_FIG href="../books_images/U-IMG-1731310119Screenshot2024-11-10194120.png"/>**
 
  याज्ञवल्क्यः–
 
@@ -2207,7 +2209,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  "एवं नतमंहो न दुरितं" इत्यादि मंत्र से साफ है कि जिस पर विद्वान जन अनुग्रह करते हैंउसका कोई पाप नहीं रहता इत्यादि।
 
-**![](../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png)** **प्राणायाम से शुद्धिः** **![](../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png"/>** **प्राणायाम से शुद्धिः** **<MISSING_FIG href="../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png"/>**
 
  याज्ञवल्क्यः—
 
@@ -2252,7 +2254,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  पुराणों में गंगादि तीर्थ स्नान वा हरि नाम से शुद्धिः—
 
-**![](../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png) गंगा स्नान ![](../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png"/> गंगा स्नान <MISSING_FIG href="../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png"/>**
 
 **अग्नौ प्राप्तं प्रधूयेत यथा तूलं द्विजोत्तम!  
 तथा गंगावगाहस्तु सर्व पापं प्रधूयते॥** भा० अनु०
@@ -2425,7 +2427,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  जैसाकि इसी के आगे भीम नाम शूद्र का उदाहरण दिया।
 
-**![](../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png) नाम से शुद्धिः ![](../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png"/> नाम से शुद्धिः <MISSING_FIG href="../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png"/>**
 
 **प्रायश्चित्तानि सर्वाणि तपः कर्मात्मकानि वै।  
 यानि तेषा म शेषाणां कृष्णानुस्मरणं परम्। ३७**  
@@ -2457,7 +2459,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  मैं कपटी कायर कुबुद्धि कुजाती लोक और वेद से बाहिर था। परन्तु जब से रामचन्द्र जी ने मुझे अपना किया तभी से लोक का आभूषण बन गया।
 
-**![](../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png)ध्यान से शुद्धिः![](../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png"/>ध्यान से शुद्धिः<MISSING_FIG href="../books_images/U-IMG-1731310879Screenshot2024-11-10194120.png"/>**
 
 **नहि ध्यानेन सदृशं पवित्र मिह विद्यते।  
 श्वपचान्नानि सुंजानः पापी नैवात्र जायते।**  
@@ -2635,7 +2637,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  यदि केश न कटवाना चाहे तो दुगना ब्रत करे॥
 
-**![](../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png) स्त्री और केश वपन ![](../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png"/> स्त्री और केश वपन <MISSING_FIG href="../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png"/>**
 
 **नस्त्रीवपनं कार्यं॥ यम० श्लो० ५५**
 
@@ -2647,7 +2649,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  इन ब्रतों अथवा नियमों को कौन नियत करे? इसका उत्तर शास्त्रों ने दिया है कि पंचायत॥
 
-**![](../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png) प्रायश्चित्ती और पंचायत ![](../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png"/> प्रायश्चित्ती और पंचायत <MISSING_FIG href="../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png"/>**
 
 **प्रायश्चित्तीयतां प्राप्य दैवात्पूर्व कृतेन वा।  
 न संसर्गं ब्रजेत्सद्भिः प्रायश्चित्तेऽकृते द्विजः॥**  
@@ -2742,7 +2744,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  धर्म निर्णय में बृद्धों, जवानों, खूबसूरतों, तथा धनाढयों की सभा नहीं कहलाती। प्रत्युत्वहां तो विद्वान् तीन अथवा एकही काफी है।
 
-**![](../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png)** **पंचायत का कर्त्तव्य![](../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png"/>** **पंचायत का कर्त्तव्य<MISSING_FIG href="../books_images/U-IMG-1731302174Screenshot2024-11-10194120.png"/>**
 
 **देशं कालं वयः शक्तिं पापं चावेक्ष्य यत्नतः।  
 प्रायश्चित्तं प्रकल्प्यं स्याद् यत्रस्या दस्य निष्कृतिः॥**
@@ -2788,7 +2790,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
 को कहे कि तुम इसप्रकार (जैसा सभा नियत करे) पुनः सदाचार में आजाओ! इस प्रायश्चित्त कथन पर भी यदि उसकी वृति सदा चार में न लगे, अर्थात् यदि वह तदनुसार अपनी मर्यादा में न आबे तो उसको जाति बाह्य कर देना (छेक) चाहिये॥
 
-**![](../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png)खान पान बंद ![](../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png"/>खान पान बंद <MISSING_FIG href="../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png"/>**
 
 **निवर्त्तेरंश्च तस्मात्तु संभाषण सहासनं।  
 दायाद्यस्य प्रदानं च यात्रा चैवहि लौकिकी॥**  
@@ -2837,7 +2839,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  बिना प्रायश्चित्त के पतितों के साथ लेन देन नहीं करना चाहिये परंतु प्रायश्चित्त करने के अनन्तर उनसेकभी भी घृणा नहीं करनी चाहिये॥
 
-**![](../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png)व्रतस्वरूपम्![](../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png"/>व्रतस्वरूपम्<MISSING_FIG href="../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png"/>**
 
  अब उन कृच्छ्र आदि ब्रतों के स्वरूप बतलाए जाते हैं जिन में शुद्धि की जाती है॥
 
@@ -2863,7 +2865,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  गोमूत्र, गोवर, दूध, दही, घी और कुशा का जल इनको एक दिन खावे और दूसरे दिन उपवास करे इसका नाम सांतपन कृच्छ है॥
 
-**![](../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png) महासांतपन![](../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png"/> महासांतपन<MISSING_FIG href="../books_images/U-IMG-1731248769Screenshot2024-11-10194120.png"/>**
 
 **पृथक् सांतपन द्रव्यैः षड़हासोपवासकः  
 सप्ताहेन तु कृच्छ्रोऽयं महासांतपनं स्मृतम्। या० प्रा३१६**
@@ -2921,13 +2923,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 
  प्रातःकाल चार ग्रास भोजन करें और सायंकाल में भी चार ग्रास भोजन करे इसका नाम शिशु चान्द्रायणब्रत है। इत्यादि अनेक साधन हैं जिनका देशकाल और पापानुसार प्रयोग कराना विद्वानों का कर्त्तव्य है।         इति शम्॥
 
-**![](../books_images/U-IMG-1731247898Screenshot2024-11-10194120.png)परिशिष्ट![](../books_images/U-IMG-1731247898Screenshot2024-11-10194120.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731247898Screenshot2024-11-10194120.png"/>परिशिष्ट<MISSING_FIG href="../books_images/U-IMG-1731247898Screenshot2024-11-10194120.png"/>**
 
 **अनार्य्यों को आर्य बनानें में**
 
  भारत के प्रसिद्ध विद्वान् (श्री० डाक्टर भण्डारकर एम० ए० की सम्मति जो उन्होंने २९ अगस्त १९०९ को पूना के व्याख्यान में प्रगट की।
 
-**![](../books_images/U-IMG-1731247898Screenshot2024-11-10194120.png)** **आर्यप्रभा![](../books_images/U-IMG-1731247898Screenshot2024-11-10194120.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1731247898Screenshot2024-11-10194120.png"/>** **आर्यप्रभा<MISSING_FIG href="../books_images/U-IMG-1731247898Screenshot2024-11-10194120.png"/>**  
 के
 
 **प्रथम वर्ष के २२ तथा २४ अंक से उद्धृत**
@@ -3118,7 +3120,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkzOTk0NTk1NTY
 |     वा      |      तो       |
 |     ई०      |      हि०      |
 
-![](../books_images/U-IMG-1731219316Screenshot2024-11-10114458.png)
+<MISSING_FIG href="../books_images/U-IMG-1731219316Screenshot2024-11-10114458.png"/>
 
 \]
-

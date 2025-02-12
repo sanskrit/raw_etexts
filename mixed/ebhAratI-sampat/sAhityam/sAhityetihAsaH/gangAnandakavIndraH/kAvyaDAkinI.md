@@ -37,7 +37,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MTc0Mjc2OTA
 
   Apart from the work, herewith published, the following works are also attributed to the same author:
 
-(1) Karṇabhūsaṇa[^1](on *Ram*),  
+(1) Karṇabhūsaṇa[^1] (on *Ram*),  
 (2) Bhrngaduta[^2] (a poem), and  
 (3) Mandaraman^(v)jari[^3]
 (a drama).
@@ -60,7 +60,7 @@ Jagannath Sastri Hoshing
 |-------------------|
 | **शुद्धिपत्रम्|** |
 
-![](../books_images/U-IMG-1694536008Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1694536008Capture2.JPG"/>
 
 |                       |                        |
 |:---------------------:|:----------------------:|
@@ -115,7 +115,7 @@ Jagannath Sastri Hoshing
 
 इति शिवम्।
 
-![](../books_images/U-IMG-1694538073Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1694538073Capture2.JPG"/>
 
 [TABLE]
 
@@ -123,7 +123,7 @@ Jagannath Sastri Hoshing
 
 **काव्यडाकिनी।**
 
-![](../books_images/U-IMG-1694538384Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1694538384Capture2.JPG"/>
 
 श्रीसिद्धेश्वर्यै नमः।
 
@@ -425,7 +425,7 @@ Jagannath Sastri Hoshing
 
 **इति श्रीमैथिलश्रीगङ्गानन्दकवीन्द्रकृतौकाव्यडाकिन्यां प्रथमा दृष्टिः।**
 
-**![](../books_images/U-IMG-1694625296Capture2.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1694625296Capture2.JPG"/>**
 
 **निरर्थत्वाऽसमर्थत्वच्युतसंस्कृतितेतरः॥  
 सर्वो वाक्येऽप्ययं दोषः पदमागेऽपि कश्चन॥१॥**
@@ -718,7 +718,7 @@ Jagannath Sastri Hoshing
 
 **इति श्रीमैथिलश्रीगङ्गानन्दकवीन्द्रकृतौ काव्यडाकिन्यां द्वितीया दृष्टिः**
 
-**![](../books_images/U-IMG-1694774655Capture2.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1694774655Capture2.JPG"/>**
 
   अथ वाक्यदोषानाह—
 
@@ -1057,7 +1057,7 @@ Jagannath Sastri Hoshing
 
 **इति श्रीमैथिलश्रीगङ्गानन्दकवीन्द्रकृतौ काव्यडाकिन्यां तृतीया दृष्टिः।**
 
-![](../books_images/U-IMG-1694797060Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1694797060Capture2.JPG"/>
 
   अथाऽर्थदोषानाह—
 
@@ -1376,7 +1376,7 @@ Jagannath Sastri Hoshing
 
 **इति श्रीमैथिलश्रीगङ्गानन्दकवन्द्रिकृतौकाव्यडाकिन्यां चतुर्थी दृष्टिः।**
 
-![](../books_images/U-IMG-1694839556Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1694839556Capture2.JPG"/>
 
 अथ रसदोषानाह—
 
@@ -1905,4 +1905,3 @@ Jagannath Sastri Hoshing
 **समाप्तम्।**
 
 \]
-

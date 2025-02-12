@@ -180,11 +180,11 @@ The Editor
 **SANSKRIT COURSE OF READING  
 FIRST PART**
 
-![](../books_images/U-IMG-1734976542Screenshot2024-12-23232458.png)
+<MISSING_FIG href="../books_images/U-IMG-1734976542Screenshot2024-12-23232458.png"/>
 
 **संस्कृतवाचनपाठमाला**
 
-![](../books_images/U-IMG-1734976561Screenshot2024-12-23232515.png)
+<MISSING_FIG href="../books_images/U-IMG-1734976561Screenshot2024-12-23232515.png"/>
 
 **प्रथमः खण्डः**
 
@@ -1999,7 +1999,7 @@ DISTRESS.**
 
 —सुभाषितरत्नाकरः
 
-![](../books_images/U-IMG-1734697863Screenshot2024-12-20175940.png)
+<MISSING_FIG href="../books_images/U-IMG-1734697863Screenshot2024-12-20175940.png"/>
 
 **NOTES.**
 

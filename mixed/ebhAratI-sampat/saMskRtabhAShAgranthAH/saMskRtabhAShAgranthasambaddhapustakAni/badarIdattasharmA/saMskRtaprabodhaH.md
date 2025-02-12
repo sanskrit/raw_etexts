@@ -42,7 +42,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NDEwMzA2Mzc
 
 **P. Badari Datt Sharma.**
 
-**![](../books_images/U-IMG-17347887184.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17347887184.jpg"/>**
 
 **SWAMI (MACHINE ) PRESS MEERUT**
 
@@ -301,7 +301,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NDEwMzA2Mzc
 
 ५२ —अपदान्त नकार को यदि उस से कोई हल्, अनुनासिक और अन्तःस्थवर्णों को छोड़ कर परे हो तौ उस को भी अनुस्वार आदेश होजाता है। यथा—पया-न्-सि=पयांसि। यशान्-सि=यशांसि। मन्-स्यते=मंस्यते। इत्यादि॥
 
-![](../books_images/U-IMG-1735044719ोो.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1735044719ोो.jpg"/>
 
 **३ विसर्गसन्धिः**
 
@@ -325,7 +325,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NDEwMzA2Mzc
 
 ६०— सः और एषः के विसर्ग का हल पर हो तो भी लोप जाता है। यथा—सः—गच्छति। सगच्छति। एषः—क्रीडति= एषक्रीडति। इत्यादि॥
 
-![](../books_images/U-IMG-1735046071ौौ.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1735046071ौौ.jpg"/>
 
 **तृतीयाऽध्यायः**  
 **अथ शब्दानुशासनम्**
@@ -417,7 +417,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NDEwMzA2Mzc
 
 ९०—अब हम अजन्तादि क्रम से सुप् प्रत्याहार का ( प्रातिपदिक) संज्ञा शब्दों के साथ योग होने से जो परिणाम होता है उसे ६ भागों में विभक्त करके दिखलावेंगे॥
 
-![](../books_images/U-IMG-1734881949ुु.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734881949ुु.jpg"/>
 
 **१—अजन्तपुंल्लिङ्गम् **
 
@@ -1399,7 +1399,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NDEwMzA2Mzc
 |  ६  | अमुष्याः  |  अमुयोः   | अमुषाम् |
 |  ७  | अमुष्याम् |  अमुयोः   |  अमूषु  |
 
-![](../books_images/U-IMG-1735632179गह.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1735632179गह.jpg"/>
 
 **६–हलन्तनपुंसकलिङ्गम्**
 
@@ -1745,4 +1745,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU1NDEwMzA2Mzc
 **वा सरस्वती पुस्तकालय मेरठ**
 
 \]
-

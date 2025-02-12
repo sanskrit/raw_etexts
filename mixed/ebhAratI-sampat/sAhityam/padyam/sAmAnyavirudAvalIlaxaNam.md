@@ -12,9 +12,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 \[
 
+
+
 सामान्यविरुदावलीलक्षणम् श्रीरूपगोस्वामिप्रभुपादप्रणीतम्
 
+
+
+
+
+
+
 नमः श्रीकृष्णाय
+
+
+
+
 
 प्रणम्य परमानन्दं वृन्दारण्यपुरन्दरम् ।
 
@@ -32,6 +44,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 भक्तः कृष्णे भवेद्यः स विरुदावलिपाठकः ॥४॥
 
+
+
 तत्र कलिकालक्षणम्
 
 ——
@@ -43,6 +57,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 कलिका चण्डवृत्ताख्या द्विगादिगणवृत्तका ।
 
 तथा त्रिभङ्गीवृत्ताख्या मध्या मिश्रा च केवला ॥६॥
+
+
 
 तत्र चण्डवृत्तवत्
 
@@ -68,6 +84,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 दीर्घात्तु गाङ्गं कार्पासं बाल्यं विश्वश्च बाह्यकम् ॥११॥
 
+
+
 तत्र कलापरिमाणम्
 
 ——
@@ -79,6 +97,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 दशस्वपि च संयुक्तेष्वालक्ष्यो नियमो हि यः ।
 
 आद्यायां स तु कर्तव्य उत्तरासु कलास्वपि ॥१३॥
+
+
 
 तत्र सामान्यं चण्डवृत्तम्
 
@@ -102,11 +122,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 एको गणस्तु गुर्वन्तो लघ्वन्तो तद्द्वियुग्यथा ।
 
+
+
 तत्रैको गुर्वन्तः
 
 —
 
 कंसध्वंसिन्पुष्पोत्तंसिनित्यादि ।
+
+
 
 लघ्वन्तो
 
@@ -118,6 +142,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 भक्तिप्रीत वक्ति श्रीद इत्यादि ।
 
+
+
 गुरुलघ्वन्तो
 
 ,
@@ -127,6 +153,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 —
 
 विश्वस्य प्रेष्ठ सर्वस्य श्रेष्ठ इत्यादि ।
+
+
 
 गुरुद्वन्द्वान्तो
 
@@ -138,6 +166,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 रङ्गालीसिन्धो रम्याङ्गीबन्धो इत्यादि ।
 
+
+
 लघुद्वन्द्वान्तो
 
 ,
@@ -148,9 +178,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 वीरश्रीधर धीरप्रीतिद इत्यादि ।
 
+
+
 द्वय्त्रयश्चाथ चत्वारः पञ्चाप्येवं स्मृता मताः ।
 
 मध्यौ गणौ च गुर्वन्तौ लघ्वन्तौ तद्द्वयान्वितौ ॥१८॥
+
+
 
 तत्र मयौ केवलौ
 
@@ -162,6 +196,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 नन्दप्रेष्ठ विष्णो कन्दर्पेष्ट जिष्णो इत्यादि ।
 
+
+
 तौ गुर्वन्तौ
 
 ,
@@ -171,6 +207,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 —
 
 कालिन्दीतटोल्लासिन्रोलम्बीकुलोद्भासिनित्यादि ।
+
+
 
 लघ्वन्तौ
 
@@ -182,6 +220,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 कालिन्दीकृतोल्लास सारङ्गीधृतोद्भास इत्यादि ।
 
+
+
 गुरुद्वन्द्वान्तौ
 
 ,
@@ -190,7 +230,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 —
 
+
+
 वृन्दारण्यमल्लीनन्दिन्मन्दारम्भखल्यानिन्दिनित्यादि ।
+
+
 
 गुरुलघ्वन्तौ
 
@@ -202,6 +246,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 गौराङ्गी कलासङ्गीत सारङ्गी घटासंवीत इत्यादि ।
 
+
+
 लघुद्वन्द्वान्तौ
 
 ,
@@ -211,6 +257,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 —
 
 वृन्दारण्यवल्लीप्रिय कुन्दारब्धवल्लीक्रिय इत्यादि ।
+
+
 
 गणत्रयादिकाश्चैवं बुधैर्ज्ञेयाः क्रमात्कलाः ।
 
@@ -222,11 +270,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 संयुक्तवर्णनियमाद्भजन्तीति सतां मतम् ॥२०॥
 
+
+
 अथ सलक्षणं चण्डवृत्तम्
 
 ——
 
 द्विधा सलक्षणश्चण्डो नखौ विशिख इत्यपि ।
+
+
 
 तत्र नखः
 
@@ -246,6 +298,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 तरत्समन्तं काशाख्यं तिलकं यतिनर्तनम् ॥२४॥
 
+
+
 तत्र (१) रणः
 
 ——
@@ -253,6 +307,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 जरतैर्भेन बद्धाभिः कलाभिः पूर्वसङ्ख्यया ।
 
 सर्वत्र श्लिष्टयुतकं चण्डवृत्तं रणाभिधम् ॥२५॥
+
+
 
 यथा
 
@@ -266,6 +322,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 प्रहर्षचक्रवल्गज्जनस्तुत । इत्यादि ।
 
+
+
 अथ (२) वीरभद्रः
 
 ——
@@ -275,6 +333,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 अष्टमात्राच्छिदाभिस्तु कलाभिरुपकल्पितम् ।
 
 वीरभद्रतयाख्यातं चण्डवृत्तं प्रचक्षते ॥२६॥
+
+
 
 यथा
 
@@ -287,6 +347,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 दृप्यद्वत्स स्तवकितरसभर
 
 रक्षद्दक्ष प्रियजनपरिकर । इत्यादि ।
+
+
 
 अथ (३) अपराजितम्
 
@@ -302,6 +364,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 अंशैः कृतमिदं नाम्ना स्याच्चण्डमपराजितम् ॥२७॥
 
+
+
 यथा
 
 —
@@ -314,6 +378,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 चण्डितपददारिताहिसार । इत्यादि ।
 
+
+
 अथ (४) पुरुषोत्तमः
 
 ——
@@ -323,6 +389,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 क्रमात्षष्ठेऽष्टमे तूर्ये दीर्घश्लिष्टसमन्वितैः ।
 
 निबद्धं चण्डवृत्तं तु पुरुषोत्तमनामकम् ॥२८॥
+
+
 
 यथा
 
@@ -336,6 +404,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 सुरभीव्रजनादप्रिय । इत्यादि ।
 
+
+
 अथ (५) वर्धितं
 
 ——
@@ -345,6 +415,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 एकाष्टैकादश स्थाने श्लिष्टसंयोगशालिभिः ।
 
 चण्डवृत्तमिदं नाम्ना वर्धितं कवयो विदुः ॥२९॥
+
+
 
 यथा
 
@@ -358,6 +430,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 विभ्रमसमय समुद्धृतसन्नग । इत्यादि ।
 
+
+
 अथ (६) वेष्टनं
 
 ——
@@ -365,6 +439,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 नयलैर्लेन सम्बद्धैः पञ्चमे दीर्घशालिभिः ।
 
 येन दीर्घात्श्लिष्टयुतैः बद्धं भवति वेष्टनम् ॥३०॥
+
+
 
 यथा
 
@@ -378,6 +454,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 सखिपटलीवेष्टित । इत्यादि ।
 
+
+
 अथ (७) समग्रम्
 
 ——
@@ -388,6 +466,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 बद्धः समग्रनामायं चण्डो माधववल्लभः ॥३१॥
 
+
+
 यथा
 
 —
@@ -395,6 +475,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 समग्ररञ्जन स्फुरत्प्रभञ्जन
 
 प्रशस्तदाम्बर प्रवल्गदम्बर । इत्यादि ।
+
+
 
 अथ (८) अच्युतः
 
@@ -404,6 +486,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 अन्त्याच्छ्लिष्टयुतोपेतैश्चण्डमच्युतमूचिरे ॥३२॥
 
+
+
 यथा
 
 —
@@ -411,6 +495,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 पुलिनविहार स्फुरदुरुहार
 
 प्रियपरिवारस्तुतगणभार । इत्यादि ।
+
+
 
 अथ (९) मातङ्गखेलितम्
 
@@ -421,6 +507,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 दीर्घयुक्तैश्चतुर्थात्तु मधुरश्लिष्टयोगिभिः ।
 
 निबद्धं चण्डवृत्तं तु नाम्ना मातङ्गखेलितम् ॥३३॥
+
+
 
 तत्र (क) मधुरयोगाद्
 
@@ -434,6 +522,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 वीर सारङ्ग शीलितासङ्ग । इत्यादि ।
 
+
+
 तत्र (ख) श्लिष्टसंयोगाद्
 
 ,
@@ -446,7 +536,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 देवतावर्ग भावितानर्घ । इत्यादि ।
 
+
+
 एकत्र केचिदिच्छन्ति निबद्धमनयोर्द्वयोः ।
+
+
 
 यथा
 
@@ -456,6 +550,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 लालसाकृष्टराधिकादृष्ट । इत्यादि ।
 
+
+
 अथ (१०) उत्पलं
 
 ——
@@ -463,6 +559,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 भाभ्यां विनिर्मितैरंशैः राद्यात्तु श्लिष्टयोगतः ।
 
 चतुर्थाच्च तथा धीरा उत्पलाख्यं प्रचक्षते ॥३४॥
+
+
 
 यथा
 
@@ -472,11 +570,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 दक्ष विलक्षणपक्षहृतक्षण । इत्यादि ।
 
+
+
 अथ (११) कन्दलः
 
 ——
 
 आदौ मधुरसंयोगात्कन्दलं तं विदुर्बुधाः ॥३५॥
+
+
 
 यथा
 
@@ -485,6 +587,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 खण्डितदुर्जन मण्डितसज्जन
 
 गञ्जितपन्नग रञ्जितसन्नग । इत्यादि ।
+
+
 
 अथ (१२) कल्पद्रुमः
 
@@ -495,6 +599,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 तथा वाणेभ नन्देभ्यः श्लिष्टसंयोगशालिभिः ।
 
 एतं कल्पद्रुमं नाम चण्डवृत्तं प्रचक्षते ॥३६॥
+
+
 
 यथा
 
@@ -508,6 +614,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 श्रुत्युच्चलचिक्कणपक्ष । इत्यादि ।
 
+
+
 अथ (१३) अस्खलितं
 
 ——
@@ -517,6 +625,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 द्वितीयाच्च चतुर्थाच्च षष्ठात्सप्तमतस्तथा ।
 
 श्लिष्टसंयोगघटितैश्चण्डोऽस्खलितनामकः ॥३७॥
+
+
 
 यथा
 
@@ -530,6 +640,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 माधुर्यरञ्जितस्वच्छनर । इत्यादि ।
 
+
+
 अथ (१४) तुरङ्गः
 
 ——
@@ -537,6 +649,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 भनजैर्लेन सम्बद्धैरादेरष्टमतस्तथा ।
 
 स्फुरन्मधुरसंयुक्तैरंशैर्बद्धस्तुरङ्गकः ॥३८॥
+
+
 
 यथा
 
@@ -550,6 +664,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 लङ्गिममुखशशिचुम्बक । इत्यादि ।
 
+
+
 अथ (१५) गुणरतिः
 
 ——
@@ -558,6 +674,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 बद्धं गुणरतिं नाम्ना चण्डवृत्तं प्रचक्षते ॥३९॥
 
+
+
 यथा
 
 —
@@ -565,6 +683,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 यमुनातटचर नवनागरवर
 
 दनुजबलिहर मधुराकृतिधर । इत्यादि ।
+
+
 
 अथ (१६) पल्लवितम्
 
@@ -575,6 +695,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 आद्याद्विश्लिष्टयुतकैश्चतुर्थे पञ्चमे तथा ।
 
 दीर्घोदारैः समायुक्तं चण्डं पल्लविताभिधम् ॥४०॥
+
+
 
 यथा
 
@@ -588,6 +710,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 दुर्लभकेलीभरमधुरिमकण । इत्यादि ।
 
+
+
 अथ (१७) तरत्समन्तं
 
 ——
@@ -599,6 +723,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 पऊचमाच्छ्लिष्टयोगाद्यैः षष्ठे दीर्घमनोहरैः ।
 
 नवमे च तरत्पूर्वं समन्तं परिचक्षते ॥४२॥
+
+
 
 यथा
 
@@ -612,6 +738,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 समग्रबिम्बश्रीरुचिराधर । इत्यादि ।
 
+
+
 अथ (१८) काशाख्यं
 
 ——
@@ -621,6 +749,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 चतुर्थाच्छ्लिष्टयुतकैः सप्तमे नवमे तथा ।
 
 दीर्घसंयोगिभिर्युक्तं काशाख्यं चण्डमूचिरे ॥४३॥
+
+
 
 यथा
 
@@ -634,6 +764,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 मण्डितनिर्मलनीलकाय । इत्यादि ।
 
+
+
 अथ (१९) तिलकं
 
 ——
@@ -641,6 +773,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 ननस्ननैः कृतैरंशैर्नवमान्मधुरोज्ज्वलैः ।
 
 निबद्धं चण्डवृत्तं तु तिलकाख्यमथोचिरे ॥४४॥
+
+
 
 यथा
 
@@ -654,6 +788,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 कचचलदविकल पङ्कजनवदल । इत्यादि ।
 
+
+
 अथ (२०) यतिनर्तनम्
 
 ——
@@ -665,6 +801,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 षष्ठाच्च श्लिष्टसंयुक्तैः सप्तमान्मधुरान्वितैः ।
 
 नवमाच्च पुनः श्लिष्टयोगिभिर्यतिनर्तनम् ॥४५॥
+
+
 
 यथा
 
@@ -678,6 +816,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 नवगर्भकसुकुन्तलव्रज । इत्यादि ।
 
+
+
 अथ विशिखाख्यश्चण्डः
 
 ——
@@ -686,11 +826,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 वञ्जुलं बकुलं चेति कामस्यांई शरा मताः ॥४६॥
 
+
+
 तत्र (१) पद्मम्
 
 ——
 
 अच्युतस्तु भवेत्पद्मं पञ्चमाद्युक्तसंयुतः ॥४७॥
+
+
 
 यथा
 
@@ -700,9 +844,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 स्मरमदधृष्ट प्रियजनहृष्ट । इत्यादि ।
 
+
+
 इदमेव बुधाः केचित्पद्मं दीर्घान्तिमं जगुः ।
 
 अतः सर्वकलान्ते तु भवेल्लघुचतुष्टयम् ॥४८॥
+
+
 
 यथा
 
@@ -714,7 +862,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 कृतसुर... । इत्यादि ।
 
+
+
 अस्यैव केचिदिच्छन्ति लचतुष्टयमुत्तरम् ॥४९॥
+
+
 
 यथा
 
@@ -724,11 +876,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 सम्भीषित खलकुम्भीश्वरगत । इत्यादि ।
 
+
+
 इदमेव भवेत्पद्मं गदितं षड्विधं बुधैः ।
 
 पङ्केरुहं सितं कञ्जं तथा पाण्डूत्पलं मतम् ।
 
 इन्दीवरारुणाम्भोजे कह्लारं चेति कीर्तितम् ॥५०॥
+
+
 
 तत्र (अ) पङ्केरुहम्
 
@@ -738,6 +894,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 पद्मं पङ्केरुहं प्रोक्तं कैकावेदिभिर्बुधैः ॥५१॥
 
+
+
 यथा
 
 —
@@ -745,6 +903,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 जय गतशङ्क प्रणयिबङ्क
 
 द्विषदुरुटङ्क प्रणयविटङ्क । इत्यादि ।
+
+
 
 तद्भेदः
 
@@ -754,11 +914,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 दृशुदितभङ्गी इत्यादि ।
 
+
+
 अथ (ब्) सितकुञ्जम्
 
 ——
 
 चवर्ग्यमधुरोपेतं तद्भवेत्सितकुञ्जकम् ॥५२॥
+
+
 
 यथा
 
@@ -768,19 +932,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 मधुरिमपञ्च स्तवकितपिञ्छ । इत्यादि ।
 
+
+
 तद्भेदः
 
 —
 
 जय जय मुञ्जानलहर गुञ्जाप्रिय इत्यादि ।
 
+
+
 एवं सर्वत्र ज्ञेयम् ।
+
+
 
 अथ (च्) पाण्डूत्पलम्
 
 ——
 
 टवर्ग्यमधुरोपेतं पाण्डूत्पलमुदीर्यते ॥५३॥
+
+
 
 यथा
 
@@ -796,6 +968,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 तवर्ग्यमधुरोपेतं तदेवेन्दीवरं विदुः ॥५४॥
 
+
+
 यथा
 
 —
@@ -804,11 +978,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 मधुरिमसन्तर्पितजगदन्तरित्यादि ।
 
+
+
 अथ (ए) अरुणाम्भोजम्
 
 ——
 
 तवर्ग्यमधुरोपेतमरुणाम्भोजमुच्यते ॥५५॥
+
+
 
 यथा
 
@@ -818,11 +996,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 स्मरकृतकम्प प्रियजनशम्प इत्यादि ।
 
+
+
 अथ (फ़्) कह्लारम्
 
 ——
 
 विश्लिष्टयुतमेतत्तु कह्लारं परिचक्षते ॥५६॥
+
+
 
 यथा
 
@@ -832,6 +1014,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 प्रभनखभर व्रजकुलमल्ल इत्यादि ।
 
+
+
 अथ (२) कुन्दम्
 
 ——
@@ -839,6 +1023,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 भजाभ्यां कल्पितैरंशैः प्रायश्छिन्नैर्द्विशोऽक्षरैः ।
 
 आद्यपञ्चमयोर्युक्तोत्तरितैः कुन्दमुच्यते ॥५७॥
+
+
 
 यथा
 
@@ -848,7 +1034,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 कुन्दजयिदन्त दुष्टकुलहन्तः । इत्यादि ।
 
+
+
 पञ्चमं चेद्दीर्घयुतं कुन्दभेदस्तदोच्यते ।
+
+
 
 यथा
 
@@ -858,6 +1048,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 चित्तहर शीत मञ्जुकलगीत । इत्यादि ।
 
+
+
 अथ (३) चम्पकम्
 
 ——
@@ -865,6 +1057,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 भनाभ्यां कल्पितैरंशैर्युक्तपूर्वादिवर्णकैः ।
 
 सानुप्रासैः प्रतियुगमादावन्तेऽपि चम्पकम् ॥५८॥
+
+
 
 यथा
 
@@ -874,6 +1068,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 सुन्दरनयन कन्दरशयन । इत्यादि ।
 
+
+
 अथ (४) वञ्जुलम्
 
 ——
@@ -881,6 +1077,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 नजलैर्घटितैरंशैर्मधुरोत्तरपञ्चमैः ।
 
 निबद्धं वञ्जुलं नाम कलिकावेदिनां मतम् ॥५९॥
+
+
 
 यथा
 
@@ -890,7 +1088,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 निजगिरिकन्दर रतिरसशङ्कर । इत्यादि ।
 
+
+
 भवेद्वञ्जुलभेदस्तु तदेव श्लिष्टसंयुतः ।
+
+
 
 यथा
 
@@ -900,6 +1102,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 रुचिजितदर्पक विपदपसर्पक । इत्यादि ।
 
+
+
 अथ (५) बकुलम्
 
 ——
@@ -908,11 +1112,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 भासुरं मङ्गलं तुङ्गमिति स्याद्बकुलं त्रिधा ॥६०॥
 
+
+
 अथ (अ) भासुरम्
 
 —
 
 मिथः शृङ्खलितैर्बद्धं भासुरं पज्झटीपदैः ॥६१॥
+
+
 
 यथा
 
@@ -926,11 +1134,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 चारण स्निग्ध वधूधृतिहारक । इत्यादि ।
 
+
+
 अथ (ब्) मङ्गलम्
 
 ——
 
 द्विशः शृङ्खलितैरंशैर्भाभ्यां बद्धैस्तु मङ्गलम् ॥६२॥
+
+
 
 यथा
 
@@ -940,6 +1152,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 वीर्यविलक्षण लक्षण बोधित । इत्यादि ।
 
+
+
 अथ (च्) तुङ्गः
 
 ——
@@ -947,6 +1161,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 अंशैर्मिथः शृङ्खलितैः संयुक्तनियमोज्झितैः ।
 
 निबद्धं कुन्दमेवात्र तुङ्गमित्यभिधीयते ॥६३॥
+
+
 
 यथा
 
@@ -958,6 +1174,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 बन्धुरित नेत्र । इत्यादि ।
 
+
+
 एवं प्रकारैरपरैर्मधुरश्लिष्टयोगतः ।
 
 विश्लिष्टशिथिलादीनां योगतश्च परः शताः ।
@@ -965,6 +1183,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 चण्डवृत्तप्रबन्धाः स्युः कस्तान्कार्त्स्न्येन वक्ष्यति ॥६४॥
 
 अथ द्विगादिगणवृत्तकलिका
+
+
 
 द्विगादिगणवृत्ताख्या कलिकाथ निगद्यते ।
 
@@ -984,6 +1204,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 नातिदीर्घेह कलिका नातिह्रस्वा च सम्मता ।
 
+
+
 अथ द्विगादिकलिका
 
 द्विगादिकलिकां धीराः कोरकाख्यां प्रचक्षते ॥६९॥
@@ -994,11 +1216,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 प्तां द्विगादिकलिकां विदुः ॥७०॥
 
+
+
 अत्र गणाः
 
 —
 
 शौरे माधव भगवन्मुरहर ।
+
+
 
 तदुदाहरणम्
 
@@ -1008,17 +1234,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 दानव मण्डल घूकविरोचन । इत्यादि ।
 
+
+
 अथ रादिकलिका
 
 अभिज्ञै रादिकलिका गुच्छाख्या विनिगद्यते ।
 
 रन्गभ्नललैर्बद्धैरनन्यगणसङ्गिभिः ॥७१॥
 
+
+
 तत्र गणाः
 
 —
 
 हे हरे मुररिपो केशिहर बकमथन ।
+
+
 
 तदुदाहरणम्
 
@@ -1027,6 +1259,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 नवजलद सञ्चयद्युतिनिकर सुन्दर ।
 
 श्रुतिचलितकुण्डल प्रभमधुरचन्द्रक । इत्यादि ।
+
+
 
 अथ मादिकलिका
 
@@ -1038,11 +1272,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 स्वेष्टावसानैः सम्बद्धा स्यान्मादिकलिका दलैः ॥७३॥
 
+
+
 अत्र गणाः
 
 —
 
 कंसारे वनमालिन्केशिरिपो कमलनयन ।
+
+
 
 तदुदाहरणम्
 
@@ -1052,6 +1290,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 मालाकुल रचितातुल वेशघटन पुलिननटन ॥ इत्यादि ।
 
+
+
 अथ नकलिका
 
 आचक्षते नकलिकां कुसुमाख्यां विचक्षणाः ।
@@ -1059,6 +1299,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 नैरेव स्वावधिच्छिन्नैः क्ÿ
 
 इप्ता नकलिका मता ॥७४॥
+
+
 
 याथा
 
@@ -1072,6 +1314,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 वसनदलित कनकपटल । इत्यादि ।
 
+
+
 अथ गानकलिका
 
 एषा तु गानकलिका गन्धाख्या कथिता बुधैः ।
@@ -1079,6 +1323,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 आदिगेन तु नेनैव सर्वान्ते च गणस्पृशा ।
 
 बद्धा स्याद्गानकलिका कलिकावेदिनां मता ॥७५॥
+
+
 
 यथा
 
@@ -1089,6 +1335,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 गोपकुलमोदपर चारुतरवेशधर ॥ देव ॥
 
 अथ त्रिभङ्गीवृत्तकलिका
+
+
 
 अथ त्रिभङ्गीवृत्ताख्या कलिका प्रोच्यतेऽधुना ।
 
@@ -1108,11 +1356,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 तिग्माख्या च विदग्धाख्या षडत्र कलिका मताः ।
 
+
+
 तत्र शिखरिणी
 
 —
 
 शिखरिण्यां त्रयो भङ्गश्चतुःषष्ठत्रयोदशे ॥८०॥
+
+
 
 तत्र पद्ये वृत्तिर्
 
@@ -1126,6 +1378,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 गता वाटी नाटी ललितपरिपाटी मघभिद इत्यादि ।
 
+
+
 कलिकायां
 
 ,
@@ -1138,6 +1392,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 वरवंशीहंसी विलसितभवशंसीनागर इत्यादि ।
 
+
+
 अथ तुरगत्रिभङ्गी
 
 ——
@@ -1148,11 +1404,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 अष्टादिषोडशान्तास्य कलिका पद्यवृत्तिगा ॥८१॥
 
+
+
 यथा
 
 —
 
 ध्वस्तारविन्दरुचि हस्ताग्रपिष्टकसमन्तारिमण्डल हरे । इत्यादि ।
+
+
 
 अथ दण्डकत्रिभङ्गी
 
@@ -1167,6 +1427,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 एतादृशेषु वृत्तेषु त्रिभङ्गीत्युपलक्षणम् ॥८३॥
 
 चतुर्भङ्गी पञ्चभङ्गी षड्भङ्गी चैव कीर्तिता ।
+
+
 
 तत्र चण्डवृष्टिप्रपातादि दण्डके
 
@@ -1184,11 +1446,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 भुजङ्गेन्द्र सङ्गे सदङ्गेन भोः ॥ इत्यादि ।
 
+
+
 अथ भुजङ्गत्रिभङ्गी
 
 ——
 
 तृतीयषष्ठनवमे भुजङ्गे भङ्ग ईरितः ।
+
+
 
 तत्र पद्ये भुजङ्गवृत्तिर्
 
@@ -1202,7 +1468,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 विलासेन रासे सुवासेन मुग्ध इत्यादि ।
 
+
+
 अष्टादिषोडशास्ता तु कलिका प्रोक्तयोर्द्वयोः ॥८४॥
+
+
 
 अथ तिग्मत्रिभङ्गी
 
@@ -1220,6 +1490,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 एवमष्टपदी प्रोक्ता विरुदाल्यां क्वचिद्भवेत॥८७॥
 
+
+
 यथा
 
 —
@@ -1231,6 +1503,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 सञ्चलत्कदम्बपुष्पसङ्गिकर्णलम्बिरम्य
 
 कुन्दगुच्छभङ्गिरिष्टसङ्गी रङ्गी ॥ इत्यादि ।
+
+
 
 अथ विदग्धत्रिभङ्गी
 
@@ -1248,6 +1522,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 समेयं विरुदावल्यां कलिकापद्ययोस्तथा ॥९०॥
 
+
+
 यथा
 
 —
@@ -1260,15 +1536,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 वृन्दार्चितपदपल्लव वल्लव । इत्यादि ।
 
+
+
 एवमाद्या त्रिभङ्ग्यास्तु स्तवकाव्येषु दीप्तिदाः ।
 
 वृत्ते पद्येऽप्यनन्ताः स्युः कस्ताः कार्त्स्न्येन वक्ष्यति ॥९१॥
 
+
+
 अथ मध्यकलिका
+
+
 
 आदावन्ते च गद्यं स्यात्कलिका मध्यतः स्थिता ।
 
 तां मध्यकलिकां प्राह पिङ्गलो भुजगेश्वरः ॥९२॥
+
+
 
 यथा
 
@@ -1282,9 +1566,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 अथ मिश्रकलिका
 
+
+
 तिलतण्डुलवद्यत्र कलिकागद्ययोर्युतिः ।
 
 सा मिश्रकलिका नाम षण्मुखेन प्रकीर्तिता ॥९३॥
+
+
 
 यथा
 
@@ -1314,9 +1602,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 दत्तमहोत्सवमण्डल ॥वीर॥ इत्यादि ।
 
+
+
 अथवा मिश्रकलिका नानाविधकलाश्रिता ।
 
 विभक्तिसप्तकालम्बिसम्बुध्यन्ता बुधैः स्मृता ॥९४॥
+
+
 
 यथा
 
@@ -1330,6 +1622,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 अथ गद्यकलिका
 
+
+
 क्वचिन्नानाविधं गद्यं कलिकास्थले इष्यते ।
 
 तस्योदाहरणं स्पष्टं तेनालं लिखनश्रमैः ॥९५॥
@@ -1339,6 +1633,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 विरुदावलिरानन्दं रचयत्यघविद्विषः ॥९६॥
 
 आदिक्षान्तावलिः सर्वलघ्वी चात्र विबध्यते ।
+
+
 
 तत्र अक्षरमयी
 
@@ -1351,6 +1647,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 उत्तमपुरुष ऊर्जितपौरुष
 
 ऋक्षोज्ज्वलनख इत्यादि ।
+
+
 
 सर्वलघ्वी
 
@@ -1366,13 +1664,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 पदविलसितरण विदलितफणिफण । इत्यादि ।
 
+
+
 इति कलिकालक्षणम्
+
+
 
 अथ श्लोकः
 
 ——
 
 कलिकाद्यन्तयोः श्लोकः सगुणोत्कर्ष ईर्यते ॥९७॥
+
+
 
 यथा
 
@@ -1385,6 +1689,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 ररक्ष धरणीधरोद्धृतिपटुः कुटुम्बानि यः
 
 स दारयतु दारुणं व्रजपुरन्दरस्ते दरम् ॥
+
+
 
 अथ विरुदः
 
@@ -1414,8 +1720,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODk3NzQ0Mzk2MjU
 
 पठन्तमपि तं साधु नैवाङ्गीकुरुते हरिः ॥१०३॥
 
+
+
 ॥ इति सामान्यविरुदावलीलक्षणम् ॥
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 
 \]

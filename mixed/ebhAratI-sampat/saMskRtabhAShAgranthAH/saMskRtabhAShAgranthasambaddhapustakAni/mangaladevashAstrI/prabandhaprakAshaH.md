@@ -24,7 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 
 [TABLE]
 
-![](../books_images/U-IMG-1734674724Screenshot2024-12-20113138.png)
+<MISSING_FIG href="../books_images/U-IMG-1734674724Screenshot2024-12-20113138.png"/>
 
 **मानवधर्मव्याख्याता आचार्य श्रीभगवान्दासः  
 एम० ए० डी० लिट०**
@@ -202,7 +202,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 |                    मुद्रणत्रुटिनिर्देशः                    |
 | ग्रन्थकर्त्रा प्रणीतानां संपादितानां वा ग्रन्थानांपरिचयः |
 
-![](../books_images/U-IMG-1734674223Screenshot2024-12-20112532.png)
+<MISSING_FIG href="../books_images/U-IMG-1734674223Screenshot2024-12-20112532.png"/>
 
 **डाक्टर मङ्गलदेव शास्त्री,**  
 प्रिंसिपल, गवर्नमेंट संस्कृत कालेज, बनारस  
@@ -491,7 +491,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 
   तदभिनन्दामो वयं भारतीयसंस्कृतेर्देववाण्याश्चाधिदेवतांभारतीं भुवम्—
 
-**![](../books_images/U-IMG-1735047433Capture2.PNG) सा नो माता भारती भूर्विभासताम्![](../books_images/U-IMG-1735047433Capture2.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1735047433Capture2.PNG"/> सा नो माता भारती भूर्विभासताम्<MISSING_FIG href="../books_images/U-IMG-1735047433Capture2.PNG"/>**
 
 येयं देवी मधुना तर्पयन्ती  
   तिस्रो भूमीरुद्धृता द्योरुपस्थात्।  
@@ -524,13 +524,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 
 \_ \_
 
-![](../books_images/U-IMG-1734673638Screenshot2024-12-20111532.png)
+<MISSING_FIG href="../books_images/U-IMG-1734673638Screenshot2024-12-20111532.png"/>
 
 **डाक्टर जे० आ० बैलेन्टाइन,**  
 प्रिंसिपल, गवर्नमेंट संस्कृत कालेज, बनारस  
 १८४६-१८६१
 
-**![](../books_images/U-IMG-1735047680Capture2.PNG) देववाण्या अवनतिरस्माकं कर्तव्यं च**
+**<MISSING_FIG href="../books_images/U-IMG-1735047680Capture2.PNG"/> देववाण्या अवनतिरस्माकं कर्तव्यं च**
 
 मान्या विद्वद्वर्याः प्रियच्छात्रगणाश्च,
 
@@ -549,7 +549,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-  ![](../books_images/U-IMG-1735047680Capture2.PNG) १९, २०।८।१९३९ईस्वीतिथ्योः संयुक्तप्रान्तीयसंस्कृतच्छात्रसंमेलनस्य श्रीमथुरापुर्यांद्वितीयाधिवेशने सभाध्यक्षस्य ग्रन्थकर्तुरभि-भाषणम्।
+  <MISSING_FIG href="../books_images/U-IMG-1735047680Capture2.PNG"/> १९, २०।८।१९३९ईस्वीतिथ्योः संयुक्तप्रान्तीयसंस्कृतच्छात्रसंमेलनस्य श्रीमथुरापुर्यांद्वितीयाधिवेशने सभाध्यक्षस्य ग्रन्थकर्तुरभि-भाषणम्।
 
 सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्।  
 स भूमिᳬ सर्वतः स्पृत्वात्यतिष्ठद्दशाङ्गुलम्॥
@@ -1695,7 +1695,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 
 |                                                                                       |
 |---------------------------------------------------------------------------------------|
-| ![](#)![](../books_images/U-IMG-1734628825Screenshot2024-12-19223814.png)![](#)![](#) |
+| <MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1734628825Screenshot2024-12-19223814.png"/><MISSING_FIG href="#"/><MISSING_FIG href="#"/> |
 
 **डा० जी० थोबो,**  
 प्रिंसिपल, गवर्नमेंट संस्कृत कालेज,बनारस  
@@ -1805,7 +1805,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 
 |                                                                           |
 |---------------------------------------------------------------------------|
-| ![](#)![](../books_images/U-IMG-1734629433Screenshot2024-12-19230027.png) |
+| <MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1734629433Screenshot2024-12-19230027.png"/> |
 
 **डाक्टर ए० वेनिस,**
 
@@ -3735,6 +3735,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 
 [^1]: "*स एष निबन्धः काशिक-राजकीय-संस्कृत-महाविद्यालयस्य 'सारस्वती सुषमा' पत्रिकाया द्वितीयतृतीयवर्षयोरङ्कयोः प्रथमवारं प्रकाशितः किञ्चित्परिवर्तनेनात्र पुनः प्रकाश्यते।"
 
+  
+
 **समावर्तनसत्रपद्धतिः**
 
 \[१९४७ तमख्रिस्तवत्सरे 'गवर्नमेन्ट संस्कृत कालेज, बनारस' इत्याख्य-  
@@ -3889,7 +3891,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 
 [^3]: "प्रथमसमावर्तनसत्रेमहामहोपाध्यायः श्रीविधुशेखरशास्त्रिभट्टाचार्यः प्रवक्तासीत्।"
 
-![](../books_images/U-IMG-1734265534Screenshot2024-12-15175506.png)
+<MISSING_FIG href="../books_images/U-IMG-1734265534Screenshot2024-12-15175506.png"/>
 
 **म.म.डाक्टर गङ्गानाथ झा,**  
 प्रिंसिपल, गवर्नमेंट संस्कृत कालेज, बनारस  
@@ -3897,7 +3899,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 
 **सुविचार—माधुकरी**
 
-![](../books_images/U-IMG-1734265729Screenshot2024-12-15175810.png)
+<MISSING_FIG href="../books_images/U-IMG-1734265729Screenshot2024-12-15175810.png"/>
 
 **सन्तो मधुव्रताः सान्द्रं  
 पीत्वा शास्त्ररसामृतम्।  
@@ -5965,7 +5967,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
         समाप्तः॥**
 
 **    
-![](../books_images/U-IMG-1734763068Screenshot2024-12-21120726.png)**
+<MISSING_FIG href="../books_images/U-IMG-1734763068Screenshot2024-12-21120726.png"/>**
 
 **मुद्रणत्रुटिनिर्देशः**
 
@@ -6171,4 +6173,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0NjkxNzE4MTA
 ** मैनेजर बुकडिपो, इंडियन प्रेस, लिमिटेड, प्रयाग**
 
 \]
-

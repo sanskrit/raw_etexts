@@ -155,6 +155,8 @@ as having written many works, the large number of quotations made in the name of
 | 6\. Alaṅkārasarvasva.    |               |
 | 7\. Śrīkaṇṭhacarita.     |               |
 
+  
+
   I have prepared this edition with the help of a single worn out palm leaf manuscript without waiting for a fuller copy that may perhaps be discovered in future, and conse- quently there are many lacunae in the text. However, I venture to place it before the learned public with the hope
 
 that they will appreciate my endeavour to preserve a rare manuscript in its present form.Once again I wish to express my gratitude towards the owners of the manuscript for the help they have rendered in enabling this Department to publish the work.
@@ -270,6 +272,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 º
 
 **५४)**  
+         
 
 इति भवभूतौ भूयसी प्रतिपत्तिर्विजृम्भते। मन्ये तदिदमस्मिन्
 
@@ -313,6 +316,8 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 अशुचिविरहप्रायस्त्वं हि त्वया परिवेष्टितं  
 तदपि मलिनं योषित्कायं स्पृशन्त्यजितेन्द्रियाः॥(?)”
 
+          
+
 (पूº७२)
 
 इति भगवदज्जुकीयं पद्यं,
@@ -332,6 +337,8 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
   प्रतापरुद्रीयकारेण त्रयोदशशतकजीविना श्रीविद्यानाथेन ‘प्रपञ्चितं च साहित्यमीमांसायाम्’इत्यनुस्मरणात् सम्भवन्ती ततः प्राक्तनतास्मदभ्यूहितद्वादशशतकपूर्वार्धमदसीयं जीवितसमयमलमनुकूलयितुम्।
 
 -------------------------------------------------------------------------------
+
+ 
 
 \*इदं च भगवदज्जुकीयं पद्यं सम्प्रति मुद्रितदृष्टे पि. अनुजन्अच्चन्प्रसाधिते पुस्तके नोपलभ्यते। तदिदं सम्पूर्णाद् भगवदज्जुकीयादपेक्षितसङ्कलितं किमपि सङगृहीतं रूपमस्य मुद्रतस्य प्रत्याययति। यतः खलु प्रामाणिकधुरन्धरोऽनुभवरसिकश्च साहित्यमीमांसाकारः समुद्धरन् भगवदज्जुकीयं पद्यमन्यथा नेतुमशक्यः। इयमसौ कापि सूची करलदृष्टानां रूपकाणां तत्तदभिनयानुरूपसंविधानापेक्षया ततस्ततः सङ्गृहीतग्रन्थतोंऽशसङ्कलनं साम्प्रदायकमित्यस्य। भासीयेषु नाटकेषु च क्रियमाणायश्चर्वायास्तदिद किमप्यन्यदुपष्टम्भकं प्रादुष्षदपलापानर्हंयद्यप्यप्रस्तुतमिति कृत्वा साम्प्रतं ततो विरम्यते।
 
@@ -420,7 +427,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 
 इति प्रथमं प्रकरणम्॥
 
-![](../books_images/U-IMG-1699073170Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699073170Capture.JPG"/>
 
 अथ द्वितीयं प्रकरणम्।
 
@@ -968,7 +975,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 अत्रासकृत् कियदद्य गन्तव्यमित्यभिधानलक्षणः परिस्पन्दो न स्वभावमहत्तामुन्मीलयति। सीताया हृदये परिस्फुरदपि न वचनमारोहि। किञ्च प्रतिक्षणमभिधीयमानमेतद् रामाश्रुप्रथमावतारकरणमित्यपि न युक्तम्। सकृदाकर्णनादेव तस्योपपत्तेः। ततोऽयमर्थो न हृदयमाह्लादयति। तस्मादवशमित्यत्र पाठः करणीयः। तदेवंविधयोर्द्वयोर्मेलनं साहित्यविशिष्टं काव्यमिति स्थितम्॥
 
 इति द्वितीयं प्रकरणम्॥  
-![](../books_images/U-IMG-1699095941Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699095941Capture.JPG"/>
 
 **अथ तृतीयं प्रकरणम्।**
 
@@ -1059,7 +1066,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
   “तं पातयां प्रथममास पपात पश्चात्।”“प्रभ्रंशयां यो नहुषं चकार।”इत्यादि न दोषः॥
 
 इति तृतीयं प्रकरणम्॥  
-![](../books_images/U-IMG-1699084880Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699084880Capture.JPG"/>
 
 **अथ चतुर्थं प्रकरणम्।**
 
@@ -1595,7 +1602,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
   श्रोणीबिम्बे गुरुणि रशनादाम शोभां बिभर्ति॥”
 
 इति चतुर्थ प्रकरणम्॥  
-![](../books_images/U-IMG-1699096400Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699096400Capture.JPG"/>
 
 **अथ पञ्चमं प्रकरणम्।**  
 
@@ -1933,7 +1940,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 इत्यादि॥
 
 इति शब्दालङ्काराः॥  
-![](../books_images/U-IMG-1699203752Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699203752Capture.JPG"/>
 
 उपमारूपकोत्प्रेक्षाव्यतिरेकविभावनाः।  
 अपह्नुतिभ्रमौ तद्वत् साम्यसंशयसङ्कराः॥
@@ -2110,6 +2117,8 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 
 [^2]: "अत्र कियानपि ग्रन्थो लुप्त इति भाति।"
 
+  
+
 ‘अरत्नालोकसंहार्यमित्या'दि।
 
 ‘प्रसिद्धहेतु(वा? व्या) वृत्त्ये’त्यादि। यथा— ‘अपीतक्षीबकादम्बामि’त्यादि। ‘असम्भृतं मण्डनमङ्गयष्टेरि’त्यादि।
@@ -2252,7 +2261,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 माधुर्यौजोभ्यामुपसंहितौ रसौ प्रस्थितः प्रसादो हि प्रभवति। तावतैव काव्यत्वं पूर्यते। काव्यत्वे(न?) हेतवो गुणा नित्याः, तदतिशयमात्रहेत्तवोऽलङ्कारा इति हि निर्णीतम्॥
 
 इति पञ्चमं प्रकरणम्॥  
-![](../books_images/U-IMG-1699290419Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1699290419Capture.JPG"/>
 
 **अथ षष्ठं प्रकरणम्।**
 
@@ -2268,6 +2277,8 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
   तत्र प्रथमं बीजमाह—
 
 स भावो रसनीयत्वं यत्प्रकर्षः प्रपद्यते।
+
+  
 
 यत्प्रकर्षो रसस्याभवत्(?) स चित्तवृत्तिविशेषो भावः॥
 
@@ -3505,6 +3516,8 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 
   सत्यमस्त्युद्देशः सामाजिकरसं प्रति। किन्तु (त)मुत्पादयितुं, न प्रतिपादयितुम्। यदर्थप्रतिपत्तिं प्रत्युद्देशः, स तु वाक्यार्थः॥
 
+  
+
 ननु जैमिनेः‘दर्शनस्य परार्थत्वाद्’
 
 (अ० १. पा० १. अधि० ६. सू० १८) इत्युच्चारणस्य परप्रतिपत्त्यर्थत्वमेव विवक्षितम्। उच्चारणताद(र्थस्या?र्थ्या)दर्थसिद्धिरि'ति वदतां परितो(वि?) षादीनामप्येतदेव मतम्। इतरथा ख्यातिलाभपूजादीनामपि शाब्दत्वप्रसङ्गादित्यत आह—
@@ -3563,7 +3576,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 
    यदसमस्तमतिसुकुमारबन्धमनुपचारवृत्ति श्रुत्यनुप्रास (योगि) योगवृत्तिमद् वचः, सा वैदर्भी। यदीषत्समस्तमतिसुकुमारब(न्ध ? न्धं)नाप्युपचारवृत्ति लाटानुप्रासयोगि योगरूढिमद् वचः, सावन्ती। यदनतिदीर्घसमासमतिस्फुटबन्धमत्युपचारवृत्तिमत्
 
-![](../books_images/U-IMG-1702728105image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1702728105image13.jpg"/>
 
 पादानुप्रासयोगरूढिपरम्परागर्भं वचः, सा गौडीति॥
 
@@ -3589,7 +3602,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-![](../books_images/U-IMG-1702728105image13.jpg)अत्र कियांश्चिद् ग्रन्थभागो लुप्तः प्रतिभाति।  
+<MISSING_FIG href="../books_images/U-IMG-1702728105image13.jpg"/>अत्र कियांश्चिद् ग्रन्थभागो लुप्तः प्रतिभाति।  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -3729,7 +3742,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 क्रोधेन्द्रजालसङ्ग्रामप्रायैरारभटी मता।  
 संक्षिप्तिका स्यात् सम्फेटो वस्तूत्थानावपातने॥
 
-भारती संस्कृतप्राय^(![](../books_images/U-IMG-1702735421image13.jpg))
+भारती संस्कृतप्राय^(<MISSING_FIG href="../books_images/U-IMG-1702735421image13.jpg"/>)
 
   बिता यथा—
 
@@ -3752,7 +3765,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 पुष्णन्ति महतीं शोभामिति प्रायः कवेरिति॥
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-![](../books_images/U-IMG-1702735421image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1702735421image13.jpg"/>
 
 पत्रमेकमत्र मातृकायां लुप्तम्  
 
@@ -5215,7 +5228,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 **कार्मुकज्यादिशब्दानां प्रयोगोऽभ्युपगम्यते।  
 महाकविप्रयुक्तत्वादर्थोत्कर्षोऽस्तु वा नवा॥**
 
-यथा^(![](../books_images/U-IMG-1702828241image13.jpg)) —
+यथा^(<MISSING_FIG href="../books_images/U-IMG-1702828241image13.jpg"/>) —
 
 यतः पुरस्तान्निर्देशे तदवश्यं निबध्यते।
 
@@ -5229,7 +5242,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 यथाप्रयोगं द्रष्टव्याः स्वीकर्तव्याश्च पण्डितैः।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-^(![](../books_images/U-IMG-1702828241image13.jpg))
+^(<MISSING_FIG href="../books_images/U-IMG-1702828241image13.jpg"/>)
 
 अत्र किञ्चिल्लुप्तमिति प्रतिभाति।  
 
@@ -5271,7 +5284,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 
 षष्ठीसमासो विन्यस्तः पक्ष्मापिङ्गलिमादिषु।
 
-  यथा—'पक्ष्मालीपिङ्गलिम्नः कणलवे'ति। अत्र 'पूरणगुण—'(२. २. ११) इत्यादिसूत्रेण षष्ठीसमासप्रतिषेधः प्राप्तः। ^(![](../books_images/U-IMG-1702828241image13.jpg))
+  यथा—'पक्ष्मालीपिङ्गलिम्नः कणलवे'ति। अत्र 'पूरणगुण—'(२. २. ११) इत्यादिसूत्रेण षष्ठीसमासप्रतिषेधः प्राप्तः। ^(<MISSING_FIG href="../books_images/U-IMG-1702828241image13.jpg"/>)
 
 यथा—'गुणानामिह विस्तरः' इति। ‘प्रथने वावशब्दे' (३. ३.३३) इति घञा भाव्यम्।
 
@@ -5291,7 +5304,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-![](../books_images/U-IMG-1702828241image13.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1702828241image13.jpg"/>
 
 अत्र किञ्चिल्लुप्तमिति प्रतिभाति।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -5871,6 +5884,7 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 “रूपाप्पिताण्ण सोहइरुइजोक्कामिणीणणेणव्वं।  
 कण्णेजं णव्वलिज्जइ कपोले घेलं कपन्थवं सहआरं॥”
 
+ 
 शिम्बिधान्यशूकधान्यानामार्द्राणामेवांग्निपक्वानामभ्यवहारोऽभ्यूषखादिका।
 
 “वाअणग्गिणाकरोमेदद्धोत्ति पुणो पुणोच्चिअकएइ।  
@@ -6873,4 +6887,3 @@ that they will appreciate my endeavour to preserve a rare manuscript in its pres
 [TABLE]
 
 \]
-

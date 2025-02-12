@@ -96,7 +96,7 @@ BAPUJI B. KAMAT,
 
 **श्रीगणेशाय नमः।**
 
-![](../books_images/U-IMG-1732115593Capture.JPG)![](#)
+<MISSING_FIG href="../books_images/U-IMG-1732115593Capture.JPG"/><MISSING_FIG href="#"/>
 
 **प्रथमः पाठः।**
 
@@ -156,7 +156,7 @@ BAPUJI B. KAMAT,
 | मातापितृभ्याम्– to theParents | माँबापको  | माउपीउखे    |
 | पुत्रः – Son                   | बेटा      | पुट्टु      |
 
-![](../books_images/U-IMG-1732737450a1.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732737450a1.jpg"/>
 
 चित्रकारः— श्रीयुत पाटकर.
 
@@ -264,7 +264,7 @@ BAPUJI B. KAMAT,
 
 **सप्तमः पाठः**
 
-      ![](../books_images/U-IMG-1732255199Capture.JPG)     
+      <MISSING_FIG href="../books_images/U-IMG-1732255199Capture.JPG"/>     
                                    
      चित्रकारः श्रीयुत पाटकर.
 
@@ -455,7 +455,7 @@ BAPUJI B. KAMAT,
 
 ** एषः श्यामलः बालकः रामः। अयम् च गौरः बालकः लक्ष्मणः। रामलक्ष्मणौ विश्वामित्रस्य अग्रतः तिष्ठतः। द्वौअपि अञ्जलिम् बद्ध्वाविश्वामित्रम् नमतः। रामलक्ष्मणयोः दक्षिणतः गुरुः वसिष्ठः तिष्ठति, तयोः पृष्ठतः च राजा दशरथः। वसिष्ठदशरथयोः पृष्ठतः च सिंहासनम् वर्तते। सिंहासनस्य उपरि छत्रम् च भवति। तस्य वामतः एकः किङ्करः तिष्ठति। तस्य हस्ते चामरम् अस्ति। सिंहासनस्य दक्षिणतः अन्यस्य किङ्करस्य हस्तः एव दृश्यते। तस्मिन् हस्ते अपि अन्यत् चामरम् भवति। छत्रम् च द्वे चामरे च राज-चिह्नानि। विश्वामित्रस्य पार्श्वतः अपि तृतीयः किङ्करः भवति। सर्वे अपि प्रसन्नाः दृश्यन्ते।**
 
-![](../books_images/U-IMG-1732738552a2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732738552a2.jpg"/>
 
 चित्रकाराः—श्रीमंत बालासाहेब पंत प्रतिनिधि, बी. ए., चीफ् ऑफ् औंध.
 
@@ -616,7 +616,7 @@ BAPUJI B. KAMAT,
 
 ** रामः वदति– "भगवन्, इयम् ताटका राक्षसी अपि नारी अस्ति। कथम् नु अहम् नारीम् मारयेयम्?” इति। मुनिः प्रतिभाषते– "मा मैवम्। एषा नारी अपि दुष्टा परमदारुणा च। त्वाम् ऋते न कश्चित्एनाम् दण्डयितुम् शक्तः। "नारीवधः अयम्” इति शङ्का न कार्या। न वा इयम् दयाम् अर्हति। धर्मः एव क्षत्रियस्य दुष्टानाम् दण्डनम्। ताटका च अतीव दुष्टा। निःशङ्कम् ताम् मारय। पुरा अपि बहुभिः राजपुत्रैः धर्मरहिताः दुष्टाः नार्यः वधिताः इति। रामः वदति– "भगवन्, भवतः वचनम् प्रमाणम्। ताटकाम् वधिष्यामि " इति।**
 
-![](../books_images/U-IMG-1732739288a3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732739288a3.jpg"/>
 
 चित्रकाराः—श्रीमंत बालासाहेब पंत प्रतिनिधि, बी. ए., चीफ् ऑफ् औंध.
 
@@ -689,7 +689,7 @@ BAPUJI B. KAMAT,
 
 ** आश्रमवासिनः अर्ध्येण विश्वामित्रम् अपूजयन्, राजपुत्राभ्याम् अतिथि—क्रियाम् च अकुर्वन्। राजपुत्रौ विश्वामित्रम् अवदताम्– "अद्य एव भवान् दीक्षाम् गृह्णातु। विघ्नकराः च ते राक्षसाः कदा निवारणीयाः तत् नौ कथयतु” इति। मुनिः प्रत्यभाषत—“अद्य दीक्षाम् गमिष्यामि। अद्यप्रभृति षट् दिनानि युवाम् तपोवनम् रक्षतम्। अहम् तु मौनम् धारयिष्यामि" इति। मुनेः तत् वचनम् श्रुत्वा, रामलक्ष्मणौ अनिद्रौ पञ्च दिनानि तपोवनम् अरक्षताम्। अथ षष्ठे दिने समागते, रामः लक्ष्मणम् अवदत्—“तात लक्ष्मण, समाहितः भव" इति। पुरोहितः वेद्याम् अग्निम् अज्वलयत्। यथान्यायम् च यज्ञः सम्प्रवर्तितः अभवत्। तस्मिन् एव क्षणे कश्चित् भयानकः महान् शब्दः आकाशे प्रादुरासीत्।**
 
-![](../books_images/U-IMG-1732739620a4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732739620a4.jpg"/>
 
 चित्रकाराः — श्रीमंत बालासाहेब पंत प्रतिनिधि, बी. ए., चीफ् ऑफ् औंध.
 
@@ -840,7 +840,7 @@ BAPUJI B. KAMAT,
 | लोक-विश्रुतौ – Well-known           | लोकप्रसिद्ध   | मशहूर           |
 | शैवम् धनुः – Shiva's bow            | शिवका धनुष्य  | शिवजो कमान      |
 
-![](../books_images/U-IMG-1733064755b1.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1733064755b1.jpg"/>
 
 चित्रकारः—श्रीयुत पाठकर.
 
@@ -886,7 +886,7 @@ BAPUJI B. KAMAT,
 
 ** अहो माधुर्यम् अस्य दृश्यस्य! इदम् प्राङ्गणम् जनकस्य प्रासादस्य। तस्य परस्तात् रम्यम् उपवनम् दृश्यते। प्राङ्गणे च मन्दिरम् भवति। मन्दिरस्य स्तम्भाः सोपानम् च तथा एव प्राङ्गणस्य भूमिः अपि,**
 
-![](../books_images/U-IMG-1733065101b2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1733065101b2.jpg"/>
 
 चित्रकाराः — श्रीमंत बालासाहेब पंत प्रतिनिधि, बी. ए., चीफ् ऑफ् औंध.
 
@@ -1113,7 +1113,7 @@ BAPUJI B. KAMAT,
 | सम्भ्रमः – Flurry, agitation   | घबड़ाहट       | मुंझारो         |
 | अनेकशः – Many times            | अनेक बार      | घणेइ भेरा       |
 
-![](../books_images/U-IMG-1733066921ব৩.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1733066921ব৩.jpg"/>
 
 चित्रकाराः—श्रीमंत बालासाहेब पंत प्रतिनिधि, बी. ए., चीफ् ऑफ् औंध,
 
@@ -2192,23 +2192,23 @@ using the book.)
 
 **Vowels:—**
 
-![](../books_images/U-IMG-1732511836i1.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732511836i1.jpg"/>
 
 **Consonants:—**
 
-![](../books_images/U-IMG-1732511865i2.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732511865i2.jpg"/>
 
  The nether stroke of consanants shows that no vowel is present. Adding the vowels above to the consonant क्, we get.
 
-![](../books_images/U-IMG-1732342850u3.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732342850u3.jpg"/>
 
  Similarly with ख्ग &c &c. we get.
 
-![](../books_images/U-IMG-1732342922u4.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732342922u4.jpg"/>
 
  The general plan is as follows:—
 
-![](../books_images/U-IMG-1732342947u5.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732342947u5.jpg"/>
 
  **Conjunct Consonants:** These are formed when two or more consonants are pronounced together without an intervening vowel.
 
@@ -2222,8 +2222,8 @@ The following are some special cases: ज्ञ d-n-a
 
 ल्ल l-l-a, &c. &c.
 
- Devnâgarî characters can clearly show the destinction between **प्रसन्न** and**परसन्न**; but this is difficult with Arabic Sindhi— both are written ![](../books_images/U-IMG-1732341288u.jpg)— So also with **नोकर**or **नवकर
-![](../books_images/U-IMG-1732341318u2.jpg)**(as the word is usually written). Hence, the importance of the Devnâgarî alphabet for accuracy.
+ Devnâgarî characters can clearly show the destinction between **प्रसन्न** and**परसन्न**; but this is difficult with Arabic Sindhi— both are written <MISSING_FIG href="../books_images/U-IMG-1732341288u.jpg"/>— So also with **नोकर**or **नवकर
+<MISSING_FIG href="../books_images/U-IMG-1732341318u2.jpg"/>**(as the word is usually written). Hence, the importance of the Devnâgarî alphabet for accuracy.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

@@ -70,7 +70,7 @@ into English are imperfect in many respects. For the translation of the Bhagwad-
 |  **४८ **   | देवपितृयज्ञेषु ब्राह्मणवरणं| श्राद्धे ब्राह्मणपरीक्षा |
 |   **४९**   |                     पितृयज्ञफलम्                      |
 
-![](../books_images/U-IMG-1733560052Screenshot2024-12-07135723.png)
+<MISSING_FIG href="../books_images/U-IMG-1733560052Screenshot2024-12-07135723.png"/>
 
 **द्वितीयो भागः।  
 उच्चोच्चतरश्रेण्योः कलाकुमार-विज्ञानकुमार-कक्षाध्यायिनां  
@@ -123,7 +123,7 @@ into English are imperfect in many respects. For the translation of the Bhagwad-
 
 [TABLE]
 
-![](../books_images/U-IMG-1735479773Screenshot2024-11-11190800.png)
+<MISSING_FIG href="../books_images/U-IMG-1735479773Screenshot2024-11-11190800.png"/>
 
  Topics dealt with in the texts collected in the Dharma Dípiká (A Guide to Hinduism) on which lectures in Religion to the Hindu students in the Central Hindu College of the Benares Hindu University are chiefly based.
 
@@ -143,7 +143,7 @@ into English are imperfect in many respects. For the translation of the Bhagwad-
 
 [TABLE]
 
-![](../books_images/U-IMG-1733560052Screenshot2024-12-07135723.png)
+<MISSING_FIG href="../books_images/U-IMG-1733560052Screenshot2024-12-07135723.png"/>
 
 **PART II. **
 
@@ -185,7 +185,7 @@ into English are imperfect in many respects. For the translation of the Bhagwad-
 
 [TABLE]
 
-![](../books_images/U-IMG-1733690596Screenshot2024-12-09021301.png)
+<MISSING_FIG href="../books_images/U-IMG-1733690596Screenshot2024-12-09021301.png"/>
 
 **ईश्वरस्तुतिः**
 
@@ -273,7 +273,7 @@ into English are imperfect in many respects. For the translation of the Bhagwad-
 
 10. Om! may the Lord protect us both (teacher and pupil). May He feed us together. Let us both exert ourselves in heroric practice. May our studies grow illustrious. May we never entertain ill-will between us, Peace! Peace! Peace!
 
-![](../books_images/U-IMG-1733691586Screenshot2024-12-09021301.png)
+<MISSING_FIG href="../books_images/U-IMG-1733691586Screenshot2024-12-09021301.png"/>
 
 **LIST OF CORRECTIONS AND ADDITIONS **
 
@@ -373,7 +373,7 @@ Subtitute **वासः** for **वासं**.
 धर्मदीपिका।  
 Guide to Hinduism.**
 
-**![](../books_images/U-IMG-1733692021Screenshot2024-12-09021301.png) **
+**<MISSING_FIG href="../books_images/U-IMG-1733692021Screenshot2024-12-09021301.png"/> **
 
 **धर्ममहत्वम्**  
 **GREATNESS OF DHARMA.**
@@ -2880,7 +2880,7 @@ fortune that thou mayst have good old age with me thy husband. The gods Bhaga, A
 
  Now let us marry, let us unite our procreating powers. Let us beget offspring; let us have many sons—may they (sons) be of good old age. 3.
 
-** संप्रियौ रोचिष्णू सुमनश्यमानौ पश्येम शरदः शतं जीवेम शरदः शत_(^(![](../books_images/U-IMG-1734440768ज1.jpg)))शृणुयाम शरदः शतम्॥४॥—संस्कारदीपके**
+** संप्रियौ रोचिष्णू सुमनश्यमानौ पश्येम शरदः शतं जीवेम शरदः शत_(^(<MISSING_FIG href="../books_images/U-IMG-1734440768ज1.jpg"/>))शृणुयाम शरदः शतम्॥४॥—संस्कारदीपके**
 
  May we (two) loving each other, bright and cheerful, see together hundred autumns, live hundred autumns, hear hundreda utumns. **—Samskára Dípaka.**
 
@@ -3436,7 +3436,7 @@ ON KARMA YOGA.**
 
 **Gità III. 20**
 
-![](../books_images/U-IMG-1735579686Screenshot2024-08-23183012.png)
+<MISSING_FIG href="../books_images/U-IMG-1735579686Screenshot2024-08-23183012.png"/>
 
  (1) Yoga-Sutras define Kriyà-Yoga thus:
 
@@ -3550,7 +3550,7 @@ ON JNÁNA YOGA**
 
  Know that, by prostrating thyself, by questions and by service; the wise, those who have realized the
 
-![](../books_images/U-IMG-1735739169Screenshot2024-08-23183012.png)
+<MISSING_FIG href="../books_images/U-IMG-1735739169Screenshot2024-08-23183012.png"/>
 
 ** \***योगोऽत्र कर्मयोगः। सुचिरेण कालेन यथावत् विहितानुष्ठानात् संसिद्धः विशुद्धान्तःकरणः सन् विषयेभ्योनिर्विद्य भगवद्भजनतत्परः आत्मनि स्वयमेवोत्पद्यमानं ज्ञानं लभते इत्यर्थः। —**वासुदेवरसानन्दे।**
 
@@ -3638,7 +3638,7 @@ ON BHAKTI YOGA.**
 
  Whatever thou doest, whatever thon eatest, whatever thou offerest in sacrifice, whatever thou
 
-![](../books_images/U-IMG-1735739908Screenshot2024-08-23183012.png)
+<MISSING_FIG href="../books_images/U-IMG-1735739908Screenshot2024-08-23183012.png"/>
 
  *N. B.*— Bhakti leads finally to Jnána and thereby one gets **मोक्ष-** (Moksha) liberation— see Gita XI, 54 and XVIII, 55 quoted below.
 
@@ -3727,7 +3727,7 @@ compassionate towards all, who is free from the feelings of me and mine, even mi
 
  He who is the same to friend and foe, also in
 
-![](../books_images/U-IMG-1735748449Screenshot2024-08-23183012.png)
+<MISSING_FIG href="../books_images/U-IMG-1735748449Screenshot2024-08-23183012.png"/>
 
  (1) Compare these verses on Bhakta's characteristics with those given in the Gità II-54-58 and XIV 21-26 as the characteristics of a sthitaprajna **(स्थितप्रज्ञ)** and gunātīta **(गुणातीत)** respectively.
 
@@ -3773,8 +3773,6 @@ NINE FORMS OF BHAKTI.**
 [^4]: "This is interpreted as referring to Bhakti Yoga."
 
  Of sciences the highest, of mysteries the deepest; of purifiers the supereme is this; realizable by direct perception endowed with merit, very easy to practise[^4]and of an imperishable nature. **Gita IX.2**
-
-[^4]: "This is interpreted as referring to Bhakti Yoga."
 
 **भक्त्या मामभिजानाति यावान् यश्चास्मि तत्वतः।  
 ततो मां तत्वतो ज्ञात्वा विशते तदनन्तरम्॥गीता १८-५५॥**
@@ -4077,13 +4075,13 @@ in glory in the mid-air, may you Gods accept this sacrifice. **Rig Veda I. 139-1
 
  Then Vidagdha son of Şakala asked Yájnavalkya: O Yájnavalkya! how many gods are there? He declared, by the following Nivid, that they were as many as were mentioned in the Vaişvadeva hymn i.e. three, three hundred. threeand three thousand. 'Yes' he (Vidagdha) said—Yájnavalkya! How many gods are there Thirty three. 'Yes' he said–How many gods are there Yájnavalkya? ‘Six’—'Yes' he said ‘How many gods are there Yájnavalkya.' 'Three'. 'Yes' he said 'How many gods are there Yájnavalkya?" 'Two'—'Yes' he said 'How many gods are there' Yájnavalkya? 'One and a half'—‘Yes' he said O Yájnavalkya! How many gods are there. 'One'—'Yes' he said—Which are those three and three hundred and three and three thousand?' Brihadáranyaka III. 9. 1-9
 
- **स होवाच महिमान एवैषामेते त्रयस्त्रिँशत्त्वेव देवा इति कतमेते त्रयस्त्रि ^(_(![](../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png)))शदित्यष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रि ^(_(![](../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png)))शदिन्द्रश्चैव प्रजापतिश्चत्रयस्त्रि^(_(![](../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png)))शा इति॥२॥**
+ **स होवाच महिमान एवैषामेते त्रयस्त्रिँशत्त्वेव देवा इति कतमेते त्रयस्त्रि ^(_(<MISSING_FIG href="../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png"/>))शदित्यष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रि ^(_(<MISSING_FIG href="../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png"/>))शदिन्द्रश्चैव प्रजापतिश्चत्रयस्त्रि^(_(<MISSING_FIG href="../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png"/>))शा इति॥२॥**
 
  2. He ( Yájnavalkya) said—These are their mighty powers. The gods are only thirty three. Which are those thirty three? The eight Vasus, eleven Rudras, twelve Ádityas. They are thirty one, Indra and Prajápati make up thirty three.
 
 ** कतमे वसव इत्यग्निश्च पृथिवी च वायुश्चान्तरिक्षञ्चादित्यश्च**
 
-**द्यौश्च चन्द्रमाश्च नक्षत्राणि चैते वसव एतेषु हीदं वसु सर्व _(![](../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png)) हितमिति तस्माद्वसव इति॥३॥ **
+**द्यौश्च चन्द्रमाश्च नक्षत्राणि चैते वसव एतेषु हीदं वसु सर्व _(<MISSING_FIG href="../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png"/>) हितमिति तस्माद्वसव इति॥३॥ **
 
  3. Which are the Vasus? Agni (fire),Prthivi’ (the Earth), Váyu (wind), Antariksha, (mid-region), Āditya (the sun), Dyaus (the sky) Chandramas (the moon), Nakshatras (the stars) ; these are Vasus as all this excellent wealth (or the world) is placed on them. Therefore they are Vasus.
 
@@ -4093,7 +4091,7 @@ in glory in the mid-air, may you Gods accept this sacrifice. **Rig Veda I. 139-1
 
  These ten vital breaths, the Self being the eleventh. When they go out of this mortal body they make the relatives weep. As they cause to weep therefore they are Rudras— (the root *rud* to weep.)
 
-** कतम आदित्या इति द्वादश वै मासाः सम्वत्सरस्यैत आदित्या पते हीद_(![](../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png))सर्वमाददाना यन्ति ते यदिद_(![](../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png))सर्वमाददाना यन्ति तस्मादादित्या इति॥५॥ **
+** कतम आदित्या इति द्वादश वै मासाः सम्वत्सरस्यैत आदित्या पते हीद_(<MISSING_FIG href="../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png"/>)सर्वमाददाना यन्ति ते यदिद_(<MISSING_FIG href="../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png"/>)सर्वमाददाना यन्ति तस्मादादित्या इति॥५॥ **
 
  5. Which are the Ādityas?
 
@@ -4105,7 +4103,7 @@ in glory in the mid-air, may you Gods accept this sacrifice. **Rig Veda I. 139-1
 
  The thunderer is verily Indra—The Yajna (sacrifice) is Prajápati. Which is the thunderer?—The thunderbolt. Which is sacrifice? The sacrificial animals.
 
-**कतमे षडित्यग्निश्च पृथिवीच वायुश्चान्तरिक्षञ्चादित्यश्च द्यौश्चेति षडेते हीदं_(![](../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png))सर्व _(![](../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png))षडिति॥७॥ **
+**कतमे षडित्यग्निश्च पृथिवीच वायुश्चान्तरिक्षञ्चादित्यश्च द्यौश्चेति षडेते हीदं_(<MISSING_FIG href="../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png"/>)सर्व _(<MISSING_FIG href="../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png"/>)षडिति॥७॥ **
 
  7. Which are the six Gods?
 
@@ -4115,7 +4113,7 @@ in glory in the mid-air, may you Gods accept this sacrifice. **Rig Veda I. 139-1
 
  8. Which are those three Gods? They verily are the three worlds, for in them are all the Gods. Which are those two Gods? Food and vital breath. Which is the one and a half god? He who purifies (i. e. the wind)
 
-** तदाहुर्यदयमेक इवैव पवतेऽथ कथमध्यर्द्ध इति यदस्मिन्निद_(![](../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png))सर्वमध्यार्ध्नोत्तेनाध्यर्द्ध इति कतम एको देव इति प्राण इति सब्रह्म त्यदित्याचक्षते॥९॥ **
+** तदाहुर्यदयमेक इवैव पवतेऽथ कथमध्यर्द्ध इति यदस्मिन्निद_(<MISSING_FIG href="../books_images/U-IMG-1734795309Screenshot2024-12-21210448.png"/>)सर्वमध्यार्ध्नोत्तेनाध्यर्द्ध इति कतम एको देव इति प्राण इति सब्रह्म त्यदित्याचक्षते॥९॥ **
 
  9. Then they say—Since he who purifies is like one alone. How then is he one and a half? Because in him all this (whole world) did grow and increase therefore he is one and a half—(root *radha*–to grow). Which is the one god? Vital breath. He is that Brahman. So they say.
 
@@ -4487,7 +4485,7 @@ Lord but Krishna is the Supreme Lord Himself-These (Avatáras) give peace and ha
 
 these with Purusha make up the twenty five categories of the Sánkhya philosophy.**Sánkhya Sútra I. 61.**
 
-![](../books_images/U-IMG-1735836730Screenshot2025-01-02222146.png)
+<MISSING_FIG href="../books_images/U-IMG-1735836730Screenshot2025-01-02222146.png"/>
 
 **प्रकृतेः पर्यायाः प्रधानं, ब्रह्म, अव्यक्तं, बहुधानकं, माया च। गौडपादभाष्ये**
 

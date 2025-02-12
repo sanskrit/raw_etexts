@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg3OTI1NDM3MzE
 
 **चतुर्थपुस्तकम्**
 
-![](../books_images/U-IMG-17332286351444.PNG)
+<MISSING_FIG href="../books_images/U-IMG-17332286351444.PNG"/>
 
 सदृशं त्रिषु लिङ्गेषु सर्वासु च विभक्तिषु।  
 वचनेषु च सर्वेषु यन्नव्येति तदव्ययम्॥१॥
@@ -1376,4 +1376,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg3OTI1NDM3MzE
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \]
-

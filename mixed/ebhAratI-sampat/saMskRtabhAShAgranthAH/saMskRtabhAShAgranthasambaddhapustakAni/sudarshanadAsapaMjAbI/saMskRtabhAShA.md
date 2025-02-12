@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY2NjIyNDg1MzU
 
 **संस्कृतभाषा**
 
-**![](../books_images/U-IMG-1734351475-+--123.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734351475-+--123.png"/>**
 
  ननु सर्वेषामेव देशानां प्राचीनभाषा निश्चितास्ति यथा–तुर्कदेशस्य तुर्की, फारसदेशस्य फारसी, अर्वदेशस्य अरवी, इङ्गलैंडदेशस्य अंग्रेजी, इत्यादि।
 

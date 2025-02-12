@@ -101,7 +101,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 काव्यसंग्रहः।
 
-**![](../books_images/U-IMG-1728523864काव्यसंग्रह_1-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728523864काव्यसंग्रह_1-removebg-preview.png"/>**
 
 पश्चरत्नम्।
 
@@ -1046,7 +1046,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 शृङ्गाररसाष्टकम्।
 
-![](../books_images/U-IMG-172890633444.png)
+<MISSING_FIG href="../books_images/U-IMG-172890633444.png"/>
 
 अविदितसुखदुःखं निर्गुणं वस्तु किञ्चित्  
 जड़मतिरिह कश्चित् मोक्ष इत्याचचक्षे।  
@@ -1563,7 +1563,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 धर्म्मविवेकः।
 
-![](../books_images/U-IMG-1729225326Screenshot2024-10-18095034.png)
+<MISSING_FIG href="../books_images/U-IMG-1729225326Screenshot2024-10-18095034.png"/>
 
 ————
 
@@ -1654,7 +1654,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 वेदसारशिवस्तवः।
 
-![](../books_images/U-IMG-1729217649Screenshot2024-10-18074227.png)
+<MISSING_FIG href="../books_images/U-IMG-1729217649Screenshot2024-10-18074227.png"/>
 
 पशूनां पतिं पापनाशं परेशं  
 गजेन्द्रस्य कृत्तिंवसानं वरेण्यम्।  
@@ -3814,7 +3814,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 **हंसदूतः।**  
 
-**![](../books_images/U-IMG-1728702356Screenshot(110).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728702356Screenshot(110"/>.png)**
 
 **दुकूलं विम्राणे दलितहरितालद्युतिहरं  
 जवापुष्पश्रेणीरुचिरुचिरपादाम्बुजतलः।  
@@ -5536,7 +5536,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 **चौरपञ्चाशिका।**
 
-**![](../books_images/U-IMG-1729345196Screenshot2024-10-19190820.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729345196Screenshot2024-10-19190820.png"/>**
 
 **अद्यापि तां कनकचम्पकदामगौरीं  
 फुल्लारविन्दवदनां तनुलोमराजीम्।  
@@ -6307,7 +6307,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 **शृङ्गारशतकम्।**
 
-**![](../books_images/U-IMG-1729448054161001-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729448054161001-removebg-preview.png"/>**
 
 शम्भुस्वयन्भुहरयो हरिणेक्षणानां  
 येनाक्रियन्त सततं गृहकर्म्मदासाः।  
@@ -6782,7 +6782,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 **दृष्टान्तशतकम्।**
 
-![](../books_images/U-IMG-1729420160201001-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1729420160201001-removebg-preview.png"/>
 
 शिवस्मरणमेवैकं संसारान्तकनाशनम्।  
 घनौघो घोरदावाग्नि-निर्वापणपटुर्भवेत्॥१॥
@@ -7599,6 +7599,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 **\_\_\_\_\_\_**
 
+         
+
 **चूड़ोत्तंसितचारुचन्द्रकलिकाचञ्चच्छिखाभासुरो  
 लीलादग्धविलोलकामशलभः श्रेयोदशाग्रेस्फुरन्।  
 अन्तस्फूर्जदपारमोहतिमिरप्राग्भारमुच्चाटयन्  
@@ -7974,6 +7976,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 किं वा प्राणसमासमागमसुखं नैवाधिकं प्रीतये।  
 किन्तु भ्रान्तपतङ्गपक्षपवनव्यालोलदीपाङ्कुर  
 छायाचञ्चलमाकलय्य सकलं सन्तो वनान्तङ्गताः॥७५॥
+
+       
 
 शिवार्चनपद्धति।
 
@@ -11223,7 +11227,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 आर्य्याप्रासप्तशती।
 
-![](../books_images/U-IMG-1729069088161001-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1729069088161001-removebg-preview.png"/>
 
 **पाणिग्रहे पुलकितं वपुरैशं भूतिभूषितं जयति।  
   अङ्कुरितइव मनोभूर्यस्मिन् भस्मावशेषोऽपि॥१**
@@ -13686,11 +13690,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 श्रीगोवर्द्धनाचार्य्य-विरचिता आर्य्या-सप्तशती  
 समाप्ता ।
 
-![](../books_images/U-IMG-1729152099Screenshot2024-10-17133010.png)
+<MISSING_FIG href="../books_images/U-IMG-1729152099Screenshot2024-10-17133010.png"/>
 
 **विदग्धमुखमण्डनम।**
 
-**![](../books_images/U-IMG-1729153175Screenshot2024-10-17134804.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729153175Screenshot2024-10-17134804.png"/>**
 
 सिङ्घौषधानि भवदुःखमहागदानां  
 
@@ -14645,7 +14649,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 काव्यसंग्रहः
 
-![](../books_images/U-IMG-1729140133Screenshot2024-10-17101042.png)
+<MISSING_FIG href="../books_images/U-IMG-1729140133Screenshot2024-10-17101042.png"/>
 
 वर्णद्वयद्वयैकैकदलभूतदलाष्टकम्।  
 
@@ -14673,7 +14677,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 काव्यसंग्रहः।
 
-![](../books_images/U-IMG-1729140664Screenshot2024-10-17101936.png)
+<MISSING_FIG href="../books_images/U-IMG-1729140664Screenshot2024-10-17101936.png"/>
 
 काकस्येव पदं त्र्यस्रंयत्तक्ताकपदं मतम्।  
 
@@ -14689,7 +14693,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
  नागदरतः। नागतनयः। नागरमणी। इति काकपदजातिः।
 
-![](../books_images/U-IMG-1729140834Screenshot2024-10-17102225.png)
+<MISSING_FIG href="../books_images/U-IMG-1729140834Screenshot2024-10-17102225.png"/>
 
 कामाहु र्युवतीममङ्गलवतीकीदृग्ग्रहाणां गतिः  
 
@@ -14741,7 +14745,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 हारावी। इति सर्वतोभद्रजातिः।
 
-![](../books_images/U-IMG-1729141856Screenshot2024-10-17103927.png)
+<MISSING_FIG href="../books_images/U-IMG-1729141856Screenshot2024-10-17103927.png"/>
 
 प्रतिलोमानुलोमाभ्यामुत्तरेण गतागतम्।  
 
@@ -14763,7 +14767,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 मधुरमसृणमृद्वीका भवेदुत्पलस्य॥३०॥
 
-![](../books_images/U-IMG-1729141950Screenshot2024-10-17104059.png)
+<MISSING_FIG href="../books_images/U-IMG-1729141950Screenshot2024-10-17104059.png"/>
 
 हिमांशुखण्डं कुटिलोज्ज्वलप्रभं  
 
@@ -14911,7 +14915,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 तारकविरहिता।
 
-![](../books_images/U-IMG-1729084126Screenshot2024-10-16183713.png)
+<MISSING_FIG href="../books_images/U-IMG-1729084126Screenshot2024-10-16183713.png"/>
 
 कौदृक् परैरुपहतो भवति क्षितीशः  
 
@@ -15693,7 +15697,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 **नलोदयः।**
 
-**![](../books_images/U-IMG-1729586977Screenshot2024-10-22141805.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729586977Screenshot2024-10-22141805.png"/>**
 
 **प्रथमोच्छासः।**
 
@@ -16395,7 +16399,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 जगन्नाथाष्टकम्।
 
-![](../books_images/U-IMG-1729604927Screenshot2024-10-22191716.png)
+<MISSING_FIG href="../books_images/U-IMG-1729604927Screenshot2024-10-22191716.png"/>
 
 कदाचित्कालिन्दीतटविपिनसङ्गीतकबरो  
 मुदाभिरीनारीवदनकमलास्वादमधुप।  
@@ -17569,7 +17573,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 **आत्मबोधः !**
 
-**![](../books_images/U-IMG-1729351865Screenshot(99).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729351865Screenshot(99"/>.png)**
 
 **तपोभिः क्षोणपापानां शान्तानां वीतरागिणान्।  
 मुमुक्षुणामपेक्षोऽयमात्मबोधों विधीयते॥१॥**  
@@ -18029,7 +18033,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 **रावणकृतशिवताण्डवः।**
 
-**![](../books_images/U-IMG-1729406091Screenshot(101).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729406091Screenshot(101"/>.png)**
 
 **जटाकटाहसंभ्रमभ्रमन्निलिम्पनिर्झरी  
 विलोलवीचिवल्लरीविराजमानमूर्द्धनि।  
@@ -18114,7 +18118,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 **  कृष्णताण्डवस्त्रोत्रम्।**
 
-**![](../books_images/U-IMG-1729355046Screenshot(64).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729355046Screenshot(64"/>.png)**
 
 **भजेव्रजैकमण्डनं समस्तपापखण्डनं  
 स्वभक्तचित्तरञ्जनं सदैव नन्दनन्दनम्।  
@@ -18269,7 +18273,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 **इति राक्षसकायंसम्पूर्णम्।**
 
-**![](../books_images/U-IMG-1729399382Screenshot(102).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1729399382Screenshot(102"/>.png)**
 
 **सप्तश्लोको भागवतम्।**
 
@@ -19426,7 +19430,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 
 रसमञ्जरी ममाप्ता॥
 
-![](../books_images/U-IMG-1729334499DASA.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1729334499DASA.PNG"/>
 
 **राजप्रशस्तिः।**
 
@@ -19763,7 +19767,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 इति श्रीतारानाथतर्कवाचस्पत्तिभट्टाचार्य्यविरचित  
 राजप्रशस्तिः समाप्ता
 
-![](../books_images/U-IMG-1729350615GHB.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1729350615GHB.PNG"/>
 
 **हृन्दावनयमकं।**
 
@@ -20309,6 +20313,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 व्यक्तानुरागमिव खेलदनङ्गखेद-  
 स्वेदाम्बुपूरमनुपूरयतु प्रियं वः॥१०॥
 
+                                
 **वसन्तरागयतितालाभ्यां गीयते।**
 
 वसन्ते वासन्तीकुसुमसुकुमारैरवयवै-  
@@ -20413,6 +20418,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
                                    
  अक्लेशकेशवः।
 
+                               
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 विहरति वने राधा साधारणप्रणये हरौ  
@@ -20513,6 +20519,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 **इतस्ततस्तामनुसृत्य राधिकामनङ्गवाणव्रणखिन्नमानसः।  
 कृतानुतापः स कलिन्दनन्दिनीतटान्तकुञ्जेनिषसाद माधवः॥२॥**
 
+                             
 गुज्जरीरागयतितालाभ्यां गीयते।
 
 मामियं चलिता विलोक्य वृतं बधूनिचयेन  
@@ -21172,6 +21179,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDEyMjcwMzc2MDI
 रचितरुचिरभूषां दृष्टिमोष प्रदोषे  
 स्फुरति निरवसादां कापि राधां जगाद॥१॥
 
+                             
 वसन्तरागयतितालाभ्यां गीयते।
 
 विरचितचाटुवचनरचनं चरणे रचितप्रणिपातम्।  

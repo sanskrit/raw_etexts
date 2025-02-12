@@ -440,7 +440,7 @@ Ku. VII. 11.
 |       Kshemadhanvan       |      Kshemadhanvan       |
 |          Ahinagu          |         Ahinagu          |
 
-![](../books_images/U-IMG-1734511990A1.png)
+<MISSING_FIG href="../books_images/U-IMG-1734511990A1.png"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -503,7 +503,7 @@ not **पीडित**. The poet had already said “**गवि तस्थ�
 
 the full force of such derivatives.In R. XI. 32[^2]., he explains ‘**मैथिलः**’ ‘**मिथिलायां भवः**.’ This is following Dikshita, but not in strict accordance with Pánini or truth. In such cases, the affix expresses “*king, ruler, prince*.” **मैथिलः**means ‘*king of Mithila*.’So in R. V. 62. **वैदर्भः**means ‘*king of Vidarbha’.*So in VI. II. 8. “**वैदेहः”**means ‘*king of Videha*.’
 
-[^2]: "Under R. I. 57., he does say मागधी मगधराजपुत्री राज्ञी सुदक्षिणा. But thereमागधी simply means ‘of Magadha.’I suppose Mallinátha uses मगधराजपुत्रीmore as what it conveys than what it means."
+[^2]: # "Under R. I. 57., he does say मागधी मगधराजपुत्री राज्ञी सुदक्षिणा. But thereमागधी simply means ‘of Magadha.’I suppose Mallinátha uses मगधराजपुत्रीmore as what it conveys than what it means."
 
  61. This is not far from the English idiom which makes Wellington =Duke of Wellington, Salisbury =Marquis of Salisbury, Páttiálá=Raja of Páttiála. We have, however, in Sanskrit some exact instances of this very idiom and one or two even in Raghuvansa. But as the point is involved in some obscurity, I need not discuss it here.
 
@@ -1354,9 +1354,13 @@ Sa. IV. 16.
 
 Sa. v. 30.
 
+ 
+
 शार्ङ्ग।
 
 अथ पूर्ववृत्तं व्यासङ्गाद्विस्मृतं भवेत् तदा कथमधर्मभीरोर्दारपरित्यागः?
+
+ 
 
 राजा।
 
@@ -1373,6 +1377,8 @@ Sa. v.
  150. **गुरुलाघवं**“*gravity or levity*”i. e. “*propriety or impropriety*.” The compound should be specially noted.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ 
 
 श्यालः
 
@@ -1403,6 +1409,8 @@ Sa. VI. 16.
  154. **स्निग्धं** in the second sloka, in my opinion, is =**स्नेहः**=**रङ्गः** =*dye*. I have already observed about these participial substantives. In English, participles ending in *ing* are used as substantives.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ 
 
 राजा
 

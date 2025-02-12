@@ -3697,7 +3697,7 @@ SRIRANGAM.                         ** *T. K. Balasubrahmanyam.***
 गुणिनामपि निजरूपप्रतिपत्तिः परत एव संभवति।  
 स्वमहिमदर्शनमक्ष्णोर्मुकुरतले जायते यस्मात्॥७॥
 
-![](../books_images/U-IMG-1728992173Untitled.png2.png)
+<MISSING_FIG href="../books_images/U-IMG-1728992173Untitled.png2.png"/>
 
 [TABLE]
 
@@ -5103,6 +5103,6 @@ SRIRANGAM.                         ** *T. K. Balasubrahmanyam.***
 
 केषां न स्यादभिमतफला प्रार्थनाभ्युन्नतेषु॥२.५४॥
 
-![](../books_images/U-IMG-1728904472Untitled.png1.png)
+<MISSING_FIG href="../books_images/U-IMG-1728904472Untitled.png1.png"/>
 
 \]

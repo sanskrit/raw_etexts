@@ -31,7 +31,7 @@ by S. N. Joshi.
 
 **PREFACE TO THE FIRST EDITION.**
 
-![](../books_images/U-IMG-1735393112Screenshot2024-12-28190749.png)
+<MISSING_FIG href="../books_images/U-IMG-1735393112Screenshot2024-12-28190749.png"/>
 
  The following pages have been intended to serve as a reading book for Sanskrit students preparing for the Mrtriculation Examination. They contain about 20 extracts taken from the well-known works of most of the renowned standard Sanskrit writers, beginning with Vâlmîki and ending with Jagannâtha Pandit. The extracts are intended to give the student specimens of different styles and modes of thought, and will be found to display a variety of forms descriptive, moral, didactic, narrative, argumentative, epic, dramatic, lyric &c. Each extract has an intelligible beginning and an end, the subject treated therein being given in English at the commencement, and its source at the end. In selecting passages from different works I have had to abridge or condence them in several gases by leaving out single words or long compounds, or even several sentences or verses, where the omission could be made without impairing the beauty of the original or affecting the context or train of reasoning. It was found necessary to do so to prevent the extracts from being needlessly long, but in some cases even the passages so condensed became rather lengthy, and have, therefore, been divided into Parts,
 
@@ -59,6 +59,7 @@ Dhulia.
 3rd December, 1892.
 
 }                                   
+  
 
 M. S. APTF.
 
@@ -85,8 +86,11 @@ Dhulia.
 25th July, 1901.
 
 }                                   
+            
 
 M. S. APTE.
+
+  
 
 PREFACE TO THE NINETEENTH EDITION.
 
@@ -101,7 +105,7 @@ M. S. Apte.
 
 **CONTENTS.**
 
-![](../books_images/U-IMG-1736146683Untitled.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1736146683Untitled.jpg"/>  
 FIRST SERIES.
 
 |          |                                                           |
@@ -143,7 +147,7 @@ FIRST SERIES.
 
 **कुसुममाला.**
 
-![](../books_images/U-IMG-1735394072Screenshot2024-12-28192337.png)
+<MISSING_FIG href="../books_images/U-IMG-1735394072Screenshot2024-12-28192337.png"/>
 
 **प्रथमावलिः**
 
@@ -1580,6 +1584,8 @@ The tale of Pururavas and Urvasi.
 
 Part II.  
 
+ 
+
  अथ समतिक्रांतेषु केषुचिद्दिवसेषु उर्वशी तं राजर्षिममात्यनिवेशीतुराज्यधुरं गृहीत्वा गंधमादनवनं विहर्तुं गता। तत्र खलु मंदाकिन्याः पुलिनेषु स्थिता सिकतापर्वतकेलीभिः क्रीडंती विद्याधरदारिका उदयवती नाम तेन राजर्षिणा निध्यातेति कुपितोर्वशी यतो दूरारूढः प्रणयोऽसहनः। ततो भर्तुरनुनयमप्रतिपद्यमाना गुरुशापसंमूढहृदया स्त्रीजनपरिहरणीयं कुमारवनं प्रविष्टा प्रवेशानंतरमेव च काननोपांलव-
 
 र्तिलताभावेन परिणतमस्या रूपम्। अथ स राजर्षिस्तस्मिन्नेव कानने प्रियतमां विचिन्वन्नहोरात्रमतिवाहयामास। प्रथमं तावत्तस्य प्रियया वियोग एकपद उपनतः। अपरं च निर्वृतानामप्युत्कंठाकारी जलदसमयः संप्राप्तः। तेन तस्य दुःखं दुःखानुबंधीव संजातम्। तथा चोन्मत्त इव तस्मिन्वने यत्किंचित्तस्य दृष्टिपथमाययौ तत्प्रियाप्रवृत्तिं सोत्सुकं पप्रच्छ। एवं तेन मयूरः परभृता राजहंसश्चक्रवाको मधुकरो नागराजः शिलोच्चयः सरित्कृष्णसारश्च क्रमेणाभ्यर्थिताः। किं तु स सर्वत्र भग्नाशो बभूव। एवं प्रियान्वेषणार्थं परिभ्रमन्नेकदा रक्ताशोकस्तबकसमरागं कमपि शिलाभेदांतरगतं मणिं ददर्श। स च संगमनीयो नाम मणिः शैलसुताचरणरागसमुद्भवो धार्यमाणश्चाचिरात्प्रियजनेन संगममावहतीति केनापि मुनिनानुशिष्टस्तं गृहीत्वा पुनः परिचक्राम। अंते स एकां कुसुमरहितां लतां दृष्ट्वा तां स्वप्रियानुकारिणीं च मत्वा आलिंगितुं प्रवृत्तः। स्पृष्टमात्रायां लतायां तत्स्थान एवोर्वशी प्रादुर्भूता। राजा तां विलोक्य दिष्ट्या गतासुना चेतनेव त्वं मया प्रत्युपलब्धासि त्वद्दर्शनादेव प्रसन्नबाह्यांतःकरणो ममांतरात्मा तत्कथय कथमियतं कालमवस्थिता मया विना भत्रतीति तामुवाच। उर्वशी प्रत्युवाच। शृणोतु महाराजः। भगवता कुमारेण शाश्वतं कुमारव्रतं गृहीत्वाऽकलुषो नाम गंधमादनकच्छोऽध्यासितः कृतश्चैव विधिः। यैतं प्रदेशं स्त्री प्रवेक्ष्यति सा लताभावेन परिणंस्यति गौरीचरणसंभवं मणिं विना ततो न मोक्ष्यत इति। साहं गुरुशापसंमूढहृदया देवतासमयं विस्मृत्य कुमारवनं प्रविष्टा प्रवेशानंतरमेव वासंतीलता संवृत्तेति। तन्निशम्य राजा प्राह सर्वमुपपन्नामधुना। शयने सुप्तमपि मां या प्रवासगतं मन्यसे सा त्वं मदीयं चिरवियोगं कथं सहेथाः। इदं तद्यथाकथितं त्वत्संगमनिमित्तं मुनेरुपलभ्य मणिप्रभावात्त्वमासादिताऽस्माभिरिति वदन्माणिं तामृदर्शयत्। सा तं गृहीत्वा मूर्ध्न्यवहद्राजानं चोवाच। महान्खलु का-
@@ -2270,7 +2276,7 @@ Bhaminivilasa I.
 
 SECOND SERIES
 
-![](../books_images/U-IMG-1736270798Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1736270798Untitled.jpg"/>
 
 I.
 
@@ -4303,13 +4309,13 @@ Miscellaneous verses.
 इति प्रायो भावाः स्फुरदवधिमुद्रामुकुलिताः  
  सतां प्रज्ञोन्मेषः पुनरयमसीमा विजयते॥६६॥
 
-![](../books_images/U-IMG-1735312580Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1735312580Untitled.jpg"/>
 
 **तृतीयावलिः।**
 
 THIRD SERIES.
 
-![](../books_images/U-IMG-1735368538Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1735368538Untitled.jpg"/>
 
 I.
 
@@ -4885,6 +4891,7 @@ Part I.
 
 तां सत्यनामां दृढतोरणार्गलां गृहैर्विचित्रैरुपशोभितां शिवाम्।  
 पुरीमयोध्यां नृसहस्रसंकुलां शशास वै शक्रसमो महीपतिः॥३०॥        
+                              
 
 Ramayana.
 
@@ -6380,7 +6387,7 @@ Miscellaneous verses.
 
 NOTES
 
-![](../books_images/U-IMG-1735736000Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1735736000Untitled.jpg"/>
 
 I.
 

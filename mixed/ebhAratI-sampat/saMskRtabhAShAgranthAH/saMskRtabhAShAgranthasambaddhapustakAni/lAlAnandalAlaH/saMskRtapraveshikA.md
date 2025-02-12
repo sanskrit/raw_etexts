@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **द्वित्राः शब्दाः।**
 
-![](../books_images/U-IMG-1735306742Screenshot2024-08-12181219.png)
+<MISSING_FIG href="../books_images/U-IMG-1735306742Screenshot2024-08-12181219.png"/>
 
  या संस्कृतभाषा कस्मिंश्चित् समये भारततनयानां मातृभाषाऽऽसीत्, यस्या भाषाया मधुरध्वनिः कस्मिंश्चित् काले महतो विक्रमादित्यस्य विद्वन्मण्डितायां परिषद्यश्रूयत, या ह्राससीम्नि वर्तमानापि नैसर्गिकेण माधुर्य्येण, अक्षय्येण शब्दनिधानेन, कलावशेषेणैव साहित्येन च सारग्राहिणां पाश्चात्यविदुषां हृदयान्याकर्षति, या च पक्षपातान्धानामपि लेखनीं कानिचित्स्तुतिवाक्यानि लेखितुं बलात् प्रवर्तयति, तस्या दुर्दशाऽद्य भारते लक्ष्यते तामवलोक्य सचेतसां प्राचीनसेविनां च हृदयानि विदीर्णानि जायन्ते। यद्यप्यस्यामल्पाक्षरभूमिकायां संस्कृतभाषाया दुःस्थितेः कारणकलापस्यालोचनं नोचितं वर्तते तथाप्येतावन्निर्भीकमुपन्यस्तुशक्यते, यत्संस्कृतविद्वांस एवात्रोपालम्भमर्हन्ति। नाहं न जाने, यद् भारतवासिनां विशेषत श्शिक्षितानां संस्कृतविषयमनौत्सुक्यं, तद्विषयको भक्त्यभावोऽप्यत्र कारणमस्ति परन्तु मन्ये तत्रापि संस्कृतविद्वांस एवापराव्यन्ति।
 
@@ -51,9 +51,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **मुख्याधिष्ठाता**
 
-**![](../books_images/U-IMG-1735309306Screenshot2024-10-19204131.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735309306Screenshot2024-10-19204131.png"/>**
 
-![](../books_images/U-IMG-1735309376Screenshot2024-12-27195226.png)
+<MISSING_FIG href="../books_images/U-IMG-1735309376Screenshot2024-12-27195226.png"/>
 
 **॥औ३म्॥**
 
@@ -61,11 +61,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **प्रथमोऽध्यायः।**
 
-**![](../books_images/U-IMG-1735309556Screenshot2024-02-01084920.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735309556Screenshot2024-02-01084920.png"/>**
 
 **पाठ १**
 
-![](../books_images/U-IMG-1735309592Screenshot2024-12-27195539.png)
+<MISSING_FIG href="../books_images/U-IMG-1735309592Screenshot2024-12-27195539.png"/>
 
 **पुरुषः, कुक्कुरः, पिब**
 
@@ -102,7 +102,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **———♦♦———**
 
-![](../books_images/U-IMG-1735308207Screenshot2024-12-27193200.png)
+<MISSING_FIG href="../books_images/U-IMG-1735308207Screenshot2024-12-27193200.png"/>
 
 **सः, गच्छामि, कूर्दते, मेषः, पिवतिः। **
 
@@ -178,7 +178,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः ७**
 
-![](../books_images/U-IMG-1735312642Screenshot2024-12-27204600.png)
+<MISSING_FIG href="../books_images/U-IMG-1735312642Screenshot2024-12-27204600.png"/>
 
 **पादुके,धूम्रयानम, अद्य,  
 तिष्ठ, शृणोति, किमर्थम्**
@@ -200,7 +200,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः ८**
 
-![](../books_images/U-IMG-1735313149Screenshot2024-12-27205506.png)
+<MISSING_FIG href="../books_images/U-IMG-1735313149Screenshot2024-12-27205506.png"/>
 
 **वृथा,घटिका,गच्छतः  
 बालकौ, गर्जति,धावति**
@@ -326,7 +326,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः १२**
 
-**![](../books_images/U-IMG-1735316188Screenshot2024-12-27214605.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735316188Screenshot2024-12-27214605.png"/>**
 
 **कः, कीदृशम्, अयम्, सिंहः, त्वाम्, स्नातुम्,  
 उदेति, अत्र,**
@@ -372,7 +372,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः १३**
 
-![](../books_images/U-IMG-1735314284Screenshot2024-12-27211416.png)
+<MISSING_FIG href="../books_images/U-IMG-1735314284Screenshot2024-12-27211416.png"/>
 
 **समीपम्, उष्ठ्रः,उपरि, अधः,  
 तेषाम्, शृणामि, बाढम् इतस्ततः।**
@@ -414,7 +414,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः १५**
 
-![](../books_images/U-IMG-1735324160Screenshot2024-12-27235901.png)
+<MISSING_FIG href="../books_images/U-IMG-1735324160Screenshot2024-12-27235901.png"/>
 
 **पीत्वा, महिषः तूष्णीम,  
 मया, इदम्, कृतम्,**
@@ -432,7 +432,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः १६**
 
-![](../books_images/U-IMG-1735355947Screenshot2024-12-28000727.png)
+<MISSING_FIG href="../books_images/U-IMG-1735355947Screenshot2024-12-28000727.png"/>
 
 **कर्त्तव्यम्, श्वः सर्पः, गन्तास्मि,तु,  
 केन, गृहीतम्, सह,**
@@ -464,7 +464,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठ १७**
 
-![](../books_images/U-IMG-1735356473Screenshot2024-12-28085732.png)
+<MISSING_FIG href="../books_images/U-IMG-1735356473Screenshot2024-12-28085732.png"/>
 
 **यदा, तदा, दास्यामि, हरिणः, कर्त्तुम्,  
 अस्माकम कदा, युष्माकम्,**
@@ -518,7 +518,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठ १६ **
 
-![](../books_images/U-IMG-1735357603Screenshot2024-12-28091624.png)
+<MISSING_FIG href="../books_images/U-IMG-1735357603Screenshot2024-12-28091624.png"/>
 
 **अतः पितुः, हस्तिनाम्, अधिष्ठातुः,  
 ह्यः, यत्, तत्, **
@@ -581,7 +581,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 |  १६   |   १७   |   १८    |     १९      |   २०    |
 | षोडश  | सप्तदश | अष्टादश | एकोनविंशतिः | विंशतिः |
 
-![](../books_images/U-IMG-1735357524Screenshot2024-08-20203458.png)
+<MISSING_FIG href="../books_images/U-IMG-1735357524Screenshot2024-08-20203458.png"/>
 
 इति प्रथमोऽध्यायः
 
@@ -591,7 +591,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **द्वितीयोऽध्यायः।**
 
-![](../books_images/U-IMG-1735357719Screenshot2024-08-20205448.png)
+<MISSING_FIG href="../books_images/U-IMG-1735357719Screenshot2024-08-20205448.png"/>
 
 **पाठः १**
 
@@ -605,7 +605,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः २**
 
-![](../books_images/U-IMG-1735358412Screenshot2024-12-28092951.png)
+<MISSING_FIG href="../books_images/U-IMG-1735358412Screenshot2024-12-28092951.png"/>
 
 **अश्वः**
 
@@ -634,7 +634,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः ४**
 
-![](../books_images/U-IMG-1735359331Screenshot2024-12-28094456.png)
+<MISSING_FIG href="../books_images/U-IMG-1735359331Screenshot2024-12-28094456.png"/>
 
 **वानरः**
 
@@ -661,7 +661,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः ६**
 
-**![](../books_images/U-IMG-1735360016Screenshot2024-12-28095633.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735360016Screenshot2024-12-28095633.png"/>**
 
 **गौः**
 
@@ -694,7 +694,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः ९**
 
-![](../books_images/U-IMG-1735368070Screenshot2024-12-28121051.png)
+<MISSING_FIG href="../books_images/U-IMG-1735368070Screenshot2024-12-28121051.png"/>
 
 **प्रातः कालः**
 
@@ -704,7 +704,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 **पाठः १० **
 
-![](../books_images/U-IMG-1735368656Screenshot2024-12-28121450.png)
+<MISSING_FIG href="../books_images/U-IMG-1735368656Screenshot2024-12-28121450.png"/>
 
 **उद्याने भ्रमणम्।**
 
@@ -807,7 +807,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjAyMjc3MDM3OTA
 
 इति द्वितीयोऽध्यायः।
 
-![](../books_images/U-IMG-1735363897Screenshot2024-08-19124227.png)
+<MISSING_FIG href="../books_images/U-IMG-1735363897Screenshot2024-08-19124227.png"/>
 
 **\* श्रो ३ \***
 

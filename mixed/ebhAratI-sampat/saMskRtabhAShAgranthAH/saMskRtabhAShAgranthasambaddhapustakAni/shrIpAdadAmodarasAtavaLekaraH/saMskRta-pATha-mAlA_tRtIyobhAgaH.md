@@ -35,10 +35,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU3MjM4NjM2OTA
 लेखक  
 **श्रीपाद दामोदर खातवलेकर**  
 
-![](../books_images/U-IMG-17352115551.png)  
+<MISSING_FIG href="../books_images/U-IMG-17352115551.png"/>  
 मुद्रक और प्रकाशक—**श्रीपाद दामोदर सातवलेकर**, स्वाध्याय मंडल,  
 भारतमुद्रणालय, औंध, ( जि. सातारा. )  
-![](../books_images/U-IMG-17352115551.png)
+<MISSING_FIG href="../books_images/U-IMG-17352115551.png"/>
 
 ॐ
 

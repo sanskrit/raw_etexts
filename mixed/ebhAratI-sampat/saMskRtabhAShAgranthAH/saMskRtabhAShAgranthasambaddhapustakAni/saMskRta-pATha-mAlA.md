@@ -20,8 +20,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU
  पाठकोंकाधातुओंके साधपरिचय अच्छी प्रकार हो चुका है, उनके रूप बनानाभी वे अब भली प्रकार जानने लगे हैं। इसलिये अब धातुओंसे शब्दसिद्धि किस रीतिसे होती है इसका विचार इस भागमें संक्षेपसे करना है। यदि इस भागका अभ्यास पाठक अच्छी तरह से करेंगे तो उनको शब्दोंकी उत्पत्ति कैसी हुई है यह समझमेंआयेगा और नामोंके यौगिकअर्थकैसे होते हैं इसका भी पता लगेगा।इसलिये आशा है कि पाठक इस भागका उत्तम अध्ययन करेंगे और उचित लाभ उठावेंगे।
 
 **  स्वाध्याय–मण्डल**                      
+       
 
 लेखक  
+   
 
  ‘आनंदाश्रम’   
 
@@ -29,8 +31,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU
 
 पारडी (जि० सूरत)
 
+    
+
 अध्यक्ष–स्वाध्याय–मंडल
 
+       
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
                मुद्रक और प्रकाशक—व० श्री० सातवलेकर, बी. ए.  
@@ -38,7 +43,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![](../books_images/U-IMG-173004772527.10.2024_21.51.38_REC.png)
+<MISSING_FIG href="../books_images/U-IMG-173004772527.10.2024_21.51.38_REC.png"/>
 
 **संस्कृत—पाठ—माला।**
 
@@ -367,7 +372,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU
 
  पाठक इस प्रकार वाक्य बनावें। धातुसे शब्द बनाना और उनका वाक्यों में उपयोग करना पाठकों को इस प्रकार आसकता है।
 
-![](../books_images/U-IMG-172996281926.10.2024_22.42.29_REC.png)  
+<MISSING_FIG href="../books_images/U-IMG-172996281926.10.2024_22.42.29_REC.png"/>  
 
 **पाठ ४**  
 
@@ -434,7 +439,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU
 १४ अमला = न मलिना।  
 १५ कामपराधीनः = कामेन पराधीनः।
 
-![](../books_images/U-IMG-172996349726.10.2024_22.54.36_REC.png)
+<MISSING_FIG href="../books_images/U-IMG-172996349726.10.2024_22.54.36_REC.png"/>
 
 **पाठ ५**
 
@@ -524,6 +529,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU
 
 वधिष्यामि सैन्यहेतोर्जनार्दन॥१५॥
 
+ 
+
 दृढधन्वना रक्षिताः पाञ्चालान् निहनिष्यन्ति। हे जनार्दन! सोऽहंसैन्यहेतोः भीष्मं वधिष्यामि॥१५॥
 
 **शब्दार्थ।**
@@ -545,7 +552,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU
 ९ दुर्योधनपुरोगमाः = दुर्योधनः पुरोगमो येषां ते।  
 १० दृढधन्वा = दृढं धनुः यस्य सः।
 
-![](../books_images/U-IMG-173120782529.png)
+<MISSING_FIG href="../books_images/U-IMG-173120782529.png"/>
 
 **पाठ ६**
 
@@ -613,7 +620,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU
 
  इस प्रकार पाठक वाक्य बनावें और शब्द भी जहां कहीं आये हों, यह इस प्रत्ययका है यह पहचानें।
 
-![](../books_images/U-IMG-173039333331.10.2024_22.18.15_REC.png)  
+<MISSING_FIG href="../books_images/U-IMG-173039333331.10.2024_22.18.15_REC.png"/>  
 
 पाठ ७
 
@@ -783,7 +790,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg0NTI1MjQ1MDU
 १ पितामहरथः = पितामहस्य रथः। २ लोकविश्रुतः = लोके विश्रुत॥  
 ३ जनेश्वरः = जनानां ईश्वरः। ४हर्षवर्धनः = हर्षं वर्धयतीति।
 
-![](../books_images/U-IMG-173045174101.11.2024_14.31.55_REC.png)
+<MISSING_FIG href="../books_images/U-IMG-173045174101.11.2024_14.31.55_REC.png"/>
 
 **पाठ ९**
 

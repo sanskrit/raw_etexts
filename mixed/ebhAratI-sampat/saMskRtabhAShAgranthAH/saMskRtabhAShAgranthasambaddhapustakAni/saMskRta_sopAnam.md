@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NDEwNzI3NTA
 
 **संस्कृत सोपानम्**
 
-![](../books_images/U-IMG-1734022113SAMSKRITA_SOPANA_1-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1734022113SAMSKRITA_SOPANA_1-removebg-preview.png"/>
 
 **प्रथमः पाठः।**
 
@@ -206,13 +206,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NDEwNzI3NTA
 
  राम ! याहि, तव माता त्वां आह्वयति ! सीते ! इह आगच्छ ! हरे ! क्व ! गच्छसि ! गुरो ! अहं ! किं करवाणि ! भवति ! मनसा पठ ! बुध ! गात्रं परिष्कुरु ! प्रिय ! पाठंशिक्षस्व ! राजन् ! प्रजां रञ्जय॥
 
-![](../books_images/U-IMG-1733382934Capture22.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1733382934Capture22.PNG"/>
 
 [TABLE]
 
 **संस्कृत सोपान**
 
-**![](../books_images/U-IMG-1733383932Capture24.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1733383932Capture24.PNG"/>**
 
 **स्वर और उनके भेद।**
 
@@ -1209,4 +1209,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2NDEwNzI3NTA
  **१८—**खेती, व्यापार, पशुओं का पालन और व्याज यह वैश्य का अधिक है
 
 \]
-

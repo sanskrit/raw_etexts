@@ -11,13 +11,35 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 \[
 
+
+
 श्रीः
+
+
 
 रामचन्द्रकविविरचितः
 
+
+
 राधाविनोदः
 
+
+
 प्रकाशव्याख्योपेतः
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 मालीनो
 
@@ -26,6 +48,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 मालीनो
 
 घनमाली॥
+
+                                
 
 मालीनो
 
@@ -39,9 +63,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 कुशेशयदलाकारशयशायिनि
 
 मौक्तिके॥
+
+
 
 मुहुर्मुहुरुदासीनामासीनामाश्रये
 
@@ -55,11 +83,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 राधाविनोदकाव्यस्य
 
 प्रकाशः
 
 परितन्यते॥
+
+
 
 सुधिया
 
@@ -72,6 +104,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 2
 
 ॥
+
+
 
 प्रारीप्सितस्य
 
@@ -987,15 +1021,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 विधुसुहृद्विरहानलपीडिता
 
+
+
 विधुसुहृत्तरलानलपीडिता॥
 
+
+
 विधुसुहृद्वदनाऽऽलिमपीडिता
+
+
 
 विधुसुहृत्सुगिरोऽकिरदीडिता॥
 
 2
 
 ॥
+
+
 
 उदयते
 
@@ -1005,9 +1047,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 शशी
 
+
+
 सखि
 
 करैरकरैस्तिमिराकरैः॥
+
+
 
 दिशमिमां
 
@@ -1019,6 +1065,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 रमारमं
 
+
+
 कमलकोमललोलविलोचनम्
 
 ‌
@@ -1028,6 +1076,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 3
 
 ॥
+
+
 
 ते।
 
@@ -1064,6 +1114,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 1
 
 ॥
+
+
 
 काव्यार्थमाह।
 
@@ -1273,6 +1325,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 किमुवाचेत्याह।
 
 उदयतइति।
@@ -1285,6 +1339,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 कुमुदबन्धुरबन्धुरबन्धुरः
 
+
+
 न
 
 तनुते
@@ -1295,6 +1351,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ततः॥
 
+
+
 हिमकरो
 
 हिमतां
@@ -1304,6 +1362,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 मतां
 
 नतां
+
+
 
 किममुमां
 
@@ -1579,6 +1639,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 कुमुदेति।
 
 कखि
@@ -1651,6 +1713,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 कमलिनीमलनीमलिनालिना
 
+
+
 विचलता
 
 चलता
@@ -1665,6 +1729,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 विधुतभां
 
 विधुतां
@@ -1672,6 +1738,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 विभानुभि
 
 \-
+
+
 
 र्नयनयोरनयोर्नयसीनयोः॥
 
@@ -1961,6 +2029,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 कमलिनीति।
 
 हेसखे
@@ -2003,17 +2073,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 विभातिविभाविनी
 
+
+
 न
 
 सरसी
 
 सरसासरसारसैः॥
 
+
+
 अतिकुलैर्विधुता
 
 विधुताधुता
 
 \-
+
+
 
 विनमदिन्दुमुखी
 
@@ -2102,6 +2178,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 5
 
 ॥
+
+
 
 सखीति।
 
@@ -2295,6 +2373,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 दयितोनित।
 
+
+
 निजकरैरकरैर्दहति
 
 स्फुटम्
@@ -2303,11 +2383,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 यदयमेकपदे
 
 विपदेऽभव
 
 \-
+
+
 
 द्विकचपुष्करिणीहरिणीदृशाम्
 
@@ -2331,6 +2415,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ‌
 
+
+
 इह
 
 मदक्षिगतेक्षिगतेब्जिनीरविमतिर्विमतर्निमिमीलिता॥
@@ -2338,6 +2424,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 8
 
 ॥
+
+
 
 कुमुदिनीदयितेति।
 
@@ -2469,6 +2557,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 विध्विति।
 
 विधुरितानां
@@ -2583,6 +2673,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 वनानिलः॥
 
+
+
 हृदयमङ्ग
 
 मदङ्गमदङ्गकं
@@ -2605,13 +2697,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 \-
 
+
+
 रनवनीनवनीपवनीमतम्
 
 ‌
 
 ॥
 
+
+
 अलिकुलालिकुलालिकुलाकुला
+
+
 
 प्रति
 
@@ -2620,6 +2718,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 10
 
 ॥
+
+
 
 मलयेति।
 
@@ -2773,6 +2873,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 अयीति।
 
 अयि
@@ -2887,11 +2989,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 परागतं
 
+ 
+
 मधु
 
 परागपरागपरालिभिः॥
 
+
+
 विशदशारदशारदशारदः
+
+
 
 शशकलङ्ककलङ्ककलंकितम्
 
@@ -3079,6 +3187,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 बकुलमिति
 
 हि
@@ -3217,15 +3327,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 नवमशोकमशोकयशोकदे
 
+
+
 सुरभितारमितालिरतारतम्
 
 ‌
 
 ।
 
+
+
 सखि
 
 त्वमाश्रमयमाश्रयमाश्रयः
+
+
 
 कमलिनीमलिनीप
 
@@ -3423,6 +3539,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 इत्युक्त्वा
 
 सखी
@@ -3567,17 +3685,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 सखिहितासिहितासिमतात्थमां
 
+
+
 नवमशोकमशोकमशोकदम्
 
 ‌
 
 ॥
 
+
+
 तदिह
 
 मामवमामवमाममी
 
 \-
+
+
 
 व्रजहरिं
 
@@ -3622,6 +3746,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 समलिमिव
 
 12
+
+
 
 सखीवचनश्रवणोपजातखेदा
 
@@ -3879,11 +4005,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 गदितागदितादिता
 
+
+
 नवनगमव
 
 रा
 
 यवरायवा॥
+
+
 
 इति
 
@@ -3894,6 +4024,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 कलयाकला
 
 \-
+
+
 
 पटुगिरा
 
@@ -4010,6 +4142,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 13
 
 ॥
+
+
 
 राधावचनश्रवणानन्तरं
 
@@ -4233,6 +4367,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 तनौ
 
+
+
 सहचरी
 
 नलिनी
@@ -4243,6 +4379,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 सुनयनानलदं
 
 नलदं
@@ -4250,6 +4388,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 च
 
 सा
+
+
 
 तदपि
 
@@ -4263,11 +4403,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 समुदिते
 
 मुदिते
 
 मुदितेक्षणे
+
+
 
 हिमकरे
 
@@ -4275,15 +4419,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 मकरेश्रुती॥
 
+ 
+
 पिकरवेरवरेरवरेति
 
 सा
+
+
 
 हरिणलाच्छनलाच्छनलाच्छना॥
 
 16
 
 ॥
+
+
 
 किमुवाचेत्याह।
 
@@ -4390,6 +4540,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 15
 
 ॥
+
+
 
 पुनः
 
@@ -4567,6 +4719,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 सखी
 
+
+
 तव
 
 वियोगवियोग
@@ -4577,6 +4731,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 सपदि
 
 तां
@@ -4586,6 +4742,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 सरणिं
 
 मणिं
+
+
 
 किरतु
 
@@ -4603,6 +4761,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 अथनया
 
 कलया
@@ -4610,6 +4770,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 कलया
 
 शुभां
+
+
 
 वनजदामजदामजदीप्तिवान्
 
@@ -4640,6 +4802,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 16
 
 ॥
+
+
 
 नसहेति।
 
@@ -4875,6 +5039,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 अथेति॥
 
 अथेत्यन्तरं
@@ -4931,25 +5097,35 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 सा
 
+
+
 मुदमतीव्रमतीव्रदृशोस्थिता॥
 
 18
 
 ॥
 
+
+
 रामचन्द्रकविना
 
 कविनादः
 
+
+
 पूरुषोत्तमसुतेन
 
 सुतेन॥
+
+
 
 राधिका
 
 हृदयशोकदमासी
 
 \-
+
+
 
 द्राधिकाहृदयशोकदमासीत्
 
@@ -5046,6 +5222,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 18
 
 ॥
+
+
 
 रामचन्द्रेति।
 
@@ -5147,6 +5325,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 पण्डतश्रीशिरोमणेः॥
 
+
+
 नयस्य
 
 निदेशेन
@@ -5159,6 +5339,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 
 ॥
 
+
+
 राधाविनोदकाव्यस्य
 
 व्याख्यानं
@@ -5168,6 +5350,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 ‌
 
 ॥
+
+
 
 परोपकाररसिकाः
 
@@ -5182,5 +5366,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEwNjkyNjQyNjc
 2
 
 ॥
+
+
+
 
 \]

@@ -13,11 +13,31 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 ***राधाकुण्डोत्पत्तिवर्णनम्***
+
+
 
 श्रीविश्वनाथचक्रवर्तिठक्कुरेण विरचितम्
 
+
+
+
+
 (भागवतपुराणस्य दशमस्कन्धे षट्त्रिंशेऽध्याये पञ्चदशश्लोकस्य टीकायां संनिविष्टम्.)
+
+
 
 मास्मान्स्पृशाद्य वृषभार्दन हन्त मुग्धा
 
@@ -27,6 +47,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 शुद्ध्येद्भवांस्त्रिभुवनस्थिततीर्थकृच्छ्रात॥१॥
 
+
+
 किं पर्यटामि भुवनान्यधुनैव सर्वा
 
 आनीय तीर्थविततीः करवाणि तासु ।
@@ -34,6 +56,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 स्नानं विलोकयत तावदिदं मुकुन्दः
 
 प्रोच्यैव तत्र कृतवान्बत पार्ष्णिघातम् ॥२॥
+
+
 
 पातालतो जलमिदं किल भोगवत्या
 
@@ -43,6 +67,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 तत्रैव रेजुरथ कृष्ण उवाच गोपीः ॥३॥
 
+
+
 तीर्थानि पश्यत हरेर्वचसा तवैवं
 
 नैव प्रतीम इति ता अथ तीर्थवर्याः ।
@@ -50,6 +76,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 प्रोचुः कृताञ्जलिपुटा लवणाब्धिरस्मि
 
 क्षीराब्धिरस्मि शृणुतामरदीर्घिकास्मि ॥४॥
+
+
 
 शोणोऽपि सिन्धुरहमस्मि भवामि ताम्र
 
@@ -59,6 +87,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 रेवास्मि पश्यत जलं कुरुत प्रतीतिम् ॥५॥
 
+
+
 स्नात्वा ततो हरिरतिप्रजगल्भ एव
 
 शुद्धः सरोऽप्यकरवं स्थितसर्वतीर्थम् ।
@@ -66,6 +96,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 युष्माभिरात्मजनुषीह कृतो न धर्मः
 
 कोऽपि क्षितावथ सखीर्निजगाद राधा ॥६॥
+
+
 
 कार्यं मयाप्यतिमनोहरकुण्डमेकं
 
@@ -75,6 +107,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 गर्तः कृतो वृषभदैत्यखुरैर्व्यलोकि ॥७॥
 
+
+
 तत्रार्द्रमृण्मृदुलगोलतटीः प्रति स्व
 
 हस्तोद्धृता अनतिदूरगता विधाय ।
@@ -82,6 +116,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 दिव्यं सरः प्रकटितं घटिकाद्वयेन
 
 ताभिर्विलोक्य सरसं स्मरते स्म कृष्णः ॥८॥
+
+
 
 प्रोचे च तीर्थसलिलैः परिपूरयैतन्
 
@@ -91,6 +127,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 त्वत्कुण्डनीरमुरुगोवधपातकाक्तम् ॥९॥
 
+
+
 आहृत्य पुण्यसलिलं शतकोटिकुम्भैः
 
 सख्यर्बुदेन स मानसजाह्नवीतः ।
@@ -98,6 +136,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 एतत्सरः स्वमधुना परिपूरयामि
 
 तेनैव कीर्तिमतुलां तनवानि लोके ॥१०॥
+
+
 
 कृष्णेङ्गितेन सहसित्य समस्ततीर्थ
 
@@ -107,6 +147,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 भक्त्या कृताञ्जलिपुटः स्रवदस्रधारः ॥११॥
 
+
+
 देवि त्वदीयमहिमानमवैत सर्व
 
 शास्त्रार्थविन्न च विधिर्न हरो न लक्ष्मीः ।
@@ -114,6 +156,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 किं त्वेक एव पुरुषार्थशिरोमणिस्त्वत्
 
 प्रस्वेदमार्जनपरः स्वयमेव कृष्णः ॥१२॥
+
+
 
 यश्चारुयावकरसेन भवत्पदाब्जं
 
@@ -123,6 +167,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 स्वं मन्यते परमधन्यतमं प्रहृष्यन॥१३॥
 
+
+
 तस्याज्ञयैव सहसा वयमाजगाम
 
 तत्पार्ष्णिघातकृतकुञ्जवरे वसामः ।
@@ -130,6 +176,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 त्वं चेत्प्रसीदसि करोषि कृपाकटाक्षं
 
 तर्ह्येव तर्षविटपी फलितो भवेन्नः ॥१४॥
+
+
 
 श्रुत्वा स्तुतिं निखिलतीर्थगणस्य तुष्टा
 
@@ -139,6 +187,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 इत्येव नो वर इति प्रकटं तदोचुः ॥१५॥
 
+
+
 आगच्छतेति वृषभानुसुता स्मितास्या
 
 प्रोवाच कान्तवदनाब्जधृताक्षिकोणा ।
@@ -146,6 +196,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 सख्योऽपितयः कृतसम्मतयः सुखाब्धौ
 
 मग्ना विरेजुरखिला स्थिरजङ्गमाश्च ॥१६॥
+
+
 
 प्राप्य प्रसादमथ ते वृषभानुजायाः
 
@@ -155,6 +207,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 कुण्डं व्यधुः स्वसलिलैः परिपूर्णमेव ॥१७॥
 
+
+
 प्रोचे हरिः प्रियतमे तव कुण्डमेतन्
 
 मत्कुण्डतोऽपि महिमाधिकमस्तु लोके ।
@@ -162,6 +216,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 अत्रैव मे सलिलकेलिरिहैव नित्यं
 
 स्नानं यथा त्वमसि तद्वदिदं सरो मे ॥१८॥
+
+
 
 राधाब्रवीदहमपि स्वसखीभिरेत्य
 
@@ -171,6 +227,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 स्नायाद्वसन्मम स एव महाप्रियोऽस्तु ॥१९॥
 
+
+
 रासोत्सवं प्रकुरुते स्म च तत्र रात्रौ
 
 कृष्णाम्बुदः कृतमहारसहर्षवर्षः ।
@@ -179,12 +237,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkzNTMyNjEyNDQ
 
 त्रैलोक्यमध्यविततीकृतदिव्यकीर्तिः ॥२०॥
 
+
+
 इति श्रीविश्वनाथचक्रवर्तिविरचितं
 
 राधाकुण्डोत्पत्तिवर्णनं
 
 समाप्तं
 
+
+
 \*
+
+
+
+
+
+
+
+
+
 
 \]

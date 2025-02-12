@@ -24,10 +24,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTY
 [TABLE]
 
 **काव्यमाला।**  
-**![](../books_images/U-IMG-1697269860Screenshot(45).png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1697269860Screenshot(45"/>.png)**  
 **श्रीमद्गङ्गानन्दकविराजप्रणीतं**  
 **कर्णभूषणम्।[^1] वत्सरे बीकानेरमहीमण्डलं मण्डयति सति श्रीमद्गङ्गानन्दकविराजद्वारा कारितवान् ५६ पत्रात्मकं पुस्तकं चास्य ग्रन्थस्य जयपुरमहाराजमन्त्रगुरुभट्टरूपदत्तशर्मणां सरस्वतीसदनत उपलब्धम्.")**  
-**![](../books_images/U-IMG-1697273170Screenshot(46).png)  
+**<MISSING_FIG href="../books_images/U-IMG-1697273170Screenshot(46"/>.png)  
 प्रथमः परिच्छेदः।**
 
 [^1]: "इमं ग्रन्थं बीकानेरधरामण्डलाधीशवीकाजीमहाराजात्मजश्रीलूणकर्णमहाराजनामैकदेशश्रीकर्णमहाराजो वैक्रमे १५६२-१५८३ (AD 1506-1527
@@ -2579,4 +2579,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTY
 **———————**
 
 \]
-

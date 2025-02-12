@@ -24,7 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 **PREFACE.**
 
-![](../books_images/U-IMG-1735310404Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735310404Capture.PNG"/>
 
  To those who have read the second reader of this series, the lessons in this—the third—presentlittle or comparatively no difficulty except perhaps that required by a progressive series. It contains both prose and poetry pieces mostly selected from the various readers in other languages as well as from the Maha Bharata and other Standard Sanskrit works. In the object-lessons and in those on biology and on morals, special care is taken to avoid all unnecessary length and minute details. The Samasas used are not too long; the main object of using them being to acquaint the students with a method of giving concise expression to their thoughts. With a view to enrich the vocabulary of students difficult synonyms are used whenever an idea is repeated. Sometimes suggestive words are coined to express ideas new to the language.
 
@@ -32,7 +32,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 **निवेदना.**
 
-![](../books_images/U-IMG-1735310154Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735310154Capture.PNG"/>
 
  एषा तृतीयपाठावलीत्युच्यते। द्वितीयां पाठावलीमधीतवतां बालानां सुखेन ग्रहणयोग्याः पाठा अस्यां योजिताः। ते च गद्यरूपाः प्रायेण भाषान्तरपाठपुस्तकेभ्य उपात्ताः, पद्यरूपास्तु भारतादिभ्यः सङ्कलिताः। अत्र मनुष्यपशुपक्षिणां चरितं, स्थावरस्य स्वभावः, लौकिकी नीतिरित्येतावान् विषयोऽनतिसङ्ग्रहेण बालहृदयग्राहिण्या रीत्या प्रतिपादिताः; अदीर्घाः समासा अर्थसंक्षेपणरीतिज्ञानाय कतिपये प्रयुक्ताः; प्रसिद्धपदेन प्रथमं निर्दिष्टस्यार्त्थस्य पर्यायपदैः पुनः परामर्शःपर्यायपदपरिचयार्त्थं क्वचित् क्वचित् कृतः। पुराणकाव्यादावप्रसिद्धस्यार्त्थस्य प्रतिपादनाय नवोल्लिखितान्यपि कानिचित् पदानि झटित्यर्त्थसमर्पणे समर्त्थान्येव प्रयुक्तानि.
 
@@ -91,7 +91,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 **तृतीया पाठावली**
 
-![](../books_images/U-IMG-1734841603Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734841603Capture.PNG"/>
 
 **मनुष्यस्य देहः शिरश्च।**
 
@@ -105,7 +105,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  मानुष एक एव स्वभावतः शिर उन्नमय्य चरतीत्यतः स इहफलादुत्कृष्टममुत्रफलमर्जयितुमर्ह इति, अन्ये सर्वे जन्तवोऽधोमुखा एव सञ्चरन्तीत्यतस्त इहसुखमात्रायार्हा इति च शक्यमुत्प्रेक्षितुम्।
 
-![](../books_images/U-IMG-1734842072Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734842072Capture.PNG"/>
 
 **२। सद्बालानां लक्षणम्।**
 
@@ -121,7 +121,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  यस्तु स्वच्छन्दवृत्तिः पित्रोर्हृदयं दुनोति, स बालको दण्डनामवश्यं लभेत।
 
-![](../books_images/U-IMG-1734843373Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734843373Capture.PNG"/>
 
 **३.भुमिः स्थलम्।**
 
@@ -129,7 +129,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  सस्यानि तृणानि चोद्भिद्य भूमिमलङ्कुर्वन्ति। उष्णदेशेषुच्छायाया अवश्यमपेक्षणात् छायावृक्षा बहुला जायन्ते, स्तोकोष्णेषु तु न तथा। भूमेरतिशीतलयोर्दक्षिणोत्तरभागयोर्वृक्ष एव न प्ररोहति, किन्तु कृशानि लशुनानि तृणानि च केवलम्। भूमेरूर्ध्व ऊर्ध्वे शैत्यस्य अन्तरन्तरूष्मणश्च क्रमेणाधिक्यमुपलभ्यते। भूमेरुपरिकपालं क्रोशपञ्चशतीमात्रमिति, ततस्तस्या गर्भे बहुप्रकारा लोहादयः पदार्थाः क्वथिता द्रवीभूय प्रवहन्तीति च पण्डिता अभ्युद्य वर्णयन्ति।
 
-![](../books_images/U-IMG-1734844012Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734844012Capture.PNG"/>
 
 **४.निर्बन्धः।**
 
@@ -139,7 +139,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  श्वमूल्यमनेन दापयितुं न कश्चिद् न्यायोऽस्ति' इत्युक्त्वा यवनं विसर्जयामास।
 
-![](../books_images/U-IMG-1734844774Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734844774Capture.PNG"/>
 
 **५.वञ्चको भृत्यः।**
 
@@ -149,7 +149,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  एतेन राजा कूटसाक्षिणावेनौ निश्चित्य तयोर्दण्डमकल्पयत। पश्चादेतौ सानुतापौ सत्यं विज्ञाप्य 'क्षमस्वापराधम् इति राजानं प्रार्थयाञ्चक्राते। धूर्तो भृत्यस्तु स्वप्रयुक्तायाः परवञ्चनायाः स्वानर्त्थहेतुतां दृष्ट्वातद्रत्नं प्रत्यर्पयामास। राजा च तद् गृहीत्वा धनिकाय ददौ।
 
-![](../books_images/U-IMG-1734852417Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734852417Capture.PNG"/>
 
 **६। शीलम्।**
 
@@ -178,7 +178,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 स्वं याचितश्च द्विषतेऽपि दत्ते  
 जहत्यनर्त्थास्तमुदारशीलम्॥८**॥
 
-![](../books_images/U-IMG-1734852601Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734852601Capture.PNG"/>
 
 **७. विज्ञानफलम्.**
 
@@ -195,7 +195,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 इत्ययमर्थो निर्णतः
 
-![](../books_images/U-IMG-1734960183Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734960183Capture.PNG"/>
 
 **८.अश्वो गर्दभश्च।**
 
@@ -207,7 +207,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  न्नता दृढदेहबन्धा बलवन्तो गर्दभाः सन्ति। पुरा प्रभवस्तान् वाहनीकरणेन रथ्यीकरणेन चोपायुञ्जत। अद्यत्वेऽपि ईजिप्त, स्पेयिन, अमेरिकादिदेशेषु जना गर्दभानत्यर्थमाद्रियन्ते। तत्र गर्दभानां पादा न स्खलन्ति। अश्वापेक्षया तेषां तीक्ष्णतरा बुद्धिः; आयुश्च दीर्घतरम्।
 
-![](../books_images/U-IMG-1734960670Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734960670Capture.PNG"/>
 
 **९.मूर्खा भृत्याः।**
 
@@ -215,7 +215,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 लीषु शिबिकावाहांस्ततइतो गमयन् स्वेदयामास। ते चिरमुग्रातपे भारबहनाच्चङ्क्रमणाच्चोपहतजानुपादा 'इतः परं चलितुं न शक्नुमः' इत्यवसन्नगात्रा आचक्रन्दुः। स्वामी तान् निर्भर्त्स्य ‛शिबिकावहनं युष्माकं नियोगः।अतो मा स्म तिष्ठत।गच्छत शीघ्रम्' इति चोदयन्नतीव श्रमयाञ्चकार।तदा प्रभृति लब्धविवेकास्ते न जातुचित् स्वाम्याज्ञामुदलङ्घयन्।
 
-![](../books_images/U-IMG-1734961462Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734961462Capture.PNG"/>
 
 **१०.अपत्यविवादः।**
 
@@ -223,7 +223,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 'न्याय्योऽयं निर्णयः। छिद्यतां शिशुः' इत्याह स्म। अन्या तु वेपमानावयवा 'राजन् ! शिशुरेष तस्या एव दीयताम्; सर्वथा मैनं मारयत' इति प्रार्त्थितवती। ततश्चेयमेवापत्यवत्सला शिशोर्मातेति निश्चिन्वंस्तस्यै स शिशुं समर्पयितुमादिशत्; प्रत्यर्त्थिनीं च ताडयित्वा कारागृहे निवेशयामास।
 
-![](../books_images/U-IMG-1734962809Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734962809Capture.PNG"/>
 
 **११.(क) उपकारो न निष्फलः।**
 
@@ -235,7 +235,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 प्रत्यूह आपतितः। पङ्गुर्हि कश्चित् पर्पेण चरन् 'प्रभो ! ईशस्त्वामभिरक्षतु। युद्धे नलिकभिन्नपादः पङ्गूभूतो दीनोऽहम्। क्षुन्मामतीवपीडयति, यत्किञ्चिदभ्यवहाराय देहि' इति बालमयाचत।बालः पाथेयभाण्डस्थं भुक्तशिष्टं सर्वं तस्मै समर्प्य द्विगुणवेगं धावन् दिनावसाने ग्रामान्तरं प्रापत्; तत्र च कार्यं निर्वर्त्य स्वगृहं प्रत्यागच्छन् कतिपयैः क्षणैः परितः प्रसत्वरे तमसि भ्रष्टवर्त्मा किमपि वनं प्रविश्य बभ्राम।
 
-![](../books_images/U-IMG-1735103078Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735103078Capture.PNG"/>
 
 **१२. (ख) उपकारो न निष्फलः।**
 
@@ -247,7 +247,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 तस्यान्धस्य स्कन्धेऽधिरुह्यागच्छन्तमपश्यत्। तञ्च स पङ्गुर्जगाद—'तात ! क्वचन मार्गद्रूममूले शयानावावां "कश्चिदेकाकी जनो गच्छति, तं प्रहृत्व मुष्णीवः, आयाहि" इति कामपि वाचमशृणुव। ततस्त्वामेवैकाकिनं प्रत्यागच्छन्तं सम्भावयन्तौ मदुपदिश्यमानमार्गे मां स्कन्धेन वहत्यन्धे द्वावपीहागत्य चौरत्रासनामुद्धोषणामकार्ष्व। सेयं दैवात् तवोपकारायाभूदिति महानावयोः प्रमोदः इति। श्रुत्वा चैतद् बालो भृशमतुषत्; तदाप्रभृति च मनुष्ये मृगेऽन्यस्मिन् वा प्राणिन्यार्ते दृष्टे नियमेनोपकारपरो बभूव।
 
-![](../books_images/U-IMG-1735102466Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735102466Capture.PNG"/>
 
 **१६.सत्पुत्राः।**
 
@@ -257,7 +257,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  ततश्च शिरःस्थं सर्वं प्रशस्तधनभाण्डजातं दूरे निरस्य ज्येष्ठः पितरमन्यो मातरं च पृष्ठे समारोप्य वहन्तौ भयशून्यं स्थलं प्रापयाञ्चक्रतुः। ताभ्यां च मातरपितरौ वहद्भ्यां यया वीथ्या प्रचलितं, तस्यास्तदा प्रभृति 'सत्पुत्रमार्ग' इति नाम प्रसिद्धमभूत।
 
-![](../books_images/U-IMG-1735051471Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735051471Capture.PNG"/>
 
 **१४. जम्बुको, द्राक्षा च.**
 
@@ -265,7 +265,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 तया तद् ग्रहीतुं न शशाक। एवमात्मोद्यमं विफलमवधार्य 'धिक्धिगम्लमेवेदं द्राक्षाफलम्; यदीच्छेयं, किमहमिदमनायासेन नोच्चितुयाम् ?' इति उपांशु जल्पन् सावज्ञ इव स जगाम। एतेन्लिप्सिते पदार्त्थे तदलाभनिश्चयानन्तरमनिच्छाया अभिनयनमुपहसनीयमिति फलति।
 
-![](../books_images/U-IMG-1735050397Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735050397Capture.PNG"/>
 
 **६. शुनको वकश्च।**
 
@@ -273,7 +273,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  पेक्षितं, तत् किमनुरूपं ते न पारितोषिकम्?" इति स उक्तवान्। एतेन क्षुद्रेषु प्रत्युपकारप्रत्याशा न कार्येति सिध्यति।
 
-![](../books_images/U-IMG-1735048846Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735048846Capture.PNG"/>
 
 **१६.उदरं अवयवान्तराणि च।**
 
@@ -281,7 +281,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  कैश्चित् तदुपासना कर्तव्यैवात्महितायेति फलति।
 
-![](../books_images/U-IMG-1735048151Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735048151Capture.PNG"/>
 
 **१७.नासाचास्यं च।**
 
@@ -295,7 +295,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  मनुष्यभिन्नाः प्राणिनः स्वाभिप्रायमुच्चावचैर्ध्वनिभिराविष्कुर्वन्ति; भाषणं तु तेषामशक्यम्। मनुष्यः खल्वेकः स्वाशयं वाचा प्रकाशयितुं शक्तः।
 
-![](../books_images/U-IMG-1735047752Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735047752Capture.PNG"/>
 
 **१८.जडसहवास। परमानर्त्थः।**
 
@@ -305,7 +305,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  बको मया गृहपटले निहितः। सोऽयमिदानीं गवेष्यमाणो न क्वापि लभ्यते' इति। तच्छ्रुत्वा जनास्तं सन्ताड्य सद्य एव नगरान्निष्कासयामासुः। किन्त्वेतावतापि स मूर्ख आत्मसन्ताडनकारणं न विदितवान्; न वा नागरिको नष्टं द्रव्यं प्रतिलब्धवान्।
 
-![](../books_images/U-IMG-1734981056Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734981056Capture.PNG"/>
 
 **१९.निष्कुटः केदार नारिकेलः तालश्च।**
 
@@ -319,7 +319,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 स्यान्तरप्ररोहणायोग्ये सिकतिले स्थले सोऽतिशयेन वर्धते। अस्योपयोगः केरवद् वेद्यः।
 
-![](../books_images/U-IMG-1734978992Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734978992Capture.PNG"/>
 
 **२०.उद्यमः।**
 
@@ -346,7 +346,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 **दैवं विहाय कुरु पौरुषमात्मशक्त्तया  
 यत्ने कृते यदि न सिध्यति कोऽत्र दोषः॥७॥**
 
-![](../books_images/U-IMG-1734978074Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734978074Capture.PNG"/>
 
 **२१.सत्यम्।**
 
@@ -364,7 +364,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 नि पतन्ति।ततस्तृणेष्वोषधिषु वनस्पतिषु च प्ररुह्य प्रवृद्धेषु तानि स्थलानि मनुष्यावासार्हा द्वीपा भवन्ति। एषु कतिपये तत्काले मनुष्यैरध्युष्यन्ते। मानुषानधिष्ठिताश्च द्वीपाः सन्ति।
 
-![](../books_images/U-IMG-1734973620Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734973620Capture.PNG"/>
 
 **२६.श्वा मार्जारश्च। (क)**
 
@@ -376,7 +376,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 भ्य निर्विद्यमानावुदिते सूर्ये गिरिप्रस्थात् प्रतिनिवृत्तावभूव "यथावृत्तं स्वामिने निवेदयावः” इति।
 
-![](../books_images/U-IMG-1734968405Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734968405Capture.PNG"/>
 
 **२४.श्वा मार्जारश्च। (ख)**
 
@@ -386,7 +386,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 जन्तून् हिनस्ति। अयमावासस्थले परिचिते रज्यति नतु जने।अपिचैष च्छद्मवान् क्रूरशीलश्च। अयमतिचिरं कारितसंस्तवोऽपि प्रियैराहारैराराध्यमानोऽपि गृहे सहसंवर्धिनो मनोरमान् शकुनीन् रन्ध्रेषु प्रहृत्यभक्षयेत्। न तावज्जाहकेन जलमिष्यते। क्रुध्येच्चेदयं, शूत्कृत्य तीक्ष्णैर्नखरैर्गाढं विदारयेत्; यदि त्वेष तुष्येत्, नखान् संकोच्यान्तराकर्षेत्; तदानीं च तस्य पदानि राजपट्टवन्मृदुलानि दृश्येरन्। अस्य शुनश्च शाश्वतो विरोधो लोके प्रसिद्धः।
 
-![](../books_images/U-IMG-1734967843Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734967843Capture.PNG"/>
 
 **२५.गौः महिषी अजा च।**
 
@@ -398,7 +398,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 म्बलाःसन्तन्यन्ते। मेषलोममयाः कश्मीरकम्बलाः गुणतोऽर्धतश्चोन्नता लोके गण्यन्ते।तुभीक्षीरं गोक्षीरान्मेदस्वितरं दर्शनीयतरं च। पुष्टिदत्वाद् भेषजत्वाच्च तन्मन्दाग्नीनां पथ्यमभ्यवहार्यंभवति।
 
-![](../books_images/U-IMG-1734966955Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734966955Capture.PNG"/>
 
 **२६. ऋतवः।**
 
@@ -408,7 +408,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  वर्षासु तरुषु कुसुमानि न वर्तेरन्; तद्वदेव शकुन्ताः। मृगाः खल्वपि भूतलक्लेदात् क्लिश्येरन्। भूमेर्दक्षिणोत्तरदेशेषु सरस्सु शीतवशाज्जलं शिलावद् घनीभवेत्।तत्र च बाला लोहमयं पादुकाविशेषं धृत्वा स्खलितप्रधावितं कुर्वन्तः क्रीडेयुः।
 
-![](../books_images/U-IMG-1734966621Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1734966621Capture.PNG"/>
 
 **२७.कदली आम्रः तिन्त्रिणी वटः कार्पासः।**
 
@@ -430,7 +430,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  द्वौ वैधेयौ देवं दिदृक्षमाणौ कञ्चिद् देवालयं गतौ। तत्रैको देवप्रतिकृतिमवलोक्य सहचरमाचचक्षे—'भ्रातः ! शिला खल्वेषा दृश्यते।किमेनामीश्वर इति सर्वे व्यपदिशन्ति' इति। तद्वचनमालयपरिचारकाः श्रुत्वा देवोऽनेन 'शिले' ति निन्दित इति तं ताडयामासुः। ततो गते बहुतिथे काले स जातु तेन सहचरेण साकं कस्यचिद् मित्रस्य गृहे भुञ्जान आसाञ्चक्रे। तदा सहचरो जगाद—'धिगिदं भोजनम्; अन्ने शिला ह्युपलभ्यत' इति। प्रागनुभूतप्रहारः स तथावादिनं सहचरं मुखे चपेटया सद्यो दृढं प्रहृत्य 'अरे मूढ ! किं त्वमीश्वरं शिलेत्यधिक्षिपसि ? एवमुक्तवता मया पुरानुभूतो दण्डः किं त्वया विस्मृतः ? अन्न ईश्वरशाबकोऽस्तीति ब्रूहि' इत्युवाच।
 
-![](../books_images/U-IMG-1735105760Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735105760Capture.PNG"/>
 
 **२९.विद्यायामुद्योगः।**
 
@@ -440,7 +440,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 श्रमपर्याये गाढं स सुप्तोऽभवत्। कच्छपस्त्वविच्छिन्नं चलन्नुद्दिष्टं स्थलं प्राप्य शशस्य प्रबोधात् प्राक् प्रस्थानदेशं प्रत्यागतो ग्लहं निर्जिगाय। तस्माज्जयः सर्वदा वेगवतामेवेति वा बलवतामेवेति वा न मन्तव्यम्।
 
-![](../books_images/U-IMG-1735107683Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735107683Capture.PNG"/>
 
 **३०.अन्धानां गजदर्शनम्।**
 
@@ -453,7 +453,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 इतीयं नीतिः स्फुटा भवति।
 
-![](../books_images/U-IMG-1735125698Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735125698Capture.PNG"/>
 
 **३१.सर्वानुरोधोद्यमः।**
 
@@ -463,7 +463,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 त्य सर्वजनप्रीणनाय कृतैर्यत्नैर्मया नैकोऽपि जनः प्रीणितः, अश्वश्चैवं मदीयो नष्ट' इति प्रलपन् गृहं स स्थविरः प्रतिजगाम।
 
-![](../books_images/U-IMG-1735126701Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735126701Capture.PNG"/>
 
 **३२. सामान्यनीतिः।**
 
@@ -513,7 +513,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 विना गोरसं को रसः कामिनीनां  
 विना गोरसं को रसः पण्डितानाम् ॥१४॥**
 
-![](../books_images/U-IMG-1735127285Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735127285Capture.PNG"/>
 
 **३३। चक्षुः।**
 
@@ -523,7 +523,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
  परमकारुणिको भगवान् एकस्येन्द्रियस्योपघात इन्द्रियान्तरे पाठवातिशयमादधाति; अन्धानां हि श्रोत्रेन्द्रियं त्वगिन्द्रियं चातिसूक्ष्मे; बधिरस्य तु चक्षुरिन्द्रियं तथा। एवं जनस्य तत्तद्गुणवैकल्येऽन्यान्य गुणपौष्कल्यं दृश्यते।
 
-![](../books_images/U-IMG-1735127591Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735127591Capture.PNG"/>
 
 **३४.निमित्तम्।**
 
@@ -535,7 +535,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 कश्चिदुपदिष्टः स्वस्य किङ्करं 'प्रातर्द्वौवायसौ सहावस्थितावुपलभ्य सद्यो मां प्रबोधय' इत्यादिश्य रात्रौ सुष्वाप। ततः प्रभाते किङ्करस्तथाभूतौ बलिभुजौ पश्यंस्त्वरिततरं स्वामिनं प्रबोधयामास। किन्त्वागतस्य स्वामिनो दृष्टिपातात् प्रागेव तयोरन्यतर उड्डीय गतः। स्वामिना तु 'रे मूढ ! अन्यतरोड्डयनात् पूर्वमेव मां किमिति नाहूतवानसि' इति साधिक्षेपं ताड्यमानो भृत्योऽब्रवीत्—'मिलितं काकद्वयं दृष्टवता मया तावदिदमिदानीं फलमनुभूतम्। नखलु जाने स्वामी चेत् तदद्रक्ष्यत्, कीदृशं फलमन्वभविष्यत्' इति। अथ भर्ता प्रत्युत्तरमप्रतिपद्यमानस्तूष्णीं गृहाभ्यन्तरं विवेश।
 
-![](../books_images/U-IMG-1735128430Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735128430Capture.PNG"/>
 
 **३५.क्षमा। (क)**
 
@@ -547,7 +547,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 शयामास। प्रविष्टायाश्च तस्याः श्रद्धोपस्कृतबुद्धरुत्तारे नातिदीर्घःकालोऽपेक्षितोऽभवत्। सा हि पुस्तकक्रयणाशक्ता याचितकं पुस्तकमुपाध्यायाल्लब्ध्वा क्षणेक्षणे पठन्ती कञ्चित् कालमवर्तत। ततः क्रमेण लिपिलेखनपाटवे जञ्जन्यमाने स्वहस्तेन पाठान् विलिख्याधीयाना स्वल्पेनानेहसा पुस्तकानां धारावाचनायां हस्ताक्षराणां सम्यङ् न्यसने च प्रवीणा बभूव।
 
-![](../books_images/U-IMG-1735129554Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735129554Capture.PNG"/>
 
 **३६.क्षमा.(ख)**
 
@@ -559,7 +559,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 भर्त्राच साकं गृहसौख्यानि सा निर्विशन्ती जरढां पितृष्वसारमविस्मृततत्कृतोपकारा यावज्जीवमन्नवस्त्रादिदानेन ररक्ष।
 
-![](../books_images/U-IMG-1735130445Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735130445Capture.PNG"/>
 
 **३७.मातृभक्तिः।**
 
@@ -569,7 +569,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 निद्रासमयेष्वीश्वरेणास्माकमनुग्रहः क्रियमाणो लोके दृश्यते;सोऽयमनेन प्रकारेण त्वयि मन्ये सम्पन्नः; तदेतद् द्रव्यं मात्रै त्वमुपहर; "तां त्वां च नाहं जातुचिदुपेक्षेय” इति मत्प्रतिश्रवं च त्वज्जननीं ग्राहय' इति।
 
-![](../books_images/U-IMG-1735131857Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735131857Capture.PNG"/>
 
 **३८.हिंसारसः।**
 
@@ -577,7 +577,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 तथापि नोऽत्याहितं खलूत्पादयति। अन्याय्यः खल्वयं व आचार' इत्युवाच। तस्मात् क्रीडापि पराहिंसयैव कार्या।
 
-![](../books_images/U-IMG-1735136524Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735136524Capture.PNG"/>
 
 **३९.अकृतज्ञोऽधमर्णः।**
 
@@ -594,7 +594,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 गृहीते तस्मिन्नुत्तमर्णातिसन्धाने प्रयतनमनार्यमस्वर्म्यं च। पूर्वं बङ्गदेशभर्तृपदे स्थितः मार्क्किस-वेल्लसलिनामा ऋणनिर्यातनविषये प्रख्यात उत्तमः पुमानासीत्। स हि स्वपितुः ऋणार्णवमग्नस्य प्रमीतस्य ऋणं तदपाकरणे धर्मशास्त्रेणाप्रतिबद्धोऽपि कृच्छ्रेण निरवशेषं विशोधयामास।
 
-![](../books_images/U-IMG-1735137375Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735137375Capture.PNG"/>
 
 **४०.कुडुम्बैकपत्यम्।**
 
@@ -602,7 +602,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 इत्युक्ता हेलयैव ते तानि सर्वाण्यभाङ्क्षुः। तदा पिता तानवदत्—'पुत्रकाः ! इदं तावद्युष्माभिरवधातव्यं— यत् कृशान्येतानि काष्ठानि सङ्घातदशायां भङ्क्तुमशक्यानि दृष्टानि, विश्लिष्टमात्राणि तु सुखतरभञ्जनीयानि जातानि। एवमेव मिथः संभिन्नानां युष्माकं महद् बलं भवेत्, येन परेषामधृष्या भवेत। अमर्षवशा मिथो भिन्नास्तु यूयं सद्यः शत्रोरामिषीभूता नश्येत' इति। अनया पितृप्रदर्शितया निदर्शनया परमां मतिमुपगताः परस्परविरोधपरिहारेण ते सौभ्रात्रमविन्दन्त।एकोदरजातानामन्योन्यविरोधोमानहानये केवलं कल्पते।
 
-![](../books_images/U-IMG-1735138366Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735138366Capture.PNG"/>
 
 **४१.मातापितृवाक्यलङ्घनम्।**
 
@@ -614,7 +614,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 प्रविष्ट एकोऽप्युन्दुरुर्जीवन् प्रत्यायात इति; तज्जागृहि प्रिय ! पुत्रक ! मास्म तदन्तिकं गमः' इति।तत् श्रुत्वा स शाबको 'नयनपाटवाभावाद् गृहे तत्राश्वासं न करोति जरती मेमाता। तत्र लेशतोऽपि विप्रलम्भशङ्काया नायकाश इत्युपजातनिश्चयः 'अहं तद्गृहं प्रविश्य भक्ष्यस्य कबलमेकंसंदश्य जनन्या उपहरिष्याम्येव;सा च भक्षयिष्यत्येव' इति विचिन्त्य सुप्तप्रशान्ते वेश्मनि निभृतं तद्गृहं प्रविश्य लालसया भक्ष्यं दंष्टुमारेभे ततस्तदुत्पन्नं किलकिलारवंश्रुत्वा भीतो झगिति स प्रवेशमार्गेण निर्गन्तुमधावत्; छादिते च तस्मिन् मार्गेऽन्तर्बम्भ्रम्यमाणोऽपि निर्गमद्वारं नोपलब्धवान्। प्रातस्तद्गृहकपाट उद्धाट्यमाने बहिर्धावने प्रवृत्तमात्रं तं गृहपालकाः श्वानो गृहीत्वा सन्दश्यलवशः खण्डयामासुः।
 
-![](../books_images/U-IMG-1735143615Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735143615Capture.PNG"/>
 
 **४२.व्यायामः।**
 
@@ -646,7 +646,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 शकटं भाटकेन ग्रहीतुमपारयन् दूरं तद्भवनं पादचारेण प्रस्थितः पथि च श्रमवशादुपजातरोगः कान्यप्यहानि विलम्ब्य चिकित्सितैः किञ्चिदिव शान्तेरोगे धनिकमुपगम्य स्वपुत्रचापलं निवेदयामास। किन्तु 'त्वदर्त्थे कल्पितोंऽशः प्रागेवान्यस्मै दत्त' इति धनिकेन कथितो गत्यन्तराभावात् कामपि हीनामेव वृत्तिं स अश्रितवान्। पश्यत पुत्रस्य दम्भदोषेण पितुः कीदृगयमनर्त्थ आपतितः।
 
-![](../books_images/U-IMG-1735196501Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735196501Capture.PNG"/>
 
 **४४.तस्करसत्यशीलौ।**
 
@@ -686,7 +686,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYwMzY4MTU2NTI
 
 **शुभं भूयात्.**
 
-**![](../books_images/U-IMG-1735198796Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1735198796Capture.PNG"/>**
 
 [TABLE]
 

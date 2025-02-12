@@ -85,7 +85,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
 ** 21st,April 1983**
 
-![](../books_images/U-IMG-1733938740Screenshot2024-12-11224954.png)
+<MISSING_FIG href="../books_images/U-IMG-1733938740Screenshot2024-12-11224954.png"/>
 
 **व्याकरण**
 
@@ -753,7 +753,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
 ग्वाला पशुओं को गांव को ले जाता है।
 
-![](../books_images/U-IMG-1734166012Screenshot2024-12-14141620.png)
+<MISSING_FIG href="../books_images/U-IMG-1734166012Screenshot2024-12-14141620.png"/>
 
 **स्त्रीलिंग**
 
@@ -999,7 +999,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  मनुष्य अपनी शक्ति से हिंस्र जीवों को भी वश में कर लेते हैं।
 
-![](../books_images/U-IMG-1734185292Screenshot2024-12-14193753.png)
+<MISSING_FIG href="../books_images/U-IMG-1734185292Screenshot2024-12-14193753.png"/>
 
 **नपुंसक लिंग**
 
@@ -1133,7 +1133,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  शुद्ध भोजन से मनुष्य की बुद्धि शुद्ध होती है और शरीर बलवान् होता है।
 
-![](../books_images/U-IMG-1734192041Screenshot2024-12-14141620.png)
+<MISSING_FIG href="../books_images/U-IMG-1734192041Screenshot2024-12-14141620.png"/>
 
 **सर्वनाम** (Pronoun)
 
@@ -1443,7 +1443,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  छत्रपति शिव का नाम कौन नहीं जानता।
 
-![](../books_images/U-IMG-1734278385Screenshot2024-12-15212858.png)
+<MISSING_FIG href="../books_images/U-IMG-1734278385Screenshot2024-12-15212858.png"/>
 
 **हलन्त शब्द—**
 
@@ -1790,7 +1790,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  होने वाले (भाविन्) अनर्थों को कौन टाल सकता है ?
 
-![](../books_images/U-IMG-1734338912Screenshot2024-12-16141710.png)
+<MISSING_FIG href="../books_images/U-IMG-1734338912Screenshot2024-12-16141710.png"/>
 
 **हलन्त व्यञ्जनान्त**
 
@@ -2115,7 +2115,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  आकाश में चन्द्रमा के (चन्द्रमस्) विम्ब को देखकर चकोर प्रसन्न होता है।
 
-![](../books_images/U-IMG-1734415917Screenshot2024-12-17114110.png)
+<MISSING_FIG href="../books_images/U-IMG-1734415917Screenshot2024-12-17114110.png"/>
 
 **भ्वादि गण **First Conjugation
 
@@ -2817,7 +2817,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  कृष्ण ने पात्रों से मृत सांप को छुआ।
 
-![](../books_images/U-IMG-1734339436Screenshot2024-12-16142640.png)
+<MISSING_FIG href="../books_images/U-IMG-1734339436Screenshot2024-12-16142640.png"/>
 
 **दिवादिगण** 4th conjugation.
 
@@ -3000,7 +3000,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  महाराज उत्तानपाद के घर ध्रव नाम का एक आस्तिक पुत्र पैदा हुआ।
 
-![](../books_images/U-IMG-1734339980Screenshot2024-12-16143551.png)
+<MISSING_FIG href="../books_images/U-IMG-1734339980Screenshot2024-12-16143551.png"/>
 
 **चुरादिगण चुर् चोर चुराना** 10th conjugation
 
@@ -3159,7 +3159,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  मेरी पाठशाला के विद्यार्थी सायंकाल को अपने खेल के मैदान में फुटबाल खेलते हैं।
 
-![](../books_images/U-IMG-1734343796Screenshot2024-11-13200211.png)
+<MISSING_FIG href="../books_images/U-IMG-1734343796Screenshot2024-11-13200211.png"/>
 
 **स्वादिगण 5th Conjugation.**
 
@@ -4237,7 +4237,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  एक वन में एक हरिण और एक कौवा दो मित्र रहते थे। यदि आप १० बजे तक न आये तो मैं सो जाऊँगा॥
 
-![](../books_images/U-IMG-1735199410Screenshot2024-12-26131934.png)
+<MISSING_FIG href="../books_images/U-IMG-1735199410Screenshot2024-12-26131934.png"/>
 
 **क्र्यादिगण। 9th Conjugation**
 
@@ -4486,7 +4486,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  चम्पा की सास आज बहुत सुन्दर वस्त्र खरीदेगी। मैं उसे अच्छी तरह जानता हूं क्योंकि वह मेरे घर के समीप ही रहती है। चूहा वनिकों की दुकान से अन्न के छोटे २ कणों को चुराता है। यह वही अंगूठी है जो कल सोहन ने चुरा ली थी। हे ऋषि! अपने बालक को लो, यह आप ही का तो है। राम ने स्वयंवर में धनुष तोड़ कर सीता के हाथ को पकड़ा जो ब्राह्मण वेदों के अर्थों को नहीं जानता उसका परिश्रम वृथाहै। यदि रमा बनारस गई तो वह अवश्य एक नई साड़ी खरीदेगी। तुमने अभी तक नई पुस्तक क्यों नहीं खरीदी। अर्जुन ने युद्ध में द्रुपद को जीत कर जीवित ही पकड़ लिया।
 
-![](../books_images/U-IMG-1735217671Screenshot2024-12-26182354.png)
+<MISSING_FIG href="../books_images/U-IMG-1735217671Screenshot2024-12-26182354.png"/>
 
 **जुहोत्यादि गण 3rd Conjugation**
 
@@ -4579,6 +4579,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 | **धा–धारण करना** |         |        |         |         |
 |      दधाति       |  दधातु  | अदधात् | दध्यात् | धास्यति |
 |      धत्ते       | धत्ताम् | अधत्त  |  दधीत   | धास्यते |
+
+   
 
 |             |         |        |         |         |
 |:-----------:|:-------:|:------:|:-------:|:-------:|
@@ -5853,7 +5855,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  ८— मोहन वेद मंत्रों को याद करने केलिए देव के घर जाया करता है।
 
-![](../books_images/U-IMG-1735284819Screenshot2024-12-27130326.png)  
+<MISSING_FIG href="../books_images/U-IMG-1735284819Screenshot2024-12-27130326.png"/>  
 
 **१३ पाठः**
 
@@ -6059,6 +6061,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NTAxODQ2MTI
 
  नगराद् बहिः— नगर से वाहिर। मदः पात्राणि जायन्ते। मिट्टी से वरतन बनते हैं। स चौराह विनेति। वह चोरे से डरता है। रूप्यकेभ्यः प्रतियच्छति वस्त्राणि। वनात् आरात् मम कुटीरकमस्ति।
 
-![](../books_images/U-IMG-1735307352Screenshot_2024-12-27_19-18-57.png)
+<MISSING_FIG href="../books_images/U-IMG-1735307352Screenshot_2024-12-27_19-18-57.png"/>
 
 \]

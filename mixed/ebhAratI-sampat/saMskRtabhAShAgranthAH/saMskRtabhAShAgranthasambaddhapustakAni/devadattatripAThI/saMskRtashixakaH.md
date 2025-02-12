@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MjA4MTI2Mzk
 
 **ओ३म्**  
 **समर्पणम्**  
-**![](../books_images/U-IMG-1733192207121212.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1733192207121212.png"/>**  
 
 श्री ६ पूज्यपाद-पण्डितप्रवर-स्वर्गीयपितृ-  
 रमादत्तशर्म्म-चरण-सरोरुहेषु
@@ -64,7 +64,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MjA4MTI2Mzk
 
 **भूमिका**
 
-**![](../books_images/U-IMG-1733193044ABCDE.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1733193044ABCDE.png"/>**
 
  संस्कृतभाषा की उपादेयता तो निर्विवाद सिद्ध ही है। संस्कृतभाषा जो प्राचीन आर्यों में भूमण्डलव्यापिनी राष्ट्रभाषा थी उस में अब भी सार्वजनिक भाषा होने की योग्यता है। कम से कम सनातनधर्म की रक्षा के निमित्त और प्राचीन गौरव की रक्षा के निमित्त तो यह गीर्वाण वाणी अत्यन्त ही आवश्यक है। आधुनिक भाषाओं की यह माता है। संस्कृत के धातु प्रत्ययों को ही आधुनिक भाषाओं में प्रयोग करने के निमित्त नवीन २ शब्दों की रचना हो सकती है। इस लिये मनुष्य को विशेषकर प्रत्येक भारतवासी को संस्कृत जानना ही चाहिये॥
 
@@ -78,11 +78,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MjA4MTI2Mzk
 वकील हाईकोर्ट  
 नैनीताल**
 
-![](../books_images/U-IMG-1733193370BCD.png)
+<MISSING_FIG href="../books_images/U-IMG-1733193370BCD.png"/>
 
 **उपयोगिसूत्रसूची।**
 
-**![](../books_images/U-IMG-1733193674Screenshot(90).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1733193674Screenshot(90"/>.png)**
 
  हमने इस ग्रन्थ में जो प्रक्रम दिये हैं वे भिन्न २ अष्टाध्यायी आदि के सूत्रानुसार हैं, उन प्रक्रमों के आधार सूत्रों को साथ में नीचे लिख दिया है। परन्तु जो इस ग्रन्थ को सूत्रानुसार पढ़ना चाहें, उन्हें प्रथम निम्नलिखित सूत्र भी कण्ठस्थ कर लेने चाहियें। विना इन सूत्रों को कण्ठस्थ किये अन्य ग्रन्थस्थ सूत्रों का अर्थ लगाना वा उपयोग करना नहीं हो सकता :—
 
@@ -293,12 +293,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MjA4MTI2Mzk
 
 ॥ इति॥
 
-![](../books_images/U-IMG-1733206820Screenshot(91).png)
+<MISSING_FIG href="../books_images/U-IMG-1733206820Screenshot(91"/>.png)
 
 **ओ३म्**  
 **अथ संस्कृतशिक्षकः।**
 
-**![](../books_images/U-IMG-1733206936Screenshot(92).png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1733206936Screenshot(92"/>.png)**  
 **स्वर**
 
 |     |     |     |     |     |     |     |
@@ -318,7 +318,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MjA4MTI2Mzk
 | अन्तस्थ— |  य  |  र  |  ल  |  व  |    |
 |  ऊष्म—   |  श  |  ष  |  स  |  ह  |    |
 
-![](../books_images/U-IMG-1733636214h10.png)
+<MISSING_FIG href="../books_images/U-IMG-1733636214h10.png"/>
 
  १—विना किसी अन्य वर्ण की सहायता से ही जो अक्षर बोले जा सकते हैं उन को स्वर कहते हैं। यथा— अ, इ, ए इत्यादि॥
 
@@ -1930,6 +1930,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ0MjA4MTI2Mzk
 
 **———————————— **
 
-**![](../books_images/U-IMG-1734330528n0.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734330528n0.png"/>**
 
 \]

@@ -912,7 +912,7 @@ LESSON VI.
 
 29\. Every thing is acquired by application.
 
-![](../books_images/U-IMG-1732988846AAA.png)
+<MISSING_FIG href="../books_images/U-IMG-1732988846AAA.png"/>
 
 १३. ब्रूहि तस्यैकैकशो विविच्याऽर्थान्.
 

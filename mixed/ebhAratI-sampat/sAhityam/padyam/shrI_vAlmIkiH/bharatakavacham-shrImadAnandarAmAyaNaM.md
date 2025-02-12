@@ -13,7 +13,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxMDI3NDgwNDA
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 ***भरत कवचम् ***
+
+
+
+
 
 ॥ अथ श्रीमदानन्दरामायणांतर्गत श्री भरत कवचं ॥
 
@@ -192,5 +208,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxMDI3NDgwNDA
 इति श्री शतकोटिरामचरितांतर्गत श्रीमदानन्दरामायणे
 
 वाल्मिकीये मनोहरकाण्डे श्री भरतकवचं संपूर्णं ॥
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]
