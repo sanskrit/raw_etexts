@@ -12,11 +12,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MzkyNDc3Njc
 
 \[
 
+
+
+
+
+
+
+
+
 **॥श्रीगणेशाय नमः॥**
 
  एवकारवादः।
 
  --\*\*--
+
+
 
  एवकारस्त्रिविधः विशेष्यसंगतः,
 
@@ -58,8 +68,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ5MzkyNDc3Njc
 
 इत्यलमतिविस्तरेण॥
 
+
+
 **इत्येवकारवादः संपूर्णः।**
 
  -- \*\* --
+
+
+
+
+
+
+
 
 \]

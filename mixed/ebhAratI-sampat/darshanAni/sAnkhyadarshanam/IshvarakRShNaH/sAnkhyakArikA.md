@@ -13,7 +13,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MzMyNDYzNTA
 
 \[
 
+
+
+
+
+
+
 **साङ्ख्यकारिका**
+
+
 
 दुःखत्रयाभिघाताज्जिज्ञासा तदभिघातके हेतौ ।  
 दृष्टे सापार्था चेन्नैकान्तात्यन्ततोऽभावात् ॥ १ ॥
@@ -234,5 +242,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MzMyNDYzNTA
 \\Z
 
 **--------------------------------------------------------------**
+
+
+
+
+
 
 \]

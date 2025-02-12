@@ -16,6 +16,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0NzQxNTUyMzE
 
 \[
 
+
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Barcode: 5010010030000 Title - nyaayabodhinii niilakan 't'hiiya vishhauamaalaa Author - Sri Kamakshi Amma Language - Sanskrit Pages - 90 Publication Year - 1912 Barcode EAN.UCC-13  
@@ -55,6 +57,17 @@ Printed at the SRI VIDYA PRESS, KUMBAKONAM.
 REGISTERED),  
 Price As. 10.  
 ଅge
+
+
+
+
+
+
+
+
+
+
+
 
 \#୧୨୫୪୧ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -432,5 +445,8 @@ Mala
 - इति कामाक्षी संगृहीता ॥ नीलकण्ठीय विषयमाला संपूर्णा ॥
 
 ----------
+
+
+
 
 \]
