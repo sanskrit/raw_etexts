@@ -12,16 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc1MjgwMzMwODE
 
 \[
 
-
-
-
-
-
-
 **रत्नाकरशान्तिः**
 
 **भ्रमहरनाम हेवज्रसाधनम्**
-
 
 (१५७)  
 पदभरनमितोर्वीवेगविक्षिप्तसिन्धु  
@@ -218,8 +211,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc1MjgwMzMwODE
 कुशलमिदमवाप्तं यन्मया जन्मभाजां निरवधिहितहेतुस्तेन वज्री जिनः स्याम् ॥\\Z
 
 --------------------------------------------------------------
-
-
-
 
 \]

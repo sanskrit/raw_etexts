@@ -13,23 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI3MTIwMTM2OTg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **तत्त्वरत्नावलोकः**
-
-
 
 ओं नमः श्रीसद्गुरुपादेभ्यः ।
 
@@ -78,21 +62,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODI3MTIwMTM2OTg
 
 **कृतिरियं पण्डितवागीश्वरकीर्तिपादानाम् ॥\\Z**
 
-
-
 **-------------------------------------------------------------**
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

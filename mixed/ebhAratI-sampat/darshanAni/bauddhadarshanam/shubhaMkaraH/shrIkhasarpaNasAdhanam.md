@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczNDYyOTk5MTg
 
 \[
 
-
-
 (११)
 
 **॥ नमः श्रीखसर्पणाय ॥**
@@ -34,8 +32,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjczNDYyOTk5MTg
 
 **----------------------------------------**  
 \\Z
-
-
-
 
 \]

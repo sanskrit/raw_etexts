@@ -13,26 +13,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNzY1Nzc3NTQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **सम्यक्सम्बुद्धभाषितं**
 
 ** प्रतिमालक्षणम्**
-
-
 
 नमो बुद्धाय ।
 
@@ -208,16 +191,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDcyNzY1Nzc3NTQ
 **॥ इति सम्यक्सम्बुद्धभाषितं प्रतिमालक्षणं समाप्तम् ॥ \\Z**
 
 **----------------------------------------------**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

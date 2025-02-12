@@ -12,14 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4MDM5OTA3Mzc
 
 \[
 
-
-
-
-
-
 **शिक्षासमुच्चयकारिका**
-
-
 
 यदा मम परेषां च भयं दुःखं च न प्रियम् ।  
 तदात्मनः को विशेषो यत्तं रक्षामि नेतरम् ॥ १ ॥  
@@ -78,10 +71,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY4MDM5OTA3Mzc
 
 --------------------------------------------------
 
-
 \\Z
-
-
-
 
 \]

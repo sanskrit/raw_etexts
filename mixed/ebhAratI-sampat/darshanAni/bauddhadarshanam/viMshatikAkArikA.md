@@ -12,17 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyMjgwMzE0NzU
 
 \[
 
-
-
-
-
-
-
 **॥ नमः सर्वबुद्धबोधिसत्त्वेभ्यः ॥**
 
-
 **विंशतिकाकारिका**
-
 
 विज्ञप्तिमात्रमेवैतदसदर्थावभासनात् ।  
 यथा तैमिरिकस्यासत्केशचन्द्रादिदर्शनम् ॥ १ ॥  
@@ -71,13 +63,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAyMjgwMzE0NzU
 
 **॥ विंशतिकाकारिकाः समाप्ताः ॥\\\\Z**
 
-
-
 **------------------------------------------**
-
-
-
-
-
 
 \]

@@ -12,14 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NjA1MTc4NTQ
 
 \[
 
-
-
-
-
 **(१०५)  
 पोषधस्थापनवस्तु**
-
-
 
 (१०७)  
 \<पोषधस्थापनवस्तूद्दानम्\* ।\>
@@ -116,8 +110,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NjA1MTc4NTQ
 
 **----------------------------------------------**  
 \\Z
-
-
-
 
 \]

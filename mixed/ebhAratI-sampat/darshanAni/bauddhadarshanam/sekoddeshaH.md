@@ -12,18 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2MzAyMTI3NTg
 
 \[
 
-
-
-
-
-
-
 **सेकोद्देशः**
 
-
-
 ओं नमः कालचक्राय
-
 
 सुचन्द्र आह -  
 सेकः सप्तविधः शास्तस्त्रिविधोऽनुत्तरस्तथा ।  
@@ -380,10 +371,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA2MzAyMTI3NTg
 **इति श्रीसेकोद्देशः समाप्तः।**
 
 **---------------------------------------------**
-
-
-
-
-
 
 \]

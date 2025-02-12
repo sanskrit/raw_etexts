@@ -12,16 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MjExNjc2NzM
 
 \[
 
-
-
-
-
-
 **सुखावतीव्यूहो नाम महायानसूत्रम् ॥**
 
 **संक्षिप्तमातृका ।**
-
-
 
 ॥ नमः सर्वज्ञाय ॥
 
@@ -67,13 +60,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY2MjExNjc2NzM
 
 **सुखावतीव्यूहो नाम महायानसूत्रम् ॥ संक्षिप्तमातृका ।**
 
-
-
 **------------------------------------------------------------**
-
-
-
-
-
 
 \]

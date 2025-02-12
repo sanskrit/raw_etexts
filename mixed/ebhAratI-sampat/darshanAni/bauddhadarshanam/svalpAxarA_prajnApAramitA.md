@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3NDIzNzU2NzE
 
 \[
 
-
-
-
-
 **स्वल्पाक्षरा प्रज्ञापारमिता।**
-
-
 
 नमः सर्वबुद्धबोधिसत्त्वेभ्यः॥
 
@@ -44,11 +38,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc3NDIzNzU2NzE
 
 **--------------------------------------------------------**
 
-
-
 Svalpākṣarā Prajñāpāramitā
-
-
 
 namaḥ sarvabuddhabodhisattvebhyaḥ\।\।
 
@@ -75,7 +65,6 @@ evamukte āryāvalokiteśvaro bodhisattvo mahāsattvo bhagavantametadavocat- ā�
 idamavocadbhagavān\। āttamanā āryāvalokiteśvaro bodhisattvo mahāsattvaḥ, te ca bhikṣavaste ca bodhisattvāḥ sā ca sarvāvatī parṣat sadevamānuṣāsuragandharvaśca loko bhagavato bhāṣitamabhyanandanniti\।\।
 
 svalpākṣarā prajñāpāramitā samāptā\।\।
-
 
 Om namo bhagavatayi arya prajna-paramita.  
 Om. I bow to the Mother of richness, the noble and perfect knowing, she who is gone beyond all horizons.
@@ -123,11 +112,6 @@ Their hearts gladdened, the noble Avalokitesvara, grounded in openness and vastn
 
 (And so these few words of the dignity of the perfect knowing gone beyond all horizons, the Generous Mother of Riches, are concluded. This the noble Nagarjuna reclaimed from the Potala, the underworld of the dragons.)
 
-
-
 **----------------------------------------------------------------**
-
-
-
 
 \]

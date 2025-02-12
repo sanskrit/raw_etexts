@@ -12,14 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg4NjM1ODM2Nzk
 
 \[
 
-
-
-
-
-
-
 **तथागतबिम्बकारापणसूत्रम्**
-
 
 (त्ब्क्स्२ १) स्सकोतूहलहृदया एवमूचु ।  
 अहो पुण्यफलप्रभावमिति महात्वं  
@@ -66,13 +59,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg4NjM1ODM2Nzk
 
 **॥ तथागतबिंबकारापणं सूत्रं समाप्तम्\* ॥**
 
-
-
 **----------------------------------------------------------------**
-
-
-
-
-
 
 \]

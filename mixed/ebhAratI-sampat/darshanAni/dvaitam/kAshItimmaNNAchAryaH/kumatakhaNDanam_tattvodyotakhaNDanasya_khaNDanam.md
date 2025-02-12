@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE3NjUzMDA0MDQ
 
 \[
 
-
-
    ॥ श्रीः ॥  
    कुमतखण्डनम्  
   महामहोपाध्यायैः काशी तिम्मण्याचार्यैर्विरचितम्  
@@ -331,8 +329,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE3NjUzMDA0MDQ
 इति श्रीमहामहोपाध्यायकाशीतिम्मण्णाचार्यविरचितं भट्टत्र्यम्बकशास्त्रिकृतश्रुतिमतोद्योतखण्डनात्मकं  
   कुमतखण्डनं सम्पूर्णम्  
    --------
-
-
-
 
 \]

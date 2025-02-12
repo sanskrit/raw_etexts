@@ -12,15 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM2NTE0ODc1MzM
 
 \[
 
-
-
-
-
-
-
 **वज्रविदारणा**
-
-
 
 नमो भगवत्य आर्यमहावज्रविदारणायै । नमो बुद्धाय ॥
 
@@ -68,14 +60,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM2NTE0ODc1MzM
 
 **इति श्री वज्रविदारणा नाम धारणीहृदयोपहृदयं मूलसूत्रं समाप्तम् ॥**
 
-
-
 **--------------------------------------------------------**
 
-
 **\\\\Z**
-
-
-
 
 \]

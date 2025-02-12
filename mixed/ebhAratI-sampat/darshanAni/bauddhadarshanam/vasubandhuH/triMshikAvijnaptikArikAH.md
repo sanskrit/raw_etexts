@@ -13,19 +13,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc1NjA1MzI2MTg
 
 \[
 
-
-
-
-
-
-
 ** अथ त्रिंशिकाविज्ञप्तिकारिकाः**
 
-
-
 ** कृतिरियमाचार्यवसुबन्धोः ।**
-
-
 
 आत्मधर्मोपचारो हि विविधो यः प्रवर्तते ।  
 विज्ञानपरिणामेऽसौ परिणामः स च त्रिधा ॥ १ ॥  
@@ -92,13 +82,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc1NjA1MzI2MTg
 
 **कृतिरियमाचार्यवसुबन्धोः ।\\Z**
 
-
-
 **-------------------------------------------**
-
-
-
-
-
 
 \]
