@@ -39,7 +39,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 | ७   | अनुस्मृति                 |
 | ७   | गजेन्द्रमोक्ष             |
 
-![](../books_images/U-IMG-1722347028li.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722347028li.JPG"/>
 
 चित्र-सूची
 
@@ -51,13 +51,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 | ४   | श्रीनारायणदेव      | ... अनुस्मृतिके      "      |
 | ५   | गजराजकी रक्षा      | ... गजेन्द्रमोक्षके     "    |
 
-![](../books_images/U-IMG-1722347282lin.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722347282lin.JPG"/>
 
 श्रीपरमात्मनेनमः
 
 ॥अथ गीतामाहात्म्यप्रारम्भः॥
 
-![](../books_images/U-IMG-1722347642lin.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722347642lin.JPG"/>
 
 धरोवाच
 
@@ -164,7 +164,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 एकं शास्त्रं देवकीपुत्रगीतमेको देवो देवकीपुत्र एव।  
 एको मन्त्रस्तस्य नामानि यानिकर्माप्येकं तस्य देवस्य सेवा॥७॥
 
-![](../books_images/U-IMG-1722349178Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722349178Capture2.JPG"/>
 
 **॥अथ श्रीमद्भगवद्गीताकरन्यासध्यानादि॥**
 
@@ -215,7 +215,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 
 [TABLE]
 
-# ![](../books_images/U-IMG-1722354424geeta.JPG)
+# <MISSING_FIG href="../books_images/U-IMG-1722354424geeta.JPG"/>
 
 **ॐ**
 
@@ -387,7 +387,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां  
 योगशास्त्रे श्रीकृष्णार्जुनसंवादेऽर्जुनविषादयोगो नाम प्रथमोऽध्यायः॥१॥
 
-![](../books_images/U-IMG-1722357159g1.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722357159g1.JPG"/>
 
 **अथ द्वितीयोऽध्यायः**
 
@@ -651,7 +651,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 योगशास्त्रे श्रीकृष्णार्जुनसंवादे सांख्ययोगो  
 नाम द्वितीयोऽध्यायः॥२॥
 
-**![](../books_images/U-IMG-1722389936Capture5.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722389936Capture5.JPG"/>**
 
 **अथ तृतीयोध्यायः**
 
@@ -1205,11 +1205,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे  
 श्रीकृष्णार्जुनसंवादे आत्मसंयमयोगो नाम षष्ठोऽध्यायः॥६॥
 
-![](../books_images/U-IMG-1722446157geet2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722446157geet2.JPG"/>
 
 **अथ सप्तमोऽध्यायः**
 
-**![](../books_images/U-IMG-1722446201geet3.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722446201geet3.JPG"/>**
 
 श्रीभगवानुवाच
 
@@ -1310,11 +1310,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्म  
 विद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे ज्ञानविज्ञानयोगो नाम सप्तमोऽध्यायः॥७॥
 
-![](../books_images/U-IMG-1722447214geet4.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722447214geet4.JPG"/>
 
 अथाष्टमोऽध्यायः
 
-![](../books_images/U-IMG-1722447735geet5.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722447735geet5.JPG"/>
 
 अर्जुन उवाच
 
@@ -1420,11 +1420,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 योगशास्त्रे श्रीकृष्णार्जुनसंवादे  
 अक्षरब्रह्मयोगो नामाष्टमोऽध्यायः॥८॥
 
-![](../books_images/U-IMG-1722475537geet5.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722475537geet5.JPG"/>
 
 अथ नवमोऽध्यायः
 
-![](../books_images/U-IMG-1722475850geet4.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722475850geet4.JPG"/>
 
 श्रीभगवानुवाच
 
@@ -1542,11 +1542,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 योगशास्त्रे श्रीकृष्णार्जुनसंवादे  
 राजविद्याराजगुह्ययोगो नाम नवमोऽध्यायः॥९॥
 
-![](#)![](../books_images/U-IMG-1722523173geete6.JPG)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1722523173geete6.JPG"/>
 
 **अथ दशमोऽध्यायः**
 
-![](../books_images/U-IMG-1722523216geete7.JPG)  
+<MISSING_FIG href="../books_images/U-IMG-1722523216geete7.JPG"/>  
 
 श्रीभगवानुवाच
 
@@ -1686,11 +1686,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां  
 योगशास्त्रे श्रीकृष्णार्जुनसंवादे विभूतियोगो नाम दशमोऽध्यायः॥१०॥
 
-![](../books_images/U-IMG-1722524690Capture5.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722524690Capture5.JPG"/>
 
 **अथैकादशोऽध्यायः**
 
-**![](../books_images/U-IMG-1722524976geete6.JPG)**  
+**<MISSING_FIG href="../books_images/U-IMG-1722524976geete6.JPG"/>**  
 
 अर्जुन उवाच
 
@@ -1972,11 +1972,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां  
 योगशास्त्रे श्रीकृष्णार्जुनसंवादे विश्वरूपदर्शनयोगो नामैकादशोऽध्यायः॥११॥
 
-![](../books_images/U-IMG-1722528185geet8.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722528185geet8.JPG"/>
 
 **अथ द्वादशोऽध्यायः**
 
-![](../books_images/U-IMG-1722528566geet9.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722528566geet9.JPG"/>
 
 अर्जुन उवाच
 
@@ -2049,7 +2049,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 
 **अथ त्रयोदशोऽध्यायः**
 
-**![](../books_images/U-IMG-1722531191Capture5.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722531191Capture5.JPG"/>**
 
 श्रीभगवानुवाच
 
@@ -2164,7 +2164,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 
 **अथ चतुर्दशोऽध्यायः**
 
-**![](../books_images/U-IMG-1722532164geet3.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722532164geet3.JPG"/>**
 
 श्रीभगवानुवाच
 
@@ -2262,7 +2262,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 
 **अथ पञ्चदशोऽध्यायः**
 
-![](../books_images/U-IMG-1722558523geete6.JPG)  
+<MISSING_FIG href="../books_images/U-IMG-1722558523geete6.JPG"/>  
 
 श्रीभगवानुवाच
 
@@ -2346,7 +2346,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 
 **अथ षोडशोऽध्यायः**
 
-**![](../books_images/U-IMG-1722559554geete6.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1722559554geete6.JPG"/>**
 
 श्रीभगवानुवाच
 
@@ -2431,7 +2431,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 
 अथ सप्तदशोऽध्यायः
 
-![](../books_images/U-IMG-1722561221geet11.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722561221geet11.JPG"/>
 
 अर्जुन उवाच
 
@@ -2528,10 +2528,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां  
 योगशास्त्रे श्रीकृष्णार्जुनसंवादे श्रद्धात्रयविभागयोगो  
 नाम सप्तदशोऽध्यायः॥१७॥  
-![](../books_images/U-IMG-1722562065geet12.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722562065geet12.JPG"/>
 
 **अथाष्टादशोऽध्यायः**  
-![](../books_images/U-IMG-1722562245geet3.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722562245geet3.JPG"/>
 
 अर्जुन उवाच
 
@@ -2787,20 +2787,20 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 योगशास्त्रे श्रीकृष्णार्जुनसंवादे मोक्षसंन्यासयोगो  
 नामाष्टादशोऽध्यायः॥१८॥  
 
-![](../books_images/U-IMG-1722564552geet3.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722564552geet3.JPG"/>
 
-# ![](../books_images/U-IMG-1722611346geet13.JPG)
+# <MISSING_FIG href="../books_images/U-IMG-1722611346geet13.JPG"/>
 
 [TABLE]
 
-# ![](../books_images/U-IMG-1722611705geet14.JPG)
+# <MISSING_FIG href="../books_images/U-IMG-1722611705geet14.JPG"/>
 
 **ॐ**  
 
 **श्रीपरमात्मने नमः**  
 
 **अथ श्रीविष्णुसहस्रनामस्तोत्रम्  
-![](../books_images/U-IMG-1722614307geet2.JPG)**
+<MISSING_FIG href="../books_images/U-IMG-1722614307geet2.JPG"/>**
 
 यस्य स्मरणमात्रेण जन्मसंसारबन्धनात्।  
 विमुच्यते नमस्तस्मै विष्णवे प्रभविष्णवे॥
@@ -3225,23 +3225,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 **विश्वेश्वरमजं देवं जगतः प्रभवाप्ययम्।  
 भजन्ति ये पुष्कराक्षं न ते यान्ति पराभवम्॥१४२॥**
 
-**![](../books_images/U-IMG-1722648751geet9.JPG)**  
+**<MISSING_FIG href="../books_images/U-IMG-1722648751geet9.JPG"/>**  
 
 **ॐ तत्सदिति श्रीमहाभारते शतसाहस्र्यांसंहितायां वैयासिक्यामानुशासनिके  
 पर्वणि भीष्मयुधिष्ठिरसंवादे  
 श्रीविष्णोर्दिव्यसहस्रनामस्तोत्रम्॥**
 
-**![](../books_images/U-IMG-1722648788geet3.JPG)  
+**<MISSING_FIG href="../books_images/U-IMG-1722648788geet3.JPG"/>  
 हरिः ॐ तत्सत् हरिः ॐ तत्सत् हरिः ॐ तत्सत्**
 
 [TABLE]
 
-![](../books_images/U-IMG-1722649210geet15.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722649210geet15.JPG"/>
 
 **श्रीपरमात्मने नमः**
 
 **भीष्मस्तवराजः  
-![](../books_images/U-IMG-1722649457Capture5.JPG)**
+<MISSING_FIG href="../books_images/U-IMG-1722649457Capture5.JPG"/>**
 
 जनमेजय उवाच
 
@@ -3634,16 +3634,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 इति श्रीमहाभारते शान्तिपर्वणि राजधर्मानुशासनपर्वणि भीष्मस्तवराजे  
 सप्तचत्वारिंशत्तमोऽध्यायः॥४७॥
 
-![](../books_images/U-IMG-1722790725geet8.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722790725geet8.JPG"/>
 
 [TABLE]
 
-![](../books_images/U-IMG-1722958048Capture17.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722958048Capture17.JPG"/>
 
 श्रीपरमात्मने नमः
 
 अथ अनुस्मृतिः  
-![](../books_images/U-IMG-1722958197Capture18.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722958197Capture18.JPG"/>
 
 शतानीक उवाच
 
@@ -3994,7 +3994,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 
 [TABLE]
 
-# ![](../books_images/U-IMG-1722993278Capture19.JPG)
+# <MISSING_FIG href="../books_images/U-IMG-1722993278Capture19.JPG"/>
 
 श्रीपरमात्मने नमः
 
@@ -4307,7 +4307,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
   वन्दाम्यहं लोकपतिं वरेण्यम्॥८४॥
 
 इति श्रीवामनपुराणे वामनप्रादुर्भावे गजेन्द्रमोक्षणं नाम पञ्चाशीतितमोऽध्यायः।  
-![](../books_images/U-IMG-1723047566geet8.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1723047566geet8.JPG"/>
 
 गीताप्रेस, गोरखपुर की पुस्तक-सूची
 
@@ -4532,7 +4532,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk2MTU2MDE5NjY
 | व्यापारसुधारकी आवश्यकताऔर व्यापारसे मुक्ति | हमारा कर्तव्य                                   | सतश्लोकी गीता                  |
 |                                             | ईश्वर साक्षात्कारके लियेनामजप सर्वोपरि साधन है | रामायणांक                      |
 
-![](#)![](../books_images/U-IMG-1723218543Capture.JPG)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1723218543Capture.JPG"/>
 
 **गीताप्रेस, गोरखपुरके छोटे, बड़े, रंगीन और सादे धार्मिक चित्र**
 

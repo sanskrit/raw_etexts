@@ -34,7 +34,7 @@ on “SITHASWAYAMVARAM”
 
 विषयानुक्रमः
 
-![](../books_images/U-IMG-1731385980111101-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-1731385980111101-removebg-preview(1"/>.png)
 
 |                           |
 |:-------------------------:|
@@ -172,7 +172,7 @@ Bangalore
 
 |                                                                     |
 |---------------------------------------------------------------------|
-| ![](../books_images/U-IMG-1731386364111101-removebg-preview(1).png) |
+| <MISSING_FIG href="../books_images/U-IMG-1731386364111101-removebg-preview(1"/>.png) |
 
 ॥श्री॥
 
@@ -226,11 +226,11 @@ Bangalore
 
 ॥समाप्तम्॥
 
-![](../books_images/U-IMG-1731912053111101-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-1731912053111101-removebg-preview(1"/>.png)
 
 |                                                                     |
 |:-------------------------------------------------------------------:|
-| ![](../books_images/U-IMG-1731386461111101-removebg-preview(1).png) |
+| <MISSING_FIG href="../books_images/U-IMG-1731386461111101-removebg-preview(1"/>.png) |
 
 **श्रीराधाकृष्णः**
 
@@ -287,7 +287,7 @@ Bangalore
 
 ॥समाप्तम्॥
 
-![](../books_images/U-IMG-1731576061111101-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1731576061111101-removebg-preview.png"/>
 
 **॥३. दीनबन्धुआण्ड्रूसचरितम्॥**  
 
@@ -364,7 +364,7 @@ Bangalore
 
 |                                                                  |
 |:----------------------------------------------------------------:|
-| ![](../books_images/U-IMG-1731386748111101-removebg-preview.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1731386748111101-removebg-preview.png"/> |
 
 श्रीबालगङ्गाधरतिलकः
 
@@ -421,7 +421,7 @@ Bangalore
 
 |                                                 |
 |:-----------------------------------------------:|
-| ![](../books_images/U-IMG-1731386618111101.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1731386618111101.png"/> |
 
 **स्वामी श्रीविवेकानन्दः**
 
@@ -594,7 +594,7 @@ Bangalore
 नव्यकीर्तिशोभितास्सुदिव्यकान्तिराजिता-  
 स्त भवन्ति मातृभक्तिपूर्णमानसा ध्रुवम्॥१२॥
 
-![](../books_images/U-IMG-1731495131ooooo.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731495131ooooo.jpg"/>
 
 |              |              |
 |:------------:|:------------:|

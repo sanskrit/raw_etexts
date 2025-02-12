@@ -28,7 +28,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjEyNDA4Nzk1NDY
 
 **\_\_\_\_\_\_\_\_\_**
 
-_(![](../books_images/U-IMG-1733302284111101-removebg-preview__1_-removebg-preview-removebg-preview.png))MONG the priceless teachings that may be foundin the great Hindu poem of the *Mahâbhârata*,there is none so rare and precious as this--"The Lord'sSong." Since it fell from the divine lips of ShriKrishna on the field of battle, and stilled the surgingemotions of his disciple and friend, how many troubledhearts has it quieted and strengthened, how manyweary souls has it led to Him! It is meant to lift theaspirant from the lower levels of renunciation, whereobjects are renounced, to the loftier heights wheredesires are dead, and where the Yogi dwells in caimand ceaseless contemplation, while his body and mindare actively employed in discharging the duties thatfall to his lot in life. That the spiritual man need notbe a recluse, that union with the divine Life may beachieved and maintained in the midst of worldlyaffairs, that the obstacles to that union lie not outsideus but within us-such is the central lesson of theBHAGAVAD-GITA.
+_(<MISSING_FIG href="../books_images/U-IMG-1733302284111101-removebg-preview__1_-removebg-preview-removebg-preview.png"/>)MONG the priceless teachings that may be foundin the great Hindu poem of the *Mahâbhârata*,there is none so rare and precious as this--"The Lord'sSong." Since it fell from the divine lips of ShriKrishna on the field of battle, and stilled the surgingemotions of his disciple and friend, how many troubledhearts has it quieted and strengthened, how manyweary souls has it led to Him! It is meant to lift theaspirant from the lower levels of renunciation, whereobjects are renounced, to the loftier heights wheredesires are dead, and where the Yogi dwells in caimand ceaseless contemplation, while his body and mindare actively employed in discharging the duties thatfall to his lot in life. That the spiritual man need notbe a recluse, that union with the divine Life may beachieved and maintained in the midst of worldlyaffairs, that the obstacles to that union lie not outsideus but within us-such is the central lesson of theBHAGAVAD-GITA.
 
  It is a scripture of Yoga; now Yoga is literallyunion, and it means harmony with the divine Law,the becoming one with the divine Life, by the subdualof all outward-going energies, To reach this, balance
 
@@ -62,7 +62,7 @@ Nov. 1907.
 
 G. A. NATESAN
 
-![](../books_images/U-IMG-1733237961Screenshot2024-12-03202836.png)  
+<MISSING_FIG href="../books_images/U-IMG-1733237961Screenshot2024-12-03202836.png"/>  
 
 **ॐ**
 
@@ -202,7 +202,7 @@ Know further all those who are our chiefs, Obest of the twice-born, tho loaders 
 
  1.Pânchajanya, Shri Krishna's conch, was madefrom the bones of the giant Panchajana, slain by him.The title Hrishîkesha is "Lord of the senses." Dhananjaya, the "conqueror of wealth," is a title often givento Arjuna, whose conch is the "God given."
 
- The King Yudhishthira, the son of Kuntî,blew Anantavijaya; Nakula and Sahadeva,Sughosha and Manipushpaka[^15](16)
+ The King Yudhishthira, the son of Kuntî,blew Anantavijaya; Nakula and Sahadeva,Sughosha and Manipushpaka[^15] (16)
 
 [^15]: " The conches of the remaining three brothers werenamed respectively "
 
@@ -309,7 +309,9 @@ Arjuna said:
 **निमित्तानि च पश्यामि विपरीतानि केशव।  
 न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे॥३१॥**
 
- And I see adverse omens, O [Keshava](#).Nordo I foresee any advantage from slaying kinsmenin battle. (31)
+ And I see adverse omens, O Keshava[^369].Nordo I foresee any advantage from slaying kinsmenin battle. (31)
+
+[^369]: #
 
 **न काङ्क्षेविजयं कृष्ण न च राज्यं सुखानि च।  
 किं नो राज्येन गोविन्द किं भोगेर्जीवितेन वा॥३२॥**
@@ -338,7 +340,9 @@ mother's brothers, fathers-in-law, grandsons, brothers-in-law, and other relativ
 **निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन।  
 पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः॥३६॥**
 
-Slaying these sons of Dhritarâshtra, what pleasure can be ours, O [Janârdana](#)?Killing thesedesperadoes, sin will but take hold of us. (36)
+Slaying these sons of Dhritarâshtra, what pleasure can be ours, O Janârdana[^370]?Killing thesedesperadoes, sin will but take hold of us. (36)
+
+[^370]: #
 
 **तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्।  
 स्वजनं हि कथं हत्वा सुखिनः स्याम माधव॥३७॥**
@@ -395,8 +399,6 @@ family traditions[^21]perish; in the perishing oftradition, lawlessness overcome
 नरके नियतं वासो भवतीत्यनुशुश्रुम॥४४॥**
 
  The abode of the men whose family customs\*[^23]are extinguished, O Jar ârdana, is everlastingly inhell. Thus have we heard. (44)
-
-[^23]: "Dharma."
 
 **अह्नोबत महत्पापं कर्तुं व्यवसिता वयम्।  
 यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः॥४५॥**
@@ -495,8 +497,6 @@ Nor know I which for us be the better, thatwe conquer them or they conquer us-th
 शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्॥७॥**
 
  My heart is weighed down with the vice offaintness; my mind is confused as to duty[^23].I askthee which may be the better—that tell medecisively. I am thy disciple, suppliant to Thee ;teach me.(7)
-
-[^23]: "Dharma."
 
 **न हि प्रपश्यामि ममापनुद्याद्-  
 यच्छोकमुच्छोषणमिन्द्रियाणाम्।  
@@ -644,8 +644,6 @@ born and constantly dying, even then, O mightyarmed, thou shouldst not grieve.(2
 
  Further, looking to thine own duty[^23]thoushouldst not tremble; for there is nothing morewelcome to a Kshattriya[^35]than righteous war.(31)
 
-[^23]: "Dharma."
-
 [^35]: "A person of the second, the warrior, caste."
 
 **यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम्।  
@@ -657,8 +655,6 @@ born and constantly dying, even then, O mightyarmed, thou shouldst not grieve.(2
 ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि॥३३॥**
 
  But if thou wilt not carry on this righteouswarfare, then casting away thine own duty[^23]andthino honour, thou wilt incur cin.(33)
-
-[^23]: "Dharma."
 
 **अकीर्ति चापि भूतानि कथयिष्यन्ति तेऽव्ययाम्।  
 सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते॥३४॥**
@@ -703,8 +699,6 @@ Slain, thou wilt obtain heaven ; victorious,thou wilt enjoy the earth; therefore
 
  In this there is no loss of effort, nor is theretransgression. Even a little of this knowledge[^23]protects from great fear. (40)
 
-[^23]: "Dharma."
-
 **व्ययसायात्मिका बुद्धिरेकेह कुरुनन्दन।  
 बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्॥४१॥**
 
@@ -731,7 +725,7 @@ O joy of the Kurus; many-branched and endlessare the thoughts of the irresolute.
 **भोगैश्वर्यप्रसक्तानां तयाऽपहृतचेतसाम्।  
 व्यवसायात्मिका बुद्धिः समाधौ न विधीयते॥४४॥**
 
- For them who cling to pleasure and lordship,whose minds are captivated by such teaching, isnot designed this determinate Reason[^44],on contemplation[^45]steadily bent.¹[^46](44)
+ For them who cling to pleasure and lordship,whose minds are captivated by such teaching, isnot designed this determinate Reason[^44],on contemplation[^45]steadily bent.¹[^46] (44)
 
 [^44]: "Buddhi."
 
@@ -778,8 +772,6 @@ thou above these three attributes, O Arjuna ; beyond the pairs of opposites, eve
 
  Far lower than the Yoga of Discrimination[^51] of Atma")is action, O Dhananjaya. Take thou refuge inthe Pure Reason[^44]; pitiable are they who workfor fruit. (49)
 
-[^44]: "Buddhi."
-
 [^51]: "Union with Buddhi, the innermost sheath (orvehicle
 
 **बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।  
@@ -787,14 +779,10 @@ thou above these three attributes, O Arjuna ; beyond the pairs of opposites, eve
 
  United to the Pure Reason[^44]one abandonethhere both good and evil deeds; therefore cleavethou to yoga ; yoga is skill in action.(50)
 
-[^44]: "Buddhi."
-
 **कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः।  
 जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्॥५१॥**
 
  The Sages, united to the Pure Reason[^44],
-
-[^44]: "Buddhi."
 
 renounce the fruit which action yieldeth, and,liberated from the bonds of birth, they go tothe blissful seat.(51)
 
@@ -803,14 +791,10 @@ renounce the fruit which action yieldeth, and,liberated from the bonds of birth,
 
  When thy mind[^44]shall escape from this tangleof delusion, then thou shalt rise to indifference asto what has been heard and shall be heard.(52)
 
-[^44]: "Buddhi."
-
 **श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला।  
 समाधावचला बुद्धिस्तदा योगमवाप्स्यसि॥५३॥**
 
 When thy mind[^44], bewildered by the Scriptures[^57], shall stand immovable, fixed in contemplation, then shalt thou attain unto yoga¹[^58].(53)
-
-[^44]: "Buddhi."
 
 [^57]: "Sruti."
 
@@ -843,8 +827,6 @@ When thy mind[^44], bewildered by the Scriptures[^57], shall stand immovable, fi
 
  When a man abandoneth, O Pârtha, all the desires of the heart[^61], and is satisfied in the SELF bythe SELF, then is he called stable in mind[^59].(55)
 
-[^59]: "Prajnâ."
-
 [^61]: "Manah."
 
 **दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।  
@@ -855,8 +837,6 @@ When thy mind[^44], bewildered by the Scriptures[^57], shall stand immovable, fi
 [^63]: "Prajna."
 
 passion, fear and anger, is called a sage[^64]of stablemind[^60].(56)
-
-[^60]: "Dhî."
 
 [^64]: "A Muni, ie, a saint or ascetic : in its originalmeaning, one who observed the vow of silence."
 
@@ -872,8 +852,6 @@ passion, fear and anger, is called a sage[^64]of stablemind[^60].(56)
 
  When, again, as a tortoise draws in on all sidesits limbs, he withdraws his senses from the objects of sense, then is his understanding[^59]wellpoised.(58)
 
-[^59]: "Prajnâ."
-
 **विषया विनिवर्तन्ते निराहारस्य देहिनः।  
 रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते॥५९॥**
 
@@ -886,14 +864,10 @@ The objects of sense, but not the relish forthem[^68], turn away from an abstemi
 
  O son of Kuntî, the excited senses of even awise man, though he be striving, impetuouslycarry away his mind[^61].(60)
 
-[^61]: "Manah."
-
 **तानि सर्वाणि संयम्य युक्त आसीत मत्परः।  
 वश हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता॥६१॥**
 
  Having restrained them all, he should sit harmonised, I his supreme goal; for, whose sensesare mastered, of him the understanding[^59]is wellpoised.(61)
-
-[^59]: "Prajnâ."
 
 **ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते।  
 सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते॥६२॥**
@@ -1155,8 +1129,6 @@ For him there is no interest in things done, in this world, nor any in things no
 
 ties[^80] of nature only. The self, deluded by egoism[^89]thinketh: "I am the doer."(27)
 
-[^80]: "* Gunas."
-
 [^89]: "+Ahamkâra, the separate I am"
 
 **तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः।  
@@ -1257,9 +1229,7 @@ The Blessed Lord said:
 **इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः।  
 मनसस्तु परा बुद्धिर्योबुद्धेः परतस्तु सः॥४२॥**
 
- It is said that the senses are great; greater than the senses is the mind[^95]greater than the mind is the Reason[^74]but what is greater than the Reason[^74]is He[^98](42
-
-[^74]: "+ Buddhi."
+ It is said that the senses are great; greater than the senses is the mind[^95]greater than the mind is the Reason[^74]but what is greater than the Reason[^74]is He[^98] (42
 
 [^95]: "*Manah."
 
@@ -1324,7 +1294,7 @@ The Blessed Lord said:
 
  Though unborn, the imperishable SELF, and also the Lord of all beings, brooding over nature
 
-which is Mine own, yet I am born through My own\_Power[^100](6)
+which is Mine own, yet I am born through My own\_Power[^100] (6)
 
 [^100]: "* Mâyâ"
 
@@ -1341,8 +1311,6 @@ which is Mine own, yet I am born through My own\_Power[^100](6)
 धर्मसंस्थापनार्थाय सम्भवामि युगे युगे॥८॥**
 
  For the protection of the good, for the destrution of evil-doers, for the sake of firmly establishing righteousness[^101]I am born from age to age. (8)
-
-[^101]: "+ Dharma."
 
 **जन्म कर्म च मे दिव्यमेवंयो वेत्ति तत्त्वतः।**
 
@@ -1377,8 +1345,6 @@ which is Mine own, yet I am born through My own\_Power[^100](6)
 तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम्॥१३॥**
 
  The four castes were emanated by Me, by the different distribution of qualities[^80] and actions ; know Me to be the author of them, though the actionless and inexhaustible. (13)
-
-[^80]: "* Gunas."
 
 **न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा।  
 इति मां योऽभिजानाति कर्मभिर्न स बद्ध्यते ॥१४॥**
@@ -1435,7 +1401,7 @@ which is Mine own, yet I am born through My own\_Power[^100](6)
 
  The ETERNAL the oblation, the ETERNAL the clarified butter, are offered in the ETERNAL the
 
-fire by the ETERNAL; unto the ETERNAL verily shall he go who in his action meditateth wholly upon the ETERNAL[^106](24)
+fire by the ETERNAL; unto the ETERNAL verily shall he go who in his action meditateth wholly upon the ETERNAL[^106] (24)
 
 [^106]: "* He who sees the ETERNAL beneath the transi-tory alone goes to the ETERNAL; all others remain bound in the world of forms."
 
@@ -1466,7 +1432,7 @@ fire by the ETERNAL; unto the ETERNAL verily shall he go who in his action medit
 
  Yet others pour as sacrifice the outgoing breath in the incoming, and the incoming in the out- going, restraining the flow of the outgoing and
 
-incoming breaths, solely absorbed in the control of breathing[^108](29)
+incoming breaths, solely absorbed in the control of breathing[^108] (29)
 
 [^108]: "* Prânâyâma, restraint of breath, a technical name for this practice."
 
@@ -1630,10 +1596,6 @@ the eyes, he holdeth: "The senses move among the objects of the senses."(9)
 
  Yogis, having abandoned attachment, perform action only by the body, by the mind[^61]by theReason[^74] †, and even by the senses, for the purifi cation of the self. (11)
 
-[^61]: "Manah."
-
-[^74]: "+ Buddhi."
-
 **युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम्।  
 अयुक्तः कामकारेण फले सक्तो निबध्यते॥१२॥**
 
@@ -1675,7 +1637,7 @@ yet the well-doing of any. Wisdom is enveloped by unwisdom ; therewith mortals a
 
  Sages look equally on a Brâhmana adorned
 
-with learning and humility, a cow, an elephant, and even a dog and an outcaste[^120](18)
+with learning and humility, a cow, an elephant, and even a dog and an outcaste[^120] (18)
 
 [^120]: "*Shvapâka, the lowest class of outcastes."
 
@@ -1690,8 +1652,6 @@ with learning and humility, a cow, an elephant, and even a dog and an outcaste[^
 स्थिरबुद्धिरसंमूढो ब्रह्मविद्ब्रह्मणि स्थितः॥२०॥**
 
  With Reason[^74] firm, unperplexed, the knower of the ETERNAL established in the ETERNAL, neither rejoiceth on obtaining what is pleasant, nor sorroweth on obtaining what is unpleasant. (20)
-
-[^74]: "+ Buddhi."
 
 **बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम्।  
 स ब्रह्मयोगयुक्तात्मा सुखमक्षय्यमश्नुते॥२१॥**
@@ -1718,12 +1678,16 @@ with learning and humility, a cow, an elephant, and even a dog and an outcaste[^
 **लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः।  
 छिन्नद्वैधा यतात्मानःसर्वभूतहिते रताः॥२५II**
 
- Rishis, their sins destroyed, their duality re-moved, their selves controlled, intent upon the welfare of all beings, obtain the [Peace](#)of the ETERNAL,(25)
+ Rishis, their sins destroyed, their duality re-moved, their selves controlled, intent upon the welfare of all beings, obtain the Peace[^371]of the ETERNAL,(25)
+
+[^371]: #
 
 **कामक्रोधवियुक्तानां यतीनां यतचेतसाम्।  
 अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम्॥२६॥**
 
- The [Peace](#) of the ETERNAL lies near to those who know themselves, who are disjoined from desire and passion, subdued in nature, of subdued thoughts. (26)
+ The Peace[^372] of the ETERNAL lies near to those who know themselves, who are disjoined from desire and passion, subdued in nature, of subdued thoughts. (26)
+
+[^372]: #
 
 **स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः।  
 प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ॥२७॥**
@@ -1734,10 +1698,6 @@ with learning and humility, a cow, an elephant, and even a dog and an outcaste[^
 विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः॥२८॥**
 
  With senses, mind[^82]and Reason[^74] ever con-trolled, solely pursuing liberation, the Sage,having for ever cast away desire, fear and passion, verily is liberated. (28)
-
-[^74]: "+ Buddhi."
-
-[^82]: "* Manah."
 
 **भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम्।  
 सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति॥२९॥**
@@ -1838,8 +1798,6 @@ made of a cloth, a black antelope skin, and kusha ; grass, one over the other ;(
 
  There, having made the mind \*[^82] one-pointed, with thought and the functions of the senses subdued, steady on his seat, he should practise yoga for the purification of the self.(12)
 
-[^82]: "* Manah."
-
 **समं कायशिरोग्रीवं धारयन्नचलं स्थिरः।  
 संप्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन्॥१३॥**
 
@@ -1897,8 +1855,6 @@ Brahmachâri[^133]the mind controlled, thinking on Me, harmonised, let him sit a
 
  That in which he findeth the supreme delight which the Reason[^79]can grasp beyond the senses, wherein established he moveth not from the Reality ; (21)
 
-[^79]: "* Buddhi,"
-
 **यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः।  
 यस्मिन्स्थितो न दुःखेन गुरुणाऽपि विचाल्यते॥२२॥**
 
@@ -1925,8 +1881,6 @@ Brahmachâri[^133]the mind controlled, thinking on Me, harmonised, let him sit a
 
  Little by little let him gain tranquillity, by means of Reason[^140]controlled by steadiness; having made the mind[^139] abide in the SELF, let him not think of anything.(25)
 
-[^139]: " Manah"
-
 [^140]: "Buddhi"
 
 **यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्।  
@@ -1934,14 +1888,10 @@ Brahmachâri[^133]the mind controlled, thinking on Me, harmonised, let him sit a
 
  As often as the wavering and unsteady mind[^139]goeth forth, so often reining it in, let him bring it under the control of the SELF.(26)
 
-[^139]: " Manah"
-
 **प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम्।  
 उपैति शान्तरजसं ब्रह्मभूतमकल्मषम्॥२७॥ **
 
  Supreme joy is for this Yogi whose mind[^139]is
-
-[^139]: " Manah"
 
 peaceful, whose passion-nature is calmed, who is sinless and of the nature of the ETERNAL.(27)
 
@@ -1984,8 +1934,6 @@ peaceful, whose passion-nature is calmed, who is sinless and of the nature of th
 
  For the mind \*[^82] is verily restless, O Krishna ; it is impetuous, strong and difficult to bend, I deem it as hard to curb as the wind.(34)
 
-[^82]: "* Manah."
-
 **श्रीभगवानुवाच।**
 
 **असंशयं महाबाहो मनो दुर्निग्रहं चलम्।  
@@ -2010,8 +1958,6 @@ The Blessed Lord said:
 Arjuna said :
 
  He who is unsubdued but who possesseth faith, with the mind\*[^82] wandering away from yoga, fail -ing to attain perfection in yoga, whatpath doth he tread, O Krishna?
-
-[^82]: "* Manah."
 
 **कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिवनश्यति।  
 अप्रतिष्ठोमहाबाहो विमूढो ब्रह्मणः पथि॥३८॥**
@@ -2155,8 +2101,6 @@ liance in fire am I; the life in all beings am I, and the austerity in ascetics.
 
  Know Me, O Pârtha! as the eternal seed of all beings. I am the Reason[^79]of the Reason[^156] endow-ed, the splendour of splendid things am I.(10)
 
-[^79]: "* Buddhi,"
-
 [^156]: "* Buddhi, "
 
 **बलं बलवतामस्मि कामरागविवर्जितम्।  
@@ -2183,16 +2127,18 @@ liance in fire am I; the life in all beings am I, and the austerity in ascetics.
 **दैवी ह्येषा गुणमयी मम माया दुरत्यया।  
 मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते॥१४॥**
 
- This divine illusion[^160] of Mine, caused by the qualities[^161][](#)is hard to pierce ; they who come to Me,they cross over this illusion[^160](14)
+ This divine illusion[^160] of Mine, caused by the qualities[^161][][^373]is hard to pierce ; they who come to Me,they cross over this illusion[^160] (14)
 
 [^160]: "Maya"
 
 [^161]: "* Gunas. + Maya. + Asuras, the opponents of the Suras or gods,"
 
+[^373]: #
+
 **न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः।  
 माययाऽपहृतज्ञाना आसुरं भावमाश्रिताः॥१५॥**
 
- The evil-doing, the deluded, the vilest men, they come not to Me, they whose wisdom is destroyed by illusion[^163]who have embraced the nature of demons[^164](15)
+ The evil-doing, the deluded, the vilest men, they come not to Me, they whose wisdom is destroyed by illusion[^163]who have embraced the nature of demons[^164] (15)
 
 [^163]: "Mâyâ"
 
@@ -2246,8 +2192,6 @@ liance in fire am I; the life in all beings am I, and the austerity in ascetics.
 
  Those devoid of Reason \*[^99] think of Me, the un-manifest, as having manifestation, knowing not My supreme nature, imperishable, most excellent.(24)
 
-[^99]: "* Buddhi."
-
 **नाहं प्रकाशः सर्वस्य योगमायासमावृतः।  
 मूढोऽयं नाभिजानाति लोको मामजमव्ययम्॥२५॥**
 
@@ -2278,7 +2222,7 @@ liance in fire am I; the life in all beings am I, and the austerity in ascetics.
 **साधिभूताधिदैवं मां साधियज्ञं च ये विदुः।  
 प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः॥३०॥**
 
- They who know Me as the knowledge of the elements, as that of the Shining Ones, and as that of the Sacrifice[^168]they harmonised in mind, know Me verily even in the time of forthgoing.[^169](30)
+ They who know Me as the knowledge of the elements, as that of the Shining Ones, and as that of the Sacrifice[^168]they harmonised in mind, know Me verily even in the time of forthgoing.[^169] (30)
 
 [^168]: " These six terms are: Brahman, Adhyâtma, Karma, Adbibhûta, Adhidaiva, Adhiyajña"
 
@@ -2328,9 +2272,7 @@ Arjuna said :
 
 The Blessed Lord said:
 
- The indestructible, the supreme is the ETER-NAL[^176]His essential nature is called SELF-know- ledge[^171]the emanation that causes the birth of beings is named Action[^178](3)
-
-[^171]: "Adhyâtma."
+ The indestructible, the supreme is the ETER-NAL[^176]His essential nature is called SELF-know- ledge[^171]the emanation that causes the birth of beings is named Action[^178] (3)
 
 [^176]: "* Brahman"
 
@@ -2340,8 +2282,6 @@ The Blessed Lord said:
 अधियज्ञोऽहमेवात्र देहे देहभृतां वर॥४॥**
 
  Knowledge of the Elements[^173]concerns My perishable nature, and knowledge of the Shining Ones[^180] concerns the life-giving energy[^181]; the knowledge of Sacrifice[^182]tells of Me, as wearing the body, O best of living beings.(4)
-
-[^173]: " Adhibhûta."
 
 [^180]: "Adhidaiva."
 
@@ -2483,8 +2423,6 @@ not, and also that wherein going forth they a return, that time shall I declare 
 
  Smoke, night-time, the dark fortnight also, the six months of the southern path\*[^192]—then the Yogî, obtaining the moonlight, +[^194] returneth,(25)
 
-[^192]: "* Of the sun. "
-
 [^194]: "The Lunar, or astral body. Until this is slain the soul returns to birth."
 
 **शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते।  
@@ -2570,7 +2508,7 @@ Parantapa, not reaching Me, return to the paths of this world of death.(3)
 **प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः।  
 भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात्॥८॥**
 
- Hidden in Nature[^201]which is mine own, I emanate again and again all this multitude of beings, helpless, by the force of Nature[^201](8)
+ Hidden in Nature[^201]which is mine own, I emanate again and again all this multitude of beings, helpless, by the force of Nature[^201] (8)
 
 [^201]: "Prakriti"
 
@@ -2583,8 +2521,6 @@ Parantapa, not reaching Me, return to the paths of this world of death.(3)
 हेतुनाऽनेन कौन्तेय, जगद्विपरिवर्तते॥१०॥**
 
  Under Me as supervisor, Nature[^201]sends forth
-
-[^201]: "Prakriti"
 
 the moving and unmoving: because of this, O Kaunteya, the universe revolves.(10)
 
@@ -2605,15 +2541,11 @@ the moving and unmoving: because of this, O Kaunteya, the universe revolves.(10)
 
  Verily the Mahâtmâs, O Partha, partaking of My divine nature,\*[^204] worship with unwavering
 
-[^204]: "* Prakriti. The Tamasic Guna, or the dark quality of Prakriti, characterises the beings here spoken of as rakshasic and asuric. Rakshasas were semi-human beirgs, brutal and bloodthirsty; Asuras were the oppo- nents of the Devas. 5"
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \* Prakriti. The Tamasic Guna, or the dark quality of Prakriti, characterises the beings here spoken of as rakshasic and asuric. Rakshasas were semi-human beirgs, brutal and bloodthirsty; Asuras were the opponents of the Devas.
 
 mind,\*[^95]having known Me, the imperishable source of beings.(13)
-
-[^95]: "*Manah."
 
 **सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः।  
 नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते॥१४॥**
@@ -2633,7 +2565,7 @@ mind,\*[^95]having known Me, the imperishable source of beings.(13)
 **पिताऽहमस्य जगतो माता धाता पितामहः।  
 वेद्यं पवित्रमोङ्कार ऋक् साम यजुरेव च॥१७॥**
 
- I the Father of this universe, the Mother, the Supporter, the Grandsire, the Holy one to be know n, the Word of Power, \*[^207] and also the Rik, Sâma, and Yajur,+[^208](17)
+ I the Father of this universe, the Mother, the Supporter, the Grandsire, the Holy one to be know n, the Word of Power, \*[^207] and also the Rik, Sâma, and Yajur,+[^208] (17)
 
 [^207]: "* Aumkara, the Sacred Word, Aum."
 
@@ -2754,8 +2686,6 @@ devoted royal saints; having obtained this tran-sient joyless world, worship tho
 
  On Me fix thy mind,\*[^82] be devoted to Me; sacrifice to Me; prostrate thyself before Me; harmonis ed thus in the SELF, thou shalt come unto Me, having Me as thy supreme goal.(34)
 
-[^82]: "* Manah."
-
 **इति श्रीमद्भगवद्गीता०राजविद्याराजगुह्ययोगो नाम नवमो**  
 **ऽध्यायः**
 
@@ -2797,8 +2727,6 @@ The Blessed Lord said:
 सुखं दुःखं भवोऽभावो भयं चाभयमेव च॥४॥**
 
  Reason,\*[^99] wisdom, non-illusion, forgiveness, truth, self-restraint, calmness, pleasure, pain, existence, non-existence, fear, and also courage (4)
-
-[^99]: "* Buddhi."
 
 **हिंसा समता तुष्टिस्तपो दानं यशोऽयशः।  
 भवन्ति भावा भूतानां मत्त एव पृथग्विधाः॥५॥**
@@ -2905,8 +2833,6 @@ The Blessed Lord said:
 इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना॥२२॥**
 
  Of the Vedas I am theSâma-Veda; I amVâsava of the Shining Ones; and of the senses I am the mind[^82] I am of living beings the intelligence[^225].(22)
-
-[^82]: "* Manah."
 
 [^225]: "+ Chetana."
 
@@ -3110,7 +3036,7 @@ the two Ashvins and also the Maruts[^241]behold many marvels never seen ere this
 
 Sanjaya said :
 
- Having thus spoken, O King, the great Lord of Yoga, Hari, showed to Pârtha His supreme Form as Lord[^242](9)
+ Having thus spoken, O King, the great Lord of Yoga, Hari, showed to Pârtha His supreme Form as Lord[^242] (9)
 
 [^242]: "* Ishvara."
 
@@ -3492,8 +3418,6 @@ The Blessed Lord said:
 
  They who with mind[^82]fixed on Me ever har-monised worship Me, with faith supreme endowed, these, in My opinion, are best in yoga.(2)
 
-[^82]: "* Manah."
-
 **ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते।  
 सर्वत्रगमचिन्त्यं च कूटस्थमचलं ध्रुवम्॥३॥**
 
@@ -3525,8 +3449,6 @@ The Blessed Lord said:
 निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः॥८॥**
 
  Place thy mind[^247] in me, into Me let thy Reason[^74] enter; then without doubt thou shalt abide in Me hereafter. (8)
-
-[^74]: "+ Buddhi."
 
 [^247]: ". + Manah."
 
@@ -3565,10 +3487,6 @@ than meditation, renunciation of the fruit of action; on renunciation follows pe
 मय्यर्पितमनोबुद्धिर्योमे भक्तः स मे प्रियः॥१४॥**
 
  Ever content, harmonious, with the self-controlled, resolute, with mind[^82]and Reason[^74] dedicated to Me, he, My devotee, is dear to Me.(14)
-
-[^74]: "+ Buddhi."
-
-[^82]: "* Manah."
 
 **यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।  
 हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः॥१५॥**
@@ -3656,8 +3574,6 @@ The Blessed Lord said:
 
  The great Elements, Individuality[^256]
 Reason[^74]and also the unmanifested, the ten senses and the one, and the five pastures of the senses[^258];(6)
-
-[^74]: "+ Buddhi."
 
 [^256]: "* Ahañkara"
 
@@ -3747,8 +3663,6 @@ distributively; THAT is to be known as the supporter of beings; He devours and H
 
  Know thou that Matter[^263]and Spirit[^264]are both without beginning; and know thou also that modifications and qualities[^265] are all Matter[^201] born.(20)
 
-[^201]: "Prakriti"
-
 [^263]: "Prakriti."
 
 [^264]: " Purusha,"
@@ -3760,25 +3674,15 @@ distributively; THAT is to be known as the supporter of beings; He devours and H
 
  Matter[^263] is called the cause of the generation of causes and effects; Spirit[^264] is called the cause of the enjoyment of pleasure and pain. (21)
 
-[^263]: "Prakriti."
-
-[^264]: " Purusha,"
-
 **पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान्।  
 कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु॥२२॥**
 
  Spirit[^264] seated in Matter[^263]useth the qualities[^265]born of Matter[^263]; attachment to the qualities[^265]is the cause of his births in good and evil wombs. (22)
 
-[^263]: "Prakriti."
-
-[^264]: " Purusha,"
-
-[^265]: "Gunas,"
-
 **उपद्रष्टाऽनुमन्ता च भर्ता भोक्ता महेश्वरः।  
 परमात्मेति चाप्युक्तो देहेऽस्मिन्पुरुषः परः॥२३॥**
 
- Supervisor and permitter, supporter, enjoyer, the great Lord, and also the supreme SELF; thus is styled in this body the supreme Spirit,[^274](23)
+ Supervisor and permitter, supporter, enjoyer, the great Lord, and also the supreme SELF; thus is styled in this body the supreme Spirit,[^274] (23)
 
 [^274]: "prakriti"
 
@@ -3786,8 +3690,6 @@ distributively; THAT is to be known as the supporter of beings; He devours and H
 सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते॥२४॥**
 
  He who thus knoweth Spirit[^275]and Matter[^263] with its qualities,[^277] in whatsoever condition he may be, he shall not be born again.(24)
-
-[^263]: "Prakriti."
 
 [^275]: "Purusha,"
 
@@ -3826,8 +3728,6 @@ SELF, and thus treads the highest Path, (29)
 
  He who seeth that Matter[^263]verily performeth all actions, and that the SELF is actionless, he seeth.(30)
 
-[^263]: "Prakriti."
-
 **यदा भूतपृथग्भावमेकस्थमनुपश्यति।  
 तत एव च विस्तारं ब्रह्म संपद्यते तदा॥३१॥**
 
@@ -3837,8 +3737,6 @@ SELF, and thus treads the highest Path, (29)
 शरीरस्थोऽपि कौन्तेय न करोति न लिप्यते॥३२॥**
 
   Being beginningless and without qualities[^277],the imperishable supreme SELF, though seated in the body, O Kaunteya, worketh not nor is affected. (32)
-
-[^277]: "Gunas."
 
 **यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते॥  
 सर्वत्रावस्थितो देहे तथाऽऽमा नोपलिप्यते॥३३॥**
@@ -3854,8 +3752,6 @@ SELF, and thus treads the highest Path, (29)
 भूतप्रकृतिमोक्षं च ये विदुर्यान्ति ते परम्॥३५॥**
 
  They who by the eyes of Wisdom perceive this difference between the Field and the Knower of the Field, and the liberation of beings from Matter[^201]they go to the Supreme. (35)
-
-[^201]: "Prakriti"
 
 **इति श्रीमद्भगवद्गीता०क्षेत्रक्षेत्रज्ञविभागयोगो नाम  
 त्रयोदशोऽध्यायः।**
@@ -3982,14 +3878,10 @@ restlessness, desire—these are born of the increase of Motion, O best of the B
 
  When the Seer perceiveth no agent other than the qualities[^277], and knoweth THAT which is higher than the qualities,[^277] he entereth into My Nature;(19)
 
-[^277]: "Gunas."
-
 **गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान्।  
 जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते॥२०॥**
 
- When the dweller in the body hath crossed over these three qualities,[^277]whence all bodies have been produced, liberated from birth, death, old age and sorrow, he drinketh the nectar ofimmortality.[^288](20)
-
-[^277]: "Gunas."
+ When the dweller in the body hath crossed over these three qualities,[^277]whence all bodies have been produced, liberated from birth, death, old age and sorrow, he drinketh the nectar ofimmortality.[^288] (20)
 
 [^288]: "The Amrita."
 
@@ -4019,8 +3911,6 @@ restlessness, desire—these are born of the increase of Motion, O best of the B
  He who, seated as a neutral, is unshaken by the qualities[^289]; who, saying, “ The qualities[^289]
 revolve,”standeth apart immovable.(23)
 
-[^289]: " Gunas."
-
 **समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः।  
 तुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः॥२४॥**
 
@@ -4031,14 +3921,10 @@ revolve,”standeth apart immovable.(23)
 
  The same in honour and ignominy, the same to friend and foe, abandoning all under-takings he is said to have crossed over the qualities[^289]25)
 
-[^289]: " Gunas."
-
 **मां च योऽव्यभिचारेण भक्तियोगेन सेवते।  
 स गुणान्समतीत्यैतान् ब्रह्मभूयाय कल्पते॥२६॥**
 
  And he who serveth Me exclusively by the Yoga of devotion, he, crossing beyond the qualities,[^289]he is fit to become the ETERNAL (26)
-
-[^289]: " Gunas."
 
 **ब्रह्मणो हि प्रतिष्ठाऽहममृतस्याव्ययस्य च।  
 शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च॥२७॥**
@@ -4073,8 +3959,6 @@ THE THREE QUALITIES.**
 कर्मानुबन्धीनि मनुष्यलोके॥२॥**
 
  Downwards and upwards spread the branches of it, nourished by the qualities[^277]; the objects of the senses its buds; and its roots grow
-
-[^277]: "Gunas."
 
 downwards, the bonds of action in the world of men.(2)
 
@@ -4111,11 +3995,7 @@ Primal Man[^297] , whence the ancient energy forth-streamed.(4)
 **ममैवांशो जीवलोके जीवभूतः सनातनः।  
 मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति॥७॥**
 
- A portion of Mine own Self, transformed in the world of life into an immortal Spirit,[^298]draweth round itself the senses of which the mind[^61]is the sixth, veiled in matter.[^263](7)
-
-[^61]: "Manah."
-
-[^263]: "Prakriti."
+ A portion of Mine own Self, transformed in the world of life into an immortal Spirit,[^298]draweth round itself the senses of which the mind[^61]is the sixth, veiled in matter.[^263] (7)
 
 [^298]: "Jîva, a life, individualised from the Universal Spirit."
 
@@ -4130,8 +4010,6 @@ Primal Man[^297] , whence the ancient energy forth-streamed.(4)
 अधिष्ठाय मनश्चायं विषयानुपसेवते॥९॥**
 
  Eashrined in the ear, the eye, the touch, the taste and the smell, and in the mind[^61]also, He enjoyeth the objects of the senses (9)
-
-[^61]: "Manah."
 
 **उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम्।  
 विमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः॥१०॥**
@@ -4153,7 +4031,9 @@ Primal Man[^297] , whence the ancient energy forth-streamed.(4)
 **गामाविश्य च भूतानि धारयाम्यहमोजसा।  
 पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः॥१३॥**
 
- Permeating the soil, I support beings by my vital energy, and having become the delicious [Soma](#) I nourish all plants.(13)
+ Permeating the soil, I support beings by my vital energy, and having become the delicious Soma[^374] I nourish all plants.(13)
+
+[^374]: #
 
 **अहं वैश्वानरो भृत्वा प्राणिनां देहमाश्रितः।  
 प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विध॥१४॥**
@@ -4183,12 +4063,10 @@ Primal Man[^297] , whence the ancient energy forth-streamed.(4)
 
 ** **The highest Energy[^306]is verily Another, declared as the Supreme SELF, He who, pervading all, sustaineth the three worlds, the indestructible Lord.(17)
 
-[^306]: " Purusha."
-
 **यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः।  
 अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः॥१८॥**
 
- Since I excel the destructible, and am more excellent also than the indestructible, in the world and in the Veda I am proclaimed the Supreme Spirit.[^308](18)
+ Since I excel the destructible, and am more excellent also than the indestructible, in the world and in the Veda I am proclaimed the Supreme Spirit.[^308] (18)
 
 [^308]: "Purushottama, the highest Purusha."
 
@@ -4196,8 +4074,6 @@ Primal Man[^297] , whence the ancient energy forth-streamed.(4)
 स सर्वविद्भजति मां सर्वभावेन भारत॥१९॥**
 
  He who undeluded knoweth Me thus as the Supreme Spirit,[^308] he, all-knowing, worshippeth Me with his whole being, O Bhârata.(19)
-
-[^308]: "Purushottama, the highest Purusha."
 
 **इति गुह्यतमं शास्त्रमिदमुक्तं मयाऽनघ।  
 एतद्बुध्वा बुद्धिमान् स्यात्कृतकृत्यश्च भारत॥२०॥**
@@ -4465,8 +4341,6 @@ embodied—pure, passionate, and dark. Hear thou of these.(2)
 
  Mental happiness, equilibrium, silence, selfcontrol, purity of nature—these are called the austerity of the mind[^146].(16)
 
-[^146]: " Manah."
-
 **श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः।  
 अफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते॥ १७॥**
 
@@ -4638,21 +4512,15 @@ sacrifice, gift and also austerity are the purifiers of the intelligent.(5)
 
  Whatever action a man performeth by his body, speech and mind,\*[^61] whether right or the reverse, these five are the cause thereof.(15)
 
-[^61]: "Manah."
-
 **तत्रैवं सति कर्तारमात्मानं केवलं तु यः।  
 पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः॥१६॥**
 
  That being so, he verily who-owing to untrained Reason †[^44]-looketh on his SELF, which is isolated, as the actor, he of perverted intelligence, seeth not.(16)
 
-[^44]: "Buddhi."
-
 **यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते।  
 हत्वाऽपि स इमाँलोकान्न हन्ति न निबध्यते॥१७॥**
 
  He who is free from the egoistic notion, whose Reason[^140] is not affected, though he slay these peoples, he slayeth not, nor is bound.(17)
-
-[^140]: "Buddhi"
 
 **ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना।  
 करणं कर्म कर्तेति त्रिविधः कर्मसङ्ग्रहः॥१८॥**
@@ -4665,8 +4533,6 @@ the threefold impulse to action; the organ, the action, the actor, the threefold
 प्रोच्यन्ते गुणसङ्ख्याने यथावच्छृणु तान्यपि॥१९॥**
 
  Knowledge, action and actor in the category of qualities[^265]are also said to be severally threefold, from the difference of qualities[^265]; hear thou duly these also.(19)
-
-[^265]: "Gunas,"
 
 **सर्वभूतेषु येनैकं भावमव्ययमीक्षते।  
 अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्विकम्॥२०॥**
@@ -4722,23 +4588,15 @@ desires, or again with egoism, or with much effort, that is declared to be passi
 
  The division of Reason[^44] and of firmness also, threefold according to the qualities[^289], hear thou related, unreservedly and severally, 0 Dhananjaya. (29)
 
-[^44]: "Buddhi."
-
-[^289]: " Gunas."
-
 **प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये।  
 बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी॥३०॥**
 
  That which knoweth energy and abstinence, what ought to be done and what ought not to be done, fear and fearlessness, bondage and liberation, that Reason[^44]is pure, O Pârtha.(30)
 
-[^44]: "Buddhi."
-
 **यया धर्ममधर्मं च कार्यं चाकार्यमेव च।  
 अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी॥३१॥**
 
  That by which one understandeth away Right and Wrong[^334] and also what ought to be done and what ought not to be done, that Reason,+[^41] O Pârtha, is passionate.(31)
-
-[^41]: " Buddhi."
 
 [^334]: "Dharma and Adharma, Right and Wrong in the widest sense, law and lawlessness."
 
@@ -4747,18 +4605,12 @@ desires, or again with egoism, or with much effort, that is declared to be passi
 
  That which, enwrapped in darkness, thinketh wrong[^336] to be right §[^23] and seeth all things subverted, that Reason +[^41], O Pártha, is of darkness.(32)
 
-[^23]: "Dharma."
-
-[^41]: " Buddhi."
-
 [^336]: "Adharma."
 
 **धृत्या यया धारयते मनः प्राणेन्द्रियक्रियाः।  
 योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी॥३३॥**
 
  The unwavering firmness by which, through Yoga, one restraineth the activity of the mind,[^61]
-
-[^61]: "Manah."
 
 of the life breaths and of the sense-organs, that firmness, O Pârtha, is pure.(33)
 
@@ -4803,17 +4655,11 @@ indolence and heedlessness, that is declared dark,(39)
 
  There is not an entity, either on the earth or again in heaven among the Shining Ones, that is liberated from these three qualities,[^277]born of Matter[^263].(40)
 
-[^263]: "Prakriti."
-
-[^277]: "Gunas."
-
 **ब्राह्मणक्षत्रियविशां शुद्राणां च परन्तप।  
 कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः॥४१॥**
 
   Of Brâhmanas, Kshattriyas, Vaishyas and Shûdras, O Parantapa, the duties[^343]
 have been distributed, according to the qualities[^277]born of their own natures.(41)
-
-[^277]: "Gunas."
 
 [^343]: "Karma; it is action arising from the nature fashioned by past thoughts and desires."
 
@@ -4822,35 +4668,25 @@ have been distributed, according to the qualities[^277]born of their own natures
 
  Serenity, self-restraint, austerity, purity, forgiveness and also uprightness, wisdom, knowledge, belief in God, are the Brâhmana duty[^178], born of his own nature.(42)
 
-[^178]: "Karma."
-
 **शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम्।  
 दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्॥४३॥**
 
  Prowess, splendour, firmness, dexterity, and also not flying from battle, generosity, the nature of a ruler, are the Kshattriya duty[^178], born of his own nature.(43)
-
-[^178]: "Karma."
 
 **कृषिगोरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम्।  
 परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम्॥४४॥**
 
   Ploughing, protection of kine, and trade are the Vaishya duty, born of his own nature. Action of the nature of service is the Shûdra duty,[^178] born of his own nature.(44)
 
-[^178]: "Karma."
-
 **स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः।  
 स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु॥४५॥**
 
  Man reacheth perfection by each being intent on his own duty.[^178] Listen thou how perfection is won by him who is intent on his own duty[^178], (45)
 
-[^178]: "Karma."
-
 **यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम्।  
 स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः॥४६॥**
 
  He from whom is the emanation of beings, by Whom all This is pervaded, by worshipping Him in his own duty[^178]a man winneth perfection, (46)
-
-[^178]: "Karma."
 
 **श्रेयान् स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।  
 स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्विषम्॥४७॥**
@@ -4861,23 +4697,15 @@ have been distributed, according to the qualities[^277]born of their own natures
 
 He who doeth the duty\*[^178] laid down by his own nature incurreth not sin.(47)
 
-[^178]: "Karma."
-
 **सहजं कर्म कौन्तेय सदोषमपि न त्यजेत्।  
 सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः॥४८॥**
 
 ** **Congenital duty[^178], O son of Kunti, though defective, ought not to be abandoned. All undertakings indeed are clouded by defects as fire by smoke.(48)
 
-[^178]: "Karma."
-
 **असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः।  
 नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति॥४९॥**
 
-** **He whose Reason[^44]is everywhere unattached, the self-subdued, dead to desires, he goeth by renunciation to the supreme perfection of freedom from obligation[^178](49)
-
-[^44]: "Buddhi."
-
-[^178]: "Karma."
+** **He whose Reason[^44]is everywhere unattached, the self-subdued, dead to desires, he goeth by renunciation to the supreme perfection of freedom from obligation[^178] (49)
 
 **सिद्धिंं प्राप्तो यथा ब्रह्म तथाऽऽप्नोति निबोध मे।  
 समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा॥५०॥**
@@ -4889,14 +4717,10 @@ He who doeth the duty\*[^178] laid down by his own nature incurreth not sin.(47)
 
   United to thisReason,[^44]purified, controlling the self by firmness, having abandoned sound and the other objects of the senses, having laid aside passion and malice,(51)
 
-[^44]: "Buddhi."
-
 **विविक्तसेवी लघ्वाशी यतवाक्कायमानसः।  
 ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः॥५२॥**
 
 ** **Dwelling in solitude, abstemious, speech, body and mind[^61] subdued, constantly fixed in meditation and yoga[^359], taking refuge in dispassion, ( 52 )
-
-[^61]: "Manah."
 
 [^359]: "Some read “dhâynayoga”,yoga of “meditation”"
 
@@ -4913,7 +4737,7 @@ He who doeth the duty\*[^178] laid down by his own nature incurreth not sin.(47)
 **भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः।  
 ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम्॥५५॥**
 
- By devotion he knoweth Me in essence, who and what I am ; having thus known Me in essence he forthwith entereth into the Supreme[^360](55)
+ By devotion he knoweth Me in essence, who and what I am ; having thus known Me in essence he forthwith entereth into the Supreme[^360] (55)
 
 [^360]: " THAT."
 
@@ -4945,8 +4769,6 @@ not fight;" to no purpose thy determination ; nature will constrain thee.(59)
 कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत्॥६०॥**
 
  O son of Kuntî, bound by thine own duty[^178]born of thine own nature, that which from delusion thou desirest not to do, even that helplessly thou shalt perform, (60)
-
-[^178]: "Karma."
 
 **ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति।  
 भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया॥६१॥**
@@ -4992,7 +4814,7 @@ not fight;" to no purpose thy determination ; nature will constrain thee.(59)
 **य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति।  
 भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयम्॥६८॥**
 
-  He who shall declare this supreme secret among My devotees, having shown the highest devotion for Me, without doubt he shall come to Me[^366](68)
+  He who shall declare this supreme secret among My devotees, having shown the highest devotion for Me, without doubt he shall come to Me[^366] (68)
 
 [^366]: " Some read “ asamsayah,” which would mean  "
 
@@ -5056,7 +4878,7 @@ not fight;" to no purpose thy determination ; nature will constrain thee.(59)
 
 ** **Wherever is Krishna, Yoga's Lord, wherever
 
-is Pârtha, the archer, assured are there prosperity, victory and happiness. So I think.[^368](78)
+is Pârtha, the archer, assured are there prosperity, victory and happiness. So I think.[^368] (78)
 
 [^368]: "Shri Shankaracharya's reading would run, translated: "
 
@@ -5080,4 +4902,3 @@ is Pârtha, the archer, assured are there prosperity, victory and happiness. So 
 Fourth Edition. 5000 Copies. November 1922. G. A. Natesan & Co, Madras.
 
 \]
-

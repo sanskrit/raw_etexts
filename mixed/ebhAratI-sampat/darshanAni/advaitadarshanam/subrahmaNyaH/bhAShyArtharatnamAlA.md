@@ -26,11 +26,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI5MDEwNzI1OTk
 
 **भाष्यार्थरत्नमाला।**
 
-![](../books_images/U-IMG-17353948971234.PNG)
+<MISSING_FIG href="../books_images/U-IMG-17353948971234.PNG"/>
 
 **प्रथमाध्यायस्य प्रथमः पादः।**
 
-![](../books_images/U-IMG-1735394914123.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1735394914123.PNG"/>
 
 **सुचरितपरिपाकैः शुद्धसत्त्वप्रधानैः  
 प्रशमितभवभेदैर्मुक्तसंघैरुपास्यम्।  
@@ -2095,7 +2095,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI5MDEwNzI1OTk
 
 **इति प्रथमाध्याये द्वितीयः पादः॥२॥**
 
-![](../books_images/U-IMG-1735662275Screenshot2024-12-31215418.png)
+<MISSING_FIG href="../books_images/U-IMG-1735662275Screenshot2024-12-31215418.png"/>
 
 **अथ तृतीयपादप्रारम्भः।**
 

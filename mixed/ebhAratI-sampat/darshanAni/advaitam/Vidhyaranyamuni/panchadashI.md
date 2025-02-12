@@ -12,6 +12,14 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 
 \[
 
+
+
+
+
+
+
+
+
 ॥ पञ्चदशी॥
 
 अथ प्रथमोऽध्यायः॥
@@ -281,6 +289,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 विगलित संसृति बन्धः प्राßोति पारं पदं नरो नचिरात्॥ ६५॥
 
 इति प्रथमोऽध्यायः॥ १॥
+
+
 
 अथ द्वितीयोऽध्यायः॥
 
@@ -724,6 +734,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 
 इति द्वितीयोऽध्यायः॥ २॥
 
+
+
 अथ तृतीयोऽध्यायः।
 
 पञ्चकोशविवेकः।
@@ -897,6 +909,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 ब्रह्मणो नास्ति जन्मातः पुनर् एष न जायते॥ ४३॥
 
 इति तृतीयोऽध्यायः॥ ३॥
+
+
 
 अथ चतुर्थोऽध्यायः।
 
@@ -1217,6 +1231,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 ब्रह्म शब्देन तत् ब्रह्म स्वप्रकाश आत्म रूपकम्॥ ८॥
 
 इति पञ्चमोऽध्यायः॥ ५॥
+
+
 
 अथ षष्ठोऽध्यायः।
 
@@ -2391,6 +2407,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 पश्यन्तः अपि जगत् चित्रं ते मुह्यन्ति न पूर्ववत्॥ २९०॥
 
 इति षष्ठोऽध्यायः॥ ६॥
+
+
 
 अथ सप्तमोऽध्यायः।
 
@@ -3590,6 +3608,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 
 इति सप्तमोऽध्यायः॥ ७॥
 
+
+
 अथ अष्टमोऽध्यायः।
 
 कूटस्थदीपः।
@@ -3899,6 +3919,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 स्वयं कूटस्थरूपेण दीप्यते असौ निरन्तरम्॥ ७६॥
 
 इति अष्टमोऽध्यायः॥ ८॥
+
+
 
 अथ नवमोऽध्यायः।
 
@@ -4536,6 +4558,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 
 इति नवमोऽध्यायः॥ ९॥
 
+
+
 अथ दशमोऽध्यायः।
 
 नाटक दीपः।
@@ -4645,6 +4669,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 शरणं तत् अधीनः अन्तः बहिः वा एषः अनुभूयताम्॥ २६॥
 
 इति दशमोऽध्यायः॥ १०॥
+
+
 
 अथ एकादशोऽध्यायः।
 
@@ -5192,6 +5218,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 
 इति एकादशोऽध्यायः॥ ११॥
 
+
+
 अथ द्वादशोऽध्यायः।
 
 ब्रह्मानन्दे आत्मानन्दः।
@@ -5555,6 +5583,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 द्वितीय अध्यायः एतस्मिन् आत्मानन्दः विवेचितः॥ ९०॥
 
 इति द्वादशोऽध्यायः॥ १२॥
+
+
 
 अथ त्रयोदशोऽध्यायः।
 
@@ -6030,6 +6060,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDU0NDk5OTk2
 
 इति त्रयोदशोऽध्यायः॥ १३॥
 
+
+
 अथ चतुर्दशोऽध्यायः।
 
 योगेन आत्म विवेकेन द्वैत मिथ्यात्व चिन्तया।
@@ -6447,5 +6479,15 @@ Encoded by Sunder Hattangadi (sunderh@hotmail.com)
 Please send corrections to sanskrit@cheerful.com
 
 Last updated
+
+
+
+
+
+
+
+
+
+
 
 \]

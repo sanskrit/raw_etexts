@@ -110,7 +110,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIyNjAxODg4MjQ
 अथ
 
 **श्रीरामगीताप्रारम्भः।**  
-![](../books_images/U-IMG-172456795311.png)
+<MISSING_FIG href="../books_images/U-IMG-172456795311.png"/>
 
 **श्रीमहादेव उवाच**
 

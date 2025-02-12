@@ -15,11 +15,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 
 \[
 
-![](../books_images/U-IMG-1730802983Screenshot2024-11-05160601.png)
+<MISSING_FIG href="../books_images/U-IMG-1730802983Screenshot2024-11-05160601.png"/>
 
 [TABLE]
 
-![](../books_images/U-IMG-1730865486Screenshot2024-11-06092717.png)
+<MISSING_FIG href="../books_images/U-IMG-1730865486Screenshot2024-11-06092717.png"/>
 
 |                           |
 |---------------------------|
@@ -34,9 +34,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 | Chapter 17                |
 | Chapter 18                |
 
-![](../books_images/U-IMG-1730866018Screenshot2024-11-06093613.png)
+<MISSING_FIG href="../books_images/U-IMG-1730866018Screenshot2024-11-06093613.png"/>
 
-![](../books_images/U-IMG-1730866535Screenshot2024-11-06093741.png)
+<MISSING_FIG href="../books_images/U-IMG-1730866535Screenshot2024-11-06093741.png"/>
 
 |                             |
 |-----------------------------|
@@ -51,17 +51,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 | अध्यायः १७                  |
 | अध्यायः १८                  |
 
-![](../books_images/U-IMG-1730866649Screenshot2024-11-06094644.png)
+<MISSING_FIG href="../books_images/U-IMG-1730866649Screenshot2024-11-06094644.png"/>
 
-# ![](../books_images/U-IMG-1730866716Screenshot2024-11-06094806.png)
+# <MISSING_FIG href="../books_images/U-IMG-1730866716Screenshot2024-11-06094806.png"/>
 
-![](../books_images/U-IMG-1730791004Screenshot2024-11-05124610.png)
+<MISSING_FIG href="../books_images/U-IMG-1730791004Screenshot2024-11-05124610.png"/>
 
 **दशमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1730895837Screenshot2024-11-06103325.png)
+<MISSING_FIG href="../books_images/U-IMG-1730895837Screenshot2024-11-06103325.png"/>
 
-![](../books_images/U-IMG-1730866819Screenshot2024-11-05124741.png)
+<MISSING_FIG href="../books_images/U-IMG-1730866819Screenshot2024-11-05124741.png"/>
 
 प्तमे अध्याये भगवतस्तत्त्वंविभूतयश्च प्रकाशिताः, नवमे च। अथ इदानीं येषु येषु भावेषु चिन्त्यो भगवान्, ते ते भावा वक्तव्याः, तत्त्वं च भगवतो वक्तव्यम् उक्तमपि, दुर्विज्ञेयत्वात् इत्यतः श्रीभगवानुवाच—
 
@@ -359,12 +359,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 
 —————
 
-![](../books_images/U-IMG-1730802779Screenshot2024-11-05160131.png)
+<MISSING_FIG href="../books_images/U-IMG-1730802779Screenshot2024-11-05160131.png"/>
 
 **एकादशोऽध्यायः॥**  
-![](../books_images/U-IMG-1730888568Screenshot2024-11-06155223.png)
+<MISSING_FIG href="../books_images/U-IMG-1730888568Screenshot2024-11-06155223.png"/>
 
-![](../books_images/U-IMG-1730888470Screenshot2024-11-06155036.png) 
+<MISSING_FIG href="../books_images/U-IMG-1730888470Screenshot2024-11-06155036.png"/> 
 
 **गवतो** विभूतय उक्ताः। तत्र च 'विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्' इति भगवता अभिहितं श्रुत्वा, यत् जगदात्मरूपम् आद्यमैश्वरं तत् साक्षात्कर्तुमिच्छन्, अर्जुन उवाच—
 
@@ -878,15 +878,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 
 **एकादशोऽध्यायः॥**
 
-![](../books_images/U-IMG-1730889554Screenshot2024-11-06103032.png)
+<MISSING_FIG href="../books_images/U-IMG-1730889554Screenshot2024-11-06103032.png"/>
 
-![](../books_images/U-IMG-1730785533Screenshot2024-11-05111427.png)
+<MISSING_FIG href="../books_images/U-IMG-1730785533Screenshot2024-11-05111427.png"/>
 
 **द्वादशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1731210624y7.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1731210624y7.png"/>**  
 
-![](../books_images/U-IMG-1730786345Screenshot2024-11-05112839.png)
+<MISSING_FIG href="../books_images/U-IMG-1730786345Screenshot2024-11-05112839.png"/>
 
 **तीयाध्यायप्रभृतिषु** विभूत्यन्तेषु अध्यायेषु परमात्मनः ब्रह्मणः अक्षरस्य विध्वस्तसर्वोपाधिविशेषस्य उपासनम् उक्तम्; सर्वयोगैश्वर्यसर्वज्ञानशक्तिमत्सत्त्वोपाधेः ईश्वरस्य तव च उपासनं तत्र तत्र उक्तम्। विश्वरूपाध्याये तु ऐश्वरम् आद्यं समस्तजगदात्मरूपं विश्वरूपं त्वदीयं दर्शितम् उपासनार्थमेव त्वया। तच्च दर्शयित्वा उक्तवानसि 'मत्कर्मकृत्' इत्यादि। अतः अहम् अनयोः उभयोः पक्षयोः विशिष्टतरबुभुत्सया त्वां पृच्छामि इति अर्जुन उवाच—
 
@@ -1068,13 +1068,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 
 **द्वादशोऽध्यायः॥**
 
-![](../books_images/U-IMG-1730784255Screenshot2024-11-05105328.png)
+<MISSING_FIG href="../books_images/U-IMG-1730784255Screenshot2024-11-05105328.png"/>
 
 **त्रयोदशोऽध्यायः॥**
 
-![](../books_images/U-IMG-1730892339Screenshot2024-11-06103325.png)
+<MISSING_FIG href="../books_images/U-IMG-1730892339Screenshot2024-11-06103325.png"/>
 
-![](../books_images/U-IMG-1730892283Screenshot2024-11-06165414.png)
+<MISSING_FIG href="../books_images/U-IMG-1730892283Screenshot2024-11-06165414.png"/>
 
 प्तमे अध्याये सूचिते द्वे प्रकृती ईश्वरस्य—त्रिगुणात्मिका अष्टधा भिन्ना अपरा, संसारहेतुत्वात्; परा च अन्या जीवभूता क्षेत्रज्ञलक्षणा ईश्वरात्मिका—याभ्यां प्रकृतिभ्यामीश्वरः जगदुत्पत्तिस्थितियहेतुत्वं प्रतिपद्यते। तत्र क्षेत्रक्षेत्रज्ञलक्षणप्रकृतिद्वयनिरूपणद्वारेण तद्वतः ईश्वरस्य तत्त्वनिर्धारणार्थं क्षेत्राध्यायः आरभ्यते। अतीतानन्तराध्याये च 'अद्वेष्टा सर्वभूतानाम्' इत्यादिना यावत् अध्यायपरिसमाप्तिः तावत् तत्त्वज्ञानिनां संन्यासिनां निष्ठा यथा ते वर्तन्ते
 
@@ -1476,15 +1476,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 
 **त्रयोदशोऽध्यायः॥**
 
-![](../books_images/U-IMG-1730869256Screenshot2024-11-06103032.png)
+<MISSING_FIG href="../books_images/U-IMG-1730869256Screenshot2024-11-06103032.png"/>
 
-![](../books_images/U-IMG-1730785788Screenshot2024-11-05111924.png)
+<MISSING_FIG href="../books_images/U-IMG-1730785788Screenshot2024-11-05111924.png"/>
 
 **चतुर्दशोऽध्यायः॥**
 
-![](../books_images/U-IMG-1730869431Screenshot2024-11-06103325.png)
+<MISSING_FIG href="../books_images/U-IMG-1730869431Screenshot2024-11-06103325.png"/>
 
-![](../books_images/U-IMG-1730869514Screenshot2024-11-06103427.png)
+<MISSING_FIG href="../books_images/U-IMG-1730869514Screenshot2024-11-06103427.png"/>
 
 **र्वम्** उत्पद्यमानं क्षेत्रक्षेत्रज्ञसंयोगात् उत्पद्यते इति उक्तम्। तत् कथमिति, तत्प्रदर्शनार्थम् 'परं भूयः' इत्यादिः अध्यायः आरभ्यते। अथवा, ईश्वरपरतन्त्रयोः क्षेत्रक्षेत्रज्ञयोः जगत्कारणत्वं न तु सांख्यानामिव स्वतन्त्रयोः इत्येवमर्थम्। प्रकृतिस्थत्वं गुणेषु च सङ्गः संसारकारणम् इति उक्तम्।
 
@@ -1692,15 +1692,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 
 **चतुर्दशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1730805642w1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730805642w1.png"/>**
 
-![](../books_images/U-IMG-1731327777g1.png)
+<MISSING_FIG href="../books_images/U-IMG-1731327777g1.png"/>
 
 **पञ्चदशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1730805713w2.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730805713w2.png"/>**
 
-![](../books_images/U-IMG-1730805790w3.png)स्मात् मदधीनं कर्मिणां कर्मफलं ज्ञानिनां च ज्ञानफलम्, अतःभक्तियोगेन मां ये सेवन्ते ते मम प्रसादात् ज्ञानप्राप्तिक्रमेण गुणातीताः मोक्षं गच्छन्ति। किमु वक्तव्यम् आत्मनः तन्त्वमेव सम्यक् विजानन्तः इति अतः भगवान् अर्जुनेन अपृष्टोऽपि आत्मनः तत्त्वं विवक्षुः उवाच ‘ऊर्ध्वमूलम्' इत्यादिना। तत्र तावत् वृक्षरूपककल्पनया वैराग्यहेतोः संसारस्वरूपं वर्णयति—विरतस्य हि संसारात् भगवत्तत्त्वज्ञाने अधिकारः, न अन्यस्येति॥
+<MISSING_FIG href="../books_images/U-IMG-1730805790w3.png"/>स्मात् मदधीनं कर्मिणां कर्मफलं ज्ञानिनां च ज्ञानफलम्, अतःभक्तियोगेन मां ये सेवन्ते ते मम प्रसादात् ज्ञानप्राप्तिक्रमेण गुणातीताः मोक्षं गच्छन्ति। किमु वक्तव्यम् आत्मनः तन्त्वमेव सम्यक् विजानन्तः इति अतः भगवान् अर्जुनेन अपृष्टोऽपि आत्मनः तत्त्वं विवक्षुः उवाच ‘ऊर्ध्वमूलम्' इत्यादिना। तत्र तावत् वृक्षरूपककल्पनया वैराग्यहेतोः संसारस्वरूपं वर्णयति—विरतस्य हि संसारात् भगवत्तत्त्वज्ञाने अधिकारः, न अन्यस्येति॥
 
 श्रीभगवानुवाच —
 
@@ -1892,15 +1892,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 
 **पञ्चदशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1730940708y2.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730940708y2.png"/>**
 
-![](../books_images/U-IMG-1731327944g3.png)
+<MISSING_FIG href="../books_images/U-IMG-1731327944g3.png"/>
 
 **षोडशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1730941493y7.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1730941493y7.png"/>**  
 
-![](../books_images/U-IMG-1730941434y6.png)
+<MISSING_FIG href="../books_images/U-IMG-1730941434y6.png"/>
 
 वी आसुरी राक्षसी इति प्राणिणां प्रकृतयः नवमे अध्याये सूचिताः। तासां विस्तरेण प्रदर्शनाय 'अभयं सत्त्वसंशुद्धिः'॥ इत्यादिः अध्यायः आरभ्यते। तत्र संसारमोक्षाय दैवी प्रकृतिः, निबन्धाय आसुरी राक्षसी च इति दैव्याः आदानाय प्रदर्शनं क्रियते, इतरयोः परिवर्जनाय च॥
 
@@ -2092,15 +2092,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 
 **षोडशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1730940621y1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730940621y1.png"/>**
 
-![](../books_images/U-IMG-1731328125g4.png)
+<MISSING_FIG href="../books_images/U-IMG-1731328125g4.png"/>
 
 **सप्तदशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1730941611y9.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1730941611y9.png"/>**  
 
-![](../books_images/U-IMG-1730941572y8.png)
+<MISSING_FIG href="../books_images/U-IMG-1730941572y8.png"/>
 
 स्माच्छास्त्रं प्रमाणं ते' इति भगवद्वाक्यात् लब्धप्रश्नबीजःअर्जुन उवाच—
 
@@ -2315,15 +2315,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य श्रीगोविन्द भगवत्पूज्यपादशिष्यस्य श्रीमच्छंकरभगवतः कृतौ श्रीमद्भगवद्गीताभाष्ये  
 **सप्तदशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1730940872y3.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730940872y3.png"/>**
 
-# ![](../books_images/U-IMG-1731327674g0.png)
+# <MISSING_FIG href="../books_images/U-IMG-1731327674g0.png"/>
 
 **अष्टादशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1730943284y3.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730943284y3.png"/>**
 
-![](../books_images/U-IMG-1730941273y4.png)
+<MISSING_FIG href="../books_images/U-IMG-1730941273y4.png"/>
 
 र्वस्यैव गीताशास्त्रस्य अर्थः अस्मिन् अध्याये उपसंहृत्य सर्वश्च वेदार्थो वक्तव्यः इत्येवमर्थः अयम् अध्यायः आरभ्यते। सर्वेषु हि अतीतेषु अध्यायेषु उक्तः अर्थः अस्मिन् अध्याये अवगम्यते। अर्जुनस्तु संन्यासत्यागशब्दार्थयोरेव विशेषबुभुत्सुः उवाच—
 
@@ -3091,14 +3091,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI4OTg4NDE3OTk
 
 **॥ श्रीमद्भगवद्गीताशास्त्रं संपूर्णम् ॥**
 
-**![](../books_images/U-IMG-1731132976z3.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731132976z3.png"/>**
 
-# ![](../books_images/U-IMG-1731133083z0.png)
+# <MISSING_FIG href="../books_images/U-IMG-1731133083z0.png"/>
 
 **॥श्रीः॥**  
 **॥ श्लोकानुक्रमणिका ॥**
 
-**![](../books_images/U-IMG-1731133158z1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731133158z1.png"/>**
 
 |                          |                            |
 |:------------------------:|----------------------------|

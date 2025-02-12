@@ -103,11 +103,15 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **~~         ~~**
 
-![॑#](../books_images/U-IMG-1734796214Screenshot2024-12-21211940.png)
+!॑#[^1]
+
+[^1]: ../books_images/U-IMG-1734796214Screenshot2024-12-21211940.png
 
 **नवमणिमाला॥**
 
-**![॑#](../books_images/U-IMG-1734796299Screenshot2024-12-21211954.png)**
+**!॑#[^2]**
+
+[^2]: ../books_images/U-IMG-1734796299Screenshot2024-12-21211954.png
 
 **विषयेषु निर्व्यपेक्षं  
  विमलतरज्ञानसंपदध्यक्षम्।  
@@ -165,7 +169,9 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **आत्मानुसंधानम्॥**
 
-**![\#](../books_images/U-IMG-1734797102Screenshot2024-12-21213452.png)**
+**!\#[^3]**
+
+[^3]: ../books_images/U-IMG-1734797102Screenshot2024-12-21213452.png
 
 **त्रय्यन्तततिसंसिद्धशुद्धविद्यैकगोचरः।  
 अनाद्यन्तः परात्मासौ जयत्यानन्दसुन्दरः॥१॥**
@@ -281,7 +287,9 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **स्वप्नोदितम्॥**
 
-![\#](../books_images/U-IMG-1734798729Screenshot2024-12-21220159.png)
+!\#[^4]
+
+[^4]: ../books_images/U-IMG-1734798729Screenshot2024-12-21220159.png
 
 **देशिकानुग्रहोत्तुङ्गतरङ्गशिशिराशयः।  
 निवसामि निजानन्दपरिपूर्णैकभूमनि॥१॥**
@@ -357,7 +365,7 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **स्वानुभूतिप्रकाशिका॥**
 
-![](../books_images/U-IMG-1734799600Screenshot2024-12-21221629.png)
+<MISSING_FIG href="../books_images/U-IMG-1734799600Screenshot2024-12-21221629.png"/>
 
 **गौरीपतिपदभजन-  
  क्रकचविलूनैकविषयपाशोऽहम्।  
@@ -418,7 +426,9 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **श्रीदक्षिणामूर्तिध्यानम्॥।**
 
-**![\#](../books_images/U-IMG-1734800178Screenshot2024-12-21222602.png)**
+**!\#[^5]**
+
+[^5]: ../books_images/U-IMG-1734800178Screenshot2024-12-21222602.png
 
 **वटस्याधः कंचित्करकमलचिन्मुद्रमचलं  
  निटालाक्षं सूक्ष्मं मुनिवरगणासेव्यचरणम्।  
@@ -564,7 +574,9 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **मनोनियमनम्॥**
 
-![\#](../books_images/U-IMG-1734801794Screenshot2024-12-21225304.png)
+!\#[^6]
+
+[^6]: ../books_images/U-IMG-1734801794Screenshot2024-12-21225304.png
 
 **आशीविषविषविषमै-  
  र्निमिषोन्मेषैर्निषेवितैर्विषयैः।  
@@ -634,7 +646,7 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **\_\_\_\_\_\_\_\_\_**
 
    **नववर्णरत्नमाला॥**  
-![](../books_images/U-IMG-1735138060Untitled2.png)
+<MISSING_FIG href="../books_images/U-IMG-1735138060Untitled2.png"/>
 
 **ओंकारैकनिरूप्यं  
   पङ्कजभवनादिभावितपदाब्जम्।  
@@ -707,7 +719,7 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 **\_\_\_\_\_\_\_\_**
 
 **आत्मविद्याविलासः॥  
-![](../books_images/U-IMG-1735138609Untitled3.png)**
+<MISSING_FIG href="../books_images/U-IMG-1735138609Untitled3.png"/>**
 
 **चिन्मुद्रितकरकमलं  
   चिन्तितभक्तेष्टदं विमलम्।  
@@ -1047,7 +1059,7 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
 
 **आत्मविद्याविलासः॥**
 
-**![](../books_images/U-IMG-1734972849Screenshot2024-08-16182154.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734972849Screenshot2024-08-16182154.png"/>**
 
 **यत्पादपद्ममकरन्दजुषां नराणां  
   संसारघोरभुजगान्न भवेत्स्म भीतिः।  
@@ -1283,6 +1295,6 @@ Manuscript of Atmavidyavilasa and this letter written at the end of it are now p
                                   
 SRIRANGAM.**
 
-![](../books_images/U-IMG-1734974670Screenshot2024-12-23225407.png)
+<MISSING_FIG href="../books_images/U-IMG-1734974670Screenshot2024-12-23225407.png"/>
 
 \]

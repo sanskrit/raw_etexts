@@ -145,7 +145,7 @@ Nadild, 20 th. October 1931.
 
 **अनुक्रमणिका।**
 
-**![](../books_images/U-IMG-1731663856a.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731663856a.png"/>**
 
 |               |                        |
 |:-------------:|:----------------------:|
@@ -160,7 +160,7 @@ Nadild, 20 th. October 1931.
 |   नवमोऽङ्कः   |      विजयमहोत्सवः      |
 |  परिशिष्टम्   | गेयपद्यानां स्वरसंयोगः |
 
-![](../books_images/U-IMG-1731663875b.png)
+<MISSING_FIG href="../books_images/U-IMG-1731663875b.png"/>
 
 **पात्रपरिचयः।**
 
@@ -332,13 +332,13 @@ Mesers. Leheri & Co. CALCUTTA,
 
 **(सूर्यवंशविक्रमावतारः)**
 
-**![](../books_images/U-IMG-1731666634c.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731666634c.png"/>**
 
 **अथ**
 
 **प्रतापविजयम्।**
 
-**![](../books_images/U-IMG-1731666794d.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731666794d.png"/>**
 
 **प्रथमोऽङ्कः।**
 
@@ -834,7 +834,7 @@ Mesers. Leheri & Co. CALCUTTA,
 **इति श्रीप्रतापविजयटीकायां सर्वाङ्गविद्योतन्यां मानसिंहा-  
 पमाननामा प्रथमोऽङ्कः समाप्तः।**
 
-![](../books_images/U-IMG-1731774994e.png)
+<MISSING_FIG href="../books_images/U-IMG-1731774994e.png"/>
 
 **अथ**
 
@@ -1178,7 +1178,7 @@ Mesers. Leheri & Co. CALCUTTA,
 **इति श्रीप्रतापविजयटीकायां सर्वाङ्गविद्योतन्यां  
 हल्दीघाटसंग्रामनामा द्वितीयोऽङ्कः समाप्तः।**
 
-![](../books_images/U-IMG-1732006538r.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1732006538r.PNG"/>
 
 **अथ**
 
@@ -1471,7 +1471,7 @@ Mesers. Leheri & Co. CALCUTTA,
 **इति श्रीप्रतापविजयटीकायां सर्वाङ्गविद्योतन्यां  
 मेवाडाक्रमणनामा तृतीयोऽङ्कः समाप्तः।**
 
-![](../books_images/U-IMG-1732181998r3.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1732181998r3.PNG"/>
 
 **अथ**
 
@@ -1897,7 +1897,7 @@ Mesers. Leheri & Co. CALCUTTA,
 **इति श्रीप्रतापविजयटीकायां सर्वाङ्गविद्योतन्यां  
 शैलदुर्गाश्रयनामा चतुर्थोऽङ्कः समाप्तः।**
 
-**![](../books_images/U-IMG-1732263449r3.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1732263449r3.PNG"/>**
 
 **अथ**
 
@@ -2178,7 +2178,7 @@ Mesers. Leheri & Co. CALCUTTA,
 **इति श्रीप्रतापविजयटीकायां सर्वाङ्गविद्योतन्यां  
 शैलविहारनामा पश्चमोऽङ्कः समाप्तः।**
 
-![](../books_images/U-IMG-1732323517d4.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1732323517d4.PNG"/>
 
 **अथ**
 
@@ -2450,7 +2450,7 @@ Mesers. Leheri & Co. CALCUTTA,
 **इति श्रीप्रतापविजयटीकायां सर्वाङ्गविद्योतन्यां  
 सार्वभौममानावखण्डननामा षष्ठोङ्कःसमाप्तः।**
 
-**![](../books_images/U-IMG-1732352444r3.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1732352444r3.PNG"/>**
 
 **अथ**
 

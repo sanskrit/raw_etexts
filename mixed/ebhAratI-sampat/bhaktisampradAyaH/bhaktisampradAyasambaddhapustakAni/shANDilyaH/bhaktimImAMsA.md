@@ -37,7 +37,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUwNDc3MDM4MjE
 "श्रीवेंकटेश्वर" छापखाना ( मुंबई. )**
 
 **शाण्डिल्यशतसूत्रीयं भाष्यम्॥**  
-![](../books_images/U-IMG-1730734982Screenshot2024-11-04061950.png)  
+<MISSING_FIG href="../books_images/U-IMG-1730734982Screenshot2024-11-04061950.png"/>  
 **परमेश्वरो जयति॥**
 
 **प्रपद्य परमं देवं श्रीस्वप्नेश्वरसूरिणा।  

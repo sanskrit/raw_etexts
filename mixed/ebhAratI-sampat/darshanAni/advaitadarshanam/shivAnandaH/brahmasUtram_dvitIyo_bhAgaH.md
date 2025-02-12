@@ -32,7 +32,7 @@ General Printing Works Ltd.
 83, Old China Bazar Street,.  
 CALCUTTA.
 
-![](../books_images/U-IMG-1726814357Untitled5.png)
+<MISSING_FIG href="../books_images/U-IMG-1726814357Untitled5.png"/>
 
 **SRI SWAMI SIVANANDA**
 

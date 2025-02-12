@@ -13,6 +13,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQwMjg3MjIyMjg
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 मण्डनमिश्र विभ्रमविवेक
 
 आत्मख्यातिरसत्ख्यातिरख्यातिः ख्यातिरन्यथा ।  
@@ -152,6 +164,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQwMjg3MjIyMjg
 स्मरामीति च प्रमोषात्प्रायेणाध्यक्षविभ्रमः ॥ ४६ ॥
 
 इति पूर्वः पक्षः ॥
+
 
 एकान्तसत्त्वे का भ्रान्तिरसत्त्वे किं प्रकाशताम् ।  
 द्वयानुगुण्याद्वृद्धानां संमता ख्यातिरन्यथा ॥ ४७ ॥
@@ -500,5 +513,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQwMjg3MjIyMjg
 अख्यातौ नो तत्त्वमिथ्याविभागस्तस्मादेषां विभ्रमाणां विवेकः ॥ १६४ ॥
 
 \\Z  
+
+
+
+
+
+
+
+
+
+
 
 \]

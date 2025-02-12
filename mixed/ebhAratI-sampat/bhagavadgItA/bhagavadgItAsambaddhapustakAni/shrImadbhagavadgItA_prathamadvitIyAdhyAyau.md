@@ -24,7 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY0MDg5MzYyOTE
 
 पायादपायाज्जगदीश्वरो नः।
 
-![](../books_images/U-IMG-1730296427302.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1730296427302.PNG"/>
 
  अयिभो गीर्वाणवाणीरसिका अद्वैतवेदान्ततत्त्वजिज्ञासव आनन्दाश्रमग्रन्थावलीग्राहकमहाभागाः शृणुतेदानीं निवेदनीयमस्ति किंचित्। अतोऽत्रावधानं दीयमानमभ्यर्थये। श्री. म. म. विद्वद्रत्न– अभ्यंकरोपाह्ववासुदेवशास्त्रिप्रणीताऽद्वैताङ्कुराभिख्याऽभिनवा सरला सरसा च गीताव्याख्याऽन्यत्र क्वाप्यप्राप्याऽत्रमुद्रणालये मुद्रणायोपक्रान्ता। उपक्रान्तायाश्च तस्याः पञ्चषा मासाः समभूवन्। संप्रति परिसमाप्तमुद्रणेयं शरज्ज्योत्स्नेव दिदृक्षुलोचनानन्ददायिनी दृष्टिपथमवतरतीति प्रमोदावहमेतत्। अद्वैताङ्कुरेति नाम्नैवास्या विषयोऽवगतो भवति। सा चेयं व्याख्या भगवद्गीतायाः प्रथमद्वितीयाध्याययुगुलोपर्येव गता समनुशिष्टा।
 
@@ -248,11 +248,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY0MDg5MzYyOTE
 **श्रीमद्भगवद्गीतायाः प्रथम-  
 द्वितीयाध्यायौ।**
 
-**![](../books_images/U-IMG-1731163831911.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1731163831911.PNG"/>**
 
 पूर्वपीठिका।
 
-![](../books_images/U-IMG-1731163925912.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1731163925912.PNG"/>
 
 अथ गीतातात्पर्यसारः प्रारभ्यते।
 
@@ -471,7 +471,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY0MDg5MzYyOTE
 
 श्रीमद्भगवद्गीतायाः प्रथमोऽध्यायः।
 
-![](../books_images/U-IMG-1731297716912.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1731297716912.PNG"/>
 
  **धृतराष्ट्र उवाच—**
 
@@ -703,7 +703,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY0MDg5MzYyOTE
 
 श्रीमद्भगवद्गीताया द्वितीयोऽध्यायः।
 
-![](../books_images/U-IMG-17313304971111.PNG)  
+<MISSING_FIG href="../books_images/U-IMG-17313304971111.PNG"/>  
 
  **संजय उवाच—**
 

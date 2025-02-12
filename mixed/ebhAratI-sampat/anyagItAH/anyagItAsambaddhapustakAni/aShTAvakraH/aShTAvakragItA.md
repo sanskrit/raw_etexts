@@ -69,7 +69,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5Mjc3MDc5MDM
 
 **सान्वय—भाषाटीकासहिता।**
 
-![](../books_images/U-IMG-1721740283Astabakra_Gita-1-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1721740283Astabakra_Gita-1-removebg-preview.png"/>
 
 कथं ज्ञानमवाप्नोति कथं मुक्तिर्भविष्यति।  
 वैराग्यं च कथं प्राप्तमेतद्ब्रूहि मम प्रभो।
@@ -268,7 +268,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5Mjc3MDc5MDM
 समाप्तम्॥१॥
 
 अथ द्वितीयं प्रकरणम् २  
-![](../books_images/U-IMG-1721811437Astabakra_Gita-3-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1721811437Astabakra_Gita-3-removebg-preview.png"/>
 
 अहो निरंजनः शान्तो बोधोऽहं प्रकृतेः परः।  
 एतावन्तमहं कालं मोहेनैव विडंवितः॥ १॥

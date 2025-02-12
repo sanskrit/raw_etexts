@@ -42,7 +42,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMTQwMjQ1NTE
 
 **बह्वीः प्रतिकृतीस्संपाद्य परिशोधिता।**  
 
-![](../books_images/U-IMG-1736304437Screenshot2025-01-08081602.png)
+<MISSING_FIG href="../books_images/U-IMG-1736304437Screenshot2025-01-08081602.png"/>
 
 **श्रीरङ्गस्थ  
 श्रीवाणीविलासमुद्रायन्त्रालये  
@@ -106,7 +106,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMTQwMjQ1NTE
 
 ॥आनन्दलहरीविषयसूचिका॥
 
-![](../books_images/U-IMG-1736880277150101-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1736880277150101-removebg-preview.png"/>
 
 **प्रथमलोके १.—**'ब्रह्मविदाप्नोती' त्याद्यानन्दवल्ल्या मान्त्रवर्णिक परम व्योम पारमेश्वरी चिच्छक्तिरेव, सैव आनन्दमय इत्युपरिष्टादुपपाद्यते इति निरूपणम्।
 
@@ -1131,13 +1131,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMTQwMjQ1NTE
 कृतिषु आनन्दलहरीव्याख्या चन्द्रिका  
 समाप्ता॥
 
-**![](../books_images/U-IMG-1736940887150101-removebg-preview(3).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1736940887150101-removebg-preview(3"/>.png)**
 
-![](../books_images/U-IMG-1736940673150101-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-1736940673150101-removebg-preview(1"/>.png)
 
 **॥अपीतकुचाम्बास्तवः॥**
 
-**![](../books_images/U-IMG-1736940789150101-removebg-preview(2).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1736940789150101-removebg-preview(2"/>.png)**
 
 **आनन्द‌सिन्धुलहरीममृतांशुमौले-  
 रासेविनाममृतनिर्मितवर्तिमक्ष्णोः।  

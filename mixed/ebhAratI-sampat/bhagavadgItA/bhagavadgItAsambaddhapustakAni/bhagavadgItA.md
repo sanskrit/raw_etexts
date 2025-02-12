@@ -362,7 +362,7 @@ The following forms occur frequently in the *Gîtâ*.
 
 ** हे श्राचार्य तव धीमता शिष्येण द्रुपदस्य पुत्रेण व्यूढां एतां पांडोः पुत्राणाम् महतीं चमूम् पश्य॥**  
 
-![](../books_images/U-IMG-1734254229Screenshot2024-12-15144620.png)
+<MISSING_FIG href="../books_images/U-IMG-1734254229Screenshot2024-12-15144620.png"/>
 
 [TABLE]
 
@@ -490,7 +490,7 @@ Janaka and the rest, praised in the world, being cleansed from sins, have gone t
 
 दिव्यानि नानावर्णाकृतीनि चेति अस्त्राय फट्॥ श्रीकृष्णप्रीत्यर्थे पाठे विनियोगः ॥  
 
-![](../books_images/U-IMG-1733940456Screenshot2024-07-08185832.png)
+<MISSING_FIG href="../books_images/U-IMG-1733940456Screenshot2024-07-08185832.png"/>
 
 **THE ARRANGEMENT OF THE HANDS ETC.**
 
@@ -520,7 +520,7 @@ nected with the astral plane, and are similarly used with astral forces. The mid
 
 यं ब्रह्मावरुणैरुद्रमरुतः स्तुन्वंति दिव्यैः स्तवैर्वेदैःसांगपदक्रमोपनिषदैर्गायंति यं सामगाः ॥ ध्यानावस्थिततद्गतेन मनसा पश्यंति यं योगिनो यस्यांतं न विदुः सुरासुरगणा देवाय तस्मै नमः ॥ ९ ॥ इति ध्यानम् ॥
 
-![](../books_images/U-IMG-1733998898Screenshot2024-07-18063849.png)
+<MISSING_FIG href="../books_images/U-IMG-1733998898Screenshot2024-07-18063849.png"/>
 
 THE MEDITATION ON GITA.
 
@@ -528,7 +528,7 @@ THE MEDITATION ON GITA.
 
 battle-river, whose banks were Bhîṣhma and Droṇa, whose water was Jayadratha, whose blue lotus was Gândhâra, whose crocodile was Shalya, whose current was Kripa, whose billows were Karṇa, whose terrible alligators were Asvatthâmâ and Vikarṇa, whose whirlpool was Duryodhana. May this Lotus of the *Mahâbhârata* be for our good, born on the lake of the words of Pârâsharya, sweet with the fragrance of the meaning of the Gîtâ, pollened with many stories, unfolding to the sun of the history of Hari, sucked by the bees of good men in the world day by day, cleanser of the stains of Kali. I salute Him, Mâdhava, the supreme Bliss, whose grace makes the dumb man eloquent, and the cripple a climber of mountains. Whom Brahmâ, Varuṇa, Indra, Rudra, and the Maruts praise with divine songs; whom the Sâma-chanters sing with the Vedas and with Aṅgas, in the pada and krama methods with the Upaniṣhats; whom Yogîs see by the mind fixed in meditation, to Him going; whose end Suras and Asuras know not; to that God, all hail!
 
-![](../books_images/U-IMG-1733941087Screenshot2024-08-04235410.png)
+<MISSING_FIG href="../books_images/U-IMG-1733941087Screenshot2024-08-04235410.png"/>
 
 **ॐ**
 
@@ -763,8 +763,6 @@ of terrible deeds, blew his mighty conch, Paundra ; (15)
 Sanjaya said:
 
  Thus addressed by Guḍâkesha[^5],Hṛiṣhîkesha, O Bhârata, having stayed that best of chariots in the midst, between the two armies, (24)
-
-[^5]: "Arjuna."
 
  **एवम्** thus ; **उक्तः** addressed; **हृषीकेशः** Hṛiṣhîkesha**; गुडाकेशेन = गुड़ाकायाः** **ईशेन** of sleep, by the lord; **भारत** O Bhârata; **सेनयोः** of the (two) armies; **उभयोः** (of) both; **मध्ये** in the middle ; **स्थापयित्वा** having stayed; **रथोत्तमम्** = **रथानां उत्तमम्** of chariots, the best.
 

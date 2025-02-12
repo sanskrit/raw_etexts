@@ -29,7 +29,7 @@ P. O. Warı, Dacca.**
 
 [TABLE]
 
-![](../books_images/U-IMG-1722685151ो.png)
+<MISSING_FIG href="../books_images/U-IMG-1722685151ो.png"/>
 
 **धर्मस्य तत्वं निहितं गुहायाम्।  
 महाजनो येन गतः स पन्थाः॥**
@@ -413,8 +413,6 @@ realisation viz, Karma Yoga (Ethical), Bhakti Yoga (Devotional) and Jnana Yoya (
 (2) The Book of Poetry or the Rik, and  
 (3) The Book of Songs or the Saman[^4] तेषां ऋग् यत्र अर्थवशेन पादव्यवस्था।(2-1-32) गीतिषु समाख्या (2-1-33) शेषे यजुः शब्दः।(2-1-34)  Jaimini Pūrva Mīmānsa  (ii) ऋक्पादवद्भ्यो गीतस्त साम, गद्यं यजुर् मन्त्रः। चतुर्ष्वपि हि वेदेषु त्रिधैव विनियुज्यते॥  Shad Guru Sisya, Sarvanu Kramani Vritti (भूमिका)").
 
-[^4]: "(i
-
  On account of this tripartite division, the Veda is known as Trayi[^23]or the Great Triad. The Amara Kosa calls it
 
 [^23]: "Satapath Brahmana, 4-6-7-1"
@@ -428,8 +426,6 @@ Trayi[^24],the Gita calls it Trayi[^25], and the Buddhist gave to it the name of
 [^26]: "Tevijja Sutta, in Book 1 (Diggha Nikaya
 
  The Atharva Veda, as the name indicates, is the Sequel to the Veda[^27]अथ=after, ऋ=to go अथर्व=that which comes afterwards, or is a sequel.") It is divided into two *parts[^4] Winternitz-Indian Literature,Vol.I,p.120. (ii) Vishnu Puran-Part III,Chap.6,Sloka 9–10,"),* the Upastha of the Bhargavas, and the Nigama of the Angirasas. And on that account the Atharva Veda is called the Bhrigu-AngirasiSamhita.[^29] The Gopatha Brāhmana refers to the priest of the Atharva Veda as one proficient in Bhrigu-Angira[^30].
-
-[^4]: "(i
 
 [^27]: "अथ+ऋ+वनिप=अथर्व (Nighantu 5-5-13
 
@@ -462,9 +458,9 @@ he was addressed as 'Indra'. Worshipped as incorporal or formless, he was addres
 
  "The Atharva Veda is a comparatively late addition to the three ancient Vedas...Rik, Yajus and Saman".[^32]
 
- "The language of the Atharva Veda is, from a grammatical point of view, decidedly later than that of the Rig Veda, but earlier than that of the Brahmanas".[^33]
-
 [^32]: "Griffith The Hymns of the Atharva Veda, Preface, p.iii"
+
+ "The language of the Atharva Veda is, from a grammatical point of view, decidedly later than that of the Rig Veda, but earlier than that of the Brahmanas".[^33]
 
 [^33]: "Macdonell—History of Sanskrit Literature, p.196."
 
@@ -472,9 +468,9 @@ he was addressed as 'Indra'. Worshipped as incorporal or formless, he was addres
 
 of the variants in those Mantras which they share with the Rig Veda."[^34]
 
- The two striking features about the metre of the Atharva Veda are (1) extreme irregularity, and (2) predominance of Anustubha stanza. The stanzas in Gayatri and Tristubh are comparatively rare, the Atharva Veda in this respect presenting a sharp contrast with the Rig Veda."[^35]
-
 [^34]: "Bloomfield Hymns of the Atharva Veda, Introduction,p.31."
+
+ The two striking features about the metre of the Atharva Veda are (1) extreme irregularity, and (2) predominance of Anustubha stanza. The stanzas in Gayatri and Tristubh are comparatively rare, the Atharva Veda in this respect presenting a sharp contrast with the Rig Veda."[^35]
 
 [^35]: "Whitney-Atharva Veda, Introduction,p.126."
 
@@ -500,9 +496,9 @@ of the variants in those Mantras which they share with the Rig Veda."[^34]
 
  "The difference of nomenclature between the three Vedas on the one side and the Atharvan on the other, is an important and profound one in the history of Vedic literature. We are led to two main divisions of Vedic literature.........the three Vedas with their Soma sacrifices, and the Atharva Veda with the house-ceremonies."[^36]
 
- The homely practices of the Atharva Veda may have been in charge of the Fire-priests (Athar-vans) in distinction from Soma priests."[^37]
-
 [^36]: "Bloomfield-Atharva Veda and Gopatha Brahmana,p.2."
+
+ The homely practices of the Atharva Veda may have been in charge of the Fire-priests (Athar-vans) in distinction from Soma priests."[^37]
 
 [^37]: "Ibid,p.9."
 
@@ -512,15 +508,15 @@ of the variants in those Mantras which they share with the Rig Veda."[^34]
 
  "The Rig Veda is original and historical, the other two Saman and Yajus, are merely liturgical compilation.'[^39]
 
- Thus though consisting of three books, viz: Yajus, Rik and Saman, it is to the Rig Veda or the Book of Poetry, that the name 'Veda' primarily applies. It is the Veda par excellence.
-
 [^39]: "Griffith-Hymns of the Atharva Veda, Preface, p. 2."
+
+ Thus though consisting of three books, viz: Yajus, Rik and Saman, it is to the Rig Veda or the Book of Poetry, that the name 'Veda' primarily applies. It is the Veda par excellence.
 
  The Rig Veda consists of 1017 hymns. These hymns are of different length. Some of the hymns consist of 3 or 4 stanzas only, while others go up to the length of 40 or 50 stanzas. The volume of the Rig Veda is pretty large.........being equal to the surviving poems of Homer.[^40]
 
- The Veda is predominantly religious. That is to say, the seers of the Veda recognize a Higher Being who is the source of all that is best in man, and to whom they turn for uplift and redemption. The majority of the hymns in the Veda are prayers to God,[^41]and are intended to be used as litanies in Divine Service.
-
 [^40]: "Macdonell History of Sanskrit Literature, p.1."
+
+ The Veda is predominantly religious. That is to say, the seers of the Veda recognize a Higher Being who is the source of all that is best in man, and to whom they turn for uplift and redemption. The majority of the hymns in the Veda are prayers to God,[^41]and are intended to be used as litanies in Divine Service.
 
 [^41]: "Ghate-Lectures on Rig-Veda, p.123."
 
@@ -611,9 +607,9 @@ Yet it does not appear how after having reached to the worship of one God, the V
 
  It has been said that the use of many names does not necessarily imply many gods. Some of the many names may be explained by the theory, that two gods originally belonging to two different peoples, came to be identified with each other, when these two people coalesced politically. The two different names used by those two clans were retained, but they were applied to one and the same deity. Thus Pushan of the Medes, seems to have combined with Bhaga of the Persians. Pushan is called an Asura (Rig Veda, 5-54-11) and god of Iran (Rig Veda 6-58-4), while Bhaga is mentioned in the inscriptions of Darius.[^42]
 
- Some of the other names may be explained on the principle of religious synonyms. Just as many secular objects have got more than one name, and one of such names lays stress on some one aspect of the thing, and another name on another aspect, so also is the case with the names of the Divine Being. Thus the name **'सविता'** lays stress on the fact that He created the universe,**'प्रजापति'** on and the fact that He is the lord of all. Matariswan lays stress on His mercy, and Vivaswan on His glory.
-
 [^42]: "Browne-Literary History of Persia,Vol.I."
+
+ Some of the other names may be explained on the principle of religious synonyms. Just as many secular objects have got more than one name, and one of such names lays stress on some one aspect of the thing, and another name on another aspect, so also is the case with the names of the Divine Being. Thus the name **'सविता'** lays stress on the fact that He created the universe,**'प्रजापति'** on and the fact that He is the lord of all. Matariswan lays stress on His mercy, and Vivaswan on His glory.
 
  No doubt, a good many of the many names originated in this way. But can we assert that all the names that the Veda applies to God, originated this-wise?
 
@@ -661,8 +657,6 @@ Nasatyau– One-in-Two.
 
 **मित्रस्य इलानि, वरुणस्य इलानि,  
 इन्द्र इलानि, नासत्यौ अन्य[^4] Griswold—God Varuna in the Rig Veda, F. 29. (ii) Griswold-The Religion of the RigVeda,p.114. (iii) Bloomfield-Religion of the Veda,p.121.")। **
-
-[^4]: "(i
 
  Thus the worship of dual gods in the Veda is not an indication of polytheism. It merely points to the existence of two different sects in the Vedic church- one given to the Iconic and the other to the an-Iconic form of worship.
 
@@ -1341,9 +1335,9 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 **स्वस्ति न इन्द्रो वृद्धश्रवाः  
 स्वस्ति नः पूषा विश्ववेदाः।  
 स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः  
-स्वस्ति नो बृहस्पतिर्दधातु॥ १-८९-६![](#)**
+स्वस्ति नो बृहस्पतिर्दधातु॥ १-८९-६<MISSING_FIG href="#"/>**
 
-**![](../books_images/U-IMG-1722950467123456.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1722950467123456.jpg"/>**
 
 **द्वितीया।**  
 **निष्कामता**
@@ -1401,7 +1395,7 @@ The followers of Indra are distinctly called Indians (the Bharati School) and th
 देवा नो यथा सदमित् वृधे असन्न्  
 अप्रायुवो रक्षितारो दिवेदिवे ॥ १-८९-१**
 
-**![](../books_images/U-IMG-1722950563123456.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1722950563123456.jpg"/>**
 
 **तृतीया।  
 कर्मनिष्ठा**
@@ -4995,4 +4989,3 @@ Price– As. 10
 Price–As. 4
 
 \]
-

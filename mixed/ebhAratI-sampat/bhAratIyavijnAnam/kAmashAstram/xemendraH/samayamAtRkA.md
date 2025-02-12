@@ -27,10 +27,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 [TABLE]
 
 **काव्यमाला।**  
-**![](../books_images/U-IMG-1698381264Untitled_321-removebg-preview.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1698381264Untitled_321-removebg-preview.png"/>**  
 **महाकविश्रीक्षेमेन्द्रकृता**  
 **समयमातृका  
-![](../books_images/U-IMG-1698381370Untitled_3213-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1698381370Untitled_3213-removebg-preview.png"/>**
 
 प्रथमः समयः।
 
@@ -2271,7 +2271,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk0NTY1MTA4NDc
 
 **इति श्रीक्षेमेन्द्रकृता समयमातृका समाप्ता ।**
 
-![](../books_images/U-IMG-1698494103Untitled456-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1698494103Untitled456-removebg-preview.png"/>
 
 **निर्णयसागरेऽङ्कितानि विक्रेयपुस्तकानि ।**
 

@@ -12,15 +12,33 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4
 
 \[
 
+
+
+
+
+
+
+
+
+
+
 **पञ्चपादिकाविवरणम् - a commentary on** **पञ्चपादिका by** **प्रकाशात्मन्**
 
+
+
 **प्रकाशात्मन् authors of a very learned on Padmapada's work goes beyond his original in his vivarana in giving new orientations to the Advaita doctrines, concepts and categories, their definitions and lay-out. The famous** **विवरणानुमान in support of the provenness of positive ignorance (भावरूपाज्ञान) in Advaita philosophy is assailed by Ramanuja in his** **श्रीभाष्य, while reviewing the edifice of the** **पूर्वपक्ष. The** **विविरण has also advanced a picturesque theory of Brahman's Jagad-उपादानत्व in association wwith** **माया, which has attained classical distinction.**
+
+
+
+
 
 **0श्रीः**
 
 **0श्रीप्रकाशात्मविरचितम्**
 
 **02पञ्चपादिकाविवरणम्**
+
+
 
 **पालने विमलसत्त्ववृत्तये जन्मकर्मणि रजोजुषे,** **लये॥**
 
@@ -813,6 +831,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4
  **
 पञ्चपादि2काविवरणे द्वितीयवर्णकं 2समाप्तम्॥ **
 
+
+
 ** 
 02अथ तृतीयं वर्णकम्**
 
@@ -954,6 +974,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4
 
 ** पञ्चपादिकाविवरणे2 प्रथमसूत्रार्थवर्णनं नाम2 तृतीयवर्णकं समाप्तम्॥**
 
+
+
 ** 02अथ तुरीयं वर्णकम्**
 
 ** "तत्पुनर्ब्रह्म प्रसिद्धमि"त्यादिभाष्यस्य तात्पर्यमाह--प्रयोजन-विषय-संबन्धानाक्षिपतीति॥ ** **ननु **
@@ -1072,6 +1094,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4
 
 ** 2तुरीयवर्णकं समाप्तम्॥**
 
+
+
 **  2अथ पञ्चमं वर्णकम्**
 
  **जगज्जन्म-स्थिति-ध्वंसा यतः सिध्यन्ति कारणात्।**
@@ -1173,6 +1197,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4
 
  ** पञ्चपादिकाविवरणे 2जन्माद्यधिकरणं नाम 2पञ्चमवर्णकं समाप्तम्॥**
 
+
+
 **
 02अथ षष्ठं वर्णकम्॥**
 
@@ -1219,6 +1245,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4
 
 ** 2षष्ठं वर्णकं समाप्तम्॥**
 
+
+
 ** 2अथ सप्तमं वर्णकम्॥**
 
  **अथवेत्यादिद्वितीयवर्णकविवरणं स्पष्टार्थम्॥ तस्माज्जन्मादिनिमित्तोपादानकारणं सर्वज्ञं ब्रह्मेति सिद्धम्। तत्र बिम्बस्थानीयं ब्रह्म मायाशक्तिमत् कारणम्,** **जीवाश्च प्रत्येकमविद्यानुबद्धा इति केचित्। मायाऽविद्याप्रतिबिम्बितं ब्रह्म जगत्कारणम्। विशुद्धं ब्रह्मामृतत्वालम्बनम्,** **जीवाश्चाविद्याबद्धा इत्यन्ये। जीवा एव स्वाविद्यया प्रत्येकं प्रपञ्चाकारेण ब्रह्माविर्भवन्तिं,** **सादृश्याच्च प्रपञ्चैकताभासोऽनेकैरवगतद्वितीयचन्द्रवत्। स्वरूपापेक्षया च ब्रह्म सर्वजगत्कारणमित्यपरे। ब्रह्मैकमेव स्वाविद्यया जगदाकारेण विवर्तते स्वप्नादिवदिति मतान्तरम्। तस्माद् ब्रह्मैव स्वमाययाऽविद्याया विवर्तत इति॥**
@@ -1228,6 +1256,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4
  ** पञ्चपादिकाविवरणे ब्रह्मणः सर्वज्ञत्वनिरूपणं नाम **
 
 **  2षष्ठं वर्णकं समाप्तम्॥**
+
+
 
 ** 2अथ अष्टकं वर्णकम्॥**
 
@@ -1305,6 +1335,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4
 
 ** 
 2नामाष्टकं वर्णकं समाप्तम्॥**
+
+
 
 > ** 2अथ नवमं वर्णकम्**
 >
@@ -2540,5 +2572,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDg2OTA1MTM4
 > पञ्चपादिकाविवरणे समन्वयाधि2करणं नाम नवमं वर्णकं2 समाप्तम्॥**
 >
 > 
+
+
+
+
+
+
+
+
 
 \]

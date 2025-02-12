@@ -47,7 +47,7 @@ THE UTTARA GĪTĀ
 
 उत्तरगीता
 
-![](../books_images/U-IMG-1722946555line5.png)
+<MISSING_FIG href="../books_images/U-IMG-1722946555line5.png"/>
 
 **प्रथमोऽध्यायः**  
 
@@ -753,7 +753,7 @@ to understand the great subtle Ātman, even if he be conversant with the four Ve
 
  47. As an hungry person simply wastes his energy in vain when he strikes the air with blows for food, so also a reader of the Vedas and other Śāstras simply wastes his time and energy, if, notwithstanding his study, he fails to realize that "I am Brahman".
 
-![](../books_images/U-IMG-1724214539line5.png)  
+<MISSING_FIG href="../books_images/U-IMG-1724214539line5.png"/>  
 
 **तृतीयोऽध्यायः**
 
@@ -863,6 +863,6 @@ names, and colours— alone can see the Eternal Paramātman actually.
 
  17. O Arjuna, he who does not covet material objects, never takes birth again in this world.
 
-![](../books_images/U-IMG-1724215719line5.png)
+<MISSING_FIG href="../books_images/U-IMG-1724215719line5.png"/>
 
 \]

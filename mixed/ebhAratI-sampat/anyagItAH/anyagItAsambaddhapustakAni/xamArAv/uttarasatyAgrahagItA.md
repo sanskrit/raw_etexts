@@ -7855,8 +7855,8 @@ CHARGES AGAINST THE CONGRESS**
 
  Victory to Gandhi, the peaceful King of Satyagraha whose Gospel of Truth and Purity has dispelled peoples' ignorance like the full moon with her brilliance the darkness of night.
 
-BOMBAY,![](../books_images/U-IMG-1722506774Screenshot2024-08-01153405.png)![](#)  
-*Oct 1944![](../books_images/U-IMG-1722506893Screenshot2024-08-01153425.png)*
+BOMBAY,<MISSING_FIG href="../books_images/U-IMG-1722506774Screenshot2024-08-01153405.png"/><MISSING_FIG href="#"/>  
+*Oct 1944<MISSING_FIG href="../books_images/U-IMG-1722506893Screenshot2024-08-01153425.png"/>*
 
 |                      |                         |
 |:--------------------:|:-----------------------:|

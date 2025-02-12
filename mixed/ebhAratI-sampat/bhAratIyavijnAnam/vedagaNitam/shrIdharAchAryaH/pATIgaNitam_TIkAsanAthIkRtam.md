@@ -259,15 +259,15 @@ Professors Maskarî Pûraṇa, Mudgala, and others. How can that be stated by th
 
     (1) ‘The sum of the series) which Âcârya Skandasena has interpreted with the help of a series-figure (*śreḍhi*) is meant to illustrate the figure (of the series).”[^6]
 
-     (2) “The Âcârya (Brahmagupta) has stated here only five varieties (of fractions). The sixth variety has been omitted, as it consists of the rest and is therefore virtually taught.
-
 [^6]: "यच्च स्कन्दसेनाचार्येण श्रेढीन्यायेन सङ्कलितं प्रदर्शितं तत सङकलनं क्षेत्रप्रदर्शनाय। See Pṛthûdakasvâmi’s comm. on BrSpsi, xii. 2."
+
+     (2) “The Âcârya (Brahmagupta) has stated here only five varieties (of fractions). The sixth variety has been omitted, as it consists of the rest and is therefore virtually taught.
 
 It has been given by Skandasena and others under the name of *bhâgamâtâ.*”[^7]
 
-    (3) “This method (of multiplication) by parts is taught by Skandasena and others. In like manner the other methods of multiplication such as *tatstha* and *kapâṭa-sandhi*, taught by the same authors, may be inferred by the students’ own ingenuity.”[^8]
-
 [^7]: "एवमिहाचार्येण पञ्चजातय एवोक्ताः । यत षष्ठीति तदात्मकैवातो गतार्थेति कृत्वा नोक्ता। स्कन्दसेनादिभिस्तस्या नाम कृते भागमातेति। See Pṛthûdakasvâmi's comm. on BrSpSi, xii. 9"
+
+    (3) “This method (of multiplication) by parts is taught by Skandasena and others. In like manner the other methods of multiplication such as *tatstha* and *kapâṭa-sandhi*, taught by the same authors, may be inferred by the students’ own ingenuity.”[^8]
 
 [^8]: "See Pṛthûdakasvâmi’s comm. on BrSpSi, xii. 55."
 
@@ -335,9 +335,9 @@ This work, written as a sequel to the *Âryabhaṭiya* of Âryabhaṭa I, was al
 
     “He who distinctly and severally knows the twenty logistics, addition, etc., and the eight determinations ending with shadow, is a mathematician.”[^13]
 
-    The twenty logistics, according to Brahmagupta’s commentator, Pṛthûdakasvâmî, are: (1) *saṅkalita* (addition), (2) *vyavakalita* (subtraction), (3) *pratyutpanna* (multiplication), (4) *bhâgahâra* (division), (5) *varga* (square), (6) *varga-mûla* (square root), (7) *ghana* (cube), (8) *ghana-mûla* (cube root), (9-13) *pañca-jâtayaḥ* (five varieties of reduction of fractions), (14) *trairâśika* (rule of three), (15) *vyasta-trairâśika* (inverse rule of .three), (16) *pañca-râśika* (rule of five), (17) *sapta-râśika* (rule of seven), (18) *nava-râśika* (rule of nine), (19) *ekâdaśa-râšika* (rule of eleven), and (20) *bhâṇḍa-pratibhâṇḍa* (barter of commodities). The eight determinations are: (1) *miśraka* (mixtures), (2) *śreḍhi* (series), (3) *kṣetra* (plane figures), (4) *khâta* (excavations), (5) *citi* (piles of bricks), (6) *krâkacika* (saw problems), (7) *râśi* (heaps or mounds of grain), and (8) *châyâ* (shadow).
-
 [^13]: "BrSpSi, xii. 1. "
+
+    The twenty logistics, according to Brahmagupta’s commentator, Pṛthûdakasvâmî, are: (1) *saṅkalita* (addition), (2) *vyavakalita* (subtraction), (3) *pratyutpanna* (multiplication), (4) *bhâgahâra* (division), (5) *varga* (square), (6) *varga-mûla* (square root), (7) *ghana* (cube), (8) *ghana-mûla* (cube root), (9-13) *pañca-jâtayaḥ* (five varieties of reduction of fractions), (14) *trairâśika* (rule of three), (15) *vyasta-trairâśika* (inverse rule of .three), (16) *pañca-râśika* (rule of five), (17) *sapta-râśika* (rule of seven), (18) *nava-râśika* (rule of nine), (19) *ekâdaśa-râšika* (rule of eleven), and (20) *bhâṇḍa-pratibhâṇḍa* (barter of commodities). The eight determinations are: (1) *miśraka* (mixtures), (2) *śreḍhi* (series), (3) *kṣetra* (plane figures), (4) *khâta* (excavations), (5) *citi* (piles of bricks), (6) *krâkacika* (saw problems), (7) *râśi* (heaps or mounds of grain), and (8) *châyâ* (shadow).
 
     More or less the same topics have been recognized by the other writers also.
 
@@ -387,9 +387,9 @@ i.e., “multiply both the sides (of the quadratic equation ax²+bx = c) by a kn
 
 the students I have taken the essence of those works and compiled this small work with demonstrations.”[^20]
 
-    This shows that Śridharâcârya’s *Bîjagaṇita* was an extensive work on the subject.
-
 [^20]: "‘ब्रह्माह्व्यश्रीधरपद्मनाभबीजानि यस्मादतिविस्तृतानि।  आदाय तत्सारमकारि नूनं सद्युक्तियुक्तं लघु शिष्यतुष्ट्यै॥"
+
+    This shows that Śridharâcârya’s *Bîjagaṇita* was an extensive work on the subject.
 
 *Other works ascribed to Śrîdharâcârya*
 
@@ -449,9 +449,9 @@ a similar example in the Gaṇita-kaumudi of Nârâyaṇa proves Śridharâcâry
 
     Besides the above-mentioned specialities which relate to the subject matter of the *Pâṭigaṇita*, there is one more peculiarity which pertains to the composition of the *Pâṭigaṇita* and deserves special notice. This lies in the fact that the author has taken care to employ exclusively the *âryâ* metre in the formation of verses giving the rules. There is not a single rule which is in any other metre. This, however, cannot be said regarding the verses containing the examples, although the examples are also generally set in the same metre. We find that out of 133 examples, 104 are in the *âryâ* metre, 26 in the *anuṣṭup* metre, 1 in *upajâti*, 1 in *śardûlavikridit*, and 1 in *vaśantatilakâ*.[^26]
 
-   **3-2. The Patiganita-sara ( or Trisatika ).** The *Pâṭigaṇita-sâra*, as its name implies and as the author himself says in the opening stanza to that work, is an abstract of the  
-
 [^26]: "Exs. 1-15, 17-31, 33, 36-44, 47, 50-56, 59-66, 69, 72, 76-77, 86-88, 91-103, 106-133 are in the âryâ metre; Exs. 34, 35, 45, 46, 48, 49, 57, 58 67, 68, 71, 73-75, 78-85, 89, 90, 104, 105 are in anuṣṭup; Ex. 16 is in upajâti; Ex. 32 is in Śârdûlavikriḍit; and Ex. 70 is in vasantatilakâ."
+
+   **3-2. The Patiganita-sara ( or Trisatika ).** The *Pâṭigaṇita-sâra*, as its name implies and as the author himself says in the opening stanza to that work, is an abstract of the  
 
 *Pâṭigaṇita.* It gives the important rules and examples of the *Pâṭigaṇita* with slight modifications, alterations and additions here and there, and provides a short course of arithmetic and mensuration. From the study of the latter part of this work, which does not have its counterpart in our incomplete manuscript of the *Pâṭigaṇita*, we find that the following two approximate formulæ are Śridharâcârya's own contributions to the subject:
 
@@ -459,9 +459,9 @@ a similar example in the Gaṇita-kaumudi of Nârâyaṇa proves Śridharâcâry
 
 $= \\sqrt{\\frac{10}{3}} \\times \\frac{\\left( {{chord} + {arrow}} \\right)}{2} \\times {arrow}$[^27]
 
-     This formula occurs for the first time in this work and is better than the following formula given by Mahâvîra[^28]:
-
 [^27]: "Triś, p. 35, Rule 47."
+
+     This formula occurs for the first time in this work and is better than the following formula given by Mahâvîra[^28]:
 
 [^28]: "See GSS, vii. 70½."
 
@@ -475,9 +475,9 @@ $= 4({radius})^{3}\\left( {1 + \\frac{1}{18}} \\right)$
 
  = (4.22..)*r*³,*w**h**e**r**e**r*=radius.[^29]
 
-The formulæ given by the earlier writers are as follows:
-
 [^29]: "See Triś, p. 39, Rule 56."
+
+The formulæ given by the earlier writers are as follows:
 
 (i) Âryabhaṭa I's formula[^30]: 
 $\\left( {\\pi r^{3}} \\right)^{\\frac{3}{2}} = \\left( {5.56....} \\right)r^{3}.$
@@ -627,9 +627,9 @@ the earlier works on the subject which were studied in the times of Bhâskara I 
 
    (2) Bhâskara II's commentary on his own *Bijagaṇita*.[^36]
 
-   (3) Bhâskara II's commentary on the *Siddhânta-širomaṇi*.[^37].")  
-
 [^36]: "Vide supra, $3."
+
+   (3) Bhâskara II's commentary on the *Siddhânta-širomaṇi*.[^37].")  
 
 [^37]: "Sec Golâdhyâya, Bhuvanakoša, vs. 52 (comm.
 
@@ -685,15 +685,13 @@ the earlier works on the subject which were studied in the times of Bhâskara I 
 
 (17) Raṅganâtha's (1603 A.D.) commentary, entitled *Mitabhâṣiṇi*, on the *Lilâvati* of *Bhâskara* II.[^51]. Catalogue No 2814. Also see N. Ramanujacharia and G. R. Kaye, 'The Triśatikâ of Śridharâcârya, Bibliotheca Mathematica, Vol. XIII (1912-13), p. 205.")
 
-[^38]: "The passages quoted are PG, Rules 34 and 35."
-
 [^51]: "See Catalogue of the Sanskrit Manuscripts in the Library the India Office. Part V. Edited by J. Eggeling, London (1896
 
 (18) Mahîdhara's (1635 A.D.) commentary on the *Lilâvati*of Bhâskara II.[^52]
 
-(19) Anonymous commentary, entitled the *Prayoga-racanã* on the *Mahâ-Bhâskariya* of Bhâskara I[^53]. See comm. on MBh, i. 20.").
-
 [^52]: "The passages quoted are Triś, Exs. 26 and 28."
+
+(19) Anonymous commentary, entitled the *Prayoga-racanã* on the *Mahâ-Bhâskariya* of Bhâskara I[^53]. See comm. on MBh, i. 20.").
 
 [^53]: "The passage quoted is PG, Rule 39(i
 
@@ -713,15 +711,15 @@ the earlier works on the subject which were studied in the times of Bhâskara I 
 
 (1) Whereas there is only one manuscript of the *Pâṭigaṇita* available at present, manuscripts of the *Triśatikâ* are known to exist at several places in India.[^56]
 
-(2) Whereas we are aware of only one commentary on the *Pâṭigaṇita*, we know of the following five commentaries on the *Triśatikâ*:
-
 [^56]: "Manuscripts of the Triśatikâ exist in the Central Library, Baroda; the Oriental Institute, Baroda; the Sanskrit College Library, Banaras; the Anup Sanskrit Library, Bikaner; the West Punjab University Library, Lahore; the Library of the India Office, London; the British Museum, London; the Lucknow University Library, Lucknow; the Jaina Matha, Moodbidri; the Curator's Office Library, Trivandrum; and the Scindhia Oriental Institute, Ujjain."
+
+(2) Whereas we are aware of only one commentary on the *Pâṭigaṇita*, we know of the following five commentaries on the *Triśatikâ*:
 
     (i) A commentary by Śambhûnâtha.[^57]
 
-    (ii) A commentary by Vrndâbana Śukla.[^58]
-
 [^57]: "Mentioned in the Catalogue of Manuscripts from Guzerat."
+
+    (ii) A commentary by Vrndâbana Śukla.[^58]
 
 [^58]: "Mentioned by Dr A. N. Singh."
 
@@ -735,9 +733,9 @@ the earlier works on the subject which were studied in the times of Bhâskara I 
 
     (v) An anonymous commentary in Gujarâtî.[^61]
 
-It is noteworthy that the last-mentioned three commentaries were written in the regional languages of India. This is another evidence of the great popularity of this work.
-
 [^61]: "A manuscript of this commentary exists in the Oriental Institute, Baroda, Accession No. 4660. Some extracts from this manuscript have been quoted by Bhogilal J. Sandesara in his paper, entitled 'Weights, Measures and Coinage of Mediaeval Gujrat . See Journal of the Numismatic Society of India , Vol . VIII . Part II, 1946 , pp . 138-146 ."
+
+It is noteworthy that the last-mentioned three commentaries were written in the regional languages of India. This is another evidence of the great popularity of this work.
 
 (3) Manuscripts of the *Triśatikâ* that are now available exhibit a remarkable divergence in their texts.  
 
@@ -752,9 +750,9 @@ This divergence, which is evidently due to continual modifications and interpola
 उत्तरतो सुरनिलयं दक्षिणतो मलयपर्वतं यावत् ।  
 प्रागपरोदधिमध्ये नो गणकः श्रीधरादन्यः॥[^62]
 
-"Up to the abode of he gods (i.e., the Himalayas) towards the north and up to the Malaya mountain towards the south and between the eastern and western oceans, there is no mathematician except Śrîdhara.
-
 [^62]: "This verse occurs as a quotation in the Gujarâtî commentary, referred to above. It is also found to occur in the end of several manuscripts of the Triśatikâ, including that containing the commentary by Vallabha."
+
+"Up to the abode of he gods (i.e., the Himalayas) towards the north and up to the Malaya mountain towards the south and between the eastern and western oceans, there is no mathematician except Śrîdhara.
 
     From the *Kâvyakalpalatâ-vṛtti'*[^63] of Amar Siṁha Yati we learn that Śridharâcârya was considered to be so great as a mathematician that the ideal of a Hindu mathematician was to be a Śridhara.
 
@@ -833,35 +831,35 @@ are due to the influence of Śridharâcârya. There is, in general, a close agre
                                    
       (*GT,* p. 42, lines 9-12)[^65]
 
-(iii) शतस्य भाव्यके यत्र षड् भवन्ति पृथक् सखे ।
-
 [^65]: "Cf. Triś, Ex. 27."
+
+(iii) शतस्य भाव्यके यत्र षड् भवन्ति पृथक् सखे ।
 
 तत्र रूपसहस्रस्य मध्यतः किं भवेद् वद ॥  
                                 
 (*GT*, p. 70, lines 11-12)[^66]
 
-(iv) द्विकव्यासोऽष्टकायामः कम्बलो लभते दश ।
-
 [^66]: "Cf. Triś, Ex.37."
+
+(iv) द्विकव्यासोऽष्टकायामः कम्बलो लभते दश ।
 
    अन्यौद्वौ त्रिनवायामौ किमाप्नुतः कथयताम् ।  
                                    
 (*GT,* p.78, lines 23-24)[^67]
 
-(v) आयामव्यासपिण्डेन नवपञ्चैकहस्तिका।
-
 [^67]: "Cf. Triś, Ex. 51."
+
+(v) आयामव्यासपिण्डेन नवपञ्चैकहस्तिका।
 
      लभतेऽष्टौ शिलाऽन्ये द्वे दशसप्तद्विहस्तिके॥  
                                    
 (*GT*, p. 79, lines 9-10)[^68]
 
+[^68]: "Cf. Triś, Ex. 52."
+
     A number of other rules and examples occurring in the *Gaṇita-tilaka* are similar to those found in the *Triśatikâ*, and seem to be based on them[^69]-27(i). GT,P 74, lines 8-9 with    Triś, Ex. 38.  GT, p. 74, line 16-17 with   Triś, Ex. 47. GT, p. 75, lines 6-9 with   Triś, Ex. 44.  GT, p.77, lines 22-25 with  Triś, Ex.50.  GT, p. 78, lines 8-11 with   PG. Ex. 49. GT, p. 82, lines 2-5 with   Triś, Ex. 51.  GT, p.83, lines 5-6 with     Triś, Ex. 57.  GT, p. 83, lines 25-28 with  Triś, Ex. 59.  GT, p. 86, lines 25-28 and p.87, lines 1-2,22-23 with Triś, Exs. 60-62.").  
     (3) *Influence on Bhâskara II* (1150 A.D.) and *Nârâyaṇa* (1356 A.D.). Influence of Śridharâcârya's works is also visible in the *Lilâvati* of Bhâskara II and the *Gaṇita-kaumudi* of Nârâyaṇa.  
     **4. Present Commentary on the Patiganita.** The commentary subjoined to the text of the *Pâṭigaṇita* in the present edition is entitled *tikâ*. It aims at explaining the
-
-[^68]: "Cf. Triś, Ex. 52."
 
 [^69]: "For example, compare: -- GT,p. 39, lines 7-10 with   Triś, Rule 26(ii
 
@@ -880,16 +878,16 @@ We have however, been, able to trace the following two quotations to the *Brâhm
 
 (i) पदमेकहीनमुत्तरगुणितं संयुक्तमादिनाऽन्त्यधनम् ।[^70]
 
- आदियुतान्त्यधनार्धंमध्यधनं पदगुणं गणितम् ॥[^70]
-
 [^70]: "p. 118-119, and p.137.Cf. BrSpSi,  xii. 17."
+
+ आदियुतान्त्यधनार्धंमध्यधनं पदगुणं गणितम् ॥[^70]
 
 (ii) स्थूलफलं त्रिचतुर्भुजबाहुप्रतिबाहुयोगदलघातः।  
          भुजयोगार्धचतुष्टयभुजोनघातात् पदं सूक्ष्मम्॥[^72]
 
-    The following two quotations, in the *âryâ* metre, though wrongly ascribed by the commentator to Śridharâcârya, are also traced to the *Brâhma-sphuṭa-siddhânta* of Brahmagupta :
-
 [^72]: "p. 159, lines 22-23.Cf. BrSpSi, xii.21."
+
+    The following two quotations, in the *âryâ* metre, though wrongly ascribed by the commentator to Śridharâcârya, are also traced to the *Brâhma-sphuṭa-siddhânta* of Brahmagupta :
 
 (iii) धनयोर्धनमृणमृणयोर्धनर्णयोरन्तरं समैक्यं खम्।  
       खर्णैक्यमृणं धनशून्ययोर्धनं शून्ययोः शून्यम्[^73].") ॥'
@@ -1185,9 +1183,9 @@ circumference ×diameter,
 
 which was unknown to Śridharâcârya[^90]
 
-  (iii)Âryabhaṭa II[^91]criticises the formula used by Śridharâcârya for finding the area of a quadrilateral with unequal altitudes, viz.,
-
 [^90]: "Sce MSi, xvi. 35-36."
+
+  (iii)Âryabhaṭa II[^91]criticises the formula used by Śridharâcârya for finding the area of a quadrilateral with unequal altitudes, viz.,
 
 [^91]: "Sce MSi, xv. 70."
 
@@ -1213,9 +1211,9 @@ $\\frac{1}{2}$(base + face) ×altitude,
 
 and for the latter he prescribes the faulty formula[^95]
 
-$\\sqrt{(s - a)\~(s - b)\~(s - c)\~(s - d)}\~$.
-
 [^95]: "PG, Rule 117."
+
+$\\sqrt{(s - a)\~(s - b)\~(s - c)\~(s - d)}\~$.
 
 This clearly shows that Śridharâcârya lived in an age when the accuracy of the above formula as giving the area of any quadrilateral had begun to be questioned, but this formula had not yet been abandoned.  
   From the arguments adduced above it is proved without any shadow of doubt that Śrîdharâcârya lived sometime between Mahâvira (850 A.D.) and Âryabhaṭa II (c. 950 A.D.).
@@ -1516,7 +1514,7 @@ Jaina[^96]. Similarly, Baladeva Miśra associates him with north India on the ba
 एकाद्येकचयेन प्रचक्ष्व तस्मात् पदं चाशु ॥ १ ॥**
 
   एको दशगुणो दश। 'आदि'ग्रहणाद् द्व्यादयो[^179]गृह्यन्ते । ते दशगुणा विंशतिः, त्रिंशत्, चत्वारिंशत्, पञ्चाशत्, षष्टिः, सप्ततिः, अशीतिः, नवतिः, शतमिति सम्भवति। एतेषां पदानामेकाद्येकोत्तरेण सङ्कलितं किं स्यादिति प्रचक्ष्व, कथय। तस्मात् पदं चाशु इति, सङ्कलितात् पदानयनप्रश्नार्थाद् वाक्यान्तराद् आशु पदम्। इहोभयप्रश्नशेषत्वात्तस्य तेन शीघ्रं कथयेत्यर्थः। एतेन करणसूत्रारम्भसाफल्यमुत्पादयति। करणसूत्रोक्तक्रमेण लक्षादेरपि[^180] तावानेव प्रयत्नलेशो यावान् द्वयोः सङ्कलितानयने। प्रशास्त्रितक्रमेण च द्वयोः सङ्कलितम्
-----आदौ रूपं न्यस्य तदनन्तरं रूपद्वयं तत्रापि रूपस्य रूपयोश्च युतिरिति त्रीणि कर्माणि, तान्येव सूत्रक्रमे-सैकपदमित्येकम्, आहतपदमिति द्वितीयम् दलमिति तृतीयम्। अथ इह पदस्थान(त्रय)मिति त्रीणि कर्माणि युतिश्च चतुर्थम्। यदि वा रूपेण रूपद्वययुतिस्तदा रूपत्रययुतिरिति[^181]', अत्र पञ्च कर्माणि भवन्तीत्यस्मादेव प्रभृति करणक्रमो लघुभवति। अपि च भिन्ने भागात्मके वा पदे सङ्कलितस्थापनमसूत्रितस्य नैव शक्यम्। तथाहि-रूपस्य तावद् रूपमेव सङ्कलितं, रूपार्द्धस्य किंसङ्कलितमित्यनुपाताद् रूपार्धमेव स्यात् न चैवम्। तथाहि--अर्द्धं $\\begin{matrix} \\begin{matrix} \\mathbf{१} \\\\ \\mathbf{२} \\\\ \\end{matrix} \\\\ \\end{matrix}$, सैकमिति सवर्णीकृतरूपसहितं त्रयो द्विभागाः सम्पद्यन्ते$\\begin{matrix} \\mathbf{३} \\\\ \\mathbf{२} \\\\ \\end{matrix}$;पदेन[^182]रूपार्द्धेन[^183]$\\mathbf{\\begin{pmatrix} १ \\\\ २ \\\\ \\end{pmatrix}}$अनेन गुणितं भिन्नप्रत्युत्पन्नकर्मणा 'प्रत्युत्पन्नफलं स्यादंशवधे छेदघातसम्भक्ते' इत्यंशयोस्त्रिकैकयोर्वधे (३) छेदयोर्द्विद्विकयोर्घातेन[^184](४) भक्ते त्रयश्चतुर्भागा जायन्ते $\\begin{pmatrix} \\mathbf{३} \\\\ \\mathbf{४} \\\\ \\end{pmatrix}$;तेषां दलमिति चतुर्भागत्रयेऽस्मिन् $\\begin{matrix} \\mathbf{३} \\\\ \\mathbf{४} \\\\ \\end{matrix}$दलिते अर्द्धेन $\\begin{matrix} \\mathbf{१} \\\\ \\mathbf{२} \\\\ \\end{matrix}$अनेन भिन्नप्रत्युत्पन्नकर्मणा गुणितेन त्रयोष्टभागा जायन्ते$\\begin{matrix} \\begin{matrix} \\mathbf{३} \\\\ \\mathbf{८} \\\\ \\end{matrix} \\\\ \\end{matrix}$। आनुपातिकस्य रूपार्द्धस्य एषां चान्तरमष्टभागाः$\\begin{matrix} \\mathbf{१} \\\\ \\mathbf{८} \\\\ \\end{matrix}$। न चानुपातिकमुपपद्यते, रूपार्द्धयोरपि[^185] परस्परं न्यूनाधिकधनत्वोपपत्तेः। अन्यथा (रूपार्धस्य) रूपार्द्धं धनं, तद्द्विगुणं रूपस्य, तदनुसारेण द्वयोर्द्वयं स्यान्न त्रयमिति[^186]। तस्मात्करणं श्रेयः।
+----आदौ रूपं न्यस्य तदनन्तरं रूपद्वयं तत्रापि रूपस्य रूपयोश्च युतिरिति त्रीणि कर्माणि, तान्येव सूत्रक्रमे-सैकपदमित्येकम्, आहतपदमिति द्वितीयम् दलमिति तृतीयम्। अथ इह पदस्थान(त्रय)मिति त्रीणि कर्माणि युतिश्च चतुर्थम्। यदि वा रूपेण रूपद्वययुतिस्तदा रूपत्रययुतिरिति[^181]', अत्र पञ्च कर्माणि भवन्तीत्यस्मादेव प्रभृति करणक्रमो लघुभवति। अपि च भिन्ने भागात्मके वा पदे सङ्कलितस्थापनमसूत्रितस्य नैव शक्यम्। तथाहि-रूपस्य तावद् रूपमेव सङ्कलितं, रूपार्द्धस्य किंसङ्कलितमित्यनुपाताद् रूपार्धमेव स्यात् न चैवम्। तथाहि--अर्द्धं $\\begin{matrix} \\begin{matrix} \\mathbf{१} \\\\ \\mathbf{२} \\\\ \\end{matrix} \\\\ \\end{matrix}$, सैकमिति सवर्णीकृतरूपसहितं त्रयो द्विभागाः सम्पद्यन्ते$\\begin{matrix} \\mathbf{३} \\\\ \\mathbf{२} \\\\ \\end{matrix}$;पदेन[^182]रूपार्द्धेन[^183]$\\mathbf{\\begin{pmatrix} १ \\\\ २ \\\\ \\end{pmatrix}}$अनेन गुणितं भिन्नप्रत्युत्पन्नकर्मणा 'प्रत्युत्पन्नफलं स्यादंशवधे छेदघातसम्भक्ते' इत्यंशयोस्त्रिकैकयोर्वधे (३) छेदयोर्द्विद्विकयोर्घातेन[^184] (४) भक्ते त्रयश्चतुर्भागा जायन्ते $\\begin{pmatrix} \\mathbf{३} \\\\ \\mathbf{४} \\\\ \\end{pmatrix}$;तेषां दलमिति चतुर्भागत्रयेऽस्मिन् $\\begin{matrix} \\mathbf{३} \\\\ \\mathbf{४} \\\\ \\end{matrix}$दलिते अर्द्धेन $\\begin{matrix} \\mathbf{१} \\\\ \\mathbf{२} \\\\ \\end{matrix}$अनेन भिन्नप्रत्युत्पन्नकर्मणा गुणितेन त्रयोष्टभागा जायन्ते$\\begin{matrix} \\begin{matrix} \\mathbf{३} \\\\ \\mathbf{८} \\\\ \\end{matrix} \\\\ \\end{matrix}$। आनुपातिकस्य रूपार्द्धस्य एषां चान्तरमष्टभागाः$\\begin{matrix} \\mathbf{१} \\\\ \\mathbf{८} \\\\ \\end{matrix}$। न चानुपातिकमुपपद्यते, रूपार्द्धयोरपि[^185] परस्परं न्यूनाधिकधनत्वोपपत्तेः। अन्यथा (रूपार्धस्य) रूपार्द्धं धनं, तद्द्विगुणं रूपस्य, तदनुसारेण द्वयोर्द्वयं स्यान्न त्रयमिति[^186]। तस्मात्करणं श्रेयः।
 
 [^179]: "द्वादयो"
 
@@ -1631,8 +1629,6 @@ Jaina[^96]. Similarly, Baladeva Miśra associates him with north India on the ba
 
 दलितम् ७० । सङ्कलितम्'[^211] ३२४०, अष्टघ्नं २५९२०, सैकं २५९२१, मूलं १६१, व्येकं १६०, दलितम् ८० । सङ्कलितम्[^211] ४०९५, अष्टघ्नं ३२७६०, सैकं ३२७६१, मूलं १८१, व्येकं १८०, दलितम् ९० । सङ्कलितम्[^211]५०५०, अष्टगुणं ४०४००, सैकं ४०४०१, मूलं २०१, व्येकं २००, दलितम् १०० ।
 
-[^211]: "सं"
-
 **सैकं व्यवकलितपदं[^220] सङ्कलितपदे निधाय सङ्गुणयेत् ।  
 पदयोर्विवरेण भवेद्दलीकृतं व्यवकलितशेषम् ॥ १६ ॥**
 
@@ -1657,8 +1653,6 @@ Jaina[^96]. Similarly, Baladeva Miśra associates him with north India on the ba
 
 व्यवकलितपदं[^227]८०, सैकं ८१, सन्निधाय १८१, पदमध्येन विंशत्या गुणितं ३६२०, दलितम् १८१० । व्यवकलितपदं[^229] ९०, सैकं ९१, सन्निधाय १९१, पदमध्येन[^230]दशभिर्गुणितं १९१०, दलितम् ९५५ । व्यवकलितपदं[^229] १००, सैकम् १०१, सन्निधाय २०१, पदमध्येन[^230] (शून्येन) गुणितं (०), दलितम् (०)
 
-[^227]: "व्य"
-
 [^229]: "व्यपकलितं"
 
 [^230]: "पदस्य मध्येन"
@@ -1678,8 +1672,6 @@ Jaina[^96]. Similarly, Baladeva Miśra associates him with north India on the ba
 [^236]: "ज्ञातुं"
 
    उदाहरणम्--'शतस्य सङ्कलितादज्ञातराशेः कस्यचित्सङ्कलिते शुद्धे[^237] शेषं दृश्यते ४९९५, तत्कस्य सम्बन्धि सङ्कलितं शुद्धमिति' प्रश्ने कर्म- सङ्कलितपदं १००, तद्धनम् ५०५०, अतः शेषं ४९९५ शोधयित्वा अवशिष्टं ५५, द्विगुणम् ११०, अतो मूलं १०, शेषम् १०। (तथा) सङ्कलितात्[^211] ५०५०, शेषं ४८४० त्यक्त्वाऽवशिष्टात् २१०, द्विगुणात् ४२०, मूलं २०, शेषम् २०। तथा व्यवकलितशेषं[^239] ४५८५ सं (कलिता)त्त्यक्त्वाऽवशिष्टात् ४६५, द्विगुणात् ९३०, मूलं ३०, शेषम् ३०। तथा व्यवकलितशेषं[^240]४२३० त्यक्त्वाऽवशेषात् ८२०, द्विगुणात् १६४०, मूलं ४०, शेषम् ४० । तथा व्यवकलितशेषं३७७५, त्यक्त्वाऽवशेषात् १२७५, द्विगुणात् २५५०, मूलं ५०, शेषम् ५० । तथा व्यवकलितशेषं[^241] ३२२०, त्यक्त्वाऽवशेषात् १८३०, द्विगुणात् ३६६०, मूल ६०, शेषम् ६० । तथा व्यवकलितशेषं[^241]२५६५, त्यक्त्वाऽवशेषात् २४८५, द्विगुणात् ४९७०, मलं ७०, शे(षम्) ७० । तथा व्यवकलितशेषं[^241] १८१०, त्यक्त्वाऽवशेषात् ३२४०, द्विगुणात् ६४८०, मूलं ८०, शे(षम्) ८० । तथा (व्यवकलितशेषं) ९५५, त्यक्त्वाऽवशिष्टात्  
-
-[^211]: "सं"
 
 [^237]: "शुद्ध"
 
@@ -1709,9 +1701,9 @@ Jaina[^96]. Similarly, Baladeva Miśra associates him with north India on the ba
 
 **(** **उदाहरणानि -**[^246]
 
-**षण्णवतिद्विकमेकं चैकद्विगुणानि षण्णवाष्टौ च ।**
-
 [^246]: "अत्र मूलपुस्तकं खण्डितम् "
+
+**षण्णवतिद्विकमेकं चैकद्विगुणानि षण्णवाष्टौ च ।**
 
 **सप्तत्रिगुणान् पंचकषट्खाष्टौ च कुरु षष्टिगुणान् ॥ ३ ॥)**
 
@@ -1893,8 +1885,6 @@ Jaina[^96]. Similarly, Baladeva Miśra associates him with north India on the ba
 
 अत्र चतुःषडष्टकानि[^296] एकशतायुतस्थानानि विषमपदानि, तेभ्योऽयुतस्थानस्थमष्टकमन्त्यं विषमपदं, तदादिराशिरष्टादश तेषु सम्भवी वर्गः षोडश एतेभ्यः अपास्य शेषं द्वौ, तदन्तो राशिरुपरितनो व्यवतिष्ठते। एवं स्थिते सति षोडशानां मूलं चत्वारः द्विगुणा अष्टौ, वर्गशुद्धिस्थानादूनस्थानषट्काधो नेयः। ततश्च[^297]भागापहारः उपरितन्याः षड्विंशतेः । न्यासः$\\begin{matrix} \\mathbf{२} & \\mathbf{६} & \\mathbf{६} & \\mathbf{२} & \\mathbf{४} \\\\
 & \\mathbf{८} & & & \\\\ \\end{matrix}$। त्रिभिः पतनाच्चतुर्विंशतौ[^298] शुद्धायाम् उपरि द्वौ शेषः, अधो भागलब्धकास्त्रयस्ते पङ्क्त्यां निवेश्याः, षट्कस्याधः स्थाप्याः, एतस्य[^103]वर्गो नव[^300]तदुपरिष्टात् षड्विंशतेः[^301]शोध-
-
-[^103]: "एवं"
 
 [^296]: "ºषडकानि"
 
@@ -2788,9 +2778,9 @@ $\\begin{matrix} \\mathbf{१} & \\mathbf{५} \\\\
 
     सूत्रोक्तकर्मणा लब्धं सुवर्णा २४४ भाषा ५ रक्तिका ४ भागः १/११।[^428]
 
-    चतुर्थोदाहरणम्--
-
 [^428]: "१/१० "
+
+    चतुर्थोदाहरणम्--
 
 **त्रिकनवककम्बलानां विष्कम्भायामतः शतद्वितये ।  
 द्विकषट्ककम्बलाः कति जायन्ते कथ्यतामाशु ॥ ३७ ॥**
@@ -5786,9 +5776,9 @@ Rule for finding the sum of a series of natural numbers:
 
    14(i). When the first term (*âdi*) and the common difference (*caya*) of a series (in arithmetic progression) are (each) unity, the sum (*saṅkalita*) is equal to half the number of terms (*pada*) multiplied by the number of terms plus one.[^451]
 
-   That is,
-
 [^451]: "Cf, GK, I, p. 114, lines 15-16."
+
+   That is,
 
 S_(n)=1+2+3+...+n=
 
@@ -6043,9 +6033,9 @@ o  o  o  o
 
 to be the reading of the second half of verse 28, have given the following translation for it :[^463]
 
-   "The cube (of a given number) is equal to the series whose terms are formed by applying the rule, 'the last term multiplied by thrice the preceding term plus one,' to the terms of the series whose first term is zero, the common difference is one and the last term is the given number."
-
 [^463]: "B. Datta and A. N. Singh, History of Hindu Mathematics, Part I, page 168."
+
+   "The cube (of a given number) is equal to the series whose terms are formed by applying the rule, 'the last term multiplied by thrice the preceding term plus one,' to the terms of the series whose first term is zero, the common difference is one and the last term is the given number."
 
    This gives
 
@@ -6364,9 +6354,9 @@ Rule for reducing a chain (*valli*) of measures :
 
    41. To reduce a chain (*valli*), multiply the foremost denominator and numerator by the lower denominator, and (then) from or to the foremost numerator subtract or add (as the case may be) the lower numerator.[^482]
 
-   Ex. 22. What amount is obtained by reducing 5 *purâṇas*, 3 *paṇas*, 1 *kâkiṇi* , - 1 *varâṭaka* , - 1/5of that (i.e., of a *varâṭaka*) (to *purâṇas*) ?
-
 [^482]: "Cf. MSi, xv. 18 ; GT, p. 39, lines 7-10."
+
+   Ex. 22. What amount is obtained by reducing 5 *purâṇas*, 3 *paṇas*, 1 *kâkiṇi* , - 1 *varâṭaka* , - 1/5of that (i.e., of a *varâṭaka*) (to *purâṇas*) ?
 
    Converting each measure to the previous one, and writing them one below the other in the Hindu way, we have
 
@@ -6501,9 +6491,9 @@ or 4 *purâṇas*, 13 *paṇas*, 2 *kâkiṇis* and 16 *varâṭakas*.
 
    Ex. 29. Where one *survarṇa* gets 70+1/3 ; *rûpas*, say, friend, what will 1 *mâṣa* as lessened by to (of a *mâṣa*) get there.[^487]
 
-  Ex. 30. A certain lame person goes to a distance of 1/3 of a *yojana* in 1/3 of a day, say in how much time will he go to a distance of 100 *yojanas*.[^488]
-
 [^487]: "Cf. GT, p. 73, vs. 95."
+
+  Ex. 30. A certain lame person goes to a distance of 1/3 of a *yojana* in 1/3 of a day, say in how much time will he go to a distance of 100 *yojanas*.[^488]
 
 [^488]: "Cf. GSS, v. 3, 4; GT, p. 72, vs. 93."
 
@@ -6537,9 +6527,9 @@ Inverse rule of three :
 
   Ex. 34. When (a given quantity of pearls is) measured at 8 pearls a necklace, the number of necklaces is twenty ; say, mathematician, what the number of necklaces would be (when the same quantity of pearls is measured) at 6 pearls a necklace.[^494]
 
-  Ex. 35. Being measured by the *mâṣa* of 5 *raktikâs,* a quantity of gold amounts to 300 *suvarṇas*. Say how much would that (quantity of gold) amount to, when measured by the *mâṣa* of 6 *raktikâs*[^495], p. 76, vs. 81; GK, I, P., 50, lines 3-4, 7-8. A similar example occurs in Bhâskara I's comm. on Â, ii. 26-27(i).").
-
 [^494]: "The same example occurs in GT, p. 74, lines 8-9."
+
+  Ex. 35. Being measured by the *mâṣa* of 5 *raktikâs,* a quantity of gold amounts to 300 *suvarṇas*. Say how much would that (quantity of gold) amount to, when measured by the *mâṣa* of 6 *raktikâs*[^495], p. 76, vs. 81; GK, I, P., 50, lines 3-4, 7-8. A similar example occurs in Bhâskara I's comm. on Â, ii. 26-27(i).").
 
 [^495]: "Cf. L (ASS
 
@@ -6551,9 +6541,9 @@ Inverse rule of three :
 
    Ex. 37. Quickly say how many blankets of length 6 (cubits) and breadth 2 (cubits) can be made out of the yarn which yields) 200 blankets of length 9 (cubits) and breadth 3 (cubits).[^497]
 
-   Ex. 38. How much gold of 10¼varṇas will be obtained in exchange for 100 *suvarṇas* and 8 *mâṣas* (of gold ) of 12½varṇas ?[^498].")
-
 [^497]: "Cf GSS, v. 19."
+
+   Ex. 38. How much gold of 10¼varṇas will be obtained in exchange for 100 *suvarṇas* and 8 *mâṣas* (of gold ) of 12½varṇas ?[^498].")
 
 [^498]: "Cf. GSS, v. 18(ii
 
@@ -6610,9 +6600,9 @@ Transposing the denominators, we get
 
     Ex. 41. When the price of a *suvarṇa* of gold of 16 *varṇas* is 60, then say the price of 63 *suvarṇas* of gold of 10 *varṇas*.[^502]
 
-   Ex. 42. One-half of a *suvarṇa* of pure gold as diminished by 1 *guñjâ* costs 20½; what will 3 guñjâs of gold of 11½varṇas cost ?
-
 [^502]: "Cf. GSS, v. 35."
+
+   Ex. 42. One-half of a *suvarṇa* of pure gold as diminished by 1 *guñjâ* costs 20½; what will 3 guñjâs of gold of 11½varṇas cost ?
 
     Ex. 43. If 8 droṇas of rice are carried to a distance of one yojana for 6 *paṇas*, say for how much will a *khâri* together with a droṇa (of rice) be carried to a distance of 3 *yojanas*.[^503]
 
@@ -6622,9 +6612,9 @@ Transposing the denominators, we get
 
     Ex. 44. If 3 labourers earn 5 *rûpas* in 2 days, say what will 8 labourers earn in 9 days ?[^504]
 
-   Ex. 45. If a blanket, whose breadth is 2 (cubits) and length 8 (cubits), gets 10, what will 2 other (similar) blankets of breadth 3 (cubits) and length 9 (cubits) get ?[^505]
-
 [^504]: "Cf GT, p. 77, vs. 100."
+
+   Ex. 45. If a blanket, whose breadth is 2 (cubits) and length 8 (cubits), gets 10, what will 2 other (similar) blankets of breadth 3 (cubits) and length 9 (cubits) get ?[^505]
 
 [^505]: "This example is the same as that given in GT, p. 78, vs. 102."
 
@@ -6755,15 +6745,15 @@ Rule for separating the capital, interest, and the commission of the surety etc.
 
 as also the fruit (i.e., interest), etc., as multiplied by the other time by their sum, and then multiply them by the mixed amount : then are obtained the capital etc. in their respective order.[^516]
 
-This rule is similar to the previous one.
-
 [^516]: "Cf. GT, p. 83, vs. 113; SiŚe; xiji. 18;"
+
+This rule is similar to the previous one.
 
     Ex. 54. The rate of interest being 5 per cent per month, the commission of the surety (*bhâvyaka*) 1 per cent per month, the fee of the calculator (*vṛtti*) ½per cent per month, and the charges of the scribe ¼per cent per month, a certain sum amounts to 905 in a year. (Find the capital, the interest, and the shares of the surety, calculator, and the scribe)[^517]
 
-    Here argument = 100, time - 1 month, first fruit = 5, second fruit = 1, third fruit - ½, fourth fruit = ¼; amount = 905, and other time - 1 year, i.e., 12 months.
-
 [^517]: "The same example occurs in GT, p. 83, vs. 114."
+
+    Here argument = 100, time - 1 month, first fruit = 5, second fruit = 1, third fruit - ½, fourth fruit = ¼; amount = 905, and other time - 1 year, i.e., 12 months.
 
      Capital = argument X time X amount
 
@@ -6814,15 +6804,15 @@ $= T + \\frac{\\frac{Ri}{100}.T + R}{I - \\frac{Ri}{100}}$ Months
 
 took a house bearing a rent of 40 (*rûpas*) per month. Say, learned man, after how much time is the debter relieved of his debt, and what does the rich man get by the gain of bare accommodation.[^520]
 
-Rule for converting several bonds into one :
-
 [^520]: "A similar example occurs in GK, I, p. 73, lines 8-10. ?"
+
+Rule for converting several bonds into one :
 
     51. The sum (*samâsa*) of the interests (*phala*) (accruing on the given bonds) for the elapsed months (*gatakâla*), being divided by the sum (*aikya*) of the interests (on the same bonds) for one month, gives the time (in months for the equivalent single bond); and 100 times the sum of the interests for one month (on the bonds), being divided by the sum of the capitals (*dhanayoga*) (of 'the bonds), gives the rate of interest per cent (per month) (for the single bond).[^521]
 
-    Let the capitals, rates of interest and the times elapsed for the given n bonds be as follows:
-
 [^521]: "Cf. GT, p. 86, lines 12-15. Also see GSS, vi. 77-77."
+
+    Let the capitals, rates of interest and the times elapsed for the given n bonds be as follows:
 
 Capitals : *P₁, P₃, P₃,..., P_(n)*
 
@@ -6837,9 +6827,9 @@ per cent per month.
 
 Âryabhaṭa II puts the above results in the following simplified forms:[^522]
 
-$t\~ = \~\\frac{P\_{1}\~t\_{1}\~r\_{1}\~ + \~P\_{2}\~t\_{2}\~r\_{2}\~ + \~...\~ + P\_{n}\~t\_{n}\~r\_{n}}{P\_{1}\~r\_{1}\~ + \~P\_{2}\~r\_{2}\~ + \~...\~ + \~P\_{n}\~r\_{n}}\~months, and\~r\~ = \~\\frac{P\_{1}\~r\_{1}\~ + \~P\_{2}\~r\_{2}\~ + \~...\~ + \~P\_{n}\~r\_{n}\~}{P\_{1} + P\_{2}\~ + \~...\~ + \~P\_{n}}\~\~Per\~Cent\~Per\~Month$
-
 [^522]: "See MSi, xv. 33. The reading as emended by S. Dwivedi is incorrect."
+
+$t\~ = \~\\frac{P\_{1}\~t\_{1}\~r\_{1}\~ + \~P\_{2}\~t\_{2}\~r\_{2}\~ + \~...\~ + P\_{n}\~t\_{n}\~r\_{n}}{P\_{1}\~r\_{1}\~ + \~P\_{2}\~r\_{2}\~ + \~...\~ + \~P\_{n}\~r\_{n}}\~months, and\~r\~ = \~\\frac{P\_{1}\~r\_{1}\~ + \~P\_{2}\~r\_{2}\~ + \~...\~ + \~P\_{n}\~r\_{n}\~}{P\_{1} + P\_{2}\~ + \~...\~ + \~P\_{n}}\~\~Per\~Cent\~Per\~Month$
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -6859,9 +6849,9 @@ Rule for finding the time in which a capital lent out on interest at a given rat
 
     Ex. 60(i). A sum of money is put to interest at 5 per cent per month. When will it become twice of itself ?[^526]
 
-    Ex. 60(ii). And when will (another sum of money) put to interest at 3$\\frac{1}{2}$per cent (per month) become 1$\\frac{1}{4}$of itself ?[^527]
-
 [^526]: "A similar example occurs in Pṛthûdaka's comm. on BiSpsi, xii. 14. The same example occurs in GT, p. 85, lines 24-25."
+
+    Ex. 60(ii). And when will (another sum of money) put to interest at 3$\\frac{1}{2}$per cent (per month) become 1$\\frac{1}{4}$of itself ?[^527]
 
 [^527]: "A similar example occurs in Pṛthûdaka's comm. on BrSpSi, xii. 14. The same example occurs in GT, p. 86, lines 4-5."
 
@@ -6913,9 +6903,9 @@ $V = \\frac{w\_{1}\~v\_{1} + w\_{2}\~v\_{2} + \~... + w\_{n}\~v\_{n}}{w\_{1} + w
 
      Ex. 62. Of what *varṇa* do (the three pieces of gold of) 5 plus $\\frac{1}{3}$, 4 plus $\\frac{1}{6}$, and 7 plus $\\frac{1}{2}$*mâṣas* and 11 plus $\\frac{1}{2}$, 10, 8 minus $\\frac{1}{2}$*varṇas* (respectively) become when mixed in one ?[^529]
 
-Rule for finding the *varṇa* of the refined gold (obtained by mixing up and refining a number of pieces of gold of given weights and *varṇas*), when the weight of the refined gold is known :
-
 [^529]: "Similar examples occur in BM, III, H1, 16 verso; H2, 17 recto and 17 verso; GSS, vi. 170-171."
+
+Rule for finding the *varṇa* of the refined gold (obtained by mixing up and refining a number of pieces of gold of given weights and *varṇas*), when the weight of the refined gold is known :
 
      53(i). The sum of the products of *varṇa* and weight of the several pieces of gold, being divided by (the weight of) the refined gold, gives the *varṇa* (of the refined gold).[^530]; GK,I, p. 76, vs. 18..")
 
@@ -7892,4 +7882,3 @@ ANSWERS
 ----------
 
 \]
-

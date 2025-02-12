@@ -13,9 +13,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3ODQ0NTAzMDc
 
 \[
 
+
+
 ॥श्रीः॥
 
+
+
 ॥निर्वाणषट्कम्॥
+
+
 
 मनोबुद्ध्यहंकारचित्तानि नाहं
 
@@ -23,9 +29,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3ODQ0NTAzMDc
 
 न च व्योम भूमिर्न तेजो न वायु-
 
+
+
 श्चिदानन्दरूपः शिवोऽहं शिवोऽहम्॥ 1
 
 ॥
+
+
 
 न च प्राणसंज्ञो न वै पञ्चवायु-
 
@@ -33,9 +43,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3ODQ0NTAzMDc
 
 न वाक्पाणिपादौ न चोपस्थपायू
 
+
+
 चिदानन्दरूपः शिवोऽहं शिवोऽहम्॥ 2
 
 ॥
+
+
 
 न मे द्वेषरागौ न मे लोभमोहौ
 
@@ -43,9 +57,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3ODQ0NTAzMDc
 
 न धर्मो न चार्थो न कामो न मोक्ष-
 
+
+
 श्चिदानन्दरूपः शिवोऽहं शिवोऽहम्॥ 3
 
 ॥
+
+
 
 न पुण्यं न पापं न सौख्यं न दुःखं
 
@@ -53,9 +71,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3ODQ0NTAzMDc
 
 अहं भोजनं नैव भोज्यं न भोक्ता
 
+
+
 चिदानन्दरूपः शिवोऽहं शिवोऽहम्॥ 4
 
 ॥
+
+
 
 न मृत्युर्न शङ्का न मे जातिभेदः
 
@@ -63,9 +85,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3ODQ0NTAzMDc
 
 न बन्धुर्न मित्रं गुरुर्नैव शिष्य-
 
+
+
 श्चिदानन्दरूपः शिवोऽहं शिवोऽहम्॥ 5
 
 ॥
+
+
 
 अहं निर्विकल्पो निराकाररूपो
 
@@ -73,9 +99,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3ODQ0NTAzMDc
 
 न चासंगतं नैव मुक्तिर्न बन्ध-
 
+
+
 श्चिदानन्दरूपः शिवोऽहं शिवोऽहम्॥ 6
 
 ॥
+
+
 
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य
 
@@ -84,5 +114,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDY3ODQ0NTAzMDc
 श्रीमच्छंकरभगवतः कृतौ
 
 निर्वाणषट्कं संपूर्णम्॥
+
+
+
 
 \]

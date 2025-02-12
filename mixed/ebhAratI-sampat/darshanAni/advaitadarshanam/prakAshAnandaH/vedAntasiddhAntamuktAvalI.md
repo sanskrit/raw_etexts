@@ -26,7 +26,7 @@ B.A. Superintendent, FreeSanskrit College
 
 |                                                 |
 |:-----------------------------------------------:|
-| ![](../books_images/U-IMG-1737176314180101.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1737176314180101.png"/> |
 
 पण्डितकुलपतिः  
 **श्रीजीवानन्दविद्यासागर वि, ए,**
@@ -37,7 +37,7 @@ Superintendent, Free Sanskrit College, Calcutta.
 
 **वेदान्तसिद्धान्तमुक्तावली।**
 
-![](../books_images/U-IMG-1737112800Screenshot_2025-01-17_164850-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1737112800Screenshot_2025-01-17_164850-removebg-preview.png"/>
 
 **अदृष्टद्वयमानन्दमात्मानं ज्योतिरव्ययम्।  
 विनिश्चित्य श्रुतेः साक्षाद्युक्तिस्तत्राऽभिधीयते॥१॥**

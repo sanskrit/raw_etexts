@@ -606,7 +606,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExNDk4NjA5MjY
 इति श्रीमत्पंडित केशवप्रसादशर्म्मद्विवेदिविरचिता  
 पाण्डवगीताभाषाटीका समाप्ता॥ शुभम्॥
 
-![](../../../books_images/U-IMG-1722251359Untitled.png)
+<MISSING_FIG href="../../../books_images/U-IMG-1722251359Untitled.png"/>
 
 **पुस्तक मिलनेका ठिकाना–**
 
@@ -655,7 +655,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjExNDk4NjA5MjY
 |                                     त्रोटक सटीक                                      |
 |                               वेदांतरामायण भाषाटीकासह                                |
 
-**![](../../../books_images/U-IMG-1722253144Untitled3.png)  
+**<MISSING_FIG href="../../../books_images/U-IMG-1722253144Untitled3.png"/>  
 पुस्तक मिलनेका ठिकाना-**
 
 **खेमराज श्रीकृष्णदास,**

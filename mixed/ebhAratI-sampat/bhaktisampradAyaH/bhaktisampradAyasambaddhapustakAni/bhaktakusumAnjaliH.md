@@ -35,7 +35,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 
 [TABLE]
 
-![](../books_images/U-IMG-17328961292.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17328961292.jpg"/>
 
 **१**. महामहोपाध्यायाः प्रयागस्थाः गङ्गानाथझाशर्माणः  
 **आचार्यसिद्धान्तः**
@@ -118,9 +118,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **२७.** कल्याणपुरीस्थभारतीयगीर्वाणप्रौढविद्याभिवर्धिनीपाठशालायां वेदान्ताध्यक्षाः वेङ्कटेश्वरशास्त्रिणः  
 **श्रीचन्द्रशेखरनक्षत्रमाला**
 
-![](../books_images/U-IMG-17328989131.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17328989131.jpg"/>
 
-![](../books_images/U-IMG-17328995603.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17328995603.jpg"/>
 
 **I**. Mahamahopadhyaya Dr. GanganathaJha M.A., L.L.D., Retired Vice-Chancellor of the University of Allahabad.  
 ***Acharya Siddhanta\
@@ -203,9 +203,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **XXVII**. Brahmasri Venkatesvara Sastrigal,Principal, Jagadguru Vidyasala, SankaraMutt, Bangalore.  
 ***Sri Chandrasekharanakshatramala\
 
-***![](../books_images/U-IMG-1734679643Screenshot2024-12-20125634.png)***
+***<MISSING_FIG href="../books_images/U-IMG-1734679643Screenshot2024-12-20125634.png"/>***
 
-![](../books_images/U-IMG-17329018554.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17329018554.jpg"/>
 
 **१** श्रीशंकरभगवत्पादाचार्याः शिष्यैः सह।  
 **२** श्रीसच्चिदानन्दशिवाभिनवनृसिंहभारतीस्वामिनः।  
@@ -248,7 +248,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[महामहोपाध्याय, डाक्टर्, एल्.एल्.डि.,  
 इत्यादिबिरुदालंकृतेन प्रयागस्थेन श्री गङ्गानाथ  
 झा शर्मणा विरचितः\]  
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  "न वर्णा न वर्णाश्रमाचारधर्माः" इत्यादिकंवाक्यजातं यतः कुतश्चिदुपलभ्य प्रकरणादितात्पर्यनिर्णायकमनाकलय्यैव केचित् 'आचार्याः कर्मानुष्ठानं प्रतिषेधन्ति' इति स्वकल्पितं वेदान्तसिद्धान्तत्वेनोद्घोषयन्ति। तान् प्रति किंचिद्वक्तव्यं भवति॥
 
@@ -258,11 +258,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 
  काञ्चीशृङ्गेर्यादिपीठेषु श्रीविद्यायाः सपर्यादिविधाय देशे देशे पूजापीठानि स्थापितवन्त आचार्याःकथं कर्मानुष्ठानपरित्यागमुपदिशेयुरित्यपि विवेचनीयंभवति। तत्तत्पीठाधिष्ठिताश्चाचार्यावताररूपाः श्रीमन्तइदानींतना अपि तथाविधमेव समग्रपूजोपचारमनुतिष्ठन्तो दृश्यन्ते इत्यलं पल्लवितेन॥**\***
 
-![](../books_images/U-IMG-1733122246line.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1733122246line.jpg"/>
 
  **\***अयमेव सिद्धान्तो मण्डनमिश्रैः ब्रह्मसिद्धाववलम्बितः। संपादकः।
 
-![](../books_images/U-IMG-1734417056Screenshot2024-12-17115928.png)
+<MISSING_FIG href="../books_images/U-IMG-1734417056Screenshot2024-12-17115928.png"/>
 
 **२**
 
@@ -271,7 +271,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[एम्.ए.बि.एल्.अड्वकेट.इत्यादिबिरुदालंकृतेन  
 वीरराघवपुरवास्तव्येन ब्रह्मश्री-कृष्णस्वाम्यार्येण रचितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **श्रीमच्छंकरदेशिकेन्द्रकलिते व्याख्यानसिंहासने  
 श्रीमद्वार्तिककारमुख्यमुनिभिः सर्वज्ञकल्पैः पुरा।  
@@ -298,7 +298,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 तस्यैतस्य नृपालसेवितपदस्याचार्यचूडामणेः  
 संमान्यौ चरणावनन्यशरणः शीर्षे निदध्यां कदा॥**
 
-**![](../books_images/U-IMG-1734418315Screenshot2024-12-17122015.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734418315Screenshot2024-12-17122015.png"/>**
 
 **३**
 
@@ -308,7 +308,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 प्रसिडेन्सिकालेज् संस्कृताचार्येण पि.पि.सुब्रह्मण्य-  
 शास्त्रिणा विरचितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **पुराणमित्येव न दूषणीयं  
 न चापि सर्वंनवमेव साधु।  
@@ -318,7 +318,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
  अस्ति किलैतत् चिरान्निखिलविपश्चिदभ्युपगतमविच्छिन्नसत्संप्रदायोपदेशक्रमायातं
 विद्यारण्यादिमान्यमनीषिगणवर्णितं च यदाचार्यमण्डनमिश्रो भगवत्पादैः श्रीशंकराचार्यैर्वादे पराजयं प्रापितः परिव्रज्यामूरीकृत्य सुरेश्वरनाम्नापप्रथ इति। स एवायं मण्डनमिश्रो यः किल **\***ब्रह्मसिद्धे-
 
-![](../books_images/U-IMG-1733122246line.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1733122246line.jpg"/>
 
 **\***ब्रह्मसिद्धिरेषा बहुत्रग्रन्थेषूल्लिख्यमानापि वेदान्तप्रस्थानप्रवर्तनपरैरसकृदुपश्लोकितापि साक्षादिव ब्रह्मसिद्धिरेतावत्पर्यन्तं नास्माकं स्वस्याः स्वरूपमविकलमाविश्चकारेति परं विषादपदमासीत्।अधुना तु मद्रनगरीराजकीयप्राच्यपुस्तकालयात् शङ्खपाणिव्याख्यासनाथा प्रकाशमुपनीता सैषा विदुषां निरतिशयमानन्दमुपजनयतीति सामोदमावेदयामः।
 
@@ -363,7 +363,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 
 [TABLE]
 
-![](../books_images/U-IMG-1734420945Screenshot2024-12-17130440.png)
+<MISSING_FIG href="../books_images/U-IMG-1734420945Screenshot2024-12-17130440.png"/>
 
 **४**  
 
@@ -372,7 +372,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[बि.ए.बि.एल्. डिस्ट्रिक्ट् जड्ज् इत्यादिबिरुदभाजा  
 एन्. चन्द्रशेखरार्येण विरचितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  शृङ्गगिरिर्नाम महीशूरदेशे तुङ्गापगातीरे विराजमानोरमणीयः कश्चन प्रदेशः। प्रदेशोऽयमद्वैतविद्यापरमाचार्येणश्रीशंकरभगवत्पादेनानुगृहीत इत्यनितरसाधारणोऽयं समुत्कर्षोऽस्य स्थानस्य। अत्रैव श्रीशंकरभगवत्पादैः प्रयागेवादविजितो मण्डनमिश्रः परिव्रज्यां प्रापय्य सुरेश्वरनाम्नाअद्वैतविद्याप्रवर्तकास्थान्यां संनिवेशितः।अत्रैव चविजयनगरराजधर्मोपदेशको विद्यारण्यःश्रीशारदापीठमुपकल्पयामास। तदिदमास्थानं बहव आचार्या अलंचक्रुः। अचिरादेव आदिशंकराचार्यात् द्वात्रिंशाः श्रीनरसिंहभारतीयतीन्द्राः स्थानमिदमलंकृत्य ब्रह्मभूयं गताः। अद्यत्वेस्थानमिदमलंकुर्वाणाः श्रीचन्द्रशेखरभारतीन्द्राः सप्तविंशतेर्वत्सरेभ्यः पूर्वम् आस्थानमिदमध्यारोहन्। वसिष्ठवामदेवादिवत् एते आचार्या ज्ञानानुष्ठानशेवधयो जाग्रतीति नूनमस्माकमिदं परमं भागधेयम्। पदवाक्यप्रमाणेष्वेषांज्ञानमनितरसाधारणम्। एतैः विवेकचूडामणेर्व्याख्यानं विद्वदभिनन्दनीयं विरचितं न चिरात् प्रकाश्येत। अस्मिन्भारतवर्षे अद्यापि धर्मः अनुवर्तत इत्येतत् एतेषां भगवदवतारपुरुषाणां महिम्नैवेति सुधीरमुद्घोषयामः॥
 
@@ -383,7 +383,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[बि.ए.,बि.एल्., दिवान् बहदुर् इत्यादि बिरुदाङ्कितेन  
 श्रीसुन्दररामतनूजेन श्रीरामस्वामिशास्त्रिणा विरचितः\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  सदाचार्योपदिष्टैः शास्त्रैरात्मज्ञानं संपादनीयमिति सर्वाभ्युपगतोऽयं विषयः। यतः श्रुतिरेव—"नावेदविन्मनुतेतं बृहन्तम्""आचार्यवान् पुरुषो वेद" इति वदति।एवं शास्त्रैर्ज्ञानं संपाद्य अनुकूलैस्तर्कैस्तत् समुपबृंहयेत्।यथाह मनुः—
 
@@ -400,7 +400,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 दभाजा करुङ्गुलग्रामवास्तव्येन ब्रह्मश्रीकृष्णशास्त्रिणा  
 विरचितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **सदाख्ययात्मकलया चन्द्रशेखरदेशिकः।  
 ऋष्यशृङ्गाचलावासि शारदामोदितो यतिः॥१॥**
@@ -417,7 +417,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **तृतीयो दण्डपाणिः स्याच्चतुर्थोकृष्णनामकः।  
 भिक्षाटनपुरादेव भिक्षां प्रापुर्यथासुखम्॥५॥**
 
-**![](../books_images/U-IMG-1734421813Screenshot2024-12-17131924.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734421813Screenshot2024-12-17131924.png"/>**
 
 **७**
 
@@ -426,7 +426,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[बि.ए.बि.एल्. हैकोर्ट्जड्ज्. इत्यादिबिरुदालङ्कृतेन  
 कडयग्रामाभिजनेन अनन्तशयनस्थ-शेषार्येण विरचितः\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **चिरस्य जातं खलु सुप्रभातं  
 जातोऽधुना शंकरदेशिकेन्द्रः।  
@@ -455,7 +455,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[बि.ए.,बि.एल्. अड्वोकेट् इत्यादिबिरुदभाजा मधुरा-  
 वास्तव्येन के.आर्वेंकटरामार्येण विरचितः\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **तिष्ठतीव दृशोरग्रे मधुरायामलम्भि यत्।  
 चन्द्रशेखरभारत्या दर्शनं पापकर्शनम्॥१॥**
@@ -472,7 +472,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **अनुगृह्णातु मां श्रीमच्चन्द्रशेखरसंयमी।  
 निरर्गलमधुस्यन्दिस्वाङ्घ्रिपद्ममधुव्रतम्॥५॥**
 
-![](../books_images/U-IMG-1734422109Screenshot2024-12-17131924.png)
+<MISSING_FIG href="../books_images/U-IMG-1734422109Screenshot2024-12-17131924.png"/>
 
 **९**
 
@@ -481,7 +481,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[एम.ए.,बि.एल्. अड्वकेट, मीमांसारत्नम्, इत्यादि बिरुदभाजा  
 ए.वि. गोपालाचार्येण विरचितः\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  'क्वचित् क्वचित् महाभागाः...... कलौ खलुभविष्यन्ति' इति श्रीभागवतद्वादशस्कन्धपठितश्रीशुकमञ्जुवचनस्य लक्ष्यभूताः, श्रीमच्चन्द्रशेखरभारतीयतिशेखराः, जगद्वन्द्वितास्तद्गुरवः सुगृहीतनामानःश्रीनृसिंहभारतीचरणाश्च। 'गुणैर्दास्यमुपागतः' इति श्रीलक्ष्मणोक्तरीत्या गुणक्रीतोऽयंदासजनः श्रीनृसिंहभारतीतीर्थपादानाम्। भूयिष्ठमन्वभाविषतानेन दासेन तन्मुखारविन्दविनिर्गलितमधुमधुरफणितयः,कृपाभरिततत्प्रेमकटाक्षाः, दक्षिणापथजाह्नव्या मरुद्वृधायाःसैकते जलाभ्यर्णनिर्मितपर्णशालायां तदन्तरङ्गपरिजनपरिवारमध्यपरिगणनभाग्यलाभात्, विविक्ते तैः चिराभ्यासलब्धलाघवेन क्लेशलेशं विना अनुभूताया ब्रह्मानन्दरसघननिर्विकल्पसमाधिनिष्ठायाः साद्भुतं सानन्दमवलोकनभाग्यं च। ‘न कारणात् स्वाद्बिभिदे कुमारः प्रवर्तितो दीप इव प्रदीपात्' इति दिलीपरघुविषयप्रोक्तरीत्यास्वगुरूणामनुकुर्वन्तः विशुद्धवैराग्यविज्ञानादिमहागुणैः त-
 
@@ -505,7 +505,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 
  इति श्रीमद्वेदान्तार्यवर्णिता आचार्यगुणाः सर्वे समुदिता अस्मत्स्वामिनि।पारमहंस्यपरिग्रहादारभ्य अद्य सप्तविंशतिहायनो यतिशेखरःयुवा, साधु युवाध्यापकः, सततमाशिष्ठो द्रढिष्ठो बलिष्ठः सन् मधुमत्तमया स्वजिह्वयाब्रह्मविद्यापीयूषधाराः वर्षयन् जगदाचार्यपीठं वर्षशतमलङ्कुर्यादिति प्रार्थ्यते दासजनेन॥
 
-![](../books_images/U-IMG-1734422884Screenshot2024-12-17133709.png)
+<MISSING_FIG href="../books_images/U-IMG-1734422884Screenshot2024-12-17133709.png"/>
 
 **१०**
 
@@ -514,7 +514,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[मद्रनगरीराजकीयप्रधानकलाशालासंस्कृताध्यापकेन  
 वै, कृष्णमाचार्येण विलिखितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  अविद्या हि तथा निरुच्यतेऽद्वैतिभिर्यथा सेयमेकाकिन्यद्वैतमतोपरि परैरुद्भावितानां दोषाणामखिलानां प्रायशः प्रतिविधानमातन्वती कामदुघासंपद्यते। इत्थं हि तेषांप्रक्रियासर्वविकल्पातीतं परं ब्रह्मैव परमार्थः। अन्ये सर्वेऽपि विकल्पगोचरां पदार्था मिथ्याभूताः। प्रमाणपदमूर्धाभिषिक्तेनप्रत्यक्षेण गृह्यमाणानां पदार्थानां प्रतीतिसिद्धं सत्त्वं कथमपह्नूयत इति चेत्, दूरस्थेन पुरुषेण पर्वते योग्यानुपलम्भगृहीतमग्न्यभावं कथमपह्नुषे? तत्र धूमवत्त्वेन हेतुना वह्निमनुमायवन्ह्यभावोऽपह्नूयत इति चेत्, अत्रापि दृश्यत्वेन हेतुना मिथ्यात्वं प्रसाध्य सत्यत्वं निरस्यत इति समम्। अत एवब्रह्मणो दृश्यत्वे मिथ्यात्वं प्रसजेदिति बिभ्यती श्रुतिः"न संदृशे तिष्ठति रूपमस्य न चक्षुषा पश्यति कश्चनैनम्"इति तस्य दृश्यत्वं प्रतिषेधति। पुरुषस्य दूरस्थत्वेन पर्वते सन्नपिवह्निर्न गृहीतः, अतो वन्द्यभावग्रहो भ्रम इति चेत्, अत्रापिपुरुषेणाविद्योपहितेनासन्नपि प्रपञ्चः सन्निव गृह्यत इति
 
@@ -539,7 +539,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 
  इत्थमद्वैतमते अविद्याविलसितं बहूपकरोतीति मन्तव्यम्॥
 
-![](../books_images/U-IMG-1734451371Screenshot2024-12-17131924.png)
+<MISSING_FIG href="../books_images/U-IMG-1734451371Screenshot2024-12-17131924.png"/>
 
 **११**
 
@@ -548,7 +548,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 (मधुरापुरिवास्तव्येन मुम्बापुरीस्थपत्रिकाप्रकटनाध्यक्षेण  
 श्रीगुरुपादुकाशेखरेण मन्त्रेश्वरशर्मणा विरचिता)
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **शिवस्वरूपमिन्दुकान्तिशोभितं शिवंकरं  
 शिवाच्युताम्बुजोद्भवात्मकं मदान्तकप्रभुम्।  
@@ -630,7 +630,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 सदाऽव मां सदाशिव श्रुते रहस्यबोधनैः  
 पुनर्नमामि देशिकेन्द्र चन्द्रशेखरार्य भोः॥१६॥**
 
-**![](../books_images/U-IMG-1734452780Screenshot2024-12-17215522.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734452780Screenshot2024-12-17215522.png"/>**
 
 **१२**
 
@@ -639,7 +639,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[मद्रपुरीराजकीयप्रधानकलाशालायां भारतवर्षचरित्राध्याप-  
 केन एम्.ए. बिरुदभाजा एस्.वि. वेङ्कटेश्वरार्येण लिखितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  स्थाने खलु विद्यातीर्थपादाः शृङ्गगिरिमद्वैतप्रवचनस्यसमुचितंस्थानमकल्पयन्, यदेतत् क्षेत्रं नैकविधैरनोकहनिवहैर्विविधाभिरोषधीभिः स्थलरामणीयकेन जलरामणीयकेन च न केवलं पश्यतां नयनासेचनकं परं मनःशान्तिकरमपि।क्रि.प. १३८० तमे वत्सरे विद्यातीर्थपादानधिकृत्य प्रवृत्तंशिलाशासनं तेषां स्वामिनां महिमातिशयमाविष्करोति। विद्यारण्यकृतात् राजकालनिर्णयात् अन्येभ्यश्च चरित्रग्रन्थेभ्यःकश्चन वृत्तान्त इदंप्रथमतयाऽस्माभिर्विज्ञायते। यथा क्रि.प. १३२५ आरभ्य १३९२ पर्यन्ते काले महमड्इबिनतघ्लकू नामधेयः कश्चन म्लेच्छः हस्तिनापुरमशिषत्, यःकिल स्वपितृघातीति बहुभिरमन्यत। रामनाथो नाम काम्पिलाधिपतिः क्रि. प.१३३५ तमे वत्सरे म्लेच्छराजेनतेन बलवदभियुक्तः स्वकीयं सर्वमपि द्रविणं मातङ्गशैलेकृतनिवासाय विद्यातीर्थगुरवे संप्रेष्य स्वयं श्रिङमठनामकंदुर्गमशिश्रियत्, परं तु भवितव्यताबलात् तेन म्लेच्छराजेन
 
@@ -647,8 +647,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 
 विद्यातीर्थगुरुः यस्यानुजः सर्वज्ञविष्णुस्तर्कभाषाकारेणनिर्दिश्यते। अत इदं प्रतीमः—विद्यातीर्थः शार्ङ्गपाणेस्तनूजः। चेन्नुभट्टः विद्यस्तीर्थानुजस्य सहजसर्वज्ञविष्णोर्द्वितीयस्तनूजः, प्रथमस्तनूजः सर्वज्ञ इति॥
 
-![](../books_images/U-IMG-1734508655Screenshot2024-12-18132613.png)  
-![](../books_images/U-IMG-1733149933line.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734508655Screenshot2024-12-18132613.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1733149933line.jpg"/>
 
 अत्रेदमवेधेयम्—विद्यातीर्थस्य सर्वज्ञविष्णुनामकत्वे सिद्धे तदनुजस्य सहजसर्वज्ञविष्णुनामकत्वं चेन्नुभट्टस्य तदात्मजत्वं च सिध्येत्।तदेव कथमिति विचारणीयम्। सर्वदर्शनसंग्रहकृता सर्वज्ञविष्णोःस्वगुरुत्वेन निर्देशादेव सेत्स्यतीति चेत्, हन्त प्रसिद्धात् सायणसोदरात् माधवादन्यः अयं सायणमाधवः सर्वदर्शनकृदित्यपि विमर्शपदवीमारोहति।
 
@@ -659,7 +659,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[बि.ए.,बि.एल्. अड्वोकेट् इत्यादिबिरुदालंकृतेन पुण्यश्लोक-  
 कृष्णस्वाम्यार्यतनुजेन बालसुब्रह्मण्यार्येण समर्पितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  स्वामिनामेतेषां सप्तविंशतिवत्सरान् श्रीशारदापीठमलंकुर्वतां महान्तमिमं नाक्षत्रमहोत्सवमपरोक्षयन्तो भक्ता वयमनितरसाधारणं भाग्यमुद्वहाम इत्यत्र नास्ति विशयलेशः। बाल्यादारभ्य स्वामिन एते सुगृहीतनामधेयैः पुण्यश्लोकैःश्रीनृसिंहभारतीस्वामिभिरात्मगुणेष्वध्यात्मविद्यायां वैराग्येच सम्यगाहितविनया अधुना परमेण विज्ञानेन निरतिशयन वैराग्येण स्पृहणीयेन सौशिल्येन च राजमानाः, मन्यामहे, नूनमानन्दयन्ति स्वाचार्यान् ब्रह्मभूयमापन्नानपीति। परमवैराग्यज्ञानानुष्ठानशेवधयोऽप्येते अज्ञमिवात्मानं प्रदर्शयन्तः'बाल्येन तिष्ठासेत्' इति श्रुत्यर्थमनुष्ठानेन सर्वानपिशिक्षयन्ति। एतेषां स्मेरमाननं विदग्धा वाक्अभिगम्यतापादकं सर्वत्र समचित्तत्वं च सर्वेषां मनांस्याकर्षति।
 
@@ -670,7 +670,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[ताम्रपर्णीस्थकल्लिडैकुरुच्चिग्रामाभिजनेन वैदिकधर्मसंवर्धिनी-  
 संस्कृतकलाशालाध्यक्षेण श्रीशङ्करशास्त्रिणा विरचितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **प्रातः प्रातः स्मरणविषयं मल्लिकाद्यैः प्रसूनैः  
 भक्ताभक्तैर्नियतकरणैरर्चितं मूर्ध्नि भाव्यम्।  
@@ -698,7 +698,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 मन्दं हसन् हि दृष्ट्या लोकाननुगृह्य नन्दयन् सततम्।  
 श्रेयो दद्याद्भूयो नमामि भूयो नमामि तानेवम्॥**
 
-**![](../books_images/U-IMG-17331528661.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17331528661.jpg"/>**
 
 **१५**
 
@@ -707,7 +707,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[महामहोपाध्याय-कलाप्रपूर्ण-इत्यादिबिरुदालंकृतेन विजयनगर-  
 वास्तव्येन तातोपनामकसुब्बरायशास्त्रिणा विरचितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  विदितचरमेव तत्र भवतामिह खलु भारते वर्षे प्रायःसर्वे जनाः 'अस्ति पुनर्जन्म अभ्युदयनिःश्रेयससाधनोधर्मः। तदवगमश्चस्वतः प्रमाणभूताद्वेदात् तन्मूलभूतस्मृत्यादिभ्यश्च' इति दृढं विश्वसन्तीति अभ्युदयश्चाऽमुष्मिकमागामिजन्मपरम्परानुभूयमानं सुखं प्रवृत्तिलक्षणाद्धर्माद्भवति निःश्रेयसं चात्यन्तिकं सुखं मोक्षापरनामकं निवृत्तिलक्षणाद्धर्मात् । उभयविधधर्मेऽपि वेद एव परमं प्रमाणमिति तत्स्वरूपनिर्णयप्रस्तावः किञ्चिदिव धर्माय कल्पत इति मनीषया "भवद्गिरामवसरप्रदानाय वचांसि नः"इति माघकव्युम्भितभगवदुक्तिमनुसृत्य विद्वत्प्रवराणां पुरतोनिक्षिप्यते। एतदाकलय्य तन्निर्णये विद्वत्प्रवरा एव प्रमाणम्।
 
@@ -788,7 +788,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 
 सेत्यादिश्रीमच्छंकरभगवत्पादप्रतिष्ठापितश्रीशृङ्गगिरिमठाधीश्वराणांश्रीचन्द्रशेखरभारतीस्वामिगुरुवर्याणां श्रीचरणसंनिधौ भक्तिपूर्वकमुपायनतया समर्पितोऽयमुपन्यासः।
 
-![](../books_images/U-IMG-1734581461Screenshot2024-12-19094014.png)
+<MISSING_FIG href="../books_images/U-IMG-1734581461Screenshot2024-12-19094014.png"/>
 
 **१६**
 
@@ -797,7 +797,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[अभिनवभट्टबाण—पण्डितराज—महामहोपाध्याय—इत्या-  
 दिबिरुदभाजा रायम्पेट्टै कृष्णमाचार्येण विरचितः\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **श्रुत्युक्तौ नष्टशक्तौ बत जडमतिभिः शास्त्रसार्थे हतार्थे  
 शिष्टाचारेऽस्तसारे प्रतिदिशमनिशं साधुलोके सशोके।  
@@ -891,7 +891,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **महामहोपाध्यायेन वात्स्यश्रीकृष्णसूरिणा।  
 पुष्पं पण्डितराजेन नव्यबाणेन नीयते॥**
 
-![](../books_images/U-IMG-1734589272Screenshot2024-12-19115002.png)
+<MISSING_FIG href="../books_images/U-IMG-1734589272Screenshot2024-12-19115002.png"/>
 
 **१७**
 
@@ -900,7 +900,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[गुरुभक्तशिखामणि-शास्त्रप्रसारभूषणः-बि.ए. इत्यादि-  
 बिरुदालंकृतेन टि.के. बालसुब्रह्मण्यार्येण विलिखितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  श्रीशृङ्गगिरिरिति पुण्यतमं नाम बहुशो देशभाषया व्यवह्रियमाणं शृङ्गेरिरूपेण परिणतम्। क्षेत्रस्यास्य महिमानास्माकं विशेषतो वर्णनमपेक्षते, यत्तस्य नामैव निरतिशयंतन्महिमानमुद्धोषयति। तुर्याश्रमिणामत्यन्तापेक्षितेषु गुणेषुप्रधानतम इन्द्रियजयः। वश्येन्द्रियेषु ऋष्यशृङ्ग एव प्रथमगणनीय इत्यत्र न कोऽपि विवादः। तस्मिन् क्षेत्रे वासात्ऋष्यशृङ्गस्य वश्येन्द्रियत्वमुदभूत्, अथवा तस्य महर्षेर्वास्यात् तस्य क्षेत्रस्य इन्द्रियजयजनकत्वरूपो महिमा संजातइति विचारे न वृथा कालं क्षिपामः। सर्वथा क्षेत्रस्यास्यमहिमा विश्वजनीनः। अस्मिन्नेव क्षेत्रे श्रीमद्भिर्भगवत्पादैरादिशंकराचार्यैरद्वैतविद्याप्रचारार्थं श्रीशारदापीठं प्रतिष्ठापितम्,श्रीमदाचार्यानुगृहीतैः श्रीमद्भिः सुरेश्वराचार्यैश्च तत्पीठमधिष्ठितम्। ये त्वत्र सुरेश्वराचार्यकृतशारदापीठवासेन मण्डनसुरेश्वरयोरभेदं संप्रतिपन्नमप्यन्यथयितुं यतन्ते—तथाहि, यदिमण्डन एव सुरेश्वरोऽभूदित्यभ्युपगम्येत तदा भारत्याः मण्डनपत्नीत्वेन प्रसिद्धायाः सुरेश्वरकृतं पूजादिकं न संगच्छेत,न हि पतिः पत्नीं स्वयं पूजयतीति युज्यत इति; त
 
@@ -910,7 +910,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 
  अनन्तरमाचार्यपरंपरासु त्रयस्त्रिंशाः श्रीसच्चिदानन्दशिवाभिनवनृसिंहभारतीस्वामिनः प्रादुरभवन्। एते चाचार्या आदिशंकरभगवत्पादानामवतारभूता इति सार्वत्रिकी प्रथा। त एते ज्ञानानुष्ठानशेवधयो भूत्वा क्रि.प. १९९२ तमे संवत्सरे ब्रह्मभूयमापन्नाः। अनन्तरमद्यत्वे विराजमानाः श्रीचन्द्रशेखरभारतीस्वामिनः तस्मिन्नेव वत्सरे तदिदं विद्यापीठमध्यासत। एतेऽपि ज्ञानानुष्ठाननिधयः स्वाचार्यचरणाम्बुजविगलन्मरन्दरसास्वादलम्पटाः भ्रमरकीटन्यायेन स्वयमपि तादृक्स्वभावमापन्ना विगलितबाह्यविषयावगतयो ब्रह्मध्यानैकपरा भूत्वा नक्षत्रसंख्याकान् वत्सरान् विद्यापीठमलंकुर्वन्तो विजयन्त इति अभिनन्दामोऽस्माकं तत्सेवासंपादकं भाग्यम्॥
 
-![](../books_images/U-IMG-17333041757.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17333041757.jpg"/>
 
 **१८\***
 
@@ -920,7 +920,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 प्रधाननीत्यास्थानाध्यक्षचरेण वि.वि. श्रीनिवासय्यङ्गार्येण  
 विलिखितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  शृङ्गगिरावद्वैतविद्यापीठमधितिष्ठतः श्रीचन्द्रशेखरभारतीगुरूनधिकृत्य किमपि प्रतुष्टूषतो मे मनसि परःशता अदसीयागुणा अहमहमिकया संनिदधते। त एव च तेषामग्रण्यो येस्वामिनामात्मवत्त्वव्यपदेशे निमित्तभावमापद्यन्ते। श्रीस्वामिनां विज्ञानपारम्यमनुष्ठानगरिष्ठतां वैराग्यभूमानं च बहुशोऽपरोक्षयन्नहं स्वामिवर्यमेनं गभीरार्थपुष्कलेन निरुपमेन'आत्मवान्' इति पदेन व्यपदेष्टुं निरणैषम्। भगवत्यागैर्वाण्या वाण्या अयमप्यपरो विशेषो यदियमन्यभाषादुर्लभमेतादृशं पदजातमुद्वहति। समाहितेन चेतसा चिरं गवेषयन्तोऽपि भाषान्तरेषु नैवोपलभामहे तादृशं पदं यत् 'आत्मवान्' इति पदमिवार्थगाम्भीर्येण शृण्वतां मनसि कमप्यतिशयमादध्यात। भाषातत्त्वविदश्चैवमातिष्ठन्ते यद्वाचकपदाभावे वाच्यभूतं वस्त्वपि तत्र नास्तीति। अतो मन्यामहे
 
@@ -945,7 +945,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **तुङ्गापगापयःस्रोतोमारुतान्दोलितद्रुमे।  
 त्वय्येव रमते चित्तं विगतान्यस्पृहं मम॥५॥**
 
-![](../books_images/U-IMG-1734590239Screenshot2024-12-19120525.png)
+<MISSING_FIG href="../books_images/U-IMG-1734590239Screenshot2024-12-19120525.png"/>
 
 **१९**
 
@@ -955,7 +955,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 शारद-इत्यादिबिरुदालंकृतेन मैसूर्महाराजास्थानधर्माधिका-  
 रिणा कुणिगल् रामशास्त्रिणा विरचितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
  एते. १८९२ तमे क्रैस्तवर्षे नन्दनाब्दाश्विनकृष्णैकादश्यां शृङ्गगिरौ प्रादुरभूवन्। पूर्वं नरसिंहशास्त्रिण इतिनाम्ना समलंकृताः। एतेषां पितामहाः सम्यगधीतशब्दशास्त्राः सुब्बाशास्त्रिण इति प्रसिद्धाः प्राक्तनसुकृतपरिपाकवशात् पूर्वे वयसिविरक्तभावाः स्वगृहान्निर्गत्य शीताचलं प्राप्ता इति शोश्रूयते; अतीतेषु कतिपयेषु वर्षेषुतदात्वे शृङ्गगिरिजगद्गुरुपीठमलंकुर्वाणाः निरशनतपःसाम्राज्यवैभवचणाः श्रीजगद्गुरुश्रीमन्नरसिंहभारतीस्वामिनःसुब्बाशास्त्रिणां पाण्डित्यं मनोभावं च विदित्वा शृङ्गगिरिमानाय्य गृहक्षेत्रादिकं वितीर्य दत्वाचावलम्बनमास्थानपण्डितत्वेन न्ययोजयन्निति च। शास्त्रिणां द्वे अपत्येएकःपुत्र एका पुत्री अजनिषाताम्। श्रीजगद्गुरूणा-
 
@@ -1029,7 +1029,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[महामहोपाध्याय-मीमांसाकण्ठीरव-इत्यादिबिरुदालंकृतेन  
 ब्रह्मश्रीवैद्यनाथशास्त्रिणा विरचितः\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **श्रीचन्द्रशेखरगुरो भवदीयपाद-  
 पाथोजयोः सविनयं विनिवेदितेयम्।  
@@ -1047,7 +1047,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[कालटीवेदान्तपाठशालाऽध्यक्षेण पि.एस्. वेङ्कटाचल-  
 शास्त्रिणा विलिखितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **निगमशतवनालीगूढमध्यात्मतत्वं  
 करतलफलवद्ये प्राचकाशन्यतीन्द्राः।  
@@ -1074,7 +1074,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **अलमलमितरैर्विषयैरल्पसुखोत्पादहेतुभिस्तुच्छैः।  
 गुरुराजभक्तिरेका त्वनल्पसुखदा वरीवर्तु॥**
 
-**![](../books_images/U-IMG-1734453860pcodLpxXi.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1734453860pcodLpxXi.jpg"/>**
 
 **२२**
 
@@ -1083,7 +1083,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[महीशूरसंस्थानप्रधाननीत्यास्थानाध्यक्षचरेण बि. ए. बि. एल्.  
 बिरुदभाजा जि. श्रीनिवासार्येण विलिखितः \]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **श्रीमान् भातु स्वान्ते मम चन्द्रशेखरभारतीस्वामी।  
 निर्व्याजपरिचयः सुदृढो मम पुण्येन चिराज्जातः॥**
@@ -1115,7 +1115,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 अस्तोकान्पूज्यमन्त्रान् सुविनयसहितो यत्सकाशाद्गृहीत्वा  
 भक्त्या पूतो जपित्वा प्रतिदिनमहं स्वं च जाने कृतार्थम्॥**
 
-**![](../books_images/U-IMG-1734623535Screenshot2024-12-19212114.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734623535Screenshot2024-12-19212114.png"/>**
 
 **२३**
 
@@ -1125,7 +1125,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 लयमीमांसाशास्त्राध्यक्षेण नूरणिग्रामाभिजनेन अनन्तकृष्ण-  
 शास्त्रिणा विरचितः\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **मातामहमहाशैलमहस्तदपितामहम्।  
 कारणं जगतां वन्दे कण्ठादुपरि वारणम्॥**
@@ -1174,7 +1174,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 
  सांप्रतं तु— लोकोत्तमकुसुमानां संकलनेन पूज्यतमानामेषां नक्षत्रोत्सवमुपलभ्य भक्तप्रवरैः संगृह्यमाणे भक्तकुसुमाञ्जलौ मदीयान्यपि कानिचन सुमानि सप्रश्रयं साष्टाङ्गनमस्कारंचोपहरामि, येन मदीयाः सर्व एव वंशा विद्यानिबन्धनाजन्मनिबन्धनाश्च धन्यधन्या भवितार इति॥
 
-![](../books_images/U-IMG-1734624633Screenshot2024-12-19213944.png)
+<MISSING_FIG href="../books_images/U-IMG-1734624633Screenshot2024-12-19213944.png"/>
 
 **२४**
 
@@ -1183,7 +1183,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[मैसूर्संस्थान शिवमोग्गानगरस्थ पण्डित सुब्रह्मण्य-  
 शास्त्रिणा विरचिता\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 श्रीसद्गुरुचरणारविन्दाभ्यां नमः॥
 
@@ -1450,7 +1450,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **अधीतिः साहिती यस्य विनेता श्रीजगद्गुरुः।  
 सुब्रह्मण्यस्य कृतिषु चारुचर्या प्रसाधिता॥**
 
-![](../books_images/U-IMG-17343418555.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17343418555.jpg"/>
 
 **२५**
 
@@ -1459,7 +1459,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[दिवान् बहदूर-बि.ए., बि.एल्.-इत्यादि बिरुदालंकृतेन  
 के.एस. रामस्वामिशास्त्रिणा विरचितः\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **यस्य स्मरणमात्रेण पापौघः शून्यतां व्रजेत्।  
 ज्ञानपद्मस्य सूर्यो यः शंकरो नः प्रसीदतु॥१॥**
@@ -1495,7 +1495,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **रामस्वामिसुधीहस्तगुम्फितां रत्नमालिकाम्।  
 अङ्गीकरोतु कृपया चन्द्रशेखरभारती॥**
 
-**![](../books_images/U-IMG-1734667206Screenshot2024-12-20092915.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734667206Screenshot2024-12-20092915.png"/>**
 
 **२६**
 
@@ -1504,7 +1504,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[बि.ए., बि.एल्. अड्वकेट् इत्यादि बिरुदालंकृतेन  
 ब्रह्मश्री. कृष्णस्वाम्यार्येण विरचितम्\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **प्रशान्तात्मा विगतभीर्योगी विगतकल्मषः।  
 योगयुक्तो विशुद्धात्मा यतचित्तेन्द्रियक्रियः॥**
@@ -1559,7 +1559,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 
 **इति गीतासारगुर्वष्टोत्तरशतनामस्तोत्रं संपूर्णम्॥**
 
-**![](../books_images/U-IMG-1734667570Screenshot2024-12-20093521.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1734667570Screenshot2024-12-20093521.png"/>**
 
 **२७**
 
@@ -1568,7 +1568,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 \[बेंगलूर्श्रीशंकरमठमहापाठशालाध्यक्षेण पण्डितवरेण-  
 वेंकटेशशास्त्रिणा विरचिता\]
 
-![](../books_images/U-IMG-1732902707Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1732902707Untitled.jpg"/>
 
 **श्रीमच्छृङ्गगिरौ महामहिमनि प्रद्योतमाने मठे  
 नित्यं संनिहितां हितां प्रणमते श्रीशारदाम्बां तथा।  
@@ -1702,9 +1702,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 **नक्षत्रमालांबहुवृत्तशोभां संन्यासवर्षप्रमितां तु संख्याम्।  
 प्राप्तां कृतां भक्तिवशात्सुवृत्तां श्रीवेङ्कटेशोगुरवेऽर्पयामि॥**
 
-**![](../books_images/U-IMG-1734359991pcodLpxXi.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1734359991pcodLpxXi.jpg"/>**
 
-![](../books_images/U-IMG-1734880026Screenshot2024-12-22203515.png)
+<MISSING_FIG href="../books_images/U-IMG-1734880026Screenshot2024-12-22203515.png"/>
 
 शृङ्गगिरिश्रीमठान्तरे श्रीमदाचार्यपादानामुत्सवप्रवेशः।
 
@@ -1716,7 +1716,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkwNzcwNzU4MDQ
 Retired Vice-Chancellor, University of  
 Allahabad, Allahabad.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  There are those who hold that the text'न वर्णा न वर्णाश्रमाचारधर्माः' of Sri Sankarabhagavatpada indicates how the great Acharya condemnsthe performance of rites. But a complete examination of the works of the Acharya, like hisSarirakabhashya etc., reveals the following conclusion. For the attainment of the final purusharthaknowledge becomes essential; for acquiring knowledge, a pure mind is necessary; for acquiring purityof mind, due performance of all the prescribed ritesbecomes essential.' Thus due performance of ritesbecomes an integral part of the teaching of SriSankara.
 
@@ -1731,11 +1731,11 @@ Allahabad, Allahabad.\]
 \[Sri R. Krishnaswami Aiyar, M.A., B.L.,  
 Advocate, Viraraghavapuram, Tinnevelly.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  A string of five stanzas devoted to the glorification of Sri Chandrasekhara Bharati, thepresiding Pontiff at Sringeri.
 
-![](../books_images/U-IMG-17341761403.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17341761403.jpg"/>
 
 **III**
 
@@ -1745,7 +1745,7 @@ Advocate, Viraraghavapuram, Tinnevelly.\]
 manya Sastri B.A. (Oxon), Professor of  
 Sanskrit, Presidency College, Madras.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  ‘Traditionalism is not necessarily wrong,nor all modernism necessarily right.’
 
@@ -1755,9 +1755,9 @@ arguments of Sri Sankaracharya, became a Sannyasinon whom the Acharya bestowed t
 
  Doctrinal differences in works like the Brahmasiddhi and the Varttikas are not necessarily a barto the identity of authorship, particularly when thedetails of the doctrinal conversion of the confirmedMimamsaka-Mandana into the convinced Advaitin-Suresvara are well authenticated, not to speak ofsome clear-cut doctrinal divergences descernibleeven in the teachings of the great Acharya Sankara Bhagavatpada himself.**\***
 
-![](../books_images/U-IMG-17341777015.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17341777015.jpg"/>
 
-![](../books_images/U-IMG-1734177721line.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734177721line.jpg"/>
 
 **\***For a fullur exposition of the views, pro and contra,see the Foreword and Indroduction prefixed to theBrahmasiddhi— Madras Government Oriental ManuscriptsLibrary Series.
 
@@ -1768,7 +1768,7 @@ arguments of Sri Sankaracharya, became a Sannyasinon whom the Acharya bestowed t
 \[Sri N. Chandrasekhara Aiyar B.A, B.L,  
 District and Sessions Judge, Madura.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  Sringeri in the Mysore province is a verybeautiful spot and is on the banks of the Tungariver. A night's journey from Bangalore by theBangalore Poona Mail takes us to Shimoga orTarikere, from where Sringeri is about sixty miles,by a fairly good road through which buses ply.Sringeri is a contraction for Sringa-giri the hill ofSringa or Rishya-Sringa, of the Ramayana fame,who is said to have lived there with his fatherVibhandaka. The place has become famous byits association with the name of Sri Sankara, theAcharya of Advaita philosophy, who founded aMutt at the place and installed on its seat his chiefdisciple Suresvara, who was the famous Mandanamisra before he was vanquished in philosophicaldisputation by his master. Sri Sankara also installed a Sri-Chakra at Sringeri and on it is the entrancingly beautiful idol of Sri Sarada, consecra-
 
@@ -1793,9 +1793,9 @@ He is a seer and a sage. The very personificationof Santi. His mercy to his disc
 
 into orthodox ways and habits by the Master'smagic words of persuasion and instruction. To bein his presence is a rare privilege; to conversewith him is to ennoble and elevate oneself. Ifthere is still some dharma left in this land at thisage, it is surely due to the existence with us ofavatarapurushas like him.
 
-![](../books_images/U-IMG-1734179740pcodLpxXi.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734179740pcodLpxXi.jpg"/>
 
-![](../books_images/U-IMG-17341802624.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17341802624.jpg"/>
 
 शृङ्गगिर्यां तुङ्गानदीतीरे श्रीविद्याशङ्करालयः।
 
@@ -1806,7 +1806,7 @@ into orthodox ways and habits by the Master'smagic words of persuasion and instr
 \[By Dewan Bahadur K.S. Ramaswami Sastri  
 B.A., B.L., Retired District Judge, Madras\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  The passion for introspection has been themaster-passion of India's soul. A calm clearcomprehensive courageous analysis of our daily andinevitable three states (the waking state and thestate of dream and the state of deep sleep) will leadus to a realisation of the Atman— the eternalinfinite blissful Consciousness. Vidyaranya sayswell in his famous Panchadasi, नोदेति नास्तमेत्येकासंविदेका स्वयंप्रभा (The one self-luminous Consciousness has neither rising nor setting). But ourrecurrent Avidya blurrs that realisation. Henceit is only Scripture as revealed by a Guru that cangive us an assured and unobscured realisation.नावेदविन्मनुते तं बृहन्तम्। आचार्यवान् पुरुषो वेद।
 
@@ -1828,7 +1828,7 @@ infinite bliss? Why does he do so? Because it ishis nature (स्वभाव).
 **प्रणवो धनुः शरो ह्यात्मा जीवो ब्रह्मैव नापरः।  
 अप्रमत्तेन वेद्धव्यं शरवत्तन्मयो भवेत्॥**
 
-**![](../books_images/U-IMG-17341812803.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17341812803.jpg"/>**
 
 **VI**
 
@@ -1838,11 +1838,11 @@ infinite bliss? Why does he do so? Because it ishis nature (स्वभाव).
 shana Sastraratnakara Karungulam Krishna  
 Sastrigal.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  Four of us, Vaidyanatha, Virupaksha, Dandapani and myself (Krishna) went a-begging at theBeggar's Paradise (Bhikshandarkoil) and got all thealms we deserved, each according to his dessertsfrom the great All-bestower and Master, SriChandrasekhara Bharati Mahaswamigal.
 
-![](../books_images/U-IMG-17341815075.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17341815075.jpg"/>
 
 **VII**
 
@@ -1851,7 +1851,7 @@ Sastrigal.\]
 Sri K.G. Sesha Aiyar, B.A., B.L.,  
 Retired High Court Judge Trivandram.
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
 **This is the glorious morn  
 On which the seer was born,**
@@ -1897,7 +1897,7 @@ Rich wisdom's heritage
 Bequeathed us by the sage  
 Shall our dear land exalt throughout all time.**
 
-![](../books_images/U-IMG-1734181892rcnrdy4Li.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734181892rcnrdy4Li.jpg"/>
 
 **VIII**
 
@@ -1907,7 +1907,7 @@ Visit to Madura.**
 \[Sri K.R. Venkatarama Aiyer, B.A., B.L.,  
 Advocate, Madura.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  I rejoice to know that my nephew P.P.S.Sastri has addressed his fellow sishyas with theobject of making a boquet of devotional flowers tobe laid at the holy feet of His Holiness SriChandrasekhara Bharati Swamigal in commemoration of the twenty-seven years of HisHoliness's Pontificate. When it was put to methat I might also make my contribution, the firstreaction in me was a sense of dejection that I didnot possess the requisite qualification. I have sincegot over that feeling and I now rather think thatthe offering of an unqualified devotee is perhaps ofgreater value than the critical appreciation of asishya whose learning and equipment might fit himmore to play the role of a rational controversialistthan that of an unquestioning unsuspecting childwhose love is perhaps the more guileless and.genuine for all its ignorance.
 
@@ -1923,7 +1923,7 @@ Than just His sight so welcome."**
 
  I have no doubt that His Holiness genuinelyenjoyed his then stay at Madura. His Holiness'sdaily pujas attracted magnificent gatherings. ToHis Holiness himself I doubt if there was anythinganywhere down in the South, which he counted asof equal value to the opportunity he then had ofoffering his worship with his own hands to theGreat Goddess Sri Minakshi.
 
-![](../books_images/U-IMG-17341825542.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17341825542.jpg"/>
 
 **IX**
 
@@ -1934,11 +1934,11 @@ Swamigal.\***
 \[Brahmasri Mimasaratna A.V. Gopalachariar  
 M.A., B.L., Advocate, Trichinopoly.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  Fulfilling as if the predictions made in theSrimad Bhagavata that "now and then great menwill appear even in this Kali Age", His HolinessSri Chandrasekhara Bharati Swamigal is nowamidst us discharging the great promise held outto rejuvenate and revitalise Hinduism in all itsaspects. His Holiness' supreme command of theSanskrit language and Vedanta Philosophy, hisexemplary and magnanimous solicitude for hisBhaktas and Sishyas, his easy, simple and limpidstyle, his ever-smiling face with its graceful andlove-inspiring glances are all things to be enjoyedand experienced in person as no words are adequateto describe them accurately or convey their forcein full.
 
-![](../books_images/U-IMG-1734718212Screenshot2024-12-20233919.png)
+<MISSING_FIG href="../books_images/U-IMG-1734718212Screenshot2024-12-20233919.png"/>
 
 **X**
 
@@ -1947,7 +1947,7 @@ M.A., B.L., Advocate, Trichinopoly.\]
 \[Brahmasri V. Krishnamacharya, Sanskrit Pan-  
 dit, Presidency College, Madras,\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  Avidya is an indispensable weapon in thehands of Advaitins. With this invaluable aid, theyare able to meet successfully all the doctrinal objections put forward by the Opposition.
 
@@ -1959,7 +1959,7 @@ Vartika-school holds that Avidya pertains to theLord while the Mandana-school em
 
  The marvels of Avidya are indeed trulywonderful.
 
-![](../books_images/U-IMG-17341831066.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17341831066.jpg"/>
 
 **XI**
 
@@ -1968,11 +1968,11 @@ Vartika-school holds that Avidya pertains to theLord while the Mandana-school em
 \[Sri Madura S. Mantresvara Sarma, Journalist  
 and Editor, Kaiser-i-Hind, Bombay.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  A garland of sixteen verses laid at the blessedfeet of HisHoliness Sri Chandrasekhara BharatiMahaswamigal.
 
-![](../books_images/U-IMG-1734183279rcnrdy4Li.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734183279rcnrdy4Li.jpg"/>
 
 **XII**
 
@@ -1982,7 +1982,7 @@ and Editor, Kaiser-i-Hind, Bombay.\]
 of Indian History, Presidency College,  
 Madras.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  It was eight years ago that I had the pleasureof an excursion to Sringeri. The herbs amid theglad grass sparkled with rain-drops, and Natureheaved with the pulsation of a fresh life. Treesseemed to flaunt their silken flags and wave thevisitor their silent welcome. Red roads clove thegold and green of cultivation, but did not widen soas to crush the verdant marge. Limpid Tunga'sinvite, and plunges in its blue waters gliding on rocky slopes, cooled over-wrought nerves. Tunga suppliesthe most delicious drink. The breeze was chargedwith fragrance, and birds warbled sweet music. Nature seemed tipped with honey, the mind calmand serene, and the soul to transcend the meshesof the sense-bound world.
 
@@ -2006,7 +2006,7 @@ sought blessings from the Guru and got thosetreasures, and they were urged to fo
 
 [^4]: "The Mysore Archaeological Survey Report wonders who this Ramanatha was!"
 
-**![](../books_images/U-IMG-1734184455line.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1734184455line.jpg"/>**
 
 **1**. Vide My article on "New light on the Beginningsof Vijayanagara in the Mysore University Magazine for1923.
 
@@ -2052,7 +2052,7 @@ the Brihat Samhita. They represent Love andWrath embodied in those brothers. The
 
  The successors of the Guru have kept thetraditions unsullied. He who adorns the Pithanow is a model of pure and noble life, regularroutine and expanding wisdom, overflowing withsympathy and charity into self-sacrifice and service,relieved withal by continual flights into Yogic andVedantic mysticism. The Matha is under theaegis of H. H. The Maharajah of Mysore, representative of the 'Forgotten Empire' and itssplendid work for Hinduism. Its cultural idealswill therefore suffer no serious change, and its workwill be adapted to the changing conditions. Mayit live for evermore!
 
-![](../books_images/U-IMG-17342441226.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17342441226.jpg"/>
 
 **XIII**
 
@@ -2062,14 +2062,14 @@ Bharti Swamigal.**
 \[Sri K. Balasubrahmanya Aiyar B.A., B.L.,  
 Advocate, Mylapore, Madras.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  I am profoundly grateful to Mr.N. Chandrasekhara Iyer and Mr. P.P.S. Sastri for giving methis opportunity of laying this humble offering ofmy heart at the feet of my Guru, the Jagadguru ofSringeri. His many disciples in India and allpious Hindus will surely rejoice at the thought thathe has gloriously filled the great Sarada Peetha forthese 27 years. The qualifications are highlyexacting, for a person to be called to fill India'shighest spiritual seat. Deep erudition, spiritualtraining, Sanyasa from boyhood, utter annihilationof the physical urge and self-abnegation are thepre-requisites. Early in his boyhood, his greatspiritual master who filled this exalted seat withgreat renown during his day, detected in him thepromise of all those qualities and true to the unerring spiritual eye of the master, he has fulfilled inan abundant measure the high expectations held ofhim. While profound learning even in the intricacies of pandit technique and mastery of all the
 
 details of the Mantra-sastra adorn him, his simplicity and humility arrest our attention. He hasscaled the highest stages of spirituality and attainedthe fullest strength of Vairagya. Even the decorations which a worshipping public associate withthe dignity of his seat are irksome to him and heprefers the quiet and unobtrusive life of an ordinarysimple person. He has no passion save that forlearning and scholarship; he has no desires savethat for the welfare and salvation of mankind andhas no weakness save that of compassion for hisfellow-men. It is not right for a humble devoteeto scan the qualities of the great master.benignant smile, his serene face and his limpid eloquence grip every one that approaches him. Deeplyorthodox in his views he is yet very tolerant towardshis non-conforming countrymen. Firm in his convictions, he is moderate and soft in his commentsof others. The wings of 2000 years of veneratedtradition flutter round him and he is the shiningembodiment to millions of his countrymen, of thespiritual heritage handed down to us by one of thegreatest spiritual philosophers of the World, theGreat Sankara. The modern age is really blessedby the presence of such spiritual giants. May hecontinue for long to shed his spiritual lustre and  
 bestow his grace on his many disciples !
 
-![](../books_images/U-IMG-17342459685.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17342459685.jpg"/>
 
 **XIV**
 
@@ -2079,13 +2079,13 @@ bestow his grace on his many disciples !
 dika Dharma Samvardhani Sanskrit College,  
 Kallidaikurichi.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  Sringeri, on the banks of the Tunga river isindeed a glorious spot hallowed by sacred memories.Who has not heard of the name and fame of SriNrisimha Bharati Swamin who adorned the Vyakhyana Simhasana of Sarada Pitha with conspicuousabilityand unparallelled glory. Blessed by such amaster Sri Chandrasekhara Bharati Swamin ascended the sacred pitha twentyseven years ago. Sincethen our Mahaswamigal has been an outstanding example of infinite love and kindness to all his votaries.Constantly immersed in introspection, he has alwaysa beaming smile, a kind word, an approving nod oran interesting enquiry to every one who seeks hispresence. Knowledge and modesty, light and sympathy, Samadhi and concern for the welfare ofhumanity— all these are blended in him to a reallyremarkable degree. The titles as Bhagavatpujyapada, Suresvara, Vidyaranya, Abhinava Narasimha
 
 Bharati are no longer purely honorary but are endowed with their full significance when applied toSri Chandrasekhara Bharati Swami. May he livelong to be the perennial source of joy and solace tous teeming millions who are still whirling in theocean of samsara is my devout prayer.
 
-![](../books_images/U-IMG-17341637386.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17341637386.jpg"/>
 
 **XV**
 
@@ -2094,7 +2094,7 @@ Bharati are no longer purely honorary but are endowed with their full significan
 \[Mahamahopadhyaya, Kalaprapurna, Tata Sub-  
 baraya Sastrigal, Vizianagaram.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  Various opinions are held regarding the origin,eternality and authorship of the Vedas. A carefulexamination of the several views, leads to thefollowing conclusions.
 
@@ -2118,7 +2118,7 @@ who has mixed it up with portions from otherbranches also; hence its comparative
 
  **8**. There is certainly merit in the recitation ofthe Veda according to the recensions that havecome down to us as these are possessed of themerit attached to works of seers. Thoughthere is merit in the recitation of each mantraeven individually, still the recitation that followsthe sequence adopted by the seers has indeedadditional merit attached to it. That is whythis sequence is still practised by reciters evennow in preference to other considerations.
 
-![](../books_images/U-IMG-17341643602.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17341643602.jpg"/>
 
 **XVI**
 
@@ -2128,11 +2128,11 @@ who has mixed it up with portions from otherbranches also; hence its comparative
 Panditaraja, R. V. Krishnamachariar,  
 Kumbakonam\].
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  A string of twentyone stanzas depicting thegreatness of Sringeri, the grandeur of the AdvaitaPhilosophy enunciated by Sri Sankarabhagavatpada, the achievements of his successors in the SaradaPitha, notably of Suresvara, Vidyaranya andSacchidananda Sivabhinava Nrisimha Bharati andof Sri Chandrasekhara Bharati who is indeed likethe lamp lit from the parent lamp increasing andexcelling in all its brightness and radiance.
 
-![](../books_images/U-IMG-1734164632rcnrdy4Li.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1734164632rcnrdy4Li.jpg"/>
 
 **XVII**
 
@@ -2144,7 +2144,7 @@ the Vyakhyana Simhasana there.**
 Bhushana, T.K. Balasubrahmanya Iyer,  
 Srirangam.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  To write about the Greatness of Sringeri andof the illustrious galaxy of holy personages thatadorned and even now do adorn the throne ofVyakhyana Simhasana there, is a tremendous taskwhich requires much greater capacity and skill anda more facile pen than I could ever hope to command. But when my esteemed friend Vidyasagara,Vidyavachaspati, Professor P.P. SubrahmanyaSastrigal pointed out to me that I, as the humblestdisciple of Their Holinesses the late and the presentMahasvamigals of Sringeri, would be failing in myduty if I do not respond to his kind invitation tocontribute my quota of love-offering to His Holiness in this "Bhakta Kusumanjali”— “A respectful offering of flowers by the Bhaktas"—in the auspiciousoccasion of the twenty-seventh year of His Holiness
 
@@ -2188,7 +2188,7 @@ and then disappeared from mortal vision. This incident which is accepted on all 
 
  Sri Suresvaracharya was succeeded on the throne of Sringeri by Bodhaghanacharya who in turn was succeeded by Jnana Ghana. His succesor was Jnanottama Acharya who was succeeded by Jnana Giri. The succeeding three Acharyas were Simha Giri, Isvara Tirtha and Narasimha Tirtha. Next to nothing is known about these Acharyas.
 
-![](../books_images/U-IMG-1734790357Screenshot2024-12-21194056.png)
+<MISSING_FIG href="../books_images/U-IMG-1734790357Screenshot2024-12-21194056.png"/>
 
 श्रीरङ्गस्य श्रीशङ्करालयस्यार्धमण्डपेविराजमान विद्यालक्ष्मी  
 यशोलक्ष्मी च. तदुपरि श्रीमन्नारायणः पद्मभूश्चतदधः  
@@ -2287,7 +2287,7 @@ ing the grave responsibility which abided in themas rulers. In these days, on th
 
  With these tributes of the three Acharyas tothe greatness of Sri Saradambal I conclude and begto lay this apology of a flower at the lotus feet ofHis Holiness.
 
-![](../books_images/U-IMG-17340221785.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17340221785.jpg"/>
 
 **XVIII**
 
@@ -2298,7 +2298,7 @@ and Sringeri.**
 Advocate, RetiredHigh Court Judge of  
 Madras, Madras.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  On the mention of His Holiness, the picturethat is conjured up in my mind's eye is that of whatis denoted by that wonderful and unique Sanskritexpression "Atmavan" (आत्मवान्)
 
@@ -2318,7 +2318,7 @@ Sringeri for the first time, I felt so overpoweredby what all I saw that there a
 
 **TO SRINGERI.**
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
 "At last I have found thee my dream of years  
 Realised on earth, e'en on this earth of dreams:  
@@ -2337,7 +2337,7 @@ Grant me that mine may e'er abide in thine."
 
 Vivius.
 
-![](../books_images/U-IMG-1733835048rcnrdy4Li.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1733835048rcnrdy4Li.jpg"/>
 
 **XIX\***
 
@@ -2348,7 +2348,7 @@ Bharati Swamigal.**
 Kunigal Rama Sastri, Palace Dharmadhikari,  
 Mysore State\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  His Holiness Sri Chandrasekhara Bharatiwas born at Sringeri in 1892 A.D. in the cyclicyear Nandana. In his youth he was known by thename Narasimha. Narasimha was born of a familyof Sanskrit scholars, well known for their eruditionand deep piety. His parents, Gopala Sastri andLakshmi gavebirth to fourteen children, all of whomexcept young Narasimha soon left their parents foreternal rest. Anxious beyond measure that youngNarasimha at least should be spared, they gladlyplaced him under the care of His Holiness theJagadguru Sri Sacchidananda Nrisimha Bharati Swamigal, who thence after arranged for the highereducation of the boy at Bangalore.
 
@@ -2374,7 +2374,7 @@ and Mutts to enable his pupils and devotees to putinto practice their book-learn
 
  Such a world-teacher, who, both by preceptand example, still continues the unbroken traditionof the ancient and sacred Pitha at Sringeri andmaintains it with grace and glory, who radiatespeace and joy on all those who come in contact withhim and drives away all thought of mundane illsand woes by his mere sight, who has always a kindword or an encouraging smile to all his devoteesand urges them on to face their onward march,with hope and faith-May He who has blest uswith His Presence these twenty-seven years as OurGuru, continue to reign over us for a hundredsummers more— is the sincere wish of every one ofhis millions of devotees scattered over the breadthand length of this Holy Land of Bharatavarsha.
 
-![](../books_images/U-IMG-1734792585Screenshot2024-12-19213944.png)
+<MISSING_FIG href="../books_images/U-IMG-1734792585Screenshot2024-12-19213944.png"/>
 
 **XX\***
 
@@ -2385,11 +2385,11 @@ and Mutts to enable his pupils and devotees to putinto practice their book-learn
 \[Mahamahopadhyaya,Mimamsakanthirava  
 Brahmasri Vaidyanatha Sastrigal, Bangalore\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  May Sri Chandrasekhara Bharati, the princeof ascetics, the fountain of grace, the invoker ofSarada, the worshipper of Sri Chandramaulisvaraand Ratnagarbhaganesa, the avatar of Sri Adi-Sankara of immortal fame, the upholder of thetraditions of Vidyaranya, continue to reign over theVyakhyanasimhasana of Saradapitha at Sringeri,wth ever-increasing lustre and glory for many manymore years, even as he has been doing during the lastseven and twenty years, dispelling the darkness ofignorance, enlightening all in the path of liberation,freeing his devoted and sincere pupils and devoteesfrom all obstacles and for all times— is the devoutprayer of one of his most devoted pupils.
 
-![](../books_images/U-IMG-1733833264pcodLpxXi.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1733833264pcodLpxXi.jpg"/>
 
 **XXI\***
 
@@ -2398,11 +2398,11 @@ Brahmasri Vaidyanatha Sastrigal, Bangalore\]
 \[Brahmasri P.S. Venkatachala Sastri, Principal,  
 Vedanta Pathasala, Kalati.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  'Ananda' of the Advaitins is the Brahmasakshatkara referred to in the Srutis and Sutras ofBadarayana. Four stages in Brahman-knowledgemay be recognised-Brahmavit, Brahmavidvara, Brahmavidvariyan and Brahmavidvarishtha. It isthe last stage that is identified with the final stageof Ananda. However difficult of attainment thisAnanda may be, there is no doubt that single-minded devotion to the Prince of Gurus, SriChandrasekhara Bharati can of itself lead one to thedesired goal.
 
-![](../books_images/U-IMG-1734794258Screenshot2024-12-19213944.png)
+<MISSING_FIG href="../books_images/U-IMG-1734794258Screenshot2024-12-19213944.png"/>
 
 **XXII\***
 
@@ -2412,7 +2412,7 @@ of Sri Chandrasekhara Bharati;**
 \[Brahmasri G.Srinivasa Aiyar, B.A., B.L.,  
 Retired High Court Judge, Bangalore.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  The life of His Holiness Sri ChandrasekharaBharati is one of many lessons in patience, piety and devotion, which may well serve as a patternand example for all to follow and even to knowwhich exalteth a person.
 
@@ -2426,7 +2426,7 @@ even in proceeding to the house of their pupil toimpart him instruction— such 
 
  I have therefore no doubt that even a mere*darsan* of his Holiness will dispel all the pride,haughtiness and vanity from which one ordinarilysuffers and instil into him a peace which is pastdescription.
 
-![](../books_images/U-IMG-1733756019pcodLpxXi.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1733756019pcodLpxXi.jpg"/>
 
 **XXIII\***
 
@@ -2436,7 +2436,7 @@ even in proceeding to the house of their pupil toimpart him instruction— such 
 Sastrigal, Professor of Mimamsa, Univer-  
 sity of Calcutta.\].
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  The greatness and glory of Bhagavatpada AdiSankaracharya is truly inexpressible.He wasrightly styled Shanmatasthapanacharya in that here-established the six schools of Saura, Ganapata,Sakta, Saiva, Vaishnava and Advaita. Indeed,not only did he expound the true doctrines of thesesix schools alone but he looked upon the eternalverities in all the systems of the world with a trulyimpartial outlook. And that is why he has beenknown as a real World-Teacher or Jagadguru.
 
@@ -2451,11 +2451,11 @@ sity of Calcutta.\].
 \[Brahmasri Pandit Subrahmanya Sastri, Shimoga,  
 Mysore.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  In a poem of fifty-four verses, the daily lifeof His Holiness Sri Chandrasekhara Bharati isdescribed. Emphasis is laid on the catholicity ofthe Master who is ever ready to advise and teachall those who are sincere in their quest, irrespectiveof their personal attachments to particular religionsor creeds.
 
-![](../books_images/U-IMG-17337553996.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337553996.jpg"/>
 
 **XXV\***
 
@@ -2467,11 +2467,11 @@ i
 Sastrigal, B.A., B.L., Retired District  
 Judge, Kumbakonam.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  A garland of nine verses depicting the Greatqualities of His Holiness Sri ChandrasekharaBharati and appealing to Him to bless His devotees.
 
-![](../books_images/U-IMG-17337551083.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337551083.jpg"/>
 
 **XXVI\***
 
@@ -2481,11 +2481,11 @@ namastotra.**
 \[Brahmasri R.Krishnaswami Aiyar, B.A., B.L.,  
 Advocate, Tinnevelly.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  A hymn of one hundred and eight names inpraise of His Holiness Sri Chandrasekhara BharatiSwamigal, in language culled from the Bhagavadgita. The epithets employed become doubly significant when applied to His Holiness.
 
-![](../books_images/U-IMG-17337544465.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337544465.jpg"/>
 
 **XXVII\***
 
@@ -2496,13 +2496,13 @@ Nakshatramala.**
 Jagadguru Vidyasala, Sankara Mutt,  
 Bangalore.\]
 
-![](../books_images/U-IMG-17337532601.jpg)
+<MISSING_FIG href="../books_images/U-IMG-17337532601.jpg"/>
 
  An exquisite garland of twenty-seven versescommemorative of the Pontificate of His Holinesswherein the first letter of each of the verses is culledsuccessively from the Mahamantra-
 
 **"श्रीमत् चन्द्रशेखरभारतीस्वामियोगिपादतलजाः  
 विजयन्ते तमां सदा"**
 
-**![](../books_images/U-IMG-17337536762.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17337536762.jpg"/>**
 
 \]

@@ -12,9 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 \[
 
+
+
 ॥श्रीः॥
 
+
+
 ॥अनात्मश्रीविगर्हणप्रकरणम्॥
+
+
 
 लब्धा विद्या राजमान्या ततः किं
 
@@ -24,9 +30,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 भुक्ता नारी सुन्दराङ्गी ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.1
 
 ॥
+
+
 
 केयूराद्यैर्भूषितो वा ततः किं
 
@@ -34,9 +44,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 तृप्तो मृष्टान्नादिना वा ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.2
 
 ॥
+
+
 
 दृष्टा नाना चारुदेशास्ततः किं
 
@@ -46,9 +60,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 ादिदुःखं ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.3
 
 ॥
+
+
 
 स्नातस्तीर्थे जह्नुजादौ ततः किं
 
@@ -56,9 +74,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 जप्ता मन्त्राः कोटिशो वा ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.4
 
 ॥
+
+
 
 गोत्रं सम्यग्भूषितं वा ततः किं
 
@@ -66,9 +88,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 रुद्राक्षादिः सद्धृतो वा ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.5
 
 ॥
+
+
 
 अन्नैर्विप्रास्तर्पिता वा ततः किं
 
@@ -76,9 +102,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 कीत्र्या व्याप्ताः सर्वलोकास्ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.6
 
 ॥
+
+
 
 कायः क्लिष्टश्चोपवासैस्ततः किं
 
@@ -86,9 +116,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 प्राणायामः साधितो वा ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.7
 
 ॥
+
+
 
 युद्धे शत्रुर्निर्जितो वा ततः किं
 
@@ -96,9 +130,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 योगैः प्राप्ताः सिद्धयो वा ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.8
 
 ॥
+
+
 
 अब्धिः पद्भ्यां लङ्घितो वा ततः किं
 
@@ -106,9 +144,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 मेरुः पाणावुद्धृतो वा ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.9
 
 ॥
+
+
 
 क्ष्वेलः पीतो दुग्धवद्वा ततः किं
 
@@ -116,9 +158,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 प्राप्तश्चारः पक्षिवत्खे ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.10
 
 ॥
+
+
 
 बद्धाः सम्यक्पावकाद्यास्ततः किं
 
@@ -126,9 +172,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 लब्धो निक्षेपोऽञ्जनाद्यैस्ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.11
 
 ॥
+
+
 
 भूपेन्द्रत्वं प्राप्तमुव्र्यां ततः किं
 
@@ -136,9 +186,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 मुण्डीन्द्रत्वं चोपलब्धं ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.12
 
 ॥
+
+
 
 मन्त्रैः सर्वः स्तम्भितो वा ततः किं
 
@@ -146,9 +200,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 कालज्ञानं चापि लब्धं ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.13
 
 ॥
+
+
 
 कामातङ्कः खण्डितो वा ततः किं
 
@@ -156,9 +214,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 लोभाश्लेषो वर्जितो वा ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.14
 
 ॥
+
+
 
 मोहध्वान्तः पेषितो वा ततः किं
 
@@ -166,9 +228,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 मात्सर्यार्तिर्मीलिता वा ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.15
 
 ॥
+
+
 
 धातुर्लोकः साधितो वा ततः किं
 
@@ -176,21 +242,33 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 
 शंभोर्लोकः शासितो वा ततः किं
 
+
+
 येन स्वात्मा नैव साक्षात्कृतोऽभूत्॥ 1.16
 
 ॥
 
+
+
 यस्येदं ह्मदये सम्यगनात्मश्रीविगर्हणम्।
+
+
 
 सदोदेति स एवात्मसाक्षात्कारस्य भाजनम्॥ 1.17
 
 ॥
 
+
+
 अन्ये तु मायिकजगद्भ्रान्तिव्यामोहमोहिताः।
+
+
 
 न तेषां जायते क्वापि स्वात्मसाक्षात्कृतिर्भुवि॥ 1.18
 
 ॥
+
+
 
 इति श्रीमत्परमहंसपरिव्राजकाचार्यस्य
 
@@ -201,5 +279,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjkxMjg3MDc0NjQ
 अनात्मश्रीविगर्हणप्रकरणं
 
 संपूर्णम्॥
+
+
+
 
 \]

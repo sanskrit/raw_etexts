@@ -71,7 +71,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NzIyNDI4NDc
 
  श्रीकाशीधाम, गुरुपूर्णिमा  
  सम्बत् १९७६ विक्रमीय। 
-![](../books_images/U-IMG-1722877290Capture2.JPG)          
+<MISSING_FIG href="../books_images/U-IMG-1722877290Capture2.JPG"/>          
 
 **विवेकानन्द।**
 
@@ -251,11 +251,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NzIyNDI4NDc
 
 जगत्गंज बनारस।
 
-![](../books_images/U-IMG-1722073916Screenshot2024-07-27152131.png)
+<MISSING_FIG href="../books_images/U-IMG-1722073916Screenshot2024-07-27152131.png"/>
 
 **श्रीविष्णवे नमः।**
 
-![](../books_images/U-IMG-1722074461Screenshot2024-07-27153044.png)
+<MISSING_FIG href="../books_images/U-IMG-1722074461Screenshot2024-07-27153044.png"/>
 
 श्रीविष्णुगीता।
 
@@ -772,7 +772,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NzIyNDI4NDc
 
 प्रथमोऽध्यायः।
 
-**![](../books_images/U-IMG-1722074584Screenshot2024-07-27153202.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722074584Screenshot2024-07-27153202.png"/>**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1974,7 +1974,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NzIyNDI4NDc
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **कर्मयोगवर्णनम्।**  
-![](../books_images/U-IMG-1723117156Capture1.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1723117156Capture1.JPG"/>
 
 **देवा ऊचुः॥१॥**
 
@@ -2393,7 +2393,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NzIyNDI4NDc
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 भक्तियोगवर्णनम्  
-![](../books_images/U-IMG-1723200323Capture.JPG)  
+<MISSING_FIG href="../books_images/U-IMG-1723200323Capture.JPG"/>  
 
 देवा ऊचुः॥१॥
 
@@ -2839,7 +2839,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NzIyNDI4NDc
 इति श्रीविष्णुगीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे देव-  
 महाविष्णुसम्वादे भक्तियोगवर्णनं नाम पञ्चमोऽध्यायः।
 
-![](../books_images/U-IMG-1723221353Capture14.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1723221353Capture14.JPG"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2852,7 +2852,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0NzIyNDI4NDc
 ——————
 
 **ज्ञानयोगवर्णनम्।  
-![](../books_images/U-IMG-1723302013Capture1.JPG)**
+<MISSING_FIG href="../books_images/U-IMG-1723302013Capture1.JPG"/>**
 
 **देवा ऊचुः॥१॥**
 

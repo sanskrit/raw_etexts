@@ -239,7 +239,7 @@ All rights reserved\]
 
 **श्रीमद्गुरुचरणकमलेभ्यो नमः।**
 
-![](../books_images/U-IMG-1723637390Screenshot2024-08-13131624.png)
+<MISSING_FIG href="../books_images/U-IMG-1723637390Screenshot2024-08-13131624.png"/>
 
 **श्रीगुरुगीता**  
 **—————**

@@ -18,16 +18,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MjQ3NTU5NDE
 
 [TABLE]
 
-![](../books_images/U-IMG-1724749901Screenshot2024-07-06121239.png)
+<MISSING_FIG href="../books_images/U-IMG-1724749901Screenshot2024-07-06121239.png"/>
 
 यह पुस्तक, बम्बई खेतवाडी ७ वीं गली खम्बाटा छैन, स्वकीय  
 **श्रीवेङ्कटेश्वर** स्टीम् प्रेस में **खेमराज** **श्रीकृष्णदासने** अपने  
 लिये छापकर यहीं प्रकाशित किया ।
 
-![](../books_images/U-IMG-1724749920Screenshot2024-07-06121418.png)
+<MISSING_FIG href="../books_images/U-IMG-1724749920Screenshot2024-07-06121418.png"/>
 
 **भूमिका।**  
-**![](../books_images/U-IMG-1721887479Screenshot(50).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721887479Screenshot(50"/>.png)**
 
  संसारमें कौनसा ऐसा पंडित और महात्मा संन्यासी होगा जो कि, श्रीस्वामी दत्तात्रेयजीके नामको न जानता होगा. यद्यपि स्वामी दत्तात्रेयजीके नामको तो इस भारतखण्डमें अनेक स्त्री पुरुष जानते हैं, तथापि उनके त्याग और वैराग्यके वृत्तान्तको बहुत ही कम पुरुष जानते हैं, सो मैंने इस ग्रन्थकीआदिमें उनके **जीवनवृत्तान्त** को प्रथम दिखला करके फिर स्वामी **दत्तात्रेयजी**की बनाई हुई जो **"अवधूत गीता"** है उसके प्रत्येक शब्दके अर्थको और फिर तिसके भावार्थको भी दिखाया है मुझे आशा है कि उसको पढकरके संपूर्ण विरक्त महात्मा जन दत्तात्रेयजीकी तरह गुणोंको ग्रहण करके परम लाभ उठावेंगे।
 
@@ -35,10 +35,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MjQ3NTU5NDE
 
 **स्वामी परमानन्दजी-**
 
-![](../books_images/U-IMG-1721887432Screenshot(49).png)
+<MISSING_FIG href="../books_images/U-IMG-1721887432Screenshot(49"/>.png)
 
 **ईश्वर गुरु वन्दना।  
-![](../books_images/U-IMG-1721888180Screenshot(52).png)**
+<MISSING_FIG href="../books_images/U-IMG-1721888180Screenshot(52"/>.png)**
 
 **दोहाः—नमो नमो तिस रूपको, आदि अन्त जेहि नाहिं।  
      सो साक्षी मम रूप है, घाट बाढ कहुँ नाहिं॥१॥**
@@ -144,21 +144,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM2MjQ3NTU5NDE
 
 **इति श्रीस्वामीदत्तात्रेयजीका वृत्तान्त।**
 
-![](../books_images/U-IMG-1722189599Screenshot(53).png)
+<MISSING_FIG href="../books_images/U-IMG-1722189599Screenshot(53"/>.png)
 
 ***अवधूतगीताकी विषयानुक्रमणिका।  
-![](../books_images/U-IMG-1724606238lkkhh.jpg)***
+<MISSING_FIG href="../books_images/U-IMG-1724606238lkkhh.jpg"/>***
 
 [TABLE]
 
 **इति अवधूतगीताकी विषयानुक्रमणिका संपूर्ण।**  
 —————
 
-![](../books_images/U-IMG-1722192365Screenshot(56).png)
+<MISSING_FIG href="../books_images/U-IMG-1722192365Screenshot(56"/>.png)
 
-**![](../books_images/U-IMG-1722192413Screenshot(57).png)अथावधूतगीता।![](../books_images/U-IMG-1722192462Screenshot(58).png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1722192413Screenshot(57"/>.png)अथावधूतगीता।<MISSING_FIG href="../books_images/U-IMG-1722192462Screenshot(58"/>.png)**  
 **भाषाटीकासहिता।  
-![](../books_images/U-IMG-1722192507Screenshot(59).png)**
+<MISSING_FIG href="../books_images/U-IMG-1722192507Screenshot(59"/>.png)**
 
 **ईश्वरानुग्रहादेव पुंसामद्वैतवासना।  
 महद्भयपरित्राणा विप्राणामुपजायते॥१॥**

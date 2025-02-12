@@ -40,7 +40,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwOTY5ODY4NDk
 
 ॥ श्रीः॥
 
-**॥अष्टावक्रीयम्॥**![](../books_images/U-IMG-1725949517image24.JPG)
+**॥अष्टावक्रीयम्॥**<MISSING_FIG href="../books_images/U-IMG-1725949517image24.JPG"/>
 
 **यदीयसूक्तिरस्माकं भद्रकर्मविधायिनी।  
 शर्मणे जगतां कृष्णस्सजीयात्सूरिसेवितः॥१॥**
@@ -291,10 +291,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwOTY5ODY4NDk
 
  एवमेते मिलित्वा विहाय विषादं प्रहाय पाण्डित्यदौर्गत्यं अवाप्यातुलां समृद्धिं अनुभूयाश्रमदुर्लभानि मुखानि अनवरताद्ध्यापनाध्वरदीक्षाः औपनिषदार्थबिश्राणनविख्याताः समंगातीरालंकाराः समाः परस्सहस्रं यापयन्तोऽशिक्षयन् लौकिकीं वैदिकीञ्चवृत्ति मवनौ॥
 
-![](../books_images/U-IMG-1726125736image25.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1726125736image25.JPG"/>
 
 शुद्धाशुद्ध सूचिका।  
-![](../books_images/U-IMG-1726047727image2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1726047727image2.JPG"/>
 
 |               |                        |
 |---------------|------------------------|

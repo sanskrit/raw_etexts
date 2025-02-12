@@ -13,7 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3NDUwNDMyNDk
 
 \[
 
+
+
 लघुवाक्यवृत्तिः
+
+
+
+
 
 स्थूलो मांसमयो देहो सूक्ष्मः स्याद्वासनामयः ।
 
@@ -94,5 +100,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc3NDUwNDMyNDk
 श्रीमच्छङ्करभगवतः कृतौ
 
 लघुवाक्यवृत्तिः संपूर्णा ॥
+
+
+
+
+
+
+
+
+
 
 \]

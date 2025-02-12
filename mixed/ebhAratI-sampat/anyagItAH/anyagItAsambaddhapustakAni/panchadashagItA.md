@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyOTA0NDE5MDc
 श्रीः।
 
 **अथ पंचदशगीताकी अनुक्रमणिका।  
-![](../books_images/U-IMG-1722659628d.png)**
+<MISSING_FIG href="../books_images/U-IMG-1722659628d.png"/>**
 
 |         |                        |          |
 |---------|------------------------|----------|
@@ -42,14 +42,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyOTA0NDE5MDc
 | ९       | श्रीकृष्णगीता          | **...**  |
 
 **इत्यनुक्रमणिका समाप्ता।  
-![](../books_images/U-IMG-1722659648e.png)**
+<MISSING_FIG href="../books_images/U-IMG-1722659648e.png"/>**
 
 श्रीगणेशाय नमः।
 
 अथ पञ्चदशगीता
 
 भाषाटीकासमेताः प्रारभ्यते।  
-![](../books_images/U-IMG-1722664715f.png)
+<MISSING_FIG href="../books_images/U-IMG-1722664715f.png"/>
 
 श्रीमद्गुरून्नमस्कृत्य विशुद्धानन्दरूपिणः॥  
 पञ्चदशगीताग्रन्थो रविदत्तेन रच्यते॥१॥
@@ -350,7 +350,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyOTA0NDE5MDc
 शास्त्रपरमपण्डितश्रीशिवसहायपुत्र रविदत्तशास्त्रिविरचितपञ्चदशगीताभावदीपक-भाषाटीकायां शौनकगीतासमाप्ता॥२॥
 
 यहां द्वितीय प्रकरण समाप्त हुआ॥२॥  
-![](../books_images/U-IMG-1722963330Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722963330Capture.JPG"/>
 
 अथ अष्टावक्रगीता॥
 
@@ -2566,7 +2566,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyOTA0NDE5MDc
 युधिष्ठिरगीता समाप्ता॥६॥
 
 यहां बारहवां प्रकरण समाप्त हुआ॥१२॥  
-![](../books_images/U-IMG-1722761566Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722761566Capture.JPG"/>
 
 अथ बकगीता॥
 
@@ -2727,7 +2727,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyOTA0NDE5MDc
 बकगीता समाप्ता॥७॥
 
 यहां तेरहवां प्रकरण समाप्त हुआ॥१३॥  
-![](../books_images/U-IMG-1722865165a.png)
+<MISSING_FIG href="../books_images/U-IMG-1722865165a.png"/>
 
 **अथ धर्मव्याधगीता॥**
 
@@ -2817,7 +2817,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyOTA0NDE5MDc
 भाषाटीकायां धर्मव्याधगीता समाप्ता॥८॥
 
 यहां चौदहवां प्रकरण समाप्त हुआ॥१४॥  
-![](../books_images/U-IMG-1722837834Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722837834Capture.JPG"/>
 
 अथ श्रीकृष्णगीता॥
 
@@ -2953,7 +2953,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyOTA0NDE5MDc
 
 यहां पंचदशगीताग्रंथ समाप्त हुआ॥
 
-![](../books_images/U-IMG-1722429705Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1722429705Capture.JPG"/>
 
 पुस्तक मिलनेका ठिकाना–  
 

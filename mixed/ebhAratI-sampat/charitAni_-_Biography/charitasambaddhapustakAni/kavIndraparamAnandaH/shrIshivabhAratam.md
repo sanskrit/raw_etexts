@@ -23,7 +23,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 **प्रकाशयितुराशयः। **
 
-![](../books_images/U-IMG-1736485188Screenshot2024-08-16175039.png)
+<MISSING_FIG href="../books_images/U-IMG-1736485188Screenshot2024-08-16175039.png"/>
 
 सुविदितमेवैतच्छ्रुतिस्मृतीतिहासादिपरिशीलनशालिनां प्राचीनार्वाचीनैतदुभयविधपण्डितप्रकाण्डानाम्। यदतर्क्येन्द्रजालिकः षड्गुणैश्वर्यशाली वनमाली भगवान्नारायणः स्थावरजङ्गमात्मकमखिलं जगत्सिसृक्षुः स्वसंकल्पमात्रान्महाभूतोत्पत्तिक्रमेण मनुजप्रभृतयस्तरुशैलान्ता जरायुजाद्यनेकभेदभिन्नाः प्रजाः सह गुणकर्मभिरस्राक्षीदिति।
 
@@ -185,13 +185,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 गीताधर्ममण्डलसंस्थापको गोपालसूनुर्भिडे  
 इत्युपनामकः सदाशिवशर्मा।
 
-**![](../books_images/U-IMG-1735569144Screenshot2024-08-16175023.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735569144Screenshot2024-08-16175023.png"/>**
 
 **ॐ तत्सद्ब्रह्मणे नमः।  
 कवीन्द्रपरमानन्दविरचितम्।  
 श्रीशिवभारतम्।**
 
-**![](../books_images/U-IMG-1735569252Screenshot2024-08-16175301.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735569252Screenshot2024-08-16175301.png"/>**
 
 **प्रथमोऽध्यायः ।**
 
@@ -874,7 +874,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायामाकस्मिकास्कन्दनं नाम तृतीयोऽध्यायः॥३॥
 
-![](../books_images/U-IMG-1735739114Screenshot2024-08-16175131.png)
+<MISSING_FIG href="../books_images/U-IMG-1735739114Screenshot2024-08-16175131.png"/>
 
 **चतुर्थोऽध्यायः।**
 
@@ -1701,7 +1701,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां शिशुलीलावर्णनं नाम सप्तमोऽध्यायः॥७॥
 
-![](../books_images/U-IMG-1735882873Screenshot2024-08-16174952.png)
+<MISSING_FIG href="../books_images/U-IMG-1735882873Screenshot2024-08-16174952.png"/>
 
 **अष्टमोऽध्यायः।**
 
@@ -1938,7 +1938,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्याशतसंमितायां वैयासक्यां संहितायां \[निजामविलयो\] नाम अष्टमोऽध्यायः॥८॥
 
-    ![](../books_images/U-IMG-1735973070EndofPage.gif)
+    <MISSING_FIG href="../books_images/U-IMG-1735973070EndofPage.gif"/>
 
 **नवमोऽध्यायः।**
 
@@ -2174,7 +2174,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां कर्णाटविजयो नाम नवमोऽध्यायः।
 
-    ![](../books_images/U-IMG-1736009722EndofPage.gif)
+    <MISSING_FIG href="../books_images/U-IMG-1736009722EndofPage.gif"/>
 
 **दशमोऽध्यायः ।**
 
@@ -2325,7 +2325,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां शिवराजस्य पुण्यदेशेश्वरत्वप्रदानं नाम दशमोऽध्यायः॥१०॥
 
-![](../books_images/U-IMG-1736052423EndofPage.gif)  
+<MISSING_FIG href="../books_images/U-IMG-1736052423EndofPage.gif"/>  
 **एकादशोऽध्यायः।**
 
 ** मनीषिण ऊचुः—**
@@ -2485,7 +2485,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैसक्यासंहितायां \[शाहस्य दुर्निमित्ताविर्भावो नाम\] एकादशोऽध्यायः॥११॥
 
-![](../books_images/U-IMG-1736054918EndofPage.gif)  
+<MISSING_FIG href="../books_images/U-IMG-1736054918EndofPage.gif"/>  
 **द्वादशोऽध्यायः**
 
 अथ कोकवियोगार्तिहरे बन्धूकभास्वरे।  
@@ -2847,7 +2847,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां शाहराजनिग्रहो नाम द्वादशोऽध्यायः॥१२॥
 
-![](../books_images/U-IMG-1736065896EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736065896EndofPage.gif"/>
 
 **त्रयोदशोऽध्यायः।**
 
@@ -3255,7 +3255,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निबासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां हैबतपुत्रवधो नाम त्रयोदशोऽध्यायः॥१३॥
 
-![](../books_images/U-IMG-1736086014EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736086014EndofPage.gif"/>
 
 **चतुर्दशोऽध्यायः।**
 
@@ -3592,7 +3592,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 शतसंमितायां वैयासक्यां संहितायां मुसेखानवधो नाम  
 चतुर्दशोऽध्यायः॥१४॥
 
-![](../books_images/U-IMG-1736097200EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736097200EndofPage.gif"/>
 
 **पञ्चदशोऽध्यायः।**
 
@@ -3761,7 +3761,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकर कवीन्द्र परमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां दुर्गद्वयप्रदानं नाम पञ्चदशोऽध्यायः॥१५॥
 
-![](../books_images/U-IMG-1736098392EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736098392EndofPage.gif"/>
 
 **षोडशोऽध्यायः।**
 
@@ -3968,7 +3968,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकर कवीन्द्र परमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां \[शिवं प्रति सुवर्णशर्म कृतोपदेशो नाम\] षोडशोऽध्यायः॥१६॥
 
-![](../books_images/U-IMG-1736169306EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736169306EndofPage.gif"/>
 
 **सप्तदशोऽध्यायः।**
 
@@ -4422,7 +4422,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकर्यान्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां \[शिवं प्रत्यफजल\] संदेशादेशनं नामाष्टादशोऽध्यायः॥१८॥
 
-![](../books_images/U-IMG-1736173869EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736173869EndofPage.gif"/>
 
 **एकोनविंशोऽध्यायः।**
 
@@ -4574,7 +4574,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायामफजलप्रयाणं नामैकोनविंशोऽध्यायः॥१९॥
 
-![](../books_images/U-IMG-1736176844EndofPage.gif)  
+<MISSING_FIG href="../books_images/U-IMG-1736176844EndofPage.gif"/>  
 **विंशोऽध्यायः।**
 
 ** कवीन्द्र उवाच—**
@@ -4785,7 +4785,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यपुराणे सूर्यवंशे निवासकर कवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायामफजलागमनं नाम विंशोऽध्यायः॥२०॥
 
-![](../books_images/U-IMG-1736179060EndofPage.gif)  
+<MISSING_FIG href="../books_images/U-IMG-1736179060EndofPage.gif"/>  
 **एकविंशोऽध्यायः।**
 
 ** कवीन्द्र उवाच—**
@@ -5054,7 +5054,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकवन्द्रि परमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायामफजलवधो नामैकविंशोऽध्यायः॥२१॥
 
-![](../books_images/U-IMG-1736218412EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736218412EndofPage.gif"/>
 
 **द्वाविंशोऽध्यायः।**
 
@@ -5284,7 +5284,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायामफजलसैन्यभङ्गो नाम द्वाविंशोऽध्यायः॥२२॥
 
-![](../books_images/U-IMG-1736219362EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736219362EndofPage.gif"/>
 
 **त्रयोविंशोऽध्यायः।**
 
@@ -5520,7 +5520,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकर कवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां प्रणालाद्रिग्रहो नाम त्रयोविंशोऽध्यायः॥२३॥
 
-![](../books_images/U-IMG-1736220530EndofPage.gif)  
+<MISSING_FIG href="../books_images/U-IMG-1736220530EndofPage.gif"/>  
 **चतुर्विंशोऽध्यायः।**
 
 ** मनीषिण ऊचुः—**
@@ -5771,7 +5771,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचिताया-  
 मध्यायशतसंमितायां वैयासक्यां संहितायां रुस्तुमादिभङ्गो  
 नाम चतुर्विंशोऽध्यायः॥२४॥  
-![](../books_images/U-IMG-1736222255EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736222255EndofPage.gif"/>
 
 **पञ्चविंशोऽध्यायः।**
 
@@ -5989,7 +5989,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां शास्ताखानाम्यागमो नाम पञ्चविंशोऽध्यायः॥२५॥
 
-![](../books_images/U-IMG-1736242895EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736242895EndofPage.gif"/>
 
 **षड्विंशोऽध्यायः।**
 
@@ -6239,7 +6239,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां स्वराष्ट्रावेक्षणं नाम षड्विंशोऽध्यायः॥२६॥
 
-![](../books_images/U-IMG-1736244481EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736244481EndofPage.gif"/>
 
 ** सप्तविंशोऽध्यायः।**
 
@@ -6411,7 +6411,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc
 
 इत्यनुपुराणे सूर्यवंशे निवासकरकवीन्द्रपरमानन्दविरचितायामध्यायशतसंमितायां वैयासक्यां संहितायां स्वपुरप्रवेशो नाम सप्तविंशोऽध्यायः॥२७॥
 
-![](../books_images/U-IMG-1736245461EndofPage.gif)
+<MISSING_FIG href="../books_images/U-IMG-1736245461EndofPage.gif"/>
 
 **अष्टाविंशोऽध्यायः।**
 

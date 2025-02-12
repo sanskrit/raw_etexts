@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMTc0NDA4NDg
 **श्रीलविश्वनाथचक्रवर्तीठक्कुरविरचितं**  
 **श्रीव्रजरीति-चिन्तामणि-काव्यम्**
 
-**![](../books_images/U-IMG-1730802408Screenshot2024-11-05155626.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730802408Screenshot2024-11-05155626.png"/>**
 
 —श्री हरिदास शास्त्री
 
@@ -26,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMTc0NDA4NDg
 |:---------------------------------------------:|
 | सङ्गणकसंस्करणं दासाभासेन हरिपार्षददासेन कृतम् |
 
-![](../books_images/U-IMG-1730802627Screenshot2024-11-05160013.png)**विषय-सूची**![](../books_images/U-IMG-1730802627Screenshot2024-11-05160013.png)
+<MISSING_FIG href="../books_images/U-IMG-1730802627Screenshot2024-11-05160013.png"/>**विषय-सूची**<MISSING_FIG href="../books_images/U-IMG-1730802627Screenshot2024-11-05160013.png"/>
 
  **प्रथम सर्ग में**—श्रीकृष्ण, उनकी लीला, लीलाभूमिकी वन्दना, श्रीकृष्ण चैतन्य देव की वन्दना, उत्तम काव्यत्व का प्रतिपादन, श्री चैतन्य देव व उनके परिकर प्रवर्त्तितरीतिका अनुसरण, श्रीवृन्दावन धाम तत्त्वादि, नन्दीश्वर वर्णन, गोपी वृत्तान्त वर्णन, वार्षभानवीतत्त्व वर्णन, सखी वृत्तान्तवर्णन, ब्राह्मण, तैलिक, ताम्बूली, माली, गोशाला, गोधनादि का वर्णन, वर्षाणाविवरण, सङ्केत, यावट प्रभृति स्थानों का वर्णन है। १–७३
 
@@ -34,9 +34,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMTc0NDA4NDg
 
  **तृतीयसर्गमें**—श्रीगोवर्द्धन की विस्तृत वर्णना, दान निवर्त्तन कुण्ड, सङ्कर्षणानन्द सरोवर, गौरीतीर्थ, दान घाट, मानस गङ्गा, कुसुम सरोवर, श्रीराधाकुण्ड श्रीश्यामकुण्ड युगल, तीरवर्त्तिकुञ्ज समूह, काम्यवन, शान्तनुवास, सूर्यमूर्त्ति, मनोरम शिलासमूह, भवन समूह, रत्न सरोवर, शेषशायी, कुञ्ज, कुण्ड, मन्दिर प्रभृति का विवरण है। ११३–१४१
 
-![](../books_images/U-IMG-1730802746Screenshot2024-11-05160213.png)
+<MISSING_FIG href="../books_images/U-IMG-1730802746Screenshot2024-11-05160213.png"/>
 
-**![](../books_images/U-IMG-1730802898Screenshot2024-11-05160442.png)श्रीश्रीगौरगदाधरौविजयेताम्![](../books_images/U-IMG-1730802898Screenshot2024-11-05160442.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730802898Screenshot2024-11-05160442.png"/>श्रीश्रीगौरगदाधरौविजयेताम्<MISSING_FIG href="../books_images/U-IMG-1730802898Screenshot2024-11-05160442.png"/>**
 
 ***विज्ञप्तिः***
 
@@ -67,13 +67,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMTc0NDA4NDg
 
 **हरिदासशास्त्री**
 
-![](../books_images/U-IMG-1730803337Screenshot2024-11-05160442.png)श्रीश्रीगौरगदाधरौविजयेताम्![](../books_images/U-IMG-1730803337Screenshot2024-11-05160442.png)
+<MISSING_FIG href="../books_images/U-IMG-1730803337Screenshot2024-11-05160442.png"/>श्रीश्रीगौरगदाधरौविजयेताम्<MISSING_FIG href="../books_images/U-IMG-1730803337Screenshot2024-11-05160442.png"/>
 
 **व्रजरीतिचिन्तामणिः**
 
 **प्रथमः सर्गः**
 
-![](../books_images/U-IMG-1730803337Screenshot2024-11-05160442.png)
+<MISSING_FIG href="../books_images/U-IMG-1730803337Screenshot2024-11-05160442.png"/>
 
 **मङ्गलाचरणम्**
 
@@ -1326,9 +1326,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMTc0NDA4NDg
  श्रीकृष्ण चैतन्य स्वरूप कृपामय गुरुदेव किम्बा नन्दनन्दन श्रीकृष्ण, कृपामय गुरुदेव, श्रीचैतन्य महाप्रभु अथवा श्रीरूप गोस्वामी श्रीराधा-श्याम की लीलारस का आश्रय स्थान श्रीवृन्दावन-धामवासी जन समूह की रीति प्रकाशित किये हैं। जिससे उस रीरि का लेश विशेष में प्रवेश के लिए बुद्धि का उदय होता है, उस **"श्रीव्रजरीतिचिन्तामणि"** नामक ग्रन्थ में नन्दीश्वर के उद्देश्य में महादेव का अथवा संसारवर्त्ति जनों का आनन्द विधान हेतु यह प्रथम सर्ग समाप्त हुआ है॥८७॥
 
 **॥ इति प्रथमः सर्गः समाप्तः॥**  
-![](../books_images/U-IMG-1730544638Screenshot2024-11-02162024.png)
+<MISSING_FIG href="../books_images/U-IMG-1730544638Screenshot2024-11-02162024.png"/>
 
-**![](../books_images/U-IMG-1730544882Screenshot2024-11-02162426.png)द्वितीयः सर्गः![](../books_images/U-IMG-1730544882Screenshot2024-11-02162426.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730544882Screenshot2024-11-02162426.png"/>द्वितीयः सर्गः<MISSING_FIG href="../books_images/U-IMG-1730544882Screenshot2024-11-02162426.png"/>**
 
 **एवम्विध श्रीव्रजराजिराजो,  
 नन्दीश्वरोऽयं परितोवनानि।  
@@ -2241,9 +2241,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMTc0NDA4NDg
  श्रीनन्दीश्वर मन्दिर प्रान्त में एवं उसकी चारों ओर श्रीवृन्दावनचन्द्र श्रीकृष्ण के जो सब विहार स्थान हैं, तन्मध्ये उल्लसित शोभामाधुर्य्यमें श्रीवृन्दावन ही कानन समूह के मध्य में काननोत्तम है। उस वृन्दावन प्रदेश के लेशमात्र मनन भी जिससे सिद्ध होता है, उस **“श्रीरीति-चिन्तामणि"** नामक ग्रन्थ में श्रीराधा कृष्णरस के प्रति लोभोत्पादन में शोभनोदय स्वरूप यह द्वितीय सर्ग विवृत हुआ॥८७॥
 
 **॥इति द्वितीयः सर्गः समाप्तः॥**  
-![](../books_images/U-IMG-1730602693Screenshot2024-11-03082736.png)
+<MISSING_FIG href="../books_images/U-IMG-1730602693Screenshot2024-11-03082736.png"/>
 
-**![](../books_images/U-IMG-1730615951Screenshot2024-11-02162426.png)तृतीयः सर्गः![](../books_images/U-IMG-1730615951Screenshot2024-11-02162426.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730615951Screenshot2024-11-02162426.png"/>तृतीयः सर्गः<MISSING_FIG href="../books_images/U-IMG-1730615951Screenshot2024-11-02162426.png"/>**
 
 **वृन्दावनेष्वीदृश-वैभवेषु माधुर्य्यधूर्य्यध्वजवद्धिनोति।  
 गोवर्द्धनोनाम धराजिराजो राजोपचारैर्युवराजराजं॥१॥  
@@ -2846,7 +2846,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMTc0NDA4NDg
 चैत्रे मासि सिते पक्षे नवम्यां भृगुवासरे,  
 चन्द्रग्रहवियद्रामे शाकेऽयं पूर्णतां गतः॥**
 
-![](../books_images/U-IMG-1730645498Screenshot2024-11-03202124.png)
+<MISSING_FIG href="../books_images/U-IMG-1730645498Screenshot2024-11-03202124.png"/>
 
 **श्रीकृष्णचैतन्य महाप्रभु**
 
@@ -2934,7 +2934,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMTc0NDA4NDg
 
 ** ६४। संक्षेप श्रीहरिनामामृत व्याकरणम्**
 
-**![](../books_images/U-IMG-1730643791Screenshot2024-11-02162024.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730643791Screenshot2024-11-02162024.png"/>**
 
 **————————————————————————————————————  
 वङ्गाक्षर में मुद्रित ग्रन्थ**
@@ -2962,9 +2962,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMTc0NDA4NDg
 
 ** ११। श्री साधनामृतचन्द्रिका**
 
-**![](../books_images/U-IMG-1730643791Screenshot2024-11-02162024.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730643791Screenshot2024-11-02162024.png"/>**
 
-**![](../books_images/U-IMG-1730643330Screenshot2024-11-02162426.png)आगामी प्रकाशन![](../books_images/U-IMG-1730643330Screenshot2024-11-02162426.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1730643330Screenshot2024-11-02162426.png"/>आगामी प्रकाशन<MISSING_FIG href="../books_images/U-IMG-1730643330Screenshot2024-11-02162426.png"/>**
 
 **१। वृहद्भागवतामृतम्**
 
@@ -2990,7 +2990,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwMTc0NDA4NDg
 
 कालीदह, वृन्दावन–२८११२१
 
-![](../books_images/U-IMG-1730643468Screenshot2024-11-03194730.png)
+<MISSING_FIG href="../books_images/U-IMG-1730643468Screenshot2024-11-03194730.png"/>
 
 ——————————————————————————————————————  
  मुद्रक—श्रीगदाधर गौरहरि प्रेस, कालीदह, वृन्दावन।

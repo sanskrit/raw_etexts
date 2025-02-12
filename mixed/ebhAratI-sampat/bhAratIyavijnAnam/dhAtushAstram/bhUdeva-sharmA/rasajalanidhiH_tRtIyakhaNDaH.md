@@ -523,9 +523,9 @@ Hrinnala has a yellowish black colour. It has, on its surfaces, pogara of the sh
 
 Tarapatta iron is obtained from iron ores by a class of smiths who are specialists in the science of ores. This iron is black, smooth, glazy, and has very fine pogara (carved lines) on its surface. This is prepared in the shape of a spoon (minus the handle). It is a kind of iron which never rusts, even if it is exposed to the sun, rains, and wind.\*[^4]
 
-(५) वज्रलौहम् ।
-
 [^4]: "This is most probably the iron out of which the wonderful iron pillar of Delhi, the iron beams in the ruins of konarka temple, the cannons in visnupur etc. were prepared. The art of preparing such iron is now hopelessly lost."
+
+(५) वज्रलौहम् ।
 
 पोगरैर्वज्रसंकाशैः सूक्ष्मरेखैश्च सान्द्रकैः ।  
 
@@ -627,7 +627,9 @@ Kanta iron is of such a nature that a drop of oil thrown into water contained in
 
 **यत् पात्राघ्युषिते तोये तैलबिन्दु र्न सर्पति ।**  
 
-**तारेणावर्त्तते यत् तत् [कान्तलौहमिति स्मृतम्](#) ॥**
+**तारेणावर्त्तते यत् तत् कान्तलौहमिति स्मृतम्[^131] ॥**
+
+[^131]: #
 
 ( 3 )
 
@@ -705,9 +707,9 @@ Kanta iron is bitter in taste, warm in touch, but produces a cooling effect in t
 
 लौहस्य शोधनम् ।\*[^7]
 
-प्रथमोविधिः ।
-
 [^7]: "शोधनार्थं पत्तलीकृतं लौहपत्रमेव सर्व्वदा व्यवहार्य्यम् ।"
+
+प्रथमोविधिः ।
 
 **पत्तलीकृतपत्रानि लौहस्याग्नौ प्रतापयेत् ।**  
 
@@ -719,9 +721,9 @@ Kanta iron is bitter in taste, warm in touch, but produces a cooling effect in t
 
 Purification of iron.**\***[^8]
 
-**First process.**
-
 [^8]: "Iron is, first of all, to be heated and hammered into thin leaves before it is purified."
+
+**First process.**
 
 (See Second process, page 242, vol. II.)
 
@@ -1796,7 +1798,9 @@ Fill up one half of a cubical pit, one cubit in dimensions, with cowdung cakes o
 
 **अयसा साम्यं संख्याभूयोऽल्पत्वेन भूयोऽल्पे ॥**  
 
-**एवं धात्वनुसारात् तत्तत् कथितौषधस्य [बाधेन](॑# "बाधेन वर्जनेनेत्तर्थः ।") ।**  
+**एवं धात्वनुसारात् तत्तत् कथितौषधस्य बाधेन[^132] ।**  
+
+[^132]: ॑# "बाधेन वर्जनेनेत्तर्थः ।"
 
 **सर्व्वत्रैव विधेयस्तदकथितस्यौषधस्योहः ॥**
 
@@ -2648,7 +2652,7 @@ Liquefaction of mandura.
 
  Rust of iron is liquefied and assumes the shape of butter, if it is immersed in a liquid paste, made of biranga pestled with the juice of agastya and dissolved in the same liquid, and exposed for a long time to the heat of the sun.
 
-![](../../../books_images/1689913191.png)
+<MISSING_FIG href="../../../books_images/1689913191.png"/>
 
 **द्वितीयोऽध्यायः ।**
 
@@ -2768,8 +2772,6 @@ Zinc may also be purified and incinerated in the same manner as vanga (tin) and 
 यशोदस्यानुपानानि ।
 
 **खर्जुरतंडुलीहिमै रक्तातिसारनाशकम्\*[^19]**  
-
-[^19]: "अग्रे वङ्गनागप्रकरणद्रष्टव्यम् ।"
 
 **विनाशयेज् ज्वरं चैव यशोदं मायुजं खलु ॥**  
 
@@ -3455,9 +3457,9 @@ Incineration of Lead.
 **हतमुत्थापितं सीसं दशवारेण सिध्यति ।  
 तन्मृतं सीसकं सर्वदोषमुक्तं रसायनम् ॥_(\*)**[^24]
 
-**Fifth process.**
-
 [^24]: "धातूनामनिरुत्थभस्म केनचिदम्लरसेन सार्द्धंमर्दितं ध्मापितं च पूर्वाकारमवाप्नुयात् । यथा हि-क्षारा मुखकराः सर्वे सर्वेह्यम्लाः प्रबोधकाः ।"
+
+**Fifth process.**
 
 ** **Lead, killed and revived for ten times, is to be killed once more. The ashes, thus obtained, are freed from all defects and serve as a medicine which prevents and cures senility.
 
@@ -3620,9 +3622,9 @@ Incineration of Lead.
 
 _(\*)[^25]
 
-, a branch of a strong vasaka tree being used as a ladle to turn the preparation. The ashes are then to be subjected to putam for seven times, after having been rubbed each time with the juice of vasaka. The product is sindura or red vermilion. The process of preparation of ksharas will be described later in the present volume. It gains in efficacy, if mixed with one fourth its quantity of hingula (duly purified).
-
 [^25]: "The process of preparation of ksharas will be described later in the present volume."
+
+, a branch of a strong vasaka tree being used as a ladle to turn the preparation. The ashes are then to be subjected to putam for seven times, after having been rubbed each time with the juice of vasaka. The product is sindura or red vermilion. The process of preparation of ksharas will be described later in the present volume. It gains in efficacy, if mixed with one fourth its quantity of hingula (duly purified).
 
 **अष्टादशोविधिः ।**  
 
@@ -3739,7 +3741,7 @@ Remedy.
 
 One is freed from the evil effects of lead, not properly incinerated, if one takes incinerated gold with haritaki, (one fourth of a tola in weight), and sugar for three days.
 
-![](../../../books_images/1689913124.png)
+<MISSING_FIG href="../../../books_images/1689913124.png"/>
 
 **तृतीयोऽध्यायः ।**
 
@@ -3975,9 +3977,9 @@ Properties of Bell-metal.
 
 Bell-metal is light, bitter, and warm, reducer of fat, improver of eye-sight, curer of worms and leprosy, pacifier of vayu and pittam, increaser of power of digestion. Every article of food stuff, except clarified butter, becomes salutary to the system, if served on utensils made of bell-metal. One who takes a mercurial preparation should not take his food served on a bell-metal utensil.\*[^28]
 
-**अस्य शोधनम् ।**
-
 [^28]: " See page 204, Vol. I."
+
+**अस्य शोधनम् ।**
 
 **प्रथमोविधिः ।**
 
@@ -4187,7 +4189,7 @@ Superiority of metallic drugs.
 
 Incinerated metals assume, to a certain extent, the properties of mercury. They can also cure diseases which are troublesome and attended with complications. If used for a long time, they can not only cure diseases but also strengthen the body and cure and prevent senile decay.
 
-![](../../../books_images/1689405752.png)
+<MISSING_FIG href="../../../books_images/1689405752.png"/>
 
 **चतुर्थोऽध्यायः ।**
 
@@ -4531,9 +4533,9 @@ Any gem or ratna is purified, if it is boiled in a Dola Jantram for one hour wit
 
 \*[^90]
 
-\(2\) *Red diamonds.*
-
 [^90]: "नृपमिति क्षत्रियवर्णवज्रम् ।"
+
+\(2\) *Red diamonds.*
 
 **First process.**
 
@@ -5195,7 +5197,9 @@ Some bhallata (a stone which possesses the colour and some other features of eme
 
 [^98]: "गात्रमिति स्थूलम् ।"
 
-**MANIKYA ([RUBY](#)).**
+**MANIKYA (RUBY[^133]).**
+
+[^133]: #
 
 Its variety.
 
@@ -6532,7 +6536,7 @@ General Properties of Amorphous Stones.
 
 The amorphous stones, if devoid of defects, are regarded to have a part of the properties of the gems (see page 195)
 
-![](../../../books_images/1689912983.png)
+<MISSING_FIG href="../../../books_images/1689912983.png"/>
 
 पञ्चमोऽध्यायः ।
 
@@ -6793,9 +6797,9 @@ Artificial swarji-kshara.
 
 In the absense of swarji-kshara, as manufactured in the way stated above, physicians sometimes use, as its substitute, a kshara prepared from the ashes of duralabha or small duralabha.\*[^49]
 
-**(३) टंकनम् ।**
-
 [^49]: "The small variety grows in abundance in barren tracts of land, and especially in the Punjab where it is called "
+
+**(३) टंकनम् ।**
 
 **मृत्तिका टंकलाह्वया टंकनमिश्रिता या हि ।  
 प्राप्यते सा कदाचिद्वै शुष्कजलाशयोदरे ॥  
@@ -6917,9 +6921,9 @@ Two thirds of a drona of the ghanta-patali kshara and one third of a drona of th
 
  These ksharas are to be kept in jars with their mouths covered.\*[^108]
 
-**क्षारद्वयम् ।**
-
 [^108]: "For details see, Chapter XI, Sutra-sthanam, and XXXXII, uttaratantra, Sushruta."
+
+**क्षारद्वयम् ।**
 
 **स्वर्जिका यावशूकश्च क्षारद्वयमुदाहृतम् ।**
 
@@ -6939,7 +6943,7 @@ The following eight are called the eight ksharas :—ksharas prepared from (1) p
 
  These are like fire and are curer of gulma and colic.
 
-![](../../../books_images/1689912810.png)
+<MISSING_FIG href="../../../books_images/1689912810.png"/>
 
 **षष्ठोऽध्यायः ।**
 
@@ -7117,8 +7121,6 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 
 **(५) रोमकम्[^109] ।**
 
-[^109]: "रोमः गर्त्तंजलाशयइत्यर्थः तस्मात् जायते इति रोमकम् ।"
-
 **अस्य नामानि ।**
 
 **रोमकं रोमलोणं च साम्बरं सम्बरोद्भवम् ।  
@@ -7135,8 +7137,6 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 आसीत् पुरा पुरी तत्र रोमाख्या हि यशस्वती ।  
 साम्प्रतं वर्त्तते तत्र जयपुराभिधा पुरी ।  
 सम्बरादम्बराख्यां हि लेभे तत्र पुरान्तरम् ॥**
-
-[^55]: "लोतमिति लवणम् ।"
 
 \(5\) ROMAKA (SAMBAR-SALT.)
 
@@ -7927,7 +7927,7 @@ Kernel of jayapala seed (previously purified) is to be subjected to bhavana for 
 
 [^66]: "The subject will be dealt with elaborately in a subsequent volume in the chapter on treatment of poison."
 
-![](../../../books_images/1689832036.png)
+<MISSING_FIG href="../../../books_images/1689832036.png"/>
 
 अष्टमोऽध्यायः
 
@@ -7950,9 +7950,9 @@ The following are considered semi-poisons:— Snuhi, arka, langali, gunja, karab
 
  Rubbed with poisons and the semi-poisons, mercury becomes deprived of its wings, and grows hungry. It is then able to swallow and digest metals (without increasing in weight).\*[^68]
 
-**सामान्येनोपविषाणां शोधनम् ।**
-
 [^68]: "See page 76, Vol. I."
+
+**सामान्येनोपविषाणां शोधनम् ।**
 
 **उपविषं विशुध्यति पञ्चगव्यैर्विभावितम्[^119] ।  
 शोध्यं च दोलिकायन्त्रे क्षीरपूर्णेऽथ पात्रके ॥**
@@ -8722,7 +8722,7 @@ Purification of Leeches.
  A leech, which is sufficiently old, is to be kept in a copper pot. It is to be immersed in 32 tolas of water, mixed with one fourth of a tola of powdered haridra (turmeric). Thus treated, it will give out its saliva. Purified in this way, the leech may be applied for the purpose of blood-sucking.  
  A leech of the following description is to be avoided :— (1) A leech which has got furs on its body, or (2) one which is of tawny colour ; or (3) one which has got red lines on its body; or (4) one which is weak.
 
-![](../../../books_images/1689859620.png)
+<MISSING_FIG href="../../../books_images/1689859620.png"/>
 
 **नवमोऽध्यायः ।**
 
@@ -8773,7 +8773,9 @@ Seeds of any kind are to be powdered very fine, and sifted through a piece of cl
 **( ४ )**
 
 **सर्वबीजास्थिमांसानां शुष्काणां पेषणान्मुहुः ।  
-पातयेद् यत्नतस्तैलं यन्त्रेन [पातालाख्यके]("द्वीतीयखण्डे १२० पृष्ठे पादटीका द्रष्टव्या ।")॥**
+पातयेद् यत्नतस्तैलं यन्त्रेन पातालाख्यके[^134]॥**
+
+[^134]: "द्वीतीयखण्डे १२० पृष्ठे पादटीका द्रष्टव्या ।"
 
 ( 4 )
 
@@ -8888,7 +8890,7 @@ Mouths of ankola seeds, previously separated from their husks, are to be rubbed 
 
  Powdered seeds of shami are to be pestled very finely and kept inside a pot having a hole at its bottom. This pot is to be put upon another pot. The hole in the upper pot is to be stopped by means of hair. Some water is to be poured into the upper pot. (The lower part and that part of the upper pot which contains the hair are to be kept in a pit made in the ground). A fire is to be made covering the upper pot, with the result that water will fall, first of all, into the lower pot, followed by oil; (This is only a kind of Patala Jantram)
 
-![](../../../books_images/1689861426.png)
+<MISSING_FIG href="../../../books_images/1689861426.png"/>
 
 **दशमोध्यायः ।**
 
@@ -9209,7 +9211,7 @@ It is a liquid, prepared from powdered and husked wheat, boiled or unboiled, and
 
 It is water fermented with mulaka (raddish), mustard seeds, etc.
 
-![](../../../books_images/1689912539.png)
+<MISSING_FIG href="../../../books_images/1689912539.png"/>
 
 **एकादशोऽध्यायः ।**
 
@@ -9350,7 +9352,7 @@ Of the innumerable chemists, most of whom have passed into oblivion, the names o
 **इति सिद्धवैद्यश्रीभूदेवदेवशर्मविरचितरसजलनिधिनाम-  
 महाग्रन्थस्य तृतीयखण्डं समाप्तम्**
 
-![](../../../books_images/1689912453.png)
+<MISSING_FIG href="../../../books_images/1689912453.png"/>
 
 **RASA-JALA-NIDHI**  
 
@@ -9466,7 +9468,7 @@ Prof. H. Nagaoka of the Institute of Physical and Chemical Research. Tokyo :—
  The method of arrangement is very good—the original Sanskrit text has been given first, followed by English reading. Besides compiling, the author had to write for himself portions of sanskrit texts whenever he found something wanting or lost, and this reflects a great credit on the author's profound scholarship.  
  The printing, paper, binding, and get up are all that could be desired—We recommend these volumes to all lovers of Ayurveda, as the treatise may be said to have introduced a new era in the revival of Ayurveda. We anxiously await the publication of the remaining volumes.
 
-![](../../../books_images/1689912364.png)
+<MISSING_FIG href="../../../books_images/1689912364.png"/>
 
 **Indian Civilization and its Antiquity.**
 
@@ -9511,6 +9513,6 @@ Mr. Mookerji's book should attract the attention of all those who are interested
 (7) The Vaitarani Ouuttack, October, 1928.  
  This is a very valuable book of research. No mere fragmentary criticism will do justice to the book. It is a book which ought to be read, marked, and digested.
 
-![](../../../books_images/1689912028.png)
+<MISSING_FIG href="../../../books_images/1689912028.png"/>
 
 \]

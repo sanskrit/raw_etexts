@@ -51,7 +51,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MzM4Njc4MDM
 
 **॥ ग्रन्थप्रशंसा ॥**
 
-**![](../books_images/U-IMG-17226981376b.png)**
+**<MISSING_FIG href="../books_images/U-IMG-17226981376b.png"/>**
 
 **गलन्ती गङ्गेयं विमलतरगीतैव महतो**
 
@@ -63,7 +63,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MzM4Njc4MDM
 
 **                       —**प्रणवानन्दः
 
-![](../books_images/U-IMG-1721832986imah12.PNG)  
+<MISSING_FIG href="../books_images/U-IMG-1721832986imah12.PNG"/>  
 :
 
 **॥श्रीरमणगीताप्रकाशपीठिका॥**
@@ -144,7 +144,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MzM4Njc4MDM
 
  एवंत्रैविध्येनाभासमानानां धर्मार्थकामानां पुरुषार्थानां एक एव लक्ष्यःपुरुषार्थः,सच स्वात्मभूते ब्रह्मण्यहमहमिति हृदये स्फुरतिनित्यशुद्धवुद्धमुक्तस्वभावे सिद्धःसोऽन्वेष्टव्यः सविजिज्ञासितव्य इति भगवतो रमणस्य श्रीमहर्षेरुपदेशानां हृदयम्‌। यथाचायमर्थःसर्वेषांश्रीरमणीयोेपदेशानां तथेह व्याख्यास्यमानायां त्रिशत्यांगीतायांस्पष्टतरंप्रदर्शयिष्यते॥
 
-![](../books_images/U-IMG-1722474756aapic.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1722474756aapic.PNG"/>
 
 **श्रीरमणगीता**
 
@@ -2701,7 +2701,7 @@ _(***\)**गुरुमन्त्रभाष्यम्*_(\*)***
 
  एवमेतानि चत्वारि नामान्येकस्यैवोक्तानि। प्रायो विभूतिभेदात् चतुष्टयोक्तिरिति प्रतिभाति॥
 
-**![](../books_images/U-IMG-17229621786b.png)**
+**<MISSING_FIG href="../books_images/U-IMG-17229621786b.png"/>**
 
 **॥ शुद्धिपत्रिका ॥**
 

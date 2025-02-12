@@ -48,7 +48,7 @@ By
 Honourable Shri G. V. MAVLANKAR,  
 peaker, Indian Dominion Parliament,
 
-![](../books_images/U-IMG-1723820692JKJHAJHKA.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1723820692JKJHAJHKA.jpg"/>  
 **Oriental Book Agency**
 
 15, Shukrawar, POONA 2 ( India ).
@@ -152,7 +152,7 @@ Notes**
 
 **पुरस्कारः**
 
-![](../books_images/U-IMG-1723388541jkjhjhsdhjgfghgjhdfg.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1723388541jkjhjhsdhjgfghgjhdfg.jpg"/>
 
  श्रीमद्भगवद्गीताया अनुकृतिरूपाणां रामगणेशादिनामपृर्वाणां कासांचन गीतानां नामानि लोकमान्यतिलकमहोदयैःस्वकीये गीतारहस्ये निर्दिष्टानि वर्वन्ते। तासां सर्वासां विवेचनं तु ईशप्राप्तिः संसारबन्धनिर्मुक्तिरित्यादिविषयानधिकृत्यैव कृतमद्ययावदास्तिकैः पाठकैर्भक्त्या अभ्यस्तमपि दृश्यते। इयं गान्धीगीता तु भगवद्गीताया एव अनुकरणरूपापि सर्वाभ्यः प्राचीनगीताभ्यः सर्वथा पृथगेव विषयं विस्तरेण विवेचयतीतीयानस्या विशेषः। येयमस्माकं मातृभूमिः पुरा वैभवस्य परां कोटिमाप्नोत्‌ सैवेदानीं परदास्यनिगडबद्धा कथं मोचिता स्यान्मुक्तायाः पुनरपि विभवप्राप्तिः कथ वा भवेदित्यादिविषयाः प्रसङ्गतः अस्यां गान्धीगीतायां चर्चिताः। तेन मन्ये इयं गीता न केवलंधार्मिकैःअपि तु राजकीयसामाजिकादिविविधविषयविवेचकैरपि सर्वैरेव भारतीयैः सम्यगधीता, आचरिता च राष्ट्रस्य समुन्नतये प्रभवेदिति।
 
@@ -260,13 +260,13 @@ Makar Samkranta,
 **श्रीनिवासंप्रणीतेयं 'गान्धीगीता'शुभाशया।  
 भारतीयसमुन्नत्यैसदा स्याच्छान्तिदायिनी॥ १४ ॥**
 
-**![](../books_images/U-IMG-1723397467jkjhjhsdhjgfghgjhdfg112454.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1723397467jkjhjhsdhjgfghgjhdfg112454.jpg"/>**
 
 **॥ श्रीरस्तु॥**
 
 **गान्धी-गीता,**
 
-**![](../books_images/U-IMG-1723397656jkjhjhsdhjgfghgjhdfg11.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1723397656jkjhjhsdhjgfghgjhdfg11.jpg"/>**
 
 **अथ प्रथमोऽध्यायः।**
 
@@ -3840,7 +3840,7 @@ Makar Samkranta,
 
 **शुद्धिपत्रम्।**
 
-**![](../books_images/U-IMG-1723886006jzjkhkj.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1723886006jzjkhkj.jpg"/>**
 
 |               |               |
 |:-------------:|:-------------:|
@@ -3890,7 +3890,7 @@ Makar Samkranta,
 |  'बहवः शंकाः'   | 'बह्वीः शंकाश्च' |
 |     'एवैत॰'     |     'चैवैत॰'     |
 
-![](../books_images/U-IMG-1723913501zjhjk.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1723913501zjhjk.jpg"/>
 
 Notes.
 
@@ -4036,6 +4036,6 @@ Hindus to West Bengal, has added to the difficulties of the Indian Government.
 
  69 Being originally intended to be an imitation of the Bhagavadyita, this Gita also closed with 18th Adhyaya; but the manuscript lay with the author, for so many years, without its having any body to publish it, So that when, sometime back, the Hon. Shri Mavalankar read the manuscript, he suggested that the text be brought upto-date, including all the important developments in the National struggle for independence; and the author readily accepted the kind suggestion, adding six more Adhyayas, Thus bringing the total to 24.
 
-![](../books_images/U-IMG-1723916743kjkkkklk.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1723916743kjkkkklk.jpg"/>
 
 \]

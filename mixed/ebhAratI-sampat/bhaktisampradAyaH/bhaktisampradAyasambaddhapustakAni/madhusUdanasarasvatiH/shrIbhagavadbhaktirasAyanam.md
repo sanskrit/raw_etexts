@@ -238,7 +238,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MzQ3NTE4Njk
 
 इति शम्।
 
-![](../books_images/U-IMG-1731063705001010.png)
+<MISSING_FIG href="../books_images/U-IMG-1731063705001010.png"/>
 
 [TABLE]
 
@@ -370,7 +370,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MzQ3NTE4Njk
 
 ग्रन्थान्ते सौकर्यार्थं पार्थक्येन मूलकारिकापाठश्च
 
- ![](../books_images/U-IMG-1730704511000123.png)
+ <MISSING_FIG href="../books_images/U-IMG-1730704511000123.png"/>
 
 मन एकत्र संयुञ्ज्याज्जितश्वासो जितासनः।  
 वैराग्याभ्यासयोगेन ध्रियमाणमतन्द्रितः॥  
@@ -3329,7 +3329,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MzQ3NTE4Njk
 प्रपायां भक्तिविशेषप्रतिपादको नाम  
 द्वितीयोल्लासः
 
-![](../books_images/U-IMG-1730894322Screenshot2024-11-06172740.png)
+<MISSING_FIG href="../books_images/U-IMG-1730894322Screenshot2024-11-06172740.png"/>
 
 **अथ श्रीमधुसूदनसरस्वतीविरचितभक्तिरसायनस्य  
 प्रेमप्रपासहितो–  
@@ -4219,11 +4219,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MzQ3NTE4Njk
 प्रेमप्रपायां भक्तिरसप्रतिपादको नाम  
 तृतीयोल्लासः। निबन्धश्च समाप्तः॥
 
-![](../books_images/U-IMG-1730973843Screenshot2024-11-06172740.png)
+<MISSING_FIG href="../books_images/U-IMG-1730973843Screenshot2024-11-06172740.png"/>
 
 **भक्तिरसायनम्।**
 
- ![](../books_images/U-IMG-1730973927Screenshot2024-11-07153513.png)
+ <MISSING_FIG href="../books_images/U-IMG-1730973927Screenshot2024-11-07153513.png"/>
 
 **भक्तिसामान्यनिरूपणनामकः**
 
@@ -4340,7 +4340,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MzQ3NTE4Njk
 स्वरूप भूमिका साधनसहितभक्तिसामान्यनिरूपणं नाम  
 प्रथम उल्लासः समाप्तः॥
 
-![](../books_images/U-IMG-1730975184Screenshot2024-11-07155613.png)
+<MISSING_FIG href="../books_images/U-IMG-1730975184Screenshot2024-11-07155613.png"/>
 
 भक्तिविशेषप्रतिपादको-  
 **द्वितीय उल्लासः ।**
@@ -4588,7 +4588,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ3MzQ3NTE4Njk
 इति श्रीपरमहंसपरिव्राजकाचार्य्यश्रीमधुसूदनसरस्वतीविरचिते भगवद्भक्तिरसायने  
 भक्तिविशेषप्रतिपादको नाम द्वितीयोल्लासः
 
-![](../books_images/U-IMG-1730980349Screenshot2024-11-07153513.png)
+<MISSING_FIG href="../books_images/U-IMG-1730980349Screenshot2024-11-07153513.png"/>
 
 **भक्तिरसप्रतिपादकः**
 

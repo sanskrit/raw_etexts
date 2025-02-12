@@ -13,7 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMDA2NjUyODE
 
 \[
 
+
+
 मायापञ्चकम्
+
+
 
 निरुपमनित्यनिरंशकेऽप्यखण्डे
 
@@ -64,5 +68,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQyMDA2NjUyODE
 मायापञ्चकम्
 
 संपूर्णम् ॥
+
+
+
+
+
+
+
+
+
+
+
 
 \]

@@ -3500,9 +3500,9 @@ The evil effects followed by an improper use of tutthaka and sasyaka can be coun
 
 ***Chapala.***[^22]
 
-Chapala is obtained in mines from which lead and tin are procured. It is of four different kinds, viz., gold coloured, white, red, and black. The first two are especially suitable for solidification of mercury. The third and the fourth melt quickly like lac and are useless. Chapala (meaning subtle ) is so called because it melts over fire as quickly as tin. Chapala has the appearance of quartz. It has six faces faces ; it is soothing and heavy.
-
 [^22]: "It appears to be an ore containing lead or tin. It is now-a-days very rare; and the author has not yet been able to procure it."
+
+Chapala is obtained in mines from which lead and tin are procured. It is of four different kinds, viz., gold coloured, white, red, and black. The first two are especially suitable for solidification of mercury. The third and the fourth melt quickly like lac and are useless. Chapala (meaning subtle ) is so called because it melts over fire as quickly as tin. Chapala has the appearance of quartz. It has six faces faces ; it is soothing and heavy.
 
 Chapala is a curer of obesity; it is soothing and has the property of making the body as hard as steel. It is a helper of mercury ; it is bitter, strong, and sweet in taste. It is a remover of an abnormal excess of the three doshas; is a great nutritive, and has theproperty of solidifying mercury. This nectar-like substance may be used in gulma, mucus, colic, consumption, gonorrhoea, fever, leucorrhoea, and menorrhagia.
 
@@ -3564,7 +3564,9 @@ One hundred and twenty tolas of lead are to be rubbed with the milk of arka, and
 
 ***Rasaka or kharpara (calaminc).***
 
-Rasaka is of two kinds, viz, ["Durdara”](#) and "karabella." The variety which has got layers is called the "Durdara" and the one which has got no layers is called the "karabella." The first variety is to be preferred for the purpose of extraction of essence, whereas the second one is more suitable for purpose of being used in medicines. Rasaka resembles in appearance three different things, viz, mud, stone, and molasses. The first is yellow in colour and is full of layers. Both the second and the third are thick and without layers. In quality, the second is inferior to the first, and the third is inferior to the second. Rasaka cures all sorts of venereal diseases and eye-diseases; it pacifies an abnormal excess of the three doshas, and is a dyer of iron and mercury. The art of transforming the body into steel becomes a hand maid, as it were, to the person who can make mercury and rasaka stand fire.
+Rasaka is of two kinds, viz, "Durdara”[^43] and "karabella." The variety which has got layers is called the "Durdara" and the one which has got no layers is called the "karabella." The first variety is to be preferred for the purpose of extraction of essence, whereas the second one is more suitable for purpose of being used in medicines. Rasaka resembles in appearance three different things, viz, mud, stone, and molasses. The first is yellow in colour and is full of layers. Both the second and the third are thick and without layers. In quality, the second is inferior to the first, and the third is inferior to the second. Rasaka cures all sorts of venereal diseases and eye-diseases; it pacifies an abnormal excess of the three doshas, and is a dyer of iron and mercury. The art of transforming the body into steel becomes a hand maid, as it were, to the person who can make mercury and rasaka stand fire.
+
+[^43]: #
 
 **अग्निसहने रसकस्य अक्षमता ।**
 
@@ -6524,10 +6526,10 @@ Hingula discharges its essence in the shape of mercury, if subjected to sublimat
 
 **अथ मृद्दारशृङ्गकम् ।** **\***[^35]
 
+[^35]: " मुद्राशङ्खमित्यस्य प्रचलितनाम ।"
+
 **सदलं पीतवर्णं च भवेद् गुर्जरमण्डले ।**  
 **अर्वुदस्य गिरेः पार्श्वे जातं मृद्दारशृङ्गकम् ॥**
-
-[^35]: " मुद्राशङ्खमित्यस्य प्रचलितनाम ।"
 
 **सीससत्त्वं गुरु श्लेष्मशमनं पुंगदापहम् ।**  
 **रसवन्धनमुत्कृष्टं केशरञ्जनमुत्तमम् ॥**
@@ -6834,9 +6836,9 @@ Worms grow in the abdomen of the man who takes metals killed without the help of
 
 The physicians who are experts in the performance of processes explained by Siddha Lakshmiswara have no doubt that the ashes of metals containing mercury are the best that can be prepared, †[^39]
 
-**प्रथमो विधिः ।**
-
 [^39]: " See the fourth process."
+
+**प्रथमो विधिः ।**
 
 **कन्टकवेध्यपत्राणि सुवर्णस्य विलेपयेत् ।**  
 **लुङ्गाम्वुभस्मसूतेन मारयेद् दशभिः पुटैः ॥**
@@ -7451,9 +7453,9 @@ Silver, duly purified and incinerated, cures inflammation, etc, if taken with su
 **शतधा नरमूत्रेणाभावयेद् देवदालिकाम् ।**  
 **तच्चूर्णावापमात्रेणाद्रुतिः स्यात् स्वर्णतारयोः ॥** **\***[^40]
 
-***Liquefaction of silver.***
-
 [^40]: "सप्तधा इत्येत्त पाठान्तरमू।"
+
+***Liquefaction of silver.***
 
    Gold and silver turn into liquid (without the application of heat), as soon as a little of devadali fruit, powdered finely, and subjected to bhavana for one hundred times \*[^41], is thrown upon the metal.
 

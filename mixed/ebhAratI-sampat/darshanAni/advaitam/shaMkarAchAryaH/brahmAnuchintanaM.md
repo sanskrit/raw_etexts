@@ -13,7 +13,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5Mjc4NzYyMDM
 
 \[
 
+
+
 ब्रह्मानुचिन्तनम्
+
+
+
+
 
 अहमेव परं ब्रह्म वासुदेवाख्यमव्ययम् ।
 
@@ -130,5 +136,24 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5Mjc4NzYyMDM
 नाहं देहो न मे देहः केवलोऽहं सनातनः ॥ २७॥
 
  ॥ इति श्रीमद् शङ्कराचार्यविरचितं ब्रह्मानुचिन्तनं समाप्तं ॥
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

@@ -24,7 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjMxMzA5ODU
 
 **निवेदन**
 
-**![](../books_images/U-IMG-1724042060789456.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1724042060789456.png"/>**
 
 सद्गत गुरुवर्य श्रीमद् बुद्धिसागरसूरीश्वरजी महाराजना अप्रगट साहित्य पैकीनो आ ग्रन्थ-प्रेमगीता (मूल संस्कृत) छे. आ ग्रन्थनो विषय गहन होवाथी तेनुं भाषान्तर अथवा अनुवाद थवानी जरूर छे. पण तेम करतां वधारे वखत लागे तेम होवाथी गुरुश्रीना पट्टधर शिष्य प्रसिद्धवक्ता श्रीमद्-अज्जितसागरसूरीश्वरज्जीनी प्रेरणानुसार हाल मूल रूपेज प्रसिद्ध करवानुं उचित धार्युं छे. या ग्रन्थनुं गुजराती भाषामा, समश्लोकी भाषान्तर सारा विद्वान् पासे करावी प्रसिद्ध करवा मण्डलने उमेद छे. आ ग्रन्थनो विषय अति गम्भीर होवाथी कर्ताना याशय तथा सापेक्षता लक्षमां राखी बांचवा विनंती छे. आ ग्रन्थ साथेजोडवा सद्गत गुरुश्रीनुं संस्कृत टुंक जीवन तथा ग्रन्थनी प्रस्तावना लखी आपवा माटे श्रीमान् अजितसागरसूरीश्वरजी महाराजनो अंतःकरणपूर्वक आभार मानवामां आवे छे।
 
@@ -36,7 +36,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjMxMzA5ODU
 ता. २०-८-२८ }
 
 **प्रस्तावना.**  
-**![](../books_images/U-IMG-1722319639Untitled4.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1722319639Untitled4.png"/>**  
 
 **प्रणम्य श्रीमहावीरं, गुरुं च बुद्धिसागरम्।  
 सूरीन्द्रं प्रेमगीतायाः, किञ्चित्प्रास्ताविकं ब्रुवे॥१॥**
@@ -188,10 +188,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjMxMzA5ODU
 बुद्धि, सं.  ४   भृगुवासरे                   
                   **ॐ शान्तिः ३**
 
-**![](../books_images/U-IMG-1722334241Untitled5.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722334241Untitled5.png"/>**
 
 **शुद्धिपत्रम्**  
-![](../books_images/U-IMG-1722334671Untitled6.png)
+<MISSING_FIG href="../books_images/U-IMG-1722334671Untitled6.png"/>
 
 |              |             |
 |:------------:|:-----------:|
@@ -207,12 +207,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjMxMzA5ODU
 | पन्न्यापदं,  | पन्न्यासपदं |
 
 **जीवनचरित्रे**  
-**![](../books_images/U-IMG-1722334962Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722334962Untitled.png"/>**
 
 **शास्त्रविशारदजैनाचार्यसद्गुरुश्रीमद् बुद्धिसागरसूरीश्वरेभ्यो नमः**
 
 **अथग्रन्थकर्तुःसंक्षिप्तजीवनवृत्तान्तम्॥  
-![](../books_images/U-IMG-1722335028Untitled2.png)**
+<MISSING_FIG href="../books_images/U-IMG-1722335028Untitled2.png"/>**
 
 **पवित्रीकृतभूमीनां, श्रीमतामर्हतां मुदा।  
 नत्वा श्रेणिं प्रवक्ष्येहं, चरित्रं स्वगुरोः शुभम्॥१॥**
@@ -588,7 +588,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjMxMzA5ODU
 
 [^18]: "सागरः-"
 
-**![](../books_images/U-IMG-1722340537Untitled3.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1722340537Untitled3.png"/>**
 
 **श्रीमहावीरजिनचैत्यवन्दनम्.**
 
@@ -611,7 +611,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjMxMzA5ODU
 श्रीमद् बुद्धिसागरसूरीश्वरविरचिता-**
 
 **श्रीप्रेमगीता प्रारभ्यते॥  
-![](../books_images/U-IMG-1722341333Untitled.png)**
+<MISSING_FIG href="../books_images/U-IMG-1722341333Untitled.png"/>**
 
 **प्रणम्य श्रीमहावीरं, लोकानां हितकाम्यया।  
 शुद्धप्रेमस्वरूपं यत्, किञ्चिद् वच्मि विवेकतः॥१॥**
@@ -2659,10 +2659,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODM1NjMxMzA5ODU
 इति श्रीस्वपरसमयपारावारपारीणजैनतत्त्वमहोदधिशास्त्रविशारदयोगनिष्ठाध्यात्मज्ञानदिवाकरजैनाचार्यश्रीमद् बुद्धिसागरसूरीश्वरविरचिता श्रीप्रेमगीता-
 
 समाप्ता.  
-![](../books_images/U-IMG-1722485991Untitled1.png)
+<MISSING_FIG href="../books_images/U-IMG-1722485991Untitled1.png"/>
 
 |                                                                |
 |:--------------------------------------------------------------:|
-| ![](../books_images/U-IMG-17242349926679-removebg-preview.png) |
+| <MISSING_FIG href="../books_images/U-IMG-17242349926679-removebg-preview.png"/> |
 
 \]
