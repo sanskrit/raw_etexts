@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NzE3Mjk5MzQ
 
 \[
 
+
+
+
+
 भस्मजाबालोपनिषत् ।
+
+
 
 यत्साम्यज्ञानकालाग्निस्वातिरिक्तास्तिताभ्रमम् ।
 
@@ -498,5 +504,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI3NzE3Mjk5MzQ
 इति भस्मजाबालोपनिषत्समाप्ता ॥
 
 ---------- -------- -------- ---------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

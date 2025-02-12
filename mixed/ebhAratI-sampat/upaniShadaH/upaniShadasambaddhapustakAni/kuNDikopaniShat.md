@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyNTc0Mjc4NTE
 
 \[
 
+
+
+
+
 कुण्डिकोपनिषत् ।
+
+
 
 कुण्डिकोपनिषत्ख्यातपरिव्राजकसंततिः ।
 
@@ -189,5 +195,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyNTc0Mjc4NTE
 इति कुण्डिकोपनिषत्समाप्ता ॥
 
 ----------------------------
+
+
+
 
 \]

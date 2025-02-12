@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY
 
 \[
 
+
+
+
+
 ॥ हंसोपनिषत् ॥
+
+
 
 हंसाख्योपनिषत्प्रोक्तनादालिर्यत्र विश्रमेत् ।
 
@@ -139,5 +145,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYxNjY1NzE5MzY
 इति हंसोपनिषत्समाप्ता ॥
 
 ------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

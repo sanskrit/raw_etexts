@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwMTUwNDMwODg
 
 \[
 
+
+
+
+
 अमृतबिन्दु
+
+
 
 ॐ भद्रं कर्णेभिः शृणुयाम देवाः भद्रं पश्येमाक्षभिर्यजत्राः ।
 
@@ -214,8 +220,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcwMTUwNDMwODg
 
  हरिः ॐ ॥
 
+
+
 **॥ इत्यथर्ववेदेऽमृत्बिन्दूपनिषत्समाप्ता ॥**
 
 **--------- -------- --------- ----------**
+
+
+
 
 \]

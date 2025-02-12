@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNjk1ODA4NzQ
 
 \[
 
+
+
+
+
 परब्रह्मोपनिषत् ।
+
+
 
 परब्रह्मोपनिषदि वेद्याखण्डसुखाकृति ।
 
@@ -247,5 +253,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNjk1ODA4NzQ
 इति परब्रह्मोपनिषत्समाप्ता॥
 
 -----------------------------
+
+
+
+
+
+
+
+
+
 
 \]

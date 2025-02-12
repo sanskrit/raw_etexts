@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NzE3ODY4MTE
 
 \[
 
+
+
+
+
 लाङ्गूलोपनिषत् ।
+
+
 
 श्रीगणेशाय नमः ।
 
@@ -226,8 +232,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ2NzE3ODY4MTE
 
 त्रिसन्ध्यं यः पठेन्नर ॥
 
+
+
 ॥ इत्याथर्वणरहस्ये लाङ्गूलोपनिषत् सम्पूर्णम् ॥
 
 -------------- ------------ --------- ----------
+
+
+
+
+
+
+
+
+
 
 \]

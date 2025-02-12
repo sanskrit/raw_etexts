@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUwNDUzNjM5Mzg
 
 \[
 
+
+
+
+
 गर्भोपनिषत्
+
+
 
 यद्गर्भोपनिषद्वेद्यं गर्भस्य स्वात्मबोधकम् ।
 
@@ -185,5 +191,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUwNDUzNjM5Mzg
 इति गर्भोपनिषत्समाप्ता ॥
 
 -----------------------
+
+
+
+
+
 
 \]

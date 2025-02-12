@@ -12,9 +12,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ0OTk4NDM4
 
 \[
 
+
+
 मैत्रेय्युपनिषत् ।
 
 **प्रथमोऽध्यायः।**
+
+
 
 श्रुत्याचार्योपदेशेन मुनयो यत्पदं ययुः ।
 
@@ -170,9 +174,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ0OTk4NDM4
 
 -----------------------------
 
+
+
+
+
 अथ
 
 द्वितीयोऽध्यायः।
+
+
 
 अथ भगवान्मैत्रेयः कैलासं जगाम तं गत्वोवाच
 
@@ -314,7 +324,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ0OTk4NDM4
 
 ---------------------------
 
+
+
+
+
 **अथ तृतीयोऽध्यायः।**
+
+
 
 अहमस्मि परश्चास्मि ब्रह्मास्मि प्रभवोऽस्म्यहम् ।
 
@@ -418,6 +434,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ0OTk4NDM4
 
 **-----------------------**
 
+
+
 ॐ आप्यान्तु मामाङ्गानि वाक्प्राणश्चक्षुः श्रोत्र
 
 मथो बलमिन्द्रियाणि च । सर्वाणि सर्वं ब्रह्मोपनिषदं
@@ -433,5 +451,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDQ0OTk4NDM4
 इति मैत्रेय्युपनिषत्समाप्ता ॥
 
 ------------------------
+
+
+
+
 
 \]

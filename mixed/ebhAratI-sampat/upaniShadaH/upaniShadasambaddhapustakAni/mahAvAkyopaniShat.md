@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MjAyMTY4MzA
 
 \[
 
+
+
+
+
 महावाक्योपनिषत् ।
+
+
 
 यन्महावाक्यसिद्धान्तमहाविद्याकलेवरम् ।
 
@@ -117,5 +123,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk0MjAyMTY4MzA
 इति महावाक्योपनिषत्समाप्ता ॥
 
 --------------------------
+
+
+
+
+
 
 \]

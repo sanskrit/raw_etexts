@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5OTU5MDQ3NTc
 
 \[
 
+
+
 सर्वसारोपनिषत्
+
+
+
+
 
 समस्तवेदान्तसारसिद्धान्तार्थकलेवरम् ।
 
@@ -193,5 +199,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDk5OTU5MDQ3NTc
 तेजस्विनावधीतमस्तु मा विद्विषावहै ॥
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
+
+
+
+
+
+
+
 
 \]

@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg2OTI5NTI3OTU
 
 \[
 
+
+
+
+
 सीतोपनिषत् \।
+
+
 
 इच्च्हाज्ञानक्रियाशक्तित्रयं यद्भावसाधनम् ।
 
@@ -277,5 +283,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg2OTI5NTI3OTU
 इति सीतोपनिषत्समाप्ता ॥
 
 -----------------------------
+
+
+
+
+
+
+
+
+
 
 \]

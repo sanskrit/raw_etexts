@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgwNjY1Mzk3
 
 \[
 
+
+
+
+
 प्राणाग्निहोत्रोपनिषत् ।
+
+
 
 शरीरयज्ञसंशुद्धचित्तसंजातबोधतः ।
 
@@ -23,6 +29,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgwNjY1Mzk3
 करवावहै ॥ तेजस्विनावधीतमस्तु मा विद्विषावहै ॥
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
+
+
 
 प्रथमः खण्डः।
 
@@ -100,7 +108,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgwNjY1Mzk3
 
 ---------------------
 
+
+
 द्वितीयः खण्डः।
+
+
 
 विश्वोऽसि वैश्वानरो विश्वरूपं त्वया धार्यते
 
@@ -140,7 +152,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgwNjY1Mzk3
 
 ---------------------------
 
+
+
+
+
 **तृतीयः खण्डः** ।
+
+
 
 अस्य शरीरयज्ञस्य यूपरशनाशोभितस्य
 
@@ -169,6 +187,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgwNjY1Mzk3
 **इति तृतीयः खण्डः ॥ ३॥**
 
 **-------------------------**
+
+
 
 अस्य शारीरयज्ञस्य यूपरशनाशोभितस्यात्मा यजमानः ।
 
@@ -215,5 +235,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjgwNjY1Mzk3
 इति प्राणाग्निहोत्रोपनिषत्समाप्ता ॥
 
 -----------------------------
+
+
+
+
+
+
+
+
+
+
 
 \]

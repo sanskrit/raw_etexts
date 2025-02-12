@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg4NzQ3OTU3NTk
 
 \[
 
+
+
+
+
 संन्यासोपनिषत्
+
+
 
 संन्यासोपनिषद्वेद्यं संन्यासिपटलाश्रयम् ।
 
@@ -655,5 +661,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg4NzQ3OTU3NTk
 इति संन्यासोपनिषत्समाप्ता ॥
 
 --------------------------------
+
+
+
+
+
+
+
 
 \]

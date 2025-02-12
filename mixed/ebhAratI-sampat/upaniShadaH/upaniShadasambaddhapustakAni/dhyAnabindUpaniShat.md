@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg3NjI2NzQ5NTk
 
 \[
 
+
+
+
+
+
+
 ध्यानबिन्दूपनिषत् ।
+
+
 
 ध्यात्वा यद्ब्रह्ममात्रं ते स्वावशेषधिया ययुः ।
 
@@ -565,5 +573,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg3NjI2NzQ5NTk
 इति ध्यानबिन्दूपनिषत्समाप्ता ॥
 
 ---------------- --------------
+
+
+
+
+
+
+
+
+
 
 \]

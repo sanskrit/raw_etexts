@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxMjcxNjQ4Nzg
 
 \[
 
+
+
+
+
 **मन्त्रिकोपनिषत् ।**
+
+
 
 स्वाविद्याद्वयतत्कार्यापह्नवज्ञानभासुरम् ।
 
@@ -115,5 +121,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxMjcxNjQ4Nzg
 **इति मन्त्रिकोपनिषत्समाप्ता ॥**
 
 ------------------- --------------------
+
+
+
 
 \]

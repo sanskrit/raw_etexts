@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2ODA4NzMwMjk
 
 \[
 
+
+
+
+
+
+
 ॥ अक्ष्युपनिषत् ॥
+
+
 
 यत्सप्तभूमिकाविद्यावेद्यानन्दकलेवरम् ।
 
@@ -26,7 +34,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2ODA4NzMwMjk
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
 
+
+
 हरिः ॐ ॥
+
+
 
 अथ ह सांकृतिर्भगवानादित्यलोकं जगाम ।
 
@@ -477,5 +489,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU2ODA4NzMwMjk
 इत्यलक्ष्युपनिषत् ॥
 
 ---------- ----------
+
+
+
+
+
 
 \]

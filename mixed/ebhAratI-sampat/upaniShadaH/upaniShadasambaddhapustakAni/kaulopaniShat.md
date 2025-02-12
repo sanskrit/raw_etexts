@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU5NzQ3Mzg4NzI
 
 \[
 
+
+
+
+
+
+
 **कौलोपनिषत्।**
+
+
 
 ॥ श्रीः ॥
 
@@ -147,5 +155,24 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU5NzQ3Mzg4NzI
 ॥ कौलोपनिषत्समाप्ता ॥
 
 -------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAwMTUwMDE5
 
 \[
 
+
+
 जाबालदर्शनोपनिषत् ।
+
+
+
+
 
 यमाद्यष्टाङ्गयोगेद्धं ब्रह्ममात्रप्रबोधतः ।
 
@@ -28,7 +34,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAwMTUwMDE5
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
 
+
+
+
+
 **प्रथमः खण्डः।**
+
+
 
 हरिः ॐ ॥ दत्तात्रेयो महायोगी भगवान्भूतभावनः ।
 
@@ -138,7 +150,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAwMTUwMDE5
 
 -------------------------
 
+
+
+
+
+
+
 **अथ द्वितीयखण्डः।**
+
+
 
 तपः सन्तोषमास्तिक्यं दानमीश्वरपूजनम् ।
 
@@ -208,7 +228,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAwMTUwMDE5
 
 -----------------------
 
+
+
 **अथ तृतीयः खण्डः।**
+
+
 
 स्वस्तिकं गोमुखं पद्मं वीरसिंहासने तथा ।
 
@@ -268,7 +292,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAwMTUwMDE5
 
 --------------------------
 
+
+
+
+
+
+
 अथ चतुर्थः खण्डः।
+
+
 
 शरीरं तावदेव स्यात्षण्णवत्यङ्गुलात्मकम् ।
 
@@ -524,9 +556,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAwMTUwMDE5
 
 इति चतुर्थः खण्डः ॥ ४॥
 
+
+
+
+
 **अथ**
 
 पञ्चमः खण्डः
+
+
 
 सम्यक्कथय मे ब्रह्मनाडीशुद्धिं समासतः ।
 
@@ -590,9 +628,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDAwMTUwMDE5
 
 ---------------------
 
+
+
+
+
 अथ
 
 षष्ठः खण्डः
+
+
 
 प्राणायामक्रमं वक्श्ये सांकृते श्रुणु सादरम् ।
 
@@ -806,7 +850,11 @@ c
 
 --------------------------
 
+
+
 अथ सप्तमः खण्डः।
+
+
 
 अथातः संप्रवक्श्यामि प्रत्याहारं महामुने ।
 
@@ -868,7 +916,13 @@ c
 
 ----------------------------
 
+
+
+
+
 **अथ अष्टमः खण्डः।**
+
+
 
 अथातः संप्रवक्श्यामि धारणाः पञ्च सुव्रत ।
 
@@ -911,6 +965,10 @@ c
 इत्यष्टमः खण्डः ॥ ८॥
 
 -------------------------
+
+
+
+
 
 अथ
 

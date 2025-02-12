@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0Njk1MjM5OTc
 
 \[
 
+
+
+
+
 गरुडोपनिषत् ।
+
+
 
 विषं ब्रह्मातिरिक्तं स्यादमृतं ब्रह्ममात्रकम् ।
 
@@ -291,5 +297,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc0Njk1MjM5OTc
 इति श्रीगारुडोपनिषत्समाप्ता ॥
 
 -----------------------------
+
+
+
 
 \]

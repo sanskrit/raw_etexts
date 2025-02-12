@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzY
 
 \[
 
+
+
+
+
+
+
 निरालम्बोपनिषत् ।
+
+
 
 यत्रालम्बालम्बिभावो विद्यते न कदाचन ।
 
@@ -223,5 +231,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE3NjI2MzI4MzY
 इति निरालम्बोपनिषत्समाप्ता ॥
 
 --------------------------
+
+
+
 
 \]

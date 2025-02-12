@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MzIzMTI5
 
 \[
 
+
+
 गोपालतापिन्युपनिषत्
+
+
+
+
 
 श्रीमत्पञ्चपदागारं सविशेषतयोज्ज्वलम् ।
 
@@ -35,6 +41,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MzIzMTI5
 स्वस्ति नस्तार्क्श्यो अरिष्टनेमिः ॥ स्वस्ति नो बृहस्पतिर्दधातु ॥
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
+
+
 
 गोपालतापनं कृष्णं याज्ञवल्क्यं वराहकम् ।
 
@@ -70,6 +78,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MzIzMTI5
 
 ----------------------------
 
+
+
+
+
 द्विभुजं ज्ञानमुद्राढ्यं वनमालिनमीश्वरम् ॥ १॥
 
 गोपगोपीगवावीतं सुरद्रुमतलाश्रितम् ।
@@ -101,6 +113,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MzIzMTI5
 गोविन्दं सन्तं बहुधा आराधयन्ति ।
 
 ------------------------------------
+
+
+
+
+
+
 
 गोपीजनवल्लभो भुवनानि दध्रे
 
@@ -216,6 +234,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MzIzMTI5
 
 ---------------------------------------
 
+
+
+
+
 तदत्र गाथाः
 
 यस्य चाद्यपदाद्भूमिर्द्वितीयात्सलिलोद्भवः ।
@@ -323,6 +345,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MzIzMTI5
 इति गोपालपूर्वतापिन्युपनिषत्समाप्ता ॥
 
 -------------------------------
+
+
+
+
 
 ॐ एकदा हि व्रजस्त्रियः सकामाः शर्वरीमुषित्वा
 
@@ -480,6 +506,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MzIzMTI5
 
 तरन्ति । तदप्येते श्लोका भवन्ति ।
 
+
+
 संप्राप्य मथुरा रम्यां सदा ब्रह्मादिवन्दिताम् ।
 
 शङ्खचक्रगदाशार्ङ्गरक्शितां मुसलादिभिः ॥ १॥
@@ -507,6 +535,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MzIzMTI5
 मथुरायां स्थितिर्ब्रह्मन्सर्वदा मे भविष्यति ।
 
 ---------------------------------------
+
+
+
+
+
+
 
 शङ्खचक्रगदापद्मवनमालाधरस्य वै ॥ १॥
 
@@ -670,6 +704,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MzIzMTI5
 
 ----------------------------------------
 
+
+
 ॐ प्राणात्मने ॐ तत्सद्भूर्भुवः सुवस्तस्मै प्राणात्मने नमोनमः ॥ १॥
 
 ॐ श्रीकृष्णाय गोविन्दाय गोपीजनवल्लभाय ॐ तत्सद्भूर्भुवः सुवस्तस्मै नमोनमः ॥ २॥
@@ -727,6 +763,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM3MzIzMTI5
 ब्रह्मणे ब्रह्मपुत्रेभ्यो नारदात्तु श्रुतं मुने ।
 
 तथा प्रोक्तं तु गान्धर्वि गच्च्ह त्वं स्वालयान्तिकम् ॥ २०॥ इति॥
+
+
 
 ॐ भद्रं कर्णेभिः शृणुयाम देवाः ॥ भद्रं पश्येमाक्शभिर्यजत्राः ॥
 

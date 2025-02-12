@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1ODA4MzE5OTU
 
 \[
 
+
+
+
+
+
+
 हयग्रीवोपनिषत् ।
+
+
 
 स्वज्ञोऽपि यत्प्रसादेन ज्ञानं तत्फलमाप्नुयात् ।
 
@@ -179,5 +187,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1ODA4MzE5OTU
 अथ हयग्रीवोपनिषत्समाप्ता ॥
 
 --------------------------
+
+
+
 
 \]

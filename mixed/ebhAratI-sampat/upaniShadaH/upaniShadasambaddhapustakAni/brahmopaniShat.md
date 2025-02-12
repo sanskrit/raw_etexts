@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUyMjcxMDc5OTE
 
 \[
 
+
+
+
+
 ब्रह्मोपनिषत् ।
+
+
 
 ॐ शौनको ह चै महाशालोऽङ्गिरसं भगवन्तं
 
@@ -194,8 +200,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjUyMjcxMDc5OTE
 
 सर्वात्मैकत्वरीपेण तद्ब्रह्मोपनिषत्परमिति ॥ ४॥
 
+
+
 **इत्यथर्ववेदे ब्रह्मोपनिषत्समाप्ता ॥**
 
 **-----------------------------------**
+
+
+
+
+
+
+
+
+
 
 \]

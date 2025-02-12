@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM4OTI5Mzc5MzI
 
 \[
 
+
+
+
+
 ब्रह्मविद्योपनिषत् ।
+
+
 
 स्वाविद्यातत्कार्यजातं यद्विद्यापह्नवं गतम् ।
 
@@ -483,5 +489,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM4OTI5Mzc5MzI
 इति ब्रह्मविद्योपनिषत्समाप्ता ॥
 
 ---------- -----------
+
+
+
+
+
+
+
 
 \]

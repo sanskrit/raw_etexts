@@ -19,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzUyMzI1NTk
 \[
 
 आनन्दाश्रमसंस्कृतग्रन्थावलिः।  
-![](../books_images/U-IMG-1731329943oo.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731329943oo.jpg"/>
 
 ग्रन्थाङ्कः ७६
 
@@ -27,7 +27,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzUyMzI1NTk
 
 **ईशकेनकठोपनिषदः**  
 
-**![](../books_images/U-IMG-1731330101ppp.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1731330101ppp.jpg"/>**
 
 एतत्पुस्तकम्।
 
@@ -62,7 +62,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzUyMzI1NTk
 ॐ तत्सद्ब्रह्मणे नमः।
 
 अर्थप्रकाशसहितेशावास्योपनिषत्।  
-![](../books_images/U-IMG-1731330473बबबब.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731330473बबबब.jpg"/>
 
  अथ यजुषां वाजसनेयशाखायां ज्ञानस्य तत्साधनस्य चोपपादका ईशावास्यमित्यादयोऽष्टादश मन्त्राः सन्ति तेषामधुनाऽर्थः प्रकाश्यते—
 
@@ -369,7 +369,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzUyMzI1NTk
 ॐ तत्सद्ब्रह्मणे नमः।
 
 **अर्थप्रकाशसमेता केनोपनिषत्।  
-![](../books_images/U-IMG-1731345804ााा.jpg)**
+<MISSING_FIG href="../books_images/U-IMG-1731345804ााा.jpg"/>**
 
  शिष्याचार्यसंवादेन सम्यग्ब्रह्मविद्याप्रकाशिकेयं केनोपनिषदतस्तदर्थः प्रकाश्यते—
 
@@ -538,7 +538,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzMzUyMzI1NTk
 ॐतत्सद्ब्रह्मणे नमः।
 
 अर्थप्रकाशसमेता कठोपनिषत्।  
-![](../books_images/U-IMG-1731420265ददद.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1731420265ददद.jpg"/>
 
   कठोपनिषद्यपि ब्रह्मविद्या प्रायशः कथिताऽस्त्यतस्तस्या अर्थः प्रकाश्यते। उशन्ह वा इत्यादिः कठोक्तिः। यजुषि काठकेषु नाचिकेताग्निचयनप्रसङ्ग एव तत्प्रसङ्गानुसारेण प्रायशोऽभिहितो न त्वियं परब्रह्मविद्याऽतः पुनस्तां विचिख्यासुः कठ आह—
 

@@ -12,9 +12,15 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5
 
 \[
 
+
+
 बृहज्जाबालोपनिषत् ।
 
+
+
 अथ प्रथमं ब्राह्मणम् ।
+
+
 
 यज्ज्ञानाग्निः स्वातिरिक्तभ्रमं भस्म करोति तत् ।
 
@@ -122,7 +128,13 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDY1MjAyNTg5
 
 --------- ---------
 
+
+
+
+
 अथ द्वितीयं ब्राह्मणम् ।
+
+
 
 अथ भुसुण्डः
 

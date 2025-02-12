@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTU
 
 \[
 
+
+
+
+
+
+
 जाबालोपनिषत् ।
+
+
 
 जाबालोपनिषत्ख्यातं संन्यासज्ञानगोचरम् ।
 
@@ -46,6 +54,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTU
 
 विमुञ्चेदेवमेवैतद्याज्ञवल्क्यः ॥ १॥
 
+
+
 अथ हैनमत्रिः पप्रच्च्ह याज्ञवल्क्यं य एषोऽनन्तोऽव्यक्त
 
 आत्मा तं कथमहं विजानीयामिति ॥
@@ -72,6 +82,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTU
 
 । सोऽविमुक्तं ज्ञानमाचष्टे । यो वैतदेवं वेदेति ॥ २॥
 
+
+
 अथ हैनं ब्रह्मचारिण ऊचुः किं जप्येनामृतत्वं ब्रूहीति ॥
 
 स होवाच याज्ञवल्क्यः । शतरुद्रियेणेत्येतान्येव ह वा
@@ -79,6 +91,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTU
 अमृतस्य नामानि ॥
 
 एतैर्ह वा अमृतो भवतीति एवमेवैतद्याज्ञवल्क्यः ॥ ३॥
+
+
 
 अथ हैनं जनको वैदेहो याज्ञवल्क्यमुपसमेत्योवाच
 
@@ -130,6 +144,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTU
 
 याज्ञवल्क्यः ॥ ४॥
 
+
+
 अथ हैनमत्रिः पप्रच्च्ह याज्ञवल्क्यं पृच्च्हामि त्वा
 
 याज्ञवल्क्य अयज्ञोपवीति कथं ब्राह्मण इति । स होवाच
@@ -148,11 +164,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTU
 
 संन्यासी ब्रह्मविदित्येवमेवैष भगवन्याज्ञवल्क्य ॥ ५॥
 
+
+
 तत्र
 
 परमहंसानामसंवर्तकारुणिश्वेतकेतुदुर्वासऋभुनिदाघजड
 
 भरतदत्तात्रेयरैवतक
+
 
 -  
 
@@ -180,6 +199,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTU
 
 शुक्लध्यानपरायणोऽध्यात्मनिष्ठोऽशुभकर्म
 
+
 -  
 
 निर्मूलनपरः संन्यासेन देहत्यागं करोति स परमहंसो
@@ -191,5 +211,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI0MzkyNjA5MTU
 इत्यथर्ववेदीया जाबालोपनिषत्समाप्ता ॥
 
 ---------------------------
+
+
+
+
+
 
 \]

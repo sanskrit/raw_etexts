@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4ODM4NDA4MzQ
 
 \[
 
+
+
+
+
 परमहंसपरिव्राजक-उपनिषत् ।
+
+
 
 पारिव्राज्यधर्मवन्तो यज्ज्ञानाद्ब्रह्मतां ययुः ।
 
@@ -329,5 +335,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI4ODM4NDA4MzQ
 इति परमहंसपरिव्राजकोपनिषत्समाप्ता ॥
 
 --------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 \]

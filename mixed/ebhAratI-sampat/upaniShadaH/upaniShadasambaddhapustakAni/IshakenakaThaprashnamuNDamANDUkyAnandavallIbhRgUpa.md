@@ -1730,6 +1730,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NzQ2MjQ4NTM
 
  आज्यादिहविः प्रदानप्रवृत्तैर्ऋत्विग्मिः स्तुत्योऽग्निः। अग्रनेताऽरण्यो-
 
+     
+
 एतद्वै ततु॥८॥
 
  एतदग्निस्वरूपं तत्पूर्वोक्तब्रह्मात्मकमित्यर्थः।
@@ -1894,6 +1896,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NzQ2MjQ4NTM
  गुह्यमतिरहस्यं सनातनं ब्रह्म ते पुनरपि प्रवक्ष्यामि। हन्तेति स्वगतमाश्चर्ये।
 
 **यथा च मरणं प्राप्य आत्मा भवति गौतम॥६॥**
+
+ 
 
 हे गौतम, आत्मा मरणं मोक्षं प्राप्य यथा यत्प्रकारविशिष्टो भवति तथा पुनरपि मुमुक्षवे रागाद्यनुपहतायोपदेशयोग्याय तुभ्यं वक्ष्यामीत्यर्थः॥६॥
 
@@ -3196,7 +3200,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NzQ2MjQ4NTM
 
 रङ्गरामानुजविरचितप्रकाशिकासमेता।
 
-![](../books_images/U-IMG-1734568212Screenshot2024-12-19055742.png)
+<MISSING_FIG href="../books_images/U-IMG-1734568212Screenshot2024-12-19055742.png"/>
 
 अतसीगुच्छसच्छायमञ्चितोरःस्थलं श्रिया।  
 अञ्जनाचलशृङ्गाभमञ्जलिर्मम गाहताम्॥१॥
@@ -4207,7 +4211,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NzQ2MjQ4NTM
 
 **माण्डूक्योपनिषत्।**
 
-![](../books_images/U-IMG-1734196180Screenshot2024-12-14223146.png)
+<MISSING_FIG href="../books_images/U-IMG-1734196180Screenshot2024-12-14223146.png"/>
 
  मुमुक्षोरधिकारिणो निखिलक्लेशनिवृत्तिपूर्वकं परमानन्दावाप्तये समस्तव्यस्तप्रणवप्रतिपाद्य- भगवदुपासनांवक्तुं प्रवृत्तेयमुपनिषत्। आदौ समस्तप्रणवप्रतिपाद्यं तावदाह।
 
@@ -4671,6 +4675,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NzQ2MjQ4NTM
  प्र
 
 जाः प्रजायन्ते याः काश्च पृथिवीꣳ श्रिताः।
+
+  
 
 अथो अन्नेनैव जीवन्ति अथैतदपियन्त्यन्ततः।
 
@@ -5370,4 +5376,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc0NzQ2MjQ4NTM
 ***\_\_\_\_\_\_\_\_\_\_\_***
 
 \]
-

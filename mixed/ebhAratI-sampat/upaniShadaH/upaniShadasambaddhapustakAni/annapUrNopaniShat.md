@@ -11,7 +11,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI5NTM1NjIw
 
 \[
 
+
+
 अन्नपूर्णोपनिषत् ।
+
+
 
 सर्वापह्नवसंसिद्धब्रह्ममात्रतयोज्ज्वलम् ।
 
@@ -527,7 +531,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI5NTM1NjIw
 
 ---------- ---------- --------
 
+
+
 **अथ द्वितीयोऽध्यायः।**
+
+
 
 निदाघ उवाच ॥
 
@@ -899,9 +907,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI5NTM1NjIw
 
 --------- --------- ---------
 
+
+
+
+
+
+
 अथ
 
 तृतीयोऽध्यायः।
+
+
 
 विदेहमुक्तेः किं रूपं तद्वान्को वा महामुनिः ।
 
@@ -1109,7 +1125,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI5NTM1NjIw
 
 ---------- ------------
 
+
+
 **अथ चतुर्थोऽध्यायः।**
+
+
 
 जीवन्मुक्तस्य किं लक्ष्म ह्याकाशगमनादिकम् ।
 
@@ -1869,7 +1889,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI5NTM1NjIw
 
 ---------- ----------------
 
+
+
 **अथ पञ्चमोऽध्यायः।**
+
+
 
 गच्छतस्तिष्ठतो वापि जाग्रतः स्वपतोऽपि वा ।
 
@@ -2862,5 +2886,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjI5NTM1NjIw
 इत्यन्नपूर्णोपनिषत्समाप्ता ॥
 
 -------------- --------------
+
+
 
 \]

@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAyOTY4MzQ5MTk
 
 \[
 
+
+
+
+
 एकाक्षरोपनिषत् ।
+
+
 
 एकाक्षरपदारूढं सर्वात्मकमखण्डितम् ।
 
@@ -147,5 +153,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAyOTY4MzQ5MTk
 इत्येकाक्शरोपनिषत्समाप्ता ॥
 
 -------------------------
+
+
+
 
 \]

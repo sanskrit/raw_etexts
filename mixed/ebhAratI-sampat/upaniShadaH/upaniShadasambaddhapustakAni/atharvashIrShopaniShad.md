@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3MDIwOTEwMjc
 
 \[
 
+
+
+
+
 अथर्वशिखोपनिषत् ।
+
+
 
 ओङ्कारार्थतया भातं तुर्योङ्काराग्रभासुरम् ।
 
@@ -101,5 +107,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY3MDIwOTEwMjc
 ॥ इति अथर्ववेदीय अथर्वशिखोपनिषत्समाप्ता ॥
 
 -------------- ----------- ------------ ------------
+
+
+
+
+
 
 \]

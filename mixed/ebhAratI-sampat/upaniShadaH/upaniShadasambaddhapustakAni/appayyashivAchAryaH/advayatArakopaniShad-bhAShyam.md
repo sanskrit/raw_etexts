@@ -13,6 +13,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 \[
 
+
+
+
+
+
+
+
+
+
+
 **॥ श्रीः ॥**
 
  अद्वयतारकोपनिषद्भाष्यम्
@@ -21,17 +31,29 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
  श्रीमदप्पयशिवाचार्यविरचितभाष्योपेतम् ।
 
+
+
+
+
    
 
 ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।
 
  पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
 
+
+
 ॐ शान्तिः शान्तिः शान्तिः ।
+
+
 
  व्याख्येयो विषयः तदधिकारी च
 
+ 
+
 | तारकयोगाधिकारः |
+
+
 
 अथातोऽद्वयतारकोपनिषदं व्याख्यास्यामः ।
 
@@ -40,6 +62,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 1
 
 ॥
+
+
 
 भाष्यम्।
 
@@ -113,7 +137,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
  योगोपाय तत्फलम्
+
+ 
 
 | योगानुष्ठानं तत्फलं च |
 
@@ -128,6 +156,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 2
 
 ॥
+
+
 
 भाष्यम्।
 
@@ -147,6 +177,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
  अद्वयतारकपदार्थौ
 
 गर्भजन्मजरामरणभयात्संतारयति तस्मात्तारकमिति ।
@@ -160,6 +192,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 3
 
 ॥
+
+
 
 भाष्यम्।
 
@@ -193,7 +227,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
  लक्ष्यत्रयानुसन्धानविधिः
+
+ 
 
 । तदधिगमोपायः
 
@@ -203,6 +241,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
 भाष्यम्।
 
 तदधिगमोपायः कथमित्यत आह तत्सिद्ध्या इति ॥
@@ -210,6 +250,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 4
 
 ॥
+
+
 
 भाष्यम्।
 
@@ -281,6 +323,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
  अन्तर्लक्ष्यलक्षणम्
 
 देहमध्ये ब्रह्मनाडी सुषुम्ना सूर्यरूपिणी पूर्णचन्द्राभा
@@ -312,6 +356,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 5
 
 ॥
+
+
 
 भाष्यम्।
 
@@ -357,6 +403,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
  बहिर्लक्ष्यलक्षणम्
 
 अथ बहिर्लक्ष्यलक्षणं । नासिकाग्रे चतुर्भिः
@@ -395,6 +443,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
 भाष्यम्।
 
 बहिर्लक्ष्यलक्षणमाह
@@ -414,6 +464,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 6
 
 ॥
+
+
 
  मध्यलक्ष्यलक्षणम्
 
@@ -445,6 +497,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
 भाष्यम्।
 
 अन्तर्बाह्यलक्ष्यस्वरूपमुक्त्वा मध्यलक्ष्यस्वरूपमाह
@@ -458,6 +512,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 7
 
 ॥
+
+
 
 भाष्यम्ई।
 
@@ -529,6 +585,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
  द्विविधं तारकम्
 
 तत्तारकं द्विविधं पूर्वार्धं तारकमुत्तरार्धममनस्कं
@@ -544,6 +602,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 8
 
 ॥
+
+
 
  तारकयोगसिद्धिः
 
@@ -572,6 +632,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 9
 
 ॥
+
+
 
 भाष्यम्।
 
@@ -615,6 +677,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
 भाष्यम्ई।
 
 ननु निर्गुणाकाशं परमाकाशं महाकाशं तत्त्वाकाशं
@@ -642,6 +706,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 9
 
 ॥
+
+
 
  मूर्तामूर्तभेदेन द्विविधमनुसन्धेयम्
 
@@ -676,6 +742,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 10
 
 ॥
+
+
 
 भाष्यम्।
 
@@ -717,6 +785,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
 भाष्यम्ई।
 
 मूर्तितारकामूर्तितारकयोश्च
@@ -734,6 +804,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 10
 
 ॥
+
+
 
  तारकयोगस्वरूपं
 
@@ -759,6 +831,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
 भाष्यम्।
 
 कोऽयं तारकयोग इत्यत्र भ्रूयुगमध्यबिले तत्रत्याज्ञाचक्रे
@@ -774,6 +848,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 11
 
 ॥
+
+
 
 भाष्यम्ई।
 
@@ -845,6 +921,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
  शाम्भवीमुद्रा
 
 अन्तर्बाह्यलक्ष्ये दृष्टौ निमेषोन्मेषवर्जितायां सत्यं
@@ -858,6 +936,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 12
 
 ॥
+
+
 
 भाष्यम्।
 
@@ -893,6 +973,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
  अन्तर्लक्ष्यविकल्पाः
 
 अन्तर्लक्ष्यज्वलज्ज्योतिःस्वरूपं भवति । परमगुरूपदेशेन
@@ -908,6 +990,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 13
 
 ॥
+
+
 
 भाष्यम्।
 
@@ -926,6 +1010,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 13
 
 ॥
+
+
 
  आचार्यलक्षणम्
 
@@ -969,6 +1055,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
 भाष्यम्।
 
 आचार्यलक्षणमुक्त्वा गुरुशब्दार्थमाह
@@ -980,6 +1068,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 14 - 18
 
 ॥
+
+
 
 भाष्यम्ई।
 
@@ -1047,6 +1137,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 ॥
 
+
+
  ग्रन्थाभ्यासफलम्
 
 यः सकृदुच्चारयति तस्य संसारमोचनं भवति ।
@@ -1060,6 +1152,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 19
 
 ॥
+
+
 
 भाष्यम्।
 
@@ -1085,9 +1179,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 
 अद्वयोपनिषद्व्याख्याग्रन्थोऽशीतिरितीरितः ॥
 
+
+
 ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।
 
  पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥
+
+
 
 ॐ शान्तिः शान्तिः शान्तिः ।
 
@@ -1102,5 +1200,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU5MjMyNDIxNDg
 ॐ श्रीमद्विश्वाधिष्ठनपरमहंससद्गुरुरामचन्द्रार्पणमस्तु ॥
 
   -----------------------------------------
+
+
+
+
+
 
 \]

@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4NTM1MjA5NzQ
 
 \[
 
+
+
 जाबाल्युपनिषत्
+
+
+
+
+
+
 
 जाबाल्युपनिषद्वेद्यपदतत्त्वस्वरूपकम् ।
 
@@ -29,6 +37,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4NTM1MjA5NzQ
 तदात्मनि निरते य उपनिषत्सु धर्मास्ते मयि सन्तु ते मयि सन्तु ॥
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
+
+
 
 हरिः ॐ ॥
 
@@ -123,5 +133,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ4NTM1MjA5NzQ
 ॐ शान्तिः शान्तिः शान्तिः ॥ हरिः ॐ तत्सत् ॥
 
 इति श्रीजाबाल्युपनिषत्समाप्ता ॥
+
+
+
 
 \]

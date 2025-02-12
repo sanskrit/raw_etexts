@@ -12,7 +12,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYyNzg2OTI3MzY
 
 \[
 
+
+
+
+
+
+
 अथर्वशिर-उपनिषद्‌
+
+
 
 ॐ देवा ह वै स्वर्गलोकं आयंस्ते रुद्रं अपृच्छन्को भवानिति ।
 
@@ -221,5 +229,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYyNzg2OTI3MzY
 तृतीयं जप्त्वैवं एवानुप्रविशत्यों सत्यं ॐ सत्यं ॐ सत्यं ।
 
 इत्यथर्ववेदे शिरौपनिषत्समाप्ता । । ४५
+
+
+
+
+
 
 \]

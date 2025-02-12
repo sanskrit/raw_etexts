@@ -12,7 +12,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzMTgwOTQwNDA
 
 \[
 
+
+
+
+
 **॥ अथ माण्डुक्योपनिषत् ॥**
+
+
 
 ॐ इत्येतदक्षरमिदम् सर्वं तस्योपव्याख्यानं
 
@@ -86,5 +92,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzMTgwOTQwNDA
 
    ----------- ------------ ------------- --------- -------------
 ------------
+
+
+
+
+
+
+
+
+
 
 \]
