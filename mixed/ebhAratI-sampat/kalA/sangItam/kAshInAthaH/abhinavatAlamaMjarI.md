@@ -16,6 +16,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxOTI5NzU4NDM
 
 \[
 
+
+
 **॥ श्रीराम ॥**
 
 **श्रीमत्**
@@ -50,6 +52,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYxOTI5NzU4NDM
 
 (अस्य सर्वेऽधिकाराः स्वायत्तीकृताः)
 
+
+
+
+
 Printed by R.Y. Shedge, at the Nirnaya-Sagar Press,
 
   23, Kolbhat Lane, Bombay.
@@ -59,6 +65,10 @@ Printed by R.Y. Shedge, at the Nirnaya-Sagar Press,
 Published by Vishnu Narayan Bhatkhande.  
 
    Walkeshwar,-Bombay.
+
+
+
+
 
 **॥ श्रीराम ॥**
 
@@ -109,6 +119,8 @@ Published by Vishnu Narayan Bhatkhande.
 त्रितालो विष्णुतालश्च पुराणः शेष एव च।
 
 विजयश्च गणेशश्च श्रुतिर्वै मागधस्तथा ॥३ ॥
+
+
 
 ब्रह्मतालश्चेति ताला देशीयाः पंचविंशतिः।
 
@@ -425,7 +437,13 @@ Published by Vishnu Narayan Bhatkhande.
 |  २४ मागधतालः   |                   | ऽ |òoo                   |   २३    |   ६   |
 | २५ ब्रह्मतालः  |               |o |oo |o oo |               |   २८    |  १०   |
 
+  
+
                    
+
+                 
+
+
 
 ॥ श्रीराम ॥
 
@@ -497,6 +515,8 @@ Published by Vishnu Narayan Bhatkhande.
 
 ॥ इति कालः ॥
 
+
+
 **अथ मार्गाः**
 
 मार्गाः स्युस्तत्र चत्वारो ध्रुवश्चित्रश्च वार्तिकः।
@@ -520,6 +540,8 @@ Published by Vishnu Narayan Bhatkhande.
 अनुघर्षणकश्चेति स्वरश्च षडिमे पुनः ॥ १९ ॥
 
 ॥ इति मार्गाः ॥
+
+
 
 **अथ क्रिया**
 
@@ -609,7 +631,11 @@ Published by Vishnu Narayan Bhatkhande.
 
 वायसः कुक्कुटश्चैव क्रमादुच्चारयंत्यमून् ॥ ३९ ॥
 
+
+
 ॥ इत्यंगानि ॥
+
+
 
 **अथ ग्रहाः**
 
@@ -637,6 +663,8 @@ Published by Vishnu Narayan Bhatkhande.
 
 ॥ इति ग्रहाः ॥
 
+
+
 **अथ जातयः**
 
 चतुरस्रस्तथा व्यस्रः खंडो मिश्रस्तथैव च।
@@ -658,6 +686,8 @@ Published by Vishnu Narayan Bhatkhande.
 संकीर्णजातिः संकीर्ण इत्येताः पंच जातयः।
 
 ॥ इति जातयः ॥
+
+
 
 **अथ कलाः**
 
@@ -699,6 +729,8 @@ Published by Vishnu Narayan Bhatkhande.
 
 ॥ इति कलाः ॥
 
+
+
 अथ लयाः
 
 क्रियानंतरविश्रांतिर्लयः स त्रिविधो मतः।
@@ -710,6 +742,8 @@ Published by Vishnu Narayan Bhatkhande.
 मार्गभेदाच्चिरक्षिप्रमध्यभावैरनेकधा ॥ ५९ ॥
 
 ॥ इति लयाः ॥
+
+
 
 **अथ यतयः**
 
@@ -745,6 +779,8 @@ Published by Vishnu Narayan Bhatkhande.
 
 ॥ इति यतयः ॥
 
+
+
 अथ प्रस्तारः
 
 न्यस्याल्पमाद्यान्महतोधस्ताच्छेपं यथोपरि।
@@ -767,6 +803,13 @@ Published by Vishnu Narayan Bhatkhande.
 
 प्रीयतां परमोदारः सर्वकामधुगीश्वरः ॥ ७१॥
 
+
+
+
+
 **श्रीसीतारामचंद्रार्पणमस्तु।**
+
+
+
 
 \]

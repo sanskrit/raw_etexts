@@ -17,6 +17,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgxNTg2NzUyNDY
 
 \[
 
+
+
 **P**
 
 **P, P.** (page) **पृ.** (पृष्ठ)  
@@ -1038,6 +1040,8 @@ paraphysis 1.
 
 Bot.
 
+
+
 (a sterile filament)
 
 वन्ध्यसूत्र
@@ -1654,6 +1658,8 @@ Bot.
 
 भित्तिलग्न
 
+
+
 जरायुन्यास  
 parietal pleura प्राचीर-परिक्लोम  
 parietal surface
@@ -1784,6 +1790,8 @@ vb.
 Parkes process
 
 Chem.
+
+
 
 (desilvering lead by the addition of zine to
 
@@ -2982,6 +2990,8 @@ vb.
 pasture farm चारण-प्रक्षेत्र  
 pasture ground गोचर, चारणभूमि, चर-
 
+
+
 **भूमि**
 
 pasture-legumes **गोचर-शमीधान्य**  
@@ -3230,6 +3240,8 @@ Patriofelis
 
 Paleontol.
 
+
+
 (Lat. *patrius* 'belonging to one's father'+*felis* 'cat', hence, ancestral cat.
 
 The teeth were likethose of a cat)
@@ -3352,6 +3364,8 @@ adj.
 
 Bot.
 
+
+
 (slightly spreading)
 
 आस्तारी
@@ -3386,9 +3400,13 @@ paulopost
 
 Petrog.
 
+
+
 (
 
 Latin
+
+
 
 'alittle after')
 
@@ -4817,6 +4835,8 @@ pentaptote
 
 *Gram.*
 
+
+
 (a noun having
 
 five cases) **पञ्चकारक**
@@ -5180,6 +5200,8 @@ Printing
 perfection परिनिष्पत्ति
 
 f\.
+
+
 
 (from वज्रच्छेदिका)  
 
@@ -6287,6 +6309,8 @@ Peronospora
 
 *Bot.*
 
+
+
 (Greek
 
 perone
@@ -6735,6 +6759,8 @@ Astron.
 
 .Phys.
 
+
+
 (variation occasioned by individual
 
 limitation)
@@ -6803,6 +6829,8 @@ personal
 law
 
 **स्वीय विधि**
+
+
 
 (Const.),  
 
@@ -6976,6 +7004,8 @@ person who would have succeeded व्यक्ति जो उत्तरा�
 Persoonia juniperina
 
 Bot.
+
+
 
 (flowers
 
@@ -7232,6 +7262,8 @@ pessulus
 
 Ornithol.
 
+
+
 (a bony bar crossing the lower end of the windpipe)
 
 श्वासदण्ड
@@ -7251,6 +7283,8 @@ m.,
 विनाशकारी
 
 (-इन्),
+
+
 
 3.मारक
 
@@ -7314,6 +7348,8 @@ m.
 petaloid
 
 adj. Bot.
+
+
 
 (like a petal)
 
@@ -7600,6 +7636,8 @@ phagedena
 
 Med.
 
+
+
 (gangrenous ulcer)
 
 कोथव्रण
@@ -7649,7 +7687,11 @@ Phajus
 
 Bot.
 
+
+
 (Greek
+
+
 
 phaios
 
@@ -7686,6 +7728,8 @@ phalangal = phalangeal
 adj.
 
 Anat.
+
+
 
 अंगुलिपर्वीय, अंगुलिपर्व-  
 phalange = phalanx
@@ -7876,6 +7920,8 @@ phanerophyte
 *Plant*
 
 Ecol.
+
+
 
 (a plant with the perennating buds placed well above the soil—Bor)
 
@@ -8228,6 +8274,8 @@ Phascolosoma gouldi सामान्य धानीकाय
 Phascolotherium
 
 *Paleontol.*
+
+
 
 (Greek *phaskolos* ‘pouch' धानी)
 
@@ -8613,6 +8661,8 @@ m.
 Phenacodus
 
 Paleontol.
+
+
 
 (a genus of condylarthrous generalized ungulates of the Eocene of
 
@@ -9855,12 +9905,16 @@ Phyllitis scolopendrium
 
 (hart'stongue)
 
+
+
 (has simple lanceolate प्रासवत् fronds)
 
 सामान्य प्रासपर्ण  
 Phyllium
 
 Zool.
+
+
 
 (Gk.
 
@@ -11981,6 +12035,8 @@ pitch pine 1.निराल-सरल
 
 m\.
 
+
+
 Dist.
 
 spruce प्रसरल, 2.
@@ -12051,6 +12107,8 @@ Pithecia
 Zool.
 
 (genus of sakis)
+
+
 
 शाखि-प्रजाति  
 Pitheciiuae
@@ -12948,6 +13006,8 @@ plant
 
 *f.*
 
+
+
 (Const.),
 
 पादप
@@ -12975,6 +13035,8 @@ term)
 संयन्त्र, स्थिरसंयन्त्र
 
 n\.
+
+
 
 (fixed machinery)
 
@@ -13714,6 +13776,8 @@ platinoid** *adj.* (resembling platinum)**महात्वाभ
 platinous** *adj. Chem.***मह्य  
 platinum** *adj. Chem.* (portaining to or made of platinum; of the colour platinum) **महात्विय,**
 
+
+
 **महातु-मय, महातु-वर्ण**
 
 **platinum** *n. Chem.* **महातु***m.*  
@@ -14156,6 +14220,8 @@ Pleistocene
 . प्रातिनूतन-युग
 
 n\.
+
+
 
 (*see* Eocene)  
 
@@ -15431,6 +15497,8 @@ f\.
 Punctuation
 
 **चिह्न**
+
+
 
 n\.
 
@@ -16985,6 +17053,8 @@ Statistics
 
 संगृहीत
 
+
+
 **आग**
 
 णन  
@@ -17130,6 +17200,7 @@ poplin
 
 f\.
 
+  
 popliteal
 
 adj. Anat.
@@ -18329,6 +18400,8 @@ positron
 उदणु
 
 *m.*
+
+
 
 (short for उदद्युदणु)  
 
@@ -19942,6 +20015,8 @@ praseodymia
 
 *Chem.*
 
+
+
 (praseodymium oxide)
 
 श्यामजा
@@ -19963,6 +20038,8 @@ praseodymium
 शादि
 
 *f.*
+
+
 
 (in bili prasin)  
 
@@ -20037,6 +20114,8 @@ preamble प्रस्तावना
 
 *f.*
 
+
+
 (Const.)  
 
 preanal plate
@@ -20077,7 +20156,11 @@ preaxial
 
 *adj.*
 
+
+
 *Anat.*
+
+
 
 (in front of the axis of the body)
 
@@ -20138,6 +20221,8 @@ precast seat पूर्वनिर्मित शौचपीठ
 precatory
 
 *adj.*
+
+
 
 (of, pertaining to, of the nature of, entreaty; supplicatory)
 
@@ -20215,6 +20300,8 @@ subsequent act...)
 2.पूर्वगुण
 
 *m.*
+
+
 
 (*for explanation see* essential precedent)
 
@@ -20304,7 +20391,11 @@ prechordal
 
 *adj.*
 
+
+
 *Embryol.*
+
+
 
 (anterior to the notochord)
 
@@ -21108,6 +21199,8 @@ preferred orientation
 
 *Metal.*
 
+
+
 (when a sufficient amount of deformation has been performed,
 
 the random orientation of the original crystals is converted into an arrangement in which a certain direction in all the crystals is parallel to the direction of deformation—Chambers. *Also see* Rolfe p.165)
@@ -21173,6 +21266,8 @@ preganglionic
 
 *adj.*
 
+
+
 Anat.
 
 प्रगण्डपूर्व  
@@ -21213,6 +21308,8 @@ prehallux
 
 *Zool.*
 
+
+
 (rudiment of toe on the preaxial side of the hallux)
 
 उपांगुष्ठ
@@ -21228,11 +21325,15 @@ preheating
 
 *n.*
 
+
+
 (Rolfe p.165)  
 
 prehensile
 
 *adj.*
+
+
 
 Zool.
 
@@ -21262,6 +21363,8 @@ Preisz-Nocard bacillus = Corynebacterium pseudotuberculosis
 pre-judge
 
 *vb.*
+
+
 
 Law
 
@@ -21303,6 +21406,8 @@ prelate
 
 low नि brilliance)
 
+
+
 न्युन्नीलारक्त
 
 prelector
@@ -21313,6 +21418,7 @@ prelector
 
 *m.*
 
+  
 preliminaries प्रारम्भिक सज्जा, प्रारम्भिकताएं  
 preliminary
 
@@ -22013,6 +22119,8 @@ value placed upon a thing by its owner because of some
 
 sentimental association)
 
+
+
 भावना-मूल्य
 
 *n.*
@@ -22328,6 +22436,8 @@ primarycanal cell** *Bot.***आद्य कुल्या-कोशा
 primary capital** *Econ.* **प्रधान पुञ्जी  
 Frimary cell** *Educ.* (it cannot be recharged by passing an electriccurrent) **आद्यकोशा,**
 
+
+
 **अपुनःप्रभार्य**
 
 **कोशा**
@@ -22514,6 +22624,8 @@ m\.
 m\.
 
 **,**
+
+
 
 4.सम्राट्
 
@@ -23280,6 +23392,8 @@ privative term
 
 Logic.
 
+
+
 (indicating absence of a quality)
 
 बैकल्यवाची पद
@@ -23434,6 +23548,8 @@ to be privy to से संसर्ग होना, का साथीहो
 privy council अन्तः परिषद्
 
 *f.*
+
+
 
 (Const.)  
 
@@ -24076,6 +24192,8 @@ professionवृत्ति
 
 f\.
 
+
+
 (Const.)
 
 , व्यवसाय
@@ -24380,6 +24498,7 @@ progesterone
 
 f\.
 
+  
 progestin
 
 (pro प्र+gestation+-in)
@@ -24627,6 +24746,8 @@ prohibition 1.
 
 m\.
 
+
+
 (Const.)**,**
 
 2\.
@@ -24640,6 +24761,8 @@ some action)
 f\.
 
 **,**
+
+
 
 3\.
 
@@ -24690,6 +24813,8 @@ project 1.परियोजना
 
 *f.*
 
+
+
 (when it is to be distinguished from scheme योजना)**,**
 
 2\.
@@ -24718,7 +24843,11 @@ projected
 
 *adj.*
 
+
+
 Phys.
+
+
 
 (stone or shot)
 
@@ -24737,6 +24866,8 @@ projectile
 n\.
 
 ,
+
+
 
 2\.
 
@@ -24772,6 +24903,8 @@ projectile force
 projecting
 
 adj.
+
+
 
 *Phys.*
 
@@ -24820,6 +24953,8 @@ m.**,**
 n\.
 
 **,**
+
+
 
 5.निगत भाग
 
@@ -24893,6 +25028,8 @@ prolapse of rectum गुद-भ्रंश
 prolate
 
 *adj.*
+
+
 
 *Math.*
 
@@ -25054,6 +25191,8 @@ postnotum पृष्ठकपश्च
 pronounce
 
 *vb.*
+
+
 
 **1.**
 
@@ -25284,6 +25423,8 @@ propagated
 
 *adj.*
 
+
+
 *Zool*. **प्रजनित**  
 
 propagation 1.प्रचार
@@ -25291,6 +25432,8 @@ propagation 1.प्रचार
 m\.
 
 ,
+
+
 
 2\.
 
@@ -25438,6 +25581,8 @@ propene
 propenoic
 
 *adj.*
+
+
 
 (*propen*yl+.*oic*)
 
@@ -25734,6 +25879,8 @@ proposed
 
 adj.
 
+
+
 *Com.*
 
 प्रस्तुत
@@ -25916,11 +26063,15 @@ propriety औचित्य
 
 *n.*
 
+
+
 (Const.)  
 
 proprioceptor
 
 *Physiol.*
+
+
 
 (an internal receptor)
 
@@ -25979,6 +26130,8 @@ Chem.
 प्रमेल
 
 n\.
+
+
 
 (प्रमेद + -ल)
 
@@ -26240,6 +26393,8 @@ proteic
 
 *adj.*
 
+
+
 *Chem.*
 
 प्रोभूजिक  
@@ -26273,6 +26428,8 @@ protein
 प्रोभूजिन
 
 *m.*
+
+
 
 (all proteins contain carbon प्र, hydrogen उ, nitrogenभूand oxygen
 
@@ -26354,6 +26511,8 @@ Proteolepas
 
 Zool.
 
+
+
 (has a maggot-like body— Lankester VII. 128)
 
 पोतकाभ-प्रजाति  
@@ -26368,6 +26527,8 @@ n.
 proteolytic
 
 *adj.*
+
+
 
 Biochem.
 
@@ -26396,6 +26557,8 @@ Proteroglypha
 
 *Zool.*
 
+
+
 (teeth grooved)
 
 प्रसीतिनः
@@ -26410,6 +26573,8 @@ Proterospongia
 Proterotheriidae
 
 *Paleontol.*
+
+
 
 (extinct “pseudo-horses"— Lull p.296)
 
@@ -26458,6 +26623,8 @@ protesting a bill
 Proteus
 
 *Zool.*
+
+
 
 (a genus of aquatic, eelshaped amphibians, inhabiting the waters of certain dark
 
@@ -26609,6 +26776,8 @@ Protista
 
 *Biol.*
 
+
+
 (the unicellular organisms collectively, including both the Protozoa and
 
 unicellular plants)
@@ -26729,6 +26898,8 @@ protochordal plate
 
 *Zool.*
 
+
+
 (in this the notochord originates—PH. II.419)
 
 पूर्वपृष्ठमेरु-पट्ट  
@@ -26743,6 +26914,8 @@ protocol 1.
 n\.
 
 **,**
+
+
 
 मूल प्रति, 2.
 
@@ -30086,6 +30259,8 @@ racoon
 
 *Zool.*
 
+
+
 (related to the bear) **भल्लक** *m.* (भल्लक 'bear from पञ्चरात्र)  
 
 radar
@@ -30105,6 +30280,8 @@ search),
 सर्वदर्शित्र
 
 *n.*
+
+
 
 (सर्व दर्शयति 'the all seeing)
 
@@ -30175,6 +30352,8 @@ radial
 
 *adj.*
 
+
+
 *Math*
 
 .,
@@ -30224,6 +30403,8 @@ radiale
 (aradial plate of
 
 acrinoid)
+
+
 
 अरीय-पट्ट
 
@@ -31830,12 +32011,16 @@ realizable
 
 adj.
 
+
+
 Com.
 
 रोककरणीय, प्राप्य  
 realization 1.
 
 *Com.*
+
+
 
 (to convert into money)
 
@@ -31845,11 +32030,15 @@ n\.
 
 **,**
 
+
+
 प्राप्ति
 
 f\.
 
 **,**
+
+
 
 2.कार्यान्विति
 
@@ -31875,6 +32064,8 @@ realize
 रोककरण, 3.प्राप्त
 
 करना,
+
+
 
 4.कार्यान्वित करना
 
@@ -32009,6 +32200,8 @@ ream
 reamer
 
 Mach.
+
+
 
 (finishing परिरूपण tools for enlarging or shaping a hole— *Web.*
 
@@ -32150,6 +32343,8 @@ re-arrest
 
 *vb.*
 
+
+
 *Law*
 
 पुनःप्रग्रहण, फिर से पकड़ना  
@@ -32161,6 +32356,8 @@ reason 1.
 हेतु
 
 m\.
+
+
 
 *Dist.*
 
@@ -33775,6 +33972,8 @@ m\.
 
 **,**
 
+
+
 3\.
 
 (of a university)
@@ -33993,6 +34192,8 @@ n\.
 
 **,**
 
+
+
 2\.
 
 (the state or fact of being registered)
@@ -34016,6 +34217,8 @@ n\.
 m\.
 
 **,**
+
+
 
 4\.
 
@@ -34575,6 +34778,8 @@ remain
 
 *vb.*
 
+
+
 1\.
 
 (to be left after others have been removed)
@@ -34819,6 +35024,8 @@ of remiges
 remiges
 
 *Zool.*
+
+
 
 (the quill feathers)
 
@@ -35161,6 +35368,8 @@ f\.
 
 **,**
 
+
+
 अनङ्गीकार, अस्वीकार
 
 m.  
@@ -35249,6 +35458,8 @@ m\.
 
 **,**
 
+
+
 2\.
 
 (rent roll)
@@ -35292,6 +35503,8 @@ rentes 1.
 f\.
 
 **,**
+
+
 
 2 = consols संवार्षिकी
 
@@ -35379,6 +35592,8 @@ m\.
 
 **,**
 
+
+
 3.सन्यास
 
 m.  
@@ -35407,6 +35622,8 @@ repack
 vb.
 
 पुनःसंवेष्टन
+
+
 
 repacking पुनःसंवेष्टन
 
@@ -36231,6 +36448,8 @@ n.**,**
 
 *Phys.*
 
+
+
 (of forces or velocities)
 
 विघटन
@@ -36264,6 +36483,8 @@ n.
 resolvable
 
 *adj.*
+
+
 
 *Math.*
 
@@ -36310,6 +36531,8 @@ resolving power 1.
 f\.
 
 **,**
+
+
 
 3\.
 
@@ -36416,6 +36639,8 @@ resorcinol
 resorcylic
 
 *adj.*
+
+
 
 (*resorcinol* शेयास + -*yl* + *-ic*)
 
@@ -39053,7 +39278,11 @@ rostratus
 
 Bot.
 
+
+
 Tax.
+
+
 
 (beak-shaped) **चञ्चु**
 
@@ -39067,6 +39296,8 @@ rostrum 1.
 m\.
 
 **,**
+
+
 
 2\.
 
@@ -39205,6 +39436,8 @@ vb
 rotate
 
 *adj.*
+
+
 
 *Bot.*
 
@@ -39375,6 +39608,8 @@ rotenone
 
 f\.
 
+
+
 (*Derris* पर्णलता + य् glide + *-one* आ)
 
 Rothera's sodium nitroprusside test क्षारातु-भूयोदश्यामेय-परीक्षा  
@@ -39443,6 +39678,8 @@ Rottlera tinctoria = Mallotus philippinensis
 rotula
 
 *Zool.*
+
+
 
 (Lat. *rotula* 'small wheel'. One of five radially directed bars bounding circular
 
@@ -40245,5 +40482,8 @@ ryuka yellow = sulphur orang
 
 eG  
 R. Z. (rice zone) **त. क्षे.** (तण्डुल.क्षेत्र)
+
+
+
 
 \]

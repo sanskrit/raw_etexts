@@ -3624,7 +3624,7 @@ media lecithal** *Zool.***मध्यपीती** (-इन्) *m.*
 medial moraine** *Geog.* **मध्य-हिमोढ  
 medial section** *Math.* **मध्यकी छेद** (मध्यकिन् 'having मध्यक mean')
 
-![](../../../../../books_images/U-IMG-1691657688rvphoto.jpg)  
+<MISSING_FIG href="../../../../../books_images/U-IMG-1691657688rvphoto.jpg"/>  
 
 **is divided in medial at M, if AM is the geometric mean between AB and BM.  
 extreme and mean ratio** *Math.***अन्त-मध्यक-अनुपात**

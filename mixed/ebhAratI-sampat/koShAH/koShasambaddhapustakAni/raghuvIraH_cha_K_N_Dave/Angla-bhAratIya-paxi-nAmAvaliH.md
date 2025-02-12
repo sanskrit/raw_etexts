@@ -641,7 +641,7 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-![](../books_images/1672744723.jpg)
+<MISSING_FIG href="../books_images/1672744723.jpg"/>
 
 **दीर्घ-चञ्चु सुस्वर**  
 
@@ -856,7 +856,7 @@ The Titmouses **वल्गुली**
 
 [TABLE]
 
-![](../books_images/1672744844.jpg)
+<MISSING_FIG href="../books_images/1672744844.jpg"/>
 
 **पृथु-चञ्चु खर्जुर-प्रिय**  
 
@@ -1032,7 +1032,7 @@ CERTHIA (genus) **वृक्षसर्पि-प्रजाति**
 
 [TABLE]
 
-![](../books_images/1672744930.jpg)
+<MISSING_FIG href="../books_images/1672744930.jpg"/>
 
 **तीक्ष्ण-तुण्ड भित्तिसर्पी**
 
@@ -1052,7 +1052,7 @@ PNOEPYGA(genus) **क्षुद्रपुच्छ-प्रजाति**
 
 [TABLE]
 
-![](../books_images/1672830632.jpg)
+<MISSING_FIG href="../books_images/1672830632.jpg"/>
 
 **सिक्किम स्फान-चञ्चु**
 
@@ -1141,7 +1141,7 @@ SPHENOCICHLA (genus) **स्फान-चञ्चु-प्रजाति**
 
 [TABLE]
 
-![](../books_images/1672745060.jpg)
+<MISSING_FIG href="../books_images/1672745060.jpg"/>
 
 **धवल-मस्तक** मरु-प्रिय
 
@@ -1413,7 +1413,7 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-![](../books_images/1672745134.jpg)
+<MISSING_FIG href="../books_images/1672745134.jpg"/>
 
 **पूर्व चपल पत्र-चूड**
 
@@ -1467,7 +1467,7 @@ TURDUS (genus)**तर्दाश-प्रजाति**
 
 [TABLE]
 
-![](../books_images/1672745189.jpg)
+<MISSING_FIG href="../books_images/1672745189.jpg"/>
 
 **सामान्य कृष्णद्वीप केश-राज**
 
@@ -1704,7 +1704,7 @@ graminis **घास** + cola **वासि**)
 
 (uses its bill like a needle **सूची** in the construction of its nest)
 
-![](../books_images/1672745407.jpg)
+<MISSING_FIG href="../books_images/1672745407.jpg"/>
 
 **सामान्य द्विशूक** **सौचिक**
 
@@ -1756,7 +1756,7 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-![](../books_images/1672745242.jpg)
+<MISSING_FIG href="../books_images/1672745242.jpg"/>
 
 दक्षिण **रोपणाका**
 
@@ -1894,7 +1894,7 @@ graminis **घास** + cola **वासि**)
 
 [TABLE]
 
-![](../books_images/1672745463.jpg)
+<MISSING_FIG href="../books_images/1672745463.jpg"/>
 
 **गोल-पुच्छ** आहरिता
 
@@ -1934,7 +1934,7 @@ graminis **घास** + cola **वासि**)
 |------|-------------------------|-----------------------|-----------------|
 | 1042 | Mycerobas melanoranthos | **शबल-पक्ष महा-चंचु** | **शबल** spotted |
 
-![](../books_images/1672745753.jpg)
+<MISSING_FIG href="../books_images/1672745753.jpg"/>
 
 शबल-पक्ष **महा-चञ्चु**
 
@@ -1993,7 +1993,7 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 |------|---------------------|-----------------------|-----------------------------------------------------|
 | 1074 | Rhodospiza obsoleta | **कृष्ण-पुच्छ पाटला** | Lichtenstein's Desert-Finch **कृष्ण पुच्छ मरु-चटक** |
 
-![](../books_images/1672745855.jpg)
+<MISSING_FIG href="../books_images/1672745855.jpg"/>
 
 **स्थूल-चञ्चु** पूर्वीय सैकत-चटक
 
@@ -2027,7 +2027,7 @@ The Mount Victoria Bullfinch **धूसर सुचटक**
 
 (the bill **चंचु** in this genus is short **लघु**)
 
-![](../books_images/1672746043.jpg)
+<MISSING_FIG href="../books_images/1672746043.jpg"/>
 
 गान्धार श्वेतोदर **लघु-चञ्चु**
 
@@ -2101,7 +2101,7 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-![](../books_images/1672835901.jpg)
+<MISSING_FIG href="../books_images/1672835901.jpg"/>
 
 दीर्घ **काल-चूड**  
 
@@ -2193,7 +2193,7 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-![](../books_images/1672746784.jpg)
+<MISSING_FIG href="../books_images/1672746784.jpg"/>
 
 सित-कण्ठ गान्धार **शृंगिक**
 
@@ -2237,7 +2237,7 @@ FRINGILLAUDA (genus) **गिरिचटक-प्रजाति**
 
 [TABLE]
 
-![](../books_images/1672746849.jpg)
+<MISSING_FIG href="../books_images/1672746849.jpg"/>
 
 सिन्धु रोख-पृष्ठ **कण्ट-चूड**  
 
@@ -2352,7 +2352,7 @@ ARACHNOTHERA (genus)**लूताश**
 
 [TABLE]
 
-![](../books_images/1672746978.jpg)
+<MISSING_FIG href="../books_images/1672746978.jpg"/>
 
 तनु-चञ्चु **शंकु-कर्ण**
 
@@ -2416,7 +2416,7 @@ ARACHNOTHERA (genus)**लूताश**
 
 (the greater part of the bill itself is concealed bythe feathers of the lores which are lengthened and directed forwards)
 
-![](../books_images/1672747088.jpg)
+<MISSING_FIG href="../books_images/1672747088.jpg"/>
 
 हरित **गुप्त-तुण्ड**
 
@@ -2477,7 +2477,7 @@ CALLOLOPHUS (genus) **सुशिख-प्रजाति**
 
 [TABLE]
 
-![](../books_images/1672747166.jpg)
+<MISSING_FIG href="../books_images/1672747166.jpg"/>
 
 सामान्य आरक्तोदर **वि-चूड**
 
@@ -6660,4 +6660,3 @@ Page no. 492 is missing in the pdf.
 | Zosterops (genus)     | 1247 |
 
 \]
-

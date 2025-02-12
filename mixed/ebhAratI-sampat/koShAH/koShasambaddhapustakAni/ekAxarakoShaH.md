@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxODA1NzIyNjU
 
 \[
 
+
+
 अमरकविविरचितः  
 एकाक्षरी-कोषः  
 (धनञ्जयनाममालायामुपनिबद्धः)
@@ -164,5 +166,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxODA1NzIyNjU
 क्षं १९ - क्षेत्रं १९ , रक्षसी १९  
   
 This is prepared an d compiled by Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011  
+
+
 
 \]

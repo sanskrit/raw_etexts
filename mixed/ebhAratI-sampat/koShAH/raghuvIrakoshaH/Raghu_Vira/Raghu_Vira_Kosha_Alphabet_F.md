@@ -17,6 +17,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMyODg5MzgyMjk
 
 \[
 
+
+
 **f** (acceleration) *Phys***. त्व**(त्वरण)  
 **f** (activity coefficient) *Chem.* **गु** (कर्मण्यता गुणक)  
 **F** (buffalo beef) **म** (महिष-मांस)  
@@ -1626,6 +1628,8 @@ fee-per-bottle system** (EM. I.vi) **प्रति-**
 
 **fees शुल्क, देय***n.*(Const.)  
 **fee simple** *Law* **1.**(an absolute fee— Web.) **परम संपत्**
+
+
 
 *Cf.* **fee tail परिमित संपत्**
 
@@ -3336,6 +3340,8 @@ first-come-first-served basis पहले आया पहले पाया �
 first commission प्रथम आयोग  
 first construction प्रथम निर्माण  
 first contact** (in eclipse) *Astron.* **स्पर्श,**
+
+
 
 **प्रथम संस्पर्शं  
 first conviction प्रथम दोषसिद्धि  
@@ -7948,5 +7954,6 @@ seed of most cotton varieties after removal of the longer fibres) **तूलो
 **F.Y.P.** (Five-Year Plan) **प.व.यो.** (पञ्च-वर्षीय योजना)  
 **Fys. Act** (Factories Act) **नि.अधि.**(निर्माणी-अधिनियम)  
 **Fys. Rules** (Factories Rules) **नि. नियम**(निर्माणी-नियम)
+
 
 \]

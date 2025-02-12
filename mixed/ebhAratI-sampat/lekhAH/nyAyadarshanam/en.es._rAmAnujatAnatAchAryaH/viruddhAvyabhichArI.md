@@ -13,11 +13,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNTUzODYxMjY
 
 \[
 
+
+
 **            ॐ**
+
 
 **   NYAYAVAISESHIKA**
 
+
 **    *विरुद्धाव्यभिचारी***
+
+
+
+
 
 श्रीमद्भिः शंकराचार्यैः बृहदारण्यकभाष्ये सत्कार्यवादसमर्थनावसरे इत्थमन्वग्राहि--
 
@@ -131,5 +139,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjgzNTUzODYxMjY
  दृश्यमानं विरुद्धाव्यभिचारीत्युच्यते' इति  
  निर्वचनान्तरमपि प्रदर्शितमिति सर्वमवदातम्॥  
   -------\*\*\*\*------
+
 
 \]

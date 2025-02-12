@@ -292,7 +292,7 @@ It means **द्युगणं** (Number of Kali days) **अमितयवव
 
  The Kali date for the 15th of January, 1948 is 1844100. From this we have to make the subtraction and we have to divide the remainder three times and what still remains will be the ***Vākya*** number for that day. It will beas follows:
 
-![](../books_images/U-IMG-1701712943l.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1701712943l.jpg"/>
 
  In the Malabar Almanac, the ***Vākya*** number is given by the notation **माधुर्य**which is 195, according to the scheme already described.
 
@@ -2639,4 +2639,3 @@ THE first column notes the number of the ***Vākya***,and the last column notes 
 |      | Total   | 248 |
 
 \]
-

@@ -16,6 +16,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg5NjE3MjU3MjI
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 ॥ श्रीरस्तु ॥  
 श्रीमदभिनवभरताचार्यवाग्गेयकारतोदरमल्ल-  
 तिम्मामात्यनन्दन-  
@@ -46,6 +58,8 @@ of the Pudukkottai State Service.
 
 Copyright Reserved.
 
+
+
 PREFACE.  
 \_\_\_\_\_\_\_
 
@@ -64,6 +78,8 @@ PREFACE.
   वर्षे श्रावणमासि निर्मलतरे पक्षे दशम्यां तिथौ।  
 रामामात्यदिनिर्मितस्स्वरततेर्निर्मथ्य रत्नाकरं  
   सोऽयं मेलकलानिधिर्मतिमतामाकल्पमाकल्पताम्॥
+
+
 
 Saka 1472—i e., in August—September of 1550 A.D. The circumstances in which the book was composed are referred to in the prefatory portion of the book. While Râma Râjâ, king of Vijianagar was, with his brothers Timma Râjâ and Venkatadri Râjâ, listening to the sweet discourse of Râmâmâtya’s music, Venkâtadri Raja referred to the conflicting views that, then prevailed with reference to the many questions connected with the science and art of Music, and requested Râmâmâtya to compose a work reconciling the differences. The request was supported by the king Ráma Râjâ, who knew of no better person for undertaking the work, as he thought that, while others knew only the theoretical or the practical side of the subject, Râmänâtya was an expert in both. The minister-musician felt that he was bound to respect the wishes of the king from whom he had received many favours and set about to compose a simple faultless work based on the Sangîtaratnákara.
 
@@ -95,6 +111,9 @@ C. The Library of Brahma Sri Subbaráma Dîkshitar, a musician and composer of t
  PUDUKKOTTAI
 
 THE EDITOR.  
+
+
+
 
 **॥श्रीरस्तु॥**  
 **॥ स्वरमेलकलानिधौ ॥**  
@@ -208,6 +227,8 @@ THE EDITOR.
 इत्थं विचिन्त्य तं राममन्त्री वक्तुं प्रचक्रमे॥**
 
 **——**
+
+
 
 **॥ श्रीरामजयम् ॥**  
 **॥ स्वरमेलकलानिधिः॥**
@@ -1184,6 +1205,16 @@ THE EDITOR.
 
 **पञ्चमं संपूर्णम्॥  
 \_\_\_\_\_\_\_\_\_**  
+
+
+
+
+
+
+
+
+
+
 
 \]
 

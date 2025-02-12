@@ -36,13 +36,13 @@ RASACHANDRIKA**
 
 ***PANDEYA***
 
-**![](../books_images/U-IMG-1690183865Screenshot2023-07-24125003.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690183865Screenshot2023-07-24125003.png"/>**
 
 **EDITED BY**
 
 **PANDIT VISHNU PRASAD BHANDARI**
 
-**![](../books_images/U-IMG-1690184031Screenshot2023-07-24130210.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1690184031Screenshot2023-07-24130210.png"/>  
 
 Printed Published & sold by**
 
@@ -64,7 +64,7 @@ Printed Published & sold by**
 
 **काव्यविभागे (६) षष्ठं पुष्पम् ।**
 
-**![](../books_images/U-IMG-1690184173Screenshot2023-07-24130523.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690184173Screenshot2023-07-24130523.png"/>**
 
 **पर्वतीय-पण्डितप्रवर - श्रीविश्वेश्वरपाण्डेय-**
 
@@ -72,7 +72,7 @@ Printed Published & sold by**
 
 **रसचन्द्रिका।**
 
-**![](../books_images/U-IMG-1690184262Screenshot2023-07-24130646.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690184262Screenshot2023-07-24130646.png"/>**
 
 **नेपालदेशीय --**
 
@@ -98,7 +98,7 @@ Printed Published & sold by**
 
 **भूमिका।**
 
-![](../books_images/U-IMG-1690184432Screenshot2023-07-24130911.png)
+<MISSING_FIG href="../books_images/U-IMG-1690184432Screenshot2023-07-24130911.png"/>
 
 इयं रसचन्द्रिका कूर्माचलदेशीय–पाण्डेयकुलभूषणपण्डितप्रवरश्रीविश्वेश्वरशर्मणः कृतिः। अदसीयमितिवृत्तं पूर्व मुद्रिताया एतन्निर्मिताया आर्यासप्तशत्या भूमिकायां यथाश्रुतं सन्निवेशितमस्ति। तत् तत एवावगन्तव्यमितिहासरसिकैर्धीमद्वरैः।
 
@@ -123,7 +123,7 @@ Printed Published & sold by**
 
 **विषयानुक्रमणिका।**
 
-**![](../books_images/U-IMG-1690184513Screenshot2023-07-24131106.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690184513Screenshot2023-07-24131106.png"/>**
 
 |                                                                     |                                                              |
 |---------------------------------------------------------------------|--------------------------------------------------------------|
@@ -420,7 +420,7 @@ Printed Published & sold by**
 | विकर्तश्च       | वितर्कश्च           | ६९       | २०      |
 | साध्यात्वात्    | साध्यत्वात्         | ८३       | १२      |
 
-![](../books_images/U-IMG-1690261924Screenshot2023-07-25103850.png)
+<MISSING_FIG href="../books_images/U-IMG-1690261924Screenshot2023-07-25103850.png"/>
 
 **अथ**
 
@@ -428,7 +428,7 @@ Printed Published & sold by**
 
 **रसचन्द्रिका।**
 
-**![](../books_images/U-IMG-1690262028Screenshot2023-07-25104215.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1690262028Screenshot2023-07-25104215.png"/>**
 
 **श्रीगणेशाय नमः।**
 
@@ -1931,7 +1931,7 @@ Printed Published & sold by**
 
 इति नायिकानिरूपणं समाप्तम् ।
 
-![](../books_images/U-IMG-169232223917.png)
+<MISSING_FIG href="../books_images/U-IMG-169232223917.png"/>
 
 नायिकानिष्ठरतौ विषयत्वान्नायकनिष्ठरतावाश्रयत्वाच्चनायकोऽपि निरूप्यते । स त्रिविधः। पत्यु-पपति- वैशिकभेदात् । विवाहजन्यसंस्कारवान् पतिः। न च स्वीयायामतिव्याप्तिः, पुंस्त्वे सतीत्यभिधेयत्वात् । **यथा -**
 
@@ -2252,8 +2252,6 @@ Printed Published & sold by**
 **दुईकज्जा अण्णपडिरोहं मा करेउ अअपत्ति।**
 
 **उत्तंभे इव तुरिअं तिस्सा कण्णुप्पलं पुलहो ॥ (१)[^3] दूतीकार्याकर्णनप्रतिरोधं मा करोत्वयमिति । उत्तम्भयतीव त्वरितं तस्याः कर्णोत्पलं पुलकः ॥ छा० ॥")**
-
-[^3]: "(१
 
 **विदूषको यथा मम -**
 

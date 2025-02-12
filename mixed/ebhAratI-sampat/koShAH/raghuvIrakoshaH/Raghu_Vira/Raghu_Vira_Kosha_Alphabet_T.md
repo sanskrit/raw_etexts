@@ -17,6 +17,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwMDcxMDUyNjU
 
 \[
 
+
+
 T
 
 Phys.
@@ -264,6 +266,8 @@ E
 *τ*
 
 (couple per unit twist)
+
+
 
 *Phys.*
 
@@ -4760,6 +4764,7 @@ thym-, thymo-** (used for thymol) **पर्णा**(पर्णासीव)
 Thymallus vulgaris सामान्य-पर्णासगन्धा  
 thyme 1.पर्णासी** *f.*  
 
+
 **basil thyme तुलसी  
 2.पर्णासी-वर्ण** *m.,* **= pitch pine** (a colour, yellowish green हर्यापीतin hue, of low अवsaturation and low नि brilliance) **न्यवहर्यापीत**
 
@@ -5015,6 +5020,7 @@ tidiness व्यवस्थितता** *f.*
 **tie 1.ग्रन्थि***m.***, गांठ2.**(apiece holding two bodies together) **बन्धक** *m.***3.**(equality in any
 
 contest) **समग्रन्थि***m.***4.=stay** *Engin.* (atension member)**आततिक** *n.***5.***Rly.***= railway sleeper संयान-शायी**(-इन्) *m.*  
+
 
 **Tiedemann's vesicles** *Zool.* (little rounded glandular bodies—PH.I.695) **वर्तुल आशयक  
 tied together सहबद्ध  
@@ -9775,5 +9781,8 @@ cerium, -इज for खनिज mineral)
 **Tytler's willow-warbler** *Aves* **कश्मीरतरु-कूजिनी  
 Tyto** *Aves* **श्वेतोलूक-प्रजाति** (श्वेतोलूक ancient word)  
 **Tytonidae** *Aves* **श्वेतोलूक-वंश***m.*
+
+
+
 
 \]

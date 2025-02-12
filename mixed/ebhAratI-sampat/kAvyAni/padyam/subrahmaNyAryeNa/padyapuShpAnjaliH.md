@@ -15,12 +15,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwMzgyNjQ1NDU
 
 |                                                                |
 |:--------------------------------------------------------------:|
-| ![](../books_images/U-IMG-17206750038965-removebg-preview.png) |
+| <MISSING_FIG href="../books_images/U-IMG-17206750038965-removebg-preview.png"/> |
 
 **॥ श्रीः ॥**
 
 **\।\। पद्यपुष्पाञ्जलिः \।\।**  
-**![](../books_images/U-IMG-1720675219456.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720675219456.png"/>**
 
 एट्टयपुरवास्तव्य वल्लीपरिणयचंष्वादि—  
 कर्तृ कविकेसरिस्वामिदीक्षित भ्रातृ—  
@@ -42,7 +42,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYwMzgyNjQ1NDU
 
 **॥विषयानुक्रमः॥**
 
-![](../books_images/U-IMG-1720677912Screenshot2024-07-11052816.png)
+<MISSING_FIG href="../books_images/U-IMG-1720677912Screenshot2024-07-11052816.png"/>
 
 [TABLE]
 
@@ -81,13 +81,14 @@ nessand humiliation, the anecdote of Solomon and the bees, lessons from the life
 
 New Delhi                     **N. CHANDRASEKHARA AIYAR**  
 11-1-1951                               
+              
 
 **An appreciative evaluation by**
 
 **Dewan Bahadur Sri K. S. RAMASWAMI SASTRIGAL**
 
 **Retired District Judge, Madras.**  
-![](../books_images/U-IMG-1720687946Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720687946Screenshot2024-07-11085209.png"/>
 
  I have perused with much pleasure and profit the book of Sanskrit poems entitled PADYA-PUSHPANJALI by Mr. V. Subrahmanya Iyer, Principal, Rameswaram Devasthanam Patasala, Madurai. That such a work should appear in 1950 is itself proof of what Jawaharlal Nehru describes as the "VITALITY AND PERSISTENCE OF SANSKRIT" in his immortal work entitled "The Discovery of India." I am penning this appreciative evaluation of these excellent and original poems on 26th January, 1950, which is the day of the inauguration of the Indian Republic – a fact which is symbolical of the new spirit pervading these poems as the Republic is symbolic of the new spirit pervading the life of India.
 
@@ -101,6 +102,7 @@ New Delhi                     **N. CHANDRASEKHARA AIYAR**
 
  Thus these poems are altogether in a new vein and are graceful, charming and are replete with fine thoughts expressed in diverse metres suited to the thoughts. I wish the work wide and ever increasing public appreciation.
 
+  
 Madras                                
  **K. S. RAMASWAMI SASTRI.**
 
@@ -111,6 +113,7 @@ Madras
 **A LETTER OF FELICITATIONS**
 
 C. KUNHAN RAJA.                            
+  
 
 University of Madras  
 Triplicane, (Madras)  
@@ -133,7 +136,7 @@ Dear Mr. Subrahmanya Ayyar,
 *Yours sincerely*,  
 C. KUNHAN RAJA.
 
-![](../books_images/U-IMG-1720692779Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720692779Screenshot2024-07-11085209.png"/>
 
 **AUTHOR'S PREFACE.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -155,10 +158,10 @@ C. KUNHAN RAJA.
 Madurai,  
 30-4-51
 
-![](../books_images/U-IMG-1720698161Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720698161Screenshot2024-07-11085209.png"/>
 
 SOME ADVANCE OPINIONS.  
-![](../books_images/U-IMG-1720698560Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720698560Screenshot2024-07-11085209.png"/>
 
 ** The Hon'ble Shri K. M. Munshi, Minister for Food and Agriculture, Govt of India.**
 
@@ -184,7 +187,7 @@ not duly recognised. But few modern Sanskrit poets, if any, have dared to deviat
 
 he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. But, when the animal needs are over, and leisure comes, the human heart craves for something higher than a work-a-day language and scoffs at the very difficulty which it sought to avoid before. This is onlynatural just as a hungry man hates the delay involved in washing his hands and waiting for the dishes to come, before beginning his repast, but the same man will not only wash his hands but also put on a special dress-suit and wait for guests when his work is over and he is entertaining. So, no one need despair about the future of Sanskrit. By its intrinsic greatness, Sanskrit is as free from the need for public popularity as an elephant in a procession is from the need for many people to follow it." Your book shows the correctness of my opinion, and I congratulate you on it and the variety of subjects, ancient and modern, including Scavenging! The verses run smoothly, and nobody will suspect that they are iIn a language 6000 years old......
 
-![](../books_images/U-IMG-1720714836Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720714836Screenshot2024-07-11085209.png"/>
 
 ** Sri T. S. Balasubrahmanya Ayyar, M. A. L. T., Inspector of Oriental Schools, Madras State:**
 
@@ -194,7 +197,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 ** **.......the encomiums your works are receiving are in no way exaggerations. They possess in them a rare combination of all the qualities which carry appeal to the modern public who, as you know, have no leisure or patience for high sounding phrases, grandiloquent word-paintings, **क्लिष्टकल्पना** and strained **अलंकार**. Fresh, stoking ideas and concepts clothed in simple, mellifluous language free from pedantry and ambitious exhibition of scholarship in verse or prose are what are wanted now and your compositions are having them in abundance.........
 
-![](../books_images/U-IMG-1720718164Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720718164Screenshot2024-07-11085209.png"/>
 
 ** Shri K. Balasubramania Aiyar, B.A., B L., Advocate "Ashrama" Luz. Mylapore.**
 
@@ -202,7 +205,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
  Mr. Subrahmanya Aiyar commands a simple, lucid and charming poetsstyle. He possesses all the qualifications that are necessary for being a reputed author of SanskritKavyas. He has dealt with a variety of subjects forming the theme of his poems and exhibits originality and versatility. The fact that he has been able to secure appreciations from scholars like the Hon'ble Mr. Justice N Chandrasekhara Aiyar, Sri K. S. Ramaswami Sastry and Dr. Kunhan Raja is clear proof to the reader of the true merit of his poetry and of his Sanskrit scholarship. I have great pleasure in commending this book to the Sanskrit loving world.
 
-![](../books_images/U-IMG-1720718164Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720718164Screenshot2024-07-11085209.png"/>
 
 **श्रीः**
 
@@ -216,7 +219,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **॥पूर्व भागः॥**
 
-**![](../books_images/U-IMG-17213216777.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-17213216777.jpg"/>**
 
 **1 ॥संसारस्तवः॥**
 
@@ -244,7 +247,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 **अव्यक्त आदिर्हि तथैव चान्तो व्यक्तस्तु मध्यो भवतीह भाग्यात्।  
 असत्यबुद्धिं प्रविहाय तस्मिन् धर्म्याणि कर्माणि सदा कुरु त्वम्॥८॥**
 
-![](../books_images/U-IMG-1720719405Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720719405Screenshot2024-07-11085209.png"/>
 
 **2 ॥ ऋषिसंस्मरणम्॥**
 
@@ -354,7 +357,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 निर्बध्येमान्सुबहुलतया कारयत्युग्रपापं  
  व्यक्तिर्जातिर्जनजनपदा द्वेषदष्टामिथश्च॥५॥**
 
-![](../books_images/U-IMG-1720766628Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720766628Screenshot2024-07-11085209.png"/>
 
 **5 ॥प्रकृतिः कला च॥**
 
@@ -383,7 +386,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 यन्त्रस्त्रैस्सोऽसुहरणचणै र्भीकरोऽत्यन्तमद्य  
  प्रज्ञोन्मेषोन निधनकृते किन्तु भद्राय भूयात्॥५॥**
 
-**![](../books_images/U-IMG-1720977221Screenshot2024-07-14121212.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720977221Screenshot2024-07-14121212.png"/>**
 
 **6 ॥शकुन्तलास्वगतम्॥**
 
@@ -467,7 +470,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 तिष्ठेत्कदाचिदिति चा शृणवं सुनीनां  
  स्यादेवमेव, भवतान् छुभसंगमो नः॥१६॥**
 
-![](../books_images/U-IMG-1720777407Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720777407Screenshot2024-07-11085209.png"/>
 
 **7. ॥ अद्भुत भारतम्॥**
 
@@ -511,7 +514,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 त्यागाश्रयाज्जनतया परिवर्त्य हिंसां  
  युद्धं प्रवर्तितमहो विजयो विचित्र॥८॥**
 
-![](../books_images/U-IMG-1720778826Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1720778826Screenshot2024-07-11085209.png"/>
 
 **8. ॥भीष्म महात्यागः॥**
 
@@ -605,7 +608,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 जनित्वा धर्मेणा नुपहत धृति र्जीवति तथा  
  मृतिं चानेनासावुपदिशति धर्मिव्रतमिदम्॥१८॥**
 
-**![](../books_images/U-IMG-1720797690Screenshot2024-07-11085209.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720797690Screenshot2024-07-11085209.png"/>**
 
 **9 ॥वाग्वैभवम्॥**
 
@@ -748,7 +751,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 यावत्स्फुरन्ति भुवने स्थिरतां प्रपन्ना  
  शान्तिर्ध्रुवाऽकितवता शुभधीश्च तृप्तिः॥२०॥**
 
-![](../books_images/U-IMG-1721062630Screenshot2024-07-14121212.png)
+<MISSING_FIG href="../books_images/U-IMG-1721062630Screenshot2024-07-14121212.png"/>
 
 **12 ॥सती॥**
 
@@ -807,7 +810,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 प्रपद्य प्रोवाचेत्यव पितृमुखान् दण्डविधिना  
  पति प्रेयान् लोके सततमितरे यावदनघाः॥११॥**
 
-![](../books_images/U-IMG-1721065046Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1721065046Screenshot2024-07-11085209.png"/>
 
 **13. ॥प्रज्ञाविपरिणतिः॥**
 
@@ -841,7 +844,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 नास्मिल्लोके भवति सुदृशामद्भुतं विप्रियं वा  
  तादृक्प्राज्ञा जगति मनने नेतृतां यान्तिमुक्ताः॥६॥**
 
-![](../books_images/U-IMG-1721065431Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1721065431Screenshot2024-07-11085209.png"/>
 
 **14. ॥हृल्लोकः॥**
 
@@ -899,7 +902,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 जीवेरन्यार्थमित्थं क्वचन च पुरुषं घोषयन्तं न वीक्षे  
  सर्वो दम्भप्रियोऽस्ति प्रतिनिमिषसदाचारसक्तो न कोपि॥५॥**
 
-![](../books_images/U-IMG-1721146629Screenshot2024-07-14121212.png)
+<MISSING_FIG href="../books_images/U-IMG-1721146629Screenshot2024-07-14121212.png"/>
 
 **16. ॥अष्टमूर्तिस्वरूपम्॥**
 
@@ -947,7 +950,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
  र्जानन्नैजं स्वरूपं चरति यदि नरो याति तूर्णं  
                             \[ स पूर्तिम्॥**
 
-![](../books_images/U-IMG-1721068327Screenshot2024-07-11085209.png)
+<MISSING_FIG href="../books_images/U-IMG-1721068327Screenshot2024-07-11085209.png"/>
 
 **17. ॥विरावोपद्रवः॥**
 
@@ -981,7 +984,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 अभवदनिविडश्च प्राकृतो दम्भवर्जो  
  यदि नगर इदानीं शान्त एकस्सदेवः॥६॥**
 
-**![](../books_images/U-IMG-1721109019Screenshot2024-07-14121212.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721109019Screenshot2024-07-14121212.png"/>**
 
 **18. ॥अवस्कर हरणम्॥**
 
@@ -1010,7 +1013,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 तथा चेदासृष्टेः कतिपयबुधोद्द्दष्टजननं  
  युगं सत्यं दूरे भवति यदि सत्त्वे न नरधीः॥५॥**
 
-**![](../books_images/U-IMG-1721110919Screenshot2024-07-14121212.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721110919Screenshot2024-07-14121212.png"/>**
 
 **19. ॥स्त्री॥**
 
@@ -1068,7 +1071,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 नालं वक्तुमियं हि पूर्वनियतिः पूर्णैवमास्तेऽधुना  
  यावच्छक्ति तपस्विशीलमखिलैः श्रेयोऽर्थिभिर्गृह्यताम्॥५॥**
 
-**![](../books_images/U-IMG-1721187650Screenshot2024-07-14121212.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721187650Screenshot2024-07-14121212.png"/>**
 
 **21. ॥स्वाश्रयः॥**
 
@@ -1092,7 +1095,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 यथा निर्भीकोऽसौ सपदि गतशुक्स्वाश्रयबलो  
  विमुक्तो भावेभ्यः परवशकरेभ्यो विजयते॥४॥**
 
-**![](../books_images/U-IMG-1721114226Screenshot2024-07-11085209.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721114226Screenshot2024-07-11085209.png"/>**
 
 **22 ॥तदानीमिदानीं च॥**
 
@@ -1121,7 +1124,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 बीजावस्थां च धर्मो न किल परिजहौसभ्यतादोष एषः  
  यावद्वृक्षस्स भूत्वा फलति न भुवने तावदस्या न कीर्तिः॥५॥**
 
-**![](../books_images/U-IMG-1721068710Screenshot2024-07-11085209.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1721068710Screenshot2024-07-11085209.png"/>**
 
 **23 ॥शिशुस्वर्गः॥**
 
@@ -1150,7 +1153,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 विमुक्तान्कुर्वाणास्सविधपतितान् संसृतिशुचो  
  निर्लिपा भौमा ये सकलरमणीयाश्शुभमयाः॥५॥**
 
-![](../books_images/U-IMG-1720959147Screenshot2024-07-14121212.png)
+<MISSING_FIG href="../books_images/U-IMG-1720959147Screenshot2024-07-14121212.png"/>
 
 **24 ॥भूतक्रीडा॥**
 
@@ -1194,7 +1197,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 दृढं सोढ्वोत्साही पुनरपि नवीकारकृतधी-  
  र्विशिष्टां वृद्धिं द्राग्विरचयति तद्विस्मयपदम्॥८॥**
 
-**![](../books_images/U-IMG-1720700573Screenshot2024-07-11085209.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1720700573Screenshot2024-07-11085209.png"/>**
 
 **25 ॥भू भारः॥**
 
@@ -1317,8 +1320,6 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **तूष्णीं निवृत्तो वणिजश्च गेहमन्यत्प्रदिष्टं वसनाय[^1] रात्र्याम्।  
 आगन्तुकोऽन्यो[^7]दिवसेऽपरस्मिन्नवाप पूर्वोषितमेव वासम्॥६॥**
-
-[^1]: "Lodging"
 
 [^7]: "Traveller"
 
@@ -2373,7 +2374,7 @@ he study of Latin and Greek and in modern Turkey, regarding Arabic and Persian. 
 
 **\* शुभमस्तु \***
 
-**![](../books_images/U-IMG-172164540215.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-172164540215.jpg"/>**
 
 **PADYA PUSHPANJALI.**  
 **PART I.  
@@ -2893,4 +2894,3 @@ children prove an unbearable burden to a mother? Strange! How does she desire ev
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 \]
-

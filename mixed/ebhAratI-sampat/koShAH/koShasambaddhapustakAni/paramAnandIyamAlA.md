@@ -11,6 +11,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzNzE0MDM0Mjc
 
 \[
 
+
+
 परमानन्दीयनाममाला
 
 प्रथमः परिच्छेदः परमानन्दीयनाममाला
@@ -5114,5 +5116,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzNzE0MDM0Mjc
 प्रतिपदि शुक्रे वारे पूर्णेयं पुण्यवेलायाम् ॥ 18 ॥
 
 इति परमान्दी नाममाला संपूर्णा ॥  
+
+
 
 \]

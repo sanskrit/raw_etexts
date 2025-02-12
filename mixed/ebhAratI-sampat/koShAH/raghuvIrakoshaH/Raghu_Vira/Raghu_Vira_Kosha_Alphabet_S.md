@@ -17,6 +17,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NzI5MzUyMDY
 
 \[
 
+
+
 **S**
 
 **S** (S-shaped) **अवग्रहाकार**
@@ -1794,6 +1796,8 @@ scale of visibility दृश्यता-मापश्रेणी$\\underset
 
 [TABLE]
 
+
+
 **scalepan तुला-पात्र** *n.*  
 **scales** (a balancescales: usually em-body a system of multiplying levers उद्याम) **उत्तुला**
 
@@ -1938,6 +1942,8 @@ scarlet ocher = Indian red
 scarlet phosphorus शोण भास्वर  
 scarlet pimpernel** *(Anagallis arvensis)***जलौकामारी** *f.,* **जौंकमारी  
 scarlet pitta** *Aves***शोणोदर पद्मपुष्प** (abdomen all crimson शोणो.पद्मपुष्पis
+
+
 
 an ancient bird-name)  
 **scarlet poppy = Papaver rhoeas रक्त अहिफेन  
@@ -6297,6 +6303,7 @@ shred***Petrog.* (torn out fibre)**शीर्ण तन्तु** *m.*
 
 **shrike-babbler लटूषक-गुपिल** *m.* (लटूषक and गुपिल are ancient names)
 
+
 **shrill** *adj.***उत्तीव्र**  
 
 **shrimp 1.चिंगट** *m.* (a general word)**2=shrimp pink**  
@@ -7714,6 +7721,8 @@ sketching board आरूपण-फलक
 sketch map आरूप-मानचित्र  
 sketch plan अरुप-अनुविक्षेप  
 skew** *adj.* **1.विषम, 2.विषमतलैय** (1 वि not+समतलैय passable by a plane; 2 विषमतल curved
+
+
 
 surface+एय passable)**, विषम-तली** (-इन्)**, विषमतलस्थ, विषम, 3=gauche** *Math.* **वितलैय** (वि not, तल plane, एय passable)
 
@@ -9954,6 +9963,8 @@ Spanish yellow = golden yellow** (acolour, yellowish red-yollow रक्ता�
 
 **spanner 1.**(adjustable wrench) **विकुञ्च** *m.*
 
+
+
 **2.**(an anthropometric instrument)**विस्तारमि** *m.*
 
 **spanning the world by air वायु द्वारा पृथिवी-पारायण  
@@ -11059,6 +11070,8 @@ spirit store प्रासव-संग्रहागार
 spiritual** *adj.* **आध्यात्मिक  
 spiritual court** (an ecclesiasticalcourt) **धार्मिक न्यायालय  
 spiritualism 1.अध्यात्मवाद** *m.***2.**(spiritisum) **प्रेतवाद** *m.*
+
+
 
 **spiritualist 1.अध्यात्मवादी**(-इन्) *m.,***2. प्रेतवादी** (-इन्) *m.*  
 **spiritualities** (the revenues of a bishop) **धर्माप्तियां  
@@ -14574,6 +14587,8 @@ Strobilanthesatropurpureus सुनीलारुण कुञ्चपुष�
 Strobilanthes auriculatus** (corolla pale-blue—Basu) **पाण्डुनील कुञ्चपुष्प  
 Strobilanthes barbatus कूर्चित कुञ्चपुष्प  
 Strobilanthes callosus** (stems rigid—Basu) **दृढस्तम्भ कुञ्चपुष्प**
+
+
 
 **Strobilanthesciliatus** (distribution: Kanara toTravancore—Basu) **केरल-कुञ्चपुष्प  
 Strobilanthes dalhousianus** (found in W.Himalaya—Tr. II.695) **पश्चहिमालय-कुञ्चपुष्प  
@@ -19057,5 +19072,8 @@ Syzygites megalocarpus = Sporodinia grandis सामान्य महाब�
 **syzygy 1.***Astron.* **विसंयुति** *f.* (the ancient word ग्रहयुतिisinappropriate, as the moon is not a ग्रह.
 
 विसंयुति is better as it includes both वियुति and संयुति), **2.***Zool.* **संमेल** *m.*
+
+
+
 
 \]

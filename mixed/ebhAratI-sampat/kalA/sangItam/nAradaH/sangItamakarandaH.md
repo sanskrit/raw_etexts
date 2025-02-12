@@ -177,9 +177,9 @@ above principle. In that system the Ragas are divided according to the different
 
  Narada mentions 3 species of Rigas viz 1 g Masculine Ragas 2 खीरागा Feminine Ragas and 3 नपुसकरागा Neuter Ragas[^10]
 
- Again he divides the Ragas into three groups viz 1मुक्ताङ्गकम्पित Ragas Ragas which have quivering (कम्पितगमक) throughout, 2 अर्धकम्पिता Ragas which have partial quivering[^11], and 3 कम्पविहीना Rågas which are absolutely free from quivering The Sangita Ratnakara and other later books do not mention these divisions.
-
 [^10]: "Vide page 18 verses 53-63"
+
+ Again he divides the Ragas into three groups viz 1मुक्ताङ्गकम्पित Ragas Ragas which have quivering (कम्पितगमक) throughout, 2 अर्धकम्पिता Ragas which have partial quivering[^11], and 3 कम्पविहीना Rågas which are absolutely free from quivering The Sangita Ratnakara and other later books do not mention these divisions.
 
 [^11]: " Vide page 20 verses 84-85"
 
@@ -210,8 +210,6 @@ above principle. In that system the Ragas are divided according to the different
  **Date of Sangita Makaranda—**If we take all the above circumstances into consideration, we are obliged to anive at the conclusion that *Sangita Makaranda* is an older work than Sangita Ratnakar
 
  Further, the names of writers, mentioned in this work are Hari, Bramha, Matanga, Kiśyapa, Kamalisya, Chandi, Vylla, Sárdula, Nirada, Tumburu, Shanmukha, Bhringi, Devendra, Kubera, Kusika, Mitrigupta, Ravana, Samudia Sarasvati, Bali, Yaksha and Vikrama[^17] Many of these names are names of deities and Purinik personagos and it is beyond our means to determine their time But the names of Vikrama and Matigupta are historical As there have been several Vikiamas, it is difficult to say what Vikrama is meant But the mention of the name of Matrigupta, who is also mentioned by Sarngadeva in his Sangita Ratnakara as one of the writers on music, enables us to infer that the present work must have been written not earlier than 7th century A D Matrigupta, who was a poet and write on poetics, is said to have lived about the first half of the sixth century being a contemporary of Siliditya Pratapas la of Milva (A D 550-600) My esteemed fiend, T M Tripathi Esqr B. A of Bombay, informs me that from the *Natya Pradipa of Sundara Mis'ra* it appears that Matigupta has written a commentary on *Bharata's Natya Sastra*
-
-[^17]: " Vide pages 49 to 51"
 
  But there is one circumstance which may help us in deciding the priority of this work to *Sangita Ratnakara* For, Nárada mentions the name of only Matrigupta among the names of the historical personages as writers on music, and does not mention the names of the later writers such as Rudrata, Nanya Bhupala, Paramardı Somes'a, Lollata, Udbhata, S'anhuka, Abhinava Gupta &c. If Narada had copied the names of authors from *Sangita Ratnak ara,* he would not have omitted them It is likely that S'arngadeva copied the names of older authors from Naiadas book and added these later names known at his time to the list in bus book Nářada does not seem to have borrowed any verses from *Sangita Ratnakara* The treatment and order of the topics observed in *Sangita Makaranda* is quite different from that in the *Sangita Ratnakara*.
 
@@ -321,7 +319,7 @@ above principle. In that system the Ragas are divided according to the different
 
 **सङ्गीतमकरन्दः।**
 
-![](../books_images/U-IMG-1726065959Untiuyguftyftyf.png)
+<MISSING_FIG href="../books_images/U-IMG-1726065959Untiuyguftyftyf.png"/>
 
 **सङ्गीताध्याये प्रथमः पादः।**
 
@@ -369,11 +367,13 @@ above principle. In that system the Ragas are divided according to the different
 सरस्वत्याश्च वीणायां षड्जादिस्वरसंयुतम्।  
 पाठयामास सर्वेषां हृद्यं श्रुतिमनोहरम्॥१६॥  
 रूपालप्ती रागालप्तिरिति स द्विविधः स्मृतः।**  
-**[रागास्त]("’रागस्तग्ननतानात्यो रूपकः शब्द उच्यते’ इति शुद्धः पाठः स्यात् ।")न्ननतनाद्यरूपतः शब्दः उच्यते॥१७॥**
+**रागास्त[^103]न्ननतनाद्यरूपतः शब्दः उच्यते॥१७॥**
 
 [^21]: "अस्य श्लोकस्य पाठोऽशुद्धः वर्तते। पुस्तकान्तरालाभात् आदर्शपुस्तके यथा दृष्टः तथैवात्र निवेशितः।"
 
 [^22]: "चातको रिषभं इति पाठे सन्धिदोषो न स्यात्।"
+
+[^103]: "’रागस्तग्ननतानात्यो रूपकः शब्द उच्यते’ इति शुद्धः पाठः स्यात् ।"
 
 **सामवेदादिदं गीतं तज्जग्राह[^23] पितामहः।  
 तद्गीतं नारदायैव तेन लोकेषु वर्णितम्॥१८॥  
@@ -1235,7 +1235,7 @@ above principle. In that system the Ragas are divided according to the different
 अतिस्वरूपा बहुवल्गुभाषिणः  
 स चामराः पार्श्वगता विरञ्जिताः\।\।२३\।\।  
 डोलचामरकराग्रवर्तिनो  
-वरविवेककविवाद्यकारकाः[^79](?)।  
+वरविवेककविवाद्यकारकाः[^79] (?)।  
 सर्वशस्तदनुरक्षकादयः  
 पार्श्ववर्त्तिननिरीक्षणोक्तयः (?)॥२४॥**
 

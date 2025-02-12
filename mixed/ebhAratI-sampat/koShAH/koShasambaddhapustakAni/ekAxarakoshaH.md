@@ -12,6 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3NTYyMTMyMDY
 
 \[
 
+
+
+
 अकारो वासुदेवः स्यादाकारश्च पितामहः ।  
 पूजायामपि माङ्गल्ये आकारः परिकीर्त्तितः ॥ १  
 इकारो उच्यते कामो लक्ष्मी रीकार उच्यते ।  
@@ -67,5 +70,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3NTYyMTMyMDY
 भा दीप्तिरपि भूर्भूमिर्भीर्भयं कथिता बुधैः ।  
 मः शिवश्चन्द्रमा वेधा मा च लक्ष्मीः प्रकीर्तिता ॥ २७  
 \\Z  
+
+
 
 \]

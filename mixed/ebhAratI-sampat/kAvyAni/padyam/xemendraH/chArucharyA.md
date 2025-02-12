@@ -13,7 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY
 +++
 [[चारुचर्या	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY4NjU4&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 **॥श्रीः॥**
 
@@ -21,7 +21,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY
 
 **९२**
 
-**![](../books_images/U-IMG-1728277346j0.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728277346j0.png"/>**
 
 **महाकविश्रीक्षेमेन्द्रविरचिता**
 
@@ -33,7 +33,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY
 
 **श्री देवदत्त शास्त्री**
 
-**![](../books_images/U-IMG-1728277406u0.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728277406u0.png"/>**
 
 **चौखम्बा विद्याभवन**
 
@@ -56,7 +56,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY
 
 **श्री देवदत्त शास्त्री**
 
-**![](../books_images/U-IMG-1728459056Sp-1.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1728459056Sp-1.jpg"/>**
 
 चौखम्बा विद्याभवन वाराणसी-१
 
@@ -117,7 +117,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY
 **चारुचर्या  
 'प्रकाश' हिन्दीव्याख्योपेता**
 
-**![](../books_images/U-IMG-172814057999.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172814057999.png"/>**
 
 **श्रीलाभसुभगः सत्यासक्तः स्वर्गापवर्गदः।  
 जयतात् त्रिजगत्पूज्यः सदाचार इवाच्युतः॥१॥**
@@ -134,7 +134,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY
 
  पुण्य-कार्यों से शरीर को सदैव पवित्र और स्नान द्वारा उसे
 
-स्वच्छ रखना चाहिए। इन्द्र ने वृत्र नाम के असुर को मारने से उत्पन्न पाप स्नान करके ही दूर किया [था](॑ " यह पौराणिक कथा है । इस प्रकार की जिन-जिन पौराणिक कथाओं की चर्चा इस पुस्तक में की गई है, सभी का सांगोपांग उल्लेख चौखम्बा विद्याभवन, वाराणसी से प्रकाशित 'हिन्दी चारुचर्या' नामक पुस्तक में किया गया है ।")॥।३॥
+स्वच्छ रखना चाहिए। इन्द्र ने वृत्र नाम के असुर को मारने से उत्पन्न पाप स्नान करके ही दूर किया [था[^1]॥।३॥
+
+[^1]: ॑ " यह पौराणिक कथा है । इस प्रकार की जिन-जिन पौराणिक कथाओं की चर्चा इस पुस्तक में की गई है, सभी का सांगोपांग उल्लेख चौखम्बा विद्याभवन, वाराणसी से प्रकाशित 'हिन्दी चारुचर्या' नामक पुस्तक में किया गया है ।"
 
 **न कुर्वीत क्रियां कांचिदनभ्यर्च्य महेश्वरम्।  
 ईशार्चनरतं श्वेतं नाभून्नेतुं यमः क्षमः॥ ४॥**
@@ -638,6 +640,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjc3ODU4OTU0MjY
 इति श्रीप्रकाशेन्द्रात्मजव्यासदासापराख्यमहाकविश्रीक्षेमेन्द्रकृता  
 चारुचर्या समाप्ता॥
 
-![](../books_images/U-IMG-1728277239n0.png)
+<MISSING_FIG href="../books_images/U-IMG-1728277239n0.png"/>
 
 \]

@@ -27,7 +27,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI
 
 **रसतरंगिणी ।**
 
-**![](../books_images/U-IMG-1709288234curve-ebharati.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1709288234curve-ebharati.jpg"/>**
 
 जयपुर राजकीय संस्कृतपाठशाला के प्रधान न्यायशास्त्राध्यापक
 
@@ -35,7 +35,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI
 
 **जीवनाथजी** ओझा विरचित भाषाटीका सहित ।
 
-![](../books_images/U-IMG-1709288271Curve-Sankha.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1709288271Curve-Sankha.jpg"/>  
 **जिसको**
 
 **खेमराज श्रीकृष्णदासने**
@@ -56,7 +56,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI
 
 **इसका सर्वाधिकार "श्रीवेङ्कटेश्वर” यन्त्रालयाध्यक्षने स्वाधीन रक्खा है।**
 
-![](../books_images/U-IMG-1709269543Screenshot2024-03-01103517.png)
+<MISSING_FIG href="../books_images/U-IMG-1709269543Screenshot2024-03-01103517.png"/>
 
 **॥ श्रीः ॥**
 
@@ -867,7 +867,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI
 **इति श्रीरसतरङ्गिणीभाषाटीकायां सात्त्विकभावनिरूपणं नाम चतुर्थस्तरङ्गः ॥ ४ ॥**
 
 **पञ्चमस्तरंगः ५.**  
-![](../books_images/U-IMG-1709097756Screenshot2024-02-28105122.png)
+<MISSING_FIG href="../books_images/U-IMG-1709097756Screenshot2024-02-28105122.png"/>
 
 **अथ व्यभिचारिभावा निरूप्यन्ते। तत्र भरतः-**
 
@@ -1413,7 +1413,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI
 
 **इति श्रीरसतरङ्गिणीभाषाटीकायां व्यभिचारिभावनिरूमणं नाम पञ्चमस्तरङ्गः॥ ५ ॥**
 
-![](../books_images/U-IMG-1709183004Screenshot2024-02-29103136.png)
+<MISSING_FIG href="../books_images/U-IMG-1709183004Screenshot2024-02-29103136.png"/>
 
 **षष्ठस्तरंगः ६.**
 
@@ -1764,7 +1764,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI
 **भाषाटीकासहिता।**
 
 ** सप्तमस्तरंगः ७.  
-![](../books_images/U-IMG-1709625349Screenshot2023-12-11112447.png)**
+<MISSING_FIG href="../books_images/U-IMG-1709625349Screenshot2023-12-11112447.png"/>**
 
 हासस्य परिपोषो हास्यः। वर्णोऽस्य शुद्धो दैवतं प्रमथः। स च द्विविधः-स्वनिष्ठः परनिष्ठश्चेति। तावप्युत्तममध्यमाधमभेदात्रिधेति षड्विधः। स्वनिष्ठोऽपि षड्विधः। परनिष्ठोऽपि षड्विध इति द्वादशविधो हास्यः। तथाहि उत्तमानां स्वनिष्ठे परनिष्ठे च स्मितहसिते। मध्यमानां स्वनिष्ठे परनिष्ठे च विहसितोपहसिते। अधमानां स्वनिष्ठे परनिष्ठे चापहसितातिहसिते।
 
@@ -2102,7 +2102,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI
 **रसतरंगिणी-**
 
 ** अष्टमस्तरंगः ८.  
-![](../books_images/U-IMG-1709306300Screenshot2023-12-11113139.png)**
+<MISSING_FIG href="../books_images/U-IMG-1709306300Screenshot2023-12-11113139.png"/>**
 
 स्थायिभावजा दृष्टिरष्टधा। स्निग्धा, हृष्टा, दीना, क्रुद्धा, हप्ता, भीता, जुगुप्सिता, विस्मिता चेति। व्यभिचारिभावजा दृष्टिर्विंशतिधा-शून्या, मलिना, श्रान्ता, लज्जिता, शंकिता, मुकुलाऽर्द्धमुकुला, ग्लाना, जिह्मा, कुञ्चिता, वितर्किता, अभितप्ता, विषण्णा, ललिता, केकरा, विकोशा, विभ्रान्ता, विष्णुता, त्रस्ता, मदिरा चेति । रसभेदादष्टधा रस दृष्टिः- कान्ता, हास्या, करुणा, रौद्रा, वीरा, भयानका, बीभत्सा, अद्भुता चेतिषट्त्रिंशद्भेदा दृष्टयः। कुणिता, विकसिताऽद्धविकसिता, चकिता, सुप्ता, घूर्णिताऽलसा, विवर्तिता-ऽर्द्धविवर्तिता, पर्यस्ता, शून्या, स्तिमिता चेत्यादयो दृष्टिभेदा ऊहनीयाः।
 
@@ -2429,4 +2429,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDY4ODkxNTg3OTI
 **“श्रीवेंकटेश्वर" स्टीम् प्रेस-बम्बई.**
 
 \]
-

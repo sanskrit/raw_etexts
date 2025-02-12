@@ -62,7 +62,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc
 
 |                                                                     |
 |---------------------------------------------------------------------|
-| ![](../books_images/U-IMG-1708757597Screenshot2024-02-24122226.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1708757597Screenshot2024-02-24122226.png"/> |
 
 **श्रीमहावाण्यै नमः।  
 श्रीकृतिकर्तृकृता**
@@ -314,7 +314,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc
 
 |                                                                     |
 |---------------------------------------------------------------------|
-| ![](../books_images/U-IMG-1708776217Screenshot2024-02-24173228.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1708776217Screenshot2024-02-24173228.png"/> |
 
 **श्रीमहावाण्यै नमः ।**
 
@@ -419,7 +419,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc
 
 |                                                                     |
 |---------------------------------------------------------------------|
-| ![](../books_images/U-IMG-1708757469Screenshot2024-02-24121938.png) |
+| <MISSING_FIG href="../books_images/U-IMG-1708757469Screenshot2024-02-24121938.png"/> |
 
 **श्री महागणेशाय नमः ।**
 
@@ -2854,7 +2854,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc
 **श्रीवीरकृष्णविजयमहाकाव्ये।**
 
 **नवमस्सर्गः।  
-![](../books_images/U-IMG-1708406356Screenshot2023-12-11111504.png)**  
+<MISSING_FIG href="../books_images/U-IMG-1708406356Screenshot2023-12-11111504.png"/>**  
 
 **श्रीगोमन्तमहागिरेर्गतवति श्रीजामदग्न्ये मुनौ  
 शृङ्गे तत्रयथासुखं विहरतस्तौ रामकृष्णौ मुदा।  
@@ -4003,7 +4003,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc
 **श्रीदुर्गाम्बायै नमः।  
 श्रीवीरकृष्णविजयमहाकाव्ये।  
 एकादशस्सर्गः।  
-![](../books_images/U-IMG-1708411501Screenshot2024-02-13193335.png)**
+<MISSING_FIG href="../books_images/U-IMG-1708411501Screenshot2024-02-13193335.png"/>**
 
 **अथोषसि स कैशिकम्सुरपतेर्नयन् शासनं  
 बिलिय शुभपत्रके पुरमुपाययौ कुण्डिनम् ।  
@@ -4481,7 +4481,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc
 **श्रीदुर्गाम्बायै नमः।**  
 **श्रीवीरकृष्णविजयमहाकाव्ये।**  
 **द्वादशस्सर्गः।  
-![](../books_images/U-IMG-1708414233Screenshot2023-12-11112447.png)**
+<MISSING_FIG href="../books_images/U-IMG-1708414233Screenshot2023-12-11112447.png"/>**
 
 **कृष्णे गतेऽथ मधुरां गरुडेन साकं वीतात्मभीतिषु नृपेषु सभागतेषु ।  
 बद्धाञ्जलिर्न शिराः पृथुलज्जितात्मा प्रोवाच भीष्मक विभुत्सकलान्प्रणम्य॥**
@@ -4898,7 +4898,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc
 **श्रीदुर्गाम्बायै नमः।**  
 **श्रीवीरकृष्णविजयमहाकाव्ये।**  
 **त्रयोदशस्सर्गः।  
-![](../books_images/U-IMG-1708415517Screenshot2024-02-12140157.png)**
+<MISSING_FIG href="../books_images/U-IMG-1708415517Screenshot2024-02-12140157.png"/>**
 
 **इन्द्रो दिव्यमरावतीमिव वली भावी यथेन्द्रस्तले  
 पृथ्व्या भोगवतीमुपेन्द्र इहां स्त्रैलोक्यभोगोच्छिताम् ।  
@@ -5651,7 +5651,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUwMDc3NDMxODc
 मेश्वरार्पितो बिजतां तमाम्  
 सम्पूर्णे चेदं महाकाव्यम्  
 श्रीमहावाण्यै नमः।  
-![](../books_images/U-IMG-1708417983Screenshot2023-12-11112447.png)**
+<MISSING_FIG href="../books_images/U-IMG-1708417983Screenshot2023-12-11112447.png"/>**
 
 **पाठयाऽपाठ्यनिरूपकपट्टिका।  
 ———————————**

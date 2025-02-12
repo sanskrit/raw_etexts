@@ -467,9 +467,9 @@ ses: 26-28,33; p.4. verses
 
 **सप्तमी सारिका स्थाप्या शुद्धपश्चमसिद्धये ।** [^6]
 
-**अष्टमी सारिका स्थाप्या शुद्धधैवतसंयुता ॥**
-
 [^6]: "1. The following 18 lines are scattered elsewhere in the Telugu ms.; they are found to follow at this place in the Devanagari ms."
+
+**अष्टमी सारिका स्थाप्या शुद्धधैवतसंयुता ॥**
 
 **नवमीॆ सारिकां शुद्धनिषादार्थं निवेशयेत् ।**
 
@@ -640,7 +640,7 @@ ses: 26-28,33; p.4. verses
 **वादनं पार्श्वतन्त्रीणामङ्गुल्या च कनिष्ठया ।**
 
 **यत्तत्तालानुसारेण लोकेऽसौ श्रुतिसंज्ञकम् ॥  
-॥ इति दक्षिणाङ्गुलि[^10](दक्षिणहस्त)व्यापाराश्चत्वारः ॥**
+॥ इति दक्षिणाङ्गुलि[^10] (दक्षिणहस्त)व्यापाराश्चत्वारः ॥**
 
 [^10]: "3. दक्षिणकराङ्गुलि in the Devanagari ms."
 
@@ -740,8 +740,6 @@ ses: 26-28,33; p.4. verses
 
 **चरअणयुगअलु-कड वणु-रे-रे[^15] ॥**
 
-[^15]: "1.This Sahitya is given in the Devanagari ms.for the Gita and not for the Prabandha."
-
 **गौल \। झंपातालम्(ः)। क्त क्त तोंगिण-त्तोंगिण त्तोंगिणं-गिणां सम्यग्गीतप्रबन्धानां वादने सुदृढीकृते । **
 
 **ठायानां वादनाभ्यासः कारितव्यः प्रयत्नतः ॥  
@@ -788,9 +786,9 @@ ses: 26-28,33; p.4. verses
 **रञ्जयित्वा प्रभुं सम्यग्वैणिकोऽभीष्टभाग्भवेत् ।**   
 **एवमेवेतरां वीणामभ्यसेद्गुर्वनुग्रहात् ॥ **[^19]
 
-**स्वरमण्डलवीणां तु भूमौ संस्थाप्य वादयेत् ।**[^19]
-
 [^19]: "3.These two lines are not found in the Devanagari ms."
+
+**स्वरमण्डलवीणां तु भूमौ संस्थाप्य वादयेत् ।**[^19]
 
 **पिनाकी धनुराकारा वीणेति विबुधा जगुः ॥  
 (तुलजेन्द्रवीणाप्रशंसा)**
@@ -822,10 +820,10 @@ ses: 26-28,33; p.4. verses
 
 **किन्नरी द्विविधा लघ्वी बृहती चेति कीर्तिता। **[^22]
 
+[^22]: "2.See Saramrta text, pp.123-4; where the Kinnari and the varieties, first two and then three Desi varieties, are elaborately described."
+
 **तन्मेलादिप्रकारस्तु ज्ञेया लोकानुसारतः ॥[^22]  
 ॥ इति किन्नरी ॥**
-
-[^22]: "2.See Saramrta text, pp.123-4; where the Kinnari and the varieties, first two and then three Desi varieties, are elaborately described."
 
 **काचित् तुम्बुरुवीणेति तुम्बेनैकेन राजिता ।**
 
@@ -971,7 +969,7 @@ Now follows a presentation of the available portion of the text of the dance-cha
 
 **एवं परम्पराप्राप्तमेतल्लोके प्रतिष्ठितम् ॥[^39]**
 
-[^39]: "1. Here the text breaks in the inflated Ms. and is continued in the original ms."
+[^39]: # "1. Here the text breaks in the inflated Ms. and is continued in the original ms."
 
 **See Ratnakara, ch. VII,  
 Anadasrama edition, verses 3-8.**
@@ -1292,7 +1290,7 @@ ch. VII,verses 21-27.**
 
 **रत्नाकरे तु-(VII. verses 295-7)[^40]**  
 
-[^40]: "1. The Ratnākara itself draws upon Bharata. See Kavyamālā Text, Nātya Sastra, ch. 9, sls. 157-159."
+[^40]: # "1. The Ratnākara itself draws upon Bharata. See Kavyamālā Text, Nātya Sastra, ch. 9, sls. 157-159."
 
 **विषण्णे व्याकुले भीते मूर्छिते तन्द्रिकान्विते ।**
 
@@ -1316,9 +1314,9 @@ ch. VII,verses 21-27.**
 
 **पादानुगो यदा हस्तजयो हस्तानुगर्हता । (?)**[^27]
 
-**अङ्गोपाङ्गानि च परं तथैवानुसरन्ति च ॥**
-
 [^27]: "2. Compare Ratnākara VII, 976-977 where the corresponding line runs: यतः पादस्ततो हस्तो यतो हस्तस्ततस्त्रिकः । Compare also Bharata, Natya sastra, ch. 10, verses 44-45."
+
+**अङ्गोपाङ्गानि च परं तथैवानुसरन्ति च ॥**
 
 **हस्तप्राधान्यतोऽङ्गानि हस्तं चानुसरन्ति च ।**
 
@@ -1362,7 +1360,7 @@ ch. VII,verses 21-27.**
 
 **वयोऽनुरूपो वेषः स्याद्गतिर्वेषानुगा भवेत्[^41] ॥**
 
-[^41]: "1. See Bharata, N. S., XV. 68."
+[^41]: # "1. See Bharata, N. S., XV. 68."
 
 **पाठ्यं गीत्यनुरूपं स्यात्तत्समोऽभिनयो भवेत् !। इति  
 ॥ इत्यभिनयनिर्णयः ॥**
@@ -1564,16 +1562,12 @@ to      रञ्जकः स्यादुपाध्यायो नृत�
 अथ श्रमविधिः  
 सामूशलम्बमित्येवमान्ध्रद्रविडभाषया ।[^42] and refers to the doing of the exercises by the dansuese by holding a piece of rod at chest height, placed in front; the rod is called Dandika' and 'Patituti poopar'(असंपादितः भागः)is 'Dandikāgrahana' in Sanskrit. See Sangitaratnākara, VII, 1218-1233.")**
 
-[^42]: "1. These three lines, mentioning the Telugu and Tamil names of 'practice-exercise are bracketted in the ms. I have brought in here the section called Sikşarambha found in the inflated ms. which gives Tamil and Telugnt equivalents of the Sanskrit terms and deals with the foot work etc. as practiced in the Nautch. 'Samu' in Telugu means 'exercise with a stick'. Salambam' in Tamil is really an abbreviation of Salambamholding 'MVLDLIii 19. BP.'(असंपादितः भागः
+[^42]: # "1. These three lines, mentioning the Telugu and Tamil names of 'practice-exercise are bracketted in the ms. I have brought in here the section called Sikşarambha found in the inflated ms. which gives Tamil and Telugnt equivalents of the Sanskrit terms and deals with the foot work etc. as practiced in the Nautch. 'Samu' in Telugu means 'exercise with a stick'. Salambam' in Tamil is really an abbreviation of Salambamholding 'MVLDLIii 19. BP.'(असंपादितः भागः
 
 **लोकप्रसिद्धमभ्यामक्रम इत्यभिधीयते॥** [^42] and refers to the doing of the exercises by the dansuese by holding a piece of rod at chest height, placed in front; the rod is called Dandika' and 'Patituti poopar'(असंपादितः भागः)is 'Dandikāgrahana' in Sanskrit. See Sangitaratnākara, VII, 1218-1233.")
 
-[^42]: "1. These three lines, mentioning the Telugu and Tamil names of 'practice-exercise are bracketted in the ms. I have brought in here the section called Sikşarambha found in the inflated ms. which gives Tamil and Telugnt equivalents of the Sanskrit terms and deals with the foot work etc. as practiced in the Nautch. 'Samu' in Telugu means 'exercise with a stick'. Salambam' in Tamil is really an abbreviation of Salambamholding 'MVLDLIii 19. BP.'(असंपादितः भागः
-
 **अभ्यस्तस्य पुनःसम्यगभ्यासः श्रम इरितः ॥[^42] and refers to the doing of the exercises by the dansuese by holding a piece of rod at chest height, placed in front; the rod is called Dandika' and 'Patituti poopar'(असंपादितः भागः)is 'Dandikāgrahana' in Sanskrit. See Sangitaratnākara, VII, 1218-1233.")  
 ॥शिक्षारम्भः ॥**
-
-[^42]: "1. These three lines, mentioning the Telugu and Tamil names of 'practice-exercise are bracketted in the ms. I have brought in here the section called Sikşarambha found in the inflated ms. which gives Tamil and Telugnt equivalents of the Sanskrit terms and deals with the foot work etc. as practiced in the Nautch. 'Samu' in Telugu means 'exercise with a stick'. Salambam' in Tamil is really an abbreviation of Salambamholding 'MVLDLIii 19. BP.'(असंपादितः भागः
 
 **नत्वा कृत्वा डोलहस्तं स्थित्वा भुवि सरेखकम् ।**
 
@@ -1606,7 +1600,7 @@ to      रञ्जकः स्यादुपाध्यायो नृत�
 
 **(कुत्तडवु[^45] CFLa?)(असंपादितः भागः)**
 
-[^45]: "1. Missing in the ms."
+[^45]: # "1. Missing in the ms."
 
 **निक्षिप्य पार्ष्णिपादाभ्यां त्रिपताककरान्वितम् ।**
 
@@ -1861,7 +1855,7 @@ Noir up. TLIM(असंपादितः भागः)**
 अथाभिनयक्रमः[^46]॥\]  
 क्रमतश्चैव चारीणां मण्डलानां तथैव च ।**
 
-[^46]: "1. This section Abhinayakrama must have dealt with the method of gesturing for Darus and Padas as promised in the synopsis, found at the opening of the ms. पृथग्दरुपदादीनाम्"
+[^46]: # "1. This section Abhinayakrama must have dealt with the method of gesturing for Darus and Padas as promised in the synopsis, found at the opening of the ms. पृथग्दरुपदादीनाम्"
 
 **गात्रादिवलनादीनां गतीनां च पुनः पुनः ॥**
 
@@ -2401,6 +2395,8 @@ In the enumeration, Bibhāsu the first of the Sadava janyas found in the descrip
 [TABLE]
 
 [TABLE]
+
+         
 
 **XII**
 
@@ -4729,6 +4725,7 @@ CITED DY TULAJA**
 **१.गा गा गा गा पा पा धप मा**
 
 ** सौ**  
+ 
 
 **२.धा धा धा धा धा नी सनिनि धा  
 ३.पां पां पां पां पां पां पां पां**
@@ -4781,6 +4778,7 @@ CITED DY TULAJA**
 **१६.धा धा नी धा पा पा पा पा**
 
 **   लं**  
+    
 
 **१७.रीगा मा पा पम पा पा नी**
 
@@ -11839,4 +11837,3 @@ way shall have to be replaced or its doubleprice shall be paid by the**
 **----------**
 
 \]
-

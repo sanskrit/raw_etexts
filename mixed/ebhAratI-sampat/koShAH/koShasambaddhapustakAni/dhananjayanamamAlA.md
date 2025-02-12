@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM1NDQxNTkyODI
 
 \[
 
+
+
 ड्डठ्ठदथ्र्1 धनञ्जयनाममाला
 
 1
@@ -1245,5 +1247,7 @@ This is prepared an d compiled by
 Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011
 
 -------  
+
+
 
 \]

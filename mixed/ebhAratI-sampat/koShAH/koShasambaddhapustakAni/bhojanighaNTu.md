@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2OTU2MjAzNjM
 
 \[
 
+
+
 क्रमसङ्ख्या  कोशनाम      कोशकर्तृनाम   श्लोकसङ्ख्या  स्वरूपः
      संक्षिप्तनाम  
  1 .    त्रिकाण्डशेषः     पुरुषोत्तमदेवः    1038  
@@ -257,6 +259,7 @@ denotes the kosa number in the series. ' 1 ' denotes the chapter number. ' 1 ' d
 This is computarised by  
 Dr.P .Srinivas , Lecturer in Vyakarana ,  
 S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011 
+
 
 ना-15 ?0      ( एकाक्षरी-कोषः
 -अमरकविविरचितः-धनञ्जयनाममालायामुपनिबद्धः )     
@@ -1464,6 +1467,7 @@ S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011
 (पर्याय-7-1-1)  
 This is an example for the format of the kosa. Here ' पर्याय ' indicates that this sloka has taken from a ' paryaya pada kosa '. ' 7 ' denotes the kosa number in the series. ' 1 ' denotes the chapter number. ' 1 ' denotes the sloka number.
 
+
     (पर्याय-7-1-1)  
       तन्नमामि परं ज्योतिरवाङ्मनसगोचरम् ।  
       उन्मूलयत्यविद्यां यद् विद्यामुन्मीलयत्यपि ॥  
@@ -2086,6 +2090,9 @@ This is an example for the format of the kosa. Here ' पर्याय ' indic
 This is computarised by  
 Dr.P .Srinivas , Lecturer in Vyakarana ,  
 S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011 
+
+ 
+
 
 ?0           नाममालिका   
 (पर्याय-8-1-1)  
@@ -3056,5 +3063,6 @@ This is an example for the format of the kosa. Here ' पर्याय ' indic
 This is computarised by  
 Dr.P .Srinivas , Lecturer in Vyakarana ,  
 S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011 
+
 
 \]

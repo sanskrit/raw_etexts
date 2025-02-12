@@ -323,7 +323,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ5ODI5NTg0ODM
 
 **श्रीरामचंद्रार्पणमस्तु॥**
 
-![](../books_images/U-IMG-1686224731Untitled.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1686224731Untitled.jpg"/>
 
 **जाहिरात.  
 \_\_\_\_\_**

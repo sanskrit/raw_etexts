@@ -4129,7 +4129,7 @@ gravity yard** *Rly.* (in which separation of wagons is offected by gravity alon
 gravy मांसयूम** *m.*  
 **Grawitz's bacillus** (from acne contagiosa of horses) **अश्व-युवपिडक-दण्डाणु  
 gray = grey  
-![](../../../../../../../books_images/U-IMG-1690794079ooooo.png)For words and phrases beginning with gray see the forms in grey  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1690794079ooooo.png"/>For words and phrases beginning with gray see the forms in grey  
 grayhound = greyhound  
 grayish = greyish  
 grayling** (a fish) **धूसरा** *f.*  

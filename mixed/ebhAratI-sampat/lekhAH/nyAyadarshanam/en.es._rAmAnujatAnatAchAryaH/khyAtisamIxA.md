@@ -12,11 +12,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5OTA4NTQxODM
 
 \[
 
+
+
 ***ख्यातिसमीक्षा***
+
+
+
 
  The problem of illusory perception had always drawn the attention of scholars and had been a very favourite topic of Indian Philosophy.  
  The different theories advanced in the respect are Anyathakhyati or Viparitakhyati of the Jains. Nyaya-Vaisesika philosophers and of the Bhattas. The followers of Prabhakara broach the Akhyativada. The Bauddhas other than the Madhyamikas sponsor Atmakhyativada whereas the latter use Asatkhyati. The Vedantins say it is Anirvacaniyakhyati i.e. at the root. Hence the principal theories propounded are (i) Atmakhyati. (ii) Asatkhyati. (iii) Akhyati. (iv) Anvathakhyati and Anirvacaniyakhyati.  
  In the following paper Pt. N.S. Ramanuja Tatacharya has discussed these and has tried to establish Anyathakhyati of the Logicians.
+
 
  श्रीवेंकटाद्रिनिलयं श्रीनिवासं दयानिधिम्।  
  प्रणम्य ख्यातितत्त्वस्य समीक्षां प्रविदध्महे॥  
@@ -174,5 +180,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDE5OTA4NTQxODM
  अन्यथाख्यातौ प्रमाणानि  
  \`शुक्तिशकलमेव मया रजततया गृहीतम्' इत्यनुव्यवसायः, पूर्वोक्तान्यनुमानानि, \`योऽन्यथासन्तमात्मानमन्यथा प्रतिपद्यते' \`अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी' \`अनात्मन्यात्मबुद्धिर्या अस्वे स्वमिति या मतिः' इत्यादीन्याप्तवचनानि च अन्यथाख्यातौ प्रमाणानि। तस्मादन्यथाख्यातिर्निराबाधेति सिद्धम्॥  
   --------------\*\*\*\*\*\*\*\*\*\*\*------------
+
 
 \]

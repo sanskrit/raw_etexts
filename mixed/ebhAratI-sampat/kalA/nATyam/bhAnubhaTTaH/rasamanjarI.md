@@ -20,13 +20,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA3Mzg2Nzc3MTI
 
 [TABLE]
 
-![](../books_images/U-IMG-1731509861SYMBOL3.png)
+<MISSING_FIG href="../books_images/U-IMG-1731509861SYMBOL3.png"/>
 
-![](../books_images/U-IMG-1731509997SYM4.png)
+<MISSING_FIG href="../books_images/U-IMG-1731509997SYM4.png"/>
 
 **अथ व्यङ्ग्यार्थकौमुदी।**
 
-**![](../books_images/U-IMG-1731510247SYM5.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731510247SYM5.png"/>**
 
 **श्रीगणेशाय नमः।**
 
@@ -194,11 +194,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA3Mzg2Nzc3MTI
 **सदोषमपि निर्दोषं भवत्यग्रे विपश्चितः।**  
 **रामस्येवाऽर्जुनवपुः कवेश्च सरसं वचः॥३५॥**
 
-**![](../books_images/U-IMG-1731511566SYM6.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731511566SYM6.png"/>**
 
 **रसमञ्जरी।**
 
-**![](../books_images/U-IMG-1731511796SYM7.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731511796SYM7.png"/>**
 
 **श्रीसरस्वत्यै नमः।**
 
@@ -213,7 +213,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA3Mzg2Nzc3MTI
 
 **रसमञ्जरीप्रकाशः।**
 
-**![](../books_images/U-IMG-1731511953SYMBOL9.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731511953SYMBOL9.png"/>**
 
 श्रीगुरुभ्यो नमः।
 
@@ -994,7 +994,7 @@ R. T. H. GRIFFITH, M. A.,C. I. E.
 AND  
 G. THIBAUT, PH. D.  
 *No 84.*  
-![](../books_images/U-IMG-1732464576symbol.png)
+<MISSING_FIG href="../books_images/U-IMG-1732464576symbol.png"/>
 
 **रसमञ्जरी।**  
 श्रीभानुभट्टप्रणीता  
@@ -2745,7 +2745,7 @@ R. T H. GRIFFITH, M. A.,C. I. E.
 AND  
 G. THIBAUT, PH. D.  
 No 87.  
-![](../books_images/U-IMG-1732449839g7.png)
+<MISSING_FIG href="../books_images/U-IMG-1732449839g7.png"/>
 
 **रसमञ्जरी।**  
 **श्रीभानुभट्टप्रणीता  
@@ -2778,7 +2778,7 @@ BENARES
 
 **सव्याख्यरसमञ्जर्याः शुद्धिपत्रम्।**
 
-**![](../books_images/U-IMG-1732445104g0.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1732445104g0.png"/>**
 
 |        |           |            |        |             |              |
 |:------:|:---------:|:----------:|:------:|:-----------:|:------------:|
@@ -2847,7 +2847,7 @@ BENARES
 
 **रसमञ्जरीविषयसूची।**
 
-**![](../books_images/U-IMG-1732445549g1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1732445549g1.png"/>**
 
 विषयः।  
 मङ्गलाचरणम्  
@@ -3080,7 +3080,7 @@ BENARES
 
 **रसमञ्जरीधृतानां श्लोकानां वर्णक्रमेण सूची।**
 
-**![](../books_images/U-IMG-1732449201g4.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1732449201g4.png"/>**
 
 **श्लोकाद्यभागः।**
 
@@ -3228,11 +3228,11 @@ BENARES
 हस्ते धृताऽपि शयने  
 हारं गुम्फति तारका-
 
-![](../books_images/U-IMG-1732448024g3.png)
+<MISSING_FIG href="../books_images/U-IMG-1732448024g3.png"/>
 
 **रसमञ्जरीप्रतिपाद्यविषयाणां वर्णक्रमाऽनुसारिणी सूची।**
 
-**![](../books_images/U-IMG-1732448087g4.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1732448087g4.png"/>**
 
 अज्ञातयौवनोदाहरणम्  
 अधमवैशिकलक्षणम्  
@@ -3461,7 +3461,7 @@ BENARES
 स्वीयालक्षणम्  
 स्वीयोदाहरणम्
 
-![](../books_images/U-IMG-1732448946g6.png)
+<MISSING_FIG href="../books_images/U-IMG-1732448946g6.png"/>
 
 **सूचीपत्रम्।**
 

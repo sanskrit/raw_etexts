@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MDU3MzIyMjU
 
 \[
 
+
+
 नानार्थरत्नमालायां भास्करकविकृतायाम् एकाक्षरकाण्डः  
 श्रीरामाय नमः।   
 देवानामपि मूर्धानो यन्निर्धारणभीरवः।  
@@ -189,5 +191,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ1MDU3MzIyMjU
 
 ------------------------------------------------------------  
 \[1\]  किं स्यादिति न ज्ञायते।
+
 
 \]

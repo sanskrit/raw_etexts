@@ -2249,7 +2249,7 @@ Logic is the science that deals with the canons and criteria of validity in thou
  Formulas may be constitutional, configurational or stereometric, electronic, mathematical, etc. Thereis hardly any science which does not make use of formulas. They are the modern counterparts of ancient *sū**tras*, expressing a general fact, a rule or principle, a statement covering complexities of facts and situations, a brief expression of a single concept or again, as in chemistry, the composition of a substance.
 
  Signs and symbols are the bricks of a formula. They may be classified as hereunder :-  
-![](../../../../../../../books_images/U-IMG-1693475486Untitled1.jpg)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693475486Untitled1.jpg"/>  
  A, b, c, d and *alpha, beta, gamma* are alphabetic symbols, the first set derived from Roman and the second from Greek. They can be used as capitals, smalls and italics. They may be used singly or in combinations. They may be the initials of full words as in chemistry, physics and elsewhere. They may as well represent the number which they occupy in their respective alphabets, as in astronomy, where the magnitude of stars is expressed by the letters of the Greek alphabet instead of the usual numbers 1, 2, 3, *alpha*standing for 1, *beta* for 2 and so on.
 
  Then there are non-alphabetic symbols. They are not as many as the alphabetic ones, but they are important and are frequently met with. In mathematics alone, there are a few dozens of them comprising dots, dashes, accents, circles, half-circles, triangles, squares, rectangles, parallelograms, right angles, perpendiculars, parallels, arbitrary signs for infinity, equal to, equiangular to, parallel to, plus, minus, multiplied by, divided by, is contradictory of, is greater than, is less than, is not less than, is not greater than, is congruent to, is identical with, is similarly ordered, therefore, of the form of, is divisible by, varies directly as, is proportional to, the ratio of, geometric proportion, the root sign, etc., etc.
@@ -2404,7 +2404,7 @@ of the Alphabet**
 
  We reproduce below some of the Brahmi forms. Devanagari letters are put above them. In cases of resemblance English letters are noted below.
 
-![](../../../../../../../books_images/U-IMG-1693050666RBB.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693050666RBB.jpg"/>
 
  We had occasion to use some of the Brahmi syllables, e.g. रो for T (in T-tube). For clarity the wordब्राह्म may-be prefixed, e.g., T= ब्राह्म रो.  
  It will be observed that Brahmi covers many forms than does the Roman, and that they can be utilised with perfect ease. It is, of course, expected that every Indian student will familiarize himself with the script that is the progenitor of his own.
@@ -2476,8 +2476,8 @@ available for being used as an unspecified general constant.
 (21) *x* = log_(ba) will be य = छे_(ख)क read as य सम छेदा क आधार ख.  
 (22) Napierian log will be घ छेदा meaning छेदा आधार घ and log will beछेदा, for which the symbolwill be छे.
 
-![](../../../../../../../books_images/U-IMG-1693302807rbphoto.jpg)  
-(24)![](../../../../../../../books_images/U-IMG-1693302991rb2.png) will be![](../../../../../../../books_images/U-IMG-1693303054rb3.png) read as हत स(हत abbreviated from एकादिहत). *n* ! will be स ! read as स
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693302807rbphoto.jpg"/>  
+(24)<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693302991rb2.png"/> will be<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693303054rb3.png"/> read as हत स(हत abbreviated from एकादिहत). *n* ! will be स ! read as स
 
 हत.
 
@@ -2487,12 +2487,12 @@ available for being used as an unspecified general constant.
 (28) a - b will be क - खread asक वियुत ख ( *a* subtracted by *b),*or क ऊन ख,क ऋण ख(*a* minus*b*).  
 (29) The positive sign will be called अधिक or धन, thenegative sign ऊन or ऋण
 
-![](../../../../../../../books_images/U-IMG-1693307959rb4.png)will be read as अधिकोन  
-![](../../../../../../../books_images/U-IMG-1693308010rb5.png)will be ऊनाधिक.
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693307959rb4.png"/>will be read as अधिकोन  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693308010rb5.png"/>will be ऊनाधिक.
 
 (30)Lt limit *n* tending toinfinity will beसी
 
-![](../../../../../../../books_images/U-IMG-1693308167rb7.png)![](../../../../../../../books_images/U-IMG-1693308216rb8.png)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693308167rb7.png"/><MISSING_FIG href="../../../../../../../books_images/U-IMG-1693308216rb8.png"/>  
 read asसीमा स अनन्ताभिगामी.  
 (31) Arrow will be called a बाण→.  
 (32) Rapidly convergent series शीघ्र अभिसारी श्रेढी.
@@ -3057,9 +3057,9 @@ a x 0=0
 a + 0=0  
 a - 0 = a\*[^3]
 
-"Equipped with their simple and eloquent number symbols the Hindus broke away completely from the metaphorical way of dealing with fractions. Theywrote fractions as we write them and they had anarithmetic which lent itself to rapid calculation withoutmechanical aids, they experimented with them as withwhole numbers. Thus Mahāvīra (A, D, 850) gave ourrule for dividing one fraction by another in the samewords which a school teacher might use today 'make thedenominator the numerator and then multiply'.
-
 [^3]: "To this is to be added=∞"
+
+"Equipped with their simple and eloquent number symbols the Hindus broke away completely from the metaphorical way of dealing with fractions. Theywrote fractions as we write them and they had anarithmetic which lent itself to rapid calculation withoutmechanical aids, they experimented with them as withwhole numbers. Thus Mahāvīra (A, D, 850) gave ourrule for dividing one fraction by another in the samewords which a school teacher might use today 'make thedenominator the numerator and then multiply'.
 
 "All the algorithms for fractions now used wereinvented by the Hindus.
 
@@ -3402,7 +3402,7 @@ writing *x* for या, *y* for का and *z* for नी
  संचापारकोण radian. Radian is an angle कोण subtended by an are चापequal सं in length to the radius अर-सत्यापन 'verification' is an ancient word. The verbal form is सत्यापयति verifies.  
  सदिश vector. Vector (from Latin *vehere, vectum*to carry) is a complex entity representative of a directed magnitude. सदिश means 'having a direction दिशा'. Our word is clearer and will be more easily understood by the Indian students.  
  समांग homogeneous, uniform. Homogeneous is alike in nature and therefore, comparable in parts (सम alike + अंग parts).  
- समान्तर श्रेढी arithmetic progression. गुणोत्तर श्रेठी geometric progression. Arithmetic progression is a progression श्रेणीwhose elements progress by a constant (समsame) difference अन्तर (positive or negative) as 1,3,5,7 or a, a ![](../../../../../../../books_images/U-IMG-1693386759rb30.png)d, a ![](../../../../../../../books_images/U-IMG-1693386788rb30.png)2d, a![](../../../../../../../books_images/U-IMG-1693386817rb30.png)3d. 'Arithmetic progression' is not a very intelligible expression. Geometric progression is that in which elements progress by a constant factor, as 1,2,4,8,16, any term is obtained by multiplying the preceding one by the constant factor: गुणोत्तर श्रेढी— गुण multiplication, उत्तर successive, श्रेढी progression.  
+ समान्तर श्रेढी arithmetic progression. गुणोत्तर श्रेठी geometric progression. Arithmetic progression is a progression श्रेणीwhose elements progress by a constant (समsame) difference अन्तर (positive or negative) as 1,3,5,7 or a, a <MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386759rb30.png"/>d, a <MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386788rb30.png"/>2d, a<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386817rb30.png"/>3d. 'Arithmetic progression' is not a very intelligible expression. Geometric progression is that in which elements progress by a constant factor, as 1,2,4,8,16, any term is obtained by multiplying the preceding one by the constant factor: गुणोत्तर श्रेढी— गुण multiplication, उत्तर successive, श्रेढी progression.  
  समायत square (figure). समायत is an आयत or rectangle with all the sides सम or equal. In Hindi वर्ग is used to denote a square figure as well as the product of a number or quantity multiplied by itself. We have retained वर्ग for the latter sense and समायतfor the former.  
  समाई 'equivalent'. अर्हाis an ancient word. अर्हा 'value' is derived from the root अर्ह्'to be worthy of'.  
  संपतन or संपात coincidence. The English word is derived from Latin *coincidere*, from *co-* + *incidere* to fall on. संपतन = सं- together + पतन falling.  
@@ -3506,7 +3506,7 @@ Terrace is उत्तल (उत् raised + तल surface).
 
  Colourmay be regarded as a psychological category; it can be described and specified in terms derivable from introspective analysis, without any reference whatever to wave lengths, to energy, or to any physical category; but it is also possible to state the physical correlates of the psychologically determined attributes of colour and to draw up certain psychophysical relations between them. All colours are divisible into two classes, the chromatic colours, as reds, greens, purples, browns and pinks; and the achromatic, or neutral colours, including black, white and the intermediate series of greys. The latter are foundto differ from each other only in their degree of
 
-![](../../../../../../../books_images/U-IMG-1693049232Screenshot2023-08-26165654.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693049232Screenshot2023-08-26165654.png"/>
 
 resemblance to or difference from black (or white). is possible to form a series, ranging from black white, with a median grey at the centre differing equally from black and white, and with each other grey differing from its immediate neighbours by equal sense differences. This series can be made into a scale by assigning an ordinal number to each grey, either ascending toward the lighter greys from black as zeroor ascending with positive numbers and descending with negative numbers from median grey as zero. That attribute which thus measures the variation of the greys is called brilliance; dark greys have low, median grey has medium, and light greys have high brilliance.
 
@@ -3522,7 +3522,7 @@ resemblance to or difference from black (or white). is possible to form a series
 
   To take the hues first. There are four primary hues: red, yellow, green and blue. Their common names are रक्त, पीत, हरि and नील. The intermediatecolours between red and yellow, yellow and green, green and blue, blue and red are given hereunder:
 
-![](../../../../../../../books_images/U-IMG-1693051659Screenshot2023-08-26173607.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693051659Screenshot2023-08-26173607.png"/>
 
 Besides the four wor ds standing for the four primary hues, two pre fixes **आ** 'slight' and **अति** 'much' are all thatare required to be learnt.
 
@@ -3535,13 +3535,13 @@ Besides the four wor ds standing for the four primary hues, two pre fixes **आ*
 
  Saturation is that attribute of chromatic colours which determines their degree of difference from a greyof the same brilliance; distinctness or vividness of hue. It is also called chroma, purity.
 
-![](../../../../../../../books_images/U-IMG-1693201490Screenshot2023-08-28111425.png)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693201490Screenshot2023-08-28111425.png"/>  
 **BRILLIANCE  
 शुभ्रता**
 
  Brilliance is that attribute of a colour without which it cannot exist (except that black is considered to have zero brilliance), and in respect of which it may be classed as equivalent to some member of the series ofgreys ranging from black ( as the zero member) to white; roughly, the degree of resemblance to white or difference from black. It is also called value, luminosity, visual or subjective brightness.
 
-![](../../../../../../../books_images/U-IMG-1693201559Screenshot2023-08-28111537.png)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693201559Screenshot2023-08-28111537.png"/>
 
 **EXAMPLES**
 
@@ -4765,12 +4765,12 @@ in India, although there are other words as well. Hindi, Bengali, Gujarati, Mara
 **II**
 
  Fourteen ancient names of substances have been made the basis of forming such element as are closely connected therewith: अंगार (charcoal) yields प्रांगार \[ प्र उत्कर्षे \] carbon \[ from Latin *carbo* coal, charcoal \].  
- Cf. German Kohlen-stoff, Russian uale-rod, Finnish hiili, Bengali विशुद्ध अंगार, Kannada an Malayalam अंगार, इंगाल. SimilarlyJapanese![](../../../../../../../books_images/U-IMG-1693461089Untitled.png) tan-so charcoal-pure. It would not be out of place here to point out that Lithuanian *angli*-s, Russian *ugolj*, German *Kohle*, English coal, etc., are genetically related to Sanskrit अंगार.  
+ Cf. German Kohlen-stoff, Russian uale-rod, Finnish hiili, Bengali विशुद्ध अंगार, Kannada an Malayalam अंगार, इंगाल. SimilarlyJapanese<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693461089Untitled.png"/> tan-so charcoal-pure. It would not be out of place here to point out that Lithuanian *angli*-s, Russian *ugolj*, German *Kohle*, English coal, etc., are genetically related to Sanskrit अंगार.  
  अंगार is an all-India word: Kafiri (Ashkun) अङ्गा Dardic (Khovar) अङ्गार् , (Torwali) अङ्गा; Shinaअङ्गार्;  
 Nepali अङ्गार्; Hindi, Bengali, Oriya, Kannada अङ्गार; Panjabi अंगार्; Sindhi अङरु; Gujarati अंगार, अंगारो; Marathi अंगार, अंगारा; Malayalam, Tamil अंगारम्; Telugu अङ्गारमु; Singhalese अंगुरु.  
  कुप्य (base metal, zinc) yields कुप्यातु \[ कृप्य + धातु \] \[ from German Zink, of unknown origin\].  
 
-Cf.![](../../../../../../../books_images/U-IMG-1693464082J.png)Japanese *a-en*, next-to-lead, कुप्य is zinc used in High Bengali, Kannada and Malayalam. क्षार (soda) yields क्षारातु \[क्षार+धातु\] sodium \[New Latin, from *soda*\].  
+Cf.<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693464082J.png"/>Japanese *a-en*, next-to-lead, कुप्य is zinc used in High Bengali, Kannada and Malayalam. क्षार (soda) yields क्षारातु \[क्षार+धातु\] sodium \[New Latin, from *soda*\].  
  The wordक्षार is universally used in India, both in its pure form as well as in a slightly modified form: Sindhi खारु; Kashmiri, Panjabi, Lahndi, Assamese, etc. खार; Hindi, Nepali, Gujarati, Marathi, Oriya क्षार, खार; Bengali क्षार; Kannada क्षार, कार; Tamil कारम्; Telugu क्षारमु, कारमु; Malayalam कारं, क्षारं; European Gypsy छार् 'ashes'.  
  **गोमेद** (zircon) yields गोमेदातु \[ गोमेद + धातु \] zirconium \[from *zircon*\].  
  गोमेद is an all-India word: Hindi, Bengali, Gujarati गोमेद; Malayalam, Tamil गोमेदकम्; Kannada गोमेदक; Telugu गोमेधिकमु.  
@@ -4778,7 +4778,7 @@ Cf.![](../../../../../../../books_images/U-IMG-1693464082J.png)Japanese *a-en*, 
  **चूर्ण** (calcis, lime) yields चूर्णातु \[ चूर्ण+धातु \] calcium \[Latin *calx*, *calcis* lime\].  
  Almost all languages of India and Ceylon, from Dardic in the extreme North-West up to Singhalese in Ceylon, derive their words for lime from Sanskrit चूर्ण, e.g., Hindi, Panjabi, Lahndi; Nepali चुन्; Bengali चूर्ण, चुन; Marathi चूर्ण, चुना; Sindhi चुनु; Gujarati चुनो; Assamese सुन्; Oriya चूर्ण्ण, चून; Telugu सुन्नमु;Kannada चूर्ण, सुण्ण; Tamil शुण्णाम्बु, शुण्णम्; Malayalam चूर्ण्ण; Singhalese हुणु.  
  **टंकण** (borax) yields टांकणboron \[ from borax \].  
- Cf. ![](../../../../../../../books_images/U-IMG-1693465735jj.png)Japanese ho-so, borax-pure.  
+ Cf. <MISSING_FIG href="../../../../../../../books_images/U-IMG-1693465735jj.png"/>Japanese ho-so, borax-pure.  
  टंकण is widely used. It is also called टंक or टंकणक्षार. Hindi, Kannada टंकण; Bengali टंकण, टंक; Gujarati टंकण-खार; Marathi टंकण, टांकणखार; Sindhi कंगड-कारु (cf. Sanskrit टंगर); Malayalam टंकणं; Telugu टंकणमु. Borax was exported
 
 from India to far-off lands in the East as well as in the West. In the Malay Peninsula it is still called *tingkal*. Persian and Arabic show *tankar, tinkar, al-tinkar*. The word reached England as early as 1635 A.D., when it is found spelt tyncall; other spellings of the word are *tinkal, tincal, tinkar, tincar.*  
@@ -4807,12 +4807,12 @@ The English word *bangle* is Hindi *bangri* which is from वंग.
 **III**
 
 **जारण** signifying 'oxidizing of metals' has been used in the Indian alchemic literature. Hence has been derived our word for oxygen जारक. The common Hindi word for rust जर and जरना to rust', are from the Sanskrit $\\sqrt{}$जृृ, जरण, जारण.  
- Oxygen is adapted from French *oxygene*, intended to mean 'acidifying (principle),' *principe* *acidifiant*(Lavoisier). It is derived from Greek *oxus* sharp + *-gen*producing. Lavoisier's original term, proposed in 1777, was *principe oxygine*, changed 1785-6 to *principe oxygène*; thence in 1786 *oxygène* as substantive, spelt in *Nomenclature* of 1787 *oxigéne;* admitted in Dict. *Acad.* 1835 as *oxygène*. Lavoisier held it to be the essential principle in the formation of acids. This idea has been followed up in Japanese ![](../../../../../../../books_images/U-IMG-1693481350jjj.png)*san-so*acid-pure, German *Sauerstoff* and Russian *kislo-rod*. Soon after it was felt that oxygen was not an appropriate term: "Opponents particularly object, that the base of vital air does not deserve the title of oxygen, as many combinations of it are far from being acids." Med. Jrnl. I. 373 (year 1799).
+ Oxygen is adapted from French *oxygene*, intended to mean 'acidifying (principle),' *principe* *acidifiant*(Lavoisier). It is derived from Greek *oxus* sharp + *-gen*producing. Lavoisier's original term, proposed in 1777, was *principe oxygine*, changed 1785-6 to *principe oxygène*; thence in 1786 *oxygène* as substantive, spelt in *Nomenclature* of 1787 *oxigéne;* admitted in Dict. *Acad.* 1835 as *oxygène*. Lavoisier held it to be the essential principle in the formation of acids. This idea has been followed up in Japanese <MISSING_FIG href="../../../../../../../books_images/U-IMG-1693481350jjj.png"/>*san-so*acid-pure, German *Sauerstoff* and Russian *kislo-rod*. Soon after it was felt that oxygen was not an appropriate term: "Opponents particularly object, that the base of vital air does not deserve the title of oxygen, as many combinations of it are far from being acids." Med. Jrnl. I. 373 (year 1799).
 
 **IV**
 
  Hydro-gen appears in our terminology in its Indian form उद-जन.  
- Greek *hudro*, Latin *un*da, English *wet, water,* German *Wasser*, Russian *voda*, and similar words in European languages are from Sanskrit $\\sqrt{}$उद्,$\\sqrt{}$उन्द्, उद. Greek *-genes* born, is Sanskrit $\\sqrt{}$जन्. Hydrogen is so called because water is generated by its combustion. Cf. German *Wasser-stoff,* Russian *vodo-rod,* Japanese![](../../../../../../../books_images/U-IMG-1693482077jjjj.png) *sui-so* water-pure.  
+ Greek *hudro*, Latin *un*da, English *wet, water,* German *Wasser*, Russian *voda*, and similar words in European languages are from Sanskrit $\\sqrt{}$उद्,$\\sqrt{}$उन्द्, उद. Greek *-genes* born, is Sanskrit $\\sqrt{}$जन्. Hydrogen is so called because water is generated by its combustion. Cf. German *Wasser-stoff,* Russian *vodo-rod,* Japanese<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693482077jjjj.png"/> *sui-so* water-pure.  
 उद or उदक is an all-India word: Dardic (Tirahi) उवा (Kalasha) उक्, (Garvi, Torwali) ऊ; Hindi, Marathi उदक; Bengali, Gujarati उद, उदक; Tamil उदम्; Malayalam उदकम्; Telugu उदकमु; Kannada, Singhalese उद.  
  Phosphorus is again a Greek word which has its exact literary equivalent in Indian भास्वर. Greek *phos* is Sanskrit a 'light' and *-phorus* is Sanskrit (to which is also akin English *bear*). Thus भास्-भर would be the exact counterpart, but भास्वर is better sounding, yields the same sense and has been in use since times immemorial. The Telugu people have already used it (भास्वरमु) for phosphorus (vide P. Shankaranarayana, An English-Telugu Dictionary, Madras, 1928).  
  भास्वर 'shining, bright' is an all-India word: Hindi, Marathi, Bengali, Oriya भास्वर; Malayalam भासुरं; Telugu भास्वरमु.
@@ -4825,7 +4825,7 @@ The English word *bangle* is Hindi *bangri* which is from वंग.
  मन्द is an all-India word: Kashmiri मोन्दु Hindi मन्द, मांद; Sindhi मन्दो; Bengali, Gujarati, Marathi, Oriya, Kannada मन्द; Tamil, Malayalam मन्दम्; Telugu मंदमु; Singhalese मन्द 'small'.  
 Bromine \[from Greek *bromos* bad smell + -*ine*\]-  
 दुराघ्री \[ दुर् bad + आ$\\sqrt{}$घ्राto smell at + -ई-ine \].  
- Bromine emits an irritating vapour of disagreeable odour. Cf. Japanese![](../../../../../../../books_images/U-IMG-16934843651j.png)shu-so stench-pure.  
+ Bromine emits an irritating vapour of disagreeable odour. Cf. Japanese<MISSING_FIG href="../../../../../../../books_images/U-IMG-16934843651j.png"/>shu-so stench-pure.  
 Chromium from Greek chroma colour\]—वर्णातु \[ वर्ण colour + धातु \].  
  So called from the varied colours of its compounds.  
  वर्ण is an all-India word: Hindi, Bengali, Gujarati, Marathi, Kannada वर्ण; Oriya वर्ण्ण; Tamil a; Telugu  
@@ -5011,7 +5011,7 @@ It is insoluble in acids.
 
 **महातु** \[ महा great, noble + धातु \]— platinum \[ fromSpanish *platina*, from *plata* silver, originally a thinplate of metal \].  
 Platinum is the best among the noble metals. Cf.  
-**![](../../../../../../../books_images/U-IMG-1693550778केक.png)![](../../../../../../../books_images/U-IMG-1693550801कोक.png)Japanese *hak-kin* white-metal.**
+**<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693550778केक.png"/><MISSING_FIG href="../../../../../../../books_images/U-IMG-1693550801कोक.png"/>Japanese *hak-kin* white-metal.**
 
 **महा** is one of the commonest words in India, eitheras the first member of a compound or as an independentword: Hindi, Bengali, Gujarati, Marathi, Nepali, Oriya,Tamil, Malayalam **महाः** Telugu **महा**(in compounds only,e.g., महाधनमु gold, महादेवि, महा-जन)**;** Kanuada **महा, मा.**
 
@@ -5140,7 +5140,7 @@ Spanish *azoe*, Italian and Portuguese *azoto*, Japanese 室 素 *chis-so stop-p
  स्तोक and its descendants are widely distributed: Hindi, Bengali, Oriya स्तोक,थोड़ा; Panjabiथोड़ा ; Nepali थोर् ; Western Pahari (Bhadrawahi) थोड़ो, (Pangwali,Curahi) थोड़ा; Kumaoni ; थ्वाड़ा ; Gujarati थोडु; Marathiथोडें; Lahndi थोला; Sindhi थोरो; Telugu स्तोकमु; Kannada स्तोक; Malayalam स्तोकं.  
 ***T. BRITTLENESS.***  
 **भिदातु** \[$\\sqrt{}$ भिद् to break (भिदुर brittle) + धातु\]–bismuth \[German *bismuth, wismut*, of unknown origin\].  
- It is a brittle metal. Cf. Japanese![](../../../../../../../books_images/U-IMG-1693569637rblast.png)*SQ-em*grey lead.  
+ It is a brittle metal. Cf. Japanese<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693569637rblast.png"/>*SQ-em*grey lead.  
  Derivatives of $\\sqrt{}$भिद् are used all over India: Hindi भिदना, भेद; Bengali भेदन; Gujarati भेद, भेदवुं; Marathi भेद; भेदणें; Oriya भेदन; Telugu भेदनमु; Kannada भिद्, भेदन, Malayalam भेदनं.  
 ***U. SPECIAL SOURCE.***  
 **केत्वातु** \[केतु meteo + धातु\] —cobalt \[German *Kobalt*goblin\].  
@@ -5379,7 +5379,7 @@ which are still commonly so spelt in non-scientific use. Cf. "Basic substances s
 शृंगप्रस्तर hornstone**
 
  सं-रस amalgam. रस is mercury, hence रसायन "medicine prepared with mercury". सं-रस is an alloy of mercury with another metal or metals. Amalgam is etymologically connected with मालिश.  
-![](../../../../../../../books_images/U-IMG-1693034125Untitled2.jpg)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693034125Untitled2.jpg"/>  
  अन्धन and blende both mean "blinding". *Blende* is German, from *blenden* "to blind" in allusion to its dazzling lustre.
 
  असिताश्म (असित dark, अश्म stone) is basalt, a dark, hard species. असिताश्मिक is basaltic.
@@ -5422,16 +5422,16 @@ which are still commonly so spelt in non-scientific use. Cf. "Basic substances s
  वृक्किज and nephrite are isonyms, वृक्क and Greek nephros both mean "kidney", formerly worn as a remedy for kidney diseases. Also known as kidney stone.
 
  वैडूर्य and मरकत are the parents of beryl and emerald. Webster's New International Dictionary of the English Language (second edition):  
-![](../../../../../../../books_images/U-IMG-1693040101Untitled2.png)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693040101Untitled2.png"/>  
  हेम-वैडूर्य and chryso-beryl are isonyms, and *chrysos* both meaning "gold".
 
  अणु-प्रवणिज and micro-cline are isonyms, micro = अणु and cline = प्रवण "slope".
 
  टांकिजand boracite are isonyms, टंकण being borax.  
  नभोनीलिज (from नभोनील "sky blue") and lazurite are isonyms.Lazulite is व्योमनीलिज.  
-![](../../../../../../../books_images/U-IMG-1693040833Untitled3.jpg)(Webster)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693040833Untitled3.jpg"/>(Webster)
 
-![](../../../../../../../books_images/U-IMG-1693041265Untitled4.jpg)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693041265Untitled4.jpg"/>  
  इन्द्रगोप is an ancient word, signifying the insect cochineal, red in colour. The Indian readers who know the इन्द्रगोप have only to look to the coloured plate in Webster illustrating the carnelian, and be convinced that इन्द्रगोप is carnelian.
 
  पद्मराग "red lotus-coloured" for ruby is an ancient word.
@@ -6190,20 +6190,20 @@ pronounced. The pronunciation changes from locality to locality but the written 
 
 We shall start with taking examples from a publication of the United Nations. It is a glossary of technical terms concerning atomic energy. It was issued in March 1948. Alongside English, French, Russian and Spanish it gives Chinese terms. Chinese is the only Asian language recognised for use at the United Nations.
 
-![](../../../../../../../books_images/U-IMG-1693374193Untitled1.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693374193Untitled1.jpg"/>
 
 hsiin - huan - ch'i - (tzu -kung-ming - chia-su - chi)  
 follow circle instrument(magnetic - resonance - accelerate -implement) circuit
 
-![](../../../../../../../books_images/U-IMG-1693374813Untitled2.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693374813Untitled2.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693375418Untitled3.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693375418Untitled3.jpg"/>
 
  The Chinese Government has recently issued glossaries of several natural sciences. We shall take examples from them.
 
 **CHEMISTRY**
 
-![](../../../../../../../books_images/U-IMG-1693375577Untitled5.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693375577Untitled5.jpg"/>
 
 "Basic principles for giving names to chemical substances ".
 
@@ -6211,100 +6211,100 @@ It was published in August, 1953. It discusses chemical nomenclature chapter by 
 
 The second chapter deals with names of elements.
 
-![](../../../../../../../books_images/U-IMG-1693375759Untitled6.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693375759Untitled6.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693375955Untitled7.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693375955Untitled7.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693376255Untitled9.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693376255Untitled9.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693377876Untitled10.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693377876Untitled10.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693385244Untitled24.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693385244Untitled24.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693385273Untitled25.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693385273Untitled25.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693385526Untitled26.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693385526Untitled26.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693385552Untitled27.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693385552Untitled27.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693385794Untitled28.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693385794Untitled28.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693385811Untitled29.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693385811Untitled29.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693385829Untitled30.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693385829Untitled30.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693386045Untitled31.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386045Untitled31.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693386071Untitled32.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386071Untitled32.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693386357Untitled33.jpg)  
-![](../../../../../../../books_images/U-IMG-1693386386Untitled34.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386357Untitled33.jpg"/>  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386386Untitled34.jpg"/>
 
 ch'iang is a combination of the characters for oxygen and hydrogen.
 
-![](../../../../../../../books_images/U-IMG-1693386496Untitled36.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386496Untitled36.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693386420Untitled35.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386420Untitled35.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693386881Untitled37.jpg)  
-![](../../../../../../../books_images/U-IMG-1693386903Untitled38.jpg)  
-![](../../../../../../../books_images/U-IMG-1693386922Untitled39.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386881Untitled37.jpg"/>  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386903Untitled38.jpg"/>  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386922Untitled39.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693379581Untitled21.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693379581Untitled21.jpg"/>
 
 **CYTOLOGY**
 
-![](../../../../../../../books_images/U-IMG-1693379606Untitled22.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693379606Untitled22.jpg"/>
 
  It was published in March, 1953. It contains two thousand terms. We have selected as examples two series, one of cell, and the other of chiasma, on account of their simplicity.
 
-![](../../../../../../../books_images/U-IMG-1693379636Untitled23.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693379636Untitled23.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693379278Untitled19.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693379278Untitled19.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693379298Untitled20.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693379298Untitled20.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693379072Untitled17.jpg)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693379072Untitled17.jpg"/>  
   It was issued in December 1953. It contains over 1800 terms.The book deserves translation in full.
 
-![](../../../../../../../books_images/U-IMG-1693379052Untitled18.jpg)![](../../../../../../../books_images/U-IMG-1693378844Untitled15.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693379052Untitled18.jpg"/><MISSING_FIG href="../../../../../../../books_images/U-IMG-1693378844Untitled15.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693378870Untitled16.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693378870Untitled16.jpg"/>
 
 **PLANT PATHOLOGY**  
-![](../../../../../../../books_images/U-IMG-1693378419Untitled13.jpg)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693378419Untitled13.jpg"/>  
  It was published in December, 1953. It contains a thousand words. Here we have selected a few.
 
-![](../../../../../../../books_images/U-IMG-1693378605Untitled14.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693378605Untitled14.jpg"/>
 
 **MORPHOLOGY OF SPERMATOPHYTA**
 
-![](../../../../../../../books_images/U-IMG-1693378157Untitled11.jpg)  
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693378157Untitled11.jpg"/>  
  It was published in october 1953. It contains over two thousand terms. Alomg with English are also given Latin terms. There is a special appendix for russian.
 
-![](../../../../../../../books_images/U-IMG-1693378307Untitled12.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693378307Untitled12.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693379294Untitled.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693379294Untitled.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693376324Untitled.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693376324Untitled.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693376113Untitled.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693376113Untitled.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693375801Untitled.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693375801Untitled.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693375614Untitled.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693375614Untitled.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693373829Untitled.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693373829Untitled.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693373438Untitled.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693373438Untitled.jpg"/>
 
-![](#)
+<MISSING_FIG href="#"/>
 
-![](../../../../../../../books_images/U-IMG-1693372914Untitled.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693372914Untitled.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693372442Untitled.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693372442Untitled.jpg"/>
 
-![](../../../../../../../books_images/U-IMG-1693305520Untitled.jpg)
+<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693305520Untitled.jpg"/>
 
 |                                                   |                                                                |
 |:-------------------------------------------------:|:--------------------------------------------------------------:|
@@ -6899,4 +6899,3 @@ Zimmer—A Popular Dictionary of Botanical Names and Terms, by G. F. Zimmer,**
 **A-Z**
 
 \]
-

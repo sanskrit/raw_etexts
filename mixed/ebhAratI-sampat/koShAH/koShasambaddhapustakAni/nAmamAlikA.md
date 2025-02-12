@@ -12,6 +12,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0OTI2MTE0MjU
 
 \[
 
+
+
 ग़्ग् नाममालिका
 
 स्वर्गादिनामधेयप्रकरणम्
@@ -1915,5 +1917,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQ0OTI2MTE0MjU
 This is prepared an d compiled by
 
 Dr.P .Srinivas , Lecturer in Vyakarana , S.V.V.V.S.College , Bowenpally, Secunderabad, A.P.500011  
+
+
 
 \]

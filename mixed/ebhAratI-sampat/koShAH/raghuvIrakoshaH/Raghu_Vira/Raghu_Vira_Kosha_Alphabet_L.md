@@ -342,7 +342,7 @@ ladder-to-heaven = white root** (*Polygonatum multiflorum*) **सितमूल
 laden weightउद्भृत भार, चढ़ाया हुआभार  
 ladies महिलाएं**
 
-**![](../../../books_images/U-IMG-1691820456Untitled23.png)For the possessive *ladies*' incompounds see under *lady's*-**
+**<MISSING_FIG href="../../../books_images/U-IMG-1691820456Untitled23.png"/>For the possessive *ladies*' incompounds see under *lady's*-**
 
 **ladies gallery महिला-दीर्घा  
 lading वहन, उद्भरण** *n.*

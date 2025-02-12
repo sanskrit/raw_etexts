@@ -48,7 +48,7 @@ Krishna, the description of the summer-season, the description of the rainy seas
 **॥ श्रीः ॥**
 
 **॥ रुक्मिणीकल्याणम् ॥**  
-**![](../books_images/U-IMG-1735275920AAA.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1735275920AAA.png"/>**
 
 **वामालकावल्लभभावमुद्रा-  
 सीमाविभागेन्द्रमणीशिलेव।  

@@ -320,7 +320,7 @@ Entering an excellent garden in course of his pursuit, he heard a damsel sing wh
 
 Kama of Trilinga, a Sūdra King
 
-![](../books_images/U-IMG-1722921733Screenshot2024-08-06104709.png)
+<MISSING_FIG href="../books_images/U-IMG-1722921733Screenshot2024-08-06104709.png"/>
 
 **Lexicography**
 
@@ -1379,7 +1379,7 @@ Further details about this work will be recorded in Vol. VI of this series.
 
 **इति भट्ट-वामनस्य कृतिर्हंस-सन्देशः समाप्तः॥**
 
-![](../books_images/U-IMG-1723033676Screenshot2024-07-30115049.png)
+<MISSING_FIG href="../books_images/U-IMG-1723033676Screenshot2024-07-30115049.png"/>
 
 **VERSE-INDEX OF THE HAṂSA-DŪTA.**
 
@@ -1470,4 +1470,3 @@ Further details about this work will be recorded in Vol. VI of this series.
 |     शेमुषी      |     शेमुषी     |
 
 \]
-

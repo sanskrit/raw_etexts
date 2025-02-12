@@ -152,7 +152,7 @@ seems to be the work of Keśava[^28]The commentary in Hındı is by Gangārāma,
 
 [^34]: "विद्याजातविशारद Ibid"
 
- A great Alankāra work called Rasārnavasudhākara by Simhabhūpāla has been published in the Trivandrum Sanskrit Series by the late Mahāmahopādhyāya Dr T Ganapati Sastri as No 50 in 1916 Here there is a long introductory portion[^35] where the author gives much information about himself There is the caste born of the feet of Visnu (the Sūdra caste)[^36] पादाम्बुजाज्जातो वर्ण verse 4") Belonging to that caste there is the dynasty of Recalla where there was the king named Dacana[^37]He defeated the Pandya king[^38], and he had the Title of Khadganārāyana[^39]His wife was Vocamāmbā[^40]who belonged to the Tāmarasa dynasty They had three sons[^41], Śinga Prabhu, Vennama Nayaka, and [Reca](॑# "शिङ्गप्रभुर्वेन्नमनायकश्च वीराग्रणी रेचमहीपतिश्च verse 9")Śinga became the [king](http://3 "तत्र शिङ्गमहीपाले पालयत्यखिला महीम् verse 11") after the death of Dacana His brother Reca had a son named Nāgaya Nāyaka[^42]who had the Title of Kuthārırāya[^43]and who was also called Rāhuttarāya[^44] Śinga Prabhu had two sons named Ananta and Mādhava[^45] This Mādhava had many sons[^46]of whom Vedagırindra was the eldest[^47]The elder brother of Mādhava, namely, Ananta became known as Anapota also[^48] His wife was Annamāmbā[^49] They had two sons[^50], the elder was Devagirīśvara[^51] and the second was Singabhūpati[^52]He lived in his anscestral city of Rājācala[^53]His kingdom lay between the Vidhya mountains and the Śrīśaila[^54]
+ A great Alankāra work called Rasārnavasudhākara by Simhabhūpāla has been published in the Trivandrum Sanskrit Series by the late Mahāmahopādhyāya Dr T Ganapati Sastri as No 50 in 1916 Here there is a long introductory portion[^35] where the author gives much information about himself There is the caste born of the feet of Visnu (the Sūdra caste)[^36] पादाम्बुजाज्जातो वर्ण verse 4") Belonging to that caste there is the dynasty of Recalla where there was the king named Dacana[^37]He defeated the Pandya king[^38], and he had the Title of Khadganārāyana[^39]His wife was Vocamāmbā[^40]who belonged to the Tāmarasa dynasty They had three sons[^41], Śinga Prabhu, Vennama Nayaka, and Reca[^154]Śinga became the [king](http://3 "तत्र शिङ्गमहीपाले पालयत्यखिला महीम् verse 11") after the death of Dacana His brother Reca had a son named Nāgaya Nāyaka[^42]who had the Title of Kuthārırāya[^43]and who was also called Rāhuttarāya[^44] Śinga Prabhu had two sons named Ananta and Mādhava[^45] This Mādhava had many sons[^46]of whom Vedagırindra was the eldest[^47]The elder brother of Mādhava, namely, Ananta became known as Anapota also[^48] His wife was Annamāmbā[^49] They had two sons[^50], the elder was Devagirīśvara[^51] and the second was Singabhūpati[^52]He lived in his anscestral city of Rājācala[^53]His kingdom lay between the Vidhya mountains and the Śrīśaila[^54]
 
 [^35]: "verse 1-44"
 
@@ -193,6 +193,8 @@ seems to be the work of Keśava[^28]The commentary in Hındı is by Gangārāma,
 [^53]: "राजा स राजाचलनामधेयामध्यास्य वशक्रमराजधानीम् verse 41"
 
 [^54]: " विन्ध्यश्रीशैलमध्यक्ष्मामण्डल पालयन्verse 42"
+
+[^154]: ॑# "शिङ्गप्रभुर्वेन्नमनायकश्च वीराग्रणी रेचमहीपतिश्च verse 9"
 
   Another work of Simhabhūpāla is Kuvalayāvalī or Ratnāpañcālikā, published in the Trivandrum Sanskrit Series by Dr L A Ravi Varma as No 146 in 1941 This is a small drama in four Acts In the Prologue the author is mentioned as Śrī Śingabhūpāla[^55], otherwise known as Khadganārāyana[^56] who lived at the capital city named Rājaśaila[^57]His mother wasAnnamāt[^58]ā It is also stated there that one Viśveśvara had spoken very highly of his poetry[^59] The Viśveśvara mentioned in the Prologue must be the author of Camatkāracandrikā, in the colophon of this work there is the mention of Simhabhūpāla[^60]
 
@@ -304,7 +306,7 @@ in Camatkāracandrikā, Viśveśvara refers to Rasārnavasudhākara for details[
 
 C KUNHAN RAJA
 
-![](../books_images/U-IMG-1693802500101.png)
+<MISSING_FIG href="../books_images/U-IMG-1693802500101.png"/>
 
 |              |
 |:------------:|
@@ -379,7 +381,7 @@ C KUNHAN RAJA
 
 ९. श्लोकानामर्धानुक्रमणिका
 
-![](../books_images/U-IMG-1690719690Screenshot2023-07-30175013.png)
+<MISSING_FIG href="../books_images/U-IMG-1690719690Screenshot2023-07-30175013.png"/>
 
 .
 
@@ -401,7 +403,7 @@ C KUNHAN RAJA
 
 Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
-![](../books_images/U-IMG-1690719652Screenshot2023-07-30175013.png)
+<MISSING_FIG href="../books_images/U-IMG-1690719652Screenshot2023-07-30175013.png"/>
 
 .
 
@@ -497,9 +499,9 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **यद्यत्पश्यति तत्सर्व पश्येदात्मवदात्मनि।’इति।**
 
-ग्रामविभागवर्णरचनाऽलंकारजातिक्रम।ग्रामशब्देन लोका उच्यन्ते[^154], तेषां विभागः, वर्णा ब्राह्मणादयः,तेषां रचना,वर्णानामानुलोम्येन प्रातिलोम्येन चोत्पन्ना या जातयस्ता वर्णोपस्कारकत्वेनालंकारजातय उच्यन्ते,तेषां ग्रामविभागादीना क्रम, यस्माद्भवतीत्यध्याहार, ‘यत्र क्रियान्तराभावस्तत्रास्तिर्भवति पर’इति शाब्दन्यायात्। एतेनेश्वर प्रति जगतस्तटस्थलक्षणत्वं दर्शित यथा जन्मादिसूत्रे ‘यतो वै-’इति वाक्यं विषयीकृत्य प्रतिपादितम्‘ब्राह्मणो ऽस्य मुखमासीत्’इत्यादिश्रुतौ च। नादतनु नादविग्रहम्, ‘तत्सृष्ट्वातदेवानुप्राविशत्’इति श्रुते। उद्धुरजगद्गीतम् उद्धुरमुद्भटं यथा भवति तथा जगता गीत स्तुत तं शकर मुदेनिरतिशयसुखावाप्त्यै वन्दे प्रणमामि। अप्रस्तुतप्रतीयमानस्वरपक्षे तु– सूरीणा तद्विदा हृत्पङ्कजे मन्द्रस्थाने। ब्रह्मग्रन्थीति पदस्य स एवार्थ। चित्तेन विवक्षमाणात्मप्रेरितेन मनसा। श्रुतिपदम्, श्रुतय षड्जादिस्वराणामभिव्यञ्जिकाश्छन्दोवत्यादय, तासा पदम्। पदमिति जातावेकवचनम्, पदं स्थानानीति। ऊर्ध्वनाडी- संलग्नायास्तिरश्च्यो नाड्यस्तासु चित्ताकृष्टमारुताहतेरुत्पन्नो नाद पदशब्देन लक्ष्यते, तत्स्थे तदुपचारात्। तदनु तदविच्छेदेन रञ्जक, स्वकारणश्रुतेःस्वस्वरूपोत्पादकत्वाच्छ्रोतृप्रीतिजनकत्वाच्च। यो ऽयं शास्त्रप्रसिद्धत्वेनानुभूयमान। स्वयं राजत इति, प्रयोगे सहकारिकारणानपेक्ष प्रकाशतइत्यर्थः। एतेनाक्षरसाम्यात्स्वरशब्दनिरुक्तिर्दर्शिता। ग्रामेत्यादि। ग्रामाः षड्जग्रामादय तेषां विभाग, वर्णा स्थाय्यादय तेषां रचना, अलकारा प्रसन्नाद्यादय, जातयः षाड्ज्यादय, एतेषां वक्ष्यमाणलक्षणाना ग्रामविभागादीना क्रमो यस्मात्कारणभूतात्स्वराद्भवति। नादतनु नादात्मकम्। उद्धुरजगद्गीतम्, विशिष्ट स्वरसदर्भोगीतम्, उद्धुरमुद्भट जगद्गीतं यस्मादिति तथोक्तम्, तं शंकरं सुखकरं मुदेआनन्दाविर्भावाय वन्दे स्तौमि॥१॥
+ग्रामविभागवर्णरचनाऽलंकारजातिक्रम।ग्रामशब्देन लोका उच्यन्ते[^155], तेषां विभागः, वर्णा ब्राह्मणादयः,तेषां रचना,वर्णानामानुलोम्येन प्रातिलोम्येन चोत्पन्ना या जातयस्ता वर्णोपस्कारकत्वेनालंकारजातय उच्यन्ते,तेषां ग्रामविभागादीना क्रम, यस्माद्भवतीत्यध्याहार, ‘यत्र क्रियान्तराभावस्तत्रास्तिर्भवति पर’इति शाब्दन्यायात्। एतेनेश्वर प्रति जगतस्तटस्थलक्षणत्वं दर्शित यथा जन्मादिसूत्रे ‘यतो वै-’इति वाक्यं विषयीकृत्य प्रतिपादितम्‘ब्राह्मणो ऽस्य मुखमासीत्’इत्यादिश्रुतौ च। नादतनु नादविग्रहम्, ‘तत्सृष्ट्वातदेवानुप्राविशत्’इति श्रुते। उद्धुरजगद्गीतम् उद्धुरमुद्भटं यथा भवति तथा जगता गीत स्तुत तं शकर मुदेनिरतिशयसुखावाप्त्यै वन्दे प्रणमामि। अप्रस्तुतप्रतीयमानस्वरपक्षे तु– सूरीणा तद्विदा हृत्पङ्कजे मन्द्रस्थाने। ब्रह्मग्रन्थीति पदस्य स एवार्थ। चित्तेन विवक्षमाणात्मप्रेरितेन मनसा। श्रुतिपदम्, श्रुतय षड्जादिस्वराणामभिव्यञ्जिकाश्छन्दोवत्यादय, तासा पदम्। पदमिति जातावेकवचनम्, पदं स्थानानीति। ऊर्ध्वनाडी- संलग्नायास्तिरश्च्यो नाड्यस्तासु चित्ताकृष्टमारुताहतेरुत्पन्नो नाद पदशब्देन लक्ष्यते, तत्स्थे तदुपचारात्। तदनु तदविच्छेदेन रञ्जक, स्वकारणश्रुतेःस्वस्वरूपोत्पादकत्वाच्छ्रोतृप्रीतिजनकत्वाच्च। यो ऽयं शास्त्रप्रसिद्धत्वेनानुभूयमान। स्वयं राजत इति, प्रयोगे सहकारिकारणानपेक्ष प्रकाशतइत्यर्थः। एतेनाक्षरसाम्यात्स्वरशब्दनिरुक्तिर्दर्शिता। ग्रामेत्यादि। ग्रामाः षड्जग्रामादय तेषां विभाग, वर्णा स्थाय्यादय तेषां रचना, अलकारा प्रसन्नाद्यादय, जातयः षाड्ज्यादय, एतेषां वक्ष्यमाणलक्षणाना ग्रामविभागादीना क्रमो यस्मात्कारणभूतात्स्वराद्भवति। नादतनु नादात्मकम्। उद्धुरजगद्गीतम्, विशिष्ट स्वरसदर्भोगीतम्, उद्धुरमुद्भट जगद्गीतं यस्मादिति तथोक्तम्, तं शंकरं सुखकरं मुदेआनन्दाविर्भावाय वन्दे स्तौमि॥१॥
 
-[^154]: "लक्ष्यन्ते"
+[^155]: # "लक्ष्यन्ते"
 
 (सुधाकरः)  
 
@@ -2717,8 +2719,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **यैरङ्कैर्नष्टसंख्या स्यान्मौलैकाङ्कसमन्वितैः॥६८॥**
 
-**तेषु लोष्टं [क्षिपेन्मूले](॑॑# "क्षिपेन्मौल") लोष्टस्थानमितं भवेत्।  
+**तेषु लोष्टं क्षिपेन्मूले[^156] लोष्टस्थानमितं भवेत्।  
 नष्टतानस्वरस्थानं ततो यावतिथे पदे॥६९॥**
+
+[^156]: ॑॑# "क्षिपेन्मौल"
 
   (क०) एतावतिथ इति संख्याविशेषमुक्त्वा किरूप इति स्वरूपं विषयीकृत्य यः पृच्छ्यते सो ऽप्रतीयमानरूपत्वान्नष्ट इत्युच्यते। नष्टसंख्या नष्टतानसंख्या। उत्तरमन्द्राया चतुःस्वरक्रमे तावदष्टादशस्तान इत्युक्त्वा मौलैकाङ्कसमन्वितैः, तिर्यक्पङ्क्तिष्वाद्या सप्तकोष्ठिका पङ्क्तिर्मूलम्, तत्र भवो मौलः, स चासावेकाङ्कश्च, तत्राद्यकोष्ठस्थित इति यावत्, तेन समन्वितै, यैरङ्कैर्भिन्नपङ्क्तिकोष्ठस्थितैः, चतुर्थपङ्क्तौ द्वादशाङ्केन तृतीयपङ्क्तौ चतुरङ्केण द्वितीयपङ्क्तावेकाङ्केन चैतैर्मिलितैरष्टादशसंख्या स्यात्, तेष्वङ्केषु लोष्ट प्रत्येक क्षिपेत्। नष्टतानस्वरस्थानं नष्टतानस्वरस्य प्रापकं स्थानम्, चालितलोष्टाक्रान्तकोष्ठ इत्यर्थ। मूले तिर्यगाद्यपङ्क्तौ, लोष्टस्थानमितम्, लोष्टस्थानं बिन्दुकोष्ठस्तेन मितम्। बिन्दुकोष्ठेन सह परिगणितमित्यर्थ। अन्यथा स्वकोष्ठकात्कोष्ठसंख्यागुणमित्यत्रोक्तनियमो ऽत्रापि प्रसरेदित्येवमुक्तम्। ततो ऽनन्तरम्, अधः क्रमाद्यावतिथे पदे लोष्टो ऽस्ति क्रमान्तिमस्वरात्पूर्वस्तावतिथः स्वरो भवेदिति। प्रकृते ऽष्टादशे ताने ऽन्त्यलोष्टस्य तृतीयकोष्ठस्थितत्वात्क्रमान्तिमस्वरात्पूर्वस्तृतीय ऋषभो नष्टतानान्तिमत्वेन लभ्यते। लब्धत्यागादि पूर्ववदित्यतिदेशः। तदुद्दिष्टोक्तप्रकारेण कर्तव्यमित्यर्थः। तथा च कृते सति, ऋषभ त्यक्त्वा सगमेति क्रमो भवति। तद्वदुपान्त्यलोष्टस्यापि तृतीयकोष्ठस्थितत्वात्क्रमान्तिमस्वरात्पूर्वस्तृतीय षड्जो नष्टोपान्त्यत्वेन लभ्यते। ततो ऽपि गमेति क्रमो द्वितीयलोष्टस्य द्वितीयकोष्ठस्थितत्वात्क्रमान्तिमाद् द्वितीयो गांधारो नष्टद्वितीयत्वेन लभ्यते। तत पारि-
 
@@ -2802,7 +2806,7 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **.**
 
-![](../books_images/U-IMG-1691024984Screenshot2023-08-03063917.png)
+<MISSING_FIG href="../books_images/U-IMG-1691024984Screenshot2023-08-03063917.png"/>
 
 .
 
@@ -2847,7 +2851,7 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 .
 
-![](../books_images/U-IMG-1691063576Screenshot2023-08-03172232.png)
+<MISSING_FIG href="../books_images/U-IMG-1691063576Screenshot2023-08-03172232.png"/>
 
 .
 
@@ -2871,7 +2875,7 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **.**
 
-![](../books_images/U-IMG-1691065367Screenshot2023-08-03172232.png)
+<MISSING_FIG href="../books_images/U-IMG-1691065367Screenshot2023-08-03172232.png"/>
 
  .
 
@@ -4892,6 +4896,8 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 | ११  | गा॑ | गा॑ | पा॑ | ध॑म॑ | धा॑ | नि॑ध॑ | पा  | पा  |
 |    |  ०  |    |    |     |    |      |    |    |
 
+  
+
 |     |     |     |      |           |     |     |     |     |
 |:---:|:---:|:---:|:----:|:---------:|:---:|:---:|:---:|:---:|
 | १२  | मा॑ | पा॑ | मा॑ | प॑रि॑ग॑ | गा॑ | गा॑ | गा॑ | गा॑ |
@@ -5722,7 +5728,7 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **इति प्रथमे स्वरगताध्याये सप्तमं जातिप्रकरणम्॥७॥**
 
-**![](#)![](../books_images/U-IMG-1691492315Screenshot2023-08-03172232.png)**
+**<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1691492315Screenshot2023-08-03172232.png"/>**
 
 .
 
@@ -5962,10 +5968,10 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **यद्वा यथाऽक्षरे युग्मे गुर्वोः प्रथमयोर्यदा॥२०॥**
 
-**एकैकं चित्रमार्गादि प्रयुज्य चगणात्मकम्[^155]।  
+**एकैकं चित्रमार्गादि प्रयुज्य चगणात्मकम्[^157]।  
 मात्राभिरष्टभिर्युक्तं दक्षिणे ध्रुवकाऽऽदिभिः॥२१॥**
 
-[^155]: "चगणान्वितम्"
+[^157]: # "चगणान्वितम्"
 
 **प्रयुज्यते तदा गीतिर्मागधीत्यभिधीयते।**
 
@@ -6047,7 +6053,7 @@ Anubandhas 8 and 9 are marked 4 and 5These figures may be deleted
 
 **शुद्धविकृतस्वरपट्टिका**
 
-**![](../books_images/U-IMG-1691804353Screenshot2023-08-12070843.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1691804353Screenshot2023-08-12070843.png"/>**  
 
 **कैशिको निश्च्युत षड्जो विकृतर्षभ एव च।  
 षड्जग्रामे प्रयोक्तव्या मध्यमग्रामशत्रव॥१॥**

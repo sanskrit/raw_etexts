@@ -1763,6 +1763,8 @@ Chem.
 
 m\.
 
+  
+
 calcinable
 
 adj.
@@ -4679,6 +4681,7 @@ Pharm.
 
 *f.*
 
+  
 Canadian maidenhair
 
 (*Adiantumpedatum*)
@@ -5170,6 +5173,8 @@ Anat.
 श्व-दन्त, एककूट दन्त
 
 *m.*
+
+  
 
 canine incisors दंष्ट्र
 
@@ -6388,6 +6393,8 @@ Capparis leucophylla = Capparis spinosa
 Capparis sepiaria कन्थारी करीर
 
 (Basu, Hin. कन्थारी,Guj. कन्थारो,Mar. kanthar, Ben. kantagurkamai)
+
+  
 
 Capparis spinosa
 
@@ -19723,7 +19730,7 @@ Cheilostomata
 
 Zool.
 
-(orifice is closed by a chitinous lip or 'operculum'. Gk.![](../../../../../../../../../../../../../../../books_images/U-IMG-1688125550seem.jpg)'lip'
+(orifice is closed by a chitinous lip or 'operculum'. Gk.<MISSING_FIG href="../../../../../../../../../../../../../../../books_images/U-IMG-1688125550seem.jpg"/>'lip'
 
 — CNH.II.477)
 
@@ -21529,6 +21536,7 @@ chiffchaff
 
 f\.
 
+  
 Ch. I. G. G.
 
 (Chief Inspector of Grain Godowns)
@@ -23073,6 +23081,7 @@ Psychophys.
 
 m\.
 
+  
 chlor-, chloro- 1.
 
 ('green' and not chlorine)
@@ -23654,6 +23663,7 @@ Mineral.
 
 n\.
 
+  
 chloritize
 
 vb.
@@ -33953,6 +33963,7 @@ complicity
 
 *f.*
 
+  
 compliment समादर
 
 m\.

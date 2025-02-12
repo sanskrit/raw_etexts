@@ -966,6 +966,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjI4NTI2NTMzODc
 | **१९ सामंत**     |   १ सामंत     |
 | **२० कांभोजी**   |   १ कांभोजी   |
 
-# समाप्तम् **![](../books_images/U-IMG-1694242573Chitram.jpg)**
+# समाप्तम् **<MISSING_FIG href="../books_images/U-IMG-1694242573Chitram.jpg"/>**
 
 \]

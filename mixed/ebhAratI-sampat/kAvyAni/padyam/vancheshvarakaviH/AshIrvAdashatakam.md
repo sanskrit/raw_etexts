@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDg3OTUyMTEzMDk
 
 **आशीर्वादशतकम्**
 
-**![](../books_images/U-IMG-172268013873.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172268013873.png"/>**
 
 **कल्याणं वः करोतु प्रलयघनपयोव्याप्तलुप्तप्रपञ्च–  
 प्राग्विन्यासप्रकारक्रमसदृशपुनः कल्पनानल्पशिल्पी।  

@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1MDgwMTY1ODE
 +++
 [[तर्कशास्त्र-पारिभाषिक-शब्दावली	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MjA1MDgwMTY1ODE1NTQ0&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 ***Prepared under the auspices of the University of Nagpur***
 
@@ -54,7 +54,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1MDgwMTY1ODE
 
 **नागपुर**
 
-[**PREFACE**](#)
+[**PREFACE**[^1]
+
+[^1]: #
 
 Logic is the science that deals with the canons and criteria of validity in thought and demonstration; the science of the normative formal principles of reasoning.
 

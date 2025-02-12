@@ -17,6 +17,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQ1ODEwOTkyODA
 
 \[
 
+
+
 **B, b** (as a symbol used to denote or indicate anyone or anything arbitrarily) **ख** (in case of
 
 distinction being required between small and capital lettors: b ख B खा)
@@ -362,6 +364,8 @@ Bacillus coliconcentricus
 
 (from the alimentary canal in yellow fever cases)
 
+
+
 पीतज्वरीय आन्त्र-द.  
 Bacillus coli dysentericus
 
@@ -633,6 +637,7 @@ and fatty acids) **शर्करा-**
 
 **Bacillus havaniensie liquefaciens** (produces a blood-red pigment) **रुधिर-रंगा-द.**  
 
+
 Havelburg's Bacillus (found in the stomach and intestines of yellow fever patients)
 
 पीतज्वरान्त्र द.
@@ -716,6 +721,8 @@ the liver produced by injecting butter) **संयक्ष्मनवनी�
 **Bacilluslepisepticus=Pasterella cuniculicida**  
 **Bacillus** **leporis lethalis** (from the intestines of yellow–fever cadavers)**पीतज्वर–शव–द.**  
 **Bacillus** **leprae=Mycobacterium leprae Lesage's** **bacillus** (from the green, alvine discharges
+
+
 
 of infants) **हरितविसार-द.**
 
@@ -3476,6 +3483,7 @@ bearing 1.** *Mach.***भारू***m.*
 
 **करना5.**(to beat time) **ताल देना, to beat a drum ढोल बजाना**  
 
+
 **beat** *v.i.* **1.**(beating of the heart) **स्पन्दन2.विजय प्राप्त करना3.***Hunting* **दौड़ना, भागना**  
 **beat** *n.* **1.**(protective territorialcharge)**परिसर***m.***2.***Hunting***हांका3.***Police***परिसरण***n.*
 
@@ -5717,6 +5725,8 @@ Wharton) **साम्य-याचिका** (याचिका 'petition' C
 **billion-dollar grass = sanwa millet श्यामाक *m.*सांवा  
 bill issued निर्गमित देयक**
 
+
+
 **bill market विपत्र-विपणि**  
 **bill of adventure** (a writing signed by a merchant, stating that the proporty in goods shipped
 
@@ -5835,6 +5845,8 @@ the**bill was passed विधेयक पारित किया गया**
 **binding agent बन्धन-कर्ता**  
 **binding agreement बन्धनकारी संविद्**  
 **binding cloth बन्धन-वस्त्र**
+
+
 
 **binding covers बन्धनावरण  
 binding foreman बन्धन-देशक  
@@ -7941,6 +7953,8 @@ board, as in the process of making leather supple)
 
 **3.**(to furnish with regular meals) **भोजन देना, 4.**(to play a card face upon the table)**उन्मुखखेलन**
 
+
+
 **5.**(to stretch, press etc.-said of hosiery, fabrics etc. on a board) **फलकस्तरण, स्तरण,6.**(to enter) **प्रवेश करना, घुसना,7.**(as, a ship) **चढ़ना, अभ्यारोहण, नावारोहण,8.**(to approach) **अभिगमन**
 
 **board and lodging भोजनावास  
@@ -8060,6 +8074,8 @@ interests)**व्यापार-मण्डल**
 **bob** *vb.* **1.धोखा देना, धोखा देकर लाभ उठाना, छलना, निश्छलन, 2.उपहास करना, 3.**(to tap) **टप टप**
 
 **करना, खटखटाना,4.**(to bob the head in courtesy ) शिरो-
+
+
 
 **नमन 5.झटके से हिलाना 6.**(to carry on a bob, as logs) **अग्रवहण, 7.**(to polish with a bob) **चक्रमार्जन, चीरमार्जन**
 
@@ -12584,6 +12600,8 @@ Biochem.
 
 *m.*
 
+  
+
 **butyro-, butyr-** (butyric) *Chem.* **वृति-**(घृतिक)  
 **butyro-chloral hydrate** *Chem.* **घृति-नीरसु जलीय**  
 **butyro-lactone** *Chem.* **घृति-दुग्धा**  
@@ -12751,5 +12769,6 @@ authority of) **के प्राधिकार से**
 **byzantium purple = purple of the ancients** *Col. Ind.* **पुराण नीलारुण**  
 **Bz.** (benzene) *Chem.* **धू** (धूपेन्य)  
 **Bz**(benzoyl) *Chem.* **धूप** (धूपूल)
+
 
 \]

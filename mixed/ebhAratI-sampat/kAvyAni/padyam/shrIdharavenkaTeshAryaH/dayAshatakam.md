@@ -15,16 +15,39 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjg5Nzg0NDU
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **॥ दयाशतकम् ॥**
+
+
 
 **श्री श्रीधरवेङ्कटेशार्येण**
 
 **विरचितम् ।**
 
+
+
 **श्रीरङ्गस्थ  
 श्रीवाणीविलासमुद्रायन्त्रालये  
 संमुद्रितम् ।  
 १९११**  
+
+
+
 
 **॥ श्रीः ॥**
 
@@ -543,5 +566,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgzMjg5Nzg0NDU
 श्रीपार्वतीशकरुणा दिशति प्रहृष्टा ॥१०२ ॥
 
 **इति दयाशतकम् संपूर्णम् ॥**
+
+
+
+
+
+
+
+
+
+
+
 
 \]

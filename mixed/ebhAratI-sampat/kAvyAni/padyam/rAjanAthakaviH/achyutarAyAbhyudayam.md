@@ -52,6 +52,8 @@ Narasa or Narasimha
                          \।  
                                    
                    Chinna Venkata         
+                                   
+     
 
  There was once a king named Timma among the Tuluva Dynasty of kings in Vijayanagar. His wife was Devaki. Their son was Iswara whose wife was Bukkamma. They had two issues Narasimha and Timman. The former became the Emperor and captured the fort of Manavadurga and on the Nizam of that place craving his pardon, he gave back the fort to the Nizam, and then subdued Seringapatam. He then overcame the Marawas and took hold of Madura and vanquished Konetiraja. Finally he made Vijayanagar his capital. He had three queens each of whom gave birth to a son. These three sons became kings one after another and the last was Achyuta Raya whose queen was Varadambal. Achyuta Raya was crowned as king with his son Chinna Venkatadri as Yuvaraja. After he ascended the throne, the Prime Minister one day reported to him, that the Chola king had decamped from his kingdom and sought refuge of the king of Chera who had deprived the Pandyan king of his legitimate dominions. The Emperor got enraged on hearing this and immediately ordered his forces. On an auspicious day he started towards the South and reached Chandragiri. Thence he went to Tirupati where he stayed for some time. From there he went to Kalahasti and Vishnukanchi. Tiruvannamalai was next reached and finally Srirangam. Here he halted and sent his brother-in-law to punish the Chera king. Accordingly his brother-in-law, the son of Salagaraja went through Madura to the shores of the Tambraparni. From there he sent his commander-in-chief against the Chera king. Meanwhile the King of Travancore who was known by the title of “Tiruvadi,” hearing of the expedition of the emperor of Vijayanagar, collected his forces and took his stand on the shores of the Tambraparni. A regular battle ensued between the two opposing forces with the result that the Vijayanagar army was victorious. Immediately, the Chera, king handed over the Chola king to Prince Salagaraja and took refuge under him. Prince Salagaraja recognised the Chera king and gave back to the Pandyan Chief the dominions that were dominions that were once his. Then desiring to worship God Anantapadmanabha on his return way, he reached the Malaya Mountain and the sea.
 
@@ -73,11 +75,11 @@ perienced some difficulty in choosing the best readings from the different manus
 
 ॥ अच्युतरायाभ्युदयम् ॥
 
-![](../books_images/U-IMG-1700933926Screenshot2023-11-25230718.png)  
+<MISSING_FIG href="../books_images/U-IMG-1700933926Screenshot2023-11-25230718.png"/>  
 
 प्रथमः सर्गः।
 
-![](../books_images/U-IMG-1700933953Screenshot2023-11-25230754.png)
+<MISSING_FIG href="../books_images/U-IMG-1700933953Screenshot2023-11-25230754.png"/>
 
 **नालीकाक्षमलीकाक्षं नागेशयमगेशयम्  
 विपुंगवध्वजं धाम पुंगवध्वजमाश्रये ॥**
@@ -491,11 +493,11 @@ perienced some difficulty in choosing the best readings from the different manus
 
 **इति प्रथमः सर्गः॥**
 
-![](../books_images/U-IMG-1700987922Screenshot2023-11-26140825.png)
+<MISSING_FIG href="../books_images/U-IMG-1700987922Screenshot2023-11-26140825.png"/>
 
 **द्वितीयः सर्गः।**
 
-**![](../books_images/U-IMG-1700992148Screenshot2023-11-26140825.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1700992148Screenshot2023-11-26140825.png"/>**
 
 **शरकाण्डविपाण्डुना मुखेन  
 स्तनयोरप्युपजातमेचकिम्ना ।  
@@ -884,11 +886,11 @@ perienced some difficulty in choosing the best readings from the different manus
 
 **इति द्वितीयः सर्गः ॥**
 
-**![](../books_images/U-IMG-1698304917Screenshot2023-10-26125111.png)**-
+**<MISSING_FIG href="../books_images/U-IMG-1698304917Screenshot2023-10-26125111.png"/>**-
 
 **तृतीयः सर्गः ।**
 
-**![](../books_images/U-IMG-1698305083Screenshot2023-10-26125413.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1698305083Screenshot2023-10-26125413.png"/>**
 
 **अथावनीवासवसूनुरभ्यगा-  
 दनङ्गराद्धान्तमलंक्रियां तनोः ।  
@@ -1279,11 +1281,11 @@ perienced some difficulty in choosing the best readings from the different manus
 
 **इति तृतीयः सर्गः ॥**
 
-**![](../books_images/U-IMG-1701059280Screenshot2023-11-26140825.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701059280Screenshot2023-11-26140825.png"/>**
 
 **चतुर्थः सर्गः ।**
 
-**![](../books_images/U-IMG-1698305560Screenshot2023-10-26130158.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1698305560Screenshot2023-10-26130158.png"/>**
 
 **वासरोऽथ वसुधावलद्विषो  
 वल्लभेति महिषीपदे महीम् ।  
@@ -1439,7 +1441,7 @@ perienced some difficulty in choosing the best readings from the different manus
 
 **चतुर्थः सर्गः ।**
 
-**![](../books_images/U-IMG-1701079671Screenshot2023-11-25230718.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701079671Screenshot2023-11-25230718.png"/>**
 
 **संकुचत्तनु समग्रकम्पनं  
 तर्णकानधिवनं तदन्वगात् ॥ २१ ॥**
@@ -1725,11 +1727,11 @@ perienced some difficulty in choosing the best readings from the different manus
 
 **इति चतुर्थः सर्गः ॥**
 
-**![](../books_images/U-IMG-169840533910.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-169840533910.jpg"/>**
 
 **पञ्चमः सर्गः ।**
 
-![](../books_images/U-IMG-169842429911.jpg)
+<MISSING_FIG href="../books_images/U-IMG-169842429911.jpg"/>
 
 **स समाप्य काल्यनियमं सकलं  
 जगदण्डलङ्घिजयशङ्खरवः ।  
@@ -2215,7 +2217,7 @@ perienced some difficulty in choosing the best readings from the different manus
 
 **षष्ठः सर्गः ।**
 
-**![](../books_images/U-IMG-169944682912.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-169944682912.jpg"/>**
 
 **प्रहितः पयोधिरशनापतिना**  
 **सलगेन्द्रसिन्धुरमणेन्दुरयम्** **।**  
@@ -2487,7 +2489,7 @@ perienced some difficulty in choosing the best readings from the different manus
 
 **इति षष्ठःसर्गः ॥**
 
-**![](../books_images/U-IMG-1701169488Screenshot2023-11-28163404.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701169488Screenshot2023-11-28163404.png"/>**
 
 **परिष्कृतिनिवेदनम् ।**
 

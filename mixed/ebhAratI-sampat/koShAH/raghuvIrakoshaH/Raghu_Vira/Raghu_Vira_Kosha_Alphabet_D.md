@@ -17,6 +17,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzMzA1MTkyMDA
 
 \[
 
+
+
 **D/-** (date) **दि/-** (दिनांक)  
 **d, *p*** (density) **घ** (घनता)  
 **D, H₂** (deuterium; hydrogen of atomic weight or mass 2) *Chem.* **द्व, उ₂** (उद्वेक)  
@@ -12616,5 +12618,6 @@ Dytiscidae** *Zool.* (true water beetles) **नीरभृंग-वंश** *m
 **Dytiscus** *Zool.* **नीरभृंग-प्रजाति  
 Dytiscidaemarginalis** (best-known member of the family—Imms p.498) **सामान्य नीरभृंग  
 D.Y.T.M. = D.T.M.**
+
 
 \]

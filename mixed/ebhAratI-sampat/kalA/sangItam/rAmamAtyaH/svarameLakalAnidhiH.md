@@ -14,7 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA0MzgzOTMzMjg
 +++
 [[स्वरमेळकलानिधिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDA0MzgzOTMzMjgxMTU0&pageno=MjI0MjQyNjk5NTk=)]]
 
-\[
+\
 
 **RÂMÂMÂTYA'S**  
 **SVARAMÊLAKALÂNIDHI**  
@@ -39,7 +39,7 @@ BY
 and  
 Sometime, Law Member, Executive Council, Madras.*
 
-![](../../../../../books_images/U-IMG-1691226589Swara.jpg)  
+<MISSING_FIG href="../../../../../books_images/U-IMG-1691226589Swara.jpg"/>  
 **THE ANNAMALAI UNIVERSITY  
 1932**
 
@@ -51,6 +51,7 @@ THE awakening in our country has a much wider significancethan most people, with
     Râmâmâtya, the author of the book here published, recognised twenty Mêlas; his successors went on increasing thenumber; and the present-day theory recognises seventy-two, though it is doubtful whether all of them are in actual use or cansatisfy the ear of the people. It is a result of pure mathematicsa question of how many combinations of the seven notes and theirvariations can be made. Mr. Ramaswami Aiyar thinks that even the two and thirty were the resulting combination of the seven notes, five of which had a sharp and flat sonance and the word 'raga'itself indicates the number 32, according to the peculiar Indian Notation of numbers by the letters of the alphabet. A questionmay here arise as to whether the word 'raga' was a new introduction into music after the thirty-two Mêlas had come to berecognised.  
    Mr. Ramaswami Aiyar refers to a criticism of the author bya successor of his, that two of his twenty Mêlas have the samenotes. I am inclined to agree with Mr. Ramaswami Aiyar that itmust be a slip and the manuscripts may be responsible for it. Isit impossible to find out what combination it must be for eitherthe one or the other that has been written amiss and resulted in the error criticised?  
     Experts, like Mr. Ramaswami Aiyar, must not only open upthe past of music but point the way to its future.  
+                                 
 
 **MYLAPORE                              
      T. R. VENKATARAMA SASTRI**  
@@ -60,9 +61,9 @@ THE awakening in our country has a much wider significancethan most people, with
 
 THE manuscripts of *Svaramêlakalânidhi* are found in Tanjore,Madras, Baroda, and Bikanir. Its bare text, for aught I know,was printed twice—*first*, at Kumbakonam in 1906 by Mr. S.Nârayanaswâmi Aiyar and *secondly*, at Bombay in 1910 byMr. V. N. Bhâtkhandê, though under the pseudonym ofBhâradvâja Sarma. The latter edition contained, at least, arunning commentary in Maharâti.  
   But both the printed editions happened to be, alike,defective and even misleading. I shall give only one instanceand pass on.  
-  In the fifth chapter of the work, the two Râgas of*Sudhavasantha* and *Mâlavasri* are correctly defined, in twoverses[^20] thus:—
+  In the fifth chapter of the work, the two Râgas of*Sudhavasantha* and *Mâlavasri* are correctly defined, in two[verses[^20] thus:—
 
-[^20]: "The verse regarding Sudhavasantha is marked A, while that regarding Mâlavasri is marked B."
+[^20]: # "The verse regarding Sudhavasantha is marked A, while that regarding Mâlavasri is marked B."
 
 ***Sudhavasantha.***
 
@@ -103,15 +104,15 @@ TRIPLICANE,                   *
 | **TEXT  **     |
 | **TRANSLATION**  |
 
-![](../../../../../books_images/U-IMG-1691227931Ab.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1691227931Ab.jpg"/>
 
 **INTRODUCTION**
 
-![](../../../../../books_images/U-IMG-1691228123CF.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1691228123CF.jpg"/>
 
 **SVARAMÊLAKALÂNIDHI**
 
-![](../../../../../books_images/U-IMG-1691227512kalanidhi.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1691227512kalanidhi.jpg"/>
 
 **INTRODUCTION**
 
@@ -130,7 +131,7 @@ have been. But *de jure* the ruler was, undoubtedly, Sadâsiva ; for, a very lar
 
 [^2]: "Cf. पूर्वार्णवेनैव परीतमूर्तेर्विभुत्वमुर्व्या विततार मह्यम् - Ibid."
 
-[^21]: " श्रीमदभिनवभरताचार्यवाग्गेयकारतोडर-     मल्लतिम्मामात्यनन्दनरामामात्येन निर्मितः स्वरमेलकला निधिः - Ibid."
+[^21]: # " श्रीमदभिनवभरताचार्यवाग्गेयकारतोडर-     मल्लतिम्मामात्यनन्दनरामामात्येन निर्मितः स्वरमेलकला निधिः - Ibid."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -156,12 +157,12 @@ been, at least whenRâmâmâtya wrote his work, only a minister,though the king 
   Further again, Râmâmâtya's description of Râma Râja'spedigree is more fanciful than real and betrays the mentality of aflattering court-poet rather than that of a responsible State-officer.  
   The following Table shows Râma Râja's pedigree, accordingto Râmâmâtya :—
 
-![](../../../../../books_images/U-IMG-1691913378Untitled1.png)  
+<MISSING_FIG href="../../../../../books_images/U-IMG-1691913378Untitled1.png"/>  
 (FIG. 1)
 
   But Sewell's [genealogy](http://Sewell%20s%20Forgotten%20Empire,%20page%20180. "Sewell s Forgotten Empire, page 180.")¹, taken from epigraphical records,gives Râma Râja his proper place in the royal line of Vijayanagarthus:—
 
-![](../../../../../books_images/U-IMG-1691913655Untitled2.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1691913655Untitled2.png"/>
 
   It is thus clear that Râma Râja belonged, if at all, to theroyal family only by marriage. Râmâmâtya only confirmed itwhen he observed: "Krishna Râya gave his daughter inmarriage to Râma Râja and thereby enhanced the dignity of theparenthood of [daughters](http://कन्या%20प्रदोऽस्मै%20स%20तु%20कृष्णरायः%20कन्या%20पितृत्वं%20बहुमन्यते%20स्म%20।%20Svaramêlakalânidhi. "कन्या प्रदोऽस्मै स तु कृष्णरायः कन्या पितृत्वं बहुमन्यते स्म । Svaramêlakalânidhi.")."  
   History gives us no pedigree of Râma Râja except that hewas a son of one Ranga and that he had two brothers, namely,Thimma Râja and [Venkatâdri](http://Vide%20Sewell%20s%20Forgotten%20Empire,%20page%20214. "Vide Sewell s Forgotten Empire, page 214.").This Thimma Râja is said tohave murdered Sadâsiva in 1568 and usurped his [throne](http://Ibid,%20page%20212. "Ibid, page 212."). ButRâma Râja ruled, if at all, only on behalf of his king, Sadâsiva.  
@@ -544,7 +545,7 @@ free from this defect. Further, to adopt the Mâyâmâlavagowla-scale as the *Su
 
 [^8]: "Vide Mr. Fox Strangways s Music of Hindostan, p. 120."
 
-![](../../../../../books_images/U-IMG-1691399698Swara.jpg)  
+<MISSING_FIG href="../../../../../books_images/U-IMG-1691399698Swara.jpg"/>  
 (FIG. 6)
 
 wrote, by way of explanation,—'B to B form *Mukhari* and C to Cis *Mâyâmâlavagowla*[^9] ¹.  
@@ -564,7 +565,7 @@ now *Sa* and *Pa* as *Sudha* (or better, *Prakrithi*) Svaras, inasmuchas they ar
 
 [^11]: " Cf. आहत्य शुद्धविकृताः स्वरा द्वादश कीर्तिताः।                             Chathurdandi Prakâsikâ."
 
-![](../../../../../books_images/U-IMG-1691407721svar.jpg)  
+<MISSING_FIG href="../../../../../books_images/U-IMG-1691407721svar.jpg"/>  
 (FIG. 7)
 
   And, again, these modern *Sudha-Vikritha* Svaras enable usto formulate, according to the Principle of *Lakshya*, the followingworking scheme which may be styled *Laghumêakartha* (लघुमेलकर्ता)as distinguished from the *Brihanmêlakartha* (बृहन्मेलकर्ता) of Venkatamakhi :—
@@ -950,7 +951,7 @@ own—as an 'infêrior', and therefore disregardable, Râga as Râmâmâtya had 
  Will a study of Râmâmâtya's *Vîna* help us to understand his Râga-system, especially as he assures us it would? Let us, then, take up the subject of *Vina*, which Râmâmâtya dealt with, in his third chapter, at the very outset of which he emphasised the importance of Vîna, as creating a nice taste for, and a fine discrimination in, Srutis, Svaras, Mêlas, and Râgas; besides being a means of attaining Dharma, Artha, Kâma, and Môksha.  
  Be it noted that Râmâmâtya fundamentally differed from Shârngadêv in the matter of constructing his *Vîna* and thereby cut a new path for his successors to follow. While Shârngadêv presented to us a Vîna of twenty-two strings; Râmâmâtya simplified the process by requiring only four strings to produce all his *Sudha-Vikritha* svaras in all the three registers. While, again, Shârngadêv's Vîna was only of two kinds, viz., *Sruti Vîna* and *Svara* *Vina;* Râmâmâtya's Vîna was of six kinds, which may conveniently be tabulated thus :—
 
-![](../../../../../books_images/U-IMG-16912454071.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-16912454071.jpg"/>
 
   All the six kinds of Râmâmâtya's Vîna were provided with frets. In the *Sarvarâga Mêla Vîna,* they were fixed and immovable, as in the case of our modern *Tanjore Vîna;* while, in the *Êkarâga Mêla Vîna*, they were not fixed and therefore movable, as in the case of the modern *Sitar* of North India. In fact, the frets of the latter kind were moved or changed every time a Râga was changed; while, those of the former kind were fixed andyet made to produce all the Râgas in all the registers. Hence their respective names.  
  As for the construction and characteristics of Râmâmâtya's Vîna; first, there was a Cross-Bar, called *Danda*, on the left-hand side of which there was a Gourd, called *Thumba*, attached thereto by means of a round piece of metal, called *Nâbhi*. Over and along the cross-bar, four metallic wires were fastened between the left-hand bridge, called *Mêru,* and the right-hand piece of wood at the end of the cross-bar, called *Kakubha*; and these (four) wires were also made to run over a metallic piece, on the right-hand side, called *Pathrikâ*. The *Dôraka*-strings intervened between Pathrikâ and Kakubha and held the four wires tightly from the basis of the latter; while, bits of cotton (or woollen or even silken) threads, called *Jiva,* were used over the Pathrika and under the (four) wires, with a view to refine the sound. All over the cross-bar but underneath the (four) wires were placed metallic frets, called, *Sârikas*, by means of which alone proper sounds could be produced on the (four) wires. Below the cross-bar, but near the four wires and on the right-hand side, three additional wires were fastened for *Sruti*-purposes.
@@ -1209,7 +1210,9 @@ May think down hours to moments. Here the heart
 May give a useful lesson to the head,  
 And learning wiser grow without the books "
 
-  Shârngadêv, too, harped on the same point and came to the same conclusion that the sages worship *Anâhatha* in the manner in which they were taught by the [gurus]("अनाहतं गुरूपदिष्टमार्गेण मुनयः समुपासते।                    Sangitharatnâkara.").'Even the music-proof-brained Dr. Johnson seems to appreciate *Anâhatha,* when he observed, in his *Rasselas,* From the cataract, nothing more was heard than a gentle uniform murmur, such as composes the mind to pensive meditation'.
+  Shârngadêv, too, harped on the same point and came to the same conclusion that the sages worship *Anâhatha* in the manner in which they were taught by the gurus[^22].'Even the music-proof-brained Dr. Johnson seems to appreciate *Anâhatha,* when he observed, in his *Rasselas,* From the cataract, nothing more was heard than a gentle uniform murmur, such as composes the mind to pensive meditation'.
+
+[^22]: "अनाहतं गुरूपदिष्टमार्गेण मुनयः समुपासते।                    Sangitharatnâkara."
 
 --------------------------------------------------------------------
 
@@ -1352,7 +1355,7 @@ to mean whatever is new and *up-to-date.*
  Just as I called Mârga, *Vedic Music*; so, I shall call Dêsi,*Modern Music*.  
   The following Table, I trust, fixes *Mârga and Dêsi* in their proper places:-
 
--   ![](../../../../../books_images/U-IMG-169183013670swara.png)
+-   <MISSING_FIG href="../../../../../books_images/U-IMG-169183013670swara.png"/>
 
 -----------------------------------------------------------------------------------------------
 
@@ -1374,11 +1377,11 @@ to mean whatever is new and *up-to-date.*
 
 *   *N.B. -This verse is quoted, with approval, in *Abhinavarâgamanjari.*
 
-![](../../../../../books_images/U-IMG-1693373321lines.jpg)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1693373321lines.jpg"/>
 
 **TEXT**
 
-**![](../../../../../books_images/U-IMG-1693373337lines2.jpg)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1693373337lines2.jpg"/>**
 
 **॥श्रीः॥  
 
@@ -2699,9 +2702,9 @@ to mean whatever is new and *up-to-date.*
 **समाप्तश्चायं ग्रन्थः।  
 ॥श्रीरस्तु॥**  
 
-**![](../../../../../books_images/U-IMG-1693373151lines.jpg)**  
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1693373151lines.jpg"/>**  
 **TRANSLATION**  
-**![](../../../../../books_images/U-IMG-1693373195lines2.jpg)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1693373195lines2.jpg"/>**
 
 **CHAPTER I**  
 **PREFACE**  

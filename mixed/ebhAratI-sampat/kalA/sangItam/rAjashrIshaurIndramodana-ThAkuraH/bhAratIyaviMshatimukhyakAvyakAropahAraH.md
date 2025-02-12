@@ -15,7 +15,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU4ODk4MjQ4ODE
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 [TABLE]
+
+
 
 [TABLE]
 
@@ -55,6 +69,7 @@ _(T)HE favorable reception which was accorded to my allegorical work entitled **
 CALCUTTA,  
 PATHURIAGHATA RAJBATI,  
 The 1st June 1883.  
+
 
 **INTRODUCTORY**  
 ----------•--♦--•----------
@@ -1402,5 +1417,17 @@ Kavirája, Sùdraka, Bhatta, Dandi, Jayadeva, Chiranjíva, Mayùrabhatta, Bhavab
 
 *Printed by I.C. Bose & Co., Stanhope Press, 249, Bow-Bazar Street, Calcutta.*
 
+
+
+
+
+
+
+
+
+
 \]
+
+
+
 

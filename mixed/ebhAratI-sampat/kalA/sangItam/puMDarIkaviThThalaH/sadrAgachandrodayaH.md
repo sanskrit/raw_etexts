@@ -26,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyNTY1OTI0ODc
 
 **अथ सद्रागचंद्रोदयः प्रारभ्यते ।**
 
-**![](../books_images/U-IMG-1694149853Untitled009-removebg-preview.jpg)**  
+**<MISSING_FIG href="../books_images/U-IMG-1694149853Untitled009-removebg-preview.jpg"/>**  
 
 **श्रीगणेशाय नमः ।**
 
@@ -919,6 +919,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcyNTY1OTI0ODc
   
 **समाप्तोऽयं रागचंद्रोदयो ग्रंथः॥**
 
-**![](../books_images/U-IMG-1694242727mama.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1694242727mama.png"/>**
 
 \]
