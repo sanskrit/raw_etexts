@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 
 \[
 
-![](../books_images/U-IMG-1726671268Screenshot2024-09-18194312.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1726671268Screenshot2024-09-18194312.jpg"/>
 
 श्री-महर्षि-व्यास-प्रणीत
 
@@ -25,17 +25,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 
 **(११) शान्तिपर्व।**
 
-![](../books_images/U-IMG-1729449719Screenshot2024-10-2100112399989799.png)
+<MISSING_FIG href="../books_images/U-IMG-1729449719Screenshot2024-10-2100112399989799.png"/>
 
 (भाषाभाष्य समेत)
 
-![](../books_images/U-IMG-1729449767Screenshot2024-10-2100121888899999.png)
+<MISSING_FIG href="../books_images/U-IMG-1729449767Screenshot2024-10-2100121888899999.png"/>
 
 **सम्पादक और प्रकाशक  
 श्रीपाद दामोदर सातवलेकर  
 स्वाध्यायमण्डल, औंध (जि. सातारा.)**
 
-![](../books_images/U-IMG-1729449812Screenshot2024-10-2100130499898988999.png)
+<MISSING_FIG href="../books_images/U-IMG-1729449812Screenshot2024-10-2100130499898988999.png"/>
 
 **संवत् १९८६,**
 
@@ -43,11 +43,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 
 **सन १९२९,**
 
-![](../books_images/U-IMG-1726670674Screenshot2024-09-18201257.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1726670674Screenshot2024-09-18201257.jpg"/>
 
 **अहिंसा का भाव।**
 
-![](../books_images/U-IMG-1729449969Screenshot2024-10-21001536999989899.png)
+<MISSING_FIG href="../books_images/U-IMG-1729449969Screenshot2024-10-21001536999989899.png"/>
 
 **धर्मशीलो नरो विद्वानीहकोऽनीहकोऽपि वा ।  
 आत्मभूतः सदा लोके चरेद्भूतान्यहिंसया॥३०॥**
@@ -56,7 +56,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 
  **"धर्मशील विद्वान् मनुष्य इच्छा धारण करके अथवा निरिच्छ होकर, सदा सब भूतोंको आत्मवत् मान कर, सब भूतोंके साथ अहिंसा भावसे व्यवहार करता हुआ, जगत् में विचरे॥"**
 
-![](../books_images/U-IMG-1726671179Screenshot2024-09-18202151.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1726671179Screenshot2024-09-18202151.jpg"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -64,11 +64,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 स्वाध्याय मंडल, भारतमुद्रणालय औंध (जि. सातारा.)  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-![](../books_images/U-IMG-1726669455Screenshot2024-09-18194312.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1726669455Screenshot2024-09-18194312.jpg"/>  
 श्रीमहर्षिव्यासप्रणीतम्।  
 **म हा भा र त म्।**
 
-![](../books_images/U-IMG-1729450044Screenshot2024-10-2100165899999989999.png)  
+<MISSING_FIG href="../books_images/U-IMG-1729450044Screenshot2024-10-2100165899999989999.png"/>  
 **शान्तिपर्व।**
 
 **श्रीगणेशाय नमः**
@@ -1649,7 +1649,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 
 शान्तिपर्वमें तेरह अध्याय समाप्त।
 
-![](../books_images/U-IMG-1729183749Screenshot2024-10-17221833.png)
+<MISSING_FIG href="../books_images/U-IMG-1729183749Screenshot2024-10-17221833.png"/>
 
  वैशम्पायन उवाच—
 
@@ -4339,7 +4339,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 
 शान्तिपर्वमें उनत्तीस अध्याय समाप्त।
 
-![](../books_images/U-IMG-1728018271Screenshot2024-10-04103406.png)
+<MISSING_FIG href="../books_images/U-IMG-1728018271Screenshot2024-10-04103406.png"/>
 
 शान्तिपर्वमें तीसअध्याय।
 
@@ -6044,7 +6044,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 
  अनन्तर पाण्डवोंके पुरोहित बुद्धिमान धौम्य मुनिने श्रीकृष्णकी सम्मतिसे पूर्व और उत्तर भागमें क्रमसे नीची करके सब शुभ लक्षणोंसे युक्त सुन्दर वेदी तैयार करके उसके निकटमें ही जलती हुई अनि समान दृढ चरण अर्थात् पायासे युक्त ऊपर के हिस्समें व्याघ्र चर्मसे भूषित श्वेतवर्ण सर्वभद्र नाम आसन पर राजा युधिष्ठिर और द्रौपदीको बैठाकर विहित मन्त्रोंको  
 
-        ![](../books_images/U-IMG-17295984983333.jpg)
+        <MISSING_FIG href="../books_images/U-IMG-17295984983333.jpg"/>
 
 # Please dont Edit this page (Blank Page)
 
@@ -6697,7 +6697,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 
  भीष्म बोले, हे पुरुषोत्तम ! तुमपवित्र और शुचिपद हो, तुम पारमेष्टपद
 
-![](../books_images/U-IMG-1729405925क.jpg)  
+<MISSING_FIG href="../books_images/U-IMG-1729405925क.jpg"/>  
 **राजा युधिष्ठिर और भगवान् श्रीकृष्ण**  
 ( स. सा. मुद्रणालय- अहमदाबाद )                    
       (शांतिपर्व अ० ४७ )
@@ -9851,6 +9851,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 एषोऽऽश्रमपदस्तात ब्रह्मचारिण इष्यते॥२१॥\[२३२३\]**
 
 इति श्रीमहाभारते० शांतिप० राजधर्मानुशासनप० चतुराश्रमधर्मकथने एकषष्टितमोऽध्यायः ६१  
+ 
 
  युधिष्ठिर उवाच—
 
@@ -20344,11 +20345,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 दूसरे बुद्धि कौशल और दक्षतासे धन सञ्चय लाभ करते हैं। पण्डित लोग धनहीन पुरुषको ही दुर्बल कहते हैं, धनवान पुरुष ही बलवान होता हैं; धनवान मनुष्यको कुछ भी अप्राप्य नहीं है। कोष तथा कोषवाला राजा सब विपदसे पार होता है, कोषके जरिये धर्मकाम तथाइस लोक और परलोकमें सुख लाभ होता है; इससे धर्मपूर्वक उस धन लाभ की इच्छा करे, कभी अधर्मसे धन सञ्चय करनेकी इच्छा न करे।(४५-५०)
 
 **शान्तिपर्वमें १३० अध्याय समाप्त।**  
-![](../books_images/U-IMG-1729448576Screenshot2024-10-2023522496965469999.png)  
+<MISSING_FIG href="../books_images/U-IMG-1729448576Screenshot2024-10-2023522496965469999.png"/>  
 **शान्तिपर्वान्तर्गत  
 राजधर्मपर्व समाप्त।**
 
-![](../books_images/U-IMG-1729448628Screenshot2024-10-2023531699999996969.png)
+<MISSING_FIG href="../books_images/U-IMG-1729448628Screenshot2024-10-2023531699999996969.png"/>
 
 **शान्तिपर्व के**
 
@@ -20449,13 +20450,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY2OTEzMTAxMTA
 
 [TABLE]
 
-![](../books_images/U-IMG-1727975257Capture1.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1727975257Capture1.JPG"/>
 
 **शान्तिपर्वान्तर्गत **
 
 **राजधर्मपर्व समाप्त।**
 
-![](../books_images/U-IMG-1727975440Capture3.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1727975440Capture3.JPG"/>
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NTU2Mjg0OTY
 
 # **INTRODUCTION**
 
-**![](../books_images/1683197826.png)**
+**<MISSING_FIG href="../books_images/1683197826.png"/>**
 
  "ABHILASHITARTHACHINTAMANI" or "Boon-stone of all Desirable Knowledge" is, as a title of the work under notice, so wide as to comprehend within it all branches of knowledge known at the time of the author. But a cursory glance over the contents of the work will reveal that the subjects treated of in the book are very few and that a number of subjects, no less desirable than those dealt with here, were left out of notice. The book consists of five Prakaranas of twenty chapters each. In the first Prakarana are explained general and religious ethics, social service, manufacture of idols, and diseases and their remedies. In the second, polity is treated of in detail under the seven heads, such as the king, his minister, his ally, his treasury, the king- dom, forts and the army together with law, both private and interstatal, under such aspects as peace, war, invasion, neutrality, alliance, and war with one and peace with another, not omitting the four wellknown stratagems, such as reconciliation, bribery, dissension, and war. The third Prakarana is devoted to the description of architecture, picture-drawing and painting with minutest details, iconography and pleasures of domestic life. In the fourth and the fifth, various forms of amusements and recreations are described. Incidentally brief reference is also made to arithmetic, the decimal notation, preparation of calendars, astrology, omens, augury, palmistry, train- ing of horses and elephants together with the treatment of their diseases, mining, alchemy, gems and precious stones, marriage and child-rearing, cookery, liquor, beverages, music, conveyance, and scents.
 
@@ -223,7 +223,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 
 **विषयानुक्रमणिका**
 
-**![](../books_images/1683197826.png)**
+**<MISSING_FIG href="../books_images/1683197826.png"/>**
 
 [TABLE]
 
@@ -231,11 +231,11 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 
 [TABLE]
 
-![](../books_images/1683195228.png)
+<MISSING_FIG href="../books_images/1683195228.png"/>
 
 **शुद्धिपत्रम्.**
 
-**![](../books_images/1683197826.png)**
+**<MISSING_FIG href="../books_images/1683197826.png"/>**
 
 |                        |                       |
 |------------------------|-----------------------|
@@ -322,17 +322,17 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 | शय्या भोगो           | शय्याभोगो            |
 | संगुक्ता             | संयुक्ता             |
 
-![](../books_images/1683198675.png)
+<MISSING_FIG href="../books_images/1683198675.png"/>
 
 श्रीः  
 सोमेश्वरदेवविरचितः  
 
 अभिलषितार्थचिन्तामणिः  
-![](../books_images/1683198791.png)  
+<MISSING_FIG href="../books_images/1683198791.png"/>  
 
 **मानसोल्लासो नाम प्रथमं प्रकरणम्**
 
-**![](../books_images/1683197826.png)**
+**<MISSING_FIG href="../books_images/1683197826.png"/>**
 
 अभीष्टफलसंसिद्धिसिद्धमन्त्रं गणेश्वरम्।  
 कर्णतालानिलोद्धूतविघ्नतूलं सदा[^2]नुमः॥ १॥  
@@ -546,8 +546,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 खननं च तटाकानां देवतानां च तुष्टये॥७४॥  
 द्यूतंच गणितं कार्यमधोवक्त्रेषु सर्वदा।  
 एवं यः कुरुते पूर्तमिष्टं च विधिना नरः॥७५॥  
-
-[^29]: "नास्ति"
 
 [^30]: "शरत्काले वसन्ते च"
 
@@ -1144,7 +1142,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 
 द्वितीयोऽध्यायः
 
-**![](../books_images/1683197826.png)**
+**<MISSING_FIG href="../books_images/1683197826.png"/>**
 
 राज्यप्राप्तिनिमित्तानि कथितानीह विंशतिः।  
 तत्स्थिरीभावमुद्दिश्य कारणानि वदाम्यहम्॥ १॥  
@@ -1736,8 +1734,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 ताम्रपुष्करपर्यन्तः सुप्रमाणायताङ्गुलिः॥२५३॥  
 सुगन्धशीकराकारो दीर्घनिश्श्वास सन्ततिः।  
 
-[^107]: "कण्ठे"
-
 [^110]: "तालु"
 
 [^111]: "गौरी चाक्ष्णोच कर्णयोः"
@@ -1855,7 +1851,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 आहारैस्तैस्ततस्सर्वैर्नियम्योऽसौ मतङ्गजः॥ २९३॥  
 शिक्षयेच्च ततो भाषां कर्मज्ञानां च[^126]दन्तिनाम्।  
 अनालस्येन निर्वन्धात्प्रत्यहं गजपोषकः॥२९४॥  
-वही [वहीति](#)सञ्चारे स्थितावप्यवसारणे।  
+वही वहीति[^324]सञ्चारे स्थितावप्यवसारणे।  
 हेठे हेडिति वक्तव्यं गजशिक्षाविशारदैः॥ २९५॥  
 पार्श्वद्वयावसारे च 'फलेति' विनियोजयेत्।  
 उपवेशे प्रयोक्तव्यं “चिञ्चीति " वचनं स्फुटम्॥  
@@ -1866,10 +1862,12 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 
 [^126]: "ज्ञानाय"
 
+[^324]: #
+
 गात्रस्योत्क्षेपणे वाच्यं “भल्लभल्लेति" यन्त्रिभिः।  
 प्रवरानमने 'किः कित्' भणनीयं विचक्षणैः॥  
-याचनार्थं महामात्रो [“येये "](#) शब्दमुदीरयेत्।  
-करप्रधारणे शिक्ष्यो [" देदेहीति "](#) द्विरुक्तितः॥  
+याचनार्थं महामात्रो “येये "[^325] शब्दमुदीरयेत्।  
+करप्रधारणे शिक्ष्यो " देदेहीति "[^326] द्विरुक्तितः॥  
 कबलग्रहणे दिर्दिर्यवग्रासो निगीर्यते।  
 परित्यागे प्रयोक्तव्या “बुद्धबुद्धेति "[^127]भारती॥  
 " मा मा" निवारणे वाच्यो गजशिक्षाविशारदैः।  
@@ -1884,30 +1882,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 कर्तव्यस्तद्भयान्नागः करं सङ्कोच्य तिष्ठति॥ ३०६॥  
 आराभ्यां मुखपार्श्वस्थौ तुदतो हनुयुग्मकम्।  
 उन्नमय्य मुखं नागस्स्तब्धपादोऽवतिष्ठते॥३०७॥  
-
-[^127]: "“ चुरचोरेति"
-
-[^128]: "गजं जात"
-
-ततः कर्णसमीपस्थे कर्णमूले प्रतोदनम्।  
-कुरुतस्तद्भयाद्दन्ती कर्णावुत्थाप्य तिष्ठति॥ ३०८॥  
-आराघातभयत्रस्तो यदि पश्चाद्भजेद्गजः।  
-आराभ्यां तोदनं तस्य कुर्वाते पश्चिमस्थितौ॥  
-ततस्स्थानकसंसिद्धसौष्ठवं लभते गजः।  
-शिक्षयेत्तं ततो नागं यन्त्रितं सर्वकर्मसु॥ ३५०॥  
-ततः कर्मकरो दक्षः पाणिभ्यां धृतभस्त्रिकः।  
-स्थानके तिष्टतस्तस्य प्रविश्य करिणोऽग्रतः॥ ३११॥  
-आस्फाल्य भस्त्रिकां पूर्वं दर्शयेदेकभस्त्रिकाम्।  
-हुहुकारैर्द्विपं यत्नाद्भस्त्रिकाहनेन नुदेत्॥ ३१२॥  
-करं कुण्डलितं नागः प्रसार्य धृतभस्त्रिकम्।  
-प्रहरेद्बाह्यहस्तेन प्रेरितस्सन्निषादिना॥ ३१३॥  
-हस्तमुत्क्षिप्य नागेन्द्रं यन्ता वाक्यैस्सुशिक्षितैः।  
-अतः करेण भस्त्रायां ताडनं कारयेद्दृढम्।\। ३१४॥  
-पार्श्वद्वयसमायुक्तौ ततः कर्मकरावुभौ।  
-भस्त्रिकापाणिकौनागमात्मानं प्रतिकर्षतः॥ ३१५॥  
-बाह्यहस्तेन तत्रैकां भस्त्रिकां ताडयेद्गजः।  
-अन्तर्हस्तेन चाप्यन्यां प्रहरेत पुनः पुनः॥ ३१६॥  
-क्रमेणानेन तिष्ठन्ति भस्त्रिकापाणयस्त्रयः।  
 
 चत्वारः पञ्च वा दक्षाः दर्शयन्तस्स्वभस्त्रिकाः॥  
 अन्तर्हस्तेन तत्रैकां बाह्यहस्तेन चापराम्।  
@@ -3215,7 +3189,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 चिलिचिलि” चतुर्मात्रः। “चिलिचिलिचिलि-  
 चिलिचिलि" पञ्चमात्रः पार्थिवः॥  
 "अचिकिचिकिचीची किञ्चित् किचिकिचिकिचित्  
-[चिकि](#)चिकि” आप्यः।कुकुकुकुकुकुकुकु-  
+चिकि[^327]चिकि” आप्यः।कुकुकुकुकुकुकुकु-  
 "कुकुकुकु” तैजसः॥  
 "विच् विच् विच् वीचिचवीचिन्वीच् वीचिषु"  
 वायव्यः। "गुक् सुक् इक् किकिसत् चरुरु  
@@ -3227,6 +3201,8 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 पार्थिवः कुरुते हृष्टः सल्लापी जलजं स्वरम्।  
 तैजसं मदनाक्रान्त इति शान्तास्त्रयस्स्वराः॥  
 वायव्यं कुरुते क्रुद्धः शोकार्तो नाभसं तथा।  
+
+[^327]: #
 
 स्वराविमौ प्रदीप्ताख्यौ विबुधैः परिकीर्तितौ॥ ८८६॥  
 पूर्वदक्षिणदिग्भागे पार्थिवः प्रबलस्स्वरः।  
@@ -3266,8 +3242,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 कुरुतःकलहं चोग्रं भयं च सुमहत्तरम्॥ ९०३॥  
 व्यत्यासात् क्रमशो वाऽपि शब्दौ वायव्यनाभसौ।  
 वित्तनाशं रणे मृत्युं नरस्य कुरुते ध्रुवम्॥ ९०४॥  
-
-[^169]: "मिश्र"
 
 अन्यैरभिहितो भौमः कार्यसिद्धिविनाशकृत्।  
 अधिकः पार्थिवो नादः सर्वकामफलप्रदः॥ ९०५॥  
@@ -3458,7 +3432,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 
 पैशुन्येनैवमाख्यानैर्हेतुभिः प्रत्ययात्मकैः।  
 भीतिरुत्पाद्यते यत्र स भेदः प्राणहा स्मृतः॥ ९८८॥  
-तद्द्विषा प्रेरितो राजा तव मानं [हनि](॑# "हांर")ष्यति।  
+तद्द्विषा प्रेरितो राजा तव मानं हनि[^328]ष्यति।  
 एवमुद्वेज्य यो भेदो मानभङ्गस्स वर्णितः॥९८९॥  
 धनिकोऽयं महान् देव तव किञ्चिन्न यच्छति।  
 केनाप्युपायेनैतस्माद्धनमाहर्तुमर्हसि॥ ९९०॥  
@@ -3474,6 +3448,8 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 अन्तःपुरे मदीयां स्त्रीं कटाक्षैः स्पष्टमीक्षते॥  
 वध्योऽयमिति भूपालो मया सार्धममन्त्रयत्।  
 इतीमं कुरुते भेदं स स्याद्दाराभिलाषुकः॥ ९९६॥  
+
+[^328]: ॑# "हांर"
 
 त्वद्भार्यां रूपसंपन्नां नवयौवनशालिनीम्।  
 ममाग्रेवर्णयन् राजा सापेक्ष इव लक्षितः॥  
@@ -3552,8 +3528,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 देशनाशश्च शत्रूणां जनाङ्गच्छेदकस्तथा॥ १०३२॥  
 गोग्रहो धान्यहरणो बन्दीग्राहस्तथाऽपरः।  
 देशहारो धनादानः सर्वस्वहरणोऽपरः॥ १०३३॥  
-
-[^29]: "नास्ति"
 
 [^179]: "षोडशात्मकभेदन "
 
@@ -4172,11 +4146,11 @@ This Kannada passage together with the three more equally corrupt Kannada passag
      राज्यस्थिरीकरणोपायकथने  
            द्वितीयोऽध्यायः**  
 
-**     ![](../books_images/1683700631.png)**
+**     <MISSING_FIG href="../books_images/1683700631.png"/>**
 
 तृतीयोऽध्यायः
 
-![](../books_images/1683700724.png)
+<MISSING_FIG href="../books_images/1683700724.png"/>
 
 उपभोगाः प्रवक्ष्यन्ते विस्तरेण मयाऽधुना।  
 नाम्नाये पूर्वमुद्दिष्टा विंशतिस्तु यथाक्रमम्॥ १॥  
@@ -6418,6 +6392,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 निर्वत्यैवं नृपस्स्नानं परिधायाङ्गमार्जनम्॥ ९९६॥  
 सितं सुधौतवसनं घृतमार्द्रंपरित्यजेत्।  
 एवं भूलोक[^273]देवेन स्नानभोग उदाहृतः॥ ९९७॥  
+     
 
 [^273]: "भूलोकमल्ल"
 
@@ -6437,6 +6412,8 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 [^274]: "ललितक्रमः"
 
 [^275]: "शिञ्जाने"
+
+       
 
  ताम्बूलभोगः  
 
@@ -6492,6 +6469,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 इत्थं विविधयोगेन ताम्बूलं पृथिवीक्षिता॥१०२३॥  
 यत्त्वद्यते स ताम्बूलभोगश्चतुर इरितः।  
 ताम्बूलभोगः कथित श्श्रीसोमेश्वरभूभुजा॥  
+       
 
  विलेपनोपभोगः  
 
@@ -6565,6 +6543,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 ललाटे बाहुशिखरे कण्ठे वक्षस्यथोदरे।  
 नानागन्धसमोपेतं नानावर्णसमन्वितम्॥१०५२॥  
 विलेपनोपभोगोऽयं वर्णितस्सोमभूभुजा।  
+         
 
   वस्त्रभोगः  
 
@@ -6652,6 +6631,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 ऋतूनामनुसारेण शृङ्गारस्यानुसारतः।  
 एवं यो बिभृयाद्वस्त्रंवस्त्रभोगः प्रकीर्तितः॥१०८९॥  
 वस्त्रभोगोऽयमाख्यातस्सोमेश्वरमहीभुजा।  
+          
 
  माल्यभोगः  
 
@@ -6679,6 +6659,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 खोपकेषु च कुम्भ्यां च माल्यभोगः प्रकीर्तितः॥  
 भूलोकत्राणदक्षेण सोमेश्वरमहीभुजा।  
 कथितो माल्यभोगोऽयं भूषाभोगोऽधुनोच्यंते॥  
+        
 
  भूषाभोगः  
 
@@ -6876,6 +6857,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 धत्ते यद्भूषणं राजा भूषाभोगः प्रकीर्तितः।  
 
 भूषा भोगोऽयमाख्यातस्सोमेश्वरमहीभुजा॥११८६॥  
+     
 
    आसनभोगः  
 
@@ -6921,6 +6903,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 एतानि पीठान्यध्यास्ते राजा विभवभूषितः॥  
 एवमासनभोगोऽयमभिज्ञैः परिभाषितः।  
 एवमासनभोगोऽयं कथितस्सोमभूभुजा॥ १२०५॥  
+       
 
  चामरभोगः  
 
@@ -6945,6 +6928,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 शोभार्थंविभवार्थंच स्वेदापनयनाय च॥ १२१४॥  
 चामरैर्वीजनं यत्नात्स भोगश्चामराभिधः।  
 एवं चामरभोगोऽयं भाषितस्सोमभूभुजा॥ १२१५॥  
+        
 
 आस्थानभोगः  
 
@@ -7135,6 +7119,7 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 पुरन्दरनिभो राजा प्रविशेत्केलिकेतनम्॥१३००॥  
 करोत्यास्थानमित्यं यः पार्थिवः प्रथितोन्नतिः।  
 एवमास्थानभोगोऽयं[^298]कथितस्सोमभूभुजा॥  
+         
 
 [^298]: "आस्थानभोग इत्येष"
 
@@ -7230,8 +7215,6 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 हस्तत्रये च पुष्ये च तथैवादितिदैवते॥ १३३९॥  
 शस्ते वारे शुभे लग्ने तिथौ च शुभशंसिनि।  
 अन्नप्राशनधिष्ण्येषु ध्रुवनक्षत्रवर्जिते॥ १३४०॥  
-
-[^224]: "एक"
 
 भौमे सौम्ये गुरौ शुक्रे कुर्यान्मौञ्जीनिबन्धनम्।  
 वर्षे गर्भाष्टमे वाऽपि गर्भैकादशकेऽपि वा॥ १३४१॥  
@@ -8687,3 +8670,30 @@ This Kannada passage together with the three more equally corrupt Kannada passag
 
 \]
 
+[^326]: #
+
+ततः कर्णसमीपस्थे कर्णमूले प्रतोदनम्।  
+कुरुतस्तद्भयाद्दन्ती कर्णावुत्थाप्य तिष्ठति॥ ३०८॥  
+आराघातभयत्रस्तो यदि पश्चाद्भजेद्गजः।  
+आराभ्यां तोदनं तस्य कुर्वाते पश्चिमस्थितौ॥  
+ततस्स्थानकसंसिद्धसौष्ठवं लभते गजः।  
+शिक्षयेत्तं ततो नागं यन्त्रितं सर्वकर्मसु॥ ३५०॥  
+ततः कर्मकरो दक्षः पाणिभ्यां धृतभस्त्रिकः।  
+स्थानके तिष्टतस्तस्य प्रविश्य करिणोऽग्रतः॥ ३११॥  
+आस्फाल्य भस्त्रिकां पूर्वं दर्शयेदेकभस्त्रिकाम्।  
+हुहुकारैर्द्विपं यत्नाद्भस्त्रिकाहनेन नुदेत्॥ ३१२॥  
+करं कुण्डलितं नागः प्रसार्य धृतभस्त्रिकम्।  
+प्रहरेद्बाह्यहस्तेन प्रेरितस्सन्निषादिना॥ ३१३॥  
+हस्तमुत्क्षिप्य नागेन्द्रं यन्ता वाक्यैस्सुशिक्षितैः।  
+अतः करेण भस्त्रायां ताडनं कारयेद्दृढम्।\। ३१४॥  
+पार्श्वद्वयसमायुक्तौ ततः कर्मकरावुभौ।  
+भस्त्रिकापाणिकौनागमात्मानं प्रतिकर्षतः॥ ३१५॥  
+बाह्यहस्तेन तत्रैकां भस्त्रिकां ताडयेद्गजः।  
+अन्तर्हस्तेन चाप्यन्यां प्रहरेत पुनः पुनः॥ ३१६॥  
+क्रमेणानेन तिष्ठन्ति भस्त्रिकापाणयस्त्रयः।  
+
+[^325]: #
+
+[^128]: "गजं जात"
+
+[^127]: "“ चुरचोरेति"

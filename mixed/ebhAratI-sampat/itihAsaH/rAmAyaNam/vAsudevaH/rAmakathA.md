@@ -101,7 +101,7 @@ barī and the ruggedness of Harṣacarita, Rāmakatha is quite easy-reading, wri
 
   In preparing this edition, I had recourse to the manuscripts of the work in the Government Oriental Manuscripts Library, Egmore, Madras, and the Government Manuscripts Library at Trivandrum. My thanks are particularly due to Brahmasri K. Sambasiva Sastri, Curator, Government Manuscripts Library, Trivandrum for his invaluable help to me in revising the press copy of this book.
 
-**![](../books_images/U-IMG-1702470825Screenshot2023-12-13180154.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702470825Screenshot2023-12-13180154.png"/>**
 
 **॥ श्रीः ॥**
 
@@ -517,4 +517,3 @@ barī and the ruggedness of Harṣacarita, Rāmakatha is quite easy-reading, wri
 **॥ इति रामकथा संपूर्णा ॥**
 
 \]
-

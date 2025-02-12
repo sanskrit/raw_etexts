@@ -21,15 +21,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 .
 
-![](../books_images/U-IMG-1701514494i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1701514494i1.png"/>
 
  THEtext is in the main that of Schlegel, a reprint of which has long been a school-book in this Presidency. All deviations from Schlegel's text are cited in the Notes. The Sanskrit notes are from the commentary to the Bombay Edition. The references are to Kielhorn's Grammar.
 
-![](../books_images/U-IMG-1701514643i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1701514643i1.png"/>
 
   कविस्तुतिः।
 
-![](../books_images/U-IMG-1701515117i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1701515117i1.png"/>
 
 कूजन्तं राम रामेति मधुरं मधुराक्षरम्।  
 आरुह्य कविताशाखां वन्दे वाल्मीकिकोकिलम्॥१॥
@@ -89,7 +89,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
   रामायणम्।
 
-![](../books_images/U-IMG-1701708816i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1701708816i1.png"/>
 
 ॥ॐ॥
 
@@ -333,7 +333,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 दश वर्षसहस्राणि दश वर्षशतानि च।  
 रामो राज्यमुपासित्वाब्रह्मलोकं प्रयास्यति॥९१॥
 
-           ![](../books_images/U-IMG-1701768608i1.png)  
+           <MISSING_FIG href="../books_images/U-IMG-1701768608i1.png"/>  
+                  
 
 25
 
@@ -348,7 +349,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 5 इत्यार्षे रामायणे वाल्मीकीये चतुर्विंशतिसाहस्त्र्यांसंहितायां बालकाण्डे नारदवाक्य काव्यसंक्षेपो नाम प्रथमः सर्गः॥१॥
 
- ![](../books_images/U-IMG-1701774914i1.png)
+ <MISSING_FIG href="../books_images/U-IMG-1701774914i1.png"/>
 
 **सर्गः२**
 
@@ -493,7 +494,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे ब्रह्मागमनं नाम द्वितीयः सर्गः॥२॥
 
-![](../books_images/U-IMG-1701797404i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1701797404i1.png"/>
 
 **सर्गः३**
 
@@ -614,7 +615,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे काव्योपसंक्षेपो नाम तृतीयः सर्गः॥३॥
 
-**   ![](../books_images/U-IMG-1701951159i1.png)**
+**   <MISSING_FIG href="../books_images/U-IMG-1701951159i1.png"/>**
 
 **सर्गः४**
 
@@ -721,7 +722,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 25 इति बालकाण्डे कुशीलवयोरध्यापनं नाम चतुर्थः सर्गः॥४॥
 
-![](../books_images/U-IMG-1701953707i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1701953707i1.png"/>
 
 सर्गः५
 
@@ -806,7 +807,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 15 इति बालकाण्डे अयोध्यावर्णना नाम पञ्चमः सर्गः॥५॥
 
-![](../books_images/U-IMG-1701956263i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1701956263i1.png"/>
 
 **सर्गः६**
 
@@ -892,7 +893,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 15 इति बालकाण्डे राजवर्णना नाम षष्ठः सर्गः॥६॥
 
-![](../books_images/U-IMG-1702058280i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1702058280i1.png"/>
 
 **सर्गः७**
 
@@ -954,7 +955,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे अमात्यवर्णना नाम सप्तमः सर्गः॥७॥
 
-![](../books_images/U-IMG-1702301744i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1702301744i1.png"/>
 
 तस्य त्वेवंप्रभावस्य धार्मिकस्य महात्मनः।  
 सुतार्थंतप्यमानस्य नासीद्वंशकरः सुतः॥१॥
@@ -1046,7 +1047,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे सुमन्त्रवाक्य नामाष्टमः सर्गः॥८॥
 
-![](#)![](../books_images/U-IMG-1702304013i1.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1702304013i1.png"/>
 
 **सर्गः९**
 
@@ -1258,7 +1259,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे ऋष्यशृङ्गोपाख्यानं नाम नवमः सर्गः॥९॥ 5
 
-![](../books_images/U-IMG-1702829730i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1702829730i1.png"/>
 
 **सर्गः१०**
 
@@ -1375,7 +1376,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे ऋष्यशृङ्गागमनं नाम दशमः सर्गः॥१०॥ 25
 
-![](../books_images/U-IMG-1703162668i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1703162668i1.png"/>
 
 सर्गः११
 
@@ -1447,7 +1448,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे यज्ञकर्मचिन्ता नाम एकादशः सर्गः॥११॥
 
-![](#)![](../books_images/U-IMG-1703267086i1.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1703267086i1.png"/>
 
 सर्गः१२
 
@@ -1566,7 +1567,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 5 इति बालकाण्डे यज्ञारम्भो नाम द्वादशः सर्गः॥१२॥
 
-![](../books_images/U-IMG-1703866881i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1703866881i1.png"/>
 
 **सर्गः१३**
 
@@ -1739,7 +1740,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे अश्वमेधसमाप्तिर्नाम त्रयोदशः सर्गः १३।
 
-![](../books_images/U-IMG-1704011259i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1704011259i1.png"/>
 
 सर्गः१४
 
@@ -1890,7 +1891,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे रावणवधोपायो नाम चतुर्दशः सर्गः॥१४॥
 
-![](../books_images/U-IMG-1705061452i१.png)
+<MISSING_FIG href="../books_images/U-IMG-1705061452i१.png"/>
 
 **सर्गः१५**
 
@@ -1976,7 +1977,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे पायसोत्पतिर्नाम पञ्चदशः सर्गः॥१५॥
 
-**![](../books_images/U-IMG-1706784194Screenshot2024-01-29180914.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706784194Screenshot2024-01-29180914.png"/>**
 
 **सर्गः१६**
 
@@ -2083,7 +2084,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 10 इति बालकाण्डे वानरोत्पत्तिर्नाम षोडशः सर्गः॥१६॥
 
-![](../books_images/U-IMG-1706784569Screenshot2024-01-29180914.png)
+<MISSING_FIG href="../books_images/U-IMG-1706784569Screenshot2024-01-29180914.png"/>
 
 सर्गः १७
 
@@ -2212,7 +2213,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे ऋष्यशृङ्गप्रतिगमनं नाम सप्तदशः सर्गः॥ १७॥
 
-![](../books_images/U-IMG-1706784569Screenshot2024-01-29180914.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706784569Screenshot2024-01-29180914.png"/>  
+              
 
 10
 
@@ -2367,7 +2369,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 25 इति बालकाण्डे दशरथपुत्रजन्म नामैकोनविंशः सर्गः॥१९॥
 
-![](../books_images/U-IMG-1706785324Screenshot2024-01-29174121.png)
+<MISSING_FIG href="../books_images/U-IMG-1706785324Screenshot2024-01-29174121.png"/>
 
 **सर्गः२०**
 
@@ -2447,7 +2449,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे विश्वामित्रागमनं नाम विंशः सर्ग॥२०॥
 
-![](../books_images/U-IMG-1706789368Screenshot2024-01-29180914.png)
+<MISSING_FIG href="../books_images/U-IMG-1706789368Screenshot2024-01-29180914.png"/>
 
 सर्गः२१
 
@@ -2516,7 +2518,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे विश्वामित्रवाक्यं नमैकविंशःसर्गः॥२१॥
 
-![](../books_images/U-IMG-1706789651Screenshot2024-01-29180914.png)
+<MISSING_FIG href="../books_images/U-IMG-1706789651Screenshot2024-01-29180914.png"/>
 
 **सर्गः२२**
 
@@ -2597,7 +2599,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 5 इति बालकाण्डे दशरथवाक्यं नाम द्वाविंशः सर्गः॥२२॥
 
-![](../books_images/U-IMG-1706789893Screenshot2024-01-29180914.png)
+<MISSING_FIG href="../books_images/U-IMG-1706789893Screenshot2024-01-29180914.png"/>
 
 **सर्गः२३**
 
@@ -2660,7 +2662,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे वसिष्ठवाक्यं नाम त्रयोविंशः सर्गः॥२३॥
 
-![](../books_images/U-IMG-1706790027Screenshot2024-01-29195235.png)
+<MISSING_FIG href="../books_images/U-IMG-1706790027Screenshot2024-01-29195235.png"/>
 
 सर्गः२४
 
@@ -2733,7 +2735,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति वालकाण्डे विद्याप्रदानं नाम चतुर्विंशः सर्गः॥२४॥
 
-**![](../books_images/U-IMG-1706789893Screenshot2024-01-29180914.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706789893Screenshot2024-01-29180914.png"/>**
 
 **सर्गः२५**
 
@@ -2802,7 +2804,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति वालकाण्डे कामाश्रमनिवासोनाम पञ्चविंशः सर्गः॥२५॥
 
-**![](../books_images/U-IMG-1706789893Screenshot2024-01-29180914.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706789893Screenshot2024-01-29180914.png"/>**
 
 **सर्गः२६**
 
@@ -2901,7 +2903,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे ताडकावनप्रवेशो नाम षड्विंशः सर्गः॥२६॥
 
-![](../books_images/U-IMG-1706791199Screenshot2024-01-29180914.png)
+<MISSING_FIG href="../books_images/U-IMG-1706791199Screenshot2024-01-29180914.png"/>
 
 **सर्गः२७**
 
@@ -2970,7 +2972,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 इति वालकाण्डे ताडकोत्पत्तिर्नाम सप्तविंशः सर्गः॥२७॥
 
 20          
-![](../books_images/U-IMG-1706790995Screenshot2024-01-29180914.png)
+<MISSING_FIG href="../books_images/U-IMG-1706790995Screenshot2024-01-29180914.png"/>
 
 सर्गः२८
 
@@ -3093,7 +3095,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति वालकाण्डे ताडकावधो नामाष्टाविंशः सर्गः॥२८॥ 15
 
-![](../books_images/U-IMG-1706790614Screenshot2024-01-29195235.png)
+<MISSING_FIG href="../books_images/U-IMG-1706790614Screenshot2024-01-29195235.png"/>
 
 **सर्गः२९**
 
@@ -3177,7 +3179,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
  इति बालकाण्डे भस्त्रग्रामप्रदानं नामैकोनत्रिंशः सर्गः॥२९॥
 
-![](../books_images/U-IMG-1706516892Screenshot2024-01-29135748.png)
+<MISSING_FIG href="../books_images/U-IMG-1706516892Screenshot2024-01-29135748.png"/>
 
 **सर्गः३०**
 
@@ -3341,7 +3343,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
  इति बालकाण्डे सिद्धाश्रमनिवसो नामैकत्रिंशः सर्गः॥३१॥
 
-**![](../books_images/U-IMG-1706711878Untitled1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706711878Untitled1.png"/>**
 
 **सर्गः३२**
 
@@ -3422,7 +3424,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
  इति बालकाण्डे विश्वामित्रयज्ञो नाम द्वात्रिंशः सर्गः॥३२॥
 
-![](../books_images/U-IMG-1706715675Untitled11.png)
+<MISSING_FIG href="../books_images/U-IMG-1706715675Untitled11.png"/>
 
 **सर्गः३३**
 
@@ -3503,7 +3505,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
  इति बालकाण्डे शोणतरिनिवासो नाम त्रयस्त्रिंशः सर्गः॥३३॥
 
-![](../books_images/U-IMG-1706716931Untitled111.png)
+<MISSING_FIG href="../books_images/U-IMG-1706716931Untitled111.png"/>
 
 ब्रह्मयोनिर्महानासीत्कुशो नाम जनाधिपः।  
 अक्लिष्टव्रतधर्मज्ञः सज्जनप्रतिपूजकः॥१॥
@@ -3666,7 +3668,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 ** इति बालकाण्डे ब्रह्मदत्तविवाहो नाम चतुस्त्रिंशः सर्गः॥३४॥**
 
-**![](../books_images/U-IMG-1708144602Screenshot2024-02-17100625.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708144602Screenshot2024-02-17100625.png"/>**
 
 **सर्गः३५**
 
@@ -3742,7 +3744,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 15इति बालकाण्डे विश्वामित्र वंशकीर्तनं नाम पञ्चत्रिंशः सर्गः॥३५॥
 
- ![](../books_images/U-IMG-1706896849Untitled1.png)
+ <MISSING_FIG href="../books_images/U-IMG-1706896849Untitled1.png"/>
 
 उपास्य रात्रिशेषं तु शोणकूले महर्षिभिः।  
 निशायां सुप्रभातायां विश्वामित्रोभ्यभाषत॥१॥
@@ -3812,7 +3814,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे गङ्गोत्पत्तिर्नाम षट्त्रिंशः सर्ग॥३६॥
 
-**  ![](../books_images/U-IMG-1706898042Untitled1.png)**
+**  <MISSING_FIG href="../books_images/U-IMG-1706898042Untitled1.png"/>**
 
 **सर्गः३७**
 
@@ -3900,7 +3902,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे उमामाहात्म्यं नाम सप्तत्रिंशः सर्गः॥३७॥
 
-**![](../books_images/U-IMG-1706899328Untitled1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706899328Untitled1.png"/>**
 
 **सर्गः३८**
 
@@ -3997,7 +3999,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 **15 इतिबालकाण्डे कुमारोत्पत्तिर्नाम अष्टत्रिंशः सर्गः॥३८॥**
 
-![](../books_images/U-IMG-1706926477Untitled1.png)
+<MISSING_FIG href="../books_images/U-IMG-1706926477Untitled1.png"/>
 
 सर्गः३९
 
@@ -4078,7 +4080,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 **इति बालकाण्डे सगरपुत्रजन्म नाम एकोनचत्वारिंशः सर्गः॥३९॥**
 
-**![](../books_images/U-IMG-1706927355Untitled11.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706927355Untitled11.png"/>**
 
 **सर्गः४०**
 
@@ -4162,7 +4164,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे पृथिवीविदारणं नाम चत्वारिंशः सर्गः॥४०॥
 
-**![](../books_images/U-IMG-1706928626Untitled1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706928626Untitled1.png"/>**
 
 **सर्गः४१**
 
@@ -4258,7 +4260,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 **15 इति बालकाण्डे कपिलदर्शनं नाम एकचत्वारिंशः सर्गः॥४१॥**
 
-**![](../books_images/U-IMG-1706929774Untitled1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706929774Untitled1.png"/>**
 
 **सर्गः४२**
 
@@ -4345,7 +4347,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 **15 इति बालकाण्डे सगरयज्ञसमाप्तिर्नाम द्विचत्वारिंशः सर्गः॥४२॥**
 
-**![](../books_images/U-IMG-1706934552Untitled111111.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706934552Untitled111111.png"/>**
 
 **सर्गः४३**
 
@@ -4429,7 +4431,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे भगीरथवरप्रदानं नाम त्रिचत्वारिंशः सर्गः॥४३॥
 
-![](../books_images/U-IMG-1708544041Screenshot2024-02-22010352.png)
+<MISSING_FIG href="../books_images/U-IMG-1708544041Screenshot2024-02-22010352.png"/>
 
 **सर्गः४४**
 
@@ -4624,7 +4626,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे गङ्गावतरणं नाम चतुश्चत्वारिंशः सर्गः॥४४॥
 
-![](../books_images/U-IMG-1706721812Screenshot2024-01-31225309.png)
+<MISSING_FIG href="../books_images/U-IMG-1706721812Screenshot2024-01-31225309.png"/>
 
 **सर्गः४५**
 
@@ -4780,7 +4782,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे अमृतोत्पत्तिर्नाम पञ्चचत्वारिंशः सर्गः॥४५॥
 
-![](../books_images/U-IMG-1706757583Screenshot2024-02-01084920.png)
+<MISSING_FIG href="../books_images/U-IMG-1706757583Screenshot2024-02-01084920.png"/>
 
 **सर्गः४६**
 
@@ -4855,7 +4857,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे दितिगर्भच्छेदो नाम षट्चत्वारिंशः सर्गः॥४६॥
 
-![](../books_images/U-IMG-1706758697Screenshot2024-01-31225309.png)
+<MISSING_FIG href="../books_images/U-IMG-1706758697Screenshot2024-01-31225309.png"/>
 
 **सर्गः४७**
 
@@ -4927,7 +4929,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 5 इति बालकाण्डे सुमतिसमागमो नाम सप्तचत्वारिंशः सर्गः॥४७॥
 
-![](../books_images/U-IMG-1706760483Screenshot2024-02-01093742.png)
+<MISSING_FIG href="../books_images/U-IMG-1706760483Screenshot2024-02-01093742.png"/>
 
 **सर्गः४८**
 
@@ -5035,7 +5037,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे शक्राहल्याशापो नाम अष्टचत्वारिंशः सर्गः॥४८॥
 
-![](../books_images/U-IMG-1706762069Screenshot2024-01-31225309.png)
+<MISSING_FIG href="../books_images/U-IMG-1706762069Screenshot2024-01-31225309.png"/>
 
 **सर्गः४९**
 
@@ -5115,7 +5117,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे अहल्याशापोद्धारो नाम एकोनपञ्चाशः सर्गः॥४९॥
 
-![](../books_images/U-IMG-1706764027Screenshot2024-02-01103651.png)
+<MISSING_FIG href="../books_images/U-IMG-1706764027Screenshot2024-02-01103651.png"/>
 
 **सर्गः५०**
 
@@ -5193,7 +5195,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे जनकसमागमो नाम पञ्चाशः सर्गः॥५०॥
 
-![](../books_images/U-IMG-1706781073Screenshot2024-02-01151131.png)
+<MISSING_FIG href="../books_images/U-IMG-1706781073Screenshot2024-02-01151131.png"/>
 
 **सर्गः५१**
 
@@ -5283,7 +5285,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 10 इति बालकाण्डे विश्वामित्रोपाख्याने शतानन्दवाक्यं नाम एकपञ्चाशः सर्गः॥५१॥
 
-![](../books_images/U-IMG-1706781817Screenshot2024-02-01084920.png)
+<MISSING_FIG href="../books_images/U-IMG-1706781817Screenshot2024-02-01084920.png"/>
 
 **सर्गः५२**
 
@@ -5359,7 +5361,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे विश्वामित्रोपाख्याने विश्वामित्रनिमन्त्रणं नाम द्विपञ्चाशः सर्गः॥५२॥
 
-![](../books_images/U-IMG-1706782880Screenshot2024-01-31225309.png)
+<MISSING_FIG href="../books_images/U-IMG-1706782880Screenshot2024-01-31225309.png"/>
 
 **सर्गः५३**
 
@@ -5513,7 +5515,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे विश्वामित्रोपाख्याने विश्वामित्रशकादियुद्धं नाम चतुःपञ्चाशः सर्गः॥५४॥ 20
 
-![](../books_images/U-IMG-1706785071Screenshot2024-02-01084920.png)
+<MISSING_FIG href="../books_images/U-IMG-1706785071Screenshot2024-02-01084920.png"/>
 
 **सर्गः५५**
 
@@ -5600,7 +5602,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इतिबालकाण्डे विश्वामित्रोपाख्याने वसिष्ठाश्रमदाहो नाम पञ्चपञ्चाशः सर्गः॥५५॥
 
-![](../books_images/U-IMG-1706795959Screenshot2024-01-31225309.png)
+<MISSING_FIG href="../books_images/U-IMG-1706795959Screenshot2024-01-31225309.png"/>
 
 **सर्गः५६**
 
@@ -5677,7 +5679,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे विश्वामित्रोपाख्याने विश्वामित्रप्रतिज्ञा नाम षट्पञ्चाशः सर्गः॥५६॥
 
-![](../books_images/U-IMG-1706797393Screenshot2024-01-31225309.png)
+<MISSING_FIG href="../books_images/U-IMG-1706797393Screenshot2024-01-31225309.png"/>
 
 **सर्गः५७**
 
@@ -5746,7 +5748,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे विश्वामित्रोपाख्याने त्रिशङ्कुवाक्यं नाम सप्तपञ्चाशः सर्गः॥५७॥
 
-![](../books_images/U-IMG-1706798175Screenshot2024-02-01084920.png)
+<MISSING_FIG href="../books_images/U-IMG-1706798175Screenshot2024-02-01084920.png"/>
 
 **सर्गः५८**
 
@@ -5824,7 +5826,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे विश्वामित्रोपाख्याने त्रिशङ्कुशापो नाम अष्टपञ्चाशः सर्गः॥५८॥
 
-![](../books_images/U-IMG-1706799913Screenshot2024-01-31225309.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706799913Screenshot2024-01-31225309.png"/>  
           5
 
 **सर्गः५९**
@@ -5898,7 +5900,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 इति बालकाण्डे विश्वामित्रोपाख्याने वासिष्टशापो नाम एकोनषष्टितमः सर्गः॥५९॥
 
 25             
-![](../books_images/U-IMG-1706800765Screenshot2024-01-31225309.png)
+<MISSING_FIG href="../books_images/U-IMG-1706800765Screenshot2024-01-31225309.png"/>
 
 **सर्गः६०**
 
@@ -6002,7 +6004,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे विश्वामित्रोपाख्याने त्रिशङ्कुस्वर्गरोहणं नाम षष्टितमः सर्गः॥६०॥ 10
 
-![](../books_images/U-IMG-1706802481Screenshot2024-01-31225309.png)
+<MISSING_FIG href="../books_images/U-IMG-1706802481Screenshot2024-01-31225309.png"/>
 
 **सर्गः६१**
 
@@ -6162,7 +6164,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 षष्टितमः सर्गः॥६२॥ 5
 
-![](../books_images/U-IMG-1706516892Screenshot2024-01-29135748.png)
+<MISSING_FIG href="../books_images/U-IMG-1706516892Screenshot2024-01-29135748.png"/>
 
 **सर्गः६३**
 
@@ -6252,7 +6254,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति वालकाण्डे विश्वामित्रोपाख्याने मेनकानिर्वासो नाम त्रिषटितमः सर्गः॥६३॥
 
-![](../books_images/U-IMG-1706518686Screenshot2024-01-29142734.png)
+<MISSING_FIG href="../books_images/U-IMG-1706518686Screenshot2024-01-29142734.png"/>
 
 **सर्गः६४**
 
@@ -6315,7 +6317,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे विश्वामित्रोपाख्याने रम्भाशापो नाम चतुःषष्टितमः सर्गः॥६४॥
 
-![](../books_images/U-IMG-1706519252Screenshot2024-01-29142734.png)
+<MISSING_FIG href="../books_images/U-IMG-1706519252Screenshot2024-01-29142734.png"/>
 
 **सर्गः६५**
 
@@ -6434,7 +6436,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे विश्वामित्रोपाख्याने विश्वामित्रब्रह्मत्वप्राप्तिर्नाम पञ्चषष्टितमः सर्गः॥६५॥
 
-![](../books_images/U-IMG-1706522430Screenshot2024-01-29142734.png)
+<MISSING_FIG href="../books_images/U-IMG-1706522430Screenshot2024-01-29142734.png"/>
 
 **सर्गः६६**
 
@@ -6521,7 +6523,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे जनकवाक्य नाम षट्षष्टितमः सर्गः॥६६॥
 
-**![](../books_images/U-IMG-1706530307Screenshot2024-01-29174121.png) 
+**<MISSING_FIG href="../books_images/U-IMG-1706530307Screenshot2024-01-29174121.png"/> 
    20**
 
 **सर्गः६७**
@@ -6610,7 +6612,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे धनुभङ्गो नाम सप्तषष्टितमः सर्गः॥६७॥
 
-![](../books_images/U-IMG-1706531995Screenshot2024-01-29180914.png) 
+  
+<MISSING_FIG href="../books_images/U-IMG-1706531995Screenshot2024-01-29180914.png"/> 
           20
 
 **सर्गः६८**
@@ -6732,7 +6735,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे जनकदशरथसंवादो नाम एकोनसप्ततितमः सर्गः॥६९॥
 
-![](../books_images/U-IMG-1706536460Screenshot2024-01-29180914.png)
+<MISSING_FIG href="../books_images/U-IMG-1706536460Screenshot2024-01-29180914.png"/>
 
 **सर्गः७०**
 
@@ -6870,7 +6873,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे कन्यावरणं नाम सप्ततितमः सर्गः॥७०॥20
 
-**![](../books_images/U-IMG-1706537017Screenshot2024-01-29193305.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706537017Screenshot2024-01-29193305.png"/>**
 
 **सर्गः७१**
 
@@ -6948,7 +6951,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे जनक कुलप्रख्यानं नाम एकसप्ततितमः सर्गः ७१
 
-![](../books_images/U-IMG-1706537452Screenshot2024-01-29194025.png)
+<MISSING_FIG href="../books_images/U-IMG-1706537452Screenshot2024-01-29194025.png"/>
 
 **सर्गः७२**
 
@@ -7026,7 +7029,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे गोदानं नाम द्विसप्ततितमः सर्गः॥७२॥
 
-![](../books_images/U-IMG-1706537787Screenshot2024-01-29194558.png)
+<MISSING_FIG href="../books_images/U-IMG-1706537787Screenshot2024-01-29194558.png"/>
 
 **सर्गः७२**
 
@@ -7142,7 +7145,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे दशरथपुत्रविवाहो नाम त्रिसप्ततितमः सर्गः॥७३॥
 
-**![](../books_images/U-IMG-1706538192Screenshot2024-01-29195235.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706538192Screenshot2024-01-29195235.png"/>**
 
 सर्गः७४
 
@@ -7218,7 +7221,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे जामदग्न्यसमागमो नाम चतुःसप्ततितमः सर्गः ७४
 
-![](../books_images/U-IMG-1706538696Screenshot2024-01-29180914.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706538696Screenshot2024-01-29180914.png"/>  
              20
 
 **सर्गः७५**
@@ -7312,7 +7315,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे जामदग्न्यवाक्यं नाम पञ्चसप्ततितमः सर्गः॥५५॥
 
-![](../books_images/U-IMG-1706539031Screenshot2024-01-29180914.png)
+<MISSING_FIG href="../books_images/U-IMG-1706539031Screenshot2024-01-29180914.png"/>
 
 **सर्गः ७६**
 
@@ -7390,7 +7393,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 इति बालकाण्डे जामदग्न्यलोकविरोधो नाम षट्सप्ततितमः सर्गः॥७६॥
 
-![](../books_images/U-IMG-1706539338Screenshot2024-01-29180914.png)
+<MISSING_FIG href="../books_images/U-IMG-1706539338Screenshot2024-01-29180914.png"/>
 
 **सर्गः७७**
 
@@ -7486,11 +7489,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA3MTM1ODU5ODQ
 
 ॥इति श्रीमद्वालकाण्डं समाप्तम्॥
 
-![](../books_images/U-IMG-1706539569Screenshot2024-01-29180914.png)
+<MISSING_FIG href="../books_images/U-IMG-1706539569Screenshot2024-01-29180914.png"/>
 
 **NOTES.**
 
-**![](../books_images/U-IMG-1706582751Screenshot2024-01-29195235.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706582751Screenshot2024-01-29195235.png"/>**
 
  P. 1—.'The Mss. differ greatly in this prelude, most of them opening with longer introductions in honour not only of the poet, but also of the chief characters of the poem. These introductions, it is clear, are not from the same hand as the poem itself, even if we suppose that the poem is the work of one author. In some of them the language and the metro speak of a later origin; for example, the verse that comes third in the Calcutta edition is taken from the prologue of the play Arghya-Raghava. I have thought it best to keep only those which commend themselves by their neatness and simplicity, and seem to have passed into proverbs.' Schlegel.
 
@@ -8785,6 +8788,6 @@ C. and M.
 
  P. 175. LL. 15-18.— 'Sitû is dear to Rama as his father's choice. Her virtues and her beauty endear her the more to him. And in her heart ever more and more her husband dwells; spite of the fleshly veil,' that separates them, their hearts speak openly one with the other.' I question if thero be anywhere in literature a finer picture of wedded love' than that contained in these closing verses.
 
-![](../books_images/U-IMG-1706594569Screenshot2023-11-08175537.png)
+<MISSING_FIG href="../books_images/U-IMG-1706594569Screenshot2023-11-08175537.png"/>
 
 \]

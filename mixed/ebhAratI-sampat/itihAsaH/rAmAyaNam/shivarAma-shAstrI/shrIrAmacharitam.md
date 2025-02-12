@@ -33,7 +33,7 @@ BY
 
 ## Kumbakonam.
 
-![](../../../../../books_images/U-IMG-1703160323Screenshot2023-07-21172948.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703160323Screenshot2023-07-21172948.png"/>
 
 PRINTERS:
 
@@ -56,7 +56,7 @@ BY
 Sanskrit Pandit, Town High School,  
 Kumbakonum.
 
-![](../../../../../books_images/U-IMG-1703160501Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../../../../../books_images/U-IMG-1703160501Screenshot2023-08-08170946.png"/>
 
 **PRINTERS:**
 
@@ -87,7 +87,7 @@ MADRAS STATE (S. INDIA)**
 
 **॥ श्रीः ॥**
 
-**![](../../../../../books_images/U-IMG-1703160829Screenshot2023-12-21174304.png)॥ श्रीरामचरितम् ॥![](../../../../../books_images/U-IMG-1703160872Screenshot2023-12-21174419.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703160829Screenshot2023-12-21174304.png"/>॥ श्रीरामचरितम् ॥<MISSING_FIG href="../../../../../books_images/U-IMG-1703160872Screenshot2023-12-21174419.png"/>**
 
 **प्रथमस्स्तबकः।**
 
@@ -231,7 +231,7 @@ MADRAS STATE (S. INDIA)**
 **इति श्रीरामचरिते राघववाल्यचरित्रवर्णनंनाम  
 प्रथमः स्तबकः**
 
-**![](../../../../../books_images/U-IMG-1703174121Screenshot2023-07-21172948.png)**
+**<MISSING_FIG href="../../../../../books_images/U-IMG-1703174121Screenshot2023-07-21172948.png"/>**
 
 ओरियन्टल पब्लिषिङ् हौम्, मयूरपुर्ग, मद्रास्.
 

@@ -25,7 +25,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzOTgyNjgwNTg
  
 
 **FOREWORD  
-![](../books_images/U-IMG-1701062957Screenshot2023-11-27105857.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701062957Screenshot2023-11-27105857.png"/>**
 
  **W**HAT is man? What is his place in the universe ? What is his ultimate destiny? What constitutes noble living? Questions like these have been raised from the beginnings of thought. Though the dignity of man is not affected by his inability to answer these questions, it is affected by his indifference to them. Man does not live by bread alone. He desires not only to live but to understand and behave well. To live in a world that makes no sense is intolerable to him. He feels an overwhelming need to explain the universe, to reduce the bewildering diversity of phenomena to some order. Hunger and thirst after righteousness is as much a characteristic of the human mind as hunger and thirst after rationality. Codes of conduct and systems of philosophy which give abstract rules and definitions cannot satisfy these vital needs as art and literature do through their creations which embody high ideals of life and conduct.
 
@@ -49,10 +49,10 @@ difficulties incident to the work of translation of ancient classics, it will be
 
 **S. RADHAKRISHNAN.**
 
-**![](../books_images/U-IMG-1701067147Screenshot2023-11-27105857.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701067147Screenshot2023-11-27105857.png"/>**
 
 **TRANSLATOR'S NOTE  
-![](../books_images/U-IMG-1701069889Screenshot2023-11-27105857.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701069889Screenshot2023-11-27105857.png"/>**
 
  THE great Epic of Mahabharata wascomposed by Sage Krishna Dvaipayana Vyasa, the grandfather of the heroes of the Epic. He taught his Epic to his son Suka and to his pupils, Vaisampayana and others. King Janamejaya, son of king Parikshit, the grandsonof the heroes of the Epic, performed a great sacrifice and during its session, the Epic was recited by Vaisampayana to Janamejaya at the bidding of Vyasa. Subsequently, Sauti recited the Epic, as done by Vaishampayana to Janamejaya, to the Brahmin Saunaka and others during a sacrifice performed by Saunaka in the Naimisa forest. The text presented in the following pages is condensed as narrated by Vaishampayana to Janamejaya, with the addition at the beginning of five benedictory lines and eight concluding lines at the end, belonging to Sauti's recital before Saunaka and others. Though Vaisampayana narrates the story all through, the account of the Great War alone is given by him as narrated by Sanjaya, the minister and charioteer, to the blind Dhritarashtra. The discourse of Bhishma in the Santi and Anusasana Parvas is given in the original, for the most part, as dialogues between
 
@@ -69,7 +69,7 @@ readable. The translator is grateful to the kindness of those who helped him tow
 **V. RAGHAVAN.**
 
 **PUBLISHER'S NOTE  
-![](../books_images/U-IMG-1701067693Screenshot2023-11-27105857.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701067693Screenshot2023-11-27105857.png"/>**
 
  THIS is a companion volume to the Ramayana published a few months ago. The credit of bringing this book out within so short a period is largely due to Pandit Srinivasachariar who has displayed much alacrity, discernment and skill in his difficult task of condensing the mighty epic.
 
@@ -87,6 +87,8 @@ readable. The translator is grateful to the kindness of those who helped him tow
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  “Every scene on the shifting stage is a perfect and impressive picture. The tournament of the princes in which Arjun and Karna—the Achilles andHector of the Indian Epic—first met and each marked the other for his foe; the gorgeous bridal of Draupadi ; the equally gorgeous coronation of Yudhisthir and the death of the proud and boisterous Sisupala; the fatal game of dice and the scornful wrath of Draupadi against her insulters; the calm beauty of the forest life of the Pandavs; the cattle-lifting in Matsyaland in which the gallant Arjun threw off his disguise and stood forth as warrior and conqueror; and the Homeric speeches of the warriors in the council of war on the eve of the great contest—each scene of this venerable old Epic impresses itself on the mind of the hushed andastonished reader.”—*R. C. Dutt.* |
+
+ 
 
 **?**
 
@@ -126,7 +128,7 @@ readable. The translator is grateful to the kindness of those who helped him tow
 |     अविज्ञातो      |
 
 **CONTENTS  
-![](../books_images/U-IMG-1701071042Screenshot2023-11-27105857.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701071042Screenshot2023-11-27105857.png"/>**
 
 |                            |
 |----------------------------|
@@ -154,7 +156,7 @@ readable. The translator is grateful to the kindness of those who helped him tow
 | MESSAGE OF THE MAHABHARATA |
 | INDEX TO PROPER NAMES      |
 
-![](../books_images/U-IMG-1701071372Screenshot2023-11-27105857.png)  
+<MISSING_FIG href="../books_images/U-IMG-1701071372Screenshot2023-11-27105857.png"/>  
 
 **व्यासाय विष्णुरूपाय  
   व्यासरूपाय विष्णवे।  
@@ -171,12 +173,12 @@ readable. The translator is grateful to the kindness of those who helped him tow
 **॥ श्रीमन्महाभारतम् ॥**
 
 **THE MAHABHARATA  
-![](../books_images/U-IMG-1701071715Screenshot2023-11-27105857.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701071715Screenshot2023-11-27105857.png"/>**
 
 **॥ आदिपर्व ॥**
 
 **ADI PARVA  
-![](../books_images/U-IMG-1701071752Screenshot2023-11-27132539.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701071752Screenshot2023-11-27132539.png"/>**
 
 **आद्यं पुरुषमीशानं पुरुहूतं पुरुष्टुतम्।  
 नमस्कृत्य हृषीकेशं चराचरगुरुं हरिम्।  
@@ -193,7 +195,7 @@ readable. The translator is grateful to the kindness of those who helped him tow
 
  This Epic named Jaya must be listened to by him who is desirous of success.
 
-![](../books_images/U-IMG-1701072016Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701072016Screenshot2023-06-15123943.png"/>
 
 **भरतानां महज्जन्म महाभारतमुच्यते।  
 भरताद् भारती कीर्तिर्येनेदं भारतं कुलम्॥**
@@ -1900,13 +1902,13 @@ his brothers), Ghatoikacha (the son Bhima and Hidimba), the foremost among the R
 
 **THUS ENDS THE ADIPARVA.**
 
-![](../books_images/U-IMG-1701170113Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1701170113Screenshot2023-08-08170946.png"/>
 
 **॥अथ सभापर्व॥  
-![](../books_images/U-IMG-1701170357Screenshot2023-11-28164852.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701170357Screenshot2023-11-28164852.png"/>**
 
 **SABHA PARVA  
-![](../books_images/U-IMG-1701170390Screenshot2023-11-27132539.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701170390Screenshot2023-11-27132539.png"/>**
 
 **ततोऽब्रवीन्मयः पार्थं वासुदेवस्य सन्निधौ।  
 त्वया त्रातोऽस्मि कौन्तेय ब्रूहि किं करवाणि ते॥**
@@ -3138,13 +3140,13 @@ property;and awoman is subordinate to her husband:— considering this I am not 
 
 **THUS ENDS THE SABHA PARVA**
 
-**![](../books_images/U-IMG-1701322801Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701322801Screenshot2023-06-15124029.png"/>**
 
 **॥ अथ वनपर्व ॥  
-![](../books_images/U-IMG-1701323501Screenshot2023-11-27132539.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701323501Screenshot2023-11-27132539.png"/>**
 
 **VANA PARVA  
-![](../books_images/U-IMG-1701323529Screenshot2023-11-28164852.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701323529Screenshot2023-11-28164852.png"/>**
 
 **एवं द्यूतजिताः पार्था निर्ययुर्गजसाहयात्।  
 उदङ्मुखाश्शस्त्रभृतः प्रययुस्सह कृष्णया।  
@@ -3827,13 +3829,13 @@ any difference between them.
 **॥ इति वनपर्व समाप्तम् ॥**
 
 **THUS ENDS THE VANA PARVA.  
-![](../books_images/U-IMG-1701405221Screenshot2023-06-15123943.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701405221Screenshot2023-06-15123943.png"/>**
 
 **॥अथ विराटपर्व॥  
-![](../books_images/U-IMG-1701405307Screenshot2023-11-27132539.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701405307Screenshot2023-11-27132539.png"/>**
 
 **VIRATA PARVA  
-![](../books_images/U-IMG-1701405321Screenshot2023-11-28164852.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701405321Screenshot2023-11-28164852.png"/>**
 
 **धर्मेण तेऽभ्यनुशाताः पाण्डवास्सत्यविक्रमाः।  
 अज्ञातवासं वत्स्यन्तो मन्त्राय समुपाविशन्॥**
@@ -4251,13 +4253,13 @@ daughter regards me always as her teacher. Nephew of Krishna and looking verily 
 **॥इति विराटपर्व समाप्तम्॥**
 
 **THUS ENDS THE VIRATA PARVA.**  
-**![](../books_images/U-IMG-1701412421Screenshot2023-06-15123943.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701412421Screenshot2023-06-15123943.png"/>**
 
 **॥अथ उद्योगपर्व॥  
-![](../books_images/U-IMG-1701413275Screenshot2023-11-27132539.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701413275Screenshot2023-11-27132539.png"/>**
 
 **UDYOGA PARVA  
-![](../books_images/U-IMG-1701413302Screenshot2023-11-28164852.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701413302Screenshot2023-11-28164852.png"/>**
 
 **कृत्वा विवाहं तु कुरुप्रवीरा-  
   स्तदाऽभिमन्योर्मुदितास्सपक्षाः।  
@@ -5569,15 +5571,15 @@ swerved not from his vow, bowed to her and with folded hands stood ready to serv
 
 **THUS ENDS THE UDYOGA PARVA.**
 
-**![](../books_images/U-IMG-1701593728Screenshot2023-07-21172948.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701593728Screenshot2023-07-21172948.png"/>**
 
 **॥ अथ भीष्मपर्व ॥**
 
-**![](../books_images/U-IMG-1701593811Screenshot2023-11-27132539.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701593811Screenshot2023-11-27132539.png"/>**
 
 **BHISHMA PARVA**
 
-**![](../books_images/U-IMG-1701593837Screenshot2023-11-28164852.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701593837Screenshot2023-11-28164852.png"/>**
 
 **ततस्ते समयं चक्रुः कुरुपाण्डवसोमकाः।  
 धर्मान्संस्थापयामासुर्युद्धानां \[भरतर्षभ\] ॥**
@@ -6056,13 +6058,13 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
 **THUS ENDS THE BHISHMA PARVA.**
 
-**![](../books_images/U-IMG-1701602285Screenshot2023-12-03164755.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701602285Screenshot2023-12-03164755.png"/>**
 
 **॥अथ द्रोणपर्व॥  
-![](../books_images/U-IMG-1701602403Screenshot2023-12-03164755.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701602403Screenshot2023-12-03164755.png"/>**
 
 **DRONA PARVA  
-![](../books_images/U-IMG-1701602420Screenshot2023-12-03164755.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701602420Screenshot2023-12-03164755.png"/>**
 
 **अथाभिषिषिचुद्रणं दुर्योधनमुखा कृपाः।  
 सैनापत्ये यथा स्कन्दं पुरा शक्रमुखास्सुराः॥**
@@ -6453,13 +6455,13 @@ the guards, embracing Karna with one hand, as a father would a son, and slowly l
 
 **THUS ENDS THE DRONA PARVA.**  
 
-**![](../books_images/U-IMG-1701756368Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701756368Screenshot2023-06-15124029.png"/>**
 
 **॥अथ कर्णपर्व॥  
-![](../books_images/U-IMG-1701674264Screenshot2023-11-27132539.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701674264Screenshot2023-11-27132539.png"/>**
 
 **KARNA PARVA  
-![](../books_images/U-IMG-1701674290Screenshot2023-11-28164852.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701674290Screenshot2023-11-28164852.png"/>**
 
 **ततोऽभिषिषिचु कर्णं राजानां विजयैषिणः॥**
 
@@ -6747,13 +6749,13 @@ Karna, why was it that Dharma was not to your liking, when you, Duryodhana, Duss
 
 **THUS ENDS THE KARNA PARVA.**
 
-**![](../books_images/U-IMG-1701677705Screenshot2023-12-03164755.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701677705Screenshot2023-12-03164755.png"/>**
 
 **॥अथ शल्यपर्व॥  
-![](../books_images/U-IMG-1701677809Screenshot2023-06-15123943.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701677809Screenshot2023-06-15123943.png"/>**
 
 **SALYA PARVA  
-![](../books_images/U-IMG-1701677821Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701677821Screenshot2023-06-15124029.png"/>**
 
 **निहते सूतपुत्रे च फल्गुनेन महात्मना।  
 विमुखे तव पुत्रे च कृपाविष्टः कृपोऽब्रवीत्॥**
@@ -7090,13 +7092,13 @@ severely wounded in body and one whose conveyances and soldiers have been destro
 
 **THUS ENDS THE SALYA PARVA.**
 
-**![](../books_images/U-IMG-1701688035Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701688035Screenshot2023-06-15124029.png"/>**
 
 **॥अथ सौप्तिकपर्व॥  
-![](../books_images/U-IMG-1701688174Screenshot2023-06-15123943.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701688174Screenshot2023-06-15123943.png"/>**
 
 **SAUPTIKA PARVA**  
-**![](../books_images/U-IMG-1701688174Screenshot2023-06-15123943.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701688174Screenshot2023-06-15123943.png"/>**
 
 **ततोऽस्तं पर्वतश्रेष्ठमनुप्राप्ते दिवाकरे।  
 रात्रिञ्चराणां सत्त्वानां निनादोऽभूत्सुदारुणः।  
@@ -7239,13 +7241,13 @@ Pandavas' line. I shall bring to life that Parikshit burnt by the heat of the fi
 
 **THUS ENDS THE SAUPTIKA PARVA.**
 
-**![](../books_images/U-IMG-1701690003Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701690003Screenshot2023-06-15124029.png"/>**
 
 **॥अथ स्त्रीपर्व॥  
-![](../books_images/U-IMG-1701690091Screenshot2023-06-15123943.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701690091Screenshot2023-06-15123943.png"/>**
 
 **STRI PARVA**  
-**![](../books_images/U-IMG-1701690091Screenshot2023-06-15123943.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701690091Screenshot2023-06-15123943.png"/>**
 
 **ततः प्रणादस्संजज्ञे सर्वेषु कुरुवेश्मसु।  
 आकुमारं पुरं सर्वमभबच्छोककर्शितम्॥**
@@ -7352,13 +7354,13 @@ brother of yours of irreproachable acts, offer water; for he is your eldest brot
 
 **THUS ENDS THE STRI PARVA.**
 
-**![](../books_images/U-IMG-1701691097Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701691097Screenshot2023-06-15124029.png"/>**
 
 **॥अथ शान्तिपर्व॥  
-![](../books_images/U-IMG-1701691179Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701691179Screenshot2023-06-15124029.png"/>**
 
 **SANTI PARVA**  
-**![](../books_images/U-IMG-1701691179Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701691179Screenshot2023-06-15124029.png"/>**
 
 **स राजा पुत्रपौत्राणां सम्बन्धिसुहृदां स्मरन्।  
 निर्वेदमगमद्धीमान् राज्ये सन्तापपीडितः॥**
@@ -7709,13 +7711,13 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 **॥इति शान्तिपर्व समाप्तम्॥**
 
 **THUS ENDS THE SANTI PARVA.**  
-![](../books_images/U-IMG-1701784766Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1701784766Screenshot2023-06-15124029.png"/>
 
 **॥अथ अनुशासनपर्व॥  
-![](../books_images/U-IMG-1701784840Screenshot2023-11-27132539.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701784840Screenshot2023-11-27132539.png"/>**
 
 **ANUSASANA PARVA  
-![](../books_images/U-IMG-1701784856Screenshot2023-11-28164852.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701784856Screenshot2023-11-28164852.png"/>**
 
 **भीष्मः—**
 
@@ -7914,13 +7916,13 @@ owns nothing, I find here. noneequal. I weighed on the scales povertyand kingdom
 
 **THUS ENDS THE ANUSASANA PARVA.**
 
-**![](../books_images/U-IMG-1701838488Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701838488Screenshot2023-06-15124029.png"/>**
 
 **॥ अथ आश्वमेधिकपर्व ॥  
-![](../books_images/U-IMG-1701838544Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701838544Screenshot2023-06-15124029.png"/>**
 
 **ASVAMEDHIKA PARVA  
-![](../books_images/U-IMG-1701838544Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701838544Screenshot2023-06-15124029.png"/>**
 
 **कृतोदको महाबाहुर्बाष्पव्याकुललोचनः।  
 सोऽनुनीतो भगवता विवेश गजसाह्रयम्॥**
@@ -7991,13 +7993,13 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
 **THUS ENDS THE ASVAMEDHIKA PARVA.**
 
-**![](../books_images/U-IMG-1701840384Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701840384Screenshot2023-06-15124029.png"/>**
 
 **॥अथ आश्रमवासिकपर्व॥**  
-**![](../books_images/U-IMG-1701840472Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701840472Screenshot2023-06-15124029.png"/>**
 
 **ASRAMAVASIKA PARVA**  
-**![](../books_images/U-IMG-1701840472Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701840472Screenshot2023-06-15124029.png"/>**
 
 **प्राप्य राज्यं महात्मानः पाण्डवा हतशत्रवः।  
 धृतराष्ट्र पुरस्कृत्य पृथिवीं पर्यपालयन्॥**
@@ -8079,13 +8081,13 @@ for all time, let this dead child born of Abhimanyu come to life.’ As soon as 
 
 **THUS ENDS THE ASRAMAVASIKA PARVA.**
 
-**![](../books_images/U-IMG-1701841455Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701841455Screenshot2023-06-15124029.png"/>**
 
 **॥अथ मौसलपर्व॥  
-![](../books_images/U-IMG-1701841517Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701841517Screenshot2023-06-15124029.png"/>**
 
 **MAUSALA PARVA  
-![](../books_images/U-IMG-1701841517Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701841517Screenshot2023-06-15124029.png"/>**
 
 **षट्त्रिंशे त्वथ संप्राप्ते वर्षे कौरवनन्दनः।  
 ददर्श विपरीतानि निमित्तानि युधिष्ठिरः॥**
@@ -8252,13 +8254,13 @@ falling of the skies and the cooling of fire. And, bereft of Krishna, I do not w
 
 **THUS ENDS THE MAUSALA PARVA.**
 
-**![](../books_images/U-IMG-1701843963Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701843963Screenshot2023-06-15124029.png"/>**
 
 **॥अथ महाप्रस्थानपर्व॥  
-![](../books_images/U-IMG-1701844189Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701844189Screenshot2023-06-15124029.png"/>**
 
 **MAHAPRASTHANA PARVA**  
-**![](../books_images/U-IMG-1701844189Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701844189Screenshot2023-06-15124029.png"/>**
 
 **श्रुत्वैवं कौरवो राजा वृष्णीनां कदनं महत्।  
 राज्यं परिददौ सर्वं वैश्यापुत्रे युधिष्ठिरः।  
@@ -8474,13 +8476,13 @@ have renounced the celestial chariot, because this dog is devoted (to you). Henc
 
 **THUS ENDS THE MAHAPRASTHANA PARVA.**
 
-**![](../books_images/U-IMG-1701847308Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701847308Screenshot2023-06-15124029.png"/>**
 
 **॥ अथ स्वर्गारोहणपर्व ॥  
-![](../books_images/U-IMG-1701847484Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701847484Screenshot2023-06-15124029.png"/>**
 
 **SVARGAROHANA PARVA**  
-**![](../books_images/U-IMG-1701847484Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701847484Screenshot2023-06-15124029.png"/>**
 
 **स्वर्गं त्रिविष्टपं प्राप्य धर्मराज उवाच ह।  
 ‘ये ते वीरा महात्मानो भ्रातरो मे महाव्रताः।  
@@ -8628,7 +8630,7 @@ All the sons of Dhritarashtra joined the demons. Vidura entered god Dharma, and 
 
  And Krishna who was an incarnation of that eternal God of gods known as Narayana, entered (that Narayana ) at the end of His mission (on earth).
 
-![](../books_images/U-IMG-1701850154Screenshot2023-09-04170857.png)
+<MISSING_FIG href="../books_images/U-IMG-1701850154Screenshot2023-09-04170857.png"/>
 
 **एतत् कुरूणां चरितं पाण्डवानां च \[भारत\]।  
 कृष्णेन मुनिना \[विप्र\] निर्मितं सत्यवादिना।  
@@ -8655,18 +8657,18 @@ All the sons of Dhritarashtra joined the demons. Vidura entered god Dharma, and 
 
 **THUS ENDS THE SVARGAROHANA PARVA.**
 
-**![](../books_images/U-IMG-1701850423Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701850423Screenshot2023-06-15124029.png"/>**
 
 **॥इति महाभारतं समाप्तम्॥**
 
 **THUS ENDS THE MAHABHARATA.**
 
-**![](../books_images/U-IMG-1701850423Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701850423Screenshot2023-06-15124029.png"/>**
 
 **THE MESSAGE OF THE MAHABHARATA  
 BY DR. V. RAGHAVAN, M.A., Ph.D.**
 
-**![](../books_images/U-IMG-1701850804Screenshot2023-07-21172948.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701850804Screenshot2023-07-21172948.png"/>**
 
  THE Mahabharata of Sage Vyasa is comparable only to the Ramayana of sage Valmiki in its hold over the millions of Hindus, a hold which the Titan of Time has failed to render less strong. Dharmaputra is still the inspiring example of all who have made truthfulness and righteousness the only motive force of their action; Karna is still the greatest object of comparison for the munificent; Arjuna, the Nara, is still loved as the ideal man. And which Hindu is there, whom the faith does not sustain that in his hour of trial, when everybody has forsaken him, the Lord who saved Draupadi will come to his rescue?
 
@@ -8685,12 +8687,12 @@ the end, the Epic has glorified (1. 1. 272-275 and XVI. 9. 36-40). This Vairagya
 
 heeds. From Dharma can one attain his Artha and Kama. Why is not that Dharma resorted to? Not out of passion, not out of fear, not out of avarice, not even for the sake of life, should one abandon Dharma. This is the essence; this is the Bharata Gayatri. Meditate upon this as you rise out of bed every morning.”
 
-![](../books_images/U-IMG-1701853078Screenshot2023-07-21172948.png)
+<MISSING_FIG href="../books_images/U-IMG-1701853078Screenshot2023-07-21172948.png"/>
 
 **INDEX TO THE PROPER NAMES  
 OCCURRING IN THE TEXT**
 
-**![](../books_images/U-IMG-1701853150Screenshot2023-06-15124029.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701853150Screenshot2023-06-15124029.png"/>**
 
 ** ABHIMANYU—** Son of Arjunaand Subhadra; marries Uttara, daughter of king Virata; meets with a cruel death in the great war; father of Parikshit. Also called Arjuni (son of Arjuna), Karshni (son of Krishna,a name of Arjuna), Saubhadra and Saubhadreya (son of Subhadra).
 
@@ -9123,7 +9125,7 @@ Dhritarashtra; his son is the villain of the Epic, Sakuni, uncle of Duryodhana.
 
 ** YUYUTSU.—**Son of Dhritarashtra and his Vaisya wife; joins the Pandavas in the great battle; the one surviving member of the line of Dhritarashtra; appointed regent for Parikshit by the Pandavas on their journey to the heavens; referred to also as Vaisyaputra.
 
-![](../books_images/U-IMG-1701926372Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1701926372Screenshot2023-08-08170946.png"/>
 
 **-------------------------------------------------------------------------------**
 
@@ -9131,7 +9133,7 @@ First Edn. 3,000 Copies Nov. 1935, G. A. Natesan & Co., Madras.
 
  “No work of the imagination that could be named, always excepting the Iliad, is so rich and so true as the Mahabharata in the portraiture of the human character–not in torment and suffering as in Dante, not under overwhelming passions as in Shakespeare—but human character in its calm dignity of strength and repose, like those immortal figures in marble which the ancients turned out, and which modern sculptors have vainly sought to reproduce. The old Kuru monarch Dhritarashtra, sightless and feeble, but majestic in his ancient grandeur; the noble grandsire Bhishma, “death's subduer” and unconquerable in war; the doughty Drona, venerable priest and vengeful warrior; and the proud and peerless archer Karna—have each a distinct character of his own.............The proud and unyielding Duryodhan, and the fierce and fiery Duhsasan stand out foremost among the wrathful sons of the feeble old Kuru monarch. And Krishna.............unmatched in human wisdom, ever striving for righteousness and peace, he is thorough and unrelenting in war when war has begun. And the women of the Indian Epic possess characters as marked as those of the men. The stately and majestic queen Gandhari, the loving and doting mother Pritha, the proud and scornful Draupadi nursing her wrath till her wrongs are fearfully revenged, and the bright and brilliant and sunny Subhadra,—these are distinct images pencilled by the hand of a true master in the realm of creative imagination.—*R. C. Dutt.*
 
-*![](../books_images/U-IMG-1701927554Screenshot2023-06-15124029.png)*
+*<MISSING_FIG href="../books_images/U-IMG-1701927554Screenshot2023-06-15124029.png"/>*
 
 **THE INDIAN EPICS**  
 **THE RAMAYANA AND THE MAHABHARATA**
@@ -9233,7 +9235,7 @@ BY MR. S. VENKATARAMANAN, B.A.
 **Rs. Two. To Subs. of “Indian Review ”, Re. 1-8 as.**  
 Foreign Three Shillings.Postage 9d.
 
-![](../books_images/U-IMG-1701930253Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701930253Screenshot2023-06-15123943.png"/>
 
 **ASPECTS OF THE VEDANTA**
 
@@ -9262,7 +9264,7 @@ TENTH EDITION
 Price of a single copy by V.P.P is 8 (Eight) as  
 Two coples 13 as -Four coples Re. 1-7 as.  
 Six coples Rs 2-1 as.-Eight coples Rs. 2-11 as.  
-![](../books_images/U-IMG-1701930847Screenshot2023-06-15123943.png)**
+<MISSING_FIG href="../books_images/U-IMG-1701930847Screenshot2023-06-15123943.png"/>**
 
 **THE HEART OF HINDUSTHAN**  
 BY DR. SIR S RADHAKRISHNAN, M.A, Ph D.
@@ -9291,7 +9293,7 @@ Re. 1. To Subs, of the “Indian Review”, As. 12.
 *From the Foundation to the Silver Jubilee*  
 Foreign 6sh. Postage lah, 6d.  
 Rs. 4. To Subscribers of the “I. R.”, Ra 3-8.  
-![](../books_images/U-IMG-1701931301Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701931301Screenshot2023-06-15123943.png"/>
 
 **Second Series (1911 to 1934)**  
 *From the Silver to the Golden Jubilee*  
@@ -9346,7 +9348,7 @@ BY MAHATMA GANDHI
  CONTENTS: Sir Salar Jung, Maharajah Jung Bahadur, Rajah 8ir Dinkar Rao, Dewan Hangacharlu, Bir K. Seshadri Iyer, Mr V. P. Madhava Rao, Raja Sir T. Madhava Rau, Kazi Shahabuddin, Lakshman Jagannath, Romesh Chunder Dutt, Sir Seshiah Sastri, Sir M. Visvesvaraya, Ir. Samaldas Parmanandas, R. Raghoonath Rao, Gourishanker Oodeshanker, Maharajah Sir Pratab Singh and Sir Kishen Pershad. With 17 Portraits.
 
 Rs.3. To Subscribers of the “I.R.”. Rs. 2-8.  
-![](../books_images/U-IMG-1701933023Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701933023Screenshot2023-06-15123943.png"/>
 
 **Indian Judges**  
 (WITH A FOREWORD BY HON. SIR B. L. MITTER.)
@@ -9366,21 +9368,21 @@ Price R. 3. To Subs, of the “I.R”, Rs. 2-8.
  CONTENTS: K M. Banerji, Rev. Lal Behari Dey, Prof. Ramachandra, M. M. Datta, Rev. Satthianadhan, Dr. Imad-ud-din, Nehemiah Goreh. K. C. Banerjea, Pandita Ramabhai, Rajah Sir Harnam Singh, Dewan Bahadur Swamikkannu Pillai, Narayan Vaman Tilak, Principal 8. K. Rudra and Sadhu Sundar Singh. With Thirteen Illustrations.
 
 Rs. 3. To Subscribers of the “I.R.” Rs. 2-8.  
-![](../books_images/U-IMG-1701933541Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701933541Screenshot2023-06-15123943.png"/>
 
 **F a m o u s P a r s i s**
 
  CONTENTS: J Jeejeebhoy, Banaji, Naoroji Ferdoonji, Byramji Jeejeebhoy. Sir Dinshaw Petit, 8, 8. Bengalee, Dadabhai Naoroji, K. R. Cama, J. N. Tata, Sir D. E. Wacha, Sir P. M Mehta, Sir M. M. Bhownaggree, Malabari and Sir ... Modi With Portraits.
 
 Rs. 3. To Subs. of the “Indian Review”, Rs. 2.8.  
-![](../books_images/U-IMG-1701933541Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701933541Screenshot2023-06-15123943.png"/>
 
 **I n d i a n S c i e n t i s t s**
 
  Contents:— Dr. Mahendralal Sircar; Sir Jagadish Bose; Sir Prafulla Chandra Ray; Dr. Sir C V. Raman; Prof. Ramachandra; Srinivasa Ramanujam.
 
 Rs. 3. To Subscribers of the “I.R.”, Rs. 2-8.  
-![](../books_images/U-IMG-1701933541Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701933541Screenshot2023-06-15123943.png"/>
 
 **E m i n e n t M u s s u l m a n s**
 
@@ -9398,14 +9400,14 @@ SPEECHES AND WRITINGS
  A comprehensive and exhaustive collection of Sir William Wedderburn's Speeches and Writings on Indian questions, his Congress Presidential Addresses, and his speeches in the House of Commons.
 
 Rs.3.To Subs. of the “Indian Review”, Rs. 2-8.  
-![](../books_images/U-IMG-1701934217Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701934217Screenshot2023-06-15123943.png"/>
 
 **Besant's Speeches and Writings**
 
  This edition is a comprehensive and exhaustive collection of Mrs Besant's speeches and writings on Indian Questions. There is also s lengthy biographical and critical sketch.
 
 Rs. 3. To Subs. of the “I. R.”, Rs. 2-8.  
-![](../books_images/U-IMG-1701934217Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701934217Screenshot2023-06-15123943.png"/>
 
 **Wacha's Speeches and Writings**
 
@@ -9433,7 +9435,7 @@ of the Pioneers of the Brahmo Movement**
  CONTENTS:– Raja Ram Mohun Roy, Maharshi Devendranath Tagore, Kesav Chandra Sen. Pratapchandra Mazumdar, Basipada Banerji, Ananda Mohan Bose and Pundit Sivanath Sastri. With 7 Portraits.
 
 First Edn. Re. 1-8. To Subs. of “I.R.” Re. 1-4.  
-![](../books_images/U-IMG-1701934600Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701934600Screenshot2023-06-15123943.png"/>
 
 **LIFE & TEACHINGS OF BUDDHA**  
 BY THE ANAGARIKA DHARMAPALA
@@ -9441,7 +9443,7 @@ BY THE ANAGARIKA DHARMAPALA
  This is a clear and concise account of the life and teachings of Lord Buddha written by a wellknown Buddhistauthority and in a stylespecially intendedfor non-Buddhists.
 
 Price As. 12. To Subs. of “I.R.” As. 10.  
-![](../books_images/U-IMG-1701934600Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701934600Screenshot2023-06-15123943.png"/>
 
 **EMINENT ORIENTALISTS**  
 **INDIAN, ENGLISH, FRENCH, GERMAN AND AMERICAN**
@@ -9449,7 +9451,7 @@ Price As. 12. To Subs. of “I.R.” As. 10.
  Among the Orientalists Studied are: Sir William Jones, Sir Charles Wilkins, Colebrooke, Horace Wilson, George Tournour, Fergusson, Rajendralal Mitra, Telang, Bhau Dajt and Indraji, Dr. Buhler, Monter Williams, Max Muller, Sir John Fleet, Edwin Arnold, Nivedita, Griffith, Whitney, Vincent Smith, Bal Gangadhar Tilak, Anundoram Barooah, Bhandarkar, MacDonnel, A. B. Keith, Paul Deussen and Sylvain Levi.
 
 Rs. 2 (Two), 3sh. To Subs, of the “I.R.” Re. 1-8.  
-![](../books_images/U-IMG-1701934600Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701934600Screenshot2023-06-15123943.png"/>
 
 **THE FIRST FOUR CALIFS  
 BY AHMED SHAFI**
@@ -9474,7 +9476,7 @@ PRESS OPINIONS
 
 Price Re. 1-8. or Two Shillings Six Pence.  
 To Subs. of the “I.R.” Re, 1-4.  
-![](../books_images/U-IMG-1701935156Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701935156Screenshot2023-06-15123943.png"/>
 
 **MALABAR AND ITS FOLK**  
 *A Systematic Description of the Social customs  
@@ -9514,7 +9516,7 @@ OF
 FUN, FOLLY AND FOLK-LORE  
 A COLLECTION OF THE
 
-![](../books_images/U-IMG-1701935921Screenshot2023-12-07132658.png)
+<MISSING_FIG href="../books_images/U-IMG-1701935921Screenshot2023-12-07132658.png"/>
 
  The Publishers hope that their venture in presenting under onecover all the tales scattered in eight different booklets and in offering this handy volume for almost halt the original price will be appreciated by the reading public. The book, as it is, is an epitome of the wit and wisdom of the various peoples of India.
 
@@ -9530,7 +9532,7 @@ To Subscribers of the “Indian Review,” Re. One.
  PREFACE: This is the first attempt to present to the public a comprehensive collection of the Essays and Discourses of Dr. P. C. Ray, the well known Indian chemist. The volume contains a biographical sketch and a list of original contributions by Dr. Ray and his pupils of the Indian School of Chemistry.
 
 Rs. 3. To Subscribers of the “Indian Review”, Rs. 2-8.  
-![](../books_images/U-IMG-1701936231Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701936231Screenshot2023-06-15123943.png"/>
 
 **Sir Jagadish Chunder Bose**  
 HIS LIFE, DISCOVERIES AND WRITINGS
@@ -9538,7 +9540,7 @@ HIS LIFE, DISCOVERIES AND WRITINGS
  The matter of this volume has been carefully selected and arranged under three headings: Educational, General, Science. The book is prefixed with an exhaustive account of his life and achievements
 
 Rs. 3. To Subscribers of the “Indian Review”, Rs. 2-8  
-![](../books_images/U-IMG-1701936231Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701936231Screenshot2023-06-15123943.png"/>
 
 **Shakespeare's Tragedies**  
 *BEING STUDIES OF*  
@@ -9548,7 +9550,7 @@ BY REV. DR. WILLIAM MILLER, CI.E.
  Dr. Miller does not appear as an annotator or critic. He fixes his student's attention especially on the ethical side of Shakespeare's teaching According to him, the plays of Shakespeare, whether designedly or not, are not calculated merely to amuse. They have each “an inner meaning”, a “central idea”.
 
 Price Re. 1-8. To Subs. of “I. R.” Re. 1-4.  
-![](../books_images/U-IMG-1701936231Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701936231Screenshot2023-06-15123943.png"/>
 
 **The Governance of India**  
 BY BABU GOVINDA DAS
@@ -9567,22 +9569,22 @@ SPEECHES AND WRITINGS
  This is an exhaustive and comprehensive collection of the works of Swami Vivekananda. It contains, among others, bis eloquent character-sketch of “My Master”, his celebrated lectures at the great Parliament of Religions at Chicago, all the important and valuable speeches, addresses and discourses delivered in America, England, and India.
 
 7th Edition Rs. 3. fo Subs of the "I.R." Rs. 2-8.  
-![](../books_images/U-IMG-1701936576Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701936576Screenshot2023-06-15123943.png"/>
 
 **The Mission of our Master**  
 ESSAYS AND DISCOURSES
 
-![](../books_images/U-IMG-1701936619Screenshot2023-12-07134009.png)
+<MISSING_FIG href="../books_images/U-IMG-1701936619Screenshot2023-12-07134009.png"/>
 
 Rs. 3. To Subs. of the “Indian Review”, R. 2-8.  
-![](../books_images/U-IMG-1701936762Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701936762Screenshot2023-06-15123943.png"/>
 
 **Ramanand to Ram Tirath**
 
  This book includes sketches of Ramanand and Kabir, Nanak and the Sikh Gurus, of Ravi Das the Chamar Saint, of Mira Bai the ascetic queen of Chitor, Vallabhacharya, Tulsidas, Virajanand, Dayanand and Ram Tirath.
 
 Price Re. 1-8. To Subs. of the “I.R”, Re. 1-4.  
-![](../books_images/U-IMG-1701936762Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701936762Screenshot2023-06-15123943.png"/>
 
 **Chaitanya to Vivekananda**
 
@@ -9613,14 +9615,14 @@ BY DR. GANGANATHA JHA, M.A., D.Litt.
 
  Price Rs. 2. To Subs. of the “I. R.”, Re. 1-8.
 
-![](../books_images/U-IMG-1701859108Screenshot2023-06-15123943.png)
+<MISSING_FIG href="../books_images/U-IMG-1701859108Screenshot2023-06-15123943.png"/>
 
 **H I N D U I S M**  
 BY THE SAME AUTHOR
 
  The book deals with the sources of Hinduism, its fundamental teachings, its rites and customs, and it will be found invaluable to students c comparative religion, social reformers and legislators. 450 pages. Cloth Bound. Rs. 3. To Subs. of the “I. R.”, Rs. 2-8
 
-![](../books_images/U-IMG-1701859108Screenshot2023-06-15123943.png)  
+<MISSING_FIG href="../books_images/U-IMG-1701859108Screenshot2023-06-15123943.png"/>  
 **THREE GREAT ACHARYAS**  
 SANKARA, RAMANUJA AND MADHWA
 
@@ -9634,4 +9636,3 @@ Foreign Sah. Postage 9d.
 **G. A. NATESAN & Co., PUBLISHERS, MADRAS**
 
 \]
-

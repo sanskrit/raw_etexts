@@ -381,7 +381,7 @@ Campl ll Metal Medalist.**
 
 **स्मृतिचन्द्रिकायां आशौचकाण्डः.**
 
-**![](../books_images/U-IMG-1697526202Untitled24-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1697526202Untitled24-removebg-preview.png"/>**
 
 अथाशौचकालादौकर्तव्यैकोद्दिष्टादिश्राद्धस्य निरूपणार्थमाशौचप्रकरणमारभ्यते। तत्र शङ्कः-—
 
@@ -686,7 +686,7 @@ Campl ll Metal Medalist.**
 
 इति स्मृतिचन्द्रिकायां सूतकोपरिभवशिशुमरणाशौचविषयाणि
 
-.![](../books_images/U-IMG-169754555424-removebg-preview.png)
+.<MISSING_FIG href="../books_images/U-IMG-169754555424-removebg-preview.png"/>
 
 **अथ शिशुमरणे शरीरसंस्काराशौचविषयाणि**
 
@@ -1361,7 +1361,7 @@ Campl ll Metal Medalist.**
 
 **इति स्मृतिचन्द्रिकायामनेकाशौचसन्निपातविषयाणि**
 
-![](../books_images/U-IMG-169762009826-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-169762009826-removebg-preview.png"/>
 
   उक्तमनेकविधमाशौचं—
 
@@ -1637,7 +1637,7 @@ Campl ll Metal Medalist.**
 
 **इति स्मृतिचान्द्रकायां मुमूर्षोः कर्तव्यानि.**
 
-**![](../books_images/U-IMG-169764459128-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169764459128-removebg-preview.png"/>**
 
 **अथाग्निनिर्णयः**  
 ————
@@ -1749,7 +1749,7 @@ Campl ll Metal Medalist.**
 नष्टे तु पूर्वाग्निमवाप्य पश्चात् ॥ इति ॥**
 
 **इति स्मृतिचान्द्रकायामग्निनिर्णयः**  
-![](../books_images/U-IMG-169765161718-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-169765161718-removebg-preview(1"/>.png)
 
 **अथ संस्कर्तृनिरूपणम्.**  
 —————
@@ -2285,7 +2285,7 @@ Campl ll Metal Medalist.**
 
 **इति स्मृतिचन्द्रिकायामातुराश्वासनादिनिरूपणम्.**
 
-![](../books_images/U-IMG-169776266630-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-169776266630-removebg-preview.png"/>
 
 **अथास्थिसंचयनम्.**
 
@@ -2371,7 +2371,7 @@ Campl ll Metal Medalist.**
 **इतिस्मृतिचन्द्रिकायामस्थिसंचयनम्.**
 
 **      
-![](../books_images/U-IMG-169776413330-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-169776413330-removebg-preview.png"/>**
 
 अथ वपनम् ।तच्च दशमेऽहनि कार्यम्। तदाह देवलः—
 
@@ -2440,7 +2440,7 @@ Campl ll Metal Medalist.**
 तस्मात्तु वपनं कार्यं श्राद्धमावश्यकं ततः ॥
 
 **इति स्मृतिचन्द्रिकायां वपनविषयः,**  
-![](../books_images/U-IMG-169811971618-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-169811971618-removebg-preview(1"/>.png)
 
 **दशमाहकृत्यम्.**  
 ————
@@ -2474,7 +2474,7 @@ Campl ll Metal Medalist.**
 यदि कार्यं न कुर्वीत पुनस्संस्कारमर्हति ॥ इति ॥
 
 **इति स्मृतिचन्द्रिकायां दशमाहकृत्यनिरूपणम्.**  
-![](../books_images/U-IMG-169811933228-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-169811933228-removebg-preview.png"/>
 
 मरणविधिवैशिष्ट्यमुक्तं महाभारते—
 
@@ -2558,7 +2558,7 @@ Campl ll Metal Medalist.**
 इति। रात्रौ रजस्स्रावे जनने मरणे वा सति रात्रिं त्रिधाविभज्य पूर्वभागद्वये तत्पूर्वमेव दिनमित्येक पक्षः। अर्धरात्रादधस्ताच्चेत्पूर्वमेव दिनमित्यन्यः पक्षः। सूर्योदयात्पूर्वं चेत्पूर्वमेब दिनमित्यपरःपक्षः ।स्मृतीनां समवलत्वाद्देशाचारतोऽत्र व्यवस्था॥
 
 **इति स्मृतिचत्रिकायामाशौचं प्रति कालनिर्णयविषयाणि.**  
-![](../books_images/U-IMG-169811818336-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-169811818336-removebg-preview.png"/>  
 **उदकदानानर्हाः**
 
 अथोदकदानानर्हानाह—
@@ -2675,7 +2675,7 @@ Campl ll Metal Medalist.**
 अतीतकालविषये चैतत्सर्वंविचिन्तयेत् ॥
 
 **इति स्मृतिचन्द्रिकायां पुनस्संस्कारकालनियमः.**  
-![](../books_images/U-IMG-1698113538Untitled35-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-1698113538Untitled35-removebg-preview.png"/>  
 
 **अथ पालाशविधिः.**  
 ————
@@ -2907,7 +2907,7 @@ Campl ll Metal Medalist.**
 
 **इति स्मृतिचन्द्रिकायामाशौचान्ते पुण्याहवाचनविधिः.**
 
-**![](../books_images/U-IMG-169776559031-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169776559031-removebg-preview.png"/>**
 
 **अथैकोद्दिष्टविधिः.**  
 ————
@@ -2982,7 +2982,7 @@ Campl ll Metal Medalist.**
 
 **इति स्मृतिचन्द्रिकायामेकोद्दिष्टविधिः**
 
-**![](../books_images/U-IMG-169776766330-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169776766330-removebg-preview.png"/>**
 
 **वृषोत्सर्गविधिः.**
 
@@ -3060,7 +3060,7 @@ Campl ll Metal Medalist.**
 
 **इति स्मृतिचन्द्रिकायां वृषोत्सर्गविधिः.**
 
-**![](../books_images/U-IMG-169777852930-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169777852930-removebg-preview.png"/>**
 
 **षोडशश्राद्धनिरूपणम्.**
 
@@ -3257,7 +3257,7 @@ Campl ll Metal Medalist.**
 
 **इति स्मृतिचन्द्रिकायां षोडशश्राद्धादिनिरूपणम्.**
 
-![](../books_images/U-IMG-169804499828-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-169804499828-removebg-preview.png"/>
 
 **अथ सपिण्डीकरणकालाः.**  
 ——————
@@ -3394,7 +3394,7 @@ Campl ll Metal Medalist.**
 
 **इति स्मृतिचन्द्रिकायां सपिण्डीकरणकालाः.**
 
-![](../books_images/U-IMG-169804734628-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-169804734628-removebg-preview.png"/>
 
 **अथ पुनस्सपिण्डीकरणकालः.**
 
@@ -3984,7 +3984,7 @@ Campl ll Metal Medalist.**
 
 **इति स्मृतिचान्द्रिकायां नवमिश्रैकोद्धिष्टनिरूपणम्.**
 
-**![](../books_images/U-IMG-169776971632-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-169776971632-removebg-preview.png"/>**
 
 **अथ नवश्राद्धानि.**
 
@@ -4689,7 +4689,7 @@ Campl ll Metal Medalist.**
 
 **इति स्मृतिचन्द्रिकायां गयाश्राद्धविधिनिरूपणम्.**
 
-![](../books_images/U-IMG-169778214433-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-169778214433-removebg-preview.png"/>
 
 **अथ गयाश्राद्धाधिकारिणः.**
 
@@ -4750,7 +4750,6 @@ Campl ll Metal Medalist.**
 
 **स्मृतिचन्द्रिकायां आशौचकाण्डः समाप्तः.**
 
-![](../books_images/U-IMG-169778549734-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-169778549734-removebg-preview.png"/>
 
 \]
-

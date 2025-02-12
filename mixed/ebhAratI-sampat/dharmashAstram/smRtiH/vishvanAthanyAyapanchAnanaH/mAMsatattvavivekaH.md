@@ -26,7 +26,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk0MDAyMzE1NjM
 
   The booklet which is herewith introduced deals with this interesting question. Its interest is further enhanced by the fact that it comes from the pen of Mahāmahopādhyāya Viśvanātha Nyāyapañchānana, the great Naiyāyika of Bengal, whose Bhāṣāparichchheda with Nyāyasiddhāntamuktāvali has become a classical work for the study of the elements of Nyāya-S'āstra.
 
-  Viśvanātha was the son of Vidyānivāsa\*[^1] Bhaṭṭächārya and the brother of Rudra Nyāyavāchaspati♱[^2](and Nārāyaṇa ). Vidyānivāsa was the son of Ratnākara Vidyāvāchaspati, the younger brother of the great Vāsudeva Sārvabhauma, who is believed to have been the teacher of four illustrious figures of mediaeval Bengal:viz(i) S'ri Chaitanya Deva, the religious reformer, (ii) Raghunātha S'iromaṇi, the author of Tattvachintāmaṇi dīdhiti, the great Logician who paved the way in a sense for the study of Nyāyaśāstra in Bengal, (iii) Raghunandana, the author of the 28 Sṃrti Tattvas, who is still regarded as the highest authority in all matters connected with social, domestic & ritualistic law in Bengal and (iv) the great Tāntrist Kṛṣṇānanda Āgamavāgīśa, whose Tantrasāra is still the one guide book for the performance of Tantric ceremonies in Bengal.
+  Viśvanātha was the son of Vidyānivāsa\*[^1] Bhaṭṭächārya and the brother of Rudra Nyāyavāchaspati♱[^2] (and Nārāyaṇa ). Vidyānivāsa was the son of Ratnākara Vidyāvāchaspati, the younger brother of the great Vāsudeva Sārvabhauma, who is believed to have been the teacher of four illustrious figures of mediaeval Bengal:viz(i) S'ri Chaitanya Deva, the religious reformer, (ii) Raghunātha S'iromaṇi, the author of Tattvachintāmaṇi dīdhiti, the great Logician who paved the way in a sense for the study of Nyāyaśāstra in Bengal, (iii) Raghunandana, the author of the 28 Sṃrti Tattvas, who is still regarded as the highest authority in all matters connected with social, domestic & ritualistic law in Bengal and (iv) the great Tāntrist Kṛṣṇānanda Āgamavāgīśa, whose Tantrasāra is still the one guide book for the performance of Tantric ceremonies in Bengal.
 
 [^1]: "His full name was probably Kāśīnātha Vidyānivāsa. Vide N. Vasu, Baṅgera Jātīya Itihāsa, Vol. I, p. 295."
 
@@ -62,7 +62,7 @@ March 17, 1927.
 
 **प्रास्ताविकं किञ्चित्।**
 
-![](../books_images/U-IMG-1686795322Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1686795322Capture.PNG"/>
 
   अथैष प्रकाश्यते मांसतत्त्वविवेको नाम श्रीविश्वनाथन्यायपञ्चाननभट्टाचार्यविनिर्मितो निबन्धोमुद्रापयित्वा। अत्र च ग्रन्थकृत समन्ततो वचनानि मांसभक्षणविधायकान्यनेकानि सङ्गृह्य प्रतिषेघकान्यपि कानिचिदुल्लिख्य तानि च परस्परं सङ्गमय्य स्वतन्त्रः स्वियो विचारः सर्वेषां विदुषां पुरस्तादुपन्यस्तः। तत्र च पूर्वं मनुयाज्ञवल्क्यवचनान्युपन्यस्य तेषां प्रकरणसङ्गतिं विचार्य प्रमाणत्वेन च पैठीनसिहारीतदेवलबृहस्पतिमहाभारतमेधातिथिप्रभृतीनां प्रासङ्गिकानि वचनानि प्रदर्श्य मांसं प्रोक्षिताद्यन्यतमं चेत्सर्वथा भक्षणीयमिति साधितम्। तत्समनन्तरमेव वचनान्यमूनि शङ्कोपशङ्कादिभिः सन्दूष्य सम्भूष्य च यमकुल्लूकभट्टभवदेववाचस्पतिमिताक्षराकल्पतरुब्रह्मपुराणादिसाहाय्येन, यज्ञश्राद्धमधुपर्कप्राणात्ययब्राह्मणानुज्ञासु तद्व्यतिरेकेणापि देवपित्रर्चनभृत्यभरणावशेषे च चातुर्वर्ण्यस्य निर्विशेषं मांसभक्षणं प्रतिपादितम्। तत्र च पूजादिषु प्रसङ्गतः कूर्मवराहकालिकादिपुराणवचनानि कल्पतरुकामधेनुप्रभृतिप्रवन्घघृतानि परिदर्शितानि। तद्विरोधीनि च यज्ञीयपश्वालम्भनव्यतिरिक्तहिंसापूर्वकर्मासादानप्रतिषेधकानि बृहत्पराशरादिवचनानि प्रोक्षितातिरिक्तविषयकानि प्रतिपाद्य निष्कण्टकितः स्वीयः पन्थाः। प्रस्तुत्य च कलिवर्ज्यविचारं, गवालम्भादिविषयत्वेन संयोज्य तद्वचनजातं, मध्यदेशीयस्याऽऽचारस्य सदाचारत्वेन तत्राऽन्यत्र चाऽविगीतो मांसभक्षणाचारः प्रतीयमानो निरूपितः। अन्ते च मांसश्राद्धे विवदमानानामुपरि ब्रह्महत्यादिप्रायश्चित्तोपदेशे मातुलकन्यापरिणयने च वैमत्यं प्रदर्श्य रागरोषदूषितचित्तत्वं देवानांप्रियत्वं सौगतमतानुयायित्वं चेति प्रहारत्रयं च सम्पात्य सह चित्तशान्त्या निबन्धोऽवसानं प्रापितः।
 
@@ -93,7 +93,7 @@ March 17, 1927.
 
 अष्टकाः= मार्गशीर्षपूर्णिमोत्तरमपरपक्षीयाश्चतस्त्रोऽष्टम्योऽष्टका इत्युच्यन्ते।
 
-![](../books_images/U-IMG-1686751102Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1686751102Capture.PNG"/>
 
 **अस्मिन् ग्रन्थे प्रमाणत्वेनोपन्यस्तानां **
 
@@ -125,7 +125,7 @@ March 17, 1927.
 | भट्टभाष्यम् (गोभिलसूत्रस्य) | हारीतः         |
 | भवदेवभट्टः                  |               |
 
-![](../books_images/U-IMG-1687081303Screenshot2023-06-18151029.png)
+<MISSING_FIG href="../books_images/U-IMG-1687081303Screenshot2023-06-18151029.png"/>
 
 **शुद्धिपत्रम्**
 
@@ -183,7 +183,7 @@ March 17, 1927.
 | महपातक०                        | महापातक०                     |
 | सपिण्डानयने                    | सपिण्डापरिणयने               |
 
-![](../books_images/U-IMG-1686569620Screenshot2023-06-12170304.png)
+<MISSING_FIG href="../books_images/U-IMG-1686569620Screenshot2023-06-12170304.png"/>
 
 श्रीः
 
@@ -191,7 +191,7 @@ March 17, 1927.
 
 **मांसतत्त्वविवेकः**
 
-**![](../books_images/U-IMG-1686382804Screenshot2023-06-10130926.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1686382804Screenshot2023-06-10130926.png"/>**
 
 अथ मांसभक्षणविधिप्रतिषेधौ व्याख्यास्यामः।
 
@@ -615,4 +615,3 @@ March 17, 1927.
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 \]
-

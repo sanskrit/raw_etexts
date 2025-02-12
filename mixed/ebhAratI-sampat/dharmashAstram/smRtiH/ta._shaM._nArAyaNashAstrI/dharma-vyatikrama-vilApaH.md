@@ -17,7 +17,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg4MTIzMTI4NDY
 
 [TABLE]
 
-![](../books_images/1682932703.jpg)
+<MISSING_FIG href="../books_images/1682932703.jpg"/>
 
 **श्रीकाञ्च्यां  
 श्रीमन्मद्रपुरी वर्णाश्रमधर्मसंरक्षण सभायाः  

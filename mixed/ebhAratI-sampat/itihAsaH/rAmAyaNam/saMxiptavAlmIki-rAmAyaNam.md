@@ -32,11 +32,11 @@ HONRY. FELLOW, UNIVERSITY OF BOMBAY, AND
 
 SOMETIME CHIEF JUSTICE, GWALIOR STATE.
 
-![](../books_images/U-IMG-1700716699Screenshot2023-11-23104623.png)
+<MISSING_FIG href="../books_images/U-IMG-1700716699Screenshot2023-11-23104623.png"/>
 
 SECOND EDITION.
 
-![](../books_images/U-IMG-1700716731Screenshot2023-11-23104623.png)
+<MISSING_FIG href="../books_images/U-IMG-1700716731Screenshot2023-11-23104623.png"/>
 
 PUBLISHED BY
 
@@ -44,11 +44,11 @@ PUBLISHED BY
 
 KALBADEVI ROAD, BOMBAY.
 
-![](../books_images/U-IMG-1700716761Screenshot2023-11-23104711.png)
+<MISSING_FIG href="../books_images/U-IMG-1700716761Screenshot2023-11-23104711.png"/>
 
 **1914.**
 
-![](../books_images/U-IMG-1700716781Screenshot2023-11-23104711.png)
+<MISSING_FIG href="../books_images/U-IMG-1700716781Screenshot2023-11-23104711.png"/>
 
 **Price 1-8-0.**
 
@@ -66,11 +66,11 @@ Kalbadevi Road, Bombay
 
 **चिंतामण विनायक वैद्य.**
 
-![](../books_images/U-IMG-1700717784Screenshot2023-11-23110601.png)
+<MISSING_FIG href="../books_images/U-IMG-1700717784Screenshot2023-11-23110601.png"/>
 
 **द्वितीयावृत्तिः।**
 
-![](../books_images/U-IMG-1700717803Screenshot2023-11-23110601.png)
+<MISSING_FIG href="../books_images/U-IMG-1700717803Screenshot2023-11-23110601.png"/>
 
 प्रकाशकः
 
@@ -78,17 +78,17 @@ Kalbadevi Road, Bombay
 
 कालबादेवी रोड, मुंबई.
 
-![](../books_images/U-IMG-1700717879Screenshot2023-11-23110734.png)
+<MISSING_FIG href="../books_images/U-IMG-1700717879Screenshot2023-11-23110734.png"/>
 
 सन १९१४
 
-![](../books_images/U-IMG-1700717944Screenshot2023-11-23110846.png)
+<MISSING_FIG href="../books_images/U-IMG-1700717944Screenshot2023-11-23110846.png"/>
 
 मूल्यं सार्ध-रूपकः।
 
 **PREFACE TO THE FIRST EDITION.**
 
-![](../books_images/U-IMG-1700718817Screenshot2023-11-23112322.png)
+<MISSING_FIG href="../books_images/U-IMG-1700718817Screenshot2023-11-23112322.png"/>
 
  While reading the Ra'ma'yana and the Maha'bha'rata, the idea struck me that abridged forms of theEpics would be useful in more ways than one. Theywould interest those who knowing Sanskrit would liketo know something of the Epics at first hand but whohave not the patience or the leisure to go through thevoluminous originals. Secondly they would be invaluable as text-books in Schools and Colleges which are atpresent compelled to exclude the Epics from theircurriculum owing to their enormous length. Studentsare thus at present debarred from drinking at the purefountain-head of Sanskrit poetry with its chastelanguage and its high ideals; and have to study insteadlater Epic poetry which even in Ka'lida'sa, is moreartificial and laboured and is certainly more debased intaste. Lastly it would be useful from a critical point ofview, to see what the Epics might have been in theiroriginal unexpanded shape. Very few deny that theEpics only assumed their present bulky form sometimebefore the beginning of the Christian Era. With thesethree purposes in view, I have abridged the Ra'ma'yanaand the Maha'bha'rata, giving the chief story in a connected form and in the very words of the author, andpreserving at considerable length, such passages orepisodes as constitute the most beautiful portions of theEpics, from a poetical or didactic point of view. Ihave also tried to give what may be supposed to bethe original archaic portions of them. It is to be hopedthat I have succeeded in my attempt and that it is likedby those for whom it is intended.
 
@@ -97,34 +97,34 @@ Kalbadevi Road, Bombay
 ***31st August 1902.***                       
          **C. V. VAIDYA.**
 
-![](../books_images/U-IMG-1700719237Screenshot2023-11-23113015.png)
+<MISSING_FIG href="../books_images/U-IMG-1700719237Screenshot2023-11-23113015.png"/>
 
 **PREFACE TO THE SECOND EDITION.**
 
-**![](../books_images/U-IMG-1700719198Screenshot2023-11-23112937.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1700719198Screenshot2023-11-23112937.png"/>**
 
  This edition has been prepared with great care and all the necessary corrections have been made. Shortexplanatory notes from the commentary have also beenappended at the end. It is hoped that this edition willbe found satisfactory by those students, especially of theAllahabad University, who have occasion to use it.
 
 ***30th September, 1914.                       
            *C. V. VAIDYA.**
 
-![](../books_images/U-IMG-1700719265Screenshot2023-11-23113015.png)
+<MISSING_FIG href="../books_images/U-IMG-1700719265Screenshot2023-11-23113015.png"/>
 
 **॥ श्रीगणेशाय नमः ॥**  
 **अथ**  
 **संक्षिप्तवाल्मीकिरामायणम्.**
 
-![](../books_images/U-IMG-1700745207Screenshot2023-11-23184213.png)  
+<MISSING_FIG href="../books_images/U-IMG-1700745207Screenshot2023-11-23184213.png"/>  
 **श्री**
 
 प्रणिपत्य गिरामीशं पितर च विनायकम्॥  
 चिन्तामणिः संक्षिपति नृणां रामायणं मुदे॥१॥
 
-![](../books_images/U-IMG-1700745241Screenshot2023-11-23184225.png)
+<MISSING_FIG href="../books_images/U-IMG-1700745241Screenshot2023-11-23184225.png"/>
 
 **१–बालकाण्डम्।**
 
-**![](../books_images/U-IMG-1700745285Screenshot2023-11-23184238.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1700745285Screenshot2023-11-23184238.png"/>**
 
 **अथ प्रथमः सर्गः।**
 
@@ -180,7 +180,7 @@ Kalbadevi Road, Bombay
 ततस्तु तौ रामवचः प्रचोदितावगायतां मार्गविधानसम्पदा॥  
 स चापि रामः परिषद्गतः शनैर्बुभूषया सक्तमना बभूव॥२४॥
 
-![](../books_images/U-IMG-1700748714Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1700748714Screenshot2023-11-23193458.png"/>
 
 **अथ द्वितीयः सर्गः।**
 
@@ -223,7 +223,7 @@ Kalbadevi Road, Bombay
 क्वचिन्न दुष्टस्तत्रासीत्परदाररतिर्नरः॥  
 प्रशान्तं सर्वमेवासीद्राष्ट्रं पुरवरं च तत्॥४३॥
 
-![](../books_images/U-IMG-1700748331Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1700748331Screenshot2023-11-23193458.png"/>
 
 **अथ तृतीयः सर्गः।**
 
@@ -325,7 +325,7 @@ Kalbadevi Road, Bombay
 ततस्तु ताः प्राश्य तमुत्तमस्त्रियो महीपतेरुत्तमपायसं पृथक्॥  
 हुताशनादित्यसमानतेजसोऽचिरेण गर्भान्प्रतिपेदिरे तदा॥८८॥
 
-![](../books_images/U-IMG-1700832912Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1700832912Screenshot2023-11-24190416.png"/>
 
 अथ चतुर्थः सर्गः।
 
@@ -367,7 +367,8 @@ Kalbadevi Road, Bombay
 तेषामेवंप्रभावाणां सर्वेषां दीप्ततेजसाम्॥  
 पिता दशरथो हृष्टो ब्रह्मा लोकाधिपो यथा॥१०५॥
 
-![](../books_images/U-IMG-1701094647Screenshot2023-11-24190416.png)
+      
+<MISSING_FIG href="../books_images/U-IMG-1701094647Screenshot2023-11-24190416.png"/>
 
 **       अथ पञ्चमः सर्गः।**
 
@@ -486,7 +487,7 @@ Kalbadevi Road, Bombay
 गुरुकार्याणि सर्वाणि नियुज्य कुशिकात्मजे॥  
 ऊषुस्तां रजनीं तत्र सरय्वां ससुखं त्रयः॥१५९॥
 
-![](../books_images/U-IMG-1701161632Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701161632Screenshot2023-11-24190416.png"/>
 
 **अथ षष्ठः सर्गः।**
 
@@ -562,7 +563,7 @@ Kalbadevi Road, Bombay
 सर्वसंग्रहणं येषां दैवतैरपि दुर्लभम्॥  
 तान्यस्त्राणि तदा विप्रो राघवाय न्यवेदयत्॥॥१९३॥
 
-![](../books_images/U-IMG-1701169931Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701169931Screenshot2023-11-24190416.png"/>
 
 **अथ सप्तमः सर्गः।**
 
@@ -625,7 +626,7 @@ Kalbadevi Road, Bombay
 सिद्धाश्रममिदं सत्यं कृतं वीर महायशः॥२१९॥  
 स हि रामं प्रशस्यैवं ताभ्यां संध्यामुपागमत्॥२२०॥
 
-![](../books_images/U-IMG-1701179738Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701179738Screenshot2023-11-24190416.png"/>
 
 अथ अष्टमः सर्गः॥८॥
 
@@ -833,7 +834,7 @@ Kalbadevi Road, Bombay
 अयोध्यां प्रेषयामास धर्मात्मा कृतशासनान्॥  
 यथावृत्तं समाख्यातुमानेतुं च नृपं तथा॥३१६॥
 
-![](../books_images/U-IMG-1701277871Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701277871Screenshot2023-11-24190416.png"/>
 
 **अथ नवमः सर्गः।**
 
@@ -952,7 +953,7 @@ Kalbadevi Road, Bombay
 अथोपकार्यांजग्मुस्ते सभार्या रघुनन्दनाः॥  
 राजाऽप्यनुययौ पश्यन् सर्षिसङ्घः सबान्धवः॥३७०॥
 
-![](../books_images/U-IMG-1701322099Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701322099Screenshot2023-11-24190416.png"/>
 
 **अथ दशमः सर्गः।**
 
@@ -1106,13 +1107,13 @@ Kalbadevi Road, Bombay
 अतीव रामः शुशुभे मुदान्वितो॥  
 विभुः श्रिया विष्णुरिवामरेश्वरः॥४४०॥
 
-![](../books_images/U-IMG-1701332637Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701332637Screenshot2023-11-24190416.png"/>
 
 **२ अयोध्याकाण्डम्।**
 
 **पूर्वार्द्धम्।**
 
-![](../books_images/U-IMG-1701333075Screenshot2023-11-30135935.png)
+<MISSING_FIG href="../books_images/U-IMG-1701333075Screenshot2023-11-30135935.png"/>
 
 **अथ प्रथमः सर्गः।**
 
@@ -1223,7 +1224,7 @@ Kalbadevi Road, Bombay
 ते चापि पौरा नृपतेर्वचस्तच्छ्रुत्वा तदा लाभमिवेष्टमाशु॥  
 नरेन्द्रमामन्त्र्य गृहाणि गत्वा देवान्समानर्चुरभिप्रहृष्टाः॥५१॥
 
-![](../books_images/U-IMG-1701335336Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1701335336Screenshot2023-11-23193458.png"/>
 
 **अथ द्वितीयः सर्गः।**
 
@@ -1338,7 +1339,7 @@ Kalbadevi Road, Bombay
 तया तान्यपविद्धानि माल्यान्याभरणानि च॥  
 अशोभयन्त वसुधां नक्षत्राणि यथा नभः॥१०४॥
 
-![](../books_images/U-IMG-1701349796Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1701349796Screenshot2023-11-23193458.png"/>
 
 अथ तृतीयः सर्गः।
 
@@ -1483,7 +1484,7 @@ Kalbadevi Road, Bombay
 स भूमिपालो विलपन्ननाथवत्स्त्रिया गृहीतो हृदयेतिमात्रया॥  
 पपात देव्याश्चरणौ प्रसारितावुभावसंप्राप्य यथाऽतुरस्तथा॥१७०॥
 
-![](../books_images/U-IMG-1701401903Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701401903Screenshot2023-11-24190416.png"/>
 
 **अथ चतुर्थः सर्गः।**
 
@@ -1663,7 +1664,7 @@ Kalbadevi Road, Bombay
 रामस्य तु वचः श्रुत्वा भृशं दुःखगतः पिता॥  
 शोकादशक्नुवन्वक्तुं प्ररुरोद महास्वनम्॥२५३॥
 
-![](../books_images/U-IMG-1701611480Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1701611480Screenshot2023-11-23193458.png"/>
 
 अथ पञ्चमः सर्गः।
 
@@ -1762,7 +1763,7 @@ Kalbadevi Road, Bombay
 तया हि देव्या च कृतप्रदक्षिणो निपीड्य मातुश्चरणौ पुनः पुनः॥  
 जगाम सीतानिलयं महायशाः स राघवः प्रज्वलितस्तया श्रिया॥२९८॥
 
-![](../books_images/U-IMG-1701709436Screenshot2023-12-04223317.png)
+<MISSING_FIG href="../books_images/U-IMG-1701709436Screenshot2023-12-04223317.png"/>
 
 **अथ षष्ठः सर्गः।**
 
@@ -1844,7 +1845,7 @@ Kalbadevi Road, Bombay
 अनन्यभावामनुरक्तचेतसं त्वया वियुक्तां मरणाय निश्चिताम्॥  
 नयस्व मां साधु कुरुष्व याचनां नातो मया ते गुरुता भविष्यति॥३३५॥
 
-![](../books_images/U-IMG-1701711193Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701711193Screenshot2023-11-24190416.png"/>
 
 **अथ सप्तमः सर्गः।**
 
@@ -1964,7 +1965,7 @@ Kalbadevi Road, Bombay
 इत्युक्त्वा दुःखितं सर्वं जनं तमुपजीविनम्॥  
 द्विजेभ्यो बालवृद्धेभ्यः कृपणेभ्यो ह्यदापयत्॥३९०॥
 
-![](../books_images/U-IMG-1701752886Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701752886Screenshot2023-11-24190416.png"/>
 
 **अथ अष्टमः सर्गः।**
 
@@ -2057,7 +2058,7 @@ Kalbadevi Road, Bombay
 देव्यः समस्ता रुरुदुः समेतास्तां वर्जयित्वा नरदेवपत्नीम्॥  
 रुदन्सुमित्रोऽपि जगाम मूर्च्छा हाहाकृतं तत्र बभूव सर्वम्॥४३२॥
 
-![](../books_images/U-IMG-1701756169Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701756169Screenshot2023-11-24190416.png"/>
 
 **अथ नवमः सर्गः।**
 
@@ -2247,7 +2248,7 @@ Kalbadevi Road, Bombay
 तं राममेवानुविचिन्तयन्तं समीक्ष्य देवी शयने नरेन्द्रम्॥  
 उपोपविश्याधिकमार्तरूपा विनिश्वसंतं विललाप कृच्छ्रम्॥५१९॥
 
-![](../books_images/U-IMG-1701857624Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701857624Screenshot2023-11-24190416.png"/>
 
 अथ एकादशः सर्गः।
 
@@ -2354,7 +2355,7 @@ Kalbadevi Road, Bombay
 तौ तत्र हत्वा चतुरो महामृगान्वराहमृश्यं पृषतं महारुरुम्॥  
 आदाय मेध्यं त्वरितं बुभुक्षितौ वासाय काले ययतुर्वनस्पतिम्॥५६७॥
 
-![](../books_images/U-IMG-1701884106Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701884106Screenshot2023-11-24190416.png"/>
 
 **अथ द्वादशः सर्गः।**
 
@@ -2470,13 +2471,13 @@ Kalbadevi Road, Bombay
 सुरम्यमासाद्य तु चित्रकूटं नदीं च तां माल्यवतीं सुतीर्थाम्॥  
 ननन्द हृष्टो मृगपक्षिजुष्टां जहौच दुःखं पुरविप्रवासात् ॥६२०॥
 
-![](../books_images/U-IMG-1701946168Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1701946168Screenshot2023-11-24190416.png"/>
 
 अयोध्याकाण्डम्।  
 
 **उत्तरार्धम्।**
 
-**![](../books_images/U-IMG-1701973027Screenshot2023-12-07234642.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1701973027Screenshot2023-12-07234642.png"/>**  
 
 **अथ प्रथमः सर्गः।**
 
@@ -2642,7 +2643,7 @@ Kalbadevi Road, Bombay
 तथा तु दीनः कथयन्नराधिपः प्रियस्य पुत्रस्य विवासनातुरः॥  
 गतेऽर्धरात्रे भृशदुःखपीडिस्ततदा जहौप्राणमुदारदर्शनः॥७७॥
 
-![](../books_images/U-IMG-1702360097Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1702360097Screenshot2023-11-23193458.png"/>
 
 **अथ द्वितीयः सर्गः।**
 
@@ -2815,7 +2816,7 @@ Kalbadevi Road, Bombay
 बभूव पश्यन्मनसोऽप्रियाणि यान्यन्यदा नास्य पुरे बभूवुः॥  
 अवाक्शिरा दीनमना न हृष्टः पितुर्महात्मा प्रविवेश वेश्म॥१५७॥
 
-![](../books_images/U-IMG-1702375159Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1702375159Screenshot2023-11-23193458.png"/>
 
 **अथ तृतीयः सर्गः।**
 
@@ -2973,7 +2974,7 @@ Kalbadevi Road, Bombay
 लालप्यमानस्य विचेतनस्य प्रणष्टबुद्धेः पतितस्य भूमौ॥  
 मुहुर्मुहुर्निश्वसतश्च दीर्घं सा तस्य शोकेन जगाम रात्रिः॥२३१॥
 
-![](../books_images/U-IMG-1702444507Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1702444507Screenshot2023-11-23193458.png"/>
 
 अथ चतुर्थः सर्गः।
 
@@ -3127,7 +3128,7 @@ Kalbadevi Road, Bombay
 तस्याहमुत्तरं कालं निवत्स्यामि सुखं वने॥  
 तत्प्रतिश्रुतमार्यस्य नैव मिथ्या भविष्यति॥३०३॥
 
-![](../books_images/U-IMG-1702486497Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1702486497Screenshot2023-11-23193458.png"/>
 
 **अथ पञ्चमः सर्गः।**
 
@@ -3257,7 +3258,7 @@ Kalbadevi Road, Bombay
 अध्यर्धमिक्ष्वाकुचमूर्योजनं पर्वतस्य ह॥  
 पार्श्वे न्यविशदावृत्य गजवाजिनराकुला॥३६३॥
 
-![](../books_images/U-IMG-1702530489Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1702530489Screenshot2023-11-23193458.png"/>
 
 अथ षष्ठः सर्गः।
 
@@ -3432,7 +3433,7 @@ Kalbadevi Road, Bombay
 ततो जघन्यं सहितैः स्वमंत्रिभिः पुरप्रधानैश्च तथैव सैनिकैः॥  
 जनेन धर्मज्ञतमेन धर्मवानुपोपविष्टो भरतस्तदाग्रजम्॥४४५॥
 
-![](../books_images/U-IMG-1702544239Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1702544239Screenshot2023-11-23193458.png"/>
 
 अथ सप्तमः सर्गः।
 
@@ -3570,7 +3571,7 @@ Kalbadevi Road, Bombay
 तं मातरो बाष्पगृहीतकण्ठ्यो दुःखेन नामन्त्रयितुं हि शेकुः॥  
 स चैव मातॄरभिवाद्य सर्वा रुदन्कुटीं स्वां प्रविवेश रामः॥५०८॥
 
-![](../books_images/U-IMG-1702566237Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1702566237Screenshot2023-11-23193458.png"/>
 
 **अथ अष्टमः सर्गः।**
 
@@ -3639,11 +3640,11 @@ Kalbadevi Road, Bombay
 इतीरितः प्राञ्जलिभिस्तपस्विभिर्द्वजैः कृतस्वस्त्ययनः परन्तपः॥  
 वनं सभार्यः प्रविवेश राघवः सलक्ष्मणः सूर्य इवाभ्रमण्डलम्॥५३९॥
 
-![](../books_images/U-IMG-1702571939Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1702571939Screenshot2023-11-23193458.png"/>
 
 **३ – अरण्यकाण्डम्।**
 
-**![](../books_images/U-IMG-1702573154Screenshot2023-12-14222838.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702573154Screenshot2023-12-14222838.png"/>**
 
 अथ प्रथमः सर्गः।
 
@@ -3739,7 +3740,7 @@ Kalbadevi Road, Bombay
 रामोऽथ मुनिमामन्त्र्य सह भ्रात्राऽभिवाद्य च॥  
 प्रतस्थेऽगस्त्यमुद्दिश्य सानुज सहःसीतया॥४३॥
 
-![](../books_images/U-IMG-1702715792Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1702715792Screenshot2023-11-24190416.png"/>
 
 **अथ द्वितीयः सर्गः।**
 
@@ -3860,7 +3861,7 @@ Kalbadevi Road, Bombay
 जटायुषं तु प्रतिपूज्य राघवो मुदा परिष्वज्य च सन्नतोऽभवत्॥  
 पितुर्हि शुश्राव सखित्वमात्मवाञ्जटायुषा संकथितं पुनः पुनः॥९८॥
 
-![](../books_images/U-IMG-1702717693Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1702717693Screenshot2023-11-23193458.png"/>
 
 **अथ तृतीयः सर्गः।**
 
@@ -3976,7 +3977,7 @@ Kalbadevi Road, Bombay
 ततः सभार्यं भयमोहमूर्छिता सलक्ष्मणं राघवमागतं वनं॥  
 विरूपणं चात्मनि शोणितोक्षिता शशंस सर्वं भगिनी खरस्य सा॥१५१॥
 
-![](../books_images/U-IMG-1702721219Screenshot2023-11-23193458.png)
+<MISSING_FIG href="../books_images/U-IMG-1702721219Screenshot2023-11-23193458.png"/>
 
 अथ चतुर्थः सर्गः।
 
@@ -4097,7 +4098,7 @@ Kalbadevi Road, Bombay
 यानशालां ततो गत्वा प्रच्छन्नं राक्षसाधिपः॥  
 सूतं संचोदयामास रथः संयुज्यतामिति॥२०७॥
 
-![](../books_images/U-IMG-1702733511Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702733511Screenshot2023-12-16190129.png"/>
 
 **अथ पञ्चमः सर्गः।**
 
@@ -4230,7 +4231,7 @@ Kalbadevi Road, Bombay
 त्वचा प्रधानया ह्येष मृगोऽद्य न भविष्यति॥  
 अप्रमत्तेनते भाव्यमाश्रमस्थेन सीतया॥२६८॥
 
-![](../books_images/U-IMG-1702743820Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702743820Screenshot2023-12-16190129.png"/>
 
 **अथ षष्ठः सर्गः।**
 
@@ -4312,7 +4313,7 @@ Kalbadevi Road, Bombay
 तया परुषमुक्तस्तु कुपितो राघवानुजः॥  
 स विकांक्षन्भृशं राम प्रतस्थे न चिरादिव॥३०५॥
 
-![](../books_images/U-IMG-1702745840Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702745840Screenshot2023-12-16190129.png"/>
 
 **अथ सप्तमः सर्गः।**
 
@@ -4430,7 +4431,7 @@ Kalbadevi Road, Bombay
 हन्तेदानीं सकामा तु कैकेयी बान्धवैः सह॥  
 ह्रियेयं धर्मकामस्य धर्मपत्नी यशस्विनः॥३५९॥
 
-![](../books_images/U-IMG-1702790995Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702790995Screenshot2023-12-16190129.png"/>
 
 **अथ अष्टमः सर्गः।**
 
@@ -4527,7 +4528,7 @@ Kalbadevi Road, Bombay
 तत्र तामसितापाङ्गीं शोकमोहसमन्विताम्॥  
 निदधे रावणः सीतां मयो मायामिवासुरीम्॥४०३॥
 
-![](../books_images/U-IMG-1702794787Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702794787Screenshot2023-12-16190129.png"/>
 
 **अथ नवमः सर्गः॥**
 
@@ -4639,7 +4640,7 @@ Kalbadevi Road, Bombay
 इति विलपति राघवे तु दीने वनमुपगम्य तया विना सुकेश्या॥  
 भयविकलमुखस्तु लक्ष्मणोऽपि व्यथितमना भृशमातुरो बभूव॥४५४॥
 
-![](../books_images/U-IMG-1702797148Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702797148Screenshot2023-12-16190129.png"/>
 
 अथ दशमः सर्गः।
 
@@ -4773,11 +4774,11 @@ Kalbadevi Road, Bombay
 पद्मसौगन्धिकैस्ताम्रां शुक्लां कुमुदमण्डलैः॥  
 नीलां कुवलयोद्धाटैर्बहुवर्णां कुथामिव॥५१६॥
 
-![](../books_images/U-IMG-1702812296Screenshot2023-12-17165421.png)
+<MISSING_FIG href="../books_images/U-IMG-1702812296Screenshot2023-12-17165421.png"/>
 
 **४ – किष्किंधाकाण्डम्।**
 
-**![](../books_images/U-IMG-1702812474Screenshot2023-12-17165726.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702812474Screenshot2023-12-17165726.png"/>**
 
 अथ प्रथमः सर्गः।
 
@@ -4858,7 +4859,7 @@ Kalbadevi Road, Bombay
 तादृष्यमूकस्य समीपचारी चरन्ददर्शद्भुतदर्शनीयौ॥  
 शाखामृगाणामधिपस्तरस्वी वितत्रसे नैव विचेष्ट चेष्टम्॥३७॥
 
-![](../books_images/U-IMG-1702873694Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702873694Screenshot2023-12-16190129.png"/>
 
 **अथ द्वितीयः सर्गः।**
 
@@ -5091,7 +5092,7 @@ Kalbadevi Road, Bombay
 तमद्यैव प्रियार्थं मे वैरिणं भ्रातृरूपिणम्॥  
 वालिनं जहि काकुत्स्थ मया बद्धोऽयमञ्जलिः॥१४६॥
 
-![](../books_images/U-IMG-1702888690Screenshot2023-12-04223317.png)
+<MISSING_FIG href="../books_images/U-IMG-1702888690Screenshot2023-12-04223317.png"/>
 
 अथ चतुर्थः सर्गः।
 
@@ -5198,7 +5199,7 @@ Kalbadevi Road, Bombay
 स तया मालया वीरो हेमया हरियूथपः॥  
 संध्यानुगतपर्यन्तः पयोधर इवाभवत्॥१९५॥
 
-![](../books_images/U-IMG-1702892851Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702892851Screenshot2023-12-16190129.png"/>
 
 अथ पञ्चमः सर्गः।
 
@@ -5297,7 +5298,7 @@ Kalbadevi Road, Bombay
 अश्मभिः परिभिन्नाङ्ग पादपैराहतो भृशम्॥  
 रामबाणेन चाक्रान्तो जीवितान्ते मुमोह सः॥२४१॥
 
-![](../books_images/U-IMG-1702897363Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702897363Screenshot2023-12-16190129.png"/>
 
 **अथ षष्ठः सर्गः।**
 
@@ -5409,7 +5410,7 @@ Kalbadevi Road, Bombay
 हृष्टपुष्टजनाकीर्णा पताकाध्वजशोभिता॥  
 बभूव नगरी रम्या किष्किन्धा गिरिगह्वरे॥२९२॥
 
-![](../books_images/U-IMG-1703077197Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703077197Screenshot2023-12-16190129.png"/>
 
 **अथ सप्तमः सर्गः।**
 
@@ -5489,7 +5490,7 @@ Kalbadevi Road, Bombay
 मासि प्रोष्ठपदे ब्रह्म ब्राह्मणानां विवक्षताम्॥  
 अयमध्यायसमयः सामगानामुपस्थितः॥३२८॥
 
-![](../books_images/U-IMG-1702905418Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702905418Screenshot2023-12-16190129.png"/>
 
 अथ अष्टमः सर्गः।
 
@@ -5607,7 +5608,7 @@ Kalbadevi Road, Bombay
 तारया चाप्यनुज्ञातस्त्वरया वापि चोदितः॥  
 प्रविवेश महाबाहुरभ्यन्तरमरिन्दमः॥३८२॥
 
-![](../books_images/U-IMG-1702919256Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702919256Screenshot2023-12-16190129.png"/>
 
 अथ नवमः सर्गः।
 
@@ -5733,7 +5734,7 @@ Kalbadevi Road, Bombay
 एवं संचोदिताः सर्वे राज्ञा वानरयूथपाः॥  
 स्वां स्वां दिशमभिप्रेत्य त्वरिताः संप्रतस्थिरे॥४४१॥
 
-![](../books_images/U-IMG-1702967410Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702967410Screenshot2023-12-16190129.png"/>
 
 अथ दशमः सर्गः।
 
@@ -5908,11 +5909,11 @@ Kalbadevi Road, Bombay
 स वेगवान्वेगसमाहितात्मा हरिप्रवीरः परवीरहन्ता॥  
 मनः समाधाय महानुभावो जगाम लङ्कां मनसा मनस्वी॥५२४॥
 
-![](../books_images/U-IMG-1702979559Screenshot2023-12-17165421.png)
+<MISSING_FIG href="../books_images/U-IMG-1702979559Screenshot2023-12-17165421.png"/>
 
 **५–सुन्दरकाण्डम्।**
 
-**![](../books_images/U-IMG-1702980139Screenshot2023-12-17165726.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702980139Screenshot2023-12-17165726.png"/>**
 
 **अथ प्रथमः सर्गः।**
 
@@ -6007,7 +6008,7 @@ Kalbadevi Road, Bombay
 ततः स लम्बस्य गिरेः समृद्धे विचित्रकूटे निपपात कूटे॥  
 सकेतकोद्दालकनारिकेले महाभ्रकूटप्रतिमो महात्मा॥४३॥
 
-![](../books_images/U-IMG-1702982015Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702982015Screenshot2023-12-16190129.png"/>
 
 **अथ द्वितीयः सर्गः।**
 
@@ -6148,7 +6149,7 @@ Kalbadevi Road, Bombay
 आस्फोटयामास चुचुम्ब पुच्छं ननन्द चिक्रीड जगौ जगाम॥  
 स्तम्भानरोहन्निपपात भूमौ निदर्शयन्स्वां प्रकृतिं कपीनाम्॥१०८॥
 
-![](../books_images/U-IMG-1702993292Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1702993292Screenshot2023-12-16190129.png"/>
 
 **अथ तृतीयः सर्गः।**
 
@@ -6235,7 +6236,7 @@ Kalbadevi Road, Bombay
 एवं तु गत्वा हनुमान्महात्मा प्रतीक्षमाणो मनुजेन्द्रपत्नीम्॥  
 अवेक्ष्यमाणश्च ददर्श सर्वं सुपुष्पिते पर्णघने निलीनः॥१४७॥
 
-![](../books_images/U-IMG-1703005028Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703005028Screenshot2023-12-16190129.png"/>
 
 **अथ चतुर्थः सर्गः।**
 
@@ -6397,7 +6398,7 @@ Kalbadevi Road, Bombay
 नहि गन्धमुपाघ्राय रामलक्ष्मणयोस्त्वया॥  
 शक्यं संदर्शने स्थातुं शुना शार्दूलयोरिव॥२२३॥
 
-![](../books_images/U-IMG-1703044510Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703044510Screenshot2023-12-16190129.png"/>
 
 **अथ पञ्चमः सर्गः।**
 
@@ -6549,7 +6550,7 @@ Kalbadevi Road, Bombay
 सा राक्षसीमध्यगता च भीरुर्वाग्भिर्भृशंरावणतर्जिता च॥  
 कान्तारमध्ये विजने विसृष्टा बालेव कन्या विललाप सीता ॥२९३॥
 
-![](../books_images/U-IMG-1703048338Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703048338Screenshot2023-12-16190129.png"/>
 
 **अथ षष्ठः सर्गः।**
 
@@ -6689,7 +6690,7 @@ Kalbadevi Road, Bombay
 कच्चिन्न तद्धेमसमानवर्णं तस्याननं पद्मसमानगन्धि॥  
 मया विना शुष्यति शोकदीनं जलक्षये पद्ममिवातपेन॥३५८॥
 
-![](../books_images/U-IMG-1703144596Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703144596Screenshot2023-12-16190129.png"/>
 
 **अथ सप्तमः सर्गः।**
 
@@ -6927,7 +6928,7 @@ Kalbadevi Road, Bombay
 लङ्कां समस्तां संपीड्य लाङ्गूलाग्निं महाकपिः॥  
 निर्वापयामास तदा समुद्रेहरिपुङ्गवः॥४६९॥
 
-![](../books_images/U-IMG-1703090860Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703090860Screenshot2023-12-16190129.png"/>
 
 **अथ अष्टमः सर्गः।**
 
@@ -7025,11 +7026,11 @@ Kalbadevi Road, Bombay
 कथं सा मम सुश्रोणी भीरुभीरुः सती तदा॥  
 भयावहानां घोराणां मध्ये तिष्ठति रक्षसाम्॥५१३॥
 
-![](../books_images/U-IMG-1703135539Screenshot2023-12-21104139.png)
+<MISSING_FIG href="../books_images/U-IMG-1703135539Screenshot2023-12-21104139.png"/>
 
 ६– युद्धकाण्डम्।
 
-![](../books_images/U-IMG-1703135694Screenshot2023-12-21104436.png)
+<MISSING_FIG href="../books_images/U-IMG-1703135694Screenshot2023-12-21104436.png"/>
 
 पूर्वार्धम्।
 
@@ -7106,7 +7107,7 @@ Kalbadevi Road, Bombay
 ततो विस्मयमापन्ना हरयो ददृशुः स्थिताः॥  
 भ्रान्तोर्मिजालसंनादं प्रलोलमिव सागरम्॥३४॥
 
-![](../books_images/U-IMG-1703137544Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703137544Screenshot2023-12-16190129.png"/>
 
 **अथ द्वितीयः सर्गः।**
 
@@ -7303,7 +7304,7 @@ Kalbadevi Road, Bombay
 एवमुक्तस्तु सौमित्रिरभ्यषिञ्चद्विभीषणम्॥  
 मध्ये वानरमुख्यानां राजानं राजशासनात्॥१२५॥
 
-![](../books_images/U-IMG-1703163635Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703163635Screenshot2023-12-16190129.png"/>
 
 **अथ तृतीयः सर्गः।**
 
@@ -7430,7 +7431,7 @@ Kalbadevi Road, Bombay
 राक्षसास्तत्प्लवङ्गानां शुश्रुवुस्तेऽपि गर्जितम्॥  
 नर्दतामिव दृप्तानां मेघानामम्बरे स्वनम्॥१८२॥
 
-![](../books_images/U-IMG-1703336884Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703336884Screenshot2023-12-16190129.png"/>
 
 **अथ चतुर्थः सर्गः।**
 
@@ -7510,7 +7511,7 @@ Kalbadevi Road, Bombay
 रावणस्तु परं चक्रे क्रोधं प्रासादधर्षणात्॥  
 विनाशं चात्मनः पश्यन्निःश्वासपरमोऽभवत्॥२१८॥
 
-![](../books_images/U-IMG-1703338804Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703338804Screenshot2023-12-16190129.png"/>
 
 **अथ पञ्चमः सर्गः।**
 
@@ -7582,7 +7583,7 @@ Kalbadevi Road, Bombay
 सा बभूव निशा घोरा हरिराक्षसहारिणी॥  
 कालरात्रीव भूतानां सर्वेषां दुरतिक्रमाः॥२५१॥
 
-![](../books_images/U-IMG-1703340776Screenshot2023-12-16190129.png)  
+<MISSING_FIG href="../books_images/U-IMG-1703340776Screenshot2023-12-16190129.png"/>  
 
 **अथ षष्ठः सर्गः।**
 
@@ -7704,7 +7705,7 @@ Kalbadevi Road, Bombay
 विसृजन्तो महानादांस्त्रासयन्तो निशाचरान्॥  
 लङ्काद्वाराण्युपाजग्मुर्युद्धकामाः प्लवङ्गमाः॥३०८॥
 
-![](../books_images/U-IMG-1703351376Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703351376Screenshot2023-12-16190129.png"/>
 
 **अथ सप्तमः सर्गः।**
 
@@ -7808,7 +7809,7 @@ Kalbadevi Road, Bombay
 स राम बाणैर्हतदर्पहर्षो निकृत्तचापः स हताश्वसूतः॥  
 शरार्दितो भग्नमहाकिरीटो विवेश लङ्कां सहसा स्म राजा॥३५५॥
 
-![](../books_images/U-IMG-1703412705Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703412705Screenshot2023-12-16190129.png"/>
 
 **अथ अष्टमः सर्गः।**
 
@@ -7989,7 +7990,7 @@ Kalbadevi Road, Bombay
 स कुम्भकर्णंसुरसैन्यमर्दनं महत्सु युद्धेषु कदाचनाजितम्॥  
 ननन्द हत्वा भरताग्रजो रणे महासुरं वृत्रमिवामराधिपः॥४३९॥
 
-![](../books_images/U-IMG-1703438405Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703438405Screenshot2023-12-16190129.png"/>
 
 अथ नवमः सर्गः।
 
@@ -8050,7 +8051,7 @@ Kalbadevi Road, Bombay
 कुपितश्च तदा तत्र किं कार्यमिति चिन्तयन्॥  
 आदिदेशाथ संक्रुद्धो रणायेन्द्रजितं सुतम्॥४६५॥
 
-**![](../books_images/U-IMG-1703439666Screenshot2023-12-16190129.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1703439666Screenshot2023-12-16190129.png"/>**
 
 **अथ दशमः सर्गः।**
 
@@ -8138,13 +8139,13 @@ Kalbadevi Road, Bombay
 विभीषणमुखानां च सुहृदां राघवाज्ञया॥  
 सर्ववानरमुख्यानां चिकित्सामकरोत्तदा॥५०५॥
 
-![](../books_images/U-IMG-1703512501Screenshot2023-12-17165421.png)
+<MISSING_FIG href="../books_images/U-IMG-1703512501Screenshot2023-12-17165421.png"/>
 
 ७–युद्धकाण्डम्।
 
 उत्तरार्धम्।
 
-![](../books_images/U-IMG-1703512858Screenshot2023-12-25193022.png)
+<MISSING_FIG href="../books_images/U-IMG-1703512858Screenshot2023-12-25193022.png"/>
 
 **अथ प्रथमः सर्गः।**
 
@@ -8285,7 +8286,7 @@ Kalbadevi Road, Bombay
 विकीर्यमाणः शरजालवृष्टिभिर्महात्मना दीप्तधनुष्मताऽर्दितः॥  
 भयात्प्रदुद्राव समेत्य रावणो यथाऽनिलेनाभिहतो बलाहकः॥६६॥
 
-![](../books_images/U-IMG-1703520853Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703520853Screenshot2023-12-16190129.png"/>
 
 अथ द्वितीयः सर्गः।
 
@@ -8363,7 +8364,7 @@ Kalbadevi Road, Bombay
 दिष्ट्या त्वां वीर पश्यामि मरणात्पुनरागतम्॥  
 न हि मे जीवितेनार्थःसीतया च जयेन वा॥१०१॥
 
-![](../books_images/U-IMG-1703522852Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703522852Screenshot2023-12-16190129.png"/>
 
 अथ तृतीयः सर्गः।
 
@@ -8426,7 +8427,7 @@ Kalbadevi Road, Bombay
 मरणान्तानि वैराणि निवृत्तं नः प्रयोजनम्॥  
 क्रियतामस्य संस्कारो ममाप्येष यथा तव॥१२८॥
 
-![](../books_images/U-IMG-1703524090Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703524090Screenshot2023-12-16190129.png"/>
 
 अथ चतुर्थः सर्गः।
 
@@ -8520,7 +8521,7 @@ Kalbadevi Road, Bombay
 ततस्त्वेकं घटं गृह्य संस्थाप्य परमासने॥  
 घटेन तेन सौमित्रिरभ्यषिञ्चद्विभीषणम्॥१७०॥
 
-![](../books_images/U-IMG-1703585605Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703585605Screenshot2023-12-16190129.png"/>
 
 अथ पञ्चमः सर्गः।
 
@@ -8679,7 +8680,7 @@ Kalbadevi Road, Bombay
 प्रविशन्तीव गात्राणि स्वानि सा जनकात्मजा॥  
 वाक्शरैस्तैः सशल्येव भृशमश्रण्यवर्तयत्॥२४३॥
 
-![](../books_images/U-IMG-1703682675Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703682675Screenshot2023-12-16190129.png"/>
 
 **अथ षष्ठः सर्गः।**
 
@@ -8772,7 +8773,7 @@ Kalbadevi Road, Bombay
 इत्येवमुक्त्वा विजयी महाबलः प्रशस्यमानः स्वकृतेन कर्मणा॥  
 समेत्य रामः प्रियया महायशाः सुखं सुखार्होऽनुबभूव राघवः॥२८५॥
 
-![](../books_images/U-IMG-1703685848Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703685848Screenshot2023-12-16190129.png"/>
 
 **अथ सप्तमः सर्गः।**
 
@@ -8920,7 +8921,7 @@ Kalbadevi Road, Bombay
 पादुके ते पुरस्कृत्य प्रशासन्तं वसुन्धराम्॥  
 चातुर्वर्ण्यस्य लोकस्य त्रातारं सर्वतो भयात्॥३५२॥
 
-![](../books_images/U-IMG-1703695949Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703695949Screenshot2023-12-16190129.png"/>
 
 **अथ अष्टमः सर्गः।**
 
@@ -9086,11 +9087,11 @@ Kalbadevi Road, Bombay
 आयुष्यमारोग्यकरं यशस्यं सौभ्रातृकं बुद्धिकरं शुभं च॥  
 श्रोतव्यमेतन्नियमेन सद्भिराख्यानमोजस्करमृद्धिकामैः॥४३०॥
 
-![](../books_images/U-IMG-1703761246Screenshot2023-12-28163025.png)
+<MISSING_FIG href="../books_images/U-IMG-1703761246Screenshot2023-12-28163025.png"/>
 
 **७–उत्तरकाण्डम्।**
 
-**![](../books_images/U-IMG-1703761508Screenshot2023-12-28163451.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1703761508Screenshot2023-12-28163451.png"/>**
 
 **अथ प्रथमः सर्गः।**
 
@@ -9264,7 +9265,7 @@ Kalbadevi Road, Bombay
 एवमुक्तो दशग्रीवः प्रहस्तेन महाबलः॥  
 विवेश नगरी लङ्कां भ्रातृभिः सबलानुगैः॥८१॥
 
-![](../books_images/U-IMG-1703779667Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703779667Screenshot2023-12-16190129.png"/>
 
 **अथ द्वितीयः सर्गः।**
 
@@ -9388,7 +9389,7 @@ Kalbadevi Road, Bombay
 हर्षान्नादं विमुञ्चन्वै निष्क्रान्तो वरुणालयात्॥१३७॥  
 लङ्कामभिमुखो रक्षो नभस्तलगतो ययौ॥१३८॥
 
-![](../books_images/U-IMG-1703783071Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703783071Screenshot2023-12-16190129.png"/>
 
 **अथ तृतीयः सर्गः।**
 
@@ -9496,7 +9497,7 @@ Kalbadevi Road, Bombay
 एवमस्त्विति तं प्रोच्य प्रयातुमुपचक्रमुः॥  
 एवमुक्त्वा गताः सर्वे ऋषयस्ते यथागतम्॥१८८॥
 
-![](../books_images/U-IMG-1703827576Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703827576Screenshot2023-12-16190129.png"/>
 
 **अथ चतुर्थः सर्गः।**
 
@@ -9608,7 +9609,7 @@ Kalbadevi Road, Bombay
 संविवेश स धर्मात्मा भ्रातृभिः परिवारितः॥  
 शोकसंविग्नहृदयो निशश्वास यथा द्विपः॥२३९॥
 
-![](../books_images/U-IMG-1703843664Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703843664Screenshot2023-12-16190129.png"/>
 
 **अथ पञ्चमः सर्गः।**
 
@@ -9757,7 +9758,7 @@ Kalbadevi Road, Bombay
 सा दुःखभारावनता यशस्विनी यशोधरा नाथमपश्यती सती॥  
 रुरोद सा बर्हिणनादिते वने महास्वनं दुःखपरायणा सती॥३०८॥
 
-![](../books_images/U-IMG-1703952992Screenshot2023-11-24190416.png)
+<MISSING_FIG href="../books_images/U-IMG-1703952992Screenshot2023-11-24190416.png"/>
 
 **अथ षष्ठः सर्गः।**
 
@@ -9795,7 +9796,7 @@ Kalbadevi Road, Bombay
 मुहुर्मुहुश्च वैदेहीं परिदाय महायशाः॥  
 स्वमाश्रमं शिष्यवृतः पुनरायान्महातपाः॥३२४॥
 
-![](../books_images/U-IMG-1703954118Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703954118Screenshot2023-12-16190129.png"/>
 
 **अथ सप्तमः सर्गः।**
 
@@ -10039,7 +10040,7 @@ Kalbadevi Road, Bombay
 ततोऽर्धदिवसे प्राप्ते पूज्यमानस्ततस्ततः॥  
 अयोध्यां प्राप्य काकुत्स्थो मध्यकक्षामवातरत्॥४३८॥
 
-![](../books_images/U-IMG-1703871723Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703871723Screenshot2023-12-16190129.png"/>
 
 **अथ नवमः सर्गः।**
 
@@ -10191,7 +10192,7 @@ Kalbadevi Road, Bombay
 ततः समुपविष्टेषु महर्षिषु महात्मसु॥  
 भविष्यदुत्तरं काव्यं जगतुस्तौ कुशीलवौ॥५०९॥
 
-![](../books_images/U-IMG-1703918262Screenshot2023-12-16190129.png)
+<MISSING_FIG href="../books_images/U-IMG-1703918262Screenshot2023-12-16190129.png"/>
 
 **रघुवंशोद्धृता वक्ष्यमाणाः श्लोकाः।**
 
@@ -10243,7 +10244,7 @@ Kalbadevi Road, Bombay
 अथ  
 संक्षिप्तवाल्मीकिरामायणस्थविषमपदानां टिप्पणी।**
 
-![](../books_images/U-IMG-1703683263Screenshot2023-12-27185037.png)
+<MISSING_FIG href="../books_images/U-IMG-1703683263Screenshot2023-12-27185037.png"/>
 
 [TABLE]
 

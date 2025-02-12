@@ -31,7 +31,7 @@ Bibliotheca Sanskrita No. 43
 
 **संस्कारकाण्डः प्रथमः**
 
-![](../books_images/U-IMG-1697105315smritcandrika-removebg-preview(1).jpg)
+<MISSING_FIG href="../books_images/U-IMG-1697105315smritcandrika-removebg-preview(1"/>.jpg)
 
 SMRITICHANDRIKA
 
@@ -69,6 +69,7 @@ The following manuscripts have been used in preparing this edition **:—**
 
 \(3\) A paper manuscript belonging to the Adyar Library.
 
+                                  
                 
 
 |                                  |
@@ -167,8 +168,10 @@ The following manuscripts have been used in preparing this edition **:—**
 | मौतमोपि                                                | गौतमोपि    |
 
                                    
+                                   
+                              
 
-![](../books_images/U-IMG-1697459998S.M-1-removebg-preview.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1697459998S.M-1-removebg-preview.jpg"/>
 
 श्रीमहागणपतये नमः
 
@@ -176,7 +179,7 @@ The following manuscripts have been used in preparing this edition **:—**
 
 **स्मृतिचन्द्रिका.**
 
-**![](../books_images/U-IMG-1697106089Untitledkakima-removebg-preview.jpg)**
+**<MISSING_FIG href="../books_images/U-IMG-1697106089Untitledkakima-removebg-preview.jpg"/>**
 
 **संस्कारकाण्डः.**
 
@@ -1427,6 +1430,8 @@ The following manuscripts have been used in preparing this edition **:—**
 
 **गर्भिणीधर्माः.**
 
+ 
+
 अथ गर्भिणीधर्माः। तत्र कश्यपः[^52] —
 
 [^52]: "पाद्मोदितं कश्यपः—ख."
@@ -1879,6 +1884,8 @@ The following manuscripts have been used in preparing this edition **:—**
 
   अत एव व्यासः—
 
+ 
+
 अश्विनी श्रवणं स्वाती चित्रा पुष्यपुनर्वसू।
 
 धनिष्ठारेवतीज्येष्ठामृगहस्तेषु कारयेत्॥
@@ -1989,6 +1996,8 @@ The following manuscripts have been used in preparing this edition **:—**
   इति मनुना ब्राह्मणस्य सत उपनयनविधानात्। एवं गौतमादिवचनं महापातकादिव्यतिरिक्तविषयमिति मन्तव्यम्। तथा च स्मृत्यन्तरम्—
 
 स्यात्कामचारभक्षोक्तिर्महतः पातकादृते।
+
+ 
 
 इति। इतरत्रापि क्वचित्कामभक्षस्यापवादमाह गौतमः—
 
@@ -2151,6 +2160,8 @@ The following manuscripts have been used in preparing this edition **:—**
 
   ‘अथ काम्यानि—सप्तमे ब्रह्मवर्चसकामम्। अष्टम आयुष्कामम्।नवमे तेजस्कामम्।दशमेऽन्नाद्यकामम्।एकादश इन्द्रियकामम्। द्वादशे पशुकामम्’।
 
+ 
+
 इति। एतच्च वर्णत्रयसाधारणम्। तदुपनयनानन्तरमस्य विधानादित्युक्तं तद्भाष्ये। अत्र च ब्राह्मणादीनां द्वितीयं जन्म।तदाह वसिष्ठः—
 
 मातुर्यदग्रेजननं द्वितीयं मौञ्जिबन्धनम्।
@@ -2216,6 +2227,8 @@ The following manuscripts have been used in preparing this edition **:—**
 
 [^84]: " नब चैते – वैद्य."
 
+ 
+
 इति।
 
 गुरुर्भृगुसुतो धात्रीपुत्रश्शशधरात्मजः।  
@@ -2242,6 +2255,8 @@ The following manuscripts have been used in preparing this edition **:—**
 
   इति। परोऽन्तिमः। तत ऊर्ध्वं गौणकालोऽपि नास्तीत्यर्थः।
 
+ 
+
 अत एव तदतिक्रमे पातित्यमाह यमः—
 
 समतिक्रान्तकालाश्च पतितास्सर्व एव ते।
@@ -2261,6 +2276,8 @@ The following manuscripts have been used in preparing this edition **:—**
 ब्राह्मान्यौनांश्च सम्वन्धान्नाचरेद्ब्राह्मणस्सह॥
 
   इति। ब्रह्मसम्बन्धोऽध्यापनादि। अपूतैरकृतप्रायश्चित्तैरित्यर्थः।
+
+ 
 
 अत एव सङ्ग्रहकारः—
 
@@ -2655,6 +2672,8 @@ The following manuscripts have been used in preparing this edition **:—**
 
 अग्निकार्यं च कुर्वीत मेधावी तदनन्तरम्।
 
+ 
+
 इति। सन्ध्योपासनानन्तरमित्यर्थः। एतच्च कालद्वयेऽपि कार्यम्। तदाह याज्ञवल्क्यः—
 
 अग्निकार्यं ततः कुर्यात्सन्ध्ययोरुभयोरपि।
@@ -2703,9 +2722,11 @@ The following manuscripts have been used in preparing this edition **:—**
 नाङ्गुष्ठादधिका कार्या समित् स्थूलतया क्वचित्।  
 न वियुक्ता त्वचा चैव न सकीटा न पाटिता ॥  
 प्रादेशान्नाधिका न्यूना तथा न स्याद्विशाखिका।  
-न [सपर्णा](#)न निर्वीर्या होमेषु च विजानता॥  
+न सपर्णा[^254]न निर्वीर्या होमेषु च विजानता॥  
 विशीर्णा विदला ह्रस्वा वक्राससुषिरा कृशा।  
 दीर्घा स्थूला घुणैर्दष्टा कर्मसिद्धिविनाशिका॥
+
+[^254]: #
 
   इति। आपस्तम्बोऽपि सार्वत्रिकं नियमविशेषमाह—
 
@@ -3443,6 +3464,7 @@ The following manuscripts have been used in preparing this edition **:—**
 
   इति। ततो गुर्वाद्यनुज्ञया भुञ्जीत। तथा च हारीतः—
 
+ 
 ‘भैक्षमवोक्षितं[^124]पर्यग्निकृतमादित्यदर्शितमनुज्ञातममृतसम्मितं प्राहुस्तदश्नन्ब्रह्मचारी ब्रह्मसिद्धिमवाप्नोति’
 
 [^124]: "मपेक्षितं — वैद्य."
@@ -3605,6 +3627,7 @@ The following manuscripts have been used in preparing this edition **:—**
 
   हारीतोऽपि—
 
+ 
 ‘अथोदकुम्भकुशपुष्पसमिन्मूलाहरणसम्मार्जनोपलेपाङ्गशुश्रूषाप्रभृतिभिर्गच्छन्तं तिष्ठन्तं शयानमासीनं भक्त्याऽनुवर्तेत। नास्य निर्माल्यशयनासनच्छायापादुके वा कामयेत्’
 
   इति। आपस्तम्बोऽपि—
@@ -4752,9 +4775,9 @@ The following manuscripts have been used in preparing this edition **:—**
 नभस्यमासस्य च कृष्णपक्षे  
 त्रयोदशी पञ्चदशी च माघे॥ +[^170]
 
-इति। गौतमस्तु श्वादीनां मध्यगमनेअनध्यायमाह—
-
 [^170]: "कल्यादिस्स्यात्कृष्णपक्षे नभस्ये च त्रयोदशी। कार्तिक शुक्लनवमी त्वाषाढी कृतयुगस्यं च॥  त्रेतादीमधिवे शुक्ले तृतीया पुण्यसंज्ञिता।  इति ग. पुस्तकेऽधिकः पाठः।"
+
+इति। गौतमस्तु श्वादीनां मध्यगमनेअनध्यायमाह—
 
 ‘श्वनकुलसर्पमण्डूकमार्जाराणां त्र्यहमुपवासो विप्रवासश्च’
 
@@ -6727,10 +6750,10 @@ The following manuscripts have been used in preparing this edition **:—**
 
 इति। अत एवान्यविवाहालाभ एव पैशाचमाह व्यासः[^249]
 
+[^249]: " वत्सः – वैद्य"
+
 सर्वोपायैरसाध्यास्यात् सुकन्या पुरुषस्य या।  
 चौर्येणापि विवाहेन सा विवाह्या रहस्स्थिता॥
-
-[^249]: " वत्सः – वैद्य"
 
 इति। केचिदार्षमपि प्रशस्तं नेच्छन्ति, तत्रापि शुल्कग्रहणात्। तथा च मनुः—
 
@@ -6790,7 +6813,6 @@ The following manuscripts have been used in preparing this edition **:—**
 
 समाप्तस्संस्कारकाण्डः
 
-![](../books_images/U-IMG-169745055520-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-169745055520-removebg-preview.png"/>
 
 \]
-

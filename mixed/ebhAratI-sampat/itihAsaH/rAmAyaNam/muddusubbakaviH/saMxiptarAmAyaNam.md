@@ -16,7 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2NTI5NTA5Mjk
 
 \[
 
-![](../books_images/U-IMG-1699601538i7.png)
+<MISSING_FIG href="../books_images/U-IMG-1699601538i7.png"/>
 
 [TABLE]
 
@@ -28,7 +28,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2NTI5NTA5Mjk
 
 **॥संक्षिप्तरामायणम्॥**
 
-![](../books_images/U-IMG-1699602737i9.png)
+<MISSING_FIG href="../books_images/U-IMG-1699602737i9.png"/>
 
 ससीतालक्ष्मणं वन्दे रामं राजीवलोचनम्।  
 यन्नामकीर्तनाल्लोको मुच्यते भवबन्धनात्॥१॥  
@@ -1064,6 +1064,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2NTI5NTA5Mjk
 समाप्तश्चायं ग्रन्थः  
 ॐ तत्सत्**
 
-**![](../books_images/U-IMG-1700734223i7.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1700734223i7.png"/>**
 
 \]

@@ -16,7 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2MDE0NjQxOTQ
 
 \[
 
-![](../books_images/U-IMG-1702531190ddddddddd.png)
+<MISSING_FIG href="../books_images/U-IMG-1702531190ddddddddd.png"/>
 
 ॥ श्रीः ॥  
 **॥ श्रीभारतसारसंग्रहस्तोत्रम् \।\।**

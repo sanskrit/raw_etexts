@@ -33,14 +33,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMxNTY4MzIxNTI
 विद्यासागर. पि. पि. सुब्रह्मण्यशास्त्रिभिः  
 दाक्षिणात्यशाखानुसारेण सविमर्शं संशोधितं
 
-![](../books_images/U-IMG-1701504747Screenshot2023-12-02132545.png)
+<MISSING_FIG href="../books_images/U-IMG-1701504747Screenshot2023-12-02132545.png"/>
 
 चेन्नपुर्या  
 वाविल्लरामस्वामिशास्त्रुलु अण्ड्सन्स्  
 इत्येतैः सम्मुख प्रकाशितम्
 
 **INTRODUCTION.  
-![](../books_images/U-IMG-1706791118Screenshot2023-12-07155812.png)**
+<MISSING_FIG href="../books_images/U-IMG-1706791118Screenshot2023-12-07155812.png"/>**
 
  In the preparation of the Bhīṣma Parvan for the Press, the following manuscripts fully representative of the Southern Recension, were utilised.
 
@@ -117,6 +117,7 @@ Madras.
 P. P. S. SASTRI.
 
 Editor.  
+         
 
 ——————————————————————————————————————
 
@@ -128,7 +129,7 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 तत्र**  
 
 \।\। विषयानुक्रमणिका \।\।  
-![](../books_images/U-IMG-1701584292Screenshot2023-12-03114750.png)  
+<MISSING_FIG href="../books_images/U-IMG-1701584292Screenshot2023-12-03114750.png"/>  
 
 **जम्बूखण्डविनिर्माणपर्व**
 
@@ -592,16 +593,16 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 **॥ श्रीः ॥**  
 **\।\। महाभारतम् ॥**  
-![](../books_images/U-IMG-1701944937Screenshot2023-12-07155812.png)  
+<MISSING_FIG href="../books_images/U-IMG-1701944937Screenshot2023-12-07155812.png"/>  
 **॥ भीष्मपर्व ॥**  
 **(जम्बूखण्डविनिर्माणपर्व)**  
-![](../books_images/U-IMG-1701944956Screenshot2023-12-07155820.png)  
+<MISSING_FIG href="../books_images/U-IMG-1701944956Screenshot2023-12-07155820.png"/>  
 **॥ प्रथमोऽध्यायः ॥**  
-![](../books_images/U-IMG-1701944937Screenshot2023-12-07155812.png)
+<MISSING_FIG href="../books_images/U-IMG-1701944937Screenshot2023-12-07155812.png"/>
 
  कुरुक्षेत्रे कुरुपाण्डवसेनयोः परस्परसमागमः ॥१॥ उभयपक्षीयैः परस्परं समयकरणम्॥२॥  
                             
-![](../books_images/U-IMG-1701944956Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1701944956Screenshot2023-12-07155820.png"/>
 
 **जनमेजयः—**
 
@@ -737,13 +738,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि प्रथमोध्यायः ॥ १ ॥  
 ॥ ६१ ॥ जम्बूखण्डविनिर्माणपर्वणि प्रथमोऽध्यायः ॥ १ ॥  
 \[अस्मिन्नध्याये ३५ लोकाः\]  
-![](../books_images/U-IMG-1701955333Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1701955333Screenshot2023-12-07155820.png"/>
 
 **महाभारतम्**
 
 ॥ द्वितीयोऽध्यायः ॥  
 
-![](../books_images/U-IMG-1701959367Screenshot2023-12-07155826.png)
+<MISSING_FIG href="../books_images/U-IMG-1701959367Screenshot2023-12-07155826.png"/>
 
  व्यासेन धृतराष्ट्रं प्रति युद्धदर्शनाय चक्षुर्दानकथनम् ॥ १ ॥ धृतराष्ट्रेण युद्धश्रवणमासे प्रार्थिते व्यासेन सञ्जयं प्रति युद्धविषये सार्वज्ञ्यदानपूर्वकं युद्धप्रकारकथननियोगः ॥ २ ॥ व्यासेन धृतराष्ट्रं प्रति दुर्निमित्तप्रादुर्भावकथनम् ॥ ३॥
 
@@ -832,7 +833,9 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 उदयास्तमये सूर्यं कबन्धैः परिवारितम्॥२०॥
 
 श्वेतलोहितपर्यन्ताः कृष्णप्रीवास्सविद्युतः।  
-त्रिवर्णाःपरिघास्सन्धौ [भा](#)नुमावारयन्त्युत॥२१॥
+त्रिवर्णाःपरिघास्सन्धौ भा[^827]नुमावारयन्त्युत॥२१॥
+
+[^827]: #
 
 ज्वलितार्केन्दुनक्षत्रं निर्विशेषदिनक्षपम्।  
 अहोरात्रं मया दृष्टं तद्भयाय भविष्यति॥२२॥  
@@ -882,11 +885,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि द्वितीयोध्यायः॥२॥  
 ॥ ६१ ॥ जम्बूखण्डविनिर्माणपर्वणि द्वितीयोऽध्यायः॥२॥  
 \[अस्मिन्नभ्याये ३३॥ श्लोकाः \]  
-**![](../books_images/U-IMG-1702045139Screenshot2023-12-07155820.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1702045139Screenshot2023-12-07155820.png"/>**  
 
 **॥ तृतीयोऽध्यायः ॥**  
 
-**![](../books_images/U-IMG-1702045173Screenshot2023-12-08194923.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702045173Screenshot2023-12-08194923.png"/>**
 
 व्यासेन धृतराष्ट्रं प्रति दुर्निमित्तप्रादुर्भावकथनम्॥
 
@@ -1238,8 +1241,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 प[^34]रस्परज्ञास्संहृष्टा व्यवधूतास्सुनिश्चिताः।  
 अपि पश्चाशतं शूरा मृद्रन्ति महतीं चमूम्॥३५॥
 
-[^34]: "अ-क— इदमर्धं नास्ति"
-
 अपि वा पञ्च षट् सप्त विजयन्त्यनिवर्तिनः॥३५॥
 
 न वैनतेयो गरुडः प्रशंसति महाजनम्।  
@@ -1255,15 +1256,17 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६१ ॥ जम्बूखण्डविनिर्माणपर्वणि चतुर्थोऽध्यायः ॥ ४ ॥  
 \[ अस्मिन्नध्यये ३८ श्लोकाः\]
 
-![](../books_images/U-IMG-1703488231Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1703488231Screenshot2023-12-07155820.png"/>
 
 **॥ पञ्चमोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1703488429Screenshot2023-12-25124330.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1703488429Screenshot2023-12-25124330.png"/>**
 
  व्यासे गते सञ्जयेन धृतराष्ट्रं प्रति भूमिगुणानुवर्णनम्॥ १॥ सञ्जयेन धृतराष्ट्रं प्रति भूतपञ्चकगुणवर्णनपूर्वकं संक्षेपेण जम्बूद्वीपवर्णनम्॥ २ ॥
 
 ——————
+
+                    
 
 वैशम्पायनः—
 
@@ -1408,10 +1411,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि पञ्चमोऽध्यायः॥ ५ ॥  
 ॥ ६१ ॥ जम्बूखण्डविनिर्माणपर्वणि पञ्चमोऽध्यायः॥ ५ ॥  
 \[अस्मिन्नध्याये ३७ श्लोकाः\]  
-![](../books_images/U-IMG-1703574724Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1703574724Screenshot2023-12-07155820.png"/>
 
 **॥ षष्ठोऽध्यायः ॥  
-![](../books_images/U-IMG-1706797126Screenshot2023-12-08194923.png)**
+<MISSING_FIG href="../books_images/U-IMG-1706797126Screenshot2023-12-08194923.png"/>**
 
 सञ्जयेन भारतादिनवखण्डानां तत्तत्सीमापर्वतानां मेरोश्च वर्णनम्॥  
 
@@ -1662,11 +1665,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि षष्ठोऽध्यायः॥ ६ ॥  
 ॥ ६१ ॥जम्बूखण्डविनिर्माणपर्वणि षष्ठोऽध्यायः॥ ६ ॥  
 \[अस्मिन्नध्याये ६७॥ श्लोकाः \]  
-**![](../books_images/U-IMG-1703581707Screenshot2023-12-07155820.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1703581707Screenshot2023-12-07155820.png"/>**  
 
 **॥ सप्तमोऽध्यायः ॥**  
 
-**![](../books_images/U-IMG-1703581686Screenshot2023-12-07155826.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1703581686Screenshot2023-12-07155826.png"/>**
 
 मेरोरुत्तरभागस्थोत्तरकुरुवर्णनम् ॥ १ ॥ तथा मेरोःपूर्वभागस्यभद्राश्वखण्डवर्णनम्॥२॥
 
@@ -1765,10 +1768,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ १ ॥ जम्बूखण्डविनिर्माणपर्वणि सप्तमोऽध्यायः॥ ७ ॥  
 \[ अस्मिन्नध्याये २४ ॥ श्लोकाः \]
 
-**![](../books_images/U-IMG-1703582563Screenshot2023-12-07155820.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1703582563Screenshot2023-12-07155820.png"/>**  
 
 **॥ अष्टमोऽध्यायः ॥  
-![](../books_images/U-IMG-1703582607Screenshot2023-12-07155812.png)**
+<MISSING_FIG href="../books_images/U-IMG-1703582607Screenshot2023-12-07155812.png"/>**
 
 मेरोरुत्तरभागस्थखण्डस्रयवर्णनम्॥  
 —————
@@ -1858,11 +1861,12 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि अष्टमोऽध्यायः॥८॥  
 ॥ ६१ ॥ जम्बूखण्डविनिर्माणपर्वणि अष्टमोऽध्यायः॥८॥  
 \[ अस्मिन्नध्याये २१॥ श्लोकाः \]  
-**![](../books_images/U-IMG-1704364128Screenshot2023-12-07155820.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1704364128Screenshot2023-12-07155820.png"/>**  
 
 **॥ नवमोऽध्यायः ॥**
 
-![](../books_images/U-IMG-1704364186Screenshot2023-12-08194923.png)
+             
+<MISSING_FIG href="../books_images/U-IMG-1704364186Screenshot2023-12-08194923.png"/>
 
 भारतवर्षस्थनदीपर्वतदेशानां विस्तरेण कथनम्॥
 
@@ -2114,15 +2118,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि नवमोऽध्यायः॥ ९ ॥  
 ॥ ६१ ॥ जम्बूखण्डविनिर्माणपर्वणि नवमोऽध्यायः ॥ ९ ॥  
 \[अस्मिन्नध्याये ७० ॥श्लोकाः\]  
-![](../books_images/U-IMG-1704524002Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1704524002Screenshot2023-12-07155820.png"/>
 
 **॥ दशमोऽध्यायः ॥**
 
-![](../books_images/U-IMG-1704524518Screenshot2023-12-08194923.png)
+<MISSING_FIG href="../books_images/U-IMG-1704524518Screenshot2023-12-08194923.png"/>
 
 चतुर्युगवर्णनम्॥
 
-![](../books_images/U-IMG-1704524479Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1704524479Screenshot2023-12-07155820.png"/>
 
 धृतराष्ट्रः—
 
@@ -2183,12 +2187,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 **॥ एकादशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1704542342Screenshot2023-12-07155812.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1704542342Screenshot2023-12-07155812.png"/>  
 (भूमिपर्व)**
 
 शाकद्वीपवर्णनम् ॥
 
-![](../books_images/U-IMG-1704542429Screenshot2023-12-02132141.png)
+          
+<MISSING_FIG href="../books_images/U-IMG-1704542429Screenshot2023-12-02132141.png"/>
 
 धृतराष्ट्रः—
 
@@ -2264,8 +2269,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 [^80]: "अ-क-ऋषभो"
 
 त[^79]तो मेघाः प्रवर्तन्ते प्रभवन्ति च सर्वशः॥१७॥  
-
-[^79]: "अ-क- इदमर्धं नास्ति"
 
 ततः परेण कौरव्य जलधारो महागिरिः।  
 ततो नित्यमुपादत्ते वासवः परमं जलम्॥१८॥  
@@ -2363,17 +2366,17 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६२ ॥ भूमिपर्वणि प्रथमोऽध्यायः ॥ १ ॥  
 \[ अस्मिन्नध्याये ४१ ॥ श्लोकाः \]  
 **
-![](../books_images/U-IMG-1704625634Screenshot2023-12-02132141.png)**  
+<MISSING_FIG href="../books_images/U-IMG-1704625634Screenshot2023-12-02132141.png"/>**  
 
 **॥ द्वादशोऽध्यायः ॥**
 
 **                 
-![](../books_images/U-IMG-1704625605Screenshot2023-12-07155826.png)**
+<MISSING_FIG href="../books_images/U-IMG-1704625605Screenshot2023-12-07155826.png"/>**
 
 क्रौञ्चादिद्वीपवर्णनम्॥
 
                
-![](../books_images/U-IMG-1704625634Screenshot2023-12-02132141.png)
+<MISSING_FIG href="../books_images/U-IMG-1704625634Screenshot2023-12-02132141.png"/>
 
 सञ्जयः—
 
@@ -2481,8 +2484,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 स[^79] राजा स शिवो राजन् प्रेक्षितायाः प्रजापतिः।  
 गोपायति नरश्रेष्ठ प्रजास्सजडपण्डिताः॥३०॥  
 
-[^79]: "अ-क- इदमर्धं नास्ति"
-
 भोजनं चात्र कौरव्य प्रजास्स्वयमुपस्थितम्।  
 एवमेव महाराज भुज्यते तद्धि नित्यदा\।\।३१॥  
 
@@ -2562,16 +2563,16 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६२ ॥ भूमिपर्वणि द्वितीयोऽध्यायः ॥ २ ॥  
 \[अस्मिन्नध्याये ५२ ॥ श्लोकाः\]  
 ( भूमिपर्व समाप्तम् )  
-![](../books_images/U-IMG-1704783058Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1704783058Screenshot2023-12-07155820.png"/>
 
 \।\। त्रयोदशोऽध्यायः ॥
 
-**![](../books_images/U-IMG-1704792586Screenshot2023-12-25124330.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1704792586Screenshot2023-12-25124330.png"/>**  
 
 (भगवद्गीतापर्व)
 
 सञ्जयेन धृतराष्ट्रं प्रति भीष्महननकथनम्॥  
-![](../books_images/U-IMG-1704792560Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1704792560Screenshot2023-12-07155820.png"/>
 
 वैशम्पायनः—
 
@@ -2624,7 +2625,7 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 **॥ चतुर्दशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1704792956Screenshot2023-12-08194923.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1704792956Screenshot2023-12-08194923.png"/>**
 
   धृतराष्ट्रेण भीष्महननश्रवणात्परिशोचनपूर्वकं सञ्जयं प्रति विस्तरेण भीष्मादियुद्धवर्णनचोदना॥
 
@@ -2893,7 +2894,7 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 **\।\। पञ्चदशोऽध्यायः \।\।**
 
-![](../books_images/U-IMG-1704800470Screenshot2023-12-07155812.png)
+<MISSING_FIG href="../books_images/U-IMG-1704800470Screenshot2023-12-07155812.png"/>
 
 दुर्योधनेन दुःशासनं प्रति भीष्मरक्षणाज्ञापनम्॥ १ ॥ कुरुपाण्डवसेनावर्णनम्॥ २ ॥
 
@@ -3027,8 +3028,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 सन्नद्धास्समदृश्यन्त स्वेष्वनीकेष्ववस्थिताः।  
 ब[^93]द्धकृष्णाजिनास्सर्वे ध्वजिनो मुञ्जधारिणः॥३९॥  
 
-[^93]: "अ-क- नास्तीदमर्धम्"
-
 सृष्टा दुर्योधनस्यार्थे ब्रह्मलोकाय दीक्षिताः।  
 समृद्धा दश वाहिन्यः परिगृह्य व्यवस्थिताः॥४०॥  
 
@@ -3045,8 +3044,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 दृ[^93]ष्ट्वा चमूमुखे भीष्मं समकम्पन्त पाण्डवाः।  
 सृञ्जयाश्च महेष्वासा धृष्टद्युम्नपुरोगमाः॥४४॥  
-
-[^93]: "अ-क- नास्तीदमर्धम्"
 
 जृम्भमाणं महासिंहं दृष्ट्वा क्षुद्रमृगा यथा।  
 धृष्टद्युम्नमुखास्सर्वे समुद्विविजिरे मुहुः॥४५ ॥  
@@ -3066,11 +3063,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि पञ्चदशोऽध्यायः ॥ १५ ॥  
 ॥ ६३ ॥ भगवद्गीतापर्वणि तृतीयोऽध्यायः ॥ ३ ॥  
 \[ अस्मिन्नध्याये ४८॥ श्लोकाः\]  
-![](../books_images/U-IMG-1704806786Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1704806786Screenshot2023-12-07155820.png"/>
 
 ॥ षोडशोऽध्यायः ॥
 
-**![](../books_images/U-IMG-1704807723Screenshot2023-12-08194923.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1704807723Screenshot2023-12-08194923.png"/>**
 
 युद्धाय कुरुसेनानिर्याणम्॥
 
@@ -3220,10 +3217,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि षोडशोऽध्यायः ॥ १६ ॥  
 ॥ ६३ ॥ भगवद्गीतापर्वणि चतुर्थोऽध्यायः ॥ ४ ॥  
 \[ अस्मिन्नाध्याये ४० श्लोकाः \]  
-![](../books_images/U-IMG-1704869591Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1704869591Screenshot2023-12-07155820.png"/>
 
 **॥ सप्तदशोऽध्यायः ॥  
-![](../books_images/U-IMG-1706092306Screenshot2023-12-08194923.png)**
+<MISSING_FIG href="../books_images/U-IMG-1706092306Screenshot2023-12-08194923.png"/>**
 
 कुरुसेनावर्णनम्॥
 
@@ -3299,10 +3296,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि सप्तदशोऽध्यायः॥ १७ ॥  
 ॥ ६३ ॥ भगवद्गीतापर्वणि पञ्चमोऽध्यायः ॥ ५ ॥  
 \[ अस्मिन्नध्याये १८ ॥ श्लोकाः \]  
-**![](../books_images/U-IMG-1706093259Screenshot2023-12-07155820.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1706093259Screenshot2023-12-07155820.png"/>**  
 
 **॥ अष्टादशोऽध्यायः ॥**  
-![](../books_images/U-IMG-1706093315Screenshot2023-12-07155812.png)
+<MISSING_FIG href="../books_images/U-IMG-1706093315Screenshot2023-12-07155812.png"/>
 
 युद्धाय पाण्डवसेनानिर्याणम्॥
 
@@ -3476,10 +3473,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि अष्टादशोऽध्यायः ॥ १८ ॥  
 ॥ ६३ ॥ भगवद्गीतापर्वणि षष्टोऽध्यायः ॥ ६ ॥  
 \[ अस्मिन्नध्याये ४७ श्लोकाः\]  
-**![](../books_images/U-IMG-1706162381Screenshot2023-12-07155820.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1706162381Screenshot2023-12-07155820.png"/>**  
 
 **\।\। एकोनविंशोऽध्यायः ॥  
-![](../books_images/U-IMG-1706162544Screenshot2023-12-08194923.png)**
+<MISSING_FIG href="../books_images/U-IMG-1706162544Screenshot2023-12-08194923.png"/>**
 
 कुरुसेनागमनप्रकारवर्णनम्॥
 
@@ -3603,14 +3600,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि एकोनविंशोऽध्यायः ॥ १९ ॥  
 ॥ ६३ ॥ भगवद्गीतापर्वणि सप्तमोऽध्यायः ॥ ७ ॥  
 \[अस्मिन्नध्याये २१॥ श्लोकाः\]  
-![](../books_images/U-IMG-1706800943Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1706800943Screenshot2023-12-07155820.png"/>
 
 **॥ विंशोऽध्यायः॥  
-![](../books_images/U-IMG-1706166082Screenshot2023-12-25124330.png)**
+<MISSING_FIG href="../books_images/U-IMG-1706166082Screenshot2023-12-25124330.png"/>**
 
 परसेनादर्शनचकितं युधिष्ठिरं प्रत्यर्जुनेन सयुक्तिनिरूपण सभाश्वासनम्॥  
                  
-![](../books_images/U-IMG-1706166050Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1706166050Screenshot2023-12-07155820.png"/>
 
 सञ्जयः—
 
@@ -3653,8 +3650,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 त्य[^93]क्त्वाऽधर्मं तथा सर्वे धर्मं चोत्तममास्थिताः।  
 युध्यध्वमनहंकारा यतो धर्मस्ततो जयः॥११॥  
 
-[^93]: "अ-क- नास्तीदमर्धम्"
-
 ए[^124]वं राजन् विजानीहि ध्रुवोऽस्माकं रणे जयः।  
 यथा ते नारदः प्राह यतः कृष्णस्ततो जयः॥१२॥  
 
@@ -3682,14 +3677,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६३ ॥ भगवद्गीतापर्यंणि अष्टमोऽध्यायः ॥ ८ ॥  
 \[ अस्मिन्नध्याये १७ श्लोकाः \]  
 
-![](../books_images/U-IMG-1706167600Screenshot2023-12-07155820.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706167600Screenshot2023-12-07155820.png"/>  
 
 ॥ एकविंशोऽध्यायः ॥  
-![](../books_images/U-IMG-1706167630Screenshot2023-12-08194923.png)
+<MISSING_FIG href="../books_images/U-IMG-1706167630Screenshot2023-12-08194923.png"/>
 
 युधिष्ठिरादीनां युद्धाय निर्गमः ॥ १ ॥ सञ्जयेनोभयसेनयोरभ्युदयवर्णनम् ॥ २ ॥  
                    
-![](../books_images/U-IMG-1706167600Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1706167600Screenshot2023-12-07155820.png"/>
 
 सज्ञयः—
 
@@ -3803,11 +3798,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ॥ द्वाविंशोऽध्यायः ॥
 
-![](../books_images/U-IMG-1706626550bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706626550bbbb.png"/>
 
  युधिष्ठिरेण रथादवरुह्य भीष्मद्रोणाद्यभिवादनपूर्वकं तेभ्यो जयाशीर्ग्रहणम्॥१॥ युधिष्ठिरे पुनर्भ्रातृभिस्सह रथारूढे सन्नाहभेरीवादनम्॥२॥
 
-![](../books_images/U-IMG-1706626526मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706626526मम.png"/>
 
 सञ्जयः—
 
@@ -4196,8 +4191,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 श्रुतं मे कर्ण भीष्मस्य द्वेषात् किल न योत्स्यसि।  
 तस्माद्विरम[^138] राधेय यावद्भीष्मो न हन्यते॥९४॥
 
-[^138]: "अ–क—इदमर्धं नास्ति"
-
 हते[^140] तु भीष्मे राधेय पुनरेष्यसि संयुगम्।  
 पाण्डुपुत्रस्य साहाय्यं यदि पश्यसि चेत् क्षमम्॥९५॥
 
@@ -4253,9 +4246,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 युयुत्सो वासुदेवश्च त्वमहं भ्रातरश्च मे।  
 न भविष्यन्ति ते बाला धार्तराष्ट्रा न संशयः॥१०५॥
 
-[वृ](#)णोमि[^144] त्वां महाबाहो युध्यस्व मम कारणात्॥१०५॥
+वृ[^828]णोमि[^144] त्वां महाबाहो युध्यस्व मम कारणात्॥१०५॥
 
 [^144]: "अ–क—अर्धत्रयं नास्ति"
+
+[^828]: #
 
 त्वयि पिण्डश्च तन्तुःश्च धृतराष्ट्रस्य दृश्यते।  
 ततो जलक्रिया चैव त्क्या कार्या तथैव च॥१०६॥
@@ -4350,24 +4345,24 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥ भगवद्गीतापर्वणि दशमोऽध्यायः॥ १०॥  
 \[ अस्मिन्नध्याये १३०॥ श्लोकाः \]
 
-![](../books_images/U-IMG-1706632125मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706632125मम.png"/>
 
 ॥श्रीः॥  
 
 **॥श्रीमद्भगवद्गीता॥**  
 
-![](../books_images/U-IMG-1706632359नन.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706632359नन.png"/>  
 ॥त्रयोविंशोऽध्यायः॥  
-![](../books_images/U-IMG-1706632372bbbb.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706632372bbbb.png"/>  
 ॥भगवद्गीताध्यायः॥१॥  
-![](../books_images/U-IMG-1706632386मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706632386मम.png"/>
 
 \* धृतराष्ट्रः—[^150]
 
+[^150]: "ङ–म—कोशयोः गीता न लिखिता प्रसिद्धत्वात्"
+
 धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।  
 मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥१॥
-
-[^150]: "ङ–म—कोशयोः गीता न लिखिता प्रसिद्धत्वात्"
 
 सञ्जयः—
 
@@ -4530,13 +4525,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥भगद्गीतापर्वणि एकादशोऽध्यायः॥११॥  
 ॥भगवद्गीतायां प्रथमोऽध्यायः॥  
 \[ अस्मिन्नध्याये ४७ लोकाः\]  
-![](../books_images/U-IMG-1706633491मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706633491मम.png"/>
 
 ॥चतुर्विंशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706633745नन.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706633745नन.png"/>  
 भगवद्गीताध्यायः॥ २॥  
-![](../books_images/U-IMG-1706633735मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706633735मम.png"/>
 
 सञ्जयः—
 
@@ -4802,13 +4797,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥भगवद्गीतापर्वणि द्वादशोऽध्यायः॥१२॥  
 ॥भगवद्गीतायां द्वितीयोऽध्यायः॥  
 \[ अस्मिन्नध्याये ७२ श्लोकाः \]  
-![](#)![](../books_images/U-IMG-1706635364मम.png)  
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1706635364मम.png"/>  
 
 ॥पञ्चविंशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706635380bbbb.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706635380bbbb.png"/>  
 ॥भगवद्गीताध्यायः॥३॥  
-![](../books_images/U-IMG-1706635364मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706635364मम.png"/>
 
 अर्जुनः—
 
@@ -4954,13 +4949,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥भगवद्गीतापर्वणि त्रयोदशोऽध्यायः॥१३॥  
 ॥भगवद्गीताय तृतीऽयोध्यायः॥  
 \[ अस्मिन्नध्याये ४३ श्लोकाः \]  
-![](../books_images/U-IMG-1706636361मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706636361मम.png"/>  
 
 ॥षड्विशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706636376bbbb.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706636376bbbb.png"/>  
 ॥भगवद्गीताध्यायः॥४॥  
-![](../books_images/U-IMG-1706636361मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706636361मम.png"/>
 
 श्रीभगवान्—
 
@@ -5101,13 +5096,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥ भगवद्गीतापर्वणि चतुर्दशोऽध्यायः॥१४॥  
 ॥भगवद्गीतायांचतुर्थोऽध्यायः॥  
 \[ अस्मिन्नध्याये ४२ श्लोकाः \]  
-![](../books_images/U-IMG-1706637238मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706637238मम.png"/>  
 
 ॥ सप्तविंशोऽध्यायः ॥  
 
-![](../books_images/U-IMG-1706637249bbbb.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706637249bbbb.png"/>  
 ॥ भगवद्गीताध्यायः ॥५॥  
-![](../books_images/U-IMG-1706637238मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706637238मम.png"/>
 
 अर्जुनः—
 
@@ -5209,9 +5204,9 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ॥अष्टाविंशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706638055नन.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706638055नन.png"/>  
 ॥भगवद्गीताध्यायः॥ ६॥  
-![](../books_images/U-IMG-1706638066मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706638066मम.png"/>
 
 श्रीभगवान्—
 
@@ -5291,8 +5286,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 शनैश्शनैरुपरमेद् बुद्ध्या धृतिगृहीतया।  
 आत्मसंस्थं[^138] मनः कृत्वा न किञ्चिदपि चिन्तयेत्॥२५॥
 
-[^138]: "अ–क—इदमर्धं नास्ति"
-
 यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्।
 
 ततस्ततो नियम्यैतद् आत्मन्येव वशं नयेत्॥२६॥
@@ -5359,8 +5352,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 पूर्वाभ्यासेन[^138] तेनैव ह्रियते ह्यवशोऽपि सः।  
 जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते॥४४॥
 
-[^138]: "अ–क—इदमर्धं नास्ति"
-
 प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः।  
 अनेकजन्मसंसिद्धस् ततो याति परां गतिम्॥४५॥
 
@@ -5375,13 +5366,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥भगवद्गीतापर्वणि षोडशोऽध्यायः॥१६॥  
 ॥भगवद्गीतायां षष्ठोऽध्यायः॥  
 \[ अस्मिन्नध्याये ४७ श्लोकाः\]  
-![](../books_images/U-IMG-1706671476मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706671476मम.png"/>
 
 ॥ एकोनत्रिंशोऽध्यायः ॥  
 
-![](../books_images/U-IMG-1706671759bbbb.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706671759bbbb.png"/>  
 ॥भगवद्गीताध्यायः॥७॥  
-![](../books_images/U-IMG-1706671769मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706671769मम.png"/>
 
 श्रीभगवान्—
 
@@ -5481,13 +5472,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥भगवद्गीतापर्वणि सप्तदशोऽध्यायः॥१७॥  
 ॥भगवद्गीतायां सप्तमोऽध्यायः॥  
 \[ अस्मिन्नध्याये ३० श्लोकाः \]  
-![](../books_images/U-IMG-1706672330मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706672330मम.png"/>  
 
 ॥ त्रिंशोऽध्यायः ॥  
 
-![](../books_images/U-IMG-1706672346NNNN.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706672346NNNN.png"/>  
 ॥भगवद्गीताध्यायः॥८॥  
-![](../books_images/U-IMG-1706672330मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706672330मम.png"/>
 
 अर्जुनः—
 
@@ -5592,13 +5583,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥भगवद्गीतापर्वणि अष्टादशोऽध्यायः॥१८॥  
 ॥भगवद्गीतायांअष्टमोऽध्यायः॥  
 \[अस्मिन्नध्याये २८ श्लोकाः\]  
-![](../books_images/U-IMG-1706673322मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706673322मम.png"/>  
 
 **॥ एकत्रिंशोऽध्यायः ॥**  
 
-![](../books_images/U-IMG-1706673332NNNN.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706673332NNNN.png"/>  
 ॥ भगवद्गीताध्यायः ॥९॥  
-![](../books_images/U-IMG-1706673322मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706673322मम.png"/>
 
 श्रीभगवान्—
 
@@ -5715,13 +5706,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३ ॥भगवद्गीतापर्वणि एकोनविंशोऽध्यायः॥१९॥  
 ॥भगवद्गीतायांनवमोऽध्यायः॥  
 \[ अस्मिन्नध्याये ३४ श्लोकाः \]  
-![](../books_images/U-IMG-1706674018मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706674018मम.png"/>
 
 ॥द्वात्रिंशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706674149bbbb.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706674149bbbb.png"/>  
 ॥भगवद्गीताध्यायः॥१०॥  
-![](../books_images/U-IMG-1706674137मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706674137मम.png"/>
 
 श्रीभगवान्—
 
@@ -5864,13 +5855,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६३॥ भगवद्गीतापर्वणि विंशोऽध्यायः॥ २०॥  
 ॥ भगवद्गीतायां दशमोऽध्यायः॥  
 \[ अस्मिन्नध्याये ४२ श्लोकाः \]  
-![](../books_images/U-IMG-1706700410मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706700410मम.png"/>
 
 ॥ त्रयस्त्रिंशोऽध्यायः ॥  
 
-![](../books_images/U-IMG-1706700514bbbb.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706700514bbbb.png"/>  
 ॥भगवद्गीताध्यायः॥११॥  
-![](../books_images/U-IMG-1706700502मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706700502मम.png"/>
 
 अर्जुनः—
 
@@ -6147,15 +6138,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥भगवद्गीतायांएकादशोऽध्यायः॥  
 \[अस्मिन्नध्याये ५५ श्लोकाः\]
 
-![](../books_images/U-IMG-1706701628मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706701628मम.png"/>  
 
 ॥ चतुस्त्रिंशोऽध्यायः ॥
 
-![](../books_images/U-IMG-1706701650bbbb.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706701650bbbb.png"/>  
 
 भगवद्गीताध्यायः॥१२॥
 
-![](../books_images/U-IMG-1706701628मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706701628मम.png"/>
 
 अर्जुनः—
 
@@ -6226,13 +6217,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६३॥ भगवद्गीतापर्वणि द्वाविंशोऽध्यायः॥ २२॥  
 ॥ भगवद्गीतायां द्वादशोऽध्यायः॥  
 \[ अस्मिन्नध्याये २० श्लोकाः \]  
-![](../books_images/U-IMG-1706711889मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706711889मम.png"/>
 
 ॥ पञ्चत्रिंशोऽध्यायः ॥  
 
-![](../books_images/U-IMG-1706711976नन.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706711976नन.png"/>  
 ॥भगवद्गीताध्यायः॥१३॥  
-![](../books_images/U-IMG-1706711987मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706711987मम.png"/>
 
 अर्जुनः—
 
@@ -6316,8 +6307,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 अन्ये त्वेवमजानन्तश् श्रुत्वाऽन्येभ्य उपासते।  
 तेऽपि[^138] चातितरन्त्येव मृत्युं श्रुतिपरायणाः॥२६॥
 
-[^138]: "अ–क—इदमर्धं नास्ति"
-
 यावत् सञ्जायते किश्चित् सत्त्वं स्थावरजङ्गमम्।
 
 क्षेत्रक्षेत्रज्ञसंयोगात् तद्विद्धि भरतर्षभ॥२७॥
@@ -6356,11 +6345,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 **॥ षट्त्रिंशोऽध्यायः ॥**
 
-![](../books_images/U-IMG-1706712487नन.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706712487नन.png"/>  
 
 ॥भगवद्गीताध्यायः॥१४॥
 
-![](../books_images/U-IMG-1706712498मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706712498मम.png"/>
 
 श्रीभगवान्—
 
@@ -6457,15 +6446,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥भगवद्गीतायां चतुर्विंशोऽध्यायः॥  
 \[अस्मिन्नध्याये २७ श्लोकाः\]
 
-![](../books_images/U-IMG-1706712805मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706712805मम.png"/>  
 
 **॥सप्तत्रिंशोऽध्यायः॥**
 
-![](../books_images/U-IMG-1706712827bbbb.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706712827bbbb.png"/>  
 
 ॥भगवद्गीताध्यायः॥१५॥
 
-![](../books_images/U-IMG-1706712805मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706712805मम.png"/>
 
 श्रीभगवान्—
 
@@ -6546,13 +6535,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥भगवद्गीतापर्वणि पञ्चविंशोध्यायः॥२५॥  
 ॥भगवद्गीतायां पञ्चदशोऽध्यायः॥  
 \[ अस्मिन्नध्याये २० श्लोकाः\]  
-![](../books_images/U-IMG-1706713203मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706713203मम.png"/>  
 
 ॥अष्टात्रिंशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706713221नन.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706713221नन.png"/>  
 भगवद्गीताध्यायः॥१६॥  
-![](../books_images/U-IMG-1706713203मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706713203मम.png"/>
 
 श्रीभगवान्—
 
@@ -6635,13 +6624,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥भगवद्गीतापर्वणि षड्विंशोऽध्यायः॥२६॥  
 ॥भगवद्गीतायां षोडशोऽध्यायः॥  
 \[ अस्मिन्नध्याये २४ श्लोकाः \]  
-![](../books_images/U-IMG-1706713598मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706713598मम.png"/>  
 
 **॥एकोनचत्वारिंशोऽध्यायः॥**  
 
-![](../books_images/U-IMG-1706713609नन.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706713609नन.png"/>  
 ॥भगवद्गीताध्यायः॥१७॥  
-![](../books_images/U-IMG-1706713598मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706713598मम.png"/>
 
 अर्जुनः—
 
@@ -6739,13 +6728,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६३॥भगवद्गीतापर्वणि सप्तविंशोऽध्यायः॥२७॥  
 ॥भगवद्गीतायां सप्तदशोऽध्यायः॥  
 \[ अस्मिन्नध्याये २८ श्लोकाः \]  
-![](../books_images/U-IMG-1706714092मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706714092मम.png"/>
 
 ॥चत्वारिंशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706717779नन.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706717779नन.png"/>  
 ॥भगवद्गीताध्यायः॥१८॥  
-![](../books_images/U-IMG-1706717795मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706717795मम.png"/>
 
 अर्जुनः—
 
@@ -7004,13 +6993,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ भगवद्गीतायामष्टादशोऽध्यायः॥  
 \[ अस्मिन्नध्याये ७८ श्लोकाः \]  
 \[ भगवद्गीतापर्व समाप्तम् \]  
-![](../books_images/U-IMG-1706759522मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706759522मम.png"/>
 
 ॥एकचत्वारिंशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706759645bbbb.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706759645bbbb.png"/>  
 ( भीष्मवध पर्व)  
-![](../books_images/U-IMG-1706759658मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706759658मम.png"/>
 
 कुरुपाण्डवसेनयोर्युद्धारम्भः॥
 
@@ -7032,8 +7021,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 उभयोस्सेनयो र्ह्यासन्[^167] निस्वना नदतां नृणाम्।  
 वधं[^45] प्रतिनदन्तश्च तदाऽऽसीत् तुमुलं महत्॥५॥
-
-[^45]: "ङ—इदमर्धं नास्ति"
 
 [^167]: "ख–ग–घ–ङ–म—रासंस्ततस्तेषां समुद्भवाः"
 
@@ -7136,11 +7123,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६४ ॥ भीष्मवधपर्वणि प्रथमोऽध्यायः ॥ १ ॥  
 \[ अस्मिन्नध्याये ३०॥श्लोकाः\]
 
-![](../books_images/U-IMG-1706865939Screenshot2023-12-07155820.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706865939Screenshot2023-12-07155820.png"/>  
 
 \।\। द्विचत्वारिंशोऽध्यायः ॥  
 
-![](../books_images/U-IMG-1706865967Screenshot2023-12-07155812.png)
+<MISSING_FIG href="../books_images/U-IMG-1706865967Screenshot2023-12-07155812.png"/>
 
 कुरुपाण्डवसेनयोर्द्वन्द्वयुद्धवर्णनम्॥  
 \_\_\_\_\_\_\_\_\_
@@ -7287,8 +7274,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 घ[^111]टोत्कचस्ततस्तूर्णं राक्षसेन्द्रं महाहवे।  
 नवत्या सायकैस्तीक्ष्णैर् अर्दयामास भारत॥४२॥  
-
-[^111]: " अ-क- नास्तीदमर्धम्"
 
 अलम्बुसस्तु समरे भैमसेनिंमहाबलम्।  
 बहुधा वारयामास सायकैर्नतपर्वभिः॥४३॥  
@@ -7440,15 +7425,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि द्विचत्वारिंशोऽध्यायः॥ ४२ ॥  
 ॥ ६४ ॥ भीष्मवधपर्वणि द्वितीयोऽध्यायः ॥ २ ॥  
 \[अस्मिन्नध्याये ८६ ॥ श्लोकाः\]  
-![](../books_images/U-IMG-1706888461Screenshot2023-12-07155820.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706888461Screenshot2023-12-07155820.png"/>  
 
 **\।\। त्रिचत्वारिंशोऽध्यायः ॥**  
 
-![](../books_images/U-IMG-1706888524Screenshot2023-12-08194923.png)
+<MISSING_FIG href="../books_images/U-IMG-1706888524Screenshot2023-12-08194923.png"/>
 
 सङ्कलयुद्धवर्णनम् ॥  
            
-![](../books_images/U-IMG-1706888461Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1706888461Screenshot2023-12-07155820.png"/>
 
 **सञ्जयः—**
 
@@ -7507,8 +7492,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 गदामुसलरुग्णानां भिन्नानां च वरासिभिः।  
 द[^93]न्तिदन्तावभिन्नानां मृदितानां च दन्तिभिः॥१८॥  
-
-[^93]: "अ-क- नास्तीदमर्धम्"
 
 तत्र तत्र नरौघाणां क्रोशतामितरेतरम्।  
 अ[^188]श्रूयन्त महाराज वाचः क्रूरास्सुदारुणाः॥१९॥  
@@ -7640,14 +7623,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि त्रिचत्वारिंशोऽध्यायः॥४३॥  
 ॥६४॥ भीष्मवधपर्वणि तृतीयोऽध्यायः॥३॥  
 \[ अस्मिन्नध्याये ५२॥श्लोकाः \]  
-![](../books_images/U-IMG-1706892794Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1706892794Screenshot2023-12-07155820.png"/>
 
 **॥चतुश्चत्वारिंशोऽध्यायः॥  
-![](../books_images/U-IMG-1706893335Screenshot2023-12-08194923.png)**
+<MISSING_FIG href="../books_images/U-IMG-1706893335Screenshot2023-12-08194923.png"/>**
 
 उत्तरकुमारवधः॥
 
-![](../books_images/U-IMG-1706893357Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1706893357Screenshot2023-12-07155820.png"/>
 
 सञ्जयः—
 
@@ -7890,11 +7873,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६४ ॥ भीष्मवधपर्वणि चतुर्थोऽध्यायः ॥ ४ ॥  
 \[ अस्मिन्नध्याये ७१ श्लोकाः \]  
 \[ प्रथमदिवसे प्रथमापहारस्समाप्तः \]  
-![](../books_images/U-IMG-1706895593Screenshot2023-12-07155820.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706895593Screenshot2023-12-07155820.png"/>  
 
 \।\। पञ्चचत्वारिंशोऽध्यायः ॥  
 
-![](../books_images/U-IMG-1706895627Screenshot2023-12-07155812.png)
+<MISSING_FIG href="../books_images/U-IMG-1706895627Screenshot2023-12-07155812.png"/>
 
 धृष्टद्युम्नेन क्रौञ्चव्यूहनिर्माणम्॥
 
@@ -7931,8 +7914,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 आ[^202]त्मनो बुद्धिदौर्बल्याद् भीष्ममासाद्य केशव।  
 वनं यास्यामि वार्ष्णेय श्रेयो मे तत्रजीवितुम्॥९॥  
-
-[^202]: " अ-क–नास्तीदमर्धम्"
 
 न त्विमान् पृथिवीपालान् दातुं भीष्माय मृत्यवे।  
 क्षपयिष्यति सेनां मे कृष्ण भीष्मो महास्त्रवित्॥१०॥  
@@ -8154,11 +8135,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६४ ॥ भीष्मवधपर्वणि पञ्चमोऽध्यायः॥५ ॥  
 \[ अस्मिन्नध्याये ६४ श्लोकाः\]  
 \[द्वितीयदिवस युद्धम् \]  
-![](../books_images/U-IMG-1706868179Screenshot2023-12-07155820.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706868179Screenshot2023-12-07155820.png"/>  
 
 **॥ षट्चत्वारिंशोऽध्यायः ॥**  
 
-![](../books_images/U-IMG-1706868217Screenshot2023-12-25124330.png)
+<MISSING_FIG href="../books_images/U-IMG-1706868217Screenshot2023-12-25124330.png"/>
 
 भीष्मादिभिः प्रतिव्यूहरचना ॥
 
@@ -8216,8 +8197,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 विदर्भैर्मेकलैश्चैव कर्णप्रावरणैरपि।  
 स[^216]हितास्सर्वसैन्येन भीष्ममाहवशोभिनम्॥१४॥  
-
-[^216]: "अ-क-नास्तीदमर्धम्"
 
 गान्धारास्सिन्धुसौवीराश् शिबयोऽथ वसातयः।  
 शकुनिश्च स्वसैन्येन भारद्वाजमपालयत्॥१५॥  
@@ -8289,10 +8268,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६४ ॥ भीष्मवधपर्वणि षष्ठोऽध्यायः॥ ६ ॥  
 \[द्वितीयदिवसयुद्धम्\]  
 \[ अस्मिन्नध्याये ३१ श्लोकाः \]  
-![](../books_images/U-IMG-1706857264Screenshot2023-12-07155820.png)
+<MISSING_FIG href="../books_images/U-IMG-1706857264Screenshot2023-12-07155820.png"/>
 
 ॥ सप्तचत्वारिंशोऽध्यायः ॥  
-![](../books_images/U-IMG-1706857459Screenshot2023-12-07155812.png)
+<MISSING_FIG href="../books_images/U-IMG-1706857459Screenshot2023-12-07155812.png"/>
 
 भीष्मार्जुनयोर्युद्धम्॥
 
@@ -8548,11 +8527,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि सप्तचत्वारिंशोऽध्यायः॥ ४७ ॥  
 ॥ ६४ ॥ भीष्मवधपर्वणि सप्तमोऽध्यायः॥ ७ ॥  
 \[ अस्मिन्नध्याये ७२ लोकाः\]  
-![](../books_images/U-IMG-1706862522Screenshot2023-12-07155820.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706862522Screenshot2023-12-07155820.png"/>  
 
 ॥ अष्टचत्वारिंशोऽध्यायः ॥  
 
-![](../books_images/U-IMG-1706862566Screenshot2023-12-08194923.png)
+<MISSING_FIG href="../books_images/U-IMG-1706862566Screenshot2023-12-08194923.png"/>
 
 द्रोणधृष्टद्युम्नयोर्युद्धम्॥
 
@@ -8698,13 +8677,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि अष्टचत्वारिंशोऽध्यायः॥ १८ ॥  
 ॥ ६४॥ भीष्मवधपर्वणि अष्टमोऽध्यायः॥ ८ ॥  
 \[ अस्मिन्नध्याये ४१ श्लोकाः \]  
-![](../books_images/U-IMG-1706718506मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706718506मम.png"/>  
 
 **॥एकोनपञ्चाशोऽध्यायः॥**  
 
-![](../books_images/U-IMG-1706718534NNNN.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706718534NNNN.png"/>  
 भीमसेनेन कलिङ्गादिवधः॥  
-![](../books_images/U-IMG-1706718506मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706718506मम.png"/>
 
 धृतराष्ट्रः—
 
@@ -8988,8 +8967,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 पत्त्यश्वरथमातङ्गं[^146] रणे भीमः प्रतापवान्॥८०॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 हतारोहाश्चमातङ्गाः पाण्डवेन कृता रणे।  
 विप्रजग्मुरनीकेषु मेघा वातहता इव॥८१॥
 
@@ -9068,9 +9045,9 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 नस्य[^251]
 
-गच्छतः।  
-
 [^251]: "ख—नोऽभ्यगच्छत। व्याक्रोशन्त स्म तं दृष्ट्वा"
+
+गच्छतः।  
 
 आक्रोशन्त सुता दृष्ट्वा तावका भरतर्षभ॥१०३॥
 
@@ -9104,8 +9081,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्ममेवाभ्ययात्[^242] तूर्णं जिघांसुः पाण्डवर्षभः।  
 सात्यकोऽपि ततस्तूर्णं भीमस्य प्रियकाम्यया॥११२॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 सारथिं कुरुवृद्धस्य पातयामास भारत॥११३॥
 
 भीष्मस्तु निहते तस्मिन् सारथौ रथिनां वरः।  
@@ -9125,8 +9100,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 अथाब्रवीद्भीमसेनं सात्यकिः परवीरहा।
 
 प्रहर्षयन[^242]्यदश्रेष्ठो धृष्टद्युम्नस्य पश्यतः॥११८॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 सात्यकिः—
 
@@ -9148,15 +9121,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि एकोनपञ्चाशोऽध्यायः॥४९॥  
 ॥६४॥ भीष्मवधपर्वणि नवमोऽध्यायः॥९॥  
 \[अस्मिन्नध्याये १२२ श्लोकाः\]  
-![](../books_images/U-IMG-1706111870मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706111870मम.png"/>
 
 ॥पञ्चाशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706112050नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706112050नन.png"/>
 
 अर्जुनयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706112068मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706112068मम.png"/>
 
 सञ्जयः—
 
@@ -9300,8 +9273,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 सेनापहारं[^245] सम्प्राप्तं मन्येऽहं पुरुषर्षभ॥४१॥
 
-[^245]: "ख—इदमर्धं नास्ति"
-
 श्रान्ता भीताश्च नो योधा न योत्स्यन्ति कथञ्चन॥४२॥
 
 सञ्जयः—
@@ -9323,14 +9294,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६४॥ भीष्मवधपर्वणि दशमोऽध्यायः॥१०॥  
 \[द्वितीयापहारः समाप्तः\]  
 \[ अस्मिन्नध्याये ४६ श्लोकाः \]  
-![](../books_images/U-IMG-1706114107मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706114107मम.png"/>
 
 **॥एकपञ्चाशोऽध्यायः॥**  
-![](../books_images/U-IMG-1706114121bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706114121bbbb.png"/>
 
 उभयपक्षयोर्व्यूहरचना॥
 
-![](../books_images/U-IMG-1706114135मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706114135मम.png"/>
 
 सञ्जयः—
 
@@ -9416,13 +9387,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि एकपञ्चाशोऽध्यायः॥५१॥  
 ॥६४॥ भीष्मवधपर्वणि एकादशोऽध्यायः॥११॥  
 \[ अस्मिन्नध्याये २३ श्लोकाः \]  
-![](../books_images/U-IMG-1706114560मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706114560मम.png"/>
 
 ॥द्विपञ्चाशोऽध्यायः॥  
-![](../books_images/U-IMG-1706114573bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706114573bbbb.png"/>
 
 \[ तृतीयदिवसयुद्धारम्भः \]  
-![](../books_images/U-IMG-1706114587मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706114587मम.png"/>
 
 संकुलयुद्धवर्णनम्॥१॥
 
@@ -9523,8 +9494,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 नराश्वकायैः पतितैर् दन्तिनां च महाहवे।  
 शरीरैस्स्यन्दनैर्भग्नैर्[^249] विकीर्णैश्च समन्ततः॥२५॥
 
-[^249]: "ख–घ–ङ–म—नास्तीदमर्धम्"
-
 अगम्यरूपा पृथिवी मांसशोणितकर्दमा॥२६॥
 
 प्रशशाम रजो भौमम् उक्षितं गजशोणितैः।  
@@ -9571,14 +9540,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि द्विपञ्चाशोऽध्यायः॥५२॥  
 ॥६४॥ भीष्मवधपर्वणि द्वादशोऽध्यायः॥१२॥  
 \[ अस्मिन्नध्याये ३९ श्लोकाः \]  
-![](../books_images/U-IMG-1706115857मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706115857मम.png"/>
 
 ॥त्रिपञ्चाशोऽध्यायः॥  
-![](../books_images/U-IMG-1706115844bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706115844bbbb.png"/>
 
 अर्जुनादियुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706115831मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706115831मम.png"/>
 
 सञ्जयः—
 
@@ -9606,8 +9575,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 सात्यकिश्चाभिमन्युश्च[^129] महत्या सेनया घृतौ।  
 गान्धारान् समरे शूरान् वारयेतां ससौबलान्॥७॥
 
-[^129]: "घ—अर्धद्वयं नास्ति"
-
 तत्र सौबलकाश्शूराः वार्ष्णेयस्य रथं प्रति।  
 तिलशश्चिच्छिदुः क्रोधान्नानाप्रहरणैस्तथा॥८॥
 
@@ -9634,8 +9601,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 अतीत्य पितरं युद्धे यदयुध्यत भारत।  
 दुर्योधनस्य[^146] महतीं द्रावयामास वाहिनीम्॥१५॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 दुर्योधनस्ततोऽभ्येत्य तावुभावण्यवारयत्॥१६॥
 
 भीमसेनस्तु सङ्क्रुद्धो दुर्योधनममर्षणम्।  
@@ -9651,8 +9616,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 पार्षतश्चापि तत् सैन्यं तव पुत्रस्य मारिष॥२०॥
 
 द्रोणस्य[^265] च ततस्संख्ये गाङ्गेयस्य च पश्यतः।
-
-[^265]: "ङ—अर्धत्रयं नास्ति"
 
 जघान विशिखैस्तीक्ष्णैस् तवानीकं विशां पते॥२१॥
 
@@ -9757,14 +9720,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि त्रिपञ्चाशोऽध्यायः॥५३॥  
 ॥६४॥भीष्मवधपर्वणि त्रयोदशोऽध्यायः॥१३॥  
 \[ अस्मिन्नध्याये ॥४७॥श्लोकाः\]  
-![](../books_images/U-IMG-1706117109मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706117109मम.png"/>
 
 ॥चतुःपञ्चाशोऽध्यायः॥  
-![](../books_images/U-IMG-1706117119bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706117119bbbb.png"/>
 
  स्वप्रतिज्ञां विहाय गृहीतचक्रेण कृष्णेन पादचारेण भीष्मं हन्तुमभियानम्॥१॥ अर्जुनेन कृष्णस्य प्रतिनिवर्तनम्॥२॥
 
-![](../books_images/U-IMG-1706117132मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706117132मम.png"/>
 
 धृतराष्ट्रः—
 
@@ -9776,8 +9739,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ये[^146] चान्ये पृथिवीपालाः किमकुर्वन्त मामकैः।  
 पितामहे च पश्चालाश् शूरा युद्धाभिनन्दिनः॥३॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 सञ्जयः—
 
@@ -9873,9 +9834,9 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 प्रच्छादयञ्[^282]
 
-शरान् भीष्मो निशितान् कङ्कपत्रिणः।  
-
 [^282]: "ख–घ–ङ–म—इदमधंचतुष्टयं नास्ति"
+
+शरान् भीष्मो निशितान् कङ्कपत्रिणः।  
 
 अश्वमेकेन बाणेन गजमेकेन पत्रिणा॥३१॥
 
@@ -9891,8 +9852,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 द्वित्रानपि[^242] गजान् भीष्मो वर्मितान् पिण्डितानपि।  
 नाराचेन सुमुक्तेन निजघान पिता तव॥३४॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 यो यो भीष्मं नरव्याघ्रम् अभ्येति युधि कश्चन।  
 मुहूर्तदृष्टस्सहसा पतितो भुवि दृश्यते॥३५॥
 
@@ -9906,11 +9865,7 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ताडिता[^249] पाण्डवी सेना बहुधा सा व्यभज्यत।  
 पश्यतो वासुदेवस्य पार्थस्य च शिखण्डिनः॥३७॥
 
-[^249]: "ख–घ–ङ–म—नास्तीदमर्धम्"
-
 यतमाना[^272] महावीर्याः पाण्डवास्सोमकास्तथा।
-
-[^272]: "घ—अर्धत्रयं नास्ति"
 
 नाशक्नुवन् वारयितुं भीष्मबाणप्रपीडिताः॥३८॥
 
@@ -10077,8 +10032,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 शिनेर्नप्ता वारणयूथपैश्च।  
 निरीक्षमाणास्सुभृशं[^146] नृपालास्  
 ते पाण्डवेया व्यथिता बभूवुः॥८१॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 ततस्तु दृष्ट्वाऽर्जुनवासुदेवौ  
 पदातिनागाश्वरथैस्समन्तात्।  
@@ -10254,8 +10207,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 कृताञ्जलिस्स्तुत्यमथाकरोद्वै।  
 त्रैविक्रमे यस्य वपुर्बभासे  
 तथैव दृष्ट्वा तु समुज्ज्वलन्तम्॥१११॥
-
-[^144]: "अ–क—अर्धत्रयं नास्ति"
 
 पुनस्त्वरन् वै वरदो जिघांसुः  
 प्रगृह्य शङ्खं द्विषतां निहन्ता।  
@@ -10463,14 +10414,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६४॥भीष्मवधपर्वणि चतुर्दशोऽध्यायः॥१४॥  
 \[ तृतीयापहारस्समाप्तः \]  
 \[ अस्मिन्नध्याये १४८ श्लोकाः \]  
-![](../books_images/U-IMG-1706195913मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706195913मम.png"/>  
 
 ॥पञ्चपञ्चाशोऽध्यायः॥  
-![](../books_images/U-IMG-1706195902NNNN.png)
+<MISSING_FIG href="../books_images/U-IMG-1706195902NNNN.png"/>
 
 भीष्मार्जुनयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706195889मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706195889मम.png"/>
 
 सञ्जयः—
 
@@ -10652,11 +10603,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ॥षट्पञ्चाशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706197851नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706197851नन.png"/>
 
 धृष्टद्युम्नेन शलपुत्रवधः॥
 
-![](../books_images/U-IMG-1706197884मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706197884मम.png"/>
 
 सञ्जयः—
 
@@ -10675,8 +10626,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 पीडयानं[^144] च तत् सैन्यं पौत्रंतव विशां पते।  
 ददर्श राजन् पाश्चाल्यस् सेनापतिररिन्दमः॥५॥
 
-[^144]: "अ–क—अर्धत्रयं नास्ति"
-
 स च तां धार्तराष्ट्राणां ध्वजिनीं परवीरहा।  
 अत्यरोचत सौभद्रस् तेजसा च बलेन च॥६॥
 
@@ -10693,8 +10642,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 शलस्य तु महावेगान् अस्यतस्समरे शरान्।  
 धनुश्चिच्छेद[^264] भल्लेन तीव्रवेगेन फाल्गुनिः॥१०॥
-
-[^264]: "अ–क–ग—नास्तीदमर्धम्"
 
 जघानार्जुनदायादश् चतुर्भिश्चतुरो हयान्॥१०॥
 
@@ -10729,8 +10676,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ततस्स मद्रराजानं विव्याध दशभिश्शरैः।  
 हृष्ट[^242] एकं जघानाश्वं भल्लेन कृतवर्मणः॥१९॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 दमनं चापि दायादं पौरवस्य महात्मनः।  
 जघान विमलाग्रेण नाराचेन परंतपः॥२०॥
@@ -10769,8 +10714,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 निस्त्रिंशस्तस्य[^242] राजेन्द्र सम्प्रभग्नशरावरः।  
 हतस्य पततो हस्ताद् वेगेन न्यपतद्भुवि॥३०॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 तं निहत्य गदाग्रेण लेभे परमकं यशः।  
 पुत्रःपाश्चालराजस्य इन्द्रो बलमिवेश्वरः॥३१॥
 
@@ -10795,15 +10738,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि षट्पञ्चाशोऽध्यायः॥५६॥  
 ॥६४॥ भीष्मवधपर्वणि षोडशोऽध्यायः॥१६॥  
 \[ अस्मिन्नध्याये ३६॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706199492मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706199492मम.png"/>
 
 ॥सप्तपञ्चाशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706199561NNNN.png)
+<MISSING_FIG href="../books_images/U-IMG-1706199561NNNN.png"/>
 
 भीमसेनादियुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706199584मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706199584मम.png"/>
 
 धृतराष्ट्रः—
 
@@ -10907,8 +10850,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 माद्रीपुत्रौ[^146] पुनः क्रुद्धौ शल्यं विव्यधतुश्शरैः॥३०॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 वार्यमाणश्शरैर्घोररै्मद्रराजो न विव्यथे॥३१॥
 
 ततो दुर्योधनं दृष्ट्वा भीमसेनो महाबलः।  
@@ -10924,14 +10865,12 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 स्तं[^326]
 
-स्थानीकैर् भीमसेनं समभ्ययात्॥३४॥
-
 [^326]: "ख–ग–घ–ङ–म—श्चाग्रणीस्तत्र"
+
+स्थानीकैर् भीमसेनं समभ्ययात्॥३४॥
 
 आपतन्तं गजानीकं दृष्ट्वा पार्थो वृकोदरः।  
 गदापाणिरवारोहद्[^265] रथात् सिंह इवोन्नदन्॥३५॥
-
-[^265]: "ङ—अर्धत्रयं नास्ति"
 
 अश्मसारमयीं गुर्वी प्रगृह्य महतीं गदाम्।  
 अभ्यधावद्गजानीकं व्यादितास्य इवान्तकः॥३६॥
@@ -10955,11 +10894,7 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 शिरोभिः[^272] प्रपतद्भिश्च बाहुभिश्च विभूषितैः।
 
-[^272]: "घ—अर्धत्रयं नास्ति"
-
 अश्मवृष्टिरिवाभाति[^242] पाणिभिश्च सहाङ्कुशैः॥४३॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 हृतोत्तमाङ्गास्स्कन्धेषु गजानां गजयोधिनः।  
 अदृश्यन्ताचलाग्रेषु द्रुमा भग्नशिपा इव॥४४॥
@@ -10988,8 +10923,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 द्रवतस्सीदतश्चान्यान् विमुखान् समरे गजान्।
 
 भीमसेनस्य[^242] मार्गेषु पतितान् पर्वतोपमान्॥५२॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 अपश्याम हतान् राजन् गजान् निष्टनतोऽपरान्॥५२॥
 
@@ -11037,14 +10970,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि सप्तपञ्चाशोऽध्यायः॥५७॥  
 ॥६४॥ भीष्मवधपर्वणि सप्तदशोऽध्यायः॥१७॥  
 \[ अस्मिन्नध्याये ६४॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706201226मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706201226मम.png"/>  
 
 ॥अष्टपञ्चाशोऽध्यायः॥  
-![](../books_images/U-IMG-1706201245नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706201245नन.png"/>
 
 सात्यकिभूरिश्रवसोस्समागमः॥
 
-![](../books_images/U-IMG-1706201259मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706201259मम.png"/>
 
 सञ्जयः—
 
@@ -11070,12 +11003,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 उ[^292]दीर्णां पृतनां सर्वां साश्वान् सरथकुञ्जरान्।  
 असम्भ्रमं भीमसेनो गदया समपोथयत्॥७॥
 
-[^292]: "अ–क—अर्धद्वयं नास्ति"
-
 स[^283] संवार्य बलौधांस्तान् गदया बलिनां वरः।  
 अतिष्ठत् समरे भीमो गिरिर्मेरुरिवाचलः॥८॥
-
-[^283]: "अ–क–ग—अर्धद्वयं नास्ति"
 
 तस्मिंस्तु तुमुले घोरे काले परमदारुणे।  
 भ्रातृभिस्सह पुत्रैश्च धृष्टद्युम्नो महाबलः॥९॥
@@ -11100,12 +11029,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 पातयामास[^146] राजेन्द्र युद्धभूम्यां महाबलः॥१५॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 तत्र तत्र हतैश्चापि मनुष्यगजवाजिभिः।  
 विबभौ[^242] कर्म तद्रौद्रं रुद्रस्येव युगक्षये॥१६॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 यमदण्डोपमामुग्राम्[^337] इन्द्राशनिसमस्वनाम्।  
 ददृशुर्भीमसेनस्य रौद्रीं विशसनीं गदाम्॥१७॥
@@ -11176,14 +11101,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि अष्टपञ्चाशोऽध्यायः॥५८॥  
 ॥६४॥ भीष्मवधपर्वणि अष्टादशोऽध्यायः॥१८॥  
 \[ अस्मिन्नध्याये ३०॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706202340मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706202340मम.png"/>  
 
 **॥एकोनषष्टितमोऽध्यायः॥**  
-![](../books_images/U-IMG-1706202349नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706202349नन.png"/>
 
  भीमेन दुर्योधनानुजाष्टकवधः॥१॥ घटोत्कचभयेन कुरुभिः सेना पहारः॥२॥
 
-![](../books_images/U-IMG-1706202358मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706202358मम.png"/>
 
 सञ्जयः—
 
@@ -11288,8 +11213,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 अभिपत्य[^172] महाबाहुर् गरुत्मानिव पन्नगान।  
 सेनापतेः क्षुरप्रेण शिरश्चिच्छेद भारत॥२९॥
 
-[^172]: "अ–क–ख–ग—नास्तीदमर्धम्"
-
 जलसन्धं त्रिभिर्बाणैर् अनयद्यमसादनम्।  
 सुषेणं च ततो हत्वा प्रेषयामास मृत्यवे॥३०॥
 
@@ -11304,8 +11227,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ततस्सुलोचनं[^265] भीमः क्षुरप्रेण महाहवे।  
 मिषतां सर्वसैन्यानाम् अनयद्यमसादनम्॥३४॥
-
-[^265]: "ङ—अर्धत्रयं नास्ति"
 
 पुत्रास्तु तव तं दृष्ट्वा भीमसेनपराक्रमम्।  
 शेषा ये चाऽभवंस्तत्र ते भीमस्य भयात् तदा॥३५॥
@@ -11331,8 +11252,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 भगदत्तः[^129] प्रभिन्नेन कुञ्जरेण विशां पते।  
 अभ्ययात् सहसा तत्र यत्र भीमो व्यवस्थितः॥३९॥
-
-[^129]: "घ—अर्धद्वयं नास्ति"
 
 आपतन्नेव च रणे भीमसेनं शिलीमुखैः।  
 अदृश्यं समरे चक्रे महामेघो रविं यथा॥४०॥
@@ -11501,14 +11420,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६४॥ भीष्मवधपर्वणि एकोनविंशोऽध्यायः॥१९॥  
 \[ अस्मिन्नध्याये ८५॥ श्लोकाः \]  
 \[ चतुर्थापहारः समाप्तः \]  
-![](../books_images/U-IMG-1706204330मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706204330मम.png"/>
 
 ॥षष्टितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706334097bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706334097bbbb.png"/>
 
  भीष्मेण दुर्योधनं प्रति विश्वोपाख्यानकथनम्॥
 
-![](../books_images/U-IMG-1706334108मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706334108मम.png"/>
 
 धृतराष्ट्रः—
 
@@ -11569,12 +11488,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 धर्मेण[^242] सर्वकार्याणि जीवितादीनि भारत।  
 आरभन्ते सदा पार्थाःप्रार्थयाना महद्यशः॥१७॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 न[^242] ते युद्धान्निवर्तन्ते धर्मोपेता महावलाः।  
 श्रिया परमया युक्ता यतो धर्मस्ततो जयः॥१८॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 तेनावध्या रणे पार्था जययुक्ताश्च पार्थिव।  
 तव पुत्रा दुरात्मानः पापेष्वभिरतास्सदा॥१८॥
@@ -11786,14 +11701,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि षष्टितमोऽध्यायः॥६०॥  
 ॥६४॥भीष्मवधपर्वणि विंशोऽध्यायः॥२०॥  
 \[ अस्मिन्नध्याये ७६॥ श्लोकाः\]  
-![](../books_images/U-IMG-1706451042मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706451042मम.png"/>  
 
 ॥एकषष्टितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706451055bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706451055bbbb.png"/>
 
 विश्वोपाख्यानम्॥
 
-![](../books_images/U-IMG-1706451042मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706451042मम.png"/>
 
 भीष्मः—
 
@@ -11936,8 +11851,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 स[^146] एष कृष्णः कौरव्य पाण्डवार्थमिहागतः॥४०॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 ब्राह्मणैः क्षत्रियैर्वैश्यैश् शूद्रैश्च कृतलक्षणैः।  
 अर्चनीयश्च सेव्यश्च नित्ययुक्तैस्स्वकर्मसु॥४१॥
 
@@ -11956,14 +11869,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६४॥ भीष्मवधपर्वणि एकविंशोऽध्यायः॥२१॥  
 \[ अस्मिन्नध्याये ४३॥ श्लोकाः \]  
 
-![](../books_images/U-IMG-1706452084मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706452084मम.png"/>
 
 ॥द्विषष्टितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706452190bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706452190bbbb.png"/>
 
  भीष्मेण विश्वोपाख्यानकथने वासुदेवमाहात्म्यकथनम्॥१॥ युधिष्ठिरस्य कृष्णसमाश्रयणेन विजय इति कथनम्॥२॥
 
-![](../books_images/U-IMG-1706452204मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706452204मम.png"/>
 
 दुर्योधनः—
 
@@ -12008,8 +11921,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 स्रष्टा[^129] यो जगतश्चापि महात्मा प्रभुरव्ययः।  
 अग्रजस्सर्वभूतानां सङ्कर्षणमकरुपयत्॥१२॥
 
-[^129]: "घ—अर्धद्वयं नास्ति"
-
 शेषं चाकल्पयद्देवम् अनन्तमिति यं विदुः॥१२॥
 
 यो धारयति भूतानि धरां चेमां सपर्वताम्।  
@@ -12038,8 +11949,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 तपसा[^258] नियतं देवम् ईशानं सर्वदेहिनाम्।  
 ब्रह्मभूतममावास्यां पौर्णमास्यां तथैव च॥२०॥
 
-[^258]: "घ—नास्तीदमर्धम्"
-
 योगभूतं परिचरन् केशवं महदाप्नुयात्॥२०॥
 
 केशवः परमं तेजस् सर्वलोकपितामहः॥२१॥
@@ -12064,14 +11973,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि द्विषष्टितमोऽध्यायः॥६२॥  
 ॥६४॥भीष्मवधपर्वणि द्वाविंशोऽध्यायः॥२२॥  
 \[ अस्मिन्नध्याये २६॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706450453मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706450453मम.png"/>  
 
 **॥त्रिषष्टितमोऽध्यायः॥**  
-![](../books_images/U-IMG-1706450466bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706450466bbbb.png"/>
 
  भीष्मेण दुर्योधनं प्रति ब्रह्मर्षिकृतकृष्णस्तवकथनम्॥१॥ तथा कृष्णस्य पाण्डवेषु प्रीतिकथनपूर्वकं तैः सह शमकरणविधानम्॥२॥
 
-![](../books_images/U-IMG-1706450453मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706450453मम.png"/>
 
 भीष्मः—
 
@@ -12155,14 +12064,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि त्रिषष्टितमोऽध्यायः॥६३॥  
 ॥६४॥भीष्मवधपर्वणि त्रयोविंशोऽध्यायः॥२३॥  
 \[ अस्मिन्नध्याये १९॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706449656मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706449656मम.png"/>  
 
 ॥चतुष्षष्टितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706449674नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706449674नन.png"/>
 
    कुरुपाण्डवयोर्मकरश्येनव्यूहरचनापूर्वकं युद्धारम्भः॥
 
-![](../books_images/U-IMG-1706449656मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706449656मम.png"/>
 
 सञ्जयः—
 
@@ -12185,8 +12094,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 स[^129] हि तस्य सुविज्ञात अग्निचित्येषु भारत।  
 मकरस्तु महाव्यूहस् तव पुत्रस्य धीमतः॥६॥
 
-[^129]: "घ—अर्धद्वयं नास्ति"
-
 स्वयं सर्वेण सैन्येन द्रोणेनानुमतस्तदा।  
 यथाव्यूहं शान्तनवस्सोऽन्ववर्तत तत् पुनः॥७॥
 
@@ -12207,8 +12114,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 अक्षौहिण्या[^258] समग्राया वामपक्षोऽभवत् तदा।  
 महात्मा द्रुपदश्श्रीमान् मत्स्येन सह संयुगे॥१३॥
-
-[^258]: "घ—नास्तीदमर्धम्"
 
 दक्षिणे चाभवत् पक्षे कैकेयोऽक्षौहिणीपतिः।
 
@@ -12277,8 +12182,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 अथाभिमन्युस्सङ्क्रुद्धोद्रौपदेयाश्च भारत।  
 विव्यधुर्निशितैर्बाणैस्[^367] सर्वांस्तानुद्यतायुधान्॥३१॥
 
-[^367]: "अ–क–ख—नास्तीदमर्धम्"
-
 द्रोणभीष्मौ शरैः क्रुद्धाश् छादयन्ति समन्ततः॥३१॥
 
 प्रत्युद्ययौ शिखण्डीच महेष्वासो महाहवे।  
@@ -12308,14 +12211,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि चतुष्पष्टितमोऽध्यायः॥६४॥  
 ॥६४॥भीष्मवधपर्वणि चतुर्विंशोऽध्यायः॥२४॥  
 \[ अस्मिनध्याये ३९॥ श्लोकाः\]  
-![](../books_images/U-IMG-1706351014मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706351014मम.png"/>  
 
 ॥पञ्चषष्टितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706351378नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706351378नन.png"/>
 
 संकुलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706351014मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706351014मम.png"/>
 
 सञ्जयः—
 
@@ -12433,14 +12336,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि पञ्चषष्टितमोऽध्यायः॥६५॥  
 ॥६४॥भीष्मवधपर्वणि पञ्चविंशोऽध्यायः॥२५॥  
 \[ अस्मिन्नध्याये ३२॥ श्लोकाः\]  
-![](../books_images/U-IMG-1706349183मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706349183मम.png"/>  
 
 **॥षट्षष्टितमोऽध्यायः॥**  
-![](../books_images/U-IMG-1706349194NNNN.png)
+<MISSING_FIG href="../books_images/U-IMG-1706349194NNNN.png"/>
 
 संकुलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706349183मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706349183मम.png"/>
 
 सञ्जयः—
 
@@ -12468,8 +12371,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 दिशं प्रतीचीं प्राचीं वा न जानीमोऽस्त्रमोहिताः।  
 कान्दिग्भूताश्श्रान्तपत्रा[^242] हताश्वा हतचेतसः॥८॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 अन्योन्यमभिसंश्लिष्य[^382] योधास्ते भरतर्षभ।  
 भीष्ममेवाभ्यलीयन्त सह सर्वैस्तवात्मजैः॥९॥
@@ -12528,8 +12429,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 द्रोणेन समसज्जन्त सपुत्रेण विशां पते।  
 कृपश्च[^272] कृतवर्मा च धृष्टकेतुमभिद्रुतौ॥२४॥
-
-[^272]: "घ—अर्धत्रयं नास्ति"
 
 एवं प्रजविताश्वानि भ्रान्तनागरथानि च।  
 सैन्यानि समसज्जन्त प्रयुद्धानि समन्ततः॥२५॥
@@ -12602,14 +12501,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि षट्षष्टितमोऽध्यायः॥६६॥  
 ॥६४॥ भीष्मवधपर्वणि षड्विंशोऽध्यायः॥ २६॥  
 \[ अस्मिन्नध्याये ४४॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706347823मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706347823मम.png"/>
 
 ॥सप्तषष्टितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706347374bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706347374bbbb.png"/>
 
 सङ्कलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706347402मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706347402मम.png"/>
 
 सञ्जयः—
 
@@ -12628,8 +12527,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 सहदेवस्तु शकुनिम् उलूकं च महारथम्।  
 पितापुत्रौ[^242] महेष्वासौ अभ्यवर्षत् सुदुर्जयौ॥५॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 युधिष्ठिरो महाराज राजानीकं महारथः।  
 समवर्तत सङ्ग्रामे पुत्रेण निकृतस्तव॥६॥
 
@@ -12641,8 +12538,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 सात्यकिश्चेकितानश्च[^258] सौभद्रश्च महारथः।  
 धृष्टकेतुश्च समरे राक्षसश्च घटोत्कचः॥८॥
-
-[^258]: "घ—नास्तीदमर्धम्"
 
 अभ्यवर्तन्त सङ्ग्रामे दुर्धर्षान् साल्वकेकयान्॥८॥
 
@@ -12679,8 +12574,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 असिभिश्च[^146] नरेन्द्राणां चन्द्रसूर्यसमप्रभैः।  
 विरराज तथा राजंस् तत्र तत्ररणाङ्गणम्॥१९॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 रथसिंहा रथव्याघ्रास् समवेताश्च संयुगे।  
 विरेजुस्समरे[^393] राजन् ग्रहा इव नभस्स्थले॥२०॥
@@ -12741,15 +12634,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि सप्तषष्टितमोऽध्यायः॥६७॥  
 ॥६४॥ भीष्मवधपर्वणि सप्तविंशोऽध्यायः॥२७॥  
 \[ अस्मिन्नध्याये ३६॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706346283मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706346283मम.png"/>
 
 ॥अष्टषष्टितमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706346403bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706346403bbbb.png"/>
 
 युद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706346283मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706346283मम.png"/>
 
 सञ्जयः—
 
@@ -12783,8 +12676,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 तैस्तूर्णं समरेऽविध्यद् द्रौणिं बलवतां वरः।  
 कवचं[^146] घातयामास पुनस्तीक्ष्णैश्शिलीमुखैः॥९॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 तस्य ते कवचं भित्त्वा पपुश्शोणितमाहवे।  
 न विव्यथे च निर्भिन्नो द्रौणिर्गाण्डीवधन्वना॥१०॥
 
@@ -12801,8 +12692,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 तथाऽर्जुनोऽपि[^263] संहृष्ट अश्वत्थामानमाहवे।  
 शशंस सर्वभूतानां शृण्वतामपि भारत॥१४॥
 
-[^263]: "ख–घ–ङ–म—इदमर्धद्वयं नास्ति"
-
 अस्त्रग्रामं ससंहारं द्रोणात् प्राप्य सुदुर्लभम्।  
 ममायमाचार्यसुतो द्रोणस्यापि प्रियस्सुतः॥१५॥
 
@@ -12816,8 +12705,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 दुर्योधनस्तु दशभिर् गृध्रपत्रैश्शिलाशितैः।  
 भीमसेनं[^242] महेष्वासं रुक्मपुङ्खैस्समार्पयत्॥१८॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 भीमसेनस्तु सङ्क्रुद्धः परासुकरणं दृढम्।
 
@@ -12875,13 +12762,9 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 सौभद्रस्तु[^146] ततः क्रुद्धो लक्ष्मणं निजधान ह॥३६॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 तस्याश्वांश्चरो हत्वा सारथिं च महाबलः।
 
 अभ्यद्रवत[^242] सौभद्रो लक्ष्मणं निशितैश्शरैः॥३७॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 हताश्वे तु रथे तिष्ठँल्लक्ष्मणः परवीरहा।  
 शक्तिं[^401] चिक्षेप सङ्क्रुद्धस् सौभद्रस्य रथं प्रति॥३८॥
@@ -12915,14 +12798,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि अष्टषष्टितमोऽध्यायः॥६८॥  
 ॥६४॥भीष्मवधपर्वणि अष्टाविंशोऽध्यायः॥२८॥  
 \[ अस्मिनध्याये ४५॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706340089मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706340089मम.png"/>  
 
 **॥एकोनसप्ततितमोऽध्यायः॥**  
-![](../books_images/U-IMG-1706340077नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706340077नन.png"/>
 
  **भूरिश्रवसा सात्यकिपुत्रदशकवधः॥१॥सात्यकिभूरिश्रवसोर्युद्धम्॥२॥**
 
-![](../books_images/U-IMG-1706340089मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706340089मम.png"/>
 
 सञ्जयः—
 
@@ -12933,8 +12816,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 प्रगाढं लघु चित्रं च दर्शयन् हस्तलाघवम्॥२॥
 
 प्रामुञ्चत्[^367] पुद्खसंयुक्ताञ् शरानाशीविषोपमान्॥२॥
-
-[^367]: "अ–क–ख—नास्तीदमर्धम्"
 
 तस्य विक्षिपतश्चापं शरानन्यांश्च मुञ्चतः।  
 आदानस्य भूयश्च सन्दधानस्य चापरान्॥३॥
@@ -13051,8 +12932,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 पश्यतां[^250] युधि राजेन्द्र तदद्भुतमिवाभवत्॥३५॥
 
-[^250]: "घ–ङ–म—नास्तीदमर्धम्"
-
 तस्मिंस्तथा वर्तमाने रणे भीष्मं महारथम्।  
 अयोधयन्त संरब्धाः पाण्डवा भरतर्षभ॥३६॥
 
@@ -13082,14 +12961,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६४॥ भीष्मवधपर्वणि एकोनत्रिंशोऽध्यायः॥२९॥  
 \[ अस्मिन्नध्याये ४३॥ श्लोकाः\]  
 \[ पञ्चमापहारस्समाप्तः \]  
-![](../books_images/U-IMG-1706338673मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706338673मम.png"/>  
 
 ॥सप्ततितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706338687bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706338687bbbb.png"/>
 
  **कुरुपाण्डवयोः क्रौञ्चमकरव्यूहरचनापूर्वकमायोधनम्॥**
 
-![](../books_images/U-IMG-1706338673मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706338673मम.png"/>
 
 सञ्जयः—
 
@@ -13109,8 +12988,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 सन्नह्यतां[^146] रणे योद्धुं दृढकञ्चुकधारिणाम्।  
 शङ्खदुन्दुभिनादश्चतुमुलस्सर्वतोऽभवत्॥४॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 ततो युधिष्ठिरो राजा धृष्टद्युम्नमभाषत॥४॥
 
@@ -13223,8 +13100,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 तथैव[^292] तावकी सेना भीमसेनपरिक्षता।  
 मुह्यते तत्र तत्रैव समदेव वराङ्गना॥३६॥
 
-[^292]: "अ–क—अर्धद्वयं नास्ति"
-
 अभिद्येतां महाव्यूहौ तस्मिन् वीरवरक्षये।  
 आसीव्द्यतिकरो घोरस् तव तेषां च भारत॥३७॥
 
@@ -13238,21 +13113,19 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि सप्ततितमोऽध्यायः॥७०॥  
 ॥६४॥भीष्मवधपर्वणि त्रिंशोऽध्यायः॥३०॥  
 \[ अस्मिन्नध्याये ३९॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706337493मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706337493मम.png"/>  
 
 ॥एकसप्ततितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706337508नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706337508नन.png"/>
 
 धृतराष्ट्रेण स्वसेनाक्षयश्रवणेन शोचनम्॥
 
-![](../books_images/U-IMG-1706337493मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706337493मम.png"/>
 
 धृतराष्ट्रः—
 
 एवं बहुगुणं सैन्यम् एवं बहुविधं परम्।  
 व्यूढमेवं[^242] यथान्यायम् अमोघं चैव सञ्जय॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 जुष्टमस्माभिरत्यन्तम् अभिरामं च नस्सदा।
 
@@ -13276,8 +13149,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 आरोहे[^272] पर्यवस्कन्दे सरणे सोत्तरप्लुते।  
 सम्यक्प्रहरणे याने व्यपयाने च कोविदम्॥
 
-[^272]: "घ—अर्धत्रयं नास्ति"
-
 नागाश्वरथयानेषु बहुशः परिनिष्ठितम्।  
 परीक्ष्य च यथान्यायं वेतनेनोपपादितम्॥
 
@@ -13285,8 +13156,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 न सौहृदबलात्कारैर् न कुलैर्न परिग्रहैः॥
 
 कुलीनमाढ्यं[^242] वीरं च तुष्टं सत्कृतबान्धवम्।
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 कृतोपकारभूयिष्ठं यशस्वि च मनस्वि च॥११॥
 
@@ -13307,8 +13176,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 परिकल्पितभूयिष्ठं[^146] ग्राहैरिव जलाशयैः।  
 अपारमिव गर्जन्तं सागरप्रतिमं महत्॥१७॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 द्रोणभीष्मादिभिर्गुप्तं गुप्तं च कृतवर्मणा।  
 कृपदुश्शासनाभ्यां च जयद्रथमुखैस्तथा॥१८॥
@@ -13345,15 +13212,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि एकसप्ततितमोऽध्यायः॥७१॥  
 ॥६४॥ भीष्मवधपर्वणि एकत्रिंशोऽध्यायः॥३१॥  
 \[ अस्मिन्नध्याये २६॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706336804मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706336804मम.png"/>
 
 **॥द्विसप्ततितमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1706336303नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706336303नन.png"/>
 
 भीमद्रोणपराक्रमवर्णनम्॥
 
-![](../books_images/U-IMG-1706336316मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706336316मम.png"/>
 
 सञ्जयः—
 
@@ -13389,8 +13256,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 जीवग्राहं निगृह्णीमो वयमेनं नराधिपाः॥१०॥
 
 इत्येवं[^146] वादिनस्सर्वे परिवव्रुर्वृकोदरम्॥१०॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 स तैः परिवृतः पार्थो भ्रातृभिः कृतनिश्चयैः।  
 प्रजासंहरणे सूर्यः क्रूरैरिव महाग्रहैः॥११॥
@@ -13654,8 +13519,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 अन्यांश्च[^350] शतशो वाणान् प्रेषयामास पार्षते।  
 दुर्योधनहितार्थाय भर्तृपीडामनुस्मरन्॥७९॥
 
-[^350]: "अ–क—अर्धचतुष्टयं नास्ति"
-
 अथान्यद्धनुरादाय पार्षतः क्रोधमूर्च्छितः।  
 द्रोणं विव्याध सप्तत्या रुक्मपुङ्खैश्शिलाशितैः॥८०॥
 
@@ -13688,14 +13551,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि द्विसप्ततितमोऽध्यायः॥७२॥  
 ॥६४॥ भीष्मवधपर्वणि द्वात्रिंशोऽध्यायः॥३२॥  
 \[ अस्मिन्नध्याये ८७॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706333742मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706333742मम.png"/>  
 
 **॥त्रिसप्ततितमोऽध्यायः॥**  
-![](../books_images/U-IMG-1706333767नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706333767नन.png"/>
 
 सङ्कुलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706333742मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706333742मम.png"/>
 
 सञ्जयः—
 
@@ -13759,8 +13622,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 समेत्य[^146] सङ्घशस्सर्वे संस्थितास्स्युः परस्परम्॥१८॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 तान् दृष्ट्वा समरे क्रुद्धांस् तव सैन्ये महारथाः।  
 दुर्योधनप्रभृतयः प्रगृहीतशरासनाः॥१९॥
 
@@ -13781,8 +13642,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 स्थितावेकरथे[^189] तौ तु भ्रातरौ कुरुवर्धनौ।  
 आर्जुनिं शरजालेन च्छादयामासतू रणे॥२४॥
-
-[^189]: "ख—अर्धषट्कं नास्ति"
 
 दुर्जयोऽथ विकर्णश्च कार्ष्णिंपञ्चभिरायसैः।  
 विद्ध्वानाकम्पयत् राजन् मैनाकमिव पर्वतम्॥२५॥
@@ -13816,8 +13675,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भिन्न[^258]हस्ता विकवचा विदेहाश्च नरोत्तमाः।  
 अदृश्यन्त रणे तत्र पतिताश्च सहस्रशः॥३४॥
 
-[^258]: "घ—नास्तीदमर्धम्"
-
 निहतैर्मत्तमातङ्गैश् शोणितौघपरिप्लुतैः।
 
 भूर्भाति भरतश्रेष्ठ पर्वतैराचिता यथा॥३५॥
@@ -13826,12 +13683,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 न[^242] तत्रासीत् पुमान् कश्चिद् यो युद्धं नाभिकाङ्क्षति॥३६॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 कश्चिद्योद्धा[^263] रणे तत्र योद्धुमिच्छन् स्वशत्रुणा।  
 अन्येन युद्धं कुर्वाणं पुमांसं नाभिकाङ्क्षते॥३७॥
-
-[^263]: "ख–घ–ङ–म—इदमर्धद्वयं नास्ति"
 
 एवं युयुधिरे वीराः प्रार्थयाना महद्यशः।  
 तावकाःपाण्डवैस्सार्धं काङ्क्षमाणा रणे जयम्॥३८॥
@@ -13842,11 +13695,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 \[ अस्मिन्नध्याये ३८॥ श्लोकाः \]
 
 ॥चतुस्सप्ततितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706331613bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706331613bbbb.png"/>
 
 सङ्कुलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706331601मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706331601मम.png"/>
 
 सञ्जयः—
 
@@ -13873,8 +13726,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 याचमानं च यन्मोहाद् दाशर्हमवमन्यसे।  
 तस्य[^362] पापस्य गान्धारे पश्य व्यसनमागतम्॥७॥
 
-[^362]: "ख–घ–म—इदमर्धं नास्ति"
-
 उलूकस्य च संदेशं यद्ददासि च हृष्टवत्॥७॥
 
 त्वां निहत्याद्य समरे सानुबन्धं सबान्धवम्।  
@@ -13895,8 +13746,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 चिच्छेद समरे छत्रंराज्ञस्तस्य रथोत्तमात्॥१२॥
 
 त्रिभिश्च[^242] तस्य चिच्छेद चलद्ध्वजमनुत्तमम्॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 छित्त्वाऽथ च ननादोच्चैस् तव पुत्रस्य पश्यतः॥१३॥
 
@@ -13986,8 +13835,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 अश्वाञ्जाम्बूनदैर्बाणैस् सञ्छन्नान् वातरंहसः।  
 जघान[^242] षड्भिरासाद्य सारथिं च न्यबर्हयत्॥४०॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 स हताश्वे रथे तिष्ठञ् श्रुतवर्मा महाबलः।  
 शक्तिं चिक्षेप समरे महोल्कां ज्वलितामिव॥४१॥
@@ -14101,14 +13948,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥६४॥भीष्मवधपर्वणि चतुस्त्रिंशोऽध्यायः॥३४॥  
 \[ अस्मिन्नध्याये ७२॥श्लोकाः \]  
 \[ षष्ठापहारः समाप्तः \]  
-![](../books_images/U-IMG-1706328962मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706328962मम.png"/>  
 
 **॥पञ्चसप्ततितमोऽध्यायः॥**  
-![](../books_images/U-IMG-1706328952नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706328952नन.png"/>
 
 भीष्मदुर्योधनसंवादः॥
 
-![](../books_images/U-IMG-1706328929मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706328929मम.png"/>
 
 सञ्जयः—
 
@@ -14117,8 +13964,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 विश्रम्य[^258] च यथान्यायं पूजयित्वा परस्परम्।  
 सन्नद्धास्समदृश्यन्त भूयो युद्धचिकीर्षवः॥२॥
-
-[^258]: "घ—नास्तीदमर्धम्"
 
 ततस्तव सुतो राजंश् चिन्तयाभिपरिप्लुतः।  
 प्रस्रवद्रुधिरेणाक्तः पप्रच्छेदं पितामहम्॥३॥
@@ -14223,14 +14068,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि पञ्चसप्ततितमोऽध्यायः॥४५॥  
 ॥६४॥ भीष्मवधपर्वणि पञ्चत्रिंशोऽध्यायः॥३५॥  
 \[ अस्मिन्नध्याये १९॥ श्लोकाः \]  
-![](../books_images/U-IMG-1706327906मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706327906मम.png"/>  
 
 **॥षट्रसप्ततितमोऽध्यायः॥**  
-![](../books_images/U-IMG-1706327921bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706327921bbbb.png"/>
 
  **भीष्मेण दुर्योधनसंहर्षणम्॥१॥राज्ञां द्वन्द्वीभूय मेलनम्॥२॥अर्जुनपराक्रमवर्णनम्॥३॥**
 
-![](../books_images/U-IMG-1706328010मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706328010मम.png"/>
 
 सञ्जयः—
 
@@ -14281,8 +14126,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ततः प्रभाते विमले स्वेन सैन्येन वीर्यवान्।  
 ययौ[^146] शान्तनवो धीमान् युद्धाय समुपस्थितः॥१२॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 अयोजयत् स्वयं व्यूहं भीष्मो व्यूहविशारदः।  
 मण्डलं मनुजश्रेष्ठ नानाशस्त्रसमाकुलम्॥१३॥
 
@@ -14291,12 +14134,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 रथिनो[^146] रथमुख्याश्च समन्तात् पर्यवारयन्॥१५॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 अश्वबृन्दैर्महद्भिश्च रथेभनिकरैस्तथा[^439]।  
 धनुर्धरैः पदातैश्च यष्टितोमरधारिभिः॥१६॥
-
-[^439]: "ख–घ–ङ–म—अयं पादोऽनन्तरश्च न स्तः"
 
 नागे नागे रथास्सप्त सप्ताश्वाश्च रथे रथे।  
 अश्वेऽश्वे चर्मिणस्सप्त धानुष्कास्सप्तचर्मिणाम्॥१७॥
@@ -14366,8 +14205,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ये चान्येऽपि नृपा यत्ता भीष्ममेव महारथम।  
 प्रययुर्युद्धसम्मत्ता[^146] युधि तं वै जिगीषवः॥३६॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 ततो राजसहस्राणि परिवव्रुर्धनञ्जयम्।  
 शक्तितोमरनाराचगदापरिघपाणयः॥३७॥
 
@@ -14420,14 +14257,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥भीष्मपर्वणि षट्सप्ततितमोऽध्यायः॥१६॥  
 ॥६४॥भीष्मवधपर्वणि षट्त्रिंशोऽध्यायः॥३६॥  
 \[ अस्मिन्नध्याये ४९॥श्लोकाः \]  
-![](../books_images/U-IMG-1706192953मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706192953मम.png"/>
 
 ॥सप्तसप्ततितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706192966bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706192966bbbb.png"/>
 
  द्रोणेन विराटसूनोः शङ्खस्य वधः॥१॥द्वन्द्वयुद्धम्॥२॥
 
-![](../books_images/U-IMG-1706192983मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706192983मम.png"/>
 
 सञ्जयः—
 
@@ -14479,14 +14316,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 पृष्ठतस्तु[^146] जुगोपात्र भीष्मं युधि सुयोधनः॥१३॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 भारद्वाजस्तु समरे मात्स्यं विव्याध पत्रिणा॥१४॥
 
 ध्वजमेकेन वाणेन[^454] पातयामास भूतले।  
 धनुश्चिच्छेद[^146] राजेन्द्र शितेनैकेन पत्रिणा॥१५॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 [^454]: "ख–ग–घ–ङ–म—चिच्छेद धनुरेकेन पत्रिणा     [पाठान्तरम् ]"
 
@@ -14504,8 +14337,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ततः[^146] क्रुद्धो द्विजश्रेष्ठश् चापमुद्यम्य वै दृढम्।  
 तस्य द्रोणोऽवधीदश्वाञ्शरैस्सन्नतपर्वभिः॥१९॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 अच्छिनद्भरतश्रेष्ठ सूतमेकेन पत्रिणा॥१९॥
 
@@ -14660,15 +14491,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि सप्तसप्ततितमोऽध्यायः॥७७॥  
 ॥६४॥भीष्मवधपर्वणि सप्तत्रिंशोऽध्यायः॥३५॥  
 \[ अस्मिन्नध्याये ६४ श्लोकाः \]  
-![](../books_images/U-IMG-1705211155ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705211155ववव.png"/>  
 
 ॥अष्टसप्ततितमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705211172ललल.png)
+<MISSING_FIG href="../books_images/U-IMG-1705211172ललल.png"/>
 
 द्वन्द्वयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1705211235ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705211235ववव.png"/>
 
 धृतराष्ट्रः—
 
@@ -14706,8 +14537,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 आत्मदोषात् समुत्पन्नं शोचितुं नार्हसे नृप॥
 
 न[^242] हि रक्षन्ति राजानस् सर्वार्थेनापि जीवितम्॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 युद्धेन स्वार्जिताँ लोकान् इच्छन्तो वसुधाधिपाः।  
 चमूं विगाह्य युद्ध्यन्ते नित्यं स्वर्गपरायणाः॥
@@ -14754,8 +14583,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 तौ[^146] तु दृष्ट्वा महेष्वासौ पुत्रौ तु विमुखीकृतौ।  
 धृष्टद्युम्नो महाराज यज्ञसेनसुतः प्रभुः॥२३॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 पौरुषं ख्यापयंस्तूर्णं व्यधमत् तव वाहिनीम्॥२३॥
 
 सा वध्यमाना समरे धार्तराष्ट्री महाचमूः।  
@@ -14769,12 +14596,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ऐरावतं[^146] समास्थाय ह्ययुध्यत महाबलः॥२७॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 तत्र[^244] देवास्सगन्धर्वा ऋषयश्च समागताः।  
 विशेषं तत्रन विदुर् हैडिम्बभगदत्तयोः॥२८॥
-
-[^244]: "अ–क–ख—अर्धद्वयं नास्ति"
 
 यथा सुरपतिश्शक्रस् त्रासयामास दानवान्।
 
@@ -14785,8 +14608,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹भैमसेनि[^465] रथस्थं तु तत्वापश्याम भारत।  
 शेषा विमनसो भूत्वा प्राद्रवन्त महारथाः॥३१॥
-
-[^465]: "अ–क—अर्धचतुष्टयं न दृश्यते"
 
 निवृत्तेषु तु पाण्डूनां पुनस्सैन्येषु भारत।  
 आसीन्निष्ठानको घोरस् तव सैन्यस्य संयुगे॥३२॥
@@ -14844,8 +14665,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 सञ्छाद्यमानस्तु[^169] शरैर् हृष्टरूपधरोऽभवत्।  
 तयोश्चास्याभवत् प्रीतिर् अतुला मातृकारणात्॥४८॥
 
-[^169]: "घ—अर्धचतुष्टयं नास्ति"
-
 ततः प्रहस्य समरे नकुलस्य महारथः।  
 ध्वजं चिच्छेद बाणेन धनुश्चैकेन मारिप॥४९॥
 
@@ -14895,15 +14714,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि अष्टसप्ततितमोऽध्यायः ॥ ७८॥  
 ॥ ६४ ॥ भीष्मवधपर्वणि अष्टाविंशोऽध्यायः ॥ ३८ ॥  
 \[ अस्मिन्नध्याये ६२॥ श्लोकाः \]  
-![](../books_images/U-IMG-1705213163ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705213163ववव.png"/>
 
 ॥ऊनाशीतितमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705213342ललल.png)
+<MISSING_FIG href="../books_images/U-IMG-1705213342ललल.png"/>
 
 युधिष्ठिरादियुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1705213371ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705213371ववव.png"/>
 
 सञ्जयः—
 
@@ -14924,14 +14743,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 पाण्डवस्तु[^242] भृशं विद्धस् तेन राज्ञा महात्मना।  
 रणे वराहकर्णेन राजानं हृद्यविध्यत॥५॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 अथापरेण भल्लेन केतुं तस्य महात्मनः।  
 रथश्रेष्ठो रथात् तूर्णं भूमौ पार्थो न्यपातयत्॥६॥
 
 धर्मराजः[^263] पुनः केतुं तस्य राज्ञश्श्रुतायुषः।
-
-[^263]: "ख–घ–ङ–म—इदमर्धद्वयं नास्ति"
 
 छित्त्वा स पातयामास योधानां पश्यतां भुवि॥७॥
 
@@ -14958,8 +14773,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 स[^169] तु धैर्येण तं कोपं सन्निवार्य महायशाः।  
 श्रुतायुषः प्रचिच्छेद मुष्टिदेशे महद्धनुः॥१५॥
-
-[^169]: "घ—अर्धचतुष्टयं नास्ति"
 
 अथैनं छिन्नधन्वानं नाराचेन स्तनान्तरे।
 
@@ -15104,11 +14917,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि एकोनाशीतितमोऽध्यायः॥ ७९॥  
 ॥६४॥ भीष्मवधपर्वणि एकोनचत्वारिंशोऽध्यायः॥ ३९॥  
 \[ अस्मिन्नध्याये ५६ श्लोकाः \]  
-![](../books_images/U-IMG-1705214961ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705214961ववव.png"/>  
 
 ॥अशीतितमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705214985ललल.png)
+<MISSING_FIG href="../books_images/U-IMG-1705214985ललल.png"/>
 
 सङ्कुलयुद्धवर्णनम्॥
 
@@ -15281,10 +15094,12 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 तदस्त्रमस्त्रेण विदार्यमाणं  
 शल्यं तदा ददृशुः पार्थिवाश्च।  
-[स्व](#)स्थास्सुरौघाश्च[^481] तथैव यक्षा  
+स्व[^829]स्थास्सुरौघाश्च[^481] तथैव यक्षा  
 गन्धर्वसिद्धा ऋषिभिस्समन्तात्॥३१॥
 
 [^481]: " ख–ह–घ–म—इदं पादद्वयं नास्ति"
+
+[^829]: #
 
 भीष्मस्तु राजन् समरे महात्मा  
 धनुस्सुचित्रं ध्वजमेव चापि।  
@@ -15344,15 +15159,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 अपकान्तास्तुमुले सम्प्रमर्दे  
 सुदारुणे[^486] भारत मोहनीये॥४०॥
 
-[^486]: "अ–क—नास्त्ययं पादः"
-
 अमूढचेतास्त्वथ चित्रसेनो  
 महागदामापतन्तीं निरीक्ष्य।
 
 स्वयं[^451] स्थित्वा भीमसेनस्य चाग्रे  
 गतिं गदायाः परिहर्तुकामः॥४१॥
-
-[^451]: "ख–घ–ङ–म—इदमर्धंनास्ति"
 
 रथं समुत्सृज्य पदातिराजौ  
 प्रगृह्य खड्गंविपुलं च चर्म।  
@@ -15373,15 +15184,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि अशीतितमोऽध्यायः॥ ८०॥  
 ॥६४॥ भीष्मवधपर्वणि चत्वारिंशोऽध्यायः॥ ४०॥  
 \[ अस्मिन्नध्याये ४४ श्लोकाः \]  
-![](../books_images/U-IMG-1705217078ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705217078ववव.png"/>
 
 ॥ एकाशीतितमोऽध्यायः ॥  
 
-![](../books_images/U-IMG-1705467208mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705467208mmm.png"/>
 
 सङ्कुलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1705467189ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705467189ववव.png"/>
 
 सञ्जयः—
 
@@ -15449,8 +15260,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 असम्प्राप्तांस्ततस्तांस्तु क्षुरप्रेण महायशाः।  
 चिच्छेद[^272] समरे भीष्मः पाण्डवस्य धनुश्च्युतान्॥१०॥
-
-[^272]: "घ—अर्धत्रयं नास्ति"
 
 तांस्तु च्छित्वा रणे भीष्मो नाराचान् कालसम्मितान्।  
 निजघ्नेकौरवेन्द्रस्य हयान् काञ्चनभूषणान्॥११॥
@@ -15552,8 +15361,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ततो युधिष्ठिरो राजा लोहितायति भास्करे।  
 अब्रवीत्[^265] स्वान् नृपान् क्रुद्धो युध्यध्वमिति भारत॥ ४२॥
 
-[^265]: "ङ—अर्धत्रयं नास्ति"
-
 युध्यतां तु ततस्तेषां कुर्वतां कर्म दुष्करम्।  
 अस्तं गिरिमथारूढे न प्रकाशति भास्करे॥४३॥
 
@@ -15580,8 +15387,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 दुर्योधनोऽपि[^169] नृपतिः परिवार्य महारणे।  
 भीष्मं शान्तनवं तूर्णं प्रायात् स्वशिबिरं प्रति॥५०॥
 
-[^169]: "घ—अर्धचतुष्टयं नास्ति"
-
 द्रोणो द्रौणिः कृपश्शल्यः कृतवर्मा च सात्वतः।  
 परिवार्य चमूस्सर्वा प्रययुश्शिबिराणि वै॥५१॥
 
@@ -15590,8 +15395,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹ततस्सरथनागाश्वजयं[^282] प्राप्य ससोमकाः।  
 पाञ्चालाःपाण्डवाश्चैव प्रणेदुश्च पुनः पुनः॥५३॥
-
-[^282]: "ख–घ–ङ–म—इदमधंचतुष्टयं नास्ति"
 
 प्रययुश्शिबिरायैव धनञ्जयपुरस्कृताः।  
 वादित्रघोषैरसंहृष्टाः प्रनृत्यन्तो महारथाः॥५४॥
@@ -15628,13 +15431,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥ ६४॥ भीष्मवधपर्वणि एकचत्वारिंशोऽध्यायः॥ ४१॥  
 \[अस्मिन्नध्याये ६२ श्लोकाः\]  
 \[ सप्तमापहारस्समाप्तः \]  
-![](../books_images/U-IMG-1705652509ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705652509ववव.png"/>  
 ॥द्व्यशीतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1705652530ननन.png)
+<MISSING_FIG href="../books_images/U-IMG-1705652530ननन.png"/>
 
  उभयसेनयोर्व्यूहरचनापूर्वकं परस्पराभियानम्॥
 
-![](../books_images/U-IMG-1705652560ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705652560ववव.png"/>
 
 सञ्जयः—
 
@@ -15668,8 +15471,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 बृहद्बलादनु नृपस् त्रिगर्तः प्रस्थलाधिपः।  
 ¹काम्भोजैर्बहुभिस्सार्धं[^242] यवनैश्च सहस्रशः॥१०॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 द्रौणिस्तु रभसश्शूरस् त्रिगर्तादनु भारत।  
 प्रययौ सिंहनादेन नादयानो नभस्स्थलम्॥११॥
 
@@ -15681,8 +15482,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 रेजुस्तत्र पताकाश्च श्वेतच्छत्राणि भारत।  
 ²चामराणि[^146] च शुभ्राणि व्यजनानि च सर्वशः॥१४॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 ¹आयुधानि[^499] च दिव्यानि महार्हाणि धनूंषि च॥१४॥
 
@@ -15775,14 +15574,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि द्व्यशीतितमोऽध्यायः॥ ८२॥  
 ॥ ६४॥ भीष्मवधपर्वणि द्विचत्वारिंशोऽध्यायः॥ ४२॥  
 \[ अस्मिन्नध्याये ४०॥श्लोकाः\]  
-![](../books_images/U-IMG-1705653717ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705653717ववव.png"/>
 
 **॥त्र्यशीतितमोऽध्यायः॥**  
-![](../books_images/U-IMG-1705657588mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705657588mmm.png"/>
 
  भीमेन सुनाभादिदुर्योधनानुजाष्टकहननम्॥
 
-![](../books_images/U-IMG-1705657614ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705657614ववव.png"/>
 
 सञ्जयः—
 
@@ -15832,8 +15631,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 भीमसेनस्सुसङ्क्रुद्धश् शरेण नतपर्वणा।  
 ²विप्रद्रुते[^242] रथे तस्य द्रवमाणे समन्ततः॥१४॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 सुनाभस्य नरश्रेष्ठ शिरश्चिच्छेद भारत।  
 क्षुरप्रेण सुतीक्ष्णेन स हतो न्यपतद्भुवि॥१५॥
@@ -15951,14 +15748,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि त्र्यशीतितमोऽध्यायः॥ ८३॥  
 ॥ ६४॥ भीष्मवधपर्वणि त्रिचत्वारिंशोऽध्यायः॥ ४३॥  
 \[ अस्मिन्नध्याये ४६॥ श्लोकाः \]  
-![](../books_images/U-IMG-1705722190मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705722190मम.png"/>
 
 ॥चतुरशीतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1705722335NNNN.png)
+<MISSING_FIG href="../books_images/U-IMG-1705722335NNNN.png"/>
 
 धृतराष्ट्रेण पुत्रवधश्रवणात् शोचनम्॥
 
-![](../books_images/U-IMG-1705722349मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705722349मम.png"/>
 
 धृतराष्ट्रः—
 
@@ -16022,8 +15819,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹अर्जुनो[^11] द्रौपदेयाश्च चेकितानश्च संयुगे।  
 दुर्योधनसमादिष्टान् राज्ञस्सर्वान् समभ्ययुः॥१७॥
 
-[^11]: "ख—इदमर्धद्वयं नास्ति"
-
 अभिमन्युस्तथा शूरो हैडिम्बश्च महारथः।  
 भीमसेनश्च सङ्क्रुद्धस् तेऽभ्यधावन्त कौरवान्॥१८॥
 
@@ -16038,8 +15833,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ²द्रोणेन[^129] निहतास्तत्र क्षत्रिया बहवो रणे।  
 विवेष्टन्तोऽभ्यदृश्यन्त व्याधिक्लिष्टा नरा इव॥२२॥
-
-[^129]: "घ—अर्धद्वयं नास्ति"
 
 कूजतां क्रन्दतां चैव स्तनतां चैव संयुगे।  
 अनिशं श्रूयते शब्दः क्षुत्कृशानां नृणामिव॥२३॥
@@ -16058,8 +15851,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 तत्र भारत भीमेन ताडिताः पतिता गजाः।  
 ¹विनेदुश्च[^129] भृशं घोरं भ्रमन्तो दिक्षु सर्वतः॥२८॥
-
-[^129]: "घ—अर्धद्वयं नास्ति"
 
 भिन्नहस्ता महानागा भिन्नकुम्भाश्च मारिष।  
 क्रौञ्चवद्व्यनदन् भीताः पृथिवीमनुशिश्यिरे॥२९॥
@@ -16095,15 +15886,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि चतुरशीतितमोऽध्यायः॥ ८४॥  
 ॥ ६४॥ भीष्मवधपर्वणि चतुश्चत्वारिंशोऽध्यायः॥ ४४॥  
 \[ अस्मिन्नध्याये ३८ श्लोकाः \]  
-![](../books_images/U-IMG-1705723456मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705723456मम.png"/>
 
 ॥पञ्चाशीतितमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705723766नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1705723766नन.png"/>
 
  अर्जुनात्मजेन इरावता शकुनेरनुजानां वधः॥ १॥ आर्श्यशृङ्गिनाम्ना राक्षसेन इरावतो वधः॥ २॥
 
-![](../books_images/U-IMG-1705723778मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705723778मम.png"/>
 
 सञ्जयः—
 
@@ -16118,8 +15909,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 वनायुजानां शुभ्राणां तथा पर्वतवासिनाम्।  
 ¹समूहैर्वाजिमुख्यानां[^146] मनोमारुतरंहसाम्॥४॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 ये चापरे तित्तिरिजा जवना हेममालिनः।  
 सुवर्णालङ्कृतैरेव वर्मभिश्च सुकल्पितैः॥५॥
@@ -16141,8 +15930,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 पितृव्येन परित्यक्तः पार्थद्वेषाद्दुरात्मना॥१०॥
 
 ¹इत्येष[^250] ब्रुवता राजन् मात्रास हि विसर्जितः॥ १०॥
-
-[^250]: "घ–ङ–म—नास्तीदमर्धम्"
 
 खमुत्पत्य महाराज नागराट् सत्यविक्रमः।  
 इन्द्रलोकं जगामाशु मातुश्श्रुत्वाऽर्जुनं गतम्॥११॥
@@ -16206,8 +15993,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹वायुवेगसमस्पर्शाञ्[^242] जवे वायुसमांश्च ते।  
 आरुह्य शैलसङ्काशान् वयस्स्थांस्तुरगोत्तमान्॥२९॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 गजो गवाक्षो वृषकश् चर्मवानर्जवश्शुकः।  
 षडेते बलसम्पन्ना निर्ययुर्महतो बलात्॥३०॥
@@ -16273,8 +16058,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹न[^146] चापि शीघ्रहस्तस्य ह्यश्वारूढस्य योधिनः।  
 भूमिष्ठमथ तं सङ्ख्ये अन्तरिक्षादवप्लुतम्॥४७॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 सौबलाः परिवार्यैनं ग्रहीतुमुपचक्रमुः॥४७॥
 
 अथाभ्याशगतानां स खड्गेनामित्रकर्शनः।  
@@ -16288,8 +16071,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹योधैस्स्वकीयैस्समरे[^146] परिवार्य व्यतिष्ठत॥५०॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 तेऽमुच्यन्त महारौद्रात् तस्माद्वीरविकर्तनात्॥५१॥
 
 तान् सर्वान् पतितान् दृष्ट्वा भीतो दुर्योधनस्ततः।  
@@ -16297,8 +16078,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 आर्श्यशृङ्गिं महेष्वासं मायाविनमरिन्दमम्।  
 ²वैरिणं[^242] भीमसेनस्य पूर्वं बकवधेन वै॥५३॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 दुर्योधनः—
 
@@ -16329,12 +16108,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹तेन[^242] मायामयाः क्लृप्ता हयास्तावन्त एव हि।  
 स्वारूढा राक्षसैर्घोरैश् शूलपट्टसपाणिभिः॥६०॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 ते संरब्धास्समासाद्य द्विसाहस्राः प्रहारिणः।  
 ²इरावतस्सैनिकास्ते[^263] समयुध्यन्त तैस्सह॥६१॥
-
-[^263]: "ख–घ–ङ–म—इदमर्धद्वयं नास्ति"
 
 युद्धं कृत्वा महद्घोरम् अन्योन्यजयकाङ्क्षिणः।  
 अचिराद्गमयामासुः प्रेतलोकं परम्परम्॥६२॥
@@ -16356,14 +16131,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 त्प्लुत्यइरावानपि राक्षसम्।  
 विमोहयित्वा मायाभिस् तस्य गात्राणि सायकैः॥६७॥
 
-[^264]: "अ–क–ग—नास्तीदमर्धम्"
-
 चिच्छेद सर्वमर्मज्ञः कामरूपो दुरासदः॥६८॥
 
 तथा हि राक्षसश्रेष्ठः कृत्तः कृत्तः पुनः पुनः।  
 ²न[^289] बभूव विनष्टश्च समवाप च यौवनम्॥६९॥
-
-[^289]: "ख—इदमादि अर्धचतुष्टयं नास्ति"
 
 मायया जायते तस्य वयो रूपं च कामजम्॥६९॥
 
@@ -16475,14 +16246,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि पञ्चाशीतितमोऽध्यायः॥ ८५॥  
 ॥ ६४॥ भीष्मवधपर्वणि पञ्चचत्वारिंशोऽध्यायः॥ ४५॥  
 \[ अस्मिनध्याये ९९ श्लोकाः \]  
-![](../books_images/U-IMG-1705726859मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705726859मम.png"/>
 
 ॥षडशीतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1705726933नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1705726933नन.png"/>
 
 दुर्योधनघटोत्कचयोयुद्धम्॥
 
-![](../books_images/U-IMG-1705726957मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705726957मम.png"/>
 
 धृतराष्ट्रः—
 
@@ -16591,14 +16362,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि षडशीतितमोऽध्यायः॥८६॥  
 ॥६४॥भीष्मवधपर्वणि षट्चत्वारिंशोऽध्यायः॥४६॥  
 \[अस्मिन्नध्याये २९॥ श्लोकाः\]  
-![](../books_images/U-IMG-1705727681मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705727681मम.png"/>
 
 ॥सप्ताशीतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1705727796bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1705727796bbbb.png"/>
 
 घटोत्कचयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1705727811मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705727811मम.png"/>
 
 सञ्जयः—
 
@@ -16724,8 +16495,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹पूर्णायत[^190]विसृष्टेन सम्यक्प्रणिहितेन च।  
 जत्रुदेशे समासाद्य विकर्णं समताडयत्॥३५॥
 
-[^190]: "ङ—अर्धद्वयं नास्ति"
-
 स न्यषीदद्रथोपस्थे शोणितेन परिप्लुतः॥३६॥
 
 ततः पुनरमेयात्मा नाराचान् दश पञ्च च।  
@@ -16759,14 +16528,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि सप्ताशीतितमोऽध्यायः॥८७॥  
 ॥६४॥भीष्मवधपर्वणि सप्तचत्वारिंशोऽध्यायः॥४७॥  
 \[ अस्मिन्नध्याये ४३॥श्लोकाः \]  
-![](../books_images/U-IMG-1705729112मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705729112मम.png"/>  
 
 ॥अष्टाशीतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1705729125bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1705729125bbbb.png"/>
 
 सङ्कलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1705729136मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705729136मम.png"/>
 
 सञ्जयः—
 
@@ -16799,8 +16568,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 युध्यते राक्षसो नूनं धार्तराष्ट्रैर्महारथैः।  
 ¹यथाऽस्य[^350] श्रूयते शब्दो नदतो भैरवं स्वनम्॥८॥
 
-[^350]: "अ–क—अर्धचतुष्टयं नास्ति"
-
 अतिभारं च पश्यामि तस्मिन् राक्षसपुङ्गवे॥८॥
 
 पितामहश्च सङ्क्रुद्धः पाञ्चालान् हन्तुमुद्यतः॥९॥
@@ -16828,8 +16595,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹अनूपाधिपतिश्चैव[^242] नीलस्स्वबलमास्थितः।  
 महता रथवंशेन हैडिम्ब पर्यवारयन्॥१५॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 कुञ्जरैश्च सदा मत्तैष्षट्सहस्रैः प्रहारिभिः।  
 अभ्यरक्षन्त सहिता राक्षसेन्द्रं घटोत्कचम्॥१६॥
@@ -16930,14 +16695,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि अष्टाशीतितमोऽध्यायः॥ ८८॥  
 ॥६४॥ भीष्मवधपर्वणि अष्टाचत्वारिंशोऽध्यायः॥ ४८॥  
 \[ अस्मिन्नध्याये ४४ श्लोकाः\]  
-![](../books_images/U-IMG-1705730320मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705730320मम.png"/>
 
 ॥एकोननवतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1705730487bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1705730487bbbb.png"/>
 
 घटोत्कचयुद्धम्॥
 
-![](../books_images/U-IMG-1705730505मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705730505मम.png"/>
 
 सञ्जयः—
 
@@ -17123,14 +16888,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ॥भीष्मपर्वणि एकोननवतितमोऽध्यायः॥८९॥  
 ॥६४॥भीष्मवधपर्वणि एकोनपञ्चाशोऽध्यायः॥४९॥  
 \[ अस्मिन्नध्याये ५३ श्लोकाः \]  
-![](../books_images/U-IMG-1705733009मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705733009मम.png"/>  
 
 ॥नवतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1705732996नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1705732996नन.png"/>
 
 भगदत्तादियुद्धम्॥
 
-![](../books_images/U-IMG-1705732977मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705732977मम.png"/>
 
 सञ्जयः—
 
@@ -17150,8 +16915,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹भवन्तं[^138] समुपाश्रित्य द्रोणं चैव पितामह।  
 पाण्डवैर्विग्रहो घोरस् समारब्धो मया प्रभो॥४॥
 
-[^138]: "अ–क—इदमर्धं नास्ति"
-
 एकादश समाख्याता अक्षौहिण्यश्च या मम।  
 निदेशे तव तिष्ठन्ति मया सार्धं परन्तप॥५॥
 
@@ -17168,8 +16931,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ²एतच्छ्रुत्वा[^519] तु वचनं राज्ञो भरतसत्तम।  
 दुर्योधनमिदं वाक्यं भीष्मश्शान्तनवोऽब्रवीत्॥९॥
-
-[^519]: "अ–क—अर्धपञ्चकं नास्ति"
 
 भीष्मः—
 
@@ -17231,8 +16992,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹ततस्समभवद्युद्धं[^64] घोररूपं भयानकम्।  
 पाण्डूनां भगदत्तेन यमराष्ट्रविवर्धनम्॥२६॥
 
-[^64]: "अ—अर्धषट्कं नास्ति"
-
 प्रयुक्ता रथिभिर्बाणा भीमवेगास्सुतेजसः।  
 विनिपेतुर्महाराज नागेषु च हयेषु च॥२७॥
 
@@ -17275,8 +17034,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹तमापतन्तं[^190] सम्प्रेक्ष्य ²गर्जन्तमिव[^548] तोयदम्।  
 ³अभ्यवर्तन्त[^549] सङ्क्रुद्धाः पाण्डवानां महारथाः॥४०॥
 
-[^190]: "ङ—अर्धद्वयं नास्ति"
-
 [^548]: "ख–ग–घ—पाण्डवानां महारथाः"
 
 [^549]: "ख–ग–घ–म—अभ्यधावन्त वेगेन भीमसेनपुरोगमाः।"
@@ -17309,12 +17066,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹रुरोध[^146] तं सुप्रतीको वेलेव मकरालयम्॥४८॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 तस्य वर्म मुखत्राणं शातकुम्भपरिष्कृतम्।  
 ²छित्त्वा[^146] बाणैर्मुखं तस्य पुनरन्यैर्जघान च॥४९॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 ³ते[^553] मुखं प्राविशन् भित्त्वा वल्मीकमिवपन्नगाः॥५०॥
 
@@ -17400,8 +17153,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 तदवेक्ष्य कृतं कर्म ¹राक्षसस्य[^555] बलीयसः।  
 ²घटोत्कचस्य[^146] तद्युद्धं तथा कृतवतोऽद्भुतम्॥७४॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 [^555]: "ख–ग–घ–ङ–म—राक्षसेन बलीयसा"
 
 दिवि देवास्सगन्धर्वा मुनयश्चापि विस्मिताः॥७४॥
@@ -17438,8 +17189,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ²पुनस्संज्ञां[^146] ततः प्राप क्षणेन भरतर्षभ॥८४॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 ततो भीमो महाराज विरथो रथिनां वरः।  
 गदां जग्राह वेगेन प्रचस्कन्द रथादपि॥८५॥
 
@@ -17474,14 +17223,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि नवतितमोऽध्यायः॥ १०॥  
 ॥६४॥ भीष्मवधपर्वणि पञ्चाशोऽध्यायः॥ ५०॥  
 \[ अस्मिन्नध्याये ९४ श्लोकाः \]  
-![](../books_images/U-IMG-1705915893ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705915893ववव.png"/>  
 
 **॥एकनवतितमोऽध्यायः॥**  
-![](../books_images/U-IMG-1705915880ललल.png)
+<MISSING_FIG href="../books_images/U-IMG-1705915880ललल.png"/>
 
 भीमेन दुर्योधनानुजानां कतिपयानां हननम्॥
 
-![](../books_images/U-IMG-1705915868ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705915868ववव.png"/>
 
 सञ्जयः—
 
@@ -17533,8 +17282,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 अथ शब्दो महानासीत् तव सैन्यस्य भारत।  
 ¹मारुतोद्धूतवेगस्य[^242] सागरस्येव पर्वणि॥१४॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 अपराह्णेमहाराज सङ्ग्रामस्समपद्यत।  
 पर्जन्यसमनिर्घोषो भीष्मस्य सह पाण्डवैः॥१५॥
@@ -17605,8 +17352,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ²द्रोणचापसमुद्भूतं[^190] शरवर्षं सुदारुणम्।  
 अद्भुतं कर्म राजेन्द्र तत्र चक्रे स्म पाण्डवः॥३४॥
 
-[^190]: "ङ—अर्धद्वयं नास्ति"
-
 यत् पुत्रांस्तेऽवधीद्भीमो द्रोणं चैव व्यपोथयत्॥३४॥
 
 पुत्रेषु तव वीरेषु चिक्रीडार्जुनपूर्वजः।
@@ -17643,8 +17388,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 तत्राक्रन्दो महानासीत् तव तेषां च भारत।  
 ¹पाण्डवानां[^250] च राजेन्द्र सैनिकानां सुदारुणः॥४५॥
 
-[^250]: "घ–ङ–म—नास्तीदमर्धम्"
-
 निघ्नतां भृशमन्योन्यं कुर्वतां कर्म दुष्करम्।  
 अन्योन्यं हि रणे वीराः केशेष्वाक्षिप्य भारत॥४६॥
 
@@ -17663,8 +17406,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 रणे चारूणि चापानि हेमपृष्ठानि भारत।  
 ³हतानामपविद्धानि[^253] कलापाश्च महाधनाः॥५१॥
-
-[^253]: "अ–ख—षडर्धानि न सन्ति"
 
 जातरूपमयैः पुङ्खैःराजतैश्च विराजिताः।  
 ⁴रणे[^567] निपतिता बाणाश् शोणितेन परिप्लुताः॥५२॥
@@ -17702,8 +17443,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹हस्तिहस्तोपमै[^263]श्छिन्नैरूरुभिश्च तरस्विनाम्।
 
-[^263]: "ख–घ–ङ–म—इदमर्धद्वयं नास्ति"
-
 सञ्छिन्नैर्भिन्नवक्त्रैश्च ह्यपविद्धैरलङ्कृतैः॥६२॥
 
 निश्शब्दैरल्पशब्देश्च शोणितोघपरिप्लुतैः।  
@@ -17727,8 +17466,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 विप्रविद्धैः कलापैश्च पतितैश्च शरासनैः।  
 ⁴विप्रकीर्णैश्शरैश्चैव[^242] रुक्मपुङ्खैस्समन्ततः॥६७॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 रथैश्च बहुभिर्भग्नैःकिङ्किणीजालमालिभिः।  
 वाजिभिश्व हतैः कीर्णैस् स्रस्तजिह्वैस्सशोणितैः॥६८॥
 
@@ -17745,8 +17482,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 दन्तिभिश्चापरैस्तत्रसप्राणैर्गाढवेदनैः।  
 ¹करैश्शब्दं[^242] विमुञ्चद्भिश् शीकरैश्च मुहुर्मुहुः॥७२॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 विबभौ तद्रणस्थानं मध्यमानैरिवाचलैः।  
 नानारागैः कम्बलैश्च परिस्तोमैश्च दन्तिनाम्॥७३॥
@@ -17770,8 +17505,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹प्रासैश्च[^350] विमलैस्तीक्ष्णैर् विमलाभिस्तथर्ष्टिभिः।  
 उष्णीषैश्च तथा चित्रैर् विप्रविद्धैस्ततस्ततः॥७८॥
 
-[^350]: "अ–क—अर्धचतुष्टयं नास्ति"
-
 शिरस्त्राणैर्विचित्रैश्च जातरूपपरिष्कृतैः।  
 अश्वास्तरपरिस्तोमैः कम्बलैमृदितैस्तथा॥७९॥
 
@@ -17794,8 +17527,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ³एतद्बभौ[^579]महाघोरम् अपश्याम रणाजिरम्।  
 ⁴रात्रिस्समभवद्घोरा[^242] नापश्याम ततो रणम्॥८५॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 [^579]: " ख–ग–ङ–म—तेषु सम्भ्रान्तभन्नेषु मृदितेषु च संयुगे। घ—कोशे नास्तीदमर्धम्       [ अधिकः पाठः ]"
 
 ततोऽपहारं सैन्यानां प्रचक्रुः कुरुपाण्डवाः।  
@@ -17808,14 +17539,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि एकनवतितमोऽध्यायः॥९१॥  
 ॥६४॥ भीष्मवधपर्वणि एकपञ्चाशोऽध्यायः॥५१॥  
 \[ अस्मिन्नध्याये ८७ श्लोकाः \]  
-![](../books_images/U-IMG-1705922808ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705922808ववव.png"/>  
 
 ॥द्विनवतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1705922793mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705922793mmm.png"/>
 
  भीष्मो न्यस्तशस्त्रश्चेदहंपाण्डवान् जेष्यामीति कर्णबोधितेन दुर्योधनेन रात्रौ भीष्ममेत्य कर्णस्य युद्धानुज्ञाप्रार्थना॥
 
-![](../books_images/U-IMG-1705922772ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705922772ववव.png"/>
 
 सञ्जयः—
 
@@ -17824,8 +17555,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 समागम्य महाराज मन्त्रयाञ्चक्रिरे मिथः।  
 ¹कथं[^292] पाण्डुसुता युद्धे जेतव्यास्सगणा इति॥२॥
-
-[^292]: "अ–क—अर्धद्वयं नास्ति"
 
 ततो दुर्योधनो राजा सर्वांस्तानाह मन्त्रिणः।
 
@@ -17909,8 +17638,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹एवमुक्त्वा[^362] ततो राजन् सुतो दुर्योधनस्तव।  
 निष्पपात ततस्तूर्णं सानुगस्ससुहृज्जनः॥२०॥
 
-[^362]: "ख–घ–म—इदमर्धं नास्ति"
-
 सहितो भ्रातृभिस्सार्थं देवैरिव शतक्रतुः॥२०॥
 
 ततस्तं नृपशार्दूलश् शार्दूलसमविक्रमम्।  
@@ -17947,8 +17674,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹परिवार्य[^146] महाराज समन्तात् पृथिवीपतिम्॥३१॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 हस्तिहस्तोपमं सौम्यं सर्वशत्रुनिबर्हणम्।  
 दक्षिणं दक्षिणः काले उद्यम्यालङ्कृतं भुजम्॥३२॥
 
@@ -17960,8 +17685,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 पूजयानश्च तान् सर्वान् जनान् दृष्ट्याऽवलोकयन्।
 
 ¹एवं[^249] स प्रययौ राजा सर्वसैन्यसमावृतः॥३५॥
-
-[^249]: "ख–घ–ङ–म—नास्तीदमर्धम्"
 
 प्रदीपैःकाञ्चनैस्तत्र गन्धतैलोक्षितैर्जनाः।  
 परिव्रुर्महात्मानं प्रज्वलद्भिस्समन्ततः॥३६॥
@@ -17995,8 +17718,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹तस्मादर्हसि[^242] गाङ्गेय कृपां कर्तुं मयि प्रभो।  
 जहि पाण्डुसुतान् वीरान् महेन्द्र इव दानवान्॥४४॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 पूर्वमुक्तं महाबाहो निहनिष्यामि सोमकान्।  
 पाञ्चालान् पाण्डवैस्सार्धं करूशांश्चैव सर्वशः॥४५॥
 
@@ -18018,15 +17739,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि द्विनवतितमोऽध्यायः॥ १२॥  
 ॥६४॥ भीष्मवधपर्वणि द्विपञ्चाशोऽध्यायः॥ ५२॥  
 \[ अस्मिन्नध्याये ४९ श्लोकाः\]  
-![](../books_images/U-IMG-1705930367मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705930367मम.png"/>
 
 ॥त्रिनवतितमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705935003नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1705935003नन.png"/>
 
  भीष्मेण दुर्योधनं प्रति अर्जुनपराक्रमप्रशंसनपूर्वकं पाण्डवानामजय्यत्वमभिधाय शिखण्डिवर्जं पाञ्चालादिवधप्रतिज्ञा॥
 
-![](../books_images/U-IMG-1705935014मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705935014मम.png"/>
 
 सञ्जयः—
 
@@ -18060,10 +17781,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ^(1–2)य[^591]
 
+[^591]: "1. अ–क—लयोदशार्धानि न सन्ति-तत्स्थाने इमानि चत्वार्यधनि वर्तन्ते तथा गोग्रहणे राजन्नर्जुनः परवीरहा।  द्रोणं च युधि संरब्धो बाह्रीकं कृपमेव च।  मां चैव सोमदत्तं च द्रौणिं त्वां कर्णमेव च। सर्वाश्च जितवानन्यान् पर्याप्तं तश्चिदर्शनम्॥ [ पाठान्तरम् ]  2.ङ—अर्धद्वयं नास्ति"
+
 च्चनस्सङ्गतान् सर्वान् विराटनगरे तदा।  
 एक एवाजयत् पार्थः पर्याप्तं तन्निदर्शनम्॥९॥
-
-[^591]: "1. अ–क—लयोदशार्धानि न सन्ति-तत्स्थाने इमानि चत्वार्यधनि वर्तन्ते तथा गोग्रहणे राजन्नर्जुनः परवीरहा।  द्रोणं च युधि संरब्धो बाह्रीकं कृपमेव च।  मां चैव सोमदत्तं च द्रौणिं त्वां कर्णमेव च। सर्वाश्च जितवानन्यान् पर्याप्तं तश्चिदर्शनम्॥ [ पाठान्तरम् ]  2.ङ—अर्धद्वयं नास्ति"
 
 द्रोणं च युधि सङ्क्रुद्धो मां च निर्जित्य संयुगे।  
 कर्णं च त्वां च द्रौणिं च कृपं च सुमहारथम्॥१०॥
@@ -18122,10 +17843,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि त्रिनवतितमोऽध्यायः॥१३॥  
 ॥६४॥भीष्मवधपर्वणि त्रिपञ्चाशोऽध्यायः॥५३॥  
 \[अस्मिन्नध्याये २४॥ श्लोकाः\]  
-![](../books_images/U-IMG-1705936064मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705936064मम.png"/>  
 
 ॥चतुर्नवतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1705936053NNNN.png)
+<MISSING_FIG href="../books_images/U-IMG-1705936053NNNN.png"/>
 
 भीष्मरक्षणे दुर्योधनोद्यमः॥
 
@@ -18136,8 +17857,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹सेनायां[^146] राजशार्दूला युध्यध्वमिति पाण्डवैः।  
 अद्य भीष्मो रणे क्रुद्धो निहनिष्यति सोमकान्॥२॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 दुर्योधनस्य तच्छ्रुत्वा रात्रौ विलपितं बहु।  
 मन्यमानस्स तद्राजन् प्रत्यादेशमिवात्मनः॥३॥
@@ -18158,8 +17877,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹तत्र[^242]कार्यमहं मन्ये भीष्मस्यैवाभिरक्षणम्।  
 स नो गुप्तस्सहायस्स्याद्धन्यात् पार्थाश्च संयुगे॥८॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 अब्रवीच्च विशुद्धात्मा नाहं हन्यां शिखण्डिनम्।  
 स्त्रीपूर्वको ह्यसौ जातस् तस्माद्वर्ज्योमया रणे॥९॥
@@ -18230,15 +17947,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि चतुर्नवतितमोऽध्यायः॥ १४॥  
 ॥६४॥ भीष्मवधपर्वणि चतुःपञ्चाशोऽध्यायः॥ ५४॥  
 \[अस्मिन्नध्याये २७ श्लोकाः \]  
-![](../books_images/U-IMG-1705936833मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705936833मम.png"/>  
 
 ॥पञ्चनवतितमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705936822नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1705936822नन.png"/>
 
  कुरुपाण्डवसेनयोर्व्यूहरचनापूर्वकं परस्पराभिगमनम्॥
 
-![](../books_images/U-IMG-1705936850मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705936850मम.png"/>
 
 सञ्जयः—
 
@@ -18344,15 +18061,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि पञ्चनवतितमोऽध्यायः॥१५॥  
 ॥६४॥भीष्मवधपर्वणि पञ्चपञ्चाशोऽध्यायः॥५५॥  
 \[ अस्मिन्नध्याये ३० श्लोकाः \]  
-![](../books_images/U-IMG-1705937783मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705937783मम.png"/>  
 
 **॥षण्णवतितमोऽध्यायः॥**  
 
-![](../books_images/U-IMG-1705937795bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1705937795bbbb.png"/>
 
 अलम्बुसस्य द्रौपदेयैः सह युद्धमभिमन्युना समागमश्च॥
 
-![](../books_images/U-IMG-1705937806मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705937806मम.png"/>
 
 सञ्जयः—
 
@@ -18407,8 +18124,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 मोहयित्वा कृपं द्रोणं द्रौणि च सबृहद्बलम्।  
 सैन्धवं च महेष्वासम् ¹अन्यांश्चैव[^439] महीपतीन्॥१६॥
-
-[^439]: "ख–घ–ङ–म—अयं पादोऽनन्तरश्च न स्तः"
 
 विकिरन् निशितैर्बाणैर् व्यचरल्लघु सुष्ठु च॥१७॥
 
@@ -18465,8 +18180,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹सा[^492] वध्यमाना समरे पाण्डवानां महाचमूः।  
 प्रत्युद्ययौ रणे रक्षो देवसेना यथा बलिम्॥३३॥
-
-[^492]: "अ–क—अर्धषट्कं नास्ति"
 
 विमर्दस्सुमहानासीत् तस्य सैन्यस्य मारिष।  
 रक्षसा घोररूपेण वध्यमानस्य संयुगे॥३४॥
@@ -18546,15 +18259,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मवधपर्वणि षण्णवतितमोऽध्यायः॥ ९६॥  
 ॥६४॥ भीष्मवधपर्वणि षट्पञ्चाशोऽध्यायः॥ ५६॥  
 \[अस्मिन्नध्याये ५६॥ श्लोकाः\]  
-![](../books_images/U-IMG-1705940801मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705940801मम.png"/>  
 
 **॥सप्तनवतितमोऽध्यायः॥**  
 
-![](../books_images/U-IMG-1705940792नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1705940792नन.png"/>
 
 अभिमन्युनाऽलम्बुसस्य पराजयः॥
 
-![](../books_images/U-IMG-1705940782मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705940782मम.png"/>
 
 धृतराष्ट्रः—
 
@@ -18653,8 +18366,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹हतमायं[^519] ततो रक्षो वध्यमानं च सायकैः।  
 रथं तत्रैव सन्त्यज्य प्राद्रवन्महतो भयात्॥२८\।\।
 
-[^519]: "अ–क—अर्धपञ्चकं नास्ति"
-
 तस्मिन् विनिर्जिते तूर्णं कूटयोधिनि राक्षसे।  
 आर्जुनिस्समरे सैन्यं तावकं संममर्द ह॥२९॥
 
@@ -18691,8 +18402,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹पाण्डवप्रियकामार्थ[^242]ंशार्दूल इव कुञ्जरम्॥४०॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 गौतमोऽपि त्वरायुक्तो माधवं निशितैश्शरैः।  
 हृदि विव्याध सङ्क्रुद्धः कङ्कपत्रपरिच्छदैः॥४१॥
 
@@ -18726,8 +18435,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 पुनश्चैनं शरैर्घोरैश्¹छादयामास[^602] भारत।  
 ²निदाघान्ते[^289] महाराज यथा मेघो दिवाकरम्॥५१॥
-
-[^289]: "ख—इदमादि अर्धचतुष्टयं नास्ति"
 
 [^602]: "ख–ग–घ–ङ–म—शैनेयः परवीरहा"
 
@@ -18771,14 +18478,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि सप्तनवतितमोऽध्यायः॥१७॥  
 ॥६४॥भीष्मवधपर्वणि सप्तपञ्चाशोऽध्यायः॥५७५६॥  
 \[अस्मिन्नध्याये ६०॥श्लोकाः \]  
-![](../books_images/U-IMG-1705981110ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705981110ववव.png"/>  
 
 **॥अष्टनवतितमोऽध्यायः॥**  
-![](../books_images/U-IMG-1705981098mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705981098mmm.png"/>
 
 द्रोणार्जुनयुद्धं भीमसेनपराक्रमश्च॥
 
-![](../books_images/U-IMG-1705981080ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705981080ववव.png"/>
 
 धृतराष्ट्रः—
 
@@ -18787,8 +18494,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹प्रियो[^350] हि पाण्डवो नित्यं भारद्वाजस्य धीमतः।  
 आचार्यश्च रणे नित्यं प्रियः पार्थस्य सञ्जय॥२॥
-
-[^350]: "अ–क—अर्धचतुष्टयं नास्ति"
 
 तावुभौ रथिनौ सङ्ख्ये दृप्तौ सिंहाविवोत्कटौ।  
 कथं समीयतुर्युद्धे भारद्वाजधनञ्जयौ॥३॥
@@ -18804,8 +18509,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ⁴तथैव[^263] पाण्डवो द्रोणं वेत्येव प्रियमात्मनः।  
 क्षत्रधर्मरतो नित्यं क्षत्रधर्मेण युध्यत॥५॥
-
-[^263]: "ख–घ–ङ–म—इदमर्धद्वयं नास्ति"
 
 न क्षत्रिया रणे राजन् वर्जयन्ति परस्परम्।  
 निर्मर्यादं हि युध्यन्ते पितृभिर्भ्रातृभिस्सह॥६॥
@@ -18931,15 +18634,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि अष्टनवतितमोऽध्यायः॥ ९८॥  
 ॥६४॥ भीष्मवधपर्वणि अष्टपञ्चाशोऽध्यायः॥ ५८॥  
 \[ अस्मिन्नध्याये ४२॥ श्लोकाः \]  
-![](../books_images/U-IMG-1705998688ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705998688ववव.png"/>
 
 ॥एकोनशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705998744mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705998744mmm.png"/>
 
 सङ्कुलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1705998761ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705998761ववव.png"/>
 
 सञ्जयः—
 
@@ -18966,8 +18669,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 चुक्रुधुस्समरे राजन् पदस्पृष्टा इवोरगाः॥६॥
 
 ²कोपेन[^146] प्राग्वलन् वीरा हव्यसिक्ता इवाग्नयः॥७॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 शिखण्डिनं न विव्याध भारतानां पितामहः।  
 स्त्रियं च समनुध्यात्वानास्मै प्राहरदच्युतः॥८॥
@@ -19052,8 +18753,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹तथैव[^519] च रथान् राजन् प्रममर्द रणे गजः॥३२॥
 
-[^519]: "अ–क—अर्धपञ्चकं नास्ति"
-
 रथाश्चैव समासाद्य पदातींस्तुरगांस्तथा।  
 व्यमृद्नन्समरे राजंस् तुरगांश्च नरान् रणे॥३३॥
 
@@ -19117,8 +18816,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹यत्[^440] पुरा त्वं न गृह्णीषे वार्यमाणो महात्मभिः।  
 वैचित्रवीर्य पश्येदं फलं तस्य यथातथम्॥४८॥
 
-[^440]: "अ–क—अर्धषट्रकं नास्ति"
-
 न हि पाण्डुसुता राजन् ससैन्यास्सपदानुगाः।  
 रक्षन्ति समरे प्राणान् कौरवाणां विशां पते॥४९॥
 
@@ -19129,14 +18826,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि एकोनशततमोऽध्यायः॥९९॥  
 ॥६४॥भीष्मवधपर्वणि एकोनषष्टितमोऽध्यायः॥५९॥  
 \[अस्मिन्नध्याये ५०॥श्लोकाः\]  
-![](../books_images/U-IMG-1706000436ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706000436ववव.png"/>  
 
 **॥शततमोऽध्यायः॥**  
-![](../books_images/U-IMG-1706000446mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1706000446mmm.png"/>
 
 सङ्कुलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706000456ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1706000456ववव.png"/>
 
 सञ्जयः—
 
@@ -19276,15 +18973,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि शततमोऽध्यायः॥१००॥  
 ॥६४॥भीष्मवधपर्वणि षष्टितमोऽध्यायः॥६०॥  
 \[ अस्मिन्नध्याये ४१॥श्लोकाः \]  
-![](../books_images/U-IMG-1706002207ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706002207ववव.png"/>  
 
 ॥एकशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706002196mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1706002196mmm.png"/>
 
 युधिष्ठिरादियुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706002224ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1706002224ववव.png"/>
 
 सञ्जयः—
 
@@ -19317,8 +19014,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 परिवार्य स्थितो भीष्मं सैन्येन महता वृतः॥७॥
 
 ¹पालयामास[^173] महता यत्नेन च सुसंयतः॥७॥
-
-[^173]: " ख–घ–ङ–म—इदमर्धं नास्ति"
 
 ततश्शतसहस्रेण हयानां सुबलात्मजः।  
 विमलप्रासहस्तानां यष्टितोमरधारिणाम्॥८॥
@@ -19361,8 +19056,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ²तुरगैर्वायुवेगैश्च[^146] तत् सैन्यं व्याकुलीकृतम्।  
 हेषतां चैव शब्देन न प्राज्ञायत किञ्चन॥१८॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 ³अतस्तदा[^629] महान् घोषस् तुरगाणामभूच्छ्रुतः॥१९॥
 
 [^629]: "ख–ग–घ–ङ–म—अन्तर्दधे महाञ्शब्दस्तेन शब्देन मोहितः।  [पाठान्तरम्]"
@@ -19375,8 +19068,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ततस्ते रथिनो राजञ् शरैरसन्नतपर्वभिः।  
 ¹न्यकृन्तनुत्तमाङ्गानि[^169] कायेभ्यो यसादिनाम्॥२२॥
-
-[^169]: "घ—अर्धचतुष्टयं नास्ति"
 
 विनिपेतुर्महाराज निहता दृढधन्विनः।  
 नागैरिव महाहप्तैर् यथा स्युर्गिरिगह्वरे॥२३॥
@@ -19433,8 +19124,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹पुनस्स[^146] बहुभिर्बाणैर् आजघान युधिष्ठिरम्॥३७॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 ततो भीमो महाबाहुर् दृष्ट्वा राजानमाहवे।  
 मद्रराजवशं प्राप्तं मृत्योरास्यगतं यथा॥३८॥
 
@@ -19455,17 +19144,17 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि एकशततमोऽध्यायः॥१०१॥  
 ॥६४॥भीष्मवधपर्वणि एकषष्टितमोऽध्यायः॥६१॥  
 \[अस्मिन्नध्याये ४२॥श्लोकाः\]  
-![](../books_images/U-IMG-1706016455मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706016455मम.png"/>
 
 ॥द्वयुत्तरशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706016893नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706016893नन.png"/>
 
  भीष्मपराक्रमममृष्यता कृष्णेन रथादवरुह्य तद्वधायाभियानम्॥ १॥
 
 अर्जुनेन पश्चादनुधाव्य निवर्तितस्य कृष्णस्य तेन सह पुना रथारोहणम्॥
 
-![](../books_images/U-IMG-1706016881मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706016881मम.png"/>
 
 सञ्जयः—
 
@@ -19477,8 +19166,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 युधिष्ठिरं च नवभिर् बाह्वोरुरसि चार्पयत्।  
 ¹सर्वपारशवैस्तीक्ष्णैर्[^265] नाराचैर्मर्मभेदिभिः॥३॥
-
-[^265]: "ङ—अर्धत्रयं नास्ति"
 
 धृष्टद्युम्नं विभिर्विद्ध्वाविननाद महाबलः॥३॥
 
@@ -19596,8 +19283,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 इति तत् कुरु कौन्तेय सत्यं वाक्यमरिन्दम।  
 ¹क्षत्रधर्ममनुस्मृत्य[^245] युध्यस्व पुरुषर्षभ॥३८॥
 
-[^245]: "ख—इदमर्धं नास्ति"
-
 सञ्जयः—
 
 इत्युक्तो वासुदेवेन तिर्यग्दृष्टिरधोमुखः।  
@@ -19649,8 +19334,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹अचोदयद्वासुदेवो[^639] हयान् पार्थस्य संयुगे।  
 ²अगोचरान्[^146] भीष्ममार्गे कृत्वाऽन्यत्र च संस्थितान्॥५२॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 [^639]: "ख–घ–ङ–म—अदर्शयद्वासुदेवो हयज्ञाने परं बलम्।   [पाठान्तरम्]"
 
 मोघान् कुर्वन् शरांस्तस्य मण्डलानि प्रदर्शयन्।  
@@ -19673,8 +19356,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹भीष्मोऽतीव[^246] सुसङ्क्रुद्धः पृषत्कैरर्जुनं बलात्।  
 जघान समरे मूर्ध्नि सिंहवद्विनदन् मुहुः॥५७॥
-
-[^246]: "ख–घ–ङ–म—अर्धद्वयं नास्ति"
 
 वासुदेवस्तु सम्प्रेक्ष्य पार्थस्य मृदुयुद्धताम्।  
 भीष्मं च शरवर्षाणि सृजन्तमनिशं युधि॥५८॥
@@ -19739,8 +19420,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 पार्थस्तु विष्टभ्य बलाच् चरणौ परवीरहा।  
 ¹स[^265] जग्राह हृषीकेशं कथञ्चिद्दशमे पदे॥७५॥
 
-[^265]: "ङ—अर्धत्रयं नास्ति"
-
 ततश्चैनमुवाचेदं क्रोधपर्याकुलेक्षणम्।  
 निश्श्वसन्तं यथा नागम् अर्जुनः प्रणयात् सखा॥७६॥
 
@@ -19790,8 +19469,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 वीक्षाञ्चकुर्महाराज पाण्डवा भयपीडिताः।  
 ¹वध्यमाना[^146] रणे चापि भीष्मेणामित्रकर्शिना॥८७॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 त्रातारं नाधिगच्छन्ति गजाः पङ्कगता इव॥८८॥
 
 पिपीलिका यथा पद्भ्यां मथ्यन्ते बलवत्तरैः।  
@@ -19831,15 +19508,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹युध्यतामेव[^242] तेषां तु भास्करेऽस्तमुपागते।  
 सन्ध्या समभवद्घोरा नापश्याम ततो रणम्॥९६॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 ततो युधिष्ठिरो राजा सन्ध्यां सन्दृश्य भारत।  
 बध्यमानं बलं चापि भीष्मेणामित्रघातिना॥९७॥
 
 ²निरुत्साहं[^250] बलं दृष्ट्वा पीडितं शरविक्षतम्।  
 मुक्तशस्त्रं परावृत्तं पलायनपरायणम्॥९८॥
-
-[^250]: "घ–ङ–म—नास्तीदमर्धम्"
 
 भीष्मं च युधि संरब्धम् अनुयान्तं महारथम्।  
 सोमकांश्च जितान् दृष्ट्वा निरुत्साहान् महारथान्॥९९॥
@@ -19851,8 +19524,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ⁴कथं[^589] जयेम भीष्मं वै महाबलपराक्रमम्।  
 बुद्धिं स्वशिबिरं गन्तुं चक्रे राजा युधिष्ठिरः॥१०१॥
-
-[^589]: "घ–ङ–म—अर्धद्वयं नास्ति"
 
 ⁵ततोऽपहारं[^655] सैन्यानां चक्रे राजा युधिष्ठिरः।
 
@@ -19881,18 +19552,16 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹हनिष्याम[^146] यथा भीष्मं जयेम पृथिवीमिमाम्॥१०८॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
 भीष्मपर्वणि द्व्युत्तरशततमोऽध्यायः॥ १०२॥  
 ॥६४॥ भीष्मवधपर्वणि द्विषष्टितमोऽध्यायः॥ ६२॥  
 \[अस्मिन्नध्याये १०८॥ श्लोकाः\]  
 \[ नवमापहारस्समाप्तः \]  
-![](../books_images/U-IMG-1706020631मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706020631मम.png"/>
 
 ॥व्यधिकशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706021085bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706021085bbbb.png"/>
 
 सञ्जयः—
 
@@ -19906,8 +19575,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 न चैवैनं महात्मानम् उत्सहामो निरीक्षितुम्।  
 ¹मम[^404] माधव सैन्येषु वध्यमानेषु तेन वै॥३॥
-
-[^404]: "ख–घ–ङ–म—इदमर्धचतुष्टयं नास्ति"
 
 ²कथं[^658] योत्स्याम दुर्धर्षं श्रेयो मेऽत्र विधीयताम्।  
 त्वमेव गतिरस्माकं नान्यां गतिमुपास्महे॥४॥
@@ -19927,8 +19594,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 न तु भीष्मस्सुसङ्क्रुद्धश् शक्यो जेतुं महामृधे॥८॥
 
 ¹एवं[^146] भीष्मं न शक्तास्स्म वयं जेतुं महाहवे॥८॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 सोऽहमेवं गते कृष्ण निमग्नश्शोकसागरे।  
 आत्मनो बुद्धिदौर्बल्याद् भीष्ममासाद्य संयुगे॥९॥
@@ -19951,8 +19616,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 यदि तेऽहमनुग्राह्यो भ्रातृभिस्सह केशव।  
 ²स्वधर्मस्याविरोधेन[^242] तदुदाहर केशव॥१५॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 सञ्जयः—
 
 एतच्छ्रुत्वा वचस्तस्य कारुण्याद्वहुविस्तरम्।  
@@ -19972,8 +19635,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹हनिष्यामि[^405] रणे भीष्मम् आहूय पुरुषर्षभ।  
 पश्यतां धार्तराष्ट्राणां यदि नेच्छति फल्गुनः॥२०॥
 
-[^405]: "अ–क–ख—अर्धचतुष्टयं नास्ति"
-
 यदि भीष्मे हते वीरे जयं पश्यसि पाण्डव।  
 हन्तास्म्येकरथेनाद्य कुरुवृद्धं पितामहम्॥२१॥
 
@@ -19985,8 +19646,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹तव[^190] भ्राता मम सखा सम्बन्धी शिष्य एव च।  
 मांसान्युत्कृत्य दास्येऽहम् अर्जुनार्थे महीपते॥२४॥
-
-[^190]: "ङ—अर्धद्वयं नास्ति"
 
 एष चापि नरव्याघ्रो मत्कृते जीवितं त्यजेत्।  
 एष नस्समयस्तात रमयेम परस्परम्॥२५॥
@@ -20152,11 +19811,7 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ²सत्यमेतन्महाबाहो[^438] यथा वदसि पाण्डव।  
 नाहं शक्यो रणे जेतुं सेन्द्रैरपि सुरासुरैः॥६७॥
 
-[^438]: " घ—अर्धद्वयं नास्ति"
-
 ³आत्तशस्त्रो[^242] रणे यत्तो गृहीतवरकार्मुकः॥६८॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 न्यस्तशस्त्रंहि मां राजन् हन्युर्युधि महारथाः॥६८॥
 
@@ -20182,8 +19837,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹असङ्कल्पध्वजे[^169] तस्मिन् स्त्रीपूर्वे च विशेषतः।  
 न प्रहर्तुमभीप्सामि गृहीतेषुः कथञ्चन॥७५॥
-
-[^169]: "घ—अर्धचतुष्टयं नास्ति"
 
 तदन्तरं समासाद्य पाण्डवो मां धनञ्जयः।  
 शरैर्घातयतु क्षिप्रं समन्ताद्भरतर्षभ॥७६॥
@@ -20281,17 +19934,17 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि त्र्यधिकशततमोऽध्यायः॥ १०३॥ \*[^672]  
 ॥ ६४॥ भीष्मवधपर्वणि त्रिषष्टितमोऽध्यायः॥ ६३॥  
 \[ अस्मिन्नध्याये १०१ लोकाः\]  
-![](../books_images/U-IMG-1706027097मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706027097मम.png"/>
 
 [^672]: "अ–क—नवमापहारः इति वर्तते"
 
 ॥चतुरधिकशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1706027391नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1706027391नन.png"/>
 
  भीष्मयुद्धम्॥ १॥ शिखण्डिनो भीष्मेण सह संवादो युद्धसन्नाहश्च॥
 
-![](../books_images/U-IMG-1706027369मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706027369मम.png"/>
 
 धृतराष्ट्रः—
 
@@ -20334,8 +19987,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 पुत्रैस्तव दुराधर्षे रक्षितस्सुमहाबलः।  
 ²प्रययौ[^535] पाण्डवानीकं भीष्मश्शन्तनुनन्दनः॥१२॥
-
-[^535]: "ख–घ—इदमर्धं नास्ति"
 
 ततो द्रोणो महेष्वासः पुत्रश्चास्य महाबलः।  
 भगदत्तस्ततः पश्चाद् गजानीकेन संवृतः॥१३॥
@@ -20509,13 +20160,13 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि चतुरधिकशततमोऽध्यायः॥१०४॥  
 ॥६४॥भीष्मवधपर्वणि चतुष्षष्टितमोऽध्यायः॥६४॥  
 \[ अस्मिन्नभ्याये ६० श्लोकाः \]  
-![](../books_images/U-IMG-1706022916मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1706022916मम.png"/>  
 **॥पञ्चाधिकशततमोऽध्यायः॥**  
-![](../books_images/U-IMG-1706022962bbbb.png)
+<MISSING_FIG href="../books_images/U-IMG-1706022962bbbb.png"/>
 
  भीष्मदुर्योधनसंवादः॥१॥भीष्मपराक्रमवर्णनम्॥२॥
 
-![](../books_images/U-IMG-1706022975मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706022975मम.png"/>
 
 धृतराष्ट्रः—
 
@@ -20550,8 +20201,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 दशमेऽहनि सम्प्राप्ते ¹भीष्मः[^678] कालाग्निसन्निभः।  
 ²ददाह[^146] समरे वीरान् पाञ्चालान् पाण्डुसैनिकान्॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 [^678]: "ख–ग—युध्यन्तं परवाहिनीम् घ–ङ–म—तताप रिपुवाहिनीम्"
 
@@ -20589,8 +20238,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 सात्यकिश्चेकितानश्च माद्रीपुत्रौ च पाण्डवौ।  
 ¹अभिमन्युश्च[^129] विक्रान्तो वाहिनीं दहते मम॥२०॥
-
-[^129]: "घ—अर्धद्वयं नास्ति"
 
 धृष्टद्युम्नस्तथा शूरो राक्षसश्च घटोत्कचः।  
 विद्रावयेते सहसा सैन्यं मम महारणे॥२१॥
@@ -20643,8 +20290,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ²अकम्पयद्दुराधर्षश[^146]्शरैस्सन्नतपर्वभिः।  
 अनीकमध्ये तिष्ठन्तं गाङ्गेयं भरतर्षभ।३३॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 आशीविषमिव क्रुद्धं पाण्डवाः प्रत्यवारयन्॥३४॥  
 दशमेऽहनि तस्मिंस्तु दर्शयञ् शक्तिमात्मनः।
 
@@ -20677,15 +20322,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि पञ्चाधिकशततमोऽध्यायः॥ १०५॥  
 ॥६४॥ भीष्मवधपर्वणि पञ्चषष्टितमोऽध्यायः॥ ६५॥  
 \[ अस्मिन्नध्याये ४२ श्लोकाः \]  
-![](../books_images/U-IMG-1706021597मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1706021597मम.png"/>
 
 ॥षडधिकशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705980712ननन.png)
+<MISSING_FIG href="../books_images/U-IMG-1705980712ननन.png"/>
 
 अर्जुनदुश्शासनयुद्धम्॥
 
-![](../books_images/U-IMG-1705980723ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705980723ववव.png"/>
 
 सञ्जयः—
 
@@ -20740,8 +20385,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मस्य वधमिच्छन्तं पाण्डवप्रीतिकाम्यया॥१४॥
 
 ²अभिमन्युं[^129] महाराज यान्तं भीष्मरथं प्रति।
-
-[^129]: "घ—अर्धद्वयं नास्ति"
 
 सुदक्षिणो महावीर्यः काम्भोजः प्रत्यवारयत्॥१५॥
 
@@ -20802,8 +20445,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 तौ तथा जातसंरम्भावन्योन्यवधकाङ्क्षिणौ।  
 ¹दुश्शासनार्जुनौ[^146] वीरौ वृत्रेन्द्रसमतेजसौ ॥३०॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 समीयतुर्महासङ्ख्ये यमशक्रोयथा पुरा।  
 दुश्शासनो महाराज पाण्डवं निशितैस्त्रिभिः॥३१॥
@@ -20874,15 +20515,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि षडधिकशततमोऽध्यायः॥ १०६॥  
 ॥६४॥ भीष्मवधपर्वणि षट्षष्टितमोऽध्यायः॥ ६६॥  
 \[ अस्मिन्नध्याये ५० श्लोकाः\]  
-![](../books_images/U-IMG-1705933258मम.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705933258मम.png"/>  
 
 ॥सप्ताधिकशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705933288नन.png)
+<MISSING_FIG href="../books_images/U-IMG-1705933288नन.png"/>
 
 इन्द्रयुद्धम्॥
 
-![](../books_images/U-IMG-1705933312मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705933312मम.png"/>
 
 सञ्जयः—
 
@@ -20913,8 +20554,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 तस्य प्राग्ज्योतिषो राजा माधवस्य महद्धनुः।  
 ¹चिच्छेद[^626] शितधारेण भल्लेन कृतहस्तवत्॥९॥
-
-[^626]: "ख—नास्तीदमर्धम्"
 
 अथान्यद्धनुरादाय वेगवत् परवीरहा।  
 भगदत्तं रणे क्रुद्धो विव्याध निशितैश्शरैः॥१०॥
@@ -20954,12 +20593,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹आर्जुनिं[^350] नृपतिर्विद्ध्वाशरैस्सन्नतपर्वभिः।  
 पुनरेव चतुष्षष्ट्या राजन् विव्याध तं नृप॥२०॥
 
-[^350]: "अ–क—अर्धचतुष्टयं नास्ति"
-
 ²सुदक्षिणं[^626] च समरे पुनर्विव्याध पञ्चभिः।  
 सारथिं चास्य नवभिर् इच्छन् भीष्मस्य जीवितम्॥२१॥
-
-[^626]: "ख—नास्तीदमर्धम्"
 
 तयुद्धमासीत् सुमहत् तयोः पुरुषसिंहयोः।
 
@@ -21034,8 +20669,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹तथैव[^519] पार्षतो राजन् हार्दिक्यं नवभिश्शरैः।  
 विव्याध निशितैस्तीक्ष्णैः कङ्कपत्रैरजिह्मगैः॥४३॥
 
-[^519]: "अ–क—अर्धपञ्चकं नास्ति"
-
 तयोस्समभवद्युद्धं भीष्महेतोर्महाहवे।  
 अन्योन्यं निघ्नतोर्बाणैर् यथा वृत्रमहेन्द्रयोः॥४४॥
 
@@ -21057,8 +20690,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹भीमो[^272] भीष्मवधे यत्तस् सौमदत्तिं महारथम्।  
 तदा भीष्मजये गृध्नुस् सौमदत्तिश्च पाण्डवम्॥४९॥
 
-[^272]: "घ—अर्धत्रयं नास्ति"
-
 ²अयोधयेतां[^701] समरे तुल्यवेगौ नरोत्तमौ॥५०॥
 
 [^701]: "अ–क—अन्योन्यं समरे शूरौ जघ्नतुश्च परन्तपौ।  [पाठान्तरम् ]"
@@ -21074,8 +20705,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ³सा[^64] सेना महती राजन् पाण्डुपुत्रस्य संयुगे।  
 द्रोणेन वारिता यत्ता न चचाल पदात् पदम्॥५३॥
 
-[^64]: "अ—अर्धषट्कं नास्ति"
-
 चेकितानं रणे क्रुद्धं भीष्मं प्रति जनेश्वर।  
 चित्रसेनस्सुतस्तुभ्यं क्रुद्धश्शूरमुपाद्रवत्॥५४॥
 
@@ -21085,8 +20714,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 [^703]: "घ–म—अर्धद्वयं नास्ति"
 
 ¹तथैव[^245] चेकितानोऽपि चित्रसेनमयोधयत्॥५६॥
-
-[^245]: "ख—इदमर्धं नास्ति"
 
 तदाऽऽसीत् तुमुलं युद्धं तयोस्तत्व महात्मनोः॥५६॥
 
@@ -21114,14 +20741,14 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि सप्ताधिकशततमोऽध्यायः॥ १०७॥  
 ॥६४॥ भीष्मवधपर्वणि सप्तषष्टितमोऽध्यायः॥ ६७॥  
 \[अस्मिन्नध्याये ६१॥ श्लोकाः\]  
-![](../books_images/U-IMG-1705930904मम.png)
+<MISSING_FIG href="../books_images/U-IMG-1705930904मम.png"/>
 
 ॥अष्टाधिकशततमोऽध्यायः॥  
-![](../books_images/U-IMG-1705550468mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705550468mmm.png"/>
 
  द्रोणेनाश्वस्थामानं प्रति दुर्निमित्तप्रदर्शनपूर्वकं युद्धानुशासनम्॥
 
-![](../books_images/U-IMG-1705470781ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705470781ववव.png"/>
 
 सञ्जयः—
 
@@ -21152,8 +20779,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 शिवाश्चाप्यशिवा घोरा वेदयाना महद्भयम्।  
 ¹ववाशिरे[^146] भयकरा दीप्तास्याभिमुखे रवेः॥८॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 पपात महती चोल्का मध्येनादित्यमण्डलम्।  
 सकबन्धस्सपरिघो भानुमानुदतिष्ठत॥९॥
@@ -21192,8 +20817,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 एतद्विचिन्तयानस्य प्रज्ञा सीदति मे भृशम्।  
 ¹रिपुं[^146] प्रमुखतस्स्थाप्य भीष्मस्य सुमहात्मनः॥२०॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 अयं भीष्मं रणे पार्थः पातयेत रथोत्तमात्॥२१॥
 
@@ -21278,21 +20901,19 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹पुत्रं[^244] समनुशास्यैवं भारद्वाजः प्रतापवान्।  
 महारणे महाराज धर्मराजमयोधयत्॥४४॥
 
-[^244]: "अ–क–ख—अर्धद्वयं नास्ति"
-
 इति श्रीमहाभारते शतसहस्रिकायां संहितायां वैयासिक्यां  
 भीष्मपर्वणि अष्टाधिकशततमोऽध्यायः॥१०८॥  
 ॥६४॥भीष्मवधपर्वणि अष्टषष्टितमोऽध्यायः॥६८॥  
 \[ अस्मिन्नध्याये ४४ श्लोकाः \]  
-![](../books_images/U-IMG-1705377517ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705377517ववव.png"/>  
 
 ॥नवाधिकशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705377505mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705377505mmm.png"/>
 
 भीमसेनपराक्रमवर्णनम्॥
 
-![](../books_images/U-IMG-1705377493ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705377493ववव.png"/>
 
 सञ्जयः—
 
@@ -21308,12 +20929,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 शल्यस्तु नवभिर्बाणैर् भीमसेनमताडयत्।  
 ¹कृतवर्मा[^405] त्रिभिर्बाणैः कृपश्च नवभिश्शरैः॥४॥
 
-[^405]: "अ–क–ख—अर्धचतुष्टयं नास्ति"
-
 ²चित्रसेनो[^618] विकर्णश्च भगदत्तश्च वीर्यवान्।  
 दशभिर्दशभिर्बाणैर् भीमसेनमताडयन्॥५॥
-
-[^618]: "ङ–म—अर्धत्रयं नास्ति"
 
 ³सैन्धवश्च[^717] त्रिभिर्बाणैर् भीमसेनमताडयत्॥५॥
 
@@ -21321,10 +20938,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ⁴विन्दानुविन्दावावन्त्यौ[^525] पञ्चभिः पञ्चभिश्शरैः।  
 ^(5[^258])दुर्मर्षणश्च[^258] विंशत्या बाणैस्सन्नतपर्वभिः॥६॥
-
-[^258]: "घ—नास्तीदमर्धम्"
-
-[^525]: "ङ–म—नास्तीदमर्धम्"
 
 ⁶स[^721] तान् राजन् महाराज भ्राजमानान् पृथक् पृथक्।  
 प्रवीरान् सर्वलोकस्य धार्तराष्ट्रान् महारथान्॥७॥
@@ -21335,8 +20948,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ⁷शल्यं[^245] च पञ्चविंशत्या विध्वा बाणैस्सुपर्वभिः।  
 विव्याध निशितैर्बाणैः कृतवर्माणमष्टभिः॥९॥
-
-[^245]: "ख—इदमर्धं नास्ति"
 
 कृपस्य सशरं चापं मध्ये चिच्छेद भारत।  
 अथैनं छिन्नधन्वानं पुनर्विव्याध पञ्चभिः॥१०॥
@@ -21352,8 +20963,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 स विद्धो दशभिर्बाणैस् तोत्रैरिव महाद्विपः।  
 ¹व्यनदत्[^250] समरे शूरस् सिंहवद्रणमूर्धनि॥१४॥
-
-[^250]: "घ–ङ–म—नास्तीदमर्धम्"
 
 ततः क्रुद्धो महाराज भीमसेनः प्रतापवान्।  
 गौतमं ताडयामास शरैर्बहुभिराहवे॥१५॥
@@ -21398,8 +21007,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹भगदत्तं[^146] तथा वीरः कृतवर्माणमाहवे।  
 तथेतरान् महेष्वासांस् विभिस्त्रिभिरजिह्मगैः॥२८॥
-
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
 
 ताडयामास समरे सिंहवद्विननाद च॥२८॥
 
@@ -21462,8 +21069,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 तथेतराञ् शरान् घोराञ् शरैस्सन्नतपर्वभिः।  
 ²भीमसेनो[^144] रणश्लाघी त्रिधैकैकं समाच्छिनत्॥४५॥
 
-[^144]: "अ–क—अर्धत्रयं नास्ति"
-
 तांश्च सर्वान् महेष्वासांस् त्रिभिस्त्रिभिरताडयत्॥४६॥
 
 ततो धनञ्जयस्तत्रवर्तमाने महारणे।  
@@ -21503,15 +21108,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि नवाधिकशततमोऽध्यायः॥ १०९॥  
 ॥६४॥ भीष्मवधपर्वणि एकोनसप्ततितमोऽध्यायः॥ ६९॥  
 \[ अस्मिन्नध्याये ५५ श्लोकाः \]  
-![](../books_images/U-IMG-1705375303ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705375303ववव.png"/>  
 
 **॥दशाधिकशततमोऽध्यायः॥**  
 
-![](../books_images/U-IMG-1705375317ललल.png)
+<MISSING_FIG href="../books_images/U-IMG-1705375317ललल.png"/>
 
 भीष्मार्जुनपराक्रमवर्णनम्॥
 
-![](../books_images/U-IMG-1705375351ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705375351ववव.png"/>
 
 सञ्जयः—
 
@@ -21619,8 +21224,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 त्रिभिर्गाण्डीवधन्वानं वासुदेवं च पञ्चभिः।  
 ¹भीमसेनं[^129] च नवभिर् बाहोरुरसि चार्पयत्॥३०॥
 
-[^129]: "घ—अर्धद्वयं नास्ति"
-
 ततो द्रोणो महाराज मागधश्च महारथः।  
 दुर्योधनसमादिष्टौ तं देशमुपजग्मतुः॥३१॥
 
@@ -21688,15 +21291,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि दशाधिकशततमोऽध्यायः॥११०॥  
 ॥६४॥भीष्मवधपर्वणि सप्ततितमोऽध्यायः॥७०॥  
 \[ अस्मिन्नध्याये ४८॥श्लोकाः\]  
-![](../books_images/U-IMG-1705299829ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705299829ववव.png"/>  
 
 ॥एकादशाधिकशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705299817mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705299817mmm.png"/>
 
  युद्धे विरक्तेन भीष्मेण युधिष्ठिरं प्रति स्ववधोद्यमचोदना॥
 
-![](../books_images/U-IMG-1705299805ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705299805ववव.png"/>
 
 धृतराष्ट्रः—
 
@@ -21719,8 +21322,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹कुरुभिस्सहितं[^677] भीष्मं युध्यमानं महारथम्।  
 अर्जुनं च सपाञ्चाल्यंदृष्ट्वा संशयिता जनाः॥६॥
-
-[^677]: "ङ—अर्धचतुष्टयं नास्ति"
 
 दशमेऽहनि तस्मिंस्तु भीष्मार्जुनसमागमे।  
 अवर्तत महारौद्रस् सततं समिति क्षयः॥७॥
@@ -21775,12 +21376,8 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹तथा[^242] तु समयं कृत्वा दशमेऽहनि पाण्डवाः।  
 ब्रह्मलोकं जेतुकामास् सञ्जग्मुः क्रोधमूर्च्छिताः॥२१॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 ²शिखण्डिनं[^242] पुरस्कृत्य पाण्डवं च धनञ्जयम्।  
 भीष्मस्य पातने यत्नं परमं ते समास्थिताः॥२२॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 ³ततस्तव[^740] सुतादिष्टा नानाजनपदेश्वराः।  
 द्रोणेन सहपुत्रेण सहसेना महाबलाः॥२३॥
@@ -21859,15 +21456,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि एकादशाधिकशततमोऽध्यायः॥ १११॥  
 ॥ ६४॥ भीष्मवधपर्वणि एकसप्ततितमोऽध्यायः॥ ७९॥  
 \[ अस्मिन्नध्याये ४३ श्लोकाः \]  
-![](../books_images/U-IMG-1705298418ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705298418ववव.png"/>
 
 ॥द्वादशोत्तरशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705297912mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705297912mmm.png"/>
 
 सङ्कुलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1705297978ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705297978ववव.png"/>
 
 सञ्जयः—
 
@@ -22018,8 +21615,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ²द्रोणः[^717] पाञ्चालपुत्रेण समागम्य महारणे।  
 महासमुदयं चक्रे शरैस्सन्नतपर्वभिः॥४३॥
 
-[^717]: "ग—नास्तीदमर्धम्"
-
 ततो द्रोणो महाबाहुर् पार्षतस्य महद्धनुः।  
 छित्त्वा पञ्चशतेषूंश्च पार्षतं प्रति सृष्टवान्॥४४॥
 
@@ -22106,8 +21701,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹अमोघान्यपतन[^272]् बाणाः पितुस्ते भरतर्षभ।  
 नासज्जन्त शरीरेषु भीष्मचापच्युताश्शराः॥७१॥
 
-[^272]: "घ—अर्धत्रयं नास्ति"
-
 निर्मनुष्यान् रथान् राजन् सुयुक्ताञ्जवनैर्हयैः।  
 वातायमानान् पश्यामो ह्रियमाणान् विशां पते॥७२॥
 
@@ -22137,15 +21730,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि द्वादशाधिकशततमोऽध्यायः॥ ११२॥  
 ॥ ६४॥ भीष्मवधपर्वणि द्विसप्ततितमोऽध्यायः॥ ७२॥  
 \[अस्मिन्नध्याये ७८॥ श्लोकाः\]  
-![](../books_images/U-IMG-1705295596ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705295596ववव.png"/>  
 
 ॥त्रयोदशाधिकशततमोऽध्यायः॥
 
-![](../books_images/U-IMG-1705295665ललल.png)
+<MISSING_FIG href="../books_images/U-IMG-1705295665ललल.png"/>
 
 सङ्कुलयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1705295698ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705295698ववव.png"/>
 
 सञ्जयः—
 
@@ -22330,8 +21923,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ²मध्येन[^242] कुरुसैन्यानां पाण्डवानां च भारत॥५१॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 तस्मिन्नतिमहाभीमे राजन् वीरवरक्षये।  
 भीष्मं प्रति पराक्रान्ताः पाण्डवास्सह सृञ्जयैः॥५२॥
 
@@ -22341,13 +21932,9 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 इच्छन्तो निधनं युद्धे स्वर्गलोकपरायणाः।  
 ³पाण्डवानभ्यवर्तन्त[^242] तावका युद्धदुर्मदाः॥५४॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 पाण्डवाश्च महाराज स्मरन्तो विविधान् बहून्।
 
 ¹क्लेशान्[^144] कृतान् सपुत्रेण त्वया पूर्वं नराधिप॥५५॥
-
-[^144]: "अ–क—अर्धत्रयं नास्ति"
 
 भयं त्यक्त्वा रणे शूरास् स्वर्गलोकपुरस्कृताः।  
 तावकांस्तव पुत्रांश्च योधयन्ति स्म हृष्टवत्॥५६॥
@@ -22372,8 +21959,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ³तद्धताश्वरथौघानां[^242] रुधिरेण समुक्षितम्।  
 छन्नमायोधनं रेजे रक्ताभ्रमिव चाम्बरम्॥६२॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 श्वानः काकाश्च गृध्राश्च वृका गोमायुभिस्सह।  
 प्रणेदुर्भक्षमासाद्य विविधाश्च मृगद्विजाः॥६३॥
 
@@ -22385,8 +21970,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 श्वेतच्छत्रसहस्राणि[^267] सध्वजाश्च महारथाः।  
 विकीर्णास्समदृश्यन्त शतशोऽथ सहस्रशः॥६६॥
-
-[^267]: "घ—पञ्चार्धानि न सन्ति"
 
 सपताकाश्च मातङ्गा दिशो जग्मुश्शरातुराः॥६६॥
 
@@ -22413,8 +21996,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ⁴सेनापतिवचश्श्रुत्वा[^190] सोमकास्सह सृञ्जयैः।
 
-[^190]: "ङ—अर्धद्वयं नास्ति"
-
 अभ्यद्रवन्त गाङ्गेयं शस्त्रवृष्ट्या समन्ततः॥७१॥
 
 तदा भीष्मो महाराज दिव्यमस्त्रमुदीरयन्।  
@@ -22430,15 +22011,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि त्रयोदशोत्तरशततमोऽध्यायः॥ ११३॥  
 ॥ ६४॥ भीष्मवधपर्वणि त्रिसप्ततितमोऽध्यायः॥ ७३॥  
 \[ अस्मिन्नध्याये ७४॥ श्लोकाः \]  
-![](../books_images/U-IMG-1705232286ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705232286ववव.png"/>  
 
 ॥चतुर्दशोत्तरशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705232303mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705232303mmm.png"/>
 
 भीष्मपराक्रमवर्णनम्॥
 
-![](../books_images/U-IMG-1705232334ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705232334ववव.png"/>
 
 सञ्जयः—
 
@@ -22510,8 +22091,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 शतानीकं च समरे हत्वा भीष्मः प्रतापवान्।  
 ³सहस्राणि[^663] महाराज राज्ञां भल्लैरपातयत्॥१८॥
 
-[^663]: "अ–क–घ—नास्तीदमर्धम्"
-
 ये च केचन पाण्डूनाम् अन्वगीयुर्धनञ्जयम्।  
 राजानो भीष्ममासाद्य गतास्ते यमसादनम्॥१९॥
 
@@ -22552,8 +22131,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹तथा[^246] पुनर्जघानाशु पाण्डवानां महारथान्।  
 शरैरशनिकल्पैश्च शिताग्रैश्च सुपर्वभिः॥२९॥
 
-[^246]: "ख–घ–ङ–म—अर्धद्वयं नास्ति"
-
 ततः पाञ्चालराजश्च धृष्टकेतुश्च वीर्यवान्।  
 पाण्डवो भीमसेनश्च धृष्टद्युम्नश्च पार्षतः॥३०॥
 
@@ -22568,8 +22145,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ²अथोद्यता[^246] महाराज प्रगृहीत शरासनाः।  
 रणोद्यतंमहावीरं भीष्ममेवाभिदुद्रुवुः॥३४॥
-
-[^246]: "ख–घ–ङ–म—अर्धद्वयं नास्ति"
 
 ततश्शिखण्डी वेगेन प्रगृह्य परमायुधम्।  
 भीष्ममेवाभिदुद्राव रक्ष्यमाणः किरीटिना॥३५॥
@@ -22615,11 +22190,11 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि चतुर्दशाधिकशततमोऽध्यायः॥११४॥  
 ॥६४॥भीष्मवधपर्वणि चतुस्सप्ततितमोऽध्यायः॥७४॥  
 \[ अस्मिन्नध्याये ४६॥श्लोकाः \]  
-![](../books_images/U-IMG-1705230346ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705230346ववव.png"/>  
 
 **॥पञ्चदशोत्तरशततमोऽध्यायः॥**  
 
-![](../books_images/U-IMG-1705230335ललल.png)
+<MISSING_FIG href="../books_images/U-IMG-1705230335ललल.png"/>
 
 भीष्मनिपातः॥
 
@@ -22658,8 +22233,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹भीमघोषैर्महावेगैर[^242]् मर्मावरणभेदिभिः।  
 षडेतान् षड्भिरानर्छद् भास्करप्रतिमैश्शरैः॥१०॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 तस्य ते निशितान् बाणान् सन्निवार्य महारथाः।  
 ²दशभिर्दशभिर्भीष्मम्[^778] अर्दयामासुरोजसा॥११॥
 
@@ -22670,7 +22243,7 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ततः किरीटी संरब्धो भीष्ममेवाभ्यवर्तत।
 
-![](../books_images/U-IMG-1707475640Screenshot2024-01-08164655.jpg)1. अ-क—नास्तीदमर्धम्     2. अ--षडर्धानि न सन्ति
+<MISSING_FIG href="../books_images/U-IMG-1707475640Screenshot2024-01-08164655.jpg"/>1. अ-क—नास्तीदमर्धम्     2. अ--षडर्धानि न सन्ति
 
 शिखण्डिनं पुरस्कृत्य धनुश्चास्य समाच्छिनत्॥१३॥
 
@@ -22701,9 +22274,7 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 अभिमन्युश्च सङ्क्रुद्धस् सप्तैते क्रोधमूर्च्छिताः।  
 ²समभ्यधावंस्त्वरिताश्[^242] चित्रकार्मुकधारिणः॥२१॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
-![](../books_images/U-IMG-1707474841Screenshot2024-01-08164655.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1707474841Screenshot2024-01-08164655.jpg"/>
 
 1\. घ—इतस्सप्तदशार्धानि न सन्ति
 
@@ -22852,11 +22423,7 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 स तेनाभिहतस्सङ्ख्ये भीष्मः कुरुपितामहः।  
 ¹नाकम्पत[^146] महाराज क्षितिकम्पे यथाऽचलः॥४६॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 ²शिखण्डिनि[^242] रणे बाणं न मुमोच नराधिप॥४६॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 ततः प्रहस्य बीभत्सुर् व्याक्षिपद् गाण्डिवं धनुः।  
 गाङ्गेयं पञ्चविंशत्या क्षुद्रकाणां समार्पयत्॥४७॥
@@ -22931,14 +22498,10 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ²इमे[^571] कृन्तन्ति गात्राणि माघमासे गवामिव।  
 अर्जुनस्य इमे बाणा नेमे बाणाश्शिखण्डिनः॥६५॥
 
-[^571]: "ख—इदमर्धत्रयं नास्ति"
-
 निकृन्तमाना मर्माणि दृढावरणभेदिनः।  
 मुसलानीव निघ्नन्ति नेमे बाणाश्शिखण्डिनः॥६६॥
 
 ³ब्रह्मदण्डसमस्पर्शा[^129] वज्रवेगा दुरासदाः।
-
-[^129]: "घ—अर्धद्वयं नास्ति"
 
 ——————————————————————————————————————————————————————
 
@@ -22960,8 +22523,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹अर्जुनस्समरश्लाघी[^146] विननाद महाबलः॥७०॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 चर्म चादत्त गाङ्गेयो जातरूपपरिष्कृतम्।  
 खड्ङ्गं चान्यतरप्रेप्सुर् मृत्योर जयाय वा॥७१॥
 
@@ -22970,8 +22531,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 स सिंहवद् विनद्योच्चैस् स्वान्यनीकानि हर्षयन्।  
 ²अब्रवीत्[^304] परमक्रुद्धो जयेप्सुस्संयुगेऽर्जुनः॥७३॥
-
-[^304]: "ख–ग–घ–ङ–म—नास्तीदमर्धम्"
 
 अर्जुनः—
 
@@ -23007,8 +22566,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹तथा[^246] च तव सैन्यानि तापयामासुरोजसा।  
 शरैरशनिसङ्काशैः पाण्डवाश्चेतरे नृपाः॥८३॥
-
-[^246]: "ख–घ–ङ–म—अर्धद्वयं नास्ति"
 
 तत्राद्भुतमपश्याम पाण्डवानां पराक्रमम्।  
 द्रावयामासुरिषुभिस् सर्वान् भीष्मपदानुगान्॥८४॥
@@ -23082,8 +22639,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 कथं महात्मा गाङ्गेयस् सर्वशस्त्रभृतां वरः।  
 ¹कथं[^146] ह्यकाले पतितः सर्वधर्मभृतां वरः॥१०३॥
 
-[^146]: "ख–घ–ङ–म—इदमर्धं नास्ति"
-
 कालकर्ता नरव्याघ्रस् सम्प्राप्ते दक्षिणायने॥१०३॥
 
 सञ्जयः—
@@ -23097,8 +22652,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ²एवं[^246] वदन् महाप्राज्ञः शरतल्पगतश्चिरम्।  
 उत्तरायणमन्विच्छद् भीष्मः कुरुपितामहः॥१०६॥
-
-[^246]: "ख–घ–ङ–म—अर्धद्वयं नास्ति"
 
 तस्य तं मतमाज्ञाय गङ्गा हिमवतस्सुता।  
 महर्षीन् हंसरूपेण प्रेषयामास तत्र वै॥१०७॥
@@ -23139,16 +22692,12 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ²तस्मात्[^242] प्राणान् धारयिष्ये मुमूर्षुरुदगायने॥११६॥
 
-[^242]: "अ–क—नास्तीदमर्धम्"
-
 यश्च दत्तो वरो मह्यं पित्रा तेन महात्मना।
 
 छन्दतस्ते भवेन्मृत्युर् इति तत् सत्यमस्तु मे॥११७॥
 
 ¹धारयिष्ये[^728] ततः प्राणान् उत्सर्गे नियते सति।  
 इत्युक्तास्ते गता हंसास्स शेते शरतल्पगः॥११८॥
-
-[^728]: "अ–क—नास्तीदमर्धम् "
 
 एवं कुरूणां पतिते शृङ्गे भीष्मे महौजसि।  
 पाण्डवास्सृञ्जयश्चैव सिंहनादं प्रचक्रिरे॥११९॥
@@ -23204,15 +22753,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि पञ्चदशोत्तरशततमोऽध्यायः॥११५॥  
 ॥६४॥भीष्मवधपर्वणि पञ्चसप्ततितमोऽध्यायः॥७५॥  
 \[ अस्मिन्नध्याये १३२ श्लोकाः\]  
-![](../books_images/U-IMG-1705224210ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705224210ववव.png"/>
 
 **॥षोडशोत्तरशततमोऽध्यायः॥**  
 
-![](../books_images/U-IMG-1705220775ननन.png)
+<MISSING_FIG href="../books_images/U-IMG-1705220775ननन.png"/>
 
  कुरुपाण्डवैरन्यै राजभिश्च भीष्माभिवादनम्॥१॥अर्जुनेन भीष्माय बाणमयोपधानसमर्पणम्॥२॥
 
-![](../books_images/U-IMG-1705220786ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705220786ववव.png"/>
 
 धृतराष्ट्र—
 
@@ -23270,8 +22819,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 सञ्जयः—
 
 ¹इति[^242] स्म शरतरूपस्थं भरतानां पितामहम्।
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 ऋषयःप्रत्यभाषन्त सहितास्सिद्धचारणैः॥१५॥
 
@@ -23375,8 +22922,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 तमब्रवीच्छान्तनवश् शिरो मे तात लम्बते।  
 ¹दीयतामुपधानं[^242] मे यद् युक्तमिह मन्यसे॥४१॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 उपधानं कुरुश्रेष्ठ उपधेहि ममार्जुन।  
 वीरशय्यानुरूपं वै शीघ्रं वीर प्रयच्छ मे॥४२॥
@@ -23499,15 +23044,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि षोडशाधिकशततमोऽध्यायः॥ ११६॥  
 ॥६४॥ भीष्मवधपर्वणि षट्सप्ततितमोऽध्यायः॥ ७६॥  
 \[ अस्मिन्नध्याये ७१॥ श्लोकाः \]  
-![](../books_images/U-IMG-1705218636ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705218636ववव.png"/>
 
 ॥सप्तदशोत्तरशततमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705218198mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1705218198mmm.png"/>
 
  तृषार्तेन भीष्मेन पानीययाचनम्॥ १॥ राजभिः कलशेनानीते जले भीष्मेण तन्निन्दनपूर्वकमर्जुनं प्रति याचनम्॥ २॥ अर्जुनेन पर्जन्यास्त्रेण भूमिं भित्त्वोत्थापितसलिलधारया भीष्मस्य तृष्णाशमनम्॥ ३॥ भीष्मेण दुर्योधनं प्रति अर्जुनप्रशंसनपूर्वकं पाण्डवैः सह शमोपदेशः॥ ४॥
 
-![](../books_images/U-IMG-1705218232ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705218232ववव.png"/>
 
 सञ्जयः—
 
@@ -23519,8 +23064,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 कन्याश्चन्दनचूर्णैश्च लाजैर्माल्यैश्च सर्वशः।  
 ¹अवाकिर[^141]ञ्छान्तनवं तत्र गत्वा पितामहम्॥३॥
-
-[^141]: "ख—इदमर्धंनास्ति"
 
 स्त्रियो बालाश्च वृद्धाश्च प्रेक्षकाश्च पृथग्जनाः।  
 तमभ्ययुश्शान्तनवं भूतानीव तमोनुदम्॥४॥
@@ -23578,8 +23121,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 ¹अथोपेत्य[^810] महाबाहुर् ²अर्जुनस्सर्वधर्मवित्[^541]।  
 प्रदक्षिणीकृत्य तदा अभिवाद्य पितामहम्॥१७॥
-
-[^541]: "ख–ग–घ–ङ–म—अयं पादोऽनन्तरश्च न स्तः"
 
 [^810]: "घ—स गत्वा त्वरित दूतो कौन्तेयाय न्यवेदयत्।   [अधिकः पाठः]"
 
@@ -23640,8 +23181,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 वासुदेवसहायस्त्वं महत् कर्म करिष्यसि।  
 ¹यन्नोत्सहेत[^242] देवेन्द्रस् सह देवैरपि ध्रुवम्॥३३॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 विदुस्त्वां निधनं पार्थ सर्वक्षत्रस्य धन्विनः।  
 धनुर्धराणामेकस्त्वं पृथिव्यां प्रवरो नृषु॥३४॥
@@ -23709,8 +23248,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ¹यावच्चमूं[^292] महाराज नाशयन्ति न पाण्डवाः।  
 तावत् ते पाण्डवैस्सार्धं सौभ्रात्रमभिरोचताम्॥५१॥
 
-[^292]: "अ–क—अर्धद्वयं नास्ति"
-
 युद्धं मदन्तमेवास्तु तावत् संशाम्य पाण्डवैः॥५२॥
 
 एतत् ते रोचतां वाक्यं यदुक्तोऽसि मयाऽनघ।  
@@ -23755,15 +23292,15 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 भीष्मपर्वणि सप्तदशाधिकशततमोऽध्यायः॥ ११७॥  
 ॥ ६४॥ भीष्मवधपर्वणि सप्तसप्ततितमोऽध्यायः॥ ७७॥  
 \[ अस्मिन्नध्याये ५८॥ श्लोकाः \]  
-![](../books_images/U-IMG-1705030929ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705030929ववव.png"/>  
 
 **॥अष्टादशोत्तरशततमोऽध्यायः॥**  
 
-![](../books_images/U-IMG-1705030944ललल.png)
+<MISSING_FIG href="../books_images/U-IMG-1705030944ललल.png"/>
 
  अपगतेषु राजसु कर्णेन रहसि भीष्ममेत्य तदभिवादनम्॥ १॥ भीष्मेण कर्णं प्रति तस्य कुन्तीसुतत्वोक्त्या पाण्डवैः सह संगमचोदना॥ २॥ कर्णेन सयुक्तिकं पाण्डवैः सङ्गमस्य दुष्करत्वमभिधाय भीष्मक्षमापनपूर्वकं स्वावासगमनम्॥ ३॥
 
-![](../books_images/U-IMG-1705030987ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1705030987ववव.png"/>
 
 सञ्जयः—
 
@@ -23845,8 +23382,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 अवकीर्णस्त्वहं कुन्त्या सूतेन च विवर्धितः।  
 ²पुरा[^282] दुर्योधनेनाहं स्नेहं वै कृतवान् मुदा॥२२॥
 
-[^282]: "ख–घ–ङ–म—इदमधंचतुष्टयं नास्ति"
-
 तव कार्यं करिष्यामि यद्यत् सर्वं दुरासदम्।  
 इत्येवं वै प्रतिज्ञातं वचनं वै सुयोधने॥२३॥
 
@@ -23858,8 +23393,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 कोपिताः पाण्डवा नित्यं मयाऽऽश्रित्य सुयोधनम्।  
 ³अवश्यभावी[^519] यश्चार्थस् स न शक्यो निवर्तितुम्॥२६॥
 
-[^519]: "अ–क—अर्धपञ्चकं नास्ति"
-
 दैवं पुरुषकारेण को निवर्तितुमुत्सहेत्॥२६॥
 
 पृथिवीक्षयशंसीनि निमित्तानि पितामह।  
@@ -23869,8 +23402,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 
 अजेयाः पुरुषैः पार्था इति पश्चात् सहामहे।  
 ¹अधर्म्यं[^242] व्याधिमरणं क्षत्रियस्य पितामह॥२९॥
-
-[^242]: "अ–क—नास्तीदमर्धम्"
 
 अनुजानीहि मां तात युद्धाय धृतनिश्चयम्।  
 अनुज्ञातस्त्वया वीर युध्येयमिति मे मतिः॥३०॥
@@ -23916,8 +23447,6 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ²तस्मात्[^129] सर्वप्रयत्नेन भारतं भरतर्षभ।  
 शृणुयात् सिद्धिमन्विच्छन्निह चामुत्रमानवः³[^824]॥४१॥
 
-[^129]: "घ—अर्धद्वयं नास्ति"
-
 [^824]: "अ–क—भीष्मपर्वणि राजेन्द्र कथान्ते कुरुनन्दन । ब्राह्मणान् भोजयेन्द्रक्त्या वस्त्रालङ्कारभोजनैः ॥ वकारं पूजयेद्भक्त्या वस्त्रालकरणादिभिः । सफलं स्यात् तच्छ्रवणं भगवान् मोदते भृशम् ॥    [ अधिकः पाठः ]"
 
 ¹भोजनं[^825] भोजयेद्विप्रान् गन्धमाल्यैरलङ्कृतान्।  
@@ -23937,16 +23466,16 @@ Note. The Standard Edition of the Northern Recension is the Poona Edition with B
 ———————————————————————————————————————————  
 
 ॥अस्मिन् भीष्मपर्वणि ५८८४ श्लोकाः॥  
-![](../books_images/U-IMG-1704859422ववव.png)  
+<MISSING_FIG href="../books_images/U-IMG-1704859422ववव.png"/>  
 अतः परं द्रोणपर्व भविष्यति। तस्यायमाद्यश्श्लोकः॥  
-![](../books_images/U-IMG-1704859434mmm.png)
+<MISSING_FIG href="../books_images/U-IMG-1704859434mmm.png"/>
 
 जनमेजयः—
 
 तमप्रतिमसत्त्वौजोबलवीर्यपराक्रमम्।  
 हतं देवव्रतं श्रुत्वा पाञ्चाल्येन शिखण्डिना॥
 
-![](../books_images/U-IMG-1704859451ववव.png)
+<MISSING_FIG href="../books_images/U-IMG-1704859451ववव.png"/>
 
 ———————————————————————————————————————————
 
@@ -23991,4 +23520,3 @@ V. Ramaswamy Sastrulu & Sons, at the 'Vavilla' Press, Madras.
 [TABLE]
 
 \]
-

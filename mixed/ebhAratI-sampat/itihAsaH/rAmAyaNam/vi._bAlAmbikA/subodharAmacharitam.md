@@ -79,7 +79,7 @@ result of the Sanskrit education given to me by my beloved parents out of a true
 
 ***31st October, 1916.***
 
-![](../books_images/U-IMG-1703423413Screenshot2023-12-24183956.png)
+<MISSING_FIG href="../books_images/U-IMG-1703423413Screenshot2023-12-24183956.png"/>
 
 **श्रीशारदायै नमः। **
 

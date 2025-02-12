@@ -79,7 +79,7 @@ would then be realised fully, to the letter and the spirit.
 30th Dec, 1947.                            
                     S. R. T.
 
-![](../../../books_images/1680785037.png)
+<MISSING_FIG href="../../../books_images/1680785037.png"/>
 
 An Outline Map showing Lanka in the Central Provinces.
 
@@ -933,7 +933,7 @@ I have already shown that the struggle between Ramachandra, the Hero of Valmiki'
 
 [^20]: "Annals (B. O. R. I.
 
-Several tribes of Gonds who inhabit this tract callthemselves (1) *Ravana Vamsi* (descendants of Ravana), (2) *Banar Vamsi* (descendants of monkeys), *Komar Vamsi* (descendants of the Kumars, sons of Rajas) and even *Raghu Vamsi* (descendants of Ramachandra, evidently of his followers). They are divided amongst these four principal sections. Although the family of Ravana is called after its progenitor as *Salakatankata*,[^21]")he is said to be born of the family of Pulastya Rishi.[^22] भज विश्रवसं पुत्रिपौलस्त्यं वरय स्वयम् ॥ ( ७-९ - १२ ) दशग्रीवः प्रसूतोऽयं (७-९-३३)")Amongst the Gonds there are 23 *Gotras*:- (1) Agoria, (2) Biyar, (3) Dharkar, (4) Dusadh, (5) Ghasiya, (6) Kamar, (7) Kamarai, (8) Koir, (9) Manaro, (10) Mazi, (11) Moi, (12) Paliha, (13) Panika, (14) Pathari, (15) Pava, (16) Paviya, (17) Raithor, (18) Rajagagon, (19) Sadharan Gon[^23](20) Tavalmanjan, (22) Umrao, (24) Vaiga, (23) Vind.
+Several tribes of Gonds who inhabit this tract callthemselves (1) *Ravana Vamsi* (descendants of Ravana), (2) *Banar Vamsi* (descendants of monkeys), *Komar Vamsi* (descendants of the Kumars, sons of Rajas) and even *Raghu Vamsi* (descendants of Ramachandra, evidently of his followers). They are divided amongst these four principal sections. Although the family of Ravana is called after its progenitor as *Salakatankata*,[^21]")he is said to be born of the family of Pulastya Rishi.[^22] भज विश्रवसं पुत्रिपौलस्त्यं वरय स्वयम् ॥ ( ७-९ - १२ ) दशग्रीवः प्रसूतोऽयं (७-९-३३)")Amongst the Gonds there are 23 *Gotras*:- (1) Agoria, (2) Biyar, (3) Dharkar, (4) Dusadh, (5) Ghasiya, (6) Kamar, (7) Kamarai, (8) Koir, (9) Manaro, (10) Mazi, (11) Moi, (12) Paliha, (13) Panika, (14) Pathari, (15) Pava, (16) Paviya, (17) Raithor, (18) Rajagagon, (19) Sadharan Gon[^23] (20) Tavalmanjan, (22) Umrao, (24) Vaiga, (23) Vind.
 
 [^21]: "Ibid केनचित्वथ कालेन राम सालकटङ्कटा । ( ७-४-२३
 
@@ -1153,4 +1153,3 @@ This also shows that their home were not so far away as is popularly believed.
 4. A presentation Volume to Prof. P. V. Kane, M. A., LL.M.,
 
 \]
-

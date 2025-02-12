@@ -24,7 +24,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ विषयानुक्रमणिका ॥**
 
-![](../books_images/U-IMG-1701360287Untitled.png)  
+<MISSING_FIG href="../books_images/U-IMG-1701360287Untitled.png"/>  
 
 **द्रोणाभिषेकपर्व**
 
@@ -350,7 +350,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ महाभारतम् ॥**
 
-![](../books_images/U-IMG-1707558564त.png)
+<MISSING_FIG href="../books_images/U-IMG-1707558564त.png"/>
 
 **॥ द्रोणपर्व ॥**
 
@@ -358,7 +358,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ प्रथमोऽध्यायः ॥**
 
-![](../books_images/U-IMG-1707558585त.png)
+<MISSING_FIG href="../books_images/U-IMG-1707558585त.png"/>
 
  धृतराष्ट्रेण सञ्जयं प्रति भीष्मपातानन्तरीयकदुर्योधनादिवृत्तान्तप्रश्नः ॥१॥ सञ्जयेन योधानां शरणत्वेन कर्णाह्वाने कथिते धृतराष्ट्रस्य कर्णवृत्तान्तप्रश्नः ॥२॥
 
@@ -556,7 +556,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ द्वितीयोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1701446431Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701446431Untitled.png"/>**
 
 ** कर्णेन पाण्डवोच्छेदनपूर्वकं दुर्योधनाय राज्यदानं प्रतिज्ञाय युद्धायाभियानम्॥**
 
@@ -779,7 +779,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ तृतीयोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1707480335nm.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1707480335nm.png"/>**  
 
 कर्णेन भीष्ममेत्य युद्धानुज्ञायाचनम्॥
 
@@ -872,11 +872,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६५॥ द्रोणाभिषेकपर्वणि तृतीयोऽध्यायः ॥३॥  
 \[ अस्मिन्नध्याये २० श्लोकाः \]**
 
-**![](../books_images/U-IMG-1707480826lk.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1707480826lk.png"/>**  
 
 **॥ चतुर्थोऽध्यायः॥**
 
-![](../books_images/U-IMG-1707481106nm.png)
+<MISSING_FIG href="../books_images/U-IMG-1707481106nm.png"/>
 
 भीष्मानुज्ञातस्य कर्णस्ययुद्धायागमनम्॥
 
@@ -974,7 +974,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ पञ्चमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1701515414Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701515414Untitled.png"/>**
 
  दुर्योधनष्टेन कर्णेन तं प्रति द्रोणस्य सैनापत्यकरणविधानम्॥ १॥  
 दुर्योधनेन द्रोणं प्रति सैनापत्यस्वीकारप्रार्थना॥ २॥ दुर्घोधनेन द्रोणस्य  
@@ -1149,7 +1149,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ षष्ठोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1701535602Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701535602Untitled.png"/>**
 
 **  सञ्जयेन धृतराष्ट्रं प्रति द्रोणपराक्रमवर्णनम्॥**
 
@@ -1312,7 +1312,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ सप्तमोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1701620050Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701620050Untitled.png"/>**
 
 **द्रोणनिधनकथनम्॥**
 
@@ -1467,7 +1467,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ अष्टमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1707495449Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707495449Untitled.png"/>**
 
 द्रोणमरणश्राविणो धृतराष्ट्रस्य तद्गुणानुवर्णनपूर्वकं शोचनम्॥
 
@@ -1638,7 +1638,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ नवमोऽध्यायः ॥**
 
-![](../books_images/U-IMG-1701675511Untitled.png)
+<MISSING_FIG href="../books_images/U-IMG-1701675511Untitled.png"/>
 
 ** द्रोणमरणश्रवणेन मूर्छितस्य धृतराष्ट्रस्य परिचारिकाभिर्जलसेचनादिना समुद्बोधनम् ॥१॥ धृतराष्ट्रेण सञ्जयं प्रति युद्धकथनचोदना ॥२॥**
 
@@ -1937,7 +1937,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ दशमोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1701689510Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701689510Untitled.png"/>**
 
 **धृतराष्ट्रेण प्रसङ्गाद्भक्त्युद्रेकेण श्रीकृष्णचरित्रानुकीर्तनम् ॥१॥ धृत**
 
@@ -2046,8 +2046,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 स[^9] यदा तात संनह्येत् पाण्डवार्थाय केशव।  
 न तदा प्रत्यनीकोऽन्यो भविता तस्य कश्चन॥३२॥
 
-[^9]: "1. अ- क ख ग घ - नास्तीदमर्धम्"
-
 यदि स्म कुरवस्सर्वे जयेयुर्नाम पाण्डवान्।  
 वार्ष्णेयोऽर्थाय तेषां वै गृह्णीयाच्छस्त्रमुत्तमम्॥३३॥
 
@@ -2114,7 +2112,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ एकादशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1701709769Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701709769Untitled.png"/>**
 
  द्रोणचोदितेन दुर्योधनेन युधिष्ठिरस्य जीवग्राहं ग्रहणवरणम् ॥१॥  
 द्नोणेन अर्जुनासन्निधाने तद्ग्रहणे प्रतिज्ञाते दुर्योधनेन तदुद्धोषणम् ॥२॥
@@ -2269,7 +2267,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥** **द्वादशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1701962189Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701962189Untitled.png"/>**
 
 ** अर्जुनेन द्रोणप्रतिज्ञाभीतस्य युधिष्ठिरस्य समाश्वासनम्॥१॥  
  युद्धारम्भो द्रोणपराक्रमश्च ॥२॥**
@@ -2374,11 +2372,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ** ॥ त्रयोदशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1710142434Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1710142434Untitled.png"/>**
 
 ** द्रोणयुद्धं द्वैरथयुद्धमभिमन्युपराक्रमश्च ॥**
 
-![](../books_images/U-IMG-1701965128Untitled.png)
+<MISSING_FIG href="../books_images/U-IMG-1701965128Untitled.png"/>
 
 **सञ्जयः—**
 
@@ -2498,8 +2496,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ऋक्षचर्मपिनद्धौ तु चऋतुस्तौ खरस्वनम्।
 
 बाह्यमाभ्यन्तरं[^26] मार्गं सम्प्लवन्तौयशस्विनौ॥३३॥
-
-[^26]: "1. ङ- नास्तीदमर्धम् "
 
 ददृशाते महात्मानौ सपक्षाविव पर्वतौ।  
 पिशिताशनसंयुक्तौ वाहैरुलवण पातिभिः[^42]॥३४॥
@@ -2691,7 +2687,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ चतुर्दशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1707498400Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707498400Untitled.png"/>**
 
  भीमेन गदायुद्धे शल्यपराजयः ॥
 
@@ -2715,8 +2711,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 सादितं प्रेक्ष्य यन्तारं शल्यस्सर्वायसीं गदाम्।  
 
 समुत्क्षिप्यानदच्छीघ्रं[^39] प्रचस्कन्द रथोत्तमात् ॥५॥
-
-[^39]: "1. ङ - अर्धद्वयं नास्ति"
 
 सौभद्रोऽप्यशनिप्रख्याम् आदाय स्वरथाद् गदाम्।  
 एह्येहीत्याह्वयच्छल्यं यत्राद्भीमेन वारितः ॥६॥
@@ -2855,7 +2849,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ पञ्चदशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1702049975Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702049975Untitled.png"/>**
 
 **द्रोणेन युधिष्टिरग्रहणोद्यमे अर्जुनेन तद्भङ्गः॥**
 
@@ -3087,9 +3081,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 म[^58]
 
-सारगल्लर्कसुवर्णरूप्यैर्  
-
 [^58]: "1. क ज्वलन्मणिस्यूतसुवर्ण, ङ–मसारगल्वर्कसुवर्ण"
+
+सारगल्लर्कसुवर्णरूप्यैर्  
 
 वज्रप्रवालैस्स्फटिकैश्च जुष्टे।  
 तस्मिन् रथे पाण्डुसुतो रराज  
@@ -3109,7 +3103,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ षोडशोऽध्यायः॥**
 
-![](../books_images/U-IMG-1702118635Untitled.png)
+<MISSING_FIG href="../books_images/U-IMG-1702118635Untitled.png"/>
 
 (**संशप्तकवधपर्वं)**
 
@@ -3320,7 +3314,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ सप्तदशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1702139883Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702139883Untitled.png"/>**
 
 **अर्जुनस्य संशप्तकैस्सह युद्धम्॥**
 
@@ -3461,7 +3455,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ अष्टादशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1711184438Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711184438Capture.PNG"/>**
 
 **अर्जुनस्य संशप्तकैः सह युद्धम्॥**
 
@@ -3615,7 +3609,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ एकोनविंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1702220603Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702220603Untitled.png"/>**
 
 **सङ्कुलयुद्धवर्णनम्॥**
 
@@ -3806,8 +3800,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 गजा[^40] निपतितारोहा विकीर्णाङ्कुशतोमराः॥५६॥
 
-[^40]: "1. ङ- नास्तीदमर्धम्"
-
 क्रौञ्चवन्निनदन्तोऽन्ये नाराचाभिहता गजाः।  
 परान् स्वांश्च न जानन्तः परिपेतुर्दिशो दश॥५७॥
 
@@ -3857,7 +3849,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ विंशोऽध्यायः ॥**  
 
-**![](../books_images/U-IMG-1702227761Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702227761Untitled.png"/>**
 
 ** युधिष्ठिरं जिघृक्षतो द्रोणस्य सत्यजिता निरोधः ॥१॥ द्रोणेन सत्यजिति निहते भयाद्युधिष्टिरस्यापयानम् ॥ २॥ पुनर्युधिष्ठिरं जिघृक्षणा द्रोणेन पाञ्चाल्यादीनां हननम् ॥ ३॥**
 
@@ -4020,8 +4012,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 सुवर्मा पञ्चभिश्चैव धृष्टद्युम्नश्च पञ्चभिः।  
 शिखण्डी[^66] नवभिर्बाणैश् चेकितानश्च पञ्चभिः ॥४९॥
 
-[^66]: "1. अ- नास्तीदमर्धम्"
-
 सात्यकिश्च चतुष्पष्टया राजन विव्याधसायकैः॥५०॥
 
 सुचित्रो दशभिर्वाणैर् द्रोणं विद्ध्वाऽनदद्बली।  
@@ -4057,7 +4047,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ एकविंशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1711299620Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711299620Capture.PNG"/>**
 
 ** द्रोणपराक्रमहृष्टेन दुर्योधनेन कर्णं संबोध्य भोमसेनाद्यवज्ञाने कृते कर्णेन भीमादीनां प्रशंसनपूर्वकमनवज्ञेयत्वकथनम् ॥**  
 
@@ -4186,7 +4176,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ द्वाविंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1702289384Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702289384Untitled.png"/>**
 
 **  रथानामश्वध्वजवर्णनम् ॥**
 
@@ -4316,8 +4306,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 श्वेतपुष्करसारस्य[^40] तुल्यवर्णा हयोत्तमाः।  
 जवे श्येनसमाश्चित्रास् सुदामानमुदावहन्॥३७
-
-[^40]: "1. ङ- नास्तीदमर्धम्"
 
 शशलोहितवर्णास्तु पाण्डुरोद्गतराजयः।  
 पाञ्चाल्यं गोपतेः पुत्रं सिंहसेनमुदावहन्॥३८
@@ -4478,7 +4466,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ त्रयोविंशोऽध्यायः ॥**  
 
-![](../books_images/U-IMG-1702371461Untitled.png)
+<MISSING_FIG href="../books_images/U-IMG-1702371461Untitled.png"/>
 
 **धृतराष्ट्रेण पुत्रान् प्रति शोचनपूर्वकं सञ्जयं प्रति युद्धकथनचोदना॥**
 
@@ -4552,7 +4540,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ चतुर्विंशोऽध्यायः॥**  
 
-![](../books_images/U-IMG-1702372715Untitled.png)
+<MISSING_FIG href="../books_images/U-IMG-1702372715Untitled.png"/>
 
 ** द्वन्द्वयुद्धवर्णनम्॥**
 
@@ -4807,7 +4795,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ पञ्चविंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1711304689Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711304689Capture.PNG"/>**
 
 **भगदत्तपराक्रमवर्णनम्॥  
 ----------**
@@ -4816,8 +4804,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 तेष्वेवं[^35] सन्निवृत्तेषु प्रत्युद्यातेषु भागशः।  
 कथं युयुधिरे पार्था मामकाञ्च तरस्विनः॥१
-
-[^35]: "1. ङ- अर्धचतुष्टयं नास्ति"
 
 किमर्जुनश्चाप्यकरोत् तत्र तात प्रतापवान्।  
 संशप्तका वा पार्थस्य किमकुर्वत सञ्जय॥२
@@ -5026,7 +5012,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ षड्विंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1702401071Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702401071Untitled.png"/>**
 
 **अर्जुनेन संशप्तकानांहननम्॥  
 --------**
@@ -5155,7 +5141,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ सप्तविंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1711306613Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711306613Capture.PNG"/>**
 
 **भगदत्तार्जुनसमागमः॥  
 ---------**
@@ -5276,7 +5262,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ अष्टाविंशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1711351571Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711351571Capture.PNG"/>**
 
 **अर्जुनेन सगजस्य भगदत्तस्य वधः ॥**  
 -----------
@@ -5479,7 +5465,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ एकोनत्रिंशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1702575347Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702575347Untitled.png"/>**
 
 ** अर्जुनयुद्धवर्णनम् ॥**
 
@@ -5638,7 +5624,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ त्रिंशोऽध्यायः॥**
 
-![](../books_images/U-IMG-1702629520Untitled.png)
+<MISSING_FIG href="../books_images/U-IMG-1702629520Untitled.png"/>
 
 ** अश्वत्थाम्ना नीलस्य वधः॥**  
 
@@ -5760,7 +5746,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ एकत्रिंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1702630735Untitled.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702630735Untitled.png"/>**
 
 ** सङ्कुलयुद्धवर्णनम्॥**
 
@@ -6013,8 +5999,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 गजैर्गजा[^39] रथिभिरुदायुधा रथैर्  
 हयैर्हयाः पत्तिगणाश्च पत्तिभिः॥७४॥
 
-[^39]: "1. ङ - अर्धद्वयं नास्ति"
-
 स्थैर्द्वपा द्विरदवरैर्महारथा  
 हयैर्नरा वररथिभिश्च वाजिनः।  
 विपोथिता गजहयपादताडनैर्  
@@ -6053,7 +6037,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ( अभिमन्युवधपर्व )
 
-![](../books_images/U-IMG-1711389009Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1711389009Capture.PNG"/>
 
  युधिष्ठिरस्याग्रहणात् दुर्मनायमानं दुर्योधनं प्रति द्रोणेन कस्यचिन्महारथस्य हननप्रतिज्ञा ॥१॥ सञ्जयेन धृतराष्ट्रं प्रति सङ्क्षेपतोऽभिमन्युवधकथनम्॥२॥
 
@@ -6153,7 +6137,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥त्रयस्त्रिंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1711389570Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711389570Capture.PNG"/>**
 
 **जनमेजयः—**
 
@@ -6226,7 +6210,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ चतुस्त्रिंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1711390046Capture.PNG)**  
+**<MISSING_FIG href="../books_images/U-IMG-1711390046Capture.PNG"/>**  
 
  द्रो**णेन पद्मव्यूहरचना॥१॥ युधिष्ठिरेणाभिमन्युं प्रति पद्मव्यूहभेदनचोदना॥२॥**  
 
@@ -6289,8 +6273,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 द्रौपदेयाश्च दुर्धर्षाश् शैशुपालिश्च वीर्यवान्।  
 केकयाश्च[^108] महावीर्यास् सृञ्जयाश्च सहस्रशः॥१६॥
-
-[^108]: "1. ड- अर्धचतुष्टयं नास्ति"
 
 एते चान्ये च बहवस् सगणा युद्धदुर्मदाः।  
 सहसा स्माभ्यवर्तन्त भारद्वाजयुयुत्सवः॥१७॥
@@ -6387,7 +6369,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥ पञ्चत्रिंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1711398075Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1711398075Capture.PNG"/>
 
  
 
@@ -6574,7 +6556,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥ षट्त्रिंशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1711400455Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1711400455Capture.PNG"/>
 
  अभिमन्युपराक्रमवर्णनम्॥  
 
@@ -6684,8 +6666,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 कर्णस्तु[^35] पञ्चविंशत्या नाराचानां समर्पयत्।  
 अश्वत्थामा च सप्तत्या कृतवर्मा च सप्तभिः॥३२॥
 
-[^35]: "1. ङ- अर्धचतुष्टयं नास्ति"
-
 स शराचितसर्वाङ्गः क्रुद्धश्शक्रात्मजात्मजः।  
 विचरन् दृश्यते सैन्ये पाशहस्त इवान्तकः॥३३॥
 
@@ -6716,7 +6696,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ सप्तत्रिंशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1711395169Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711395169Capture.PNG"/>**
 
 ** अभिमन्युपराक्रमबर्णनम्**  
 
@@ -6806,7 +6786,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥अष्टात्रिंशोऽध्यायः॥**
 
-![](../books_images/U-IMG-1711393803Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1711393803Capture.PNG"/>
 
 **दुश्शासनाभिमन्युसमागमः ॥**
 
@@ -6941,7 +6921,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ एकोनचत्वारिंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1711391459Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711391459Capture.PNG"/>**
 
  अभिमन्युना कर्णदुश्शासनपराजयः॥  
 
@@ -7078,7 +7058,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ चत्वारिंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1711360935Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711360935Capture.PNG"/>**
 
 ** अभिमन्युपराक्रमवर्णनम्॥**
 
@@ -7183,7 +7163,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ एकचत्वारिंशोऽध्यायः ॥**
 
-**![](../books_images/U-IMG-1711358040Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711358040Capture.PNG"/>**
 
 ** सञ्जयेन धृतराष्ट्रं प्रति अभिमन्युमनुगतानाजयद्रथेन निरोधकथनम् ॥१॥ तथा जयद्रथस्य रुद्रात् पाण्डवनिरोधरूपवरलाभकथनम् ॥**
 
@@ -7305,7 +7285,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ द्विचत्वारिंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1711355924Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711355924Capture.PNG"/>**
 
 ** जयद्रथेन रुद्रवरात् व्यूहपथं पिधाय पाण्डवादिनिरोधः॥**  
 
@@ -7349,8 +7329,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 तस्य[^118] तल्लाघवं ज्ञात्वा भीमो भल्लैस्त्रिभित्रिभिः।  
 धनुर्ध्वजं च च्छत्रं च क्षितौ क्षिप्रमपातयत्॥१२॥
 
-[^118]: "2. ख - इदमर्धं नास्ति"
-
 सोऽन्यदादाय बलवत् सज्यं कृत्वा महद्धनुः।  
 भीमस्योन्माथयत् केतुं धनुरश्वांश्च मारिष॥१३॥
 
@@ -7380,7 +7358,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥ त्रिचत्वारिंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1711354648Capture.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1711354648Capture.PNG"/>
 
 अभिमन्युपराक्रमवर्णनम्॥
 
@@ -7463,7 +7441,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥ चतुश्चत्वारिंशोऽध्यायः॥
 
-**![](../books_images/U-IMG-1711350189Capture.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1711350189Capture.PNG"/>**
 
  अभिमन्योः पराक्रमेण दुर्योधनपराजयः॥  
 
@@ -7578,11 +7556,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ पञ्चचत्वारिंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1707219498Capture.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1707219498Capture.JPG"/>**
 
 अभिमन्युना दुर्योधनसूनोर्लक्ष्मणस्य वधः॥
 
-![](../books_images/U-IMG-1707219571Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1707219571Capture2.JPG"/>
 
 धृतराष्ट्रः—
 
@@ -7695,15 +7673,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥अभिमन्युवधपर्वणि चतुर्दशोऽध्यायः॥१४॥  
 \[अस्मिन्नध्याये २९ श्लोकाः\]**
 
-**![](../books_images/U-IMG-1707294498Capture2.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1707294498Capture2.JPG"/>**
 
 ॥ षट्चत्वारिंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1707112535त.png)
+<MISSING_FIG href="../books_images/U-IMG-1707112535त.png"/>
 
 अभिमन्युपराक्रमवर्णनम्॥
 
-![](../books_images/U-IMG-1707112573क.png)
+<MISSING_FIG href="../books_images/U-IMG-1707112573क.png"/>
 
 **धृतराष्ट्रः—**
 
@@ -7788,11 +7766,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ सप्तचत्वारिंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1707114570त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707114570त.png"/>**
 
   द्रोणादिभिः षड्भिरभिमन्योविरथीकरणम् ॥१॥ अभिमन्युवधः ॥२॥युद्धभूमिवर्णनम् ॥३॥
 
-![](../books_images/U-IMG-1707114594क.png)
+<MISSING_FIG href="../books_images/U-IMG-1707114594क.png"/>
 
 **सञ्जयः—**
 
@@ -8188,11 +8166,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥ अष्टाचत्वारिंशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1707135916त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707135916त.png"/>**
 
 युधिष्ठिरस्याभिमन्युमनुशोच्य विलापः॥
 
-![](../books_images/U-IMG-1707135946क.png)
+<MISSING_FIG href="../books_images/U-IMG-1707135946क.png"/>
 
 **सञ्जयः—**
 
@@ -8295,15 +8273,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥अभिमन्युवधपर्वणि सप्तदशोऽध्यायः॥१७॥  
 \[अस्मिन्नध्याये २६ श्लोकाः\]**
 
-**![](../books_images/U-IMG-1707137171क.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707137171क.png"/>**
 
 **॥ एकोनपञ्चाशत्तमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1707137154त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707137154त.png"/>**
 
   युधिष्ठिराश्वासनाय व्यासेन तं प्रति अकम्पनोपाख्यानकथनोपक्रमः॥
 
-![](../books_images/U-IMG-1707137257क.png)
+<MISSING_FIG href="../books_images/U-IMG-1707137257क.png"/>
 
 **सञ्जयः—**
 
@@ -8512,15 +8490,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥अभिमन्युवधपर्वणि अष्टादशोऽध्यायः॥१८॥  
 \[ अस्मिन्नध्याये ५१॥श्लोकाः \]**
 
-**![](../books_images/U-IMG-1707224926क.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707224926क.png"/>**
 
 ॥ पञ्चाशोऽध्यायः॥
 
-![](../books_images/U-IMG-1707224950त.png)
+<MISSING_FIG href="../books_images/U-IMG-1707224950त.png"/>
 
   ब्रह्मरुद्रसंवादः॥१॥ब्रह्मणा प्रजासंहाराय मृत्युदेवीसर्जनम्॥२॥
 
-![](../books_images/U-IMG-1707224985क.png)
+<MISSING_FIG href="../books_images/U-IMG-1707224985क.png"/>
 
 **स्थाणुः—**
 
@@ -8622,11 +8600,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥ एकपञ्चाशत्तमोऽध्यायः॥
 
-![](../books_images/U-IMG-1707227106त.png)
+<MISSING_FIG href="../books_images/U-IMG-1707227106त.png"/>
 
   नारदेन मृत्युब्रह्मसंवादकथनेन अकम्पनस्य शोकपरिहरणम् ॥१॥ व्यासेनाकम्पनोपाख्यानकथनात् युधिष्ठिरस्यशोकापनोदनम् ॥२॥
 
-![](../books_images/U-IMG-1707227122क.png)
+<MISSING_FIG href="../books_images/U-IMG-1707227122क.png"/>
 
 नारदः—
 
@@ -8872,16 +8850,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥ ६७ ॥ अभिमन्युवधपर्वणि विंशोऽध्यायः ॥ २० ॥  
 \[ अस्मिन्नध्याये ५८॥ श्लोकाः \]
 
-![](../books_images/U-IMG-1705384917क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705384917क.png"/>
 
 **॥ द्विपञ्चाशत्तमोऽध्यायः ॥**
 
-![](../books_images/U-IMG-1705384935त.png)
+<MISSING_FIG href="../books_images/U-IMG-1705384935त.png"/>
 
 व्यासेन युधिष्ठिरं प्रति षोडशराजकीयाख्यानकथनप्रारम्भः ॥ १ ॥  
 नारदेन सञ्जयं प्रति मरुत्तराजचरितकथनम् ॥ २ ॥
 
-![](../books_images/U-IMG-1705384917क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705384917क.png"/>
 
 **सञ्जयः—**
 
@@ -9111,11 +9089,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥त्रिपञ्चाशत्तमोऽध्यायः॥  
 
-![](../books_images/U-IMG-1705389577त.png)
+<MISSING_FIG href="../books_images/U-IMG-1705389577त.png"/>
 
 नारदेन सृञ्जयं प्रति सुहोत्रचरित्रकीर्तनम्॥
 
-![](../books_images/U-IMG-1705389918Screenshot2024-01-16112946.png)
+<MISSING_FIG href="../books_images/U-IMG-1705389918Screenshot2024-01-16112946.png"/>
 
 नारदः—
 
@@ -9162,15 +9140,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥अभिमन्युवधपर्वणि द्वाविंशोऽध्यायः॥२२॥  
 \[अस्मिन्नध्याये १२ श्लोकाः\]
 
-![](../books_images/U-IMG-1705390099क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705390099क.png"/>
 
 ॥चतुःपञ्चाशत्तमोऽध्यायः॥
 
-![](../books_images/U-IMG-1705390114त.png)
+<MISSING_FIG href="../books_images/U-IMG-1705390114त.png"/>
 
 नारदेन सृञ्जयं प्रति अङ्गराजगुणवर्णनम्॥
 
-![](../books_images/U-IMG-1705390099क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705390099क.png"/>
 
 **नारदः—**
 
@@ -9224,15 +9202,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥ अभिमन्युवधपर्वणि त्रयोविंशोऽध्यायः॥२३॥  
 \[अस्मिन्नध्याये १४ श्लोकाः \]
 
-![](../books_images/U-IMG-1705395903क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705395903क.png"/>
 
 **॥पञ्चपञ्चाशत्तमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1705395917त.png)
+<MISSING_FIG href="../books_images/U-IMG-1705395917त.png"/>
 
 नारदेन सृञ्जयं प्रति शिबिवैभवशंसनम्॥
 
-![](../books_images/U-IMG-1705395903क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705395903क.png"/>
 
 **'नारदः—**
 
@@ -9291,15 +9269,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥अभिमन्युवधपर्वणि चतुर्विंशोऽध्यायः॥२४॥  
 \[अस्मिन्नध्याये १४॥ श्लोका\]ः \]
 
-![](../books_images/U-IMG-1705396577क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705396577क.png"/>
 
 ॥षट्पञ्चाशोऽध्यायः॥
 
-![](../books_images/U-IMG-1705396597त.png)
+<MISSING_FIG href="../books_images/U-IMG-1705396597त.png"/>
 
 सृञ्जयं प्रति नारदेन राममहिमानुवर्णनम्॥
 
-![](../books_images/U-IMG-1705396577क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705396577क.png"/>
 
 **नारदः—**
 
@@ -9423,13 +9401,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥समपञ्चाशोऽध्यायः॥
 
-![](../books_images/U-IMG-1705398508त.png)
+<MISSING_FIG href="../books_images/U-IMG-1705398508त.png"/>
 
 नारदेन[^204] सृञ्जयं प्रति भगीरथचरित्रकथनम्॥
 
 [^204]: "घ – कोशे भगीरथचरितं तावत् दिलीपचरितादनन्तरं विद्यते"
 
-![](../books_images/U-IMG-1705398531क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705398531क.png"/>
 
 **नारदः—**
 
@@ -9494,15 +9472,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥ अभिमन्युवधपर्वणि षड्विंशोऽध्यायः॥२६॥  
 \[अस्मिन्नध्याये १७ श्लोकाः\]
 
-![](../books_images/U-IMG-1705399381क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705399381क.png"/>
 
 **॥अष्टपञ्चाशोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1705399398त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1705399398त.png"/>**
 
 नारदेन सृञ्जयं प्रति दिलीपप्रभाववर्णनम्॥
 
-![](../books_images/U-IMG-1705399423क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705399423क.png"/>
 
 नारदः—
 
@@ -9562,15 +9540,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥अभिमन्युवधपर्वणि सप्तविंशोऽध्यायः॥२७॥  
 \[अस्मिन्नध्याये १४॥ श्लोकाः\]
 
-![](../books_images/U-IMG-1705400429क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705400429क.png"/>
 
 **॥एकोनषष्टितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1705400444त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1705400444त.png"/>**
 
 नारदेन सृञ्जयं प्रति मान्धातृचरिताभिधानम्॥
 
-![](../books_images/U-IMG-1705400465क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705400465क.png"/>
 
 **नारदः—**
 
@@ -9638,17 +9616,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 द्रोणपर्वणि एकोनषष्टितमोऽध्यायः॥५९॥  
 ॥६७॥अभिमन्युवधपर्वणि अष्टाविंशोऽध्यायः॥२८॥  
 \[अस्मिन्नध्याये २० श्लोकाः\]**  
-![](../books_images/U-IMG-1707043853Capture.JPG)  
+<MISSING_FIG href="../books_images/U-IMG-1707043853Capture.JPG"/>  
 
 ॥षष्टितमोऽध्यायः[^214]॥
 
 [^214]: "घ-ङ-कोशयोःअयमध्यायाोनास्ति"
 
-![](../books_images/U-IMG-1705468515त.png)
+<MISSING_FIG href="../books_images/U-IMG-1705468515त.png"/>
 
 नारदेन सृञ्जयं प्रति ययातिचरितकीर्तनम्॥
 
-![](../books_images/U-IMG-1707043987Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1707043987Capture.JPG"/>
 
 **नारदः—**
 
@@ -9702,11 +9680,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥अभिमन्युवधपर्वणि एकोनत्रिंशोऽध्यायः॥२९॥  
 \[अस्मिन्नध्याये १३॥ श्लोकाः\]**
 
-**![](../books_images/U-IMG-1707044436Capture.JPG)**  
+**<MISSING_FIG href="../books_images/U-IMG-1707044436Capture.JPG"/>**  
 
 ॥एकषष्टितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1705469652त.png)
+<MISSING_FIG href="../books_images/U-IMG-1705469652त.png"/>
 
 नारदेन सृञ्जयं प्रत्यम्बरीषविभवाभिधानम्॥
 
@@ -9780,11 +9758,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥द्विषष्टितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1705471636त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1705471636त.png"/>**
 
 नारदेन सृञ्जयं प्रति शशिबिन्दुयशोनुवर्णनम्॥
 
-![](../books_images/U-IMG-1707045263Capture.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1707045263Capture.JPG"/>
 
 **नारदः—**
 
@@ -9838,11 +9816,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥ अभिमन्युवधपर्वणि एकत्रिंशोऽध्यायः॥३१॥  
 \[अस्मिन्नध्याये १३ श्लोकाः\]**
 
-**![](../books_images/U-IMG-1707045968Capture.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1707045968Capture.JPG"/>**
 
 **॥त्रिषष्टितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1705472410त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1705472410त.png"/>**
 
 नारदेन सृञ्जयं प्रति गयगुणानुवर्णनम्॥
 
@@ -9928,7 +9906,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥चतुष्पष्टितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1705473200त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1705473200त.png"/>**
 
 नारदेन सृञ्जयं प्रति रन्तिदेवचरित्रकीर्तनम्॥
 
@@ -10002,11 +9980,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६७॥ अभिमन्युवधपर्वणि त्रयस्त्रिंशोऽध्यायः॥३३॥  
 \[अस्मिन्नभ्याये १९॥श्लोकाः\]
 
-![](../books_images/U-IMG-1705473729क.png)  
+<MISSING_FIG href="../books_images/U-IMG-1705473729क.png"/>  
 
 **॥पञ्चषष्टितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1705473891त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1705473891त.png"/>**
 
 नारदेन सृञ्जयं प्रति भरतचरितकथनम्॥
 
@@ -10076,7 +10054,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥षट्षष्टितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1705474476त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1705474476त.png"/>**
 
 नारदेन सृञ्जयं प्रति पृथुचरित्रकथनम्॥
 
@@ -10271,7 +10249,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥सप्तषष्टितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1705476192त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1705476192त.png"/>**
 
 सृञ्जयं प्रति नारदेन परशुरामप्रभाववर्णनम्॥
 
@@ -10370,11 +10348,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 \[अस्मिन्नध्याये २६॥ श्लोकाः\]  
 \[षोडशराजकथाः समाप्ताः\]ः\]**
 
-**![](../books_images/U-IMG-1705562290क.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1705562290क.png"/>**
 
 **॥अष्टषष्टितमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1705562326त.png)
+<MISSING_FIG href="../books_images/U-IMG-1705562326त.png"/>
 
 युधिष्ठिरं समाश्वास्य व्यासस्य स्वाश्रमगमनम्॥
 
@@ -10481,15 +10459,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 \[अस्मिन्नध्याये २४ श्लोकाः\]  
 (अभिमन्युवधपर्व समाप्तम् )**
 
-**![](../books_images/U-IMG-1705755028क.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1705755028क.png"/>**  
 
 **॥एकोनसप्ततितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1705755239त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1705755239त.png"/>**
 
   अभिमन्युमनुशोच्यार्जुनस्य विलापः॥१॥ युधिष्ठिरेणार्जुनं प्रत्यभिमन्युनिधनप्रकारकथनम्॥२॥ अर्जुनेन सशपथं जयद्रथवधप्रतिज्ञा॥३॥
 
-![](../books_images/U-IMG-1705755313क.png)
+<MISSING_FIG href="../books_images/U-IMG-1705755313क.png"/>
 
 **(प्रतिज्ञापर्व)**
 
@@ -10711,8 +10689,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 श्रुत्वा[^212] निपतितं शूरम् अनघं कृतलाघवम्।  
 सुभद्रा वक्ष्यते किं माम् अभिमन्युमपश्यती॥६२॥  
 द्रौपदीं चापि दुःखार्तां किं वा वक्ष्यामि तामहम्॥६३
-
-[^212]: "ख—इदमर्धंनास्ति"
 
 हृष्टानां धार्तराष्ट्राणां सिंहनादो मया श्रुतः।  
 युयुत्सुश्चापि कृष्णेन श्रुतो वीरानुपालभन्॥६४
@@ -11042,11 +11018,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥सप्ततितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706270621त.png)
+<MISSING_FIG href="../books_images/U-IMG-1706270621त.png"/>
 
   अर्जुनप्रतिज्ञाश्रवणचकितस्य जयद्रथस्य द्रोणदुर्योधनाभ्यामाश्वासनम्॥
 
-![](../books_images/U-IMG-1706270638क.png)
+<MISSING_FIG href="../books_images/U-IMG-1706270638क.png"/>
 
 **सञ्जयः—**
 
@@ -11179,11 +11155,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६८॥प्रतिज्ञापर्वणि द्वितीयोऽध्यायः॥२॥  
 \[अस्मिन्नध्याये ३६॥श्लोका\]ः \]**
 
-**![](../books_images/U-IMG-1706273006क.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706273006क.png"/>**
 
 **॥एकसप्ततितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1706273021त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706273021त.png"/>**
 
   श्रीकृष्णेनार्जुनं प्रति द्रोणादिभिः जयद्रथरक्षणप्रतिज्ञादिकथनम्॥१॥ अर्जुनेन श्रीकृष्णं प्रति स्वसामर्थ्यकथनम्॥२॥
 
@@ -11402,11 +11378,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६८॥प्रतिज्ञापर्वणि तृतीयोऽध्यायः॥३॥  
 \[अस्मिन्नध्याये ५९ श्लोकाः\]
 
-![](../books_images/U-IMG-1706275012क.png)
+<MISSING_FIG href="../books_images/U-IMG-1706275012क.png"/>
 
 **॥द्विसप्ततितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1706275025त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706275025त.png"/>**
 
 श्रीकृष्णेन सुभद्रासमाश्वासनम्॥
 
@@ -11499,8 +11475,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 श्वः[^212] प्रियं सुमहच्छ्रुत्वा विशोका भवितासि हि॥२५
 
-[^212]: "ख—इदमर्धंनास्ति"
-
 यत् पार्थेन प्रतिज्ञातं तत् तथा न तदन्यथा।  
 चिकीर्षितं हि ते भर्तुर् न भवेज्जातु निष्फलम्॥२६
 
@@ -11516,11 +11490,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥त्रिसप्ततितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1706276394त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706276394त.png"/>**
 
   अभिमन्युमनुशोच्य विलपन्त्याःसुभद्रायाः कृष्णेनाश्वासनम्॥१॥ श्रीकृष्णेन रात्रावर्जुनेन त्र्यम्बकाय बलिप्रदापनम्॥२॥ कृष्णदारुकसंभाषणम्॥३॥
 
-![](../books_images/U-IMG-1706276520क.png)
+<MISSING_FIG href="../books_images/U-IMG-1706276520क.png"/>
 
 **सञ्जयः—**
 
@@ -11857,11 +11831,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥चतुस्सप्ततितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1707315526त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707315526त.png"/>**
 
   अर्जुनस्य स्वप्ने कृष्णेन सह कैलासगमनम्॥१॥तथा स्तुत्या रुद्रप्रसादनम्॥२॥ अर्जुनेन स्वप्ने शंकरात् पाशुपतास्त्रमुपलभ्य कृष्णेन सह पुनः शिबिरं प्रत्यागमनम्॥३॥
 
-![](../books_images/U-IMG-1707315595क.png)
+<MISSING_FIG href="../books_images/U-IMG-1707315595क.png"/>
 
 **सञ्जयः—**
 
@@ -12024,8 +11998,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 शरण्यं[^212] शरणं देवम् ईशानं परमेश्वरम्।  
 जगाम जगतां नाथम् अर्जुनस्सजनार्दनः॥४७
 
-[^212]: "ख—इदमर्धंनास्ति"
-
 ततस्तावागतौ दृष्ट्वा नरनारायणावुभौ।  
 सुप्रसन्नमनाश्शर्व उवाच प्रहसन्निव॥४८
 
@@ -12173,15 +12145,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६८॥प्रतिज्ञापर्वणि षष्ठोऽध्यायः॥६॥  
 \[अस्मिन्नध्याये ८० श्लोकाः\]
 
-![](../books_images/U-IMG-1707401878क.png)
+<MISSING_FIG href="../books_images/U-IMG-1707401878क.png"/>
 
 **॥पञ्चसप्ततितमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1707401839त.png)
+<MISSING_FIG href="../books_images/U-IMG-1707401839त.png"/>
 
   श्रीकृष्णस्य कृताह्निकं युधिष्ठिरं प्रत्यागमनम्॥१॥ जयद्रथवधस्य दुष्करत्वाशङ्किनो युधिष्ठिरस्य कृष्णेन समाश्वासनम्॥२॥
 
-![](../books_images/U-IMG-1707402093क.png)
+<MISSING_FIG href="../books_images/U-IMG-1707402093क.png"/>
 
 **सञ्जयः—**
 
@@ -12245,8 +12217,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 हेमशृङ्गा रूप्यखुरा दत्त्वा चक्रे प्रदक्षिणम्॥१९
 
 स्वस्तिकान्[^180] वर्धमानांश्च नन्द्यावर्तांश्च काञ्चनान्।
-
-[^180]: "ख—अर्धत्रयं नास्ति"
 
 सुमनोलाजकुम्भांश्च ज्वलितं च हुताशनम्॥२०
 
@@ -12384,11 +12354,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६८॥प्रतिज्ञापर्वणि सप्तमोऽध्यायः॥७॥  
 \[अस्मिन्नध्याये ५८ श्लोकाः\]ः\]**
 
-**![](../books_images/U-IMG-1706618939क.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706618939क.png"/>**
 
 **॥षट्सप्ततितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1706618952त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706618952त.png"/>**
 
   जयद्रथं प्रति गच्छताऽर्जुनेन युधिष्ठिररक्षणाय सात्यकिं प्रति चोदना॥
 
@@ -12515,17 +12485,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 \[अस्मिन्नध्याये ३४ श्लोकाः\]  
 \[प्रतिज्ञापर्वसमाप्तम्\]**
 
-**![](../books_images/U-IMG-1706619872Screenshot2024-01-16112946.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1706619872Screenshot2024-01-16112946.png"/>**  
 
 **॥सप्तसप्ततितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1706620081त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706620081त.png"/>**
 
 **(जयद्रथवधपर्व)**
 
   धृतराष्ट्रेण पुत्रान् प्रति शोचनपूर्वकं सञ्जयं प्रत्यभिमन्युनिधनानन्तरीमकयुद्धकथनचोदना॥
 
-![](../books_images/U-IMG-1707391031Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1707391031Capture2.JPG"/>
 
 **धृतराष्ट्रः—**
 
@@ -12579,8 +12549,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 विन्दानुविन्दयोश्चास्मिन[^212]् शिबिरे यो महाध्वनिः।  
 श्रूयते[^291] सोऽद्य न तथा केकयानां च वेश्मनि॥१६
-
-[^212]: "ख—इदमर्धंनास्ति"
 
 [^291]: "अ-ख—नास्तीदमर्धम्"
 
@@ -12714,15 +12682,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६९॥जयद्रथवधपर्वणि प्रथमोऽध्यायः॥१॥  
 \[अस्मिन्नध्याये ५६ श्लोकाः\]**
 
-**![](../books_images/U-IMG-1707470741Capture2.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1707470741Capture2.JPG"/>**
 
 **॥अष्टसप्ततितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1706786915त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706786915त.png"/>**
 
   सञ्जयेन धृतराष्ट्रोपालम्भपूर्वकं युद्धकथनोपक्रमः॥१॥द्रोणेन शकटव्यूहनिर्माणम्॥२॥
 
-![](../books_images/U-IMG-1706787114क.png)
+<MISSING_FIG href="../books_images/U-IMG-1706787114क.png"/>
 
 **सञ्जयः—**
 
@@ -12932,15 +12900,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६८॥जयद्रथवधपर्वणि द्वितीयोऽध्यायः॥२॥  
 \[अस्मिन्नध्याये ५७॥श्लोकाः\]**
 
-**![](../books_images/U-IMG-1706852179क.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706852179क.png"/>**
 
 **॥एकोनाशीतितमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1706852204त.png)
+<MISSING_FIG href="../books_images/U-IMG-1706852204त.png"/>
 
 अर्जुनस्य रणाङ्गणप्रवेशः॥१॥अर्जुनयुद्धवर्णनम्॥२॥
 
-![](../books_images/U-IMG-1706852262क.png)
+<MISSING_FIG href="../books_images/U-IMG-1706852262क.png"/>
 
 **सञ्जयः—**
 
@@ -13128,8 +13096,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 हस्तिनं[^310] हस्तियन्तारम् अश्वमश्वप्रयायिनम्।  
 अभिनत् पाण्डवो बाणैरथिनं च ससारथिम्॥५३
 
-[^310]: "ङ—अर्धत्रयं नास्ति"
-
 आवर्तमानमावृत्तं युध्यमानं च पाण्डवः।  
 प्रमुखे वर्तमानं च न कञ्चिन्न हिनस्ति सः॥५४
 
@@ -13168,11 +13134,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥अशीतितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1707551671त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707551671त.png"/>**
 
   अर्जुनेन दुश्शासनपराजयः॥१॥अर्जुनस्य व्यूहमुखस्थेन द्रोणेन कञ्चित्कालं युद्ध्वातमपहाय न्यूहप्रवेशः॥२॥
 
-![](../books_images/U-IMG-1707551711क.png)
+<MISSING_FIG href="../books_images/U-IMG-1707551711क.png"/>
 
 **धृतराष्ट्रः—**
 
@@ -13483,15 +13449,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६९॥जयद्रथवधपर्वणि चतुर्थोऽध्यायः॥४॥  
 \[अस्मिन्नधायाये ८० श्लोकाः\]
 
-![](../books_images/U-IMG-1707732447Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1707732447Capture2.JPG"/>
 
 **॥एकाशीतितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1707731982Capture.JPG)**  
+**<MISSING_FIG href="../books_images/U-IMG-1707731982Capture.JPG"/>**  
 
 अर्जुनेन श्रुतायुधसुदक्षिणथोर्वधः॥
 
-**![](../books_images/U-IMG-1707731830Capture2.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1707731830Capture2.JPG"/>**
 
 **सञ्जयः—**
 
@@ -13638,8 +13604,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 हताश्वं रथमुत्सृज्य स तु राजा श्रुतायुधः।  
 अभ्यद्रवद्रणे[^323] पार्थं गदामुद्यम्य वीर्यवान्॥४३
 
-[^323]: "स्व—अर्धद्वयं नास्ति"
-
 वरुणस्यात्मजो वीरस् स तु राजा श्रुतायुधः।  
 बेण्णा सा जननी यस्य शीततोया महानदी॥४४  
 तस्य माताऽब्रवीद्राजन् वरुणं पुत्रकारणात्॥४४॥
@@ -13765,11 +13729,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥द्व्यशीतितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1707756883Capture.JPG)**
+**<MISSING_FIG href="../books_images/U-IMG-1707756883Capture.JPG"/>**
 
 अर्जुन श्रुतायुप्रभृतीनां वधः॥
 
-![](../books_images/U-IMG-1707756919Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1707756919Capture2.JPG"/>
 
 **सञ्जयः—**
 
@@ -14014,15 +13978,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६९॥जयद्रथवधपर्वणि षष्ठोऽध्यायः॥६॥  
 \[अस्मिन्नध्याये ७४ श्लोकाः\]
 
-![](../books_images/U-IMG-1706864519क.png)
+<MISSING_FIG href="../books_images/U-IMG-1706864519क.png"/>
 
 **॥त्र्यशीतितमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1706864538त.png)
+<MISSING_FIG href="../books_images/U-IMG-1706864538त.png"/>
 
  अर्जुनाद्भितेन दुर्योधनेन द्रोणमेत्य तदुपालम्भपूर्वकं जयद्रथं प्रतिशोचनम्॥१॥द्रोणेन दुर्योधनस्यमन्त्रोच्चारणपूर्वकं कवचमाबध्यार्जुनेन सह युद्धाय प्रेषणम्॥२॥
 
-![](../books_images/U-IMG-1707803215Capture2.JPG)
+<MISSING_FIG href="../books_images/U-IMG-1707803215Capture2.JPG"/>
 
 **सञ्जयः—**
 
@@ -14318,8 +14282,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 नानावादित्रघोषेण नानाजनपदायुतः।  
 तव[^338]पुत्रः प्रयातस्तु यथा वैरोचनिस्तथा॥८०
 
-[^338]: "घ—नास्तीदमर्धम्"
-
 ततश्शब्दो महानासीत् सैन्यानां तव भारत।  
 अगाधं प्रस्थितं दृष्ट्वा समुद्रमिव कौरवम्॥८१
 
@@ -14328,15 +14290,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६९॥ जयद्रथवधपर्वणि सप्तमोऽध्यायः॥७॥  
 \[अस्मिन्नध्याये ८१ श्लोकाः\]
 
-![](../books_images/U-IMG-1706868532क.png)
+<MISSING_FIG href="../books_images/U-IMG-1706868532क.png"/>
 
 **॥चतुरशीतितमोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1706868554त.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706868554त.png"/>**
 
 राज्ञां द्वन्द्वीभूय युद्धाय समागमः॥१॥ राज्ञां द्वन्द्वयुद्धवर्णनम्॥
 
-![](../books_images/U-IMG-1706868637क.png)
+<MISSING_FIG href="../books_images/U-IMG-1706868637क.png"/>
 
 **सञ्जयः—**
 
@@ -14616,15 +14578,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६९॥जयद्रथवधपर्वणि अष्टमोऽध्यायः॥८॥  
 \[अस्मिन्नध्याये ८४ श्लोकः\]**
 
-**![](../books_images/U-IMG-1706873501क.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706873501क.png"/>**
 
 **॥पञ्चाशीतितमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1706873514त.png)
+<MISSING_FIG href="../books_images/U-IMG-1706873514त.png"/>
 
 द्रोणधृष्टद्युम्नयोर्युद्धम्॥
 
-![](../books_images/U-IMG-1706873572क.png)
+<MISSING_FIG href="../books_images/U-IMG-1706873572क.png"/>
 
 **सञ्जयः—**
 
@@ -14744,11 +14706,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 द्रोणपर्वणि पञ्चाशीतितमोऽध्यायः ॥८५॥  
 ॥६९॥ जयद्रथवधपर्वणि नवमोऽध्यायः ॥९॥  
 \[अस्मिन्नध्याये ३६॥ श्लोकाः\]  
-![](../books_images/U-IMG-1706097164Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706097164Screenshot2023-12-26160236.png"/>
 
 ॥षडशीतितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706097191Screenshot2024-01-09190011.png)
+<MISSING_FIG href="../books_images/U-IMG-1706097191Screenshot2024-01-09190011.png"/>
 
 द्रोणसात्यक्योर्बुद्धम् ॥१॥ अर्जुनेन रणाङ्गणे हयाप्यायनाय शरैः सरोनिर्माणम् ॥२॥ तथा शरमयवेश्म निर्माणम् ॥३॥
 
@@ -14940,7 +14902,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 सैन्येन रजसा ध्वस्ते निर्मर्यादमवर्तत ॥५४॥
 
 तेनान्तरेण पार्थस्तु रणे जित्वा महारथान् ।  
-अतिक्रान्तस्तदा युद्धं कृत्वा पर्यवतस्थिवान् [![](../books_images/U-IMG-1706159415Screenshot2023-05-17160630.png)][^361] ॥५५॥
+अतिक्रान्तस्तदा युद्धं कृत्वा पर्यवतस्थिवान् <MISSING_FIG href="../books_images/U-IMG-1706159415Screenshot2023-05-17160630.png"/>[^361] ॥५५॥
 
 [^361]: "सर्वेषु कोशेषु अवैवाध्यायसमाप्तिर्दृश्यते ।"
 
@@ -15157,14 +15119,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 द्रोणपर्वणि षडशीतितमोऽध्यायः ॥८६॥  
 ॥६९॥ जयद्रथवधपर्वणि दशमोऽध्यायः ॥१०॥  
 \[अस्मिन्नध्याये ११५॥ श्लोकाः\]  
-![](../books_images/U-IMG-1706779039Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706779039Screenshot2023-12-26160236.png"/>
 
 ॥सप्ताशीतितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706779058Screenshot2024-01-09190011.png)
+<MISSING_FIG href="../books_images/U-IMG-1706779058Screenshot2024-01-09190011.png"/>
 
 श्रीकृष्णेनार्जुननिर्मितसरसि स्नापनादिनाऽऽप्यायितानां तुरगाणां पुना रथे योजनम् ॥१॥ पुना रथमारूढयोः कृष्णार्जुनयोर्जयद्रथं प्रतिगमनम् ॥२॥  
-![](../books_images/U-IMG-1706779039Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706779039Screenshot2023-12-26160236.png"/>
 
 **सञ्जयः—**
 
@@ -15233,8 +15195,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 उपावर्तयदव्यग्रस् तानश्वान् पुष्करेक्षणः।  
 मिषतां[^371] सर्वसैन्यानां त्वदीयानां विशां पते ॥१६॥
-
-[^371]: "ङ–अर्धद्वयं नास्ति"
 
 उपावृत्योत्थितानश्वान् पाणिभ्यां पुष्करेक्षणः।  
 सम्मार्जयद्रणे राजन् पश्यतां सर्वयोधिनाम्॥१७॥
@@ -15332,8 +15292,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ततो नृपतयः क्रुद्धाः परिवव्रुर्धनञ्जयम्।  
 क्षत्रिया[^359] बहवश्चान्ये जयद्रथवधैषिणम् ॥४१॥
 
-[^359]: "घ–नास्तीदमर्धम्"
-
 बलेषु[^375] म्रियमाणेषु वीक्ष्य तं पुरुषर्षभम् ।  
 दुर्योधनोऽभ्ययात् पार्थ त्वरमाणस्सहानुगः ॥४२॥
 
@@ -15343,14 +15301,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 द्रोणपर्वणि सप्ताशीतितमोऽध्यायः ॥८७॥  
 ॥६९॥ जयद्रथववपर्वणि एकादशोऽध्यायः ॥११॥  
 \[अस्मिन्नध्याये ४२ ॥ श्लोकाः\]  
-![](../books_images/U-IMG-1706176407Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706176407Screenshot2023-12-26160236.png"/>
 
 ॥अष्टाशीतितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706176423Screenshot2024-01-09130841.png)
+<MISSING_FIG href="../books_images/U-IMG-1706176423Screenshot2024-01-09130841.png"/>
 
 जयदर्थं यियासोरर्जुनस्य दुर्योधनेन निरोधः ॥  
-**![](../books_images/U-IMG-1706176407Screenshot2023-12-26160236.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1706176407Screenshot2023-12-26160236.png"/>**
 
 सञ्जयः—
 
@@ -15372,7 +15330,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 [^378]: "क–ख–ग–घ–वेदेभ्य इव"
 
-[![](../books_images/U-IMG-1706177955Screenshot2023-05-17160608.png)][^379]तावतीत्य रथानीकं विमुक्तौ पुरुषर्षभौ ।  
+<MISSING_FIG href="../books_images/U-IMG-1706177955Screenshot2023-05-17160608.png"/>[^379]तावतीत्य रथानीकं विमुक्तौ पुरुषर्षभौ ।  
 दहशाते यथा राहोर् आस्यान्मुक्तौ प्रभाकरी ॥५॥
 
 [^379]: "पञ्चमश्लोकादारभ्य साघैकोनचत्वारिंशच्छोकान्ताः श्लोकाः ख–कोशे नात्र दृश्यन्ते। परंतु 87–अध्याये सार्धद्वादशश्लोकानन्तरं अधिकपाठतया वर्तन्ते ।"
@@ -15512,15 +15470,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 द्रोणपर्वणि अष्टाशीतितमोऽध्यायः ॥८८॥  
 ॥६९॥ जयद्रथवधपर्वणि द्वादशोऽध्यायः ॥१२॥  
 \[अस्मिन्नध्याये ४४॥श्लोकाः\]  
-![](../books_images/U-IMG-1706180089Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706180089Screenshot2023-12-26160236.png"/>
 
 ॥एकोननवतितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706800463Screenshot2024-01-09130841.png)
+<MISSING_FIG href="../books_images/U-IMG-1706800463Screenshot2024-01-09130841.png"/>
 
 दुर्योधने निरुन्धाने कृष्णेन तदुष्कृतानुस्मरणपूर्वकमर्जुनं प्रति तद्वधचोदना ॥ १ ॥  
 अर्जुनं प्रति दुर्योधनस्य वीरवादः ॥ २॥  
-![](../books_images/U-IMG-1706800475Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706800475Screenshot2023-12-26160236.png"/>
 
 श्रीभगवान्—
 
@@ -15664,10 +15622,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥नवतितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706183041Screenshot2024-01-09183043.png)
+<MISSING_FIG href="../books_images/U-IMG-1706183041Screenshot2024-01-09183043.png"/>
 
 अर्जुनेन दुर्योधनपराजयः ॥  
-![](../books_images/U-IMG-1706183054Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706183054Screenshot2023-12-26160236.png"/>
 
 **सञ्जयः—**
 
@@ -15682,8 +15640,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 तेषां[^184] वैफल्यमालोक्य पुनर्नव च पञ्च च ।  
 प्राहिणोन्निशितान् बाणांस् ते ह्यभ्रश्यन्त वर्मणः ॥४॥
-
-[^184]: "ङ- नास्तीदमर्धम्"
 
 श्रीभगवान्
 
@@ -15852,10 +15808,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥एकनवतितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706504566Screenshot2024-01-09130841.png)
+<MISSING_FIG href="../books_images/U-IMG-1706504566Screenshot2024-01-09130841.png"/>
 
 **अर्जुनस्य भूरिश्रवःप्रभृतिभिरष्टभिर्युद्धम् ॥**  
-![](../books_images/U-IMG-1706504579Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706504579Screenshot2023-12-26160236.png"/>
 
 **सञ्जयः—**
 
@@ -15941,8 +15897,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 गृहीत्वा[^227] धनुरन्यत् तु शल्यो विव्याध पाण्डवम् ॥ २५॥
 
-[^227]: "ङ–अर्धचतुष्टयं नास्ति"
-
 भूरिश्रवास्त्रिभिर्बाणैर हेमपुङ्खैश्शिलाशितैः।  
 कर्णो द्वाविंशता चैव वृषसेनश्च पञ्चभिः ॥२६॥
 
@@ -15974,15 +15928,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 द्रोणपर्वणि एकनवतितमोऽध्यायः ॥११॥  
 ॥६९॥ जयद्रथवधपर्वणि चतुर्दशोऽध्यायः ॥१४॥  
 \[अस्मिन्नध्याये ३४॥ श्लोकाः\]  
-![](../books_images/U-IMG-1706505702Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706505702Screenshot2023-12-26160236.png"/>
 
 ॥ द्विनवतितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706505726Screenshot2024-01-09183043.png)
+<MISSING_FIG href="../books_images/U-IMG-1706505726Screenshot2024-01-09183043.png"/>
 
 **सञ्जयेन स्थानां ध्वजवर्णनम्॥**  
 
-![](../books_images/U-IMG-1706505702Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706505702Screenshot2023-12-26160236.png"/>
 
 धृतराष्ट्रः—
 
@@ -16040,8 +15994,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 मयूरो[^365] वृषसेनस्य काञ्चनो मणिरत्नवान्।  
 व्याहरन्निव चातिष्ठत् सेनामभिशोभयन् ॥१६॥
-
-[^365]: "ख–अर्धचतुष्टयं नास्ति"
 
 तेन तस्य रथो भाति मयूरेण महात्मनः।  
 यथा स्कन्दरथो राजन् मयूरेण विराजता ॥१७॥
@@ -16120,10 +16072,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥त्रिनवतितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706507146Screenshot2024-01-09183043.png)
+<MISSING_FIG href="../books_images/U-IMG-1706507146Screenshot2024-01-09183043.png"/>
 
 द्रोणयुधिष्ठिरयोर्युद्धम् ॥  
-![](../books_images/U-IMG-1706507543Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706507543Screenshot2023-12-26160236.png"/>
 
 **धृतराष्ट्रः—**
 
@@ -16150,8 +16102,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 तमभ्ययागृहत्क्षत्रः केकयानां महारथः।
 
 प्रवमन्निशितान्[^371] बाणान् महेन्द्राशनिसन्निभान् ॥७॥
-
-[^371]: "ङ–अर्धद्वयं नास्ति"
 
 तं तु प्रत्युदियाच्छीघ्रं क्षेमधूर्तिर्महारथः ।  
 विमुञ्चन् निशितान् बाणाञ् शतशोऽथ सहस्रशः ॥८॥
@@ -16296,10 +16246,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥चतुर्नवतितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706510661Screenshot2024-01-09130841.png)
+<MISSING_FIG href="../books_images/U-IMG-1706510661Screenshot2024-01-09130841.png"/>
 
 सङ्कलयुद्धवर्णनम् ॥१॥ द्रौपदेयैः शलवधः ॥२॥ भीमसेनेनालम्बुसपराजयः ॥३॥  
-![](../books_images/U-IMG-1706510714Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706510714Screenshot2023-12-26160236.png"/>
 
 सञ्जयः—
 
@@ -16413,8 +16363,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 विसृजन्तश्शरांश्चैव[^365] तोमरांश्च सहस्रशः।
 
-[^365]: "ख–अर्धचतुष्टयं नास्ति"
-
 भिण्डिपालांस्तथा प्रासान् मुसलान मुद्ररानपि ॥३४॥
 
 अयोधयन् रणे वीरास् सात्वतं युद्धदुर्मदम् ॥३४॥
@@ -16434,9 +16382,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 नाभ्यद्रवत युद्धाय त्रासितं दीर्घबाहुना ॥३९॥
 
 ततो द्रोणो भृशं क्रुद्धस् सहसोहृत्य चक्षुषी ।  
-सात्यकिं सत्यकर्माणं स्वयमेवाभिदुद्रुवे [![](../books_images/U-IMG-1706512051Screenshot2023-05-17160608.png)][^271]॥४०॥
-
-[^271]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते ।"
+सात्यकिं सत्यकर्माणं स्वयमेवाभिदुद्रुवे <MISSING_FIG href="../books_images/U-IMG-1706512051Screenshot2023-05-17160608.png"/>[^271]॥४०॥
 
 द्रौपदेयान् महेष्वासान् सौमदत्तिर्महारथः।  
 एकैकं पञ्चभिर्विवा पुनर्विव्याध सप्तभिः ॥४१॥
@@ -16588,14 +16534,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 द्रोणपर्वणि चतुर्नवतितमोऽध्यायः ॥१४॥  
 ॥६९॥ जयद्रथवधपर्वणि अष्टादशोऽध्यायः ॥१८॥  
 \[ अस्मिन्नध्याये ८१ श्लोकाः\]  
-![](../books_images/U-IMG-1706513871Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706513871Screenshot2023-12-26160236.png"/>
 
 **॥पञ्चनवतितमोऽध्यायः॥  
-![](../books_images/U-IMG-1706513891Screenshot2024-01-09183043.png)**
+<MISSING_FIG href="../books_images/U-IMG-1706513891Screenshot2024-01-09183043.png"/>**
 
 घटोत्कचेनालम्बुसवधः ॥  
 
-![](../books_images/U-IMG-1706513871Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706513871Screenshot2023-12-26160236.png"/>
 
 **सञ्जयः—**
 
@@ -16647,8 +16593,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ततः प्रववृते युद्धं तयो राक्षससिंहयोः।  
 याहगेव[^410] पुरा वृत्तं रामरावणयोर्मृधे ॥१६॥
-
-[^410]: "ख–इदमधं नास्ति"
 
 स शक्तीश्च पिनाकांश्च वज्रान् खड्गान् परश्वथान् ।  
 अन्योन्यममितदा व्यसृजता मुभौ ॥१७॥
@@ -16836,8 +16780,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 बललाघवसम्पन्नस्[^388] सम्पन्नो विक्रमेण च।  
 भैम से निरथ क्रुद्धस् सर्वसैन्यस्य पश्यतः ॥७२॥
 
-[^388]: "ख–अर्धद्वयं नास्ति"
-
 असृक्क्षरितसर्वाङ्गश् चूर्णितास्थि विभूषणः।  
 घटोत्कचेन निष्पिष्टो हतस्सालकटङ्कटः ॥७३॥
 
@@ -16900,11 +16842,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥ षण्णवतितमोऽध्यायः ॥
 
-![](../books_images/U-IMG-1706521924Screenshot2024-01-09130841.png)
+<MISSING_FIG href="../books_images/U-IMG-1706521924Screenshot2024-01-09130841.png"/>
 
 रणाङ्कणे पाञ्चजन्यस्वने श्रुते अश्रुते च गाण्डीवघोषे अर्जुनस्य विपदमाशङ्कमानेन युधिष्ठिरेण सात्यकि प्रति अर्जुनवृत्तान्तपरिज्ञानाय गमनचोदना ॥१॥  
 अर्जुनं प्रति गच्छेति युधिष्टिरचोदितेन सात्यकिना तं प्रति स्वस्थार्जुनेन तद्रक्षणाय नियोगाभिधानपूर्वक स्वेन तस्यापरित्याज्यत्वकथनम् ॥ २॥  
-![](../books_images/U-IMG-1706521984Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706521984Screenshot2023-12-26160236.png"/>
 
 धृतराष्ट्रः—
 
@@ -17011,8 +16953,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 तस्मिन्[^394] द्रोणेन निहताः पाञ्चालाः पञ्चविंशतिः।  
 महारथसमाख्याता धृष्टद्युम्नस्य सम्मताः ॥२९॥
 
-[^394]: "ख–अर्धपञ्चकं नास्ति"
-
 पाञ्चालेष्वथ[^424] शूरेषु केकयेषु च मानवाः।
 
 [^424]: "क–कोशएकस्मिन्नेवेदमर्धं वर्तते"
@@ -17054,9 +16994,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 न नूनं स्वस्ति पार्थस्य यथा नदति शङ्खराट्।  
 कौरवाच यथा हृष्टा विनदन्ति मुहुर्मुहुः ॥४०॥
 
-व्यक्तमद्य विनश्यन्ते सर्वलोकमहारथाः[![](../books_images/U-IMG-1706523634Screenshot2023-05-17160608.png)][^361] ॥४०॥
-
-[^361]: "सर्वेषु कोशेषु अवैवाध्यायसमाप्तिर्दृश्यते ।"
+व्यक्तमद्य विनश्यन्ते सर्वलोकमहारथाः<MISSING_FIG href="../books_images/U-IMG-1706523634Screenshot2023-05-17160608.png"/>[^361] ॥४०॥
 
 सञ्जयः—
 
@@ -17284,14 +17222,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६९॥ जयद्रथवधपर्वणि विंशोऽध्यायः ॥ २०॥  
 \[अस्मि नभ्याये १०९॥श्लोकाः\]  
 
-![](../books_images/U-IMG-1706589532Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706589532Screenshot2023-12-26160236.png"/>
 
 सप्तनवतितमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706589557Screenshot2024-01-09183043.png)
+<MISSING_FIG href="../books_images/U-IMG-1706589557Screenshot2024-01-09183043.png"/>
 
 युधिष्टिरेण भीमादिभिः स्वस्थ रक्षणकथनपूर्वकं पुनः सात्यकेरर्जुनं प्रतिगमने नियोजनम् ॥  
-![](../books_images/U-IMG-1706589532Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706589532Screenshot2023-12-26160236.png"/>
 
 सञ्जयः—
 
@@ -17355,12 +17293,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 जयद्रथमहं[^410] हत्वा ध्रुवमेष्यामि माधव।  
 न धर्मराजं द्रोणश्चेन्निगृहीयाद्रणे बलात् ॥१८॥
 
-[^410]: "ख–इदमधं नास्ति"
-
 निगृहीते नरश्रेष्ठे भारद्वाजेन माधव।  
 सैन्धवस्य[^410] वधो न स्यान्ममाप्रीतिस्तथा भवेत् ॥१९॥
-
-[^410]: "ख–इदमधं नास्ति"
 
 एवंगते नरश्रेष्ठे पाण्डवे सत्यवादिनि।  
 अस्माकं गमनं व्यक्तं व्यर्थमेव भवेधुधि ॥२०॥
@@ -17383,8 +17317,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 आचार्यो लघुहस्तश्च अवध्यकवचावृतः।  
 उपलभ्य[^394] रणे क्रीडेद् यथा शकुनिना शिशुः ॥२६॥
-
-[^394]: "ख–अर्धपञ्चकं नास्ति"
 
 यदि काणिर्धनुष्पाणिर् इह स्यान्मकरध्वजः।  
 तस्मै त्वां विसृजेयं वै स त्वां रक्षेद्यथाऽर्जुनः ॥२७॥
@@ -17461,8 +17393,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 घृष्टकेतुश्च बलवान् कुन्तिभोजश्च मातुलः।  
 नकुलस्सहदेवश्च[^410] पाञ्चालास्सृञ्जयास्तथा ॥
 
-[^410]: "ख–इदमधं नास्ति"
-
 एते समाहितास्तात रक्षिष्यन्ति न संशयः ॥४८॥
 
 न द्रोणस्सह सैन्येन कृतवर्मा च संयुगे।  
@@ -17490,10 +17420,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 **॥अष्टनवतितमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1706591275Screenshot2024-01-09183043.png)
+<MISSING_FIG href="../books_images/U-IMG-1706591275Screenshot2024-01-09183043.png"/>
 
 सात्यकेः युधिष्टिररक्षणे भीमं नियोज्यार्जुनदर्शनाय प्रस्थानम्॥  
-![](../books_images/U-IMG-1706591297Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706591297Screenshot2023-12-26160236.png"/>
 
 **सञ्जयः—**
 
@@ -17518,8 +17448,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 यो मे प्रियतरो राजन् सत्यमेतद्रवीमि ते ॥६॥
 
 यथा[^410] हि मे गुरोर्वाक्यं विशिष्टं द्विपदां वर ।
-
-[^410]: "ख–इदमधं नास्ति"
 
 तथा तवापि वचनं विशिष्टतरमेव मे ॥७॥
 
@@ -17620,8 +17548,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 सन्ति गोयोनयश्चात्र सन्ति वारणयोनयः।  
 मक्षिकायोनयश्चान्ये[^410] तथा वानरयोनयः ॥३७॥
 
-[^410]: "ख–इदमधं नास्ति"
-
 अनीकमसतामेतद् धूमवर्णमुदीर्यते ।  
 म्लेच्छानां पापकर्तॄणां हिमव दुर्गवसिनाम् ॥३८॥
 
@@ -17685,8 +17611,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 तस्मान्मे[^365] वाजिनो मुक्तान् विश्रान्तांश्च विचक्षणैः।  
 उपावृत्तांश्च पीतांश्च पुनर्युञ्जन्तु मे रथे ॥५५॥
 
-[^365]: "ख–अर्धचतुष्टयं नास्ति"
-
 सञ्जयः—
 
 तस्य सर्वानुपासङ्गान् सर्वोपकरणानि च।  
@@ -17697,8 +17621,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 पीतोपवृत्तान् स्त्रातांच जग्धान्नान् समलङ्कृतान्।  
 विनीतशल्यांस्तुरगांशू[^388] चतुरो हेममालिनः ॥५८॥
-
-[^388]: "ख–अर्धद्वयं नास्ति"
 
 तान् युक्तान् रूप्यवर्णाभान् विनीताञ् शीघ्रगामिनः।  
 संहृष्टमनसो व्यग्रान् विधिवत् कल्पिते थे ॥५९॥
@@ -17804,10 +17726,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 ॥एकोनशततमोऽध्यायः॥
 
-![](../books_images/U-IMG-1706603641Screenshot2024-01-09190011.png)
+<MISSING_FIG href="../books_images/U-IMG-1706603641Screenshot2024-01-09190011.png"/>
 
 अर्जुनं गच्छतः सात्यकेः कृतवर्मणा सह युद्धम्॥  
-![](../books_images/U-IMG-1706603684Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706603684Screenshot2023-12-26160236.png"/>
 
 सञ्जयः—
 
@@ -17819,11 +17741,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ततः पाञ्चालराजस्य पुत्रस्सङ्ग्रामदुर्मदः ।  
 प्रयाते[^227] माधवे राजन्निदं वचनमब्रवीत् ॥२॥
 
-[^227]: "ङ–अर्धचतुष्टयं नास्ति"
-
 प्राक्रोशत्[^410] पाण्डवानीके वसुदामा च पार्थिवः ॥३॥
-
-[^410]: "ख–इदमधं नास्ति"
 
 वसुदामा—
 
@@ -17906,8 +17824,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 तं द्रोणस्साश्वयन्तारं सरथध्वजमायुगैः।  
 त्वरन्[^388] प्रच्छादयद्वाणैश शलभानामिव ब्रजैः ॥२७॥
 
-[^388]: "ख–अर्धद्वयं नास्ति"
-
 तथैव युयुधानोऽपि द्रोणं बहुभिराशुगैः।  
 प्रच्छादयदसम्भ्रान्तस् त्वरमाणो महारथः ॥२८॥
 
@@ -17943,8 +17859,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 
 एतदालोक्यते सैन्यम् आवन्त्यानां महाप्रभम्।  
 अभेद्यमरिभिर्वीरैस्[^359] सुमहद्भिर्महलम् ॥३६॥
-
-[^359]: "घ–नास्तीदमर्धम्"
 
 अस्यानन्तरतश्चैतद् बाह्रीकानां महद्बलम् ।  
 तदनन्तरमेवैतद् दाक्षिणात्यं महद्रलम् ॥३७॥
@@ -18071,14 +17985,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 द्रोणपर्वणि एकोनशततमोऽध्यायः ॥९९॥  
 ॥६९॥ जयद्रथवधपर्वणि योविंशोऽध्यायः ॥२३॥  
 \[अस्मिन्नध्याये ७३ श्लोकाः\]  
-![](../books_images/U-IMG-1706615068Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706615068Screenshot2023-12-26160236.png"/>
 
 ॥ शततमोऽध्यायः ॥
 
-![](../books_images/U-IMG-1706615170Screenshot2024-01-09183043.png)
+<MISSING_FIG href="../books_images/U-IMG-1706615170Screenshot2024-01-09183043.png"/>
 
 धृतराष्ट्रस्य स्वसैन्यपराजयश्रवणेन शोचनम् ॥१॥ सञ्जयेन तदुपालम्भपूर्वकं कृतवर्मंपराक्रमकथनम् ॥२॥  
-![](../books_images/U-IMG-1706615206Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706615206Screenshot2023-12-26160236.png"/>
 
 धृतराष्ट्रः—
 
@@ -18218,11 +18132,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 भारद्वाजस्तथा तेषु दृढवैरो महाबलः ॥४२॥
 
 अर्जुनश्चापि यचक्रे सिन्धुराजवधं प्रति ।  
-तन्मे सर्व समाचक्ष्व कुशलो ह्यसि सञ्जय ॥४३॥[![](../books_images/U-IMG-1706627641Screenshot2023-05-17160608.png)][^271]
+तन्मे सर्व समाचक्ष्व कुशलो ह्यसि सञ्जय ॥४३॥<MISSING_FIG href="../books_images/U-IMG-1706627641Screenshot2023-05-17160608.png"/>[^271]
 
 सञ्जयः—
-
-[^271]: "सर्वेषु कोशेषु अत्रैवाध्यायसमाप्तिर्दृश्यते ।"
 
 आत्मापराधसम्भूतं व्यसनं भरतर्षभ ।  
 प्राप्य प्राकृतवद्धीर न त्वं शोचितुमर्हसि ॥४४॥
@@ -18397,7 +18309,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODU1NzAxMDIxMTI
 ॥६९॥ जयद्रथवधपर्वणि चतुर्विंशोऽध्यायः ॥२४॥  
 \[अस्मिन्नध्याये ९६ ॥ श्लोकाः\]
 
-![](../books_images/U-IMG-1706628670Screenshot2023-12-26160236.png)
+<MISSING_FIG href="../books_images/U-IMG-1706628670Screenshot2023-12-26160236.png"/>
 
 अतः परं जयद्रथवधपर्वणि एकशततमाध्याये आद्यश्श्लोकः
 
@@ -18465,4 +18377,3 @@ V. Ramaswamy Sastrulu & Sons, at the ‘Vavilla’ Press, Madras.
 |   शक्त्यष्टि    |  शक्त्यृष्टि  |
 
 \]
-

@@ -24,9 +24,9 @@ Approved by Government,
 **नीतिपाठम्।**  
 **\[ द्वितीयो भागः \]**
 
-**![](../books_images/1684353836.png)**
+**<MISSING_FIG href="../books_images/1684353836.png"/>**
 
-**![](../books_images/1684353860.png)**  
+**<MISSING_FIG href="../books_images/1684353860.png"/>**  
 
 श्रीश्यामाचरण-कविरत्नेन  
 सङ्कलितम्  
@@ -42,11 +42,11 @@ Registered under Act XX o 1847
 **नीतिपाठम्।**  
 **( द्वितीयो भाग. )**
 
-![](../books_images/1684434720.png)  
+<MISSING_FIG href="../books_images/1684434720.png"/>  
 
 **श्रीश्यामाचरण-कविरत्नेन**  
 **सङ्कलितम्।**  
-![](../books_images/1684434763.png)  
+<MISSING_FIG href="../books_images/1684434763.png"/>  
 
 **\[ षष्ठ सस्करणम्\]**  
 
@@ -57,6 +57,7 @@ Registered under Act XX o 1847
 
 All rights reserved                        
 Price 3 Annas.                           
+ 
 
 **Published by N. Banerji,**
 
@@ -69,7 +70,7 @@ VICTORIA PRESS "**
 2 Goabagan Street,  
 ***CALCUTTA***
 
-![](../books_images/1684435208.png)  
+<MISSING_FIG href="../books_images/1684435208.png"/>  
 **ईश्वरचन्द्र विद्यासागर।**
 
 বিজ্ঞাপন।
@@ -612,4 +613,3 @@ VICTORIA PRESS "**
 —————
 
 \]
-

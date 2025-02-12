@@ -18,13 +18,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyNjg5NTM5NDI
 
 [TABLE]
 
-![](../books_images/U-IMG-1700763815i1.png)
+<MISSING_FIG href="../books_images/U-IMG-1700763815i1.png"/>
 
 ॥ श्रीः ॥
 
 **॥ श्रीरामायणसारसंग्रहस्तोत्रम्॥**
 
-**![](../books_images/U-IMG-1700763742i1.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1700763742i1.png"/>**
 
  इह खलु भगवान्प्राचेतसः कमलासनवरलब्धसकलार्थवेदनःश्रीरामचन्द्रचरितवर्णनात्मकं श्रीरामायणाख्यं महदादिकाव्यं निर्मये। तन्निर्भिमाणश्च तत्र निबद्धैःश्रीरामचन्द्रवचनैस्तच्चरितकाव्यान्तरवचनैः स्ववचनैश्च सकलदेवतातिशायिनं शिवस्य महिमातिशयं व्यञ्जयामासेत्येतदर्थप्रतिपादकं शिवस्तोत्रमारभमाणस्तत्प्रतिपाद्यमर्थेतावत्प्रतिजानीते—
 
@@ -474,6 +474,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyNjg5NTM5NDI
 
 संपूर्णम्।
 
-![](../books_images/U-IMG-1701453317इ१.png)
+<MISSING_FIG href="../books_images/U-IMG-1701453317इ१.png"/>
 
 \]

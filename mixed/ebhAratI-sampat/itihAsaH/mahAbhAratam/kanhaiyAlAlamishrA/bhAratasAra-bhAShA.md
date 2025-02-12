@@ -20,7 +20,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 [TABLE]
 
 **भूमिका।  
-![](../books_images/U-IMG-1726066920BHARATASAR_BHASHA_1-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726066920BHARATASAR_BHASHA_1-removebg-preview.png"/>**
 
 ** प्रियपाठक गण !**
 
@@ -47,7 +47,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
    मुरादाबाद यू० पी०
 
 **\[ समर्पणपत्र \]  
-![](../books_images/U-IMG-1726068408BHARATASAR_BHASHA_2-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726068408BHARATASAR_BHASHA_2-removebg-preview.png"/>**
 
 **अशेष दया दाक्षिण्यादि गुण सम्पन्न राजेन्द्रकुलभूषण वैश्यकुलकमल-**  
 **दिवाकर पीलीभीत नगरस्य श्रील श्रीयुक्त-  
@@ -63,7 +63,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **श्रीगणेशाय नमः।**
 
 **अथ भाषाभारतसारानुक्रमणिका।  
-![](../books_images/U-IMG-1726840724BHARATSAR_BHASHA_22-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726840724BHARATSAR_BHASHA_22-removebg-preview.png"/>**
 
 [TABLE]
 
@@ -85,14 +85,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **भारतसारभाषाकी विषयानुक्रमणि समाप्त॥**
 
-![](../books_images/U-IMG-1726843951BHARATASAR_BHASHA_23-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1726843951BHARATASAR_BHASHA_23-removebg-preview.png"/>
 
-![](../books_images/U-IMG-1725690011full.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1725690011full.PNG"/>
 
 **श्रीकृष्णाय नमः।**
 
 **अथ भारतसार भाषा  
-![](../books_images/U-IMG-1726812109BHARATASAR_BHASHA_12-removebg-preview(2).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726812109BHARATASAR_BHASHA_12-removebg-preview(2"/>.png)**
 
 **देर्व १.**
 
@@ -122,7 +122,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **प्रथमोऽध्यायः।**
 
-**![](../books_images/U-IMG-1726812253BHARATASAR_BHASA_4-removebg-preview(3).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726812253BHARATASAR_BHASA_4-removebg-preview(3"/>.png)**
 
 **श्रीकृष्णस्य पदाम्बुजं मनोहरं नत्वाहमादौ मुहुः  
 सारासारविवेकिनां रतिविदं पाखण्डमूलोच्छिदम्॥**
@@ -155,7 +155,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  (अधिक क्या कहाजाय जब) मज्जामाँसका पिंड देह दुर्गन्धमय होगया अर्थात् सारे शरीरसे दुर्गन्ध निकलनेलगी, तब महाराज जन्मेजयने श्रीवेदव्यासजीको याद किया और उनके याद करतेही वे आनकर उपस्थित हुए॥५२॥ इति श्रीभारतसारे आदिपर्वणि कन्हैयालालमिश्रमुरादाबादनि- वासिकृतभाषाटीकायां व्यासागमो नाम प्रथमोऽध्यायः॥१॥
 
 **द्वितीयोऽध्यायः २.  
-![](../books_images/U-IMG-1726135426BHARATSAR_BHASHA_3-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726135426BHARATSAR_BHASHA_3-removebg-preview.png"/>**
 
 **ब्रह्महत्यानिवृत्ति नृपकुष्ठविनाशनम्॥  
 वैशम्पायनविप्रस्य द्वितीये प्राप्तिरुच्यते॥१॥**
@@ -187,7 +187,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  जन्मेजय बोले, हे निसत्तम ! मैं प्रथम अपने पूर्व पुरुषोंके विषयमें ही आपसे पूंछताहूँ कि, पांडुके पुत्र शूरवीर पाँचों पाण्डवोंकी उत्पत्ति किस प्रकारसे हुई ? वहआप मेरेप्रति वर्णन कीजिये॥२९॥ इति श्रीभारतसारे हस्तिनापुरे वैशंपायनप्रवेशो नाम द्वितीयोऽध्यायः॥२॥
 
 **तृतीयोऽध्यायः ३.  
-![](../books_images/U-IMG-1726138052BHARATASAR_BHASA_4-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726138052BHARATASAR_BHASA_4-removebg-preview.png"/>**
 
 **तृतीये शपनं धेनोरजमस्त भेदनम्॥  
 त्रिपुरासुरपंचत्वमन्यच्चापीह वर्ण्यते॥१॥**
@@ -217,7 +217,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **चतुर्थोऽध्यायः ४.  
-![](../books_images/U-IMG-1726140059BHARATASAR_BHASHA_5-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726140059BHARATASAR_BHASHA_5-removebg-preview.png"/>**
 
 **चतुर्थे वासनामुक्तः शिवो गांगेयन्म च॥  
 इति दाशस्य कन्यायां व्यासोत्पत्तिश्व वर्ण्यते॥१॥**
@@ -281,7 +281,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **पंचमोऽध्यायः ५.  
-![](../books_images/U-IMG-1726183035BHARATASAR_BHASHA_6-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726183035BHARATASAR_BHASHA_6-removebg-preview.png"/>**
 
 **पञ्चमे व्यासनिर्याणं वने चित्रविचित्रयोः।  
 निधनं धार्त्तराष्ट्रणां जन्महेतुश्वकथ्यते॥१॥**
@@ -315,7 +315,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **षष्ठोऽध्यायः ६.**  
-**![](../books_images/U-IMG-1726193813BHARATASAR_7-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726193813BHARATASAR_7-removebg-preview.png"/>**
 
 **षष्ठे दुर्वाससः कुन्ती लेभे मन्त्रंततोऽभवत्।  
 कर्णश्चकर्णमालस्य पाण्डुशापः स्त्रिया मुनेः॥१॥**
@@ -360,7 +360,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **सप्तमोऽध्यायः ७.  
-![](../books_images/U-IMG-1726197453BHARATASAR_7-removebg-preview-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726197453BHARATASAR_7-removebg-preview-removebg-preview.png"/>**
 
 **सप्तमे शतपुत्राणां धृतराष्ट्रस्य जन्म च।  
 कुरुपाण्डवविद्याप्ती राज्यप्राप्तिश्चकथ्यते॥१॥**
@@ -398,7 +398,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **अष्टमोऽध्यायः ८.  
-![](../books_images/U-IMG-1726308313BHARATASAR_BHASHA_1-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726308313BHARATASAR_BHASHA_1-removebg-preview(1"/>.png)**
 
 **अष्टमे कर्णसामर्थ्यं नागरा स्य तोषणम्।  
 दुर्योधनस्य संतुष्टान्मोचनं सम्यगुच्यते॥१॥**
@@ -445,7 +445,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **दशमोऽध्यायः १०.  
-![](../books_images/U-IMG-1726305938BHARATASAR_BHASHA_9-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726305938BHARATASAR_BHASHA_9-removebg-preview.png"/>**
 
 **दशमे पाण्डवावास इन्द्रप्रस्थेऽग्नितो भयम्।  
 हिडिंबादर्शनं जन्म भीमसून्वोर्निगद्यते॥१॥**
@@ -511,7 +511,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **एकादशोऽध्याः११.  
-![](../books_images/U-IMG-1726308717BHARATASAR_BHASHA_10-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726308717BHARATASAR_BHASHA_10-removebg-preview.png"/>**
 
 **एकादशे मत्स्यवेधः पाञ्चाली पञ्चभर्तृा।  
 कुन्त्या वचनतः साभूत्स प्रसङ्ग इहोच्यते॥१॥**
@@ -584,7 +584,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **श्रीहरिः।**
 
 **भारतसार भाषा  
-![](../books_images/U-IMG-1726816685BHARATASAR_BHASHA_12-removebg-preview(2).png)**  
+<MISSING_FIG href="../books_images/U-IMG-1726816685BHARATASAR_BHASHA_12-removebg-preview(2"/>.png)**  
 **सभापर्व २.**
 
 **द्वादशोऽध्यायः १२.**
@@ -637,7 +637,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **त्रयोदशोऽध्यायः १३.  
-![](../books_images/U-IMG-1726312969BHARATASAR_BHASHA_11-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726312969BHARATASAR_BHASHA_11-removebg-preview.png"/>**
 
 **त्रयोदशे पाण्डवानां राजसूये महोदयः॥  
 योगिन्याः सहदेवस्य संग्रामोऽभूत्सथ्यते॥१॥**
@@ -697,7 +697,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **पंचदशोऽध्यायः १५.  
-![](../books_images/U-IMG-1726321107BHARATASAR_BHASAHA_8-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726321107BHARATASAR_BHASAHA_8-removebg-preview(1"/>.png)**
 
 **पञ्चदशे माद्रेयेण प्राप्तं मण्डपमुत्तमम्।  
 शिशुपालस्य पञ्चत्वं राजसूये निगद्यते॥१॥**
@@ -780,7 +780,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **षोडशोऽध्यायः १६.  
-![](../books_images/U-IMG-1726325628BHARATASAR_BHASHA_2-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726325628BHARATASAR_BHASHA_2-removebg-preview(1"/>.png)**
 
 **षोडशे यज्ञपूर्णार्थमाप्तिर्वायु तस्य च।  
 विप्रमुख्यस्य मुक्तिश्व पांडुरायस्य वर्ण्यते॥१॥**
@@ -804,7 +804,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **सप्तदशोऽध्यायः १७.  
-![](../books_images/U-IMG-1726327341BHARATASAR_BHASHA_12-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726327341BHARATASAR_BHASHA_12-removebg-preview.png"/>**
 
 **सप्तदशेऽमलाकीर्त्तिर्युधिष्ठिरनृपस्य च॥  
 दुर्योधनापमानं च सभायामिह भण्यते॥१॥**
@@ -836,7 +836,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **अष्टादशोऽध्यायः १८.  
-![](../books_images/U-IMG-1726329426BHARATASAR_BHASHA_5-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726329426BHARATASAR_BHASHA_5-removebg-preview(1"/>.png)**
 
 **अष्टादशेऽक्षविद्या च दुःशासनमहानयम्॥  
 पाण्डवानां च निर्याणं वनायेति निगद्यते॥१॥**
@@ -967,12 +967,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **श्रीकृष्णाय नमः।**
 
 **भारतसार भाषा।  
-![](../books_images/U-IMG-1726486007सुभाषितावली1-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726486007सुभाषितावली1-removebg-preview.png"/>**
 
 **वनपर्व ३.**
 
 **एकोनविंशोऽध्यायः १९.**  
-**![](../books_images/U-IMG-1726486096सुभाषितावली2-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726486096सुभाषितावली2-removebg-preview.png"/>**
 
 **एकोनविंशे चेन्द्रेण शक्रशंकरमे नम्।  
 नलराजस्य वृत्तान्तमन्यच्चापि निगद्यते॥१॥**
@@ -1133,7 +1133,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **द्वाविंशोऽध्यायः २२.  
-![](../books_images/U-IMG-1726577518BHARATASAR_BHASAHA_8-removebg-preview(3).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726577518BHARATASAR_BHASAHA_8-removebg-preview(3"/>.png)**
 
 **द्वाविंशे विबुधान्हित्वा देवी चक्रे नलं ध्रुवम्।  
 देवेशेभ्यो वरप्राप्तिर्न रा++स्यवर्ण्यते॥१॥**
@@ -1344,7 +1344,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **पञ्चविंशोऽध्यायः २५.  
-![](../books_images/U-IMG-1726809644BHARATASAR_BHASHA_12-removebg-preview(2).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726809644BHARATASAR_BHASHA_12-removebg-preview(2"/>.png)**
 
 **पञ्चविंशे तु गज्ञ्याश्चविरहश्चनलस्य वै।  
 व्याधस्य मरणं चैव दुष्टबुद्धेश्चकथ्यते॥१॥**
@@ -1422,7 +1422,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  कि 'यह पापमति नीच गव्याध प्राणहीन होजावे' पतिव्रता महारानी दमयन्तीके यह बात कहतेही वह मृगजीवी व्याधा अग्निसे जलेहुए वृक्षकी समान प्राणरहित होकर पृथ्वीपर गिरपडा॥५४॥ इतिश्रीभारतसारे वनपर्वणि भाषायां नलोपाख्यानवर्णनं नाम पञ्चविंशोऽध्यायः॥२५॥
 
 **षड्विंशोऽध्यायः २६.  
-![](../books_images/U-IMG-1726586523BHARATASAR_BHASA_4-removebg-preview(2).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726586523BHARATASAR_BHASA_4-removebg-preview(2"/>.png)**
 
 **षड्विंशे नलपत्न्याश्च++ननेऽतिविलापनम्॥  
 मुनिभिः सह संवादस्तस्या राज्याश्चकथ्यते॥३॥**
@@ -1499,7 +1499,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **अष्टाविंशोऽध्यायः २८.  
-![](../books_images/U-IMG-1726628863BHARATASAR_BHASHA_19-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726628863BHARATASAR_BHASHA_19-removebg-preview.png"/>**
 
 **अष्टाविंशे नलस्यैव नागेन सह संगमः।  
 कर्कोटकेन तत्तस्य+++रणमुच्यते॥१॥**
@@ -1552,7 +1552,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **एकोनत्रिंशोऽध्यायः २९.  
-![](../books_images/U-IMG-1726632711BHARATASAR_BHASA_4-removebg-preview(3).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726632711BHARATASAR_BHASA_4-removebg-preview(3"/>.png)**
 
 **एकोनत्रिंश ++ईशेन्द्र ऋतुपर्णपुरं गतः।  
 दूतान्संप्रेषयामास भीमोऽपि त्विह कथ्यते॥१॥**
@@ -1760,7 +1760,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  तब हे राजन् ! पृथ्वीपति महाराज नल कलिसे छुटकारा पाकर शोकरहित हो सुखपूर्वक विराजमान हुए॥३६॥ इति श्रीभारतसारे वनपर्वणि भाषायां नलोपाख्यानवर्णनं नाम पञ्चत्रिंशोऽध्यायः॥३५॥
 
 **षट्त्रिंशोऽध्यायः ३६.  
-![](../books_images/U-IMG-1726667079BHARATASAR_BHASHA_15-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726667079BHARATASAR_BHASHA_15-removebg-preview(1"/>.png)**
 
 **षट्त्रिंशे केशिनीदासी न दारैश्चप्रेरिता।  
 बाहुकं परिपप्रच्छ नल++नाय ++थ्यते॥१॥**
@@ -1788,7 +1788,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **सप्तत्रिंशोऽध्यायः ३७.  
-![](../books_images/U-IMG-1726668340BHARATASAR_BHASHA_5-removebg-preview(2).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726668340BHARATASAR_BHASHA_5-removebg-preview(2"/>.png)**
 
 **सप्तत्रिंशे नलस्यैव दमयन्त्याश्चमेलनम्॥  
 पतित्यागभयात्तत्र पूजनं तत्र कथ्यते॥१॥**
@@ -1818,7 +1818,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 तब राजकुमारी दमयन्तीने महाराज नलकी यह उदार बातें सुनकर कंपित और डरते डरते हाथ जोडकर कहा॥५६॥ इति श्रीभारतसारे वनपर्वणि भाषायां नलोपाख्यानवर्णनं नाम सप्तत्रिंशोऽध्यायः॥३७॥
 
 **अष्टत्रिंशोऽध्यायः ३८**.  
-![](../books_images/U-IMG-1726368355BHARATASAR_BHASHA_12-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-1726368355BHARATASAR_BHASHA_12-removebg-preview(1"/>.png)
 
 **अष्टत्रिंशे च संवादो दमयन्त्या नलस्य च।  
 भीमादीनां महाहर्षो दर्शनादेव कथ्यते॥३॥**
@@ -1858,7 +1858,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **––––––––––––**  
 **एकोनचत्वारिंशोऽध्यायः ३९.  
-![](../books_images/U-IMG-1726383065BHARATASARBHASHA13.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726383065BHARATASARBHASHA13.png"/>**
 
 **एकोनचत्वारिंशे चक्षुश्वशुरेण च भाषणम्॥  
 नलस्य भूयो राज्यस्य द्यूतेनाप्तिश्व कथ्यते॥१॥**
@@ -1902,7 +1902,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  इस भाँति वह पुष्कर महाराज नलसे सत्कार पाय नलको सन्तुष्ट करस्वजनों समेत अपने नगरको चलागया तब फिर महाराज नलने अपने नगरवासी मनुष्योंको सान्त्वना दी अर्थात् अनेक तरहसे उनको सन्तुष्ट किया॥२१॥ इति श्रीभारतसारे वनपर्वणि भाषायां नलोपाख्यानवर्णनं नाम एकोनचत्वारिंशोऽध्यायः॥३९॥
 
 **चत्वारिंशोऽध्यायः ४०.**  
-![](../books_images/U-IMG-1726394580BHARATASAR_BHASHA_2-removebg-preview(2).png)
+<MISSING_FIG href="../books_images/U-IMG-1726394580BHARATASAR_BHASHA_2-removebg-preview(2"/>.png)
 
 **चत्वारिंशे सभार्यस्यानन्दो राज्यस्य तस्य च॥  
 नलस्य ऋतुपर्णस्य सत्कीर्त्तनमिहोच्यते॥१॥**
@@ -1950,7 +1950,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **––––––––––––––––––**
 
 **एकचत्वारिंशोऽध्यायः ४**  
-![](../books_images/U-IMG-1726396156BHARATASAR_BHASHA_2-removebg-preview(2).png)
+<MISSING_FIG href="../books_images/U-IMG-1726396156BHARATASAR_BHASHA_2-removebg-preview(2"/>.png)
 
 **चत्वारिंशत्तमे सैके हरिश्चन्द्रन्द्रस्य वर्णनम्।  
 मुनिना हृतराज्यस्य कीर्तिं धैर्यं च कथ्यते॥१॥**
@@ -2022,7 +2022,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **––––––––––––––––**  
 **द्विचत्वारिंशोऽध्यायः ४२.**  
-![](../books_images/U-IMG-1726401151BHARATASAR_BHASA_4-removebg-preview(1).png)
+<MISSING_FIG href="../books_images/U-IMG-1726401151BHARATASAR_BHASA_4-removebg-preview(1"/>.png)
 
 **द्विचत्वारिंशेऽध्याये तु मृकण्डात्मजधर्मयोः॥  
 संवादे प्रलयोत्पत्तिरस्य विश्वस्य वर्ण्यते॥१॥**
@@ -2059,7 +2059,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **श्रीः**
 
 **भाषा भारतसार  
-![](../books_images/U-IMG-1726674658BHARATASAR_BHASHA_20-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726674658BHARATASAR_BHASHA_20-removebg-preview.png"/>**
 
 **विराटपर्व।**
 
@@ -2079,7 +2079,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **त्रिचत्वारिंशोऽध्यायः ४३.**
 
-**![](../books_images/U-IMG-1725083113Screenshot(74).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725083113Screenshot(74"/>.png)**
 
 **त्रिचत्वारिंश अध्याये विराटस्य पुरं गतिः।  
 पांडवानां च भीमेन मल्लदर्शनमुच्यते॥१॥**
@@ -2126,7 +2126,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **चतुश्चत्वारिंशोऽध्यायः ४४.**
 
-![](../books_images/U-IMG-1725089267Screenshot2024-08-31125321.png)
+<MISSING_FIG href="../books_images/U-IMG-1725089267Screenshot2024-08-31125321.png"/>
 
 **चतुश्चत्वारिंशेऽध्याये कीचकानां वधो यथा।  
 पाण्डवानाञ्च प्राकट्यंसभायां कौरवैः तम्॥१॥**
@@ -2299,7 +2299,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **षट्चत्वारिंशोऽध्यायः ४६**.
 
-![](../books_images/U-IMG-1725688020Screenshot2024-09-07111612.png)
+<MISSING_FIG href="../books_images/U-IMG-1725688020Screenshot2024-09-07111612.png"/>
 
 **षट्चत्वारिंश अध्याये सुशर्मणः पराजयः।  
 ++यो भीमस्य युद्धाच्च नृपमोचनमुच्यते॥१॥**
@@ -2346,7 +2346,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **––––––––––––––––––**
 
 **सप्तचत्वारिंशोऽध्यायः ४७.  
-![](../books_images/U-IMG-1726456725BHARATASAR_BHASHA_12-removebg-preview(2).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726456725BHARATASAR_BHASHA_12-removebg-preview(2"/>.png)**
 
 **सप्तचत्वारिंशत्तमे गोपूत्तरविकत्थनम्।  
 अर्जुनस्य च शूरत्वं मार्गे गमनमुच्यते॥१॥**
@@ -2409,7 +2409,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **अष्टचत्वारिंशोऽध्यायः ४८.**
 
-**![](../books_images/U-IMG-1725784745Screenshot(72).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725784745Screenshot(72"/>.png)**
 
 **अष्टचत्वारिंशत्तमे कुरूणां पार्थकीर्त्तनम्।  
 परस्परं विवादश्चतेषामेव स++थ्यते॥ १॥**
@@ -2454,7 +2454,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **एकोनपञ्चाशत्तमोऽध्यायः ४९.**
 
-**![](../books_images/U-IMG-1725785678Screenshot(72).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725785678Screenshot(72"/>.png)**
 
 **पञ्चाशत्तम एकोन उत्तरस्य पलायनम्।  
 गोसुखं पार्थशूरत्वं तस्याप्युत्कर्ष उच्यते॥**
@@ -2508,7 +2508,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **पञ्चाशत्तमोध्यायः ५०.  
-![](../books_images/U-IMG-1726487611BHARATASAE_BHASHA_14-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726487611BHARATASAE_BHASHA_14-removebg-preview.png"/>**
 
 **पञ्चाशत्तम अध्याये संप्रश्नश्वोत्तरस्य च।  
 पार्थस्य धार्त्तराष्ट्राणां संग्रामागम उच्यते॥१॥**
@@ -2581,7 +2581,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **एकपञ्चाशत्तमोऽध्यायः ५१.  
-![](../books_images/U-IMG-1726492603BHARATASAR_BHASAHA_8-removebg-preview(2).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726492603BHARATASAR_BHASAHA_8-removebg-preview(2"/>.png)**
 
 **एकपञ्चाशत्तमे च कुरूणामजयो जयः।  
 पार्थस्योत्तरपित्रोश्च संवादस्त्विह कथ्यते॥१॥**
@@ -2701,7 +2701,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  महाराज युधिष्ठिर इस तरह भाँति भाँतिके वचनोंसे राजा विराटको सन्तुष्ट करतेहुए वहाँ राजाओंकी रीतिके अनुसार सुखपूर्वक रहने लगे॥२८॥ इति श्रीभारतसारे विराटपर्वणि भाषायां युधिष्ठिरराज्याभिषेको नाम द्विपञ्चाशत्तमोऽध्यायः॥५२॥
 
 **त्रिपञ्चाशत्तमोऽध्यायः ५३.  
-![](../books_images/U-IMG-1726578905BHARATASAR_BHASHA_15-removebg-preview.png)**
+<MISSING_FIG href="../books_images/U-IMG-1726578905BHARATASAR_BHASHA_15-removebg-preview.png"/>**
 
 **त्रिपंचाशत्तमेऽध्याये वा देवागमस्तथा।  
 अभिमन्योरुत्तराया उद्वाह वै थ्यते॥१॥**
@@ -2777,7 +2777,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **॥श्रीः॥  
 भारतसार भाषा  
-![](../books_images/U-IMG-1726580985BHARATASAR_BHASHA_16-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-1726580985BHARATASAR_BHASHA_16-removebg-preview.png"/>  
 उद्योगपर्व**
 
 **जय जय जय ++खमा सदन, भक्तन प्रान अधार।  
@@ -2863,7 +2863,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **पञ्चपञ्चाशत्तमोऽध्यायः ५५.  
-![](../books_images/U-IMG-1726583552BHARATASAR_BHASHA_11-removebg-preview(1).png)**
+<MISSING_FIG href="../books_images/U-IMG-1726583552BHARATASAR_BHASHA_11-removebg-preview(1"/>.png)**
 
 **पञ्चपञ्चाशत्तमे च सभायां विदुरेण च।  
 श्रीकृष्णसंगतिर्धाष्ट्यं कौरवाणां च कथ्यते॥१॥**
@@ -2951,7 +2951,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **षट्पञ्चाशत्तमोऽध्यायः ५६.**
 
-**![](../books_images/U-IMG-1725263281Screenshot(74).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725263281Screenshot(74"/>.png)**
 
 **षट्पञ्चाशत्तमेऽध्याये पुनः श्रीकृष्णमेलनम्।  
 पाण्डवानां कुरूणाञ्च युद्धोद्योगश्चकथ्यते॥ १॥**
@@ -3006,7 +3006,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **सप्तपञ्चाशत्तमोऽध्यायः ५७.**
 
-![](../books_images/U-IMG-1726762105BHARATASAR_BHASHA_9-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-1726762105BHARATASAR_BHASHA_9-removebg-preview.png"/>
 
 **सप्तपञ्चाशत्तमे च कुरुपाण्डवयोर्बलम्।  
 अष्टादशाक्षौहिणीकं प्राप्तं तदिह कथ्यते॥१॥**
@@ -3038,7 +3038,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **अष्टपञ्चाशत्तमोऽध्यायः ५८.**
 
-![](../books_images/U-IMG-1725350363Screenshot2024-09-03132835.png)
+<MISSING_FIG href="../books_images/U-IMG-1725350363Screenshot2024-09-03132835.png"/>
 
 **अष्टपञ्चाशत्तमे च शूरश्लाघा द्विसेनयोः।  
 वर्वरीकशरीरस्य बलिदानमिहोच्यते॥१॥**
@@ -3075,11 +3075,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **भारतसार भाषा**
 
-![](../books_images/U-IMG-1725296514Screenshot2024-09-02222225.png)  
+<MISSING_FIG href="../books_images/U-IMG-1725296514Screenshot2024-09-02222225.png"/>  
 **भीष्मपर्व  
 एकोनषष्टितमोऽध्यायः ५९.**
 
-**![](../books_images/U-IMG-1725296597Screenshot2024-09-02223228.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725296597Screenshot2024-09-02223228.png"/>**
 
 **दोहा—आनँदकन्द मुकुन्दकी, पदरजको शिरनाय।  
 भाषा+++भीपमपर्वकी, निजमति लि त बनाय॥**
@@ -3157,7 +3157,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **षष्टितमोऽध्यायः ६०.**
 
-**![](../books_images/U-IMG-1725297879Screenshot2024-09-02225359.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725297879Screenshot2024-09-02225359.png"/>**
 
 **षष्टितमे नृणां धर्मः कथं स्यान्निरयाद्वतिः।  
 प्रतिज्ञा भीष्मदेवस्य श्रीकृष्णकपयोच्यते॥१॥**
@@ -3232,7 +3232,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **एकषष्टितमोऽध्यायः ६१.**
 
-**![](../books_images/U-IMG-1725349722Screenshot2024-09-03131807.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725349722Screenshot2024-09-03131807.png"/>**
 
 **एकषष्टितमेऽध्याये शूराणां श्लाघिनां तथा।  
 धनञ्जयेन भीष्मस्य युद्धे पतनमुच्यते॥१॥**
@@ -3314,7 +3314,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **भारतसार भाषा**
 
-**![](../books_images/U-IMG-1725787405Screenshot2024-09-08145239.png)![](#)  
+**<MISSING_FIG href="../books_images/U-IMG-1725787405Screenshot2024-09-08145239.png"/><MISSING_FIG href="#"/>  
 द्रोणपर्व ७.  
 द्विषष्टितमोध्यायः ६२.**
 
@@ -3425,7 +3425,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **त्रिषष्टितमोऽध्यायः ६३.**
 
-**![](../books_images/U-IMG-1725687214Screenshot(74).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725687214Screenshot(74"/>.png)**
 
 **त्रिषष्टितम अध्याये प्रतिज्ञा फाल्गुनस्य च।  
 जयद्रथस्य पञ्चत्वमधर्मादेव कथ्यते॥१॥**
@@ -3506,7 +3506,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **चतुःषष्टितमोऽध्यायः ६४.**
 
-**![](../books_images/U-IMG-1725719385Screenshot(72).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725719385Screenshot(72"/>.png)**
 
 **चतुःषष्टितमेऽध्याये कुरुसैन्यविमर्दनम्।  
 घटोत्कचेन वीरेण वधस्तस्यापि कथ्यते॥१॥**
@@ -3552,7 +3552,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **पञ्चषष्टितमोऽध्यायः ६५.**
 
-**![](../books_images/U-IMG-1725720358Screenshot(77).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725720358Screenshot(77"/>.png)**
 
 **पञ्चषष्टितमेऽध्याये भीमभीमपराक्रमम्।  
 द्रौपदीवस्त्रकर्पस्य पञ्चत्वमिह कथ्यते॥३॥**
@@ -3613,7 +3613,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 ––––––––––––  
 **षट्षष्टितमोऽध्यायः ६६.**
 
-**![](../books_images/U-IMG-1725444400Screenshot2024-08-31125321.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725444400Screenshot2024-08-31125321.png"/>**
 
 **षट्षष्टितम अध्याये द्रोणाचार्यस्य गौरवम्॥  
 धर्मस्य बलनाशं तद्द्रोणादर्शनमुच्यते॥१॥**
@@ -3687,10 +3687,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **॥श्रीकृष्णाय नमः॥  
 भारतसार भाषा**
 
-**![](../books_images/U-IMG-1725435228Screenshot(70).png)  
+**<MISSING_FIG href="../books_images/U-IMG-1725435228Screenshot(70"/>.png)  
 सप्तषष्टितमोऽध्यायः ६७**
 
-**![](#)![](../books_images/U-IMG-1725435330Screenshot(72).png)**
+**<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1725435330Screenshot(72"/>.png)**
 
 **दोहा–नारायण नर शारदा, व्यास मुनिहि धार ध्यान।  
 + + र्णपर्वशुभ पर्वकहँ, निजमति करत बा+ न॥  
@@ -3768,7 +3768,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **अष्टषष्टितमोऽध्यायः ६८**
 
-**![](../books_images/U-IMG-1725441673Screenshot(73).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725441673Screenshot(73"/>.png)**
 
 **अष्टषष्टितमेऽध्याये नागराजसहायतः।  
 कर्णस्य गरुडाप्तिश्चपातः कर्णस्य कथ्यते॥१॥**
@@ -3807,7 +3807,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **एकोनसप्ततितमोऽध्यायः ६९.**
 
-**![](../books_images/U-IMG-1725442839Screenshot(73).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725442839Screenshot(73"/>.png)**
 
 **एकोनसप्ततितमे दातृत्वं सूर्यजस्य च॥  
 वराप्तिः कृष्णहस्तेन देहदग्धत्वमुच्यते॥१॥**
@@ -3855,7 +3855,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **भारतसार भाषा**
 
-**![](../books_images/U-IMG-1725444749Screenshot(77).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725444749Screenshot(77"/>.png)**
 
 **शल्यपर्व ९.**
 
@@ -3925,12 +3925,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **भारतसार भाषा**
 
-**![](../books_images/U-IMG-1725798194Screenshot2024-09-08175237.png)  
+**<MISSING_FIG href="../books_images/U-IMG-1725798194Screenshot2024-09-08175237.png"/>  
 गदा पर्व**
 
 **एकसप्ततितमोऽध्यायः।**
 
-**![](../books_images/U-IMG-1725798218Screenshot2024-09-08175245.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725798218Screenshot2024-09-08175245.png"/>**
 
 **दोहा—श्रीयदुपति कोमल चरण, वार वार शिरनाय।  
 गदापर्वाभाष्य अब बहु विधि लिखत बनाय॥**
@@ -3977,7 +3977,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **द्विसप्ततितमोऽध्यायः ७२.**
 
-**![](../books_images/U-IMG-1725788752Screenshot2024-09-08151530.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725788752Screenshot2024-09-08151530.png"/>**
 
 **द्विसप्ततितमेऽध्याये गान्धार्याश्च हरिं प्रति॥  
 शापो दुर्योधनस्यैवं युद्धं भीमस्य कथ्यते॥१॥**
@@ -4045,7 +4045,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **त्रिसप्ततितमोध्यायः ७३.**
 
-**![](../books_images/U-IMG-1725605970Screenshot(71).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725605970Screenshot(71"/>.png)**
 
 **त्रिसप्ततितमेऽध्याये बलभद्रागमस्तथा॥  
 भीतेभ्यः पाण्डवेभ्यश्च तस्य मानाप्तिरुच्यते॥१॥**
@@ -4069,7 +4069,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **चतुःसप्ततितमोऽध्यायः ७४**
 
-![](../books_images/U-IMG-1725610711Screenshot(73).png)
+<MISSING_FIG href="../books_images/U-IMG-1725610711Screenshot(73"/>.png)
 
 **चतुःसप्ततितमेऽध्याये पातो दुर्योधनस्य च।  
 बलदेवस्य निर्याणं द्वारकां प्रति कथ्यते॥१॥**
@@ -4107,7 +4107,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  और फिर प्रीति पूर्वक उन्होंने भगवान् श्रीकृष्णको प्रणाम करके कहा कि हे प्रभो! आपने हमलोगोंका पालन किया। इस तरह भाँति भाँतिके वचनोंसे श्रीकृष्णका स्तव किया॥४३॥ इति श्रीभारतलारेगदापर्वणि भाषायां दुर्योधनपतनं नाम चतुःसप्ततितमोऽध्यायः॥७४॥
 
 **पञ्चसप्ततितमोऽध्यायः ७५.  
-![](../books_images/U-IMG-1725555913Screenshot2024-09-03231109.png)**
+<MISSING_FIG href="../books_images/U-IMG-1725555913Screenshot2024-09-03231109.png"/>**
 
 **पञ्चसप्ततितमेऽध्याये गान्धार्याश्चविलापनम्।  
 अयोभीमस्य चूर्णत्वं धृतराष्ट्रेण कथ्यते॥१॥**
@@ -4144,17 +4144,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 ———————
 
-![](../books_images/U-IMG-1725689942Screenshot2024-09-07095942.png)
+<MISSING_FIG href="../books_images/U-IMG-1725689942Screenshot2024-09-07095942.png"/>
 
 **॥श्रीकृष्णाय नमः॥**
 
 **भारतसार भाषा।**
 
-**![](../books_images/U-IMG-1725605449Screenshot2024-09-06122022.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1725605449Screenshot2024-09-06122022.png"/>**  
 **स्त्रीपर्व ११.**
 
 **षट्सप्ततितमोऽध्यायः ७६.**  
-![](../books_images/U-IMG-1725605633Screenshot2024-09-06122331.png)
+<MISSING_FIG href="../books_images/U-IMG-1725605633Screenshot2024-09-06122331.png"/>
 
 ** दोहा**
 
@@ -4188,12 +4188,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **इति श्रीभारतसारे स्त्रीपर्वणि कन्हैलालमिश्रकृतभाषायां स्त्रीपर्व समाप्तम्॥**
 
-![](../books_images/U-IMG-1725608101Screenshot2024-09-06130205.png)
+<MISSING_FIG href="../books_images/U-IMG-1725608101Screenshot2024-09-06130205.png"/>
 
 **॥श्रीकृष्णाय नमः॥**
 
 **भारतसार भाषा।**  
-**![](../books_images/U-IMG-1725610897Screenshot2024-09-06135119.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1725610897Screenshot2024-09-06135119.png"/>**  
 **सौषुप्तिकपर्व १२.**
 
 **षट्सप्ततितमोऽध्यायः ७६.**
@@ -4249,13 +4249,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **॥श्रीकृष्णाय नमः॥**
 
 **भारतसार भाषा।**  
-![](../books_images/U-IMG-1725641889Screenshot2024-09-06222746.png)
+<MISSING_FIG href="../books_images/U-IMG-1725641889Screenshot2024-09-06222746.png"/>
 
 **शान्तिपर्व १३.**
 
 **सप्तसप्ततितमोऽध्यायः ७७.**
 
-**![](../books_images/U-IMG-1725641934Screenshot2024-09-03231109.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725641934Screenshot2024-09-03231109.png"/>**
 
 ** दोहा**
 
@@ -4289,17 +4289,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **॥इति श्रीभारतसारभाषाशान्तिपर्व समाप्तम्॥**
 
-**![](../books_images/U-IMG-1725296582Screenshot2024-09-02223233.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1725296582Screenshot2024-09-02223233.png"/>**  
 
 **॥श्रीकृष्णाय नमः॥**
 
 **भारतसार भाषा।**  
-![](../books_images/U-IMG-1725690483Screenshot2024-09-07115742.png)
+<MISSING_FIG href="../books_images/U-IMG-1725690483Screenshot2024-09-07115742.png"/>
 
 **अनुशासनपर्व १४.**
 
 **अष्टसप्ततितमोऽध्यायः ७८.  
-![](../books_images/U-IMG-1725690418Screenshot2024-09-07115617.png)**
+<MISSING_FIG href="../books_images/U-IMG-1725690418Screenshot2024-09-07115617.png"/>**
 
 ** दोहा**
 
@@ -4378,7 +4378,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  वैशंपायनजी बोले हे जनमेजय। हस्तिनापुरमें स्थित प्रतापबान्महाराज युधिष्ठिर इन्द्रादि देवताओंसे निरन्तर पूजित होतेहैं फिर मनुष्योंकी तो बातही क्या है? इस प्रकार धर्मानुसार पृथ्वीका पालन करतेहुए महाराज युधिष्ठिरराज्य करनेलगे॥४७॥इति श्रीभारतसारे अनुशासनपर्वणि भाषायांयुधिष्ठिरराज्याभिषेको नाम अन- सप्ततितमोऽध्यायः॥७८॥  
 
 **ऊनाशीतितमोऽध्यायः ७९.**  
-![](../books_images/U-IMG-1725176137Screenshot2024-09-01130430.png)
+<MISSING_FIG href="../books_images/U-IMG-1725176137Screenshot2024-09-01130430.png"/>
 
 **ऊनाशीतितमेऽध्यायेऽन्यायेन द्रव्यसंचयः॥  
 कुरूणामिव ऐश्वर्यं हन्तीति ह्युच्यतेऽधुना॥१॥**
@@ -4409,12 +4409,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **॥श्रीकृष्णाय नमः॥**
 
 **भारतसार भाषा।**  
-**![](../books_images/U-IMG-1725821209Screenshot2024-09-09001514.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725821209Screenshot2024-09-09001514.png"/>**
 
 **अश्वमेधपर्व १५.**
 
 **अशीतितमोऽध्यायः ८०**  
-![](../books_images/U-IMG-1725821287Screenshot2024-09-09001742.png)
+<MISSING_FIG href="../books_images/U-IMG-1725821287Screenshot2024-09-09001742.png"/>
 
 **दोहा**
 
@@ -4507,7 +4507,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_**
 
 **एकाशीतितमोऽध्यायः ८१.  
-![](../books_images/U-IMG-1725296092Screenshot2024-09-02222410.png)**
+<MISSING_FIG href="../books_images/U-IMG-1725296092Screenshot2024-09-02222410.png"/>**
 
 **एकाशीतितमेऽध्याये मण्डपादश्वमुत्तमम्॥  
 अनुशाल्वो जहारासौ कृष्णद्वेषात्तदुच्यते॥१॥**
@@ -4562,7 +4562,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **——————————**
 
 **द्व्यशीतितमोऽध्यायः ८२.**  
-**![](../books_images/U-IMG-1725781162Screenshot2024-09-08130855.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725781162Screenshot2024-09-08130855.png"/>**
 
 **द्व्यशीतितम अध्याये नीलध्वजपराभवः।  
 अर्जुनादभवत्तावत्तत्साग्रमिह वर्ण्यते॥१॥**
@@ -4593,7 +4593,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **त्र्यशीतितमोऽध्यायः ८.**
 
-![](../books_images/U-IMG-1725385349Screenshot2024-09-03231109.png)
+<MISSING_FIG href="../books_images/U-IMG-1725385349Screenshot2024-09-03231109.png"/>
 
 **त्र्यशीतितम अध्यायेऽर्जुनेन सौभरेश्चह।  
 उद्दालककथाव्याजात्प्तर्वंतदिह भण्यते॥१॥**
@@ -4643,7 +4643,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **चतुरशीतितमोऽध्यायः ८४.**  
-![](../books_images/U-IMG-1725382503Screenshot2024-09-03222427.png)
+<MISSING_FIG href="../books_images/U-IMG-1725382503Screenshot2024-09-03222427.png"/>
 
 **चतुरशीतितमेऽध्याये वधं पार्थः सुधन्वनः॥  
 चकार कृष्णकृपया तत्सविस्तरमुच्यते॥१॥**
@@ -4703,7 +4703,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **—————————**
 
 **पञ्चाशीतितमोऽध्यायः ८५.**  
-![](../books_images/U-IMG-1725467582Screenshot2024-09-04220227.png)
+<MISSING_FIG href="../books_images/U-IMG-1725467582Screenshot2024-09-04220227.png"/>
 
 **पञ्चाशीतितमेऽध्याये सुरथेनाभवद्रणः।  
 पार्थस्य बभ्रुवाहेन संगमस्त्विह कथ्यते॥१॥**
@@ -4781,7 +4781,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **————————**
 
 **सप्ताशीतितमोऽध्यायः ८७.  
-![](../books_images/U-IMG-1725471167Screenshot2024-09-03231139.png)**
+<MISSING_FIG href="../books_images/U-IMG-1725471167Screenshot2024-09-03231139.png"/>**
 
 **सप्ताशीतितमेऽध्याये बभ्रुवाहन संयुगे।  
 वृपकेतोः शिरश्छिन्नं तत्सर्वमिह चोच्यते॥१॥**
@@ -4838,7 +4838,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 ————————
 
 **अष्टाशीतितमोध्यायः ८८.**  
-**![](../books_images/U-IMG-1725782021Screenshot2024-09-08132317.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725782021Screenshot2024-09-08132317.png"/>**
 
 **अष्टाशीतितमेऽध्याये बभ्रुवाहनघातितः॥  
 पुनरुज्जीवितः पार्थः कृष्णेन तदिहोच्यते॥१॥**
@@ -4974,7 +4974,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **——————————**
 
 **नवतितमोऽध्यायः ९०.**  
-**![](../books_images/U-IMG-1725694925Screenshot2024-09-07131144.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725694925Screenshot2024-09-07131144.png"/>**
 
 **नवतितमेऽध्याये तु चन्द्रहासकथां वदन्।  
 मुनिस्तच्चारितं पार्थमादिदेशेति वर्ण्यते॥१॥**
@@ -5008,7 +5008,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **——————————**
 
 **एकनवतितमोऽध्यायः ९**  
-**![](../books_images/U-IMG-1725731470Screenshot2024-09-07232039.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725731470Screenshot2024-09-07232039.png"/>**
 
 **एकाधिनवतितमे चन्द्रहासस्य श्रीहरौ।  
 भक्तिर्विद्याग्रहश्चैव वर्ण्यते नरदुष्करः॥१॥**
@@ -5050,7 +5050,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **——————————**
 
 **द्विनवतितमोऽध्यायः ९२.**  
-**![](../books_images/U-IMG-1725735399Screenshot2024-09-08002606.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725735399Screenshot2024-09-08002606.png"/>**
 
 **द्विनवतितमेऽध्याये चन्द्रहासस्य प्रस्फुटम्।  
 माहात्म्यं विप्रभक्तिश्चकथ्यते सुरदुष्करा॥१॥**
@@ -5082,7 +5082,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **——————————**
 
 **त्रिनवतितमोऽध्यायः ९३.**  
-**![](../books_images/U-IMG-1725786484Screenshot2024-09-08130855.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725786484Screenshot2024-09-08130855.png"/>**
 
 **त्रिनवतितमेऽध्याये विषयाचन्द्रहासयोः॥  
 विवाहश्चाऽभवत्प्रेम्णा तत्स्फुटं वर्ण्यतेऽधुना॥१॥**
@@ -5156,7 +5156,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **चतुर्नवतितमोऽध्यायः ९४.**
 
-**![](../books_images/U-IMG-1725811273Screenshot2024-09-08213037.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725811273Screenshot2024-09-08213037.png"/>**
 
 **चतुर्नवतितमेऽध्याये दुष्टबुद्धिं मृतं तथा।  
 पुनरुज्जीवयत्सोऽथ वर्ण्यते कृष्णदर्शनम्॥१॥**
@@ -5202,7 +5202,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **————————**
 
 **पञ्चनवतितमोऽध्यायः ९५.**  
-**![](../books_images/U-IMG-1725820858Screenshot2024-09-09001034.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725820858Screenshot2024-09-09001034.png"/>**
 
 **पञ्चनवतितमेऽध्याये राजसूये हरिः स्वयम्॥  
 धर्मस्य किं किं कृतवान्विस्तरेण तदुच्यते॥१॥**
@@ -5247,12 +5247,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **॥श्रीकृष्णाय नमः॥**
 
 **भारतसार भाषा।**  
-**![](../books_images/U-IMG-1725851612Screenshot2024-09-09084233.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725851612Screenshot2024-09-09084233.png"/>**
 
 **मौसलपर्व १६.**
 
 **षण्णवतितमोऽध्यायः ९६.**   
-**![](../books_images/U-IMG-1725851684Screenshot2024-09-09084423.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725851684Screenshot2024-09-09084423.png"/>**
 
 ** दोहा**
 
@@ -5314,7 +5314,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **——————————**
 
 **सप्तनवतितमोध्यायः ९७.**  
-![](../books_images/U-IMG-1725855592Screenshot2024-09-09094931.png)
+<MISSING_FIG href="../books_images/U-IMG-1725855592Screenshot2024-09-09094931.png"/>
 
 **सप्तनवतितमेऽध्याये प्रभासे श्रीहरिः स्वयम्॥  
 त्यक्त्वा लेवरं योगी गतो वैकुण्ठमीर्यते॥१॥**
@@ -5372,12 +5372,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **भारतसार भाषा**
 
-**![](../books_images/U-IMG-1725887548Screenshot2024-09-09184201.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725887548Screenshot2024-09-09184201.png"/>**
 
 **आश्रमवासिपर्व ९८.**
 
 **अष्टनवतितमोऽध्यायः ९८.**  
-**![](../books_images/U-IMG-1725887607Screenshot2024-09-09184310.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725887607Screenshot2024-09-09184310.png"/>**
 
 **वैशंपायन उवाच।**
 
@@ -5400,13 +5400,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **भारतसार भाषा।**
 
-![](../books_images/U-IMG-1725886036Screenshot2024-09-09181627.png)
+<MISSING_FIG href="../books_images/U-IMG-1725886036Screenshot2024-09-09181627.png"/>
 
 **स्वर्गारोहणपर्व १८.**
 
 **नवनवतितमोऽध्यायः ९९.**
 
-![](../books_images/U-IMG-1725886098Screenshot2024-09-09181758.png)
+<MISSING_FIG href="../books_images/U-IMG-1725886098Screenshot2024-09-09181758.png"/>
 
 ** दोहा**
 
@@ -5475,7 +5475,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **एकाधिकशततमोऽध्याय**
 
-![](../books_images/U-IMG-1725996091Screenshot2024-09-11005101.png)
+<MISSING_FIG href="../books_images/U-IMG-1725996091Screenshot2024-09-11005101.png"/>
 
 **पूर्णे शततमेऽध्याये पाञ्चाल्याःपुण्यक्षया॥  
 स्वर्गारोहे विनाशश्चवर्ण्यते रदु**++**रः॥१॥**
@@ -5502,7 +5502,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **द्व्यधिकशततमोऽध्यायः १०२.**
 
-**![](../books_images/U-IMG-1726023619Screenshot2024-09-11082957.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726023619Screenshot2024-09-11082957.png"/>**
 
 **द्व्यधिकशताध्याये कृतपुण्यस्य संक्षयात्॥  
 पदनं सहदेवस्य वर्ण्यते दुःसहं नृणाम्॥१॥**
@@ -5585,7 +5585,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 
 **त्र्यधिकशतमोऽध्यायः १०३.**
 
-**![](../books_images/U-IMG-1725996710Screenshot2024-09-11005101.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725996710Screenshot2024-09-11005101.png"/>**
 
 **त्र्यधिकशततमेऽध्याये कैलासे गमनं तथा॥  
 चतुर्णां पाण्डवानां च वर्ण्यते सुरदुष्करम्॥१॥**
@@ -5624,7 +5624,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  तब वह कन्या अत्यन्त मनोहर वचनोंद्वारा पाण्डवोंसे हनें लगीं। कन्या बोलीं कि, हे राजेन्द्र! आप रथपर सवार होकर निःसन्देह कैलासको चलिये और वहाँ श्रीमहादेवजीके समान मनोर भोगोंको भोगिये॥१८॥॥ इति श्रीभारतसारे स्वर्गांरोहणपर्वणि भाषायां त्र्यधिकशततमोऽध्यायः॥१०३॥
 
 **चतुरधि शततमोऽध्यायः१०४.**  
-![](../books_images/U-IMG-1726025133OP.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1726025133OP.PNG"/>
 
 **चतुरधिकशततमेऽध्याये नकुलर्जुनयोस्तथा॥**  
 **++नं हिमशृङ्गाच्च संक्षेपाच्च तदुच्यते॥१॥**
@@ -5649,7 +5649,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  महाराज युधिष्ठिरने उत्तर दिया कि, हे भीम! एक पलके चतुर्थांश समयमें संहार करडालनेवाले इन अर्जुनने भारत संग्राममें आयेहुए बैरियोंको अठारह दिनतक क्लेश दिया, उसी पापसे युक्त होकर अर्जुन मृत्युके वशीभूत हुएहैं॥२०॥॥ इति श्रीभारतसारे स्वर्गारोहणपर्वणि भाषायां अर्जुनपतनं नाम चतुरधिकशततमोऽध्यायः॥१०४॥
 
 **पञ्चाधिशततमोऽध्यायः १०५.**  
-**![](../books_images/U-IMG-1726027544परर.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1726027544परर.PNG"/>**
 
 **पञ्चाधि शतेऽध्याये भीमदेहः पपात ह॥  
 विलाप तदा धर्मस्वद्वर्णितमने++** **धा॥१॥**
@@ -5677,7 +5677,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
  इन्द्र बोले हे महाराज! हे महापण्डित! बताइये आप कि लिये रोरहेहैं? क्योंकि स्वर्गमें विशेषभावसे दुःख करना उचित नहीं है। और जिन लोगोंने हिमाचलके शिखरके अ भागमें प्राण त्याग दियाहै न सबको परमोत्तम गति मिल गईहै॥४२॥ इति श्रीभारतसारेस्वर्गारोहणपर्वणि भाषायां युधिष्ठिरशक्र संबादे पञ्चाधिकशततमोऽध्यायः॥१०५॥
 
 **षष्ठाधिकशततमोऽध्यायः १०६.**  
-**![](../books_images/U-IMG-1726030414सलव.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1726030414सलव.PNG"/>**
 
 **षष्ठाधिकशतेऽध्याये भीमांदीनां च दर्शनम्॥  
 धर्मस्य विष्णुलोके च सम्वाद उपवर्णितः॥१॥**
@@ -5771,14 +5771,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc4NzMxNTMxNzM
 **॥इति श्रीभाषाभारतसारस्वर्गारोहणपर्व समाप्तम्॥**
 
 इति श्रीभाषाभारतसार संपूर्ण।  
-![](../books_images/U-IMG-1726037892सलवन.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1726037892सलवन.PNG"/>
 
 **पुस्तक मिलनेका ठिकाना-**  
 **    खेमराज श्रीकृष्णदास,**
 
 **"श्रीवेङ्कटेश्वर" स्टीम् प्रेस - बम्बई.**
 
-![](../books_images/U-IMG-1726048924Screenshot2024-09-11153101.png)
+<MISSING_FIG href="../books_images/U-IMG-1726048924Screenshot2024-09-11153101.png"/>
 
 \]
-

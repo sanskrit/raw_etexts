@@ -32,7 +32,7 @@ The Hon'ble Mr. Justice,
 
 **RAMAYANA MUKTAVALI.**
 
-![](../books_images/U-IMG-172620864461.png)
+<MISSING_FIG href="../books_images/U-IMG-172620864461.png"/>
 
 It is a happy idea of Sri T. Srinivasa Raghavacharya to offer to students and lovers of Sanskrit an anthology of didactic verses collected from that vast storehouse of beauty and wisdom, Valmiki Ramayana. The selection has been made with discrimination and the little book abundantly repays perusal. The English translation, which is quite a successful attempt at reconciling conformity to the original with the demands of English idiom, will make these veritable 'pearls' of wisdom available to a wider circle of readers.  
  I heartily commend the compiler's suggestion that students for whom this book is mainly intended should memorise these verses which will serve to guide them through many of life's perplexities.
@@ -41,7 +41,7 @@ It is a happy idea of Sri T. Srinivasa Raghavacharya to offer to students and lo
 
 **AUTHOR'S NOTE.**
 
-![](../books_images/U-IMG-172620872414.png)
+<MISSING_FIG href="../books_images/U-IMG-172620872414.png"/>
 
  This little book contains almost all the 'Neeti Slokas' or moral sayings culled out from Srimad Valmiki Ramayana, with an English rendering of the same. I need hardly say that even one with the Gandhian command of English language cannot render a happy translation of the Sanskrit verses into English and sometimes a close literal translation, even if it were possible, looks rather uncouth. My present endeavour therefore, is mainly to convey in English the idea of the original Sanskrit verses, giving a true translation wherever possible and necessery. Like lustrous pearls gathered from the deep ocean these invaluable pearls of Valmiki are collected from out of the unfathomable depths of the vast ocean of Ramayana and hence the book is styled as 'Ramayana Muktavali'. Though this little book may be welcomed by all the English-Sanskrit knowing lovers of Ramayana, it is mainly intended for students whom I request to get the verses by heart with great advantage to them not only during their scholastic career but also in their everyday life thereafter.
 
@@ -61,18 +61,22 @@ T. S. R.
 
 **श्रीरामजयम्**
 
-**![](../books_images/U-IMG-1725956925n1.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1725956925n1.png"/>**  
 
 **॥ रामायणमुक्तावली ॥**
 
-**![](../books_images/U-IMG-1725956771st.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725956771st.png"/>**
 
 **"जयत्याश्रितसन्त्रास ध्वान्तविध्वंसनोदयः।  
 प्रभावान्सीतया देव्या परमव्योमभास्करः॥"  
-भगव[द्भाष्यकाराय]("रामानुजाय ।") भवसागरसेतवे।  
+भगवद्भाष्यकाराय[^1] भवसागरसेतवे।  
 भूयो भूयो नमस्कुर्यां भूरिकल्याणराशये॥  
 वेत्तारं सर्वविद्यानां जेतारं जिह्मवादिनाम्।  
-त्रातारं भवतप्तानां [तोतारम्बात्मजं]("वेदान्त देशिकं ।") भजे॥**
+त्रातारं भवतप्तानां तोतारम्बात्मजं[^2] भजे॥**
+
+[^1]: "रामानुजाय ।"
+
+[^2]: "वेदान्त देशिकं ।"
 
 **॥ बालकाण्डम् ॥**
 
@@ -1085,7 +1089,7 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
 **रामगीता संपूर्णा**
 
-![](../books_images/U-IMG-172628107660.png)
+<MISSING_FIG href="../books_images/U-IMG-172628107660.png"/>
 
 **१४२. अन्तकाले हि भूतानि मुह्यन्तीति पुरा श्रुतिः।**
 
@@ -1273,9 +1277,9 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  For a woman there is no penance greater than devotion to her husband.
 
-![](../books_images/U-IMG-172602697410a.png)
+<MISSING_FIG href="../books_images/U-IMG-172602697410a.png"/>
 
-![](../books_images/U-IMG-172602705810b.png)
+<MISSING_FIG href="../books_images/U-IMG-172602705810b.png"/>
 
 **॥ आरण्यकाण्डम्॥**
 
@@ -1701,13 +1705,13 @@ frame is crumbled by old age. By doing what will he be able to overcome it?
 
  Great and valourous souls who tread the path of the virtuous, and who are ever ready to help the weak, are found all over even in the animal kingdom.
 
-![](../books_images/U-IMG-1726036317u1.png)
+<MISSING_FIG href="../books_images/U-IMG-1726036317u1.png"/>
 
-![](../books_images/U-IMG-1726036385j2.png)
+<MISSING_FIG href="../books_images/U-IMG-1726036385j2.png"/>
 
 **॥ किष्किन्धाकाण्डम्॥**
 
-**![](../books_images/U-IMG-1726036525j5.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726036525j5.png"/>**
 
 **२२७. स्मृत्वा वियोगजं दुःखं त्यज स्नेहं प्रियेजने।  
  अतिस्नेहपरिष्वङ्गाद्वर्तिरार्द्रापि दह्यते॥**
@@ -2131,11 +2135,11 @@ A thief punished or pardoned by the king becomes free from sin but a king who le
 
  One should never be disheartened. Despair eventually leads to miseries and kills a man even as an furious serpent kills a boy.
 
-![](../books_images/U-IMG-1726058337010.png)
+<MISSING_FIG href="../books_images/U-IMG-1726058337010.png"/>
 
 **॥ सुन्दरकाण्डम्॥**
 
-**![](../books_images/U-IMG-17260578880a.png)**
+**<MISSING_FIG href="../books_images/U-IMG-17260578880a.png"/>**
 
 **२८७. कर्तव्यमकृतं कार्यं सतां मन्युरुदीरयेत्।**
 
@@ -2362,13 +2366,13 @@ A thief punished or pardoned by the king becomes free from sin but a king who le
 
  Even as a serpent casts off its old skin by its effort, should a man cast off his anger by his forbearance. Then alone can he be called a man.
 
-![](../books_images/U-IMG-1726059781s1.png)
+<MISSING_FIG href="../books_images/U-IMG-1726059781s1.png"/>
 
-![](../books_images/U-IMG-1726059872t1.png)
+<MISSING_FIG href="../books_images/U-IMG-1726059872t1.png"/>
 
 **॥ युद्धकाण्डम्॥**
 
-**![](../books_images/U-IMG-172606006100c.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172606006100c.png"/>**
 
 **३२०. यो हि भृत्यो नियुक्तः सन्भर्त्रा कर्मणि दुष्करे।  
  कुर्यात्तदनुरागेण तमाहुः पुरुषोत्तमम्॥**
@@ -3072,11 +3076,11 @@ devoid of them. All the same the latter should be preferred to the former.
 
  A help in need brings on friendship and harm leads to enmity.
 
-![](../books_images/U-IMG-1726115276810.png)
+<MISSING_FIG href="../books_images/U-IMG-1726115276810.png"/>
 
 **॥ उत्तरकाण्डम्॥**
 
-**![](../books_images/U-IMG-172611495612f.png)**
+**<MISSING_FIG href="../books_images/U-IMG-172611495612f.png"/>**
 
 **४२१. नरः प्रत्युपकाराणां आपत्स्वायाति पात्रताम्॥**
 
@@ -3119,14 +3123,14 @@ devoid of them. All the same the latter should be preferred to the former.
 **श्रीवासराघवार्येण ग्रथिता बुधसंमुदे।  
 मुक्तावली रामकथापयोधिपरिशीलनात्॥**
 
-![](../books_images/U-IMG-1726115665156.png)
+<MISSING_FIG href="../books_images/U-IMG-1726115665156.png"/>
 
 **मङ्गलं कोसलेन्द्राय महनीयगुणाब्धये।  
 चक्रवर्तितनूजाय सार्वभौमाय मङ्गलम्॥  
 विभीषणकृतप्रीत्या विश्वाभीष्टप्रदायिने।  
 सर्वलोकशरण्याय सत्यसन्धाय मङ्गलम्॥**
 
-![](../books_images/U-IMG-17261157941567.png)
+<MISSING_FIG href="../books_images/U-IMG-17261157941567.png"/>
 
 **'THE HINDU’ MADRAS DATED 29-9-1940.**
 
@@ -3136,7 +3140,7 @@ by T. Srinivasa Raghavacharya.
 
 It has become almost impossible for the average man in this workaday world to make a complete and useful study of our ancient classics like the Ramayana, in the original. But they contain invaluable lessons for all who cherish Indian ideals. The book under notice is an *omnium gatherum* of quotations, especially moral sayings, from Valmiki Ramayana with the English translation of the slokas. Though mainly intended by the author to be memorised by students, the slokas may well be regarded by all as a guide to our daily conduct.
 
-![](../books_images/U-IMG-1726115895189.png)
+<MISSING_FIG href="../books_images/U-IMG-1726115895189.png"/>
 
 **THE MADRAS MAIL DATED 6-10-1940.**
 

@@ -261,7 +261,7 @@ THE WIDE RANGE OF RĀJADHARMA
 
   So vast a range places the " Dharma of kings" beyond the capability of most rulers. A king is under Dharma in two capacities, i.e., as a person, of a definite ***varṇa***, subject to the Dharma of that ***varṇa***, and secondly as a crowned ruler. In the second capacity, as a public functionary, he has duties which he is expected to discharge directly and those which he discharges indirectly through skilled helpers. He cannot shed his personal obligations, and cannot prudently delegate some of his more important regal duties. The definition and elucidation of these is necessary for successful kingship or administration. The parallel development of ***Arthasāstra*** resulted in an elaboration of the duties more directly concerned with government of states. The sciences of Dharma and Artha deal with the modes of attainment of these two ends of life (***puruṣārtha***). The other two ends are the satisfaction of the emotions, especially those resulting in pleasure of the senses (***kāma***) and ***mokṣa*** or liberation of the spirit. The last is the ultimate and highest end, to which the others only lead. ***kāma***and Artha are proximate ends, and in their relative importance the ultimate aims are the most important. The ***Mahābhārata***[^690] declares the accepted Indian view that of the three ***puruṣārthas***, ***Dharma*** is the best, Artha is next best and ***Kāma*** is the lowest, and that both ***Artha*** and ***Kāma***
 
-[^690]: "शान्तिपर्व, अ. १६७, ८, यथा – धर्मोराजन् गुरुश्रेष्ठो मध्यगो ह्यर्थउच्यते । कामो यवीयानिति च प्रवदन्ति मनीषिणः ॥"
+[^690]: # "शान्तिपर्व, अ. १६७, ८, यथा – धर्मोराजन् गुरुश्रेष्ठो मध्यगो ह्यर्थउच्यते । कामो यवीयानिति च प्रवदन्ति मनीषिणः ॥"
 
 spring from Dharma[^16].This view is endorsed by both Kauṭilya and Vātsyāyana, who however declare that ***Artha*** is the chief end of the king. The complexity of human nature makes it impossible to convert it to pure asceticism and to a contempt for economic and emotional satisfactions. Accordingly, there is unanimity in laying down that each end (except, ***Mokṣa***) should be striven for, if it does not conflict with those preceding. A comfortless life is not for man. The subordination of lower aims to the higher is part of the discipline of life, which will lead to the ultimate goal[^17] यथा - “तेषां समवाये पूर्वःपूर्वो गरीयान् । अर्थश्चराज्ञः । तन्मूलकत्वाल्लोकयात्रायाः” । अर्थशास्त्रे, ( १, ७) यथा – “धर्मार्थाविरोधेन कामं सेवेत न निस्सुखस्स्यात् । समं वा त्रिवर्गमन्योन्यानुबन्धम् । एको हि अत्यासेवितो धर्मार्थकामानां आत्मानमितरौ च पीडयति । अर्थ एव प्रधान इति कौटिल्यः । अर्थमूलौ हि धर्मार्थकामौ इति").***Arthaśāstra***recognized the paramountcy of Dharma, and regarded it as a common denominator of all action, while for human expediency, it stresses the greater importance of Artha. The ultimate sanctions of ***Dharma*** and ***Artha*** are to be found in a common source, viz. ***Śruti***, i.e. the Veda. The end of society is the same for both. "The king should permit no neglect by living beings of their appropriate duty (***svadharma***). By standing fast in one's duty, happiness is possible in lifeas in death. Society (lokaḥ) prospers and doesnot decay, when it maintains the bounds of conduct of Aryas (***vyavasthitārya*-*maryādaḥ***), stabilizes the order of easter and stages of life (***kṛtavarṇāsrama-sihitiḥ***) and seeks refuge in the Vedas (***traiyāhi rakṛitaḥ***[^18]"))."For the normal upkeep of organized political order it is sufficient to take a lower standard than for the determination of what is ***Dharma*** and what is ***A-dharma***. But, when there is a conflict between ***Dharmasāstra*** and the science of affairs (***vyāvahārikam sāstram***), admits Kauṭilya (III, 1), the rule of ***Artha*** has to be construed in
 
@@ -312,8 +312,6 @@ LAKṢMĪDHARA'S CLAIMS
 
 [][^28] Lakṣmīdhara claims to be animated by the
 
-[^28]: "न्याय्ये वर्त्मनि यज्जगद्गुणवतां गेहेषु यद्दन्तिनो राज्ञां मूर्द्धनि यत्पदं व्यरचयद्गोविन्दचन्द्रो नृपः । तत्सर्वं खलुयस्य मन्त्रमहिमाश्चर्यं स लक्ष्मीधरः काण्डं शंसति राजधर्मनिचयानैकादशे पुण्यधीः ।"
-
 spirit of piety (***puṇyadhīḥ***), as one who essays to expound Dharmasāstra should be, to have assuredly (***Khala***) lwen responsible for ensuring the supremacy of Govindacandra over many kings by his advice and spells (***mantra***), and to have by his counsel made the king tread the path of justice and liberality to the good men of the world. The use of ***mantra*** in its double sense is significant. As chief minister it was his duty to guide the king by timely and wholesome advice. As chief priest he ensured victories by the use of appropriate spells or prayers. The importance attached by him to the superhuman factor in ensuring worldly success, particularly in a king, will be evident in the inclusion in this section of the digest of instructions for the correct performance of many rites in festivals and worship of certain divinities, for the welfare of the State. They are scattered throughout the book and also take up the last seven chapters of the section, which is divided into twenty-one sections in all[^31].Unless Govindacandra, as well as his contemporaries, acquiesced in the services thus claimed, as rendered to his king and country by Lakṣmidhara, it is inconceivable that he would have been allowed to state them so openly in a work written under a royal mandate.
 
 [^31]: "Lakṣmīdhara does not specify the number of chapters. In this edition the book is divided into 21 sections. The Lahore edition by dividing chapter XIV into two, makes the chapters twenty-two."
@@ -354,7 +352,7 @@ NECESSITY FOR THE STATE
 
   The belief in the entire system of the Universe being divinely ordained and governed by an immutable system of castes and orders, whose equipoise is a necessity for universal harmony, is responsible, as already pointed out, for the craving for a strong power able to prevent any disturbance of the social order and to keep every one within his bounds. A stateless or, to use the more common expression, a kingless condition spells anarchy, confusion and violent dislocation of the social order. The restraint on individual volition and freedom, which the system of ***varṇāśrama*** implies, because it takes away the option to change
 
-one's caste or occupation, necessitates, as a logical corollary, the existence of both an external agency that can maintain the restraints, and arrangements which will induce willing and habitual submission to the restrictions on freedom. The inculcation of a belief in the divine creation of the order, which reduced individual freedom, and of the hopelessness and impiety of endeavouring to unsettle it, is a pre-requisite of the ***voluntary*** acceptance of the system. This is the task of Dharmaśāstra. The external agency, which can secure the object, is political organization, providing a strong executive armed with penal power. The vivid descriptions in the epics and literature of the evils that follow anarchy, in æons in which human nature is imperfect and fallible, furnish both the justification for political union, involving the submission of the many to one executive, and the rational inducements to agree to end the anarchy in that way[^34].The ascription of a divine origin to kingship, i.e., the state, makes disruptive action both a sin and a treason. Mere union is insufficient to combat the tendencies to anarchy. The authority which stands for the union must be armed with the power to punish. The power of just coercion must be placed beyond discussion. If divinely created the power gets beyond human criticism. Indian political thought can recognize a philosophical anarchism as possible only in the Golden Age. Kingship or the state is, in Indian legend, an after-thought of the Creator. A pre-political state preceded the political. The king was created by the Lord (***Prabhu***) to end the clamour following the confusion and anarchy of the kingless, i.e., stateless condition of man[^35].A social compact in which the king pledges himself to maintain the divinely sanctioned social order an Dharma, and the people agree to support the executive by obedience and contributions is the consequence of the creation. The legend is found not only in the sources and in the body of Dharmaśāstra but it is found in Arthaśātra also. The king wields 'the rod of punishment' or Daṇḍa. Daṇḍa is really Dharma (Duty), given that form by the Creator[^36](**Dharmo hi**
+one's caste or occupation, necessitates, as a logical corollary, the existence of both an external agency that can maintain the restraints, and arrangements which will induce willing and habitual submission to the restrictions on freedom. The inculcation of a belief in the divine creation of the order, which reduced individual freedom, and of the hopelessness and impiety of endeavouring to unsettle it, is a pre-requisite of the ***voluntary*** acceptance of the system. This is the task of Dharmaśāstra. The external agency, which can secure the object, is political organization, providing a strong executive armed with penal power. The vivid descriptions in the epics and literature of the evils that follow anarchy, in æons in which human nature is imperfect and fallible, furnish both the justification for political union, involving the submission of the many to one executive, and the rational inducements to agree to end the anarchy in that way[^34].The ascription of a divine origin to kingship, i.e., the state, makes disruptive action both a sin and a treason. Mere union is insufficient to combat the tendencies to anarchy. The authority which stands for the union must be armed with the power to punish. The power of just coercion must be placed beyond discussion. If divinely created the power gets beyond human criticism. Indian political thought can recognize a philosophical anarchism as possible only in the Golden Age. Kingship or the state is, in Indian legend, an after-thought of the Creator. A pre-political state preceded the political. The king was created by the Lord (***Prabhu***) to end the clamour following the confusion and anarchy of the kingless, i.e., stateless condition of man[^35].A social compact in which the king pledges himself to maintain the divinely sanctioned social order an Dharma, and the people agree to support the executive by obedience and contributions is the consequence of the creation. The legend is found not only in the sources and in the body of Dharmaśāstra but it is found in Arthaśātra also. The king wields 'the rod of punishment' or Daṇḍa. Daṇḍa is really Dharma (Duty), given that form by the Creator[^36] (**Dharmo hi**
 
 [^34]: "On the horror of anarchy see the extracts in Ano. Ind. Polity, p. 49 and pp. 82-83."
 
@@ -560,7 +558,7 @@ the Purāṇic descriptions, which also prescribe the use of certain specified V
 
 [^76]: "वाजसनेयसंहितायाम् (१० - ९
 
-[^691]: "व्यतीतायां तु शर्वर्यामादित्यस्योदये ततः ।समेत्य राज्यकर्तारः सभामीयु र्द्विजातयः ॥ (अयो. का. ७०, २
+[^691]: # "व्यतीतायां तु शर्वर्यामादित्यस्योदये ततः ।समेत्य राज्यकर्तारः सभामीयु र्द्विजातयः ॥ (अयो. का. ७०, २
 
 whatever good I may have done (in the period), of my heaven, of my life and of my progeny, if I wrong (***yadi te druhyeyam***) you[^77] यथा –– [एतेनैन्द्रेण महाभिषेकेण क्षत्रियं शापयित्वा अभिषिञ्चेत् । स ब्रूयात् सह श्रद्धया] ")."The taking of the oath makes the king ***dhṛta-vrata***. This is done before he takes his seat on the throne, after investiture.
 
@@ -586,7 +584,7 @@ CORONATION OF A SUCCESSOR
 
 [^78]: "Rājanītıratnakara, pp. 66-69."
 
-[^692]: "वार्द्धके मुनिवृत्तीनां (१, ८
+[^692]: # "वार्द्धके मुनिवृत्तीनां (१, ८
 
 ceremony is to take place, clad in white. He places there a golden pol, in front of the firepit, fills it with Ganges water or other holy water, covers the mouth, invokes Varuṇa into the pot and worships him, using a bunch of five leaves for sprinkling. After the worship, medicinal plants are thrown into the pot. The following divinities are then be invoked and worshipped : Śrī, Viṣṇu, Umā, Śiva (Isāna) and the lords of Gaṇas (Gaṇapati), the planets (Gṛhapati, ***i.e***. Sūrya) and of the quarters (the Lokapālas), with fire offerings, through ***ājya***, with appropriate ***mantras***. After the invocation is revoked (***visṛjya***), the king sprinkles (***abhiṣiñcet***) the heir-apparent with water taken in the tuft of leaves aforesaid, in the presence of allies, Brahmans, merchants, ministers and relations, the appropriate mantras of propitiation (***śāntimantra***) being recited simultaneously. The prince stands on a tiger skin, when being sprinkled. The king then seats the prince on the throne, garlands him, smears him with sandal, decorates him with the royal fillet (***paṭa***) and headdress (***uṣṇīṣa***) and jewels set with pearls and precious stones, and presents to him the royal umbrella, fly-whisks, and sandals. Thus dressed up, the kingdom with the remaining six elements (***ṣaḍaṅga***) is made over to the new ruler. The old king makes the ***tilaka*** on the forehead (of the new ruler thrice, of the size of the great toe. Dūrva grass and rice are spinkled on his head, and he is made to see curds and fried grain (***lāja***). The retiring king then proclaims again and again - "From today the kingdom is not mine, this is the king, and may he protect the subjects", and call upon every one, including the subjects (in whom there lies divinity, ***prajā-Viṣṇum***) to witness the change of sovereignty.
 
@@ -596,7 +594,7 @@ THE QUALITIESREQUIRED OF THE KING
 
 office. It should be made clear that a king is no king, when he does not come up to the required standard. Bṛhaspati (***infra***. p. 82) has pointed out that lordship and his office do not desert the innocent king. When defects in a king's son have a limited scope for ***public*** harm, the vices or weaknesses of a king will prove a major disaster. A section of the book is devoted accordingly to the actions of the consccrated king (***abhiṣikta-kṛtyāni***). One wanting in ability could not fill the position properly. "A king lacking ability will surely be unable to protect his subjects. A kingdom is a heavy burden, difficult to bear[^693] यथा - न जात्वदक्षो नृपतिः प्रजाः शक्नोति रक्षितुम् । भारो हि सुमहान्तात राज्यं नाम सुदुर्ब्रहम् ॥").A description of the vices or temptations to which kings are likely to succumb is as much called for as the specification of the good qualities which ensure a successful reign.
 
-[^693]: "शान्तिपर्वणि (९१, ४८
+[^693]: # "शान्तिपर्वणि (९१, ४८
 
   The royal weaknesses or temptations are collectively termed ***vyasana***. Ten of them are born of "passion" and eight of anger, says Manu (***inf***. p. 143). Hunting, gambling, sleeping by day, scandalous talk, drink, excessive indulgence in music, acting and dancing, music and drink, and aimless tours are vices of the first type. Meanness, rashness, treachory, envy, slander of rivals, wastefulness, violent temper, and excessive severity are of the second class. They have all to be conquered by careful self-discipline. In wastefulness must be included neglect of forts and buildings, and lavish gifts out of season and to undeserving persons. The enemies of man are said to be six (***ṣaḍ-varga***) ***viz***. sexual indulgence, temper, intoxication, pride, covetousness and self-satisfaction. An undisciplined nature and want of humanity leads to disaster. It undermines a king's prosperity as age destroys beauty (p. 148). Six ancient instances of rulers destroyed by arrogance are given (p. 157) from Manu, and four of those who were raised by modesty. The correctives to the tendencies to vice are careful education and training as a prince, proper choice of associates from youth upwards, good advisers, a life full of beneficent activity and methodical habits. Natural gifts should be strengthened by training and study.
 
@@ -644,7 +642,7 @@ female, should be chosen for their loyalty, incorruptibility, vigilance, and kno
 
 [^86]: "मात्स्ये अनाहार्योऽनृशंसश्चदृढभक्तिश्च पार्थिवे । ताम्बूलधारी भवति नारी वाप्यथ तद्गुणा ॥ इति वी. मि., पु. १८१."
 
-[^694]: "गरुडपुराणे – पितृपैतामहो दक्षः शास्त्रज्ञः सत्यवाचकः ।शौचयुक्तः सदाचारः सूपकारः स उच्यते ॥ 'शास्त्रज्ञः 'नल-भीम-सुषेणादिकृतसूपशास्त्रज्ञः । 'आर्द्रकं गुडसंयुक्त' 'ताम्रपात्रे स्थितं गव्यं' इत्यादि निषिद्धज्ञानाय धर्मशास्त्रज्ञश्च (वी. मि., पृ. १८२
+[^694]: # "गरुडपुराणे – पितृपैतामहो दक्षः शास्त्रज्ञः सत्यवाचकः ।शौचयुक्तः सदाचारः सूपकारः स उच्यते ॥ 'शास्त्रज्ञः 'नल-भीम-सुषेणादिकृतसूपशास्त्रज्ञः । 'आर्द्रकं गुडसंयुक्त' 'ताम्रपात्रे स्थितं गव्यं' इत्यादि निषिद्धज्ञानाय धर्मशास्त्रज्ञश्च (वी. मि., पृ. १८२
 
 SACERDOTALISM : THE PUROHITA
 
@@ -678,7 +676,7 @@ a capital, resources in men, money and material, allies who will help in times o
 
 on any of its frontiers, unless it has become a great empire. The kaleidoscopic changes of mediaeval India are due to the spirit. The ambition to extend the area of tributaries was nourished by the war spirit that was induced in the standing militia of Kṣatriyas. It made for internecine struggles, which weakened those who habitually took part in them, and it made them unfit to stand the assault of an enemy far more powerful than the neighbour across the frontier. In such conditions, the desire for a balance of power is automatically imposed on kingdoms, and the ***rajamaṇḍala*** consisting of enemies and allies of diminishing degrees, actual and potential, is evolved in fact and embodied theory. This is illustrated in mediaeval India by the struggles of the powers that happened to have become supreme in the Karṇāṭaka, the Dakhan and Hindusthan. A common enemy unites in alliance his neighbours on opposite frontiers[^695], and the Pāṇdya and Simhalese revolts against the Cola emperor fomented by Vikrāmādītya. See Introduction to Dānakaṇḍa, p. 14 and p. 36.").The ***saptāṅga*** concept has very much more history and experience behind it than a superficial survey might disclose.
 
-[^695]: "Note the alliance between Govindacandra and Kulottunga Cola, united by fear of the ruler of the intervening Dakhan, Vikrāmādītya, VI (Cālukya
+[^695]: # "Note the alliance between Govindacandra and Kulottunga Cola, united by fear of the ruler of the intervening Dakhan, Vikrāmādītya, VI (Cālukya
 
 THE OFFICIAL HIERARCHY (AMĀTYĀII)
 
@@ -751,7 +749,7 @@ same work ( ***ib***. 61, 31-32) declares that a cruel tyrant, who fails to prot
 
 BRĀHMAṆA IMMUNITIES
 
-  The question of the freedom of the Brāhmaṇa from taxation raises again the consideration of the bases of varṇa privileges. The immunities are laid down in every smṛti and book dealing with Dharma. The Purāņas go even farther than the smṛtis. Manu emunciates the theory that the state is firmly based on a union of the two first ***varṇas***[^96]( IX, 322 ). Without the Brahmapa to perform the expiatory and propitiatory rites, on which the king's prosperity depends, the king cannot prosper: nor can the Brāhmaṇa subsist without the king to protect him and his religious rites. The union of the two makes for prosperity in this and happiness in the next world. Yama, in an expressive simile, compares the Brāhmaņa to the root of the tree which isthe king, the subjects to its leaves and the ministers to its branches( inf. 173 ) The king should not appropriate the wealth of the Brāhmana ( ***Brahamsvam*** ). It is more deadly than the most virulent poison[^97]. The resumption of any gift of land made
+  The question of the freedom of the Brāhmaṇa from taxation raises again the consideration of the bases of varṇa privileges. The immunities are laid down in every smṛti and book dealing with Dharma. The Purāņas go even farther than the smṛtis. Manu emunciates the theory that the state is firmly based on a union of the two first ***varṇas***[^96] ( IX, 322 ). Without the Brahmapa to perform the expiatory and propitiatory rites, on which the king's prosperity depends, the king cannot prosper: nor can the Brāhmaṇa subsist without the king to protect him and his religious rites. The union of the two makes for prosperity in this and happiness in the next world. Yama, in an expressive simile, compares the Brāhmaņa to the root of the tree which isthe king, the subjects to its leaves and the ministers to its branches( inf. 173 ) The king should not appropriate the wealth of the Brāhmana ( ***Brahamsvam*** ). It is more deadly than the most virulent poison[^97]. The resumption of any gift of land made
 
 [^96]: "मनुस्मृति, ९, ३२२,  नाऽब्रह्मक्षत्रमृध्नोति नाऽक्षत्रं ब्रह्म वर्द्धते ।  ब्रह्म क्षत्रं च संपृक्तमिह चाऽमुत्र वर्द्धते ॥"
 
@@ -857,7 +855,7 @@ hitherto unconquered is conquered.[^118], which will henceforth be the ideal of 
 
 [^120]: "आपस्तंब धर्म, २,१०, ११, यथा-न्यस्तायुध- प्रकीर्णकेश- प्राञ्जलि पराङ्मुखवृत्तानामार्यावधं परिचक्षेत् ।"
 
-  ***Kūṭa-yuddha***, war by secret and unregenerate methods, is absolutely forbidden in Rājadharma. An open fight is expected. An ambush ( sattraḥ ) comes under ***kūṭa-yuddha***. A king can be slain even in battle only by a king. The ***Nitisāstra*** allows ***kūta-yuddha***. A chapter of the ***Kauțiliya***[^121]( X, 3 ) is devoted to it. Kāmandaka defends it and argues that for the destruction of a foe the use of stratagems is necessary. He holds that it does not violate Dharma ( ***na hi tirayati dharmam*** ). He refers with approval to the notorious nocturnal attack made by Asvatthāman on the sleeping Pandava host, and its destruction when lying unsuspicious of such an unfair attack.[^122] यथा - सुनियतमुपहन्यात् कूटयुद्धेन शत्रून् न हि तिरयति धर्मं छद्मना शत्रुघातः । अचकितमवसुप्तं पाण्डवानामनीकं निशि सुनिशितशस्त्रो द्रोणसूनु र्जधान ॥") Lakṣmīdhara's loyalty to the ancient principles of righteous war (***dharmayuddha*** ) is reflected in his omission of authorities sanctioning ***kūṭa-yuddha***. Yājñavalkya ( I, 323 ) restricts entry to heaven only to those who fight fair and die in battle doing so. Since a battle is described as a ***yajña*** ( sacrifice ), it cannot be
+  ***Kūṭa-yuddha***, war by secret and unregenerate methods, is absolutely forbidden in Rājadharma. An open fight is expected. An ambush ( sattraḥ ) comes under ***kūṭa-yuddha***. A king can be slain even in battle only by a king. The ***Nitisāstra*** allows ***kūta-yuddha***. A chapter of the ***Kauțiliya***[^121] ( X, 3 ) is devoted to it. Kāmandaka defends it and argues that for the destruction of a foe the use of stratagems is necessary. He holds that it does not violate Dharma ( ***na hi tirayati dharmam*** ). He refers with approval to the notorious nocturnal attack made by Asvatthāman on the sleeping Pandava host, and its destruction when lying unsuspicious of such an unfair attack.[^122] यथा - सुनियतमुपहन्यात् कूटयुद्धेन शत्रून् न हि तिरयति धर्मं छद्मना शत्रुघातः । अचकितमवसुप्तं पाण्डवानामनीकं निशि सुनिशितशस्त्रो द्रोणसूनु र्जधान ॥") Lakṣmīdhara's loyalty to the ancient principles of righteous war (***dharmayuddha*** ) is reflected in his omission of authorities sanctioning ***kūṭa-yuddha***. Yājñavalkya ( I, 323 ) restricts entry to heaven only to those who fight fair and die in battle doing so. Since a battle is described as a ***yajña*** ( sacrifice ), it cannot be
 
 [^121]: " Bk. X, ch, 3."
 
@@ -923,9 +921,9 @@ Pain may be caused by carrying out the Vedic injunctions in animal sacrifices. T
 
 .One may take up arms in defence of his home and country. Lastly, a person may be obliged to fight because he is engaged on a salary to fight for his master, or it may be a matter of duty to him, owing to his ***varṇa***. A ***kṣatriya*** should not die in bed[^139]
 
-. In every one of these cases, the
-
 [^139]: " Viṣṇusmṛti, 3, 44- नास्ति राज्ञांसमरे तनुत्यागसदृशो धर्मः। Mahābhārata, Sāntiparva, 97, 23.25 – अधर्मः क्षत्रियस्यैष यच्छय्यामरणं भवेत् । विसृजन् श्लेष्मपित्तानि"
+
+. In every one of these cases, the
 
 violence or pain that is caused is not merely defensible but is positively meritorious. It is the aim of man to overcome sin. Among the many ways of doing so is the performance of the horse-sacrifice (***Asvamedha***). Even a mortal sin like that resulting from the murder of a Brāhmaṇa is destroyed by the performance of the horse-sacrifice. There is Vedic authority for the belief[^140]. See also Gautama, 19, 9 and Vasiṣṭha, 22, 6."). According to Gautama and Manu, if the murderer of a Brāhmaṇa first confesses his guilt and then bathes in the water in which the king, who has completed the horse sacrifice, has had his lustration, he is freed from his sin[^141].It was a matter of caste prestige for a ***kṣatriya*** to do the horse sacrifice[^142]. It enables a king to gain all his objects, gain all prosperity and win all victories if he performs it. The sacrifice will be ruined if an enemy gets hold of the sacrificial victim, i.c., the horse[^143].Accordingly, only a powerful king can give the needed protection to the animal. Wars must result from the undertaking of this sacrifice.
 
@@ -995,9 +993,9 @@ there as standing for India. Literary references show that the erection of the p
 
 PŪJA IN NAVARĀTRI[^145]
 
-  The nine days beginning with the New Moon in the month of ***Kānya*** (September-October) are prescribed for ***pūjas***, to the three goddesses, Durgā, Sarasvatī and Lakṣmī. The ***Devipurāṇa*** enjoins the worship of Durgā, in her aspect as the destroyer of the buffalo-demon (***Mahiṣāsura-mardini***), on the night of the eighth lunar day. After worship, the king is to decapitate with his sword at midnight a sacrificial animal (***pasu***), and the blood of the victim is to be offered to the god ***Niruti*** (p. 194). The night is to be spent in worship of the goddess and the Mothers, and followed up next day by a procession in which the image of the goddess is taken round in a festal car. The sacrifice is prescribed for the attainment of fame, sovereignty, children, longevity and wealth (***yaśo-rājya-putrāyur-dhanam***). This popular Śakta rite is still celebrated in many parts of India on the night specified, but the victim is now a buffalo,
-
 [^145]: "Ibid., pp. 178-181"
+
+  The nine days beginning with the New Moon in the month of ***Kānya*** (September-October) are prescribed for ***pūjas***, to the three goddesses, Durgā, Sarasvatī and Lakṣmī. The ***Devipurāṇa*** enjoins the worship of Durgā, in her aspect as the destroyer of the buffalo-demon (***Mahiṣāsura-mardini***), on the night of the eighth lunar day. After worship, the king is to decapitate with his sword at midnight a sacrificial animal (***pasu***), and the blood of the victim is to be offered to the god ***Niruti*** (p. 194). The night is to be spent in worship of the goddess and the Mothers, and followed up next day by a procession in which the image of the goddess is taken round in a festal car. The sacrifice is prescribed for the attainment of fame, sovereignty, children, longevity and wealth (***yaśo-rājya-putrāyur-dhanam***). This popular Śakta rite is still celebrated in many parts of India on the night specified, but the victim is now a buffalo,
 
 5\. CHIḤNA-PŪJĀ( WORSHIP OF EMBLEMS )
 
@@ -1380,9 +1378,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 'राजशासनं' राजाज्ञा।'वार्त्ता' कृषिपशुपाल्पादिवृतिः[^181]
 
-मनुः
-
 [^181]: "A. S. B., पाशुपाल्यादिवृतिः"
+
+मनुः
 
 बालोऽपिनावमन्तव्योमनुष्य इति भूमिपः।
 
@@ -1866,9 +1864,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 याज्ञवल्क्यः[^214]
 
-महोत्साहः स्थूललक्ष्यः कृतज्ञो वृद्धसेवकः।
-
 [^214]: " या स्मृ, I, 309-311"
+
+महोत्साहः स्थूललक्ष्यः कृतज्ञो वृद्धसेवकः।
 
 विनीतः सत्वसम्पन्नः कुलीनः सत्यवाक्छुचिः॥
 
@@ -1907,9 +1905,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 विष्णुः[^217]
 
-प्रजासुखैःसुखी राजा तद्दुःखैर्यश्च दुःखितः।
-
 [^217]: "3, 88 [ed. Jolly ] ; वी. मि., p. 121, विष्णुरपि राजेत्यनुवृत्तौ—"
+
+प्रजासुखैःसुखी राजा तद्दुःखैर्यश्च दुःखितः।
 
 बहुदेयार्थदर्शी। ‘वदान्यः स्थूललक्षदानशौण्डा बहुप्रदे' इत्यमरः। 'अक्षुद्रो' सगुणद्वेषी। 'अपरुषः' पर दोषकीर्तनः। 'रहस्यचित्' गोपनीयार्थगोपनचतुरः। ‘विनीतः' तत्तदभिज्ञैः प्रावीण्यं नीतः। (मिताक्षरा) Aparārka explains 'अपरुषः' as अकठोरवाक्, and concludes : त्रयीग्रहणात् व्याकरणाद्यङ्गानि मीमांसापुराणधर्मशास्त्राणि गृह्यन्ते।
 
@@ -1917,9 +1915,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 याज्ञवल्क्यः[^218]
 
-ब्राह्मणेषु क्ष्मी स्निग्धेष्वजिह्मी क्रोधितोऽरिषु[^219]।
-
 [^218]: "I, 334; वी.मि., p. 121"
+
+ब्राह्मणेषु क्ष्मी स्निग्धेष्वजिह्मी क्रोधितोऽरिषु[^219]।
 
 [^219]: " अपरार्क and मिताक्षरा follow the reading कोधनोऽरिषु"
 
@@ -1961,9 +1959,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 तत्र नराधिप इत्यनुवृत्तौ*याज्ञवल्क्यः*[^221]
 
-सन्मत्रिणः[^222] प्रकुर्वीत प्राज्ञान मौलान स्थिरान् शुचीन्।
-
 [^221]: "I, 312; वी.मि., p. 177"
+
+सन्मत्रिणः[^222] प्रकुर्वीत प्राज्ञान मौलान स्थिरान् शुचीन्।
 
 [^222]: "वी.मि., p. 177 gives the reading a fan: but 1ofors to the text reading thus : कल्पतरुणा नराधिप इत्यनुवृत्तौ 'सन्मन्त्रिणः' इति पाठो लिखितः । मिताक्षरा adopts the read- ing मन्त्रिणः"
 
@@ -2291,21 +2289,25 @@ any constitutional machinery, empowered to call his actions into question.
 
 ज्ञात्वा वृत्तिर्विधातव्या पुरुषाणां महीक्षिता॥
 
+ 
+
 शङ्खलिखितौ
 
   न गृध्नुपरिवारःस्यात्कामं गृध्नू राजा श्रेयान सपरिवारःपरिवाराद्धि दोषाः प्रादुर्भवन्ति तेऽलं विनाशाय तस्मात्पूर्वमेव तत्परिवारं लिप्सेत।
 
 श्रुतशीलोपपन्नान मन्त्रिणोऽभिधाय मनुः[^254]
 
-अन्यानपि प्रकुर्वीत शचीन् प्राज्ञानवस्थितान्।
-
 [^254]: "lbid ; म. स्मृ., VII, 60-61."
+
+अन्यानपि प्रकुर्वीत शचीन् प्राज्ञानवस्थितान्।
 
 आप्तानर्थसमाहर्तॄनमात्यान्सुपरीक्षितान्॥
 
 निवर्त्तताऽस्य यावद्भिरितिकर्तव्यता नृभिः।
 
 तावतोऽतन्द्रितान् दक्षान् प्रकुर्वीत विचक्षणान्॥
+
+ 
 
 शङ्खलिखितौ
 
@@ -2403,9 +2405,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   मत्स्य उवाच[^261]
 
-यथाऽनुवर्तितव्यं स्यान्मनो राज्ञोऽनुजीविभिः।
-
 [^261]: " I. O, and A. S. B वी. मि., p. 189, मत्स्य पु. cap. 216"
+
+यथाऽनुवर्तितव्यं स्यान्मनो राज्ञोऽनुजीविभिः।
 
 तथा ते कथयिष्यामि निबोध गदतो मम॥
 
@@ -2579,11 +2581,13 @@ any constitutional machinery, empowered to call his actions into question.
 
 इत्यनुजीविवृत्तम्॥
 
+ 
+
 अथ दुर्गाणि[^272]
 
-  याज्ञवल्क्यः[^273]
-
 [^272]: "of. वी. मि., p. 199; राजनी. र. pp. 26-28; राज कौ., pp. 113-114; नी. म. pp. 77-78"
+
+  याज्ञवल्क्यः[^273]
 
 [^273]: "I, 321"
 
@@ -2595,19 +2599,20 @@ any constitutional machinery, empowered to call his actions into question.
 
 [^274]: "मिताक्षरा :—"
 
+ 
 मनुः[^275]
 
-जाङ्गलं सस्यसम्पन्नमार्यप्रायमनाविलम्।
-
 [^275]: "VII, 69.  “अल्पोदकतृणो यस्तु प्रवातः प्रचुरातपः । स ज्ञेयो जाङ्गलो देशो बहुधान्यादिसंयुतः” ॥ इति कुल्लुकटीकायाम् ।"
+
+जाङ्गलं सस्यसम्पन्नमार्यप्रायमनाविलम्।
 
 रम्यमानतसामन्तं स्वाजीव्यं देशमावसेत्॥
 
   मत्स्यपुराणे[^276]
 
-वैश्यशूद्रजनप्रायमनाहार्यं तथा परैः।
-
 [^276]: "cap. 217, sl. 2 ff; वी. मि. p. 198"
+
+वैश्यशूद्रजनप्रायमनाहार्यं तथा परैः।
 
 किश्चिद्ब्राह्मणसंयुक्तं बहु[^277]कर्मकरं तथा॥
 
@@ -2647,17 +2652,18 @@ any constitutional machinery, empowered to call his actions into question.
 
   मनुः[^281]
 
-सर्वेण तु प्रयत्नेन गिरिदुर्गं समाश्रयेत्।
-
 [^281]: "VII, 71 ; वी. मि., p. 203"
+
+सर्वेण तु प्रयत्नेन गिरिदुर्गं समाश्रयेत्।
 
 बाहुगुण्येन तेषां हि गिरिदुर्गं विशिष्यते॥
 
+ 
 तथा[^282]
 
-एकः शतं योधयति प्रासादस्थो[^283] धनुर्द्धरः।
-
 [^282]: "म. स्मृ., VII, 74; नी. म., p. 78 explains:- दशगुणा अपि पराभवं प्राप्नुवन्ति इत्यर्थः ।"
+
+एकः शतं योधयति प्रासादस्थो[^283] धनुर्द्धरः।
 
 [^283]: "वी. मि., p. 202, प्राकारस्थः; soराज कौ, p. 113"
 
@@ -2667,9 +2673,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   बृहस्पतिः[^285]
 
-भूतानामिन्धनरसैर्वेष्पानवाहनैः।
-
 [^285]: "वी. मि., p. 204"
+
+भूतानामिन्धनरसैर्वेष्पानवाहनैः।
 
 यन्त्रायुधैश्च विविधैः स्निग्धैः शूरैर्नरैर्युतम्॥
 
@@ -2707,9 +2713,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 तत्र मत्स्यपुराणे[^287]
 
-गोपुरं सकपाटं च तत्र स्यात्सुमनोहरम्।
-
 [^287]: "म. पु., c. 217, 9-14; of राज कौ, pp. 118-126."
+
+गोपुरं सकपाटं च तत्र स्यात्सुमनोहरम्।
 
 सपताकं गजारूढो येन राजा विशेत्पुरम्॥
 
@@ -2743,15 +2749,17 @@ any constitutional machinery, empowered to call his actions into question.
 
   बृहस्पतिः[^291]
 
-दुर्गमध्ये गृहं कुर्याज्जलवृक्षान्वितं पृथक्।
-
 [^291]: "वी. मि., p. 206"
+
+दुर्गमध्ये गृहं कुर्याज्जलवृक्षान्वितं पृथक्।
 
 प्राग्दिशि प्राङ्मुखीं तस्य लक्षण्यां कल्पयेत्सभाम्॥
 
 माल्यधूपासवोपेतां वीररसमन्विताम्।
 
 प्रतिमालेख्यदेवैस्तु युक्तामग्न्यम्बुना तथा॥
+
+ 
 
 मत्स्यपुराणे
 
@@ -2875,6 +2883,8 @@ any constitutional machinery, empowered to call his actions into question.
 
 कर्तव्यानि महाभाग यत्नेन पृथिवीक्षिता॥
 
+ 
+
 तथा
 
 यन्त्रायुधाट्टालमयोपपन्नं
@@ -2887,9 +2897,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   तथा[^298]
 
-शिरीषोदुम्बरशमीबीजपूर्णं घृतप्लुतम्।
-
 [^298]: "म. पु., ch. 219, sl. 2-8; वी. मि., p. 209"
+
+शिरीषोदुम्बरशमीबीजपूर्णं घृतप्लुतम्।
 
 क्षुद्योगः कथितो राजन् मासार्द्धस्य पुरातनैः॥
 
@@ -2925,9 +2935,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   तत्र देवीपुराणे[^301]
 
-  इन्द्र उवाच
-
 [^301]: "वी. मि., p. 214"
+
+  इन्द्र उवाच
 
 कीदृशं तु पुरं कार्यं नगरं कीदृशं शुभम्।
 
@@ -3243,9 +3253,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 तत्र मत्स्यपुराणे[^324]
 
-सूत उवाच
-
 [^324]: "I. O. and वी. मि., p. 219"
+
+सूत उवाच
 
 ( कालफलम् )
 
@@ -3583,9 +3593,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   'अलिन्दं' द्वारचतुष्किका।'सौम्यशाला' उत्तरद्वारशाला। 'सिद्धार्थवर्ज्जं' याम्यात्पराभ्यां शालाभ्यां युक्तं यद्द्विशालं तद्विहाय[^353]
 
-[][^353]
-
 [^353]: "Reproduced by वी. मि., p. 225"
+
+[][^353]
 
 ।
 
@@ -3839,9 +3849,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 सूत उवाच[^363]
 
-उदगादिप्लवं वास्तोः समानस्य शिरस्तथा।
-
 [^363]: "म. पु., ch 256, p. 525ff."
+
+उदगादिप्लवं वास्तोः समानस्य शिरस्तथा।
 
 परीक्ष्य पूर्ववत् कुर्यात् स्तम्भोच्छ्रायं विचक्षणः॥
 
@@ -4120,9 +4130,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 बह्वृचगृह्ये[^374]
 
-  अथाऽतो वास्तुपरीक्षाऽनूषरमविवदिष्णुभूमौषधिवनस्पतिवत् यस्मिन् कुशवीरणं प्रभूतं कण्टकिक्षीरिणस्तु समूलान् परिखायोद्वासयेत्। अपामार्गः शाकस्तित्वकः परिव्याध इति चैतानि यत्र सर्वत आपो मध्यं समेत्य प्रदक्षिणं शमनीयं परीत्य प्राच्यः स्यन्देरन् अप्रपतत्यस्तत्सर्वं समृद्धं समवस्रवे भक्तशरणं कारयेत्। बह्वन्नं
-
 [^374]: "आश्वलायनगृह्यसूत्र, II, 7–9"
+
+  अथाऽतो वास्तुपरीक्षाऽनूषरमविवदिष्णुभूमौषधिवनस्पतिवत् यस्मिन् कुशवीरणं प्रभूतं कण्टकिक्षीरिणस्तु समूलान् परिखायोद्वासयेत्। अपामार्गः शाकस्तित्वकः परिव्याध इति चैतानि यत्र सर्वत आपो मध्यं समेत्य प्रदक्षिणं शमनीयं परीत्य प्राच्यः स्यन्देरन् अप्रपतत्यस्तत्सर्वं समृद्धं समवस्रवे भक्तशरणं कारयेत्। बह्वन्नं
 
 हि भवति दक्षिणाप्रवणे सभां मापयेत्। साऽद्यूताह ? भवति युवानस्तस्यां कितवाःकलहिनः प्रमायुका भवन्ति यत्र सर्वत आयःप्रस्यन्देरन् सा स्वस्त्ययिन्यद्यूता च।
 
@@ -4234,9 +4244,9 @@ any constitutional machinery, empowered to call his actions into question.
 
  मनुः[^383]
 
-राजा कर्मसु युक्तानां स्त्रीणां प्रेष्यजनस्य च।
-
 [^383]: "VII, 126 - 126"
+
+राजा कर्मसु युक्तानां स्त्रीणां प्रेष्यजनस्य च।
 
 प्रत्यहं कल्पयेद्वृत्तिं स्थानकर्मानुरूपतः॥
 
@@ -4247,6 +4257,8 @@ any constitutional machinery, empowered to call his actions into question.
 [^384]: "वी. मि., p 252 : 'द्रोणः' आढकचतुष्टयम्"
 
 'षट् पणा' इत्यन्वयः। 'आच्छादः' आच्छादनवस्त्रम्।
+
+ 
 
 बृहस्पतिः
 
@@ -4278,13 +4290,15 @@ any constitutional machinery, empowered to call his actions into question.
 
   याज्ञवल्क्यः[^386]
 
-चाटतस्करदुर्वृत्तमहासाहसिकादिभिः।
-
 [^386]: " I, 336"
+
+चाटतस्करदुर्वृत्तमहासाहसिकादिभिः।
 
 पीड्यमानाः प्रजा रक्षेत्कायस्थेभ्यो विशेषतः[^387]॥
 
 [^387]: "मिताक्षरा reads कायस्थैः and explains: 'कायस्था.' लेखकाः गणकाश्च । तेषां राजवल्लभतया अतिमायाविकत्वाच्च दुर्निवारत्त्वात् । Aparārka equates कायस्थाः with कराधिकृताः"
+
+ 
 
 मनुः
 
@@ -4298,9 +4312,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   कात्यायनः[^388]
 
-श्रोत्रिया विधवा बाला दुर्बलाश्च कुटुम्बिनः।
-
 [^388]: "Not found in Kane's कात्यायन"
+
+श्रोत्रिया विधवा बाला दुर्बलाश्च कुटुम्बिनः।
 
 एते राजबला राज्ञा रक्षितव्याः प्रयत्नतः॥
 
@@ -4316,9 +4330,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   मनुः[^390]
 
-ब्राह्मं प्राप्तेन संस्कार क्षत्रियेण यथाविधि।
-
 [^390]: "VII, 2"
+
+ब्राह्मं प्राप्तेन संस्कार क्षत्रियेण यथाविधि।
 
 सर्वस्याऽस्य यथान्यायं कर्तव्यं परिरक्षणम्॥
 
@@ -4328,9 +4342,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   कात्यायनः[^392]
 
-प्रजानां रक्षणं नित्यं कण्टकानां च शोधनम्।
-
 [^392]: "kane ,v.15; वी.मि., p.254"
+
+प्रजानां रक्षणं नित्यं कण्टकानां च शोधनम्।
 
 द्विजानां पूजनं चैव एतदर्थं कृतो नृपः॥
 
@@ -4354,17 +4368,17 @@ any constitutional machinery, empowered to call his actions into question.
 
   शंख[^393]
 
-न व्रतैनोपवासेन न च यज्ञैः पृथग्विधैः।
-
 [^393]: " शंख"
+
+न व्रतैनोपवासेन न च यज्ञैः पृथग्विधैः।
 
 राजा स्वर्गमवाप्नोति प्राप्नोति परिपालनात्॥
 
   यमः[^394]
 
-वानप्रस्थाः परिव्राजः श्रोत्रियाश्चाऽऽहिताग्नयः।
-
 [^394]: "वी. मि., p. 255"
+
+वानप्रस्थाः परिव्राजः श्रोत्रियाश्चाऽऽहिताग्नयः।
 
 षड्भागस्य प्रदातारो नैते राज्ञो हिरण्यदाः॥
 
@@ -4372,9 +4386,9 @@ any constitutional machinery, empowered to call his actions into question.
 
  मनुः[^395]
 
-सर्वतो धर्मषड्भागो राज्ञो भवति रक्षणात्।
-
 [^395]: "VIII, 304, 307, 308, 309."
+
+सर्वतो धर्मषड्भागो राज्ञो भवति रक्षणात्।
 
 अधर्मादपि षड्भागो भवत्यस्य ह्यरक्षतः॥
 
@@ -4406,9 +4420,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   तत्र महाभारते[^398]
 
-अधनं दुर्बलं प्राहुर्धनेन बलवान् भवेत्।
-
 [^398]: " वी. मि., p. 257 prefixes to this passage from महाभारत twenty ślokas from विष्णुधर्मोत्तर"
+
+अधनं दुर्बलं प्राहुर्धनेन बलवान् भवेत्।
 
 सर्वंबलवतः पथ्यं सर्वं तरतिं कोशवान्॥
 
@@ -4442,11 +4456,13 @@ any constitutional machinery, empowered to call his actions into question.
 
   मनु[^400]
 
-क्रयविक्रयमद्ध्वानं भक्तं च सपरिव्यम्।
-
 [^400]: "VII, 127-132"
 
-योगक्षेमं च सम्प्रेक्ष्य वणिजो [दापयेत्करान्](#)॥
+क्रयविक्रयमद्ध्वानं भक्तं च सपरिव्यम्।
+
+योगक्षेमं च सम्प्रेक्ष्य वणिजो दापयेत्करान्[^696]॥
+
+[^696]: #
 
 यथा फलेन युज्येत राजा कर्त्ता च कर्मणाम्।
 
@@ -4515,6 +4531,7 @@ any constitutional machinery, empowered to call his actions into question.
 
 विष्णुः
 
+ 
 प्रजा[^408]भ्यो बल्यर्थं\[ संवत्सरेण \] धान्यतः षष्ठमंशमावण्यात्। सर्वसस्येभ्यश्च द्विकं शतं पशुहिरण्ययोर्वस्त्रेभ्यश्च। मांसमधुघृतौषधिगन्धपुष्परसशकिपत्राजिनमृद्भाण्डाश्मभाण्डवैणवेभ्यः। षष्ठभागं ब्राह्मणेभ्यःकरादानं न कुर्यात्। ते हि राज्ञां धर्मकरदाः[^409]")।
 
 [^408]: " I. O.and A. S. B. areboth defective in this passage"
@@ -4535,9 +4552,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   मनुः[^411]
 
-म्रियमाणोऽप्याददीत न राजा श्रोत्रियात्करम्।
-
 [^411]: " VII, 133; omitted in A. S. B.; cf. वी. मि., p. 272"
+
+म्रियमाणोऽप्याददीत न राजा श्रोत्रियात्करम्।
 
 न च क्षुधाऽस्य संसदेच्छ्रोत्रियो विषये वसन्
 
@@ -4549,10 +4566,10 @@ any constitutional machinery, empowered to call his actions into question.
 
   मनुः[^412]
 
+[^412]: " VIII, 394"
+
 \ [अन्धो[^413]
 जडःपीठसर्पी सप्तत्याः स्थविरश्च यः।
-
-[^412]: " VIII, 394"
 
 [^413]: " [ ] Words in braokets missing in the Mss ."
 
@@ -4564,9 +4581,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 वसिष्ठः[^415]
 
-  नदीकक्षवनदाहशैलोपभोगाः विष्कराः \] स्युः। तदुपजीविनो वा दद्युः। प्रतिमासं \[ उदाहकरंतु आगमयेत \]।
-
 [^415]: "XIX, 26-28; वी. मि., p. 274"
+
+  नदीकक्षवनदाहशैलोपभोगाः विष्कराः \] स्युः। तदुपजीविनो वा दद्युः। प्रतिमासं \[ उदाहकरंतु आगमयेत \]।
 
   'वनदाहः' दग्धवनम्। 'तदुपजीविनः' तानेव ये उपजीवन्ति। सैव तेषां वृत्तिः।
 
@@ -4586,6 +4603,8 @@ any constitutional machinery, empowered to call his actions into question.
 
   करशुल्कावेरग्रहणं 'आत्ममूलच्छेदः'। यथोचितादधिकग्रहणं 'परमूलच्छेदः'।
 
+ 
+
 याज्ञवल्क्यः
 
 अन्यायेन नृपो राष्ट्रात्स्वकोशं योऽभिवर्द्धयेत्।
@@ -4598,11 +4617,15 @@ any constitutional machinery, empowered to call his actions into question.
 
 [^417]: "मिताक्षरा follows the reading प्राणांश्चदग्ध्वा न निवर्तते । Aparārka adopts the reading in the text."
 
+ 
+
 कात्यायनः
 
 अन्यायेन हि यो राष्ट्रात्करं दण्डं च पार्थिवः।
 
 सस्यभागं च शुल्कं चाऽप्याददीत स पापभाक्॥
+
+ 
 
 मनुः
 
@@ -4664,9 +4687,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   तत्र मनुः[^420]
 
-हिरण्यभूमिसम्प्राप्त्या पार्थिवो न तथैधते।
-
 [^420]: "VII, 208 – 209 ; वी. मि., p. 277"
+
+हिरण्यभूमिसम्प्राप्त्या पार्थिवो न तथैधते।
 
 यथा मित्रं ध्रुवं लब्ध्वा कृशमप्यायतिक्षमम्॥
 
@@ -4674,11 +4697,12 @@ any constitutional machinery, empowered to call his actions into question.
 
 अनुरक्तं स्थिरारम्भं लघुमित्रं प्रशस्यते॥
 
+ 
 याज्ञवल्क्यः[^421]
 
-हिरण्यभूमिलाभेभ्यो मित्रलब्धिर्वरा यतः।
-
 [^421]: "I. 352; वी. मि., p. 277; I. O. omits the next six quotations."
+
+हिरण्यभूमिलाभेभ्यो मित्रलब्धिर्वरा यतः।
 
 अतो यतेत तत्प्राप्त्यै रक्षेत्सत्यं समाहितः॥
 
@@ -4692,9 +4716,9 @@ any constitutional machinery, empowered to call his actions into question.
 
   महाभारते[^423]
 
-वेदितव्यानि मित्राणि बोद्धव्याश्चाऽपि शत्रवः।
-
 [^423]: " बी. मि., p. 278"
+
+वेदितव्यानि मित्राणि बोद्धव्याश्चाऽपि शत्रवः।
 
 एतत्सुसूक्ष्मं लोकेऽस्मिन् दृश्यते प्राज्ञसंमतम् \।\।
 
@@ -4820,9 +4844,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 अथ मन्त्रः[^436]
 
-**तत्र मनुः[^437]**
-
 [^436]: "वी. मि., pp. 306-312"
+
+**तत्र मनुः[^437]**
 
 [^437]: " VII, 145-6; name supplied by A. S. B."
 
@@ -4836,9 +4860,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 **श्रीरामायणे**[^439]
 
-त्रिविधाः पुरुषा लोके उत्तमाधममध्यमाः।
-
 [^439]: "युद्धकाण्ड, 6, 6-15"
+
+त्रिविधाः पुरुषा लोके उत्तमाधममध्यमाः।
 
 तेषां तु समेवेतानां गुणदोषं वदाम्यहम्॥
 
@@ -4888,9 +4912,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 मनुः[^443]
 
-गिरिपृष्ठं समारुह्य प्रासादं वा रहोगतः।
-
 [^443]: "VII, 147–148"
+
+गिरिपृष्ठं समारुह्य प्रासादं वा रहोगतः।
 
 अरण्ये निःशलाके वा मन्त्रयेदाविभावितः[^444]॥
 
@@ -4904,17 +4928,17 @@ any constitutional machinery, empowered to call his actions into question.
 
 [याज्ञवल्क्यः[^445]
 
-मन्त्रमूलं यतो राज्यमतो मन्त्रं सुरक्षितम्।
-
 [^445]: " I, 344 ; वी. मि., p. 308. Printed text reads तस्मान्मन्त्रं"
+
+मन्त्रमूलं यतो राज्यमतो मन्त्रं सुरक्षितम्।
 
 कुर्याद्यथाऽस्य न \] विदुः कर्मणामाफलोदयात्॥
 
 मनुः[^446]
 
-जडमूकान्धयधिरांस्तैर्यग्योनान्वयोतिगान्।
-
 [^446]: " XI, 52, VII, 149ff; वी. मि., p. 309"
+
+जडमूकान्धयधिरांस्तैर्यग्योनान्वयोतिगान्।
 
 स्त्रीम्लेच्छव्याधितव्यङ्गान्मन्त्रकाले प्रसेधयेत्॥
 
@@ -4928,9 +4952,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 महाभारते[^448]
 
-मन्त्रभेदस्य यत्प्राज्ञो द्वाराणीमानि कल्पयेत्।
-
 [^448]: "वी. मि., p. 310"
+
+मन्त्रभेदस्य यत्प्राज्ञो द्वाराणीमानि कल्पयेत्।
 
 अथ सम्पत्तिकामश्चरक्षेदेतानि नित्यशः॥
 
@@ -4985,9 +5009,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 श्रीरामायणे[^449]
 
-अनभिज्ञाय शास्त्राणि बहवः पशुबुद्धयः।
-
 [^449]: " युद्धकाण्ड, 63, 14–17, Mylapore edn, shows some differences."
+
+अनभिज्ञाय शास्त्राणि बहवः पशुबुद्धयः।
 
 प्रागल्भ्याद्वक्तुमिच्छन्ति मन्त्रेष्वभ्यन्तरीकृताः॥
 
@@ -5005,9 +5029,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 मनुः[^450]
 
-मौलान् शास्त्रविदः शूरांल्लब्धलक्ष्यान् कुलोद्गतान्।
-
 [^450]: "VII, 54, 57-59"
+
+मौलान् शास्त्रविदः शूरांल्लब्धलक्ष्यान् कुलोद्गतान्।
 
 सचिवान् सप्त वाऽष्टौ वा प्रकुर्वीत परीक्षितान्॥
 
@@ -5025,9 +5049,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 श्रीरामायणे[^451]
 
-यत् प्रियं च हितं चैव साधुधर्म्यंं च सर्वशः।
-
 [^451]: "वी. मि., p. 311"
+
+यत् प्रियं च हितं चैव साधुधर्म्यंं च सर्वशः।
 
 ब्रूयुस्तन्मन्त्रिणो वाक्यं मन्त्र्यमाणे विशेषतः॥
 
@@ -5043,9 +5067,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 मन्त्रिण इत्यनुवृत्तौ मनुः[^453]
 
-तैः सार्द्धंचिन्तयेन्नित्यं सामान्यं सन्धिविग्रहम्।
-
 [^453]: "VII, 56. These verses are dropped by वी. मि."
+
+तैः सार्द्धंचिन्तयेन्नित्यं सामान्यं सन्धिविग्रहम्।
 
 स्थानं समुदयं गुप्तिं लब्धप्रशमनानि च॥
 
@@ -5093,9 +5117,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 तथा[^457]
 
-प्राज्ञं कुलीनं दातारं शूरं दक्षं तथैव च।
-
 [^457]: "VII, 210-211"
+
+प्राज्ञं कुलीनं दातारं शूरं दक्षं तथैव च।
 
 कृतज्ञं शक्तिमन्तं च कष्टमाहुररिं बुधाः॥
 
@@ -5170,9 +5194,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 तत्रमनुः[^463]
 
-सन्धिं च विग्रहं चैव यानमासनमेव च।
-
 [^463]: "VII, 160-180"
+
+सन्धिं च विग्रहं चैव यानमासनमेव च।
 
 द्वैधीभावं संश्रयं च षड्गुणांश्चिन्तयेत्सदा॥
 
@@ -5286,9 +5310,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 तथा[^478]
 
-चारेणोत्साहयोगेन क्रिययैव च कर्मणाम्।
-
 [^478]: "IX, 298 - 300; बी. मि., p. 328, continues the"
+
+चारेणोत्साहयोगेन क्रिययैव च कर्मणाम्।
 
 १५ कृ० रा०
 
@@ -5466,9 +5490,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 मत्स्यपुराणे[^489]
 
-इदानीं कथयिष्यामि निमित्तं स्वप्नदर्शने \।
-
 [^489]: " म. पु., ch. 242 2, ff ; वी. मि., p. 336 adds विष्णुधर्मोत्तरयोरपि"
+
+इदानीं कथयिष्यामि निमित्तं स्वप्नदर्शने \।
 
 नाभिं विनाऽन्यगात्रेषु तृणवृक्षसमुद्भवः[^490]\।\।
 
@@ -5852,9 +5876,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 मत्स्यपुराणे[^518]
 
-सर्वेषामप्युपायानां दानं श्रेष्ठतमं मतम्।
-
 [^518]: "वी. मि., p. 282; म. पु., ch. 224, 2, 5"
+
+सर्वेषामप्युपायानां दानं श्रेष्ठतमं मतम्।
 
 सुदत्तेनेह भवति दानेनोभयलोकजित्॥
 
@@ -5870,9 +5894,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 श्री रामायणे[^520]
 
-तत्र साम प्रयोक्तव्यमार्येषु गुणवत्सु च।
-
 [^520]: " Not to be traced; but cited in वी. मि., p. 404"
+
+तत्र साम प्रयोक्तव्यमार्येषु गुणवत्सु च।
 
 दानं लुब्धेषु भेदश्च शङ्कितेष्विति निश्चयः॥
 
@@ -5880,9 +5904,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 मनुः[^521]
 
-साम्नाभेदेन दानेन समस्तैरुत वा पृथक्।
-
 [^521]: "VII, 198–199; मनुः omitted in all manuscripts."
+
+साम्नाभेदेन दानेन समस्तैरुत वा पृथक्।
 
 विजेतुं प्रयतेताऽरीन्न युद्धेन कदाचन॥
 
@@ -5892,9 +5916,9 @@ any constitutional machinery, empowered to call his actions into question.
 
 तथा[^522]
 
-त्रयाणामप्युपायानां पूर्वोक्तानां परिक्षये।
-
 [^522]: "VII, 200"
+
+त्रयाणामप्युपायानां पूर्वोक्तानां परिक्षये।
 
 तथा युध्येत सम्पन्नो विजयेत रिपून् तथा॥
 
@@ -5964,6 +5988,8 @@ any constitutional machinery, empowered to call his actions into question.
 
   न दोषो हिंसायामाहवे अन्यत्र व्यश्वसारथ्यायुध-
 
+ 
+
 कृताञ्जलिप्रकीर्णकेशपरराङ्मुखोपविष्टस्थलवृक्षारूढादृते गो्ब्राह्मणवादिभ्यः[^528]")।
 
 [^528]: "विशब्दः त्रिभिस्संबध्यते-- व्यश्वः, विसारथिः, व्यायुध इति । 'स्थलारुढः' पर्वतारूढः । दूतोऽहं ब्राह्मणोऽहं इति च यो वदति यश्चगोवच्छब्दंकरोति । ( मस्करिभाष्य, p. 116
@@ -6018,6 +6044,8 @@ any constitutional machinery, empowered to call his actions into question.
 
 आपस्तम्बः
 
+ 
+
 ब्राह्मणस्वान्यपजिगीषमाणो \[राजा यो हन्यते तमाहुरात्मयूपो यज्ञोऽनन्तदक्षिण इति\] \।
 
 ————————————————————————————————————
@@ -6052,12 +6080,12 @@ any constitutional machinery, empowered to call his actions into question.
 
 मनुः[^530]
 
+[^530]: "VII, 94-95"
+
 यस्तु भीतः परावृत्तः सङ्ग्रामे हन्यते परैः।  
 भर्त्तुर्यद्दुष्कृतं किञ्चित्सर्वं तत्प्रतिपद्यते॥  
 यदस्य[^531] सुकृतं किञ्चिदमुत्रार्थमुपार्जितम्।  
 भर्त्ता तत्सर्वमादत्ते परावृत्तहृतस्य तु \।\।
-
-[^530]: "VII, 94-95"
 
 [^531]: " Printed texts read: यच्चास्य"
 
@@ -6068,6 +6096,8 @@ any constitutional machinery, empowered to call his actions into question.
 
 आदित्यपुराणे[^532]
 
+[^532]: " वी. मि., pp. 408-409"
+
 सङ्ग्रामे प्रस्थितं भूपं भृत्यस्त्यजति यः क्षणात्।  
 स तेन नृपदण्डेन मूढो नरकमृच्छति॥  
 जित्वाऽरिं भोगसम्प्राप्तिर्मृतस्य च परा गतिः।  
@@ -6077,8 +6107,6 @@ any constitutional machinery, empowered to call his actions into question.
 तथैव विचिकित्सायां वेदना सहते तु याम्।  
 ततो नास्त्यधिको लोके तपः परमदारुणम्॥  
 मृतस्य नास्ति संस्कारो नाऽऽशौचं नोदकक्रिया।
-
-[^532]: " वी. मि., pp. 408-409"
 
 कर्तुमिच्छति यस्येह सङ्ग्रामादधिकं हि किम् \।\।
 
@@ -6126,8 +6154,6 @@ any constitutional machinery, empowered to call his actions into question.
 
 राज्ञश्च दद्य़ूरुद्वारमित्येषा वैदिकी श्रुतिः[^525]।
 
-[^525]: " "
-
 राज्ञा च सर्वयोधेभ्यो दातव्यमपृथग्जितम् \।\।
 
 गौतमः
@@ -6158,11 +6184,15 @@ any constitutional machinery, empowered to call his actions into question.
 
 अभीप्सितानामर्थानां कालयुक्तं प्रशस्पते॥
 
+ 
+
 \['प्रदद्यात् परिहारान्'\] राजग्राह्यमपि जनानुरागार्थं[^535] किञ्चिदंशं परित्यजेदित्यर्थः। 'प्रमाणानी'ति। यस्मिन्देशे ये धर्मास्तेतथैव पलनीयाः \। 'कालयुक्तमि'ति \। अप्रियकरमपि कालापेक्षया प्रशस्यत इत्यर्थः।
 
 [^535]: " A. S. B. प्रजा for जन; words in brackets necessary for elucidating the commentary."
 
 विष्णुः
+
+ 
 
 राजा परपुरप्राप्तौ तत्कुलीनमभिषिञ्चयेत्। न. राजकुलमुच्छिन्द्यात् अन्यत्राकुलीनराजकुलात्।
 
@@ -6223,17 +6253,17 @@ Jolly वि. स्मृ., p. 13 reads: परपुरावाप्तौ�
 
 श्री रामायणे[^539]
 
-यस्तु नाऽऽरभते कार्यंनरो दैवपरायणः।
-
 [^539]: " वी. मि., p. 814: not found in printed texts."
+
+यस्तु नाऽऽरभते कार्यंनरो दैवपरायणः।
 
 क्षिप्रं भवति निर्द्रव्यः पलायनपरायणः \।\।
 
 तथा[^540]
 
-विक्लवो हीनवीर्योयः सदैवमनुवर्त्तते।
-
 [^540]: "अयोध्याकाण्ड 23, 16-18"
+
+विक्लवो हीनवीर्योयः सदैवमनुवर्त्तते।
 
 अविक्लवस्तु तेजस्वी न दैवमनुवर्त्तते[^541]॥
 
@@ -6327,9 +6357,9 @@ Jolly वि. स्मृ., p. 13 reads: परपुरावाप्तौ�
 
 तत्र मनुः[^547]
 
-इन्द्रियाणां जये योगं समातिष्ठेद्दिवानिशम्।
-
 [^547]: " VII, 44-53; वी. मि., disperses the verses thus : p. 118, p. 148, p. 147, p. 149"
+
+इन्द्रियाणां जये योगं समातिष्ठेद्दिवानिशम्।
 
 जितेन्द्रियश्च[^548]शक्नोति वशे स्थापयितुं प्रजाः॥
 
@@ -6597,9 +6627,11 @@ Jolly वि. स्मृ., p. 13 reads: परपुरावाप्तौ�
 
 राज्ञोऽधिकमित्यनुवृत्तौ गौतमः[^569]
 
+[^569]: "10, 12 - I4; वी. मि., p. 133"
+
 योगश्च विजये भये विशेषेण चर्या च रथधनुर्भ्याम्।
 
-[^569]: "10, 12 - I4; वी. मि., p. 133"
+ 
 
 'योग'उद्योगः\। 'विजये' आत्मेन्द्रियामात्यादीनां वशीकारेऽभियोगः कार्यः। 'भये' विशेषेण अन्येनाऽभिभवे उपस्थिते तद्रक्षणार्थं विशेषेणोद्यमः कर्तव्यः। 'चर्य्या' पर्यटनम्। तद्वाहनायुधवता कर्तव्यमित्यर्थः।
 
@@ -6755,6 +6787,8 @@ Jolly वि. स्मृ., p. 13 reads: परपुरावाप्तौ�
 
 शङ्खलिखितौ
 
+ 
+
 राज्ञः प्रत्यहं घृतान्वीक्षणं, मङ्गलदर्शनं, कपिलाप्रदानं, स्वलकृतस्य सम्भाषणं, वैद्यदर्शनं, सप्रहासं सविकल्पंविनयपूर्वं वृद्धेषु।
 
 याज्ञवल्क्यः
@@ -6769,9 +6803,9 @@ Jolly वि. स्मृ., p. 13 reads: परपुरावाप्तौ�
 
 सभामित्यनुवृत्तौ *बृहस्पतिः*[^578]
 
-पूर्वाह्णेतामधिष्ठाय वृद्धामात्यानुजीविनः।
-
 [^578]: " वी. मि., p. 158: 'तां' सभाम् । 'सुरान्' भूसुरान् । पूर्ववाक्ये तत्रस्थान् ब्राह्मणानित्युपादनात् ।"
+
+पूर्वाह्णेतामधिष्ठाय वृद्धामात्यानुजीविनः।
 
 पश्येत्सुरान् स धर्मार्थशास्त्राणि शृणुयात्तथा \।\।
 
@@ -7043,15 +7077,15 @@ Jolly वि. स्मृ., p. 13 reads: परपुरावाप्तौ�
 
 शङ्खलिखितौ[^601]
 
-राज्ञः शङ्खपटहतूर्येण प्रस्वापोत्थानम्।
-
 [^601]: " वी. मि., p. 154"
+
+राज्ञः शङ्खपटहतूर्येण प्रस्वापोत्थानम्।
 
 याज्ञवल्क्यः[^602]
 
-संविशेत्तूर्यघोषेण प्रतिबुध्येत्तथैव च।
-
 [^602]: "I. 331-332; वी. मि., p. 154"
+
+संविशेत्तूर्यघोषेण प्रतिबुध्येत्तथैव च।
 
 ————————————————————————————————————
 
@@ -7118,6 +7152,8 @@ Jolly वि. स्मृ., p. 13 reads: परपुरावाप्तौ�
 
 —————————————————————————————————————————————
 
+ 
+
 द्रियेत' श्राद्दधीत। तच्छब्देन दैवोत्पातकचिन्तकवचनम् तदायत्तम्। योगक्षेमम् अलब्धलाभो 'योगः'। लब्धस्य रक्षणं 'क्षेमः'। 'प्रतिजानते' प्रतिज्ञां कुर्वन्ति। संयुक्तशब्दः प्रत्येकमभिसम्बध्यते। 'आभ्युदायिकानि' अभ्युदयहेतुत्वात्। विगता ऋद्धिः 'व्यृद्धिः' द्विषतो व्यृद्धिः 'द्विषद्वयृद्धिः, तया युक्तं येनाऽस्य परो विगतैश्वर्यो भवति। उपरि ॠस्विग्प्रहणात् एतानि पुरोहितः कुर्यात् 'शालाग्नौ', च शब्दात् लौकिके च। पुत्रकामेष्ट्यानि अन्यानि यथोक्तं ऋत्विजः कुर्युः।
 
   वी. मि., pp. 136-7 gives the following further explanation : 'पुरोदधीत' पुरोहितं कुर्यात्। 'तत्प्रासूत' इस्यत्र तच्छब्दानुकर्षणीयत्वेन ब्राह्मणो निर्दिश्यते - ब्रह्मप्रसूतमिति। 'ऋद्ध्यते' समृद्धो भवति। 'विज्ञायते' परम्परया दृश्यते। 'तदधीन' दैवोत्पातचिन्तकैः ज्योतिर्विद्भिः यद्गृहवैकृतादौ कर्तव्यत्वेनोक्तं तस्यायत्तम्। 'योगक्षेमं' इत्यत्र समाहारद्वन्द्वेन नपुंसकतैकवद्भावश्च। 'शान्तिः' प्रहशान्तिमहाशान्त्यादयः। 'पुण्याहं' दिनदोषनाशाय विवाहादौ क्रियमाणम्। 'स्वस्त्ययनं' यात्रादौ क्रियमाणम्। 'आयुष्यसंयुक्तम्' जन्मनक्षत्रादौ आयुर्वृध्यर्थं क्रियमाणं दूर्वाहोमादि। 'मङ्गलं' गृहप्रवेशादौ क्रियमाणं वास्तुहोमादि। एतान्यभ्युदयहेतुत्वात् 'आभ्युदयिकानि'। 'विद्वेषणं' येन अस्य शत्रुः प्रकृतीनां द्वेष्यो भवति तत्।
@@ -7146,9 +7182,9 @@ Jolly वि. स्मृ., p. 13 reads: परपुरावाप्तौ�
 
 महाभारते[^609]
 
-पुरोहितप्रधानो हि राजा हितमवाप्नुयात्।
-
 [^609]: " वी. मि., p. 138 reads सत्कृतप्रज्ञः for स कृतप्रज्ञः"
+
+पुरोहितप्रधानो हि राजा हितमवाप्नुयात्।
 
 सदाऽऽचरति यो धर्मंनृपो ब्राह्मणदेशितम्॥
 
@@ -7194,15 +7230,15 @@ Jolly वि. स्मृ., p. 13 reads: परपुरावाप्तौ�
 
 राजधर्मेषु *विष्णुः*[^611]
 
-परदत्तां च भुवं नाऽपहरेत् ब्राह्मणेभ्यः। \[ सर्वदायान् प्रयच्छेत्।\]
-
 [^611]: "3, 83-84 ; words in brackets are omitted by कल्पतरु"
+
+परदत्तां च भुवं नाऽपहरेत् ब्राह्मणेभ्यः। \[ सर्वदायान् प्रयच्छेत्।\]
 
 राजधर्मेषु आपस्तम्बः[^612]
 
- भृत्यानामनुरोधेन क्षेत्रं वित्तं च ददद्राह्मणेभ्यो यथार्हमनन्तांल्लोकान् जयति।
-
 [^612]: "1 2, 26, 1 ; the printed text reads अभिजयति for जयति; वी. मि., p. 139 adds the comment : 'भृत्यानां' राजरक्षणापयुक्तानां अमात्यानुजीविप्रभृतीनाम् ।‘अनुरोधेन' तदृत्यपीडनेन। ‘यथाई’ वृत्तशीलविद्य'कुटुम्बादिकं विचार्य।"
+
+ भृत्यानामनुरोधेन क्षेत्रं वित्तं च ददद्राह्मणेभ्यो यथार्हमनन्तांल्लोकान् जयति।
 
 कात्यायनः
 
@@ -7216,9 +7252,9 @@ Jolly वि. स्मृ., p. 13 reads: परपुरावाप्तौ�
 
 राजेत्यनुवृत्तौ शङ्खुलिखितौ[^613]
 
-दद्याद्दामर्चयित्वा ब्राह्मणाय निमित्तपूर्वशेषेभ्यः, कृपणातुरानाथव्यङ्गविधवायालवृद्धानौषधावसथाशनाच्छादनैर्बि भृयात्।
-
 [^613]: "3 वी. मि., p. 138 adds to this citation the explanation: ‘शेषेभ्यः' क्षत्रियादिभ्यः। 'निमित्तपूर्व' सेवायुपाधिना।"
+
+दद्याद्दामर्चयित्वा ब्राह्मणाय निमित्तपूर्वशेषेभ्यः, कृपणातुरानाथव्यङ्गविधवायालवृद्धानौषधावसथाशनाच्छादनैर्बि भृयात्।
 
 वसिष्ठः1
 
@@ -7379,9 +7415,9 @@ XIX, 29 ff Fuehrer's ed. reads प्रवजेरन् for व्रजे�
 
 **मनुः**[^619]
 
-परामप्यापदं प्राप्तो ब्राह्मणं न प्रकोपयेत्।
-
 [^619]: "IX, 313 - 321 । वी. मि., pp. 161–2. Kulluka reads: ब्राह्मणान्न. प्रकोपयेत् । वी. मि., p. 151 comments thus : 'परामपि' कोशक्षयेण बलवद्राजविरोधेन चोत्कृष्टाम्, आपदं प्राप्तो राजा ब्राह्मणं न कोपयेत् । तदीयधनादानेन तदवगणनया वा तन्मन्युं नोत्पादयेत् ।"
+
+परामप्यापदं प्राप्तो ब्राह्मणं न प्रकोपयेत्।
 
 ते ह्येनं कुपिता हन्युः सद्यः सबलवाहनम्॥
 
@@ -7509,9 +7545,9 @@ XIX, 29 ff Fuehrer's ed. reads प्रवजेरन् for व्रजे�
 
 तत्र ब्रह्मपुराणे[^626]
 
-वैशाखादिषु मासेषु षट्सु देवगृहेषु च।
-
 [^626]: "वी. मि., p. 416"
+
+वैशाखादिषु मासेषु षट्सु देवगृहेषु च।
 
 यात्रोत्सवः सदा कार्यः प्रतिसंवत्सरेष्वपि॥
 
@@ -7671,9 +7707,9 @@ XIX, 29 ff Fuehrer's ed. reads प्रवजेरन् for व्रजे�
 
 तत्र स्कन्दपुराणे[^630]
 
-प्रातःप्रभृति राजा च आज्ञापयति कौमुदीम्।
-
 [^630]: "वी. मि., p. 419"
+
+प्रातःप्रभृति राजा च आज्ञापयति कौमुदीम्।
 
 देवरात्रिं च देवस्य रुद्रस्याऽसुरनाशिनीम्॥
 
@@ -7751,9 +7787,9 @@ XIX, 29 ff Fuehrer's ed. reads प्रवजेरन् for व्रजे�
 
 तत्र देवीपुराणे[^632]
 
-शुभे ऋक्षे च करणे मुहूर्ते शुभमङ्गले।
-
 [^632]: "बी. मि., p. 421"
+
+शुभे ऋक्षे च करणे मुहूर्ते शुभमङ्गले।
 
 दैवज्ञः सूत्रधारश्च वनं गच्छेत्सहायवान्॥
 
@@ -8011,9 +8047,9 @@ XIX, 29 ff Fuehrer's ed. reads प्रवजेरन् for व्रजे�
 
 तत्र देवीपुराणे[^653]
 
-**ब्रह्मोवाच**
-
 [^653]: "वी. मि., p. 439, ff"
+
+**ब्रह्मोवाच**
 
 हते घोरे महावीरे सुरासुरभयङ्करे।
 
@@ -8163,9 +8199,9 @@ XIX, 29 ff Fuehrer's ed. reads प्रवजेरन् for व्रजे�
 
 अथ चिह्नविधिः[^658]
 
-तत्र *देवीपुराणे*
-
 [^658]: "वी. मि., p. 443ff : चिह्नेषु देवीपूजाविधिः"
+
+तत्र *देवीपुराणे*
 
 ब्रह्मोवाच
 
@@ -8622,9 +8658,9 @@ XIX, 29 ff Fuehrer's ed. reads प्रवजेरन् for व्रजे�
 
 तप्तहाटकवर्णाभः सूर्यसिन्दूरकान्तिभृत्।[^680]
 
-शङ्खकुन्देन्दुपद्माभो घृतक्षीरनिभः शुभः॥
-
 [^680]: "ची. मि., p. 453ff Udaipur Ms. reads वर्णभृत्"
+
+शङ्खकुन्देन्दुपद्माभो घृतक्षीरनिभः शुभः॥
 
 जयाभोऽशोकपुष्पाभोलाक्षाजलजसन्निभः।
 
@@ -8646,9 +8682,9 @@ XIX, 29 ff Fuehrer's ed. reads प्रवजेरन् for व्रजे�
 
 सधूमोऽमृतगन्धी च शुकषट्चरणोपमः।[^682]
 
-[][^682]छिन्नज्वालोऽथवा रोदी नेष्टः सर्वेषु पावकः॥
-
 [^682]: "So, I. O. ; A. S. B. and वी. मि. p. 453 read शुकास्यचरणोपमः"
+
+[][^682]छिन्नज्वालोऽथवा रोदी नेष्टः सर्वेषु पावकः॥
 
 सुसंहतशिखः शस्त उर्ध्वं प्रज्वलितोऽपि वा।
 
@@ -10233,6 +10269,8 @@ INDEX OF HALF-VERSES
 | हंसच्छत्रे \[भगो\] कुम्भ, भवि. पु., २०८    | ज्ञात्वा वृत्तिर्विधातव्या, म. पु., ३०   |
 | हंसे विद्यार्थकामं तु दे. पु., १९७         |                                         |
 
+                              
+
 **APPENDIX E**
 
            LIST OF WORKS ON RĀJADHARMA AND RĀJANĪTI
@@ -10540,4 +10578,3 @@ Rajadharna-Kāṇḍam.
 [TABLE]
 
 \]
-

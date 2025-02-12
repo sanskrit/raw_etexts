@@ -5291,7 +5291,7 @@ The Gita says:
 
 Sankara says in ***Prasnotharamalika***: **वाक्यं** **भूतहितं** **सत्यम्**. The Tirukurral, which is the most famous of Tamil poems, says:
 
-![](../books_images/U-IMG-1729662114Screenshot2024-10-23111138.png)
+<MISSING_FIG href="../books_images/U-IMG-1729662114Screenshot2024-10-23111138.png"/>
 
 (Truth is that which harms none). If Sita had resolved to protect Hanuman up to the point of killing Ravana by her power of purity, she could adopt the highest standard of absolute truth. But she had resolved not to do so
 
@@ -5546,7 +5546,7 @@ with Anegun li on the left bank of the Tungabhadra tiver. We are shown near Hamp
 
   Mr. N. S. Adhikari says in his *Lankha of Ravana* that Lanka was probably the present Sumatra. Mr. V. H. Vader thinks that it was the present Malaya Dwipa (Maldives). Very strangely Mr. M. V. Kibe propounds a theory that Lanka was a peak visible from Amarakantak, the source of the Narmada (Narbadda), and that the marsh surrounding it was described by the poet as the ocean. This is untenable as Valmuki describes the Vanara army as going southwards from Kishkinda to Mahen ira
 
-and thence to Lanka. On the whole the identity between Lanka and Ceylon is undeniable. In the Tamil classic *Silappadikaram* King Gajabahu of sea-girt Ceylon![](../books_images/U-IMG-1729755525Screenshot2024-10-24130829.png)is said to have been present when King Cheran Senguttuvan built a shrine for Kannaki. This shows that Lanka was an island near the Chera territory. The Sinhalese were later Aryan immigrants into Ceylon. There were frequent intermarriages between Sinhalese Kings and the South Indian Kings. In the Devaraja Vihara built at Dambulla by King Walagambahu about 104 B.C. we find the statues of Vishnu, Ganesa Kartikeya, Vibheeshana and Buddha!
+and thence to Lanka. On the whole the identity between Lanka and Ceylon is undeniable. In the Tamil classic *Silappadikaram* King Gajabahu of sea-girt Ceylon<MISSING_FIG href="../books_images/U-IMG-1729755525Screenshot2024-10-24130829.png"/>is said to have been present when King Cheran Senguttuvan built a shrine for Kannaki. This shows that Lanka was an island near the Chera territory. The Sinhalese were later Aryan immigrants into Ceylon. There were frequent intermarriages between Sinhalese Kings and the South Indian Kings. In the Devaraja Vihara built at Dambulla by King Walagambahu about 104 B.C. we find the statues of Vishnu, Ganesa Kartikeya, Vibheeshana and Buddha!
 
   A doubt was sought to be cast upon the identity of Ceylon and Lanka by the fact that Bhaskararoya andVarahamihira say that the Ujjayini meridian (about 75° East Longitude) passed through Lanka. That line goes 300 miles west of Ceylon Bhaskararoya says also that Lanka was situated north of the equator. But it may be that long after the western portion of the old Lanka near India was destroyed by oceanic erosion as stated above there was another city of Lanka in the time of Bhaskararoya. It may be that what they recorded was only an approximation and not a verified fact. Anyhow their statement can in no way negate the identity of Ceylon and Lanka as proved by ancient literature and tradition.
 
@@ -5769,7 +5769,7 @@ southern ocean and why Sampāthi is said to have met them there. (Kishkindha, XL
 
 Mr. C. N. Metha's view in *The Flight of* *Hanuman* that Hanuman must have travelled in a mono-aeroplane and that he must have burnt Lanka with incendiary bombs which he must have carried in his aeroplane has no real merit. It is an odd mixture of the old and the new and has no basis at all. According to him Mahendragiri is somewhere (Heaven knows where) between Puri and Vizagapatam, Mainaka is Malacca or Andaman-Nicobar islands, and Surasa Nāga Mata is Sumatra and Java. Mr. Metha thinks further that Hanuman flew also over Bali and other islands, that Simhika is New Guinea, and that Lumbagiri is in Australia, somewhere near the Australian Alps His flight of fancy is even more astonishing than that of Hanuman
 
-![](../books_images/U-IMG-1728263230Screenshot2024-08-04234543.png)
+<MISSING_FIG href="../books_images/U-IMG-1728263230Screenshot2024-08-04234543.png"/>
 
 **BOOK VI**
 
@@ -6576,13 +6576,13 @@ would worship the deity and in fact the traditions say that was what happened an
 
 **॥ श्रीरामार्पणमस्तु ॥**
 
-![](../books_images/U-IMG-1727797956Screenshot2024-08-14125713.png)
+<MISSING_FIG href="../books_images/U-IMG-1727797956Screenshot2024-08-14125713.png"/>
 
-**![](../books_images/U-IMG-1726760014Screenshot2024-09-19210212.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726760014Screenshot2024-09-19210212.png"/>**
 
 **APPENDICES**
 
-**![](../books_images/U-IMG-1726760014Screenshot2024-09-19210212.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1726760014Screenshot2024-09-19210212.png"/>**
 
 **APPENDIX I.**  
 **An Ethical and Political and Spiritual Anthology from Valmiki**
@@ -8167,7 +8167,7 @@ See Yuddha, XXXV, 7 to 9 quoted above.
 
 **(Uttara, CVIII, 26, 36).**
 
-![](../books_images/U-IMG-1728225916Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1728225916Screenshot2024-08-08063503.png"/>
 
 **APPENDIX III.**
 
@@ -8404,7 +8404,7 @@ Dasaratha prayed only for sonship. The sages prayed only for protection and Dars
   Such is this Ancient cripture. May you be blessed for ever! Pray with faith for the establishment and enhancement of the Kingdom of God
 I
 
-![](../books_images/U-IMG-1728390906Screenshot2024-08-08063503.png)
+<MISSING_FIG href="../books_images/U-IMG-1728390906Screenshot2024-08-08063503.png"/>
 
 **APPENDIX IV.**
 
@@ -8555,7 +8555,7 @@ I
 24. सुरा हि कथयन्ति त्वामागतं शूद्रघातनम्।  
    ब्राह्मणस्य तु धर्मेण त्वया जीवापितः सुतः॥**
 
-**![](../books_images/U-IMG-1728394619Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728394619Screenshot2024-08-08063503.png"/>**
 
 **APPENDIX V.**
 
@@ -8702,7 +8702,7 @@ I
 **अहल्यया कृतं स्तोत्रं यः पठेद्भक्तिसंयुतः।  
 स मुच्यतेऽखिलैः पापैः परं ब्रह्माधिगच्छति॥**
 
-**![](../books_images/U-IMG-1728451981Screenshot2024-07-18063849.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728451981Screenshot2024-07-18063849.png"/>**
 
 **APPENDIX IX.**
 
@@ -8900,7 +8900,7 @@ I
 | 92. नीचदनुजमदनाशनराम      | 108. रामरामजयसीताराम.        |
 | 93. पुष्पकयानारोहणराम      |                             |
 
-**![](../books_images/U-IMG-1728446121Screenshot2024-08-04235410.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728446121Screenshot2024-08-04235410.png"/>**
 
 **APPENDIX XII.**
 
@@ -8959,7 +8959,7 @@ of Valmiki's work. His *Megha Sandesa* was inspired by the episode of the ring i
 
 cultured epoch and hence he has given to us a wider variety of themes and aspects than the elder poet has done, though none of the creations of Kalidasa can come anywhere near the supreme characters delineated in the poem of Valmiki.” (Volume II, pages 320, 321.)
 
-**![](../books_images/U-IMG-1728441423Screenshot2024-08-08063503.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728441423Screenshot2024-08-08063503.png"/>**
 
 **APPENDIX XIV.**
 

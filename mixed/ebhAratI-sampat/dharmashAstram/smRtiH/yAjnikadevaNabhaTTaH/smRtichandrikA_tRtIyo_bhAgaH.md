@@ -33,7 +33,7 @@ Bibliotheca Sanskrita No. 45
 
 तत्र प्रथमपरिच्छेदः
 
-![](../books_images/U-IMG-169850770932-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-169850770932-removebg-preview.png"/>  
 
 **SMRITICHANDRIKA**  
 
@@ -162,7 +162,7 @@ The following manuscripts have been used for editing this Volume :—
 
 **व्यवहारकाण्डः.**  
 
-![](../books_images/U-IMG-169841493824-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-169841493824-removebg-preview.png"/>
 
 इदानीं व्यवहारकाण्डमारभ्यते —तत्रादौ व्यवहारस्वरूपं निरूप्यते। तत्र वृहस्पतिः—
 
@@ -3297,6 +3297,7 @@ The following manuscripts have been used for editing this Volume :—
 
 पूर्वोत्तरक्रियापदं प्रमाणं तत्परीक्षणम्।
 
+                                   
      
 
 निगदं स्मृतिवाक्यं च यथासभ्यं विनिश्चितम्॥  
@@ -6832,7 +6833,7 @@ The following manuscripts have been used for editing this Volume :—
 इति स्मृतिचन्द्रिकायां धर्मजविधिः
 
 समाप्तं च्च दिव्यप्रकरणम्॥ क्रियापादश्चसमाप्तः ॥  
-![](../books_images/U-IMG-169846518524-removebg-preview.png)
+<MISSING_FIG href="../books_images/U-IMG-169846518524-removebg-preview.png"/>
 
 **अथ निर्णयादिकृत्यम्**
 
@@ -7649,7 +7650,7 @@ The following manuscripts have been used for editing this Volume :—
 
 इति सकलविद्याविशारद श्री केशवादित्यभट्टोपाध्यायसूनु याज्ञिक देवणभट्टोपाध्याय सोमयाजिविराचतायां स्मृतिचन्द्रिकायां व्यवहारकाण्डे प्रथमः परिच्छेदः
 
-![](../books_images/U-IMG-169846075724-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-169846075724-removebg-preview.png"/>  
 
 अत्रेयं प्रकरणानुपूर्वी
 
@@ -7657,7 +7658,6 @@ The following manuscripts have been used for editing this Volume :—
 
 ॥ व्यवहारकाण्डे प्रथमपरिच्छेदे प्रकरणानुपूर्वी॥  
 
-![](../books_images/U-IMG-169842051924-removebg-preview.png)  
+<MISSING_FIG href="../books_images/U-IMG-169842051924-removebg-preview.png"/>  
 
 \]
-

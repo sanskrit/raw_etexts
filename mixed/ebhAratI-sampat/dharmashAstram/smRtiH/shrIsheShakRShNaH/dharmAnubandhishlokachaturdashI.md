@@ -250,7 +250,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMjIzNTY1NzU
 
 **धर्मानुबन्धिश्लोकचतुर्दशी**
 
-![](../books_images/1685425072.jpg)
+<MISSING_FIG href="../books_images/1685425072.jpg"/>
 
 श्रीकृष्णं प्रणिपत्य तत्सुतमथो वीरेश्वरं तत्सुतं
 
@@ -1387,7 +1387,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMzMjIzNTY1NzU
 
 **इति श्रीशेषकृष्णपण्डितवृद्धप्रपौत्ररामपण्डितविरचिता धर्माऽनुबन्धिश्लोकचतुर्दशीव्याख्या समाप्ता ॥**
 
-**![](../books_images/1685597536.png)**
+**<MISSING_FIG href="../books_images/1685597536.png"/>**
 
 \]
-

@@ -17,6 +17,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjYzODU5MjEwOTY
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 TRIVANDRUM SANSKRIT SERIES.  
 NO. XXVIII.  
 THE  
@@ -305,5 +317,14 @@ he
 'उद्वयं तमस' इत्यादित्यमुपतिष्ठेत ॥ ५ ॥
 
 ----------
+
+
+
+
+
+
+
+
+
 
 \]

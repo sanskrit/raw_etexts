@@ -41,13 +41,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMzMzg2NzUxMTY
 **PRINTED AT THE  
 HOMBAY EDUCATION SOCIETY'S PRESS, BYCULLA.**
 
-![](../books_images/U-IMG-1702553237Screenshot2023-06-15123943.png)  
+<MISSING_FIG href="../books_images/U-IMG-1702553237Screenshot2023-06-15123943.png"/>  
 1806.  
 Price 14 Annas.
 
 ^() **॥ मत्स्योपाख्यानम्‌ ॥**  
 
-![](../books_images/U-IMG-1702553295Screenshot2023-07-18110544.png)
+<MISSING_FIG href="../books_images/U-IMG-1702553295Screenshot2023-07-18110544.png"/>
 
 **॥ मार्कण्डेय उवाच ॥**
 
@@ -229,7 +229,7 @@ Price 14 Annas.
 
 **॥साविच्युपाख्यानम्‌ ॥**  
 
-**![](../books_images/U-IMG-1702619732Screenshot2023-07-18110544.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1702619732Screenshot2023-07-18110544.png"/>**
 
 **॥ मार्कण्डेय उवाच ॥**
 
@@ -363,7 +363,7 @@ Price 14 Annas.
 
 इति महाभारते सावित्र्युपाख्याने प्रथमः सर्गः॥१॥
 
-![](../books_images/U-IMG-1702621269Screenshot2023-07-21172948.png)
+<MISSING_FIG href="../books_images/U-IMG-1702621269Screenshot2023-07-21172948.png"/>
 
 **॥ मार्कण्डेय उवाच ॥**
 
@@ -500,7 +500,7 @@ Price 14 Annas.
 
 ॥इति महाभारते सावित्र्युपाख्याने द्वितीयः सर्गः॥२॥
 
-![](../books_images/U-IMG-1702622258Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702622258Screenshot2023-08-08170946.png"/>
 
 **॥ मार्कण्डेय उवाच ॥**
 
@@ -587,7 +587,7 @@ Price 14 Annas.
 
 ॥ इति महाभारते सावित्र्युपाख्याने तृतोयः सर्गः ॥३॥
 
-![](../books_images/U-IMG-1702623339Screenshot2023-07-21172948.png)
+<MISSING_FIG href="../books_images/U-IMG-1702623339Screenshot2023-07-21172948.png"/>
 
 **॥ मार्कण्डेय उवाच ॥**
 
@@ -714,7 +714,7 @@ Price 14 Annas.
 
 **॥ इति महाभारते सावित्र्युपाख्याने चतुर्थः सर्गः ॥४॥**
 
-![](../books_images/U-IMG-1702624435Screenshot2023-07-21172948.png)
+<MISSING_FIG href="../books_images/U-IMG-1702624435Screenshot2023-07-21172948.png"/>
 
 **॥ मार्कण्डेय उवाच ॥**
 
@@ -1116,7 +1116,7 @@ Price 14 Annas.
 
 ॥ इति महाभारते सावित्र्युपाख्याने पञ्चमः सर्गः॥ ५॥
 
-![](../books_images/U-IMG-1702628312Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702628312Screenshot2023-08-08170946.png"/>
 
 **॥ मार्कण्डेय उवाच ॥**
 
@@ -1286,7 +1286,7 @@ Price 14 Annas.
 
 **॥ इति महाभरते सावित्र्युपाख्याने षठः सर्गः ॥ ६॥**
 
-![](../books_images/U-IMG-1702636371Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702636371Screenshot2023-08-08170946.png"/>
 
 **॥ मार्कण्डेय उवाच ॥**
 
@@ -1345,7 +1345,7 @@ Price 14 Annas.
 
 **॥ इति महाभारते सावित्र्युपाख्यानं समाप्तम्‌ ॥७॥**
 
-![](../books_images/U-IMG-1702636792Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702636792Screenshot2023-08-08170946.png"/>
 
 **॥ द्रौपदीप्रमाथः॥**
 
@@ -1404,7 +1404,7 @@ Price 14 Annas.
 
 **॥ इति महाभारते द्रौपदीप्रमाथेप्रथमः सर्गः ॥ १॥**
 
-![](../books_images/U-IMG-1702637006Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702637006Screenshot2023-08-08170946.png"/>
 
 **॥ कोटिक उवाच ॥**
 
@@ -1452,7 +1452,7 @@ Price 14 Annas.
 
 इति महाभारते द्रौपदीप्रमाथे द्वितीयः सर्गः॥२॥
 
-![](../books_images/U-IMG-1702637434Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702637434Screenshot2023-08-08170946.png"/>
 
 **॥ वैशंपायन उवाच ॥**
 
@@ -1571,7 +1571,7 @@ Price 14 Annas.
 
 ॥ इति महाभारते द्रौपदीप्रमाथेचतुर्थः सर्गः ॥४॥
 
-![](../books_images/U-IMG-1702637977Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702637977Screenshot2023-08-08170946.png"/>
 
 **॥ वैशंपायन उवाच ॥**
 
@@ -1670,7 +1670,7 @@ Price 14 Annas.
 
 **॥ इति महाभारते द्रौपदीप्रमाथे पञ्चमः सर्गः ॥ ५ ॥**
 
-![](../books_images/U-IMG-1702638464Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702638464Screenshot2023-08-08170946.png"/>
 
 **॥ वैशंपायन उवाच ॥**
 
@@ -1765,7 +1765,7 @@ Price 14 Annas.
 
 ॥ इति महाभारते द्रौपदीप्रमाये षष्ठः सर्गः ॥ ६॥
 
-![](../books_images/U-IMG-1702639035Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702639035Screenshot2023-08-08170946.png"/>
 
 **॥ वैशंपायन उवाच ॥**
 
@@ -2032,7 +2032,7 @@ Price 14 Annas.
 
 **॥ इति महाभारते द्रौपदीप्रमाधेष्टमः सर्गः ॥ ८॥**
 
-![](../books_images/U-IMG-1702641176Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702641176Screenshot2023-08-08170946.png"/>
 
 **॥ वैशंपायन उवाच ॥**
 
@@ -2111,7 +2111,7 @@ Price 14 Annas.
 एवमुक्तस्तु सब्रोडंतूष्णीं किंचिदवाङ्मुखः।  
 जगाम राजन्दुःखार्त्तोगङ्गाद्वाराय भारत ॥२४॥
 
-![](../books_images/U-IMG-1702734128Screenshot2023-08-08170946.png)
+<MISSING_FIG href="../books_images/U-IMG-1702734128Screenshot2023-08-08170946.png"/>
 
 **॥ शकुन्तलोपाख्यानम्‌ ॥**
 

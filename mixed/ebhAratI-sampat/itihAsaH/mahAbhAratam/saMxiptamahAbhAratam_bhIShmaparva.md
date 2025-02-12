@@ -19,7 +19,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODExOTUyNTkxMTA
 **संक्षिप्त महाभारत**
 
 **६ भीष्मपर्व।**  
-![](../books_images/U-IMG-1700820562Screenshot2023-11-24153824.png)
+<MISSING_FIG href="../books_images/U-IMG-1700820562Screenshot2023-11-24153824.png"/>
 
 **१**
 

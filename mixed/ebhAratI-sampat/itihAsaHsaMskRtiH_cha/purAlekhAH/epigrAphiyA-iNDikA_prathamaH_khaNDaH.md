@@ -382,11 +382,11 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 
 **श्री**[^32]
 
+[^32]: "L1. Read श्री—The word brahma is indistinct."
+
 **सर्ग्गस्थितिलयहेतोर्व्विश्वस्य \[ब्रह्म\] विष्णुरुद्राणां।  
 मूर्त्तित्रयं प्रदधते संसारभिदे नमो विभवे॥ \[१\]  
 यदुवङ्शभुवां राज्ञां सैङ्खपुरं राज्यमा युगादृधताम्।**
-
-[^32]: "L1. Read श्री—The word brahma is indistinct."
 
 **L. 2.**
 
@@ -521,9 +521,9 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 
  8. His son was the illustrious Siṅghavarman, a lion–like king who earned by (*the strength of*) his arms a reputation for bravery and whose power was seen (*to be*) above (*that of*) those having dâna (i.e., of merely liberal not heroic princes and of rutting elephants)[^42]
 
- 9. His son was he who is named the illustrious Jala, a prince whose peculiar action was the filling of the regions (*with his fame*), who removed the torments of his people, and who rained water (*as it were*) for (*quenching*) the forest–fire of the Kaliyuga.[^43]
-
 [^42]: "Here we have the time–honoured pun on dâna 'liberality' and 'the ichor of the rutting elephant.'"
+
+ 9. His son was he who is named the illustrious Jala, a prince whose peculiar action was the filling of the regions (*with his fame*), who removed the torments of his people, and who rained water (*as it were*) for (*quenching*) the forest–fire of the Kaliyuga.[^43]
 
 [^43]: "i.e., who by his virtues counteracted the wickedness of the Kali–yuga, which on account of its destructiveness may be compared to a forest–fire. The other epithets, too, have a double sense, one applicable to water, jala, and the other to the king called Jala."
 
@@ -563,7 +563,7 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 
 [^48]: "Ayodhyeśaḥ, the lord of Ayodhyâ,' means, I suppose, only that Vasudeva was the owner of some village called Ayodhyâ."
 
- 23. By the mason Îśvaraṇâga, an inhabitant of Rauhîtaka[^49](*and*) son of Nâgadatta, has it been incised in the stone.
+ 23. By the mason Îśvaraṇâga, an inhabitant of Rauhîtaka[^49] (*and*) son of Nâgadatta, has it been incised in the stone.
 
 [^49]: "Ranhîtaka is the name of a town and district in Northern India, as may be gathered from Râjataraṅgiṇî, IV, 11-12. It probably corresponds, as Dr. Burgess suggests to me, to the modern town or district of Rohtak, or its homonymous capital, 43 milos north–east of Dehli."
 
@@ -579,7 +579,7 @@ periodduring which the alphabet of our inscription was in use, and it is only re
 
  The alphabet of the inscription is the so-called Baktro-Pâli or North-Indian, which according to Sir A. Cunningham was current in Indian Kâbul and in the Panjâb from the beginning of the historical, period to the third century A.D. The letters are mostly 1½to 2 inches high. Owing, to the want of perfectly readable impressions and trust worthy facsimiles of the inscriptions in this character, and specially of the edicts of Aśoka, a good many minor details in the reading of these characters have still to be settled. Though this is not the place for the discussion of all the doubtful or disputed points, I must refer to a few of them in explanation of my transcript.
 
- 1. I have in general adopted the new interpretations of some signs, e.g., of ![](../books_images/U-IMG-1709370147S.png)and ![](../books_images/U-IMG-1709370240S.png)which Dr. Bhagvânlâl Indrâji and Dr, Hoernle have given in their articles on the first rock-edict of the Shâhbâzgarhî version, and of the Suibihârâ inscription, *Indian Antiquary,* vol. X, pp. 105 & 324, and vol. XI, p. 128.
+ 1. I have in general adopted the new interpretations of some signs, e.g., of <MISSING_FIG href="../books_images/U-IMG-1709370147S.png"/>and <MISSING_FIG href="../books_images/U-IMG-1709370240S.png"/>which Dr. Bhagvânlâl Indrâji and Dr, Hoernle have given in their articles on the first rock-edict of the Shâhbâzgarhî version, and of the Suibihârâ inscription, *Indian Antiquary,* vol. X, pp. 105 & 324, and vol. XI, p. 128.
 
  2. I am however not able to agree as yet with Dr. Bhagvânlâl's remark in the last article, that the short line slanting upwards, which is sometimes found on the left side of the lower end of consonants and a, denotes the long â. In our edict it occurs distinctly in the first sign of *bahuvidha*, 1.2, where the reading *bâhuvidha* is impossible. It is further found in the *va* of *devanaṁ,* 1.1, where the reading devânaṁ is required. In a third word, *ataprashaḍavaḍhi*, 1.8, it perhaps occurs in the initial letter, and the reading âta is possible. But I do not dare to put these two lengths in the transcript, as none of the numerous other letters after which â must have been read, such as *ḍa* in *prashaṁḍani*, *ṭha* in *grahaṭhani*, show a similar contrivance. Moreover, neither Dr. Bhagwânlal's facsimile of the rock-edict nor the photograph of the Shâhbâzgarhî version which I owe to the kindness of Sir A. Cunningham, nor the facsimile and photograph of the Mânsahra version, which I have likewise received from him, confirm the assertion that the distinction between a and â is clearly marked in the Aśoka inscriptions. Hence I have noticed these slight peculiarities of the letters merely in the notes to the transcript.
 
@@ -673,7 +673,7 @@ L.7—ś(r)uṇeyu[^76]cha su(ś) rus(e)yu[^77]cha ti, \[.\] Evaṁ (hi) d(e)van
 
 [^83]: "The top line of sru is not distinct owing to a large fissure.The top line of sru is not distinct owing to a large fissure.The top line of sru is not distinct owing to a large fissure."
 
- L.9—vapaṭa [\[dhra\]mahamatra][^84](i) \* \* yachhama (hama) tra[^85]v(a)chabhumika añe cha nikay(a)[^86]\[.\]Ima(ṁ)[^87]cha etisa (pha)laṁ yaṁ ataprashaḍavaḍhi[^88]
+ L.9—vapaṭa [\[dhra\]mahamatra][^84] (i) \* \* yachhama (hama) tra[^85]v(a)chabhumika añe cha nikay(a)[^86]\[.\]Ima(ṁ)[^87]cha etisa (pha)laṁ yaṁ ataprashaḍavaḍhi[^88]
 
 [^84]: "Dhra is mutilated. Ha is perfectly distinct on the photograph; tra on the same and on the impression."
 
@@ -802,9 +802,9 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
  111. There was a mason, called Sâdeva, a store of all good qualities; from him sprang Vâmadeva, famous for having built the temple of the Sun, called Mûlasthâna. As his son was born he who is called Madana, a scion of (*the race of*) Viśvakarman, the builder of the wall of (*glorious*) Vaidyeśa, of the extensive temple, of the gates, of the wings and of the foundations."[^109]
 
- 112. The son of Âhlâdana, called Devâditya, who (*became*) the firm architect of Vaidyeśitṛi, is famous in the first rank of masons.
-
 [^109]: "The last pâda of this verse may also be taken very differently. "
+
+ 112. The son of Âhlâdana, called Devâditya, who (*became*) the firm architect of Vaidyeśitṛi, is famous in the first rank of masons.
 
  113. Glorious Vaidyanâtha, worshipful sole protector of the world, I address a prayer to thee—"May God, through thy favour, that Vîsaladeva, free from cares caused by focs, and united with his sons, be victorious during ten thousand Kalpas !"
 
@@ -812,9 +812,9 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
  115. And the excellent Brâhman Prahlâdana, the son of Śriyâmanda (?), born in the *gotra* of famous Nandipura, wrote this panegyric.[^110]
 
- 116. By skilfulPadmasiṁha, foremost among masons,[^111] the son of the mason Sajjana, was this panegyric incised.—Saṁvat 1311, on the 15th day of the bright half of Jyeshtha, a Wednesday. May it be well
-
 [^110]: "Dr. Bhagwânlal Indrâji read the second name as Śriyânanda."
+
+ 116. By skilfulPadmasiṁha, foremost among masons,[^111] the son of the mason Sajjana, was this panegyric incised.—Saṁvat 1311, on the 15th day of the bright half of Jyeshtha, a Wednesday. May it be well
 
 [^111]: "Regarding the use of sûtra for sûtradhâra, seo Vienn Oriental Journal, vol. II, No. 4."
 
@@ -834,12 +834,8 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 •    •      •      •     •      •   
 •   भु     •       •                 
                            तंदपत्यपरंपरायौ।  
-शक्यानिवाक्यनिपुणैरपि![](../books_images/U-IMG-1709622384S.png) रि![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)  
-![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) \[म\] ात्तसुहृदः सुकृतानि यस्याः॥ [\[ ४ \]][^113]**
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
+शक्यानिवाक्यनिपुणैरपि<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> रि<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> \[म\] ात्तसुहृदः सुकृतानि यस्याः॥ [\[ ४ \]][^113]**
 
 [^113]: "Metre, Vasantatilakâ."
 
@@ -856,17 +852,11 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 गुर्ज्जरेश्वर \[राज्य\] श्रीर्यस्य जज्ञेस्वयंवरा॥ ६[^114]  
 यस्मिन् शरीरवति वीररस\[प्रव\]ाहे  
 \[म\]हें\[द्र\] पृष्ठमधितिष्ठति युद्धवृद्धा।  
-अतः पुराण![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
-राणि क![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)\॥[७[^113]**
-
-[^113]: "Metre, Vasantatilakâ."
+अतः पुराण<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+राणि क<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>\॥[७[^113]**
 
 [^114]: "Metre, Anushṭubh."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
 **L5.**
 
@@ -878,39 +868,31 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 **श्रीगूर्ज्जरधराराज्यमेतन्निष्कंटकीकृतं॥ ९[^114]  
 रावणमिव रण\[सिं\]हं संह\[त्य\]र\[ण\] ां \[गणे\]**
 
-[^114]: "Metre, Anushṭubh."
-
 **L6.**
 
 **अथात्मने गूर्ज्जरभूमिभार-  
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png) धो\[- लवणप्र\] सादे  
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> धो\[- लवणप्र\] सादे  
 नकार संसारविरक्तबुद्धि  
 र्युद्धक्रतुं जीवितदक्षिणं सः॥ ११[^118]  
 तस्मिन्विस्मयनीयविक्रमगुणें क्षोणीमिमां रक्षति  
-क्षीणा ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)**
+क्षीणा <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>**
 
 [^118]: "Metre, Âryâ"
 
 **L7.**
 
 **                          
-![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) पि ते-  
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> पि ते-  
 नासीहर्ज्जरराज्यमेतदधिकं श्री\[राम\]राज्यादपि॥ १२[^119]  
 दोर्द्दर्प्पदुर्द्धरविरोधिशिरोधिरक्तः  
 श्रीवर्द्धमानसविधे वसुधां विलिम्य।  
 मुक्ताफलैर्दलितकुंजरकुंभमुक्तै-  
-र्योवर्द्धमानमभिमानमधि![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)  ॥ \[१३[^113]  
+र्योवर्द्धमानमभिमानमधि<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  ॥ \[१३[^113]  
 \[जघ्रे येनासिदंडेन गाढं नडुल\] नायक \[ :। \] \[नि\]**
 
-[^113]: "Metre, Vasantatilakâ."
-
 [^119]: "Metre, Śârdûlavikrîḍita."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
 **L8.**
 
@@ -918,92 +900,82 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 राजानः कति नाम नामरसमाः संति क्षमायां परं  
 ते सर्व्वेपि तुरुष्कराजक\[थ\]याप्यस्वस्थतां विभ्रति।  
 तस्मिन्योद्धुमुपागते ऽ तिकुपिते धत्ते स्म यः के\[व\]लं  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)कतां॥ १५      
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) 
-![](../books_images/U-IMG-1709622384S.png)     **
-
-[^114]: "Metre, Anushṭubh."
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>कतां॥ १५      
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> 
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>     **
 
 **L9.**
 
-**             हिरदो मदोक्तट![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ह![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) जः  
+**             हिरदो मदोक्तट<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> ह<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> जः  
 कृत्तानेकनरेंद्रमौलिविगलद्रक्ताभिषिक्तावनिः।  
 सोपि प्राप्य पुरस्तुरुष्कनृपतिः शुष्काधरः शंकया  
 साकं येन कृपाणभीषणभुजस्तंभेन \[स्तं\]भे जि \[तः ॥ १\] ६  
-![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
               
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png) पृथक्क![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)**
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> पृथक्क<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>**
 
 **L10.**
 
 **
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ।  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) दशामासीत्तदित्थंकथं                         
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> ।  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> दशामासीत्तदित्थंकथं                         
 
 मर्त्यश्चेन्मनुजैरजेयमज\[य\]न् म्लेच्छाधिनाथं कथं॥ १७  
 धाराधीश्वरदक्षिणेश्वरमरुक्षीणीश्वराणां गणे  
-रोगाणामि \[व\] संमिषु![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ल![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) विक्रमौषध \[नि\]-**
+रोगाणामि \[व\] संमिषु<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> ल<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> विक्रमौषध \[नि\]-**
 
 **L11.**
 
 **                      धिचक्रे चिकित्सामसौ  
  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ज्वर![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)  कधन्वतरिः।  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> ज्वर<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  कधन्वतरिः।  
 तुल्येपि शल्योद्धरणप्रभावे  
 युधिष्ठिराद्धृस्तसमस्तबंधोः।  
 समुन्नयन्नेयकुलं स्वकीय-  
 मुत्कृष्टकीर्त्तिः प्रतिभासते मे॥ १९[^122]  
-हे वि ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)**
+हे वि <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>**
 
 [^122]: "Metre, Upajâti."
 
 **L12.**
 
 **                       
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)               
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>               
                       
-पाणि![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) पार्थस्य या   
-चारित्रंच तदत्र याद\[व\] पतेश्चौलुक्यचंद्रे![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ॥ २०[^123]  
+पाणि<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> पार्थस्य या   
+चारित्रंच तदत्र याद\[व\] पतेश्चौलुक्यचंद्रे<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> ॥ २०[^123]  
 सविधे वर्द्धमान\[स्य\] स्पर्द्धमानं पयोधिना।  
 अधःकृतसुधासारं यः कुमारमकारयत्॥ २१[^114]  
 •    •    •    •    •    •            
                    •  •    •    •   
 •   •**
 
-[^114]: "Metre, Anushṭubh."
-
 [^123]: "Metre, Śârdûlavikriḍita."
 
 **L13.**
 
 **                   राजस्य॥ २२  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-परि![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) पवित्रमते ऽ र्जनस्य  
-![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png) र्थमर्थिजनजं![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)       
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) प्रयत्नः॥ २३[^113]                   **
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+परि<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> पवित्रमते ऽ र्जनस्य  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> र्थमर्थिजनजं<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>       
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> प्रयत्नः॥ २३[^113]                   **
 
 **नर्म्मदातटनिविष्टविष्टपा                      
                 
-नंदिनं![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)\[1\]  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) ॥ २४[^126]  
+नंदिनं<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>\[1\]  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> ॥ २४[^126]  
 सु \[त– \]**
 
 [^126]: "Metre, Rathoddhatâ."
@@ -1026,15 +998,16 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 **•    •   •    •    •  •    •    •  
 •    •   •    •    •   •॥\[ ४  
-धारापतिर्दक्षिण![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)              
-
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)युगप\[तस\] मेतौ।  
+धारापतिर्दक्षिण<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>              
+                                   
+    
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>युगप\[तस\] मेतौ।  
 धीरस्तयोरेव समानतंत्रं                        
                     
-निका![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
+निका<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
 धश्चकार॥[\[४५\]][^128]                
                           
 •    •   •    •    •    •    •    •  
@@ -1051,7 +1024,7 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 •    •   •    •    •    •    •    •  
 •   •   •  •   
 •   •   
-•॥५१![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)वीरेश्वरेण श्रीवोसली   •   •  •   
+•॥५१<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>वीरेश्वरेण श्रीवोसली   •   •  •   
 •   •    •   •    •    •    •    •  
 •   •     •  • **
 
@@ -1077,26 +1050,20 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 **•  •    • •    •    •   •    •
 •  •   •     •**
 
-**            ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)             
+**            <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>             
                          
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)\[।\]
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>\[।\]
                              
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)सिंधुतीरे
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>सिंधुतीरे
                                    
  वीरव्रतं चरति वीससदेव एव ॥ ५९[^113]    
 •    •    •   
 •    •    •   •    • •  •   •    
 •**
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
 ** **
 
@@ -1104,77 +1071,77 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 **•  •    • •    •    •   •    •
 •  •   •     •**  
-**![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>**
 
 **सा येन स्थतिरध्यगामि — -ि तः पूर्व्वं ययातिर्यया  
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)[\[॥८९\]][^130]**  
-**![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)**
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>[\[॥८९\]][^130]**  
+**<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>**
 
 [^130]: "Metre of verses 76-77, Śârdûlavikrîḍita. Rend सा येन स्थायिः---"
 
 **L 40.**
 
-**![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)  
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>**
 
-**![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
+**<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
  वीसलः शलभता \[मात्मा\] प्रतापानले॥ ७७**
 
 **आधिपत्यमधि\[ग\]त्य जगत्याः  
 पार्थिवेदुरथ वीसलदेवः।**
 
-**स![](../books_images/U-IMG-1709622701S.png)कार \[सु\] जनं ि-
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)[\[॥७८॥\]][^131]  
+**स<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>कार \[सु\] जनं ि-
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>[\[॥७८॥\]][^131]  
 • •  •  •   •  •  • • •  •  •   •
  •  •**
 
@@ -1184,46 +1151,44 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 **• •  •  •   •  •  • • •  •  •  
 •  •  •  
-मिंद्र इव विश्वमन![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)॥७९  
+मिंद्र इव विश्वमन<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>॥७९  
 श्रीमूलराजकुलजेषु मृगांकमौलि-  
 भक्तेषु भूपतिषु तेषु दिवं गतेषु।  
-यस्ये ![](../books_images/U-IMG-1709622701S.png) संप्रति समं![](../books_images/U-IMG-1709622701S.png)तिपन्नवित्त-  
-श्चित्ते![](../books_images/U-IMG-1709622701S.png)वेश्मभिर![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)[\[॥८०\]][^132]  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)  
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)**
+यस्ये <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> संप्रति समं<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>तिपन्नवित्त-  
+श्चित्ते<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>वेश्मभिर<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>[\[॥८०\]][^132]  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>**
 
 [^132]: "Metre of verses 80-81, Vasantatilakâ."
 
 **L 42.**
 
-**![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)  
-दु![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png) मंधकरिपुः सुरभीकरोति ॥ ८१  
-हे रत्नाकर रत्नसंपदमिमामुच्चैः क्वचि![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)              
+**<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>  
+दु<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> मंधकरिपुः सुरभीकरोति ॥ ८१  
+हे रत्नाकर रत्नसंपदमिमामुच्चैः क्वचि<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>              
               
 \[त्वं\] नीचैर्भव कांचनाचल \[यथा\] केनापि नालोक्यसे।  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-स्थ्यं जगतोऽ \[पि\] निर्द्दलयितुं![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+स्थ्यं जगतोऽ \[पि\] निर्द्दलयितुं<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
                       
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)[\[॥८२\]][^119]  
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)**
-
-[^119]: "Metre, Śârdûlavikrîḍita."
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>[\[॥८२\]][^119]  
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>**
 
 **L 43.**
 
-**![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) तिविजृंभितानि।  
-करोति व ![](../books_images/U-IMG-1709622384S.png) रैधिकाधिकैर्यः  
+**<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> तिविजृंभितानि।  
+करोति व <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> रैधिकाधिकैर्यः  
 पूर्व्वाणि पूव्वाण्यधराधराणि ॥ ८३[^122]  
 भ्रांत्या यत्करवालः पी\[त्वा\] मातंगकुंभकीलालं।  
-अनुतापीव व्रतयति रिपुनृपतीनां ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)[\[॥ ८४ \]][^135]  
+अनुतापीव व्रतयति रिपुनृपतीनां <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>[\[॥ ८४ \]][^135]  
 •   •   •   •   •   •  •   •   •   •  
 •   •                          
 •   •   •  •   •   •  •   •   •   •  
@@ -1231,15 +1196,13 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 •   •   •   •   •   •  •   •   •   •  
 •   •**
 
-[^122]: "Metre, Upajâti."
-
 [^135]: "Metre, Âryâ."
 
 **L 47.**
 
 **•   •   •   •   •त्वोत्क
-![](../books_images/U-IMG-1709622384S.png) स्तें त्र![](../books_images/U-IMG-1709622384S.png) दाख्यायव यः शांकरं कारयति              
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)॥९\[०\]•
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> स्तें त्र<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> दाख्यायव यः शांकरं कारयति              
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>॥९\[०\]•
   •   •   •   •   •  •   •   •   •   •
   •                          
 •   •   •  •   •   •  •   •   •   •  
@@ -1249,118 +1212,110 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 
 **L 48.**
 
-**![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)श्रीमूलस्थानमंदिरं ।  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)पुरुषां![](../books_images/U-IMG-1709622384S.png)
+**<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>श्रीमूलस्थानमंदिरं ।  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>पुरुषां<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
 न पुराणं पुनरुधृतं॥९ [\[२\]][^136]  
-हराद्रिशिखराकारं प्रासादं कारय![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)।  
-•   •   •   •![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-•   •   •   • ![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
+हराद्रिशिखराकारं प्रासादं कारय<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>।  
+•   •   •   •<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+•   •   •   • <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
 \[॥९३ \]   
 •   •    •    •    •    •    •   •  
  •     •      •                  
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)**
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>**
 
 [^136]: "Metre of verses 92–96, Anushtubh."
 
 **L 49.**
 
 **
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png)  \[ । \]  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>  \[ । \]  
 • • • • तस्य वसुधावांधुरुद्दधार कुलद्वयं॥ ९५  
 यः प्राकारं स्मराकारः कारयामासिवान्नवं।  
-• • • • ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-• • • • ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) **  
+• • • • <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+• • • • <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> **  
 
-**धातुकृ\[तरूप\]सिद्धिः![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) संधिः स्वरो वितन्य •
+**धातुकृ\[तरूप\]सिद्धिः<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> संधिः स्वरो वितन्य •
 • • \[ । \]  
 —— महाभाष्यगुणः•    •  • • •   •  
 • • \[॥ ९७ \]**
 
 **L 50.**
 
-**![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) 
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)धन्वतरेर्यदि।  
+**<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> 
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>धन्वतरेर्यदि।  
 तथाप्येष विशेषज्ञैरतुलः परिकीर्त्त्यते ॥ ९८[^114]  
-नूनं दास्यर्ति दानदुर्द्धरं ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)   
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) कनकाचलं तदधुना किं धाम
-![](../books_images/U-IMG-1709622384S.png) मो वयं ।  
-एवं पल्लवयंति यावद ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) 
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)  
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)**
-
-[^114]: "Metre, Anushṭubh."
+नूनं दास्यर्ति दानदुर्द्धरं <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>   
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> कनकाचलं तदधुना किं धाम
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> मो वयं ।  
+एवं पल्लवयंति यावद <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> 
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>**
 
 **L 51.**
 
 **                 
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
 धि॥ ९९[^119]**
-
-[^119]: "Metre, Śârdûlavikrîḍita."
 
 **येन \[कल्प\] लतादानं निदानं विप्रसंपदां।  
 दीयते धर्म्मलुब्धेन प्रत्यव्दमधिकाधिकं॥ १००[^114]  
 दानानि  • • • •   प्रदत्तानां।**
 
-[^114]: "Metre, Anushṭubh."
-
 **अलमस्मि नास्य यस्माद्गणयितुमेकं गुणग्रामं॥ १०१[^118]  
-अन्येषां ि ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)**
+अन्येषां ि <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>**
 
-[^118]: "Metre, Âryâ"
-
-**![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png) 
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> 
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>**
 
 **L 52.**
 
 **                
-![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png)ये
-![](../books_images/U-IMG-1709622384S.png)।**
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>ये
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>।**
 
 **अश्रांतक्रतुदक्षिणाप्रमुदितब्रह्मप्रयुक्तः पुन-  
 र्व्वेदानां ध्वनिरध्वनि श्रवणयोरस्यैव देशेऽवि — [\[॥ १०२\]][^119]  
@@ -1368,43 +1323,41 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 क्षितिरमणस्य निशमा लज्जमानः।  
 वलिरपि मलिनं विभर्त्तिवक्रं  
 किमपि न ज
-![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)  [\[॥ १०३\]][^142]**
-
-[^119]: "Metre, Śârdûlavikrîḍita."
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  [\[॥ १०३\]][^142]**
 
 [^142]: "Metre, Pushpitâgrâ."
 
-**![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) **
+**<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> **
 
 **L 53.**
 
-**![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) 
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) मे तावतीः समाः।  
+**<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> 
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> मे तावतीः समाः।  
 तद्दात्रा येन पात्राणां लुप्तं दारिद्राशासनं॥ १०४[^143]  
-वराकानुर्व्वराकांतान्कस्तुल्यां![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) 
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)ते।  
+वराकानुर्व्वराकांतान्कस्तुल्यां<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> 
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>ते।  
 सुधामवंतमंशुं वा हिमांशुं वा ब्रुवे समं॥ १०५  
 असुस्थः काकुस्थः कृतकुलहतिः कौरवपति-  
-र्व्यधादे ![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)  नो ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png) कल श्रीवपु ![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png) ।**
+र्व्यधादे <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>  नो <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> कल श्रीवपु <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> ।**
 
 [^143]: "Metre of verses 104–105, Anushṭub"
 
 **L 54.**
 
-**![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png) पेतः खेतः शुमिषु पुरुषः सोपि नहु व-  
+**<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> पेतः खेतः शुमिषु पुरुषः सोपि नहु व-  
 स्ततः श्लाघ्यं लोके तमहमवलोके नृपवरं॥ १०६[^144]**
 
 [^144]: " Metre Śikharinî"
@@ -1414,28 +1367,24 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 दीनाननंभुवनमूर्द्धमधश्चपश्य-  
 दाश्वासितं पुनरुदारकरेण येन॥ १०७[^119]  
 धर्म्मस्थानं विधिना विधा
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) **
-
-[^119]: "Metre, Śârdûlavikrîḍita."
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> **
 
 **L 55.**
 
-**              ** **![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png) तिक्तको यः ।**
+**              ** **<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> तिक्तको यः ।**
 
 **धर्म्मस्थानैः स्वकृतैःसुकृतै सोयं चिरं जयतु॥ १०८[^135] इतश्च  
-प्राग्वाटवंशे ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png) ** **गनामा  
+प्राग्वाटवंशे <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> ** **गनामा  
 श्रीचंडसिंहस्य सुतो वभूव।  
 यः क्षोणिपालेन निजप्रतीत्या  
 वैह्येशितुर्दुर्ग्गपदेऽधिचक्रे॥ १०९[^147]  
 किं वर्णनीयमधुना सचिवस्य तस्य  
 सत्कोर्त्ति\[पू\]**
-
-[^135]: "Metre, Âryâ."
 
 [^147]: "Metre,Âryâ"
 
@@ -1449,12 +1398,6 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 न्मूलस्थानाख्यभानोर्भवनविरचनाख्यातिभृ\[द्वा\]मदेवः।  
 तस्योत्पन्नस्तनूजो मदनसमभिधो वि\[श्वक\]**
 
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
-
 **L 57.**
 
 **                 र्म्म\] प्रसूनः  
@@ -1465,25 +1408,21 @@ of Mâlvâ and of the Dekhan (L. 29, verse 58?) which his grant of V.S. 1317 men
 त्वामुर्थये किमपि देव तव प्रसादात्।  
 नि\[त्यं प–\]**
 
-[^135]: "Metre, Âryâ."
-
 [^149]: "Metre, Śârdûlavikrîḍita"
 
 **L 58.**
 
 **              राधिरहितः सहितश्च पुत्रेः  
 कल्पायुतं जयतु वीसलदेव एषः॥ ११३[^151]  
-प्रशस्तिमेता\[म\]** **![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png) 
-![](../books_images/U-IMG-1709622384S.png) **  
+प्रशस्तिमेता\[म\]** **<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> 
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> **  
 **संभूतभूपालपुरोहितेंद्रः।  
 चकार सोमेश्वरदेवनामा  
 यामार्द्धनिष्पन्नमहाप्रबंधः। १९४[^122]  
 श्रियामदस्य तनयः श्रीनंदिपुरगो\[त्र\]जः।**
-
-[^122]: "Metre, Upajâti."
 
 [^151]: "Metre, Vasantatilakâ,"
 
@@ -1514,9 +1453,9 @@ BY PROF. F. KIELHOLN, Ph.D., C.H.E., GÖTTINGEN.**
 
 have found by Professor Jacobi's tables that the 9th day of the bright fortnight of the month Mârgaśîrsha, 866, corresponds to the 8th November, A.D. 1114, which was a Sunday, as required. On that day, at sunrise, the 9th *tithi* of the bright half of the month was current, and it ended 19 h. 54 m. after mean sunrise.[^154]
 
- By way of introduction, the inscription gives the following account of the prince Jâjalladêya and his ancestors:—
-
 [^154]: "With Sir A. Cunningham's epoch of A.D. 249-50, the corresponding date would be Saturday, November 27, A.D. 1115. On the other hand, with the epoch A.D. 248-49, and a year beginning with either the mouth Bhâdrapada or Âśvina, the week-days of the ten inscriptions mentioned in the Book of Indian Eras, page 61, come out as follows:—  Chêdi 793, Phâlguna ba-di 9, Sômê, Monday, January 18, A.D. 1042.  "
+
+ By way of introduction, the inscription gives the following account of the prince Jâjalladêya and his ancestors:—
 
  In the lunar race there was Kârtavîrya (v. 2), the ancestor of Haihaya, from whom were born the Haihayas (v. 3). In the race of these princes was born the Chêdi ruler Kôkalla, whose residence or country appears to be called Tritasaurya (v. 4). Kôkalla had eighteen, sons, of whom the first born was ruler of Tripurî, while the others became lords of *maṇḍalas* (v. 5). A descendant of one of these younger sons was Kaliṅgarâja, who left Tritasaurya and acquired Dakshiņakôśala (v. 6), where he settled at Tuṁmâņa (v. 7). His son was Kamalarâja (v. 8), and his son agam, Ratnarâja (v. 9) or Ratnêśa,who ornamented Tuṁmaṇa with temples, gardens, &c. (v. 10), and founded Ratnapura (v. 11-12). He married Nônallâ, a daughter of Vajjûka, the prince of the Kômê *maṇḍala* (v. 13), who bore to him a son, Prithvîdêva or Pṛithvîśa, who succeeded Ratnarâja (v.14-16), and built temples at Tuṁmâna and a tank at Ratnapura (v. 17). He married Râjallâ (v. 18), who bore to him Jâjalladêva (v. 19). Jâjalla was allied with the ruler of Chêdi (v. 20), and honoured by the princes of Kanyakubja and. Jêjâbhuktika (v. 21); he defcated and captured in battle one Sômêśvara (v. 22); and ho had either annual tribute paid or presents given to him by the chiefs of the *maṇḍalas* of... \[Dakshina\]–kôśala, Andhra, Khimidî, Vairâgara, Lañjikâ, Bhâṇara, Talahâri; Daṇḍakapura, Nandâvalî, and Kukkuṭa (v. 23).
 
@@ -1528,14 +1467,14 @@ Talahâri and Kômô occur in the inscription from Râjîm which has been edited
 
 **TEXT.²**
 
- 1. \[Ôṁ • • • • •   • • • \।\। Śaśi ?\]–śakala–kalâ \[k\]i\[ṁ**![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622701S.png)**n\]–âmṛit–âṁbhaḥ–plava–va(ba)halita–nîra–svarnňa\[dî-tîra\]–vṛittiḥ \। kim=u va(ba)ta sa(śa)phar=îti svaḥ–śri-\[tâ?\]**![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622701S.png)। ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png)    **
+ 1. \[Ôṁ • • • • •   • • • \।\। Śaśi ?\]–śakala–kalâ \[k\]i\[ṁ**<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>**n\]–âmṛit–âṁbhaḥ–plava–va(ba)halita–nîra–svarnňa\[dî-tîra\]–vṛittiḥ \। kim=u va(ba)ta sa(śa)phar=îti svaḥ–śri-\[tâ?\]**<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>। <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>    **
 
- 2. si(śi)rasi yasya syât sa Îśaḥ śivâya \।\। 1 \।\।[^155] Êtad=yat=paramaṁ vihaṁtri timiraṁ trailôkya–nêtra–dyuti jyôtis=tat=purushaṁ (shâḥ)[^156] sudh–âkara iti prâhus=tam=antar**![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png)**
+ 2. si(śi)rasi yasya syât sa Îśaḥ śivâya \।\। 1 \।\।[^155] Êtad=yat=paramaṁ vihaṁtri timiraṁ trailôkya–nêtra–dyuti jyôtis=tat=purushaṁ (shâḥ)[^156] sudh–âkara iti prâhus=tam=antar**<MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>**
 
 [^155]: "From an impression supplied to me by Dr. Burgess, Director of the Archæological Survey of India."
 
@@ -1547,15 +1486,15 @@ Talahâri and Kômô occur in the inscription from Râjîm which has been edited
 [^157]: "Metre, Śârdûlavikrîdita."
 
  4. tyasênapriyâ satî \।\।
-3[^158] \।\।[^158] Têshâṁ Haihaya–bhûbhujâṁ sa\[mabha\]vad = vaṁsê(śê) sa Chêd–îśvaraḥ śrî–Kô\[ka\]lla[^160][][^160] iti Smara–pratikṛitir=vvisva(śva)–pramodô yataḥ \। yên=âyaṁ Tritasau\[rya ?\]** ![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png) ![](../books_images/U-IMG-1709622701S.png)![](../books_images/U-IMG-1709622384S.png)
-![](../books_images/U-IMG-1709622384S.png)**
+3[^158] \।\।[^158] Têshâṁ Haihaya–bhûbhujâṁ sa\[mabha\]vad = vaṁsê(śê) sa Chêd–îśvaraḥ śrî–Kô\[ka\]lla[^160][][^160] iti Smara–pratikṛitir=vvisva(śva)–pramodô yataḥ \। yên=âyaṁ Tritasau\[rya ?\]** <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/>**
 
 [^158]: "Possibly this correction has been made already in the original."
 
 [^160]: "The akshara in brackets might possibly be kka."
 
- 5. mêna mâtuṁ yaśaḥ svîyaṁ prêshi[\[ta u\]][^162] chchakaiḥ kiyad=iti vra(bra)hmâṁḍam=antaḥ–kshiti \।\। 4 \।\।[^163] Ashṭâdaś=âsya ripu–kuṁbhi–vibhaṁga–siṁhâḥ putrâ va(ba)bhûvur=abhivarddhita ** ![](../books_images/U-IMG-1709622384S.png)![](../books_images/U-IMG-1709622701S.png)
-![](../books_images/U-IMG-1709622384S.png) ![](../books_images/U-IMG-1709622701S.png) **
+ 5. mêna mâtuṁ yaśaḥ svîyaṁ prêshi[\[ta u\]][^162] chchakaiḥ kiyad=iti vra(bra)hmâṁḍam=antaḥ–kshiti \।\। 4 \।\।[^163] Ashṭâdaś=âsya ripu–kuṁbhi–vibhaṁga–siṁhâḥ putrâ va(ba)bhûvur=abhivarddhita ** <MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/><MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/>
+<MISSING_FIG href="../books_images/U-IMG-1709622384S.png"/> <MISSING_FIG href="../books_images/U-IMG-1709622701S.png"/> **
 
 [^162]: "The aksharas in brackets may be ta u, or tumu."
 
@@ -1563,29 +1502,13 @@ Talahâri and Kômô occur in the inscription from Râjîm which has been edited
 
  6. ḥ \। têshâm=ath=âgraja–sutas=Tripur–îśa âsit śêshaṁs = cha maṁḍala–patîn=sa chakâra va(ba)ṁdhûn \।\। 5 \।\।[^113] Prâpat=têshu Kalimgarâjam = asamaṁ vaṁśaḥ kramâd=ânujaḥ putraṁ sa(śa)tru–kalatra–nêtra–salila–sphî–
 
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
-
  7. ta\[ṁ\] pratâpa–drumaḥ(m)[^158] \। yên=âyaṁ Tritasaurya–kôsa(śa)m =¸ akṛiśîkart–tuṁ vihây=ânvaya–kshôṇîṁ Dakshiņa–kôśalô janapadô vâ(bâ)hu–dvayên=ârjjitaḥ \।\।6[^163]\।\।[^163] Râjadhânî sa Tuṁmâṇaḥ pûrvvajaiḥ kṛita ity=a–
-
-[^158]: "Possibly this correction has been made already in the original."
-
-[^163]: "Metre, Śárdûlavikrîḍita."
 
  8. taḥ ।tatra-sthô ri-kshayaṁkurvvan = varddhayâm-âsa ṣa śriyam ॥7॥[^168].")Jâtas = tataḥ pratata-nirmmala-kîrtti-kântaḥ śîtâṁśu = vat = Kamalarâjait = îha siṁdhôḥ। nṛîṇâṁmanaḥ-kumudashaṁḍam= adhiśri-
 
 [^168]: "Metre, Śloka (Anushṭubh
 
  9. sô(śô) bhaṁyasmâd = abhûd=arijan=âṁdhatamiśra (sra)-nâśaḥ ॥8॥[^113]Mahîbharttṛi-vibhûsh-ârtham payôdhir = iva kaustubham । jita-śûra-pratâpaṁhi Ratnarâjam = asûta saḥ ॥9¹⁵[^170].")॥Śrî-Vaṁkêśa-surâlaya-prabhṛitayô\[Ra ?\]-
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
 [^170]: "Metre, Ślôka (Anushṭubh
 
@@ -1599,13 +1522,9 @@ Talahâri and Kômô occur in the inscription from Râjîm which has been edited
 
  13. s = trilôkam ॥12॥[^122]Kômô-maṁḍala-bhubharttür = V vajjûkasya \[sru(śru)\] tâ sutâ।NônallâRatnarâjêna pariṇîtà nṛipa-śriya ॥13॥Tasyâm = ajani pṛithvîśaṁ(śô)[^173]= dharmma-śaurya-guṇ-ânvitam (ḥ)।svar = nninyê
 
-[^122]: "Metre, Upajâti."
-
 [^173]: "I am almost certain that these two corrections have been made already in the original."
 
  14. \[dha\] rmmatôvaṁśyân sau(śau)ryâch =cha yudhi vidvishaḥ ॥14॥[^170]; and of the next verse.")Sau(śau) \[ry-âdyai?\] Ratnarâjê yudhi ripu-jayini svar-ggatê svargga-kṛityât =Pṛithvîdêvaḥ, kshitîśas = tad = anu samabhavat = tat-sutaḥ kshâtra-śûraḥ।
-
-[^170]: "Metre, Ślôka (Anushṭubh
 
  15. aiśya-śrîdatva-śaurya-pramukha-guna-bharair = llôka = pâlaḥ sa ê \[va\] ṁkshâtraṁ trastaṁ hi tasmai kuruta iti namôyêna pṛithvyâḥ sa dêvaḥ ॥15॥[^175] Pṛithvîdêvaḥ-samâ-śritâbhavati cha sva-
 
@@ -1615,59 +1534,41 @@ Talahâri and Kômô occur in the inscription from Râjîm which has been edited
 
  17. \[ni\]r-dvidhâ॥16[^119]॥Tuṁmâṇê dharmma-kîrtty-arthaṁPṛithvîdêvêśvar-âdayaḥ। Ratnapurê samudr-âbhas = tên = âkâri cha sâgaraḥ ॥17॥[^170]; and of the next two verses.")Upayêmê sa Râjallâṁ yâ kânty = êv = êṁdu-saprabhâ ।Lakshmîr - iv = âchyuta-
 
-[^119]: "Metre, Śârdûlavikrîḍita."
-
-[^170]: "Metre, Ślôka (Anushṭubh
-
   18. prîtiḥ saubhâgyên = êva Pârvvati ॥18॥Aiṁdrir = Aiṁdryâm = iv =Eṁdrêṇa svaḥ-śriyâm =abdhin = êṁdu-vat ।Pṛithvîdêvêna tasyâṁtu Jâjallô jani kîrttimân ॥19॥Chi-traṁyasya yaśô vyadhâd = anu-
 
   19. \[diśa ?\] ṁsî(śî) tâmśu-sô(so)chiḥ-prabhaṁraktaṁstraiṇa-śataṁśi (si) taṁjagad = idaṁkurvvach = cha kṛishnân = arîn ।śrî-Jâjalla udêti yaḥ prati-dinaṁśûraḥ pratâpa-rddhi-taś =Chêd-îśêna sa aina-saṁ [\[gra ?\]][^178]ha-kṛitâ maitrya-
 
 [^178]: "I am very doubtful about this akshara; it looks ruther like sgru, or perhaps ggra."
 
- 20. ![](../books_images/U-IMG-1698748194lughuguru.PNG)\[ta\]ḥ॥20॥[^119]Kanyakuv(b)ja- mahîpêna Jêjâbhuktika-bhûbhujâ। śûra iti pratâpîtvâd = arhitô mitravat = śriyâ॥21॥[^170].") Lakshmîh saptavidh = âpi yasya jagṛihê yuddhê cha Sômêsva (śva)rô
+ 20. <MISSING_FIG href="../books_images/U-IMG-1698748194lughuguru.PNG"/>\[ta\]ḥ॥20॥[^119]Kanyakuv(b)ja- mahîpêna Jêjâbhuktika-bhûbhujâ। śûra iti pratâpîtvâd = arhitô mitravat = śriyâ॥21॥[^170].") Lakshmîh saptavidh = âpi yasya jagṛihê yuddhê cha Sômêsva (śva)rô
 
-[^119]: "Metre, Śârdûlavikrîḍita."
+ 21. <MISSING_FIG href="../books_images/U-IMG-1698846613121.PNG"/>\[da\]gva(gdha)ṁ = amitaṁsainyaṁnihaty = âmunâ । va (ba) ddhaṁmaṁtri-kalatra-sârtham = anu tan = mâtur = ggirâmôehitaṁyêna v(b)rûta sa îdṛiśaḥ kshiti-patir = dṛishṭaḥkshitau vâśrutaḥ
 
-[^170]: "Metre, Ślôka (Anushṭubh
+ 22. \॥[22[^171]\] <MISSING_FIG href="../books_images/U-IMG-1698850388322.PNG"/> \[ṇa\] kô \[śa\] I-Âṁdhra-Khimiḍî-Vai \[râga\] raṁLaṁjikâBhâṇâras =Talahâri Daṁḍakapuram Naṁdâvali Kukkuṭaḥ।yasy = aishâṁhi mahîpa-maṁḍala-bhṛitômaitreṇa kêchin = mufê kêchi-
 
- 21. ![](../books_images/U-IMG-1698846613121.PNG)\[da\]gva(gdha)ṁ = amitaṁsainyaṁnihaty = âmunâ । va (ba) ddhaṁmaṁtri-kalatra-sârtham = anu tan = mâtur = ggirâmôehitaṁyêna v(b)rûta sa îdṛiśaḥ kshiti-patir = dṛishṭaḥkshitau vâśrutaḥ
+ 23. <MISSING_FIG href="../books_images/U-IMG-1698850173323.PNG"/>kâny = anvav(b)da-k \[li\] ptaṁdaduḥ ॥23॥Yatrâ pratâpini chchhat \[t\*\]ram = êkam = êvasi (śi) rô-dhṛitam ।chitraṁkurvvaj =janê śaityaṁkuryât = tâpaiṅhṛidi dvishâm ॥24॥[^170].")Udâratâ-sau(śau) ya-gabhîrimâ
 
- 22. \॥[22[^171]\] ![](../books_images/U-IMG-1698850388322.PNG) \[ṇa\] kô \[śa\] I-Âṁdhra-Khimiḍî-Vai \[râga\] raṁLaṁjikâBhâṇâras =Talahâri Daṁḍakapuram Naṁdâvali Kukkuṭaḥ।yasy = aishâṁhi mahîpa-maṁḍala-bhṛitômaitreṇa kêchin = mufê kêchi-
-
-[^171]: "Metre, Śârdûlavikrîḍita; and of the next verse."
-
- 23. ![](../books_images/U-IMG-1698850173323.PNG)kâny = anvav(b)da-k \[li\] ptaṁdaduḥ ॥23॥Yatrâ pratâpini chchhat \[t\*\]ram = êkam = êvasi (śi) rô-dhṛitam ।chitraṁkurvvaj =janê śaityaṁkuryât = tâpaiṅhṛidi dvishâm ॥24॥[^170].")Udâratâ-sau(śau) ya-gabhîrimâ
-
-[^170]: "Metre, Ślôka (Anushṭubh
-
- 24. ![](../books_images/U-IMG-1698849848324.PNG)’sya varttatê । bhuv = êty=abhâshi pratataṁSamuch = chritair = yaśaḥ su-śubhraiḥ surasadma-sadbhujaiḥ ॥25॥[^183]KiṁKâmô = yam = asâv= asê(śê) =\[sham=a\] tanus = Tryaksh-âkshi-dṛishțô na yaḥ kiṁVaikuṁta (ṭha)-
+ 24. <MISSING_FIG href="../books_images/U-IMG-1698849848324.PNG"/>’sya varttatê । bhuv = êty=abhâshi pratataṁSamuch = chritair = yaśaḥ su-śubhraiḥ surasadma-sadbhujaiḥ ॥25॥[^183]KiṁKâmô = yam = asâv= asê(śê) =\[sham=a\] tanus = Tryaksh-âkshi-dṛishțô na yaḥ kiṁVaikuṁta (ṭha)-
 
 [^183]: "Metre, Vaṁśastha."
 
- 25.![](../books_images/U-IMG-1698846197f.PNG) śriyâ।śûraḥsau (śau) rypta iṁdur =iṁdita-ruchâ Śrîdaḥ kim = arthi-priya êvaṁma \[rshayat ?\]âjanêna viditô Jâjalladêvaś = chirât॥26॥[^171] Śri-Jâjallapuraṁ
+ 25.<MISSING_FIG href="../books_images/U-IMG-1698846197f.PNG"/> śriyâ।śûraḥsau (śau) rypta iṁdur =iṁdita-ruchâ Śrîdaḥ kim = arthi-priya êvaṁma \[rshayat ?\]âjanêna viditô Jâjalladêvaś = chirât॥26॥[^171] Śri-Jâjallapuraṁ
 
-[^171]: "Metre, Śârdûlavikrîḍita; and of the next verse."
-
- 26. ![](../books_images/U-IMG-1698849466326.PNG)\[śivaś=cha?\] tâpasa-maṭhaḥ s-odyânam =âṁvraṁ[^185]vanam ।tulyaṁsvaḥ-śa (sa) rasaḥ sarô = pi ruchiraṁyat = kâritaṁśrîmatâ Jâjallêna tad =astu kîrtṭi-ruchira \[ṁ\]
+ 26. <MISSING_FIG href="../books_images/U-IMG-1698849466326.PNG"/>\[śivaś=cha?\] tâpasa-maṭhaḥ s-odyânam =âṁvraṁ[^185]vanam ।tulyaṁsvaḥ-śa (sa) rasaḥ sarô = pi ruchiraṁyat = kâritaṁśrîmatâ Jâjallêna tad =astu kîrtṭi-ruchira \[ṁ\]
 
 [^185]: "Read âmraṁ."
 
-27.![](../books_images/U-IMG-1698849147327.PNG)\[॥27॥\]**..........**\[pa-Dignâ?\]g-âdi-pramâṇa-vit । \[sv-â\]-nya-siddhânta-vich = ch = âsya śrîmân Rudraśivôguruḥ ॥28[^186]; and of the next three verses.")॥[^186]; and of the next three verses.")Sáṁdhivigrahikô = py=asya Vigra\[ha\]râja ity = abhût।
+27.<MISSING_FIG href="../books_images/U-IMG-1698849147327.PNG"/>\[॥27॥\]**..........**\[pa-Dignâ?\]g-âdi-pramâṇa-vit । \[sv-â\]-nya-siddhânta-vich = ch = âsya śrîmân Rudraśivôguruḥ ॥28[^186]; and of the next three verses.")॥[^186]; and of the next three verses.")Sáṁdhivigrahikô = py=asya Vigra\[ha\]râja ity = abhût।
 
 [^186]: "Metre, Ślôka (Anushṭabh
 
  28. **...................................** \[॥29\] ॥Dadau dêvâya Jâjallaḥ, Sirulî-grâmam = u \[tta\] mam।maṭhâya pâṭalâ-sarthaṁsâ(śâ) sana\[ṁ\] sà(śâ)sva(śva) \[ta\]ṁnṛipaḥ ॥30॥Arjunakôṇasara \[ṇa\] ṁsa dê-
 
- 29.**.................।........................**vê ॥31॥Śrî \[ma\]-r![](../books_images/U-IMG-1698848642231.PNG)![](../books_images/U-IMG-1698848765232.PNG)guru-prasparddhi-maṁtr-âgraṇîḥkâyásthô'sama-sâ (śâ) stra-sâra-\[suma\] tiḥśrîmâ\[n = sa Sauḍ-ânvayê\] ।śrî-
+ 29.**.................।........................**vê ॥31॥Śrî \[ma\]-r<MISSING_FIG href="../books_images/U-IMG-1698848642231.PNG"/><MISSING_FIG href="../books_images/U-IMG-1698848765232.PNG"/>guru-prasparddhi-maṁtr-âgraṇîḥkâyásthô'sama-sâ (śâ) stra-sâra-\[suma\] tiḥśrîmâ\[n = sa Sauḍ-ânvayê\] ।śrî-
 
- 30.![](../books_images/U-IMG-1698848516230.PNG)\[prasa (śa)stim = a\]samâṁ Jâja \[lladê\] vê vyadhât ॥32॥[^119]Chakrê prasa (śa)stisât =tasya—rbhêśôvimalân = guṇân। uttamaṁhala \[dî\]-
-
-[^119]: "Metre, Śârdûlavikrîḍita."
+ 30.<MISSING_FIG href="../books_images/U-IMG-1698848516230.PNG"/>\[prasa (śa)stim = a\]samâṁ Jâja \[lladê\] vê vyadhât ॥32॥[^119]Chakrê prasa (śa)stisât =tasya—rbhêśôvimalân = guṇân। uttamaṁhala \[dî\]-
 
 31.**..................**[\[॥33॥\]][^170]; and of the next verse.")**...................**dharôvu(bu)-dhaḥprasa(śa)stiṁprâpta- \[svarvvâ\] sâṁvâsta**...**\[nu\]jô= likhat ॥34॥\[Sa\] ṁvat 866 Mârga su di 9 Ravau ।\[Jâja(?)[^190].`")-ê—?\]
-
-[^170]: "Metre, Ślôka (Anushṭubh
 
 [^190]: "Originally jê, corrected to ja (F
 
@@ -1787,17 +1688,9 @@ line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, 
 
  2. \[r-ma\] ngala-kumbha-vibhrama-padam-vi(bi) bhrat-sad pâtu vaḥ ॥1॥[^119]Ûrddhvî-kṛitaḥ surasarit-salil-âvagâhâd=uddaṇḍa-chaṇḍatara-châru-karô vibhâti(tê)[^198]।vra(bra)-hmâṇḍa-maṇḍala-mahôtpala-nåla-lilâm-vi(bi) bhrat=sa vô Gaṇapa-
 
-[^119]: "Metre, Śârdûlavikrîḍita."
-
 [^198]: "This correction appears to have been made already in the original."
 
  3. têr=avatâd=ajasram ॥2॥[^113]Dêvaḥ pîyûsha-dhârâ-nikara-parigalad-vindu-sandôha-kîrṇṇa-vyôm-âśâ-chakravâlôMadana-nṛipa-chamû-darppaṇaḥ kairavâgâm ।va(ba)ndhuḥ sindhu-prasûtiḥ sa jayati bhu-
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
  4. van-ânanda-sambhâra-kandô lôlâkshî-mâna-mudrâ-vighaṭana-paṭutâm = âvahan Śubhrabhânuḥ ॥3॥[^200]Tad-vaṁśê nṛipa-Chôḍa-Gaṅga-visarat-prauḍha-pratâp-ânala-jvâlâ-santati-śanti-chaṇḍa-jala-
 
@@ -1813,21 +1706,13 @@ line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, 
 
  7. vratati-tarur=ilâ-maṇḍal-âbhôga-bharttâ॥5॥[^203]Tasmâch-Chêdi-kul-âvalamv(b)a-ua-yu(ju)[^198]shâm=agrêsarôbhûbhujâṁdôr-ddaṇḍa-dvaya-darppa-khaṇḍita-ripur = Jjâjalladêvô'bhavat ।Tummâṇ-âdhipatir-nnij-âmala-
 
-[^198]: "This correction appears to have been made already in the original."
-
 [^203]: "metre, Sragdharâ."
 
  8. kula-pradyôta-dîp-ôpamaḥ sat-kshâtr-aika-nidhiḥ pratâpa-taraṇiḥ sau(śau)ry-ârj-jita-śrîr = nṛipaḥ॥6॥[^119]Manyêyad-dâna-śaṁkâ-janita-bhaya-vaśâd = vallabhô nimnagânâṁdugdh-âv(b)dhir = bhîma-garbha-sphu-
 
-[^119]: "Metre, Śârdûlavikrîḍita."
-
  9. rad-uru-salilêratna-râśim = va(ba)bhâra ।vâhân = Mârttaṇḍa-dêvas = tridaśa-parivṛiḍhaḥ \[sva\]rnnadî-tôya-durggê svarggêdân-âmv(b)u-dhâr-ôddhura-madhupa-vadhû mâlam = Airâvaṇañ = cha ॥7॥[^200]Râjyê mahîbhujas = tasya
 
-[^200]: "Metre, Sragdharâ."
-
  10. naya-vartm-ânusâriṇi । kshîṇ-ôpasargga-saṁsarggêpraj-ânanda-vidhâyini ॥8॥[^170].")Âsîch = chhrî-Madhyadêśê vitata-suranadî-vâri-pûr-ôrmmi-mâlâ laṅkârê hâra-bhûtê nikhila-janapad-ô-
-
-[^170]: "Metre, Ślôka (Anushṭubh
 
  11. ddâma-bhû-maṅḍalasya। grâmôraṁy-ôru-bhûmir = dvijavara-vasatiḥ Kumbha-\[ṭî\]-nâmadhêyôyatnât = svargg-aika-khaṇḍa-pratinidhir-amalônirmmitôyôyidhâtrâ॥9॥[^208] Âtrêyas = tâvad = â-
 
@@ -1840,8 +1725,6 @@ line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, 
  13. ttamâṅga-tvaṅgad - ratn-âṅkura-śrî-khachita-pada-yugas-tatra Pṛithvîdharâkhyaḥ ॥10॥ Yaḥ prajñ-aika-viśâla-lôchana-puṭan = dhattêtṛitîyaṁsadâsad-bhûtin-(ñ) = cha tanôti yô nija-tanau durvvâra-mâr-â-
 
  14. pahaḥ।durgg-âślêsha-karô= ri-vâdi-nivahê putras = tatô’bhûd = asau vi(bi)-bhrâṇô dvijarâja-sundara-padaṁ maulau sa Gaṅgâdharaḥ ॥11॥[^119]Tataḥ kâla-kramêṅ =âsau dêśaṁTummâḥam = âgataḥ ।guna-grâm-ârjji-
-
-[^119]: "Metre, Śârdûlavikrîḍita."
 
  15. ta -prauḍha -lakshmîr = dvija- śirômaṇiḥ ॥12॥[^211]; and of the next verse.")Prakshâlya charaṅ-âmbhôjê Ratnadêvômahîpatiḥ ।Kôsamv(b)î-grâmam = êtasmâudakîkritya dattavân ॥13॥Śrî-Gaṅgâdharataḥ sutô 'jani jagad-vandy-aika-pâdô=
 
@@ -1867,29 +1750,13 @@ line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, 
 
   24. lân =cha śriyam \[ma\]tvâ dharmmêmation = adhad = vu(bu)dhaḥ ॥20¹⁹[^170]; and of the next verse.")॥Têna Kêdâra-dêvasya dhâma Mallâla pattanêdhimatá kâritaṁramyaṁsvayaśô-râśi-bhâsuram॥21॥Urvvîm = âliṅgya pârvvaṁguru-
 
-[^170]: "Metre, Ślôka (Anushṭubh
-
  25. jaghana-ghan-âślêsha-lav (b) dha-pramôdâm = êtat-Kâshthâ-vadhûnâṁ dhvaja-bhuja-valanaiḥ ślêsha-dakshaṁsamantât। kâma-vyâśa(sa) kta-chêtâiva vivu(bu)dha-purî-sundarîṇâṁsamakshê tyakta-vrîḍaṁnikâmaṁgagana-parisaraḥ Śri-
 
  26. mukhaṁchumv(b)at = îva ॥22॥[^200]Kâśyapîy-âkshapâdîya-naya-siddhânta-vêdinâ।vipaksha-vâdi-siṁhêna Ratnasiṁhêna dhîmatâ॥23॥[^170].")Śrî-Râghav-ân(ṁ)hri-kamal-âmv (b)udhar-âbhishêka-lav(b)dh-ôdata-pratata-śâ-
 
-[^170]: "Metre, Ślôka (Anushṭubh
-
-[^200]: "Metre, Sragdharâ."
-
  27. kha-mahîruhêṇa ।Vâstavya-vaṁśa-kamal-âkara-bhânun-êyaṁ।Mâmê-sutêna rachitâ ruchirâpraśastiḥ॥24॥[^113] IyaṁSahasrârjjuna-vaṁśajêna kutûhalât-ksha-triya-puṅgavêna ।Kumârapâ-
 
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
-
  28. lêna gun-âbhirâma-râm=êva ramyâlikhitâ praśastiḥ॥25॥[^122]Anêka-silpar-nirmmâṇa-payôdhêḥpâra-dṛiśvanâ।utkîrṇṇârûpakârêṇa Sâṁpulên=êyam=âdarât ॥26॥[^170].") Samvat 919\[॥\*\].
-
-[^122]: "Metre, Upajâti."
-
-[^170]: "Metre, Ślôka (Anushṭubh
 
 **TRANSLATION.**
 
@@ -1907,7 +1774,7 @@ line T3; and the non-observance of the rules of Saṁdhi in *âvahan Śubhra*-, 
 
  (V. 4.)—In his race there was, beautiful (*and*) an habitation of Fortune, the protector of the earth, the illustrious Ratnadêva; a fierce cloud to extinguish the
 
-continuously raging flames of the spreading mighty fire of the prowess of Chôḍña and Ganga princes,[^220](*and*) a blazing fire to consume the unique tree of the pride in their creeper-like long arms of all the hostile heroic rulers of the earth.
+continuously raging flames of the spreading mighty fire of the prowess of Chôḍña and Ganga princes,[^220] (*and*) a blazing fire to consume the unique tree of the pride in their creeper-like long arms of all the hostile heroic rulers of the earth.
 
 [^220]: "In the original one would have expected Chôḍa-Gaṅga-nṛipa, instead of nṛipa-Chôḍa-Gaṅga, but that would not have suited the metre."
 
@@ -1941,9 +1808,9 @@ crest a spot beautified by the moon, possesses a large third eye; who annihilate
 
  (V. 15.) —That venerable person, who is a treasury of the pride of having no rival in the doctrine of Kâśyapa and in the Sâṁkhya, has completely mastered the two Mĵmâṁsâs; (like Śiva) he is possessed of three eyes inasmuch as he has for his eye the teaching of Akshapâda. Hecrushed the great conceit of Chârvâka, delighted the pitcher-born sage (Agastya) by drinking up the difficult-to-be-restrained Bauddha ocean, (*and is*) a god of death to the Digambaras.[^224]
 
- (V. 16.) — At his house dexterous peacocks, delighted when they see the circle of the regions of the sky incessantly blackened by lines of smoke rising from groups of sacrificial fire-pits, which they mistake to be lines of black clouds moving about, dance again and again with spread-out wings, enlivened by the long-drawn sound of Vedic texts recited by the mouths of Brâhmans (*which they mistake for thunder*).
-
 [^224]: "On Kâsyapa, as another name of Kanâda, the founder of the Vaiséshika school of philosophy,-seo Cowell's Translation of The Aphorisms of Sâṅḍilya, Preface, p. v.—Akshapâdais Gôtama, the founder of the Nyâya system. The sage Agustya is fabled to have swallowed the ocean."
+
+ (V. 16.) — At his house dexterous peacocks, delighted when they see the circle of the regions of the sky incessantly blackened by lines of smoke rising from groups of sacrificial fire-pits, which they mistake to be lines of black clouds moving about, dance again and again with spread-out wings, enlivened by the long-drawn sound of Vedic texts recited by the mouths of Brâhmans (*which they mistake for thunder*).
 
  (V. 17.) — Afraid as it were of having to give (*their precious stones*) to him, the mountain of gold keeps an impervious place, the ocean has itself guarded at the shores by thorny trees and by lions and other terrific beasts, (*and*) Sêsha even places his jewels in the multitude of his hoods, terrible with the sheets of flickering poison-flames ejected by the mouth with sharp fangs.
 
@@ -2011,33 +1878,29 @@ The inscription refers itself to the reign of a prince PrithvÎdêva, son and su
 
 **TEXT.**[^229]
 
-1. \Ôṁ[³[^230]\] ôṁ namal Śivâya \।\।
-Blôg-îndrô nayana-śru\[ti\]ḥ katham=asau drashtuṁ kshamô nau bhavêd-éshâ chåndra-kalâ\[=pi śaiśava-daśâṁ=âsâdya nau [?\]][^231]![](../books_images/U-IMG-1698747464CHANDA1.JPG)![](../books_images/U-IMG-1698557799A.PNG)
-
 [^229]: "From an impression supplied to me by the Director of the Archeological Survey of India."
+
+1. \Ôṁ[³[^230]\] ôṁ namal Śivâya \।\।
+Blôg-îndrô nayana-śru\[ti\]ḥ katham=asau drashtuṁ kshamô nau bhavêd-éshâ chåndra-kalâ\[=pi śaiśava-daśâṁ=âsâdya nau [?\]][^231]<MISSING_FIG href="../books_images/U-IMG-1698747464CHANDA1.JPG"/><MISSING_FIG href="../books_images/U-IMG-1698557799A.PNG"/>
 
 [^230]: "This is expressed by a symbol."
 
 [^231]: "Of the aksharas in these brackets only the lower portions can be recognised in the impression."
 
-2. vaṁ Śailasutâ-pravô(bô)dhana-parô Rudrô ratê pâta vaḥ \।\।1\।\।[^171] Sat-sindûra-viśâla-pâṁśu-patal-âbhyakt-aika-kumbha-sthalaḥ su(śu)ndâ-tândava-maṇḍit-âkhila-nablrô-diṅ-maṇḍa\[p-âḍamv(b)a\]![](../books_images/U-IMG-1698745818छन्दः.JPG)
+2. vaṁ Śailasutâ-pravô(bô)dhana-parô Rudrô ratê pâta vaḥ \।\।1\।\।[^171] Sat-sindûra-viśâla-pâṁśu-patal-âbhyakt-aika-kumbha-sthalaḥ su(śu)ndâ-tândava-maṇḍit-âkhila-nablrô-diṅ-maṇḍa\[p-âḍamv(b)a\]<MISSING_FIG href="../books_images/U-IMG-1698745818छन्दः.JPG"/>
 
-[^171]: "Metre, Śârdûlavikrîḍita; and of the next verse."
+3. mîruha-vyûh-ônmûlana-kêlir-astu bhavatâṁ bhûtyai Ganagrâmanîh \।\।2\।\। Dêvaḥ pîyûsha-dhârâ-drava-kara-nikar-âkrânta-dik-chakravâlas-trailôky-âkrânti-niryan-Madana-nṛipa-chamû-darppaṇ-âbhôga-\[lakshm\]l <MISSING_FIG href="../books_images/U-IMG-1698746851CHANDA3.JPG"/>
 
-3. mîruha-vyûh-ônmûlana-kêlir-astu bhavatâṁ bhûtyai Ganagrâmanîh \।\।2\।\। Dêvaḥ pîyûsha-dhârâ-drava-kara-nikar-âkrânta-dik-chakravâlas-trailôky-âkrânti-niryan-Madana-nṛipa-chamû-darppaṇ-âbhôga-\[lakshm\]l ![](../books_images/U-IMG-1698746851CHANDA3.JPG)
-
-4. yati shra-vadhû-ratna-karnn-âvatan(ṁ)saḥ Śubhrâmśuḥ prauḍha-râmâ-hṛidaya-giriguhâ-mâna-sarvvaṁkasha-śriḥ \।\।3\।\।[^200] Tad-vaṁśê bhuja-daṇḍa-maṇḍala-mad-âkrânta-trilôkî-talô vi(bi)\[bbr\]Aṇaḥ sura-sârtha-nâtha-padavîm-uddâ⁷[^234]![](../books_images/U-IMG-1698746890CHANDA4.JPG)
-
-[^200]: "Metre, Sragdharâ."
+4. yati shra-vadhû-ratna-karnn-âvatan(ṁ)saḥ Śubhrâmśuḥ prauḍha-râmâ-hṛidaya-giriguhâ-mâna-sarvvaṁkasha-śriḥ \।\।3\।\।[^200] Tad-vaṁśê bhuja-daṇḍa-maṇḍala-mad-âkrânta-trilôkî-talô vi(bi)\[bbr\]Aṇaḥ sura-sârtha-nâtha-padavîm-uddâ⁷[^234]<MISSING_FIG href="../books_images/U-IMG-1698746890CHANDA4.JPG"/>
 
 [^234]: "Dr. Râjendralâl has read here madhairyyâmbudhiḥ । sa ; and it is easy to conjecture that the following lost aksharas were ptâmbhô."
 
-5. nidhi-mêkhalâ-valayita-kshônî-vadhû-vallabhô bhûpâlô bhuvan-aika-bhûshaṇa-manir=Jjâjalladêvô bhavat \।\।4\।\।[^235] Tasmâch-Chêdi-narêndra-durddama-chamû-chakr-aika-vârâṁnidhês=tîvr-aurvva-jvalanô ’janishṭa tanayaḥ ![](../books_images/U-IMG-1698747018CHANDA5.JPG)
+5. nidhi-mêkhalâ-valayita-kshônî-vadhû-vallabhô bhûpâlô bhuvan-aika-bhûshaṇa-manir=Jjâjalladêvô bhavat \।\।4\।\।[^235] Tasmâch-Chêdi-narêndra-durddama-chamû-chakr-aika-vârâṁnidhês=tîvr-aurvva-jvalanô ’janishṭa tanayaḥ <MISSING_FIG href="../books_images/U-IMG-1698747018CHANDA5.JPG"/>
 
 [^235]: "Metre, Śârdûlavikrîḍita; and of the next two verses."
 
 6. rvv-âkharvvita-Chôda-Gaṅga-subhaṭa-sphâr-êndu-vi (bi) -mv (b) a-graha-grâsê Râhur = ananta-sau(śau) rya-mahim-âścharyô mahî-mandalê \।\।5\।\।
-Sarppat-pûrṇṇa-śaśâṅka-dhâma-dhavala-sphâyad-yaśô-janmabhûr-udyat-tîvratara-pratâpa-taraṇiḥ[^236]. The last syllable of the line I suppose to have been ga.")sat-[kshâ\[tra\]-][^237]![](../books_images/U-IMG-1698747125CHANDA6.JPG)
+Sarppat-pûrṇṇa-śaśâṅka-dhâma-dhavala-sphâyad-yaśô-janmabhûr-udyat-tîvratara-pratâpa-taraṇiḥ[^236]. The last syllable of the line I suppose to have been ga.")sat-[kshâ\[tra\]-][^237]<MISSING_FIG href="../books_images/U-IMG-1698747125CHANDA6.JPG"/>
 
 [^236]: "Dr. Râjendralâl has road here srî-Ratnadêvô nripa(paḥ
 
@@ -2046,46 +1909,28 @@ Sarppat-pûrṇṇa-śaśâṅka-dhâma-dhavala-sphâyad-yaśô-janmabhûr-udyat
 7. yâta-diganta-vandi-nivah-âbhîshtârtha-chintâmaṇiḥ Prithvîdêva-narêśvarô ’syatanayaḥ śrîmân-abhûd=bhû-talê \।\। 6 \।\।
 Râjyê bhûmibhujò ’sy=aiva naya-mârgg-ânusâri-ṇi । kshîn-ôpasargga-saṁsarggê praj-ânanda-vidhâyini \।\।7\।\।[^170]; and of the next verse.") Vâ[^239]. . . . . .
 
-[^170]: "Metre, Ślôka (Anushṭubh
-
 [^239]: "Dr. Râjendralâl has read hero stavyavaṁśaśubhrâṁ-[śu]."
 
-8. r=Ggôvindaś-Chêdi-mandalât । kritî kâla-kramên-âsau dêśan-Tummâṇam=âga-taḥ \।\। 8\।\। Putras-tasya jan-ânurâga-jaladhir-bhûbhṛit-sabhâ-bhûshanô jyâyân=paṇḍita-pundarîka-taraṇir-Mmàmé’bhidhâno ’bhavat । yô dhâtrî-tilakô [\[ni\]][^240]![](../books_images/U-IMG-1698747256CHANDA8.JPG)
+8. r=Ggôvindaś-Chêdi-mandalât । kritî kâla-kramên-âsau dêśan-Tummâṇam=âga-taḥ \।\। 8\।\। Putras-tasya jan-ânurâga-jaladhir-bhûbhṛit-sabhâ-bhûshanô jyâyân=paṇḍita-pundarîka-taraṇir-Mmàmé’bhidhâno ’bhavat । yô dhâtrî-tilakô [\[ni\]][^240]<MISSING_FIG href="../books_images/U-IMG-1698747256CHANDA8.JPG"/>
 
 [^240]: "Dr. Râjendralâl has read here jâmala[ku]."
 
-9. 1-âlaṇkâra-hâr-ôpamô vikhyâtas=Tripuràntak-aika-charaṇ-âmbhôj-aika-bhṛiṅgô bhuvi \।\।9\।\।[^119] Bhrâtâ śrî-Râghavô ’mushya kanîyân=guṇa-sâgaraḥ nâgarô bhu-van-âbhôga-bhûshâ Pûsh-ôpamô va(ba) bhau \।\।10\।\।[^170].") Śrî-Mâmê-tanayaḥ samasta-[jaga\[tî\]][^243]^(![](../books_images/U-IMG-1698747337CHANDA9.JPG))
-
-[^119]: "Metre, Śârdûlavikrîḍita."
-
-[^170]: "Metre, Ślôka (Anushṭubh
+9. 1-âlaṇkâra-hâr-ôpamô vikhyâtas=Tripuràntak-aika-charaṇ-âmbhôj-aika-bhṛiṅgô bhuvi \।\।9\।\।[^119] Bhrâtâ śrî-Râghavô ’mushya kanîyân=guṇa-sâgaraḥ nâgarô bhu-van-âbhôga-bhûshâ Pûsh-ôpamô va(ba) bhau \।\।10\।\।[^170].") Śrî-Mâmê-tanayaḥ samasta-[jaga\[tî\]][^243]^(<MISSING_FIG href="../books_images/U-IMG-1698747337CHANDA9.JPG"/>)
 
 [^243]: "Dr. Râjendralâl has read here vi[stî]."
 
 10. rṇṇna-kîrṇṇa-sphurat-kund-êndu-dyuti- kîrtti-santati
 -latâ-vyâsakta- diṅ-maṇḍa-paḥ । râjaty=unmada-vâdi-vṛinda-dalanô lîlâ-vihâraḥ śriyaḥ śîl-âchåra-vi\[vê\]ka-puṇya-nilayaḥ śrî-Ratnasiṁhaḥ kaviḥ \।\।11\।\।[^119] Sa(śa)ch-îva Jishṇôr=Ggirij=[ê\[va\]-][^245]
 
-[^119]: "Metre, Śârdûlavikrîḍita."
-
 [^245]: "The missing syllable is of course Su."
 
-11. mbhôr=Dugdhâv(b)dhi-putr-îva cha Chakrapânêḥ । sâdhvî sadâ va(ba)ndhu-jan-âbhipûjyâ Rambh-êti nâmâ’bhavad=asya patnî \।\।12\।\।[^122] Tâbhyâm-ajâyata jagat-traya-ghushṭa-kîrttir = âkhaṇḍit-âri-vu(bu)dha-maṇḍala-chaṇḍa-darppaḥ । Chandîśa-châru-charan-âmv(b)uja-chan (ñ)charîkaḥ pra\[jñâ\]-pa![](../books_images/U-IMG-1698747682CHANDA11.JPG)
-
-[^122]: "Metre, Upajâti."
+11. mbhôr=Dugdhâv(b)dhi-putr-îva cha Chakrapânêḥ । sâdhvî sadâ va(ba)ndhu-jan-âbhipûjyâ Rambh-êti nâmâ’bhavad=asya patnî \।\।12\।\।[^122] Tâbhyâm-ajâyata jagat-traya-ghushṭa-kîrttir = âkhaṇḍit-âri-vu(bu)dha-maṇḍala-chaṇḍa-darppaḥ । Chandîśa-châru-charan-âmv(b)uja-chan (ñ)charîkaḥ pra\[jñâ\]-pa<MISSING_FIG href="../books_images/U-IMG-1698747682CHANDA11.JPG"/>
 
 12. r=iha Dêvagaṇas-tanûjaḥ \।\।13\।\।[^113] Etad-yasya jagad=yaśôbhir=abhitô ḍiṇḍîra-piṇḍa-prabhair=âkrântan=dhavalam(ṁ)=vilôkya nikhilaṁ gôp-âṅganâ-vîkshitaḥ। Ká-lindî-hrada-Kâlanêmi-dálana-prârambha-vîtâdaras=tîrê tâmyati Vâriràśi-tanayâ-[^248]
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
 [^248]: "The missing syllable I suppose to be ya."
 
 13. ttô=pi jâta-bhramaḥ \।\।14\।\।[^171] Pîyûsha-drava-sândra-vindu-vasatir=yasy=âsya vâk-chandrikâ vidvach-cḥakra-ckakôra-chañchu-puṭakair=âpîyamân=âniśam ।kin(ñ)ch-âya\[ṁ\] kara-pañjarô khila-milaṅ-nânâ-digant-ârthinâṁ bkûyô ’bhîshţa-phala-pradâna-chatura\[h\] [svâdhî\[na\]--][^250]
-
-[^171]: "Metre, Śârdûlavikrîḍita; and of the next verse."
 
 [^250]: "The missing syllable is ka."
 
@@ -2097,15 +1942,9 @@ Râjyê bhûmibhujò ’sy=aiva naya-mârgg-ânusâri-ṇi । kshîn-ôpasargga
 
 15. yaṁ prâṇa-mandiram \।\।17\।\।[^170].") Lâvaṇy-âpratimallatâ-mada-bharâ Maulîṁdunâ krôdhatô dagdhasy=âpi Manôbhavasya, bhuvanê vidy=êva sañjîvanî । sat-saubhâgya-guṇ-aika-garvvá-vasatiḥ prâṇ-âdhikâ prêyasî yâṁ nirmmâya Sarôjabhûḥ pramudi-[^254]
 
-[^170]: "Metre, Ślôka (Anushṭubh
-
 [^254]: "The missing syllable I take to be taḥ."
 
 16. prâptaḥ parâṁ nirvṛitim \।\।18\।\।[^119] Avô(bô)dha-dhvânta-santâna-kavi(ri)-kumbha-vidâraṇaḥ। Jagatsiṁhô ’sya tanayaḥ siṁhavad=bhuvi râjatê \।\।19\।\।[^170]; and of the next three verses.") Târak-ârir-asau Śaila-sutâ-sûnur=ayaṁ punaḥ । sutô Râyarasimhô ’sya va(ba)ndhu-varggasya târakaḥ \।\।20 \[\।\।\]
-
-[^119]: "Metre, Śârdûlavikrîḍita."
-
-[^170]: "Metre, Ślôka (Anushṭubh
 
 17. Bhôp=âsya duhitâ sâdhvî kali-kâla-vichêshṭitaiḥ। a-spṛishṭâ svar-dḍhun=îv=êyam bhuvana-traya-pâvanî \।\। 21 \।\।
 Vâlhû-śrî-Dévadâs-âkhyau va(ba)ddha-saknyau paras-param। jagad-ud\[d\*\]yôtakau bhâtaḥ puhpavantâv=iv=âmv (b) arê \।\।22\।\।
@@ -2113,34 +1952,18 @@ Vât-ôddhûti-\[vi\]-
 
 18. lôla-tûla-taralaṁ nṛîṇâm=idaṁ jîvitaṁ lakshmîṁ ghôra-ghan-ântarâla vilasad-vidyud-vilâs-ôpamâm । matv=aitad-durit-augha-dâru-dahana-prôddâma-dàv-ânalê śra-ddhâm=uddhata-dharmma-vu(bu)ddhir=akarôch=chhrêyaḥ-pathê sâ(śâ) śvatê \।\।23\।\।[^119] Cha-krê Dêva\[ga\]-
 
-[^119]: "Metre, Śârdûlavikrîḍita."
-
 19. ṇô dhâma Vi(bi)lvapâṇi-pinâkinaḥ। Sâṁv (b)â-grâmê tushâr-âdri. si (śi)khar-âbhôga-bhâsuram \।\।24\।\।[^170].") Nânâ-bhûpâla-bhukta-kshiti-jaghana-ghan-âślêsha-tôshâd=iv=âdau dig-vâmâ-kâma-pîḍâ-tarala-tanu-guru-ślêsha-lipsaṁ samantâ\[ t ।\]
 
-[^170]: "Metre, Ślôka (Anushṭubh
-
 20. kâm-îv-êdam(ṁ)=vidagdhô virachita-parama-prêma-hâsaṁ tvarâvat=svarvvâ-mâṇâṁ samakshaṁ gagana-parisara\[ḥ\] Śrî-mukhaṁ chumv(b)at=îva \।\।25\।\।[^200] Niḥśêsh-âgama-śuddha-vô(bô)dha-vibhavaḥ kâvyêshu yô bha\[vya\]-dhîḥ sat-tarkk-âmv(b)udhi-pâragó Bhrigu-su-[^260]
-
-[^200]: "Metre, Sragdharâ."
 
 [^260]: "The missing syllable is tô."
 
 21. \[yô\] daṇḍa-nîtau mataḥ। chhandô’laṅkṛiti-śav(b)da-manmatha-kalâ-śâstr-âv-(b)ja-chaṇḍadyutiś=chakrê Dêvagaṇaḥ praśastim=amalâ\[ṁ\]śrî-Ratnasiṁh-âtṛnajaḥ \।\।26\।\।[^119] Yaḥ kâvya-kairava-vikâśana-śîtaraśmir=uddâma-vu(bu)ddhi-nilayô’[^262]
 
-[^119]: "Metre, Śârdûlavikrîḍita."
-
 [^262]: "Dr. Râjendralâl has read here the syllable va; and for the beginning of the next line he supplies ni."
 
 22. pâla-sûnuḥ । vidyâ-vilâsa-vasatir-vvimalâṁ praśastiṁ śrîmân-imâṁ Kuma-ra-pâla-vu(bu)dhô lilêkha \।\।27\।\।[^113] Praśastir=iyam=utkîrṇṇâ ruchir=akshara-pâṁktibhiḥ । dhîmatâ sûtradhârêṇa Sâṁpulêna manôramâ \।\।
 \[28\।\।[^170]; and of the next verse.")[\]][^265]
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^170]: "Metre, Ślôka (Anushṭubh
 
 [^265]: "The figure in brackets is broken away."
 
@@ -2149,9 +1972,7 @@ Chandrârkkau kiraṇ-åvalî-valayitaṁ yâvad=vidhattâñ[^266]=jagad-diṅ-m
 
 [^266]: "Read vidhattô."
 
-24.![](../books_images/U-IMG-1698834014chanda24.JPG)nakshatra-prakar-ôru-hâralatikâ’laṅkâra-sâraṁ nabhas=tvat-kîrttir=Mmadanâri-mandira-mishât-tâyach-chiraṁ nandatu \।\।30\।\।[^119] [\[Saṁvat 1247\]?.][^268], looks as if it had been put in the place of the figure 9, or as if that figure had been altered so as to assume the form of saṁ.")
-
-[^119]: "Metre, Śârdûlavikrîḍita."
+24.<MISSING_FIG href="../books_images/U-IMG-1698834014chanda24.JPG"/>nakshatra-prakar-ôru-hâralatikâ’laṅkâra-sâraṁ nabhas=tvat-kîrttir=Mmadanâri-mandira-mishât-tâyach-chiraṁ nandatu \।\।30\।\।[^119] [\[Saṁvat 1247\]?.][^268], looks as if it had been put in the place of the figure 9, or as if that figure had been altered so as to assume the form of saṁ.")
 
 [^268]: "This date has not been written by the writer of the inscription, who [forms his numeral figures differently; and it appears to be scratched on the stone rather than properly engraved. Of the four figures, the first, second, and last are quite distinct; the third figure is indistinct, but it decidedly looks moro like 4 than 0. An examination of the stoue may possibly show, that the inscription originally was dated in a year of the Chêdi era; for, in the impression, the first syllable of the word saṁvat, which precedes the figures 1247 (P
 
@@ -2211,9 +2032,9 @@ fully the wished-for fruits to all the supplicants of the various quarters, crow
 
  (V. 20.)—That (*Skanda, the*) son of the daughter of the mountain, is the enemy of Târaka; but this son of his, Râyarasiṁha, is the preserver of the whole body of relations.[^272]
 
- (V. 21.)—This virtuous daughter of his, BhÔpâ, untouched by the doings of the Kali-age, like the river of heaven, is purifying the three worlds.
-
 [^272]: "The play on the word târaka is lost in the translation."
+
+ (V. 21.)—This virtuous daughter of his, BhÔpâ, untouched by the doings of the Kali-age, like the river of heaven, is purifying the three worlds.
 
  (V. 22.)—(His) two (children) named Vâlhû and the illustrious Dêvadâsa, united in mutual friendship, are shining, illumining the world like sun and moon in the sky.
 
@@ -2239,9 +2060,9 @@ fully the wished-for fruits to all the supplicants of the various quarters, crow
 
 [\[The year 1247\]?][^275]
 
-**VIII. — A RÂSIHṬRAKÛṬA GRANT OF KṚISHṆA II., DATED ŚAKA 832.**
-
 [^275]: "See page 49, note41."
+
+**VIII. — A RÂSIHṬRAKÛṬA GRANT OF KṚISHṆA II., DATED ŚAKA 832.**
 
 **BY E. HULTZSCH, PH.D.**
 
@@ -2506,13 +2327,13 @@ here said to have destroyed his enemies and to have reconquered his kingdom, whi
 
 # **PRASASTI FROM LAKKHA MANDAL AT MADH**
 
-# ![](../books_images/U-IMG-1710153656EP-1.png)
+# <MISSING_FIG href="../books_images/U-IMG-1710153656EP-1.png"/>
 
-# ![](../books_images/U-IMG-1710153796EP-2.png)
+# <MISSING_FIG href="../books_images/U-IMG-1710153796EP-2.png"/>
 
 # **JHĀNSI; CHANDEL INSCRIPTION OF SALLAKSHANAVARAM**
 
-# ![](../books_images/U-IMG-1710153863EP-3.png)
+# <MISSING_FIG href="../books_images/U-IMG-1710153863EP-3.png"/>
 
 # Please dont Edit this page (Blank Page)
 
@@ -2526,9 +2347,9 @@ here said to have destroyed his enemies and to have reconquered his kingdom, whi
 
   12. His deeds resembie those of Kṛishṇa; for, laving killed his Poes, he bears the kingdom for the welfare of the ( four ) castes and the earth with his arm, like Kṛishṇa.[^350]
 
-  13. Through his favour[^351]great fortune came to the face of Brahmavaka; ( this fortune ) is incessantly and openly proclaimed by the great pats of later times.
-
 [^350]: " This verse alludes to the real name of the king, vir. Kṛishna."
+
+  13. Through his favour[^351]great fortune came to the face of Brahmavaka; ( this fortune ) is incessantly and openly proclaimed by the great pats of later times.
 
 [^351]: " Literally: "
 
@@ -2614,9 +2435,9 @@ and refers to the Chola country. 'On'the left pillar the Kâvîrî is called the
 
   (Verse 1.) Being afraid that the god who is fond of rivers (Śiva), having perceived the Kâvîrî, whose waters please the cye, who wears a garland of gardens, and who possesses lovely qualities, might fall in love (with her), the daughter of the mountain (Pârvati), has, I think, left her father's family and resides permanently on this mountain, calling this river the beloved of the Pallava (king).[^356]
 
- (2.) While the king called Guṇabhara is a worshipper of the liṅga, let the knowledge which has turned back from hostile (vipaksha) conduct, be spread for a long timein the world by this liṅgal[^357], in which lingin meansthe subject of a proposition, linga the predicate of a proposition and vipaksha an instance on the opposite side.").[^357], in which lingin meansthe subject of a proposition, linga the predicate of a proposition and vipaksha an instance on the opposite side.")
-
 [^356]: "Pârvatî calls Kâvîrî the wife of another, in order to prevent Śiva from coveting her."
+
+ (2.) While the king called Guṇabhara is a worshipper of the liṅga, let the knowledge which has turned back from hostile (vipaksha) conduct, be spread for a long timein the world by this liṅgal[^357], in which lingin meansthe subject of a proposition, linga the predicate of a proposition and vipaksha an instance on the opposite side.").[^357], in which lingin meansthe subject of a proposition, linga the predicate of a proposition and vipaksha an instance on the opposite side.")
 
 [^357]: "This whole verse has a double entondre. It contains allusions to the Indian logic (tarkasâstra
 
@@ -2716,7 +2537,7 @@ an abstract of the contents; regarding the prince Lakhaṇapâla and his ancesto
 
  Put into the form of a tabular statement, the genealogy here furnished to us is as follows:—
 
-![](../books_images/U-IMG-169874820100000000.png)
+<MISSING_FIG href="../books_images/U-IMG-169874820100000000.png"/>
 
 Beyond these names, and the statement that these princes belonged to the Rashṭrakûṭa clan (which appears to connect them with the Râthôr rulers of Kanauj), and that the town Vodamayûtâ was ruled over by them, we learn nothing of historical importance from the inscription. Nor have I been able to gather any certain information about these rulers from other inscriptions, or from the historical works which I have consulted. Most of the names, of course, do occur elsewhere, but the only name ending in pala, distinctly connected with the town of Badâun, is that of Mahîpâla, "the Tomar Raja of Dehli, who," according to Sir A. Cunningham,**⁶** “is said to have built the great fort on which part of the city now stands," as well as a temple, on the site of which the Muhammadans built the present Jâmî' Masjid; and Mahîpâla's name does not occur here. The reference to Hambira (or the Hambîras), in line 4, appears clearly to point to the invasions of the Muhammadans.
 
@@ -2756,9 +2577,9 @@ sundarîTútr³[^371]=âditô=bhavad=ananta-guṇônarêndraś-Chandraḥ sva- k
 5. śrî-Dêvapâla-vara-nâma-dharô\[dharâyâ\]m=ady=âpi yach-charita-varṇṇanatô jayaḥ syât ॥Tasy=åtmajôvijita-durjaya-vairi-vîro râj-âbhavat-kanaka-nirmala-sach-  
 chharîraḥ।garbhêśvaraḥ śubha-karaḥ sura-vipra-bhaktaḥ śrî-Bhîmapâla iti tâta-padê-bhishiktaḥ ॥Tat-sambhavô=bhavad-a—[^375]
 
-6. vani-pâlanâya śri-Sûrapâla iti sarvva-jagat-prasiddhaḥ। Śakrôyathâsura-gaṇê bha-gaṇê śaśâṁka Airâvaṇô gaja-varêshu mṛigêshu siṁhaḥ ॥Abhavad[^376]= Amritapâlas=tasya putraḥ pratâpînija-kara-niśit-âsi-trâsit-âśêsha-śatruḥ। dvija-guru-sura-bhaktaḥsarvva-[\[śâ\]][^377]—
-
 [^375]: "i.e., atô-."
+
+6. vani-pâlanâya śri-Sûrapâla iti sarvva-jagat-prasiddhaḥ। Śakrôyathâsura-gaṇê bha-gaṇê śaśâṁka Airâvaṇô gaja-varêshu mṛigêshu siṁhaḥ ॥Abhavad[^376]= Amritapâlas=tasya putraḥ pratâpînija-kara-niśit-âsi-trâsit-âśêsha-śatruḥ। dvija-guru-sura-bhaktaḥsarvva-[\[śâ\]][^377]—
 
 [^376]: "Metre, Mâlinî; and of the next verse."
 
@@ -2766,13 +2587,9 @@ chharîraḥ।garbhêśvaraḥ śubha-karaḥ sura-vipra-bhaktaḥ śrî-Bhîma
 
 7. nuraktô gurur-iva sakalânâṁ=ugra-daṁḍ-âyudhânâṁ॥Tad-anu tad-anujâtô âts-dân-âtirêkô nṛipati-Lakhaṇapâlaḥ kalpa-kôtîr=ih=âstâm। tapa-tapana-kar-âbha-prâsa-vṛiṁdâni yasy-âri-vara-tanushu dhârâraudhirîr=âpiva (ba)nti ॥Aṇahilapâ-taka[^135]-vasatiḥ prâg-âsît-tâpa-[^379]
 
-[^135]: "Metre, Âryâ."
-
 [^379]: "i.e., tâpasô."
 
 8. mahakula-jaḥ।Varmaśivaḥ śiva-mûrtiḥ kîrti-mati-kshâṁti-dhṛiti-dhâma ॥ Yô-[^379]vå (bå)laḥkila Dakshiṇâpatha-gatôyau(bau)ddha.prati\[shṭh\] âpitâṁ sampaśyan-pratimâṁjahâra vidhinâkên=âpi dûraṁrushâ।maṁtr-ôchcharaṇa-vêlay=aiva paṭaha-dhvânât-tafôviśrutô vijñâtô guru-gauravân=nija-padê ninyê-
-
-[^379]: "i.e., tâpasô."
 
 9. tâṁmaṁtra-vit॥ Kamîrêshu ya iśvar-ârpita-manâ vidýadbhir=abhyarchchitaḥ svâṁśaktiṁ paridarśya Kaśyapa iva kshmâpâla-mâl-ârchitaḥ ।digrudrân=vishamân=vidhâpya sa tatô Rudr-âlayaṁnirmalaṁ vâṁchh-âhâṛa-karaṁ mathaṁvyarachayad=bha ṭṭârak-abhîshṭa-daṁ॥Svairêṇ=ôpavanê kvachid=virachita dhyânâsan-â-
 
@@ -2792,8 +2609,6 @@ chharîraḥ।garbhêśvaraḥ śubha-karaḥ sura-vipra-bhaktaḥ śrî-Bhîma
 
 13. Mûrttigaṇôguṇ-iṁdrôva (ba) bhûva bhâpâla-hṛidavja (bja)-sûryaḥ ।sad-dî-kshayâyasya sa Sûrapâladêvô va(ba) bhův=âpratima-prabhâvaḥ Vaśy[^119]-âkṛishṭi-mahâ-vidhâna-ni puṇô maṁtr-ôddhṛitau dakshiṇô vipraṁbhûmipatiṁtadîyam-athav=âmâtyaṁsa yaṁdîkshayêt ।taṁtaṁvô(bô)dha-nidhiṁ\[su\]masta-pṛithivî=nâthaṁ pradhânaṁuṛiṇâṁsthâṇuṁ
 
-[^119]: "Metre, Śârdûlavikrîḍita."
-
 14. pa\[t\*\]triṇam=âtanôt=tarum-iva śrî-Yâjñavalkyômuniḥ॥ Kâmaḥ[^389]-knṁbhî tadupayamanaṁ[^390]-tad-bhujastaṁbha-yugmaṁkrôdhô vyâdhir=vvachanam= amṛitan-tasya tach-chhâṁti-hêtuḥ । lôbhaḥ śaṁkê śaśaka-śiśukaḥ kêsarîsa prasiddhaḥ sa trailôkyê kim=iha va(ba)hund Śaṁbhu-saṁbhâvan-ârhaḥ ॥Asyâṁbhûmau malahara-\[ma\]-
 
 [^389]: " Metre, Mandâkrântâ; and of the next verse."
@@ -2801,8 +2616,6 @@ chharîraḥ।garbhêśvaraḥ śubha-karaḥ sura-vipra-bhaktaḥ śrî-Bhîma
 [^390]: " Here, in the original, follow the aksharas thathuthathathathatha."
 
 15. hâtîr\[tha\]-yâtrâ-prayâtaṁśrâvam śrâvaṁvara-yatijanô=nugrahây-aitam=êva।ghrâyaṁghrâyaṁparimalam=ali-vrâta âsâdya sadyôyadvad=dûrâd=vrajati kusumaṁ sêvatê ch=âpy=ajasraṁSva[^168].")-sishyavara-bhûpâla-bhakti-lavdhê (bdhê)na bhûriṇâ। bhûmi-dânêna yôviprân=pûjayâm-âsa bhûriņâ ॥Prakhyâtô[^392]-Hariyâṇa-déśa-vasatiḥ śrî.
-
-[^168]: "Metre, Śloka (Anushṭubh
 
 [^392]: " Metre, Śârdûlavikrîḍita."
 
@@ -2818,8 +2631,6 @@ va(ba) ṁdhu-dhana-spṛihâm para-pada-prâptyai sishêvê guruṁ ॥Niyama[^
 [^393]: "Metre, Hariṇî."
 
 17. sa \[t\*\] tva-sthitau \[ma\] kar-âkaraḥ sva-guru-hṛidayê śishyôbhaktiṁparâṁ samadarśayat ॥Gauḍa-jaḥ[^126]-pravara-paṁchak-ânvitô Vatsabhârgava-sugôtra-maṁḍitaḥl Bhârgava-Chyavanak.Âpnavânakair-Aurvva-nâma-Jama [\[ḍa\]][^395]-gnibhir=yutaḥ ॥Åśêsha[^396]-śishyêshu parîkshya dîkshitaḥsvayaṁya Îśanasiv-êti kirttitaḥ 1 tapasvi-râjyê sva-padêbhishê-
-
-[^126]: "Metre, Rathoddhatâ."
 
 [^395]: "This akshara originally was bha."
 
@@ -2841,8 +2652,6 @@ va(ba) ṁdhu-dhana-spṛihâm para-pada-prâptyai sishêvê guruṁ ॥Niyama[^
 
 20. da êsha Bharatasya purê hy-akâri yê nâma tuṁgima-gunêna jagaj=jigâya।yad-râmaṇîyakan=anuttamam=âkalayya Kailâsa-vâsa-vimukhôvasat-îha Śaṁbhuḥ IIAnârata[^122]- prabhramêṇa bhẩnô[^403]khinnô=si viśrâmya muhûrttam=atra ॥it=îva saṁ-ñâm=anusaṁdadhânaś=chalat-patâkâ-chchhalatô vibhâvi(ti) ॥Śivâlayam[^404]and of the next verse.")yihirmâpyapratishṭhâ [\[s-cha ?\]][^405]
 
-[^122]: "Metre, Upajâti."
-
 [^403]: "Read prabhramaṇêna."
 
 [^404]: "Metre,Śloka(Anushṭubh
@@ -2850,25 +2659,15 @@ va(ba) ṁdhu-dhana-spṛihâm para-pada-prâptyai sishêvê guruṁ ॥Niyama[^
 [^405]: " i.e., vi-."
 
 21. dhânataḥ। prâyachchhad=ÎsânaśivaḥśâsanaṁBhadaṇaulikâṁ
-RûḍhâRulhâbhi\[dham\]prâpyaŚiva-bhakti-latâ hiyâ।Lakshmîdhara-Jagatpâla-bhavanaiḥ s=aivavarddhitâ॥Â hâḍêgadha[^119]uttamê samabhavat=sûriḥ sa Sôméśvarôyat-pûjâ-paramâva(ba) \[bhûvu\]r=akhilà lôkâḥsadà nâgarâḥ ।tasy= âsêsha-g\[u\]ņâ![](../books_images/U-IMG-1698746019b.PNG)\[Ga\]ṁgâdharaḥpaṁḍitôvidy-âdâna-rataḥ pa–[^407]
-
-[^119]: "Metre, Śârdûlavikrîḍita."
+RûḍhâRulhâbhi\[dham\]prâpyaŚiva-bhakti-latâ hiyâ।Lakshmîdhara-Jagatpâla-bhavanaiḥ s=aivavarddhitâ॥Â hâḍêgadha[^119]uttamê samabhavat=sûriḥ sa Sôméśvarôyat-pûjâ-paramâva(ba) \[bhûvu\]r=akhilà lôkâḥsadà nâgarâḥ ।tasy= âsêsha-g\[u\]ņâ<MISSING_FIG href="../books_images/U-IMG-1698746019b.PNG"/>\[Ga\]ṁgâdharaḥpaṁḍitôvidy-âdâna-rataḥ pa–[^407]
 
 [^407]: "i.e., pari—"
 
-22. graha-bhayâd-yôn=aikshata kshatriyân॥ Tasmai[^113]dadau Paraśurama-vu(bu)dhaḥsva-putri\[ṁ\] Sûlh-AbhidhâṁGirisutâm=iva Parvvatêśaḥ ।tasyâṁ= va(ba)bhûvasuta-paṁchatayîkanishṭhô Gôviṁdachaṁdra-vivu(bu)dhaḥ śruti-śâstra-nishṭhaḥ ॥Surâ-lay-[^409]ârâ\[ma\]![](../books_images/U-IMG-1698747065c.PNG)![](../books_images/U-IMG-1698747112d.PNG)\[pra\*\]\[śa\]stim-êtâm-akarôt=kav-iśvaraḥ \[॥\*\]
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
+22. graha-bhayâd-yôn=aikshata kshatriyân॥ Tasmai[^113]dadau Paraśurama-vu(bu)dhaḥsva-putri\[ṁ\] Sûlh-AbhidhâṁGirisutâm=iva Parvvatêśaḥ ।tasyâṁ= va(ba)bhûvasuta-paṁchatayîkanishṭhô Gôviṁdachaṁdra-vivu(bu)dhaḥ śruti-śâstra-nishṭhaḥ ॥Surâ-lay-[^409]ârâ\[ma\]<MISSING_FIG href="../books_images/U-IMG-1698747065c.PNG"/><MISSING_FIG href="../books_images/U-IMG-1698747112d.PNG"/>\[pra\*\]\[śa\]stim-êtâm-akarôt=kav-iśvaraḥ \[॥\*\]
 
 [^409]: " Metre, Vaṁśastha."
 
 23 – – – – – – –॥[^410]Utkîrṇṇ[^411]=êyaṁvarṇṇa-vinyâsa-vidbhyâṁGôgê-Jîlhê-nâmakâbhyâṁ-ubhâbhyâṁ।yad-varṇṇ-âlyô bhâṁti pâshâṇa-paṭṭê jâtî-pushp-ârabdha-pûj-ôpamânâḥ ॥Yåvad[^382]")= Gaṁgå sutâBhâ\[nô\] r=yâvad-bhânu-[ni\[śâ\]][^413]**...............**\[pra\]śa\[sti\*\]**......**
-
-[^382]: " Metre, Śloka (Anushṭubh
 
 [^410]: " Here are about seven illegible aksharas which possiblycontained a date."
 
@@ -2903,7 +2702,7 @@ and to demonstrate more forcibly the great antiquity of the Japanese and of the 
 
 [^417]: "Sir Å. Cunningham, Anc. Geog., p. 377, is right when he assorts that the French translation of Hiuen Tsiang's Fri-she was wrong in making Karsha of the Vaisya caste, and that the intermarriages with the Rajput families of Valabhî and Mâlvâ (recte Kanoj
 
-![](../books_images/U-IMG-1698823726e.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1698823726e.PNG"/>
 
   The names of the first three kings and those of their queens are new. Both Iliuen  
 Tsiang and Bâṇa omit them, the latter mentioning in their stead the remote founder of the family Pushpabhùti or, as the correct spelling of the name probably was, Pushyabhûti[^418].[^418] They seem however to have stood on Mr. Fleêt's Sonpat scal of Harsha, on the
@@ -2939,10 +2738,10 @@ conventional. The same expressions occur also on the Asîrgaḍh seal of the Mau
 
 mention it, there is no reason for wondering at his reticence. But it is certainly curious that the fact—for such it must be considered—escaped the notice of Hiuen Tsiang, who is so anxious to record every point in favour of his faith and who occasionally, it would seem, exaggerates its influence in India. Suchan exaggeration of the Chinese pilgrim is laid bare by the only direct statement concerning Harsha which the grant contains. Harsha calls himself a most devout worshipper of Maheśvara or Śiva, “who like Maheśvara is compassionate towards all created beings.” It agrees with this assertion that the emblem on the Soṇpat seat is a reclining Nandi. Huen Tsiang, on the other hand, tries to make out tha Harsha was a Buddhist or full of faith in Buddha from the beginning. He tells us an obviously fictitious story describing how Harsha was prevented from mounting the throne and induced to take the title kumâra by a Bodhisattva, who miraculously appeared to him in return for his worship[^428]
 
+[^428]: "Beal, Si-yu-ki, vol. I, p. 212. Doubts about Hiuen Tsiang’s veracity have been emitted by Mr. Boyd, Nâgânanda, pp. ix—xi, who correctly states that the events narrated by him do not bear out his assertion that Harsha was a thoroughgoing Buddhist."
+
  In the gencalogical portion of the grant Harsha says nothing more about himself, and to our regret thereby sets an example which few Indian princes have imitated. But indirectly we learn something more about him from his edict. First, the wording of the verse in II. 16-17, and the reverential manner in which the grant in 1. 13 speaks of “the feet” of the elder brother, prove that Harsha really felt the strong attachment and great regard for Râjyavardhana of which Bâṇa speaks very fre–quently. Otherwise he would not treat him here with almost greater reverence than  
 his parents. Secondly, we learn from the edict that Harsha really was a poet. The second admonitory verse, Il. 16-17, gives us a maxim proclaimed by Harsha. Its wording proves beyond a doubt that the king superintended the drafting of the grant, and that this verse at least is his own composition. The fact that the first admonitory verse contains the same sentiments which are usually given in such passages, but in its form differs from all the known parallel passages, makes it probable that it likewise belongs to him. Under these circumstances I feel inclined to ascribe to him also the verse on Râjyavardhana. Instanees in which kings took a part in the composition of their inscriptions are not common. No. 15 of Dr. Bhagvânlâl’s Nepâl series, where five verses are stated to be “the clever king’s own composition,” proves, however, that such things did occur. In the case of Harsha it is not astonishing that he took an interest in such matters, as we still possess three plays which go under his name and probably, in part at least, proceeded from his pen. The third piece of information, a confirmation of Hiuen Tsiang’s account, of his military career, is furnished by the particulars regarding the donation. The object of the grant is to transfer the village of Somakuṇḍikâ situated in the vishaya of Kuṇḍadhânî, and in the bhukti of Śrâvastî, to two learned Brâhmans, the Sámavedî Bhaṭṭa Vâtasvâmin of the Sâvarṇi gotra and the Ṛigvedî Bhaṭṭa Śivadevasvâmin of the Vishṇuvṛiddha gotra. The village had formerly been enjoyed on the strength of a forged śâsana by one Vâmarathya, from whom it is now taken after destroying the old plate. The latter point is of some interest, as it shows that the rules of the Smṛitis which settle the punishment for forgers of royal edicts, were not unnecessary, and that ancient forgeries existed. As the village granted by Harsha was situated in the bhukti of Śrâvastî, it is evident that he had conquered at the time a very considerable portion of Northern and Central India. The dûtaka,
-
-[^428]: "Beal, Si-yu-ki, vol. I, p. 212. Doubts about Hiuen Tsiang’s veracity have been emitted by Mr. Boyd, Nâgânanda, pp. ix—xi, who correctly states that the events narrated by him do not bear out his assertion that Harsha was a thoroughgoing Buddhist."
 
 or officer charged with the execution of the grant, was the *Mahâsâmanta-mahârâja* Skandagupta who held the office of *pramâtṛi*. This personage is probably the same Skandagupta who, according to Bâṇa[^429],was “the master of the elephant” at the death of Râjyavardhana and addressed to his prince the well-known speech full of political wisdom and historical allusions. The order to engrave the inscription was given by the chief of the mahâksḥapaṭalika’s office, or the great keeper of the records, sâmanta-mahârâja Îśvaragupta, and it was barried out by one Gurjara, whose name no doubt is derived from his caste.[^430]
 
@@ -3034,7 +2833,7 @@ L. 18. कृतसामन्तमहाराजेश्वरगुप्�
 
 **1** Metre of the first verse, Vasantatilakâ; of the second, Anushṭubh.
 
-(*father's*) feet (*was he*) who overspread the circle of the whole world with the canopy of his brilliant fame; who completely appropriated the lustre of the guardians of the world, Dhanada, Varuṇa, Indra and so forth; who gladdened the hearts of needy men by gifts of many excellent[^439](*pieces of*) land gained in a righteous manner; who was born from the queen possessing spotless fame, the illustrious Yaśomatî,—a most devout worshipper of Sugata, who like Sugata solely found pleasure in doing good to others, the supreme lord and supreme king of great kings, the illustrious Râjyavardhana; “By whom, plying his whip in battle, the kings Devagupta and others— who resembled wicked horses— were all subdued with averted faces; who, after uprooting his enemies, after conquering the earth, and doing what was agreeable to his subjects, in consequence of his adherence to his promise gave up his life in the mansion of his foe.” His younger brother who meditates on his (elder brother's) feet, a most devout worshipper of Maheśvara, who like Maheśvara is compassionate towards all created beings, the supreme lord and supreme king of great kings, the illustrious Harsha, addresses (this) order to the great feudal barons, the great kings, Daussâdhasâdhanikas[^440], is identical with dauḥsâdhika (see A. Weber, Hâla, 406, 557), it means perhaps “policeman,” or, as Professor Weber thinks, “doorkeepe..”"),Pramâtṛis[^441], and regarding the form pramâtâra, see above, p. 68."),viceroys, princes, ministers, Uparikas, rulers of districts, regular and irregular soldiers, servants and others, as well as to the provincials of the neighbourhood, assembled in the village of Somakuṇḍikâ which belongs to the district (*vishaya*) of Kuṇḍadhânî in the bhukti of Śråvastî :
+(*father's*) feet (*was he*) who overspread the circle of the whole world with the canopy of his brilliant fame; who completely appropriated the lustre of the guardians of the world, Dhanada, Varuṇa, Indra and so forth; who gladdened the hearts of needy men by gifts of many excellent[^439] (*pieces of*) land gained in a righteous manner; who was born from the queen possessing spotless fame, the illustrious Yaśomatî,—a most devout worshipper of Sugata, who like Sugata solely found pleasure in doing good to others, the supreme lord and supreme king of great kings, the illustrious Râjyavardhana; “By whom, plying his whip in battle, the kings Devagupta and others— who resembled wicked horses— were all subdued with averted faces; who, after uprooting his enemies, after conquering the earth, and doing what was agreeable to his subjects, in consequence of his adherence to his promise gave up his life in the mansion of his foe.” His younger brother who meditates on his (elder brother's) feet, a most devout worshipper of Maheśvara, who like Maheśvara is compassionate towards all created beings, the supreme lord and supreme king of great kings, the illustrious Harsha, addresses (this) order to the great feudal barons, the great kings, Daussâdhasâdhanikas[^440], is identical with dauḥsâdhika (see A. Weber, Hâla, 406, 557), it means perhaps “policeman,” or, as Professor Weber thinks, “doorkeepe..”"),Pramâtṛis[^441], and regarding the form pramâtâra, see above, p. 68."),viceroys, princes, ministers, Uparikas, rulers of districts, regular and irregular soldiers, servants and others, as well as to the provincials of the neighbourhood, assembled in the village of Somakuṇḍikâ which belongs to the district (*vishaya*) of Kuṇḍadhânî in the bhukti of Śråvastî :
 
 [^439]: "Pravaṇa cannot here have its usual meaning “inclining towards.” I take it in the sense of udâra which is given in some Koshas, and as a synonym of pravara. The latter torm is sometimes found in parallel passages of inscriptions."
 
@@ -3067,9 +2866,9 @@ and supreme king of great kings, His Majesty the illustrious Prabhâkaravardhana
 
  Moreover, “By those who profess (*to belong to*) the noble line of our race and by others this gift ought to be agreed to. Gifts and the protection of the fame of others (are) the result of fortune that is unstable like lightning or a water-bubble.” “With deeds, thoughts and words living beings should do their duty. Harsha has declared that an unsurpassable (mode of) acquiring spiritual merit.”[^446]
 
-Tlfe messenger (*charged with the order*) concerning this (grant is) the great feu dal baron, the great king Skandagupta; and (*the edict)* has been incised by Gur-jara at the command of the great chief of the office of records, the feudal baron, the great king Îśvaragupta, \[*Śrîharsha*-\]Saṁvat 25 Mârgaśîrsha, dark half, the sixth (*Junar day*).
-
 [^446]: " Both verses are Composed on the model of ancient ślokas, the first according to some commonly quoted in other grants, the second according to one from the Mahâbhârata, see Böthlingk, Indische Sprüche, No. 1560."
+
+Tlfe messenger (*charged with the order*) concerning this (grant is) the great feu dal baron, the great king Skandagupta; and (*the edict)* has been incised by Gur-jara at the command of the great chief of the office of records, the feudal baron, the great king Îśvaragupta, \[*Śrîharsha*-\]Saṁvat 25 Mârgaśîrsha, dark half, the sixth (*Junar day*).
 
 **XII.-THE DEWAL PRAŚASTI OF LALLA THE CHHINDA.**
 
@@ -3077,9 +2876,9 @@ Tlfe messenger (*charged with the order*) concerning this (grant is) the great f
 
  The Dewal Praśasti was originally discovered by Mr. II. S. Boulderson in 1829, at the village of Gaḍh Gajâna, on the west bank of the Kâvâ or Katnî stream, between Dewal and Deoriyâ,about twenty miles south-east of Pilibhit, in the North-Western Provinces.[^447]
 
-The inscription is incised with great neatness and care on a stone slab, measuring 3' 9" by 2' 1", and is in a state of almost perfect preservation. The characters are ancient Nâgarî, differing from the ordinary type of the tenth century only in that the loops on the left hand of na and ma are not closed, but represented by a curve. Similarly
-
 [^447]: "The document was first published with a translation in the Jour. As. Sor. Beng., vol. VI, p. 777, by Mr. J. Prinsep: according to a copy taken by Colonel Stacy. A facsimile of i. 1 and of the greater part of 1. 2 accompanies Prinsep’s paper. See also Prinsep’s Essays, vol. I, pp. 321-324. Later a complete facsimile was published by Sir A. Cunningham, Archeological Reports, vol. I, p. 354ff. The subjoined edition has been prepared according to an excellent paper impression taken by Dr. A. Führer, of the Archeological Survey, North-Western Provinces, and sent to me by the Editor."
+
+The inscription is incised with great neatness and care on a stone slab, measuring 3' 9" by 2' 1", and is in a state of almost perfect preservation. The characters are ancient Nâgarî, differing from the ordinary type of the tenth century only in that the loops on the left hand of na and ma are not closed, but represented by a curve. Similarly
 
 the left limb of ka in the group *ksha* is curved upwards. In all other respects the letters closely resemble those of the Paramâra, Râṭhor, and other inscriptions of the same period. As in most other inscriptions from Northern India, we find here no distinction between the letters ba and va, which doubtless were pronounced alike. In râjahansî, 1. 3, the dental na is substituted for the anusrâra. The letter pha has a very archaic form. Owing to the peculiarity mentioned above and guided by a peculiar interpretation of a statement of the copyist who in verse 36 call himself “acquainted with crooked letters” (kuṭilâksharâṇi), Mr. Prinsep has called the alphabet of this inscription the Kuṭila alphabet. It seems to me, however, that there is no sufficient reason for doing so I cannot see anything particularly crooked in any of the letters, and do not think it likely that the very slight modifications in three signs could have caused the alphabet to be designated by a special name. Moreover, if the writer says that he was acquainted with crooked letters, the natural interpretation of the phrase seems to be that it refers to his skill in reading badly written and difficult documents, not that he was acquainted with letters called Kuḷila. For there is nowhere else an indication that an alphabet of this name existed. Nor could the knowledge of such ordinary easily read characters as those of our inscription become the subject of a boast on the part of a professional scribe. If a writer wishes to extol his skill, he will of course say that he is proficient in the difficult local alphabets, used by the professional classes, such as the Moḍî, Lânde, &c., which all, indeed, are very “crooked” and are not easily deciphered. I would, therefore, remove the term *Kuṭila* alphabet from Indian palæography and describe the letters of the Dewal inscription as Nâgarî of the North Indian type.
 
@@ -3089,7 +2888,7 @@ The language is very high-flown Sanskrit, which, however, is not quite free from
 
  The pedigree of the former is given as follows:—
 
-![](../books_images/U-IMG-1698782834pahe98pic.JPG)  
+<MISSING_FIG href="../books_images/U-IMG-1698782834pahe98pic.JPG"/>  
 
  The allusion in verse 4 to Chyavana’s quarrel with Indra shows that the person intended is the mythical sage of the Bhârgava tribe, who according to the Vedic and Purânic legends married Sukanyâ, the daughter of king Śaryâta or Śaryâti, a son or descendant of Manu Vaivasvata. The Chhinda family would, therefore, seem to have claimed connexion with the Solar line of Kshatriyas. Its name occurs elsewhere only in the Jaina lists. It is found in the slightly different form Chhindaka in the *Ratna-*
 
@@ -3120,15 +2919,7 @@ The language is very high-flown Sanskrit, which, however, is not quite free from
 
 लक्ष्मीविभ्रमकेलिम सुभटव्यापारलीलास्पदं प्रख्यात -
 
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
-
 **L. 3. क्षितिपालरत्नजलधिः श्रीराजहन्सीसरः। सद्वीरव्रततीर्थमर्थिकुमुदप्रज्ञादनेन्दुर्हिष द्वंशभ्रंशदवानलो विजयतां छिन्दक्षितीशान्वयः॥ [\[३॥\]][^119]उत्पत्तिरस्य हि पुरा च्यवनान्महर्षेर्व्वग्क्तत्यलीककलिते त्रिदशाधिनाथे।**
-
-[^119]: "Metre, Śârdûlavikrîḍita."
 
 **तद्दर्प्पनिर्द्दलनदत्तकठो -**
 
@@ -3148,26 +2939,16 @@ The language is very high-flown Sanskrit, which, however, is not quite free from
 
 **शौर्यौदार्यविवेकधैर्यनिलयो यः सङ्गतः सज्जनैर्युक्तः सर्व्वगुणोदयेन महतामाराधनीयोभवत्॥[\[६॥\]][^456]**
 
-[^456]: "Metre, Šárdulavikrîḍita."
-
 **तस्मादत्युग्रतजःप्रसरनियमितारा -**
 
 **L. 6. तिपङ्गोपसंगः श्रीमांश्चण्डप्रतापः सकलवसुमतीभूषणं भूषणोभूत्।**
 
 **यस्योद्योगप्रसर्प्पहलभरदलितक्ष्मातलस्थस्थवीयः शेषाहिश्वासशीषादगमदिरिणतां निर्ज्जलं भोगिसद्म॥ [\[७॥\]][^200]**
 
-[^200]: "Metre, Sragdharâ."
-
 **यत्सैन्यगन्धगजगण्डगलन्मदाम्भः संजातचन्द्रकशतैरिव मुद्रि-  
 L.7. तासु।**
 
 **दूरे विपक्षकरिणो वनदन्तिनोपि भूयो न वारि जग्टहुः सरसीष्वरण्ये॥ [\[८\]][^113]**
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
 **यः सेबागतराजचक्रमुकुटोदृष्टांघ्रिपीठस्थलो भर्त्ता यश्चतुरम्वुराशिरशनालंकारवत्या भुवः।**
 
@@ -3181,17 +2962,9 @@ L.7. तासु।**
 
 **उद्यानैर्न्नन्दनाभैरतिविशदसुधासेकशुभ्रैः सुराणां प्रासादैरुन्नताग्रैरमरंपतिपुरीस्पड्विनीव विभाति॥ [\[१०\]][^200]**
 
-[^200]: "Metre, Sragdharâ."
-
 **L.9. तस्यानुजः समभवद्भवभक्तिनमः श्रीमल्हणः परिघपीवरवाहुदण्डः।**
 
 **भ्रातुः कृपाणतुलिताहितराजचक्रं यो लीलयैव धवलो धुरमावभार \[॥ [\[११॥\]][^113]**
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
 **ल\[ व्ध्व\]ा ततः स विपुलामपि राजलक्ष्मीं भक्तिं परामकृत देवगुरुद्विजेषु।**
 
@@ -3202,12 +2975,6 @@ L.7. तासु।**
 **तस्य प्रियापि चुलुकीखरराजवंशसम्भूतिरुज्वलगुणाभरणाभिरामा।**
 
 **गीता जगत्यणहिलेति समस्तकान्तशुद्धान्तवक्तमलेन्दुकला वभूव॥ [\[१३॥ \]][^113]**
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
 **तस्यां श्रीलल्लनामाजनि जनितमहामण्डलाधीशशङ्कः शूरः कुन्दे -**
 
@@ -3253,8 +3020,6 @@ L. 15.
 **        उचैर्देवालयानामुपरि सितपताकायमाना यदीया  
         कीर्त्तिर्भान्ता समन्तादनुनदि पुलिने राजहंसीयमाना ॥[\[१८॥\]][^465]**
 
-[^465]: "Metre, Sragdhara."
-
 **कष्टे काले कलावप्पभिभवति जगत्कूपवापीतडागै रासन्धारामसन्चैः सुरसदनमण्डिताया-ममुष्याम् ॥**
 
 **      रमग्रामृष्टिं वहन्त्या  
@@ -3286,8 +3051,6 @@ L. 17. गोरथेनेव येन मार्गोपदेशिन�
        भारामोद्यानवा पीषु देवतायतनेषु च ।  
        कृतानि क्रियमाणानि यस्याः कम्मणि सर्व्वदा \।[\[२५\]][^476]  
       दीनानाथविपद्धेषु करुणान्वितचेतसः ।**
-
-[^466]: "Metre, Vasantatilaka."
 
 [^476]: "Metro, Anushtubh."
 
@@ -3331,8 +3094,6 @@ L. 24.**
       दानादायस्य पादीपि श्रीलजेन सुकीत्तिना ॥ [\[ ३२॥ \]][^483]  
       प्रख्यातवत्समुनिवंशसमुद्र\[वो\] -**
 
-[^477]: "Metre, Anushtubh."
-
 [^483]: "Metre, Anushtabh. Read सुकीर्त्तिना."
 
 **L. 25.                        
@@ -3364,9 +3125,9 @@ L. 24.**
 
   1. May the husband of Pârvati protect you,-he by whom the mainfestation of a charm (*in the shape of*) the *Mahástotra*, was made in the three worlds that were greatly frightened at that time when the King of Serpents had his jewelled heads obliquely rent by the load of the earth that fell far away in consequence of the multitude of the mountain-plateaux bending under the weight of a gentle pressure of the tip of (*Siva's*) great toe-he who humbled the pride entertained by the ten-headed (*Rávaná*) on account of his strength and valour."[^489]
 
- 2. May the Daughter of the Mountain purify the universe-she the spotless splendour of whose throat has been gained through a multitude of pearls fallen from the frontal globes of the Dânava (who assumed the shape of) an elepliant (*and was*) wounded by (*her*) trident, she who wears as it were the halo surrounding the moon which is surpassed by her face[^490]."
-
 [^489]: "Idhave rendered the first huge epithet of Siva as literally as possible, because I do not know the myth to which it refers. Siva's encounter with Râvana is frequently alluded to in the Kayas."
+
+ 2. May the Daughter of the Mountain purify the universe-she the spotless splendour of whose throat has been gained through a multitude of pearls fallen from the frontal globes of the Dânava (who assumed the shape of) an elepliant (*and was*) wounded by (*her*) trident, she who wears as it were the halo surrounding the moon which is surpassed by her face[^490]."
 
 [^490]: "The demon who assumed the shape of an elephant is no doubt Mahishasura. According to the Devîmâhâtmya, Márkandeya Purâṇa, LXXIII, 30, the Asura turned himself also into a Mahâgaja. When speaking of the halo which surrounds the face of Pârvati, the poet may have thought of representations, such as are found in Moor's Hindu Pantheon, plate vii, where her head is surrounded by a glory. Chandropanita which I have taken as equivalent to chandraya upanita, may also stand for chandreņa upanîta. In the latter case it would indicate that the moon, found on Siva's crest, transferred bis halo to the goddess who is closely united with her husband in the form of Ardhanârî."
 
@@ -3466,9 +3227,9 @@ up her abode, foreseeing, as it were, (that it would be) the birth-place of high
 
 description of the pure virtues of illustrious Lallah, glitters in the hearts of the learnedlike a string of pearls.[^504]
 
- 36. And this (*eulogy*) has been written by the son of Vishnuhari, a Gauḍa clerk[^505] and 'a Government office. The latter meaning may be gathered from Hemathaudra's commentary on his Yogasdatra, III; 127 : यथोचितं स्थानम् । यथोचितमिति । यदा राजा तदा धवलगृह यदामात्यस्तदा करणं यदा बधिगादिरापणमिति ।"),called Takshaditya, who knows grooked letters.
-
 [^504]: "I am unable to render the pun in hridaye, which, if referred to the string of pearls, means 'ou the heart' or 'on the breast;' if referred to the verses in the heart' or 'in the mind.'"
+
+ 36. And this (*eulogy*) has been written by the son of Vishnuhari, a Gauḍa clerk[^505] and 'a Government office. The latter meaning may be gathered from Hemathaudra's commentary on his Yogasdatra, III; 127 : यथोचितं स्थानम् । यथोचितमिति । यदा राजा तदा धवलगृह यदामात्यस्तदा करणं यदा बधिगादिरापणमिति ।"),called Takshaditya, who knows grooked letters.
 
 [^505]: "Karaṇika 'clerk,' i.e. Kayastha, is derived from karana, which means both a written document' (see the Petersburg Dict. sub voce
 
@@ -3572,9 +3333,9 @@ description of the pure virtues of illustrious Lallah, glitters in the hearts of
 
 \[37.\] तपरिग्रहः शौर्य्यमप्रतिइतव्यापारमानमितप्रचण्डरिपुमण्डलमण्डलाग्रमिवावलम्बमानः शरदि प्रसभमाक्कृष्ट शिल[^524]
 
-\[38.\] सुखबाणासनापादितप्रलाधनानां परभुवां विधिवदाचारतकरग्रहणः पूर्वमेव विविधव- वर्णोज्वलेन श्रुतातिशयेनोशासितत्र[^525]
-
 [^524]: " Read ● शिलौ.."
+
+\[38.\] सुखबाणासनापादितप्रलाधनानां परभुवां विधिवदाचारतकरग्रहणः पूर्वमेव विविधव- वर्णोज्वलेन श्रुतातिशयेनोशासितत्र[^525]
 
 [^525]: "Read पुनःः. "
 
@@ -3847,7 +3608,7 @@ details from the modern Sâradâ of Kaśmir, the type is unmistakcable.This circ
 
 and Âhuka describing their piety and the cause which led to the erection of the temple, and naming their ancestors; (5) an account of various donations made by the founders, by Lakshmaṇachandra and by his mother, together with the usual blessing on those who uphold the grants and curses against those who scize them; (6) an account of the author of the Prasasti; (7) a notico, it would seem, of an additional donation, in prose; (8) the date. The fact that two Prakastis by the same author are found in one temple is unusual. It may be explained by the supposition that the various donations were not made at the same time. The first Prasasti, it would seem, was composed immediately after the temple had been built and the three grants, mentioned in it, had been made. Later, the lord of the village and his mother made also donations. This seems to have rekindled the zcal of the founders. They not only responded to the liberality of their masters by making some further endowments for the temple, but they also had again recourse to the skill of their poct, who now devoted still more verses to the chieftains of Kîragrâma than on the first occasion, and, of course, also duly sang the praises of the picty and liberality of his employers. This explanation is, I think, supported by some hints contained in the inscriptions. The composition of the Prasasti, which I have called No. I in accordance with Sir A. Cunningham's opinion, must be certainly assigned to the time immediately after the completion of the building, because it gives some details regarding the appearance of the latter, because it names the architects who constructed it, and because it begins with the hymn addressed to Siva and his spouse. It was a natural idea to compose such a poem on the consecration of the new temple. Later, it would have been of less significance. These considerations, it seems to me, definitively settle the chronological order of the two poems.
 
- If we now turn to the historical details which may be gathered from the two documents, those referring to the building of the temple are as follows. In Kîragrâma,either a large village or a small town which belonged to the kingdom of Jalandhara (I, 39; II, 6, 16) or Trigarta (II, 10, 18) and was situated on the river Kandukabindukâ (II, 10, the modern Binoa or Binwâ)[^560], lived two wealthy merchants, Manyuka and Âhuka, who were brothers (11, 26) and members of an undivided family (I, 28). They were the sons of Siddha (I, 27, 28; II, 23) and Chhinnâ (I. 27). Their grand-father was called Kâhila, the great-grandfather Pâhila, and the father of the latter Sahila (II, 28). Manyuka, the elder among them, had a wife, named Gulhâ (I, 28). Both were devout worshippers of Siva (I, 30; II, 8, 9, 26, 27-29), and their zeal for their faith induced them to build a temple for an ancient linga which stood in Kiragrâma and was called Vaidyanâtba[^561](II, 25). The temple consisted of a purí, or adytum, and of a Mandapa in front of that (I, 29; II, 25). It was adorned with numerous sculptures, such as the images of the Ganas, Siva's celestial attendants (I. 37), and at the gates stood statues or relievos of the rivers Gangâ and Yamunâ and of other divine beings (I, 29)[^562].The architects were Nayaka, son of Asika, of Susarmanagara, probably the modern Koț Kângrâ, and Thodhuka II., son of Sammana (I, 35-37). Immediately after its consecration, the temple received various endowments which, it would seem, were chiefly destined to defray the expenses of the religious services, and perhaps of the repairs
+ If we now turn to the historical details which may be gathered from the two documents, those referring to the building of the temple are as follows. In Kîragrâma,either a large village or a small town which belonged to the kingdom of Jalandhara (I, 39; II, 6, 16) or Trigarta (II, 10, 18) and was situated on the river Kandukabindukâ (II, 10, the modern Binoa or Binwâ)[^560], lived two wealthy merchants, Manyuka and Âhuka, who were brothers (11, 26) and members of an undivided family (I, 28). They were the sons of Siddha (I, 27, 28; II, 23) and Chhinnâ (I. 27). Their grand-father was called Kâhila, the great-grandfather Pâhila, and the father of the latter Sahila (II, 28). Manyuka, the elder among them, had a wife, named Gulhâ (I, 28). Both were devout worshippers of Siva (I, 30; II, 8, 9, 26, 27-29), and their zeal for their faith induced them to build a temple for an ancient linga which stood in Kiragrâma and was called Vaidyanâtba[^561] (II, 25). The temple consisted of a purí, or adytum, and of a Mandapa in front of that (I, 29; II, 25). It was adorned with numerous sculptures, such as the images of the Ganas, Siva's celestial attendants (I. 37), and at the gates stood statues or relievos of the rivers Gangâ and Yamunâ and of other divine beings (I, 29)[^562].The architects were Nayaka, son of Asika, of Susarmanagara, probably the modern Koț Kângrâ, and Thodhuka II., son of Sammana (I, 35-37). Immediately after its consecration, the temple received various endowments which, it would seem, were chiefly destined to defray the expenses of the religious services, and perhaps of the repairs
 
 [^560]: "The former name is given in the Kângra Gazetteer, p. 21, the latter by Sir A. Cunningham. The river is a tributary of the Vipâ§â or Biâs."
 
@@ -3861,7 +3622,7 @@ of the building. The Brâhman Ralhaṇa, an astrologer of Susarmapura[^563], son
 
  As regards the account of the Râjânakas of Kiragrâma No. II, verses 11-20, gives the following pedigree:-
 
-![](../books_images/U-IMG-1698591840122.jpg)
+<MISSING_FIG href="../books_images/U-IMG-1698591840122.jpg"/>
 
  Kanda is twice, called. (II, 11, 20) emphatically the founder of the family. The former verse says of him, that he was the root (*kanda*) of an incomparable family (*kula*) which resembles à Bakula trec, and the latter speaks of the servants of the lotus-feet of the kings of Trigarta, the first of whom was Kanda. As his eighth lineal descendant ruled about 800 A.D., he must have lived in the end of the sixth century of our era, or in the beginning of the seventh. Neither he himself nor any of his successors seems to have performed great deeds. The descriptions are purely conventional. Only with respect, to Dombaka it is hinted that he formed alliances with other kings, and regarding Bilhaṇa we learn that he married the daughter of his liege-lord Hridayachandra. The latter point is of some importance, as it shows that the Râjânakas[^564]of
 
@@ -3933,8 +3694,6 @@ L. 5.         यस्य \[T\] हिमालयो\[त्कर्ष\]प�
             तस्थानमन्ति चरणौ धन्या x केचन जन्तवः ॥ [\[ 8 \]][^477]  
             धन्ये\[र्न\]\[रैरू\]\[ग्र\]\[वधूस्सदेव \[त्व\] मुझसे \[भ\]क्ति **
 
-[^477]: "Metre, Anushtubh."
-
 **                                  
      भराभिराभेः ।**
 
@@ -3955,8 +3714,6 @@ L. 7. -       सत्यं भवानीशरणाभिलाविद�
 **से मि\[\]\[रवीणः[\[७॥\]][^579]  
 देशान्तर\]\[\]वकिल कम्यते ॥ [\[८\]][^477]  
 L.9.   प्रवरवरीचिचयचन्द्रवाचा बदनेम राजसितरामतिविषा ।**
-
-[^477]: "Metre, Anushtubh."
 
 [^579]: "Metre, Upajati. The s of opyupars is almost gone."
 
@@ -4031,8 +3788,6 @@ L. 16.  परमकारुणिक ॥ \[१८\]
 **          किमेतदाबर्यमवार्यवीर्ये यंदेष योधैर्युधि दुध \[र्वः\]:\[l\]**
 
 **L.20       र्धराणा धुरि यो मनोभू बंभूव तस्याप्यविधेय एव ॥ [\[२३\]][^590]**
-
-[^590]: "Metre of verses 21-22,upajati"
 
 **          भ्रद्येश्चरा मन्दपराक्रमत्वं मत्वा विपक्षैरवधारिताशाः \[l \]**
 
@@ -4137,9 +3892,9 @@ L. 35.     \[शककालगताब्दाः[\]
 
    Om, hail ! Om, obeisance to the two rulers of the Gaņas[^607]
 
- V. 1. Though, O Pasupati, I am ohly running after folly[^608], yet art thou, supreme lord, invoked by me who am subdued by great devotion, together with Gauri, in this hymn which possesses some portion of sentiment, sweet to the ear.
-
 [^607]: "The two rulers of the Ganas,"
+
+ V. 1. Though, O Pasupati, I am ohly running after folly[^608], yet art thou, supreme lord, invoked by me who am subdued by great devotion, together with Gauri, in this hymn which possesses some portion of sentiment, sweet to the ear.
 
 [^608]: "I translate kumatidra on the analogy of madḥudra, “a beo"
 
@@ -4159,10 +3914,10 @@ L. 35.     \[शककालगताब्दाः[\]
 
  *b*. Some blessed beings bow at the feet of her whose exceeding beauty enhances the excellence of the Himalaya.[^611]
 
+[^611]: "Separate with the first translation, yasya ahimâlayd utkarshaposhiņí tasyâ namanti. yasya himalayotkarshaposhini....tasya dhamanti:"
+
  5*a*. By blessed men, who are filled with devotion to Abhirâma (Siva), thou art always called, O Ugra, a female (Ardhandri) and thou art celebrated by the charming songs of poets as the remover of trouble**.**  
    *b.* By blessed men who are lovely on account of their great devotion, thou art ever called the bride of Ugra, and thou art celebrated by the songs of poets, charming through their style, as the remover of trouble.[^612]
-
-[^611]: "Separate with the first translation, yasya ahimâlayd utkarshaposhiņí tasyâ namanti. yasya himalayotkarshaposhini....tasya dhamanti:"
 
 [^612]: "Separate with the first translation, ugra vadhún kleś&pahariti manoharábbih with the second ugravadhúk klesûpahû rítimanoharabhih. As Abhirama is a name of Biva, see Goldstücker, Sanskrit Dictionary, aub voco. I take the compound bhaktibharabhiramain in the first translation to mean bhaktibharah abhirdme yeshim taip. In the second I have rendered its usual sense, bhaktibharendbhirdmaih. But I should not wonder if Abhirama were a name of Parvati and the real sense were "
 
@@ -4170,9 +3925,9 @@ L. 35.     \[शककालगताब्दाः[\]
 
  *b.* Bhavânî, indeed, is. able to fulfil the wish of those who, approaching the hour of death, do not care for the towns of the gods, (*but*) seek (*her*) protection.[^613]
 
- 7*a*. Thou alone standest, indeed, even above Hari, who again and again takes repose in the ocean, who drank the stream (*of blood*) from (*the body of*) the demon slain in a playful fight, and who possesses a brilliancy of fierce'strength.
-
 [^613]: "Separate with the first translation in pâda 3, satyam bhavân íta raṇābhildshiṇâm; with the second satyam bhavâní tarandbhildehindm."
+
+ 7*a*. Thou alone standest, indeed, even above Hari, who again and again takes repose in the ocean, who drank the stream (*of blood*) from (*the body of*) the demon slain in a playful fight, and who possesses a brilliancy of fierce'strength.
 
   *b.* Thou alone ridest, indeed, even on a lion, who again and again is lying (ourled up) like & ring, who drinks the streams of the blood of those slain (by thee) in the battleplay, and who possesses fierce power[^614].
 
@@ -4182,9 +3937,9 @@ L. 35.     \[शककालगताब्दाः[\]
 
   *b.* On account of thy appearance whích gladdens the hearts of those possessing impurity (*as their*) chief (element), thou art, indeed, called the minute (Śakti) residing in many different bodies.[^615]
 
- 9*a.* Thou art exceedingly resplendent with thy countenance surpassing the goddess Sri and beautified through the (c*rescent of the*) moon from which numerous rays issue forth; the immortals worship in manifold.wise thy feet, the abode of a multitude of. qualities, smallness and so forth.
-
 [^615]: "Separate with the first translation malddihrit-aydhladi-darsanatoh with the second bahudehantarastha-anuḥ. The darsana intended is the Saiva philosophy of the Kasmiriana."
+
+ 9*a.* Thou art exceedingly resplendent with thy countenance surpassing the goddess Sri and beautified through the (c*rescent of the*) moon from which numerous rays issue forth; the immortals worship in manifold.wise thy feet, the abode of a multitude of. qualities, smallness and so forth.
 
  *b.* Thou art exceedingly resplendent with a countenance which surpasses the goddess Śrf and which is beautiful like the moon from which a multitude of rays issue forth; the immortals worship thy feet, the abode of a multitude of good qualities, great redness and so forth[^616].
 
@@ -4208,34 +3963,34 @@ L. 35.     \[शककालगताब्दाः[\]
 
  *b*. Thou art in these three worlds the supreme deity of women who lead (men) into danger and whose glances flash like a quivering bow.[^619]
 
- 14*a.* Thou, Mṛida, hast been able to grant a glorious, imperishable body to those who, adorned with three eyes, seek eternal bliss.
-
 [^619]: "With the second translation it is necessary to read the second line, as it is printed; with the first to separate trailokye astrijano. I take astré, literally not female, as an equivalent of vira. For the second meaning compare Bálarâmdyaṇa, X. sl. 46."
+
+ 14*a.* Thou, Mṛida, hast been able to grant a glorious, imperishable body to those who, adorned with three eyes, seek eternal bliss.
 
  *b.* Thou, Mṛidânî, hast been able to grant a glorious, imperishable body to those who, adorned with three eyes, seek thy protection.[^620]
 
- 15*a.* Who else, lord of Gaurî, is able to protect from delusion any one who complains of the great pain (caused) by the concurrence of a crowd of misfortunes?
-
 [^620]: "With the first translation separate mrida anisaraṇaishinâm, with the second mridâni śaraṇaishiņām."
+
+ 15*a.* Who else, lord of Gaurî, is able to protect from delusion any one who complains of the great pain (caused) by the concurrence of a crowd of misfortunes?
 
  *b.* Gaurî rules him who complains of the great pain (caused) by the concurrence of a crowd of misfortunes; who else is able to protect any one?[^621]
 
- 16*a.* Šarva, thy devotees obtain a power of making themselves small, which surpasses every thing; be gracious, O creator, quickly free (us) from the circle of births.
-
 [^621]: "With the first translation separate in the second line, gaurîsa asti, with the second g aurî §deti."
 
+ 16*a.* Šarva, thy devotees obtain a power of making themselves small, which surpasses every thing; be gracious, O creator, quickly free (us) from the circle of births.
+
  B. Šarvâņi, thy devotees reach a dwelling that surpasses all others; be gracious,Mother, &c.[^622]
+
+[^622]: "With the first translation separate sarva animânam with the second sarvâņi mânam. The word mana, rendered by "
 
  17*a.* We bow at the feet of him who feels deep affection for the elephant-faced  
 (Ganesa), whose (terrible) appearance bewilders all, (and) whose eye has burnt Oupid.
 
-[^622]: "With the first translation separate sarva animânam with the second sarvâņi mânam. The word mana, rendered by "
-
  **b.** We bow at the feet of thee, who feelest deep affection for the elephant-faced god,whose beauty"charms every body (and) whose looks kindle love.[^623]
 
- 18. Hearing, O (*god*) free from (all) taint, that, O lord, thou hast thus been praised together with Umâ by me, Râma, make this exertion truly fruitful, most compassionate one!
-
 [^623]: "With the first translation separate in the second line yasya áste, with the second yasydh te."
+
+ 18. Hearing, O (*god*) free from (all) taint, that, O lord, thou hast thus been praised together with Umâ by me, Râma, make this exertion truly fruitful, most compassionate one!
 
  19. By the grace of Śiva and Sivâ may fulfilment attend the desire of those, too, who with devotion recite this praise of Gauri and Îévara (*that*) by a single expression (*always conveys a double sense*).
 
@@ -4273,9 +4028,9 @@ others.
 
  32. By that chief of astrologers have been given to Śiva two dronas of grain from Navagrâma, where the surface of his land (has) the measure of one Vaha.[^626]
 
- 33. Moreover, by an inhabitant of this (village, Kiragrâma), wise Gaṇeśvara, the son of the Brahman Govinda, has been given to this (*Śiva*) (*a piece of*) land from Navagrâma (*measuring*) half a plough.
-
 [^626]: "A saha is equal to four dronas and the meaning is that ralhanas land in navagrama required four dronusof seed-corn"
+
+ 33. Moreover, by an inhabitant of this (village, Kiragrâma), wise Gaṇeśvara, the son of the Brahman Govinda, has been given to this (*Śiva*) (*a piece of*) land from Navagrâma (*measuring*) half a plough.
 
  34. Further, by the son of Depika and Malhikâ, the very wealthy merchant Jivaka, has his own land been presented to Siva for the courtyard in front (*of the temple*).
 
@@ -4330,8 +4085,6 @@ L.9
           तो भ्रातरी कृतज्ञौ याभ्यां शमदम\[प\]योधरयुतायाः ।  
           शि\[व\]भक्तिजनन्धा \[अ\] पि रसं-**
 
-[^477]: "Metre, Anushtubh."
-
 [^629]: " Metre, Sragdhar&; —gajdsyo and kurutdh are very uncertain."
 
 [^630]: "Metre, Anushtubh"
@@ -4349,8 +4102,6 @@ L.9
 L. 11.          रग्रामोभिलमो गुणगणनिलयो वर्ततुधिविगंत  
         .सोयं राजानुकेन प्रबलभुजयु\[ज रचि\]तो लक्ष्मणेन ॥ [\[१०॥\]][^471]  
         अतुलकुलबकुलपी\[दप \] कन्द ४ प.  
-
-[^471]: "Motre, Sragdhara."
 
 [^635]: "Metre, Âryà."
 
@@ -4451,8 +4202,6 @@ L. 28.                   मात्रा राजानकस्य लक�
           लक्ष्मणस्य सुकृतं सुकृती य पालयिष्यति तदन्वयधर्ता ।  
           तस्य पु-**
 
-[^643]: "Metre, Arya."
-
 **L. 29.समुपयात विष्ठद्वि यो हरिष्यति स गच्छृत चाधः ॥ [\[३२॥\]][^651]  
 तैलोत्पीडनयन्तं कीरग्रामेस्ति मन्युकाकयीः ।  
 ताभ्यां तदपि शिवाय  
@@ -4504,9 +4253,9 @@ bow"— (*reflecting*) thus repeatedly, we worship in astonishment the two feet 
 
  9. Grateful are these two brothers who tasted together also the milk of their (*second*) mother, the faith in Siva, of her whose breasts are tranquillity and self-conquest.[^656]
 
- 10. There is in Trigarta the pleasant village of Kîragrâma, the home of numerous virtues, where that river called Kandukâbindukâ, leaping from the lap of the mountain, with glittering broad waves sportively plays, thus resembling a bright maiden in the first bloom of youth (*who jumping from the lap of her nurse gracefully sports*). That (*village*) is protected by the strong-armed Râjânaka Lakshmaṇa.
-
 [^656]: "The text has a pun on tasa' milk and sentiment' which has not been rendered in the translation."
+
+ 10. There is in Trigarta the pleasant village of Kîragrâma, the home of numerous virtues, where that river called Kandukâbindukâ, leaping from the lap of the mountain, with glittering broad waves sportively plays, thus resembling a bright maiden in the first bloom of youth (*who jumping from the lap of her nurse gracefully sports*). That (*village*) is protected by the strong-armed Râjânaka Lakshmaṇa.
 
  11. There lived in the beginning Râjânaka Kanda, the root *(kanda*) of a peerless race that resembles a Bakula tree, (*he who was*) a destroyer of his foes, a conqueror of towns, an untamable Skanda.
 
@@ -4532,9 +4281,9 @@ bow"— (*reflecting*) thus repeatedly, we worship in astonishment the two feet 
 
  20-21. The whole territory which Kanda possessed and the other servants of the lotus-feet of the kings of Trigarta, the destroyers of the foes of Âsanda, belongs at present to holy Lakshmaṇa, who protects the inhabitants and whose pure actions are worthy of praise.[^659]
 
- 22. While that Lakshmaṇachandra, whose dear wife was Mayatalla-a lady of peerless beauty-protects Kîragrâma,
-
 [^659]: " These two verses, as also the next two, forin a Yugma or Fugaluka. The epithet sadhu, 'holy' which Lakshmaṇa receives, ja explained by verses 21-26 of No. I."
+
+ 22. While that Lakshmaṇachandra, whose dear wife was Mayatalla-a lady of peerless beauty-protects Kîragrâma,
 
  23, Two pious, happy sons of the merchant, named Siddha, live here; the elder one has the name Manyuka, but the younger one they call Âhuka.
 
@@ -4542,9 +4291,9 @@ bow"— (*reflecting*) thus repeatedly, we worship in astonishment the two feet 
 
  25. By those two, who saw this linga of Śiva, called Vaidyanatha, destitute of a dwelling, has it been provided with a templo and has a *Manḍapa* been erected in front of that.[^660]
 
- 26. When Manyuka and Âhuka formerly dwelt in the same womb, they both announced their determination not to enter again into a womb, speaking thus:
-
 [^660]: "Lingas, standing in the open, are frequently found in the north of India. Thus I remember having seen three very large ones not far from Ushkar in Kašmir, which stand in the middle of the forest. If purî means here a temple, that is easily explained by the tower-like shape of the adytum of the Indian temples."
+
+ 26. When Manyuka and Âhuka formerly dwelt in the same womb, they both announced their determination not to enter again into a womb, speaking thus:
 
  27. "Though Śambhu is compassionate like a father, yot he is more than a father; for a father is the immediate cause of (*one's*) birth, (*but*) the god with the moon on his crest is the cause of the cessation of births."
 
@@ -4552,9 +4301,9 @@ bow"— (*reflecting*) thus repeatedly, we worship in astonishment the two feet 
 
  29. In short, may the remaining twenty men (*of their family*) all reach Elysium in consequence of this pious work, but may the highest state be (*the reward*) of these two.[^661]
 
- 30. And daily six drammas of the money collected in the custom-house have been allotted by Rajânaka Lakshmanachandra to this Vaidyanâtha.[^662]
-
 [^661]: "The verse refers to the belief that a particularly pious deed ensures the joy of heaven to the performer as well as to ten ancestors and ten descendants. All the latter may reach this goal, but the donors themselves desire moksha."
+
+ 30. And daily six drammas of the money collected in the custom-house have been allotted by Rajânaka Lakshmanachandra to this Vaidyanâtha.[^662]
 
 [^662]: "The European dictionaries do not give for mandapikd the meaning a custom-house.' But its existence is proved by various passages in the inscriptions, compare, e. g., the term maṁḍarika ante p. 7 and by the analogy of its modern represent. ative mandavi which is a common term for custom-house' in Marathi, Gujarati and other vernaculars."
 
@@ -4564,9 +4313,9 @@ bow"— (*reflecting*) thus repeatedly, we worship in astonishment the two feet 
 
  33. The oilmill, too, in Kîragrâma (*which*) belongs, to Manyuka and Âhuka, has been given by them to Siva in order to provide for the lamps (of his temple).[^663]
 
- 34. Moreover one shop of theirs has been presented for the enjoyment of Śiva and (*a piece of*) good land, four ploughs, situated in Navagrâma.
-
 [^663]: "The meaning is that the Telis who worked the oilmill had either in lieu of rent to furnish gratis the oil for the lamps of the temple or that the whole net income of the oilmill was to go to the temple for the purpose stated."
+
+ 34. Moreover one shop of theirs has been presented for the enjoyment of Śiva and (*a piece of*) good land, four ploughs, situated in Navagrâma.
 
  35. Whatever pious gift. has thus been made by anybody for the sake of Śiva, may that last for his (*benefit*) as long as this earth (*exists*).
 
@@ -4594,9 +4343,9 @@ a doubt the Jinavallabha, whom the Paṭṭávali of the Kharatara gachchha name
 
   ओं संवत् १२८६ वर्षे फागुण वदि ५ रवौ कीरग्रामे ब्रह्मचवगोवोत्पत्रव्यव• मानूपुत्राभ्यां व्यदोल्हणाल्हणाभ्यां स्वकारितश्रीमन्महावीरदेवचैत्ये॥[^667]
 
- श्रीमहावीरजिनमूलबिंब आत्मश्रेयो\[र्थं\] कारितं । प्रतिष्ठितं च श्रीजिनवज्ञमसूरिसंतानीयरुद्रपनीयत्री-मदभयदेवसूरिशिष्यैः श्रीदेवभद्रसूरिभिः ॥[^668]
-
 [^667]: "प्रतिष्ठितं ओर्च चभ्रों the and य of कोरयामि cur are connected and form a misshaped group; read व्रह्म above श्व a mâtra out by mistake, has been obliterated; possibly the correct reading is मातृपुत्राभ्यां waarat, & and being absolutely undistinguish-able in the alphabet of the inscription."
+
+ श्रीमहावीरजिनमूलबिंब आत्मश्रेयो\[र्थं\] कारितं । प्रतिष्ठितं च श्रीजिनवज्ञमसूरिसंतानीयरुद्रपनीयत्री-मदभयदेवसूरिशिष्यैः श्रीदेवभद्रसूरिभिः ॥[^668]
 
 [^668]: "L. 2.-The □ of it has been destroyed; the ar of warſ has been damaged."
 
@@ -4641,9 +4390,9 @@ KANGRA BAZAR.**
 
   Om (In) the year 30.[^677]
 
- In the Rajakula *gachchhâ* was a Sūri (*called*) Abhayachandra. His pupil wasnamed Amalachandra. A bee at the lotus of his feet (*was*) Siddharâja; from him (*sprang*) Dhanga: from Dhanga was born Chashtaka.
-
 [^677]: "As the characters of this inscription are ancient Saradâ, closely resembling those of the Baijnath Prasastis, the year 30 of the Saptarshi or Laukika era, which is mentioned in our document, probably falls in the ninth century and corresponds to 854"
+
+ In the Rajakula *gachchhâ* was a Sūri (*called*) Abhayachandra. His pupil wasnamed Amalachandra. A bee at the lotus of his feet (*was*) Siddharâja; from him (*sprang*) Dhanga: from Dhanga was born Chashtaka.
 
  His wife was Ralhâ .....From her were born two sons wholly devoted to the law, taught by the Jina. The eldest brother was called Kuṇḍala ka; the youngest was named Kumara. This effigy...... has been made with the permission......
 
@@ -4688,8 +4437,6 @@ of our inscription refers,------------------self, and that this prince first def
 8        कांति[^643]संवलितं । भीतेंद्रनिहितधनुरिव शुशुभ मादांडु (बु) जहिता\[व\]  
 9      [\[प\]रः][^690]")। त्यक्ता स्वानमिवायातः पुनर्झथनशंकितः॥ भास्तां[^691]किं. व(ज)द्वे
 
-[^643]: "Metre, Arya."
-
 [^681]: "Metre, Sloka ( Anushtubli
 
 [^682]: " Metre, Sārdūlavikridita."
@@ -4712,15 +4459,13 @@ of our inscription refers,------------------self, and that this prince first def
 
 10            पुनर्येन श्रीक्षितिपालदेवनृपतिः सिंहासने स्वा[^692]
 
+[^692]: "i.e. स्थापित."
+
 11             
 त्सादि[^693].")तारातिशक्तिकीर्त्तिविभूषणः ॥ प्रस  
 12                 \[ दूर \] स्थैरन्तिकस्यैञ्च[^643]- सातपचनृ [\[प\]][^695]  
 13                                  
  \[जत्व\]ज -- \[ध्दितं\]
-
-[^643]: "Metre, Arya."
-
-[^692]: "i.e. स्थापित."
 
 [^693]: "Metre, Sloka (Anushtubh
 
@@ -4749,9 +4494,9 @@ exception of a few aksharas which can be readily supplied) well preserved;but th
  The inscription appears to have been set up after the death, of Yasovarman; for, in verse 44, we are introduced to his son Dhanga, who, in verse 45, is represented as ruling the earth as far as Kâlañjara, and as far as Bhaavat, situated (?) on the banks of the river of Malava; up to the banks of the river ndi (or Yamunâ), and to  
 the frontiers of the Chedi country, and even as far as the Mountain Gopa, or Gopådri, These localities indicate, then, the extent of the Chandella king the prince Dhanga; and that kingdom) accordingly, exter in the north to the frontiers of the Chedi kingdom int the east or north-east to Gopâdri, the modern Gwâlior, judging from the way in which it is introduced, should looked for, op te to Kâlañjara, in the west or south-west, and I would therefore identify it with Bhalla. svâmin or Bhailasvâmin, the modern Bhilsa on the river Vetravati or Betwa, from near which was issued the grant of the Chandella Madanavarmadeva of the year 1190.[^698]
 
- Attention may here be drawn also to the interesting verse 43 of the inscription. According to it, Yaśovarman bad received the image of Vaikuṇṭha, which He se up in the temple founded by him, from Devapâla, the son of Herambapâla. Heram bapâla in turn had obtained it from Sâhi, the king of Kira, who had received it from the lord of Bhota, who again had got it from the Kailasa. Devapâla is called hayapati, which may mean either the lord of horses', employed (*like aéva-pati*) as a title, or 'the lord of the Hayas'; however this may be, there can, I believe, be no doubt that the Devapâla, here spoken of, is the same Devapâla who is mentioned as a paramount sovereign (of Kanauj) and as the successor, of Kshi ipâladeva, in the Siyadoni inscription, with the date (Vikrama) Samvat 1005. Th. Kiras have, as I have stated elsewhere,[^699]by some been identified with the Kaśmiras, while in the *Bṛihatsamhitá,* XIV, 29, they are separately enumerated as a people inhabiting the north-east, together with the Kaśmiras. Bhota, according to Lassen[^700], is the modern Tibet.
-
 [^698]: "See Indian Antiquary, vol. XVI, p. 202."
+
+ Attention may here be drawn also to the interesting verse 43 of the inscription. According to it, Yaśovarman bad received the image of Vaikuṇṭha, which He se up in the temple founded by him, from Devapâla, the son of Herambapâla. Heram bapâla in turn had obtained it from Sâhi, the king of Kira, who had received it from the lord of Bhota, who again had got it from the Kailasa. Devapâla is called hayapati, which may mean either the lord of horses', employed (*like aéva-pati*) as a title, or 'the lord of the Hayas'; however this may be, there can, I believe, be no doubt that the Devapâla, here spoken of, is the same Devapâla who is mentioned as a paramount sovereign (of Kanauj) and as the successor, of Kshi ipâladeva, in the Siyadoni inscription, with the date (Vikrama) Samvat 1005. Th. Kiras have, as I have stated elsewhere,[^699]by some been identified with the Kaśmiras, while in the *Bṛihatsamhitá,* XIV, 29, they are separately enumerated as a people inhabiting the north-east, together with the Kaśmiras. Bhota, according to Lassen[^700], is the modern Tibet.
 
 [^699]: " See ib. vol. XVII, p. 9."
 
@@ -4761,14 +4506,14 @@ the frontiers of the Chedi country, and even as far as the Mountain Gopa, or Gop
 
 **TEXT.**[^701]
 
+[^701]: " from impressions taken by Dr. Bargens."
+
 L. 1. ओं नमो भगवते वासुदेवाय ॥  
 दधानानेकां यःकिरिपुरुषसिं\[होभय\] जुषं त\[दा\] कारोच्छेद्यां तनुमसुरमुख्यानजवरात् ।  
 जघान त्रीनुग्राब्ज(ज्ज)गति कपिलादीनवतु वः सः वैकुण्ठः कण्ठध्वनिचकतमिःशेषभुवन \।\।[^702]-\[1\]  
 पायासुर्व्व(र्व्व) (ञ्च)नव्यतिकरे देवस्य विक्रान्तयः  
 सद्यो तदेवदानवनुतास्तिस्रस्त्रि \[लो\] कीं  
 2.                           **हरेः।**
-
-[^701]: " from impressions taken by Dr. Bargens."
 
 [^702]: "Metre sikharini"
 
@@ -4845,8 +4590,6 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 कर्माणि रोमांचजुषः समेताः समूर्ध्दकम्पं क्षितिपा\[:\*\] स्तुवन्ति ॥[^718]– \[16\].  
 तत्वानुजन्मा तनयं राहिलास्थमजीजनत् । निद्राद-
 
-[^466]: "Metre, Vasantatilaka."
-
 [^716]: " Originally क्षौरीब्ध०; read क्षौराब्धे०."
 
 [^717]: " Metre, Arya."
@@ -4884,8 +4627,6 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 पापालापेनभिक्षां निजगुणगणनाप्रक्रमेष्वप्रगल्भः ।  
 शून्यःपे(पै) शन्यवादेनृतवचनसमुञ्चारणे जातिमूकः  
 सर्व्वत्रैवं स्वभावप्रथितगुणतया नाम \[कः[स्तू\]][^725] यतेसौ ॥[^465] – \[20\].
-
-[^465]: "Metre, Sragdhara."
 
 [^725]: " The first of these two aksharas is quite illegible in the impressions."
 
@@ -4998,8 +4739,6 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 \[यो\] लक्षव\[र्म\]नृप\[ते\]: शरदिन्दुकान्तमाख्यातुमिच्छति यथः[प्रस\[रं\]][^746]वचोभिः ।  
 दीपप्रभापरिचयेन विमुग्धवु\[बु\] चिर्मध्यन्दिने दिवसनाथमुदीचतेसो ॥[^747] – \[37\]
 
-[^720]: " Metre, Sloka (Anushtubh
-
 [^742]: " Metre, Vasantatilaka."
 
 [^744]: " Metre, Sarddiavikridita."
@@ -5036,8 +4775,6 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 दृष्टे यात्रासु यत्र तृ(त्रि)दिववसतयोविस्मयन्ते समेता:56[^750]॥—\[42\]  
 कैलाशा(सा) द्भोटनाथः सुहृदिति च ततः कीरराजः प्रपेदे द्भो
 
-[^466]: "Metre, Vasantatilaka."
-
 [^750]: "Metre, Sragdharand of the next verse."
 
 **25.**साहिस्तस्मादवाप' द्विपतुरगव(ब) लेनानु हेरम्व(म्ब) पालः।  
@@ -5063,16 +4800,12 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 रुचिराक्षरा प्रशस्तिःकरणिकजहेन गौडेन[॥⁶¹[^599]—\[48\]  
 पाताद्भू—
 
-[^599]: "Metre, Arya"
-
 [^753]: " Metre, Vasantatilaké; and of the next verse."
 
 **28.**मिपतिः पृथ्वीं तयोधर्म्म\[:\]61प्रवर्हतां।नन्दन्तु गोद्विजन्मान\[:\]प्रजा प्राप्नोतु निर्वृतिम्‌^(62[^693]"))॥—\[49\]  
 सम्ब म्वत्सरदशश्ते शतेषु एकादशाधिकेषु सम्ब म्वत्‌ १०११ उत्कीर्ण्णाचेयं रू\[पका\]र. . . . . . . . . . . .^(63[^756])।  
 . . . . . . . . . श्री \विनायक[?⁶⁴[^757]\]पालदेवे” पालदेवे^(65[^758])पालयति\[वसु\]धां वसुधान धि\[ध?\]ग\[ता\]  
 निर्द्दग्ध\[वि!\]\[वै?\]रि \[भि।\] \[ब \[भः\] नमो भगवते वासुदेवाय ॥ ॥नमः सवित्रे॥
-
-[^693]: "Metre, Sloka (Anushtubh
 
 [^756]: "Here from 10 to12 akeharas are illegible in the impressions."
 
@@ -5092,9 +4825,9 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 
  (4.) Deep like the oceans, pleasing like the moon, radiant with the brilliancy of the sun, firm like the Creator, great like the noblest of mountains, munificent like the trees of paradise,—tell me truly, if anywhere there has been another lord, charming ; with a multitude of spotless excellencies unchangeable to the end of the world, equal to Yaśovarman.!⁶⁶[^759]
 
- (5.) From Nature unmanifested (*and*) changeless there procceded here the Great One; from that was born Self-consciousness, which engendered the group of the organs (*upagraha*); from that in due order the Subtile Elements took their origin, and from them the Gross Elements; from them afterwards proceeded the World.⁶⁷[^760]
-
 [^759]: "The abovegives the general meaning of the verse, I believe, correctly ; but the first half of it doesnot admit of a proper construction."
+
+ (5.) From Nature unmanifested (*and*) changeless there procceded here the Great One; from that was born Self-consciousness, which engendered the group of the organs (*upagraha*); from that in due order the Subtile Elements took their origin, and from them the Gross Elements; from them afterwards proceeded the World.⁶⁷[^760]
 
 [^760]: "Compare, e.g., the Sănkhya Aphorisms of Kapila, translated by Ballantyne, 3rd Ed., p. 71; Davies, HindûPhilosophy, pp. 20 and 21, 35, 64. The word उपग्रहof the text appears to denote the five organs of sense, the five organs of action"
 
@@ -5155,9 +4888,9 @@ feebleness, and where the attainment of the objects desired has not tended to th
 
  (33.) The people, among whom the notion of his being a human being had been banished by his manliness, certainly did absolve his fame from all blame for going to the sea, afraid as it was of incurring censure by coming in contact with other men, and of never obtaining rest if it were constantly to roam about.[^761]
 
- (34.) By (*having given birth to*) this steadfast (*prince*), Kañchhukâ alone in this world carried her head erect (*with pride*) at the birth of a son, just as Devakîdid by (*giving birth to*) the enemy of Madhu.
-
 [^761]: "According to Manu, III, 158, those who undertake voyages by sea, deserve censure and should be avoided.—I should have expected the particle इतिto connect the two halvesof the verse, and am inclined to read यस्येति पौरुष, instead of यस्यातिपौरुष."
+
+ (34.) By (*having given birth to*) this steadfast (*prince*), Kañchhukâ alone in this world carried her head erect (*with pride*) at the birth of a son, just as Devakîdid by (*giving birth to*) the enemy of Madhu.
 
  (35.) Since the wives of the Siddhas sing his fame, the ornament of all faultless rulers, (*which is*) charming by reason of (*his*) heroism, generosity, wisdom, and a multitude of other spotless qualities,— to laud him, that sun in scattering the enemies, is like illumining the thousand-rayed (sun), when it has clearly manifested the three worlds.
 
@@ -5207,9 +4940,9 @@ Adoration to the holy Vasudeva ! Adoration to the Sun!
 
  Dhaṅgadeva of the year 1059 (No. IV, below), been re-engraved from a more ancient copy.[^763]
 
-**TEXT.[^764]**
-
 [^763]: "This, too, appears formerly to have been the opinion of Sir A. Cunningham : see Jour.Beng. As. Soe,vol, XXXII, p. 274. In Archaol. Survey of India, vol. XXI, p. 67, the same scholar has taken the truedate tobe “Saṁvat 1111, orA.D. 1054, in which year Vaiśâkha su.di 7 did fall on Monday, the 18th April.” in reality, however, Vaiśâkha su.di7, inA.D. 1054, fell on Sunday, April 17."
+
+**TEXT.[^764]**
 
 [^764]: "From the impression taken by Dr. Burgess."
 
@@ -5293,8 +5026,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 **विष्टपविकटवटानामजायमानाय वीजभूताय। रुद्राय नमः पालनविलयकृते निःक्रियायापि²[^769]॥^(3[^135]-)\[1\].  
 तूर्ण्णंघूर्ण्णति यत्रगोत्रसि(शि)खरिव्यूहः समूहः पत -**
 
-[^135]: "Metre, Âryâ."
-
 [^769]: " Read निस्क्रि"
 
 ** त्यत्यावर्त्तितमूर्त्तिरार्त्तविरुतं कुर्व्वन्कुप्कुम्भिनाम्‌।**
@@ -5334,16 +5065,12 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 तंदडभांडखंडाभ्यां द्यांभुवं विदधे धिया\।  
 5.**
 
-[^157]: "Metre, Śârdûlavikrîdita."
-
 [^776]: "Metre, Śikhariṇî. This verse has been omitted inJour. As. Soc. Beng. vol. VII, p. 168."
 
 **व्र(ब्र)ह्मा व्रा(ब्रा)ह्मनिधीन्‌ पुत्रान् मरीच्य ि\[त्र\]मुखान्मुनीन्‌ ॥ ¹⁰-[^168].") \[8\].  
 मध्ये तेषां प्रहततमसां मानसानां सुनीनां श्रीमानत्रिः प्रथितंमहिमा नेत्रपात्रेप्रसूतम्‌।  
 यस्य ज्योतिःपटलजटिलं मंडलं वन्द्यमिन्दोश्चंद्रात्रेयः समजनि मुनिस्तस्य पुत्रः पवित्रः ॥¹¹-[^779] \[9\].  
 दूरापास्तसमस्तसंशयविपर्यासप्रकामोज्व(ज्ज्व)लज्ञानालोकविलो -**
-
-[^168]: "Metre, Śloka (Anushṭubh
 
 [^779]: "Metre, Mandâkrâutâ."
 
@@ -5386,10 +5113,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 तस्मादुदारकीर्त्तेरजनि जनानंदसुंदरः श्रीमान्‌।  
 तनयो विनयनिधानं वाक्यतिरिव वाक्पतिः क्षितिपः॥²²-[^135]- \[16\].  
 
-[^135]: "Metre, Âryâ."
-
-[^168]: "Metre, Śloka (Anushṭubh
-
 [^788]: "Metre, Rathoddhatâ,."
 
 9.  
@@ -5398,12 +5121,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 तस्य क्ष्मातिलकस्य लोकतिलकः पृथ्वीपतेर्भूपतिः\।  
 स श्रीमान्विजयी जयाय जगतां जज्ञे कृतज्ञः सुतः \।  
 यस्योदात्तमतेःप्रसूतिसमये धाम्ना महिम्नां निधेः**  
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
 **10.  
 सानंदं सुरसंदरीभिरवनौ क्षिप्ताःसलाजाः श्र(स्र) जः॥²⁴[^791]-- 18\].  
@@ -5430,8 +5147,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 प्रसन्नेतत्र भूपाले प्रसरच्चित्रभानवः। ना\[थ\]वन्तोर्थिनां वर\[सां³⁰\]सरोषे द्विषदालयाः॥³¹[^168].")-\[29\].  
 कोशपानमसिधा(वा)रयोषितां नाभिभूतजनरत्नसंपदां।  
 
-[^168]: "Metre, Śloka (Anushṭubh
-
 [^794]: "Originally विहिततमा, altered to विहिततमा."
 
 [^795]: " Metre, Âryâ."
@@ -5443,8 +5158,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 स श्रीहर्षोरिहर्षज्वरहरणमणिः क्षीणनिःशेषदोषः  
 सन्तोषाय प्रजानामजनि निजभुजाश्रान्तविभ्रान्तकीर्त्तिः ॥³³-[^200]-24\].  
 
-[^200]: "Metre, Sragdharâ."
-
 13  
 यं दृष्ट्वैवकृपाणपाणिमकृकतव्यापारभा\[र॑ \]युधि  
 क्रोधाक्रान्तविलोचनौ(नो)त्पलदलभ्रूभंगभीमाननम्‌।  
@@ -5452,8 +5165,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 सुखात्कीर्त्तयो  
 दिग्भ्यः साध्वसवेपमानवपुषां नष्टाः परेषां क्रमात्‌॥³⁵[^799]- \[25\].  
 तेनाच्युतेन भीमेन व(ब)लेन कृतवर्म्मणा। समुद्रपरिखा पृथ्वीपुरीसू(शू)रेण रक्षिता ॥³⁶[^168].")-\[26\].  
-
-[^168]: "Metre, Śloka (Anushṭubh
 
 [^798]: "The akshara ङ्गा ismere guess; on the stone it is entirely gone."
 
@@ -5465,8 +5176,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 दूरा[\[पा\]][^803] [^803]स्तप्रवरतुरगैर्दूरमुक्तातपत्रेदूरायातैः सपदि शिरसा \[शा \]सनं धारयद्भिः \।  
 तस्य द्वारि द्विरदमदनिःस्यदपंकां[^805]**
 
-[^183]: "Metre, Vaṁśastha."
-
 [^801]: "Read बहिष्कृत."
 
 [^803]: "This akshara, पा, isalmost entirely gone."
@@ -5474,8 +5183,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 [^805]: "Read ° निख्यन्द०."
 
 **15.कितायां सेधा(वा) हेतोःप्रणतिपरमैराशि(सि)तं भूमिपालैः ॥⁴¹[^400]-\[ 28\].**
-
-[^400]: " Metre, Mandâkrântâ."
 
 .............................................................................
 
@@ -5512,12 +5219,6 @@ of stone (vv. 48-51). He also distributed great quantities of gold (v. 52), and 
 **50.** The stone originally had सुधाव(?)धवलंत्वचित्रम्‌, but the akshara following upon सुधा has certainly been struck out, and the same appears to be the case with the two signs for anusrâra.—‘ Eternal is (the ocean), the home of the again and again rising moon and of thechief of serpents; pleasing is the (white) jasmine-flower and the court of heaven.  
 He in a wonderful manner brought about both these things by his fame (which is imperishable and bright); the whole earth is bright with the whiteness of white mortar (filled as it is with has bright fame).’
 
-[^126]: "Metre, Rathoddhatâ."
-
-[^135]: "Metre, Âryâ."
-
-[^168]: "Metre, Śloka (Anushṭubh
-
 [^808]: " Read सचंद्रोत्पलं - ‘herpair of eyes was a lotus illuminated by the moon."
 
 [^809]: "This akshara, in the original, appears to be णि, altered to ण."
@@ -5546,10 +5247,6 @@ He in a wonderful manner brought about both these things by his fame (which is i
 व(ब)भौ मदान्धान्दमयन्त्यनिन्दिता मदालसाभून्न पुनः कथंचन ॥⁶²- \[41 \।.  
 सा देवीनरदेवाद्देवाधिपतेः स(श)चीवसच्चरित्रं (तं)  
 तस्मादसूत पूतं जयंतमिव [\[धं \]][^820]गमंगभुवम्‌ ॥⁶⁴[^135]- \[42\].**
-
-[^135]: "Metre, Âryâ."
-
-[^382]: " Metre, Śloka (Anushṭubh
 
 [^816]: " Metre, Śârdûlavikrîḍita; and of the next verse."
 
@@ -5591,8 +5288,6 @@ He in a wonderful manner brought about both these things by his fame (which is i
 यस्याभंकषकालधौतकलसप्रान्तत्सं (त्स्यं)\।  
 27.मेरोः सृं (शृं)गमतुंगमेव मनुतेचित्रीयमाणोरुणः ॥⁷⁶[^830]--\[50).  
 भत्या भवस्य नूनं शिल्पिस(श)रीरेषु कृतसमावेशः \।**
-
-[^168]: "Metre, Śloka (Anushṭubh
 
 [^823]: "Read क्षल"
 
@@ -5656,8 +5351,6 @@ He in a wonderful manner brought about both these things by his fame (which is i
 विज्ञानविश्वकर्त्राधर्म्माधारेण सूत्रधारेण।  
 च्छि(क्वि)च्छा \[भि\]धेन विदधे प्राशा(सा)दः[^839]प्रमथनाथस्य ॥⁸⁸-[^795]- \[60\].  
 
-[^795]: " Metre, Âryâ."
-
 [^837]: "Metre, Śârdûlavikriḍita,."
 
 [^838]: " Metre, Śikbarinî."
@@ -5690,10 +5383,6 @@ He in a wonderful manner brought about both these things by his fame (which is i
 कायस्थो जयवर्म्मदेवनृपतेरीशस्य वि (बि) \[भ्र \] त्कलाः  
 साहित्यांवु(बु)धिवं(बं)धुरुहततमोरुन्धव्रनिद्यद्युतिः⁹⁸॥ --\[64\].  
 
-[^200]: "Metre, Sragdharâ."
-
-[^404]: "Metre,Śloka(Anushṭubh
-
 [^842]: "This akshara might be read नाor ता."
 
 [^844]: " Read ०द्विपानां."
@@ -5725,11 +5414,11 @@ of the letters and the general state of preservation of this record, is given by
 
 **Text**¹[^847]
 
+[^847]: "From the impressions taken by Dr. Burgess."
+
 L1. ॐनमः शिवाय॥ ²[^848]स्फूर्य(र्ज)त्फा(त्स्फा)रफणाकलापविकश(स)ड्मीमस्फटाभासुरं ।³[^849] भाख(स्व)  
 त्तारतरात्ति(ति)रेकविलसच्चन्दार्हच्चि(चि)ङ्कीकृतं । प्रोद्यल्लोलविलोचनानलमिलब्बा(ज्ज्वा) लावलीपिङ्गक।  
 वन्दे सुंद–
-
-[^847]: "From the impressions taken by Dr. Burgess."
 
 [^848]: "Metre, Sardulavikridita;and of the two next verses."
 
@@ -5906,7 +5595,7 @@ Brahman, the indestructible, ageless, immortal, others the verily auspicious Bud
 
  The two subjoined inscriptions¹[^857]are engraved on a small monolittic temple, which is situated on a turn of the road leading up to the Gwalior Fort.The temple was described by General Cunningham, according to whom it is now called the Chaturbhuja Temple.²[^858]Thefirst inscription, which is engraved over the front door of the temple, seems to have hitherto remained unnoticed.A rough transcript and translation of the second inscription, which is found inside the temple on the left wall³[^859]was published by Dr. Râjendralâla Mitra.⁴[^860] My transcripts of the two inscriptions were made from mechanical copies taken during a visit to Gwalior in 1885.  
  The first inscription consists of 27 Sanskrit verses and must have been composed by an ingenious paṇḍit, who was well versed in alaṁkâra, His extravagant hyperboles will appear startling and amusing even to one accustomed to the usual kâvya style. We learn from the inscription that the Vishṇu temple containing it was built by a certain Alla, the son of Vâïllabhaṭṭa and grandson of Nâgarâbhaṭṭa, and that it was consecrated in the year982 (in words). Nâgarabhaṭṭa belonged to the Varjâra family and had, immigrated from Ânandapura in Lâṭamaṇḍala, i.e. Vaḍnagar in Gujarât. Vâïllabhaṭṭa had been chief of the boundaries (maryâdâ-dhurya) or margrave in the service of (king) Râmadeva (verse7). Alla succeeded his father in office (v. 11), and ' was appointed to the guardianship of Gopâdri, i.e. of the Gwalior Fort, by (king) Śrîmad-Âdivarâha (v. 22).  
- The second inscription is written in incorrect Sanskrit prose and dated in the year 983 (in words and figures), at Śrî-Gopagiri (i.e. the Gwalior Fort) and during the reign of the parameśvara Bhojadeva. Alla is here directly called the guardian of the fort (koṭṭapâla) of Gopagiri. The inscription records four donations to two temples, which had been built by Alla, the son of Vâïllabhaṭṭa, The donee of the first grant was the Navadurgâ Temple situated beyond the Vṛiśchikâlâ river; this is probably another name of the river Subanrikh5[^861](Suvarṇarekhâ ?) at Gwalior. The two donees of the three remaining grants were the same Navadurgâ Temple and “the Vishṇu temple called Vâïllabhaṭṭa-svâmin, which Alla had likewise caused to be built on the descent of the road of the illustrious Bhojadeva.” By this we have to understand the temple, at which both inscriptions are found. It had evidently received its name in commemoration of Vâïllabhaṭṭa, the father of its founder. The four donations were made by the inhabitants of ‘the place” (sthâna), i.e. the ancient town of Gwalior, which lies on the eastern side of tho fort. They consisted of a piece of land for a flower-garden, two fields, a monthly supply of lamp-oil to be made by the guild of oil-millers, and a monthly supply of flower-garlands to be made by the guild of the gardeners,
+ The second inscription is written in incorrect Sanskrit prose and dated in the year 983 (in words and figures), at Śrî-Gopagiri (i.e. the Gwalior Fort) and during the reign of the parameśvara Bhojadeva. Alla is here directly called the guardian of the fort (koṭṭapâla) of Gopagiri. The inscription records four donations to two temples, which had been built by Alla, the son of Vâïllabhaṭṭa, The donee of the first grant was the Navadurgâ Temple situated beyond the Vṛiśchikâlâ river; this is probably another name of the river Subanrikh5[^861] (Suvarṇarekhâ ?) at Gwalior. The two donees of the three remaining grants were the same Navadurgâ Temple and “the Vishṇu temple called Vâïllabhaṭṭa-svâmin, which Alla had likewise caused to be built on the descent of the road of the illustrious Bhojadeva.” By this we have to understand the temple, at which both inscriptions are found. It had evidently received its name in commemoration of Vâïllabhaṭṭa, the father of its founder. The four donations were made by the inhabitants of ‘the place” (sthâna), i.e. the ancient town of Gwalior, which lies on the eastern side of tho fort. They consisted of a piece of land for a flower-garden, two fields, a monthly supply of lamp-oil to be made by the guild of oil-millers, and a monthly supply of flower-garlands to be made by the guild of the gardeners,
 
 [^857]: "This paper is a revised version of one which I published in the Zeitschrift der Deutsch. Morgeniiind. Gesellach. vol. XL, p. 26. j"
 
@@ -5980,6 +5669,7 @@ TEXT.
 
 [^872]: "Read द्वाविंश."
 
+                                 
 TRANSLATION.
 
 Oṁ. (Verse 1.) May that Vishṇu destroy your sins, having seen whose foot, when he was going to stride (the three worlds), the horses of the sun did not pacethe lofty sky for along time, as they seemed to be afraid, that, vying with theGaṅgâ, theflood of the waters of the Yamunâ, which resembles dense darkness, or that the ridgeof theVindhya (mountain) had risen again, in order to obstruct their path in the heavenly sphere!  
@@ -6019,6 +5709,7 @@ of spiritual merit, which bears endless fruit²⁴, the permanent abode of the g
 
                          SECOND INSCRIPTION.  
 
+                                
 TEXT.  
 
  (L.1.) ओंनमो विष्णवे॥ सम्बत्सरशतेषुनवसु त्त्रयस्त्रिङ्श[^874]दधिकेषु माघशुक्लद्वितीयायां सं ९३३ माघशुदि २ अद्येहश्रीगोपगिरौस्वामिनि।  
@@ -6078,6 +5769,7 @@ TEXT.
 
 [^886]: "There follows an illegible scrawl, which fills the remaindor of line 23 and four further lines."
 
+                               
 TRANSLATION.  
 
 Oṁ. Adoration to Vishṇu! In the year nine hundred and thirty-three, on the second day of the bright (half) of Mâgha,—Saṁ\[ vat\] 933, Mâgha śudi2—to-day, here at Śrî-Gopagiri, while the parameśvara Śrî-Bhojadeva was the ruler, while the guardian of the fort (koṭṭapâla) Alla commanded this (Gopagiri), while Tattaka commanded the army (and) while the merchant Vavviyâka, the trader Ichchhuvâéka, and the other (members) of the board (? vâra) of the Savviyâkas were administering the city, the whole town gave to the temple of the nine Durgâs, viz. of Rudra, Rudrâṇî, Pûrṇâśâ, &c., which Alla, the son of Vâillabhaṭṭa, had caused to be built on the further bank of the‘ Vṛiśchikâlâriver, a piece of land belonging to the village of Chûḍâpallikâ, which was its (viz,the town’s) property, two hundred and seventy royal hastas—hasta 270—in length (and) one hundred and eighty-seven hastas—hasta 187—in breadth, for a flower-garden, on an auspicious day.  
@@ -6087,7 +5779,7 @@ Oṁ. Adoration to Vishṇu! In the year nine hundred and thirty-three, on the s
 
 **PALÆOGRAPHIC ALPHA BET OF THE SIVASKANDAVARMAN GRANT.**  
 
-![](../books_images/U-IMG-1710154041EP-4.png)
+<MISSING_FIG href="../books_images/U-IMG-1710154041EP-4.png"/>
 
  (Ll. 5—-11.)  And this same town gave in this same year, on the first day of the dark half of Phâlguna, to the Vishṇu temple called Vâïllabhaṭṭa-svâmin, which Alla had likewise caused to be built on the descent of the road of Śrî-Bhojadeva, and to the above mentioned temple of the nine Durgâs, for the performance of worship, the field cultivated¹⁶by Dallaka, the son of Saṅgaḍaka, in the chief grain-land (?mûlâvâpa) of the common¹⁷called Vyâghrakeṇḍikâ, in the villageof Jayapurâka, which was its (viz. the town’s) property, and on the north of this same field, the field cultivated by Memmâka, the son of the Kshatriya Devavarman¹⁸the seed required for which two (fields) is eleven droṇas of barley according to the measure of Gopagiri;¹⁹—the boundaries of these two fields are: on the east, the field cultivated by Naüḍâka; on the south, a piece of rock²⁰ ;on the west, near the field of Dallaka, a piece of rock, and near the field of Memmâka, a water-channel,²¹which leads to the north and runs round the ficld; on the north, a road and a small piece of rock ;—the two fields, thus defined by their four boundaries, on an auspicious day.  
  (11—17.)  And in this same year, on the ninth day of the dark half of Phâlguna, (the town) gave to the two above-mentioned temples a perpetual endowment²²to the effect that, in order (to provide) oil for the lamps, the chiefs of the oil-millers, who dwell in Śrî-Sarveśvarapura, (viz.) Sarvasvâka, the son of Bhochchâka, Jyâśakti, the son of Mâdhava, Sâhulla, the son of Śivadhari, and Gaggîka, the son of Saṅgâka; the chiefs of the oil-millers, who dwell in Śrîvatsasvâmipura, (viz.) Siṅghâka, the son of Kuṇḍâka, and Khohaḍâka, the son of Vallüka; the chiefs of the oil-millers, who dwell in Chachchikâhaṭṭikâ and Nimbâdityahaṭṭikâ, (viz.) Jajjaṭa, the son of Detivika, Goggdka, the son of Vachchhilléka, Jambeka, the son of Deddika, and Jambahari, the son of Rudrata, and the other (members) of the whole guild of oil-millers should give one palikd of oil per oil-mill²³on the ninth day of the bright (half) of every month.  
@@ -6126,7 +5818,7 @@ Murâri (Vishṇu).
 **THEFIRST PART**
 
 To treat fully of the language of the first part, would require almost a separate treatise. The author or authors, though intending to write Sanskṛit, had a very meagreknowledge of the grammar of that language; they were evidently influenced by, and have freely employed words, phrases, and constructions of, their vernacular.  
-  As regards orthography, bhas throughout been denoted by the sign for v; and the dental sibilant has often been employed for the palatal.³[^889]The sign of the jihvâmûlîya occurs twenty-two times, almost exclusively in the phrases **यङ्कश्चित्**and **यङ्कोपि**. The sign of the upadhmânîya has becn correctly employed six times (e.g., in **स्माभि–पर०**, line 5, and **भित्त–पश्चिमेन**, line 13); but it has also been wrongly inserted three times (in **धूर्मट–परि** ०, line 18,line 28, and ° **निष्कलङ्क–परि** ०, line 29), and probably erroneously omitted twice (inº**भित्ति–पश्चिमेन**, line 25, and otf **रेभि प्रदत्ता**, linc 35). Of individual words, the numera **ति**has throughout been spelt तृ(in तृभाग,Gut, lines 24, 29, 30, and **तृभुवन** ०, lines 25 and 27); **संमार्जन** throughout **सन्मार्जन**⁴[^890](e.g., in lines 3, 6, 8, etc.) ; **कालीन** throughout **कालिन** (e.g., in lincs 3, 6, 20, etc.); and similarly we have **भोगाधिना** in line 38, for **भोगाधीना,** In line 8, we twice have **अश्विन** for **आश्विन**; throughout, frequently, **अवासनिका**, apparently for **आवासनिका** (e.g., in lines 7, 8, etc.) ; and similarly a short vowel has been employed instead of a long one, and vice versâ, occasionally in other words. For **वष्टी**we have wet **षष्टी**twice in linc 17, and perhaps also in some of the compound numerals; for **ताम्बूलिक** (line 15), **ताम्बोलिक** in lines 25 and 26; for **वैखानर**, **वैखान्दर**in line 12. Through the influence of the vernacular, we havo **वणिक** throughout for **वणिज्‌; भीती** in line 24 for **भित्ति** (lines 18 and 26) ; **सिरिधर** in line 39 for **श्रीधर** (linc 37); **कल्लपाल** and **कलपाल** in lines. 9 and 19, for **कल्पपाल** ;etc.
+  As regards orthography, bhas throughout been denoted by the sign for v; and the dental sibilant has often been employed for the palatal.³[^889]The sign of the jihvâmûlîya occurs twenty-two times, almost exclusively in the phrases **यङ्कश्चित्**and **यङ्कोपि**. The sign of the upadhmânîya has becn correctly employed six times (e.g., in **स्माभि–पर०**, line 5, and **भित्त–पश्चिमेन**, line 13); but it has also been wrongly inserted three times (in **धूर्मट–परि** ०, line 18,line 28, and ° **निष्कलङ्क–परि** ०, line 29), and probably erroneously omitted twice (inº**भित्ति–पश्चिमेन**, line 25, and otf **रेभि प्रदत्ता**, linc 35). Of individual words, the numera **ति**has throughout been spelt तृ(in तृभाग,Gut, lines 24, 29, 30, and **तृभुवन** ०, lines 25 and 27); **संमार्जन** throughout **सन्मार्जन**⁴[^890] (e.g., in lines 3, 6, 8, etc.) ; **कालीन** throughout **कालिन** (e.g., in lincs 3, 6, 20, etc.); and similarly we have **भोगाधिना** in line 38, for **भोगाधीना,** In line 8, we twice have **अश्विन** for **आश्विन**; throughout, frequently, **अवासनिका**, apparently for **आवासनिका** (e.g., in lines 7, 8, etc.) ; and similarly a short vowel has been employed instead of a long one, and vice versâ, occasionally in other words. For **वष्टी**we have wet **षष्टी**twice in linc 17, and perhaps also in some of the compound numerals; for **ताम्बूलिक** (line 15), **ताम्बोलिक** in lines 25 and 26; for **वैखानर**, **वैखान्दर**in line 12. Through the influence of the vernacular, we havo **वणिक** throughout for **वणिज्‌; भीती** in line 24 for **भित्ति** (lines 18 and 26) ; **सिरिधर** in line 39 for **श्रीधर** (linc 37); **कल्लपाल** and **कलपाल** in lines. 9 and 19, for **कल्पपाल** ;etc.
 
 [^889]: "I consider it sufficient to state this andsome of the following points once for all, and shall not cousider it necessary to correct every error of this sort in the transcript of the text."
 
@@ -6329,6 +6021,8 @@ THESECONDPART.
 
 TEXT[^893]
 
+[^893]: "From impressions supplied to me by the Editor."
+
 ** 1. ओं**[^894]**ओंममो भग\[व\]ते वासुदेवाय ....¹⁹[^895]\[या?\] .............................................²⁰[^896]  
 धिरा\[ज?\] — — — ...........^(21[^897]) \[देवपा?\] ............²²[^898][][^898]हाराजाधिराजपरमेश्वर\।\[श्री\]— \[ हेन्द्र\]पालदेवपादा\[नां\]²³म\[हीप्र\] -**  
 ** 2. वर्द्धमानकल्याणविजय— \[ज्ये?\]\[सं\] —— \[रस\] तेषु²⁴नवसत षष्ट्यधिकेषु श्राव..........²⁵[^900]सम्वत्‌ ९६० श्राव\[ण\].........²⁶[^901]गताशेषमहा\[श\]व्दम\[हा\]सामन्ताधिपति \[श्रीमदु\]— \[ न्द्र? \].....²⁷[^902] \[भु\]ज्यमानस्त\[त्पादाधिष्ठित\] \[व?\]....²⁸ञ्च\[कु?\]....²⁹[^903][][^903] \[कौ\]प्तिके श्रीपश्च\[स्था?\]....³⁰[^905]\[क?\] द्वाविंसतिकच्छितराकयोर्व्वारे \[सतीदृसे\] का \[ले वर्त्तमाने वार?\]प्रमु \[ख?\] -  
@@ -6342,8 +6036,6 @@ TEXT[^893]
 23 I have littledoubt that thepreceding passage originally was:--घिराजपरमेश्वरश्रीभोजदेवपादानुध्यातपरमभट्टारकमहाराजाधिराजपरमेश्वरश्रीमहेन्द्रपालदेवपादानां as below, line 4.  
 24 I.e., विजयराज्येसंवत्सरशतेषु.-Forthe following नवसत (i.e. नवशत, 900,) onewould of course expect to read नवसु ‘nine,’ but, the dates below are given in the same way.With regard to षष्यधिकेषु, it isdifficult to say whether the actual reading of the stone, here and below, is षष्ट्य० or षष्ठ्या.  
 28 Here also about 5 aksharas are gone. The following aksharas श्च\[कु?\] are the remainder ०0 प्रञ्चकलं.
-
-[^893]: "From impressions supplied to me by the Editor."
 
 [^894]: "Expressed by a symbol."
 
@@ -6519,28 +6211,26 @@ TEXT[^893]
 
 [^970]: "Read उपार्ज्जना."
 
-  28. गदेवस्तथा महसोणः समस्ततैलिकानां घ्राणकं घ्राणकं प्रतिदिन[^972] महन्तधर्म्मार्थहेतोः तैलपलिका प्रदत्ता ॥ ![](../books_images/U-IMG-1699721964Screenshot(43).png)॥ परमभ**ट्टा**रकमहाराजाधिराजपरमेश्वरश्रीक्षितिपालदेवपादानुध्यात![](../books_images/U-IMG-1699722054Screenshot(44).png) प[^973]रमभट्टार- \[क^(x)\]महाराजाधिराजपरमेश्वरश्रीदेवपालपादानां महीप्रव**र्त**मानकस्याणपविजयराज्ये सम्वत्सराणां सहस्रैकं प**चो**त्तरं माघमासशुक्लपक्षपञ्चम्यां सम्वत् १००५ माघ शुदि ५ अद्येह
+  28. गदेवस्तथा महसोणः समस्ततैलिकानां घ्राणकं घ्राणकं प्रतिदिन[^972] महन्तधर्म्मार्थहेतोः तैलपलिका प्रदत्ता ॥ <MISSING_FIG href="../books_images/U-IMG-1699721964Screenshot(43"/>.png)॥ परमभ**ट्टा**रकमहाराजाधिराजपरमेश्वरश्रीक्षितिपालदेवपादानुध्यात<MISSING_FIG href="../books_images/U-IMG-1699722054Screenshot(44"/>.png) प[^973]रमभट्टार- \[क^(x)\]महाराजाधिराजपरमेश्वरश्रीदेवपालपादानां महीप्रव**र्त**मानकस्याणपविजयराज्ये सम्वत्सराणां सहस्रैकं प**चो**त्तरं माघमासशुक्लपक्षपञ्चम्यां सम्वत् १००५ माघ शुदि ५ अद्येह
 
 [^972]: "In my opinion, one would expect either प्रति प्रतिदिनं, or only प्रति ; see below, line 31."
 
 [^973]: "Read ०ध्यातपरम०."
 
-29.श्रीमत्सीयडोणिपत्तने 'महाराजाधिराजश्रीनिष्कलङ्क![](../books_images/U-IMG-1699722054Screenshot(44).png)प[^974]रिभुज्य\[मा^(x)\]ने भण्डपिकायां सोहपादिपञ्चकुलं स्थानानुमतेन पा**दू**देदेकयोर्व्वारेसतीदृसे काले वर्तमाने दोसि**द**ह समस्तमहाजनेन एकमतीभूत्वा महान्तधर्म्मार्थहेतोर्व्वणिकविक्रमेन[^975]प्रतिष्ठापितवीभा**दू**लस्वामिदेवस्य प्रदत्तं मासान्मासं प्रति द्रन्मस्य तृभागं[^956] तृ १ देयमिति ॥ ![](../books_images/U-IMG-1699721964Screenshot(43).png)॥ तथा सूत्रधारजेजपस्तथा विसिआकस्तथा भलुआकस्तथा जो \[गू\] -
-
-[^956]: " Read त्रिभागं त्रि."
+29.श्रीमत्सीयडोणिपत्तने 'महाराजाधिराजश्रीनिष्कलङ्क<MISSING_FIG href="../books_images/U-IMG-1699722054Screenshot(44"/>.png)प[^974]रिभुज्य\[मा^(x)\]ने भण्डपिकायां सोहपादिपञ्चकुलं स्थानानुमतेन पा**दू**देदेकयोर्व्वारेसतीदृसे काले वर्तमाने दोसि**द**ह समस्तमहाजनेन एकमतीभूत्वा महान्तधर्म्मार्थहेतोर्व्वणिकविक्रमेन[^975]प्रतिष्ठापितवीभा**दू**लस्वामिदेवस्य प्रदत्तं मासान्मासं प्रति द्रन्मस्य तृभागं[^956] तृ १ देयमिति ॥ <MISSING_FIG href="../books_images/U-IMG-1699721964Screenshot(43"/>.png)॥ तथा सूत्रधारजेजपस्तथा विसिआकस्तथा भलुआकस्तथा जो \[गू\] -
 
 [^974]: "Read ०लङ्कपरि०."
 
 [^975]: " Read विक्रमेण."
 
- 30.\[क\] द्रकादीनां समस्तआहाडसम्वहसिलाकूटानां[^977]एकमतीभूत्वा श्रीविष्णुभट्टांरकस्य भरणं भरणं प्रति विग्रहपालंद्रन्मस्य तृभागं तृ१ अच[^978]न्द्राक्ककालिनं यावमोक्तव्यं यत्कञ्चित्परिपन्थना करोति स च महापातकपञ्चकैर्भिप्यति ॥ ![](../books_images/U-IMG-1699721964Screenshot(43).png)॥ तथा सम्वत् १००८ माघ शुदि ११ अद्येह सीयडोणिपत्तने महाराजा- धिराजश्रीनिष्कलङ्गस्तत्पादाधिष्ठितपुरंदरादिपञ्चकुलं मण्डपिकायां
+ 30.\[क\] द्रकादीनां समस्तआहाडसम्वहसिलाकूटानां[^977]एकमतीभूत्वा श्रीविष्णुभट्टांरकस्य भरणं भरणं प्रति विग्रहपालंद्रन्मस्य तृभागं तृ१ अच[^978]न्द्राक्ककालिनं यावमोक्तव्यं यत्कञ्चित्परिपन्थना करोति स च महापातकपञ्चकैर्भिप्यति ॥ <MISSING_FIG href="../books_images/U-IMG-1699721964Screenshot(43"/>.png)॥ तथा सम्वत् १००८ माघ शुदि ११ अद्येह सीयडोणिपत्तने महाराजा- धिराजश्रीनिष्कलङ्गस्तत्पादाधिष्ठितपुरंदरादिपञ्चकुलं मण्डपिकायां
 कौप्तिकमाधवः स्थानाधिष्ठित- तुण्डिप्रद्युअयोर्व्वारे
 
 [^977]: "One would expect here the Instrumental case."
 
 [^978]: "Read त्रिभागं त्रि१ आच०"
 
- 31. इहाधिष्ठाने चण्डूप्रतिष्ठापितश्रीविष्णुभट्टारकायतने पुरन्दरेण प्रतिष्ठापितपश्चिमाभिमुख श्रीचक्रस्वामिदेवस्य दीपतैलार्थेइह निवासी तैलिकानां केसवस्तथा दुर्ग्गादित्यस्तथा के\[ सु \]लाक उजोणेक तुण्डिआकादीनां[^979]महान्तधम्मार्थहेतो[^980]घा[^980]णकघाणकं प्रति तैलपलिका प्रदत्ता य**न्क**श्चित्परिपन्थना करोति स च नरकं व्रजति ॥ ![](../books_images/U-IMG-1699721964Screenshot(43).png)॥ तथा पूर्व्वसूचित नेमकवणिकपप्पाकेन देदडासुतेन यत्प्रतिष्ठापित श्री\[च\] -
+ 31. इहाधिष्ठाने चण्डूप्रतिष्ठापितश्रीविष्णुभट्टारकायतने पुरन्दरेण प्रतिष्ठापितपश्चिमाभिमुख श्रीचक्रस्वामिदेवस्य दीपतैलार्थेइह निवासी तैलिकानां केसवस्तथा दुर्ग्गादित्यस्तथा के\[ सु \]लाक उजोणेक तुण्डिआकादीनां[^979]महान्तधम्मार्थहेतो[^980]घा[^980]णकघाणकं प्रति तैलपलिका प्रदत्ता य**न्क**श्चित्परिपन्थना करोति स च नरकं व्रजति ॥ <MISSING_FIG href="../books_images/U-IMG-1699721964Screenshot(43"/>.png)॥ तथा पूर्व्वसूचित नेमकवणिकपप्पाकेन देदडासुतेन यत्प्रतिष्ठापित श्री\[च\] -
 
 [^979]: "Here again I should have expected the Instrumental case,"
 
@@ -6552,18 +6242,18 @@ TEXT[^893]
 
 [^983]: "Comparing line 7 above, one would expect hereअवासनिकायाश्चाघाटानि, and below प्रदत्ता."
 
-  33. जति ॥ स्वहस्तोयं महादित्यमोहलयोः ॥ ![](../books_images/U-IMG-1699721964Screenshot(43).png)॥ तथा पूर्व्वसूचित स \[म्वत् \] ९९१ माघ शुदि१०
-नगाकःवाण्डू[^984]सुतस्तथा \[दे^(x)\]दैकस्तथा वालिस्तथा **रु**दाक जाजूसुतास्तथा छितराकःसावासुत एकमतीभूत्वा स्वकीयस्वकीयच्छाया महान्तधर्म्मार्थहेतो![](../books_images/U-IMG-1699722328Screenshot(44).png)पूर्व्वाभिमुखा अवासनिका अपसरकप्राङ्गणसहिता अस्याघाटानि[^985]पूर्व्वेण निष्कासप्रवेसहारोष्ठकं दक्षिणेन विषयणकहपसत्कावासनिका पश्चिमेन कविलासत्क\[अवा\]-
+  33. जति ॥ स्वहस्तोयं महादित्यमोहलयोः ॥ <MISSING_FIG href="../books_images/U-IMG-1699721964Screenshot(43"/>.png)॥ तथा पूर्व्वसूचित स \[म्वत् \] ९९१ माघ शुदि१०
+नगाकःवाण्डू[^984]सुतस्तथा \[दे^(x)\]दैकस्तथा वालिस्तथा **रु**दाक जाजूसुतास्तथा छितराकःसावासुत एकमतीभूत्वा स्वकीयस्वकीयच्छाया महान्तधर्म्मार्थहेतो<MISSING_FIG href="../books_images/U-IMG-1699722328Screenshot(44"/>.png)पूर्व्वाभिमुखा अवासनिका अपसरकप्राङ्गणसहिता अस्याघाटानि[^985]पूर्व्वेण निष्कासप्रवेसहारोष्ठकं दक्षिणेन विषयणकहपसत्कावासनिका पश्चिमेन कविलासत्क\[अवा\]-
 
 [^984]: "Read नागाकः वाण्डू०."
 
 [^985]: "One would expect hereअस्याश्चाघाटानि, and below अस्या अभ्यन्तरे समस्तगृहसमेता समस्तवीथीसमेता च."
 
- 34. सनिका उत्तरेण सावससत्कअवासनिका मर्यादा एवं चतुरा \[ घा\] टविशुद्धा अस्याभ्यन्तरे समस्तगृहसमेतं समस्तवीथीसमेतां च देवस्य प्रदत्ता यक्कोपि वि[\[घ्नं?\]][^986].")करोति स चालीयपुरुषचयं नरकं नयति यक्कोपि वीथीषु प्रवसति स च गोष्ठिभावितं भाटकं ददाति दायादस्या \[धि\] कारं नास्ति स्वहस्तोयं नागादेदैवालीरुदाकादीनां मतं लिखितं सर्व्वह \[रि^(x\])पुत्रेण रच्छाकेन ॥![](../books_images/U-IMG-1699721964Screenshot(43).png) ॥ तथा देदैकस्तथा वालीकस्त\[था\]
+ 34. सनिका उत्तरेण सावससत्कअवासनिका मर्यादा एवं चतुरा \[ घा\] टविशुद्धा अस्याभ्यन्तरे समस्तगृहसमेतं समस्तवीथीसमेतां च देवस्य प्रदत्ता यक्कोपि वि[\[घ्नं?\]][^986].")करोति स चालीयपुरुषचयं नरकं नयति यक्कोपि वीथीषु प्रवसति स च गोष्ठिभावितं भाटकं ददाति दायादस्या \[धि\] कारं नास्ति स्वहस्तोयं नागादेदैवालीरुदाकादीनां मतं लिखितं सर्व्वह \[रि^(x\])पुत्रेण रच्छाकेन ॥<MISSING_FIG href="../books_images/U-IMG-1699721964Screenshot(43"/>.png) ॥ तथा देदैकस्तथा वालीकस्त\[था\]
 
 [^986]: "Tho akshara in brackets looks rather like दघ्नं, or वघ्नं(or दघ्नं
 
- 35. तथा[^987]रुदाक जाजूसुतारेभि[^988]प्र\[ दत्ता\] चण्डूप्रतिष्ठापितपश्चिमाभिमुखश्रीविष्णुभट्टारकस्य चतुष्कहटे[^989][][^989]पश्चिमाभिमुखा वीथी अवलिप्ता उवटकसहिता अतोपसन्ना अस्याघाटानि शिस्यन्ते[¹³](#)पूर्व्वेण \[ओ\] लीपातं दक्षिणेन श्रीघ्र \[म्व\] लोहीदेविजगति![](../books_images/U-IMG-1699808242Screenshot(44).png) पश्चिमेन हट्टरप्या उत्तरेण तिखरावीथी मर्यदा[^991]एवं चतुराघाटविसुद्धा विलेपनसन्मर्ज्जन[^992] धूपप्रदीपनैवेद्यार्थं प्रदत्ता \[यङ्क\] -
+ 35. तथा[^987]रुदाक जाजूसुतारेभि[^988]प्र\[ दत्ता\] चण्डूप्रतिष्ठापितपश्चिमाभिमुखश्रीविष्णुभट्टारकस्य चतुष्कहटे[^989][][^989]पश्चिमाभिमुखा वीथी अवलिप्ता उवटकसहिता अतोपसन्ना अस्याघाटानि शिस्यन्ते¹³[^2379]पूर्व्वेण \[ओ\] लीपातं दक्षिणेन श्रीघ्र \[म्व\] लोहीदेविजगति<MISSING_FIG href="../books_images/U-IMG-1699808242Screenshot(44"/>.png) पश्चिमेन हट्टरप्या उत्तरेण तिखरावीथी मर्यदा[^991]एवं चतुराघाटविसुद्धा विलेपनसन्मर्ज्जन[^992] धूपप्रदीपनैवेद्यार्थं प्रदत्ता \[यङ्क\] -
 
 [^987]: "This is wrongly repeated here."
 
@@ -6575,7 +6265,9 @@ TEXT[^893]
 
 [^992]: "Read ०सन्मार्ज्जन०."
 
- 36. श्चित्परिपन्धना करोति स च नरकं घोरं व्रजति पितृपितामहैस्सह ॥ स्वहस्तोयं देदैवालीरुदाकादीनां सम्मतं लिखितं स्वाभिकुमारेण सर्व्वहरिसुतेनेति ॥![](../books_images/U-IMG-1699808134Screenshot(43).png)॥' सम्वत् १०२५ माघ वदि ९ अद्येह सीयडोणिपत्तने महाराजाधिराजश्रीनिष्कलङ्कपरिभुज्यमाने तत्पादाधिष्ठितकेशवराजादिपञ्चकुलं स्थानानुमतेन पा**ध**देदेकयोर्व्वारे सतीदृसे काले इहाधिष्ठाने द
+[^2379]: #
+
+ 36. श्चित्परिपन्धना करोति स च नरकं घोरं व्रजति पितृपितामहैस्सह ॥ स्वहस्तोयं देदैवालीरुदाकादीनां सम्मतं लिखितं स्वाभिकुमारेण सर्व्वहरिसुतेनेति ॥<MISSING_FIG href="../books_images/U-IMG-1699808134Screenshot(43"/>.png)॥' सम्वत् १०२५ माघ वदि ९ अद्येह सीयडोणिपत्तने महाराजाधिराजश्रीनिष्कलङ्कपरिभुज्यमाने तत्पादाधिष्ठितकेशवराजादिपञ्चकुलं स्थानानुमतेन पा**ध**देदेकयोर्व्वारे सतीदृसे काले इहाधिष्ठाने द
 
  37. \[ क्षि \]णेदिग्विभागे चाण्डुप्रतिष्ठापितपश्चिमाभिमुखश्रीविष्णुभट्टारकस्यायतने नेमकजाति-वणिकमहादित्येन पेपेसुतेन प्रतिष्ठापितपूर्व्वाभिमुखश्रीविष्णुभट्टारकस्य वणिकश्रीधरेण महादित्यसुतेन विलेपनसन्मार्ज्जनपूजापनधूपप्रदीपनैवेद्यार्थं श्रीमदादी[^993]वराहद्रम्मस्य पादैकं प्रदत्तं एतदर्थे मासान्मासं प्रति दीयमानं पञ्चियकद्रम्मैकं सास -
 
@@ -6587,22 +6279,14 @@ TEXT[^893]
 
 [^995]: "Read अनुरूपा."
 
- 39. क्षितिकालिनं याव**ङ्मो**\[क्तव्यं\] यक्कश्चि\[त्खश्रावाधा ? \]\[ददाति\] स च महान्तं नरकं व्रजति मतं सिरिधर महादित्यमुतस्य लिखितं करणिकधीरवर्म्मणा[^996]स्वामिकुमारसुतेनेति ॥ ![](../books_images/U-IMG-1699808134Screenshot(43).png)॥ ओं[^894]ओंनमो, गणपतये। घंतु[^693].")वो गणनाथस्य हस्ताक्षेपवमंथवः। विधंरेणुं क्षितेः क्षिप्रं विन्दुभिर्जलदा इव ॥ योसौ[^465]\[च\] काम धात्रीं गिरिकुहरसरित्सागरानूपरम्यां पादेनैकेन कृत्स्त्रां वलिच्छलनव[^1000]
+ 39. क्षितिकालिनं याव**ङ्मो**\[क्तव्यं\] यक्कश्चि\[त्खश्रावाधा ? \]\[ददाति\] स च महान्तं नरकं व्रजति मतं सिरिधर महादित्यमुतस्य लिखितं करणिकधीरवर्म्मणा[^996]स्वामिकुमारसुतेनेति ॥ <MISSING_FIG href="../books_images/U-IMG-1699808134Screenshot(43"/>.png)॥ ओं[^894]ओंनमो, गणपतये। घंतु[^693].")वो गणनाथस्य हस्ताक्षेपवमंथवः। विधंरेणुं क्षितेः क्षिप्रं विन्दुभिर्जलदा इव ॥ योसौ[^465]\[च\] काम धात्रीं गिरिकुहरसरित्सागरानूपरम्यां पादेनैकेन कृत्स्त्रां वलिच्छलनव[^1000]
 -
-
-[^465]: "Metre, Sragdhara."
-
-[^693]: "Metre, Sloka (Anushtubh
-
-[^894]: "Expressed by a symbol."
 
 [^996]: "Originally ०वर्न्मेणा."
 
 [^1000]: "Read बलि०; the second syllable of this word is used as a short syllable, not withstanding the following च्छ; and in the following line is used as a short syllable before the conjunct अ."
 
  40. \[शा^(x)\]न्मूर्त्ति\[मास्था \] य \[**अ**\] स्वां । स्वर्ग्ग [\[म्वभ्राम?\]][^1001]साकं पवनप\[भ\]गणैर्भा\[नुचन्द्र\]ग्रहाय्यैः सोव्यात्रिविक्रमो व[\[स्तृ\]][^1002]तयपदपथो यस्य देवैर्न्न लब्धः[^1003]॥ महोदयामरावत्यां[^1004]; and of the next verse.— Originally ०मरावरावत्यां.")मनुष्येन्द्रेण धीमता। रायक्कंनाम नगरं ब्राह्म[^1005]णेभ्योदर्दे किल ॥ रायकभट्टा इति ते ख्यातिं प्राप्ता महीतले । दातारः शत्रुजेतारो विद्वांसो सुबहु[^1006]श्रुताः॥ तेषां[^742]प्र
-
-[^742]: " Metre, Vasantatilaka."
 
 [^1001]: "Read स्वर्ग्ग [ बभाम?]."
 
@@ -6640,8 +6324,6 @@ TEXT[^893]
 प\[त्तना[त्पूर्व्वमारामं\]][^693].")मंदाकि\[ न्या\] दिगुत्तर \[म्।\] ददौ स नित्यपू\[जार्थ\] न्तस्मै सत्कारसिद्धये ॥ विप्रकीयगृहपश्चिम[भा\[गा?\]][^1017]
 -  
 
-[^693]: "Metre, Sloka (Anushtubh
-
 [^1015]: "Read ०जम्वा."
 
 [^1017]: "Metre, Svágata&; the Iast akshara, गा, appears to be engraved above the line."
@@ -6651,9 +6333,7 @@ TEXT[^893]
 46. णि\[ग\].....^(.)महत्तकहट्टे[^1022].....पुर\[तो[^1023]\] र\[थ्या\] च्छि.......॥[^1024]—
 [\[जा\]][^466]पूरि-\[रयशः\] पताका—— 
 —\[रणमुखे त्रि\]दिवं प्रयातः। \[तस्या\]त्मजेनवरविप्रनतांडियुम्मो दामोदरेण   —   — 
-——॥![](../books_images/U-IMG-1699811879Screenshot(43).png)॥
-
-[^466]: "Metre, Vasantatilaka."
+——॥<MISSING_FIG href="../books_images/U-IMG-1699811879Screenshot(43"/>.png)॥
 
 [^1018]: "Originally वणिजोणिजी, but the second णिजो is struck out."
 
@@ -6691,11 +6371,9 @@ sign, is fourteen times formed on the line, with the following consonant (or con
 
 **TEXT.**[^1028]
 
-1.              **ओं[^894]नमः ॥**
-
-[^894]: "Expressed by a symbol."
-
 [^1028]: "From an impression supplied by the Editor."
+
+1.              **ओं[^894]नमः ॥**
 
 **   'सब्रिहित[^1030]नीलकण्ठा नितम्ब (म्ब) तटशोभिनी ससिङ्हगुहा[^1031] ।  
    जयति प्रालेयाचलभूरिव दुर्ग्गासदा सुमुखा ॥ –v. 1.**
@@ -6706,9 +6384,7 @@ sign, is fourteen times formed on the line, with the following consonant (or con
 
 **   आसीच्छी[^1004].")हरिष्टत्ताख्यः**
 
-[^1004]: "Metre, Sloka (Anushţubh
-
-![](../books_images/U-IMG-1698295804Screenshot(32).png)
+<MISSING_FIG href="../books_images/U-IMG-1698295804Screenshot(32"/>.png)
 
 **2.                   स्थातो हरिरिवापरः ।**
 
@@ -6724,10 +6400,6 @@ sign, is fourteen times formed on the line, with the following consonant (or con
   दावव्याजेन दहति प्रकामं कोपपावकः ॥ - 5.  
   [][^1038] विशाल[^1038]वक्षःफलकाभिलक्ष्यप्ररूढखङ्गव्रणसन्निवेशाः**
 
-[^643]: "Metre, Arya."
-
-[^742]: " Metre, Vasantatilaka."
-
 [^1034]: "The three aksharas वधृतare quite clear in the impression, but they offend against the metre and yield no suitable sense. I would suggest reading भृदनादृतभुजङ्गं."
 
 [^1035]: "Readआर्ज्जनं."
@@ -6742,10 +6414,6 @@ sign, is fourteen times formed on the line, with the following consonant (or con
  सरागयापि[^693].") यस्यासीहयं द्रष्टुं न पारितं ।  
   यत्पृष्ठमरिवाहिन्या यच्च वक्षःपरस्त्रिया ॥ - 7.  
   प्रजापतिं[^1038] निर्म्मित -  
-
-[^693]: "Metre, Sloka (Anushtubh
-
-[^1038]: "Metre, Upendravajra."
 
 6.         सप्तसागरक्षमाधरं यो लघयन्मिसृक्षया ।  
   महादानम्वु (म्बु) निधीनकल्पयत्सुराधिवासानचलांश्चकोटिशः ॥ –8.  
@@ -6767,10 +6435,6 @@ sign, is fourteen times formed on the line, with the following consonant (or con
               वयं केव[\[ लं\]][^1045]।  
   इत्युक्तेःपरिवृहमन्यव व प्राप्यवसानान्तरं लब्धा(ब्धा) अव्रणरन्धनिर्ग्गमपथा यस्वासवो निर्ययुः ॥  -14.**
 
-[^693]: "Metre, Sloka (Anushtubh
-
-[^1010]: "Metre, Sardulavikridita."
-
 [^1043]: "Read सदा."
 
 [^1045]: "Possibly केवला, i.e., केवलाः"
@@ -6790,11 +6454,9 @@ sign, is fourteen times formed on the line, with the following consonant (or con
 एतहि(हि) जातिभवनं भुवनाभिराममव्याहतादिकृतसम्विधि[^1047]तावदास्तां ॥ – 16.  
 भद्रेणैते[^643] रचिता वामनतनयेन सुचरितश्लोकाः ।
 
-[^643]: "Metre, Arya."
-
 [^1047]: "Read ०संविधि."
 
-13.  ऐशानिनापि लिखिता\[:^(x)\] सूत्रधृतादेवदेवेन ॥ ![](../books_images/U-IMG-1699363957Screenshot(42).png)॥ —17.
+13.  ऐशानिनापि लिखिता\[:^(x)\] सूत्रधृतादेवदेवेन ॥ <MISSING_FIG href="../books_images/U-IMG-1699363957Screenshot(42"/>.png)॥ —17.
 
 व (ब) **ह्वृ**चचरणे साङ्गत्यसगोत्रस्सूर्यदत्तपुत्रोमहासेनदत्तः ।  
 अध्वर्युचरणे वत्ससगोत्रः
@@ -6815,9 +6477,7 @@ sign, is fourteen times formed on the line, with the following consonant (or con
 [^1050]: "Here about five aksharas are brokon away or injured."
 
 16. एतै[^720].")(तै) महत्तमै \[:^(x)\] श्रीमत्रैविद्याज्ञानुपालनेः\[।^(x\])  
-    कारितं धाम धर्मस्यै\[:^(x\]) श्रीमम्मस्य स\[माज्ञ?\]या[^1052] ॥ ![](../books_images/U-IMG-1699364112Screenshot(42).png)॥[^1053]– 18.
-
-[^720]: " Metre, Sloka (Anushtubh
+    कारितं धाम धर्मस्यै\[:^(x\]) श्रीमम्मस्य स\[माज्ञ?\]या[^1052] ॥ <MISSING_FIG href="../books_images/U-IMG-1699364112Screenshot(42"/>.png)॥[^1053]– 18.
 
 [^1052]: "These two aksharas are illegible."
 
@@ -6835,9 +6495,9 @@ sign, is fourteen times formed on the line, with the following consonant (or con
 
  (3.) His acquisition of fortune, at which no hoard of precious stones was disturbed, no prince agitated, *(and)* no notice taken (*?*) of dissolute people, was different from the acquisition of fortune by Vishnu.[^1055]
 
- (4.) He had an excellent son, named Harivarman, widely known, by his other name, as the illustrigus Mamma, at *(the sight of)* whom the faces of all women of his kin became radiant *(with joy)*, just as the groups of lotuses expand before the shining sun.
-
 [^1055]: "soil., when the ocean, the inine of jewels, was disturbed, when the mountain Mandara was used as churning-stick, and when the serpent Vasuki was put in requisition."
+
+ (4.) He had an excellent son, named Harivarman, widely known, by his other name, as the illustrigus Mamma, at *(the sight of)* whom the faces of all women of his kin became radiant *(with joy)*, just as the groups of lotuses expand before the shining sun.
 
  (5.) The fire of his anger even now, in the guise of a forest conflagration, fiercely  
 burns the trees in the gardens of the habitations of the enemies slain *(by him)*.
@@ -6900,9 +6560,9 @@ theChhandoga-school.
 
   The subjoined edition of the inscription from the temple of Garibnâth at Pehoa or Pehevâ in the Karnal District has been prepared according to an excellent paper impression by Mr. C. J. Rodgers, furnished to me by the editor.[^1063]
 
- The inscription is incised on a stone slab, measuring twenty-seven inches by sixteen, and contains seventeen lines, the last of which is much shorter than the others. The technical execution is good and the preservation fair. Though the first signs of lines 8-17 have suffered more or less, and though there are several deep holes and numerous slight abrasions in the middle, the whole of the text can be restored with perfect certainty, except three or four letters in line 7, and two very important words in line 8, the letters of which are only very slightly damaged. The want of success in the latter case may, however, be my fault. The characters of the inscription show the type of the ordinary northern Nâgari alphabet of the ninth century. The language is rather incorrect Sanskrit prose which clearly shows the influence of the vernacular of the day. The mistakes have been discussed in detail in the notes to the translation. As regards the spelling, no distinction is made between ba and va, and the latter sign, as in most inscriptions from Northern India, does duty for both. There are also a few other peculiarities, such as the constant spelling *samvatsara* instead of *samvatsara* which may be explained by the ordinary mode of pronunciation.
-
 [^1063]: "Dr. Rajendralal Mittra has given his reading and translation of 11. 1-8, in Jour.As. Soc. Beng., vol. XXII, pp. 673 ff. He has also published a facsimile of these eight lines, ibidem, vol. XXXII, p. 96, which seems to have been prepared according to a very inferior impression or rubbing."
+
+ The inscription is incised on a stone slab, measuring twenty-seven inches by sixteen, and contains seventeen lines, the last of which is much shorter than the others. The technical execution is good and the preservation fair. Though the first signs of lines 8-17 have suffered more or less, and though there are several deep holes and numerous slight abrasions in the middle, the whole of the text can be restored with perfect certainty, except three or four letters in line 7, and two very important words in line 8, the letters of which are only very slightly damaged. The want of success in the latter case may, however, be my fault. The characters of the inscription show the type of the ordinary northern Nâgari alphabet of the ninth century. The language is rather incorrect Sanskrit prose which clearly shows the influence of the vernacular of the day. The mistakes have been discussed in detail in the notes to the translation. As regards the spelling, no distinction is made between ba and va, and the latter sign, as in most inscriptions from Northern India, does duty for both. There are also a few other peculiarities, such as the constant spelling *samvatsara* instead of *samvatsara* which may be explained by the ordinary mode of pronunciation.
 
  The object of the inscription is to record the fact that certain pious horse-dealers who met at the horse-fair held at Pehoa-Pṛithûdaka on the fourteenth day of the half month preceding the bright half of Vaisakha, agreed to impose upon themselves and upon their customers certain taxes or tithes, the proceeds of which were to be distributed among some temples, priests and sanctuaries, in proportions duly specified. The names of these worthies are given at great length in lines 2-8. They were thirty-three or thirty-four in number and belonged to the towns or villages of Chaṭavârshikå
 
@@ -6955,9 +6615,9 @@ L.1.ओ[^1066]परमभट्टारकमहाराजाधिराज
 
   5. सुत वामुक वलदेवपुरीय, खन्भटसुत होहमृगाङ्कसुत विड्डक देशवसुत धणुक खङ्गकसुत \[व\]ामुक मणिक्कसुत उण्हरि शारङ्कदिकेत्य नारसुत लोहट[^1070]
 
- 6. तथा शङ्कर वमुकसुत ईश्वरादित्य सीहरुदुक्ककेत्य उ**न**कसुत वच्छक जयधराकसुत रणिक [सूर\[सुत\]][^1071]प्रगद वैघाटकीय धारटसुत चन्द \[ए\] क\[ग\]ोरकसुत सव्व
-
 [^1070]: "L. 5. The त of मृगाहसुत is a correction and standsbelow the line, its place being indicated by the sign +. The first letter of वामुक is nearly destroyed. Possibly लाहटto be read."
+
+ 6. तथा शङ्कर वमुकसुत ईश्वरादित्य सीहरुदुक्ककेत्य उ**न**कसुत वच्छक जयधराकसुत रणिक [सूर\[सुत\]][^1071]प्रगद वैघाटकीय धारटसुत चन्द \[ए\] क\[ग\]ोरकसुत सव्व
 
 [^1071]: "L. 6. Possibly सौहरुद्धक्ककेत्य to be road. The last two syllables of सूरसुत arenearly effaced; the last seems to have been added above the line."
 
@@ -7030,7 +6690,7 @@ L.1.ओ[^1066]परमभट्टारकमहाराजाधिराज
 
 [^1095]: "Vâmuka is known as a Brâhmaņical name; Jour. Bo. Br. R. A. Soc., vol. XII, extra number, p. 67."
 
-pura),Khambhata's son Hoddha, Mriganka's son Viddaka, Kesava's son Dhanuka[^1096], Khangaka's son Vâmuka, Manikka's son Uehari[^1097]; the (*following*) inhabitants of Sarańkadika[^1098], Nara's sons Lohata[^1099](or Lahata) and Sankara, Valluka's son Îśvarâditya; the (*following*) inhabitants of Siharudukkaka,Ullaka's son Vachchhaka, Jayadharaka's son Ranika, Sûra's son Pragada; the (following) inhabitants of Traighataka, Dharata's son Chanda, Ekagoraka's son Savva, Devasarman's son Phampha, Vagguka's son Kammika; the (*following*) inhabitants of Ghamghaka, Lallika's son Svâmirâka, Simghuka's son Si\[ha\], Dâmodara's son Pombha[^1100], Halluka's son Davvu, Kasili, Mâna's[^1101] son Khajji; the (*following*) inhabitant of Asvala-Uhovaka, Usûha's son Vaddha. The foreman of the . . . . dealers[^1102],come from various countries, chief among whom are those mentioned above, grants to the sacred place[^1103] of famous Prithûdaka a charter to the following (*effect*): To the (*temple of the*) god[^1104]built by the illustrious Guhâditya in famous Kanyakubja, and to (*the temple of*) the god built by Kadam bâditya even there in the Gotfrtha, and to the (*temple of the*) god riding on Garuda built by Bhuvaka, the son of the Någara[^1105]Bhaṭṭa Prabhakara on the bank of the Ganges in famous Bhojapura near famous Kanyakubja, and to the (*temple of the*) sacrificial boar[^1106]built by the same Bhûvaka in famous Prithûdaka near the Eastern Sarasvati, we have given on the sale of horses,mares, mules and other animals[^1107]—in' Prithûdaka' in the case of a purchase by the king as well as in the case of a purchase by the Thakkuras,[^1108]the provincials and so forth, and in Traighâtaka and other sacred places in the case of a purchase by the king alone-for the sake of spiritual merit two *dharmas*[^1109]for
+pura),Khambhata's son Hoddha, Mriganka's son Viddaka, Kesava's son Dhanuka[^1096], Khangaka's son Vâmuka, Manikka's son Uehari[^1097]; the (*following*) inhabitants of Sarańkadika[^1098], Nara's sons Lohata[^1099] (or Lahata) and Sankara, Valluka's son Îśvarâditya; the (*following*) inhabitants of Siharudukkaka,Ullaka's son Vachchhaka, Jayadharaka's son Ranika, Sûra's son Pragada; the (following) inhabitants of Traighataka, Dharata's son Chanda, Ekagoraka's son Savva, Devasarman's son Phampha, Vagguka's son Kammika; the (*following*) inhabitants of Ghamghaka, Lallika's son Svâmirâka, Simghuka's son Si\[ha\], Dâmodara's son Pombha[^1100], Halluka's son Davvu, Kasili, Mâna's[^1101] son Khajji; the (*following*) inhabitant of Asvala-Uhovaka, Usûha's son Vaddha. The foreman of the . . . . dealers[^1102],come from various countries, chief among whom are those mentioned above, grants to the sacred place[^1103] of famous Prithûdaka a charter to the following (*effect*): To the (*temple of the*) god[^1104]built by the illustrious Guhâditya in famous Kanyakubja, and to (*the temple of*) the god built by Kadam bâditya even there in the Gotfrtha, and to the (*temple of the*) god riding on Garuda built by Bhuvaka, the son of the Någara[^1105]Bhaṭṭa Prabhakara on the bank of the Ganges in famous Bhojapura near famous Kanyakubja, and to the (*temple of the*) sacrificial boar[^1106]built by the same Bhûvaka in famous Prithûdaka near the Eastern Sarasvati, we have given on the sale of horses,mares, mules and other animals[^1107]—in' Prithûdaka' in the case of a purchase by the king as well as in the case of a purchase by the Thakkuras,[^1108]the provincials and so forth, and in Traighâtaka and other sacred places in the case of a purchase by the king alone-for the sake of spiritual merit two *dharmas*[^1109]for
 
 [^1096]: "Compare the modern name Dhana, Ind. Ant., loc. cit.,p.165."
 
@@ -7086,8 +6746,8 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
 
 **TRANSCRIPT.**
 
-**L.1. ओ॥ ओं स्वस्ति॥![](../books_images/U-IMG-1699639125Screenshot(45).png) ॥ ओं नमो ज्वालामुख्यै ॥  
-   पायाज्ज्वालामुखी व*![](../books_images/U-IMG-1699638943Screenshot(45).png)*प्रणतसुरवरस्फारकोटीरकोटी-  
+**L.1. ओ॥ ओं स्वस्ति॥<MISSING_FIG href="../books_images/U-IMG-1699639125Screenshot(45"/>.png) ॥ ओं नमो ज्वालामुख्यै ॥  
+   पायाज्ज्वालामुखी व*<MISSING_FIG href="../books_images/U-IMG-1699638943Screenshot(45"/>.png)*प्रणतसुरवरस्फारकोटीरकोटी-  
    कोटीव्याटीकमानधुमणिसममणिश्रे-  
 2.                          णिभावेणिभाता ॥  
    कल्पान्तक्षोभजृंभाभररभससमारंभसंरंभभीम-  
@@ -7163,8 +6823,6 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
    \[स्तव \] रत्नावली सेयं \[ज्वा\] लामुख्यैसमर्पिता ॥१०॥[^477]  
    विद्वानात्रेयगोत्रःकलिमलदलनेद्राविडःकृ-**
 
-[^477]: "Metre, Anushtubh."
-
 **16.                     ष्णाभट्टे-  
    ष्षड्दर्शिन्याःप्रवक्ता नृपति\[सुत\] नुतः सोमसंस्थाभिषिक्तः ॥  
    तस्माद्वागीश्वराख्यः समजनि सुधियामग्रणीर्ग्रंथकर्त्ता  
@@ -7217,15 +6875,13 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
          भक्त्या लेखितमतत्स्तोत्रं सूगीकसूत्रधाराञ्च ॥ \[ १७ ॥ \]¹⁴[^1126]  
          श्रीमत्कर्मध्वजशिष्यसूर्यध्वजस्य ज्वालामुख्यै नमः \[ ॥ \]**
 
-[^1010]: "Metre, Sardulavikridita."
-
 [^1126]: "Metre, Giti. Read मंतत्स्ती; सूत्रधारेद्य."
 
 **TRANSLATION.** ¹⁵[^1127]
 
-  Verse 10. By the famous ascetic Rághavachaitanya, a Vedantist, has this string of jewel-likepraise been offered to Jválámukhi.
-
 [^1127]: "I omit verses 1-9 as they possess little general interest."
+
+  Verse 10. By the famous ascetic Rághavachaitanya, a Vedantist, has this string of jewel-likepraise been offered to Jválámukhi.
 
  11. *(There was)* a learned Drávida of the Atreya *gotra*, Krishnabhatta, a destroyer of the impurity of the *Kali* age, a teacher of the six *Darśanas*, who was honoured by the sons of kings and who had bathed on *(the completion of)* Soma sacrifices. From him was born a leader of wise men, called Vágiśvara, a composer of works, who had completely mastered the *Mîmámsả*, was clever in *(the exposition of)* the *Smritis* *.....*and was learned in sacrificial lore.
 
@@ -7245,9 +6901,9 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
 
  17. Through pure fondness for divineGanapati, out of devotion for the Kâmboja Delha, this hymn has been caused to be written by the mason Sügika.¹⁸[^1130]
 
- Of Sûryadhvaja, the pupil of famous Karmadhvaja, adoration to Jvâlâmukhi!
-
 [^1130]: "Lekhtiam, ‘has been caused to be written,' probably has been put, instead of likhitam or utkirṇam, ‘has been written or incised,' neither of which would fit the metre."
+
+ Of Sûryadhvaja, the pupil of famous Karmadhvaja, adoration to Jvâlâmukhi!
 
 **XXV.-TWO CHANDELLA INSCRIPTIONS.**
 
@@ -7287,36 +6943,36 @@ Sanskrit and, towards the end, not free from grammatical mistakes. With respect 
 
 **TEXT.**¹[^1134]
 
-L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
-
 [^1134]: "From an impression taken by the Editor."
+
+ 
+L.1.<MISSING_FIG href="../books_images/U-IMG-1699783339Screenshothh.png"/>²[^1135]
 
 [^1135]: "Here there are, preceding the first verse, traces of about twelve aksharas. One would expect ओंनमो भगवते वासुदेवाय, or some similar phrase."
 
-   ![](../books_images/U-IMG-1699781703Screenshotkk.png)
+   <MISSING_FIG href="../books_images/U-IMG-1699781703Screenshotkk.png"/>
 
    श्रीव त्सा ङ्कं दधदपि वपुर्द्दिव्यमव्यक्त एव ।
 
    मायाजालैर्यमितभुवनोऽप्येकहतुर्व्विमुक्ते -
 
-![](../books_images/U-IMG-1699783762Screenshotgg.png)^(3[^1136]—\[1\].)
+   
+<MISSING_FIG href="../books_images/U-IMG-1699783762Screenshotgg.png"/>^(3[^1136]—\[1\].)
 
 [^1136]: "Metre, Mandakranta."
 
-^(             ![](../books_images/U-IMG-1699784030Screenshothhh.png)4[^1137])  
+^(             <MISSING_FIG href="../books_images/U-IMG-1699784030Screenshothhh.png"/>4[^1137])  
   2.                             
-![](../books_images/U-IMG-1699784219hj.png)पत्रावली\[नां\]  
+<MISSING_FIG href="../books_images/U-IMG-1699784219hj.png"/>पत्रावली\[नां\]  
     \[भं\] गिःप्रोद्य\[स्त\]ल \[क्ष्मी\]कुचकल\[श\]तटा**द्व**क्षसि श्रीधरस्य ।  
    संक्रान्ता पातु युष्मानतिविशदलिपिर्हर्शनीया शिलाभे  
    विन्यस्ता मन्मथेनोन्मदसुरतविधि\[व्यक्ति\] केव प्र\[श\]स्तिः ॥⁵[^465]-\[2\].
 
-[^465]: "Metre, Sragdhara."
-
 [^1137]: "It is impossible to say exactly how many aksharas are effaced at the end of this and the beginning of the next line."
 
-  ![](../books_images/U-IMG-1699785511Screenshot(50).png)\[ना\]मा नरेन्द्रः \[।\]
+  <MISSING_FIG href="../books_images/U-IMG-1699785511Screenshot(50"/>.png)\[ना\]मा नरेन्द्रः \[।\]
 
-  3.![](../books_images/U-IMG-1699785375Screenshotd.png)
+  3.<MISSING_FIG href="../books_images/U-IMG-1699785375Screenshotd.png"/>
 \[नि\]खिल\[नृपं\] यः कान्यकुजं नरेन्द्रं समर\[भु\] वि विजित्य प्राप साम्राज्यमुचैः ॥⁶[^478]- \[3\].  
    दर्प्पकण्डू\[ग्र\] दोर्द्दण्डद्दिषत्खण्डनपण्डितः ।  
   
@@ -7326,10 +6982,6 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
    श्रीविद्याधरदेवः ...........\[वा\] सवो जज्ञे ॥⁹[^643] - \[5\].  
    अजनि विजयपा-
 
-[^478]: "Metre, Malini."
-
-[^643]: "Metre, Arya."
-
 [^1140]: "The back of the impression shows aistinctly that this name is here गण्ड, not मण्ड."
 
 [^1141]: "Metre, Sloka ( Anushtubh
@@ -7338,8 +6990,6 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
    क्षपितनिखिलदुष्टः प्रीणिताशेषशिष्टः कृतकलि \[युगभङ्गः ?\] क्षीणि—— U—— U¯ :॥¹⁰[^478]\[6\]  
    भुवनत्रयगोतपुण्यकीर्त्तिस्तनयो ऽस्याजनि कीर्त्तिवर्म्मदेवः ।  
    \[कलि\]\[कल्मषं विहंतं?\]- धर्म्म इ\[वात्र?\] योऽवतीर्ण्णः॥¹¹[^1144]- \[7\].**
-
-[^478]: "Metre, Malini."
 
 [^1144]: "Metre, Aupachchhandaaika."
 
@@ -7351,10 +7001,6 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
    \[स्वाज्ञा\] सञ्चारिता चाजलधिपरिसरं \[स्फार\] कीर्त्त्यासहैव ॥¹³[^687]- \[8\].  
           \[स्व\] विक्रमभरप्रोन्निद्रितारिः सदा  
     श्री—**
-
-[^478]: "Metre, Malini."
-
-[^687]: " Metre, Sragdhara."
 
 **6. \[स\]ल्लक्षणवर्म्मदेवनृपतिस्तस्यात्मजो ऽ\[भू\] त्प्रभुः \[1\]  
  धौरेयः श्रुतशालिनाङ्गुणवतां व (ब)न्धुः कलानां निधिः  
@@ -7371,18 +7017,12 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
   यस्य प्रतापतपनाभ्युदयेन भूपा दीपा इव \[क्षत?\] :- न हेजुः ॥¹⁶[^466]—\[11\].  
    श्रीसल्लक्षणवर्म्मक्षोणीनाथस्य सोदरोव -**
 
-[^465]: "Metre, Sragdhara."
-
-[^466]: "Metre, Vasantatilaka."
-
 **8.                              रजः ।  
  अथ पृथ्वीवर्म्मनृपः कुलराज्यधुरान्दधौ धुर्यः ॥¹⁷[^717]– \[12\].  
   अशिष्टेषु द्वेषो भृशमभिरतिः पात्रनिवहे  
   जिघृक्षा न्याय्ये ऽर्थे विधिवदथ तीर्थे वितरणं ।  
   परा \[रक्षा भूतेष्व\]पि च विनयादानपरता**  
 **  वितेने येनेत्यं कृतचरितमुचैरिह कला ॥¹⁸[^1151]– \[13\].**
-
-[^717]: " Metre, Arya."
 
 [^1151]: " Metre, Sikharini."
 
@@ -7417,8 +7057,6 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
     अत्युद्दामसरस्वतीविलसितेनोद्भासितं सादराः  
      प्राभासं कृतिनः सुतीर्थमिव यं द्रष्टं ययुः श्रेयसे ॥²⁸[^1161]- \[20\].**
 
-[^644]: "Metre, Giti."
-
 [^1154]: "Read शुभ्रांशु०."
 
 [^1155]: "Read ०दंशः."
@@ -7440,10 +7078,6 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
     वु(बु) द्द्याश्रुतेन व (ब) हुना धिषणायमानश्चन्द्रातपोज्य (ज्ज्च)लयशोभृतदिग्वितानः ।  
     आजौविपक्षनिवहेरवि-**
 
-[^714]: " Metre, Upajati."
-
-[^717]: " Metre, Arya."
-
 [^1162]: "Here, again, the first akshara of this word, on the back of the impression is distinctly ग, not म."
 
 **14.                  षह्यधामा तस्मादजायत कृती शिवनागनामा ॥³²[^466] - \[23\].  
@@ -7453,10 +7087,6 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
      कृताशेषोर्व्वोशं व्यधित भुवि सर्व्वातिशयितं ॥³³[^707]- \[24\] .  
     विशुद्दाद्दुग्धाब्धेर्व्विधुरिव जगन्नेत्रसुभगो  
       महीपालस्तस्मादभवद -**
-
-[^466]: "Metre, Vasantatilaka."
-
-[^707]: "Metre, Sikharini; and of the next verse."
 
 **15                भिरामोज्य(ज्ज्घ) लगुणः ।**
 
@@ -7525,35 +7155,35 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
 [^1176]: "Metre, Gitā"
 
 **– –: स्वच्छ \[म\] तिर्विशुद्धचरितः सौजन्धरत्नाकरो  
-वि\[ष्णुर्दोष\]हरश्चशौर्यगरिमव्रा(ब्रा)ह्मण्य––![](../books_images/U-IMG-1699438295Screenshot2023-11-08154058.png)।  
-–––![](#)![](#)– \[गदा\] धरो गुणनिधिः साधुप्रियो वामनः  
+वि\[ष्णुर्दोष\]हरश्चशौर्यगरिमव्रा(ब्रा)ह्मण्य––<MISSING_FIG href="../books_images/U-IMG-1699438295Screenshot2023-11-08154058.png"/>।  
+–––<MISSING_FIG href="#"/><MISSING_FIG href="#"/>– \[गदा\] धरो गुणनिधिः साधुप्रियो वामनः  
 प्र-**
 
-**L.21 द्युन्नश्च\[बभूवु ? \]:—।![](../books_images/U-IMG-1699438503Screenshot2023-11-08154446.png) ॥—[^2379]\[36\].  
-![](../books_images/U-IMG-1699438563Screenshot2023-11-08154548.png)\[वि?\]भुनातिगुणानुरा\[गा\]त्सल्लक्षक्षितिभुजा च परीक्ष्य \[सम्यक्?\]।  
-सर्वेऽ\[मुनान्ध ?\] ![](../books_images/U-IMG-1699438687Screenshot2023-11-08154735.png)रं नियुक्ताः कार्येषु सुज्ञचिशूरजनोचितेषु॥–\[[^1177]37\].  
+**L.21 द्युन्नश्च\[बभूवु ? \]:—।<MISSING_FIG href="../books_images/U-IMG-1699438503Screenshot2023-11-08154446.png"/> ॥—[^2380]\[36\].  
+<MISSING_FIG href="../books_images/U-IMG-1699438563Screenshot2023-11-08154548.png"/>\[वि?\]भुनातिगुणानुरा\[गा\]त्सल्लक्षक्षितिभुजा च परीक्ष्य \[सम्यक्?\]।  
+सर्वेऽ\[मुनान्ध ?\] <MISSING_FIG href="../books_images/U-IMG-1699438687Screenshot2023-11-08154735.png"/>रं नियुक्ताः कार्येषु सुज्ञचिशूरजनोचितेषु॥–\[[^1177]37\].  
 अथ सल्लक्षणवर्त्म\[प्रभु?\] ...............पुनः।  
 अन्तर्वेदीविषये......**
 
 [^1177]: " Metre, Vasantatilnka."
 
-[^2379]: "Metre, śārdūlavikridita."
+[^2380]: # "Metre, śārdūlavikridita."
 
 **22. ...............॥—[^1178]\[38\].  
-![](../books_images/U-IMG-1699438846Screenshot2023-11-08155033.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699438846Screenshot2023-11-08155033.png"/>  
 शौर्योद्रेकविनिर्ज्जिता निजविभोः पादावनम्नीकृताः ।  
 कृत्वा कण्टकशोधनं जनपदे ऽपास्य प्रजानां भयं  
 ताभ्यः संविदधे च वृष्टिरसमा कोशस्य दण्डस्य च ॥—\[[^1179]39\].  
-हित्वा देहन्तिदश![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)—
+हित्वा देहन्तिदश<MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/><MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/>—
 भानुकन्याजला\[न्तः\]:  
-न्नाघो ऽनन्ते![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)**
+न्नाघो ऽनन्ते<MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/>**
 
 [^1178]: " Metre, Arya. "
 
 [^1179]: "Metre, Sarddlavikridita. "
 
 **23.    
-![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)\[पर \] मं व्र(ब्र) असायुज्यमाप्ते।  
+<MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/><MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/>\[पर \] मं व्र(ब्र) असायुज्यमाप्ते।  
 शास्तारीणामिति स जयवर्न्मावनीन्द्रेण यत्ना-  
 दात्मसत्तौप्रथितमहिमा प्रातिहार्येनियुक्त:॥–[^1180]\[40\].  
 मौलः सद्दन्शजन्मा[^1181]शचिरमलमतिः शास्त्रविद्दृष्टकर्मा  
@@ -7565,52 +7195,50 @@ L.1.![](../books_images/U-IMG-1699783339Screenshothh.png)²[^1135]
 [^1181]: "Read सदंश०."
 
 **24.          
-![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)— 
+<MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/>— 
 \[नुभाव्यः\]  
-श्रीपृथ्वीवर्मनाम्ना तदनु नृपतिना मन्तिमुख्यञ्च चक्रे॥—[^2380]\[41\].  
+श्रीपृथ्वीवर्मनाम्ना तदनु नृपतिना मन्तिमुख्यञ्च चक्रे॥—[^2381]\[41\].  
 सर्वैरङ्गैः समृद्धं व्यधित निपुणधीस्तस्य राज्ञोऽथ राज्यं  
 साचि\[व्यं बिभ्र\]दुच्चैस्तदनु च मदनक्षोणिपालस्य सोऽयं।  
 षाड्गुण्यादिप्रयोगैः \[स\]मयसमुचितैः प्रह्वभावं नरेन्द्रा-  
 न्नीत्वा सर्व्वान्क्रमेण व्यतनुत वसुधैश्वर्यमेकात\[पत्रम्\]॥—\[42\].**
 
-[^2380]: "Metre, Sragdhar ; and of the next verse. "
+[^2381]: # "Metre, Sragdhar ; and of the next verse. "
 
-**25.— — —![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png) —क्षमोऽपि विविधैर्युक्तो गुणौघैरपि  
+**25.— — —<MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/><MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/> —क्षमोऽपि विविधैर्युक्तो गुणौघैरपि  
 श्रीमान्नोद्दतिमान्गदाधर इति ब्रू(ब्रू) ते जनोऽयं \[स्वयं?\]।  
-गाम्भीर्येण पयोनिधिं![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)———![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)——
+गाम्भीर्येण पयोनिधिं<MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/><MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/><MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/>———<MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/>——
 \[प्यसौ\]  
-वु\[बु\] द्वाराधःकृतवान्गुरुं![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)![](../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png)—\[केनो\]न्नतिर्ब्भूयसी॥—[^1182]\[43\].  
+वु\[बु\] द्वाराधःकृतवान्गुरुं<MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/><MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/><MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/>—\[केनो\]न्नतिर्ब्भूयसी॥—[^1182]\[43\].  
 कलत्रंसन्तत्ये श्रुतमपि सदाचा\[रवि\]धये  
 म \[हीभू\]त्यै वेदा वसु सकललोको\[पकृतये?\]। **
 
 [^1182]: "Metre, Sārdūdlavikridīta."
 
-L.26.![](../books_images/U-IMG-1699528646Screenshot2023-11-09164520.png) \[ग्रव\] णमनसस्तस्य चरितैः  
+L.26.<MISSING_FIG href="../books_images/U-IMG-1699528646Screenshot2023-11-09164520.png"/> \[ग्रव\] णमनसस्तस्य चरितैः  
    कलिस्तं प्रत्यस्तंगत इव स मेने खलु जनैः॥—[^1183]\[44\].  
    युत्नाःश्रीधरविद्याधराद\[यो\] यङ्गुणैर्गज्जयिनः।  
    तस्याभूव \[न्म\] ततो धुरि स्थितः सर्व्वपुत्रवतां॥–\[[^1184]45\].  
    इष्टापूर्त्तप्रचुर\[सु\]कृतारम्भनित्यादृतेन  
-   प्रासादोऽयं ![](../books_images/U-IMG-1699528796Screenshot2023-11-09164925.png)युतस्तेन निर्माप्यते स्म।  
+   प्रासादोऽयं <MISSING_FIG href="../books_images/U-IMG-1699528796Screenshot2023-11-09164925.png"/>युतस्तेन निर्माप्यते स्म।  
   
-प्रत्य![](../books_images/U-IMG-1699528858Screenshot2023-11-09165043.png)
+प्रत्य<MISSING_FIG href="../books_images/U-IMG-1699528858Screenshot2023-11-09165043.png"/>
 
 [^1183]: "Metre Śikhariṇī  "
 
 [^1184]: "Metre, Arya. "
 
-27. ![](../books_images/U-IMG-1699528906Screenshot2023-11-09165132.png)यणो ऽस्मि-  
+27. <MISSING_FIG href="../books_images/U-IMG-1699528906Screenshot2023-11-09165132.png"/>यणो ऽस्मि-  
    न्देवः सो ऽयं वसु हि महतां पुण्यकर्मोपयोगि ॥–[^1185]\[46\].  
    किञ्चात्यर्थेविशुद्धै\[र्व्व\]सुभिरतिमहान्कारितस्तेन यत्ना-  
    \[हे\]द्दुग्रामस्य सीम्निप्रचुरपृथुशिला(ब)न्धरम्य\[स्तडा\]गः।  
-   कूलेऽभेद्य \[न्तदन्यो\]पलमयरचना![](../books_images/U-IMG-1699529145Screenshot2023-11-09165530.png)  
-![](../books_images/U-IMG-1699529187Screenshot2023-11-09165559.png)॥—[^687]\[47\]
-
-[^687]: " Metre, Sragdhara."
+   कूलेऽभेद्य \[न्तदन्यो\]पलमयरचना<MISSING_FIG href="../books_images/U-IMG-1699529145Screenshot2023-11-09165530.png"/>  
+<MISSING_FIG href="../books_images/U-IMG-1699529187Screenshot2023-11-09165559.png"/>॥—[^687]\[47\]
 
 [^1185]: " Metre, Mandakranta. "
 
-28.![](../books_images/U-IMG-1699529275Screenshot2023-11-09165720.png)णप्रदेशे।  
-   घटिताश्मकदग्व(ग्ब)केन व (ब) वो![](../books_images/U-IMG-1699529353Screenshot2023-11-09165851.png)\[र\]णःकारित इ\[न्दु\]गौरनीरः ॥–[^1187]\[48\]  
+28.<MISSING_FIG href="../books_images/U-IMG-1699529275Screenshot2023-11-09165720.png"/>णप्रदेशे।  
+   घटिताश्मकदग्व(ग्ब)केन व (ब) वो<MISSING_FIG href="../books_images/U-IMG-1699529353Screenshot2023-11-09165851.png"/>\[र\]णःकारित इ\[न्दु\]गौरनीरः ॥–[^1187]\[48\]  
   \[के\] डीना\[[^1188]म\].................ग्रामस\[न्नि\]धाने \[च\]।  
    कतिना जनोपक्कतये ...........\[सज्जला वापी\] ॥—[^1189]\[49\]
 
@@ -7716,9 +7344,9 @@ the rulers of the earth were rendered for ever tributary, so that it surpassed a
 
  (32).—By the volumes of smoke of the sacrificial fires which touched the clouds (and) caused all peacocks, by whom they were mistaken for clouds, to dance,......Maghavan.........a share of the sacrifice........[^1202]
 
- (33).— \[*His wife was a lady*\] named Âsarvà, born in an illustrious family, venerable for her virtuous conduct, as Anasûyâ (was) of the sage Atri, (34). And he had also another wife, sprung from a noble race, \[*who by*\] patience, good character, uprightness....
-
 [^1202]: "A portion of the verse being altogother illegible and the reading of the last line being doubtful, I am unable to give a proper translation. The general sense no doubt is that the minister was frequently engaged in sacrificial acts. "
+
+ (33).— \[*His wife was a lady*\] named Âsarvà, born in an illustrious family, venerable for her virtuous conduct, as Anasûyâ (was) of the sage Atri, (34). And he had also another wife, sprung from a noble race, \[*who by*\] patience, good character, uprightness....
 
  (35).—\[*She bore to him ?*\]........a faultless \[son\], named Vatsa, like the elevated Sunetra[^1203]," seated in the assembly of the gods (?).
 
@@ -7797,17 +7425,15 @@ The true date accordingly is Sunday, 10th September, A.D. 1195, and the Vikrama 
 
 L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥  
 जयन्ति वा (बा) हवःसौ(शी)रेवतुर्वर्गफलद्रुमाः।  
-निर्भरत्रीपरीरभपर्याप्तपुलका ![](../books_images/U-IMG-1699671454Screenshot2023-11-11082640.png)![](../books_images/U-IMG-1699671534Screenshot2023-11-11082843.png)॥—[^1213]. ")\[1\].  
-![](../books_images/U-IMG-1699709139Screenshot2023-11-11185511.png)
-
-[^765]: " Expressed by a symbol. "
+निर्भरत्रीपरीरभपर्याप्तपुलका <MISSING_FIG href="../books_images/U-IMG-1699671454Screenshot2023-11-11082640.png"/><MISSING_FIG href="../books_images/U-IMG-1699671534Screenshot2023-11-11082843.png"/>॥—[^1213]. ")\[1\].  
+<MISSING_FIG href="../books_images/U-IMG-1699709139Screenshot2023-11-11185511.png"/>
 
 [^1213]: " Metre, Śloka (Anushţubh
 
 2.                            टि।  
 इति च्छलात्स्सृष्टपयोधिपुवीपयोधरः पातु रथाङ्गपाणिः ॥—[^1214]\[2\].  
 अत्रेरजायत विलोचनपुण्डरीकाहेवो गिरीन्द्र\[तन\*\]यादयितावतंसः।  
-वन्श[^1215]स्ततोयसु![](../books_images/U-IMG-1699671935Screenshot2023-11-11083521.png)
+वन्श[^1215]स्ततोयसु<MISSING_FIG href="../books_images/U-IMG-1699671935Screenshot2023-11-11083521.png"/>
 
 [^1214]: "Metre, Upendravajra. "
 
@@ -7837,8 +7463,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 -\[ 7 \] .  
 अजायत यशोवर्मा ततचन्द्र इवांवुधेः[^1220]" ।**
 
-[^1216]: "Metre, Vasantatilakā."
-
 [^1218]: "of the three aksharas in brackets only the consonant of the first is absolutely certain, but above it at least one line of the superscript vowel is visible; the third akshara was originally WT, . which appears to have been altered to W. There can be no doubt that before if we require a masculine adjective, qualifying both करनाबदच्यः and तुः."
 
 [^1220]: "Read इवाम्बुधेः."
@@ -7856,8 +7480,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 अखबगप्रतिपचिसार्थ\[दी\]ईपमी परमईिदेवः ॥ -\[10\].  
 परस्परविरोधस्य \[त\]स्य राज्ये कथैव का ।  
 सङ्गतं श्रीसरस्वत्योरपि येन प्रवर्त्तितं[^1221] .") ॥"- \[11\].**
-
-[^1221]: "Metre, śloka(Anuśhṭubb
 
 **9. प्रचलति ककुभा\[\[\]याय यस्मिन्हरिसुरतधरापरागपु\[\[\]: ।  
 कवलितरविरमि (श्मि) तीव्रतायादिव पिवति का प\[या\]न्सि[^1224]" तोयरासे[^1225] (शे): ॥"- \[12\].  
@@ -7883,8 +7505,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 तेषु क्रमादखिलसा (शा)स्लम (स) रोविहारिहन्सोवतन्सितभिवापतिपादपङ्गः।[^1230]— \[15\].  
 लक्ष्मीधरः स्फुरित\[भास्व\] दसी (शी) तरस्मि (श्मि) सब्र(ब्र) प्रचारिगुणमौलिकलिंधुरासीत् ॥[^742] **
 
-[^742]: " Metre, Vasantatilaka."
-
 [^1229]: "Metre, Upajati. "
 
 [^1230]: "Read हंसीवतंसित०"
@@ -7892,8 +7512,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 **12. यदध्वरोज्ञासितास (श) धूमलेखाः स्फु\[टा\]नेकविभक्तिभरणः।  
 दिगङ्गनापीनपयोधरेषु विलास[\[वे\]][^1232] वित्रियमाश्रय \[न्त ॥[\] —][^1229]\[16\].  
 \[अ\] लभत जनिममात्सञ्चरित्रेकपावं विनयसदनमे-**
-
-[^1229]: "Metre, Upajati. "
 
 [^1232]: " This akshara originally was वि.  "
 
@@ -7994,10 +7612,6 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
    आश्विनशुक्लपञ्चम्यां वासरे वासरेशितुः॥[—\[34\].][^168]. ")  
                         वीरस्तु \[॥\*\]**
 
-[^168]: "Metre, Śloka (Anushṭubh
-
-[^1248]: "Metre, Upajāti. "
-
 **TRANSLATION.**
 
 **Om! Om ! Adoration to the holy Vásudeva ! **
@@ -8012,9 +7626,9 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 
 [^1254]: "i.e., Lakshmī."
 
- (Verse 3).—From the eye—lotus of Atri was born the god[^2381] (who is) the ornament of the beloved husband of the daughter of the lord of mountains. From him \[*spiang*\] this race \[*which*\]......has shone with its bright fame, as if (*decorated*) with pearls.
+ (Verse 3).—From the eye—lotus of Atri was born the god[^2382] (who is) the ornament of the beloved husband of the daughter of the lord of mountains. From him \[*spiang*\] this race \[*which*\]......has shone with its bright fame, as if (*decorated*) with pearls.
 
-[^2381]: "¡.s., the moon, borne on the head by Śiva, the husband of Pârvati.   "
+[^2382]: # "¡.s., the moon, borne on the head by Śiva, the husband of Pârvati.   "
 
  (4).—In it there were born, of pleasing conduct, the \[Chândrâtreya\] princes, who by their powerful massive arms have crushed the hosts of enemies.
 
@@ -8022,7 +7636,7 @@ L.1.ओं[^765] ओंनमो भगवते वासुदेवाय॥
 
  (6).—The wives of his enemies,—standing sighing in their palaces, addressing in pitiful terms their favourite parrots, looking, their sight dimmed by streams of tears, at the young ones of their pet antelopes, what did they not do when, afraid of him, they were about to depart for the forest, (and) when their minds had no hope ever to return?
 
- (7).— In battle his sword, applied by him to the broad frontal globes, covered with red lead, of the elephants of adversaries, (and) darkened by the bees[^1255](*which stuck to it*), was by his enemies seen moving rapidly to their own destruction, like Rāhu[^1256],coming in contact with the new(ly risen) sun.
+ (7).— In battle his sword, applied by him to the broad frontal globes, covered with red lead, of the elephants of adversaries, (and) darkened by the bees[^1255] (*which stuck to it*), was by his enemies seen moving rapidly to their own destruction, like Rāhu[^1256],coming in contact with the new(ly risen) sun.
 
 [^1255]: "The bees had sat before on the temples of the elephants.  "
 
@@ -8134,7 +7748,9 @@ rulers of Kanyākubja themselves, or to certain chiefs who owed allegiance to th
 
 [^1264]: "Metre, Sragdharā. "
 
-3. ............................... छं[दः](॑# " Metre, Śârdûlavikr̥īḍita.  ")पारदृशां तताध्वरजुषां विस्रायिनां नित्य\[शो ?\].......
+3. ............................... छंदः[^2383]पारदृशां तताध्वरजुषां विस्रायिनां नित्य\[शो ?\].......
+
+[^2383]: ॑# " Metre, Śârdûlavikr̥īḍita.  "
 
 4. .................................. 'न[^1265] जयन्तनामा तेनेन्दुनाजनि ततः प्रयतेन सूनुः॥ ..............
 
@@ -8167,58 +7783,36 @@ rulers of Kanyākubja themselves, or to certain chiefs who owed allegiance to th
 10. .......................... यत्राचिरात्॥
 [\[स?\]][^1271] \[सृ?\]ष्ये\[वोत्तर?\]दक्षिणंव\[न?\] भुवोन्ते दुश्चकुप्याह्वयं ग्रामंकोम्बधितस्थिवान्न्स्रपतिः पूर्वन्तद्\[१\]..............
 
-[^1271]: "Metre, Śardūlavikrīḍita."
-
 11. "कूटिन[^1270]चन्द्रकान्तैःक्वापि कापीन्द्रनीलैर्हरितकपिशितैःक्वापि सत्पद्म\[रागैः\]हर्म्यस्वास्योपरिष्टा\[द?\] ..................
-
-[^1270]: "Metre, Sragdharā."
 
 12. ......................... "विका[^1271]सुविकसत्कान्तिप्ररोहैर्ज्जनः। \[कु\]प्यार्थी इतचारुलोचनपथोचीच्चप्रम\[ज्या\]सञ्जातान्धा\[लो\]..........
 
-[^1271]: "Metre, Śardūlavikrīḍita."
-
 13. \[प्या[^1216]\]। दन्तेन्दुद्योतजाते (लै?) बंवलितककुमां चन्द्रसन्दिग्धमुग्धवक्त्रालोच्च लोकःपदमपि चलितुं.........
-
-[^1216]: "Metre, Vasantatilakā."
 
 14. ....................[\[वा\]][^1271]स्य राज्ञः॥ "अश्वी(ध्वी) नामत्ति योम्वू(म्बू)न्यनियमुपचितो वङ्किरौर्ध्वः क नष्टःसूर्याः शुष्यन्ति तानि क्व......
 
-[^1271]: "Metre, Śardūlavikrīḍita."
-
 15.
-...........................ब्धि[^1271](श्वि): प्रचुरतभूर्खक्सटीसौ द्वितीयः आपः प्रौढप्रतापोजनि जगति रजःपालनामा \[तृ१\].........
-
-[^1271]: "Metre, Śardūlavikrīḍita."
+...........................ब्धि[^1271] (श्वि): प्रचुरतभूर्खक्सटीसौ द्वितीयः आपः प्रौढप्रतापोजनि जगति रजःपालनामा \[तृ१\].........
 
 16. ................ "यानां[^1271] पतिताभिरम्य (ज्य) रतलात्स्वर्गौकसां दृष्टिभिः।पौष्पीभिः खलदंश्चिरगरमतं बीरे(श्व?)........
 
-[^1271]: "Metre, Śardūlavikrīḍita."
-
-17. .................... “सत्व[^1271](ज) स्य राशिः परः। बु(बु)द्धेःस्थानमपि त्रियां जलनिधिः पुण्यस्य धामोदभूसाहस गयः............
-
-[^1271]: "Metre, Śardūlavikrīḍita."
+17. .................... “सत्व[^1271] (ज) स्य राशिः परः। बु(बु)द्धेःस्थानमपि त्रियां जलनिधिः पुण्यस्य धामोदभूसाहस गयः............
 
 18. ..................... "\[द्दू[^1271]\] धवलस्य चावनिभुजबौलुक्यगोत्रस्वितेरन्या राजलदेविकेति विधिवह पर्यणैवीश्च..........
 
-[^1271]: "Metre, Śardūlavikrīḍita."
-
 19. .................... "\[तानि[^1271] सै\]न्यान्यलं जित्वा तस्यसुरारिथणे\[व\] जयिना स्वान्नीदहारि स्वयम्॥ "सौ(शौर्यप्रपंचतनु.......
-
-[^1271]: "Metre, Śardūlavikrīḍita."
 
 20. ......................[\[र्ण्ण\]][^1272]महीधरस्य सकलझापालचूडामणेस्तस्माद्रचितकीर्त्तिवनृ\[पति\] दत्वा(वा) स्वयं शासनम्। क्षि........
 
-[^1272]: "Metre, Sragdharā.."
+<MISSING_FIG href="../books_images/U-IMG-1700125797Screenshot2023-11-16143915.png"/>
 
-![](../books_images/U-IMG-1700125797Screenshot2023-11-16143915.png)
-
-![](../books_images/U-IMG-1698344896Screenshot(33).png)
+<MISSING_FIG href="../books_images/U-IMG-1698344896Screenshot(33"/>.png)
 
 L. 24. \[प्र\]क्षितः वृश्चित्वान्॥ रुद्रेरिव[^1284] कृरिन्द्रसौ(शौ)रिसदृ\[शो नौ\]र्यो शुभं वुर्ष्णुहस्सोन्व्रखामुदपीतिवि
 
 [^1284]: ".Metre, Vasantatilakā."
 
-![](../books_images/U-IMG-1700746849Screenshot2023-11-23191009.png)
+<MISSING_FIG href="../books_images/U-IMG-1700746849Screenshot2023-11-23191009.png"/>
 
 25. —— U\[म ? \]दवनिभुवी राजसिंहो नृसिंहः कुर्व्वन्नुग्रासिधाराप्रहतरिपुशिरःकन्दु ...........
 
@@ -8229,8 +7823,6 @@ L. 24. \[प्र\]क्षितः वृश्चित्वान्॥ �
 [^1285]: "Metre, Śārdalavikriḍita."
 
 28. ................[..\[ण\]ी र्व्वाम्मिनामग्र्यः][^1270] शखभृतां गुरुर्वि\[नयि\]नाम.........
-
-[^1270]: "Metre, Sragdharā."
 
 29. ......................[\[क\]ष्टोगमत्क्षत्त्रियः][^1287]॥ शौर्यश्रिया[^1288] प्र\[थि\]....................
 
@@ -8351,8 +7943,6 @@ princes, obtained splendour in this world together with elephants.' Lakshmikar�
 
  It is a curious coincidence that, in the passage just quoted, the army of Karṇa is compared to the milk-ocean, just as in verse 26 of the subjoined inscription, and Gopala to Madhumathana (*Vishṇu*), just as there Kirtivarman is compared to Purushottama (Vishnu); and it appears very probable that the composer of the inscription knew the *Prabodhachandrodaya* and borrowed from it his description of Kîrtivarman's victory over Karna. The reign of Kirtivarman and, together with it, the date of Kṛishnamiśra, the author of the *Prabodhachandrodaya*, is limited by A. D. 1050[^1316]and A. D. 1116, the date of Jayavarman's inscription[^1325].
 
-[^1316]: "See note 20."
-
 [^1325]: "Ante, p. 139."
 
  According to Bilhana's *Vikramânkadevacharita* (sarga i, verses 102 f.) Kîrtivarman's contemporary Karna of Dâhala or Dâhâla (i.e., Chedi) was defeated by the Western Châlukya king Âhavamalla II. (about 1042 to about 1068 A. D.). In another part of his poem (sarga xviii, verse 93), Bilhaṇa calls Karna, whose court he visited, 'the death to the lord of the Kâlañjara mountain' (*Kâlañjaragiripati*), i.e., to the Chandella king. This expression, if contrasted with the repeated statement that Kîrtivarman and his general Gopâla completely defeated Karna, illustrates the necessity of hearing the other party before drawing historical conclusions from an Oriental record.
@@ -8375,19 +7965,17 @@ If an inscription of *one* king asserts that he conquered another, it scarcely p
 
 [^1328]: "Here the remainder of verse 3 and 27 syllables of verse 4 are lost."
 
- 4.वतंसो वंशस्तस्मादजनि रजनीवज्ञभाहिश्वकान्तः॥\[५\] ततः पप्रथिरे वीराः [कलिव्याघ्रा](#)...
+ 4.वतंसो वंशस्तस्मादजनि रजनीवज्ञभाहिश्वकान्तः॥\[५\] ततः पप्रथिरे वीराः कलिव्याघ्रा[^2384]...
+
+[^2384]: #
 
  5. कुसमान्याशाखपर्वील्लसत्क्षीराम्भोधिंतरंगरंगणकलाःक्रीड़न्ति यत्कीर्त्तयः॥ \[७\] आसीन्नारायणस्तेषु \[गु[^1329]\]........॥
-
-[^1329]: "Here 23 syllables of verse 8 and the commenoement of verso 9 aro lost."
 
  6.स्य लोकः ॥ \[९\*\] जेजाख्ययाथ नृपतिः स बभूव जेजाभुक्तिः पृथोरिव यतः पृथिवीयमासीत्। वीजात्रयस्तदनुज[^1330]....
 
 [^1330]: "Here 20 syllables of verse 10 and the commencement of verse 14are lost."
 
  7. भूव॥ \[११\*\] हतरिपुकरिकुम्भमुक्तामुक्ताप्रकरमिषेण चकार लाजदृष्टिम्। असिवलभिगतेव यं विलोक्य स्फुटरणराज[^1008].....
-
-[^1008]: "Read बभूव."
 
  8. बभूव निविडं व्योमांगणे संगलन्नङ्गत्तुरङ्ग\[पु\]ङ्गवखुरतुण्णक्षमीत्थं रजः। क्रुध्यत्सारथयो यथासरलितग्रीवं सुखैर्नामिते\[रु[^1332]\]....
 
@@ -8459,7 +8047,7 @@ short invocation in line 1, throughout metrical. It shows a few grammatical mist
 
 [^1349]: "Indian Antiquary, vol. VI, p. 48; and vol. XIV, pp. 159 ff."
 
-![](../books_images/U-IMG-1709385173Screenshot2024-03-02182339new.png)
+<MISSING_FIG href="../books_images/U-IMG-1709385173Screenshot2024-03-02182339new.png"/>
 
 I. Udepur Prasasti.Paramâra. Upendra. Vairisimha I. Vak pati II. Sindhuraja. II. Navasahasankacharita. III. Nagpur Prašasti. Paramara. Slyaka I. 1 Vakpati I. Vakpati I. Vairisimha II.-Vajrata. Vairisimha. Harsba. Bhoja. Udayaditya. Paramâra. Upendra. Siyaka-Harshax Vaḍajā. VAkpati II.-Utpalaraja. Vairisimha. Styaka. 1 Mužja. Sindhurâja, or Navasahasáňka, or Kumaranâ- rayana. Sindhuraja.⁷IV. Land-grants. 223 Krishna. Bhoja. Udayaditya. Vairisimba. Styaka. 1 Vakpati, or Amoghavar- sha, or Prithivfvallabha, or Brivallabha; A. D. 974-975, and 979. Sindhuraja. Bhoja. A. D. 1021-22. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 7This name does not appear in either of the two publishede ditions. I owe it to Mr. J. F. Fleet, who possesses a paper impression of the inscription. Professor Kielhorn will give a new edition of the Prasasti in the Indian Anti. quary.
@@ -8694,8 +8282,6 @@ L.3. मूर्ध्नस्थिता \[असरितोन्न\] म
 11. तस्मादवन्तितरुणीनयनारविन्दभास्वानभूत्करकृपाणमरीचिदीप्रः \।  
 श्रीवाक्पतिः सतमखानुकृतिस्तुरंगा [गंगासमुद्रसलिलानिपिवन्ति यस्य ॥ \[१०\] ॥][^1406]**  
 
-[^1406]: "  64 Metre, Vasantatilake. Read 'शतमानुकृतिं."
-
 [^1407]: "Metre, Indravajra. Read वैरिसिंह'."
 
 [^1408]: " Metre, Vasantatilake. Read 'शत्रु जो."
@@ -8707,8 +8293,6 @@ L.3. मूर्ध्नस्थिता \[असरितोन्न\] म
 
 **13. तस्मादभूदरिनरेस्वरसंघसेवागर्ज्जङ्गजेंद्ररवसुंदरतूर्यनादः ।  
 श्रीहर्षदेव इति खोट्टिगदेवलक्ष्मीं जग्राह यो युधि नगादसमप्र[^1412][तापः॥ \[१२\]][^1412]॥[^1411]**
-
-[^1411]: "Metro, Salini The bracketed lettersare badly damaged."
 
 [^1412]: "Metre, Vasantatilaka. Read ‘नरेश्वर’; सेना."
 
@@ -8724,10 +8308,6 @@ L.3. मूर्ध्नस्थिता \[असरितोन्न\] म
 यच्च प्रणयिगणार्थितदाता कल्पद्रुमप्रख्यः॥ \[१४[^643][\]][^1415]॥[^643]  
 युवराजं विजित्याजौ हत्वा तद्वाहिनीपतीन् ।**
 
-[^643]: "Metre, Arya."
-
-[^1415]: "Metre, sardulavikridita. Read विभूषिता; the भू is not recognissble; read शौर्याा; शत्रुविभवाधिन्याय्यवित्तीदयः"
-
 **17. खड्गमूर्द्धीकृतं येन [त्रिपुर्यां विजिगीषुणा॥ \[१५\]][^1419]॥[^1420]  
 तस्यानुजो निर्ज्जितज्ञणराजः श्रीसिंधुराजो विजयार्ज्जितश्रीः।**
 
@@ -8739,29 +8319,17 @@ L.3. मूर्ध्नस्थिता \[असरितोन्न\] म
 आ कैलासाद्मलयगिरितोऽस्तोदयाद्रिहयादा  
 भुक्ता पृथ्वीपृथुनरपतेस्तुत्यरूपेण येन ।**
 
-[^1415]: "Metre, sardulavikridita. Read विभूषिता; the भू is not recognissble; read शौर्याा; शत्रुविभवाधिन्याय्यवित्तीदयः"
-
-[^1420]: "Metre, Upujati."
-
 **19. उन्मूल्योर्व्वीभरगुरु\[ग\]णालीलया चापयज्या  
 [क्षिप्ता दिक्षु क्षितिरपि परां प्रीतिमापादिता च ॥ \[१७\]][^1424]॥[^1420]  
 साधितं विहितं दत्तं ज्ञातं तद्यन्न केनचित् ।**
-
-[^1420]: "Metre, Upujati."
 
 [^1424]: "Metre, Mandakranta. The first syllable of गणा is very doubtful; read चापयक्षा"
 
 **20. किमन्यत्कविराजस्य [श्रीभोजस्य प्रशस्यते ॥ \[१८\]][^477]॥[^1420]  
 चेदीश्वरेंद्ररथ\[तोमा\]ल\[भीममु\]ख्यान्कर्णाटलाटपतिगूर्ज्जरराट्तुरुष्कान् ।**
 
-[^477]: "Metre, Anushtubh."
-
-[^1420]: "Metre, Upujati."
-
 **21. यन्नृत्यमात्रविजितानवलो\[क्य\] मौला दोणां वलानि [कलयंति न \[योद्दृ\] लो\[कान्\] ॥ \१९[^1428][\]][^477]॥[^1428]  
 केदाररामेस्वरसोमनाथ\[सुं\]ढीरकालानलरुद्र-**
-
-[^477]: "Metre, Anushtubh."
 
 [^1428]: " Metre, Vasantatilaka. The bracketed letters are all more or less doubtful, •तोग्ग• may have been •भोग्ग• or •सोग्ग•."
 
@@ -8789,13 +8357,15 @@ L.3. मूर्ध्नस्थिता \[असरितोन्न\] म
 
  (Verse 1.)May that Śambhu tend to thy welfare, on whose head the pure crescent of the moon looks like a sprout of the creeper of paradise that is desired by the worshippers, (standing) in a basin of snakes sprinkled by the water of Gaṅga![^1439]
 
- (2.) May that Śiva conduce to your happiness, before whom the harlots of the abode of the gods[^1440]needs ever dance to the sound of the loud, beautiful time beating of joyful Nandin's hands and to the tunes of Tumburu's soul-enchanting songs!
-
 [^1439]: "Sesha being coiled rouud Siva's neck, forms an alavala or basin which retains the water of Ganga when it flows from the head of the deity. The crescent of the moon on Siva's head elsewhere is compared with the bijan kura, the seed sprout, of the world; see, e.g., Bhoja's land-grant, Indian Antiquary, vol. VI, p. 53, verse 1. Strictly gangâmbvityâdi qualifies murdhni."
+
+ (2.) May that Śiva conduce to your happiness, before whom the harlots of the abode of the gods[^1440]needs ever dance to the sound of the loud, beautiful time beating of joyful Nandin's hands and to the tunes of Tumburu's soul-enchanting songs!
 
 [^1440]: " I.e., the Apsarases."
 
- (3.) May the daughter of the mountain (Párvatí) grant you prosperity,—she who, out of jealousy, as it were, of the aërial river (Gaṅgá) that rests on Śambhu's head, firmly clings to one half of his body, joining hers (to his), and who feels pleasure in every limb when she sees [the subjection of her lord!](#)
+ (3.) May the daughter of the mountain (Párvatí) grant you prosperity,—she who, out of jealousy, as it were, of the aërial river (Gaṅgá) that rests on Śambhu's head, firmly clings to one half of his body, joining hers (to his), and who feels pleasure in every limb when she sees the subjection of her lord![^2385]
+
+[^2385]: #
 
  (4.) May Gaṇeśa grant you happiness, in whose hand a sharp axe is raised in order to cut off, as it were, the root of the great sinfulness of his worshippers!
 
@@ -8827,9 +8397,9 @@ L.3. मूर्ध्नस्थिता \[असरितोन्न\] म
 
  (12.) From him sprang he who is called his glorious majesty Harsha, the sound of whose trumpets was beautiful like the noise of the roaring of mighty elephants in the armies of numerous hostile kings, he who, equalling the snake-eater (Garuḍa) in fierceness, took in battle the wealth of king Khoṭṭiga.[^1447]
 
- (13.) His son who, (being) the sole abode of good qualities, adorned the whole globe of the earth, the growth of whose riches was proportionate to the deposits of wealth (which he received) from all foes that were conquered by his bravery,[^1448] who, cultivating eloquence, high poetry and the art of reasoning, completely mastered the love of the Śastras, was he who is ever praised by the virtuous as his glorious majesty Vākpati;
-
 [^1447]: "The snake eater Garuda was the cognisance of the Paramaras; see the facsimiles of Vakpati's aud Bhoja's land, grants, Indian Antiquary, vol. VI, loc. cit. Naga is given in the Koshas as a synonym of någa."
+
+ (13.) His son who, (being) the sole abode of good qualities, adorned the whole globe of the earth, the growth of whose riches was proportionate to the deposits of wealth (which he received) from all foes that were conquered by his bravery,[^1448] who, cultivating eloquence, high poetry and the art of reasoning, completely mastered the love of the Śastras, was he who is ever praised by the virtuous as his glorious majesty Vākpati;
 
 [^1448]: "The translation follows the emended reading which I have proposed in the notes to the text."
 
@@ -8863,9 +8433,9 @@ Malaya hills, and up to the two mountains of the setting and the rising sun; he 
 
  (22.) Lo! how easy was the rescue of this earth for that Paramâra, by whom the primeval boar was restored without a difficulty.[^1454]
 
- (23.)...........................................................
-
 [^1454]: " 94 “By whom the primeval boar was restored,"
+
+ (23.)...........................................................
 
 **XXIX.—THE NEW INSCRIPTION OF TORAMANA SHAHA.  
 By G. BÜHLER, PH.D., LL.D., C.I.E.**
@@ -8885,10 +8455,10 @@ of the Gupta period, but show certain peculiarities. Very characteristic are the
 L. 1. - \[राजा\] - राजमहाराजतोरमाणषा \[हि\] जक्त- - [\[भिवर्धमानराज्ये
 ----संवत्सरे\]'][^1455]
 
+[^1455]: "The letters placed between brackets are very faint and partly doubtful. The first title seems to have been राजाधिराजवाहि,originally suggested by Mr. Fleet, is plain on the second impression. Probably जऊण्लस्याभिhas to be restored according to a suggestion of Mr. Fleet. I read originally जऊ- - - - प्र."
+
 2.- - - - -'मे मार्गशिरमासशुक्लद्वितीयायाम् चा \[न्द्रमग्र\] -------
 --------गग[^1456]
-
-[^1455]: "The letters placed between brackets are very faint and partly doubtful. The first title seems to have been राजाधिराजवाहि,originally suggested by Mr. Fleet, is plain on the second impression. Probably जऊण्लस्याभिhas to be restored according to a suggestion of Mr. Fleet. I read originally जऊ- - - - प्र."
 
 [^1456]: "The bracketed letters are very doubtful with the exception of the syllable न्द्रsuggested by Mr. Fleet."
 
@@ -8989,7 +8559,7 @@ BY G. BÜHLER, PH.D., LL.D., C.I.E.
 
  The next portion of the poem (verses 6-19) gives an account of certain members of the Tomara family (verse 6), the last three of which dedicated the temple mentioned in the inscription. The pedigree of the Tomaras enumerated is as follows:—
 
-![](../books_images/U-IMG-1709655064Screenshot2024-03-05160006.png)
+<MISSING_FIG href="../books_images/U-IMG-1709655064Screenshot2024-03-05160006.png"/>
 
 Jaula (verses 6-8).  
 Vajrata, married to Mangaladevi (verses 9-10).
@@ -9032,6 +8602,8 @@ L. 1. ओंनमो माधवाय ॥
 
 L.2.[धानपुरुष ≍पायात्स वः शार्ङ्गभृत् ॥ \[१ \] ॥][^1473]
 
+[^1473]: "6. Metre, Šârdûlavikrîḍita. The second, third, and fourth be filled up by स्मंसारसि, that in the last perhaps by दुरितगणं among the bracketed sigus, as well as the vowel of the last, चारु.are faintly visible."
+
 दृष्टि≍\[पायान्निजग\]दखिलं शार्ङ्गिणं x कान्तमूर्ते x  
 कान्ता सद्भ्रूस्फुरितसुभगस्निग्धताराभिरामा ।  
 3. उद्यत्तीव्रस्मरजलनिधौमज्जतश् श्रीमुखेन्दुस्फारज्योत्स्ना\[भव\][≍≍\[रुच\]: स्मेरगण्डस्थलस्य ॥ \[२\]॥][^1474]  
@@ -9043,8 +8615,6 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 भिन्दान≍ परवलमानसं समन्तात् ।  
 सश्श्रीमाञ्जयति महेन्द्रपालदेवः  
 [शान्तारिश् शशधरसुन्दरः शरण्यः ॥ \[५\] ॥][^1477]
-
-[^1473]: "6. Metre, Šârdûlavikrîḍita. The second, third, and fourth be filled up by स्मंसारसि, that in the last perhaps by दुरितगणं among the bracketed sigus, as well as the vowel of the last, चारु.are faintly visible."
 
 [^1474]: "7 Metre, Mandakranta. In the first Pada the first, seoond,and fifth among the bracketed syllables, as well as the vowelof the third, are faintly visible. °भव° in the fourth Pāda isnot certain ; °रुच° only half visible."
 
@@ -9081,13 +8651,9 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 प्राप्ताशेषमनोरथश् शुभतरव्यापारतुङ्गोन्नतिः[॥\[९॥\]][^119]  
 तस्य स्फुरदिन्दुरुचिः शौरेरिव जलधिकन्यका जाता \[\।\]
 
-[^119]: "Metre, Śârdûlavikrîḍita."
-
 नाम्नामङ्गलदेवी जाया गिरिजेव गिरिशस्य[॥\[१०॥\]][^135]  
 तस्मात्तस्याञ्जज्जुक≍प्रादुरासीदुच्चैश् शान्तस्मत्सु निर्मत्सरेषु।  
 क्रूर x केतुर्द्दुर्द्दरारातिचक्रे क्रुद्यत्सेनाकुञ्जरङ्घानरौद्रे[॥\[११॥\]][^1483]
-
-[^135]: "Metre, Âryâ."
 
 [^1483]: "Metre, Śâlinî."
 
@@ -9096,12 +8662,6 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 सद्वृत्तरक्तवनितातिलकाङ्गकल्पे  
 कान्ते बभूवतुरुदारशशाङ्ककान्ते[॥\[१२॥\]][^113]  
 एका चन्द्रेति विख्याता द्वितीया नाद्दंकेति च।  
-
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
 
 विशिष्टगुणनिर्माणाद्वेएव सदनं श्रियः[॥\[१३॥\]][^1485]  
 चन्द्रायास्ममजनि गोग्गनामधेयो धीराणां धुरि विनिवेशितो विधात्रा।  
@@ -9131,25 +8691,23 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 नामापि प्रकटतरं निशंम्ययस्य क्रुद्धस्य भ्रुकुटितरङ्गिताननस्य।  
 दृप्तानां युधि विकसद्विगाढभासां
 
-[^827]: "Metre, Mandâkrântâ."
-
 **16.** सस्रंसे करतलतः कृपाणदण्डः। [\[१८॥\]][^1490]
+
+[^1490]: "Metre, Praharshinî. Read निशम्य."
 
 यदास्यसरसीरुहं सरसमर्थिनां पश्यता-  
 न्नितान्तमगमत्क्षणात्क्षयमुपद्रवो मानसः।  
 व्यधूर्णत च सम्भ्रमात्प्रतिभटङ्घनद्दन्तिनां  
 घटा विघटनोन्मुखी
 
-[^1490]: "Metre, Praharshinî. Read निशम्य."
-
 **17.** समिति यस्य सद्यः पुरः[॥ \[१९॥\]][^1491]
+
+[^1491]: "Metre, PṛithvÎ."
 
 इत्युद्दामप्रकटितगुणोद्गाररम्या x क्रमेण  
 प्राप्तश्रीकाश् शुभतरधियस्माधुरक्तास्त्रयोपि।  
 विणोस्मौधान्यतुलमहस X कारयामासुरत्न  
 त्रस्तास्ती\[व्राङ्मवजल\]निधेर्द्दुर्ग\[मा-\]न्मन्दवोधैः[॥\[२०॥\]][^1492]
-
-[^1491]: "Metre, PṛithvÎ."
 
 [^1492]: "Metre, Mandâkrântâ. Read विणोº. The bracketedsigns are very indistinct."
 
@@ -9160,23 +8718,21 @@ L.2.[धानपुरुष ≍पायात्स वः शार्ङ्
 
 [^1493]: "Metre, Anushṭubh. Read ºतमसच्छिदे.."
 
-[^114]: "Metre, Anushṭubh."
-
 धन्वन्तरि\[प्र\]तिनिधिश् श्रुतसारमूर्ति-  
 **19.** स्सद्बन्धुरच्युत इति प्रकटाभिधानः।  
 काम्बोजज≍प्रभुमन X कमलद्विरेफो  
 रामस्य सूनुरिह कारयिता वभूव॥ [\[२३॥\]][^1495]
 
+[^1495]: "Metre, Vasantatilakâ. The last syllable of the firstPâda is not very distinct."
+
 यक्षपालकनामैको द्वितीयो गेज्जराभिधः।  
 पाटला\[ख्य\]स्तृती\[योपि ग्रा-\]
 
-[^1495]: "Metre, Vasantatilakâ. The last syllable of the firstPâda is not very distinct."
-
 **20.** मो भोगाय कल्पितः[॥\[२४॥\]][^1496]
 
-अत्रार्यैः क्ष्मानाथैः श्रेयोर्थं देहस्य।संसारं दृष्ट्वोचैः कर्तव्या सद्बुद्धिः[॥ \[२५॥\]][^1497]
-
 [^1496]: "Metre, Anushṭubh. The bracketed syllables have beenconjecturally restored."
+
+अत्रार्यैः क्ष्मानाथैः श्रेयोर्थं देहस्य।संसारं दृष्ट्वोचैः कर्तव्या सद्बुद्धिः[॥ \[२५॥\]][^1497]
 
 [^1497]: "Metre, Sàvitrî Read दृद्दीशे :—"
 
@@ -9310,11 +8866,9 @@ his name is mentioned here[^1500],shows that he must have been a poet of great r
 
 **TEXT.**[^1502]
 
-ओं[^894] \[॥^(×)\] ओं नमः शिवाय॥
-
-[^894]: "Expressed by a symbol."
-
 [^1502]: "From two impressions, ono taken by Dr. Burgoss, andthe other by Mr. Fleet."
+
+ओं[^894] \[॥^(×)\] ओं नमः शिवाय॥
 
 पायाद्दः स समस्तमंगलनिधिः शम्भोर्ज्जटाजूटको
 
@@ -9342,8 +8896,6 @@ his name is mentioned here[^1500],shows that he must have been a poet of great r
 
 पायाद्वःस जटावनैककुसुमं शार्व्वः सुधादीधितिः॥[^1505] −\[3\].
 
-[^1505]: "Metre, ŚârdûlavikrÎḍita."
-
 दिक्षुप्रेंणाभियोगप्रवलितवलनाविभ्रमाकाण्डचण्डै-
 
 र्दोर्दण्डानां प्रकामप्रथिमभिरनिलैर्दूरसुत्सारितासु।
@@ -9352,15 +8904,11 @@ his name is mentioned here[^1500],shows that he must have been a poet of great r
 
 मव्यादव्याहतेच्छं त्रिपुरविजयिनस्ताण्डवाडम्व(म्ब)रम्वः[^1508]॥[^200]–\[4\].
 
-[^200]: "Metre, Sragdharâ."
-
 [^1508]: "Read °र वः; चाउखर is ordinarily used as a masculine noun."
 
 वन्शेत्र[^1510]सोमसंभूतौ वाचंनिक्षिपता मया \[।^(×)\]  
 हन्त हस्तैरुपक्रान्ता मोहेन वियतो मितिः॥[^168].")–\[5\].  
 वाचामुज्व(ज्ज्व)लिमापि नास्ति यदि मे तत्कीर्त्त्यमानोच्यते-
-
-[^168]: "Metre, Śloka (Anushṭubh
 
 [^1510]: "Read वंशेव.'"
 
@@ -9369,8 +8917,6 @@ his name is mentioned here[^1500],shows that he must have been a poet of great r
 यद्वापश्य निसर्ग्गकालिमभुवोप्याशेभदानच्छटाः
 
 क्षीरोदन्वति किलसङ्गतिभृतस्तच्छायताम्विभ्रति[^1512]॥[^1505]–\[6\].
-
-[^1505]: "Metre, ŚârdûlavikrÎḍita."
 
 [^1512]: "Read ºवांविधति."
 
@@ -9640,18 +9186,12 @@ L.19 कामं यः कमनीयसुन्दरगुणैर्न�
 अस्मात्सदाशिवः शिष्यस्तपोराशिरभून्नृपैः।  
 [यत्पादयहयम्वन्द्यमर्च्चितं](https://॑॑# "Read यस्व पादद्वयं वन्द्य०.") शेखरांशभिः॥[^168].")—\[51\].**
 
-[^168]: "Metre, Śloka (Anushṭubh
-
 **[अस्मादभून्साधुमतेयनामा](https://# "Originally°मातेय°, altered to °मतेय° .")शिष्यः सुधामा फलमूलवृत्तिः।  
 तपान्सितेजान्सि[^1516]च यत्रवासमनन्यसंक्रान्तिगुणेन चक्रुः॥[^122]—\[52\].  
 अस्माच्चूडाशिवः शिष्योवन्दनीयतमोभवत्।  
 21. कर्म्मजालमलं येन नीतमस्तं मुमुक्षुणा॥[^168].")—\[53\].  
 अथ सकलगुणानामाकरस्तस्य शिष्यो हृदयशिवसमाजो यद्यशोद्यापि वर्ण्ण्यं।  
 नृपमुकुटनिविष्टैर्यस्य माणिक्यचक्रैरकृत चरणमूलं कान्तमेकान्तवन्द्यम्॥[^1519]—\[54\].**
-
-[^122]: "Metre, Upajâti."
-
-[^168]: "Metre, Śloka (Anushṭubh
 
 [^1516]: "Read तपांसि तेजांसि."
 
@@ -9662,21 +9202,15 @@ L.19 कामं यः कमनीयसुन्दरगुणैर्न�
 किञ्जस्माक्षमयाम्वु(म्बु)दः समतया मर्यादयान्भोनिधि-  
 वैराग्येन(ण) जितः स्मरः स भगवान्कस्यास्पदं न \[स्तु\]तेः॥[^123]—\[55\].**
 
-[^123]: "Metre, Śârdûlavikriḍita."
-
 [^1520]: " Readबंधवितता."
 
 **22. किं स्तूयतेसौ मुनिपुङ्गवोथवा श्रीचेदिचन्द्रो नृपतिः कृतादरः।  
 सद्वृत्तदूतमहितैरुपायनैःप्रदर्श्यभक्तिम्विधिनानिनाय[^1522]यम्॥[^183]—\[56\].**
 
-[^183]: "Metre, Vaṁśastha."
-
 [^1522]: "Read भक्तिं विधिमाº."
 
 **श्रीमल्लक्ष्मणराजोपि तस्मै सुतपसे स्वयम्।  
 मठं श्रीवैद्यनाथस्य भक्तियुक्तः समार्प्पयत्॥[^168]; and of the next verse.")—\[57\]**
-
-[^168]: "Metre, Śloka (Anushṭubh
 
 **स्वीकृत्यापि मुनिर्भूदो मठं श्रीनौहलेवरम्।  
 अघोरशिवशिष्यस्य साधुष्ठ वृ\[त्त\]ह्य स्यदत्तवान्॥–\[58\].**
@@ -9795,14 +9329,10 @@ L.23 दिशमतिशयरम्यां सम्प्रतस्थ�
 न्वि(वि)चिन्वन्नोयातो विषविषयवे\[ग\]स्य कलनाम्॥[^127]- \[83\].  
 तेनेयं प्रशस्तिः सङ्गतिमानीता॥ श्रीत्त्रिपुरो\[सौ\] भाग्यपुरलवणनगरदुर्लभपुरविमान\[पु?\]र. . .**
 
-[^127]: "Metre, Śikhariṇî."
-
 **[. .. . . .](https://# "Hero about nine aksharas are illegible.")**
 
 **33.[. . . . .](https://# "Here two or three aksharas are illegible.")\[भि?\]: काष्ठ\[वृ?\]षः प्रत्यहमय रक्षितः समानेयः।  
 \[देव\]. . . . . . . . .\[चारा?\]–\[चारु?\]दारुणि॥[^116].")–\[84\].**
-
-[^116]: "Metre, Âryâ (P
 
 **सुन्निष्टव(ब)न्धघटना विस्मितकविराजशेखरस्तुत्वा।  
 आस्तामियमाकल्पं कृतिश्च कीर्त्तिश्चपूर्व्वा च॥[^1529]– \[85\].  
@@ -10083,21 +9613,21 @@ and that headless corpses were running away, that the young imps were howling, t
 
   The second point of historical interest which the inscription offers, is the statement that Visvamalla had a younger brother, called Pratapamalla, and that the
 
-![](../books_images/U-IMG-1698509108Screenshot2023-10-28213243.png)
+<MISSING_FIG href="../books_images/U-IMG-1698509108Screenshot2023-10-28213243.png"/>
 
 **RATANPUR INSCRIPTION OF JAJALLADEVA ; CHEDI YEAR 866**
 
-![](../books_images/U-IMG-1698509495Screenshot2023-10-28213952.png)
+<MISSING_FIG href="../books_images/U-IMG-1698509495Screenshot2023-10-28213952.png"/>
 
 **GWALIOR INSCRIPTION OF THE YEAR 933.**
 
-![](../books_images/U-IMG-1698509882Screenshot2023-10-28214741.png)
+<MISSING_FIG href="../books_images/U-IMG-1698509882Screenshot2023-10-28214741.png"/>
 
 second Våghelà king Arjuna was the son of the latter. The *Prabandhas* knówn to me, which notice the Vaghelà kings, speak only of an elder brother, Virama, whom Vastupala removed in order to secure for Visvamalla the succession to the throne of Dholka. The works, in which Arjuna's name occurs, e.g., the *Vichárasreņi*, Dr. Bhandarkar's anonymous Fragment, and the *Pravachanaparikshá*, state nothing regarding his relation to his predecessor. Thirdly, the inscription informs us that the name of Viśvamalla's wife, i.e., his first queen, was Någalladevi. With respect to Saranga, finally, we are told that he defeated the Yâdava and Mâlava kings, and we may at least infer from this statement that the old feuds of the Chaulukyas with their south-eastern and eastern neighbours continued almost as long as their kingdoms existed. The Yadava foe of Saranga must have been Ramachandra, the last independent Hindu monarch of Devagiri, who mounted the throne in 1271 A.D., and died in 1309 A.D., as a vassal of the Muhammadan emperor of Delhi. The name of the king of Mâlava, with whom Sâranga fought, is ascertainable from the authentic lists hitherto published.
 
   The pedigree of the first Vâghelâs stands now, if we include Visvamalla's father Viradhavala, as follows:—
 
-![](../books_images/U-IMG-1698166545Screenshot2023-10-24222522.png)
+<MISSING_FIG href="../books_images/U-IMG-1698166545Screenshot2023-10-24222522.png"/>
 
   The next following portion of the inscription, verses 14-39, is devoted to a description of the spiritual family of Tripurântaka, the benefactor of the Tirtha of Somanâtha, and to an account of his virtues and his adventures. The section is introduced, as is often done in the late inscriptions and poems of Gujarât, by the words *itaś cha*, “and now," and its opening verses run as follows:—
 
@@ -10129,7 +9659,7 @@ second Våghelà king Arjuna was the son of the latter. The *Prabandhas* knówn 
 
   (22.) “That pupil of Vâlmîkirâsi, of appropriate name, called Tripurântaka, sanctified the four quarters of the horizon in cosequence of his desire to visit other sacred places."
 
-  These verses make us acquainted with three teachers of the Gargya branch of the Lakulisa-Pasupatas, who apparently were in succession abbots or spiritual directors at some sacred place or of some *Matha*⁴[^1536]in Gujarât. Possibly the place where they resided may have been Kârohana. But this is not certain; for the four last syllables in verse 18 may have contained some other geographical name, and the sense of the verse may be that a *Matha* or sanctuary was established *there* by the spiritual descendants of the four pupils of Lakulisa.⁵[^1537]But in any case it is indisputable that Karohana in Lâța or Central Gujarât was the head establishment of these Saivas, because Śiva is said to have there become incarnate as Lakulisa. Kârohaṇa is, it would seem, the modern Kârvân on the Miyâgâm-Dabhoirailway; this village was according to its *Máhátmya* formerly called Kayavirohana or Kayarahun (*Káyárohana ?*),⁶[^1538] and was according to tradition the place where Mahâdeva, who had been born as Nakulêśvara in the family of a Brâhman of Ulkâpuri, or Avâkhal, re-assumed his divine shape.[⁷](#) It is "one of the four oldest and most famous seats of the worship of Siva," and is situated in the district which used to be called Lâta. The words *Lakulisa* and *Nakuliśa* are two vicarious forms, of which the former is possibly the older one,"⁸[^1539] that the change of la to na is more common then that of na to la; (2) that Lakulisa can be easily explained as a compound of lakulin, e., bakuțin, and ísa, 'the lord wearing the staff,'i.e., the khatvanga.") though the latter one is that commonly used in Sanskrit literature. The doctrines
+  These verses make us acquainted with three teachers of the Gargya branch of the Lakulisa-Pasupatas, who apparently were in succession abbots or spiritual directors at some sacred place or of some *Matha*⁴[^1536]in Gujarât. Possibly the place where they resided may have been Kârohana. But this is not certain; for the four last syllables in verse 18 may have contained some other geographical name, and the sense of the verse may be that a *Matha* or sanctuary was established *there* by the spiritual descendants of the four pupils of Lakulisa.⁵[^1537]But in any case it is indisputable that Karohana in Lâța or Central Gujarât was the head establishment of these Saivas, because Śiva is said to have there become incarnate as Lakulisa. Kârohaṇa is, it would seem, the modern Kârvân on the Miyâgâm-Dabhoirailway; this village was according to its *Máhátmya* formerly called Kayavirohana or Kayarahun (*Káyárohana ?*),⁶[^1538] and was according to tradition the place where Mahâdeva, who had been born as Nakulêśvara in the family of a Brâhman of Ulkâpuri, or Avâkhal, re-assumed his divine shape.⁷[^2386] It is "one of the four oldest and most famous seats of the worship of Siva," and is situated in the district which used to be called Lâta. The words *Lakulisa* and *Nakuliśa* are two vicarious forms, of which the former is possibly the older one,"⁸[^1539] that the change of la to na is more common then that of na to la; (2) that Lakulisa can be easily explained as a compound of lakulin, e., bakuțin, and ísa, 'the lord wearing the staff,'i.e., the khatvanga.") though the latter one is that commonly used in Sanskrit literature. The doctrines
 
 [^1536]: "Sthana has both meanings."
 
@@ -10138,6 +9668,8 @@ second Våghelà king Arjuna was the son of the latter. The *Prabandhas* knówn 
 [^1538]: "Though I consider the identity of Kârohaṇa and Kârvâṇ to be certain, I do not mean to say that the two names are identical. With respect to the word kârvân, I adhere to the opinion, expressed in the Indian Antiquary, vol. XVIII, p. 176, and consider Karohaṇa, like Kayavirohana, as an attempt at finding a Sanskrit equivalent for the Gujarâtî word."
 
 [^1539]: "Regarding the substitution of na for la and of la for na see Kuhn, Beiträge zur Pali-Grammatik, pp. 38 and 44; Hemachandra, I, 230, 257; Beames, Comparative Grammar.§248; Hoernle, Grammar of the Gandian languages, § 111. My reasons for considering Lakulîsa as the older form are, (1
+
+[^2386]: #
 
 of the Nakulisa Pasupatas are explained at length in Sâyaṇa's *Sarvadarśanasaṁgraha*, pp. 108ff. (Cowell and Gough). But nothing is known regarding their history. It is therefore very interesting to learn that in the thirteenth century A.D. Gujarât was considered to be the country where the sect arose and that Kârohana— Kârvân claimed the honour of being the place where its founder was born and where his school was divided into four branches. It must, of course, depend on the results of further discoveries, which an archaeological exploration of the site of Kârvan will no doubt furnish, whether we can accept these claims as well founded. As regards the antiquity of thesect, not much can be gathered from the statements in the inscription. Kârttikarasi, the first historical head of these Pâsupatas, cannot have succeeded to his office much before the year 1225 A.D. since the third was alive in 1287.
 
@@ -10175,7 +9707,7 @@ and Gujarât. As I am not able to institute such, my translations and explanatio
 
 [^1547]: "Jagati has here the meaning vastu, given for the word in the Vaijayanti of Yadavaprakasa. Compare also the vernacular jago, jagya, ' place, spot,' etc."
 
-  (48.) "Both these (*things*) must be procured⁴[^1548](and used) by a particularly clever pupil (batuka) in return for the use of the naivedya food⁵[^1549]and of the money (allotted) for his monthly expenses.⁶[^1550](*These verses form*) a couplet.
+  (48.) "Both these (*things*) must be procured⁴[^1548] (and used) by a particularly clever pupil (batuka) in return for the use of the naivedya food⁵[^1549]and of the money (allotted) for his monthly expenses.⁶[^1550] (*These verses form*) a couplet.
 
 [^1548]: "The verb kri is used here, just as in Gujarati and other vernaculars, in a very loose manner, and must be variously rendered, as the context requires, by 'procure,' 'assign,' etc. The meaning is here that the Batuka or Chelft is not only to procure the things mentioned, butalso to use them. It will appear in the sequel that he is to do all the manual work of the worship."
 
@@ -10185,9 +9717,9 @@ and Gujarât. As I am not able to institute such, my translations and explanatio
 
   (49.) "He (*Tripurântaka*) who was purified by his natural inclination for giving gold, presented, out of kindness towards the town of the god who bears the crescent of the moon on his head, every month eight drammas for (the purchase of) sandal-wood in the mapdraka."⁷[^1551]
 
-  (50.) "The guild of the gardeners shall furnish daily two hundred white roses (*ś**atapattra*) and two thousand fragrant oleander blossoms (*kanavira*).⁸[^1552]
-
 [^1551]: "I am unable to explain this word, which looks suspicions. But the letters are perfectly distinct."
+
+  (50.) "The guild of the gardeners shall furnish daily two hundred white roses (*ś**atapattra*) and two thousand fragrant oleander blossoms (*kanavira*).⁸[^1552]
 
 [^1552]: "Kanavira is the Prâkrit and vernacular form of Sanskrit karavira. The equivalent which the gardeners received for furnishing these flowers is mentioned below, vorse 65."
 
@@ -10205,19 +9737,17 @@ and Gujarât. As I am not able to institute such, my translations and explanatio
 
 [^1557]: "The singular dipâyais probably used loosely for the plural. The lamps are required for the Arâtrika in the morning and evening."
 
-  (53.) "Five betel-nuts of good quality—(all this) was provided by that constant man, a judge of the merits of others, daily in the store-house.¹⁴[^1558](These two verses form) a couplet.
+  (53.) "Five betel-nuts of good quality—(all this) was provided by that constant man, a judge of the merits of others, daily in the store-house.¹⁴[^1558] (These two verses form) a couplet.
 
 [^1558]: "I have left out in the translation the word sthitake, which occurs also below in verses 60, 61, and 66, as neither the dictionaries nor the koshas accessible furnish an olue to its meaning. May it mean 'in perpetuity P'"
 
-  (54.) "He who is attached to the performance of meritorious works, caused to be provided even here[¹⁵](#)every month two manas¹⁶[^1559]of fragrant gum (guggula) for the time of offering incense.
+  (54.) "He who is attached to the performance of meritorious works, caused to be provided even here¹⁵[^2387]every month two manas¹⁶[^1559]of fragrant gum (guggula) for the time of offering incense.
 
 [^1559]: "A maṇa, now commonly called a maund, is equal to about 40 pounds, or, if kâchâ, to 20 pounds."
 
+[^2387]: #
+
   (Verse 55.) "The *Mehara*¹[^1560]shall give daily fifty leaves of .... betel pepper for the preparation of *biṭakas.*²[^1561]
-
-[^1560]: "The Mehara probably belonged to the Kathiâvâd caste called Mer in the Bombay Gazetteer, and described there, vol. VIII, pp. 137-38. He was probably in some way, perhaps as watchman, connected with Tripurântaka's temples, and received an allowance from him, though none is mentioned specially."
-
-[^1561]: "A bijaka is the little three-cornered parcel of ground arecanut, lime, etc., which is wrapped up in a betel pepper leaf and held together by a clove stuck into the leaf, what is usually called pân-supárí."
 
   (56.) "That which thus has been provided for the offerings in the sacred place (*the temples*) must be fetched by the Paśupâla³[^1562]from the store-house of glorious \[*Somanátha*\]⁴[^1563]and be given (by him to the person performing the worship).⁵[^1564]
 
@@ -10237,9 +9767,9 @@ and Gujarât. As I am not able to institute such, my translations and explanatio
 
   (59.) "After performing the declaration of purpose (*samkalpya*), the *Pasupála* must give that *Naivedya* and the *bítakas* to the pupil who performs *\[the worship*\].⁸[^1567]
 
-  (60.) "He (*Tripurántaka*), the most excellent of the virtuous, caused one dramma to be assigned daily (from the revenue) in the custom-house (*mandapika*) by an edict (*sasana*) of the *Cháturjátaka*.⁹[^1568]
-
 [^1567]: "Compareabove, verse 48. The mention of the bijakas shows that the enumeration of the materials in verse 57 is not complete, and that the word iti, which is added at the end, really means 'and so forth.'"
+
+  (60.) "He (*Tripurántaka*), the most excellent of the virtuous, caused one dramma to be assigned daily (from the revenue) in the custom-house (*mandapika*) by an edict (*sasana*) of the *Cháturjátaka*.⁹[^1568]
 
 [^1568]: "The meaning is that Tripurântaka paid money in order to secure this grant and that mentioned in the next verse. For verse 71 declares that he purchased the sarana with his pure self-acquired wealth. Regarding mandapikâ, ‘ a customhouse,' see ante, pp. 7 and 115. I have again omitted the word sthitake."
 
@@ -10263,9 +9793,9 @@ and Gujarât. As I am not able to institute such, my translations and explanatio
 
 garland of the faith in the god (Siva), made over to the gardeners in exchange for their daily furnishing the quantity of flowers (required) for the worship.¹[^1573]
 
-  (Verse 66.) "The merchants²[^1574]too assigned from each shop one *dramma* in order to provide the *pavitraka* and the *vistaraṇa* at the festivals on the full-moon days of Chaitra and, Bhadrapada.³[^1575]
-
 [^1573]: "This was apparently the remuneration for which the guild of the gardeners furnished the flowers mentioned above in verse 50."
+
+  (Verse 66.) "The merchants²[^1574]too assigned from each shop one *dramma* in order to provide the *pavitraka* and the *vistaraṇa* at the festivals on the full-moon days of Chaitra and, Bhadrapada.³[^1575]
 
 [^1574]: "I translate mahājanaḥ by 'the merchants in accordance with the usual acceptation of mahājan in Gujarâtî."
 
@@ -10283,13 +9813,13 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
   (69.) "After the Paśupâlaka has first worshipped these five temples according to the manner (*prescribed*) for (*the worship of*) divine Someśvara, he shall afterwards ascend the stairs (*leading to the temple*) of the glorious deity.⁷[^1579]
 
-  (70.) “He (*Tripurántaka*) gave to the worshipful Châturjâtaka a *dharmasthána*^(8[^1580])for repairing what may have been broken or have fallen (*into disrepair*) on the fullmoon days of Chaitra and of Bhadrapada.
-
 [^1579]: "This rule, too, no doubt refers to the Sivaratri."
+
+  (70.) “He (*Tripurántaka*) gave to the worshipful Châturjâtaka a *dharmasthána*^(8[^1580])for repairing what may have been broken or have fallen (*into disrepair*) on the fullmoon days of Chaitra and of Bhadrapada.
 
 [^1580]: "Dharmasthâna must here mean 'land or money assigned for a religious purpose' according to the analogy of devasthâna, which in the modern vernaculars commonly means land or payments of money in support of a templo ; ' see, o.g., Molesworth, Marathi Dictionary, sub voce."
 
-  (71.) "As he procured this *dharmasthána*, and this grant⁹[^1581](*śâsana*) with pure self-acquired property, the banner of his fame, which is connected with his temples, glitters brilliantly white like the full moon."
+  (71.) "As he procured this *dharmasthána*, and this grant⁹[^1581] (*śâsana*) with pure self-acquired property, the banner of his fame, which is connected with his temples, glitters brilliantly white like the full moon."
 
 [^1581]: "I.e. probably that mentioned above in perses 60-61."
 
@@ -10315,9 +9845,9 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 पीयूषभानुकलिकाकलितावतंसो  
 देवः शिवानि वितनोतु दिवानिशं वः। २ \[॥\]²[^1584]
 
-**3.**त्रैलोक्यमंगलमनंगरिपोरपत्य-
-
 [^1584]: "Metre of verses 2-5, Vasantatilakâ."
+
+**3.**त्रैलोक्यमंगलमनंगरिपोरपत्य-
 
 मंकूरितैकदशनोल्लसदाननश्रीः।  
 देवः प्रपद्य हृदयैकपदीं कपर्दो
@@ -10343,11 +9873,11 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
 शस्त्रैस्तेन चिकित्सितास्तदुचितं विश्वोपकारव्रत-
 
-स्नातेन प्रतिभूभुजामपि हृदः प्रौढा मदग्रंथयः। ६ \[॥\]⁴[^2379]
+स्नातेन प्रतिभूभुजामपि हृदः प्रौढा मदग्रंथयः। ६ \[॥\]⁴[^1586]
+
+[^1586]: "Metre, śārdūlavikridita."
 
 **7**नागल्लदेवीति बभूव यस्य जाया जयश्रीरिव देहवद्धा।
-
-[^2379]: "Metre, śārdūlavikridita."
 
 तया स राजा सुतरां बभासे भासेव देवो हरिणांकमूर्त्तिः। ७ \[॥\]⁵[^1587]  
 **.8**आशांतविश्रांतभुजप्रतापः प्रतापमल्लावरजः स राजा।
@@ -10389,10 +9919,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 भुवं विभूषयामास चतुरर्ण्यवसुद्रितां। १७ \[॥\]⁸[^1595]  
 एतैरनुगृ-
 
-[^643]: "Metre, Arya."
-
-[^718]: "Metre, Upajati."
-
 [^1590]: "The first syllable of ºनिमग्रºis indistinct."
 
 [^1591]: "Metre, Vaithaliya."
@@ -10422,12 +9948,10 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 तीर्थांतरालोकनकौतुकेन पवित्रयामास दिशश्चतस्रः।२२ \[॥\]³[^718]  
 पूर्वं तपस्विगृहिणीस्पृहणीयमूर्त्ति-
 
-[^718]: "Metre, Upajati."
-
 र्यो देवदारुविपिने वि\[जहार\] देवः।  
 **23.**आशावधूलवणिमानमनुग्रहीतुं  
 तीर्थावगाहनमिषेण चचार सोयं।२३ \[॥\]⁴[^1599]  
-![](../books_images/U-IMG-1698337669Screenshot2023-10-26215702.png)
+<MISSING_FIG href="../books_images/U-IMG-1698337669Screenshot2023-10-26215702.png"/>
 
 [^1599]: "Metre,Vesantatilakh. The second and third brackettedsyllables ard half visible."
 
@@ -10448,13 +9972,13 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
 रेवाजलानि गजराजविगाहलीला-
 
-![](../books_images/U-IMG-1698401894Screenshot2023-10-27154741.png)  
+<MISSING_FIG href="../books_images/U-IMG-1698401894Screenshot2023-10-27154741.png"/>  
 **L. 28.** वास्यपि यः सिषेवे। २८ \[॥\]¹[^1601]  
 गोदावरीतीरविहारिणीभिर्वनस्थलीनामधिदेवताभिः।
 
 [^1601]: "Metre, Vasantatilaka. Read प्रेथोलितानि; कलशोद्भव°, निष्कम्बषाº."
 
-![](../books_images/U-IMG-1698402433Screenshot2023-10-27155642.png)  
+<MISSING_FIG href="../books_images/U-IMG-1698402433Screenshot2023-10-27155642.png"/>  
 कृतार्थयन्नध्वगदृक्पयोजं यो.जंगमस्त्र्यंबक.....। २९\[॥\]²[^1602]  
 **29.** ततः शमाद्वैतरसाभिरामे रामेश्वरं चेतसि चिंतयन् यः।  
 ददर्श लंकाधिपकालरात्रेःप्रस्थानवीथीमिव सेतुलेखां। ३० \[॥\]³[^718]  
@@ -10472,12 +9996,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 **34.**इत्यवेत्य सुमुदे हृदि चातुर्जातकेन गुणजातरसेन। ३५ \[॥\]⁸[^1608]  
 अस्ति श्रीत्रिपुरांतकोपि विबुधश्रेणीकिरीटोपल-
 
-[^398]: "Metre, Drutavilambita."
-
-[^466]: "Metre, Vasantatilaka."
-
-[^718]: "Metre, Upajati."
-
 [^1602]: "Metre, Upajati. The end of the verse probably was जंगमचयंबकमाससाद ॥"
 
 [^1605]: "Metre, Upajati. Read बाल ."
@@ -10494,8 +10012,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 ददौ महादौख्यनिपीडितात्मने सतां प्रपन्नार्तिहरा हि संपदः। ३७ \[॥\]¹⁰[^1610]  
 आस्थितस्य पुरुषोत्तमभूय कामजन्मनि समाहितबुद्धेः।  
 य-
-
-[^1010]: "Metre, Sardulavikridita."
 
 [^1610]: "Metre. Varnsastha."
 
@@ -10524,12 +10040,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 **45.**स्वमासपाटकद्रव्यनैवेद्यान्नोपयोगतः।४८ युग्मं।  
 श्रीखंडहेतोः शशिखंडमौलिपुरानुकूल्येन मयारके यः।  
 द्रम्मांचकार प्रतिमासमष्टावष्टापदोत्सर्ग्गनिसर्ग्गपूतः।४९\[॥\]⁹[^718]
-
-[^466]: "Metre, Vasantatilaka."
-
-[^718]: "Metre, Upajati."
-
-[^1593]: "Metre, Vamsastha."
 
 [^1611]: "Metre, Svagath. Read पुरुषोत्तमभूयं."
 
@@ -10566,7 +10076,7 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 
 [^1622]: "Metre of verses 58-57, Arya. The laouna has probably to be filled up, as Dr. Bhagvanlal proposes, by ºसोमनाथº Read कोष्ठागाº."
 
-![](../books_images/U-IMG-1698421625Screenshot2023-10-27211229.png)
+<MISSING_FIG href="../books_images/U-IMG-1698421625Screenshot2023-10-27211229.png"/>
 
 \[इद\] x x दातव्यं नित्यंन्नैवेद्यहेतवे।  
 ततस्तदन्नंवटुना पचनीयं प्रयत्नतः। ५८ \[॥\]⁴[^1623]  
@@ -10612,12 +10122,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 **63.**  
 निर्व्याजभक्तिरसवासितविश्वनाथमाबिभ्रतः सरिदभीकगभीरमंतः।
 
-[^477]: "Metre, Anushtubh."
-
-[^718]: "Metre, Upajati."
-
-[^1009]: "Metre, Indravamsa."
-
 [^1626]: "Metre, Salini. Read पूजापुष्पº."
 
 [^1628]: "Metre, Anushtubh. Read कोष्ठागारिच."
@@ -10632,8 +10136,6 @@ garland of the faith in the god (Siva), made over to the gardeners in exchange f
 एनां लिलेख मंत्री विक्रम-इति पूर्णसिंहतनुजन्मा।  
 **66.**उदटंकयदय शिल्पोनाइडतनयश्चपूणसीह इति। ७६ \[॥\]²[^644]  
 श्रीनृपविक्रमसं १३४३ वर्षे माघश्वदि ५ सोमे लिंगप्रतिष्टामहोच्छवः³[^1636]समजनि॥  
-
-[^644]: "Metre, Giti."
 
 [^1634]: "Read "
 
@@ -10654,7 +10156,7 @@ DATED SAMVAT 1207.**
 
 Kshatriya race whose name has been lost. The first individual of this family, whom the inscription mentions (verses 5-6), is the illustrious Simharâja. His son (verse 7) was the illustrious Tejaraja. The name of the son of the latter, verse 8, has been lost. But we learn from the fragment of the marginal verse 9 that he married ‛the virtuous daughter of the king of Avanta,' *i.e*., probably Avanti or Målva. The name of the son of this couple, as well as of his consort, who is referredto in verse 10, is again lost. But their son was called Jajja (verse 11), and his virtues are described in, verses 12 to 15. The description seems to have been purely conventional. Verse 16 speaks of an 'illustrious personage named Rissika’ and immediately afterwards refers to Jajja's consort. The natural interpretation of the fragments is that Jajja's wife was Rissika's daughter. Verse 17 informs us that Jajja had by her four sons. Their names are lost with the exception of one, ‛the illustrious Asika.' The information, conveyed in these verses, may be thus given in tabular form :—
 
-![](../books_images/U-IMG-1698489584Screenshot2023-10-28160912.png)
+<MISSING_FIG href="../books_images/U-IMG-1698489584Screenshot2023-10-28160912.png"/>
 
   From verse 18 we learn that "Jajja, who long carried the burden of the *varga*, together with a committee of trustees (*goshthíjana*), built a large temple of Vishnu, brilliantly white and touching the clouds." The committee mentioned may have been that of some older Vaishnava temple or that formed by the persons mentioned further on. Verse 19 contains a prayer for the duration of the building. The next verses (20-23) enumerate the names of the trustees of the temple, *viz*., Râma son of Tilha, Peichittika (?), . . . śa son of Dhanika, Narada son of Manga, Jasika son of ?, Vasanta son of Țila, Dhantuka son of Kala, Mahipâla son of Sobhara,¹[^1638]\[Mâdha\]- v a son of. . ?, Phullârî son of Sada, Devara son of Madhava, Sodhala son of Râmapâla, and Selhaṇa son of Rajika, whose functions, it seems, were to descend to sons and grandsons (verse 23). Verses 24 to 26 mention the endowments of the temple.
 
@@ -10678,7 +10180,7 @@ Kshatriya race whose name has been lost. The first individual of this family, wh
 
 [^1642]: "Metre, Upajâti; restore in the first half कौरवकुब्जलाभः प्रभा सिदंतो."
 
-![](../books_images/U-IMG-1698490313Screenshot2023-10-28162117.png)
+<MISSING_FIG href="../books_images/U-IMG-1698490313Screenshot2023-10-28162117.png"/>
 
 TRANSCRIPT.  
 
@@ -10695,7 +10197,7 @@ L. 1. ओं ॥ ओंगणपतये नमः ।
 
 [^1643]: "Metre, Sardůlavikridita. Restore in the first pâda स्विर वः कराThe dha of स्वर्गुणी is imperfectly formed and looks like da."
 
-![](../books_images/U-IMG-1698508728Screenshot2023-10-28212809.png)
+<MISSING_FIG href="../books_images/U-IMG-1698508728Screenshot2023-10-28212809.png"/>
 
 **L. 4.** नः\[।\]  
 समस्तभुवनाकरः कमलचक्रभूषाकरः  
@@ -10738,7 +10240,7 @@ L. 1. ओं ॥ ओंगणपतये नमः ।
 
 [^1649]: "Metre, Sârdûlavikridita. The fourth missing pâda is probably that noted in the margin; see below, line 30."
 
-![](../books_images/U-IMG-1698820369Screenshot2023-11-01120215.png)
+<MISSING_FIG href="../books_images/U-IMG-1698820369Screenshot2023-11-01120215.png"/>
 
 **L. 12.** रोहिणीमिव सुनिर्म्मान्धा गि\[रा\] -  
 ------------------------\[॥ १०\]¹[^1650]  
@@ -10764,8 +10266,6 @@ x x xजज्जः सज्जनभूषणं ।
 **19.** –ोलाचारविभूषणां शुभगुणां भर्तृव्रतां सम्मतां  
 तस्यां \[पुत्र\] चतुष्टयं समभव--- \[॥ १६\]⁷[^1656]
 
-[^1010]: "Metre, Sardulavikridita."
-
 [^1650]: "Metre, śārdūlavikridita. Verse 9 is apparently that on the margin, which is given below at the end of the inscription."
 
 [^1651]: "Metre, Anushtubh. The verse may be completed by writing in the beginning तस्यात्तस्यां समुत्पन्नी and at the end ºमुदारधौः॥"
@@ -10778,7 +10278,7 @@ x x xजज्जः सज्जनभूषणं ।
 
 [^1656]: "Metre, śārdūlavikridita. Read at the beginuing of the third pada शौलाचार.°"
 
-![](../books_images/U-IMG-1698516611Screenshot2023-10-28233930.png)
+<MISSING_FIG href="../books_images/U-IMG-1698516611Screenshot2023-10-28233930.png"/>
 
 ---------------------  
 -----\[द्वि\]जगुरूचितभक्तियुक्तः\[।\]  
@@ -10807,8 +10307,6 @@ x x \[शो\] धणिकात्मजः ॥ \[२०\]⁴[^1660]
 हे गृहे वीथयः षट् च वाटिका देवहेतवे ।  
 गोणी-
 
-[^466]: "Metre, Vasantatilaka."
-
 [^1658]: "Metre, Sârdûlavikridita. In the first pâda the bracketted syllables are uncertain, in the second the anusvåra of बर्गधुरा, in the fonrth the anusvâra of पटं."
 
 [^1659]: "Metre, Śärddlavikridita.[The verse seems to consist of five pady--E. H.]"
@@ -10817,7 +10315,7 @@ x x \[शो\] धणिकात्मजः ॥ \[२०\]⁴[^1660]
 
 [^1661]: "The bracketted lettersin verses 20 and 21 arc mutilated and uncertain."
 
-![](../books_images/U-IMG-1698556037Screenshot2023-10-29103652.png)
+<MISSING_FIG href="../books_images/U-IMG-1698556037Screenshot2023-10-29103652.png"/>
 
 L. 27. \[प्र\] सृतिरन्नस्य भानोन्मानरसादिका \।\। \[२५\]  
 यं\[त्रे\] यंत्रे पलो - ा- ाचा - ु- पुष्पमालिकात् ।  
@@ -10956,7 +10454,7 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
 [^1677]: "Read ºशिवीमूर्त्तº; सद्यःः ; ºजगद्गौतीपमानº; ºनृपतिः; सिद्धाधिराजलतःThe bracketted letters are not very distinct."
 
-![](../books_images/U-IMG-1698835548Screenshot2023-11-01161532.png)
+<MISSING_FIG href="../books_images/U-IMG-1698835548Screenshot2023-11-01161532.png"/>
 
 **L. 17.** तलं च विलसङ्गोमि\[त्वचं प्राविशन् \]।  
 - \[सं\]भोक्तुम-ि - - - -क्षत्राणि रक्षांसि च॥  
@@ -10997,7 +10495,7 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 छिन्नप्राच्यनरेंद्रमालिकमले प्रौष्यत्पलद्योतित  
 छाया दूरमवर्द्धयन्निज-
 
-![](../books_images/U-IMG-1698835855Screenshot2023-11-01161443.png)
+<MISSING_FIG href="../books_images/U-IMG-1698835855Screenshot2023-11-01161443.png"/>
 
 **L. 26.**कुले यस्य प्रतापद्रुमः॥ १७ \[॥\]¹[^1682]  
 आचारः किल तस्य रक्षणविधिविधेशनिर्नाशित-
@@ -11084,7 +10582,7 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
 **L.44.** संवत १२०८ वर्षे आश्विन शुदि \[५\] गुरो लिखितं नागरब्राह्मणपंडितवालणेन॥¹[^1696]  
 **45.** चौलुक्य\[नाम्नाह्य\] धिपेन कारिता प्रतोलिका या\[र्जु\]न\[वा\]द्विकोपनत्।  
-![](../books_images/U-IMG-1698836862Screenshot2023-11-01163714.png)
+<MISSING_FIG href="../books_images/U-IMG-1698836862Screenshot2023-11-01163714.png"/>
 
 [^1696]: "Read संवत्.The bracketted figure is not certain, and may have been 2 or 3."
 
@@ -11109,9 +10607,9 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
   (2.) Humbly asked by the gods for a protector against the insults of the sons of Danu, the Creator, though about to perform the twilight-worship, produced forth with in his pot (*chuluka*) filled with the holy water of Gangâ, that hero named Chulukya who sanctified these three worlds with the floods of his fame. Of a necessity the glory of the cause produces its result.⁵[^1700]
 
-  (3.) From him sprang a race, the sole sporting-ground of many marvels, in which even kings without number daily appear, which, even in its decay, possessed a lustre, great on account of its famed valour, and which ever bestows blessings on the whole world down to common men.
-
 [^1700]: "Regarding the creation of Chulukya compare also Vikramâňkadevacharita, i, 36, 39ff. The 'cause' is, of course Brahman's pot, from which, owing to its sacredness, only a very famous, holy hero could proceed."
+
+  (3.) From him sprang a race, the sole sporting-ground of many marvels, in which even kings without number daily appear, which, even in its decay, possessed a lustre, great on account of its famed valour, and which ever bestows blessings on the whole world down to common men.
 
   (4.) Illustrious Mûlarâja, who stepped on the diadems of princes, was a priceless pearl to enhance the splendour of the fame of his family, — he who became the root of the tree of justice that had been burnt by the forest-fire of the Kali (*age*) and, as (*becomes*) a (*true*) king, by exceedingly light taxes⁶[^1701] a (true) king,' i.e., one whose behaviour agrees with the etypogical meaning of râjan, which the Iliudus connect with ranjayati, ‘be gladdens.'")gained the affection of his subjects.
 
@@ -11133,9 +10631,9 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
   (10.) From him sprang a king, called illustrious Karṇa, an ornament of the ear (*karna*) of the earth, who gladdened the auditory passages of the universewith (*the tales of*) his brilliant fame. That righteous one, placing the sacred law before (*him as his shield*), smote with the loud twanging of the sinew (*of his bow*) and with flights of arrows not only the crowd of his foes, but also the Kali age.³[^1704]
 
-  (11.) From him was born the illustrions king Jayasimhadeva-Siddhâdhiraja, who frightened all rulers of the earth by the manner in which he fettered the proud king of Mâlava, who was propitious in the aspect that he showed to those drawn towards him by devotion, who was an incarnation of the development of majesty, who was ever celebrated by the people, freed by him from debt with the help of the philosopher's tincture, as the standard of comparisons.⁴[^1705]
-
 [^1704]: "The poet means to say that Karṇa made only lawful conquests (dharmya vijaya`, and by his adherence to the sacred law injured wicked Kali."
+
+  (11.) From him was born the illustrions king Jayasimhadeva-Siddhâdhiraja, who frightened all rulers of the earth by the manner in which he fettered the proud king of Mâlava, who was propitious in the aspect that he showed to those drawn towards him by devotion, who was an incarnation of the development of majesty, who was ever celebrated by the people, freed by him from debt with the help of the philosopher's tincture, as the standard of comparisons.⁴[^1705]
 
 [^1705]: "The poets did not say ‘Jayasimha is as brave as a lion, but the lion is as brave as Jayasimha.' Bhaktyákrishtedyádi may possibly also be translated 'to whom Siva, attracted by his devotion, personally appeared.' Vv. 12 and 13 are too frag-mentary to be translated."
 
@@ -11177,7 +10675,7 @@ importance. The passage regarding Jayasimha-Siddharâja (verses 11-13) has unfor
 
 [^1713]: "I take toyanilayaḥ as a synonym of prapaḥ."
 
-  (25.) This rampart resembles a mountain since its foundations go down to the lower world; (*it resembles*) a lover worthy to be praised on account of his great enjoyments (*slághyo mahá-bhogataḥ*), since it is worthy of praise on account of its great extent (*ślághyo mahá-ábhogataḥ*); (*it resembles*) the ocean, since it is a means of (*obtaining*) great prosperity;²[^1714](*it resembles*) the victory of the foes of the lord of the Rakshasas, since monkeys' heads peep forth from it;³[^1715](*and it resembles*) a company of women who are pleased with their dear husbands (*ishta-kanta-ruchiraḥ*), since it is resplendent with a coping of bricks (*ishṭaká-anta-ruchiraḥ*).
+  (25.) This rampart resembles a mountain since its foundations go down to the lower world; (*it resembles*) a lover worthy to be praised on account of his great enjoyments (*slághyo mahá-bhogataḥ*), since it is worthy of praise on account of its great extent (*ślághyo mahá-ábhogataḥ*); (*it resembles*) the ocean, since it is a means of (*obtaining*) great prosperity;²[^1714] (*it resembles*) the victory of the foes of the lord of the Rakshasas, since monkeys' heads peep forth from it;³[^1715] (*and it resembles*) a company of women who are pleased with their dear husbands (*ishta-kanta-ruchiraḥ*), since it is resplendent with a coping of bricks (*ishṭaká-anta-ruchiraḥ*).
 
 [^1714]: "The occan yields many ratnas, the rampart enhances the security and the prosperity of the town."
 
@@ -11250,18 +10748,14 @@ A.D. 1119. Vijayasena's reign therefore may reasonably be supposed to havebegun 
 
 TEXT.¹[^1728]
 
+[^1728]: "From an impression by the Editor."
+
 **L.1.** ओं^(2[^894])\[॥\*\]ओँनमः शिवाय॥  
 वक्षोशुकाहरणसाध्यसकृष्टमौलिमाल्यच्छटाइतरतालयदीपभासः।  
 देव्यास्त्रपामुकुलितं मुखमिन्दुभाभिर्व्वीश्याननानि हसितानि जयन्ति शम्भोः॥^(3[^466]—)\[1\].  
 **2.** लक्ष्मीवल्लभशैलजादयितयोरद्दैतलीलागृहं  
 प्रद्युम्नेश्वरशब्द (व्द) लाञ्छनमधिष्ठानं नमस्कुर्म्महे।  
 यत्रालिङ्गनभङ्गकातरत\[या\]^(4[^1731])स्थित्वान्तरे कान्तयो-
-
-[^466]: "Metre, Vasantatilaka."
-
-[^894]: "Expressed by a symbol."
-
-[^1728]: "From an impression by the Editor."
 
 [^1731]: "his akshara originally was यां, but the sign of anusvára is struck out."
 
@@ -11293,8 +10787,6 @@ TEXT.¹[^1728]
 प्तं तदद्याप्यभूत्॥ ¹[^1010]—\[6\]  
 **L. 7.**गृहाद्गृहमुपागतं व्रजति पत्तनं पत्तना-
 
-[^1010]: "Metre, Sardulavikridita."
-
 द्वनाद्वनमनुद्रुतं भ्रमति पादपं पादपात्।  
 गिरेर्ग्गिरिमधिश्रितन्तरति तोयधिन्तोयधे-
 
@@ -11319,20 +10811,12 @@ TEXT.¹[^1728]
 शास्त्रं श्रोत्रेरिकेशाःपदभुवि भुजयोः क्रूरमौर्व्वीकिणाङ्कः।  
 **11.**नेपथ्यं यस्य जज्ञे सततमियदिदं रत्नपुष्पाणि हारा-
 
-[^465]: "Metre, Sragdhara."
-
-[^1136]: "Metre, Mandakranta."
-
 स्ताडङ्कं नूपुरस्रक्कनकवलयमप्यस्य भृत्याङ्गनानाम्॥ ⁷[^478]—\[11\].  
 यद्दोर्ध्वल्लिविलासलब्ध (ब्ध) गतिभिः शल्यैर्व्विदीर्ण्णोरसां  
 **12.**वीराणां रण\[ती\]र्थवैभववशाद्दिव्यं वपुर्व्वि(र्ब्बि) भ्रताम्।  
 संसक्तामरकामिनीस्तनतटीकाश्मीरपत्राङ्कितं  
 वक्षः प्रागिव मुग्धसिद्धमिथुनैः सातङ्कमालोकितम्॥ ⁸[^465]—\[12\],'  
 **13.**प्रत्यर्थिव्ययकेलिकर्म्मणि पुरःस्मेरंमुखं वि (बि) भ्रतो-
-
-[^465]: "Metre, Sragdhara."
-
-[^478]: "Metre, Malini."
 
 रेतस्यैतदसेश्चकौशलमभूद्दाने द्वयोरश्नुतम्।  
 शत्रोः कोपिं दधेऽवसादमपरः सख्युः प्रसादं व्यधा-
@@ -11379,12 +10863,6 @@ TEXT.¹[^1728]
 यत्कारागृहयामिकैर्न्नियमितोनिद्रापनोदक्लमः॥ ⁸[^1010]—\[21\] .  
 पाश्चात्यचक्रजयकेलिषु यस्य यावद्गङ्गाप्रवाहमनुधावतिनौविताने।  
 
-[^466]: "Metre, Vasantatilaka."
-
-[^1010]: "Metre, Sardulavikridita."
-
-[^1735]: "Metre, Prithvi."
-
 [^1745]: "Metre, Malini"
 
 [^1746]: "Metre, Sardalavikridita; and of the two next verses."
@@ -11394,8 +10872,6 @@ TEXT.¹[^1728]
 [^1748]: "Originally कथमं न्यथा, but the sign of anusvara is struck out."
 
 **21.**भर्ग्गस्य मौलिसरिदम्भसि भस्मपङ्कलम्नोज्झितेव तरिरिन्दुकला चकास्ति॥ ⁹[^1216] —\[22\].
-
-[^1216]: "Metre, Vasantatilakā."
 
 मुक्ताः कर्प्पासवीजैर्न्मरकतशकलं शाकपत्रैरलावू (बू)-
 
@@ -11414,22 +10890,14 @@ TEXT.¹[^1728]
 स प्रद्युम्नेश्वरस्य व्यधितवसुमतीवासवः सौधमुच्चैः॥ ^(4[^465]—)\[26\].  
 **25.**प्रासादेन तवामुनेव हरितामध्वानिरुद्धोमुधा  
 
-[^465]: "Metre, Sragdhara."
-
-[^1647]: "Metre, Indravajra."
-
 [^1754]: "Metre,śārdūlavikridita."
 
 भानोद्यापि कृतोस्ति दक्षिणदिशः कोणान्तवासी मुनिः।  
 अन्यामुच्छपथोयमृच्छतु दिशं विन्ध्योप्यसौ वर्धतां  
-यावच्छक्ति तथापि नास्य पदवीं सौधस्य गाहिष्यते॥ ^(5[^2379]—)\[27\].  
+यावच्छक्ति तथापि नास्य पदवीं सौधस्य गाहिष्यते॥ ^(5[^1586]—)\[27\].  
 स्रष्टा यदि स्रक्ष्यति भूमिचक्रे सुमेरुमृत्पिण्डविवर्त्तनाभिः।  
 **26.** तदा घटःस्यादुपमानमस्मिन् सुवर्ण्णकुम्भस्य तदर्प्पितस्य॥ ^(6[^718]—)\[28\] .  
 वि (बि) लेशयविलासिनीमुकुटकोटिरत्नाङ्कुर-
-
-[^718]: "Metre, Upajati."
-
-[^2379]: "Metre, śārdūlavikridita."
 
 स्फुरत्किरणमञ्जरीच्छुरितवारिपूरं पुरः।  
 **27.**चखान पुरवैरिणः स जलमन्नपौराङ्गना-
@@ -11461,14 +10929,6 @@ TEXT.¹[^1728]
 एषा कवेःपदपदार्थविचारशुचवु (बु) द्देरुमापतिधरस्य कृतिः प्रशस्तिः॥ ⁵[^1764]– \[35\].  
 ध\[र्म्म\]⁶[^1765] चof प्रयता insaite olear in the impression.") प्रणप्ता मनदासनप्ता वृ(बृ) हस्पतेः सूनुरिमां प्रशस्तिं \[।\*\]  
 चखान वारेन्द्रकशिल्पिगोष्ठीचूडामणी राणकशूलपाणिः॥॥ ⁷[^594]–\[36\].
-
-[^465]: "Metre, Sragdhara."
-
-[^466]: "Metre, Vasantatilaka."
-
-[^594]: "Metre Upajati."
-
-[^1136]: "Metre, Mandakranta."
 
 [^1761]: "Metre, Sarddlavikridita."
 
@@ -11526,9 +10986,9 @@ decoration, while diamond flowers, pearl-strings, ear-rings, anklets, garlands a
 
   (V.12.) When heroes, with their chests pierced by the spears discharged by the play of his long arms, through the efficacy of battle, resembling a holy bathing-place, became possessed of divine bodies, their breasts, marked with the saffron lines of the breasts of the damsels of heaven who clung to them, were, as before, viewed with terror by the timid Siddha couples.¹[^1775]
 
-  (13.) He and his sword, showing a bright face in their playful dealings with opponents and suppliants,²[^1776] on every suppliant.'")both possessed a wonderful skill in bestowing their gifts. The one brought affliction to enemies, the other favours to friends; the one gave pearl-strings to allies, the other blows to opponents.
-
 [^1775]: "I. e. because the breasts of the slain heroes, covered with red paint which was transferred to them from the breasta of their divine mistresses, looked as if they were still covered with blood."
+
+  (13.) He and his sword, showing a bright face in their playful dealings with opponents and suppliants,²[^1776] on every suppliant.'")both possessed a wonderful skill in bestowing their gifts. The one brought affliction to enemies, the other favours to friends; the one gave pearl-strings to allies, the other blows to opponents.
 
 [^1776]: "In the original, pratyarthi-vyaya-keli-karmaṇi has a double meaning. It means both in playfully bringing about the destruction of opponents,' and also 'in playfully expending (wealth, etc.
 
@@ -11542,9 +11002,9 @@ decoration, while diamond flowers, pearl-strings, ear-rings, anklets, garlands a
 
   (18.) Of (*the gods*) who have attained to perfection each in a single quality, the one without discrimination destroys, another preserves, and the third creates the whole world; but this (*king*), transformed into a divine being by (*his*) manifold excellent qualities, in his wisdom has destroyed the enemies, has preserved those who abide by their duties, and by annihilating the adversaries has created celestial beings.³[^1777]
 
-  (19.) He surely had already before made his sword, written on with the blood of heroes, the deed (*to prove*) that he had given places in heaven to opposing princes and in return accepted (*from them*) the earth. Had it not been so, how would the earth, when there arose disputes as to its ownership, have gone to him, presenting his drawn sword, and how would the line of his opponents have met with defeat ?
-
 [^1777]: "Because the heroes slain in battle are transferred to heaven."
+
+  (19.) He surely had already before made his sword, written on with the blood of heroes, the deed (*to prove*) that he had given places in heaven to opposing princes and in return accepted (*from them*) the earth. Had it not been so, how would the earth, when there arose disputes as to its ownership, have gone to him, presenting his drawn sword, and how would the line of his opponents have met with defeat ?
 
   (20.) Hearing the words of the poets "thou hast defeated Nânya and Vira,"⁴[^1778] in Nânyadeva, the founder of the Karnataka dynasty of Nepal (Indian Antiquary, vol. IX, p. 188; vol. XIII, p. 418; Bendall's Catálog, Introduction, p. xv), who is placed in Saka 1019-A.D. 1097 (Pischel, Katalog der Bibl. d. D. M. G., vol. II, p. 8), close enough to the time when our inscription was composed to suggest the idea that he may possibly be the very king here spoken of.")and
 
@@ -11560,9 +11020,9 @@ mistaking them (*to mean that he had not defeated another hero*), filled with hi
 
   (23.) Through his favour the Brahmaṇs versed in the *Vedas* enjoy so much wealth that their wives are taught by the wives of the towns-people (*the knowledge of*) pearls with cotton-seed, (*of*) emeralds with grass-leaves, (*of*) silver-pieces with gourd-flowers, (*of)* jewels with the ripeued contents of pomegranates, (*and of*) gold with the blooming flowers of *kushmândi* croepers.²[^1780]
 
-  (24.) IIis doing it was that Virtue, though in the course of time she had become one-legged,³[^1781]was walking about on earth, by nimbly leaning on the near of posts of the sacrifices which he never was tired of offering.
-
 [^1780]: "I understand this verse to mean that the wives of the Srotriyas, suddenly become rich in pearls, emeralds, etc., of which they had no knowledge before, had to be told by the wives of the townspeople, that the things looking like cotton-seeds were pearls, etc."
+
+  (24.) IIis doing it was that Virtue, though in the course of time she had become one-legged,³[^1781]was walking about on earth, by nimbly leaning on the near of posts of the sacrifices which he never was tired of offering.
 
 [^1781]: "As she is represented to be in the Kali-age. Compars Journal Amer. Or. Soc., vol. VII, p. 26, verse 10."
 
@@ -11629,11 +11089,11 @@ BY E. HULTZSCH, PH. D.**
 
 **COPPERPLATE GRANT Of KARNADEVA OF GUJARAT.—PL. I.**  
 
-![](../books_images/U-IMG-1710154256EP-5.png)
+<MISSING_FIG href="../books_images/U-IMG-1710154256EP-5.png"/>
 
 **COPPERPLATE GRANT OF KARNADEVA OF GUJARAT.—PL. II.**  
 
-![](../books_images/U-IMG-1710154428EP-6.png)
+<MISSING_FIG href="../books_images/U-IMG-1710154428EP-6.png"/>
 
 or Laghu-Dâbhî, as it is still sometimes called. To tally with the geography of the place, Saṇḍera should be placed in the south-west; but it may be that the land granted was an outlying piece considerably to the south of Laghu-Dâbhîand thus lying, in respect to Saṇḍera, in a south-easterly direction. The tank alluded to is, no doubt, the large tank on the north-west corner of the village of Sûnak. It is now ruined, but during the greater part of the year holds a supply of water. The banks around the south, west, and north sides now consist of mounds of old brickwork, the bricks themselves being *A* the very large old type. I have no doubt the tank was surrounded with stone steps at one time, but, like the great Sahasralińga talâo at Pattan, the stone lining has been carried off for other purposes, leaving nought but the under brickwork."
 
@@ -11814,7 +11274,7 @@ Mantrin Vastupâla married to Siriyâde.
 Mantrin Tejapâla married to Mânû.  
 ।
 
-Sâha Amaradatta[^1816](the ornament of the Kukeśa-race) married to Ratanâde.  
+Sâha Amaradatta[^1816] (the ornament of the Kukeśa-race) married to Ratanâde.  
 ।
 
 [^1816]: "He seems to have been an adopted son."
@@ -11964,8 +11424,6 @@ year measured by the seas (7), the moon (1), the fires (3), and the moon (1), i.
 [^1833]: " From the rubbing."
 
 **L. 1. ओ[^894] ओ सिद्धिः ॥**
-
-[^894]: "Expressed by a symbol."
 
 ** ● अर्हमीशतनोर्दृष्टा शिलोच्चयततं ।  
  ● ई\[र्ण्ण\]येव कथा शीर्षे पातु वो[^1835] ऽमरवाहिनी ॥ १ ॥[^1836].")  
@@ -12193,8 +11651,6 @@ defeated one Bhojûka, who had either risen in rebellion against Trailokyavarman
 ** मङ्गातरङ्गतरलीकृतसपंराजवे\[ष्टा\]य चारुशसि(शि) खण्ड विभूषणाय ।  
  कन्दर्प्पदर्प्पशमनाय सुरार्चिताय केदाररूपवि\[४\] ताय¹¹[^1856]नमः शिवाय ॥ १ ॥¹²[^1857]  
 
-[^894]: "Expressed by a symbol."
-
 [^1856]: "Of the akshara in brackets only the vowel is indistinct."
 
 [^1857]: "Metre of varses 1-11, Vasantatilaka."
@@ -12272,8 +11728,6 @@ defeated one Bhojûka, who had either risen in rebellion against Trailokyavarman
    तवायं परिपन्धिपार्थिवचमकचेषु दावानलो  
    हेराज्यं जनयत्त (न्त) मप्रतिहतं कृत्वा कृतान्तातिथिम् । **
 
-[^742]: " Metre, Vasantatilaka."
-
 [^1872]: "The rubbing looks as if this aksharaया were engravedabove the या"
 
 **9. भोजूकं युधि युद्धदुर्मदनिधिं वासे (शे) कनामा सुधी-  
@@ -12325,8 +11779,6 @@ defeated one Bhojûka, who had either risen in rebellion against Trailokyavarman
 परोपकारप्रतिव(व)क्ष\[कां\]क्ष³⁸[^1883]प्रारव्धकार्याधितार्यसिद्धिः ।  
 श्रीभोजवर्म्म-**
 
-[^1745]: "Metre, Malini"
-
 [^1883]: "Of the akshara in brackets only the sign of the anusvâra is indistinct."
 
 **14. क्षितिपस्य सोभूकोसा (शा) धिकारादि (धि?) पतिः सदैव ॥ २८ ॥39[^718]  
@@ -12336,8 +11788,6 @@ defeated one Bhojûka, who had either risen in rebellion against Trailokyavarman
 र्भाण्डागारपतिचिरं विजयते धर्मोकवु (बु) डिर्भृशम् ॥३०॥⁴⁰[^1885]  
 लोकः शोक-**
 
-[^718]: "Metre, Upajati."
-
 [^1885]: "Metro of verses 30 and 31, Śardúlavikridita. 31 I am very doubtful about the akshara in these brackets. In the rubbing it looks more like or Mor , than like त्या."
 
 **15. \[दुःखत्रयो ?\] मंदिरं  
@@ -12346,8 +11796,6 @@ defeated one Bhojûka, who had either risen in rebellion against Trailokyavarman
 गन्ता \[त्या?\]⁴¹[^1886]गविधेरसंभवतया देवालय\[:\] क्रीयताम् ॥ २१ ॥⁴²[^1887], which most probably gave the names of the two other sons of Mahipala, but which, with the exception of one or two aksharas, is illegible in the rubbing.")  
 ततो जाता महामाया महिपालसुतास्त्रयः \[1\]  
 कीर्त्तिपालो ह (बृ) हत्कोतिः कुमारी मारसन्निभः ॥ ३२॥⁴³[^693].")**
-
-[^693]: "Metre, Sloka (Anushtubh
 
 [^1886]: "I am very doubtful about the akshara in this brackets. In the rubbing it looks more like वा or व्या, than like त्वा"
 
@@ -12382,9 +11830,9 @@ is gracefully decorated with a portion of the moon; who humbled the pride of the
 
   (7.) And having pleased the king, that unique ornament of the circle of princes, the primeval Gadâdhara, as it were, whose abode is imperishable, (Jájúka)—who was to the Kayastha race what the sun is to the multitude of lotus-groups-soon also obtainedthe village of Dugauḍa, as a grant.[^1894]
 
-  (8.) In his lineage was born, an ornament of the earth, Mâheśvara, thoroughly familiar with every branch of letters (and) endowed with beauty like the moon; preventing (others) from falling into the pit of darkness of delusion (and himself) going after good deeds.
-
 [^1894]: "Tamraka, properly the copper-plate on which a deed is engraved, here clearly denotes the object granted by such a deed."
+
+  (8.) In his lineage was born, an ornament of the earth, Mâheśvara, thoroughly familiar with every branch of letters (and) endowed with beauty like the moon; preventing (others) from falling into the pit of darkness of delusion (and himself) going after good deeds.
 
   (9.) Having served the illustrious prince Kîrtivarman, the crest-jewel of the princes in the Yellow-Mountain districts, he received the title of Visisha of Kâlañjara, accompanied by (the grant of) Pipalâhikâ.
 
@@ -12530,13 +11978,9 @@ L. 1.ओ[^1903] न\[मो\] गणाधिपतये ॥
 स्वच्छंदो यश्छंदसि शास्त्रे वैशेषिके विशेषज्ञः ॥ ( 1 )  
 यः श्रीप्रभाकरगुरुः प्राभाकरद-
 
-[^643]: "Metre, Arya."
-
 3.र्शने कविः काव्ये ॥[^644]- \[3.\]  
 \[व\]हुगुणगणितप्रभृतिस्कंद्ध (ध) त्रितये त्रिनेत्रसमः \।  
 विबुधाभिवंदितपदी जयति श्रीभास्कराचार्यः[^1908] ॥॥ \[4. \]
-
-[^644]: "Metre, Giti."
 
 [^1908]: "Metre, Upagiti."
 
@@ -12546,8 +11990,6 @@ L. 1.ओ[^1903] न\[मो\] गणाधिपतये ॥
 लाटोरस्ककपाटपाटनपटुः[^1910]
 कर्ण्णाटहत्वंटकः ।  
 श्रीमान्भिल्लमभूपतिः सम-
-
-[^643]: "Metre, Arya."
 
 [^1910]: " In लाटोरस्क the suffix क has been improperly added."
 
@@ -12571,8 +12013,6 @@ L.7.गतोहितहेतवे ॥ (1)
 अथ भृत्यान्वयवर्ण्णनं ॥  
 श्रीमद्भास्करवंशायं भव्यं भूयात्स भूपतिः ॥ ( 1 )  
 निकुंभो
-
-[^398]: "Metre, Drutavilambita."
 
 8.यत्नसंभूतो रा\[मो\] यस्यान्वयेभवत् ॥[^1914].") – \[ 9.\]  
 तत्नासीनृपतिर्ज्जितक्षितिपतिर्ध्यातैकलक्ष्मीपति-  
@@ -12612,8 +12052,6 @@ L.7.गतोहितहेतवे ॥ (1)
 सोहदेवे दिवं याते शास्ति तस्यानुसंभवः ॥[^168].") – \[15.\]  
 त्यागे
 
-[^168]: "Metre, Śloka (Anushṭubh
-
 [^1919]: "Metre, VaitâlÎya."
 
 13.सूर्यभुतोपमोर्ज्जुनसमः शौर्ये निकुंभान्वये  
@@ -12635,10 +12073,6 @@ L.14. दने \[तत\]मतिर्देमाडिदेवस्थि
 तस्मान्मनोरथी जातः सतां पूर्णमनोरथः ॥ ( । )  
 श्रीभ हमारा चाय-
 
-[^122]: "Metre, Upajâti."
-
-[^382]: " Metre, Śloka (Anushṭubh
-
 16 स्ततोजनि कवीश्वरः–॥ \[19.\]  
 तत्सूनुः कविहंदवंदितपदः सद्देदविद्यालता-  
 कंदः कंसरिपुप्रसादितपदः सर्वश्वविद्यासदः ।  
@@ -12657,24 +12091,14 @@ L.14. दने \[तत\]मतिर्देमाडिदेवस्थि
 - \[22.\]  
 तस्मात्सुतः सिंघणचक्रवर्त्ति–
 
-[^594]: "Metre Upajati."
-
-[^1141]: "Metre, Sloka ( Anushtubh
-
 19 देवज्ञवर्योजनि चंगदेवः ॥ ( 1 )  
 श्रीभास्कराचार्यनिबध्ध (च) शास्त्रविस्तारहेतोः कुरुते मठं यः ॥[^1647] \[23.\]  
 भास्कररचितग्रंथाः सिद्धांतशिरोमचिप्रमुखाः ॥ ( 1 )  
 तद्वंश्यकृताच्चान्येव्या–
 
-[^1647]: "Metre, Indravajra."
-
 20 ख्येया मन्मठे नियमात् ॥[^1908]- \[24 \]  
 श्रीसोहदेवेन मठाय दत्तं हेमाडिना किंच्चि(चि) दिहापरेच्च ।  
 भूम्यादि सर्व प्रतिपालनीयं भविष्यभूपैर्बहुपुण्यवृ ॥[^122]– \[ 25.\]
-
-[^122]: "Metre, Upajâti."
-
-[^1908]: "Metre, Upagiti."
 
 21.स्वस्ति श्रीशाके ११२८ प्रभवसंवत्सर श्रावणमासे पौर्णमास्यां चंद्रग्रहणसमये श्रीसोइदेवेन सर्वजनसंनिद्धौ(धौ) इस्तोदकपूर्व्वकं निजगुरुरचितमठायायस्थानं
 
@@ -12807,10 +12231,10 @@ of this record may be the Western Chalukya Ayyana I., still remains possible; bu
 
 **TEXT.**[^1945]
 
+[^1945]: "From the inked estampage and the photograph combined."
+
 1 Ôm[^1946]Svasti Samasta-bhuvana-vinû(nu) ta[^1947]-Gangakula-gagana-nirmmaļa-târâpati  
 jaladhi-jala-vipula-valaya-mêkha\]\[â\]-kaḷâp-âlam-
-
-[^1945]: "From the inked estampage and the photograph combined."
 
 [^1946]: "Represented by a plain symbol."
 
@@ -12939,12 +12363,12 @@ Sure. of India, vol. XIII, page 8. It is on two slabs of stone, euoh measuring a
 
 **TEXT.**[^1964]
 
+[^1964]: "From two impressions, prepared by Dr. Führer, and supplied to me by the Editor."
+
 L. 1.ओं नमः शिवाय ॥  
 प्रावृषेण्यनवाम्भोदगर्ज्जितौर्ज्जित्यजिन्ति वः ।  
 वैनायकानि निघ्नन्तु निर्व्विघ्नं वृङ्हितान्यघम्[^1965]॥[^1966].")-\[1\].  
 प्रसन्नौजस्विमधुर-
-
-[^1964]: "From two impressions, prepared by Dr. Führer, and supplied to me by the Editor."
 
 [^1965]: "Read बृंहिता."
 
@@ -12977,8 +12401,6 @@ L. 1.ओं नमः शिवाय ॥
 जायन्तां वलिसम्यं त्रिपुरविजयिनस्ताकवक्रीडितानि[^465] ॥– \[5\].  
 भोपसवं स्थिरभगन्यः प-
 
-[^465]: "Metre, Sragdhara."
-
 L.6. द्मासनं दारुवनेतिरम्ये ।  
 विधाय यज्ञंविधिना विधिज्ञःकिलानुजग्राह पुरा पुरारि[^1971] ॥– \[6\].  
 यच्छम्फल[^1972]विपुलनिर्वृतिवीयसः पूर्वोत्तरं विपुलवर्धितभूरिशाखः । तमाद-
@@ -12997,8 +12419,6 @@ L.6. द्मासनं दारुवनेतिरम्ये ।
 तेरग्वि (बि) पालः प्रमथाधिपस्य तुलां दधत्कामजयोदयेन ।  
 ततोभक्वरितपास्ततोपि सत्ख्यातिरामर्हकतीर्थनाथः ॥[^718]– \[9\].  
 तस्मा-
-
-[^718]: "Metre, Upajati."
 
 9. त्पुरन्दरगुरुर्गुरुङ्गरिम्यः प्रज्ञातिरेकजनितस्य व (ब) भूव भूमिः ।  
 यस्याधुनापि विदु (बु) धैरितिक्कत्यशन्सि[^1975]व्याहन्यते न वचनं नयमार्ग्गविह्निः ॥[^1976]- \[ 10 \]  
@@ -13040,12 +12460,6 @@ L. 15 दार्ढ्यंगुणाढ्यमिति कामशर�
 सदाशिवस्तस्य च शिष्य आसीत्सदा शिवः सर्व्वजनस्य शान्त्या ।  
 तपोवनं यो रणिपद्रुनाम प्रसाधयामास
 
-[^113]: "Metre, Vasantatilakâ."
-
-[^113]: "Metre, Vasantatalakâ."
-
-[^113]: "Metre, Vasantatilakâ."
-
 16.तपःसमृद्ध्या[^1980] ॥ - \[17\].  
 अस्मादनल्पादुदयाद्रिकल्पाल्लब्धो (ब्धो) दयोभूहृदयेशसंज्ञः।  
 आचार्यसूर्यस्तमसां विदार्य प्रकाममौदार्यमहार्यवीर्यः ॥[^1981] - \[18\].  
@@ -13078,8 +12492,6 @@ L. 15 दार्ढ्यंगुणाढ्यमिति कामशर�
 औदार्याद्गुरुभारदुर्व्वहधुरानिर्व्यूढवीर्योदयः  
 शिष्यः शिष्यवतां विशेषक इव प्रस्ताव–
 
-[^135]: "Metre, Âryâ."
-
 21.मुख्यः सताम् ।  
 श्रीमान्व्योमशिवाह्रयः समभवत्तस्यापि तादृक्पुन-  
 र्यादृग्भूरिभिरुग्रमद्मुततमैस्तप्तैस्तपोभिर्भवेत्[^1985] ॥ - \[22\].  
@@ -13104,8 +12516,6 @@ L. 24.तमस्तस्यास्याद्भूतकर्म्म�
 योन्वतिष्ठत्प्रतिष्ठावभ्रष्ठः सह्रतिनां व्रतम्[^693].") ॥ - \[25\].  
 यः संय–
 
-[^693]: "Metre, Sloka (Anushtubh
-
 25.मस्य विनयस्य नयस्य सम्यक्पुरुषस्य चारुचरितस्य च कीर्तनस्य ।  
 एकत्र वस्तुमिति सद्गुण\[सं?\]--\[स्य\]त्वष्ट्रा प्रतिश्रयगृहं गृहिणीव जज्ञे[^1988]॥-\[26\].  
 सर्व्वत्र निर्वृतिक–
@@ -13124,8 +12534,6 @@ L. 24.तमस्तस्यास्याद्भूतकर्म्म�
 येनेदं पुरमापदन्धतमसे मग्नं नियोगाद्विधेः  
 सत्कीर्त्त्या रणिपद्रसं\[यम\]चिरादुष्टृत्य यत्याश्रमम् ।  
 भूपृष्ठं शशिनेव निर्म्मलत
-
-[^200]: "Metre, Sragdharâ."
 
 29. रस्फारस्फुरतेजसा  
 सर्व्वानन्द्युदयेन पौरसहितं नीतं पुनस्ताः श्रियः[^1990] ॥ -\[29\].  
@@ -13241,8 +12649,6 @@ L 42 नपतेः किं स्यात्स्तुतं प्रस
 विडम्ब (म्ब) यस त्कविकाव्यव (ब)न्धं विश्ववववर्णाहितचारुशोभम् ॥[^1038] - \[46\].  
 शैलात्मजाभक्तिपरप्रयातपोराङ्गनानपुरशिञ्जितेन ।
 
-[^1038]: "Metre, Upendravajra."
-
 49 या कलहंसमादभ्रमं विधत्ते श्रुतिपेशलेन ॥[^2000]\[47\].  
 धृतोदपात्रावनताङ्गनानां सुखैर्विचित्राधरपत्र (त्न) रम्यैः ।  
 तोयं गतैर्या प्रतिवि (बि) म्व(म्ब) नेन भृ \[शा?\] रविन्देव वि (बि) भर्त्तिशोभाम् ॥ - \[48\].
@@ -13258,8 +12664,6 @@ L 42 नपतेः किं स्यात्स्तुतं प्रस
 - \[50\].  
 या नीलकण्ठेन तटोपकण्ठं कृतास्पदा धाम परं सुखस्य ।  
 प्रासादरम्या रमणीयभूमिः पुरा पुरारेः सदशी चका-
-
-[^728]: "Motre, Sloka (Anushtubh
 
 L. 52.-स्ति ॥[^2002] - \[51\].  
 यत्तबिधौसान्द्रसुधासितिन्त्रा प्रासादमालामुदिनं विभाति ।  
@@ -13320,8 +12724,6 @@ L. 52.-स्ति ॥[^2002] - \[51\].
 भवत्वाचन्द्रातितपसो भूरियशसः ।  
 बदीये भातीयं शरदमचन्द्रांडवला
 
-[^795]: " Metre, Âryâ."
-
 62. सुराणां सम्भाली विकटतटपृष्ठे शिखरिणी ॥[^2006] –\[65\].  
 वापीतः निकटं यः पादपमारोपयिष्यति \[व्रात्य\]: ।  
 याता स पञ्चपातकयुक्तः खलु दुस्तरे निरये ॥[^2007] – \[66\].  
@@ -13334,8 +12736,6 @@ L. 52.-स्ति ॥[^2002] - \[51\].
 63. तेवामित्र पातकानि स्वप्स्यन्ति खट्टासु शठा मठे ये।  
 येभ्यन्तरे मूढधियो रजन्यां दास्यन्यनार्या वसतिंत्र नार्याः ॥[^455] – \[67\]  
 प्रास्ता देवसंलापपूबंदत्तात्रयेन या ।
-
-[^455]: "Metre, Indravajrâ."
 
 64. विहिता मुख्यशब्दा (ब्दा) र्था सा \[सुदेस्तु [सतामियम्\] ॥][^2009].")– \[88\].  
 देवदत्तसुतेनैषाहरदत्तेन वर्णिता ।  
@@ -13600,9 +13000,9 @@ Hail ! Let there be prosperity !**
 
 ( Verse 1. ) Adoration to Sambhu ( Siva), who is adorned, as with a chámara, with the moon that kisses his lofty head, and who is the principal pillar at the building of the city of the three worlds। 35[^2037]
 
-(2) May that lustre ( Ganeba ), - which dispels the darkness of obstacles, and which, though ( it has the head of) an elephant ( gaja), was born from the mountain-daughter (Agaja), and is worshipped even by Hari ( Vishnu), - produce happiness । 36[^2038]
-
 [^2037]: "35 An easier reading wonld be चेलीक्यनगराबन्दमूलसम्भाव 'the principal pillar of support of the eity of the three worldn.' Compare चावन्नसन्धमेकं त्रिभुवनभवनस्य, the single pillar of support of the houpe of the three worlda,' ante, p. 310, verse 26."
+
+(2) May that lustre ( Ganeba ), - which dispels the darkness of obstacles, and which, though ( it has the head of) an elephant ( gaja), was born from the mountain-daughter (Agaja), and is worshipped even by Hari ( Vishnu), - produce happiness । 36[^2038]
 
 [^2038]: "36 On the virodhdbhása between gaja and agaih. see Journal, Bombay Br. R. 48. S., vol. XII, p. 372, note 2. There is also a play on the word hari, which signifies Vishnu, and at the same time the lion, whioh is considered as the natural enemy of the elephant."
 
@@ -13629,7 +13029,7 @@ the strength of his arm, was Âyus. His (son) was Nahusha. His (son) was Yayati,
 
  (9.) From this lovely son of Devakî was born king Narasa, just as Kåma from (*Krishna*) the son of Devaki.
 
- (10.) Resplendent was he, who quickly bridged the Kaveri,[^2042](*though*) it consisted of a rapid current of copious water, crossed over it, straightway captured alive in battle with the strength of his arm the enemy, brought his kingdom and (*the .city of*) Srirangapaṭṭaṇa[^2043] paṭṭaṇa, the first member of which is Sriranga.’ On similar expressions, see Hultzsch's South-Indian Inscriptions, vol. I, p. 166, note 6. This is the celebrated place of pilgrimage on an island, 33 miles east of Bâmnad. According to Mr. Rice (Mysore Inscriptions, p. lvii, note), another Råmešvara-tirtha is situated on an island near the junction of the Tungå and Bhadrå rivers. Three other Råmesvaras are noticed by Mr. Sewell in his Lists of Antiquities, vol. 1, pp. 38, 41, 125.")under his power and set up a pillar of fame,—his heroic deeds being praised in the three worlds, (*which appeared to be) the palace (of his glory*).
+ (10.) Resplendent was he, who quickly bridged the Kaveri,[^2042] (*though*) it consisted of a rapid current of copious water, crossed over it, straightway captured alive in battle with the strength of his arm the enemy, brought his kingdom and (*the .city of*) Srirangapaṭṭaṇa[^2043] paṭṭaṇa, the first member of which is Sriranga.’ On similar expressions, see Hultzsch's South-Indian Inscriptions, vol. I, p. 166, note 6. This is the celebrated place of pilgrimage on an island, 33 miles east of Bâmnad. According to Mr. Rice (Mysore Inscriptions, p. lvii, note), another Råmešvara-tirtha is situated on an island near the junction of the Tungå and Bhadrå rivers. Three other Råmesvaras are noticed by Mr. Sewell in his Lists of Antiquities, vol. 1, pp. 38, 41, 125.")under his power and set up a pillar of fame,—his heroic deeds being praised in the three worlds, (*which appeared to be) the palace (of his glory*).
 
 [^2042]: "40 Śrirangapaṭṭaṇa, vulgo Seringapatam, which, later on, became the capital of the Maisûr Odeyars and of Ţîpû, is situated on an island of the Kåveri."
 
@@ -14093,6 +13493,7 @@ A. सिद्धम् म \[हा\] रा \[ज\] स्य र \[जा\] 
 B. शिष्यस्य गणिस्य आर्य्यख \[र्ण\] स्य[^2172]पुय्यम [\[न\]][^2173]-
 ---------------------------\[ख\] ----  
      \[व\] तकस्य[^2174]\[क\] - सकस्य[^2175]कुटुम्बिनीये दत्ताये---- नधर्म्मो[^2176]महाभोगताय     
+                                   
 
 [^2171]: "95The central stroke of शाis wanting."
 
@@ -14162,7 +13563,9 @@ I. 1. सिञ्चम् सं ४० ५०व \[३\] [दि १० \[७
 
 [^2191]: "15 Regarding the meaning of Vadhu, daughter-in-law, compare Nos. II, IV, V."
 
-[**No. XI**](#)
+**No. XI**[^2388]
+
+[^2388]: #
 
 **A. 1. --- ----
 ४०[^2192]** **17[^2192]------हे
@@ -14170,8 +13573,6 @@ I. 1. सिञ्चम् सं ४० ५०व \[३\] [दि १० \[७
 B. 1. ए \[त\]स्य पू\[र्ब्बा\]य वरणतो ग\[ण\] -  
 C. 1. तो आर्य्यहटिकियतो कुलतो  
 D. 1. वजनगरित\[ो\] श\[\[\]ख\[\[\]त\[ी\] शि\[रि.\]यत\[ौ\]**
-
-[^2192]: "17 Restoreसिहं सं . A second figure seems to have stood after the plain म."
 
 A. 2. ––\[ग\]तो[^2194][\[द\] तिस्र][^2195]शिशिनिये  
 B. 2. महन \[न्दि\] स्व[^2196]संढचरिये  
@@ -14228,19 +13629,19 @@ C. 3. – \[लथंभ\]ो[^2201]दनं=–
 
 **MATHURA INSCRIPTIONS S NO4-1 AND 2**
 
-![](../books_images/U-IMG-1710241199EP-6.png)
+<MISSING_FIG href="../books_images/U-IMG-1710241199EP-6.png"/>
 
 **MATHURA INSCRIPTIONS: No5. III & IV.**  
 
-![](../books_images/U-IMG-1710241317EP-7.png)
+<MISSING_FIG href="../books_images/U-IMG-1710241317EP-7.png"/>
 
 **MATHURA INSCRIPTIONS: Nos. V-VIII.**  
 
-![](../books_images/U-IMG-1710241611EP-8.png)
+<MISSING_FIG href="../books_images/U-IMG-1710241611EP-8.png"/>
 
 **MATHURA INSCRIPTIONS: Nos. IX-XI.**  
 
-![](../books_images/U-IMG-1710241707EP-9.png)
+<MISSING_FIG href="../books_images/U-IMG-1710241707EP-9.png"/>
 
 **TRANSLATION.**
 
@@ -14341,9 +13742,9 @@ B. 1. जेष्ठहस्ति\[स्य\] शि [\[ष्यो\]][^221
 
 **No. XVIII.**[^2233]
 
- L .1. सिन्धं \[ सं \]––––\[ दि \] ५[^2234]एतस्यं पू \[ र्व्वाय \]
-
 [^2233]: "Incised on a large sandstone slab, 3 feet 10 inches by le foot 4 inches, found on the floor of a brick stúpa, 47 feet in diameter, to the east of the first Jaina temple, on the east of the Tila. Well preserved, with the exception of the loss of the date and of slight injuries at the right end of the lines, which, however, do not make any letter really doubtful."
+
+ L .1. सिन्धं \[ सं \]––––\[ दि \] ५[^2234]एतस्यं पू \[ र्व्वाय \]
 
 [^2234]: "Not more than four signs have been lost; the tail only of दिis visible. After the half-preserved सं appear the lower portions of two numeral signs."
 
@@ -14373,11 +13774,11 @@ B. 1. जेष्ठहस्ति\[स्य\] शि [\[ष्यो\]][^221
 
 **No. XIX.**[^2238]
 
+[^2238]: "These inscriptions, Nos. xix–xxii, were discovered by Dr. Burgess on first commencing the excavation at Kankali Tila. No. xix is from the base of a large seuted Jinn, & feet 4 inches by 3 fort 2 inches, found on the sonth–east of Kniikali Tila. February 1888. I do not reprint the notes given in the Wiener Zeitschrift. The notes now given contain additional corrections."
+
  L. 1. \[ सिद्धम् ॥ \] महाराजस्य राजातिरास्य देवपुत्रस्य षाहिकणिष्कस्य[^2239]सं ७ हे १ दि १० ५ एतस्य पूर्व्वायां                   
                                    
         अर्य्योदेहिकियातो 
-
-[^2238]: "These inscriptions, Nos. xix–xxii, were discovered by Dr. Burgess on first commencing the excavation at Kankali Tila. No. xix is from the base of a large seuted Jinn, & feet 4 inches by 3 fort 2 inches, found on the sonth–east of Kniikali Tila. February 1888. I do not reprint the notes given in the Wiener Zeitschrift. The notes now given contain additional corrections."
 
 [^2239]: "he former transcript gave, by a lapsus calami, Kanishkasya, though the lingual na is very distinct."
 
@@ -14391,9 +13792,9 @@ B. 1. जेष्ठहस्ति\[स्य\] शि [\[ष्यो\]][^221
 
 **No. XX.**[^2240]
 
-   \[ सि \] द्धंसं २० (१) \[ २ \] ग्रि २ दि ७ वर्धमानस्य प्रतिमा वारणातो गणातो पेतिवामि \[ क \]–
-
 [^2240]: "On the base of a sented Jins, 3 feet 6 inches by 2 feet 2 inches, found near the same place. The second line is lost"
+
+   \[ सि \] द्धंसं २० (१) \[ २ \] ग्रि २ दि ७ वर्धमानस्य प्रतिमा वारणातो गणातो पेतिवामि \[ क \]–
 
 **TRANSLATION.**
 
@@ -14401,9 +13802,9 @@ Success ! In the year 22 ( ? ), in the second (month of ) summer, on the soventh
 
 **No. XXI.**[^2241]
 
- L.1. – धम् सव ५० ४[^2242]हेमंतमासे चतुर्थे ४ दिवसे १० अ–
-
 [^2241]: "On the base of a sented inmage of Sarasvati, 1 foot 10 inches by 1 foot 8 1/2inches, found near the first temple on the south-east of the mound."
+
+ L.1. – धम् सव ५० ४[^2242]हेमंतमासे चतुर्थे ४ दिवसे १० अ–
 
 [^2242]: "The former transcript gave the first figure as 80. On comparing the date of Mr: Growse's No. 5, which is given in words and figures, I think it more probable that the sign is intended for 50."
 
@@ -14431,12 +13832,12 @@ Success ! In the year 22 ( ? ), in the second (month of ) summer, on the soventh
 
 **No. XXII.**[^2245]
 
+[^2245]: "On the upper part of a sculptured panel, 1 foot 10 inches by 1 foot 8 inches; the panel has carved on it astûpa and four worshippers, one being a Nâga. From the south-east part of the mound."
+
  L. 1. \[ि\] सङ्घं सं ८०५ (१) ग्नि२ दि १० ८ कोट्टि\[य\]ातो गणातो ठानियातोकुलातो वडर \[ातोशा \]खातो                 
                                    
          अर्य्य अरह–––  
    2. शिशिनि धाम \[ था \] ये [निर्वर्तन \[?\]][^2246]ग्रहदतस्य धि \[तु\] धनहथि[^2247]– ––
-
-[^2245]: "On the upper part of a sculptured panel, 1 foot 10 inches by 1 foot 8 inches; the panel has carved on it astûpa and four worshippers, one being a Nâga. From the south-east part of the mound."
 
 [^2246]: "70 The third letter is doubtful."
 
@@ -14448,9 +13849,9 @@ Success ! In the year 22 ( ? ), in the second (month of ) summer, on the soventh
 
 **No. XXIII**.[^2248]
 
-   वारणातो गणातो अर्यकनियसिकातो कुलातो ओद– – ––
-
 [^2248]: "Discovered by Dr. Führer on January 20th, 1889, incised on a broken panel 1 foot 2 inches by 1 foot 5 inches."
+
+   वारणातो गणातो अर्यकनियसिकातो कुलातो ओद– – ––
 
 **TRANSLATION.**
 
@@ -14473,24 +13874,24 @@ L. 1. [\[सिध\]][^2250]महरजस्य वासुदेवस्य
 
 **No. XXV.**[^2252]
 
-            – – ––र्षमासे १ दीवसे ३० अस्मि क्षु– – –[^2253]
-
 [^2252]: "Incised on the middle portion of the base of a statue, 10 inches by 12 inches, found near the first temple."
+
+            – – ––र्षमासे १ दीवसे ३० अस्मि क्षु– – –[^2253]
 
 [^2253]: "77 Restore वर्षमासे and क्षुणे ."
 
 **MATHURA INSCRIPTIONS: Nos. XII-XVII.**  
 
-![](../books_images/U-IMG-1710242773EP-10.png)
+<MISSING_FIG href="../books_images/U-IMG-1710242773EP-10.png"/>
 
 **MATHURAINSCRIPTIONS: Nos. XVIII-XIX**  
-![](../books_images/U-IMG-1710243539EP-13.png)
+<MISSING_FIG href="../books_images/U-IMG-1710243539EP-13.png"/>
 
 **MATHURA INSCRIPTIONS: Nos. XX-XXVII.**  
-![](../books_images/U-IMG-1710243460EP-12.png)
+<MISSING_FIG href="../books_images/U-IMG-1710243460EP-12.png"/>
 
 **MATHURA INSCRIPTIONS: Nos. XXVIII-XXXII.**  
-![](../books_images/U-IMG-1710243369EP-11.png)
+<MISSING_FIG href="../books_images/U-IMG-1710243369EP-11.png"/>
 
 **TRANSLATION.**
 
@@ -14512,9 +13913,9 @@ L. 1. [\[सिध\]][^2250]महरजस्य वासुदेवस्य
 
  L. 1. \[प्रतिमा\] वधमान \[स्य\] प्रतिथापिता[^2256]
 
-   2. \[–––ठानियातो– ल––––[त आर्यग \]][^2257]––
-
 [^2256]: "80 The third syllable is doubtful."
+
+   2. \[–––ठानियातो– ल––––[त आर्यग \]][^2257]––
 
 [^2257]: "Only the upper portions of the letters of line 2 have been preserved, and they are, with the exception of ठाº, all very indistinct and mostly doubtful."
 
@@ -14572,9 +13973,9 @@ by Kośiki Śi\[va\]mitra, \[*the wife*\] of Gotiputra, a black serpent for the 
 
      2. \[ ना \] ये दानं ॥[^2267]
 
-     3. वर्द्धमानप्र–
-
 [^2267]: "10 The two stops are expressed by two dots."
+
+     3. वर्द्धमानप्र–
 
      4. तिम\।
 
@@ -14590,9 +13991,9 @@ by Kośiki Śi\[va\]mitra, \[*the wife*\] of Gotiputra, a black serpent for the 
 
  L. 1. सिद्ध सव २०२ ग्नि१ दि–– स्य पुर्व्वायं वाचकस्य अर्य्यमात्रिदिनस्य णि–[^2270]
 
-   2. सर्त्तवाहिनिये[^2271] धर्म्मसोमाये दानं ॥ नमो अरहंतान
-
 [^2270]: "13 Restore निर्वर्तना."
+
+   2. सर्त्तवाहिनिये[^2271] धर्म्मसोमाये दानं ॥ नमो अरहंतान
 
 [^2271]: "14 Regarding the substitution of सर्त्त for सार्त्य ref ses ante, p. 376."
 
@@ -14639,9 +14040,9 @@ by Kośiki Śi\[va\]mitra, \[*the wife*\] of Gotiputra, a black serpent for the 
 
 **No. XXXIII.**[^2281]
 
- L. 1. \[न\] मो अरहतोवर्धमानस्य गोतिपुत्रस पोठयशक–
-
 [^2281]: "After the plates had been printed off. Dr. Führer pointed out that No. XXXII is only a duplicate of No. IX 72. ante, p. 387. No. XXXIII is on & flat slab with surfaer carving, 17"
+
+ L. 1. \[न\] मो अरहतोवर्धमानस्य गोतिपुत्रस पोठयशक–
 
    2. कालवालस
 
@@ -14662,14 +14063,14 @@ by Kośiki Śi\[va\]mitra, \[*the wife*\] of Gotiputra, a black serpent for the 
 [^2286]: "Kâtorál › is certainly the Prakrit form of the Sanskrit kalavydla or more correctly kâlavyáļa, the ancient formu, which is found in inscriptions and survives in Southern MSS."
 
 **MATHURA INSCRIPTIONS: Nos. XXXIII-XXXV,**  
-![](../books_images/U-IMG-1710321972EP-15.png)
+<MISSING_FIG href="../books_images/U-IMG-1710321972EP-15.png"/>
 
 **No. XXXIV**[^2287]
 
+[^2287]: "On the base of a seated Jina, of which the head is lost, the stone measuring 3 ft. by 2 1, found west of the second temple."
+
  L. 1. \[सि\] द्ध नमो अरंहताण––– धनु[^2288] वारणे गणे अयहाट्टि [\[ये\]][^2289]  
    2. कुले वजनागरिया शाखाया अर्यशिरिकिये संभो[^2290]––
-
-[^2287]: "On the base of a seated Jina, of which the head is lost, the stone measuring 3 ft. by 2 1, found west of the second temple."
 
 [^2288]: "31 Restore नमो सिद्धान"
 
@@ -14683,16 +14084,16 @@ by Kośiki Śi\[va\]mitra, \[*the wife*\] of Gotiputra, a black serpent for the 
 
 **No. XXXV.**[^2291]
 
+[^2291]: "On the border of a carved square panel, 2′ 10″ by 2' 6"
+
  L. 1. \[ते\] –रुसनंदिकस पुत्रेन नंदिघोषेन \[ते\] वणिकेन अ – – त– अ ले––  
    2. णानं मंदिरे[^2292]\[आ\] यागपटा प्रतिथापित \[ा\]– – – – – –
-
-[^2291]: "On the border of a carved square panel, 2′ 10″ by 2' 6"
 
 [^2292]: "35 One is tempted to read मंदिरेin the temple. But the first consonant seems plain."
 
 **TRANSLATION.**
 
- By Namdighosha, the Tėvaņika[^2293](Iraivarṇika), son of Tc..rusa (?)-Namdika, tablets of homage[^2294] 37 wore set up in the bhamdira of the......
+ By Namdighosha, the Tėvaņika[^2293] (Iraivarṇika), son of Tc..rusa (?)-Namdika, tablets of homage[^2294] 37 wore set up in the bhamdira of the......
 
 [^2293]: "36 See above, p. 394."
 
@@ -14780,9 +14181,9 @@ bright half of Vaisakha of Salivahana-Saka 1451 \[expired\], the Virôdhi-samvat
 
  4. जपरमेश्वर अरिरायविभाल मुरायर[^2312]
 
- 5. गंड संगीतसाहित्यसमरांगणसार्व–
-
 [^2312]: "Read मूरायर."
+
+ 5. गंड संगीतसाहित्यसमरांगणसार्व–
 
  6. भौम श्रोवीरप्रताप श्रीवीरकृष्णरायम[^2313]–
 
@@ -14939,9 +14340,9 @@ religious edict (*which refers*) to the villages, which (*we*) gave as rent-free
 
  8. A lunar' month corresponds to one lunation. It is reckoned either from new moon to new-moon, or from full-moon to full-moon. The first scheme is called the *amánta, darkánta,* or southern scheme; the latter the púrnimánta or northern scheme.[^2342]
 
- 9. Each month consists of two *pakshas*, usually translated by fortnight'. The bright fortnight (*sukla, suddha or sita paksha, or śudi, sudi, śuti*) is the period of the waxing moon; the dark fortnight (*krishṇa, bahula or asita paksha, or badi, vadi, vati*) that of the waning moon. As indicated above, the bright fortnight in the *amânta* or southern scheme is the first *paksha* of the month; in the *pûrnimânta* or northern scheme, it is the last. But in either case it denotes the same space of time. It is different with the dark fortnight; for the dark fortnight of an *amánta* month corresponds to that of the following month in the *purnimánta* scheme, e.g. the dark fort
-
 [^2342]: "Though the purnimânta or northern scheme is decidedly the older of the two, yet for practical reasons the lunar tables are primarily intended for the amânta scheme."
+
+ 9. Each month consists of two *pakshas*, usually translated by fortnight'. The bright fortnight (*sukla, suddha or sita paksha, or śudi, sudi, śuti*) is the period of the waxing moon; the dark fortnight (*krishṇa, bahula or asita paksha, or badi, vadi, vati*) that of the waning moon. As indicated above, the bright fortnight in the *amânta* or southern scheme is the first *paksha* of the month; in the *pûrnimânta* or northern scheme, it is the last. But in either case it denotes the same space of time. It is different with the dark fortnight; for the dark fortnight of an *amánta* month corresponds to that of the following month in the *purnimánta* scheme, e.g. the dark fort
 
 night of Chaitra in the *amánta* scheme is the dark fortnight of Vaisakha in the *púrnimánta* scheme, and *vice versa.*
 
@@ -15092,6 +14493,7 @@ is above 15, retrench 15; the remainder indicates the complete tithi of the dark
  We next ascertain the new-moon in solar Âshâḍha, as by it the lunar month Âshâḍha is determined. New-moon being equal to *tithi* 30·00, we find (by subtracting the *tithi*for the beginning of the given year, *viz.* 6.48 from 30) that 23.52 *tithis* have to elapse before the next new-moon. Therefore all days in Table III, whose *tithi* is 23.52 or the next lower figure, are approximately new-moon days in 3585 K. Y. Call ' Index of new-moon,' the difference between the tithi for the beginning of the given year and 30, and 'Index of the *tithi*,' the sum of the index of new-moon and the number of the*tithi* given in the date to be verified. In this example the *Index* of new-moon is 23·52, and the Index of the *tithi* is 23-52 +12 = 35-52 or 5.52.
 
   We now look out in Table III, in the column of the given month, for the day whose*tithi* is nearest to, 'but smaller than, the Index of new-moon. In this case we find that this occurred on the 24th Ashâḍha. We then select the day whose *tithi* is nearest tosmaller than, the Index of the *tithi*. If the date belongs to the bright fortnight, or if it is a date in the *amánta* scheme, the day selected must be the nearest day pointed out by the index of the *tithi,* which comes *after* new-moon; but if the date belongs to the dark fortnight of the *púrnimánta* scheme, the day is to be sought before the new-moon day. The date in the present case belonging to the bright fortnight we look out the index of the *tithi*, 5.52, after the 24th Âshâdha (the day of new-moon); and the *tithi* of the 2nd Sravana being 4.70, we select it, and add the corresponding elements to those calculated for the beginning of K. Y. 3585, thus :—  
+       
 
 [TABLE]
 
@@ -15195,7 +14597,9 @@ Thus the 20th *tithi*, or 5th *tithi* of the dark fortnight, ended on Thursday a
 
 tables, it becomes doubtful whether the new-moon belongs to the current or to the preceding solar month. For the true beginning of each solar month*, i.e.* the instant of the *samkránt*i, or entrance of the sun into the zodiacal şign, usually falls near the beginning of the second day of the solar month of the tables, *i.e,* on one of the two days marked0 and 1; it may however also fall on the day marked 2, and still more rarely on the last day of the preceding month. It will therefore, in these cases, be necessary to ascertain the precise beginning of the solar month.For this purpose the column headed "Solar Cor." in Tables I and II, and a similar element placed under the names of the solar months in Table III, is used. The figures entered in this column of Tables I and II denote, in *ghaṭikás* and *palas;* the time by which the beginning of the mean solar year (according to the different authorities named in Table I) precedes (–), or follows (+), mean sunrise at Lankâ (*i.e*. the beginning of the day throughout these tables) of the 3rd Vaisakha of Table III. *E.g-*According to the *Arya Siddhánta* the "Solar Cor." for 4000 K. Y. is-16 *gh*. 40p,; for 30 years-14*gh*. 23*p*.; for K. Y. 4030, therefore,– 16*gh.* 40*p*–14 *gh*. 23p*. or–31gh. 3p.; for 36 years + 18gh.45p for K.Y. 4036=–16gh. 40p +18gh. 45p=2gh.5p 45p*., for K. Y. 4036 denote that the mean solar year according to the *Arya Siddhanta began in 4000*K. Y. 16gh. 40p. before mean sunrise at Laňkâ; in 4030 K. Y. 31*gh.* 3*p*. before; and in 4036 K. Y. 2*gh*. 5*p*. after mean sunrise at Lankâ of the 3rd Vaisakha of the tables. In Table III the Solar Cor.' placed below the names of the several months, as the correction of the month, shows by how much the true beginning of the month is separated from the mean sunrise of the second day of the same month (marked 1 in Table III), the beginning of the mean solar year being supposed to coincide with the beginning of the 3rd of Vaiśâkha. In all other cases the 'Solar Cor.' for the year must be combined with the 'Cor.' of the month, in order to find the true beginning of the latter, *e.g.,* 4030 K.Y.= — 31*gh.* 3*p*.; Âśvina = + 17gh. 51p.: the sum, 13*gh*— 12*p*. indicates that Âśvina in 4030 K. Y. began 13gh. 12p. before the 1st Âśvina in Table III. As however the beginning of the solar year, and consequently that of the solar months, varies with the different authorities, four columns are given under Corrections for Solar dates in Table I, headed by the name of the *Siddhántas* from which the elements are derived. The 'Cor.' in Table II strictly applies only to the *Arya Siddhánta*, and for other *Siddhantas*it requires a small correction; this however may be neglected in calculations with the General Tables, as the exact calculation can only be made with the Special Tables. In using the *Brahma Siddhânta*, we must use the day 0 of Table III, in place of the day 1, as according to that *Siddhanta* the beginning of the solar year precedes by about one day the beginning of the solar year employed by the other *Siddhantas.*
 
- The "Cor." for the months differs also with the different authorities. It is given according to the *Árya [Siddhánta](#)*" and to the *Sûrya Siddhánta*, which yield the greatest and the smallest amounts. As the General Tables give only approximate results, *i.e.*results correct only to within one or two *ghatiká*s, it would be needless to strive after greater accuracy in the ascertainment of the beginning of the solar months.
+ The "Cor." for the months differs also with the different authorities. It is given according to the *Árya Siddhánta[^2389]*" and to the *Sûrya Siddhánta*, which yield the greatest and the smallest amounts. As the General Tables give only approximate results, *i.e.*results correct only to within one or two *ghatiká*s, it would be needless to strive after greater accuracy in the ascertainment of the beginning of the solar months.
+
+[^2389]: #
 
  As the beginning of a solar month is the moment of the *samkránti,* the rules givenabove serve at the same time for calculating the *samkrántis*
 
@@ -15538,7 +14942,9 @@ The calculation shows that no new-moon occurred in solar Pausha: accordingly Pau
 
 ***                  Place of the Mood.***
 
-***   ***37.*Moon's Nakshaira and Rási*— Dates are frequently coupled with the name of the *Nakshatra* or *asterism* in which the moon was at the time of the date; occasionally the rási or zodiacal signalso is, mentioned. Table IX shows which part of the Hindu ecliptic is 'attributed to each *Nakshatra*, and Table Y that of the single zodiacal signs, e. g. Table IX shows that the *Nakshatra* Viśâkhâ denotes 200°-213; 20' .of sidercal [longitude](#)," and Table V that the sign Kumbha extends from 300° to 330° sidereal longitude. If we know the longitude of the moon, we can tell at once in which *Nakshatra* and zodiacal sign she stood. It will, therefore, be necessary to calculate the moon's longitude. Now the longitude of the moon=longitude of the sun + distance of sun and moon,, The latter element is furnished by the *tithi*; for, as one*tithi* is equal to the time required by sun and moon to increase their distance by 12º we need only multiply the *tithi* for a given moment by 12, to find the distance of the sun and moon in degrees. We found above that, at the beginning of the 28th Mârgaśira 4319 K.Y. the true *tithi*was 4.36; it follows that the distance of sun and moon is 12×4·36=52°32 or 52° 19.′
+***   ***37.*Moon's Nakshaira and Rási*— Dates are frequently coupled with the name of the *Nakshatra* or *asterism* in which the moon was at the time of the date; occasionally the rási or zodiacal signalso is, mentioned. Table IX shows which part of the Hindu ecliptic is 'attributed to each *Nakshatra*, and Table Y that of the single zodiacal signs, e. g. Table IX shows that the *Nakshatra* Viśâkhâ denotes 200°-213; 20' .of sidercal longitude[^2390]," and Table V that the sign Kumbha extends from 300° to 330° sidereal longitude. If we know the longitude of the moon, we can tell at once in which *Nakshatra* and zodiacal sign she stood. It will, therefore, be necessary to calculate the moon's longitude. Now the longitude of the moon=longitude of the sun + distance of sun and moon,, The latter element is furnished by the *tithi*; for, as one*tithi* is equal to the time required by sun and moon to increase their distance by 12º we need only multiply the *tithi* for a given moment by 12, to find the distance of the sun and moon in degrees. We found above that, at the beginning of the 28th Mârgaśira 4319 K.Y. the true *tithi*was 4.36; it follows that the distance of sun and moon is 12×4·36=52°32 or 52° 19.′
+
+[^2390]: #
 
     The true longitude of the sun for the beginning of every day of the solar year is furnished by the column headed O's longitude in Table VIII, but a correction must be applied for the interval between the beginning of the mean solar year and the beginning of the given day.
 
@@ -15567,7 +14973,7 @@ are therefore as many *Yogas* as these are lugar mansions, *viz*.. 27. Their nam
  Inorder to find the *Yoga* current at a given moment, add the longitudes of the sun and moon, and interpret the sum from Table IX.  
 Ex—For the beginning of the day, whose *Nakshatra* we have calculated above, 4319 K.Y. Margaśira-sudi 5, we have found :—
 
-Longitude of the sun![](../books_images/U-IMG-1698657649Screenshot2023-10-30145017.png)  
+Longitude of the sun<MISSING_FIG href="../books_images/U-IMG-1698657649Screenshot2023-10-30145017.png"/>  
 Longitude of the moon  
 Accordingly degrees of yoga
 
@@ -15576,7 +14982,8 @@ Accordingly degrees of yoga
  Vikrama 1531 (K.Y. 4575), Kârttika-sudi 9, Budhavâsare, Dhanishthâ-nakshatre Vṛiddhi-yoge, Kaulava karaṇe, Kumbha-râsi-sthite chandre.  
  Calculate first the lithi and weekday—
 
-![](../books_images/U-IMG-1698657709Screenshot2023-10-30145129.png)  
+       
+<MISSING_FIG href="../books_images/U-IMG-1698657709Screenshot2023-10-30145129.png"/>  
 
  Accordingly, on Wednesday (4), at mean sunrise, the 9th tithi was current; it ended about 33 *ghaṭikás* (the equivalent of 0.56, see Table IV) later. At the same moment ended the *karaṇa* Kaulava, No. 18, being the second-half of the ninth *tithi*.  
  On the 20th Kârttika the longitude of the sun is 199° 15' (Table VIII), *Cor*. for 4575 K.Y. is, as calculated above, + 23*gh*. 53*p*. Accordingly 23′ 53″, or say24' must be subtracted from the O's longitude. The remainder 198° 51′ is the true longitude of the sun at the beginning of the day under consideration.  
@@ -15589,13 +14996,13 @@ Accordingly degrees of yoga
  39. To find for any particular day the sun's place in the ecliptic-either in zodiacal sign or in lunar mansion, we need only use the sun's longitude for the given day (in Table VIII) for the Index of Tables V and IX, and in the same way as we have used the
 
 longitude of the moonfor finding the *Nakshatra* and *Rási*. The *Nakshatras* divide the course of the sun into 27 equal parts which determine fixed periods of the year. These periods are commonly used for regulating agricultural labours; but I do not know whether they are mentioned in the dates of documents. The particulars most frequently mentioned in dates are the *Samkrántis*. As a *Samkránti* is the moment of the true beginning of a solar month, this element can be derived from the tables.  
- In connection with those *Saṁkrántis*, however, which determine the Uttarayaṇa and Dakshiṇâyana, it will be necessary to remark respecting the precession of the equinoxes (Kfántipátagati), that as stated above, the Hindus measured all longitudes on the fixed ecliptic, taking for its initial point the vernal equinox, as it was in 3600K.Y.[^2353] At that time the sidereal (*ntrayana*) signs coincided with the tropical (*sáyana*) signs, but afterwards they differed from each other by the amount of the precession (ayanâṁśa). This amount, in degrees, is found by multiplying the difference between the given year K.Y. and 3600[^2354]by ![](../books_images/U-IMG-1698658576Screenshot2023-10-30150601.png), and dividing by 200; *e.g*. in 4572 K.Y. the*ayanáṁśa* amounted to![](../books_images/U-IMG-1698658726Screenshot2023-10-30150800.png) =14°58 or 14° 34'8. By so much the beginning of every tropical (sáyana) sign preçedes that of the sidoreal sign. Hence to find a tropical (sáyana) Samkranti, we must subtract the ayanáméa of the given year from the number of degrees supplied by Table V for the beginning of the fixed (sidereal or nirayana) signs. Thus the beginning of the tropical sign Kanya in K.Y. 4572 will be at 150°-14° 35'=135° 25′ of longitude. Table VIII shews that the sun was at that point about the 17th Bhâdrapada. By means of Tables I-III, we find the day to have been a Friday, Bhâdrapada *sudi* 2, and we compute as follows:—   
+ In connection with those *Saṁkrántis*, however, which determine the Uttarayaṇa and Dakshiṇâyana, it will be necessary to remark respecting the precession of the equinoxes (Kfántipátagati), that as stated above, the Hindus measured all longitudes on the fixed ecliptic, taking for its initial point the vernal equinox, as it was in 3600K.Y.[^2353] At that time the sidereal (*ntrayana*) signs coincided with the tropical (*sáyana*) signs, but afterwards they differed from each other by the amount of the precession (ayanâṁśa). This amount, in degrees, is found by multiplying the difference between the given year K.Y. and 3600[^2354]by <MISSING_FIG href="../books_images/U-IMG-1698658576Screenshot2023-10-30150601.png"/>, and dividing by 200; *e.g*. in 4572 K.Y. the*ayanáṁśa* amounted to<MISSING_FIG href="../books_images/U-IMG-1698658726Screenshot2023-10-30150800.png"/> =14°58 or 14° 34'8. By so much the beginning of every tropical (sáyana) sign preçedes that of the sidoreal sign. Hence to find a tropical (sáyana) Samkranti, we must subtract the ayanáméa of the given year from the number of degrees supplied by Table V for the beginning of the fixed (sidereal or nirayana) signs. Thus the beginning of the tropical sign Kanya in K.Y. 4572 will be at 150°-14° 35'=135° 25′ of longitude. Table VIII shews that the sun was at that point about the 17th Bhâdrapada. By means of Tables I-III, we find the day to have been a Friday, Bhâdrapada *sudi* 2, and we compute as follows:—   
 
 [^2353]: "According to the Siddhanta Siromani, however, in 3628 K.Y."
 
 [^2354]: "The rule for the Siddhanta Stromani is-subtract 3628 from the given year K.Y.; the remainder in the ayanâmica in minutes. Subtract from this result, if a high degree of accuracy is wanted, the tenth part of the above remainder taken &A seconds."
 
-![](../books_images/U-IMG-1698747697Screenshot2023-10-31155125.png)
+<MISSING_FIG href="../books_images/U-IMG-1698747697Screenshot2023-10-31155125.png"/>
 
 We must, however, as explained above, § 37, add as many minutes to the longitude of the sun for the calculated day (in this case, 135° 10') as the solar correction for the year (—18*gh*. 45*p*.) has *ghaṭikás*; 135° 10′ +19′ = 135° 29'. Accordingly the *sáyanaSamkránti* of *Kanyâ*, which should take place at 135° 25', occurred just before the beginning of the day calculated, *viz*. about 4 *għaṭikás* earlier.  
  A calculation of this sort should be made whenever a date coupled with a *Saṁkránti*, does not come out correctly in all particulars. For, it is possible that a *sâyana*Saṁkrántimay be intended, since these Saṁkrántitoo are auspicious moments.
@@ -15612,13 +15019,13 @@ eclipses mentioned in inscriptions are not always actually observed eclipses, bu
 
 [^2356]: "An eclipse which was not visible in India is recorded in Professor Kielhorn's paper, "
 
-![](../books_images/U-IMG-1698844540Screenshot2023-11-01184526.png)
+<MISSING_FIG href="../books_images/U-IMG-1698844540Screenshot2023-11-01184526.png"/>
 
  41. A solar eclipse can only happen at the time of new-moon, *i.e*. when *tithi* is 0 or 30, and a lunar eclipse only at the time of full-moon, *i,e:* when the *tithi* is 15.00. It is also obvious that an eclipse of the moon is visible only when the moon is above the horizon during the eclipse, *i.e*. after sunset; and a solar eclipse is invisible after sunset. Therefore, in computing lunar eclipses, we calculate the moment of mean sunset, *i.e.* 30*gh.*For this we must add 0.51 to the *tithi*, 18 to anomaly, 3 to node as shown below:—  
 *Ex—Ś*aka 851, 4030 K.Y. Mâgha-sudi 15, Sunday, a lunar eclipse.  
  According to Tables I-III, and (node) Tables VI—VIII :—
 
-![](../books_images/U-IMG-1698844625Screenshot2023-11-01184652.png)
+<MISSING_FIG href="../books_images/U-IMG-1698844625Screenshot2023-11-01184652.png"/>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -15632,7 +15039,7 @@ Calculate first Jyaishṭha badi 15[^2358]:—
 
 [^2358]: "Compare note 9."
 
-![](../books_images/U-IMG-1698860106Screenshot2023-11-01225802.png)
+<MISSING_FIG href="../books_images/U-IMG-1698860106Screenshot2023-11-01225802.png"/>
 
  New-moon therefore occurred 0·09 *tithis* or 51/2*ghaṭikás* = 2 hours 12 minutes later. There was a solar eclipse at that time, though we do not find by the tables whether it was visible in India or not. But we learn from von Oppolzer's Canon and maps that the eclipse on the 11th June 1629 was so. The middle of the eclipse occurred at 3 hours after mean sunrise at Laṅkâ. Our result therefore is in error by 48 minutes.
 
@@ -15647,7 +15054,7 @@ Calculate first Jyaishṭha badi 15[^2358]:—
 
  The columns headed 'Jupiter's Samvat.' in Tables VI, VII, VIII, furhish the means of ascertaining the Jovian year for any given epoch. The numbers in them must be summed up for the parts into which the given, date is divided, *e.g*., we find for 3542 K.Y., 18th Kârttika :—
 
-![](../books_images/U-IMG-1698860514Screenshot2023-11-01231139.png)
+<MISSING_FIG href="../books_images/U-IMG-1698860514Screenshot2023-11-01231139.png"/>
 
  The integers give the number of the current cyclic year, Table XXIII; in this case 44-Îśvara[^2360]**;** the decimals show how much of the Jovic.n year has elapsed, here 9/1000 or about 20 *ghaṭikás*. This result however does not refer to the beginning of the day, but 10.a point of time removed from it by the same interval as separates the beginning of the mean solar year from the beginning of the day. We find the moment in question by the 'Cor.' of the given year; in this case for 3542 K. Y. the Cor.' is (according to the *Sûrya Siddhânta*) + 32 *gh*. 52 p.−8 *gh*. 8 *p*. = + 24 *gh*. 44 *p*. Therefore the result above refers to 24 *gh*. 44 *p*. after mean sunrise at Laṅkâ, and the beginning of the year Iśvara occurred about 4 *gh*. after mean sunrise of the 18th Kârttika in K.Y. 3542.  
  The tables yield the Jovian years according to the *Sûrya Siddhânta* with *bija*. To find the same according to the *Sûrya Siddhânta* without *bija*, multiply the year of the Kaliyuga by 2, and divide by 9; the quotient is to be added as 10,000th parts to the value given in the tables. In the present instance 3542×2/9=787. Dividing by 10,000 gives 0·0787, and this added to 44.0009 makes 44:0796,-the value according to the *SûryaSiddhânta* without *bija*.  
@@ -15661,7 +15068,7 @@ Calculate first Jyaishṭha badi 15[^2358]:—
 
  *Ex*.–To and the cyclic year surrent at the beginning of 4210 K. Y., and on what day that year ended. From Tables VI and VII, and Tables I and II, we have—
 
-![](../books_images/U-IMG-1699862452Screenshot2023-11-13133040.png)
+<MISSING_FIG href="../books_images/U-IMG-1699862452Screenshot2023-11-13133040.png"/>
 
  Jup. 59.257 shows that Nandana, the 60th or last year, of the cycle, was current. The fraction shows how much of it had elapsed according to the *Sûrya Siddhânta* with*bija*. The amount according to the same *Siddhânta*without *bija* must be raised by of 4210 + 10000= 0.09355 and is 59-3506. For the *Árya Siddhânta*, we must add 4210 + 30000 = 0·1403 and obtain J.-59.3973.
 
@@ -15702,13 +15109,13 @@ beginning[^2362], vol. XVIII, pp. 193f, and 380ff., and in the Abhandlungen der 
 
  The problem, therefore, is to find the apparent longitude of Jupiter at his heliacal rising, and the time of the rising. If we know the longitude of Jupiter when helfacally rising, we can readily interpret it according to the different systems of the *Nakshatras*as specialised in Tables IX and X. A strict solution of the problem would entail fong and troublesome calculations. As, however, all dates as yet found in this cycle have already beeh calculated (by Mr. Dikshit, *Corpus Inscrip*. Ind. vol. III, p. 105), there will only be dccasion to solve the problem when new dates occur. We may therefore be content to ascertain the time of Jupiter's heliacal rising within a day from the correct date, and the longitude of Jupiter at that time within a degree of the truth.
 
- *Ex.*—Calculate 'Jupiter's Sam.' for the beginning of the year; e.g. 3576 K. Y., 0.95 + 16-8892= 17.8392. For the Sûrya Siddhânta without *bija* add ![](../books_images/U-IMG-1698940377Screenshot2023-11-02212240.png)= 0.0795, making 17.9187, or rejecting the 3rd and 4th decimals-17.92. Subtract 12 or multiples of 12 from the integers, and there results 5.92. Multiply thisby 0.083, add the product, 0.49, to the 'Jupiter Sam.'found above: 5.92 +049 = 6.41. With the sum apply to Table XII and add to or subtract from it (as directed in the table) the
+ *Ex.*—Calculate 'Jupiter's Sam.' for the beginning of the year; e.g. 3576 K. Y., 0.95 + 16-8892= 17.8392. For the Sûrya Siddhânta without *bija* add <MISSING_FIG href="../books_images/U-IMG-1698940377Screenshot2023-11-02212240.png"/>= 0.0795, making 17.9187, or rejecting the 3rd and 4th decimals-17.92. Subtract 12 or multiples of 12 from the integers, and there results 5.92. Multiply thisby 0.083, add the product, 0.49, to the 'Jupiter Sam.'found above: 5.92 +049 = 6.41. With the sum apply to Table XII and add to or subtract from it (as directed in the table) the
 
 equation; thus 6.41 -0.05, 6.36 Convert the last result into degrees by multiplying it by 30; 6.36 × 30=190°8 or 190°48'. This is approximately the longitude of Jupiter at his conjunction with the sun. Add 1°; the result will be approximately the apparent longitude of Jupiter at.his heliacal rising. Looking out this longitude of Jupiter in Tables IX and X, we find in which *Nakshatra* the planet stood, and consequently what was the name of the Jovian year which then commenced. In this case we find MahâVaiśâkha according to the *Brahma Siddhânta*, and Mahâ-Chaitra according to the other systems. But this is only an approximation.
 
  49. The second part of the problem is to find the date of the heliacal rising of Jupiter. At the same time we can correct the longitude of Jupiter. Select in Table VIII the day on which the longitude of the sun is equal to that found for Jupiter at his conjunction, and calculate 'Jupiter Sam.' for that day, correct it by the equation, and convert it into degrees as above. The longitude of the sun is 191° 14' on the 12th K*â*rttika; 'Jupiter' for that day is, 0.5429, which added to the value for beginning of 3576 K.Y.: 5.9187 makes 6.4616 or 6.46; subtract equation 0.05, and we have 6·41, or in degrees 192°3 or 192° 18′. If the resulting longitude of Jupiter is smaller than the longitude of the sun calculated for the day, the conjunction has passed; if larger, it is ' still to come. In either case the conjunction is removed from the computed date by as many days as degrees intervene between Jupiter and the sun. About 14 days after the conjunction the heliacal rising of Jupiter takes place, and the new Jovian year begins In this case we find that the conjunction took place on the 13th Kârttika, and consequently the heliacal rising of Jupiter about the 27th, when his longitude was about 193° 18'. The 27th Kârttika of 3576 K.Y. is to be calculated by Tables I—III—
 
-![](../books_images/U-IMG-1699069217Screenshot2023-11-04091005.png)
+<MISSING_FIG href="../books_images/U-IMG-1699069217Screenshot2023-11-04091005.png"/>
 
  Mr. Dîkshita, who has calculated the same date, ascertained that the heliacal rising took place on Kârttika-sudi 1; this result therefore differs from the correct one by one day. If we calculate again the longitude of Jupiter for the 27th K*â*rttika we find it to be 193°30', interpreted by Table X as the beginning of Svâti, according to 'Garga and Brahmagupta. The year was therefore Maha-Vais*â*kha.
 
@@ -15716,7 +15123,7 @@ equation; thus 6.41 -0.05, 6.36 Convert the last result into degrees by multiply
 
  50. An element constantly used in Hindu calculations is the *Ahargaṇa,* or the days elapsed since the beginning of the Kaliyuga. Column *Ahar*. in Tables VI-VIII, serves for finding the *Ahargaṇa* for any given date, by summing up the figures in the column for the three parts into which a date is divided; e.g. for K.Y. 4163, 19th Ph*â*l- guna, we find—
 
-![](../books_images/U-IMG-1699069277Screenshot2023-11-04091105.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699069277Screenshot2023-11-04091105.png"/>  
 
  By adding 588,466 to the *Ahargaṇa*, we get the corresponding day of the Julian period, in this case 2,109,359. Divide the *Ahargaṇa* or the day, of the Julian period by 7; the rest indicates the week-day, counting from Friday =0 for the *Ahargaṇa*, or Monday =0 for the Julian period.
 
@@ -15748,7 +15155,7 @@ equation; thus 6.41 -0.05, 6.36 Convert the last result into degrees by multiply
 
 sideration. These three elements for the several parts into which a date is divided, must be summed up; and complete revolutions rejected.
 
- With the resulting 's anomaly and ![](../books_images/U-IMG-1699071593Screenshot2023-10-31165149.png)'s anomay, turn to the Table XXIV; for the equation; take the corresponding equations (interpolating for values intermediate between those in the table), find their sum or difference as the equations are additive or subtractive. The sum or difference, according to its sign, must be added to, or subtracted from, the mean distance to obtain the true distance of sun and moon for the moment calculated. As 12° indicate one *tithi*, we find the number of *tithis* elapsed since the instant of the. last conjunction or *amâvâsyâ*by dividing the degrees of the equated distance by 12; the quotient shows how many *tithis* are gone[^2365].
+ With the resulting 's anomaly and <MISSING_FIG href="../books_images/U-IMG-1699071593Screenshot2023-10-31165149.png"/>'s anomay, turn to the Table XXIV; for the equation; take the corresponding equations (interpolating for values intermediate between those in the table), find their sum or difference as the equations are additive or subtractive. The sum or difference, according to its sign, must be added to, or subtracted from, the mean distance to obtain the true distance of sun and moon for the moment calculated. As 12° indicate one *tithi*, we find the number of *tithis* elapsed since the instant of the. last conjunction or *amâvâsyâ*by dividing the degrees of the equated distance by 12; the quotient shows how many *tithis* are gone[^2365].
 
 [^2365]: "In all these calculations care should be had to take the tables for the same Siddhanta throughout the process; only Tables XXI and XXII equally apply to all Siddhfintas."
 
@@ -15756,17 +15163,17 @@ sideration. These three elements for the several parts into which a date is divi
 
  First compute K. Y. 3585, 2nd Śrâvaṇa, according to the *Sûrya Siddhânta* :—
 
-![](../books_images/U-IMG-1699072164Screenshot2023-11-04095847.png)
+<MISSING_FIG href="../books_images/U-IMG-1699072164Screenshot2023-11-04095847.png"/>
 
  As shown by 'Cor.', we must retrench the increase for 23 *gh*. 31 *p*. to find the value of the elements for mean sunrise at Laṅkâ. But as we have to calculate their amount for 51gh. 11p. after sunrise, we add that time to ' Cor.' *viz*.— 23*gh*. 31*p*. + 51*gh*. 11*p*.= + 27*gh*. 40*p*. We therefore add the increments for 27 *gh*. 40 *p*. (Table XXII for*ghaṭikás* and *palas*) to the above result :—
 
-![](../books_images/U-IMG-1699072614Screenshot2023-11-04100638.png)
+<MISSING_FIG href="../books_images/U-IMG-1699072614Screenshot2023-11-04100638.png"/>
 
- We have now to find the equation for the 's anomaly. In Table XXIV, we have the equation for «'s anomaly 86° 15′ = −5° 2' 9". The difference between the given ![](../books_images/U-IMG-1699071593Screenshot2023-10-31165149.png)'s anomaly and this is 3° 20'. The increase of the equation for one minute of anomaly A is 0.16, accordingly for 3° 20' or 200' it is 32'. Added to the above equation this makes—5° 2′ 41[^2366]**'.**
+ We have now to find the equation for the 's anomaly. In Table XXIV, we have the equation for «'s anomaly 86° 15′ = −5° 2' 9". The difference between the given <MISSING_FIG href="../books_images/U-IMG-1699071593Screenshot2023-10-31165149.png"/>'s anomaly and this is 3° 20'. The increase of the equation for one minute of anomaly A is 0.16, accordingly for 3° 20' or 200' it is 32'. Added to the above equation this makes—5° 2′ 41[^2366]**'.**
 
 [^2366]: "In this instance it would have been easier to start from anomaly 90°, and subtract the increase for 25'; the resulting equation will then be found to be 5% 42"
 
- In the same way we find the equation for the ![](../books_images/U-IMG-1699071593Screenshot2023-10-31165149.png)'s anomaly 14° 52' = + 0° 34′ 4". The sum of both equations = —4° 28' 37, added to 148°29′ 28″ gives 144° 0′ 51" for the true distance of sun and moon. As a *tithi* is equal to 12° of distance, 144° marks the end of the 12th *tithi*, and the distance 51" is equal to about 4 *palas* (Table XXII), by which time the end of the *tithi* occurred before the moment calculated by Mr. Dîkshit[^2367].
+ In the same way we find the equation for the <MISSING_FIG href="../books_images/U-IMG-1699071593Screenshot2023-10-31165149.png"/>'s anomaly 14° 52' = + 0° 34′ 4". The sum of both equations = —4° 28' 37, added to 148°29′ 28″ gives 144° 0′ 51" for the true distance of sun and moon. As a *tithi* is equal to 12° of distance, 144° marks the end of the 12th *tithi*, and the distance 51" is equal to about 4 *palas* (Table XXII), by which time the end of the *tithi* occurred before the moment calculated by Mr. Dîkshit[^2367].
 
 [^2367]: " I cannot account for the difference in the result, but I should think that the native method of calculation sdruits of various abbreviations of the process which in the end bring about a slightly different result."
 
@@ -15774,19 +15181,19 @@ sideration. These three elements for the several parts into which a date is divi
 
 *Siddhânta Śiromani.* Mr. Dîkshit finds that the 12th *tithi* ended according to the*Brahma Siddhánta* at 50 *gh*. 15 *p*. after mean sunrise at Laṅka, and according to the*Siddhanta Śiromani* at 58 *gh*. 21 *p*. For the Brahma *Siddhânta* (Tables XIII and XVI), we must select the 3rd Śravana and not the 2nd :—
 
-![](../books_images/U-IMG-1699094579Screenshot2023-11-04161229.png)
+<MISSING_FIG href="../books_images/U-IMG-1699094579Screenshot2023-11-04161229.png"/>
 
  The corrections for *Siddh**â**nta Śiromani* (Table XIX) are :—
 
-![](../books_images/U-IMG-1699094672Screenshot2023-11-04161421.png)
+<MISSING_FIG href="../books_images/U-IMG-1699094672Screenshot2023-11-04161421.png"/>
 
  These corrections must be subtracted from the above résult:—
 
-![](../books_images/U-IMG-1699094750Screenshot2023-11-04161539.png)
+<MISSING_FIG href="../books_images/U-IMG-1699094750Screenshot2023-11-04161539.png"/>
 
  Add the increase to the result for both authorities (Table XXII)—
 
-![](../books_images/U-IMG-1699094803Screenshot2023-11-04161632.png)
+<MISSING_FIG href="../books_images/U-IMG-1699094803Screenshot2023-11-04161632.png"/>
 
  Applying the sum of the equations to the above results we get by the *Brahma Siddhânta,* 144° 0′ 9″; by the *Siddhânta Śiromaṇi*, 144°1′ 1″. Accordingly the 12th *tithi* ended before the time stated by Mr. Dikshit, by less than one pala in the case of the *BrahmaSiddhânta*, and by four palas in that of the *Siddhânta Śiromaṇi.*
 
@@ -15800,11 +15207,11 @@ sideration. These three elements for the several parts into which a date is divi
 
  53. *True longitude of the Moon*.— If we add the true longitude of the sun to the true distance between sun and moon (5), we get the true longitude of the moon, on which depends the *Nakshatra* and Rasi(see § 6).
 
- Here we have144° + 92° 24′ 58″ = 286° 24′ 53". The nakshatra is Jyeshṭira (Table IX) and the rási Tulâ (Táble XII). Adding the ![](../books_images/U-IMG-1699095666Screenshot2023-10-31165149.png)'s long. to the ![](../books_images/U-IMG-1699095666Screenshot2023-10-31165149.png)'s long. we find the *Yoga*, 236° 24′ 53″ + 92° 24′ 53″ = 328° 49′ 46″, *Yoga*: Brahman (Table.IX).
+ Here we have144° + 92° 24′ 58″ = 286° 24′ 53". The nakshatra is Jyeshṭira (Table IX) and the rási Tulâ (Táble XII). Adding the <MISSING_FIG href="../books_images/U-IMG-1699095666Screenshot2023-10-31165149.png"/>'s long. to the <MISSING_FIG href="../books_images/U-IMG-1699095666Screenshot2023-10-31165149.png"/>'s long. we find the *Yoga*, 236° 24′ 53″ + 92° 24′ 53″ = 328° 49′ 46″, *Yoga*: Brahman (Table.IX).
 
  54. The *Śamkrántis*.-The time of all-Samkrântis according to the *Súrya Siddhânta*is found in Table XX. If the time, according to another Siddhânta, is wanted, we can use the mean longitude of the sun as given at the same place; *e.g*. if it be proposed to find the moment of the Karkaṭa Samkrânti in K. Y. 4581, according to the second*Arya Siddhânta*, we calculate as follows:—
 
-![](../books_images/U-IMG-1699095834Screenshot2023-11-04163342.png)
+<MISSING_FIG href="../books_images/U-IMG-1699095834Screenshot2023-11-04163342.png"/>
 
  At the moment assumed for the *Samkránti*, viz. O Śráv. 49 gh. 48 p., the Samkranti had passed, and the sun had advanced 2′ 15″ beyond the initial point of Karkata. According to Table XXII[^2368], 2' 15" is equal to about 2 *gh*. 17 *p*. by which time therefore the Saṁkrânti, according to the second *Árya Siddhánta*, preceded the moment calculated. The Samkranti occurred therefore on 0 Śrâvaṇa 47*gh.* 31*p*. This result however does not refer to mean sunrise at Lankâ, but to the beginning of the mean solar year. In order to reduce the result to Laṅkâ time, we must find the correction: 4500= -6*gh.*22*p*., 81 years = + 2*gh*. 45*p*., K. Y. 4581= –3*gh*. 87*p*. Sunrise at Laṅkâ preceded the beginning of the mean solar year by 3gh. 37p. Hence the Samkrânti occurred 47*gh.* 31*p*. + 3*gh*. 37*p*. = 51*gh*. 8*p*. after imcan sunrise at Lankâ according to the second *Árya Siddhánta.*
 
@@ -15814,27 +15221,27 @@ sideration. These three elements for the several parts into which a date is divi
 
 form the beginning and the end of the solar month. As Table XX furnishes the elements on which the *tithi*depends for the time of the Samkranfi according to the *Súrya**Siddh*â*nta*, the calculation for that *Siddhânta* will be easy. Let us compute the 2nd example in §31, Bhâdrapada, in K. Y. 4343.
 
-![](../books_images/U-IMG-1699183103Screenshot2023-11-05164812.png)
+<MISSING_FIG href="../books_images/U-IMG-1699183103Screenshot2023-11-05164812.png"/>
 
  Accordingly new-moon had passed. It follows that there were two new-moons in solar Bhâdrapada, and consequently there was an intercalary Bhâdrapada.
 
  If the calculation is to be based on another *Siddhânta*, we still make use of the elements for the Saṁkrânti as furnished by Table XX. The same calculation will show by what time the Samkrånti and by what time the new-moon preceded or followed the moment calculated. It will then be easy to decide the case. To give an example we now calculate the same dates according to the first Arya *Siddhánta*.
 
-![](../books_images/U-IMG-1699183274Screenshot2023-11-05165103.png)
+<MISSING_FIG href="../books_images/U-IMG-1699183274Screenshot2023-11-05165103.png"/>
 
- From Table XXII (colamn ![](../books_images/U-IMG-1699183300Screenshot2023-10-31165149.png)'s long.) we conclude that the Saṁkrânti had occurred 4*gh*. 30*p*. before the moment calculated, and from the same (column–) that new moon will occur 32*gh*. later; consequently it fell in Bhadrâpada. We now compute the next *Saṁkrânti* :—
+ From Table XXII (colamn <MISSING_FIG href="../books_images/U-IMG-1699183300Screenshot2023-10-31165149.png"/>'s long.) we conclude that the Saṁkrânti had occurred 4*gh*. 30*p*. before the moment calculated, and from the same (column–) that new moon will occur 32*gh*. later; consequently it fell in Bhadrâpada. We now compute the next *Saṁkrânti* :—
 
-![](../books_images/U-IMG-1699183438Screenshot2023-11-05165347.png)
+<MISSING_FIG href="../books_images/U-IMG-1699183438Screenshot2023-11-05165347.png"/>
 
  Saṁkrânti occurred 2*gh*. 7*p*. Before the moment calculated, but new-moon more than a whole day; accordingly this new-moon too belonged to Bhâdrapada, and as there were two new moons in Ehâdrapada, there was an intercalary Bhâdrapadaaccording to the *Árya Siddhânta* as well as the *Súrya Siddhânta*.
 
  56. The Special Tables may also be used for computing mean intercalations For this purpose the subjoined Table, which is similar to that given in § 35, should be employed. To show its working, let us calculate by it the second example in § 35, mean Pausha, in 3741 K.Y., according to the *Brahma Siddhânta.*
 
-*![](../books_images/U-IMG-1699183767Screenshot2023-11-05165914.png)*
+*<MISSING_FIG href="../books_images/U-IMG-1699183767Screenshot2023-11-05165914.png"/>*
 
 Accordingly mean new-moon occurred about 1.*gh*. later than the beginning of mean solar Pausha. At the end of the same solar mouth the distance will be larger by 11° 3' 53". It follows that the distance will come out 10° 51′ 27" for the end of mean Pausha. By Table XXII it will be seen that this amount of difference corresponds to more than 58*gh.* by which time accordingly new-moon preceded the end of Pausha. As there were two mean new-moons in mean solar Pausha, there was due a mean intercalary month, which by the common rule was Pausha; but by the rule of the *Brahma Siddhânta* itself quoted above (§ 10, note 7), the month would have been an intercalated mean Mârgaśira.
 
-![](../books_images/U-IMG-1699862283Screenshot2023-11-13132752.png)
+<MISSING_FIG href="../books_images/U-IMG-1699862283Screenshot2023-11-13132752.png"/>
 
 ***Corrections for true local time.***
 
@@ -15846,25 +15253,25 @@ Accordingly mean new-moon occurred about 1.*gh*. later than the beginning of mea
 
 order to find the values of distance of sun and moon, &c., for mean sunrise on the meridian of Aṇhilwâd.
 
-![](../books_images/U-IMG-1699184747Screenshot2023-11-05171536.png)
+<MISSING_FIG href="../books_images/U-IMG-1699184747Screenshot2023-11-05171536.png"/>
 
  59. An element wanted for the further correction is the tropical longitude of the mean sun, which is equal to the sidereal longitude of the sun plus the *ayanáṁśa* for the year. The sidereal longitude of the mean sun is obviously equal to the mean anomaly of the sun for the date calculated minus the mean anomaly for the beginning of the cen- tury; here 69° 31′47″-282°=147°, 31'47". The ayanáṁśa are 3× (4300–3600)÷200=10° 30' (see § 39). Accordingly the tropical longitude of mean sun is 147° 31′47″ + 10° 30=158° 1' 47" or 5' 8° 1′47″.
 
  60. *Correction for terrestrial latituda—*This correction is combined with another which is necessitated by the obliquity of the ecliptic. Table XXVI gives the time in asus (6 *asus* = 1 *vinádí*) which each of the tropical signs takes in rising above the horizon on the parallel of latitude marked at the head of the vertical columns. We sum up the *asus* of the signs past, in this case 5 signs for 24° north, which is nearly the latitude of Aṇhilwâd. Signs I-V inclusive give 1353+1533+1829+2041+2057=8813. Now we have this proportion: as the 30 degrees of sign VI rise in 1987 *asus*, 8° 1'7 rise in 532 asus. Adding this to 8813 we get 9345 *asus* which the part of the ecliptic, through which the mean sun has passed, takes up in rising. Converting the sun's tropical longitude into minutes, we find 5ª 8° 21′ = 9482'; this is the time in asus which an arc of the Equator equal to the mean longitude of the sun takes in rising. Subtracting the one from the other, 9482–9345 = 137, we obtain the interval in *asus*between the rising of the mean sun assumed to move on the Equator and that on the ecliptic. When the sun is in one of the first six signs, I-VI, he rises earlier in, a northern latitude than on the Equator; if in the last six signs, VII-XII, he rises later. In this case the sun, being in sign VI, rises earlier than calculated by 137 *asus*, which divided by 6 give the amount in *vinádís, viz*. 23. Therefore, we subtract from the element *Dist*. &c., as found above, their increase in 23 *palas—*
 
-*![](../books_images/U-IMG-1699185202Screenshot2023-11-05172313.png)*
+*<MISSING_FIG href="../books_images/U-IMG-1699185202Screenshot2023-11-05172313.png"/>*
 
  Thus we get 6° 9' 50" as the true distance of sun and moon at the true rising of the mean sun at Aṇhilwâḍ.
 
- 61. *True Sunrise*.—In § 52 we have seen that the true longitude of the sun is derived from the mean longitude by adding the sun's equation with the sign changed; consequently the ![](../books_images/U-IMG-1699185345Screenshot2023-10-31165149.png)'s true longitude is greater or less than his mean longitude by the amount of the equation, according as the sun's equation in Table XXIV has the sign—
+ 61. *True Sunrise*.—In § 52 we have seen that the true longitude of the sun is derived from the mean longitude by adding the sun's equation with the sign changed; consequently the <MISSING_FIG href="../books_images/U-IMG-1699185345Screenshot2023-10-31165149.png"/>'s true longitude is greater or less than his mean longitude by the amount of the equation, according as the sun's equation in Table XXIV has the sign—
 
 or +. It is evident that the true sun rises later than the mean sun if the true longitude is greater than the mean, and *vice vers*. In the present case, the equation being additive, true sunrise precedes mean suprise.
 
- We have now to find in how much time the part of the ecliptic equal to the ![](../books_images/U-IMG-1699283794Screenshot2023-10-31165149.png)'s equation rises on the given parallel.
+ We have now to find in how much time the part of the ecliptic equal to the <MISSING_FIG href="../books_images/U-IMG-1699283794Screenshot2023-10-31165149.png"/>'s equation rises on the given parallel.
 
- Convert the '![](../books_images/U-IMG-1699283794Screenshot2023-10-31165149.png)'s equation into minutes, *viz*. 121; multiply this by the *asus* which the tropical sign, through which the sun is passing, takes in rising,. 1987, and divide by 1800. The result 135 is the interval in *asus* between the rising of the true and the mean sun. Divide this by 6, the quotient 23 is the interval in *vinâḍís*. The increase of distance for the interval thus found must be added to the corrected distance if the equation in Table XXIV is subtractive, or, subtracted if the equation is additive. Here—
+ Convert the '<MISSING_FIG href="../books_images/U-IMG-1699283794Screenshot2023-10-31165149.png"/>'s equation into minutes, *viz*. 121; multiply this by the *asus* which the tropical sign, through which the sun is passing, takes in rising,. 1987, and divide by 1800. The result 135 is the interval in *asus* between the rising of the true and the mean sun. Divide this by 6, the quotient 23 is the interval in *vinâḍís*. The increase of distance for the interval thus found must be added to the corrected distance if the equation in Table XXIV is subtractive, or, subtracted if the equation is additive. Here—
 
-![](../books_images/U-IMG-1699283920Screenshot2023-11-06204830.png)
+<MISSING_FIG href="../books_images/U-IMG-1699283920Screenshot2023-11-06204830.png"/>
 
  This is the final result. It will be seen from Table XXII, that 26 *p*. (the time corresponding to an increase of distance 5′ 10″) before true sunrise, the first *Karaṇa*had ended.
 
@@ -15880,13 +15287,13 @@ or +. It is evident that the true sun rises later than the mean sun if the true 
 
  This may be effected by §§ 20-26. But we'may calculate also by means of the column for Julian Calendar' in the tables. Thus in Ex. 1, § 26; we have Sam. 1233, Bhadrapada Sudi 13, Sunday, corresponding.to K.Y. 4276, 3rd Aévina, solar reckoning; and :—
 
-![](../books_images/U-IMG-1699285135Screenshot2023-11-06210843.png)
+<MISSING_FIG href="../books_images/U-IMG-1699285135Screenshot2023-11-06210843.png"/>
 
  2. To convert a European date into a Hindu lunar date. Find (*a*) the corresponding Kaliyuga year by adding 3101 or 3100 as the case requires; (b) by § 21 find the date corresponding to the Julian day; and by § 23 compute the corresponding *tithi*; (c) the lunar month is of the same name as the solar month in which the new moon preceding the date falls, except when the date belongs to the dark fortnight and is to be interpreted according to the *Pûrṇimânta* scheme, when the lunar month takes the name of the following solar month; (d) if the Vikrama era, beginning generally in Kârttika, is used, the lunar months Chaitra to Kârttika in Table III belong to the preceding year; and (e) if the date is in New Style, it must first be converted into Old Style.
 
 *Ex*. 1. To find the Hindu date corresponding to 1st June 1891. 1st June 1891 corresponds to 20th May (O. S.), K. Y. 4992. By §21, 16+1+14 April=1st May for 0 Jyaishtba. Hence 20th May 0.8. corresponds to 19th Jyaishtha of the Tablos. Now by Tables I-III :—
 
-![](../books_images/U-IMG-1699625833Screenshot2023-11-10194658.png)
+<MISSING_FIG href="../books_images/U-IMG-1699625833Screenshot2023-11-10194658.png"/>
 
  The date belonging to the dark fortnight, about the 24th day of the moon's age, new moon must have occurred before 1st Jyaishṭha, or towards the end of Vaiśâkha; hence in the *Amánta* scheine the date isVaiśâkha badi 9, K. Y. 4992 or Saka 1813; but being before Kârttika, it is in Saṁvat 1947. In the *Pûrnimánta* scheme it is Jyaishṭha badi 9.
 
@@ -15894,7 +15301,7 @@ or +. It is evident that the true sun rises later than the mean sun if the true 
 
  11th February is 30th January O. S. and this falling before Chaitra, the year K. Y. is 4978. 0 Phâlguna =16+13 January=29th January. Hence 30th=January. 1st Phâlguna. Then—
 
-![](../books_images/U-IMG-1699626145Screenshot2023-11-10195211.png)
+<MISSING_FIG href="../books_images/U-IMG-1699626145Screenshot2023-11-10195211.png"/>
 
  Hence the 9th tithi sudi ended on Monday, 30th January O. S., or 11th February N. S., and new moon occurred about 23rd Mâgha; bence the date in both schemes is Mâgha sudi 9, Śaka 1799 or Saṁvat 1934.
 
@@ -15908,7 +15315,7 @@ or +. It is evident that the true sun rises later than the mean sun if the true 
 
 [^2370]: "The European value of this sidereal year is 365-2563744 days, while the tropical year consists of 365-24224 days; and taking the precession of the equinoxes at 180 revolutions in a yuga, according to the Súrya Siddhdnta, the Hindu tropical year would be 1,577,917,8284,320,180 = 365243599667 days.-J.B."
 
-![](../books_images/U-IMG-1699859734Screenshot2023-11-13124522.png)
+<MISSING_FIG href="../books_images/U-IMG-1699859734Screenshot2023-11-13124522.png"/>
 
  From these data is derived the mean duration of 100, 1000 and 3000 years according to the different authorities. Thus according to the *Árya Siddhânta*, 3000 years being 1,095,776d. 2*gh*. 30*p*., the 'Cor.' is + 2*gh*. 30 *p*. As the astronomical day in the *SûryaSiddhânta* begins with mean midnight at Laṅkâ, while common use makes it begin with mean sunrise at Laṅkâ from the duration 1,095,776*d*. 16*gh*. 10*p*., we must retrenclr 15*ghaṭikás* (the time between mean midnight and mean sunrise), the remainder + 1 *gh*. 10 *p*. is tlie required '*Cor*.' as entered in the table. But according to the *Brahma Siddhánta*, 3,000 solar years contain 1,095,775d. 18*gh*. 45*p*. or about one day less than is given by the other *Siddhântas*; 3000 K.Y. therefore began on the day preceding that entered in the tables, and the *'Cor.*' was + 18*gh*. 45*p*.
 
@@ -15922,7 +15329,7 @@ of the Hindus contain 1,461,035 days, they are equal to 40 centuries of Julian y
 
  67. *Construction of the Special Tables XIII-XXI*.—The Special Tables are based on the mean solar year,.and not on the artificial year introduced in the General Tables. It is evident that *'Cor.'* must denote the same interval of time in both sets of tables, but with a contrary sign, because in the General Tables, the artiffeial year being given, *'Cor.'*serves to find the end of the solar year, and in the Special Tables the solar year being given, it serves to find the end of the artificial year, t.e. the interval between the end of the solar year and the beginning of the next preceding or following sunrise at Laṅkâ.
 
- 68. *To calculate a given Tithi*.—As a *Tithi* is equal to the time required by the sun and moon to increase their distance by 12° of longitude, we require the following data: (1) the true longitude of the moon, (2) the true longitude of the sun. According to Hindu astronomy, true long. ![](../books_images/U-IMG-1699860927Screenshot2023-11-13130512.png)= mean long.![](../books_images/U-IMG-1699860981Screenshot2023-11-13130606.png) equation of the a's centre; and true long. ![](../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png)=mean long. ![](../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png)± equation of the ![](../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png)'s centre. The equations of the sun and moon's centres depend on their mean anomalies. Now we have the equations: true distance ( ![](../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png)=true long. ( -true long. ![](../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png)= mean long. (mean long.©‡ equation «± equation o. The mean long.( mean long. o is equal to the place of the moon in her synodical revolution. Hence it follows that the tables must enable us to calculate accurately—
+ 68. *To calculate a given Tithi*.—As a *Tithi* is equal to the time required by the sun and moon to increase their distance by 12° of longitude, we require the following data: (1) the true longitude of the moon, (2) the true longitude of the sun. According to Hindu astronomy, true long. <MISSING_FIG href="../books_images/U-IMG-1699860927Screenshot2023-11-13130512.png"/>= mean long.<MISSING_FIG href="../books_images/U-IMG-1699860981Screenshot2023-11-13130606.png"/> equation of the a's centre; and true long. <MISSING_FIG href="../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png"/>=mean long. <MISSING_FIG href="../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png"/>± equation of the <MISSING_FIG href="../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png"/>'s centre. The equations of the sun and moon's centres depend on their mean anomalies. Now we have the equations: true distance ( <MISSING_FIG href="../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png"/>=true long. ( -true long. <MISSING_FIG href="../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png"/>= mean long. (mean long.©‡ equation «± equation o. The mean long.( mean long. o is equal to the place of the moon in her synodical revolution. Hence it follows that the tables must enable us to calculate accurately—
 
 (1) the synodical motion of the moon,  
 (2) the anomalistic motion of the moon,  
@@ -15934,7 +15341,7 @@ of the Hindus contain 1,461,035 days, they are equal to 40 centuries of Julian y
 
 [^2372]: "Hence the synodical period of the S. S. is 1,577,917,828 d. + 53,433,336 r. = 29-53058795 days.—J.B."
 
- As the mean distance of the sun and moon at the beginning of the Kaliyuga was 0° (the longitude of both being supposed to have been 0°), the mean distance (—![](../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png)at 3000 K.Y. was 174° as given in column headed Distance' (—![](../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png)of Table XIII. From these data the value of the distance for centuries and for odd, years can easily be computed; in a similar way the corresponding' values for the other *Siddhántas* have been computed.
+ As the mean distance of the sun and moon at the beginning of the Kaliyuga was 0° (the longitude of both being supposed to have been 0°), the mean distance (—<MISSING_FIG href="../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png"/>at 3000 K.Y. was 174° as given in column headed Distance' (—<MISSING_FIG href="../books_images/U-IMG-1699861049Screenshot2023-10-31165149.png"/>of Table XIII. From these data the value of the distance for centuries and for odd, years can easily be computed; in a similar way the corresponding' values for the other *Siddhántas* have been computed.
 
  70. The daily synodical motion of the moon[^2373] in degrees is, according to the *SūryaSiddhánta,* 12° 11′ 26″·69817, as given in the translation of the *Surya Siddhánta (Journ. Am. Or. Soc.)* i, 34. This value is practically the same for the other *Siddhántas* also, for the difference in a year amounts to 2 seconds only for the 2nd *Arya Siddhánta*, and to 1 second every month for the *Brahma Siddhánta:* For the latter *Siddhánta* therefore we get the correct value, if we add to that furnished by Table XIV one second for each month elapsed since the beginning of the solar year.
 
@@ -15975,15 +15382,15 @@ of the Hindus contain 1,461,035 days, they are equal to 40 centuries of Julian y
 
  **76.** The tables for the equations of the centres of the sun and moon are calculated from the epicycles. Their dimensions are the following:—
 
-![](../books_images/U-IMG-1709045076Screenshot2024-02-27201404.png)
+<MISSING_FIG href="../books_images/U-IMG-1709045076Screenshot2024-02-27201404.png"/>
 
 Now according to Hindu astronomy, sin. eq. : sin. an. :: minutes in the epicycle: minutes in the orbit.
 
  In all these calculations the Hindu sines have to be used. Thus we find *e.g*. the eq. « for «'s an. =45° (sin 45°=2431'), according to the first *Árya Siddhánta*, 212'71=3 32′ 43″; according to the second *Árya Siddh*. 215'65=3° 33′ 39″.
 
- **77.** The epicycles of the moon and sun, according to the *Súrya Siddhánta*, have circumferences of 32° and 14° respectively, and are assumed to contract at the odd quadrants by 20. The amount of the contraction at any other point, say at anom. a, is 20x sin/3438; hence the equation of the sun's centre for anomaly a is= sin32/3000 a —![](../books_images/U-IMG-1698753359Screenshot2023-10-31172545.png)which formula will be found convenient for the calculation of the table. This has been done by Davies (*As. Res*. vol. II, p. 256); I have taken Davies' tables from Warren's*Kala Sankalita,* Tables XXII and XXIII.
+ **77.** The epicycles of the moon and sun, according to the *Súrya Siddhánta*, have circumferences of 32° and 14° respectively, and are assumed to contract at the odd quadrants by 20. The amount of the contraction at any other point, say at anom. a, is 20x sin/3438; hence the equation of the sun's centre for anomaly a is= sin32/3000 a —<MISSING_FIG href="../books_images/U-IMG-1698753359Screenshot2023-10-31172545.png"/>which formula will be found convenient for the calculation of the table. This has been done by Davies (*As. Res*. vol. II, p. 256); I have taken Davies' tables from Warren's*Kala Sankalita,* Tables XXII and XXIII.
 
- **78.** The *General Tables* yield approximately correct results with the smallest amount of calculation; but they do not conform strictly to the data of any *Siddhánta*, but are based on the European tables of Largeteau**¹**with this difference that while Largeteau expresses the mean distance of sun and moon, a, in 10,000th parts of the circle, these tables furnish the same element, called *tithi*, in 30th parts of the synodical revolution. But the mean anomaly of the moon is expressed in the same way in both. For 3200 K.Y.=99 A.D. 18th March, Largeteau's tables give a=moon's age 2575, and b=857, for mean midnight at Paris. Reducing this for mean sunrise at Lankâ we must add the increments of *a* and *b* for 1^(h)6^(m), *viz*. 15 and 2, which give *a* = 2590 and *b=*859. From a we subtract 200 (the sum of the equations of c and![](../books_images/U-IMG-1698753696Screenshot2023-10-31165149.png) at their maximum), multiply by 30, and divide by 10,000; which gives 7:17 the required *tithi* for 3200 .K.Y. as in Table I. The value of 6 found above, 859**²**, is transferred to column ( 's an. of Table I without further change. The same elements in Table II can easily be derived from Largeteau's Table for the years of the 9th century, attention being paid to the leap years.
+ **78.** The *General Tables* yield approximately correct results with the smallest amount of calculation; but they do not conform strictly to the data of any *Siddhánta*, but are based on the European tables of Largeteau**¹**with this difference that while Largeteau expresses the mean distance of sun and moon, a, in 10,000th parts of the circle, these tables furnish the same element, called *tithi*, in 30th parts of the synodical revolution. But the mean anomaly of the moon is expressed in the same way in both. For 3200 K.Y.=99 A.D. 18th March, Largeteau's tables give a=moon's age 2575, and b=857, for mean midnight at Paris. Reducing this for mean sunrise at Lankâ we must add the increments of *a* and *b* for 1^(h)6^(m), *viz*. 15 and 2, which give *a* = 2590 and *b=*859. From a we subtract 200 (the sum of the equations of c and<MISSING_FIG href="../books_images/U-IMG-1698753696Screenshot2023-10-31165149.png"/> at their maximum), multiply by 30, and divide by 10,000; which gives 7:17 the required *tithi* for 3200 .K.Y. as in Table I. The value of 6 found above, 859**²**, is transferred to column ( 's an. of Table I without further change. The same elements in Table II can easily be derived from Largeteau's Table for the years of the 9th century, attention being paid to the leap years.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
@@ -15991,7 +15398,7 @@ Now according to Hindu astronomy, sin. eq. : sin. an. :: minutes in the epicycle
 
 ^(**2**) If the degrees in 'Distance (O'Table XIII, &c., be multiplied by 30 we obthin this element a according to the different Siddhantas; thus for K.Y. 3200 we have 89° 6 × 302688; or if we divide the same by 12, we have 7:47 tithi. Again for 6, from Table XIII, 182° 10′ × 100 ÷ 36 = 367, and 367-500 = 867, differing by about 3° from the European value, Hansen's Tables de la Lune give for the value of the tithi here, 7-1637 and for ('s anom,= 858·11.–J. B.
 
- **79.** As the beginning of the mean solar year (*i.e.*, mean long.![](../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png)-0) always falls on the 2nd or 3rd Vaiśâkha of Table III, it is obvious that,on any given date in that table the ![](../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png)'s mean long. and consequently the ![](../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png)'s mean anomaly and the equation dependent on the latter will be nearly the same for every year. Accordingly the equation![](../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png)has been coupled with the *tithi* of the several solar days, so that only the equation of the moon's centre had to be exhibited in the table auxiliary to Table III. Sun from Node' of Tables VI, VIÍ, VIII, denotes the distance of the true sun from the moon's node expressed in thousandth parts of the semi-circle. This element has been derived from Largeteau's tables[^2378]=173 3123167 days.-J. B.")by coupling Largeteau's values with the equation of the sún's centre.
+ **79.** As the beginning of the mean solar year (*i.e.*, mean long.<MISSING_FIG href="../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png"/>-0) always falls on the 2nd or 3rd Vaiśâkha of Table III, it is obvious that,on any given date in that table the <MISSING_FIG href="../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png"/>'s mean long. and consequently the <MISSING_FIG href="../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png"/>'s mean anomaly and the equation dependent on the latter will be nearly the same for every year. Accordingly the equation<MISSING_FIG href="../books_images/U-IMG-1698751332Screenshot2023-10-31165149.png"/>has been coupled with the *tithi* of the several solar days, so that only the equation of the moon's centre had to be exhibited in the table auxiliary to Table III. Sun from Node' of Tables VI, VIÍ, VIII, denotes the distance of the true sun from the moon's node expressed in thousandth parts of the semi-circle. This element has been derived from Largeteau's tables[^2378]=173 3123167 days.-J. B.")by coupling Largeteau's values with the equation of the sún's centre.
 
 [^2378]: "Largeteau's f. or Hansen's 2g' + 2 w' is the mean value, independent of the Sun's equation of the centre, the correct period of which is 173-30998176 days; or, from the Sûryd Siddhanta elements it may be found thus: 1577917828÷2(4320000+232238
 
@@ -16005,52 +15412,52 @@ Now according to Hindu astronomy, sin. eq. : sin. an. :: minutes in the epicycle
 
 ** 83.** The following is a list of all the data required from the *Siddhântas*—
 
-![](../books_images/U-IMG-1698752119Screenshot2023-10-31170504.png)  
+<MISSING_FIG href="../books_images/U-IMG-1698752119Screenshot2023-10-31170504.png"/>  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 In the Sûrya Siddhanta with biju, this is-232,242 rev.; the apsides make 488,199 rev.; and Jupiter 364,228 rev. The modern value of the mean heliocentric motion of Jupiter in a Julian year being 30° 20' 46"-72, his motion in a Yuga of 4,320,000 true sidereal years would be only 364195 406 revolutions; or, in the juge of the Súrya Siddhanta, 364,197-798 rev. and twelve times this divided by the years in a yuga gives 1011938328 instead of 1'0117 as in § 78.-J. B.
 
 With bija this becomes 364212.
 
-![](../books_images/U-IMG-1710479018SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710479018SS.png"/>
 
-![](../books_images/U-IMG-1710479278SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710479278SS.png"/>
 
-![](../books_images/U-IMG-1710479662SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710479662SS.png"/>
 
-![](../books_images/U-IMG-1710479834SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710479834SS.png"/>
 
-**![](../books_images/U-IMG-1710480195SS.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1710480195SS.png"/>**
 
-![](../books_images/U-IMG-1710480602SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710480602SS.png"/>
 
-**![](../books_images/U-IMG-1710480931SS.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1710480931SS.png"/>**
 
-![](../books_images/U-IMG-1710481177SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710481177SS.png"/>
 
-![](../books_images/U-IMG-1710481393SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710481393SS.png"/>
 
-![](../books_images/U-IMG-1710481783SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710481783SS.png"/>
 
-![](../books_images/U-IMG-1710481975SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710481975SS.png"/>
 
-![](../books_images/U-IMG-1710482130SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710482130SS.png"/>
 
-![](../books_images/U-IMG-1710482349SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710482349SS.png"/>
 
-![](../books_images/U-IMG-1710482541SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710482541SS.png"/>
 
-![](../books_images/U-IMG-1710482713SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710482713SS.png"/>
 
-![](../books_images/U-IMG-1710482856SS.png)
+<MISSING_FIG href="../books_images/U-IMG-1710482856SS.png"/>
 
 **COMPUTATION OF DATES:—SPECIAL TABLES.**
 
-![](../books_images/U-IMG-1710323288EP-3.png)
+<MISSING_FIG href="../books_images/U-IMG-1710323288EP-3.png"/>
 
 **TABLE XXVI.—Showing the times of rising (in Arus or sixths of vinadi) in 10°-32° north latitude, or ullagna equivalentis in Oblique Ascension.**
 
-![](../books_images/U-IMG-1710322808EP-1.png)
+<MISSING_FIG href="../books_images/U-IMG-1710322808EP-1.png"/>
 
 For the rule see above §60
 
@@ -16058,3 +15465,10 @@ For the rule see above §60
 
 \]
 
+[^2192]: "17 Restoreसिहं सं . A second figure seems to have stood after the plain म."
+
+[^1561]: "A bijaka is the little three-cornered parcel of ground arecanut, lime, etc., which is wrapped up in a betel pepper leaf and held together by a clove stuck into the leaf, what is usually called pân-supárí."
+
+[^1560]: "The Mehara probably belonged to the Kathiâvâd caste called Mer in the Bombay Gazetteer, and described there, vol. VIII, pp. 137-38. He was probably in some way, perhaps as watchman, connected with Tripurântaka's temples, and received an allowance from him, though none is mentioned specially."
+
+[^1329]: "Here 23 syllables of verse 8 and the commenoement of verso 9 aro lost."

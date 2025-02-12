@@ -29,7 +29,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg
 
 **काञ्चीमाहात्म्यम्।**
 
-![](#)![](../books_images/U-IMG-1733467529Screenshot_2024-12-06_12-15-03.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1733467529Screenshot_2024-12-06_12-15-03.png"/>
 
 **कदाचिन्नैमिशारण्ये पुण्यक्षेत्रे समागताः।  
 शौनकाद्या महाभागा मुनयस्संशितव्रताः॥१॥**
@@ -245,13 +245,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg
 काञ्चीमाहात्म्ये  
 प्रथमोध्यायः॥
 
-![](../books_images/U-IMG-1733482941Screenshot_2024-12-06_16-31-58.png)
+<MISSING_FIG href="../books_images/U-IMG-1733482941Screenshot_2024-12-06_16-31-58.png"/>
 
 **श्रीः।**
 
 **अथद्वितीयोऽध्यायः।**
 
-![](../books_images/U-IMG-1733485382Screenshot_2024-12-06_17-12-44.png)
+<MISSING_FIG href="../books_images/U-IMG-1733485382Screenshot_2024-12-06_17-12-44.png"/>
 
 **एवं वसिष्ठे ब्रुवति सर्व एव महर्षयः।  
 प्रहृष्टवदना भूत्वा प्रशशंसुर्द्विजर्षभम्॥१॥**
@@ -544,13 +544,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg
 काञ्चीमाहात्म्ये  
 द्वितीयोध्यायः॥
 
-![](#)![](../books_images/U-IMG-1733549777Screenshot_2024-12-07_11-05-59.png)
+<MISSING_FIG href="#"/><MISSING_FIG href="../books_images/U-IMG-1733549777Screenshot_2024-12-07_11-05-59.png"/>
 
 **श्रीरस्तु।**
 
 **अथतृतीयोऽध्यायः।**
 
-![](../books_images/U-IMG-1733550461Screenshot_2024-12-07_11-17-28.png)
+<MISSING_FIG href="../books_images/U-IMG-1733550461Screenshot_2024-12-07_11-17-28.png"/>
 
 **श्रीनारदः।**
 
@@ -854,13 +854,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg
 काञ्चीमाहात्म्ये  
 तृतीयोध्यायः॥
 
-![](../books_images/U-IMG-1733570231Screenshot_2024-12-07_16-46-53.png)
+<MISSING_FIG href="../books_images/U-IMG-1733570231Screenshot_2024-12-07_16-46-53.png"/>
 
 **श्रीरस्तु।**
 
 **अथचतुर्थोऽध्यायः।**
 
-![](../books_images/U-IMG-1733584644Screenshot_2024-12-07_11-05-59.png)
+<MISSING_FIG href="../books_images/U-IMG-1733584644Screenshot_2024-12-07_11-05-59.png"/>
 
 **श्रीनारदः।**
 
@@ -1277,13 +1277,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg
 इति श्रीब्रह्माण्डपुराणे काञ्चीमाहात्म्ये  
 पंचमोध्यायः॥
 
-![](../books_images/U-IMG-1733725709Screenshot_2024-12-09_11-58-11.png)
+<MISSING_FIG href="../books_images/U-IMG-1733725709Screenshot_2024-12-09_11-58-11.png"/>
 
 **श्रीरस्तु।**
 
 **अथषष्ठोऽध्यायः।**
 
-![](../books_images/U-IMG-1733729195Screenshot_2024-12-09_12-56-18.png)
+<MISSING_FIG href="../books_images/U-IMG-1733729195Screenshot_2024-12-09_12-56-18.png"/>
 
 **नारदः।**
 
@@ -1528,13 +1528,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg
 इति श्रीब्रह्माण्डपुराणे काञ्चीमाहात्म्ये  
 षष्ठोऽध्यायः॥
 
-![](../books_images/U-IMG-1733762285Screenshot_2024-12-09_22-07-45.png)
+<MISSING_FIG href="../books_images/U-IMG-1733762285Screenshot_2024-12-09_22-07-45.png"/>
 
 **श्रीरस्तु।**
 
 **अथ सप्तमोऽध्यायः।**
 
-![](../books_images/U-IMG-1733762632Screenshot_2024-12-09_22-13-34.png)
+<MISSING_FIG href="../books_images/U-IMG-1733762632Screenshot_2024-12-09_22-13-34.png"/>
 
 **नारदः।**
 
@@ -1706,13 +1706,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg
 
 इति श्रीब्रह्माण्डपुराणे काञ्चीमाहात्म्ये  
 सप्तमोऽध्यायः॥  
-**![](../books_images/U-IMG-1731337289Untitled5-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731337289Untitled5-removebg-preview.png"/>**
 
 **श्रीरस्तु।**
 
 **अथ अष्टमोऽध्यायः।**
 
-![](../books_images/U-IMG-1730286691Screenshot2024-10-30124529.png)
+<MISSING_FIG href="../books_images/U-IMG-1730286691Screenshot2024-10-30124529.png"/>
 
 **नारदः।**
 
@@ -1920,13 +1920,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg
 इति श्रीब्रह्माण्डपुराणे काञ्चीमाहात्म्ये  
 अष्टमोऽध्यायः॥
 
-**![](../books_images/U-IMG-1731343037Untitled5-removebg-preview.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1731343037Untitled5-removebg-preview.png"/>**
 
 **श्रीरस्तु।**
 
 **अथ नवमोऽध्यायः।**
 
-![](../books_images/U-IMG-1733834335Screenshot_2024-12-10_18-08-41.png)
+<MISSING_FIG href="../books_images/U-IMG-1733834335Screenshot_2024-12-10_18-08-41.png"/>
 
 **अथ तेहं प्रवक्ष्यामि श्रुणुष्वैकमना नृप।  
 यथा हस्तिगिरेरग्रे हरिः प्रादुरभूत्किल॥१॥**
@@ -2180,13 +2180,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzOTY3ODEwOTg
 इति श्रीब्रह्माण्डपुराणे काञ्चीमाहात्म्ये  
 नवमोऽध्यायः॥
 
-![](../books_images/U-IMG-1733895807Screenshot_2024-12-11_11-13-08.png)
+<MISSING_FIG href="../books_images/U-IMG-1733895807Screenshot_2024-12-11_11-13-08.png"/>
 
 **श्रीरस्तु।**
 
 **अथ दशमोऽध्यायः।**
 
-![](../books_images/U-IMG-1733896784Screenshot_2024-12-11_11-29-27.png)
+<MISSING_FIG href="../books_images/U-IMG-1733896784Screenshot_2024-12-11_11-29-27.png"/>
 
 **नारदः।**
 

@@ -194,7 +194,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 **नमोऽस्तु रामाय सलक्ष्मणाय देव्यै च तस्यै जनकात्मजायै।  
 नमोऽस्तु रुद्रेन्द्रयमानिलेभ्यो नमोऽस्तु चन्द्रार्कमरुद्गणेभ्यः** ॥
 
-![](../books_images/U-IMG-1707811524Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707811524Screenshot2024-02-13121118.png"/>
 
 **॥ पारायणसमापनसमये अनुसन्धेयश्लोकक्रमः ॥**
 
@@ -238,7 +238,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 करोमि यद्यत्सकलं परस्मै  
 नारायणायेति समर्पयामि॥१२॥
 
-![](../books_images/U-IMG-1707812758Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707812758Screenshot2024-02-13121118.png"/>
 
 **॥श्री वैष्णवानां श्रीरामायणपठनोपक्रमेऽनुसन्धेयाः श्लोकाः॥**
 
@@ -287,7 +287,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 अग्रे वाचयति प्रभञ्जनसुते तत्त्वं मुनिभ्यः परं  
 व्याख्यान्तं भरतादिभिः परिवृतं रामं भजे श्यामलम् ॥१३॥
 
-![](../books_images/U-IMG-1707813476Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707813476Screenshot2024-02-13121118.png"/>
 
 **॥ पारायणसमापनक्रमः ॥**
 
@@ -344,7 +344,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 मङ्गलाशासनपरैर्मदाचार्यपुरोगमैः।  
 सर्वैश्च पूर्वैराचार्यैः सत्कृतायास्तु मङ्गलम्॥१७॥
 
-![](../books_images/U-IMG-1707814653Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707814653Screenshot2024-02-13142116.png"/>
 
 ॥ अथ माध्वानां रामायणपठनोपक्रमेऽनुसन्धेयाः श्लोकाः ॥
 
@@ -446,7 +446,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 हयग्रीव हयग्रीव हयग्रीवेति यो वदेत्।  
 तस्य निःसरते वाणी जह्रुकन्याप्रवाहवत्॥३०॥
 
-![](../books_images/U-IMG-1707817560Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707817560Screenshot2024-02-13142116.png"/>
 
 स्वस्ति प्रजाभ्यां परिपालयन्तां  
   न्याय्येन मार्गेण महीं महीशाः।  
@@ -464,9 +464,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 
 **इत्यादिश्लोकाः श्रीवैष्णवपद्धतिवदनुसन्धेयाः ॥**  
 
-**![](../books_images/U-IMG-1707817560Screenshot2024-02-13142116.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707817560Screenshot2024-02-13142116.png"/>**
 
-![](../books_images/U-IMG-1707799955fds.png)
+<MISSING_FIG href="../books_images/U-IMG-1707799955fds.png"/>
 
 **श्रीराम—दरबार**
 
@@ -481,7 +481,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 
 **किष्किन्धाकाण्डम् ॥**
 
-**![](../books_images/U-IMG-1707818181Screenshot2024-02-13152554.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707818181Screenshot2024-02-13152554.png"/>**
 
 \[पुरा कुशलवाभ्यां श्रीरामसन्निधौ अश्वमेधयज्ञवाटे द्वात्रिंशति दिनेषु गीते श्रीमद्रामायणे त्रयोदशेऽह्नि आरण्यकाण्डे चतुःषष्टितमसर्गमारभ्य यावत्काण्डसमाप्ति किष्किन्धाकाण्डे
 
@@ -942,7 +942,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9402  
 किष्किन्धाकाण्डे आदितः श्लोकाः 150
 
-![](../books_images/U-IMG-1709893100Screenshot2024-03-08154806.png)
+<MISSING_FIG href="../books_images/U-IMG-1709893100Screenshot2024-03-08154806.png"/>
 
 द्वितीयः सर्गः॥२॥
 
@@ -1044,7 +1044,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदित श्लोकाः 9431   
 किष्किन्धाकाण्डे आदित श्लोकाः 179
 
-![](../books_images/U-IMG-1707888177Screenshot2024-02-13151634.png)
+<MISSING_FIG href="../books_images/U-IMG-1707888177Screenshot2024-02-13151634.png"/>
 
 तृतीयः सर्गः ॥३॥
 
@@ -1176,7 +1176,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदित श्लोकाः 9471   
 किष्किन्धाकाण्डे आदितः श्लोकाः 219
 
-![](../books_images/U-IMG-1707883038Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707883038Screenshot2024-02-13121118.png"/>
 
 चतुर्थः सर्गः ॥४॥
 
@@ -1296,7 +1296,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9506   
 किष्किन्धाकाण्डे आदितः श्लोकाः 254
 
-![](../books_images/U-IMG-1707885031Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707885031Screenshot2024-02-13121118.png"/>
 
 पञ्चमः सर्गः ॥५॥
 
@@ -1410,7 +1410,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9539   
 किष्किन्धाकाण्डे आदितः श्लोकाः 287
 
-![](../books_images/U-IMG-1707886199Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707886199Screenshot2024-02-13121118.png"/>
 
 षष्ठः सर्गः ॥ ६॥
 
@@ -1505,7 +1505,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9566   
 किष्किन्धाकाण्डे आदितः श्लोकाः 314
 
-![](../books_images/U-IMG-1707887212Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707887212Screenshot2024-02-13121118.png"/>
 
 सप्तमः सर्गः ॥७॥
 
@@ -1594,7 +1594,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः9591  
 किष्किन्धाकाण्डे आदितः श्लोकाः 339
 
-![](../books_images/U-IMG-1707888635Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707888635Screenshot2024-02-13142116.png"/>
 
 अष्टमः सर्गः ॥८॥
 
@@ -1747,7 +1747,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 इति पुरा कुशलवाभ्यां श्रीरामसन्निधावश्वमेधयज्ञवाटे गीते  
 श्रीमद्रामायणे त्रयोदशेऽह्नि वर्तमानकथाप्रसङ्गः
 
-![](../books_images/U-IMG-1707891563Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707891563Screenshot2024-02-13142116.png"/>
 
 \[पुरा कुशलवाभ्यां श्रीरामसन्निधौ अश्वमेधयज्ञवाटे  
 चतुर्दशेऽह्नि किष्किन्धाकाण्डे नवमसर्गादारभ्य  
@@ -1845,7 +1845,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9664  
 किष्किन्धाकाण्डे आदितः श्लोकाः 412
 
-![](../books_images/U-IMG-1707897694Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707897694Screenshot2024-02-13142116.png"/>
 
 दशमः सर्गः ॥१०॥
 
@@ -1963,7 +1963,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9700  
 किष्किन्धाकाण्डे आदितःश्लोकाः 448
 
-![](../books_images/U-IMG-1707890260Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707890260Screenshot2024-02-13142116.png"/>
 
 एकादशः सर्गः ॥११॥
 
@@ -2263,7 +2263,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9795  
 किष्किन्धाकाण्डे आदितः श्लोकाः 543
 
-![](../books_images/U-IMG-1707912608Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707912608Screenshot2024-02-13142116.png"/>
 
 द्वादशः सर्गः ॥१२॥
 
@@ -2406,7 +2406,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9839  
 किष्किन्धाकाण्डे आदितः श्लोकाः 587
 
-![](../books_images/U-IMG-1707914904Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707914904Screenshot2024-02-13121118.png"/>
 
 त्रयोदशः सर्गः ॥१३॥
 
@@ -2510,7 +2510,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9869  
 किष्किन्धाकाण्डे आदितः श्लोकाः 617
 
-![](../books_images/U-IMG-1707921488Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707921488Screenshot2024-02-13142116.png"/>
 
 चतुर्दशः सर्गः ॥१४॥
 
@@ -2592,7 +2592,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9892  
 किष्किन्धाकाण्डे आदितः श्लोकाः 640
 
-![](../books_images/U-IMG-1707965732Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707965732Screenshot2024-02-13142116.png"/>
 
 पञ्चदशः सर्गः ॥१५॥
 
@@ -2701,7 +2701,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9923  
 किष्किन्धाकाण्डे आदितः श्लोकाः 671
 
-![](../books_images/U-IMG-1707967585Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707967585Screenshot2024-02-13142116.png"/>
 
 षोडशः सर्गः ॥१६॥
 
@@ -2835,7 +2835,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 9963  
 किष्किन्धाकाण्डे आदितः श्लोकाः 711
 
-![](../books_images/U-IMG-1707982466Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707982466Screenshot2024-02-13142116.png"/>
 
 **सप्तदशः सर्गः ॥१७॥**
 
@@ -3010,7 +3010,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10017  
 किष्किन्धाकाण्डे आदितः श्लोकाः 765
 
-![](../books_images/U-IMG-1707984258Screenshot2024-02-13151634.png)
+<MISSING_FIG href="../books_images/U-IMG-1707984258Screenshot2024-02-13151634.png"/>
 
 अष्टादशः सर्गः ॥१८॥
 
@@ -3231,7 +3231,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10086   
 किष्किन्धाकाण्डे आदितः श्लोकाः 834
 
-![](../books_images/U-IMG-1707987356Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707987356Screenshot2024-02-13121118.png"/>
 
 एकोनविंशः सर्गः ॥१९॥
 
@@ -3329,7 +3329,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10115  
 किष्किन्धाकाण्डे आदितः श्लोकाः 863
 
-![](../books_images/U-IMG-1707986298Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707986298Screenshot2024-02-13121118.png"/>
 
 **विंशः सर्गः ॥२०॥**
 
@@ -3428,7 +3428,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10142   
 किष्किन्धाकाण्डे आदितः श्लोकाः 890
 
-![](../books_images/U-IMG-1707989222Screenshot2024-02-13151634.png)
+<MISSING_FIG href="../books_images/U-IMG-1707989222Screenshot2024-02-13151634.png"/>
 
 **एकविंशः सर्गः ॥ २१ ॥**
 
@@ -3490,7 +3490,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10158  
 किष्किन्धाकाण्डे आदितः श्लोकाः 906
 
-![](../books_images/U-IMG-1707990230Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707990230Screenshot2024-02-13121118.png"/>
 
 **द्वाविंशः सर्गः ॥ २२ ॥**
 
@@ -3604,7 +3604,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10191  
 किष्किन्धाकाण्डे आदितः श्लोकाः 939
 
-![](../books_images/U-IMG-1710135640Screenshot2024-03-08154806.png)
+<MISSING_FIG href="../books_images/U-IMG-1710135640Screenshot2024-03-08154806.png"/>
 
 **त्रयोविंशः सर्गः ॥ २३ ॥**
 
@@ -3710,7 +3710,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10222  
 किष्किन्धाकाण्डे आदितः श्लोकाः 970
 
-![](../books_images/U-IMG-1707993474Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707993474Screenshot2024-02-13142116.png"/>
 
 **चतुर्विंशः सर्गः ॥ २४ ॥**
 
@@ -3867,7 +3867,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 **आदितःश्लोकाः 10267  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1015**
 
-**![](../books_images/U-IMG-1708000349Screenshot2024-02-13142116.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1708000349Screenshot2024-02-13142116.png"/>**
 
 **पञ्चविंशः सर्गः ॥ २५ ॥**
 
@@ -4042,7 +4042,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10321  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1069
 
-![](../books_images/U-IMG-1708062838Screenshot2024-02-13151634.png)
+<MISSING_FIG href="../books_images/U-IMG-1708062838Screenshot2024-02-13151634.png"/>
 
 **षड्विंशः सर्गः ॥ २६ ॥**
 
@@ -4182,7 +4182,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10363  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1111
 
-![](../books_images/U-IMG-1708057602Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1708057602Screenshot2024-02-13121118.png"/>
 
 **सप्तविंशः सर्गः ॥ २७ ॥**
 
@@ -4340,7 +4340,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10411  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1159
 
-![](../books_images/U-IMG-1708059936Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1708059936Screenshot2024-02-13142116.png"/>
 
 **अष्टाविंशः सर्गः ॥ २८ ॥**
 
@@ -4553,7 +4553,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10478  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1226
 
-![](../books_images/U-IMG-1708055884Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1708055884Screenshot2024-02-13142116.png"/>
 
 **एकोनत्रिंशः सर्गः ॥२९॥**
 
@@ -4674,7 +4674,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 इति पुरा कुशलवाभ्यां श्रीरामसन्निधावश्वमेधयज्ञवाटे गीते  
 श्रीमद्रामायणे चतुर्दशेऽह्नि वर्तमानकथाप्रसङ्गः
 
-![](../books_images/U-IMG-1708052869Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1708052869Screenshot2024-02-13142116.png"/>
 
 \[पुरा कुशलवाभ्यां श्रीरामसन्निधौ अश्वमेधयज्ञवाटे  
 पञ्चदशेऽह्नि किष्किन्धाकाण्डे त्रिंशसर्गमारभ्य  
@@ -4954,7 +4954,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10597  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1345
 
-![](../books_images/U-IMG-1707972487Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707972487Screenshot2024-02-13142116.png"/>
 
 **एकत्रिंशः सर्गः ॥ ३१ ॥**
 
@@ -5146,7 +5146,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10654  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1402
 
-![](../books_images/U-IMG-1707974923Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707974923Screenshot2024-02-13142116.png"/>
 
 **द्वात्रिंशः सर्गः ॥३२॥**
 
@@ -5226,7 +5226,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10676  
 किष्किन्धाकाण्डे आदितः श्लोकाः1424
 
-![](../books_images/U-IMG-1707976103Screenshot2024-02-13151634.png)
+<MISSING_FIG href="../books_images/U-IMG-1707976103Screenshot2024-02-13151634.png"/>
 
 **त्रयस्त्रिंशः सर्गः ॥३३॥**
 
@@ -5438,7 +5438,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10742  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1490
 
-![](../books_images/U-IMG-1707826012Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707826012Screenshot2024-02-13121118.png"/>
 
 **चतुत्रिंशः सर्गः ॥ ३४ ॥**
 
@@ -5509,7 +5509,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 **आदितः श्लोकाः 10761  
 किष्किन्धाकाण्डे आदितःश्लोकाः 1509**
 
-![](../books_images/U-IMG-1707821678Screenshot2024-02-13142116.png)
+<MISSING_FIG href="../books_images/U-IMG-1707821678Screenshot2024-02-13142116.png"/>
 
 **पञ्चत्रिंशः सर्गः ॥ ३५ ॥**
 
@@ -5594,7 +5594,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 **आदितः श्लोकाः 10785  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1533**
 
-![](../books_images/U-IMG-1707806511Screenshot2024-02-13121118.png)
+<MISSING_FIG href="../books_images/U-IMG-1707806511Screenshot2024-02-13121118.png"/>
 
 **षट्त्रिंशः सर्गः ॥ ३६ ॥**
 
@@ -5666,7 +5666,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10805  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1553
 
-**![](../books_images/U-IMG-1710319376Screenshot2024-03-08154806.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1710319376Screenshot2024-03-08154806.png"/>**
 
 सप्तत्रिंशः सर्गः ॥३७॥
 
@@ -5790,7 +5790,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10842  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1590
 
-![](../books_images/U-IMG-1707883809Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707883809Screenshot(12"/>.png)
 
 अष्टत्रिंशः सर्गः ॥ ३८ ॥
 
@@ -5905,7 +5905,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 
 **आदितः श्लोकाः 10876  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1624**  
-![](../books_images/U-IMG-1707886348Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707886348Screenshot(12"/>.png)
 
 एकोनचत्वारिंशः सर्गः ॥३९॥
 
@@ -6050,7 +6050,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10920  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1668
 
-![](../books_images/U-IMG-1707888200Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707888200Screenshot(12"/>.png)
 
 चत्वारिंशः सर्गः ॥ ४० ॥
 
@@ -6275,7 +6275,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 10991  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1739
 
-![](../books_images/U-IMG-1707905894Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707905894Screenshot(12"/>.png)
 
 एकचत्वारिंशः सर्गः ॥ ४१ ॥
 
@@ -6442,7 +6442,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11043  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1791
 
-![](../books_images/U-IMG-1707985015Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707985015Screenshot(12"/>.png)
 
 **द्विचत्वारिंशः सर्गः ॥ ४२ ॥**
 
@@ -6632,7 +6632,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11102  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1850
 
-![](../books_images/U-IMG-1707985340Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707985340Screenshot(12"/>.png)
 
 **त्रिचत्वारिंशः सर्गः ॥ ४३ ॥**
 
@@ -6842,7 +6842,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11167  
 किष्किन्धाकाण्डे आदितःश्लोकाः 1915
 
-![](../books_images/U-IMG-1707926502Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707926502Screenshot(12"/>.png)
 
 **चतुश्चत्वारिंशः सर्गः ॥ ४४॥**
 
@@ -6905,7 +6905,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 **आदितः श्लोकाः 11184  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1932**
 
-**![](../books_images/U-IMG-1707927172Screenshot(12).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707927172Screenshot(12"/>.png)**
 
 **पञ्चचत्वारिंशः सर्गः ॥ ४५ ॥**
 
@@ -6967,7 +6967,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11201  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1949
 
-![](../books_images/U-IMG-1707927667Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707927667Screenshot(12"/>.png)
 
 **षट्चत्वारिंशः सर्गः ॥ ४६॥**
 
@@ -7055,7 +7055,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11227  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1975
 
-![](../books_images/U-IMG-1707920145Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707920145Screenshot(12"/>.png)
 
 सप्तचत्वारिंशः सर्गः ॥ ४७ ॥
 
@@ -7113,7 +7113,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11242  
 किष्किन्धाकाण्डे आदितः श्लोकाः 1990
 
-![](../books_images/U-IMG-1707904941Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707904941Screenshot(12"/>.png)
 
 **अष्टचत्वारिंशः सर्गः ॥ ४८ ॥**
 
@@ -7200,7 +7200,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11267  
 किष्किन्धाकाण्डेश्लोकाः आदितः 2015
 
-![](../books_images/U-IMG-1707889878Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707889878Screenshot(12"/>.png)
 
 एकोनपञ्चाशः सर्गः ॥ ४९ ॥
 
@@ -7277,7 +7277,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 
 **आदितः श्लोकाः 11289  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2037**  
-![](../books_images/U-IMG-1707899678Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707899678Screenshot(12"/>.png)
 
 **पञ्चाशः सर्गः ॥५०॥**
 
@@ -7417,7 +7417,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 इति पुरा कुशलवाभ्यां श्रीरामसन्निधावश्वमेधयज्ञवाटे गीते  
 श्रीमद्रामायणे पञ्चदशेऽह्नि वर्तमानकथाप्रसङ्गः
 
-![](../books_images/U-IMG-1707974146Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707974146Screenshot(12"/>.png)
 
 \[पुरा कुशलवाभ्यां श्रीरामसन्निधौ अश्वमेधयशवाटे  
 षोडशेऽह्नि किष्किन्धाकाण्डे एकपञ्चाशसर्गमारभ्य  
@@ -7491,7 +7491,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11349  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2097
 
-![](../books_images/U-IMG-1707986536Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707986536Screenshot(12"/>.png)
 
 **द्विपञ्चाशः सर्गः ॥ ५२ ॥**
 
@@ -7691,7 +7691,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11409  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2157
 
-![](../books_images/U-IMG-1707988898Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707988898Screenshot(12"/>.png)
 
 **चतुःपञ्चाशः सर्गः ॥५४॥**
 
@@ -7769,7 +7769,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11431  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2179
 
-![](../books_images/U-IMG-1707988180Screenshot(12).png)  
+<MISSING_FIG href="../books_images/U-IMG-1707988180Screenshot(12"/>.png)  
 
 पञ्चपञ्चाशः सर्गः ॥ ५५ ॥
 
@@ -7852,7 +7852,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11455  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2203
 
-![](../books_images/U-IMG-1707928250Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707928250Screenshot(12"/>.png)
 
 **षट्पञ्चाशः सर्गः ॥५६॥**
 
@@ -7939,7 +7939,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11480  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2228
 
-![](../books_images/U-IMG-1707929379Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707929379Screenshot(12"/>.png)
 
 **सप्तपञ्चाशः सर्गः ॥ ५७ ॥**
 
@@ -8010,7 +8010,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 **आदितः श्लोकाः 11500  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2248**
 
-**![](../books_images/U-IMG-1707930340Screenshot(12).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707930340Screenshot(12"/>.png)**
 
 अष्ट्रपञ्चाशः सर्गः ॥ ५८ ॥
 
@@ -8133,7 +8133,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 **आदितः श्लोकाः 11537  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2285**
 
-**![](../books_images/U-IMG-1707969626Screenshot(12).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707969626Screenshot(12"/>.png)**
 
 **एकोनषष्टितमः सर्गः ॥ ५९ ॥**
 
@@ -8234,7 +8234,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11567  
 किष्किन्धाकाण्डे आदितःश्लोकाः2315
 
-![](../books_images/U-IMG-1707905384Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707905384Screenshot(12"/>.png)
 
 **षष्टितमः सर्गः ॥ ६० ॥**
 
@@ -8309,7 +8309,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 **आदितः श्लोकाः 11588  
 किष्किन्धाकाण्डे आदितः श्लोकाः2336**
 
-**![](../books_images/U-IMG-1707898426Screenshot(12).png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1707898426Screenshot(12"/>.png)**  
 
 एकषष्टितमः सर्गः ॥ ६१ ॥
 
@@ -8372,7 +8372,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11605  
 किष्किन्धाकाण्डे आदितःश्लोकाः 2353
 
-![](../books_images/U-IMG-17079004531.png)
+<MISSING_FIG href="../books_images/U-IMG-17079004531.png"/>
 
 **द्विषष्टितमः सर्गः ॥ ६२ ॥**
 
@@ -8431,7 +8431,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11621  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2369
 
-![](../books_images/U-IMG-1707902419Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707902419Screenshot(12"/>.png)
 
 **त्रिषष्टितमः सर्गः ॥ ६३ ॥**
 
@@ -8490,7 +8490,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 **आदितः श्लोकाः 11637  
 किष्किन्धाकाण्डे आदितःश्लोकाः2385**
 
-**![](../books_images/U-IMG-1707972382Screenshot(12).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1707972382Screenshot(12"/>.png)**
 
 **चतुःषष्टितमः सर्गः ॥ ६४ ॥**
 
@@ -8576,7 +8576,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11661  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2409
 
-![](../books_images/U-IMG-1707987976Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707987976Screenshot(12"/>.png)
 
 पञ्चषष्टितमः सर्गः ॥ ६५ ॥  
 
@@ -8693,7 +8693,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11697  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2445
 
-![](../books_images/U-IMG-1707975414Screenshot(12).png)  
+<MISSING_FIG href="../books_images/U-IMG-1707975414Screenshot(12"/>.png)  
 
 षट्षष्टितमः सर्गः ॥ ६६ ॥
 
@@ -8823,7 +8823,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 आदितः श्लोकाः 11737  
 किष्किन्धाकाण्डे आदितः श्लोकाः 2485
 
-![](../books_images/U-IMG-1707987554Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707987554Screenshot(12"/>.png)
 
 **सप्तषष्ठितमः सर्गः ॥ ६७॥**
 
@@ -9005,6 +9005,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2MzkxMTg5ODQ
 
 ॥ शुभं भूयात् ॥
 
-![](../books_images/U-IMG-1707971530Screenshot(12).png)
+<MISSING_FIG href="../books_images/U-IMG-1707971530Screenshot(12"/>.png)
 
 \]

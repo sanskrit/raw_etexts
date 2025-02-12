@@ -33,10 +33,10 @@ Seventeenth Century.
 
 and in**व्याकरण**under Brahmasri Srinivasa Seshacharya of Karavayal a village in Arantangi Taluq, Tanjore District. He secured a high degree of proficiency in Sanskrit Literature, Rhetoric and Grammar. In addition to his eminence as a Sanskrit Scholar, he was a fine musician and a finer poet and he had also an exquisite taste for drawing. As he was extremely pious and devoted, his skill in drawing was directed towards drawing pictures of various deities in different postures which were being hung in his pūjāgrha. He was also well known for his Harikathā performances especially for his fine voice, erudite exposition and sincere devotion. For this purpose, he composed many charitrams in Sanskrit adapted to music though I regret to state that very few of the manuscripts are now with me. He was held in high esteem by the late Sir A. Seshia Sastrial, Dewan of Pudukkotta. He entered the Raja's College Pudukkotta as assistant Sanskrit pandit on 19-1-1884 and retired as Head Sanskrit pandit on 16-2-1910.
 
- His other works are. (1) **वल्लीबाहुलेयम्** a Sanskrit drama in seven acts recently published by me. (2) **चतुष्पदीचतिश्शती—**a literal translation in verse of![](../books_images/U-IMG-1699352080Screenshot2023-11-07154429.png)
+ His other works are. (1) **वल्लीबाहुलेयम्** a Sanskrit drama in seven acts recently published by me. (2) **चतुष्पदीचतिश्शती—**a literal translation in verse of<MISSING_FIG href="../books_images/U-IMG-1699352080Screenshot2023-11-07154429.png"/>
 (3) **मन्मथमादनम्** a Bhana in one act published in a Journal some 30 years back. (4) Miscellaneous works such as (a) **पूर्वाधुनिकवृत्तपञ्चाशिका,** (b) **वृत्तनामसंग्रहः,** (c) **कारकाणि** and **लार्थाः** in verses, (d) charitrams adapted to music *viz*.,**रामावतार,सीताकल्याणम्, रुक्मिणीकल्याणम्, पार्वतीकल्याणम्, मारसोमयाजिचरित्रम्, विभूतिमाहात्म्यम् etc. (e) हल्लीसस्तुतयः such as रामचन्द्रपद्यपञ्चरत्नम् शुकसूक्ति-**
 
-**सुधारसायनम्, बृहदंबिकाविषयकहल्लीसाः ![](../books_images/U-IMG-1699358729Screenshot2023-11-07173511.png), हरतीर्थेश्वरस्तुतिदशकम्, रामायणहल्लीसाः, पार्वतीपरिणयहल्लांसाः डोलागीतानि** and others.
+**सुधारसायनम्, बृहदंबिकाविषयकहल्लीसाः <MISSING_FIG href="../books_images/U-IMG-1699358729Screenshot2023-11-07173511.png"/>, हरतीर्थेश्वरस्तुतिदशकम्, रामायणहल्लीसाः, पार्वतीपरिणयहल्लांसाः डोलागीतानि** and others.
 
 \[(e) in now in press.\]
 
@@ -52,7 +52,7 @@ Mylapore,
 *Accountant General's Office,  
 Madras.*
 
-![](../books_images/U-IMG-1699359001Screenshot2023-11-07173930.png)
+<MISSING_FIG href="../books_images/U-IMG-1699359001Screenshot2023-11-07173930.png"/>
 
 **ब्रह्मश्री—सुब्रह्मण्यशास्त्री**
 
@@ -62,7 +62,7 @@ Madras.*
 
 ॥आसेचनकरामायणम्॥  
 
-![](../books_images/U-IMG-1699360893Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1699360893Screenshot2023-06-15124029.png"/>
 
 ॥ अथ बालकाण्डः ॥
 
@@ -172,7 +172,7 @@ Madras.*
 व्यलसन् राजकुमारा मणयो विलसन्ति कनकमालाभिः ॥३५॥
 
 **॥इति बालकाण्डः॥  
-![](../books_images/U-IMG-1699362663Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1699362663Screenshot2023-06-15124029.png"/>**
 
 **॥अथ अयोध्याकाण्डः॥**
 
@@ -339,7 +339,7 @@ Madras.*
 मौनिभ्योऽदादभयं रघुकुलमनुकूलमभयकामानाम्॥५४॥
 
 **॥इत्ययोध्याकाण्डः॥  
-![](../books_images/U-IMG-1699370784Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1699370784Screenshot2023-06-15124029.png"/>**
 
 **॥अथ आरण्यकाण्डः॥**
 
@@ -651,7 +651,7 @@ Madras.*
 ववृधेऽर्णवं स तर्तुं न वृथा स्याच्छक्तिरस्ति यदि समये ॥३३॥
 
 ॥ इति किष्किन्धाकाण्डः॥  
-![](../books_images/U-IMG-1699422536Screenshot2023-06-15124029.png)
+<MISSING_FIG href="../books_images/U-IMG-1699422536Screenshot2023-06-15124029.png"/>
 
 **॥अथ सुन्दरकाण्डः॥**
 
@@ -789,7 +789,7 @@ Madras.*
 
 **॥ इति सुन्दरकाण्डः ॥**  
 
-**![](../books_images/U-IMG-1699430018Screenshot2023-06-15124029.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1699430018Screenshot2023-06-15124029.png"/>**  
 
 **॥अथ युद्धकाण्डः॥**
 
@@ -907,7 +907,7 @@ Madras.*
 रामोऽध्यवसदयोध्याम् आमोदः स्याच्चिरादपि नराणाम्॥३७॥
 
 **॥ इति युद्धकाण्डः ॥  
-![](../books_images/U-IMG-1699430880Screenshot2023-06-15124029.png)**
+<MISSING_FIG href="../books_images/U-IMG-1699430880Screenshot2023-06-15124029.png"/>**
 
 **॥अथ उत्तरकाण्डः॥**
 
@@ -1516,6 +1516,6 @@ Madras.*
 **संपूर्णम्**
 
 **॥ओं तत्सत् ॥  
-![](../books_images/U-IMG-1699523141Screenshot2023-11-09151525.png)**
+<MISSING_FIG href="../books_images/U-IMG-1699523141Screenshot2023-11-09151525.png"/>**
 
 \]

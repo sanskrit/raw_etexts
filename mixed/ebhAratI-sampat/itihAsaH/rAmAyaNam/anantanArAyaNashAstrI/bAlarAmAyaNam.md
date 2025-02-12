@@ -27,19 +27,19 @@ By
 **P. S. ANANTANARAYANA SASTRY,**  
 Vidyabhushana, Panditaraja etc.
 
-**![](../books_images/U-IMG-1699207289Screenshot2023-11-05233056.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699207289Screenshot2023-11-05233056.png"/>**
 
 Revised & Edited with Notes.  
 Grammatical Peculiarities & Glossary  
 By  
 **Vidwan L. ANANTARAMA SASTRY,**  
 Vyakarana Siromani.  
-**![](../books_images/U-IMG-1699207365Screenshot2023-11-05233217.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1699207365Screenshot2023-11-05233217.png"/>**  
 With a Foreword By  
 **SIR C. P. RAMASWAMY IYER,**  
                          K. C. S. I., K. C. I. E.
 
-**![](../books_images/U-IMG-1699207410Screenshot2023-11-05233305.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699207410Screenshot2023-11-05233305.png"/>**
 
 PUBLISHED BY  
 **R. S. VADHYAR & SONS,**  
@@ -47,13 +47,13 @@ BOOK-SELLERS & PUBLISHERS.
 **KALPATHI-PALGHAT**  
 **S. I N D I A.**
 
-**![](../books_images/U-IMG-1699207410Screenshot2023-11-05233305.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699207410Screenshot2023-11-05233305.png"/>**
 
 **1949**
 
 All Rights Reserved By the Publishers.
 
-![](../books_images/U-IMG-1699206936Screenshot2023-11-05232510.png)
+<MISSING_FIG href="../books_images/U-IMG-1699206936Screenshot2023-11-05232510.png"/>
 
 Enlarged Second Edition,
 
@@ -71,7 +71,7 @@ By
 
 K. C. S. I., K. C. I. E.
 
-**![](../books_images/U-IMG-1699207747Screenshot2023-11-04155227.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699207747Screenshot2023-11-04155227.png"/>**
 
  Messrs R. S. Vadhyar and Sons have been rendering significant service to the Indian reading public in several directions. They have issued a series of Illustrated SANSKRIT READERS with easy conversational exercises in order to enable beginners to handle the Sanskrit language with ease and correctness.
 
@@ -99,7 +99,7 @@ OOTACAMUND,   }  **C. P. Ramaswamy Iyer.**
 
 **॥ बालरामायणम् ॥**
 
-**![](../books_images/U-IMG-1701419106Screenshot2023-12-01135435.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1701419106Screenshot2023-12-01135435.png"/>**
 
 **बालकाण्डः ।**
 
@@ -179,11 +179,11 @@ Accusative of duration.
 
 **॥ बालकाण्डः समाप्तः ॥**
 
-![](../books_images/U-IMG-170063481778.png)
+<MISSING_FIG href="../books_images/U-IMG-170063481778.png"/>
 
 **अयोध्याकाण्डः।**
 
-**![](../books_images/U-IMG-170063490879.png)**
+**<MISSING_FIG href="../books_images/U-IMG-170063490879.png"/>**
 
 **अयोध्याख्ये तु गुर्वर्थे त्यक्त्वा राज्यं गिरौ वसन्।  
 पादुके भरतायादात् स रामः शरणं मम॥**
@@ -322,7 +322,9 @@ Accusative of duration.
 
 यात्, हिमवान् वा हिमं त्यजेत्, सागरो वेलामप्यतीयात्, न पुनरहं पितुः सन्निधौ कृतां प्रतिज्ञां त्यजेयम्' इति रामो दृढमा- चख्यौ। तदा वसिष्ठः प्रजानां योगक्षेमकाङ्क्ष्या कमप्युपायं निर्ममौ। भरत, भ्रातुः पादुके गृहीत्वा तदनुमतो राज्यं पालय' इति स भरतमुपदिदेश। रामं च 'पादुके भरताय प्रयच्छ' इति प्रार्थयामास॥
 
- सत्यसन्धेन राघवेण वितीर्णे पादुके शिरसा गृहीत्वा['नगराद्बहिः](॑# "बहिःgoverns a noun in the Ablative case (पञ्चमी)")कृतवसतिरनयोरर्पितराज्यतन्त्रः चतुर्दश वत्सरान् मुनिवृत्तिरार्यागमनं प्रतीक्षिप्ये, अतीते चतुर्दशे वत्सरे यद्यार्यंन द्रक्ष्यामि तर्हि हुतवहं प्रवेक्ष्यामि' इति सर्वेषां समक्षं प्रतिज्ञां च कृत्वा सर्वैरनुगतैः सह भरतः साकेतं प्रतिनिववृते। तातेन रामेण च विरहितं साकेतं स्वयं प्रवेष्टुमनिच्छन् मुनीनां संमतं नन्दिग्रामं सानुजः प्रपद्य सिंहासनोपरि रामपादुके विन्यस्य पूजयन् जटावल्कलधरो राज्यं परिपालयन्नवर्तत॥
+ सत्यसन्धेन राघवेण वितीर्णे पादुके शिरसा गृहीत्वा'नगराद्बहिः[^35]")कृतवसतिरनयोरर्पितराज्यतन्त्रः चतुर्दश वत्सरान् मुनिवृत्तिरार्यागमनं प्रतीक्षिप्ये, अतीते चतुर्दशे वत्सरे यद्यार्यंन द्रक्ष्यामि तर्हि हुतवहं प्रवेक्ष्यामि' इति सर्वेषां समक्षं प्रतिज्ञां च कृत्वा सर्वैरनुगतैः सह भरतः साकेतं प्रतिनिववृते। तातेन रामेण च विरहितं साकेतं स्वयं प्रवेष्टुमनिच्छन् मुनीनां संमतं नन्दिग्रामं सानुजः प्रपद्य सिंहासनोपरि रामपादुके विन्यस्य पूजयन् जटावल्कलधरो राज्यं परिपालयन्नवर्तत॥
+
+[^35]: ॑# "बहिःgoverns a noun in the Ablative case (पञ्चमी
 
  रामोऽपि भरतस्य जननीनां पौराणां च परिचिते बहुशो भुक्तविभवे चित्रकूटे निवासं नातिहृद्यमाकयलन् सह सीतालक्ष्मणाभ्यां वनान्तरं प्रवेष्टुमाचकाङ्क्ष। ततश्चित्रकूटात् प्रस्थाय महर्षेरत्रेराश्रमं प्राप्य तेन सभाजितस्तां शर्वरीं तत्रातिवाह्य तद्दर्शितेनाध्वना दण्डकारण्यं प्रविवेश॥
 
@@ -333,7 +335,7 @@ Accusative of duration.
 
 **आरण्यकाण्डः**
 
-**![](../books_images/U-IMG-1699059476Screenshot2023-11-04062511.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699059476Screenshot2023-11-04062511.png"/>**
 
 **विराधादिकबन्धान्तान् हत्वा स्वपदमादिशत्।  
 विचरन् दण्डकारण्ये भवारण्ये स मे गतिः॥**
@@ -459,11 +461,11 @@ Accusative of duration.
 
 **॥ अरण्यकाण्डः समाप्तः ॥**
 
-![](../books_images/U-IMG-170068234080.png)
+<MISSING_FIG href="../books_images/U-IMG-170068234080.png"/>
 
 **किष्किन्धाकाण्डः॥**
 
-**![](../books_images/U-IMG-1699093474Screenshot2023-11-04155227.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699093474Screenshot2023-11-04155227.png"/>**
 
 **सुग्रीवस्यावनं तुर्येइन्द्रसूनोश्च मर्दनम्।  
 मारुतेर्मुद्रिकादानं कृतं येन स मे गतिः॥**
@@ -530,10 +532,10 @@ Accusative of duration.
 वालिप्रमथनायास्तु महाधीराय मङ्गलम्॥**
 
 **॥किष्किन्धाकाण्डः समाप्तः॥**  
-![](../books_images/U-IMG-1699095285Screenshot2023-11-04162302.png)
+<MISSING_FIG href="../books_images/U-IMG-1699095285Screenshot2023-11-04162302.png"/>
 
 **सुन्दरकाण्डः॥**  
-![](../books_images/U-IMG-1699095335Screenshot2023-11-04162509.png)
+<MISSING_FIG href="../books_images/U-IMG-1699095335Screenshot2023-11-04162509.png"/>
 
 **सुन्दरे यस्य दासोऽब्धिं तीर्त्वा दृष्ट्वाच मैथिलीम्।  
 दृष्टा सीतेत्यभ्यवोचत् तं रामं नौमि चिद्धनम्॥**
@@ -632,10 +634,10 @@ Accusative of duration.
 हनूमता समाश्वस्तां भूमिधां शरणं भजे॥**
 
 **॥ सुन्दरकाण्डः समाप्तः ॥**  
-**![](../books_images/U-IMG-1699097990Screenshot2023-11-04162406.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699097990Screenshot2023-11-04162406.png"/>**
 
 **युद्धकाण्डः॥**  
-**![](../books_images/U-IMG-1699098040Screenshot2023-11-04162249.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699098040Screenshot2023-11-04162249.png"/>**
 
 **युद्धे रक्षोगणान् हत्वा पुष्पकेण निजां पुरीम्।  
 सीतया सह चागत्य रेजे रामोऽभिषेचितः॥**
@@ -800,7 +802,7 @@ Accusative of duration.
 
 **बालकाण्डः ॥**
 
-**![](../books_images/U-IMG-170075914178.png)**
+**<MISSING_FIG href="../books_images/U-IMG-170075914178.png"/>**
 
 **Page 1.**
 
@@ -926,7 +928,7 @@ Page 8.
 ** समेयिवान् – सम् + आ + ईयिवान्।**It** **is** **to** **be** **de** **lined** **like** विद्वस्।  
  नन्दिताः अखिलाः लोकाः येन सः नन्दिताखिललोकः। तस्मै नन्दिताखिललोकाय**
 
-**![](../books_images/U-IMG-1699181251Screenshot2023-11-05161651.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699181251Screenshot2023-11-05161651.png"/>**
 
 **अयोध्याकाण्डः ॥**
 
@@ -1102,7 +1104,7 @@ Page 23.
  अन्यत् वनं वनान्तरम्।  
  यमः (इन्द्रियनिग्रहः।) एषाम् अस्ति इति यमिनः — सर्वे यमिनः सर्वयमिन, तेषाम्॥
 
-![](../books_images/U-IMG-1699183411Screenshot2023-11-05161651.png)
+<MISSING_FIG href="../books_images/U-IMG-1699183411Screenshot2023-11-05161651.png"/>
 
 **आरण्यकाण्डः ॥**
 
@@ -1210,7 +1212,7 @@ Page 37.
  अमराणां शत्रवः अमरशत्रवः, खण्डिताः अमरशत्रवः येन सः, तस्मै।  
  मुक्तिंददाति इति मुक्तिदः तस्मै।
 
-![](../books_images/U-IMG-1699185303Screenshot2023-11-05172434.png)
+<MISSING_FIG href="../books_images/U-IMG-1699185303Screenshot2023-11-05172434.png"/>
 
 **किष्किन्धाकाण्डः ॥**
 
@@ -1261,7 +1263,7 @@ Page 44.
  तत्कर्मानहम्। तस्य समुद्रलनकर्मणः अनर्हम् अनुचितम् इत्यर्थः।  
 हरीशः सुग्रीवः तस्य अभीष्टं वालिवधेन स्वभार्यया सह किष्किन्धाराज्यप्राप्तिः तत् अभीष्टं ददाति इति हरीशाभीष्टदायी, तस्मै॥
 
-![](../books_images/U-IMG-170080837078.png)
+<MISSING_FIG href="../books_images/U-IMG-170080837078.png"/>
 
 **सुन्दरकाण्डः ॥**
 
@@ -1451,15 +1453,16 @@ Page 69.
  सेतुना उल्लङ्गितः सिन्धुः येन सः, तस्मै सेतूल्लङ्गितसिन्धवे।  
  धनं लब्धा धन्यः। रघुपतेः भवः यस्मिन् सः रघुपतिभवः। कविषु वरः (श्रेष्ठः) वाल्मीकिः एतद्ग्रन्थकर्ता च तस्य मुखं कविवरमुखम्। रामस्य वृत्त्ं चरितं रामायणम्॥
 
-![](../books_images/U-IMG-1699193692Screenshot2023-11-05194423.png)
+                       
+<MISSING_FIG href="../books_images/U-IMG-1699193692Screenshot2023-11-05194423.png"/>
 
 **शब्दार्थकोशः — GLOSSARY**
 
-![](../books_images/U-IMG-1699194137Screenshot2023-11-05195151.png)
+<MISSING_FIG href="../books_images/U-IMG-1699194137Screenshot2023-11-05195151.png"/>
 
 (This follows the text order.)
 
-![](../books_images/U-IMG-1699194026Screenshot2023-11-05194948.png)
+<MISSING_FIG href="../books_images/U-IMG-1699194026Screenshot2023-11-05194948.png"/>
 
 ABBREVIATIONS USED
 
@@ -1471,7 +1474,7 @@ ABBREVIATIONS USED
 | f Feminine (स्त्रीलिङ्गम्)               | adv. Adverb (क्रियाविशेषणम्) |
 | n Neuter (नपुंसकलिङ्गम)                  | ind. Indeclinable            |
 
-![](../books_images/U-IMG-170080953378.png)
+<MISSING_FIG href="../books_images/U-IMG-170080953378.png"/>
 
 |                                       |                                   |
 |:-------------------------------------:|-----------------------------------|
@@ -1666,7 +1669,6 @@ ABBREVIATIONS USED
 | उद्घाटयामास V. Tr. Exposed, Disclosed | उररीचकार V. T.Accepted.            |
 | अजय्य a Invincible                    |                                   |
 
-![](../books_images/U-IMG-1699274628Screenshot2023-11-06181310.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699274628Screenshot2023-11-06181310.png"/>  
 
 \]
-

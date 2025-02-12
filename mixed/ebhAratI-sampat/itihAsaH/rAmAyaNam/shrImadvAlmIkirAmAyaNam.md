@@ -22,7 +22,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE0NzAxMjc4NjU
 
 **बालकाण्डम्**
 
-**![](../books_images/U-IMG-1700128920Screenshot2023-11-06232243.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1700128920Screenshot2023-11-06232243.png"/>**  
 
 **धर्मालय संस्करणम्।**
 
@@ -32,25 +32,25 @@ Edited by
 The Late Rao Sahib P. S. KRISHNASWAMI  
 Dharmalaya, Mylapore
 
-**![](../books_images/U-IMG-1700128843Screenshot2023-11-07134409.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1700128843Screenshot2023-11-07134409.png"/>**
 
 Published with the aid of  
 Sri. M. N. RAMASWAMI IYER  
 Banker, Palghat.
 
-**![](../books_images/U-IMG-1700128843Screenshot2023-11-07134409.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1700128843Screenshot2023-11-07134409.png"/>**  
 
 By  
 **R. Subrahmanya Vadhyar & Sons,  
 BOOK-SELLERS & PUBLISHERS,  
 KALPATHI-PALGHAT**
 
-![](../books_images/U-IMG-1700128892Screenshot2023-11-07133925.png)  
+<MISSING_FIG href="../books_images/U-IMG-1700128892Screenshot2023-11-07133925.png"/>  
 Library Edition.\]       1940         \[Price Rs. 1–8–0
 
 PUBLISHERS' NOTE  
 
-**![](../books_images/U-IMG-1699344884Screenshot2023-11-07134409.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699344884Screenshot2023-11-07134409.png"/>**
 
 We have great pleasure in presenting to the public this attractive new edition of the text of the Ramayana (Southern recension) according to the Manuscripts prepared by the late Rao Sahib P. S. Krishnaswami Iyer of Dharmalaya, Mylapore.
 
@@ -64,7 +64,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 
  We therefore hope that this edition will receive due appreciation and an encouraging welcome from the discerning public.
 
-![](../books_images/U-IMG-1699345307Screenshot2023-11-07135120.png)
+<MISSING_FIG href="../books_images/U-IMG-1699345307Screenshot2023-11-07135120.png"/>
 
 |                             |                                 |                 |
 |:---------------------------:|:-------------------------------:|:---------------:|
@@ -122,7 +122,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 [TABLE]
 
-![](../books_images/U-IMG-170360632913.png)
+<MISSING_FIG href="../books_images/U-IMG-170360632913.png"/>
 
 ॥ ऊँ ॥  
 ॥ अथ स्मार्तानां श्रीरामायणपठनोपक्रमेऽनुसन्धेयाः श्लोकाः ॥
@@ -197,7 +197,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 नमोऽस्तु रामाय सलक्ष्मणाय देव्यै च तस्यै जनकात्मजायै ॥  
 नमोऽस्तु रुद्रेन्द्रयमानिलेभ्यो नमोऽस्तु चन्द्रार्कमरुद्गणेभ्यः ॥
 
-![](../books_images/U-IMG-170360665414.png)  
+<MISSING_FIG href="../books_images/U-IMG-170360665414.png"/>  
 
 ॥ पारायणसमापनसमये अनुसन्धेयश्लोकक्रमः ॥
 
@@ -234,7 +234,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 करोमि यद्यत्सकलं परस्मै  
 नारायणायेति समर्पयामि॥१२॥**
 
-**![](../books_images/U-IMG-1699293194Screenshot2023-11-06232243.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1699293194Screenshot2023-11-06232243.png"/>**
 
 **॥ श्रीवैष्णवानां श्रीरामायणपठनोपक्रमेनुसन्धेयाः श्लोकाः ॥**
 
@@ -277,7 +277,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 अग्रे वाचयति प्रभञ्जनसुते तत्त्वं मुनिभ्यः परं  
 व्याख्यान्तं भरतादिभिः परिवृतं रामं भजे श्यामलम्॥
 
-![](../books_images/U-IMG-1699293874Screenshot2023-11-06232243.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699293874Screenshot2023-11-06232243.png"/>  
 
 ॥ पारायणसमापनक्रमः ॥
 
@@ -334,7 +334,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 मङ्गलाशासनपरैर्मदाचार्यपुरोगमैः ।  
 सर्वैश्चपूर्वैराचार्यैः सत्कृतायास्तु मङ्गलम्॥१७॥
 
-![](../books_images/U-IMG-1699348793Screenshot2023-11-06232243.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699348793Screenshot2023-11-06232243.png"/>  
 
 ॥ अथ माध्यानां रामायणपठनोपक्रमेऽनुसन्धेयाः श्लोकाः ॥
 
@@ -436,12 +436,14 @@ We have great pleasure in presenting to the public this attractive new edition o
 हयग्रीव हयग्रीव हयग्रीवेति यो वदेत् ।  
 तस्य निःसरते वाणी जह्रुकन्याप्रवाहवत्॥३०॥
 
-![](../books_images/U-IMG-1699362044Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699362044Screenshot2023-11-06232243.png"/>
 
 स्वस्ति प्रजाभ्यः परिपालयन्तां  
+  
 
 न्याय्येन मार्गेण महीं महीशाः ।  
 गोब्राह्मणेभ्यःशुभमस्तु नित्यं  
+  
 
 लोकाः समस्ताः सुखिनो भवन्तु॥१॥
 
@@ -456,7 +458,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 इत्यादिश्लोकाः श्रीवैष्णवपद्धतिवदनुसन्धेयाः॥  
 
-![](../books_images/U-IMG-1699294268Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699294268Screenshot2023-11-06232243.png"/>
 
 ॥ श्रीगुरुभ्यो नमः ॥
 
@@ -467,7 +469,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 बालकाण्डम्
 
-![](../books_images/U-IMG-1699362972Screenshot2023-11-07184544.png)
+<MISSING_FIG href="../books_images/U-IMG-1699362972Screenshot2023-11-07184544.png"/>
 
 \[पुरा कुशलवाभ्यां श्रीरामसन्निधावश्वमेधयज्ञवाटे  
 द्वात्रिंशति दिनेषु गीते श्रीमद्रामायणे प्रथमेऽह्नि बालकाण्डे  
@@ -781,7 +783,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे प्रथमः सर्गः ॥  
 आदितः श्लोकाः100
 
-![](../books_images/U-IMG-1699370027Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699370027Screenshot2023-11-06232243.png"/>
 
 **द्वितीयः सर्गः॥२॥  
 ब्रह्मागमनम्॥**
@@ -924,7 +926,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे द्वितीयः सर्गः ॥  
 आदितः श्लोकाः 144
 
-![](../books_images/U-IMG-1699372436Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699372436Screenshot2023-11-06232243.png"/>
 
 **तृतीयः सर्गः॥३॥  
 रामचरित्रापरोक्षीकरणम्॥**
@@ -1052,7 +1054,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे तृतीयः सर्गः ॥  
 आदितः श्लोकाः 174
 
-![](../books_images/U-IMG-1699381397Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699381397Screenshot2023-11-06232243.png"/>
 
 चतुर्थः सर्गः ॥४॥
 
@@ -1172,7 +1174,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे चतुर्थः सर्गः ॥  
 आदितः श्लोकाः 220
 
-![](../books_images/U-IMG-1699383229Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699383229Screenshot2023-11-06232243.png"/>
 
 पञ्चमः सर्गः ॥५॥
 
@@ -1254,7 +1256,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे पञ्चमः सर्गः ॥  
 आदितः लोकाः 244.  
 
-![](../books_images/U-IMG-1699383952Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699383952Screenshot2023-11-06232243.png"/>
 
 अयोध्या नाम नगरी तत्रासील्लोकविश्रुता ।  
 मनुना मानवेन्द्रेण या पुरी निर्मिता स्वयम्॥६॥
@@ -1308,7 +1310,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे पञ्चमः सर्गः ॥  
 आदितः लोकाः 244.  
-![](../books_images/U-IMG-1700717997Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1700717997Screenshot2023-11-06232243.png"/>
 
 षष्ठः सर्गः॥६॥  
 दशरथस्य राज्यपरिपालनम्॥
@@ -1402,7 +1404,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे षष्ठः सर्गः ॥  
 आदितः श्लोकाः272.  
 
-![](../books_images/U-IMG-1699385569Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699385569Screenshot2023-11-06232243.png"/>
 
 सप्तमः सर्गः॥७॥  
 मन्त्रिवर्णनम्॥
@@ -1479,7 +1481,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे सप्तमः सर्गः ॥  
 आदितः श्लोकाः 295.
 
-![](../books_images/U-IMG-1699386409Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699386409Screenshot2023-11-06232243.png"/>
 
 अष्टमः सर्गः ॥८॥  
 अश्वमेधयज्ञनिर्धारणम् ॥
@@ -1562,7 +1564,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे अष्टमः सर्गः ॥  
 आदितः श्लोकाः 319  
-![](../books_images/U-IMG-170369752514.png)  
+<MISSING_FIG href="../books_images/U-IMG-170369752514.png"/>  
 
 नवमः सर्गः ॥९॥  
 सुमन्त्रेण सनत्कुमारोक्तकथनम् ॥
@@ -1629,7 +1631,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे नवमः सर्गः ॥  
 आदितः श्लोकाः 338
 
-![](../books_images/U-IMG-1699422285Screenshot2023-11-06232243.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699422285Screenshot2023-11-06232243.png"/>  
 
 दशमः सर्गः ॥१०॥  
 ऋश्यश्रृङ्गानयनकथनम् ॥
@@ -2811,7 +2813,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे एकोनविंशः सर्गः ॥  
 आदितः श्लोकाः 705  
-![](../books_images/U-IMG-170365060914.png)
+<MISSING_FIG href="../books_images/U-IMG-170365060914.png"/>
 
 विंशः सर्गः ॥२०॥  
 दशरथस्य प्रत्याख्यानम् ॥
@@ -2983,7 +2985,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 इत्यार्षे श्रीमद्रामायणे प्रथमेऽह्नि वर्तमानकथाप्रसङ्गः ॥
 
-![](../books_images/U-IMG-1699630533Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699630533Screenshot2023-11-06232243.png"/>
 
 \[पुरा कुशलवाभ्यां श्रीरामसन्निधावश्वमेधयज्ञवाटे  
 द्वात्रिंशति दिनेषु गीते श्रीमद्रामायणे द्वितीयेऽह्नि  
@@ -3627,7 +3629,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे अष्टाविंशः सर्गः ॥  
 आदितःश्लोकाः949
 
-![](../books_images/U-IMG-1699684824Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699684824Screenshot2023-11-06232243.png"/>
 
 एकोनत्रिंशः सर्गः ॥२९॥  
 सिद्धाश्रमगमनम् ॥
@@ -3799,7 +3801,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे एकोनत्रिंशः सर्गः ॥  
 आदितः श्लोकाः 1103  
 
-![](../books_images/U-IMG-1699692572Screenshot2023-11-06232243.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699692572Screenshot2023-11-06232243.png"/>  
 
 त्रिंशः सर्गः ॥३०॥  
 यज्ञसंभरणम् ॥
@@ -3969,7 +3971,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे एकत्रिंशः सर्गः ॥  
 आदितः श्लोकाः 1053.
 
-![](../books_images/U-IMG-1699695864Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699695864Screenshot2023-11-06232243.png"/>
 
 द्वात्रिंशः सर्गः ॥३२॥  
 कौशिकवंशवर्णनम्॥
@@ -4388,7 +4390,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे षट्त्रिंशः सर्गः ॥  
 आदितः श्लोकाः 1180  
-![](../books_images/U-IMG-170377432714.png)
+<MISSING_FIG href="../books_images/U-IMG-170377432714.png"/>
 
 सप्तत्रिंशः सर्गः॥३७॥  
 स्कन्दोत्पत्तिः॥
@@ -4499,7 +4501,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे सप्तत्रिंशः सर्गः ॥  
 आदितः श्लोकाः 1214  
-![](../books_images/U-IMG-170377501914.png)
+<MISSING_FIG href="../books_images/U-IMG-170377501914.png"/>
 
 अष्टत्रिंशः सर्गः ॥३८॥  
 सगराश्वमेधोपक्रमः ॥
@@ -4581,7 +4583,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे अष्टत्रिंशः सर्गः ॥  
 आदितः श्लोकाः 1238
 
-![](../books_images/U-IMG-1699709892Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699709892Screenshot2023-11-06232243.png"/>
 
 एकोनचत्वारिंशः सर्गः ॥३९॥  
 सगरपुत्रैर्यज्ञियाश्वान्वेषणम् ॥
@@ -4676,7 +4678,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे एकोनचत्वारिंशः सर्गः ॥  
 आदितः श्लोकाः 1267.  
-![](../books_images/U-IMG-170377556714.png)
+<MISSING_FIG href="../books_images/U-IMG-170377556714.png"/>
 
 चत्वारिंशः सर्गः ॥४०॥  
 सगरपुत्राणां भस्मीभावः ॥
@@ -4948,7 +4950,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे द्विचत्वारिंशः सर्गः ॥  
 आदितः श्लोकाः 1350
 
-![](../books_images/U-IMG-1699714654Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699714654Screenshot2023-11-06232243.png"/>
 
 त्रिचत्वारिंशः सर्गः ॥४३॥  
 गङ्गावतरणम् ॥
@@ -5697,7 +5699,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे एकोनपञ्चाशः सर्गः ॥  
 आदितः श्लोकाः 1578.
 
-![](../books_images/U-IMG-1699769652Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699769652Screenshot2023-11-06232243.png"/>
 
 पञ्चाशः सर्गः ॥५०॥  
 मिथिलागमनम् ॥
@@ -5959,7 +5961,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे द्विपञ्चाशः सर्गः ॥  
 आदितः श्लोकाः1657.
 
-![](../books_images/U-IMG-1699772153Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699772153Screenshot2023-11-06232243.png"/>
 
 त्रिपञ्चाशः सर्गः ॥५३॥  
 शबलादानप्रार्धना ॥
@@ -6374,7 +6376,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे सप्तपञ्चाशः सर्गः ॥  
 आदितः श्लोकाः 1780
 
-![](../books_images/U-IMG-1699798775Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699798775Screenshot2023-11-06232243.png"/>
 
 अष्टपञ्चाशः सर्गः ॥५८॥  
 स्त्रिशङ्कशापः।
@@ -6455,7 +6457,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे अष्टपञ्चाशः सर्गः ॥  
 आदितः श्लोकाः 1804  
-![](../books_images/U-IMG-170386282514.png)
+<MISSING_FIG href="../books_images/U-IMG-170386282514.png"/>
 
 एकोनषष्टितमः सर्गः ॥६९॥  
 वसिष्ठपुत्रशापः ॥
@@ -6721,7 +6723,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 आदितः श्लोकाः 1884
 
-![](../books_images/U-IMG-1699812262Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699812262Screenshot2023-11-06232243.png"/>
 
 द्विषष्टितमः सर्गः ॥६२॥  
 अम्बरीषयागः ॥
@@ -6814,7 +6816,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे द्विषष्टितमः सर्गः ॥  
 आदितः श्लोकाः 1912
 
-![](../books_images/U-IMG-1699773504Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699773504Screenshot2023-11-06232243.png"/>
 
 त्रिषष्टितमः सर्गः ॥६३॥  
 मेनकासमागमः ॥
@@ -6900,7 +6902,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे त्रिषष्टितमः सर्गः ॥  
 आदितः श्लोकाः 1938.  
-![](../books_images/U-IMG-1699775157Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699775157Screenshot2023-11-06232243.png"/>
 
 चतुःषष्टितमः सर्गः ॥६४॥  
 रंभाशापः ॥
@@ -7098,7 +7100,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 आदितः श्लोकाः 1997
 
 इत्यार्षे श्रीमद्रामायणे त्रितीयेऽह्नि वर्तमानकथाप्रसङ्गः ॥  
-![](../books_images/U-IMG-170387125514.png)
+<MISSING_FIG href="../books_images/U-IMG-170387125514.png"/>
 
 \[पुरा कुशलवाभ्यां श्रीरामसन्निधावश्वमेधयज्ञवाटे द्वाविंशति दिनेषु गीते श्रीमद्रामायणे चतुर्थेऽह्नि बालकाण्डे षट्षष्टितमसर्गमारभ्य यावत्काण्डसमाप्ति अयोध्याकाण्डे प्रथमसर्गमारभ्य नवमसर्गपर्यन्तं च (1998 – 2751 श्लोकाः) गीतम्।तस्मिन् दिने गीताः श्लोकाः 751\]
 
@@ -7275,7 +7277,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये  
 बालकाण्डे सप्तषष्टितमः सर्गः ॥  
 आदितः श्लोकाः2050.  
-![](../books_images/U-IMG-1699803676Screenshot2023-11-06232243.png)  
+<MISSING_FIG href="../books_images/U-IMG-1699803676Screenshot2023-11-06232243.png"/>  
 अष्टषष्टितमः सर्गः ॥६८॥  
 दशरथस्य मिथिलाप्रस्थानम्॥
 
@@ -7567,7 +7569,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे सप्ततितमः सर्गः ॥  
 आदितः श्लोकाः 2137
 
-![](../books_images/U-IMG-1699814584Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699814584Screenshot2023-11-06232243.png"/>
 
 एकसप्ततितमः सर्गः ॥७१॥  
 कन्याप्रदानप्रतिज्ञा ॥
@@ -7650,7 +7652,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे एकसप्ततितमः सर्गः ॥  
 आदितः श्लोकाः2161.
 
-![](../books_images/U-IMG-1700122947Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1700122947Screenshot2023-11-06232243.png"/>
 
 द्विसप्ततितमः सर्गः ॥७२॥  
 गोदानमङ्गलकरणम्॥
@@ -7733,7 +7735,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे द्विसप्ततितमः सर्गः ॥  
 आदितः श्लोकाः2186
 
-![](../books_images/U-IMG-1699858806Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699858806Screenshot2023-11-06232243.png"/>
 
 त्रिसप्ततितमः सर्गः ॥७३॥  
 सीताविवाहः ॥
@@ -7882,7 +7884,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे त्रिसप्ततितमः सर्गः ॥  
 आदितः श्लोकाः 2231
 
-![](../books_images/U-IMG-1699860789Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699860789Screenshot2023-11-06232243.png"/>
 
 चतुःसप्ततितमः सर्गः ॥७४॥  
 परशुरामसमागमः ॥
@@ -7972,7 +7974,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे चतुस्सप्ततितमः सर्गः ॥  
 आदितः श्लोकाः2258
 
-![](../books_images/U-IMG-1699891848Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699891848Screenshot2023-11-06232243.png"/>
 
 पञ्चसप्ततितमः सर्गः ॥७५॥  
 वैष्णवधनुरारोपणचोदना ॥
@@ -8078,7 +8080,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे पञ्चसप्ततितमः सर्गः ॥  
 आदितः श्लोकाः2291.
 
-![](../books_images/U-IMG-1699897982Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699897982Screenshot2023-11-06232243.png"/>
 
 षट्सप्ततितमः सर्गः ॥७६॥  
 जामदग्न्यपराजयः ॥
@@ -8165,7 +8167,7 @@ We have great pleasure in presenting to the public this attractive new edition o
 बालकाण्डे षट्सप्ततितमः सर्गः ॥  
 आदितः श्लोकाः 2317
 
-![](../books_images/U-IMG-1699863626Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699863626Screenshot2023-11-06232243.png"/>
 
 सप्तसप्ततितमः सर्गः ॥७७॥  
 अयोध्याप्रवेशः ॥
@@ -8296,6 +8298,6 @@ We have great pleasure in presenting to the public this attractive new edition o
 
 गच्छता मातुलकुलं भरतेन तदाऽनघः ।  
 शत्रुघ्नो नित्यशत्रुघ्नो नीतः प्रीतिपुरस्कृतः ॥  
-![](../books_images/U-IMG-1699861613Screenshot2023-11-06232243.png)
+<MISSING_FIG href="../books_images/U-IMG-1699861613Screenshot2023-11-06232243.png"/>
 
 \]

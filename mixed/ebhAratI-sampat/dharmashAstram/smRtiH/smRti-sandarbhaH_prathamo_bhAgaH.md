@@ -292,7 +292,7 @@ LADURAM TRIVEDI,
 
 किञ्चित्प्रास्ताविकम्।
 
-![](../books_images/U-IMG-1728583258Screenshot2024-10-10232944.png)
+<MISSING_FIG href="../books_images/U-IMG-1728583258Screenshot2024-10-10232944.png"/>
 
  विदाङ्कुर्वन्त्वत्रभवन्तो भवन्तः परोवर्यसृतिसभाचरन्तः सन्तो यद्विद्याप्रवर्त्तकानां व्यवहारनिष्णातानां तत्रभवतांप्रभवतां मन्वादिस्मृत्याविष्कृतानां तद्गतधार्मिकजीवनोपयोगिव्यवहाराणाञ्चअनवच्छिन्ननिरावरणकर्तॄणां धीराणां विदुषाञ्चाम्नाय सृतिचञ्चरितपदचरणानां स्वारप्स्म स्मृतिसन्दर्भोऽयं विभ्राजते।
 
@@ -594,7 +594,7 @@ LADURAM TRIVEDI,
 श्री महेश्वरमिश्रशर्मणः  
 
 **\[ मैथिलस्य \]  
-![](../books_images/U-IMG-1725158264DHARMASASTRA_1-removebg-preview.png)**  
+<MISSING_FIG href="../books_images/U-IMG-1725158264DHARMASASTRA_1-removebg-preview.png"/>**  
 
 ॥श्री॥
 
@@ -3291,7 +3291,7 @@ LADURAM TRIVEDI,
 
 इति मानवे धर्मशास्त्रे भृगुप्रोक्तायांमनुस्मृतौतृतीयोऽध्यायः।
 
-![](../books_images/U-IMG-17251845241ेू.PNG)
+<MISSING_FIG href="../books_images/U-IMG-17251845241ेू.PNG"/>
 
 चतुर्थोऽध्यायः।
 
@@ -4562,7 +4562,7 @@ LADURAM TRIVEDI,
 
 पञ्चमोऽध्यायः॥
 
-![](../books_images/U-IMG-17256217846.PNG)
+<MISSING_FIG href="../books_images/U-IMG-17256217846.PNG"/>
 
 षष्ठोऽध्यायः।
 
@@ -4861,7 +4861,7 @@ LADURAM TRIVEDI,
 
 **इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां मनुस्मृत्यां पष्ठोऽध्यायः।**
 
-**![](../books_images/U-IMG-1728840061Screenshot(84).png)**
+**<MISSING_FIG href="../books_images/U-IMG-1728840061Screenshot(84"/>.png)**
 
 सप्तमोऽध्यायः।
 
@@ -6625,7 +6625,7 @@ LADURAM TRIVEDI,
 
 **अष्टमोऽध्यायः॥८**
 
-![](../books_images/U-IMG-1725119070जद.PNG)
+<MISSING_FIG href="../books_images/U-IMG-1725119070जद.PNG"/>
 
 **नवमोऽध्यायः।**
 
@@ -7610,7 +7610,7 @@ LADURAM TRIVEDI,
 
 **नवमोऽध्यायः॥९॥**
 
-**![](../books_images/U-IMG-1725374434हग.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1725374434हग.PNG"/>**
 
 **दशमोऽध्यायः।**
 
@@ -8771,7 +8771,7 @@ LADURAM TRIVEDI,
 
 इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां मनुस्मृत्यामेकादशोऽध्यायः॥११॥
 
-![](../books_images/U-IMG-1729052587Screenshotfrom2024-10-1609-52-30.png)
+<MISSING_FIG href="../books_images/U-IMG-1729052587Screenshotfrom2024-10-1609-52-30.png"/>
 
 **द्वादशोऽध्यायः**
 
@@ -9161,7 +9161,7 @@ LADURAM TRIVEDI,
 
 **शुभं भवतु।**
 
-**![](../books_images/U-IMG-1725550933EBHARAT.PNG)**
+**<MISSING_FIG href="../books_images/U-IMG-1725550933EBHARAT.PNG"/>**
 
 **॥श्रीः॥**
 
@@ -10107,7 +10107,7 @@ LADURAM TRIVEDI,
 
 इति ऋणादानं प्रथमं विवादपदम्॥
 
-![](../books_images/U-IMG-1729243511Screenshotfrom2024-10-1814-54-46.png)
+<MISSING_FIG href="../books_images/U-IMG-1729243511Screenshotfrom2024-10-1814-54-46.png"/>
 
 **अथौपनिधिकं द्वितीयं विवादपदम्।**
 
@@ -11106,7 +11106,7 @@ LADURAM TRIVEDI,
 
 इति स्त्रीपुंसयोगो द्वादशं विवादपदम्॥
 
-![](../books_images/U-IMG-1729406052Screenshotfrom2024-10-2012-03-30.png)
+<MISSING_FIG href="../books_images/U-IMG-1729406052Screenshotfrom2024-10-2012-03-30.png"/>
 
 **अथ दायविभागस्त्रयोदशं विवादपदम्।**
 
@@ -11349,7 +11349,7 @@ LADURAM TRIVEDI,
 
 इति साहसं चतुर्दशं विवादपदम्॥
 
-![](../books_images/U-IMG-1729413934Screenshotfrom2024-10-2014-15-19.png)
+<MISSING_FIG href="../books_images/U-IMG-1729413934Screenshotfrom2024-10-2014-15-19.png"/>
 
 **अथ वाग्दण्डपारुष्यं पञ्चदशं (षोडशं च) विवादपदम्।**
 
@@ -11768,7 +11768,7 @@ LADURAM TRIVEDI,
 
 इति प्रकीर्णकमष्टादशंविवादपदम्॥
 
-![](../books_images/U-IMG-1729434308Screenshotfrom2024-10-2019-54-54.png)
+<MISSING_FIG href="../books_images/U-IMG-1729434308Screenshotfrom2024-10-2019-54-54.png"/>
 
 **अथ दिव्यप्रकरणम्।**
 
@@ -11915,17 +11915,17 @@ LADURAM TRIVEDI,
 
 इति पञ्चदिव्यानि॥
 
-![](../books_images/U-IMG-1729441964Screenshotfrom2024-10-2022-02-23.png)
+<MISSING_FIG href="../books_images/U-IMG-1729441964Screenshotfrom2024-10-2022-02-23.png"/>
 
 समाप्तैषा नारदीयमनुस्मृतिः॥
 
-![](../books_images/U-IMG-1729442004Screenshotfrom2024-10-2022-03-04.png)
+<MISSING_FIG href="../books_images/U-IMG-1729442004Screenshotfrom2024-10-2022-03-04.png"/>
 
 **॥अथ॥**
 
 **अत्रिस्मृतिः**
 
-![](../books_images/U-IMG-1729442277Screenshotfrom2024-10-2022-07-44.png)
+<MISSING_FIG href="../books_images/U-IMG-1729442277Screenshotfrom2024-10-2022-07-44.png"/>
 
 **श्रीगणेशाय नमः।**
 
@@ -11982,7 +11982,7 @@ LADURAM TRIVEDI,
 
 इत्यात्रेयस्मृत्यां प्रथमोऽध्यायः॥
 
-![](../books_images/U-IMG-1729443578Screenshotfrom2024-10-2022-29-25.png)
+<MISSING_FIG href="../books_images/U-IMG-1729443578Screenshotfrom2024-10-2022-29-25.png"/>
 
 **॥अथ द्वितीयोऽध्यायः॥**
 
@@ -12111,9 +12111,11 @@ LADURAM TRIVEDI,
 
 इति आत्रेयस्मृतौ चतुर्थोऽध्यायः।
 
-![](../books_images/U-IMG-1729460697Screenshotfrom2024-10-2103-14-43.png)
+<MISSING_FIG href="../books_images/U-IMG-1729460697Screenshotfrom2024-10-2103-14-43.png"/>
 
 **अथ रहस्य प्रायश्चित्तानि व्याख्यास्यामः॥**
+
+ 
 
 सामान्यस्त्रीगमनरहस्ये रहस्य प्रकाशे प्रकाशं पावनं अनुतिष्ठेत्। वा—समान्यमगम्यागमनन्दुरन्नभोजनान्तौरहस्यौरहस्यं प्रकाशं वावनमनुतिष्ठेत्। अथवाप्सुनिमज्यन् समन्दोऽयं त्रिरावृत्य (त्रिरात्र्यन्तरं) शुद्धेत्। गोवन्यवधेकन्यादूषणे इन्द्रशुद्ध्या इत्यापः पीत्वा मुच्यते।
 
@@ -12162,7 +12164,7 @@ LADURAM TRIVEDI,
 
 इति आत्रेयस्मृतौ चतुर्थोऽध्यायः।
 
-![](../books_images/U-IMG-1729488654Screenshotfrom2024-10-2103-14-43.png)
+<MISSING_FIG href="../books_images/U-IMG-1729488654Screenshotfrom2024-10-2103-14-43.png"/>
 
 चतुरस्रंब्राह्मणस्यत्रिकोणं क्षत्रियस्य तु।  
 वर्त्तुलञ्चैव वैश्यस्य शूद्रस्याभ्युक्षणं स्मृतम्।  
@@ -13918,7 +13920,7 @@ LADURAM TRIVEDI,
 
 ॥अथ॥
 
-![](../books_images/U-IMG-1725378091Screenshot2024-09-03132952.png)विष्णुस्मृतिः।![](../books_images/U-IMG-1725378091Screenshot2024-09-03132952.png)
+<MISSING_FIG href="../books_images/U-IMG-1725378091Screenshot2024-09-03132952.png"/>विष्णुस्मृतिः।<MISSING_FIG href="../books_images/U-IMG-1725378091Screenshot2024-09-03132952.png"/>
 
 **श्रीगणेशाय नमः।**
 
@@ -14850,7 +14852,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णये धर्मशास्त्रेषोडशोऽध्यायः॥  
 
-![](../books_images/U-IMG-1725548742Screenshot2024-09-05203438.png)
+<MISSING_FIG href="../books_images/U-IMG-1725548742Screenshot2024-09-05203438.png"/>
 
 **॥अथ सप्तदशोऽध्यायः॥**
 
@@ -14968,7 +14970,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे एकोनविंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1725608834Screenshot2024-09-06005213.png)
+<MISSING_FIG href="../books_images/U-IMG-1725608834Screenshot2024-09-06005213.png"/>
 
 **॥अथ विंशोऽध्यायः॥**
 
@@ -15246,7 +15248,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे द्वाविंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1725814090Screenshot2024-09-06192603.png)
+<MISSING_FIG href="../books_images/U-IMG-1725814090Screenshot2024-09-06192603.png"/>
 
 **॥अथ त्रयोविंशोऽध्यायः॥**
 
@@ -15392,7 +15394,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे चतुर्विंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1725816495Screenshot2024-09-08114906.png)
+<MISSING_FIG href="../books_images/U-IMG-1725816495Screenshot2024-09-08114906.png"/>
 
 **॥अथ पञ्चविंशोऽध्यायः॥**
 
@@ -15438,7 +15440,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे षड्विंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1725860348Screenshot2024-09-09110823.png)
+<MISSING_FIG href="../books_images/U-IMG-1725860348Screenshot2024-09-09110823.png"/>
 
 ॥अथ सप्तविंशोऽध्याय॥
 
@@ -15543,7 +15545,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रेऽष्टाविंशोऽध्याय॥
 
-![](../books_images/U-IMG-1725864928Screenshot2024-09-09122357.png)
+<MISSING_FIG href="../books_images/U-IMG-1725864928Screenshot2024-09-09122357.png"/>
 
 **॥अथ एकोनत्रिंशोऽध्यायः॥**
 
@@ -15623,7 +15625,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे त्रिंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1725875190Screenshot2024-09-09143127.png)
+<MISSING_FIG href="../books_images/U-IMG-1725875190Screenshot2024-09-09143127.png"/>
 
 ॥अथ एकत्रिंशोऽध्यायः॥
 
@@ -15782,7 +15784,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे अष्टात्रिंशोऽध्यायः॥
 
-![](../books_images/U-IMG-1725939590Screenshot2024-09-09183835.png)
+<MISSING_FIG href="../books_images/U-IMG-1725939590Screenshot2024-09-09183835.png"/>
 
 ॥अथ द्विचत्वारिंशत्तमोऽध्यायः॥
 
@@ -15793,7 +15795,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे द्विचत्वारिंशत्तमोऽध्यायः॥
 
-![](../books_images/U-IMG-1725945573Screenshot2024-09-09185417.png)
+<MISSING_FIG href="../books_images/U-IMG-1725945573Screenshot2024-09-09185417.png"/>
 
 ॥अथ त्रिचत्वारिंशत्तमोऽध्यायः॥
 
@@ -15853,7 +15855,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवेधर्मशास्त्रे त्रिचत्वारिंशत्तमोऽध्यायः॥
 
-![](../books_images/U-IMG-1725958789Screenshot2024-09-09183835.png)
+<MISSING_FIG href="../books_images/U-IMG-1725958789Screenshot2024-09-09183835.png"/>
 
 ॥अथ चतुश्चत्वारिंशत्तमोऽध्यायः॥
 
@@ -15888,7 +15890,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे चतुश्चत्वारिंशत्तमोऽध्यायः॥
 
-![](../books_images/U-IMG-1725961576Screenshot2024-09-10122943.png)
+<MISSING_FIG href="../books_images/U-IMG-1725961576Screenshot2024-09-10122943.png"/>
 
 ॥अथ पञ्चचत्वारिंशोऽध्यायः॥
 
@@ -15919,7 +15921,7 @@ LADURAM TRIVEDI,
 
 इति वैष्णवे धर्मशास्त्रे पञ्चचत्वारिंशत्तमोऽध्याय॥
 
-![](../books_images/U-IMG-1725963650Screenshot2024-09-10130409.png)
+<MISSING_FIG href="../books_images/U-IMG-1725963650Screenshot2024-09-10130409.png"/>
 
 ॥अथ षट्चत्वारिंशोऽध्यायः॥
 
@@ -16532,7 +16534,7 @@ LADURAM TRIVEDI,
 
 **इति वैष्णवे धर्मशास्त्रे त्रिषष्टितमोऽध्यायः॥**
 
-![](../books_images/U-IMG-1725351989Screenshot2024-07-22081715.png)
+<MISSING_FIG href="../books_images/U-IMG-1725351989Screenshot2024-07-22081715.png"/>
 
 **॥अथ चतुषष्टितमोऽध्यायः॥**
 
@@ -17832,11 +17834,11 @@ LADURAM TRIVEDI,
 
 दक्षस्मृतिः।  
 
-![](../books_images/U-IMG-1725159820q.png)  
+<MISSING_FIG href="../books_images/U-IMG-1725159820q.png"/>  
 
 **प्रथमोऽध्यायः।**
 
-**![](../books_images/U-IMG-1725159874w.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725159874w.png"/>**
 
 **श्रीगणेशाय नमः।**
 
@@ -18133,7 +18135,7 @@ LADURAM TRIVEDI,
 
 **इति दाक्षे धर्मशास्त्रे तृतीयोऽध्यायः॥**
 
-**![](../books_images/U-IMG-1725264436w.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725264436w.png"/>**
 
 **॥ अथ चतुर्थोऽध्यायः॥**
 
@@ -18455,7 +18457,7 @@ LADURAM TRIVEDI,
 
 **॥ आङ्गिरसस्मृतिः॥**
 
-**![](../books_images/U-IMG-1725275708go.png)**  
+**<MISSING_FIG href="../books_images/U-IMG-1725275708go.png"/>**  
 
 **॥ श्रीगणेशाय नमः॥**
 
@@ -18615,7 +18617,7 @@ LADURAM TRIVEDI,
 
 ॥ शातातपस्मृतिः॥
 
-![](../books_images/U-IMG-1725278302go.png)  
+<MISSING_FIG href="../books_images/U-IMG-1725278302go.png"/>  
 
 ॥ श्रीगणेशाय नमः ॥
 
@@ -18685,7 +18687,7 @@ LADURAM TRIVEDI,
 
 **इति शातातपीये कर्मविपाके साधारणविधिः प्रथमोऽध्यायः।**
 
-**![](../books_images/U-IMG-1725272946w.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725272946w.png"/>**
 
 **॥ द्वितीयोऽध्यायः॥**
 
@@ -18938,7 +18940,7 @@ LADURAM TRIVEDI,
 **इति शातातपीये कर्मविपाके प्रकीर्णप्रायश्चित्तं नाम  
 तृतीयोऽध्यायः।**
 
-**![](../books_images/U-IMG-1725270203w.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725270203w.png"/>**
 
 **॥ चतुर्थोऽध्यायः॥**
 
@@ -19043,7 +19045,7 @@ LADURAM TRIVEDI,
 इति शातातपीये कर्मविपाके स्तेयप्रायश्चित्तं नाम  
 चतुर्थोऽध्यायः।
 
-![](../books_images/U-IMG-1725274437q.png)
+<MISSING_FIG href="../books_images/U-IMG-1725274437q.png"/>
 
 **॥ पञ्चमोऽध्यायः॥**
 
@@ -19328,7 +19330,7 @@ LADURAM TRIVEDI,
 
 **समाप्ता चेयं शातातपस्मृतिः।**
 
-**![](../books_images/U-IMG-1725305338do.png)**
+**<MISSING_FIG href="../books_images/U-IMG-1725305338do.png"/>**
 
 **समाप्तश्चायंधर्मशास्त्रस्य प्रथमो भागः।  
 ॐ तत्सद्ब्रह्मार्पणमस्तु।**
@@ -19932,6 +19934,6 @@ LADURAM TRIVEDI,
 इति धर्मशास्त्रस्य प्रथमभागस्य यथा दृष्टिगतं  
 तच्छुद्धाशुद्धिपत्रम्।
 
-![](../books_images/U-IMG-1725306822w.png)
+<MISSING_FIG href="../books_images/U-IMG-1725306822w.png"/>
 
 \]
