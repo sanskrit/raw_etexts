@@ -15,15 +15,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MjM4NDg4Mzc
 
 \[
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **PREFACE**.
 
@@ -50,8 +44,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDA5MjM4NDg4Mzc
  I can not, however, speak in the same terms of praise of the two commentators of Bhatti. They explain the grammatical forms according to the rules of Sanskrit grammar (which I hope will be soon out of the curriculum of study), but do not always pay special attention either to explaining the text or clearing up the allusions..
 
  A careful study will moreover shew that Bharata came after Jayamangala and made use of the latter’s commentary in preparing his own. Imay cite the following passages in support of my assertion. Their number might be increased hundred-fold.
-
-
 
 I. 1.
 
@@ -95,8 +87,6 @@ V. 3.
 
  My statement will be still more clear if it is observed that the same mistakes are sometimes committed by both the commentators. For instance, **अंश**is never =**कर** and **प्रपद** never =**गम्** . **वनानि विघट्टयन्तः** in the place used has no connection with
 
-
-
 the text and the expressions **कर्तृभूतौ** and**कर्मभूतौ** in the last example smell of the influence of the Bengali of Pandits.
 
  Many scholars have edited and attempted to explain the text of Sakuntala, although I have seen only a few of them. I cannot, therefore, say whether my notes to it are all original. But I can assure my readers that I have not cousciously appropriated anything from the works of my predecessors.
@@ -105,8 +95,6 @@ the text and the expressions **कर्तृभूतौ** and**कर्म�
 November 29. 1877.**
 
 **A.B**
-
-
 
 **I. MEGHADUTA.**
 
@@ -121,8 +109,6 @@ November 29. 1877.**
 old writings.
 
  3. The following quotation from the Uttara Charita will shew that the Prasravana was as great a favourite of Rama and his wife as the Chitrakúta.
-
-
 
  लक्ष्मणः। अयं........जनस्थानमध्यगो गिरिः प्रस्रवणोनाम।
 
@@ -140,8 +126,6 @@ old writings.
  6. Then the cloud is to come to the deep river (**गम्भीरायाः सरितः, 41**). Mallinátha takes *gambhira* as a proper name, but without authority. I think it is meant for the Siprá which the poet had mentioned by name in verse 32. It agrees with geography.
 
  7. The cloud’s next course is to Devagiri (43). This is probably the rocky eminence five miles north of Ujein, where very probably a celebrated temple of Kartikeya stood, which gave it the name of Divine mount. None of the Deogarhs of modern geography agrees with the poet's description. The Deogarh near Gwalior is too far east. The Deogarh in the Keroli Raj is on the left bank of the Chambal and inconsistent with the statement that the crossing of the river was to take place after (48). Then it is to cross the Charmanvati, the modern Chambal and to pass on to Kurukshetra near Delhi (49). Then it is to go further up to Kanakhala on the Ganges (51)
-
-
 
 and along the outskirts of the Himalaya (58) through the Krauncha pass to mount Kailása (59).
 
@@ -164,8 +148,6 @@ pala as an authority. In the absence of any old authority, I cannot accept Utpal
  10. Mallinátha explain the allusion in the second line thus:—“**पुरा किल भगवतो देवात् धूर्जटेर्धनुरूपनिषदमधीयानेन भृगुनन्दनेन स्कन्दस्य स्पर्द्धया क्रौञ्चशिखरिणमतिनिशितविशिखमुखेन हेलया मृत्पिण्डभेदं भित्वा ततः क्रौञ्चभेदादेव सद्यः समुज्जृम्भिते कस्मिन्नपि यशः क्षीरनिधौ निखिलमपि जगज्वालमाप्तावितमिति कथा श्रूयते।**”
 
  11. I doubt whether this account is *wholly* correct. At least I know of no authority on which it is based. From the accounts given in the Viracharita ( II. 17 ) and the Bála Rámayana (IV. 29), the tradition appears to have been that Jámadagnya Parasuráma with his arrows made a passage through
-
-
 
 the mount Krauncha when he went to study with Siva at Kailasa and that through this passage, swans first made their appearance on earth. In the map, I have placed **क्रौञ्चरन्ध्र** northof the Himalayas. It is evidently some gorge orgorges to the west of the lake Mánasa and elsewhere given reasons for it (see Vi. II. 36 note and preface).
 
@@ -191,8 +173,6 @@ the mount Krauncha when he went to study with Siva at Kailasa and that through t
 
  16. Mallinátha says “**अन्वास्य पश्चादासित्वेत्यर्थः**” I really do
 
-
-
 not understand what sense he makes out of the line with this explanation. I think it means ‘*waiting on*’.Kallidasa uses the same verb in the same sense in Kumarasambhava III, 17.
 
  “स्थाणुंतपस्यन्तमधित्यकायाम्। अन्वास्तेत्यप्सरसां मुखेभ्यः”......
@@ -216,8 +196,6 @@ not understand what sense he makes out of the line with this explanation. I thin
  21. Mallinatha’s analysis of the compound **सुहृदुपगत**does not appear to me correct. He should have said **सुहृदः** **उपगतः**and not **सुहृदाउपगतः** “*received from a friend.*”I do not think the instrumental is ever used in the sense of ‘*through*’.
 
 \_\_\_\_\_\_\_
-
-
 
 **II. KUMARASAMBHAVA. I–VII.**
 
@@ -250,8 +228,6 @@ not understand what sense he makes out of the line with this explanation. I thin
 शालप्लक्षपलाशैश्चछिन्नसंहोरणं मुहुः।  
 खदोग्धृवत्सपात्रैस्तेतत्तद्दुदुहुरुर्वराम्॥”
 
-
-
  23. From the above passage, there can be no doubt that **रत्न**is used in its literal sense and Mallinatha’s attempt to explain it literally and figuratively at the same time (**रत्नानि मणीन् जातिश्रेष्ठवस्तूनि च**) is ludicrous.
 
 \_\_\_\_\_\_\_\_\_\_
@@ -271,8 +247,6 @@ not understand what sense he makes out of the line with this explanation. I thin
 
  27. Mallinatha explains this “**बाल्यात् शैशवात् परम् अनन्तरभाविवयःयौवनं प्रपेदे प्राप।**”This explanation does not commend to me first because **पर***after an ablative* is not generally used as an adjective and secondly because **अथ**would have no force at all. I understand it. “*Then after childhood, she arrived atyouth*,” **वयस्** itself as in the phrase **अप्राप्तवयस्क** meaning *youth* just
 
-
-
 like the English word *age* as in “*come to age*.”In **अमृग्यैश्वर्यसुखं नवं वयः**(v. 41.) we have another use of **वयस्** in the same sense, which Mallinàtha’s explanation would make *early infancy*. So in Raghu IX. 47 **“नपुनरैति गतं चतुरं वयः.”**
 
 \_\_\_\_\_\_\_\_\_
@@ -289,8 +263,6 @@ like the English word *age* as in “*come to age*.”In **अमृग्यै
 Ku. II. 44.
 
  30. Mallinatha reads **पयः शेषं**as one word. This is wrong. Notwithstanding what he says, for which there is no authority, **शेष**cannot be used in the neuter gender, unless when it qua-
-
-
 
 lifies neuter nouns. Bhattoji Dikshita rightly observes (S. K. Vol. II page 628) **“कर्मादौ घञाद्यन्तमपि विशेष्यलिङ्गम्। तथा च भाष्यं सम्बन्धमनुवर्तिष्यत इति।”**The line evidently means “*the waters ofthe Mondákini remain, polluted with the ichor of the quarterelephants,*”which the poet himself explains in the second line of the verse. The same use of **शेष**occurs in the following line of the Venisanhara VI. 39.
 
@@ -320,8 +292,6 @@ lifies neuter nouns. Bhattoji Dikshita rightly observes (S. K. Vol. II page 628)
 
  33.Mallinatha says “**अहोवत इति सम्बोधने**.” He should have said ‘**विस्मये**.’ He gives **आश्चर्य्यविक्रम** as a synonym of **स्पृहणीयवीर्य्य**probably as no better synonym could be found.But this word strictly means ‘*enviable*.’So in Kirata **“स्पृहणीयगुणैर्महात्मभिः” II.34.**The line means “*oh, (you) are of enviable prowess.”*
 
-
-
 वसन्तपुष्पाभरणं वहन्ती। Ku. 111. 52.
 
  84. Mallinatha’s explanation is not full. It means “*carrying*(*on her person*) *ornaments of spring flowers*.”This is clearfrom the verses 54. 55. and 62. The *asoka*, the *karnikara* and the *sindhuvara* flower being respectively red, yellow, and white, the poet has compared them with rubies, gold, and pearls.
@@ -348,8 +318,6 @@ Ku. IV. 31.
 
  37. Mallinatha explains **विचेतनैः**as **अल्पचेतनैः** and **प्रतिपन्नं**as **ज्ञातं**. The examples of moonlight and lightning given
 
-
-
 by Kalidasa clearly shows that the first is=**अचेतनैः**and it is extremely doubtful whether the second isever=**ज्ञातं**. I think **प्रतिपद्मं**=**अभ्युपेतं** =*admitted*, *acted upon*, which is borne out by the first half of the verse.
 
 \_\_\_\_\_\_\_\_\_
@@ -367,8 +335,6 @@ by Kalidasa clearly shows that the first is=**अचेतनैः**and it is e
 मनोरथानामगतिर्न विद्यते॥** Ku. V. 64.
 
  39. I understand this verse to mean “*as you have heard,this person is anxious to overcome* (*acquire*) *high position*. *This penance is intended as an instrument for attaining it. There isnothing which is not within the range of wishes.”*It will be seenthat I differ in two points from Mallinatha. First of all, I
-
-
 
 do not think **यथा=सम्यक्**. Secondly **किल**cannot mean *falsely*, as it would contradict Parvati’s first statement. It is evidently a softened form of expression to indicate her modesty.
 
@@ -407,8 +373,6 @@ VI
 
  43. **सम्भावना** means *reception*, *honouring*. So we have in Kirata VI. 43. **“सम्भावना ह्यधिकृतस्य तनोति तेजः.”**I do not think
 
-
-
 **सम्भावना** ever means favour. **भवत्सम्भावनोत्थः** =“*arising from receiving you.*”
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -434,8 +398,6 @@ Ku. VII. 11.
 
  46. Mallinatha does not explain**कौतुकवेदि**. It means the
 
-
-
 *altar of joy* i. e.*the marriage altar*.So **कौतुकागारं** (VII. 94) means *house of joy*. Mallinatha says it is *sleeping-house*, which it remotely conveys. But it is doubtful whether he comprehended its full exact force. In the following passage from the Katha Sarit Sagara XVI. 76-9, it will be seen that the same Word is used in the same original sense, but not in the sense adopted by Mallinatha.
 
 प्रविश्य मगधेशस्य वत्सेशोऽप्यथ मन्दिरम्।  
@@ -453,8 +415,6 @@ Ku. VII. 11.
  48. Ku. VII. 57. 58. 59. 60. 61. 62. 66. 73. 75. 79. are exactly the same verses as R. VII. 6. 7. 8. 9. 10. 11. 14. 19. 23. 24. Ku. VII. 56. 64. 69. 70. 72. 77. 80. 81. 82. 88. do not differ much from R. VII. 5. 12. 16. 17. 18. 22. 25. 26. 27. 28.And the ideas of Ku. VII. 65. 67. 76. 83. 86. are to be found in R. VII. 13. 15. 21. 20. 29. It will be thus seen that all the verses 5. to 29. of R. VII. are more or less reproduced in Ku. VII. 56. to 88, but that the latter contains some additional verses. think this is sufficient to shew not only that both the poems are the works of Kalidasa, but also that the Raghuvansa preceded the Kumarasambhava. I do not think any writer has as yet taken notice of these coincidences.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **III. RAGHUVANSA I—IX.**
 
@@ -480,8 +440,6 @@ Ku. VII. 11.
 |       Kshemadhanvan       |      Kshemadhanvan       |
 |          Ahinagu          |         Ahinagu          |
 
-
-
 ![](../books_images/U-IMG-1734511990A1.png)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -490,8 +448,6 @@ Ku. VII. 11.
 तया मेने मनस्विन्या लक्ष्म्या च वसुधाधिपः॥**R. I. 39.
 
  50. It is very interesting to trace the history of words as many a hard undeniable fact lies under it— strong enough to remove long-standing prejudices and throw a flood of light on the condition of people. The word **अवरोध**is an instance. It is derived from **अव–रुध्***to confine* and primarily signifies *confine*
-
-
 
 *ment*. Then by a figure of speech, whose instances are so common in English, it came to mean a *place of confinement*. Then, by another step, it was allowed to convey *the inmates of a place of confinement*. And as Hindu ladies of yore, like the generality of the Hindu ladies of modern days, were not allowed freedom of intercourse, it came to signify *the ladies of a haram*. This fact is borne out by the whole Sanskrit Drama.Yet there are people who attribute it entirely to Mahamedan invasion and deny its existence before those days. **मनस्विनी**means *large-hearted.* **दृढचित्ताis not its exact synonym.
 
@@ -516,8 +472,6 @@ Ku. VII. 11.
  53.**मनुष्यवाचा** is =“*in human speech*.”The use of the instrumental in such cases should be carefully noted.
 
  54. **निगृहीत**here, I think, is = “*attacked, assailed*” and
-
-
 
 not **पीडित**. The poet had already said “**गवि तस्थिवांसं**” (29) and again “**धेन्वा तदध्यासितकातराक्ष्या**” (52).
 
@@ -547,9 +501,9 @@ not **पीडित**. The poet had already said “**गवि तस्थ�
 
  60. Mallinátha does not seem to have explained anywhere
 
+the full force of such derivatives.In R. XI. 32[^2]., he explains ‘**मैथिलः**’ ‘**मिथिलायां भवः**.’ This is following Dikshita, but not in strict accordance with Pánini or truth. In such cases, the affix expresses “*king, ruler, prince*.” **मैथिलः**means ‘*king of Mithila*.’So in R. V. 62. **वैदर्भः**means ‘*king of Vidarbha’.*So in VI. II. 8. “**वैदेहः”**means ‘*king of Videha*.’
 
-
-the full force of such derivatives.[In R. XI. 32](http://॑# "Under R. I. 57., he does say मागधी मगधराजपुत्री राज्ञी सुदक्षिणा. But thereमागधी simply means ‘of Magadha.’I suppose Mallinátha uses मगधराजपुत्रीmore as what it conveys than what it means.")., he explains ‘**मैथिलः**’ ‘**मिथिलायां भवः**.’ This is following Dikshita, but not in strict accordance with Pánini or truth. In such cases, the affix expresses “*king, ruler, prince*.” **मैथिलः**means ‘*king of Mithila*.’So in R. V. 62. **वैदर्भः**means ‘*king of Vidarbha’.*So in VI. II. 8. “**वैदेहः”**means ‘*king of Videha*.’
+[^2]: "Under R. I. 57., he does say मागधी मगधराजपुत्री राज्ञी सुदक्षिणा. But thereमागधी simply means ‘of Magadha.’I suppose Mallinátha uses मगधराजपुत्रीmore as what it conveys than what it means."
 
  61. This is not far from the English idiom which makes Wellington =Duke of Wellington, Salisbury =Marquis of Salisbury, Páttiálá=Raja of Páttiála. We have, however, in Sanskrit some exact instances of this very idiom and one or two even in Raghuvansa. But as the point is involved in some obscurity, I need not discuss it here.
 
@@ -563,8 +517,6 @@ the full force of such derivatives.[In R. XI. 32](http://॑# "Under R. I. 57., 
  63. Hindu students will at once see the appropriateness of the use of the word **दीक्षा**with **विवाह**fare. Those who are unacquainted with the rules and ceremonies of Hindu Marriage must consult such works as the Nirnayasindhu.
 
  64. The use of the ablative after words signifying ‘*after*’ must be noted.
-
-
 
 **असङ्गमद्रिष्वपि सारवत्तया  
 न मे त्वदन्येन विसोढमायुधम्।** R. III. 63.
@@ -596,8 +548,6 @@ the full force of such derivatives.[In R. XI. 32](http://॑# "Under R. I. 57., 
 **मलयस्यैकदेशे तु वैखानसविधानतः।  
 सभार्यः संवृतो विप्रैस्तपश्चक्रेसुदुश्वरम्॥”**
 
-
-
  69. The allusion in the first part of the verse will be clear from the following verse (XII. 7) of Varaha Mihira’s Vrihat Sanhita. For a detailed description, students must read the whole chapter.
 
 “उदये च मुनेरगस्त्यनाम्नः कुसमायोगमलप्रदूषितानि।  
@@ -624,8 +574,6 @@ the full force of such derivatives.[In R. XI. 32](http://॑# "Under R. I. 57., 
 **ब्रह्मावाप्त्यैजयपरशुनास्मिन् समित्काण्डलावः  
 शिष्यः शम्भोर्विहितवसतिस्तप्यतेऽसौ तपांसि॥**
 
-
-
 **चकम्पे तीर्णलौहित्य तस्मिन् प्राग्ज्योतिषेश्वरः।** R. IV. 81.
 
  75. Mallinatha says **तीर्णा लौहित्या नाम नदी येन……** I do not know where he got the name of **लौहित्या**. He should have said **लौहित्यो नाम नदी येन**, (see, eg Brihat Sanhita XVI. 66). **लौहित्य** is vulgarly called *luit* (**लुइत्**) and is the same as the Brahmaputra running through the valley of Assam.
@@ -647,8 +595,6 @@ the full force of such derivatives.[In R. XI. 32](http://॑# "Under R. I. 57., 
 
  80. **द्वित्राः**( n. **त्राणि**) = *two or three*. So **पञ्चषाः** (n. **षाणि**)=
 
-
-
 *five* or *six*. This idiom is very common in the spoken tongues of modern India. But as such compounds are not common in written Sanskrit, the student should make a special note of it.
 
  81. **सोढुमहसि**= “*please stay*.”
@@ -669,8 +615,6 @@ the full force of such derivatives.[In R. XI. 32](http://॑# "Under R. I. 57., 
  85. Such examples as these are quite sufficient is my opinion to prove that Mallinatha is a recent annotator.
 
 \_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **संमोहनं नाम सखे ममास्त्रं  
 प्रयोगसंहारविभक्तमन्त्रम्।**
@@ -703,8 +647,6 @@ Compare with it R. VII. 62.
 
  90. Mahakala is a form of Siva and his celebrated temple stood at Ujjayini. It is mentioned in many Sanskrit works.
 
-
-
 The third story in the fifth part of the Panchatantra has “**तत्रसिप्राजले कृतस्नाना महाकालं प्रणम्य यावन्निर्गच्छन्ति**”. The surrounding park (**महाकालवनं**) also took its name from the idol. It is described in the Scanda Purana—Avanti Khanda.
 
  91. **महाकालनिकेतनस्य चन्द्रमौलेः**means “*of the moon-crested*(*Siva*) *of the temple of Mahakala”*or “*of the temple of Mahakalaof the moon-crested Siva*, which is perhaps the better meaning. I do not think it is proper after Mallinatha to make the first qualify the second, as primarily means the god and not his temple.
@@ -725,8 +667,6 @@ The third story in the fifth part of the Panchatantra has “**तत्रस�
 
 **तिस्रस्त्रिलोकीग्रथितेन सार्द्ध-  
 मजेन मार्गे वसतीरुषित्वा।**
-
-
 
 **तस्मादपावर्तत कुण्डिनेशः  
 पर्वात्यये सोम इवोष्णरश्मेः॥** R. VII. 33.
@@ -764,8 +704,6 @@ I
 
  99 **तुल्यप्रतिद्वन्द्वि**is an adjective qualifying **युद्धं** or an adverb qualifying **बभूव**. In the latter case the compound will be thus analyzed : **तुल्याः समानाःप्रतिद्वन्द्विनः प्रतियोधाः यत्र तद्यथा तथा**. **तुल्य** is not =**एकजातीय**.
 
-
-
  100. I would translate the last line thus : “*the battle was equally matched*.”
 
 \_\_\_\_\_\_\_\_\_\_\_
@@ -798,8 +736,6 @@ and in V. v. 17.
 **पतिरङ्कनिषस्मया तया  
 करणापायविभिन्नवर्णया।**
 
-
-
 **समलक्ष्यत बिभ्रद्राविलां  
 मृगलेखामुषसीव चन्द्रमाः॥** R. VIII. 42.
 
@@ -830,8 +766,6 @@ x\. 1. Ajyodhya (modern Oude)—was the capital of this division.
 
 ** **109. In R. IX. 67, Kalidasa simply says ‘*of Koshala*’. But there it means southern Koshala, just as in the above quotation from Ramayana, it means ‘nothern Koshala.’But the southern kingdom seems to have merged in the northern soon after the marriage of Kaushalya.
 
-
-
 अथ समाववृते कुसुमैर्नवै-  
 स्तमिव सेवितुमेकनराधिपम्।
 
@@ -855,8 +789,6 @@ R. IX. 24.
 **दिष्टान्तमाप्स्यति भवानपि पुत्रशोकाद्  
 अन्त्ये वयस्यहमिवेति तमुक्तवन्तम्।**
 
-
-
 **आक्रान्तपूर्वमिव मुक्तविषं भुजङ्गं  
 प्रोवाच कोशलपतिः प्रथमपराङ्गः॥**R. IX. 79.
 
@@ -867,8 +799,6 @@ R. IX. 24.
 [^1]: "Preface to my Dictionary vol. I. p. VI."
 
  116. Colebrooke does not translate the whole of the first two lines literally. It should be “*like me, you will also meetyour fated end from filial grief.*.....”. In translating the last two lines, Colebrooke commits several mistakes. **कोशलपति**means “*chief of Koshala* (*the country*)” not “*husband of Kaushalya* (*the queen*.)” **प्रथमपराद्धः** does not mean “*conscious of thefirst offence*.” **प्रथम** in this compound being an adverb and not an adjective. **प्रथमं अपराद्धः प्रथमापराद्धःआक्रान्त** is & passive participle and can not possibly have the active sense given by Colebrooke.
-
-
 
 IV\. ABHIJNANA SAKUNTALA.  
 
@@ -926,8 +856,6 @@ IV\. ABHIJNANA SAKUNTALA.
 महाकच्छैर्वृहद्भिश्चविभ्राजितमतीव च।  
 मालिनीमभितो राजन् नदीं पुण्यां सुखोदकाम्॥20
 
-
-
 सचक्रवाकपुलिनां पुष्यफेनप्रवाहिनीम्।  
 मत्तवारणशार्दूलभुजगेन्द्रनिषेविताम्॥       24-5.
 
@@ -983,8 +911,6 @@ IV\. ABHIJNANA SAKUNTALA.
 ऋषिः कश्चिदिहागम्य मम जन्माभ्यचोदयत्।  
 तस्मै प्रोवाच भगवान् यथा तच्छृणु पार्थिव॥    19.
 
-
-
 “तप्यमानः किल पुरा विश्वामित्रो महत् तपः।  
 सुभृशं तापयामास शक्रं सुरगणेश्वरम्॥     20.
 
@@ -1038,8 +964,6 @@ IV\. ABHIJNANA SAKUNTALA.
 शकु। 
 
 फलाहारीगतो राजन् पिता म इत आश्रमात्।
-
-
 
 मुहूर्तं संप्रतीक्षस्वस मां तुभ्यं प्रदास्यति॥      5.
 
@@ -1099,8 +1023,6 @@ IV\. ABHIJNANA SAKUNTALA.
 
 प्रतिज्ञाय तु दुष्मन्ते प्रतियाते शकुन्तला।
 
-
-
 गर्भं सुषाव वामोरुः कुमारममितौजसम्॥     71. 1.
 
 जाक्कर्मादिसंस्कारं कण्वःपुण्यकृतां वरः।   
@@ -1156,8 +1078,6 @@ IV\. ABHIJNANA SAKUNTALA.
 जानन्नपि महाराज कस्मादेवं प्रभाषसे।  
 न जानामीति निःशङ्कं यथान्यः प्राकृतो जनः॥    25.
 
-
-
 योऽन्यथा सन्तमात्मानमन्यथा प्रतिपद्यते।  
 किं तेन न कृतं पापं चौरेणात्मापहारिणा॥      26.
 
@@ -1212,8 +1132,6 @@ IV\. ABHIJNANA SAKUNTALA.
 भर्तव्योऽयं त्वया यस्मादस्माकं वचनादपि।  
 तस्माङ्गवत्वयंनाम्नाभरतो नाम ते सुतः॥    112.
 
-
-
 तं विशोध्य सदा राजा देवदूतेन भारत।  
 हृष्टः प्रमुदितश्चापि प्रतिजग्राह तं सुतम्॥    
 
@@ -1266,8 +1184,6 @@ IV\. ABHIJNANA SAKUNTALA.
 
  121. The verb **शास्** has various senses. Here **शासत्** and **शासितृ** should not be confounded. The first means “*governing,ruling*”; the second means “*chasliser, controller*.”
 
-
-
  122. **पौरवे वसुमतीं शासति** =“*while a descendant of Puru isgoverning the earth.”*The locative here is used absolutely.This idiom is also common in Latin, but there being no locative in Latin, it uses the ablative in such cases.
 
  123. **मुग्ध** in the last line is =*simple, innocent*.
@@ -1304,8 +1220,6 @@ I
 
 x, 49, has “**परिचयं**
 
-
-
 **चललक्ष्यनिपातने**.” “**मिथ्यैव व्यसनंवदन्ति मृगयां**”=“*they say falsely hunting is a vice*.”
 
  128. It is interesting to compare the account in the Dasakumara with this description :—“**देव यथा मृगया ह्यौपकारिकीनतथान्यत्। अत्रहि व्यायामोत्कर्षादापत्मूपकर्ता, दीर्घाध्वलङ्घनक्षमो जङ्घाजधः, कफापचयादारोग्यैकमूलम्, आशयाग्निदीप्तिमेदोऽपकर्षादङ्गानां स्थैर्य्यकार्कश्यातिलाघवादीनि, शीतोष्णवातवर्षक्षुत्पिपासासहत्वं, सत्वानामवस्थान्तरेषु चित्तचेष्टितज्ञानं, हरिणगवलगवयादिबधेन शस्यलोपप्रतिक्रिया, वृकव्याघ्रादिघातेन स्थलपथशल्यशोधनम्। शैलाटवीप्रदेशानां विविधकर्मक्षमाणामालोचनम्, आटविकवर्गविश्रम्भनम्, उत्साहशक्तिसन्धु क्षणेन प्रत्यनीकचित्रासनमिति बहुतमा गुणाः।**”
@@ -1340,8 +1254,6 @@ Sa. II.
 
 **तच्छ्रुत्वा वचनं तस्य पाहीति पततो दिवः।  
 विश्वामित्रोभृशंक्रुद्धस्तिष्ठ तिष्ठेत्युवाच तम्।”**
-
-
 
 So the solar prince remained between heaven and earth.
 
@@ -1378,8 +1290,6 @@ Sa. I. 15.
 
  137.**राजर्षिकन्यकाः** is another reading for **अथ मुनिकन्यकाः** and
 
-
-
 I consider it a better reading first because the latter is in conflict with the first act where the king unmistakeably hints that he could not marry Brahmin girls and secondly because Sakuntala was the daughter of Vishvamitra, who was only a Rajarshi at the time. (**कोसिओ त्तिः... राएसी,** Sa. I. see also Ram.)
 
 \_\_\_\_\_\_\_\_\_\_\_\_
@@ -1407,8 +1317,6 @@ I consider it a better reading first because the latter is in conflict with the 
  139. The use of **स-**, **तत्र-**, **अत्र-**, **ततो-**, **अतो-** with **भवत्** is indicative of respect and should be carefully noted. **शकुन्तलाहेतोः =‘***for Sakuntala*.’ This explanation may be considered unnecessary. But I see one Pandit explains it by **शकुन्तलारूपकारणात्.**The mistake is so palpable that I need not add that **हेतु**of the text is not =**कारण**.
 
  140. **हृ** =*to take* and **आ-हृ** = *to bring*, just as **गम्** =*to go* and **आ-गम्** =*to come.*
-
-
 
 **अस्मान् साधु विचिन्त्य संयमधनानुच्चैः कुलञ्चात्मनः  
 त्वय्यस्याः कथमप्यबान्धवकृतां स्नेहप्रवृत्तिञ्च ताम्।**
@@ -1442,19 +1350,13 @@ Sa. IV. 16.
 
  147. In Kumara III. 71, Kalidasa uses **मृश्**in the sense used here.
 
-
-
 वशिनां हि परपरिग्रहसंश्लेषपराङ्मुखीवृत्तिः॥
 
 Sa. v. 30.
 
- 
-
 शार्ङ्ग।
 
 अथ पूर्ववृत्तं व्यासङ्गाद्विस्मृतं भवेत् तदा कथमधर्मभीरोर्दारपरित्यागः?
-
- 
 
 राजा।
 
@@ -1471,8 +1373,6 @@ Sa. v.
  150. **गुरुलाघवं**“*gravity or levity*”i. e. “*propriety or impropriety*.” The compound should be specially noted.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 श्यालः
 
@@ -1492,8 +1392,6 @@ Sa. v.
 
 **अस्यातुङ्गमिव स्तनद्वयमिदं निम्नेव नाभिः स्थिता**
 
-
-
 **दृश्यन्ते विषमोन्नताश्च बलयो भित्तौ समायामपि।  
 अङ्केच प्रतिभाति मार्दवमिदं स्निग्धप्रभावाच्चिरं  
 प्रेम्ना मन्मुखमीषदीक्षत इवस्मेरा च वक्तीव मां॥**
@@ -1505,8 +1403,6 @@ Sa. VI. 16.
  154. **स्निग्धं** in the second sloka, in my opinion, is =**स्नेहः**=**रङ्गः** =*dye*. I have already observed about these participial substantives. In English, participles ending in *ing* are used as substantives.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- 
 
 राजा
 
@@ -1521,8 +1417,6 @@ Sa. VI.
  157. The passage is interesting in shewing that, in the time of Kálidasa, property of childless persons generally escheated to the crown.
 
  158. **देवः प्रमाणं** is an idiom which cannot be accurately rendered in English. It means “*Your Majesty may pass suchorders as to Your Majesty may seem fit*.”
-
-
 
 ** **राजा**।**
 
@@ -1554,8 +1448,6 @@ Sa. VII. 6.
 
 **तैलापीडा यथा चक्रं भ्रमन्तो भ्रामयन्ति वै।  
 तथा भ्रमन्ति ज्योतींषि वाताविद्धानि सर्वशः॥**
-
-
 
 अलातचक्रवद्यान्ति वातचक्रेरितानि तु।  
 यस्माज्ज्योतींषि वहति प्रवहस्तेन स स्मृतः॥”
@@ -1596,8 +1488,6 @@ Sa. vIr. 9.
 
 **एकान्तरं**=*removed by one degree***स्रष्टः**=*from the creator*(*Brahma*.)
 
-
-
  169. Kasyapa’s making penances at Hemakuta is, I believe, the poet’s own invention. But the description in verse II. was probably taken from the Mahabharata Vanaparva, chap. 102.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -1605,8 +1495,6 @@ Sa. vIr. 9.
 ** राजा।**
 
 **अतः खलु ममानतिक्रुद्धो मुनिः।**
-
-
 
 मारीचः
 
@@ -1619,8 +1507,6 @@ Sa. vIr. 9.
  172.**परिग्रहप्रियं** = **परिग्रहमेव प्रियं. परिग्रह** = *acceptance, taking in.*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 V. BHATTI I-V.  
 \_\_\_\_\_\_\_\_\_
@@ -1640,8 +1526,6 @@ V. BHATTI I-V.
 
 **शेषाण्यहौषीत्सुतसम्पदे च  
 वरं वरेण्यो नृपतेरमार्गीत्॥** B. I. 12.
-
-
 
  174. This is a very obscure verse and I do not know what interpretation to be given to it. Neither Jayamangala nor Bharata Mallika explains it fully or even clearly and if the poet held the following passages from the Ramayana in his mind, none of their interpretation is correct.
 
@@ -1678,8 +1562,6 @@ B. I. 23.
 
  176. Bhattoji Dikshita seeing that **अनुजज्ञे**is in conflict with Panini I, 3, 76. “**अनुपसर्गाज्ज्ञ**,” observes “**कर्मणि लिट्।**
 
-
-
 **नृपेणेति विपरिणामः**.’Jayamangala follows this observation. But Panini’s rules are not always observed by Sanskrit writers. He says **युध्**is *Atmanepadi*. We have several instances of its *Parasmaipadi* use. I prefer **अनुजज्ञे**to take as an active form, agreeing with **नृपः**, not only because the construction becomes simpler, but also because I doubt Bhartihari’s ever using a passive verb after **ततः**and a preceeding active verb.
 
  177. **ततः** here is -=*and then*.Sanskrit seldom adds **च**when in English, ‘a*nd then’*is used.
@@ -1707,8 +1589,6 @@ B. II.14.
 
  180. **काले** agrees with **ददद्भिः**, ‘*paying in time*.’**अमायः**(**या, य**) =guil*eless, artless, ingenuous*; and **आहार्यशोभारहितः** (**ता, तं**) *devoid of artificial beauty*. **प्रचितः**(**ता, तं**) is used, I believe, in the sense of “*filled with*.”But I am not sure whether it is a proper use of the term.
 
-
-
 **आत्मम्भरिस्त्वं पिशितैर्नराणां  
 फलेग्रहीन् हंसि वनस्पतीनाम्।**
 
@@ -1733,8 +1613,6 @@ B. II.14.
 
  186. **सम्पन्न** never means **विशालः**, as Bharata says. It is evidently used here in the sense of “*grown up*,”which is also a misuse of the term.
 
-
-
  187. The expression **उपजान्वरत्निः**is ludicrous. If the elbow would come down to the knee, the hand would be dangling on the ground.
 
  188. Bharata reads **ऐति स्म रामं**. But this contains an idiomatic mistake explained under B. IV. 44 In the verse next but one, Bhartihari uses it unmistakebly in the sense explained by Jayamangala.
@@ -1756,8 +1634,6 @@ B. III. 23.
  191. I think **रामानुजं** is a better reading for **राजात्मजं**, as the first specifically points to Bharata, while the latter is ambiguous. ‘**आनिनीषून्**’from **आ-नी**and ‘**यूनः**’from **युवन्** are probably used to make the students acquainted with those forms. But **यूनः** in my opinion has no force whatever and the messengers being dependents, I do not see why they are styled **अनिनीषून्**.
 
  192. How better the same facts are told in older works as, e. g., in the Adhyatma Ramayana.
-
-
 
 \*वशिष्ठः प्रययौ तत्र प्रातमन्त्रिभिरावृतः॥
 
@@ -1785,8 +1661,6 @@ B. III. 23.
 
 \_\_\_\_\_\_\_\_\_\_
 
-
-
 **इति निगदितवन्तं राघवस्तं जगाद  
 व्रज भरत गृहीत्वा पादुके त्वं मदीये।**
 
@@ -1808,8 +1682,6 @@ B. III. 23.
  199. There appears to be two grammatical mistakes in the second verse. First **भञ्ज्**does not take two accusatives and **विराधाख्यं** and **भुजौ** cannot both be governed by **भंक्त्वा**. The difficulty might be avoided by connecting the first line and **विराधाख्यं**with **तं**. It is however at the sacrifice of construction. But I do not see how the second mistake will be got over. **रक्षः**is neuter and adjectives andpronouns in the neuterform only can qualify it. **तं**and **अवाक्शिरसं**are both faulty.
 
   200. Bhartrihari does not follow Valmiki faithfully. The
-
-
 
 following account of Viradha is taken from the Ramayana III. chaps VII-VIII.
 
@@ -1853,8 +1725,6 @@ following account of Viradha is taken from the Ramayana III. chaps VII-VIII.
 
  201. I think **पर्यशाप्सीत्** means ‘*cursed, abused*.’It is=**आक्रष्टवती**, say the commentators. In “**प्रतिवाचमदत्त केशवः शपमानाय न चेदिभूभुजे**,” Magha XVI. 25. **शप्** is used in the same sense and the previous description in it clearly shews what it means.
 
-
-
  202. The meaning assigned by Bharata to the second line is probably the only meaning to be got from it. But I do not see the force of it. I also doubt whether **स्फाय्**is ever used in the sense used here.
 
 **मृगयुमिव मृगोऽथ दक्षिणेर्मा  
@@ -1878,8 +1748,6 @@ following account of Viradha is taken from the Ramayana III. chaps VII-VIII.
 
  207. Bharata says “**कृतवीरस्यापत्यं कार्तवीर्यः। गर्गादित्वात् ण्यः**.”
 
-
-
 I read in the Matsya Purana that Kartavirya was the son of Kritavirya and not Kritavira. “**कृतवीर्यः कृताग्निश्च कृतवर्मा तथैव च। कृतौजाश्च चतुर्थोऽभूत् कृतवीर्यात्सोऽर्जुनः॥**” I do not know where Bharata found Kritavira.
 
  208. Although Bharata gives another interpretation, both he and Jayamangala thik **हीनसन्धि** means **हीनेन सन्धि** ‘*league with an inferior*. I think the compound is incapable of such an interpretation, that is to say, I hold that there can be no instrumental compound in Sanskrit in the sense of ‘*with*.’I refer to Panini II 1. 30-35 and to Dikshita's illustrations. The other interpretation given by Bharata “**भग्नसन्धि चकार**”does not come out directly from the text. I think ‘**भवन्तं हीनसन्धिमचीकरत्**’ means ‘*caused your joints inferior* (*i. e. loose*),’alluding to his confinement in the prison of Arjuna.
@@ -1900,8 +1768,6 @@ Matsya.
 
  211. In illustrating grammatical forms in verse, Bhartrihari has not stooped to consider sense —to consider diction—to consider even grammatical construction. Just before, he says “**तस्या वस मया सह**” “*there live with me*”immediately after says “**संगच्छ मां**“*cohabit with me*.”Both Jayamangala and Bharata give **अङ्गीकुरु**as an equivalent for **संगच्छ**and if they have
 
-
-
 used the word in its ordinary import it would give a good sense “*accept me*.”But never **संगम्**conveys the sense of accepting. At least I know of no such instance.
 
  212. **पौंस्र**(f. **स्त्री**) is a very rare word and I am not sure whether its use here is quite correct. I think as an adjective it can only mean “*good for or befitting a man,*”such as **पौंस्रमभिमानम्**. **स्त्रैण** no doubt also means **स्त्रीवश**. But this is derivable from its original sense, being clearly a form of effiminacy. I do not see how the sense in which Bhartrihari wishes us to understand it is derivable from the original sense of **पौंस्र**.
@@ -1920,17 +1786,9 @@ B. V. 93.
 
  216. Jayadeva says “**ग्राहिणी प्रतिकूला**” Bharata says “**ग्राहिणीप्रतिकूलार्थग्राहिणी**.” The latter explanation appears to me to be wrong and the first is not strictly correct. **ग्राह** means pertinacity as in Viracharita V. 51. “**ग्राहस्ते सुखमाश्वसन्ति गिरयो यैर्वानरह शस्त्रिणः”**and**ग्राहिणी**means “*pertinacious, obstinate.”*
 
-
-
 **CORRECTIONS**.  
 \_\_\_\_\_\_\_\_\_
 
-
-
 3\. 20. explains explain); 23. 17. confidential (cofidential); 26. 19. पतङ्गजस्थंपङ्गजस्थं); 31. 18. लक्ष्म्यालक्ष्म्या); 34. 32. बव्रे (बव्रे); 40. 21. Kshatriya (Kshetriya); 42. 5. खलु; (खल) ; 49. 6. interpretations (interpretation); 51. 5. व्रजन्ति; (वज्रन्ति); 53. 2. म (म) ; 53. 3. स्व तान दतान); 55. 19, ल(ल)
 
-
-
-
 \]
-

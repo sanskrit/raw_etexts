@@ -17,20 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MTc0Mjc2OTA
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 .
@@ -42,8 +28,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI1MTc0Mjc2OTA
 |                   |
 |:-----------------:|
 | **INTRODUCTION.** |
-
-
 
   The following pages embody the text of a Sanskrit work on 'doṣa' (poetical blemishes) by one Gangānanda Kavlndra,an inhabitant of Tirabhukta or Mithilā. It is the only Sanskrit work, so far known, devoted exclusively to an exposition of this topic.
 
@@ -129,12 +113,9 @@ Jagannath Sastri Hoshing
 |        मासलत्व        |        मांसलत्व        |
 |     भयादिनाऽपिस-      |     भयादिनाऽपि स-     |
 
-
 इति शिवम्।
 
 ![](../books_images/U-IMG-1694538073Capture2.JPG)
-
-
 
 [TABLE]
 
@@ -446,8 +427,6 @@ Jagannath Sastri Hoshing
 
 **![](../books_images/U-IMG-1694625296Capture2.JPG)**
 
-
-
 **निरर्थत्वाऽसमर्थत्वच्युतसंस्कृतितेतरः॥  
 सर्वो वाक्येऽप्ययं दोषः पदमागेऽपि कश्चन॥१॥**
 
@@ -740,8 +719,6 @@ Jagannath Sastri Hoshing
 **इति श्रीमैथिलश्रीगङ्गानन्दकवीन्द्रकृतौ काव्यडाकिन्यां द्वितीया दृष्टिः**
 
 **![](../books_images/U-IMG-1694774655Capture2.JPG)**
-
-
 
   अथ वाक्यदोषानाह—
 
@@ -1082,8 +1059,6 @@ Jagannath Sastri Hoshing
 
 ![](../books_images/U-IMG-1694797060Capture2.JPG)
 
-
-
   अथाऽर्थदोषानाह—
 
 **अपुष्टव्याहतक्लिष्टपुनरुक्तनिर्हेतुताः॥  
@@ -1266,8 +1241,6 @@ Jagannath Sastri Hoshing
 **ब्राह्मणः शास्त्रपाठेन गमयित्वाऽखिलं दिनम्।  
 सन्ध्याकाले पितुर्यज्ञमेकोद्दिष्टं करोत्यसौ॥**
 
-
-
   अत्रैकोद्दिष्टस्य श्राद्धस्य सन्ध्याकाले धर्मशास्त्रेण विधानं नोक्तम्।
 
   यथा वा—
@@ -1404,8 +1377,6 @@ Jagannath Sastri Hoshing
 **इति श्रीमैथिलश्रीगङ्गानन्दकवन्द्रिकृतौकाव्यडाकिन्यां चतुर्थी दृष्टिः।**
 
 ![](../books_images/U-IMG-1694839556Capture2.JPG)
-
-
 
 अथ रसदोषानाह—
 
@@ -1933,19 +1904,5 @@ Jagannath Sastri Hoshing
 
 **समाप्तम्।**
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
 

@@ -17,29 +17,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 **काव्यमाला।**  
 **![](../books_images/U-IMG-1697269860Screenshot(45).png)**  
@@ -529,7 +511,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTY
 **इति श्रीमहाराजाधिराजश्रीकर्णसिंहकारिते मैथिलश्रीगङ्गानन्दविरचिते  
 कर्णभूषणे विभावनिरूपणो नाम प्रथमः परिच्छेदः।**  
 **——————————**  
-
 
 **द्वितीयः परिच्छेदः।**
 
@@ -1105,8 +1086,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTY
 नन्दकविराजविरचितेऽनुभावनिरूपणो नाम द्वितीयः परिष्छेदः।**  
 **———————————**
 
-
-
 **तृतीयःपरिच्छेदः।**
 
   अथ व्यभिचारिणो निरूप्यन्ते—
@@ -1671,8 +1650,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTY
 रचितेकर्णभूषणे व्यभिचारिभावनिरूपणो नाम तृतीयः परिच्छेदः॥**  
 **——————————**
 
-
-
 **चतुर्थः परिच्छेदः।**
 
 **रसानामनुकूलो यो विकारोभाव एव सः।  
@@ -1842,8 +1819,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTY
 **इति श्रीमहाराजाधिराजश्रीकर्णसिंहकारिते मैथिलश्रीगङ्गानन्दकविराजविरचिते  
 कर्णभूषणे स्थायिभावविरूपणो नाम चतुर्थः परिच्छेदः।**  
 **———————————**
-
-
 
 ** ** अथ रसो निरूप्यते—
 
@@ -2603,19 +2578,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE2NzcwNTI3NTY
 **समाप्तं चैतत्कर्णभूषणम्।  
 **———————**
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
 

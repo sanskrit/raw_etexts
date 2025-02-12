@@ -16,21 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMyNDg5Nzg1NzU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **SUDDHA DHARMA MANDALA SERIES No.6(4.a) **
-
-
 
 **Sanatana Dharma Deepika**
 
@@ -63,8 +49,6 @@ PRINTED AT THE DIXON PRESS
 Copyright.\]                             
        \[Rupees, 1-8-0.
 
-
-
 ओं
 
 ओंनमः श्रीपरमर्षिभ्यो योगिभ्यः
@@ -83,11 +67,7 @@ SUDDHA DHARMA MANDALAM.
 
 भीं. श्रैं. र्स्त्रै. ओं—दासः
 
-
-
 [TABLE]
-
-
 
 **FOREWORD**
 
@@ -95,23 +75,15 @@ SUDDHA DHARMA MANDALAM.
 
  That this system was well-known and its excellence recognised even before the days of Sankara is clear from a passage in his commentary on the Mundaka Upanishat, where he refers to it, when he speaks of *"Suddha Dharma-Sanchita Nimittena Kena chit pardma Karunikena darsita Yoga Margha."* As explainad in *'Yoga Deepika',* treating of the subject of meditation, published a few years ago as one of the present Series, writers of this school of thought view the Godhead for purposes of meditation and worship in three aspects—Saguna, manifested in a definite form; Nirguna, immanent in everything, and Suddha, attributeless. By way of illustrating the nature of this last aspect of
 
-
-
 altogether to renounce the idea that such ceremonies and rites are necessary in their case, a notion to the contrary being nothing less than a superstition to be avoided by them. For, the only qualifications required of them are, as is well-known, (1) Discrimination between the real and the unreal; the Permanent and the Transitory (2) Desirelessness, in other words the habit of utter unselfish propensity in the whole course of their life and the performing of all actions falling to their lot free from any desire for fruit and as dutiess (3) Control over their body and mind; freedom from superstitions; tolerance of the beliefs and practices of others cheerfulness under all circumstances; one-pointedness towards their goal and confidence in the Divinity in themselves and the true spiritual Teacher; and (4) lastly, aspiration to unite with God and as a foundation for its realisation, such aspiration manifesting itself practically as brother liness and active helpfulness to every one for the obvious reason God is all love and Sacrifice and union with them necessarily implies such brotherliness and service even as the lowest step.
 
  Turning now to the large majority of people who do not belong to the limited class of aspirants dealt with above, but who wish to lead the ordinarily righteous life, it must be taken as undeniable that, in their case, ceremonies have a rightful place and utility for many a reason,
-
-
 
  Now in the first place, apart from the question of individual temperament which cannot be altogether overlooked in a matter Ifke this, it should not be forgotten that to those, who belong to what is known as the "Seventh Ray", in the language of the Theosophists, ceremonies are not only useful but essential; and it is to provide for the special needs of these Seventh Ray people that Masonic organisations have long existed under the guidance of the Heirarchy itself.
 
  Again looking at the matter generally, it is an established truth that rites and ceremonies, prescribed by competent authority and performed with knowledge and devotion, necessarily produce definite and highly benificial results though invisible to the mere physical sight of men. This is not a mere surmise of mine but a fact proven by the unimpeachable testimony of clairvoyants, now so accessible to all, who are willing to investigate the subject for themselves. In support of this statement, I beg to draw attention to a most remarkable work from the pen of the Right Reverend Bishop Leadbeater of the Liberal Catholic Church, Australia, recently published under the title of the Science of the Sacraments. The learned author shows, among many other things, that the mighty Founder of the Christian religion, established a magnificent system of daily public worship and ritual in the celebration of the holy Eucharist with the glorious object of eliciting Divine Grace
 
-
-
 and Benidiction throughout the neighbourhood of every church-building in Christendom. The author asserts he has himself seen with his clairvoyant vision at every performance of the Eucharist in Roman Catholic Chaples' Divine Grace pouring down, with indescribable splendour and brilliance, though nonclairvoyant members of the congregation are unable to perceive it. It remains to add that those, who care to study the vivid descriptions of the author in his work will gather therefrom, not only comprehensive knowledge of the great Christian soheme but also highly interesting and valuable information regarding a number of points common to Christian and Hindu ceremonial practices. I would just advert to a couple of extresmely wellknown yet telling instances by way of examples Take now the sipping of a little water three time. *(Achamana*) which is a necessary preliminary to the performance of every religious rite amongst us. This sipping. as all know, is followed by the performer touching with particular fingers of his, parts of his face, the eyes etc, then the two arms, next the naval (the region of. the Solar plexus) and lastly the top of the head (*Brahmarandhra*). accompanied, by the recitation of certain names of one or other of the aspects of the Diety in His character of the Trinity. The figure formed by such touching, as my erudite friend the late Swami Subba Rao ones pointed out to me, is the identical cross, the use whereof
-
-
 
 is nowhere more prominent than in connection with shristianity. According to the account given in "the Soience of the Saoraments," it is made over and over again by the priest celebrating the Eucharist, in the course of the ceremonial, over himself, the bread, the wine, the water and many other things used in and for the purposes of the ceremony. Those who wish to understand the true significance of the Cross we make as part of the *achamand* may profitably turn to the instructive observations of the author of the "Science of the Sacraments" as to why the Christian riest makes his crosses just alluded to.
 
@@ -119,13 +91,9 @@ is nowhere more prominent than in connection with shristianity. According to the
 
  Turning to the author, he writes:—The Sign of Power………………….the sign of the. Holy cross, has various aspecte as a symbol. The Greek cross, with equal arms signifies the Logos (*Iswara*) in activity..... the arm of the Lord out.
 
-
-
 stretched to help or to bless. The Latin cross with the longer stem typifies the second aspect of the Logos, the Second Person of the Blessed Trinity, God, the son, descended into matter (Vishnu).....when a man makes it (Cross) over himself, it is designed to promote self-recollectedness; to remind him of the name which it symbolises, and to help him to realise where that name is invoked, we trust no evil will ensue. It is a kind of meniature creed expressed in action instead of in Worda”. of in Worda'....(P. 55) "A man whose thoughts and feelings are always on the highest possible level may not need a reminder of this sort; but most of us are not yet perfect and therefore it is not wise to reject anything that can give us assistance. Most of us are wellintentioned but forgetful and anything that helps us to recollect the ideal and aids in driving away unwholesome thoughts and influences is benificial. We are not yet Saints ; we are still liable to be affected by waves of irrita. tion or selfishness or by undesirable thoughts. The sign of the cross made over ourselves, will draw round us unseen influences which will tend to drive away all that is un- pleasant and at the same time make it easier to retain what is good." (P. 56.)
 
  "To understand this power of the Sign of the Cross, we must realise that, as I have said, we are living in the midst of a vast host of other beings. Among these the sub-human
-
-
 
 creatures (or nature-spirits as they are sometimes called) are peculiarly susceptible to the influence of the signs of Power, of which the cross is one. Wherever that sign is made, it at once attracts the attention of all such creatures in the neighbourhood." (P. 56). The author goes on ;)point out that among these sub-human creatures some are at a stage which needs the higher vibrations, which wish us express good thoughts and feelings, while there are othera that enjoy and orave for only those coarser vibrations, which for us, express evil or passionate thoughts or feelings, and that the making of the sign of the cross attracts the former whilst it drives away the latter, thereby lessening the dis- advantageous pressure which these less developed nature spirits exert on those about them
 
@@ -133,13 +101,9 @@ creatures (or nature-spirits as they are sometimes called) are peculiarly suscep
 
  \* The following Verce from Trishikhi Brahmana Upanishad is in point: - तस्मादन्योन्यमाश्रित्य ह्योतं प्रोतमनुक्रमात्—which means 'Thus mutually inherent. (jagat) is in order cress-shaped.'
 
-
-
 words of Power, the following quotations from "the Science of the Sacraments" will be read with interest. "Those who have studied comparative religion are aware of the vast importance attached to names; they know that according to all ancient belief the name of a thing has a direct connection with it and can invoke it anywhere. It will be remembered that in the Egyptian 'Book of the Dead' the candidate journeying through the Hall of Amenti is. met by all kinds of entities, some of them terrible in character, who bar his way and demand to be identified. If properly instructed he promptly recognises them and says to each; "I know thes; so and so in thy name." Where-upon the obstructing dragon instantly subsides and the candidate passes triumphantly on his way. In this ancient system it is clear that to know the name of anything implied knowledge of its inmost nature, its powers and qualities. To the men of old, therefore, to command in the name or by the name of any manifestation of God was to draw upon the power of that manifestation."
 
  As to the Hindu-view of such potency of names I may draw the attention of English readers to the chapters entitled Varnamala' in Sir John Woodroff's "Sakti and Sakta" and the "Serpent Power" where the whole subject of Mantras will be found discussed and explained, with profound learning and citation of original authorities and where
-
-
 
 the Philosophical and Metaphysical foundations for this Hindu teaching are carefully examined.
 
@@ -147,11 +111,7 @@ the Philosophical and Metaphysical foundations for this Hindu teaching are caref
 
  \* Compare सवा एष पुरुषोऽन्नरसमयःof Titteraya Upanishad which means 'That Rurusha is verily the Food and the Juice.'
 
-
-
 author also explains that in enjoining the use of such articles of food in the great Eucharist Ceremony, Christ was follow. ing the example of the ancients who were in the habit of making food-offerings during worship, a means of attracting Divine Grace and Blessing. At page 182 of "the Science of the Sacraments", he observes:—"All through the ages it has been found necessary to combat man's materialism by strénuously insisting upon the reality of the ohange, which takes place when ordinary, everyday food is made into holy food, bearing with it a special and mighty potency." In concluding this subject, I may say that a great deal more might be urged in favour of the utility of ceremonies in connection with private worship and far more in our great temples which serve, though not as seats of the unique sơn. gregational worship established by the Christ, yet, as contres wherefrom Divine Grace radiates all round and is available to every worshipper to take in and assimilate according to the extent of his receptivity. It is unnecessary, however, to add anything more to what I have already stated beyond observing that many a person, who has risen above the need for the external aid of rites and is able to promote his own spiritual growth by the subjective method of meditation and contemplation is, nevertheless, known to observe ceremonies when he kinds that abstention by him from such a course is calculated to produce an injurious effect upon the
-
-
 
 minds of less advanced *Jeevas* within the sphere of his personal influence. And as might be expected such deference on the part of advanced aspirants to the feelings of others to whom ceremonies are still of use, has the sanction of the Gesta: Nabuddhi bhedam jana yet agnanam Karma Sanginam,"
 
@@ -159,21 +119,15 @@ minds of less advanced *Jeevas* within the sphere of his personal influence. And
 
  Now passing to the contents of the Fourth Patalam or Section, which among other topics lucidly explains the true import of such terme as Vidya, Shastra, and Kala, without a full understanding of which it is difficult to grasp clearly in its entirety the essentials of the ancient learning together with the revelation, it can be said that the portions in the Section bearing upon the important Samskara of marriage nesessarily arrest attention by reason of their inherent merit, I had occasion, some little time ago, to say a few words in regard to this subject. And it seems to me that I cannot do better than quote some of them here. I said;
 
-
-
  The pages bearing upon marriage are worthy of the most careful study by all, who wish to see salutary changes effected with regard to the prevalent customs connected with this Sacrament. Hamsa Yogi's disquisitions on the subject are marked by breadth of view and liberality of sentiment by the highest common sense and reason, whilst they are also supported by venerable scriptural authority. Hamsa Yogi does not flinch from questioning the rules laid down in authorities enjoying great popularity when those rules are prejudicial to the well-being of the community. Nowhere are the dignity of womanhood and the equality of the sexes more valiantly championed than they are by the Yogi in this book.
 
  Some allusion may here be made to one or two points taken by him. He emphatically lays down that the true object of marriage is the procreation of children by way on discharge of the duty owing to the Pitris as it is said, or in other words, of contributing towards the evolution of the species. In support of this position, .he chiefly relies on the pisode of Sakuntala in the Mahabharata, where that famous daughter of Rishi Kanva impresses upon Dushyanta the necessity of sanotifying the marital relation which the king proposed to enter into with her, by the performance of religious rites in order to ensure the birth of healthy and noble progany, the production of which is the sole aim and
-
-
 
 and of marriage. Starting with the above principle, Hamsa Yogi maintains that it is this test of progeny, subject to certain conditions which he defines, that is decisive of the question of the eligibility of a particular man or woman for remarriage. It follows. he argues, that women who have lost their husbands and are issueless are entitled to remarry and that the view that it is open only to a man whose wife is dead to contract a second marriage, is onesided and unjust. His final conclusion is that the prohibition of remarriage is equally applicable to both man and woman provided the true object of either in entering into the previous marriage has been attained by the birth of children as the result of such union.
 
  Next, his examination of the proper import of the term Pativrata is characterised by irresistible logicand is intend ed to absolve the wife, after the death of her husband, from those unjust obligations, which social conventions have imposed upon her by a misinterpretation of the term in question. His doctrine on this point is that the allegiance which & wife owed to her husband, continues to have force after his death, only when she has children by him and is thus a member of a subsisting family of his.
 
  An English rendering of this volume has been kindly un dertaken by M. R. By., T. L. Balakrishna Row B.A.,L.T.
-
-
 
 at Srivikuntum, who is himself a Dasa of Buddha Dharma Mandalam; the probable date of its publication will be announced duly.
 
@@ -183,15 +137,9 @@ at Srivikuntum, who is himself a Dasa of Buddha Dharma Mandalam; the probable da
 Guindy: Saidapet,                       S. SUBRAHMANYA IYER,  
 *30th November, 1921.*
 
-
-
-
-
 सनातनधर्मदीपिकादासाध्याये
 
 **तृतीयपटल विषयानुक्रमणिका॥**
-
-
 
     विषयाः
 
@@ -202,16 +150,12 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
  २. अथ हंसयोगिना-स्वाचार्यप्रणामपूर्वकं दासानामाह्निककथनप्रतिज्ञा, श्वेतकेतुविद्याधिकारिणां च दासानां त्रैविध्यम्, तेषां प्रत्येकं लक्षणम्, त्रिविधानां च तेषां सामान्यविशेषधर्मस्वरूपव्याख्यानम्, पूर्वपक्षसिद्धान्तनिरूपणपूर्वकं श्वेतकेतुविद्याधिकारस्वरूपम् तेषां च दासानां त्याज्योपादेयार्थस्वरूपम्, अशक्तानां च दासानां साङ्गस्य चाह्निकस्य स्वरूपम्, प्रोक्तानां त्रिविध्मनां च
 
-
-
 दासानां प्रत्येकमाह्निककथनप्रतिज्ञापूर्वकं गृहमेधिनो दासस्य च साङ्गमाह्निकम्, तेषां सामान्य-ध्याननिरूपणपूर्वकं गृहमेधिनो दासस्य विशेषध्यानस्वरूपम्, श्वेतुकेतु विद्यानां संख्याप्रतिपादनपूर्वकं यथाकालं तज्जपसंख्या, जपदिङिनयमः, तज्जपान्ते राजयोगस्यैव तदधिकारिसेव्यत्वेन मुख्यत्वं चेत्यादि सर्वं व्याख्यतम्।               ७—६८
 
 ३.अथ हंसयोगिसन्निधौ महर्षीणां साङ्गराजयोगप्रकारजिज्ञासा प्रतिपादिता। 
  ६९—७६
 
 ४.अथ हंसयोगिना—सर्वेषां च योगानां राजयोगप्रापकत्वं, ततो राजयोगस्य मुख्यत्वेन सर्वोत्तमत्वम्, भावना, कर्म, ध्यानम् इति त्रीणि च राजयोगाङ्गानि तेषां च प्रत्येकं लक्षम्, तत्र च द्वितीयस्य राजयोगाङ्गस्य च कर्मणो धर्मत्रयोपहितत्वम्, त्रयस्ते च धर्माः राजयोगाङ्गकर्मणः प्रणायामस्वरूप-त्वम्, तत्कर्माङ्गबीजस्वरूपम्, तथा ध्यानरवरूपम्तद्धयाननिष्पत्तिलक्षणाऽनुष्ठानम्, ध्येयवस्तुस्व-रूपम्, ध्येयवस्तुस्वरूपाऽनुरूपाणि च स्थानानि, ध्यानयोगिनां च तेषां यथाऽधिकारं प्राप्यस्थानस्य निर्णयः राजयोगस्य स्वभावः, राज-
-
-
 
 योगनामान्यन्वर्थानि सन्यासशुद्धस्यैव राजयोगाङ्गकर्मणः प्राशस्त्यम राजयोगिनां चातुर्विध्यं तथा तत्प्रमाणभूतभगवदु कराजविद्यागीतावाक्यानि प्रचीनहंसोक्त तद्रहस्यार्थः, उत्तमैरधिकारिभिः राजयोगस्यैवाऽनुष्ठेयत्वेन सेव्यत्वं तत्प्रमाणभूत भगवद्गीतावचनोपहितं च राजयोगमाहात्म्यं तत्प्रमाणभूतभगवद्वचनम्, राजयोगिनां स्वोपास्य वस्तुस्वरूपनिर्णयश्चेत्यादि सर्वं मङ्गलशान्तिवचनपूर्वकं सम्यगुपपादितं भवति।            
   ७७-१३३
@@ -222,8 +166,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 ६.अथ हंसयोगिना हि—प्रोक्तानां सर्वेषामधिकारिणां च राजयोगिनां खतुरीयाऽवस्थोचितस्थितिनि-श्चायकादेव केवलात्मविज्ञानाद्धि स्वप्राप्यत्रह्मसामीप्यरूपब्रह्मनिर्वाणस्य संजातत्वम्, ब्रह्मनिर्वाणिनां योगिनां च विभूतयः, एवं निर्वाणिनामेव नियताच शान्तिः, तुरीयात्मस्वरूपस्यैव यथाक्रमं समुपास्यत्वं च प्रगाणभूतभगवद्वाक्यसिद्धम्, राजयोगसिद्धिहेतवः, तत्सिद्धिफलम्, राजयोगशब्दार्थः, तत्र प्रमाणभूत भगवद्वाक्य निरूपणपर्वकं हि यो-                  
 
-
-
 गिनां सदृष्टान्तं स्वानुभवस्य व्याख्यानम, सप्रमाणभूतभगवद्वचन संपूर्णयोगस्याऽधिकारिण एव युक्तः, इति व्यवहार्यत्वं चेत्यादि सर्वं विस्तरेण प्रतिपादितम्।    १४१ - १६६
 
 ७.अथ च महर्षीणां राजयोग सेवाकालपरिमाणं तद्राजयोगिनां स्थितिः तद्राजयोगाभ्यास-कालान्तकर्तव्यकर्मस्वरूप चेति त्रयाणां जिज्ञासा प्रतिपादिता।  १६७ - १७०
@@ -233,24 +175,16 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 ९.अथ च पुनर्योगकालान्ते च महायज्ञस्य दाससेव्यत्वेन मुख्यत्वप्रतिपादनपूर्वकं तन्महायशस्य सामान्य च फलम्, कर्तव्यतन्महायशाङ्गश्च कालः, मत्तभेदेन तद्यज्ञाधिकारिनिर्णयः, साङ्गं
 
-
-
 समन्त्रं च तन्महायज्ञकल्पः, तत्महायज्ञस्य मुख्यं च विशेषफलम्, तद्यज्ञाङ्गद्रव्याणां सजीवनिर्जीवित्वभेदेन द्वैविध्यम, महच्च तद्यज्ञफलम् तद्यज्ञस्य चैकाक्षरविद्याग्रहणादारभ्य पण्मासकालं दासैश्च नियमेन कर्तव्यत्वम्, प्रत्यहं कियमाणस्य तद्यज्ञस्य फलम्, यज्ञस्यास्य, चाऽमावास्यादिषु पञ्चसु पर्वमु तद्दामैश्चाऽऽवश्यमxष्ठेयत्वम्, तद्यज्ञविशेषाधिकारिणः, इत्येतच्च सर्वं विस्तरेणं प्रतिपादितम्।  
 १८७ - २५२
 
 १०. अथ च हंसयोगिना दासानां माध्याह्निकसायाद्विकनिरूपणम्। २५३-२५५   
-                             
 
 ११. अथ च दासानां शयनविधिप्रतिपादनपूर्वकं हि शयनस्थानस्वरूपम्, शयनकालकर्तव्य कर्मस्वरूपम्, शय्यारवरूपम् शय्यास्थितेन च दासेनाऽनुसन्धेयानां च गायत्रीबीजमन्त्रकवचानां स्व- रूपम्, तदुक्त गायत्र्यादिजपफलम्, शयनकर्मप्रकाराः, सरस्वत्याः समये पुनः प्रबोधस्य विहितत्वम्, चेत्यादि सर्वं समीचीनं चाऽभिवर्णितम्।२५६-१७५       
-          
 
 १२. अथ मध्यमानां सन्यासिनां च दासानां यथाधर्ममाह्निककथनप्रतिज्ञापूर्वकं तद्धर्मव्याख्यानपूर्वकं
 
-
-
 च तेषां नियमाः तेषां प्रत्येकं लक्षणम्, तेषामाहारनियमे च क्षीरकल्पमधुकल्पयोगकल्पानां स्वरूपस्य व्याख्यानम्, सन्यासिनां च दासानां विशेषलक्षणम्, स्वस्वरूपाऽनुरूपान्नग्रहणे च मध्यमानां सन्यासिनां विशेषनियमः, मध्यमानां सन्यासप्रेप्सूनां च दासानां स्वरूपम्, तन्मध्यमानां च दासानां विशेषनियमः, मध्यमानां स्वस्त्रिया साकमपि सङ्गमे दोषः, तत्प्रायश्चित्तम, कलौ सन्यासिनां भिक्षाचरणस्य निषेधः, दासाश्रमपरशुद्धसन्यासप्रशंसा, सन्यासिनां सह च स्त्रिया सङ्गमे पातित्यम्, तस्य प्रायश्चित्ताभावः, मध्यमस्य च दासस्य साङ्गं चाह्निकम्, तदाह्निकाङ्गभूतप्राणा यामाभ्यासयोगस्वरूपम्, तस्य च योगब्रह्मविद्यावबोधितयोगमुख्याङ्गभूतत्वम्, तद्योगाङ्गभूत-प्राणायामस्यैव कर्मयोगस्वरूपत्वसमर्थनम्, साङ्गस्य तत्प्राणायामस्य च फलम्, पूरकादीनां प्राणायामकमङ्गानां च त्रयाणां प्रत्येकं सिद्धश्चार्थः, तद्विज्ञानप्रयोजनम्, तदधिकारिणः तेषां स्वरूपम्, तदुक्ताङ्गार्थप्रमाणतया च श्रीभगवद्गीतावचनानि, तदुक्तप्राणायामस्यैव यथाधिकारं च
-
-
 
 एवमभिवर्णितस्यास्य प्राणायामस्यैव यथानिर्दिष्टकालं यथाधिकारं यथाफलं च मध्यमदाससेव्यत्वम् सदृष्टान्तं मनोलयसंभवा समाधिश्च निर्वाणलक्षणा, प्राणायामप्रशंसा, मध्यमानां च राजयोगाभ्यासस्य प्राणायामादनन्तरमेवाऽनुष्ठेयत्वम्, प्राणायामकालाऽनुसन्धेय योगबीजस्वरूपम् योगगायत्रीस्वरूपम्, योगबीजानां योगगायत्त्रीणां च नियमेन मध्यमदासजप्यत्वम्, सफलं च जपस्वरूपम्, मध्यमसेव्योपस्थानप्रकारः, तदुपस्थानकाला ऽनुसन्धेयस्तोत्रं च सफलम्, शिष्टमाह्निकं चेत्यादि सर्वं प्रतिपादितम्—    २७६-४२२
 
@@ -260,8 +194,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 १४. अथ प्रथमं हि भगवतो हंसयोगिनश्च धर्मकेतुविद्याधिकारिणां च दासानामाहिककथनप्रतिज्ञा, ततो धर्मकेतुविद्यायाः स्त्रीमात्रसेव्यत्वम्, स्त्रीणां
 
-
-
 प्राशस्त्यम्, दासभूतानां च तासाम्'कन्या माता पत्नीं, इत्यवस्थाभेदेन हि त्रैविध्यम्तासां प्रत्येकं लक्षणम्, तत्र च कन्यायाः ब्राह्मकालकर्तव्यकर्मनिरूपणपूर्वकं साङ्गमाह्निकं च मोपस्थानम्, तदुपस्थानकालानुसन्धेयस्तोत्राणि, कन्यानां विशेषधर्मः कन्याकार्यं च समन्त्रमर्घ्यदानम्, कन्यानां देवप्रितिमादिपूजायाः कर्तव्यत्वेन विधानम्, कन्यानां पुण्यवृक्षप्रदक्षिणविधिः, ततः साङ्गं च मातृणामाह्निकम् धर्मतः सह च भत्र सङ्गतानां च मातृणां कर्तव्यत्वेन नियतं विशेषह्निकम्, तासामृतुकाले च तदुक्त द्विकस्य निषेध, तासामृतुस्नानदिनकर्तव्यकर्मस्वरूपम्, मातृृणां विशेषधर्मः, ततः पत्नीनां साङ्गं सविशेषधर्मं चाह्निकम् इत्यादि धर्मकेतुविद्याधिकारिसमधिगम्यं सर्वमपि हंसयो-  
 गिना प्रतिपादितम्।  ४७३ - ५७३
 
@@ -269,16 +201,12 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 १९. अथ हंसयोगिना—भद्रकेतुविद्यादीक्षायोग्याधिकारिणः, तेषां ब्राह्मकालकर्तव्यकर्मनिरूपण-पर्वकं चाह्निकम् भद्रकेतविद्याजात्पर्व परमपि
 
-
-
 यथाधिकारं ध्यानस्य कर्तव्यत्वेन नियतत्वम्, तद्धयानयोर्लक्षणम्, तत्र शुद्धध्यानस्यैव राजयो-गाङ्गत्वम्, तद्विद्याजपलक्षणम्, तज्जपसंख्या, जपमालास्वरूपम्, भद्रकेतुविद्याधिकारिणां स-ध्यानजपमात्रस्यैव सेव्यत्वेन मुख्यत्वम्, तेषां च दासानां विशेषमाह्निकं च सोपस्थानम्, इत्यादि भद्रकेतुविद्याधिकारिसमधिगम्यं सर्वमपि व्यास्यातम्।          
  ५७४-६०५
 
 **॥ अथ तृतीयं वामदेवविद्याधिकरणम् ॥**
 
 २५. अथ च प्रथमं हंसयोगिना वामदेवविद्याधिकारिणामाह्निककथनप्रतिज्ञा, ततस्तेषां ब्राह्मकाल-कर्तव्यकर्मनिरूपणपूर्वक मर्घ्यदानान्तं चान्हिकम्, वामदेव विद्याजपाङ्गभूतध्यानस्वरूपम् तज्जप-संख्यां, जपमालास्वरूपम्, • जपान्तकालकर्तव्यध्यानस्वरूपम्, ध्यानकालप्रमाणम्. वामदेव-विद्याधिकारिणां यथाधिकारं विशेषनियमः, यथानियताधिकारमान्हिकं च सोपस्थानम्, उपस्थानान्ते च दासपूज्ययोगदेवीयन्त्र स्वरूपनिरूपणपूर्वकं तद्यन्त्रपूजाविधानम्, तत्पूजान्तकाल-
-
-
 
 जप्यस्तवः, वामदेवविद्याधिकारिकर्तव्यतर्पणं चेत्यादिकं सर्व समञ्जसमाख्यातम्। ६०६-६३६
 
@@ -292,8 +220,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 ६६१–६६५
 
 २८. अथ हंसयोगिना—पर्वकालस्वरूपम्, तस्य च दर्शादिभेदेन पञ्चविधत्वम्, तत्र च दर्शस्वरूपम्, दर्शशब्दरहस्यार्थः, अमावास्या सिनीवाली कुहूः इति दर्शस्य त्रयो भेदाः, तत्र अमावास्यायाः स्वरूपम्, अमावास्यायां पितृकर्मयोग्यपुण्यकालः, पितृकर्मणः पुण्यस्थानानि, पितृतर्पणस्वरूपम्, तत्र च पितृकर्मोपयोगिपदार्थस्वरूपम्, पितृतर्पणकाले चाधिकारिणो ऽङ्गसन्नि-
-
-
 
  वेशप्रकारः, पितृतर्पणदिनियमः समन्त्रकं पितृतर्पणप्रकारः, पितृतर्पणावसाने च दासकर्तव्य-  
  स्तवः, पितृतर्पणोपस्थानम्, इत्यादिकममावास्याकार्यं च सर्बव्याख्यातम्।   ६६६–७५९
@@ -309,10 +235,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 ३२. अतश्च हंसयोगिना—पूर्णायां च पूर्णमास्याम्—विद्यार्थिनः पुत्रार्थिनः ज्ञानिसन्यासियोगिनः,
 
-
-
-
-
 भक्ताः, इति प्रसिद्धदासैश्च क्रमेण—सारस्वतयज्ञस्य पयोव्रतस्य ब्राह्मयज्ञस्य देवीयज्ञस्य च कर्तव्यत्वेन विधानम्, सर्वसेव्यत्वेन देवीयज्ञस्य सर्वतः श्रेष्ठ्यम्, ततश्च यथाधिकारं यथाकाले यथाकामं च सारस्वतयज्ञादिविधानं च साङ्गं विस्तरेण प्रतिपादितं भवति।  ७९६ – ९१३
 
 ३३.अथ च हंसयोगिना—शुक्रवासरपर्वमहिमा, शुक्रवासरपर्वस्वरूपम्, शुक्रोपासनास्वरूपम्, उक्तानांच सर्वेषां यज्ञानां यथाधिकारं शुक्रवासरपर्वणि कर्तव्यत्वेन विधानम्, तत्र च यथाकामं कर्तव्ययज्ञकालनियमः, तत्र स्त्रीणां विशेषनियमः इत्यादि सर्वं विस्तरेण व्याख्यातम्।  ९१४ - ९३१
@@ -321,16 +243,12 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 ३५. अथ च हंसवोगिना—तिथिपर्वमहिमा, तिथिचक्रस्वरूपम्, तत्र च यथाकामं यज्ञानामभिवर्णितानां च दाससेव्यत्वम्, तिथिचक्रभेदाश्चेत्यादिकं व्याख्यातम्। ९३९ - ९४५
 
-
-
 ३६.अथ च हंसयोगिना—तदुक्तेषु च पञ्चसु पर्वसु सर्वदासंसेव्यसामान्ययज्ञविधानम्, यथाकल्पे तस्य स्वरूपम्, तदुक्तयज्ञानधिकारिणां स्वरूपम्, श्रद्धाया एव यज्ञाधिकारलक्षणत्वं चेत्यादिकं विशेषतो व्याख्यातम्। ९४६ – ९८२
 
 ३७.अथ महर्षीणां शान्तिकर्मप्रश्नाः।   ९८३-१८९
 
 ३८.ततो हंसयोगिना—रोगार्तानां शान्तिकर्म च यथाविधि, दासैश्च सर्वैर्मुख्यावधेयधर्मः, इत्यादिकं सशान्तिमङ्गलवचनं च समुपदिष्टम्। 
 ९९० - १०००
-
-
 
 **इति तृतीयपटलविषयानुक्रमणिका।**
 
@@ -342,8 +260,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 २.ततक्ष हंसयोगिना स्वप्रभावप्रतिपादनपूर्वकं हि— चतुर्णा व्यवसायानां चैकदेहाऽधिकरणत्वेन सा-
 
-
-
 म्यम्, अधिकारिणां च सर्वेषां शुद्धाधिकारिणो लक्षणम्, चतुर्णां व्यवसायानां च क्रमः, व्यवसायानां च चतुर्णां भेदेऽपि तदात्मस्वभावतः समत्वम्, ज्ञानादीनां च त्रयाणां व्यवसायानामुपक्रमोपसंहारयोश्च योगमूलत्वम्, योगस्य श्रैष्ठ्यनिरूपणपूर्व योगलक्षणम्, व्यवसायानां च सर्वेषां सहेतुकं शुद्धत्वाऽशुद्धत्वयोश्चनिरूपणम्, विशुद्ध व्यवसायिनां स्वरूपम्, महात्मनां च शिक्षायाः स्वरूपम्, इति च सर्वं प्रतिपादितम्। 
 ८-२७
 
@@ -351,15 +267,11 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 ४. ततश्च भगवच्छास्त्रम्, देवशास्त्रम्, देवशास्त्रम्, आर्षशास्त्रम्, योगशास्त्रम्, इति शास्त्राणां चत्वारो भेदाः, तत्र भगवच्छास्त्रस्वरूपम्, तत्र प्रमाणत्वेन भगवद्गीतावचनम्, भगवच्छन्दार्थः, भगवच्छास्त्र पर्यायनामानि भगवच्छास्त्रप्रवर्तकानां स्वरूपम्, इति च सर्व विस्तरेण प्रतिपादितम्।  ३८-५५
 
-
-
 ५.ततश्चदेवशास्त्रस्वरूपम्, यथादेशं यथाकालं देवशास्त्रस्य चाऽनेकरूपत्वम्, देवशास्त्रपर्याय- नामानि देवशास्त्रप्रवर्तकाचार्यनामानि मतभेदेन देवशास्त्रनामानि तदाचार्य नामानि च, इत्यादि सरहस्यं प्रतिपादितम्।   ५६–७४
 
 ६.ततश्च—आर्षशास्त्रस्वरूपम्, श्रीरामायणस्या ऽऽर्षशास्त्रस्वरूपत्वसमर्थनम् आर्षशास्त्रप्रवर्त-काचार्यस्वरूपम्, एवं व्याख्यातानां च त्रयाणां भगवच्छास्त्रादीनां प्रत्येकं पञ्च भेदाः, तेषामधि-करणमिति संज्ञा, इति च सर्वं विस्तरेण प्रतिपादितम्। ७५-८४
 
 ७.ततश्च योगशास्त्रस्वरूपम्, योगशास्त्राधिकारिणः, मतभेदेन तद्योगशास्त्रस्वरूपम्, महाभारतस्य योगशास्त्रत्वसमर्थनम्, योगशास्त्रस्यैव सर्वशास्त्रजीवभूतत्वम्, योगशास्त्राचार्यपरंपरा स्वरूपम्, योगशास्त्रप्रवर्तकाचार्य स्वरूपम्, योगशास्त्राधिकारिलक्षणम्, तदुक्तानां च शास्त्राणां चतुणां प्रत्येकं चत्वारो भेदाः, पुनस्तेषां प्रत्येकं पञ्चभेदेनाऽशीतिभेदाः, शास्त्रविदां प्रयोजनम्, इति च सर्वं विस्तरेण व्याख्यातम्।   ८५-११७
-
-
 
 ८.अथ महर्षीणां शास्त्रभेदव्याख्यानप्रश्नाः।   ११८-११९
 
@@ -369,16 +281,12 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 ११. ततश्चअधिलोकादिपञ्चशास्त्रभेदानां यथाक्रमं लक्षणम्, शास्त्रविभागविज्ञानावश्यकत्वं चेति सर्वं प्रतिपादितम्।   १६० -१६६
 
-
-
 १२.अथ महर्षीणां विद्यास्वरूपजिज्ञासाप्रश्नाः १६७ – १६८
 
 १३.ततश्च हंसयोगिना—विद्यास्वरूपव्याख्यानप्रतिज्ञापूर्वकं सामान्यतो विद्यालक्षणम्, तस्याश्च परा, अपरा चेति द्वैविध्यम्, तदर्थः, प्रणवस्यैव समष्टिव्यष्टिस्वरूपस्य परविद्यात्वम्, परविद्यायाश्चैकत्वम्, अपरविद्यायाश्चतुर्दशप्रकाराः, तेषां नाम्नां च स्वरूपम्, शारदमते योगेतिहासयोरपरविद्यात्वेन प्रतिपादनाञ्च अपविद्यायाः षोडशप्रकारकत्वम्, महाचार्यमते चापराया विद्याया द्वात्रिंशत्संख्या- प्रकारकत्वम्, वस्तुतस्तु विद्योभेदानामनन्तत्वम्, शास्त्राणां यथा वा ह्यधिलोकादिपञ्चभेदाः, तथा विद्यानामपि पञ्च भेदाः, इति च सर्व विस्तरेण प्रतिपादितम्। १६९ – १८४
 
 १४.ततश्च ब्रह्मणः शक्तिस्वरूपत्वम्, तस्य च सगुणं निर्गुणं शुद्धं चेति त्र्यविद्याम्, तत्र च सगुणस्य ब्रह्मणो ह्मपरविद्याभिवर्णितत्वम्, अपरविद्यायाश्च प्राकृतप्रवृत्तिधर्मपरत्वम्, तावता च तस्या स्त्याज्य- त्वम्, निर्गुणस्य च ब्रह्मणः अपरमविद्यावधेयत्वम्, अपरमविद्यायाश्च जगन्मिथ्यात्व प्रतिपादनपरत्वम्, साधनज्ञानाऽप्रतिपादनाच्च
 तस्यास्त्याज्यत्वम्,
-
-
 
 तस्याश्च व्यष्टिप्रणवस्वरूपत्वम्, सर्वासां चोपनिषदां सामान्यतो व्यष्टिप्रणवार्थव्याख्यानपरत्वम्, शुद्धस्य च ब्रह्मणः परमविद्याऽभिवर्णितत्वम्, तस्याः समष्टिप्रणवस्वरूपत्वम्, परमविद्याशिक्षायाः प्राशस्त्यम्, तस्याश्च योगब्रह्मविद्यास्वरूपत्वम्, गायत्रीमहावाक्ययोश्च परमविद्याव्याख्यानपरत्वम्, तदुक्तस्य सर्वस्य च ज्ञानिभिरध्यात्मदृष्टयैव विज्ञेयत्वम्, तत एव विद्यायाः सामान्यतश्चैव त्रयो भेदाः, इति च सर्वं प्रतिपादितम्    १८५–२०९
 
@@ -388,15 +296,11 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 १७.अथ महर्षीणां कलास्वरूपजिज्ञासा प्रश्नाः   २६२-१६३
 
-
-
 १८.अथ च हंसयोगिना—कलास्वरूपम्, कलाविज्ञानस्य मुख्यत्वम्, कलानां संख्यानिर्णयः, शास्त्राणां विद्यानां कलानां च सामान्यतो दर्शनम्, इति संज्ञा, तेषां संस्कार विज्ञानजनकत्वं चेत्यादि सर्वं विस्तरेण व्याख्यातम्।  २६४ – २८३
 
 १९. अथ महर्षीणां संस्कारस्वरूपस्य जिज्ञासा च ससङ्गति प्रतिपादिता। २८४-२९०
 
 २०. अथ च हंसयोगिना स्वाचार्यप्रणामपूर्विका संस्कारस्वरूपव्याख्यानप्रतिज्ञा, ततश्च कर्मणां परप्राप्तिसाधनत्वेनैव कर्तव्यत्वेन विधानम्, अधिकारकर्मणोश्च परस्परं लक्षणत्वम्, विद्याभ्यासः विवाहः मरणं चेति तत्कर्मणां त्रैविध्यम्, मतभेदेन संस्कारलक्षणव्याख्यानम्, संस्कारेणैव कर्मणां प्रशस्तफलप्रापकत्वम्, यथाधिकारं हि तत्तदीप्सितफलप्रतिबन्धक दोषनिवर्तकत्वेनैव संस्काराणां शोधकत्वम्, शुद्धात्मशक्तिसंपतेरेव सर्वसंस्कारपरमप्रयोजनत्वम्, संस्काराणामनन्तत्वेऽपि मुख्यत्वेन 'प्राकृतः आत्मीयः ब्राह्मश्चेति, त्रैविध्यस्यैव समर्थनम्, तदुक्तानां च त्रयाणां संस्काराणां यथाक्रमं हि 'प्राकृतदर्शनं आत्मद
-
-
 
 र्शनं शुद्धदर्शनं चेति, त्रिभिश्चदर्शनैर्विहितत्वम्, तेषां च प्राकृतादिदर्शनानां लक्षणम्, तदुक्तसं- स्काराणां प्राकृतदोषनिवर्तकत्वेनैव विहितत्वम्, संस्कारकालः, तस्य च यथाधिकारं यथास्वरूपं च निर्णेयत्वम् अधिकारिणां स्वरूपाऽननुरूपं कालविधाने च तत्संस्कार प्रयोजनाभावः, कलौ युगे च संस्कार कालनियमाभावः, यथायुगं यथाधिकारं च संस्कारकालस्य संस्कारसाधनानां च शास्त्रवचसैव निर्णेयत्वम्, तदुक्तानां त्रयाणां च कर्मणामधिकारिणो लक्षण चेति सर्वं विस्तरेण व्याख्यातम्।    २९१-३३१
 
@@ -405,8 +309,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 २२.अथ च हंसयोगिना—प्रथमविद्याभ्यासाख्यकर्मणश्चोपनयनसंस्कारोपलक्षितत्वम्, तदुपनयनसंस्कारस्य च 'गर्भाधानं जनन अन्नप्राशनम्, इत्यङ्गत्रयोपहितत्वम्, गर्भादानादीनां च त्रयाणां कर्तुश्च स्वरूपम्, तत्र गर्भाधानकर्मणो लक्षणम्, तत्कर्मोपहितसंस्कारस्याऽपि गर्भाधानमिति संज्ञा,
 
-
-
 सर्वेषां च प्राणिनां गर्भाधानादिकर्मणां स्वाभाविकत्वम्, स्वाभाविकानामपि तेषां बीजदोषक्षयायैव तत्संस्काराणां च विहितत्वम्, तद्वीजशुद्धिप्रयोजनम्, शुद्धगर्भाणां स्वरूपम् तेषां व्यवसायस्य प्राशस्त्यम्, गर्भाधानाख्यस्य हि कर्मणः संस्कारस्य च ' दैवं आर्षं मानुषं चेति त्रैविव्यम्, त्रिविधानां च तेषां सोदाहरणं सरहस्यार्थं च लक्षणम्, दुष्टगर्भाणां संस्कारस्य वैकल्यम्, शुद्धगर्भाणामेव महत्वम्, इत्यादिकं च विस्तरेण व्याख्यातम्।   ३३४-३७५
 
 २३.ततश्च भगवदुक्तगर्भाधानसंस्काररहस्यार्थः, तत्रच स्थानाऽर्थकर्तृदोषशोधकत्वेन गर्भाधानसंस्कारस्य त्रैविध्यम्, स्थानशुद्धयर्थकस्य अर्थशुद्धयर्थकस्य कर्तृशुद्धर्यकस्य च तस्य गर्भाधानसंस्कारस्य यथाक्रमं लक्षणम्, शुद्धस्याऽस्य संस्कारस्य प्रयोजनम्, तच्छुद्धेश्चत्रैविध्यम्, ततश्च संस्कारस्याऽधिकारिणामनधिकारिणां च लक्षणम्, स्थानार्थ कर्तशुद्ध्यर्थकानां संस्काराणां कालः इति च सर्वं प्रतिपादितम्।      ३७६ -४००
@@ -414,8 +316,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 १४.ततश्च सरहस्यार्थश्च स्थानशुद्धयर्थकगर्भाधानसंस्कारप्रयोगकल्पः विस्तरेण प्रतिपादितः।
 
 ४०१–४५२
-
-
 
 २५. ततश्च अर्थशुद्धयर्थंकगर्भाधान संस्कार प्रयोगकल्प व पुंसवनलक्षणः स रहस्यार्थं विस्तरेण प्रतिपादितः।   ४५३-५०८
 
@@ -429,8 +329,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 २९. ततश्चैवमङ्गत्रयोपेतस्य च विद्याभ्यासाख्यकर्मणस्त्रैविध्यम्, अक्षराभ्यासः धर्मविद्याभ्यासः अर्थविद्याभ्यासः, इति च तद्विद्याभ्यासत्रैविध्यम्, विद्याभ्यासकर्माङ्गसंस्कारस्य चोपनयनाख्यत्वम्, तस्य च प्राकृतादिभेदेन त्रैविध्यम्, तदुपनयनशब्दार्थः तदभिवर्णितोपनयनानां प्रयोजनम्‚अक्षराभ्यास कमीङ्गोपनयन संस्कार प्रयोगकल्पः, ध-
 
-
-
 र्माभ्यासाऽर्थाभ्यासकर्माङ्गोपनयनसंस्कार प्रयोगकल्पश्च इति प्राकृतसंस्काररूपं च सर्व विस्तरेण प्रतिपादितम्।     ६७७-७५४
 
 ३०. ततश्च आत्मीयोपनयनसंस्कारकल्पश्च साङ्गः तथोपनीतानां चाधिकारिणां नियताश्च पञ्च धर्माः, इत्यादिकं सर्व समीचीनं व्याख्यातम्।   ७५५-८८२
@@ -438,8 +336,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 ३१. ततश्च ब्राह्मोपनयनस्वरूपम्‚ ब्राह्मोपनयनस्य सर्वाधिकारिसेव्यत्वम्, ब्राह्मोपनयनदीक्षाचार्याः, तद्दीक्षाफलम्‚ इत्यादिकं सर्वं संग्रहेण प्रतिपादितम्।  ८८३-८९३
 
 ३२. अथ विवाहः—तत्र विवाहस्य प्राकृतादिभेदेन त्रैविध्यम्, पुनश्च तस्य ब्राह्मादिभेदेन चातुर्विध्यम्, ब्राह्मादीनां चतुर्णां च विवाहानां संप्रहेण स्वरूपम्, प्राकृतब्राह्मोद्वाहधर्मस्वरूपम्, आत्मीयब्राह्मोद्वाहधर्मस्वरूपम्, शुद्धब्राह्मोद्वाहधर्मस्वरूपम्, ब्राह्मोद्वाहस्यैव सर्वतः श्रेष्ठ्यं उद्वाहेऽस्मिंश्च कन्यावरयोः स्वरूपम् तत्त द्विवाहयोग्याधिकारिणः सामान्यं विशेषं च फलम्. दंपतीनां च नियता धर्माः। गान्धर्वविवाहस्वरूपम्, तस्यापि ब्राह्मत्वसमर्थनम् विवाहानां
-
-
 
 च सर्वेषां मन्त्र संस्कारस्य मुख्यत्वस्य सप्रमाणं प्रतिपादनम् उद्वाहशब्दरहस्यार्थः, राक्षसोद्वाह- स्वरूपम् तस्यापि ब्राह्मत्वसमर्थनम् निषिद्धा विवाहाः, इत्यादिकं व्याख्यातम्।  ८९४-९०३२
 
@@ -449,8 +345,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 ३४. अथ प्राजापत्यविवाहः—'तत्र च प्राजापत्यविवाहाधिकारिधर्माः प्राजापत्यस्वरूपम्, प्राजापत्ययोग्या स्त्रियः तद्विशेषस्वरूपव्याख्यानम्, तत्र, शुद्धाभिप्रायः पुनश्च तेषां च चतुर्णां विवा- हानां संग्रहेण लक्षणम् तद्विवाहानां प्रवर्तकाचार्याः, तद्विवाहजीवभूतधर्मीः सर्वेषां चैषां विवाहानां धर्म्यत्वम्, इत्यादिकं सप्रमाणं व्याख्यातम्।     
 ११४६ - ११७८
-
-
 
 ३५. अथ च निषिद्धविवाहस्वरूपम्, पित्रोश्च निषिद्धविवाहजातपुत्रैर्हि पैतृकऋणनिर्मोकाभावः, तथा जातानां तत्पितृदायप्राप्तियोग्यत्वं चेत्यादिकमुक्तम्।    ११७९ - ११८८
 
@@ -468,8 +362,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इति चतुर्थपटलविषयानुक्रमणिका।**
 
-
-
 नमः श्रीपरमर्षिभ्यो योगिभ्यः।
 
 **उपोद्धातः॥**
@@ -482,19 +374,13 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
  यद्यप्यत्र प्रतिपादितगर्भाधानादिसंस्कारेषु केषां चित्प्रयोगकल्पश्च न त्रिस्तरेण व्याख्यातः, तथापि शुद्धार्थसंप्रदायसिद्धगौतमीयप्रयोगकल्पे च सोऽयं विशेषतो व्याख्यातो भवति, तस्मा-
 
-
-
 देव "अनुक्तमन्यतोग्राह्यम्" इति न्यायमनुसृत्य सर्वं विज्ञेयं भवति। किं च गर्भादानादिसंस्कारेषु दासानां प्रत्येकं विहितेष्वाह्निकेषु च‚ वेद्यार्थामन्त्राश्च‚ तत्र तत्र ह्यधस्तादेवास्माऽभिः संप्रदर्शिता भवन्ति। तथा प्रतिपादितं सर्वमपि सनातनधर्मदीपिकाया विद्याध्यायादिषु, अन्यस्मिन्शुद्धशास्त्रेषु विद्यमानमेवेति सविनयमावेद्यते। विशेषतः संस्कारव्याख्यानपरो गौतमप्रयोगकल्पश्चापि यथाकालं शुद्धार्यानुग्रहेण मुद्रितः प्रकाशितश्च भविष्यति।
 
  अस्य च सनातनधर्मदीपिका द्वितीयभागस्य आङ्गलभाषाब्याख्यानमपि, तञ्जानगराभिजनेनास्मन्मित्रवरेण श्रीमता शुद्धार्यदासभूतेन च-टि-यल्, बालकृष्णरायशर्मणा विशेषतः स्वरूपानुरूपया भक्त्या श्रद्धया च विलिख्यते। तदापि चाचिरेण संपूर्णं मुद्रितं प्रकाशितं च भविष्यति, इत्यपि सप्रमोदं विज्ञाप्यते।
 
  ये च वा श्रीमन्तः शुद्धार्यदासाः, अन्ये च शुद्धधर्ममण्डलविद्याप्रचाराभिलाषिणो महाभागाः, सनातनधर्मदीपिकाद्वितीयभागमुद्रणे, तदन्यशुद्धधर्ममण्डलदिव्यप्रबन्धमुद्रणे च स्वविशुद्धद्रव्यदानेनोपा- कुर्वन्' तेभ्यो महाभागेभ्यश्चाऽयं सनातनधर्मदीपिका द्वितीयभागश्च प्रथमं हि सबहुमानं सकार्तज्ञं च समर्प्यते। अनेन हि शुद्धायदा सास्तदन्ये च सज्जनाः पश्यन्ति' सर्वधर्ममूलं सनातनं धर्मं च सर्वत्र यथाबुद्धिविभवम् इति विदितमेव। अतः सादरमयं दिव्यः प्रबन्धश्च भवद्भिः स्वीकार्य एक, इत्यभ्यर्थ्यते।
 
-
-
  इतः परं हि सनातनधर्मदीपिकायास्तृतीयभागश्च पञ्चमषष्ठसप्तमाष्टमपटलात्मको मुद्रितः प्रकाशितश्च भविष्यति। तत्र च प्रतिपादिता विषयाश्च बुभुत्सुबोधार्थमित्थं संग्रहेणात्र प्रतिपाद्यन्ते—पञ्चमे पटले च 'युगेषु कलियुगस्यैव विशेषतो गौरवम्' अवश्यमेव दासवेद्या धर्माश्च परिशिष्टाः, योगदेव दीक्षा दिसप्तमहार्दीक्षास्वरूपम्, तद्दीक्षायोग्यशिष्याधिकारिणां लक्षणम्, तद्दीक्षाचार्याणां स्वरूपम्, तद्दीक्षाणां प्रयोजनम्, तथा दीक्षितानां प्रत्येकं संप्रहेणाह्निकम् ध्यानस्वरूपम्, तस्य त्रैविध्यम्, तस्यैव मुख्यत्वेन दाससेव्यत्वम्, ध्यानफलम्, ततश्चाङ्गिरसटंकाचार्यसंवादे—हंसाधिकारिणां स्वरूपम्, तथैव सिद्धानां महात्मनां सप्तर्षीणां मनून चतुर्णां च स्वरूपम्, ज्ञानिनां भक्तानां कर्मठानां योगिनां च स्वरूपम्, व्यासाधिकारनिरूपणम् ऋषीणां स्वरूपं च इत्यादिकं विस्तरेण हंसयोगिना व्याख्यातम्। ततश्च षष्ठे पटले ‛प्रथमं नारदराहुसंवादः—तत्र च लोकाधिकारिणां विद्याधिकारिणां च स्वरूपम्, हंसस्थानस्वरूपम्, उपासनापरब्रह्मविद्यास्वरूपं तद्भेदाः, संसारविद्यास्त्ररूपं तद्भेदाः, वेदवेदाङ्गानां रहस्यार्थश्च इत्यादिकं विस्तरेण हसयोगिना व्याख्यातम्। ततः सप्तमे पटले च ' प्रथमं नारदचर्भटिसिद्धसवादः—तत्र च यथाकालं यथालोकं यथादेशं च सर्वविद्यानां परिणामः, सामान्यं च धर्मरहस्यम्, महाभारतस्वरूपम्, तत्प्रतिपाद्यधर्मरहस्यम् वर्णाश्रमधर्माः, ततश्च नारदराहुसंवादः—तत्र च योगब्रह्मविद्यास्वरूपायाः श्रीभगवद्गीतायास्तत्त्वार्थस्य निरू-
-
-
 
 पणं च, इत्यादिकं हंसयोगिना विस्तरेण व्याख्यातं भवति। ततश्चाष्टमे पटले 'रामायणस्वरूपम्, रामायण प्रतिपाद्यधर्मरहस्यम्आर्षगीता, तस्यास्तत्त्वार्थनिरूपणं च इत्यादिकं विस्तरेण हंसयोगिना व्याख्यातम् इति। अयं तृतीयभागश्चापि 'दासाभ्युदयपरधर्मबोधकत्वेन सादरं विचार्य एव भवत्यधिकारिभिरित्यस्य मुद्रणे शुद्धार्यनियोगेनास्माकं प्रवृत्तिः समजनि।
 
@@ -505,10 +391,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इत्थं शुद्धार्थदाः**
 
 **पण्डित-के-टि- श्रीनिवासाचार्यः-**
-
-
-
-
 
 ![](../books_images/U-IMG-1731656265ू.jpg)
 
@@ -533,8 +415,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **शुद्धाचार्यसंप्रदायसिद्धं तच्छास्त्रसंमतम्।  
 उत्तमं सुकरं चैव परप्राप्तिसुसाधनम्॥४॥**
-
-
 
 **बालस्त्रीवृद्धसंसेव्यं स्वात्मशक्तिप्रकाशकम्।  
 आह्निकं यश्चदासानां चित्तशान्तिकरं प्रभो॥५॥**
@@ -564,8 +444,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **आजन्मब्रह्मचर्याश्च जटिनश्चैव मुण्डिनः।  
 सत्यव्रताः पण्डिताश्च दृढाङ्गाः शान्तमानसाः॥१३॥**
-
-
 
 **तृतीयपटलम्।**
 
@@ -599,8 +477,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **लोकदुःखाऽसहिष्णुत्वं चार्तसंरक्षणे रतिः।  
 तेषामेव श्वेतकेतुदीक्षा मुख्येति गीयते॥२३॥**
 
-
-
 **शुद्धधर्मेऽपि दिव्येऽस्मिन्निदं पश्यत योगिनः।  
 श्वेतकेतोर्विद्यया यः संस्कारो विहितो भवेत्॥ २४ ॥**
 
@@ -629,8 +505,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **कलिकाले तु यत्नेन सर्वेषां योग्यता भवेत्।  
 स यत्नश्चैव कर्तव्यो ह्यत्तमैरधिकारिभिः॥ ३२ ॥**
-
-
 
 **ब्राह्मकाले तु दासानामुक्तानां वै महर्षयः।  
 इत्थं हि त्याज्योपादेयकर्म वक्ष्यामि सांप्रतम्॥ ३३ ॥**
@@ -664,8 +538,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 [^2]: "पल्लवः, नमः इति शब्दः।"
 
-
-
 **तथा चाष्टाक्षरेणाऽपि तथा पञ्चाक्षरेण च।  
 हिरण्यगर्भमन्त्रेण सिद्धमन्त्रेण वा पुनः॥ ४३ ॥**
 
@@ -695,8 +567,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **उपासे शुद्धविज्ञानं शुद्धज्योतिस्स्वरूपिणम्।  
 शुद्धसत्त्वमण्डलस्थमीश्वरं तं सनातनम्॥ ५२ ॥**
-
-
 
 **प्रपन्नपारिजाताय योगश्रीदण्डधारिणे।  
 योगदेवीसनाथाय योगमुद्राय योगिने॥ ५३ ॥**
@@ -728,8 +598,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **यथादेशं यथाकालं जपसंख्याऽस्ति कीर्तिता।  
 विद्यानां चैव सर्वासां चेति नारदभाषितम्॥ ६२**
 
-
-
 **षट्संख्यया जपस्तत्र नियतः परिकीर्तितः।  
 सायं प्रातर्जपो नित्यो मध्यान्हे पाक्षिको मतः॥ ६३ ॥**
 
@@ -759,8 +627,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **ततो योगप्रकारं हि यथावद्धुक्तुमर्हति।  
 योग एव हि विज्ञेयो भवेद्दालजनैः प्रभो॥ ७१ ॥**
 
-
-
 **विषयेषु प्रविष्टानामिन्द्रियाणां मुनीश्वर।  
 निप्रहो योग इत्युक्तः कैश्चिदत्र महर्षिभिः॥ ७२ ॥**
 
@@ -789,8 +655,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **भावनापूर्वकश्चैव राजयोग इतीर्यते।  
 भावना कर्म च ध्यानं चेत्यङ्गानि स्वराणि च॥ ८० ॥**
-
-
 
 **त्रीणि स्युरस्य योगस्य नियतानि परस्परम्।  
 तेषां त्रयाणामङ्गानां भावना प्रथमा भवेत्॥ ८१ ॥**
@@ -822,8 +686,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **तथा योगब्रह्मविद्याऽभ्ययनं विहितं भवेत्।  
 एवं सद्वाससङ्गोऽपि भावनासाधनं भवेत्॥ ९० ॥**
 
-
-
 **शुद्धधर्ममण्डलार्यमहानुग्रह एव च।  
 तद्भावनायाः शुद्धायाः परमं साधनं भवेत्॥ ९१ ॥**
 
@@ -853,8 +715,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **नियमोऽत्र त्रिधा चैव पञ्चधा सप्तधा भवेत्।  
 एवं यथासुखं चैव प्राणायामं समाचरेत्॥ १०० ॥**
-
-
 
 **एवं कर्मपराणां च दासानां नियतात्मनाम्।  
 स्वकर्माङ्गमन्त्रबीजस्वरूपमभिवर्ण्यते॥ १०१ ॥**
@@ -886,8 +746,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **आतुरीयपदं चैव सर्वेषामधिकारिणाम्।  
 संस्थितिश्चेति सिद्धान्तः पुरा नारदभाषितः॥ ११० ॥**
 
-
-
 **सैषा हि संस्थितिश्चैव सक्रमा स्याद्यथाभवम्।  
 गुणमय्याऽऽत्मशक्त्या हि प्रबद्धानां महर्षयः॥ १११ ॥**
 
@@ -917,8 +775,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **कामक्रोधवियुक्तानां यतीनां यतचेतसाम्।  
 अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम्॥ १२० ॥**
-
-
 
 **स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवाऽन्तरे भ्रुवोः।  
 प्राणापानौ समौ कृत्वा नासाऽऽभ्यन्तरचारिणौ॥ १२१ ॥**
@@ -950,8 +806,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इति स्तुतिरियं येन सत्यदृष्टया तु बुध्यते।  
 स एव राजयोगस्य फलं भुङ्क्ते विशेषतः॥ १३० ॥**
 
-
-
 **तस्मादात्मा हि विज्ञेयो ध्येयश्चैव विशेषतः।  
 समुपास्यश्च भवति चतुर्भिरधिकारिभिः॥ १३१ ॥**
 
@@ -980,8 +834,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **तादृशानां च युक्तानां दासानां पुण्यकर्मणाम्।  
 कथं ह्यसुभवो वेद्यो भवेद्वक्तव्य एव च॥ १३९ ॥**
-
-
 
 **सर्वमेतदशेषेण कृपया वद नः प्रभो।  
 एतावदेव वक्तव्यं शिष्टमस्ति च वस्तुतः॥ १४० ॥**
@@ -1012,8 +864,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इति चात्मा च कथितो ह्यस्मच्छब्देन संस्तुतः।  
 भक्तिज्ञानकर्मयोगाः प्रोक्ताः सन्ति यथार्थतः॥ १४८ ॥**
 
-
-
 **अतश्च राजविद्यायां चत्वारो ह्याधिकारिणः।  
 भवन्तीति हि सिद्धान्तः शुद्धाचार्याऽनुसंमतः॥ १४९ ॥**
 
@@ -1039,8 +889,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **परं तु तत्स्वरूपं हि यथाऽनुभवमुच्यते।  
 पूर्वाचार्यैर्यथाकालं यथाप्रकृतिमण्डलम्॥ १५६ ॥**
-
-
 
 **“ब्रह्मभूतः प्रसन्नात्मा न शोचति न कांक्षति।"  
 इति श्रीवासुदेवेन स्वरूपं तस्य वर्णितम्॥ १५७ ॥**
@@ -1072,8 +920,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **स्वरूपं कथितं चेति पूर्वसूरिभिरुच्यते।  
 नातः परं हि वक्तव्यं वेद्यं स्यात्स्वयमेव तत्॥ १६६ ॥**
 
-
-
 **मुनयः—**
 
 **राजयोगप्रभावश्च भवता कीर्तितो विभो।  
@@ -1101,8 +947,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **योगकाले च दासश्च निश्चेष्टः परिदृश्यते।  
 हृदयभ्रमध्ययोगाज्यानविज्ञानयोगतः॥ ९७४ ॥**
-
-
 
 **तदा हि शुद्धमेधायां दासानां च महर्षयः।  
 आत्माऽयमीश्वरः साक्षी बिंबितोऽस्ति सनातनः॥ १७५ ॥**
@@ -1134,8 +978,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इति मन्त्रेण दासश्च कृत्वोपस्थानमुत्तमम्।  
 समुत्थाय दिशश्चैवं नमेद्वद्धाञ्जलिः स्वयम्॥ १८४ ॥**
 
-
-
 **इत्थं दिग्वन्दनार्था स्यान्मूलमन्त्रस्य संस्थितिः।  
 विज्ञेया योगिभिर्दासैः कृतज्ञैःशुभकर्मभिः॥ १८५ ॥**
 
@@ -1164,8 +1006,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **महायज्ञस्य तस्यैवं स्वरूपं ह्यभिवर्ण्यते।  
 यथाकलं यथाऽवस्थं कल्पकारैर्महर्षिभिः॥ १९३ ॥**
-
-
 
 **यज्ञद्रव्याणि पात्राणि तादृशानि निबोधत।  
 गव्यं क्षीरें तथा चाज्यं श्वेताश्चाक्षततण्डुलाः॥ १९४ ॥**
@@ -1196,8 +1036,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **प्रथमं पात्रमुद्धृत्य पञ्चपात्रेषु तेषु च।  
 तीर्थेन किं चिदापूर्य प्रणवेन हि शोधयेत्॥ २०२ ॥**
 
-
-
 **तदापूर्य पुनस्तीर्थैः प्रणवेनाऽभिमन्त्रयेत्।  
 दासाश्रमसुसिद्धेन ब्रह्मकूर्चेन[^6] तेन हि॥ २०३ ॥**
 
@@ -1227,8 +1065,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **शुद्धपात्रमिदं प्रोक्तं सर्वशुद्धिकरं भवेत्।  
 अथ दर्व्यौ समादाय प्रतप्याग्नौ त्रिधा कुशैः॥ २११ ॥**
 
-
-
 **संमृज्य शुद्धतीर्थेन संप्रोक्ष्यच यथाक्रमम्।  
 प्रात्रस्थाने निधायाऽथ गृहीत्वा चाक्षतान्पुनः॥ २१२ ॥**
 
@@ -1256,8 +1092,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 मन्त्रश्चैवं विधः प्रोक्तो यज्ञाङ्गश्चेति सूरिभिः॥ २१९ ॥**
 
 [^8]: "ओ. हीं. अग्नये नमः स्वाहा, इवि तन्मन्त्स्वरूपं विशेयम्।"
-
-
 
 **इदं तस्मै न ममेति त्यागवाक्यमुदीरयेत्।  
 एवं तद्बोमसंख्या च वसुभिश्चैव[^9] कथ्यते॥ २२० ॥**
@@ -1290,8 +1124,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **शुद्धतीर्थेन संप्रोक्ष्य ह्यभ्यज्याज्येन सर्वतः।  
 कराभ्यां संवहन्दासः समन्त्रं जुहुयादिह॥ २२८ ॥**
 
-
-
 **प्रणवं पूर्वमुच्चार्य [सुधां](#) च तदनन्तरम्।  
 माणरमां हरिं चैव ततो वह्निप्रियां तथा॥ २२९ ॥**
 
@@ -1314,8 +1146,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ओमित्येकाक्षरं जप्त्वा सेचयेच्च प्रदक्षिणम्।  
 पुनराज्यं च दर्वीभ्यां गृहीत्वा संजपन्मनुम्॥ २३५ ॥**
-
-
 
 **समस्तपरिवाराय सर्वदेवस्वरूपिणे।  
 नारायणाय देवाय स्वाहेति प्रणवादिकम्॥ २३६ ॥**
@@ -1345,8 +1175,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **सुखाऽऽवहा च जगतां या सा यज्ञफलं भवेत्।  
 सजीवं चैव निर्जीवं यशद्रव्यमिहोच्यते॥ २४३ ॥**
 
-
-
 **क्षीराज्ये व सजीवे स्तो निर्जीवं चेन्धनं भवेत्।  
 सजीवं प्राकृतं तेजो निर्जीवं चाऽऽत्मनश्च तत्॥ १४४ ॥**
 
@@ -1375,8 +1203,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **दासैः सर्वैरयं यज्ञो यथाकालं यथासुखम्।  
 यथाशक्ति च शौचेन कर्तव्यश्चेति निश्चयः॥ २५२ ॥**
-
-
 
 **अथ माध्यान्हिकं दासः श्रद्धया हि समाचरेत्।  
 श्रीकालस्य तुरीयाञ्च पादादारभ्य तस्यहि॥ ३५३ ॥**
@@ -1408,8 +1234,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **विशालं निर्मलं लक्ष्णं गन्धधूपैश्चवासितम्।  
 सुखशय्यासनाथं चे शयनस्थानमुच्यते॥ २६२ ॥**
 
-
-
 **इति तस्माद्दासजनाः सर्वेऽपि च यथाबलम्।  
 यथोचितं यथाशक्ति पश्यन्तु शयनं स्थलम्॥ २६३ ॥**
 
@@ -1438,8 +1262,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **पातु नारायणः श्रीमान्शङ्करः पार्वतीपतिः।  
 सरस्वतीप्राणनाथो ब्रह्मा पातु जगत्प्रभुः॥ २७१ ॥**
-
-
 
 **सिद्धा महर्षयश्चैव पान्तु मां गगने चराः।  
 ओ ब्ल्रूहिं हिं भद्रमुखा सर्वाङ्गं पातु मे परा॥ २७२ ॥**
@@ -1470,8 +1292,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **सुलक्षणं योगमठमधितिष्ठेद्गतव्यधः।  
 सन्यासी मध्यमो वाऽपि भवेत्सन्यासलक्षणः॥ २५९ ॥**
-
-
 
 **सार्धं स्वधर्मपत्न्याहि प्राजापत्यमपि त्यजन्।  
 सङ्गमं जितकामश्च यो भवेद्विदितात्मवान्॥ २८२॥**
@@ -1505,8 +1325,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **न तच्च शुद्धशास्त्रेषु दृश्यते संप्रकीर्तितम्।  
 केवलं स्वाऽऽप्तशुद्धार्यवचसा वुध्यते च तत्॥”इति।**
-
-
 
 **एवंविधश्चैव भवेत्सन्यासी जितमन्मथः।  
 तथाऽपि मध्यमात्तस्य चैवं भेदस्त्वियान्भवेत्॥ २८७ ॥**
@@ -1543,8 +1361,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **शर्कराभं गुडूच्याश्च तोलार्धं हि प्रयोजयेत्।  
 तथैव शर्कराखण्डं श्वेतं तोलत्रयोद्धृतम्॥”**
-
-
 
 **मधुकल्पस्तथा[^18] रात्रौ शुद्धसारफलैः कृतः।  
 योगकल्पश्चेति[^19] वैद्यकालायस महर्षिणा॥ २९२ ॥**
@@ -1583,8 +1399,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **“ततः कल्पं प्रवक्ष्यामि योगाख्यं योगिनां हितम्।  
 सेवया यस्य योगीन्द्रा दृढबुद्धीन्द्रीया भुवि॥**
 
-
-
 **एवमुक्ताश्च सर्वेऽपि स्वीकार्या मध्यमेव हि।  
 सुसंपन्नेन शक्तेन चेति कालायसोदितम्॥ २९३ ॥**
 
@@ -1616,8 +1430,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **कापित्थंपानसे चैव बिना सर्वं यथाविधि।  
 पात्रे विनिक्षिपेच्चाऽथ निर्बीजं पानसंफलम्॥**
-
-
 
 **स्निग्धकाषायवसनो मुण्डितो वा जटाधरः।  
 योगसूत्रधरो दण्डी सोष्णीषो दीर्घकञ्चुकः॥ २९४ ॥**
@@ -1651,8 +1463,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **श्रीमानयं योगकल्पों योगिनां पुष्टिवर्धनः।  
 संसेव्योयोगिभिर्दासैरिति पूर्वैरिहोच्यते॥"**
 
-
-
 **अन्नमात्मानुरूपं च शुद्धं कामविवर्जितम्।  
 यथेष्टं संस्कृतं[^20] चैव रसवद्विधिचोदितम्॥ २९७ ॥**
 
@@ -1685,8 +1495,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **यदिमध्यमदासस्य धर्मतः स्वस्त्रिया सह।  
 मोहाद्भवेत्सङ्गमश्च तदा सोयं न पात्यते॥ ३०६ ॥**
 
-
-
 **एवं मोहाच्चजातस्य दोषस्य च विशेषतः।  
 प्रायश्चित्तं हि विहितं भवेत्तैः शुद्धयोगिभिः॥ ३०७ ॥**
 
@@ -1717,8 +1525,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **प्रायश्चित्तं न चैवाऽस्य विहितं परिदृश्यते।  
 यतो दुष्कर्मणस्तस्मात्तस्य दग्धं वपुर्भवेत्॥ ३१६ ॥**
 
-
-
 **जन्मान्तरे पुनश्चाऽस्य पतितस्य च धर्मतः।  
 तृतीयदाससंस्थानं भवेदिति निगद्यते॥ ३१७॥**
 
@@ -1748,8 +1554,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **नरदेवाय देवाय योxनां पतये नमः।  
 ओ ह्रीं श्रीं ह्रीं महादेवीं पद्मासनसंस्थिताम्॥ ३३६ ॥**
-
-
 
 **योगदेवीं योगमूलां योगदण्डधरां शिवाम्।  
 वन्देऽहं शिरसा योगंब्रह्मविद्याभिसंस्तुताम्॥ ३२७ ॥**
@@ -1783,8 +1587,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **पूरकाद्यङ्गयुक्तश्च प्राणायामः स चोदितः।  
 पूर्वमेव यथातत्त्वं चास्माभिः सप्रयोजनम्॥ ३३६ ॥**
 
-
-
 **प्राणायामाद्भवेन्नाडीशुद्धिर्दैवांशदायिनी।  
 यया सर्वाणि भूतानि स्वात्मीये विग्रहे पुनः॥ ३३७ ॥**
 
@@ -1814,8 +1616,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **एबं यः पूरकाङ्गस्य वेत्ता सर्वप्रणाशकः।  
 सं योगी पूरकाख्यश्च राजयोगिषु गण्यते॥ ३४६ ॥**
-
-
 
 **चतुर्विधो हि भेदश्चभवेत्पूरकयोगिनाम्।  
 स चैवमुपदिष्टः स्यात्पुरा भगवता पुनः॥ ३४७ ॥**
@@ -1847,8 +1647,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **यथाक्रमं लक्षणं हि तेषां चैव निरूपितम्।  
 तत्प्राणावामगीतायां पुरा भगवता पुनः॥ ३५६ ॥**
 
-
-
 **"यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता।  
 योगिनो यतचित्तस्य युञ्जतो योगमात्मनः॥ ३५७ ॥**
 
@@ -1878,8 +1676,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **युञ्जन्नेवं सदात्मानं योगी विगतकल्मषः।  
 सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते॥" ३६६॥**
-
-
 
 **इति श्रीवासुदेवेन रेचकस्य फलं च तत्।  
 स्वात्मैकसमधिगम्यं व्याख्यातं स्यान्महर्षयः॥ ३६७ ॥**
@@ -1911,8 +1707,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **यदा च परमे स्थाने तुरीये तु विलीयते।  
 तदा समाधिर्भवति महानिर्वाणलक्षणः॥ ३७६ ॥**
 
-
-
 **यावद्भवेश्च दासानां निर्वाणोऽयं मुनीश्वराः।  
 तावदेव हि कार्यः स्यात्प्राणायामो यथाबलम्॥ ३७७ ॥**
 
@@ -1941,8 +1735,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 शारदा भैरवी दुर्गा सुधा वह्निर्वियज्जलम्॥ ३८५ ॥**
 
 [^22]: "इत्थं तानि योगबीजानि भवन्ति - ह्रीं श्रीं क्लीं क्रीं-हु-लं. ऐं सैंदं-सौः-रं-हं-नं-मं, इति।"
-
-
 
 **वायुश्चेति प्रसिद्धानि तानि योगपराणि च।  
 नारायणादिभिः शुद्धैर्योगिभिश्च महात्मभिः॥ ३८६ ॥**
@@ -1974,8 +1766,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **जपत्तो मातरं नित्यं नियमेन यथाविधि।  
 ये सन्ति तेषां सामीप्यं भगवश्चण्डभानुना॥ ३९५ ॥**
 
-
-
 **वर्णितं चैवमेवं हि तच्छृणुध्वं मुनीश्वराः।  
 तत्त्वं जपफलस्येह रहस्यं परिदृश्यते॥३९६ ॥**
 
@@ -2005,8 +1795,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **विश्वकर्मन्नमस्तेऽस्तु विश्वात्मन्विश्वसंभव।  
 अपवर्गस्थ भूतानां पञ्चानां परमास्थित॥ ४०५ ॥**
-
-
 
 **नमस्ते त्रिषु लोकेषु नमस्ते परतस्त्रिषु।  
 नमस्ते दिक्षु सर्वासु त्वं हि सर्वपरायणम्॥ ४०६ ॥**
@@ -2038,8 +1826,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इत्यादित्यस्वरूपेण कथितं स्तोत्रमुत्तमम्।  
 पठेद्भक्तयाहि दासश्च देवीस्तोत्रं ततः पठेत्॥ ४१५ ॥**
 
-
-
 **" ओ नमस्ते महादेवि योगदेवि वरप्रदे।  
 चतुर्भुजैःशंखचक्रयोगदण्डाक्षमालिकाः॥ ४१६ ॥**
 
@@ -2070,8 +1856,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **स्तोत्रं च कवचं न्नैव यदुक्तं मध्यमस्य हि।  
 तदेव ह्यनुसन्धेयं भवेत्संन्यासिभिः परैः॥ ४२५ ॥**
 
-
-
 **यश्च प्रोक्तोमहायज्ञः पूर्वमेव यथाविधि।  
 स च सन्यासिभिः सेव्यो यथेच्छं चेति कथ्यते॥ ४२६॥**
 
@@ -2094,8 +1878,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **आत्मीयानि प्राकृतानि शुद्धानि च विशेषतः।  
 सर्वाण्यपि च कर्माणि विधिवच्च समाचरेत्॥ ४३२ ॥**
-
-
 
 **किं च सर्वंहि विहितं तृतीयस्य महर्षयः।  
 यथाकालं यथादेशं यथावस्थं भवेदिति॥ ४३३ ॥**
@@ -2127,8 +1909,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **महाशिवाय सांबाय पञ्चाक्षरपरात्मने।  
 ब्राह्मीशक्त्युपहिताय ब्रह्मणे त्र्यक्षरात्मने॥ ४४२ ॥**
 
-
-
 **महालक्ष्मीसनाथाय महते विष्णवे दिवे।  
 अष्टाक्षरपदार्च्याय धर्मगोत्रेऽखिलात्मने॥ ४४३ ॥**
 
@@ -2154,8 +1934,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ये भवन्त्यमृताः शुद्धा दासास्ते ब्रह्मकर्मणा।  
 अभयं सर्वभूतेभ्यो दातुं शक्ता भवन्ति हि॥ ४५० ॥**
-
-
 
 **धन्यानामेव दासानामाप्तानांसत्यगामिनाम्।  
 समानां सर्वभूतेषु हार्देश्वरपरात्मनाम्॥ ४५१ ॥**
@@ -2187,8 +1965,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **गुशब्दस्त्वन्धकारः स्याद्रुशब्दस्तन्निरोधकः  
 अन्धकारनिरोधित्वाद्गरुरित्यभिधीयते॥ ४६० ॥**
 
-
-
 **अन्धकारे निवृत्ते तु दासाः पश्यन्ति तं प्रभुम्।  
 परमं पुरुषं दिव्यं यस्माद्योगोऽभिजायते॥ ४६१ ॥ **
 
@@ -2214,8 +1990,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ब्राह्मं हि तर्पणं ये तु कुर्वन्त्यमृतगामिनः।  
 न तेषां हवनं मुख्यं नैवाऽन्यत्प्राकृतं तपः॥ ४६८ ॥**
-
-
 
 **केवलं भावनैव स्यात्तेषां वै मुख्यलक्षणम्।  
 शरणं धाम दिव्यं च परमं पदमच्युतम्॥ ४६९ ॥**
@@ -2247,8 +2021,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **कञ्चिकादानसमये सहधर्मचरी तव।  
 इत्याह जनकः श्रीमान्रामायाऽऽपन्निवारिणे॥ ४७८ ॥**
 
-
-
 **सर्वे धर्मास्त्रीभिरेव प्रचरन्ति विशेषतः।  
 धर्मो ह्यभ्युदयात्मा स्यादिति चेदैर्निगद्यते॥ ४७९ ॥**
 
@@ -2278,8 +2050,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **प्रणवं पूर्वमुच्चार्य मायां वाऽथ श्रीयं ततः।  
 कामकलां व विधिवत्ततः श्लोकद्वयं पठेत्॥ ४८८ ॥**
-
-
 
 **ब्रह्मदेवि महादेवि योगदेवि महेश्वरि।  
 नमस्ते देवि कल्याणि कमले शारदेऽविके॥ ४८९ ॥**
@@ -2311,8 +2081,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **स्वार्योक्तांतत्र गृह्णीयाद्यथाकामं महर्षयः।  
 जपान्ते स्यादुपस्थानं कर्तव्यं चैवमेव हि॥ ४९८ ॥**
 
-
-
 **उत्थाय प्राङ्मुखी कन्या बद्धाञ्जलिपुटा स्वयम्।  
 पञ्चसिद्धानदृश्यांश्च प्रणमेच्छुद्धचेतसा॥ ४९९ ॥**
 
@@ -2342,8 +2110,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **नैव कार्यमिति प्राहुर्यतो कन्या हि दुर्बला।  
 विद्याभ्यासादनीशत्वान्मुग्धत्वाच्चविशेषतः॥५०८ ॥**
-
-
 
 **सायं प्रातश्च कन्यानां जपमात्रं विशिष्यते।  
 जपान्ते कन्यया कार्यमर्घ्यदानं यथाविधि॥ ५०९ ॥**
@@ -2377,8 +2143,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अश्वत्थो बिल्ववृक्षश्च पुष्पवृक्षास्तथाऽपरे।  
 फलवृक्षाश्च ये सन्ति ते स्युः पुण्याश्चशाखिनः॥ ५९८ ॥**
 
-
-
 **या मुकुन्दप्रिया देवी तुलसी भूतिदायिनी।  
 तस्याः प्रदक्षिणं वाऽपि चरेत्कन्या यथाविधि॥५१९॥**
 
@@ -2408,8 +2172,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **आह्निकं यच्चवै प्रोक्तं कन्यायाः प्रथमं भवेत्।  
 तदेव शुद्धमातॄणां विहितं च यथाविधि॥५२८॥**
-
-
 
 **या च माता हि पूर्वस्यां रात्र्यांभर्त्रा सह स्वयम्।  
 यथाधर्ममवाप्नोति सङ्गमं रतिकामिनी॥५२९॥**
@@ -2441,8 +2203,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **तयाऽपि कार्यमेव स्याद्भर्तुः स्तोत्रं यथाविधि।  
 ततस्तया च कर्तव्यो जपोऽयं गर्भरक्षकः॥५३८॥**
 
-
-
 **भर्तुस्तोत्रं सप्रणामं कृत्वा माता मनस्विनी।  
 पञ्चदेवात्मकं मन्त्रं जपेत्पुत्रप्रदं शिवम्॥५३९॥**
 
@@ -2472,8 +2232,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इत्येवं सर्वमातॄणां नियमश्चापि दृश्यते।  
 आह्निकं नैव कार्यंस्यादृतुकाले व मातृभिः॥५४८॥**
-
-
 
 **ऋतोस्तुरीये दिवसे सम्यक्स्नात्वा यथाविधि।  
 परिधाय शुभं वस्त्रं रम्यगन्धाऽनुलेपना॥५४९॥**
@@ -2505,8 +2263,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **तदेतत्कवचं सर्वमङ्गलायतनं महत्।  
 अनुसन्धाय माता च प्रणमेत्परदेवताम्॥५५८॥**
 
-
-
 **अथसर्वं समुचितं यथोक्तं चाह्निकं चरेत्।  
 माता धर्मरहस्यज्ञा धर्मकामार्थतत्परा॥५५९॥**
 
@@ -2536,8 +2292,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **आह्निकं चैय सर्वं हि विधिवच्च समाचरेत्।  
 कन्याह्निकं च वा कुर्याद्भावनायाः प्रभावतः॥५६८॥**
-
-
 
 **स्वस्वभावविरुद्धं च यद्भवेदाह्निकं पुनः।  
 कन्यायाश्चैव मातुश्च तच्च सर्वंमहर्षयः॥५६९॥**
@@ -2569,8 +2323,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **प्राङ्मुखोङ्मुखो वाऽपि तिष्ठन्बद्धाञ्जलिः स्वयम्।  
 वदेन्मङ्गलगायत्रीं देवीं ध्यायन्परां शुभाम्॥५७८॥**
 
-
-
 **व्यायामं चाथ दासश्च कुर्यान्नित्यं यथाबलम्।  
 ततो वस्त्रेण देहं च विशोध्य च मुहुर्मुहुः॥५७९॥**
 
@@ -2600,8 +2352,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इति विद्याजपादेवं परं ध्यानं विधीयते।  
 तच्चशुद्धं निर्गुणं वा भवेदिति हि निर्णयः॥५८८॥**
-
-
 
 **जपात्परं च यद्ध्यानं शुद्धं निर्वाणलक्षणम्।  
 तेन वै जायते चित्तशङ्कुविज्ञानमुत्तमम्॥५८९॥**
@@ -2633,8 +2383,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इत्यार्यैरुच्यते कैश्चिच्छुद्धविद्याधिकारिभिः।  
 भगवान्नारदश्चात्र विशेषं प्राह धर्मतः॥५९८॥**
 
-
-
 **ऋणत्रयनिवृत्ता ये दासाः शुद्धा महर्षयः।  
 तेषामेवमाह्निकं च विशेषेण विधीयते॥५९९॥**
 
@@ -2664,8 +2412,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **वदेन्मङ्गलगायत्रीं बद्धाञ्जलिपुटः स्वयम्।  
 व्यायामं चाथ कृत्वा हि यथाविधि यथावलम्॥६०८॥**
-
-
 
 **स्नायाच्च विधिवच्छुद्धसलिलेऽथ धृतांवरः।  
 धृत्वा पुण्ट्रंयथाचरं प्राङ्मुखोदङ्मुखोऽपि वा॥६०९॥**
@@ -2697,8 +2443,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **ध्यानकालः प्रतिदिनं घटिकाषट्कसंमितः।  
 कथ्यते शुद्धशास्त्रज्ञैः परमार्थपरायणैः॥६१८॥**
 
-
-
 **ऋृणत्रयनिवृत्ता ये वामदेवस्य विद्यया।  
 दीक्षिताश्चयथान्यायं तेषां वै मुनिपुङ्गवाः॥६१९॥**
 
@@ -2729,8 +2473,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **सौं बीजेनैव देव्याः स्वाद्भोजतार्हो महर्षयः।  
 की बीजमर्चनायां तु प्रशस्तं स्यादिति स्मृतिः॥६२८॥**
 
-
-
 **अन्यत्र देवीपूजायां वाग्बीजं त्र समुच्चरेत्।  
 नीराजनान्ते दासेन बद्धाञ्जलिपुटेन च॥६२९॥ **
 
@@ -2759,8 +2501,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **अथाऽहमाह्निकं वक्ष्ये वसिष्ठस्य च विद्यया।  
 दीक्षितानां च दासानां तच्छृणुध्वं महर्षयः॥६३७॥ **
-
-
 
 **आसन्नमरणावस्थाः शुद्धसिद्धान्तवित्तमाः।  
 ये सन्ति मनुजा लोके तेषां जन्मान्तरे पुनः॥६३८॥**
@@ -2792,8 +2532,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अमठश्च प्रतिग्रामं निवसेच्च दिनत्रयम्।  
 भूमिप्रदक्षिणं चैव वासिष्ठानां विधीयते॥६४७॥**
 
-
-
 **वासिष्ठो यश्च दासः स्यान्नैव तस्याह्निकं भवेत्।  
 नियतं मन्त्रसंयुक्तं यतो जन्मान्तरं गतः॥६४८॥**
 
@@ -2823,8 +2561,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **यदन्यदाह्निकं चास्ति कर्तव्यत्वेन निश्चितम्।  
 तत्सर्वं हि गुरुभ्यश्च वेद्यं स्यादिति निर्णयः॥६५७॥**
-
-
 
 **इत्थं मयाद्य सर्वेषां दासानां पुण्यकर्मणाम्।  
 आह्निकं च यथाशास्त्रं व्याख्यातं स्याद्यथामति॥६५८॥**
@@ -2857,8 +2593,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **धन्यो ह्यनुगृहीतोऽस्मि प्रश्बाद्बोऽहं मुनीश्वराः।  
 येन दर्शादिकालेषु दासकर्म हि बुध्यते॥६६६॥**
 
-
-
 **तं पुण्यकालं वक्ष्यामि पर्वलक्षणलक्षितम्।  
 यत्र दासैर्विशेषेण कर्तव्यं कर्म कथ्यते॥६६७॥ **
 
@@ -2888,8 +2622,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **एवं च गच्छतोरेव सूर्याचन्द्रमसोः पुनः।  
 सूर्यस्य तेजसा चैव यदाचन्द्रश्च सर्वशः॥ ६७६॥**
-
-
 
 **दृश्यते ह्यभिभूतश्च तदा दर्श इतीर्यते।  
 सूर्याचन्द्रमसोश्चैव सन्निकर्षः परश्चयः॥६७७॥**
@@ -2921,8 +2653,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अङ्गादङ्गात्संभवस्य कारणं यत्र दृश्यते।  
 सोऽयं कालश्च दर्शः स्यादिति शङ्करभाषितम्॥६८६॥**
 
-
-
 **यस्मिन्प्रकृतिवृक्षश्च बीजभूतश्च दृश्यते।  
 तथाह्यङ्कुरितश्चैव स दर्श इति कथ्यते॥६८७॥**
 
@@ -2952,8 +2682,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **चक्रंमान्वन्तरं चैव सूर्यचन्द्रात्मकं तथा।  
 कालचक्रं च देहेऽस्मिन्भवतीति हि निर्णयः॥६९६॥**
-
-
 
 **कालचक्रस्वरूपाणि यानि चक्राणि सन्ति च।  
 तानि चक्राणि सर्वाणि देहेऽस्मिन्नियतानि हि॥ ६९७ ॥**
@@ -2985,8 +2713,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इत्थं च वार्णितो दर्शस्त्रिविधः शुद्धयोगिभिः।  
 अमावास्या सिनीवाली कुहुश्चेति निगद्यते॥ ७०५ ॥**
 
-
-
 **अमावास्याभिधः कालो यः स चेत्थं हि वर्णितः।  
 आचार्यैः शुद्धसिद्धान्तवादिभिर्मुनिसत्तमैः॥ ७०७ ॥**
 
@@ -3017,8 +2743,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **षोडशी सातिथिश्चैव महातिथिरितीर्यते।  
 तिथिचक्ररहस्यार्थवेदिभिर्मुनिपुङ्गवैः॥ ७१६ ॥**
 
-
-
 **तिथीनां चैव सर्वासां पक्षद्वयविभागतः।  
 बिन्दुवेदाश्विनीभिश्च[^28]ह्यवस्थाः स्युः स्वधर्मतः॥ ७१७ ॥**
 
@@ -3047,8 +2771,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **यस्मिंश्च दिवसे लक्ष्म्याः समये च विशेषतः।  
 प्रथमायाः पञ्चदश्यास्तिथेश्चैव समागमः॥ ७२५ ॥**
-
-
 
 **भवेच्च समयः सोऽयंपुण्यकाल इतीर्यते।  
 कर्माणि पैतृकाण्येव कर्तुं दासजनैः पुनः॥ ७२६ ॥ **
@@ -3079,8 +2801,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इति तस्मात्पुण्यदेशः कर्मणः पैतृकस्य च।  
 स्वीकार्यः प्रथमं चेति विधिज्ञैःसमुदीर्यते॥ ७३५ ॥**
-
-
 
 **इत्थं हि कर्मणश्चैव पैतृकस्य विशेषतः।  
 विधिश्चदृश्यते तं च यथामति वदामि वः॥ ७३६ ॥**
@@ -3114,8 +2834,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 [^29]: "अमृताग्न्यर्कबीजैरिति सौः, रं, अं, इति बीजाक्षरैरित्यर्थः।"
 
-
-
 **स्वशाखानियतैश्चैव मन्त्रैरावाहनादिकाः।  
 पूजाः सर्वाः पितॄणां हि कर्तव्याः स्युरितीर्यते॥ ७४६ ॥**
 
@@ -3143,8 +2861,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ओं नमो जीवरूपेभ्यो धातृभ्यश्च नमो नमः।  
 ओं नमः समभावेभ्यो विधातृभ्यो नमो नमः॥ ७५३ ॥**
-
-
 
 **ओं नमः शुद्धभावेभ्यः स्वधातृभ्यो नमो नमः।  
 ओं नमो ब्रह्मरूपेभ्यो योगिभ्यश्च नमो नमः॥ ७५४ ॥**
@@ -3176,8 +2892,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **एवमर्थार्थितो ये च दासाः स्युर्भूतिकाङ्क्षिणः।  
 तैश्चापि तस्यां कार्यं स्यात्समन्त्रं पितृतर्पणम्॥ ७६३ ॥**
 
-
-
 **पूर्वं निरूपिता ये च मन्त्राः साङ्गाश्च सक्रमाः।  
 ते भवन्ति सिनीवाल्यां पितॄणां तर्पणाय हि॥ ७६४ ॥**
 
@@ -3207,8 +2921,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **दासानां चैव सर्वेषां यज्ञोऽयं दर्शकालिकः।  
 साधारणो भवेच्चेति पुरा नारदभाषितम्॥ ७७३ ॥**
-
-
 
 **ये वा कल्याणवचसः श्रद्धया परयाऽन्विताः।  
 तैश्चदासैस्तु सर्वैः स्याद्यज्ञोऽयं कार्य एव हि॥ ७७४ ॥**
@@ -3240,8 +2952,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **सैषाऽपि त्रिविधा ज्ञेया स्वरूपाच्चमहर्षयः।  
 पूर्णा राका चेन्दुमती चेति नारदभाषितम्॥ ७८३ ॥**
 
-
-
 **लक्षणं तिसृणां चासां ह्येवं प्रोक्तं महर्षिभिः।  
 यथार्थं च विशेषेण तच्छृणुध्वं मुनीश्वराः॥ ७८४ ॥**
 
@@ -3271,8 +2981,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **तद्दिनं हीन्दुमत्या तु युक्तमित्येव निर्णयः।  
 सेयमिन्दुमती पूज्या पुत्रकामैर्विशेषतः॥ ७९३ ॥**
-
-
 
 **तस्माच्च पौर्णमासीषु तिसृषु प्रथमैव हि।  
 सर्वार्थदेति कथिता कल्पकारैर्महर्षिभिः॥ ७९४ ॥**
@@ -3304,8 +3012,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **देवोयज्ञेन तं कामं प्राप्नुवन्ति न संशयः।  
 बहुनाऽत्र किमुक्तेन देवीयज्ञोऽखिलार्थदः॥८०३ ॥**
 
-
-
 **भवेदिति हि सिद्धान्तः पूर्वं नारदभाषितः।  
 तदेषां विहितानां च यज्ञानां हि यथाफलम्॥ ८०४ ॥**
 
@@ -3335,8 +3041,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **उदकुंभमलंकृत्य यथाशास्त्रं महर्षयः।  
 तस्मिन्सपरिवारं च देवं तीर्थपतिं प्रभुम्॥ ८१२ ॥**
 
-
-
 **आवाहनादिभिः सर्वपूजाभिश्च समर्चयेत्।  
 पञ्चाक्षरेण[^33] ताः पूजाः सर्वाश्चैव समाचरेत्॥ ८१३ ॥**
 
@@ -3365,8 +3069,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 [^35]: "मनुमन्त्रेणेति अत्र, मनुमन्त्रेण देवीं विशेषतः आवाहयेत्, इति पदान्वयः। अत्र विशेषतो ह्यावाहनं च, स्वेष्टेनामविशेषं योगदेव्याश्च समुच्चार्य करणमेव, इति तात्पर्यार्थः।"
 
 [^36]: "परामिति, योगदेव्या विशेषस्वरूपां सरस्वतीत्यादिनामभिरभिहितां देवीमू,इत्यर्थः।"
-
-
 
 **तथा तेनैव मन्त्रेण सर्वाः पूजाः समाचरेत्।  
 पूजान्ते साञ्जलिर्दासः प्रार्थनां च विशेषतः[^37]॥ ८२० ॥**
@@ -3400,8 +3102,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **योगेश्वरि ब्रह्मविद्ये ब्रह्मरूपे परावरे।  
 सरस्वति जगन्मातः कुंभेऽस्मिन्सन्निधिं कुरु"॥८२७ ॥**
 
-
-
 **इत्येवं प्रार्थनामन्त्रैः षद्भिश्चैव महर्षयः।  
 विद्याधिदेवतायाश्च १दिव्यमाहनं चरेत्॥ ८२८ ॥**
 
@@ -3430,8 +3130,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 आवाहयेत्स्थूलबिंबे समन्त्रं च यथाविधि।  
 इदमावाहनं दिव्यमिति प्रोक्तं महर्षिभिः॥" इति
-
-
 
 **इत्थमैश्वर्यकामानां दासानां च विशेषतः।  
 मन्त्रोऽयं प्रार्थनागर्भः प्रोक्तो भगवता पुरा॥ ८३० ॥**
@@ -3463,8 +3161,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **ओं श्ल्रीं ह्रीं सौः लोकगर्भे जीवगर्भे जयावहे।  
 ओं श्ल्रींसौः क्लीं सर्वगर्भे देहि मे पुत्रसंपदम्॥ ८३९ ॥**
 
-
-
 **ओं श्ल्रींक्लीं सौः ब्रह्मगर्भे शुक्रज्योतिस्स्वरूपिणि।  
 ओं श्ल्रींह्रीं सौः सूत्रगर्भे देहि मे पुत्रसंपदम्॥ ८४०॥**
 
@@ -3494,8 +3190,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ओं ल्बूंश्रीं ह्रीं सोमविद्ये सुधाधारे सुरेश्वरि।  
 ओं क्लीं ह्रीं श्रीं महारण्ये सिद्धेश्वरि शिवप्रिये॥ ८४९ ॥**
-
-
 
 **ओं क्ल्रैंह्रींसौः जीवकले दीर्घकालप्रदे रसे।  
 ओं क्रीं ह्रीं श्रीं सूत्रकले दीर्घायुष्यं च देहि मे॥ ८५० ॥**
@@ -3527,8 +3221,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **कुर्यात्पञ्चाक्षरेणैव सर्वाः पूजा यथाविधि।  
 इत्थं विशेषतः प्रोक्ता प्रार्थना मन्त्ररूपिणी॥ ८५९ ॥**
 
-
-
 **वामदेवरहस्यज्ञा गुरवो ये च सन्ति हि।  
 तेभ्यश्चैव यथाकामं शिष्टं ज्ञेयमितीर्यते॥ ८६० ॥**
 
@@ -3558,8 +3250,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अधोमुखानि सर्वाणि स्थापयेत्प्रथमाश्रमीञ्च।  
 तत्र स्रुक्प्रथमं तस्मादाज्यपात्रं ततो भवेत्॥ ८६८ ॥**
 
-
-
 **प्रोक्षणीपात्रमथ च ब्रह्मपात्रं ततः स्रुवा।  
 ततश्च समिधश्चेति पात्राणां च क्रमो भवेत्॥ ८६९ ॥**
 
@@ -3588,8 +3278,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **गृहाणाच्यैत्रया दत्तं हुतं चैव समन्त्रकम्।  
 प्रीणातु भगवान्देवो योगनारायणः प्रभुः॥ ८७७ ॥**
-
-
 
 **ब्रह्मा विष्णुश्चरुद्रश्च तथान्या देवताः पराः।  
 महालक्ष्म्यादिदेव्यश्च प्रीणन्तु शुभमानसाः॥८७८ ॥**
@@ -3624,8 +3312,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
  यज्ञनाथानिति—यज्ञनाथाश्चात्र, कालः, करालः, मनोजवः, सुलोहितः, धूम्रवर्णः, उग्रः, प्रदीप्तः, इति प्रसिद्धा भवन्ति।“काली कराली” इत्यादयो हि सप्त तद्यज्ञनाथानामं च शक्तिस्वरुपा भवन्ति यज्ञनाथश्च ते यज्ञाग्निपुरुषस्यांऽशभूता इति विज्ञेयम्।
 
-
-
 **मूलमन्त्रेण कार्या स्यादष्टोत्तरशताहुतिः।  
 इति तद्धोमसंख्या च शुद्धार्यैः समुदीर्यते॥ ८८७ ॥**
 
@@ -3658,8 +3344,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **स्रुक्स्रुवाभ्यां यथाशास्त्रं मूलमन्त्रेण च स्वयम्।  
 दासः संपूर्णकर्मा च ततोत्तिष्ठेद्यथाविधि॥ ८९६ ॥**
 
-
-
 **उत्थाय प्राञ्जलिश्चैव प्रार्थयेद्धव्यवाहनम्।  
 मन्त्रेणाऽनेन दासश्चश्रद्धया परयान्वितः॥ ८९७ ॥**
 
@@ -3690,8 +3374,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **"ओं नमो नारायणाय देवाय परमात्मने।  
 योगदेविं नमस्तुभ्यमुत्तिष्ठ परमेश्वरि॥ ९०६ ॥**
 
-
-
 **यज्ञोमे सफलश्चास्तु त्वत्प्रसादाद्वरप्रदे।  
 अस्तु मे मानसं शान्तमिष्टार्थप्राप्तितः सदा॥ ९०७ ॥**
 
@@ -3720,8 +3402,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **संप्रयच्छति दासेभ्यः सौभाग्यमचलां श्रियम्।  
 सर्वानन्यांश्च कामान्वै दीर्घायुष्यं विशेषतः॥ ९९५ ॥**
-
-
 
 **शुक्रश्च भगवानात्मा कार्यरूपः सनातनः।  
 तथाकारणरूपश्च शुद्धः स्यादिति कथ्यते॥ ९१६ ॥**
@@ -3753,8 +3433,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **यथाधिकारं दासानां शौक्रेपर्वणि शोभने।  
 कथितो यज्ञकालश्च विभज्येत्थं हि कथ्यते॥ ९२५ ॥**
 
-
-
 **विद्यार्थिनां चदासानां ब्राह्मः कालः प्रशस्यते।  
 श्रियः कालश्च विहितः श्रीकामानां विशेषतः॥ ९२६ ॥**
 
@@ -3785,8 +3463,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **एवं श्रवणनक्षत्रचक्रं स्यात्पञ्चपर्वसु।  
 गणितं चेति सिद्धान्तः पूर्वं शङ्करभाषितः॥ ९३५ ॥**
 
-
-
 **ब्रह्माण्डे च यथा ह्यस्ति चक्रं नक्षत्रसंज्ञकम्।  
 तथाऽस्माकं च देहेषु भवेदिति निगद्यते॥ ९३६ ॥ **
 
@@ -3815,8 +3491,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **तथा शुद्धाष्टमी चैव कथिता तिथिपर्वसु।  
 यथाकामं दासलोकैः स्वेष्टः कालश्च सेव्यताम्॥ ९४४ ॥**
-
-
 
 **इत्युक्तं स्याद्यथाशास्त्रं स्वरूपं पञ्चपर्वणाम्।  
 पर्वकार्यास्तथा यज्ञाः प्रीणन्त्वद्य महर्षयः॥ ९४५ ॥**
@@ -3848,8 +3522,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अपामार्गस्य समिधश्चेत्यस्मिन्नियमो भवेत्।  
 यथा स्रुक्स्रुवयोश्चैव संस्कारश्च यथाविधि॥ ९५४ ॥**
 
-
-
 **तथाऽऽम्रपत्रदर्व्याश्च संस्कारो विहितो भवेत्।  
 एवं दासश्चसंस्कारान्यज्ञीयांश्च यथाक्रमम्॥ ९५५ ॥**
 
@@ -3879,8 +3551,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ध्यात्वा तानच्येयेद्भक्त्या ततो दासो यथाविधि।  
 अद्भिश्चमूलमन्त्रेण यज्ञाग्निं परिषेचयेत्॥ ९६४ ॥**
-
-
 
 **ततो दर्व्यागृहीत्वाज्यं जुहुयान्मन्त्रपूर्वकम्।  
 मन्त्रश्चैवं विधः प्रोक्तोब्रह्मनिष्ठैर्महर्षिभिः॥ ९६५ ॥**
@@ -3913,8 +3583,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
        ओं हिं श्रीं——वीर्यलक्ष्म्यै स्वाहा ३.  
        ओं ग्लौं श्रीं——धैर्यलक्ष्म्यै स्वाहा ४.
 
-
-
 **अथाऽग्निं मूलमन्त्रेण परिषिच्य च पूर्ववत्।  
 आज्यं च स्रुक्स्रुवाभ्यां च गृहीत्वा हि यथाविधि॥ ९७० ॥**
 
@@ -3942,8 +3610,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
         ओं ह्रीं——आत्मने ब्रह्मणे स्वाहा
 
  इति विज्ञेया भवन्ति। एवं——निर्दिष्टयोश्चाङ्कयोर्यथाक्रमम्, तत्तद्दासस्यैकाक्षरं बीजम्, तत्तद्विद्याबीजं च विज्ञेयं भवति।
-
-
 
 **सामान्योऽयं हि यज्ञःस्याद्दासानां विहितः परः।  
 इत्याह भागवान्पूर्वंशङ्करो योगिराट्स्वयम्॥ ९७४ ॥**
@@ -3977,8 +3643,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **हंसयोगिन्नमस्तेऽस्तु पर्वयज्ञस्त्वया विभो।  
 सफलश्च यथाशास्त्रं योगदेवीप्रसादतः॥ ९८३ ॥**
 
-
-
 **व्याख्यातश्चतथा पर्वविशेषविधयः पुनः।  
 महत्कौतूहलं नोऽद्य पातु त्वां परमेश्वरी॥ ९८४ ॥**
 
@@ -4008,8 +3672,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **प्रणवाद्यैः पञ्चबीजैः स्वाहान्तैश्च महर्षयः।  
 निलहोमश्च कार्यः स्याद्रोगातैभ्योयथाविधि॥ ९९२ ॥**
 
-
-
 **तथा च माषहोमश्च दधिहोमश्च शोभनः।  
 मृतसञ्जीवनीबीजैरिति शङ्करभाषितम्॥ ९९३ ॥**
 
@@ -4036,8 +3698,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 इति श्रीसनातनधर्मदीपिकायां द्वितीयखण्डे दासाध्याये  
 तृतीयपटलं संपूर्णम्।
-
-
 
 **ॐ**
 
@@ -4068,8 +3728,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **एतद्वेदितुमिच्छामो त्वन्मुखादेव वै मुने।  
 विस्तरेण यथान्यायं तद्ब्रूहि कृपया विभो॥ ७ ॥**
 
-
-
 **हंसयोगी—**
 
 **धन्यो ह्यनुगृहीतोऽस्मि साधु पृष्टं महर्षिभिः।  
@@ -4098,8 +3756,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 [^53]: "सुखाश्रय इति—सुखशब्दश्चात्र हार्देश्वरार्थकः, तथा च साम्योपदेशपूर्वकम्—"
 
-
-
 **योगी चैव यदा चास्ति तदा शुद्धोऽयमुच्यते।  
 सैवा स्वाभाविकी शुद्धिः सर्वेषां हि समा भवेत्॥ १४ ॥**
 
@@ -4126,8 +3782,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
  इति योगगीतायां भगवता प्राप्यत्वेनोपदिष्टं च परमार्थभावमात्मानम्, स्वविज्ञानशक्तया ह्यनुभवन्त एव दासाद्याः सखाश्रया भवन्ति,इति विज्ञेयम्।
 
-
-
 **उपक्रमोपसंहारौसक्रमौ च यथायुगम्।  
 इति पूर्वैर्नारदाद्यैः प्रोव्यते हि महर्षिभिः॥ १९ ॥ **
 
@@ -4151,8 +3805,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 प्रयोजनं योग इस्यस्य विशेषणदानेनेति वाच्यम्, योगस्य हि केवलं सर्वधर्मविनिर्मुक्ताऽवस्था स्वरूपत्वात्। ब्राह्म इति च सति विशेषणदाने ब्रह्मशक्तिपरिज्ञानपूर्वक सर्वधर्मविनिर्मुक्ताऽवस्थास्वरूपत्वं योगस्य संजायत इति विज्ञेयम्। अतश्च तादृशस्यैव योगस्य, उपक्रमोपसंहारहेतुत्वं शुद्धशास्त्रे च सर्वत्राऽभिवर्ण्यते।
-
-
 
 **महात्मभिः शिक्षिता ये सर्वे चैत्राधिकारिणः।  
 विशुद्धव्यवसायांस्ते कुर्वन्त्येवेति निर्णयः॥ २६ ॥**
@@ -4184,8 +3836,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **"यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः।  
 न स सिद्धिमवाऽप्नोति न सुखं न परां गतिम्॥ ३५ ॥**
 
-
-
 **तस्माच्छास्त्रं प्रमाणं ते कार्याऽकार्यव्यवस्थितौ।  
 ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि"॥ ३६ ॥**
 
@@ -4208,8 +3858,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **लोकभावानुरूपं च शास्त्रं शुद्धं सनातनम्।  
 योगब्रह्मपरं चैव परप्राप्तिनिरूपकम्॥ ४२ ॥**
-
-
 
 **यथाक्रमं वर्धयति लोकाभावानुभावितः।  
 इति शुद्धरहस्ये हि कुमारेण निरूपितम्॥ ४३ ॥**
@@ -4239,8 +3887,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **यदुक्तं धर्मसेतुभ्यो महर्षिभ्यो विशेषतः।  
 तद्भवेत्परमं शास्त्रं भगवच्छास्त्रलक्षणम्॥ ५१ ॥**
-
-
 
 **इति प्राचीनहंसैश्च सत्यधर्मपरायणैः।  
 निर्णीतं ब्रह्मशास्त्रेषु लोकधर्मपरेषु च॥ ५२ ॥**
@@ -4272,8 +3918,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **किं च वै देवशास्त्रं तु नैकरूपं हि दृश्यते।  
 यथादेशं यथाकालं दृश्यते विकृतं यतः॥ ६१ ॥**
 
-
-
 **तन्नामरूपोपहितं ब्रह्म व्याख्याति शाश्वतम्।  
 तस्माद्भागवताश्चैव भक्ता ब्रह्मपरायणाः॥ ६२ ॥**
 
@@ -4299,8 +3943,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **जनार्दनः कामनाथः कृष्णः कमललोचनः।  
 एते चान्येऽपि योगीन्द्रा देवशास्त्रप्रवर्तकाः॥ ६९ ॥**
-
-
 
 **सर्वदा सर्वदेशेषु लोकसंरक्षणाय हि।  
 वर्तन्ते चेति सिद्धान्तः शुद्धयोगिभिरादृतः॥ ७० ॥**
@@ -4330,8 +3972,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **उत्तमाभयदं चैव शरणागतिलक्षणम्।  
 यच्च तद्वै कर्मशास्त्रं ह्यार्षशास्त्रं भवेदिति॥ ७७ ॥**
 
-
-
 **रामायणं महार्थं च
 शुद्धकर्मप्रवर्तकम्[^61]।  
 यथाधिकारं सर्वेषां पुरा वाल्मीकिना कृतम्॥ ७८ ॥**
@@ -4358,8 +3998,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ततो भवेद्योगशास्त्रं तुरीयं ब्रह्मलक्षणम्।  
 तश्चैवं वर्ण्यते शुद्धैर्धर्माद्यैश्चमहर्षिभिः॥ ८५॥**
-
-
 
 **तदेव योगशास्त्रं स्याद्यन्नानात्वधियं पुनः।  
 परिहृत्य यथाकालं यथाधर्मं यथास्थिति॥ ८६ ॥ **
@@ -4391,8 +4029,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **यच्च वा शास्ति शास्त्रं हि विज्ञेयत्वेन योगिनः।  
 तद्धि शास्त्रं महाशास्त्रं सत्यशास्त्रं तथैव च॥ ९५ ॥**
 
-
-
 **ब्रह्मशास्त्रं योगशास्त्रमिति पूर्वैर्महर्षिभिः।  
 कथ्यते सनकाद्यैश्च तदिदं शुद्धसम्मतम्॥ ९६ ॥**
 
@@ -4423,8 +4059,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **शास्त्रेष्वपि च सर्वेषु जीवभृतं सनातनम्।  
 योगशास्त्रं भवेच्चेति पुरा शङ्करभाषितम्॥ १०५ ॥**
 
-
-
 **योगनारायणात्स्कन्दं स्कन्दात्सामं महागुरुम्।  
 सामात्कुमारान्तेभ्यश्च ब्रह्मंलस्थान्मुनीन्पुनः॥ १०६ ॥**
 
@@ -4454,8 +4088,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 [^62]: "कलयेति, कला चात्र षोडशसंख्या, तथा च षोडशसंख्यागणितानि इत्यर्थः।"
 
-
-
 **तस्माच्च गणितं शास्त्रं तन्नवत्या भवेदिति।  
 भगवान्प्राह धर्मात्मा रीङ्खणो योगिनां वरः॥ ११५ ॥**
 
@@ -4483,8 +4115,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **प्रथमं ह्यधिलोकं च शास्त्रं स्यात्परिकीर्तितम्।  
 ततोऽधिज्यौतिषं चैव द्वितीयं स्याप्ततः पुनः॥ १२२ ॥**
-
-
 
 **अधिविद्यं तृतीयं स्यात्ततोऽधिप्रजमेव हि।  
 तुरीयं स्यात्ततोऽध्यात्मं शास्त्रं तत्पञ्चमं भवेत्॥ १२३ ॥**
@@ -4516,8 +4146,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अतो विभागः शास्त्राणां नियतश्चेति गीयते।  
 सोऽयमावश्यकश्चैव भवेदेवेति निर्णयः॥ १३२ ॥**
 
-
-
 **इदमत्र हि विज्ञेयं तत्त्वं हि मुनिपुङ्गवाः।  
 पुरा भगवता प्रोक्तं नारदेन महात्मना॥ १३३ ॥**
 
@@ -4547,8 +4175,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **एवं च प्राकृताणूनां योगेन च सनातनः।  
 सोऽयमात्मा विशुद्धश्च स्वशक्तयोपहितः स्वयम्॥ १४२ ॥**
-
-
 
 **देवतिर्यङ्मनुष्यादिव्यवहारस्य गोचरः।  
 भाति नानास्वरूपश्च नानाभावसमन्वितः॥ १४३ ॥**
@@ -4581,8 +4207,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **ब्रह्मवर्चसकामश्च विश्वामित्रश्च यो भवेत्।  
 न भेवेत्स च गायत्र्या मातुश्चछन्दसामृषिः॥ १५१ ॥**
 
-
-
 **विद्याविभागकर्ता च यश्च व्यासो महामतिः।  
 न भवेत्स च धर्मात्मा योगशास्त्रप्रवर्तकः॥ १५२ ॥**
 
@@ -4611,8 +4235,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **लोकान्तरगतानर्थानधिकृत्यैव यच्च हि।  
 धर्मान्विधत्ते तच्छास्त्रं ह्यधिलोकमितीर्यते॥ १६० ॥**
-
-
 
 **मण्डलं ज्योतिषां चैव तदशांश्चाधिकृत्य हि।  
 धर्मानावेदयेद्यश्च तदधिज्यौतिषं भवेत्॥ १६९ ॥**
@@ -4645,8 +4267,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **विद्यास्वरूपं वक्ष्यामि पूर्वाचार्याऽभिवर्णितम्।  
 यथाविभागं साङ्गं च शृणुध्वं मुनिपुङ्गवाः॥ १६९ ॥**
 
-
-
 **आत्मनो ज्ञानशक्तेश्च विकासस्य हि कारणम्।  
 स्वभावेन च या ह्यस्ति सा विद्येति निगद्यते॥ १७० ॥**
 
@@ -4678,8 +4298,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **या च ह्यपरविद्या तां कलयां गणयन्ति हि।  
 तथा सतीतिहासश्च योगश्चैव विशेषतः॥ १७८ ॥**
 
-
-
 **गणितोऽपरविद्यासु शारदेन महात्मना।  
 अपरे च महाचार्या वेदवेदाङ्गपारगाः॥ १७९ ॥**
 
@@ -4709,8 +4327,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **प्रथमं ब्रह्मणो रूप सगुणं चेति निर्णयः।  
 अधिकृत्य हि तद्ब्रह्म वक्तव्यार्थान्विशेषतः॥ १८८ ॥**
-
-
 
 **विद्याऽपराऽधिकारिभ्यो व्याख्यात्येवेति निश्चयः।  
 अपरया विद्ययैव संस्कृता ह्याधिकारिणः॥ १८९ ॥**
@@ -4742,8 +4358,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **तृतीयं ब्रह्मणो रूपं शुद्धमित्यवधार्यताम्।  
 तच्चाधिकृत्य परमा विद्या वक्तव्यमेव हि॥ १९८ ॥**
 
-
-
 **अर्थ चोपदिशत्येव सरहस्यं विशेषतः।  
 शुद्धदृष्ट्या तथा चैव सर्वं ब्रह्मेति कथ्यते॥ १९९ ॥**
 
@@ -4773,8 +4387,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **एवमुक्तं च सर्वं हि तदध्यात्मनिरीक्षणात्।  
 विज्ञानिभिर्विशेषेण यथाधर्मंहि बुध्यताम्॥ २०८ ॥**
-
-
 
 **इति विद्यास्वरूपं हि यथावदुपपादितम्।  
 तस्माद्विद्या च विज्ञेया महर्षिभिरिहादरात्॥ २०९ ॥**
@@ -4807,8 +4419,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **स्थितं मूर्ध्नि त्रिकोणस्य स्यान्मायाबीजविग्रहम्।  
 दक्षिणे च त्रिकोणस्य पादे त्वात्मा सनातनः॥ २१७ ॥**
 
-
-
 **सबीजश्चतथा वामे पादे स्यात्प्रकृतिर्मता।  
 एवं कोणत्रयं चैव तत्त्वत्रयमुदीर्यते॥ २१८ ॥**
 
@@ -4838,8 +4448,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **एवं सङ्कल्पिते चक्रे गायत्रीविद्ययोदिते।  
 संसाराख्ये च तत्त्वानि वेद्यान्येवं मुमुक्षुभिः॥ २२७ ॥**
-
-
 
 **तत्त्वानामष्टकं चैव चतुर्विंशतिसंख्यया।  
 कथ्यते तत्र तत्त्वं तु विकृतिर्गुणकर्मणोः॥ २२८ ॥**
@@ -4871,8 +4479,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **संसारिणां योगिनां च प्रत्येकं च स्वधर्मतः।  
 सर्वमूलस्य सर्वस्य ब्रह्मणः परमात्मनः॥ २३७ ॥**
 
-
-
 **विज्ञानं साधनं दिव्यं परप्राप्तेर्महात्मनाम्।  
 तस्मादेव महावाक्यं योगिभिश्चैव सेव्यते॥ २३८ ॥**
 
@@ -4902,8 +4508,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **तदेषां योगमूलत्वं यया चैव हि बुध्यते।  
 सा योगब्रह्मविद्या स्यान्महावाक्यं च सा भवेत्॥ २४७ ॥**
-
-
 
 **अन्वयेन हि गायत्र्या चतुष्पद्या सह स्वयम्।  
 युक्तं यदा महावाक्यं भवेदेव तदैव हि॥ २४८ ॥**
@@ -4936,8 +4540,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 [^69]: "शङ्कर इति—दक्षिणामूर्तिः इत्यर्थः।"
 
-
-
 **तद्गायत्रीस्वरूपत्वं मन्त्राणामस्ति सर्वथा।  
 महावाक्यस्वरूपत्वं बीजानां परिकष्यते॥ २५७ ॥**
 
@@ -4969,8 +4571,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **संसारव्यवसायानां करणैश्च त्रिभिः पुनः।  
 समीचीनैश्च युक्तस्य पुरुषस्य विपश्चितः॥ २६५ ॥**
 
-
-
 **चातुर्यं राजते यस्याः सा कलेति निगद्यते।  
 चातुर्यमधिकृत्यैव दर्शनं तत्कला भवेत्॥ २६६ ॥**
 
@@ -5001,8 +4601,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **न चैव लक्ष्मनिर्दिष्टाः क्रियाभिस्ताभिरेव च।  
 कलाया लक्षणं संख्या स्वरूपं चैव जायते॥ २७५ ॥**
 
-
-
 **कलानां तु चतुः षष्टिः संख्या वै पूर्वसूरिभिः।  
 प्रोक्ता बुभुत्सुबोधार्थं चेति शुद्धैरुदीर्यते॥ २७६ ॥**
 
@@ -5032,8 +4630,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **हंसयोगिन्नमस्तेऽस्तु भवता धर्मकोविद।  
 दर्शनानां च सर्वेषां शास्त्रविद्याकलात्मनाम्॥ २८४ ॥**
 
-
-
 **स्वरूपं सरहस्य च यथावदुपपादितम्।  
 तेषां संस्कारार्थकत्वं दर्शनानां भवेदिति॥ २८५ ॥**
 
@@ -5062,8 +4658,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **भगवदंशभूतानां महर्षीणां महौजसाम्।  
 यथाकालं यथादेशं प्रियं शुद्धं सनातनम्॥ २९३ ॥**
-
-
 
 **धर्मं तं शाश्वतं चैव जगदभ्युदयाय हि।  
 वदतां धर्मसिन्धूनां नानारूपवतां पुनः॥ २९४ ॥**
@@ -5095,8 +4689,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **कथ्यते दर्शनैः सर्वैः सम्यगुच्चावचैरपि।  
 तच्छक्तेश्चाप्तये चैव यश्च वा हि महर्षयः॥ ३०३ ॥**
 
-
-
 **क्रियते कार्यते चैव यथाकालं यथाविधि।  
 स एव हि भवेच्छ्रीमान्संस्कार इति कथ्यते॥ ३०४ ॥**
 
@@ -5125,8 +4717,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **तस्माद्भवेच्च संस्कारः शोधकश्चेति कथ्यते।  
 संस्कारस्य च सर्वस्य रहस्यार्थस्त्वयं भवेत्॥ ३१२ ॥**
-
-
 
 **शुद्धात्मशक्तिसंपत्तिर्या च स्यादधिकारिणाम्।  
 सा स्यात्प्रयोजनं सर्वसंस्कारस्येति कथ्यते॥३१३ ॥**
@@ -5157,8 +4747,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **यस्मिन्काले च कर्माणि कर्तुं वै ह्याधिकारिणः।  
 समर्थाः परिदृश्यन्ते सोऽस्ति संस्कारलक्षणः॥३२१ ॥**
-
-
 
 **तस्मात्संस्कारयोग्यश्च कर्मणां हि महर्षयः।  
 नैकरूपश्च कालः स्यात्सर्वेषां चाधिकारिणाम्॥ ३२३ ॥**
@@ -5192,8 +4780,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **प्रोक्तानां कर्मणां चैव त्रयाणां मुनिसत्तम।  
 यथाक्रमं हि संस्कारा ये च वेद्या मनीषिभिः॥ ३३२ ॥**
 
-
-
 **तेषां स्वरूपं साङ्गं च यथविधि वदस्व नः।  
 नमस्ते सर्वधर्मज्ञ नमस्ते योगिनां वर॥ ३३३ ॥**
 
@@ -5224,8 +4810,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 १ अजाऽऽदानं[^71] च यत्कर्म गर्भाधानं तदुच्यते॥ ३४१ ॥**
 
 [^71]: "अजाऽऽदानमिति—प्रकृतेः स्वीकार इत्यर्थः।"
-
-
 
 **तत्कर्मानुगतश्चैव संस्कारो यश्च दृश्यते।  
 तस्य गर्भाधानमिति दर्शनैर्नाम कथ्यते॥ ३४२ ॥**
@@ -5261,8 +4845,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **भवेदिति हि सिद्धान्तस्तत्त्वविद्भिर्निगद्यते।  
 तस्मादेव हि गर्भानां शुद्धिश्च विहिता भवेत्॥ ३५१ ॥**
 
-
-
 **समभावोदयश्चैव शुद्ध्याचैव तया भवेत्।  
 गर्भाधानं विशुद्धं च संस्कारादेव जायते॥ ३५२ ॥**
 
@@ -5295,8 +4877,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **तस्माद्गार्भश्च संस्कारो विहितो गर्भशुद्धये।  
 सर्वैश्चदर्शनैरेव भवेत्स प्रथमः स्मृतः॥ ३५९ ॥**
 
-
-
 **संस्कारस्य च गार्भस्य त्रैविध्यं चैवमुच्यते।  
 देवं चार्षं मानुषं च स्यादिति प्रेष्ठसूरिभिः॥ ३६० ॥**
 
@@ -5322,8 +4902,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **आर्षमानुषगर्भाः स्युरिति ज्ञेयं मनीषिभिः।  
 भार्गवो वामनश्चैव कपिलो भगवान्तथा॥ ३६७ ॥**
-
-
 
 **तथा चैवं विधाश्वान्ये ते सर्वे च महर्षयः।  
 दैवार्षगर्भाः सन्तीतिविज्ञेयं धर्मकोविदैः॥३६८॥**
@@ -5353,8 +4931,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इत्थं भगवता पूर्वे नारायणमहर्षिणा।  
 प्रथमसंस्काराङ्गस्य गर्भाधानस्य योगिनः॥३७६॥**
-
-
 
 **व्याख्यातोऽस्ति रहस्यार्थो नारदाय महात्मने।  
 तमद्य संप्रवक्ष्यामि संग्रहेण महर्षयः॥३७७॥**
@@ -5386,8 +4962,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **सोऽयं कर्ता गर्भवाच्योत्भवेदिति निगद्यते।  
 इत्युक्तानां प्रयाणां च गर्भाणां मन्त्रपूर्वकम्॥३८६॥**
 
-
-
 **विहिता येन शुद्धिःस्याद्यथाकालं विशेषतः।  
 तदिदं हि भवेद्रर्भाधानं संस्कारलक्षणम्॥३८७॥**
 
@@ -5417,8 +4991,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ये च स्खलितवीर्याश्चदुराचारान्महर्षयः।  
 न ते हि गर्भाधाने च भवेयुरधिकारेणः॥३९६॥**
-
-
 
 **साधारणोऽयं नियमः स्त्रीपुंसोरस्ति सर्वथा।  
 यतः स्याद्गृहमेधश्चस्त्रीपुंभ्यां च कृतः स्वयम्॥३९७॥**
@@ -5453,8 +5025,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 [^82]: "तपोविभूतिमन्तमिति—गुरुभक्तिमात्रसंजाताऽखिलदर्शन विज्ञानैश्वर्यसंपन्नम् इत्यर्थः।"
 
-
-
 **अहं वै संप्रजानामि सुस्निग्धेनैव चेतसा।  
 पुत्रकाम महाराज जायस्व प्रजया[^83] प्रभो॥४०६॥**
 
@@ -5481,8 +5051,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **पुनश्च प्राणानायम्य संकल्प्य च यथाफलम्।  
 फलदानं यथाधर्म बन्धुभ्यश्च समाचरेत्॥४१२॥**
-
-
 
 **पुरुषेषु महाविष्णुं स्त्रीषु लक्ष्मीं च देवताम्।  
 आवाह्य मन्त्रपूर्वे हि साङ्गां पूजां विधाय हि॥४१३॥**
@@ -5514,8 +5082,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **पथ्यैश्च विविधैर्भक्ष्यैः फलैश्चरतिवर्धकैः।  
 यथास्थानं च निहितैस्तथान्यैर्भोगसाधनैः॥४२२॥**
 
-
-
 **एलावलङ्गखर्जूरशर्कराकुंकुमैः पुनः।  
 संश्लिष्टेन सुतप्तेन क्षीरेण च यथासुखम्॥४२३॥**
 
@@ -5546,8 +5112,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **सीमन्तमूर्ध्नि परन्यास्तु शुद्धपुष्पाक्षताश्चिते।  
 शुद्धं दक्षिणहस्ताग्रंनिधाय हि समाहितः॥४३२॥**
 
-
-
 **ओं ह्रीं प्रजानां प्रजनाः सुवीराः  
 सुवर्चसः शक्तिह्युताश्च देवाः।  
 हार्देश्वरांशाः कमनीयवाचो  
@@ -5574,8 +5138,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ततश्चाऽप उपस्पृश्य दंपती धर्ममानसौ।  
 गृहमेधं यथारूपं चरेतां प्रीतिपूर्वकम्॥४३९॥**
-
-
 
 **अन्यत्सर्वं तदीयं च यथादेशं यथाकुलम्।  
 यथाकालं च विधिवच्चरेतां प्रीतमानसौ॥४३०॥**
@@ -5604,8 +5166,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **वृक्षराजस्य पूजायां पायसान्नं निवेदयेत्।  
 श्वेतपुष्पाणि पूजायां प्रशम्यन्ते विशेषतः॥४४७॥**
-
-
 
 **“मूलतो ब्रह्मरूपाय मध्यतो विष्णुरूपिणे।  
 अग्रतः शिवरूपाय वृक्षराजाय ते नमः"॥४४८॥**
@@ -5637,8 +5197,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **जीवसामान्यवचनः पुंशब्दःस्यादितीर्यते।  
 अतः पुंशब्दवाच्यः स्यात्पुमान्स्त्रीचाऽविशेषत॥४५७॥**
 
-
-
 **प्रसवः सवनार्थः स्यात्पुंस्त्रीलिङ्गः सुलक्षणः।  
 इति तस्मादयं वेद्यः सर्वैश्चैवाधिकारिभिः॥४५८॥**
 
@@ -5668,8 +5226,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 सदस्यैरभ्यनुज्ञातः प्राणानायम्य धर्मतः[^90]॥४६५॥**
 
 [^90]: " धर्मत इति स्वभावत इत्यर्थ। एवमेवात्र सर्वत्र भवतीति विज्ञेयम्।"
-
-
 
 **अष्टाङ्गं चैव सङ्कल्पं सात्विकत्यागपूर्वकम्।  
 कृत्वा विघ्नेशपूजां च यथाकल्पं समाचरेत्॥४६६॥**
@@ -5702,8 +5258,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 [^95]: "सुधावृक्षादिनीति—वृक्षादिनीत्यर्थः। तद्गुणश्चात्र सुधेति कथ्यते। ओषधिरियं केषु चित् 'वटाश्वत्थप्लक्षर्निबनारङ्गजंबूपन"
 
-
-
 **तथा ताम्रफलोपेता दिव्यौषधिरचंचला।  
 तां च विज्ञाय तस्यास्तु सफलं कोरकं हरेत्॥४७३॥**
 
@@ -5724,8 +5278,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **स्वलङ्कृता कुङ्कुमाद्यैर्विशुद्धा च विशेषतः।  
 या च साऽपि भवेद्रव्यं तत्पुंसवनकर्मणि॥४७७॥**
-
-
 
 **गर्भरक्षाकरं सूत्रं हरिद्रातं यथाविधि[^99]।  
 श्वेतार्कतन्तुनिर्वृत्तं तुरीयं द्रव्यमुच्यते॥४७८॥**
@@ -5755,8 +5307,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अथ पत्नी यथापूर्वे मुक्तनासाविभूषणा।  
 समीपं भर्तुरागच्छेत्तत्पुंसवनकांक्षिणी॥४८५॥**
 
-
-
 **अथाऽग्नेश्चोत्तरे भागे ह्यदगग्रान्कुशान्क्षिपेत्।  
 एकादश च पत्नीं तां तत्र संस्थापयेत्पतिः॥४८६॥**
 
@@ -5785,8 +5335,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **अथाऽलङ्कृतयोश्चैव कन्ययोश्च करेण हि।  
 मर्दनं कोरकस्यैव सफलस्य च कारयेत्॥४९२॥**
-
-
 
 **पत्नी च कपिलाक्षीरं सेचयेच्चशनैः शनैः।  
 तत्सफलकोरकस्य मर्दने सति धर्मतः॥४९३॥**
@@ -5820,8 +5368,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 [^108]: " मन्त्रपूर्वकमिति—ओं—खं—हि—सौः—श्रीं—ह्री—बलवती भव स्वाहा, इति मन्त्रमुच्चार्येत्यर्थः।"
 
-
-
 **तदा मङ्गलवाद्यानि वादयेश्च यथाविधि।  
 तथा सुमङ्गलीभिश्च नारीभिः शुद्धमानसाः[^109]॥५०१॥**
 
@@ -5852,8 +5398,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इति गर्भाधानविधौ चार्थशुद्ध्यर्थकः परः।  
 पुंसवनाख्यसंस्कारः कथितः स्यान्महर्षयः॥५०८॥**
 
-
-
 **अथ गमाधानविधौ कतृशुद्धयथेकश्च यः।  
 संस्कारः सोऽयमित्थं हि वर्ण्यते पूर्वसूरिभिः॥५०९॥**
 
@@ -5882,8 +5426,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इत्थं शुद्धरहस्ये स्यात्तदिदं चाभिवर्णितम्।  
 विशेषतः सदृष्टान्तं सङ्क्षेपस्तस्य कथ्यते॥५१७॥**
-
-
 
 **सीमन्तिनीति च स्त्रीणां नाम सीमन्तदर्शनात्।  
 अन्वर्थे च भवेदेवं व्यवहारश्च दृश्यते॥५१८॥**
@@ -5919,8 +5461,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **समाहरेत्ततश्चैतद्द्वयंचैव विशेषतः।  
 समायोज्य यथाकल्पं शलल्यप्रे निधाय च॥५२५॥**
 
-
-
 **यथापूर्वे चूतपत्रे शललीं तां निवेशयत्।  
 ततो भर्ता गर्भिणी तां पत्नीं चैव यथाविधि॥५२६॥**
 
@@ -5947,8 +5487,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **तिलप्रमाणनिम्ने च सत्त्वं चैव महौषधेः।  
 विलेपयेच्छलल्या तु तया चैव ततः पुनः॥५३२॥**
-
-
 
 **छिन्नस्थानं रसेनैव शस्त्रिण्याश्च[^121] विलेपयेत्।  
 अथचाभ्युक्षयेत्पत्नीं गर्भिणींमन्त्रवारिणा[^122]॥५३३॥**
@@ -5980,8 +5518,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **तश्चवै द्विविधं प्रोक्तं शुद्धं चाऽशुद्धमित्यपि।  
 विज्ञेयमस्ति तत्त्वेन शुद्धं चात्मीयमुच्यते॥५४०॥**
 
-
-
 **अशुद्धं प्राकृतमिति शुद्धार्यैश्च महर्षिभिः।  
 तत्र शुद्धं हि शुद्धार्यैः क्रियते चेति निर्णयः॥५४१॥**
 
@@ -6010,8 +5546,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **तत्पार्षदैश्चसिद्धैर्हि क्रियते सर्वमेव च।  
 अवां तत्प्रतिनिधी च भवाव इति तत्त्वत,॥५४९॥**
-
-
 
 **निर्णयेतां विशुद्धेन भावेन ख महर्षयः।  
 इति शुद्धार्यसिद्धान्तो विज्ञेयः स्यान्मनीषिभिः॥५५०॥**
@@ -6043,8 +5577,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **सीमन्तोन्नयनाच्छुद्धात्कर्तृशुद्ध्यर्थकात्पुनः।  
 जातः पुमांश्च संपूर्णो भवेदिति च निर्णयः॥५१९॥**
 
-
-
 **यदशुद्धं प्राकृतं च बर्णोश्रमविधानजम्।  
 सीमन्तोन्नयनं तस्माल्लोकवृद्धिर्न जायते॥५६०॥**
 
@@ -6075,8 +5607,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **ततः स्वलङ्कृतां पत्नीं हस्ते कृत्वा यथाविधि।  
 मण्टपं प्रविशेच्चाथ सदस्यैः सह सङ्गतः॥५६७॥**
 
-
-
 **पुरोहितैः सदस्यैश्च ह्यनुज्ञातो यथाविधि।  
 सीमन्तोन्नयनं कर्म कर्तृशुद्ध्यर्थकं चरेत्॥५६८॥**
 
@@ -6105,8 +5635,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
  १.गौतमीविद्यामत्राः इति—गौतमीनाम्नी योगदेवीस्वरूपा सिद्धकन्यकाभवति या, तयोक्तमन्ता इत्यर्थः। ते च—( १ ) ओं-ह्रीं-श्रीं-सौः-कं-हिं-सौः-धात्रे वाय स्वाहा, (२) ओं-ह्रीं-क्लीं-,सौः-ऐं-क्रीं-श्रीं-धात्रे देवाय स्वाहा, (३) ओं-ह्रीं-ऐं-श्रीं-सौः धात्रे देवाय स्वाहा, (४) ओ-हं-खं-ह्रीं-श्रीं-क्लीं-सौः-ऐं क्रीं श्री
 
-
-
 **एवं सीमन्तहवनं कृत्वा मन्त्रेण धर्मतः।  
 सीमन्तोन्नयनकर्म विधिवच्च समाचरेत्॥५७६॥**
 
@@ -6131,8 +5659,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 धात्रे देवाय स्वाह। इति चत्वारः प्रथमदेवताहोममन्त्राः। (१) ओं-हीं-श्रीं-श्रीं-ओं-न-मः-ना-रा-य-णा-य-सौः-हिं-देवाय विधात्रेनारायणाय स्वाहा,(२) ओं श्रीं-भद्राय विधात्रेदेवाय स्वाहा' इति द्वौ द्वितीयदेवताहवनमन्त्रौ भवतः। ओं-ह्रीं-श्रीं-क्रीं-न-मः-शि-वा-य-सौः-हिं-महादेवाय सन्धात्रे देवाय स्वाहा, ओं-श्रीं-ह्रीं-भद्रमुखाय वीरभद्राय सन्धात्रे देवाय स्वाहा, इति द्वौ तृतीयदेवता हवनमन्त्रौभवतः, इति मन्त्रस्वरूपमवधेयं भवति।
-
-
 
 **इति पञ्चस्तवं चैव सिद्धनागार्जुनोदितम्।  
 पवित्रं सर्वमन्त्राणां जपेदिष्टार्थसिद्धये॥५८३॥**
@@ -6161,8 +5687,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 [^131]: "कवचमिति—मन्त्ररूपं रक्षाकंर स्तोत्रमित्यर्थः। तत्स्वरूपमित्थम्– "
 
 [^132]: " दक्षसेवितमिति—दक्षनाम्ना सिद्धेन सेवित. मित्यर्थः।"
-
-
 
 **ततश्च प्राणानायम्य सङ्कल्पं च यथाविधि।  
 त्रेण्या विशुद्धया चैव शलल्या दर्भबद्धया॥५८९॥**
@@ -6195,8 +5719,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **"योगेश्वरि परेशानि महादेवि महेश्वरि।  
 महाभाग्यप्रदे रम्ये ब्रह्मण्ये सर्वमङ्गले॥५९७॥**
 
-
-
 **आत्मशक्तिस्वरूपा त्वं ब्रह्मशक्तिस्वरूपिणी।  
 भवस्यार्तशरण्या च त्वमेव जगदीश्वरी॥५९८॥**
 
@@ -6227,8 +5749,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अथ भर्ता यथाशास्त्रंबह्नयुपस्थानमाचरेत्।  
 तथा कालोविxसर्वंकुर्याद्यविधिपूर्वकप्॥६०७॥**
 
-
-
 **ब्राह्मणान्भोजयेद्वन्धून्स्रियश्चाऽपि विशेषतः।  
 तेभ्यो दद्याश्चतांबूलं फलं चैव सदक्षिणम्॥६०८॥**
 
@@ -6258,8 +5778,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ततः स्नात्वा यथाकामं पूतांबरधरः शुचिः।  
 सह मात्रा च जातं च स्नापयेञ्च यथासुखम्॥६१७॥**
-
-
 
 **यथा चारं च तिलकं धृत्वा शुभविभूषणः।  
 पत्नीं जातं च विधिवदलङ्कर्याद्विशेषतः॥६१८॥**
@@ -6292,8 +5810,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 [^139]: "अन्येषामिति सूतिकागृह प्रविष्टपदार्थानामित्यर्थः।"
 
-
-
 **पुण्याहकर्मणा[^140] कार्या शुद्धिरित्येव निर्णयः।  
 वृद्धः पुरोहितश्च स्यात्कर्ता पुण्याहकर्मणि॥६२५॥**
 
@@ -6324,8 +5840,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 निदध्यान्मन्त्रपूर्वे[^144] हि ततश्चैवं पुनर्जपेत्॥६३१॥**
 
 [^144]: "मन्त्रपूर्वमिति-ओं ह्रीं श्रीं सौः, वसुन्धरे देवी जातं मेऽभिरक्षस्वाहा इति मन्त्रमुच्चार्येत्यर्थः,"
-
-
 
 **जन्मनक्षत्रमेवं हि जपेन्माताऽपि सुव्रता।  
 तथा पुरोहितेनैव जपः कार्य इतीर्यते॥६३३॥**
@@ -6359,8 +5873,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **तन्नामलक्षणं चैव ह्यक्षरं चतुरक्षरम्।  
 प्रशस्तं भवतीत्येव सिद्धान्तः शुद्धसंमतः॥६३९॥**
 
-
-
 **ततश्चाप उपस्पृश्य तत्प्राणायामपूर्वकम्।  
 सात्विकत्यागपूर्वे च सङ्कल्पं संविधाय च॥६४०॥**
 
@@ -6388,8 +5900,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इदं स्वाभाविकमपि यद्यपि स्याच्च देहिनाम्।  
 तथाऽप्यन्नस्य भूतानां रक्षकस्य विशेषतः॥६४७॥. **
-
-
 
 **शुद्धयेऽन्नप्राशनाङ्कं नियतं स्यादितीर्यते।  
 अन्नशुद्धिश्चभूतानां बलप्राणप्रदायिनी॥६४८॥**
@@ -6421,8 +5931,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **विघ्नेश्वरस्य पूजां च प्रथमं हि विधाय च।  
 तदग्नस्य प्रतिष्ठां च कुर्यादित्येव निर्णयः॥१५७॥**
 
-
-
 **प्राङ्मुखांश्चतुरो दर्भान्निधाय च समन्त्रकम्[^151]।  
 तथैव कदलीपत्रं साग्रंतेषु विनिक्षिपेत्॥६५८॥**
 
@@ -6452,8 +5960,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ततो यथोचितंसर्वे यथाविधि समाचरेत्।  
 इत्यन्नप्राशनं कर्म व्याख्यातं मुनिपुङ्गवाः॥६६५॥**
-
-
 
 **एवं प्रथमसंस्कारस्याङ्गानि च यथाक्रमम्।  
 कर्मसंस्काररूपाणि त्रीणि स्युरुदितानि च॥६६६॥**
@@ -6485,8 +5991,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **संवर्धिता भवेच्येति कथितं १यञ्चसूनुना।  
 यज्ञतूनुश्चभगवन्भवेत्स्कन्दः सनातनः॥६७५॥**
 
-
-
 **इत्यतः प्रथमाच्चैव संस्काराज्जायते परा।  
 शक्तिः कौमाराऽनुरूपा देहिनामिति चोच्यते॥६७६॥**
 
@@ -6516,8 +6020,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इति तस्माच्च सर्वेषां विद्याभ्यासाख्यकर्मणाम्।  
 प्राकृतास्त्रिविधाश्चैव संस्कारा विहिताऽभवन्॥६८५॥**
-
-
 
 **एषु सर्वेषु पितरौ संस्कर्तारौ तथा मतौ।  
 बान्धवाश्च कुमाराणां संस्कर्तारौ भवन्ति च॥६८६॥**
@@ -6549,8 +6051,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इत्थमेवोपनयनशब्दार्थो वर्णितो भवेत्।  
 त्रिविधश्चैव शुद्धार्यैर्धर्मकामैर्महर्षिभिः॥६९५॥**
 
-
-
 **रम्यां कुलपतेः शालां सद्विद्याग्रहणाय हि।  
 नयनं देहिनो यद्धि तच्चोपनयनं भवेत्॥६९६॥**
 
@@ -6580,8 +6080,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **परं चैव हि संसार सर्वाश्चव्यवसायिनः।  
 नेत्रा यत्क्रियते कर्म ब्राह्मोपनयनं च तत्॥७०५॥**
-
-
 
 **पूर्तिश्च व्यवसायस्य प्रान्धस्य च देहिनाम्।  
 परसंसारकर्तव्यव्यवसायस्य निश्वयः॥७०६॥**
@@ -6613,8 +6111,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **शुद्धोपनयनाख्याश्चब्राह्मोपमयनात्पुनः।  
 जायते योगशक्तिश्चब्रह्मसामीप्यदायिनी॥७१५॥**
 
-
-
 **तया हि प्राणिनः सर्वे धीराश्चोर्जस्विनस्तथा।  
 भूतिभिः स्वानुरूपाभिर्युक्ताश्चैव विशेषतः॥७१६॥**
 
@@ -6643,8 +6139,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 यथाक्रमं चैव ततः पिता चाचम्य मन्त्रतः[^154]॥७२४॥**
 
 [^154]: "मन्त्रत इति—ओं-ऐं-स्वाहा, इत्याचमनमन्त्रो भवति।"
-
-
 
 **प्राणानायम्य सङ्कल्पं विधाय च यथाविधि।  
 पुण्याहकर्ममाङ्गल्यंकृत्वा तीर्थेन तेन च॥७२५॥**
@@ -6676,8 +6170,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **विद्याप्रथमपादार्च्येब्रह्मण्ये ब्रह्मचारिणि।  
 ज्ञानमुद्रे ज्ञानपीठे ज्ञानेश्वरि सरस्वति॥७३४॥**
 
-
-
 **ओं श्रीं ऐं ह्रीं ब्रह्मविद्ये सर्वदर्शनदेवते।  
 योगेश्वरि महादेवि कूर्चेऽस्मिन्सन्निधिं कुरु"॥७३५॥**
 
@@ -6706,8 +6198,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **यथाक्रमं यथाधर्मे साकं विद्याधिकारिभिः।  
 ततः कुमारस्य पुरो धान्यराशिं विधाय हि॥७४२॥**
 
-
-
 **समास्तीर्य विधानेन कुमारेण च तत्र हि।  
 यथाक्रमं[^157] लेखयेच्च वर्णान्माहेश्वरान्विता॥७४३॥**
 
@@ -6734,8 +6224,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **एवमेव द्वितीयश्च संस्कारः प्राकृतश्चयः।  
 सोऽयं भवेत्स चापि स्याद्धर्माभ्यासस्वरूपभाक्॥७४९॥**
-
-
 
 **अर्थाभ्यासस्वरूपः स्यात्तनीयः प्राकृतश्च यः।  
 सोऽयं तथैव हि परः कार्य इत्येव निर्णयः॥७५०॥**
@@ -6767,8 +6255,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **मण्टपं च कुमारेण प्रविशेतां यथासुखम्।  
 तदैव वाद्यघोषं च विशेषेण च कारयेत्॥७५९॥**
 
-
-
 **अथाचम्य पिता शुद्धः सपवित्रकरः स्वयम्।  
 साकं पत्न्याकुमारेण सदस्येभ्यो यथाविधि॥७६०॥**
 
@@ -6799,8 +6285,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **कृत्वा विघ्नेशपूजां च यथाशास्त्रं समाचरेत्।  
 ततश्चैव सदस्येभ्योऽनुज्ञांप्राप्य पिता स्वयम्॥७६९॥**
 
-
-
 **कुमारं मन्त्रपूतेन तीर्थेन ब्राह्मणैः सह।  
 प्रोक्षयेश्चाथ विधिवत्कुमारस्य महर्षयः॥७७०॥**
 
@@ -6829,8 +6313,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 प्रणवं[^160] पूर्वमुच्चार्य श्रीं बीजं च ततः परम्॥७७८॥**
 
 [^160]: "प्रणवमिति-ओं-श्री-सौः देवदत्तृशर्मणे दीर्घायुष्यं देहि स्वाहा, इति मन्त्रस्वरूपं मवति।"
-
-
 
 **ततश्चामृतबीजं च चतुर्थ्यन्तं हि नाम च।  
 कुमारस्य ततो दीर्घमायुष्यं देहि स्वाहेति॥७७९॥**
@@ -6862,8 +6344,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **निहितं सर्वमेतञ्चदृषत्पुत्रे महर्षयः।  
 निमन्त्रितैरष्टभिश्च ब्राह्मणैः सह धर्मवित्॥७८८॥**
 
-
-
 **पिता च यजमानश्च संस्कुर्याच्च यथाविधि।  
 संस्कारयोग्यमन्त्रा ये ते चेत्थमभिवर्णिताः॥७८९॥**
 
@@ -6894,8 +6374,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **पश्चामृतस्य संस्कारः सोऽयमित्थं निगद्यते।  
 शुद्धसूत्रे यथाशास्त्रं तं च वक्ष्ये महर्षयः॥७९८॥**
 
-
-
 **आचम्य च पिता शुद्धः सपवित्रकरः स्वयम्।  
 प्राणानायम्य सङ्कल्पं सात्विकत्यागपूर्वकम्॥७९९॥**
 
@@ -6924,8 +6402,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **अथ प्रणम्य पितरमुपविष्टं वरासने।  
 प्राङ्मुखं च कुमारोऽयं स्वयं तिष्ठन्नुदङ्मुखः॥८०७॥**
-
-
 
 **बद्धाञ्जलिपुटश्चैवं प्रार्थयेत्पितरं गुरुम्।  
 तथैव हि सदस्यांश्च ब्रह्मणांश्व विशेषतः॥८०८॥**
@@ -6957,8 +6433,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **आवाहनं ब्रह्मणश्च प्रथमं विधिपूर्वकम्।  
 कर्तव्यत्वेन विहितं ततो होमोविधीयते॥८१७॥**
 
-
-
 **तत्र पुरुषसूक्तेन होमश्च प्रथमो भवेत्।  
 ततो व्याहृतिहोमश्च विहितो ब्रह्मसूनुना॥८१८॥**
 
@@ -6986,8 +6460,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ततश्चाचार्यशिष्यौच पितापुत्रौ यथाविधि।  
 जपेतां चात्मभूत्यर्थेब्रह्मणा चानुशिक्षितौ॥८२५॥. **
-
-
 
 **इत्युक्तं स्यात्तरीयाङ्गं चात्मोपनयनस्य हि।  
 ततः स्यात्पञ्चमं साङ्गं स्ववेदाध्ययनं तथा॥८२६॥**
@@ -7019,8 +6491,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **प्रोवायू दंपती शुद्धौ प्राणनाथौ सनातनौ।  
 ह्रीं अं बीजसमुत्पन्नौ प्रपद्ये तो महार्थदौ॥८३५॥**
 
-
-
 **छन्दोयज्ञस्वरूपौ यौ दंपती कर्मलक्षणौ।  
 ह्रीं अं बीजस्वरूपौ तौ चेतसा शरणं भजे॥८३६॥**
 
@@ -7051,8 +6521,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इत्युक्तं पञ्चमं चाङ्गं ह्यात्मोपनयने भवेत्।  
 अथ चेत्थं षष्ठमङ्गं विज्ञेयं स्यान्महर्षिभिः॥९४५॥**
 
-
-
 **प्राणायामोपदेशश्च[^164] वलातिवलयोस्तथा।  
 विद्ययोरुपदेशश्च षष्ठेऽङ्गेऽस्मिंश्च चोदितः॥८४६॥**
 
@@ -7072,8 +6540,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
  (२) वामदेवरहस्येनेति—इत्थं पुनस्तयोर्विद्ययोः स्वरूपं जपप्रकारश्च विज्ञायते—अस्य श्रीबलादेवीमहामन्त्रस्य आदित्यः ऋषि, गायत्रीछन्दः, श्रीबलादेवी देवता। श्रैं-बीजम् ह्रीं शक्तिः, हुं कीलकम्। शारीरश्रमनिवृत्त्यर्थे जपे विनियोगः। श्रां-श्री-श्रूं-श्रीः-श्रः, इति षड्भिबीजैः षडङ्गन्यासाः कार्याः। इत्थं हि ध्यानं भवति—वन्दे बलां महादेवी दिव्यामृतकरोज्वलाम्। प्रसन्नवदनांभोजां शारीराऽऽरोग्यसिद्धये॥इति। एवं मूलमन्त्रः—तत्सवितुर्वरेणीयं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्, क्लीं ऐं सौः बलायै नमः॥इति। अस्या जपसंख्या च प्रतिदिनमष्टोत्तरशतं 
 
  अस्य श्री अतिबलामहामन्त्रस्य, कृशाश्वो भगवानृषिः, गायत्रीछन्दः, अतिबलाऽमृतस्वरूपा देवी देवता। अं बीजमू, उं-शक्तिः, मं-कीलकम्।
-
-
 
 **ततश्च सप्तमं ह्यङ्गमात्मोपनयनस्य च।  
 माणवकेन कार्या च पित्रोः पूजेति तद्भवेत्॥८५०॥**
@@ -7096,8 +6562,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 मममृत्युनिवृत्यर्थे जपे विनियोगः। क्लां क्लीं क्लू-क्लै-क्लौः-क्लः, इति षड्भिबीजैःषडङ्गन्यासाः भवन्ति। ध्यानम्—मृतसञ्जीविनीं विद्यां देवीं पद्मासनस्थिताम्। दीर्घायुष्यप्रदां वन्दे मातरं हेममालिनीम्॥ इति। एवं मूलमन्त्रस्वरूपम्—तत्सवितुर्वरेणीयं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात्. ह्रीं-क्लीं-अतिबले हुं फट्॥ इति। अस्या जपसंख्या चाष्टोत्तरशतं भवति। इति।
 
  (१) आत्मस्तोमत्रयमिति—आत्मोपनयनाङ्गभूतं स्तोमत्रयमित्यर्थः त्थमवगम्यते—
-
-
 
 **प्रदक्षिणप्रणामौ च तथा चैवाभिवादनम्।  
 तत्सर्वं पितृपूजेति प्राह दामोदरो मुनिः॥८५६॥**
@@ -7133,8 +6597,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
  कुमारः—अनुगृहीतोऽस्मि महद्भिः॥
 
-
-
 **अथात्मीयोपनयने चाष्टमं ह्यङ्गमुच्यते।  
 तस्य चावभृतं नाम भवेदिति च निर्णयः॥८५४॥**
 
@@ -7163,8 +6625,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
  ९. कुमारः—धर्म सनातनं ब्रहि ?
 
  पिता—सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु साधुषु पापेषु विशिष्टो भूयाः। भगवानस्नारायणः प्रसीदतु।
-
-
 
 **उक्तानां कर्मणामस्मिन्साद्गुण्यस्य च सिद्धये।  
 पुनः पूर्णाहुतिश्चैव प्राणायामादिपूर्विका॥८५९॥**
@@ -7196,8 +6656,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अधाशीर्वचनं चैव सदस्येभ्यो विशेषतः।  
 प्राप्नुयाद्ब्रह्मचारी च पितरौ च यथाबलम्॥८६८॥**
 
-
-
 **अथ च ब्राह्मणान्सर्वान्बन्धून्मित्राणि सादरम्।  
 भोजयेच्च यथाशास्त्रं ततः सर्वान्विशेषतः॥८६९॥**
 
@@ -7227,8 +6685,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **रहस्यार्थस्य विज्ञानं तत्त्वविज्ञानपूर्वकम्।  
 इत्याह भगवान्धर्मशास्ता योगी च वामनः॥८७८॥**
-
-
 
 **ततश्च पञ्चमो धर्मः प्रणवाध्ययनं भवेत्।  
 तथा योगब्रह्मविद्याध्ययनं स्याद्विशेषतः॥८७९॥**
@@ -7260,8 +6716,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **ञ्चकोणप्रभं दिव्यं तृतीयं लोचनं तथा।  
 अभयं सर्वभूतेभ्यो ददातीत्याह नारदः॥८८८॥**
 
-
-
 **ब्राह्मोपनयनेनैव दीक्षितानां महर्षयः।  
 दिव्यदृष्टिगोचरस्य दहराकाशवर्तिनः॥८८९॥**
 
@@ -7291,8 +6745,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **यथादेशं यथाकालं यथाबलमतन्द्रितैः।  
 महर्षिभिश्चतेषां हि लक्षणं विहितं परम्॥८९८॥**
-
-
 
 **तेषां च हि प्राकृतादिभेदैश्चैव त्रिभिः पुनः।  
 त्रैविध्यमपि कथ्यन्ते शुद्धैश्चैव महर्षिभिः॥८९९॥**
@@ -7324,8 +6776,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **ब्राह्मोद्वाहधर्मः प्राकृतो यो महर्षयः।  
 तस्य स्वरूपमेवं हि कथ्यते शुद्धयोगिभिः॥९०८॥**
 
-
-
 **यस्मिंश्च धार्मिकाः कन्याज्ञातयः स्वयमेव हि।  
 कान्तं पुष्टवपुष्मन्तं वरमाहूय तस्य च॥९०९॥**
 
@@ -7355,8 +6805,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **यदृच्छया चोपगतं वरं दृष्ट्वातमेव हि।  
 परीक्ष्य बहुधा तस्मै तूष्णीं यच्छन्ति कन्यकाम्॥९१८॥**
-
-
 
 **यत्र चैवं वरस्तूष्णीं कन्यां गृण्हाति सादरम्।  
 सोऽयं चाऽपि प्राकृतः स्याद्ब्राह्मोद्वाह इतीर्यते॥९१९॥**
@@ -7388,8 +6836,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **आत्मीयो ब्राह्मसंज्ञश्च कथ्यते हि महर्षिभिः।  
 ण्यातो लोकप्रमादोऽयं विवाह इति शास्त्रतः॥९२८॥**
 
-
-
 **वैवाहिकीं क्रियां सन्तः प्रशंसन्ति प्रजाहिताम्।  
 लोकप्रवादशान्त्यर्थे पुण्यलोकस्य सिद्धये॥९२९॥**
 
@@ -7419,8 +6865,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **मोऽयं ब्राह्मो विवाहश्च शुद्ध इत्यभिधीयते।  
 सोऽयसुद्वाहसंस्कारः शुद्धः स्वादिति निर्णयः॥९३८॥**
-
-
 
 **कन्यायाः पुरुषस्याऽपि परीक्षा धर्मलक्षणा।  
 कन्यया पुरुषेणैव कार्या स्याश्च परस्परम्॥९३९॥**
@@ -7452,8 +6896,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **स्यादृतुमती शुद्धा वरकामा मनस्विनी।  
 भवेत्स्त्रीसैव कन्येति कथ्यते कृष्णयोगिना॥९४८॥**
 
-
-
 **निर्णयित्वा तु कालं हि स्त्रीणां वै पापशङ्किनः।  
 केचिन्महर्षयः कन्यास्वरूपं प्रवदन्ति च॥९४९॥**
 
@@ -7483,8 +6925,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **मन्त्रसिद्धेन विन्देत सुप्रीतेनान्तरात्मना।  
 इत्येवं धर्मविद्यासु वर्णितः स्यान्महर्षयः॥९५८॥**
-
-
 
 **तस्मादृतुमतीनां च मन्त्रसंस्कारलक्षणः।  
 ब्राह्मोद्वाहस्तदात्मीयो विहितो ब्रह्मसूनुना॥९५९॥**
@@ -7516,8 +6956,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **द्धावानाह्निकेष्वेव सन्ध्यास्नानजपादिषु।  
 विशेषेण च पुण्यार्थी देवताऽतिथिपूजकः॥९६८॥**
 
-
-
 **आत्मविज्ञानसंपन्नश्चात्मशास्त्रविचारवान्।  
 यश्च सोऽयं विवाहेऽस्मिन्वरः स्यादिति कथ्यते॥९६९॥**
 
@@ -7547,8 +6985,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **प्रजानामभिवृद्धिश्च या भवेद्गृहमेधतः।  
 तया तृप्ताश्च पितरः पूर्णौ तौ दंपती तथा॥९७८॥**
-
-
 
 **भवेयुरिति विद्यासु सप्रमाणं निरूपितम्।  
 इत्थं सनातनो धर्मो दंपत्योश्च निगद्यते॥९७९॥**
@@ -7580,8 +7016,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **ख्यातो लोकप्रवादोऽयं विवाह इति शास्त्रतः।  
 वैवाहिकां क्रियां सन्तः प्रशंसन्ति प्रजाहिताम्॥९८८॥**
 
-
-
 **लोकप्रवादशान्त्यर्थे विवाहं विधिना कुरु।  
 यथायुक्तो विवाहः स्यात्तथा युक्ता प्रजा भवेत्॥९८९॥**
 
@@ -7611,8 +7045,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **तस्माद्रर्भस्योद्वहनं चोद्वाहू इति निर्णयः।  
 इत्येवं धर्मविद्यासु विशेषेण निरूपितः॥९९८॥**
-
-
 
 **स्त्रीपुंसोश्चैव यो योगो धर्म्यश्च विधिपूर्वकः।  
 उद्वाहः सोऽयमेवेति तावत्कन्येति सोच्यते॥९९९॥**
@@ -7644,8 +7076,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **राक्षसेन विधानेन विन्देत स्वप्रयत्नतः।  
 न च दुष्टोऽयमुद्वाह इति शुद्धैर्निगद्यते॥१००८॥**
 
-
-
 **हेतुना येन केनापि स्वार्थदुष्टेन च प्रियम्।  
 अकुर्वतां च कन्याया द्विषतां च विशेषतः॥१००९॥**
 
@@ -7675,8 +7105,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **यत्र कन्या विशुद्धा च हृता स्यात्सन्धिपूर्वकम्।  
 वरेण च तथोद्वाहो मन्त्रपूर्वः कृतो भवेत्॥१०१८॥**
-
-
 
 **सोऽयं भवेद्राक्षसश्च बाह्यः शुद्ध इतीर्यते।  
 धर्मविद्यारहस्यश्चैःशुद्धैश्चमुनिपुङ्गवैः॥१०१९॥**
@@ -7708,8 +7136,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **तस्माश्चसशसोद्वाहो विहितो धर्मगामिभिः।  
 ब्राह्मश्चेति विशेषेण धर्मोऽयं हि सनातनः॥१०३८॥**
 
-
-
 **यत्र सुप्ता च रुदती द्विषन्ती च विचेतना।  
 ज्ञातिहीना च कृपणा कन्या या स्यात्तपस्विनी॥१०३९॥**
 
@@ -7739,8 +7165,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **स्वतन्त्रश्च वरोधीमान्यस्मिन्गृहाति च स्त्रियम्।  
 सोऽयं भवेद्दैवसंज्ञो विवाह इति नारदः॥१०३८॥**
-
-
 
 **दैवोद्वाहेन विधिना ग्राह्या स्त्रीश्चैव या भवेत्।  
 पुनर्भूरिति संज्ञाहि तस्याश्च गदिता भवेत्॥१०३९॥**
@@ -7772,8 +7196,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **स्वातन्त्र्यं च यथा पुंसां तथा स्त्रीणां च संमतम्।  
 पत्न्यभावे यथा पुंसां धर्मनाशश्च कथ्यते॥१०४८॥**
 
-
-
 **तथा स्त्रीणां पत्यभावे धर्महानिर्भवेदिति।  
 नारदाद्यैर्मुनिवरैः कथितं सत्यधर्मतः॥१०४९॥**
 
@@ -7803,8 +7225,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **पतिर्विश्वस्य यो विश्वसाक्षीदेवो महेश्वरः।  
 आत्मेश्वरश्च यश्चास्ति स्वतन्त्रो ब्रह्मलक्षणः॥१०९८॥**
-
-
 
 **सोऽयं भवेत्पतिश्चैव परमः स्यादितीर्यते।  
 तस्यं व्रतं च यच्च स्यात्तत्परप्राप्तिसाधनम्॥१०५९॥**
@@ -7836,8 +7256,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अन्यं पतिं च विन्देतौ रवतत्रा धर्मलोलुपा।  
 एवं नष्टो प्रवजिते क्लीषे च पतिते पत्तौ॥१०६८॥**
 
-
-
 **उद्वाहश्च समन्त्रश्च स्त्रीणां हि विहितो भवेत्।  
 तस्मादनावृताश्चेति स्त्रियः सर्वा ह्युदीरिताः॥१०६९॥**
 
@@ -7867,8 +7285,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **स्रियमाणे सति पतौ कन्या चैव मनस्विनी।  
 अस्पृष्टमैथुना चैव या च तिष्ठत्यनिन्दिता॥१०७८॥**
-
-
 
 **धर्मानुशासनैस्तस्याः पतिरन्योविधीयते।  
 एवं नष्टे प्रव्रजिते क्लीबे च पतिते पतौ॥१०७९॥**
@@ -7900,8 +7316,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **विहिताश्च स्युरित्येव सिद्धान्तो बुध्यते परः।  
 सत्यधर्मरहस्यज्ञैःसिद्धान्तः सोऽयमादृतः॥१०८८॥**
 
-
-
 **किं चैवहि पुनस्तत्त्वं पातिव्रत्यस्य कथ्यते।  
 आचार्यैर्गोभिलाद्यैश्च शुद्धार्यैधर्मकोविदैः॥१०८९॥**
 
@@ -7931,8 +7345,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इति चात्र रहस्यं हि विशेयं मुनिपुङ्गवाः।  
 स्त्रीणां चैव स्वसंसारनियंता धर्मलक्षणाः॥१०९८॥**
-
-
 
 **व्यवसायाश्च येनैव पतिना पूर्णलक्षणाः।  
 तेनैव चानुमरणं स्त्रीणां हि विहितं पुरा॥१०९९॥**
@@ -7964,8 +7376,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **स्त्रीणां कामहतानां च पुनर्भूणां महर्षयः।  
 धर्मेण पतिमन्यं च कामिनं शुद्धमानसम्॥११०८॥**
 
-
-
 **तथा प्रार्थयमानानां चोद्वाहो दैवसंज्ञकः।  
 केवलं प्राकृतश्चैव भवेदिति च निर्णयः॥११०९॥**
 
@@ -7995,8 +7405,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **यथाधर्मरहस्यं हि संग्रहेण महर्षयः।  
 आपद्धर्मसमाशृत्य विहितोऽयं महर्षिभिः॥१११८॥**
-
-
 
 **ततश्चार्षोद्वाहधर्मः प्रोक्तः स्यादेवमेव हि।  
 अस्मिन्महर्षयश्चैव तेभ्यः स्युरधिकाश्च ये॥१११९॥**
@@ -8028,8 +7436,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **एवं भूते च लोकेऽस्मिन्बीजावापः सुखावहः।  
 येन लोकाः समस्ताश्च प्राप्नुयुश्च परां गतिम्॥१११८॥**
 
-
-
 **कार्योऽधिकारिभिश्चेति भारतादवंगम्यते।  
 इत्थमेव हि कथ्यन्ते सर्वे ते चाधिकारिणः॥११२९॥**
 
@@ -8059,8 +7465,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **गुणकर्मविभागेन कथ्यते नारदादिभिः।  
 तेषु प्रगणिता ये च पुमांसो ह्यधिकारिणः॥११३८॥**
-
-
 
 **तादृश्यश्च स्त्रियः सर्वाः सर्वे चैते महर्षयः।  
 उद्वाहे चार्षधर्मे च भवेयुरधिकारिणः॥११३९॥**
@@ -8092,8 +7496,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **प्राजापत्यो विधिः सोऽयंभवेषुद्वाहलक्षणः।  
 इति सर्वदर्शनेषु सदृष्टान्तमुदाहृतः॥१९४८॥**
 
-
-
 **सहोभौ चरतां धर्ममिति भक्त्या वदन्पुमान्।  
 प्राजापत्येन विधिना शुद्धां विन्देत च स्त्रियम्॥११४९॥**
 
@@ -8123,8 +7525,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **धर्मार्थं पुत्रकामश्च यदि स्याश्च महर्षयः।  
 तदा पुत्राप्तयेऽन्यस्माद्विहितोऽयमिति स्वरः॥११५८॥**
-
-
 
 **तदुक्तायाः स्त्रियश्चाऽपि पुंसश्चाऽपि महर्षयः।  
 विवाहिताश्च पुरुषात्तादृश्याश्च स्त्रियः पुनः॥११५९॥**
@@ -8156,8 +7556,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इत्यस्मिन्नियमश्चापि प्राजापत्ये महर्षयः।  
 धर्मार्थे कल्पितश्चेति भारतादवगम्यते॥११६८॥**
 
-
-
 **पुनरेवं हि नियमो दृश्यतेऽस्मिन्महर्षयः  
 स्त्रियः संप्रार्थिताश्चैव पतिभिः सत्यगामिभिः॥११६९॥**
 
@@ -8182,8 +7580,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 चतुर्भिः[^166] कूटसंस्थै निर्णीतं तञ्च धर्मतः॥११७५॥**
 
 [^166]: "चतुर्भिरिति—वक्ष्यमाणकुलाचार्यैः "
-
-
 
 **ब्राह्मोद्वाहो ज्ञानगर्भो[^167] ब्रह्मोपज्ञः[^168]प्रजार्थकः।  
 सङ्कल्पयज्ञजो[^169]देवो मनुपज्ञः[^170]प्रजार्थकः॥११७६॥**
@@ -8216,8 +7612,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **यत्र कन्यापिता चापि वराय च विशेषतः।  
 नियतेन च शुल्केन कन्यां यच्छति सादरम्॥११८०॥**
 
-
-
 **यत्र चैव हि कन्यायाः शुल्कं चैव यथेप्सितम्।  
 गृहीत्वैव पिता दद्यात्कन्यां स्वीयां च धर्मतः॥११८१॥**
 
@@ -8247,8 +7641,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **तत्र शुद्धश्च यः प्रोक्तस्तस्याङ्गानि भवन्ति च।  
 पञ्च तेषां स्वरूपं हि व्याख्यातं चैवमेव च॥११९०॥**
-
-
 
 **तत्र च प्रथमं चाङ्गं वराह्वानंततः परम्।  
 कन्यादानप्रार्थना च कन्यादानं ततः परम्॥११९१॥**
@@ -8281,8 +7673,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 [^176]: "मंगलयात्रामिति उद्वाहदिने तत्पूर्वदिने वा निर्दिष्टस्थलाद्वरानयनार्थ गमनमित्यर्थः।"
 
-
-
 **पूगीफलसमायुक्तं तांबूलं कुसमानि च।  
 पुण्यानि शुक्लगन्धाश्च फलानि विविधानि च॥१२००॥**
 
@@ -8311,8 +7701,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इति चाथ द्वितीयाङ्गं कन्यायाः प्रार्थना भवेत्।  
 इत्थं हि वर्णिता पूर्वैः शृणुध्वं मुनिपुङ्गवाः॥१२०८॥**
-
-
 
 **वरश्च कृतगोदानो विशुद्धः समलङ्कृतः।  
 प्रणम्य श्वशुरौ भक्त्या पूजयित्वा यथाविधि॥१२०९॥**
@@ -8344,8 +7732,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **तृप्तास्ते पितरः सन्तु धर्माः सर्वे फलन्तु च।  
 सह धर्मचरी कन्या तव सेऽयमनिन्दिता॥१९१८॥**
 
-
-
 **भूयाहेवश्चभगवान्ब्रह्मा धाता पितामहः।  
 श्रीपतिः सर्वसाक्षी च सूर्यचन्द्रो विभावसुः॥१२१९॥**
 
@@ -8374,8 +7760,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **अथ बद्धाञ्जलिश्चैव वरो नियतमानसः।  
 तत्कन्याभिमुखस्तिष्ठन्प्राणायामादिपूर्वकम्॥१२२७॥**
-
-
 
 **"ओं ह्रीं श्रीं क्लीं महादेवि नमस्तुभ्यं स्वयंवरे।  
 ओंईं ऐंसौः नमस्तेऽस्तु वनदुर्गे वरप्रदे॥१२१॥**
@@ -8407,8 +7791,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **तदिदं मन्त्रवाक्येनकन्यायाः पितरौ तथा।  
 सदस्या बान्धवश्चैव हस्तमुद्यम्य सादरम्॥१२३७॥**
 
-
-
 **भूयास्तां दंपती शुद्धौ धर्मकामौ मनस्विनौ।  
 अनन्यौ च समौ चैव दिव्यौ ख्यातौ स्वकर्मणा॥१२३८॥**
 
@@ -8433,8 +7815,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
  प्रत्नी—सत्यं ब्रवीमि धर्मार्थिनमस्मि स्वया विना।  
  यावज्जीवं त्वयैवाहं वर्ते धर्मार्थकाक्षिणी॥
-
-
 
 **सदस्यैरभ्यनुज्ञातौ श्वशुराभ्यां विशेषतः।  
 परस्परं समालिङ्ग्य होमं प्रावेशिकं तथा॥१२४२॥**
@@ -8467,8 +7847,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
  पत्नी—भगवन्तथैव वर्ते सत्यं ब्रवीमि। इति।
 
-
-
 **ब्रह्मबीजैश्च[^180]होमः स्याक्षष्ठं ४सत्यवचो भवेत्।  
 अश्मन्यारोहणं चैव सप्तमं चेति कथ्यते॥१२४७॥**
 
@@ -8497,8 +7875,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ब्राह्मणान्भोजयेत्सर्वान्यथाकामं यथाविधि।  
 तेभ्यश्चैव सतांबूलं फलं चैव हि दक्षिणाम्॥१२५५॥**
-
-
 
 **दद्यादेव यथाशक्ति वरो धर्मार्थतत्परः।  
 अथ तौ दंपती चैव साकं चैव स्वबन्धुभिः॥१२५६॥**
@@ -8530,8 +7906,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **अन्येषां च गृहस्थानां नायं मुख्य इतीर्यते।  
 सोऽयं गर्भाधानकाले कार्य इत्येव निर्णयः॥१२६५॥**
 
-
-
 **अथ तौ दंपती चैव ह्यनुज्ञातौ च बन्धुभिः।  
 निवसेतां यथाधर्मे स्वेष्टस्थाने महर्षयः॥१२६६॥**
 
@@ -8561,8 +7935,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **इति चोद्वाहसंस्कारो विवाहाख्यस्य कर्मणः।  
 द्वितीयस्य यथातत्त्वं व्याख्यातः स्यान्महर्षयः॥१२७५॥**
-
-
 
 **अथैवं मरणाख्यं च तृतीयं कर्मयद्भवेत्।  
 तस्यौर्ध्वदैहिको नामा संस्कारो विहितो भवेत्॥१२७६॥**
@@ -8594,8 +7966,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **दाहो भूमौ च निक्षेपः पुण्यृतीर्थवनेषु च।  
 प्रक्षेपश्च मृतानां च प्राकृतानां महर्षयः॥१२८५॥**
 
-
-
 **संस्कारःप्राकृतश्चैव भवेदिति निगद्यते।  
 यदि सन्ति शातयश्च प्राकृतानां मृतात्मनाम्॥१२८६॥**
 
@@ -8625,8 +7995,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **ये चान्तकाले सन्नद्धे विस्मृतप्राकृतान्वयाः।  
 शिरस्यञ्जलिमाधाय चेतसाऽनन्यगामिना॥१२९५॥**
-
-
 
 **ईश्वरं सर्वभूतानां हृदिस्थं रम्यविग्रहम्।  
 शरणं संप्रपद्यन्ते जपन्तः परमं मनुम्॥१३९६॥**
@@ -8658,8 +8026,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **इत्थं शुद्धं च मरणं वर्ण्यतेपूर्वसूरिभिः।  
 विज्ञानाद्यस्य शुद्धाश्च भवेयुर्धर्मवित्तमाः॥१३०५॥**
 
-
-
 **यस्मिन्प्रारब्धसंसारव्यवसायस्य पूर्णता।  
 तश्चशुद्धं हिमरणं भवेदिति निगद्यते॥१३०६॥**
 
@@ -8689,8 +8055,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **यश्चशुद्धाग्निबीजैश्च योगेनाऽनन्यभावनः।  
 व्यवसायपरान्कोशान्दहेत्कैवल्यलक्षणः॥१३१५॥**
-
-
 
 **योगिनस्तस्य मरणं शुद्धं स्यादिति कथ्यते।  
 न चास्य हि भवेत्कार्यः संस्कारो मन्त्रपूर्वकः॥१३१६॥**
@@ -8722,8 +8086,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **त्रिविधः स्यादिति प्रोक्तो गौतमेन महात्मना।  
 ततः प्रेतस्य दहनं चास्थिसंचयनं तथा॥१३२५॥**
 
-
-
 **पिण्डदानं च विधिवदेकोद्दिष्टं च योगिनः।  
 सर्वमेतञ्च साशौचं कर्मेति हि निगद्यते॥१३३६॥**
 
@@ -8753,8 +8115,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **अग्निकुण्डस्य वहनं सप्तमं कर्म वै भवेत्।  
 श्मशानसविधे चैव प्रेतासन्दीं महर्षयः॥१३३५॥**
-
-
 
 **शकटादवमुच्याथ ज्ञातयश्च यथाविधि।  
 तां श्मशानं नयेयुश्च मन्त्रघोषैर्महर्षयः॥१३३६॥**
@@ -8786,8 +8146,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **चिताप्रदक्षिणं चैव ज्ञातिभिः सह भक्तितः।  
 कर्तृकार्ये च यच्च स्यात्तच्च षोडशमुच्यते॥१३४५॥**
 
-
-
 **ततश्च विधिपूर्वं हि नग्नश्राद्धं च यद्भवेत्।  
 तच्च सप्तदशं कर्म भवेदिति निगद्यते॥१३४६॥**
 
@@ -8817,8 +8175,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **अस्थिकुंभाभिषेकश्च क्षीरेणैव यथाविधि।  
 तुरीय इति विज्ञेयं ततं मुनिपुङ्गवाः॥१३५५॥**
-
-
 
 **अस्थिकुंभस्य संस्कारः पञ्चमः स्यादितीर्यते।  
 भूमौ वा पुण्यतीर्थे वा समुद्रे वा यथाविधि॥१३५६॥**
@@ -8850,8 +8206,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **ततो गृहप्रवेशश्च ज्ञातिभिः सहभोजनम्।  
 अष्टमं च भवेदत्रततश्च मुनिपुङ्गवाः॥१३६५॥**
 
-
-
 **तृतीयश्चैव साशौचः संस्कारो धर्मसंमतः।  
 युक्तोऽङ्गैरष्टभिश्चेति विज्ञेयं धर्मकोविदैः॥१३६६॥**
 
@@ -8882,8 +8236,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **उक्तप्रकारः कार्यः स्यादिति प्र्भदात्र गौतमः।  
 विशेषविषयश्चापि कल्पादत्रावगम्यते॥१३७५॥**
 
-
-
 **तच्छुद्धमरणानां च संस्कारश्चौर्ध्वदेहिकः।  
 ब्रह्ममेधेन कार्यः स्यादिति चात्राह नारदः॥१३७६॥**
 
@@ -8913,8 +8265,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **हंसयोगिन्महाचार्य नमस्ते धर्मसिन्धवे।  
 संस्काराश्चैव सर्वेऽपि समन्त्रा भवतोदिताः॥१२८४॥**
 
-
-
 **प्राकृताश्च तथात्मीयाः शुद्धाश्चेति च ये मताः।  
 ते सर्वेऽपि स्वभावेन शारीरा इति निश्चिताः॥१३८५॥**
 
@@ -8943,8 +8293,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **शृणुध्वं मुनयः सर्वे संस्काराणां विधौ पुनः।  
 शुद्धार्याणां हि सिद्धान्तं विशुद्धं श्रुतिसंमतम्॥१३९३॥**
-
-
 
 **धर्मविद्यासु सर्वासु धर्मशास्त्रेषु योगिनः।  
 मानुषानधिकृत्यैव सर्वाश्चैवाऽविशेषतः॥१३९४॥**
@@ -8976,8 +8324,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **धर्मविद्यासु सर्वासु ततश्च मुनिपुङ्गवाः।  
 अन्येऽपि मनुजाश्च स्युः संस्कारेष्वधिकारिणः॥१४०१॥**
 
-
-
 **ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्चेति विशेषतः।  
 मनुजानां हि भेदस्य शरीरादेव वर्णनम्॥१४०४॥**
 
@@ -9007,8 +8353,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **चातुर्वर्ण्यमिति प्रोक्तं तदर्थचेत्थमुच्यते।  
 वर्णयतीति वर्णः स्यात्सोऽयं मानववाचकः॥१४१३॥**
-
-
 
 **वर्णनं गुणकर्मभ्यामिति तस्मान्महर्षयः।  
 चातुर्वर्ण्य मया सृष्टं गुणकर्मविभागशः॥१४१४॥**
@@ -9040,8 +8384,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **दासस्तीर्थस्तथा ब्रह्मा चानन्दश्चतथैव हि।  
 आर्तो जिज्ञासुरर्थार्थी ज्ञानी चैव तथा पुनः॥१४९३॥**
 
-
-
 **ब्रह्मचारी गृहस्थश्चवानप्रस्थो यतिस्तथा।  
 तत्परमहंसहंसबहूदककुटीचकाः॥१४२४॥**
 
@@ -9071,8 +8413,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **शूद्रोऽहं नाधिकारो मे चातुराश्रम्यसेवने।  
 इति कश्चिञ्चविज्ञाय धर्माचैव पतत्यहो॥१४३३॥**
-
-
 
 **पञ्चभूतशरीराणां सर्वेषां सदृशात्मनाम्।  
 लोकधर्मे च धर्मे च ह्यधिकारश्च दृश्यते॥१४३४॥**
@@ -9106,8 +8446,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **कथं शुद्धा महाचार्याः शुद्धं धर्मे सनातनम्।  
 मशेषधर्मगुप्तं च चारयन्ति कलौ भवि॥१४४३॥**
 
-
-
 **दिव्यभूतिमतां तेषां शुद्धार्याणां महामुने।  
 विमूढैर्धर्मविमुखैः संबन्धो मनुजैः सह॥४४४॥**
 
@@ -9136,8 +8474,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **विशेषेण च वक्ष्यामि शुद्धार्याणां कलौ भुवि।  
 उपदेशप्रकारं च सरहस्यं यथामति॥१४५२॥**
-
-
 
 **ब्राह्माऽऽत्मीयप्राकृताश्चधर्मा येन मुनीश्वराः।  
 महदभ्युदयं यान्ति यथाकालं प्रवर्तिताः॥१४५३॥**
@@ -9169,8 +8505,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **वस्तुतस्त्वत्र तत्त्वं स्यादेवमेव महर्षयः।  
 परमात्माद्यक्षरान्ता भेद ये चात्मनो मताः॥१४६२॥**
 
-
-
 **ते सर्वे पुरुषांशाः स्युरिति वेदैर्निगद्यते।  
 ततो यथाभवं सोऽयमात्मा पूज्योऽस्ति शाश्वतः॥१४६३॥**
 
@@ -9200,8 +8534,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **पुण्यवृक्षस्वरूपाश्च पुण्यक्षेत्रस्वरूपिणः।  
 अर्चारूपधराः केचित्केचिदंबरवासिनः॥१४७१॥**
-
-
 
 **वायुवेगा मनोवेगाः सर्वज्ञाःकामगाः शुभाः।  
 अवाप्तवर्धकामाश्च क्षुत्तृष्णादि विवर्जिताः॥१४०३॥**
@@ -9233,8 +8565,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 **योगदेवी सनाथेन नारायणमहर्षिणा।  
 अबाधश्च तथा चैवनियुक्ताः स्वाधिकाहिभिः॥१४८१॥**
 
-
-
 **साक्षादेव हि लोकेभ्यः पथ्यं शुद्धं सनातनम्।  
 धर्मानुशासनं चैव कालपर्वविशारदाः॥१४८२॥**
 
@@ -9264,8 +8594,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **परं तु शुद्धदीक्षायां मुख्याः सन्ध्यधिकारिणः।  
 कुमारो दक्षिणामूर्तिर्देको नारायणस्तथा॥१४९९॥**
-
-
 
 **महाचार्यास्त्रयश्चेति सिद्धान्तः शुद्धसंमतः।  
 इत्थं शुद्धा महात्मानो दिव्या ब्रह्मर्षयस्तथा॥१४९३॥**
@@ -9300,13 +8628,9 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 
 **द्वितीयभागश्च संपूर्णः॥**
 
-
-
 सनातनधर्मदीपिकाद्वितीयभागस्य
 
 **शुद्धाऽशुद्धपत्रिका॥**
-
-
 
 |                  |                |                |
 |:----------------:|:--------------:|:--------------:|
@@ -9324,11 +8648,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 |       ३२१        |    समाशृतः     |   समाश्रितः    |
 |       ३७८        |     बहुधा      |     बहुधा      |
 |       ४७६        |  स्यास्त्रिय   | स्यात्स्त्रिया |
-
-
-
-
-
 
 |                  |                |                  |
 |:----------------:|:--------------:|:----------------:|
@@ -9353,10 +8672,6 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 |       ४२३        |     वलङ्ग      |      लवङ्ग       |
 |       ४८६        |   ह्यदगप्रान   |   ह्यदुगप्रान्   |
 
-
-
-
-
 |                  |                      |                     |
 |:----------------:|:--------------------:|:-------------------:|
 | **श्लोकसंख्या.** |    **अशुद्धम्.**     |    **शुद्धम्.**     |
@@ -9376,199 +8691,5 @@ Guindy: Saidapet,                       S. SUBRAHMANYA IYER,
 |       १३६१       |      द्वितीमिति      |     द्वितीयमिति     |
 |       १४३२       |      तन्द्रपराः      |     तन्द्रापराः     |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

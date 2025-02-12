@@ -16,21 +16,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyODczOTU2MzM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **PREFACE.**
 
@@ -43,8 +29,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyODczOTU2MzM
 
  The student should carefully read, along with this book, chapters on **सन्धि, शब्दरुप,** and **धातुरूप** from a Sanskrit Grammar and consult a Sanskrit-English Dictionary as often as necessity may arise. He should also use a
 
-
-
 fresh note-book to take down what his teacher may dictate in the class-room. The grammatical rules at the beginning of each lesson may be omitted at the first reading. Lesson 43 must be learnt as soon as he is acquainted with the **देवानागरी** characters. He must learn to read and spell correctly and, when sufficiently advanced, he should note all grammatical rules that each word of a sentence may serve to illustrate.
 
 **NOTICE.**
@@ -52,8 +36,6 @@ fresh note-book to take down what his teacher may dictate in the class-room. The
  1. Any correction or suggestion for improvement of the work will be most thankfully received.
 
  2. No copy of this book will be considered genuine unless it be issued by the author under his own seal and signature.
-
-
 
 **THE STEPPING-STONE**
 
@@ -73,17 +55,6 @@ fresh note-book to take down what his teacher may dictate in the class-room. The
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
-
-
-
-
-
 
 \]

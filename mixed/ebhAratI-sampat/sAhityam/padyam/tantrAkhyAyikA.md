@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 \[
 
-
-
 *तन्त्राख्यायिक*
-
-
 
 अस्ति कश्चिद्वणिजकः ।
 
@@ -50,11 +46,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 ज्ञातं इति ।
 
-
-
 \[१,२ Sछकलुन्द्ठ्र्ॐमेल्\]
-
-
 
 अस्ति कश्चिद्ग्ॐआयुराहारविच्छेदात्क्षुत्क्षामकण्ठ इतश्च
 
@@ -98,11 +90,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 पूर्वं एव मया ज्ञातं इति ।
 
-
-
 \[१,३ \]
-
-
 
 अस्ति कस्मिंश्चित्प्रदेशे परिव्राड्देवशर्मा नाम ।
 
@@ -322,21 +310,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 यत्कारणं ! इदं आश्चर्यत्रयं श्रूयतां ।
 
-
-
 \[ जम्बुको हुडुयुद्धेन वयं चाषाढभूतिना ।
 
 दूतिका तन्त्रवायेन त्रयोऽनर्थास्स्वयं कृतः । ।५५ । । \]
 
-
-
 समुपलब्धतत्त्वार्थैश्चाधिकृतैः परित्रायितो नापित इति ।
 
-
-
 \[१,४\]
-
-
 
 अस्ति कस्मिंश्चित्प्रदेशे वृक्षः ! तस्मिंश्च वायसौ दम्पती
 
@@ -356,13 +336,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 ग्ॐआयुः ।
 
-
-
 \[ भक्षयित्वा बहून्मत्स्यानुत्तमाधममध्यमान् ।
 
 अतिलौल्याद्बकः पश्चान्मृतः कर्कटविग्रहात् । ।६० । । \]
-
-
 
 वायसः ।
 
@@ -370,11 +346,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 ग्ॐआयुः ।
 
-
-
 \[१,५\]
-
-
 
 अस्ति ! कश्चिद्बको वृद्धभावात्सुखोपायां वृत्तिम्
 
@@ -464,13 +436,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 अथवा ।
 
-
-
 \[ अभियुक्तो यदा पश्येन्न काञ्चिद्गतिं आत्मनः ।
 
 युध्यमानस्तदा प्राज्ञो म्रियेत रिपुणा सह । ।६१ । । \]
-
-
 
 अनभिज्ञोऽपि बकः कुलीरकसन्दंशग्रहस्य मौर्ख्यात्
 
@@ -536,11 +504,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 तत्कृत्वा सुवर्णसूत्रं आदाय गत इति ।
 
-
-
 \[१,६ ल्”wए उन्दःअसे\]
-
-
 
 अस्ति ! कस्मिंश्चिद्वनान्तरे महान्सिंहः प्रतिवसति स्म ।
 
@@ -634,11 +598,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 उपरि सन्निपतितो मौर्ख्यात्पञ्चत्वं अगमत् ।
 
-
-
 \[१,७ लौसुन्द्Fलोह्\]
-
-
 
 अस्ति कस्यचिद्राज्ञस्सर्वगुणोपेतं अनन्यसदृशं शयनं ।
 
@@ -730,11 +690,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 परिवर्तयद्भिरन्तर्लीना मन्दविसर्पिणी समासादिता व्यापादिता च ।
 
-
-
 \[१,८ ढेर्ब्लौए Sछकल्\]
-
-
 
 अस्ति कस्मिंश्चिन्नगरसमीपे सन्निकृष्टविवराभ्यन्तरशायी
 
@@ -800,11 +756,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 नाशितवन्त इति ।
 
-
-
 \[१,९ Kअमेल्, ल्”wए, Pअन्थेर्, Kर्„हे उन्द्ऽछकल्\]
-
-
 
 अस्ति ! कस्मिंश्चिद्वनोद्देशे मदोत्कटो नाम सिंहः प्रतिवसति स्म ।
 
@@ -938,8 +890,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 अपि च ।
 
-
-
 \[ न गोप्रदानं न महीप्रदानं
 
 न चान्नदानं हि तथा प्रधानं ।
@@ -947,8 +897,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 यथा वदन्तीह महाप्रधानं
 
 सर्वप्रधानेष्वभयप्रदानं । ।११७ । । \]
-
-
 
 काकः ।
 
@@ -960,13 +908,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 अपि चोक्तं ।
 
-
-
 \[ त्यजेदेकं कुलस्यार्थे ग्रामस्यार्थे कुलं त्यजेत् ।
 
 ग्रामं जनपदस्यार्थे स्वात्मार्थे पृथिवीं त्यजेत् । ।११८ । । \]
-
-
 
 पुनश्चाह ।
 
@@ -1040,11 +984,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 पञ्चत्वं उपगतो भक्षितश्चेति ।
 
-
-
 \[१,१० Sत्रन्द्ल्„उफ़ेरुन्दंईर्\]
-
-
 
 अस्ति ! समुद्रतीरैकदेशे टीटिभदम्पती प्रतिवसतस्स्म ।
 
@@ -1080,23 +1020,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 उक्तं च ।
 
-
-
 \[ दुःखं आत्मा परिच्छेत्तुं एवं योग्यो न वेति वा ।
 
 एवंविद्यस्य विज्ञानं सफलास्तस्य बुद्धयः । ।१२६ । । \]
 
-
-
 अपि च ।
-
-
 
 \[ मित्राणां हितकामानां यो वाक्यं नाभिनन्दति ।
 
 स कूर्म इव दुर्बुद्धिः काष्ठाद्भ्रष्टो विनश्यति । ।१२७ । । \]
-
-
 
 टीटिभः ।
 
@@ -1104,11 +1036,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 टीटिभी ।
 
-
-
 \[१,११ ःअंससुन्द्ऽछिल्द्क्र्”ते\]
-
-
 
 अस्ति ! कस्मिंश्चित्सरसि कम्बुग्रीवो नाम कच्छपः प्रतिवसति स्म ।
 
@@ -1176,11 +1104,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 पातसमकालं एव तीक्ष्णशस्त्रैः खण्डशो विभक्त इति ।
 
-
-
 \[१,१२ ढिए द्रेइ Fइस्छे\]
-
-
 
 अस्ति ! कस्मिंश्चिन्महाह्रदे महाकायास्त्रयो मत्स्याः प्रतिवसन्ति
 
@@ -1294,11 +1218,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 इति मत्वा प्रणम्य देवं समर्पितवानिति ।
 
-
-
 \[१,१३ ढेर्लिस्तिगे Sछकल्\]
-
-
 
 अस्ति ! कस्मिंश्चिद्वनोद्देशे वृकजम्बुककरभसहितो
 
@@ -1438,11 +1358,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 चतुरकोऽपि बहुदिनानि तत्पिशितं उपभुक्तवान् ।
 
-
-
 \[१,१४ šबेलन्गेब्रछ्तेर्ऱत्\]
-
-
 
 अस्ति कस्मिंश्चिद्वनोद्देशे महान्वानरयूथः ।
 
@@ -1476,11 +1392,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 असाविति ।
 
-
-
 \[१,१५ ढुष्टबुद्धि उन्दाबुद्धि\]
-
-
 
 अस्ति ! कस्मिंश्चिदधिष्ठाने वणिक्सुतौ सुहृदौ स्तः ।
 
@@ -1600,13 +1512,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 तथा च ।
 
-
-
 \[ उपायं चिन्तयेत्प्राज्ञो ह्यपायं अपि चिन्तयेत् ।
 
 पश्यतो बकमूर्खस्य नकुलैर्भक्षितास्सुताः । ।१६८ । । \]
-
-
 
 सोऽब्रवीत् ।
 
@@ -1614,11 +1522,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 असावाह ।
 
-
-
 \[१,१६ ऱेइहेरुन्दीछ्नेउमोन्\]
-
-
 
 अस्ति ! कस्मिंश्चिदर्जुनवृक्षे बकदम्पती प्रतिवसतस्स्म ।
 
@@ -1662,11 +1566,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 शेषापत्यभक्षणं कृतं इति ।
 
-
-
 \[१,१५\]
-
-
 
 अतोऽहं ब्रवीमि ।
 
@@ -1746,11 +1646,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 
 दुष्टबुद्धिरयं पापश्शूलेऽवतंस्यतां इति ।
 
-
-
 \[१,१७\]
-
-
 
 अस्ति कस्मिंश्चिदधिष्ठाने क्षीणबान्धवो वणिक्सुतः ।
 
@@ -1841,8 +1737,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg0NzE0ODc2NjM
 तच्च श्रुत्वा प्रतिपादितवन्तस्ते प्राड्विवाकाः परस्परस्य
 
 तत्तुलातद्दारकदानं इति ।
-
-
-
 
 \]

@@ -17,17 +17,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM4MTA1Nzg2NTI
 
 \[
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
 
 Published by Newton Mohun Dutt, Curator of Libraries, for the Government of  
 H. H. the Maharaja Gaekwad of Baroda.
@@ -39,14 +31,9 @@ Printed by Ramohandra Yesu Shedge, at the Nirnaya Sagar Press,
 
 Price Rs. 2-4  
 
-
-
-
 C O N T E N T S.
 
 ![](../../../books_images/U-IMG-1693891260Untitled65.png)
-
-
 
 |                                                                                          |
 |------------------------------------------------------------------------------------------|
@@ -61,12 +48,7 @@ C O N T E N T S.
 | Index of proper names ...  .... ... ...  ...  ...  ... ... ... ...   |
 | Index of geographical names ...   ... ...  ...  ...  ... ... ... ... |
 
-
-
 ![](../../../books_images/U-IMG-1693891625Untitled1000.png)  
-
-
-
 
 PREFACE.  
 
@@ -80,8 +62,6 @@ PREFACE.
 commentary on Haláyudha's कविरहस्य ( कविगुह्य ) by रविधर्म ( 31a lines4-55). The MS. was written, like most of the MSS. of this veryimportant Bhandâr, in the time of Jinabhadrasûri, the pontiff ofthe Kharatara gacchha in Samvat 1491 (A. D. 1434). The writer'scolophon runs as follows : - शुभमस्तु लेखकपाठकयोः । छ । मंगलं महाश्रीः । छ ।संवत् १४९१ वर्षे चैत्रवदि १३ शनौ श्रीस्वरतरगच्छे श्रीजिनभद्रसूरिविजयराज्ये भाण्डागारे काव्यमीमांसा लिखितं ॥ छ ॥ श्री । छ । श्रीः छ । श्रीः । छः श्रीः । कल्याणमस्तु । छ । श्रीः । छ । श्रीः ।
 
 The portion of Ravidharma's Kavirahasyavṛitti begins:—
-
-
 
 **ओं नमः सर्वज्ञाय।**
 
@@ -128,8 +108,6 @@ Ends
 
   The celebrated Jesalmere Bhandâr also contains an old palm-leaf MS, of this work dated Samvat 1216, but it is reported to be
 
-
-
 not in a good state of preservation[^1]काव्यमीमांसा and (2) कविरहस्यcomprising 90 and 74 leaves respectively and is 11"). It is a matter for regret thatthe valuable treasures of this Bhandâr—one of the most important Bhandârs—are not accessible even to Jain Sâdhus.
 
 [^1]: "The late Mr. Dalal, subsequent to the publication of this book, paid avisit to Jesalmer and collated the text with this palm-leaf MS. Variant readings have been incorporated in the present edition and this MS. is termed as C. It consists of two works (1
@@ -140,8 +118,6 @@ not in a good state of preservation[^1]काव्यमीमांसा and 
 
 ![](../../../books_images/U-IMG-1704434772Screenshot2024-01-05113617.png)
 
-
-
 INTRODUCTION.
 
   The author of this first work in the *Gaekwâd's* Oriental Series now presented before the public is Râjas'ekhara, the wellknown author of the four dramas, Bâlarâmayana, Bâlabhârata,Viddhas'âlabhañjikâ and Karpûramañjarî.
@@ -151,8 +127,6 @@ INTRODUCTION.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 .
-
-
 
 1 यायावरीयः सङ्क्षिप्य मुनीनां मतविस्तरम्।p. 2111  
 “पञ्चमी साहित्यविद्या” इति यायावरीयः। p. 4114
@@ -183,8 +157,6 @@ Udayasundarf 8th Uc'hc'hhvâsa.
 
 दुष्करं किमपि येन गिरः श्रियश्च।  
 प्रत्यायनं स्फुटमकारि निजे कवीन्द्र मे कासनं समुपवेशयतामिनन्दम्॥
-
-
 
 Some particulars about the ancestry of the author can be gathered from his dramas. He is very proud of his family and his literary
 
@@ -236,8 +208,6 @@ Some particulars about the ancestry of the author can be gathered from his drama
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 forefathers¹. Akâlajalada his great-grandfather was famous for his poetical gems.[^2]His verses were plagiarized by Kâdambarîrâma in his drama.[^3]Surânanda, Tarala and Kavirâja also belonged to this family. Surânanda seems to have been famous at the court of Chedi[^4]. It appears from his opinion quoted in the Kâvyamîmânsâ that he had written some work on poetics. Tarala[^5]wasalso a poet of some eminence. Nothing is known about Kavirâja.Râjas´ekhara's father Durduka or Duhika was a great minister (Mahâmantri), and his mother's name was S'îlavatî.  
 
 [^2]: "अकालजलदेन्दोः सा हृद्या वचनचन्द्रिका। नित्यं कविचकोरैर्यापीयते न च हीयते॥           Râjas ekhara quoted in theSûktimuktâvali."
@@ -247,7 +217,6 @@ forefathers¹. Akâlajalada his great-grandfather was famous for his poetical ge
 [^4]: "नदीनां मेकलसुता नृपाणां रणविग्रहः। कवीनां च सुरानन्दश्चेदिमण्डलमण्डनम्॥    Ibid."
 
 [^5]: "यायावरकुलश्रेणेर्हारयष्टेश्चमण्डनम्। सुवर्णवर्णरुचिरस्तरलस्तरलो यथा॥  Ibid."
-
 
 **  Râjas´ekhara's caste.** We have seen that Râjas´ekharabelonged to the Yâyâvara family, but it is not clear whether he was a Brâhmaņa or a Kshatriya. His position as the Upâdhyâya of King Mahendrapâla speaks in favour of his being a Brâhmaṇa; while the name Râjas'ekhara and the fact that his wife was of the Chahuâna[^6]family may lead one to think that he was a Kshatriya.
 
@@ -273,8 +242,6 @@ forefathers¹. Akâlajalada his great-grandfather was famous for his poetical ge
 Bâlarâmâyana I-13,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 in the unity of the three godheads. It appears from the Yas'astilaka[^8]") Champû of Somadeva that in Râjaśekhara's works honour was done even to Jinâs when occasion arose.  
 **  His wife an accomplished lady.** Râjaśekhara quotes**thrice**^(**2**) in the Kâyyamîmânsâ the opinion of his wife Avantisundarî. It would thus appear that she had composed some work on rhetorics. The Karpûramañjarî was also first acted at her desire.
@@ -302,9 +269,7 @@ Râjas'ekhra is also referred to by Somdêva in the Yas'astilaka Champû which w
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-**  Râjaśekhara a Kavirâja**. Râjaśekhara calls himself not a Mahakavi, but a Kavirâja.[^12].")According to the Kâvyamîmânsâ there are [ten](http://॑# "दश च कवेरवस्था भवन्ति(p. 19).") stages of poetical skill. The sixth is that ofa Mahâkavi[^13].")and the seventh that of a Kavirâja. Kavirâja is defined[^14].")as one who is unrestrained in various languages, various sorts of poetical compositions and various sentiments. Thus a Kavirâja is one stage further than a Mahâkavi and Kavirâjas are rare.[^15].")
+**  Râjaśekhara a Kavirâja**. Râjaśekhara calls himself not a Mahakavi, but a Kavirâja.[^12].")According to the Kâvyamîmânsâ there are ten[^331].") stages of poetical skill. The sixth is that ofa Mahâkavi[^13].")and the seventh that of a Kavirâja. Kavirâja is defined[^14].")as one who is unrestrained in various languages, various sorts of poetical compositions and various sentiments. Thus a Kavirâja is one stage further than a Mahâkavi and Kavirâjas are rare.[^15].")
 
 [^12]: "वालकई कइराओ(Karpûramañjari I. 9
 
@@ -313,6 +278,8 @@ Râjas'ekhra is also referred to by Somdêva in the Yas'astilaka Champû which w
 [^14]: "यस्तु तत्र तत्र भाषाविशेषेषु, तेषु तेषु प्रबन्धेषु, तस्मिंस्तस्मिंश्च रसे स्वतन्त्रः सकविराजः (p. 19
 
 [^15]: "ते यदि जगत्यपि कतिपये (p. 19
+
+[^331]: "दश च कवेरवस्था भवन्ति(p. 19
 
 **   The sequence of Râjaśekhara's known works and his undiscovered works**. From the Karpûramañjarî 1-9, it is understood that Râjaśekhara began his literary career as a Bâlakavi, so called from his Bâlarâmâyaṇa and Bâlabhârata. It is thus evident that these two dramas are his early productions; so also Viddhas'âlabhanjikâ. The Karpûramañjarî and the Kâvyamîmânsâ are his later productions, as by this time he had achieved fame as a Kavirâja. Verses from his three Sanskrita dramas are found quoted in the Kavyamîmânsâ.
 
@@ -326,8 +293,6 @@ Râjas'ekhra is also referred to by Somdêva in the Yas'astilaka Champû which w
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **7 आशीर्यथा हरविलासे—  
  ओमित्येकाक्षरं ब्रह्म श्रुतीनां मुखमक्षरम्।  
  प्रसीदतु सतां स्वान्तेष्वेकं त्रिपुरुषीमयम्॥  
@@ -336,8 +301,6 @@ Râjas'ekhra is also referred to by Somdêva in the Yas'astilaka Champû which w
  अवदाततया किञ्च न भेदो हंसतः सतः॥**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 mature production as a Kavirâja. Here either in the first or the last canto, but most probably in the first, may be found appreciatory verses about poets (Viśeshakavipras'ansâ) quoted in Jahlana's
 *Suktimuktavalî.* Generally the poet's family-history and praise of old poets are given in Âkhyâyikâs and Kathâs such as the *Harshacharitra*, the*Tilakamñjarî* and the *Udayasundarî*; but references to old poets are also made in the Mahâkâvyas. Mankhaka in his *S'rikanthaCharita* refers to old and contemporary poets and Somes'vara in the first canto of his *Kîrtikaumudî* eulogizes old poets. This practice of eulogizing the old poets in the beginning of a poem is also found in Prâkrita poems of the 12th century e. g. in the *S'ântináthâcharitra* of Devachandra, guru of the great Hemachandra. Some say that Râjas'ekhara wrote a work named *Kavivimars'a*, wherein are to be found the appreciatory verses attributed to him in the *Sûktimuktávalî*; but it does not seem probable that Râjas'ekhara,should ever have written any such work when he had composed such a large work as the Kâvyamîmânsâ with 18 adhikaraṇas. It was conjectured that the appreciatory verses may occur in the*Kâvyamîmânsâ;* but these verses do not occur in the first Adhikaraṇa,nor is there possibility of their being found in other adhikaraṇas, as the first adhikaraṇa alone, judging from the contents of the whole work, seems to contain such matter. Besides the *Haravilâsa,*Râjas'ekhara composed a work, named *Bhuvanakos'a,* on the world's geography. At the end of the 17th chapter of the *Kâvyamîmânsâ*he refers the reader to this work[^18]for detailed information about the world's geography. Ujjvaladatta quotes a line from Râjas'ekhara about synonyms[^19]")of Siva. This may be found either in the*Haravilâsa* or in some unknown lexicon of Râjas'ekhara. It will thus appear that Râjas'ekhara was an extensive writer and might have written more works than those hitherto known
@@ -348,13 +311,9 @@ mature production as a Kavirâja. Here either in the first or the last canto, bu
 
 **  The present work only the first part of the Kâvyamimânsâ**. From the first chapter Śâstrasamgraha, we understand
 
-
-
 that the author planned a very large work; but unfortunately only the first adhikarana is hitherto available. From remarks like रीतयस्तु तिस्रस्तास्तु पुरस्तात् (p. 10, 1 5), तमौपनिषदिके वक्ष्यामः (p. 11, 1.10), it is clear that he had in his mind the execution of the whole work planned out in the first chapter. Whether he succeeded in this and composed the whole work, wa have no sufficient data to determine.
 
 Alankâraśekhara
-
-
 
 however has quoted 2 verses from Râjaśekhara.The verses, if they really belong to our author, may have been taken from the उभयालङ्कारिकadhikaraṇa of the *Kâvyamîmânsâ.*
 
@@ -383,19 +342,13 @@ The samework also quotes another versewhich seems to be in the वैनोद�
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 works. The author of the *Sarasvatî-kaṇṭhâbhraṇa* has quoted a few verses, which are found only in the *Kâvyamîmânsâ*, and the commentator, Ratnes'vara, refers one verse to the Kâvyamîmânsâ. By the bye, it may be mentioned that the name of the Kâvyamîmânsâkâra occurs in S'ankara's commentary (*Rasachandrikâ*) on the Śâkuntala.
-
-  
 
 **The origin and the promulgation of poetics**. Like other S'âstrakârâs our author attributes the origin of poetics to the Supreme Being and the celestials. S'rikantha taught this science to Parameshthi, Vaikuntha and others of his sixty-four pupils. The self-born God imparted it to His will-born pupils. Among these was Kâvyapurusha, born of Sarasvatî. Prajâpati set him to promulgate this science in the three worlds. He taught this to his divine pupils in 18 adhikaraṇas. Of these, Sahasrâksha and other 17 pupils composed separate treatises, on the portions learnt by them. On account of these separate treatises, the science was to some extent lost. The whole, therefore has been abridged by our author and set forth in one book in 18 adhikaraṇas.
 
 **  The position of poetics in literature.** Our author claims a high position for poetical science both in sacred and in profane literature. Rhetorics, says Rajas'ekhara, is the seventh Anga, as without it the [meanings](#)of the Vedic texts cannot be grasped. In another place he puts literature by the side of the four profanesciences, saying that it is the [fifth](#)lore, and makes it the fifteenth division of learning embodying all others.
 
 **  The Kâvyapurusha.** The idea of the Kâvyapurusha and his bride Sâhityavidyâvadhû is quite novel in Sanskrita literature. It seems to have been suggested by the Vedapurusha in the Rigveda, and the Vedic text "चत्वारि शृङ्गाः—" has been made to praise the Kâvyapurusha. The Goddess of Learning was practising penance
-
-
 
 on the Himâlayas with the desire of having a son. Pleased withher penance, Brahmâ gave her a son, afterwards called the Kâvyapurusha. It was from him that metrical speech first originated.Word and meaning make up his body, the different languages his limbs. Sentiment is his soul, and figures of speech are his ornaments. Once upon a time, while Sarasvatî was going to the celestial assembly as a judge, the Kâvyapurusha persisted in following her. In order to prevent him, Sarasvatî created Sâhityâvidyâvadhû as his bride and asked her to follow him. The bride had to adopt various sorts of dress and dramatic devices to win him. The Kâvyapurusha was gradually captivated by her, and at the end of the journey, he was wholly won over. The pair was then married in Vatsagulma by the Gândharva marriage. The different kinds of dress and the dramatic modes adopted by Sâhityavidyâvadhu in different countries are imitated by the people of those parts.
 
@@ -405,8 +358,6 @@ on the Himâlayas with the desire of having a son. Pleased withher penance, Brah
   1 राजा कविः कविसमाजं विदधीत। राजनि कवौ सर्वो लोकः कवी स्यात्। स काव्यपरीक्षायैसभां कारयेत्। सा षोडशभिः स्तम्भैश्चतुर्भिरैरष्टभिर्मत्तवारणीभिरुपेता स्यात्। तदनुलग्नंराज्ञः केलिगृहम्। मध्येसभं चतुःस्तम्भान्तरा हस्तमात्रोत्सेधा समणिभूमिका वेदिका। तस्यां राजासनम्। तस्य चोत्तरतः संस्कृताः कवयो निविशेरन्। बहुभाषाकवित्वे यो यत्राधिकं प्रवीणः स तेन व्यपदिश्यते। यस्त्वनेकत्र प्रवीणः स सङ्क्रम्य तत्र तत्रोपविशेत्। ततः परं वेदविद्याविदः प्रामाणिकाःपौराणिकाःस्मार्त्ता भिषजो मौहूर्त्तिका अन्येऽपि तथाविधाः। पूर्वेण प्राकृताः कवयः; ततः परं नटनर्तकगायनवादकवाग्जीवनकुशीलवतालावचरा अन्येऽपि तथाविधाः। पश्चिमेनापभ्रंशिनः कवयः, ततः परं चित्रलेप्यकृतो माणिक्यबन्धका वैकटिकाः स्वर्णकारवर्धकिलोहकारा अन्येऽपि तथाविधाः। दक्षिणतो भूतभाषाकवयः, ततः परं भुजङ्गगणिकाः प्लवकशौभिकजम्भकमल्लाःशस्त्रोपजीविनोऽन्येऽपि तथाविधाः। तत्र यथासुखमासीनः काव्यगोष्ठीं प्रवर्तयेत् भावयेत् परीक्षेत च। p. p. 54-55
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 blacksmiths and such others; and on the southern side Pais'âcha poets, and behind them paramours, courtezans, rope-dancers, jugglers,wrestlers and professional soldiers.
 
@@ -420,8 +371,6 @@ and give donations to the poets, whose works stand the test. Assemblies of learn
 Upavarsha[^20], Vârsha, Pânini, Pingâla,Vyâdi, Vararuchi, and Patañjali got fame as Sâstrakâraâ.
 
 [^20]: "It may be noted that these names are in strict chronological order.This shows also that Panini flourished in a period after the transference of the capital of Magadha from Rajagraha to Pataliputra.-B. B."
-
-  
 
 Literary traditions noted in the Kâvyamîmânsâ
 
@@ -454,13 +403,10 @@ p. 50
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 the use of cerebrals except n and ś, sh, h, aud ksh, in his harem[^22], and Kuvinda, king of Śûrasena, the use of harsh conjunct consonants. Sâtavâhana, king of Kuntala, had ordered the exclusive use of Prâkrita in his harem, while Sâhasânka, king of Ujjayanî, that of Saṇskrita.
 
 [^22]: "This is a strong argument in favour of taking this king as a Vrâtyawho displayed his hatred towards the harsh sounds current in the Orthodox Brahmanical Speech.-B. B."
 
- 
 Writing-materials.[^23]
 
 Râjaśekhara says that a poet must have always near him a box, a board with chalk, leaves of the Tâdi tree or barks of the Bhûrja tree with pens and inkpots, leaves of the Tâla tree with iron nails and well-rubbed plates. It will be seen from this that the palmyra leaves used by the Southerners are the leaves of the Tâla tree (Tâladalâni), while those found in the Jain Bhandârs are the leaves of the Tâdi (Tâdipatrâni).
@@ -472,10 +418,6 @@ Râjaśekhara says that a poet must have always near him a box, a board with cha
 **  Rhetoricians quoted in the Kâvyamîmâṇsâ.** Râjaśekhara has quoted the opinions of Surânanda, Śyâmadeva, Vâmana, Udbhata, Aparâjiti, Drauhini, Rudrata, Kâlidâsa, Vâk'patirâja, Avantisundarî and Ânanda. Vamana, Udbhata, Ânanda and Rudrata are well-known as poeticians. As regards the others, though the names of some of them are familiar, we know nothing about their works on poetics. As the opinion of Rudrata is refuted in the *Kâvyamîmâṇsâ,* he must be placed earlier than 900 A. D.
 
 **  Repetitions in the Kâvyamîmâṇsâ.** Râjaśekhara frequently repeats whole stanzas in his dramas. In the *Kâvyamîmâṇsâ*
-
-
-
-
 
 too the same fact can be easily noted. The verses स्तेमःस्तोकोऽपि (pp. 25 and 83), स्नानार्द्रार्द्रैः(pp. 67 and 76) and संविधातुमभिषेकमुदासे (pp, 73 and 74) एतास्ताः(pp. 45 and 82), एतां विलोकय(pp. 19 and 45) are quoted twice while the verse गुणानुरागमिश्रेण is quoted thrice (pp. 26, 41 and 82).
 
@@ -513,8 +455,6 @@ Bâlarâmâyaṇa; Act, X, 86,
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 sitions, and the works of its poets are well constructed and the mode of their recitation is, as it were, pouring honey in ears.
 
 **  Râjaśekhara and the Lâtadeśa.** Râjaśekhara seems to have come much in contact with the Lâtadeśa, probably through his royal patron. He has made *Karpûramañjarî,* the heroine of his play Karapuramañjart, the daughter of the king of the Lâtadeśa. The *Viddhas*â*labhanjik*â also belongs to the king of the same country. In the *Bâlarâmâyaṇa*, it is described as the crest[^26]of the earth. The elegance of speech and beauty of its ladies are much dilated upon by him in theKâvyamîmâṇsâ[^27] and the **^(*3*)*Bâlarâmâyaṇa*.**
@@ -539,8 +479,6 @@ sitions, and the works of its poets are well constructed and the mode of their r
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 पूर्वदेश is the part lying east of Benâres. It contains :—
 
 |           |                  |             |           |                |
@@ -559,8 +497,6 @@ sitions, and the works of its poets are well constructed and the mode of their r
 The portion lying beyond माहिष्मती is दक्षिणापथ. It consists of :—
 
 [TABLE]
-
-
 
 The portion lying beyond देवसभ is पश्चाद्देश. It contains:—
 
@@ -606,8 +542,6 @@ we gain some knowledge as to what particular dialects were spoken in different p
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 Takka and Bhâdânaka were fond of Apabhranśa, those living in Avantî, Pâriyâtra and Daśapura used Bhûtabbâshâ, while those living in the Madhyadeśa were well-versed in all languages.
 
   **Rajaśekhara's love for Prâkrita languages.** It is said in the prologue of the *Bâlarâmayaṇa* that Râjaśekhara was well-versed in all languages[^28]. His definition of a Kavirâja also requires that he should be proficient in various languages. To him all the languages should be equal[^29]. His Karpûramañjart would seem to be an illustration of this. In another place, he says that a good poet[^30] should pay attention to all the languages according to his ability, taste and curiosity. **⁴One** and the same idea assumes, different forms of beauty according to the language in which it is expressed. A poet, whose intellect is thus ready in all the languages acquires fame all throughout the world. In the Bâlarâmayaṇa, he describes. Prâkrita[^31] as elegant and possessing natural sweetness, Apabhranśa as verey elegant, and Bhûtabhâshâ as well-formed. In the Karpûramañjarî[^32] it is said that Sanskṛit compositions are harsh, while those in Prâkṛit are smooth.
@@ -632,8 +566,6 @@ Takka and Bhâdânaka were fond of Apabhranśa, those living in Avantî, Pâriy�
  यस्येत्थं धीः प्रपन्ना स्नपयति सुकवेस्तस्य कीर्तिर्जगन्ति॥ Ibid. pp. 48 and 49.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 blunt in Prâkrit**¹A** Gauda cannot speak Prâkṛit well. Either he should give up the attempt or the Prâkṛit language should be otherwise. A. Gauda Brahmaṇ is neither a very clear nor a confused, neither a harsh nor a very soft, neither a deep nor a very loud speaker. **²Whatever** may be the sentiment, style or quality, all the Karṇâtâs recite proudly making a twangling sound at the end. **³Dravidâs**, without any exception, recite either prose, poetry or mixture of both in a musical way. **⁴The** Lâtâs, who have hatred for Sanskṛit, speak beautiful Prâkṛit with their warbling tongue. **⁵The** people of Surâshṭra and Travana, etc., speak Sanskrita, stimulating it with an admixture of Apabhranśa, so as to impart beauty to their speech. **⁶The** Kashmirians are good poets through the favour of Sarasvatî; yet their mode of reciting sounds to the ear like a mouthful of gudûchî (cocculus cordifolius).**⁷The** poetsof the Uttarâpatha, though refined, recite with a nasal sound. **⁸Rich** in properties, with the voice corresponding to the style and the perfection of arrangement of words, and divided into caesuras, the sweet recitation of the Pânchâla poets is, as it were, a flow of honey in ears.
 
@@ -669,8 +601,6 @@ blunt in Prâkrit**¹A** Gauda cannot speak Prâkṛit well. Either he should gi
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 say that women[^33] too may become poetesses like men. Accomplish ment is intimately connected with the soul, but does not depend upon the distinction of the sex. In his time daughters of princes and prime ministers, courtezans and wives of jesters were found well-versed in sciences, and poetesses too.
 
 [^33]: "पुरुषवत् योषितोऽपि कवीभवेयुः। संस्कारो ह्यात्मनि समवैति न स्त्रैणं पौरुषं वा विभागमपेक्षते। श्रूयन्ते दृश्यन्ते च राजपुत्र्यो महामात्रदुहितरो गणिकाःकौतुकिभार्याश्च शास्त्रप्रहतबुद्धयः कवयश्च॥ p. 53."
@@ -685,11 +615,7 @@ say that women[^33] too may become poetesses like men. Accomplish ment is intima
 
 [^36]: "तत्र पौरस्त्यानां श्यामो वर्गः, दाक्षिणात्यानां कृष्णः, पाश्चात्यानां पाण्डु, उदीच्यानां गौरः, मध्यदेश्यानां कृष्णः श्यामो गौरश्च। p. 96."
 
-
-
 ![](../../../books_images/U-IMG-1704634013Screenshot2024-01-07185627.png)
-
-
 
 **ABBREVIATIONS.**
 
@@ -715,8 +641,6 @@ say that women[^33] too may become poetesses like men. Accomplish ment is intima
 
 ![](../../../books_images/U-IMG-1704634121Screenshot2024-01-07185627.png)
 
-
-
 SUMMARY.
 
 ![](../../../books_images/U-IMG-1695277362Screenshot2023-09-21115206.png)
@@ -734,8 +658,6 @@ SUMMARY.
   सरस्वत्याः पुत्रेच्छा। स्वयम्भूवरदानम्। सरस्वत्याः काव्यपुरुषोत्पत्तिः। तस्य छन्दस्वद्वागुच्चारणम्।काव्यपुरुषस्य स्तुतिर्वर्णनं च। सारस्वतेयस्य उशनसे वाल्मीकये च छन्दस्वद्वाक्सञ्चारणम्। काव्यपुरुषस्य सरस्वत्या ब्रह्मलोकेऽनुगमनम्।
 तन्निवर्तनाय तद्वशीकरणार्थं साहित्यविद्यावधूत्पादनं, तस्यै काव्यपुरुषानुवर्तनाय,काव्यविद्यास्नातकेभ्यश्चैतयोः चरितस्तवनायादेशः। प्रथमं प्राचीं प्रति चलनम्। तत्र काव्यपुरुषमभियुञ्जाना सा औमेयी यं वेषं यथेष्टमसेविष्ट स तत्रत्याभिः स्त्रीभिरनुकृतः। सा औड्रमागधी प्रवृत्तिः। गौडाङ्गनावेषवर्णनम्। तयोरनुसारेण भारतीवृत्तिगौडीरीत्योः प्रादुर्भावः। ततः पाञ्चालान् प्रति चलनम्। पाञ्चालमध्यमाप्रवृत्तिसात्वतीवृत्तिपाञ्चालीरीतीनां प्रादुर्भावः। ततोऽवन्तीं प्रति चलनम्।तन्नेपथ्यानुसारेण आवन्तीप्रवृत्तिसात्वतीकैशिकीवृत्तीनां प्रादुर्भावः। ततो दक्षिणां प्रति चलनम्। तत्र दाक्षिणात्याप्रवृत्तिकैशिकीवृत्तिवैदर्भीरीतीनां प्रादुर्भावः। सम्पूर्णतया च काव्यपुरुषस्य वशीकरणम्। विदर्भेषु वत्सगुल्मे तयोर्गान्धर्ववत्परिणयनम्। ततो विनिवृत्य तेषु प्रदेशेषु विहृत्य तुषार गिर्यागमनम्। गौरीसरस्वतीभ्यां वन्दनम्। तयोराशीर्वादेन कविमानसनिवासकरणं कविलोकस्वर्गसर्गश्च। p.10
 
-
-
 **चतुर्थोऽध्यायः**
 
   शिष्यो द्विविधः बुद्धिमानाहार्यबुद्धिश्च। ताभ्यामन्यथाबुद्धिर्दुर्बुद्धिः। समाध्यभ्यासयोर्व्याख्थे। तयोः शक्त्युद्धासनम्। शक्तिकर्तृके प्रतिभाव्युत्पत्तिकर्मणी। प्रतिभाव्याख्या। तस्याः कारयित्रीभावयित्रीभेदेन द्वैविध्यम्।सहजाहार्यौपदेशिकीति त्रिविधा कारयित्री। तासां व्याख्याः। तदनुसारेण सारस्वतः आभ्यासिकः औपदेशिक इति त्रिविधाः कवयः। तेषां लक्षणानि। भावयित्रीव्याख्या। भावकस्वकवित्वयोः पृथक्त्वम्। अरोचकिनः, सतृणाभ्यवहारिणः, मत्सरिणः, तस्वाभिनिवेशिनश्चेति चत्वारः भावकाः। तेषां लक्षणानि। तत्वाभिनिवेशिनः विरलत्वम्। भावकविषये सङ्ग्रहश्लोकाः।
@@ -749,8 +671,6 @@ p.21
 
   पदस्यव्याख्या। तस्य सुब्वृत्तिः, समासवृत्तिः, तद्धितवृत्तिः, कृद्वृत्तिः, तिङ्वृत्तिश्चेति पञ्च वृत्तयः। पदजातस्यानन्त्यम्। वाक्यस्य व्याख्या। तस्य त्रिधाऽभिधा
 
-
-
 व्यापारः वैभक्तः, शाक्तः, शक्तिविभक्तिमयश्चेति। तेषां व्याख्या उदाहरणानि च। एकाख्यातम्, अनेकाख्यातम् (सान्तरं निरन्तरञ्च), आवृत्ताख्यातम्, एकाभिधेयाख्यातम्, परिणताख्यातम्, अनुवृत्ताख्यातम्, समुचिताख्यातम् अध्याहृताख्यातम्, कृदभिहिताख्यातम्, अनपेक्षिताख्यातमिति वाक्यं दशधा। गुणवदलङ्कृतञ्चवाक्यमेव काव्यम्। असत्यार्थाभिधायित्वान्नोपदेष्टव्यं काव्यमिति मतनिरासः। असदुपदेशकत्वान्नोपदेष्टव्यत्वमिति मतनिरासः। असभ्यार्थाभिधायित्वान्नोपदेष्टव्यं काव्यमिति मतस्य श्रुतौ च शास्त्रे चैतदर्थस्योपलब्धेर्निरासः।
 
 **सप्तमोऽध्यायः**
@@ -761,8 +681,6 @@ p.21
 
   श्रुतिः, स्मृतिः, इतिहासः, पुराणं, प्रमाणविद्या, समयविद्या, राजसिद्धान्तत्रयी, लोको, विरचना, प्रकीर्णकम्, उचितसंयोगः, योक्तृसंयोगः, उत्पाद्यसंयोगः, संयोगविकारः इत्येताः काव्यार्थानां षोडश योनयः। श्रौत-स्मार्त ऐतिहासिक पौराणिकमैमांसिक-सांख्यीय न्यायवैशेषिकीय-बौद्धीय-लौकायतिक-आर्हत-शैवसिद्धान्तीय-पाञ्चरात्र
 बौद्धसिद्धान्तीय-नाट्यशास्त्रीय-कामसूत्रीय-लौकिक-विरचनाविषयक-हस्तिशिक्षीय-रत्नपरीक्षीय-धनुर्वेदीय-
-
-
 
 योगशास्त्रीयाणामुचितसंयोगयोक्तृसंयोगोत्पाद्यसंयोगसंयोगविकाराणां काव्यार्थानामुदाहरणानि।
 
@@ -778,8 +696,6 @@ p.21
 
   पञ्चविधं शब्दहरणं पदतः, पादतः, अर्द्धतः, वृत्ततः, प्रबन्धतश्च। क्लिष्टस्य क्लिष्टपदेन हरणम् क्लिष्टपदैकदेशेन हरणम्, क्लिष्टस्य यमकेन हरणम्, क्लिष्टस्य प्रश्नोत्तरे हरणम्, यमकस्य यमकेन हरणम्। अप्रसिद्धादिकारणैः शब्दार्थहरणेऽभिरमेत इत्यवन्तिसुन्दर्या मतम्। व्यधिकपदहरणं हरणं न वेति विचारः। पादहरणं
 
-
-
 स्वीकरणापरनामधेयं हरणम्। तद्वदर्धप्रयोगे व्यस्तार्धप्रयोगे च। पाद एवान्यथात्वकरणं पादोनहरणं वा न स्वीकरणम्। भिन्नार्थानां पादानामेकेन पादेनान्वयनं कवित्वमेव, तद्वत् कतिपयपदैकदेशप्रयोगौ। वाक्यस्यान्यथा व्याख्यानभपि न स्वीकरणं हरणं वा। परकीयस्य स्वीयत्वेन विलपनं दोषोदाहरणम्। मूल्यक्रयोऽपि हरणम्। नास्त्यचौरःकविजनः परं तु यो निगूहितुं जानाति, स विना वाच्यं नन्दति। कविः कश्चिदुत्पादकः, कश्चित्परिवर्तकः कश्चिदाच्छादकः, कश्चित्संवर्गकः, परं तु यः शब्दार्थोक्तिषु किञ्चन नूतनं पश्येत्, प्राच्यं किञ्चन चोल्लिखेत्, स महाकविः।
 
 **द्वादशोऽध्यायः**
@@ -789,8 +705,6 @@ p.21
 **त्रयोदशोऽध्यायः**
 
   आलेख्यप्रख्यतुल्यदेहितुल्यपरपुरप्रवेशसदृशानां प्रत्येकमष्टौ भेदाः। तत्र समक्रमः, विभूषणमोषः, व्युत्क्रमः, विशेषोक्तिः, उत्तंसः, नटनेपथ्यम्, एकपरिकार्यः, प्रत्यापत्तिः इति आलेख्यप्रख्यस्य अष्टौ भेदाः। विषयपरिवर्तः, द्वन्द्वविच्छित्तिः, रत्नमाला, सङ्ख्योल्लेखः, चूलिका (संवादिनी विसंवादिनीति द्विरूपा), विधानापहारः, माणिक्यपुञ्जः, कन्द इति तुल्यदेहितुल्यस्याष्टौ भेदाः अनयोर्मार्गयोरनुग्राह्यत्वम्। हुडयुद्धं, प्रतिकञ्चुकं, वस्तुसंचारः, धातुवादः, सत्कारः, जीवजीवकः,भावमुद्रा, तद्विरोधी इति परपुरप्रवेशसदृशस्य अष्टौ भेदाः। इति द्वात्रिंशद् हरणोपायाः। अर्थवैपरीत्येन च तेषां प्रतियोगिनः। एतेषां हानोपादानविज्ञाने कवित्वम्।
-
-
 
 **चतुर्दशोऽध्यायः**
 
@@ -812,8 +726,6 @@ p.21
 
    सौरचान्द्रमसे माने। ऋतुषु वायुदिग्विचारः। वर्षाधर्मवर्णनम्। शरद्धर्मवर्णनम्। हेमन्तधर्मवर्णनम्। शिशिरधर्मवर्णनम्। वसन्तधर्मवर्णनम्। ग्रीष्मधर्मवर्णनम्। सन्धिः, शैशव, प्रौढिः, अनुवृत्तिश्चेति ऋतूनां चत्वारोऽवस्थाः। तासामुदाहरणानि। शोभान्धोगन्धरसैःफलार्चनाभ्यां च पुष्पस्य षोढा उपयोगः। अन्तर्व्याजं, बहिर्व्याजं, बाह्यान्तर्व्याजं, सर्वव्याजं, बहुव्याजं, निर्व्याजमिति फलानां षोढा भेदः।
 
-
-
 ![](../../../books_images/U-IMG-1695276324Screenshot2023-09-20115820.png)![](#)
 
 **राजशेखरविर**
@@ -829,8 +741,6 @@ p.21
   अथातः काव्यं मीमांसिष्यामहे यथोपदिदेश श्रीकण्ठःपरमेष्ठिवैकुण्ठादिभ्यश्चतुःषष्टये शिष्येभ्यः। सोऽपि भगवान्स्वयम्भूरिच्छाजन्मभ्यः स्वान्तेवासिभ्यः। तेषु सारस्वतेयो वृन्दीयसामपि वन्द्यः काव्यपुरुष आसीत्। तं च सर्वसमयविदं दिव्येन चक्षुषा भविष्यदर्थदर्शिनं भूर्भुवः स्वस्त्रितयवर्त्तिनीषु प्रजासु हितकाम्यया प्रजापतिः काव्यविद्याप्रवर्त्तनायै प्रायुङ्क्त। सोऽष्टादशाधिकरणीं दिव्येभ्यः काव्यविद्यास्नातकेभ्यः सप्रपञ्चं प्रोवाच। तत्र कविरहस्यं सहस्राक्षः समान्नासीत्, औक्तिकमुक्तिगर्भः, रीतिनिर्णयं सुवर्णनाभः, आनुप्रासिकं प्रचेतायनः, यमकानि[^37] चित्रं चित्राङ्गदः, शब्दश्लेषं शेषः, वास्तवं पुलस्त्यः, औपम्यमौपकायनः, अतिशयं पाराशरः, अर्थश्लेषमुतथ्यः, उभयालङ्कारिकं कुबेरः, वैनोदिकं कामदेवः, रूपकनिरूपणीयं भरतः,रसाधिकारिकं नन्दिकेश्वरः, दोषाधिकरणं धिषणः, गुणौपादानिकमुपमन्युः, औपनिषदिकं कुचमारः, इति। ततस्ते पृथक् पृथक् स्वशास्त्राणि विरचयाञ्चक्रुः। इत्थङ्कारञ्चप्रकीर्णत्वात् सा किञ्चिदुच्चिच्छिदे। इतीयं प्रयोजकाङ्गवती सङ्क्षिप्य सर्वमर्थमल्पग्रन्थेन अष्टादशाधिकरणी प्रणीता। तस्या अयं प्रकरणाधिकरणसमुद्देशः। शास्त्रसङ्ग्रहः
 
 [^37]: "चित्राङ्गद may go with यमकानि too."
-
-
 
 शास्त्रनिर्देशः, काव्यपुरुषोत्पत्तिः, पदवाक्यविवेकः, पाठप्रतिष्ठा, अर्थानुशासनं, वाक्यविधयः, कविविशेषः, कविचर्या, राजचर्या, काकुप्रकाराः, शब्दार्थहरणोपायाः, कविसमयः, देशकालविभागः, भुवनकोश, इति कविरहस्यं प्रथममधिकरणमित्यादि। इति सूत्राण्यथैतेषां व्याख्याभाष्यं भविष्यति।
 
@@ -850,8 +760,6 @@ p.21
   इह हि वाङ्मयमुभयथा शास्त्रं काव्यं च। शास्त्रपूर्वकत्वात्काव्यानां पूर्व शास्त्रेष्वभिनिविशेत। नह्यप्रवर्त्तितप्रदीपास्ते[^38] तत्वार्थसार्थमध्यक्षयन्ति। तच्च द्विधा अपौरुषेयं पौरुषेयं च। अपौरुषेयं श्रुतिः। सा च मन्त्रब्राह्मणे। विवृतक्रियातन्त्रा मन्त्राः। मन्त्राणां स्तुतिनिन्दाव्याख्यानविनियोगग्रन्थोब्राह्मणम्। ऋग्यजुःसामवेदास्त्रयी। अथर्वणश्चतुरीयः। तत्रार्थव्यवस्थितपादा ऋचः। ताः सगीतयः सामानि। अच्छन्दांस्यगीतानि यजूंषि ऋचो यजूंषि (सामानि) चाथर्वणं त इमे चत्वारो वेदाः। इतिहासवेदधनुर्वेदौ गान्धर्वायुर्वेदावपि चोपवेदाः। "वेदोपवेदात्मा सार्ववर्णिकः पञ्चमो गेयवेदः” इति द्रौहिणिः। शिक्षा, कल्पो, व्याकरणं, निरुक्तं, छन्दोविचितिः, ज्योतिषं च
 
 [^38]: "C प्रदीपास्तमसि."
-
-
 
 षडङ्गानि” इत्याचार्याः। “उपकारकत्वादलङ्कारः सप्तममङ्गम्” इति यायावरीयः। ऋते चतत्स्वरूपपरिज्ञानाद्वेदार्थानवगतिः[^39]। यथा—
 
@@ -875,8 +783,6 @@ p.21
 “विद्यास्थानानां गन्तुमन्तं न शक्तो  
 जीवेद्वर्षाणां योऽपि साग्रंसहस्रं।
 
-
-
 **तस्मात्सङ्क्षेपादर्थसन्दोह उक्तो  
 व्यासः संत्यक्तो ग्रन्थभीरुप्रियार्थम्॥”**
 
@@ -888,8 +794,6 @@ p.21
 
 **“सरितामिव प्रवाहास्तुच्छाः प्रथमं यथोत्तरं विपुलाः।  
 ये शास्त्रसमारम्भा भवन्ति लोकस्य ते वन्द्याः॥”**
-
-
 
 सूत्रादिभिश्चैषां प्रणयनम्। तत्र सूत्रणात् सूत्रम्। यदाहुः—
 
@@ -917,8 +821,6 @@ p.21
 
   पुरा पुत्रीयन्ती सरस्वती तुषारगिरौ तपस्यामास।प्रीतेन मनसा
 
-
-
 तां विरञ्चः[^43]प्रोवाच पुत्रं ते सृजामि। अथैषा काव्यपुरुषं सुषुवे। सोऽभ्युत्थाय सपादोपग्रहं छन्दस्वतीं वाचमुचीचरत्।
 
 [^43]: "B विरंचः."
@@ -940,10 +842,6 @@ p.21
 
   तत्पूर्वकमध्येतॄणां च सुमेधस्त्वमादिदेश। ततः प्रभृति तमुशनसं सन्तः कविरित्याचक्षते। तदुपचाराच्च कवयः कवय इति लोकयात्रा।
 
-
-
-
-
 कविशब्दच कवृ वर्ण इत्यस्य धातोः काव्यकर्मणो रूपम्। काव्यैकरूपत्वाच्च सारस्वतेयेऽपि काव्यपुरुष इति भक्त्या प्रयुञ्जते। ततश्च विनिवृत्ता वाग्देवी तत्र पुत्रमपश्यन्ती मध्येहृदयं चक्रन्द। प्रसङ्गागतच वाल्मीकिर्मुनिवृषा सप्रश्रयं तमुद्न्तमुदाहृत्य भगवत्यैभृंगुसूतेराश्रमपदमदर्शयत्[^44]। सापि प्रस्तुतपयोधरा पुत्रायाङ्कपालीं ददाना शिरसि च चुम्बन्ती स्वस्तिमता चेतसा प्राचेतसायाऽपि महर्षये निभृतं सच्छन्दांसि वचांसि प्रायच्छत्। अनुप्रेषितश्च[^45] स तयानिषादनिहतसहचरीकं क्रौञ्चयुवानं करुणक्रेङ्कारया गिरा, क्रन्दन्तमुदीक्ष्य शोकवान श्लोकमुज्जगाद
 
 [^44]: "A. भृगुभूतेः"
@@ -962,8 +860,6 @@ p.21
 [^48]: "B साहि-त्यवधू."
 
 [^49]: "B एतद्विधं."
-
-
 
 काव्यसर्वस्वं भविष्यतीत्यभिधाय भगवती भवानी जोषमासिष्ट तेऽपि तथा कर्तुमवतस्थिरे।
 
@@ -985,8 +881,6 @@ p.21
 
   किञ्चिदार्द्रितमना यन्नेपथ्यः स सारस्वतेय आसीदिति समानं पूर्वेण। साऽपि यदीषन्नृत्तगीतवाद्यविलासादिकं दर्शयांबभूव सा सात्वती वृत्तिः। आविद्धगतिमत्त्वात्सा चारभटी। तां ते मुनय इति समानं पूर्वेण। तथाविधाकल्पयापि तथा यदिषद्वशम्वदीकृत
 
-
-
 ईषदसमासं ईषदनुप्रासमुपचारगर्भश्च जगाद सा पाञ्चाली रीतिः। तां ते मुनय इति समानं पूर्वेण। ततः सोऽवन्तीन्प्रत्युच्चचाल यत्रावन्तीवैदिशसुराष्ट्रमालवार्बुदभृगुकच्छादयो जनपदाः। तत्राऽभियुञ्जना तमौमेयीति समानं पूर्वेण। सा प्रवृत्तिरावन्ती। पाञ्चालमध्यमादाक्षिणात्ययोरन्तरचारिणी हि सा। अत एव सात्त्वतीकैशिक्यौ तत्र वृत्ती। तां ते मुनयोऽभितुष्टुवुः—
 
 **“पाञ्चालनेपथ्यविधिर्नराणां  
@@ -1005,8 +899,6 @@ p.21
 
   तामनुरक्तमनाः स यन्नेपथ्यः सारस्वतेय आसीदिति समानं पूर्वेण। सापि यद्विचित्रनृत्तगीतवाद्यविलासादिकमाविर्भावयामास सा कैशिकीवृत्तिस्तां ते मुनय इति समानं पूर्वेण। यदत्यर्थं च स तथा वशम्वदीकृतः स्थानानुप्रासवदसमास योगवृत्तिगर्भं च जगाद सा वैदर्भी रीतिः। तां ते मुनय इति समानं पूर्वेण। तत्र वेषविन्यासक्रमः प्रवृत्तिः, विलासविन्यासक्रमो वृत्तिः, वचनविन्यासक्रमो रीतिः। “चतुष्टयी गतिर्वृत्तीनां प्रवृत्तीनां च, देशानां पुनरानन्त्यं तत्कथमिव कार्स्न्येनपरिग्रहः" इत्याचार्याः। अनन्तानपि हि देशांश्चतुवाकल्प्य कल्पयन्ति "चक्रवर्तिक्षेत्रं
 
-
-
 सामान्येन, तदवान्तरविशेषैः पुनरनन्ता एव" इति यायावरीयः। दक्षिणात्समुद्रादुदीचीं दिशं प्रति योजनसहस्रं चक्रवर्तिक्षेत्रं, तत्रैष नेपथ्यविधिः। ततः परं दिव्याद्या अपि यं देशमधिवसेयुस्तद्देश्यं वेषमाश्रयन्तो निबन्धनीयाः। स्वभूमौ तु कामचारः। द्वीपान्तरभवानां तदनुसारेण वृत्तिप्रवृत्ती। रीतयस्तु तिस्रस्तास्तु पुरस्तात्। तत्रास्ति मनोजन्मनो देवस्य क्रीडावासो विदर्भेषु वत्सगुल्मं नाम नगरम्। तत्र सारस्वतेयस्तामौमेयीं गन्धर्ववत्परिणिनाय। ततस्तदूधूवरं विनिवृत्त्य तेषु प्रदेशेषु विहरमाणं तुषारगिरिमेवाजगाम, यत्र गौरी सरस्वती च मिथः सम्बन्धिन्यौ तस्थतुः। तौ च कृतवन्दनौ दम्पती दत्त्वाशिषं प्रभावमयेन वपुषा कविमानसनिवासिनौ चक्रतुः। तयोश्च कविलोकस्वर्गसर्गं तमकल्पतां, यत्र काव्यमयेन शरीरेण मर्त्त्यमधिवसन्तो दिव्येन देहेन कवय आकल्पं मोदन्ते।
 
 **इत्येष काव्यपुरुषः पुरा सृष्टः स्वयम्भुवा।  
@@ -1017,8 +909,6 @@ p.21
 **चतुर्थोऽध्यायः पदवाक्यविवेकः।**
 
    द्विविधं शिष्यमाचक्षते यदुत बुद्धिमानाहार्यबुद्धिश्च। यस्य निसर्गतः शास्त्रमनुधावति बुद्धिः स बुद्धिमान्। यस्य च शास्त्राभ्यासः संस्कुरुते बुद्धिमसावाहार्यबुद्धिः। त्रिधा च सा, स्मृतिर्मतिः प्रज्ञेति।अतिक्रान्तस्यार्थस्य स्मर्त्री स्मृतिः। वर्त्तमानस्य मन्त्री मतिः। अनागतस्य प्रज्ञात्री प्रज्ञेति \। सा त्रिप्रकाराऽपि कवीनामुपकर्त्री। तयोर्बुद्धिमान् शुश्रूषते शृणोति गृह्णीते धारयति विजानात्यूहतेऽपोहति। तत्त्वं चाभिनिविशते। आहार्यबुद्धेरप्येत एव गुणाःकिन्तु प्रशास्तारमपेक्षन्ते। अहरहः सुगुरूपासना तयोः प्रकृष्टो गुणः। सा हि बुद्धिविकाशकामधेनुः। तदाहुः—
-
-
 
 “प्रथयति पुरः प्रज्ञाज्योतिर्यथार्थपरिग्रहे  
 तदनु जनयत्यूहापोहक्रियाविशदंमनः[^52]।  
@@ -1043,8 +933,6 @@ p.21
 [^54]: "B काव्यहेतुः"
 
 [^55]: "Explained in A in the margin as दूरवर्तिनी."
-
-
 
 प्रत्यक्ष इव।यतो मेधाविरुद्रकुमारदासादयो जात्यन्धाः कवयः श्रूयन्ते। किञ्चन महाकवयोऽपि देशद्वीपान्तरकथापुरुषादिदर्शनेन तत्रत्यां व्यवहृतिं निबध्नन्ति स्म। तत्र देशान्तरव्यवहारः—
 
@@ -1081,8 +969,6 @@ p.21
 
   सा च द्विधा कारयित्री भावयित्री च।कवेरुपकुर्वाणा कारयित्री।साऽपि त्रिविधा सहजाऽऽहार्योपदेशिकी च। जन्मान्तरसंस्कारापेक्षिणी सहजा।जन्मसंस्कारयोनिराहार्या।मन्त्रतन्त्राद्युपदेशप्रभवा औपदेशिकी।ऐहिकेन कियतापि संस्कारेण प्रथमां तां सहजेति व्यपदिशन्ति। महता पुनराहार्या। औपदेशिक्याः पुनरैहिक एव उपदेशकालः, ऐहिक एवसंस्कारकालः। त इमे
 
-
-
 त्रयोऽपि कवयः सारस्वत, आभ्यासिक, औपदेशिकश्च। जन्मान्तरसंस्कारप्रवृत्तसरस्वतीको बुद्धिमान्सारस्वतः। इह जन्माभ्यासोद्भासित भारतीक आहार्यबुद्धिराभ्यासिकः। उपदेशितदर्शितवाग्विभवो दुर्बुद्धिरौपदेशिकः। तस्मान्नेतरौ तन्त्रशेषमनुतिष्ठताम्। “नहि प्रकृतिमधुरा द्राक्षा फाणितसंस्कारमपेक्षते” इत्याचार्याः। “न” इति यायावरीयः। एकार्थ हि क्रियाद्वयं द्वैगुण्याय सम्पद्यते। "तेषां पूर्वःपूर्वःश्रेयान्" इति श्यामदेवः। यतः—
 
 **"सारस्वतः स्वतन्त्रः स्याद्भवेदाभ्यासिको मितः।  
@@ -1106,8 +992,6 @@ p.21
 
 "प्रतिभातारतम्येन प्रतिष्ठा भुवि भूरिधा।  
 भावकस्तु कविः प्रायो न भजत्यधमां दशाम्॥”
-
-
 
   "न" इति कालिदासः। पृथगेव हि कवित्वाद्भावकत्वं, भावकत्वाच्चकवित्वं। स्वरूपभेदाद्विषयभेदाच्च। यदाहुः —
 
@@ -1137,8 +1021,6 @@ p.21
 सान्द्रंलेढि रसामृतं[^61] विचिनुते तात्पर्यमुद्रां च यः।**
 
 [^61]: "A रसोदयं."
-
-
 
 पुण्यैः सङ्घटते विवेक्तृविरहादन्तर्मुखं ताम्यतां  
 केषामेव कदाचिदेव सुधियां काव्यश्रमज्ञो जनः॥
@@ -1189,8 +1071,6 @@ p.21
 
 ![](../../../books_images/U-IMG-1704815955Screenshot_2023-12-22_194033-removebg-preview.png)
 
-
-
 **पञ्चमोऽध्यायः काव्यपाककल्पः।**
 
   "बहुज्ञता व्युत्पत्तिः" इत्याचार्याः। सर्वतोदिक्का हि कविवाचः। **तदुक्तम्—**
@@ -1226,8 +1106,6 @@ p.21
 
 [^66]: "B omits वा."
 
-
-
 **“जङ्घाकाण्डोरुनालो नस्वकिरणलसत्केसरालीकरालः  
 प्रत्यग्रालक्तकाभाप्रसरकिसलयो मञ्जुमञ्जीरभृङ्गः।  
 भर्त्तर्नृत्यानुकारे जयति निजतनुस्वच्छलावण्यवापी-  
@@ -1248,8 +1126,6 @@ p.21
 
 **"विद्येव पुंसो महिमेव राज्ञः  
 प्रज्ञेव वैद्यस्य दयेव साधोः।**
-
-
 
 लज्जेव शूरस्य मृजेव यूनो  
 विभूषणं तस्य नृपस्य सैव॥"
@@ -1307,8 +1183,6 @@ p.21
 "प्रतीच्छत्याशोकीं किसलयपरावृत्तिमधरः  
 कपोलः पाण्डुत्वादवतरति ताडीपरिणतिं।
 
-
-
 **परिम्लानप्रायामनुवदति दृष्टिः कमलिनी-  
 मितीयं माधुर्यंस्पृशति च तनुत्वं च भजते॥** "
 
@@ -1347,8 +1221,6 @@ p.21
 
 [^76]: "B संक्रमयिता."
 
-
-
 कवते स आवेशिकः। यो यदैवेच्छति तदैवाविच्छिन्नवचनः सोऽविच्छेदी। यः
 कन्याकुमारादिषु सिद्धमन्त्रः[^77] सरस्वतींसङ्क्रमयति[^78] सङ्क्रामयिता[^79]। सततमभ्यासवशतः सुकवेः वाक्यं पाकमायाति। "कः पुनरयं पाकः?” इत्याचार्याः। “परिणामः” इति मङ्गलः। "कः पुनरयं परिणामः?" इत्याचार्याः। “सुपां तिङांच श्रवः[^80] सैषा व्युत्पत्तिः" इति मङ्गलः। सौशब्द्यमेतत्। "पदनिवेशनिष्कम्पता पाकः” इत्याचार्या। तदाहुः—
 
@@ -1384,8 +1256,6 @@ p.21
 
 [^82]: "B च."
 
-
-
 मध्यममन्ते खादु सहकारपाकम्, आदावुत्तममन्ते चास्वादु क्रमुकपाकम्, आदावुत्तममन्ते मध्यमं त्रपुसपाकम्, आद्यन्तयोः स्वादुनालिकेरपाकमिति। तेषां त्रिष्वपि त्रिकेषु पाकाःप्रथमे त्याज्याः।वरमकविर्न पुनः कुकविः स्यात्। कुकविता हि सोच्छ्वासं मरणम्। मध्यमाः संस्कार्याः। संस्कारो हि सर्वस्य गुणमुत्कर्षति। द्वादशवर्णमपि सुवर्णं पावकपाकेन हेमीभवति। शेषा ग्राह्याः। स्वभावशुद्धं हि न संस्कारमपेक्षते। न मुक्तामणेःशाणस्तारतायै प्रभवति। अनवस्थितपाकंपुनः कपित्थपाकमामनन्ति। तत्र पलालधूननेन अन्नकणलाभवत्सुभाषितलाभः।
 
 सम्यगभ्यस्यतः काव्यं नवधा परिपच्यते।  
@@ -1405,8 +1275,6 @@ p.21
   व्याकरणस्मृतिनिर्णीतः शब्दो निरुक्तनिघण्ट्वादिभिर्निर्दिष्टस्तदभिधेयोऽर्थस्तौ[^84] पदम्। तस्य पञ्च वृत्तयः सुब्वृत्तिः, समासवृत्तिः,तद्धितवृत्तिः, कृद्वृत्तिः, तिङ्वृत्तिश्च। गौरश्वः पुरुषो हस्तीति जातिवाचिनःशब्दाः। हरो हरिर्हिरण्यगर्भः काल आकाशं दिगितिद्रव्यवाचिनः। श्वेतः कृष्णो रक्तः पीत इति च गुणवाचिनः। प्रादयश्चादयश्चासत्त्ववचनाः। नगरमुप प्रस्थितः पन्थाः, वृक्षमनु द्योतते विद्युदिति कर्मप्रवचनीयाः। "सेयं सुब्वृत्तिः पञ्चतय्यपि वाङ्मयस्य माता" इति विद्वांसः। सुब्वृत्तिरेव समासवृत्तिः। व्याससमासावेवानयोर्भेद्हेतू।
 
 [^84]: "B निर्घंटादिभिः."
-
-
 
 सा च षोढा द्वन्द्वादिभेदेन। तत्रषट्समासीसमाससूक्तम्—
 
@@ -1428,8 +1296,6 @@ p.21
 
 “नमस्तस्मै वराहाय लीलयोद्धरते महीं।  
 खुरयोर्मध्यगो यस्य मेरुः खणखणायते॥”
-
-
 
 शाक्तः —
 
@@ -1477,13 +1343,9 @@ p.21
 
 [^90]: " C मेघसि"
 
-
-
   “आख्यातपरतन्
 
 त्रा वाक्यवृत्तिरतो यावदाख्यातमिह वाक्यानि" इत्याचार्याः। “एकाकारतया कारकग्रामस्यैकार्थतया च वचोवृत्तेरेकमेवेदं वाक्यम्” इति यायावरीयः।
-
-
 
 आवृत्ताख्यातम्—
 
@@ -1496,8 +1358,6 @@ p.21
 
 **"हृष्यति चूतेषु चिरं तुष्यति बकुलेषु मोदते मरुति।  
 इह हि मधौ कलकूजिषु पिकेषु च प्रीयते रागी॥"**
-
-
 
 परिणताख्यातम्—
 
@@ -1513,8 +1373,6 @@ p.21
 
 **“परिग्रहभराक्रान्तं दौर्गत्यगतिचोदितं।  
 मनो गन्त्रीव कुपथे चीत्करोति चयाति च॥”**
-
-
 
 यथा च—
 
@@ -1540,11 +1398,7 @@ p.21
 **“कियन्मात्रं जलं विप्र? जानुदघ्नं नराधिप।  
 तथापीयमवस्था ते न सर्वत्र भवादृशाः॥”**
 
-
-
   गुणवदलङ्कृतञ्चवाक्यमेव काव्यम्॥“असत्यार्थाभिधायित्वान्नोपदेष्टव्यं काव्यम्”इत्येके॥ यथा—
-
-
 
 **“स्तेमः स्तोकोऽपि नाङ्गे श्वसितमविकलं चक्षुषां सैव वृत्तिः  
  मध्येक्षीराब्धि मग्नाः स्फुटमथ च वयं कोऽयमीदृक्प्रकारः।  
@@ -1598,8 +1452,6 @@ p.21
 “यस्तु प्रयुङ्क्तेकुशलो विशेषे शब्दान्यथावद्व्यवहारकाले।  
  सोऽनन्तमाप्नोति जयं परत्र वाग्योगविद्दुष्यति चापशब्दैः॥
 
-
-
   "क[^96]?।वाग्योगविदेव। कुत एतत्।?।यो हि शब्दाञ्जनात्यपशब्दानप्यसौ जानाति। यथैव हि शब्दज्ञाने धर्म, एवमपशब्दज्ञानेऽप्यधर्मः। अथवा भूयानधर्मः प्राप्नोति। भूयांसो ह्यपशब्दा अल्पीयांसःशब्दाः। एकैकस्य हि शब्दस्य बहवोऽपभ्रंशाः। तद्यथा।गौरित्यस्य शब्दस्य गावी गोणी गोता गोपोतलिकेत्येवमादयोऽपभ्रंशाः।अथ योऽवाग्योगवित् अज्ञानं तस्य शरणम्। नात्यन्तायाज्ञानंशरणं भवितुमर्हति। यो ह्यजानन्वै ब्राह्मणं हन्यात्सुरां वा पिबेत्सोऽपि मन्ये पतितः स्यात्। एवं तर्हि सोऽनन्तमाप्नोति जयंपरत्र वाग्योगविद्दुष्यति चापशब्दैः। कः?। अवाग्योगविदेव। अथयो वाग्योगवित् विज्ञानं तस्य शरणम्। क पुनरिदं पठितम्?।भ्राजा नाम श्लोकाः। किञ्च भोः श्लोका अपि प्रमाणम्?। किञ्चातः ?यदि प्रमाणमयमपि श्लोकः प्रमाणं भवितुमर्हति।”
 
 [^96]: " C “दुष्यति अपशब्दैः कः?”"
@@ -1623,8 +1475,6 @@ p.21
 
   “अस्त्ययमुपदेशः किन्तु निषेध्यत्वेन न विधेयत्वेन" इति यायावरीयः। य एवंविधा विधयः परस्त्रीषु पुंसां सम्भवन्ति तानवबुध्येतेति कवीनां भावः। किञ्च कविवचनायत्ता लोकयात्रा। "साच निःश्रेयसमूलम्” इति महर्षयः। यदाहुः—
 
-
-
 **"काव्यमय्यो गिरो यावच्चरन्ति विशदा भुवि ।  
  तावत्सारस्वतं स्थानं कविरासाद्य मोदते॥”**
 
@@ -1634,8 +1484,6 @@ p.21
  प्रभुत्वलीलाश्च सुधाशिनां याः ।  
  ये च प्रभावास्तपसामृषीणां  
  ताः सत्कविभ्यः श्रुतयः प्रसूताः॥"**
-
-
 
 उक्तञ्च—
 
@@ -1666,8 +1514,6 @@ p.21
 
 "प्रक्रमापन्नो निबन्धनीय एवायमर्थः” इति यायावरीयः । तदिदं श्रुतौ शास्त्रे चोपलभ्यते। तत्र याजुषः—
 
-
-
 “योनिरुदूखलं शिश्नंमुशलं मिथुनमेवैतत् प्रजननं[^98] क्रियते॥”
 
 [^98]: "B तत्ते जननं. "
@@ -1686,18 +1532,12 @@ p.21
  पदवाक्यविवेकोऽयमिति किञ्चित्प्रपञ्चितः।  
  अथ वाक्यप्रकारांश्च कांश्चिदन्यान्निबोधत॥**
 
-
-
 ॥इति राजशेखरकृतौ काव्यमीमांसायां कविरहस्ये प्रथमेऽधिकरणे  
 षष्ठोऽध्यायः पदवाक्यविवेकः॥
 
 ![](../../../books_images/U-IMG-1693896875Untitled20520.png)
 
-
-
 **सप्तमोऽध्यायःपाठप्रतिष्ठा।**
-
-
 
   वाक्यं वचनमिति व्यवहरन्ति। तच्च त्रिधा प्रणेतृभेदेन ब्राह्मं,शैवं, वैष्णवमिति। तदिदं वायुप्रोक्तपुराणादिभ्य उपलब्धं यदुतब्राह्मं वचः पञ्चधा स्वायम्भुवमैश्वरमार्षमार्षीकमार्षिपुत्रकं च। स्वयम्भूर्ब्रह्मा तस्य खायम्भुवम्।तन्मनोजन्मानो भृगुप्रभृतयः पुत्रास्तेईश्वरास्तेषामैश्वरम्।ईश्वराणां सुता ऋषयस्तेषामार्षम्।ऋषीणामपत्यानि ऋषीकास्तेषामार्षीकम्।ऋषीकाणां सूनव ऋषिपुत्रकास्तेषामार्षिपुत्रकम्। स्वयम्भुवः प्रथमं वचः श्रुतिः श्रुतेरन्यच्च[^100]स्वायम्भुवम्। तहाहुः—
 
@@ -1712,8 +1552,6 @@ p.21
 प्रत्यक्षं च परोक्षं च लक्ष्यता[^101]मैश्वरं वचः॥”**
 
 [^101]: " A लिंग्यता°."
-
-
 
 आर्षम्—
 
@@ -1759,8 +1597,6 @@ p.21
 
 **"स्तोकानुप्राससच्छायं चतुरोक्तिप्रसादि च।  
 द्राघीयसा समासेन विद्धि वैद्याधरं वचः॥”**
-
-
 
 यथा—
 
@@ -1810,10 +1646,7 @@ p.21
 विद्याधरेन्द्रः प्रतिगृह्य वीणां  
 पिनाकिने गायति मङ्गलानि॥”**
 
- 
 "किमर्थंपुनरनुपदेश्ययोर्ब्राह्मपारमेश्वरयोर्वाक्यमार्गयोरुपन्यासः?" इत्याचार्याः। “सोऽपि कवीनामुपदेशपरः" इति यायावरीयः।
-
-
 
 यतो नाटकादावीश्वरादीनां देवानां च प्रवेशे तच्छायावन्ति वाक्यानि विधेयानीति दिव्यम्। इह हि प्रायो वादो यदुत मर्त्यावतारव्यवहाररुचेर्भगवतो वासुदेवस्य वचो वैष्णवं तन्मानुषमितिव्यपदिशन्ति। तच्च त्रिधा रीतित्रयभेदेन। तदाहुः—
 
@@ -1840,8 +1673,6 @@ p.21
 कनकनिकषस्निग्धा विद्युत्प्रिया न ममोर्वशी॥”**
 
   इयमेवोपदेष्टुर्निर्णयरूपा। ता इमास्तिस्रोऽपि नियतनिबन्धाः।तद्विपरीताः पुनरनन्ताः।तत्राभ्युपगमानुनयकाकू—
-
-
 
 **“युष्मच्छासनलङ्घनाम्भसि मया मग्नेन नाम स्थितं  
 प्राप्ता नाम विगर्हणा स्थितिमतां मध्येऽनुजानामपि।  
@@ -1883,8 +1714,6 @@ p.21
 
 **इत्थं कविर्निबध्नीयादित्थं च मतिमान्पठेत्।  
 यथा निबन्धनिगदश्छायां काञ्चिन्निषिञ्चति॥**
-
-
 
 **करोति काव्यं प्रायेण संस्कृतात्मा यथा तथा।  
 पठितुं वेत्ति स परं यस्य सिद्धा सरस्वती॥**
@@ -1932,8 +1761,6 @@ p.21
 **“ब्रह्मन्विज्ञापयामि त्वां स्वाधिकारजिहासया।  
 गौडस्त्यजतु वा गाथामन्या वाऽस्तु सरखती॥**
 
-
-
 **नातिस्पष्टो न चाश्लिष्टो न रुक्षो नातिकोमलः।  
 न मन्द्रो नातितारश्च पाठी गौडेषु वाडवः॥**
 
@@ -1978,8 +1805,6 @@ p.21
 
 ![](../../../books_images/U-IMG-169390480065352.png)
 
-
-
 **अष्टमोऽध्यायः काव्यार्थयोनयः।**
 
   “श्रुतिः, स्मृतिः, इतिहासः, पुराणं, प्रमाण[^110]विद्या, समयविद्या,राजसिद्धान्तत्रयी, लोको, विरचना, प्रकीर्णकं च काव्यार्थानां द्वादश योनयः” इति आचार्याः।"उचितसंयोगेन, योकृसंयोगेन, उत्पाद्यसंयोगेन, संयोगविकारेण च सह षोडश" इति यायावरीयः। तत्र श्रौतः। "उर्वशी हाप्सराः पुरूरवसमैडं चकमे"। अत्रार्थे—
@@ -2020,8 +1845,6 @@ p.21
 सम्भावितैक[^113]देशेन देयं यदभियुज्यते॥”**
 
 [^113]: "V सम्भावितैक०."
-
-
 
   ऐतिहासिकः—
 
@@ -2078,8 +1901,6 @@ p.21
  स्त्री काचिदित्यभिहिते सततं मनो मे  
  तामेव वामनयनां विषयीकरोति॥”**
 
-
-
   तर्केषु साङ्ख्यीयः—
 
 **"नासतो विद्यते भावो नाभावो विद्यते सतः।  
@@ -2124,8 +1945,6 @@ p.21
 [^124]: "A च."
 
    आर्हतः—शरीरपरिमाण आत्मा, अन्यथा शरीराफल्यमात्माफल्यं वा।
-
-
 
   अत्र—
 
@@ -2175,8 +1994,6 @@ p.21
 शम्भोर्वःपरिपान्तु लम्बितलयच्छेदाहतास्तालिकाः॥”**
 
 [^127]: "C मात्युचैर्न च"
-
-
 
 कामसूत्रीयः—
 
@@ -2230,8 +2047,6 @@ p.21
 
 [^130]: "B रत्नावत्याः"
 
-
-
 **तस्य रत्नाकरसुता श्रियो देव्याः सहोदरी।  
 स्वयम्वरविधावासीत्कलत्रं चित्रसुन्दरी॥"**
 
@@ -2267,8 +2082,6 @@ p.21
 यः स्याज्जपाविद्रुमभङ्गशोणो  
 यो वा हरिद्रारससंनिकाशः॥”**
 
-
-
 धनुर्वेदीयः—
 
 **“स दक्षिणापाङ्गनिविष्टमुष्टिं  
@@ -2282,8 +2095,6 @@ p.21
 स्त्वं जागर्षि स्वपिषि च मुहुर्बुध्यसे नापि बुद्धः।  
 तं त्वाराध्य प्रविततधियो बन्धभेदं विधाय  
 ध्वस्तातङ्का विमलमहसस्ते भवन्तो भवन्ति॥"**
-
-
 
 एवं प्रकीर्णकान्तरमपि। उचितसंयोगः—
 
@@ -2326,8 +2137,6 @@ p.21
 
 ![](../../../books_images/U-IMG-1693975827Untitled235689.png)
 
-
-
 नवमोऽध्यायः अर्थव्याप्तिः।
 
   “स त्रिधा”इति द्रौहिणिः; दिव्यो, दिव्यमानुषो, मानुषश्च। “सप्तधा”इति यायावरीयः; पातालीयो, मर्त्त्यपातालीयो, दिव्यपातालीयो, दिव्यमर्त्त्यपातालीयश्च। तत्र दिव्यः—
@@ -2363,8 +2172,6 @@ p.21
 समजनि वसुदेवो देवकी यत्कलत्रम्।  
 किमपरमथ तस्मात्षोडशस्त्रीसहस्र-  
 प्रणिहितपरिरम्भः पद्मनाभो बभूव॥"
-
-
 
 मर्त्यस्य दिव्यभावः—
 
@@ -2416,8 +2223,6 @@ p.21
 
 [^140]: "A नाथम्"
 
-
-
 इहापि पूर्ववत्समस्तमिश्रभेदानुगमः। दिव्यपातालीयः—
 
 “स पातु वो यस्य शिखाश्मकर्णिकं  
@@ -2455,8 +2260,6 @@ p.21
   “न स्वरूपनिबन्धनमिदं रूपमाकाशस्य सरित्सलिलादेर्वा किन्तु प्रतिभासनिबन्धनम्। न च प्रतिभासस्तादात्म्येन वस्तुन्यवतिष्ठते यदि तथा स्यात्सूर्याचन्द्रमसोर्मण्डले दृष्ट्या[^144]परिच्छिद्यमानद्वादशाङ्गुलप्रमाणे पुराणाद्यागमनिवेदितधरावलयमात्रे न स्तः”इति यायावरीयः। एवं नक्षत्रादीनां सरित्सलिलादीनामन्येषां च। यथाप्रतिभासं च वस्तुनः स्वरूपं शास्त्रकाव्ययोर्निबन्धोपयोगि। शास्त्रे यथा—
 
 [^144]: " C दृष्ट्यपरिच्छिद्यमान."
-
-
 
 “प्रशान्तजलभृत्पङ्के विमले वियदम्भसि।  
 ताराकुमुदसम्बन्धे हंसायत इवोडराट्॥”
@@ -2497,8 +2300,6 @@ p.21
 यच्च स्वर्गसदां वयः स्मरसुहृन्नित्यं सदा सम्पदां  
 यल्लक्ष्मीरधिदैवतं च जलधेस्तत्कान्तमाचेष्ठितम्॥”
 
-
-
 एवं पुरतुरगादिवर्णनरसवत्तापि। विप्रलम्भेप्यतिरसवत्ता—
 
 “विधर्माणो भावास्तदुपहितवृत्तेर्न धृतये  
@@ -2529,8 +2330,6 @@ p.21
 
   “उभयमुपपन्नम्‘”इति यायावरीयः। स पुनर्द्विधा। मुक्तकप्रबन्धविषयत्वेन। तावपि प्रत्येकं पञ्चधा। शुद्धः, चित्रः, कथोत्थः, संविधानकभूः, आख्यानकवांश्च। तत्र मुक्तेतिवृत्तः शुद्धः। स एव सप्रपञ्चश्चित्रः। वृत्तेतिवृत्तः कथोत्थः। सम्भावितेतिवृत्तः संविधानकभूः। परिकल्पितेतिवृत्तः आख्यानकवान्। तत्र।
 
-
-
 मुक्तके शुद्धः—
 
 “सा पत्युः प्रथमापराधकरणे शिक्षोपदेशं विना  
@@ -2555,9 +2354,7 @@ p.21
 
 यस्मात्खण्डितसाहसो निववृते श्रीशर्मगुप्तो[^153]
 
-
 [^153]: "श्रीसेनगुप्तो"
-
 
 नृपः।  
 
@@ -2587,8 +2384,6 @@ p.21
 
 “अर्थिजनार्थधृतानां वनकरिणां प्रथमकल्पितैर्दशनैः।  
 चक्रे परोपकारी हैहयजन्मा गृहं शम्भोः॥”
-
-
 
 निबन्धशुद्धः—
 
@@ -2636,8 +2431,6 @@ p.21
 एकोऽर्थः संस्कृतोक्तया स सुकविरचनः प्राकृतेनापरोऽस्मिन्  
 अन्योपभ्रंशगीर्भिः किमपरमपरो भूतभाषाक्रमेण।
 
-
-
 द्वित्राभिः कोऽपि वाग्भिर्भवति चतसृभिः किञ्च कश्चिद्विवेक्त्तुं  
 यस्येत्थं धीः प्रपन्ना[^158]स्नपयति सुकवेस्तस्य कीर्त्तिर्जगन्ति॥
 
@@ -2659,8 +2452,6 @@ p.21
 
    अपि च। नित्यं शुचिः स्यात्। त्रिधा च शौचं वाक्शौचं, मनःशौचं, कायशौचं च। प्रथमे शास्त्रजन्मनी। तार्तीयीकं तु सनखच्छेदौ पादौ, सताम्बूलं मुखं, सविलेपनमात्रं वपुः, महार्हमनुल्बणं च वासः, सकुसुमं शिर इति। शुचि शीलनं हि सरस्वत्याः संवननमामनन्ति। स यत्स्वभावः कविस्तदनुरूपं काव्यम्। यादृशाकारश्चित्रकरस्तादृशाकारमस्य चित्रमिति प्रायो वादः। स्मितपूर्वमभिभाषणं, सर्वत्रोक्तिगर्भमभिधानं, सर्वतो रहस्यान्वेषणं, परकाव्यदूषणवैमुख्यमनभिहितस्य, अभिहितस्य तु यथार्थमभिधानम्।  
  तस्य भवनं सुसंमृष्टं, ऋतुषट्कोचितविविधस्थानम्, अनेकतरुमूलकल्पितापाश्रयवृक्षवाटिकं, सक्रीडापर्वतकं, सदीर्घिकापुष्करि-
-
-
 
 णीकं, ससरित्समुद्रावर्त्तकं, सकुल्याप्रवाहं, सबर्हिणहरिणहारीतं, ससारसचक्रवाकहंसं, सचकोरक्रौञ्चकुरशुकसारिकं, घर्मक्लान्तिचौरं, सभूमिधारागृह[^159]यन्त्रलतामण्डपकं, सदोलाप्रेङ्खंच स्यात्। काव्याभिनिवेशखिन्नस्य मनसस्तद्विनिर्वेदच्छेदाय आज्ञामूकपरिजनं विजनं वा तस्य स्थानम्।अपभ्रंशभाषणप्रवणःपरिचारकवर्गः, समागधभाषाभिनिवेशिन्यः परिचारिकाः। प्राकृतसंस्कृतभाषाविद आन्तःपुरिका, मित्राणि चास्य सर्वभाषाविन्दि भवेयुः। सदःसंस्कारविशुद्ध्यर्थं सर्वभाषाकुशलः, शीघ्रवाक्, चार्वक्षर, इङ्गिताकारवेदी, नानालिपिज्ञः, कविः, लाक्षणिकश्चलेखकः स्यात्। तदसन्निधावतिरात्रादिषु पूर्वोक्तानामन्यतरः।स्वभवने हि भाषानियमं यथा प्रभुर्विदधाति तथा भवति।
 
@@ -2687,8 +2478,6 @@ p.21
 [^164]: " A सलेखनी."
 
  कविः प्रथममात्मानमेव कल्पयेत्। कियान्मे संस्कारः, क्वभाषाविषये शक्तोऽस्मि, किंरुचिर्लोकः परिवृढो वा कीदृशि गोष्ठ्यां
-
-
 
 विनीतः[^165], क्वास्य वा चेतः संसजत इति बुद्ध्वाभाषाविशेषमाश्रयेत्” इति आचार्याः।“एकदेशकवेरियं नियमतन्त्रणा, स्वतन्त्रस्य पुनरेकभाषावत्सर्वा अपि[^166]भाषाः स्युः”इति यायावरीयः। देशविशेषवशेन च भाषाश्रयणं दृश्यते। तदुक्तम्—
 
@@ -2729,8 +2518,6 @@ p.21
 पितुर्गुरोर्नरेन्द्रस्य सुतशिष्यपदातयः।  
 अविविच्यैव काव्यानि स्तुवन्ति च पठन्ति च॥”
 
-
-
    “किञ्च[^168]नार्द्धकृतं पठेदसमाप्तिस्तस्य फलम्”इति कविरहस्यम्। न नवीनमेकाकिनः पुरतः। स हि स्वीयं ब्रुवाणःकतरेण साक्षिणा जीयेत। न च स्वकृतिं बहु मन्येत[^169]। पक्षपातो हि गुणदोषौ विपर्यासयति। न च दृप्येत्। दर्पलवोऽपि सर्वसंस्कारानुच्छिनत्ति। परैश्च परीक्षयेत्। यदुदासीनः पश्यति न तदनुष्ठातेति प्रायो वादः। कविमानिनं तु छन्दोनुवर्त्तनेन रञ्जयेत्।कविम्मन्यस्य हि पुरतः सूक्तमरण्यरुदितं स्याद्विप्लवेत च। तदाह—
 
 [^168]: "B omits किच."
@@ -2747,8 +2534,6 @@ p.21
 [^170]: "तस्मात्तदनु परीक्षयेत्"
 
 [^171]: "परीक्षितस्य."
-
-
 
  चतुर्विधश्चासौ।असूर्यम्पश्यो, निषण्णो, दत्तावसरः, प्रायोजनिकश्च। यो गुहागर्भभूमिगृहादिप्रवेशान्नैष्ठिकवृत्तिः कवते, असावसूर्यम्पश्यस्तस्य सर्वे कालाः। यः काव्यक्रियायामभिनिविष्टः कवते न च नैष्ठिकवृत्तिः, स निषण्णस्तस्यापि त एव कालाः। यः सेवादिकमविरुन्धानः कवते, स दत्तावसरस्तस्य कतिपये कालाः। निशायास्तुरीयो यामार्द्धः स हि सारस्वतो मुहूर्त्तः। भोजनान्तःसौहित्यं हि स्वास्थ्यमुपस्थापयति; व्यवायोपरमः यदार्त्तिविनिवृत्तिरेकमेकाग्रतायतनं याप्ययानयात्रा[^172]।विषयान्तरविनिवृत्तं हि चित्तं यत्र यत्र प्रणिधीयते तत्र[^173]तत्र गुडूचीलागं लगति। यदा यदा चात्मनः क्षणिकतां मन्यते स स काव्यकरणकालः।यस्तु प्रस्तुतं किञ्चन संविधानकमुद्दिश्य कवते, स प्रायोजनिकस्तस्य प्रयोजनव[^174]शात्कालव्यवस्था। बुद्धिमदाहार्यबुद्ध्योरियं नियममुद्रा। औपदेशिकस्य पुनरिच्छैव सर्वे कालाः, सर्वाश्च नियममुद्राः।
 
@@ -2776,8 +2561,6 @@ p.21
 
 **“अहर्निशाविभागेन य इत्थं कवते कृती।  
 एकावलीव तत्काव्यं सतां कण्ठेषु लम्बते ॥**
-
-
 
 यथा यथाभियोगश्च संस्कारश्च भवेत्कवेः।  
 तथा तथा निबन्धानां तारतम्येन रम्यता॥
@@ -2815,8 +2598,6 @@ p.21
 
   राजा कविः कविसमाजं विदधीत। राजनि कवौ सर्वो लोकः कविः स्यात्। स काव्यपरीक्षायै सभां कारयेत्। सा षोडशभिः स्तम्भैश्चतुर्भिर्द्वारैरष्टभिर्मत्तवारणीभिरुपेता स्यात्। तदनुलग्नं राज्ञः केलिगृहम्।मध्येसभं चतुःस्तम्बान्तरा हस्तमात्रोत्सेधा समणिभूमिका वेदिका। तस्यां राजासनम्। तस्य चोत्तरतः संस्कृताः कवयो निविशेरन्। बहुभाषाकवित्वे यो यत्राधिकं प्रवीणः स तेन व्यपदिश्यते। यस्त्वनेकत्र प्रवीणः स सङ्क्रम्य तत्र तत्रोपविशेत्। ततः परं वेदविद्याविदः प्रामाणिकाः पौराणिकाःस्मार्त्ता भिषजो मौहूर्त्तिका अन्येऽपि तथाविधाः। पूर्वेण प्राकृताः कवयः; ततः परं नटनर्त्तकगायन-
 
-
-
 वादकवाग्जीवन[^179]कुशीलवतालावचरा अन्येऽपि तथाविधाः। पश्चिमेनापभ्रंशिनः कवयः; ततः परं चित्रलेप्यकृतो माणिक्यबन्धका वैकटिकाः[^180]स्वर्णकारवर्द्धकिलोहकारा अन्येऽपि तथाविधाः। दक्षिणतो भूतभाषाकवयः; ततः परं भुजङ्गगणिकाः प्लवकशौभिकजम्भकमल्लाः शस्त्रोपजीविनोऽन्येऽपि तथाविधाः।
 
 [^179]: " B वादनाग्जीतन."
@@ -2847,8 +2628,6 @@ p.21
 ॥इति राजशेखरकृतौ काव्यमीमांसायां कविरहस्ये प्रथमेऽधिकरणे  
 कविचर्या राजचर्या च दशमोऽध्यायः॥  
 ![](../../../books_images/U-IMG-1703175109Capture.JPG)
-
-
 
 एकादशोऽध्यायः शब्दहरणम्।
 
@@ -2898,8 +2677,6 @@ p.21
 दशसु दिक्षु च तेन यशः सितं  
 निरवधीरितमाकुलमासुरम्॥”**
 
-
-
 श्लिष्टस्य प्रश्नोत्तरेण हरणम्—
 
 “यस्यां भुजङ्गवर्गः कर्णायतेक्षणं कामिनीवदनं च॥”
@@ -2943,10 +2720,6 @@ p.21
 स्तत्तुल्यवर्णाञ्जनरञ्जितेषु।  
 लावण्ययुक्तेष्वपि वित्रसन्ति  
 दैत्याः स्वकान्तानयनोत्पलेषु॥”
-
-
-
-
 
   “न” इति यायावरीयः। उल्लेखवान्पदसन्दर्भः परिहरणीयो नाप्रत्यभिज्ञायातः[^190]पादोऽपि। तस्यापि साम्येन किञ्चन दुष्टं स्यात्।
 
@@ -2993,9 +2766,6 @@ p.21
 स्त्यागेन मे मुग्धविलोचनायाः॥”
 
   तदिदं स्वीकरणापरनामधेयं हरणमेव। तद्वदर्द्धप्रयोगेऽपि। यथा—  
-
-
-
 
 “पादस्ते नरवर दक्षिणे समुद्रे  
 पादोऽन्यो हिमवति हेमकूटलग्ने।  
@@ -3051,8 +2821,6 @@ p.21
 
 भिन्नार्थानां तु पादानामेकेन पादेनान्वयनं कवित्वमेव। यथा—
 
-
-
 “किमिह किमपि दृष्टं स्थानमस्ति श्रुतं वा  
 व्रजति दिनकरोऽयं यत्र नास्तं कदाचित्।  
 भ्रमति विहगसार्थानित्थमापृच्छमानो  
@@ -3105,8 +2873,6 @@ p.21
 **“असकलहसितत्वात्क्षालितानीव कान्त्या  
 मुकुलितनयनत्वाद्व्यक्तकर्णोत्पलानि।**
 
-
-
 पिबति मधुसुगन्धीन्याननानि प्रियाणां  
 त्वयि विनिहितभारः कुन्तलानामधीशः॥”
 
@@ -3150,8 +2916,6 @@ p.21
 **“नास्त्यचौरःकविजनो नास्त्यचौरो वणिग्जनः।  
 स नन्दति विना वाच्यं यो जानाति निगूहितुम्॥**
 
-
-
 उत्पादकः कविः कश्चित्कश्चिच्च परिवर्त्तकः।  
 आच्छादकस्तथा चान्यस्तथा संवर्गकोऽपरः[^205]
 
@@ -3186,8 +2950,6 @@ p.21
   तदाहुः—सुप्तस्यापि महाकवेः शब्दार्थौसरस्वती दर्शयति तदितरस्य तत्र जाग्रतोऽप्यन्धं चक्षुः।अन्यदृष्टचरे[^208] ह्यर्थे महाकवयो जात्यन्धास्तद्विपरीते तु दिव्यदृशः। न तत् त्र्यक्षः सहस्राक्षो वा यच्चर्मचक्षुषोऽपि कवयः पश्यन्ति। मतिदर्पणे कवीनां विश्वं प्रतिफलति। कथं नु वयं दृश्यामह इति महात्मनामहंपूर्विकयैव शब्दार्थाः पुरो धावन्ति। यत्सिद्धप्रणिधाना योगिनः पश्यन्ति, तत्र
 
 [^208]: "B omits अन्य."
-
-
 
 वाचा विचरन्ति कवयः इत्यनन्ता महाकविषु सूक्तयः।“समस्तमस्ति”इति यायावरीयः।किन्तु त्रिपथमर्थमध्यगीष्महि यदुतान्ययोनिर्निह्नुतयोनिरयोनिश्च। तत्रान्ययोनिर्द्विधा प्रतिबिम्बकल्प, आलेखप्रख्यश्च। निह्नुतयोनिरपि द्विधा तुल्यदेहितुल्यः परपुरप्रवेशसदृशश्च। अयोनिः पुनरेकादृश एव। तत्र—
 
@@ -3225,8 +2987,6 @@ p.21
 पशुर्धन्यस्तावत्प्रतिवसति यो जीवति सुखम्।  
 अमीषां निर्माणं किमपि तद्भूद्दग्धकरिणां  
 वनं वा क्षोणीभृद्भवनमथवा येन शरणम्॥”**
-
-
 
 अत्रार्थे—
 
@@ -3270,8 +3030,6 @@ p.21
 **परवाक्यार्थमाकृष्य यः स्ववाचि निवेशयेत्।  
 समुल्लेखेन केनापि स स्मृतः कर्षकः कविः॥**
 
-
-
 अप्रत्यभिज्ञेयतया स्ववाक्ये नवतां नयेत्।  
 यो द्रावयित्वा मूलार्थं द्रावकः स भवेत्कविः॥
 
@@ -3314,8 +3072,6 @@ p.21
 
 [^214]: "B पूर्वापर्य."
 
-
-
   
 
 यथा—
@@ -3324,8 +3080,6 @@ p.21
 यन्तुर्वाचं मन्यमानस्तृणाय।  
 गच्छन्दध्रेनागराजःकरिण्या  
 प्रेम्णा तुल्यं बन्धनं नास्ति जन्तोः॥”
-
-  
 
 अत्रार्थे–
 
@@ -3336,16 +3090,12 @@ p.21
 
 बृहतोऽर्थस्यार्द्धप्रणयनं खण्डम्।
 
-  
-
 यथा—
 
 “पुरा पाण्डुप्रायं तदनुकपिशिम्ना कृतपदं  
 ततः पाकोद्रेकादरुणगुणसंवर्गितवपुः।  
 शनैः शोषारम्भे स्थपुटनिजविष्कम्भविषमं  
 वने वीतामोदं बदरमरसत्वं कलयति॥”
-
-  
 
 अत्रार्थे—
 
@@ -3356,16 +3106,12 @@ p.21
 
 संक्षिप्तार्थविस्तरेण तैलबिन्दुः।
 
-  
-
 यथा—
 
 “यस्य तन्त्रभराक्रान्त्या[^215]पातालतलगामिनी।  
 महावराहदंष्ट्राया भूयः सस्मार मेदिनी॥”
 
 [^215]: "A & C क्रान्ता."
-
-  
 
 अत्रार्थ—
 
@@ -3374,23 +3120,17 @@ p.21
 सस्मार स्फारचन्द्रद्युति पुनरवनिस्तद्धिरण्याक्षवक्षः-  
 स्थूलास्थिश्रेणिशाणानिकषणसितमप्याशु दंष्ट्राग्रमुग्रम्॥”
 
-  
-
 अन्यतमभाषानिबद्धं भाषान्तरेण परिवर्त्त्यत[^216] इति नटनेपथ्यम्। यथा- “नेच्छइ[^217]पासासंकी काओ दिण्णं पि पहिअघरिणीए।”
 
 [^216]: "B परिवर्तने "
 
 [^217]: "नेच्छति पाशाशङ्की काको दत्तमपि पथिकगृहिण्या । अवनतकरतलोद्गलितचलयमध्यंस्थितं पिण्डम् ॥"
 
-
-
   
 
 ओहत्तकरयलोग्गलियवलयमज्झट्ठिअं[^218] पिण्डं॥”
 
 [^218]: "१ A ओउत्तकरयलो B ओहुत्तकरयलो. C explains this as अवनतकरतलावगलित."
-
-  
 
 अत्रार्थे—
 
@@ -3401,16 +3141,12 @@ p.21
 
 छन्दसा परिवृत्तिश्छन्दोविनिमयः।
 
-  
-
 यथा—
 
 **“कान्ते तल्पमुपागते विगलिता नीवी स्वयं बन्धनात्  
 तद्वासः श्लथमेखलागुणधृतं किञ्चिन्नितम्बे स्थितम्।  
 एतावत्सखि वेद्मिकेवलमहं तस्याङ्गसङ्गे पुनः  
 कोऽसौ कास्मि रतं नु किं कथमपि स्वल्पापि मे न स्मृतिः॥”**
-
-  
 
 अत्रार्थे—
 
@@ -3425,14 +3161,10 @@ p.21
 
 [^220]: "C कारणप्रवृत्त्या."
 
-  
-
 यथा—
 
 “ततोऽरुणपरिस्पन्दमन्दीकृतरुचिः शशी।  
 दध्रेकामपरिक्षामकामिनीगण्डपाण्डुताम्॥”
-
-  
 
 अत्रार्थे—
 
@@ -3441,8 +3173,6 @@ p.21
 
 दृष्टस्य वस्तुनोऽन्यत्र सङ्क्रमितिः सङ्क्रान्तकम्।
 
-  
-
 यथा—
 
 “स्नानाद्रार्द्रैर्विधुतकबरीबन्धलोलैरिदानीं  
@@ -3450,21 +3180,15 @@ p.21
 अप्येतेभ्यो नभसि पततः पङ्क्तिशो वारिबिन्दून्  
 स्थित्वोद्ग्रीवं कुवलयदृशां केलिहंसाः पिबन्ति॥”
 
-  
-
 अत्रार्थे–
 
 **“सद्यःस्नातजपत्तपोधनजटाप्रान्तस्रुताः प्रोन्मुखैः  
 पीयन्तेऽम्बुकणाः कुरङ्गशिशुभिस्तृष्णाव्यथाविक्लवैः।**
 
-
-
 एतां प्रेमभरालसां च सहसा शुष्यन्मुखीमाकुलः  
 श्लिष्यन् रक्षति पक्षसम्पुटकृतच्छायः शकुन्तः प्रियाम्॥”
 
 उभयवाक्यार्थोपादानं सम्पुटः।
-
-  
 
 यथा—
 
@@ -3474,8 +3198,6 @@ p.21
 स्वैरं स्वैरं कथमपि मया तीरमुत्तारितासि॥”
 
 [^221]: "B शफरी"
-
-  
 
 यथा—
 
@@ -3488,8 +3210,6 @@ p.21
 
 [^223]: "B गृहिणी०"
 
-  
-
 अत्रार्थे—
 
 **“यद्वर्ग्याभिर्जगाहे गुरुशकुलकुलास्फालनत्रासहास-  
@@ -3501,8 +3221,6 @@ p.21
 
 [^224]: "A & C कवेरकवित्व."
 
-  
-
 यतः—
 
 “पृथक्त्वेन न गृह्लन्ति वस्तु काव्यान्तरस्थितम्।  
@@ -3512,15 +3230,9 @@ p.21
 
 कविप्रभेदाः प्रतिबिम्बकल्पविकल्पस्य समीक्षा द्वादशोऽध्यायः॥
 
-
-
-
-
 त्रयोदशोऽध्यायः अर्थहरणेष्वालेख्यप्रख्यादिभेदाः।
 
 आलेख्यप्रख्यपरिसङ्ख्याः। सदृशसञ्चारणं समक्रमः।
-
-  
 
 यथा—
 
@@ -3528,8 +3240,6 @@ p.21
 स्तिर्यक्कथञ्चिदपयन्त्रणमास्थितायाः।  
 गण्डैकपार्श्वमिव कुङ्कुमपङ्कचुम्बि  
 बिम्बं रुचामधिपतेरगुणं रराज॥”
-
-  
 
 यथा च—
 
@@ -3540,16 +3250,12 @@ p.21
 
 अलङ्कृतमनलङ्कृत्याभिधीयत इति विभूषणमोषः।
 
-  
-
 यथा—
 
 **“कुवलयसिति मूले बालचन्द्राङ्कुराभं  
 तदनु खलु ततोऽग्रे पाकपीताम्रपीतम्।  
 अभिनवरविरोचिर्द्धूमधूम्रंशिखाया-  
 मिति विविधविकारं दिद्युते दैपमर्चिः॥”**
-
-  
 
 अत्रार्थे—
 
@@ -3560,8 +3266,6 @@ p.21
 
 क्रमेणाभिहितस्यार्थस्य विपरीताभिधानं व्युत्क्रमः।
 
-  
-
 यथा तत्रैव—
 
 **“श्यामं शिखाभुवि मनागरुणं ततोऽधः  
@@ -3571,19 +3275,13 @@ p.21
 
   सामान्यनिबन्धे विशेषाभिधानं विशेषोक्तिः।
 
-  
-
 यथा—
 
 "इत्युद्गते शशिनि पेशलकान्तदूती-  
 संलापसञ्चलितलोचनमानसाभिः।
 
-
-
 अग्राहि मण्डनविधिर्विपरीतभूषा-  
 विन्यासहासितसखीजनमङ्गनाभिः॥”
-
-  
 
 अत्रार्थ—
 
@@ -3594,16 +3292,12 @@ p.21
 
 उपसर्जनस्यार्थस्य प्रधानतायामुत्तंसः।
 
-  
-
 यथा—
 
 **“दीपयन्नथ नभः किरणौघैः  
 कुङ्कुमारुणपयोधरगौरः।  
 हेमकुम्भ इव पूर्वपयोधे-  
 रुन्ममज्ज शनकैस्तुहिनांशुः॥”**
-
-  
 
 अत्रार्थे—
 
@@ -3613,7 +3307,6 @@ p.21
 स्तनाभिरामं सकलं कलावतः॥”**
 
 तदेव वस्तूक्तिवशादन्यथा क्रियत इति नटनेपथ्यम्[^225]।  
-  
 
 [^225]: "C नवनेपथ्यम्."
 
@@ -3624,8 +3317,6 @@ p.21
 तत्प्रिये विरचितावधिभङ्गे  
 धौतमीक्षणजलैस्तरलाक्ष्याः॥”**
 
-  
-
 अत्रार्थ—
 
 **“शोकाश्रुभिर्वासरखण्डितानां  
@@ -3633,22 +3324,15 @@ p.21
 कान्तेषु कालात्ययमाचरत्सु  
 स्वल्पायुषः पत्रलता बभूवुः॥”**
 
-  
-
 परिकरसाम्ये सत्यपि परिकार्यस्यान्यथात्वादेकपरिकार्यः।
 
 “अव्याद्गजेन्द्रवदनः स इमां त्रिलोकीं  
 यस्योद्गतेन गगने महता करेण।  
 
-
-
-
 मूला[^226]वलग्नसितदन्तबिसाङ्कुरेण  
 नालायितं तपनबिम्बसरोरुहस्य॥”
 
 [^226]: "C मूलप्ररूढ."
-
-  
 
 अत्रार्थे–
 
@@ -3657,14 +3341,10 @@ p.21
 
 विकृतेः प्रकृतिप्रापणं प्रत्यापत्तिः।
 
-  
-
 यथा–
 
 “रविसङ्क्रान्तसौभाग्यस्तुषाराविलमण्डलः।  
 निःश्वासान्ध इवादर्शश्चन्द्रमा न प्रकाशते॥”
-
-  
 
 अत्रार्थे–
 
@@ -3680,10 +3360,7 @@ p.21
 **“सोऽयं भणितिवैचित्र्यात्समस्तो वस्तुविस्तरः।  
 नटवद्वर्णिकायोगादन्यथात्वमिवार्च्छति॥”**
 
-  
-
 अथ तुल्यदेहितुल्यस्य भिदाः।तस्यैव वस्तुनो विषयान्तरयोजनादन्यरूपापत्तिर्विषयपरिवर्त्तः।  
-  
 
 यथा–
 
@@ -3691,8 +3368,6 @@ p.21
 ये लीढाःश्रवणाश्रयेण फणिना ये चन्द्रशैत्यद्रुहः।  
 ते कुप्यद्गिरिजाविभक्तवपुषश्चित्तव्यथासाक्षिणः  
 स्थाणोर्दक्षिणनासिकापुटभुवः श्वासानिलाः पान्तु वः॥”**
-
-  
 
 अत्रार्थे–
 
@@ -3703,19 +3378,13 @@ p.21
 
 द्विरूपस्य वस्तुनोऽन्यतमरूपोपादानं द्वन्द्वविच्छित्तिः।
 
-  
-
 यथा–
 
 **“उत्क्लेशं केशबन्धः कुसुमशररिपोः कल्मषं वः स मुष्या-  
 द्यत्रेन्दुं वीक्ष्य गङ्गाजलभरलुलितं बालभावादभूताम्।**
 
-
-
 क्रौञ्चारातिश्चफाण्टस्फुरितशफरिकामोहलोलेक्षणश्रीः  
 सद्यः प्रोद्यन्मृणालीग्रहणरसलसत्पुष्करश्च द्विपास्यः॥”
-
-  
 
 अत्रार्थे—
 
@@ -3726,16 +3395,12 @@ p.21
 
 पूर्वार्थानामर्थान्तरैरन्तरणं रत्नमाला।
 
-  
-
 यथा—
 
 **“कपाले मार्जारःपय इति करांल्लेढि शशिनः  
 तरुच्छिद्रप्रोतान्बिसमिति करेणुः कलयति।  
 रतान्ते तल्पस्थान्हरति वनिताप्यंशुकमिति  
 प्रभामत्तश्चन्द्रो जगदिदमहो विभ्रमयति॥”**
-
-  
 
 अत्रार्थे—
 
@@ -3744,18 +3409,12 @@ p.21
 पुम्भिर्व्यस्तं स्तनान्तात्सिचयमिति रहःसम्भ्रमे वल्लभानां  
 लीढं द्राक्सिन्धुवारेष्वभिनवसुमनोलम्पटैःषट्पदैश्च॥”**
 
-  
-
 सङ्ख्यावैषम्येणार्थप्रणयनं सङ्ख्योल्लेखः।
-
-  
 
 यथा—
 
 “नमन्नारायणच्छायाच्छुरिताः पादयोर्नखाः।  
 त्वच्चन्द्रमिव सेवन्ते रुद्र रुद्रेन्दवो दश॥”
-
-  
 
 अत्रार्थे—
 
@@ -3764,8 +3423,6 @@ p.21
 षडात्मतामाश्रयतीव चन्द्रमाः  
 स नीलकण्ठः प्रियमातनोतु वः॥”**
 
-  
-
 सममभिधायाधिकस्योपन्यासश्चूलिका।द्विधा च सा संवादिनी विसंवादिनी च।  
 तयोः प्रथमा यथा—
 
@@ -3773,8 +3430,6 @@ p.21
 सुप्तमिन्दुकरपुञ्जसन्निभम्।  
 राजहंसमसमीक्ष्य कातरा  
 रौति हंसवनिताश्रुगद्गदम्॥”**
-
-
 
   
 
@@ -3792,11 +3447,7 @@ p.21
 विवेद हंसी दयितं कथञ्चि-  
 च्चलत्तुलाकोटिकलैर्निनादैः॥”
 
-  
-
 निषेधस्य विधिना निबन्धो विधानापहारः।
-
-  
 
 यथा—
 
@@ -3805,8 +3456,6 @@ p.21
 चरणघटनाशून्यो यास्यस्यशोक सशोकता-  
 मिति निजपुरत्यागे यस्य द्विषां जगदुः स्त्रियः॥”
 
-  
-
 अत्रार्थे—
 
 **“मुखमदिरया पादन्यासैर्विलासविलोकितै-  
@@ -3814,18 +3463,12 @@ p.21
 जलनिधितटीकान्ताराणां क्रमात्ककुभां जये  
 झगिति गमिता यद्वर्ज्याभिर्विकासमहोत्सवम्॥”**
 
-  
-
 बहूनामर्थानामेकत्रोपसंहारो माणिक्यपुञ्जः।
-
-  
 
 यथा—
 
 “शैलच्छलेन स्वं दीर्घं भुजमुत्तभ्य भूवधूः।  
 निशासख्याः करोतीव शशाङ्कतिलकं मुखे॥”
-
-  
 
 यथा च—
 
@@ -3834,19 +3477,13 @@ p.21
 दृष्ट्वोदयाद्रिशिखरस्थितमन्धकार-  
 दुर्वारवारणघटा व्यघटन्त सद्यः॥”**
 
-  
-
 यथा च—
 
 **“संविधातुमभिषेकमुदासे  
 मन्मथस्य लसदंशुजलौघः।**
 
-
-
 यामिनीवनितया ततचिह्नः  
 सोत्पलो रजतकुम्भ इवेन्दुः॥”
-
-  
 
 यथा च—
 
@@ -3855,21 +3492,15 @@ p.21
 
 [^227]: " Explained in Cas सदृशैः"
 
-  
-
 यथा च—
 
 **“उदयतिनवनीतपिण्डपाण्डुःकुमुदवनान्यवघट्टयन्कराग्रैः।  
 उदयगिरितटस्फुटाट्टहासो रजनिवधूमुखदर्पणः शशाङ्कः॥”**
 
-  
-
 यथा च—
 
 “प्रोषितैकेन्दुहंसेऽस्मिन्सस्नाविव तमोऽम्बुभिः।  
 नभस्तडागे मदनस्ताराकुमुदहासिनि॥”
-
-  
 
 अत्रार्थे—
 
@@ -3878,18 +3509,12 @@ p.21
 अयमुदयाचलैकचूडामणिरभिनवदर्पणो दिशा-  
 मुदयति गगनसरसि हंसस्य हसन्निव विभ्रमं शशी॥”
 
-  
-
 कन्दभूतोऽर्थः कन्दलायमानैर्विशेषैरभिधीयत इति कन्दः।
-
-  
 
 यथा—
 
 “विशिखामुखेषु विसरति पुञ्जीभवतीव सौधशिखरेषु।  
 कुमुदाकरेषु विकसति शशिकलशपरिस्रुता ज्योत्स्ना॥”
-
-  
 
 अत्रार्थे—
 
@@ -3911,15 +3536,10 @@ p.21
 **संविधातुमभिषेकमुदासे  
 मन्मथस्य लसदंशुजलौघः।**
 
-
-
 यामिनीवनितया ततचिह्नः  
 सोत्पलो रजतकुम्भ इवेन्दुः॥”
 
-  
-
 ता इमास्तुल्यदेहितुल्यस्य परिसंख्याः। “सोऽयमुल्लेखवाननुग्राह्योमार्गः”इति सुरानन्दः।  
-  
 
 तदाह—
 
@@ -3930,10 +3550,7 @@ p.21
 
 [^230]: "Explains as ख्यातिकारणं."
 
-  
-
 अथ परपुरप्रवेशसदृशस्य भिदाः। उपनिबद्धस्य वस्तुनो युक्तिमती परिवृत्तिर्हुडयुद्धम्।  
-  
 
 यथा—
 
@@ -3942,8 +3559,6 @@ p.21
 प्रहरतः कदलीदलकोमले  
 भवति यस्य दया न वधूजने॥”
 
-  
-
 अत्रार्थे—
 
 “कथमसौ मदनो न नमस्यतां  
@@ -3951,10 +3566,7 @@ p.21
 मृगदृशां कदलीललितं वपु-  
 र्यदभिहन्ति शरैः कुसुमोद्भवैः॥”
 
-  
-
 प्रकारान्तरेण विसदृशं यद्वस्तु तस्य निबन्धः प्रतिकञ्जुकम्।  
-  
 
 यथा—
 
@@ -3963,22 +3575,15 @@ p.21
 चञ्चवग्रदष्टोत्पलनालहृद्या  
 हंसीव रेजे शशिरत्नपारी॥”
 
-  
-
 अत्रार्थे—
 
 **“मसारपारेण बभौ ददाना  
 काचित्सुरां विद्रुमनालकेन।**
 
-
-
 वल्लूरवल्लीं दधतेव चञ्चवा  
 केलीशुकेनाञ्जलिना धृतेन॥”
 
-  
-
 उपमानस्योपमानान्तरपरिवृत्तिर्वस्तुसंचारः।  
-  
 
 यथा—
 
@@ -3987,8 +3592,6 @@ p.21
 कवलित इव कृत्स्नश्चक्षुषा स्फारितेन  
 प्रसभममृतमेघेनेव सान्द्रेण सिक्तः॥”**
 
-  
-
 अत्रार्थे—
 
 **“मुक्तानामिव रज्जवो हिमरुचेर्मालाः कलानामिव  
@@ -3996,11 +3599,7 @@ p.21
 दीर्घापाङ्गनदीं विलङ्घ्य सहसा लीलानुभावाञ्चिताः  
 सद्यः प्रेमभरोल्लसा मृगदृशो मामभ्यषिञ्चन्दृशः॥”**
 
-  
-
 शब्दालङ्कारस्यार्थालङ्कारेणान्यथात्वं धातुवादः।
-
-  
 
 यथा—
 
@@ -4009,18 +3608,12 @@ p.21
 सुरासुराधीशशिखान्तशायिनो  
 भवच्छिदस्त्र्यम्बकपादपांसवः॥”
 
-  
-
 अत्रार्थ—
 
 **“सन्मार्गालोकनप्रौढिनिरजीकृतजन्तवः।  
 जयन्त्यपूर्वव्यापाराः पुरारेःपादपांसवः॥”**
 
-  
-
 तस्यैव वस्तुन उत्कर्षेणान्यथाकरणं सत्कारः॥।
-
-  
 
 यथा—
 
@@ -4029,24 +3622,15 @@ p.21
 अप्येतेभ्यो नभसि पततः पङ्क्तिशो वारिबिन्दून्  
 स्थित्वोद्ग्रीवं कुवलयदृशां केलिहंसाः पिबन्ति॥”**
 
-  
-
 अत्रार्थे—
 
 “लक्ष्म्याः क्षीरनिधेरुदक्तवपुषो वेणीलताग्रच्युता  
 ये मुक्ताग्रथनामसूत्रसुभगाःप्राप्ताः पयोबिन्दवः।
 
-
-
-
-
 ते वः पान्तु विशेषसस्पृहदृशा दृष्टाश्चिरं शार्ङ्गिणा  
 हेलोद्ग्रीवजलेशहंसवनितालीढाःसुधास्वादवः॥”
 
-  
-
 पूर्वं सहशःपश्चाद्भिन्नोजीवञ्जीवकः।  
-  
 
 यथा—
 
@@ -4055,8 +3639,6 @@ p.21
 सकलप्रतिबिम्बितेन्दुबिम्बा  
 शतचन्द्राभरणैव काचिदासीत्॥”
 
-  
-
 अत्रार्थे—
 
 **“भास्वत्कपोलतलकुण्डलपारिहार्य-  
@@ -4064,10 +3646,7 @@ p.21
 चन्द्रेण भाति रमणी रमणीयवक्त्र-  
 शोभाभिभूतवपुषेव निषेव्यमाणा॥”**
 
-  
-
 प्राक्तनवाक्याभिप्रायनिबन्धो भावमुद्रा।  
-  
 
 यथा—
 
@@ -4076,8 +3655,6 @@ p.21
 तमालपत्रास्तरणासु रन्तुं  
 प्रसीद शश्वन्मलयस्थलीषु॥”
 
-  
-
 अन्नार्थे—
 
 “निश्चेतनानामपि युक्तयोगदो  
@@ -4085,10 +3662,7 @@ p.21
 एला यदाश्लिष्टवतीह चन्दनं  
 पूगद्रुमं नागलताधिरोहति॥”
 
-  
-
 पूर्वार्थपरिपन्थिनी वस्तुरचना तद्विरोधी।  
-  
 
 यथा—
 
@@ -4097,14 +3671,10 @@ p.21
 वक्रे चन्दनबिन्दुरिन्दुधवलं बालं मृणालं करे  
 वेषःकिं सित एष सुन्दरि शरच्चन्द्रात्त्वया शिक्षितः॥”
 
-  
-
 अत्रार्थे—
 
 **“मूर्तिर्नीलदुकूलिनी मृगमदैःप्रत्यङ्गपत्रक्रिया  
 बाहू मेचकरत्नकङ्कणभृतौ कण्ठे मसारावली।**
-
-
 
 व्यालम्बालकवल्लरीकमलिकं कान्ताभिसारोत्सवे  
 यत्सत्यं तमसा मृगाक्षि विहितं वेषे तवाचार्यकम्॥”
@@ -4127,21 +3697,13 @@ p.21
 
 **चतुर्दशोऽध्यायः जातिद्रव्यक्रियासमयस्थापना।**
 
-  
-
 अशास्त्रीयमलौकिकं च परम्परायातं यमर्थमुपनिबध्नन्ति कवयः स कविसमयः।
 
   “नन्वेष दोषः कथङ्कारं पुनरुपनिबन्धनार्हः?” इति आचार्याः। “कविमार्गानुग्राहीकथमेष दोषः?” इति यायावरीयः। “निमित्तं तर्हि वाच्यम्” इति आचार्याः॥”“इदमभिधीयते” इति यायावरीयः।
 
-  
-
 पूर्वे हि विद्वांसः सहस्रशाखं साङ्गं च वेदमवगाह्य, शास्त्राणि चावबुध्य, देशान्तराणि द्वीपान्तराणि च परिभ्रम्य, यानर्थानुपलक्ष्य प्रणीतवन्तस्तेषां देशकालान्तरवशेन अन्यथात्वेऽपि तथात्वेनोपनिबन्धो यः स कविसमयः। कविसमयशब्दश्चायं मूलमपश्यद्भिः प्रयोगमात्रदर्शिभिः प्रयुक्तो रूढश्च।
 
-  
-
 तत्र कश्चिदाद्यत्वेन व्यवस्थितः कविसमयेनार्थः, कश्चित्परस्परोपक्रमार्थं स्वार्थाय धूर्तैःप्रवर्त्तितः। स च त्रिधा स्वर्ग्योभौमः
-
-
 
 पातालीयश्च। स्वर्गपातालीययोर्भौमःप्रधानः। स हि महाविषयः। च चतुर्द्धा जातिद्रव्यगुणक्रियारूपार्थतया।तेऽपि प्रत्येकं त्रिधा असतो निबन्धनात्, सतोप्यनिबन्धनात्, नियमतश्च। तत्र सामान्यस्यासतो निबन्धनं यथा। नदीषु पद्मोत्पलादीनि, जलाशयमात्रेऽपि हंसादयो, यत्र तत्र पर्वतेषु सुवर्णरत्नादिकं च।
 
@@ -4158,8 +3720,6 @@ p.21
 मृदुभिरनिलवारैः खेचराणां हरन्तीम्।  
 कुवलयवनकान्त्या जाह्नवीं सोऽभ्यपश्यत्  
 दिनपतिसुतयेव व्यक्तदत्ताङ्कपालीम्॥”
-
-  
 
 एवं नदीकुमुदाद्यपि। सलिलमात्रे हंसा यथा—
 
@@ -4186,8 +3746,6 @@ p.21
 आलोकयन्ति सरलीकृतकण्ठनालाः  
 सानन्दमम्बुदधियाऽत्र मयूरनार्यः॥”
 
-
-
   
 
 एवमन्यदपि। सतोऽप्यनिबन्धनं तद्यथा। न मालती वसन्ते, न पुष्पफलं चन्दनद्रुमेषु, न फलमशोकेषु।
@@ -4209,8 +3767,6 @@ p.21
 “देवायत्ते हि फले किं क्रियतामेतदत्र तु वदामः।  
 नाशोकस्य किसलयैर्वृक्षान्तरपल्लवास्तुल्याः॥”
 
-  
-
 अनेकत्र प्रवृत्तवृत्तीनामेकत्राचरणं नियमस्तद्यथा। समुद्रेष्वेव मकराः, ताम्रपर्ण्यामेव मौक्तिकानि।  
 तयोः प्रथमः—
 
@@ -4225,8 +3781,6 @@ p.21
 स्वादूनि सन्तु सलिलानि च शुक्तयश्च।  
 एतां विहाय वरवर्णिनि ताम्रपर्णीं  
 नान्यत्र सम्भवति मौक्तिककामधेनुः॥”
-
-  
 
 असतोऽपि द्रव्यस्य निबन्धनं तद्यथा। मुष्टिग्राह्यत्वं सूचीभेद्यत्वं च तमसः, कुंम्भापवाह्यत्वं[^234] च ज्योत्स्नायाः।  
 तत्र प्रथमम्—
@@ -4248,14 +3802,10 @@ p.21
 
 [^235]: "शङ्खद्रावित • C तन्त्रद्रावित ० तन्त्र is explained as औषध."
 
-
-
 उत्सेच्या[^236] कलशीभिरञ्जलिपुटैर्ग्राह्या मृणालाङ्कुरैः  
 पातव्या च शशिन्यमुग्धविभवे सा वर्त्तते चन्द्रिका॥”
 
 [^236]: " V उत्सेक्या."
-
-  
 
 द्रव्यस्य सतोऽनिवन्धनं तद्यथा।कृष्णपक्षे सत्या अपि ज्योत्स्नायाः, शुक्लपक्षे त्वन्धकारस्य। तयोः प्रथमम्—
 
@@ -4266,8 +3816,6 @@ p.21
 
 “मासि मासि समा ज्योत्स्ना पक्षयोः शुक्लकृष्णयोः।  
 तत्रैकः शुक्लतां यातो यशः पुण्यैरवाप्यते॥”
-
-  
 
 द्रव्यनियमस्तद्यथा।मलय एव चन्दनस्थानं, हिमवानेव भूर्जोत्पत्तिस्थानम्।  
 तत्र प्रथमः—
@@ -4281,8 +3829,6 @@ p.21
 भूर्जत्वचः कुञ्जरबिन्दुशोणाः।  
 व्रजन्ति विद्याधरसुन्दरीणा-  
 मनङ्गलेखक्रिययोपयोगम्॥”
-
-  
 
 प्रकीर्णकद्रव्यकविसमयस्तु तद्यथा। क्षीरक्षारसमुद्रयोरैक्यं,सागरमहासमुद्रयोश्च।  
 तयोः प्रथमः—
@@ -4299,11 +3845,7 @@ p.21
 “रङ्गत्तरङ्गभ्रूभङ्गैस्तर्जयन्तीमिवापगाः।  
 स ददर्श पुरो गङ्गां सप्तसागरवल्लभाम्॥”
 
-  
-
 असतोऽपि क्रियार्थस्य निबन्धनं यथा। चक्रवाकमिथुनस्य निशि भिन्नतटाश्रयणं, चकोराणां चन्द्रिकापानं च।
-
-
 
 तत्र प्रथमः—
 
@@ -4316,8 +3858,6 @@ p.21
 श्रापाभ्यासनिकेतनं भगवतः प्रेयो मनोजन्मनः।  
 यासु श्यामनिशासु पीततमसो मुक्तामयीश्चन्द्रिकाः  
 पीयन्ते विवृतोर्ध्वचञ्चुविचलत्कण्ठं चकोराङ्गनाः॥”
-
-  
 
 सतोऽपि क्रियार्थस्यानिबन्धनं तद्यथा।दिवा नीलोत्पलानामविकासो, निशानिमित्तश्च शेफालिकाकुसुमानामविस्रंसः।  
 तत्र प्रथमः—
@@ -4333,8 +3873,6 @@ p.21
 र्दग्धाऽस्मि कृत्स्नं दिवसं सवित्रा।  
 इतीव दुःखं शशिने गदन्ती  
 शेफालिका रोदिति पुष्पबाष्पैः॥”
-
-  
 
 नियमस्तु तद्यथा।ग्रीष्मादौ सम्भवतोऽपि कोकिलानां विरुतस्य वसन्त एव, मयूराणां वर्षास्वेव विरुतस्य नृत्तस्य च निबन्धः।  
 तयोः प्रथमः—
@@ -4356,11 +3894,7 @@ p.21
 जातिद्रव्यक्रियासमयस्थापना चतुर्दशोऽध्यायः॥  
 ![](../../../books_images/U-IMG-1703316794Capture.JPG)
 
-
-
 पञ्चदशोऽध्यायः गुणसमयस्थापना।
-
-  
 
 असतो गुणस्य निबन्धनं यथा।यशोहासप्रभृतेःशौक्ल्यम्, अयशसः पापप्रभृतेश्च कार्ष्ण्यं, क्रोधानुरागप्रभृतेश्च रक्तत्वम्। तत्र यशःशौक्ल्यम्—
 
@@ -4400,11 +3934,7 @@ p.21
 **“गुणानुरागमिश्रेण यशसा तव सर्पता।  
 दिग्वधूनां मुखे जातमकस्मादर्द्धकुङ्कुमम्॥”**
 
-  
-
 सतोऽपि गुणस्यानिबन्धनम्।कुन्दकुङ्मलानां कामिदन्तानां च रक्तत्वं, कमलमुकुलप्रभृतेश्च हरितत्वं, प्रियङ्गुपुष्पाणां च पीतत्वम्।
-
-
 
 कुन्दकुङ्मलाद्यरक्तता—
 
@@ -4427,8 +3957,6 @@ p.21
 “प्रियङ्गुश्याममम्भोधिरन्ध्रीणां स्तनमण्डलम्।  
 अलङ्कर्तुमिव स्वच्छाः सूते मौक्तिकसम्पदः॥”
 
-  
-
 गुणनियमस्तु तद्यथा।सामान्योपादाने माणिक्यानां शोणता, पुष्पाणां शुक्लता, मेघानां कृष्णता च।
 
 तत्र प्रथमः—
@@ -4450,14 +3978,10 @@ p.21
 **“मेघश्यामेन रामेण पूतवेदिर्विमानराट्।  
 मध्ये महेन्द्रनीलेन रत्नराशिरिवाबभौ॥”**
 
-  
-
 कृष्णनीलयोः, कृष्णहरितयोः, कृष्णश्यामयोः, पीतरक्तयोः, शुक्लगौरयोरेकत्वेन निबन्धनं च कविसमयः। कथं कृष्णनीलयोरैक्यम्—
 
 **“नदीं तूर्णं कर्णोप्यनुसृतपुलिनां दाक्षिणात्याङ्गनाभिः  
 समुत्तीर्णो वर्णामुभयतटचलाबद्धवानीरहाराम्।**
-
-
 
 तटे सह्यस्योच्चैः स्वसलिलनिवहो भाति नीलः स यस्याः  
 प्रियस्यांसे पीने लुलित इव घनःकेशपाशः सुकेश्याः॥”
@@ -4488,8 +4012,6 @@ p.21
 अवेहि मां किङ्करमष्टमूर्त्तेः  
 कुम्भोदरं नाम निकुम्भपुत्रम्॥”
 
-  
-
 एवं वर्णान्तरेष्वपि। चक्षुरादेरनेकवर्णोपवर्णनम्।  
 तत्र चक्षुषः शुक्लता—
 
@@ -4502,8 +4024,6 @@ p.21
 
 **“अथ पथि गमयित्वा रम्यक्लृप्तोपकार्ये  
 कतिचिदवनिपालः शर्वरीःशर्वकल्पः।**
-
-
 
 पुनरविशदयोध्यां[^242] मैथिलीदर्शिनीनां  
 कुवलयितगवाक्षां लोचनैरङ्गनानाम्॥”
@@ -4529,10 +4049,7 @@ p.21
 
 षोडशोऽध्यायः स्वर्ग्यपातालीयकविरहस्यस्थापना।
 
-  
-
 भौमवत्स्वर्ग्योऽपि कविसमयः। विशेषस्तु चन्द्रमसि शशहरिणयोरैक्यम्।  
-  
 
 यथा—
 
@@ -4540,8 +4057,6 @@ p.21
 खे रोहिणी वसति कातर किं बिभेषि।  
 प्रायो विदग्धवनितानवसङ्गमेषु  
 पुंसां मनः प्रचलतीति किमत्र चित्रम्॥”
-
-  
 
 यथा च—
 
@@ -4555,8 +4070,6 @@ p.21
 दग्धा कापि तवाकृतेः प्रतिकृतिः कामोऽसि किं गूहसे  
 रूपं दर्शय नात्र शङ्करभयं सर्वे वयं वैष्णवाः॥”**
 
-
-
   
 
 यथा च—
@@ -4566,16 +4079,12 @@ p.21
 इत्थं त्वया विरहितस्य मयोपलब्धाः  
 कान्ताजनस्य जननाथ चिरं विलापाः॥”
 
-  
-
 यथा वा—
 
 “आपातमारुतविलोडितसिन्धुनाथो  
 हात्कारभीतपरिवर्त्तितमत्स्यचिह्नाम्।  
 उल्लङ्घ्य यादवमहोदधिभीमवेलां  
 द्रोणाचलं पवनसूनुरिवोद्धरामि॥”
-
-  
 
 अत्रिनेत्रसमुद्रोत्पन्नचन्द्रयोरैक्यम्—
 
@@ -4586,16 +4095,12 @@ p.21
 
 [^243]: "V adds one verse after the verse वन्द्या; see notes "
 
-  
-
 बहुकालजन्मनोऽपि शिवचन्द्रमसो बालत्वम्।
 
 “मालायमानामरसिन्धुहंसः  
 कोटीरवल्लीकुसुमं भवस्य।  
 दाक्षायणीविभ्रमदर्पणश्रि  
 बालेन्दुखण्डं भवतः पुनीतात्॥”
-
-  
 
 कामस्य मूर्त्तत्वं[^244] च यथा—
 
@@ -4606,16 +4111,12 @@ p.21
 अनेन किल निर्जिता वयमिति प्रियायाः करं  
 करेण परिताडयन् जयति जातहासः स्मरः॥”
 
-  
-
 यथा च—
 
 **“धनुर्माला मौर्वी क्वणदलिकुलं लक्ष्यमबला  
 मनो भेद्यं शब्दप्रभृति य इमे पञ्च विशिखाः।  
 इयान् जेतुं यस्य त्रिभुवनमनङ्गस्य विभवः  
 स वः कामः कामान्दिशतु दयितापाङ्गवसतिः॥”**
-
-
 
   
 
@@ -4625,8 +4126,6 @@ p.21
 रावृत्तालातलीलां रचयति रयतो मण्डलं चण्डधाम्नः।  
 सोऽव्यादुत्तप्तकार्त्तस्वरसरलशरस्पर्द्धिभिर्द्धामदण्डै-  
 रुद्दण्डैःप्रापयन्वः प्रचुरतमतमःस्तोममस्तं समस्तम्॥”
-
-  
 
 नारायणमाधवयोश्च यथा—
 
@@ -4640,16 +4139,12 @@ p.21
 
 [^245]: "C सोऽव्यादिष्ट०"
 
-  
-
 एवं दामोदरशेषकूर्मादेः।कमलासम्पदोश्च यथा—
 
 “दोर्मन्दीरितमन्दरेण जलधेरुत्थापिता या स्वयं  
 यां भूत्वा कमठःपुराणककुदन्यस्तामुदस्तम्भयत्।  
 तां लक्ष्मीं पुरुषोत्तमः पुनरसौलीलाञ्चितभ्रूलता-  
 निर्देशैःसमवीविशत्प्रणयिनां गेहेषु दोष्णि क्षितिम्॥”
-
-  
 
 भौमस्वर्ग्यवत्पातालीयोऽपि कविसमयः।  
 तत्र नागसर्पयोरैक्यम्—
@@ -4658,8 +4153,6 @@ p.21
 भोगेन गाढमभिवेष्टय मन्दराद्रेः।  
 सोढाविषह्यवृषवाहनयोगलीला-  
 पर्यङ्कबन्धनविधेस्तव कोऽतिभारः॥”**
-
-  
 
 दैत्यदानवासुराणामैक्यं यथा। तत्र हिरण्याक्षहिरण्यकशिपुप्रह्लादविरोचनबलिबाणादयो दैत्याः, विप्रचित्तिशम्बरनमुचिपुलोमप्रभृतयो दानवाः, वलवृत्रविक्षुरस्तवृषपर्वादयोऽसुराः[^246]।  
 तेषामैक्यं यथा—
@@ -4671,8 +4164,6 @@ p.21
 सुरासुराधीशशिखान्तशायिनो  
 भवच्छिदस्त्र्यम्बकपाद्पांसवः॥**
 
-
-
   
 
 यथा च—
@@ -4682,21 +4173,15 @@ p.21
 पीनांसलग्नदयिताकुचपत्रभङ्गं  
 मीनध्वजं जितजगत्रितयं जयेत्कः॥”
 
-  
-
 यथा च—
 
 **“अस्ति दैत्यो हयग्रीवः सुहृद्वेश्मसु यस्य ताः।  
 प्रथयन्ति बलं बाह्वोःसितच्छन्नस्मिताः श्रियः॥”**
 
-  
-
 यथा च। हयग्रीवं प्रति—
 
 “दानवाधिपते भूयो भुजोऽयं किं न नीयते।  
 सहायतां कृतान्तस्य क्षयाभिप्रायसिद्धिषु॥”
-
-  
 
 यथा च—
 
@@ -4706,8 +4191,6 @@ p.21
 [^247]: "C महासुरसमाजेषु. "
 
 [^248]: "C निष्पोष०."
-
-  
 
 एवमन्येऽपि भेदाः—
 
@@ -4719,8 +4202,6 @@ p.21
 
 सप्तदशोऽध्यायः देशविभागः।
 
-  
-
 देशं कालं च विभजमानः कविर्नार्थदर्शनदिशि दरिद्राति। जगज्जगदेकदेशाश्चदेशः। द्यावापृथिव्यात्मकमेकं जगदित्येके।  
 तदाहुः—
 
@@ -4731,11 +4212,7 @@ p.21
 
 [^249]: "V प्रभवति."
 
-  
-
 “दिवस्पृथिव्यौ द्वे जगती”इत्यपरे।
-
-
 
   
 
@@ -4746,13 +4223,9 @@ p.21
 
 [^250]: " V चास्य"
 
-  
-
 “स्वर्ग्यमर्त्य[^251]पातालभेदात्त्रीणि जगन्ति”इत्येके।
 
 [^251]: " V स्वर्गमृत्यु०"
-
-  
 
 यदाहुः—
 
@@ -4762,8 +4235,6 @@ p.21
 [^252]: "V लोकत्रयात्मकः"
 
 “तान्येव भूर्भुवःस्वः”इत्यन्ये।’
-
-  
 
 तदाहुः—
 
@@ -4776,8 +4247,6 @@ p.21
 
 “महर्जनस्तपःसत्यमित्येतैः सह सप्त”इत्यपरे।
 
-  
-
 तदाहुः—
 
 **“संस्तम्भिनी पृथुनितम्बतटैर्धरित्र्याः  
@@ -4785,11 +4254,7 @@ p.21
 हर्षस्य सप्तभुवनप्रथितोरुकीर्त्तेः  
 प्रासादपङ्क्तिरियमुच्छिखरा विभाति॥”**
 
-  
-
 “तानि सप्तभिर्वायुस्कन्धैः सह चतुर्दश”इति केचित्।
-
-  
 
 तदाहुः—
 
@@ -4800,31 +4265,22 @@ p.21
 
 [^255]: "V स्थितमनिवर्तित..."
 
-  
-
 “तानि सप्तभिः पातालैः सहैकविंशतिः”इति केचित्।  
-  
 
 तदाहुः—
 
 “हरहासहरावासहरहारनिभप्रभाः।  
 कीर्त्तयस्तव लिम्पन्तु भुवनान्येकविंशतिम्॥”
 
-  
-
 “सर्वमुपपन्नम्”इति यायावरीयः। अविशेषविवक्षा यदेकयति,विशेषविवक्षात्वनेकयति। तेषु भूर्लोकः पृथिवी। तत्र सप्त महाद्वीपः।
 
 “जम्बूद्वीपः सर्वमध्ये ततश्च प्लक्षो नाम्ना शाल्मलोऽतः कुशोऽतः।  
 क्रौञ्चःशाकः पुष्करश्चेत्यथैषां बाह्या बाह्या संस्थितिर्मण्डलीभिः॥
 
-
-
 **लावणो रसमयः सुरोदकःसार्पिषो दधिजलः पयःपयाः।  
 स्वादुवारिरुदधिश्च सप्तमस्तान्परीत्य त इमे व्यवस्थिताः॥”**
 
 **  **“एक एवायं लावणः समुद्रः”इत्येके।
-
-  
 
 तदाहुः—
 
@@ -4837,11 +4293,7 @@ p.21
 
 [^257]: "V पर्याप्तं मे न दातुं. "
 
-  
-
 “त्रयः”इत्यन्ये।’
-
-  
 
 तदाहुः—
 
@@ -4852,8 +4304,6 @@ p.21
 
 [^258]: " V विहितो०"
 
-  
-
 यथा वा—
 
 “मातङ्गानामभावे मदमलिनमुखैः प्राप्तमाशाकरीन्द्रैः  
@@ -4861,20 +4311,14 @@ p.21
 छिन्नेषूद्यानवापीतरुषु विरचिताः कल्पवृक्षा रिपूणां  
 यस्योदञ्चत्रिवेलावलयफलभुजां मानसी सिद्धिरासीत्॥”
 
-  
-
 “चत्वारः”इत्यपरे।  
-  
 
 तदाहुः—
 
 “चतुःसमुद्रवेलोर्मिरचितैकावलीलतम्।  
 मेरुमप्यद्रिमुल्लङ्घ्य यस्य क्वापि गतं यशः॥”
 
-  
-
 “भिन्नाभिप्रायतया सर्वमुपपन्नम्’”इति यायावरीयः। सप्तसमुद्रीवादिनस्तु शास्त्रादनपेता एव।  
-  
 
 तदाहुः—
 
@@ -4896,8 +4340,6 @@ p.21
 मेरुर्नाम्ना काञ्चनःशैलराजः।  
 यो मूर्त्तानामौषधीनां निधानं  
 पश्चावासः सर्ववृन्दारकाणाम्॥**
-
-
 
 **तमेनमवधीकृत्य देवेनाम्बुजजन्मना[^262]।  
 तिर्यगूर्ध्वमधस्ताच्च विश्वस्य रचना कृता॥"**
@@ -4938,8 +4380,6 @@ p.21
  रत्नेश्वरो रत्नमहानिधानं  
  कुम्भोद्भवस्तं मलयं पुनाति॥**
 
-
-
 **तत्रद्रुमा विद्रुमनामधेया  
 वंशेषु मुक्ताफलजन्म तत्र।  
 मदोत्कटैःकेसरिकण्ठनादैः  
@@ -4978,8 +4418,6 @@ p.21
 
 [^271]: "V वेल्लर."
 
-
-
 महेन्द्रमलयमेकलपालमञ्जरसह्यश्रीपर्वतादयः पर्वताः। नर्मदातापीपयोष्णीगोदावरीकावेरीभैमरथीवेणाकृष्णवेणा[^272]वञ्जुरातुङ्गभद्राताम्रपर्युत्पलावती[^273]रावणगङ्गाद्या नद्यः। तदुत्पत्तिर्मलयोत्पत्त्या व्याख्याता।देवसभायाः परतः पश्चाद्देशः। तत्र देवसभराष्ट्रदशेरकत्रवणभृगुकच्छकच्छीयानर्त्तार्बुदब्राह्मणवाहयवनप्रभृतयो जनपदाः। गोवर्धनगिरिनगरदेवसभमाल्यशिखरार्बुदादयश्च पर्वताः। सरस्वतीश्वभ्रवतीवार्तघ्नीमहीहिडिंवा[^274]द्या नद्यः। करीरपीलुगुग्गुलुखर्जूरुकरभादीनामुत्पादः। पृथूदकात्परत उत्तरापथः। यत्र शककेकयवोक्काणहूणवणायुजकाम्बोज[^275]वाह्लीकवह्लवलिम्पाककुलूतकीरतङ्गणतुषार[^276]तुरुष्कबर्बरहरहूरवहूहुकसहुडहंसमार्गरमठकरकण्ठप्रभृतयो जनपदाः। हिमालयकलिन्दे[^277]न्द्रकीलचन्द्राचलादयः पर्वताः। गङ्गासिन्धुसरस्वतीशतद्रुचन्द्रभागायमुनेरावतीवितस्ताविपाशाकुहूदेविकाद्या नद्यः। सरलदेवदारुद्राक्षाकुङ्कुमचमराजिनसौवीरस्रोतोञ्जनसैन्धववैदूर्यतुरङ्गाणामुत्पादः। तेषां मध्ये मध्यदेश इति कविव्यवहारः। न चायं नानुगन्ता शास्त्रार्थस्य।  
 यदाहुः—
 
@@ -5004,8 +4442,6 @@ p.21
 नातिप्रयोज्याः कविभिरिति गाढं न चिन्तिताः॥**
 
   "विनशनप्रयागयोर्गङ्गायमुनयोश्चान्तरमन्तर्वेदी। तदपेक्षयादिशो विभजेत" इति आचार्याः। “तत्रापि महोदयं मूलमवधीकृत्य" इति यायावरीयः। “अनियतत्वादिशामनिश्चितो दिग्विभाग" इति एके। तथा हि यो वामन स्वामिनः पूर्वःस ब्रह्मशिलायाःपश्चिमः, यो गाधिपुरस्य दक्षिणः स कालप्रियस्योत्तर इति।"अवधिनिबन्धनमिदं रूपमितरत्त्वनियतमेव" इति यायावरीयः।"प्राच्यपाचीप्रतीच्युदीच्यः चतस्रो दिशः" इत्येके।
-
-
 
 तदाहुः—
 
@@ -5056,8 +4492,6 @@ p.21
 दीर्घया प्रतिमया सरोम्भस-  
 स्तापनीयमिव सेतुबन्धनम्॥**
 
-
-
 उत्तरा—
 
 **“अस्त्युत्तरस्यां दिशि देवतात्मा  
@@ -5099,8 +4533,6 @@ p.21
 
 **"श्यामेष्वङ्गेषु गौडीनां सूत्रहारैकहारिषु।  
 चक्रीकृत्य धनुः पौष्पमनङ्गो वल्गु वल्गति॥”**
-
-
 
 दाक्षिणात्यकृष्णता—
 
@@ -5152,8 +4584,6 @@ p.21
 “कपोले जानक्याःकरिकलभदन्तद्युतिमुषि  
 स्मरस्मेरः स्फारोड्डमरपुलके वक्रकमलम्।
 
-
-
 **मुहुः पश्यञ्छृण्वन्रजनिचरसेनाकलकलं  
 जटाजूटग्रन्थिं द्रढयति रघूणां परिवृढः॥”**
 
@@ -5182,17 +4612,15 @@ p.21
 
 [^286]: "V adds before this कालः काष्ठादिमेदमिन्नश्र"
 
-।  
-
 [^287]: "V कला तु. "
+
+।  
 
 त्रिंशत्कलश्चैव भवेन्मुहूर्त्तस्तैस्त्रिंशता रात्र्यहनी समेते॥
 
 **   ते च चैत्राश्वयुजमासयोर्भवतः। चैत्रात्परं प्रतिमासं मौहूर्त्तिकी दिवसवृद्धिः निशाहानिश्च त्रिमास्याः; ततः परं मौहूर्त्तिकी निशावृद्धिःदिवसहानिश्च।आश्वयुजात्परतः पुनरेतदेव विपरीतम्। राशितो राश्यन्तरसङ्क्रमणमुष्णभासो मासः, वर्षादि दक्षिणायनं, शिशिराद्युत्तरायणं, द्व्ययनः संवत्सर इति सौरं मानम्। पञ्चदशाहोरात्र पक्षः। वर्द्धमानसोमः[^288]शुक्लो, वर्द्धमानकृष्णिमा कृष्ण इति पित्र्यं मासमानम्। अमुना च वेदोदितः कृत्स्नोऽपि क्रियाकल्पः। पित्र्यमेव व्यत्ययितपक्षं चान्द्रमसम्। इदमार्यावर्त्तवासिनश्च कवयश्च मानमाश्रिताः। एवं च द्वौपक्षौ मासः। द्वौ मासावृतुः। षण्णामृतूनां परिवर्त्तः संवत्सरः। स च चैत्रादिरिति**
 
 [^288]: "V सोमशुलिमा, वर्धमानसोमकृष्णिमा."
-
-
 
 **दैवज्ञाः, श्रावणादिरिति लोकयात्राविदः। तत्र नभा नभस्यश्च वर्षाः, इष ऊर्जश्च शरत्, सहः[^289] सहस्यश्च हेमन्तः, तपस्तपस्यश्च शिशिरः, मधुर्माधवश्च वसन्तः, शुक्रः शुचिश्च ग्रीष्मः। तत्र “वर्षासु पूर्वोवायुः”इति कवयः। “पाश्चात्यः, पौरस्त्यस्तु प्रतिहन्ता”इत्याचार्याः।**
 
@@ -5245,8 +4673,6 @@ p.21
 
 [^293]: "VB & V C चन्द्रभागां विचितसुमनसः कुङ्कुमान् कम्पयन्तः"
 
-
-
 शिशिरेऽपि हेमन्तवदुदीच्यःपाश्चात्यो वा। वसन्ते दक्षिणः।
 
 तदुक्तम्—
@@ -5293,8 +4719,6 @@ p.21
 
 [^296]: "V B & V C किल कामिनीभिः,"
 
-
-
 चलच्चटुलचातकः कृतकुरङ्गरागोदयः  
 सदर्दुररवोद्यमो मदभरप्रगल्भोरगः।  
 शिखण्डिकुलताण्डवामुदितमद्गुकङ्काह्वयो  
@@ -5339,8 +4763,6 @@ p.21
 
 केदार एव कलमाःपरिणामनम्राः  
 प्राचीनमामलकमर्घति पाकनीलम्।
-
-
 
 एर्वारुकं स्फुटननिर्गतगर्भगन्ध-  
 मम्लीभवन्ति च जरत्रपुसीफलानि॥
@@ -5387,8 +4809,6 @@ p.21
 
 [^305]: "V ०रसानि."
 
-
-
 अत्रोपचारः सलिलैः कवोष्णैर्यत्किञ्चिदत्र स्वदतेऽन्नपानम्।  
 सुदुर्भगामत्र निपीड्य शेते स्वस्त्यस्तु नित्यं तुहिनर्त्तवेऽस्मै॥  
 विमुक्तबर्हा विमदा मयूराः प्ररूढगोधूमयवा च सीमा।  
@@ -5426,10 +4846,6 @@ p.21
 स्पर्शक्रियासु तुहिनानलयोर्न चात्र।  
 नो दुर्भगासुभगयोः परिरम्भणे च  
 नो सेवने च शशिभास्करयोर्विशेषः॥
-
-
-
-
 
 पुष्पक्रिया मरुबके जलकेलिनिन्दा  
 कुन्दान्यशेषकुसुमेषु धुरि स्थितानि।  
@@ -5470,8 +4886,6 @@ p.21
 “चैत्रे मदर्द्धिः शुकसारिकाणां  
 हारीतदात्यूहमधुव्रतानाम्।
 
-
-
 पुंस्कोकिलानां सहकारबन्धुः  
 मद्स्य कालःपुनरेष एव॥
 
@@ -5508,8 +4922,6 @@ p.21
 तस्मिन्मधुः स भगवान्गुरुरङ्गनानाम्॥
 
 [^312]: "V रुतेः."
-
-
 
 नालिङ्गितः कुरबकस्तिलको न दृष्टो  
 नो ताडितश्च चरणैः सुदृशामशोकः।  
@@ -5554,8 +4966,6 @@ p.21
 यत्कायमानेषु दिनार्द्धनिद्रा  
 यत्स्नानकेलिर्दिवसावसाने।
 
-
-
 यद्रात्रिशेषे सुरतावतारः  
 स मुष्टियोगो घनघर्ममाथी।  
 या चन्द्रिका चन्दनपङ्कहृद्या  
@@ -5593,8 +5003,6 @@ p.21
 सहकाररसार्चिता रसाला  
 जलभक्तं फलपानकानि मन्थाः।
 
-
-
 मृगलावरसाः शतं च दुग्धं  
 स्मरसञ्जीवनमौषधं निदाघे॥  
 जडचन्दन[^321]चारवस्तरुण्यः  
@@ -5629,8 +5037,6 @@ p.21
 वाञ्छामात्रपरिग्रहः पिकवधूकण्ठोदरे पञ्चमः।  
 किं च त्रीणि जगन्ति जिष्णु दिवसैर्द्वित्रैर्मनोजन्मनो  
 देवस्यापि चिरोज्झितं यदि भवेदभ्यासवश्यं धनुः॥”
-
-
 
 वसन्तप्रौढिः—
 
@@ -5680,8 +5086,6 @@ p.21
 
 स्तोकानुवृत्तिंकेतक्या अपि केचिदिच्छन्ति।
 
-
-
 यथा—
 
 “असूच्यत शरत्कालः केतकीधूलिधूसरैः।  
@@ -5691,8 +5095,6 @@ p.21
 बाणासनानां सकुरुण्टकानाम्।  
 हेमन्तवक्त्रे यदि दृश्यतेऽपि  
 न दृश्यते बन्धविधिः कवीनाम्॥
-
- 
 
 हेमन्तशिशिरयोरैक्ये सर्वलिङ्गानुवृत्तिरेव। उक्तञ्च।“द्वादशमासः संवत्सरः, पञ्चर्तवो हेमन्तशिशिरयोः समासेन”।
 
@@ -5722,8 +5124,6 @@ p.21
 
 विचकिलकेसरपाटलिचम्पकपुष्पानुवृत्तयो ग्रीष्मे।  
 तत्र च तुहिनर्तुभवं मरुबकमपि केचिदिच्छन्ति॥
-
-
 
 यथा—
 
@@ -5768,8 +5168,6 @@ p.21
 अन्तर्व्याजं बहिर्व्याजं बाह्यान्तर्व्याजमेव च।  
 सर्वव्याजं बहुव्याजं निर्व्याजं च तथा फलम्॥
 
-
-
 **लकुचाद्यन्तर्व्याजं तथा बहिर्व्याजमत्रमोचादि।  
 आम्राद्युभयव्याजं सर्वव्याजं च ककुभादि॥  
 पनसादि बहुव्याजं नीलकपित्थादि भवति निर्व्याजम्।  
@@ -5790,41 +5188,23 @@ p.21
 
 ![](../../../books_images/U-IMG-1705067795Screenshot2024-01-12192525.png)
 
-
-
 **NOTES.**
 
 **![](../../../books_images/U-IMG-1705137591Screenshot2024-01-13144835.png)**
 
-  
-
 P. 1. 1. 1. अथातः काव्यं मीमांसिष्यामहे.Hemachandra has named his work on Nyâya as प्रमाणमीमांसा. The first sûtra of his work is “अथ प्रमाणमीमांसा”. For the propriety of the words अथ and मीमांसा *cf*. Hemachandra’s vṛitti on the same.
-
-  
 
 “अथेत्यस्याधिकारार्थत्वाच्छास्त्रेणाधिक्रियमाणस्य प्रस्तूयमानस्य प्रमाणस्याभिधानात्सकलशास्त्रतात्पर्यव्याख्यानेन प्रेक्षावन्तो बोधिताः प्रवर्तिताश्च भवन्ति। आनन्तर्यार्थो वाऽथशब्दः शब्दकाव्यच्छन्दोनुशासनेभ्योऽनन्तरं प्रमाणं मीमांस्यत इत्यर्थः। अनेन शब्दानुशासनादिभिरस्यैककर्तृकत्वमाह।अधिकारार्थस्य चाथशब्दस्यान्यार्थनीयमानकुसुमदामजलकुम्भादेर्दर्शनमिव श्रवणं मङ्गलायाऽपि कल्पत इति, मङ्गले च सति परिपन्थिविघ्नविघातादक्षेपेण शास्त्रसिद्धिरायुष्मच्छ्रोतृकता च भवति। परमेष्ठिनमस्कारादिकं तु मङ्गलं कृतमपि न निवेशितं लाघवार्थिना शास्त्रकारेणेति।
 
-  
-
 प्रकर्षेण संशयादिव्यवच्छेदेन मीयते परिच्छिद्यते वस्तुतत्वं येन तत्प्रमाणं प्रमायां साधकतमं, तस्य मीमांसोद्देशादिरूपेण पर्यालोचनम्।त्रयी हि शास्त्रस्य प्रवृत्तिरुद्देशो लक्षणं परीक्षा च, तत्र नामधेयमात्रकीर्तनमुद्देशः यथेदमेव सूत्रम्, उद्दिष्टस्यासाधारणधर्मवचनं लक्षणम् तद्द्वेधा सामान्यलक्षणं विशेषलक्षणं च, सामान्यलक्षणमनन्तरमेव सूत्रं, विशेषलक्षणं विशदः प्रत्यक्षमिति। विभागस्तु विशेषलक्षणस्यैवाङ्गमिति न पृथगुच्यते। लक्षितस्येदमित्थं भवति नेत्थमिति न्यायतः परीक्षणं परीक्षा यथा तृतीयसूत्रम्। पूजितविचारवचनश्च मीमांसाशब्दस्तेन न प्रमाणमात्रस्यैव विचारोऽत्राधिकृतः किन्तु तदेकदेशभूतानां दुर्नयनिराकरणद्वारेण परिशोधितमार्गाणां नयानामपि। “प्रमाणनयैरधिगम”इति हि वाचकमुख्यः सकलपुरुषार्थेषु मूर्धाभिषिक्तस्य सोपायस्य सप्रतिपक्षस्य मोक्षस्य च। एवं हि पूजितो विचारो भवति प्रमाणमात्रविचारस्तु प्रतिपक्षनिराकरणपर्यवसायी वाक्कलहमात्रं स्यात्, तद्विवक्षायां तु अथ प्रमाणपरीक्षेत्येव क्रियेत, तत् स्थितमेतत् प्रमाणनयपरिशोधितप्रमेयमार्गं सोपायं सप्रतिपक्षमोक्षं विवक्षितुं मीमांसाग्रहणमकार्याचार्येणेति॥१॥” For अथातः *cf.* also “अथातो ब्रह्मजिज्ञासा”ब्र.सू. 1-1-1 and the Bhâshya.
-
-  
 
 1.2. चतुःषष्टये शिष्येभ्यः*cf.* ब्रह्मविष्णुरुद्रगुहबृहस्पतिभार्गवादिशिष्येषु चतुःषष्टावुद्दिष्टं वचः पारमेश्वरम्।(Kâvyamîmâṇsâ p. 29).
 
-  
-
 1.8. सुवर्णनाभः This name occurs also in the KâmaSûtra; “सुवर्णनाभः सांप्रयोगिकम्.” (काम. सू. 1-1-13).
-
-  
 
 1\. 13. औपनिषदिकं कुचमारः*cf.*“कुचमार औपनिषदिकम्.” (काम. सू. 1-1-17). Thus it appears that Suvarṇanâbha and Kuchamâra wrote both on poetics and erotics
 
-  
-
 ls. 14-16. *cf.* “एवं बहुभिराचार्यैस्तच्छास्त्रं खण्डशः प्रणीतमुत्सन्नकल्पमभूत्। तत्र संक्षिप्य सर्वमर्थमल्पेन ग्रन्थेन कामसूत्रमिदं प्रणीतम्।” (काम. सू. 1-1-18 & 19).
-
-
 
   1.17. तस्या अयं प्रकरणाधिकरणसमुद्देशः *cf.*तस्यायं प्रकरणाधिकरणसमुद्देशः (काम. सू. 1-1-19) and अर्थशास्त्र (1 – 1) शास्त्रसंग्रहः. *cf.* (काम. सू. 1-1-20); also the शास्त्रसंग्रह in Amara’s कविकल्पलता. Though the work contains 18chapters, here only 15 headings are enumerated.
 
@@ -5871,28 +5251,18 @@ Jaimini-Sutra
 
 भरतनाट्यशास्त्र chapt. 17.
 
-
-
   
 
 Is. 24-25. या दुग्धाऽपि न दुग्धेव found in some ms. of दमयन्तीचम्पू of त्रिविक्रम as the मङ्गलश्लोक.
 
-  
-
 P. 7. मा निषाद etc. *cf.*ध्वन्यालोक I - 5 et. seq.
 
-  
-
 Pp. 8-9. Read तत्राऽभियुञ्जाना तमौमेयी यं वेषं यथेष्टमसेविष्ट, स तत्रत्याभिः स्त्रीभिरन्वक्रियत। “सा प्रवृत्तिरौड्रमागधी etc. This portion seems to have been based on भरतनाट्यशास्त्र Chapter 13.
-
-  
 
 *cf.*—
 
 चतुर्विधा प्रवृत्तिश्च प्रोक्ता नाट्यप्रयोक्तृभिः।  
 आवन्ती दाक्षिणात्या च पाञ्चाली चौडूमागधी॥
-
-  
 
 अत्राह—प्रवृत्तिरिति कस्मात्। उच्यते—पृथिव्यां नाट्यदेशवेषभाषाचारो वार्ताःख्यापयतीति प्रवृत्तिः, प्रवृत्तिश्च निवेदनैः। अत्राह—यदा पृथिव्यां नानादेशाः सन्ति, कथमासां चतुर्विधत्वमुत्पन्नम्, समासलक्षणश्चासां प्रयोग उच्यते। एवमेष समानलक्षणप्रयोगः। किंतु नानादेशवेषभाषाचारो लोक इति कृत्वा लोकानुमते वृत्तिसंश्रितमस्य मया चतुर्विंधत्वमभिहितं भारत्यारभटी सात्विकी कैशिकी चेति। वृत्तिसंश्रितैश्च प्रयोगैरभिहिता देशाः, यतः प्रवृत्तिचतुष्टयमभिनिवृत्तं प्रयोगश्चोत्पादितः। तत्र दाक्षिणात्या भवेत्, बहुगीतनृत्यवाद्या कैशिकीप्राया चतुरमधुरललिताङ्गाभिनया यथा।
 
@@ -5929,19 +5299,13 @@ Pp. 8-9. Read तत्राऽभियुञ्जाना तमौमे�
 पाञ्चालमध्यमायां तु सात्वत्यारभटी स्मृता।  
 प्रयोगस्त्वल्पगीतार्थ आविद्धगतिविभ्रमः।
 
-
-
 पाञ्चालाश्शौरसेनाश्चकाश्मीरा हस्तिनापुराः॥  
 वाल्मीकाःशाकलाश्चैव भद्रकौसीनरास्तथा।
 
 हिमवत्संश्रिता ये च गङ्गायाश्चोत्तरां दिशम्॥  
 ये श्रिता वै जनपदास्तेषु पाञ्चालमध्यमा।
 
-  
-
 The verses आर्द्राद्रचन्दन and आ मूलतो are quoted in सदुक्तिकर्णामृत (II - 86 and 99) under Râjaśekhara. P. 8.1.22. A reads परिमण्डलितान्तरीयं instead of परिमण्डलितोत्तरीयं, 1.7. Read “अनन्तानपि हि देशांश्चतुर्धैवाकल्प्य, कल्पयन्ति चक्रवर्त्तिक्षेत्रं समासेन, तदवान्तरविशेषैः पुनरनन्ता एव” इति यायावरीयः।
-
-  
 
 P. 10.16. वत्सगुल्म *cf.*
 
@@ -5950,33 +5314,19 @@ P. 10.16. वत्सगुल्म *cf.*
 
 (बृहत्कथामञ्जरी I. 3. 4.)
 
-  
-
 दक्षिणापथे सोदर्यौराजपुत्रौ वत्सगुल्मौ, ताभ्यामध्यासितो देशो वत्सगुल्मक इति प्रतीतः। (Jayamangala on Kâmasûtra 5-6-36).
-
-  
 
 1\. 15.प्रेत्य चेह च नन्दति *cf.* स्वधर्मं सन्दधानो हि प्रेत्य चेह च नन्दति
 
 (अर्थशास्त्र 1 - 3)
 
-  
-
 1\. 18. बुद्धिमानाहार्यबुद्धिश्च *cf.*बुद्धिमानार्यबुद्धिर्दुर्बुद्धिरिति पुत्रविशेषाः। शिष्यमाणो धर्मार्थावुपलभते चानुतिष्ठति च बुद्धिमान्, उपलभमानो नानुतिष्ठत्याहार्यबुद्धिः। अपायनित्यो धर्मार्थद्वेषी चेति दुर्बुद्धिः। अर्थशास्त्र 1-17.
-
-  
 
 P.11.1.12*cf.* चित्तैकाम्यमवधानम्।अवहितं हि चित्तमर्थान् पश्यति। वामनीया- लङ्कार 1-3-17 1. 18*cf.* अभ्यासो हि कर्मणां कौशलमावहति। Ibid. 1-3-24.
 
-  
-
 P. 12. मेधाविरुद्ध was a rhetorician too *cf.* ननु दण्डिमेधाविरुद्रभामहादिकृतानि सन्त्येवालङ्कारशास्त्राणि। नमि साधु’s commentary on रुद्रटालङ्कार p. 2. His name occurs in भामह too. प्राणानामनिलेन (अभिज्ञानशाकुन्तल VII-12). अनेन सार्धं. (रघुवंश VI-57) ; हरोऽपि (कुमार III-67) तथागतायां.(रघु. VI-82).
 
-  
-
 P. 13. एकस्य. Read न्यस्य विदग्धवदनेषु. *cf.* तत्काव्यमारोप्य पदं विदग्धवक्त्रेषु विश्वं परिबम्भ्रमीति। (रुद्र, शृङ्गारतिलक II - 7) .
-
-  
 
 P. 14. Two verses of मङ्गल are quoted in सदुक्तिकर्णामृत—
 
@@ -5986,25 +5336,15 @@ P. 14. Two verses of मङ्गल are quoted in सदुक्तिकर�
 निष्किञ्चनत्वाद्विदधुरस्य साधोरभ्यर्थितस्यार्थिजनस्य किञ्चित्।  
 नास्तीति वर्णा मनसि भ्रमन्तो निर्गन्तुमिच्छन्त्यसुभिः सहैव॥ 5-290.
 
-  
-
 P. 14. अरोचकिनः सतृणाभ्यवहारिणश्च etc. *cf.* अरोचकिनः सतृणाभ्यवहारिणश्च कवयः॥१॥ इह खलु द्वये कवयः सम्भवन्ति, अरोचकिनः सतृणाभ्यवहारिणश्चेति। अरोचकिसतृणाभ्यवहारिशब्दौ गौणार्थौ। कोऽसावर्थः। विवेकित्वमविवेकित्वं चेति। यदाह।
-
-
 
 पूर्वे शिष्या विवेकित्वात्॥२॥ पूर्वे खलु अरोचकिनः शिष्याः शासनीयाः। विवेकित्वात्। विवेचनशीलत्वात्। नेतरे तद्विपर्ययात्॥ ३॥ इतरे सतृणाभ्यवहारिणः न शिष्याः। तद्विपर्ययात् अविवेचनशीलत्वात्। न च शीलमपाकर्तुं शक्यम्॥ (वामनीयालङ्कार 1-2-3).
 
-  
-
 P.15 1.7. *cf.* सत्यं सन्ति गृहे गृहे सुकवयो (शृङ्गारतिलक. I-17).
-
-  
 
 1.10. सर्वाभिनयनिर्णीतौ दृष्टा नाट्यसृजा न याः। नाट्यसृजा ब्रह्मणा। नाट्याख्यं पञ्चमं वेदं सेतिहासं करोम्यहम्।
 
 (नाट्यशास्त्र 1 - 15).
-
-  
 
 P. 16. ls 7-10. आनन्द is आनन्दवर्धन the author of ध्वन्यालोक.
 
@@ -6012,8 +5352,6 @@ P. 16. ls 7-10. आनन्द is आनन्दवर्धन the author of 
 आनन्दवर्धनः कस्य नासीदानन्दवर्धनः॥
 
 (राजशेखरस्य.)
-
-  
 
 *Cf.* द्विविधो हि दोषः कवेरव्युत्पत्तिकृतोऽशक्तिकृतश्च। तत्र अव्युत्पत्तिकृतो दोषः शक्तितिरस्कृतत्वात्कंदाचिन्न लक्ष्यते। यस्त्वशक्तिकृतो दोषः स झटिति प्रतीयते।
 
@@ -6024,21 +5362,13 @@ P. 16. ls 7-10. आनन्द is आनन्दवर्धन the author of 
 
 (ध्वन्यालोकतृतीयोद्योत.)
 
-  
-
 This verse is quoted by Hemachandra in his काव्यानुशासनविवेक.
 
-  
-
 P. 17. जङ्घाकाण्डो० also in काव्यप्रकाश VII. लोलल्लाङ्गूल० also in सरस्वतीकण्ठाभरण. Read मालङ्घ्योत्ताल्०.
-
-  
 
 P. 18. 1. 11. देवी पुत्रमसूत attributed to योगेश्वर in सदुक्तिकर्णामृत; also in सरस्वतीकण्ठाभरण.
 
 1\. 21. Read as स्तनतटपरिणाहो दोर्लतालेह्यसीमा. प्रतीच्छत्याशो कीं alsoin सरस्वतीकण्ठाभरण।
-
-  
 
 P. 19. ls. 3–7. मूलं वालक० (विद्धशालभञ्जिका IV. 5); 1. 11. आत्मारामा. (वेणीसंहार. 1-23).
 
@@ -6049,8 +5379,6 @@ P. 20. ls. 5-6. *cf.*
 
 व्युत्पत्तिः सुप्तिङां या तु प्रोच्यते सा सुशब्दता।सरस्वतीकण्ठाभरण I.  
 आवापोद्धरणे and यत्पदानि (वामन 1-3-15); सति वक्तरि (Ibid. 1 - 2 - 11).
-
-  
 
 For the text of वामनीयालङ्कार the commentator सहदेव says as under :—
 
@@ -6063,11 +5391,7 @@ For the text of वामनीयालङ्कार the commentator सह�
 आकर्ण्य भवतस्तस्माद्दयितस्य विधीयते।  
 विवृतिः सहदेवेन वामनीयस्य सम्प्रति॥
 
-  
-
 Pp. 20-21. For सहकारपाक and वृन्ताकपाक *cf.* वामन (3-2-14),
-
-
 
 गुणस्फुटत्वसाकल्ये काव्यपार्क प्रचक्षते।  
 चूतस्य परिणामेन स चांयमुपमीयते॥
@@ -6075,46 +5399,26 @@ Pp. 20-21. For सहकारपाक and वृन्ताकपाक *cf.*
 सुप्तिसंस्कारसारं यक्लिष्टवस्तुगुणं भवेत्।  
 काव्यं वृन्ताकपाकं स्याज्जुगुप्सन्ते जनास्ततः॥
 
-  
-
 1\. 4. कुकविता हि सोच्छ्वासं मरणम्।*cf.* कुकवित्वं पुनः साक्षान्मृतिमाहुर्मनीषिणः। भामह 1 - 12.
-
-  
 
 For कपित्थपाक *cf.*
 
 अहृद्यमनिर्भेदं रसवत्त्वेप्यपेशलम्।  
 काव्यं कपित्थपाकं तत् केषांचित्सदृशं यथा॥ (भामह VI– 62 ).
 
-  
-
 P. 22. द्वन्द्वोऽस्मि etc. attributed to Bhattamuktikalaśa in the Kavikaṇthâbharaṇa 5th Samdhi.
-
-  
 
 1\. 12. *cf.* एवं हि श्रूयते। बृहस्पतिरिन्द्राय दिव्यं वर्षसहस्रं प्रतिपदोक्तानां शब्दानां शब्दपारायणं प्रोवाच नान्तं जगाम। बृहस्पतिश्च प्रवक्ता इन्द्रश्वाध्येता दिव्यं वर्षसहस्रमध्ययनकालो न चान्तं जगाम। प्रियतद्धिता दाक्षिणात्याः। (महाभाष्य-पस्पशा) नमस्तस्मै० no. 7 of सुभाषितावली.
 
-  
-
 P. 24. चरन्ति चतुरम्भोधि० also in सरस्वतीकण्ठाभरण. अभिमुखे मयि ( शाकुन्तल II. 45 ) कियन्मात्रं occurs also in the सरस्वतीकण्ठाभरण.
-
-  
 
 P. 24. गुणवदलङ्कृतं च वाक्यमेव काव्यम्। *cf.* काव्यशब्दोऽयं गुणालङ्कारसंस्कृतयोः शब्दार्थयोः वर्तते। वामन 1-1-1. गुणालङ्कारचारुत्वयुक्तमप्यधिकोज्ज्वलम्। काव्यमाश्रयसम्पत्या मेरुणेवामरद्रुमः॥ भट्टोद्भटः॥Contrast with this the later developmentsof the definition of काव्य.
 
-  
-
 P. 25. पुष्पिण्यौ. ऐतरेय ब्राह्मण 7-15-2, शतपथ ब्राह्मण 15-19.
-
-  
 
 Pp. 25-26 1. 16 from महाभाष्य पस्पशा. गुणानुराग० also in सरस्वतीकण्ठाभरण.
 
-  
-
 P. 27. काव्यमय्यो no. 171 of शार्ङ्गधरपद्धति; ख्याता no. 161 of सुभाषितावली, attributed to भट्टगोविन्दस्वामि . *cf.* महीपतेः सन्ति न यस्य पार्श्वे कवीश्वरास्तस्य कुतो यशांसि। भूपाः कियन्तो न बभूवुरुर्व्या नामापि जानाति न कोऽपि तेषाम्॥ विक्रमाङ्कचरित्र I-26.
-
-  
 
 P.28. 1. 2.
 
@@ -6123,11 +5427,7 @@ P.28. 1. 2.
 
 ऋग्वेद २, १, ११, ७. निरुक्त ३-४-३.
 
-  
-
 P. 29. यच्चन्द्र० found in सदुक्तिकर्णामृत & सरस्वतीकण्ठाभरण.
-
-  
 
 P. 31. वैदर्भी गौडीया *cf.* सा त्रेधा वैदर्भी गौडी पाञ्चाली चेति। वामन 1 2 17.
 
@@ -6135,8 +5435,6 @@ P. 31. वैदर्भी गौडीया *cf.* सा त्रेधा 
 
 विस्पष्टक्रियमाणादक्लिष्टा स्वरविशेषतो भवति।  
 अर्थान्तरप्रतीतिर्यत्रासौ काकुवक्रोक्तिः॥ रुद्रट-काव्यालङ्कार 2- 16.
-
-
 
   *cf.*
 
@@ -6147,27 +5445,17 @@ also काकुर्वक्रोक्तिस्त्वलङ्का
 अर्थान्तरगतिः काका या चैषा परिदृश्यते।  
 सा व्यङ्ग्यस्य गुणीभावे प्रकारमिममाश्रिता॥
 
-  
-
 सा च काकुर्द्विधा—साकाङ्क्षा निराकाङ्क्षा च। वाक्यस्य साकाङ्क्षनिराकाङ्क्षत्वात्। यस्माद्वाक्यात् यादृशः सङ्केतबलेनार्थः प्रतीयते न तादृश एव, किन्तु न्यूनाधिकः प्रमाणबलेन निर्णययोग्यस्तद्वाक्यं साकाङ्क्षम्। तद्विपरीतं निराकाङ्क्षम्। वक्तृगता ह्याकाङ्क्षा वाक्ये उपचर्यते। साच प्रकरणबलान्निश्रीयते। विशिष्टविषयत्वं च तस्यास्तत एवावसीयते॥     
 
 हेमचन्द्रकाव्यानुशासन V.
-
-  
 
 साकाङ्क्षा and निराकाङ्क्षा *cf.* द्विविधा काकुः।साकाङ्क्षा निराकाङ्क्षेति।वाक्यस्य साकाङ्क्षति।नाट्यशास्त्र chapt. 17; also सरस्वतीकण्ठाभरण 2-56.
 
 नवजलधरःविक्रमोर्वशीय IV. I.
 
-  
-
 P. 32. युष्मच्छासन० वेणीसंहार 1-12; मथ्नामि Ibid. 1-15; उच्यतां. किरात 9-39.
 
-  
-
 Pp. 32-34. For the काकु and पाठगुण of भरतनाट्यशास्त्र Chap. 17. काकुस्वरविधान; यथा व्याघ्री हरेत् found in Panini's and Yâgñavalkya's Śikshâs; ब्रह्मन्विज्ञापयामि quoted in सरस्वतीकण्ठाभरण 2-14. ब्रह्मन्नित्यादिना निन्दार्थानुवादेन गौडेषु प्राकृतानौचित्यं राजशेखरेण व्यञ्जितम्॥ रत्नेश्वर.
-
-  
 
 P. 34. पठन्ति लटभं *cf.*
 
@@ -6188,8 +5476,6 @@ and also गिरः श्रव्या दिव्याः प्रक�
 विदग्धानामिष्टे मगधमधुरावासिभणिति-  
 र्निबद्धा यस्तेषां स इह कविराजो विजयते॥ बालरामायण. 1-11.
 
-
-
   
 
 P. 35 काव्यार्थयोनयः*cf.*वामन 1-3. et seq.
@@ -6201,8 +5487,6 @@ P. 35 काव्यार्थयोनयः*cf.*वामन 1-3. et seq.
    Most of this chapter is quoted in Hemachandra's Kâvyânuśasana-viveka and Vâgbhata's Kãvyânuśasana. Not quite of this but of a similar type, are the various Parichayâs in the fifth Sandhi of Kavikaṇṭhâbharaṇa. Vinayachandra in his mentions तर्कपरिचय, व्याकरणपरिचय, चाणक्यपरिचय, धनुर्वेदीयः (the quotation is the same as one in the Kâvyammîmâ*n*sâ&, स दक्षिणापाङ्ग०) उत्पाद्यसंयोग (quo- tation is the same as in the Kâvyammîmâ*n*sâ, उभौ यदि व्योम्नि). भारतपरिचय, रामायणपरिचय, मोक्षोपायपरिचय, आत्मज्ञानपरिचय, धातुवादपरिचय, पुरुषलक्षणपरिचय द्यूत- परिचय, चित्रपरिचय, वृक्षपरिचय, वनेचरपरिचय, भक्तिपरिचय, विवेकपरिचय, प्रशमपरिचय, हस्तिपरिचय, वैद्यकपरिचय, शास्त्रपरिचय, धनुर्वेदपरिचय, गजलक्षणपरिचय, तुरगलक्षणपरिचय.
 
   P. 35. उर्वशी. (शतपथ 5 - 1 - 2); यदेतन्मण्डलं *cf.* महानारायणोपनिषत् XII. 2; एतद्यन्. सूर्यशतक. 89; हंस प्रयच्छ (विक्रमोर्वशीय IV. 17).
-
-  
 
 *cf.* वाक्यघटना यथा–हंस etc.
 
@@ -6220,8 +5504,6 @@ P. 35 काव्यार्थयोनयः*cf.*वामन 1-3. et seq.
    P. 42–44. 1. 10. Quoted by Hemachandra in his काव्यानुशासनविवेक.  
    P. 42. श्रियः पतिः (माघ. I. 1.).  
   P. 44. विचारितसुस्थः *cf.* तत्र दशविधश्चमत्कारः अविचारितरमणीयः विचार्यमाणरमणीयश्च (कविकण्ठाभरण. Sandhi III.); त आकाशमसिश्याम० (कुमार० VI. 36.)
-
-
 
   P. 45, यस्तु सरिदद्रि० quoted in Hemchandra's काव्यानुशासन under लोल्लटः, तथा च लोल्लटः—
 
@@ -6262,8 +5544,6 @@ P. 35 काव्यार्थयोनयः*cf.*वामन 1-3. et seq.
 
   सुसम्मृष्टा भित्तयःWell-swept walls or well-rubbed plates. In ancient times they used to write, as well as, paint on walls. Brass plates are still being used by shop-keepers for writing daily accounts.
 
-
-
    P. 53. श्रूयन्ते दृश्यन्ते च *cf.* सन्त्यपि खलु शास्त्रप्रहतबुद्धयो गणिका राजपुत्र्यो महामात्रदुहितरच (वा. काम, सू. 1 - 3 - 12).
 
    Read in the text महामात्रदुहितरो and शास्त्रप्रहतबुद्धयः Rajaśekhara (quoted in the Sûktimuktâvali) praises four such poetessess. (1) शीलाभट्टारिका (2) विकटनितम्बा (3) विजयाङ्का (4) प्रभुदेवी.
@@ -6298,8 +5578,6 @@ Rajaśekhara calls himself an incarnation of भर्तृमेण्ठ.
 स्थितः पुनर्यो भवभूतिरेखया स वर्त्तते सम्प्रति राजशेखरः॥
 
 बालरामायण. I. 16.
-
-
 
 सूर may be आर्यसूर the Buddhist poet.
 
@@ -6365,8 +5643,6 @@ For the derivation of the word, *cf.*
 
 रामचरित. VI. 93.
 
-
-
 हालेनोत्तमपूजया कविवृषः श्रीपालितो लालितः  
 ख्यातिं कामपि कालिदासकवयो नीताः शकारातिना।
 
@@ -6393,8 +5669,6 @@ Ibid XXII. 100.
 कमलायरोव्व कोसो विलुप्पमाणो वि हु न झीणो॥
 
 कुवलयमाला of इन्द्रसूरि 778A. D.
-
-  
 
 References to other old poets are also interesting.
 
@@ -6430,8 +5704,6 @@ References to other old poets are also interesting.
 
 जो इच्छइ भवविरहं भवविरहंको न बंधए सुयणो।  
 समयसयसत्थगुरुणो समरमियंका कहा जस्स॥
-
-
 
   P. 56. Borrowed in काव्यानुशासनविवेक *cf.*
 
@@ -6477,8 +5749,6 @@ For अन्यथाकरण of पद and पाद *cf.*
 न्यासापह्नवने चैव दिव्या सम्भवति किया॥
 
   अत्र यदा तृतीयपादस्थाने तन्वङ्गी यदि लभ्येतेति पाठो भवति तदैतत् परीक्षौपयिकमपि कामौपयिकं भवति॥
-
-
 
 अर्धान्यथाकरणेन यथा,—
 
@@ -6529,8 +5799,6 @@ For अन्यथाकरण of पद and पाद *cf.*
 
   P. 67. कान्ते (अमरु 101); धन्यास्तु attributed to विज्जका; ततोऽरुण० attributed to वाल्मीकि; समं कुसुम०
 
-
-
 ततः कुमुदनाथेन गर्भिणीगण्डपाण्डुना।  
 उदयाद्रिशिरःसीम्नि निहितं पदमिन्दुना॥ द्रोणपर्व।
 
@@ -6561,32 +5829,19 @@ For अन्यथाकरण of पद and पाद *cf.*
 
   P. 81. उत्सेच्या. उत्सेक्या is the correct grammatical form.
 
-  
-
 न्यस्ताक्षरा (कुमार I.); In शेतां हरिः read विवदामहे instead of विविदामहे, and दूर-दूरस-पयाः for दूर दूर सपयास्तृषितस्य.
-
-  
 
 P. 82 मण्डलीकृत्य attributed to दण्डि.
 
-  
-
 P. 83.1.13 Mss of काव्यानुशासनविवेक read प्रतिदिशमिव; उत्खातनिर्मल० seems to be from हयग्रीववध of मेण्ठ,
-
-
 
   P. 84. द्योतितान्तःसभैः (माघ II. 7.) पुष्पं प्रवालोपहितं (कुमार. I. 44.); Read उभयतटचलाबद्धवानीरहाराम्.
 
-  
-
 P. 85 लेखया (किरात IX. 22); कैलासगौरं (रघु II. 25); अथ पथि (रघु IX. 93).  
-  
 
 P. 86. तामुत्तीर्य (मेघदूत 1-47) ; अङ्काधिरोपि ० (माघ II. 53) मा भैः in वामनीयालङ्कार 3-2-7.  
-  
 
 P. 87. After the verse वन्द्या, Mss. of काव्यानुशासनविवेक add—  
-  
 
 यथा च—
 
@@ -6596,28 +5851,17 @@ P. 87. After the verse वन्द्या, Mss. of काव्यानु�
 अयं कः सम्बन्धो यदनुहरते तस्य कुमुदः  
 विशुद्धाः शुद्धानां ध्रुवमनभिसन्धिप्रणयिनः॥
 
-  
-
 Read बहुकालजन्मनोऽपि शिवचन्द्रमसो बालत्वभू; Mss. of काव्यानुशासन read कामस्य मूर्त्तत्वममूर्त्तत्वं च यथा.  
-  
 
 Separate मनो and भेद्यं; शब्दप्रभृतयः seems better reading अयं स found in प्रबन्धचिन्तामणि ; धनुर्माला attributed to घण्टक in सुभाषितावली.
 
-  
-
 P. 88. यस्याधोधः attributed to राजशेखर in कवीन्द्रवचनसमुच्चय and in सदुक्तिकर्णामृत and to चन्द्रक in सूक्तिमुक्तावली.
-
-  
 
 येन ध्वस्तमनोभवेन attributed to भारवि; for the meaning see ध्वन्यालोक; Read सोढाविषह्यवृषवाहनयोगलीलापर्यङ्कबन्धनविधेस्तव; quoted in सरस्वतीकण्ठाभरण II
 
 जयन्ति बाणासुर० कादम्बरी 2.
 
-  
-
 P. 89. अस्ति दैत्यो. first verse of हयग्रीववध of भर्तृमेण्ठ; दानवाधिपते and महासुरसमाजेऽस्मिन् seem to be from the same work. One more verse विनिर्गतं मानद० is quoted in काव्यप्रकाश.
-
-  
 
 कविसमय of वामन is different from that of राजशेखर. The following quotations will explain the कविसमयshow how far the later writers of कविशिक्षा were indebted to राजशेखर for this,
 
@@ -6635,14 +5879,11 @@ P. 89. अस्ति दैत्यो. first verse of हयग्रीव�
 प्रतापे रक्ततोष्णत्वे कीर्त्तौहंसादिशुभ्रता।  
 कृष्णत्वमपकीर्त्यादौ रक्तत्वं कोपरागयोः॥
 
-
-
 चतुष्टत्वं समुद्रस्य वियोगः कोकयोर्निशि।  
 चकोराणां सुराणां च ज्योत्स्नावासो निगद्यते॥
 
 रमायाः पद्मवासित्वं राज्ञो वक्षसि च स्थितिः।  
 समुद्रमथनं तत्र सुरेन्द्रश्रीसमुद्भवः॥  
-
 
 सतोऽप्यनिबन्धो यथा—
 
@@ -6696,8 +5937,6 @@ P. 89. अस्ति दैत्यो. first verse of हयग्रीव�
 
 हरितत्वं दिवा नीलोत्पलानां स्मेरता दिवा।  
 शेफालिकासुमे भ्रंशं वर्णन सदप्यदः॥  त्रिमिर्विशेषकम्।
-
-
 
 नियमो यथा—
 
@@ -6755,10 +5994,6 @@ P. 89. अस्ति दैत्यो. first verse of हयग्रीव�
 शुक्लत्वं कीर्त्तिहासादौ कार्ष्ण्यंचाकीर्त्तिपापयोः।  
 प्रतापे रक्ततोष्णत्वे रक्तत्वं क्रोधरागयोः॥
 
-
-
-
-
 विभावर्यां भिन्नतटाश्रयणं चक्रवाकयोः।  
 ज्योत्स्नापानं चकोराणां चतुष्कत्वं पयोनिधेः॥
 
@@ -6807,8 +6042,6 @@ P. 89. अस्ति दैत्यो. first verse of हयग्रीव�
 
   Pp. 93-94 Viveka and Vâgbhata read मुद्गरक, माहिष्मक, वेल्लर; Viveka reads भैमरवीवेणीकृष्णवेणी and वनायुजकम्बोज ० Vâgbhata reads उपलावती, while Viveka has पलावती. Vâgbhata reads हययवन, करकण्ठकुहक. Viveka and Vâgbhata have तुवार and हरहूर and add जालन्धर after हिमालय हारहूर is the correct reading as हारहौर is mentioned by वराहमिहिर.
 
-
-
   With the five divisions of our author *cf.*
 
   “The five Divisions of India, or the “Five Indies,”as theyare usually called by the Chinese, are as follows:—
@@ -6822,8 +6055,6 @@ P. 89. अस्ति दैत्यो. first verse of हयग्रीव�
   IV. Eastern India comprised Assam and Bengal proper, including the whole of the Delta of the Ganges, together with Sambhalpur, Orissa, and Ganjam.
 
   V. Southern India comprised the whole of the peninsula from Nasik on the west and Ganjam on the east, to Cape Kumari (Comorin) on the south, including the modern districts of Berar and Telingana, Maharashtra and the Konkan, with the separate states of Haidrabad, Mysore, and Travancore, or very nearly the whole of the peninsula to the south of the Narbada and Mahanadi rivers". Cunningham's “The Ancient Geography of India” pp, 11-12.
-
-  
 
 For the various countries
 
@@ -6844,8 +6075,6 @@ For the various countries
 
 खसमगधशिबिरगिरिमिथिलसमतटोड्राश्ववदनदन्तुरकाः।  
 प्राग्ज्योतिषलौहित्यक्षीरोदसमुद्रपुरुषादाः॥६॥
-
-
 
 उदयगिरिभद्रगौडकपौण्ड्रोत्कलकाशिमेकलाम्बष्ठाः।  
 एकपदतामलिप्तककोशलका वर्धमानाश्च॥७॥
@@ -6903,8 +6132,6 @@ For the various countries
 कैकयवसातियामुनभोगप्रस्थार्जुनायनाग्नीध्राः।  
 आदर्शान्तर्द्वीपित्रिगर्ततुरगाननाश्वमुखाः॥२५॥
 
-
-
 केशधरचिपिटनासिकदासेरकवाटधानशरधानाः।  
 तक्षशिलपुष्कलावतकैलावतकण्ठधानाश्च॥२६॥
 
@@ -6961,8 +6188,6 @@ For the various countries
 लौहित्यः सिन्धुनदः सरयूर्गम्भीरिका रथाह्वा च।  
 गङ्गाकौशिक्याद्याः सरितो वैदेहकाम्बोजाः॥१३॥
 
-
-
 मथुरायाः पूर्वार्धं हिमवद्गोमन्तचित्रकूटस्थाः।  
 सौराष्ट्रसेतुजलमार्गपण्यबिलपर्वताश्रयिणः॥१७॥
 
@@ -6994,8 +6219,6 @@ For the various countries
 
    *cf.* also the quotations from पराशारin Bhattotpala's commentary ad loc.
 
-  
-
 *cf.* also
 
 महेन्द्रो मलयः सह्यः शुक्तिमान् ऋक्षपर्वतः।  
@@ -7021,8 +6244,6 @@ For the various countries
 
 गोदावरीभीमरथीकृष्णवेण्यादिकास्तथा।  
 सह्यपादोद्भवा नद्यः स्मृताः पापभयापहाः॥
-
-
 
 कृतमालाताम्रपर्णीप्रमुखा मलयोद्भवाः।  
 त्रिसामाचर्षिकुल्याद्या महेन्द्रप्रभवाः स्मृताः॥
@@ -7050,19 +6271,11 @@ For the various countries
 
 विष्णुपुराण II. 3
 
-  
-
 Vinayachandra enumerates 84 countries in his काव्यशिक्षा.
-
-  
 
 ‘चतुरशीतिर्देशाः गौडकन्यकुब्जकौल्लाककलिङ्गाङ्गवङ्गकुरङ्गाचाल्यकामाक्षओड्रपुण्ड्रोडीशमालवलो-हितपश्चिमकाछवालभसौराष्ट्रकङ्कणलाटश्रीमालार्बुदमेदपाटमरुवरेन्द्रयमुनागङ्गातीरान्तर्वेदिमागधमध्यकुरुकाहलकामरूपकाञ्चयवन्तीपापान्तककिरातसौवीरऔशीरवाकाणोत्तरापथगुर्जरसिन्धुकेकाणनेपालटक्कतुरुष्कताइकारवर्वरजर्जरकाश्मीरहिमालयलोहपुरुषश्रीराष्ट्रदक्षिणापथसिंघचौलकौशलपाण्डुअन्ध्रविन्ध्यकर्णाटद्रविडश्रीपर्वतविदर्भधाराउरलाजीतापी महाराष्ट्रआभीरनर्मदातटद्वीपदेशाश्चेति।’
 
-  
-
 also हीरूयाणीत्यादि षट्कम्।पत्तनादि द्वादशकम्।मातरादिश्चतुर्विंशतिः। वडू इत्यादि षट् त्रिंशत्। भालिज्जादि चत्वारिंशत्। हर्षपुरादि द्विपञ्चाशत्। श्रीनारप्रभृति षट्पञ्चाशत्। जम्बूसरप्रभृति षष्टिः। पडवाणप्रभृति षट्सप्ततिः। दर्भावतीप्रभृति चतुरशीतिः।पेटलापद्रप्रभृति चतुरुत्तरशतम्।षदिरालुकाप्रभृति दशोत्तरं शतम्।भोगपुरप्रभृति षोडशोत्तरशतम्।धवलक्ककप्रभृति पञ्चशतानि।माहडवासाद्यमर्धाष्टमशतम्। कौमणप्रभृति चतुर्दशाधिकानि चतुर्दशशतानि। चन्द्रावतीप्रभृति अष्टादशशतानि। द्वाविंशतिशतानि महीतटम्।नवसहस्राणि सुराष्ट्राः। एकविंशतिः सहस्राणि लाटदेशः। सप्ततिसहस्राणि गुर्जरो देशः पारतश्च।अहूडलक्षाणि ब्राह्मणपाटकम्।नवलक्षाणि डाहलाः। अष्टादशलक्षाणि द्विनवत्यधिकानि मालवो देशः। षड्विंशल्लक्षाणि कन्यकुब्जः।अनन्तरमुत्तरापथं दक्षिणापथं चेति।
-
-  
 
 Hemachandra in his अभिधानचिन्तामणिexplains the names of countries as follows :—
 
@@ -7071,8 +6284,6 @@ Hemachandra in his अभिधानचिन्तामणिexplains the nam
 
 वङ्गास्तु हरिकेलीया अङ्गाश्चम्पोपलक्षिताः।  
 साल्वास्तु कारकुक्षीया मरवस्तु दशेरकाः॥
-
-
 
 जालन्धरास्त्रिगर्ताः स्युः तायिकास्तर्जिकाभिधाः।  
 कश्मीरास्तु माधुमताः सारस्वता विकर्णिकाः॥
@@ -7086,8 +6297,6 @@ Hemachandra in his अभिधानचिन्तामणिexplains the nam
 
 अभिधानचिन्तामणि. 4. 22-27.
 
-  
-
 Jayamangala in his commentary on the वात्स्यायनकामसूत्रlocates the various countries as under :—
 
   वङ्गा लौहित्यात् पूर्वेण। अङ्गा महानद्याः पूर्वेण। कलिङ्गा गौडविषयाद्दक्षिणेन।वाह्लीकदेश्या् उत्तरापथिकाः। आवन्तिका उज्जयिनीदेशभवाः। ता एवापरमालव्यः। पश्चिमसमुद्रसमीपेऽपरान्तदेशः। अपरमालवपश्चिमेन लाटविषयः। नर्मदाया दक्षिणेन देशो दक्षिणापथः। तत्र कर्णाटविषयात् पूर्वेणान्ध्रविषयः। नर्मदाकर्णाटविषययोर्मध्ये महाराष्ट्रविषयः। कर्णाटविषयाद्दक्षिणेन द्रविडविषयः। कोङ्कणविषयात् पूर्वेण वनवासविषयः।
@@ -7097,8 +6306,6 @@ Jayamangala in his commentary on the वात्स्यायनकामस�
   For the modern equivalents of these places, see Cunningham's ‘The Ancient Geography of India’, “The Geographical Dictionaryof Ancient and Medieval India” by N. L. Dey, and “The Original Inhabitants of India”by G. Oppert.’
 
   For products *cf.* स्थलपथेपि हैमवतो दक्षिणापथाच्छ्रेयान् हस्त्यश्वगन्धदन्ताजिनरूप्यसुवर्णपण्यास्सारवत्तराः इत्याचार्याः। न इति कौटिल्यः। कम्बलाजिनाश्वपण्यवर्जाः। शङ्खवज्रमणिमुक्तासुवर्णपण्याश्च प्रभूततरा दक्षिणापथे। कौटिलीय अर्थशास्त्र p. 298.
-
-  
 
 P. 95. एकं ज्योतिर्दृशौ. सूर्यशतक 13.
 
@@ -7110,13 +6317,9 @@ P. 95. एकं ज्योतिर्दृशौ. सूर्यशतक 
 
 1\. 23. पश्य पश्चिमदिगन्तलम्बिना (कुमार. VIII. 34).
 
-  
-
 P.96. अस्त्युत्तरस्यां (कुमार I. 1.)यादांसि (बालरामायण 7 - 47).
 
 1\. 14. Read उत्तरादावप्युत्तरदिगभिधानं तत्रागारं (मेघदूत II. 12)
-
-
 
   P. 97.1.9. पुष्पैः (विद्धशालभञ्जिका 1-25 ); 1. 25. कपोले जानक्याः( हनुमन्नाटक. III. 50). In B and the two Mss. of विवेकand elsewhere the reading is स्मरस्मेरः स्फारोड्डमरपुलकं वक्त्रकमलम्. The reading of the text is that of A.
 
@@ -7135,8 +6338,6 @@ P.96. अस्त्युत्तरस्यां (कुमार I. 1.)�
 
   P. 103. वराहवध्राणि नवौदनानि may mean rice cooked with the flesh of a boar.
 
- 
-
 P. 104. अभिनववधू० attributed मालवरुद्र in औचित्यविचारचर्चा and to भास in सुभाषितहारावली; found also in सरस्वतीकण्ठाभरण. The first pâda is found in वामनालङ्कार too.
 
   P. 106. I. 23. Read सक्तुधाने.
@@ -7149,17 +6350,11 @@ P. 104. अभिनववधू० attributed मालवरुद्र in �
 
   1. 7. द्वादश मासः *cf.* पञ्चपादं, पञ्चर्तवः...... हेमन्तशिशिरावेकीकृत्येयं कल्पना । शङ्करभाष्य on प्रश्नोपनिषद I–11.
 
-
-
   
 
 P. 111. कर्णे स्मेरं ( बालरामायण 5-26).
 
-  
-
 P.112. राजशेखर. The following verse in सरस्वतीकण्ठाभरण containing the name of राजशेखर seems to have been taken from his हरविलास.
-
-  
 
 अष्टपत्रमेव कविनामाङ्कं यथा—
 
@@ -7172,25 +6367,17 @@ P.112. राजशेखर. The following verse in सरस्वतीकण
 निर्विष्टाष्टदलन्यासमिदं पादार्द्धभक्तिभिः।  
 अस्पृष्टकर्णिकं कोणैः कविनामाङ्कमम्बुजम्॥
 
-  
-
 तत्राङ्कोराजशेखरकमलः।
 
 सरस्वतीकण्ठाभरणे-द्वितीये परिच्छेदे.
 
 ![](../../../books_images/U-IMG-1704732106Screenshot2024-01-07185627.png)
 
-
-
 Table showing the portions borrowed from the Kavyamīmāṇsâ.
 
 [TABLE]
 
-
-
   Vâgbhata has not borrowed wholesale from Hemachandra, but in some places has substituted his own and other verses and has summarised in próse the chapter on कालविभाग. The portions which seem to have been borrowed by the author of the सरस्वतीकण्ठाभरण from this work are referred to in the Notes.
-
-
 
 Index of Verses occurring in the Kâvyamîmânsâ.  
 ![](../../../books_images/U-IMG-1705995507Screenshot2024-01-23130809.png)
@@ -7231,35 +6418,19 @@ Index of Verses occurring in the Kâvyamîmânsâ.
 | अविस्पष्ट०        | इतिहास०          |
 | अवीनादौ           | इत्थं कविः       |
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 |                     |                |
 |---------------------|----------------|
@@ -7279,11 +6450,7 @@ Index of Verses occurring in the Kâvyamîmânsâ.
 | स्मृत्वा            | हे नागराज      |
 | स्रोतांसि           | ह्रस्वैः       |
 
-
-
 ![](../../../books_images/U-IMG-1705659211Sc1.png)
-
-
 
 Index of Proper names occurring in the Kâvyamîmâṇsâ.
 
@@ -7291,30 +6458,20 @@ Index of Proper names occurring in the Kâvyamîmâṇsâ.
 
 [TABLE]
 
-
-
 [TABLE]
 
 ![](../../../books_images/U-IMG-1698454801Sc1.png)
-
-
 
 **Index of Geographical names occurring in the  
 Kâvyamîmâṇsa.**
 
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 [TABLE]
 
 ![](../../../books_images/U-IMG-1696243669Sc1.png)
-
-
 
 GAEKWAD'S ORIENTAL SERIES..
 
@@ -7322,8 +6479,6 @@ Critical editions of unprinted Sanskrit Works, edited by competent.
 scholars and published by the Central Library, Baroda.
 
 [TABLE]
-
-
 
  
 
@@ -7345,337 +6500,4 @@ Ready about December 1924.
 
 This work gives an interesting description of the city of Ahmedabad and the Province of Gujarat in the middle of the 18th century.
 
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

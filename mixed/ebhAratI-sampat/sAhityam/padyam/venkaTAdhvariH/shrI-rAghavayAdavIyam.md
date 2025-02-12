@@ -13,39 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMTE4MzUyNDg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **\।\।राघव यादवीयं ( कवि वेंकटाध्वरि) \।\।**
-
-
-
-
-
-
-
-
 
 ** श्री राघव यादवीयम्**
 
-
-
 **Encoded and proofread by P \। P \। Narayanaswami at swami at math.mun.ca**
-
-
-
-
 
 **वंदेऽहं देवं तं श्रीतं रन्तारं कालं भासा यः \।**
 
@@ -358,14 +330,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMTE4MzUyNDg
 **\।\।इति श्रीवेङ्कटाध्वरि कृतं**
 
 **श्री राघव यादवीयं समाप्तम् \।\।**
-
-
-
-
-
-
-
-
-
 
 \]

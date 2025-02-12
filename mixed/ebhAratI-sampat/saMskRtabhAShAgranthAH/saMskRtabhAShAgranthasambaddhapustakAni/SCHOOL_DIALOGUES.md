@@ -14,14 +14,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1ODA0NDc2OTQ
 
 \[
 
-
-
-
-
 [TABLE]
 
 **———————**  
-
 
 **NOTICE.**
 
@@ -33,8 +28,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1ODA0NDc2OTQ
                     B. RANJIT.
 
 **———————**
-
-
 
 EASY SENTENCES FOR CONVERSATION.  
 
@@ -171,7 +164,6 @@ LESSON III.
 18. Sir, I have brought a new scholar to the school.  
 19. This boy, Sir, wishes to attend our school.  
 
-
 ७. अहं वाचयितुं शक्नोमि, नोवक्तुं  
 ८. मया व्याकरणपुस्तकं मौल्येन संपादितमस्ति  
 ९. कश्चिर्दिग्लिश भाषा शिक्षायिता भवद्भिर्विदितः किम् ?  
@@ -185,8 +177,6 @@ LESSON III.
 १७. कथयत्वंतं यथाऽयं विद्यामभ्यस्य भवतोऽनुकंपांसाधयितुमिच्छति.  
 १८. भोमहाराज ? मयानवीन छात्रः शालाया मानीतो ऽस्ति.  
 १९. भोमहाराज ! भयं शिश्रुस्त्वदीयां शालामागंतुमिच्छति.
-
-
 
 20\. Will you be pleased to admit him?
 
@@ -209,8 +199,6 @@ LESSONIV.
 15. Can you say it by heart?  
 16. Why don't you begin to read ?  
 17. Don't read so loud.
-
-
 
 २०. स्वीकुरुत यूयमनुकंप शालायां तम्.
 
@@ -302,8 +290,6 @@ LESSON VI.
 4. 1 can't hear you..  
 5. Some boys read loud, some low.
 
-
-
 १२. विरचयमहाराष्ट्रभाषायां तद्वाक्यम्.
 
 १३. वदतद्वाक्यं पुस्तकावलोकनं विना.
@@ -380,8 +366,6 @@ LESSON VI.
 
 24.Write on slate.
 
-
-
 ६. यो बालोवाचयति, तंविनासर्वैस्तूष्णीं स्थेयम्.
 
 ७. यद्वित्राबालकाएकदैव वाचयंति, कतमेयं वाचनरीतिः ?
@@ -419,10 +403,6 @@ LESSON VI.
 २३. संस्छापयत फलके पुस्तकानि.
 
 २४. सं लिखत पाटिकासु.
-
-
-
-
 
 25\. The monitor will dictate.
 
@@ -542,8 +522,6 @@ LESSON VI.
 
 1\. What are you looking for?
 
-
-
 ६. लेखनीमुखं दीर्घतरं ददार.
 
 ७. तां निखिलां ततक्ष.
@@ -626,8 +604,6 @@ LESSON VI.
 
 21\. Who has scrawled over my slate ?
 
-
-
 २. मदीया लेखनी नमिलति.
 
 ३. केनाऽपि बालकेन सा गृहीताऽस्ति.
@@ -667,8 +643,6 @@ LESSON VI.
 २०. प्रपश्य स्वायां पाटिकां, कीदृशी मलीमसाऽस्ति !
 
 २१. कोऽतक्षत् ममपाटिकाम् ?
-
-
 
 22\. Wash your slate and wipe it clean ?
 
@@ -975,6 +949,5 @@ LESSON VI.
 २९. सर्व मभ्यासेन सिध्यति.
 
 **———————**
-
 
 \]

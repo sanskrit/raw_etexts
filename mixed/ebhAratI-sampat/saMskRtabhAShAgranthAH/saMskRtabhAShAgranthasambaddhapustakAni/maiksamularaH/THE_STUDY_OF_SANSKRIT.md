@@ -14,23 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODA4NjIyMjM4NzE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
-
-
 
 **HANDBOOKS**
 
@@ -45,11 +29,7 @@ EDITED BY
 TAILORIAN PROFESSOR OF MODERN EUROPEAN LANGUAGES AND LITERATURE  
 IN THE UNIVERSITY OF OXFORD.
 
-
-
 [TABLE]
-
-
 
 **CONTENTS.**
 
@@ -74,8 +54,6 @@ THE GEESE AND THE PEACOCKS.
 | THE HARES AND THE ELEPHANTS |
 | THE GOOSE AND THE CROW      |
 | THE QUAIL AND THE CROW      |
-
-
 
 |                                                         |
 |---------------------------------------------------------|
@@ -103,8 +81,6 @@ THE GEESE AND THE PEACOCKS.
 | THE LION, THE CROW, THE TIGER, THE JACKAL, AND THE CAMEL. |
 | THE SERPENT AND THE FROGS                                 |
 | THE BRÂHMAN AND THE ICHNEUMON                             |
-
-
 
 **॥सुहृद्भेदः॥**
 
@@ -153,8 +129,6 @@ For, Down down looking of whom the greatness not is enhanced?
 **उपर्यु़परि पश्यंतः सर्व एव दरिद्रति॥२॥**
 
 Upwards upwards looking all indeed are poor. (2)
-
-
 
 **अपरं च। ब्रह्महा़पि नरः पूज्यो यस्या़स्ति विपुलं धनं।**
 
@@ -218,10 +192,6 @@ the obtainment indeed; of an acquired even, (but) not-guarded treasure also of i
 
 disappearance. Also and, Not-increasing and wealth in time with very-small-expenditure
 
-
-
-
-
 **ऽप्य़ंजनवत्क्ष़यमे़ति। अनुपभुज्यमानश्च़ निष्प्रयोजन एव सः।**
 
 even collyrium-like[^2]to waste goes, not-enjoyed being and, useless indeed it,
@@ -284,8 +254,6 @@ For, What an excessive-load of the able? What far of the resolute?
 
 What a strange country of the of knowledge possessed?Who a stranger of the kindly-speaking? (13)
 
-
-
 **अथ गच्छतस्त़स्य सुदुर्गनाम्निमहारण्ये संजीवको भग्नजानुर्ऩि-**
 
 Now travelling of him in the Sudurga-named great-wood Sañjîvaka broken-kneed
@@ -345,8 +313,6 @@ by a grass-point merely touched when his time-is come not he lives. (17)
 **अरक्षितं तिष्ठति दैवरक्षितं**
 
 Unguarded stands the by Fate-guarded,
-
-
 
 **सुरक्षितं दैवहतं विनश्यति।**
 
@@ -408,8 +374,6 @@ two jackals seen. Him in this-state having seen Damanaka Karataka accosts:
 
 Friend Karataka, why thus this water-desiring master water not-haying drunk
 
-
-
 **सचकितो मंदं मंदम़वतिष्ठते। करटको ब्रूते। मित्र दमनक**
 
 with-trembling slowly slowly stands off? Karataka says: FriendDamanaka,
@@ -470,8 +434,6 @@ their own self having ornamented, having ornamented (it), of others-the slave-(i
 
 Moreover, Which by nature already unsteady falls on the impure even,
 
-
-
 **स्वामिनो बहु मन्यंते दृष्टिं ताम़पि सेवकाः॥२५॥**
 
 of a master highly esteem the look that even attendants. (25)
@@ -531,8 +493,6 @@ Karataka says: Thus even, what with this of usbusiness?For
 **ऽव्यापारेषु व्यापारः सर्वथा परिहरणीयः। पश्य।**
 
 in not-(one's own) business business wholly to be avoided. Behold:
-
-
 
 **अव्यापारेषु व्यापारं यो नरः कर्तुम़िच्छति।**
 
@@ -596,8 +556,6 @@ verily appointed, the chief-minister, hemay do (so), for by an inferior
 
 of another’s-office-investigation wholly not to be made.
 
-
-
 **पश्य। पराधिकारचर्चांयः कुर्यात्स्व़ामिहितेच्छया।**
 
 Behold: Of another's-office-investigation who should do from master-welfare-desire,
@@ -657,8 +615,6 @@ The donkey says: Listen, oh idiot :
 **याचते कार्यकाले यः स किं भृत्यः स किं सुहृत्।**
 
 Asks at action-time who, he (what?) a servant, he (what?) a friend?
-
-
 
 **कुक्कुरो ब्रूते।**
 
@@ -720,8 +676,6 @@ Of one's own-business-investigation be made! (Having reflected:) However to-day 
 
 consideration not need, for of us of the meal-remaining-food plentiful is.
 
-
-
 **दमनकः सरोषमा़ह। कथमाहारार्थी भवान्के़वलं राजानं सेवते।**
 
 Damanaka with-anger says: How for food-seeking you merely the king serve?
@@ -781,8 +735,6 @@ Thus and said, Of horses-elephants-metals, of timber-stone-clothes,
 **नारीपुरुषतोयानामंतरं महद़ंतरं॥४०॥**
 
 of women-men-water the difference a great difference. (40).
-
-
 
 **तथा हि स्वल्पम़प्य़तिरिच्यते।**
 
@@ -844,8 +796,6 @@ the crow also lives a long while, the oblation and eats. (43)
 
 Another and, Who not on a son, not to the instructor, not and on the servantassemblage
 
-
-
 **दीने दयां न कुरुते न च बंधुवर्गे।**
 
 distressed, compassion not bestows, not and on the relation-assemblage,
@@ -905,8 +855,6 @@ his own-actions merely a man lead. (46)
 **किंच।आरोप्यते शिला शैले यत्नेन महता यथा।**
 
 Moreover, It is elevated a rock on a mountain with effort great as,
-
-
 
 **निपात्यते क्षणेना़धस्त़था़त्मा गुणदोषयोः॥४७॥**
 
@@ -968,8 +916,6 @@ by eye-and countenance-change is discovered the inward mind. (50)
 
 Here in the fear-occasion by intellect-power I that master my own shall make.
 
-
-
 **यतः। प्रस्तावसदृशं वाक्यं सद्भावसदृशं प्रियं।**
 
 For, To the occasion-conformable speech, to worthiness-conformable love,
@@ -1029,8 +975,6 @@ ordered not he will hesitate—he in a king's dwelling may live. (56)
 **करटको ब्रूते। कदाचित्त्वाम़नवसरप्रवेशाद़वमन्यते स्वामी।**
 
 Karataka says: Sometimes thee for inopportune-intrusion slights the master.
-
-
 
 **स चा़ह। अस्त्वे़वं तथा़प्य़नुजीविनांस्वामिसांनिध्यम़वश्यं**
 
@@ -1092,8 +1036,6 @@ in the absent even virtue-praise, dwelling on agreeable-things. (59)
 
 To (him, when) not-serving also attachment, giving with-kind-words,
 
-
-
 **अनुरक्तेषु चिह्नानि दोषेऽपि गुणसंग्रहः॥६०॥**
 
 in favourable ones (these are) the marks, in a fault even merit-acknowledgment. (60)
@@ -1153,8 +1095,6 @@ If and having found-an opportunity even by me counsel not to be spoken, then
 **मंत्रित्वमे़व ममा़नुपपन्नं।**
 
 the counsellorship certainly of me improper.
-
-
 
 **यतः। कल्पयति येन वृत्तिं येन च लोके प्रशस्यते सद्भिः।**
 
@@ -1216,8 +1156,6 @@ For, Of the contemned even and with resolute-character endowed,
 
 of the intellect loss not indeed to be apprehended,
 
-
-
 **अधः कृतस्या़पि तनूनपातः**
 
 Of the downwards turned also fire
@@ -1277,8 +1215,6 @@ not that wails, not and also shines,
 **भवति योजयितुर्व़चनीयता॥७२॥**
 
 there is of the setter blamableness. (72)
-
-
 
 **अन्यच्च। मुकुटे रोपितः काचश्च़रणाभरणे मणिः।**
 
@@ -1340,8 +1276,6 @@ by the prince despised who but, he by all is despised. (78)
 
 Moreover, From a child even to be received a proper word by wise men,
 
-
-
 **रवेऱविषये किं न प्रदीपस्य प्रकाशनं॥७९॥**
 
 in the Sun's absence (is) not of a lamp illumination? (79)
@@ -1401,8 +1335,6 @@ the use verily to be learnt.
 **यतः। बंधुस्त्रीभृत्यवर्गस्य बुद्धेः सत्त्वस्य चा़त्मनः।**
 
 For, Of the relation-women-attendant-class, of the intelligence, of the strength and of himself,
-
-
 
 **आपन्निकषपाषाणे नरो जानाति सारतां॥८०॥**
 
@@ -1464,8 +1396,6 @@ Thus for, (As) a child even not to be contemned a man (he is) thusa king;
 
 a great goddess for that with man-form stands. (82)
 
-
-
 **दमनको विहस्या़ह। मित्र तूष्णीम़ास्यतां। ज्ञातं मया भयकारणं।**
 
 Damanaka laughing says: Friend, quiet remain, Known by me the fear-cause.
@@ -1525,8 +1455,6 @@ him to slay to be employed (is) similar to him a combatant. (84)
 **इत्य़ालोच्य तेन ग्रामं गत्वा विश्वासं कृत्वा**
 
 Thus haying reflected, by him, to the village having gone, confidence having made,
-
-
 
 **दधिकर्णनामा विडालो यत्नेना़नीय मांसाहारं दत्त्वा**
 
@@ -1588,8 +1516,6 @@ if, from this wood far away-go! Otherwise for the disagreeable the result will b
 
 Not do I know, the enraged lord what will do. That having heard Sañjîvaka also came near.
 
-
-
 **आज्ञाभंगो नरेंद्राणां ब्राह्मणानाम़नादरः।**
 
 Command-breaking of man-kings of Brahmans disrespect,
@@ -1647,8 +1573,6 @@ Another and, Grasses not roots up the hurricane
 **मुटूनि नीचैः प्रणतानि सर्वतः।**
 
 soft-ones lowly bending to all sides
-
-
 
 **समुच्छ्रिताने़व तरूऩ्प्रबाधते**
 
@@ -1710,8 +1634,6 @@ running away some thief by a tiger killed. From his-hands-fallen
 
 the bell by monkeys seized. The monkeys that bell perpetually cause to sound.
 
-
-
 **ततो नगरजनैः स मनुष्यः खादितो दृष्टः प्रतिक्षणं घंटारवश्च़**
 
 Then by the towns-people that man eaten seen, perpetually the bell-ringing and
@@ -1771,8 +1693,6 @@ in utmost-friendship he dwells. Now some day of thatlion the brother
 **स्तब्धकर्णनामा सिंहः समागतः। तस्या़तिथ्यं कृत्वा**
 
 Stabdhakarna-named a lion arrived. Of him hospitality having made,
-
-
 
 **समुपवेश्य पिंगलकस्त़दाहाराय पश्रुं हंतुं चलितः।**
 
@@ -1834,8 +1754,6 @@ That certainly minister (is) always better, a Kâkinîwho might increase;
 
 the treasury (is) of the treasury-possessor the life, the life the life not of a king. (92)
 
-
-
 **किंचा़न्यैर्न कुलाचारैः सेव्यतामे़ति पूरुषः।**
 
 Moreover, through other not family-observances to respectability goes a man,
@@ -1893,8 +1811,6 @@ Appointed a soldier at the treasure a sword shows assuredly;
 **सर्वस्वं ग्रसते बंधुराक्रम्य ज्ञातिभावतः॥९७॥**
 
 all the property swallows a relative, encroaching on account of his relationship. (97)
-
-
 
 **अपराधेऽपि निःशको नियोगी चिरसेवकः।**
 
@@ -1956,8 +1872,6 @@ Of a command-the object-seizure-expedient (is) of kings constant-supervision,
 
 assent-giving and (is) likewise action-perversion. (104)
 
-
-
 **निपीडिता वमंत्यु़च्चैऱंतःसारं महीपते।**
 
 (Only when) squeezed do they discharge upwards (their ) inward-juice, O earth-lord!
@@ -2017,8 +1931,6 @@ Another and, From thieves, from (his) officers, from enemies, from a king's-favo
 **नृपतिर्ऩिजलोभाच्च़ प्रजा रक्षेत्प़िते़व हि॥१०९॥**
 
 a king from his own-greediness likewise the subjects should protect father-like truly. (109)
-
-
 
 **भ्रातः सर्वथा़स्मद्वचनं क्रियतां। व्यवहारोऽप्य़स्माभिः कृत एव।**
 
@@ -2080,8 +1992,6 @@ who had a merchant-as companion, 'not he to be killed' thus having said
 
 by the garment-skirt held. The king's-men said: Why thus not he to be killed?
 
-
-
 **स आह। श्रूयतां। स्वर्णरेखाम़हं स्पृष्ट्वे़त्यादि पठति।**
 
 He says: Let there be listened. SvarṇarekhâI having touched &c. he recites.
@@ -2141,8 +2051,6 @@ fairy-king the daughter Ratnamañjarîby name (as) having been made to is known:
 **यः कनकपत्तनं स्वचक्षुषा़गत्य पश्यति स एव**
 
 Who the golden-city with his own-eye having approached sees, he verily
-
-
 
 **पितुऱगोचरोऽपि मां परिणेष्यती़ति मनसः संकल्पः।**
 
@@ -2204,8 +2112,6 @@ cowherdess approaching said. Of thee with the separation-fire-burnt that one
 
 by the love-arrows-pierced going to die almost is. Thus and said:
 
-
-
 **रजनीचरनाथेन खंडिते तिमिरे निशि।**
 
 By the ghosts'-lord (moon) being divided darkness at night,
@@ -2265,8 +2171,6 @@ Then early already by this barber his-wife for the razor-case asked being
 **क्षुरमे़कं प्रादात्। ततोऽसमग्रभांडे प्राप्ते समुपजातकोपोऽयं**
 
 knife one (only) gave. Then, the incomplete-case being brought, with excited-anger this
-
-
 
 **नापितस्त़ंक्षरं दूरादे़व गृहे क्षिप्तवान्। अथ कृतार्तरावे़यं**
 
@@ -2328,8 +2232,6 @@ Who here stands merchant, his-history also I tell. He from his-house departed
 
 in twelve-years from the Malaya-slopes to this city come. Here in a house of ill-fame
 
-
-
 **सुप्तः। तस्याः कुट्टन्या गृहद्वारि स्थापितकाष्ठघटितवेतालस्य**
 
 (he) slept. Of that mistress at the house-door of a placed-wood-carved-demon
@@ -2389,8 +2291,6 @@ thus the friend-separation also by me to be made.
 **यतः। अतथ्यान्य़पि तथ्यानि दर्शयंत्य़तिपेशलाः।**
 
 For, Untruths also (like) truths make look very skilful men,
-
-
 
 **समे निम्नोन्नतानी़व चित्रकर्मविदो जनाः॥११३॥**
 
@@ -2452,8 +2352,6 @@ on an embroidered-bed resting even happily,
 
 as certainly on the with Dûrvagrass &c.-strewed-ground
 
-
-
 **प्रयाति सौख्यं परकांतसंगात्॥११८॥**
 
 she derives bliss from a strange-lover's-company. (118)
@@ -2513,8 +2411,6 @@ six-fold the perseverance and, (their) love and (is) eight-fold recorded. (119)
 **अतोऽहं ब्रवीमि। उत्पन्नेष्व़पि कार्येष्व़ित्यादि। करटको ब्रूते।**
 
 Therefore I say: In arisen even occurrences &c. Karataka says:
-
-
 
 **अस्त्वे़वं किंत्व़नयोर्महाऩन्योन्यनिसर्गोपजातस्नेहः कथं**
 
@@ -2576,8 +2472,6 @@ How with this powerful one together you to contend able ? The crowsays:
 
 Enough with this fear,
 
-
-
 **यतः। बुद्धिर्य़स्य बलं तस्य निर्बुद्धेस्त़ुकुतो बलं।**
 
 For, Wit of whom, power of him; of the witless however whence power?
@@ -2637,8 +2531,6 @@ addressed: Why thou delaying approached art? The rabbit said: Sire
 **ना़हम़पराध्यः। आगच्छन्प़थि सिंहांतरेण बलाद्धृ़तः।**
 
 not I to be blamed. Approaching on the way. by another-lionwith force detained:
-
-
 
 **तस्याग्रेपुनरागमनाय शपथं कृत्वा स्वामिनं निवेदयितुम़त्रा़-**
 
@@ -2700,8 +2592,6 @@ the black-serpent seen killed and. Therefore I say: By a stratagem truly
 
 what possible &c. Karataka says: If (it is) thus, then go!Blessed of thee
 
-
-
 **संतु पंथानः। ततो दमनकः पिंगलकसमीपं गत्वा प्रणम्यो-**
 
 may be the ways. Then Dam. to Ping.'s-proximity having gone, having bowed,
@@ -2761,8 +2651,6 @@ the sovereignty even he covets. This having heard Pingalaka with-fear extraordin
 **मत्वा तूष्णीं स्थितः। दमनकः पुनऱाह। देव सर्वामात्यपरित्यागं**
 
 (it) thinking silently stood. Damanaka again says: Sire, of all-ministers-dismissal
-
-
 
 **कृत्वै़क एवा़यं यत्त्व़या सर्वाधिकारी कृतः**
 
@@ -2824,8 +2712,6 @@ This and he knows:
 
 Not that is man in the world who not loves fortune;
 
-
-
 **परस्य युवतीं रम्यां सादरं ने़क्षतेऽत्र कः॥१३१॥**
 
 at another's youthful lovely wife wishfully not looks here who? (131)
@@ -2885,8 +2771,6 @@ For, The old-servants dismissing not adventurers he should cherish,
 **ना़तः परतरो दोषो राज्यभेदकरोयतः॥१३६॥**
 
 not (is there) than that a greater fault, realm-dissension-causing because. (136)
-
-
 
 **सिंहो ब्रूते। किमा़श्चर्यं। मया यद़भयवाचं दत्त्वा़-**
 
@@ -2948,8 +2832,6 @@ he (is) a friend, who (is) unfeigned; he (is) a man, who is tormented not by the
 
 If by Sanñjîvaka's-offence-injured informed even the master not turns away,
 
-
-
 **तद़ीदृशि भृत्ये न दोषः। तथा च।**
 
 then in such a servant not a fault. Thus and:
@@ -3009,8 +2891,6 @@ a little even not should it be broken; that broken not grows. (145)
 **किंच \। आदरस्य प्रदानस्य कर्तव्यस्य च कर्मणः।**
 
 Moreover, Of respect, of a gift, of to be done and work
-
-
 
 **क्षिप्रम़क्रियमाणस्य कालः पिबति तद्रसं॥१४६॥**
 
@@ -3072,8 +2952,6 @@ Master, a for hatching fit-place a concealed one let be arranged. The sandpiper 
 
 Wife, (is) not this very place for hatching-fit? She says: By the sea-tide
 
-
-
 **व्याप्यते स्थानमे़तत्। टिट्टिभोऽवदत्। किम़हं निर्बलः समुद्रेण**
 
 is reached place this, The sandpiper said: What? (am) I powerless by the sea
@@ -3133,8 +3011,6 @@ Garuda in front (was) made known: Sire, by the sea I in my own-house-residing
 **विना़पराधेनै़व निगृहीतः। ततस्त़द्वचनम़ाकर्ण्य गरुत्मता प्रभुर्भ़-**
 
 without offence even oppressed. Then his-word having heard by Garuda the lord,
-
-
 
 **गवांन्ऩारायणः सृष्टिस्थितिप्रलयहेतुर्व़िज्ञप्तः समुद्रम़ं-**
 
@@ -3196,8 +3072,6 @@ By women whose not tormented on earth mind? Who or is of kings a favourite?
 
 Who of death into the arms not and gone? What beggar gone to consequence?
 
-
-
 **को वा दुर्जनवागुरासु पतितः क्षेमेण यातः पुमान्॥१५३॥**
 
 Who or of the wicked-into the snares fallen in peace gone man? (153)
@@ -3257,8 +3131,6 @@ Dam. again says: Enough with dejection. Of the arrived-time-action let be accomp
 **संजीवकः क्षणं विमृश्या़ह। सुष्ठु खल्विदमु़च्यते। स्वगतं।**
 
 Sañjîvaka a moment having reflected says: Well indeed this is said. Aside (he says):
-
-
 
 **किं वा दुर्जनचेष्टितं न वे़त्ये़तद्व्यवहारान्ऩिर्णेतुं**
 
@@ -3320,8 +3192,6 @@ kings? Damanaka says: Thus it (is ). Listen :
 
 By discreet affectionate ones service (rendered) even displeasure incurs, by some,
 
-
-
 **साक्षाद़न्यैऱपकृतम़पि प्रीतिमे़वो़पयाति।**
 
 before the eyes by others offence even favour only finds;
@@ -3381,8 +3251,6 @@ in close-embraces-delighting, to kind-words-and enquiries paying-attention,
 **अंतर्भूतविषो वहिर्म़धुमयश्च़ा़तीव मायापटुः**
 
 with concealed-poison outwardly of honey made up and, exceedingly in guile-clever;
-
-
 
 **को नामायमपूर्वनाटकविधिर्यः शिक्षितो दुर्जनैः॥१६४॥**
 
@@ -3444,8 +3312,6 @@ Another and, A thunderbolt and, a king's-power and, both surely exceedingly-terr
 
 the one in one place falle, it falls the other all around. (168)
 
-
-
 **ततः संग्रामे मृत्युरे़व वरं। इदानीं तदाज्ञानुवर्तनम़युक्तं। यतः।**
 
 Then in battle death only preferable. Now to his-commands-obedience improper. For,
@@ -3505,8 +3371,6 @@ For, A strong one even without-pluck, of whom (is he) not for contempt-an object
 **निःशंकं दीयते लोकैः पश्य भस्मचये पदं॥१७३॥**
 
 Without-fear is set by people, behold, on an ash-heap the foot. (173)
-
-
 
 **किंतु सर्वमे़तत्सु़गुप्तम़नुष्ठातव्यं नो चेन्ऩ त्वं ना़हम़ित्यु़क्त्वा**
 
@@ -3568,8 +3432,6 @@ Pingalaka having killed exhaustedwith-sorrow as it were standssays and:
 
 What by me cruel action done!
 
-
-
 **यतः। परैः संभुज्यते राज्यं स्वयं पापस्य भाजनं।**
 
 For, By others is enjoyed the kingdom, he himself of sin a vessel,
@@ -3629,8 +3491,6 @@ towards guilty beings of kings that verily (is) a fault. (180)
 **अपरं च। राज्यलोभाद़हंकाराद़िच्छतः स्वामिनः पदं।**
 
 Another and, Through dominion-desire, through egotism, of one wishing a master's place,
-
-
 
 **प्रायश्चित्तं तु तस्यै़कं जीवोत्सर्गो न चा़परं॥१८१॥**
 
@@ -3692,8 +3552,6 @@ heard then by you. The king's-sons said: Through your-kindness heard. Pleased
 
 Friend-separation then may be of you of the enemies-in the house!
 
-
-
 **खलः कालाकृष्टः प्रलयमु़पसर्पत्व़हरहः।**
 
 The traitor by Time-dragged on to destruction may go day-by day!
@@ -3709,8 +3567,6 @@ In the story-commencement, in the delightful, perpetually here youth also may de
 **॥इति हितोपदेशे सुहृद्भेदो नाम द्वितीयकथासंग्रहः समाप्तः॥**
 
 Thus in the Hitopadeśa, Friend-separation by name the second-story-collection finished.
-
-
 
 **॥अथ विग्रहः॥**
 
@@ -3761,8 +3617,6 @@ If not there were a man-lord, a competent leader, then the people
 **अकर्णधारा जलधौ विप्लवेते़ह नौऱिव॥२॥**
 
 without-a steersman on the ocean would be tossed about here a ship like. (2)
-
-
 
 **अपरं च। प्रजां संरक्षति नृपः सा वर्धयति पार्थिवं।**
 
@@ -3824,8 +3678,6 @@ and? By me said: Oh! Why thus is spoken? A great difference. For
 
 Karpûradvipa (is) a paradise indeed, the flamingo and a second paradise-king.
 
-
-
 **अत्र मरुस्थले पतिता यूयं किं कुरुथ। अस्मद्देशे गम्यतां।**
 
 Here in a desert-place alighted you what do? To our-country let be gone!
@@ -3885,8 +3737,6 @@ with hands-feet-&c.-endowed you why thus do you sit? (6)
 **तच्छ्रु़त्वा वानरैर्ज़ातामर्षैऱालोचितं। अहो निर्वातनीडगर्भावस्थिताः**
 
 That having heard by the monkeys with roused-anger considered: Oh! in a sheltered-nest's-interior-sitting
-
-
 
 **सुखिनः पक्षिणोऽस्मान्ऩिंदंति। भवतु तावद्वृ़ष्टेरु़पशमः। अनंतरं**
 
@@ -3948,8 +3798,6 @@ with a tiger's-skin-covered through his voice's-fault the ass (was) slain. (9)
 
 The crane asks: How that? The king relates: There is in Hastinâpura
 
-
-
 **विलासो नाम रजकः। तस्य गर्दभोऽतिवाहनाद्दु़र्बलो**
 
 Vilâsa by name a washerman. Of him the ass through over-carrying weakened
@@ -4010,8 +3858,6 @@ they said: Behold,oh fool, that goose of thee the king (is) wholly weak.
 
 Of him to sovereignty-claim not is, for one thoroughly-weak an in the palm-standing
 
-
-
 **प्य़र्थं रक्षितुम़क्षमः स कथं पृथिवीं शास्ति राज्यं वा तस्य**
 
 even thing to guard unable, he how the earth rules, sovereignty or of him
@@ -4069,8 +3915,6 @@ of rain through the absence with thirst-pained an elephant-troop the troop-chief
 **नाथ कोऽभ्युपायोऽस्माकं जीवनाय। ना़स्ति क्षुद्रजंतूनां**
 
 Master, what means of us for the life? Not is there of small-animals
-
-
 
 **निमज्जनस्थानं वयं च निमज्जनस्थानाभावान्मृ़तार्हाइव। किं**
 
@@ -4132,8 +3976,6 @@ I, by the venerable moon you near despatched. The troop-chief says: (Your) busin
 
 let be told! Vijaya says:
 
-
-
 **उद्यतेष्व़पि शस्त्रेषु दूतो वदति ना़न्यथा।**
 
 Being uplifted even the weapons, a messenger speaks not otherwise,
@@ -4191,8 +4033,6 @@ Therefore I say: 'In a fiction even success may be thus. Then
 **मयो़क्तं। स एवा़स्मत्प्रभू राजहंसो महाप्रतापो**
 
 by me said: That verily our-master, the flamingo, (is) of great-majesty,
-
-
 
 **ऽतिसमर्थः। त्रैलोक्यस्या़पि प्रभुत्वं तत्र युज्यते किं**
 
@@ -4254,8 +4094,6 @@ of wealth a producer and likewise should appoint as minister a king. (17)
 
 There meanwhile by a parrot said: Sire Karpûradvipa-&c. the small-islands
 
-
-
 **जंबुद्वीपांतर्गता एव। तत्रा़पि देवपादानामे़वा़धिपत्यं।**
 
 in Jambudvîpa-included verily. There also of Y. M.'s-feet certainly the sovereignty.
@@ -4311,8 +4149,6 @@ The vulture says: There are surely ambassadors many, but a Brâhmanonly to be ma
 **यतः। प्रसादं कुरुते पत्युः संपत्तिं ना़भिवांछति।**
 
 For, The pleasure he does of the master, prosperity not he desires;
-
-
 
 **कालिमा कालकूटस्य ना़पैती़श्वरसंगमात्॥२०॥**
 
@@ -4374,8 +4210,6 @@ by the sun's-glare his-face reached seeing by the on that-tree-standing goose
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **कृपया पक्षौ प्रसार्य पुनस्त़न्मुखे छाया कृता। ततो**
 
 through pity both wings having spread forth again on his-face shade made. Then
@@ -4435,8 +4269,6 @@ you also. By the parrot said: Be it thus, however
 **दुर्जनैरुच्यमानानि संमतानि प्रियाण्य़पि।**
 
 By the wicked being spoken approved kind (words) even
-
-
 
 **अकालकुसमानी़व भयं संजनयंति हि॥२३॥**
 
@@ -4498,8 +4330,6 @@ disconcerted she became. Then by the lover said: Why thusthou to-day me
 
 with heartily not amusest thyself? Alarmed as it were appearest to me thou.
 
-
-
 **तयो़क्तं। अनभिज्ञोऽसि। मम प्राणेश्वरो येन ममा़कौमारं**
 
 By her said: Ignorant art thou, Of me the life-lord, with whom of me from-childhood
@@ -4559,8 +4389,6 @@ art loved, sometimes not art loved and. That and master me to sell, to the gods
 **ब्राह्मणेभ्योऽपि दातुम़ीश्वरः। किं बहुना। तस्मिञ्ज़ीवति **
 
 to the Brâhmans also to give (is) free. What with much? 'In him living
-
-
 
 **जीवामि तन्मरणे चा़नुमरणं करिष्यामी़ति प्रतिज्ञा वर्तते।**
 
@@ -4622,8 +4450,6 @@ I by that king, according to-custom having honoured (me) despatched. The parrot
 
 also me after approaching continues. This all having learned, as to be acted
 
-
-
 **नुसंधीयतां। चक्रवाको विहस्या़ह। देव वकेन तावद्दे-**
 
 let it be arranged! The Chakravâka smiling says: Sire, by the crane then
@@ -4683,8 +4509,6 @@ of the learned a livelihood (is) a fool; one of good-caste a livelihood of the g
 **राजा़ब्रवीत्। भवतु। कारणम़त्रपश्चान्ऩिरूपणीयं संप्रति**
 
 The king said: Let it be! The cause here afterwards to be investigated, at present
-
-
 
 **यत्क़र्तव्यं तन्ऩिरूप्यतां। चक्रवाको ब्रूते। देव प्रणिधिस्त़ावत्प़्रहीयतां।**
 
@@ -4746,8 +4570,6 @@ For, By six-ears (heard) is split counsel, thus reached and by report'
 
 thus himself-the second counsel to be made by a king. (36)
 
-
-
 **पश्य। मंत्रभेदेऽपि ये दोषा भवंति पृथिवीपते।**
 
 Behold, In counsel-breach also which injuries are, O earth-lord,
@@ -4807,8 +4629,6 @@ Another and, By conciliation, by a giving, by separation combined or separately
 **साधितुं प्रयतेता़रीन्ऩ युद्धेन कदाचन॥४०॥**
 
 to settle he should strive enemies, not by war at any time. (40)
-
-
 
 **अपरं च। सर्व एव जनः शूरो ह्य़नासादितविग्रहः।**
 
@@ -4870,8 +4690,6 @@ that battle an elephant with of men death may bring. (46)
 
 Another and, He (is) a fool, (proper) time not having found who upon an opponent turns ;
 
-
-
 **कलिर्ब़लवता सार्धं कीटपक्षोद्यमो यथा॥४७॥**
 
 fighting a strong one with (is) insect-wings-fluttering as. (47)
@@ -4932,8 +4750,6 @@ Extensiveness, exceeding-steepness, of liquor-grain-fuel-a store
 
 an entrance and, egress and, seven these fortress-excellences. (53)
 
-
-
 **राजा़ह। दुर्गानुसंधाने को नियुज्यतां। चक्रो ब्रूते।**
 
 The king says: In a fort's-construction who shall be employed? The Chakravâka says:
@@ -4993,8 +4809,6 @@ with-retinue at the door stands. Your Majesty's-foot to see he desires. The king
 **काकाः पुनः सर्वज्ञा बहुद्रष्टारश्च़। तद्भ़वति संग्राह्य**
 
 Crows surely (are) every thing-knowing much-seeing and. Therefore he is to be received'
-
-
 
 **इत्य़नुवर्तते। चक्रो ब्रूते। देव अस्त्ये़वं किंतु काकः स्थलचरस्**
 
@@ -5058,8 +4872,6 @@ beginning in the wood according to my-order administration to be made. The jacka
 
 him of distinguished-colour seeing with the eight-limbs'-prostration having bowed, said
 
-
-
 **यथा़ज्ञापयसे देव इति। अनेनै़व क्रमेण सर्वेष्व़रण्यवासिष्व़ा-**
 
 'As thou commandest, Sire' thus. In this very way over all wood-inhabitants
@@ -5119,8 +4931,6 @@ For, What natural disposition namely of whom is, that always hard-to be overcome
 **श्वा यदि क्रियते राजा तत्क़िंना़श्नात्यु़पानहं॥५८॥**
 
 a dog if is made king, then (what?) not does he gnaw the shoe? (58)
-
-
 
 **ततः शब्दाद़भिज्ञाय स व्याघ्रेण हतः। तथा चो़क्तं।**
 
@@ -5182,8 +4992,6 @@ of fortune or use is, then with-haste having approached before-our feet bow,
 
 not if, for to reside of another place think! The king with anger says: Ha, some
 
-
-
 **ऽप्य़स्माकं पुरतो ना़स्ति य एनं गलहस्तयति। उत्थाय मेघवर्णो**
 
 of us in front not is, who that one by the neck seizes? Up-rising Meghavarṇa
@@ -5243,8 +5051,6 @@ country? The parrot says:Sire, in brief this news: Now war-commencement
 **क्रियतां देशश़्च़ासौ कर्पूरद्वीपः स्वर्गैकदेशो राजा च**
 
 let be made! country and that Karpûradvipa of paradise-a part, the king and
-
-
 
 **द्वितीयः स्वर्गपतिः कथं वर्णयितुं शक्यते। ततः सर्वाञ्श़िष्टाऩाहूय**
 
@@ -5306,8 +5112,6 @@ For, Engage with rashness fools who not-deliberating the enemy's-forces,
 
 a sword-edge-embrace receive they most assuredly. (67)
 
-
-
 **राजा़ह। मंत्रिन् ममोत्साहभंगं सर्वथा मा कृथाः। विजिगीषुर्य़था**
 
 The king says: Minister, of me energy-breach wholly not do make! Wishing to conquer how
@@ -5367,8 +5171,6 @@ by the ministers, excellent-warriors accompanied taking up the force the king. (
 **समेयाद्व़िषमं नागैर्ज़लाढ्यं समहीधरं।**
 
 he should cross the uneven (ground) with elephants, the in water-abounding hilly,
-
-
 
 **समम़श्चैर्ज़लं नौभिः सर्वत्रै़व पदातिभिः॥७३॥**
 
@@ -5430,8 +5232,6 @@ The foot-soldiers and the earth-protector in front of the army should set;
 
 blockading the enemy he should continue, the realm and of him he should oppress. (80)
 
-
-
 **स्यंदनाश्वैःसमे युध्येद़नूपे नौद्विपैस्त़था।**
 
 With chariots-and horse on level ground he should fight, on swampy with boats-and elephants groundlikewise ;
@@ -5492,8 +5292,6 @@ of renowned-Kshatriyas-chiefly consisting force the best they consider (87)
 
 As through by the commander-bestowed honour, fight in the world, men,
 
-
-
 **न तथा बहुभिर्द़त्तैर्द़्रविणैऱपि भूपतेः॥८८॥**  
 not thus for many given treasures even of an erath-load. (88)
 
@@ -5552,8 +5350,6 @@ His own-realm should populate a king by from the enemy’s-country-leading away,
 **अथवा दानमानाभ्यां वासितं धनदंहि तत्‌॥९५॥**
 
 or by generosity-and patronage; populated revenue-yielding (is) certainly that. (95)
-
-
 
 **राज़ाह। आः किं बहुनोदितेन।**
 
@@ -5617,8 +5413,6 @@ The king says: Not ever that. If thus, then why by him of the parrot
 
 defeat-effort made? Sincethe parrot’s approach of that one the war-exertion;
 
-
-
 **चिराद़त्रा़स्ते। मंत्री ब्रूते।तथा़प्य़ागंतुः शंकनीयः।**
 
 he since long here stays: The minister saye: Thus even a stranger to be suspected.
@@ -5679,8 +5473,6 @@ the pay?Viravara:says: Daily of Suvarnas-five hundred give! The king says:
 
 What of thethe retinue? Viravara says: Two arms, as third and a sword.
 
-
-
 **राजा़ह। ऩैतच्छ़क्यं। तच्छु़त्वा वीरवरश्च़लितः। अथ**
 
 The king says: Not (is) this possible. This having heard Viravara departed. Then
@@ -5740,8 +5532,6 @@ departed. By the king and reflected: Not this proper. This alone king’s-son
 **मया सूचीभेद्ये तमसि प्रेरितः। तद़नुगत्वा किमे़-**
 
 by me: in with a needle-pierceable darkness despatched. Therefore following, ‘what
-
-
 
 **तद़िति निरूपयामि। ततोराजा़पि खड्गम़ादाय तदनुसरण-**
 
@@ -5805,8 +5595,6 @@ I, such for the master’s-sovereignty’s-preservation’s-sake that of me use 
 
 Then what now for delay cause? In such an action of the body employment (is)
 
-
-
 **श्लाघ्यः। यतः।**
 
 praiseworthy. For.
@@ -5866,8 +5654,6 @@ to this onesimilar in the world not has been, not will be. (101)
 **तदै़तेन परित्यक्तेन मम राज्येना़प्य़प्रयोजनं। ततः शूद्रकेणा़पि**
 
 Then of him deprived of me of the kingdom even no-use. Then by Sudraka also
-
-
 
 **स्वशिरश्छ़ेत्तुंखड्गःसमुत्थापितः। अथ भगवत्यासर्वमंगलया**
 
@@ -5929,8 +5715,6 @@ the kingthought: How (is) he to be praised, of great-excellence? For,
 
 Kind (words) should he speak not-doleful; a hero he should be not-boastings;
 
-
-
 **दाता ना़पात्रवर्षीच प्रगल्भःस्याद़निष्ठुरः॥१०२॥**
 
 generous not upon the unworthy-showering and; confident should he be not-harsh. (102)
@@ -5990,8 +5774,6 @@ moon’s-half-as crest-jewel bearing long worshipped. Then with destroyed-sin he
 **स्वप्ने दर्शनं दत्त्वाभगवदादेशाद्य़क्षेश्वरेणा़-**
 
 in sleep a vision having given, upon His Holiness’-command by the Yaksha-lord (was)
-
-
 
 **दिष्टः। यत्त्व़म़द्य प्रातः क्षौरं कृत्वा लगुडं हस्ते**
 
@@ -6053,8 +5835,6 @@ then now what to be done? The minister says: Sire, from the arrived-spy’s-mout
 
 by me heard, of his-great-minister the vulture for the advice that by Chitravarṇa disregard
 
-
-
 **कृतः। ततो ऽसौमूढो जेतुं शक्यः। तथा चो़क्तं।**
 
 shown, Therefore that fool defeated can be. Thus and said:
@@ -6114,8 +5894,6 @@ in the day-sleeping should attack a through sleep-confused-soldier. (111)
 **अतस़्तस्य प्रमादिनो बलंगत्वा यथावकाशं**
 
 Therefore of that negligent (one) the force, having gone, according to-opportunity
-
-
 
 **दिवानिशं घ्नंत्व़स्मत्सेनापतयः। तथा़नुष्ठिते चित्रवर्णस्य सैनिकाः**
 
@@ -6177,8 +5955,6 @@ not and also by one with through efforts-overpowered-mind
 
 successes can be obtained eminent;
 
-
-
 **नये च शौर्येच वसंति संपदः॥११६॥**
 
 in policy and in valour and dwell fortunes. (116)
@@ -6238,8 +6014,6 @@ of policy-book-sayings-the moonlight with talk-torches does he darken? For,
 **यस्य ना़स्ति स्वयं प्रज्ञा शास्त्रंतस्य करोति किं।**
 
 Of whom not there is of himself intelligence, a book of him does what?
-
-
 
 **लोचनाभ्यां विहीनस्य दर्पणःकिं करिष्यति॥११९॥**
 
@@ -6303,8 +6077,6 @@ thee in no-long time to the Vindhya-mountain I shalllead. The king says: How now
 
 with a very-small-force that is possible? The vulture says: Sire, all will be.
 
-
-
 **यतो विजिगीषोऱदीर्घसूत्रता विजयसिद्धेऱ-**
 
 Because of one wishing to conquer want of-dilatoriness of victory-accomplishment
@@ -6365,8 +6137,6 @@ excessive-expenditure not is O king on (these) eight. (124)
 
 For, A fool through very-small-expense’s-dread of the whole-ruin makes namely;
 
-
-
 **कःसुधीःसंत्यजेद्भ़ांडं शुल्कस्यै़वा़तिसाध्वसात्‌॥१२५॥**
 
 What wise man would abandon his box of the toll merely through excessive-dread? (125)
@@ -6425,8 +6195,6 @@ of these deprived an earth-protector incurs surely censure. (129)
 **ईदृशि प्रस्तावे ऽमात्यास्त़ावदे़व पुरस्कर्तव्याः। तथा चो़क्तं।**
 
 On such an occasion the ministers first verily to be distinguished. Thus and said:
-
-
 
 **यो येन प्रतिबद्धः स्यात्स़ह तेनो़दयी व्ययी।**
 
@@ -6488,8 +6256,6 @@ says: Not thus! If out going to be fought, then to a fortrees-resorting verily
 
 (is)useless. Another and,
 
-
-
 **विषमो हि यथा नक्रः सलिलान्ऩिर्गतो ऽवशः।**
 
 Ferocious namely as an alligator from the water departed powerless,
@@ -6549,8 +6315,6 @@ Then, not-risen even (having) the sun, at the four also fortress-doors going on
 **युद्धे दुर्गाभ्यंतरगृहेष्वे़कदाकाकेऱग्निर्ऩिक्षिप्तः। ततो**
 
 the battle into the fortress’-interior-housesat onceby the crows fire thrown. Then
-
-
 
 **गृहीतं गृहीतं दुर्गम़िति कोलाहलं श्रुत्वा सर्वतः प्रदीप्ताग्निम़-**
 
@@ -6612,8 +6376,6 @@ The king says: True certainly this; however,
 
 An honest, expert, attached and, I know, attendant also hard-to be found. (140)
 
-
-
 **सारसो ब्रूते। शृणु देव। यदि समरम़पास्य ना़स्ति मृत्यो-**
 
 Sârasa says: Listen, Sire, If battle avoiding not is of death
@@ -6673,8 +6435,6 @@ Now by the cock, having approached, on the flamingo’s body with very sharp-spu
 **घातः कृतः। सत्वरमु़पसृत्य सारसेन स्वदेहांतरितो राजा**
 
 onslaught made. With-haste coming up, by Sârasawith his own-body-covered the king
-
-
 
 **जले क्षिप्तः। अथ कुक्कुटैर्ऩखप्रहारजर्जरीकृतेन सारसेन**
 
@@ -6736,8 +6496,6 @@ Wherever (is) slain a hero by enemies surrounded,
 
 imperishable he obtains worlds, if to unmanliness not he goes. (148)
 
-
-
 **अपरम़प्ये़वम़स्तु।**
 
 Further also thus it be!
@@ -6750,16 +6508,12 @@ War by elephants-horses-foot soldiers not ever (be) of you kings!
 
 By policy-counsel’s-winds struck may resort to amountain-precipice enemies! (149)
 
-
 **॥इति हितोपदेशे विग्रहो नाम तृतीयकथासंग्रहःसमाप्तः॥**  
 Thus in the Hitopadeśa War by name the third-story-collection finished.
-
-
 
 **॥अथ संधिः॥**
 
 **NOW CONCILIATION.**
-
 
 **पुनः कथारंभकाले राजपुत्रैरु़क्तं। आर्यविग्रहःश्रुतो**
 
@@ -6804,8 +6558,6 @@ therefore, Ithink, of him only the doing this. The king a moment having reflecte
 **अस्ति तावदे़व।मम दुर्दैवमे़तत्‌। तथा चो़क्तं।**
 
 It is so verily. Of me the evil-fate this. Thus and said:
-
-
 
 **अपराधः स दैवस्य न पुनर्म़ंत्रिणाम़यं।**
 
@@ -6867,8 +6619,6 @@ in the morning fishes-tortoises-&c. to be killed. That having heard the tortoise
 
 the two geese accosts:Friends, heardthis fishermen’s-conversation. Now what
 
-
-
 **मया कर्तव्यं। हंसाव़ाहतुः। ज्ञायतां पुनस्त़ावत़्प्रातर्य़-**
 
 by me to be done? The geese say: Let it be known however first; in the morning
@@ -6928,8 +6678,6 @@ Yadbhavishya asks: How that? Pratyutpannamati relates: Formerly
 **विक्रमपुरे समुद्रदत्तोनाम बणिग़स्ति। तस्य रत्नप्रभा**
 
 in Vikramapura Samudradatta by name a merchant was. Of him Ratnaprabhā
-
-
 
 **नाम गृहिणी स्वसेवकेन सह सदा रमते। अथै़कदा सा**
 
@@ -6991,8 +6739,6 @@ stood. Afterwards from the net away-thrown according to-strength up-leaping deep
 
 water entered. Yadbhavishya and by the fishermen caught (was) killed.
 
-
-
 **अतो ऽहं ब्रवीमि। अनागतविधाते़त्यादि।तद्य़था़हम़न्यह्रदं**
 
 Therefore I say: For the future-preparing &c. Then how Ianother-lake
@@ -7052,8 +6798,6 @@ of the sorrow-pained cranes the lamentation having heard by some crane said:
 **एवं कुरुत। यूयं मत्स्यानु़पादाय नकुलविवरादा़रभ्य**
 
 Thus do! You fisheshaving taken, from an ichneumon’s-hole beginning
-
-
 
 **सर्पविवरं यावत्प़ंक्तिक्रमेण विकिरत। ततस्त़दाहारलुब्धैर्ऩ-**
 
@@ -7115,8 +6859,6 @@ that tortoise with anger-filled having forgotten-the former-agreement says: ‘B
 
 ashes to be eaten’ thus saying still fallen by them killed and. Therefore I
 
-
-
 **ब्रवीमि। सुहृदां हितकामानाम़ित्यादि। अथ प्रणिधिर्व़कस्त़त्रा़गत्यो़-**
 
 say: Of friends well-wishing &c. Now the spy, the crane, there having approached
@@ -7176,8 +6918,6 @@ the vulture said: Sire, not (is) this proper; another-favour whatever be bestowe
 **यतः।** **अविचारयतो युक्तिकथनं तुषखंडनं।**
 
 For, To a not-reflecting arguments-telling (is) husk-grinding.
-
-
 
 **नीचेषू़पकृतं राजन्ब़ालुकास्व़िव मुद्रितं॥१२॥**
 
@@ -7239,8 +6979,6 @@ this’ thus looks. Then that saint seeing the tiger and, all say:
 
 By this saint the mouse to a tiger’s-state led. This having heard that
 
-
-
 **व्याघ्रोऽचिंतयत्‌। यावद़नेन मुनिना स्थातव्यं तावदि़दं मे**
 
 tiger reflected: As long as by that saint tobe remained, so long this of my
@@ -7300,8 +7038,6 @@ in the town’s-neighbourhood by me heard. Therefore ‘from livelihood-want sur
 **स्मन्मरणमु़पस्थितमि़ति ज्ञात्वा़हारे ऽप्य़नादरः कृतः। ततो**
 
 our-death approached’ thus having perceived for food also disregard made. Then
-
-
 
 **मत्स्यैरा़लोचितं। इह समये तावदु़पकारक एवा़यं**
 
@@ -7363,8 +7099,6 @@ many fishes &c, Then Chitravarṇa said: Listen first, minister! By me
 
 this considered is, Here remaining by Meghavarṇa as king as many things
 
-
-
 **कर्पूरद्वीपस्यो़त्तमानि तावंत्य़स्माकमु़पनेतव्यानि। तेना़स्माभिर्म़-**
 
 ofKarpûradvîpa excellent, so many to us to be conveyed. Thereby by us
@@ -7424,8 +7158,6 @@ on her excessive-affection I shall bestow. The rival wives if quarrel shall make
 **तदा कोपाकुलो ऽहं ता लगुडेन ताडयिषयामी़त्य़भिधाय**
 
 then with anger-overwhelmed I those with a stick shall beat, thus saying
-
-
 
 **लगुडः क्षिप्तः। तेन शक्तुशरावश्चूर्णितोभांडानि बहूनि भग्नानि।**
 
@@ -7487,8 +7219,6 @@ broken, fame and gained already. Of me the opinion at least this,
 
 For, Who namely duty preferring, disregarding the master’s liking-and disliking,
 
-
-
 **अप्रियाण्या़ह तथ्यानि तेन राजा सहायवान्‌॥१८॥**
 
 disagreeable tells truths, through him (is) a king companion-endowed. (18)
@@ -7548,8 +7278,6 @@ and lovelinese-desirous by the two world-destroyers in mind longing by sin-darke
 **मतौकृतायां स एव भट्टारको वृद्धद्विजरूपः समागत्य**
 
 opinion being made, that very deity in an old-Brâhman's-formhaving come near
-
-
 
 **तत्रोपस्थितः। अनंतरमा़वाभ्यामि़यं स्वबललब्धा**
 
@@ -7611,8 +7339,6 @@ The truthful will observe truth; allied not does he go to change;
 
 in life-destruction even very-manifestly the noble not descends to ignobility. (23)
 
-
-
 **धार्मिकस्या़भियुक्तस्य सर्वएव हि युध्यते।**
 
 For the just (being) attacked everyone even truly fights,
@@ -7672,8 +7398,6 @@ The Chakravâka said:Spy, everywhere go! All (is)understood. Having gone
 **पुनरा़गमिष्यसि। राजा चक्रवाकं पृष्टवान्‌।मंत्रिन्ऩसंधेयाः**
 
 again thou wilt come back. The king the Chakravâka asked:Minister, not-to be conciliated
-
-
 
 **कति। ताञ्श्रो़तुमि़च्छामि। मंत्री ब्रूते। देव कथयामि। शृणु।**
 
@@ -7735,8 +7459,6 @@ Because of exertion-power’s-want an old man, one long-diseased likewise
 
 by their own (people) even are contemned both together these without-doubt. (36)
 
-
-
 **सुखोच्छेद्योहि भवति सर्वज्ञातिवहिष्कृतः।**
 
 Easily-to be destroyed surely is one by all-relations-spurnt,
@@ -7796,8 +7518,6 @@ thus the to fate-(only) trusting thinking not himself also exerts.(43)
 **दुर्भिक्षव्यसनी चै़व स्वयमे़व विषीदति।**
 
 One with famine-distressed and surely of himself already sinks;
-
-
 
 **बलव्यसनयुक्तस्य योद्धुं शक्तिर्ऩजायते॥४४॥**
 
@@ -7859,8 +7579,6 @@ power, counsel-power, a sovereign’s-power and, thus power-triad.This
 
 having considered constantly going to conquer are the great.
 
-
-
 **या हि प्राणपरित्यागमूल्येना़पि न लभ्यते।**
 
 Which namely for life-sacrifice’s-price even not is obtained,
@@ -7920,8 +7638,6 @@ having given to Siṁhaladvîpa despatched. Now the spy having approached said:
 **देव श्रूयतां तत्रत्यप्रस्तावः। एवं तत्र गृध्रेणो़क्तं।**
 
 Sire, let be listened to the there-transaction! Thus there by the vulture said:
-
-
 
 **यद्दे़व मेघवर्णस्त़त्रचिरमु़षितः स वेत्ति किं संधेय-**
 
@@ -7983,8 +7699,6 @@ The king said: How that? Meghavarṇa relates: There was in Gautama’s forest
 
 having undertaken-a sacrifice some Brâhman. He and for the sacrifice’s-sake
 
-
-
 **ग्रामांतराच्छ़ागमु़पक्रीय स्कंधे नीत्वा गच्छन्‌**
 
 from another-village a goat having bought onthe shoulder carrying (it) going
@@ -8044,8 +7758,6 @@ by them roaming about some camel seen asked and.Whence you approached
 **सार्थाद्भ्रष्टः। स चा़त्मवृत्तांतम़कथयत्‌। ततस्तै़र्नी़त्वा**
 
 from a caravan straying? He and his-history told. Then by them having conducted (him)
-
-
 
 **सिंहे ऽसौसमर्पितः। तेना़भयवाचं दत्त्वाचित्रकर्ण इति**
 
@@ -8107,8 +7819,6 @@ Thus having reflected all the lion-near went. By the lion said: For food’s-sak
 
 anything obtained? By them said: With pains even not obtained anything.
 
-
-
 **सिंहेनो़क्तं। को ऽधुना जीवनोपायः। काको वदति। देव स्वाधीना-**
 
 By the lion said: Whatnow living-means? The crow says: Sire, through the on
@@ -8168,8 +7878,6 @@ not found. By much-fasting-exhausted (is) my lord, therefore now my-flesh
 **पभुज्यतां।यतः।**
 
 let be eaten! For,
-
-
 
 **स्वामिमूला भवंत्ये़व सर्वाः प्रकृतयः खलु।**
 
@@ -8231,8 +7939,6 @@ by one the master’s-profit-seeking, for one’s own-aims’-sake or what not i
 
 Behold: People do they carry (what?), O king, not on the head to burn (it) fuel?
 
-
-
 **क्षालयन्ऩपि वृक्षांघ्रिंनदीवेलानिकृंतति॥६०॥**
 
 Washing also a tree’s-foot a river’s-current tears (it) down. (60)
@@ -8292,8 +7998,6 @@ Thus and said: At a festival, in distress, in battle, in famine, in realm-tumult
 **राजद्वारे श्मशाने च यस्ति़ष्ठति स बांधवः॥६२॥**
 
 at the king’s-door, on the cemetery and who remains, he a relation.(62)
-
-
 
 **तत्रकपिलो नाम स्नातको ऽवदत्। अरे कौंडिन्य मूढो**
 
@@ -8355,8 +8059,6 @@ sovereignty, friends’-society; fascinated should be there not the wise. (68)
 
 As a plank and a plank and may meet on the mighty-water-receptacle,
 
-
-
 **समेत्य च व्यपेयातां तद्वद्भू़तसमागमः॥६९॥**
 
 having met and may part, thus of beings-the meeting. (69)
@@ -8416,8 +8118,6 @@ Another and, There run on, not return, the waves of rivers as,
 **आयुरा़दाय मर्त्यानां तथा रात्र्यहनी सदा॥७६॥**
 
 the life taking away of mortals thus night-and day always. (76)
-
-
 
 **सुस्वास्वादपरो यस्तु़ संसारे सत्समागमः।**
 
@@ -8479,8 +8179,6 @@ Therefore here thyself compose! Sorrow-searching avoid! For,
 
 Of the not-by arrow-fall-produced of the limbs the joints-cutting
 
-
-
 **गाढशोकप्रहाराणाम़चिंतै़व महौषधी॥८३॥**
 
 deep-sorrow’s-blows not-reflection only the great-remedy. (83)
@@ -8540,8 +8238,6 @@ truth-as water, character-as banks, tenderness-as waves;
 **तत्रा़भिषेकं कुरु पांडुपुत्र**
 
 there ablution make, OPâṇḍu-son!
-
-
 
 **न वारिणा शुध्यति चा़ंतरात्मा॥८७॥**
 
@@ -8603,8 +8299,6 @@ This having heard that Kauṇḍinya by Kapila’s-advice-nectar-being allayed-(
 
 according-to rule staff-taking made. Therefore through the Brâhman’s-curse frogs
 
-
-
 **वोढुम़त्रतिष्ठामि। अनंतरं तेन मंडूकेन गत्वा मंडूकनाथस्य**
 
 to carry here I stay. Thereupon by that frog, having gone, of the frog-lord
@@ -8665,8 +8359,6 @@ from Jambudvîpa having arrived,by the parrot said: Sire, of Siṁhaladvîpa the
 
 king now Jambudvîpa having invaded remains (there).The king with-confusion
 
-
-
 **ब्रूते। किं किं। शुकः पूर्वोक्तं कथयति। गृध्रःस्वागतमु़-**
 
 says: What? what? The parrotthe before-said relates. The vulture to himself
@@ -8726,8 +8418,6 @@ by name a Brâhman. Of him the wife having born, of the young-child for protecti
 **ब्राह्मणम़वस्थाप्यस्नातुंगता। अथ ब्राह्मणाय राज्ञः पार्वण-**
 
 the Brâhman having left, to bathegone. Now to the Brâhman the king’s monthly
-
-
 
 **श्राद्धं दातुमा़ह्वानमा़गतं। तच़्छ्रुत्वाब्राह्मणःसहज-**
 
@@ -8790,8 +8480,6 @@ approaching at the child looks the Brâhman, then the child healthy the serpent 
 
 killed lies. Then that as a benefactor ichneumon having recognized with reflecting-
 
-
-
 **चेताः स परं विषादम़गमत्‌। अतो ऽहं ब्रवीमि। यो ऽर्थतत्त्वम़-**
 
 mind he to extreme grief went. Therefore I say: Who a thing’s-true state
@@ -8851,8 +8539,6 @@ number-merely (is) the fruit of them; success in negotiation grounded. (99)
 **राजा़ह। कथमे़वं संभवति। मंत्री ब्रूते। देव सत्वरं भविष्यति।**
 
 The king says: How thus is it possible?The minister says: Sire, with-haste it will be.
-
-
 
 **यतः। अज्ञः सुखमा़राध्यः सुखतरमा़राध्यते विशेषज्ञः।**
 
@@ -8914,8 +8600,6 @@ the habit this of the slow-minded: Sometimes fear at all not is made,
 
 sometimes everywhere fear.Thus namely,
 
-
-
 **सरसि बहुशस्ता़राच्छायेक्षणात्प़रिवंचितः**
 
 On a pond often through star-images'-perception deceived
@@ -8975,8 +8659,6 @@ a fool with wish-compliance, with truthfulness the wise. (104)
 **अन्यच्च़। सद्भावेन हरेन्मि़त्रं संभ्रमेण तु बांधवान्‌।**
 
 Another and, With good-character he should win a friend, with reverence however relations,
-
-
 
 **स्त्रीभृत्यौ दानमानाभ्यां दाक्षिण्येने़तराञ्ज़नान्‌॥१०५॥**
 
@@ -9039,8 +8721,6 @@ The Kapâla-alliance to be known simply as (made) through equal-alliance,
 
 through a gift is which, Upahâra that is called.(110)
 
-
-
 **संतानसंधिर्वि़ज्ञेयो दारिकादानपूर्वकः।**
 
 The Santâna-alliance to be known as by a daughter’s-gift-preceded;
@@ -9100,8 +8780,6 @@ of well-united-authority surelythat and Saṁyoga is called. (117)
 **आवयोर्यो़धमुख्यैस्तु़ मदर्थः साध्यतामि़ति।**
 
 'Ofus two by the warrior-chiefs truly my-object let be accomplished’ thus
-
-
 
 **यस्मिन्प़णस्तु़क्रियते स संधिः पुरुषांतरः॥११८॥**
 
@@ -9163,8 +8841,6 @@ Mutual-assistance surely, friendship, relationship likewise,
 
 the with presents concluded and to be known as four also onlyalliances. (125)
 
-
-
 **एक एवो़पहारस्तु़संधिरे़व मतो मम।**
 
 The one only with presents concluded however alliance truly (is) approved by me,
@@ -9220,8 +8896,6 @@ Then of me according to the opinion this verily let be done! For,
 **अश्वमेधसहस्राणि सत्यं च तुलया कृतं।**
 
 Aśvamedha-thousands truth and on a balance placed—
-
-
 
 **अश्वमेधसहस्राद्ध़िसत्यमे़वा़तिरिच्यते॥१३१॥**
 
@@ -9279,8 +8953,6 @@ happy (have) become we. Vishṇuśarman said: If also so, thus even
 
 further also this be:
 
-
-
 **संधिः सर्वमहीभुजां विजयिनाम़स्तु प्रमोदःसदा**
 
 Peace of all-sovereigns victorious be the delight always!
@@ -9297,39 +8969,9 @@ Policy alovely woman like constantly at the bosom resting
 
 the mouth may kiss of ministers! Day by day may be great rejoicing! (132)
 
-
-
 **॥ इति हितोपदेशे संधिर्ऩाम चतुर्थकथासंग्रहः समाप्तः॥**
 
 Thus in the Hitopadeśa Reconciliation by name the fourth-story-collection finished.
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

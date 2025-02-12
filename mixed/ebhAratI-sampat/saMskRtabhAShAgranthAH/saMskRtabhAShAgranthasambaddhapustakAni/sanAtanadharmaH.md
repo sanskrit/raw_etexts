@@ -15,31 +15,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc3ODM0NTY1MzM
 
 \[
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 FOREWORD.
 
  The Board of Trustees of the Central Hindu College has laid down the following principles on which religious and moral teaching is to be given in all Institutions under its control.
 
  The object of the Central Hindu College being to combine Hindu religious and ethical training with the western education suited to the needs of the time, it is necessary that this religious and ethical training shall be of a wide, liberal and unsectarian character, while at the same time it shall be definitely and distinctively Hindu. It must be inclusive enough to unite the most divergent forms of Hindu thought, but exclusive enough to leave outside it forms of thought which are non-Hindu. It must avoid all doctrines which are the subject of controversy between schools recognised as orthodox; it must not enter into any of the social and political questions of the day; but it must lay a solid foundation of religion and ethics on which the student may build, in his manhood, the more specialised principles suited to his intellectual and emotional temperament. It must be directed to the building up of a character– pious, dutiful, strong,
-
-
 
 self-reliant, upright, righteous, gentle and wellbalanced— a character which will be that of a good man and a good citizen; the fundamental principles of religion, governing the general view of life and of life's obligations, are alone sufficient to form such a character. That whic unites Hindus in a. common faith must be clearly and simply taught; all that divides them must be ignored. Lastly, care must be taken to cultivate a wide spirit of tolerance, which not only respects the differences of thought and practice among Hindus, but which also respects the differences of religion among non-Hindus, regarding all faiths with reverence, as roads whereby men approach the Supreme.
 
@@ -53,8 +39,6 @@ Therefore:–
 
  The Text Book is intended to be studied by Hindu youths in Colleges, after the elementary one and the Catechism have been mastered in school
 
-
-
 days. It follows exactly the same general plan, filling in the broad outlines given in the elementary one, and supplying details which were not before introduced, lest they should confuse the minds of young learners.
 
  It follows the same principle of expounding beliefs common to the vast majority of Hindus, avoiding special sectarian views. In the Introduction a very brief sketch of the great Schools is given, as every youth should know of their existence and of their distinguishing marks.
@@ -63,11 +47,7 @@ days. It follows exactly the same general plan, filling in the broad outlines gi
 
  May this book also aid in the great work of building up the national Religion, and so pave theway to national happiness and prosperity.
 
-
-
 ![](../books_images/U-IMG-173383305876.png)
-
-
 
 **CONTENTS**
 
@@ -102,8 +82,6 @@ CUSTOMS AND RITES.
 | CHAPTER VI.  | THE FOUR STAGES OF LIFE.   |
 | CHAPTER VII. | THE CASTE SYSTEM.          |
 
-
-
 **PART III.**
 
 **ETHICAL TEACHINGS.**
@@ -122,19 +100,9 @@ CUSTOMS AND RITES.
 | CHAPTER X.    | VIRTUES & VICES IN RELATION TO INFERIORS....                          |
 | CHAPTER XI.   | THE RE-ACTION OF VIRTUES AND VICES ON EACH OTHER.                     |
 
-
-
-
-
-
-
-
-
 PART I.
 
 BASIC HINDU RELIGIOUS IDEAS.
-
-
 
 **ॐ**
 
@@ -147,8 +115,6 @@ INTRODUCTION.
 
 ** श्रीगणेशाय नमः।** The Religion based on the Vedas, the Sanâtana Dharma, or Vaidika Dharma, is the oldest of living Religions, and stands unrivalled in the depth and splendour of its philosophy, while it yields to none in the purity of its ethical teachings, and in the flexibility and varied adaptation of its rites and ceremonies. "It is like a river, which has shallows that a child may play in, and depths which the strongest diver cannot fathom." thus adapted to every human need, and there is nothing which any religion can supply to add to its rounded perfection. The more it is studied, the more does it illuminate the intellect and satisfy the heart. The youth who learns something of it is laying up for himself a sure increaser of happiness, a sure consolation in trouble, for the rest of his life.
 
-
-
 **धारणाद्धर्ममित्याहुर्धर्मो धारयति प्रजाः।[^1]**
 
 [^1]: "Mahabharata. Karna Parva, Ixix, 59."
@@ -158,8 +124,6 @@ INTRODUCTION.
  Dharma is not merely a set of beliefs having no necessary connection with the daily life of humanity, but it is the very principles of a healthy and beneficent life. Therefore to know those principles and act upon them is to be a true Âryan (or follower of Vaidika Dharma), and to tread the sure road to happiness, individual as well as general. The etymological meaning of "religion" is also the same, "that which binds together." "Vaidika " means "pertaining to the Veda or Perfect Knowledge." Hence Vaidika Dharma means "the Religion of Perfect Knowledge."
 
  One of the most remarkable things in the Sanâtana Religion, is the way in which it has laid down a complete scheme of knowledge, and has then crowned it with a Philosophy composed of six faces, but governed by one idea and leading to one goal. No such comprehensive and orderly view of human knowledge is elsewhere to be found. This has been sketched in the elementary Text-Book, but now requires some further elucidation.
-
-
 
 THE BASIS OF SANÂTANA DHARMA.
 
@@ -181,8 +145,6 @@ THE BASIS OF SANÂTANA DHARMA.
 
  "Then, in the Kali age, He (Viṣhṇu in the form of Vyâsa) divides the one Veda into many parts, desiring benefit (to men), and knowing that the
 
-
-
 Brâhmaṇas would be short-lived and of small intelligence," and hence unable to master the whole.
 
  Thus the Ṛiṣhis are ever watching over the Religion they gave, withdrawing and again giving revelation according to the needs and the capacities of each age. If so much has disappeared from the sacred books-as may be seen by comparing the number of shlokas said to be contained in some of them, with the extant shlokas-this disappearance has been brought about by the Ṛiṣhis for men's benefit.
@@ -197,23 +159,17 @@ Brâhmaṇas would be short-lived and of small intelligence," and hence unable t
 
  (1) The **संहिता** Samhitâ, or Collection, consisting of **सूक्तानि**Sûktâni, Sûktâs, hymns used at sacrifices and offerings, the Mantras, on which the efficacy of the rite depends.
 
-
-
  (2) The **ब्राह्मणानि** Brâhmaṇâni, Brâhmaṇas, described by Âpastamba as containing precepts for sacrifice, reproof, praise, stories and traditions; they explain the connection between the Sûktas and the ceremonies; they are treatises on ritual, but interspersed with the ritual directions are many illustrative stories, philosophical observations, and profound ideas, especially in the *Tandya Mahâbrâhmaṇa* and the *Shatapatha Brâhmaṇa.* Treatises named **आरण्यकानि** Âraṇyakâni, Âranyakas, or Books for the Forest, *i.e*. for study by recluses, are given at the end of the Brâhmaṇas.
 
  (3) The **उपनिषदः**Upaniṣhadaḥ, Upaniṣhats, philosophical treatises of a profound character, embodying the **ब्रह्मविद्या**, Brahmavidyâ, on which the Six Darṣhaṇas, or the great systems of philosophy are built up. They are many in number, 108 being the more important, and of these 10 or 12 are called Major, and the rest Minor. The Major have been commented on by the founders of the leading schools of Vedânta, or by their early disciples.
 
  The Samhitâ, or Collection of the Mantras of the *Rigveda,* contains 1017 Sûktas, arranged in 10 **मण्डलानि** Maṇḍalâni, Maṇḍalas, literally circles. The Sûktas are for the most part prayers to, and invocations of, the Devas, but we shall find later that
 
-
-
 the One Supreme Existence is also definitely taught in this ancient Âryan book. It is the book of the **होता**Hotâ, the priest who pours offerings into the fire, and, as its name implies, is the knowledge of Ṛichas, or laudatory verses, to be recited aloud at the time of the sacrifice.
 
  The Samhitâ of the *Yajurveda* consists of forty Adhyâyas, or chapters, containing 1886 shlokas, about half of which are also found in the *Rigveda.* There are two main versions of it, the *Kṛishṇa,* the black, or *Taittirîya,* in which the Samhitâ and Brâhmaņa are mixed up; and the *Shukla,* the white, or *Vâjasaneya,* in which the Samhitâ is separate from the Brahmaṇa. There are other minor differences. The Samhitâ consists of the invocations and prayers offered in sacrifices in the preparation of the materials, the altar, the bricks, the stakes, etc., etc. Details of the sacrifices often mentioned in histories– the Râjasûya, the Ashvamedha, etc.– may here be found, as well as of domestic and other ceremonies. It is the book containing, as its name implies, the knowledge of sacrifices, and belongs especially to the **अध्वर्युः**Adhvaryuḥ (conductor), comprising his duties in a sacrifice.
 
  The Samhitâ of the *Sâmaveda* contains 15 books, divided into 32 chapters, again subdivided into 460 hymns. Most of these are also found in the
-
-
 
 *Rigveda* mantras, only 75 being different. *Sâmaveda* is the knowledge of song, and its hymns were chanted by the **उद्गाता**Udgâtâ, at sacrifices in which Soma was offered.
 
@@ -225,15 +181,11 @@ the One Supreme Existence is also definitely taught in this ancient Âryan book.
 
 1 The Samhitâ of the *Sâmaveda* comprises four different works, the **ग्रामगेयं**, the **ऊहः**, the **ऊह्यं,** and the**आरण्यगानं**. All these four include the whole of the *Sâmaveda* as set to music. But as the hymns with their musical notations became wholly unintelligible, even in early days, they were rearranged into a distinct compilation, called the Ârchika. On this compilation Sâyaṇa wrote his Bh*â*ṣhya. The figures used on the top of the mantras in the printed text indicate the notes of the gamut.
 
-
-
 more famous Upaniṣhats forming part of it. Further, it throws much light on the daily life of the ancient middle class Âryan, the merchant and the agriculturist, as well as on that of the women of the same class, and thus has a special historical and sociological interest of its own.
 
  There are two Brâhmaṇas attached to the *Rigveda;* the *Aitareya,* consisting of 40 Adhy*â*yas, deals with the Soma sacrifices, the Agnihotra, and the ceremonies connected with the accession of a king. The *Aitareya Âraṇyaka* belongs to this Brāhmaṇa, in which the *Aitareya Upaniṣhat* is included. The *Kaushîtaki* *Brâhmaṇa,* sometimes called also *Shânkhayana,* has 30 Adhy*â*yas and deals with the Soma sacrifices. The Âraṇyaka of the same name belongs to it, and includes the *Kaushîtaki Upaniṣhat.* There are attached to it also 8 minor Upani*ṣ*hats.
 
  In the *Kṛiṣhṇa Yajurveda* there are no separate Brâhmaṇas recognised by two schools, the prose portions mingled with the Samhitâ taking this place; but a third school separates these as the *Taittirîya Brâhmaṇa* in 3 Adhyâyas, with a *Taittirîya Araṇyaka* containing the *Taittirîya Upaniṣhat*. The *Kaṭha* and *Shvetâshvatara* Upaniṣhats and 31 minor ones belong also to the *Kṛiṣhṇa Yajurveda*. The *Shukla Yajurveda* has the *Shatapa-*
-
-
 
 *tha* *Brâhmaṇas* in 100 Adhyâyas, the *Âraṇyaka* of which contains the *Brihâdâraṇyakopaniṣhat,* also called the *Vâjasaneya;* the *Îshopaniṣhat* forms the last chapter of this Veda, together with 17 minor Upaniṣhats.
 
@@ -245,15 +197,11 @@ more famous Upaniṣhats forming part of it. Further, it throws much light on th
 
  On these Shrutis the whole fabric of Vaidika Dharma, the Religion of the Vedas, as it is truly named, is built. In modern days much criticism
 
-
-
 has been directed against the Vedas, because the occult knowledge, on the possession of which depends the understanding of their inner meaning, has disappeared. They contain in their entirety a system by the mastery of which all the energies of nature may be controlled, for it is the system by which these energies were vitalised in our universe at its beginning, and are still directed by Íshvara. A true Vedavit could rule nature, and all her energies would be at his service.
 
  It is therefore not wise to conclude hastily that passages in the Vedas are rubbish, or "the babblings of a child-humanity," because they are not intelligible to the modern student, devoid of Yoga and of inner knowledge. The student should suspend his judgment whenever he feels inclined to see absurdity, remembering that some of the keenest intellects produced by humanity have seen wisdom where he sees none, and he should wait until riper years and increased purity of life have opened his eyes.
 
  The Vedas are summed up in the Gâyatrî, the Gâyatrî in the Praṇava, and the Praṇava is the expression of the Absolute. This statement is repeatedly made in the Vedas themselves, and occurs again and again in Samskrit literature. The real meaning or significance of this mysterious fact can
-
-
 
 only be discovered by prolonged study and meditation.
 
@@ -270,8 +218,6 @@ but four of them are regarded as the chief, and these are sometimes related to t
 
  Thus we see that, as in the case of the Vedas, the Ṛiṣhis with the necessary authority made alterations and adaptations to suit the needs of the time. It was this flexibility, characteristic of the
 
-
-
 Sanâtana Dharma, that preserved it through so many ages, when other ancient religions perished. The above saying, however, is in no way followed to-day.
 
  Of the authority of the Shruti and Smriti, Manu says:
@@ -287,13 +233,9 @@ Sanâtana Dharma, that preserved it through so many ages, when other ancient rel
 
  Manu, the original lawgiver of the Âryan race, is said in the *Nârada Smṛiti* to have composed a Dharmashâstra in 100,000 shlokas, arranged in 1080 chapters; this was reduced by Nârada to 12,000 shlokas, by Mârkaṇḍeya to 8000, and by Sumati, Bhṛigu's son, to 4000. The Laws now exist in 12 books, containing only 2685 shlokas.
 
-
-
 Manu expounds the origin of the universe, and then desires Bhṛigu to recite the Institutes as taught by himself. Bhṛigu, accordingly, sketches the work, and then expounds in detail the duties of the student (chap. ii.), householder (chap. iii.), and of one who is a Snâtaka (chap. iv.); he then deals with food, impurity and purification, and with women(chap. v.), and finishes the orderly life by describing the two last stages of the forest-dweller and the Sannyâsî(chap. vi.). The duties of a king are then laid down (chap. vii.), and the administration of civil and criminal law(chap. viii.). This is followed by the "eternal laws for a husband and his wife," the laws of inheritance, the punishments for some crimes, and some additional precepts as to royal duties (chap ix.). The rules for the four castes, chiefly in times of distress, follow (chap, x.), and then laws on penances (chap. xi.). The 12th chapter deals with transmigration and declares that supreme bliss is to be gained by the knowledge of Âtmâ, on whom "the universe rests."
 
  The *Yâjñavalkya Smṛiti* consists of 3 Adhyâyas, or chapters, which contain 1010 shlokas. They deal respectively with Âchâra (Conduct), Vyavahâra (Civil Law), and Prayashchitta (Penances). In the first Adhyâya the duties of the Castes and Âshramas are expounded, foods are
-
-
 
 dealt with, gifts, offerings, certain rites, and the duties of a king are explained. In the second, civil law and procedure and punishments for crimes are laid down. In the third, purifications are given, and these are followed by an explanation of duties in time of distress, and those of a forest-dweller and an ascetic, and some physiological details; then follows a disquisition on the universal and the individual Soul, the paths of liberation and of bondage, yoga, the siddhis, and transmigration, together with a number of penances.
 
@@ -307,8 +249,6 @@ dealt with, gifts, offerings, certain rites, and the duties of a king are explai
 [^8]: "Loc. cit. I. iv. 20."
 
  Vyâsa "having recovered the four Vedas, named the Ṛik, Yajuḥ, Sâma, and Atharva, completed the Itihâsa and Purâṇa, called the fifth Veda."
-
-
 
 So also is it written:–
 
@@ -333,15 +273,11 @@ So also is it written:–
 
  Eighteen Purâṇas are reckoned the chief, and there are another eighteen, styled Upa-Purâṇas, or lesser Purâṇas. The 18 mukhya, or great, Purâṇas
 
-
-
 are: Brahmâ, Padma, Vishņu, Shiva, Bhâgavata, Nârada, Mârkaṇḍeya, Agni, Bhaviṣhya, Brahmavaivarta, Liñga, Vârâha, Skanda, Vâmana, Kûrma, Matsya, Suparṇa or Garuḍa, and Brahmâṇda. The 18 Upa-Purâņas are: Sanatkumâra, Narasiñha, Bṛihannâradiya, Shivarahasya, Durvâsas, Kapila, Vâmana (in addition to the Purâṇa thus named), Bhârgava, Varuṇa, Kâlikâ, Sâmba, Nandi, Sûrya, Parâshara, Vasiṣhtha, Devî Bhâgavata, Ganesha, Hansa.
 
  There has arisen a dispute as to which of the two, the Vaiṣhṇava *Bhâgavata* or the *DevîBhâgavata,* is the Purâṇa and which the Upa-Purâṇa, and the point remains undecided; but it is certain that both are equally valuable and instructive. The *Devî Bhâgavata* is specially fitted for those who are inclined to metaphysics and science, while the Vaiṣhṇava *Bhâgavata* is most acceptable to the devotional temperament.
 
  The Purâṇas contain the history of remote times, when the conditions of existence were quite different from those which prevail in our days; they also describe regions of the universe not visible to the ordinary physical eye. Hence it is unfair to regard the conceptions of the Purâṇas as being of the same nature as those of modern Science. When Yogasiddhis are developed, the Paurâṇic pictures
-
-
 
 of the universe and its past history are seen to be infinitely more correct than those arrived at by the modern scientific use of our physical organs of perception, however much these may be aided by delicate scientific apparatus. Certain definite characteristics of a Purâṇa are given in the *Viṣhṇu Purâṇa* and in others :–
 
@@ -354,25 +290,17 @@ of the universe and its past history are seen to be infinitely more correct than
 
  The *Râmâyaṇa* has for author V*â*lmiki, and is the history of the family of the Solar Race, descended from Ikṣhvâku, in which was born the Avatâra of Viṣhṇu, R*â*machandra and his three brothers. The story of their birth, education, and marriages, the exile of Râmachandra, the carrying off and recovery of Sîtâ, his wife, the destruction of Râvaṇa
 
-
-
 the Râkṣhasa, and the reign of Râmachandra, are detailed at length. The whole gives a vivid picture of Indian life, as led towards the close of the Treta Yuga, and is intended to provide, in the life of Râmachandra and his brothers, a model of fraternal affection and mutual service, leading to prosperity and general welfare, that may serve as a lesson and inspiration in true Áryan living, and a model of kingship for all Áryan rulers. It is, perhaps, almost needless to add, that the life of Sîtâ has always been, and is, regarded as the most perfect example of womanly fidelity, chastity and sweetness to be found in literature.
 
  The *Mahâbhârata* was compiled by Vyâsa, early in the Kali Yuga, but different recensions of it have been made.
 
  The story is far more complicated and more modern than that of the *Râmâyaṇa*, and relates the varying fortunes of a family of the Lunar Race, which, rent by jealousies and rivalries, perished by internecine strife. Against this dark background stands out the figure of the Avatâra, Shri Kṛiṣhṇa, dominating the whole, surrounded by the Pâṇḍava family, which triumphs by virtue of its righteous cause over the opposing Kurus; while, among the latter, shine forth the heroic Bhîṣhma, Droṇa, and Karṇa, the splendid
 
-
-
 but doomed defenders of wrongful sovereignty. The story fitly opens the Kali Yuga, in which good and evil contend with almost equal forces, and in which ethical problems and the complicated workings of Karma baffle and bewilder the mind; in the destruction of the best and wisest of the Kṣhattriya caste it seems to presage the coming invasions of India, and in the gloom of its closing earthly scenes to forecast the darkness that was soon to settle down on Áryâvarta. The main thread of the story is constantly broken by interludes, consisting of instructive lessons and stories, among which are the immortal discourse of Bhîṣhma on Dharma, and the most famous jewel of Áryan literature, the *Bhagavad-Gîtâ*. The whole forms an encyclopædia of history, morals and religion, unsurpassed, or even rivalled, by any other epic in the world.
-
-
 
 THE SCIENCE AND PHILOSOPHY OF SANÂTANA DHARMA.
 
  The Science of ancient India was contained in **षडङ्गानि** Ṣhaḍañgâni, the Six Limbs, or Branches, of the Vedas. Its Philosophy was contained in**षड्दर्शनानि**Ṣhaḍ-Darshanâni, the Six Views, or Systems. They are all designed to lead the
-
-
 
 man to the One Science, the One Wisdom, which saw One Self as Real and all else as unreal. The Riṣhis, realising the unity of all knowledge, made no distinction between science, philosophy and religion. All alike were based on the Veda; the sciences were the Vedâñgas, the limbs of the Veda, the philosophies culminate in the Vedanta, the end of the Veda. And they were all summed up together as the Lesser Knowledge, the Knowledge of the One being alone supreme and indivisible; even the revealed Veda was included in the former, in virtue of its being revealed, whereas in the latter the Átmâ knows Itself. Thus it is written:
 
@@ -384,15 +312,11 @@ man to the One Science, the One Wisdom, which saw One Self as Real and all else 
 
  The six Añgas are expounded in a vast mass
 
-
-
 of literature divided under six heads; it is composed of **सुत्राणि**Sûtrâṇi, Sûtras, with commentaries. A Sûtra is an exceedingly terse aphorism, literally a "thread," and it is easy to understand that where knowledge was orally transmitted, this style of composition would be exceedingly valuable. appears to be certain that the Sûtras were the summing up of teachings contained in a vast mass of literature, long lost. These brief condensed aphorisms obviously contain the distilled essence of profound and abstruse teachings. These being lost, the Sûtras needed to be again expanded and explained by the teacher, and hence grew up a huge array of commentaries, containing traditional explanations, with the comments of the immediate writer.
 
  The six Añgas, as just mentioned, were:
 
  1. Shikṣhâ, Method of Study: that is a knowledge of phonetics, in which pronunciation and accent were fully dealt with in an extensive literature, the text of the Vedas being arranged in various forms or Pâṭhas, which guarded it from alteration– the Pada-pâṭha, giving each word its separate form, the Karma-pâṭha, connecting the words in pairs, and other more complicated methods.
-
-
 
  2. Kalpaḥ, Method of Ritual; to this belong the *Shrauta Sûtras*, explanatory of the ritual of sacrifices in the three fires; their supplement, the *Shulva Sûtras*, dealing with the measurements needed for laying out the sacrificial area, a subject that entailed full knowledge of geometry, which is consequently taught therein (the 47th proposition of Euclid, Bk. i. is the first subject dealt with in the *Shulva Sûtras*); the *Gṛhya Sûtras*, relating to domestic life; and the *Dharma Sûtras*, treating of customs and laws.
 
@@ -403,8 +327,6 @@ of literature divided under six heads; it is composed of **सुत्राण
  5. Chhandaḥ, metre, dealing with prosody, a matter of vital importance in connexion with the Vedas, of which the latest and best representative is Pingala.
 
  6. Jyotiṣham, astronomy, including astrology, dealing not only with the movements of the heavenly bodies, but with their influence on human affairs.
-
-
 
  The Six Darshanas are best understood by being seen in relation to each other rather than in opposition, for they form, in their entirety, one great scheme of philosophic truth. They are arranged in pairs.
 
@@ -423,39 +345,27 @@ of literature divided under six heads; it is composed of **सुत्राण
 
 [^13]: "Brahmarindûp. 19."
 
-
-
  "Cows are many-coloured; but the milk (of all) has but one colour. Look on knowledge as the milk, and on the teacher as the cows."
 
  In each Darshana there is a Ṛiṣhi as Teacher, who gives its principles in the form of aphorisms, terse sentences, **सूत्राणि** Sûtrâni, Sûtras, and a **भाष्यं**Bhâṣhyam, a commentary, regarded as authoritative.
 
  On these Sutras and commentaries the Darshanas are based. The object of all is the same– to rescue men from sufferings, and the way of rescue is the same– the removal of ignorance, which is **बन्धः**Bandhaḥ, bondage, and consequent union with the Supreme. Thus the Nyâya calls ignorance **मिथ्याज्ञानं**Mithyâjñanam, false knowledge; the Sâñkhya calls it **अविवेकः** Avivekaḥ, non-discrimination between the Real and the unreal; Vedanta calls it **अविद्या** Avidyâ, nescience. Each philosophy aims at its removal by**ज्ञानं**Jñânam, wisdom, whereupon **आनन्दः** Ánandaḥ, bliss, is enjoyed. This Ánanda is the nature of the Self, and therefore cannot accurately be said to be obtained. The Self *is* Bliss, and it is only necessary to remove the illusion which causes suffering in order that Bliss may be enjoyed. The Nyâya hence speaks of its object as **अपवर्गः**Apavargaḥ, deliverance, liberation; and **मोक्षः** Mokṣhaḥ, or **मुक्तिः**Muktiḥ, liberation, is the universally accepted goal.
 
-
-
  The Ṛiṣhi of the Nyâya, the system of Logic, is Gautama, and his Sûtras are divided into 5 Books. The authoritative commentary is that of Vâtsyâyana. He lays down 16 **पदार्थाः**Padârthâḥ, or topics, into which he divides knowledge, and then proceeds to define them, **लक्षणा** Lakṣhaṇâ, and to examine them, **परीक्षा** Parîkshâ. He begins with **प्रमाणं**Pramâṇam, measure, or proof, or right perception, which comprises **प्रत्यक्षं** Pratyaksham, sense perception, **अनुमानं**, Anumânam, inference, **उपमानं** Upamânam, comparison, or analogy, and **शब्दः** Shabdah, the word of an expert. By these means objects of knowledge, **प्रमेयं**Prameyam, are established. He then, after discussing the four succeeding Padarthas, defines a syllogism, reasoning, conclusion, argument, and then deals with various kinds of fallacies and sophisms. When man by right reason has freed himself from false knowledge, then he attains liberation.
 
  The Vaisheṣhika, the System of Particulars, literally, has for its Ṛiṣhi Kaṇâda, and for its Bhâşhya that of Prashastapâda. Kaṇâda laid. down 6 Padârthas, under which all nameable things could be classified– categories, in fact. These are; **द्रव्यं** Dravyam, substance; **गुणः**Guṇaḥ, quality; **कर्म**, Karma, action; **सामान्यं**, Sâmânyam, what is common, *i. e.*makes a genus; **विशेषः** Visheṣhaḥ, particularity,
-
-
 
 what makes an individual; and **समवायः** Samavâyaḥ, inseparability. **अभावः**Abhâvaḥ, privation, non-being, a seventh Padârtha, is required by later philosophers of this School. Kaņâda has 9 subdivisions under the head of substances— the 5 **भूतानि** Bhutâni or elements; **काल** Kalaḥ, Time; **दिक्** Dik, Space; **आत्मा** Átmâ, the Self; and **मनः** Manaḥ, mind. The universal form of the Self is God, the individual the **जीवात्मा** Jîvâtmâ; of the Bhûtas, **आकाशः** Akâshaḥ is eternal and infinite, whereas **पृथिवी**Prithivi, earth, **आपः** Apah, Water, **तेजः**Tejah, fire, **वायुः**Vayuḥ, air, are atomic; the atom,**अणुः**Aṇuḥ, of each is eternal, but the aggregations that make our earth, water, light, and air, are temporary; creation is due to the conjunction of the atoms, the ceasing of a universe to their disjunction.
 
  The Sâñkhya, the system of Number, looks back to Kapila as the giver of its Sûtras, but their extant form is not regarded as that in which they were originally delivered. There are two Bhâṣhyas considered to be authoritative, those of Aniruddha and Vijñânabhikṣhu. There is also a third Bhâshya, by Vedânti Mahâdeva. Another and older authority for the Sâñkhya is the Sâñkhya-kârika of Íshvara Kṛîṣhna with the Bhâṣhya of Gauḍapâda, and the much later Tîkâ called the *Sâñkhya Tattva-Kaumudî* of Vachaspati Mishra. There is a
 
-
-
 higher authority mentioned by Vijñânabhikshu as the text book of the Sâñkhya, and as older than the present Sûtras, ascribed to Kapila himself, the *Tattva-Samâsa-Sûtras*, on which several commentaries have been written.
 
  The Sâñkhya is an account, primarily, of the "How" of creation; it is often called Anîshvara, without a supreme Lord, but there is in it no denial of Ishvara, and the repeated appeals to the Shruti as the final authority, above perception and inference, are evidence to the contrary. But Kapila was engaged with the order of happening, not with the cause thereof. There are two primary roots of all we see around us, **पुरुषः** Purushaḥ, Spirit, **प्रकृतिः** Prakritiḥ, Matter. Puruṣha is many, as appears by the differences in happiness and misery, birth and death, etc., but all are of like essential nature; Puruṣha thus may be taken to represent a totality, the Subject side of existence. Prakriti is the Object side of existence, and produces 23 substances, 7 of which share the name of Prakriti, and 16 are **विकाराः**Vikârâḥ, or **विकृतयः** Vikṛitayaḥ, modifications. Prakṛiti, as the opposite of Puruṣha, is **अव्यक्तम्**Avyaktam, the producer of all, but itself unproduced, the unmanifested. From this, in contact with Puruṣha, are produced in order: **महत्** Mahat or **बुद्धिः** Buddhiḥ, the Pure Reason; **अहङ्कारः** Ahamkâraḥ, the "I”
 
-
-
 making principle, the individualising or separative power; the 5 **तन्मात्राणि**Tanâtrāņi, measures of That," the essential powers that later form the senses. Then come the 16 Vikâras: 5 **बुद्धीन्द्रियाणि** Buddhîndryâni, the perceptive organs, or senses; the 5 **कर्मेन्द्रियाणि** Karmendriyâni, the organs of action; **मनः** Manaḥ, the mind, which is the unifying centre of the Indriyas; the 5 **महाभूतानि** Mahâbhûtâni, great elements- ether, air, fire, water, earth. After this enumeration of the principles of the evolution of the universe, the Saṇkhya alleges the **त्रैगुण्यं** Traigunyam, or the triple nature of Matter, its three. Guņas, or constituent factors: **तमः**Tamah, **रजः** Rajaḥ, and **सत्त्वं** Sattvam. When these are in equilibrium there is no activity, no evolution; when they are out of equilibrium evolution begins. This evolution, **संचरः**Sancharaḥ, is next dealt with, and the succeeding dissolution, **प्रतिसंचरः** Pratisamcharaḥ, and the meaning of **अध्यात्मं** Adhyatmam, **अधिभूतं** Adhibhutam, and **अधिदैवतं** Adhidaivatam, as applied to Buddhi, Manas and the 10 Indriyas. This is followed by an elaborate enumeration of activities, facts, and qualities, that must be studied in the books on the system, concluding with an explanation of the triple nature of Bandha, Moksha, Pramâna and **दुःखं** Duḥkham.
 
  The Yoga, the system of Effort, or of Union,
-
-
 
 has, as the giver of its Sûtras, Patañjali, and the Vyâsa Bhâṣhya is its commentary. It is sometimes called the Seshvara Sâñkhya, the Sâñkhya with an Íshvara, because it accepts the Sâñkhya as philosophy, and in adding to it a system of effort which should set the Purusha free, it makes one of the means of freedom **ईश्वरप्रणिधानं**[^14]
 
@@ -465,15 +375,11 @@ has, as the giver of its Sûtras, Patañjali, and the Vyâsa Bhâṣhya is its c
 
  The remaining pair of systems is entitled the Mîmâmsâ, for both deal primarily with the leading
 
-
-
 principles to be adopted in interpreting the text of the Vedas. But the Pûrva Mîmânsâ generally bears the name, the Uttara Mîmânsâ being usually known as the Vedânta.
 
  The Pûrva, or Earlier, Mîmânsâ has Jaimini as the giver of its Sûtras, Shabara's Bhâṣhya being the authoritative commentary. It is concerned with the **कर्मकाण्डं** Karmakâṇḍam of the Veda, that is with the sacrifices, offerings, and ceremonials generally; while the Uttara, or Later, Mîmâmsâ is concerned with the **ब्रह्मज्ञानं** Brahmajñânam of the Veda, the knowledge of Brahman. The Mîmâmsâ Sutras are divided into 12 books, deal ing with the Karmakâṇḍa in minute detail; they also contain a discussion of the Pramaņas, which are regarded as five, Pratyaksham, Anumânam, Upamânam, Arthâpatti (presumption), and Shabda. Authority is, in the Mîmâmsâ, vested only in the Veda, which, Jaimini devotes himself to proving, is of superhuman origin.
 
  The Uttara Mîmâmsâ, or Vedânta, is the Darshana which may be said to dominate Indian thought in the present day, in its three forms. Its Sūtras are the Brahma-Sûtras, given by Vyâsa, or Kṛiṣhṇa Dvaipâyana, called also Bâdrâyaṇa. The Vedânta has three great schools: the **अद्वैतं** Advaitam, non-duality, the authoritative Bhâṣhya of which
-
-
 
 is by Shañkara; the **विशिष्टाद्वैतं**Vishiṣhțâdvaitam, non-duality with a difference, with the Bhashya of Râmânuja; the **द्वैतं**Dvaitam, duality, with the Bhâṣhya of Madhva. Further, the student of the Vedanta being expected to travel through three stages, **प्रस्थानत्रयं** Prasthânatrayam, the study of the *Bhagavad-Gîtâ*, the *Upaniṣhats*, and the *Sûtras*, each of the great commentators, or his early disciples, has written on each of these three. The *Bhagavad-Gîtâ* is the application of the philosophy to life, the explainer and the guide of conduct. The *Upaniṣhats* contain the philosophy in an intellectual form, and on them the intelligence is exercised. The *Sûtras* sum up the philosophy in terse aphorisms, intended to serve as the seeds for meditation, their deepest meanings being only attainable in Samadhi. For this reason no man was admitted to the study of the Vedanta until he possessed the Four Qualifications : **वैराग्यं** Vairâgyam, **विवेकः** Vivekaḥ, **षट्सम्पत्तिः** Ṣhaṭ-sampattiḥ (the six mental and moral requirements) and **मुमुक्षा** Mumukṣhâ, and was thus fit for its reception.
 
@@ -481,11 +387,7 @@ is by Shañkara; the **विशिष्टाद्वैतं**Vishiṣhțâ
 
  It teaches that Víṣhṇu is the Supreme Deity, and formed the universe out of Prakṛiti, already
 
-
-
 existing; Viṣhṇu is the efficient cause of the universe, and matter is the material cause thereof, as the goldsmith and the gold are the double cause of the bracelet. Both Viṣhṇu and Prakṛiti are beginningless and endless, as also is Jîva, the individual soul; but Prakṛiti and Jîva are subordinate to, and dependent on, Viṣhṇu. Viṣhṇu is Sat, reality, Jñanam, wisdom, and Ananta, infinite. He enters Prakṛiti– called also Jaḍa-Prakṛiti– as Puruṣha, the animating universal soul, and there upon follows the evolution of the universe, as given in the Sâñkhya: Mahat, Ahamkâra, the Tanıâtras and the Indriyas. Then follow the Devatas and Avidyâ in five aspects; these six, from Mahat to Avidyâ, are called the **प्राकृतसर्गः** Prâkritasargaḥ, the material manifestation. It is followed by the **वैकृतसर्गः**Vaikṛitasargaḥ, the organised manifestation, in three divisions, the minerals and plants, the animals, and men. The manifestations of Vishnu, guiding and ruling the preceding nine, are called the tenth creation. Jiva is immaterial, dif- ferent from Viṣhṇu, and each Jîva is different from every other. The Jiva attains Moksha, in which it enjoys **भोगः** Bhogaḥ, eternal bliss; this is fourfold, and the Jîva reaches one or other of the four conditions, according to its deserts. These conditions are ; **सारूप्यं** Sârúpyam, with the Divine Form ; **सालोक्यं**
-
-
 
 Sâlokyam, vision of the Divine Presence; **सान्निध्यं** Sânnidhyam, nearness to God; **सायुज्यं**Sâyujyam, union with God. This union must not be considered as one of identity of nature.
 
@@ -493,11 +395,7 @@ Sâlokyam, vision of the Divine Presence; **सान्निध्यं** Sâ
 
  The Advaita Vedânta is summed up in the words**तत्त्वमसि**, "Thou art That." Brahman is Nirguṇa, without attributes, and Real; all else is
 
-
-
 unreal; Jîvâtmå and Paramâtmå are the same there is no difference. The idea of difference arises from Avidyâ, nescience, and when the Átmå transcends nescience, it knows its own nature and is free. The universe springs from Brahman, as hairs from a man's head; it is the work of Mâyâ. Cause and effect are one and the same, **कार्यकारणाभेदः**, not two different things, as an aggregate of threads is cloth, and there is no cloth apart from the threads that run lengthways and crossways. The unreality of the universe, having Reality as it were behind it, has a kind of reality, like a shadow which could not exist without a substance, and this justifies and makes necessary activity of all kinds. Hence also there is an **अपराविद्या** Aparâvidyâ, the knowledge of the phenomenal, as well as a **पराविद्या**Parâvidyâ, the knowledge of the Noumenon. Having established the fundamental truth of unity, the Vedanta explains the conditions which surround the Atma, enveloped in Avidyâ: the **उपाधिः** Upâdhiḥ, which makes its illusory separateness, their grouping as the **स्थूल** Sthûla, **सूक्ष्म** Sûkshma and **कारणशरीराणि**KâranaSharîrâṇi and the states of consciousness belonging to these.While the Átmâ identifies Itself with the Upadhis, It is bound; when It knows Itself as Itself, it is free. For those who are not yet ready for this effort after Self-knowledge, ritual is not only desir-
-
-
 
 able but necessary; but for those who have reached the point where only the Átmâ attracts, Jnânam is enough, Brahman is the goal.
 
@@ -519,15 +417,11 @@ able but necessary; but for those who have reached the point where only the Átm
 
 [^16]: "Quoted in Max Muller's Six Systems. P. 217."
 
-
-
 opened eyes, and without personal object to confuse his judgment. But he performs actions asfree, and, being without desire, is not bound by them.
 
  The Six Darshanas may now be seen as parts of a whole. In the Nyâya and Vaisheṣhika, a man learns to use his intellectual powers rightly, to detect fallacies, and to understand the material constitution of the universe. In the Sâñkhya, he learns the course of evolution, and in the Yoga how to hasten his own growth. In the Mîmâmsâ, he is trained to use the invisible world for the helping of the visible, and in the three schools of the Vedânta he learns to climb from the idea of himself as separate from Brahman to the thought that he is a part of Brahman that can unite with Him, and finally that he is and ever has been Brahman, veiled from Himself by Avidyâ.
 
  Further, a coherent view of the whole vast school of Áryan teachings, as an ascending path of evolution for the Jîvâtmâ, may now be gained, The literal meaning of the Veda, with its ritual and daily obligations, developed the Manas, the mind, of the Áryan, disciplined his Kâma, his passions and desires, and evolved and directed his emotions. It is said in the *Amṛita-bindûpaniṣhat*:-
-
-
 
 **मनो हि द्विविधं प्रोक्तं शुद्धं चाशुद्धमेव च।  
 अशुद्धं कामसंकल्पं शुद्धं कामविवर्जितम्॥[^17]**
@@ -538,17 +432,11 @@ opened eyes, and without personal object to confuse his judgment. But he perform
 
  Manas, joined to Kâma, was gradually purified by a life led according to Vaidika rules. Such aManas, become pure, was further developed in capacity by the study of the Añgas, was trained and developed, and thus became capable of the strain of philosophic thought. To a mind thus trained to see and to understand the many, the Veda would unfold its deeper occult meanings, such as intellect could master and apply. The end of all this study was to make possible the evolution of Pure Reason, Buddhi, which cannot unfold unless Manas is developed, any more than Manas can unfold without the development of the senses. It thus led up to the Darshanas, which develope the Pure Reason, which see the One in the Many, and then realises its unity with all, which therefore hates and despises none, but loves all. To the Buddhi, thus unfolded to see the One, the Veda would unveil its spiritual meaning, its true end, Vedânta, intelligible only to the pure compas-
 
-
-
 sionate Reason. Then, and then only, is man ready to reach the goal, the Parâvidyâ is attained, Âtmâ beholds Itself.
 
  Thus utterly rational, orderly, and complete is the Sanatana Dharma, the Âryan Religion.
 
-
-
 ![](../books_images/U-IMG-173368283153.png)
-
-
 
 CHAPTER I.
 
@@ -572,8 +460,6 @@ THE ONE EXISTENCE.
  "Then was not non-existence nor existence. THAT Only breathed by Its own nature: apart from THAT was naught."
 
  IT contains all, therefore can no particular thing be said of IT. IT is all, therefore can no one thing be ascribed to IT. IT is not Being only, for that would exclude Non-Being; but Being arises in IT, and Non-Being is also there.
-
-
 
 यदाऽतमस्तन्न दिवा न रात्रिर्नसन्न चासच्छिव एव केवलः।[^20]
 
@@ -612,8 +498,6 @@ And Yama answers:
 
 [^23]: "Ibid. l. ii. 14, 15, 16."
 
-
-
  "THAT which all the Vedas declare, THAT which all austerities utter, THAT, desiring which they lead the life of Brahmacharya, THAT WORD I tell thee briefly it is AUM. That Word is even Brahman; that Word is even the Supreme."
 
  This Unity, which never appears but which IS, is implied in the very existence of universes, and systems, and worlds, and individuals. IT is not only recognised in all religion, but also in all philosophy and in all science as a fundamental *necessity*. Endless disputes and controversies have arisen about IT, but none has denied IT. Many names have been used to describe IT, and left unnamed; but all rest upon IT. IT has been called the All and the Nothing, the Fullness and the Void, Absolute Motion and Absolute Rest, the Real, the Essence.All are true, yet none is fully true. And ever the words of the Sages remain as best conclusion: **नेति नेति**,"Not this, not this."
@@ -622,9 +506,7 @@ And Yama answers:
 
  **अयमात्मा ब्रह्म**[^24]
 
-
 [^24]: "Mâṇḍukyop.2"
-
 
 "This Âtmâ (is) Brahman"
 
@@ -639,8 +521,6 @@ And Yama answers:
 
 [^26]: "Ibid. III. xiv, I."
 
-
-
  "This" is the technical word for the universe, and the universe is Brahman, because, "there- from it is born, thereinto it is merged, thereby it is maintained[^27]."All that we see around us comes forth from that Fullness and is as the shadow of that Substance. And yet, as the Upanishad declares, we need not go far to seek:
 
 [^27]: "तज्जलान् is equal to तत्र जायते, लीयते, अनिति।"
@@ -650,8 +530,6 @@ And Yama answers:
  "This my Self within the heart, this (is) Brahman."
 
 [^28]: "Chhândogyop. III. xiv. 4."
-
-
 
  It is not necessary for a youth to try to grasp metaphysically this great truth, nor to grapple with the questions that spring up in the thoughtful mind when it is stated. It is enough that he should know that this truth is recognised in some shape or another by all thoughtful men, that it is the foundation of all right thought, and later may be known to himself by deeper study. Enough for the present-in the case of most, at least— if he try to *feel* the Unity as a centre of peace and a bond of fellowship with all. IT is the Heart of the universe, equally in all and therefore in himself; and this may be felt before it is understood intellectually.
 
@@ -667,9 +545,7 @@ And Yama answers:
 नाथमात्मा बलहीनेन लभ्यो न च प्रमादात्तपसो वाप्यलिङ्गात्।  
 एतैरुपायैर्यतते यस्तु यिद्बांस्तस्यैष आत्मा विशते ब्रह्मधाम॥[^30]
 
-
 [^30]: "Mundakop. III. ii. 4."
-
 
  "Nor is the Âtmâ obtained by the strengthless, nor by the careless, nor without marks of austerity: the wise, who strives by these means, of him the Âtmâ enters the abode of Brahman."
 
@@ -704,8 +580,6 @@ And Yama answers:
 
 [^35]: "Shaukara gives thus the meaning of स्थितञ्च यच्च."
 
-
-
  This second, lower, formfull, changing, finite, existent Brahman is not "another," but is Brahman conditioned— and therefore limited, manifesting– and therefore **सगुण**saguṇa, with attributes.
 
  The Rigveda, in the hymn before quoted, gives this appearing:
@@ -739,8 +613,6 @@ And Yama answers:
 
 ![](../books_images/U-IMG-173389222060.1.png)
 
-
-
 **यत्तत्कारणमव्यक्तं नित्यं सदसदात्मकम्।  
 तद्विसृष्टः स पुरुषो लोके ब्रह्मेति कीर्त्यते॥[^38]**
 
@@ -758,13 +630,9 @@ And Yama answers:
 
  "This" is the universe, but here in Darkness, *i.e*. in the unmanifested condition, as **मूलप्रकृतिः** Mûlaprakṛitiḥ, the Root of Matter, "unknowable." This becomes manifest only when Svayambhû shines forth. The emergence is simultaneous; for He cannot become manifest save by clothing Him- self in This, and This cannot become manifest save as illumined, ensouled, by Him. This Two-in-
 
-
-
 One, by nature Sat and Asat[^39],
 
 [^39]: "सदसच्चाहमर्जुन. "
-
-
 
 the Self and the Not-Self, Puruṣha and Prakṛiti, everlasting but appearing and disappearing, is the Cause of all things.
 
@@ -786,15 +654,11 @@ He is the **आत्मान्तथाम्यमृतः**, Âtmântaryâ
 
  "Unseen He sees, unheard He hears, unthought of He thinks, unknown He knows. None other
 
-
-
 than He is the Seer, none other than He is the Hearer, none other than He is the Thinker, none other than He is the Knower. He is the Self, the Inner Ruler, Immortal. That which is other perishes."
 
  "He is the **आत्मा, सर्वभूताशयस्थितः[^43]**,
 
 [^43]: "Bhagavad-Gitâ. X. 20."
-
-
 
 "the Self, seated in the heart of all beings." This is the clearest idea to grasp. The conditioned Brahman is the Self-conscious Universal Ego as against the Non- Ego, Spirit as against Matter, the "I" everywhere, always, and in all things, identical in nature with the Nirguṇa Brahman, but manifested, with qualities, and always united to Mûlaprakṛiti.
 
@@ -803,8 +667,6 @@ than He is the Seer, none other than He is the Hearer, none other than He is the
 ![](../books_images/U-IMG-173373062863.png)
 
   We see this, especially when interlaced with a
-
-
 
 second downward-pointing triangle– which will presently be explained– in many Temples.
 
@@ -820,15 +682,9 @@ second downward-pointing triangle– which will presently be explained– in man
 
  We must pause for a moment on the three guņas, for an understanding of them is necessary to any clear conception of the working of nature. The guṇas are not qualities, nor attributes of matter, though both terms are often used in transla-
 
-
-
 tion; they are the very materiality of matter, that which causes it to be matter. Matter cannot be thought of without these, and wherever there is matter, there are these, inseparable, existing in the ultimate particle as much as in the hugest system. When these are in equilibrium, balancing each other, there is Pralaya, sleep, inactivity, and to matter in this state the term **प्रधानं** Pradhânam is usually applied, These guṇas are named: **तमः**Tamaḥ, or Tamas; **रजः**Rajaḥ, or Rajas; **सत्त्वं** Sattvam, or Sattva. Tamas-often translated darkness or foulness, the effect of tâmasic predominance being taken as the guna itself-is resistance, stability, what is called in science the inertia of matter. All matter is fundamentally and always resistant; it resists. Its capacity for taking form is due to this constituent. Rajas is motion, the capacity of every particle to change its place, and the necessity of so changing it unless prevented; in scientific phrase this is motion, inherent in mat- Sattva is rhythm, the limiting of movement to an equal distance in an equal time on each side of a fixed point, the power and necessity of what is, in scientific phrase, vibration. Hence every particle of matter has resistance, motion, and rhythm. When the equilibrium of the three is disturbed by the breath of Ishvara, these three guṇas at once manifest:
 
-
-
 tamas appearing as inertia, resistance; rajas throwing every particle of the resistant mass into active movement, thus producing what is called Chaos; and sattva imposing rhythm on the movement of each particle, each thus becoming a vibrating, *i.e*. a regularly moving, particle, capable of entering into relations with the surrounding particles. All the qualities found in matter arise from the interaction of these three guņas, their endless permutations and combinations producing the endless variety of attributes found in the universe. The predominance of tamas in a body made up of countless particles gives rigidity, immovability, such as is seen in stones and other things that do not move of themselves. The predominance of rajas in a body gives unregulated hasty movements, restlessness, excess of activity. The predominance of sattva gives harmony, controlled rhythmical movements, order, beauty. But in the most immovable stone, the minute particles are in a state of unceasing vibration, from the presence of rajas and sattva; in the most restless animal there is stability of material and vibration of particles from the presence of tamas and sattva; and in the most harmonious and and controlled man there is stability of material and movement from the presence of tamas and rajas.
-
-
 
  As the triple nature of Íshvara, Sat-Chit-Ánanda, was symbolically represented by a triangle pointing upwards, like a flame, so is the triple nature of Mulaprakriti symbolised as a triangle, but now it points downwards, like a drop of water.
 
@@ -839,8 +695,6 @@ tamas appearing as inertia, resistance; rajas throwing every particle of the res
 ![](../books_images/U-IMG-173374432467(1).png)
 
  Thus we have before us the second member of the Duality which, as we saw above in *Manusmṛiti* is the Cause of all things,
-
-
 
  The Divine Power, or **शक्तिः** Shaktiḥ, the will of Íshvara, His light sent forth and making "This " manifest, as says the Smṛiti, is called Mâyâ. Mâyâ is inseparable from Íshvara ; "Their unity is like that of the moon and the moonlight, or that of the fire and its power to burn," says Nîlakanṭha, commenting on *Devî Bhâgavata.* VI. xv. 49.
 
@@ -860,8 +714,6 @@ tamas appearing as inertia, resistance; rajas throwing every particle of the res
  "Will-power (is) Umâ, the Virgin."
 
  While inseparable from the Lord, when turned towards Him She is called **महाविद्या** Mahâvidyâ, Supreme Knowledge. She is also called, when turned away from Him, **अविद्या** Avidyâ, Nescience, and emphatically **महामाया,** Mahâmâyâ, the Great Illusion,
-
-
 
 as she permeates Mûlaprakṛiti and becomes inseparable from it.
 
@@ -888,13 +740,9 @@ as she permeates Mûlaprakṛiti and becomes inseparable from it.
 
  "Know my other Prakṛiti, the higher, the life-element, O mighty-armed, by which the universe is upheld."
 
-
-
  This "other Prakṛiti" is also spoken of by Him under the name of "**मम देवी प्रकृतिः**" "My divine Prakṛiti[^48],”
 
 [^48]: "Ibid. ix. 13."
-
-
 
 His own Power, His **योगमाया** Yoga-Mâyâ, by which truly “the universe is upheld.” As says the Shruti:
 
@@ -926,9 +774,7 @@ His own Power, His **योगमाया** Yoga-Mâyâ, by which truly “the 
 ब्रह्माण्डं दर्शयत्येषा कृत्वा वै परमात्मने॥  
 तस्यैषा कारणं सर्वा माया सर्वेश्वरी शिक्षा॥[^50]
 
-
 [^50]: "Loc, cit, II. iii. 51-61. 3"
-
 
  "She (is) Bhagavatî, the Goddess, the cause of us all, Mahâvidyâ, Mahâmâyâ, the Fullness, the imperishable Prakṛiti………
 
@@ -955,8 +801,6 @@ His own Power, His **योगमाया** Yoga-Mâyâ, by which truly “the 
 
 [^51]: "Ibid. VI. xxxi. 48, 49."
 
-
-
 whose nature is Consciousness, subordinate to Him, and by Him ever sent forth among Jîvas.
 
  "Therefore should be worshipped that Consciousness, whose nature is Sat, Chit and Ánanda, Lord of Mâyâ, the Divine, with Mâyâ, the Supreme Lady."
@@ -974,8 +818,6 @@ whose nature is Consciousness, subordinate to Him, and by Him ever sent forth am
 [^52]: "Devî Bhâgavata, I. xviii. 42, 43, 44."
 
  "This notion of separateness being present sends (the Jîva) forth into Samsâra. This is Avidya. O fortunate one! Vidyâ is the turning away from this. Vidyâ and Avidyâ should be always known by the wise. Without sunshine how (should) the pleasure of shade be known? Without Avidyâhow should Vidyâ be known?"
-
-
 
 **प्रवृत्तिमार्गनिरता अविद्यावशवर्तिनः।  
 निवृत्तिनार्गनिरता वेदान्तार्थविचारकाः॥[^53]**
@@ -1002,8 +844,6 @@ whose nature is Consciousness, subordinate to Him, and by Him ever sent forth am
 
 [^55]: "Devî Bhâgvata. VII. xxviii. 31, 32."
 
-
-
  Hail (Thou that art) in the Form of the Rock-seated (the changeless and motionless Eter- nal), the Form of Consciousness, we bow to Thee !
 
  "Hail! (Thou that) mayest be known by the Vedantâ, the Ruler of the universe, we bow to Thee!
@@ -1029,8 +869,6 @@ whose nature is Consciousness, subordinate to Him, and by Him ever sent forth am
 [^57]: "Rigveda, I, cxiv. 46."
 
  But whatever the names given, Íshvara is One. Thus has it ever been taught in the Shruti and Smṛiti, as we have seen, and this is repeated in the
-
-
 
 more popular teaching of which the *Viṣhṇu Purâṇa* may serve as example.
 
@@ -1059,13 +897,9 @@ MANIFESTED.
 
  As to the precise definition of the nature ofthese Five, and of Their mutual inter-relations, there
 
-
-
 is much discussion, and more less difference of opinion, in the Six Darshanas and their sub- divisions, as now taught. But the fact of these Five, under whatever names, is recognised by all, and the student who studies deeply enough will come to the conclusion that the differences between the Darshanas arise from each great Teacher emphasising one aspect of the relations, and that all the Six Darshanas, rightly understood, form one organic whole.
 
 ![](../books_images/U-IMG-173380803476.png)
-
-
 
 CHAPTER II.
 
@@ -1091,8 +925,6 @@ THE MANY.
 
  "Unmanifested, the Indestrnctible, It is called ; It is named the highest goal.”
 
-
-
  Here, in a few shlokas, the coming forth of the Many is stated. At the begining of the Day of manifestation, all beings stream forth from the unmanifested Root of matter, Mûlaprakṛiti, from "This" in darkness, as *Manusmṛiti* has it. When the Day is over, and the Night of Pralaya comes, then all these separated existences again dissolve into Mûlaprakṛiti. Over and over again this occurs, for universes succeed universes, in endless succession. Behind this, then, there must be another Un-manifested, Íshvara, the Saguṇa Brahman, other than Mûlaprakṛiti, the Indestructible Lord.
 
  The wise man
@@ -1108,8 +940,6 @@ THE MANY.
 
 यथोर्णनाभिः सृजते गृह्णते च  
 यथा पृथिव्यामोषधयः सम्भवन्ति।
-
-
 
 यथा सतः पुरुषात्केशलोमानि  
 तथाक्षरात्सम्भवतीह विश्वम्॥[^61]
@@ -1141,8 +971,6 @@ THE MANY.
 
  "From that in various ways are born the Gods, Sâdhyas, Men, Beasts, Birds."
 
-
-
  In *Manusmṛiti* more details are given as to the order of evolution, and here again it is said that the immediate Creator, Brahmâ, created all beings. from Himself and from the elements previously produced from Himself, as we shall immediately see.
 
  ब्रह्माण्डानि Brahmâṇḍâni, literally Eggs of Brahmâ, or as we should say, world-systems, are numberless, we are told.
@@ -1154,8 +982,6 @@ THE MANY.
 [^63]: "Âtharvaṇa (or Tripâd– Vibhûti
 
  "All around this Brahmâṇḍa, there blaze infinite crores of other similar Brahmâṇḍas, with their envelopes. Four-faced, five-faced, six-faced, seven-faced, eight-faced, successively, up to the number of a thousand-faced portions of Nârâyaṇa, in whom the Rajoguṇa is pre-dominant, Creators each of one world-system, preside in them. Portions of Nârâyaṇa, called Viṣhṇu and Maheshvara, in whom the Sattva and Tamo Guņas predominate, also
-
-
 
 preside in them, performing the work of preservation and destruction in each. They wander about, these Brahmáṇḍas, like shoals of fishes and bubbles in a vast mass of water."
 
@@ -1173,8 +999,6 @@ preside in them, performing the work of preservation and destruction in each. Th
 
  This is the Trimûrti, the reflexion as it were in Space and Time of that Supreme Triple Unity, the Source of beings– the Nirguṇa Brahman, the
 
-
-
 Saguṇa Brahman and Mûlaprakṛiti, out of Space and Time, Eternal.
 
  The Trimūrti is the manifestation, then, of Íshvara in a world-system, or Brahmâṇḍa, and is therefore the Supreme Will, Wisdom and Activity in a concrete form.
@@ -1182,8 +1006,6 @@ Saguṇa Brahman and Mûlaprakṛiti, out of Space and Time, Eternal.
  Brahmâ is the Creator, and His Shakti is Sarasvatî, the Goddess of Wisdom, without whom Activity could not be wisely guided. He is pictured as with four heads, one looking towards each quarter, as the Maker of the four quarters and their contents, and riding on the**हसः** Hamsaḥ, the Swan. The name **हस**, a rearrangement of **सः अहं, सोहं**, is an allusion to His relation with Ahamkâra, the divider, the maker of atoms.
 
  Viṣhṇu is the Preserver and Sustainer, the principle underlying and sustaining the universe in order, and preserving forms, holding them together by His attracting force. His Shakti is Lakshmî, the Goddess of Happiness, of Prosperity, of all desirable objects. He is pictured with four arms, as sustaining the four quarters, and rides on Garuḍa, the emblem of speed and of intelligence. He is the source of Avatâras, and in Them, or in His own Person, is perhaps the most generally worshipped manifestation of Íshvara.
-
-
 
 Indeed, as Nârâyaṇa, He whose dwelling is in the waters, He is worshipped as Saguṇa Brahman, dwelling in Matter.
 
@@ -1194,8 +1016,6 @@ Indeed, as Nârâyaṇa, He whose dwelling is in the waters, He is worshipped as
 [^65]: "See Kenop, iii, iv,"
 
  These Supreme Forms of Íshvara, separated by Their functions, but One in Essence, stand as the central Life of the Brahmâṇḍa, and from and by Them it proceeds, is maintained, and is indrawn. Their functions should not be confused, but their Unity should never be forgotten.
-
-
 
  Brahmâ, as the creative God, is spoken of as appearing first, born in the Golden Egg, which grows out of the seed of the One in the Waters of Matter.
 
@@ -1213,8 +1033,6 @@ Indeed, as Nârâyaṇa, He whose dwelling is in the waters, He is worshipped as
 
  Here the Waters, Matter, Mûlaprakṛiti, receive the seed of Life, and this becomes the Hiraṇyagarbha, the Golden Egg, in which the Creator is born, in order to form His world-system. Hence a world-system is called a Brahmâṇḍa, a Brahmâ– Egg, a very significant epithet, as world-systems are oval, like an egg, and seen from outside, present exactly an egg-like form, each planet following an egg-like orbit. Of this Egg we read in the *Viṣhṇu Purâṇa* that within it Brahmâ and the world-system were contained, while it was invested externally by seven envelopes, water, fire, air, ether, the
 
-
-
 origin of the elements, (Ahamkâra) Mahat and primal homogeneous Matter, which surrounds the whole[^68].
 
 [^68]: "Loc, cit, I. ii."
@@ -1227,8 +1045,6 @@ origin of the elements, (Ahamkâra) Mahat and primal homogeneous Matter, which s
 
 **स पुनः कामकर्मादियुक्तया स्वीयमायया।  
 पूर्वानुभूतसंस्कारात् कालकर्मविपाकतः॥**
-
-
 
 **अविवेकाच्च तत्त्वस्य सिसृक्षावान् प्रजायते।  
 बुद्धिपूर्वः सर्गोऽयं कथितस्ते नगाधिप॥**
@@ -1265,15 +1081,11 @@ origin of the elements, (Ahamkâra) Mahat and primal homogeneous Matter, which s
 
 [^69]: "Loc. eit. VII. xxxii. 22, 28."
 
-
-
 scribed to thee, is the undifferentiated Avyakta, and the Mâyâ-coloured; in all the Shâstras is it described as the Cause of all causes, and the first Element of all the elements, the embodiment of Sat-Chit-Ânanda, compacted of all Karma, the base of Ichchhâ, Jñâna and Kriyâ. It is declared by the mantra Hrîñ, and is called the Âdi-Tattva.
 
  "From it was born Ákâsha, in the form of the Tanmâtra of sound. Thereafter arises Vâyu, of the nature of touch. Then Tejas, of the nature of vision. Then Water, of the nature of taste. And then Earth, of the nature of smell...... From them arose the great Thread, which is called the Linga. It is declared to possess the nature of all. It is the Sûkṣhma Deha of the Âtmâ. The Avyakta is the Kâraṇa Deha, declared before, in which the world exists as a seed, from which the Linga arises, wherefrom (arise) the gross elements in the way of Pañchîkaraṇa......The result of that is the Virâta Deha, which is the Sthûla Deha of the Âtmâ."
 
  The first emanation is here the Âdi-Tattva; then the Buddhi-Tattva, sometimes called Mahat-Tattva, said to follow the first; then the five Tattvas in order. The terms used, denoting the first two, vary in different accounts; they are sometimes represented as Mahat and Ahamkâra, or as Âdi-
-
-
 
 Bhûta and Mahat. In any case, the materials from which the worlds are made are seven, and these seven are spoken of in Manu as the source of all:
 
@@ -1288,8 +1100,6 @@ Bhûta and Mahat. In any case, the materials from which the worlds are made are 
 
  Brahmâ is surrounded by homogeneous matter, called Pradhâna, in the *Viṣhṇu Purâṇa*– in which the Guṇas are in equilibrium; His energy disturbing this tâmasic condition, Rajoguna prevails and there is rapid motion. Then He puts forth the principle of Mahat-Buddhi, Pure Reason– which, entering matter, being invested by it, and causing the predominance of the Sattva-guṇa, the motion becomes rhythmical, harmonious. Then follows Ahamkâra, the individualising principle, separating the homogeneous matter into particles, Aņus, atoms. Ahamkâra, causing the Tamo-guṇa to prevail in Prakṛiti, forms successively the five Tanmåtras, or subtle elements, and the senses: hearing, touch, sight, taste, smell, with their appropriate gross elements âkâsha, vâyu, agni, âpa, prithivî– ether,
 
-
-
 air, fire, water, earth. Causing Rajo-guṇa to prevail, Ahamkâra gives rise to the ten Indriyas: the 5 ideal types of sense-organs and the 5 ideal types of action-organs. Causing Sattva-guṇa to prevail, Ahamkâra calls out the ten Deities connected with the sense-and action-organs, and Manas, the centralising organ of the Indriyas. These three creations are called respectively the **भूतादि,** Bhûtâdi, that of the elements; **तैजस,** Taijasa, that of the fiery, the active energies; and **वैकारिक,**Vaikârika, the directing, administrative, powers.
 
  The points to remember here are: in what is usually called matter, Tamo-guṇa predominates ; in the Indriyas, Rajo-guṇa predominates; in the presiding Deities, Sattva-guṇa predominates.
@@ -1297,8 +1107,6 @@ air, fire, water, earth. Causing Rajo-guṇa to prevail, Ahamkâra gives rise to
  The work of creation proceeded by calling into existence the Suras or Devas, described by Manu as **कर्मात्मानः** "whose nature is action," that vast multitude of intelligent Beings, of very varying power and authority, who guide the whole course of na-ture, and direct all its activities.
 
  It is, of course, clearly understood by all Hindus that this vast host of Devas no more obscures the Unity of Íshvara, in His triple form as Brahmâ, Viṣhṇu and Shiva, than do the vast hosts of men animals, plants, and minerals. As said in the Shruti:
-
-
 
 इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान्।  
 एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः॥[^71]
@@ -1322,11 +1130,7 @@ air, fire, water, earth. Causing Rajo-guṇa to prevail, Ahamkâra gives rise to
 
 [^73]: "Ibid. 123."
 
-
-
 energies studied by science are the energies of the Devas. On their work depend the fruits of all human activities concerned with production, in all its branches. Those who seek for material prosperity need their continual co-operation, and this co-operation is granted under quite definite laws. It may be obtained by a scientific knowledge of their methods of working, man falling in with their activities and thus sharing the result. Or it may be obtained from them by what is literally exchange, man supplying them with objects which facilitate their work, or which they enjoy, and they, in return, directing their energies, the energies of nature, to suit his ends– as a strong man may help a weak man in the performance of a task. Or their increased co-operation may be won by prayers, accompanied by such acts as they approve, such as feeding the hungry, clothing the naked, etc. Or their services may be commanded by great Ṛiṣhis and Yogîs, who, by purity, knowledge, and austerity, have risen above them in the scale of being. Sometimes a man wins the favour of a Deva by some service done in this or a previous birth, and then all his efforts prosper, and he succeeds where others fail, and he is called "lucky." "Good luck" is the result of the working of Devas, and as their working is invisible, men think the
-
-
 
 result is a chance, or accident. But it must be remembered that all Devas work within law, and not by arbitrary fancies. The sacrifices and offerings prescribed in the Vedas form a great occult system for obtaining and regulating this co-operation between Devas and men, whereby the work of both was carried on with the largest results.
 
@@ -1357,8 +1161,6 @@ result is a chance, or accident. But it must be remembered that all Devas work w
 
  But the benefits obtained from them are transient:
 
-
-
 अन्तवत्तु फलम्।[^77]
 
  "Transient indeed the fruit,"
@@ -1371,15 +1173,11 @@ result is a chance, or accident. But it must be remembered that all Devas work w
 
  Four great Gods rule the four quarters: Indra, Yama, Varuņa and Kubera, as the protectors of mankind. Yama is the Lord of Death, the wise and gracious Deva who instructed Nachiketâs.
 
-
-
  The Asuras, the beings who are opposed to the Suras, or Devas, in their activity, embody the destructive energies of nature; they are as necessary and as useful as the constructive, though on the surface opposed to them. They hinder and obstruct evolution, embodying the very essence of matter, Tamo-guṇa, inertia, resistance, and by that very resistance make progress steady and durable.
 
  These creations belong to the invisible worlds, although, in their activities, they were to be closely connected with the visible-the worlds visible and invisible, indeed, forming the field of a vast evolutionary process– Samsâra, the World Process.
 
  The order of the process in the physical world at its origination was: minerals, plants, animals, men. In the *Viṣhṇu Purâṇa* it is stated that while Brahmâ was meditating on creation– the three primary Prâkṛita creations of Mahat, the elements and the indriyas, being over– the immovable creation, minerals and plants, appeared. Then followed the animal kingdom, called Tiryaksrotas. The creation of some Devas followed here, according to the *Purâṇa*, but they do not belong to the physical world, with which we are here dealing. Then came the creation of men. It must be remembered that while this is the fundamental order of evolu-
-
-
 
 tion, many varieties occur in different kalpas, and accounts in the different books vary, within certain broad limits, since these great classes of beings overlap each other, so that new kinds of animals and plants appear long after man. The world in fact is ever-becoming along the four great lines, however much we may separate them for purposes of exposition.
 
@@ -1391,8 +1189,6 @@ tion, many varieties occur in different kalpas, and accounts in the different bo
 
 [^78]: "Aitareyâraṇyaka. II. iii. 2."
 
-
-
 Âtmâ is (more) manifest. In them, Rasa also is seen, while mind is not seen in the others. In man, the Atmâ is (most) manifest; he is most supplied with knowledge. He speaks that which he knows; he sees that which he knows; he knows what occurred yesterday; he knows the visible and the invisible; by the mortal he desires the immortal. Thus sup- plied is he. But of the others, animals, hunger and thirst are the only knowledge. They speak not the known; they see not the known; they know not what belongs to yesterday, nor the visible and the invisible. Only this much have they. According to the knowledge are the births."
 
  On this Sâyaṇa comments as follows;
@@ -1400,8 +1196,6 @@ tion, many varieties occur in different kalpas, and accounts in the different bo
 ** "सच्चिदानन्दरूपस्य जगत्कारणस्य परमात्मनः कार्यभूताः सर्वेऽपिपदार्था आविर्भावोपाधयः। तत्राचेतनेषु मृत्पाषाणादिषु सत्तामात्रमाविर्भवति न चात्मनो जीवरूपत्वम्। ये तु ओषधिवनस्पतयो जीवरूपाः स्थावराः ये च श्वासरूपप्राणधारिणो जीवरुपा जङ्गमाः तेउभये अतिशयेन आविर्भावस्थानम् इति.............."॥**
 
  "All objects whatsoever, being of the nature of effects, are Upâdhis for the manifestation of the Supreme Self, Sat, Chit, Ânanda, the cause of the universe. In the unconscious, earth, stones, etc. only Sat is manifest, and the Âtmâ has not yet attained to the form of Jîva. The unmoving Jîvas, namely the herbs and trees, and also the moving
-
-
 
 Jîvas, which have Prâṇa as breath, both these are stages of manifestation in a higher degree."
 
@@ -1411,8 +1205,6 @@ Jîvas, which have Prâṇa as breath, both these are stages of manifestation in
 
  Moreover, it is further stated in the *Shiva Purâṇa* that when these forms had been fully developed, Mahâdeva was appealed to, and He gave immortality; that is, He linked to the forms the Jivâtmas evolved in previous kalpas. This is generally referred to in the ascription of Ahamkåra to Rudra. These three great stages in the building of worlds- the work of Brahmâ, creative of materials and of the ideal forms of all living beings; the work of Viṣhṇu, in breathing Prâna and Chit into these forms, and main-
 
-
-
 taining them in life; the work of Shiva in giving the eternal Jîvâtmâs– should be clearly understood.
 
  In *Manusmṛiti* nothing but hints of these details are given, only the name Brahmâ being used; but it is indicated that He changed His form, divided Himself and produced Virât, who produced Svâyambhuva Manu, who then called forth the ten Maharṣhis, they in turn producing seven Manus. After that, These became the active and direct agents in creation, Brahmâ Himself disappearing after creating the worlds, a class of Devas (those connected with the great elements), and some other general fundamental principles and beings, and giving the Vedas. The account is very brief, and from its brevity somewhat difficult, but this sum- mary of the World Process is only introductory to the main object of the book.
@@ -1421,15 +1213,11 @@ taining them in life; the work of Shiva in giving the eternal Jîvâtmâs– sho
 
  He (Brahmâ) emanated water first and therein sowed a handful of the seed which was His. The same grew up as an Egg, made up of the 24 tattvas. Brahmâ, who appeared as Virât, perceived the Egg becoming hard. This caused doubt in His mind and He gave Himself up to tapas. Thus He spent twelve years, concentrating His thought on Viṣhṇu. Then Viṣhṇu appeared and said: "I am pleased
 
-
-
 with Thee; ask what boon Thou desirest." Brahmâ said: "O Lord! it is just as it should be, for I have been placed by Shiva in your charge. The world which Shiva commanded me to create is here, but I see it is motionless (jaḍarûpa) and material So be thou, O Lord, as Life (Prâṇa) unto it, and make it conscious (chetana). Thus Brahmâ spoke, and Viṣhṇu, following the directions Shiva gave, entered the Egg—His form being one of a thousand heads, a thousand ears, a thousand feet and hands—the Universal Purusha who touched heaven and earth and pervaded the Egg.
 
  As Viṣhṇu entered it, that Egg of 24 tattvas became full of life and consciousness (sa-chetana) from Pâtâla to Satya Loka,
 
  Hari, the best of all Puruṣhas adorned the seat that is Satya, which He occupied. Brahmâ stood in the world of Tapas, while other Puruṣhas occupied the other worlds as became them. Brahmâ first created a number of sons born of the mind. But they all became ascetics. He created more again, but they also renounced the world. So He began to cry, out of annoyance. As He cried, Mahâdeva appeared. Because He came forth from Brahmâ's He is called Rudra. Immediately on His appearance He addressed Brahmâ saying
-
-
 
 "Brahma, what aileth Thee? Tell that to Me and I will remove it."
 
@@ -1443,9 +1231,6 @@ with Thee; ask what boon Thou desirest." Brahmâ said: "O Lord! it is just as it
   *
 
 1 Shiva Purâṇa. I. vi. 1—20.  
-
-
-
 
 यदैतेऽसङ्गता भावा भूतेन्द्रियमनोगुणाः।  
 यदायतननिर्माणे न शेकुर्ब्रह्मवित्तम्॥
@@ -1464,9 +1249,6 @@ with Thee; ask what boon Thou desirest." Brahmâ said: "O Lord! it is just as it
 
 1 *Loc. cit*. II. v. 32, 33.  
 
-
-
-
 Himself took the form of one—Rudra or Nilalohita. Sanatkumâra, Sanandana, Sanaka and Sanâtana are the four most often referred to. Ṛibhu, Kapila and Sana are also mentioned.
 
  To this brief sketch of the World-Process it should be added that the early human races preceding the Âryan are often referred to under the names of Dânavas and Daityas, huge beings of enormous strength and energy, who carried on many a struggle with the Devas themselves. The Râkṣhasas were another race, more brutal in nature, usually malformed, huge, cruel, powerful, cannibals, the terror of milder races. They possessed, moreover, many magical secrets of a dark kind, which they used for terrorising and oppressing. All these have long entirely disappeared from the earth.
@@ -1476,9 +1258,6 @@ Himself took the form of one—Rudra or Nilalohita. Sanatkumâra, Sanandana, San
 The points to be remembered are:
 
  I. The coming forth of the Many from Saguṇa Brahman and Mûlaprakṛiti by the power of Mâyâ, and their return at the close of the Day of manifestation.  
-
-
-
 
  2. The manifestation of Íshvara as the Trimûrti, in the forms of Creation, Preservation, and Destruction, Brahmâ, Viṣhṇu and Shiva, with their Shaktis, Sarasvatî, Lakshmî, and Umâ.
 
@@ -1491,9 +1270,6 @@ The points to be remembered are:
  6. The existence throughout the World-Process of lofty superhuman Intelligences, such as Ṛiṣhis and Kumâras, intent on human welfare.
 
  7. The past races on the earth, Dânavas, Daityas, Râkṣhasas.  
-
-
-
 
 CHAPTER III.
 
@@ -1521,8 +1297,6 @@ REBIRTH.
 
 1 *Shretâshvatarop*. i. 6.  
 2 *Ibid.* iii. 7, 13.
-
-
 
 all creatures, the one Pervader of the universe, the Lord, they become immortal.
 
@@ -1556,8 +1330,6 @@ all creatures, the one Pervader of the universe, the Lord, they become immortal.
 
 4 *Shvetâshvatarop.* i. 9.
 
-
-
  "Wise and unwise, both unborn, powerful and powerless."
 
  Therefore, although unwise and powerless, the Jîvâtmâ can become wise and powerful; to this end he must evolve, and his evolution is on the wheel of births and deaths.
@@ -1579,9 +1351,6 @@ all creatures, the one Pervader of the universe, the Lord, they become immortal.
 
 1 *Bhagavad-Gitâ.*ii, 22,  
 
-
-
-
 of a day, here to-day and gone to-morrow, but an unborn immortal being, growing into a knowledge of his true nature and powers. Everything is within him, the fullness of divine wisdom and power, but this capacity has to be unfolded, and that is the object of living and dying. Such a view of man's nature gives dignity and strength and sobriety to life. It has been believed in by wise men in all ages, and has been a part of every ancient religion. The student will find this gṛeat truth established irrefutably and conclusively by pure argument in Vâtsyâyana's Bhâṣhya on the *Nyâya Sûtras* of Gautama.
 
  Only in modern times, during a period of great ignorance, was this truth lost sight of in the West, and very irrational and fantastic notions have in consequence grown up there as to the human soul, its nature and destiny, undermining belief in the just and loving rule of Íshvara.¹
@@ -1592,23 +1361,13 @@ of a day, here to-day and gone to-morrow, but an unborn immortal being, growing 
                                    
   *
 
- 
-
 1 But even in the West such great scientific thinkers as Professor Huxley have begun to recognise the continued existence of the Jîvâtmâ from life to life. "Like the doctrine of evolution itself," he says, "that of transmigration has its roots in the world of reality; and it may claim such support as the great argument from analogy is capable of supplying." *Ecolution and Ethics* P. 16.  
-
-
-
 
 embodied in a Rûpa made up of the five elements, all these are inherent, not manifest. He passes through the diversified existences of the mineral kingdom, and of the plant and of the animal realms,— the **उद्भिज्जाः** Udbhijjâḥ (born by fission in the minerals and plants); the **स्वेदजः** Swedajâḥ (born by exudation or gemmation, in certain low forms of plants and animals); the **अण्डजाः**Aṇḍajâḥ (born first as eggs, the oviparous animals)— before coming into the **जरायुधः** Jarâyujâḥ (the viviparous higher animals and the human kingdom).
 
  In these many of its lower powers are developed, and its consciousness passes from the latent to the active condition. A double evolution goes on; there is the continued life of the Jîvâtmâ himself, continually increasing in richness and complexity; and there is a corresponding continuity in the forms he occupies, as each physical form is directly derived from a preceding physical form. Each form, however independent it may seem, was once part of another form, whose characteristics it shared, and from which it has been separated off for an independent career. While part of the parent form it shared all the advantages and improvements, or the reverse, due to the developing Jîvâtmâ within that parent form, and thus starts on its separate life on a little higher level than  
 
-
-
-
 its parent if the Jîvâtmâ has progressed, or on a little lower level if it has retrograded. For while the general movement is one of progress, there are little ebbs and flows, like the waves that run on and fall back in a rising tide. This unbroken physical inheritance from form to form causes what science calls heredity, the passing on of characteristics from parents to offspring. But it has been observed by scientific men that mental and moral characteristics do not pass from form to form, and they are puzzled to account for the evolution of consciousness. Their theory needs to be completed by the acceptance of transmigration. For just as physical continuity is necessary for physical evolution, so is the continuity of consciousness necessary for the evolution of mental and moral characteristics. This continuity is the consciousness of the Jîvâtmâ, which takes a form suitable to his condition-as we shall see presently in Chapter IV.— enlarges his own powers by using the form, and thereby improves the form also; the bodies of the children of the body share these improvements of the form, are improved again by other Jîvâtmâs, and pass on still more improved bodies. When the old body is worn out, the Jîvâtmâ throws it off, and takes another form, as said above.
-
-
 
  When the animal stage has been fully experíenced, and the Jîvâtmâ is ready to pass on into the human form, his triune nature, reflection of the triune nature of Íshvara, begins to manifest. The human Jîvâtmâ— as we may now call him— manifests the three aspects of Jñâna, Ichchhâ and Kriyâ which have ever been in him, and these begin to evolve as self-consciousness; ahamkâra appears, and the recognition of the "I" as opposed to the "Not I" rapidly developes. The desire-nature, developed in the animal kingdom, now becomes much more powerful, by seizing on the evolving mind as its slave, and using its growing powers for the satisfaction of its own cravings. As the mind grows stronger, and the Jîvâtmâ by experience learns the pains that result from unbridled desires, he begins to exert his strength in checking and directing thed esires, and the long struggle commences between the Jivâtma, dimly beginning to feel his own divinity, and the kâmic elements of his upâdhis. As is written in the *Kaṭhopaniṣhat*:
 
@@ -1617,9 +1376,6 @@ its parent if the Jîvâtmâ has progressed, or on a little lower level if it ha
 ^(*                                                                        *)  
 
 1 *Kaṭhop*, I. iii, 3-7.  
-
-
-
 
  "Know the Self the chariot-owner, the body the chariot; know Reason the charioteer, and the mind as the reins; they call the senses the horses, the sense-objects their province. The Self, joined to the senses and mind, (is) the enjoyer; thus say the wise. Whoever is ignorant, always with mind loose, his senses (are) uncontrolled, like bad horses of the charioteer. Whoever is wise, always with mind tightened, his senses (are) controlled, like good horses of the charioteer. Whoever is indeed ignorant, thoughtless, always impure, he does not obtain that goal, (but) comes again into Samsâra."
 
@@ -1633,8 +1389,6 @@ its parent if the Jîvâtmâ has progressed, or on a little lower level if it ha
                         *  
 
 1 *Loc*. *cit*. IV. iv. 4.
-
-
 
  "As a goldsmith, having taken a piece of gold, makes another form, new and more beautiful, so verily the Âtmâ, having cast off this body and having put away Avidyâ, makes another new and more beautiful form."
 
@@ -1657,9 +1411,6 @@ its parent if the Jîvâtmâ has progressed, or on a little lower level if it ha
   *
 
 1 *Ibid*. 6.  
-
-
-
 
 भोगान्ते च यदोत्पत्तेः समयस्तस्य जायते।  
 .....................................................
@@ -1686,8 +1437,6 @@ its parent if the Jîvâtmâ has progressed, or on a little lower level if it ha
 1 *Loc. cit*. IV. xxi. 22-25.  
 2 *Loc. cit.* Shânti Parva, ccii.
 
-
-
 from the understanding the mind (Manas); when to these the Senses (Indriyas) are added, the man, the Dweller in the Body, is complete; the Body, his dwelling, is made up of the five elements. The senses, through the body, come into touch with the outer world; the senses hand on to the mind the results of the contact, giving the attributes or properties of the objects contacted— the way in which the objects affect them. The mind receives these reports, and groups them into mental images, and presents these to the understanding; the understanding pierces to the reality in which these mental images, made up of attributes, inhere.This
 
 is the outgoing of the Jîvâtmâ, and his gathering of experience, the **प्रवृत्तिमार्गः**, the Pravṛitti Mârgaḥ, the path of going forth.
@@ -1704,9 +1453,6 @@ is the outgoing of the Jîvâtmâ, and his gathering of experience, the **प्
                         *  
 
 1 *Bhagavad-Gîtâ*. xv. 7.  
-
-
-
 
 इन्द्रियाणि दशैकं च।¹
 
@@ -1729,8 +1475,6 @@ is the outgoing of the Jîvâtmâ, and his gathering of experience, the **प्
 
 2 *Ibid*. v. 22.
 
-
-
 # 
 
 son of Viṣhṇu and Lakshmî, and also the lower aspect of Ichchhâ.¹
@@ -1746,13 +1490,10 @@ son of Viṣhṇu and Lakshmî, and also the lower aspect of Ichchhâ.¹
 
 *                                   
                         *  
- 
 
 1 Dharma is born from the Wisdom of Viṣhṇu, Kâma from His Love, which must be developed in man first by desire for material objects; therefore Dharma, Kâma and Artha are enjoined together on the Pravṛitti Mârga.
 
  2 *lbid*. iv. 33, 35.
-
-
 
 their entirety, O Pârtha, culminate in wisdom. By this thou shalt see all beings without exception in the Self, and thus in Me."
 
@@ -1778,9 +1519,6 @@ their entirety, O Pârtha, culminate in wisdom. By this thou shalt see all being
 
 3 *Ibid*. iii. 8.  
 
-
-
-
 यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः।  
 अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुत इति॥¹
 
@@ -1801,16 +1539,11 @@ their entirety, O Pârtha, culminate in wisdom. By this thou shalt see all being
 
 2*Ibid*. 23.  
 
-
-
-
 thus also becomes tranquil. The understanding withdraws from the study of the concepts presented by the mind, and, thus tranquil, reflects the Self. So long as the mind turns to the senses it finds misery. When it turns to the understanding it finds bliss.
 
  Along this road, the **निवृत्तिमार्गः** the Nivṛitti Mârgaḥ, or returning path, the Jîvâtmâ returns from his wanderings in Samsâra and reaches his true home, the Eternal, paying, while he treads this path, all the debts contracted on the Pravṛitti Mârga.
 
  To see the Self is Jñâna, wisdom; to love the Self is Bhakti, devotion; to serve the Selfis Karma, action. Such Jñaña, Bhakti, Karma, are the three Mârgas, ways, to Mokṣha, liberation. The Jñâna Mârga is for those in whom Chit predominates; the Bhaktî Mârga for those in whom Ichchhâ predominates; the Karma Mârga for those in whom Kṛiyâ predominates. But in each path, as each Jîvâtmâ is triune, the evolution of all of its three aspects must be carried on. The Jñânî, as he gains wisdom, will find devotion and right activity appear; the Bhakta, as devotion is perfected, will find him-self possessed of activity and wisdom. The Karmaṇya, as his activity becomes wholly selfless, will achieve wisdom and devotion.The three Mârgas are, in fact, one, in which three different tempera-
-
-
 
 ments emphasise one or other of its inseparable constituents. Yoga supplies the method by which the Self can be seen and loved and served.
 
@@ -1831,11 +1564,7 @@ ments emphasise one or other of its inseparable constituents. Yoga supplies the 
 
 1 *Bhagavad-Gîtâ*. V. 4. 5.
 
-
-
 # 
-
-
 
 atmâ, but the attitude of the Jîvâtma to the Self and the Not-Self.
 
@@ -1846,8 +1575,6 @@ atmâ, but the attitude of the Jîvâtma to the Self and the Not-Self.
    ***
 
 1 *Bhagavad*-*Gîtâ*. xvi. 19.
-
-
 
  The points to be remembered are:
 
@@ -1865,17 +1592,11 @@ atmâ, but the attitude of the Jîvâtma to the Self and the Not-Self.
 
  7. There are three paths to liberation, Jñâna Bhakti, and Kriyâ, and these finally blend.  
 
-
-
-
 CHAPTER IV.
 
 **KARMA.**
 
  Karma literally means action, but as every action is triple in its nature, belonging partly to the past, partly to the present, partly to the future, it has come to mean the sequence of events, the law of causes and effects, the succession in which each effect follows its own cause. The word Karma, action simply, should however remind us that what is called the consequence of an action is really not a separate thing but is a part of the action, and cannot be divided from it. The consequence is that part of the action which belongs to the future, and is as much a part of it as the part done in the present. Thus suffering is not the consequence of a wrong act, but an actual part of it, although it may be only experienced later. A soldier is sometimes wounded in battle, and in the excitement does not feel any pain; afterwards, when he is quiet he feels the pain; so a man sins and feels no suffering, but later the suffering makes itself felt. The suffering is not separated from the wound, any more than heat from fire, though experienced as a result.  
-
-
-
 
  Hence all things are linked together indissolubly, woven and interwoven inseparably; nothing occurs which is not linked to the past and to the future.
 
@@ -1892,14 +1613,9 @@ CHAPTER IV.
 
 1 *Devî Bhâgavata*, I. v. 74.  
 
-
-
-
 and can play off, the one against the other, the forces that oppose him. So can a man who knows the laws of nature utilise those whose forces are going his way and neutralise those which oppose. Therefore is knowledge indispensable; the ignorant are always slaves.
 
  It must be remembered that a law of nature is not a command to act in a particular way, but only a statement of the conditions within which action of any kind can be done. "Water boils at 100° C under normal pressure." This is a law of nature. It does not command a man to boil water, but states the conditions under which water boils at 100° C. *If he wants boiling water at that* *temperature* these are the conditions which are necessary. If he is on a high mountain where the pressure is much less than the normal, his water will boil at a temperature not sufficiently high for cooking purposes. How then does the law help him? It tells him how to get his boiling water at 100° C by increasing the pressure; let him shut his water up in a pot from which the steam cannot escape, and so add to the pressure the weight of the steam given off, till the temperature of the water rises to 100°. And so also with every other law of nature. The laws state conditions under which certain results follow. According to the results desired may
-
-
 
 conditions be arranged, and, given the conditions, the results will invariably follow. Hence law does not compel any special action, but only renders all actions possible, and knowledge of law is power.
 
@@ -1920,9 +1636,6 @@ conditions be arranged, and, given the conditions, the results will invariably f
                          ***
 
 1 *Brihadâraṇyakop.* IV. iv. 5.  
-
-
-
 
 happen, and can shape our future destiny according to the results we have chosen.
 
@@ -1945,8 +1658,6 @@ I. Desires carry the man to the place where the objects of desire exist, and thu
 
 2 *Bhagavad-Gîtâ*. v. 12.
 
-
-
 desires, and allow them to attach themselves only to objects the possession of which will yield happiness; then, in another life, he will have opportunities of attaining them, for they will come and place themselves in his way. This is the first law, belonging to the desire-nature.
 
  The second law concerns the mind.
@@ -1966,9 +1677,6 @@ desires, and allow them to attach themselves only to objects the possession of w
 
 2 The word is क्रतु.  
 
-
-
-
 the same means, thought. Character, the nature of the man, is thought-created; this is the first of the three factors of Karma. What the man essentially is in himself, that is the outcome of his thinking. As he is thinking now, so hereafter he will himself be. If he thinks nobly, he will become noble; if he thinks basely, he will become base. Thus knowing, a man can deliberately shape his character, by dwelling in his mind on all that is good and pure and elevating, and driving out of it all that is evil, foul, and degrading. This is the second law, belonging to the mind.
 
  The third law concerns action.
@@ -1984,8 +1692,6 @@ the same means, thought. Character, the nature of the man, is thought-created; t
                         *
 
 1 *Mahâbhârata*, Shanti Parva, cci, 23.
-
-
 
 **नावीजाज्जायते किंचित् नाकृत्वा सुखमेधते।  
 सुकृतैर्विन्दते सौख्यं प्राप्य देहक्षयं नरः॥¹**
@@ -2003,15 +1709,11 @@ the same means, thought. Character, the nature of the man, is thought-created; t
 
 1 *Ibid*. ccxci, 12.
 
-
-
 sired; of using the capacities then created; of living in the circumstances then made. But the living Jîvâtmâ, that then desired, thought and acted, is still the same powerful agent as he then was, and can put out his powers within the limits he has made, can modify and slowly change them, and create better conditions for the future. Therefore Bhîṣhma places exertion above destiny.
 
  A view of Karma that paralyses human efforts is a crude and mistaken one, and men should see in Karma a guide, and not a paralyser, of action.
 
  One very commonly felt difficulty in connexion with Karma is this: men ask: "If I am destined by my Karma to be bad or good, to do this or not to do it, it must be so ; why then make any effort?" The fallacy of this line of thought should be very clearly understood, if the above has been grasped, for it turns upon a complete misunderstanding of the nature of Karma. The effort is part of the Karma, as much as the goodness or badness; Karma is not a finished thing awaiting us, but a constant becoming, in which the future is not only shaped by the past but is being modified by the present. If a man desires to be good, he is putting forth an energy which presently will make him good, however bad he may be now. A man is not a helpless being, destined by his Karma to
-
-
 
 be either bad or good, but he becomes that which he daily chooses as desirable— badness or goodness. He always is, and always must be, making efforts, merely because he is alive, and his only choice lies in making an effort to move in one direction rather than in another; his quietude is merely a choice to let past choices have their way, and to go in accordance with them. He does not eliminate the element of choice by doing nothing; he simply chooses doing nothing.A man has only to desire, to think, to act, and he can make his Karma what he chooses. Thus the Gods have risen to their high estate, and thus may others rise.
 
@@ -2033,16 +1735,11 @@ be either bad or good, but he becomes that which he daily chooses as desirable�
 
 1 *Devi* *Bhâgavata*. IX, xxvii, 18-20.  
 
-
-
-
  "Godhood and Manhood and sovereignty of a world-empire may a man obtain by Karma, and also the state of Shiva and of Gaṇesha."
 
  The main thing is to see in Karma not a destiny imposed from without, but a self-made destiny, imposed from within, and therefore a destiny that is continually being re-made by its maker.
 
  Another mistake sometimes made as to Karma is that which leads a person to say respecting a sufferer: "He is suffering his Karma; if I help him I may be interfering with his Karma." Those who thus speak forget that each man is an agent of the Karma of others, as well as an experiencer of his own. If we are able to help a man, it is the proof that the Karma under which he was suffering is exhausted, and that we are the agent of his Karma bringing him relief. If we refuse to carry the kârmic relief, we make bad Karma for ourselves, shutting ourselves out from future help, and some one else will have the good Karma of carrying the relief and so ensuring for himself aid in a future difficulty. Further, "if's" and " may be's" are no ground for action; "If I do not help him I may be interfering with his Karma," is as valid an argument as If I help him." Action should be based on what *we know*, and we *know* it is right and good to help others; it is constantly commanded
-
-
 
 by the wise. Only a full and clear knowledge of the causes in the past resulting in the suffering of the present could justify refusal to help on kârmic grounds.
 
@@ -2066,8 +1763,6 @@ by the wise. Only a full and clear knowledge of the causes in the past resulting
 
 1 *Devî-Bhâgavata*. VI. x. 9, 12, 13, 14.
 
-
-
 the body, Time energises this: it is known as Prârabdha Karma."
 
  The Sañchita Karma is the Karma which is gathered, collected, heaped together. It is the mass which lies behind a man, and his tendencies come from this. The Vartamâna Karma is the actual, that which is now being made for the future, or the Âgâmi, the coming Karma; while the Prârabdha Karma is that which has begun, is actually bearing fruit.
@@ -2075,8 +1770,6 @@ the body, Time energises this: it is known as Prârabdha Karma."
  Now this Prârabdha Karma is, as said in the shloka above-quoted, selected out of the mass of the Sañchita Karma. In Vedântic literature it is sometimes compared to an arrow already shot. That which is sufficiently congruous to be worked out in one physical body is selected by the Devas who rule this department of nature, and a suitable physical body is built for it, and placed with the parents, nation, country, race, and general surroundings, neccssary for the exhaustion of that Karma.
 
  Prârabdha Karma, as said above, cannot be changed; it must be exhausted by being experienced. The only thing that can be done is to take it as it comes, bad or good, and work it out contentedly and patiently. In it we are paying our past debts, and thus getting rid of many of our liabilities.
-
-
 
 प्रारब्धकर्मणां भोगादेव क्षयः।
 
@@ -2096,9 +1789,6 @@ the body, Time energises this: it is known as Prârabdha Karma."
                         *
 
 1 *Devî* *Bhâgavata*. IV. ii. 8.  
-
-
-
 
  "All, Brahmâ and the rest, are under its sovereign rule, O king!"
 
@@ -2126,8 +1816,6 @@ the body, Time energises this: it is known as Prârabdha Karma."
 
 2 *Loc*. *cit*. iv. 19. 23.
 
-
-
  "Whose works are all free from the moulding of desire, whose Karma is burned up in the fire of wisdom, him the wise have called a Sage......"
 
  "From one with attachment dead, free, with his thoughts established in wisdom, working for sacrifice (only), all Karma melts. away.
@@ -2148,12 +1836,7 @@ the body, Time energises this: it is known as Prârabdha Karma."
 
 6\. The ceasing of individual Karma.
 
-
-
 ![](../books_images/U-IMG-1735282812Screenshot(26).png)  
-
-
-
 
 CHAPTER V.
 
@@ -2174,8 +1857,6 @@ CHAPTER V.
 
 1 *Bhagavad*-*Gitâ*. iv, 31.
 
-
-
 cerned with the general principle, not with the specific applications.
 
  Creation began with sacrifice:
@@ -2195,9 +1876,6 @@ cerned with the general principle, not with the specific applications.
 1 *Brihadâraṇyakop*. I. i. 1,  
 2 *Loc, cit,* X. 90.  
 
-
-
-
 ब्रह्म वै स्वयम्भूस्तपोऽतप्यत।  
 तदैक्षत न वै तपस्यानन्त्यमस्ति हन्त अहं भूतेष्वात्मानं जुहवानि भूतानि च आत्मनि इति।  
 तत्सर्वेषु भूतेष्वात्मानं हुत्वा भूतानि च आत्मनि सर्वेषां भूतानां श्रेष्ठ्यं स्वाराज्यमाधिपत्यं पर्येत्।¹
@@ -2212,8 +1890,6 @@ cerned with the general principle, not with the specific applications.
 
 1 *Loc. cit*. XIII. vii. 1.                   2 *Loc. cit*. i. 22.  
 3 *Bhagavad-Gîtâ*, xv. 7.
-
-
 
 विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्॥¹
 
@@ -2235,8 +1911,6 @@ cerned with the general principle, not with the specific applications.
 
 2*a Ibid* x. 42. 3*Bhagavad Gîtâ*, iii, 10. 4*Ibid,* viii. 3.
 
-
-
 posed on the lower creation by strife and continual combats: its voluntary acceptance by selfsacrifice is the crowning glory of man. Hence all man's higher evolution is marked out by self-sacrifice, by sacrificing himself and all his actions to the Supreme man obtains liberation.
 
 यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्।  
@@ -2257,13 +1931,9 @@ posed on the lower creation by strife and continual combats: its voluntary accep
 
 1 *Bhagavad-Gîtâ*, ix, 27, 28,
 
-
-
 higher, the countless annual plants perishing to enrich the soil in which trees grow. Myriads of others are eaten by animals, and their forms go to build up animal bodies, in which the Life has fuller scope.
 
  The Life in part of the animal kingdom evolves by the sacrifice again of the lower forms to the higher, and also to the maintenance of the human kingdom, within which also the weak are devoured by the strong in the savage state. But here gradually, with increasing development of the animals to keen sensibility, and with the development of conscience and sympathy in man, another form of the law appears, and man begins to refuse to sacrifice to the support of his own life those who share with him the feelings of pleasure and pain. He first revolts against cannibalism— eating his own kind— and then against eating his weaker brothers in the animal kingdom. He realises that the divine nature in him developes by sacrifice of himself to others, and not by the sacrifice of others to himself. He lessens as much as he can his demands on the lives of others, and increases as much as he can his own sacrifices for them. So long as a man identifies himself with his body, he is always trying to take, to absorb, because the body continues only by such taking and absorbing. When he identifies
-
-
 
 himself as the Self, he is always trying to give, to pour out, because the joy of the Self is in forthpouring. On the Pravṛitti Mârga he takes; on the Nivṛitti Mârga he gives. Thus evolves the life of man.
 
@@ -2283,8 +1953,6 @@ himself as the Self, he is always trying to give, to pour out, because the joy o
 
 1 *Rigveda*. VII. lxxxiv, 1, 4, 5.
 
-
-
  Such prayers are found on every page of the Samhitâs, and thus were men taught to sacrifice what they valued for a future gain.
 
  By these sacrifices they were also taught to see that man is part of a great whole, and related to all around him; and that as his own life was maintained by the sacrifice of other lives, so he must repay that debt by sacrificing to others some of his possessions, sacrificing to the Devas in the fire which was "the mouth of the Gods," or **अन्नादः**"the eater of food," and to men by charitable gifts. In this way the sense of obligation was impressed on them, and the interdependence of lives.
@@ -2303,8 +1971,6 @@ himself as the Self, he is always trying to give, to pour out, because the joy o
 1 *Brihdâraṇyakop*. I. iv. 6.  
 *2 Muṇḍakop*. I. ii. 5, 6.
 
-
-
 ly mentioned\], at the proper time, him these sunrays lead where dwells the one Lord of the Devas.
 
  Saying to him 'Come, come,' these resplendent libations carry the sacrificer by the sun-ray, worshipping him and saying the sweet words; "This is your pure well-deserved Brahma-world."
@@ -2312,8 +1978,6 @@ ly mentioned\], at the proper time, him these sunrays lead where dwells the one 
  A great step forward was made in this sacrificing of the visible to the invisible, of the present to a far-off future. But the object of this training in sacrifices was no more the enjoyment of Svarga than the enjoyment of wealth on earth. They had learned to curb their greed for possessions by the practice of giving, and to recognise themselves as owing their lives to the larger life around them; they were thus prepared for the third stage, that of sacrifice as duty, for which no reward should be sought.
 
  Men now began to see that the sacrifice of the lower to the higher was "right," a duty that was owed in return for the perpetual sacrifice of the higher to the lower, of the life of Íshvara for the maintenance of His children; and further that the body also owed a debt to the lower creatures who supported it, that ought to be paid by helping and serving them in turn. Then they were ready for the lesson:
-
-
 
 कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।  
 मा कर्मफलहेतुर्भूर्मा ते संगोऽस्त्वकर्मणि॥  
@@ -2337,8 +2001,6 @@ ly mentioned\], at the proper time, him these sunrays lead where dwells the one 
 1 *Bhagavad-Gîtâ*, ii, 47, 48,  
 *2 Ibid*. vi. 16.
 
-
-
 **मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।  
 मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे॥  
 सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।¹**
@@ -2352,8 +2014,6 @@ ly mentioned\], at the proper time, him these sunrays lead where dwells the one 
                         *
 
 1 *Ibid*. xviii, 65, 66.
-
-
 
 more real importance than the external purifications. While these should not be neglected, the neglect of the other was fatal.
 
@@ -2377,8 +2037,6 @@ more real importance than the external purifications. While these should not be 
 
 1 *Gautama Dharma Sûtra*, viii. 24, 25.  
 2*Bhagavad Gîtâ*. ii 42, 44,
-
-
 
  "Flowery speech is uttered by the foolish, rejoicing in the letter of the Vedas, O Pârtha, saying 'There is naught but this.'
 
@@ -2406,8 +2064,6 @@ more real importance than the external purifications. While these should not be 
 1 *Ibid*. iv. 33, 38.  
 2 *Mahâbhârata*. Sh*â*nti Parva, clxii. 26.
 
-
-
  "Once on a time a thousand horse-sacrifices and truth were weighed against each other in the balance. Truth weighed heavier than a thousand horse-sacrifices."
 
  With regard to abstention from cruelty he says:
@@ -2428,8 +2084,6 @@ more real importance than the external purifications. While these should not be 
 
 1 *Ibid*. Anushâsana Parva. cxvi. 40-41.
 
-
-
  2. Sacrifice is essentially giving, pouring forth.
 
  3. Sacrifice is the law of evolution; compul- sory in the lower kingdoms, becoming voluntary in the human.
@@ -2438,11 +2092,7 @@ more real importance than the external purifications. While these should not be 
 
  5. Sacrifices of virtue and wisdom are more effective than the sacrifices of external objects.
 
-
-
 ![](../books_images/U-IMG-173391031453.png)
-
-
 
 **CHAPTER VI.**
 
@@ -2460,8 +2110,6 @@ First comes the statement ;
 
 1 *Chhândogyop*. VIII. xii. 1.
 
-
-
  Then the wish to experience is said to lead the Âtmâ to form organs for receiving and transmitting to himself the experiences. His wish lies at the root of each, and matter obeys his impulse, and obediently moulds itself into a form suitable for the exercise of the life-function. (Science, in these later days, proves over and over again that an organ is formed under the pressure of the life seeking to function in a particular way.)
 
  यो वेदेदं जिघ्राणीति स आत्मा गन्धाय प्राणमथ यो वेदेदमभिव्याहराणीति स आत्माभिव्याहाराय वागथ यो वेदेदंꣳ शृण्वानीति स आत्मा श्रवणाय श्रोत्रमथ यो वेदेदं मन्वानीति स आत्मा मनोऽस्य दैवं चक्षुः।¹
@@ -2476,8 +2124,6 @@ First comes the statement ;
                         *
 
 1 *Ibid*, 4, 5.
-
-
 
  "He, verily, this (Âtmâ), by this divine eye, the mind, sees and enjoys these desires."
 
@@ -2500,8 +2146,6 @@ First comes the statement ;
 
 1 *Bhagavad-Gîtâ*, xv. 7, 9.
 
-
-
  There are three worlds in which the Jivâtmâ circles round on the wheel of births and deaths.
 
  These are **भूलोकः** Bhûlokaḥ or Bhûrlokaḥ, the physical earth; **भुवर्लोकः**Bhuvarlokaḥ, the world next the physical, and closely related to it, but of finer matter; **स्वर्लोकः** Svarlokaḥ, or Svarga, the heavenly world. Beyond these are four other worlds, belonging to the higher evolution of the Jivâtmâ: **महर्लोकः** Maharlokaḥ, **जनलोकः** Janalokaḥ, **तपोलोकः** Tapolokaḥ, and **सत्त्यलोकः**Satyalokaḥ. The first three Lokas, or worlds, perish at the end of a Day of Creation, a Day of Brahmâ, and are reborn at the dawn of the succeeding Day. The others persist, but as Maharloka is rendered untenable and deserted by all its inhabitants, four Lokas may be regarded as perishing at the Night of Brahmâ, while three— Janalaka, Tapoloka, and Sattyaloka remain. All these seven Lokas are within the Brahmâṇḍa; two others, Vaikuṇṭha and Goloka, lie beyond it, but can be reached from it.¹
@@ -2514,8 +2158,6 @@ First comes the statement ;
 
 1 See *Vishṇu Purâṇa*. I. iii.
 
-
-
 gions "within" the earth, that is of grosser matter than the earth. The student may remember that the sons of Sagara, after hunting all over the surface of the earth for the stolen horse, penetrated the lower regions, and came to Rasâtala.¹ The names of these are: **पातालं** Pâtâlam; **महातलं** Mahâtalam;**रसातलं**Rasâtalam; **तलातलं**Talâtalam; **सुतलं** Sutalam; **वितलं**Vitalam; and **अतलं** Atalam. They correspond to the Lokas, as an image corresponds to an object, and are on a descending scale, as the Lokas are on an ascending.
 
  These lokas mark the stages of evolution of the consciousness of the Jîvâtmâ; as his powers unfold, he becomes conscious of these Lokas one after the other, and becomes able to feel, think, and act in Upâdhis made out of the **भूतानि** Bhûtâni, the Bhûtas or elements, which correspond to these stages of consciousness. Each Loka, as a state, represents a form of the consciousness of Íshvara; and, as a place, represents a modification of Prakṛiti, expressing that state of consciousness. As the Jivâtmâ is of the nature of Íshvara, he is capable of realising these seven states of consciousness, and of thus living in touch with the seven worlds, or modifications of Prakṛiti, which correspond to them.  
@@ -2523,8 +2165,6 @@ gions "within" the earth, that is of grosser matter than the earth. The student 
                         *
 
 1 See *Râmâyana!* I. xl. 22.
-
-
 
 These seven, as said above, make up the Brahmâṇḍa, the world Egg, within which the creative work of Brahmâ proceeds.
 
@@ -2554,8 +2194,6 @@ These seven, as said above, make up the Brahmâṇḍa, the world Egg, within wh
 
 1 *Devî Bhâgavata*, IX. 8-10, 12-16. A similar statement is made in the *Viṣhṇu Bhâgavata*, III, x, 7-9, xi, 28-31.
 
-
-
 beyond. Then next is Svarloka, and Janaloka beyond. Yet beyond is Tapoloka, and again beyond Satyaloka. Then beyond is Brahmaloka, like burning gold.
 
  "All this is made, one within the other; when that perishes, all perish, O Nârada! All this collective universe is like a water-bubble, transient. Goloka and Vaikuṇṭha are called everlasting, even-unmade."
@@ -2578,8 +2216,6 @@ beyond. Then next is Svarloka, and Janaloka beyond. Yet beyond is Tapoloka, and 
 
 1 *Loc. cit*. I. v. 16.
 
-
-
 ed off by the nature of the matter of which it is composed. The Tattva that predominates in Bhûrloka, or Pṛithvî, the earth, is the Pṛithvî Tattva; there are seven modifications of it, Pṛithvî, Âpaḥ, Agni, Vâyu, Âkâsha-solid, liquid, gaseous, radiant matter, etheric, super-etheric and atomic. In all the combinations which make up these modifications of Pṛithvî, the various aggregations of the Aṇu, the Pṛithvî Tattva is predominant.
 
  In Bhuvarloka the Âpaḥ Tattva is predominant and in the seven corresponding modifications there the aggregations of the Aṇu of that world, this Âpaḥ Tattva, is the most prominent characteristic.
@@ -2589,8 +2225,6 @@ ed off by the nature of the matter of which it is composed. The Tattva that pred
  We then come to Maharloka, in which also the Agni Tattva is predominant, a world composed only of the three finest and subtlest aggregations of the fiery Aṇu.
 
  The three higher Lokas, Jana- Tapa- and Satya-lokas, are not reached by the Jîvåtmâ till he is very highly evolved. In Janaloka and Tapoloka
-
-
 
 the Vâyu Tattva predominates, hence all the combinations interpenetrate each other without any difficulty, as gases do down here, and the sense of unity predominates over the sense of separateness.
 
@@ -2614,8 +2248,6 @@ the Vâyu Tattva predominates, hence all the combinations interpenetrate each ot
 
 1 *Prashnop*, iii, 3.   2 *Ibid*. 5.
 
-
-
 these flames take the departed soul to the heavenly worlds.¹
 
  And the Devi Bhagavata says:
@@ -2633,9 +2265,6 @@ these flames take the departed soul to the heavenly worlds.¹
 
 1 *Loc. cit*. I. ii, 3, 6.       2 *Loc. cit*. VII. xxxiii, 49.  
 
-
-
-
 Vâyu, which includes Janaloka and Tapoloka. The Praṇas in man correspond to the kosmic Prâṇas, for man is related to, and reflects in every part, the image of Ishvara and His universe.
 
  In the *Mâṇḍukyopaniṣhat*, the Self is said to have four states, the **जाग्रत्** Jâgrat, waking, in which he is called Vaishvânara; the "dreaming" in which he is called Taijasa; the third **सुषुप्तिः** Suṣhuptiḥ, "well sleeping," in which he is called Prâjňa; and the fourth, that which is Brahman. These three states belong to the seven Lokas, as will be clearly if we now consider the **देहाः** Dehâḥ, bodies, in which the aspects of consciousness are manifested. We shall return to the aspects of consciousness when we consider them in their several material sheaths.
@@ -2644,8 +2273,6 @@ Vâyu, which includes Janaloka and Tapoloka. The Praṇas in man correspond to t
 
 प्राज्ञस्तु कारणात्मा स्यात् सूक्ष्मदेही तु तैजसः।  
 स्थूलदेही तु विश्वाख्यस्त्रिविधः परिकीर्तितः॥
-
-
 
 एवमीशोऽपि संप्रोक्त ईशसूत्रविराट्पदैः।  
 प्रथमो व्यष्टिरूपस्तु समष्ट्यात्मा परः स्मृतः॥¹
@@ -2662,8 +2289,6 @@ Vâyu, which includes Janaloka and Tapoloka. The Praṇas in man correspond to t
 
 1 *Devî Bhâgavata*, VII, xxxii, 47, 49,
 
-
-
 and Generation— so are the Sharîras made up of Sheaths, composed of differing densities of matter, according to the subdivision of the consciousness working in each sheath. The three Sharîras are related to the seven Lokas as follows:
 
  The Sthûlasharîra is the Upâdhi in Bhûrloka.
@@ -2673,8 +2298,6 @@ and Generation— so are the Sharîras made up of Sheaths, composed of differing
  The Sharîras, as said above, are made up of sheaths, and here the Vedântin division of the five **कोषाः**Koṣḥâḥ, sheaths, is very helpful.
 
  The first kosha is that which is built of the particles of food, and is therefore named Annamayakoṣhaḥ, food-sheath. This is identical with the Sthûlasharîra, the dense body, and is composed of solids, liquids, and gases, in which the Pṛithivî Tattva predominates. Here the outer expressions of the Karmendriyas, the organs of action— hands, feet, voice, generation and evacuation— have their place. Here is the nervous system, with its central organ, the brain, through which Vaishvânara, the waking consciousness, acts, and comes into touch with Bhûrloka.
-
-
 
  The second, third and fourth koṣhas— the **प्राणमयकोषः** prâṇamayakoṣhaḥ, life-breath sheath;the **मनोमयकोषः**manomayakoṣhaḥ, mind sheath; and the **विज्ञानमयकोषः** vijñanamayakoṣhaḥ, knowledge sheath— make up the Sûkshmasharîra, the subtle body.
 
@@ -2691,8 +2314,6 @@ and Generation— so are the Sharîras made up of Sheaths, composed of differing
 
 1 *Devî Bhâgavata*. VII. xxxii. 41, 42,
 
-
-
  The Sûkshmasharîra is connected with Bhûrloka— see above table— by that part of it which is called the Prâṇamayakoṣha; this koṣha is composed of the subtle ethers of the physical world, Bhûrloka, and the Prâṇas move in this etheric sheath, the life-currents which carry on all the functions of the body; of these there are five at work— the remaining two being latent— and these are: **प्राणः** Prânaḥ, the outgoing breath; **अपानः** Apânaḥ, the incoming breath; **व्यानः** Vyânaḥ, the held-in breath; **उदानः** Udânaḥ, the ascending breath; **समानः** Samânaḥ, the equalising breath, which distributes the digested food throughout the body. In these Prânas the magnetic energies of the body exist, and all bodily energies are modifications of these.
 
 अहमेवैतत्पञ्चधात्मानं प्रविभज्यैतद्बाणमवष्टभ्य विधारयामीति।¹
@@ -2708,8 +2329,6 @@ and Generation— so are the Sharîras made up of Sheaths, composed of differing
                         *
 
 1 *Prashnop*. ii, 3.        2 *Brihadâraṇyakop*. I, iii. 19.
-
-
 
  कस्मिन्नहमुत्क्रान्त उत्क्रान्तो भविष्यामि कस्मिन्वा प्रतिष्ठिते प्रतिष्ठास्यामीति। सप्राणमसृजत॥¹
 
@@ -2729,8 +2348,6 @@ and Generation— so are the Sharîras made up of Sheaths, composed of differing
 
 *Prashnop*. vi. 3,
 
-
-
 Self comes into touch with the permanent invisible worlds, the consciousness spoken of sometimes as that of dream. It includes, however, far more than is indicated by the *modern* use of the word dream, for it includes the high states of trance, attainable by Yoga, in which a man may reach Maharloka.
 
  The third Sharîra, the Kâraṇasharîra, is composed of the matter of the three higher and relatively permanent Lokas, Jana-, Tapo-, and Satya-lokas,"
@@ -2739,9 +2356,6 @@ Self comes into touch with the permanent invisible worlds, the consciousness spo
 
  In this third Sharîra the Prâjña consciousness  
 
-
-
-
 works, not affecting the lower bodies; beyond this is beyond the Brahmâṇḍa, and the Âtmâ, rising beyond it, unites with Íshvara.
 
  Consciousness, in the Annamayakoṣha, works in the brain and is concerned with external activities; it uses at the same time the Prâṇamayakoṣha, to carry on the life-functions of the body, and affects, by this, all the objects with which it comes into contact; these two koşhas leave minute particles of themselves on all the objects they touch, and the rules of physical purity are based on this fact.
@@ -2749,8 +2363,6 @@ works, not affecting the lower bodies; beyond this is beyond the Brahmâṇḍa,
  Consciousness, in the waking state, also uses the Manomayakosha, by which it desires and thinks, and these three sheaths are active during all waking consciousness. A deep thinker, a philosopher or metaphysician, also uses the Vijñânamayakoṣha in working out his thoughts, but ordinary men do not get beyond the Manomayakoṣha.
 
  When the time of death comes, the Prânamayakoṣha separates from the Annamayakoṣha, and leaves the latter inert and helpless, fit only for the burning-ghât. Its elements are scattered, and go back into the general store. The presence of Prâṇa is necessary for its life.
-
-
 
 यावध्द्यस्मिञ्छरीरे प्राणे वसति तावदायुः।¹
 
@@ -2768,9 +2380,6 @@ works, not affecting the lower bodies; beyond this is beyond the Brahmâṇḍa,
 1 Kaushîtaki Br. Up. iii. 2.
 
 2 Manu. xii. 16.  
-
-
-
 
  थै वैके चास्माल्लोकात्प्रयन्ति चन्द्रमसमेव ते सर्वे गच्छन्ति............स्वर्गस्य लोकस्य द्वारं यश्चन्द्रमाः।¹
 
@@ -2795,9 +2404,6 @@ works, not affecting the lower bodies; beyond this is beyond the Brahmâṇḍa,
 
 3 See Ibid, 2; Prashnop. I, 9, and Chhândogyop. V. x. 4.  
 
-
-
-
 built into the Manomayakoṣha, those belonging to Kâma, to desire. This is brought down to Bhûrloka, where the Prâṇamaya and Annamayakoṣhas are formed, and so rebirth is gained.¹
 
  The Devayâna, the path of the Devas, is only trodden by those who do not compulsorily return to the earth during this Kalpa. They depart as do the others, but they pass on from the Moon,. casting off the Manomayakoṣha, to the Deva-world, and from that to the Sun and the Lightning, to Brahmaloka :
@@ -2818,9 +2424,6 @@ built into the Manomayakoṣha, those belonging to Kâma, to desire. This is bro
 2 *Brihadâraṇyakop*. VI. ii, 15, and see *Chhândogyop*. V. x. Z.
 
 3 *Loc*. *eit*. 1. iii.  
-
-
-
 
 higher worlds; and, far more, he may reach the Vidyâ which liberates.
 
@@ -2849,8 +2452,6 @@ higher worlds; and, far more, he may reach the Vidyâ which liberates.
 
 3\. *Ibid*. 4.
 
-
-
  By Yoga this separation is effected, and it is written:
 
 तꣳ स्वाच्छरीरात्प्रवृहेन्मुञ्जादिवेषीकां धैर्येण।¹
@@ -2878,35 +2479,13 @@ higher worlds; and, far more, he may reach the Vidyâ which liberates.
 
 1 *Kathop*. II. vi, 17.  
 
-
-
-
-
-
 .
 
 [TABLE]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 PART II.
 
 GENERAL HINDU RELIGIOUS CUSTOMS AND RITES.  
-
-
-
 
 CHAPTER I.
 
@@ -2925,9 +2504,6 @@ in rapidity, regularity and complexity.
 
 4\. The vibrations of the matter of the sheaths are continuously affected by those of the  
 
-
-
-
 Jîvâtmâ, and non-continuously by the various vibrations which reach each from the world to which its materials belong. In addition, each vibrates continuously according to the fundamental vibration of its world.
 
 5\. The Jîvâtmâ endeavours to impose his own vibrations on his sheaths, so that they may respond to him, and work harmoniously with him.
@@ -2942,14 +2518,9 @@ Jîvâtmâ, and non-continuously by the various vibrations which reach each from
 
  A mantra is a sequence of sounds, and these sounds are vibrations, so that the chanting, loud or low, or the silent repetition, of a mantra sets up a certain series of vibrations. Now a sound gives
 
-
-
 rise to a definite form, and a series of pictures is made by successive musical notes; these may be rendered visible, if suitable scientific means are taken to preserve a record of the vibrations set up by the sounds. Thus the forms created by a mantra depend on the notes on which the mantra is chanted; the mantra, as it is chanted, gives rise to a series of forms in subtle matter. The nature of the vibrations— that is their general character, whether constructive or destructive, whether stimulating love, energy, or other emotions— depends on the words of the mantra. The force with which the mantra can affect outside objects in the visible or invisible worlds depends on the purity, devotion, knowledge and will-power of the utterer. Such vibrations are included among the "various vibrations mentioned under Principle 4 as affecting the sheaths, and are also referred to under Principle 7.
 
  The repeated recitation of a mantra, that is, the repeated setting up of certain vibrations, gradually dominates the vibrations going on in the sheaths, and reduces them all to a regular rhythm, corresponding to its own. Hence the feeling of peace and calm which follows on the recitation of a mantra,  
-
-
-
 
  The name of a Deva, or other Being, mentioned in a mantra, sets up vibrations similar to those present in the Deva and his sheaths, and, as the mantra is repeated many times with cumulative effect, the sheaths of the utterer— or of any hearer— gradually repeat these vibrations with everincreasing force.
 
@@ -2969,8 +2540,6 @@ rise to a definite form, and a series of pictures is made by successive musical 
 
 1 Yogi Yâjñavalkya, quoted in the Âhnika-Sutrâvali, p. 13.
 
-
-
 therefore dangerous for an impure person to recite a mantra, or to listen to the recitation of a mantra, or even for a mantra to be inaudibly recited in his presence.
 
  If the sheaths contain some coarse matter, and some pure, the coarse matter will be shaken out, as the sheaths vibrate in answer to the mantra, and pure matter will be drawn in to replace that which is shaken out.
@@ -2989,16 +2558,11 @@ therefore dangerous for an impure person to recite a mantra, or to listen to the
 
 1 Vyâkaraṇa-Mahâbhâshya. I. i. 1.  
 
-
-
-
  The magnetic properties of objects are also important in this matter of vibrations. *All* objects are always vibrating, and thus affect the sheaths of other objects near them. To affect the sheaths in any particular way, it is necessary to choose objects which have the desired vibrations.
 
  All rites and ceremonies ordained by Seers and Sages are based on these principles and facts, which govern the mantras and the objects used with them. They are all intended to aid the Jîvâtmâ in reducing his sheaths to obedience, in purifying them, and in making them strong against evil; or else to shape external conditions to man's benefit, protection and support.
 
  If these principles and facts are understood, the student will see clearly the reason of many injunctions and prohibitions which he finds in the Vaidika Dharma as to by whom and in whose presence mantras may be recited, what substances should be used in different ceremonies, what offerings should be made, and so on. Instead of a meaningless labyrinth of ceremonies, sounds, objects and gestures, he will see an ordered system, intended to help the Jîvâtmâ to unfold his powers more rapidly, and to overcome the obstacles in his way.
-
-
 
  The **संस्काराः**, Samskârâḥ, are variously given, some lists enumerating only ten, others rising to a higher and higher number up to fifty-two. Among those which are specially called the ten Samskâras, some mark the important stages of a man's life up to and including his marriage; the remainder are ceremonies which may be performed daily or on special occasions, or are subsidiary to some of the Ten.¹
 
@@ -3022,14 +2586,9 @@ therefore dangerous for an impure person to recite a mantra, or to listen to the
                                    
   *
 
- 
-
 1 In the Introduction to Mandlik'ś edition of the Yâjñavalkya Smṛiti several lists are given, ppxxx–xxxii.
 
  2 Manusmṛiti, ii. 26.  
-
-
-
 
  "With sacred Vaidika rites should be performed the Samskâras of the body, namely, Nisheka and the rest, of the twice-born, which purify here and here-after."
 
@@ -3040,9 +2599,6 @@ therefore dangerous for an impure person to recite a mantra, or to listen to the
  The Annamayakosha and Prâṇamayakosha are being formed within the mother's womb, and in the third month the Pumsavanam is performed with mantras—*Rigveda*. I. i. 3; III. iv. 9; V. xxxvii. 2; II. iii. 9— for the forming of a male child.
 
  At the seventh month takes place the Sîmantonnayanam, or parting of the hair of the mother, at which the *Rigveda* mantras, X. cxxi. 10; clxxxiv. I; II. xxxii. 4—8, are recited, guarding her from evil influences, and bringing to bear on the grow-  
-
-
-
 
 ing sheaths the most harmonious and health-giving vibrations.
 
@@ -3058,9 +2614,6 @@ ing sheaths the most harmonious and health-giving vibrations.
                         *
 
 1 Manusmṛiti. ii. 29,  
-
-
-
 
 मङ्गल्यं ब्राह्मणस्य स्यात् क्षत्रियस्य बलान्वितम्।  
 वैश्यस्य धनसंयुक्तं शूद्रस्य तु जुगुप्सितम्॥
@@ -3088,9 +2641,6 @@ ing sheaths the most harmonious and health-giving vibrations.
 
  1 Ibid. 31—33.  
 
-
-
-
 later. In Southern India it is sometimes performed on the twelfth day after birth or at the close of the first year, or with the Chûḍakaraṇam. It is not mentioned in the authoritative lists of Samskâras, but in modern Indian life it is regularly performed.¹
 
  By these ceremonies the young body is constantly harmonised and guarded, and says Yâjñavalkya:
@@ -3106,14 +2656,9 @@ later. In Southern India it is sometimes performed on the twelfth day after birt
 *                                   
                        *
 
- 
-
 1 See *Pâraskara Grihya-Sutra*. II. i. and *Gadâdhara-Bhâshya* thereon.
 
  2 Loc, cit. i, 13.  
-
-
-
 
 कामान्माता पिता चैनं यदुत्पादयतो मिथः।  
 संभूतिं तस्य तां विद्याद्यद्योनावभिजायत्॥
@@ -3138,9 +2683,6 @@ later. In Southern India it is sometimes performed on the twelfth day after birt
 
 4 Loc. cit, i. 14. 37.  
 
-
-
-
  The boy is dressed in a kaupîna, and then in a new garment, and wears a girdle of Muñja grass, if a Brâhmaṇa; of a bowstring, if a Kshattriya; of woollen thread, if a Vaishya. The Âchârya puts on him according to his caste an antelope skin, a spotted deer skin, or a cow skin, and knots the girdle round him.¹ He then invests him with the **यज्ञोपवीतं**, Yajñopavîtam, the sacrificial thread, and after certain questions and answers he sprinkles him with water, recites certain formulas and mantras, and, placing his hand on the pupil's heart, he says: "Under my will I take thy heart; my mind shall thy mind follow; in my word thou shalt rejoice with all thy heart; may Bṛihaspati join thee to me." He then teaches him the Gâyatṛî, and gives him a staff, the length and the wood of which vary according to the caste of the boy.²
 
  The whole ceremony represents the spiritual birth of the Ârya, and all its parts are significant As spirits are sexless, the kaupîna symbolically makes him sexless, and being such the Brahmachârî is bound to lead a life of chastity or celibacy.The new garment represents the new body. The girdle is wound round thrice to show that the boy has to
@@ -3151,8 +2693,6 @@ later. In Southern India it is sometimes performed on the twelfth day after birt
  1. These significant symbols have been dropped in modern India, and all castes wear the same.
 
  2 See, for full details, the *Shâṇkhâyana Gṛihya Sùtra*, II.i–vi.
-
-
 
 study the Samhitâs, the Brâhmaṇas and the Upanishats. The skin represents the ascetic life he should lead.
 
@@ -3174,9 +2714,6 @@ study the Samhitâs, the Brâhmaṇas and the Upanishats. The skin represents th
 1 See Manusmṛiti, xii. 4–11.
 
 2 Manusmṛiti.xii, 10, 11.  
-
-
-
 
  "The man who exercises this triple rod in respect to all creatures, controlling desire and anger, he attains perfection.
 
@@ -3202,9 +2739,6 @@ study the Samhitâs, the Brâhmaṇas and the Upanishats. The skin represents th
 1 Yâjñavalkya, i, 51,
 
 2 Manusmṛiti. iii, 4,  
-
-
-
 
 began. Now he was to take up his duties as man, and begin the payment of his debts by sacrifice, by study and by begetting children.
 
@@ -3234,9 +2768,6 @@ began. Now he was to take up his duties as man, and begin the payment of his deb
 1 Rigveda. X. lxxxv, 26, 27,
 
 2 Ibid. 36.  
-
-
-
 
  "I take thy hand for good fortune; mayst thou grow old with me, thy husband."
 
@@ -3269,9 +2800,6 @@ began. Now he was to take up his duties as man, and begin the payment of his deb
 
 2 Rigveda, X. lxxxv. 42.  
 
-
-
-
 तथा नित्यं यतेयातां स्त्रीपुंसौ तु कृतक्रियौ।  
 यथा नातिचरेतां तौवियुक्तावितरेतरम्॥¹
 
@@ -3292,16 +2820,11 @@ began. Now he was to take up his duties as man, and begin the payment of his deb
 
 2 P. 135.  
 
-
-
-
 **CHAPTER II.**
 
 **SHRÂDDHA.**
 
  The longer lists of Samskâras include the various ceremonies performed on behalf of those who have departed from the physical world, the ceremonies that fall under the general name of **श्राद्धम्,** Shrâddham. The Âryan has never felt the presence of a thick barrier between the visible and invisible worlds, between the "living" and the "dead." All his religion brings the invisible worlds into continual contact with the visible, the Devas are as real as the men. And he recognises the continued existence of the Jîvâtmâ so vividly that the death of the body is not to him a matter of terror and anxiety, but a habitual thought, and "the dead" are never regarded as dead, but merely as living elsewhere. The habitual thought of transmigration, linking life with lite, reduces any particular death to a mere incident in an indefinite series, and the Jîvâtmâ, not the body, assumes predominant importance. Still more vividly is this idea that the Jîvâtmâ is the man impressed on the minds of Âryans by the recurring Shrâddhas, in which the continued existence of those who have left the physical world is
-
-
 
 brought before the eyes of the present dwellers upon earth.
 
@@ -3320,9 +2843,6 @@ brought before the eyes of the present dwellers upon earth.
 
 1\. V. ix. 2.  
 
-
-
-
  Before the fire is applied to the corpse, the celebrant walks three times round the spot where it is laid, and sprinkles water on it with the verse*Rigveda* X. xiv. 9 :
 
 अपेत वीत विच सर्पतातः......।
@@ -3339,20 +2859,17 @@ brought before the eyes of the present dwellers upon earth.
 
  For this purpose have been framed the Ekoddishta-shrâddha and the Sapindana-shrâddha. The Ekoddishta-shrâddha is one directed to a single dead person, whereas a Shrâddha proper is directed to
 
-
-
 three generations of Pitṛis or to all Piṭris. The offerings connected with it are intended to be offered during a whole year. No âvâhana, inviting, takes place in this ceremony, nor the putting of food into the fire, nor do the Vishvedevas take part in it.[^79]
 
- The Ekoddishta-shrâddhas are completed by the performance of the Sapiṇḍîkaraṇa, the reception of the Preta, into the community of the Pitṛis. According to Shânkhâyana, the celebrant fills four water-pots with sesamum, scents, and water—three for the fathers, one for the newly dead person—and pours the pot that belongs to the newly dead person into the pots of the Pitṛis with the two verses, *Vâjasaneya Samhitâ*. xix. 45, [46](http://॑# "Ib. iv.3.").
+ The Ekoddishta-shrâddhas are completed by the performance of the Sapiṇḍîkaraṇa, the reception of the Preta, into the community of the Pitṛis. According to Shânkhâyana, the celebrant fills four water-pots with sesamum, scents, and water—three for the fathers, one for the newly dead person—and pours the pot that belongs to the newly dead person into the pots of the Pitṛis with the two verses, *Vâjasaneya Samhitâ*. xix. 45, 46[^213].
 
 [^79]: "Shânkhâyana's Grihya Sûtras iv, 2.5."
+
+[^213]: "Ib. iv.3."
 
  If these ceremonies should be properly performed, the subtle parts of the offerings made during their performance feed the deceased till he goes to Pitṛiloka. The mantras facilitate his passage thereto and he takes his place among the Pitṛis.
 
  Then "the fourth is dropped" i. e. in the ceremonies the great-grandfather of the deceased person is not invoked, the deceased, his father and grandfather forming the three Pitṛis.  
-
-
-
 
  The numerous periodical ceremonies that are performed to the Pitṛis proper are technically Shrâddhas. At a Shrâddha the Pitṛis are the deities to whom the sacrifice is offered; the Brâhmaṇas who are fed represent the Âhavanîya fire[^80].").
 
@@ -3363,8 +2880,6 @@ three generations of Pitṛis or to all Piṭris. The offerings connected with i
  Of all the ancient ceremonies, Shrâddhas alone are still performed with any appreciable degree of religious fervour and it is hoped that an intelligent understanding of the rational basis of them will increase the Shraddhâ, faith, without which a Shrâddha cannot properly deserve the name.
 
  We shall see, in studying the Five Daily Sacrifices—Chapter IV.—that the Pitṛi-Yajña has its place among them. On the new-moon day this is followed by the monthly Shraddha ceremony, called the **पिण्डान्वाहार्यकं**, Piṇḍânvâhâryakam, and **पार्वणश्राद्धम**,
-
-
 
 Pârvaṇa-shrâddham, one of the seven **पाकयज्ञाः**, Pâkayajñâḥ, or sacrifices with baked offerings.
 
@@ -3393,8 +2908,6 @@ Pârvaṇa-shrâddham, one of the seven **पाकयज्ञाः**, Pâkaya
 
 [^85]: "Ibid. 168."
 
-
-
  'A Brâhmaṇa who is ignorant is like a grass fire that goes out; to him sacrificial food ought not to be given; offerings are not poured into ashes."
 
  So, also, Hiraṇyakeṣhin says that the Brâhmaṇas invited to the Shrâddha must be pure and versed in the mantras[^86].
@@ -3411,17 +2924,11 @@ Pârvaṇa-shrâddham, one of the seven **पाकयज्ञाः**, Pâkaya
 
  It must be remembered that Pitṛiloka and Pretaloka, or Yamaloka, are both regions in Bhuvarloka (see Part I. ch. vi.) and influence from the  
 
-
-
-
 earth, Bhûrloka, reaches both of these. The influence of Piṇda offerings reaches throughout Pretaloka; the three higher generations (fourth, fifth and sixth) are affected by offerings of remnants of food. Including the offerer, only seven generations can mutually influence each other by the giving and receiving of food. Three generations beyond these can receive only libations of water. Influence from below can go no further, for by that time an average man is supposed to have passed into Svarga, and the whole object of Shrâddha is to facilitate his passage thither.
 
  The general principles of the Shrâddha of a person recently departed are adaptations of the principles underlying all Samskâras.
 
  Shrâddhas may, generally speaking, be regarded as serving the same purpose with reference to the subtler bodies, as is served by the pre-natal and natal Samskâras with reference to the gross physical body. Having helped the Jîvâtmâ going from here to a fair birth in the other world, the human helper has completed his duty, and cannot go any further or give other help. The agencies of the other world thereafter take up the Jîvâtmâ into their own exclusive charge.  
-
-
-
 
 CHAPTER III.
 
@@ -3431,9 +2938,6 @@ SHAUCHAM.
 
  The Annamayakoṣha is composed of solids, liquids and gases, and infinitesimal particles of these are constantly passing off from the body. A part altogether from the obvious daily losses sustained by the body in the excrements and sweat, there is this ceaseless emission of minute particles, alike in night and day, whether the body is waking or sleeping. The body is like a fountain, throwing off a constant spray. Every physical object is in this condition, stones, trees, animals, men; all are ceaselessly throwing off these tiny particles, invisible because of their extreme minuteness, and are, as ceaselessly, receiving the rain of particles from others which fills the air in which they live, and which they breathe in with every breath. A continual interchange is thus going on between all physical bodies; no one can approach another without being sprinkled by the other, and sprinkling  
 
-
-
-
 him in turn, with particles from their respective bodies. Everything a man goes near receives some particles from his body; every object he touches retains a minute portion of his body on its surface; his clothes, his house, his furniture, all receive from him this rain of particles, and rain particles from themselves on him in turn.
 
  The Prâṇamayakoṣha, composed of the physical ethers and animated by the life-energies, affects all around it, and is affected by all around it, not by emitting or recelving particles, but by sending out, and being played upon, by vibrations, which cause waves, currents, in the etheric matter. The life-waves, magnetism-waves, go out from each man as ceaselessly as the fine rain of particles from his Annamayakoṣha. And similar waves from others play upon him, as ceaselessly as the fine rain of particles from others falls on him.
@@ -3441,9 +2945,6 @@ him in turn, with particles from their respective bodies. Everything a man goes 
  Thus every man is being affected by others, and is affecting them, in the physical world, in these two ways: by a rain of particles given off from the Annamayakoṣha, and by waves given off from the Prâṇamayakoṣha.
 
  The object of the rules of Shaucham is to make this inevitable influence of one person on another a source of health instead of a source of  
-
-
-
 
 disease, and also to preserve and strengthen the bodily and mental health of the performer. The Annamayakoṣha is to be kept scrupulously clean, so that it may send off a rain of health on everyone and everything that is near it; and the Prâṇamayakoṣha is to be reached by the mantra-produced vibrations in the etheric matter which permeates the things used in the ceremonies—as etheric matter permeates everything—so that these vibrations may act beneficially on it, and may cleanse and purify it.
 
@@ -3453,8 +2954,6 @@ disease, and also to preserve and strengthen the bodily and mental health of the
 उच्छिष्टान्नं निषेकं च दूरादेव समाचरेत्॥**
 
  "Far from his dwelling let him remove excrement, far the water used for washing his feet, farthe havings of food, and bath-water."
-
-
 
  Much disease is caused by the neglect of this rule, the filthy surroundings of dwellings causing ill-health and general loss of vigour. In modern city life, the community takes on this duty by an organised system of drainage, but this should be on the same principle of conveying noxious matters far away from all habitations; and it is part of the duty of a good citizen to see that rivers in the neighbourhood of cities are not poisoned, nor filth allowed to accumulate to the injury of the public health.
 
@@ -3475,8 +2974,6 @@ disease, and also to preserve and strengthen the bodily and mental health of the
  "Having washed, the twice-born should eat food always with a collected mind; having eaten, let
 
 [^90]: "Manusmṛiti, ii. 53."
-
-
 
 him wash well with water, sprinkling the senseorgans."
 
@@ -3501,13 +2998,11 @@ him wash well with water, sprinkling the senseorgans."
 
 [^93]: "Ibid. 105-127."
 
- ''Wisdom, austerity, fire, food, earth, mind, water, plastering, wind, rites, the sun and time, are the purifiers of human beings."
-
 [^94]: "Ibid, 105."
 
+ ''Wisdom, austerity, fire, food, earth, mind, water, plastering, wind, rites, the sun and time, are the purifiers of human beings."
+
  But no body can be truly pure unless the mind and heart be pure :
-
-
 
 अद्भिर्गात्राणि शुध्यन्ति मनः सत्येन शुध्यति।  
 विद्यातपोभ्यां भूतात्मा बुद्धिर्ज्ञानेन शुध्यति॥
@@ -3518,15 +3013,9 @@ him wash well with water, sprinkling the senseorgans."
 
  The relationship of Sapinda ceases with the seventh remove of relationship through males. In the case of relations not Sapindas, the impurity lasts 3 days, or less, decreasing according to the remoteness of the relationship. During the period of impurity sacrificial oblations, recitation of mantras, and some other religious duties have to be given up. No one must eat the food of, or touch, one impure. But the customs vary much in these respects in the different parts of the country. and even the word Sapinda is difierently interpreted.
 
-
-
  Further details may be studied in the Smṛîtîs, and may be applied by the student to his own life, in conformity with caste and family customs and having regard to the changed conditions of life. Infectious diseases of all kinds run riot where the rules of individual purity are disregarded, and where houses, clothes and articles in daily use are not scrupulously cleaned. Modern science is re-establishing, with infinite labour and pains, the facts on which these ancient rules were based, and a clear understanding of the reason for their imposition will render obedience to them willing and cheerful.
 
-
-
 ![](../books_images/U-IMG-1734155946Screenshot2024-12-14111521.png)
-
-
 
 CHAPTER IV.
 
@@ -3535,8 +3024,6 @@ THE FIVE DAILY SACRIFICES.
  The application of the great Law of Sacrifice to the daily life of the Âryan was made by the laying down of rules for making sacrifices, by which he gradually learned to regard himself as part of a connected whole, a whole of which the parts were mutually interdependent, owing to each other's mutual aid and support. When this lesson had been thoroughly assimilated, then, and then only, might the man lay aside these duties, entering on the life of the Sannyâsî, who, having sacrificed all his possessions and himself, had nothing left to offer.
 
  The various bodies or vehicles of man are nourished and helped to grow severally, by the initial energy received from parents, by food, by sympathy and help from his fellow-beings, by magnetic influences, and by knowledge and illumination. He therefore owes a fivefold debt to nature; and it is but meet and proper that, if he would flourish, he should fully recognise his indebtedness and do his best to pay back his debt. As stated before, he is not an isolated creature, and his whole wellbeing depends upon his co-opera-
-
-
 
 tion with nature, which works not so much for the exaltation of individuals as for the steady evolution of all creation. The sacrifices prescribed by Hindu law-givers are nothing more than an enumeration of the duties which thus devolve on every man. They embrace all the planes of his existence, and are therefore conducive to his highest growth.
 
@@ -3557,8 +3044,6 @@ Brahmayajñah, called also **वेदयज्ञः**, Vedayajñaḥ, Sacrific
 ** 5. मनुष्ययज्ञः**Manuṣhyayajñaḥ, Sacrifice to men.
 
  These are laid down by Manu among the duties of the householder.
-
-
 
 अध्यापनं ब्रह्मयज्ञः पितृयज्ञस्तु तर्पणम्।  
 होमो दैवो बलिर्भौतो नृयज्ञाऽतिथिपूजनम्॥
@@ -3582,8 +3067,6 @@ Brahmayajñah, called also **वेदयज्ञः**, Vedayajñaḥ, Sacrific
 
 And again—
 
-
-
 ऋषयः पितरो देवा भूतान्यतिथयस्तथा।  
 आशासते कुदुम्बिभ्यस्तेभ्यः कार्यं विजानता॥
 
@@ -3600,13 +3083,9 @@ And again—
 
  Then comes the sacrifice to the Devas-the recognition of the debt due to those who guide nature, and the "feeding''them by pouring ghee into the fire, the Homa sacrifice. The Devas are nour-
 
-
-
 ished by exhalations as men by food, their subtle bodies needing no coarser sustenance.
 
  The sacrifice to the Pitṛis follows, consisting of the offerings of cakes and water. The Pitṛis are the sons of Marîchi and the Ṛiṣhis produced by Manu, and are of many classes, the progenitors of the various divine and human races. From the Somasad Pitṛis the Sâdhyas and pure Brâhmaṇas are descended, and from the Agnishvâtta Pitṛis the Devas and also some Brâhmaṇas. The Daityas, Dânavas, Yakshas, Gandharvas, Uragas, Râkshasas, Suparṇas and Kinnaras descend from the Barhishad Pitṛis, as do also some Brâhmaṇas. The Pitṛis of Kshattriyas are the Havirbhuks, of Vaishyas the Âjyapas, of Shûdras the Sukâlins. Countless descendants become associated with them, so that the sacrifice may be said to be to ancestors. In this a man is taught to remember the immense debt he owes the past, and to regard with loving gratitude those whose labours have bequeathed to him the accumulated stores of wealth, learning and civilisation. He is reminded also of the time when he will pass into the great ancestral host, and of his duty to hand down to posterity the legacy he has received, enriched, not diminished, by his life. The full meaning of descent from Pitṛis is ascertainable only by study of occult science,
-
-
 
  The sacrifice to Bhûtas consists of Bali, or offerings of food placed on the ground in all directions, intended for various beings of the invisible worlds, and also for stray animals of all kinds and wandering outcasts and diseased persons. The injunction as to this should be remembered:
 
@@ -3630,8 +3109,6 @@ ished by exhalations as men by food, their subtle bodies needing no coarser sust
 
  In this man is taught his duty to his brother-men, his duty of brotherly help and kindness. He feeds
 
-
-
 humanity in feeding some of its poorer members, and learns tenderness and compassion. The giving of food is illustrative of all supply of human needs. Manuṣhyayajña includes *all* philanthropic actions. As in the old days, want of food was the chief want of man, that is mentioned prominently. The complexities of life have given rise to other wants now. But they are all included in the Manuṣhyayajña, provided they are legitimate wants, and it becomes the duty of each man to remove them, so far as lies in his power.
 
  Thus these five great sacrifices embrace man's duty to all the beings round him; and the man who truly performs them, in spirit as well as in letter, day by day, is doing his share in turning the wheel of life and is preparing for himself a happy future.
@@ -3649,8 +3126,6 @@ humanity in feeding some of its poorer members, and learns tenderness and compas
 **7. चैत्री **         Chaitrî.
 
  The first two of these are ceremonies in honour
-
-
 
 of the Pitṛis, and have been dealt with in Chapter II. under Shrâddha. The remainder, except the fourth, are now rarely met with.
 
@@ -3675,8 +3150,6 @@ of the Pitṛis, and have been dealt with in Chapter II. under Shrâddha. The re
 **3. उक्थ्यः     ** Ukthyaḥ  
 **4.षोडशी     ** Ṣodashí
 
-
-
 **5. वाजपेयः**   Vâjapeyaḥ.  
 **6. अतिरात्रः**  Atirâtraḥ.  
 **7. आप्तार्यामः** Âptoryâmaḥ.
@@ -3689,31 +3162,19 @@ of the Pitṛis, and have been dealt with in Chapter II. under Shrâddha. The re
 
 [^98]: "Edited by Pandit Vaidyanârâyaṇa Vitthala."
 
-
-
-
-
 ERRATUM.
 
 *Insert on p. 207 line 3*:  
-
 
 body and of the Vedas. At the dawn he should rise, follow the Shaucha rules, and take his bath, then performing Sandhyâ. Then he should perform the Agnihotra, and worship the Devas and the Gurus (teacher and parents). After this he should study the Vedas and Vedâñgas. Then he should work for those dependent on him—parents, guru, wife, children, relatives, friends, the aged, infirm, and friendless poor, and those who have no means. Then he should bathe, perform the mid-day Sandhyâ, feed the Pitṛis, Devas, men and animals, and take his own meal. After this he should read Purâṇas, Itihâsa, and Dharmashâstras, avoiding idle talk and discussion. Then he should go out, visit temples and friends, returning to his evening Sandhyâ and Agnihotra. After this he should eat, attend to any family duties and retire to bed, after a brief reading of the Vedas. Any special duty should be attended to when it presents itself; as to these no rule can be laid down.
 
  The general principle of this is that a man's life should be orderly, regulated, and balanced, due time being given to each part of his duty, so that none should be slighted or omitted, and none
 
-
-
  He should wake up in the Brâhmamuhûrta[^99] and think of Dharma and Artha, of the evils of the allowed to monopolise his time. Above all he should realise the idea that man has no separate individual existence, but is indissolubly linked with the universe, and his whole life must be a life of sacrifice and duties, if he is to fulfil the very law of his being. Such deliberate regulation of life is wise—necessary, even, if the most is to be made of life—and conduces to peacefulness and absence of hurry. In modern life the details cannot be carried out, but the general principle of regularity, balance and a sustained spirit of self-sacrifice and duty should be maintained, so that all-round and harmonious progress may be made.
 
 [^99]: "There are thirty Muhûrtas in 24 hours, a Muhûrta being 43 minutes. The Brâhmamuhûrta is the third Muhûrta of the last quarter of the night."
 
-
-
 ![](../books_images/U-IMG-173501308753.png)  
-
-
-
 
 CHAPTER V.
 
@@ -3722,9 +3183,6 @@ WORSHIP.
  We have already seen that the work of the Devas was recognised and duly honoured among the Âryans, and that the duty of sacrificing for their support was regularly performed. But the truly religious man's relations with the invisible Powers are not confined to these regular and formal sacrifices. Ishvara Himself, the Supreme Lord, will attract the heart of the thoughtful and pious man, who sees, beyond these many ministers, the King Himself, the ruling Power of His universe, the life and support of Devas and men alike. It is towards Him that love and devotion naturally rise-the human spirit, who is His offspring, a fragment of Himself, seeking to rise and unite himself to his Parent. These feelings cannot find satisfaction in sacrifices offered to Devas, connected as they are with the outer worlds, with the Not-Self; they seek after the inner, the deepest, the very Self, and remain craying and unsatisfied until they rest in Him.
 
  Worship is the xxxxxxxxxthis xxxxxxxxx of the part for the whole, of the separate for the One,  
-
-
-
 
 and is not only due from man to the source of his life, but is a necessary stage in the evolution of all those higher qualities in the Jîvâtmâ which make possible his liberation and his union with the Supreme. An Object of worship is therefore necessary to man.
 
@@ -3742,17 +3200,12 @@ and is not only due from man to the source of his life, but is a necessary stage
 
  The Saguṇa Brahman may be the Object of worship for those whose minds are of a metaphysical
 
-
-
 nature, and who find rest and peace in the contemplation of Brahman in His own nature as Sat-Chit-Ânanda, the Universal Self, the One, the Supreme. Such contemplation is worship of a lofty kind, and is peculiarly congenial to philosophic minds, who find in it the sense of peace, rest, unity, which they cannot feel in any more limited conception. But to most it is easier to rise to Him through His manifestation as the Lord and Life of His worlds, or through one of the manifestations, as Mahâdeva, Nârâyana, or more concrete yet, ShrîRâma or Shrî Kṛiṣhṇa, or other embodiment. These arouse in them the Bhakti, the love and devotion, which the other conception fails to stir, and all the tendrils of the human heart wind themselves round such an image, and lift the heart into Ânanda, into bliss unspeakable.
 
  Whether one of these two ways is the better is an oft-disputed question, and the answerers on either side are apt to be impatient with those on the other, intolerant of the uncongenial way. But the answer has been given with perfect wisdom and all-embracing comprehension by ShrîKṛiṣhṇa Himself. Arjuna was troubled by the question, five thousand years ago, and put it to his divine Teacher:
 
 **एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते।  
 येचाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः॥**  
-
-
-
 
  श्रीभगवानुवाच।
 
@@ -3782,10 +3235,7 @@ nature, and who find rest and peace in the contemplation of Brahman in His own n
 
  "They who with Manas fixed on Me, ever controlled, worship Me, with faith supreme endowed, these I hold as best in Yoga.  
 
-
  "They who worship the Indestructible, the Ineffable, the Unmanifested, the Omnipresent, the Unthinkable, the Unchangeable, the Immutable, the Eternal,
-
-
 
  "Renouncing and subduing the senses, everywhere equal-minded, in the welfare of all creatures rejoicing, these also come unto Me.
 
@@ -3799,15 +3249,11 @@ nature, and who find rest and peace in the contemplation of Brahman in His own n
 
  The simplest form of worship is that generally spoken of as Pûjâ, in which an image representing some divine Form is used as the Object, and the Being thus represented is adored; flowers are used, as beautiful symbols of the heart-flowers of love and reverence; water is sanctified with a mantra, poured on the image, and sprinkled over the worshipper; a mantra, in which the name of the Object of worship occurs, is repeated inaudibly a
 
-
-
 certain number of times, and the invisible bodies are thus rendered receptive of His influence, as before explained (see p. 168). Then the worshipper passes on according to his nature into spontaneous praise or prayer, aspiration and meditation, and becoming oblivious of the external object, rising to the One imaged in that object, and often feeling His presence, becomes suffused with peace and bliss. Such worship steadies the mind, purifies and ennobles the emotions, and stimulates the unfolding of the germinal spiritual faculties.
 
  The use of an image in such worship is often found most helpful, and is well-nigh universal. It gives an object to which the mind can at first be directed, and thus steadiness is obtained. If it be well chosen, it will attract the emotions, and the symbols, always present in such an image, will direct the mind to the characteristic properties of the Object of worship.
 
  Thus the Lingam is the symbol of the great Pillar of Fire, which is the most characteristic manifestation of Mahâdeva, the destroying element which consumes all dross but only purifies the gold. The four-armed Viṣhṇu represents the protecting support of the Deity, whose arms uphold and protect the four quarters, and the objects held
-
-
 
 in the hands are symbols of His creative, ruling, destroying, forces, and of the universe He governs. The Shâlagrâma is used in the household as the symbol of Viṣhṇu. But all these arealready familiar.
 
@@ -3817,15 +3263,11 @@ in the hands are symbols of His creative, ruling, destroying, forces, and of the
 
  For all these reasons, no one should object to the use of images in religious worship by those who find them helpful; nor should any one try to force their use on those who are not helped by them.
 
-
-
 Tolerance in these matters is the mark of the truly religious man.
 
  The special Form to which Pûjâ is addressed is sometimes the Kuladeva, or Kuladevî, the family Deva or Devî, and sometimes is the one chosen for the worshipper by his Guru, or chosen by himself as the one which most appeals to him. This Form is the Ishtadeva, the Deva sacrified to, or desired.
 
  Other forms of worship are generally classed under the name Upâsanâ. Flowers are not employed, nor is an image necessary, though it is often used, for the reasons already given. The daily Sandhyâ is a form of such worship in which all students should be properly instructed. It is of two types, Vaidika and Tântrika, and varies according to caste and family customs. The complicated Sandhyâ ceremony as performed nowadays in various parts of India does not exactly represent the oldest form of it, as taught in the *Taittirîya Brâhmaṇa*, and the early Smṛitis. But the Arghyapradâna to the Sun and the meditation on and recitation of the Gâyatrî, which form the heart of the ceremony, are the oldest parts of it too. Unless it is performed at the proper Sandhyâs it cannot be of much profit to the performer. A Sandhyâ is the meeting point of two periods of time, great or small, or of two different states of one and the same
-
-
 
 subject. It is the teaching of the ancient Ṛiṣhis of India that at Sandhyâs there is always a special manifestation of force which vanishes when the Sandhyâ is past.
 
@@ -3846,8 +3288,6 @@ subject. It is the teaching of the ancient Ṛiṣhis of India that at Sandhyâs
  The Vaidic sacrifices and samskâras are mostly out of use, but this Sandhyâ-Vandana is a living thing, the last remnant, and the student must jealously keep to it and must perform it every day.
 
  Another kind of Upâsanâ is meditation, and the treatise of Patañjali, the *Pâtañjalasûtrâṇi*, should
-
-
 
 here be carefully studied, when the time for systematic meditation arrives. In student days the  
 due performance of Sandhyâ and of some form of Pûjâ may suffice, but the theoretical outline of the practice of meditation may be given. Says Patañjali ;
@@ -3877,9 +3317,7 @@ due performance of Sandhyâ and of some form of Pûjâ may suffice, but the theo
 
 स्थिरसुखमासनम्।[^105]
 
-
 [^105]: "Ibid.46."
-
 
  "Firm, pleasant-(that is) Âsana."
 
@@ -3909,8 +3347,6 @@ due performance of Sandhyâ and of some form of Pûjâ may suffice, but the theo
 
 [^108]: "Ibid.3."
 
-
-
  "That same (Dhyâna) showing the object only, and devoid, as it were, of self-consciousness, (is) Samâdhi."
 
  These are the preparations for and the stages of meditation. By this a man rises to knowledge; by this he loses himself in the divine Being he worships; by this he disenages himself from the bonds of action. Without meditation no truly spiritual life is possible.
@@ -3924,11 +3360,7 @@ due performance of Sandhyâ and of some form of Pûjâ may suffice, but the theo
 
  It is therefore a thing to be looked forward to and prepared for, and every student who desires the higher life should begin his preparation by practising Yama and Niyama.
 
-
-
 ![](../books_images/U-IMG-173502542953.png)
-
-
 
 CHAPTER VI.
 
@@ -3944,8 +3376,6 @@ THE FOUR ÂSHRAMAS
 एते गृहस्थप्रभवाश्चत्वारः पृथगाश्रमाः॥[^109]**
 
 [^109]: "Manusmṛiti. vi.87."
-
-
 
  "The Student, the Householder, the Forestdweller, the Ascetic—these, the four separate orders, spring from the Householder."
 
@@ -3976,8 +3406,6 @@ THE FOUR ÂSHRAMAS
 
 tmâ, and the proper ordering of society, that Manusays:
 
-
-
 **अनधीत्य द्विजो वेदाननुत्पाद्य तथा प्रजाम् ।  
 अनिष्ट्वा चैव यज्ञैश्च मोक्षमिच्छन् व्रजत्यधः॥[^113]**
 
@@ -3990,8 +3418,6 @@ tmâ, and the proper ordering of society, that Manusays:
  In rare and exceptional cases a student was allowed to became a Sannyâsî, his debts to the world having been fully paid in a previous birth; but these rare cases left the regular order unshaken. Strictly speaking, indeed, even he was not called a Sannyâsî, and did not receive the initiations of Sannyâsa proper; but was called a Bâla or Naishṭhika Brahmacharî, like Shuka and the Kumâra Ṛiṣhis. The great multiplication of young Sannyâsîs found in modern days is directly contrary to the ancient rules, and causes much trouble and impoverishment of the country.
 
  We will now consider the Âshramas in order. The student life began, as we have seen, with the Upanayana ceremony, the boy being then committed to the care of his teacher, with whom he
-
-
 
 lived while his pupilage continued. His life thereafter was simple and hardy, intended to make him strong and healthy, independent of all soft and luxurious living, abstemious and devoid of ostentation. He was to rise before sunrise and bathe, and then perform Sandhyâ during the morning twilight till the sun rose; if it rose while he was still sleeping, he had to fast during the day, performing Japa. Then he went out to beg for food, which was placed at his teacher's disposal, and was to take the portion assigned to him cheerfully :
 
@@ -4012,9 +3438,7 @@ lived while his pupilage continued. His life thereafter was simple and hardy, in
 नोदितो गुरुणा नित्यमप्रणोदित एव वा।  
 कुर्यादध्ययने योगमाचार्यस्य हितेषु च॥[^115]
 
-
 [^115]: "Ibid. 191."
-
 
   "Directed or not directed by his teacher, let him ever engage in study, and in doing benefits to his preceptor."
 
@@ -4036,8 +3460,6 @@ lived while his pupilage continued. His life thereafter was simple and hardy, in
 द्यूत्तंचजनवादं च परिवादं तथानृतम्।  
 स्त्रीणां च प्रेक्षणालम्भमुपघातं परस्य च ॥
 
-
-
 एकः शयीत सर्वत्र न रेतः स्कन्दयेत् क्वश्चित्।  
 कामाद्धि स्कन्दयन्रेतोहिनस्ति व्रतमात्मनः॥
 
@@ -4058,8 +3480,6 @@ lived while his pupilage continued. His life thereafter was simple and hardy, in
 
  The student will see that all the injunctions of Manu above quoted apply perfectly to the present day, except the prohibition as to shoes and
 
-
-
 umbrellas. Changed social conditions make modifications necessary on this point, as well as on certain other matters not included in the quotation.
 
  The great stress laid upon chastity and purity during youth is due to the fact that the vigour and strength of manhood, freedom from disease, healthy children, and long life, depend more on this one virtue of complete continence than on any other one thing, self-abuse being the most fertile breeder of disease and premature decay. The old legislators and teachers therefore made a vow of celibacy part of the obligation of the student, and the very name of the student, the Brahmachârî, has become synonymous with one who is under a vow of celibacy. The injunction quoted above, to avoid dancing, singing, playing on musical instruments, dicing, gossip, staring at and touching women, has as aim to keep the lad out of the company and the amusements that might lead him into forgetfulness of his vow, and into temptations for its breach. The simple food, the hard work, the frugal living, all built up a robust body, and inured it to hardships.
@@ -4070,8 +3490,6 @@ umbrellas. Changed social conditions make modifications necessary on this point,
 संयमेयत्नमातिष्ठेद्विद्वान्यन्तेव वाजिनाम्॥[^118]**
 
 [^118]: "Manusmṛiti. ii, 88,"
-
-
 
  "Let the wise man exercise assiduity in the restraint of the senses, wandering among alluring objects, as the driver (restrains) the horses."
 
@@ -4087,8 +3505,6 @@ umbrellas. Changed social conditions make modifications necessary on this point,
 [^120]: " Loc. cit. VIII. iv."
 
  The practice of self-control and complete continence was rendered much more easy than it would otherwise have been, by the care bestowed on the physical development and training of youth by physical exercises and manly games of all kinds. In the *Râmâyana* and the *Mahâbhârata*, we read of the way in which the youths were practised in the use of weapons, in riding and driving, in sports and feats of skill. These physical exercises formed a definite part of their education, and contributed to the building up of a vigorous and healthy frame.
-
-
 
  Having thus fulfilled, in study and strict chastity, the student period, the youth was to present his teacher with a gift, according to his ability, and return home to enter the household life.
 
@@ -4110,8 +3526,6 @@ umbrellas. Changed social conditions make modifications necessary on this point,
  "Where women are honoured, there verily the Devas rejoice; where they are not honoured, there indeed all rites are fruitless.
 
  "Where the female relatives grieve, there the family quickly perishes; where they do not grieve, that family always prospers."
-
-
 
 संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च।  
 यस्मिन्नेव कुले नित्यं कल्याणं तत्र वै ध्रुवम्॥[^122]
@@ -4143,8 +3557,6 @@ umbrellas. Changed social conditions make modifications necessary on this point,
 
  Hence the householder is the best of the orders, **ज्येष्ठाश्रमोगृही**. He has the duty of accumulating wealth—in this the Vaishya is the typical house-
 
-
-
 holder—and of distributing it rightly. Hospitality is one of his chief duties, and in this he must never fail.
 
 **तृणानि भूमिरुदकं वाक् चतुर्थी च सूनृता।  
@@ -4165,8 +3577,6 @@ duty of the monthly Shrâddhas should be observed[^127].The Brâhmaṇa should m
 
 [^127]: "Ibid. iv. 17."
 
-
-
  The householder may quit the household life, and become a Vânaprastha, going to the forest, when, as before said, he is growing old and has grandchildren. His wife may go with him, or remain with her sons, and he goes forth, taking with him the sacred fire and sacrificial instruments. His duty to the world is now to help it by prayer and sacrifice, and he is accordingly to continue to offer the five daily sacrifices, together with the Agnihotra, the new and full moon sacrifices and others. The rule of his life is to be sacrifice, study, austerity, and kindness to all:
 
 **स्वाध्याये नित्ययुक्तः स्याद्दान्तो मैत्राः सम्महितः।  
@@ -4182,8 +3592,6 @@ duty of the monthly Shrâddhas should be observed[^127].The Brâhmaṇa should m
 उपेक्षकोऽसंकुसुको मुनिर्भावसमाहितः॥[^130]**
 
 [^130]: "Ibid. 43."
-
-
 
  ''Let him be without fire, without dwelling, let him go to a village for food, indifferent, firm of purpose, a Muni of collected mind.''
 
@@ -4212,8 +3620,6 @@ duty of the monthly Shrâddhas should be observed[^127].The Brâhmaṇa should m
 
  "Let him endure harsh language, and let him not insult any one; nor for the support of his body let him make an enemy of any one.
 
-
-
  "Let him not return anger to the angry, let him bless when cursed; let him not utter lying speech, scattered at the seven gates.
 
  "Rejoicing in the Supreme Self, sitting indifferent, refraining from sensual delights, with himself for his only friend, he shall wander here, aiming at liberation."
@@ -4222,13 +3628,9 @@ duty of the monthly Shrâddhas should be observed[^127].The Brâhmaṇa should m
 
  Such were the four Áshramas of Sanâtana Dharma, designed for the training of man to the highest ends. In modern days they cannot be completely revived in their letter, but they might be revived in their spirit, to the great improvement of modern life. The student period must now be passed in school and college, for the most part, instead of in the Âshrama of the Guru; but the same principles of frugal, hardy, simple living might be carried out, and Brahmacharya might be universally enforced. The Grihastha ideal, commenced at marriage, might be very largely followed in its sense of duty and responsibility, in its discharge of religious obligations, in its balanced ordering of life, in its recogni-
 
-
-
 tion of all claims, of all debts. The third Âshrama could not be lived in the forest by many, and the fourth Âshrama is beyond the reach of most in these days; but the idea of the gradual withdrawal from worldly life, of the surrender of the conduct of business into the hands of the younger generation, of the making of meditation, study and worship the main duties of life—all this could be carried out. And the presence of such aged and saintly men would sanctify the whole community, and would serve as a constant reminder of the dignity and reality of the religious life, setting up a noble ideal, and raising, by their example, the level of the whole society.
 
  A life which is well—ordered from beginning to end—that is what is implied in the phrase "The four Âshramas." Two of them— namely that of the student and that of the householder— may be said to represent in the life of an individual that outward—going energy which carries the Jîva into the Pravṛitti Mârga. The two later stages— the life of the Vânaprastha and that of the Sannyâsî— these are the stages of withdrawal from the world, and may be said to represent the Nivṛitti Mârga in the life of the individual. So wisely did the ancient ones mark out the road along which a man should tread, that any man who takes this plan of
-
-
 
 life, divided into four stages, will find his outgoing and indrawing energies rightly balanced. First, the student stage, properly lived and worthily carried out; then the householder stage, with all its busy activity in every direction of worldly business; then the gradual withdrawal from activity, the turning inward, the life of comparative seclusion, of prayer and of meditation, of the giving of wise counsel to the younger generation engaged in worldly activities; and then, for some at least, the life of complete renunciation.
 
@@ -4237,17 +3639,11 @@ life, divided into four stages, will find his outgoing and indrawing energies ri
 **अनाश्रितः कर्मफलं कार्यंकर्म करोति यः।  
 स सन्यासी च योगी च न निरग्निर्न [चाक्रियः॥](http://Bhagavad%20Gîtâ.%20iv.%20i "Bhagavad Gîtâ. iv. i")**
 
-
-
  "He who performeth such action as is duty, independently of the fruit of action, he is a Sannyâsî and Yogî, not he that is without fire and rites."
 
  Such a man lives in the midst of objects of attachment and is yet without attachment, regarding nothing as his own though possessed of wealth. He then becomes the ideal householder, whom the Gṛihastha reflects, and verifies in its fullest sense the dictum of Manu, that the householder order is the highest of all because it is the support of all. And the household life is only truly lived where a man sets before himself that high ideal of administrator rather than owner, servant rather than master of all.
 
-
-
 ![](../books_images/U-IMG-1734316727Screenshot2024-12-14111521.png)
-
-
 
 CHAPTER VII.
 
@@ -4257,8 +3653,6 @@ THE FOUR CASTES.
 
  It is necessary to see the great principles underlying the Caste System in order to estimate its advantages at their proper value; and also in order to distinguish rightly between these funda-
 
-
-
 mental principles and the numerous non-essential, and in many cases mischievous, accretions which have grown up around it, and have become interwoven with it, in the course of ages.
 
  The first thing to understand is that the evolution of the Jivâtmâ is divided into four great stages, and that this is true of every Jîvâtmâ, and is in no sense peculiar to those who, in their outer coverings, are Âryans and Hindus. Jîvâtmâs pass into and out of the Hindu Religion, but every Jîvâtmâ is in one or other of the four great stages. These belong to no age and to no civilisation, to no race and no nation. They are universal, of all times and of all races.
@@ -4266,8 +3660,6 @@ mental principles and the numerous non-essential, and in many cases mischievous,
  The first stage is that which embraces the infancy, childhood and youth of the Jîvâtmâ, during which he is in a state of pupilage, fit only for service and study, and has scarcely any responsibilities.
 
  The second stage is the first half of his manhood, during which he carries on the ordinary business of the world, bears the burden of household responsibilities, so to say, the accumulation, enjoyment and proper disposal of wealth, together with the heavy duties of organising, training and educating his youngers in all the duties of life.
-
-
 
  The third stage occupies the second half of his manhood, during which he bears the burden of national responsibilities, the duty of protecting, guiding, ruling, others, and utterly subordinating his individual interests to the common good, even to the willing sacrifice of his own life for the lives around him.
 
@@ -4277,8 +3669,6 @@ mental principles and the numerous non-essential, and in many cases mischievous,
 
  The first stage is represented by the Shûdra caste, in which, as we shall see, the rules are few and the responsibilities light. Its one great duty is that of service; its virtues are those which should be evolved in the period of youth and pu-
 
-
-
  pilage—obedience, fidelity, reverence, industry and the like.
 
  The second stage is represented by the Vaishya, the typical householder, on whom the social life of the nation depends. He comes under strict rules, designed to foster unselfishness and sense of responsibility, to nourish detachment in the midst of possessions, and to make him feel the nation as his household. His virtues are diligence, caution, prudence, discretion, charity, and the like.
@@ -4287,28 +3677,20 @@ mental principles and the numerous non-essential, and in many cases mischievous,
 
  The fourth stage is represented by the Brâhmaṇa, the teacher and priest, who lives under the strictest rules of all directed to make him a centre of purifying influence, physically as well as morally and spiritually. He is to have outgrown the love of wealth and power, to be devoted to study, learn-
 
-
-
 ed and wise. He is to be the refuge of all creatures, their sure help in time of need. His virtues are gentleness, patience, purity, self-sacrifice, and the like.
 
  The Jîvâtmâwho, in any nation, at any time, shows out these types of virtues, belongs to the stage of which his type is characteristic, and, if born in India as a Hindu, should be born into the corresponding caste. In this age one can only say "should be," as the castes are now confused and the types are but rarely found. These characteristic virtues form the "Dharma" of each caste, but these Dharmas are now, unhappily, disregarded.
 
  It is easy to see that the broad dividing lines of classes everywhere follow these lines of caste. The manual labour class, the proletariat—to use the Western term—should consist of Jîvâtmâs in the Shûdra stage. The organisers of industry, the merchants, bankers, financiers, large agriculturists, traders, should be Jîvâtmâs in the Vaishya stage. The legislators, warriors, the judicial and administrative services, the statesmen and rulers, should be Jivâtmâs who are in the Kshattriya stage. And the teachers, *savants*, clergy, the spiritual leaders, should be Jîvâtmâs in the Brâhmaṇa stage. There are Jîvâtmâs of the four types everywhere,
 
-
-
 and there are social offices of the four kinds everywhere; but now, in the Kali Yuga, the four types of Jîvâtmâs and the four departments of national life are mixed up in inextricable confusion, so that every nation presents a whirl of contending indivi- duals, instead of an organised community moving in harmony in all its parts.
 
  Another fundamental principle of caste was that as the Jivâtmâ advanced, his external liberty, as seen above, became more and more circumscribed and his responsibilities heavier and heavier. The life of the Shûdra was easy and irresponsible, with few restrictions as to food, amusement, place of residence or form of livelihood. He could go anywhere and do anything. The Vaishya had to bear the heavy responsibilities of mercantile life, to support needful public institutions with unstinted charity, to devote himself to business with the utmost diligence; and he was required to study, to make sacrifices, to be pure in his diet, and disciplined in his life. The Kshattriya, while wielding power, was worked to the fullest extent, and his laborious life, when he was a monarch, would alarm even a diligent king of the present day; the property, the lives of all, were guarded by the warrior caste, and any man's grievance unredressed was held to dishonour the realm. Heaviest burden of all was
-
-
 
 laid on the Brâhmaṇa, whose physical life was austere and rigidly simple, who was bound by the most minute rules to preserve his physical and magnetic purity, and whose time was spent in study and worship. Thus the responsibility increased with the superiority of the caste, and the individual was expected to subordinate himself more and moreto the community. The rigid purity of the Brâhmaṇa was far less for his own sake than for that of the nation. He was the source of physical health by his scrupulous cleanliness, continually purifying all the particles of matter that entered his body, and sending forth a pure stream to build the bodies of others, for health and gladness are contagious and infectious, for the same reasons as disease and sorrow. The rules which bound him were not intended to subserve pride and exclusiveness, but to preserve him as a purifying force, physical as well as moral and mental. The whole purpose of the caste system is misconceived, when it is regarded as setting up barriers which intesify personal pride, instead of imposing rules on the higher classes, designed to forward the good of the whole community. As Manu said:
 
 **संमानाद्ब्राह्मणो नित्यमुद्विजेत विषादिव।  
 अमृतस्यैव चाकाङ्क्षेदवमानस्य [सर्वदा॥](http://Manusmṛiti,%20ii,%20162 "Manusmṛiti, ii, 162")**
-
-
 
  "Let the Brâhmaṇa flee from homage as from venom: let him ever desire indignity as nectar."
 
@@ -4322,8 +3704,6 @@ laid on the Brâhmaṇa, whose physical life was austere and rigidly simple, who
  "The four castes were emanated by me, by the different distribution of the energies and actions; know me to be the author of them."
 
  This distribution it is which marks out the castes, and it is not, of course, confined to India. But in the land in which settled the first family of the Âryan stock, the Manu established a model polity or social order, showing in miniature the course of evolution, and into this were born Jîvâtmâs belonging to the different stages, who showed out the characteristics of the several castes, and thus formed a truly model state. This was "the golden age" of India, and the traditions of this still linger, the splendid background of her history.
-
-
 
  When humanity is figured as a vast man, or when the Íshvara is spoken of as emanating men, then we have the following graphic picture of the four castes :
 
@@ -4348,10 +3728,6 @@ laid on the Brâhmaṇa, whose physical life was austere and rigidly simple, who
 **कृषिगोरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम्।  
 परिचर्यात्मकं कर्म शूद्रस्यापि [स्वभावजम्॥](http://Bhagavad%20Gîtâ.%20xviii.%2041-44 "Bhagavad Gîtâ. xviii. 41-44")**
 
-
-
-
-
  "Of Brâhmaṇas, Kshattriyas, Vaishyas and Shûdras, O Parantapa! the Karmas have been distributed according to the Guṇas born of their own natures.
 
  "Serenity, self-restraint, austerity, purity, forgiveness, and also uprightness, wisdom, knowledge, belief in God, are the Brâhmaṇa-karma, born of his own nature.
@@ -4369,8 +3745,6 @@ laid on the Brâhmaṇa, whose physical life was austere and rigidly simple, who
 
 अध्यापनमध्ययनं यजनं याजनं तथा।  
 दानं प्रतिग्रहं चैव ब्राह्मणानामकल्पयत्॥
-
-
 
 **प्रजानां रक्षणं दानमिज्याध्ययनमेव च।  
 विषयेष्वप्रसक्तिं च क्षत्रियस्य समादिशत्॥**
@@ -4393,8 +3767,6 @@ laid on the Brâhmaṇa, whose physical life was austere and rigidly simple, who
 
  Thus the Brâhmaṇas alone might teach the Vedas, but the duty of studying them belonged equally to the three twice-born castes.
 
-
-
  A man who did not show forth the Dharma of his caste was not regarded as belonging to it, according to the teachers of the ancient days. We have already seen that ignorant Brâhmaṇas were mere ashes, unfit for the discharge of their duties, and even more strongly Manu says;
 
 यथा काष्ठमयो हस्ती चर्ममयो मृगः।  
@@ -4413,8 +3785,6 @@ laid on the Brâhmaṇa, whose physical life was austere and rigidly simple, who
 क्षत्रियाज्जातमेवन्तु विद्याश्यात्तथैव [च॥](http://Ibid.%20x.%2065%C2%A0 "Ibid. x. 65")**
 
  "The Shûdra becomes a Brâhmaṇa and a Brâhmaṇa a Shûdra (by conduct). Know this same (rule to apply) to him who is born of the Kshattriya or of the Vaishya."
-
-
 
  So also Yudhishṭhira, taught the fundamental distinctions, without the existence of which caste becomes a mere name :
 
@@ -4439,8 +3809,6 @@ laid on the Brâhmaṇa, whose physical life was austere and rigidly simple, who
  "What is said as to the marks of conduct indicative of a man's caste, if those marks are found  
 in another, designate him by the caste of his marks (and not of his birth)."
 
-
-
  Commenting on this Shridhara Svâmi says:—"Brâhmaṇas and others are to be chiefly recognised by Shama and other qualities, and not by their birth alone."
 
 जन्मना जायते शूद्रः संस्काराद्द्विज उच्यत।
@@ -4457,13 +3825,9 @@ in another, designate him by the caste of his marks (and not of his birth)."
 
  Much question has arisen as to the possibility of a man passing from one caste to another during a single life. It is, of course, universally granted
 
-
-
 that a man raises himself from one caste to another by good conduct, but it is generally considered that the conduct bears fruit by birth into a higher caste in the succeeding life. The texts quoted in support of passage from one caste to another will mostly bear this interpretation, just as by degradation from one caste to another rebirth in a lower caste was generally meant. But there are cases on record of such passage during a single life. The history of Vishvâmitra, a Kshattriya, becoming a Brâhmaṇa is familiar to every [one,](http://Râmâyaṇa.%20Bâlakânda.%20lvii-lxv. "Râmâyaṇa. Bâlakânda. lvii-lxv.")but equally familiar are the tremendous efforts he made ere he attained his object—a proof of the extreme difficulty of the change. Gârgya, the son of Shini, and Trayyâruṇi, Kavi and Puṣhkarâruṇi, the sons of Duritakshaya, all Kshattriyas, became Brâhmaṇas, as did Mudgala, son of Bharmyâshva, also a [Kshattriya.](http://Viṣhnu%20Bhâgavata.%20IX.%20xxi.%2019,%2020,%2033. "Viṣhnu Bhâgavata. IX. xxi. 19, 20, 33.")Vitahavya, a Kshattriya, was made a Brâhmaṇas by Bhṛigu, in whose Âshrama he had taken [refuge.](http://Mahâbhârata.%20Anushâsanaparva.%20xxx. "Mahâbhârata. Anushâsanaparva. xxx.")
 
  The truth probably is that changes of caste were made in the ancient days, but that they were rare, and that good conduct for the most part took
-
-
 
 effect in rebirth into a higher caste.Even the famous shloka :
 
@@ -4474,13 +3838,9 @@ effect in rebirth into a higher caste.Even the famous shloka :
 
  Innumerable subdivisions have arisen within the great castes, which have no foundation in nature and therefore no stability nor justification. By these much social friction is caused, and petty walls of division are set up, jealousies and rivalries taking the place of the ancient co-operation for the general good. The circles of inter-marriage be-
 
-
-
 come too restricted, and local and unimportant customs become fossilised into religious obligations, making social life run in narrow grooves and cramping limitations, tending to provoke rebellion and exasperate feelings of irritation. Moreover, many of the customs regarded as most binding are purely local, customs being vital in the South which are unknown in the North, and *vice versâ*. Hence Hindus are split up into innumerable little bodies, each hedged in by a wall of its own, regarded as all-important. It is difficult, if not impossible, to create a national spirit from such inharmonious materials, and to induce those who are accustomed to such narrow horizons to take a broader view of life. While a man of one of the four castes, in the old days, felt himself to be an integral part of a nation, a man of a small sub-caste has no sense of organic life, and tends to be a sectarian rather than a patriot.
 
  At the present time a man of any caste takes up any occupation, and makes no effort to cultivate the characteristic virtues of his caste. Hence the inner and the outer no longer accord, and there is jangle instead of harmony. No caste offers to incoming Jîvâtmâs physical bodies and physical environments fitted for one caste more than for another, and the castes consequently no longer
-
-
 
 serve as stages for the evolving Jîvâtmâs. Hence the great value of the Hindu system as a graduated school, into which Jîvâtmâs could pass for definite training in each stage, has well-nigh ceased, and the evolution of the human race is thereby delayed.
 
@@ -4488,13 +3848,9 @@ serve as stages for the evolving Jîvâtmâs. Hence the great value of the Hindu
 
  Unless the abuses which are interwoven with it can be eliminated, its doom is certain; but equally certain is it, that if those abuses could be destroyed and the system itself maintained, Hinduism would solve some of the social problems which threaten to undermine Western civilisation, and would set an example to the world of an ideal social state.
 
-
-
 PART III.  
 
 ETHICAL TEACHINGS.
-
-
 
 CHAPTER I.
 
@@ -4506,13 +3862,9 @@ ETHICAL SCIENCE, WHAT IT IS.
 
  The object of morality is to bring about happiness by establishing harmonious relations between all the Jîvâtmâs that belong to any special area;
 
-
-
 harmonious relations between the members of a family; harmonious relations between the families that make up a community; harmonious relations between the communities that make up a nation; harmonious relations between the nations that make up humanity; harmonious relations between humanity and the other inhabitants of the earth; harmonious relations between the inhabitants of the earth and those of other worlds of the system. The great circle goes on spreading outwards in- definitely, and including larger and larger areas within its circumference. But still, whether the area be large or small, Ethic is "the principles of harmonious relations." Thus we have family morality, social morality, national morality, international morality, human morality, inter-world morality, and all these concern us. With the yet wider sweeps of the Science of Conduct we are not yet concerned, but the basic principle is the same throughout.
 
  It is obvious that the establishment of harmonious relations between a man and his surroundings, near and remote, means happiness. We are always suffering from the want of harmony, from jarring wishes, from friction between ourselves and others, from the lack of mutual support, mutual assistance, mutual sympathy. Where there is har-
-
-
 
 mony there is happiness; where there is disharmony there is unhappiness. Morality, then, in establishing harmony establishes happiness, makes families and communities and nations and humanity and all dwellers in this and other worlds happy. The ultimate object of Morality, of Ethic, of the Science of Conduct, is to bring about Universal Happiness, Universal Welfare, by uniting the separated selves with each other and with the Supreme Self. All the six Darshaṇas are agreed as to this *summum bonum* of man.
 
@@ -4523,8 +3875,6 @@ mony there is happiness; where there is disharmony there is unhappiness. Moralit
 
 सुखमात्यंतिकं यत्तद्बुद्धिग्राह्यमतींद्रियम्।  
 वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः॥
-
-
 
 **यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः।  
 यस्मिन्स्थितो न दुःखेन गुरुणापि [विचाल्यते॥](http://Bhagavad-Gîtâ.%20vi.%2020-22. "Bhagavad-Gîtâ. vi. 20-22.")**
@@ -4537,8 +3887,6 @@ mony there is happiness; where there is disharmony there is unhappiness. Moralit
 
  Nothing less than this is Happiness, and this is the Happiness which Morality brings about. The student must not allow his clear vision of this truth to be clouded by superficial appearances, which seem to be at variance with it. However difficult and painful it may sometimes be to do right; however tiresome and burdensome obedience to moral precepts may sometimes be; none the less, in the long run, doing right means to be happy, and doing wrong means to be miserable. "As the wheels of the cart follow the ox," said the great Indian teacher, the Buddha, so misery follows sin." Thus also speak all the Shâstras
 
-
-
  All this is inevitable, as we shall see later on.
 
  We have spoken of harmony, of happiness, of right, of wrong, and of the inhabitants of the earth and those of other worlds of the system.
@@ -4546,8 +3894,6 @@ mony there is happiness; where there is disharmony there is unhappiness. Moralit
  But if we are to go to the root of things, to first principles, we cannot but seek the help of Religion. For Religion gives us the ultimate data upon which Ethical Science may be built. Morality has only one basis, on which it is built up, as a house is built on its foundation. And just as a house will become crooked and fall, if it be built on a shaky foundation, so will any morality fall which is not built on that sound basis.
 
 ![](../books_images/U-IMG-173503738476.png)
-
-
 
 CHAPTER II.  
 THE FOUNDATION OF ETHICS, AS GIVEN BY  
@@ -4571,11 +3917,7 @@ DIVERSITY OF THE NOT-SELF.
 
  One sun is shining, and it shines into every separate place, every separate enclosure.
 
-
-
 may be a thousand gardens, separated from each other by high walls, but the one sun shines into all, and the light and heat in each are from the one sun, are parts of himself. So the Jivâtmâs in all creatures, separated from each other by the walls of Prakṛiti, the walls of their bodies, are rays from the one Sun, sparks from the one Fire, portions of the one Âtmâ, the one Self. We cannot fully realise this, be conscious of it and live in it always, until we have become perfectly pure; but we can recognise it as a Fact, as the one all-important Fact, and in proportion as we try to make our conduct accord with this Fact, we shall become moral. We shall see, as we study morality, that all its precepts are founded on this recognition of the unity of the Self. If there is only one Self, any act by which I injure my neighbour *must* injure me. A man will not deliberately cut his hand, or his foot, or his face, because all these are parts of his own body, and though a cut on his hand does not directly make his foot ache, *he* feels the pain from any part of his body. The foot, being ignorant and limited, is not conscious at once of the wound made in the hand, but the man is conscious of it, and will not let the foot carry his body into a place where the hand will be injured. Of course the foot ultimately suffers from the ge-
-
-
 
 neral fever of the whole body caused by a severe injury to any part of it, as ignorance of the unity of the body does not alter the fact of unity. And so the man who believes that the Self is one, in him and in all others, also necessarily believes that in injuring any part he is injuring himself, though, being limited and ignorant, he may not then feel it; and he learns to look on all as parts of one body, and on his innermost Self as the One who uses that one body, and lives and moves in all.
 
@@ -4585,11 +3927,7 @@ neral fever of the whole body caused by a severe injury to any part of it, as ig
 
  All the laws of nature are expressions of the
 
-
-
 Divine Nature, and, as one of the aspects of that Nature is Chit, the Reason can grasp and verify them. They are supremely rational, nay Reason itself, and Reason in man is fitly concerned with their study. Now "the Reason" must not be confused with the process of reasoning—the passing from one link of an argument to another by logical sequence. This process is only one of the functions of the Reason, and is called the ratiocianative faculty, and belongs to the concrete Reason, the lower mind. "The Reason" is Chit, and includes all mental processes, concrete and abstract, the perception in the higher as well as in the lower worlds, direct clear vision of truths as of objects. As knowledge is the rightful source of authority, and as the knowledge of the Ṛiṣhis was the product of their Reason, working in assonance with the Divine Reason, the Shruti, given to the Hindus through the Ṛiṣhis, are authoritative. Their authority is thus based on Reason, on the Divine Wisdom primarily, and on the illuminated human Reason secondarily. The Ṛiṛhis, as we saw in the Introduction, have modified the Shruti to meet the needs of special ages, for precepts useful at one time are not useful at another. It is further possible by the use of the Reason to distinguish between precepts of univer-
-
-
 
 sal and those of local and temporary obligation.
 
@@ -4599,15 +3937,11 @@ sal and those of local and temporary obligation.
 
  The Scriptures of other nations, which have not stated clearly the Unity of the Self, have necessarily been unable to state clearly the highest sanction for morality, and have directed reliance mainly to a Divine authority, the source of which is not universally seen as identical in nature with the Spirit (Jîvâtmâ) in man. Hence a certain divorce between Authority and Reason, injurious to both, and this divorce has led to the growth of two ethical schools, that stand in opposition to authoritative, *i. e*., scriptural morality, and also in opposition to each other.
 
-
-
  One of these schools, the intuitional, finds its basis for morality in intuition, in the dictates of the conscience, but fails to escape from the difficulties involved in the variations of conscience with racial and national traditions, social customs, and individual development.
 
  The second, the utilitarian, has its ethical basis in "the greatest good of the greatest number,” but fails to justify the exclusion of the minority from its canon, and to supply a sanction of sufficiently binding force. Besides, what constitutes "the greatest good of the greatest number" is always a debatable point; hence the "canon" is useless as a practical guide.
 
  The student can study these systems in the works of their exponents, and he will do well to understand that the reconciliation of these schools lies in the recognition of the Unity of the Self, and the consequent completion of the partial truths on which these are based. He will then see that this principle affords to the teachings of the scriptural school their proper support in Reason; that this supplies the intuitionalist with the explanation of the variations of [conscience](http://There%20is%20no%20exact%20Samskrit%20equivalent%20for%20the%20word%20%22conscience.%22 "There is no exact Samskrit equivalent for the word "conscience.""),which is the voice of the Jîvâtmâ, and depends on the stage of evolution reached and the experiences assimilated; that this
-
-
 
 shows to the utilitarian that there is no ultimate good for any which is not also good for all, that there is no question of majority and minority, but of unity, and that the sanction of morality lies in this very unity of interests, this identity of nature.
 
@@ -4616,8 +3950,6 @@ shows to the utilitarian that there is no ultimate good for any which is not als
  Universal Brotherhood has its basis in the Unity; men are divided by their Upâdhis, both dense and subtle, but they are all rooted in the one Self. Only this teaching, when generally realised, can put an end to wars, and serve as a foundation for peace. This alone can eradicate racial and national hatreds, put an end to mutual contempt and suspicion, and draw all men into one human family, in which there are elders and youngers, indeed, but no aliens.
 
  Nor, indeed, can the Brotherhood based on the Unity of the Self be limited to the human family. It must include all things within its circle, for all, without exception, are rooted in the Self. In the
-
-
 
 10th Adhyâya of the *Bhagavad-Gîtâ* Shri Kṛiṣhṇa declares :
 
@@ -4643,8 +3975,6 @@ shows to the utilitarian that there is no ultimate good for any which is not als
 
 ![](../books_images/U-IMG-173503771260.1.png)
 
-
-
 **या भूतपृथग्भावमेकस्थमनुपश्यति।  
 तत एव च विस्तारं ब्रह्म संपद्यते [तदा॥](http://Bhagavad-Gîtâ.%20xiii.%2027,%2028,%2030 "Bhagavad-Gîtâ. xiii. 27, 28, 30")**
 
@@ -4664,8 +3994,6 @@ shows to the utilitarian that there is no ultimate good for any which is not als
 
  And so with wife, sons, property, friends, worlds, and even the Devas themselves. All are dear because the One Self is in all.
 
-
-
 न वाअरे सर्वस्य कामाय सर्वं प्रियं भवति  
 आत्मनस्तु कामाय सर्वं प्रियं भवति।
 
@@ -4678,15 +4006,9 @@ shows to the utilitarian that there is no ultimate good for any which is not als
 
  But it is useless to multiply texts, when the Shrutîat every step proclaim the truth. In this and in this alone is the sure Basis of Morality, for this Unity of the Self is the real cause and explanation of Love; One Self, embodied in many forms, is ever seeking to draw the forms together in order to again realise Its own unity. This is why the recognition of the Unity of the Self by the Reason, which is Wisdom, shows itself in a world of separate forms as Love. So also the many-ness of the Not-Self is the cause and explanation of Hate, each separate form setting itself up against others. The full significance of this will be seen by the student on maturer study; but he should grasp the fact–which will become clearer as we proceed-
 
-
-
 that all virtue, all that is good, is the immediate result of the pure Love which springs from recognising the Unity of the Self, and that all vice, all that is evil, similarly arises from disregard of this truth, and from the feeling that the Self is not one, but many, as the bodies are many.
 
-
-
 ![](../books_images/U-IMG-173503795476.png)
-
-
 
 CHAPTER III.
 
@@ -4695,8 +4017,6 @@ RIGHT AND WRONG.
  The student will remember the description of the Trilokî in Part I. At the beginning of a new Trilokî, life-evolution begins. This evolution takes place in all the three worlds, but we may confine ourselves to our Earth. First the life forms appear. The Purâṇas speak in veiled words as to how sheath after sheath encloses the life; under the influence of the five forms of Avidyâ (Avidyâ, Asmitâ, Râga, Dvesha and Abhiniveṣha) we have the process of manifestation, till we find all the forms of creation manifested on our Earth. During this process, the idea of multiplying governs all beings. This idea breaks through the innate inertia, the remnant of pralayic tendency, with which all beings start. This idea becomes refined and is then called Pravṛitti, or Inclination, the desire for objects; the world is then on the Pravṛitti Mârga, the Path of "going forth."
 
  Beings become materialised, and as they become consciously separate their self-seeking tendencies become very strong. Every such being forms a world in himself, and tries to exclude others. Men
-
-
 
 live for enjoyment, and they care for the present only. The idea of separateness developes intellect, which works from the standpoint of individuality. This element is necessary in man in order, to bring out his individual faculties, and to cultivate them in such a way as will make the intellectual development fairly complete.
 
@@ -4708,13 +4028,9 @@ live for enjoyment, and they care for the present only. The idea of separateness
 
  Then follows a transition stage, preparing man to enter on the Nivṛitti Mârga; during that, and on the Nivṛitti Mârga, that which favours the tendency towards Unity is RIGHT, and that which goes against it is WRONG.
 
-
-
  When the time of Pralaya comes, all that helps it will be RIGHT, all that opposes it WRONG.
 
  Speaking generally, that which is suitable to the stage of evolution which the world has reached, that which helps it onwards, is RIGHT; that which obstructs and hinders evolution is WRONG. For the will of Íshvara points steadfastly to the highest good, and guides His universe towards good. To work with this will is to be in harmony with the great movement of the world-system, and thus to be carried on with the stream of evolution; while to go against it is like beating against an overwhelming current, which dashes us against the rocks, bruises and wounds us. To do right is to be at peace with ourselves and with God, and is therefore happiness; to do wrong is to be at war with ourselves and with God, and is therefore misery. Hence bad people tend to become, after a time, discontented, irritable, unsatisfied, however outwardly favourable may be their circumstances; while the good are inwardly at peace and contented, even when their outer circumstances are very unfavourable. Here again the essential fact is the same, for the will of Íshvara, being guided by the highest wisdom and love, ever necessarily and constantly points
-
-
 
 to the highest good—the more and more perfect realisation of the Unity of the Self amid the endless diversity of forms.
 
@@ -4724,17 +4040,11 @@ to the highest good—the more and more perfect realisation of the Unity of the 
 
  We have gathered from the first part of this work what evolution means. Generally speaking, a world-system has a life in the same way as a single human being; and as a single human being grows in physical life for the first half of his life- time and decreases in respect thereof during the second half, so too a world-system, a Brahmâṛḍa, grows more and more material during the first half of its life, the Pûrvârdha or Prathama Parârdha of the Kalpa, and more and more spiritual during the second half or Dvitîya Parârdha thereof. This
 
-
-
 process from birth to death, from death to a higher birth, from that to a deeper death and thence again to a still higher birth—repeated endlessly—is the general plan of life and evolution. In our own world-system, the process takes the shape of a gradual descent of Spirit into the dense matter of the mineral kingdom and a reascent therefrom through the Arvâksrotas or the vegetable kingdom, the Tiryaksrotas or the animal kingdom, the Urdhvasrotas or men, and higher forms, into the realised union of Mukti. Coming into still minuter detail we find that amongst men the process reappears as the descent of the primeval and simple-minded childlike human races, governed and guided by divine beings, through growth of materialism and the sense of separateness, and consequent selfishness and exclusiveness in the appropriation of the stores of nature and the gifts of Providence, into the condition of ever-warring tribes. Then a slow reascent therefrom, through despotic and military government, to constitutional monarchy and organised society, to reach at last those distant and happy times of universal brotherhood when unselfishness and altruism shall reign supreme, and men will see their common unity far more than their separateness from each other. Finally, in the individual Jîva, we see that
-
-
 
 evolution, or the life-process, appears as the gathering of experience and information in the first years after birth, then the utilisation of that experience for the founding of a family, then the instruction of the new generation and the helping of them to take up the life of the householder themselves, and ultimately retirement from life into Sannyâsa and the peace of renunciation and of a happy death.
 
  Such being the general order of evolution, that course of conduct which helps it on is Right; all else is Wrong. If we have to go to a certain place, then all appliances that make the journey easier and help us to move forward in that direction are good; all obstacles that make it more difficult and retard our progress are evil. If we had a different goal, if we were desirous of going to a place in the exactly opposite direction, then the first-mentioned appliances, which would be taking us away from our new goal, would become evil So long then as we are on the line of our present evolution, the actions that help us forward on it are good and right, and the opposite ones evil and wrong. And in order to find out what is right conduct and what is wrong in any particular situation, we must judge it according to its conduciveness or otherwise to the particular end in view,
-
-
 
 and judge the particular end again with reference to its congruity with the general goal of human evolution. Without such reference, it is impossible to say what is right and what is wrong. With such reference, on the other hand, we may map out easily the details of our path in life and through evolution, and then we shall have at every step a standard of right and wrong by which to guide our actions.
 
@@ -4742,15 +4052,11 @@ and judge the particular end again with reference to its congruity with the gene
 
  For instance, the rules of the four Âshramas are dictated by the facts and laws of individual evolution ; and the rules of the four Castes by the facts and laws of human evolution at large, in the middle stage of law-governed state and social organisation and division of labour.
 
-
-
  The conditions of the four Castes and the four Âshramas exhaust all possible situations in the whole life of the present-day humanity, and the Sanâtana Dharma therefore provides general rules for all such situations, grouping them into general classes.
 
  The casual observer might think that because there are no expressly recognised Castes and Âshramas amongst many nations of modern humanity, therefore general conditions are radically different for different nations; but this is not so. Though not expressly recognised, the divisions themselves are to be found everywhere, under other names and forms it may be, but still in all the races of the present day; and that they are not expressly recognised is in some respects productive of inconvenience and waste of time and trouble, economically speaking, to those nations, even as overrecognition and exaggeration are productive of inconvenience and mischief here in India.
 
  The natural conditions of the present evolution unavoidably force upon humanity the relations of teacher and student, ruler and ruled, producer and consumer, master and servant, parent and son, husband and wife, brother and sister, worker and pensioner, employer and employed, soldier and civilian, agriculturist and tradesman, layman and
-
-
 
 priest, householder and recluse. The Sanâtana Dharma, instead of leaving these relations to vague and groping experiments, rationally orders and systematises them, and teaches generally the duties and virtues proper to each relation and situation, with the injunction that the duties and virtues of two different relations and situations should never be mixed up together indiscriminately, for thus great danger and confusion result:
 
@@ -4760,23 +4066,15 @@ priest, householder and recluse. The Sanâtana Dharma, instead of leaving these 
 
  If a king, in the exercise of his office, come to behave as a merchant, and instead of exercising the king's virtues exhibit those of the tradesman ; if a judge, in the decision of a case, instead of being guided by the virtue of justice, show active physical fighting as a soldier, or compassion as a priest; if a priest, in his ministrations, behave as an executioner; if one who should be a Brahmachârî or a Gṛihastha in the ordinary course, should, without good specia! reason, become a Vânaprastha or a Sannyâsî, or vice-versa; if one who is fitted by nature to be a soldier should become a merchant, or one fitted for study only should take up the work
 
-
-
 of agriculture—then the whole economy of the state and the nation would be more or less disturbed.
 
  What is right then in one situation is not right in another; and the most general definition that can be given of right and wrong is, that right conduct is that which helps on a known scheme of evolution to its recognised goal, and wrong conduct is the opposite.
 
- 
-
 For an instance of how the epithets right and wrong may be applied to the very same action looked at from different points of view, take this case. Two men come together; one confines the other in a closed house by force, takes away all liberty of movement from him, and also all moveable property he may have about him, and places it in the possession of others who help and obeyhim. This act taken by itself, without any reference to previous facts, is wrong; it hinders the life and evolution of the man confined and that of his family and dependants; in fact it amounts to robbery with wrongful confinement of an aggravated character. But suppose that the man confined had forcibly deprived a third person of some property, and the man who ordered his confinement was a judge, and the closed house a public jail, then the same act becomes the rightful imprison-
-
-
 
 ment of a thief, and the removal of property from his person a necessary act of prison–discipline, all of which is perfectly right and even necessary, for thereby the evolution of society and of the thief himself is generally helped. But yet again, if the imprisoned man had forcibly deprived the other of property not belonging to that other but to himself, property which that other had stolen, then the action of the judge becomes wrong again, and his order reversible on appeal to a higher judge.
 
  It is the same on a larger scale in the larger life of the world. The Purâṇas say that in the begining of the world, when the immediate object was to multiply the human population and engage it in the life of the household, Daksha Prajâpati created certain classes of children, the Haryashvas, &c. The Ṛiṣhi Nârada, whose duty it is to bring about certain adjustments of good and evil forces and generally to promote the life of renunciation in our world, commenced his work too soon, and persuaded the Haryashvas to avoid the life of the household and take up the life of the recluse. His action, because of its inopportuneness, was found to be wrong, and he was punished by a curse under which he himself had to be born in the animal and human kingdoms and lead the life of the household with other Jîvas. So, again, in the earliest days
-
-
 
 of the race, the worship of Brahmâ, the embodiment of Rajas and action, the cause of Sarga, creation, was enjoined. Later on, the worship of Viṣhṇu, the embodiment of Sattva, Knowledge and Love, the cause of Sthiti, maintenance, becomes appropriate. In the last days of a cycle, the worship of Shiva, the embodiment of Tamas, Vairâgya or Self-Sacrifice and Renunciation, the cause of the Pralaya, the dissolution of the material world, finds place.
 
@@ -4789,8 +4087,6 @@ of the race, the worship of Brahmâ, the embodiment of Rajas and action, the cau
 
  As a general rule, when one Jîva helps another, makes him happy, whether he wish it consciously or not, that happiness comes back to him by the law of action and reaction; this is expressed
 
-
-
 by the rule that Puṇya brings happiness. Exactly similar is the case as regards misery and Pâpa.
 
  The three processes of creation, preservation and dissolution which have just been described are based upon the three fundamental attributes of the matter side of Nature, or Prakṛiti—Sattva, Rajas and Tamas. To begin with, we have pralayic inertia due to Tamas influencing the matter, or prâkṛitic, side of Jîvas. Then we have kâmic and mânasic activity, developing the Emotions and the Intellect. This is due to the prevalence of Rajas, acting on the prâkṛitic basis of Jîvas. Lastly we have a tendency to free ourselves from distraction, from desires for objects, from selfish pursuits, and to attain calm, peace and bliss, whatever be the outer surroundings at any time. This spiritual evolution is brought about by the prevalence of Sattva in us. Then, on the eve of Pralaya, Tamas overtakes us once again.
@@ -4798,8 +4094,6 @@ by the rule that Puṇya brings happiness. Exactly similar is the case as regard
  Every man has in him a predominance of Sattva, or Rajas, or Tamas, and his development depends upon the relative proportions of each of these attributes. When a man is predominantly tâmasic, he is indolent, inactive, dull and ignorant,
 
  He requires at first a râjasic development. Anything that draws him out, attracts curiosity, and makes him active, is good and right for him.
-
-
 
 The constant rebuffs and touches of joy that he gets in his active life, the accumulation of painful and pleasurable experiences, develop his intellect.
 
@@ -4809,8 +4103,6 @@ The constant rebuffs and touches of joy that he gets in his active life, the acc
 
  Every man has thus his own evolutionary stage, which is generally indicated by the circumstances attending his birth, but more precisely by the attributes which characterise him. Though particular rules may be laid down for the particu-
 
-
-
 lar stages of development of a man, such as the Varṇa and Âshrama rules of old, yet for the average civilised man in general, some rules of conduct may also be laid down, and these form the general rules of Ethics.
 
  We have now to see how on the basis above sketched a Science of Conduct is built up, a Science which cannot be overrated as to its importance.
@@ -4819,17 +4111,11 @@ lar stages of development of a man, such as the Varṇa and Âshrama rules of ol
 
  The time of youth is the time for improving
 
-
-
 character, the time when the germs of vices can most easily be eradicated, and the germs of virtues can most easily be cultivated.
 
  Each comes into the world with a character made by his past, and he must work upon this character, his self-created friend or foe. He can work on it at the greatest advantage if he understand clearly what he should aim at, and by what means his aim can be reached. He needs to understand the roots of virtues and vices, to learn how to distinguish one from the other, to learn how to cultivate virtues and how to eradicate vices, as a gardener cultivates flowers and eradicates weeds. For each man has a garden in himself, and should learn to be a skilful gardener.
 
-
-
 **![](../books_images/U-IMG-173509737253.png)**
-
-
 
 **CHAPTER IV.**
 
@@ -4845,15 +4131,11 @@ THE STANDARD OF ETHICS.
 
  The "establishment of harmonious relations," which is said above to be the work of Ethic, is now seen to be the leading of the different parts
 
-
-
 of the great human body to work in harmony with each other. It is no mere figure of speech that all races of men, all nations, make up one great Man; it is a fact. 'Puruṣha," the Inner Man, the Self, is indeed Puruṣhottama, the Lord, Íshvara Himself. But there is also the Puruṣha which is His body, and this is Humanity as a whole, and each separate being is a cell in that vast body. All the troubles which make us unhappy, the wars between nations and the quarrels between individuals, the poverty and starvation, the competition and the crushing of the weak, and the countless evils round us, are all diseases of this great body, due to the parts of it getting out of order, and working separately and competitively without a common object, instead of working together as a unity for the good of the whole.
 
  The moral tendencies of man were classified by ShrîKṛiṣhṇa under two broad divisions—Divine qualities (Daivî Sampat) and infernal qualities (Âsurî Sampat).
 
  Under Daivî Sampat, Shrî Kṛiṣhṇa placed the virtues that go towards bringing about harmonious feelings amongst all beings, towards accentuating a feeling of unity and friendliness, towards securing peace and calm, in fact towards
-
-
 
 carrying out the law of evolution in its entirety.
 
@@ -4877,9 +4159,7 @@ carrying out the law of evolution in its entirety.
 दंभो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च।  
 अज्ञानं चाभिजातस्य पार्थ संपदमासुरीम्॥[^133]
 
-
 [^133]: "Ibid.XVI.4"
-
 
  "Hypocrisy, arrogance and conceit, wrath and also harshness and unwisdom, are his, O Pârtha, who is born to the âsuric qualities."
 
@@ -4908,15 +4188,11 @@ carrying out the law of evolution in its entirety.
 
  The whole of Chapter XVI of the BhagavadGîtâ should be carefully pondered by the student in this connection.
 
-
-
 **CHAPTER V.**
 
 VIRTUES AND THEIR FOUNDATION.
 
  The establishment of harmonious relations means mutual sacrifice of the personal selves.It means that all beings should realise that they form component parts of one Being, and that they must all subordinate themselves to the life of that One Being. Just as there are innumerable cells in the body, but each cell-life subordinates itself to the one life that pervades the whole body, so the life of every being is to be subordinated to the life of the Íshvara of the Universe. Different cells have different functions to perform, but each function is a part of the general function of the whole body. As each cell has its fixed place in the body, so each being has a definite place in the universe. There is one general life-current that pervades all beings, and the life of each individual has to conform to the One Life, the life of the One Self, Íshvara. This is the limitation under which we all work, and this limitation is the law of our very being; all beings are mutually linked to one another, and the links impose mutual relations and mutual
-
-
 
 sacrifices. All beings are dependent on one another, and they are all dependent on the one great Life. This law of interdependence, of mutual sacrifice, is known as Yajña, and has already been explained in Parts I and II.
 
@@ -4925,7 +4201,6 @@ sacrifices. All beings are dependent on one another, and they are all dependent 
 **यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबंधनः।  
 तदर्थं कर्म कौंतेय मुक्तसंगः समाचर॥[^135]**
 
-
 [^135]: "Bhagavad Gîtâ, iii. 9"
 
   "The world is bound by action, other than action done for the sake of sacrifice; with such object, free from attachment, O son of Kuntî, perform thou action[^135]."
@@ -4933,8 +4208,6 @@ sacrifices. All beings are dependent on one another, and they are all dependent 
 [^135]: "Bhagavad Gîtâ, iii. 9"
 
  We have seen that the different classes of beings linked together in this universe are five:—the Devas, the Pitṛis, the Ṛiṣhis, men and animals, and that sacrifices to these classes are a duty, which every man performing actions is bound to discharge. For when sacrifice is imposed by law, there is an obligation to perform it, and hence the performance becomes a duty.
-
-
 
  In its exact ethical sense duty means an action which is due, which ought to be done, which is owed; it is an obligation to be discharged. Nature is ever restoring disturbed equilibrium, and the universal law of Karma, of action and re-action, is the full statement of this fact. She is always balancing her accounts. Duties are the debts a man owes to his fellows, paid to discharge the obligations under which he lies for benefits received.
 
@@ -4949,19 +4222,13 @@ sacrifices. All beings are dependent on one another, and they are all dependent 
 
  The three twice-born Castes were directed to pay these debts by passing through the three Âshramas, Brahmacharya, Gârhasthya and Vânaprastha, each
 
-
-
 of which, it will be seen, answers to one of the above three duties. The debt to the Ṛiṣhis was paid by **अध्ययनं**, adhyayanam (including **अध्यापनं** ) studying the Vedas, serving the teacher in the Brahmacharya-Âshrama and by teaching others; the debt to the Ancestors was paid by rearing a family and discharging the duties of Gârhasthya, including **दानं** dânam, charitable gifts; the debt to the Devas was paid by **यजनं**, yajanam, sacrifice, chiefly in Vânaprastha. Sannyâsa, the fourth Âshrama, sums up the three others on the highest level. For the youngest caste, the Shûdra, only **शुश्रूषा**, shushrûṣhâ, service, was prescribed, as summing up all duties in a single word. Looked at truly, service of the world includes all duties for the highest Sannyâsî, for he has nothing left to gain for himself. Thus the duty of the youngest becomes also the duty of the eldest, but in the latter case on a much higher level.
 
  We may illustrate the idea of duty by the relation of father and son. The father received in his childhood protection and care from his own parents, and thus incurred a debt; he pays this as parental duty to his son, to whom he, in turn, has given a physical body, which requires from him the fostering care bestowed on his own in his infancy and childhood. The son, having received his body from the father, has the duty of serving
 
-
-
 him with that body, and is also incurring a debt during his helpless years to be paid in time to his own children.
 
  Now the quality which dictates the fulfilment of a duty is called a Virtue; that which prompts the non-fulfilment, or violation of it, is called a Vice. Happiness in any relation depends on the parties to the relation fulfilling their duties to each other; that is, on their practising the virtues which are the fulfilment of the duties of the relation. Unhappiness in any relation results if one or both the parties do not fulfil their duties to each other; that is, if they practise the vices which are the nonfulfilment of the duties of the relation. A father and son are happy with each other if the father shows the virtues of tenderness, protection, care for the well-being of the son, and the son shows the virtues of obedience, reverence and serviceableness. A father and son are unhappy if the father shows the vices of harshness, oppression, neglect, and the son shows the vices of disobedience, disrespect and careless disregard. If father and son love each other, the virtues of that relation will be practised; if they hate each other, the vices of that relation will appear. Virtues grow out of love regularised and controlled by the righteous intelligence, that sees more the unity of the Self than the diversity
-
-
 
 of the Not-Self; vices grow out of hate strengthened and intensified by the unenlightened intelligence, that sees more the separateness of the bodies than the oneness of the Self.
 
@@ -4980,8 +4247,6 @@ of the Not-Self; vices grow out of hate strengthened and intensified by the unen
 
 अमात्सर्ये क्षमा चैव ह्रीस्तितिक्षाऽनसूयता॥
 
-
-
 **त्यागो ध्यानमथार्यत्वं धृतिश्च सततं दया।  
 महिंसा चैव राजेंद्र सत्याकारास्त्रयोदश ॥[^139]**
 
@@ -4999,8 +4264,6 @@ of the Not-Self; vices grow out of hate strengthened and intensified by the unen
  "Truth is the eternal Brahman....... ..Everything rests on Truth."
 
  All the laws of nature are expressions of Truth, i.e. they are the methods, the expressions of the nature of That which IS, of the Truth, Reality, Being, the Self or Puruṣha manifesting amidst the limitations of the Not-Self, Untruth, Non-Being, or Mûlaprakṛiti. They work therefore with undeviating accuracy, with absolute justice and precision. To be true is to be in accord with these laws, and to have nature's constructive energies on our side and working with us. It is to be working with Íshvara. The intellect has the power of discerning what is from what
-
-
 
 is not, the power of discrimination, of seeing the Real and the Unreal. Recognising the Real as stable and permanent, it seeks to grasp it, and thus cultivates the virtues which are the forms of truth.
 
@@ -5024,8 +4287,6 @@ is not, the power of discrimination, of seeing the Real and the Unreal. Recognis
 
 [^141]: "Mahâbhârata. Ashvamedha Parva. lxix. 18, 19, 21. 22."
 
-
-
 truly come about. Even now do I revive this child; let all beings behold it.
 
  "As I have never uttered an untruth, even in play, as I have never turned back from battle, so may this infant live.
@@ -5042,17 +4303,11 @@ truly come about. Even now do I revive this child; let all beings behold it.
 
  It must never be forgotten that no character can be virtuous which has not truth for its basis, and that no character can be base when truth is preserved unsullied. It is the root of all true manli-
 
-
-
 ness, the glory of the hero, the crown of the virtuous, the preserver of the family, the protection of the State. Falsehood undermines alike the home and the nation, poisons the springs of virtue, degrades and pollutes the character. The liar is always weak and always despicable; scorn and contempt follow him. For the building up of character, truth is the only sure foundation.
 
  Here, again, we come back to our basis of morality, and see why Truth is so all-important. For if it be carefully traced back, every untruth uttered will be found to be ultimately connected with the desire for a separate and exclusive existence, and hence to arise from repulsion, separateness, hate, while every truth uttered is ultimately connected with the desire for the common and united life of the one Self, the Real, whence all love proceeds.
 
-
-
 ![](../books_images/U-IMG-173511541853.png)
-
-
 
 **CHAPTER VI.**  
 
@@ -5062,23 +4317,15 @@ BLISS AND EMOTIONS.
 
  The life force works itself out by *impulses* seeking bliss, and by the direction of the guiding intelligence. We need not, in this treatise, go further back than the human stage of development. The
 
-
-
 impulses of man lead him indiscriminately to various objects in pursuit of pleasure. But the rebuffs of pain make him stop and think. Over and over this happens in life. Over and over again the impulses propel; over and over again intelligence checks. The impulses are thus restrained, directed, and refined, Bliss and intelligence act and react on each other and constantly press man onward. One becomes known as Emotion, the other as Intellect. A man may progress continually: he may no longer require a brain, he may no longer require the help of propelling emotions, he may no longer require some particular forms of intelligence and bliss; but intelligence and bliss themselves form part of his life; they are aspects of the Íshvaric life, which he assimilates and calls his own, and they are inseparable from him,
 
  Emotions lead a man outwards and make him identify himself with the things he sees around him. But intellect forms a centre of I–ness, the centre of a small circle of personality, forces all experiences to that centre, and judges all things from the standpoint of that centre, Intellect forms the barrier of selfishness, which separates man from man, till at last by wider and wider knowledge, by knowledge embracing the whole universe, the barrier is swept away, all mankind, nay all beings,
-
-
 
 form one field, one circle; but the centre is then removed, and becomes the great centre of the Universe, the centre of Íshvaric existence; man rises above the Ahamkâra tattva, the tattva that causes the limited sense of I-ness. He plunges into Mahat, or the great tattva, and becomes the possessor of universal knowledge.
 
  The emotions of a man, bound down to the personal self, find expression through the indriyas. The indriyas rush out and bring back their experiences to the intellect of man. The experiences that cause harmonious vibrations are recorded by the intellect as pleasurable, and those that produce opposite vibrations are recorded as painful. The register is made in the memory of man, and intellect proceeds to discriminate between what is pleasurable and what is painful in the long run. Emotions thus become trained. Likes and dislikes become the natural expressions of the emotions, under the guidance of intellect which has developed Discrimination.
 
  The senses become thus indissolubly wedded to the mind, the emotions to the intellect, the indriyas to Mahat, and man becomes normally EmotionalIntellectual, or Kâma-Mânasic. This is essentially necessary at this stage of his progress.
-
-
-
-
 
 Thus man likes in the beginning whatever is sweet, and dislikes whatever is bitter. But experience tells him that too much of a sweet thing is as bad as a bitter thing. Temperance in time becomes a normal emotion in a developed man.
 
@@ -5099,15 +4346,11 @@ Thus man likes in the beginning whatever is sweet, and dislikes whatever is bitt
 
  To rush out to do a thing on the first impulse sometimes brings on disastrous results.To lose
 
-
-
 temper brings more disharmonious than harmonious experiences. Forbearance, Toleration, become thus normal emotions in man.
 
  Emotions, rightly directed by the intelligence, are virtues. In the culture of emotions lies the formation of a man's character, his ethical development. Emotional culture is the highest culture of man, and the training of likes and dislikes is his best evolution. The man of cultured emotions is propelled by them to do what he thinks right; he becomes patriotic, he becomes philanthropic, he becomes compassionate, he becomes friendly to all beings. His emotions become predominantly those of Love, and he takes an ever wider and wider range in the manifestation of that Love. And when the barrier of personality is swept away, when the ahamkâric mind becomes Manas, or the reflection of the Universal Mind, the emotions also break through the barrier of indriyas and ascend to Buddhi, and reflect the life of Íshvara within. Verily then the Trinity of Âtmâ, Buddhi and Manas becomes a Unity, and the man a Jivanmukta.
 
  We now understand why Ethical Science is particularly concerned with the emotions, and hence with the bliss aspect of Íshvara.
-
-
 
  There are many ways of showing why happiness should follow right conduct, and unhappiness wrong conduct, but they are all modifications of the one essential reason, that, as there is but One Self in all, to hurt or help another is virtually to hurt or help oneself.
 
@@ -5129,13 +4372,9 @@ It is written in the Shruti:
 
  "Let him know it, pure and immortal."
 
-
-
  Thus purity and bliss are of the nature of the Jîvâtmâ and are inseparable, for unity is purity, and the feeling of unity is the feeling of bliss.
 
  Each Jîvâtmâ being of the nature of the one Self it is ever, when embodied in a separate form, seeking union with the Self in other forms. search for unity, for the bliss of union, is instinctive, and results, when the union is found, in perfect happiness. In this everyone is alike. Men differ in most things, but in their longing for happiness they are all alike. Every man, woman, boy and girl wants to be happy. They seek happiness in many different ways, but they all seek happiness. The Jîvâtmâ, blinded by his body, chooses the wrong things very often, but the motive of his choice is always the same, the desire to be happy. It is his nature to be happy, and he is always trying to express that nature. Through the whole of his long pilgrimage he is searching for happiness. motive, the object at which he invariably aims. If he does a painful thing, it is in order to gain a greater happiness. If he endures toil and discomfort, it is because the result of the toil and discomfort will be happiness. Happiness is his end; everything else is only means to that end. A life of austerity and continued self-denial and suffering is embraced in the belief that it will lead to supreme bliss. The
-
-
 
 whole of evolution may be described in the words: "A search for happiness." Continually disappointed, with unwearying perseverance man returns again and again to the search, until at last he recognises that purity, wisdom, bliss, are one and indivisible. Then he goes to Peace.
 
@@ -5143,11 +4382,7 @@ whole of evolution may be described in the words: "A search for happiness." Cont
 
  Thus Ethics leads us to the highest religion, to the realisation of the highest truths, and when Ethics reaches its goal, the barrier between Ethics and Religion vanishes away. Ethics becomes Religion and Religion Ethics. Íshvara and Íshvaric life. The goal of both is This is why the Hindu ethical system is a branch of the Hindu Religion, and why one cannot be separated from the other.
 
-
-
 ![](../books_images/U-IMG-173512418353.png)
-
-
 
 **CHAPTER VII.**  
 
@@ -5156,8 +4391,6 @@ whole of evolution may be described in the words: "A search for happiness." Cont
  We have already seen that Ethics has as its object the establishment of harmonious relations. These relations are concerned with the surround- ings of a man—his home, city, nation, etc—and also with his own body. Now the body of a man, according to the scriptural teachings, is, as we have seen, a complex one, consisting of several sheaths, or koṣhas. It is enough to remember here that we have the physical sheath, in which Prâṇa functions, the sheath of the indriyas or senses (the sensuous or kâmic sheath), the mental sheath and the buddhic sheath. Ethics concerns itself at present with the physical, the kâmic, and the mental sheaths. For when the buddhic sheath is reached, man becomes divine, and the present limit of ethical teachings is crossed.
 
  Ethical teachings have therefore reference to the lower sheaths of a man's body, and to the different classes of beings, who form his surroundings. The different classes of beings, as we have already seen, are the Devas, the Pitṛis, the Ṛiṣhis, men in general, and the lower animals, i. e. beings both higher and
-
-
 
 lower than man, as well as the whole of mankind.
 
@@ -5170,8 +4403,6 @@ lower than man, as well as the whole of mankind.
  Now let us turn to our body, or bodies, if the term be preferred.
 
  First, the *Sthûla Sharîra*. The physical body must be kept clean and healthy. Cleanliness and health mean harmony and order. Man is better able to do work with a clean and healthy body. He remains cheerful and bright. The diseased man cannot give attention to work. He is uneasy in mind. The disharmony and disorder of one sheath also react on the other sheaths of the man.
-
-
 
  The body should be kept up by means of sâttvic food. For the food retains its essential magnetic properties after its conversion into blood, and produces corresponding effects on the indriyas and the mind. The *Bhagavad-Gîtâ* says:
 
@@ -5192,15 +4423,11 @@ lower than man, as well as the whole of mankind.
 
  We have already seen that the higher evolution is brought about by the predominance of Sattva, and that Sattva means harmony. 
 
-
-
  Secondly, the *Sûkshma Sharîra*. The indriyas, through the heredity of our past existence, are largely guided by animal appetites, which are distinctly râjasic. We should therefore subdue our indriyas. We may see, hear, smell, taste and touch, but we should not ascribe our likes and dislikes to the objects of the senses. We must sense as a matter of course, but the sensing must not be vitiated by personal likes and dislikes, which form a barrier between ourselves and the external world and make harmonious relations impossible. Every man makes a world to himself, by means of his likes and dislikes. Thus many worlds are formed' each different from the other, and all different from the world as it is, the world ofÍshvara. Men are jaundiced by the tint and taint of their personalities and, blinded by the distractions of Rajas, they do not see the Law, the word of Íshvara.
 
  Therefore our mind should not be guided by the indriyas, but the mind should be guided by its own discriminative faculty, and should then subdue the senses.
 
  The indriyas are divided into organs of perception and organs of action (the latter belonging to the Sthûla Sharîra). There is no harm done by the perception of objects, if the perception
-
-
 
 be not followed by likes and dislikes. Râga and Dvesha drive us helplessly along, using the karmendriyas for their own satisfaction.
 
@@ -5215,8 +4442,6 @@ be not followed by likes and dislikes. Râga and Dvesha drive us helplessly alon
 
  The mind, when wedded to the indriyas, becomes râjasic. When wedded to Buddhi, it
 
-
-
 becomes sâttvic. The mind of an average man is normally râjasic at the present day. He should make efforts to change it to sâttvic.
 
  We have already said that the mind should give up personal likes and dislikes, Râga and Dvesha. Râga and Dvesha form the impurities of the mind, and when they are given up the mind becomes purified.
@@ -5227,13 +4452,9 @@ becomes sâttvic. The mind of an average man is normally râjasic at the present
 
  The first step towards removing distraction is to deal with abstractions more than with concrete
 
-
-
 objects; we must generalise truths, and come at last to the highest Truth, the one Reality, Íshvara, and grasp Him firmly. Then all the Universe appears as His manifestation, all works as His action, all laws as His law. Varieties disappear. Diversities fade away. Harmony prevails.
 
  The training of the mind is man's most important duty, and next to this follows the control of speech and actions. At the same time he must not neglect his physical body. All the vehicles forming his body must be controlled and made harmonious with each other.
-
-
 
 The tenfold law, as laid down by Manu, gives some of the characteristics needed:
 
@@ -5255,8 +4476,6 @@ In briefer form:
 
 [^149]: "Ibid, x. 63"
 
-
-
  In the *Bhagavad-Gîtâ* an exhaustive list of these general characteristics is given:
 
 अभयं सत्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः।  
@@ -5276,15 +4495,9 @@ In briefer form:
 
  Some of these virtues would fall into one or other of the three classes already spoken of, but for the most part they belong to the Jîvâtmâ as his general expression of the love–emotion, and as the balance of his own nature, the due control of his energies.
 
-
-
-
-
  The essential importance of Truth has already been dwelt upon. As a general virtue it appears as *Truthfulness,* *Honesty, Integrity, Uprightness.* Its utter indispensability is concentrated by the wisdom and experience of ages into short sayings, such as: "Honesty is the best policy," "**सत्यमेव जयते मानृतं**""Truth alone prevails, not falsehood."
 
  The virtue of *Self-control*, or *Self-restraint*, mentioned in each of the above quotations, is the general reining-in of all the energies of the mind, desire-nature, and physical body, the holding of them all in due submission, so that each is allowed or refused exercise at the will of the man. It implies that the man is conscious of the difference between himself and his lower upâdhis, and no more indentifies himself with his lower nature than a rider identifies himself with the horse on which he is sitting. The contrast between an uncontrolled man and a self-controlled man is very much like the contrast between a bad rider on an unbroken horse, and a good rider on a well-broken horse. In the first case, the horse rushes about, carrying his helpless rider, plunges violently, and gives his rider a bad fall; in the other case, the man sits easily, guiding the docile steed in any direction, galloping or standing still, leaping or walking, every motion of the rider obeyed by the horse.
-
-
 
  So necessary is self-control, that the teachers of morality are continually recurring to it, and enforcing it. Manu dwells on its necessity, and explains that action has three roots, and that control of each generator of action must be gained.
 
@@ -5311,9 +4524,7 @@ In briefer form:
 
 मनो विद्यात्प्रवर्तकम्।[^153]
 
-
 [^153]: "Ibid. 4."
-
 
  "Let the mind be known as the instigator."
 
@@ -5337,8 +4548,6 @@ In briefer form:
 [^155]: "Ibid. 35"
 
  Only long-continued effort and perseverance can bring under control this restless vigorous mind, and yet without this control man can never be happy.
-
-
 
 यतो यतो निश्चरति मनश्चंचलमस्थिरम्।  
 ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्॥[^156]
@@ -5367,8 +4576,6 @@ In briefer form:
 
  To bring the senses under control the mind must be used, else will a man ever be restless and uneasy.
 
-
-
 He must learn to use his mind to control his senses, for through the senses come his chief temptations.
 
  And every sense must be brought under control; for one uncontrolled sense may play havoc with the mind:
@@ -5394,8 +4601,6 @@ He must learn to use his mind to control his senses, for through the senses come
 
  The mind, then, is to be brought under control,
 
-
-
 and is to be used to control the senses. In the *Kaṭhopaniṣhat*, the mind is therefore compared to the reins with which a driver pulls in, guides and controls his horses, the horses being compared to the senses, which run away with the body and the Jîvâtmâ, who dwells in the body :
 
 **आत्मानं रथिनं विद्धि शरीरं रथमेव तु।  
@@ -5419,8 +4624,6 @@ and is to be used to control the senses. In the *Kaṭhopaniṣhat*, the mind is
  "The senses are said to be the horses, the objects of the senses the field for them. The Self, joined to the senses and the mind, is the enjoyer—so say the wise.
 
  "He who is unwise, with the mind ever unap-
-
-
 
 plied, of him the senses are uncontrolled, like the bad horses of the charioteer.
 
@@ -5448,8 +4651,6 @@ plied, of him the senses are uncontrolled, like the bad horses of the charioteer
  "Mind is to be known as the eleventh, belonging by its nature to both; in conquering this, the two sets of five become conquered."
 
 [^163]: "Ibid. 92"
-
-
 
  The control of speech consists in making it respectful to superiors, courteous to equals, gentle to inferiors, and we shall return to this in studying the special virtues. For the moment we may leave it with the general description of right speech:
 
@@ -5480,8 +4681,6 @@ plied, of him the senses are uncontrolled, like the bad horses of the charioteer
 
 [^166]: "Bhagavad-Gîtâ. xvii. 14"
 
-
-
 chastity, and harmlessness, are called the austerity of the body."
 
  Control such as this produces a balancing of the mind, calmness, quiet and contentment.
@@ -5497,8 +4696,6 @@ chastity, and harmlessness, are called the austerity of the body."
 
 [^167]: "Bhagavad-Gîtâ. vi. 25, 26"
 
-
-
  "Little by little let him gain tranquillity by means of Buddhi controlled by steadiness; having made Manas abide in the Self, let him not think of anything.
 
  "As often as the wavering and unsteady Manas goeth forth, so often, reining it in, let him bring it under the control of the Self."
@@ -5506,8 +4703,6 @@ chastity, and harmlessness, are called the austerity of the body."
  This is the Abhyâsa that he needs. This Abhyâsa will naturally strengthen Vairâgya, the absence of desire for personal and selfish ends. Whenever he sees a desire for such personal and selfish ends rising up within himself, he should at once call up before his mental view the injury that he is likely to inflict on others by its indulgence, the evil consequences to himself in increasing selfishness, and the whole series of disturbances which will flow from his selfishness to the common life of the society to which he belongs. By picturing to himself the consequences of selfishness in his own life and in those of others, and by studying the illustrations of them given in the *Purâṇas*, he will gradually strengthen his power of self-control, and will establish himself in that constant mood of righteousness and performance of duty so un- ceasingly inculcated in the sacred books.
 
  For that *Righteousness*, and righteousness only,
-
-
 
 should be followed is reiterated again and again:
 
@@ -5529,8 +4724,6 @@ should be followed is reiterated again and again:
  In a sense, righteousness is truth; its special significance may be said to be the desire to do what is right, the desire to give every one his due, the desire always to find out the truth and act according to it rather than according to anything else.
 
  To do righteousness is to gain a companion that never fails a man, and when all else deserts him, this faithful companion will remain, will cling
-
-
 
 to him through death, and clothe him with glory in the world beyond the grave. Manu writes hereon as follows:—
 
@@ -5557,8 +4750,6 @@ to him through death, and clothe him with glory in the world beyond the grave. M
 
  "Leaving the dead body on the ground like a log or a clod of earth, the relatives depart, with averted faces; righteousness alone follows him.
 
-
-
  "Therefore, to gain an unfailing friend let him ever gather righteousness; with righteousness as companion he will cross over the darkness, difficult to cross.
 
  "It rapidly leadeth the man who is devoted to righteousness and has destroyed his sins by austerity, to the world beyond, radiant and clad in a celestial body."
@@ -5574,15 +4765,11 @@ to him through death, and clothe him with glory in the world beyond the grave. M
 
 [^170]: "Manusmṛiti. iv. 12"
 
-
-
 verily the root of happiness, the opposite is the root of sorrow."
 
  The contented man is happy under the most unfavourable circumstances, the root of his happiness being in himself; whereas the discontented man finds food for his discontent, however favourable his circumstances may be. There are always some who are superior in position to, more wealthy, more fortunate than ourselves, and hence reasons for discontent may ever be found by the unwise. To be satisfied with what we have because we have our due is true wisdom, and all dissatisfaction is folly.
 
  We have spoken of virtues as bringing about harmonious relations between Jîvâtmâs, but it must not be thought that this excludes the above virtues, which at the first glance seem chiefly to concern their possessor, and to aid his own general evolution. For, when carefully considered, it will be found that these so-called personal virtues react upon the happiness of others, though in a way not immediately apparent. Life, evolution, virtue and vice, duty-all these things would be impossible with only a single Jîvâtmâ in existence. The idea of a community is inseparable from the ideas of these. A so-called duty to self, or a personal virtue, is also ultimately a duty to another, a giving
-
-
 
 of some help or a saving of some inconvenience to others. For instance if we are unclean, we inevitably make our neighbours uncomfortable when we come into contact with them. When a man says to another: "You owe it to yourself to do so and so, "he really and instinctively means: "You owe this to the evolution of humanity generally as connected, by the unity of the Self, with the evolution of your individual self." For the evolution of one Jîva is inseparable from that of other Jîvas, and helping or hindering our own progress is also directly or indirectly helping or hindering the progress of others. An unclean or slovenly man injures himself primarily and his fellows secondarily, by lowering the general ideal and influencing their lives indirectly if not actively.
 
@@ -5591,8 +4778,6 @@ of some help or a saving of some inconvenience to others. For instance if we are
 अहिंसा परमो धर्मः
 
 "Harmlessness is the highest duty," taught Bhîṣhma. I
-
-
 
  Manu also says:—
 
@@ -5607,23 +4792,11 @@ of some help or a saving of some inconvenience to others. For instance if we are
 
  We have seen that by sacrifice only we can establish harmonious relation amongst all beings, and the establishment of harmonious relations, as we have seen, is the very essence of our evolution. Man cannot be selfish. The world is not for one man alone. He may think in his own way and act in his own way. But if he does not conform himself to the Lord, the word of Íshvara, the sacred Praṇava, woe falls on him and misery becomes his lot. Through the repeated teachings of misery.
 
-
-
 his obstinate selfishness is removed, and he be- comes harmonised with the whole universe.
 
  Let the student bear this principle in mind firmly and steadfastly, and he will easily under- stand what is said in the next chapter.
 
-
-
-
-
-
-
-
-
 ![](../books_images/U-IMG-1734680022Screenshot(26).png)
-
-
 
 CHAPT
 
@@ -5633,15 +4806,11 @@ VIRTUES AND VICES IN HUMAN RELATIONS.
 
 THOSE IN RELATION TO SUPERIORS.
 
- 
-
 We may study the virtues and vices as the out- growths from love and hate. Love prompts us to make sacrifices, to limit, to restrict ourselves, to subordinate ourselves to the common well-being. This love emanates from the Self within, is an aspect of Bliss, and makes our duty a work of love, our sacrifice a pleasure.
 
  Emotions in their early rushings forth transgress the law, for the law is not known. But when the law is known and realised, when Chit and Ânanda combine, when the emotion proceeds from a discriminating Self-centre, when still later, the Self-centre becomes a universal centre, every emotion becomes a virtue, every emotion becomes a voice of the divine.
 
  As love underlies every virtue, so hate underlies every vice. For union is law, separation is against the law; harmony is evolution, disharmony is the opposite of evolution.
-
-
 
  If love prompts our mutual relations, we naturally and readily make sacrifices to render those relations harmonious and blissful.
 
@@ -5655,10 +4824,6 @@ We may study the virtues and vices as the out- growths from love and hate. Love 
 
  The love-emotion directed to God will show itself as the virtue of *Reverence,* carried to its highest degree. This will primarily express itself in worship, and secondarily in treating with respect all ideas about God, all things connected with His worship, sacred places and sacred objects. Reverence being due to a sense of His infinite superiority, attracting love by virtue of His sup-
 
-
-
-
-
 reme wisdom and compassion, it will naturally be accompanied by *Humility*, the willing recognition of comparative littleness, unassociated with pain, and coupled with the readiness to submit to guidance; by *Faith* in, and therefore *Submission* to, His wisdom; and by *Devotion* and *Gratitude* responding to His compassion, leading to complete *Self-Sacrifice* in His service. The steady cultivation of these virtues, the fruits of love directed to God, comprise our duty to Him: Reverence, Humility, Faith, Submission, Devotion, Gratitude, Self-Sacrifice.
 
  There are many examples of great devotees in the Hindu books, men who showed out these virtues to the fullest extent, and have set examples of love to God which should be studied in order that they may be imitated. Bhîṣma's noble hymn to ShrîKṛiṣhṇa, uttered as he lay wounded on the battle-field, and which drew ShrîKṛiṣhṇa to his side, should be carefully read and thought over[^173].
@@ -5666,8 +4831,6 @@ reme wisdom and compassion, it will naturally be accompanied by *Humility*, the 
 [^173]: "Mahâbhârata Shânti parva,"
 
  Prahlâda, triumphant by devotion over all attacks, prayed: "In all the thousand births through which I may be doomed to pass, may my faith in Thee, Achyuta, never know decay. May passion, as fixed as that which the worldly minded feel for
-
-
 
 sensual pleasures, ever animate my heart, always devoted unto Thee[^174]."
 
@@ -5700,10 +4863,6 @@ sensual pleasures, ever animate my heart, always devoted unto Thee[^174]."
 **मच्चिता मद्गतप्राणा बोधयंतः परस्परम्।  
 कथयंतश्च मां नित्यं तुष्यति च रमंति च॥**
 
-
-
-
-
 **तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम्।  
 ददामि बुद्धियोगं तं येन मासुपयांति ते॥[^176]**
 
@@ -5727,8 +4886,6 @@ sensual pleasures, ever animate my heart, always devoted unto Thee[^174]."
 
  "Those verily who, renouncing all actions in Me, and intent on Me, worship meditating on me with whole-hearted Yoga,
 
-
-
  "These I speedily lift up from the ocean of death and existence, O pārtha, their minds being fixed on Me"
 
  Submission to the divine Will grows easily out of devotion, for we always readily desire to yield where we recognise and love the superior. Wisdom and compassion invite submission, for the wisdom will choose the best, and the compassion the least suffering, path for us. Where wisdom and compassion are perfect, as in God, complete submission is the natural answer; and when all the events of life are seen as under His guidance, they can be accepted cheerfully and contentedly. The attitude of man in this respect to God should be that of a loving child to a wise and tender Father, carried to a far higher degree.
@@ -5741,8 +4898,6 @@ sensual pleasures, ever animate my heart, always devoted unto Thee[^174]."
 [^178]: "Bhagavad-Gítâ, ix,17-18"
 
  Towards such a One gratitude springs up, ever increasing with increasing knowledge; and self-surrender, self-sacrifice, is but the culmination of By daily offering of all our acts to reverence.
-
-
 
 God, the spirit of self-sacrifice is cultivated, and as it becomes perfect the lower self is conquered and the Supreme Self is seen.
 
@@ -5757,10 +4912,6 @@ God, the spirit of self-sacrifice is cultivated, and as it becomes perfect the l
 
  The hate-emotion directed to God shows itself in attempts to lessen the feeling of His greatness, to diminish the recognition of His powers. *Irreverence* is the commonest vice of this class, flippant careless
 
-
-
-
-
 speech and manner about sacred objects and sacred places, foolish jokes and idle laughter in speaking of the religious beliefs of others. This passes on into the vice of *Profanity* in coarse natures, and both are destructive of the finer emotions and should be sedulously guarded against. This dulling of the finer emotions leads on to complete alienation from religion, for God can only be reached through these finer emotions and by the virtues we have seen to be the offspring of love; and as a man is driven further and further away by the repellent action of hate, he loses all sense of the divine Presence, and often lapses into entire ethical unbelief, which leads to evil living.
 
 **असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम्॥[^180]**
@@ -5771,35 +4922,23 @@ speech and manner about sacred objects and sacred places, foolish jokes and idle
 
  Reverence to the Sovereign, the Head of the State, comes naturally after Reverence to God, the representative of whose power, justice, and protection he is on earth, if he be a true King, intent on the welfare of his subjects, always subordinating and sacrificing his own personal comforts and interests to those of his people, as did the ancie divine Kings, who give us the ideal of Kingship.
 
-
-
-
-
 The virtues spoken of above should be repeated, in a lesser degree, in a subject's relation to his King. The virtues of *Loyalty, Fidelity and Obedience* are those which make a good subject, and the necessity of these for the prosperity of a nation is strongly insisted on. Manu says that the King was made by God to protect the world, and was made of particles taken from Indra, Vâyu, Yama, Sûrya, Agni, Varuṇa, Soma and Kubera. As Indra, he is to shower benefits on his kingdom; as Vâyu, to know all that goes on; as Yama, to control his subjects; as Sûrya to take taxes; as Agni to be full of brilliant energy; as Varuṇa, to punish the wicked; as Soma, to give joy to his subjects; as Kubera, to support his people.[^181]Bhîṣhma's discourse on the duties of King and subjects is most instructive; the King is to stand as God to his people, he being their protector and the guardian of all.[^182]
 
 [^181]: "Manusmṛiti vii. 3, 4, and ix. 303-311"
 
- The Itihâsa are full of statements as to the blessings enjoyed by a loyal people ruled over by a good King.
-
 [^182]: "Mahâbhârata Shânti parva. lvi-xci"
 
+ The Itihâsa are full of statements as to the blessings enjoyed by a loyal people ruled over by a good King.
+
  As loyalty is insisted on, so are the corresponding vices of *Disloyalty, Treason* and *Rebellion*
-
-
-
-
 
 condemned, and the miseries are described of kingdoms that are a prey to anarchy.
 
  Closely attached to the virtue of loyalty is that of Patriotism, in which the country is thought of as a collective whole, a living individual, to whom service is due. The King, in fact, is the embodied Majesty of the Nation, and loyalty to him grew out of patriotism of the purest kind. Patriotism is a virtue that has its roots in several emotions; it grows out of veneration for the past of the country, admiration of its saints, heroes and warriors, its great men of every kind, of its strength, power and splendour; it identifies itself with the country by sympathy, feeling its joys and sorrows, its successes and reverses, its prosperity and adversity, as its own; it loves its natural beauties, and rejoices in its artistic and mechanical triumphs. The motherland, the country as a whole, is looked up to as an ideal, as an object of reverence, to be served and worked for above and beyond all else. Though, as a whole, the country is greater than the patriot, the patriot has the power of helping his country by his service; he gladly sacrifices ease, comfort, wealth, life itself, on the altar of his country. As a tender father seeks the good of his family, so the patriot seeks the good of his
 
-
-
 land, and puts its interests before his own. The virtue of *Public Spirit* is but another name for patriotism, and the public-spirited man is the man who will exert himself for a public object even more earnestly and diligently than for a pri- vate one. The very expression "public spirit' instinctively embodies the truth that has been re- ferred to so often as the very basis of morality—the Unity of all. Public spirit is the common spirit, the spirit of all the public, the spirit which is one in all the public; and the public-spirited man is he who—consciously or unconsciously— realises the oneness of the Self in all the members of that public to which he belongs; who feels that the good and the evil of each are the good and the evil of all the members of that public, and who acts accordingly, endeavouring to ameliorate the conditions of life for all.
 
  As in the case of virtues and vices towards God, so in the case of virtues and vices to the State and its Ruler, it must be born in mind that no man can free himself from the duty of incessantly endeavouring to base his mental attitude and his outer actions on the best reason he can reach up to, nor can he free himself from responsibility for acquiesence in flagrant injustice, or for allowing
-
-
 
 himself to be carried away by any mere public opinion which he knows to be wrong, or has not taken the trouble to test, although feeling that its accuracy is doubtful. There is a false loyalty—
 
@@ -5813,8 +4952,6 @@ which is far more dangerous and sinful than the apparent opposition of the hones
  "Easy to find, O King! are the men that always speak the words that please. Difficult to find are the men, both those that hear and those that speak gently the words that are not pleasant but wholesome."
 
  These virtues of patriotism and public spirit, directing the mind to ends beyond those of the personal separated self, are enlarging and ennobling to the character, and train the man to see a larger Self, and so to make some progress towards the recognition of the ONE. The public-spirited patriotic man is nearer to God than the man whose interests are restricted within a narrower area, and gradually he will widen out from love of country
-
-
 
 to love of humanity. Happy is the land whose sons are patriotic; she is sure to rise high amid the nations of the earth.
 
@@ -5841,8 +4978,6 @@ to love of humanity. Happy is the land whose sons are patriotic; she is sure to 
 
 सर्वे तस्यादृता धर्मा यस्यैते त्रय आदृताः।  
 अनादृतास्तु यस्यैते सर्वास्तस्याफलाः क्रियाः॥
-
-
 
 यावत्त्रयस्ते जीवेयुस्तावन्नान्यं समाचरेत्।  
 तेष्वेव नित्यं शुश्रूषां कुर्यात्प्रियहिते रतः॥
@@ -5872,8 +5007,6 @@ to love of humanity. Happy is the land whose sons are patriotic; she is sure to 
 
  "All duties are honoured by him who honours these three; for him who does not honour these all rites are fruitless.
 
-
-
  "As long as these three live, so long let him not do ought else; let him ever do service to them, in- tent on what is pleasant and beneficial.
 
  **\*                   \*           
@@ -5897,13 +5030,9 @@ to love of humanity. Happy is the land whose sons are patriotic; she is sure to 
 
 [^184]: "Manusmṛti. ii, 206 207"
 
-
-
 "As a man by digging with a spade obtains water, so he who does service obtains the wisdom enshrined in his guru."
 
  The vices which grow out of hate in relation to parents and teachers include, as do the virtues, those named under the relation to God and the King, and we may add to them those of *Suspiciousness, Cowardice, Falsehood,* and *Insolence*. Where there is fear of one stronger than ourselves, suspicion inevitably arises, the expectation that he will use his power for our injury and not for our benefit. There is perhaps no greater poisoner of human relations than constant suspiciousness— the suspicious nature— for it casts a false appearance over everything, distorts and exaggerates actions, and supplies evil motives to the most harmless acts. A suspicious nature sees hidden-malevolence everywhere, and is always miserable because always afraid. Cowardice engenders falsehood, the put- ting on of a false appearance for the sake of protection against a dreaded exercise of hostile power. When we come to study the reaction of the emotions of one person on those of another, we shall see that oppression on the part of the strong leads to the growth of these vices in the weak, and that these are the vices characteristic of the slave and the down-trodden.
-
-
 
  Arrogance and superciliousness are attempts of the inferior to diminish the distance between himself and the superior, and are the reverse of the virtues of humility and teachableness. They render impossible any happy and mutually beneficial relation between parents and children, between teachers and pupils. The sweet natural ties which grow out of the love-emotion are violently disrupted by these evil growths of the hate-emotion, and they destroy the peace and happiness of families, as, when carried to a higher degree, they destroy the prosperity of States and the influence of religion.
 
@@ -5921,11 +5050,7 @@ to love of humanity. Happy is the land whose sons are patriotic; she is sure to 
 
  In cultivating the virtues and weeding out the vices above mentioned, the young man should not
 
-
-
 forget one important consideration. His parents are given to him by his prârabdha karma, while this is not completely the case with bis teacher, the element of present choice entering also into the latterrelation for the most part. While therefore the duty of reverence and trust and submission without reserve, short of what involves the commission of a positive sin, is desirable towards parents, even if they are not as loving and considerate as parents ought to be, that duty is influenced by certain other considerations in the case of the teacher. The teacher is chosen either by the parents for the student in the days of youth, or by himself when he reaches years of discretion. In the first case, the authority of the teacher is the authority of the parents, delegated to him by them. If any doubt arises in the mind of the student as to whether that authority has been duly exercised, the student should at once consult his parents and abide by their decision. In the second case, should such a doubt arise, he must exercise his own judgment, as he did when first he chose the teacher, and if teacher and student duly understand their respective duties then the wisest and most useful course is for the student to say clearly and respectfully to his teacher: "Sir, there is such and such a doubt in my mind; kindly remove it;" and for the teacher
-
-
 
 to remove the doubt either by convincing the student of the rightness of the course adopted, or by altering that course, if indefensible.
 
@@ -5946,10 +5071,6 @@ to remove the doubt either by convincing the student of the rightness of the cou
 
 [^188]: "Manusmṛiti, ii. 119-121"
 
-
-
-
-
  "A young man's prâṇas rise upwards when an old man approaches; rising, and saluting, he again recovers them.
 
  "He who ever salutes and shows reverence to the aged, obtains an increase of four things: life, intelligence, fame and strength."
@@ -5967,15 +5088,11 @@ to remove the doubt either by convincing the student of the rightness of the cou
 
  That obeisance to the aged is even physically beneficial to the young man is hinted in the second of the shlokas above quoted. By one of the laws of nature there is always a tendency towards equilibrium; as heat radiates from the warmer to the cooler, so strength and vitality go out from the stronger to the weaker. It has been proved by
 
-
-
 ordinary medical Science that invalids draw vitality from the vigorous, the feeble draw life from the healthier and stronger, and a large portion of the cures effected by magnetism are due to this fact. In accordance with this law, the prâṇas of the young move out towards the old and the feeble; but when the young man rises and makes obeisance, he at once creates in the mind of the elder the mood of benevolence and of giving instead of taking, and this mood sends back those prâṇas to the younger man.
 
  Good manners to a superior involve respect, modesty, truthfulness, readiness to render service, an absence of fear, suspicion and conceit. A youth who shows those virtues will always meet with favour, and will enjoy many opportunities of improvement in the company of his elders and superiors. Such a youth is always welcome, and his elders will take pleasure in helping and guiding him, and in giving him the benefit of their experience.
 
  The vices which shew themselves in relation to the aged include those noted in connection with the other classes of superiors, and *Disrespect* and *Conceit* may be added. The latter vice is peculiarly likely to arise, because the strength and vigour
-
-
 
 of the youthful body give it a physical superiority over the body of the aged, more obvious than the inferiority in experience and ripeness of judgment. *Impatience* is another vice that shows itself in this connection, the swift activity of youth being apt to chafe against the slowness of the aged.
 
@@ -5985,11 +5102,7 @@ of the youthful body give it a physical superiority over the body of the aged, m
 
  Still more, perhaps, is visible the decay of a high-minded loyalty to the Monarch, and a patriotic fidelity to the State. This, as the student will learn from the careful study of history, is due to internal organic reasons, mainly the failure in duty to each other first of Rulers and then of the Ruled, after the divine dynasties of Kings were withdrawn, in order that humanity might be left
 
-
-
 to learn by painful experience how to stand on its own feet, with many falls and struggles, like an infant. The spread of general though superficial knowledge, the growth, through bitter conflicts, of democratic institutions, and the passing of authority into the hands of a majority—in the absence of the wise and experienced, or because of their inability to take up their duties—have hidden the true rights and duties of the Sovereign from careless eyes and minds. The one-sided exaggeraation of the instruments of administration—cabinets, councils, parliaments, republican senates and congresses—has veiled the Governor, the King himself. In the course of these experiments of humanity, there have arisen, in consequence of the mistakes due to inexperience and selfishness, increasing poverty and distress, the strife of labour and capital, the growing disorganisation of society. The remedy for these lies in restoring right feeling between King and Ministers and Sabha and People,in restoring right feeling between all the limbs and organs of the State, and in each and all performing their respective duties of protecting and ruling, advising, administering, and helping with loyalty, fidelity and obedience; in restoring, in fact, the ancient system on a higher level, with fuller knowledge, according to the law of cyclic growth. Per
-
-
 
 haps it may be for Âryan youths, trained up in the ancient virtues, to restore to modern life the ideal of the true citizen, and to set again the example of the true gentleman, pious to his God and loyal to his King and Country.
 
@@ -5997,19 +5110,9 @@ haps it may be for Âryan youths, trained up in the ancient virtues, to restore 
 
  In his relations to his teachers also, the student should strive to practise the appropriate virtues; and different as are the modern conditions between teacher and pupil from the ancient ones, yet the appropriate virtues might be cultivated, and the relation would then gradually again take on the affectionate intimacy of the older time.
 
-
-
  To the aged also, the Indian youth should show unvarying respect, consideration and readiness to serve, utilising his physical advantages to supply their weaknesses, looking on aged men as his fathers, on aged women as his mothers, and showing ever to them the loving duty of a son.
 
  Let, then, the young man study these virtues, and build them into his own character by repeated effort, earnest, deliberate and well-reasoned thought, and with reliance on the Divine Self. Then shall his own life be useful and honorable, and his motherland the better for his work.
-
-
-
-
-
-
-
-
 
 CHAPTER IX.
 
@@ -6018,8 +5121,6 @@ VIRTUES AND VICES IN RELATION TO EQUALS.
  We have now to consider how love and hate work out in the relations that arise between equals in the family and in society, binding them together or driving them apart accordingly as love or hate prevails. The relations between husband and wife, brothers and sisters, and between relatives of the same generation, those between friends, aquaintances and members of a society of similar age and standing, give rise to emotions which are rendered permanent as virtues and vices, constantly active in the family and in the community.
 
  The virtues belonging to the family among those of the same generation are those which gradually lead the Jîvâtmâ to recognise his unity with others, and so prepare him for the recognition of the One Self in all. He finds himself surrounded by a small band of Jîvâtmâs whose conditions, interests, hopes and fears are much the same as his own, with whom he enjoys and suffers, rises and falls, is prosperous and unsuccessful, from whom his own interests cannot be disjoined. As he practises the family virtues
-
-
 
 and sees the happiness ensured by the practice, or as he falls into the family vices and sees the sorrow and discomfort arising from them, he gradually learns that to bring about general happiness he must treat all men as his brothers, as members of one family, and that the miseries that afflict humanity all have their root in the neglect of the practice of brotherliness.
 
@@ -6034,10 +5135,6 @@ and sees the happiness ensured by the practice, or as he falls into the family v
 [^190]: "Manusmṛiti. ii. 160, 161."
 
  "He whose speech and mind are pure and ever carefully guarded, he obtains all the fruit that is
-
-
-
-
 
 obtained by means of the Vedânta.
 
@@ -6060,8 +5157,6 @@ obtained by means of the Vedânta.
 
 \*     \*    \*     \*     \*     \*
 
-
-
  "With the Ritvik, Purohit, Âchârya, maternal uncle, guest, dependant, children, the aged, sick, physician, kinsfolk, connexions by marriage, relatives,
 
  "Mother, father, female relative, brother, son, wife, daughter, servant-folk, let him not enter into altercation."
@@ -6080,10 +5175,6 @@ obtained by means of the Vedânta.
  "The servant-folk are one's shadow, the daughter is most deserving of compassion; therefore, though slighted by these, let a man bear it ever undisturbed."
 
  The right relation between husband and wife,
-
-
-
-
 
 between father and sons, and between brothers, is beautifully shown in the Râmayâna, in Shri Râma and Sîtâ, the four divine sons and Dasharatha, and the four brothers, Shrî Râma, Lakshmâṇa, Bharata and Shatrughna. These are the models a youth should set before himself, and he should shape his conduct on these.
 
@@ -6107,10 +5198,6 @@ between father and sons, and between brothers, is beautifully shown in the Râma
 
  "Of the bearing of children, the protection of those born, the continuance of the world process, woman is evidently the only source.
 
-
-
-
-
  "Children, religious ceremonies, service, marital happiness, heaven for one's ancestors and oneself, depend on the wife.
 
  "She who, ruling her mind, speech and body, wrongs not her husband, she obtains the (heavenly) world with her husband and is called by the virtuous a Sâdhvi."
@@ -6123,10 +5210,6 @@ between father and sons, and between brothers, is beautifully shown in the Râma
  "This is the extent of the man, his wife, himself and his children; Brâhmaṇas thus declare that the husband and wife are known as the same."
 
  This view of a family as a unit, as really one life, is the view which alone gives a sure foundation for the family virtues, and the indissolubility of the marriage tie among Âryans grows out of this idea. Father, mother and children are *one*, and each should love the other as himself; what pleases one should please all; what saddens one should sadden all. All the virtues can be practised in the family, which is a little world in itself; the parents represent the superiors, the children among each other the equals, the children to the parents the inferiors. A youth who cultivates the virtues
-
-
-
-
 
 in his home will be ready to show them out in the wider field of the world, and will be equipped for the duties of a good citizen. He can practise there all that he will require in his manhood, and develope all the qualities which will make him a faithful friend, an honourable, courteous and upright gentleman, a brave and unselfish patriot.
 
@@ -6143,15 +5226,9 @@ in his home will be ready to show them out in the wider field of the world, and 
 
  Ofcourse, there are occasions when it is the plain and positive duty of the person concerned to tell the
 
-
-
-
-
 truth even though it be unpleasant, as when a person in authority rebukes or corrects a subordinate. But even in such cases he should speak gently, and such instances of special duty do not justify uncalled-for and rude language or sharpness, which only mar the due effect of the rebuke and prevent its entering into the heart of the reproved.
 
  Good manners are very apt to be undervalued in modern times, partly because of the hurry and rush of modern civilisation, and partly from ignorance. But this undervaluing is a mistake. Good manners spring from a good heart and a gentle nature, and show kindness and refinement of character. They imply self-control and a sense of self-respect and dignity, and many difficult social situations, which cause quarrels among ill-mannered people, are passed through without any trouble or ruffle by the nobly mannered. Soft words, courteous gestures, pleasant smiles, dignified bearing, make social intercourse refreshing and a source of enjoyment, and the young Hindu should sedulously cultivate the noble manners of the elder generation, and thus sweeten the tone of modern society. Even gold becomes more beautiful by being refined, and a noble and strong character is beautified by courtly bearing.
-
-
 
  *Hospitality* is a virtue on which great stress is laid, and the guest must ever be honoured as a Deva.
 
@@ -6174,15 +5251,11 @@ truth even though it be unpleasant, as when a person in authority rebukes or cor
 
  That there was as much travel, with its beneficent results, in ancient India as there is now, when the means of locomotion were not so easy and rapid as they are to-day, was due solely to the general prevalence of this virtue, and the regarding of hospitality as an essential part of religion. The
 
-
-
 continuous pilgrimages from shrine to shrine and from city to city—with all their educative effects in broadening men's minds and experience, and in promoting affection and good-will between different and distant communities, by bringing them into familiar intercourse with each other— were only made possible by the generous provision of houses of rest, and of food and clothing, on an immenes scale, by the voluntary hospitality and charity of the well-to-do.
 
  *Uprightness, Fair Dealing, Trust, Honour, Straightforwardness, Urbanity, Fideiity, Fortitude, Endurance, Co-operation*—these are virtues which are necessary for happy and prosperous social life. Where these are found, the life of a community or of a nation is peaceful and contented, and men who show out these virtues in their characters make good citizens and lead happy lives.
 
  *Readiness to forgive injuries is a virtue necessary for* peaceful living, for all, at times, do some wrong to another, moved by passion, or envy, or some other evil emotion. Readiness to forgive such wrong is a sign of a noble disposition, and *Magnanimit*y includes this readiness, as well as the large-heartedness which makes allowance for the weaknesses of others, and takes a generous view of their motives and actions.
-
-
 
  *Toleration* is an allied virtue that may be practised towards equals or towards inferiors— the recognition that the Self expresses itself in many ways, and that none should seek to force on another his own views or his own methods. Tolerance has always been a characteristic of Hinduism, which has never sought to convert men from their own faith, nor to impose on those within its own pale any special form of intellectual belief. The variety of philosophic views embraced within its circle, as shown in the six Darshaṇas, testifies to the tolerance and wide-mindedness which have ever marked it. This tolerance is based on the belief in the One Self, and the reverent acceptance of the infinite variety of Its intellectual manifestations. Hence Hinduism has ever been permeated by the large-hearted toleration which is the very spirit of Īshvara; all are His; all paths by which men seek God lead to Him; as men walking from opposite quarters reach the same city, though walking in opposite directions, so men from all quarters, seeking God, meet in Him at last. It is foolish and childish, then, to quarrel about the ways.
 
@@ -6190,8 +5263,6 @@ continuous pilgrimages from shrine to shrine and from city to city—with all th
 मम वर्त्मानुवर्तन्त मनुष्याः पार्थ सर्वशः॥[^196]**
 
 [^196]: "Bhagavad-Gîtâ iv. 11"
-
-
 
  "However men approach Me, even so do I accept them, for the path men take from every side is Mine, O Pârtha."
 
@@ -6210,13 +5281,7 @@ continuous pilgrimages from shrine to shrine and from city to city—with all th
 
 [^197]: "Bhagavad-Gîtâ, vii. 20-23"
 
- 
-
 They whose wisdom hath been rent away by desires go forth to other Devas resorting to various. external observances, compelled by their own natures. Any devotee who seeketh to worship with faith any such aspect, I verily bestow the unswerving faith of that man.
-
-
-
-
 
  "He, endowed with that faith, seeketh the worship of such a one, and from him he obtaineth his desires, I verily decreeing the benefits.
 
@@ -6238,15 +5303,9 @@ They whose wisdom hath been rent away by desires go forth to other Devas resorti
 
  This tolerance of the religious beliefs, views, and *bonâ fide* opinions of others should not be misunderstood to mean toleration of and acquiescence in the active infliction of wrong by the wicked on
 
-
-
-
-
 the righteous and the innocent. A good man, while forgiving as far as possible wrong done to himself, should endeavour to set right-by gentle means at first, and, if these do not succeed, then by stern ones in accordance with the law of the land—all wrong inflicted on others. Such is the duty thatShrîKṛiṣhṇa expressly laid upon Arjuna, with the whole weight of the wisdom embodied in the *Bhagavad-Gîtâ*. Nor should any action be mistaken for intolerance which is only of the nature of counselling or education, even though it be the education of public opinion, or constitutional and sober endeavour to wean men from injurious ways, or a thoughtful discussion with the express object of eliciting truth. What is condemned is only the bigoted pride which imagines itself to be in sole possession of Truth, and would visit with punishment the slightest deviation from the course laid down by itself.
 
  The vices which grow out of the hate-emotion when it prevails among equals correspond on the side of evil to the virtues we have been studying on the side of good. It may almost shock the student to see very common faults of character classed as the fruits of the hate-emotion, and yet if he thinks a little he will see that they have the
-
-
 
 marks of that emotion, as they drive men apart from each other, separating them and setting them in antagonism to each other, and that is clearly the result of the repellent force, which is Hate and not Love.
 
@@ -6260,8 +5319,6 @@ marks of that emotion, as they drive men apart from each other, separating them 
  "Let him avoid unbelief, censure of the Vedas and slighting of the Devas, hatred, obstinacy, pride, anger and harsiness."
 
  And this is natural, for these are sins which are especially productive of misery, and probably most of the daily troubles of life which cause harassment and worry are due to anger in one form of another.
-
-
 
 It is classed by ShrîKṛiṣhṇa,[^201]with lust and greed as forming part of the triple gate of hell and as one of the âsuric characteristics.[^202]The mind confused by anger is easily hurried into other sins, and it is one of the chief roots of crime. *Impatience* is one of its smaller manifestations, and the student who is intent on improving his character should be on his watch against even this comparatively minor form of his great enemy. The steady effort to be patient with, kind to, all, will gradually eradicate from his character the fault of Anger.
 
@@ -6278,21 +5335,15 @@ It is classed by ShrîKṛiṣhṇa,[^201]with lust and greed as forming part of
 
  *Rudeness, Churlishness of bearing*, a rough man-
 
-
-
 ner, are the faults which are the opposites of courtesy and consideration. They are exceedingly com- mon in modern days, and are spreading in modern India. They are signs of a coarse and vulgar nature which— uncertain of its own power and of the respect of others— tries to assert itself by loudness and to force itself on the attention of others, and it is thus always a mark of weakness. The gentle courteous bearing of a man conscious of his own strength and position contrasts with the rough rude manner of a weak man, unfit for the position he is in and trying to cover his unfitness by self-assertion.
 
  *Crookedness, Unfairness, Deceit, Infidelity, Quarrelsomeness, Fickleness, Instability*, are other common faults which appear in the relations between equals, and cause many troubles alike in family and social life. They all help to disintegrate families and nations, and men who have these vices are bad citizens, and sooner or later fall into well-deserved contempt and distrust.
 
  *Vindictiveness and Revengefulness* are the opposite of the readiness to forgive, which we have seen is a part of magnanimity, and they perpetuate troubles, keeping them alive when they might die by forgetfulness. The wish to return an injury suffered by inflicting an injury in return is a sign of
 
-
-
 complete ignorance of the working of the law. A man who suffers an injury should think that he has inflicted an injury on another in the past, and that his own fault comes back to him in the injury now inflicted on himself. Thus he closes the account. But if he revenges himself now, he will in the future again suffer the equivalent of the revenge he takes on his enemy. For that enemy will not be likely to think that he has been justly punished, and will nurse revenge again, and so the chain of claim and counter-claim will continue endlessly. The only way to get rid of an enemy is to forgive him; revengefulness stores up trouble for the future, which will inevitably come to the revengeful person, and the injuries we suffer now are only our own revenge coming home to ourselves. No one can wound us unless our own past places a weapon in his hands. Let a student remember this when some one injures him; let him pay his debt like an honest man, and have done with it.
 
  *Intolerance* is a vice which has caused immense destruction in the world, especially in modern times. Endless wars have been caused by men of one religion wishing to impose their faith on men of another creed, and torrents of human blood have been shed in the name of God. Persecutions stain the page of history with blood and tears, and we may
-
-
 
 see a striking example of national ruin caused by religious persecution in the case of Spain, once the greatest of Western Powers, whose decay dates from the days when she slew by thousands the Jews and the Moors, and finally expelled the survivors because their faiths differed from her own.
 
@@ -6300,19 +5351,11 @@ see a striking example of national ruin caused by religious persecution in the c
 
  The remarks which apply to religious intolerance apply in India with even greater force to social conventions in India as well as elsewhere. In India they have a special application because of the inseparable interblending of social customs with religious, so that the paltriest and most trifling cus
 
-
-
 toms, having their origin in some temporary need on some special occasion, rapidly assume a deeply religious and permanent importance.
 
  The true Âryan must avoid intolerance and bigotry as he would avoid poison, and should remember that it is utterly alien from the spirit of his ancestral religion. He must look on all Hindu sects as members of his own family, and refuse to quarrel with or to antagonise any. And he must look outside the pale of Hinduism, and see in the other religions that surround him rays of the same Spiritual Sun in which he himself is basking, and thus spread peace over India, and make possible for her a united national existence. Let his religious watchword be "Include," not "Exclude," since the Self is One.
 
-
-
-
-
 ![](../books_images/U-IMG-1734796489Screenshot(26).png)
-
-
 
 CHA
 
@@ -6324,27 +5367,19 @@ VIRTUES AND VICES TOWARDS INFERIORS.
 
  Love showing itself to an inferior inevitably takes the form of Benevolence, and its commonest form is that of *Compassion* and *Pity.* Weakness, ignorance, folly, arouse in the man ruled by the love-emotion the desire to help the person who is at such disadvantage, by bestowing on him strength, knowledge, wisdom. Compassion at once springs up in him, as by *Sympathy* he feels the weakness, ignorance, and folly as though they were his own, and thus becomes anxious to remove them, to raise the sufferer above them. From these virtues springs
 
-
-
 *Beneficence*, the active carrying out of the will to do good, the performance of actions expressive of the good-will felt.
 
  In the conduct of parents to their children we see these virtues brightly shown forth. The weakness of the child, its dependence and helplessness, awaken the tenderness of the parent, and he becomes filled with compassion and pity for the little creature that is so unable to protect and support itself. These virtues express themselves in softness of language, caressing gestures, encouraging looks and smiles, so that the child may lose the feeling of its own littleness and feebleness, and may in effect share and direct the strength and skill of its elders, and thus supply its own deficiencies. Compassion and pity seck, as does all love, to lessen the distance between itself and its object, to raise its object towards itself. It allays the apprehension which might arise in the inferior, in presence of strength greater than his own, by gracious aspect of *Kindliness*, expressing in every way that there is no reason for fear. Where it sees timidity and shrinking in the weak, it increases the outward manifestations of *Gentleness*, *Softness* and *Sweetness*, becoming the more gentle as the object of compassion is the more fearful and hesitating
 
  The stronger, the older, those who are in a
 
-
-
 way superior, should always remember to practise these gentle virtues towards the weaker, the younger, the inferior in any way, and should especially bear in mind that their exercise is the more needed when the inferior shows any of the manifestations of fear, of the idea that the superior is a hostile power, likely to inflict injury on him. Power is so constantly used to oppress and to injure, that the first feeling of the inferior in the presence of his superior is apt to be one of fear, and it is necessary to remove this by a manifestation of love.
 
  Compassion and Pity readily give rise to *Protection* of the weak, whenever they are threatened by those stronger than themselves, and in protecting them *Heroism* appears, the cheerful risking of oneself for the sake of a weaker. The Hero is the man who risks his life for the good of another who is in need of help, without grudging the cost. The name is most often given to the warrior who gives his life for his King and his country, or to the martyr who dies for his faith; but it is deserved equally by many an unknown man and woman, who in ordinary human circumstances sacrifices life or health for others—the physician or nurse, who dies, worn out by strenuous exertions in aid of the plaguestricken; the mother, who rescues a child from death by ceaseless tendance, careless of her life and
 
-
-
 health, caring only to supply everything that the babe needs; the bread-winner, who becomes exhausted by excessive toil, sacrificing leisure, strength, health, that the weaker ones dependent on him may not feel the pinch of starvation. The heroic virtues—*Courage, Valour, Endurance,* etc.—have for the most part their root in Compassion and in a sense of duty to the weak, a sympathy with them in their sufferings and a desire to remove these sufferings; they are most readily evoked in presence of the inferior in need of help. In fact, when they appear in the relations to superiors and equals, it is always in connexion with the need of these persons, and the man showing the heroic virtues has something to give of which they are in want. It may be a King who, though occupying the position of a superior to his soldiers individually, needs their help for the protection of his crown; or a brother who, normally equal, has a deficiency which his brother can supply at the moment; and so on. It still remains that the Hero is always the giver, and leaves in his debt those for whom he pours out his life or his possessions. Compassion, Protection, Heroism, are virtues that especially befit Kings and Rulers.
 
  *Liberality* is a virtue, again, which is called out by the presence of inferiors, and the readiness
-
-
 
 to give, the virtue of *Charity,* is one which has been placed by Hinduism in the very first rank. **दानम्**, gift, has always been an essential part of every sacrifice, and the feeding of Brâhmaṇas has been no less essential. By these rules men were trained to sacrifice part of their wealth for the benefit of others, and thus were led onwards to a true understanding and acceptance of the great Law of Sacrifice.
 
@@ -6367,14 +5402,9 @@ to give, the virtue of *Charity,* is one which has been placed by Hinduism in th
 
  "Something verily ought to be given ungrudg-
 
-
-
-
-
 ingly by him who has been asked, for a worthy recipient will surely arise who will save him from all."
 
  The way in which charity should be done is very clearly laid down by
-
 
 ShrīKṛiṣhna, who divides gifts, according to their nature, into sâttvic, râjasic and tâmasic.
 
@@ -6396,8 +5426,6 @@ ShrīKṛiṣhna, who divides gifts, according to their nature, into sâttvic, r
  "That gift which is given at unfit place and time and to unworthy recipients, disrespectfully and contemptuously, that is declared tâmasic."
 
  That charity should be done with courtesy and gentle kindliness is a rule on which much
-
-
 
 stress is laid. We often read in the Itihâsa directions to show careful respect in the making of gifts; charity should ever be gracious, for even a trace of contempt or disrespect makes it, as above said, tâmasic.
 
@@ -6421,17 +5449,11 @@ stress is laid. We often read in the Itihâsa directions to show careful respect
 
  Another virtue which should be cultivated in
 
-
-
-
-
 relation to inferiors is what may, for lack of a better term, be called *Appreciativeness*, the full recognition of all that is best in them. This recognition, generously expressed, has a most encouraging effect, and stimulates them to put out all their energies. The sense of weakness, of littleness, of inferiority, tends to paralyse, and many a man fails simply by lack of confidence in his own powers. A word of hearty appreciation gives the encouragement needed, and acts like sunshine on a flower, causing the whole nature to expand and glow.
 
  *Patience* is also most necessary in all dealings with inferiors; lesser ability generally implies less quickness of understanding, less power to grasp or to perform, and the superior needs to practise. patience in order not to confuse and bewilder the inferior. With children and servants this virtue has special opportunity for exercise, and its existence in the elders is peculiarly helpful and peace-making in the family. Strength should be used to help and support weakness, not to crush and terrify it, and "patience sweet that naught can ruffle" is a sign of a truly great and strong nature. Appreciativeness and Patience are specially needed in parents and teachers.
 
  The vices that spring out of the hate-emotion to inferiors are of the nature of *Pride*, the sense of
-
-
 
 superiority in the separated Self, looking down on those below it, and desiring to still further lower them, in order to make its own superiority more marked. The character of a man filled with pride is graphically described by
 
@@ -6456,10 +5478,6 @@ ShrîKṛiṣhṇa:
 
  Such a man, looking down on his inferiors, seeking only his own gain and his own advantage, will see in them only persons to be used for his own purpose. To them he will show the vices of S*corn, Contempt, Arrogance, Disdain, expressing* in words
 
-
-
-
-
 and actions his sense of the distance between himself and them. His own bearing will be marked by *Aggressiveness, Self-assertion, Overbearingness,* implanting dislike and hatred in those with whom he comes into contact, unless they are thoroughly dominated by the love-emotion. If his inferiors possess anything which he desires; and he is able to deprive them of it without danger to himself, he may fall into robbery and murder, and he will use his superiority to oppress and enslave. The characters of many such men may be studied in history— tyrants, oppressors, causing widespread destruction and misery, and thus sowing in the breasts of the oppressed the seeds of evil passions which sprang up into a crop of revolt, bloodshed and anarchy. Manu sternly condemns the Kings that fail in the duty of protection:—
 
 **अदंड्यान्दंडयन् राजा दड्याचैवाप्यखंडयन्।  
@@ -6471,27 +5489,15 @@ and actions his sense of the distance between himself and them. His own bearing 
 
  In smaller fashion these evils are reproduced in the family and in society, where the superiors show out the fruits of hate instead of love. The
 
-
-
-
-
 tyrannical father or master implants and fosters in his children and servants the vices of the oppressed, and creates the evils which he later endeavours in vain to destroy.
 
  *Hauteur, Haughtiness, Reserve*, are subtler forms of this same emotion, and work much mischief when they appear between those between whom cordiality, affection and openness alone should prevail. They should be very carefully guarded against by the student, when he comes to deal with those who are younger than he, or those towards whom nature or circumstances place him in the position of superior to inferior. He should ever remember that the duty of the superior is to bring the inferior up to his own level so far as is possible, and not to keep him inferior and constantly remind him of any distance that there may be between them. If he make the mistake of following the latter course, the probable, nay the certain, result will be that he will drive the inferior either into a slavish cringing and timidity and nervousness, on the one hand, or rebellion, pride and contempt upon the other. But if he behave otherwise, and treat his inferior as his equal, then the probability, almost the certainty, is that the inferior will readily see his superiority, and treat him with due respect and reverence. is they who selflessly help others to rise that are
-
-
 
 honoured, not they who desire aggrandisement for themselves.
 
  Let the student then remember in all his relations with his inferiors to cultivate sympathy and compassion and active beneficence. If in the family he shows these virtues to the younger and to the servants, in his later life in society and in the nation these virtues will still mark his character, and he will become a true philanthropist, a benefactor of his community and of his country.
 
-
-
-
-
 ![](../books_images/U-IMG-1734804418Screenshot(26).png)
-
-
 
 **CHAPTER XI**
 
@@ -6501,15 +5507,11 @@ THE REACTION OF VIRTUES AND VICES ON EACH OTHER.
 
  The general law is that an emotion—and the virtue or the vice that is its permanent mood— when exhibited by one person to another, provokes in that other a similar emotion, virtue or vice. An exhibition of love calls out love in response; an exhibition of hate is answered by hate. Anger produces anger; irritation causes irritation; gentleness brings out gentleness; patience is responded to by patience. If the student will observe himself and his neighbours, he will soon discover for himself the reality of this law, and will see how the moods of people are affected by the moods they
 
-
-
 meet with in others. One ill-tempered man will set a whole company jangling; one sweet-tempered. man will keep everybody at peace.
 
  This is the general law, working among average people who are equals, in whom the love-emotion and the hate-emotion are both present and are about equally balanced. When the people are not equals, but one is inferior to the other, the emotion, virtue or vice shown by one will also produce in the other one similar in kind, but *corresponding* to the one first shown, not *identical* with it. Thus an exhibition of love to an inferior will produce in him love, but the nature of the love will be governed by his inferiority, and will be reverence, trust, serviceableness, and so on. Benevolence will be answered by gratitude, and pity by confidence. An exhibition of hate to an inferior will produce in him hate, but the nature of the hate, again, will be governed by his inferiority, and will be fear, deceit, treacherous revenge, and so on. Oppression will be met with sullenness, and cruelty with silent vindictiveness. The good will produce good, and the evil, evil, according to the general law; but the particular nature of the good or evil shown will be governed by the relative positions of the individuals concerned.
 
  When we come to study exceptional people,
-
-
 
 another law comes in. If an exceptionally good man is observed, one in whom the love-emotion is dominant, then it will be seen that he does not answer anger with anger, but that when anyone shows the vice of anger to him, he meets it with the opposite virtue, kindness; if a man shows him the vice of pride, he meets it with the *opposite virtue*, humility; if a man shows him the vice of irritation, he meets it with the opposite virtue, patience; and so on. The result is that the vice is checked, and very often the person who showed it is led, by the exhibition of the opposite virtue, to himself imitate that instead.
 
@@ -6519,8 +5521,6 @@ another law comes in. If an exceptionally good man is observed, one in whom the 
 
  2. In persons who are definitely dominated by love or hate, emotions, virtuesand vices provoke the appropriate subdivision of their own dominant emotion.
 
-
-
  Let us consider instances.
 
  Two ordinary men, equals, meet, and one, in a bad temper, speaks angrily; the other flares up in reply, answering angrily; the first retorts, yet more angrily; and so it goes on, each getting more and more angry, until there is a furious quarrel. How often have friends been parted by a quarrel beginning in the ill-temper of one.
@@ -6529,15 +5529,11 @@ another law comes in. If an exceptionally good man is observed, one in whom the 
 
  A man in whom the hate-emotion predominates, superior to another, treats the latter with insolence and threat, trying to force him to yield to his will. The inferior meets this exhibition of evil emotion with fear, distrust and sullen submission, and in his heart springs up the desire for revenge, which he nourishes until an opportunity occurs to injure the superior. The latter, seeing the fear and sullen submission, shows yet more insolence and scorn, the sight of the fear increasing the original contempt for the inferiority of the other. This again leads to increased fear and distrust and more slavish submission, with growing longing for revenge, and thus
 
-
-
 the vicious cycle is repeated over and over again.
 
  A superior man, in whom the love-emotion predominates, comes into contact with an inferior, in whom the very sight of his superiority arouses fear and distrust. The exhibition of these vices moves him to pity and compassion, and he answers the fear and distrust by increased kindness of manner and softness of language. The inferior thus met is soothed and encouraged, and his fear diminishes to slight timidity of approach; this in its turn disappears, and is replaced by trust and confidence in the good-will of the superior. Thus in his heart the love-emotion is aroused, and the seeds of virtue are implanted instead of those of vice, and the relation established is one which conduces to the happiness of each of the persons concerned.
 
  The Itihâsa and Purâṇas have many instances of this interplay of emotions, of the effects of the exhibition of virtues and vices reacting on each other. Bhíma's scornful laughter over the blunders of Duryodhana awakens hatred and the desire for revenge in the bosom of the latter, and the hatred grows into one of the causes of the destructive war between the Pâṇḍavas and the Kurus. Kaushalyâ's angry reproaches as to the treatment of Râmâ are met by Dasharatha with gentle humility, and she is quickly moved to repentance and shows loving
-
-
 
 humility in return. Arjuna's fear at the sight of the Virât-rûpa is allayed by
 
@@ -6558,10 +5554,6 @@ ShrīKṛiṣhṇa's gentle words and re-assumption of His ordinary form. These 
 [^211]: "Manusmṛiti vi. 48"
 
  "Let him not be angry again with the angry
-
-
-
-
 
 man; being harshly addressed, let him speak softly."
 
@@ -6593,8 +5585,6 @@ man; being harshly addressed, let him speak softly."
 
 2\. Prapâthaka.
 
-
-
 all get to be good. To those who are sincere, I am sincere; and to those who are not sincere, I am alsosincere; and thus all get to be sincere."
 
  Says Jesus Christ:
@@ -6605,8 +5595,6 @@ all get to be good. To those who are sincere, I am sincere; and to those who are
 
  This is the general law, and in the strictest sense this the last method of finally changing an evil nature into a good one. But, in dealing with limited times and spaces, it becomes the duty of those occupying special positions or office in the community, or finding themselves in special situations created by the exceptionally evil, to apply the law of justice and punishment rather than that of charity. The Sovereign and the judge representing the aspect of nature embodied in the law of equili brium, find it their special duty to punish the evildoer and suppress the disturbances caused by crime,
 
-
-
 restoring the equilibrium of society. Apart from this special modification, the general law holds good.
 
  to Further, understanding the nature of virtues and vices, and their relations to and re-actions upon each other, the student will now be in a position cultivate deliberately the love-emotion in his own nature, with the virtues which are its permanent moods, and he will learn also to awaken and stimulate these in others by exhibiting them in his own conduct.
@@ -6615,261 +5603,15 @@ restoring the equilibrium of society. Apart from this special modification, the 
 
  In his equals he will ever seek to arouse affection by showing it himself, to win them to kindness. by showing kindness, to courtesy by showing courtesy, to uprightness by showing uprightness. When they show any of the vices of the bate-emotion to him, he will restrain the similar emotion that leaps up in himself in answer, and will deliberately show the opposite virtue that belongs to the
 
-
-
 love-emotion, and will oppose kindness to unkindness, courtesy to rudeness, uprightness to deceit. Thus he will not only avoid increasing the mischief caused by others; but in those others themselves, unless they be exceptionaliy evil, he will arouse right emotion and help them to improve.
 
  In his inferiors he will try to plant the seeds of trust and confidence, encouraging them by his gentleness and patience, and eradicating all suspicion and fear. When he finds an inferior showing these vices, he will not allow himself to give way to scorn and contempt, but will increase his own gentleness and patience, and gradually lead the weaker into the love-relation with himself that will make their relations mutually pleasant.
 
  If these principles ruled human relations in the family, the community, the nation, how changed would be the aspect of the world. How quickly would discord change to peace, storm to calm, misery to happiness. To use knowledge to guide action, so that right action may spring from right knowledge, should be the aim of every student of the Science of Ethics. Only thus can character be builded, and India's sons become worthy of their motherland. The student of to-day is the citizen of to-morrow. May right instruction lead him to noble life.
 
-
-
 "I am giving you complete union of hearts and minds, in which ill-feeling finds no place. Even as the cow is pleased with the new-born calf, so let one be pleased with another. Let the son follow his father and be of one mind with his mother. Let the wife remain in peace with the husband and speak sweet words to him. Let not the brother bear malice towards brother or sister. Let all become harmonious with each other, and let all treat each other well."
-
-
-
-
 
 PEACE TO ALL BEINGS.
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^206]: "Manusmṛiti ii. 138"
-
-
-[^199]: "Bhagavad-Gîtâ, ix. 23-24"
-
-
-[^186]: "Manusmṛti. ii, 206 207"
-
-
-[^185]: "Manusmṛti. ii, 206 207"
-
-
-[^136]: "Bhagavad Gîtâ, iii. 9"
-
-
-[^128]: "Ibid. 2."
-
-
-[^66]: "See Kenop, iii, iv,"

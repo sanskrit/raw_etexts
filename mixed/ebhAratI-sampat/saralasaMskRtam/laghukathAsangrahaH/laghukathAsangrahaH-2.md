@@ -12,31 +12,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyMzYxMjQ4MDA
 
 \[
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 **अपात्रे दानम्**
 
@@ -753,6 +739,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIyMzYxMjQ4MDA
   "अद्य देवदर्शनं न कृतं चेत् न काऽपि हानिः। वृद्धाय रामचन्द्राय एतत् धनं दत्तं चेत् द्विगुणितं पुण्यं सम्पादितं भवेत्" इति उक्त्वा सुमतिः रामचन्द्रस्य गृहं प्रति धावितवती।
 
   अल्पवयस्कायाः अपि पुत्र्याः उदारमनस्कतां दृष्ट्वा मातापितरौ अतीव सन्तुष्टौ।
-
 
 \]

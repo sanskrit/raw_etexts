@@ -16,38 +16,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5MDU2MDc2NTQ
 
 \[
 
-
-
 [TABLE]
 
-
-
-
-
-
-
-
-
-
-
 *All rights reserved by the Editors*
-
-
-
-
 
 *First Impression 1936  
 Second Impression 1937*
 
-
-
-
-
 **Printed by S. V. Parulekar, at the B. V. Press, Sandhurst Road, Bombay 4  
 and  
 Published by K. B. Dhawale, Shri Samarth Sadan, Girgaon, Bombay 4**
-
-
 
 PREFACE
 
@@ -62,8 +40,6 @@ the Marticulation Examination.
 [TABLE]
 
 ---------------------
-
-
 
 |                 |
 |:---------------:|
@@ -93,26 +69,10 @@ the Marticulation Examination.
 | २०  | किरातार्जुनीयम्                           | ४१  | संकीर्ण-पद्यानि                              |
 | २१  | राक्षसः स्वप्राणसमर्पणेन चन्दनदासं मोचयति |    |                                             |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 SENIOR SELECTIONS  
 
 IN  
 SANSKRIT PROSE AND VERSE
-
-
 
 **१ रघुवंश-प्रस्तावना दिलीपवर्णनं च**
 
@@ -134,8 +94,6 @@ SANSKRIT PROSE AND VERSE
 
 सोऽहमाजन्मशुद्धानामाफलोदयकर्मणाम्  
 आसमुद्रक्षितीशानामानाकरथवर्त्मनाम्॥५॥
-
-
 
 यथाविधिहुताग्नीनां यथाकामार्चितार्थिनाम्  
 यथापराधदण्डानां यथाकालप्रबोधिनाम्॥६॥
@@ -176,8 +134,6 @@ SANSKRIT PROSE AND VERSE
 ज्ञाने मौनं क्षमा शक्तौत्यागे श्लाघाविपर्ययः।  
 गुणा गुणानुबन्धित्वात्तस्य सप्रसवा इव॥१८॥
 
-
-
 अनाकृष्टस्य विषयैर्विद्यानां पारदृश्वनः।  
 तस्य धर्मरतेरासीद् वृद्धत्वं जरसा विना॥१९॥
 
@@ -213,8 +169,6 @@ NOTES
 
   **संपृक्तौ = नित्यसंबद्धौ। पितरौ = मातापितरौ, मातरपितरौ। तितीर्षु** Desirous of crossing (*i. e.* I wish to cross ). **उडुपं** A small raft. **उपहास्यतां गमिष्यामि( = उपहास्यो भविष्यामि )** I shall be ridiculed. **उद्बाहुः (= उच्छ्रितबाहुः )वामनः**A dwarfish person stretching out his hands. **पूर्वसूरिभिः कृतवाग्द्वारे**etc. In which an opening (a door) in the form of description in verse is already made (created) by learned writers of old days. **आसमुद्रक्षितीशानाम्** Who were the lords of the whole earth bounded by the oceans.*of*. **चतुरुदधिमालामेखलाया भुवो भर्ता। नाकः**Heaven. **यथा ( = अनतिक्रम्य )**In keeping with, according to. (when it stands at the beginning of
 
-
-
 an **अव्ययीभाव** compound ). **त्याग**Giving away in charity **( = दान ).गृहमेधिनाम् ( = दारपरिग्रहाणाम्)** Who took to married life, who got themselves married. **मनीषिन्** A wise man. **महीक्षित्** A king. **प्रणव** The syllable Om. **छन्दस्** Ved. **व्यूढोरस्कः**Having broad chest.**आत्मकर्मक्षमंदेहमाश्रितः**Khsātra Dharma ( the duties of the warrior caste ) assuming as it were a body suitable for ( the discharge of ) his own duties. **आरम्भ** Action, deed. **उदय** Result.**यादस्** An acquatic animal.**रेखामात्रमपि** etc. His subjects did not deviate even a jot from the path trodden since the time of Manu. **सहस्रगुणं** Thousand-fold. **रस**Water. **गुणा गुणानुबन्धित्वात्** etc. The qualities (though opposed to one another) appeared like uterine brothers in as much as they stayed together in him. ( Such pairs of contradictory qualities were found to dwell in the king ) **विनयाधानं** Bringing up, education.**जन्महेतवः**Only the cause of ( their ) birth; ( for all other parent's duties were performed by the king himself). **गां दुदोह**Milked the earth *i. e.* levied taxes. **दिवं दुदोह** Milked the heaven*i. e.*  
 poured rain.
 
@@ -232,8 +186,6 @@ poured rain.
 
 कनकस्तम्भरुचिरं तोरणेन विराजितम्।  
 विविशुस्ते नृपा रङ्गं महासिंहा इवाचलम्॥३॥
-
-
 
 तत्रासनेषु विविधेष्वासीनाः पृथिवीक्षितः।  
 सुरभिस्रग्धराः सर्वे प्रमृष्टमणिकुण्डलाः॥४॥
@@ -275,8 +227,6 @@ poured rain.
 हंसानां वचनं श्रुत्वा यथा मे नैषधो वृतः।  
 पतित्वे तेन सत्येन देवास्तं प्रदिशन्तु मे॥१६॥
 
-
-
 **वचसा मनसा चैव यथा नाभिचराम्यहम्।  
 तेन सत्येन विबुधास्तमेव प्रदिशन्तु मे॥१७॥**
 
@@ -315,8 +265,6 @@ poured rain.
 
 **यत्त्वं भजसि कल्याणि पुमांसं देवसंनिधौ।  
 तस्मान्मां विद्धि भर्तारमेवं ते वचने रतम्॥२९॥**
-
-
 
 यावच्च मे धरिष्यन्ति प्राणा देहे शुचिस्मिते।  
 तावत्त्वयि भविष्यामि सत्यमेतद्ब्रवीमि ते॥३०॥
@@ -358,8 +306,6 @@ poured rain.
 पुनश्च रमणीयेषु वनेषूपवनेषु च।  
 दमयन्त्या सह नलो विजहारामरोपमः॥४२॥
 
-
-
 **जनयामास च नलो दमयन्त्यां महामनाः।  
 इन्द्रसेनं सुतं चापि इन्द्रसेनां च कन्यकाम्॥४३॥**
 
@@ -383,8 +329,6 @@ poured rain.
 **NOTES**
 
 ** ** **आजुहाव = आह्वयत्। हृच्छयः = मदनः। पृथिवीक्षितः= महीक्षितः। सुरभिस्रग्धराः**Wearing fragrant garlands. **प्रमृष्ट** Polished, bright.**परिधोपमाः**Resembling & club. **सुश्लक्ष्णाः**Very smooth **पञ्चशीर्षा इवोरगाः** Like serpents with five hoods. **मुष्णती** captivating. **तुल्याकृतीन् = निर्विशेषाकृतीन्** *i. e.*Having similar forms. **देवलिङ्गानि** The characteristic marks of the gods. See st. 22, 23. **प्राप्तकालममन्यत** She thought it proper for the occasion, she thought it was time for etc. **नमस्कारं प्रयुज्य = नमस्कृत्य ( मनसा वाचा व )। प्राञ्जलिः** Folding her hands in a bow. (This refers to the physical action of bowing ). **यथा... तेन सत्येन** If it is a fact that etc. **प्रदिशन्तु = दर्शयन्तु, यच्छन्तु। अभि + चर्**To be disloyal or false.**आराधने = आराधनाय। कुर्वन्तु = धारयन्तु or आविष्कुर्वन्तु। यथोक्तं चक्रिरे देवाः**etc. Gods revealed their power to assume their characteristics as she had requested. ( *i. e.* they resumed their genuine forms and thus granted her request ). **यत्... तस्मात्** Since... therefore. **प्राणा**
-
-
 
 **धरिष्यन्ति** । shall live,। am alive. **त्वयि भविष्यामि**। shall be true to you. **अग्निपुरोगमान् =अग्निप्रमुखान्। मिथुनं** A pair ( of boons ). **उष्य = उदित्वा। यजमानः**Performing sacrifices.
 
@@ -420,8 +364,6 @@ poured rain.
 
 योऽधीते चतुरो वेदान्सर्वानाख्यानपञ्चमान्।  
 नित्यं तृप्ता गृहे यस्य देवा यज्ञेषु धर्मतः॥९॥
-
-
 
 यस्मिन्दाक्ष्यं धृतिर्दानं तपः शौचं दमः शमः।  
 ध्रुवाणि पुरुषव्याघ्रे लोकपालसमे नृपे॥१०॥
@@ -464,28 +406,20 @@ poured rain.
 
  कस्मिंश्चिज्जलाशयेऽनागतविधाता प्रत्युत्पन्नमतिर्यद्भविष्यश्चेति त्रयो मत्स्याः सन्ति। अथ कदाचित्तं जलाशयं दृष्ट्वागच्छद्भिर्मत्स्यजीविभिरुक्तं यदहो
 
-
-
 बहुमत्स्योऽयं ह्रदः कदाचिदपि नास्माभिरन्वेषितः। तदद्याहारवृत्तिः संजाता। संध्यासमयश्च संवृत्तस्ततः प्रभातेऽत्रागन्तव्यमिति निश्चयः। अतस्तेषां तत्कुलिशपातोपमं वचः समाकर्ण्यानागतविधाता सर्वान्मत्स्यानाहूयेदमूचे। अहो श्रुतं भवद्भिर्यन्मत्स्यजीविभिरहितम्। तद्रात्रावपि गम्यतां किञ्चिन्निकटं सरः। उक्तं च—
 
 अशक्तैर्बलिनः शत्रोः कर्तव्यं प्रपलायनम्।  
 संश्रितव्योऽथवा दुर्गोनान्या तेषां गतिर्भवेत्॥१॥
-
-
 
 तन्नूनं प्रभातसमये मत्स्यजीविनोऽत्र समागम्य मत्स्यसंक्षयं करिष्यन्ति। तन्न युक्तं सांप्रतं क्षणमप्यत्रावस्थातुम्। तदाकर्ण्य प्रत्युत्पन्नमतिः प्राह। अहो सत्यमभिहितं भवता। ममाप्यभीष्टमेतत्। तदन्यत्र गम्यतामिति। उक्तं च।
 
 यस्यास्ति सर्वत्र गतिः स कस्मात्स्वदेशरागेण हि याति नाशम्।  
 तातस्य कूपोऽयमिति ब्रुवाणाःक्षारं जलं कापुरुषाः पिबन्ति॥२॥
 
-
-
 अथ तत्समाकर्ण्य प्रोच्चैर्विहस्य यद्भविष्यः प्रोवाच। अहो न भवद्भ्यां मन्त्रितं सम्यगेदिति। यतः किं वाङ्मात्रेणापि तेषां पितृपैतामहिकमेतत्सरस्त्यक्तुं युज्यते। तद्यद्यायुःक्षयोऽस्ति तदन्यत्र गतानामपि मृत्युर्भविष्यत्येव। उक्तं च।
 
 अरक्षितं तिष्ठति दैवरक्षितं सुरक्षितं दैवहतं विनश्यति।  
 जीवत्यनाथोऽपि वने विसर्जितः कृतप्रयत्नोऽपि गृहे विनश्यति॥३॥
-
-
 
 तदहं न यास्यामि। भवद्भ्यां च यत्प्रतिभाति तत्कार्यम्। अथ तस्य तं निश्चयं ज्ञात्वानागतविधाता प्रत्युत्पन्नमतिश्च निष्क्रान्तौ सह परिजनेन। अथ प्रभाते तैर्मत्स्यजीविभिर्जालैस्तज्जलाशयमालोड्य यद्भविष्येण सह जलाशयो निर्मत्स्यतां नीतः। अतोऽहं ब्रवीमि।
 
@@ -493,8 +427,6 @@ poured rain.
 द्वावेतौ सुखमेधेते यद्भविष्यो विनश्यति॥४॥
 
 \- पञ्चतन्त्रे मित्रभेदः।
-
-
 
 EXERCISES
 
@@ -521,8 +453,6 @@ NOTES
 
  अधुनास्य सन्निधाने पलायितुमक्षमः। तद्यथा भवितव्यं तद्भवतु। तावद्विश्वासमुत्पाद्यास्य समीपमुपगच्छामि। इत्यालोच्योपसृत्याब्रवीत्। आर्य त्वामभिवन्दे। गृध्रोऽवदत् कस्त्वम्। सोऽवदत् मार्जारोऽहम्। गृध्रोब्रूते दूरमपसर। नो चेद्धन्तव्योऽसि मया। मार्जारोऽवदत्। श्रूयतां तावदस्मद्वचनम्। ततो यद्यहं वध्यस्तदा हन्तव्यः। यतः।
 
-
-
 जातिमात्रेण किं कश्चिद्धन्यते पूज्यते क्वचित्।  
 व्यवहारं परिज्ञाय वध्यः पूज्योऽथवा भवेत्॥२॥
 
@@ -547,8 +477,6 @@ EXERCISES
 
  5 Note **दीर्घकर्णनामा मार्जारः = दीर्घकर्णो नाम मार्जारः।** Note the usesof **नामन्** at the end of & compound and **नाम** (*ind.*).
 
-
-
 NOTES
 
  **उद्धृत्य** Having taken out, sparing. **विश्वासमुत्पाद्य (= विश्वास्य)** Cresting confidence in him ( for me). **व्यवहार** Behaviour, character.**एतादृश** So much. **चान्द्रायणं** A vow in which the daily quantity of food, which consists of fifteen mouthfuls at the full moon, is diminished by one mouthful every day during the dark fortnight and increased in like manner during the bright fortnight. **जिज्ञासा**. Enquiry, search.
@@ -569,8 +497,6 @@ NOTES
 
 हा नाथ हा महाराज हा स्वामिन्किं जहासि माम्।  
 हा हतास्मि विनष्टास्मि भीतास्मि विजने वने॥३॥
-
-
 
 ननु नाम महाराज धर्मज्ञः सत्यवागसि।  
 कथमुक्त्वा तथा सत्यं सुप्तामुत्सृज्य मां गतः॥४॥
@@ -611,8 +537,6 @@ NOTES
 यस्याभिशापाद्दुःखार्तोदुःखं विन्दति नैषधः।  
 तस्य भूतस्य नो दुःखाद्दुःखमभ्यधिकं भवेत्॥१६॥
 
-
-
 अपापचेतसं पापो य एवं कृतवान्नलम्।  
 तस्माद्दुःखतरं प्राप्य जीवत्वसुखजीविकाम्॥१७॥
 
@@ -652,8 +576,6 @@ NOTES
 दमयन्ती तथानेन पृच्छ्यमाना विशांपते।  
 सर्वमेतद्यथावृत्तमाचचक्षेऽस्य भारत॥२९॥
 
-
-
 तामर्धवस्त्रसंवीतां पीनश्रोणिपयोधराम्।  
 सुकुमारानवद्याङ्गीं पूर्णचन्द्रनिभाननाम्॥३०॥
 
@@ -690,8 +612,6 @@ NOTES
 
  4 Study the formation of the Perfect forms in this passage. What are the two kinds of Perfect? How do you get the forms of the Perfect?
 
-
-
  5 Note the following usages :-
 
 \(a\) शक्यसे ता गिरः सम्यक्कर्तुं मयिनरेश्वर।  
@@ -713,8 +633,6 @@ NOTES
 
   \[This is an extract from Pancha-tantra. Acertain lion while hunting for food one day got a young fox. He brought him home and gave him to the lioness who fondly brought him up together with her two cubs. After a few days when they were old enough they saw an elephant. On seeing him the fox ran home while the other two cubs were about to spring on him. Coming home they told this to their father and laughed at the cowardice of their elder brother, as they called
 
-
-
 him. At this the fox grew angry but the lioness then told him who be really was and advised him to run away which he did immediately.\]
 
  कस्मिंश्चिदुद्देशे सिंहदम्पती प्रतिवसतः स्म। अथ सिंही पुत्रद्वयमजजिनत्। सिंहोऽपि नित्यमेव मृगान्व्यापाद्य सिंह्यै ददाति। अथान्यस्मिन्नहनि तेन किमपि नासादितम्। येन भ्रमतोऽपि तस्य रविरस्तं गतः। अथ तेन स्वगृहमागच्छता शृगालशिशुः प्राप्तः। स च बालकोऽयमित्यवधार्य यत्नेन दंष्ट्रामध्यगतं कृत्वा सिंह्यै जीवन्तमेव समर्पितवान्। ततः सिंह्याभिहितम्। भो कान्त त्वयानीतं किञ्चिदस्माकं भोजनम्। सिंह आह। प्रिये मयाद्यैनं शृगालशिशुं परित्यज्य न किञ्चित्सत्वं समासादितम्। स च मया बालोऽयमिति मत्वा न व्यापादितो विशेषात्स्वजातीयश्च। उक्तं च—
@@ -731,8 +649,6 @@ him. At this the fox grew angry but the lioness then told him who be really was 
 
 एकेनापि सुधीरेण सोत्साहेन रणं प्रति।  
 सोत्साहं जायते सैन्यं भग्ने भङ्गमवाप्नुयात्॥३॥
-
-
 
 तथा च।
 
@@ -761,8 +677,6 @@ EXERCISES
 
  3 Note the uses of :- **परित्यज्य। परस्परम्। यावत्... तावत्। यथा। येन। हीन। मध्ये। नो चेत्।**
 
-
-
  4 Name fully – **अजीजनत्। अवधार्य। उपार्जयिष्यामि। निर्वाहयन्ति। ऊचतुः। प्रबोधितः। द्रुततरम्।**
 
  5 Decline — **अहन्। दम्पती। स्त्री। अन्य। तृतीय। त्रि। द्वि।**
@@ -787,8 +701,6 @@ EXERCISES
 
 मा भैरिति नलश्चोक्त्वा मध्यमग्नेःप्रविश्य तम्।  
 ददर्श नागराजानं शयानं कुण्डलीकृतम्॥३॥
-
-
 
 स नागः प्राञ्जलिर्भूत्वा वेपमानो नलं तदा।  
 उवाच मां विद्धि राजन्नागं कर्कोटकं नृप॥४॥
@@ -829,8 +741,6 @@ EXERCISES
 विषेण संवृतैर्गात्रैर्यावत्त्वां न विमोक्ष्यति।  
 तावत्त्वयि महाराज दुखं वै स निवत्स्यति॥१६॥
 
-
-
 अनागा येन निकृतस्त्वमनर्होजनाधिप।  
 क्रोधादसूययित्वा तं रक्षा मे भवतः कृता॥१७॥
 
@@ -870,8 +780,6 @@ EXERCISES
 
  4 How do you form 'the adverbs of frequency'?
 
-
-
 **NOTES**
 
  **असकृत्** More than once, repeatedly. **नागराजानं** irregular for**नागराजम्। प्राञ्जलिर्भूत्वा** Bowing, folding his hands (in supplication ).**विद्धि = विदाङ्कुरु। मन्युपरीतेन = कुपितेन। स्थावरः** An immoveable object.**क्वचित् = कदाचित्।** One day, some day. **पदाद्विचलितुं पदम्.** To move even & step. **त्रातुमर्हति मां भवान्** Please save me. **अङ्गुष्ठमात्रक** Of the size of the thumb. **कृष्णवर्त्मन्** Fire. **तस्य रूपमन्तरधीयत** His form was changed, he was deformed. **यत्कृते** For whose sake, on whose account. **शश्वत्** Always.**हृदय** Skill. **संस्मर्तव्यस्तदा तेऽहं** Think of me then; you have only to think of me when etc. **अन्तरधीयत**Disappeared.
@@ -885,8 +793,6 @@ EXERCISES
  Tārāpīda coming to know from Chandrāpīḍa of the renunciation of Vaishmpāyana, severely blames Chandrāpīda. Shukanāsa, on hearing this, says that if there was anyone to blame it was not Chandrāpīḍa but rather Vaishampāyana himself. \]
 
  **देव यदि चन्द्रमस्युष्मा दहने वा शीतलत्वमंशुमालिनि वा तमस्तमस्विन्यां वा दिवसो महोदन्वति वा शोषः क्षितेरधारणं वा शेषे परार्थानुद्यमो वा साधोरप्रियवचननिर्गमो वा सज्जनमुखात्संभाव्यते ततो युवराजेऽपि दोषः। तत्किमेवमेवानिरूप्य तस्यानात्मज्ञस्य मूढप्रकृतेर्दुर्जातस्य राजपथ्यकारिणो मातृपितृघातिनो मित्रद्रुहःकृतघ्नस्य कर्मचाण्डालस्य महापातकिनः कृते कृतयुगावतारयोग्यमात्मनोपि गुणवन्तमत्युदारचरितं चन्द्रापीडमेवं संभावयति देवः। नह्यतःपरं परं कष्टतरं किंचिदपि पीडाकारणं यद्गुणेषु वर्तमानो दोषेषु संभाव्यत इतरजनेनापि। किं पुनर्गुरुजनेन। यो गुणी गुणैरवावबोधनीयः। कस्यापरस्यात्मा गुणवाननेन ज्ञापनीयः। अपि च जन्मनः प्रभृति देवस्य विलासवत्या देव्याश्चाङ्कलालनया यो न गृहीतस्तस्य मरुत इव दुर्ग्रहप्रकृतेश्चन्द्रापीडोऽपि किं करोतु। स्वयमेवोत्पद्यन्त एवंविधाः शरीरसंभवा महाकृमयः सर्वदोषाश्रया महाव्याधयोऽन्तर्विषा महाव्याला विनाशहेतवो महोत्पाता भुजङ्गवृत्तयो महावाटिकावक्रचारिणो महाग्रहास्तमोमयाः प्रदोषा**
-
-
 
 **मलिनात्मकाः कुलपांसवो निस्नेहाः खला निर्लज्जाः क्षपणका निःसंज्ञाः पशवः। येषां क्षुद्राणां प्रज्ञा पराभिसंधानाय न ज्ञानाय। श्रुतमालापाय नोपशमाय। पराक्रमः प्राणिनामुपघाताय नोपकारायोत्साहो धनार्जनाय न यशसे। स्थैर्यं व्यसनासङ्गाय न चिरसंगताय। धनपरित्यागः कामाय न धर्माय। किं बहुना सर्वमेव येषां दोषाय न गुणाय। तदसावपीदृश एव कोऽप्यपुण्यवानुत्पन्नो यस्यैवं कुर्वतो मित्रमहं चन्द्रापीडस्य कथं तस्य द्रोहमाचरामीति नोत्पन्नं चेतसि। एवं कृते चलितवृत्तानां शासितावश्यं तारापीडो देवः पीडितान्तरात्मा मयि कोपं करिष्यतीत्येवमपि नाशङ्कितं मनसा। मातुरहमेवैको जीवितनिबन्धनं कथं मया विना वर्तिष्यत इत्येतस्य नृशंसस्य हृदये नापतितम्। पिण्डप्रदो वंशसन्तानार्थमहमुत्पादितः पित्रा कथमहमननुज्ञातस्तेन सर्वपरित्यागं करोमीत्येतदपि यथाजातस्य न बुद्धौ संजातम्। सर्व एव ह्यनाक्षिप्तचेताः स्वहिताय परहिताय वा प्रवर्तते तस्य तु पुनरस्मानेवं दुःखे स्थापयतो न स्वहितं न परहितमपि। किमनेनैवमात्मद्रुहा कृतमिति मतिरेव तावन्न बोधपदवीमवतरति। सर्वथा दुःखायैवास्माकं तस्य पापकर्मणो ग्रहोपसृष्टस्य जन्म। इत्युक्त्वा हेमन्तकालोत्पलिनीमिवोद्वाष्पां दृष्टिमुदवहत्। उद्वेपिताधरश्चबहिरलब्धनिर्गमेण स्फुटन्निवान्तर्मन्युपूरेण निश्वसन्नेवावतस्थे।**
 
@@ -909,8 +815,6 @@ EXERCISES
 
 3 Write a note on the Bahu-vrihi compound and its subvarieties.
 
-
-
  4 Compare Bahuvrīhi with Karmadhāraya.
 
  5 What do you know of Upapada compounds?
@@ -931,8 +835,6 @@ EXERCISES
 
 सोऽवतीर्य द्रुमात्तस्माद्द्रिद्रुमप्रतिमाननः।  
 विनीतवेषः कृपणः प्रणिपत्योपसृत्य च॥३॥
-
-
 
 तामब्रवीन्महातेजा हनूमान्मारुतात्मजः।  
 शिरस्यञ्जलिमाधाय सीतां मधुरया गिरा॥२॥
@@ -973,8 +875,6 @@ EXERCISES
 पृथिव्यां राजसिंहानां मुख्यस्य विदितात्मनः।  
 स्नुषा दशरथस्याहं शत्रुसैन्यप्रणाशिनः॥१४॥
 
-
-
 दुहिता जनकस्याहं वैदेहस्य महात्मनः।  
 सीतेति नाम्ना चोक्ताहं भार्या रामस्य धीमतः॥१५॥
 
@@ -1014,8 +914,6 @@ EXERCISES
 प्रागेव तु महाभागः सौमित्रिर्मित्रनन्दनः।  
 पूर्वजस्यानुयात्रार्थे कुशचीरैरलंकृतः॥२७॥
 
-
-
 ते वयं भर्तुरादेशं बहुमान्य दृढव्रताः।  
 प्रविष्टाः स्म पुरा दृष्टं वनं गम्भीरदर्शनम्॥२८॥
 
@@ -1053,8 +951,6 @@ EXERCISES
 
  **विद्रुमप्रतिमाननः** With a coral-like face. **शाखामालम्ब्य** Leaning against the branch. **शोकजं वारि** Tears of grief. **च** in the sense of **वा का त्वं भवसि** To what class do you belong ? **विबुधालय** Heaven. **अस्माल्लोकादमुं लोकं गतः** Gone from this world to that *i. e.* dead. **व्यञ्जनानि**Marks. **अप्रतिमानुषम्** Uncommon among human beings, excellent.
 
-
-
 **तपसा अन्वितःवेषः**Your apparel is fit for (practising) penance.**द्रुमाश्चित** Sitting on a tree. **सम्भ्रियमाणे** When preparations were being made for etc. **सत्यधर्मे व्यवस्थितः**Who was strict in the observance of truthfulness. **जनन्यै मां समादिशत्** He left me to the care of ( his ) mother.
 
 ------------------------
@@ -1064,8 +960,6 @@ EXERCISES
  \[This is a very beautiful description of the hermitage of Jābāli.— An extract from Kādambarī. \]
 
  **अवलोक्य चाहमचिन्तयम्। अहो प्रभावस्तपसाम्। इयमस्य शान्तापि मूर्तिरुत्तप्तकनकावदाता परिस्फुरन्ती सोदामिनीव चक्षुषः प्रतिहन्ति तेजांसि। सततमुदासीनापि महाप्रभावतया भयमिवोपजनयति प्रथमोपगतस्य। नित्यमसहिष्णु तपस्विनां तनुतपसामपि तेजः प्रकृत्या भवति। किमुत सकलभुवनतलवन्दितचरणानामनवरततपःक्षपितमलानां करतलामलकफलवदखिलं जगदालोकयतां दिव्येन चक्षुषा भगवतामेवंविधानामघक्षयकारिणाम्। पुण्यानि हि नामग्रहणान्यपि महामुनीनाम्। किं पुनर्दर्शनानि। धन्यमिदमाश्रमपदमयमधिपतिर्यत्र। अथवा भुवनतलमेव धन्यमखिलमनेनाधिष्ठितमवनितलकमलयोनिना। पुण्यभाजः खल्वमी मुनयो यदहर्निशमेनमपरमिव नलिनासनमपगतान्यव्यापारा मुखावलोकननिश्चलदृष्टयः पुण्याः कथाः शृण्वन्तः समुपासते। सरस्वत्यपि धन्या यास्य सततमतिप्रसन्ने करुणाजलनिस्यन्दिन्यगाधगाम्भीर्ये मुखकमलसंपर्कमनुभवन्ती निवसति हंसीव मानसे। धरणितलमनेनाधिष्ठितमालोक्य न वहति नूनमिदानीं सप्तर्षिमण्डलनिवासाभिमानमम्बरतलम्। प्रायो महाभूतानामपि दुरभिभवानि भवन्ति तेजांसि। सर्वतेजस्विनामयं चाग्रणीः। द्विसूर्यमिवाभाति जगदनेनाधिष्टितं महात्मना। निष्कम्पेव क्षितिरेतदवष्टम्भात्। एष प्रवाहः करुणारसस्य संतरणसेतुः संसारसिन्धोराधारः क्षमाम्भसां परशुस्तृष्णालतागहनस्य सागरः संतोषामृतस्योपदेष्टा सिद्धि मार्गस्यास्तगिरिरसद्ग्रहस्य मूलमुपशमतरोर्नाभिः प्रज्ञाचक्रस्य स्थितिवंशो धर्मध्वजस्य तीर्थं सर्वविद्यावताराणां वडवानलो लोभार्णवस्य निकषोपलः शास्त्ररत्नानां दावानलो रागपल्लवस्य महामन्त्रः क्रोधभुजङ्गस्य दिवसकरो मोहान्धकारस्यार्गलाबन्धो नरकद्वाराणां कुलभवनमाचाराणामायतनं**
-
-
 
 **मङ्गलानामभूमिर्मदविकाराणां दर्शकः सत्पथानामुत्पत्तिः साधुताया नेमिरुत्साहचक्रस्याश्रयः सत्त्वस्य प्रतिपक्षः कलिकालस्य कोशस्तपसः सखा सत्यस्य क्षेत्रमार्जवस्य प्रभवः पुण्यसंचयस्यादत्तावकाशो मत्सरस्यारातिर्विपत्तेरस्थानं परिभूतेरननुकूलोभिमानस्यासंमतो दैन्यस्यानायत्तो रोषस्यावशो विषयाणामनभिमुखः सुखानाम्। अस्य भगवतः प्रसादादेवोपशान्तवैरमपगतमत्सरं तपोवनम्। अहो प्रभावो महात्मनाम्। अत्र हि शाश्वतिकमपहाय विरोधमुपशान्तात्मानस्तिर्यञ्चोपि तपोवनवसतिसुखमनुभवन्ति। तथा ह्येष विकचोत्पलवनरचनानुकारिणमुत्पतच्चारुचन्द्रकशतं हरिणलोचनद्युतिशबलमभिनवशाद्वमिव विशति शिखिनः कलापमातपाहतो निःशङ्कमहिः। अयमुत्सृज्य मातरमजातकेसरैः केसरिशिशुभिः सहोपजातपरिचयः प्रक्षरत्क्षीरधारमापिबति कुरङ्गशावकः सिंहीस्तनम्। एष मृणालकलापाशाङ्किभिः शशिकरधवलं सटाभारमामीलितलोचनो बहु मन्यते द्विरदकलभैराकृष्यमाणं मृगपतिः। इदमिह कपिकुलमपगतचापलमुपनयति मुनिकुमारकेभ्यः स्नातेभ्यः फलानि। एते च न निवारयन्ति मदान्धा अपि गण्डस्थलीभाञ्जि मदजलपाननिश्चलानि मधुकरकुलानि जातदयाः कर्णतालैः करिणः। किं बहुना। फलमूलभृतो वल्कलिनो निश्चेतनास्तरवोपि सनियमा इवालक्ष्यन्ते अस्य भगवतः। किं पुनः सचेतनाः प्राणिनः।**
 
@@ -1087,8 +981,6 @@ EXERCISES
 
  7 Distinguish **कर्मधारय** and **द्विगु** from **बहुव्रीहि**.
 
-
-
 NOTES
 
  **अवदात** Pure. **प्रथमोपगत** Who approaches (has approached) him for the first time. **असहिष्णु**Unbearable. **प्रकृत्या** By nature, naturally**करतलामलकवत्**etc. Who can see the whole world as clearly as an Āmalaka fruit placed on the palm of his hand. **नामग्रहण** Uttering the name. **कमलयोनिः (= नलिनासनः)** God Brahman. **प्रायो महाभूतानामपि**etc. Generally the lustre of the great elements is formidable. **असद् ग्रह**Bad ideas. **निकषोपल** Touch-stone. **दावानल (= दवहुतभुजः)** Forest conflagration. **प्रतिपक्ष** Enemy. **अदत्तावकाशो मत्सरस्य** Above malice (Lit who never gives room in his mind to malice). **असंमतो दैन्यस्य** Not disposed to meanness (of spirit). **चन्द्रक** The eye in a peacock's tail. मृणालकलापाशंकिभिः Mistaking it for a cluster of lotus-stalks. **आमीलितलोचनः**With his eyes half-closed. **बहु मन्यते** Makes much of, takes delight in. **कपिकुल** A group of monkeys. **मदान्ध** Blinded by (being in) rut, infatuated. **गण्डस्थलीभाञ्जि** Resorting to the temples. **मधुकरकुलानि** Swarms of bees. **फलमूलभृतः** (1) Producing fruits and roots (**वृक्षाः**). (2) Subsisting on fruits and roots (**सनियमाः तापसाः**)**वल्कलिनः** (1) Having barks. (वृक्षाः) (1) Wearing bark-garments.**(तापसाः) सनियमाः**Observing certain vows. \[This can be seen from the double sense conveyed by the two expressions above.\]
@@ -1100,8 +992,6 @@ NOTES
  \[Kathā-sarit-Sāgara, a narrative poetical work, is composed by Somadeva who lived in the eleventh century under the patronage of king Anantadeva (1028-1080 A. D).). The work is based, as the author himself tells us, upon Brihat-Kathā and professes to be its summary. This latter work must date sometime before the Christian Era, in as much as it is referred to as a very great work by very old authors; and besides many of our Sanskrit plays and compositions like Hitopadesha have freely drawn upon it. It is no wonder then if we find in the Kathā-sārit-sāgara also the gist of a number of sanskrit works of even standard authors of early dates.
 
  This passage, which is taken from Kathā-sarit-sāgara, gives us in a nutshell the story of Mitralābha from Hitopadesha.\]
-
-
 
 अभूतत्क्वापि वनोद्देशे महाञ्शाल्मलिपादपः।  
 उवास लघुपातीति काकस्तत्र कृतालयः॥१॥
@@ -1142,8 +1032,6 @@ NOTES
 उपेत्य पृष्ट्वा वृत्तान्तं संभ्रमात्सोऽपि मूषकः।  
 पारावतपतेः पाशान्सानुगस्याच्छिनत्सुहृत्॥१३॥
 
-
-
 छिन्नपाशस्तमामन्त्र्य मूषकं वचनैःप्रियैः।  
 चित्रग्रीवः खमुत्पत्य ययौ सोऽनुचरैः सह॥१४॥
 
@@ -1182,8 +1070,6 @@ NOTES
 
 मिलित्वा सह कूर्मेण तत्र मन्थरकेण सः।  
 कृतातिथ्येन मित्रेण स तस्थौ मूषकान्वितः॥२६॥
-
-
 
 कथान्तरे च कूर्माय तस्मै स्वागमकारणम्।  
 हिरण्यसख्यवृत्तान्तयुक्तं काकः शशंस सः॥२७॥
@@ -1224,8 +1110,6 @@ NOTES
 तं त्रासयामि चलयञ्जर्जरेणान्नभाजनम्।  
 इत्युक्तवन्तं प्रव्राजं परिव्राट् सोऽपरोऽब्रवीत्॥३९॥
 
-
-
 खनित्रमस्ति चेतन्मे दीयतां यावदद्य वः।  
 युक्त्या निवारयाम्येतं मूषकोत्थमुपद्रवम्॥४०॥
 
@@ -1264,8 +1148,6 @@ NOTES
 
 एवं हिरण्यकेनोक्तेकूर्मो मन्थरकोऽभ्यधात्।  
 स्वमेव स्थानमेतत्ते तन्मा भित्राधृतिं कृथाः॥५२॥
-
-
 
 गुणिनो न विदेशोऽस्ति न संतुष्टस्य चासुखम्।  
 धीरस्य च विपन्नास्ति नासाध्यं व्यवसायिनः॥५३॥
@@ -1306,8 +1188,6 @@ NOTES
 तद्दृष्ट्वा स गृहीतं तं व्याधो मत्वा मृगं मृतम्।  
 गन्तुं प्रववृते नद्यास्तटे कूर्मं निधाय तम्॥६५॥
 
-
-
 **यातं दृष्ट्वा तमभ्येत्य मूषकस्तस्य जालिकाम्।  
 कूर्मस्य सोऽच्छिनत्तेन मुक्तो नद्यां पपात सः॥६६॥**
 
@@ -1336,17 +1216,11 @@ NOTES
 
  **कृतालयः**Who had made his home, who had built his nest.**छन्नोऽभवत्** He hid himself **लिप्सा**Desire to obtain. **परिच्छद** Retinue, followers. **खं** Sky. **ऊर्ध्वदृक्** Casting his eye up, looking up.**मोचयिष्यति** He will set us free. **साकं = सह। निर्याहि** Come out.**आमलय** Bidding farewell. **अन्वागत**. Who had followed. **त्वां मित्रत्वाय वृणोमि** I wish to make friendship with you. **का मैत्री** What friendship can there be? **आनैषीत् = आनयत्। तस्थतुः सुखम्** They lived happily. **इतोऽविदूरे** Not far from here. **निर्वेद** Sorrow. **कथान्तरे** In the course of conversation. **युक्त** Together with. **परिवाज्** A recluse.**शङ्कु** A peg. **भुक्तोत्तरं** After dinner. **त्रासयामि** I am scaring away.**चिरोषितम्** Though they have stayed there for a long time. (*lit.* which was inhabited by them for a long period) **त्वमेव स्थानमेतत्ते** This is your own house, **व्यधुः** Made. **ऐक्षिष्ट** Saw. **उभयविभ्रष्ट** Losing both.**अगात्** Went.
 
-
-
 **१३ सोमदेवकथितः कस्यचिद्बालकस्य वृत्तान्तः।**
-
-
 
 \[This is an extract from Daṇḍin's Dashakumārcharitam. Here we find Somadeva giving an account of how and when he found the young child whom he is leaving to the care of the king.\]
 
 ** कदाचिद्वामदेवशिष्यः सोमदेवशर्मा नाम कंचिदेकं बालकं राज्ञः पुरो निक्षिप्याभाषत। देव रामतीर्थे स्नात्वा प्रत्यागच्छता मया काननावनौ वनितया कयापि धार्यमाणमेनमुज्ज्वलाकारं कुमारं विलोक्य सादरमभाणि। स्थविरे का त्वम्। एतस्मिन्नटवीमध्ये बालकमुद्वहन्ती किमर्थमायासेन भ्रमसीति। वृद्धयाप्यभाषि। मुनिवर कालयवननाम्नि द्वीपे कालगुप्तो नाम धनाढ्यो वैश्यवरः कश्चिदस्ति। तन्नन्दिनीं नयनानन्दकारिणीं सुवृत्तां नामैतस्माद् द्वीपादागतो मगधनाथमन्त्रिसंभवो रत्नोद्भवो नाम रमणीयगुणालयो भ्रान्तभूवलयो मनोहारी व्यवहार्युपयम्य सुवस्तुसंपदा श्वशुरेण संमानितोऽभूत्। कालक्रमेण नताङ्गी गर्भिणी जाता। ततः सोदरविलोकनकुतूहलेन रत्नोद्भवः कथंचिच्छ्वशुरमनुनीय चपललोचनयानया सह प्रवहणमारुह्य पुष्पपुरमभिप्रतस्थे। कल्लोलमालिकाभिहतः पोतः समुद्राम्भस्यमज्जत्। गर्भभरालसां ललनां धात्रीभावेन कल्पिताहं कराभ्यामुद्वहन्ती फलकमेकमधिरुह्य देवगत्या तीरभूमिमगमम्। सुहृज्जनपरिवृतो रत्नोद्भवस्तत्र निमग्नो वा केनोपायेन तीरमगमद्वा न जानामि। क्लेशस्य परां काष्ठामधिगता सुवृत्तास्मिन्नटवीमध्येऽद्यसुतमसूत। प्रसववेदनया विचेतना सा प्रच्छायशीतले तरुतले निवसति। विजने वने स्थातुमशक्यतयाजनपदगामिनं मार्गमन्वेष्टुमुद्युक्तया मया विवशायास्तस्याः समीपे बालकं निक्षिप्य गन्तुमनुचितमिति कुमारोऽप्यानायीति। तस्मिन्नेव क्षणे वन्यो वारणःकश्चिददृश्यत। तं विलोक्य भीता सा बालकं निपात्य प्राद्रवत्। अहं समीपलतागुल्मके प्रविश्य परीक्षमाणोऽतिष्ठम्। निपतितं बालकं पल्लवकवलमिवाददति गजपतौ कण्ठीरवो भीमरवो महाग्रहेण न्यपतत्। भयाकुलेन दन्तावलेन झटिति वियति समुत्पात्यमानो बालको न्यपतत्। चिरायुष्मत्तया स चोन्नततरुशाखासमासीनेन वानरेण केनचित्पक्वफलबुद्ध्या परिगृह्य फलेतरतया विततस्कन्धमूले निक्षिप्तोऽभूत्। सोऽपि मर्कटः क्वचिदगात्। बालकेन सत्त्वसंपन्नतया सकलक्लेशसहेनाभावि। केसरिणा करिणं निहत्य कुत्रचिदगामि। लतागृहान्निर्ग-**
-
-
 
 **तोऽहमपि तेजःपुञ्जं बालकं शनैरवनीरुहादवतार्य वनान्तरे वनितामन्विष्याविलोक्यैनमानीय गुरवे निवेद्य तनिदेशेन भवन्निकटमानीतवानस्मीति। सर्वेषां सुहृदामेकदैवानुकूलदैवाभावेन महदाश्चर्यं बिभ्राणो राजा रत्नोद्भवः कथमभवदिति चिन्तयंस्तन्नन्दनं पुष्पोद्भवनामधेयं विधाय तदुदन्तं व्याख्याय सुश्रुताय विषादसंतोषावनुभवंस्तदनुजतनयं समर्पितवान्।**
 
@@ -1392,8 +1266,6 @@ NOTES
 
  \[This is an extract from Kathā-sarit-sāgara. This passage contains the well-known story of the four Brahmin lads who revived a lion to test their learning and were themselves devoured by him.\]
 
-
-
 बभूव पूर्वं कुसुमपुराख्यनगरेश्वरः।  
 पृथ्वीतलेऽस्मिन्धरणीवराहो नाम भूपतिः॥१॥
 
@@ -1433,8 +1305,6 @@ NOTES
 **अचिन्तयं च दृष्ट्वा तमहं तां स्पृहयन्गतिम्।  
 धन्योऽयमेवं विश्रान्तो दुःखभारं विमुच्य यः॥१३॥**
 
-
-
 **इति संचिन्त्य तत्कालं कृत्वा मरणनिश्चयम्।  
 वृक्षाग्रसङ्गिना पाशेनात्मानमुदलम्बयम्॥१४॥**
 
@@ -1473,8 +1343,6 @@ NOTES
 
 **ततो विचिन्त्य सर्वे ते वदन्ति स्म परस्परम्।  
 विचित्य पृथ्वीं विज्ञानं किञ्चिच्छिक्षामहे वयम्॥२६॥**
-
-
 
 याति काले च मिलितास्ते संकेतनिकेतने।  
 किं केन शिक्षितमिति भ्रातरोऽन्योन्यमब्रुवन्॥२७॥
@@ -1517,8 +1385,6 @@ NOTES
 
 — कथासरित्सागरः।
 
-
-
 **EXERCISES**
 
   1 Name fully— **अभूत्। चत्वारः। भ्राम्यन्। आश्वास्यमानम्। सखे। उपार्ज्य। अवैमि। अजनयत्। अवधीत्। प्रापुः। सिंहीभूतस्य।**
@@ -1548,8 +1414,6 @@ NOTES
 
 **यासां बलिः सपदि मद्गृहदेहलीनां  
 हंसैश्च सारसगणैश्च विलुप्त पूर्वः।**
-
-
 
 **तास्वेव संप्रति विरूढतृणाङ्कुरासु  
 बीजाञ्जलिः पतति कीटमुखावलीढः॥१॥**
@@ -1588,8 +1452,6 @@ NOTES
 कालात्यये मधुकराः करिणः कपोलम्॥४॥**
 
  **विदू०**। भो वयस्य एते खलु दास्याःपुत्रा अर्थकल्पवर्ता वरटाभीता इव गोपालदारका अरण्ये यत्र यत्र न खाद्यन्ते तत्र तत्र गच्छन्ति।
-
-
 
  **चारु०**। वयस्य
 
@@ -1631,8 +1493,6 @@ NOTES
 
  **विदू०**। भो न गमिष्यामि। अन्यः कोऽपि प्रयुज्यताम्। मम पुनर्ब्राह्मणस्य सर्वमेव विपरीतं परिणमति आदर्शगतेवच्छाया वामतो दक्षिणा दक्षिणतो
 
-
-
 वामा। अन्यच्च एतस्यां प्रदोषवेलायामिह राजमार्गे गणिका विटाश्चेटाश्च राजवल्लभाः संचरन्ति। तस्मान्मण्डूकलुब्धस्येव कालसर्पस्य मूषिक इव अभिमुखापतितो वध्य इदानीं भविष्यामि। त्वमिह उपविष्टः किं करिष्यसि।
 
 ** चारु०**। भवतु तिष्ठ तावदहं समाधिं निर्वर्तयामि।
@@ -1664,8 +1524,6 @@ NOTES
 
  This passage is a good specimen of a dialogue in Sanskrit. Note the greeting sentences that begin the dialogue. **देहली** The threshold. ( =**द्वारपिण्डी**). **प्रावारक** An upper garment. (= **उत्तरीयम्**).**सुखं हि दुःखान्यनुभूय शोभते।** *Cf.* **यदेवोपनतं दुःखात्सुखं तद्वसवत्तरम्। शोभते**Becomes agreeable. (**= रसवत्तरं भवति**)। **दारिद्र्यान्मरणाद्वा मरणं मम रोचते** This is rather irregular. The correct form of the sentence would be—**दारिद्र्यमरणयोर्मम मरणं (खलु) रोचते न दारिद्र्यम्। एते खलु... गच्छन्ति** Like
 
-
-
 cowboys in the wood, who are afraid of wasps, these riches — this wretched pelf — resort only to places where they are not consumed (bitten or stung). The idea is that miserly persons are generally rich while generous persons are found to be poor. **भाग्यक्रमेण हि धनानि भवन्ति यान्ति**। *Cf.* **नीचैर्गच्छत्युपरि च दशा चक्रनेमिक्रमेण। नित्य**Obligatory (*opp.* **नैमित्तिक**). **निधनता= दारिद्र्यम्। किं विचारितैः** What is the use of discussing this matter?
 
 ---------------------------------
@@ -1690,8 +1548,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
 
 यस्मादेषां सुरेन्द्राणाम् मात्राभ्यो निर्मितो नृपः।  
 तस्मादभिभवत्येष सर्वभूतानि तेजसा॥५॥
-
-
 
 तपस्यादित्यवच्चैष चक्षूंषि च मनांसि च।  
 न चैनं भुवि शक्नोति कश्चिदप्यभिवीक्षितुम्॥६॥
@@ -1731,8 +1587,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
 
 दण्डः शास्ति प्रजाः सर्वा दण्ड एवाभिरक्षति।  
 दण्डः सुप्तेषु जागर्ति दण्डं धर्मं विदुर्बुधाः॥१८॥
-
-
 
 समीक्ष्य स धृतः सम्यक् सर्वा रञ्जयति प्रजाः।  
 असमीक्ष्य प्रणीतस्तु विनाशयति सर्वतः॥१९॥
@@ -1776,8 +1630,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
 
  **यथावृत्तो भवेन्नुपः** How a king should act. **संभव** Origin. **ब्राह्मंसंस्कारं प्राप्तेन** By one who is invested with the sacred thread. **मात्रा**
 
-
-
 **निर्हृत्य = अंशानाकृष्य। तपति** Overpowers or dazzles. **धर्मराज्** God of death. **दुरुपसर्पिणम्** Who approaches carelessly. **विश्वरूपं कुरुते** Plays different roles. **पद्मा** Wealth.**धर्म** Rule, course of conduct. **व्यवस्येत्**Might lay down. **न विचालयेत्** Should not transgress. **भोगाय कल्पन्ते**Are able to enjoy (their respective rights etc.). **यथार्हतः = यथायोग्यम्। संप्रणयेत्** Should inflict. **प्रवर्तेताधरोत्तरम्** Everything would be topsyturvy. **दण्डजितः**Held in check by ( fear of) punishment. **विभ्रमात्**By non-intiction ( of punishment ). **नेता, प्रणेता = शासिता। विषमः**Not impartial. **अकृतात्मन्** Whose mind is not well-trained ( in duty).
 
 ---------------------------------
@@ -1787,8 +1639,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
  \[This is an extract from the Dashakumāra-charitam of Daṇḍin. Vasurakshita is the faithful minister of the deceased father of Anantavarman. This latter king did not care for the affairs of the state and the faithful minister, therefore, seizes an opportunity to advise him privately. This piece of advice had but a temporary effect on the king who again fell a prey to the vicious counsels of a wicked man.\]
 
   **अस्ति विदर्भोनाम जनपदः। तस्मिन्भोजवंशभूषणमंशावतार इव धर्मंस्वातिसत्त्वः सत्यवादी वदान्यो विनीतो विनेता प्रजानां रञ्जितभृत्यः कीर्तिमानुग्रो बुद्धिमूर्तिभ्यामुत्थानशीलः शास्त्रप्रमाणः शक्यभव्यकल्पारम्भी संभावयिता बुधान्प्रभावयिता सेवकानुद्भावयिता बन्धून्न्यग्भावयिता शत्रूनसंबद्धप्रलापेष्वदत्तकर्णः कदाचिदप्यवितृष्णो गुणेष्वतिनदीष्णः कलासु नेदिष्ठो धर्मार्थसंहितासु स्वल्पेऽपि सुकृते सुतरां प्रत्युपकर्ता प्रत्यवेक्षिता कोशवाहनयोर्यत्नेन परीक्षिता सर्वाध्यक्षाणामुत्साहयिता कृतकर्मणामनुरूपैर्दानमानैः सद्यः प्रतिकर्ता दैवमानुषीणामापदां षाड्गुण्योपयोगनिपुणो मनुमार्गेण प्रणेता चातुर्वर्ण्यस्य पुण्यश्लोकः पुण्यवर्मा नामासीत्। स पुण्यैः कर्मभिः प्राप्य पुरुषायुषं पुनरपुण्येन प्रजाजनानामगण्यतामरेषु। तदनन्तरमनन्तवर्मा नाम तदायतिरवनिमध्यतिष्ठत्। स सर्वगुणैः समृद्धोऽपि दैवाद्दण्डनीत्यां नात्यादृतोभूत्। तमेकदा रहसि वसुरक्षितो नाम मन्त्रिवृद्धः पितुरस्य बहुमतः प्रगल्भवागभाषत। तात सर्वैवात्मसंपदभिजनात्प्रभृत्यन्यूनैवात्रभवति लक्ष्यते। बुद्धिश्च निसर्गपट्वीकलासु नृत्यगीतादिषु चित्रेषु च**
-
-
 
 **काव्यविस्तरेषु प्राप्तविस्तारा तवेतरेभ्यः प्रतिविशिष्यते। तथाप्यसावप्रतिपद्यात्मसंस्कारमर्थशास्त्रेष्वनग्निसंशोधितेव हेमजातिर्नातिभाति बुद्धिः। बुद्धिहीनो हि भूभृदत्युच्छ्रितोऽपि परैरध्यारुह्यमाणमात्मानं न चेतयते। न च शक्तः साध्यं साधनं वा विभज्य वर्तितुम्। अयथावृत्तश्च कर्मसु प्रतिहन्यमानः स्वैः परैश्च परिभूयते। न चावज्ञातस्याज्ञा प्रभवति प्रजानां योगक्षेमयोराराधनाय। अतिक्रान्तशासनाश्च प्रजा यत्किञ्चनवादिन्यो यथाकथञ्चिद्वर्तिन्यः सर्वाः स्थितीः संकिरेयुः। निर्मर्यादश्च लोको लोकादितोऽमुतश्च स्वामिनमात्मानं च भ्रंशयते। आगमदीपदृष्टेन खल्वध्वना सुखेन वर्तते लोकयात्रा। दिव्यं हि चक्षुर्भूतभवद्भविष्यत्सु व्यवहितविप्रकृष्टादिषु च विषयेषु शास्त्रं नामाप्रतिहतवृत्ति। तेन हीनः सतोरप्यायतविशालयोर्लोचनयोरन्ध एव जन्तुरर्थदर्शनेष्वसामर्थ्यात्। अतो विहाय बाह्यविद्यास्वभिषङ्गमागमय दण्डनीतिं कुलविद्याम्। तदर्थानुष्ठानेन चावर्जितशक्तिसिद्धिरस्खलितशासनः शाधि चिरमुदधिमेखलामुर्वीमिति।**
 
@@ -1817,8 +1667,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
  **अभ्युत्थानशील** Disposed to activity. **प्रभावयिता** Investing with authority. **न्यग्भावयिता** Putting down. **अतिनदीष्णः**Very proficient.**अगण्यतामरेषु** Died ( was reckoned among the immortals ). **तदायति**His descendent. **सर्वैवात्मसम्पद्** Every self-excellence. **अप्रतिद्यात्मसंस्कारं**etc. Without being trained in the science of polity. **अयथावृत्तः**Acting wrongly. **संकिरेयुः**Will cause confusion. **आवर्जितशक्तिसिद्धिः**Having accomplished the ( three royal ) powers.
 
 ---------------------------
-
-
 
 **१८ द्रौपदी युधिष्ठिरमधिक्षिपति**
 
@@ -1856,8 +1704,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
 
 इतरेषां तु सर्वेषां कुरूणां कुरुसत्तम।  
 दुःखेनाभिपरीतानां नेत्रेभ्यः प्रापतज्जलम्॥९॥
-
-
 
 इदं च शयनं दृष्ट्वायच्चासीत्ते पुरातनम्।  
 शोचामि त्वां महाराज दुःखानर्हं सुखोचितम्॥१०॥
@@ -1899,8 +1745,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
 सत्कृतं विविधैर्यानैर्वस्त्रैरुच्चावचैस्तथा।  
 तं ते वनगतं दृष्ट्वाकस्मान्मन्युर्न वर्धते॥२२॥
 
-
-
 अयं कुरूव्रणे सर्वान् हन्तुमुत्सहते प्रभुः।  
 त्वत्प्रतिज्ञां प्रतीक्षंस्तु सहतेऽयं वृकोदरः॥२३॥
 
@@ -1941,8 +1785,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
 नूनं च तव वै नास्ति मन्युर्भरतसत्तम।  
 यत्ते भातृृंश्च मां चैव दृष्ट्वा न व्यथते मनः॥३५॥
 
-
-
 न निर्मन्युः क्षत्रियोऽस्ति लोके निर्वचनं स्मृतम्।  
 तदद्य त्वयि पश्यामि क्षत्रिये विपरीतवत्॥३६॥
 
@@ -1977,8 +1819,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
 **NOTES**
 
  **सायाह्ने** In the evening. **कृष्णा = द्रौपदी। तस्य अस्मासु न किञ्चन दुःखं विद्यते** He does not in the least feel sorry for us. **अजिनैः प्रतिवासितम्**You who are made to wear the skin of a deer for clothes. **ईदृशं दुःखमानीय** Bringing (you ) to such grief. **चतुर्णांपापानां** of the four wicked persons viz. Duryodhana, Karņa, Shakuni and Dusshāsana (mentioned in the next verse). **कुशबृसी** A seat of Kusha grass.**कौशिक** Silk. **चीरिन्** Wearing barks (of trees ), clothed in barks.
-
-
 
 **प्रतीक्षन्** Waiting for. ( **प्रतीक्षमाणः** ) **एकरथोजयत्** Conquered them, being a very skilled chariot-fighter. *Cf.* **अजयदेकरथेन वरूथिनीम्** Raghu. IX. 10 and 23. **मन्यु**Anger. **मृदुर्भवत्यषज्ञातः** *cf.* **मृदु सर्वत्र बाध्यते। काले प्राप्ते** etc.*Cf.* **तेजःक्षमा वा नैकान्तं कालज्ञस्य महीपतेः। पराक्रमः परिभवे।** Magha's Shishu. II.
 
@@ -2018,8 +1858,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
 
 मूढो यदि क्लिश्यमानः क्लिश्यतेऽशक्तिमान्नरः।  
 बलीयसां मनुष्याणां त्यजत्यात्मानमात्मना॥१०॥
-
-
 
 तस्यात्मानं संत्यजतो लोका नश्यन्त्यनात्मनः।  
 तस्माद्द्रौपद्यशक्तस्य मन्योर्नियमनं स्मृतम्॥११॥
@@ -2061,8 +1899,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
 क्षमा यज्ञः क्षमा धर्मः क्षमा वेदाः क्षमा श्रुतम्।  
 य एतदेवं जानाति स सर्वं क्षन्तुमर्हति॥२३॥
 
-
-
 **क्षमा ब्रह्म क्षमा सत्यं क्षमा भूतं च भावि च।  
 क्षमा तपः क्षमा शौचं क्षमयेदं धृतं जगत्॥२४॥**
 
@@ -2096,8 +1932,6 @@ cowboys in the wood, who are afraid of wasps, these riches — this wretched pel
   \[This episode is taken from the Mahābhārata.
 
   Arjuna, desirous of obtaining an unerring missile from god Shiva, went to the Himālayas and began to practise severe penance. God Shiva was pleased with him but before bestowing any boon on
-
-
 
 him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta and found an excuse to fight with Arjuna who showed his best skill, but was defeated. It was only at the time of worshipping the idol that Arjuna came to identify the Kirāta with God Shiva. God Shiva being pleased then bestowed on him the desired missile.\]
 
@@ -2133,8 +1967,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 
 तृतीयमपि मासं स पक्षेणाहारमाचरन्।  
 चतुर्थेत्वथ संप्राप्ते मासे भरतसत्तमः॥११॥
-
-
 
 वायुभक्षो महाबाहुरभवत्पाण्डुनन्दनः।  
 ऊर्ध्वबाहुर्निरालम्बः पादाङ्गुष्ठाग्रधिष्ठितः॥१२॥
@@ -2175,8 +2007,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 
 स संनिकर्षमागम्य पार्थस्याक्लिष्टकर्मणः।  
 मूकं नाम दनोः पुत्रं ददर्शाद्भुतर्शनम्॥२३॥
-
-
 
 वाराहं रूपमास्थाय तर्कयन्तमिवार्जुनम्।  
 हन्तुं परं दीप्यमानं तमुवाचाथ फाल्गुनः॥२४॥
@@ -2219,8 +2049,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 दोषान्स्वान्नार्हसेऽन्यस्मै वक्तुं स्वबलदर्पितः।  
 अवलिप्तोऽसि मन्दात्मन्नमे जीवन्विमोक्ष्यसे॥३६॥
 
-
-
   वैशम्पायन उवाच।
 
 तस्य तद्वचनं श्रुत्वा किरातस्यार्जुनस्तदा।  
@@ -2261,8 +2089,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 
 ततोऽर्जुनो ग्रस्तधनुः खड्गपाणिरतिष्ठत।  
 युद्धस्यान्तमभीप्सन्वै वेगेनाभिजगाम तम्॥४९॥
-
-
 
 तस्य मूर्ध्नि शितं खड्गमसक्तं पर्वतेष्वपि।  
 मुमोच भुजवीर्येण विक्रम्य कुरुनन्दनः॥५०॥
@@ -2306,8 +2132,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 भो भो फाल्गुन तुष्टोऽस्मि कर्मणाप्रतिमेन ते।  
 शौर्येणानेन धृत्या च क्षत्रियो नास्ति ते समः॥६२॥
 
-
-
 प्रीतिमानस्मि ते पार्थ भवान्सत्यपराक्रमः।  
 गृहाण वरमस्मत्तः काङ्क्षितं पुरुषोत्तम॥६३॥
 
@@ -2344,8 +2168,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 
  **त्सरु** hilt. **विहगैर्वल्गुनादिता (वृक्षाः)** Trees resounding with the sweet chirping of birds. **पुण्यशीतामलजलाः** (**नदीः**) Having holy, cool, clear water. **पूर्णे त्रिरात्रे** After every three nights. **द्विगुणेन कालेन** *i. e.*
 
-
-
 **पूर्णे षढ्रात्रे** After every six nights. **पक्ष** A fortnight. **आशीविषः** A serpent. **सज्जं कृत्वा** Having strung. **प्रहरिष्यत्** About to strike i-e. discharge (his arrow). **मयैष प्रार्थितः**I have first aimed at him.**अशनिप्रख्य** like the thunderbolt (of Indra ). **शैलसंहनन** Hard as a rock or mountain. **स्त्रीसहायः**Accompanied by (his) wife. **अमित्रहा = शत्रुघ्नः।दोषान्स्वान्नार्हसे**etc. It is not proper for you to heap your faults on others. **कोऽपि** Extra-ordinary. **अलोकसामान्यः। संप्रयुद्धः** Fought (**संप्रायुध्यत.** ) **असक्त =अप्रतिहत, अकुण्ठित। योधयामास = युयुधे**.
 
 **२१ राक्षसः स्वप्राणसमर्पणेन चन्दनदासं मोचयति**
@@ -2358,8 +2180,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 कुटुम्बिन्या पुत्रेण चानुगम्यमानश्चन्दनदासः। )
 
  ** चन्दनदासः। (सबाष्पम्) हा धिक्। हा धिक्। अस्माद्दशानामपि नित्यं चारित्र्यभङ्गभीरूणां चोरजनोचितं मरणं भवतीति नमः कृतान्ताय। अथवा**
-
-
 
 न नृशंसानामुदासीनेष्वितरेषु वा विशेषोऽस्ति। (समन्तादवलोक्य) भोः प्रियवयस्य विष्णुदास कथं प्रतिवचनमपि न मे प्रतिपद्यसे। अथवा दुर्लभास्ते खलु मानुषा य एतस्मिन् काले दृष्टिपथेऽपि तिष्ठन्ति। एतेऽस्मत्प्रियवयस्या अश्रुपातमात्रेण कृतनिवापसलिला इव कथमपि प्रतिनिवर्तमानाः शोकदीनवदना बाष्पगुर्व्या दृष्ट्या मामनुगच्छन्ति।
 
@@ -2392,8 +2212,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 **चन्दन०।** आर्ये अथ किमत्राक्रन्दसि स्वर्गं गतानां तावद्देवा दुःखितं परिजनमनुकम्पते। अन्यच्च मित्रकार्येण मे विनाशो नायुक्तकार्येण। तत् किं हर्षस्थानेऽपि रुद्यते।
 
 **प्र० चाण्डा०।** अरे बिल्वपत्र गृहाण चन्दनदासम्। स्वयमेव परिजनो गमिष्यति।
-
-
 
 ** द्वि० चाण्डा०।** अरे वज्रलोमन् एष गृह्णामि।
 
@@ -2435,8 +2253,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 
 — मुद्राराक्षसे सप्तमोऽङ्कः।
 
-
-
 **EXERCISES**
 
  1 Note the formation of **अस्मादृश** and **त्वदीय**. Can you give any other words thus formed?
@@ -2469,8 +2285,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 ** अस्मादृशानां...... कृतान्ताय** Bow to the god of death, that people like us who are afraid of deviating from the path of duty should die the death of a bandit ! **विशेषः**Distinction **अन्तरम्। प्रतिवचनमपि मे न प्रतिपद्यते** Does not give me any response. **कृतनिवासलिलाः**Who have offered libations of water. **असज्जनरुचौ (कलौ)** (Kali Age) in which tastes of the poeple are wicked. **प्राणैः ** *i. e.* **प्राणव्ययेन** At the cost of his life. **क्लिष्टम्** Eclipsed. **औशीनरीयं यशः**The glory of Shibi, who is said to have rescued & pigeon (**अग्नि**) from a falcon ( **इन्द्र** ) by offering himself instead.
 
 --------------------------------
-
-
 
 **२२ अजविलापः**
 
@@ -2512,8 +2326,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 शशिनं पुनरेति शर्वरी दयिता द्वन्द्वचरं पतत्रिणम्।  
 इति तौ विरहान्तरक्षमौ कथमत्यन्तगता न मां दहेः॥१२॥
 
-
-
 नवपल्लवसंस्तरेऽपि ते मृदु दूयेत यदङ्गमर्पितम्।  
 तदिदं विषहिष्यते कथं वद वामोरु चिताधिरोहणम्॥१३॥
 
@@ -2553,8 +2365,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 विलपन्निति कोसलाधिपः करुणार्थग्रथितं प्रियां प्रति।  
 अकरोपृथिवीरुहानपि स्रुतशाखारसबाष्पदूषितान्॥२५॥
 
-
-
 अथ तस्य कथंचिदङ्कतः स्वजनस्तामपनीय सुन्दरीम्।  
 विससर्ज तदन्त्यमण्डनामनलायागुरुचन्दनैधसे॥२६॥
 
@@ -2581,8 +2391,6 @@ him he wanted to test his devotee. He, therefore, disguised himself as a Kirāta
 **NOTES**
 
  **मार्दवं भजते** Becomes soft. **अपोहितुं** To rob, to take away. **प्रहरिष्यतः**Desirous of striking. **हिमसेकविपत्तिः** etc. The lotus plant whose death is caused by the fall of snow is, I think, another ( previous ) illustration proving the fact that God of Death kills tender objects with tender weapons. **भाग्यविप्लव**Misfortune. **अशनि** Lightning.**शब्दपतिः**Lord (husband) only in words (not in actuality). **भावनिबन्धना** Based on sincerity. त्वदुपावर्तनशङ्कि etc. The king, when ho sees her hair moving with the wind, thinks that the queen has come to life again. **विश्रान्तकथं** All talk in which has ceased. **विरहान्तर**The period of separation. **अत्यन्तगता** Gone for ever. **मिथुन** A couple**कृतदोहवः**Whose desire was fulfilled (by you)— This refers to the poetical convention that the Ashoka tree blossome only after it is kicked by a woman. **निवाप** An offering at the Shrāddha. **समदुःखसुखः**
-
-
 
 Sharing your sorrows and joys. **एकरसः**Full of love. **व्यवसायःप्रतिपत्तिनिष्ठुरः** Your act is cruel by the reason of its determination.**परिशून्य** Quite vacant. **मधु** Wine. **एतावत्** Only this much. **तदन्त्यमण्डना**With that (*i. e.* the celestial flowers) as her last decoration. **अनलाय विससर्ज** Consigned to fire **वाच्यदर्शनात्** Perceiving the censure.
 
@@ -2616,8 +2424,6 @@ Sharing your sorrows and joys. **एकरसः**Full of love. **व्यव�
 ( इत्युत्थाय परिक्रामतः। )
 
 **  लक्ष्मणः।** इदं तदालेख्यम्। एष मिथिलावृत्तान्तः। आर्ये, पश्य पश्य।
-
-
 
 **संबन्धिनो वसिष्ठादीनेष तातस्तवार्चति।  
 गौतमश्च शतानन्दो जनकानां पुरोहितः॥३॥**
@@ -2658,8 +2464,6 @@ Sharing your sorrows and joys. **एकरसः**Full of love. **व्यव�
 
 जीवत्सु तातपादेषु नवे दारपरिग्रहे।  
 मातृभिश्चिन्त्यमानानां ते हि नो दिवसा गताः॥६॥
-
-
 
 इयमपि तदा जानकी
 
@@ -2707,8 +2511,6 @@ Sharing your sorrows and joys. **एकरसः**Full of love. **व्यव�
 
 ** सीता।** अयि देव रघुकुलानन्द, एवं मम कारणात् क्लिष्टोऽसि।
 
-
-
  **लक्ष्मणः।** (रामं निर्वर्ण्य।साकूतम्।) आर्य किमेतत्।
 
 अयं ते बाष्पौघस्त्रुटित इव मुक्तामणिसरो  
@@ -2748,8 +2550,6 @@ Sharing your sorrows and joys. **एकरसः**Full of love. **व्यव�
  **लक्ष्मणः।** अतः परमार्यस्य तत्रभवतां कपिराक्षसानां चासंख्यातान्युत्तरोत्तराणि कर्माश्चर्याणि। परिश्रान्ता चेयमार्या। तद्विज्ञापयामि विश्राम्यतामिति।
 
 — उत्तररामचरिते प्रथमोऽङ्कः।
-
-
 
 **EXERCISES**
 
@@ -2791,8 +2591,6 @@ Sharing your sorrows and joys. **एकरसः**Full of love. **व्यव�
 
 –––––––––––––
 
-
-
 **२४ यक्षसंदेशः**
 
 \[This is an extract from Kalidasa's exquisite lyric poem Meghadūtam.\]
@@ -2826,8 +2624,6 @@ Sharing your sorrows and joys. **एकरसः**Full of love. **व्यव�
 तत्कल्याणि त्वमपि नितरां मा गमः कातरत्वम्।  
 कस्यात्यन्तं सुखमुपनतं दुःखमेकान्ततो वा  
 नीचैर्गच्छत्युपरि च दशा चक्रनेमिक्रमेण॥६॥
-
-
 
 शापान्तो मे भुजगशयनादुत्थिते शार्ङ्गपाणौ  
 शेषान्मासान्गमय चतुरो लोचने मीलयित्वा।  
@@ -2864,8 +2660,6 @@ Sharing your sorrows and joys. **एकरसः**Full of love. **व्यव�
 
   3 Dissolve and name the compounds —**सुलभविपदाम्। शब्दाख्येयम्। मुक्तास्थूलाः। तुषाराद्रिवाताः। शार्ङ्गपाणिः। असितनयना। विरहध्वंसिनः। त्रिनयनवृषोत्खातकूटात्॥ सम्भृतश्रीः।**
 
-
-
  
 
 4 Study the following usages —**मम वचनात्। मन्मुखेन। श्रवणविषयमतिक्रान्तः। अन्यान् चतुरो मासान् गमय। कातरत्वंमा गमः। मयि अविश्वासिनी मा भूः। प्रत्यादेशासान्न खलु भवतो धीरतां कल्पयामि।**
@@ -2890,8 +2684,6 @@ Sharing your sorrows and joys. **एकरसः**Full of love. **व्यव�
 **२५ गरुड-प्रतिज्ञा**
 
  \[ Nāgānanda is one of the plays ascribed to king Harsha who lived in the first half of the seventh century. Shri Harsha writes in a style which is neither very easy and poetic nor the same time very rough and elevated. He is, in point of style, midway between the two, though very often he tends to the latter. Two other plays attributed to him are **प्रियदर्शिका** and **रत्नावली** \].
-
-
 
 (ततः प्रविशत्यासनस्थः पुरः पतितनायको गरुडः।)
 
@@ -2954,8 +2746,6 @@ Sharing your sorrows and joys. **एकरसः**Full of love. **व्यव�
 
 द्वयोरपि भवतोर्वध्यचिह्नम्। कः खलु नाग इति नावगच्छामि।
 
-
-
 **शङ्खचूडः।** कथमस्थान एव भ्रान्तिः।
 
 आस्तां स्वस्तिकलक्ष्म वक्षसि तनौ नालोक्यते कञ्चुको  
@@ -2984,8 +2774,6 @@ Sharing your sorrows and joys. **एकरसः**Full of love. **व्यव�
 युक्तं नेतुं भवतः पातालतलादपि तलं माम्॥६॥
 
   **गरुडः।** अये करुणार्द्रचेतसानेन महात्मना मद्ग्रासगोचरपतितस्यास्य फणिनः प्राणान् परिरक्षितुं स्वदेह आहारार्थमुपनीतः। तन्महदकृत्यमेतन्मया कृतम्। किं बहुना बोधिसत्व एवायं व्यापादितः। तदस्य महतः पापस्याग्निप्रवेशादृते नान्यत्प्रायश्चित्तं पश्यामि। तत् क्व नु खलु वह्निं समासादयामि। ( दिशोऽवलोक्य। ) अये अमी केऽपि गृहीताग्नय इत एवाभिवर्तन्ते। तथावदेतान्प्रतिपालयामि। अये कोऽयं हा पुत्र जीमूतवाहनेति ब्रवीति। तत्सुव्यक्तमनेनास्य पित्रा भवितव्यम्। ततः कृतमेतदीयेनाग्निना। न शक्नोम्यस्य पुत्रघातालज्जया मुखं दर्शयितुम्। अथवा किमग्निहेतोः पर्याकुलोऽस्मि। तटस्थ एवास्मि जलनिधेः। तद्यावदिदानीम्
-
-
 
 ज्वालाभङ्गेस्त्रिलोकग्रसनरसलसत्कालजिह्वाग्रकल्पैः  
 सर्पद्भिः सप्तहस्तैस्तृणमिव कवलीकर्तुमीशे समुद्रान्।  
@@ -3026,8 +2814,6 @@ NOTES
 
   **शिरामुखैः** Though the openings in the veins. **ऊर्जितम्** Nobly. **विफलीकृतो मे मनोरथः**Has frustrated my plan. **लोकालोक** is a mountain to the farthest end of the world. **सुव्यक्तं** It is clear that. **तटस्थ**
 
-
-
 Standing on the shore. **कर्तुमीशे** (Sc. **वाडवाग्नौ** ) Submarine fire that is able to swallow the oceans. **कल्पावसानज्वलनभयकरे** Frightening like the fire at the time of the destruction of the world. **नायं प्रतीकारोऽस्य पापस्य** This is not the way to get rid of this sin. **प्रतिबोधितः** Awakened.
 
 ––––––––––––
@@ -3062,8 +2848,6 @@ Standing on the shore. **कर्तुमीशे** (Sc. **वाडवाग
 
 प्रेषयिष्यति दुर्धर्षो रामो न ह्यपरीक्षितम्।  
 पराक्रममविज्ञाय मत्सकाशं विशेषतः॥९॥
-
-
 
 कुशली यदि काकुत्स्थः किं न सागरमेखलाम्।  
 
@@ -3106,8 +2890,6 @@ Standing on the shore. **कर्तुमीशे** (Sc. **वाडवाग
 
 करिष्यति पुरीं लङ्कां काकुत्स्थः शान्तराक्षसाम्॥२२॥
 
-
-
 तत्र यद्यन्तरा मृत्युर्यदि देवा महासुराः।  
 स्थास्यन्ति पथि रामस्य स तानपि वधिष्यति॥२३॥
 
@@ -3145,8 +2927,6 @@ NOTES
 
  **विभूषितं**An ornament. **उडुराज** The lord of constellations i. e. the moon. **भर्तुः सन्देशहर्षिता** Rejoiced at the message of her husband. **राक्षस-**
 
-
-
 **पद** The sent of the demon i. e. his capital, Lanka. **गोष्पद** A small puddle. **सागरमेखला** Having a girdle of the ( four) oceans. *of.* **चतुरुदधिमालामेखला**। **शक्तिमन्तौ** ( with Loc.) Able to. **ममैव न तु दुःखानां** etc. *cf.* **ममैव जन्मान्तरपातकानां विपाकविस्फूर्जथुरप्रसह्यः** Raghu. XIV. **विपर्यय** end. **कच्चित्** I hope.**मह्यं** for **मम**। **विष्टम्भयित्वा** for **विष्टभ्य**। **न शर्म लभते** He is not happy, he is ill at ease. **स्त्रीमनोहर** Liked by women. **पञ्चमम्** In the fifth division of the day.
 
 **——————————**
@@ -3157,15 +2937,11 @@ NOTES
 
  तात चन्द्रापीड, विदितवेदितव्यस्याधीतसर्वशास्त्रस्य ते नाल्पमप्युपदेष्टव्यमस्ति। केवलं च निसर्गत एवाभानुभेद्यमरत्नालोकोच्छेद्यमप्रदीपप्रभापनेयमतिगहनं तमो यौवनप्रभवम्। अपरिणामोपशमो दारुणो लक्ष्मीमदः। अशिशिरोपचारहार्योऽत्यन्ततीव्रो दर्पदाहज्वरोष्मा। गर्भेश्वरत्वमभिनवयौवनत्वमप्रतिमरूपत्वममानुषशक्तित्वं चेति महतीयं खल्वनर्थपरम्परा। सर्वाविनयानामेकैकमप्येषामायतनं किमुत समवायः। यौवनारम्भे च प्रायः शास्त्रजलप्रक्षालननिर्मलापि कालुष्यमुपयाति बुद्धिः। अपहरति च वात्येव शुष्कपत्रं समुद्भूतरजोभ्रान्तिरविदूरमात्मेच्छया यौवनसमये पुरुषं प्रकृतिः। इन्द्रियहरिणहारिणी च सततमतिदुरन्तेयमुपभोगमृगतृष्णिका। भवादृशा एव भवन्ति भाजनान्युपदेशानाम्। अपगतमले हि मनसि स्फटिकमणाविव रजनिकरगभस्तयो विशन्ति सुखमुपदेशाः। अयमेव चानास्वादितविषयरसस्य ते काल उपदेशस्य। कुसुमशरशरप्रहारजर्जरिते हि हृदये जलमिव गलत्युपदिष्टम्। अकारणं च भवति दुष्प्रकृतेरन्वयः श्रुतं वा विनयस्य। चन्दनप्रभवो न दहति किमनलः। किंवा प्रशमहेतुनापि न प्रचण्डतरीभवति वडवानलो वारिणा। गुरूपदेशश्च नाम पुरुषाणामखिलमलप्रक्षालनक्षममजलं स्नानं नोद्वेगकरः प्रजागरः। विशेषेण तु राज्ञाम्। विरला हि तेषामुपदेष्टारः। प्रतिशब्दक इव राजवचनमनुगच्छति जनो भयात्। अलीकाभिमानोन्मादकारीणि धनानि। राज्यविषविकारतन्द्राप्रदा राजलक्ष्मीः।
 
-
-
  **आलोकयतु तावत्कल्याणाभिनिवेशी लक्ष्मीमेव प्रथमम्। इयं हि लक्ष्मीः क्षीरसागरात्पारिजातपल्लवेभ्यो रागमिन्दुशकलादेकान्तवक्रतामुच्चैःश्रवसश्चञ्चलतां कालकूटान्मोहनशक्तिं मदिराया मदं कौस्तुभमणेरतिनैष्ठुर्यमित्येतानि सहवासपरिचयवशाद्विरहविनोदनचिह्नानि गृहीत्वेवोद्गता। न ह्येवंविधमपरमपरिचितमिह जगति किञ्चिदस्ति यथेयमनार्या। लब्धापि खलु दुःखेन परिपाल्यते। न परिचयं रक्षति। नाभिजनमीक्षते। न रूपमालोकयते। न शीलं पश्यति। न वैदग्ध्यं गणयति। गन्धर्वनगरलेखेव पश्यत एव नश्यति। सरस्वतीपरिगृहीतमीर्ष्ययेव नालिङ्गति जनम्। गुणवन्तमपवित्रमिव न स्पृशति। उदारसत्त्वममङ्गलमिव न बहु मन्यते। तोयराशिसंभवापि तृष्णां संवर्धयति। अमृतसहोदरापि कटुकविपाका। यथा यथा चेयं चपला दीप्यते तथा तथा दीपशिखेव कज्जलमलिनमेव कर्म केवलमुद्वमति। न हि तं पश्यामि यो ह्यपरिचितयानया न निर्भरमुपगूढो यो वा न विप्रलब्धः।**
 
  एवंविधया चानया दुराचारया कथमपि दैववशेन परिगृहीता विक्लवा भवन्ति राजानः। तथा हि। केचित् खद्योतोन्मेषमुहूर्तमनोहराभिर्मनस्विगर्हिताभिःसंपद्भिः प्रलोभ्यमाना आसन्नमृत्यव इव बन्धुजनमपि नाभिजानन्ति। तृष्णाविषमूर्च्छिताः कनकमयमिव सर्वं पश्यन्ति। अनुदिवसमापूर्यमाणाः पापेनैवाध्मातमूर्तयो भवन्ति। तदवस्थाश्च व्यसनशतशरव्यतामुपगता वल्मीकतृणाग्रावस्थिता जलबिन्दव इव पतितमप्यात्मानं नावगच्छन्ति।
 
  अपरे तु स्वार्थनिष्पादनपरैर्धनपिशितग्रासगृध्रैरास्थाननलिनीबकैर्द्यूतं विनोद इति परदाराभिगमनं वैदग्ध्यमिति मृगया श्रम इति पानं विलास इति प्रमत्तता शौर्यमिति स्वदारपरित्यागोऽव्यसनितेति गुरुवचनावधीरणमपरप्रणेयत्वमिति नृत्यगीतवाद्यवेश्याभिसक्ती रसिकतेति परिभवसहत्वं क्षमेत्यविशेषज्ञताऽपक्षपातित्वमिति दोषानपि गुणपक्षमध्यारोपयद्भिः प्रतारणकुशलैर्धूर्तैरमानुषोचिताभिः स्तुतिभिः प्रतार्यमाणा वित्तमदमत्तचित्ता निश्चेतनतया तथैवात्मन्यारोपितालीकाभिमाना मर्त्यधर्माणोऽपि दिव्यांशावतीर्णमिवात्मानमुत्प्रेक्षमाणाः सर्वजनस्योपहास्यतामुपयान्ति। मिथ्यामाहात्म्यगर्वनिर्भराश्च न प्रणमन्ति देवताभ्यः। नाभिवादयन्त्यभिवादनार्हान्। जरावैक्लव्यप्रलपितमिति पश्यन्ति वृद्धजनोपदेशम्। आत्मप्रज्ञापरिभव इत्यसूयन्ति सचिवोपदे-
-
-
 
 शाय। कुप्यन्ति हितवादिने। सर्वथा तमभिनन्दन्ति तमालपन्ति तं पार्श्वेकुर्वन्ति तस्य वचनं शृण्वन्ति तं बहुमन्यन्ते योऽहर्निशमनवरतमुपरचिताञ्जलिरधिदैवतमिव विगतान्यकर्तव्यः स्तौति यो वा माहात्म्यमुद्भावयति।
 
@@ -3187,8 +2963,6 @@ NOTES
 
  **गर्भेश्वरत्वम्** Lordship inherited from birth. (*i.e*being born with a silver spoon in the mouth). **अप्रतिमरूपत्वम्** Having an extraordinary (excellent ) form (beauty). **अनर्थपरम्परा** A long line of
 
-
-
 evils or calamities. **एकैकं** Each separately. **समवायः** Collection, group. **मृगतृष्णिका** Mirage (of worldly pleasures). **अतिदुरन्ता** Quite endless. **विशन्ति** Enter, take effect. **कुसुमशर** Cupid, god of love **उपदिष्टं** Words of advice **प्रचण्डतरीभवति** Rages all the more wildly. **अजलं स्नानं** Bath without water. **इन्दुशकलात्** From the streak of the moon. **उच्चैःश्रवस्** Name of the horse of Indra. *Cf.* **चाञ्चल्यमुच्चैःश्रवसस्तुरङ्गात्** *etc*. **दुःखेन परिपाल्यते** Is hard to keep. **गन्धर्वनगरलेखेव** Like the outline of an aerial city, **खद्योतोन्मेष***etc*. Temporarily charming like the twinkling of the fire-fly. **कनकमयं** Golden, yellowish (as a swooning person finds everything to be). **आघ्यातमूर्तयः**With their bodies puffed up (*i. e.* they grow fat) being stuffed as it were with sin. **अपरे तुं**etc. For these lines *cf.* Lesson 29 where we find how all this has been actually done. **मर्त्यधर्माणोऽपि**etc. Considering themselves as partial incarnation of god, though they are no better than human beings. The king was, however, popularly believed to be an incarnation of god as can be seen from various descriptions of kings in classical literature. *cf.* **'महती देवता ह्येषा नररूपेण तिष्ठति। एवं मुखरीकृतवान्**, Made me speak thus. **सिद्धादेशो भवति**Has his commands obeyed.
 
 **———————————**
@@ -3198,8 +2972,6 @@ evils or calamities. **एकैकं** Each separately. **समवायः**
  \[ This passage is taken from the Pāravatī-Pariṇaya, a small dramatic work, attributed to Bāṇabhaṭṭa. Bāṇa is noted for his bombastic style, long involved construction abounding in very long compounds. In this passage, however, such compounds and construction are conspicuous by their absence so much so that some scholars doubt whether Bāṇabhaṭṭa, the author of the famous prose works Kadambarī and Harsha-Charita, could have written this drama.
 
  Summary: The demon Tāraka was sorely oppressing the gods; and none else but the son of Shiva and Pārvati could kill him. Such was the boon he had obtained from the Creator. Shiva was, however, practising severe penance and it was no easy task to persuade him to give up penance and marry Pārvati. In the course of conversation, Brihaspati casually mentions the name of Cupid who is accordingly invited by Indra and entrusted with the difficult task, which he accepts, though not without hesitation.\]
-
-
 
 (ततः प्रविशति देवदूतः।)
 
@@ -3238,8 +3010,6 @@ evils or calamities. **एकैकं** Each separately. **समवायः**
 
  **महेन्द्रः।** गुरो, किमतः परं विधातव्यम्। यथा पूर्वेद्युरेव तारकदनुजाक्रान्तिमसहमानैरस्माभिरमरपरिषदा सार्धं भगवानुपस्थितः पद्मयोनिराचष्ट। यथा सेनान्यमन्तरेण नान्येन तारको निहन्तव्यः। तदुत्पादने चायमभ्युपायः।
 
-
-
 हैमवते कटकतटे शशाङ्कचूडामणिस्तपस्तनुते।  
 यत्नेन येनकेनचिदस्तु प्रणयी स पार्वत्याम्॥३॥
 
@@ -3275,8 +3045,6 @@ evils or calamities. **एकैकं** Each separately. **समवायः**
 शान्तिकं पौष्टिकं कर्तुं शक्ता नः केवलं मतिः॥६॥
 
 यतो मदीयापि बुद्धिरिमां वितर्कपदवीं नावतीर्णा। तदविलम्बितमेव समाहूयतां कामः।
-
-
 
  **महेन्द्रः।** (विलोक्य सहर्षम्।)
 
@@ -3321,8 +3089,6 @@ evils or calamities. **एकैकं** Each separately. **समवायः**
 
  **बृहस्पतिः।** तामिदानीं पितुर्निदेशेन सपरिजना पार्वती सौभाग्यमयीव सालभञ्जिका सौन्दर्यदेवतेव विग्रहिणी परिचरति।
 
-
-
  **कामः।** ततस्ततः।
 
  **बृहस्पतिः।** तयोश्च मेलने दिविषदां महती कार्यसिद्धिः। सा च भवन्तमेव कटाक्षयति।
@@ -3360,8 +3126,6 @@ evils or calamities. **एकैकं** Each separately. **समवायः**
 स्त्वां रक्षन्तु यशश्च तेऽस्तु विपुलं लोकत्रये दीव्यतु।  
 शौर्यंत्वद्भुजयोरिदं च भवतात्पुङ्खानुपुङ्खोदयं  
 किञ्चोद्योगमिमं समर्थयतु नः स्वच्छन्दचेष्टाविधिः॥ १५॥
-
-
 
 (कामो रतिवसन्ताभ्यां सह शङ्कमानो निष्कान्तः।)
 
@@ -3422,8 +3186,6 @@ NOTES
 
  **विलोक्यसे= दृश्यसे** You appear to be. **अतिभूमिं गमिता** Carried to excess. **आमूलमुन्मूल्य** Taking out root and branch, exterminating.
 
-
-
 **अर्जुनी = धेनुः। स्त्रैणम् = स्त्रीणां समूहः** All the damsels. **कुलिशं वज्रं। मद्वाहौ जाग्रति** Loc. Abs. As long as I (lit. my arm) am watchful.**परिग्रह** To accept, to marry,**समीहितं =इष्टं।** **यो विकारपदवीं न प्रापितः** Who is not disturbed or perturbed **अनञ्जनः= निरञ्जनः।** **कियत्** How meagre, how futile.**संवननं = वशीकरणमन्त्रः।** **पुष्पेषुः =मदनः। स्थाने** *ind.* Properly, rightly. **मघवन् - इन्द्र**\। **शतकोटि** Indra's thunderbolt.**सापत्नं** Enmity. **निरतिशयशीतलान्तःकरणः** With a perfectly unaffected and calm mind. **परमेश्वरमपिसामान्यवृत्या पर्यजीगणम्I** spoke of even the great god as though he were an ordinary person. **वार्ताविशेषितपुरत्रितयो महेशः**God Shiva who burnt the three cities (*lit.* who left the three cities only in name). **खण्डपरशुः = शिवः। आत्मव्ययेन = प्राणैः** At the cost of my life. **ईषत्कर** Easy. **अनुरूपम्** According to.
 
 —————————
@@ -3435,8 +3197,6 @@ NOTES
  In this passage we see how cleverly evil habits are shown-almost proved-to be very useful. This passage affords an excellent example of "**गुणायन्ते दोषाः**" — though by no means in the mouth of a good man in this case.\]
 
  **देव यथा मृगया ह्यौपकारिकी न तथान्यत्। अत्र हि व्यायामोत्कर्षादापत्सूपकर्ता दीर्घाध्वलङ्घनक्षमो जङ्घाजवः, कफापचयादारोग्यैकमूलमाशयाग्निदीप्तिः, मेदोपकर्षादङ्गानां स्थैर्यकार्कश्यातिलाघवादीनि, शीतोष्णवर्षक्षुत्पिपासासहत्वं, सत्वानामवस्थान्तरेषु चित्तचेष्टितज्ञानं, वृकव्याघ्रादिघातेन स्थलपथशल्यशोधनं, शैलाटवीप्रदेशानां विविधकर्मक्षमाणामालोचनं, आटविकवर्गविश्रम्भणं, उत्साहशक्तिसन्धुक्षणेन प्रत्यनीकवित्रासनमिति बहुतमा गुणाः। द्यूतेऽपि द्रव्यराशेस्तृणवत्यागादनुपमानमाशयौदार्यं, जयपराजयानवस्थानाद्धर्षविषादयोरविधेयत्वं, पौरुषैकनिमित्तस्यामर्षस्य वृद्धिः, अक्षहस्तभूम्यादिगोचराणामत्यन्तदुरुपलक्ष्याणां कूटकर्मणामुपलक्षणादनन्त-बुद्धिनैपुण्यं, एकविषयोपसंहाराच्चित्तस्यातिचित्रमैकाग्र्यं, अध्यवसायसहचरेषु**
-
-
 
 साहसेष्वभिरतिः, अतिकर्कशपुरुषप्रतिसंसर्गादनन्यधर्षणीयता, मानावधारणं, अकृपणं च शरीरवापनमिति। उत्तमाङ्गनाभोगेऽप्यर्थधर्मयोः सफलीकरणं भावज्ञानकौशलं, अलोभक्लिष्टमाचेष्टितं, अखिलासु कलासु वैचक्षण्यं, अलब्धोपलब्धिलब्धानुरक्षणरक्षितोपभोगभुक्तानुसन्धानरुष्टानुनयादिष्वजस्रमभ्युपायरचनया बुद्धिवाचोः पाटवं, उत्कृष्टशरीरसंस्कारात्सुभगवेषतया लोकसंभावनीयता, परं सुहृत्प्रियत्वं, गरीयसी परिजनव्यपेक्षा, स्मितपूर्वाभिभाषित्वं,दाक्षिण्यानुवर्तनं, अपत्योत्पादनेनोभयलोकश्रेयस्करत्वमिति। पानेऽपि नानाविधरागभङ्गपटीयसामासवानामासेवनात्स्पृहणीयवयोव्यवस्थापनं, अहङ्कारप्रकर्षादशेषदुःखतिरस्करणं, अपराधप्रमार्जनान्मनःशल्योन्मार्जनं, अश्राव्यशंसिभिरनर्गलप्रलापैर्विश्वासोपबृंहणं, मत्सराननुबन्धादानन्दैकतानता संविभागशीलतया सुहृद्वर्गसंवर्गणं, अनुत्तराणि विलसितानि, भयार्तिहरणाच्चसाङ्ग्रामिकत्वमिति। वाक्पारुष्यं दण्डो दारुणो दूषणानि चार्थानामेव यथावकाशमौपकारिकाणि। नहि मुनिरिव नरपतिरुपशमरतिरभिभवितुमरिकुलमलं, अवलम्बितुं च लोकतन्त्रमिति।
 
@@ -3459,8 +3219,6 @@ EXERCISES
 NOTES
 
 ** व्यसनसप्तकम्** *cf.* **स्त्रियोऽक्षा मृगया पानं वाक्पारुष्यार्थदूषणे।** **दण्डपारुष्यमित्येतन्महाव्यसनसप्तकम्॥ औपकारिकी** Helpful, useful. **उत्कर्ष** A great deal. **अपचय** Decrease, loss, reduction. **(= अपकर्ष). स्थैर्यं = कर्मसहनत्वम्** Tenacity. **सत्त्वानामवस्थान्तरेषु** etc. Knowledge of the mental operations of (various) animals under different circumstances. **गवलः = अरण्यमहिषः। सस्यलोप** Destruction of crops. **स्थलपथशल्यशोधनम्** Removing the dangers on the land-route. **विविधकर्मक्षमाणां (प्रदेशानाम्)**
-
-
 
 Which are fit for various things. **विश्रम्भणम् = विश्वासोत्पादनम्। संधुक्षणम्** Kindling, increasing. **प्रत्यनीकवित्रासनम्** Frightening the inimical host; inspiring the hostile forces with terror. **बहुतमाः = बहवः। आशयौदार्यम् = चित्तौदार्यम्। अनवस्थान** Instability. **अक्षहस्तभूम्यादिगोचराणां (कूटकर्मणाम्)** (Frauds) committed with the help of dice, manual skill, and the ground. **एकविषयोपसंहार**Concentration on one subject. **( = तदेकवृत्तित्वम्). अध्यवसायसहचरेषु साहसेष्वभिरतिः**Love of daring which always accompanies resoluteness (firm mind). **धर्षणीयता = अभिभवनीयत्वम्। सम्भावनीयता = संमानः, मान्यता। नानाविधरागभङ्गपटीयसाम्........**(Wine) Skilled in (creating) shades of various colours. **अङ्गजरागः = कामः। मत्सराननुबन्धात्** etc. Continuity of joy owing to absence of jealousy. **संवर्गणम् =एकीकरणम्।**
 
@@ -3487,8 +3245,6 @@ Which are fit for various things. **विश्रम्भणम् = वि�
 
 स धर्मस्थसखः शश्वदर्थिप्रत्यर्थिनां स्वयम्।  
 ददर्श संशयच्छेद्यान्व्यहारानतन्द्रितः॥६॥
-
-
 
 ततः परमभिव्यक्तसौमनस्यनिवेदितः।  
 युयोज पाकाभिमुखैर्भृत्यान्विज्ञापनाफलैः॥७॥
@@ -3529,8 +3285,6 @@ Which are fit for various things. **विश्रम्भणम् = वि�
 स्तूयमानः स जिह्राय स्तुत्यमेव समाचरन्।  
 तथापि ववृधे तस्य तत्कारिद्वेषिणो यशः॥१९॥
 
-
-
 एवमुद्यन्प्रभावेण शास्त्रनिर्दिष्टवर्त्मना।  
 वृषेव देवो देवानां राज्ञां राजा बभूव सः॥२०॥
 
@@ -3562,8 +3316,6 @@ NOTES
 
  **सोऽभूद्भग्नव्रतः** etc. Whatever he did could never be undone. But he always restored the defeated kings to their kingdom even after having conquered their territories. Thus here what he did was undone by himself or in other words he became **भग्नव्रत. वयोरूपविभूतीनां**etc. *Cf*. **गर्भेश्वरत्वमभिनवयौवनत्वं** etc. XXVII. **निकषे हेमरेखेव** Like the gold streak, left on the surface of a touch-stone, which generally sticks fast to it. St. 15. The second line contains a very fine illustration. **स्वपन्नपि जजागार** He was wakeful even while asleep. **यथा साधारणीभूतम्** etc. So that the epithet **धनद** became common to both himself and Kubera. **धनदः** *i.e***धनं दयते इति = कुबेरः। धनं ददाति इति = अतिथिः।**
 
-
-
 **३१ सेयं याति शकुन्तला पतिगृहम्**
 
  \[ This passage is admittedly the best part of the best play of the best poet. Kālidāsa's Shākuntala is said to be the most charming. play that was ever written in Sanskrit; and this portion of the play has a very strong hold on the mind of its reader. Kālidāsa is supposed to have lived in the court of king Vikramāditya in the fourth century A. D. He is famous both as a poet and as a dramatist. He is said to have composed a number of works of which the most famous are Raghu-vansham, Kumāra-sambhavam, Megha-dūtam,Vikramorvashiyam, Mālavikāgnimitram, andShākuntalam.
@@ -3591,8 +3343,6 @@ va, thinking it fit to send Shakuntalā to her husband, makes arrangements for h
  **गौतमी।** भगवन्, वरः खल्वेषः। नाशीः।
 
  **काश्यपः।** वत्से, इतः सद्योहुताग्नीन् प्रदक्षिणीकुरुष्व।
-
-
 
 (सर्वे परिक्रामन्ति)
 
@@ -3636,8 +3386,6 @@ va, thinking it fit to send Shakuntalā to her husband, makes arrangements for h
 
  **गौतमी।** जाते, ज्ञातिजनस्निग्धाभिरनुज्ञातगमनासि तपोवनदेवताभिः। प्रणम भगवतीः।
 
-
-
  **शकुन्तला।** (सप्रणामं परिक्रम्य) नन्वार्यपुत्रदर्शनोत्सुकाया अप्याश्रमपदं परित्यजन्त्यांदुःखेन मे चरणौ पुरतः प्रवर्तेते। (स्मृत्वा) तात लताभगिनीं वनज्योत्स्नां तावदामन्त्रयिष्ये।
 
  **काश्यपः।** अवैमि ते तस्यां सोदर्यस्नेहम्। इयं तावद्दक्षिणेन।
@@ -3669,8 +3417,6 @@ va, thinking it fit to send Shakuntalā to her husband, makes arrangements for h
 सोऽयं न पुत्रकृतकः पदवीं मृगस्ते॥८॥
 
  **शकुन्तला।** वत्स, किं सहवासपरित्यागिनीं मामनुसरसि। अचिरप्रसूतया जनन्याविना वर्धित एव। इदानीमपि मया विरहितं त्वां तातश्चिन्तयिष्यति। निवर्तस्व तावत्। (इति रुदती प्रस्थिता)
-
-
 
  **काश्यपः।**
 
@@ -3706,8 +3452,6 @@ va, thinking it fit to send Shakuntalā to her husband, makes arrangements for h
  **शकुन्तला।** (पितरमाश्लिष्य) कथमिदानीं तातस्याङ्कात् परिभ्रष्टा मलयतटोन्मूलिता चन्दनलतेव देशान्तरे जीवितं धारयिष्ये।
 
  **काश्यपः।** वत्से, किमेवं कातरासि।
-
-
 
 अभिजनवतो भर्तुः श्लाघ्ये स्थिता गृहिणीपदे  
 विभवगुरुभिः कृत्यैस्तस्य प्रतिक्षणमाकुला।  
@@ -3745,8 +3489,6 @@ va, thinking it fit to send Shakuntalā to her husband, makes arrangements for h
 उटजद्वारविरूढं नीवारबलिं विलोकयतः॥१४॥
 
  गच्छ। शिवास्ते पन्थानः सन्तु।
-
-
 
 (निष्क्रान्ता शकुन्तला सहयायिनश्च)
 
@@ -3813,8 +3555,6 @@ EXERCISES
 
 शिवास्ते पन्थानः सन्तु।
 
-
-
 NOTES
 
  **आचारं तावत्प्रतिपद्यस्व** Hasten to do him reverence. **भर्तुर्बहुमता भव** Mayest thou be highly esteemed by thy lord. **प्रतिष्ठस्व** Set out onthy journey. **प्रियमण्डना**etc. Though fond of ornaments she never robbed you of any sprouts through her affection for you. **ज्ञातिजनस्निग्धाभिः** Who love thee with the affection of a relative. **सोदर्यस्नेह** Sisterly affection. **दक्षिणेन** On the right. **व्रणविरोपणं** (sc. **तैलं**) Healing balm. **पुत्रकृतकः**Nurseling. **सहवासपरित्यागिनी** Who deserts her companions. **ओदकान्तं स्निग्धो जन** etc. A beloved person should be accompanied as far as the (margin of the first) stream. **अबान्धवकृता** **स्नेहप्रवृत्तिः**The pure spontaneous love (not created in her by any of her relatives).**सामान्यप्रतिपत्तिपूर्वकं** etc. You should love her equally with your imperial consorts. **लौकिकज्ञा वयम्** We are not ignorant of worldly matters. **भाग्येष्वनुत्सेकिनी** When fortune smiles, be not puffed up. **प्रतिक्षणमाकुला** Constantly engrossed in great works befitting his (imperial) dignity. **अतिस्नेहः पापशङ्की** Excessive love always apprehends evil (where it is least suspected). *Cf.* **'प्रेम पश्यति भयान्यपदेऽपि'.परिहीयते गमनवेला** The auspicious time for our journey is fast passing. **शिवास्ते पन्थानः सन्तु** May thy journey be prosperous. **स्नेहप्रवृत्तिरेवं दर्शिनी** It is (your) affection that makes (you) view (it) in this light.
@@ -3827,13 +3567,9 @@ NOTES
 
  **चन्द्रापीडस्तु प्रथममेव तस्या रूपेण विनयेन दाक्षिण्येन मधुरालापतया निःसङ्गतया चातितपस्वितया च प्रशान्तत्वेन च निरभिमानतया च महानुभावत्वेन च शुचितया चोपारूढगौरवोऽभूत्। तदानीं तु तेनापरेण दर्शितसद्भावेन स्ववृत्तान्तकथनेन तया च कृतज्ञतया हृतहृदयः सुतरामारोपितप्रीतिरभवत्। आर्द्रीकृतहृदयश्च शनैः शनैरेनामभाषत। भगवति क्लेशभीरुरकृतज्ञः सुखासङ्गलुब्धो लोकः स्नेहसदृशं कर्मानुष्ठातुमशक्तो निष्फलेनाश्रुपातमात्रेण स्नेहमुपदर्शयन्रोदिति। त्वया तु कर्मणैव सर्वमाचरन्त्या किमिव**
 
-
-
 न प्रेमोचितमाचेष्टितं येन रोदिषि। तदर्थमाजन्मनःप्रभृति समुपचितपरिचयः प्रेयानसंस्तुत इव परित्यक्तो बान्धवजनः। संनिहिता अपि तृणावज्ञयावधीरिता विषयाः। विमुक्तान्यतिशयितसुनासीरसमृद्धीन्यैश्वर्यसुखानि। गृहीतं ब्रह्मचर्यम्। आयोजितस्तपसि महत्यात्मा। वनिताजनदुष्करमविकष्टमङ्गीकृतमरण्यावस्थानम्। अपि चानायासेनैवात्मा दुःखाभिहतैः परित्यज्यते। महीयसा तु यत्नेन गरीयसि क्लेशे निक्षिप्यते केवलम्। यदेतदनुमरणं नाम तदतिनिष्फलम्।अविद्वज्जनाचरित एष मार्गः। मोहविलसितमेतत्। अज्ञानपद्धतिरियम्। मौर्ख्यस्खलितमिदम्। यदुपरते पितरि भ्रातरि सुहृदि भर्तरि वा प्राणाः परित्यज्यन्ते। स्वयं चेन्न जहति न परित्याज्याः। अत्र हि विचार्यमाणे स्वार्थ एव प्राणपरित्यागोयमसह्यशोकवेदनाप्रतीकारत्वादात्मनः। उपरतस्य तु न कमपि गुणमावहति। न तावत्तस्यायं प्रत्युज्जीवनोपायः। न धर्मोपचयकारणम्। न शुभलोकोपार्जनहेतुः। न निरयपातप्रतीकारः। न दर्शनोपायः। न परस्परसमागमनिमित्तम्। अन्यामेव स्वकर्मफलपरिपाकोपचितामसाववशो नीयते भूमिम्। असावप्यात्मघातिनः केवलमेनसा संयुज्यते। जीवंस्तु जलाञ्जलिदानादिना बहूपकरोत्युपरतस्यात्मनश्च। मृतस्तु नोभयस्यापि। स्मर तावत्प्रियामेकपत्नीं रतिं भगवति भर्तरि मकरकेतौ हरनयनहुतभुजा दग्धेऽप्यविरहितामसुभिः। उत्तरां च विराटदुहितरं बालां बालशशिनीव नयनानन्दहेतौ विनयवति विक्रान्ते च पञ्चत्वमभिमन्यावुपगतेऽपि धृतदेहाम्। अन्याश्च रक्षःसुरासुरमुनिमनुजसिद्धगन्धर्वकन्यका भर्तृरहिताः श्रूयन्ते सहस्रशो विधृतजीविताः।
 
  प्रोन्मुच्येतापि जीवितं संदिग्धोऽप्यस्य समागमो यदि स्यात्। भगवत्या तु ततः पुनः स्वयमेव समागमसरस्वती समाकर्णिता। अनुभवे च को विकल्पः। कथं च तादृशानामप्राकृताकृतीनां महात्मनामवितथगिरां गरीयसापि कारणेन गिरि वैतथ्यमास्पदं कुर्यात्। उपरतेन च सह जीवन्त्याकीदृशी समागतिः। अतो निःसंशयमसावुपजातकारुण्यो महात्मा पुनः प्रत्युज्जीवनार्थमेवैनमुत्क्षिप्य सुरलोकं नीतवान्। अचिन्त्यो हि महात्मनां प्रभावः। बहुप्रकाराश्च संसारवृत्तयः। चित्रं च दैवम्। आश्चर्यातिशययुक्ताश्च तपःसिद्धयः। अनेकविधाश्च कर्मणां शक्तयः। अपि च सुनिपुणमपि विमृशद्भिः किमिवान्यत्तदपहरणे कारणमाशङ्कयते जीवितप्रदानादृते।
-
-
 
 न चासंभाव्यमिदमवगन्तव्यं भवत्या। चिरप्रवृत्त एष पन्थाः। तथापि। विश्वावसुना गन्धर्वराजेन मेनकायामुत्पन्नां प्रमद्वरां नाम कन्यामाशीविषविलुप्तजीवितां स्थूलकेशाश्रमे भार्गवस्य नप्ता प्रमतितनयो मुनिकुमारकोरुरुर्नाम स्वायुषोऽर्धेन योजितवान्। अर्जुनं चाश्वमेधतुरगानुसारिणमात्मजेन बभ्रुवाहननाम्ना समरशिरसि शरापहृतप्राणमुलूपी नाम नागकन्या सोच्छ्वासमकरोत्। अभिमन्युतनयं च परीक्षितमश्वत्थामास्त्रपावकपरिप्लुष्टमुदरादुपरतमेव निर्गतमुत्तराप्रलापोपजनितकृपो भगवान्वासुदेवो दुर्लभानसून्प्रापितवान्। अत्रापि कथञ्चिदेवमेव भविष्यति। तथापि किं क्रियते। क्व उपालभ्यते। प्रभवति हि भगवान्विधिः। बलवती च नियतिः। आत्मेच्छया न शक्यमुच्छ्वसितुमपि। अतिपिशुनान्यस्यैकान्तनिष्ठुरस्य दैवहतकस्य विलसितानि न क्षमन्ते दीर्घकालमव्याजरमणीयं प्रेम। प्रायेण च निसर्गत एवानायतस्वभावभङ्गुराणि सुखान्यायतस्वभावानि च दुःखानि। तथा हि कथमप्येकस्मिञ्जन्मनि समागमो जन्मान्तरसहस्राणि च विरहः प्राणिनाम्। अतो नार्हस्यनिन्द्यमात्मानं निन्दितुम्। आपतन्ति हि संसारपथमतिगहनमवतीर्णमेते वृत्तान्ताः। धीरा हि तरन्त्यापदम्। इत्येवंविधैरन्यैश्च मृदुभिरुपसान्त्वनैः संस्थाप्य तां पुनरपि निर्झरजलेनाञ्जलिपुटोपनीतेनानिच्छन्तीमपि बलात्प्रक्षालितमुखीमकारयत्।
 
@@ -3843,25 +3579,17 @@ NOTES
 
 EXERCISES
 
- 
-
 1 Dissolve and name the compounds
 
 \- निःसङ्गतया। स्नेहसदृशम्।अतिशयितसुनासीरसमृद्धीनि। अरण्यावस्थानम्। अविद्वज्जनाचरितः। परस्परसमागमनिमित्तम्। एकपत्नीम्। अप्राकृताकृतीनाम्। अवितथगिराम्। अश्वमेधतुरगानुसारिणम्।
-
-
 
 2 Note the uses of
 
 \- प्रभृति। उप + कृ। गुणं आवह्। एनसा संयुज्। ऋते। तथा हि। प्र+भू।
 
-
-
 3 Mark the expressions
 
 \- आरोपितप्रीतिरभवत्। तृणावज्ञयावधीरिता विषयाः। आयोजितस्तपस्यात्मा। अत्र हि विचार्यमाणे। अविरहितामसुभिः। धृतदेहाम्। गिरि चैतथ्यमास्पदं कुर्यात्। सोच्छ्वासमकरोत्। असून्प्रापितवान्। प्रभवति हि भगवान्विधिः। अनायतस्वभावभङ्गुराणि सुखानि आयतस्वभावानि च दुःखानि। संसारपथमवतीर्णमेते वृत्तान्ता आपतन्ति।
-
-
 
 NOTES
 
@@ -3890,8 +3618,6 @@ Rama Comes to know from his spy, Durmukha, how people blamed him for accepting S
  **रामः**। अहह तीव्रसंवेगो वाग्वज्रः। (इति मूर्च्छति)
 
  **दुर्मुखः**। आश्वसितु देवः।
-
-
 
  **रामः।** (आश्वस्य)
 
@@ -3931,8 +3657,6 @@ Rama Comes to know from his spy, Durmukha, how people blamed him for accepting S
 
  **दुर्मु०**। हा देवि। (इति निष्क्रान्तः)।
 
-
-
  **रामः।** हा कष्टमतिबीभत्सकर्मा नृशंसोऽस्मि संवृत्तः।
 
 शैशवात्प्रभृति पोषितां प्रियां सौहृदादपृथगाशयामिमाम्।  
@@ -3963,8 +3687,6 @@ Rama Comes to know from his spy, Durmukha, how people blamed him for accepting S
 मुन्मुच्य प्रियगृहिणीं गृहस्य शोभाम्।  
 आतङ्कस्फुरितकठोरगर्भगुर्वीं  
 क्रव्याद्भ्यो बलिमिव निर्घृणः क्षिपामि॥१०॥**
-
-
 
  (सीतायाः पादौ शिरसि कृत्वा) देवि देवि भयमपश्चिमस्ते रामस्य शिरसि पादपङ्कजस्पर्शः। (इति रोदिति। गत्वा पुनः प्रतिनिवृत्य) हा देवि कथमेवंविधा गमिष्यसि। भगवति वसुन्धरे श्लाघ्यां दुहितरमवेक्षस्व जानकीम्।
 
@@ -4012,15 +3734,11 @@ NOTES
  \[This is an extract from Bāṇa's Harshacharita.  
  Durvāsas grew angry with Sarasvatī when she laughed at him in derision and cursed her in spite of the threats of Sāvitrī and the entreaties of his friends and pupils. Sāvitrī was, thereupon,
 
-
-
 about to curse bim when she was prevented by Saraswatī from doing so. God Brahman then severely scolded the wrathful sage for the wrong he had committed and at the same time consoled Saraswatī by allowing Sāvitrī as: her companion and making the curse only conditional, so that she would be free from the curse as soon as she looked upon tho face of her son.\]
 
  **पुरा किल भगवान् स्वं लोकमधितिष्ठन् परमेष्ठी विकासिनि पद्मविष्टरे समुपविष्टः शुनासीरप्रमुखैर्गीर्वाणैः परिवृतो ब्रह्मोदिताः कथाः कुर्वन्नन्याश्च निरवद्या विद्यागोष्टीर्विभावयन् कदाचिदासाञ्चक्रे। तथासीनं च तं त्रिभुवनप्रतीक्ष्यं सर्वे दक्षचाक्षुषप्रभृतयः सप्रजापतयः सर्वे च सप्तर्षिपुरःसरमहामुनयः सिषेविरे। विद्याविसंवादकृताश्च तत्र तेषामान्योन्यस्य विवादाः प्रादुरभूवन्। अथातिरोषणः प्रकृत्या महातपा मुनिरत्रेस्तनयस्तारापतेर्भ्राता द्वितीयेन मन्दुनाम्ना मुनिना सह कलहायमानः साम गायन् क्रोधान्धो विस्वरमकरोत्। सर्वेषु शापभयप्रतिपन्नमौनेषु मुनिषु देवी सरस्वती तच्छ्रुत्वा जहास दृष्ट्वा तु तां तथा हसन्तीं स मुनिराःपापे दुर्गृहीतविद्यालवावलेपे दुर्विदग्धे मामप्यपहससीत्युक्त्वा कोपतरलिताङ्गुलिना करेणाक्षमालां विक्षिप्य कामण्डलवेन वारिणा समुपस्पृश्य शापजलं जग्राह।**
 
  अत्रान्तरे स्वयम्भुवोऽभ्यासे समुपविष्टा देवी सावित्री आः पाप क्रोधोपहत दुरात्मन्ननात्मज्ञ ब्रह्मबन्धो मुनिखेटक कथमात्मस्खलितविलक्षः सकल- सुरासुरमुनिमनुजवन्दनीयां त्रिभुवनमातरं सरस्वतीं शप्तुमभिलषसीत्युक्त्वा बृसीमपहाय समुत्तस्थे। मर्षय मर्षय भगवन्नभूमिरेषा शापस्येत्यनुशास्यमानोऽपि तापसैरुपाध्याय स्खलितमेकं क्षमस्वेति बद्धाञ्जलिपुटैः प्रसाद्यमानोऽपि शिष्यैः पुत्र मा कृथास्तपसः प्रत्यूहमिति निवार्यमाणोऽप्यत्रिणा रोषावेशविवशो दुर्वासा दुर्विनीते व्यपनयामि ते विद्यालवावलेपविशेषजनितामुन्नतिमधस्ताद्गच्छ मर्त्यलोकमित्युक्त्वा तच्छापोदकं विससर्ज। ततः प्रतिशापदानोद्यतां च सावित्रीं सखि संहर क्रोधं संस्तुतमतयोऽपि जात्यैव द्विजन्मानो माननीया इत्यभिदधाना सरस्वत्येनां न्यवारयत्। अथ तां तथा शप्तां सरस्वतीं दृष्ट्वापितामहः सधीरमुवाच। ब्रह्मन्न खलु साधुसेवितोऽयं पन्था येनासि प्रवृत्तः। पुरस्तादुद्दामप्रसृतोन्द्रियवाजिसमुत्था-
-
-
 
 पितं रजः कलुषयति दृष्टिमनक्षजिताम् कियद्दूरं वा चक्षुरीक्षते। विशुद्धया धिया पश्यन्ति कृतबुद्धयः सर्वानसतः सतो वा। निसर्गविरोधिनी चेयं पयःपावकयोरिव एकत्र धर्मक्रोधयोर्वृत्तिः। आलोकमपहाय कथं तमसि निमज्जसि। क्षमा हि मूलं सर्वतपसाम्। परदोषदर्शनदक्षा दृष्टिरिव कुपिता नते बुद्धिरात्मनो दोषान्पश्यति। क्व महातपोभारवैषयिकता क्व पुरोभागित्वम्। अतिरोषणश्चक्षुष्मानपि अन्ध एवाजनि। न हि खलु कोपकलुषिता विमृशति मतिः कर्तव्यमकर्तव्यं वा। कुपितस्य हि प्रथमान्धकारिणी भवति विद्या ततो भ्रुकुटी। आदाविन्द्रियाणि रागः समास्कन्दति चरमं चक्षुः। आरम्भे तपो गलति पश्चात् स्वेदसलिलम्। पूर्वमयशः स्फुरति अनन्तरमधरः। कथं च ते विषपादपस्येव लोकविनाशाय वल्कलानि जातानि। अनुचिता खल्वस्य मुनिवेषस्य हारयष्टिरिव वृृत्तमुक्ता चित्तवृत्तिः। शैलूष इव वृथा वहसि कृत्रिमोपशमम्। अनेनापि लधिम्ना चाद्याप्युपर्येव प्लवसे ज्ञानोदन्वतः। न खल्वेडमूकाक्षा एडा जडा वा एते महर्षयः। रोषदोषनिषेव्ये स्वहृदये निग्राह्ये किमर्थमसि निगृहीतवाननागसं सरस्वतीम्। एतानि तान्यात्मस्खलितवैलक्ष्याणि यैर्याति वाच्यतामविदग्धो जनः। इत्युक्त्वा पुनराह। भद्रे सरस्वति मा गा विषादम्। एषा त्वामनुयास्यति सावित्री। विनोदयिष्यति चास्मद्विरहितां त्वाम्। आत्मजमुखकमलावलोकनावधिश्चते शापोऽयं भविष्यतीत्यभिधाय विसर्जितसुरासुरमुनिमण्डलः समुचिताह्निककरणायोदतिष्ठत्। सरस्वत्यपि शप्ता किञ्चिदधोमुखी सह सावित्र्या गृहमगात्।
 
@@ -4046,13 +3764,9 @@ EXERCISES
 
  4 Write a note on the use of - (i) Perfect. (ii) Simple Future.
 
-
-
  5 Note the following usages —
 
  (a) **परमेष्ठी कथाः कुर्वन् आसाञ्चक्रे।**
-
-
 
 (b)
 
@@ -4061,8 +3775,6 @@ EXERCISES
  (c)
 
 कथं सरस्वतीं शप्तुमभिलषसि।
-
-
 
 (d)
 
@@ -4075,8 +3787,6 @@ EXERCISES
  (f)
 
 अनुचिता खल्वस्य मुनिवेशस्य हारयष्टिरिव वृत्तमुक्ता चित्तवृत्तिः।
-
-
 
 (g)
 
@@ -4093,8 +3803,6 @@ EXERCISES
  \[Bhaṭṭa-Nārāyaṇa is a drmatist of the latter half of the ninth century A. D. He is said to have lived in the reign of king Avantivarman. No other work of this writer is yet known except the play *Veṇī-Samhāra*mfrom which this piece is adopted. His style is rather high-sounding and abstruse, but it is at the same time very effective.
 
  Summary-Ashwatthāman, in a fit of sorrow, began to boast of his prowess to Duryodhana in the hearing of Karṇa. Duryodhana was thinking of installing Karṇa as the commander-in-chief and the latter feels, therefore, insulted by the boast of Ashwatthāman. Then begins the quarrel and from words they proceed to blows; hut are somehow pacified.\]
-
-
 
 (ततः प्रविशतिः कर्णदुर्योधनवासनस्थौ।)
 
@@ -4138,8 +3846,6 @@ EXERCISES
 
   **कर्णः**। द्रौणायने अलमत्यर्थमात्मानं शोकानले प्रक्षेप्तुम्।
 
-
-
   **दुर्यो०।** आचार्यपुत्र को विशेष आवयोरस्मिन्व्यसनार्णवे। पश्य
 
 ततस्तव प्रणयवान्स पितुः सखा मे  
@@ -4182,8 +3888,6 @@ EXERCISES
 
 मकेशवमपाण्डवं भुवनमद्य निःसोमकम्।
 
-
-
 **इयं परिसमाप्यते रणकथाद्य दोःशालिना  
 व्यपैतु नृपकाननातिगुरुद्यभारो भुवः॥६॥**
 
@@ -4218,8 +3922,6 @@ EXERCISES
 कृतं यत्तेनाजौ प्रतिदिनमियं वेत्ति वसुधा।  
 परित्यक्तं शस्त्रं कथमिति स सत्यव्रतधरः  
 पृथासूनुः साक्षी त्वमसि रणभीरो क्व नु तदा॥१०॥**
-
-
 
 ** कर्णः**। ( विहस्य) एवं भीरुरहम् त्वं पुनर्विक्रमैकरसः। तव पितरमनुस्मृत्य महान्मे संशयो जातः। अपि च रे मूढ
 
@@ -4258,13 +3960,9 @@ EXERCISES
 
  3 Name fully — **उपपन्नम्। लघूकर्तुम्। उत्सृजता। अध्यवसितः। आह। अध्यवसितुम्। उत्सृष्टम्। स्त्रिया। लूनम्। वेत्स्यसि। अवध्यः। पन्थाः। सेत्स्यति।**
 
-
-
  4 Note the uses —
 
  (a) **सूक्तमिदमभियुक्तैः प्रकृतिर्दुस्त्वजेति।**
-
-
 
 (b)
 
@@ -4274,49 +3972,33 @@ EXERCISES
 
 अलमत्यर्थमात्मनं शोकानले प्रक्षेप्तुम्।
 
-
-
 (d)
 
 को विशेष आवयोरस्मिन्व्यसनार्णवे।
-
-
 
 (e)
 
 पक्षपातिनि त्वयि युक्तमेव शोकभारं लघूकर्तुम्।
 
-
-
 (f)
 
 तेन शस्त्रमुत्सृजतैतादृशीमवस्थामात्मा नीतः।
-
- 
 
 \(g\)
 
 प्राक्प्रतिपन्नोऽयमर्थोऽङ्गराजस्य।
 
-
-
 (b)
 
 वक्तुं सुकरमिदमध्यवसितुं दुष्करम्।
-
-
 
  (i)
 
 बहवोऽस्य कर्मणः शक्ताः।
 
-
-
  (j)
 
 अनेन मौलिदलनेऽप्युदासितम्।
-
- 
 
 \(k\)
 
@@ -4325,8 +4007,6 @@ EXERCISES
 **NOTES**
 
  **प्लव** A boat. **किं विशस्रआसीत्** Why did he discard his weapon? **कार्कश्यं**Hardness. **मार्दव** Softness. **उपपन्न** Plausible. **अन्यथा** Otherwise, false. **तेनैव... आत्मा नीतः** When he reduced himself to such a state by giving up arms. **स्वभुजगुरुबलः=बाहुमात्र सहायः**। **वोढुमध्यवसितः समरभारः** He has determined to (undertake) bear the brunt of the battle. **कृतपरिकरः** Installed as & general. **प्राक्प्रतिपन्नः अयमर्थः**This office has been already promised. **वीरजनाधिक्षेपेण** To revile warriors. **गुरुशाप**Karṇalived with Parashurāma in the disguise of a Brāhmaṇa and acquired from him the secrets of the art of fighting. The latter, however, came to know the trick Karṇa had played upon him and cursed him saying that he (Karṇa) won't be able to use his knowledge in war. **उदासितम्** He remained indifferent. **ध्मायमान** Beingpuffed up or elated. **ब्रह्मबन्धु** Brāhmaṇa in name only. **वामः** Left **सेत्स्यति** Will be acomplished.
-
-
 
 **३६ पार्वती-परीक्षा**
 
@@ -4364,8 +4044,6 @@ EXERCISES
 
 कुले प्रसूतिः प्रथमस्य वेधसस्त्रिलोकसौन्दर्यमिवोदितं वपुः।  
 अमृग्यमैश्वर्यसुखं नवं वयस्तपःफलं स्यात्किमतः परं वद॥११॥
-
-
 
 भवत्यनिष्टादपि नाम दुःसहान्मनस्विनीनां प्रतिपत्तिरीदृशी।  
 विचारमार्गप्रहितेन चेतसा न दृश्यते तच्च कृशोदरि त्वयि॥१२॥
@@ -4406,9 +4084,6 @@ EXERCISES
 यदा च तस्याधिगमे जगत्पतेरपश्यदन्यं न विधिं विचिन्वती।  
 तदा सहास्माभिरनुज्ञया गुरोरियं प्रपन्ना तपसे तपोवनम्॥२४॥  
 
-
-
-
 द्रुमेषु सख्या कृतजन्मसु स्वयं फलं तपः साक्षिषु दृष्टमेष्वपि।  
 न च प्ररोहाभिमुखोऽपि दृश्यते मनोरथोऽस्याः शशिमौलिसंश्रयः॥२५॥
 
@@ -4448,8 +4123,6 @@ EXERCISES
 निवर्तयास्मादसदीप्सितान्मनः क्व तद्विधस्त्वं क्व च पुण्यलक्षणा।  
 अपेक्ष्यते साधुजनेन वैदिकी श्मशानशूलस्य न यूपसत्क्रिया॥३७॥
 
-
-
 इति द्विजातौ प्रतिकूलवादिनि प्रवेपमानाधरलक्ष्यकोपया।  
 विकुञ्चितभ्रूलतमाहिते तया विलोचने तिर्यगुपान्तलोहिते॥३८॥
 
@@ -4488,8 +4161,6 @@ EXERCISES
 
 —कुमारसंभवे पञ्चमः सर्गः।
 
-
-
 EXERCISES
 
  1 Decline — **दिव्। सुभ्रू। युवन्। आत्मभू।**
@@ -4505,8 +4176,6 @@ EXERCISES
 NOTES
 
  **आषाढ** A staff used by ascetics. **प्रथमाश्रमः = ब्रह्मचर्याश्रमः**। **आतिथेयी** Hospitable to guests **(अतिथिषु साधुः)**. **साम्येपि** Even though they stood on a par with each other. **अतिगौरवाः**Excessively respectful. **क्रम** Decorum. **पापवृत्तये न रूपं** A lovely form does not tend to sinful behaviour. **न मां परं** etc. You should not look upon me as a stranger. **अलभ्यशोकाभिभवा** Incapable of being afflicted by grief. **पराभिमर्षः** Outrage. **सूचये = सूचिग्रहणार्थम्**। **कल्पते** Is fit for. **स्थिरः** Hard-hearted. **न** **करोति लक्ष्यं अस्य चक्षुषः** Who does not at once show himself to you. **स्वयंकृतजन्मसु** Planted by herself. **सीता** Ploughed ground: **तदवग्रह** Drought caused by him (*i.e.* Indra). **चिरण्यवस्थापितवाक्**Who had long settlod (in her mind) the words to be spoken. **उच्चैः पदलङ्घनोत्सुकः**Desirous of reaching a high position. **अमङ्गलाम्यासरतिः** Taking delight in foul practices **अनुवृत्तिं कृ** To approve of.**आ + मुच्** To put on. **चतुष्क** A hall. **स्मेरमुख** Smiling, with a smile on his face. **विरूपाक्षम्** - (1) Having ugly eyes. (2) Having odd eyes. **अलक्ष्यजन्मता** - (1) Want of any knowledge of birth (i. e, absence of traceable heredity). (2) Whose birth is inconceivable. **वैदिकी यूपसत्क्रिया** Holy consecration as of a sacrificial post. **निराशिस्**Indifferent. **पितृसद्मम् = श्मशान**। **न कामवृत्तिर्वचनीयं** etc. One who acts wilfully does not care for censure. **मार्गाचल** etc. Like a river agitated by the obstruction of a hill in its course. **अह्नाय =झटिति**। **नवतां विधत्ते** Produces freshness (*i. e.* makes one refreshed).
-
-
 
 **३७ भार्गवो दाशरथिमाह्वयते**
 
@@ -4536,8 +4205,6 @@ NOTES
  **रामः**। (अञ्जलिं बद्ध्वा) भगवन् भृगुकुलशिरः शिखण्डक एष सानुजस्य मेप्रश्रयरमणीयः प्रणामः।
 
  **जामदग्न्यः**। समरविजयी भूयाः।
-
-
 
  **रामः।** भगवन् भृगुकुलमौलिमाणिक्य अनुगृहीतोऽस्मि
 
@@ -4583,8 +4250,6 @@ NOTES
 
  **भार्गवः**। आः कथं रे चन्दनदिग्धं नाराचं निधाय हृदयं मे शीतलयसि। तदलमनेन। (कुठारमुद्यम्य) हे राम कामरिपुकार्मुकभङ्गसञ्जातपातक। तवैष कठोरधारो निष्करुणः कुठारः कण्ठं विशतु। तत्प्रवीरो भव।
 
-
-
  **रामः**।
 
 हारः कण्ठं विशतु यदि वा तीक्ष्णधारः कुठारः।  
@@ -4615,8 +4280,6 @@ NOTES
  **रामः**। कथं गुरुमप्यधिक्षिपसि। तदतःपरं न सहिष्ये। (साटोपम्) अये जामदग्न्यतत् कुलिशकठिनं कोदण्डं रामेणैवानेन भग्नम् \। भवतु तत् त्रैयक्षं वा नारायणीयं वा। मम दोर्विलासस्तन्न गणयति।
 
  **जामदग्न्यः**। (सहर्षम्) साधु रे क्षत्रियपोत साधु यत्किल जामदग्न्यनाम्नश्चण्डधाम्नःपुरतः खद्योत इव विद्योतसे।
-
-
 
  **रामः**। अलमलं वाग्डम्बरेणानेन। क्रियतां यथाभिलषितम्।
 
@@ -4696,8 +4359,6 @@ NOTES
 
  **वीरशान्तरसयोःविकारः** Product of the sentiments of heroism and peacefulness combined. **हैहयपति** Also called **सहस्रार्जुन** on account of his having a thousand arms, **इक्षुभञ्जं बभञ्ज** Broke it like sugar-
 
-
-
 cane. **रेणुकाकण्ठशत्रुः**This refers to the fact that Parashurāma, in obedience to his father, had cut off the head of his mother Reṇukā with his axe.**समुदाचारानुसारिणी** Customary, following the accepted custom. Inclination of the mind, thought, as opposed to **वाग्वृत्ति.बीज** Cause. **आत्मनैव** Of itself.**प्रेतभर्तृ** God of death. **यद्वा तद्वा भवतु** Whatever be the result, whatever might befall. **मा हारय** Do not deprive yourself of.**चण्डधामन्** The sun. **खद्योत** A firefly. **समरक्षमा** Suitable for a fight.
 
 **————————————**
@@ -4725,8 +4386,6 @@ cane. **रेणुकाकण्ठशत्रुः**This refers to the fac
 
 विसृजन्तो मुखैर्ज्वाला भीमा इव भुजङ्गमाः।  
 विसृष्टाः सुभटै रुष्टैर्व्योमव्यानशिरे शराः॥६॥
-
-
 
 निर्भिद्य दन्तिनः पूर्वं पातयामासुराशुगाः।  
 पेतुः प्रवरयोधानां प्रीतानामाहवोत्सवे॥७॥
@@ -4767,8 +4426,6 @@ cane. **रेणुकाकण्ठशत्रुः**This refers to the fac
 शस्त्रच्छिन्नगजारोहा विभ्रमन्त इतस्ततः।  
 युगान्तवातचलिताः शैला इव गजा बभुः॥१९॥
 
-
-
 मिलितेषु मिथो योद्धुं दन्तिषु प्रसभं भटाः।  
 अगृह्णन्युध्यमानाश्च शस्त्रैः प्राणान्परस्परम्॥२०॥
 
@@ -4808,8 +4465,6 @@ cane. **रेणुकाकण्ठशत्रुः**This refers to the fac
 मिथोऽर्धचन्द्रनिर्लूनमूर्धानौ रथिनौ रुचा।  
 खेचरौ भुवि नृत्यन्तौ स्वकबन्धावपश्यताम्॥३२॥
 
-
-
 रणाङ्गणे शोणितपङ्कपिच्छिले कथं कथञ्चिन्ननृतुर्धृतायुधाः।  
 नदत्सु तुर्येषु परेतयोषितां गणेषु गायत्सुकबन्धराजयः॥३३॥
 
@@ -4836,8 +4491,6 @@ NOTES
 
  **सुनासीर** Indra. **सुरारि** The demon.**पत्ति** A foot-soldier. **अभि+ इ** To attack. **आसीत्कवचविच्छेदः** The armours were perforated, (the hair standing erect on the bodies, piercing the armours). **रजोघने** etc. The battle-field was dense with dust and the bright swords shining in the sun appeared like lightnig. **रुष्ट** Angry. **निर्भिद्य दन्तिनः पूर्वं** etc. The arrow had such a quick effect that the elephants fell down dead even before the arrow had reached the ground. **श्येनप्रतिरवच्छलात्** In the guise of the echoing cries of a hawk. **चण्डांमण्डलश्रीणि (चक्राणि)** Having the splendour of the orb of the hot-rayed (sun). **कीर्तिबीजांकुरश्रियम्** The pearls fallen from the split up temples of elephants appeared like the sprouts of the seed of fame sown in the field of battle. **भितयोधिनः** The warriors on whose back were killed (= **विदीर्णयन्तारः)। वाजिनः**From the
 
-
-
 horse. **शस्त्रच्छिन्नगजारोहाः** *Cf.* **भिन्नयोधिनः**। **प्रत्यैच्छन्** Waited for.**तुरङ्गसादिन् ( = अश्वग)** A horseman. **शस्त्री** Scimitar. **खेचर** Moving in the sky. **कबन्ध** A headless trunk.**परेतयोषितः** Female ghosts.**मज्जद्दन्तिव्रजेषु** In which herds of elephants sank down. **युयुत्सा** Desire of fighting. **ककुभामीशान्** The guardians of the eight quarters (*Cf.* **ककुभां दिशामीशानिन्द्रादीनष्ट दिक्पालान्**।)
 
 —————————————
@@ -4850,15 +4503,11 @@ horse. **शस्त्रच्छिन्नगजारोहाः** *Cf.*
 
  एकदा तु वासतेय्यास्तुरीये यामे प्रत्यूषस्येव स्वप्ने चटुलज्वालापुञ्जपिञ्जरितसकलककुभं दुर्निवारणदावहुतभुजा दह्यमानं केसरिणमद्राक्षीत्। तस्मिन्नेव दावदहने समुत्सृज्य शावकानुत्प्लुत्यात्मानं पातयन्तीं सिंहीमपश्यत्। आसीच्चास्य चेतसि। लोहेभ्यः कठिनतराः खलु स्नेहमया बन्धनपाशाः। यदाकृष्टास्तिर्यञ्चोऽप्येवमाचरन्तीति। प्रबुद्धस्यास्य दक्षिणेतरमक्षि पस्पन्दे। गात्रेष्वकस्मादेव च वेपथुर्विपप्रथे। निर्निमित्तमन्तबन्धनस्थलाच्चचालेव हृदयम्। अकारणादेवाजायत गरीयसी दुःखासिका। किमिदमिति समुपनतविविधविकल्पविमथितमतिरपगतधृतिश्चिन्तावनमितवदनः स्तिमिततारकेण चक्षुषा समुद्भिद्यमानस्थलकमलिनीवनमिव चकार चकोरेक्षणः क्षणं क्षोणीम्। अह्नि
 
-
-
 च तस्मिञ्शून्येनैव चेतसा चिक्रीड मृगयाम्। आरोहति च हरितहये मध्यमह्नो भवनमागत्य उभयतो मन्दं मन्दं वाह्यमानतनुतालवृन्तो वेत्रपट्टिकामधिशयानः साशङ्क एव तस्थौ। अथ दूरादेव दीर्घाध्वगन्तारं कुरङ्गकनामानमायान्तमद्राक्षीत्।
 
  दृष्ट्वा पूर्वनिमित्तपरम्पराविर्भूतभीतिरखिद्यत हृदयेन। कुरङ्गकस्तु कृतप्रणामः समुपसृत्य प्रथममाननलग्नं विषादमुपनिन्ये पश्चाल्लेखम्। तं च हर्षः स्वयमेवावाचयत्। लेखार्थेनैव च सह गृहीत्वा हृदयेन सन्तापमविग्नरूपोऽभ्यधात्। कुरङ्गक किं मान्द्यं तातस्येति। स चाचचक्षे देव दाहज्वरो महानिति। तच्चाकर्ण्य सहसैवास्य हृदयं पफाल। कृतमनाश्च जनयितुरायुष्कामोऽपरिमितमणिकनकरजतजातमात्मपरिबर्हमशेषं ब्राह्मणसादकरोत्। वेपमानहृदयश्चारुह्यतुरङ्गममेकाक्येव प्रावर्तत।
 
  प्रस्थितस्य चास्य प्रदक्षिणेतरं प्रयान्तो विनाशमुपस्थितं राजसिंहस्य हरिणाः प्रकटयांबभूवुः। अशिशिररश्मिमण्डलाभिमुखश्च हृदयमवदारयन्निव दावशुष्के दारुणि दारुणं ररास वायसः। दुर्निमित्तैरनभिनन्द्यमानगमनैश्च नितरामशङ्कत। पितृस्नेहात्तत्तदुपेक्षमाणस्तुरङ्गमस्कन्धबद्धलक्ष्यं चक्षुरविचलं दधानो तूष्णींभूतेन भूपाललोकेनानुगम्यमानो बहुयोजनसंपिण्डितमध्वानमेकेनैवाह्नासमलङ्घयत् क्रमेण च राजद्वारं प्रतिषिद्धसकललोकप्रवेशं ययौ। तुरगादवतीर्णश्चाभ्यन्तरान्निष्क्रामन्तमप्रसन्नमुखरागं सुषेणनामानं वैद्यकुमारकमद्राक्षीत्। कृतनमस्कारं चाप्राक्षीत् सुषेण, अस्ति तातस्य विशेषो न वेति। सोऽब्रवीत् नास्तीदानीं यदि भवेत् कुमारं दृष्ट्वेति। मन्दं मन्दं द्वारपालैः प्रणम्यमानश्च दुःखदीनवदनेन बद्धमण्डलेनोपांशुन्याहृतैः केनचित् चिकित्सकदोषानुद्भावयता, केनचिद्दुःस्वप्ननावेदयता, केनचित् कार्तान्तिकादेशान् प्रकाशयता, अन्येनानित्यतां भावयता संसारं चापवदता कलिकालविलसितानि च निन्दता दैवं चोपालभमानेनपरेण धर्माय कुप्यता राजकुलदेवताश्चाधिक्षिपता बाह्यपरिजनेन कथ्यमानकष्टपार्थिवावस्थं राजकुलं विवेश। अविरलबाष्पपयःपरिप्लुतलोचनेन पितृपरिजनेन वीक्ष्यमाणो विविधौषधिद्रव्यद्रवगन्धगर्भमुत्क्वथतां क्वाथानां सर्पिषां तैलानां च पच्यमानानां गन्धमाजिघ्रन्नवाप तृतीयं कक्ष्यान्तरम्।
-
-
 
   तत्र चातिनिःशब्दे पिहितपक्षद्वारके परिहृतकपाटरटिते घटितगवाक्षरक्षितमरुति निभृतसंज्ञानिर्दिश्यमानसकलकर्मणि धवलगृहे स्थितम्, अनवरतपरिवर्तनैस्तरङ्गिणि शयनीये शेषमिव विषोष्मणा क्षीरोदन्वति विचेष्टमानम्, आसन्नयमदर्शनोद्वेगादिव किञ्चिदन्तःप्रविष्टतारकं चक्षुर्दधानम्, अत्युष्णनिःश्वासदग्धयेव श्यामायमानया रसनया निवेद्यमानदारुणसन्निपातारम्भम्, अङ्गभङ्गवलनोत्क्षिप्तभुजयुगलम्, समीपे कालस्य अन्तिकेऽन्त्योच्छ्वासस्य द्वारि दीर्घनिद्रायाः जिह्वाग्रे जीवितेशस्य वर्तमानम्, विरलं वाचि विह्वलं वपुषि क्षीणमायुषि प्रचुरं प्रलापे सन्ततं श्वसिते पार्श्वोपविष्टयानवरतरोदनोच्छूननयनया मुहुर्मुहुः' आर्यपुत्र, स्वपिषि' इति व्याहरन्त्या देव्या यशोमत्या शिरसि वक्षसि च स्पृश्यमानं पितरमद्राक्षीत्। अवनिपतिस्तु दूरादेव दृष्ट्वातिदयितं तनयं तदवस्थोऽपि प्रसार्य भुजौ एह्योहीत्याह्वयञ्शरीरार्धेन शयनादुदगात्। ससंभ्रममुपसृतं चैनं विनयावनम्रमुन्नमय्य बलादुरसि निवेश्य विशन्निव प्रेम्णा निशाकरमण्डलमध्यम्, मज्जन्निवामृतमये महासरसि, पीडयन्नङ्गैरङ्गानि विस्मृतज्वरसंज्वरः सुचिरमालिलिङ्ग। पस्पर्श च पुनः पुनर्वेपथुमतापाणितलेन क्षयाक्षामकण्ठश्च कृच्छ्रादिवावादीत्। वत्स, कृशोऽसीति। भण्डिस्त्वकथयत्। देव, तृतीयमहः कृताहारस्यास्याद्येति। तच्छ्रुत्वा बाष्पवेगगृह्यमाणाक्षरं कथं कथमप्यायतं निःश्वस्योवाच। वत्स, जानामि त्वां पितृप्रियमतिमृदुहृदयम्। नार्हस्यतिमात्रमात्मानं शुचे दातुम्। निशितमिव शस्त्रं तक्ष्णोति मां त्वदीयस्तनिमा। न ह्यल्पपुण्यभाजां वंशमलंकुर्वन्ति भवादृशाः। त्वज्जन्मनैव कृतार्थोऽस्मि निरभिलाषोऽस्मि जीविते। भिषगनुरोधः पाययति मामौषधम्। प्रजाभिस्तु बन्धुमन्तो राजानो न ज्ञातिभिः। तदुत्तिष्ठ। कुरु पुनरेव सर्वाः क्रियाः। कृताहारे च त्वय्यहमपि स्वयमुपयोक्ष्ये पथ्यम्।
 
@@ -4870,13 +4519,9 @@ horse. **शस्त्रच्छिन्नगजारोहाः** *Cf.*
 
 EXERCISES
 
- 
-
 1 Name fully —
 
 स्वल्पीयोभिः\। अद्राक्षीत्। कठिनतरः। दक्षिणेतरम्। गरीयसी। अवतीर्णः। अप्राक्षीत्। वीक्ष्यमाणः। आजिघ्रन्। प्रसार्य। उन्नमय्य। स्नान्। अवादीत्। विधुरयति। अधिकतरम्। निशितम्। धक्ष्यन्। अतितराम्।
-
-
 
  2 Write a note on the formation and uses of the degrees of comparison.
 
@@ -4897,8 +4542,6 @@ EXERCISES
 **४० उदयनः वासवदत्तां पश्यति**
 
  \[ This is an extract from Swapna-Wāsawadattam of Bhāsa whose works have only recently engaged the attention of Sanskrit scholars. No less than thirteen plays are attributed to Bhāsa. The number and variety of his plays combined with the simplicity of style and realism of characters etc. are a decisive proof of the high
-
-
 
 merit of Bhāsa as a playwright. Absence of compounds and involved construction-which are the characteristic marks of later Sanskrit works-go to prove the antiquity of the author; and oriental scholars seem inclined to date Bhāsa somewhere about 5th or 4th century B. C.
 
@@ -4923,9 +4566,6 @@ merit of Bhāsa as a playwright. Absence of compounds and involved construction-
 लब्ध्वा प्रियां मम तु मन्द इवाद्य शोकः।  
 पूर्वाभिघातसरुजोऽप्यनुभूतदुःखः  
 पद्मावतीमपि तथैव समर्थयामि॥२॥  
-
-
-
 
 अथ कस्मिन् प्रदेशे वर्तते पद्मावती।
 
@@ -4965,8 +4605,6 @@ merit of Bhāsa as a playwright. Absence of compounds and involved construction-
 
   **विदूषकः**। तेन ह्यस्यां शय्यायां मुहूर्तकमुपविश्य तत्रभवतीं प्रतिपालयतु भवान्।
 
-
-
   **राजा**। बाढम्। (उपविश्य ) वयस्य! निद्रा मां बाधते। कथ्यतां काचित् कथा।
 
  **विदूषकः**। अहं कथयिष्यामि। हुङ्कृतिं करोत्वत्रभवान्।
@@ -4996,8 +4634,6 @@ merit of Bhāsa as a playwright. Absence of compounds and involved construction-
   **चेटी**। समुद्रगृहके किल शय्यास्तीर्णा। इदं समुद्रगृहकम्। प्रविशत्वार्या।यावदहमपि शीर्षानुलेपनं त्वरयामि। (निक्रान्ता )
 
   **वासवदत्ता**। अहो, अकरुणाः खल्वीश्वरा मे। विरहपर्युत्सुकस्यार्यपुत्रस्य विश्रामस्थानभूतेयमपि नाम पद्मावत्यस्वस्था जाता। यावत् प्रविशामि। (प्रविश्यावलोक्य) अहो परिजनस्य प्रमादः। अस्वस्थां पद्मावतीं केवलं दीपसहायां कृत्वा परित्यजति। इयं पद्मावत्यवसुप्ता। यावदुपविशामि। अथवान्यासनपरिग्रहेणाल्पइव स्नेहः प्रतिभाति। तदस्यां शय्यायामुपविशामि। (उपविश्य) किं नु खल्वेतया सहोपविशन्त्या अद्य प्रह्लादितमिव मे
-
-
 
  हृदयम्। दिष्ट्याविच्छिन्नसुखनिःश्वासा। निवृत्तरोगया भवितव्यम्। यावच्छयिष्ये। (शयनं नाटयति।)
 
@@ -5033,8 +4669,6 @@ merit of Bhāsa as a playwright. Absence of compounds and involved construction-
 
   **विदूषकः**। अविहा, असम्भावनीयमेतद्। न। उदकस्नानसङ्कीर्तनेन तत्रभवतीं चिन्तयता सा स्वप्ने दृष्टा भवेत्।
 
-
-
   **राजा**।
 
 यदि तावदयं स्वप्नो धन्यमप्रतिबोधनम्।  
@@ -5066,55 +4700,37 @@ EXERCISES
 
   (a) **त्वरतां त्वरतां तावद्भवान्।**
 
- 
-
 \(b\)
 
 पद्मावतीमपितथैव समर्थयामि।
-
- 
 
 (c)
 
 ( माला ) किञ्चितकरोति भुजगस्य विचेष्टितानि।
 
- 
-
 \(d\)
 
 निद्रा मां बाधते।
-
- 
 
 \(e\)
 
 मुहूर्तकं प्रतिपालयतु भवान् यावदोष्ठगतं करिष्यामि।
 
- 
-
 \(f\)
 
 अकरुणाः खल्वीश्वराः मे।
-
- 
 
 \(g\)
 
 .....दीपसहायां कृत्वा परित्यजति।
 
-
-
 (h)
 
 दिष्ट्याविच्छिन्नसुखनिःश्वासा। निवृत्तरोगया भवितव्यम्।
 
- 
-
 \(i\)
 
 ततो व्यक्तं न जानामि भूतार्थोऽयं मनोरथः।
-
- 
 
 \(j\)
 
@@ -5122,15 +4738,11 @@ EXERCISES
 
 5 Explain fully — **महान् खल्वार्ययौगन्धरायणस्य प्रतिज्ञाभारो मम दर्शनेन निष्फलः संवृत्तः।**
 
-
-
 NOTES
 
  **पुनरागतदारभारः** Who am again bent under the burden of a (second) wife. \[ The second marriage is burdensome to the king on account of his deep love for his first wife Wāsawadattā.\] **अवन्तिनृपतेः तनूजा** is Wāsawadattā, the first wife of the king. **लावाणके** etc. This line refers to the report that Wāsawadattā was consumed by fire in the village of Lāvāṇaka. **हिमहतां पद्मिनीम् इव** A very usual simile. *cf.* **हिमसेकविपत्तिरत्र मे नलिनी पूर्वनिदर्शनं मता** P. 8. 45. **शीर्षवेदनया दुःखिता**Is suffering from headache. **मन्द एव**etc. My grief has a little abated as I have obtained etc.I am afraid that Padmāvatī will meet with the same fate (as Wāsawadattā). **तस्यमार्गमादेशय** Show me the way to it. **काकोदर** A serpent. **मुखतोरण** The outer arch. **भ्रष्टा** Fallen. **अवगच्छति सर्पम्** You take it to be a serpent. **किञ्चित् चरितं करोति** Imitates to a certain extent.**प्रच्छद** A covering for the bed. **शिरोपधानं न क्लिष्टं** The pillow is not soiled.**दृष्टिविलोभनं जनयितुं**To create an attraction for (*i. e.* to attract) the eyes. **निद्रा मां बाधते**I am overpowered by sleep *i. e.* I feel inclined to sleep. **यावदीष्ठगतं करिष्यामि** While I repeat it so that it may be on my lips (*i. e.* at the tip of my tongue). **दृढम्**Excessively. **रचितं** Spread, prepared. **अकरुणाः** **खल्वीश्वरा मे** Gods are, indeed, cruel to me. **केवलं दीपसहायां कृत्वा**Leaving her all alone (*lit.* with only the lamp for her companion). **अन्यासनपरिग्रहेण** etc. Taking a separate seat points to a somewhat imperfect or defective love. **दिष्ट्या** I am glad that etc., fortunately etc. **यौगन्धरायणस्य प्रतिज्ञाभारः** Yaugandharāyaṇa's plan was to introduce Wāsawadattā to Udayana after a few days; but the plan would be frustrated if she is seen and recognised by Udayana at this stage. **द्वारपक्ष**The panel of a door.**भूतार्थोऽयं मनोरथः**Whether this is a reality or merely & creation of fancy. **धरते = जीवति**। **चिरात्** Long ago.**सन्त्रस्ता** Afraid (that she might be discovered). **रोमहर्ष**Horripilation.
 
 ———————————
-
-
 
 **संकीर्ण-पद्यानि**
 
@@ -5167,8 +4779,6 @@ NOTES
 
 छायामन्यस्य कुर्वन्ति तिष्ठन्ति स्वयमातपे  
 फलान्यपि परार्थाय वृक्षाः सत्पुरुषा इव॥१०॥
-
-
 
 धवलयति समग्रं चन्द्रमा जीवलोकं  
 किमिति निजकलङ्कं नात्मसंस्थं प्रमार्ष्टि।  
@@ -5209,8 +4819,6 @@ NOTES
 स्नापितोऽपि बहुशो नदीजलै-  
 र्गर्दभः किमु हयो भवेत्क्वचित्॥२०॥
 
-
-
 खलो न साधुतां याति सद्भिः संबोधितोऽपि सन्  
 सरित्पूरप्रपूर्णोऽपि क्षारः किं मधुरायते॥२१॥
 
@@ -5246,8 +4854,6 @@ NOTES
 
 दुश्चरितैरेव निजैर्भवति दुरात्मा विशङ्कितो लोके  
 दर्शनपथमापन्नंपद्मगकुलमाकुलीभवति॥३०॥
-
-
 
 **साधुखलानामन्तरम्**
 
@@ -5286,8 +4892,6 @@ NOTES
 
 गुणी गुणं वेत्ति न वेत्ति निर्गुणो बली बलं वेत्ति न वेति निर्बलः।  
 पिको वसन्तस्य गुणं न वायसः करी च सिंहस्य बलं न मूषकः॥४२॥
-
-
 
 उत्तमो नातिवक्ता स्यादधमो बहुभाषकः  
 न हि स्वर्णे ध्वनिस्तादृग्यादृक्कांस्ये प्रजायते॥४३॥
@@ -5330,8 +4934,6 @@ NOTES
 त्यक्त्वालसान्दैवपरान्मनुष्यानुत्थानयुक्तान्पुरुषान्हि लक्ष्मीः  
 अन्विष्य यस्माद्वृणुते नृपेन्द्र तस्मात्सदोत्थानवता हि भाव्यम्॥५५॥
 
-
-
 यथा ह्येकेन चक्रेण न रथस्य गतिर्भवेत्  
 एवं पुरुषकारेण विना दैवं न सिध्यति॥५६॥
 
@@ -5372,8 +4974,6 @@ NOTES
 किं खलु रत्नैरेतैः किं पुनरभ्रायितेन वपुषा ते  
 सलिलमपि यन्नतावकर्मणव वदनं प्रयाति तृषितानाम्॥६७॥
 
-
-
 साकं ग्रावगणैर्लुठन्ति मणयस्तीरेऽर्कबिम्बोपमाः  
 नीरे नीरचरैः समं स भगवान्निद्राति नारायणः  
 एवं वीक्ष्य तवाविवेकमथ च प्रौढिं परामुन्नतेः  
@@ -5412,8 +5012,6 @@ NOTES
 पाटीर तव पटीयान्कः परिपाटीमिमामुरीकर्तुम्  
 यत् पिंषतामपि नृणां पिष्टोऽपि तनोषि परिमलैः पुष्टिम्॥७७॥
 
-
-
 यैस्त्वं गुणगणवानपि सतां द्विजिह्वैरसेव्यतां नीतः  
 तानपि वहसि पटीरज किं कथयामस्त्वदीयमौन्नत्यम्॥७८॥
 
@@ -5449,8 +5047,6 @@ NOTES
 
 हस्त इव भूतिमलिनो यथा यथा लङ्घयति खलः सुजनम्  
 दर्पणमिव तं कुरुते तथा तथा निर्मलच्छायम्॥८७॥
-
-
 
 तरुमूलादिषु निहितं जलमाविर्भवति पल्लवाग्रेषु।  
 निभृतं यदुपक्रियते तदपि महान्तो वहन्युच्चैः॥८८॥
@@ -5491,8 +5087,6 @@ NOTES
 शून्योऽपि च गुणवत्तामातन्वानः स्वकीयगुणजालैः  
 विवराणि मुद्रयन्द्रागूर्णायुरिव सज्जनो जयति॥१००॥
 
-
-
 किं जन्मना च महता पितृपौरुषेण  
 शक्त्या हि याति निजया पुरुषः प्रतिष्ठाम्  
 कुम्भो न कूपमपि शोषयितुं समर्थः  
@@ -5526,8 +5120,5 @@ NOTES
 भव एव भवान्तकः सतां समदृष्टिर्विषमेक्षणोऽपि सन्॥११०॥
 
 **FINIS**
-
-
-
 
 \]
