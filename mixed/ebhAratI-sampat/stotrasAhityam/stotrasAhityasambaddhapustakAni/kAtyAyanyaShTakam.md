@@ -12,12 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczNTAyNzk2NjU
 
 \[
 
-
-
-
 कात्यायन्यष्टकम्
-
-
 
 श्रीगणेशाय नमः ।
 
@@ -74,10 +69,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczNTAyNzk2NjU
 कुमठाचार्यजं भक्‍त्या पठेद्यः स सुखी भवेत् ॥ ९॥  
 ॥  
 इति श्रीकात्यायन्यष्टकं सम्पूर्णम् ॥
-
-
-
-
-
 
 \]

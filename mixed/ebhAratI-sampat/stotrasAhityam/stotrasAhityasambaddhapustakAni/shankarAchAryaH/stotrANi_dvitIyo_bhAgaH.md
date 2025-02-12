@@ -14,29 +14,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 ![](../books_images/U-IMG-1722158391Screenshot2024-07-28144651.png)
 
 [TABLE]
 
-
-
 [TABLE]
 
 ![](../books_images/U-IMG-1724830761dsfsa.png)
-
-
 
 |                                  |
 |:--------------------------------:|
@@ -45,11 +29,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 |    **MISCELLANEOUS STOTRAS**     |
 | **LALITA TRISATISTOTRA BHASHYA** |
 
-
-
 ![](../books_images/U-IMG-1724831015jjkkkk.png)
-
-
 
 |                                |
 |:------------------------------:|
@@ -84,8 +64,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 | कनकधारास्तोत्रम्              |
 | अन्नपूर्णाष्टकम्              |
 
-
-
 |                                  |
 |----------------------------------|
 | मीनाक्षीपञ्चरत्नम्               |
@@ -108,8 +86,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 | शारदाभुजगप्रयाताष्टकम्           |
 | गुर्वष्टकम्                      |
 | काशीपञ्चकम्                      |
-
-
 
 ![](../books_images/U-IMG-1724831315kkkkknnn.png)
 
@@ -447,8 +423,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीगोविदभगवत्पूज्यपादशिष्यस्य  
 श्रीमच्छकरभगवत कृतौ  
 लक्ष्मीनृसिंहकरुणारसस्तोत्र सपूर्णम्॥**
-
-
 
 **![](../books_images/U-IMG-1722171353Screenshot2024-07-28182510.png)**
 
@@ -1964,8 +1938,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीमच्छकरभगवत कृतौ  
 **नर्मदाष्टक सपूर्णम्॥**
 
-
-
 **![](../books_images/U-IMG-1722350082Screenshot2024-07-30200410.png)**
 
 **॥श्री॥**
@@ -2341,7 +2313,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 
 **![](../books_images/U-IMG-1722434310Screenshot2024-07-31192815.png)**  
 
-
 **॥श्रीः॥**  
 **॥जगन्नाथाष्टकम्॥**
 
@@ -2391,8 +2362,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीगोविदभगवत्पूज्यपादशिष्यस्य  
 श्रीमच्छकरभगवत कृतौ  
 **जगन्नाथाष्टक सपूर्णम्॥**
-
-
 
 **![](../books_images/U-IMG-1722435406Screenshot2024-07-31194634.png)**
 
@@ -2645,8 +2614,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 श्रीगोवि दभगवत्पूज्यपादशिष्यस्य  
 श्रीमच्छकरभगवत कृतौ  
 **शिवपञ्चाक्षरनक्षत्रमालास्तोत्रसपूर्णम्॥**
-
-
 
 **![](../books_images/U-IMG-1722527150Screenshot2024-08-01211501.png)**
 
@@ -4028,14 +3995,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUzNDQzMjk2NTc
 **इति श्रीललितात्रिशतीस्तोत्र सपूर्णम्॥**
 
 **![](../books_images/U-IMG-1722960052Screenshot2024-08-06212947.png)**
-
-
-
-
-
-
-
-
-
 
 \]

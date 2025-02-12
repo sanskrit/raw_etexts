@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzMzk5OTM4ODA
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 श्रीमदपय्यदीक्षितविरचितं
 
 वैराग्यशतकम्‌ ।
@@ -233,15 +221,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQzMzk5OTM4ODA
 इच्छामि च धाम परं गच्छामि तु विश्वनाथपुरीम्‌ ॥ १०१ ॥
 
 इति श्रीमदप्पयदीक्षितविरचितं वैराग्यशतकं संपूर्णम्‌ ।  
-
-
-
-
-
-
-
-
-
-
 
 \]

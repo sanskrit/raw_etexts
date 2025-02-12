@@ -13,9 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg3MTQ4NDY3ODI
 
 \[
 
-
-
-
 शिवः शक्त्या युक्तो यदि भवति शक्तः प्रभवितुं  
 न चेदेवं देवो न खलु कुशलः स्पन्दितुमपि ।  
 अतस्त्वामाराध्यां हरिहरविरञ्च्यादिभिरपि  
@@ -531,7 +528,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDg3MTQ4NDY3ODI
 निरातङ्के नित्ये निगमय ममापि स्तुतिमिमाम् ॥ १०३ ॥
 
 \\\\Z  
-
-
 
 \]

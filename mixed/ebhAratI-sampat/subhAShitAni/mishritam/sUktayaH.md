@@ -12,17 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMzMyNjk0MDg
 
 \[
 
-
-
-
-
-
-
 **लोकोक्तयः - सूक्तयः - विशिष्टव्यावहारिकाश्च**
-
-
-
-
 
 १. अक्षाश्च नामानभिजातेश्वरा इव न सर्वकाल सुमुखा भवन्ति \। (
 
@@ -102,13 +92,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMzMyNjk0MDg
 
 ३०. अमृदङ्गो नाटकाङ्कः संवृत्तः (पद्मप्रा.)
 
-
-
 **----------------------------------------------------**
-
-
-
-
-
 
 \]

@@ -12,10 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQwOTY1MzU3NjE
 
 \[
 
-
-
 पंचमुखहनुमत्कवचम्
-
 
 श्रीगणेशाय नमः ।  
 ॐ श्री पञ्चवदनायाञ्जनेयाय नमः । ॐ अस्य श्री  
@@ -146,9 +143,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQwOTY1MzU3NjE
 कवचस्मरणेनैव महाबलमवाप्नुयात् ॥ २१॥  
 ॥ इति श्रीसुदर्शनसंहितायां श्रीरामचन्द्रसीताप्रोक्तं  
 श्रीपञ्चमुखहनुमत्कवचं सम्पूर्णम् ॥
-
-
-
-
 
 \]

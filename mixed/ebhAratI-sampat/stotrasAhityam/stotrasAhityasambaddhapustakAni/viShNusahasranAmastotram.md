@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0NTAyMTI4ODg
 
 \[
 
-
-
 विष्णुसहस्रनामस्तोत्रम्
 
       ॐ}  
@@ -447,7 +445,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0NTAyMTI4ODg
  {॥ इति श्रीविष्णोर्दिव्यसहस्रनामस्तोत्रं संपूर्णम् ॥}  
      {॥ ॐ तत् सत॥}
 
-
 आद्दितिओनल् Cओन्cलुदिन्ग् ष्लोकस्  
 ॐ आपदामपहर्तारं दातारं सर्वसंपदाम् ।  
 लोकाभिरामं श्रीरामं भूयो भूयो नमाम्यहम् ॥  
@@ -473,7 +470,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0NTAyMTI4ODg
 तत्सर्व क्षम्यतां देव नारायण नमोऽस्तु ते ॥  
 विसर्गबिन्दुमात्राणि पदपादाक्षराणि च ।  
 न्यूनानि चातिरिक्तानि क्षमस्व पुरुषोत्तम ॥
-
 
 आल्तेर्नते Cओन्cलुदिन्ग् ष्लोकस्  
 नमः कमलनाभाय नमस्ते जलशायिने ।  
@@ -503,6 +499,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDU0NTAyMTI4ODg
 विलयं यान्ति पापानि चान्यपापस्य का कथा ।  
 सर्वपापविनिर्मुक्तो विष्णुलोकं स गच्छति ॥  
      {॥ हरिः ॐ तत्सत् ॥}
-
 
 \]

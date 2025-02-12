@@ -12,18 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwNjYyMTU4MDI
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 यामुनस्तोत्ररत्नम्
 
 नमो ऽचिन्त्याद्भुताक्लिष्टज्ञानवैराग्यराशये \।  
@@ -230,17 +218,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwNjYyMTU4MDI
 ननु प्रपन्नस् सकृद् एव नाथ तवाहं अस्मीति च याचमानः \।  
 तवानुकम्प्यस् स्मर्तः प्रतिज्ञानां मदेकवर्जं किम् इदं व्रतं ते \।\।
 यमुना. स्तो. र. ६४ \।\।
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

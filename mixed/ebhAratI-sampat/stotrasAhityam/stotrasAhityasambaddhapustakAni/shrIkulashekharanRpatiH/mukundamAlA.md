@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5NjUzMjc3NjM
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 श्रीकुलशेखरनृपतिविरचिता मुकुन्दमाला
 
 वन्दे मुकुन्दमरविन्ददलायताक्षं  
@@ -141,14 +129,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM5NjUzMjc3NjM
 राज्ञा कृता स्तुतिरियं कुलशेखरेण ॥ ३४ ॥
 
 इति श्रीकुलशेखरनृपतिविरचिता मुकुन्दमाला समाप्ता ।
-
-
-
-
-
-
-
-
-
 
 \]

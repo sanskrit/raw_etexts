@@ -17,25 +17,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1NTMxNzYxOTA
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **॥श्रीः॥**
 
@@ -382,14 +366,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjA1NTMxNzYxOTA
 **समाप्तोऽयं ग्रन्थः॥**
 
 **![](../../../books_images/U-IMG-1723808789Screenshot2024-08-16114601.png)**
-
-
-
-
-
-
-
-
-
 
 \]

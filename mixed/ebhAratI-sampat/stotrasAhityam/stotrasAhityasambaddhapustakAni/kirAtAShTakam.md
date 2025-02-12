@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1MDI3NDA3NDY
 
 \[
 
-
-
-
-
 किराताष्टकम्
-
-
 
 प्रत्यर्थि व्रातवक्षःस्थलरुधिरसुरा-  
 चापे सन्धाय तिष्ठन् हृदयसरसिजे  
@@ -62,8 +56,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM1MDI3NDA3NDY
 संहृत्यात्म विरोधिनः खलजनान्  
 यात्यन्ते यमदूतभीतिरहितो-  
 इति किराताष्टकं सम्पूर्णम् ॥
-
-
-
 
 \]

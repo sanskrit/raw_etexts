@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTcxNjA4Mjc
 
 \[
 
-
-
 सुगिरा चित्तहारिण्या पश्यन्त्या दृश्यमानया ।  
 जयत्युल्लासितानन्दमहिमा परमेश्वरः ॥ १ ॥
 
@@ -369,9 +367,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODMxNTcxNjA4Mjc
 स्तवचिन्तामणिं भूरिमनोरथफलप्रदम् ।  
 भक्तिलक्ष्म्यालयं शम्भो भट्टनारायणो व्यधात् ॥ १२० ॥
 
-
 \\\\Z  
-
-
 
 \]

@@ -13,13 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NDUwODM3NTY
 
 \[
 
-
-
-
-
 अच्युताष्टकम्
-
-
 
 अच्युतं केशवं रामनारायणं
 
@@ -93,10 +87,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg0NDUwODM3NTY
 
 ॥  
 इति श्रीशंकराचार्यविरचितमच्युताष्टकं संपूर्णम् ॥
-
-
-
-
-
 
 \]

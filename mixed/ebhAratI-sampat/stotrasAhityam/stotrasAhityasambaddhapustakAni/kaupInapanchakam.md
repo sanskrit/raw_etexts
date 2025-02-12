@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg2NTMyMjE3Mjc
 
 \[
 
-
-
-
 कौपीनपञ्चकम्
-
 
 ॥कौपीन पंचकं ( शंकराचार्य) \।\।  
 वेदान्तवाक्येषु सदा रमन्तो  
@@ -43,9 +39,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg2NTMyMjE3Mjc
 ब्रह्माहमस्मीति विभावयन्तः \।  
 भिक्षाशिनो दिक्षु परिभ्रमन्तः  
 कौपीनवन्तः खलु भाग्यवन्तः \।\।५\।\।  
-
-
-
-
 
 \]

@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk4OTI2NTUxNTQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 दत्तापराधक्षमापणस्तोत्रम्
 
 दत्तात्रेयं त्वां नमामि प्रसीद त्वं सर्वात्मा सर्वकर्ता न वेद ।  
@@ -45,17 +33,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk4OTI2NTUxNTQ
 आपश्च विद्युत्परिपान्तु देवाः श सर्वतो मेऽभयमस्तु शान्तिः ॥ ८॥  
      ॥इति श्रीवासुदेवानन्दसरस्वतीविरचितं  
       दत्तापराधक्षमापणस्तोत्रं संपूर्णम् ॥
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

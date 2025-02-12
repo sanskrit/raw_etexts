@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAwNjYyNzI3ODg
 
 \[
 
-
-
-
 कुमारीसहस्रनामस्तोत्रम्
-
 
 आनन्दभैरव उवाच  
 वद कान्ते सदानन्दस्वरूपानन्दवल्लभे ।  
@@ -399,8 +395,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAwNjYyNzI3ODg
 सिद्धमन्त्र-प्रकरणे दिव्यभावनिर्णये  
 अष्टोत्तरसहस्रनाममङ्गलोल्लासे  
 दशमपटले श्रीकुमारीसहस्रनामस्तोत्रम् सम्पूर्णम् ॥
-
-
-
 
 \]

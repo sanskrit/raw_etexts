@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA3MTQ4MDQ2Njk
 
 \[
 
-
-
 ॥ कनकधारास्तोत्रम् ॥  
 अङ्गं हरेः पुलकभूषणमाश्रयन्ती  
 भृङ्गाङ्गनेव मुकुलाभरणं तमालम् ।  
@@ -89,7 +87,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjA3MTQ4MDQ2Njk
 गुणाधिका गुरुतरभाग्यभाजिनो  
 भवन्ति ते भुवि बुधभाविताशयाः ॥ १८ ॥  
 इति श्रीमच्छङ्करभगवत्पूज्यपादैः विरचितं कनकधारास्तोत्रं संपूर्णम् ॥  
-
-
 
 \]

@@ -12,10 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyMDk2MzE4MDg
 
 \[
 
-
-
 विभीषणकृतम् हनुमत्स्तोत्रम्
-
 
 श्रीगणेशाय नमः ।  
 नमो हनुमते तुभ्यं नमो मारुतसूनवे ।  
@@ -68,9 +65,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDkyMDk2MzE4MDg
 ये पठिष्यन्ति भक्त्या वै सिद्ध्यस्तत्करे स्थिताः ॥ २४॥  
 इति श्रीसुदर्शनसंहितायां विभीषणगरुडसंवादे  
 विभीषणकृतं हनुमत्स्तोत्रं सम्पूर्णम् ॥
-
-
-
-
 
 \]

@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAzNzUzMjkzNzk
 
 \[
 
-
-
 पण्डितराजश्रीजगन्नाथकृता अमृतलहरी
 
 मातः पातकपातकारिणि तव प्रातः प्रयातस्तटं  
@@ -61,7 +59,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAzNzUzMjkzNzk
 स्तवः कलिन्दनन्दिन्या निर्मलो निरमीयत ॥ ११
 
 ॥ इति पण्डितराजश्रीजगन्नथकृतामृतलहरिः समाप्ता ॥  
-
-
 
 \]

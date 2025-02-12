@@ -13,21 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNDgwOTAwOTg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 गङ्गाष्टकम् (वाल्मीकिकृतम्)
-
 
 अथ श्रीमद्वामीकिविरचितं गङ्गाष्टकम् ॥  
 मातः शैलसुता-सपत्नि वसुधा-शृङ्गारहारावलि  
@@ -65,16 +51,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUzNDgwOTAwOTg
 प्रक्षाल्य गात्र-कलिकल्मष-पङ्क-माशु  
 मोक्षं लभेत् पतति नैव नरो भवाब्धौ ॥ ९॥  
 ॥ इति वाल्मीकिविरचितं गङ्गाष्टकं सम्पूर्णम् ॥
-
-
-
-
-
-
-
-
-
-
-
 
 \]

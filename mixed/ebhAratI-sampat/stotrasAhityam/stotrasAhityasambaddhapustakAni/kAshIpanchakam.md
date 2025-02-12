@@ -12,10 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5MjY5MDA3MDY
 
 \[
 
-
-
-
-
 काशीपञ्चकम्
 
 .. काशीपञ्चकम् ..
@@ -47,8 +43,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDU5MjY5MDA3MDY
 
 विश्वेशोऽयं तुरीयः सकलजन-मनःसाक्षिभूतोऽन्तरात्मा  
 देहे सर्वं मदीये यदि वसति पुनस्तीर्थमन्यत्किमस्ति .. ५..
-
-
-
 
 \]

@@ -13,15 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM1NjY1NzM1NDI
 
 \[
 
-
-
-
-
 नीतिसारः
-
-
-
-
 
 प्रणम्य
 
@@ -151,8 +143,6 @@ Man is bound to experience the fruits of his good and bad actions. The karma doe
 
 One cannot earn or retain wealth without undergoing suffering. There is suffering in earning wealth as well as in spending it. Is not wealth the home of suffering?
 
-
-
 विद्वानेव
 
 विजानति
@@ -233,8 +223,6 @@ The parents who do not educate a child are his enemies since he is humiliated in
 
 Onion does not lose its smell even if it is planted in a basin of camphor, tended using musk and watered using the dew from rose petals. 
 
-
-
 आचार्यात्पादमादत्ते
 
 पादं
@@ -312,8 +300,6 @@ When a girl is getting married, the father of the girl looks for education in th
 ११
 
 A scorpion has poison in its tail. A bee has poison in its head. Takshaka (a snake mention in Puranas) has poison in its teeth. An evil person has poison in all his limbs.
-
-
 
 पक्षीणां
 
@@ -470,8 +456,6 @@ Helping an evil person will cause harm to one even as feeding milk to a snake wi
 १७
 
 The fruit of giving charity to a knower of Truth (Brahma Jnani) multiplies like an arrow, shot by Arjuna that turns into ten arrows when he takes aim, hundred when he shoots them, thousand on the way and a shower of arrows when they hit the target.
-
-
 
 अश्वप्लवं
 
@@ -736,8 +720,6 @@ In childhood, a woman is protected by her father, by her husband in her youth an
 २६
 
 The snake and the wicked person are both dangerous. The poison of a snake can be neutralized by mantra or medicine while there is no mantra or medicine that can remove the poison of a wicked person.
-
-
 
 आयुः
 
@@ -1050,8 +1032,6 @@ Speaking sweet words to the wicked is like offering a garland of exquisite flowe
 ३८
 
 Morning Sun, smoke from funeral pyre, coitus with old woman, muddy water and eating curd-rice at night increase ill health day by day.
-
-
 
 वृद्धार्को
 
@@ -1393,8 +1373,6 @@ Company of wife is as good as the treatment given by ten physicians. Sun is ten 
 
 ५२
 
-
-
 ------------------------------------------------------------------------
 
 \[1\] Here the reference is to the Panchatantra story of the woman who killed a mongoose assuming that it had killed her child. She came to know later that the mongoose had in fact saved the child by killing a snake that was about to bite the child. Thus, she had to grieve on account of her thoughtless action.
@@ -1404,8 +1382,6 @@ Company of wife is as good as the treatment given by ten physicians. Sun is ten 
 \[3\] Hasta is a unit equal to cubit, a measure of length - equal to 24 angulas or about 18 inches, being the distance between the elbow and the tip of the middle finger
 
 \[4\] A kind of beautiful red blossoms, but without any odour that grow on Palasa tree
-
-
 
 ------------------------------------------------------------------------------------------------
 
@@ -2013,8 +1989,6 @@ Elephant shines by the rut
 
 \[2\], sky by rain clouds, woman by character, horse by speed, temple by regular festivals, speech by grammatical correctness, rivers by swan couples, an assembly by the presence of scholars, a family by virtuous son, earth by king and the three worlds by the Sun.
 
-
-
 सासूयोऽसत्यवाक्
 
 चैव
@@ -2142,8 +2116,6 @@ One who wears fragrant flowers on head, keeps the feet always clean, associates 
 ७९
 
 The wicked, if they are educated, start arguing unnecessarily; become arrogant if they are rich; if they become powerful, they start tormenting others. At the same time the virtuous persons utilize education, wealth and power for knowledge, charity and protection of others.
-
-
 
 अनुचितकर्मारंभः
 
@@ -2839,8 +2811,6 @@ The life of one who is ignorant is meaningless like the tail of a dog which is o
 
 A student who serves the guru attains knowledge just as one who digs the earth gets water from the bottom of the earth.
 
-
-
 श्लोकेन
 
 वा
@@ -3002,8 +2972,6 @@ One ought to give one’s daughter in marriage into a noble family; One’s son 
 ११०
 
 What is impossible for those who are competent? Does distance matter to those who are industrious? Which is foreign land for the learned persons? Who is a stranger for those who talk sweetly?
-
-
 
 धनधान्यप्रयोगेषु
 
@@ -3167,8 +3135,6 @@ Virtues adorn beauty; character adorns family; success in work adorns knowledge;
 
 Beauty is in vain if one has no virtues; family reputation is of no value for one who has no character; knowledge that doesn’t give success is in vain; wealth that is not used for enjoyment is also in vain.
 
-
-
 विद्यार्थी
 
 सेवकः
@@ -3201,8 +3167,6 @@ Wake from sleep the 7 persons mentioned below: student, servant, traveler, a hun
 
 म्
 
-
-
 ------------------------------------------------------------------------
 
 \[1\] The leaf of piper-betel, which together with the areca-nut, catechu, chunam (lime), and spices is usually chewed after meals.
@@ -3212,8 +3176,5 @@ Wake from sleep the 7 persons mentioned below: student, servant, traveler, a hun
 \[3\] A karmachandala is a person belonging to the lowest and most despised of the mixed castes originating from a Sudra father and a Brahmana mother – Practical Sanskrit English Dictionary by VS Apte.
 
 ----------------------------------------------------------------------
-
-
-
 
 \]

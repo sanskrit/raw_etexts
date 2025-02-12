@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY0MTE4OTQ3MjE
 
 \[
 
-
-
 ललिता सहस्र नाम स्तोत्रम्
 
    ॥ न्यासः ॥  
@@ -403,9 +401,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY0MTE4OTQ3MjE
 एवं श्रीललिता देव्या नाम् नां साहस्रकं जगुः ।  
 ॥ इति श्री ब्रह्माण्ड पुराणे उत्तरखण्डे श्री हयग्रीवागस्त्यसंवादे  
 श्रीललिता सहस्रनाम स्तोत्र कथनं सम्पूर्णम् ॥
-
-
-
-
 
 \]

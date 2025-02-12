@@ -13,13 +13,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5NzE0MjI0OTI
 
 \[
 
-
-
-
-
 अघोरकष्टोद्धारणस्तोत्रम्
-
-
 
 श्रीपाद श्रीवल्लभ त्वं सदैव।  
 श्री दत्तास्मान पाहि देवाधीदेव॥
@@ -56,8 +50,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5NzE0MjI0OTI
 प्रपठेन्नियतो भक्त्या स श्रीदत्तप्रियोभवेत॥  
 ॥  
 इति श्रीमत्वासुदेवानंदसरस्वतिविरचितं अघोरकष्टोद्धारणस्तोत्रम सम्पूर्णम॥
-
-
-
 
 \]
