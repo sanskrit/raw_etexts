@@ -12,9 +12,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTM1Mjg0Mzk
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 दूतघटोत्कचम्
 
 (नान्द्यतन्ते ततः प्रविशति सूत्रधारः)
+
+
 
 सूत्रधारः---नारायणस्त्रिभुवनैकपरायणो वः
 
@@ -45,6 +61,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTM1Mjg0Mzk
 स्थापना
 
 ------
+
+
 
 प्रथमोऽङ्कः
 
@@ -287,6 +305,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTM1Mjg0Mzk
 धृतराष्ट्रः---पुत्र! अर्जुनमपि न जानीषे।
 
 दुर्योधनः---तात! न जाने।
+
+
 
 धृतराष्ट्रः---तेन हि अहमपि नजाने. किन्तु, अर्जुनस्य बलवीर्यज्ञाः बहवः सन्ति। तान् पृच्छ।
 
@@ -603,5 +623,18 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODcxOTM1Mjg0Mzk
 समाप्तं भासनाटकचक्रम्।
 
  ------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

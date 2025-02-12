@@ -13,11 +13,26 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1Mjc4MzI1NzM
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 **            श्रीरस्तु ।  
           वररुचिकृता ।**
 
 **         उभयभिसारिका ।  
           -----:o: ----**
+
+
+
 
 (नान्द्यन्ते ततः प्रविशति सूत्रधारः)  
 सू -  
@@ -237,5 +252,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM1Mjc4MzI1NzM
    (इति निष्क्रान्तो विटः)  
  इति श्रीमद्वररुचिमुनिकृतिरुभयाभिसारिका नाम भाणः समाप्तः।  
 \*\*\* 
+
+
+
+
+
+
+
+
+
 
 \]

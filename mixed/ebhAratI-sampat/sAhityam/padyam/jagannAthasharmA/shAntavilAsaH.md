@@ -13,7 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NjgzMTkyNDI
 
 \[
 
+
+
        ***शान्तविलासः***
+
+
 
 विशालविषयाटवीवलयलग्नदावानल-  
 प्रमृत्वरशिखावलीविकलितं मदीयं मनः  
@@ -205,6 +209,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjU5NjgzMTkyNDI
 अपि बहलदहनजालं मूर्ध्नि रिपुर्मे निरन्तरं धमतु ।  
 पातयतु वासिधारामहमणुमात्रं न किंचिदपि भाषे ॥44॥
 
+
+
+
+
  \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 
 \]

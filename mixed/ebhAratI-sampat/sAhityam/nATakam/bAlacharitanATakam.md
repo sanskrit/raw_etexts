@@ -11,11 +11,17 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 \[
 
+
+
 बालचरितनाट
 
 क
 
 म्
+
+
+
+
 
 बालचरितस्य
 
@@ -26,6 +32,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 भूमिका
 
 पुरुषाः
+
+
 
 नारदः
 
@@ -48,6 +56,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 वसुदेवस्य
 
 मित्रं
+
+
 
 गोकुलाध्यक्षश्च।
 
@@ -99,6 +109,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 ---
 
+
+
 राजा
 
 प्रतिनायकः
@@ -108,6 +120,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 मथुराधीशः
 
 कंसः।
+
+
 
 चाणूरः
 
@@ -139,6 +153,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 भृत्यो
 
+
+
 बालाकिनामा।
 
 शापः
@@ -146,6 +162,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 ---
 
 शापाधिदेवता।
+
+
 
 कुण्डोदरः
 
@@ -166,6 +184,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 मनोजवः
 
 ---
+
+
 
 वृद्धगोपालकः
 
@@ -198,6 +218,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 यमुनाह्रदे
 
 महानागः।
+
+
 
 स्त्रियाः
 
@@ -245,6 +267,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 द्वारपालिका
 
+
+
 मधुकरिका।
 
 प्रतिहारी
@@ -255,6 +279,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 द्वारपालिका
 
+
+
 यशोधरा।
 
 कौमोदकी
@@ -264,6 +290,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 नायकस्य
 
 आयुधम्।
+
+
+
+
 
 बालचरितनाटकम्
 
@@ -424,6 +454,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 इति
 
 स्थापना
+
+
 
 (
 
@@ -718,6 +750,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 इति
 
 विष्कम्भकः
+
+
 
 अथ
 
@@ -4853,13 +4887,29 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 प्रथमोऽङ्कः
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 द्वितीयोऽङ्कः
+
+
+
+
 
 (
 
@@ -7277,6 +7327,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 द्वितीयोऽङ्कः
 
+
+
 (
 
 ततः
@@ -7532,6 +7584,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 सहवत्सास्त्वमप्यागच्छ।
 
 \]
+
+
 
 (
 
@@ -8667,6 +8721,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 \]
 
+
+
 दामकः
 
 ---
@@ -8798,6 +8854,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 निष्क्रान्तौ।
 
 )
+
+
 
 (
 
@@ -9069,13 +9127,29 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 प्रवेशकः
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 तृतीयोऽङ्कः
+
+
+
+
 
 दामोदर
 
@@ -10511,13 +10585,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 तृतीयोऽङ्कः।
 
+
+
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 चतुर्थोऽङ्कः
+
+
+
+
 
 (
 
@@ -12233,13 +12325,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 
 चतुर्थोऽङ्कः
 
+
+
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 पञ्चमोऽङ्कः
+
+
+
+
 
 (
 
@@ -14089,6 +14199,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE5MTE4Mzk0
 बालचरितम्
 
 ॥
+
+
+
+
+
+
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 

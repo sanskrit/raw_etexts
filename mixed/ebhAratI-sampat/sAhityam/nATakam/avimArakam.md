@@ -11,7 +11,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 
 \[
 
+
+
 अविमारकम्
+
+
 
 अविमारकस्य
 
@@ -21,7 +25,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 
 भूमिका
 
+
+
 पुरुषाः
+
+
 
 राजा
 
@@ -110,6 +118,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 \-
 
 प्रदाता।
+
+
 
 स्त्रियः
 
@@ -218,6 +228,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 नायिकायाः
 
 स्वसा।
+
+
+
+
 
 अविमाश्कम्
 
@@ -508,6 +522,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 इति
 
 स्थापना।
+
+
 
 अथ
 
@@ -916,6 +932,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 निष्क्रान्तः।
 
 )
+
+
 
 (
 
@@ -2627,6 +2645,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 
 प्रथमोऽङ्कः
 
+
+
 (
 
 ततः
@@ -3893,13 +3913,29 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 
 ------
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 द्वितीयोऽङ्कः
+
+
+
+
 
 (
 
@@ -7347,13 +7383,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 
 द्वितीयोऽङ्कः।
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 तृतीयोऽङ्कः
+
+
+
+
+
+
 
 (
 
@@ -8940,6 +8994,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 किमेतत्।
 
 \]
+
+
 
 मागधिका
 
@@ -11889,6 +11945,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 
 तृतीयोऽङ्कः।
 
+
+
 (
 
 ततः
@@ -12941,13 +12999,29 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 
 प्रवेशकः
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 चतुर्थोऽङ्कः
+
+
+
+
 
 (
 
@@ -14690,6 +14764,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 हि
 
 गृह्यतामंगुलीयकम्।
+
+
 
 अविमारकः
 
@@ -16621,13 +16697,29 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 
 चतुर्थोऽङ्कः
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 पञ्चमोऽङ्कः
+
+
+
+
 
 (
 
@@ -20161,6 +20253,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 
 ---------
 
+
+
 (
 
 ततः
@@ -21133,13 +21227,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 
 प्रवेशकः।
 
+
+
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 षष्ठोऽङ्कः
+
+
+
+
 
 (
 
@@ -21860,6 +21972,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 जयतु
 
 स्वामी।
+
+
 
 कुन्तिभोजः
 
@@ -24224,6 +24338,12 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjQ2NDgwNTA1
 एषोऽवसितः
 
 )
+
+
+
+
+
+
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 

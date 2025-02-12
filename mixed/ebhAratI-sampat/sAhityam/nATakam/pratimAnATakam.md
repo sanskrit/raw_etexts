@@ -11,7 +11,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 \[
 
+
+
 प्रतिमा
+
+
 
 प्रतिमायाः
 
@@ -26,6 +30,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 प्रधानपात्राणि
 
 )
+
+
+
+
 
 पुरुषाः
 
@@ -111,6 +119,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 कञ्चुकीयः
 
+
+
 स्त्रियः
 
 10\.
@@ -176,6 +186,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 सीतायाः
 
 सखी
+
+
 
 प्रतिमा
 
@@ -374,6 +386,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 स्थापना।
 
 -------
+
+
 
 अथ
 
@@ -916,6 +930,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 इति
 
 विष्कम्भकः
+
+
+
+
 
 अथ
 
@@ -4853,6 +4871,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
  -------
 
+
+
 (
 
 ततः
@@ -5189,13 +5209,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 मिश्रविष्कम्भकः
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 द्वितीयोऽङ्कः।
+
+
+
+
+
+
 
 (
 
@@ -7091,6 +7129,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 द्वितीयोऽङ्कः
 
+
+
 (
 
 ततः
@@ -7639,11 +7679,29 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 ------
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 तृतीयोऽङ्कः
+
+
+
+
+
+
 
 (
 
@@ -10029,6 +10087,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 \]
 
+
+
 भरतः
 
 ---
@@ -10409,6 +10469,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 तृतीयोऽङ्कः
 
+
+
 (
 
 ततः
@@ -10781,13 +10843,33 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 प्रवेशकः।
 
+
+
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 चतुर्थोऽङ्कः
+
+
+
+
+
+
 
 (
 
@@ -13445,13 +13527,33 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
  -------
 
+
+
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 पञ्चमोऽङ्कः
+
+
+
+
+
+
 
 (
 
@@ -15909,6 +16011,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
  ------
 
+
+
 (
 
 ततः
@@ -16257,6 +16361,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 )
 
+
+
 (
 
 ततः
@@ -16529,13 +16635,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 मिश्रविष्कम्भकः
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 षष्ठोऽङ्कः।
+
+
+
+
+
+
 
 (
 
@@ -18665,6 +18789,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 षष्ठोऽङ्कः।
 
+
+
 (
 
 ततः
@@ -18975,13 +19101,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
 मिश्रविष्कम्भकः।
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 सप्तमोऽङ्कः।
+
+
+
+
+
+
 
 (
 
@@ -20761,7 +20905,21 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjMxNjMyNjU0
 
  -----------
 
+
+
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 

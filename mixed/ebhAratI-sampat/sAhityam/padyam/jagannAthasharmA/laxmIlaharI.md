@@ -13,7 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUxNTAyNTIzMDY
 
 \[
 
+
+
         ***लक्ष्मीलहरी***
+
+
 
 0000समुन्मीलन्नीलाम्बुजनिकरनीराजितरुचा-  
 मपाङ्‌गानां भङ्‌गैरमृतलहरीश्रेणिमसृणैः ।  
@@ -220,6 +224,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDUxNTAyNTIzMDY
 परे नित्यं मातर्गुणमयि परब्रह्ममहिले  
 जगन्नाथस्याकर्णय मृदुलवर्णावलिमिमाम्‌ ॥41॥
 
+
+
+
+
  \*\*\*\*\*\*\*\*\*\*
+
 
 \]

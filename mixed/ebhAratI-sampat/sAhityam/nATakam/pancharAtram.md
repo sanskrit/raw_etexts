@@ -11,7 +11,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 
 \[
 
+
+
 पञ्चरात्रम्
+
+
 
 पञ्चरात्रस्य
 
@@ -20,6 +24,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 \-
 
 भूमिका
+
+
 
 दूर्योधनः
 
@@ -159,6 +165,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 
 परिजनः
 
+
+
 पञ्चरात्रम्
 
 (
@@ -280,6 +288,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 इति
 
 स्थापना।
+
+
 
 अथ
 
@@ -1050,6 +1060,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 इति
 
 विष्कम्भकः।
+
+
 
 अथ
 
@@ -2058,6 +2070,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 ---
 
 कोऽत्र।
+
+
 
 (
 
@@ -4155,6 +4169,10 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 
 प्रथमोऽङ्कः
 
+
+
+
+
 (
 
 ततः
@@ -4389,6 +4407,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 
 !\]
 
+
+
 (
 
 प्रविश्य
@@ -4604,6 +4624,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 शीघ्रम्।
 
 \]
+
+
 
 (
 
@@ -5189,13 +5211,31 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 
 विष्कम्भकः
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 
 अथ
 
 द्वितीयोऽङ्कः
+
+
+
+
+
+
 
 (
 
@@ -8841,6 +8881,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 
 ---
 
+
+
 न
 
 ते
@@ -9647,7 +9689,19 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODgyMTU3MzY0
 
 द्वितीयोऽङ्कः
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
+
+
+
+
+
 
 .
 

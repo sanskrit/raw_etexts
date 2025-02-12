@@ -13,7 +13,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
 श्रीश्रीभावनासारसङ्ग्रहः
+
+
+
+
 
 (१) निशान्तलीला (१८५ वेर्सेस्)
 
@@ -21,17 +37,29 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 (३) पूर्वाह्नलीला (३९९ वेर्सेस्)
 
+
+
+
+
 श्रीश्रीभावनासारसङ्ग्रहः
+
+
 
 (१)
 
 निशान्तलीला
 
+
+
 अज्ञानतिमिरान्धस्य ज्ञानाञ्जनशलाकया ।
 
 चक्षुरुन्मीलितं येन तस्मै श्रीगुरवे नमः ॥१॥
 
+
+
 चैतन्यचन्द्रामृतं १३—
+
+
 
 सिंहस्कन्धं मधुरमधुरस्मेरगण्डस्थलान्तं
 
@@ -41,7 +69,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एकीभूतं वपुरवतु वो राधया माधवस्य ॥२॥
 
+
+
 आनन्दवृन्दावनचम्पूः १.२—
+
+
 
 शोणस्निग्धाङ्गुलिदलकुलं जातरागं परागैः
 
@@ -51,13 +83,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जङ्घानालं चरणकमलं पातु नः पूतनारेः ॥३॥
 
+
+
 भक्तिरसामृतसिन्धु १.१.४—
+
+
 
 भक्तिरसामृतसिन्धौ चरतः परिभूतकालजालभियः ।
 
 भक्तमकरानशीलितमुक्तिनदीकान्नमस्यामि ॥४॥
 
+
+
 श्रीगौरचन्द्रः
+
+
 
 प्रगे श्रीवासस्य द्विजकुलरवैर्निष्कु अवरे
 
@@ -69,7 +109,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मूलसूत्रः
 
+
+
 गोविन्दलीलामृतं १.१०—
+
+
 
 रात्र्यन्ते त्रस्तवृन्देरितबहुविरवैर्बोधितौ कीरशारी
 
@@ -79,7 +123,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधाकृष्णौ सतृष्णावपि निजनिजधाम्न्याप्ततल्पौ स्मरामि ॥६॥
 
+
+
 कृष्णभावनामृतं १.४९—
+
+
 
 प्रतिस्वसेवावसरप्रबोधिता
 
@@ -89,6 +137,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सैव स्वयं जागरयाञ् चकार किम्? ॥७॥
 
+
+
 उत्थाय तल्पाच्चकितेक्षणाः क्षणान्
 
 दुहानयोर्नागरचक्रवर्तिनोः ।
@@ -96,6 +146,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वापं रहःस्वापमभङ्गमङ्गना
 
 आलक्ष्य तूष्णीमधिशयमासत ॥८॥
+
+
 
 पप्रच्छुरन्योन्यमिमा मिमानया
 
@@ -105,6 +157,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वस्वाक्षिभृङ्गीततिलीढवक्षसः ॥९॥
 
+
+
 निशान्तसेवोचितमाल्यवीटिका
 
 कृत्यात्तचित्ता अथ काचिदाह ताः ।
@@ -112,6 +166,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अनङ्गबद्धाङ्गयुवद्वयोच्छलत्
 
 सौरभ्यसौलभ्यवती रसोच्चला ॥१०॥
+
+
 
 जानीत जालाध्वगतास्यपद्माः
 
@@ -121,6 +177,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धिनोति सुप्तिः परिरभ्य कीदृक॥११॥
 
+
+
 इतस्ततो न्यस्तमणिप्रदीपान्
 
 अफुल्लनीलोत्पलचम्पकाभान।
@@ -129,7 +187,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अनावृतैर्मण्डनमाल्यचेलैः ॥१२॥
 
+
+
 कृष्णभावनामृतं १.१५१९—
+
+
 
 स कृष्णमेघः स्थिरचञ्चलाली
 
@@ -139,6 +201,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रत्यर्हणेनादित एव धिन्वनाणाम् ॥१३॥
 
+
+
 ताम्बूलमालाविविधानुलेपैर्
 
 अङ्गारधान्यागुरुवैश्च धूपैः ।
@@ -146,6 +210,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कालोचितैस्तैः प्रतिपाद्यमानैः
 
 कतिक्षणांस्ता गमयां बभूवुः ॥१४॥
+
+
 
 प्रभञ्जनो रञ्जयितुं निकुञ्ज
 
@@ -155,6 +221,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्रुतं प्रयातुं नतरां शशाक ॥१५॥
 
+
+
 या वृक्षवल्ल्यो व्यकसंस्तदैव ताश्
 
 चुम्बंस्तदामोदभरैर्दिशो दश ।
@@ -162,6 +230,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रसारितैः श्वासपथप्रवेशितैर्
 
 भृङ्गावलीर्जागरयाञ् चकार सः ॥१६॥
+
+
 
 तद्गुञ्जितै रञ्जितसुस्वरैर्भृशं
 
@@ -171,7 +241,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न्ययुङ्क्त कालज्ञतया रयादियम् ॥१७॥
 
+
+
 गोविन्दलीलामृतं १.१२—
+
+
 
 आसन्यदर्थं प्रथमं द्विजेन्द्राः
 
@@ -181,7 +255,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रीडानिकुञ्जं परितश्चुकूजुः ॥१८॥
 
+
+
 गोविन्दलीलामृतं १.१४२१—
+
+
 
 अथालिवृन्दं मकरन्दलुब्धं
 
@@ -191,6 +269,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जुगुञ्ज तल्पीकृतकञ्जपुञ्जे ॥१९॥
 
+
+
 झङ्कृतिमङ्गीकुरुते
 
 रतिमङ्गलझल्लरीव गोविन्दम् ।
@@ -199,7 +279,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मधुपीततिरुद्भ आनन्दा ॥२०॥
 
+
+
 पिकश्रेणी मनोजस्य वीणेव व्यक्तपञ्चमम् । आललाप स्वरं तारं कुहूरिति मुहुर्मुहुः ॥२१॥
+
+
 
 रतिमधुरविपञ्चीनादभङ्गीं दधाना
 
@@ -209,6 +293,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कलयति सहकारे काकलीं कोकिलाली ॥२२॥
 
+
+
 विद्राव्य गोपीधृतिधर्मचर्या
 
 लज्जामृगीर्मानवृकेष्वमर्षी ।
@@ -216,6 +302,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कपोतघूत्कारमिषेण शङ्के
 
 गर्जत्ययं कामतरक्षुराजः ॥२३॥
+
+
 
 राधाधैर्यधराधरोद्धृतिविधौ केऽन्ये समर्था विना
 
@@ -225,9 +313,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 केकाः किं समुदीरयन्ति शिखिनस्तौ बोधयन्तः प्रगे ॥२४॥
 
+
+
 ह्रस्वदीर्घप्लुतैर्युक्तं कुकूकूकू इति स्वरम् ।
 
 कुक्कुटोऽप्यपठत्प्रातर्वेदाभ्यासी बटुर्यथा ॥२५॥
+
+
 
 अथ पक्षिणां कलकलैः प्रबोधिताव्
 
@@ -237,7 +329,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कपटेन मीलितदृशावतिष्ठताम् ॥२६॥
 
+
+
 कृष्णभावनामृतं १.२८३२—
+
+
 
 वृन्देङ्गितज्ञः स विचक्षणः शुकः
 
@@ -247,6 +343,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेमास्पदत्वानुपमः समभ्यधात॥२७॥
 
+
+
 जय स्मराशेषविलासवैदुषी
 
 निष्णातगोपीजनलोचनामृत! ।
@@ -254,6 +352,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्राणप्रियाप्रेमधुनीमतङ्गज!
 
 स्वमाधुरीप्लावितलोकसंहते ॥२८॥
+
+
 
 प्रियाधरास्वादसुखे निमज्जसि
 
@@ -263,6 +363,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किं चाधुनेयं क्षणदा क्षणं द्यति ॥२९॥
 
+
+
 जहीहि निद्रां श्लथयोपगूहनं
 
 व्रजं प्रतिष्ठासुररं प्रभो! भव ।
@@ -270,6 +372,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रातर्बभूवानुसर स्वचातुरीं
 
 प्रच्छन्नकामत्वमथोररीकुरु ॥३०॥
+
+
 
 जय व्रजानन्दन! नन्दचेतः
 
@@ -279,7 +383,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रयाहि गेहाय धिनु स्वबन्धून॥३१॥
 
+
+
 गोविन्दलीलामृतं १.२३२४—
+
+
 
 गोकुलबन्धो! जय रससिन्धो!
 
@@ -289,6 +397,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बोधय कान्तां रतिभरतान्ताम् ॥३२॥
 
+
+
 उदयं प्रजवादयमेत्यरुणस्
 
 तरुणीनिचये सहजाकरुणः ।
@@ -297,7 +407,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वरितोऽट कलिन्दसुतातटतः ॥३३॥
 
+
+
 कृष्णभावनामृतं १.३३—
+
+
 
 शारी शुभा साऽथ जगाद सूक्ष्मधीः
 
@@ -307,7 +421,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीतर्षितश्रीमुखमुख्ययौवते ॥३४॥
 
+
+
 गोविन्दलीलामृतं १.२५—
+
+
 
 कमलमुखि! विलासायासगाढालसाङ्गी
 
@@ -317,7 +435,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तव सुखमसहिष्णुः साध्वि! चन्द्रासखीव ॥३५॥
 
+
+
 कृष्णभावनामृतं १.३४—
+
+
 
 शेषेऽधुना यद्रतिवल्लभास्य
 
@@ -327,7 +449,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रातस्ततो जागरयाम्यहं त्वाम् ॥३६॥
 
+
+
 गोविन्दलीलामृतं १.३८३९, ४१—
+
+
 
 कृष्णोऽप्यनिद्रः प्रिययोपगूढः
 
@@ -337,6 +463,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नोत्थातुमेतन्मिथुनं शशाक ॥३७॥
 
+
+
 कृष्णस्य जानूपरियन्त्रितसन्नितम्बा
 
 वक्षःस्थले धृतकुचा वदनेऽर्पितास्या ।
@@ -344,6 +472,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कण्ठे निवेशितभुजाऽस्य भुजोपधाना
 
 कान्ता न हीङ्गति मनागपि लब्धबोधा ॥३८॥
+
+
 
 श्रीकृष्णलीलारचनासु दक्षस्
 
@@ -353,7 +483,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शुकः समध्यापितकीरलक्षः ॥३९॥
 
+
+
 गोविन्दलीलामृतं १.३२—
+
+
 
 एकं प्राच्यामरुणकिरणापा अलायां विधत्ते
 
@@ -363,7 +497,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शङ्के भास्वानुदयमुदगात्कृष्ण! निद्रां जहीहि ॥४०॥
 
+
+
 कृष्णाह्निककौमुदी १.१९—
+
+
 
 जय जय गुणसिन्धो! प्रेयसीप्राणबन्धो!
 
@@ -373,7 +511,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समयमवकलयापीष्यते कुञ्जसय्या? ॥४१॥
 
+
+
 कृष्णाह्निककौमुदी १.२४—
+
+
 
 अयमपि च शिखण्डी जागरित्वैव खण्डी
 
@@ -383,7 +525,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शिव शिव निजसेवाकालमुज्झन्ति के वा? ॥४२॥
 
+
+
 गोविन्दलीलामृतं १.३६३७—
+
+
 
 वृन्दावक्त्रादधिगतविद्या
 
@@ -393,6 +539,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्या निद्रापनयनयत्ता ॥४३॥
 
+
+
 निद्रां जहीहि विजहीहि निकुञ्जशय्यां
 
 वासं प्रयाहि सखि! नालसतां प्रयाहि ।
@@ -401,7 +549,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कालोचितां हि कृतिनः कृतिमुन्नयन्ति ॥४४॥
 
+
+
 कृष्णाह्निककौमुदी १.३—
+
+
 
 व्रजपतितनयाङ्कासङ्गतो वीतशङ्का
 
@@ -411,7 +563,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न गणयसि विगर्हां किं गुरुणामनर्हाम्? ॥४५॥
 
+
+
 कृष्णाह्निककौमुदी १.७—
+
+
 
 सुदति! कुमुदिनीनामङ्कमासाद्य लीना
 
@@ -421,7 +577,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भवति समय एव ग्लानिहर्षादिदेवः ॥४६॥
 
+
+
 कृष्णाह्निककौमुदी १.१०११—
+
+
 
 वियदतिलघुतारं त्वद्वपुः क्षुण्णहारं
 
@@ -431,6 +591,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अपि यदपि तथापि त्वद्वपुः श्रीभिरापि ॥४७॥
 
+
+
 त्रुटितपतितमुक्ताहारवत्ते वियुक्ता
 
 भवदुडुततिरेषा स्वल्पमात्रावशेषा ।
@@ -439,7 +601,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भवदिव परिवक्रे पश्य सप्तर्षिचक्रे ॥४८॥
 
+
+
 कृष्णाह्निककौमुदी १.२८२९—
+
+
 
 इति कलवचनानां शारिकाणां शुकानां
 
@@ -449,6 +615,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रथममथ स कृष्णः स्वापलीलावितृष्णः ॥४९॥
 
+
+
 युगपदुभयनिद्राभङ्गविध्वस्तमुद्रा
 
 युगपदुभयनेत्रापाङ्गभङ्गी विचित्रा ।
@@ -457,7 +625,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भवदुभयविलोकाभावतः प्राप्तशोका ॥५०॥
 
+
+
 कृष्णभावनामृतं १.३६३८—
+
+
 
 कलक्वणत्कङ्कङनूपुरं जवाद्
 
@@ -467,6 +639,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ता अङ्कहारद्युतिदीपिताननम् ॥५१॥
 
+
+
 स्रस्तांशुकान्वेषणसंभ्रमोदयाद्
 
 इतस्ततो न्यस्तकराब्जमञ्जुलम् ।
@@ -474,6 +648,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शय्योत्थितं केलिविलासिनोस्तयोस्
 
 त्रैलोक्यलक्ष्मीमिव सञ्चिकाय तम् ॥५२॥
+
+
 
 घूर्णालसाक्षं श्लथसर्वगात्रं
 
@@ -483,7 +659,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अन्योन्यमालम्बनतां प्रपेदे ॥५३॥
 
+
+
 अलङ्कारकौस्तुभः ५.११९१२१—
+
+
 
 अन्योन्यग्रथिताङ्गुलीकिसलयामुन्नीय बाहुद्वयीं
 
@@ -493,6 +673,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नानानेति पुनर्नखक्षतधिया सा कृष्णपाणी दधे ॥५४॥
 
+
+
 सङ्गोपाय्य पटाञ्चलेन तनुना निःसारिदन्तावली
 
 ज्योत्स्नाभिः स्नपितेन दक्षिणकराकृष्टेन वक्त्राम्बुजम् ।
@@ -500,6 +682,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लीलोल्लासितकन्धरं मृदुकलैर्वामाङ्गुलिच्छो इका
 
 निःस्वानैश्चलकङ्कणस्वनसखैः श्रीराधिकाऽजृम्भत ॥५५॥
+
+
 
 अलसवलितमूर्ध्वीकृत्य मूर्धोपकण्ठे
 
@@ -509,7 +693,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 परिधिरिव मुखेन्दोर्भाति दोर्द्वन्द्वमस्याः ॥५६॥
 
+
+
 गोविन्दलीलामृतं १.५१५३—
+
+
 
 उत्थायेशः सन्निविष्टोऽथ तल्पे
 
@@ -519,6 +707,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पश्यत्यस्या माधुरीं साधुरीति ॥५७॥
 
+
+
 घूर्णायमानेक्षणखञ्जरी अं
 
 लला अलोलालकभृङ्गजालम् ।
@@ -526,6 +716,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मुखं प्रभाताब्जनिभं प्रियायाः
 
 पपौ दृशेषत्स्मितमच्युतोऽसौ ॥५८॥
+
+
 
 संश्लिष्टसर्वाङ्गुलिबाहुयुग्मम्
 
@@ -535,7 +727,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आलोक्य कान्तां मुमुदे मुकुन्दः ॥५९॥
 
+
+
 कृष्णभावनामृतं १.४०—
+
+
 
 तदैव जृम्भोत्थरदांशुजाल
 
@@ -545,7 +741,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रसज्ञयान्योन्यविलिह्यमानम् ॥६०॥
 
+
+
 गोविन्दलीलामृतं १.५४५९—
+
+
 
 स्वीयाङ्कोत्तानसुप्तामुषसि मृदु मृषा रोदनेषत्स्मितास्याम्
 
@@ -555,6 +755,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कान्तां तां केलितान्तां मुदमतुलतमामाप पश्यन्व्रजेन्दुः ॥६१॥
 
+
+
 हेमाब्जाङ्ग्याः प्रबलसुरतायासजातालसायाः
 
 कान्तस्याङ्के निहतवपुषः स्निग्धतापिञ्छकान्तेः ।
@@ -562,6 +764,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शम्पाकम्पा नवजलधरे स्थास्नुतां चेदधास्यत्
 
 श्रीराधायाः स्फुटमिह तदा साम्यकक्षामवाप्स्यत॥६२॥
+
+
 
 स्फुरन्मकरकुण्डलं मधुरमन्दहासोदयं
 
@@ -571,6 +775,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समीक्ष्य कमलेक्षणा पुनरभूद्विलासोत्सुका ॥६३॥
 
+
+
 परस्परालोकनजातलज्जा
 
 निवृत्तचञ्चद्दरकुञ्चिताक्षम् ।
@@ -578,6 +784,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ईषत्स्मितं वीक्ष्य मुखं प्रियाया
 
 उद्दीप्ततृष्णः पुनरास कृष्णः ॥६४॥
+
+
 
 वामेन चाधः शिर उन्नमय्य
 
@@ -587,6 +795,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुखं प्रियायाः स मुहुश्चुचुम्ब ॥६५॥
 
+
+
 कान्ताधरस्पर्शसुखाब्धिमग्ना
 
 करं धुनाना दरकुञ्चिताक्षी ।
@@ -595,7 +805,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सखीदृशां सा मुदमाततान ॥६६॥
 
+
+
 कृष्णभावनामृतं २.२०२४—
+
+
 
 रूपामृतं मे त्रिजगद्विलक्षणं
 
@@ -605,6 +819,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेयानुपाभुङ्क्ततमां मुदा यतः ॥६७॥
 
+
+
 सैवं विचिन्त्य क्षणमाह कान्तं
 
 तदक्षिपीताखिलमाधुरीका ।
@@ -612,6 +828,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वान्तर्मुदात्यर्थलसद्दृगन्त
 
 लक्ष्मीविहारायतनास्यपद्मम् ॥६८॥
+
+
 
 भो भो विलासिन्नवधेहि यत्त्वया
 
@@ -621,6 +839,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्रुतं समाधित्ससि तन्न किं पुनः ॥६९॥
 
+
+
 स्वचातुरीं साधय मां प्रसाधय
 
 प्रसादयानङ्गमभीष्टदैवतम् ।
@@ -628,6 +848,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 योऽस्मन्मनोमन्दिरवर्त्ययं त्वया
 
 बहिष्कृतो लक्ष्मभिरेभिरेव यत॥७०॥
+
+
 
 सत्यं ब्रवीष्यङ्गजमिष्टदेवं
 
@@ -637,7 +859,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्रक्चन्दनाद्यैरिति तां स ऊचे ॥७१॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 इत्थमीश्वर्या वाक्यं हि
 
@@ -647,7 +873,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समर्पयितुमुत्सुका ॥७२॥
 
+
+
 कृष्णभावनामृतं १.२६—
+
+
 
 द्वारं समुन्मुच्य मनागनारवं
 
@@ -657,7 +887,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ततिर्विशङ्का प्रविवेश वेश्म सा ॥७३॥
 
+
+
 कृष्णभावनामृतं १.९—
+
+
 
 इतस्ततो न्यस्तमणिप्रदीपान्
 
@@ -667,7 +901,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अनावृतैर्मण्डनमाल्यचेलैः ॥७४॥
 
+
+
 गोविन्दलीलामृतं १.६३—
+
+
 
 मिथो दशनविक्षताधरपु औ विलासालसौ
 
@@ -677,7 +915,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुहुर्मुमुदिरे पुरः समभिलक्ष्य ताः स्वप्रियौ ॥७५॥
 
+
+
 कृष्णभावनामृतं २.२५३३—
+
+
 
 अथामुना कङ्कतिकां शनैः शनैर्
 
@@ -687,6 +929,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मालोतवेणीरचनापटीयसा ॥७६॥
 
+
+
 कस्तूरिकाचन्दनकुङ्कुमद्रवैः
 
 सम्भावितैस्तामनुरागलेखया ।
@@ -694,6 +938,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चकार मालाञ्चितचारुचित्रकां
 
 स चित्रचुञ्चुर्धृतनव्यवर्तिकः ॥७७॥
+
+
 
 ता अङ्कयुग्मेन लवङ्गमञ्जरी
 
@@ -703,6 +949,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नानञ्जकञ्जप्रतिमेतदक्षिनी ॥७८॥
 
+
+
 दधार हारं रुचिमञ्जरीलितं
 
 यदा तदोचे प्रियया मदोद्धुरम् ।
@@ -710,6 +958,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 या खण्डिता चन्दनकञ्चुली त्वया
 
 वक्षोजयोस्तां न कुतश्चिकीर्षसि? ॥७९॥
+
+
 
 आलेख्यकर्मण्यतिगर्वधारिणीस्
 
@@ -719,6 +969,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चित्रैर्विचित्रैरिति तां जगाद सः ॥८०॥
 
+
+
 प्रसाधनार्थप्रतिपादनोन्मुख
 
 श्रीरूपलीलारतिमञ्जरीमुखः ।
@@ -726,6 +978,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्तनद्वयं तुलिकयाङ्कयन्हरि
 
 पञ्चेषुपञ्चेषुशरव्यतामगात॥८१॥
+
+
 
 पाणिश्च कम्पे यदि वक्ररेखं
 
@@ -735,6 +989,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धृतीन्धनं दग्धुमना विदग्धः ॥८२॥
 
+
+
 कामस्तमवकल्पमनल्पवैभवैः
 
 सद्यो विधायानियतस्थलस्थितम् ।
@@ -742,6 +998,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विमृज्य संसृज्य विखण्ड्य खण्डशस्
 
 तेनैव सोल्लासमुभावभूषयत॥८३॥
+
+
 
 दास्यश्च ताः फुल्लदृशां कृतार्थतां
 
@@ -751,7 +1009,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मिषेण सर्वा निरगूहि केनचित॥८४॥
 
+
+
 कृष्णभावनामृतं १.४१४२—
+
+
 
 पुनरपि घनघूर्ण श्रीमुखद्वन्द्वयोगाद्
 
@@ -761,6 +1023,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अनृजुकुसुमतल्पे स्रस्तगात्रावभूताम् ॥८५॥
 
+
+
 विरहविकलया तच्छय्यया दूनया किं
 
 कथमपि दरलब्धाश्लेषया निद्रया वा ।
@@ -769,7 +1033,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदपि विदधुराभ्यां विप्रयुक्तौ स्वनन्तः ॥८६॥
 
+
+
 कृष्णाह्निककौमुदी १.४६—
+
+
 
 अगणितकुलनिष्ठा मा निकुञ्जे शयिष्ठाः
 
@@ -779,6 +1047,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुरु न गतसमाधां बन्धुवर्गस्य बाधाम् ॥८७॥
 
+
+
 इयमजनि दिगैन्द्री दृश्यतां देवि! सान्द्री
 
 भवदरुणिमधारा त्वत्पादाब्जानुकारा ।
@@ -786,6 +1056,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इयमपि च वराकी सत्वरा चक्रवाकी
 
 परिमिलित रथाङ्गे जातविच्छेदभङ्गे ॥८८॥
+
+
 
 अपि तव मुखशोभामाप्तुकामोऽतिलोभाद्
 
@@ -795,7 +1067,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजति शशधरोऽस्तं वारयेदद्य कस्तम् ॥८९॥
 
+
+
 कृष्णाह्निककौमुदी १.९—
+
+
 
 सुमुखि! नयनमुद्रां मुञ्च निर्धूय निद्रां
 
@@ -805,7 +1081,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलुलिततनुमेतास्त्वां भजन्तां समेताः ॥९०॥
 
+
+
 कृष्णाह्निककौमुदी १.१२१८—
+
+
 
 निजकरपरिपुष्टा पश्य सेयं प्रविष्टा
 
@@ -815,6 +1095,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भवतु बत कृतार्था प्रीतये ते समर्था ॥९१॥
 
+
+
 नवकिशलयबुद्ध्या जातितोऽन्तर्विशुद्ध्या
 
 रुणपदकमलं ते स्वादितुं कृष्णकान्ते! ।
@@ -822,6 +1104,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 त्वरितमुपसरन्ती त्वत्सखीनां वहन्ती
 
 करसरसिजघातं या विधत्ते प्रयातम् ॥९२॥
+
+
 
 शशिमुखि! तव फेलामात्रभोगे सखेला
 
@@ -831,6 +1115,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तव मुखशशिबिम्बालोकमात्रावलम्बा ॥९३॥
 
+
+
 हरिरतिकुतुकी ते नेत्रयुग्मं मिमीते
 
 नयनयुगममायप्रेम यस्याः प्रमाय ।
@@ -838,6 +1124,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 किमपि विमलमुक्तामालया चारुवक्ता
 
 नियतमुपमिमानः संशयं निर्धुनानः ॥९४॥
+
+
 
 इति निगदितवत्यः शारिकाः प्रेमवत्यः
 
@@ -847,6 +1135,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समुपसृतनिकुञ्जाः प्राप्तसम्मोदपुञ्जाः ॥९५॥
 
+
+
 अथ शयनसतृष्णं बोधयामास कृष्णं
 
 विततिरपि शुकानां कृष्णहर्षोत्सुकानाम् ।
@@ -854,6 +1144,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रवणसुखदसौम्यैः स्निग्धशब्दार्थरम्यैः
 
 सरसतरमनल्पैः कूजितैः सीधुकल्पैः ॥९६॥
+
+
 
 प्रणयरसगभीराश्चारुशब्दार्थधीराः
 
@@ -863,7 +1155,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न खलु बत विदग्धाः कार्यकाले विमुग्धाः ॥९७॥
 
+
+
 कृष्णाह्निककौमुदी १.२३—
+
+
 
 सुभग! रजनिशेषे स्वापगेहे सुशेषे
 
@@ -873,7 +1169,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वयमियमुपगन्त्री स्नेह एवात्र मन्त्री ॥९८॥
 
+
+
 कृष्णाह्निककौमुदी १.२२—
+
+
 
 त्वमसि समयवेत्ता सर्वदुःखैकभेत्ता
 
@@ -883,7 +1183,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यदपि तदपि मुञ्च स्वस्ति तेऽस्मादुदञ्च ॥९९॥
 
+
+
 कृष्णाह्निककौमुदी १.२०२१—
+
+
 
 मदमधुपयुवानः प्राप्तदोषावसानः
 
@@ -893,6 +1197,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सति समयविवेके के विमुह्यन्ति लोके? ॥१००॥
 
+
+
 क्वचन मुखविषादः क्वापि हासप्रसादः
 
 क्व च दयितवियोगः क्वापि कान्तस्य योगः ।
@@ -901,7 +1207,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भवति किमु न कालः क्षोभशोभाविशालः ॥१०१॥
 
+
+
 कृष्णाह्निककौमुदी १.२७—
+
+
 
 जय सुभग! नमस्ते श्रूयतां सत्वरस्ते
 
@@ -911,7 +1221,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नहि समयविदग्धः कार्यकाले विमुग्धः ॥१०२॥
 
+
+
 कृष्णभावनामृतं १.२०२२—
+
+
 
 अथ प्रबुध्यैव विधूय पक्षान्
 
@@ -921,6 +1235,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधा जजागार तदाप्तबाधा ॥१०३॥
 
+
+
 कृष्णाण्गसंश्लेषविशेषवाधिनस्
 
 तानेव मत्वेति शशाप सा रुषा ।
@@ -928,6 +1244,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अरे! परेताशु परेतरा पुरं
 
 तत्रैव किं कूजत नो पदायुधाः? ॥१०४॥
+
+
 
 विश्लिष्य किञ्चित्प्रियवक्षसः सा
 
@@ -937,7 +1255,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निषेव्यमाणा पुनरप्यराजीत॥१०५॥
 
+
+
 कृष्णभावनामृतं २.१६—
+
+
 
 जालादथो दृक्सफरी तदालयो
 
@@ -947,6 +1269,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तयोः प्रमोदोत्थरुचिच्छटाकणम् ॥१०६॥
 
+
+
 ऊचे विशाखा कलयालि! कान्तौ
 
 निरंशुकावंशुकपुञ्जमञ्जू ।
@@ -954,6 +1278,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विहारिणावप्यतिहारिणौ स्वैर्
 
 अङ्गैरनङ्गैरलसौ लसन्तौ ॥१०७॥
+
+
 
 अनङ्गदौ केलिवशादनङ्गदौ
 
@@ -963,11 +1289,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विप्रस्तरागाधरताभिलक्षितौ ॥१०८॥
 
+
+
 अथावभाषे ललिताऽवधार्यतां
 
 जयः स्मराजौ कतराश्रितो द्वयोः ।
 
 बभूव दष्टाधरयोः कचग्रह व्याक्षिप्तमूर्ध्नोर्नखरक्षतोरसोः ॥१०९॥
+
+
 
 हृदोऽनुरागं कुचकुङ्कुमच्छलान्
 
@@ -977,6 +1307,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मूर्ध्नैव सोऽस्याः पदयोस्तमुज्ज्वलम् ॥११०॥
 
+
+
 इत्थं क्षणं तावदलक्षिताङ्ग्यो
 
 नीचैः स्वरं तावनुवर्णयन्त्यः ।
@@ -985,7 +1317,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ममज्जुरानन्दमहोदधौ ताः ॥१११॥
 
+
+
 कृष्णभावनामृतं १.२३२५—
+
+
 
 ततः पुनस्तानथ टिट्टिभादीन्
 
@@ -995,6 +1331,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दत्तेति सा मोटयदङ्गमीषत॥११२॥
 
+
+
 कादम्बकारण्डवहंससारसाः
 
 कपोतशारीशुककेकिकोकिलाः ।
@@ -1002,6 +1340,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 जगुः कलं केलिवनीजलस्थल
 
 प्रचारिणः कृष्णकथामृतोपमम् ॥११३॥
+
+
 
 प्रबुद्ध्य कान्तौ युगपद्यथा रुजं
 
@@ -1011,7 +1351,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सान्द्रोपगूहेन मुदं च वक्षसोः ॥११४॥
 
+
+
 गोविन्दलीलामृतं १.६०६२—
+
+
 
 अथास्या वयस्याः प्रमोदात्स्मितास्याः
 
@@ -1021,6 +1365,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रविष्टा निकुञ्जं सशब्दालिपुञ्जम् ॥११५॥
 
+
+
 अभिलक्ष्य सखीर्विहसद्वदनाः
 
 सविधोपगता विचलन्नयनाः ।
@@ -1028,6 +1374,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दयिताय मुदं द्विगुणं ददती
 
 दयितोरुयुगादुदतिष्ठदियम् ॥११६॥
+
+
 
 त्वरोत्थिता सम्भ्रमसंगृहीत
 
@@ -1037,7 +1385,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सलज्जमासां मुखमीक्षमाणा ॥११७॥
 
+
+
 कृष्णभावनामृतं २.७—
+
+
 
 अथानुरक्ताल्यनुमोदनाञ्चिता
 
@@ -1047,7 +1399,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदात्वरम्यापचितौ पटीयसी ॥११८॥
 
+
+
 कृष्णभावनामृतं २.९—
+
+
 
 पृष्ठोपधानं निदधे कयाचन
 
@@ -1057,7 +1413,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निरस्य घूर्णां विकसद्दृशौ व्यधात॥११९॥
 
+
+
 कृष्णभावनामृतं २.१६१७—
+
+
 
 काचित्प्रसूनाम्बुदरार्द्रवाससा
 
@@ -1067,6 +1427,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुखद्वयं दर्पणतां निनाय किम् ॥१२०॥
 
+
+
 ताम्बूलवीटीर्निदधे परास्मिन्न्
 
 एका प इम्ना मणिदीपपाल्या ।
@@ -1075,7 +1437,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नीराजयन्त्येव निजासुलक्षैः ॥१२१॥
 
+
+
 गोविन्दलीलामृतं १.६४६५—
+
+
 
 मध्येऽच्युताङ्गघनकुङ्कुमपङ्कदिग्धं
 
@@ -1085,6 +1451,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तल्पं तयोर्दिशति केलिविशेषमाभ्यः ॥१२२॥
 
+
+
 प्रम्लिष्टपुष्पोच्चयसन्निवेशां
 
 ताम्बूलरागाञ्जनचित्रिताङ्गीम् ।
@@ -1093,7 +1461,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शय्यामपश्यन्स्वसखीमिवाल्यः ॥१२३॥
 
+
+
 कृष्णाह्निककौमुदी १.३८३९—
+
+
 
 क्वचन घुसृणपङ्कः क्वापि सिन्दूरजोऽङ्कः
 
@@ -1103,6 +1475,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्व च विलुलितहारश्छिन्नमौर्वीप्रकारः ॥१२४॥
 
+
+
 क्वचन मृगमदाङ्काः कुत्रचित्कज्जलाङ्काः
 
 स्मरनरपतिदन्तिच्छेदकल्पाः स्फुरन्ति ।
@@ -1111,7 +1485,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समजनि सुमुखीनामागतानां सखीनाम् ॥१२५॥
 
+
+
 गोविन्दलीलामृत १.६७७४—
+
+
 
 वक्षः स्वं दर्शयंस्ताभ्यो
 
@@ -1121,6 +1499,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भावशाबल्यमाधुरीं ॥१२६॥
 
+
+
 विधुं प्रयास्यन्तमवेक्ष्य कान्तं
 
 विश्लेषभीतोषसि पश्यताल्यः ।
@@ -1128,6 +1508,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दिदृक्षयेवाम्बरचित्रप यां
 
 राधेन्दुलेखाशतमालिलेख ॥१२७॥
+
+
 
 इति निगदति कृष्णे वीक्ष्य साग्रे वयस्याः
 
@@ -1137,6 +1519,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियमनृजुकटाक्षैः पश्यति स्म घ्नतीव ॥१२८॥
 
+
+
 हेलोल्लासादरमुकुलिता वास्पसान्द्रारुणान्ता
 
 लज्जाशङ्काचपलचकिता भङ्गुरेर्ष्याभरेण ।
@@ -1144,6 +1528,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्मेरस्मेरा दयितवदनालोकनोत्फुल्लतारा
 
 राधादृष्टिर्दयितनयनानन्दमुच्चैर्व्यतानीत॥१२९॥
+
+
 
 इत्थं मिथः प्रेमसुखाब्धिमग्नयोः
 
@@ -1153,6 +1539,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदात्वयोग्याचरणं विसस्मरुः ॥१३०॥
 
+
+
 विलोक्य लीलामृतसिन्धुमग्नौ
 
 तौ ताः सखीश्च प्रणयोन्मदान्धाः ।
@@ -1161,11 +1549,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निजेङ्गितज्ञां निदिदेश सारीम् ॥१३१॥
 
+
+
 गुरुलज्जाभर्तृभीति लोकहासनिवारिका ।
 
 शुभाख्या सारिका प्राह
 
 राधिकाबोधसाधिका ॥१३२॥
+
+
 
 आगन्ता ग्राहयित्वा तव पतिरधुना गोष्ठतः क्षीरभारान्
 
@@ -1175,7 +1567,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तावच्छय्यानिकेतं व्रज सखि निभृतं कुञ्जतः कञ्जनेत्रे!! ॥१३३॥
 
+
+
 गोविन्दलीलामृतं १.७७१०६—
+
+
 
 शङ्कापङ्काकलितहृदया शङ्कतेऽस्या धवाम्बा
 
@@ -1185,6 +1581,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रातर्जातं तदपि सरलां कृष्ण नैनां जहासि ॥१३४॥
 
+
+
 सारीवचोमन्दरशैलपात
 
 संक्षुब्धहृद्दुग्धपयोधिरेषा ।
@@ -1192,6 +1590,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अथोद्भ्रमन्नेत्रनवीनमीना
 
 वियोगदीना शयनादुदस्थात॥१३५॥
+
+
 
 कृष्णोऽपि कान्तं वृषभानुजायाः
 
@@ -1201,6 +1601,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गृह्णन्स्वतल्पात्त्वरयोदतिष्ठत॥१३६॥
 
+
+
 परिवर्तितसंव्यानौ
 
 मिथस्तावथ शङ्कितौ ।
@@ -1208,6 +1610,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 परस्परकरालम्बौ
 
 निरगातां निकुञ्जतः ॥१३७॥
+
+
 
 राधापाणिं सव्येऽसव्ये
 
@@ -1217,6 +1621,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विद्युन्मालाश्लिष्टाम्भोदः ॥१३८॥
 
+
+
 हैमं भृङ्गारमेका व्यजनमथ परा स्वर्णदण्डं दधाना
 
 काप्यादर्शं सुदर्शं घुसृणमलयजाऽमत्रमन्या विचित्रम् ।
@@ -1224,6 +1630,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 काचित्ताम्बूलपात्रं मणिचितमपरा सारिकां पञ्जरस्थाम्
 
 इत्थं सख्यः कियत्याः प्रमुदितहृदया निर्ययुः कुञ्जगेहात॥१३९॥
+
+
 
 माहेन्द्रकान्तच्छदनं सकाञ्चनं
 
@@ -1233,6 +1641,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुञ्जाद्गृहीत्वा निरगान्मृदुस्मिता ॥१४०॥
 
+
+
 आश्लेषसञ्छिन्नगुणात्परिच्युतं
 
 हाराल्लसन्मौक्तिकसञ्चयं मुदा ।
@@ -1240,6 +1650,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विचित्य काचित्स्वप आञ्चले दृढं
 
 निबध्नती कुञ्जगृहाद्विनिर्ययौ ॥१४१॥
+
+
 
 ता अङ्कं केलिविभ्रष्टं
 
@@ -1249,6 +1661,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 युयोज रतिमञ्जरी ॥१४२॥
 
+
+
 तल्पप्रान्तादुपादाय
 
 कञ्चुलीं रूपमञ्जरी ।
@@ -1256,6 +1670,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रियनर्मसखी सख्यै
 
 निर्गत्य निभृतं ददौ ॥१४३॥
+
+
 
 पतद्ग्राहमुपादाय
 
@@ -1265,6 +1681,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विभजन्ती बहिर्ययौ ॥१४४॥
 
+
+
 मञ्जुलाली तयोरङ्गाच्
 
 च्युतमाल्यानुलेपनम् ।
@@ -1272,6 +1690,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तल्पादादाय सर्वाभ्यः
 
 प्रयच्छन्ती विनिर्गता ॥१४५॥
+
+
 
 विलोक्याग्रे मेघाम्बरवृतशरीरं प्रियतमं
 
@@ -1281,6 +1701,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दिशन्त्यश्चान्योन्यं कुटिलचलदृग्भिर्मुमुदिरे ॥१४६॥
 
+
+
 समीक्ष्य तासां परिहासभङ्गीम्
 
 अन्योन्यवक्त्रार्पितफुल्लनेत्रौ ।
@@ -1288,6 +1710,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 समुच्छलत्प्रेमसुखाब्धिमग्नौ
 
 चित्रार्पिताङ्गाविव तावभूताम् ॥१४७॥
+
+
 
 घनश्यामं चीनं वसनमभिलीनं प्रियतनौ
 
@@ -1297,6 +1721,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तनौ लीनं चीनं कनकरुचि कम्बाविव पयः ॥१४८॥
 
+
+
 तयोर्लीलासुधापान
 
 प्रत्यूहामर्षसङ्कुला ।
@@ -1304,6 +1730,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निन्दन्त्यरुणमुद्यन्तम्
 
 अथाह ललिता सखीम् ॥१४९॥
+
+
 
 ऊषसि वरवधूनां पश्य राधेऽरुणोऽयं
 
@@ -1313,6 +1741,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ध्रुवमिति वचनं यद्दुस्त्यजः स्वस्वभावः ॥१५०॥
 
+
+
 अरुणारुणे निदधती ततोऽम्बरे
 
 रतिकेलिभङ्गजरुषाऽरुणां दृशम् ।
@@ -1320,6 +1750,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ललितोपहासजनितस्मितानना
 
 वृषभानुजाह मृदुमञ्जुभाषिणी ॥१५१॥
+
+
 
 अनूरुरप्यस्तमयन्क्षणार्द्धा
 
@@ -1329,6 +1761,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वार्त्तापि रात्रेर्न तदाभविष्यत॥१५२॥
 
+
+
 मनोरमां वीक्ष्य विभातलक्ष्मीं
 
 निपीय तस्या वचनासवं च ।
@@ -1336,6 +1770,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मुदोन्मना विस्मृतगोष्ठयानः
 
 प्राणेश्वरीं तामवदन्मुकुन्दः ॥१५३॥
+
+
 
 इनं प्रभातोपगतं समीक्ष्य
 
@@ -1345,6 +1781,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्राचीयमीर्ष्यारुणितेव जाता ॥१५४॥
 
+
+
 पश्योन्मत्ते द्विजेशोऽप्यखिलजनतमस्तोमहन्तापि शान्तः
 
 कान्तोऽयं ते समन्तात्सपदि निपतितो वारुणीं संनिषेव्य ।
@@ -1352,6 +1790,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्थं स्वीयेनसङ्गप्रमुदितनलिनीहाससञ्जातलज्जा
 
 शङ्के वक्त्रं पिधत्ते ह्युषसि कुमुदिनी सङ्कुचद्भिर्दलैः स्वैः ॥१५५॥
+
+
 
 दृष्ट्वा तमःक्षयममी विधुनान्यपुष्टा
 
@@ -1361,6 +1801,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ग्रस्तं कुहूरिति कुहूं स्वगिराह्वयन्ति ॥१५६॥
 
+
+
 वसन्तकान्तसंसर्ग
 
 जातानन्दभरा अवी ।
@@ -1368,6 +1810,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कपोतीघूत्कृतिमिषात्
 
 शीत्करोतीव सोन्मदा ॥१५७॥
+
+
 
 पश्यानुसरति चञ्चलभृङ्गः
 
@@ -1377,6 +1821,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भृङ्गीं शशिमुखि! कृतनतिभङ्गाम् ॥१५८॥
 
+
+
 कान्तमायान्तमाशङ्क्या
 
 रुणांशुद्विगुणारुणम् ।
@@ -1384,6 +1830,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कोकी कोकनदं चञ्च्वा
 
 चुम्बत्यानन्दविह्वला ॥१५९॥
+
+
 
 कलस्वनाख्यः कलकण्ठि! हंसः
 
@@ -1393,6 +1841,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त अं त इन्याः पुरतः समेति ॥१६०॥
 
+
+
 स्वसहचरविसृष्टं स्वामिभुक्तं मृणालं
 
 मदकलकलकण्ठी विभ्रती पश्य चञ्च्वा ।
@@ -1400,6 +1850,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 रमणमनु समेति त्वन्मुखाब्जार्पिताक्षी
 
 सरसिजमुखि नाम्ना तुण्डिकेती मराली ॥१६१॥
+
+
 
 मलयशिखरचारी पङ्कजामोदधारी
 
@@ -1409,6 +1861,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स रमणवरनारीस्वेदजालापहारी ॥१६२॥
 
+
+
 इतीशयोः सुमधुरवाग्विलासयोः
 
 समीक्ष्य तां स्वभवनयानविस्मृतम् ।
@@ -1417,7 +1871,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वनेश्वरी दिवसभियास सोन्मनाः ॥१६३॥
 
+
+
 कृष्णभावनामृतं २.५६५७—
+
+
 
 कान्ता उदीयुर्विकसन्मुखेन्दवो
 
@@ -1427,6 +1885,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षणं हृदैवेति पराममर्श सा ॥१६४॥
 
+
+
 तमांस्य नश्यन्नभितो यथा यथा
 
 तदा प्रकाशश्च यथा यथैधत ।
@@ -1435,7 +1895,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजस्य रीतिं श्रुतयोऽपि नो विदुः ॥१६५॥
 
+
+
 गोविन्दलीलामृतं १.१०७१०८—
+
+
 
 अथ वृन्देङ्गिताभिज्ञा
 
@@ -1445,6 +1909,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कक्खटी वृद्धमर्कटी ॥१६६॥
 
+
+
 रक्ताम्बरा सतां वन्द्या
 
 प्रातःसन्ध्या तपस्विनी ।
@@ -1453,7 +1919,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जटिलेयमुपस्थिता ॥१६७॥
 
+
+
 कृष्णभावनामृतं २.६०—
+
+
 
 आकर्ण्य ताभिर्जटिलेति वर्ण
 
@@ -1463,7 +1933,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शङ्कैव तासां चुलुकीचकार ॥१६८॥
 
+
+
 कृष्णाह्निककौमुदी १.४२४३—
+
+
 
 पथि पिशुनमतिभ्यः शङ्कमानौ गुरुभ्यः
 
@@ -1473,6 +1947,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ययतू रतिवितन्द्रौ राधिकाकृष्णचन्द्रौ ॥१६९॥
 
+
+
 न पथि न भवने वा लक्षितौ तौ वने वा
 
 सहजसदनुरक्त्या स्वीययानन्दशक्त्या ।
@@ -1481,7 +1957,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अथ पथि विहरन्तौ रेजतुर्लोककान्तौ ॥१७०॥
 
+
+
 गोविन्दलीलामृतं १.११०१११—
+
+
 
 भ्रश्यद्दुकूलचिकुरस्रजमुन्नयन्तौ
 
@@ -1491,6 +1971,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सख्यस्ततस्तत इतश्चकिता निरीयुः ॥१७१॥
 
+
+
 वामे चन्द्रावलिपरिजनान्घोषवृद्धान्पुरस्तात्
 
 कृष्णः पश्चात्कुटिलजटिलामागतां मन्यमानः ।
@@ -1499,7 +1981,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चञ्चद्ग्रीवं दिशि दिशि दृशौ प्रेरयन्गोष्ठमायात॥१७२॥
 
+
+
 स्तवमाला, कुञ्जभङ्ग २—
+
+
 
 म्लानामुत्क्षिप्य मालां त्रुटितमणिसरः कज्जलं विभ्रदोष्ठे
 
@@ -1509,7 +1995,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोष्ठे गोष्ठेन्द्रसूनुः प्रविशति रजनौ ध्वंसमासादयन्त्याम् ॥१७३॥
 
+
+
 गोविन्दलीलामृतं १.११२—
+
+
 
 अनुगता जटिलेत्यभिशङ्किनी
 
@@ -1519,7 +2009,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 करधृताम्बरकेशचयेश्वरी ॥१७४॥
 
+
+
 जगन्नाथवल्लभनाटकं ५.३४
+
+
 
 न व्यालादपि सम्बिभेति पुरतः स्थाणोर्यथा दूरतो
 
@@ -1529,7 +2023,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तन्मन्ये विरहेऽपि नैव विधुरा कान्तस्य योगे यथा ॥१७५॥
 
+
+
 गोविन्दलीलामृतं १.११३११४—
+
+
 
 भयानुरागोच्चयधूम्रलोलदृक्
 
@@ -1539,6 +2037,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गृहं निनीषुः पथि तां तदन्वयात॥१७६॥
 
+
+
 इतस्ततः क्षिप्तचलेक्षणाशुगैर्
 
 भीदुस्थहृद्वृत्तिचयैर्भ ऐरिव ।
@@ -1547,7 +2047,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निवारयन्त्यन्यजनांस्तदान्वयात॥१७७॥
 
+
+
 कृष्णभावनामृतं २.८० —
+
+
 
 ताभिर्वृता व्रजजनैरविलोकितैव
 
@@ -1557,7 +2061,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हृद्वेदनां प्रकटमाह सगद्गदाश्रु ॥१७८॥
 
+
+
 कृष्णभावनामृतं २.७६८०—
+
+
 
 निःसार्य गेहाल्ललितेऽधुनैव मां
 
@@ -1567,6 +2075,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रलोभनैवाद्य वृथा कृता त्वया ॥१७९॥
 
+
+
 अस्ताचलं यन्नधुना व्यलोकि यः
 
 स तिग्मरश्मिः सखि! पूर्वपर्वतम्
@@ -1574,6 +2084,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आरोढुमाकाङ्क्षति किं विभावरी
 
 खपुष्पतामद्यतनी जगाम किम्? ॥१८०॥
+
+
 
 धिङ्मे श्रुतिं धिग्रसनां दृशं च धिक्
 
@@ -1583,6 +2095,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सौस्वर्यसौरस्यसुरूपतामृतम् ॥१८१॥
 
+
+
 निर्वेदपद्धतिमपीप हदेव पूर्वं
 
 योगोऽधुना तु सरले भवतीं वियोगः
@@ -1590,6 +2104,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आद्योऽच्युतामृतमदर्शयदर्थमस्या
 
 अन्योऽनुभावयति हा कटुकालकूटम् ॥१८२॥
+
+
 
 इत्थं सखीगिरमपि प्रतिबोद्धुमेषा
 
@@ -1599,7 +2115,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुष्वाप साऽथ शयने वृषभानुपुत्री ॥१८३॥
 
+
+
 अनभिसारिकां काञ्चित्पृच्छन्तीं प्रति काचिदाह, स्तवमाला, कुञ्जभङ्ग १—
+
+
 
 स्रस्तं स्रस्तमुदञ्चयत्यधिशिरः श्यामं निचोलाञ्चलं
 
@@ -1609,7 +2129,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुञ्जात्पश्य गृहं प्रविश्य निभृतं शेते सखी राधिका ॥१८४॥
 
+
+
 गोविन्दलीलामृतं १.११६—
+
+
 
 निर्वर्त्य विभ्रमभरं समये स्वधाम्नि
 
@@ -1619,15 +2143,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सख्योऽपलक्ष्यगतयः सदनं यथास्वम् ॥१८५॥
 
+
+
 इति श्रीभावनासारसङ्ग्रहे निशान्तलीलासङ्ग्रहो नाम प्रथमसङ्ग्रहः
 
+
+
 ओ)०(ओ
+
+
+
+
 
 (२)
 
 श्रीश्रीभावनासारसङ्ग्रहः
 
+
+
 पूर्वाह्नलीला
+
+
 
 पश्यन्तीं स्वसुतं शचि भगवती सङ्कीर्तने विक्षतं
 
@@ -1637,6 +2173,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तल्पाज्जागरयाञ् चकार यमहं तं गौरचन्द्रं भजे ॥१॥
 
+
+
 भक्तैः सार्धमुपागतैर्भुवि नतैः श्रीवासगुप्तादिभिः
 
 पृच्छद्भिः कुशलं प्रगे परिमिलन्प्रक्षाल्य वक्त्रं जलैः ।
@@ -1645,9 +2183,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्नात्वाद्याद्धरिशेषमोदनवरं यस्तं हि गौरं भजे ॥२॥
 
+
+
 मूलसूत्र
 
+
+
 गोविन्दलीलामृत २.१—
+
+
 
 राधां स्नातविभूषितां व्रजपयाहूतां सखीभिः प्रगे
 
@@ -1657,7 +2201,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुस्नातं कृतभोजनं सहचरैस्तां चाथ तं चाश्रये ॥३॥
 
+
+
 कृष्णभावनामृतं ३.११३—
+
+
 
 स्नातानुलिप्तवपुषः पुपुषुः स्वभास्तन्
 
@@ -1667,6 +2215,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीरूपमञ्जरिसमानगुणाभिधानाः ॥४॥
 
+
+
 ता विद्युदुद्द्युतिजयिप्रपदैकरेखा
 
 वैदग्ध्य एव किल मूर्तिभृतस्तथापि ।
@@ -1674,6 +2224,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यूथेश्वरीत्वमपि सम्यगरोचयित्वा
 
 दास्यामृताब्धिमनु सस्नुरेण अजस्रमस्याः ॥५॥
+
+
 
 श्वश्रूपुरान्तरगतोत्तर पार्श्ववर्ति
 
@@ -1683,6 +2235,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्मापितं तदुपमापि तदेव नान्यत॥६॥
 
+
+
 स्थूणाप्रघाण पटलाङ्गणतोरणाली
 
 गोपानसीविविधकोष्ठकपाटवेद्यः ।
@@ -1690,6 +2244,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 राजन्ति यत्र मणिदीपततिप्रदीप्त
 
 वैचित्र्यनिर्मितजनेक्षणचित्रभावाः ॥७॥
+
+
 
 यत्रेन्द्रनीलमणिभूर्वलभी घनाभा
 
@@ -1699,6 +2255,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सङ्कोचयन्ति शिखिनः स्वशिखण्डपङ्क्तीः ॥८॥
 
+
+
 तत्रोपवेशशयनाशनभूषणादि
 
 वेदीर्विमृज्य परिलिप्य विशोध्य तास्ताः ।
@@ -1706,6 +2264,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आस्तीर्य राङ्कवमुपर्युपयुक्तमुक्तम्
 
 उल्लोचमुन्नतमुदो मिलिता बबन्धुः ॥९॥
+
+
 
 एका ममार्ज मणिकाञ्चनभाजनानि
 
@@ -1715,6 +2275,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आलम्बनीयमदधादपरोपबर्हम् ॥१०॥
 
+
+
 पूर्वेद्युरंशुकमणिमयभूषणानि
 
 मृष्टानि यत्र निहितान्यथ सम्पुटं तत।
@@ -1722,6 +2284,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उच्चैर्झनद्वलयराजि समुद्घटय्य
 
 काचिज्जघर्ष विधुकुङ्कुमचन्दनानि ॥११॥
+
+
 
 अन्या व्यधत्त सुमनाः सुमनोभिरेव
 
@@ -1731,6 +2295,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 काचिद्बबन्ध सुरसाः फणिवल्लीवीटीः ॥१२॥
 
+
+
 अत्रान्तरे प्रतिदिशं दधिमन्थनोत्थ
 
 रावैरवारितमहीसुरवेदघोषैः ।
@@ -1738,6 +2304,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हम्बाध्वनिव्यतिविधानमिथोऽवधायि
 
 धेन्वालितर्णकघटा वलदन्तरायैः ॥१३॥
+
+
 
 वृन्दिष्ठवन्दिजनवृन्दवितायमान
 
@@ -1747,6 +2315,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कोलाहलैः क्रमत एव समेधमानैः ॥१४॥
 
+
+
 जाग्रत्सु लोकनिचयेष्वथ वासरेति
 
 कर्तव्यभावनपरेष्वधिशयमेव ।
@@ -1754,6 +2324,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कृष्णेक्षणक्षण सतृष्णतया पुरन्ध्री
 
 वृन्देषु नन्दगृहसन्दितमानसेषु ॥१५॥
+
+
 
 नप्त्रीमुखाम्बुजविलोकनजीवितायां
 
@@ -1763,11 +2335,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधे! क्व पुत्रि! भवसीति समाह्वयन्त्याम् ॥१६॥
 
+
+
 गोविन्दलीलामृतं २.४३५७—
+
+
 
 स्वभावकुटिलाप्यात्मसुतसम्पत्तिकाङ्क्षया ।
 
 व्याकुला जटिला गत्वा निकटं तामथाब्रवीत॥१७॥
+
+
 
 सूनोः प्रजायुर्धनवृद्धयेऽसौ
 
@@ -1777,6 +2355,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोकोटिहेतोस्तपनार्चनाय ॥१८॥
 
+
+
 आज्ञानवज्ञा निजगोष्ठराज्ञ्याः
 
 कार्यानभिज्ञोक्तिषु तेऽप्यवज्ञा ।
@@ -1784,6 +2364,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्यादिशत्यन्वहमर्थविज्ञा
 
 विज्ञापिता मे किल पौर्णमासी ॥१९॥
+
+
 
 अस्मात्त्वमार्ये स्वां नप्त्रीं
 
@@ -1793,6 +2375,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यथा सूनोर्भवेन्मम ॥२०॥
 
+
+
 वधूमथाभाषसत पुत्रि! तल्पाद्
 
 उत्तिष्ठ तूर्णं कुरु वास्तुपूजाम् ।
@@ -1800,6 +2384,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 त्वं मङ्गलस्नानविधिं विधाय
 
 पूजोपहारं सवितुर्विधेहि ॥२१॥
+
+
 
 प्रभातमायातमहो तथापि
 
@@ -1809,6 +2395,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शय्यालयं तामवदत्तदेदम् ॥२२॥
 
+
+
 उत्तिष्ठ वत्से शयनात्प्रमुग्धे
 
 व्यस्मारि वारोऽद्य रवेस्त्वया किम्? ।
@@ -1816,6 +2404,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्नात्वा प्रभातार्घ्यविधानमस्मै
 
 पूजोपहारं रचयास्य चाशु ॥२३॥
+
+
 
 तद्वचः प्रतिबुद्धाथ
 
@@ -1825,6 +2415,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तिष्ठेति प्राह सत्वरा ॥२४॥
 
+
+
 तासां वचोभिः शयनेऽथ मुग्धा
 
 मुहुः प्रजागर्य्य पुनर्निदद्रौ ।
@@ -1833,9 +2425,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा राजहंसीव रतालसाङ्गी ॥२५॥
 
+
+
 तदैवावसराभिज्ञा जग्राह रतिमञ्जरी ।
 
 सखी वृन्दावनेश्वर्याः श्रीमच्चरणपङ्कजम् ॥२६॥
+
+
 
 इत्थमियं बहुभिः कृतबोधा
 
@@ -1845,6 +2441,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शङ्कितहृन्मुखरेदमुवाच ॥२७॥
 
+
+
 द्रुतकनकसवर्णं सायमेतन्मुरारेर्
 
 वसनमुरसि दृष्टं यत्सखी ते बिभर्ति ।
@@ -1852,6 +2450,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 किमिदमयि विशाखे! हा प्रमादः प्रमादो
 
 व्यवसितमिदमस्याः पश्य शुद्धान्वयायाः ॥२८॥
+
+
 
 तद्वचश्चकितधीर्हृदि सख्या
 
@@ -1861,6 +2461,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्रागुवाच जरतीं च विशाखा ॥२९॥
 
+
+
 स्वभावान्धे! जालान्तरगतविभातोदितरवि
 
 च्छटाजालस्पर्शोच्छलितकनकाङ्गद्युतिभरैः ।
@@ -1869,17 +2471,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुतो मुग्धे शङ्कां जरति कुरुषे शुद्धमतिषु ॥३०॥
 
+
+
 ललिताप्रमुखास्तावत्सख्यस्ताः स्वस्वगेहतः ।
 
 आजग्मुस्त्वरिताः सख्याः प्रस्खलद्गतयोऽन्तिकम् ॥३१॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 तासां वाक्यैर्गतायां तु कृतवञ्चनसञ्चयैः ।
 
 मुखरायां ततोऽन्यासु द्रष्टुकामासु तत्र ताम् ॥३२॥
 
+
+
 कृष्णभावनामृतं ३.१७२७—
+
+
 
 एकैकशोऽथ मिलितासु सखीषु सर्वा
 
@@ -1889,6 +2501,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वारूढरत्नमणिहेमचतुष्किकासु ॥३३॥ (युग्मकम्)
 
+
+
 श्रीराधिकामिलनमेव समस्तहर्ष
 
 शस्यैकवर्षमिति यद्धृदि निश्चिकाय ।
@@ -1896,6 +2510,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्यामलैत्य समया समयाभिविज्ञा
 
 श्लिष्टा तया सुषमयेव तदास तत्र ॥३४॥
+
+
 
 श्यामे! त्वमेवमधुनैव विचिन्त्यमाना
 
@@ -1905,6 +2521,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अद्यैव तर्हि गणयान्यपि सुप्रभातम् ॥३५॥
 
+
+
 हन्तैष सन्ततमतीव समेधमानः
 
 शश्वत्सखीभिरपि सुन्दरि! सिच्यमानः ।
@@ -1912,6 +2530,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नाद्यापि यत्फलमधादयि! कोऽत्र हेतुर्
 
 हा तत्कदातिरभसादवलोकयिष्ये ॥३६॥
+
+
 
 राधे! स ते न फलितो यदि तत्फलिष्यत्य्
 
@@ -1921,6 +2541,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रत्याययत्यननुभूतमिव स्वमुच्चैः ॥३७॥
 
+
+
 पक्ष्मावली बत यदीयरसेन शोणे
 
 नारञ्जि कञ्जमुखि! तन्न तदप्यपश्यः ।
@@ -1928,6 +2550,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यत्स्वादनव्यतिकरादधरो व्रणित्वम्
 
 आगात्तथापि तदहो! न कदाप्यभुङ्क्थाः ॥३८॥
+
+
 
 श्यामे! त्वमप्यलमलक्षितमन्नितान्त
 
@@ -1937,6 +2561,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सद्यः पुनर्द्विगुणयेदिति भोः प्रतीहि ॥३९॥
 
+
+
 राधे! कलानिधिरयं विधिनोपनीतस्
 
 त्वां सन्ततामृतमयैरधिनोत्कराग्रैः ।
@@ -1944,6 +2570,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यत्तत्कलाः स्वयमहो कुचयोर्बिभर्षि
 
 विद्युन्निभत्वपरिवादमथापि दत्से ॥४०॥
+
+
 
 श्यामे! स मे सखि! ददौ न कलङ्कमेव
 
@@ -1953,6 +2581,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ज्योत्स्नाकणं यदपि तन्न पुनर्निकामम् ॥४१॥
 
+
+
 राधे! स्फुटं वद भवन्मुखपङ्कजोत्थ
 
 नक्तन्तनेहितसुधाद्युधुनी विधूय ।
@@ -1960,6 +2590,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तापं निमज्जयतु मां स्वमनु प्रभाते
 
 कृत्यान्तरं मम कथं तदृते सुसिध्येत॥४२॥
+
+
 
 श्यामेऽधिकुञ्जनिलयं नवनीलकान्ति
 
@@ -1969,7 +2601,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भूमिं च केन च काञ्चन यापिताऽसम् ॥४३॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 वदन्तीत्थं मूर्छां परमपरमानन्दजनिकां
 
@@ -1979,7 +2615,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गतेत्युक्त्वापृच्छत्परिकलितबोधां सपदि ताम् ॥४४॥
 
+
+
 आनन्दवृन्दावनचम्पूः ११.२१२३—
+
+
 
 अलसवलितमङ्गं स्वावसादं व्यनक्ति
 
@@ -1989,6 +2629,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लुलितललितपत्रा प्रक्रमः कस्तवैषः ॥४५॥
 
+
+
 अभिनवलतिकेव वातरुग्ना
 
 नवनलिनीव मतङ्गजेन भुग्ना ।
@@ -1996,6 +2638,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मृदुतरनवमालिकेव धूता
 
 मदमधुपेन विलक्ष्यसे त्वमद्य ॥४६॥
+
+
 
 अपि चिरमभिलष्यमाण एवं
 
@@ -2005,7 +2649,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 फलितवती सखि! भाग्यकल्पवल्ली ॥४७॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 इति सप्रणयवाचा सादरं पृच्छ्यमाना
 
@@ -2015,7 +2663,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अवनिनिहितदृष्टिं सस्मितः प्रत्युवाच ॥४८॥
 
+
+
 आनन्दवृन्दावनचम्पूः ११.२४२७—
+
+
 
 क्वाहं स्थिता क्व चलिता क्व च वा स पन्था
 
@@ -2025,6 +2677,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जानाम्यहं यदि तदा भवती न वेत्ति ॥४९॥
 
+
+
 व्यापारो मनसश्च यत्र न गतः सम्भावनाभावतो
 
 यत्स्वप्नः किमथेन्द्रजालमथवा भ्रान्तिः सुदीर्घैव मे ।
@@ -2033,7 +2687,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चेतोविद्रुतिकारकं च मनसो मूर्छाकरं चाभवत॥५०॥
 
+
+
 अथ श्यामाह—
+
+
 
 केलीकलाध्ययनकौशलमेकदैव
 
@@ -2043,7 +2701,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यत्नादधीष्व यदि विज्ञतमासि भूष्णुः ॥५१॥
 
+
+
 ततः श्रीराधिका प्राह—
+
+
 
 मातः परं सुमुखि! यामि तदीयपार्श्वं
 
@@ -2053,7 +2715,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पाण्डित्यमेव मनसो रसदं मम स्यात॥५२॥
 
+
+
 उज्ज्वलनीलमणि ११.२०—
+
+
 
 भ्राजन्ते वरदन्ति! मौक्तिकगणा यस्योल्लिखद्भिर्नखैः
 
@@ -2063,7 +2729,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स श्रीमान्हरिणेक्षणे! हरिरभून्नेत्रेण बद्धस्त्वया? ॥५३॥
 
+
+
 उज्ज्वलनीलमणि १४.१४८—
+
+
 
 कोऽयं कृष्ण इति व्युदस्यति धृतिं यस्तन्वि कर्णं विशन्
 
@@ -2073,7 +2743,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सत्यं सत्यमसौ दृगङ्गनमगादद्यैव विद्युन्निभः ॥५४॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 लज्जाभरक्रान्ततयातितूष्णीं
 
@@ -2083,7 +2757,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ह्यत्याग्रहीदालीमथ प्रवक्तुम् ॥५५॥
 
+
+
 वृन्दावनमहिमामृतं ५.९८—
+
+
 
 प्रियसखि! मम वृत्तं पृच्छ मा भाग्यमीदृक्
 
@@ -2093,7 +2771,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किमिव च करकोऽसौ किं व्यधान्न स्मरामि ॥५६॥
 
+
+
 वृन्दावनमहिमामृतं ५.९९—
+
+
 
 वेणीं गुम्फति दिव्यपुष्पनिचयैः सीमन्तसीमन्यहो
 
@@ -2103,7 +2785,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 इत्थम्भूतरतिः सखा तव न मां तल्पे निधत्तेऽङ्कतः ॥५७॥
 
+
+
 वृन्दावनमहिमामृतं ५.९७—
+
+
 
 नित्यं मन्मुखसम्मुखं मुखविधुं धत्तेऽनिमिषेक्षणो
 
@@ -2113,7 +2799,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सख्युस्ते सखि! सर्वनागरमणेः प्रीतिः कथं वर्ण्यताम्? ॥५८॥
 
+
+
 अलङ्कारकौस्तुभ ३.५ (नोत्त्रचेदस्येत्)
+
+
 
 विलासचेष्टा सखि! केशिनाशिनो
 
@@ -2123,7 +2813,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेमा विकारी हृदि हृद्व्रणो यथा ॥५९॥
 
+
+
 अलङ्कारकौस्तुभ ५.४०—
+
+
 
 नो विद्मः किमु गौरवं गुरुकुले कौलीन्यरक्षाविधौ
 
@@ -2133,7 +2827,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यूनः श्रोत्रगतैर्घुणैरिव गुणैरन्तः कृतं जर्जरम् ॥६०॥
 
+
+
 कृष्णभावनामृतं ३.३१३२—
+
+
 
 राधे! यदास्यसरसीरुहगन्ध एवम्
 
@@ -2143,6 +2841,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चित्तभ्रमस्तव मदादिति नैव चित्रम् ॥६१॥
 
+
+
 अत्रान्तरे मधुरिका मिलिताथ पृष्टा
 
 ताभिर् जगाद मधुरं शृणुतैतदाल्यः ।
@@ -2151,7 +2851,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्राप्ताद्य कौतुकमहो यदुषस्यपश्यम् ॥६२॥
 
+
+
 राधाकृष्णगणोद्देशदीपिका ६९—
+
+
 
 पौर्णमासी भगवती सर्वसिद्धिविधायिनी ।
 
@@ -2159,7 +2863,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णं द्रष्टुमनास्तल्पादुदतिष्ठद्द्विजध्वनैः ॥६३॥
 
+
+
 गोविन्दलीलामृतं २.२—
+
+
 
 अथ प्रभाते कृतनित्यकृत्या
 
@@ -2169,7 +2877,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तूर्णं व्रजेन्द्रालयमाससाद ॥६४॥
 
+
+
 श्रीमद्भागवतम्, १०.९.३—
+
+
 
 क्षौमं वासः पृथुकटितटे बिभ्रती सूत्रनद्धं
 
@@ -2179,7 +2891,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्विन्नं वक्त्रं कवरविगलन्मालती निर्ममन्थ ॥६५॥
 
+
+
 ललितमाधव २.२—
+
+
 
 रजनिविपरिणामे गर्गरीणां गरीयान्
 
@@ -2189,7 +2905,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्मरयति सुरवृन्दान्यब्धिमन्थोत्सवस्य ॥६६॥
 
+
+
 गोविन्दलीलामृतं २.३७—
+
+
 
 मन्थानोद्धृतगव्यविन्दुनिकरव्याकीर्णरम्याङ्गनं
 
@@ -2199,9 +2919,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्वेतद्वीपमिवालयं व्रजपतेर्वीक्ष्यास सानन्दिता ॥६७॥
 
+
+
 तामागतामभिप्रेक्ष्य साक्षादिव तपःश्रियम् ।
 
 व्रजरज्ञी पराभिज्ञा स्थितिज्ञाभ्युद्ययौ मुदा ॥६८॥
+
+
 
 एहि भो भगवतीति व्रजवन्द्ये
 
@@ -2211,6 +2935,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा मुकुन्दजननीं परिरेभे ॥६९॥
 
+
+
 आशीर्भिरभिनन्द्यामूं गोविन्ददर्शनोसुका ।
 
 पप्रच्छ कुशलं चास्याः सधवात्मजगोततेः ॥७०॥
@@ -2219,7 +2945,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उत्का शय्यागृहं सूनोः प्रविवेश व्रजेश्वरी ॥७१॥
 
+
+
 भक्तिरसामृतसिन्धुः ३.४.१३—
+
+
 
 डोरीजूटितवक्रकेशपटला सिन्दूरबिन्दूल्लसत्
 
@@ -2229,7 +2959,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्यामश्यामरुचिर्विचित्रसिचया गोष्ठेश्वरी पातु वः ॥७२॥
 
+
+
 गोविन्दलीलामृतं २.१३—
+
+
 
 पर्यङ्के न्यस्य सव्यं तदुपरि निहितस्वाङ्गभाराथ पाणिं
 
@@ -2239,7 +2973,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वत्सोत्तिष्ठाशु निद्रां त्यज मुखकमलं दर्शयेत्याह माता ॥७३॥
 
+
+
 कृष्णभावनामृतं ३.३८३९, मधुरिकोवाच—
+
+
 
 गान्धर्विके! शृणु यदन्यदभूद्विचित्रं
 
@@ -2249,6 +2987,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रामाम्बरेण परिवर्तितमस्य वास ॥७४॥
 
+
+
 ताटङ्कगारुणमणिप्रतिबिम्ब एव
 
 गण्डे विभाति तव माधव! शोणशोचिः ।
@@ -2257,7 +2997,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सद्यो जघर्ष भवदाधररागभागम् ॥७५॥
 
+
+
 कृष्णाह्निककौमुदी २.२६—
+
+
 
 उत्तिष्ठ तात रजनीयमगाद्विरामं
 
@@ -2267,6 +3011,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शय्यालयं तव विशन्ति कुमारदासाः ॥७६॥
 
+
+
 सङ्कीर्तयन्जय जयेति गिरा सुवृत्तस्
 
 त्वां तात जागरयितुं प्रणयात्प्रवृत्तः ।
@@ -2274,6 +3020,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कीरस्तवैष निजपाणितलेन पुष्टः
 
 सन्मञ्जुवाक्कनकपञ्जरवासहृष्टः ॥७७॥
+
+
 
 खेदस्तवैष शयनालसभारमूलः
 
@@ -2283,6 +3031,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आस्पृश्य बाहुयुगलेन तमालिलिङ्ग ॥७८॥
 
+
+
 मातुः कलां गिरमतिप्रणयोपगूहं
 
 श्रुत्वानुभूय च तदैव स सम्यगूहम् ।
@@ -2290,6 +3040,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गात्रावमोटनपुरःसरजृम्भणेन
 
 जाग्रद्दशामभिनिनाय कुतूहलेन ॥७९॥
+
+
 
 कालोचितेषु परिचारणकौशलेषु
 
@@ -2299,7 +3051,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दासं व्रजेन्द्रगृहिणी स्वगृहानयासीत॥८०॥
 
+
+
 गोविन्दलीलामृतं २.८११—
+
+
 
 तावद्गोभटभद्रसेनसुबलश्रीस्तोककृष्णार्जुन
 
@@ -2309,6 +3065,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णोत्तिष्ठ निजेष्टगोष्ठमय भो इत्याह्वयन्तः स्थिताः ॥८१॥
 
+
+
 ही ही प्रभातं किमु भो वयस्या
 
 अद्यापि निद्राति कथं सखा नः ।
@@ -2316,6 +3074,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तद्बोधयाम्येनमितीरयन्स्व
 
 तल्पादुदस्थान्मधुमङ्गलोऽपि ॥८२॥
+
+
 
 समुत्तिष्ठ वयस्येति जल्पंस्तल्पालयं हरेः ।
 
@@ -2325,7 +3085,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उत्थातुमीश्वरो नासीद्घूर्णापूर्णेक्षणः क्षणम् ॥८४॥
 
+
+
 गोविन्दलीलामृतं २.१५२४—
+
+
 
 उत्तिष्ठ कुर्यां मुखमार्जनं ते
 
@@ -2335,6 +3099,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वासस्तदङ्गादवदच्च सार्याम् ॥८५॥
 
+
+
 अयि भगवति! पश्याचो इतं मेऽस्य सूनोः
 
 कमलमृदुलमङ्गं मल्ललीलासु लोलैः ।
@@ -2342,6 +3108,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 खरनखरशिखाभिर्धातुरागातिचित्रं
 
 चपलशिशुसमूहैर्हा हता किं करोमि? ॥८६॥
+
+
 
 स्नेहभरैः स्वजनन्याश्चित्रपदामपि वाणीम् ।
 
@@ -2355,6 +3123,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रेमेऽनेनातिलुब्धेन कुञ्जेषु केलिचञ्चला ॥८९॥
 
+
+
 अथ प्रकाशीकृतबाल्यविभ्रमो
 
 यत्नात्समुन्मील्य विलोचनं मुहुः ।
@@ -2362,6 +3132,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पश्यन्पुरः स्वां जननीं हरिः पुनर्
 
 न्यमीलयत्स स्मितवक्त्रपङ्कजः ॥९०॥
+
+
 
 आकर्ण्य वाचं व्रजराजपत्न्याः
 
@@ -2371,6 +3143,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तं पौर्णमासी स्मितपूर्वमाह ॥९१॥
 
+
+
 सखीनां सन्दोहैर्निरवधि महाकेलिततिभिः
 
 परिश्रान्तस्त्वं यत्स्वपिषि सुमते योग्यमिह तत।
@@ -2378,6 +3152,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अनालोक्य त्वां भोस्तृषितमपि नो तर्णककुलं
 
 धयत्यूधः किन्तु व्रजकुलपते जागृहि ततः ॥९२॥
+
+
 
 उत्तिष्ठ गोष्ठेश्वरनन्दनारात्
 
@@ -2387,6 +3163,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वामङ्गने तिष्ठति तर्णकैश्च ॥९३॥
 
+
+
 समुष्टिपाणिद्वयमुन्नमय्य
 
 विमोटयन्सोऽथ रसालसाङ्गम् ।
@@ -2395,7 +3173,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तमालनीलः शयनादुदस्थात॥९४॥
 
+
+
 कृष्णाह्निककौमुदी २.७—
+
+
 
 उन्मीलनप्रतिनिमीलनयोर्बहुत्वे
 
@@ -2405,7 +3187,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्योत्थितस्य नयनद्वितयी दिदेव ॥९५॥
 
+
+
 गोविन्दलीलामृतं २.२५—
+
+
 
 ख वैकदेशे त्वथ सन्निविष्टो
 
@@ -2415,7 +3201,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जगाद जृम्भोद्गमगद्गदं सः ॥९६॥
 
+
+
 कृष्णभावनामृतं ३.३५३६—
+
+
 
 आपादशीर्षमथ पाणितलाभिमर्शे
 
@@ -2425,6 +3215,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किञ्चित्सकाकुभरमर्थयते स्म राज्ञी ॥९७॥
 
+
+
 देवाधिदेव! भवतैव चिरात्सुतोऽयं
 
 दत्तः स्वबन्धुजनजीवनतामुपेतः ।
@@ -2433,7 +3225,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वेनैव कामपचितिं तव वेद्मि कर्तुम् ॥९८॥
 
+
+
 कृष्णाह्निककौमुदी २.८१८—
+
+
 
 आरात्रिकेण मणिमङ्गलदीपभाजा
 
@@ -2443,6 +3239,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नीराजनं विदधिरेऽस्य कुमारदास्यः ॥९९॥
 
+
+
 उष्णीषबन्धसुमनोज्ञतमोत्तमाङ्गाः
 
 पाथोजकेशरसुसौरभसुन्दराङ्गाः ।
@@ -2450,6 +3248,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्यामाः सिताश्च हरिता अरुणाश्च पीता
 
 ये केऽपि केऽपि महनीयगुणैः परीताः ॥१००॥
+
+
 
 तैरेव केवलसुखानुभवस्वरूपैर्
 
@@ -2459,6 +3259,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सेवा व्यधायि विविधास्य विलोलहारैः ॥१०१॥
 
+
+
 पर्यङ्कतः समधिरुह्य मणीचतुष्कं
 
 श्रीपादपीठमहसा विलसद्वपुष्कम् ।
@@ -2466,6 +3268,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चारूपविष्टमतिहृष्टहृदो गृहीत्वा
 
 चारूपचारमथ भेजुरमी मिलित्वा ॥१०२॥
+
+
 
 तैराहितां करतले विनिधाय धारां
 
@@ -2475,6 +3279,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णः शनैरभिषिषेच मुखाब्जकोषम् ॥१०३॥
 
+
+
 आमृज्य चारुमृदुसूक्ष्मबलक्षवासः
 
 खण्डेन पाणिवदनं निरुपाधिहासः ।
@@ -2482,6 +3288,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तैराहितं करतले मृदु दन्तकाष्ठं
 
 प्रत्यग्रहीन्म्रदिमनिष्ठमथो लघिष्ठम् ॥१०४॥
+
+
 
 कल्पद्रुमस्य मृदुना विटपेन तेन
 
@@ -2491,6 +3299,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आलोलकुण्डलयुगं शनकैर्जघर्ष ॥१०५॥
 
+
+
 अङ्गुष्ठतर्जनिकयोर्धृतया वितस्त्या
 
 जिह्वाविलेखनिकया मणिहेममय्या ।
@@ -2498,6 +3308,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 राजन्मणीन्द्रवलयं व्यलिखन्मनोज्ञां
 
 ताम्बूलरागपरभागवतीं रसज्ञाम् ॥१०६॥
+
+
 
 भूयः पयोभिरमलैर्वदनं निनेज
 
@@ -2507,6 +3319,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लक्ष्म्या चकार मुखधावनशुद्धिसाक्षि ॥१०७॥
 
+
+
 माणिक्यकङ्कतिकया करपद्मकोषं
 
 सम्प्राप्तया वलयकङ्कतिचारुघोषम् ।
@@ -2514,6 +3328,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 केशप्रसाधनमथानभिसन्धिहासी
 
 भूतानना व्यधित कापि कुमारदासी ॥१०८॥
+
+
 
 नक्तन्तनं वसनमस्य निरास्य कश्चिद्
 
@@ -2523,7 +3339,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रक्षाल्य वार्भिरभिमृज्य च वासरादौ ॥१०९॥
 
+
+
 कृष्णभावनामृतं ३.४४६२—
+
+
 
 गा दोग्धुमुद्धुरधियोऽपि वृथोद्यमास्ते
 
@@ -2533,6 +3353,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आपीनतोऽद्य यदवापुरतो विषेदुः ॥११०॥
 
+
+
 गावस्तवाध्वनि धृताश्रुभृताक्षियुग्मा
 
 न प्रस्रवन्त्यपगतान्न लिहन्ति वत्सान।
@@ -2540,6 +3362,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हम्बाध्वनिध्वनितदिग्वलया विलम्बं
 
 सोढुं दरापि न हि सम्प्रति शक्नुवन्ति ॥१११॥
+
+
 
 इत्येव केनचिदुपेत्य स गोदुहोक्तो
 
@@ -2549,6 +3373,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताम्बूलरञ्जितमलं कलयन्नुदस्थात॥११२॥
 
+
+
 दोहं समाप्य बलभद्र! सहानुजस्त्वं
 
 मल्लाजिरं व्रजसि चेत्कुरु मा विलम्बम् ।
@@ -2556,6 +3382,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निर्मञ्चनं तव भजे क्षणमात्रेव
 
 सार्धं विहृत्य सखिभिर्द्रुतमेहि भोक्तुम् ॥११३॥
+
+
 
 श्रुत्वेति मातृगिरमाह हरिर्न मातः
 
@@ -2565,11 +3393,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नो चेदमुष्य वशतां किमुरि करिष्ये? ॥११४॥
 
+
+
 शिष्टो यथा त्वमसि वत्स! निजातिबाल्यम्
 
 आरभ्य तत्खलु विदन्त्यखिलाः पुरन्ध्र्यः ।याः स्वालयापचयवेदनया पुरासां
 
 फुत्कर्तुमापुरिह नो कतिधेति सोचे ॥११५॥
+
+
 
 सौदामिनीततिविभाजयिदामनीद्युद्
 
@@ -2579,6 +3411,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मात्रा तया सखि! रयादधिकं विरेजे ॥११६॥
 
+
+
 स्तम्बेरमव्रजविडम्बिविलम्बिपाद
 
 विन्यासझञ्झनझणत्कृतकिङ्किणीकः ।
@@ -2586,6 +3420,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लोलालकालिमणिकुण्डलकान्तिवेणी
 
 वीचीभरस्नपितवक्त्रसुधांशुबिम्बः ॥११७॥
+
+
 
 पीतोत्तरीयचपलेलितकेलिनृत्य
 
@@ -2595,6 +3431,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भानुः स्वनच्चरणभूषणचुम्बिदामा ॥११८॥
 
+
+
 निष्क्रम्य रम्यपुरतः पुरतोऽभिगच्छन्
 
 यच्छन्मुदं स्वजननीजनलोचनेभ्यः ।
@@ -2602,6 +3440,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दासैः प्रधारितमवारितरोचिरश्नं
 
 ताम्बूलपुलकमवाप स गोपुराग्रम् ॥११९॥
+
+
 
 तद्बाह्यकुट्टिमतटीमवलम्बमानः
 
@@ -2611,6 +3451,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेष्ठैर्मिलद्भिरभितः स रराज मित्रैः ॥१२०॥
 
+
+
 तन्निर्मितानुपदकर्णकथारसज्ञ
 
 स्यास्याम्बुजे किमपि यत्स्मितमुद्बभूव ।
@@ -2618,6 +3460,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तस्यार्थजातमपि किं विवरीतुमीशे
 
 चेतोऽलिरेव तव सख्यनुसन्दधातु ॥१२१॥
+
+
 
 उष्णीषवक्रिममहामधुरिम्णि तस्य
 
@@ -2627,6 +3471,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राजन्मणिद्युतिभराः किमु वर्णनीयाः ॥१२२॥
 
+
+
 तैः सौरभैः प्रसृमरैरनु नूपुरादि
 
 ध्वानैर्बलेन वलभीमधिरोहिताभिः ।
@@ -2634,6 +3480,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गोशालवर्त्मनि चलल्ललनावलीभिर्
 
 नेत्राम्बुजैः स कतिधा नहि पूज्यते स्म ॥१२३॥
+
+
 
 तत्तद्विलासबलिता सुषमारसाला
 
@@ -2643,6 +3491,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तेने च तं शतगुणं तृषमेधयन्ती ॥१२४॥
 
+
+
 हर्षोन्नतिः स्तिमिततां श्रवसोर्व्यतानीत्
 
 तर्षोत्थसंज्वरभरस्तु दृशोर्विवेश ।
@@ -2650,6 +3500,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आकस्मिकी निरुपमा प्रतिवेशिसम्पत्
 
 तापं तनोति सहवासभृतां सदैव ॥१२५॥
+
+
 
 प्राहानुरागपरभागवती ततः सा
 
@@ -2659,6 +3511,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लावण्यकेलिजलधौ कलधौतगात्र्यः ॥१२६॥
 
+
+
 जन्मैव हन्त किमभून्मम गोकुलेऽस्मिंस्
 
 तन्माधुरीं न यदुरीकुरुते कदापि ।
@@ -2666,6 +3520,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्श्यामलेऽतिचपले हृदि लेशमात्री
 
 नो सम्भवेदिह भवे धृतिरित्यवेहि ॥१२७॥
+
+
 
 श्यामाह यामि! ललिते! शृणु यामि गेहं
 
@@ -2675,7 +3531,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णेक्षणालिनि समर्पय बद्धतृष्णे ॥१२८॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 प्रियविरहविहस्ता स्रस्तधीः सा तदानीं
 
@@ -2685,7 +3545,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समयविहितमेकोऽभ्यास एवात्र हेतुः ॥१२९॥
 
+
+
 कृष्णभावनामृतं ३.६४—
+
+
 
 अथ निखिलसखीनां स्वालिभिः स्नापितानां
 
@@ -2695,7 +3559,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रियमपि निजपादाम्भोजभासा विजिग्ये ॥१३०॥
 
+
+
 कृष्णाह्निककौमुदी २.४८५१—
+
+
 
 काचिन्मणीन्द्रमयमासनमाजहार
 
@@ -2705,6 +3573,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 काप्यादधे दशनशोधनसाधनानि ॥१३१॥
 
+
+
 उत्थाय तल्पतलतः कनकासनस्था
 
 निद्रावसानविगलन्नियतव्यवस्था ।
@@ -2712,6 +3582,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सा पादपीठमधि दत्तपदारविन्दा
 
 बभ्राज सत्परिजनैर्विहिताभिनन्दा ॥१३२॥
+
+
 
 भृङ्गारनालशिखरेण समर्पिताभिः
 
@@ -2721,6 +3593,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीपाणिपद्मतलसङ्गमलोहिताभिः ॥१३३॥
 
+
+
 निक्षेपणे प्रियसखीकरयोः कृताभिः
 
 कर्पूरपूररजसाऽभिसुवासिताभिः! ।
@@ -2729,7 +3603,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा साधु शोधितवती मुखपद्ममद्भिः ॥१३४॥
 
+
+
 कृष्णभावनामृतं ४.२
+
+
 
 करतलादसकृच्चुलुकीकृतं
 
@@ -2739,7 +3617,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ध्वनिभृतं निभृतं क्षिपति स्म सा ॥१३५॥
 
+
+
 कृष्णभावनामृतं ४.३
+
+
 
 विसृमरानलकान्किरती शिरस्य्
 
@@ -2749,7 +3631,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्युतिमितं तिमितं त्रिरदीधवत॥१३६॥
 
+
+
 कृष्णभावनामृतं ४.४९—
+
+
 
 विटपिकां द्युतरोस्ततरोचिषं
 
@@ -2759,6 +3645,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मृदुतरेण करेण सुदृग्दधे ॥१३७॥
 
+
+
 प्रतिसरोदितदोलनमस्वनद्
 
 वलयमुच्चलकुण्डलमेतया ।
@@ -2766,6 +3654,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 व्यधित सा मृजती रदनांश्छविं
 
 कणवदुच्छलितां ललितां श्रितान॥१३८॥
+
+
 
 अथ दधे सुदती धनुराकृतिं
 
@@ -2775,6 +3665,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सहचरीकरतोऽदरतोषतः ॥१३९॥
 
+
+
 नवदलोपमितां रसनां मृजत्य्
 
 अथ तया नतकम्पितमस्तकम् ।
@@ -2782,6 +3674,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मुखमियं स्खलितैरलकैर्वृतं
 
 विदधती दधती स्मितमाबभौ ॥१४०॥
+
+
 
 निरणिजद्बहिरन्तरमप्यरं
 
@@ -2791,6 +3685,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जलकणापनयं सनयं व्यधात॥१४१॥
 
+
+
 सहचरीविधृते मणिदर्पणे
 
 तदभिनन्दनसाक्षिणि वीक्ष्य सा ।
@@ -2799,13 +3695,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियतमक्षणलक्षणलक्षकम् ॥१४२॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 तस्य दोहादिकां क्रियां दृष्टागता कलावती ।
 
 जगादाथ तदभ्यर्णे परमोल्लाससंयुता ॥१४३॥
 
+
+
 गोविन्दलीलामृतं २.३७४१—
+
+
 
 गोपालोऽपि स्वगोशालं सराममधुमङ्गलः ।
 
@@ -2815,6 +3719,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कैलासगण्डशैलालीमध्यस्थैरावतभ्रमम् ॥१४५॥
 
+
+
 मध्येऽच्युतोऽञ्चन्धवलावलीनाम्
 
 उदाननानां परितः स्थितानाम् ।
@@ -2822,6 +3728,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दधौ जनानां स्फूटपुण्डरीक
 
 श्रेण्यन्तरञ्चद्भ्रमरभ्रमं सः ॥१४६॥
+
+
 
 हिही गङ्गे! गोदावरि! शबलि! कालिन्दि! धवले!
 
@@ -2831,6 +3739,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुहुर्नामग्राहं निखिलसुरभीराह्वयदसौ ॥१४७॥
 
+
+
 न्यस्ताङ्गः प्रपदोपरि प्रघटयन्जानुद्वये दोहनीं
 
 काश्चिद्दोग्धि पयः स्वयं त्वथ पराः स्वैर्दोहयत्युन्मुखीः ।
@@ -2839,7 +3749,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 इत्थं नन्दसुतः प्रगे स्वसुरभीरानन्दयन्नन्दति ॥१४८॥
 
+
+
 आनन्दवृन्दावनचम्पुः ११.४—
+
+
 
 पादाग्रे कृतपादुकं त्रिकसमुल्लासोल्लसत्पार्ष्णिकं
 
@@ -2849,7 +3763,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पाणिभ्यां क्रमकुड्मलाङ्गुलिपुटं गां दोग्धि दुग्धं हरिः ॥१४९॥
 
+
+
 आनन्दवृन्दावनचम्पुः ११.६—
+
+
 
 वत्सादप्यधिकप्रियो भगवतः पाण्यम्बुजस्पर्शन
 
@@ -2859,7 +3777,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दोहन्यन्तरमेति यावदवनीं तावत्समापुप्लुवत॥१५०॥
 
+
+
 पद्यावली २६२—
+
+
 
 अङ्गुष्ठाग्रिमयन्त्रिताङ्गुलिरसौ पादार्द्धनीरुद्धभूर्
 
@@ -2869,13 +3791,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धाराध्वानमनोहरं सखि! पयो गां दोग्धि दामोदरः ॥१५१॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 शृण्वन्तीं भाववैवश्याद्विस्मृतस्नापनक्रियाम् ।
 
 लवङ्गमञ्जरी सद्यो जुहाव व्यग्रमानसा ॥१५२॥
 
+
+
 गोविन्दलीलामृतं २.६५—
+
+
 
 तत्र काञ्चनमये मृदुपीठे
 
@@ -2885,7 +3815,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तामुपायनकराः परिवव्रुः ॥१५३॥
 
+
+
 गोविन्दलीलामृतं २.६०—
+
+
 
 सावातारयदाभरणनिचयं
 
@@ -2895,7 +3829,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पल्लवकुसुमस्तवकप्रचयम् ॥१५४॥
 
+
+
 कृष्णाह्निककौमुदी २.५५—
+
+
 
 आमृज्य चेलशकलेन तनूत्तमेन
 
@@ -2905,7 +3843,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वासोऽभ्यमूमुचदनुत्तमगन्धयुक्तम् ॥१५५॥
 
+
+
 कृष्णाह्निककौमुदी २.५४—
+
+
 
 आकृष्य मुग्धमवगुण्ठनमुत्तमाङ्गाद्
 
@@ -2915,7 +3857,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सप्रेम सादरमशूशुधदुत्तमालिः ॥१५६॥
 
+
+
 कृष्णाह्निककौमुदी २.५६६६—
+
+
 
 प्रक्षाल्य पादयुगलं मुकुरं पुरस्ताद्
 
@@ -2925,6 +3871,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्यानञ्ज कञ्जवदनां प्रणयेन भूम्ना ॥१५७॥
 
+
+
 अङ्गाद्यतो यत उदस्यति चारुचेलं
 
 तत्तन्निरीक्ष्य ह्रियं ऋच्छति सानुवेलम् ।
@@ -2932,6 +3880,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तेनाक्तमक्तमवधाय सखीयमङ्गं
 
 तस्याः प्यधात्तदखिलं कृतह्रीविभङ्गम् ॥१५८॥
+
+
 
 अभ्यज्य रज्यदतिशुद्धहृदो वयस्या
 
@@ -2941,6 +3891,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कस्तूरिकाघुसृणचन्दनचारुचूर्णैः ॥१५९॥
 
+
+
 गन्धानुबन्धिविमलामलकीकषायैः
 
 केशान्विघृष्य कतमा विविधैरुपायैः ।
@@ -2948,6 +3900,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भृङ्गारनालगलितैर्ललितैः कबन्धैर्
 
 उक्षां चकार सहजप्रणयानुबन्धैः ॥१६०॥
+
+
 
 कालोचितेन घनसारसुवासितेन
 
@@ -2957,6 +3911,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्वे पार्श्वयोः सिषिचतुः सुमुखीं जलेन ॥१६१॥
 
+
+
 संवेष्ट्य चारुचिकुरान्सिचयेन बाढं
 
 निष्पीड्य भूरि गलदम्बु निगाल्य गाढम् ।
@@ -2964,6 +3920,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भूयः प्रसार्य चलदङ्गुलिभिर्विकीर्य
 
 भूयो बबन्ध कतमा सिचयं वितीर्य ॥१६२॥
+
+
 
 काचिन्मुखेन्दुमपरा गलमूलमन्या
 
@@ -2973,6 +3931,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बाहुद्वयं च कतमा सुषमावरिष्ठम् ॥१६३॥
 
+
+
 संवेष्ट्य शुष्कवसनेन निरासनीयं
 
 श्रोण्या जहार विगलज्जलमन्तरीयम् ।
@@ -2980,6 +3940,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आमृज्य पाणियुगलेन शनैरुदारम्
 
 अर्द्धोरुकं कटितटे घटयां चकार ॥१६४॥
+
+
 
 आमृष्टयोर्वरपयोधरयोरलोलं
 
@@ -2989,6 +3951,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नानाविधातिशयशिल्पविशारदेन ॥१६५॥
 
+
+
 तस्योपरि प्रतनु शोणतरं सुवीचि
 
 चण्डातकादुदयदुच्चलसन्मरीचि ।
@@ -2996,6 +3960,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीपादपद्मनखचन्द्रचयाग्रचुम्बि
 
 चेलं बबन्ध तपनीयगुणानुबन्धि ॥१६६॥
+
+
 
 लम्बप्रलम्बयुगलेन सुपट्टदाम्ना
 
@@ -3005,7 +3971,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जग्रन्थ नीविमभिनाभि सुशिल्पसाराम् ॥१६७॥
 
+
+
 कृष्णभावनामृतं ४.३५—
+
+
 
 कनकबिन्दुमती नवशाटिका
 
@@ -3015,7 +3985,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निरनुरोधनरोधनमुच्यते ॥१६८॥
 
+
+
 कृष्णाह्निककौमुदी २.६७६९—
+
+
 
 आरोह्य तामथ महामणिपीठपृष्ठे
 
@@ -3025,6 +3999,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सख्यो व्यधुर्विविधमङ्गलवेषभूषाः ॥१६९॥
 
+
+
 भूयः प्रसार्य बहुशो बहुशः प्रसाध्य
 
 रत्नप्रसाधनिकयाङ्गुलिभिर्विशोध्य ।
@@ -3032,6 +4008,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कालागुरुप्रभवधूपधुराप्रचारम्
 
 आलीजनः कचभरं सुरभीचकार ॥१७०॥
+
+
 
 स्नानादृजुं सदलकालिमरालयित्वा
 
@@ -3041,7 +4019,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सीमन्तसीमनि मणीन्द्रमयूखरस्याम् ॥१७१॥
 
+
+
 गोविन्दलीलामृतं २.७७—
+
+
 
 कस्तूरीपत्रवल्लीसमुदयखचितं पार्श्वयोराकपोलं
 
@@ -3051,7 +4033,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चक्रे सीमन्तरेखान्वितमथ तिलकं सान्द्रसिन्दूरपङ्कैः ॥१७२॥
 
+
+
 कृष्णाह्निककौमुदी २.७०
+
+
 
 मौलौ बबन्ध कतमा सुमणिप्रवेकं
 
@@ -3061,7 +4047,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लम्बप्रलम्बयुगलेन मणीन्द्रधाम्ना ॥१७३॥
 
+
+
 कृष्णाह्निककौमुदी २.७१७३—
+
+
 
 सूक्ष्मोर्ध्वरन्ध्रगतहेमशलाकिकाया
 
@@ -3071,6 +4061,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रत्नप्रभाभरधुरा विहितोपदेशे ॥१७४॥
 
+
+
 मुक्ताकलापकलया ललितप्रकाश्यां
 
 काचिद्व्यधादलकसीमनि पत्रपाश्याम् ।
@@ -3078,6 +4070,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 काचिन्मणीन्द्रमयकुण्डलमत्युदारम्
 
 एकैकशः श्रुतियुगे घटयां चकार ॥१७५॥
+
+
 
 काचिद्विभूष्य नयने दलिताञ्जनेन
 
@@ -3087,7 +4081,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नेत्राञ्जनाधरविभाभरनीलरक्ताम् ॥१७६॥
 
+
+
 कृष्णभावनामृतं ४.६८—
+
+
 
 मकरिके लिखती मृदुगण्डयोर्
 
@@ -3097,7 +4095,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रसमये समये हरिरर्चयेत॥१७७॥
 
+
+
 गोविन्दलीलामृतं २.८३—
+
+
 
 रुचिरचिबुकमध्ये रत्नराजच्छलाका
 
@@ -3107,7 +4109,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रमर इव दलाग्रे सन्निविष्टः सरोजम् ॥१७८॥
 
+
+
 गोविन्दलीलामृतं २.७६—
+
+
 
 कर्पूरागुरुकाश्मीर
 
@@ -3117,7 +4123,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पृष्ठं बाहुकुचावुरः ॥१७९॥
 
+
+
 गोविन्दलीलामृतं २.७८८०—
+
+
 
 पुष्पगुच्छेन्दुलेखाब्ज
 
@@ -3127,6 +4137,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चित्रा तत्कुचयोस्तटे ॥१८०॥
 
+
+
 मीनीप्रसूननवपल्लवचन्द्रलेखा
 
 व्याजात्स्वचिह्नशरकुन्तधनूंषि कामः ।
@@ -3134,6 +4146,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तद्भ्रूधनुर्धुवनमात्रनिरस्तकर्मा
 
 मन्ये न्यधत्त निजतत्कुचकोषगेहे ॥१८१॥
+
+
 
 चित्रार्पितानेकविचित्ररत्न
 
@@ -3143,7 +4157,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्तार शैलाविव सान्ध्यकान्तिः ॥१८२॥
 
+
+
 गोविन्दलीलामृतं २.८६९३—
+
+
 
 उपरि खचितनानारत्नजालैः स्फुरन्त
 
@@ -3153,6 +4171,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सपदि हरिभियेव छादयामास मध्ये ॥१८३॥
 
+
+
 वज्राचिताखण्डलरत्नचित्र
 
 सुस्थूलमध्यो गुणबद्धचञ्चुः ।
@@ -3160,6 +4180,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ललास तस्या उपकण्ठकूपं
 
 दत्तस्तया हाटकचित्रहंसः ॥१८४॥
+
+
 
 सुवर्णगोलीयुगमध्यगोल्लसन्
 
@@ -3169,6 +4191,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न्ययोजि हारो हृदि गोस्तनाभिधः ॥१८५॥
 
+
+
 मसारचन्द्रोपलपद्मराग
 
 सुवर्णगोलीग्रथितान्तरालैः ।
@@ -3176,6 +4200,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मुक्ताप्रवालैः परिगुम्फितां सा
 
 रत्नस्रजं तद्धृदये युयोज ॥१८६॥
+
+
 
 वैदूर्ययुग्माचितहेमधात्रिका
 
@@ -3185,6 +4211,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रराज तस्या हृदयेऽर्पितस्तया ॥१८७॥
 
+
+
 रासे निशीथे सहनृत्यगान
 
 तुष्टेन दत्तां हरिणा स्वकण्ठात।
@@ -3193,9 +4221,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गुञ्जावलीं तद्धृदि सा युयोज ॥१८८॥
 
+
+
 स्थूलतारावलीरम्या सन्नायकविभूषिता ।
 
 तस्या एकावलीज्योत्स्नी हृदम्बरममण्डयत॥१८९॥
+
+
 
 कनकखचितवज्रैर्वेष्टितैः पद्मरागैश्
 
@@ -3205,7 +4237,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लसति हृदि विशाखायोजितास्याश्चतुष्की ॥१९०॥
 
+
+
 अलङ्कारकौस्तुभ ५.१८२—
+
+
 
 आलीजनैर्मण्डनकेलिकाले
 
@@ -3215,7 +4251,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्विन्ना सकम्पा पुलकाकुलासीत॥१९१॥
 
+
+
 गोविन्दलीलामृतं २.९४—
+
+
 
 पृष्ठान्तः क्रमलम्बमानममलं ग्रीवान्तहारावली
 
@@ -3225,7 +4265,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सोपानं विधिना कृतं करुणया वेणीभुजङ्ग्याः स्फुटम् ॥१९२॥
 
+
+
 कृष्णाह्निककौमुदी २.७५—
+
+
 
 मध्येप्रगण्डमतुलाङ्गदमुन्मणीनि
 
@@ -3235,7 +4279,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रत्नप्रकाशि मणिबन्धरुचातिचित्रम् ॥१९३॥
 
+
+
 गोविन्दलीलामृतं २.९७—
+
+
 
 मुक्तावलीखचितहाटककङ्कणाभ्यां
 
@@ -3245,11 +4293,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्याश्चकास्ति नितरामिव सैंहिकेयः ॥१९४॥
 
+
+
 गोविन्दलीलामृतं २.९९—
+
+
 
 निजनामाङ्किता नानारत्नद्युतिकरम्बिता ।बभावङ्गुलिमुद्रास्या विपक्षमदमर्दनी ॥१९५॥
 
+
+
 कृष्णाह्निककौमुदी २.७७—
+
+
 
 तुन्दान्तिके मणिविनिर्मिततुन्दबन्धं
 
@@ -3259,7 +4315,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आगुल्फमाधृत सुहंसकयुग्ममाली ॥१९६॥
 
+
+
 कृष्णभावनामृतं ४.९६—
+
+
 
 नखशिखाङ्घ्रितलाद्युरुशोणिमाप्य्
 
@@ -3269,7 +4329,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दिनकृतो न कृतो मनुजैर्महः ॥१९७॥
 
+
+
 अलङ्कारकौस्तुभ ५.१४३, अन्या काचिदाह—
+
+
 
 वृथाऽकृथा यावकमङ्घ्रिपङ्कजे
 
@@ -3279,7 +4343,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यः केशवस्यापि च केशरञ्जनः ॥१९८॥
 
+
+
 कृष्णाह्निककौमुदी २.७८—
+
+
 
 मञ्जीरयुग्ममतिमञ्जुलरत्नसिद्धं
 
@@ -3289,7 +4357,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 काचिन्मणीन्द्रमुकुरं पुरतो निनाय ॥१९९॥
 
+
+
 गोविन्दलीलामृतं २.१०३—
+
+
 
 अस्या न्यधादुषसि नर्मदया स्वसख्या
 
@@ -3299,7 +4371,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लीलारविन्दमरविन्दविलोचनायाः ॥२००॥
 
+
+
 गोविन्दलीलामृतं २.१०५—
+
+
 
 सा कृष्णनेत्रकुतुकोचितरूपवेशं
 
@@ -3309,13 +4385,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कान्तावलोकनफलो हि विशेषवेषः ॥२०१॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 मल्ललीलादिकं तस्य तन्मध्ये सखिभिः सह ।
 
 विलोक्यैव हिरण्याङ्गी तामायातावदद्द्रुतम् ॥२०२॥
 
+
+
 कृष्णाह्निककौमुदी २.२०२७—
+
+
 
 गोदोहनादथ विरम्य स रम्यलीलैः
 
@@ -3325,6 +4409,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्यासालयं मणिमयं सकलैकमत्या ॥२०३॥
 
+
+
 प्रत्येकमेव सखिभिः सवयोभिरेतैर्
 
 मल्लक्रियामथ भुजाभुजि वीतभीतैः ।
@@ -3332,6 +4418,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वस्वौजसः प्रकटनेन सरोषदर्पैश्
 
 चक्रेऽपसर्पपरिसर्पविसर्पसर्पैः ॥२०४॥
+
+
 
 विश्रम्य किञ्चिदथ सञ्चितपुण्यवृन्दैस्
 
@@ -3341,6 +4429,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अभ्यङ्गमङ्गलगृहं प्रविवेश दासैः ॥२०५॥
 
+
+
 नानाप्रबन्धबहुबन्धविधौ विदग्धैर्
 
 अभ्यङ्गमङ्गलविशेषकलासु मुग्धैः ।
@@ -3348,6 +4438,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तैलेन साधु शुभगन्धसुबान्धवेन
 
 प्रारम्भि यत्तदुररीकृतमप्यनेन ॥२०६॥
+
+
 
 आपादमस्तकमनस्तसमस्तभाग्यैस्
 
@@ -3357,6 +4449,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रीत्या चिरं ममृदिरेऽथ तदङ्गकानि ॥२०७॥
 
+
+
 ते कौङ्कुमेन रजसा घनसारचूर्णैः
 
 पूर्णेन चारुमृदुना परिपेषशीर्णैः ।
@@ -3364,6 +4458,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विम्लानभावमथ तैलकृतं हरन्तः
 
 कृष्णस्य तानवयवानुदवर्तयन्त ॥२०८॥
+
+
 
 केनोचितेन घनसारसुवासितेन
 
@@ -3373,6 +4469,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दासीगणोऽम्बुजदृशं स्नापयां चकार ॥२०९॥
 
+
+
 काचित्कषायितकचान्बहुशः कषन्ती
 
 काचिन्मृदूनवयवान्मृदु मार्जयन्ती ।
@@ -3381,7 +4479,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लेभेतरामतितरामनुरागकान्ती ॥२१०॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 ज्योत्स्नाभिर्नवनीरदः किमथवा शुक्लेन नीलो गुणः
 
@@ -3391,7 +4493,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किं वा श्यामसरोजमुज्ज्वलविधुक्षोदैर्मुरारेर्वपुः ॥२११॥
 
+
+
 कृष्णाह्निककौमुदी २.२८४६—
+
+
 
 एवं समाप्य कतमे स्नपनं शुभेन
 
@@ -3401,6 +4507,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 संमार्जनं विदधुरस्य भृशं विनीय ॥२१२॥
 
+
+
 आदौ सुचेलशकलैर्मृदुलैरशुष्कैः
 
 पश्चात्क्रमेण ममृजुः सितसूक्ष्मशुष्कैः ।
@@ -3408,6 +4516,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आपादकुन्तलभरं प्रतिसन्धिसन्धि
 
 ते मार्जनं विदधिरे प्रणयानुबन्धि ॥२१३॥
+
+
 
 कश्चित्कचान्गतजलान्द्विविधेन वासः
 
@@ -3417,6 +4527,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चेलान्तरेण विनिनाय कृतावहेलम् ॥२१४॥
 
+
+
 एनापि नूतनमतित्वरयोपनीतं
 
 कौषेयचेलयुगलं द्रुतहेमपीतम् ।
@@ -3424,6 +4536,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 केनापि पाणिकमले क्रमतः प्रदत्तम्
 
 उत्सार्य पूर्वपटमाशु स पर्यधत्त ॥२१५॥
+
+
 
 तस्यास्थितस्य रमणीयमणीचतुष्कं
 
@@ -3433,6 +4547,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नासेवि कुन्तलभरः कुशलेन कृत्ये ॥२१६॥
 
+
+
 भूयः प्रसार्य परिमृज्य मुहुः प्रसाध्य
 
 रत्नप्रसाधनिकया बहुशो विशोध्य ।
@@ -3440,6 +4556,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आवृत्य चेलशकलेन सता द्विफाल
 
 बद्धः स कुन्तलभरः प्रभया पफाल ॥२१७॥
+
+
 
 अन्योन्यपालनकृता कचमेचकिम्ना
 
@@ -3449,6 +4567,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विन्यास एष न हि कस्य दृशोर्विवेश ॥२१८॥
 
+
+
 स्नानादृजून्सदलकानथ कुञ्चयित्वा
 
 चारुस्वभावकुटिलानपि रञ्जयित्वा ।
@@ -3456,6 +4576,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भाले लिलेख तिलकं शशिमण्डलाभं
 
 श्रीखण्डकुङ्कुमरसेन सुजातशोभम् ॥२१९॥
+
+
 
 गारुत्मतेन्द्रमणिहीरकपद्मराग
 
@@ -3465,6 +4587,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीकौस्तुभाभिधमधत्त महामणीन्द्रम् ॥२२०॥
 
+
+
 स्थूलेन मौक्तिकफलप्रकरेण क्ÿप्तान्
 
 हारान्दधार गिरगोचरतामवाप्तान।
@@ -3472,6 +4596,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कञ्चिद्विशालतरवक्षसि नाभिकूले
 
 कञ्चित्प्रलम्बमथ कञ्चन जानुमूले ॥२२१॥
+
+
 
 श्रीकुण्डले मणिमये मकरानुकारे
 
@@ -3481,11 +4607,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्नानोत्सवेन विरहय्य स पूर्वसिद्धे ॥२२२॥
 
+
+
 सत्पट्टसूत्रकृतमञ्जुतरप्रलम्बौ सद्रत्नपट्टमयमङ्गलसूत्रचुम्बौ ।
 
 गारुत्मतादिनवरत्नजबाहुबन्धौ
 
 कश्चिद्बबन्ध वलयौ मणिबन्धसन्धौ ॥२२३॥
+
+
 
 दिव्याङ्गुलीयकमुदारमनामिकायां
 
@@ -3495,6 +4625,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दत्ते स्म कश्चिदधितर्जनि रञ्जनीयम् ॥२२४॥
 
+
+
 नानामणीन्द्रघटया घटितानुबन्धं
 
 पीतांशुकोदरतटीमनु तुन्दबन्धम् ।
@@ -3502,6 +4634,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 माणिक्यकिङ्किणिगुणं च कटीरमूले
 
 कश्चिद्बबन्ध परिधत्तलसद्दुकूले ॥२२५॥
+
+
 
 पादाम्बुजोपरि मणीन्द्रघटानुक्ÿप्तं
 
@@ -3511,6 +4645,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आस्येन्दुबिम्बमधि सस्पृहमादधार ॥२२६॥
 
+
+
 अत्रान्तरे व्रजपुरन्दरसन्निदेशम्
 
 आदाय कश्चन तदस्य गृहं विवेश ।
@@ -3518,6 +4654,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ऊचे च कृष्ण! जनकस्य गिरा बहुभ्यस्
 
 त्वं दातुमर्हसि गवामयुतं द्विजेभ्यः ॥२२७॥
+
+
 
 श्रुत्वा पितुर्गिरमसौ चिकुरं निबध्य
 
@@ -3527,6 +4665,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रामानुजः सीवमनसा विततार धेनूः ॥२२८॥
 
+
+
 गोष्ठेश्वरीप्सिततमो रसवत्प्रपाकः
 
 सम्पादितो भवति यावदनेकपाकः ।
@@ -3534,6 +4674,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तावन्न सोढुमभिशक्तवती विलम्बं
 
 सा प्राहिणोत्किमपि भोक्तुमथाविलम्बम् ॥२२९॥
+
+
 
 हैयङ्गवीनदधिदुग्धसरादिभक्ष्यम्
 
@@ -3545,6 +4687,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  सङ्ग्रहकर्तुः—
 
+
+
 निशम्येमां वार्त्तां प्रमुदितवती सीधुसदृशीं
 
 स्वयं पक्त्वा यन्नो तदशनमसौ कारितवती ।
@@ -3553,7 +4697,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुमोचेवाक्षिभ्यां जलजयुगतः शीकरकणम् ॥२३१॥
 
+
+
 कृष्णभावनामृतं ४.१०९११०—
+
+
 
 अत्रान्तरे व्रजपुराधिपयाऽनपाय
 
@@ -3563,6 +4711,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भृङ्गप्रमोदकृतये कृतिनी व्यराजीत॥२३२॥
 
+
+
 अन्योन्यदर्शनसमुद्गमनस्मिताढ्य
 
 शस्तानुयोगरभसोन्नतिसीधुवृष्टिः ।
@@ -3571,7 +4721,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दं ननन्द समसौहृदहृद्यरोचिः ॥२३३॥
 
+
+
 कृष्णभावनामृतं ५.११२—
+
+
 
 व्रजपुरपरमेश्वरीप्रसादं
 
@@ -3581,6 +4735,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दिशमधि रात्रि समेति कापि लक्ष्मीः ॥२३४॥
 
+
+
 तदहमनुमिमे निदेशदम्भात्
 
 किमपि कृपामृतमेव सा व्यतारीत।
@@ -3588,6 +4744,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यदिदमनुपलभ्य यन्ममात्मा
 
 स्वमपि सखेदमवैत्यनात्मनीनम् ॥२३५॥
+
+
 
 अजनि रसवतीविधापनार्था
 
@@ -3597,6 +4755,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रथमतोऽनुनयन्त्यमूं मदार्याम् ॥२३६॥
 
+
+
 इति सुदृगुदितामृतं पिबन्ती
 
 स्मितसुभगं निजगाद कुन्दवल्ली ।
@@ -3604,6 +4764,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तदयि सखि! विधेहि तत्र यात्राम्
 
 अकृतविलम्बमितः सहालिवृन्दा ॥२३७॥
+
+
 
 किमिह गुरुजनावलेरनुज्ञा
 
@@ -3613,6 +4775,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अकृत वशां स्वयमेव तां व्रजेशा ॥२३८॥
 
+
+
 निरुपधिपरमप्रियोऽसुकोटेर्
 
 अपि निखिलस्य जनस्य गोष्ठभाजः ।
@@ -3620,6 +4784,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 व्रजपतितनयः समीहते यत्
 
 परमिह विप्रतिपत्तिरस्ति कस्य ॥२३९॥
+
+
 
 सखि! किमपि न वेद तत्सवित्री
 
@@ -3629,6 +4795,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निजपरभावभिदा यशोऽयशो वा ॥२४०॥
 
+
+
 पचसि यदपि यश्च तस्य भोक्ता
 
 स च तिरयत्यमृतं सदैव दिव्यम् ।
@@ -3636,6 +4804,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इति निखिलपुरेष्वतिप्रसिद्धिस्
 
 तव सखि! कं न चमत्करोति बाढम् ॥२४१॥
+
+
 
 यदवधि कलयां बभूव सा त्वां
 
@@ -3645,6 +4815,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शनविरतिं क्वचनाह्नि नास्य चक्रे ॥२४२॥
 
+
+
 जयति यदतिघोरदैत्ययूथं
 
 मृदुलतनुः स्वपराबुभूषुमेषः ।
@@ -3652,6 +4824,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 त्वदमलकरपक्वभक्तभुक्तेर्
 
 अपरमियं मनुते न हेतुमत्र ॥२४३॥
+
+
 
 शृणु परमयि तत्त्वमत्र राधे
 
@@ -3661,6 +4835,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शशिमुखि! खिद्यति सा यथा स्वसूनोः ॥२४४॥
 
+
+
 सुतनुरभिदधेऽवधेहि विज्ञे
 
 सखि! तदिदं न वदस्ययुक्तमित्थम् ।
@@ -3669,7 +4845,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्फुटमपराङ्गनगामितेत्ययुक्तम् ॥२४५॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 यदपि बत सखीयं रीतिरेवेह लोके
 
@@ -3679,11 +4859,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 परिवदति तु या मामाशु लब्ध्वापि रायम् ॥२४६॥
 
+
+
 गोविन्दलीलामृतं ३.१८२५—
+
+
 
 ततः सासाद्य जटिलां स्नुषायां कुटिलामपि ।
 
 श्रावयामास सन्देशं व्रजेश्वर्या विचक्षणा ॥२४७॥
+
+
 
 आकर्ण्य साज्ञां व्रजराजराज्ञ्याः
 
@@ -3693,6 +4879,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तां कुन्दवल्लीं प्रणयादवादीत॥२४८॥
 
+
+
 स्नुषेयं मे साध्वी गुणगरिममाध्वीकमधुरा
 
 जनश्छिद्रान्वेषी स खलु चपलो नन्दतनयः ।
@@ -3700,6 +4888,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 न चाज्ञावज्ञेया व्रजपतिगृहिण्या भगवती
 
 वचः पाल्यं वत्से! नटति हृदयं किं नु करवै! ॥२४९॥
+
+
 
 मातः! सत्यं वदति भवती किंच गोपेन्द्रसूनुर्
 
@@ -3709,6 +4899,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 घूके चायं वृजिनतिमिरे घोषसन्तोषकोके ॥२५०॥
 
+
+
 माधुर्यं तून्मदयति जगद्यौवतं तस्य तस्माद्
 
 भीतिर्नीतिस्तव नववधूपालनं चापि युक्तम् ।
@@ -3716,6 +4908,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 माशङ्किष्ठास्तदयति यथा दृक्पथं नास्य साध्व्याश्
 
 छायाप्यस्याः स्वयमहमिमां द्राक्तथा तेऽर्पयामि ॥२५१॥
+
+
 
 त्वं पुत्रि! साध्वी प्रथितासि गोष्ठे
 
@@ -3725,6 +4919,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नैनां यथा पश्यति तद्विधेयम् ॥२५२॥
 
+
+
 वधूमथाहूय जगाद वत्से
 
 व्रजालयान्नन्दवधूसमीपम् ।
@@ -3732,6 +4928,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निष्पाद्य तस्याः प्रियमेहि तूर्णं
 
 सहानयैवाद्य रविस्त्वयार्च्यः ॥२५३॥
+
+
 
 राधेति दिष्टा हृदि साभिनन्दिताप्य्
 
@@ -3741,7 +4939,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गृहं गृहं नेङ्गति यत्कुलाङ्गना ॥२५४॥
 
+
+
 कृष्णभावनामृतं ५.२१२३—
+
+
 
 व्रजपतिगृहिणीगिरं चिराभ्यर्
 
@@ -3751,6 +4953,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तव भगवान्हरिरेव रक्षितास्तु! ॥२५५॥
 
+
+
 अवति जगदिदं स्वधर्मपालीः
 
 किमिह सतीः स जहाति लोकनाथः? ।
@@ -3758,6 +4962,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इति किल भवतीं तदीयपाणौ
 
 सुमुखि! समर्प्य निराकुला भवेयम् ॥२५६॥
+
+
 
 इति गुरुजरतीगिरा समुद्यत्
 
@@ -3767,7 +4973,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किमपि निगद्य बभूव सापि तूष्णीम् ॥२५७॥
 
+
+
 गोविन्दलीलामृतं ३.२६२७—
+
+
 
 कृताग्रहोच्चैः पुनरार्ययासौ
 
@@ -3777,6 +4987,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उच्चालिता फुल्लतनुः प्रतस्थे ॥२५८॥
 
+
+
 कृष्णस्य प्रातराशाय
 
 संस्कृतं लड्डुकादिकम् ।
@@ -3785,7 +4997,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सख्योऽप्यनुययुः सखीम् ॥२५९॥
 
+
+
 कृष्णभावनामृतं ५.२५२६—
+
+
 
 अथ निजभवनाद्विनिर्यती सा
 
@@ -3795,6 +5011,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुरविशिखां सुरभीकृताखिलाशा ॥२६०॥
 
+
+
 जननिवहगतागतिप्रवृत्तौ
 
 दरविमुखी सरणेः श्रितैकपार्श्वा ।
@@ -3803,7 +5021,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 परि परिगुण्ठनमाधुरी प्रपेदे ॥२६१॥
 
+
+
 गोविन्दलीलामृतं ३.२८३५—
+
+
 
 वीक्ष्याध्वनि परानन्द
 
@@ -3813,6 +5035,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेम्णा परिजहास ताम् ॥२६२॥
 
+
+
 मूल्यानीतोपसर्यास्त्रिचतुरदिवसान्प्रोष्य सन्ध्यागतस्ते
 
 भर्ता गोभिः स्वगोष्ठे घटयितुमखिलां रात्रिमेव न्यवात्सीत।
@@ -3820,6 +5044,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वक्षः प्रोद्यन्नखाङ्कावलिचितमधरः स्पष्टदन्तक्षतो यत्
 
 तत्साध्व्यास्ते सतीत्वं समुचितमधुना व्यक्तमुल्लालसीति ॥२६३॥
+
+
 
 अन्तर्गूढस्मितोत्फुल्ल
 
@@ -3829,6 +5055,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुन्दवल्लीमथाब्रवीत॥२६४॥
 
+
+
 करकफलधियास्याः कानने धृष्टकीरः
 
 स्तनमनुविनिविष्टः पक्वबिम्बभ्रमेण ।
@@ -3836,6 +5064,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अदशदधरमुच्चैस्तन्नखाचो इतं तद्
 
 धृदयमिदममुष्याः किं वृथा शङ्कसे त्वम् ॥२६५॥
+
+
 
 सखीवचःस्मारितकृष्णसङ्ग
 
@@ -3845,6 +5075,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जगौ पुनः कुन्दलता सहासम् ॥२६६॥
 
+
+
 आनन्दकम्पोत्तरलासि मुग्धे!
 
 किं भो वृथा पद्मिनि! कुन्दवल्ल्याः ।
@@ -3852,6 +5084,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 न देवरस्त्वां मधुसूदनोऽसौ
 
 भ्राम्यन्पुनः पास्यति भुक्तमुक्ताम् ॥२६७॥
+
+
 
 कर्णशर्मदसन्नर्म
 
@@ -3861,6 +5095,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विशाखाह विचक्षणा ॥२६८॥
 
+
+
 स्वेनेऽनुरागं परमुद्वहन्ती
 
 फुल्लापि मृद्वी भ्रमरात्सुलोलात।
@@ -3869,7 +5105,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भृङ्गानुजाद्भीतरला चकम्पे ॥२६९॥
 
+
+
 अथानन्तरम्, कृष्णभावनामृतं ५.२७—
+
+
 
 क्वचन च पथि निर्जने कदाचित्
 
@@ -3879,7 +5119,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्यपि न हि वेदनगोचरीकरोति ॥२७०॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 कृष्णानुरागेण विहस्तचित्ताम्
 
@@ -3889,7 +5133,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नन्दीश्वरं तां किल तुङ्गविद्या ॥२७१॥
 
+
+
 आनन्दवृन्दावनचम्पूः १.४८, ५०५१
+
+
 
 रसालपनसार्जुनक्रमुकनारिकेलासनैः
 
@@ -3899,6 +5147,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अशोकबकपाटलीकनकचम्पकैश्चम्पकैः ॥२७२॥
 
+
+
 तमालनवमालिकाकनकयूथिकायूथिका
 
 कुरण्टकलवङ्गिकादमनकातिमुक्तादिभिः ।
@@ -3906,6 +5156,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अपि स्थलसरोजिनीविचकिलादिभिः कन्दली
 
 प्रियङ्गुतुलसीमुखैरपि विचित्रवीरुद्गणैः ॥२७३॥
+
+
 
 सितासितविलोहितोत्पलसरोजकह्लारकै
 
@@ -3915,7 +5167,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तडागसरसीमुखैः परिवृतानि तोयाशयैः ॥२७४॥
 
+
+
 विलापकुसुमाञ्जलिः ६०—
+
+
 
 हम्बारवैरिह गवामपि बल्लवानां
 
@@ -3925,7 +5181,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोवर्धनादपि गुरुर्व्रजवन्दिताद्यः ॥२७५॥
 
+
+
 कृष्णभावनामृतं ५.२८४९—
+
+
 
 सखि! निजपुरतो विदूरमागा
 
@@ -3935,6 +5195,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 फलति तवाश्विति सम्प्रति प्रतीहि ॥२७६॥
 
+
+
 इति निगदितमात्रतः स्वसख्या
 
 सपदि सवेपथुजाड्यविप्लुताङ्गीम् ।
@@ -3942,6 +5204,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रसभमभिदधार चेतयन्ती
 
 किमपि जगाद च तां तदैव कौन्दी ॥२७७॥
+
+
 
 सुमुखि! किमधुनैव विक्लवाभूर्
 
@@ -3951,6 +5215,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तव सवयः सद एव यत्प्रमाणम् ॥२७८॥
 
+
+
 धृतिमिह हृदि धर्तुमीशिषे नो
 
 यदपि तदप्यबले! क्षणं दधीथाः ।
@@ -3958,6 +5224,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गिरियुगभरधारणाय यत्ते
 
 गिरिधर एव मयाद्य योजनीयः ॥२७९॥
+
+
 
 गिरिधरदिश एव शङ्कया या
 
@@ -3967,6 +5235,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदपि नियोक्ष्यसि हा पुनस्तमस्याम् ॥२८०॥
 
+
+
 त्वयि मुहुरियमर्पितार्यया यत्
 
 तदुचितमेव विधित्ससेऽद्य भद्रम् ।
@@ -3974,6 +5244,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वमिव सखि! परं जनं न विद्धी
 
 त्युदितवती ललिता पुनस्तयोचे ॥२८१॥
+
+
 
 अलमलमनया गिराविदूरे
 
@@ -3983,6 +5255,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अभिनवकुट्टिमगं हृदेककाम्यम् ॥२८२॥
 
+
+
 सरसमुषसि दुग्धनैचिकीकः
 
 सहसवयाः कृतमल्लरङ्गकेलिः ।
@@ -3990,6 +5264,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अवगतभवदालियानवार्त्ता
 
 क्षुभितहृदागत एष भाति पश्य ॥२८३॥
+
+
 
 व्रजपुरललनाकुलोन्मदिष्णु
 
@@ -3999,6 +5275,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृततनुरुच्चलदाममादितालीः ॥२८४॥
 
+
+
 श्रितमृदुतरगण्डकुण्डलाध्या
 
 पनपरताण्डवपण्डिताक्षियुग्मः ।
@@ -4006,6 +5284,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पवनधुतपटाङ्गगौरनील
 
 द्युतिलहरीस्तिमितीकृताखिलाशः ॥२८५॥
+
+
 
 प्रियसखभुजशीर्ष्णि राजदुद्यत्
 
@@ -4015,6 +5295,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्यसनवशेतरपाणिरेष ईष्टे ॥२८६॥
 
+
+
 इति गिरमथ रूपमाधुरीं तां
 
 यदि चषकीकृतकर्णनेत्रयुग्मा! ।
@@ -4022,6 +5304,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अपिवददरमोहतस्तदा तत्
 
 प्रसृमरसौरभमाश्वबोधयत्ताम् ॥२८७॥
+
+
 
 पुलकनिवहकम्पसम्पदश्रु
 
@@ -4031,6 +5315,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न मम पुरश्चलतोऽस्य किं करोमि ॥२८८॥
 
+
+
 गुरुपरवशतैव दोषदूरी
 
 करणपटुस्तव किं भिया ह्रिया वा ।
@@ -4038,6 +5324,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सपदि सवयसेति बोध्यमाना
 
 लघु लघु गन्तुमियेष सा तदग्रे ॥२८९॥
+
+
 
 किमिदमिति परस्परावलोको
 
@@ -4047,6 +5335,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लय इति वर्णयितुं न गीरपीष्टे ॥२९०॥
 
+
+
 अघदमनचकोरचन्द्रिकास्ताः
 
 शशिवदनापि पपौ मुहुः पिपासुः ।
@@ -4054,6 +5344,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गिरिधरमुदिरोपरीह चातक्य्
 
 अतनुरसं प्रववर्ष सेति चित्रम् ॥२९१॥
+
+
 
 अथ निजनिज मूर्ध्नि सव्यहस्तोन्
 
@@ -4063,6 +5355,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियचरणाब्जसुधा ययुस्तदग्रात॥२९२॥
 
+
+
 हरिरपि परिवृत्य तन्नितम्ब
 
 द्युतिनिहितेक्षणपङ्कजोऽवतस्थे ।
@@ -4070,6 +5364,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वरतनुततिरप्यतीत्य तद्गो
 
 पुरमवगुण्ठनमीषदस्यति स्म ॥२९३॥
+
+
 
 सखि! भवदवलोकजातहर्षं
 
@@ -4079,6 +5375,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भवसि न वेत्युदिताह सा स्वसख्या ॥२९४॥
 
+
+
 त्वमसि खलु यथा तथान्वमासीर्
 
 निजदृशीर्यतसे परा विधित्सुः ।
@@ -4086,6 +5384,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इति दरविकसत्स्मिता भ्रमद्भ्रूस्
 
 त्वरितमवाप महापुरान्तरं सा ॥२९५॥
+
+
 
 स्फटिकघटितकुड्यमीड्यभर्मोज्
 
@@ -4095,6 +5395,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रततिनगद्विजराजिराजितद्वाः ॥२९६॥
 
+
+
 द्युमणिकिरणदीप्तरत्नकुम्भ
 
 ध्वजनटकेकिवृताग्रपौर आट्टम् ।
@@ -4103,7 +5405,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलसति मन्दिरवृन्दमिन्दिराढ्यम् ॥२९७॥
 
+
+
 आनन्दवृन्दावनचम्पूः १.१५२
+
+
 
 मसारप्राचीरं मरकतगृहं हेमपटलं
 
@@ -4113,7 +5419,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रतीहारं नानाकृति जितविमानावलिपुरम् ॥२९८॥
 
+
+
 आनन्दवृन्दावनचम्पूः १.४५—
+
+
 
 कुड्ये यस्य मणिप्रवेकरचिते शिल्पक्रियाकल्पितैः
 
@@ -4123,7 +5433,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दातुं दाडिमबीजकानि सुचिरं मुह्यन्ति मुग्धाङ्गनाः ॥२९९॥
 
+
+
 व्रजरीतिचिन्तामणिः २.१९२२—
+
+
 
 मुख्यप्रकोष्ठे चतुरालयेऽस्या
 
@@ -4133,6 +5447,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीरामधामोत्तरदिश्युदेति ॥३००॥
 
+
+
 प्राच्यां गृहं तादृशमेव यत्र
 
 प्राच्यां स यस्यान्यतरप्रकोष्ठे ।
@@ -4140,6 +5456,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वपुत्रभद्राय निजेष्टदेवं
 
 नारायणं सेवते एव नन्दः ॥३०१॥
+
+
 
 कोषालयस्यान्वितदक्षिणांशे
 
@@ -4149,6 +5467,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विश्रामधामानुरु राधिकायाः ॥३०२॥
 
+
+
 कृष्णस्य धाम्नोऽन्वित दक्षिणांशे
 
 पाकालयस्यापि विराजमानः ।
@@ -4157,7 +5477,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रहो मनोज्ञं बहुगेहवेदि ॥३०३॥
 
+
+
 कृष्णभावनामृतं ५.५२—
+
+
 
 अथ समुपसेदुषीं सखीभिर्हरि
 
@@ -4167,7 +5491,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उदितवतीं मुदिताऽर्कमित्रपुत्रीम् ॥३०४॥
 
+
+
 गोविन्दलीलामृतं ३.३७३८—
+
+
 
 तत्रागतां चरणयोः प्रणतां स्वदोर्भ्याम्
 
@@ -4177,6 +5505,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्निग्धा चुचुम्ब मुखमश्रुमुखी ततोऽस्याः ॥३०५॥
 
+
+
 प्रत्येकमालिङ्ग्य च तद्वयस्याः
 
 पप्रच्छ साऽव्याहतभव्यमस्याः ।
@@ -4185,7 +5515,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सस्नेहमेताः पुनरावभाषे ॥३०६॥
 
+
+
 उज्ज्वलनीलमणिः ४.४५—
+
+
 
 न सुतासि कीर्तिदायाः
 
@@ -4195,7 +5529,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णस्येवेति किं त्रपसे? ॥३०७॥
 
+
+
 कृष्णभावनामृतं ५.५५—
+
+
 
 मधुरमृदुलमोदकादि किञ्चित्
 
@@ -4205,7 +5543,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भृशमुपलाल्य निनाय पाकशालाम् ॥३०८॥
 
+
+
 गोविन्दलीलामृतं ३.३९६०—
+
+
 
 विविधमधुरभक्ष्योत्पादने लब्धवर्णा
 
@@ -4215,6 +5557,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दररुचिरपि वत्सः सस्पृहं मे यथात्ति ॥३०९॥
 
+
+
 उपलावणिकं त्वेकाः
 
 काश्चित्कुरुत दाधिकम् ।
@@ -4222,6 +5566,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सार्पिष्कमपरा यूयं
 
 वत्साः शार्करिकं पराः ॥३१०॥
+
+
 
 सरसरसवतीसत्प्रक्रियापण्डितासि
 
@@ -4231,6 +5577,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रचय सह तयैव व्यञ्जनान्युत्तमानि ॥३११॥
 
+
+
 वटकममृतकेलिं साधयातिप्रयत्नात्
 
 सरसमसृणमन्यं पुत्रि! कर्पूरकेलिम् ।
@@ -4238,6 +5586,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मधुरममृतकोटेर्यत्र कृष्णः सतृष्णस्
 
 त्रिजगति न हि कश्चित्त्वां ऋते यस्य वेत्ता ॥३१२॥
+
+
 
 यस्यामुच्चैर्लालसाढ्यः सुतो मे
 
@@ -4247,6 +5597,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यत्नाद्वत्से! धेहि पञ्चामृताख्ये ॥३१३॥
 
+
+
 त्वं विधेहि ललितेऽम्ब! रसालां
 
 त्वं च षाडवमिहाशु विशाखे! ।
@@ -4255,11 +5607,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुत्रि चम्पकलते! मथितं त्वम् ॥३१४॥
 
+
+
 आमिक्षां त्वं पुत्रि! संसाध्य तस्यास् तत्तद्द्रव्यैर्योगपाकप्रभेदैः ।
 
 तत्तद्भेदान्तुङ्गविद्ये! विधेहि
 
 त्वं मत्स्यण्डीपानकान्यम्ब! चित्रे! ॥३१५॥
+
+
 
 त्वं खण्डमण्डानि च रङ्गदेवि!
 
@@ -4269,6 +5625,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वं मङ्गले! कुण्डलिकां विधेहि ॥३१६॥
 
+
+
 कादम्बरि! त्वं कुरु चन्द्रकान्तीस्
 
 त्वं लासिके! तण्डुलचूर्णपिण्डीः ।
@@ -4276,6 +5634,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 त्वं शष्कुलीः कौमुदि! भूरिभेदास्
 
 त्वमिन्दुपिण्डानि मदालसेऽम्ब! ॥३१७॥
+
+
 
 शशिमुखि! वटकानि त्वं विधेहि प्रयत्नाद्
 
@@ -4285,6 +5645,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मणिमति! बहुभेदांस्त्वं च पिष्टान्नपूपान॥३१८॥
 
+
+
 विधत्स्व भोः काञ्चनवल्लि! वत्से!
 
 गोधूमचूर्णोद्भवलड्डुकानि ।
@@ -4292,6 +5654,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मनोहराख्यानि मनोरमे! त्वं
 
 त्वं मौक्तिकाख्यानि च रत्नमाले! ॥३१९॥
+
+
 
 सुभृष्टनिस्तुषतिलैर्
 
@@ -4301,6 +5665,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सतिलाः खण्डपट्टिकाः ॥३२०॥
 
+
+
 लाजान्धानांश्च संभृष्टान्
 
 पृथुकान्घृतभर्जितान।
@@ -4308,6 +5674,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कृत्वा विन्ध्ये! सिताक्वाथैः
 
 समुद्गान्कुरु मोदकान॥३२१॥
+
+
 
 रम्भे! करम्भं कुरु शातकुम्भ
 
@@ -4317,6 +5685,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सिताघनक्षीरयुतं विधेहि ॥३२२॥
 
+
+
 उत्थापितं यत्तु मया मथित्वा
 
 प्रातः सुगन्धापयसो दधीनि ।
@@ -4324,6 +5694,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तदिष्टगन्धं नवनीतपिण्डं
 
 हैयङ्गवीनं कुरु भोः किलिम्बे ॥३२३॥
+
+
 
 स्वयं दुग्ध्वा व्रजेन्द्रेण
 
@@ -4333,6 +5705,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वं शृतं कुरु वत्सयोः ॥३२४॥
 
+
+
 ऋजीषदर्वीनिवहैः परीतां
 
 मृद्दारुकुण्ड्यादिकभाजनैश्च ।
@@ -4340,6 +5714,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चुल्लीचयाढ्यां मम सिक्तलिप्तां
 
 तद्दुग्धशालां व्रजताशु बालाः ॥३२५॥
+
+
 
 नानोपकरणानि त्वं
 
@@ -4349,6 +5725,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पात्रेष्वाधाय दापय ॥३२६॥
 
+
+
 तत्तत्पदार्थांस्त्वरितं तुलस्या
 
 सहानया रङ्गणमालिके त्वम् ।
@@ -4356,6 +5734,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आनीय कोषालयतोऽस्मदीयाद्
 
 दासीगणैर्दापय तत्र तत्र ॥३२७॥
+
+
 
 आम्रातकाम्रफलपूरकरीरधात्री
 
@@ -4365,6 +5745,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मूलान्यथार्द्रकमुखानि च रोचकानि
 
+
+
 मत्स्यण्डिकारसचिरोषितपक्वचिञ्चा
 
 धात्रीरसालबदरीशकलानि तद्वत्
@@ -4372,6 +5754,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निष्कास्य भोस्त्वमिह मन्थनिकाकुलेभ्यः
 
 कृत्वानयेन्दुमुखि! काञ्चनभाजनेषु
+
+
 
 शन्दे शुभे भरणि पीवरि मिष्टहस्ते
 
@@ -4381,7 +5765,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वत्साः! शनैः श्रपयताशु निधाय यूयम् ॥३३०॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 कान्तभुक्तावशिष्टं सं
 
@@ -4391,7 +5779,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधामाह सलालनम् ॥३३१॥
 
+
+
 कृष्णभावनामृतं ५.५६—
+
+
 
 सरसिजमुखि! कीर्तिदैककीर्ते!
 
@@ -4401,7 +5793,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुरु ललितादिसखीकृतेति कृत्यम् ॥३३२॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 शशिमुखि! शरदां शतं जयैवं
 
@@ -4411,7 +5807,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शमतुलवत्सलतालता नताः सा ॥३३३॥
 
+
+
 कृष्णाह्निककौमुदी २.८४—
+
+
 
 गोष्ठेश्वरीं समभिवाद्य विशेषनम्रा
 
@@ -4421,7 +5821,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अध्यक्षतां पचनकर्मणि साभिजाता ॥३३४॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 कैलासशैलकनिभं दधती स्वकान्त्या
 
@@ -4431,7 +5835,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शिश्लेष तां समुखचुम्बमसौ हसन्ती ॥३३५॥
 
+
+
 कृष्णाह्निककौमुदी २.८५९३—
+
+
 
 ताभ्यां महानसमुपेत्य च पाकशाला
 
@@ -4441,6 +5849,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पाकक्रियोपकरणानि विलोक्य तानि ॥३३६॥
 
+
+
 कुष्माण्डकालुकचुमानककन्दतुम्बी
 
 वार्त्ताकुमूलकपटोलफलानि शिम्बी ।
@@ -4448,6 +5858,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 डिण्डीशवारणबुषामफलान्यनीचा
 
 रम्भाविशेषनवगर्भनवीनमोचाः ॥३३७॥
+
+
 
 वास्तूकमारिषपटोलशिखाः कलाय
 
@@ -4457,6 +5869,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आलोक्य सैक्षत सखीः सरसाः समग्राः ॥३३८॥
 
+
+
 यद्येन येन विधिना रुचिरत्वमेत्य
 
 यद्व्यञ्जने यदुपयुज्यत इत्यवेत्य ।
@@ -4464,6 +5878,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ताभिर्महानसचरीभिरमूनि तानि
 
 तत्तत्प्रकारमथ कुट्टितकर्त्तितानि ॥३३९॥
+
+
 
 एलालवङ्गमरिचार्द्रकजात्यजाजी
 
@@ -4473,6 +5889,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 केचिज्जनाः पिपिषुरब्जदृशामशेषान॥३४०॥
 
+
+
 पिष्ट्वा सुवर्णपुटिकासु शुभप्रभावैर्
 
 आच्छादितास्वनुचरीघटया शरावैः ।
@@ -4480,6 +5898,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुस्थापितानि वसनोपरि पाकलीला
 
 रम्भे चकार हृदयं निरवद्यशीला ॥३४१॥
+
+
 
 आवश्यकाभरणवेशलसत्प्रतीका
 
@@ -4489,6 +5909,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रद्धाय कौतुकवती पचनक्रियायाम् ॥३४२॥
 
+
+
 दीप्तासु रामजननीङ्गिततोऽनलेन
 
 चुल्लीषु चारुतरदारुसमुज्ज्वलेन ।
@@ -4496,6 +5918,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आरूरुहन्नखिललोचनचित्तजैत्रीस्
 
 तास्ताम्ररीतिरजताचितपाकपात्रीः ॥३४३॥
+
+
 
 जज्ज्वाल स स्वयमफुत्कृतिवीतधूमम्
 
@@ -4505,7 +5929,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्तत्र तत्करतलेऽकुरुत प्रमाणम् ॥३४४॥
 
+
+
 कृष्णभावनामृतं ५.६३६५—
+
+
 
 अगुरुसरलदेवदारुदारु
 
@@ -4515,6 +5943,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बहुविधतेमनसाधुसाधनार्थम् ॥३४५ ॥
 
+
+
 ज्वलनकलनपात्रधारणोन्नत्य्
 
 अवनतिमूर्छनदर्विचालनाद्यैः ।
@@ -4522,6 +5952,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 त्रिवलिकुचभुजांसकम्पचेलोच्
 
 चलनवशादुदपादि यस्तदाऽस्याः ॥३४६॥
+
+
 
 मधुरिमभरमच्युतः स्वसौध
 
@@ -4531,7 +5963,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किमपि जगाद पटुर्बटुं मिषेण ॥३४७॥
 
+
+
 गोविन्दलीलामृतं ३.८४१०७—
+
+
 
 प्रहित्य तं साथ महानसं गता
 
@@ -4541,6 +5977,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 संदर्शयेत्याह बलस्य मातरम् ॥३४८॥
 
+
+
 तामाह सम्मार्जितवेदिकान्तरे
 
 नवीनमृद्भाजनपङ्क्ति सम्भृतम् ।
@@ -4548,6 +5986,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सा दर्शयन्ती कृततेमनादिकं
 
 राधां प्रशंसन्त्यथ तां च रोहिणी ॥३४९॥
+
+
 
 सुमधुरं शशितोऽपि सुसंस्कृतं
 
@@ -4557,6 +5997,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुमुखि! पश्य पुरः सखि! पायसम् ॥३५०॥
 
+
+
 बलपुष्टिकरं हृद्यं
 
 मधुरं मृदुलं सति! ।
@@ -4564,6 +6006,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मन्थनीसम्भृतं पश्य
 
 संयावमनया कृतम् ॥३५१॥
+
+
 
 रम्भासीरीक्षीरसारैः
 
@@ -4573,6 +6017,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नानाभेदान्सुसंस्कृतान॥३५२॥
 
+
+
 पीयूषग्रन्थिकर्पूर
 
 केलिकामृतकेलिकाः ।
@@ -4580,6 +6026,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अनया संस्कृताः पश्य
 
 यद्विधिर्मे न गोचरः ॥३५३॥
+
+
 
 केवलो मथितक्लिन्नो
 
@@ -4589,6 +6037,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 माषस्यापि चतुर्विधः ॥३५४॥
 
+
+
 चिञ्चाम्रातकचुक्राम्रैस्
 
 तत्तद्द्रव्यादियोगतः ।
@@ -4596,6 +6046,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ईषन्मधुरगाढादि
 
 भेदादम्लो द्विषड्विधः ॥३५५॥
+
+
 
 बद्धरम्भानव्यगर्भ
 
@@ -4605,6 +6057,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुखांशस्यालुकस्य च ॥३५६॥
 
+
+
 कुष्माण्डडिण्डिशाणां च
 
 चक्राभखण्डजालकम् ।
@@ -4612,6 +6066,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चणकक्षोदपङ्काक्तं
 
 घृतभृष्टं पृथक्पृथक॥३५७॥
+
+
 
 चणकक्षोदवटकान्
 
@@ -4621,6 +6077,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्वाथक्लिन्नानि लोकय ॥३५८॥
 
+
+
 चणकक्षोदपिण्डानां
 
 स्विन्नानां क्वथिताम्भसि ।
@@ -4628,6 +6086,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 खण्डानि द्रव्यपाकादि
 
 भेदान्नानाविधानि च ॥३५९॥
+
+
 
 वटिका फलमूलानां
 
@@ -4637,6 +6097,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रकारान्बहुधाकृतान॥३६०॥
 
+
+
 कर्कारुज्योत्स्निकालाबु
 
 फलान्यालि पृथक्पृथक।
@@ -4644,6 +6106,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 राजिकादधियोगेन
 
 संस्कृतान्यनया शुभे ॥३६१॥
+
+
 
 वत्सेप्सितप्रसूनानि
 
@@ -4653,6 +6117,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कलिकाः कोविदारजाः ॥३६२॥
 
+
+
 घृतभृष्टा दधिक्लिन्नाः
 
 प्रसूनवटिका द्विधा ।
@@ -4660,6 +6126,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पटोलस्य फलान्याज्य
 
 भृष्टानि रुचिदान्यलम् ॥३६३॥
+
+
 
 वृद्धकुष्माण्डवटिकाः
 
@@ -4669,6 +6137,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चविकाढ्याः पराः कृताः ॥३६४॥
 
+
+
 सितैलामरिचैर्योगाद्
 
 दुग्धतुम्बीकृतानया ।
@@ -4676,6 +6146,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तद्योगादपरं मिष्टं
 
 क्षीरकुष्माण्डनामकम् ॥३६५॥
+
+
 
 दधिशूरणकं मिष्टं
 
@@ -4685,6 +6157,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कारविल्वफलं द्विधा ॥३६६॥
 
+
+
 मृदुरम्भागर्भखण्ड
 
 वृद्धकुष्माण्डखण्डयोः ।
@@ -4692,6 +6166,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सितादधियुतः पाको
 
 मधुराम्लः सुशीतलः ॥३६७॥
+
+
 
 नालीतमेथीशतपुष्पिकामिशी
 
@@ -4701,6 +6177,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शाकाः सुधागर्वहृतः सुसंस्कृताः ॥३६८॥
 
+
+
 कलम्बी पक्वचिञ्चाया
 
 रसपक्वा रुचिप्रदा ।
@@ -4708,6 +6186,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कृष्णनालीतशाकोऽयम्
 
 आमाम्रफलयुक्शुभः ॥३६९॥
+
+
 
 मयुष्ठकस्य मुद्गस्य
 
@@ -4717,6 +6197,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निभः सूपो विपाच्यते ॥३७०॥
 
+
+
 पङ्कैः सुमनचूर्णानां
 
 दासीभिर्भृशमर्दितैः ।
@@ -4725,7 +6207,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रियन्ते रोटिका मया ॥३७१॥
 
+
+
 गोविन्दलीलामृतं ३.१०९११२—
+
+
 
 कृतानि क्रियमाणानि
 
@@ -4735,6 +6221,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 संसिद्धानि प्रतीहि नौ ॥३७२॥
 
+
+
 सौरभ्यसद्वर्णमनोहरं तत्
 
 सा वीक्ष्य सर्वं मुदिता बभूव ।
@@ -4742,6 +6230,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 जिज्ञासमानामथ तद्विधानं
 
 तां रोहिणी विस्मयपूर्वमाह ॥३७३॥
+
+
 
 सामग्री सैव सामान्या
 
@@ -4751,6 +6241,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गान्धर्वाहस्तसौष्ठवम् ॥३७४॥
 
+
+
 सा तां राधामन्नसंस्कारसक्तां
 
 प्रस्विद्यन्तीं लज्जया नम्रवक्त्राम् ।
@@ -4759,7 +6251,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दासीमस्या वीजनायादिदेश ॥३७५॥
 
+
+
 अथ तस्याः परिवेशनकौशलमाह, कृष्णाह्निककौमुदी ३.१५—
+
+
 
 व्याप्तायां वसनेन भोजनभुवि श्रीरत्नपीठाग्रतस्
 
@@ -4769,6 +6265,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सम्यग्भव्यसुगव्यहेमपुटिकापङ्क्तिश्च तासां बहिः ॥३७६॥
 
+
+
 इत्येवं क्रमतोऽर्धमण्डलतया पङ्क्तिक्रमेणाद्भुते
 
 स्वालीभिः पुरुचारुचित्ररचनाद्वैविध्य आपादिते ।
@@ -4776,6 +6274,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्योन्याव्यतिषक्तसूक्ष्मसुरभिश्लक्ष्णैर्घृताच्योतनैर्
 
 मध्ये हेममयी व्यधायि रुचिरा पात्री शुभैरोदनैः ॥३७७॥
+
+
 
 सौवर्णीं तलपात्रिकां घृतपुटीलिम्पाकखण्डादिभिः
 
@@ -4785,6 +6285,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कर्पूरेण सुवासितेन पयसा पूर्णान्व्यधात्कानकान॥३७८॥
 
+
+
 तस्याः पाकसुकौशलं बहुविधं दृष्ट्वा व्रजेशप्रिया
 
 तासां तत्परिवेषचित्ररचनां चातिस्फुरद्विस्मया ।
@@ -4792,6 +6294,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आनेतुं प्रजिघाय वत्सलमनाः कृष्णं च रामं च सा
 
 धात्रेयीमथ तौ समीयतुरतिश्रद्धावशादञ्जसा ॥३७९॥
+
+
 
 नत्वा मातरमाज्ञया सहबलस्तस्याः समुल्लासनः
 
@@ -4801,13 +6305,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सर्वं तत्तदवेक्ष्य विस्मितमना बभ्राज पीताम्बरः ॥३८०॥
 
+
+
 गोविन्दलीलामृतं ४.२२—
+
+
 
 श्रीदामसुबलौ वामे पुरोऽस्य मधुमङ्गलः ।
 
 दक्षिणे श्रीबलश्चान्ये परितः समुपाविशन॥३८१॥
 
+
+
 कृष्णाह्निककौमुदी ३.७९—
+
+
 
 मातृभ्यां क्रमदर्शितेन हि पथा भोक्तुं समारब्धवान्
 
@@ -4817,6 +6329,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किञ्चित्किञ्चिदभुक्त वीक्षकभिया दुर्वादभीत्याप्ययम् ॥३८२॥
 
+
+
 व्याख्याद्भिः सहभोजिभिः सहबलैः पाकस्य तत्कौशलं
 
 स्वादुङ्कारमदन्नवागपि हृदा सोऽपि प्रशंसन्नलम् ।
@@ -4824,6 +6338,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आदौ पायसमाश किञ्चिदपरप्राचुर्यपर्याप्ततां
 
 वीक्ष्य व्यञ्जनरत्नयत्नगमिना लोभेन भूम्ना चिताम् ॥३८३॥
+
+
 
 शाकादिक्रमतोऽभितोषवशतः सर्वाणि सद्व्यञ्जना
 
@@ -4833,11 +6349,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भुञ्जध्वं न परित्यजेत किमपीत्येकान्तमाह्लादयन॥३८४॥
 
+
+
 गोविन्दलीलामृतं ४.२४४१—
+
+
 
 स्वस्वसंस्कृतमिष्टान्नं प्रातराशोपयोगि यत।
 
 उपजह्रुस्तयाहूता मात्रे गोप्यो मुदान्विताः ॥३८५॥
+
+
 
 श्रीराधया यत्नत एव गेहाद्
 
@@ -4847,9 +6369,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदिङ्गितेनोपजहार मात्रे ॥३८६॥
 
+
+
 तानि माता बलादिभ्यो विभज्य स्नेहतो ददौ ।
 
 प्रकीर्णस्वर्णपात्रेषु विनिधाय पृथक्पृथक॥३८७॥
+
+
 
 आस्वादयन्तं घृतपक्वमन्नं
 
@@ -4859,9 +6385,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधाननं तं ददृशुर्मुदाल्यः ॥३८८॥
 
+
+
 अदो भद्रमिदं मिष्टमेतत्स्निग्धं सुचारु तत।
 
 तर्जन्या दर्शयन्त्यम्बा भुङ्क्ष्व वत्सेत्यभाषत ॥३८९॥
+
+
 
 यद्यदिष्टं भवेद्यस्य ज्ञात्वा ज्ञात्वा हसन्हरिः ।
 
@@ -4891,6 +6421,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मातर्मे दधि देहीति प्राहिणोत्तां तदाहृतौ ॥३९६॥
 
+
+
 गोपाः पश्यत नृत्यतीह चपलः पक्वान्नलब्धाशया
 
 कीशेशो दधिलम्प ओऽयमिति तान्कृत्वोन्मुखांस्तद्दिशि ।
@@ -4898,6 +6430,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तेषां भोजनभाजनेषु शनकैर्निक्षिप्य भक्ष्यं निजं
 
 सर्वं भुक्तमिदं मयेति स पुनर्गर्वायमानोऽवदत॥३९७॥
+
+
 
 तथागतां तां दधिपात्रहस्ताम्
 
@@ -4907,15 +6441,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्पायसं दापय भूरि मह्यम् ॥३९८॥
 
+
+
 हैमेषु पात्रेषु निधाय राधया नवीनरम्भादलमन्दमारुतैः ।
 
 शीतीकृतं स्वे परिवेशितं करे
 
 तेभ्यो ददौ पायसमाशु रोहिणी ॥३९९॥
 
+
+
 आनीयानीय गान्धर्वादत्तानि व्यञ्जनानि सा ।
 
 शाकादीन्यम्लशेषाणि तेभ्योऽदात्क्रमशः शनैः ॥४००॥
+
+
 
 रम्भोदरस्थच्छदवर्णलाघवाः
 
@@ -4925,7 +6465,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तेभ्योऽन्यपात्रेषु निधाय सा ददौ ॥४०१॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 पूर्वं पक्वान्नमुद्दिश्या
 
@@ -4935,7 +6479,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नात्र स्यात्पुनरुक्तता ॥४०२॥
 
+
+
 कृष्णभावनामृतं ६.४५५४—
+
+
 
 कृष्णः सतृष्णो नैवात्र
 
@@ -4945,6 +6493,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुबलोऽसुबलोज्झितः ॥४०३॥
 
+
+
 क्वैषां भक्ष्यैकतानत्व
 
 राहित्यमविदग्धता ।
@@ -4952,6 +6502,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 क्वैतदन्नं सुधानिन्दि
 
 स्वयं लक्ष्म्यैव साधितम् ॥४०४॥
+
+
 
 काव्यं विफलतां किं न
 
@@ -4961,6 +6513,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लोलुपत्वं न वर्तते ॥४०५॥
 
+
+
 चतुर्वर्गफलं मूर्तं
 
 एतदन्नं चतुर्विधम् ।
@@ -4968,6 +6522,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अहं केवलमेकोऽस्य
 
 पात्रमित्यवदद्बटुः ॥४०६॥
+
+
 
 श्रीदामोवाच पिण्डीभिः
 
@@ -4977,6 +6533,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यदर्थं बटुतामधाः ॥४०७॥
 
+
+
 बटुराख्यदरे मूर्ख!
 
 गोपस्त्वं किं नु वेत्स्यसि? ।
@@ -4984,6 +6542,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 रसास्वादं स्वधर्मार्थं
 
 गा रोद्धुमटवीमट ॥४०८॥
+
+
 
 पश्यैषोऽहमनूचानो
 
@@ -4993,6 +6553,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भगवानेव केवलम् ॥४०९॥
 
+
+
 श्रीदामोचे श्रुतिस्मृत्योर्
 
 वर्त्मापि शतजन्मसु ।
@@ -5000,6 +6562,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 त्वया परिचितं नैव
 
 विप्रत्वे सूत्रमेव ते ॥४१०॥
+
+
 
 कृष्णः प्राह बटोरस्ति
 
@@ -5009,6 +6573,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लक्षणाभिज्ञता यतः ॥४११॥
 
+
+
 बटुराह षडेवात्र
 
 रसा न त्वष्ट मन्मते ।
@@ -5017,7 +6583,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यत्षडेवेन्द्रियाणि नः ॥४१२॥
 
+
+
 कृष्णभावनामृतं ६.५६६३—
+
+
 
 रसा ह्यष्टाविति प्राहुर्
 
@@ -5027,6 +6597,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एषां किन्तु न विद्यते ॥४१३॥
 
+
+
 विहाय शाकसूपादीन्
 
 विहायस्ते धयन्ति यत।
@@ -5034,6 +6606,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तन्नीरं प्रकटं हित्वा
 
 धावन्त्येव मरीचिकाम् ॥४१४॥
+
+
 
 कारणं रसनिष्पत्तौ
 
@@ -5043,6 +6617,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न पितुर्जन्मकोटिभिः ॥४१५॥
 
+
+
 रामः प्राह रसास्वादे
 
 केऽनुभावा भवन्मते ।
@@ -5050,6 +6626,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 के वा सञ्चारिणः को वा
 
 स्थायी स स्वाद्यते कथम् ॥४१६॥
+
+
 
 बटुरूचे यदप्राप्त्या
 
@@ -5059,6 +6637,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुलकास्यप्रसन्नते ॥४१७॥
 
+
+
 वर्णस्य स्निग्धतातृप्त्या
 
 वैवर्ण्यं तच्च पश्य मे ।
@@ -5066,6 +6646,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भुञ्जान एव यद्वच्मि
 
 स्वरो मे तेन भिद्यते ॥४१८॥
+
+
 
 स्तम्भो मे भूरि मिष्टान्न
 
@@ -5075,6 +6657,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रलयो बहुभक्षणात॥४१९॥
 
+
+
 आलस्यचिन्तास्वापाद्याः
 
 स्पष्टाः सञ्चारिणोऽत्र नः ।
@@ -5083,7 +6667,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्थायी तु विविधाभिधः ॥४२०॥
 
+
+
 कृष्णभावनामृतं ६.७०७४—
+
+
 
 आज्याभ्यक्तानि भक्तानि मन्ये काञ्चनवारिणा ।
 
@@ -5105,7 +6693,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 इति जानीतभोगोऽयमतप्ततपसः कुतः ॥४२५॥
 
+
+
 कृष्णभावनामृतं ६.७९८७—
+
+
 
 एवं चेत्प्रथमं प्राप्तुमर्हन्त्येते वलीमुखाः ।
 
@@ -5143,7 +6735,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्थैर्यमाप्नुहि मा जल्प मैनं हासयतार्भकाः ॥४३४॥
 
+
+
 गोविन्दलीलामृतं ४.४२६९—
+
+
 
 धनिष्ठया यल्ललितादिसंस्कृतं
 
@@ -5153,6 +6749,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सस्नेहमेभ्यो ददती मुमोद सा ॥४३५॥
 
+
+
 हृदयदयितमुखवीक्षणहृष्टास्
 
 तदतिमधुरमृदुकान्तिविकृष्टाः ।
@@ -5160,6 +6758,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मुमुदुरुदितपृथुभावविहस्ता
 
 रमणभवनमधि ताः पुरुशस्ताः ॥४३६॥
+
+
 
 अन्नान्यथो तानि चतुर्विधानि ते
 
@@ -5169,6 +6769,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तं हासयन्तो जहसुश्च नर्मभिः ॥४३७॥
 
+
+
 चर्वन्ति चर्व्याणि मृदूनि केचिल्
 
 लेह्यानि चान्ये चटुलं लिहन्ति ।
@@ -5176,6 +6778,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पिबन्ति पेयानि परे प्रहृष्टाश्
 
 चूष्यन्ति चोष्याण्यपरे वितृप्ताः ॥४३८॥
+
+
 
 स्वादुङ्कारं कमलनयनः सस्पृहं तत्तदन्नं
 
@@ -5185,6 +6789,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्राश्नन्नम्बामनसि निबिडं स प्रमोदं व्यतानीत॥४३९॥
 
+
+
 प्रहितचकितनेत्रप्रान्तदृष्टिप्रणाली
 
 मिलिततदतिलावन्यामृतास्वादपुष्टा ।
@@ -5192,6 +6798,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रसरदखिलभावोल्लासमाच्छादयन्ती
 
 दयितहृदयमुच्चै राधिकाप्याजहार ॥४४०॥
+
+
 
 अथ बलजननीं तामन्तराकृत्य नृत्यन्
 
@@ -5201,6 +6809,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्लथरुचिरशनेऽभूदुन्मना नागरेशः ॥४४१॥
 
+
+
 सामिभुक्तं कियत्तेन
 
 किं च त्र्यंशावशेषितम् ।
@@ -5208,6 +6818,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भक्ष्यं वीक्ष्याशने मन्दं
 
 तं चासीद्व्याकुला प्रसूः ॥४४२॥
+
+
 
 यत्नात्संस्कृतमन्नादि
 
@@ -5217,6 +6829,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शपथः शिरसो मम ॥४४३॥
 
+
+
 आनाय्य यत्नाद्वृषभानुकन्यकां
 
 संस्कारितं सर्वमिदं सुतानया ।
@@ -5224,6 +6838,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्नादि मिष्टं च सुधापरार्द्धतस्
 
 तथापि नाश्नासि करोमि किं हता ॥४४४॥
+
+
 
 अथ सा रोहिणीमाह पश्य रोहिणि! चञ्चलः ।
 
@@ -5233,6 +6849,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रलम्बहन्तुरम्बेयं बभाषे तं पुरःस्थिता ॥४४६॥
 
+
+
 यत्नादन्नं साधितं वत्स! मिष्टं
 
 मल्लीमृद्व्या राधयेदं मया च ।
@@ -5240,6 +6858,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 क्षुत्क्षामोऽसि त्वं च नाश्नासि तत्ताम्
 
 अम्बामेतां मां च किं वा दुनोषि ॥४४॥
+
+
 
 जननी तव पश्य खिद्यते
 
@@ -5249,6 +6869,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कियदश्नीहि विधेहि मद्वचः ॥४४८॥
 
+
+
 भुक्तं मया भूरि गता बुभुक्षे
 
 त्युक्त्वा नियम्योच्छलितं विकारम् ।
@@ -5256,6 +6878,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तं वीक्ष्य मन्दं पुनरप्यदन्तं
 
 ननन्दतुर्नन्दसुतं जनन्यौ ॥४४९॥
+
+
 
 इदमिदमतिमिष्टं वत्स! भुङ्क्ष्वेति माता
 
@@ -5265,6 +6889,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदुदरगतमन्नं सात्मजं वावदीति ॥४५०॥
 
+
+
 रसालापक्वाम्रद्रवशिखरिणीषाडवपयः
 
 करम्भामिक्षाव्यञ्जनदधिफलापूपव अकान।
@@ -5272,6 +6898,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कृताम्रेडा नेत्रस्तनजपयसा क्लिन्नसिचया
 
 प्यतृप्ता तं तृप्तं मुहुरथ सुतं प्राशयदियम् ॥४५१॥
+
+
 
 भक्ष्यं भोज्यं बहुतरमिष्टं
 
@@ -5281,6 +6909,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सर्वेऽभूवन्वनगमनोत्काः ॥४५२॥
 
+
+
 सर्वे सुवासितमृदा मुखपाणिपद्मा
 
 न्यामृज्य साधु मृदुलेषिकया च दन्तान।
@@ -5288,6 +6918,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दासैः प्रणीतकनकादिककुण्डिकासु
 
 तैर्दत्तवारिभिरथाचमनं व्यधूस्ते ॥४५३॥
+
+
 
 एलालवङ्गघनसारविमिश्रिताभिर्
 
@@ -5297,6 +6929,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सव्येन पूर्णमुदरं ममृजुः करेण ॥४५४॥
 
+
+
 रसालकरसंस्कृतोपहृतनागवल्लीस्फुरत्
 
 सुपक्वदलवीटिकाः सुखमदन्त एवोत्सुकाः ।
@@ -5304,6 +6938,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ततः शतपदान्तरालयविशालपल्यङ्किका
 
 कुलेष्वथ विशश्रमुः परिजनैरमी वीजिताः ॥४५५॥
+
+
 
 तमिह विश्रमितं परिचारकाः
 
@@ -5313,6 +6949,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रभुमथादयति स्म विलासकः ॥४५६॥
 
+
+
 निष्क्रम्य धौताङ्घ्रिकरां महानसाद्
 
 दासीगणैस्तां व्यजनैरुपासिताम् ।
@@ -5320,6 +6958,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 राधां प्रकोष्ठान्तरगां सखीजनैर्
 
 विलोकयन्तीं रमणं गवाक्षतः ॥४५७॥
+
+
 
 आनन्दजस्वेदजलैर्व्रजेशया
 
@@ -5329,6 +6969,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बलाम्बयान्नानि गृहाददापयत॥४५८॥
 
+
+
 तया निदिष्टा घृतसंस्कृतान्नं
 
 दातुं धनिष्ठा हरिभुक्तशेषैः ।
@@ -5337,9 +6979,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गृहात्तदानीय ददावमूभ्यः ॥४५९॥
 
+
+
 अनश्नन्तीं ह्रिया वीक्ष्य वस्त्रावृतनताननाम् ।
 
 राधिकामवदत्कृष्णमाता वात्सल्यविक्लवा ॥४६०॥
+
+
 
 जननि! मयि जनन्यां किं नु लज्जेदृशीयं
 
@@ -5349,6 +6995,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शिशिरय मम नेत्रं भुङ्क्ष्व पश्यामि साक्षात॥४६१॥
 
+
+
 यूयं च मे स्थ तनयास्त्वनया ह्रिया किं
 
 पुत्र्यः कुरुध्वमशनं ललितादयस्तत।
@@ -5357,7 +7005,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मिष्टान्नमिष्टवचनैः समभोजयत्ताः ॥४६२॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 ततो दासीधौतैः करकमलयुग्मैर्निजनिजैर्
 
@@ -5367,7 +7019,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वियुक्ता वीटीस्ता वरकनकगौर्यो बुभुजिरे ॥४६३॥
 
+
+
 गोविन्दलीलामृतं ४.७०७२—
+
+
 
 हृद्युद्गतैः सुतकरग्रहणाभिलाषैस्
 
@@ -5377,6 +7033,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्नेहाद्धृतानि सदने वरसम्पु एषु ॥४६४॥
 
+
+
 तैर्भूषणैरथ धनिष्ठिकयोपनीतैस्
 
 ताम्बूलचन्दननवाम्बरनागजैश्च ।
@@ -5384,6 +7042,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आलीवृतां नववधूमिव तां व्रजेशा
 
 सम्मान्य हार्दवलिता मुदिता बभूव ॥४६५॥
+
+
 
 राधाहृतं यन्निशि तद्विशाखा
 
@@ -5393,17 +7053,31 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नीलाम्बरं कृष्णहृतं तयैव ॥४६६॥
 
+
+
 इति श्रीभावनासारसङ्ग्रहे प्रातर्लीलासङ्ग्रहो नाम द्वितीयसङ्ग्रहः
 
 ॥२॥
 
+
+
 ओ)०(ओ
 
+
+
+
+
+
+
 श्रीश्रीभावनासारसङ्ग्रहः
+
+
 
 (३)
 
 अथ पूर्वाह्नलीला
+
+
 
 हरिवनगतिलीलां व्याकुलीभूतगोष्ठां
 
@@ -5413,7 +7087,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तमहमिह भजामि गौरचन्द्रं हि नित्यम् ॥१॥
 
+
+
 गोविन्दलीलामृतं ५.१—
+
+
 
 कृष्णं गोभिः स्वमित्रैर्विपिनमनुसृतं गोष्ठलोकानुयातं
 
@@ -5423,7 +7101,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दिष्टां कृष्णप्रवृत्त्यै प्रहितनिजसखीवर्त्मनेत्रां स्मरामि ॥२॥
 
+
+
 कृष्णाह्निककौमुदी ३.१५१७—
+
+
 
 देवप्रस्थवरूथपांशुसुबलश्रीदामभिः शोभनैर्
 
@@ -5433,6 +7115,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोपेन्द्राङ्गनमाययुः प्रमुदिताः श्रीकृष्णसङ्गाशयाः ॥३॥
 
+
+
 सर्वे बर्हविषाणवेणुलकुटीनिर्योगपाशाञ्चिता
 
 गुञ्जाधातुफलप्रवालसुमनोभूषाभिराभूषिताः ।
@@ -5440,6 +7124,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रातःस्नातसुमृष्टभुक्तधयितस्फीताः क्वणन्नूपुराः
 
 कृष्णोत्तिष्ठ जय प्रयाम विपिनं चेत्यूचिरे सत्वराः ॥४॥
+
+
 
 तेषामागमनस्वनेन कुतुकादुत्थाय तल्पोदराच्
 
@@ -5449,7 +7135,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रीडाकौतुकमङ्गलोचितमथो जग्राह चन्द्राननः ॥५॥
 
+
+
+
+
+
+
 गोविन्दलीलामृतं ४.७३७६—
+
+
 
 तावत्स्वसेवाकृतिलब्धवर्णाः
 
@@ -5459,6 +7153,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विभूषयामासुरधीश्वरं स्वयम् ॥६॥
 
+
+
 भक्तिच्छेदाढ्यचर्चां मलयजघुसृणैः धातुचित्राणि बिभ्रद्
 
 भूयिष्ठं नव्यवासः शिखिदलमुकुटं मुद्रिकाः कुण्डले द्वे ।
@@ -5467,9 +7163,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 केयूरे कङ्कणे श्रीयुतपदकटकौ नूपुरौ शृङ्खलां च ॥७॥
 
+
+
 आत्मैकदृश्यगान्धर्वा प्रतिबिम्बकरन्वितैः ।
 
 दधद्वक्षस्ययं हारं गुम्फितं स्थूलमौक्तिकैः ॥८॥
+
+
 
 शृङ्गं वामोदरपरिसरे तुन्दबन्धान्तरस्थं
 
@@ -5479,7 +7179,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लीलाम्भोजं कमलनयनः कम्पयन्दक्षिणेन ॥९॥
 
+
+
 कृष्णाह्निककौमुदी ३.१८—
+
+
 
 चूडाचुम्बितचारुचन्द्रकलसद्गुञ्जालतः कर्णयोः
 
@@ -5489,7 +7193,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रीडाकाननयानकौतुकमना बभ्राज पीताम्बरः ॥१०॥
 
+
+
 सङ्ग्रहकर्तुः (?)—
+
+
 
 श्वेताद्रिभ्रमधारकापघनके कस्तूरिकाचर्चिकां
 
@@ -5499,7 +7207,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दैः स्वैः परिवेष्टितोऽसितधटीधारी बभौ श्रीबलः ॥११॥
 
+
+
 एतन्मध्ये, कृष्णभावनामृत ७.१११७—
+
+
 
 दधतेऽपचितिं हरेर्न चा
 
@@ -5509,6 +7221,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रथमं रक्तकपत्रकादयः ॥१२॥
 
+
+
 अथ कश्चिदधात्तयार्पितां
 
 तनयामोदकमोदकावलीम् ।
@@ -5516,6 +7230,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अतिवत्सलतालतावलत्
 
 फलपीलामिव काञ्चिदर्चिताम् ॥१३॥
+
+
 
 मणिचित्रितदारुपेटिकान्
 
@@ -5525,6 +7241,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अवधानीयताममंस्त ताम् ॥१४॥
 
+
+
 स्तिमितारुणचेलकञ्चुका
 
 वृतचन्द्रोपलचित्रझर्झरीम् ।
@@ -5532,6 +7250,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शशिवासितनीरपूरितं
 
 अपरो बिभ्रदभ्रमाबभौ ॥१५॥
+
+
 
 सितमानसवृत्तिमेव ताम्
 
@@ -5541,6 +7261,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अतुलं सौभगरत्नमाददे ॥१६॥
 
+
+
 स्फटिकोत्तमसम्पुटं परोऽ
 
 रुहदन्तःफणिवल्लिवीटिकम् ।
@@ -5548,6 +7270,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अधिकक्षमयं दधार किं
 
 शशिबिम्बं स्वमनोऽधिदैवतम् ॥१७॥
+
+
 
 वसनाभरणाद्यनेकधा
 
@@ -5557,7 +7281,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुदृशां कार्मणतां प्रपत्स्यते ॥१८॥
 
+
+
 कृष्णाह्निककौमुदी ३.१९—
+
+
 
 मुग्धस्निग्धकुमारपार्षदसदो वेषान्तरापादिकां
 
@@ -5567,7 +7295,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताम्बूलस्य च सम्पुटं मणिमयान्भृङ्गारकांश्चेच्छया ॥२२॥
 
+
+
 कृष्णभावनामृत ७.२३, २५, २९३३—
+
+
 
 जननीजननीवृतं द्रुतं
 
@@ -5577,6 +7309,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुरतो यन्पुरतोरणादभूत॥२३॥
 
+
+
 वनमेति मुकुन्द इत्ययं
 
 ध्वनिरेकः स्फुटमुच्चचार यः ।
@@ -5584,6 +7318,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विविधध्वनिप्रसूर्भवन्नभात्
 
 श्रुतिपालिः स पुरौकसां विशन॥२४॥
+
+
 
 रचयालि मिषं विशारदे
 
@@ -5593,6 +7329,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियसङ्केतितकुञ्जमन्दिरम् ॥२५॥
 
+
+
 सखि किं करवै रवैरवै
 
 धिततर्षा हरिगोपुरोदितैः ।
@@ -5600,6 +7338,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 बलभीमधिरोढुमप्यहं
 
 न दधेऽस्पन्दवपुः समर्थताम् ॥२६॥
+
+
 
 अलकैरलमत्र संस्कृतैर्
 
@@ -5609,6 +7349,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सखि जीवेयमितो विमुञ्च माम् ॥२७॥
 
+
+
 अयि भावि यदस्तु तत्पतिः
 
 कुरुतां दण्डमसह्य अद्य मे ।
@@ -5616,6 +7358,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वगुरोरपि पश्यतो व्रजाम्य्
 
 अधुनायं समयो न यत्स्थिरः ॥२८॥
+
+
 
 अयि दुर्मुखि रारटीषि किं
 
@@ -5625,7 +7369,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अधूना स्वस्वपुराद्विनिर्यती ॥२९॥
 
+
+
 अथ तस्य गमनमाह, कृष्णाह्निककौमुदी ३.२१—
+
+
 
 व्योम्नि व्योमचरैः सुगन्धिकुसुमासारैः समाराधितः
 
@@ -5635,7 +7383,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वस्वद्वारि विसारिणां प्रवयसामाशीर्भिरावर्धितः ॥२७॥
 
+
+
 गोविन्दलीलामृत ५.२—
+
+
 
 स मन्द्रघोषाभिधशृङ्गघोषैः
 
@@ -5645,7 +7397,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सम्पोषयन्प्रेम बहिर्जगाम ॥२८॥
 
+
+
 गोविन्दलीलामृत ५.६—
+
+
 
 गवां स्थानीश्रेणीस्फूरितमभितोऽल्पावृतिचयो
 
@@ -5655,7 +7411,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजाभ्यर्णं पूर्णं व्रजधनजनैर्वीक्ष्य मुमुदे ॥२९॥
 
+
+
 कृष्णाह्निककौमुदी ३.२०—
+
+
 
 गोपेन्द्रेण पुरैव दासतनयैर्गावो विनिष्कासिता
 
@@ -5665,7 +7425,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्थुस्ता व्रजसीम्नि एव निकटे कृष्णप्रतीक्षेक्षणाः ॥३०॥
 
+
+
 कृष्णाह्निककौमुदी ३.२३२७—
+
+
 
 बभ्राजे स गवां गणो हरशिरश्चन्द्रप्रभाभास्वरः
 
@@ -5675,6 +7439,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीमानेष तु सञ्चरत्यघरिपोरव्यग्रमग्रेसरः ॥३१॥
 
+
+
 दुग्धाब्धिप्रसरक्षमा अपि रुचा दुग्धाब्धिशोभाहरा
 
 दुग्धाब्धेः स्वयमुत्थिता भगवती लक्ष्मीरिहैव स्थिरा ।
@@ -5682,6 +7448,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सर्वाः कामगवीयशोभरमुषो यासां निपीतं पयः
 
 कृष्णेन श्रुतिर्मूर्तयः कथममूर्गावो गिरामाश्रयः ॥३२॥
+
+
 
 दृष्ट्वा कृष्णमुपागतं सह सखिव्रातैः समानन्दिताः
 
@@ -5691,6 +7459,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुर्वाणा हरितां मुखं मुखरितं ताः कीर्णकर्णोत्सवैः ॥३३॥
 
+
+
 साहंपूर्विकमाशु धावितवतां कृष्णस्य पश्चात्पुरः
 
 पार्श्वेषु व्रजपालबालसदसां सम्मोद आसीत्परः ।
@@ -5698,6 +7468,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 येषां शेखरबर्हिबर्हमहसा सन्मञ्जुगुञ्जावली
 
 भूषाभाभिरभून्महाझलमलत्कारा दिशां मण्डली ॥३४॥
+
+
 
 तेषां वेणुविषाणपत्रनिनदः प्रोद्गीर्णकर्णोत्सवः
 
@@ -5707,7 +7479,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीरंसी जयडिण्डिमध्वनिरिव व्याकीर्य धैर्यं दिवः ॥३५॥
 
+
+
 गोविन्दलीलामृत ५.१२२०—
+
+
 
 वनाय गच्छन्वनजेक्षणो हरिर्
 
@@ -5717,6 +7493,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रकाशयामास हृदम्बुजं स्वकम् ॥३६॥
 
+
+
 तच्छ्रीपदस्पर्शभरप्रमोदैः
 
 सा फुल्लरोमाञ्चितसर्वगात्री ।
@@ -5724,6 +7502,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ननन्द कृत्तानि तृणानि भूयः
 
 खुरैः क्षताङ्गानि च रोहयन्ती ॥३७॥
+
+
 
 फुल्लाक्षिपद्मातिजवासुसम्भ्रमा
 
@@ -5733,6 +7513,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजाचलात्कृष्णसमुद्रमाययौ ॥३८॥
 
+
+
 क्लिन्नाम्बराऽक्षिस्तनजैः पयःस्रवैस्
 
 तथाविधैर्यातृमुखाङ्गनागणैः ।
@@ -5741,13 +7523,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सहागताम्बा सुतदर्शनोत्सुकाः ॥३९॥
 
+
+
 अन्योन्यासङ्गसंस्तब्धदृष्टिहिल्लोलमुल्बनम् ।
 
 कृष्णं रसार्णवं भेजे राधा सुरतरङ्गिणी ॥४०॥
 
+
+
 मङ्गलाश्यामलाभद्रापालीचन्द्रावलीमुखाः ।
 
 स्वस्वयूथाः यूथनाथाः सर्वतस्तास्तमन्वयुः ॥४१॥
+
+
 
 सह धनजनवृन्दैर्निर्गते प्राणनाथे
 
@@ -5757,9 +7545,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजवसतिरथासीत्प्रोषितप्रेयसीव ॥४२॥
 
+
+
 अन्वयत्पितरौ वीक्ष्य सव्रजौ वनसीमनि ।
 
 स्थितेऽस्मिन्वलितग्रीवं तस्तम्भे गोकदम्बकैः ॥४३॥
+
+
 
 अनन्तशङ्कौ स्ववनप्रयाणेऽप्य्
 
@@ -5769,7 +7561,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स दुःस्थितोऽभूत्पितरौ समीक्ष्य ॥४४॥
 
+
+
 गोविन्दलीलामृत ५.२२, २४—
+
+
 
 समीक्ष्य राधावदनारविन्दे
 
@@ -5779,11 +7575,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदीयसन्दर्शनसत्फलां सः ॥४५॥
 
+
+
 विमनस्कापि मनसा भावयन्त्यथ तत्शुभम् ।
 
 विहस्तापि स्वहस्ताभ्यां जननी तमलालयत॥४६॥
 
+
+
 कृष्णभावनामृत ७.३८४६—
+
+
 
 सुकुमारकुमार ! चारयन्
 
@@ -5793,6 +7595,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न दृशस्त्वं स्फुटमञ्च किं च नः ॥४७॥
 
+
+
 तनय ! प्रणयन्नयं नय
 
 स्वसमीपात्क्वचनान्यतो न नः ।
@@ -5800,6 +7604,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 न सहस्व सुहृद्व्यथां हृदि
 
 स्ववियोगानलहेतिहेतुकाम् ॥४८॥
+
+
 
 पुरभूषण ! दूषणं त्विदं
 
@@ -5809,6 +7615,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निगिलन्तीव वृथा स्थितायुषः ॥४९॥
 
+
+
 प्रहरा अपि भाविनस्त्रयः
 
 प्रहरिष्यन्त्यपयातुमक्षमाः ।
@@ -5816,6 +7624,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 न च शीघ्रमिहैष्यसि त्वमित्य्
 
 अत इत्थं करवाम किं वयम् ॥५०॥
+
+
 
 अरुणाब्जदलश्रेणी क्व ते
 
@@ -5825,6 +7635,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्व नु सा काननभूमिरेषि याम् ॥५१॥
 
+
+
 मृगनाभिरसोक्षिता क्व ते
 
 नवनीतप्रतिमेव हा तनुह।
@@ -5832,6 +7644,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 क्व नु सूर्यकरा इमे प्रति
 
 क्षणवर्धिष्णुतमा विषोल्बणाः ॥५२॥
+
+
 
 असवो यदमी स्फुटन्ति नो
 
@@ -5841,6 +7655,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बत साम्राज्यधुरामतो दधुः ॥५३॥
 
+
+
 धवलाः परिपान्तु वल्लबाः
 
 स्वयमेव व्रजराज एतु वा ।
@@ -5848,6 +7664,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वहठं न जहासि हा शिशो !
 
 कथमत्र श्वसितु स्वबन्धुता ॥५४॥
+
+
 
 स्तिमिताङ्गसुमङ्गलामृतेर्
 
@@ -5857,7 +7675,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 परिभूतिं मृदुलो यदन्वभूः ॥५५॥
 
+
+
 कृष्णभावनामृत ७.५८६८—
+
+
 
 सरणिस्तरणिप्रभाज्वलत्
 
@@ -5867,6 +7689,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वसतीत्येतदवेक्षते प्रसूः ॥५६॥
 
+
+
 अनयाप्यविपद्यमानया
 
 गृहकृत्यं विदधानया मया ।
@@ -5874,6 +7698,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 जननीत्यभिधा धृता गत
 
 त्रपया तां स्तुवतेऽप्यमी जनाः ॥५७॥
+
+
 
 कुलिशायितता तता ततो
 
@@ -5883,6 +7709,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदपीमां स्वगुणैरमूमुदः ॥६८॥
 
+
+
 इति मातृवचः स च श्रुति
 
 प्रथितोत्तंसमिवारचष्य ताम् ।
@@ -5890,6 +7718,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्मितचन्द्रमसौ रसोक्षणैर्
 
 अनुतप्तां समधुक्षयन्मनाक॥६९॥
+
+
 
 यमुनोपवनोपकण्ठगाः
 
@@ -5899,6 +7729,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निविडच्छायातरुव्रजान्तरे ॥७०॥
 
+
+
 न च कालनहेतुकः श्रमः
 
 स ममैष्यत्यपि सम्भविष्णुताम् ।
@@ -5906,6 +7738,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 घटनादिषु यदगवां नवां
 
 मुरलीमेव विशारदामधाम् ॥७१॥
+
+
 
 चमरीचयलूममार्जिता
 
@@ -5915,6 +7749,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रचरन्नाभिमृगातिवासिता ॥७२॥
 
+
+
 मृदुलामलतूलिकेव या
 
 नुपदं साधुपदानुभूयते ।
@@ -5922,6 +7758,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 न तु मातरवेक्षिता त्वया
 
 प्रसभं या सरणिर्विनिन्द्यते ॥७३॥
+
+
 
 विविधद्युतिपुष्पवल्लीभिर्
 
@@ -5931,6 +7769,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शिशिरैः सौरभसौभगोदयैः ॥७४॥
 
+
+
 पिकगायककेकिनर्तकैर्
 
 भ्रकदिन्दिन्दिरवृन्दवन्दिभिः ।
@@ -5938,6 +7778,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 क्षितिभृत्तटकुञ्जकन्दरैर्
 
 मम चेतोऽनुपदं विकृष्यते ॥७५॥
+
+
 
 मणिमन्दिरवृन्दशन्दताम्
 
@@ -5947,7 +7789,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुखमत्राप्यतिखिद्यसे कुतः ॥७६॥
 
+
+
 अथ सोवाच, गोविन्दलीलामृत ५.२५३३—
+
+
 
 शतशः सन्ति मे गोपा निपुणाः पालने गवाम् ।
 
@@ -5969,6 +7815,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स कथं त्यज्यते मात भीषु धर्मोऽस्ति रक्षिता ॥७१॥
 
+
+
 सुतस्य साद्गुण्यमवेक्ष्य तृप्तौ
 
 ननन्दतुस्तौ हृदि यद्यपारम् ।
@@ -5976,6 +7824,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अनिष्टशङ्काकुलिता तथापि
 
 गोपान्समाहूय जगाद माता ॥७२॥
+
+
 
 सुभद्र मण्डलीभद्र वत्स भो बलभद्रक ।
 
@@ -5989,7 +7839,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पालनीयोऽप्रमत्तैर्वः सदायमभितः स्थितैः ॥७५॥
 
+
+
 पद्यावली १४९—
+
+
 
 वत्स स्थवरकन्दरेषु विचरन्दूरप्रचारे गवां
 
@@ -5999,7 +7853,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बिम्बोष्ठद्वयगाढपीडनवशादव्यक्तभावं स्मितम् ॥७६॥
 
+
+
 गोविन्दलीलामृत ५.३४८०—
+
+
 
 अङ्गे सुतस्याथ करेण माता
 
@@ -6009,6 +7867,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बबन्ध रक्षामणिमस्य हस्ते ॥७७॥
 
+
+
 आज्ञा मातः पितरिति सुतं सम्पतन्तं पदान्ते
 
 दोर्भ्यां धृत्वा हृदि निदधतौ स्तन्यबाष्पाम्बुसिक्तम् ।
@@ -6016,6 +7876,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चुम्बन्तौ तद्वदनकमलं मार्जयन्तौ कराभ्यां
 
 जिघ्रन्तौ तं शिरसि पितरावूहतुर्बाष्पकण्ठम् ॥७८॥
+
+
 
 भूर्द्यौर्भव्या भवतु भवतो रक्षिता श्रीनृसिंहः
 
@@ -6025,6 +7887,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दत्तानुज्ञः स इति मुमुदे वत्सलाभ्यां पितृभ्याम् ॥७९॥
 
+
+
 यथा पितृभ्यां स तथा बलाम्बाप्य्
 
 अम्बा किलिम्बाद्युपमातृयुक्तया ।
@@ -6032,6 +7896,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गोपैश्च गोपीनिवहैश्च लालितो यथा
 
 हरिस्तैः स बलोऽप्यभूत्तथा ॥८०॥
+
+
 
 व्रजाङ्गनानां तृषिताक्षिचातकान्
 
@@ -6041,6 +7907,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताभिः स्वदृष्ट्यैव स चानुमोदितः ॥८१॥
 
+
+
 तासां मनो दीनकुरङ्गसङ्घान्
 
 विलोक्य लोलान्रुचिपल्लवान्स्वान।
@@ -6048,6 +7916,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निन्ये स्फुटं चारयितुं स्वसङ्गे
 
 सन्दान्य दृक्शृङ्खलया स्वयासौ ॥८२॥
+
+
 
 द्वित्राः क्षेप्याः सुमुखि घटिकाश्चक्षुषी मुद्रयित्वा
 
@@ -6057,9 +7927,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णश्चक्रे स्फुटमनुनयं राधिकायां दृशेत्थम् ॥८३॥
 
+
+
 ययाचे राधिकामाज्ञां स्वदृशा दैन्यपूर्णया ।
 
 कातर्यं वमताभूत्तत्कटाक्षेणानुमोदितः ॥८४॥
+
+
 
 मध्येनभः सम्मिलनेऽप्यलूनैर्
 
@@ -6069,6 +7943,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेम्नो विचित्रा हि गतिर्दुरूहा ॥८५॥
 
+
+
 राधामनोमीनमयं स्वसङ्गे
 
 स्वकान्ति जालेन निबध्य निन्ये ।
@@ -6077,13 +7953,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सापि स्वदृक्कूणनपञ्जरान्तः ॥८६॥
 
+
+
 प्रेरयन्नग्रतो धेनूराकर्षन्पृष्ठतो व्रजम् ।
 
 समित्रैरावृतोऽरण्यं प्रवेष्टुमुपचक्रमे ॥८७॥
 
+
+
 तिर्यग्ग्रीवं पुनः प्रेक्ष्य सव्रजौ स्नेहकर्षितौ ।
 
 अन्वायान्तौ पुरस्तिष्ठन्नब्रवीत्पितरौ हरिः ॥८८॥
+
+
 
 मातर्नातः परमिह पुरो गन्तुमर्ह्याटवीं वो
 
@@ -6093,13 +7975,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गत्वा घोषं झटिति सुदृढाः पञ्चषाः कारणीयाः ॥८९॥
 
+
+
 वलितग्रीवमूर्ध्वास्यं क्षुधितास्तृषिता अपि ।
 
 तस्तम्भिरे पुरो गावः पश्याम्ब मदपेक्षया ॥९०॥
 
+
+
 प्रेषयिष्यामि सद्भोज्यं भुक्त्वा मध्याह्न एव तत।
 
 आगच्छेदपराह्ने त्वं तूर्णमित्याह तं प्रसूः ॥९१॥
+
+
 
 सोऽप्यब्रवीत्तां कृतभोजनौ चेत्
 
@@ -6109,6 +7997,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गृहं समेष्यामि न चान्यथाम्ब ॥९२॥
 
+
+
 कृतावनः कायमनोवचोभिः
 
 संसिक्तदेहः स्तनदृक्पयोभिः ।
@@ -6116,6 +8006,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स चुम्बितालिङ्गित आकुलाभ्यां
 
 मुहुर्मुहुर्दृष्टमुखः पितृभ्याम् ॥९३॥
+
+
 
 उद्यद्वियोगोष्णरविप्रतापितैः
 
@@ -6125,9 +8017,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निपीतलावण्यसरःप्रियागणैः ॥९४॥
 
+
+
 व्रजत्यागारण्ययानोत्पन्नाभ्यां नन्दनन्दनः ।
 
 वैमनस्योन्मनस्याभ्यां व्याग्रोऽसौ प्राविशद्वनम् ॥९५॥
+
+
 
 व्रजस्य कृष्णे निहितेक्षणस्या
 
@@ -6137,6 +8033,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तेषां समन्तात्सुविलीनताभूत॥९६॥
 
+
+
 चरत्वतः स्थावरतैव धन्या
 
 वनं प्रयात्येष विहाय यन्नः ।
@@ -6144,6 +8042,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इतीव खिन्नाः स्फुटमाधुनस्तां
 
 स्तम्भस्य दम्भात्व्रजवासिनस्ते ॥९७॥
+
+
 
 हरेश्चिल्लीचिल्लीगिलितमतिमिलच्छफरिका
 
@@ -6153,6 +8053,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदाभीरीनद्यो वनशुचिहृते जीवनधने ॥९८॥
 
+
+
 अभ्यासतोऽतह्व्रजवासिनस्ते
 
 विमोहितौ तौ व्रजपौ गृहीत्वा ।
@@ -6161,13 +8063,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 देहैः परं गेहमयुर्निरीहाः ॥९९॥
 
+
+
 स्वां स्वां सख्योऽपि यूथेशां यत्नादादाय मूर्च्छिताम् ।
 
 निन्युर्गृहं यन्त्रचञ्चत्प्रतिमाः प्रतिमामिव ॥१००॥
 
+
+
 कुन्दवल्ल्यथ तां राधां स्वयं व्यग्राप्यचेतनाम् ।
 
 आदायायाद्व्रजं यत्नाद्विचित्तैस्तत्सखीजनैः ॥१०१॥
+
+
 
 यद्यप्यस्मिन्न्यस्तचित्ता व्रजस्था
 
@@ -6177,6 +8085,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जीवन्मुक्ता देहसंस्कारतस्ते ॥१०२॥
 
+
+
 निर्माणोत्कां स्वपथि जटिलां गोशकृत्पिण्डिकानां
 
 वध्वा वर्त्मन्यथ धृतदृशं व्याकुलां कुन्दवल्ली ।
@@ -6185,9 +8095,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णाभ्यर्णं नय निपुणधीस्तूर्णमेनां निनीषुः ॥१०३॥
 
+
+
 नमाम्यार्ये स्नुषेयस्ते कल्याणी नीयतां पुरः ।
 
 छायाप्यस्या न कृष्णस्य दृष्टिगोचरतां गता ॥१०४॥
+
+
 
 साब्धिद्वीपा भवति पृथिवी यस्य नैकस्य मूल्यं
 
@@ -6197,6 +8111,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोष्ठेश्वर्या मुदित मनसा पाकनैपुण्यतोऽस्याः ॥१०५॥
 
+
+
 धर्मार्थलाभान्मुदिता स्नुषायास्
 
 तयैव कार्यान्तरमुच्चिकीर्षुः ।
@@ -6204,6 +8120,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वाभीष्टसम्पादनलब्धवर्णां
 
 मत्वावदत्तां जटिला स्तुवन्ती ॥१०६॥
+
+
 
 एह्येहि वत्से कुशलं भवत्यास्
 
@@ -6213,9 +8131,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मदाशिषा त्वं सुतवस्करा स्याः ॥१०७॥
 
+
+
 स्वयं साध्वी प्रगल्भा त्वमन्यासां धर्मपालने ।
 
 आत्मनीव प्रतीतिर्मे त्वयि त्वां प्रार्थये ततः ॥१०८॥
+
+
 
 धर्मे पत्न्या पालिते तत्पतिः स्याद्
 
@@ -6225,9 +8147,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सेयं तत्त्वय्यर्पिता धर्मगुप्त्यै ॥१०९॥
 
+
+
 धर्मादर्थश्च कामश्चेत्यादि सत्यं सतां वचः ।
 
 यतोऽस्याः पालिताद्धर्मात्भूयानर्थोऽपि साधितः ॥११०॥
+
+
 
 एकः सुतो मे कुशली यथासौ
 
@@ -6237,6 +8163,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्वाह्य सूर्यार्चनमानयैनाम् ॥१११॥
 
+
+
 राधे त्वं ताम्रकुण्डीमरुणकपिलिकाक्षीरदध्याज्यमिज्यं
 
 सार्पिष्कान्नं जवामैक्षवमथ घुसृणं पत्रकं पद्ममालाम् ।
@@ -6244,6 +8172,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सार्धं सख्या नयेत्याद्युपकरणचयं पुत्रि गेहाद्गृहीत्वा
 
 गार्ग्या वा केनचिद्वार्चनपटुबटुना याहि सूर्यार्चनाय ॥११२॥
+
+
 
 चण्डासि साध्वी ललिते त्वयासौ
 
@@ -6253,9 +8183,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्यै दिशे वोऽञ्जलिरेव कार्यः ॥११३॥
 
+
+
 अत्यारूढं दिनं वत्से सन्ति गोमयराशयः ।
 
 युवयोर्न्यस्तभारा स्यां निश्चिन्तोत्पलिकाकृतौ ॥११४॥
+
+
 
 तामूचतुस्ते हृदि सम्प्रहर्षिते
 
@@ -6265,6 +8199,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तारामिवाक्ष्णः सहपक्ष्मलोचके ॥११५॥
 
+
+
 ताः प्रोन्मत्ता अपि जटिलायाः
 
 पीत्वाज्ञावाङ्मधुमधुराङ्ग्यः ।
@@ -6272,6 +8208,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आनन्दोत्फुल्लिततनुचित्ता
 
 धैर्यं धृत्वा गृहमनुजग्मुः ॥११६॥
+
+
 
 आगत्य खट्टोपरि सन्निविष्टां
 
@@ -6281,6 +8219,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पादाब्जसंवाहनवीजनाद्यैः ॥११७॥
 
+
+
 मल्लीरङ्गणकर्णिकारबकुलाऽमोघालतासप्तला
 
 जातीचम्पकनागकेशरलवङ्गाब्जादिपुष्पोच्चयम् ।
@@ -6288,6 +8228,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीवृन्दाप्रहितं वनादलिकुलास्पृष्टं दरोज्जृम्भितं
 
 स्वेश्वर्याः पुरतोऽन्यधाद्वनसखी श्रीनर्मदा मालिकी ॥११८॥
+
+
 
 कृष्णाङ्गकामालयवैजयन्तिकां
 
@@ -6297,6 +8239,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कर्पूरकृष्णागुरुसत्त्वभाविताम् ॥११९॥
 
+
+
 एलेन्दुजातीफलखादिरान्विताः
 
 स्वपाणिहृत्सौरभरागभाविताः ।
@@ -6304,6 +8248,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कृष्णाक्षिचित्ताननचन्द्ररञ्जिकाः
 
 सा नागवल्लीदलवीटिका व्यधात॥१२०॥
+
+
 
 मालामेतां तुलसि हरये वीटिकाश्चोपहृत्य
 
@@ -6313,6 +8259,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कस्तूर्यालीसहिततुलसी कृष्णपार्श्वं प्रतस्थे ॥१२१॥
 
+
+
 श्रीराधिकाप्यथ सखीसहितातिदक्षा
 
 श्रीकृष्णचन्द्रसकलेन्द्रियतर्पणानि ।
@@ -6320,6 +8268,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कर्पूरकेल्यमृतकेलिमुखानि कामं
 
 कर्तुं समारभत साद्भुतलड्डुकानि ॥१२२॥
+
+
 
 यदपि निजसखी सान्वेषणायास्य याता
 
@@ -6329,13 +8279,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्रुटिमपि युगलक्षं व्यग्रराधाचकोरी ॥१२३॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 वृन्दया प्रहिता काचिदाससादातिसत्वरा ।
 
 वृन्दावनेश्वरीं नत्वा जगाद क्रीडितं हरेः ॥१२४॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.२५२६—
+
+
 
 लीलाङ्गीकृतपीतकञ्चुकपरिप्रोदञ्चितालङ्कृतिः
 
@@ -6345,6 +8303,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रत्नोद्यद्घटिकः पदाम्बुजलसच्छिञ्जानमञ्जीरकः ॥१२५॥
 
+
+
 वेणुं वामकरेण दक्षिणकरेणान्दोलयन्कन्दुकं
 
 सैन्दूरं न विदूरयन्वदनतो रागं वसन्ताभिधम् ।
@@ -6353,7 +8313,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नास्वादं प्रथयन्मदालसलसद्घूर्णायमानेक्षणः ॥१२६॥
 
+
+
 आनन्दवृन्दावनचम्पू ७.४७—
+
+
 
 वेणुं वामे करकिशलये दक्षिणे चारुयष्टिं
 
@@ -6363,6 +8327,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गुञ्जाहारं कुवलययुगं कर्णयोश्चारु बिभ्रत॥१२७॥
 
+
+
 सद्रत्नालङ्कारणनिकरेष्वादधानोऽवहेलां
 
 वन्याकल्पे विरचितरुचिर्वत्सपालानुकृत्या ।
@@ -6370,6 +8336,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 धावन्नग्रे व्रजशिशुगणस्योल्लसद्वैजयन्ती
 
 मालः श्रीरञ्जितलसदुरोभित्तिराभाति कृष्णः ॥१२८॥
+
+
 
 अंसे चारुविहङ्गिकाग्रविलसच्छिक्यस्थभाण्डौदना
 
@@ -6379,6 +8347,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हारः श्रोणितटे घटीति मधुरो वेशः शिशूनां बभौ ॥१२९॥
 
+
+
 केयूरे वलयानि किङ्किणिघटा हारावली कुण्डले
 
 मञ्जीरौ मणितुन्दबन्धलतिका यद्यप्यमीषां बभुः ।
@@ -6387,13 +8357,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कामं वत्सकरक्षणोचितवनाकल्पे यथा लालसा ॥१३०॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 सौभाग्यं सा सखिनां हि निःशङ्कालिङनादिकम् ।
 
 स्मृत्वा वक्तुं गुणांस्तेषां तान्दासांश्चाभ्यवन्दत ॥१३१॥
 
+
+
 भक्तिरसामृतसिन्धुः ३.३.२८—
+
+
 
 गण्डान्तःस्फुरदेककुण्डलमलिच्छन्नावतंसोत्पलं
 
@@ -6403,13 +8381,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गम्भीरस्वनितं प्रलम्बभुजमालम्बे प्रलम्बद्विषम् ॥१३२॥
 
+
+
 भक्तिरसामृतसिन्धुः ३.३.२६—
+
+
 
 पाटलपटलसदङ्गो लकुटकरः शेखरी शिखण्डेन ।
 
 द्युतिमण्डलीमलिनिभां भाति दधन्मण्डलीभद्रः ॥१३३॥
 
+
+
 भक्तिरसामृतसिन्धुः ३.३.४१—
+
+
 
 वासः पिङ्गं बिभ्रतं शृङ्गपाणिं
 
@@ -6419,7 +8405,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीदामानं दामभाजं भजामि ॥१३४॥
 
+
+
 भक्तिरसामृतसिन्धुः ३.३.४६—
+
+
 
 तनुरुचिविजितहिरण्यं
 
@@ -6429,7 +8419,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नयनन्दितबान्धवं वन्दे ॥१३५॥
 
+
+
 भक्तिरसामृतसिन्धुः ३.३.४८—
+
+
 
 अरुणाम्बरमुच्चलेक्षणं
 
@@ -6439,7 +8433,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मणिहारोज्ज्वलमुज्ज्वलं भजे ॥१३६॥
 
+
+
 भक्तिरसामृतसिन्धुः ३.२.४६—
+
+
 
 रम्यपिङ्गपटमङ्गरोचिषा
 
@@ -6449,7 +8447,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रक्तकण्ठमनुयामि रक्तकम् ॥४६॥
 
+
+
 भक्तिरसामृतसिन्धुः ३.२.४३—
+
+
 
 मणिमयवरमण्डनोज्ज्वलाङ्गान्
 
@@ -6459,7 +8461,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजपतिनन्दनकिङ्करान्नमामि ॥१३८॥
 
+
+
 श्रीमद्भागवतं १०.१८.७८—
+
+
 
 वनं कुसुमितं श्रीमन्नदच्चित्रमृगद्विजम् ।
 
@@ -6469,7 +8475,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वेणुं विरणयन्गोपैर्गोधनैः संवृतोऽविशत॥१४०॥
 
+
+
 श्रीमद्भागवतं १०.१५.३१४—
+
+
 
 तन्मञ्जुघोषालिमृगद्विजाकुलं
 
@@ -6479,6 +8489,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निरीक्ष्य रन्तुं भगवान्मनो दधे ॥१४१॥
 
+
+
 स तत्र तत्रारुणपल्लवश्रिया
 
 फलप्रसूनोरुभरेण पादयोः ।
@@ -6486,6 +8498,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्पृशच्छिखान्वीक्ष्य वनस्पतीन्मुदा
 
 स्मयन्निवाहाग्रजमादिपुरुषः ॥१४२॥
+
+
 
 अहो अमी देववरामरार्चितं
 
@@ -6495,6 +8509,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तमोऽपहत्यै तरुजन्म यत्कृतम् ॥१४३॥
 
+
+
 एतेऽलिनस्तव यशोऽखिललोकतीर्थं
 
 गायन्त आदिपुरुषानुपदं भजन्ते ।
@@ -6502,6 +8518,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रायो अमी मुनिगणा भवदीयमुख्या
 
 गूठं वनेऽपि न जहत्यनघात्मदैवम् ॥१४४॥
+
+
 
 नृत्यन्त्यमी शिखिन ईड्य मुदा हरिण्यः
 
@@ -6511,6 +8529,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धन्या वनौकस इयान्हि सतां निसर्गः ॥१४५॥
 
+
+
 धन्येयमद्य धरणी तृणवीरुधस्त्वत्
 
 पादस्पृशो द्रुमलताः करजाभिमृष्टाः ।
@@ -6519,6 +8539,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोप्योऽन्तरेण भुजयोरपि यत्स्पृहा श्रीः ॥१४६॥
 
+
+
 एवं वृन्दावनं श्रीमत्कृष्णः प्रीतमनाः पशून।
 
 रेमे सञ्चारयन्नद्रेः सरिद्रोधःसु सानुगः ॥१४७॥
@@ -6526,6 +8548,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 क्वचिद्गायति गायत्सु मदान्धालिष्वनुव्रतैः ।
 
 उपगीयमानचरितः पथि सङ्कर्षणान्वितः ॥१४८॥
+
+
 
 अनुजल्पति जल्पन्तं कलवाक्यैः शुकं क्वचित।
 
@@ -6543,7 +8567,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अनुरौति स्म सत्त्वानां भीतवद्व्याघ्रसिंहयोः ॥१५२॥
 
+
+
 श्रीमद्भागवतं १०.१८.९१०—
+
+
 
 प्रवालबर्हस्तबक स्रग्धातुकृतभूषणाः ।
 
@@ -6553,7 +8581,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वेणुपाणितलैः शृङ्गैः प्रशशंसुरथापरे ॥१५४॥
 
+
+
 श्रीमद्भागवतं १०.१८.१४१६—
+
+
 
 क्वचिद्बिल्वैः क्वचिद्कुम्भैः क्वचामलकमुष्टिभिः ।
 
@@ -6567,7 +8599,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नद्यद्रिद्रोणिकुञ्जेषु काननेषु सरःसु च ॥१५७॥
 
+
+
 श्रीमद्भागवतं १०.१८.१९२२—
+
+
 
 तत्रोपहूय गोपालान्कृष्णः प्राह विहारवित।
 
@@ -6585,13 +8621,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भण्डीरकं नाम वटं जग्मुः कृष्णपुरोगमाः ॥१६१॥
 
+
+
 श्रीमद्भागवतं १०.१८.२४—
+
+
 
 उवाह कृष्णो भगवान्श्रीदामानं पराजितः ।
 
 वृषभं भद्रसेनस्तु प्रलम्बो रोहिणीसुतम् ॥१६२॥
 
+
+
 श्रीमद्भागवतं १०.१५.१५, १७१८—
+
+
 
 क्वचित्क्रीडापरिश्रान्तं गोपोत्सङ्गोपबर्हणम् ।
 
@@ -6605,7 +8649,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अपरे हतपाप्मानो व्यजनैः समवीजयन॥१६५॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 इति स्वकान्तकेलिं सा शृण्वती वरवर्णिनी ।
 
@@ -6615,7 +8663,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वर्णयामास कृष्णस्य लीलावृन्दं मनोहरम् ॥१६७॥
 
+
+
 कृष्णाह्निककौमुदी ३.३८, ३६, ४०, ४१, ३७—
+
+
 
 विश्रम्य क्षणमुत्थितः स परितः पर्यन्तशम्पादिनीः
 
@@ -6625,6 +8677,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णो भास्करनन्दिनीपरिसरानासादयामास ताः ॥१६८॥
 
+
+
 बालाः केचन केचन प्रसृमरा गोमण्डलीमन्वगुः
 
 केचित्कृष्णसमीप एव मिलितास्तत्तद्गुणानाजगुः ।
@@ -6632,6 +8686,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दूरस्था निकटस्थिताश्च सकला गावश्च गोपाश्च ते
 
 तुल्यां प्रीतिमवाप्य कृष्णमभितस्तुल्यां रतिं तन्वते ॥१६९॥
+
+
 
 दूरे सन्तु सचेतना मणिभुवोऽप्युद्न्दन्ति यत्स्पर्शतः
 
@@ -6641,6 +8697,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा केनापि कदापि कापि कथमप्यासीन्न संलोपिता ॥१७०॥
 
+
+
 वक्तुं कोऽर्हति गोपराजयुवराजस्याङ्घ्रिपङ्केजयोः
 
 सौगन्ध्यं क्षितिवक्षसि प्रणयतो लीलागतिन्यस्तस्तयोः ।
@@ -6648,6 +8706,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अङ्केष्वेष्वविशङ्कया बत धिया सौगन्ध्यबन्धान्धया
 
 पुञ्जीभूय विधूय कुञ्जकुसुमं गुञ्जन्ति पुष्पन्धयः ॥१७१॥
+
+
 
 तूष्णीकान्मुखरीकरोति मुखरांस्तूष्णीकयत्यम्भसां
 
@@ -6657,11 +8717,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तां वंशीमधरे निधाय मधुरं कृष्णो जगौ पञ्चमम् ॥१७२॥
 
+
+
 गोविन्दलीलामृत ६.१४१५—
+
+
 
 सत्त्वधर्मविपर्यासैर्वेणुनादामृतोत्थितैः ।
 
 स्वसात्त्विकविकारैश्च तदाभूद्व्याकुलाटवी ॥१७३॥
+
+
 
 प्रोद्यद्वेपथुरुच्चलं स्थिरचरैः स्तब्धा जडैर्जङ्गमैः
 
@@ -6671,7 +8737,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रोमाञ्चालि युता लताङ्कुरचयैर्वृन्दाटवी सा बभौ ॥१७४॥
 
+
+
 गोविन्दलीलामृत ६.१७२६—
+
+
 
 कूजद्भृङ्गविहङ्गपञ्चमकलालापोल्लसन्ती हरेश्
 
@@ -6681,6 +8751,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लास्याचार्यमरुद्गणातिमुदिता सर्वेन्द्रियाह्लादिनी ॥१७५॥
 
+
+
 पुष्पैर्हास्यं भ्रमरैर्गानं
 
 पण्णैर्लास्यं मधुभिः पानम् ।
@@ -6688,6 +8760,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दधतस्तरवः स्वफलैः खानं
 
 कुर्वन्त्यभ्यागतहरिमानम् ॥१७६॥
+
+
 
 अलिगायकचुम्बितकुसुमास्यं
 
@@ -6697,6 +8771,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्यवृणुत वल्लीततिरपि दास्यम् ॥१७७॥
 
+
+
 स्वरमणसहितानां वेणुनादाहृतानां
 
 तृणकवलमुखानां चञ्चलालोकनानि ।
@@ -6704,6 +8780,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हरिरथ हरिणीनां वीक्ष्य राधाकटाक्षैः
 
 स्मृतिपथमधिरूढैर्विव्यथे विद्धमर्मा ॥१७८॥
+
+
 
 प्रेम्णानृत्यत्फुल्लमयूरीततियुक्तः
 
@@ -6713,6 +8791,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यत्सत्पिञ्छैराशु मुरारेः स्मृतिरासीत॥१७९॥
 
+
+
 मदकलकलविङ्कीमत्तकादम्बिकानां
 
 सरसि च कलनादैः सारसानां प्रियायाः ।
@@ -6720,6 +8800,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वलयकटककाञ्चीनूपुरोद्यत्स्वनोर्मी
 
 भ्रमचुलुकितचित्तोऽभ्यागतां तां स मेने ॥१८०॥
+
+
 
 उपरिचपलभृङ्गं पद्ममीषत्प्रकाशं
 
@@ -6729,6 +8811,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुखमिदमिति मत्वा तामुपेतां विवेद ॥१८१॥
 
+
+
 रुचककरकबिल्वैर्नागरङ्गैः सुपक्वैः
 
 प्रतिदिशमनुदृष्टैर्हर्षतर्षाकुलोऽसौ ।
@@ -6736,6 +8820,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सपदि लसदुरोजभ्रान्तिसम्भ्रान्तचेता
 
 वपुष इह विभुत्वं राधिकायाः शशङ्के ॥१८२॥
+
+
 
 यतो यतः पतति विलोचनं हरेस्
 
@@ -6745,11 +8831,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुदे हरेरलभत राधिकात्मताम् ॥१८३॥
 
+
+
 तैरुद्दीप्तभावाली वात्ययोच्चालितं मनः ।
 
 शशाक न स्थिरीकर्तुं काशपुष्पनिभं हरिः ॥१८४॥
 
+
+
 गोविन्दलीलामृत ६.२९—
+
+
 
 प्रचार्य गाश्चारयितुं क्षुधार्ता
 
@@ -6759,7 +8851,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समं वयस्यैर्विजहार कृष्णः ॥१८५॥
 
+
+
 गोविन्दलीलामृत ६.३२३७—
+
+
 
 तावद्धनिष्ठा घृतपक्वमन्नं
 
@@ -6769,6 +8865,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दासीभिरादाय समाजगाम ॥१८६॥
 
+
+
 तां वीक्ष्य हृष्टः स हरिर्बभाषे
 
 किं मे धनिष्ठे पितरौ सुखं स्तः ।
@@ -6776,6 +8874,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुस्नातमाभ्यां विहितेशपूजा
 
 प्रतोष्य सर्वान्वद किं नु भुक्तम् ॥१८७॥
+
+
 
 साप्याह तं तौ तव मङ्गलार्थं
 
@@ -6785,9 +8885,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भोज्यानि च प्रेषयतः स्म तुभ्यम् ॥१८८॥
 
+
+
 राधासङ्गद्रुमारोहोत्कण्ठितालम्बनार्थिनी ।
 
 तां परालम्बनां मेने चित्तवृत्तिलता हरेः ॥१८९॥
+
+
 
 इतस्ततः सञ्चरतीर्गवालीः
 
@@ -6797,11 +8901,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सञ्चालयन्मानसजाह्नवीं सः ॥१९०॥
 
+
+
 पाययित्वा जलं गास्ताः शीतं स्वादु सुनिर्मलम् ।
 
 स्वयं गोपाः पपुः सस्नुर्विजह्रुः सलिले चिरम् ॥१९१॥
 
+
+
 बृहद्भागवतामृत २.७.४६—
+
+
 
 परस्परं वार्यभिसिञ्चतः सखीन्
 
@@ -6811,7 +8921,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलम्भितो भङ्गभरं जहर्ष सः ॥१९२॥
 
+
+
 बृहद्भागवतामृत २.७.४८५१—
+
+
 
 कदापि कृष्णाजलमध्यतो निजं
 
@@ -6821,6 +8935,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यथा न केनापि भवेत्स लक्षितः ॥१९३॥
 
+
+
 ततस्तदेकेक्षणजीवनस्ते
 
 न तं समन्विष्य यदालभन्त ।
@@ -6828,6 +8944,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तद महार्तः सुहृदो रुदन्तो
 
 विचुक्रुषुर्व्यग्रधियः सुघोरम् ॥१९४॥
+
+
 
 ततो हसन्पद्मवनाद्विनिःश्र्तः
 
@@ -6837,6 +8955,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सङ्गम्यमानो विजहार कौतुकी ॥१९५॥
 
+
+
 मृणालजालेन मनोरमेण
 
 विरच्य हारान्जलपुष्पजातैः ।
@@ -6845,13 +8965,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जलात्समं तैः स च भूषितस्तैः ॥१९६॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 भूषणेन विचित्रेण वन्येन सखिभिः पुनः ।
 
 अहंपूर्विकया सर्वैर्भूषितोऽसौ यथारुचि ॥१९७॥
 
+
+
 श्रीमद्भागवतं १०.१३.५६—
+
+
 
 अहोऽतिरम्यं पुलिनं वयस्याः
 
@@ -6861,11 +8989,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ध्वनिप्रतिध्वानलसद्द्रुमाकुलम् ॥१९८॥
 
+
+
 अत्र भोक्तव्यमस्माभिर्दिवारूढं क्षुधार्दिताः ।
 
 वत्साः समीपेऽपः पीत्वा चरन्तु शनकैस्तृणम् ॥१९९॥
 
+
+
 श्रीमद्भागवतं १०.१३.८९—
+
+
 
 कृष्णस्य विष्वक्पुरुराजिमण्डलैर्
 
@@ -6875,11 +9009,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 छदा यथाम्भोरुहकर्णिकायाः ॥२००॥
 
+
+
 केचित्पुष्पैर्दलैः केचित्पल्लवैरङ्कुरैः फलैः ।
 
 शिग्भिस्त्वग्भिर्दृषद्भिश्च बुभुजुः कृतभाजनाः ॥२०१॥
 
+
+
 श्रीमद्भागवतं १०.१३.११—
+
+
 
 बिभ्रद्वेणुं जठरपटयोः शृङ्गवेत्रे च कक्षे
 
@@ -6889,7 +9029,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वर्गे लोके मिषति बुभुजे यज्ञभुग्बालकेलिः ॥२०२॥
 
+
+
 बृहद्भागवतामृत २.७.६२—
+
+
 
 आचम्य ताम्बूलमथ सुगन्धं
 
@@ -6899,7 +9043,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सनागवल्लीदलपूगमर्द्रम् ॥२०३॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 मोहोत्थितां तां हरिमाल्यगन्धैः
 
@@ -6909,7 +9057,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 संश्रावयामास तदैव सर्वम् ॥२०४॥
 
+
+
 गोविन्दलीलामृतं ६.३९५७—
+
+
 
 ततः सखीनाह हरिः सहार्या
 
@@ -6919,6 +9071,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वनश्रियं द्रष्टुमिह भ्रमामि ॥२०५॥
 
+
+
 दासीर्धनिष्ठावददाशु यात
 
 यूयं गृहीत्वाखिलभाजनानि ।
@@ -6927,13 +9081,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सञ्चित्य पश्चादहमागतास्मि ॥२०६॥
 
+
+
 फुल्लं गन्धफलीद्वन्द्वमवतंसोचितं तदा ।
 
 आदायागत्य कृष्णस्य वृन्दार्पितवती करे ॥२०७॥
 
+
+
 तदालोकात्प्रियाकान्तिस्मृत्युत्कण्ठावतो हरेः ।
 
 एजत्करात्तदादाय तच्छ्रुत्योर्निदधे बटुः ॥२०८॥
+
+
 
 वृन्दां धनिष्ठां सुबलं बटुं च
 
@@ -6943,9 +9103,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधाङ्गसङ्गोत्तमराज्यलब्धिम् ॥२०९॥
 
+
+
 मधुमङ्गलहस्तं स प्रगृह्य वामपाणिना ।
 
 वृन्दाधनिष्ठासुबलैः ससार सुमनःसरः ॥२१०॥
+
+
 
 कुसुमिततरुवल्लीवीथिकुञ्जैर्लसन्तीं
 
@@ -6955,6 +9119,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदभिसृतिविचारं स्वानुगैराचचार ॥२११॥
 
+
+
 प्रयाति वृन्दा सुबलो बटुर्वा
 
 राधान्तिकं चेज्जटिला सशङ्का ।
@@ -6962,6 +9128,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 एभिः समं वा कलहं विदध्यद्
 
 वधूं निरुन्ध्यादथवा गृहान्तः ॥२१२॥
+
+
 
 आकर्षणीं वा मुरलीं नियुञ्ज्यां
 
@@ -6971,6 +9139,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 परस्परेर्ष्यामदमानवाम्यात॥२१३॥
 
+
+
 ततो धनिष्ठे व्रज कुन्दवल्लीं
 
 प्रतीतिकृत्सा जटिला यदस्याम् ।
@@ -6978,6 +9148,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तद्वञ्चनाचञ्चुमतिः सदा नौ
 
 स्निग्धार्थिता सा ध्रुवमानयेत्ताम् ॥२१४॥
+
+
 
 अथाह वृन्दा भवता यदुक्तं
 
@@ -6987,6 +9159,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ज्ञेयस्तदास्यास्तदुदन्त आदौ ॥२१५॥
 
+
+
 अथागता सा तुलसी स्वसख्या
 
 कृष्णं सखिभ्यां सह तत्सखीभ्याम् ।
@@ -6994,6 +9168,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रियागमोपायविचारलग्नं
 
 पुरः स्फुरन्तं मुमुदे समीक्ष्य ॥२१६॥
+
+
 
 स्वप्नेऽपि तत्सन्निधिमत्यजन्तीं
 
@@ -7003,9 +9179,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तद्दर्शनोत्कोऽध्वनि दत्तदृष्टिः ॥२१७॥
 
+
+
 ततः सा तुलसी न्यस्य हृष्टा बटुकरे स्रजम् ।
 
 उद्घाट्य पुटिकां वीटीं सुबलस्य करे ददौ ॥२१८॥
+
+
 
 राधाकरामोदसमृद्धसौरभं
 
@@ -7015,6 +9195,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्रजं विलोक्याभवदुन्मना हरिः ॥२१९॥
 
+
+
 कण्ठे स्रजं तामथ वैजयन्तीं
 
 हसन्न्यधाच्छ्रीमधुमङ्गलोऽस्य ।
@@ -7022,6 +9204,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 राधाकरस्पर्शसुखादिवासौ
 
 तत्स्पर्शतः कण्टकिताङ्ग आसीत॥२२०॥
+
+
 
 आगत्य कुञ्जे परिहासलीनां
 
@@ -7031,6 +9215,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तया हसन्त्या सह संललाप ॥२२१॥
 
+
+
 सख्यास्ते कुशलं सखीशकुशलं कुत्रेयमात्मालये
 
 किं नायाति वनं कृतौ स्वगुरुणा दिष्टाथ किं चेष्टते ।
@@ -7039,11 +9225,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 युक्त्या चानय वृन्दया न जटिला वञ्च्याह हा धिग्विधिम् ॥२२२॥
 
+
+
 सदा राधातिदौर्लभ्यस्फूर्त्या मत्वा बभूव सः ।
 
 हासोक्तिमपि सत्यां तां विषण्णात्मा स्मराकुलः ॥२२३॥
 
+
+
 विदग्धमाधव २.२६—
+
+
 
 कनकाद्रिनिकेतकेतकी
 
@@ -7053,15 +9245,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चपला मां किमलङ्करिष्यति ॥२२४॥
 
+
+
 गोविन्दलीलामृतं ६.५८८६—
+
+
 
 कृष्णं विषण्णमालोक्य व्याकुला तुलसी स्वयम् ।
 
 दृशा वृन्दाधनिष्ठाभ्यां भर्त्सिताह ससम्भ्रमम् ॥२२५॥
 
+
+
 मा गाः खेदं व्रजानन्द यामि निर्मञ्छनं तव ।
 
 आगतां विद्धि दयितां परिहासः कृतो मया ॥२२६॥
+
+
 
 तामागतामथ निशम्य दिदृक्षुरेनाम्
 
@@ -7071,6 +9271,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्याः समर्प्य करयोर्मुदितोऽवदत्ताम् ॥२२७॥
 
+
+
 क्वेयं क्वेयं निह्नुता वा किमर्थं
 
 रुष्टा सा चेन्नापराधो ममास्ति ।
@@ -7079,9 +9281,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हा हा शीघ्रं दर्शयामूं प्रियां मे ॥२२८॥
 
+
+
 प्रियावलोकनोत्कण्ठं कालदेशार्थतत्त्ववित।
 
 आनिनीषुर्द्रुतं राधां बभाषे तुलसी हरिम् ॥२२९॥
+
+
 
 सा ते कान्ता कमलनयन त्वन्मुखालोकनोत्का
 
@@ -7091,9 +9297,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रीडाकुञ्जं त्वमुपदिश तं यत्र तामानयामि ॥२३०॥
 
+
+
 तच्छ्रुत्वोच्छ्वसितस्वान्तः प्रीतो गुञ्जावलीं हरिः ।
 
 तुलस्यै दत्तवान्कण्ठादुत्तार्य पारितोषिकम् ॥२३१॥
+
+
 
 लीलानिकुञ्जकलनाय तदाथ वृन्दा
 
@@ -7103,9 +9313,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कन्दर्पकेलिसुखदाख्यनिकुञ्जमाशु ॥२३२॥
 
+
+
 अहं च केलिसामग्रीं समग्रयितुमुत्सुका ।
 
 राधाकुण्डं त्वया सार्धं प्रयातास्मि द्रुतं सखि ॥२३३॥
+
+
 
 तावत्कृत्वा प्रियसहचरीं स्वस्य चन्द्रावलीं तां
 
@@ -7115,6 +9329,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दृष्ट्वा वृन्दासहिततुलसीं विव्यथे क्षुब्धचित्ता ॥२३४॥
 
+
+
 कृष्णस्याग्रे वृन्दया संलपन्त्या
 
 आलोकात्तत्प्रेष्ठसख्यास्तुलस्याः ।
@@ -7123,17 +9339,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शैब्या सव्याज्यं तदा व्याजहार ॥२३५॥
 
+
+
 कुर्वन्त्याद्य तया दुर्गाव्रतोद्याप महोत्सवम् ।
 
 तां निमन्त्रयितुं राधां प्रेषितास्मि वयस्यया ॥२३६॥
+
+
 
 साद्य लब्धा मयान्विष्य न गृहे नापि कानने ।
 
 दिष्ट्या लब्धासि तुलसि कथ्यतां कुत्र ते सखी ॥२३७॥
 
+
+
 ततः सा तुलसी ज्ञात्वा शैब्यां कौटिल्यमाश्रिताम् ।
 
 अवदत्तां सकौटिल्यं शठे शाठ्यं हि यन्नयः ॥२३८॥
+
+
 
 कुर्वाणया व्रतमहोत्सवमम्बिकायाः
 
@@ -7142,6 +9366,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वृन्दाटवीपरिवृढा स्वगृहं तथास्याम्
 
 भारोऽप्यधायि विनयैः ससखीकुलायाम् ॥२३९॥
+
+
 
 ततो ललितया पुष्पफलमाल्यसमृद्धये ।
 
@@ -7171,6 +9397,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अवदद्वञ्चयन्शैब्यां च्छद्मनानन्दयन्निव ॥२४६॥
 
+
+
 अहं तद्दर्शनोत्कण्ठा दिष्ट्या नीतेयमाल्यसौ ।
 
 गौरीतीर्थं लम्भयैनां गुरूणां वञ्चनक्षमम् ॥२४७॥
@@ -7179,13 +9407,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अवधार्यागतोऽहं स्यां गवां सम्भालने सखीन॥२४८॥
 
+
+
 गोविन्दलीलामृत ६.८६—
+
+
 
 इति प्रतार्य तां शैव्यां गोदिशं ससखोऽव्रजत।
 
 मुरारिस्त्वरया हृष्टो सापि चन्द्रावलीं प्रति ॥२४९॥
 
+
+
 कृष्णभावनामृतं ८.६, ८२७—
+
+
 
 प्रेषिता ललितया तदालयः
 
@@ -7195,6 +9431,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भेजुरुन्नतमुदो वनस्रजः ॥२५०॥
 
+
+
 तत्र वीक्ष्य मुदितासु तासु तं
 
 प्राह काचन खनिर्गुणश्रियाम् ।
@@ -7202,6 +9440,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 रूपमञ्जरिरपारसौभगा
 
 पृष्टयौवतमणिप्रवृत्तिकम् ॥२५१॥
+
+
 
 नागरेन्द्र ! भवता यदा पदा
 
@@ -7211,6 +9451,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लिङ्ग्यत स्वसुषमां ददानया ॥२५२॥
 
+
+
 त्वं हरे हरिमणिमयीं व्यधाः
 
 क्ष्मामिमां निजसवर्णतर्पणैः ।
@@ -7218,6 +9460,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 साप्यधास्यत विवर्णतां न चेत्
 
 तां च काञ्चनमयीं व्यधास्यते ॥२५३॥
+
+
 
 गोरजश्चुरितमास्यमीक्षयंस्
 
@@ -7227,6 +9471,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वालयः किल तयापि रोदितः ॥२५४॥
 
+
+
 किन्त्वनीतिरियमीक्षणाम्बुजे
 
 सन्तताम्बुजनके तया कृते ।
@@ -7234,6 +9480,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ते तु पौत्रमुचितं प्रचक्रतुः
 
 कर्दमोऽम्बुजभवोद्भवो यतः ॥२५५॥
+
+
 
 माल्यकेशवसनादयः समुच्
 
@@ -7243,6 +9491,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्यात्क्व कस्य च न वा नियम्यता ॥२५६॥
 
+
+
 यत्तवाङ्घ्रिवनजद्वयं वनोत्
 
 सङ्ग एव विहरत्प्रमोदते ।
@@ -7250,6 +9500,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्र विश्वसिति सा न निःश्वसित्य्
 
 उष्णमेव बहुधापि बोधिता ॥२५७॥
+
+
 
 नैव तत्र कटुशर्कराङ्कुरेत्य्
 
@@ -7259,6 +9511,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रोशयन्त्यथ जवादमूर्च्छयत॥२५८॥
 
+
+
 हन्त ते प्रियतमः समागतो
 
 वीक्ष्य तमिति सखीमृषोक्तिभिः ।
@@ -7266,6 +9520,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 त्वद्वनस्रगतिसौरभैश्च सा
 
 प्राप्य बोधमति सम्भ्रमं दधौ ॥२५९॥
+
+
 
 आलि ! नेत्रमदिरैकनर्तकः
 
@@ -7275,6 +9531,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वक्ति तं किल तदङ्गसौरभम् ॥२६०॥
 
+
+
 इत्यलम्भि सुखमेतया मनाक्
 
 तन्न सोढुमशकन्मनोभवः ।
@@ -7282,6 +9540,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 एकदैव शरपञ्चकस्य यल्
 
 लक्षतामनयदेव तां बलात॥२६१॥
+
+
 
 स्विद्यति स्म पतति स्म वेपते
 
@@ -7291,6 +9551,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्राप शीतलयितुं स्वलोचने ॥२६२॥
 
+
+
 हा सखीजनवचोऽनृतं मनस्
 
 त्वं मुदामृतसमं वृथा कथाः ।
@@ -7298,6 +9560,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 संज्वरो द्विगुणितो यतो द्यति
 
 त्वामितीयमपतत्पुनः क्षितौ ॥२६३॥
+
+
 
 त्वं धिगस्तु रहितं स्वबन्धुना
 
@@ -7307,6 +9571,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रत्युतातिगुरुभारतामगात॥२६४॥
 
+
+
 हन्त कान्तविरहेऽपि किं महत्
 
 सौकुमार्यमुदियाय सुभ्रुवः ।
@@ -7314,6 +9580,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अङ्गकानि यदसु प्रभञ्जन
 
 स्पन्दनं च न हि सोढुमीशते ॥२६५॥
+
+
 
 इत्यवेत्य मधुसूदनः प्रियोद्
 
@@ -7323,6 +9591,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अक्षिपत्प्रियसखास्यमण्डले ॥२६६॥
 
+
+
 तामुवाच बटुरानय द्रुतं
 
 राधिकां कनकपद्मिनीं वनम् ।
@@ -7330,6 +9600,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्यथा किमवनं भवेद्गतिः
 
 सैव हन्त मधुसूदनस्य यत॥२६७॥
+
+
 
 माधवोऽथ निजमाल्यमर्पयंस्
 
@@ -7339,6 +9611,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्रङ्ममाद्य सखि सेयमुद्गता ॥२६८॥
 
+
+
 वृत्तमाख्यदखिलं समेत्य सा
 
 राधिकामथ तया वरस्रजः ।
@@ -7346,6 +9620,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्लेषणाप्तरमणाङ्गसौरभेः
 
 स्वीयजीवितमकारि जीवितम् ॥२६९॥
+
+
 
 प्रेयसीस्वविरहोग्रवृश्चिक
 
@@ -7355,13 +9631,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वान्वभावि निजमर्मशर्मभित॥२७०॥
 
+
+
 गोविन्दलीलामृत ७.१—
+
+
 
 कियद्दूरं ततो गत्वा निवृत्योद्वर्त्मना हरिः ।
 
 राधाकुण्डं समायातः प्रियासन्गोत्सुकः प्रियम् ॥२७१॥
 
+
+
 वृन्दावनमहिमामृतं ४.१०६१०८—
+
+
 
 तन्मध्ये नवमञ्जुकुञ्जवलयं शोभाविभूत्यासमा
 
@@ -7371,6 +9655,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधामाधवभुक्तभोग्यमखिलानन्दैकसाम्राज्यभूः ॥२७२॥
 
+
+
 मध्येतादृशकुञ्जमण्डलमहो कुण्डं महामोहनं
 
 सान्द्रानन्दमहारसामृतभरैः स्वच्छैः सदा सम्भृतम् ।
@@ -7378,6 +9664,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 रत्नाबद्धचतुस्तटी विलसितं सद्रत्नसोपानवत्
 
 तीर्थं श्रीतटसत्कदम्बकतलच्छायामणीकुट्टिमम् ॥२७३॥
+
+
 
 गाधागाधतया तयोरतिमुदं कुर्वत्परप्रेष्ठयोर्
 
@@ -7387,7 +9675,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नानारत्नमयच्छटाम्बुधिजलं व्यञ्जन्निकुञ्जादिकम् ॥२७४॥
 
+
+
 वृन्दावनमहिमामृतं ३.१०३—
+
+
 
 कह्लारोत्पलपद्मकैरवमुखासङ्ख्यप्रसूनैः स्फुटैर्
 
@@ -7397,7 +9689,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भृङ्गीयूथशतैर्भ्रमद्भिरभितो गुञ्जद्भिरामञ्जुले ॥२७५॥
 
+
+
 गोविन्दलीलामृत ७.४६—
+
+
 
 प्रतिमण्डपपार्श्वस्थतरुशाखावलम्बनैः ।
 
@@ -7411,13 +9707,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्रोर्ध्वे स्तम्भकालम्बि चित्रसेतुसमन्वितम् ॥२७८॥
 
+
+
 गोविन्दलीलामृत ७.१०—
+
+
 
 चतुष्कोणेषु वासन्तीचतुःशालाभिरावृतम् ।
 
 वानीरकेशराशोकनिकुञ्जैः परितो वृतम् ॥२७९॥
 
+
+
 गोविन्दलीलामृत ७.७९—
+
+
 
 गलहृदुदरनाभिश्रोणिजानूरुदघ्नैः
 
@@ -7427,6 +9731,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विविधमणिनिबद्धैर्दिक्षु सोपानयुक्तैः ॥२८०॥
 
+
+
 मणिरुचिजलवीचिभ्रान्तितृष्णाभिभूता
 
 पतितविहगवृन्दाच्छालबालान्तरालैः ।
@@ -7434,6 +9740,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 परिजनयुतराधाकृष्णयोर्नर्मगोष्ठी
 
 प्रमदकृदुपवेशानल्पवेदीसुशोभैः ॥२८१॥
+
+
 
 निचितपृथुतलानां कुट्टिमैश्चित्रवर्णैः
 
@@ -7443,7 +9751,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विततिभिरभितः संवेष्टितं पादपानाम् ॥२८२॥
 
+
+
 गोविन्दलीलामृत ७.१११२—
+
+
 
 तद्बहिः पक्त्रिमापक्वफलपुष्पोत्कराकरैः ।
 
@@ -7453,7 +9765,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वमध्यसलिला दीव्यत्ससेतुरत्नमन्दिरम् ॥२८४॥
 
+
+
 गोविन्दलीलामृत ७.१५१७—
+
+
 
 ऋतुराजादिसर्वर्तुगुणसेवितकाननम् ।
 
@@ -7463,6 +9779,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पौष्पैश्चित्रित कुञ्जाध्व दोला चत्वर मण्डपम् ॥२८६॥
 
+
+
 नवकमलदलालीपल्लवावृन्तनाना
 
 कुसुमरचितशय्योच्छीर्षचन्द्रोपधानैः ।
@@ -7471,7 +9789,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुवलिततललीलागारकुञ्जप्रपञ्चम् ॥२८७॥
 
+
+
 वृन्दावनमहिमामृत ४.१०५—
+
+
 
 राधाकृष्णरहःकथानुवदनादाश्चर्यमाधुर्यवद्
 
@@ -7481,7 +9803,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नृत्यन्मत्तमयूरमन्यविहगैश्चानन्दकोलाहलम् ॥२८८॥
 
+
+
 गोविन्दलीलामृत ७.२२१३२—
+
+
 
 हारीतपारावतचातकादिक
 
@@ -7491,6 +9817,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कर्णामृतध्वानमनोज्ञकाननम् ॥२८९॥
 
+
+
 राकेशार्बुदनिर्मञ्छ्यराधेशास्येन्दुपायिभिः ।
 
 चकोरैर्न्यक्कृतत्यक्तचन्द्रैर्वृतनभस्थलम् ॥२९०॥
@@ -7498,6 +9826,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विपक्वजालकापक्वफलैः कुसुमपल्लवैह।
 
 मुकुलैर्मञ्जरीभिश्च नम्रैर्वल्लीद्रुमैर्वृतम् ॥२९१॥
+
+
 
 अनेकपद्माकरमध्यसंस्थितं
 
@@ -7507,9 +9837,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गुणैर्जितक्षीरसमुद्रमद्भुतम् ॥२९२॥
 
+
+
 स्वसदृक्तीरनीरेण कृष्णपादाब्जजन्मना ।
 
 निजपार्श्वोपविष्टेनारिष्टकुण्डेन सङ्गतम् ॥२९३॥
+
+
 
 तीरे कुञ्जा यस्य भान्त्यष्टदिक्षु
 
@@ -7519,6 +9853,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रीडातुष्ट्यै प्रेष्ठयोः संस्कृता ये ॥२९४॥
 
+
+
 तत्तत्काष्ठाप्रान्तविच्छिन्न
 
 सीमारामोद्यानावेशनांशान्विताश्च ।
@@ -7526,6 +9862,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्तत्सीमाभ्यन्तरोत्पन्नवृक्ष
 
 श्रेणीयुग्माच्छन्नवर्त्मालियुक्ताः ॥२९५॥
+
+
 
 उपरि तनुतरङ्गाकारचित्राञ्चिशुद्ध
 
@@ -7535,6 +9873,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रतनुलहरिकुल्याभ्रान्तिमुत्पादयन्ति ॥२९६॥
 
+
+
 मणिचयरचनाभिः स्वेषु भित्तिभ्रमं द्राक्
 
 स्वनिकटमणिभित्तौ चात्मबुद्धिं ददद्भिः ।
@@ -7542,6 +9882,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उपवनयुगमध्ये द्वारवृन्दैर्युतानि
 
 प्रविशदितरलोके दर्शनादेव भान्ति ॥२९७॥
+
+
 
 चकास्त्युदीच्यां दिशि तीर्थसन्निधाव्
 
@@ -7551,6 +9893,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुहेमरम्भावलिकेशरान्वितम् ॥२९८॥
 
+
+
 सहस्रपत्राम्बुजसन्निभं स्फुरत्
 
 सुवर्णसत्कुट्टिममञ्जुकर्णिकम् ।
@@ -7559,6 +9903,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विस्तीर्णतालाघवमुन्नतप्रभम् ॥२९९॥
 
+
+
 ललिताशिष्यया नित्यंकलावत्या सुसंस्कृतम् ।
 
 सर्वर्तुसुखसम्पन्नं नानाकेलिरसाकरम् ॥३००॥
@@ -7566,6 +9912,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ललितानन्ददं राधाकृष्णयोः सवयस्ययोः ।
 
 निकुञ्जराजयोः पट्टमन्दिरं स्फुरदिन्दिरम् ॥३०१॥
+
+
 
 माणिक्यकेशरश्रेणीवेष्टितस्वर्णकर्णिकम् ।
 
@@ -7587,6 +9935,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 देवैर्नृभिर्युतं चान्यैश्चित्रितै रसदीपनैः ॥३०६॥
 
+
+
 पञ्चवर्णभूरिचित्रपत्रपुष्पविस्फुरत्
 
 केशरादिशखिशाखिकालिसद्वितानकम् ।
@@ -7594,6 +9944,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्तरस्य भाति जानुदघ्नरत्नकुट्टिमागार
 
 मध्यकर्णिकासहस्रपत्रसारसम् ॥३०७॥
+
+
 
 आमूलपुष्पिताशोकवल्लीमण्डलसञ्चयैः ।
 
@@ -7606,6 +9958,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वसन्तसुखदं यस्य भृङ्गकोकिलनादितम् ।
 
 वायव्यां दिशि भात्यष्टदलकुञ्जाम्बुजं दलम् ॥३१०॥
+
+
 
 श्रीपद्ममन्दिरं नाम नैरृत्यं राजते दलम् ।
 
@@ -7691,9 +10045,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हिन्दोलाम्बुजमाभाति मदनान्दोलनाभिधम् ॥३३१॥
 
+
+
 ऐशान्यां भात्यष्टपत्रं माधवीकुञ्जसारसम् ।
 
 माधवानन्ददं नाम नानालीलोपहारयुक॥३३२॥
+
+
 
 फुल्लमल्लीभिराश्लिष्टनम्रशाखाभुजव्रजैः ।
 
@@ -7703,6 +10061,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उदीच्यां मणिकिञ्जल्कं भाति कुञ्जं सिताम्बुजम् ॥३३४॥
 
+
+
 नम्रशाखाभुजाश्लिष्टफुल्लहेमलताचयैः ।
 
 तमालैः कल्पितं जिष्णुनीलरत्नावलीचितम् ॥३३५॥
@@ -7710,6 +10070,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नीलपद्मदलाकारैरुपकुञ्जाष्टकैर्वृतम् ।
 
 सुवर्णकर्णिकं प्राच्यां भाति कुञ्जासिताम्बुजम् ॥३३६॥
+
+
 
 अवाच्यां पद्मरागादिचितान्तर्बाह्यमण्डलम् ।
 
@@ -7723,6 +10085,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नानावर्णाकारभेदात्दृशां विस्मयकारिणः ॥३३९॥
 
+
+
 प्रतिविदिशमुदञ्चच्चम्पकानां च तूर्णाम्
 
 अरुणहरितपीतश्यामपुष्पोच्चायानाम् ।
@@ -7730,6 +10094,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वरपरिमलधाराक्षिप्तगन्धान्तराणां
 
 प्रतिदिशमधिरोहन्माधवीवेष्टितानाम् ॥३४०॥
+
+
 
 व्यतिसुमिलिततिर्यङ्निर्गतैः कैश्चिदन्यैर्
 
@@ -7739,6 +10105,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मधुरनिनदरम्यैश्छादितः सौधतुल्यः ॥३४१॥
 
+
+
 स्थलजलजनिपुष्पैः पल्लवैः क्ÿप्त
 
 नानाभरणवसनशय्यासद्वितानादिपूर्णः ।
@@ -7746,6 +10114,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अरुणविषदपीतश्यामपद्मोत्पलाद्यैर्
 
 दिशि विदिशि सनालैः कल्पितानेकचित्रः ॥३४२॥
+
+
 
 जठरशरशलाकैः पल्लवैश्चित्रपुष्पैर्
 
@@ -7755,6 +10125,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मणिचयचितभूमिद्व्यष्टपत्राब्जमध्यः ॥३४३॥
 
+
+
 बहिरपि ततशाखाच्छादिताभिः समन्ताच्
 
 चतसृभिरभिताभिः वेष्टितो देहलीभिः ।
@@ -7762,6 +10134,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अनिशमिह विशाखाशिष्यया मञ्जुमुख्या
 
 रचननिपुणमत्या संस्कृतोऽध्यक्षयास्य ॥३४४॥
+
+
 
 शिवहरिति तटस्थोऽप्येष राधा बकारेर्
 
@@ -7771,6 +10145,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलसति स विशाखानन्ददः कुञ्जराजः ॥३४५॥
 
+
+
 विचित्रवृक्षवल्लीभिश्चित्ररत्नैश्चितान्तरः ।
 
 चित्रवर्णैः खगैर्भृङ्गैः कुट्टिमैः प्राङ्गणैर्वृतः ॥३४६॥
@@ -7778,6 +10154,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चित्रमण्डपसंयुक्तश्चित्रहिन्दोलिकान्वितः ।
 
 प्राच्यां चित्रानन्ददाख्यश्चित्रकुञ्जो विराजते ॥३४७॥
+
+
 
 स्फटिकैरिन्दुकान्तैश्च चितकुट्टिमचत्वरः ।
 
@@ -7794,6 +10172,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पूर्णेन्दुनामा कुञ्जोऽयमिन्दुलेखासुखप्रदः ।
 
 सुशुभ्रकेलितल्पादिराग्नेय्यां दिशि राजते ॥३५१॥
+
+
 
 हेमवल्लीवृतैर्हेमपुष्पकैश्छादितोऽभितः ।
 
@@ -7819,6 +10199,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दक्षिणे चम्पकलतानन्ददो हेमकुञ्जकः ॥३५७॥
 
+
+
 यत्र चम्पकवल्ल्याः सा निकुञ्जपाकशालिका ।
 
 आस्ते तद्शयोश्चित्रजग्धिवेदिकयान्विता ॥३५८॥
@@ -7839,6 +10221,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सर्वश्यामः श्यामकुञ्जो राधिकारतिवर्धनः ॥३६२॥
 
+
+
 रक्तवल्लीवृतो रक्तपुष्पपत्रैर्द्रुमैर्वृतः ।
 
 शोणरत्नचिताभ्यन्तः कुट्टिमाङ्गनमण्डपः ॥३६३॥
@@ -7846,6 +10230,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 रक्तहिन्दोलिकायुक्तः कृष्णेष्टः सर्वलोहितः ।
 
 तुङ्गविद्यानन्ददोऽस्ति पश्चिमेऽरुणकुञ्जकः ॥३६४॥
+
+
 
 हरिवल्लीवृक्षचित्रो हरित्पक्ष्यलिसंयुतः ।
 
@@ -7855,6 +10241,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुदेवीसुखदाभिख्यो हरित्कुञ्जो विराजते ॥३६६॥
 
+
+
 उपरि लहरीतुल्याकारचित्रैः स्फुरद्भिर्
 
 मरकतचयगर्भैः पुष्परागेन्दुकान्तैः ।
@@ -7862,6 +10250,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 घटितमितरलोके तोयवद्भासमानं
 
 मणिमयकुमुदाम्भोजालिहंसादियुक्तम् ॥३६७॥
+
+
 
 धनपतिदिशि तादृक्सेतुबन्धानुषक्तं
 
@@ -7871,6 +10261,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रदमतुल सुलावण्योल्लसल्लालसीति ॥३६८॥
 
+
+
 श्रीराधेव हरेस्तदीयसरसी प्रेष्ठाद्भुतैः स्वैर्गुणैर्
 
 यस्यां श्रीयुतमाधवेन्दुरनिशं प्रेम्ना तया क्रीडति ।
@@ -7878,6 +10270,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रेमास्मिन्बत राधिकेव लभते यस्मिन्सकृत्स्नानकृत्
 
 तत्तस्या महिमा तथा मधुरिमा केनास्तु वर्ण्यः क्षितौ ॥३६९॥
+
+
 
 प्रियाकुण्डं दृष्ट्वा मुदितहृदयोऽप्यस्य विविधैर्
 
@@ -7887,9 +10281,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रमानानोत्प्रेक्षां बकरिपुरमुष्मिन्स विदधे ॥३७०॥
 
+
+
 खेलच्चक्रयुगोरोजं फेणमुक्तास्रगुज्ज्वलम् ।
 
 रसोर्म्युच्चलितं मेने प्रियवक्षःसमं सरः ॥३७१॥
+
+
 
 मधुररसतरङ्गा बिभ्रती पङ्कजास्यं
 
@@ -7898,6 +10296,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रमुदितहरिणोच्चैर्हंसकारावरम्या
 
 प्रियतमसरसी सा प्रेयसीव व्यलोकि ॥३७२॥
+
+
 
 स्वप्रेष्ठारिष्टकुण्डोर्मिचञ्चद्बाहूपगूहिता ।
 
@@ -7911,6 +10311,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रोद्यत्कुट्टमिता तेन राधिकेव व्यलोकि सा ॥३७५॥
 
+
+
 समुद्भ्राम्यल्लीलाम्बुजमनिलजातोर्मिवलितं
 
 सरोयुग्मं वीक्ष्यानतशिरसि गोवर्धनगिरेः ।
@@ -7918,6 +10320,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निजप्रेमोद्घूर्णा स्खलितवपुषस्तस्य स हरिर्
 
 भ्रमत्तारं बाष्पोच्छलितमिव मेनेऽक्षियुगलम् ॥३७६॥
+
+
 
 इत्थं प्रियायाः स सरः समीक्ष्य तत्
 
@@ -7927,6 +10331,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदागमौत्सुक्यविभिन्नधैर्यकः ॥३७७॥
 
+
+
 प्रायेन एवंविधसन्निवेशकं
 
 ददर्श तत्पार्श्वगमात्मनः सरः ।
@@ -7935,6 +10341,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विराजितं नर्मसखालिनिर्मितैः ॥३७८॥
 
+
+
 प्रियनर्मवयस्या ये सुबलो मधुमङ्गलः ।
 
 उज्ज्वलार्जुनगन्धर्वा विदग्धभृङ्गकोकिलाः ॥३७९॥
@@ -7942,6 +10350,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दक्षसन्नन्दनाद्याश्च तेषां स्वस्वाभिधान्विताः ।
 
 तैर्विभज्यार्पिताः कुञ्जास्ते राधाललितादिषु ॥३८०॥
+
+
 
 वयोर्दिश्यस्ति सुबलानन्ददा कुञ्जशालिका ।
 
@@ -7963,6 +10373,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विस्तीर्णौ नृपशूनां स्तः स्नानपानार्थतीर्थगौ ॥३८५॥
 
+
+
 लीलानुकूलेषु जनेषु चित्ते
 
 षूत्पन्नभावेषु च साधकानाम् ।
@@ -7971,9 +10383,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वरूपतः प्राकृतवत्परेषु ॥३८६॥
 
+
+
 अथ वृन्दागतं वीक्ष्यानन्दिता नन्दनन्दनम् ।
 
 कर्णिकारावतंसौ द्वावभ्येत्योपजहार सा ॥३८७॥
+
+
 
 वृन्दा तत्तन्निजनिपुणतासंस्कृतं दर्शयन्ती
 
@@ -7983,6 +10399,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुण्डेशान्यां मदनसुखदाभिख्यकुञ्जं निनाय ॥३८८॥
 
+
+
 स तद्दृष्टातिहृष्टोऽभूत्तत्तत्स्थानेषु राधया ।
 
 कृतकर्तव्यलीलानां स्म्र्तिसङ्कल्पतत्परः ॥३८९॥
@@ -7990,6 +10408,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विशाखया मञ्जुमुख्या वृन्दया च सुमण्डितम् ।
 
 कुञ्जं विलोक्य तं प्रीतस्तामाहोत्कलिकाकुलः ॥३९०॥
+
+
 
 दिष्ट्या वृन्दे यदि तव सखी सागता स्यादकस्मान्
 
@@ -7999,6 +10419,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वैचित्री च त्वदुपरचिता कल्पते सत्फलाय ॥३९१॥
 
+
+
 सङ्केतकुञ्जमगतं तुलसीसकाशाच्
 
 छैब्यान्वितं च पथि मां नु निशम्य राधा ।
@@ -8007,6 +10429,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तामानयेदिह निवेद्य मम प्रवृत्तम् ॥३९२॥
 
+
+
 श्रीराधायाः सविध उभयीं माधवीयामवस्थां
 
 शंसन्त्युच्चैर्मदनविषमां लालसोद्दीपनां च ।
@@ -8014,6 +10438,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कुर्वाणैणां प्रणयविकलां व्याकुलां तृष्णयाद्धा
 
 तामानेतुं त्वरय ललितां मद्गिरा त्वं धनिष्ठे ॥३९३॥
+
+
 
 स्थापयैकां सखीं वृन्दे गोदिगध्वन्यसौ यथा ।
 
@@ -8027,6 +10453,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वीक्ष्याह वृन्दामनयोः फलैस्त्वं पूरयोदरम् ॥३९६॥
 
+
+
 बटुराहानया किं मे त्वमाज्ञापय मां सखे ।
 
 दृष्ट्वा दृष्ट्वा यथावाञ्छं खादंस्तृप्यामि लोलुपः ॥३९७॥
@@ -8034,6 +10462,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्र तत्र प्रहितयोः सख्योर्निपुणयोस्तया ।
 
 कृष्णोऽप्युत्कण्ठितोऽतिष्ठत्प्रियाध्वनिहितेक्षणः ॥३९८॥
+
+
 
 स्मितकमलमुखी सा यावदायाति तावत्
 
@@ -8043,17 +10473,31 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रणयिनि सहजेयं प्रेमभाजां हि चेष्टा ॥३९९॥
 
+
+
 इति श्रीभावनासारसङ्ग्रहे पूर्वाह्नलीलास्वादनानुमोदनो नाम
 
 तृतीयः सङ्ग्रहः
 
 ॥३॥
 
+
+
+
+
+
+
+
+
+
+
 श्रीश्रीभावसारसङ्ग्रहः (ईई)
 
 (४)
 
 अथ मध्याह्नलीला
+
+
 
 सहालिश्रीराधासहितहरिलीलां बहुविधां
 
@@ -8063,7 +10507,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शचीसूनुर्यस्तं भज मनस्त्वं बत सदा ॥१॥
 
+
+
 गोविन्दलीलामृत ८.१८—
+
+
 
 मध्याह्नेऽन्योन्यसङ्गोदितविविधविकारादिभूषाप्रमुग्धौ
 
@@ -8073,6 +10521,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधाकृष्णौ सतृष्णौ परिजनघटया सेव्यमानौ स्मरामि ॥२॥
 
+
+
 अथात्र घोषेश्वरनन्दनप्रिया
 
 पृथक्पृथक्सा युगपन्निजेन्द्रियैः ।
@@ -8080,6 +10530,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आकृष्टचित्ता प्रियसङ्गमौत्सुकैः
 
 स्वं सान्त्वयन्तीमवदद्विशाखिकाम् ॥३॥
+
+
 
 सौन्दर्यामृतसिन्धुभङ्गललनाचित्ताद्रिसम्प्लावकः
 
@@ -8089,6 +10541,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीगोपेन्द्रसुतः स कर्षति बलात्पञ्चेन्द्रियाण्यालि मे ॥४॥
 
+
+
 नवाम्बुदलसद्द्युतिर्नवतडिन्मनोज्ञाम्बरः
 
 सुचित्रमुरलीस्फुरच्छरदमन्दचन्द्राननः ।
@@ -8096,6 +10550,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मयूरदलभूषितः सुभगतारहारप्रभः
 
 स मे मदनमोहनः सखि तनोति नेत्रस्पृहाम् ॥५॥
+
+
 
 नदज्जलदनिस्वनः श्रवणकर्षिसच्छिञ्जितः
 
@@ -8105,6 +10561,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स मे मदनमोहनः सखि तनोति कर्णस्पृहाम् ॥६॥
 
+
+
 कुरङ्गमदजिद्वपुःपरिमलोर्मिकृष्टाङ्गनः
 
 स्वकाङ्गनलिनाष्टके शशियुताब्जगन्धप्रथः ।
@@ -8112,6 +10570,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मदेन्दुवरचन्दनागुरुसुगन्धिचर्चार्चितः
 
 स मे मदनमोहनः सखि तनोति नासास्पृहाम् ॥७॥
+
+
 
 हरिन्मणिकवाटिकाप्रततहारिवक्षःस्थलः
 
@@ -8121,6 +10581,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स मे मदनमोहनः सखि तनोति वक्षःस्पृहाम् ॥८॥
 
+
+
 व्रजातुलकुलाङ्गनेतररसालितृष्णाहर
 
 प्रदीव्यदधरामृतः सुकृतिलभ्यफेलालवः ।
@@ -8129,7 +10591,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स मे मदनमोहनः सखि तनोति जिह्वास्पृहाम् ॥९॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 एवं गदन्त्यां स्वमनोऽभिलाषं
 
@@ -8139,7 +10605,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वीथीं च तस्यामवलोकयन्त्याम् ॥१०॥
 
+
+
 कृष्णभावनामृत ८.३४—
+
+
 
 प्राहिनोन्मुरलिकां स्वदूतिकाम्
 
@@ -8149,7 +10619,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कण्ठमस्य कनकस्रजं यथा ॥११॥
 
+
+
 अलङ्कारकौस्तुभ ८.७२, चैतन्यचन्द्रोदयनाटकं ३.३३—
+
+
 
 मधुरिमरसवापीमत्तहंसी प्रजल्पः
 
@@ -8159,7 +10633,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जयति हृदयदंशी कोऽपि वंशीनिनादः ॥१२॥
 
+
+
 आनन्दवृन्दावनचम्पू १७.५०—
+
+
 
 स हरिमुरलिकाया निःस्वनोऽभूद्वधूनां
 
@@ -8168,6 +10646,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अविकलकुलशीलाचारचर्याभिचारो
 
 धृतिविघटनतन्त्रः कोऽपि मन्त्रः स्वतन्त्रः ॥१३॥
+
+
 
 (अज्ञातस्य)—
 
@@ -8179,13 +10659,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सखीसमूहं पुनराह राधा ॥१४॥
 
+
+
 विदग्धमाधवः १.३५—
+
+
 
 अजडः कम्पसम्पादी शास्त्रादन्यो निकृन्तनः ।
 
 तापनोऽनुष्णताधारी को वायं मुरलीरवः ॥१५॥
 
+
+
 विदग्धमाधवः ६.१२—
+
+
 
 सूतिस्ते धनुषश्च वंशवरतो वन्दे तयोरन्तिमं
 
@@ -8195,7 +10683,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रूरे वंशी न जीवनं न च मृतिर्घोराविरासीद्दशा ॥१६॥
 
+
+
 आनन्दवृन्दावनचम्पू ११.३४३६—
+
+
 
 सरन्ध्रा नीरन्ध्रा भवति मुखरागैर्मधुपतेः
 
@@ -8205,6 +10697,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वयं वंशे जाता विकलयति सद्वंशजवधूः ॥१७॥
 
+
+
 स्वयं शून्याप्यन्तर्बहु वहति रागव्यतिकरं
 
 दधात्येकं पर्व प्रकटयति पर्वाणि शतशः ।
@@ -8212,6 +10706,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कलान्धत्ते रम्यान्विकलयति जगदहो
 
 मुरारेर्वंशीयं जडयति समुल्लासयति च ॥१८॥
+
+
 
 कलोऽप्यस्याः विलसति विसारी त्रिभुवने
 
@@ -8221,7 +10717,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कदाचित्पीयूषं वितरति कदाचिद्विषमपि ॥१९॥
 
+
+
 बृहद्भागवतामृत २.६.४८—
+
+
 
 न जाने सा वंश्युद्गिरति गरलं वामृतरसं
 
@@ -8231,7 +10731,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  यतो जातोन्मादा मुमुहुरखिलास्ते व्रजजनाः ॥२०॥
 
+
+
 आनन्दवृन्दावनचम्पू ११.३२३३—
+
+
 
 बिम्बाधरारुणकराङ्गुलिकान्तिपूरैः
 
@@ -8241,6 +10745,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रागावलीं तनुमतीं वमतीव वंशी ॥२१॥
 
+
+
 स्फुरताधरपल्लवेन मन्दं
 
 विकसद्भिर्दशनांशुभिः स्मितेन ।
@@ -8249,7 +10755,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुरलीरन्ध्रमनेन चुम्ब्यमानम् ॥२२॥
 
+
+
 आनन्दवृन्दावनचम्पू ११.३७—
+
+
 
 अम्भः स्तम्भयति द्रुतं द्रवयति द्रागद्रिमद्रिं द्रवन्
 
@@ -8259,7 +10769,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आश्चर्यस्य निधानमेष जयति श्रीकृष्णवेणुध्वनिः ॥२३॥
 
+
+
 आनन्दवृन्दावनचम्पू ११.४०६२—
+
+
 
 धन्या धयन्ति मुखपङ्कजमस्य दृग्भ्यां
 
@@ -8269,6 +10783,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 येऽस्याधरं सुमुखि धन्यतमाः पिबन्ति ॥२४॥
 
+
+
 धन्यासि भो मुरलि यत्परिपीयमाना
 
 श्यामेन तद्दशनचन्द्रिकयासि दिग्धा ।
@@ -8276,6 +10792,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्निग्धा सती मणितवत्कलकूजितानि
 
 सन्तन्वती भुवनमुत्तरलीकरोषि ॥२५॥
+
+
 
 आपच्यमानदरदाडिमबीजराजि
 
@@ -8285,6 +10803,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दन्तावलिः किल तदस्य तुलां बिभर्ति ॥२६॥
 
+
+
 अत्यन्तसाहसवती मुरली यदेषा
 
 कृष्णाधरं पिबति यं परकीयपेयः ।
@@ -8292,6 +10812,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 किं सौभगं तदनयातनि येन रत्नं
 
 यत्नं विनापि पुरतः स्वयमेति यस्याः ॥२७॥
+
+
 
 यत्पीतशेषरसशीकरसम्प्रयोगान्
 
@@ -8301,6 +10823,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 माध्वीकलोचनजलाः परितो रुवन्ति ॥२८॥
 
+
+
 धन्या जयत्यपि मही महिता महिम्ना
 
 कृष्णस्य यच्चरणचिह्नविचित्रवक्षाः ।
@@ -8308,6 +10832,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वंशीरवामृतरसैः सरसान्तरेव
 
 याजस्रमेव यवसाङ्कुररोमहर्षा ॥२९॥
+
+
 
 वृन्दावनस्य महिमा न हि मादृशीनां
 
@@ -8317,6 +10843,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्पन्दं जहुस्तरुलता मरुता हताश्च ॥३०॥
 
+
+
 किं दुश्चरं चरितमालि तपो मृगीभिः
 
 पश्यन्ति याः समुरलीकलमास्यमस्य ।
@@ -8324,6 +10852,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अक्ष्णोः प्रकामकमनीयगुणत्वमेषां
 
 सा साम्प्रतं भवति सम्प्रति सम्प्रतीहि ॥३१॥
+
+
 
 सौभाग्यभागियमहो सखि कृष्णसारी
 
@@ -8333,6 +10863,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णास्यपङ्कजमशाङ्कितमापिबन्ती ॥३२॥
 
+
+
 धन्या विमानवनिता जनितानुरागा
 
 द्रागात्तगाढरतिभिः पतिभिः परीताः ।
@@ -8340,6 +10872,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लीलाकलक्वणितवेणुमवेक्ष्य कृष्णं
 
 धैर्यादथावरुरुहुर्मुमुहुर्मुहुश्च ॥३३॥
+
+
 
 विस्रंसमानचिकुराः श्लथमाननीव्यो
 
@@ -8349,6 +10883,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विस्मृत्य हन्त ववृषुर्नयनाम्भ एव ॥३४॥
 
+
+
 अर्धावलीढयवसाङ्कुरशोभिदन्ताः
 
 सोत्कण्ठमुन्मिषितनेत्रमुदीर्णकर्णम् ।
@@ -8356,6 +10892,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चित्रार्पिता इव पतन्तमिवामृतौघं
 
 वेणुध्वनिं श्रुतिपुटे गमयन्ति गावः ॥३५॥
+
+
 
 चूषन्ति चूचुकमहो न न सन्त्यजन्ति
 
@@ -8365,6 +10903,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्नेहस्नुतस्तनरसो धरयैव पीतः ॥३६॥
 
+
+
 वंशीकलं कलयतोऽस्य निपीय दृग्भ्यां
 
 रूपामृतं पुनरमुष्य रसानुभूत्या ।
@@ -8372,6 +10912,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ध्यायन्ति मीलितदृशः सखि बद्धमौनं
 
 बद्धासनं मुनय एव पतत्त्रिणोऽमी ॥३७॥
+
+
 
 न स्पन्दते सखि न रौति न वीक्षतेऽन्यन्
 
@@ -8381,6 +10923,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वंशीकलास्वदनमेव परं करोति ॥३८॥
 
+
+
 स्रस्ते रथाङ्गकलहंषविचित्रचेले
 
 प्रव्यक्तसैकतनितम्बमुदीर्णफेनम् ।
@@ -8388,6 +10932,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आवर्तवर्तितघनभ्रमिभिः समीयेऽ
 
 पस्मार एव मुरलीनिनदैर्नदीभिः ॥३९॥
+
+
 
 वीचीकरैः सरसिजाञ्जलिमर्पयन्त्यः
 
@@ -8397,6 +10943,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नादप्रहृष्टमनसःसखि शवलिन्यः ॥४०॥
 
+
+
 आच्छादयन्शरदशीतकरस्य तापं
 
 छत्रायितः स्ववपुषायमचेतनोऽपि ।
@@ -8404,6 +10952,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 संसर्पति प्रतिपथं परितः प्रसर्पन्
 
 मैत्रीं विभावयन्ति मेघरुचीह मेघः ॥४१॥
+
+
 
 कर्पूरपूरपरमाणुसमेन वारां
 
@@ -8413,6 +10963,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वंशीममुष्य घन एव निसर्गबन्धुः ॥४२॥
 
+
+
 स्निग्धेषु शाद्वलतलेषु पदारविन्द
 
 स्यन्दीनि वल्लभतमाकुचकुङ्कुमानि ।
@@ -8420,6 +10972,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वक्षुरुहेषु च मुखेषु च रूषयन्त्यो
 
 धन्याः पुलिन्दसुदृशः सुरसा भवन्ति ॥४३॥
+
+
 
 हन्ताधिकार्यनधिकारितया न भेदः
 
@@ -8429,6 +10983,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रागस्य च प्रकटने ह्ययमेव मार्गः ॥४४॥
 
+
+
 यः कन्दकन्दरपयःफलधातुरागैः
 
 क्रीडोपयोगिभिरसौ भजतेऽनुवेलम् ।
@@ -8436,6 +10992,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गोवर्धनो गिरिवरः स हि माघवस्य
 
 लीलासखश्च सखि भागवतोत्तमश्च ॥४५॥
+
+
 
 यस्याश्रमं कृतवतां सखि बद्धतृष्णः
 
@@ -8445,7 +11003,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 योग्याश्च तद्घटयितुं कुशला भवन्ति ॥४६॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 इत्थमेव मुरलीस्वनामृतं
 
@@ -8455,7 +11017,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ता मिथोऽपि परिवेशितं पपुः ॥४७॥
 
+
+
 गोविन्दलीलामृत ८.९३८—
+
+
 
 अथागत्य सा तुलसी सभां तां
 
@@ -8465,6 +11031,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृत्तं समस्तं मुदिता शशंसे ॥४८॥
 
+
+
 श्रवसोरवतंसकद्वयीं
 
 हृदि गुञ्जास्रजमप्यमुं शुभाम् ।
@@ -8472,6 +11040,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हरिसङ्गसमृद्धसौरभां
 
 प्रियसख्या ललिता मुदा दधे ॥४९॥
+
+
 
 तत्स्पर्शतः फुल्लसरोजनेत्रा
 
@@ -8481,17 +11051,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उत्कापि गन्तुं स्थगिता तदासीत॥५०॥
 
+
+
 धीरतावामतासूक्ष्ममेधालीभिः प्रबोधिता ।
 
 त्वरयन्ती सखीर्याने भङ्ग्या परिजहास सा ॥५१॥
+
+
 
 पश्यताग्रे दिदृक्सा चेद्गत्वालं मदपेक्षया ।
 
 शैब्या वाग्वागुराबद्धं कृष्णसारं मृगेक्षणाः ॥५२॥
 
+
+
 विधेयः पद्मिनीनां वः प्रयत्नः कृष्णपद्मिनः ।
 
 चन्द्रावलीसखीवारीपतितस्य समुद्धृतौ ॥५३॥
+
+
 
 न हठात्क्रियते सुपण्डितैर्
 
@@ -8501,6 +11079,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुधियां साधु फलोपपत्तये ॥५४॥
 
+
+
 ललिताह सत्यमेतद्यन्न सङ्केतगो हरिः ।
 
 किन्तु शैब्यादिभिर्वीतस्तद्यानं मानहानये ॥५५॥
@@ -8508,6 +11088,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अथेशा कृष्णसङ्गाशोत्कलिकाव्याकुलान्तरा ।
 
 तस्या दुर्लभतास्फूर्त्या मनस्येतदचिन्तयत॥५६॥
+
+
 
 ननान्दा विद्वेष्टि पतिरतिकटुः सापि कुटिला
 
@@ -8517,9 +11099,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृतः कृष्णो लभ्यः कथमिह भवेद्विघ्नबहुले ॥५७॥
 
+
+
 निष्प्रत्यूहं हरेः सङ्गो दुर्लभो मेऽद्य दुर्विधेः ।
 
 इत्याकुलधियस्तस्याः शुभासीच्छकुनोन्नतिः ॥५८॥
+
+
 
 सुलभो वृषभः स गिरौ कमपि
 
@@ -8529,6 +11115,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियसङ्गतयेऽस्फुरदाशु समम् ॥५९॥
 
+
+
 भविकशकुनजातामोदपूर्णापि गाढ
 
 प्रणयविसरजासम्भावनालीनचित्ता ।
@@ -8536,6 +11124,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हृदयदयितवार्ताप्राप्तितृष्णास्रवन्त्या
 
 सममहह धनिष्ठामागतां सा ददर्श ॥६०॥
+
+
 
 स्वमिलनमुदितां तां वीक्ष्य राधा धनिष्ठां
 
@@ -8545,6 +11135,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रवणकुतुकदिग्धा व्याजतस्तामपृच्छत॥६१॥
 
+
+
 कुत इह सखि वृन्दारण्यतो माधवश्रीः
 
 कथय किमनुभूता लोकिता गोत्रवर्यः ।
@@ -8552,6 +11144,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 व्रज धनजनपाता सङ्गतश्चेक्षितोऽसौ
 
 कथयतु भवती सा कीदृशी वा स कीदृक॥६२॥
+
+
 
 विकसितवनमालाकृष्टपुष्टालिवृन्दा
 
@@ -8561,9 +11155,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्फुरति सखि विशाला माधुरी माधवस्य ॥६३॥
 
+
+
 विविधोत्कलिकाकीर्णां दर्शनात्स्मरवर्धिनीम् ।
 
 माधवीयामवस्थां कः सखि वर्णयितुं क्षमः ॥६४॥
+
+
 
 धरोद्धर्ता धातूच्चयरचितचित्रावयववान्
 
@@ -8573,9 +11171,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विरावोच्चैः शृङ्गो लसति सखि गोवर्धनधरः ॥६५॥
 
+
+
 तद्वाग्भङ्गीमधुलीनां पानोन्मत्तहृदप्यसौ ।
 
 कान्तोदन्तं स्फुटं श्रोतुं संवादमनयाकरोत॥६६॥
+
+
 
 यानं क्व ते सम्प्रति ते समीपे
 
@@ -8585,6 +11187,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वशत्रुकन्दर्पतमोऽभिभूतिः ॥६७॥
 
+
+
 छायाद्वितीयोऽयमसौ सहायी
 
 निरायुधोऽयं स च शस्त्रपूर्णः ।
@@ -8592,6 +11196,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वरूपसम्पज्जयजातरोषस्
 
 तं बाधतेऽसौ स्वमधौ समृद्धः ॥६८॥
+
+
 
 समाच्छन्नं कुर्वन्नुपरि कुसुमैः स्वैरिव शरैः
 
@@ -8601,6 +11207,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बहिःस्थानीकिन्या इव स तव सङ्गं स्पृहयति ॥६९॥
 
+
+
 बहुधा कृतरक्षणं प्रियं
 
 पतितं दैवबलेन सङ्कटे ।
@@ -8609,9 +11217,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वरितं त्राहि न चेत्कृतघ्नता ॥७०॥
 
+
+
 त्वत्सङ्गत्या यदा भाति तदा मदनमोहनः ।
 
 अन्यत्र विश्वमोहोऽपि स्वयं मदनमोहितः ॥७१॥
+
+
 
 धृतानल्पाकल्पः कृतकुसुमतल्पो हृदि बलत्विकल्पः
 
@@ -8621,6 +11233,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हरिः कुञ्जे गुञ्जन्मधुपपिकपुञ्जे निवसति ॥७२॥
 
+
+
 नवीनजलदद्युतिः कनकपीतपट्टाम्बरः
 
 स्फुरन्मकरकुण्डलो घुसृणचारुचर्चाञ्चितः ।
@@ -8628,6 +11242,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रफुल्लकमलेक्षणः कनकयूथिकामाल्यवान्
 
 शिखण्डकृतशेखरः स्फुरति साध्वि कुञ्जे हरिः ॥७३॥
+
+
 
 श्रीतारुण्यमहामृताब्धिविलसत्सौन्दर्यपाथःस्फुरल्
 
@@ -8637,6 +11253,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तन्वानाशु निमज्जयन्नपि हरिस्त्वद्वीथिमुद्वीक्स्यते ॥७४॥
 
+
+
 बकभिदि सुविदग्धे स्वां सुवैदग्ध्य
 
 धारां नवतरुणिमपूर्णे नव्यतारुण्यलक्ष्मीम् ।
@@ -8645,9 +11263,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सफलय वरवेशे वेशभङ्गीं समर्प्य ॥७५॥
 
+
+
 प्रेमोद्भ्रान्तं द्रुतस्वान्तं स्मराक्रान्तं त्वदाश्रितम् ।
 
 मूर्च्छान्तां क्लान्तिमायान्तं कान्तं कान्ते द्रुतं व्रज ॥७६॥
+
+
 
 इति सखीवचनामृतपानज
 
@@ -8657,7 +11279,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्रुतविलम्बितयानमतिर्बभौ ॥७७॥
 
+
+
 कृष्णभावनामृत ८.३७—
+
+
 
 काननाभिसारणोचितांशुक
 
@@ -8667,7 +11293,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वेषमकृत स्वयं तनोः ॥७८॥
 
+
+
 अलङ्कारकौस्तुभः ५.१२३—
+
+
 
 अधात्काञ्चीं कण्ठे जघनभुवि हारं चरणयोः
 
@@ -8677,7 +11307,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रमादो व्यातेने प्रणयपिशुनः स्वस्वविभवैः ॥७९॥
 
+
+
 कृष्णभावनामृत ८.३८४०—
+
+
 
 गोस्तनाख्य मणिहार वेष्टनैर्
 
@@ -8687,6 +11321,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मूर्ध्निं वेणि शिखरे ललाटिकाम् ॥८०॥
 
+
+
 लोचने मृगमदद्रवाञ्जित
 
 भालमञ्जनविशेषकार्चिताम् ।
@@ -8694,6 +11330,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हन्त यावकरसेन निर्ममे
 
 स्थासकं तनुमनूदिताम्बर ॥८१॥
+
+
 
 नीलमञ्जुलनिचोलसंवृत
 
@@ -8703,7 +11341,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किं घनेन निहितात्मनोऽन्तरे ॥८२॥
 
+
+
 गोविन्दलीलामृत ३९४१—
+
+
 
 ततस्तदैवागतकुन्दवल्ल्याः
 
@@ -8713,9 +11355,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 परेण लीलाकमलं चचाल ॥८३॥
 
+
+
 पुरतस्तुलसी धनिष्ठया सविशाखा ललिता च पार्श्वतः ।
 
 परितश्च सखीततिः परा स्वसखीं तां परिवार्य सान्वयात॥८४॥
+
+
 
 स्वसमसहचरीभिः कृष्णराधाङ्घ्रि
 
@@ -8725,7 +11371,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रणयसहचरी तां मञ्जरी रूपपूर्वा ॥८५॥
 
+
+
 कृष्णभावनामृत ८.४१—
+
+
 
 आलीभिः सह पुरोपकानन
 
@@ -8735,7 +11385,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुक्तमास्य कमलं दधे स्फुटम् ॥८६॥
 
+
+
 गोविन्दलीलामृत ८.४२४४—
+
+
 
 व्रजाद्विनिष्क्रम्य ददर्श सा पुरः
 
@@ -8745,6 +11399,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सवत्सं वृषभं च दक्षिणे ॥८७॥
 
+
+
 सरसि विकचपद्मे वेष्टिते भृङ्गपङ्क्त्या
 
 मदिरयुगलमुद्यल्लास्यमालोक्य बाला ।
@@ -8752,6 +11408,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रचलदलकपाली सङ्गिरिङ्गत्सुनेत्र
 
 स्वरमणमुखबिम्बभ्रान्तिभाक्स्तम्भितासीत॥८८॥
+
+
 
 इति शुभशकुनेक्षोद्भूतमुन्मन्थराणां
 
@@ -8761,7 +11419,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मदगजगुरुयाना काननाभ्यर्णमाप ॥८९॥
 
+
+
 जगन्नाथवल्लभनाटक १.३७
+
+
 
 केलिविपिनं प्रविशति राधा ।
 
@@ -8775,7 +11437,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रामानन्दरायकविगदितम् ॥९०॥
 
+
+
 गोविन्दलीलामृत ८.४५४८—
+
+
 
 इयमथ तरुवल्लीवृन्दमुत्फुल्लयन्ती
 
@@ -8785,6 +11451,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वनमनु वनजाक्षी माधवश्रीर्विवेश ॥९१॥
 
+
+
 फुल्लश्यामलतोज्ज्वलं सुतिलकश्रीयुक्विशालार्जुन
 
 प्रोत्फुल्लोच्चहलिप्रियं शिखिदलश्रेणीभिराभूषितम् ।
@@ -8792,6 +11460,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पुन्नागामलचम्पकालिकृतमालालङ्कृतं पल्लवैर्
 
 दीव्यत्काञ्चनविद्रुमादिवलितं तापिञ्छकान्त्युल्लसत॥९२॥
+
+
 
 गुञ्जापुञ्जविराजितं श्रमहरच्छायाकदम्बाश्रयं
 
@@ -8801,6 +11471,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सापश्यत्पुरतो वनं वपुरिव प्रेष्ठस्य सर्वेष्टदम् ॥९३॥ (युग्मकम्)
 
+
+
 पतति नयनमस्या यत्र यत्रात्र वस्तुन्य्
 
 अखिलमिदमघारेस्तत्तदङ्गायमानम् ।
@@ -8809,7 +11481,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रहरति विषमेषोश्चित्रमेतच्च तच्च ॥९४॥
 
+
+
 वनस्य कान्तसादृश्यं पश्यन्तीं विहस्तां तां वयस्याह (चैतन्यचन्द्रोदय १.३५)—
+
+
 
 हसन्ती वासन्ती वलितमुकुलो बालबकुलो
 
@@ -8819,7 +11495,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुटीरः पाटीरश्वसनसुरभिर्भाति सुरभिः ॥९५॥
 
+
+
 अथ कान्तस्य चरणचिह्नैरङ्कितां वनस्थलीं पश्यन्ती सा विशाखामाह (दानकेलिकौमुद्यां १३)—
+
+
 
 पदततिभिरलङ्कृतोज्ज्वलेयं
 
@@ -8829,7 +11509,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किमपि धिनोति धुनोति चान्तरं मे ॥९६॥
 
+
+
 गोविन्दलीलामृत ८.५२७१—
+
+
 
 यूथेश्वरीभिः ससखीकुलाभिर्
 
@@ -8839,6 +11523,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्राप्ताः कथं हास्यति वा स लुब्धः ॥९७॥
 
+
+
 इति निजहृदि राधासन्दिहानाप्यसव्ये
 
 वनमनु विलसन्तं कृष्णसारं मृगीभिः ।
@@ -8846,6 +11532,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शिखिवरमपि सव्ये केकिनीभिः समीक्ष्य
 
 प्रियमृगशिखिबुद्ध्या भ्रान्तितः शङ्कितासीत॥९८॥ (युग्मकम्)
+
+
 
 तमालमष्टापदबद्धमूलं
 
@@ -8855,9 +11543,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्णीतचेता विचिकित्सिताभूत॥९९॥
 
+
+
 प्रेमेर्ष्याभुजगी दष्टा नष्टपण्डा प्रचण्डधीः ।
 
 चण्डीशचण्डकोदण्डभ्रूदण्डाह धनिष्ठिकम् ॥१००॥
+
+
 
 किमिदमयि धनिष्ठे कुत्र किं पश्यताग्रे
 
@@ -8867,6 +11559,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कलयसि न हि धूर्ते मुद्रिताक्षी किमासीः ॥१०१॥
 
+
+
 ललिताप्रभृतीरथावदत्
 
 प्रियसख्योऽद्भुतमत्र शर्मदम् ।
@@ -8874,6 +11568,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 युगपन्नटनं शठेशयोर्
 
 नटनट्योरनयोर्नु पश्यत ॥१०२॥
+
+
 
 निजवाङ्मधुना विमोहिका
 
@@ -8883,6 +11579,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विहितासौ बत कूटनर्तकी ॥१०३॥
 
+
+
 रतहिण्डकहिण्डितासकौ
 
 छलदूत्याभिधनृत्यपण्डिता ।
@@ -8890,6 +11588,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नयतीह विधातुमुत्सुका
 
 शठनृत्ये भवतीः सभासदः ॥१०४॥
+
+
 
 कलयत स सुरङ्गाख्योऽपि जात्या कुरङ्गः
 
@@ -8899,6 +11599,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ननु हरिशठतास्मिन्सङ्गतः संससर्ज्ज ॥१०५॥
 
+
+
 मत्सङ्गिनीं प्रणयिणीं दयितां मयूरीं
 
 वीक्ष्यापि सम्मुखगतां बत केकिनीभिः ।
@@ -8906,6 +11608,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निःशङ्कमुल्लसति ताण्डविकः कलापी
 
 सङ्गेन धार्ष्ट्यमिह सङ्क्रमितं बकारेः ॥१०६॥
+
+
 
 अथावदत्स्मेरमुखी धनिष्ठा
 
@@ -8915,9 +11619,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रीताः स्म दृष्ट्वा यददृष्टपूर्वम् ॥१०७॥
 
+
+
 दुर्लभे सुलभे चार्थे यत्रासक्तिस्तु रागजा ।
 
 तत्र नित्यं रागभाजां प्रत्यूहशङ्किनी मतिः ॥१०८॥
+
+
 
 आगच्छताल्योऽद्भुतनृत्यम्
 
@@ -8927,6 +11635,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गुणिन्यलं रज्यति यद्गुणज्ञः ॥१०९॥
 
+
+
 अथ सा स्मित संवृताननं
 
 स्वसखीवृन्दमवेक्ष्य विस्मिता ।
@@ -8934,6 +11644,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पुनरप्यवलोकनाल्पता
 
 तरुसङ्गं त्ववधार्य लज्जिता ॥११०॥
+
+
 
 इत्थं माधवसङ्गरङ्गविकसद्वृन्दावनालोकनात्
 
@@ -8943,9 +11655,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्कृष्णाप्तिसमुत्सुका विजहसुः सख्यश्चलन्त्यो द्रुतम् ॥१११॥
 
+
+
 मदनरणबाटिकाख्यप्रियकेलिकुसुमवनस्य मध्ये ।
 
 सा कुञ्जस्थितरविमूर्तेः सविधं समुपस्थिताकस्मात॥११२॥
+
+
 
 प्रणम्य तां भक्तिभरेन
 
@@ -8955,13 +11671,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सङ्गोऽस्तु मे देव भवत्प्रसादात॥११३॥
 
+
+
 प्रतिमाफुल्लदृग्वक्त्रप्रसादोत्फुल्लमानसा ।
 
 पुनस्तां प्रणिपत्येयं सखीभिः सह निर्गता ॥११४॥
 
+
+
 श्रीसूर्यपूजासम्भारसहिते परिचारिके ।
 
 स्थिते तत्रैव तद्वाटीदेवीभिर्ललिताज्ञया ॥११५॥
+
+
 
 दिशि दिशि विसरन्तीं श्रीमदङ्गान्मुरारेर्
 
@@ -8971,7 +11693,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सपदि तमनु भृङ्गीवोत्पतिष्णुस्तदासीत॥११६॥
 
+
+
 कान्ताङ्गगन्धं प्राप्योल्लासेन साह (उज्ज्वलनीलमणि ११.६८)—
+
+
 
 मिलति परिमलोर्मिः कस्य रोमश्रियासौ
 
@@ -8981,7 +11707,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भुवि सुरभितया यः ख्यातिमङ्गीकरोति ॥११७॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 किं वा तपः कृतमहो ननु गन्धवाह
 
@@ -8991,7 +11721,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्पर्शं निजाङ्गनिकरैः कुरुषे मनोज्ञैः ॥११८॥
 
+
+
 गोविन्दलीलामृत ८.७२७३—
+
+
 
 कृष्णः कान्तातनुसुरधुनीसौरभोच्छामृतोर्मि
 
@@ -9001,11 +11735,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आघ्रायासीत्पुलकजटिलो भृङ्गवत्प्रोत्पतिष्णुः ॥११९॥
 
+
+
 परिमलमिलनान्मिलितां वनमनुदयितां दवीयसीं मत्वा ।
 
 हरिणा प्रहिता वृन्दा तामानेतुं समुत्सुकेन ॥१२०॥
 
+
+
 पाथि व्रजन्त्या वृन्दाया मानसविचारोऽयं (दानकेलिकौमुदी १२)—
+
+
 
 राधाया मुखमण्डलेन बलिना चन्द्रस्य पद्मस्य वा
 
@@ -9015,7 +11755,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  पद्माली च विसृज्य शीर्यति निजां सौन्दर्यदर्पश्रियम् ॥१२१॥
 
+
+
 गोविन्दलीलामृतं ८.७४७७—
+
+
 
 कुञ्जे नवाख्यमथ कुञ्जनृपस्य धाम
 
@@ -9025,9 +11769,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वाभीष्टसिद्धिमिव मूर्तिमतीं पुरः सा ॥१२२॥
 
+
+
 कृष्णोत्तंसचरं तस्यै वृन्दापीन्दीवरद्वयं
 
 तदङ्गसङ्गगन्धान्धी कृतपुष्पन्धयं ददौ ॥१२३॥
+
+
 
 तत्स्पर्शसौरभ्यमवाप्य कृष्णो
 
@@ -9037,6 +11785,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 संवादमुत्काशु तया व्यधत्त ॥१२४॥
 
+
+
 कस्माद्वृन्दे प्रियसखि हरेः पादमूलात्कुतोऽसौ
 
 कुण्डारण्ये किमिह कुरुते नृत्यशिक्षां गुरुः कः ।
@@ -9045,7 +11795,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शैलूषीव भ्रमति परितो नर्तयन्ती स्वपश्चात॥१२५॥
 
+
+
 मृषाभाषिणि ! एवं मा वदेति राधावाक्यानन्तरं वृन्दाह (उज्ज्वलनीलमणि १.२७)—
+
+
 
 वैदग्धीनिकुरम्बचुम्बितधियः सौन्दर्यसारोज्ज्वलाः
 
@@ -9055,7 +11809,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेङ्खन्ती न परासु यन्मधुरिपोर्दृष्टात्र दृष्टिर्मया ॥१२६॥
 
+
+
 गोविन्दलीलामृतं ८.८०१०९—
+
+
 
 तद्वार्तया नः किमिहास्त्यरिष्ट
 
@@ -9065,6 +11823,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मित्रं समभ्यर्च्य गृहं प्रयामः ॥१२७॥
 
+
+
 क्व यानं ते वृन्दे तव चरणराजीवसविधे
 
 किमर्थं ते राज्याद्भुतभविकविज्ञापनकृते ।
@@ -9072,6 +11832,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वदैतत्किं श्रीमाधवसुविभवालङ्कृतमिदं
 
 मुहुर्वृन्दारण्यं लसति भवदालोकनकृपाम् ॥१२८॥
+
+
 
 अथावदत्कुन्दलता प्रगल्भा
 
@@ -9081,6 +11843,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निजार्यया कृष्णसशङ्कयेयम् ॥१२९॥
 
+
+
 पातालगङ्गाजलजेऽरिष्टमर्दि सरस्यमूम् ।
 
 संस्नाप्य निभृतं नेष्ये पूजायै सूर्यवेदिकाम् ॥१३०॥
@@ -9088,6 +11852,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 न यामस्तत्र चेत्कृष्णो मनोगङ्गामयामहे ।
 
 कृष्णगन्धि दिश्यसौ यन्न नेया जटिलाज्ञया ॥१३१॥
+
+
 
 वृन्दाब्रवीत्कुन्दलते किमर्थं
 
@@ -9097,6 +11863,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गता अपि द्रक्ष्यति वः स नैव ॥१३२॥
 
+
+
 कृष्णः कान्तासरसि मदनोद्घूर्णितात्मास्ति कुञ्जे
 
 यूयं वासन्तिकवनपथा पूर्वतः सुष्ठु गत्वा ।
@@ -9104,6 +11872,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तीर्थे पादाम्बुजरसमयेऽरिष्टहन्तुः प्रशस्ते
 
 स्नात्वा कामं व्रजत निभृतं साध्वि केनाप्यदृष्टाः ॥१३३॥
+
+
 
 अवदल्ललिता कुन्दलते किं निजदेवरात।
 
@@ -9113,6 +11883,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्नात्वा पुनः समेष्यामः किं नः कृष्णः करिष्यति ॥१३५॥
 
+
+
 स्त्रीणां स्वैरं क्रीडनस्थानतो नः
 
 पुम्भिर्द्रष्टुं स्थातुमप्यत्ययोग्यात।
@@ -9120,6 +11892,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तूर्णं वृन्दे याहि निःसारयामुं
 
 गोपातुर्वा तत्र किं कार्यमस्य ॥१३६॥
+
+
 
 अहमतिमृद्वी हरिरतिचण्डः
 
@@ -9129,13 +11903,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यदसि प्रखरा गुरुरतिचण्डी ॥१३७॥
 
+
+
 कुन्दवल्ल्याह वृन्दे त्वं भ्रान्ता चण्ड्यानया कथम् ।
 
 स निष्कास्यः पशुपतिर्व्याप्यमर्धाङ्गमस्य तु ॥१३८॥
 
+
+
 वृन्दाहाप्तसुभद्रश्रीः कुन्दवल्ल्येव दृश्यते ।
 
 मधुसूदनसम्भोग्या पुन्नागाङ्गाश्रयोन्मुखी ॥१३९॥
+
+
 
 स्मेरासु सर्वास्ववदद्विलोक्य
 
@@ -9145,6 +11925,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णस्य तृष्णां विनिवेदयन्ती ॥१४०॥
 
+
+
 मत्प्रश्नमेकं ललिते वद द्रुतं
 
 कादम्बिनीं वीक्ष्य दिगन्त उद्गताम् ।
@@ -9153,6 +11935,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समीरणाल्याः करणीयमाशु किम् ॥१४१॥
 
+
+
 दिशि दिशि निशि चाह्नि प्रस्फुरन्ति प्रचण्डा
 
 अविरतगतिकाली प्रेष्यमाणाः पुरोऽमुम् ।
@@ -9160,6 +11944,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नवनवरसपूरैः कालिकाः सेचयन्त्यो
 
 न भवति परमेको प्रेक्षणीयास्य सैव ॥१४२॥
+
+
 
 स चेत्तदेकनिष्ठः स्यात्सापि तां त्वरितं तदा ।
 
@@ -9173,6 +11959,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुरुताल्यो मित्रपूजां तिष्ठाम्यत्रास्ति मे कृतिः ॥१४५॥
 
+
+
 यातासु तासु लघुसूक्ष्मधियं शुभां
 
 च सा शारिके सुचतुरा न्यदिशत्प्रवृत्त्यै ।
@@ -9180,6 +11968,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आद्यां व्रजाय सुतरामभिमन्युमातुश्
 
 चन्द्रावलेरथ परां गिरिजालयाय ॥१४६॥
+
+
 
 सेवासम्भारसंस्कारागारमागत्य वीक्ष्य तान।
 
@@ -9197,6 +11987,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नन्दितांस्त्वरितांश्चक्रे तयोरागतिर्वार्तया ॥१५०॥
 
+
+
 तयोर्मिथोदर्शनलब्धिराका
 
 समुच्छलद्भावचयामृताब्धौ ।
@@ -9205,9 +11997,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्थिता हरेः सन्निधिकुञ्जलीना ॥१५१॥
 
+
+
 तावन्नान्दीमुखी तासां पश्चादागत्य सोत्सुका ।
 
 तयोर्लीलावलोकाय स्थिता सा वृन्दया सह ॥१५२॥
+
+
 
 कृष्णोऽप्याराद्बकुलविटपिश्रेणी युग्मान्तराध्वन्य्
 
@@ -9217,6 +12013,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्फूर्त्या तस्यास्तदभिगमने यन्मुहुर्वञ्चितोऽस्ति ॥१५३॥
 
+
+
 कान्तापि कान्तमवलोक्य चमत्कृतात्मा
 
 तं भूरिभावविवशा न हि निश्चिकाय ।
@@ -9225,9 +12023,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रलापादालीकुलस्य हसितैरतिलज्जितासीत॥१५४॥
 
+
+
 मिथस्तत्तद्गुणानन्त्यानुभवाक्रान्तमानसौ ।
 
 दर्शनानन्दमत्तौ तौ सवितर्कं तदोचतुः ॥१५५॥
+
+
 
 किं कान्तेः कुलदेवता किमुत वा तारुण्यलक्ष्मीरियं
 
@@ -9237,7 +12039,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कान्तासावुत वा ममेन्द्रियगणानाह्लादयन्त्यागताः ॥१५६॥
 
+
+
 चैतन्यचन्द्रोदय ३.६४—
+
+
 
 उत्कीर्णा किमु चारु कारुपतिना कामेन किं चित्रिता
 
@@ -9247,7 +12053,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वैचित्रं जनयत्यहो अहरहर्दृष्टाप्यदृष्टेव मे ॥१५७॥
 
+
+
 अलङ्कारकौस्तुभः २.१७—
+
+
 
 उत्कीर्णैरिव चित्रितैरिव नवोभिन्नैरिवोद्यद्वयः
 
@@ -9257,7 +12067,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 केयं केलिकलानिधिः सुबल मे चेतो हरत्यङ्गकैः ॥१५८॥
 
+
+
 गोविन्दलीलामृत ८.११०—
+
+
 
 या मे नेत्रचकोरचन्द्रवदना नासालिनी पद्मिनी
 
@@ -9267,7 +12081,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सैवेयं दयितोदिता फलितवान्मद्भाग्यकल्पद्रुमः ॥१५९॥
 
+
+
 चैतन्यचन्द्रोदय ३.५१—
+
+
 
 अञ्जनी मृगदृशो दृगञ्चलः
 
@@ -9277,7 +12095,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वस्त्रपूत इव चन्द्रमो द्रवः ॥१६०॥
 
+
+
 उज्ज्वलनीलमणि ११.७६—
+
+
 
 रचितशिखरशोभारम्भमम्भोरुहाक्षी
 
@@ -9287,7 +12109,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मम मनसि विलग्ना दर्शनादेव राधा ॥१६१॥
 
+
+
 गोविन्दलीलामृत ८.१११११४—
+
+
 
 तापिञ्छः किं किमु जलधरः कन्दलो वैन्द्रनीलः
 
@@ -9297,6 +12123,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुञ्जीभूतो व्रजमृगदृशां किं न्वपाङ्गावलोकः ॥१६२॥
 
+
+
 अयं किं कन्दर्पः स खलु वितनुः किं नु रसराट्
 
 स नो धर्मी किंवामृतरसनिधिः सोऽतिविततः ।
@@ -9304,6 +12132,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 किमुत्फुल्लप्रेमामरतरुवरः सोऽपि न चरः
 
 स वासौ मत्प्रेयान्जयति मम भाग्यं क्व नु तथा ॥१६३॥ (युग्मकम्)
+
+
 
 कान्तः सोऽयं स्फुरति पुरतो नेत्रभृङ्गारविन्दं
 
@@ -9313,6 +12143,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आलीहासैश्चपलनयनां तामवादीद्मुदासौ ॥१६४॥
 
+
+
 कस्तूर्याः सत्तिलकमलिके यस्तवोरोजयुग्मे
 
 चित्रं बिन्दुः सुमुखि चिबुके नेत्रयुग्मेऽञ्जनश्रीः ।
@@ -9321,7 +12153,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सोऽयं कान्तः स्फुरति सखि ते भाग्यराशिर्व्रजामुम् ॥१६५॥
 
+
+
 गीतगोविन्द ११.३२—
+
+
 
 अतिक्रम्यापाङ्गं श्रवणपथपर्यन्तगमन
 
@@ -9331,7 +12167,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पपात स्वेदाम्बुप्रसर इव हर्षाश्रुनिकरः ॥१६६॥
 
+
+
 ललितमाधव ४.१२—
+
+
 
 निजमधुरिममुद्राम्लापितेन्दीवरश्रीर्
 
@@ -9341,7 +12181,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मधुरिपुरपि येन क्रीडया निर्जितोऽभूत॥१६७॥
 
+
+
 तुलसीवाक्यस्मरणेन विवर्तितमुखीं तां सख्याह (उज्ज्वलनीलमणि ७.५१)—
+
+
 
 चित्रं गौरि विवर्तते भ्रमिकरी विश्रम्य विश्रम्य ते
 
@@ -9351,7 +12195,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गान्धर्वे मधुसूदनस्य नितरां स्वस्याप्यभूद्विस्मृतिः ॥१६८॥
 
+
+
 ललितमाधव ४.२८—
+
+
 
 जङ्घाधस्तटसङ्गिदक्षिणपदं किञ्चिद्विभुग्नत्रिकम्
 
@@ -9361,7 +12209,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रिङ्गद्भ्रूभ्रमरं वराङ्गि परमानन्दं पुरः स्वीकुरु ॥१६९॥
 
+
+
 चैतन्यचन्द्रोदय ३.३९—
+
+
 
 नवजलधरधामा कोटिकामाभिरामः
 
@@ -9371,7 +12223,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दशनकुसुमकान्तिश्रान्तिबिम्बाधरौष्ठः ॥१७०॥
 
+
+
 ललितमाधव १.२७—
+
+
 
 बिभ्रन्नीलच्छविमविषमामग्रहस्तेन यष्टिं
 
@@ -9381,7 +12237,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आभीरीणामिह विहरति प्रेमलक्ष्मीविवर्तः ॥१७१॥
 
+
+
 दानकेलिकौमुदी १९—
+
+
 
 सरोजानां पुञ्जे मदकलममुं पश्यत पुरः
 
@@ -9391,7 +12251,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निरुद्धानो ध्वानोद्धतिविधूतमूर्द्धा विहरति ॥१७२॥
 
+
+
 कृष्णकर्णामृत १.८६—
+
+
 
 करौ शरदिज्याम्बुजक्रमविलासशिक्षागुरू
 
@@ -9401,7 +12265,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलोकय विलोचनामृतमहो महः शैशवम् ॥१७३॥
 
+
+
 चैतन्यचन्द्रोदय ३.५०—
+
+
 
 श्यामीकरोति भुवनं वपुषा दिगन्तान्
 
@@ -9411,7 +12279,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दृष्ट्या नभोऽम्बुजमयी कुरुते किमेतत॥१७४॥
 
+
+
 सखीवचनात्शान्तचित्ता सस्पृहं पश्यन्ती सा आह, कृष्णकर्णामृत १.८८—
+
+
 
 तदुच्छ्वसितयौवनं तरलशैशवालङ्कृतं
 
@@ -9421,7 +12293,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जगत्त्रयमनोहरं जयति मामकं जीवितम् ॥१७५॥
 
+
+
 ललितमाधव ४.१८—
+
+
 
 नवमुरलिमरालीहारिहस्तारविन्दः
 
@@ -9431,7 +12307,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मदयति हृदयं मे श्यामिकानां विलासः ॥१७६॥
 
+
+
 दानकेलिकौमुदी २७२९—
+
+
 
 समस्तजगतीभुवां मृगदृशामभीष्टाशिषः
 
@@ -9441,6 +12321,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रतप्रणयिनोरसा रसिकमौलिरुद्भासते ॥१७७॥
 
+
+
 प्रपन्नः पन्थानं हरिरसकृदस्मन्नयनयोर्
 
 अपूर्वोऽयं पूर्वं क्वचिदपि न दृष्टो मधुरिमा ।
@@ -9448,6 +12330,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रतीकेऽप्येकस्य स्फुरति मुहुरङ्गस्य सखि या
 
 श्रियस्तस्याः पातुं लवमपि समर्था न दृगियम् ॥१७८॥
+
+
 
 यदा यदा पश्यसि माधवं पुरस्
 
@@ -9457,7 +12341,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रागोन्मदे विस्मयतः किमक्षिणी ॥१७९॥
 
+
+
 गोविन्दलीलामृतं ८.११५—
+
+
 
 इत्थं मिथो दर्शनतो विशुद्ध
 
@@ -9467,13 +12355,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षणं न काञ्चित्ययतुः प्रवृत्तिम् ॥१८०॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
  भावाकृआन्ततया तौ तु बहिर्वृत्तिपराङ्मुखौ ।
 
  जिजल्पिषा दिदृक्षा च स्रस्तचित्तौ व्यधान्मिथः ॥१८१॥
 
+
+
 गोविन्दलीलामृत ९.१११९—
+
+
 
 पुरः कृष्णालोकात्स्थगितकुटिलास्या गतिरभूत्
 
@@ -9483,6 +12379,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलासाख्यस्वालङ्करणवलितासीत्प्रियमुदे ॥१८२॥
 
+
+
 आकृष्टा पुरतस्तदोत्सुकतया सख्येव सा लज्जया
 
 पश्चाद्वामतयानृजुप्रणयतः सव्ये स्वगेहाध्वनि ।
@@ -9491,9 +12389,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 इत्थं भावचयोद्गतिप्रचलिता कृष्णस्य सासीन्मुदे ॥१८३॥
 
+
+
 इत्थं कृष्टा प्रियाग्रे सा बलिष्ठाभिः समन्ततः ।
 
 मनोवृत्तिवयस्याभिर्न निर्याता न च स्थिता ॥१८४॥
+
+
 
 ह्रिया तिर्यग्ग्रीवाचरणकटिभङ्गीसुमधुरा
 
@@ -9503,9 +12405,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियप्रीत्यै सासीदुदितललितालङ्कृतियुता ॥१८५॥
 
+
+
 हरिमानसनटवर्ये राधातनुनर्तकीगुणैस्तोषात।
 
 गतवति तां परिरब्धुं तत्तनुनट्यपि तदनुगता जाता ॥१८६॥
+
+
 
 व्यत्यस्ताकल्पगात्री द्रुतमभिसरणावेशतस्त्वं प्रिये तच्
 
@@ -9515,6 +12421,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लोलाक्षी विभ्रमालङ्कृतिरुचिरतनुस्तस्य तुष्टिं व्यतानीत॥१८७॥
 
+
+
 ह्रिया भिया वामतयावहित्थया
 
 कृतावकर्षा कुसुमग्रहाय सा ।
@@ -9522,6 +12430,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तिरश्चलन्ती हरिणोत्कचेतसा
 
 पुरो निरुद्धा मुमुदे चुकोप च ॥१८८॥
+
+
 
 बाष्पव्याकुलितारुणाञ्चलचलन्नेत्रं रसोल्लासितं
 
@@ -9531,6 +12441,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आनन्दं तमवाप कोटिगुणितं योऽभून्न गीर्गोचरः ॥१८९॥
 
+
+
 अथ सा सविधस्थकेशर
 
 द्रुमशाखां मुकुलाकुलामनु ।
@@ -9539,7 +12451,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुसुमादानमिषादुदक्षिपत॥१९०॥
 
+
+
 अलङ्कारकौस्तुभ ८.२२?
+
+
 
 प्रियालोके राधा कुसुमचयने कौतुकवती
 
@@ -9549,7 +12465,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 परावृता पश्यत्यधृतवसनापि व्रततिभिः ॥१९१॥
 
+
+
 उज्ज्वलनीलमणि १५.२४०—
+
+
 
 अयि ज्ञातं ज्ञातं हरसि हरिणाक्षि प्रतिदिनं
 
@@ -9559,7 +12479,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गुहाकारामारात्प्रविश वसतिं प्रौढिभिरलम् ॥१९२॥
 
+
+
 स्तवमाला, स्वयमुत्प्रेक्षितलीला ६—
+
+
 
 सा पृथुवेपथुदोलितहस्ता
 
@@ -9569,7 +12493,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्र पुरः प्रससार वनान्ते ॥१९३॥
 
+
+
 अलङ्कारकौस्तुभ ५.११२—
+
+
 
 सख्यैकया मूर्ध्नि धृतांशुकाञ्चला
 
@@ -9579,7 +12507,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चिनोति मन्दं कुसुमानि राधिका ॥१९४॥
 
+
+
 कृष्णाह्निककौमुदी ४.४२५२—
+
+
 
 एतदीयकुसुमं सखि हेयं
 
@@ -9589,6 +12521,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पाणिनेत्युपजहास विशाखा ॥१९५॥
 
+
+
 शुक्लपक्षनिभपुष्पविशेषा
 
 कृष्णपक्षसरसा कथमेषा ।
@@ -9596,6 +12530,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मद्विइयोगसहिष्णुरियं माम्
 
 आरुणद्धि मम कौतुककामा ॥१९६॥
+
+
 
 मुग्ध एति मधुपो मुखचन्द्रं
 
@@ -9605,6 +12541,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्यामलस्य चरितं नहि भव्यम् ॥१९७॥
 
+
+
 त्वादृशां मुखसरोजसमाजे
 
 सुस्मिते सति कथं द्विजराजे ।
@@ -9612,6 +12550,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हन्त गन्धरहिते कथमस्य
 
 स्वाद एष भविता मधुपस्य ॥१९८॥
+
+
 
 पुष्पितां स्पृशति कोऽपि न लोके
 
@@ -9621,6 +12561,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्पृश्यतां वहति कोमलपत्रा ॥१९९॥
 
+
+
 पुष्पवत्यपि पवित्रतमैषा
 
 काननेऽत्र लतिकालिरशेषा ।
@@ -9628,6 +12570,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यां स्पृशन्ननिल एष पुनीते
 
 विश्वमेव दुरितं च धुनीते ॥२००॥
+
+
 
 आलि पुष्पितमशोकमुदारं
 
@@ -9637,6 +12581,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बिभ्रति व्रजजनाः परभागम् ॥२०१॥
 
+
+
 नामतोऽपि सखि विद्धि पुमांसं
 
 न स्पृशामि पुरुषत्वकृतांशम् ।
@@ -9644,6 +12590,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वञ्जुलोऽयमपि तिष्ठतु दूरे
 
 त्वं प्रयाहि तदमुं मतिशूरे ॥२०२॥
+
+
 
 आलि पश्य पुरुषोत्तममेतं
 
@@ -9653,6 +12601,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दृष्टिमोहनगुणोऽप्यति चात्तः ॥२०३॥
 
+
+
 पूर्वजल्पित इहापि स दोषस्
 
 त्वं भजैनमपि चेत्तव तोषः ।
@@ -9660,6 +12610,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उच्छ्रितासि स च ते करलभ्यश्
 
 चारुवेशपुरुषस्तव लोभ्यः ॥२०४॥
+
+
 
 इत्यतिप्रियसखीजनवाक्यं
 
@@ -9669,7 +12621,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेयसी जितवतीति बुबोध ॥२०५॥
 
+
+
 कृष्णाह्निककौमुदी ४.७१७५—
+
+
 
 मन्दमन्दमथ सा विहरन्ती
 
@@ -9679,6 +12635,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शोभते स्म कुचयोश्चलहारा ॥२०६॥
 
+
+
 यत्र तद्वदनपञ्कजगन्धस्
 
 तत्र भृङ्गनिकरोऽभवदन्धः ।
@@ -9686,6 +12644,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्धकारमभितो विदधानः
 
 प्रत्युपैति गरुतो विधुनानः ॥२०७॥
+
+
 
 यत्र पक्ष्मलदृशश्चलदृष्टिर्
 
@@ -9695,6 +12655,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्र सा कुवलयच्छदवृष्टिः ॥२०८॥
 
+
+
 यत्र तत्तनुरुचः कृतझम्पा
 
 निष्पतन्ति जितनिर्घनशम्पाः ।
@@ -9702,6 +12664,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्र गाढतिमिरेऽपि नितान्तं
 
 चन्द्रिका इव चरन्ति दिगन्तम् ॥२०९॥
+
+
 
 यत्र तत्पदनखेन्दुमरीचिः
 
@@ -9711,13 +12675,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वासरेऽपि विलुठन्ति चकोराः ॥२१०॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 राधासौन्दर्यमाध्वीकपानमत्तो भृशं यदा ।
 
 विस्मितपूर्ववृत्तान्त आदावासीन्मिलन्निव ॥२११॥
 
+
+
 स्तवमाला, स्वयमुत्प्रेक्षितलीला ६१०, १२२५, २७२८—
+
+
 
 माधवस्तां तदालोकयन्राधिकां
 
@@ -9727,6 +12699,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तूर्णामित्युल्लपन्फुल्लधीरागतः ॥२१२॥
 
+
+
 भालविद्योतितस्फीतगोरोचनं
 
 पार्श्वतः प्रेक्ष्य तं विभ्रमल्लोचनम् ।
@@ -9734,6 +12708,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सा पटेनावृता कैतवाद्भामिनी
 
 वक्रितभ्रूरभूद्दूरभूगामिनी ॥२१३॥
+
+
 
 लीलोद्भ्रान्तं मुहुरथ नुदती
 
@@ -9743,6 +12719,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मल्लीवल्लीं तटभुवि निकटाम् ॥२१४॥
 
+
+
 तामुन्मीलद्भ्रमरविलसितां
 
 लब्धा पुष्पैरुपरि किल सिताम् ।
@@ -9750,6 +12728,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लीनेवाभूद्विकसितमदना
 
 तस्याः प्रान्ते सरसिजवदना ॥२१५॥
+
+
 
 भङ्गुरानङ्कुरान्निर्दयं छिन्दती
 
@@ -9759,6 +12739,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुष्पराजीमसौ हन्त मत्कानने ॥२१६॥
 
+
+
 सदात्र चिनुमः प्रसूनमजने
 
 वयं हि निरताः सुराभिभजने ।
@@ -9766,6 +12748,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 न कोऽपि कुरुते निषेधरचनं
 
 किमद्य तनुषे प्रगल्भवचनम् ॥२१७॥
+
+
 
 प्रसीद कुसुमं विचित्र्य सरसा
 
@@ -9775,6 +12759,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलम्बमधिकं तनुष्व न वने ॥२१८॥
 
+
+
 नियुक्तः क्षितीन्द्रेण तेनास्मि कामं
 
 वनं पालयामि क्रमेणाभिरामम् ।
@@ -9782,6 +12768,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 जनः शीर्णमप्युद्धरेद्यो दलार्धं
 
 हराम्यम्बरं तस्य वित्तेन सार्धम् ॥२१९॥
+
+
 
 परिज्ञातमद्य प्रसूनालिमेतां
 
@@ -9791,6 +12779,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रविष्टासि गेहं कथं पुष्पचौरि ॥२२०॥
 
+
+
 स पतिः पिशुनः कुपितोऽपिशुनः
 
 सदने मुखरा जरती मुखरा ।
@@ -9798,6 +12788,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चतुरा गुरवो भविता कुरवो
 
 व्यसनं पुरुषेश्वर किं कुरुषे ॥२२१॥
+
+
 
 जलजेक्षण हे कुलजामबलां
 
@@ -9807,6 +12799,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दिवि पश्य ततस्त्यज मे सरणिम् ॥२२२॥
 
+
+
 जाने तव कचपक्षं
 
 सम्भृतवरमल्लिकालक्षम् ।
@@ -9814,6 +12808,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उरसि च कञ्चुकराजं
 
 ध्रुवमर्बुधमाधवीभाजम् ॥२२३॥
+
+
 
 एहि तव क्षणमात्रं
 
@@ -9823,6 +12819,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रयाहि भवनं तडितपीते ॥२२४॥
 
+
+
 न मुषा माधव रचय विवादं
 
 विदधे तव मुहुरहमभिवादम् ।
@@ -9830,6 +12828,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गोकुलवसतौ स्वरमिव मूर्तं
 
 न किमु भवन्तं जाने धूर्तम् ॥२२५॥
+
+
 
 वेत्ति न गोपी वृन्दारामं
 
@@ -9839,6 +12839,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कथमवचेष्ये न कुसुमजालम् ॥२२६॥
 
+
+
 नेदमत्र कलसस्तनि शंस
 
 क्रोधनो नृपतिरेष नृशंसः ।
@@ -9846,6 +12848,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तेन हन्त विदिते वनभङ्गे
 
 यौवतं पतति भीतितरङ्गे ॥२२७॥
+
+
 
 तन्वि गेहगमनव्यवसायं
 
@@ -9855,6 +12859,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लीलया प्रविश कुञ्जकुटीरे ॥२२८॥
 
+
+
 गोकुले कुलवधूभिरर्चिता
 
 शीलचन्दनरसेन चर्चिता ।
@@ -9862,6 +12868,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 राधाहमधिकारितामतः
 
 किं करोषि मय्धूर्त कामतः ॥२२९॥
+
+
 
 भ्रूलेखां किमरालां त्वं निर्मासि करालां
 
@@ -9871,6 +12879,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृत्ता त्वं हरिहस्ते त्रातान्यो भुवि कस्ते ॥२३०॥
 
+
+
 आरुह्य द्रुमवाटीं मुञ्चेमां परिपाटीं
 
 गेहान्तस्तव सर्वं जाने भामिनि गर्वम् ।
@@ -9879,7 +12889,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्याग्रे चल वामे चोलीमर्पय वामे ॥२३१॥
 
+
+
 गोविन्दलीलामृत ९.३९४९—
+
+
 
 इति तदुदितनर्माकर्ण्य कर्णामृतं
 
@@ -9889,6 +12903,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विदधति तदितो यामीति नीचैर्वदन्ती ॥२३२॥
 
+
+
 दयितमपि मनाक्तं वीक्ष्य सावज्ञदृष्ट्या
 
 द्रुतगतिचलिताग्रे मुग्धविव्वोकदिग्धा ।
@@ -9897,9 +12913,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हरिरिति स वदंस्तामंशुकान्ते दधार ॥२३३॥ (युग्मकम्)
 
+
+
 अनुभूयैव तत्स्पर्शमानन्दोत्थैर्विचालिता ।
 
 नानाभावैः प्रियं राधा तिर्यग्ग्रीवा व्यलोकयत॥२३४॥
+
+
 
 तारानर्तनसूचितात्यवमतिः स्मेरा तदास्याम्बुजं
 
@@ -9909,6 +12929,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दृष्टिरमज्जयत्प्रियमपारानन्दवारां निधौ ॥२३५॥
 
+
+
 आकृष्य तत्करधृतं वसनाञ्चलं सा
 
 तिर्यग्दृगञ्चलकला स्मरबाणदृष्ट्या ।
@@ -9916,6 +12938,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विद्धं मुहुर्विदधती प्रियमुन्मदान्धा
 
 प्रत्याह तं स्मितसुधासुभगाननाब्जम् ॥२३६॥
+
+
 
 मधुरसरसरम्यं वस्तुजातं हि यद्यत्
 
@@ -9925,9 +12949,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वयमसि तदिहान्यत्रापि चौर्यापवादी ॥२३७॥
 
+
+
 साधुत्वे धार्मिकत्वे च यस्य ते भाति साक्षिणी ।
 
 कुमारीणां कोट्टवीनां मूर्ध्नि बद्धाञ्जलिस्तुतिः ॥२३८॥
+
+
 
 व्रजभुवि युवराजः सर्वसाद्गुण्यपूज्यः
 
@@ -9936,6 +12964,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अभिनवतरुणोऽप्यप्राप्तपाणिग्रहो यत्
 
 तद्धृतनियमोऽसि ब्रह्मचारीति सत्यम् ॥२३९॥
+
+
 
 किं वासाधारणः कश्चिद्भाति त्वयि गुणो महान।
 
@@ -9953,7 +12983,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कन्यानां च सतीनां च धर्मध्वंसाय दीक्षितः ॥२४३॥
 
+
+
 गोविन्दलीलामृत ९.५६—
+
+
 
 बटो न ते कृत्यमिहास्ति पुष्पा
 
@@ -9963,7 +12997,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तच्चारणाय व्रज शाद्वलेषु ॥२४४॥
 
+
+
 गोविन्दलीलामृत ९.५१५२—
+
+
 
 कदाप्यनारोपितपुष्पवल्ली
 
@@ -9973,6 +13011,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मूलोऽपि सत्यं विपिनावकस्त्वम् ॥२४५॥
 
+
+
 सख्यास्माकं वृन्दया वर्धितं यद्
 
 वृन्दारण्यं ख्यातिमेतद्विधात्रा ।
@@ -9981,7 +13021,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राजानङ्गस्त्वं च पातेति सत्यम् ॥२४६॥
 
+
+
 इति राधायाः सयुक्तिकवाक्पीयूषमत्तः श्रीकृष्णः सस्मितमाह (स्तवावलि, कुसुमकेलि ८२८)
+
+
 
 इयं लक्ष्मीवृन्दादपि मधुरवृन्दा मम वधूर्
 
@@ -9991,7 +13035,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  द्वयोर्नौ नाम्नैव त्रिजगति जनो गायति वनम् ॥२४७॥
 
+
+
 इति श्रीकृष्णस्य वागमृतमापीय राधा वृन्दां प्रति नीचैराह—
+
+
 
 इदं वृन्दे सत्यं भवति न हि किं वा कथय नः
 
@@ -10001,6 +13049,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  यथा नानावादैर्वयमिह जयामः शठगुरुम् ॥२४८॥
 
+
+
 इदं कर्णे तस्या निगदितवतीष्वाशु सहसं
 
  मृषारोषादेषा चलकुटिलचिल्लीक्षणतटैः ।
@@ -10008,6 +13058,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अलं शोणैरेणीदृगतिकुटिलाः प्रेक्ष्य सखि ताः
 
  सगर्वे गोविन्दे परिषदि ददावुत्तरमिदम् ॥२४९॥
+
+
 
 अये पद्माषण्ड व्रजनगरभण्ड व्रजवनाद्
 
@@ -10017,7 +13069,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  यथा सा तुष्ट्या ते बदरवनराज्यं वितरती ॥२५०॥
 
+
+
 तत इत्थं तत्सौन्दर्यादिस्तवनारभट्या श्री गान्धर्वाया वृन्दाटव्यां स्वतामर्पयन्ती तमुपलभ्य सोल्लासं पुनराह—
+
+
 
 यदेतद्बिम्बत्वाल्लसति मुखमस्याः कमलतो
 
@@ -10027,6 +13083,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  लसद्बन्धूकेभ्यो ऽपि च रुचिघटराज्यदधरः ॥२५१॥
 
+
+
 अये दन्ताः कुन्दावलीकरकबीजादिरचनाद्
 
  अपि स्फीता गीताः कुमुदवनतो ऽपि स्मितलवः ।
@@ -10034,6 +13092,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रुतिद्वन्द्वं मुञ्जाललितगुणपुञ्जादपि पुनर्
 
  ललाटोद्यल्लक्ष्मीः सुभगबकपुष्पादतितराम् ॥२५२॥
+
+
 
 चलाचिल्लीवल्ली भ्रमरवरपङ्क्तेरपि ततः
 
@@ -10043,6 +13103,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  पिकोत्तानध्वानादपि परमुदारं मृदुवचः ॥२५३॥
 
+
+
 नितम्बः शैलानामपि विपुलभारादतिगुरुः
 
  कुचौ तुङ्गौ बिल्वादिकफलकुलादपि अतिघनौ ।
@@ -10050,6 +13112,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भुजयुग्मं भ्राजद्व्रततिततितो ऽपीह ललितां
 
  ललामश्रीलोमावलीरपि भुजाङ्गीततिरुचेः ॥२५४॥
+
+
 
 वरोरू रम्भालिक्रमरचनजृम्भादपि गतिर्
 
@@ -10059,6 +13123,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  वदान्यत्वं कल्पद्रुमनिकरतो ऽपि व्रजपुरे ॥२५५॥
 
+
+
 दृशोः प्रेम्णा शश्वत्क्षरदमृतनिःस्यन्दविततिस्
 
  तथा स्वेदस्तोमः कनकजयिवर्ष्मप्रपतितः ।
@@ -10066,6 +13132,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मनोगङ्गाकृष्णाविविधसरसीवृन्दविचलत्
 
  प्रवाहादप्युच्चैः पुलक उत नीपस्तवकतः ॥२५६॥
+
+
 
 अलं गन्धस्निग्धा कनकगिरिवन्द्या द्युतिरपि
 
@@ -10075,6 +13143,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  अपि भ्राम्यन्नेत्रक्रमणनटनं खञ्जनगणात॥२५७॥
 
+
+
 परं चास्यादीनां विकसनभरादेषु किल स
 
  क्वचिन्मानान्म्लानेर्बत भवति सैवैष्विह यतः ।
@@ -10083,7 +13153,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  कथंकारं स्वामिन्भवतु भवतः साम्प्रतमियम् ॥२५८॥
 
+
+
 अपि च—
+
+
 
 मुखादीनां पद्मादिकपुरुपदार्थः समरुचः
 
@@ -10093,6 +13167,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  ततः श्रीराधायाः प्रकटमटवीयं प्रियसखी ॥२५९॥
 
+
+
 विराजाछायात्वे प्रकटतरसारूप्यवलनात्
 
  सखीत्वे ऽपि क्रीडास्पदमटविरेषा रसमयी ।
@@ -10100,6 +13176,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सदैतस्या एव व्रजभुवि भवत्येव सुतरां
 
  यतश्छायासख्योः स्फुरति न हि भेदः क्वचिदपि ॥२६०॥
+
+
 
 अदो वृन्दानान्दीस्तवरसभरैः पोषितवपुः
 
@@ -10109,6 +13187,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  नटाचार्ये तस्मिन्नटितुमिव दृष्टिं समतनोत॥२६१॥
 
+
+
 विशाखा तु स्नेहस्नपनकृतरोमञ्चविलसद्
 
  वपुस्तामालिङ्ग्य स्तवरचितह्रीश्रीस्मितवृताम् ।
@@ -10117,7 +13197,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  विनोदैर्वृन्दायाः शिरसि सुमनोवृष्टिमकरोत॥२६२॥
 
+
+
 एतन्मधुरवर्णनाकर्णनेन स्वान्तस्तोषं बहिर्विहस्य सोत्प्रासं कृष्णः पुनराह—
+
+
 
 त्वदालेरङ्गाली मम कमनवृन्दावनतनोः
 
@@ -10127,6 +13211,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  इदानीं सारूप्यस्तवनमिषतो रक्षसि शठे ॥२६३॥
 
+
+
 तवाल्या एवं चेदति गुणगणा मत्प्रियवनाद्
 
  अपि श्रेष्ठः सुष्ठु ध्रुवमिह भवन्ति स्फुटममी ।
@@ -10134,6 +13220,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तदा तुच्छं पुष्पं कथमपहरेत्सेयमथवा
 
  स्वभावश्चौराणां परधनजिघृक्षुर्न हि चलेत॥२६४॥
+
+
 
 प्रकारैश्छायातो यदतिवरबिम्बास्य महिमा
 
@@ -10143,7 +13231,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  स चेदाराद्दद्याद्भवति मम तर्ह्येव ममता ॥२६५॥
 
+
+
 एतद्विचित्ररङ्गोच्छलितवाग्भण्#इविलाससुधास्वर्धुनीतरङ्गेनोत्तरलीकृतहृद्वृत्तिदृढनौकं श्रीराधां सस्मितमलोकयन्तीषु सर्वासु सस्मितं ललिता ललाप—
+
+
 
 पिपासार्थः कश्चित्क्षुदितविवशो वर्त्मनि चलन्
 
@@ -10153,7 +13245,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  प्रपातुं द्रागिच्छन्जगति किल हास्यास्पदमभूत॥२६६॥
 
+
+
 ततो रसिकशेखरं व्रजराजकुमारं स दृगञ्चलविभ्रमेण पस्यन्ती सखीः प्रति श्रीराधा व्यजहार—
+
+
 
 स्फुटं काली शैब्या चमरवनिता मध्यमवधूर्
 
@@ -10163,7 +13259,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  कथं तस्याप्यन्या भवतु भुवि योग्या नववधूः ॥२६७॥
 
+
+
 गोविन्दलीलामृतं ९.५७६७—
+
+
 
 स्मितरुचिशिशिरात्तद्वक्त्रपीयूषरश्मेश्
 
@@ -10173,6 +13273,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अतृपदिह सखीनां दृक्चकोरीचयोऽपि ॥२६८॥
 
+
+
 तत्स्पर्शभीत्येव विवृत्त्य कन्धरां
 
 कटाक्षनीलोत्पलमालया प्रियम् ।
@@ -10180,6 +13282,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सा भूषयन्त्यस्फुटभर्त्सनोक्तिका
 
 सावज्ञमग्रेऽपससार लीलया ॥२६९॥
+
+
 
 कृष्णोऽथ कान्तातनुचित्रनर्तकी
 
@@ -10189,6 +13293,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दधार चास्याश्चलकञ्चुकाञ्चलम् ॥२७०॥
 
+
+
 कान्ता विभुग्नीकृतचिल्लिकार्मुका
 
 शोणाक्षिकोणेक्षणबाणसञ्चयैः ।
@@ -10196,6 +13302,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विखण्ड्य तूर्णं प्रियधैर्यकञ्चुकं
 
 लीलारविन्देन तताड तं मुहुः ॥२७१॥
+
+
 
 तस्यारविन्दाहतिजातशातं
 
@@ -10205,6 +13313,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रस्वेदबाष्पोत्पुलकच्छलेन ॥२७२॥
 
+
+
 तत्स्पर्शसम्फुल्लतनोर्नतभ्रुवश्
 
 छिन्ना स्वयं कञ्चुकबन्धवीटिका ।
@@ -10212,6 +13322,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नीवी च चीनं स्खलदन्तरीयकं
 
 रुन्धे परं स्वेदजलं नितम्बके ॥२७३॥
+
+
 
 अथालिवर्गस्मितलोलनेत्रा
 
@@ -10221,6 +13333,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा दक्षहस्ताप्यभवद्विहस्ता ॥२७४॥
 
+
+
 कृष्णोऽपि तावद्वरभाजि पूर्णे
 
 स्वेदाम्बुभिस्तत्स्तनहेमकुम्भे ।
@@ -10228,6 +13342,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्मरोत्सवारम्भमिषेण पाणिम्
 
 आधातुमुत्कोऽन्तिकमाप तस्याः ॥२७५॥
+
+
 
 कान्ता कथञ्चिद्विनिबद्ध्य नीवीं
 
@@ -10237,6 +13353,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्पाणिरोधं प्रति सत्वरासीत॥२७६॥
 
+
+
 स्मितरुदितविमिश्रं गद्गदास्पष्टवर्णं
 
 रमणमनृजुनेत्रा भर्त्सयन्त्युत्सुकापि ।
@@ -10244,6 +13362,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रणयसुखजवाम्योद्भ्रामिता सास्य वाञ्छा
 
 प्रतिहतिरहितं तत्पाणिरोधं व्यतानीत॥२७७॥
+
+
 
 सङ्घट्ट आसीत्करयोर्निरुद्धयोर्
 
@@ -10253,11 +13373,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कूजन्मदालिव्रजयोरिवाब्जयोः ॥२७८॥
 
+
+
 गोविन्दलीलामृत १०.७३०—
+
+
 
 सगद्गदं भर्त्सयन्ती सेयं सस्मितरोदनम् ।
 
 तस्मात्कथञ्चित्विश्लिष्य सेर्षं तस्थौ तदग्रतः ॥२७९॥
+
+
 
 मुखपरिमललुब्धस्यालिवृन्दस्य
 
@@ -10267,6 +13393,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वयमपगतधैर्या सस्वजे प्राणनाथम् ॥२८०॥
 
+
+
 ततः सखीनां स्मितजातलज्जा
 
 कृतप्रयत्नापि ततोऽपसर्तुम् ।
@@ -10274,6 +13402,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तेनातिगाढं हसता गृहीता
 
 बभौ पयोदे स्थिरचञ्चलेव ॥२८१॥
+
+
 
 ईर्षात्रपानिर्वृतिवामताभिर्
 
@@ -10283,6 +13413,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वचेष्टया लोकयतां सुखाय ॥२८२॥
 
+
+
 सशपथनुतिनिन्दातर्जनाक्षेपदैन्यं
 
 स्मितरुदितविमिश्रं श्लिष्टमेषा लपन्ती ।
@@ -10290,6 +13422,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रियदृढभुजबन्धं मोचयन्ती कराभ्यां
 
 भृशमतनुत सालीवृन्दकृष्णस्य तुष्टिम् ॥२८३॥
+
+
 
 तयोर्दृढालिङ्गनतः सुतृप्ताः
 
@@ -10299,13 +13433,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नान्दीमुखीं सा वदति स्म वृन्दा ॥२८४॥
 
+
+
 आश्चर्यां हरिणा राधा गाढमालिङ्गिता चिरम् ।
 
 तदसङ्गतियुक्तापि निवृतासीत्सखीततिर॥२८५॥
 
+
+
 अदृष्टे दर्शनोत्कण्ठा दृष्टेऽस्मिन्स्पर्शलालसा ।
 
 स्पर्शेऽस्य सेर्ष्यवाम्यं तच्चित्रमासां विचेष्टितम् ॥२८६॥
+
+
 
 नान्दीमुखी तामवदत्वनेश्वरीं
 
@@ -10315,6 +13455,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्तन्न चित्रं किल चेष्टितं यतः ॥२८७॥
 
+
+
 सख्यः श्रीराधिकाया व्रजकुमुदविधोर्ह्लादिनीनामशक्तेः
 
 सारांशप्रेमवल्ल्याः किशलयदलपुष्पादितुल्याः स्वतुल्याः ।
@@ -10322,6 +13464,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सिक्तायां कृष्णलीलामृतरसनिचयैरुल्लसन्त्याममुष्यां
 
 जातोल्लासाः स्वसेकाच्छतगुणमधिकं सन्ति यत्तन्न चित्रम् ॥२८८॥
+
+
 
 विभुरपि सुखरूपः स्वप्रकाशोऽपि भावः
 
@@ -10331,9 +13475,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शयति न पदमासां कः सखीनां रसज्ञः ॥२८९॥
 
+
+
 राधा काञ्चनवल्ली फुल्ला कृष्णस्तु फुल्ल तापिञ्छः ।
 
 अनयोः सङ्गमलक्ष्मीः सुखयति नहि कं सचेतनं लोकम् ॥२९०॥
+
+
 
 आसां विशुद्धप्रणयार्द्रचेतसां
 
@@ -10343,6 +13491,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अतस्तदुन्मीलति तस्य सङ्गमे ॥२९१॥
 
+
+
 अथेप्सितैतद्दृढबाहुवक्षः
 
 स्पर्शोत्थितानन्दभरापि राधा ।
@@ -10350,6 +13500,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वाम्योत्थवैमत्यमिवाचरन्ती
 
 सा भर्त्सयन्ती ललितामवादीत॥२९२॥
+
+
 
 सकुष्र्तिहरिदूत्या कुन्दवल्ल्या मिलन्ती
 
@@ -10359,9 +13511,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कलयसि खलभर्तुर्धार्ष्ट्य नृत्यं तटस्था ॥२९३॥
 
+
+
 प्रखरा यदभूर्मृद्वी मृदुनालिङ्गितामुना ।
 
 न तच्चित्रं यदासीद्वां गुणयोः परिवर्तनम् ॥२९४॥
+
+
 
 रुष्टेन तुष्टा ललितामुना व्यधात्
 
@@ -10371,9 +13527,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विधातुमारब्धमिदं न किं त्वया ॥२९५॥
 
+
+
 स्वसखीं पृच्छ ललिते किमियं कर्तुमुद्यता ।
 
 बलात्स्वाङ्गेन संवेष्ट्य मदङ्गं यात्मसाद्व्यधात॥२९६॥
+
+
 
 पुन्नागं त्वां माधवीयं स्वयं
 
@@ -10383,9 +13543,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वल्ल्या वृक्षो वेष्ट्यते नामुनासौ ॥२९७॥
 
+
+
 मयाप्यस्यै दत्तमङ्गमनयाप्यात्मसात्कृतम् ।
 
 का ते हानिः पुनर्नैतदादातुं शक्यते मया ॥२९८॥
+
+
 
 इयं क्रूरा शूरा जयति ललिता क्रोधवलिता
 
@@ -10395,9 +13559,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रजावत्यां सत्यां त्वयि च रतिमत्यां विरचय ॥२९९॥
 
+
+
 ललितायाः पुरो राधां वातोऽपि स्प्रष्टुमक्षमः ।
 
 तत्त्यजामुं न चेदस्माद्धाटिशाटीं निचोलय ॥३००॥
+
+
 
 इत्यालपन्त्यां त्वरितं रुषास्याम्
 
@@ -10407,6 +13575,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आनन्दजैः सोऽप्यभवद्विहस्तः ॥३०१॥
 
+
+
 कान्ताङ्गसङ्गजसुखेन विमोहितेऽस्मिन्
 
 भीतोऽयमित्यवगते ललिताभियान्यैः ।
@@ -10415,7 +13585,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा निर्गता झटिति विश्लथबाहुबन्धात॥३०२॥
 
+
+
 अथ सखीनां परस्परवाक्यं (विदग्धमाधव ४.३४)—
+
+
 
 निद्रागमोऽपि सखि नन्दसुतस्य हर्तुं
 
@@ -10425,7 +13599,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तां राधिकाद्य पुरतो मुरलीं जहार ॥३०३॥
 
+
+
 राधा स्वगतं (विदग्धमाधव ४.३५)
+
+
 
 या निर्माति निकेतकर्मरचनारम्भे करस्तम्भनं
 
@@ -10435,7 +13613,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धूर्ता गोकुलमङ्गलस्य मुरली सेयं ममाभुद्वशा ॥३०४॥
 
+
+
 अथ वंशीं प्रत्याह (पद्यावली २५४२५५)—
+
+
 
 अच्छिद्रमस्तु हृदयं परिपूर्णमस्तु
 
@@ -10445,6 +13627,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यद्वासरे मुरलि मे करुणां करोषि ॥३०५॥
 
+
+
 शून्यत्वं हृदये सलाघवमिदं शुष्कत्वमङ्गेषु मे
 
 मौखर्यं व्रजनाथनामकथने दत्तं भवत्या निजम् ।
@@ -10453,7 +13637,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यं पीत्वा भुवनं वशे विदधती निर्लज्जमुद्गायसि ॥३०६॥
 
+
+
 गोविन्दलीलामृत १०.३११४७—
+
+
 
 निर्गता तस्यां स्वपटाञ्चलेन
 
@@ -10463,6 +13651,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णेन संलापमसौ व्यधत्त ॥३०७॥
 
+
+
 हे कृष्ण दोर्बिम्बविधुन्तुद त्वं
 
 भ्रान्तोऽपि या ते प्रसभं गृहीता ।
@@ -10471,17 +13661,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधाभिधान्येऽपि च तादृशोऽस्याः ॥३०८॥
 
+
+
 अस्याद्वैता विशाखाहमनुराधा त्वियं परा ।
 
 इयं ज्येष्ठा धनिष्ठेयं चित्रेयं भरणी त्वियम् ॥३०९॥
+
+
 
 अन्या वा कति मे गण्या या चैकास्तीन्दुलेखिका ।
 
 सापि तद्ग्रहणायोग्या तत्त्वं चन्द्रावलीं व्रज ॥३१०॥
 
+
+
 विशाखे सर्वसुखदा सत्यं त्वं शाङ्करीतनुः ।
 
 वाग्वज्रभीषणा मूर्तिर्ललिता शातमन्यवी ॥३११॥
+
+
 
 असौ विशाखे सुलभां विहाय
 
@@ -10491,9 +13689,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रियं रसास्वादविशेषलिप्सुः ॥३१२॥
 
+
+
 भोगः क्रमेण तारासु सदा राहोर्विराजते ।
 
 कौतुकादिन्दुलेखामप्यपूर्वां स जिघृक्षति ॥३१३॥
+
+
 
 इत्यालपन्श्रीहरिरिन्दुलेखां
 
@@ -10503,13 +13705,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 साप्युच्चलद्भ्रूः स्मितपूर्वमाह ॥३१४॥
 
+
+
 धृष्टापगच्छ हे राहो न ते योग्येन्दुलेखिका ।
 
 पूर्णां चन्द्रावलीं याहि भुङ्क्ष्व तारां क्रमेण व ॥३१५॥
 
+
+
 तेनालक्षितमागत्य गृहीता ललिताब्रवीत।
 
 अनुराधा न ते लभ्या विशाखाभोगमन्तरा ॥३१६॥
+
+
 
 स्पृष्टा विशाखाप्यथ साब्रवीत्तं
 
@@ -10518,6 +13726,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भुक्तैव तत्किं पुनरेषि धृष्ट
 
 ज्येष्ठां विहाय क्रमलभ्यभोगाम् ॥३१७॥
+
+
 
 ज्येष्ठाप्यलक्षितं स्पृष्ट्वा म्लिष्टं रुष्टा तमब्रवीत।
 
@@ -10555,6 +13765,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्फुरच्चन्द्रमुखीमासां स्वतृष्णाशान्तये व्रज ॥३२६॥
 
+
+
 अलक्षितं साप्यमुना गृहीता
 
 चुचुम्बिषुं तं विमुखी जगाद ।
@@ -10562,6 +13774,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 त्यजान्यजायां शठ वंशिकां तां
 
 निजप्रियां चुम्ब चुचुम्बिषा चेत॥३२७॥
+
+
 
 स चिरात्स्वकरादपच्युतां
 
@@ -10571,9 +13785,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वदृशं कुन्दलतानने न्यधात॥३२८॥
 
+
+
 सापि तं चलदृग्भङ्ग्या राधिकां तामदर्शयत।
 
 तद्विज्ञाय तया वंशी तुलस्यां गुप्तमर्पिता ॥३२९॥
+
+
 
 सा तां प्रयत्नात्पिहितां विधाय
 
@@ -10583,6 +13801,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दिधीर्षुरेनामिदमाललाप ॥३३०॥
 
+
+
 मनो विशुद्धं चलमप्यदृश्यं
 
 कटाक्षकामाङ्कुशशृङ्गविद्धम् ।
@@ -10590,6 +13810,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विधाय पाटच्चरि मे हरन्त्या
 
 न दृश्यवंशीहृतिरद्भुता ते ॥३३१॥
+
+
 
 सा तां प्रयत्नात्पिहितां विधाय
 
@@ -10599,6 +13821,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दिधीषुरेनामिदमाललाप ॥३३२॥
 
+
+
 राधाप्यसाधारणभावविद्धा
 
 सावज्ञमालोक्य हरिं चलन्ती ।
@@ -10607,9 +13831,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निवारितेनाप्यमुना गृहीता ॥३३३॥
 
+
+
 हरिस्तामाह चौरि त्वं वृथा किं चेष्टसे तव ।
 
 त्यागो वंश्या न मे यावत्तावद्दोर्बन्धनाय सः ॥३३४॥
+
+
 
 मृषारुषारालचलाक्षिचिल्ली
 
@@ -10619,6 +13847,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 साटोपतर्ज्जं ललितावदत्तम् ॥३३५॥
 
+
+
 पराङ्गनासङ्गमपूतमूर्ते
 
 सतीव्रतध्वंसन याहि याहि ।
@@ -10626,6 +13856,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्नातां पवित्रां रविपूजनार्थं
 
 स्पृष्ट्वा छलोक्त्या कुरु मापवित्राम् ॥३३६॥
+
+
 
 उन्मादितः स्वाधरपायनैर्यया
 
@@ -10635,9 +13867,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न मन्यसे चेत्तुलसीह साक्षिणी ॥३३७॥
 
+
+
 खलः करोति दुर्वृत्तं नूनं फलति साधुषु ।
 
 शैब्यया ह्रियते वंशी साध्वी राधा तु दूष्यते ॥३३८॥
+
+
 
 तया दृशः प्रेरणया निदिष्टां
 
@@ -10647,6 +13883,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सौधाकरी मूर्तिरिवाम्बुवाहात॥३३९॥
 
+
+
 सापीङ्गितज्ञा लघु रूपमञ्जरी
 
 करेऽर्पयित्वा मुरलीमतर्कितम् ।
@@ -10654,6 +13892,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ततोऽपसर्तुं विहितोद्यमामुना
 
 बलाद्गृहीतोत्पुलकास कम्पिता ॥३४०॥
+
+
 
 निधाय कुब्जीकृतपाणिशाखा
 
@@ -10663,6 +13903,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्मञ्छनं यामि तवास्मि दासी ॥३४१॥
 
+
+
 वंशी न मय्यस्ति यदर्थमाग्रहः
 
 शैब्याकरे साद्य मयैव लोकिता ।
@@ -10670,6 +13912,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्यालपन्ती चलदृष्टिसंज्ञया
 
 सासूयत्तं प्रति रूपमञ्जरीम् ॥३४२॥
+
+
 
 यावद्विहाय तुलसीं मधुसूदनोऽसौ
 
@@ -10679,6 +13923,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निधाय ललितामनु साधु तस्थौ ॥३४३॥
 
+
+
 कृष्णोऽपि तां तूर्णमलक्षितागतिः
 
 स्वबाहुपाशेन निबद्ध्य सत्वरः ।
@@ -10686,6 +13932,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वंशीं विचिन्वन्कुचपट्टिकान्तरे
 
 तामाह सा तस्करि ते क्व गोपिता ॥३४४॥
+
+
 
 साप्यब्रवीत्तं विनिवारयन्ती
 
@@ -10695,6 +13943,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गत्वानयैवाह्वय गोपनारीः ॥३४५॥
 
+
+
 निजाभिमर्शेन पराङ्गनाततेः
 
 सतीव्रतः दूषयितुं त्वमुत्सुकः ।
@@ -10702,6 +13952,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वयं विनिह्नुत्य कुतोऽपि वंशिकां
 
 तन्मार्गणव्याजमुपाश्रितोऽधुना ॥३४६॥
+
+
 
 ततो दृशास्मै ललितां प्रदर्श्य सा
 
@@ -10711,6 +13963,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुन्दवल्ल्यर्पितवंशिकां ययौ ॥३४७॥
 
+
+
 उपागतं तं ललिताह कोपना
 
 हुं दूरतस्तिष्ठ किमर्थमागतः ।
@@ -10718,6 +13972,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वंशी यदीयं मयि नैव विद्यते
 
 धार्ष्ट्येन चेत्तत्फलमाश्ववाप्स्यसि ॥३४८॥
+
+
 
 चिन्तामणीनां चयमन्तिके स्थितं
 
@@ -10727,6 +13983,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किमर्थमाभिर्बत सा हृता शठ ॥३४९॥
 
+
+
 सच्छिद्रया नीरसया कठोरया
 
 ययानिशं व्याकुलितं जगत्त्रयम् ।
@@ -10734,6 +13992,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स स्वामिनो यन्मुरलीकराद्गता
 
 वृत्तं बहूनां तदिदं सुमङ्गलम् ॥३५०॥
+
+
 
 स्वस्थानसन्दानितनीविकुन्तलाः
 
@@ -10743,6 +14003,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सरन्तु तूर्णं सरितः सरित्पतिम् ॥३५१॥
 
+
+
 शीतार्तनग्नाम्बुनिमग्नकन्यका
 
 गणस्य वासांसि हृतानि यत्त्वया ।
@@ -10751,9 +14013,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्राप्नोति दुःकं परदुःकदो हि यः ॥३५२॥
 
+
+
 हस्तमात्रायता शुष्का सरन्ध्रा वंशकाष्ठिका ।
 
 हा हन्त गोकुलेशस्य सर्वस्वं केन वा हृतम् ॥३५३॥
+
+
 
 व्याजाद्विषण्णमिव तं प्रसमीक्ष्य कृष्णं
 
@@ -10763,6 +14029,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 साकूतमब्रुवत कुन्दलताभ्युपेत्य ॥३५४॥
 
+
+
 सच्छिद्रैकवराटिकार्द्धमपि यन्मूल्यं न सा जर्जरा
 
 याता मस्करपर्विका तव कराद्यात्वस्तु ते मङ्गलम् ।
@@ -10770,6 +14038,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 का वा हानिरियं विषीदसि कथं पुत्रोऽसि गोपेशितुस्
 
 त्वामेता विहसन्ति हन्त मुदिताः श्रुत्वा म्रियेऽहं ह्रिया ॥३५५॥
+
+
 
 सोऽप्याह तां कुन्दलतेऽनभिज्ञा
 
@@ -10779,6 +14049,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यथानयासु त्वयि न क्वचित्तथा ॥३५६॥
 
+
+
 या या यदेच्छा मम जायतेऽन्तर्
 
 मयाप्यसाध्या किल हेलयासौ ।
@@ -10786,6 +14058,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तदैव तां तां कुरुते सुसिद्धां
 
 नारायणस्येव चिदाख्यशक्तिः ॥३५७॥
+
+
 
 सर्वशक्तियुता सेयं मम सर्वार्थसाधिका ।
 
@@ -10795,6 +14069,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 इमां तन्नीति कुशलां षिड्गस्य तव वल्लभाम् ॥३५९॥
 
+
+
 सुधापारीनारीहृदयकरिवारीयमनिशं
 
 जगद्योषादोषामलसुकृतमोषातिनिपुणा ।
@@ -10802,6 +14078,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 रमागौरीसौरीमुखयुवतिचौरी त्रिजगति
 
 प्रसिद्धा सिद्धा तेऽद्भुतगुणसमृद्धा मुरलिका ॥३६०॥
+
+
 
 अवददथ स ललिता खलु चण्डी
 
@@ -10811,13 +14089,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बत परिवदति च तामुत मां च ॥३६१॥
 
+
+
 इत्याभाष्य हरौ तस्याः संव्यानान्तं जिघृक्षति ।
 
 सापसृत्याब्रवीद्भुग्नभ्रूलतं सस्मिताननम् ॥३६२॥
 
+
+
 सैवास्मि ललिता कृष्ण बहुधा कलिता त्वया ।
 
 चलिता वलितालीभिः शठता फलिता न ते ॥३६३॥
+
+
 
 इत्युदीर्य ललितामपयान्तीं
 
@@ -10827,6 +14111,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यानमद्य सुलभं स्वगृहाय ॥३६४॥
 
+
+
 त्वया चेन्न हृता वंशी कथं भीत्या पलाय्यते ।
 
 शोधयित्वा निजाङ्गनानि यथेष्टं गच्छ तिष्ठ वा ॥३६५॥
@@ -10834,6 +14120,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ततः सांशुकमाकृष्य वक्रदृष्ट्याह वीक्ष्य तम् ।
 
 अङ्गानि स्वप्रजावत्याः काममत्त विचारय ॥३६६॥
+
+
 
 वंश्यस्माभिर्नैव नीता न दृष्टा
 
@@ -10843,6 +14131,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तच्चेन्नेष्टं तत्सदृक्षां ततोऽन्याम् ॥३६७॥
 
+
+
 मल्लीभृङ्ग्यौ श्रीपुलिन्दात्मजे नः
 
 सख्यौ शैलेन्द्रालये मद्गिरा ते ।
@@ -10851,6 +14141,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आनीयैकां पर्विकां कीचकस्य ॥३६८॥
 
+
+
 पुलिन्दानां कन्या मयि परमधन्या रतियुषस्
 
 तृणाप्तास्मत्पादाम्बुजघुसृणलेपक्षतरुजः ।
@@ -10858,6 +14150,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गिरेर्गुन्जाधातून्भृशमुपहरन्ति स्वसहितान्
 
 मदीयास्ता दास्यः कथमु तव सख्यः समभवन॥३६९॥
+
+
 
 वंशीं हरसि मे मामप्यवजानासि यत्ततः ।
 
@@ -10875,9 +14169,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वंशैकपर्विकायै बहुधनहानिः कथममुना क्रियताम् ॥३७३॥
 
+
+
 तुङ्गविद्याह मुग्धे त्वं मर्मज्ञा नासि तच्छृणु ।
 
 वंश्येव यस्य सर्वस्वं किं न दद्यात्न तत्कृते ॥३७४॥
+
+
 
 चौरे नष्टोद्देशकस्य प्रसादात्
 
@@ -10887,13 +14185,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दण्ड्यादस्माद्भूरि कृत्वेति नीतिः ॥३७५॥
 
+
+
 विशाखाह वद स्वामिन्यन्नष्टोद्देशिने त्वया ।
 
 देयश्चौरे तु यो दण्डस्तज्ज्ञात्वाख्यामि ते हितम् ॥३७६॥
 
+
+
 अङ्गस्रङ्मणिमाले करमर्दफलं च चुम्बकं रत्नम् ।
 
 परमपि दास्याम्यस्मै यो मे वंशीं समुद्दिशति ॥३७७॥
+
+
 
 हर्तुर्हराम्यम्बररत्नभूषणे
 
@@ -10903,9 +14207,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निकुञ्जकारामनुवेशयामि च ॥३७८॥
 
+
+
 साप्याह योग्यमेवैतत्गोपेन्द्रतनयस्य ते ।
 
 वंशीं च हस्तगां विद्धि यत्त्वं कृपणायसे ॥३७९॥
+
+
 
 वंश्युद्देशं कुन्दवल्ल्येव
 
@@ -10915,6 +14223,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दत्त्वोत्कोचं तां ततः पृच्छ यत्नात॥३८०॥
 
+
+
 अथाह सा कुन्दलतां प्रहृष्टा
 
 दिष्ट्यागतस्ते सखि लाभदिष्टः ।
@@ -10923,17 +14233,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुदुर्लभोत्कोचमिमं गृहाण ॥३८१॥
 
+
+
 कुन्दवल्ल्या विशाखायां लग्नायां श्रवसीश्वरी ।
 
 इङ्गितज्ञा न्यधद्वंशी निभृतं तुलसी करे ॥३८२॥
+
+
 
 साकूतं पश्यति ततः कुन्दवल्ल्या मुखं हरौ ।
 
 साब्रवीत्तां विशाखेऽहं न चौरं वेद्मि ते शपे ॥३८३॥
 
+
+
 जानीयं चेद्विनोद्कोचमुद्दिशामि स्वयं हितम् ।
 
 देवृस्वं यन्ममैव स्वं नाहं यूयं यथा पराः ॥३८४॥
+
+
 
 वेत्सि हि चौरं त्वमिह मुरल्याः
 
@@ -10943,9 +14261,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तर्हि च सा स्वप्रभुकरगा स्यात॥३८५॥
 
+
+
 गृहाण पूर्वमुत्कोचं वंशिकां वा समुद्दिश ।
 
 वंशिकोत्कोचयोर्लाभे युवयोः प्रतिभूरहम् ॥३८६॥
+
+
 
 कृष्णोऽपि कुन्दलतिकानयनेङ्गितज्ञः
 
@@ -10955,13 +14277,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्तब्धो भवन्ननुगया स तया बभाषे ॥३८७॥
 
+
+
 निज श्यामरसो वंश्यां यस्त्वया न्यस्यतेऽत्र सः ।
 
 विश्वं कृष्णरुचिं कुर्वन्भाति बिन्दुतया स्थितः ॥३८८॥
 
+
+
 हृत्वा ते राधया वंशीबिन्दुच्यावाद्वशीकृताः ।
 
 बिन्दुः स्वचिबुके लग्नोऽप्यज्ञातत्वान्न गोपितः ॥३८९॥
+
+
+
+
 
 वंश्या मुद्राः बिन्दुमेनं त्वयादौ
 
@@ -10971,6 +14301,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दण्डोत्कोचावप्यमूः दण्डयोक्तौ ॥३९०॥
 
+
+
 सिद्धैव सा मुरलिका तव राधिकायां
 
 तां त्वं गृहाण न हि वा मम नात्र हानिः ।
@@ -10978,6 +14310,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उत्कोचमर्थयति मां त्वरितं विशाखा
 
 मुष्यै प्रतिश्रुतधनं वितराग्रतो मे ॥३९१॥
+
+
 
 मुद्रामादौ वंशिकाया गृहीत्वा
 
@@ -10987,6 +14321,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 काराकुञ्जे दण्डयाम्यत्र रुद्धा ॥३९२॥
 
+
+
 इति ब्रुवाणं दयितान्तिकागतं
 
 कृष्णं समीक्ष्याधर दंशनोद्यतम् ।
@@ -10994,6 +14330,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तं वारयन्ती ललिता मृषा रुषा
 
 मध्यं तयोरेत्य जगाद सस्मितम् ॥३९३॥
+
+
 
 मित्रार्चना नाद्य कृतानयास्याः
 
@@ -11003,9 +14341,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भीतिर्न देवान्न च लोकधर्मात॥३९४॥
 
+
+
 हरिस्तामाह हे राधे मद्दन्तानां ममापि न ।
 
 दोषोऽयं किन्तु ते बिन्दुर्यद्बहिः प्रकटं धृतः ॥३९५॥
+
+
 
 चिबुकमनु वसन्नप्येष बिन्दुर्भयात्
 
@@ -11015,6 +14357,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 छशिमुखिदशना मे दंशनास्ते बभूवुः ॥३९६॥ (युग्मकम्)
 
+
+
 तां कुन्द्वल्ल्याह सुचित्रकाव्ये
 
 व्यदर्शि बिन्दुच्युतके स्वशक्तिः ।
@@ -11023,13 +14367,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बिन्द्वागमे तत्र कवीश्वरेण ॥३९७॥
 
+
+
 विवृतस्वगुणोत्कर्षे गुणिनि गुणज्ञा न दोषमायान्ति ।
 
 प्रीणन्त्यस्मिंस्तस्मान्मण्डय मणिमालया त्वममुम् ॥३९८॥
 
+
+
 देवर शिशिरगुणैर्यत्सम्प्रति सखि कुन्दवल्लि फुल्लासि ।
 
 स्वदशनकुसुमैः पूजय तदधरमरुणं त्वमेवास्य ॥३९९॥
+
+
 
 रुष्टेव कुन्दलतिकावददच्युतं सा
 
@@ -11039,9 +14389,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लभ्या कथं नु मुरली मृदुभीरुणात्र ॥४००॥
 
+
+
 एताः प्रगल्भाः कुटिला बह्व्यस्त्वं मृदुरेकलः ।
 
 संरक्ष्य वस्त्रालङ्कारं तदितः स्वसखीन्व्रज ॥४०१॥
+
+
 
 परपुरुषगृध्नुचित्ता
 
@@ -11051,6 +14405,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृतार्थयितुमुद्यता एताः ॥४०२॥
 
+
+
 यासां स्वधर्मनिष्ठानां साध्वीनाममलात्मनाम् ।
 
 बालेन देवरेणापि सम्भाषणमसाम्प्रतम् ॥४०३॥
@@ -11058,6 +14414,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ता नः संदूषयन्त्येता दुरुक्त्या यामि तद्गृहम् ।
 
 दत्त्वा मोचय मां बन्धाद्विशाखायै प्रतिश्रुतम् ॥४०४॥ (युग्मकम्)
+
+
 
 ततो हसन्नाह हरिविशाखाम्
 
@@ -11067,6 +14425,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सख्यो हसन्त्यः परिवव्रुरेनम् ॥४०५॥
 
+
+
 ताभिस्तदास्मिन्कलहायमाने
 
 कोलाहले प्रोच्छलिते च राधा ।
@@ -11074,6 +14434,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रयत्नसन्मूकितभूषणा सा
 
 प्रविश्य कुञ्जान्तरभून्निलीना ॥४०६॥
+
+
 
 तावत्सशङ्का तुलसी तु वंशीं
 
@@ -11083,6 +14445,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निधाय वंशीं हृदि तामवादीत॥४०७॥
 
+
+
 वंशोत्तंसा वंशिकेऽसि त्वमेका
 
 सद्वंशानां क्षुद्रवंशोद्भवापि ।
@@ -11090,6 +14454,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 या लीलानां हेतुरेतादृशीनामासीद्
 
 राधाकृष्णयोरद्भुतानाम् ॥४०८॥
+
+
 
 ततः सखीहासविलोलनेत्रा
 
@@ -11099,6 +14465,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्गत्य रोषादवदद्विशाखा ॥४०९॥
 
+
+
 न स्मः स्वीयास्त्वत्कृतौ वा सहाया
 
 ग्राह्यं वित्तं ते कथं नः परस्य ।
@@ -11106,6 +14474,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तस्मादर्थोद्देशिकायै निजायै
 
 देह्येतत्त्वं भ्रातृपत्न्यै शठेश ॥४१०॥
+
+
 
 कुन्दालि त्वं किं प्रगल्भापि मुग्धा
 
@@ -11115,6 +14485,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मालिन्यं नस्तेन किं वा करोषि ॥४११॥
 
+
+
 तामब्रवीत्कुन्दलता विशाखे
 
 ददात्यसौ वो वर सुद्विजाभ्यः ।
@@ -11123,9 +14495,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निषिद्ध्य पापं किमहं विदध्याम् ॥४१२॥
 
+
+
 चेत्प्रीतिदानमस्येदं किं भीताः स्थः प्रतिग्रहात।
 
 गृहीत्वा द्विगुणं कृत्वा यूयं वितरताचिरात॥४१३॥
+
+
 
 चित्राब्रवीद्धनमिदं निजवेतनत्वात्
 
@@ -11135,13 +14511,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वस्याग्रतः सपदि दापय कुन्दवल्ल्यै ॥४१४॥
 
+
+
 पुनः कौन्द्यब्रवीच्चित्रे स्वरत्नं दीयतेऽमुना ।
 
 नाङ्गीकुरुत चेत्कास्य हानिस्तत्स्वगृहे स्थितम् ॥४१५॥
 
+
+
 कृष्णादानं प्रदानं ते क्षुद्रास्वेतासु नोचितम् ।
 
 सुकलः सुकलायां त्वं राधायां तत्तदाचर ॥४१६॥
+
+
 
 अन्विष्य तामथ दृशा हरिरप्यपश्यन्
 
@@ -11151,9 +14533,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आनीयतामितरथा त्वमिहासि दण्ड्या ॥४१७॥
 
+
+
 साप्याह प्रतिभूर्नाहं का जानाति क्व सा गता ।
 
 कुरु राज्यं तयात्र त्वं योग्यया याम्यहं गृहम् ॥४१८॥
+
+
 
 एकाब्रवीत्सा स्वगृहं प्रयाता
 
@@ -11163,9 +14549,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्पृष्टा पवित्रा पुनराप्लवाय ॥४१९॥
 
+
+
 इत्यालीभिः प्रलब्धोऽसौ पश्यन्कुन्दलताननम् ।
 
 तया दृशा निकुञ्जाय प्रेरितस्तं प्रविष्टवान॥४२०॥
+
+
 
 तस्मिन्प्रविष्टेऽथ निकुञ्जगह्वरं
 
@@ -11175,15 +14565,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्वारेषु कुञ्जाङ्गन एव ताः स्थिताः ॥४२१॥
 
+
+
 कान्तं वीक्ष्यान्तिकायान्तं सापसर्तुं कृतोद्यमा ।
 
 अलब्धनिर्गमा द्वार्षु तल्पं नीतामुना बलात॥४२२॥
+
+
 
 स्मरदावप्रतप्तोऽसौ राधां सुरतरङ्गिणीम् ।
 
 रहो लब्ध्वा यथावाञ्छं रेमे कृष्ण मतङ्गजः ॥४२३॥
 
+
+
 विदग्धमाधवः ७.३८३९—
+
+
 
 भ्रूभेदः स्मितसंवृतो न हि न हीत्युक्तिर्मदेनाकुला
 
@@ -11193,6 +14591,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भावस्तेन हृदि स्थितो मुरभिदि व्यक्तः समन्तादभूत॥४२४॥
 
+
+
 प्रातिकूल्यमिव यद्विवृणोति
 
 राधिका रदनखार्पणोद्धूरा ।
@@ -11201,7 +14601,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तेन तुष्टिमतुलां हरिर्ययौ ॥४२५॥
 
+
+
 कृष्णभावनामृत ९.६४—
+
+
 
 तदा तामुद्धृत्योरसि भुजबलादुच्छलदुरु
 
@@ -11211,7 +14615,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नटद्विद्युद्वल्लीमिव नवघनस्तल्पमविशत॥४२६॥
 
+
+
 गोविन्दलीलामृत १०.१४८१४९—
+
+
 
 नीवीकञ्चुकमुक्तिरोधविचलद्दोरुत्स्वनत्कङ्कणा
 
@@ -11221,6 +14629,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उद्यद्धार्ष्ट्य भटापसारितधृतिह्रीवामताद्यालयः ॥४२७॥
 
+
+
 आविर्भूतमिथोऽतिपौरुषलसद्गाढप्रयोगोत्सवाः
 
 सीत्काराञ्चितकण्ठकूजितसरत्पीयूषधारोत्कराः ।
@@ -11229,7 +14639,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधामाधवयोर्जयन्ति मधुराः कुञ्जे रहःकेलयः ॥४२८॥
 
+
+
 गोविन्दलीलामृत ११.४५, ७१७, १९२०—
+
+
 
 क्रीडावसानमवधार्य ततः समन्ताद्
 
@@ -11239,6 +14653,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 छिद्रेषु दत्तनयनाः परितः स्थितास्ताः ॥४२९॥
 
+
+
 आम्रेडितः स्वाङ्गविभूषणाय
 
 तत्कर्तुं प्रवृत्तोऽप्यनया निवारितः ।
@@ -11246,6 +14662,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 समुच्छलद्विभ्रमया तदप्यमुं
 
 विभूषयन्नास तया स भूषितः ॥४३०॥
+
+
 
 सखीत्रपाकुण्ठितनिर्गमेच्छां
 
@@ -11255,9 +14673,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुञ्जालयात्प्राङ्गणमाससाद ॥४३१॥
 
+
+
 सङ्कुचत्फुल्लनयनौ प्राणप्रेष्ठौ पुरःस्थितौ ।
 
 हृष्यन्त्यः परिवार्याल्यः सखीमाहुः ससम्भ्रमम् ॥४३२॥
+
+
 
 मुञ्चन्त्या नः कुत्र यातं भवत्या
 
@@ -11267,6 +14689,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जातास्मात्ते भाग्यतो नाभिभूतिः ॥४३३॥
 
+
+
 निशम्य तासां परिहासभङ्गीं
 
 निशाम्य चासौ रतिलक्षणानि ।
@@ -11274,6 +14698,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कान्तं निजालीः प्रति सूचयन्तं
 
 ह्रियेर्ष्यया चोच्छलिता तदासीत॥४३४॥
+
+
 
 कान्तं हसन्तं कुटिलीकृतभ्रूश्
 
@@ -11283,6 +14709,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हसन्तीरवदच्च भङ्ग्या ॥४३५॥
 
+
+
 गृहोन्मुखीं कर्षथ वस्त्रकर्षं
 
 लीनां क्वचित्सूचयथाश्वमुष्मै ।
@@ -11290,6 +14718,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सङ्गे स्थितां खेदयथामुना मां
 
 सङ्गः कथं वोऽथ मया विधेयः ॥४३६॥
+
+
 
 युष्माभिरीरितसुमत्तभुजङ्गवर्यान्
 
@@ -11299,9 +14729,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुञ्जाश्च रक्तसितसच्छतपत्रिकाश्च ॥४३७॥
 
+
+
 कुन्दवल्ल्यवदत्सत्यं राधे ते नानृतं वचः ।
 
 यत्तन्निरोधजं चिह्नं कृष्णाङ्गे दृश्यते स्फुटम् ॥४३८॥
+
+
 
 तीक्ष्णैः स्वकण्टकनखैश्चटुलाभिराभिस्
 
@@ -11311,6 +14745,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चित्रं त्विदं तदधिकं यदिदं तवापि ॥४३९॥
 
+
+
 गोपाङ्गणागणरते रतिलम्पटस्य
 
 चन्द्रावलेर्धृतिरुरस्यमलस्य युक्ता ।
@@ -11318,6 +14754,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यत्त्वं बिभर्षि हृदि तामहितामपीदं
 
 चित्रं परं सखि वदात्र च तत्र हेतुम् ॥४४०॥
+
+
 
 तामाललाप ललिता कुरु मात्र शङ्कां
 
@@ -11327,6 +14765,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दारिद्रमस्तु वनकण्टकजक्षतानाम् ॥४४१॥
 
+
+
 तृप्त्यै मुरारेरथ राधिकाया
 
 माधुर्यकर्पूरसुवासितां स्वाम् ।
@@ -11334,6 +14774,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विधातु कामाः कवितारसालां
 
 तया निषिद्धाः कुटिलभ्रुवापि ॥४४२॥
+
+
 
 सम्फुल्लगोविन्दमुखारविन्द
 
@@ -11343,7 +14785,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तं वर्णयन्त्यो जहसुर्वयस्याः ॥४४३॥
 
+
+
 गोविन्दलीलामृत ११.२५—
+
+
 
 क्षयिष्णुं तं हित्वा शशजठरमिन्दुं मितकलं
 
@@ -11353,7 +14799,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अलं चक्रेऽस्याः किं स्तनगिरिशलिङ्गद्वयमिदम् ॥४४४॥
 
+
+
 गोविन्दलीलामृत ११.४३—
+
+
 
 नाभिर्लोमावलिरुरसिजद्वन्द्वमास्यं विभाति
 
@@ -11363,7 +14813,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्वन्द्वं शश्वत्करपरिचयैर्मीलय न दीव्यतीन्दुः ॥४४५॥
 
+
+
 गोविन्दलीलामृत ११.४५—
+
+
 
 नाभिः कुण्डं त्रिवलिविततिर्मेखला चावलग्नं
 
@@ -11373,7 +14827,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चित्ताकृष्टिः फलमिह बभौ यज्ञशालास्य राधा ॥४४६॥
 
+
+
 गोविन्दलीलामृत ११.४७—
+
+
 
 भ्रूरोमावल्यौ धनुरसिलते श्रीकटाक्षाः पृषत्का
 
@@ -11383,7 +14841,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीराधा भाति स्मरनरपतेः शस्त्रशाला विशाला ॥४४७॥
 
+
+
 गोविन्दलीलामृत ११.४९—
+
+
 
 राधायाः सुतनुः सुधासुरधुनी बाहू विशे सत्स्तनौ
 
@@ -11393,7 +14855,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रोमाली जलनीलिकेह लसति श्रीकृष्णहृत्कुन्जरः ॥४४८॥
 
+
+
 गोविन्दलीलामृत ११.७७—
+
+
 
 यो बालार्कविकाशिसुप्तमधुपस्वर्णाम्बुजैकच्छदो
 
@@ -11403,7 +14869,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीकृष्णाङ्गुलिसङ्गसौभगगुणैर्न्यक्कृत्य विभ्राजते ॥४४९॥
 
+
+
 गोविन्दलीलामृत ११.११७—
+
+
 
 राधायाः कुङ्कुमानां परिमलविततिर्निर्जिहीतेऽखिलाङ्गान्
 
@@ -11413,7 +14883,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कक्षश्रेणीनखेभ्यो मलयजरससंसिक्तसत्केतकीनाम् ॥४५०॥
 
+
+
 अलङ्कारकौस्तुभ ५.१२९—
+
+
 
 कयात्ममूर्तिर्लिखिता नखेन
 
@@ -11423,7 +14897,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यामुद्वहन्हन्त न लज्जसे त्वम् ॥४५१॥
 
+
+
 अलङ्कारकौस्तुभ ८.३५—
+
+
 
 श्रीवत्सस्य च कौस्तुभस्य च रमादेव्याश्च गर्हाकरो ।
 
@@ -11433,7 +14911,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कालिन्द्याः पयसीव पीबविकक्षं रक्तोत्पलं पातु वः ॥४५२॥
 
+
+
 कृष्णभावनामृत १०.७०—
+
+
 
 मिथस्तासां प्रेमाम्बुधिमथनजां वाङ्मयसुधां
 
@@ -11443,7 +14925,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सारैर्वृष्टैरतुलमुदमाद्यन्तमहिलाः ॥४५३॥
 
+
+
 गोविन्दलीलामृत १२.१२—
+
+
 
 अथाह वृन्दा व्रजकामनेशौ
 
@@ -11453,6 +14939,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सार्धं समाकर्णयतं सखीभिः ॥४५४॥
 
+
+
 प्रीत्यर्थं युवयोः सुचित्रितमिदं वृन्दावनं किङ्करैर्
 
 अस्माभिर्बहुयत्नतो निपुणतासर्वस्वप्रत्यर्पणैः ।
@@ -11461,7 +14949,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भृत्यानां हि विशेषकौशलकृतेरीशावलोकः फलम् ॥४५५॥
 
+
+
 कृष्णभावनामृत ११.१५—
+
+
 
 निर्यन्कुञ्जादालिपालीपरीतः
 
@@ -11471,6 +14963,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पादाग्रैकत्विट्कणं स्वं विरेजे ॥४५६॥
 
+
+
 वीक्ष्याकस्मात्प्रेयसः सव्यदोष्णा
 
 राधास्कन्धं सन्दितं स्वं चकम्पे ।
@@ -11478,6 +14972,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 माधुर्याब्धेरुत्तरङ्गेण केनाप्य्
 
 अभ्यमृष्टा कनकाम्भोजिनीव ॥४५७॥
+
+
 
 पार्श्वद्वन्द्वे दीयमाने सखीभ्यां
 
@@ -11487,6 +14983,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वक्त्रद्वन्द्वेऽन्योन्यमेवादधाते ॥४५८॥
 
+
+
 वामा प्रेयोवामपाणिं निरास्यद्
 
 वक्षोजं स्वं स्पष्टुकामं करेण ।
@@ -11494,6 +14992,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चित्रं मन्येऽरुन्ध लावण्यवापी
 
 पद्मं चक्रास्वादिरक्तोत्पलेन ॥४५९॥
+
+
 
 शाखिव्रातैरावृतेऽप्यन्तरन्तः
 
@@ -11503,7 +15003,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तिर्यङ्मौलिच्छाययाच्छादयं सः ॥४६०॥
 
+
+
 गोविन्दलीलामृत १२.३४४७—
+
+
 
 किञ्चिद्विवक्षौ पुरतः सरन्त्यां
 
@@ -11513,6 +15017,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वंशी तदास्य ध्वनिरुच्चचार ॥४६१॥
 
+
+
 तत्काकलीश्रवणतश्चकितासु सर्वा
 
 स्वासाद्य तां सपदि कुन्दलता सखीभिः ।
@@ -11520,6 +15026,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आदाय तत्करतलान्मुरलीमथैनां
 
 चौरीयमित्युपनिनाय हरेः समीपम् ॥४६२॥
+
+
 
 राधाब्रवीन्मुरलिकां विनिधाय वृन्दा
 
@@ -11529,6 +15037,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्राप्ता न चेद्वदति सत्यमियं हि दण्ड्या ॥४६३॥
 
+
+
 वृन्दाह कक्खटिकया वंशी शैव्याकराद्बलात।
 
 आच्छिद्यानीय मे दत्ता कुञ्जे नान्दीमुखीपुरः ॥४६४॥
@@ -11536,6 +15046,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अथ कुन्दलता वंशीं कृष्णपाणौ समर्पयत।
 
 सोऽप्यादाय चिराल्लब्धां प्रहृष्टामवादयत॥४६५॥
+
+
 
 मनो वंशान्कुर्वंस्त्रिजगदबलानां मदनरुग्
 
@@ -11545,6 +15057,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुधासारैः सिञ्चन्जगदुदलसद्वेणुनिनदः ॥४६६॥
 
+
+
 श्रीकृष्णस्याविकलमुरलीध्वानबाणैर्विदूरान्
 
 नारीणां यद्वरधृतियुजां दर्पकोन्मत्ततासीत।
@@ -11552,6 +15066,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अस्त्रीलोकोऽप्यभवदतनूच्चण्डपीडाविहस्तस्
 
 तन्नाश्चर्यं यदयमभितो मारमूर्तिस्वरूपः ॥४६७॥
+
+
 
 द्रवति शिखरवृन्देऽचञ्चले वेणुनादैर्
 
@@ -11561,6 +15077,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वयमपि सविधाप्ता नैव पातुं समर्था ॥४६८॥
 
+
+
 वंशीनादैः सरसि पयसि प्रापिते ग्रावधर्मं
 
 हंसीः सन्दानितपदयुगाः स्तम्भिताङ्गी रिरंसुः ।
@@ -11569,9 +15087,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताभ्यो दातुं न विषशकलं नापि भोक्तुं मरालाः ॥४६९॥
 
+
+
 ततो वृन्दाटवीं वृन्दा स्फीतां तत्तदृतुश्रिया ।
 
 दर्शयन्ती स्वनाथौ तावभाषत पुरोगता ॥४७०॥
+
+
 
 स्फुरत्स्तम्भास्तब्धैर्विलसितचरैः कम्पवलिता
 
@@ -11581,6 +15103,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सखीश्रेणीवेशौ प्रणयविवशा सेयमटवी ॥४७१॥
 
+
+
 वासन्ती बकुलादिकैर्विचकिलामोघा शिरीषादिकैर्
 
 यूथीनीपसुकेतकीप्रभृतिभिर्जात्यब्जबाणादिभिः ।
@@ -11588,6 +15112,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लोध्राम्लानमुखैश्च चारुकुसुमैर्बन्धूककुन्दादिभिः
 
 क्ÿप्ताकल्पविभूषणार्चिततनुस्तैर्भाति सैषाटवी ॥४७२॥
+
+
 
 फुल्लाभिर्माधवीभिर्बकहर विलसन्त्यत्र फुल्ला रसालाः
 
@@ -11597,6 +15123,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लोध्रास्ते वां सपर्यार्थिन इह फलिनी श्रेणिभिः कुन्दभेदाः ॥४७३॥
 
+
+
 भृङ्गैः क्वापि वनप्रियाः क्वचिदिमे चाषैश्च धूम्याटका
 
 दात्यूहैः शिखिचातकास्तत इतो हंसादयः सारसैः ।
@@ -11605,7 +15133,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गायन्तीव मुदात्र वां गुणयशः प्रेम्ना रुवन्तः सदा ॥४७४॥
 
+
+
 आनन्दवृन्दावनचम्पू १.१७२०—
+
+
 
 क्वचिन्मरकतस्थली कनकगुल्मवीरुद्द्रुमाः
 
@@ -11615,6 +15147,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्वचित्स्फटिकवाटिका कमलरागवल्ल्यादयः ॥४७५॥
 
+
+
 क्वचिन्मरकतद्रुमाः कनकवल्लिभिर्वेल्लिताः
 
 क्वचित्कनकपादपा मरकतस्य वल्लीजुषः ।
@@ -11622,6 +15156,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 क्वचित्स्फटिकभूरुहाः कमलरागवल्लीभृतो
 
 द्रुमाः कमलरागजाः स्फटिकवल्लिभाजः क्वचित॥४७६॥
+
+
 
 न सोऽस्ति मणिभूरुहो विविधरत्नशाखो न यः
 
@@ -11631,6 +15167,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न पुष्पनिकरोऽप्यसौ विविधगन्धबन्धुर्न यः ॥४७७॥
 
+
+
 विहारमणिपर्वतप्रकरतः पतद्भिर्मणि
 
 द्रवैरिव सुनिर्झरैः स्वयमितस्ततः पूरिता ।
@@ -11639,7 +15177,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तथा मणिपतत्रिभिर्विलसितालवालावली ॥४७८॥
 
+
+
 आनन्दवृन्दावनचम्पू १.२३—
+
+
 
 केऽप्यालवालकुरुविन्दमयूखवृन्दैर्
 
@@ -11649,7 +15191,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णानुरागरसमेव समुद्वमन्ति ॥४७९॥
 
+
+
 आनन्दवृन्दावनचम्पू १.४२४३—
+
+
 
 चत्वारस्तरवश्चतुर्षु सरुचः कोणेषु तेषामधो
 
@@ -11659,6 +15205,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 साङ्गोपाङ्गमणीन्द्रमण्डपरुचं कुर्वन्ति सर्वा यथा ॥४८०॥
 
+
+
 स्तम्भास्तेऽमी बडभ्यो नियतकुसुमिताः स्कन्धशाखास्तदीया
 
 वल्लीनां पुष्पितानामपि विटपकुलैः कल्पितानि च्छदींसि ।
@@ -11667,13 +15215,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुष्पैः प्रालम्बचूडाकलसविरचनाचामरादीनि कैश्चित॥४८१॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 तयेत्थं दर्शितं सर्वं विलोक्य पारितोषिकम् ।
 
 ददतुर्हारयुग्मं च श्लाघां चक्रतुरीश्वरौ ॥४८२॥
 
+
+
 अलङ्कारकौस्तुभ ५.२६२८—
+
+
 
 अर्घ्यं कुट्मलकैर्मरन्दपटलैः पाद्यं परागैर्मधु
 
@@ -11682,6 +15238,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नैवेद्यं पवनाहतैरवयवैर्नृत्यं मदालिस्वनैर्
 
 गीतं कल्पयता हरिर्वनगतो वल्लीचयेनाचितः ॥४८३॥
+
+
 
 अपि च—
 
@@ -11693,6 +15251,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रूभङ्ग्या वाधित हरिं विलोक्य वल्ली ॥४८४॥
 
+
+
 सन्त्रासं किसलयपाणिकम्पनेन
 
 प्रोत्साहं कुसुममयेन सुस्मितेन ।
@@ -11701,7 +15261,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आसन्ने मधुभिदि वीरुधोऽभ्यनैषुः ॥४८५॥
 
+
+
 नानापुष्पाणि दृष्ट्वा सलालसः कृष्णो राधां प्रसाधयति (अलङ्कारकौस्तुभ ५.२९)—
+
+
 
 सीमन्तोपरि बन्धुजीवकुसुमं सिन्धूरबिन्दुकृतं
 
@@ -11711,13 +15275,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णेन प्रणयातुरेकरभसस्तस्यामभिव्यञ्जितः ॥४८६॥
 
+
+
 अलङ्कारकौस्तुभ ५.६३—
+
+
 
 विपिनलतादलकुसुमैर्विभूष्य राधां हरिः प्राह ।
 
 त्वं सुमुखि कृष्णपक्षप्रणयवती कुञ्जदेवता कापि ॥४८७॥
 
+
+
 अलङ्कारकौस्तुभ ८.३६—
+
+
 
 राधे मुखं तव विधुर्नु सरोरुहं नु
 
@@ -11727,7 +15299,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धाता नु पञ्चविशिखी नु रसो नु वाऽद्य ॥४८८॥
 
+
+
 अलङ्कारकौस्तुभ ८.३९—
+
+
 
 उदञ्चद्वक्षोजस्तवकनमिता बाहुविटप
 
@@ -11737,7 +15313,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नवीना ते राधे विलसति तनू रत्नलतिका ॥४८९॥
 
+
+
 अलङ्कारकौस्तुभ ८.७३—
+
+
 
 पूर्णो यदि स्यादनिशं सुधांशुः
 
@@ -11747,7 +15327,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वदास्यदास्याय तदैव राधे ॥४९०॥
 
+
+
 अलङ्कारकौस्तुभ ८.१७१—
+
+
 
 स्वतश्चपललोहिते सुमुखि राधिके ते दृशौ
 
@@ -11757,7 +15341,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मदश्च मदनोऽथवा मधुमदश्च कैर्लक्ष्यताम् ॥४९१॥
 
+
+
 अलङ्कारकौस्तुभ ५.७०—
+
+
 
 स्तनौ स्तवकविभ्रमौ विहसितं प्रसूनोद्गतिर्
 
@@ -11767,7 +15355,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वमेव सखि राधिके मदनकल्पवल्ली भुवि ॥४९२॥
 
+
+
 एवं वर्णयतस्तस्य मुखं दृष्ट्वा सा मानं चकारेति वर्णयति (अ.कौ. ५.१९४)
+
+
 
 गण्डे कुण्डलपद्मरागमहसो किम्बं प्रति प्रेयसः
 
@@ -11777,7 +15369,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न्यञ्चद्वक्त्रतया विचार्य च मृषा मानं दधे राधिका ॥४९३॥
 
+
+
 अलङ्कारकौस्तुभ ४.३—
+
+
 
 कोपे यथातिललितं न तथा प्रसादे
 
@@ -11787,7 +15383,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधा जहास विहसत्सु सखीजनेषु ॥४९४॥
 
+
+
 अलङ्कारकौस्तुभ ५.१९५—
+
+
 
 प्रियालोके दृष्टिं नमयति तमन्यां प्रति लसद्
 
@@ -11797,7 +15397,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हठात्तेन श्लिष्टा सपदि गतवाम्या समभवत॥४९५॥
 
+
+
 कान्तभुजबन्धनात्विश्लिष्टा चलन्ती अग्रे भ्रमरं दृष्ट्वा परावृत्य काकमाह (उ.नी. १३.१४)—
+
+
 
 अपि करधुतिभिर्मयापनुन्नो
 
@@ -11807,7 +15411,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुरु करुणामवरुन्धि दुष्टमेनम् ॥४९६॥
 
+
+
 उज्ज्वलनीलमणि ११.६८—
+
+
 
 रक्ष रक्ष मुहुरेष भीषणो
 
@@ -11817,7 +15425,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सस्वजे हरिणलोचना हरिम् ॥४९७॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 राधाभासो मरकतमयीं कुर्वते कृष्णकान्तिं
 
@@ -11827,7 +15439,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एकस्थाने यदि तदा तुल्यभासौ विभातः ॥४९८॥
 
+
+
 चैतन्यचरितामृतमहाकाव्यं ९.१९—
+
+
 
 केशवांसतटराजिभुजाय
 
@@ -11837,7 +15453,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वीचिवत्किल रराज नितम्बः ॥४९९॥
 
+
+
 चैतन्यचरितामृतमहाकाव्यं ९.१३१६—
+
+
 
 उल्लसन्मदनमन्थरपाद
 
@@ -11847,6 +15467,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 खेदयन्नपि बभूव सुखाय ॥५००॥
 
+
+
 वीचिभङ्ग इव काञ्चनकाञ्ची
 
 कामडिण्डिमरवेण नितम्बः ।
@@ -11854,6 +15476,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुभ्रुवां गमनविभ्रमभूषो
 
 मन्दमन्दमलसेन ननर्त ॥५०१॥
+
+
 
 कोमलं चरणपद्ममशक्तं
 
@@ -11863,6 +15487,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नूपुरौ प्रणयतो रमणीनाम् ॥५०२॥
 
+
+
 तत्तदङ्घ्रिकमलस्य विलासे
 
 सस्पृहं कथयतीव महान्तम् ।
@@ -11871,7 +15497,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यावकैररुणिता वनभूमिः ॥५०३॥
 
+
+
 गोविन्दलीलामृत १२.६८—
+
+
 
 ईशाविमं पश्यतमात्मनोऽग्रे
 
@@ -11881,7 +15511,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सेवोत्सुकः स्वैर्विभवैश्चकास्ति ॥५०४॥
 
+
+
 कृष्णाह्निककौमुदी ३.५८—
+
+
 
 यस्मिन्पुञ्जितमञ्जुगुञ्जदलयो वासन्तिका मण्डपाः
 
@@ -11891,7 +15525,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लीलाचङ्क्रमणक्रमेण स ययौ देशं वसन्तोत्सवम् ॥५०५॥
 
+
+
 गोविन्दलीलामृत १२.६९—
+
+
 
 अथ तद्विलोकमुदितेन स्व
 
@@ -11901,7 +15539,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अवर्णि हरिणा वनद्युतिः ॥५०६॥
 
+
+
 आनन्दवृन्दावनचम्पू १.३५—
+
+
 
 पुन्नागैरवतंसनं विदधती वासन्तिकाभिः स्रजं
 
@@ -11911,7 +15553,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नित्यं मूर्तिमती सती विजयते श्रीर्यत्र पौष्पाकरी ॥५०७॥
 
+
+
 गोविन्दलीलामृत १२.७०७६—
+
+
 
 कुन्दे मरन्दाशनतुन्दिलान्ते
 
@@ -11921,6 +15567,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 माकन्दमुच्छूनशिखं प्रयान्ति ॥५०८॥
 
+
+
 मौनव्रतं त्यक्तुमिवान्यपुष्टाः
 
 कण्ठं कषायेण विशोधयन्तः ।
@@ -11928,6 +15576,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सार्धं पिकीभिः कलकण्ठ पश्य
 
 माकन्दमुद्यन्मुकुलं प्रयान्ति ॥५०९॥
+
+
 
 वासन्ती स्वर्णयूथीमुखहसितलतालीभिरालिङ्गिताङ्गी
 
@@ -11937,6 +15587,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रेणीयं वञ्जुलानां विलसति पुरतश्चावलिः केशराणाम् ॥५१०॥
 
+
+
 पुन्नागाः सप्तलाभिर्विधुमुखि बकुलाः सल्लवङ्गावलीभिः
 
 कुब्जाभिः कोविदाराः सुदति रुरुचिरे चम्पकाः केतकीभिः ।
@@ -11945,9 +15597,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वासन्तीभी रसालाः सितशतदलिकाश्रेणिभिः केशराश्च ॥५११॥
 
+
+
 अतिमुक्तैरतिमुक्तैरतिमुक्तैश्चान्वितं वनं यदिदम् ।
 
 रथकृन्मालिकमोक्षाकाङ्क्षैरपि सेवितं तस्मात॥५१२॥
+
+
 
 शरोत्पत्तिस्थानायत इदमरण्यं रतिपतेर्
 
@@ -11957,11 +15613,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दिशन्भद्राभद्रं गणयति परीक्षाकर इव ॥५१३॥
 
+
+
 मधुपी मधुपं विष्टं स्वप्रतिबिम्बाञ्चिपुष्पमनु दृष्ट्वा ।
 
 मिलितां मधुपीमन्यां मत्वा तृषितापि निववृते रोषात॥५१४॥
 
+
+
 कृष्णभावनामृत १३.१९—
+
+
 
 अजनि मदनो राज मन्त्री मधुर्मलयानिलो
 
@@ -11971,7 +15633,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजकुलभुवो दण्ड्याः काराः कृता गिरिगह्वरा ॥५१५॥
 
+
+
 आनन्दवृन्दावनचम्पू १.३३३४—
+
+
 
 माकन्दानां कलितकलिकास्वादनः कोकिलोऽयं
 
@@ -11981,6 +15647,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मूर्तो नादः कुहुरिति बहिर्याति यत्र द्विरेफः ॥५१६॥
 
+
+
 मदकलकलकण्ठकण्ठघण्टा
 
 ध्वनिनिकरानुमितस्वतन्त्रचारः ।
@@ -11989,7 +15657,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कलकलदः स्मरगन्धसिन्धुरेन्द्रः ॥५१७॥
 
+
+
 अथ कान्तवाक्यमसहमानानामिव सखीनां परस्परमुत्प्रेक्षोक्तिः, आनन्दवृन्दावनचम्पू १४.३१—
+
+
 
 आमन्दचन्दनसमीरगुरूपदेशात्
 
@@ -11999,7 +15671,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णावलोकनमुदा सरसं नटन्ति ॥५१८॥
 
+
+
 अलङ्कारकौस्तुभ ५.२८, २७—
+
+
 
 सन्त्रासं किसलय पाणिकम्पनेन
 
@@ -12009,6 +15685,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आसन्ने मधुभिदि वीरुधोऽभ्यनैषुः ॥५१९॥
 
+
+
 एकेनानिलचपलेन पत्रहस्ते
 
 नारौत्सीत्स्तवकपयोधरं परेण ।
@@ -12017,9 +15695,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रूभङ्ग्या वाधित हरिं विलोक्य वल्ली ॥५२०॥
 
+
+
 एहीत्याह्वयत इवापरेण काञ्चित्सव्रीडा कुसुममयं स्मितं पिधत्ते—
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 अथारण्यश्रान्तेः श्रितविटपिमूला मुरभिदः
 
@@ -12029,7 +15713,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समारब्धह्रीतोऽस्थित नहि तदा तस्य सविधे ॥५२१॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.१४—
+
+
 
 कचौघे पुन्नागं बकुलमुकुलानि भ्रमरकेष्व्
 
@@ -12039,7 +15727,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वयं वृन्दा राधां सपदि मुमुदेऽलङ्कृतवती ॥५२२॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.१३—
+
+
 
 वृन्दादिभिः सरभसं वनदेवताभिः
 
@@ -12049,7 +15741,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भूषादिभिर्विदधिरे परिभूषितास्ताः ॥५२३॥
 
+
+
 गोविन्दलीलामृत १४.२७३०—
+
+
 
 तथाह वृन्दा व्रजमङ्गलाकरा
 
@@ -12059,6 +15755,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्थलीमिमां पश्यतमग्रतः स्थिताम् ॥५२४॥
 
+
+
 अगुरुघुसृणकस्तूरीन्दुसच्चन्दनानां
 
 पृथगपृथगुदञ्चत्कर्दमाम्भःप्रपूर्णैः ।
@@ -12066,6 +15764,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विविधमणिचिताम्बुक्षेपयन्त्रैर्विराजद्
 
 विततवदनकुभैरन्वितां शातकुम्भैः ॥५२५॥
+
+
 
 सैन्दूरकार्पूरकपौष्पकन्दुकैः
 
@@ -12075,6 +15775,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आपूर्णसौवर्णकभाजनैर्युताम् ॥५२६॥
 
+
+
 कर्पूरकुङ्कुममदागुरुचन्दनानां
 
 पङ्कैश्च चूर्णनिकरैरतिपूरिताभिः ।
@@ -12083,7 +15785,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आपूर्णहैमततभाजनवृन्दयुक्ताम् ॥५२७॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.१७—
+
+
 
 बाष्पच्छेद्यसदच्छजातुषपुटिगर्भेषु सम्पूरितां
 
@@ -12093,7 +15799,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रत्नानां जलयन्त्रकाणि सुषुवुः कल्पद्रुमाणां गणाः ॥५२८॥
 
+
+
 गोविन्दलीलामृत १४.३१—
+
+
 
 आरुह्य तां श्रीरमणीचर्यो भवंस्
 
@@ -12103,7 +15813,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 परस्परं प्रेमभरादरीरमत॥५२९॥
 
+
+
 आनन्दवृन्दावनचम्पू २२.१४१५—
+
+
 
 काश्चित्कौङ्कुमधूलिधोरणिभृतां वासोऽञ्चलीं लीलया
 
@@ -12113,6 +15827,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रेतुं कृष्णमनोमणिं तदिव ता ग्रन्थौ निधायागताः ॥५३०॥
 
+
+
 श्च्योतैरागुरवैर्महासुरभिभिः कस्तूरिकाकर्दमैः
 
 कार्पूरैरपि रेणुभिर्मलयजक्षोदैश्च सम्पूरिताः ।
@@ -12121,7 +15837,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 काश्चिज्जातुषकूपिकाः करतलेनादाय तत्राययुः ॥५३१॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.२४—
+
+
 
 वल्गद्वल्गुमपीन्द्रकुण्डलधुरादीर्घीकृतच्छिद्रयोर्
 
@@ -12131,7 +15851,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ग्रीवासीम्नि विलासबद्धचिकुरस्तोमेऽतिमुक्तस्रजम् ॥५३२॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.२८—
+
+
 
 उद्धूनितैस्तत इतः पटवासपूरैर्
 
@@ -12141,7 +15865,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अप्राप्तमौलितिलकालकपक्ष्मलक्ष्मीः ॥५३३॥
 
+
+
 आनन्दवृन्दावनचम्पू २१.१०—
+
+
 
 कृष्णः कलेन मुरलीनिनदेन तासां
 
@@ -12151,7 +15879,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताभिः प्रमोदरभसेन विकीर्यते स्म ॥५३४॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.२२८—
+
+
 
 नानायन्त्रमवादयन्त कतिचित्केचिद्वसन्तं जगुः
 
@@ -12161,7 +15893,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हासैकप्रणयी बटुः पटुरटन्नुल्लासनृत्यं व्यधात॥५३५॥
 
+
+
 आनन्दवृन्दावनचम्पू २१.९—
+
+
 
 अन्योन्यहासपरिहासविलासपूर्वं
 
@@ -12171,7 +15907,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कण्ठं जगुर्द्विपदिकां मदिराग्रताक्ष्यः ॥५३६॥
 
+
+
 आनन्दवृन्दावनचम्पू २२.५—
+
+
 
 काश्चित्कुङ्कुमवारिभिर्मलयजाम्भोभिश्च कस्तूरिका
 
@@ -12181,7 +15921,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रेजुर्मन्मथयुद्धयान्त्रिकततेर्मूर्ता इवौजःश्रियः ॥५३७॥
 
+
+
 आनन्दवृन्दावनचम्पू २१.११—
+
+
 
 कृष्णे गायति चर्चरीमतिकलां कण्ठेन वीणाजिता
 
@@ -12191,7 +15935,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धारास्यन्दधिया लिहन्ति रभसादन्योन्यमेणीगणाः॥५३८॥
 
+
+
 आनन्दवृन्दावनचम्पू २१.१२—
+
+
 
 गान्धारग्रामसन्धापितगरिमधुराधूतगान्धर्वविद्यं
 
@@ -12201,7 +15949,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रीडाक्रीडारसेनालपदतिललितोदारकेदाररागम् ॥५३९॥
 
+
+
 आनन्दवृन्दावनचम्पू २१.१६—
+
+
 
 अश्मानो य इमे मणीन्द्रवपुषो वृक्षाऽऽलवालात्मकाः
 
@@ -12211,7 +15963,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृक्षाणां प्रतिमूलमेव निविडा व्यातेनिरे वेदयः ॥५४०॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.४७४९—
+
+
 
 आलीनां कुटिलकटाक्षबाणलक्षैर्
 
@@ -12221,6 +15977,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स व्रीडाकवचविभेदमेव तेने ॥५४१॥
 
+
+
 व्यतनुत वृषभानुनन्दिनीयं
 
 तनुतरकज्जलकालकूटदिग्धम् ।
@@ -12228,6 +15986,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स हसितनिशितः कटाक्षबाणो
 
 हरिहृदयं विदर्य विनिर्बिभेद ॥५४२॥
+
+
 
 लीलासां मुकुलिताक्षमरालितभ्रूर्
 
@@ -12237,7 +15997,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सिन्दूरकन्दुकमुरस्यकिरन्मुरारेः ॥५४३॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.३७३८—
+
+
 
 सहचरकरदत्तैः कन्दुकैः कैङ्करातैः
 
@@ -12247,6 +16011,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदमरवरनार्यः साधुवादैः पुपूजुः ॥५४४॥
 
+
+
 शोणश्लक्ष्णऽरुणसुरभिर्धूलिभिर्धूलिभिश्च
 
 क्रीडायुद्धं समजनि महत्कन्दुकैः कन्दुकैश्च ।
@@ -12255,7 +16021,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 काश्मीरीयैरतिसुरभिभिर्वारिभिर्वारिभिश्च ॥५४५॥
 
+
+
 गोविन्दलीलामृत १४.३७४३—
+
+
 
 अंसालम्बितपौष्पकार्मुकलतां बाणावलीं कौसुमीं
 
@@ -12265,6 +16035,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कान्तायन्त्रविमुक्तगन्धसलिलैः सिञ्चन्निमा दिव्यति ॥५४६॥
 
+
+
 एकास्य निःसरति या जलयन्त्रधारा
 
 व्योमाध्वनीह शतधा च सहस्रधा च ।
@@ -12272,6 +16044,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आसन्नपातसमये किल लक्षधासौ
 
 लक्ष्येषु पातसमये बत कोटिधा स्यात॥५४७॥
+
+
 
 जातुष्यो या गन्धचूर्णैः प्रपूर्नाः
 
@@ -12281,6 +16055,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तन्मध्यस्था गोलिका लक्ष्यमापुः ॥५४८॥
 
+
+
 तासां तनौ कुङ्कुमबिन्दुजाल
 
 मध्ये विराजन्मदबिन्दवस्ते ।
@@ -12288,6 +16064,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुवर्णवल्लीततिपुष्पवृन्द
 
 सुप्तालिसङ्घभ्रममुन्नयन्ति ॥५४९॥
+
+
 
 श्रीराधिकाप्रथमकीर्णसुसूक्ष्मरन्ध्र
 
@@ -12297,6 +16075,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उद्यत्सुधाकिरणबिम्बशतैर्नभो वा ॥५५०॥
 
+
+
 ताः क्षेपवेगगलितावृतिकूपिकानां
 
 कर्पूरनागजपरागजगोलिकाभिः ।
@@ -12304,6 +16084,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लग्नाभिरङ्गवसनेऽथ सुगन्धितोयैः
 
 पङ्कत्वमेत्य विहिताः शवलाङ्गभासः ॥५५१॥
+
+
 
 नानावर्णैर्गन्धचूर्णैर्विकीर्णैर्
 
@@ -12313,7 +16095,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लेभे पश्चाच्चित्रचन्द्रातपत्वम् ॥५५२॥
 
+
+
 गोविन्दलीलामृत १४.४७—
+
+
 
 कृष्णस्तीक्ष्णैरतनुविशिखैर्नर्ममन्त्रप्रवीणैस्
 
@@ -12323,7 +16109,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रत्यावर्त्य व्यधदथ ता व्याकुलाः सोऽपि शश्वत॥५५३॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.५६—
+
+
 
 काचिद्वंशीमपहृतवती कापि पानीययन्त्रं
 
@@ -12333,7 +16123,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रूभङ्गेन स्मितसुरुचिना राधिका बाधिकासीत॥५५४॥
 
+
+
 आनन्दवृन्दावनचम्पू २२.३१३२—
+
+
 
 आवेगस्य जवेन तेन महता निर्भज्य विभ्रश्यतो
 
@@ -12343,6 +16137,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भित्त्वाण्डं खगपोतकैरिव वह्निर्भूतैर्निपेतेऽभितः ॥५५५॥
 
+
+
 तेषां ये व्रजराजसूनुनिकटे वेगात्समं सर्वतः
 
 क्षिप्तानां निपतन्ति तानरहयन्पार्श्वस्थिताः सुभ्रुवः ।
@@ -12351,7 +16147,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तानालुम्पति राधिका स्मितमुखी स्वेदच्युता पाणिना ॥५५६॥
 
+
+
 आनन्दवृन्दावनचम्पू १४.५७—
+
+
 
 स्वाञ्चलेन घुसृणादिकपङ्कान्
 
@@ -12361,7 +16161,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वीरपानमिव जातममुष्याः ॥५५७॥
 
+
+
 कृष्णभावनामृत १२.८४—
+
+
 
 अनू दक्षिणोत्तरदिशौ विशाखया
 
@@ -12371,7 +16175,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सहसास्ततां दधति वां सहोदिताः ॥५५८॥
 
+
+
 सङ्ग्रहकर्तुः (?)—
+
+
 
 लीलाविलासगमनक्रममन्दमन्द
 
@@ -12381,7 +16189,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताम्बूलपूरकमदन्मदमत्तमूर्तिः ॥५५९॥
 
+
+
 गोविन्दलीलामृत १४.३३३४—
+
+
 
 क्लिन्नातिसूक्ष्मवसनान्तरुदीर्णतत्तद्
 
@@ -12391,6 +16203,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्यापि तैरतिनिषिक्तवितृप्तनेत्राः ॥५६०॥
 
+
+
 ताम्बूलचर्वितदरोच्छ्वसितैकगण्डाः
 
 क्लिन्नालकालिवृतघर्मजलाञ्चिभालाः ।
@@ -12399,7 +16213,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लोलत्कचांसयुगचारुकुचांशमध्या ॥५६१॥
 
+
+
 गोविन्दलीलामृत १४.४८—
+
+
 
 मह्यां मेघः स च नरवपुस्तं च सिञ्चन्त्यजस्रं
 
@@ -12409,7 +16227,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दादीनामपिबदमृतं नेत्रवापीह वर्गः ॥५६२॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 काञ्चीकुन्तलहारमौलिकटकैः शय्यातपत्रालयैर्
 
@@ -12419,11 +16241,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सेवां स्वादितवन्यमूलफलयोस्ताम्बूलपूर्णास्ययोः ॥५६३॥
 
+
+
 गोविन्दलीलामृत १२.७९८०—
+
+
 
 अटवीं प्रियामथ दर्शयन।
 
 अवदत्प्रियौ मधुमङ्गलः ॥५६४॥
+
+
 
 निचायतं श्रीव्रजकाननेशौ
 
@@ -12433,11 +16261,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सेवोत्सुकः स्वैर्विभवैश्चकास्ति ॥५६५॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 यत्र निर्झरनिह्रादनिवृत्तस्वनझिल्लिकम् ।
 
 स्वस्वतुच्छीकरजीषद्रुममण्डलमण्डितम् ॥५६६॥
+
+
 
 सरित्सरः प्रस्रवणोर्मिवायुना
 
@@ -12447,6 +16281,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निदाघवह्न्यर्कभवोऽतिशाद्वले ॥५६७॥
 
+
+
 अगाधतोयह्रदिनीतटोर्मिभिर्
 
 द्रवत्पुरीष्याः पुलिनैः समन्ततः ।
@@ -12455,7 +16291,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भुवो रसं शाद्वलितं च गृह्णते ॥५६८॥
 
+
+
 गोविन्दलीलामृत १२.८२९१—
+
+
 
 वस्त्राणि सत्पाटलिपुष्पवृन्दैः
 
@@ -12465,6 +16305,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बिभर्त्यसौ वामिव दातुमुत्कः ॥५६९॥
 
+
+
 सुपक्त्रिमैः पीलुकरीरधात्री
 
 राजादनैः सत्पनसाम्रबिल्वैः ।
@@ -12472,6 +16314,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विकङ्कतैर्जालकतालबीजैः
 
 सिषेविषुर्वां धिनुतेऽसकौ माम् ॥५७०॥
+
+
 
 इह रविमणि बद्धप्रान्तभूम्युष्मदीप्यद्
 
@@ -12481,6 +16325,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कलयतमगवल्ल्यः पल्लवैर्वीजयन्ती ॥५७१॥
 
+
+
 बहुप्रजेयं कदली निजात्मजैर्
 
 वृताभितस्तैः सुतवस्करा यथा ।
@@ -12488,6 +16334,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तान्लालयन्ती च्छदपाणिना बभौ
 
 धयन्त्यधोऽञ्चत्सुमनःस्नुतस्तनम् ॥५७२॥
+
+
 
 सुदीर्घ नासेति सुपक्त्रिमाम्रे
 
@@ -12497,6 +16345,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियां हरे पश्य विनम्रवक्त्राम् ॥५७३॥
 
+
+
 मल्लीवल्लीमतल्लीततिभिरिह लसल्लोललोलालिमाला
 
 चिल्लीभिश्चारुतल्लीतटभुवि विदधत्साधुहल्लीशकेलिम् ।
@@ -12504,6 +16354,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 क्रुध्यत्कन्दर्पमल्लीकृतकुसुमचयेषत्स्मिताभिस्तमालः
 
 सोऽयं श्रीगोपपल्लीपतिसुत इव सद्वल्लरीभिश्चकास्ति ॥५७४॥
+
+
 
 निशम्य वाचं मधुमङ्गलस्य
 
@@ -12513,6 +16365,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शिरीषपुष्पस्तवकान्परस्परम् ॥५७५॥
 
+
+
 करारविन्देन परागपांशुलान्
 
 कृष्णः प्रियाया अलकान्व्यतुस्तयत।
@@ -12520,6 +16374,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 साप्यस्य चूडोपरि केकिचन्द्रकान्
 
 विकाशिदोर्मूलमथालकानपि ॥५७६॥
+
+
 
 प्रियामाहि हृदि स्पृशन्प्रिये
 
@@ -12529,6 +16385,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समाश्रितः शैत्यगुणोऽस्ति किं तव ॥५७७॥
 
+
+
 कान्ते सुधांशुमणिबद्धनगालबाले
 
 तद्वक्त्रशुभ्रकिरणोदयजाम्बुपूरे ।
@@ -12537,7 +16395,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्सेतुमूर्ध्नि विलसन्ति खगाः सकान्ताः ॥५७८॥
 
+
+
 कृष्णभावनामृत १३.२०२१—
+
+
 
 कलय पुरतः कान्ते गोवर्धनोऽखिलभूभृतां
 
@@ -12547,6 +16409,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यदयमधुनापासांचक्रे विनिह्नुतविग्रहैः ॥५७९॥
 
+
+
 क्वचन कनकप्रस्थात्स्वस्था प्रसर्पति जाह्नवी
 
 क्वचिदिह गुहा विद्योतन्ते हिमैर्विहितालयाः ।
@@ -12555,7 +16419,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्वचन रजतग्रावैः सिंहासनान्यपि भान्ति नौ ॥५८०॥
 
+
+
 ललितमाधव ८.२७२९—
+
+
 
 भृङ्गारास्तनुनिर्झरैर्विटपिभिस्तत्रातपत्रावली
 
@@ -12565,6 +16433,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सोऽयं राजति शेखरः शिखरिणां गोवर्धनाख्यो गिरिः ॥५८१॥
 
+
+
 विलसति किल सोऽयं पश्य मत्तो मयूरः
 
 शिखरभुवि निविष्टस्तन्वि गोवर्धनस्य ।
@@ -12572,6 +16442,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मुहुरमलशिखण्डं ताण्डवव्याजतस्ते
 
 व्यकिरदुपहरन्यः कर्णपूरोत्सवाय ॥५८२॥
+
+
 
 अग्रे चम्पकचक्रमस्य पुरतः पुन्नागवीथी ततो
 
@@ -12581,7 +16453,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कालिन्दीमुपतिष्ठते गिरितटात्पन्थाः प्रथीयानसौ ॥५८३॥
 
+
+
 अलङ्कारकौस्तुभ ५.११६—
+
+
 
 कृष्णेन हर्षादुपढौकितानि
 
@@ -12591,7 +16467,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नेच्छद्गभीरप्रणयस्मयेन ॥५८४॥
 
+
+
 उज्ज्वलनीलमणि १५.१०७—
+
+
 
 अहमिह विचिनोमि त्वद्गिरैव प्रसूनं
 
@@ -12601,7 +16481,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियसखि कुसुमेन श्रोत्रमुत्तंसयामि ॥५८५॥
 
+
+
 उज्ज्वलनीलमणि १५.१११—
+
+
 
 रोषस्तवाभूद्यदि राधिकेऽधिकस्
 
@@ -12611,7 +16495,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियामचुम्बत्पशुपेन्द्रनन्दनः ॥५८६॥
 
+
+
 कृष्णाह्निककौमुदी ३.५९—
+
+
 
 लीलारत्नमयाचलोदरशरच्छीताम्भसो निर्झरः
 
@@ -12621,7 +16509,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्थानं फुल्लशिरीषकुञ्जमगमत्तद्ग्रीष्मसन्तोषवत॥५८७॥
 
+
+
 कृष्णभावनामृत ११.११—
+
+
 
 किं वा हेमोद्योतिनीलाश्मदिव्य
 
@@ -12631,7 +16523,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मन्द्रध्वानेनास्तुवातां मुदेमौ ॥५८८॥
 
+
+
 आनन्दवृन्दावनचम्पू १.३८३९—
+
+
 
 कर्पूरत्रसरेणुबन्धुभिरपां निःस्यन्दिभिर्बिन्दुभिश्
 
@@ -12641,6 +16537,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णो यत्र मुदा निदाघदिवसे शेते समं कान्तया ॥५८९॥
 
+
+
 भालप्रान्तनिबद्धकुन्तलभरो मुक्तास्रजा स्थूलया
 
 वासः काञ्चनवारिहारि पवनस्पन्दानुमेयं दधत।
@@ -12649,7 +16547,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्वित्रेण प्रियमण्डनेन च कृताकल्पो हरिः खेलति ॥५९०॥
 
+
+
 उज्ज्वलनीलमणि ११.५७—
+
+
 
 सुभ्रूभङ्गमनङ्गबाणजननीरालोकयन्ती लताः
 
@@ -12659,7 +16561,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधा नन्दति कुञ्जकन्दरतटे वृन्दावनश्रीरिव ॥५९१॥
 
+
+
 गोविन्दलीलामृत १२.९२९४—
+
+
 
 राधाकृष्णौ प्राह ततस्तौ सुबलोऽपि
 
@@ -12669,6 +16575,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नृत्यत्यारान्मत्तमयूरव्रज एषः ॥५९२॥
 
+
+
 मल्लीमतल्लीकुलपालिकानाम्
 
 अङ्के निषण्णान्भ्रमरान्सुलोलान।
@@ -12677,11 +16585,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कर्षन्त्यमुष्मिन्गणिका हसन्त्यः ॥५९३॥
 
+
+
 अस्मिन्भृङ्गालिललिता वर्षावर्षोर्जिताटवी ।
 
 घनमेघावृता भाति यूथी यूथीकृतालिका ॥५९४॥
 
+
+
 गोविन्दलीलामृत १२.९९—
+
+
 
 कदम्बैः प्रालम्बान्कुटजकुसुमैर्गर्भक
 
@@ -12691,7 +16605,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 असौ प्रावृड्लक्ष्मीश्चरणकमलेष्वर्पयति वाम् ॥५९५॥
 
+
+
 कृष्णाह्निककौमुदी ३.६०—
+
+
 
 अन्तःस्तम्भितवारि जातिमुकुलोन्मेषक्षमं वर्षतां
 
@@ -12701,7 +16619,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यत्रास्ते सततं स तत्प्रतिययौ वर्षाप्रहर्षस्थलम् ॥५९६॥
 
+
+
 आनन्दवृन्दावनचम्पू १.२३२७—
+
+
 
 समुन्मिषितमालतीकुसुमसुस्मिता मेदिनी
 
@@ -12711,6 +16633,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अपि द्युरमणी समं यदनुरागमातन्वते ॥५९७॥
 
+
+
 पुरन्दरधनुर्लतातिलकचारुभालस्थला
 
 तडित्कनककेतकीदललसत्तमःकुन्तला ।
@@ -12718,6 +16642,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विलोलविषकण्ठिकाविमलमालभारिण्यसौ
 
 नवोन्नतपयोधरा हरिमनोहरा दिग्वधूः ॥५९८॥
+
+
 
 सारङ्गीकुलकाकुकर्षणविधेराश्वासवाङ्मालिनी
 
@@ -12727,6 +16653,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्राणाकर्षणमस्त्रपाठनिनदो मेघस्वनः श्रूयते ॥५९९॥
 
+
+
 दात्यूहाः परितो रुवन्ति गणशः कोयष्टिकाः सर्वतो
 
 मण्डूकाः प्रचलाकिनस्तत इतो धाराधरा व्योमनि ।
@@ -12734,6 +16662,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आसाराः पयसां झपज्झपदिति स्निग्धातिमन्द्रस्वराः
 
 सर्वे मुग्धदृशां रतान्तसमये स्वापोत्सवं कुर्वते ॥६००॥
+
+
 
 मध्ये गौरी परिणतफलैर्नम्रशालै रसालैर्
 
@@ -12743,7 +16673,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उद्यानश्रीः स्फुरति विविधैर्वर्णकैश्चित्रितेव ॥६०१॥
 
+
+
 कृष्णभावनामृत ११.१२१४—
+
+
 
 ऊर्ध्वोर्ध्वोरुश्यामशाखासहस्रैः
 
@@ -12753,6 +16687,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नीपाटव्यां रेजतुस्तौ लसन्तौ ॥६०२॥
 
+
+
 मध्ये तस्या या मणिकुट्टिमाल्यो
 
 द्राघीयस्यः कृष्णमुद्वप्रभूताः ।
@@ -12760,6 +16696,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ता विन्दन्तेऽहर्निशं सीधुवृष्टिं
 
 जाग्रत्या सत्यालिपाल्यैव पाल्याः ॥६०३॥
+
+
 
 तत्प्रान्तोत्थस्तम्भवत्द्विद्विवृक्षोद्
 
@@ -12769,7 +16707,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रालम्बाढ्या मारकत्यो वलभ्यः ॥६०४॥
 
+
+
 आनन्दवृन्दावनचम्पू २२.४—
+
+
 
 यच्छाखाग्रविलम्बिनीभिरनतिस्थूलाभिरान्दोलिनी
 
@@ -12779,7 +16721,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सर्वाभिर्मम सम्मुखीति ककुभां लक्ष्मीभिरालोक्यते ॥६०५॥
 
+
+
 कृष्णभावनामृत ११.१६२५—
+
+
 
 पुष्पैः सूक्ष्मश्लक्ष्नचेलान्तरस्थैर्
 
@@ -12789,6 +16735,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तावाक्रष्टुं साधुशक्तिं तदाधुः ॥६०६॥
 
+
+
 मध्ये तासां काञ्चिदञ्चत्पताकां
 
 वीक्ष्यारुह्य श्यामधामा विरेजे ।
@@ -12796,6 +16744,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शोभादेव्या सेव्यमानमिवैतां
 
 मन्ये मूर्तानन्द एवाध्यतिष्ठत॥६०७॥
+
+
 
 कर्षन्कान्तां हर्षवर्षासु सम्यक्
 
@@ -12805,6 +16755,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेम्णो वापीमापिपत्स्वाभिमुख्यम् ॥६०८॥
 
+
+
 पुष्पावल्यारात्रिकेणास्य पद्म
 
 द्वन्द्वं नीराज्यालिसङ्घ सगानम् ।
@@ -12812,6 +16764,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हारोष्णीषाद्यापयन्सुस्थितत्वं
 
 स्रक्ताम्बूलस्थासकैः पर्यचारीत॥६०९॥
+
+
 
 काञ्च्यामुक्तप्राञ्चिशाट्यन्चलान्ते
 
@@ -12821,6 +16775,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अन्वस्थातां द्वे दिशौ प्राणसख्यौ ॥६१०॥
 
+
+
 अन्ये धन्ये तिष्ठतः स्मेक्षमाणे
 
 धृत्वा पाण्योः पुण्यताम्बूलवीट्यौ ।
@@ -12828,6 +16784,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यूनोरास्याम्भोजयोरर्पयन्त्यौ
 
 वेगोपान्ते मङ्क्षु लब्धावकाशे ॥६११॥
+
+
 
 आलो मान्याः प्रेमवन्या इवान्याः
 
@@ -12837,6 +16795,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चक्रुर्वृष्टिं दृष्टिमापय्य हृष्टिम् ॥६१२॥
 
+
+
 देव्यस्त्विष्टं मानयन्त्यः स्वदिष्टं
 
 तौ पश्यन्त्यः श्यन्त्य एवाखिलाधिम् ।
@@ -12844,6 +16804,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 जातस्तम्भा अप्यसम्भाविताशा
 
 दिव्यातेनुः पुष्पवर्षं सतर्षम् ॥६१३॥
+
+
 
 तत्सङ्गिन्यो विप्रुषो वृष्यमाणा
 
@@ -12853,6 +16815,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुक्तावृन्दैरन्वविन्दन्त मैत्रीम् ॥६१४॥
 
+
+
 जृम्भोदञ्चत्सौरभव्रातमाद्यद्
 
 भृङ्गश्रेणिस्तोत्रभाजा मुखेन ।
@@ -12861,7 +16825,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्यामाच्छाद्य द्योतने स्मालिपालि ॥६१५॥
 
+
+
 गोविन्दलीलामृत १३.५५—
+
+
 
 तयोर्भ्रश्यत्कैश्यं मिथ इह चलत्कुण्डलयुगे
 
@@ -12871,7 +16839,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दृढं दोलान्दोले सति सपदि सन्दानितमभूत॥६१६॥
 
+
+
 कृष्णभावनामृत ११.२६५२—
+
+
 
 नृत्यं भेजुर्हारताटङ्कमाल्यान्य्
 
@@ -12881,6 +16853,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यूनोर्दोलानन्दचन्द्रे विवृद्धे ॥६१७॥
 
+
+
 अन्योन्याङ्गप्रोच्छलत्कान्तिसिन्धोर्
 
 वीचीव्रातामन्दहिन्दोलिकासु ।
@@ -12888,6 +16862,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्राप्तान्दोलान्योन्यनेत्रारविन्द
 
 श्रीसन्दोहैराढ्यतामापुराल्यः ॥६१८॥
+
+
 
 इत्थं चेतस्त्वेतयोर्दोलयन्यत्
 
@@ -12897,6 +16873,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कोऽप्योजस्वी हेतुरित्याहुरार्याः ॥६१९॥
 
+
+
 दोलरज्ज्वालम्बशाखे स्वलौल्याद्
 
 एतौ चञ्चत्पञ्चशाखाग्राभिः ।
@@ -12904,6 +16882,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पुष्पाढ्याभिः पल्लवालिभिरिष्टैः
 
 सेवेते स्मामोदनैर्वीजनैः किम् ॥६२०॥
+
+
 
 तत्तत्पत्राभ्यन्तरानन्तशिल्प
 
@@ -12913,6 +16893,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्रागुञ्जन्केवलं सापि शोभा ॥६२१॥
 
+
+
 दोलावेगाधिक्यकामौ स्वपद्भ्यां
 
 आक्रम्यैतां स्वावनत्युन्नतिभ्याम् ।
@@ -12920,6 +16902,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वं स्वं सर्वाः कौशलं दर्शयन्तौ
 
 प्रेमानन्दं तुन्दिलं चक्रतुस्तौ ॥६२२॥
+
+
 
 हिन्दोलाया रंहसि विन्दमाने
 
@@ -12929,6 +16913,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यूनोः कान्तिः कौतुकं कापि तेने ॥६२३॥
 
+
+
 राधाहारः संस्पृशन्कृष्णवक्षश्
 
 चक्रे नृत्यान्येकतो दिश्युदारम् ।
@@ -12936,6 +16922,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्यत्रास्याः कञ्चुकीं श्लिष्यति स्म
 
 स्रक्तस्यापीत्याययुर्मोदमाल्यः ॥६२४॥
+
+
 
 अन्योन्याङ्गादर्शदृष्टस्वभासोर्
 
@@ -12945,6 +16933,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अन्योन्यं संस्पृश्य तौ हृष्यतः स्म ॥६२५॥
 
+
+
 इत्थं लीलावारिधिः कौतुकित्वाद्
 
 अत्युद्रेकं रंहसो निर्मिमाणः ।
@@ -12952,6 +16942,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पृष्ठामृष्टोत्तुङ्गपर्यन्तशाखा
 
 पत्रालीकां तां चकारेव भीताम् ॥६२६॥
+
+
 
 मैवं मैवं माधिकं हन्त दोलेत्य्
 
@@ -12961,6 +16953,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जङ्घालत्वं माधवो भ्राजते स्म ॥६२७॥
 
+
+
 बन्धाद्वेणी विच्युता नावगुण्ठस्
 
 तस्थौ मूर्ध्नि व्यस्तता भूषणानाम् ।
@@ -12968,6 +16962,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पादौ शाटी नाप्यधादित्यमुष्या
 
 वैयग्र्ये हा जहासीति स्म कृष्णः ॥६२८॥
+
+
 
 इत्थं स्वाक्ष्णोस्तृप्यतो रंहसा तां
 
@@ -12977,6 +16973,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दोलाखट्टं तां च जग्राह दोर्भ्याम् ॥६२९॥
 
+
+
 एकीभूते चम्पकेन्दीवराभे
 
 मूर्ती यूनोरुद्गिरन्त्यावभाताम् ।
@@ -12984,6 +16982,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सम्मर्दोत्थं सौरभं व्याश्नुवानं
 
 पारे स्वर्गं हन्त पद्मादिनासा ॥६३०॥
+
+
 
 साम्यग्वेगा सा समन्ताद्धृताभूद्
 
@@ -12993,6 +16993,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताविस्तत्तत्संलपन्ती ललास ॥६३१॥
 
+
+
 मुख्यास्वष्टास्वाद्यभूतामथालीं
 
 आरोह्यास्यां तां स कृष्णां स्वयं सा ।
@@ -13000,6 +17002,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रेम्णा गायद्दोलयन्ती स चापि
 
 प्रेयान्दोले पूर्ववत्तामजैसीत॥६३२॥
+
+
 
 एवं प्रेष्ठास्ता विशाखादिकाली
 
@@ -13009,6 +17013,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वेकैकस्यामन्यहिन्दोलिकासु ॥६३३॥
 
+
+
 तासां द्वे द्वे सुन्दरीणां स्वदोर्भ्यां
 
 तत्रागृह्यारोह्य मह्याः प्रसह्य ।
@@ -13016,6 +17022,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भ्राम्यन्नेको दोलयत्ताः समस्ताः
 
 प्रेमाम्भोदेस्तस्य किं वास्त्यकृत्यम् ॥६३४॥
+
+
 
 ताः सर्वास्तु स्वस्वहिन्दोलिकान्तस्
 
@@ -13025,6 +17033,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 इच्छाशक्तेर्किं पुनः स्यादशक्यम् ॥६३५॥
 
+
+
 एकं तत्रैवास्ति हिन्दोलनाब्जं
 
 वृन्दोद्दिष्टप्रेयसीभिर्मुकुन्दः ।
@@ -13032,6 +17042,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आरुह्यैतत्कर्णिकास्थोपबर्हा
 
 लम्बी दोषाश्लिष्टाराधो रराज ॥६३६॥
+
+
 
 अष्टाबाल्योऽप्यष्टपत्रान्तरस्थास्
 
@@ -13041,6 +17053,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्राक्षाः प्राश्नन्कान्तभुक्तावशिष्टाः ॥६३७॥
 
+
+
 पीयूषान्तर्गर्वसर्वङ्कषस्य
 
 प्रागेवाभूत्पानकादेः प्रपाणम् ।
@@ -13048,6 +17062,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्ते हेमद्योतिताम्बूलवीटि
 
 वृन्दान्योन्यप्रीतिदानाभियोगः ॥६३८॥
+
+
 
 नान्दी वृन्दे विन्दतः स्म प्रमोदं
 
@@ -13057,6 +17073,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नाना गानारम्भशम्भा बभूवुः ॥६३९॥
 
+
+
 दोलान्दोलनक्रीडया ताः समस्ताः
 
 जित्वा प्राप्ताश्लेषचुम्बादिरत्नः ।
@@ -13064,6 +17082,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सार्धं कान्तमण्डलेनावरुह्य
 
 प्रागात्प्रेयान्काननात्काननाय ॥६४०॥
+
+
 
 राधास्योत्था मुद्रिता या स्मितश्रीस्
 
@@ -13073,6 +17093,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हृद्याधातुं तान्स्रजः संरचय्य ॥६४१॥
 
+
+
 खेऽगान्मेघः कृष्णगात्रच्छवित्वं
 
 विद्युत्तासामङ्गभासाततित्वम् ।
@@ -13080,6 +17102,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भूमे रूढैरिन्द्रगोपैः समूढैः
 
 पादालक्ताभ्यक्तता व्यक्तमासीत॥६४२॥
+
+
 
 कृष्णाभ्रेणातुलघनरसैः सर्वतो वृष्यमानैर्
 
@@ -13089,7 +17113,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वर्षाहर्षं वनमपि यतो हर्षवर्षास्वमाङ्क्षीत॥६४३॥
 
+
+
 कृष्णाह्निककौमुदी ३.६१—
+
+
 
 यत्रोत्फुल्लसरोरुहोत्पलचलत्कह्लाररक्तोत्पलैः
 
@@ -13099,7 +17127,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रायोद्देशमयं तमेव शरदामोदं नवो मन्मथः ॥६४४॥
 
+
+
 गोविन्दलीलामृत १३.६८—
+
+
 
 अथावद्कुन्दलता निचायतं
 
@@ -13109,6 +17141,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वयस्यया वां शरदा विभूषितम् ॥६४५॥
 
+
+
 चञ्चत्खञ्जनलोचनाम्बुजमुखी लोलालिमालालका
 
 खेलत्कोककुचा सिताभ्रसिचया रक्तोत्पलौष्ठाधरा ।
@@ -13116,6 +17150,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कूजत्सारसपालिरम्यरसना नीलोत्पलोत्तंसिका
 
 नाथौ पश्यतमत्र वां शरदियं सेवोत्सुकास्ते सखी ॥६४६॥
+
+
 
 जातीभिः सह रङ्गणाभिरखिलाङ्गालङ्कृतीः कैरवैर्
 
@@ -13125,7 +17161,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्मायार्पयितुं शरत्सहचरी वां वर्त्म संवीक्ष्यते ॥६४७॥
 
+
+
 आनन्दवृन्दावनचम्पू १.६८—
+
+
 
 स्थलकमलवनान्तः कौसुमं यस्य तल्पं
 
@@ -13135,7 +17175,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स ऋतुरतुलकान्तिर्यत्र राजेव रेजे ॥६४८॥
 
+
+
 कृष्णभावनामृत १२.७१६—
+
+
 
 अथ वृन्दयोपहृतमम्बुजं हरिः
 
@@ -13145,6 +17189,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जयसि त्वमित्यलघु तुष्टुवे च तत॥६४९॥
 
+
+
 कमलस्तवे सखि कृते मया कथं
 
 वदनं तवाभवदरालचिल्लिकम् ।
@@ -13152,6 +17198,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दरशोणिमां चटुलिताङ्ग्यवेदिषं
 
 निजगौरवच्यवनहेतुकं हि तम् ॥६५०॥
+
+
 
 भवतु क्रमादुभयमेव जिघ्रता
 
@@ -13161,6 +17209,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निजवेणुनाप्यलघु गास्यते मया ॥६५१॥
 
+
+
 इति तां निगद्य तदलक्षितं हरिः
 
 परिचुम्ब्य तन्मुखमुवाच विस्मितः ।
@@ -13168,6 +17218,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अहहातुलः परिमलोऽयमेव तत्
 
 सखि नानृतं त्वमपि मे समक्रुधः ॥६५२॥
+
+
 
 धिगरे वृथैव परिफुल्ल मूढ किं
 
@@ -13177,6 +17229,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अनुरूपमेव शठ चेष्टसेऽथवा ॥६५३॥
 
+
+
 तरुवल्लिलास्यविधिशिक्षणं प्रति
 
 क्षणमेव स क्षणमितो वितन्वता ।
@@ -13184,6 +17238,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तदुपाहृतस्वमकरन्दसौरभो
 
 च्चयदक्षिणाभिरपि न प्रसीदता ॥६५४॥
+
+
 
 शृणु कोपने तव मुखाम्बुजाञ्चली
 
@@ -13193,6 +17249,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अहमद्य धन्य इति नाभ्यमन्यत ॥६५५॥
 
+
+
 ललिताह यस्य दरगन्धमात्रतस्
 
 त्वमुदारमुन्मुरहराभिलक्ष्यसे ।
@@ -13200,6 +17258,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मकरन्दमस्य किमु हास्यसि त्वं
 
 इत्यशङ्कया कवलितां करोषि माम् ॥६५६॥
+
+
 
 सखि मा विषीद कति वा न माधुरी
 
@@ -13209,6 +17269,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सरसोऽस्य किं नु भविता दरिद्रता ॥६५७॥
 
+
+
 इति सव्यदोर्भुजगपाशवेष्टनैः
 
 स्वबलाद्वशीकृततनोर्नतभ्रुवः ।
@@ -13217,7 +17279,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वदनद्वयद्युतिरतीतृपत्सखीः ॥६५८॥
 
+
+
 कृष्णाह्निककौमुदी ३.६२—
+
+
 
 पक्वाम्रातकपिङ्गलामरुणितां सत्पक्वनारङ्गकैः
 
@@ -13227,7 +17293,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीकृष्णो विपिनस्थलीमथ ययौ हेमन्तसन्तोषिकाम् ॥६५९॥
 
+
+
 गोविन्दलीलामृत १३.४५५१—
+
+
 
 नान्दीमुखी तदनु ताववदद्वनेशौ
 
@@ -13237,6 +17307,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सम्पच्चयैश्चरणमर्चितुमुत्सुकं वाम् ॥६६०॥
 
+
+
 चित्राम्लानकुरुण्डकैः फुल्लैर्लसत्सौरभा
 
 माद्यत्तित्तिरिलावषट्पदकिखीकीरारवैर्मञ्जुला ।
@@ -13244,6 +17316,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हृद्या पक्त्रिमनागरङ्गरुचकैः शीता तुषारानिलैः
 
 सेयं भाति वनस्थलीह भवतो पञ्चेन्दिर्याह्लादिनी ॥६६१॥
+
+
 
 स्फुरितसहचरालीवेष्टितोऽम्लानकान्तिस्
 
@@ -13253,9 +17327,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुखरितशुकलीलो भाति हेमन्तकालः ॥६६२॥
 
+
+
 हिमऋतुलक्ष्मीमतिमुदितस्ताम् ।
 
 हरिरथ कान्तां प्रतिकुरुते स्म ॥६६३॥
+
+
 
 रुचिरविविधवर्णा पक्वशाल्यंशुकाङ्गी
 
@@ -13265,6 +17343,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वलय वरनटीवाभाति हेमन्तलक्ष्मीः ॥६६४॥
 
+
+
 औष्ण्यं हिमर्तुमनु ते हृदयाख्यदुर्गं
 
 भानोः समाश्रयति साध्वि तुषारभीत्या ।
@@ -13272,6 +17352,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्सङ्गमादनुपलब्धवियोगदुःखं
 
 रात्रिन्दिवं विलसति स्तनकोकयुग्मम् ॥६६५॥
+
+
 
 ऋताविहाग्नेः प्रबलोष्णभावा
 
@@ -13281,7 +17363,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रोडे द्रुमस्याद्रिदरीषु चान्ये ॥६६६॥
 
+
+
 आनन्दवृन्दावनचम्पू १.३१—
+
+
 
 क्रमाद्भानोरुष्मा ह्रसति हिमयोगेन महता
 
@@ -13291,7 +17377,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वधूनां शीतार्तप्रियतमपरिष्वञ्जनविधौ ॥६६७॥
 
+
+
 कृष्णभावनामृत १३.३७—
+
+
 
 इह सखि तुषारांशोरंशो निशाऽतिसमेधते
 
@@ -13301,6 +17391,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हिममहिमभिः कान्ते कां ते गमिष्यते वा दशाम् ॥६६७॥
 
+
+
 तदिह मम हृद्वेश्मन्यस्मिन्स्त्वदुत्कलिकालिभिस्
 
 तदुचितनिवासार्थं कोष्णीकृते निभृतेक्षणम् ।
@@ -13308,6 +17400,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रविश सहसा जड्यं दूरे विहाय विहारिणीत्य्
 
 अतिजवभुजद्वन्द्वेनैनां चकर्ष स हर्षदः ॥६६८॥
+
+
 
 नहि नहि नहीत्युक्तेनापि प्रियेण दृढं बलाद्
 
@@ -13317,6 +17411,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अपतदवनौ वंशी रोषादिवादरलाघवत॥६६९॥
 
+
+
 त्वमसि कठिने शीता गीताश्रयाप्युरुदोषभूस्
 
 तदुचितफलं विश्वोद्वेजिन्यवाप्नुहि साम्प्रतम् ।
@@ -13324,6 +17420,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इति ललितया स वेण्यग्रे निबध्य निजुह्नुवे
 
 स्मरमधुमदात्तां तत्स्वामी चिरादपि नास्मरत॥६७०॥
+
+
 
 समयविदतैथाभ्यः सार्धं प्रियेण विहारिणा
 
@@ -13333,7 +17431,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लघु लघु लघून्नीशाराणां चयान्समुपाहरत॥६७१॥
 
+
+
 आनन्दवृन्दावनचम्पू १.७७७८—
+
+
 
 कुरुवककुसुमानि केशपाशेष्व्
 
@@ -13343,6 +17445,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजसुदृशो न मणीन्द्रमण्डनानि ॥६७२॥
 
+
+
 कालीयकालेपनमङ्गरागे
 
 लीलागृहे केवलधूपधूमः ।
@@ -13351,7 +17455,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नोष्णेतरो यत्र गुणो गुणाय ॥६७३॥
 
+
+
 कृष्णाह्निककौमुदी ३.६३—
+
+
 
 प्रालेयद्रवशीकरैर्दिनमुखे कृष्णागमाकाङ्क्षया
 
@@ -13361,11 +17469,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रीत्याश्वासयितुं जगाम शिशिरामोदस्थलीं माधवः ॥६७४॥
 
+
+
 गोविन्दलीलामृत १३.५५६५—
+
+
 
 अथालोकयन्तौ पुरोऽरण्यभागम् ।
 
 समुत्कौ निजेशाववादीद्वनेशा ॥६७५॥
+
+
 
 प्रविशदखिलजन्तूत्कम्परोमाञ्चकारी
 
@@ -13375,6 +17489,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शिशिररुचिरनामा भात्यरण्यैकदेशः ॥६७६॥
 
+
+
 जवाबन्धूकाभारुणवरदुकूलं दमनक
 
 प्रभाचोलीं कुन्दद्युतिसितनिचोलं च दधती ।
@@ -13382,6 +17498,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भरद्वाजश्रेणीविरुतियुतहारीतरुतिभिः
 
 स्तुवन्तीव प्रेम्ना शिशिरऋतुलक्ष्मीर्मिलति वाम् ॥६७७॥
+
+
 
 निविडदलतरूणां वासराद्यन्तकाला
 
@@ -13391,6 +17509,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रकटपुलकबाष्पा वां समीक्ष्याभ्युपैति ॥६७८॥
 
+
+
 ऋतावस्मिन्तेजः क्षतिरनुदिनं प्राणसुहृदां
 
 सरोजानां नष्टिः स्वसुखसमयाह्नोऽपि लघुता ।
@@ -13398,6 +17518,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तुषारैश्चण्डांशोरपि मृदुभिरुच्चैर्बत कृता
 
 विनैकं विश्वेशं भवति नहि कः कालवशगः ॥६७९॥
+
+
 
 प्रबलशिशिरभीत्या भानुरौष्ण्यं स्ववित्तं
 
@@ -13407,6 +17529,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रभवति नहि गाढप्रेम्नि धर्माद्यपेक्षा ॥६८०॥
 
+
+
 इति तद्गिरा प्रमुदितोऽत्र
 
 शिशिरऋतुजां वनश्रियम् ।
@@ -13415,9 +17539,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदा ललितं जगाद निजप्रियाम् ॥६८१॥
 
+
+
 भ्रमदिन्दिन्दिरवृन्दं सुन्दरि शिशिरागमम् ।
 
 दिशत्यत्र मन्दादरमरविन्दे विन्दति कुन्दे यदानन्दम् ॥६८२॥
+
+
 
 पश्येन्दिरेन्दिन्दिरवृन्दसंयुता
 
@@ -13427,9 +17555,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुन्दावलौ सुन्दरि मन्दिरीयति ॥६८३॥
 
+
+
 हिमानि राहुसेनानी सूर्यं निर्जेतुमक्षमा ।
 
 तस्मिन्प्रणयिनीं ज्ञात्वाज्वालयत्पद्मिनी ततिम् ॥६८४॥
+
+
 
 तोयोत्थिताया व्रजकन्यकाततेः
 
@@ -13439,7 +17571,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तामत्र सा मत्स्मृतिमानयत्यसौ ॥६८५॥
 
+
+
 आनन्दवृन्दावनचम्पू १.३५—
+
+
 
 कचभरमधि बन्धुजीवमाला
 
@@ -13449,7 +17585,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्रगिति वधूर्न दधे मणीन्द्रभूषाम् ॥६८६॥
 
+
+
 गोविन्दलीलामृत १३.६६७१—
+
+
 
 हरिरथ दयिताया वृन्दयानीय दत्तौ
 
@@ -13459,6 +17599,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रुतियुगमनु तस्यैषापि कौन्दावतंसौ ॥६८७॥
 
+
+
 राधायाः करपङ्कजेऽथ निहिता कौन्दी मुदा वृन्दया
 
 या माला लघुलोहितोत्पलकुलस्रग्दीप्तिमेष दधे ।
@@ -13466,6 +17608,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सूक्ष्मेन्दीवरमाल्यरोचिरनया कृष्णस्य कण्ठेऽर्पिता
 
 तेनास्या हृदि योजिता सपुलके चाम्पेयमाल्यद्युतिम् ॥६८८॥
+
+
 
 स्मेरा विशाखाऽवददेतदद्भुतं
 
@@ -13475,6 +17619,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रमोत्क्रमाभ्यां भ्रमरैः प्रपीयते ॥६८९॥
 
+
+
 चित्राब्रवीत्साध्वि न चित्रमेतत्
 
 सौभद्रमेषां रमणं यदस्याम् ।
@@ -13482,6 +17628,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विभात्यमीष्वत्यनुरागवत्यां
 
 प्रचेतसामास यथैव वार्क्ष्याम् ॥६९०॥
+
+
 
 कौन्द्याललाप कलयाद्भुतमालि फुल्लान्
 
@@ -13491,6 +17639,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एकं पिबन्ति तमिमं शतशो भ्रमर्यः ॥६९१॥
 
+
+
 चित्राह सारग्रहिलातिपूता
 
 कृष्णत्विडुद्यन्मधुमात्रवृत्तिः ।
@@ -13499,7 +17649,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यत्रातिशुद्धं मधु तत्र सक्ता ॥६९२॥
 
+
+
 गोविन्दलीलामृत १४.१५—
+
+
 
 अथालिवर्गाननसौरभाहृतस्
 
@@ -13509,6 +17663,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तद्गन्धमत्तः परितोऽलिरञ्चति ॥६९३॥
 
+
+
 नेत्रान्तोद्धुवनैश्च कङ्कणझनत्कारोर्मिसन्तर्जनैस्
 
 त्रासाद्दोलितपाणिपद्मधुवनैः क्षिप्तोऽपि भृङ्गो यदा ।
@@ -13516,6 +17672,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लोभान्नापससार तर्ह्यपसृता श्रीराधिका श्रीहरेः
 
 संव्यानाञ्चलसंवृतास्यकमला पार्श्वे निलीय स्थिता ॥६९४॥
+
+
 
 तस्मिन्गते पद्मवनीमलौ चले
 
@@ -13525,6 +17683,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पद्मालिमुत्को मधुसूदनो गतः ॥६९५॥
 
+
+
 आढ्यंकरण्या सुभगंकरण्या
 
 स्थूलंकरण्या प्रणयोच्चलक्ष्म्या ।
@@ -13533,11 +17693,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नान्धीकृतासावनुसन्दधे तम् ॥६९६॥
 
+
+
 तावत्कृष्णेन ताः सख्य इङ्गितज्ञेन वारिताः ।
 
 तत्पक्षं जगृहुः सख्या विस्मिताः प्रेमचेष्टितैः ॥६९७॥
 
+
+
 विदग्धमाधव ५.४६—
+
+
 
 समजनि दवाद्वित्रस्तानां किमार्तरवो गवां
 
@@ -13547,11 +17713,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यदिह सहसा मामत्याक्षीद्वने वनजेक्षणः ॥६९८॥
 
+
+
 गोविन्दलीलामृत १४.६१५—
+
+
 
 प्रेमवैचित्त्यविभ्रान्ता कान्ता कान्तान्तरं गतम् ।
 
 कान्तं मत्वा ततोऽभ्येत्य रुष्टा प्राह धनिष्ठिकाम् ॥६९९॥
+
+
 
 धनिष्ठे धृष्टस्ते क्वनु कपटनाटीनटिनटस्
 
@@ -13561,6 +17733,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भविष्यत्यप्येषा तव मुखरुचा निर्जितरुचिः ॥७००॥
 
+
+
 दोषोऽत्र ते नास्त्यहमेव मूढा
 
 श्रुत्वापि यातं गहने सशैब्यम् ।
@@ -13568,6 +17742,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विश्रभ्य वाण्यां तव कूटदूत्या
 
 यदा गता तस्य शठस्य पार्श्वम् ॥७०१॥
+
+
 
 धनिष्ठैषाप्यस्मद्धृदयसदृशी वञ्चयति नः
 
@@ -13577,6 +17753,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चिरं जीवेद्योऽस्मिन्जगति स हि वा पश्यति न किम् ॥७०२॥
 
+
+
 इदं किं सोढव्यं भवति यदयं मत्प्रियसरो
 
 निकुञ्जे पद्मालीं क्वचिदपि निधायात्र निभृतम् ।
@@ -13585,17 +17763,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुधालापारम्भं न इह स विहायागमदमूम् ॥७०३॥
 
+
+
 ललिता प्राह तद्धार्ष्ट्यं मया दृष्टं मुहुः सखि ।
 
 नावैषि सरला तत्त्वमेहि यामः स्वमन्दिरम् ॥७०४॥
+
+
 
 इति तां ललितापाणौ धृत्वा चक्रे गृहोन्मुखीम् ।
 
 सापि तद्विरहाद्भीता दीनार्तोत्का जगाद ताम् ॥७०५॥
 
+
+
 दृष्टान्दोषान्न गृह्नाति चिन्तयत्यसतो गुणान।
 
 दिदृक्षते तादृशं तं वामं चेतः करोमि किम् ॥७०६॥
+
+
 
 स्त्रीततेर्न क्वचित्कामजाप्युर्ज्जिता
 
@@ -13605,6 +17791,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा तया तां सखीं राधिका व्याहरत॥७०७॥
 
+
+
 त्यज व्यर्थां नारीचयनयकथां कर्णतुदनीं
 
 विनिर्यान्ति प्राणाः स्फुटति मम हृद्घूर्णति वपुः ।
@@ -13613,7 +17801,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सखि त्वां वन्दे हा हृदयदयितं दर्शय लघु ॥७०८॥
 
+
+
 उज्ज्वलनीलमणि १५.१४८—
+
+
 
 आभीरेन्द्रसुते स्फुरत्यपि पुरस्तीव्रानुरागोत्थया
 
@@ -13623,7 +17815,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधा हन्त तथा व्यचेष्टते यतः कृष्णोऽप्यभूद्विस्मितः ॥७०९॥
 
+
+
 गोविन्दलीलामृत १४.१६२४—
+
+
 
 सारल्यं ते विविधरमणीलम्पटो धृष्टभूपश्
 
@@ -13633,6 +17829,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वच्चरित्रैर्वयमिह हताः किं पुनर्हंसि वास्मान॥७१०॥
 
+
+
 इतोऽपि का सास्त्यधिकात्र वञ्चना
 
 यया शठोऽस्मान्स कदर्थयिष्यति ।
@@ -13640,6 +17838,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्यालपन्ती प्रियमैक्षताग्रतः
 
 सालिङ्ग्य काञ्चिद्दयितां समागतम् ॥७११॥
+
+
 
 तां वीक्ष्य पश्चाद्दयितोपगूढां
 
@@ -13649,17 +17849,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ह्रियेर्ष्यया सा विमुखी चकम्पे ॥७१२॥
 
+
+
 वल्गूयन्तीं समीक्ष्यामूं मन्तूयन्तीह राधिका ।
 
 सा कुन्दलतयाभाषि कृष्णेनेरितया दृशा ॥७१२॥
+
+
 
 कान्तं द्रष्टुं समुत्का त्वमागतं तं समुत्सुकम् ।
 
 द्रुतं मिल कथं जातास्यकस्माद्विमुखी रुषा ॥७१३॥
 
+
+
 साप्याह तां हरेर्वक्षस्यमूं किं त्वं न पश्यसि ।
 
 यां प्रदर्शयितुं गेहादानीताहं त्वया शठे ॥७१४॥
+
+
 
 कृष्णाब्रवीद्यां मनुसे न सैषा
 
@@ -13669,6 +17877,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उक्त्वा बलान्मां परिरभ्य सास्ते ॥७१५॥
 
+
+
 आलिङ्ग्य संचुम्ब्य च मां स्वविद्यया
 
 पृष्ठेन लग्नोरसि मे तथासकौ ।
@@ -13677,11 +17887,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वयं च निःसर्तुमपि प्रयत्नतः ॥७१६॥
 
+
+
 प्रार्थितापि मया नैषा मां जहात्यतिकामुकी ।
 
 वारयैनां निजसखीं बलान्मां पीडयत्यसौ ॥७१७॥
 
+
+
 उज्ज्वलनीलमणि १०.३०—
+
+
 
 शृणु सखि तव कर्णे वर्णयाम्यत्र नीचैर्
 
@@ -13691,13 +17907,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मरकतमुकुराभे बिम्बितासि त्वमेव ॥७१९॥
 
+
+
 गोविन्दलीलामृत १४.२५—
+
+
 
 लग्नायां ललितायां तच्छ्रुतौ सासीदधोमुखी ।
 
 सकृष्णा जहसुः सभ्याः कुन्दवल्ली जगाद ताम् ॥७२०॥
 
+
+
 गोविन्दलीलामृत १४.२६—
+
+
 
 नैवाक्षि लग्नं दयितं विलोकसे
 
@@ -13707,7 +17931,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चित्रं तवेदं प्रणयाख्यनर्तनम् ॥७२१॥
 
+
+
 उज्ज्वलनीलमणि १४.८१—
+
+
 
 ज्योत्स्नाशीधुं हरिमुखविधोरप्यनल्पं पिबन्तौ
 
@@ -13717,7 +17945,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भूयो भूयस्तमिह वमतो बाष्पपूरच्छलेन ॥७२२॥
 
+
+
 उज्ज्वलनीलमणि १४.१५०—
+
+
 
 समारम्भं पारस्परिकविजयाय प्रथयतोर्
 
@@ -13727,7 +17959,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वयाप्यस्याः प्रेमोत्सवनवगुणैश्चित्तहरिणः ॥७२३॥
 
+
+
 उज्ज्वलनीलमणि १४.१५५—
+
+
 
 राधाया भवतश्च चित्तजतुनी स्वेदैर्विलाप्य क्रमात्
 
@@ -13737,7 +17973,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भूयोभिर्नवरागहिङ्गुलभरैः शृङ्गारकारुः कृती ॥७२४॥
 
+
+
 गोविन्दलीलामृत १३.११४—
+
+
 
 इत्थं दीव्यन्नविकलकलाशालिसीमन्तिनीनां
 
@@ -13747,11 +17987,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रामं भ्रामं स किल ललितानन्ददं कुञ्जमाप ॥७२५॥
 
+
+
 गोविन्दलीलामृत १४.७७१०४—
+
+
 
 अथ ताभिः समं कृष्णो माध्वीकपानकुट्टिमे ।
 
 निविष्टः शीतलच्छाये विश्रामसुखमन्वभूत॥७२६॥
+
+
 
 गोपीनामरविन्दसुन्दरदृशां श्रीकृष्णपार्श्वद्वयाद्
 
@@ -13761,6 +18007,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रत्नालीखचितो यथा हरिमणिः सौवर्णहारान्तरे ॥७२७॥
 
+
+
 अथालयः स्वके करे सरोजसञ्चयाद्वरे
 
 निधाय पञ्चचामरं चिता भरैर्मुदामरम् ।
@@ -13768,6 +18016,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निविष्टमत्र कान्तया नितान्तकेलितान्तया
 
 न्यवीजयन्निजं प्रियं रुचा जितस्मरश्रियम् ॥७२८॥
+
+
 
 गत श्रमेऽस्मिन्सगणे सखीभिः
 
@@ -13777,6 +18027,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तयोः समानीय दधार वृन्दा ॥७२९॥
 
+
+
 विकसितमनु नृत्यत्खञ्जनाभ्यां विराजत्
 
 कनककमलमेकं नीलराजीवमन्यत।
@@ -13784,6 +18036,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वरतनुबकशत्र्वोः पश्यतोः प्रादुरासीद्
 
 अधि चषकमकस्मात्पद्मयुग्मं विचित्रम् ॥७३०॥
+
+
 
 नयनमधुपयुग्मं राधिकायाः प्रलुब्धं
 
@@ -13793,6 +18047,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कनककमलमध्ये तद्वदेवाच्युतस्य ॥७३१॥
 
+
+
 सौन्दर्यं मधुतां मुखं चषकतां माध्वीकमादर्शतां
 
 नेत्रद्वन्द्वमवाप सन्मधुपतां सर्वेन्द्रियं नेत्रताम् ।
@@ -13800,6 +18056,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्याङ्गं जडतां तयोः सपुलकं चित्तं स्मरोन्मत्ततां
 
 साम्यगेव तदेतरेत्थमभवत्पानक्रियाप्तोन्नतिम् ॥७३२॥
+
+
 
 कौन्द्यब्रवीत्पेयमिदं स्वचक्षुषा
 
@@ -13809,6 +18067,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रसज्ञया पेयमिदं निपीयताम् ॥७३३॥
 
+
+
 आदाय निन्ये चषकं बलानुजः
 
 पिबेति कान्तावदनाब्जसन्निधिम् ।
@@ -13816,6 +18076,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तिर्यङ्मुखी तद्दयितापि लज्जया
 
 करेण जग्राह निजेन तत्करात॥७३४॥
+
+
 
 आवृत्य वक्त्रं वसनाञ्चलेन सा
 
@@ -13825,6 +18087,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समर्पयामास करे प्रियस्य सा ॥७३५॥
 
+
+
 प्रियाटवीवृक्षलतोद्भवं प्रियं
 
 प्रियाधरस्पर्शसुसौरभं मधु ।
@@ -13832,6 +18096,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निजप्रियालीपरिहासवासितं
 
 प्रियार्पितं सस्पृहमापपौ प्रियः ॥७३६॥
+
+
 
 दयितागुणमेदुरेण तद्
 
@@ -13841,6 +18107,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दयिताप्यंशुकसंवृतानना ॥७३७॥
 
+
+
 तद्वक्त्रशेषामृतमिश्रितासवैः
 
 पूर्णानि कृत्वा चषकाणि सादरम् ।
@@ -13848,6 +18116,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वृन्दा सवृन्दा सहकुन्दवल्लिका
 
 न्यधात्सखीनां पूरतः प्रमोदतः ॥७३८॥
+
+
 
 ताभिः सखीनां चषकेष्वथाग्रतो
 
@@ -13857,9 +18127,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नालोकि केनापि परिस्फुरन्नपि ॥७३९॥
 
+
+
 सख्यस्ताः केवलं स्वस्य स्वस्यैव पार्श्वमागतम् ।
 
 पाययन्तं पिबन्तं च मधु तं ददृशुः प्रियम् ॥७४०॥
+
+
 
 कादम्बरीमदविघूर्णितशोण
 
@@ -13869,6 +18143,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हासेन्दुकान्तिवलिताधरपल्लवानि ॥७४१॥
 
+
+
 कृष्णस्य नेत्ररसना स्वदनीयभूरि
 
 सौन्दर्यसल्लवणिमासवपूरितानि ।
@@ -13876,6 +18152,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तस्यातिपानमनु तृट्परिपूरणाय
 
 वक्राण्ययुश्चषकतां सुदृशाममूषाम् ॥७४२॥
+
+
 
 स्मरयुजां सरकाय मृगीदृशां
 
@@ -13885,6 +18163,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सरकतां समगादधरो हरेः ॥७४३॥
 
+
+
 माध्वीकभेदान्विविधान्सवृन्दा
 
 वृन्दाथ वृन्दावननाथयोः सा ।
@@ -13893,9 +18173,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समर्पयामास तथा सखीनाम् ॥७४४॥
 
+
+
 तांस्तान्प्रपिबतां तेषां पानपायनमाधुरी ।
 
 नेत्रोन्मादाय वृन्दादेश्चिराय मदिरायते ॥७४५॥
+
+
 
 अविरतमधुपाने स्वादुकान्ताधरोष्ठं
 
@@ -13905,9 +18189,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मिथ इह मिथुनानां निश्चयो नास पाने ॥७४६॥
 
+
+
 माधवागत्यनङ्गोत्थैर्मदैर्माधवपानजैः ।
 
 माधवस्पर्शजैश्चासन्व्याकुलास्ताः वराङ्गनाः ॥७४७॥
+
+
 
 स्खलितवसनभूषाङ्गाद्य सम्भालनं
 
@@ -13917,6 +18205,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रथयति मदमन्तर्वारुणीपानजं तत॥७४८॥
 
+
+
 निधुवनमनु पूर्वं यत्प्रियेण प्रियाणां
 
 स्खलनमयनवासः केशवाचां विधेयम् ।
@@ -13924,6 +18214,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मधुमद इह कुर्वन्तद्वधूनाममूषाम्
 
 अकुरुत मुरशत्रोः प्रीतिसाहाय्यमस्य ॥७४९॥
+
+
 
 उक्तौ लोहलता गतौ स्खलितता केशांशुके स्रस्तता
 
@@ -13933,6 +18225,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यायासीत्सुदृशां तदा त्रिसरकोत्पन्नाधिनोत्सा प्रियम् ॥७५०॥
 
+
+
 कृष्णे व्रजाम्बुजदृशां हृदि गाढ
 
 रागो नारीस्वभावजह्रिया विनिगूहितो यः ।
@@ -13941,9 +18235,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नेत्रोत्पलेषु बहिरेत्य चकार वासम् ॥७५१॥
 
+
+
 नवेन मधुपानेन काचिन्नवकिशोरिका ।
 
 मदोद्रेकाद्भ्रान्तनेत्रा प्रललापाति विह्वला ॥७५२॥
+
+
 
 लललललिते पपपपश्य राधाच्युतौ
 
@@ -13953,9 +18251,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समं गगगगगनं लम्बते हा कथम् ॥७५३॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.१६५—
 
+
+
 अलङ्कारकौस्तुभ ५.२२—
+
+
 
 अङ्काङ्कि सूवलनं कराकरि मनःसंवादसंवेदनं
 
@@ -13965,7 +18269,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधामाधवयोर्मधौ मधुमदक्रीडा जरीजृम्भते ॥७५५॥
 
+
+
 अलङ्कारकौस्तुभ ५.३१—
+
+
 
 आलि प्रेयान्हरिरतिशठः कृष्ण मे सम्प्रसीद
 
@@ -13975,7 +18283,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधाकृष्णौ मधुमदमुदा मोहितौ वः पुनीताम् ॥७५६॥
 
+
+
 उज्ज्वलनीलमणि ११.८८—
+
+
 
 करोति नादं मुरली रली रली
 
@@ -13985,7 +18297,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हरे भवन्तं ललिता लिता लिता ॥७५७॥
 
+
+
 गोविन्दलीलामृतं १४.१०५११२—
+
+
 
 विसृत्वरामोदविकृष्टभृङ्ग
 
@@ -13995,6 +18311,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रोद्बुद्धकन्दर्पमदातिलोलः ॥७५८॥
 
+
+
 अन्तर्विलोलालिसमीरवेल्लत्
 
 प्रोत्फुल्लरक्तोत्पलजैत्रनेत्रः ।
@@ -14002,6 +18320,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ललास लोलल्ललनासुधृष्णक्
 
 कृष्णः सतृष्णालिरिवाब्जिनीषु ॥७५९॥
+
+
 
 मदेरिताभ्यामथ तौ सखीभ्यां
 
@@ -14011,6 +18331,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुषुप्सया केवलयाञ्चितासीत॥७६०॥
 
+
+
 तयोर्मदोत्पन्ननिगूढलीला
 
 स्पृहाविदह्प्रेरणयाथ कौन्द्याः ।
@@ -14018,6 +18340,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कान्तावतंसार्थमशोकपुष्प
 
 गुच्छाय गच्छत्यरविन्दनेत्रे ॥७६१॥
+
+
 
 कान्तापि घूर्णा परिपूर्णिताक्षी
 
@@ -14027,6 +18351,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुष्वाप पुष्पावलितल्पभाजि ॥७६२॥
 
+
+
 गन्धोत्तमाः परिमलाधिकवासितोद्यज्
 
 जृम्भोद्गमास्यकमला गलदम्बराङ्ग्यः ।
@@ -14034,6 +18360,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 घूर्णायमाननयनाः शयनाभिलाषाः
 
 सख्योऽप्ययुस्तत इतः स्खलिताङ्घ्रिपाताः ॥७६३॥
+
+
 
 तल्पोपकल्पनगृहीतदलालिकञ्ज
 
@@ -14043,6 +18371,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तल्पपुञ्जेषु चञ्चलदलिगुञ्जितमञ्जुलेषु ॥७६४॥
 
+
+
 गुञ्जावलीकुसुममञ्जरिचित्रितेषु
 
 ताम्बूलगन्धजलभाजनराजितेषु ।
@@ -14051,7 +18381,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सर्वाः पृथक्पृथगिताः सुषुपुर्वयस्याः ॥७६५॥
 
+
+
 गोविन्दलीलामृतं १५.१७—
+
+
 
 कङ्केल्लिपल्लवकतल्लजकर्णपूरः
 
@@ -14061,9 +18395,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दादृशोदितनिकुञ्जसरोजमुत्कः ॥७६६॥
 
+
+
 राधासुरधनीं प्राप्ते कृष्णमत्तमतङ्गजे ।
 
 उड्डीयापससाराली मरालीपालिरञ्जसा ॥७६७॥
+
+
 
 पिबन्नसौ लोचनपुष्करेण
 
@@ -14073,6 +18411,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 करणे नीवीनलिनीं च लोलः ॥७६८॥
 
+
+
 कान्तापि तन्दृअविनिमीलिताक्षी
 
 स्वप्ने ददर्श प्रियमन्तिकाप्तम् ।
@@ -14080,6 +18420,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नीवीकुचाकर्षणयत्नवन्तं
 
 तं वारयन्ती प्रललाप वाम्यात॥७६९॥
+
+
 
 म म म मापि पि पि पृश मां हरे
 
@@ -14089,6 +18431,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क कलिताक्षियुगास्मि घू घूर्णय ॥७७०॥
 
+
+
 स्मितरुदितविमिश्रं गद्गदास्पष्टवर्णं
 
 रमणमनु तदेति व्याहरन्ती कराभ्याम् ।
@@ -14097,11 +18441,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियमथ तमपश्यत्स्वं च तादृक्क्रियं सा ॥७७१॥
 
+
+
 मीलितोन्मीलिताक्षी स स्मरमाध्वीकमादिता ।
 
 स्वप्नजागरयोरासीत्समवाक्चेष्टितादिका ॥७७२॥
 
+
+
 अलङ्कारकौस्तुभ ५.१४—
+
+
 
 धृते पाणिद्वन्द्वे झटिति झणितं रत्नवलयैर्
 
@@ -14111,7 +18461,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 घनोत्तृष्णं कृष्णं प्रति समतनोत्तर्जनमिव ॥७७३॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 प्राग्दोर्मण्डलपीडनोद्धूरधियः प्रोद्दामवैजात्यया
 
@@ -14121,7 +18475,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सार्धं राधिकया हरेर्निधुवनक्रीडाविधिर्वर्धते ॥७७४॥
 
+
+
 श्रीगोविन्दरतिमञ्जरी ५.९२—
+
+
 
 राधायाः स्तनमण्डले हरिपरीरम्भेण दम्भोद्धुरं
 
@@ -14131,7 +18489,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्थातुं सम्प्रति नूनमम्बरमणिस्तत्सन्धिमभ्याविशत॥७७५॥
 
+
+
 गीतगोविन्द १२.१०१३—
+
+
 
 प्रत्यूहपुलकाङ्कुरेण निविडलेशनिमेषेण च
 
@@ -14141,6 +18503,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उद्भूतः स तयोर्बभूव सुरतारम्भः प्रियम्भावुकः ॥७७६॥
 
+
+
 दोर्भ्यां संयमितः पयोधरभरेणापीडितः पाणिजैर्
 
 आविद्धो दशनैः क्षताधरपुटः श्रोणीतटेनाहतः ।
@@ -14148,6 +18512,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हस्तेनानमितः कचेऽधरमधुस्यन्देन संमोहितः
 
 कान्तः कामपि तृप्तिमाप तदहो कामस्य वामा गतिः ॥७७७॥
+
+
 
 माराङ्के रतिकेलिसङ्कुलरणारम्भे तया साहस
 
@@ -14157,6 +18523,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वक्षो मिलितमक्षि पौरुषरसः स्त्रीणां कुतः सिध्यति ॥७७८॥
 
+
+
 तस्याः पाटलपाणिजाङ्कितमुरो निद्राकाषाये दृशौ
 
 निर्धौताधरशोनिमा विलुलितस्रस्तस्रजो मूर्धजः ।
@@ -14165,7 +18533,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एभिः कामशरैस्तदद्भुतमभूत्पत्युर्मनः कीलितम् ॥७७९॥
 
+
+
 गोविन्दलीलामृतं १५.२१, २३२९—
+
+
 
 तदास्याः श्रीभालं श्रमसलिललोलालकवृतं
 
@@ -14175,6 +18547,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पराभूतेतीयं समिति दयितानन्दमतनोत॥७८०॥
 
+
+
 श्रमजलकणदिग्धनिष्पन्दमूर्तिर्
 
 गलितवसनभूषाकल्पतल्पप्रजल्पा ।
@@ -14183,9 +18557,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्थिरतडिदिव नय्वाम्भोधरे सा रराज ॥७८१॥
 
+
+
 अस्याः श्वासोच्चलत्तुन्दं मुहुः कृष्णोदरः स्पृशत।
 
 किमानन्दजडं तस्याः सेवायै चेतयत्यमुम् ॥७८२॥
+
+
 
 दीव्यत्तदात्वोदितमाधुरीणां
 
@@ -14195,6 +18573,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ग्लानिस्तदैका तनुसेविकासीत॥७८३॥
 
+
+
 ताभ्यां तु सन्धौ विहिते तदा तयोः
 
 प्रेम्णा प्रियायाः स्वकराम्बुजन्मना ।
@@ -14202,6 +18582,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उत्थाय चक्रे श्रमतोयमार्जनं
 
 कैश्यालकाल्यम्बरसंवृतिं च सः ॥७८४॥
+
+
 
 सम्प्रार्थितो वपुरलङ्कृतये तया तां
 
@@ -14211,6 +18593,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्स्पर्शसम्मदजविभ्रमयानयोचे ॥७८५॥
 
+
+
 मया किं भूषायै त्वमसि रमण प्रार्थित इह
 
 त्यज व्यर्थां श्रान्तिं विरम नहि भूषा मम मुदे ।
@@ -14218,6 +18602,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 न चाहं शक्तालङ्करणचयभारस्य वहने
 
 दुनोत्युद्घूर्णा मां क्षणमवसरं देहि शयितुम् ॥७८६॥
+
+
 
 इति गदितमरन्दं प्रेयसीवक्त्रपद्मात्
 
@@ -14227,13 +18613,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उदितमदनमत्तः सस्मितो विस्मितश्च ॥७८७॥
 
+
+
 समाहर्तुः—
+
+
 
 शिवोत्तंसादिचरणाङ्गुल्ञान्तविभूषणैः ।
 
 विभूष्य तां हरिः पश्चात्तयासीत्तैर्विभूषितः ॥७८८॥
 
+
+
 गोविन्दलीलामृतं १५.३०३६—
+
+
 
 तावत्तयोः सेवनमात्रसौख्याः
 
@@ -14243,6 +18637,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुञ्जालयं ता विविशुः प्रियाल्यः ॥७८९॥
 
+
+
 ताम्बूलशीतलजलामलगन्धमाल्यैः
 
 पादाम्बुजादिमृदुमर्दनबीजनाद्यैः ।
@@ -14250,6 +18646,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ताभिर्निषेवितपदौ प्रणयोन्मदाभिर्
 
 आमोदमापतुरलं विगतश्रमौ ॥७९०॥
+
+
 
 साकूतसस्मितदृशा प्रियमीरयन्ती
 
@@ -14259,9 +18657,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सख्यः स्वपन्ति रमणानय ताः प्रबोध्य ॥७९१॥
 
+
+
 तदनिच्छन्नर्मणासौ प्रियया मुहुरर्थितः ।
 
 निर्ययौ ता रमयितुं मत्तेभ इव पद्मिनीः ॥७९२॥
+
+
 
 कृष्णश्चक्रे मनसि ललितां यामि किं वा विशाखाम्
 
@@ -14271,6 +18673,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आत्मानं ते निजविरचिते जीवदेहे यथैकः ॥७९३॥
 
+
+
 तासां कुञ्जेषु सर्वासां तेन लीला मनोहरा ।
 
 स्वप्नजागरयोरासीद्यूथेशाया यथा पुरा ॥७९४॥
@@ -14279,7 +18683,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जिगाय युगपत्सर्वाः श्रीकृष्णो मल्लतल्लजः ॥७९५॥
 
+
+
 गोविन्दलीलामृतं १५.३८३९—
+
+
 
 स्वाधीनकान्तकरकारितभूरिभूषा
 
@@ -14289,6 +18697,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भूयोऽभिमार्जितसमाप्तमखस्थलीव ॥७९६॥
 
+
+
 स्वालीं प्रति प्रणयरोषविभङ्गुरभ्रूर्
 
 लज्जाविनम्रवदना स्खलिताङ्घ्रिपाता ।
@@ -14297,7 +18707,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सालिततिस्तत इतो मिलिताभ्युपेत्य ॥७९७॥
 
+
+
 कृष्णभावनामृत १९.५७—
+
+
 
 उपालिप्सुरलीः पुनरुपसृता वीक्ष्य पिहित
 
@@ -14307,6 +18721,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भुजङ्गं मृग्यन्त्यः कमविशत वा गह्वरवरम् ॥७९८॥
 
+
+
 भुजङ्गं स्वाधीनं सुमुखि जनतां दंशयसि यत्
 
 तदास्तां ते ख्यातं व्रजभुवि यशो मा हस पुनः ।
@@ -14314,6 +18730,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अहं चेद्व्याख्यास्ये किमपि चरितं तत्सपदि ते
 
 गिरं तां ह्रीर्देवी विरमयितुमाविर्न भविता ॥७९९॥
+
+
 
 इत्येव यावल्ललिताबभाषे
 
@@ -14323,7 +18741,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चित्रं यदेवाद्यतनं सुरम्यम् ॥८००॥
 
+
+
 उज्ज्वलनीलमणि ५.५०—
+
+
 
 सख्यास्तवानङ्गरणोत्सवेऽधुना
 
@@ -14333,7 +18755,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धीरं मुहुर्मे प्रजहार कौस्तुभम् ॥८०१॥
 
+
+
 अलङ्कारकौस्तुभ ८.१२४—
+
+
 
 मनोरागं दत्त्वा चरणदलरागो मृगदृशस्
 
@@ -14343,7 +18769,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समं त्वद्वैदग्ध्यं तदवयववैदग्ध्यमपि च ॥८०२॥
 
+
+
 अथ सखीमप्याह, विदग्धमाधवे ७.४१—
+
+
 
 नैरञ्जन्यमुपेयतुः परिगलन्मोदाश्रुणी लोचने
 
@@ -14353,7 +18783,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधे नीविरियं तव श्लथगुणा शङ्के मुमुक्षां दधे ॥८०३॥
 
+
+
 उज्ज्वलनीलमणि ७.४९—
+
+
 
 पूर्णं प्रमोदोत्तरलेन राधे
 
@@ -14363,7 +18797,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वमुन्मनाः कुम्भभवायितासि ॥८०४॥
 
+
+
 उज्ज्वलनीलमणि १०.४०—
+
+
 
 चित्रं धनिष्ठे तनुवाससोऽपि
 
@@ -14373,7 +18811,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मूर्तिर्बिन्दुना सखि लोहितासीत॥८०५॥
 
+
+
 उज्ज्वलनीलमणि ४.८—
+
+
 
 कचास्तव सुकुञ्चिता मुखमधीरदीर्घेक्षणं
 
@@ -14383,7 +18825,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विधूनयति राधिके त्रिजगदेष रुपोत्सवः ॥८०६॥
 
+
+
+
+
 उज्ज्वलनीलमणि ४.२२—
+
+
 
 तडिदतिचलतां ते किं दृगन्तादपाठीद्
 
@@ -14393,7 +18841,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वरमतिजविनां मे येन जिग्ये मनोऽपि ॥८०७॥
 
+
+
 उज्ज्वलनीलमणि ४.२७—
+
+
 
 सुवदने वदने तव रधिके
 
@@ -14403,7 +18855,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सखि ययाद्य सुधापि मुधार्थताम् ॥८०८॥
 
+
+
 उज्ज्वलनीलमणि ४.४१—
+
+
 
 तिर्यक्क्षिप्तचलद्दृगञ्चलरुचिर्लास्योल्लसद्भ्रूलता
 
@@ -14413,7 +18869,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हारिण्यद्य हरेर्जहार हृदयं राधा विलासोर्मिभिः ॥८०९॥
 
+
+
 उज्ज्वलनीलमणि ५.२९—
+
+
 
 भ्रुवोर्विक्षेपस्ते कवलयति मीनध्वजधनुः
 
@@ -14423,7 +18883,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वरोरूणां राधे तरुणिमनि चूडामणिरसि ॥८१०॥
 
+
+
 उज्ज्वलनीलमणि १२.१६—
+
+
 
 प्रेयस्यः परमाद्भुताः कति न मे दीव्यन्ति गोष्ठान्तरे
 
@@ -14433,7 +18897,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधायाः सखि रोषगद्गदपदैराक्षेपवाग्बिन्दुभिः ॥८११॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 इति माधवेऽभिदधतीह दीपित
 
@@ -14443,7 +18911,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अधयद्दृशोच्चलितया भृशोत्सुकः ॥८१२॥
 
+
+
 गोविन्दलीलामृत १५.४२४९—
+
+
 
 मधुरिपुरतिलीलागाधापीयूषसिन्धुः
 
@@ -14453,6 +18925,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कविभिरपि तटस्थैः स्पृश्यते भाग्यमेतत॥८१३॥
 
+
+
 अथ विविधविलासश्रान्तितः क्लान्तिपूर्णा
 
 अवसरनिजसेवाभिज्ञयोपेत्य तूर्णम् ।
@@ -14460,6 +18934,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 जलमनु जललीलावाञ्छयाल्या तदान्तर्
 
 हरिहरिदयिताल्यश्चाल्यमाना बभूवुः ॥८१४॥
+
+
 
 ग्रीवसंयमितकेलिविमुक्तकेशाः
 
@@ -14469,6 +18945,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भाराङ्गभूषणचयाः सुदृशो बहुस्ताः ॥८१५॥
 
+
+
 उद्यत्सुधांशुशतपुष्करनिन्दिकान्तिः
 
 प्रोद्यद्विभाकरविकस्वरपुष्कराक्षः ।
@@ -14476,6 +18954,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कन्दर्पसौमनसपुष्करजित्कटाक्षः
 
 श्रान्तिप्रशान्तिकरपुष्करकेलिलोलः ॥८१६॥
+
+
 
 संवेष्टितः सकलपुष्करिणीभिराभिः
 
@@ -14487,6 +18967,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 (युग्मकम्)
 
+
+
 नेत्रोत्पलास्यकमलालकलोलभृङ्गा
 
 वक्षोजकोकयुगला तनुदोर्मृणाला ।
@@ -14494,6 +18976,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कृष्णाक्षिमत्तगजयोर्जलकेलितुष्ट्यै
 
 गोपीततिः प्रथमतः सरसी तदासीत॥८१८॥
+
+
 
 भीरुस्वभावादजलावगाहाः
 
@@ -14503,6 +18987,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निन्युर्हसन्त्यः सलिलान्तरन्याः ॥८१९॥
 
+
+
 काश्चिद्स्वजानुद्वयसे स्थिता जले
 
 भीत्योरुदघ्ने प्रियोसेकतो पराः ।
@@ -14511,7 +18997,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सर्वा न्यसिञ्चद्विहसन्बलाज्जलैः ॥८२०॥
 
+
+
 कृष्णाह्निककौमुदी ४.१३६१४४—
+
+
 
 ताः परस्परविषक्तशरीराः
 
@@ -14521,6 +19011,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पर्युपर्युपरिचेलुरभीताः ॥८२१॥
 
+
+
 कापि कृष्णकृतपुष्पविभूषा
 
 हानये धृतनिमज्जेन दोषा ।
@@ -14528,6 +19020,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कूलमूलमवलम्बितुकामा
 
 तस्थूषी विरुरुचे वररामा ॥८२२॥
+
+
 
 तां विलोक्य सुमुखीमथ कूले
 
@@ -14537,6 +19031,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उत्सुका विचकर्षुर्मृगनेत्राः ॥८२३॥
 
+
+
 तां तथापि कृतभूरिविलम्बाम्
 
 अम्बुभिर्भृतकराम्बुजलिम्बाः ।
@@ -14544,6 +19040,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ताः समं सरसचारुविलासा
 
 निर्भियोऽभिषिषिचुः कृतहासाः ॥८२४॥
+
+
 
 आननैः सरसिजैः कुचककुम्भैश्
 
@@ -14553,6 +19051,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मैत्रुवास सुषमापरिवर्तैः ॥८२५॥
 
+
+
 आत्तपाणिरितरेतरमासाम्
 
 आवलिः कनकजालविलासा ।
@@ -14560,6 +19060,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आववार हृदयेशममन्दं
 
 चन्द्रिकाततिरिवाम्बुदवृन्दम् ॥८२६॥
+
+
 
 बन्धमेत्य स तदन्तरवर्ती
 
@@ -14569,6 +19071,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बन्धभङ्गमकरोज्जलपूरैः ॥८२७॥
 
+
+
 ताः समेत्य रभसादविदूरं
 
 वारिभिः सिषिचुरञ्जलिपूरम् ।
@@ -14576,6 +19080,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पाणिरुद्धनयनः कृतहर्षं
 
 शेक एष सुदृशां जलवर्षम् ॥८२८॥
+
+
 
 वारिवर्षरभसेन विहस्तं
 
@@ -14585,7 +19091,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हर्षतो वदनबिम्ब इव ग्लौः ॥८२९॥
 
+
+
 कृष्णाह्निककौमुदी ४.१४६१५१—
+
+
 
 तं सिषेच करपङ्कजकोषैः
 
@@ -14595,6 +19105,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अत्यसह्यमभव्द्विजिगीषोः ॥८३०॥
 
+
+
 अम्बुदस्य कुतुकाज्जलयन्त्री
 
 भूतमञ्जलिपुटं विनियन्त्री ।
@@ -14602,6 +19114,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अक्षिपज्जलभरं कराभ्यां
 
 दीर्घधारमतिचारुतराभ्याम् ॥८३१॥
+
+
 
 हृत्पतेरुरसि सा जलधारां
 
@@ -14611,6 +19125,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कापि शुक्तिरिव रुद्धपताका ॥८३२॥
 
+
+
 शश्लथे भगवती वनमाला
 
 हारयष्टिरपतत्सुविशाला ।
@@ -14618,6 +19134,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 एक एव बलवान्प्रियदेहे
 
 कौस्तुभः परिभवं स विषेहे ॥८३३॥
+
+
 
 सह्यतामयमयं मम पाथः
 
@@ -14627,6 +19145,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सस्मितं सरसाञ्जुरवर्ष ॥८३४॥
 
+
+
 पाणिपद्मकृतलोचनरोधा
 
 कृष्णकीर्णसलिलैः कृतबाधा ।
@@ -14635,7 +19155,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेमिनीमतिरतीव विचित्रा ॥८३५॥
 
+
+
 कृष्णभावनामृत १४.४०—
+
+
 
 अथैत्य मधुसूदने धयति ता बलात्पद्मिनीर्
 
@@ -14645,7 +19169,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दृशां कलकलेऽप्यलं शिखिपिकैः प्रवृद्धीकृते ॥८३६॥
 
+
+
 कृष्णभावनामृत १४.४३—
+
+
 
 कुचान्विगतकञ्चुकान्नखरविक्षतान्दोर्द्वयैः
 
@@ -14655,7 +19183,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अनङ्गपृतनैव सा न खलु पद्मिनीसंहतिः ॥८३७॥
 
+
+
 कृष्णभावनामृत १४.४२—
+
+
 
 ततह्श्वसितचञ्चलच्चलदलच्छदाभोदरा
 
@@ -14665,7 +19197,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ततिर्विगतभूषणाप्यतनुमाधुरीं बिभ्रति ॥८३८॥
 
+
+
 गोविन्दलीलामृत १५.५०—
+
+
 
 क्लिन्नातिसूक्ष्मवसनान्तरुदीर्णतत्तद्
 
@@ -14675,7 +19211,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्यापि तासु दयितादृगिभीघटापि ॥८३९॥
 
+
+
 गोविन्दलीलामृत १५.५२—
+
+
 
 राजीवरक्तोत्पलपुण्डरीक
 
@@ -14685,7 +19225,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सौरभ्यभाज्यम्भसि ता विजह्रुः ॥८४०॥
 
+
+
 गोविन्दलीलामृत १५.५५—
+
+
 
 व्यात्युक्षीप्रधनं तदा समभवत्ताभिः समं श्रीहरेर्
 
@@ -14695,7 +19239,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भीत्याधोवदनं कराङ्गुलिदलैरुद्धाक्षिनासाश्रुतिम् ॥८४१॥
 
+
+
 व्र्ण्दावनमहिमामृतं ३.३६—
+
+
 
 जलक्रीडाकाले कनककमलिन्येकविपिने
 
@@ -14705,7 +19253,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हसित्वा कान्तेनाध्रियत हसितालीपरिकरा ॥८४२॥
 
+
+
 व्र्ण्दावनमहिमामृतं ५.४—
+
+
 
 सखीभिः सम्भूय स्वकरकमलद्वन्द्वकलितैर्
 
@@ -14715,7 +19267,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जितोऽस्मीत्याकर्ण्यासदुपरता यत्र किमिति ॥८४३॥
 
+
+
 स्तवमाला, गीतावली ४२—
+
+
 
 = धनाश्रीः =
 
@@ -14735,7 +19291,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भेजे प्रतिबिम्बभावदम्भी तव गण्डम् ॥८४४॥
 
+
+
 गोविन्दलीलामृत १५.६८—
+
+
 
 चूडा पश्चादपसृतवती कौस्तुभो बिम्बदम्भाद्
 
@@ -14745,7 +19305,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्माद्युद्धाद्विरम सखि मा कातरं पीडयामुम् ॥८४५॥
 
+
+
 गोविन्दलीलामृत १५.९१—
+
+
 
 हरिहरिदयितानां गात्रसौरभ्यशैत्यैस्
 
@@ -14755,7 +19319,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भवति हि गुणिसङ्गान्निर्मलानां गुणाप्तिः ॥८४६॥
 
+
+
 कृष्णाह्निककौमुदी ४.१५२१८६—
+
+
 
 एवमेव विरते जलयुद्धे
 
@@ -14765,6 +19333,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पद्मि पद्मनयनावलिसद्मा ॥८४७॥
 
+
+
 आलिभिः समवचित्य वितीर्णैः
 
 पङ्कजैः करतलेऽनुपशीर्णैः ।
@@ -14772,6 +19342,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उद्भुज दरविकस्वरकक्षं
 
 सा जघान हृदये कमलाक्षम् ॥८४८॥
+
+
 
 यद्यदुत्क्षिप्तै पद्ममुदारा
 
@@ -14781,6 +19353,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तां निहन्ति कुतुकेन हसित्वा ॥८४९॥
 
+
+
 एवमेवमुभयोः करसङ्गे
 
 वर्धितच्छवि गतागतरङ्गे ।
@@ -14788,6 +19362,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पङ्कजं जयति तत्र सुपीव
 
 प्रेमहेमपटवासतुरीव ॥८५०॥
+
+
 
 तावतां जलरुहामनुयायी
 
@@ -14797,6 +19373,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुप्लुवेऽलिनिकरोऽयममोघः ॥८५१॥
 
+
+
 दोर्लते विलुलिते घनसान्द्रा
 
 श्वासपालिरथ दृक्च सतन्द्रा ।
@@ -14804,6 +19382,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुभ्रुवः स्तनतटी च सकम्पा
 
 वर्धते तदपि केल्यनुकम्पा ॥८५२॥
+
+
 
 प्रोज्झ्य पङ्कजमलिर्वदनेऽस्याः
 
@@ -14813,6 +19393,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा भियास दयितोरसि लीना ॥८५३॥
 
+
+
 आलयस्तु सममेत्य तमेताः
 
 पङ्कजैः परित एवमभीताः ।
@@ -14820,6 +19402,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 जघ्नुरुन्नतभुजाः सविलासः
 
 तां च तं च परिहासविकाशम् ॥८५४॥
+
+
 
 तत्सखीजनसरोरुहवर्षं
 
@@ -14829,6 +19413,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्राक्षिपत्करतले विधृताभ्याम् ॥८५५॥
 
+
+
 मुख्यया व्यतनि युद्धविसर्गः
 
 किं करिष्यति सखीजनवर्गः ।
@@ -14836,6 +19422,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्यनर्ति दयितस्य सपक्षैः
 
 पक्षिभिर्जलचरैर्धृतपक्षैः ॥८५६॥
+
+
 
 तामुरोद्वयसो वारिनिमग्नां
 
@@ -14845,6 +19433,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रान्तितः स्तनयुगान्तिकमत्र ॥८५७॥
 
+
+
 तद्विलोक्य दयितः करकोषे
 
 णामृशद्वलति मानसतोषे ।
@@ -14852,6 +19442,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अप्यधत्त कुचमण्डलमेषा
 
 स्वस्तिकेन धृतभूषणवेषा ॥८५८॥
+
+
 
 कण्ठमर्पयति चारुमृणालं
 
@@ -14861,6 +19453,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेम्ण एव महतीयमभिख्या ॥८५९॥
 
+
+
 वेष्टयन्तु परितो भवदाल्यस्
 
 त्वं च तिष्ठ सखि मामनुपाल्य ।
@@ -14868,6 +19462,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आनयध्वमभितो मृगयित्वा
 
 मां निमग्नमिह साधु गृहीत्वा ॥८६०॥
+
+
 
 सुभ्रुवामथ तथा स्थितवत्याम्
 
@@ -14877,6 +19473,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पश्यतो विधुमुखीनिकरस्य ॥८६१॥
 
+
+
 ताः परस्परपराचितहस्ताश्
 
 चन्द्रिकावलयजालवदस्ताः ।
@@ -14884,6 +19482,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मण्डलीं विदधिरे क्रमह्रस्वां
 
 तं विवेक्तुमुपसर्पणतः स्वाम् ॥८६२॥
+
+
 
 ता उपर्युपरि लग्नशरीरा
 
@@ -14893,6 +19493,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वैजयन्त सलिलान्यकरालैः ॥८६३॥
 
+
+
 ताः क्रमेण सविधं विधुमुख्याः
 
 प्राप्तवत्य उदितोत्सवमुख्याः ।
@@ -14900,6 +19502,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लेभिरे न रमणं यदि रामास्
 
 तस्थुरेव हसितैरभिरामाः ॥८६४॥
+
+
 
 तास्तथा स्थितवतीर्विहसन्तीर्
 
@@ -14909,6 +19513,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रत्तमन्तरमतो स जगाम ॥८६५॥
 
+
+
 नो मया न च मया न मयापि
 
 प्रात्तमन्तरमयं तु तथापि ।
@@ -14916,6 +19522,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कुत्र वा सखि कयाप्युत रीत्या
 
 प्रापलायत तवैव हि भीत्या ॥८६६॥
+
+
 
 तत्त्वमेव सखि वेत्सि नितान्तं
 
@@ -14925,6 +19533,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मादृशीः प्रति विलासनवीना ॥८६७॥
 
+
+
 इत्यमूभिरुपहस्य विनुन्या
 
 सा तिलार्धविरहेऽप्यतिखिन्ना ।
@@ -14932,6 +19542,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विस्मिता स्थितवती कृतचिन्तं
 
 न्यक्षिपद्दिशि दिशि स्वदृगन्तम् ॥८६८॥
+
+
 
 गुञ्जितेन कृतवाग्व्यवसायः
 
@@ -14941,6 +19553,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लीलया कुतुकिनं तमदीनम् ॥८६९॥
 
+
+
 तास्तथैव कृतमण्डलबन्धं
 
 तत्पलायनभियाऽप्रतिबन्धम् ।
@@ -14948,6 +19562,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सत्वरान्तमभितः परिवव्रुः
 
 कां श्रियं च परमां न विवव्रुः ॥८७०॥
+
+
 
 आवृतः स परितोऽयममूभिर्
 
@@ -14957,6 +19573,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्यन्दमानकरुणामकरन्दः ॥८७१॥
 
+
+
 पद्मिनीवनविहारिणमेकं
 
 किं नु वेष्टयथ मामतिरेकम् ।
@@ -14964,6 +19582,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निर्जिता अपि ह्रियं न लभध्वे
 
 खेलितुं पुनरपि प्रयतध्वे ॥८७२॥
+
+
 
 इत्युदारमधुरं मधुरञ्जि
 
@@ -14973,6 +19593,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुभ्रुवो जगदुरेनमदोषम् ॥८७३॥
 
+
+
 पद्मकेलिसमरं विरहय्य
 
 त्वं सरोरुहवनं प्रपलय्य ।
@@ -14980,6 +19602,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्राप्तवानसि जितोऽस्यबलाभिर्
 
 लज्जसे न हि कलाकुशलाभिः ॥८७४॥
+
+
 
 वारिमज्जनमिषेण हि मूर्तं
 
@@ -14989,6 +19613,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्गतोऽसि हिर्यमेषि न किं वा ॥८७५॥
 
+
+
 वेत्तु कोऽत्र कथयिष्यति कस्मै
 
 युज्यते कथयितुं न परस्मै
@@ -14996,6 +19622,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 योऽभवत्परिभवो भवतीभ्यस्
 
 तं न्यवेदयदयं नलिनीभ्यः ॥८७६॥
+
+
 
 एक एष बहवो हि भवत्यः
 
@@ -15005,6 +19633,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेयसो व्यजनि काचिदभिख्या ॥८७७॥
 
+
+
 एहि सुन्दरि ममासि सपक्षा
 
 वेत्सि मेऽन्तरममूर्न विपक्षाः ।
@@ -15012,6 +19642,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पूजयामि भवतीमिति कृष्णस्
 
 तामभूषयदतीव सतृष्णः ॥८७८॥
+
+
 
 बीजकोषशकलैः अवतंसे
 
@@ -15021,6 +19653,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तेन तेन उरुवाञ्छमनल्पम् ॥८७९॥
 
+
+
 शैवलेन मणिकाञ्चिरुदारः
 
 सन्मृणालशकलैरपि हारः ।
@@ -15028,6 +19662,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गण्डमण्डलमकारि सरागैर्
 
 मण्डितं कमलषण्डापरागैः ॥८८०॥
+
+
 
 पाणिना पयसि पाणितलस्थे
 
@@ -15037,7 +19673,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताभिरात्मजयडिण्डिमवाद्यम् ॥८८१॥
 
+
+
 कृष्णाह्निककौमुदी ४.१९११९९—
+
+
 
 हरिवल्गिषु बभौ गुणनाशस्
 
@@ -15047,6 +19687,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सर्वलेपरहिताः स्तनभागाः ॥८८२॥
 
+
+
 लोचनं विगलिताञ्जनमासीत्
 
 किङ्किणी किमपि मौनमयासीत।
@@ -15054,6 +19696,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्राप नीविरपि मोक्षपरत्वं
 
 पश्य कृष्णजलकेलिमहत्त्वम् ॥८८३॥
+
+
 
 व्रीडयेव परया तनुलग्नं
 
@@ -15063,6 +19707,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रोदितीव सुदृशामथ चीनम् ॥८८४॥
 
+
+
 पाण्डिमानमगमत्तनुशोभा
 
 लोचनं विकचकोकनदाभाः ।
@@ -15070,6 +19716,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तच्च तच्च सुदृशामतिरम्यं
 
 हृत्पतेः समभवन्ननु काम्यम् ॥८८५॥
+
+
 
 पूर्वमेव कतिचित्कृतखेलाः
 
@@ -15079,6 +19727,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लेभिरे धृतपरिच्छदपुञ्जान॥८८६॥
 
+
+
 आलिपालिरथ वारिणि राधा
 
 कृष्णयोः प्रणयतः क्षतबाधा ।
@@ -15086,6 +19736,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वारिखेलनमखेऽवभृथाख्यं
 
 स्नानमारभत दीव्यदभिख्यम् ॥८८७॥
+
+
 
 चारुभिः करसरोरुहकोषैर्
 
@@ -15095,6 +19747,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वेदशीकरभरैरपि सार्द्राः ॥८८८॥
 
+
+
 पद्मरेणुदलकेशरनालैर्
 
 आविलम्बपुरपूर्वमरालैः ।
@@ -15102,6 +19756,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्तयोर्विदधिरेऽथ रमण्यो
 
 हारि वारिकरिवारिकरिण्योः ॥८८९॥
+
+
 
 गन्धतैलमिलनव्यवसायैः
 
@@ -15111,7 +19767,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गात्रशुद्धिरथ ताभिरपूर्वम् ॥८९०॥
 
+
+
 गोविन्दलीलामृत १५.९३९६—
+
+
 
 सेवालीभिः कृष्णकृष्णप्रियास्तास्
 
@@ -15121,6 +19781,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्नात्वोत्तस्थुर्नीरतस्तीर्थतीरे ॥८९०॥
 
+
+
 गौराङ्गीणामङ्गलग्नाम्बरान्ता
 
 द्वारां धारा निष्पतन्त्यो विरेजुः ।
@@ -15128,6 +19790,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यद्वत्सौवर्णाचलक्षुद्रशृङ्ग
 
 श्रेणीलग्नाच्छारदाम्भोदवृन्दात॥८९१॥
+
+
 
 विस्रस्तकुन्तलततेः शिखराद्गलन्तस्
 
@@ -15137,6 +19801,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एकावलीनिचयतामुपलभ्य रेजुः ॥८९२॥
 
+
+
 स्वप्नेऽपि दुर्लभविलोकलवस्य तस्य
 
 दृष्टाप्तविघ्नरहितेष्टसुसङ्गमस्य ।
@@ -15145,7 +19811,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तृष्णाभिवृद्धिमगमन्द्विगुणां मृगाक्ष्याः ॥८९३॥
 
+
+
 गोविन्दलीलामृत १५.९९१०८—
+
+
 
 आलीचलेन परिमार्जितदेहकेशश्
 
@@ -15155,6 +19825,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीपद्ममन्दिरमितो द्रुतमारुरोह ॥८९४॥
 
+
+
 अनल्पैराकल्पैः कुसुमरचितैर्भूषणचयैर्
 
 निविष्टं तं याम्ये कमलगृहसत्कुट्टिमवरे ।
@@ -15162,6 +19834,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निजप्राणप्रेष्ठं प्रणयपरिपाटीघटनया
 
 स्वयं श्रीराधालीनिचयसहिता मण्डयति सा ॥८९५॥
+
+
 
 धूपैरागुरवैर्विशुष्कसुरभीन्श्रीकङ्कतीशोधितान्
 
@@ -15171,6 +19845,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गुच्छोत्पल्लवकेतकीदललसच्चाम्पेयबर्हान्वितैः ॥८९६॥
 
+
+
 गुञ्जामौक्तिकमाल्ययुग्मविलसत्पार्श्वद्वयैर्माल्यकैर्
 
 ऊर्ध्वोर्ध्वक्रमवेष्टितां स्तवकयुक्पिञ्छैर्लसत्शेखराम् ।
@@ -15178,6 +19854,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मूले स्थूलतां सुसूक्ष्मशिखरां कृष्टालिवृन्दां व्यधात्
 
 चूडां चामरडामरीमलिकगां राधा जगन्मोहिनीम् ॥८९७॥
+
+
 
 यस्यां लग्ना न दृगलिघटा निर्जिहीतेऽङ्गनानां
 
@@ -15187,6 +19865,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कार्ष्णीं चूडा विलसति जगत्सा पिबन्ती स्वधाम्ना ॥८९८॥
 
+
+
 यत्कौङ्कमं ललितया तिलकं ललाटे
 
 सृष्टं हरेः शशिनिभं मदबिन्दुमध्यम् ।
@@ -15194,6 +19874,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीखण्डबिन्दुनिचितं बहिरेतदासां
 
 हृत्खण्डने मदनहाटकचक्रमासीत॥८९९॥
+
+
 
 भक्तिच्छेदैरन्वितां यां सुचर्चां
 
@@ -15203,6 +19885,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दीव्यद्गोपीकृष्णयुग्माणि रासे ॥९००॥
 
+
+
 चित्राथ चित्रमकरोन्निजमित्रगात्रे
 
 मैत्रीपवित्रचरिताम्बुदजैत्रकान्तौ ।
@@ -15210,6 +19894,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यत्तत्सखी नयनखञ्जनबन्धनाय
 
 कन्दर्पशाकुनिकविस्तृतजालमासीत॥९०१॥
+
+
 
 नानावर्णसुगन्धपुष्पं पुष्पैः कृतैः पल्लवैः
 
@@ -15219,11 +19905,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सैवासां नयनैणबन्धनविधौ कामस्य पाशायते ॥९०२॥
 
+
+
 पौष्पैश्चाभरणैस्तत्र राधा काण्डपटावृता ।
 
 आलीभिर्भूषिताल्यश्च सेविकानिचयैः क्रमात॥९०३॥
 
+
+
 (अज्ञातस्य)—
+
+
 
 अशोकैर्बाणैः सद्विचकिला शिरीषैर्मरुवकैः
 
@@ -15233,7 +19925,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुकेली राधां दास्युरुगुणवती भूषितवती ॥९०४॥
 
+
+
 चैतन्यचरितामृतमहाकाव्य १०.१६२६—
+
+
 
 वासितानि पटवासविमर्दैर्
 
@@ -15243,6 +19939,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मान्मथानि किमु शुद्धयशांसि ॥९०५॥
 
+
+
 अंशुकाञ्चललसन्निविडोरुः
 
 सुभ्रुवां कनकसौभगकम्रः ।
@@ -15250,6 +19948,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मन्मथस्य नगरी सपताक
 
 स्तम्भदम्भमहरत्सविशेषम् ॥९०६॥
+
+
 
 गन्धवासितसितांशुकखण्डैर्
 
@@ -15259,6 +19959,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कौमुदीमिव पिबंस्तिमिरौघः ॥९०७॥
 
+
+
 मृष्टमुक्तचिकुरा वलयन्ती
 
 चारुवामकरजैरलकाग्रम् ।
@@ -15266,6 +19968,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दर्पणार्पितविलोचनलक्ष्मीः
 
 कापि कामनगरीव रराज ॥९०८॥
+
+
 
 सत्प्रसाधनिकया लघुहेलं
 
@@ -15275,6 +19979,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुङ्कुमच्छिदुरचन्दनपङ्कैः ॥९०९॥
 
+
+
 सान्द्रचन्द्रमृगनाभिविभिन्नः
 
 कौङ्कुमेन च रसेन विमुग्धः ।
@@ -15282,6 +19988,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आदधे वपुषि मुग्धवधूभिश्
 
 चन्द्रपङ्क इव चन्दनपङ्कः ॥९१०॥
+
+
 
 भूषणस्य च विभूषणमङ्गं
 
@@ -15291,6 +19999,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 केवले सदनुलेपनचेले ॥९११॥
 
+
+
 स्पर्शनव्यवधिरेव किमन्य्न्
 
 मा कृथाः सुतनु तत्तनुबाधाम् ।
@@ -15298,6 +20008,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्यदः प्रियसखीवचनान्ते
 
 नानुलेपमपि काचिदियेष ॥९१२॥
+
+
 
 लोचनद्वयरुचैव समीपं
 
@@ -15307,6 +20019,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नादधे कुवलयस्य वतंसम् ॥९१३॥
 
+
+
 मुक्तमुक्तमपि कैशिकमेतच्
 
 छोभते यदपि मुग्धसखीभिः ।
@@ -15314,6 +20028,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वीयशिल्पकलनादिव युक्त्या
 
 बन्धनं तदपि चारु वितेने ॥९१४॥
+
+
 
 दर्पणस्य खलु दर्पणमेतल्
 
@@ -15323,7 +20039,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वच्छमच्छतरहाटकगौरे ॥९१५॥
 
+
+
 कृष्णाह्निककौमुदी ४.२०६—
+
+
 
 ताश्च ताश्च सुदृशो मिथो मिथः
 
@@ -15333,7 +20053,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेयसो निकटमेव संश्रिताः ॥९१६॥
 
+
+
 कृष्णाह्निककौमुदी ४.२१३२२३—
+
+
 
 कौमुदीकुमुदिनीकुमुद्वती
 
@@ -15343,6 +20067,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 केलिमञ्जरिरशोकमञ्जरी ॥९१७॥
 
+
+
 वन्यभोजनविधानकौशले
 
 पण्डिता मृगदृशो ह्यनाविले ।
@@ -15350,6 +20076,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्वतन्वत तमुद्यमं तया
 
 वृन्दया परिजनैः समेतया ॥९१८॥
+
+
 
 मातुलङ्गकरसैरथ युक्तं
 
@@ -15359,6 +20087,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सूक्ष्मशुभ्रमृदुलागुणपृक्तः ॥९१९॥
 
+
+
 भव्यनव्यविलसन्मृदमत्र
 
 शोणिकाविवरवासपवित्रः ।
@@ -15366,6 +20096,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रातरेव भवनाहृतसद्यः
 
 क्षालितान्न निकरो निरवद्यः ॥९२०॥ (युग्मकम्)
+
+
 
 मांसलानि शशिमांसमहांसि
 
@@ -15375,6 +20107,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रापितानि ललितानि दधीनि ॥९२१॥
 
+
+
 पक्वविक्वणसुदाडिमबीजैस्
 
 तद्रसैरमृतसौभगबीजैः ।
@@ -15382,6 +20116,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तालसस्यवलयैरतिनव्यैस्
 
 तद्रसैरपि सुधारसभव्यैः ॥९२२॥
+
+
 
 बीजलाङ्गलिफलोच्चयगर्भैः
 
@@ -15391,6 +20127,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चारुकोमलतया जिततूलैः ॥९२३॥
 
+
+
 स्निग्धभासुरकशेरुकराजैर्
 
 बीजकोषभवनिस्तुषबीजैः ।
@@ -15398,6 +20136,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नागरङ्गफलकोषसमूहैः
 
 पीलुभिश्च रसभारदुरूहैः ॥९२४॥
+
+
 
 आममिष्टसहकारफलानां
 
@@ -15407,6 +20147,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वादुगन्धलहरीकृतसेकैः ॥९२५॥
 
+
+
 उद्यदङ्कुरकणैरतिमुद्गैः
 
 सार्द्रकैः सलवणैरपि मुद्गैः ।
@@ -15414,6 +20156,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भास्वदिक्सूसकलैरपि शीर्णैः
 
 कोमलैः सरसतापरिपूर्णैः ॥९२६॥
+
+
 
 पूरिता नवपलाशपलाशैर्
 
@@ -15423,7 +20167,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दयोपजह्रिरे वन्ददेव्या ॥९२७॥ (षड्भिः कुलकम्)
 
+
+
 गोविन्दलीलामृत १५.१११११२—
+
+
 
 भोक्तुं तान्युपविष्टोऽसौ शुभ्रपुष्पांशुकासने ।
 
@@ -15433,7 +20181,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आनीयानीय दत्तानि तेभ्यः परिविवेश सा ॥९२९॥
 
+
+
 कृष्णाह्निककौमुदी ४.२२४२२९—
+
+
 
 सम्भृता विशदकाचघटीषु
 
@@ -15443,6 +20195,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सौरभस्य लहरीभिरमोघः ॥९३०॥
 
+
+
 सुप्रपानकरसाश्च सुशीताः
 
 शुद्धसारघनसारपरीताः ।
@@ -15450,6 +20204,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 रेज्रल्पमरिचाः सुसिताभिर्
 
 भूरिभिर्विलुलिताश्च सिताभिः ॥९३१॥
+
+
 
 नारिकेलवलयाः कृतशङ्खा
 
@@ -15459,6 +20215,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चारुचेलपिहिता विकलङ्काः ॥९३२॥
 
+
+
 एकमेकमखिलस्य वस्तुनः
 
 स्वादुमोदपरभागवास्तुनः ।
@@ -15466,6 +20224,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ईषदीषदुपगृह्य पाणिना
 
 सा ददौ प्रियकरे स्मितानना ॥९३३॥
+
+
 
 चारुकर्तरिकयोत्तमोत्तमं
 
@@ -15475,6 +20235,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दत्तमोदमतुलं च सस्वजे ॥९३४॥
 
+
+
 उत्तमोत्तममवेक्ष्य पाणिना
 
 सा रसालफलमम्बुजानना ।
@@ -15483,7 +20245,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आनिनाय पुरतोऽस्य पौरटीः ॥९३५॥
 
+
+
 गोविन्दलीलामृत १५.१२७१२९—
+
+
 
 सिताभिः क्षीरसारैश्च कृतान्श्रीराधयालये ।
 
@@ -15497,7 +20263,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लड्डुकानि चन्द्रकान्तिगङ्गाजलमुखानि च ॥९३८॥
 
+
+
 गोविन्दलीलामृत १५.१३११३२—
+
+
 
 पनसाम्रादिकरसान्मधुचन्द्रसितान्वितान।
 
@@ -15507,13 +20277,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताभ्यां सह हरिस्तानि बुभुजे कमलेक्षणः ॥९४०॥
 
+
+
 गोविन्दलीलामृत १५.१३४—
+
+
 
 बटुर्निन्दन्प्रशंसंश्च भक्ष्याणि च तदर्पिकाः ।
 
 सर्वास्ता हासयामास सनर्ममुखवैकृतैः ॥९४१॥
 
+
+
 कृष्णाह्निककौमुदी ४.२३०२३२—
+
+
 
 यद्यदेव दयिताकरकोषे
 
@@ -15523,6 +20301,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेम सत्प्रकटयन्सविलासः ॥९४२॥
 
+
+
 एवमेव स सम्पाप्य कानन
 
 प्रीतिभोजनमथाम्बुजाननः ।
@@ -15530,6 +20310,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आचचाम बहु वामलोचनः
 
 पुण्डरीकदलदीर्घलोचनः ॥९४३॥
+
+
 
 सोऽविधास्य वदनं मुखवासैश्
 
@@ -15539,7 +20321,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्वारि भूरुहतले प्रससञ्ज ॥९४४॥
 
+
+
 गोविन्दलीलामृत १५.१३६१३७—
+
+
 
 यातस्ततः स हरिरम्बुजमन्दिरान्तः
 
@@ -15549,11 +20335,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्र प्रियालिभिरमुं तुलसी सिषेवे ॥९४५॥
 
+
+
 ताम्बूलवीटिकामश्नन्तत्पद्मयाम्यकुट्टिमे ।
 
 शेते शीतलशय्यायां सुबलेन समं बटुः ॥९४६॥
 
+
+
 कृष्णाह्निककौमुदी ४.२३३२३८—
+
+
 
 कृष्णभुक्तपरिशिष्टमभीष्टं
 
@@ -15563,6 +20355,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुभ्रुवां हृदयामास विलोलम् ॥९४७॥
 
+
+
 मुख्यया सति कियत्युपभुक्तेऽ
 
 स्माभिरत्तुमुचितं हि विविक्ते ।
@@ -15570,6 +20364,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्यवेत्य हृदयं स्वसखीनां
 
 सा जगाद सुदती सुमुखीनाम् ॥९४८॥
+
+
 
 अश्नुमः सह वयं त्वममन्दे
 
@@ -15579,6 +20375,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शक्तिरस्ति मम किं पुनरुत्तमम् ॥९४९॥
 
+
+
 मण्डलेन कुतुकादुपविष्टास्व्
 
 आसु सादरमसावुपदिष्टा ।
@@ -15586,6 +20384,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पर्यावेशयदनुक्रमपाली
 
 राधिकां प्रथमतोऽथ तदालीः ॥९५०॥
+
+
 
 वृन्दया प्रतिजनं रसयित्वा
 
@@ -15595,6 +20395,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्पर्शतः प्रकृतितोऽप्यतिसाधु ॥९५१॥
 
+
+
 सौहृदेन हृदयं रसयित्वा
 
 ताः क्रमेण सकलं तददित्वा ।
@@ -15603,7 +20405,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भेजुरात्तघनसारविलासम् ॥९५२॥
 
+
+
 गोविन्दलीलामृत १५.१४०१४६—
+
+
 
 अथाचम्याययुः सर्वाः श्रीपद्ममन्दिरान्तरम् ।
 
@@ -15625,6 +20431,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दायै वीटिकां सा च तामदन्ती बहिर्ययौ ॥९५७॥
 
+
+
 कृष्णः कान्तां तां समाकृष्य ह्रीणां
 
 हासं हासं यत्नतः स्वाननाब्जात।
@@ -15633,11 +20441,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न्यस्यन्हृष्यन्शाययामास पार्श्वे ॥९५८॥
 
+
+
 श्रीरूपमञ्जरीमुख्यसखीभिर्वीजनादिभिः ।
 
 सेवितौ तौ क्षणं तत्र निद्रासुखमवापतुः ॥९५९॥
 
+
+
 गोविन्दलीलामृत १६.१५—
+
+
 
 अथ क्षणात्तौ प्रतिलब्धबोधाव्
 
@@ -15646,6 +20460,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पूर्वं प्रबुद्धाः प्रसमीक्ष्य सख्यो
 
 ययुः सखीभ्यां सह तत्समीपम् ॥९६०॥
+
+
 
 वृन्दाप्यायात्स्वशिष्यौ सा बालौ विद्याविशारदौ ।
 
@@ -15659,6 +20475,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पठेति कीरं कीरोऽपि पपाठानन्दयन्सभाम् ॥९६३॥
 
+
+
 गुणैः स्वैर्हीना मे यदपि कविता नातिमधुरा
 
 सतां स्वाद्याथाप्यच्युतगुणयुतत्वेन भविता ।
@@ -15667,7 +20485,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुवर्णत्वं प्राप्ता भवति महतां भूषणकृते ॥९६४॥
 
+
+
 आनन्दवृन्दावनचम्पू ५.१२ —
+
+
 
 जय श्रीमद्वृन्दावनमदन नन्दात्मज विभो
 
@@ -15677,7 +20499,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नमस्ते गोविन्दाखिलभुवनकन्दाय महते ॥९६५॥
 
+
+
 क्रमदीपिका ३.७१६—
+
+
 
 सूत्रामरत्नदलिताञ्जनमेघपुञ्ज
 
@@ -15687,6 +20513,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राजन्मनोज्ञशितिकण्ठशिखण्डचूडम् ॥९६६॥
 
+
+
 रोलम्बललितसुरद्रुमसूनकल्पि
 
 तोत्तंसमुत्कचनवोत्पलकर्णपूरम् ।
@@ -15694,6 +20522,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लोलालकस्फुरितभालतलप्रदीप्त
 
 गोरोचनातिलकमुच्चलच्चिल्लिमालम् ॥९६७॥
+
+
 
 आपूर्णशारदगताङ्कुशशाङ्कबिम्ब
 
@@ -15703,6 +20533,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गण्डस्थलीमुकुरमुन्नतचारुनासम् ॥९६८॥
 
+
+
 सिन्दूरसुन्दरतराधरमिन्दुकुन्द
 
 मन्दारमन्दहसितद्युतिदीपिताङ्गम् ।
@@ -15710,6 +20542,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वन्यप्रवालकुसुमप्रचयावक्ÿप्त
 
 ग्रैवेयकोज्ज्वलमनोहरकम्बुकण्ठम् ॥९६९॥
+
+
 
 मत्तभ्रमरजुष्टविलम्बमान
 
@@ -15719,6 +20553,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्योमस्थलीलसितकौस्तुभभानुमन्तम् ॥९७०॥
 
+
+
 श्रीवत्सलक्षणसुलक्षितमुन्नतांसम्
 
 आजानुपीनपरिवृत्तसुजातबाहुम् ।
@@ -15726,6 +20562,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आबन्धुरोदरमुदारगम्भीरनाभिं
 
 भृङ्गाङ्गनानिकरमञ्जुलरोमराजिम् ॥९७१॥
+
+
 
 नानामणिप्रघटिताङ्गदकङ्कणोर्मि
 
@@ -15735,6 +20573,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आपीतवस्त्रपरिवीतनितम्बबिम्बम् ॥९७२॥
 
+
+
 चारूरुजानुमनुवृत्तमनोज्ञजङ्घ
 
 कान्तोन्नतप्रपदनिन्दितकूर्मकान्तिम् ।
@@ -15742,6 +20582,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 माणिक्यदर्पणलसन्नखराजिराजद्
 
 रत्नाङ्गुलिच्छदन्सुन्दरपादपद्मम् ॥९७३॥
+
+
 
 मत्स्याङ्कुशारदरकेतुयवाब्जवज्र
 
@@ -15751,6 +20593,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सौन्दर्यनिर्जितमनोभवदेहकान्तिम् ॥९७४॥
 
+
+
 आस्यारविन्दपरिपूरितवेणुरन्ध्र
 
 लोलत्कराङ्गुलिसमीरितदिव्यरागैः ।
@@ -15759,11 +20603,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सन्तानसन्ततिमनन्तसुखाम्बुराशिम् ॥९७५॥
 
+
+
 वन्दे व्रजेन्द्रसूनुं तं
 
 राधासङ्गविहारिणम् ॥९७६॥
 
+
+
 शारिका प्राह, आनन्दवृन्दावनचम्पू ११.६६७३—
+
+
 
 सुस्निग्धदीर्घघनकुञ्चितकेशपाशं
 
@@ -15773,6 +20623,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 घ्रेयं भविष्यति कदास्य तदास्यपद्मम् ॥९७७॥
 
+
+
 माधुर्यसिन्धुमधि यस्य भवेन्निपातस्
 
 तत्केवलं मधुरिमाणमुरीकरोति ।
@@ -15780,6 +20632,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उष्णीषसीमनि सहेलगता मुरारेर्
 
 गोच्छन्दरज्जुरपि मज्जति रम्यतायाम् ॥९७८॥
+
+
 
 रत्नोल्लसन्मकरकुण्डलताण्डवने
 
@@ -15789,6 +20643,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धन्याः परं प्रमुदिताः परिपूजयन्ति ॥९७९॥
 
+
+
 श्रीवत्सकौस्तुभरमावनमालिकानां
 
 लक्ष्मीभरेण परयापि च हारभासा ।
@@ -15796,6 +20652,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विभ्राजमानपरिहासममुष्य वक्षः
 
 का नाम वामनयनेच्छति न प्रवेष्टुम् ॥९८०॥
+
+
 
 जानुद्वयीलवणिमामृतमुद्दिधीर्ष्वोः
 
@@ -15805,6 +20663,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कस्या विलोडयति हन्त न हृत्तडागम् ॥९८१॥
 
+
+
 आवेल्लितं सुवलितावलिभिर्वलीभिर्
 
 मुष्टिप्रमेयमपि पुष्टमिवौजसा यत।
@@ -15812,6 +20672,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लग्नं मुहुस्तदवलग्नममुष्य नोऽन्तर्
 
 हा हन्त तत्कृशमिदं च कृशीकरोति ॥९८२॥
+
+
 
 लावण्यकलतरुकोटरकल्पनाभी
 
@@ -15821,6 +20683,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हा हन्त कालभुजगीव ददंश हृन्नः ॥९८३॥
 
+
+
 शोणारविन्दरुचिनिन्दकमङ्घ्रियुग्मं
 
 वज्राङ्कुशध्वजसरोरुहलक्ष्मलक्ष्मि ।
@@ -15829,7 +20693,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वक्षस्तटीमहह भूषयिता कदा नु ॥९८४॥
 
+
+
 गोविन्दलीलामृत १६.६—
+
+
 
 चक्रार्धेनुयवाष्टकोणकलसैश्छत्रत्रिकोणाम्बरैश्
 
@@ -15839,7 +20707,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जीयात्श्रीपुरुषोत्तमत्वगमकैः श्रीकृष्णपादद्वयम् ॥९८५॥
 
+
+
 आनन्दवृन्दावनचम्पू १.१२—
+
+
 
 वन्दे कृष्णपदारविन्दयुगलं यस्मिन्कुरङ्गीदृशां
 
@@ -15849,6 +20721,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीखण्डं नखचन्द्रकान्तिलहरी निर्वाजमातन्वते ॥९८६॥
 
+
+
 शोणस्निग्धाङ्गुलिदलकुलं जातरागं परागैः
 
 श्रीराधायाः स्तनमुकुलयोः कुङ्कुमक्षोदरूपैः ।
@@ -15857,7 +20731,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जङ्घानालं चरणकमलं पातु नः पूतनारेः ॥९८७॥
 
+
+
 चैतन्यचन्द्रोदय ७.१२—
+
+
 
 लीढानेव पथश्चकोरयुवतीयूथेन याः कुर्वते
 
@@ -15867,7 +20745,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताः कृष्णस्य पदाब्जयोर्नखमणिज्योत्स्नाश्चिरं पान्तु वः ॥९८८॥
 
+
+
 गोविन्दलीलामृत १६.१८—
+
+
 
 चन्द्रेन्दीवरचन्दनेन्दुनलदाच्छीतं लसत्सौरभं
 
@@ -15877,7 +20759,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तच्छ्रीकृष्णपदाम्बुजं भवतु नः संवाहनीयं सदा ॥९८९॥
 
+
+
 गोविन्दलीलामृत १६.२०—
+
+
 
 गुल्फौ बकारेर्लसतोऽतिचिक्कणौ
 
@@ -15887,7 +20773,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अर्द्धोदितेन्दीवरकोरकाविव ॥९९०॥
 
+
+
 गोविन्दलीलामृत १६.२५—
+
+
 
 मरकतमणिरम्भास्तम्भसम्भेदिधात्रा
 
@@ -15897,7 +20787,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रणयतु हरिजङ्घायुग्ममङ्घो विघातम् ॥९९१॥
 
+
+
 गोविन्दलीलामृत १६.२८२९—
+
+
 
 माधुर्यलक्ष्म्या रुचिरासनद्वयं
 
@@ -15907,6 +20801,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जानुद्वयं भाति मनोहरं हरेः ॥९९२॥
 
+
+
 रम्योरूपर्वद्वयमद्भुतं हरेर्
 
 माहेन्द्रनीलं लघु सम्पुटद्वयम् ।
@@ -15915,7 +20811,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ते चित्तचिन्तामणयोऽत्र मान्ति यत॥९९३॥
 
+
+
 गोविन्दलीलामृत १६.३१—
+
+
 
 उरुद्वयं सुवलितं ललितं बकारेः
 
@@ -15925,7 +20825,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लावण्यकेलिसदनं हृदि नश्चकास्तु ॥९९४॥
 
+
+
 गोविन्दलीलामृत १६.३४३६—
+
+
 
 रम्भालिगर्वभरदारणसन्निवेशे
 
@@ -15935,6 +20839,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 केनोपमान्तु कवयो हरिसक्थिनी ते ॥९९५॥
 
+
+
 विस्तीर्णपीनमतिसुन्दरसन्निवेशं
 
 रासस्थलं सरति कामनटार्बुदानाम् ।
@@ -15942,6 +20848,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आभीरधीररमणीकमनीयशोभं
 
 श्रीश्रोणीमण्डलमलं विलसत्यघारेः ॥९९६॥
+
+
 
 कतीरबिम्बं लसदूर्ध्व
 
@@ -15951,7 +20859,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 काञ्चीमरालीवलितं विभाति ॥९९७॥
 
+
+
 गोविन्दलीलामृत १६.४४—
+
+
 
 दृष्ट्वा बकारेरवलग्नसौष्ठवं
 
@@ -15961,7 +20873,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दरीषु पारीन्द्रगणा विलिल्यिरे ॥९९८॥
 
+
+
 गोविन्दलीलामृत १६.४६—
+
+
 
 श्रीकृष्णविग्रहतमालसुरद्रुमेऽस्मिन्
 
@@ -15971,7 +20887,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा पुनर्नहि निरेति रसे निमग्ना ॥९९९॥
 
+
+
 गोविन्दलीलामृत १६.४९—
+
+
 
 लवणिममधु पीत्वा नाभिपद्मान्मुरारेर्
 
@@ -15981,7 +20901,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तनुरुहततिदम्भात्सैव शेते प्रमत्ता ॥१०००॥
 
+
+
 गोविन्दलीलामृत १६.५२५३—
+
+
 
 हृद्युच्छलत्तनुरुहच्छलनिःसृत
 
@@ -15991,6 +20915,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मध्ये मनो मम हरेरुदरं चकास्तु ॥१००१॥
 
+
+
 राधाचित्तमरालदृक्शफरिकाशश्वद्विलासास्पदम्
 
 काञ्चीसारसपालिनिस्वनितटं लोमालिशैबालकम् ।
@@ -15999,7 +20925,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीनाभीनलिनं लसत्यघरिपोः श्रीतुन्दसत्पल्वलम् ॥१००२॥
 
+
+
 गोविन्दलीलामृत १६.५५५७—
+
+
 
 रेखास्वरूपरमयाश्रितवामभागं
 
@@ -16009,6 +20939,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शश्वद्विलासललितं वनमालिकायाः ॥१००३॥
 
+
+
 श्रीबल्लवीहृदयदोहदभाजनं
 
 श्रीराधामनोनृपहरिन्मणिसिंहपीठम् ।
@@ -16016,6 +20948,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 त्रैलोक्ययौवतमनोहरमाधुरीकं
 
 वक्षःस्थलं सुविपुलं विलसत्यघारेः ॥१००४॥
+
+
 
 मुक्तावलीसुरधुनीतनुरोमराजी
 
@@ -16025,7 +20959,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णस्य नौमि तमुरःस्थलतीर्थराजम् ॥१००५॥
 
+
+
 गोविन्दलीलामृत १६.६३—
+
+
 
 पीनायतौ लवणिमोच्छलितौ सुवृत्तौ
 
@@ -16035,7 +20973,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीमद्भुजौ मनसि मे स्फुरतामघारेः ॥१००६॥
 
+
+
 अलङ्कारकौस्तुभ ८.४६—
+
+
 
 रत्नस्तम्भौ व्रजमृगदृशां चित्तदोलोत्सवस्य
 
@@ -16045,7 +20987,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शुण्डे कामप्रमदकरिणो कृष्णबाहू स्मरामः ॥१००७॥
 
+
+
 गोविन्दलीलामृत १६.६७७७—
+
+
 
 शङ्खोर्धेन्दुयवाङ्कुशैररिगदाच्छत्रध्वजस्वस्तिकैर्
 
@@ -16055,6 +21001,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भातः श्रीपुरुषोत्तमत्वगमकैः पाणी हरेरङ्कितौ ॥१००८॥
 
+
+
 हस्तौ स्वभावमृदुलावपि कर्कशौ तौ
 
 शौरेर्महापुरुषलक्ष्मतयोचुरेके ।
@@ -16062,6 +21010,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तन्नामृतं यदि तदा कमठीकठोर
 
 गोपीस्तनानिशविमर्दनमत्र हेतुः ॥१००९॥
+
+
 
 अनङ्गशरजर्ज्जरव्रजनवीनरामालिहृद्
 
@@ -16071,6 +21021,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विभूषणनवाम्बुजे व्रजविधोः करौ दीव्यतः ॥१०१०॥
 
+
+
 श्रीकामाङ्कुशतीक्ष्णशुद्धमुकुटैः पूर्णेन्दुसन्मण्डलैः
 
 श्लिष्टान्योन्यमिलद्दलावलिशिरःपश्चाद्विभागे क्वचित।
@@ -16078,6 +21030,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अब्जे चेदभविष्यतां विकसितश्यामाम्बुजान्तर्गते
 
 श्रीपाण्योरुपमां तदात्र कवयोऽदास्यन्नमूभ्यां हरेः ॥१०११॥
+
+
 
 वृषभककुदनिन्दिस्कन्धयोस्तुङ्गतां
 
@@ -16087,6 +21041,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सततमिलनमोदोत्फुल्लतैवात्र हेतुः ॥१०१२॥
 
+
+
 अंसौ हरेरुल्लसतः समुन्नतौ
 
 मन्ये लसत्कौस्तुभकण्ठमाधुरीम् ।
@@ -16094,6 +21050,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 द्रष्टुं सदोद्ग्रीविकयोत्सुकेन तां
 
 पार्श्वद्वयेनोन्नमितौ स्वमस्तकौ ॥१०१३॥
+
+
 
 ऊर्ध्वे सुविस्तृतमधः क्रमकार्श्ययुक्तं
 
@@ -16103,6 +21061,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 इष्टं दृशां मृगदृशां हरिपृष्ठमीडे ॥१०१४॥
 
+
+
 सुस्थूलमूलाद्दरकार्श्यमञ्जुला
 
 स्वमाधुरीसिंहशिरोधिदर्पहृत।
@@ -16110,6 +21070,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीकेशजूटस्य विलासखट्टिका
 
 सुवर्तुला भाति मुकुन्दकन्धरा ॥१०१५॥
+
+
 
 पिकततशुषिरालीनादनिन्दिस्वरोर्मिस्
 
@@ -16119,6 +21081,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलसति बकशत्रोः कण्ठनीलाश्मकम्बुः ॥१०१६॥
 
+
+
 कण्ठो हरेर्लसति कौस्तुभराजहंस्
 
 लीलामृताक्षयसरः सततं यतोऽस्मात।
@@ -16126,6 +21090,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लावण्यनर्मकविता वरगानसम्पद्
 
 दिव्यापगाः प्रतिदिशं किल निःसरन्ति ॥१०१७॥
+
+
 
 नासाहन्वधरोष्ठगण्डचिबुकश्रोत्रादिदिव्यद्दलं
 
@@ -16135,7 +21101,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीजिह्वाद्भुतकर्णिकं विजयते श्रीकृष्णवक्त्राम्बुजम् ॥१०१८॥
 
+
+
 गोविन्दलीलामृत १६.७९—
+
+
 
 बन्धूके मुकुरौ सुकुन्दकलिकापाल्यो नटत्खञ्जनाव्
 
@@ -16145,7 +21115,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीकृष्णस्य कवीश्वरा मुखमुपामास्यांस्तदैवामुना ॥१०१९॥
 
+
+
 गोविन्दविरुदावली ५६—
+
+
 
 उदञ्चदतिमञ्जुलस्मितसुधोर्मिलीलास्पदं
 
@@ -16155,7 +21129,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुकुन्द मुखचन्द्रमास्तव तनोति शर्माणि नः ॥१०२०॥
 
+
+
 जगन्नाथवल्लभ १.३—
+
+
 
 कामं कामपयोनिधिं मृगदृशामुद्भावयन्निर्भरं
 
@@ -16165,7 +21143,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आनन्दं वितनोतु वो मधुरिपोर्वक्त्रापदेशः शशी ॥१०२१॥
 
+
+
 गोविन्दलीलामृत १६.८०८१—
+
+
 
 बाल्ये जनन्याङ्गुलिलालने यद्
 
@@ -16175,6 +21157,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वल्पोन्नताग्रांशममेयशोभम् ॥१०२२॥
 
+
+
 नीलोत्पलस्योदयदिन्दुकान्ति
 
 फुल्लैकपौरस्य दलोपमर्दि ।
@@ -16183,7 +21167,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तच्छ्रीहरेः श्रीचिबुकं चकास्ति ॥१०२३॥
 
+
+
 गोविन्दलीलामृत १६.८४८६—
+
+
 
 श्रीकर्णभूषणभराद्दरदीर्घरन्ध्रं
 
@@ -16193,6 +21181,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीराधिकानयनखञ्जनबन्धपाशः ॥१०२४॥
 
+
+
 गान्धर्विकासपरिहाससगर्वनिन्दा
 
 खञ्जद्वचोऽमृतरसायनपानलोलम् ।
@@ -16200,6 +21190,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शोणान्तरं सुरुचिरं समसन्निवेशं
 
 तन्मे हृदि स्फुरतु माधवकर्णयुग्मम् ॥१०२५॥
+
+
 
 कृष्णस्य पूर्णविधुमण्डलसन्निवेशं
 
@@ -16209,7 +21201,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भातीन्द्रनीलमणिदर्पणदर्पहारि ॥१०२६॥
 
+
+
 गोविन्दलीलामृत १६.८८९२—
+
+
 
 ओष्ठोपरि श्वसननिर्गमनाल्पनिम्नं
 
@@ -16219,6 +21215,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्तोकोन्नतायत मनोहरसीमशोभम् ॥१०२७॥
 
+
+
 बिम्बातिमञ्ज्वधरमध्यगताल्परेखं
 
 स्वं पश्यतामितररागहरस्वभावम् ।
@@ -16226,6 +21224,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शश्वन्निजामृतसुवासितमञ्जुवंशी
 
 सूक्ष्मायतध्वनिभिराहृतविश्वचित्तम् ॥१०२८॥
+
+
 
 सर्वस्वरत्नपिटको व्रजसुन्दरीणां
 
@@ -16235,6 +21235,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णाधरौष्ठमनिशं हृदि मे चकास्तु ॥१०२९॥
 
+
+
 स्वाकारसौष्ठवविनिन्दितकुन्दवृन्द
 
 सत्कोरकान्शिखरहीरकमौक्तिकानाम् ।
@@ -16242,6 +21244,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शोभाभिमानभरखण्डनकान्तिलेशान्
 
 वामभ्रुवामधरबिम्बशुकायमानान॥१०३०॥
+
+
 
 जात्यैव पक्त्रिमसुदाडिमबीजमञ्जून्
 
@@ -16251,7 +21255,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीमन्मुकुन्ददशनान्सुभगाः स्मरन्ति ॥१०३१॥
 
+
+
 गोविन्दविरुदावली १९—
+
+
 
 प्रपन्नजनतातमःक्षपणशारदेन्दुप्रभा
 
@@ -16261,7 +21269,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बिभर्तु तव माधव स्मितकडम्बकान्तिमुर्दम् ॥१०३२॥
 
+
+
 गोविन्दलीलामृत १६.९६९७—
+
+
 
 अन्तःप्रेमघृतस्मितोत्तममधुनर्मैक्षवैः संयुता
 
@@ -16271,6 +21283,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा जीयादमृताब्धिदर्पदमनी वाणी रसाला हरेः ॥१०३३॥
 
+
+
 अर्वाङ्मुखेन्द्रमणिसृष्टतिलप्रसून
 
 कान्तिः स्मराशुगविशेष इवेन्द्रनीलः ।
@@ -16279,7 +21293,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीनासिकोच्चशिखरा विलसत्यघारेः ॥१०३४॥
 
+
+
 गोविन्दलीलामृत १६.१०१—
+
+
 
 अत्यायते सुविपुले मसृणे सुशोणे
 
@@ -16289,7 +21307,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नेत्रे हरेर्मम हृदि स्फुरतां सदा ते ॥१०३५॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 क्षीराब्धेः कति वीचयः कति दलद्रक्तोत्पलानां दलद्
 
@@ -16299,7 +21321,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्यापारे कति नोन्मीषत्ति विविधज्योतिर्विलासच्छलात॥१०३६॥
 
+
+
 गोविन्दविरुदावली १३—
+
+
 
 अजर्जरपतिवर्ताहृदयवज्रभेदोद्धुराः
 
@@ -16309,7 +21335,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रियासुरघविद्विषस्तव मुदं कटाक्षेषवः ॥१०३७॥
 
+
+
 गोविन्दलीलामृत १६.१०२१०३—
+
+
 
 साध्वीस्वधर्मदृढवर्मविभेद
 
@@ -16319,6 +21349,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वाञ्छाभिपूरणवदान्यवरा कटाक्षाः ॥१०३८॥
 
+
+
 या विश्वयौवतविलोलमनःकुरन्गान्
 
 आविध्य घूर्णयति नर्तनमार्गणैः स्वैः ।
@@ -16327,7 +21359,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कन्दर्पपुष्पतृणतां तृणतां निनाय ॥१०३९॥
 
+
+
 गोविन्दलीलामृत १६.१०५—
+
+
 
 चिल्लीलतालकवरूथकरम्यपार्श्वं
 
@@ -16337,7 +21373,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 काश्मीरचारुतिलकं हरिभालमीडे ॥१०४०॥
 
+
+
 गोविन्दलीलामृत १६.१०७१०८—
+
+
 
 श्लघ्यायतो भ्रमरगञ्जनचिक्कणाभः
 
@@ -16347,6 +21387,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कामध्वजासितसुचामरचारुशोभः ॥१०४१॥
 
+
+
 चूडाद्विफालकवरार्धकजूटवेणी
 
 जूटादिकालकृतबन्धविशेषरम्यः ।
@@ -16355,7 +21397,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चित्ते स नः स्फुरतु केशवकेशपाशः ॥१०४२॥
 
+
+
 पद्यावली ८९—
+
+
 
 आरक्तदीर्घनयनो नयनाभिरामः
 
@@ -16365,7 +21411,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दाटवीनगरनागरचक्रवर्ती ॥१०४३॥
 
+
+
 पद्यावली ९६—
+
+
 
 अनङ्गरसचातुरीचपलचारुनेत्राञ्चलश्
 
@@ -16375,7 +21425,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स मे सपदि मानसे स्फुरतु कोऽपि गोपालकः ॥१०४४॥
 
+
+
 अलङ्कारकौस्तुभ ?
+
+
 
 सान्द्रानन्दघनं घनाघनघटास्निग्धोज्ज्वलश्यामल
 
@@ -16385,7 +21439,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्यासङ्गेन तरङ्गितं मम मनः सङ्गित्वमङ्गीक्रियात॥१०४५॥
 
+
+
 गोविन्दलीलामृत १६.१०९११०—
+
+
 
 अपारमाधुर्यसुधार्णवानि
 
@@ -16395,6 +21453,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वर्ण्यानि नाङ्गानि सहस्रवक्त्रैः ॥१०४६॥
 
+
+
 इतीरयित्वा विरते शुकेशे
 
 ससारिके गद्गदरुद्धकण्ठे ।
@@ -16403,7 +21463,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षणं सभा सा स्तिमिता तदासीत॥१०४७॥
 
+
+
 गोविन्दलीलामृत १७.१७—
+
+
 
 श्रीराधया प्रेरितयाथ वृन्दया
 
@@ -16413,6 +21477,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्राह सभां स नन्दयन॥१०४८॥
 
+
+
 कविभिरनवगाह्यं तं महद्भिर्वराकोऽप्य्
 
 अहमजितगुणाब्धिं जिह्वया लेढुमीहे ।
@@ -16420,6 +21486,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यदपि फलमभेद्यं लाङ्गलीयं सुपक्वं
 
 स्पृशति तदपि चञ्च्वा तन्मुहुर्लुब्धकीरः ॥१०४९॥
+
+
 
 इहानिनीषामि करेण भास्करं
 
@@ -16429,6 +21497,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गुणान्विवक्ष्यामि हरेरपत्रपः ॥१०५०॥
 
+
+
 या या जाता हरिगुणलवस्पर्शपूता रसज्ञा
 
 सा सा जातु स्पृशति नितरां क्वापि वार्तां तदन्याम् ।
@@ -16436,6 +21506,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 माकन्दीयप्रथममुकुलास्वादपुष्टान्यपुष्ट
 
 श्रेणी या सा रसयति कथं कुट्मलं पैचुमर्दम् ॥१०५१॥
+
+
 
 यदुक्तं गर्गेण व्रजपतिपुरस्तेऽस्य हि शिशोर्
 
@@ -16445,6 +21517,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 महत्त्वं गाम्भीर्यादिकमपि च तेनैव कथितम् ॥१०५२॥
 
+
+
 स्व भक्ते वात्सल्य प्रणय वशतादेर्गुणततेर्
 
 अनन्तत्वात्सङ्ख्या दनुज जयिनो नैव घटते ।
@@ -16452,6 +21526,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 बहुत्वात्पाल्यानामनिशमुरुवृत्तेः समुदयाद्
 
 इहाप्येकैकस्यापि हि भवति सम्यङ्नगणनम् ॥१०५३॥
+
+
 
 रूपं भूषण भूषणं नववयः कैशोर मध्य स्थितं
 
@@ -16461,7 +21537,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कीर्तिर्विश्व विशोधिनी कथमसौ कृष्णोऽस्तु वर्ण्य क्षितौ ॥१०५४॥
 
+
+
 गोविन्दलीलामृत १७.९—
+
+
 
 श्रीकृष्णस्याखिलाङ्गान्मृगमदरससंलिप्तनीलोत्पलानां
 
@@ -16471,7 +21551,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सत्सौरभ्यामृतोर्मिः प्रसरति जगदाप्लावयन्ती समन्तात॥१०५५॥
 
+
+
 गोविन्दलीलामृत १७.१४१७—
+
+
 
 लावण्यवन्योत्सलिलेऽघविद्विषो
 
@@ -16481,6 +21565,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निश्चित्य रोषाद्विमुखी स्म वेप्यते ॥१०५६॥
 
+
+
 श्रीराधयानन्यसमोर्ध्वयाहृतं
 
 मनो हरेर्धावति नापराङ्गनाम् ।
@@ -16488,6 +21574,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सरोजिनी सन्मधुलम्पटः सदा वल्लीं
 
 परामिच्छति किं मधुव्रतः ॥१०५७॥
+
+
 
 उष्णो रविः शीतल एव चन्द्रः
 
@@ -16497,6 +21585,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वभावतः प्रेमवशो हि कृष्णः ॥१०५८॥
 
+
+
 गम्भीरोऽतिस्थिरमतिरतिव्रीडितो निर्विकारी
 
 यः कृष्णस्ते सुबल सवयाः साम्प्रतं पश्य सोऽयम् ।
@@ -16505,7 +21595,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भावैर्लोलः स्मरविवशधीः सम्भ्रमाद्बम्भ्रमीति ॥१०५९॥
 
+
+
 गोविन्दलीलामृत १७.१९२१—
+
+
 
 प्रस्वेदोत्पुलकादरोक्त्यमृतसत्सौरभ्यमन्दस्मितैः
 
@@ -16515,6 +21609,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नैवेद्यं च तदा सुधाधररसस्ताम्बूलमासामभूत॥१०६०॥
 
+
+
 वदान्येशस्तृष्णानिचयचितचित्तैः करुणराट्
 
 विपन्नैः कन्दर्पो युवतिनिकरैर्मृत्युररिभिः ।
@@ -16522,6 +21618,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अधीशः सद्भक्तैः सहजनिजबन्धुर्व्रजजनैः
 
 प्रतीतः कृष्णोऽसाविति विविधलोकैर्बहुविधः ॥१०६१॥
+
+
 
 सांमुख्यात्श्वपचो द्विजोऽस्ति विमुखश्चेद्यस्य विप्रऽन्त्यजो
 
@@ -16531,7 +21629,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 इन्दुर्यद्विरहेऽग्निरग्निरमृतं कृष्णाय तस्मै नमः ॥१०६२॥
 
+
+
 गोविन्दलीलामृत १७.२५—
+
+
 
 कामोत्पत्तिर्धृति धन हृतिह्संहृतिर्लोकभीतेर्
 
@@ -16541,7 +21643,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 या सा जीयान्मधुरमुरलीकाकली गोकुलेन्दोः ॥१०६३॥
 
+
+
 गोविन्दलीलामृत १७.२७—
+
+
 
 नादव्याजात्क्षिपसि कठिने गारलीमामृतीं वा
 
@@ -16551,7 +21657,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोप्यः कृष्णप्रणयविकला वंशिकामित्थमाहुः ॥१०६४॥
 
+
+
 गोविन्दलीलामृत १७.३४३६—
+
+
 
 सौन्दर्यं पदयोः सरोजवदहो कान्तं तथेन्दुर्मुखं
 
@@ -16561,6 +21671,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कंसारेरमृतं यथा सुलपितं ज्योत्स्नेव हास द्युतिः ॥१०६५॥
 
+
+
 श्रीपाणी नवपल्लवेन सदृशौ पूर्णेन्दुतुल्या नखा
 
 गण्डौ दर्पणवद्द्युतिर्नवघनश्यामा च यस्याङ्गनाः ।
@@ -16568,6 +21680,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दृष्टाम्भोरुहदर्शमास्यमलिसञ्चारं चरन्त्युत्तृषः
 
 साधौ चन्द्रति यः सूतीयति नतान्कुञ्जेषु सौधीयति ॥१०६६॥
+
+
 
 यो दैत्येष्वशनीयतीह रमणीवृन्दे मनोजायते
 
@@ -16577,7 +21691,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चुम्बन्त्याननपद्ममेणनयना यस्यैष कृष्णोऽवतु ॥१०६७॥
 
+
+
 गोविन्दलीलामृत १७.४८४९—
+
+
 
 एवं हि कृष्णस्य गुणा अनन्ता
 
@@ -16587,6 +21705,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विशुद्धये तद्गणनाशयालम् ॥१०६८॥
 
+
+
 इत्थं हरेस्तद्गुणवर्णनाम्बुधौ
 
 निमज्जनोन्मज्जनफुल्लमानसौ ।
@@ -16595,7 +21715,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वयाचतां तद्गुणवर्णनैः पुनः ॥१०६९॥
 
+
+
 आनन्दवृन्दावनचम्पू १५.२२०—
+
+
 
 जय जय नन्दात्मज जय वृन्दावनरसकन्दातुलगुणविन्दा
 
@@ -16609,7 +21733,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रकटाभीर श्यामशरीर ॥१०७०॥
 
+
+
 गोविन्दविरुदावली ३७—
+
+
 
 जय जय वंशीवाद्यविशारद शारदसरसीरुहपरिभावक
 
@@ -16631,7 +21759,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नन्दनगुण मा नन्दय सुन्दर ॥ वीर ॥१०७१॥
 
+
+
 गोविन्दविरुदावली ३९—
+
+
 
 त्वं जय केशव केशबलस्तुत वीर्यविलक्षण लक्षणबोधित
 
@@ -16649,7 +21781,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोपसभावक भावकशर्मद हन्त कृपालय पालय मामपि ॥ वीर ॥१०७२॥
 
+
+
 सङ्गीतमाधवं २३—
+
+
 
 वरसीमन्तरसामृतसारिणीधृतसिन्दूरसुरेखाम् ।
 
@@ -16695,7 +21831,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दावनरसलालसमनसामिदमुपगेयमवश्यम् ॥१०७३॥
 
+
+
 सङ्गीतमाधवं २४२७—
+
+
 
 सुभगशिखलक्ष्मीकोटिकाम्यैकपादा ।
 
@@ -16705,6 +21845,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मम हृदि रसमूर्तिः स्फूर्तिमायातु राधा ॥१०७४॥
 
+
+
 नवरसमदघूर्णन्माधवप्राणकोटि
 
 प्रियनखमणिशोभा सर्वसौभाग्यभूमिः ।
@@ -16713,9 +21855,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजनगरकिशोरीवृन्दसीमन्तभूषा ॥१०७५॥
 
+
+
 गोविन्दप्राणसर्वस्वनखचन्द्रैकचन्द्रिका ।
 
 कापि प्रेमरसोदारा किशोरी मम जीवनम् ॥१०७६॥
+
+
 
 चेतः कामपि कुन्दसुन्दरसुधानिःस्यन्दिमन्दस्मित
 
@@ -16725,11 +21871,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीवृन्दावनचन्द्रदुर्मदमनश्चौरीं किशोरीं स्मर ॥१०७७॥
 
+
+
 गोविन्दलीलामृतं ११.५०५४—
+
+
 
 पुनः कृष्णेङ्गितज्ञास्ताः श्लोकैरेकैकशः पृथक।
 
 वयस्यां वर्णयामासुः प्रेम्ना ताः ललितादयः ॥१०७८॥
+
+
 
 शङ्खार्धेन्दुयवाब्जकुञ्जररथैः सीराङ्कुशेषुध्वजैश्
 
@@ -16739,6 +21891,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीराधाचरणद्वयं सुकटकं साम्राज्यलक्ष्म्या बभौ ॥१०७९॥
 
+
+
 यत्कान्त्या लवनाच्छ्रियः किशलये या पल्लवाख्यां न्यधात्
 
 पद्माख्यां नलिले विधाय मलिनीभावं निशा कोकवत।
@@ -16746,6 +21900,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शोकात्कोकनदाभिधां विलपनै रक्तोत्पले चेत्यसौ
 
 सा राधा भुवि तत्पदद्वयमिदं केनोपमेयं भवेत॥१०८०॥
+
+
 
 अपूर्वा श्रीराधाचरणकमलनखचन्द्रावलिर्
 
@@ -16755,6 +21911,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हठाच्चन्द्रावल्या विरचयति या विस्मृतमपि ॥१०८१॥
 
+
+
 तारुण्ये नवराज्ञि नीतिशिथिले राधावपुःपत्तने
 
 वक्षोजद्वयदस्युना स जघनेनाक्रम्य मध्यं बलात।
@@ -16763,7 +21921,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बद्ध्वा स्थापितमित्यवेत्य भयतो गुल्फौ निलीय स्थितौ ॥१०८२॥
 
+
+
 गोविन्दलीलामृतं ११.५६—
+
+
 
 अस्या मिषात्प्रसृतयोर्मदनाय हैमा
 
@@ -16773,7 +21935,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तन्माधुरी सुदृढशृङ्खलया बबन्ध ॥१०८३॥
 
+
+
 गोविन्दलीलामृतं ११.५५—
+
+
 
 स्वस्थित्यैव स्तम्भितस्वर्णरम्भा
 
@@ -16783,6 +21949,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 च्छायाशालास्तम्भतां लम्भिते ये ॥१०८४॥
 
+
+
 जानुद्वयं न तदिदं वृषभानुजायाः
 
 कामस्ये ते कनकसम्पुटिके सुगुप्ते ।
@@ -16790,6 +21958,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यत्कृष्णहृन्नयनरत्नमनेकयत्नैः
 
 संमुष्य सोऽयमनयोर्मुमुदे निधाय ॥१०८५॥
+
+
 
 त्वचि कठिनकरेभ्यः पद्मिनां भीः करेः
 
@@ -16799,7 +21969,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निरुपममधुरे ते सक्थिनी केन तुल्ये ॥१०८६॥
 
+
+
 गोविन्दलीलामृतं ११.६०६२—
+
+
 
 राधाश्रोणिरियं समानपुलिनैः सत्या कवेर्गीरियं
 
@@ -16809,6 +21983,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वाभिर्वृत्तिसखीनटीभिरनिशं कुर्वन्न विश्राम्यति ॥१०८७॥
 
+
+
 वीर्योन्मत्तैर्मदकरितनुस्थूलता हस्तकुम्भैर्
 
 मैत्रीं कृत्वा शठगुरुनितम्बोरुवक्षोजचौरैः ।
@@ -16816,6 +21992,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पौष्कल्यं मे हृतमिति भयक्रोधशोकादिवास्या
 
 दुःस्थं मध्यं त्वरितमकरोत्सिंहमध्येन सख्यम् ॥१०८८॥
+
+
 
 अस्या नितम्बस्तनयोर्दरिद्रयोः
 
@@ -16825,7 +22003,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चकार सीमां त्रिवलिच्छलेन किम् ॥१०८९॥
 
+
+
 गोविन्दलीलामृतं ११.६५—
+
+
 
 चलदलदलजाले कम्पदं हैमदीव्यत्
 
@@ -16835,7 +22017,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदिदमुदरमस्या भाति साम्राज्यलक्ष्म्या ॥१०९०॥
 
+
+
 गोविन्दलीलामृतं ११.३१—
+
+
 
 अस्या लसत्तनुवनीमनुभाति काम
 
@@ -16844,7 +22030,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कुम्भौ मिषेण कुचयोर्हरिपाणिजम््म
 कामाङ्कुशक्षतशतौ मदलेपचित्रौ ॥१०९१॥
 
+
+
 गोविन्दलीलामृतं ११.६६६९—
+
+
 
 भृङ्गाराम्भोजमालाव्यजनशशिकलाकुण्डलच्छत्रयूपैः
 
@@ -16854,6 +22044,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मन्ये तत्तन्मिषात्स्वप्रियपरिचरणस्योपचारान्बिभर्ति ॥१०९२॥
 
+
+
 श्रीकामाङ्कुशतीक्ष्णचारुशिखरैर्माणिक्यपूर्णेन्दुभिः
 
 श्लिष्टाग्रार्धविभागगन्धफलिकाश्रेणीदलैः शोभिते ।
@@ -16861,6 +22053,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पद्मे चेदभविष्यतां क्वचिदपि श्रीराधिकाहस्तयोर्
 
 औपम्यं जितपल्लवाब्जचययोः सम्प्राप्स्यतां ते तदा ॥१०९३॥
+
+
 
 राधाकराब्जनखराः सुखरबकारेर्
 
@@ -16870,6 +22064,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 टङ्काः सुसूक्ष्मनिशिताः स्फुटमुल्लसन्ति ॥१०९४॥
 
+
+
 मूलेऽधोवदनं वराटकयुगं चाग्रेऽम्बुजे बिभ्रती
 
 नैते स्वर्णमृणालके रतिपतेर्ये पाशतामागते ।
@@ -16878,7 +22074,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 फले राधाबाहुलते इमे करयुगश्रीपल्लवे दीव्यतः ॥१०९५॥
 
+
+
 गोविन्दलीलामृतं ११.७२७४—
+
+
 
 स्मरजयलिपियुक्ता हाटकीपट्टिकेयं किमु
 
@@ -16888,6 +22088,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नहि लसति विराजद्वेणिराधासुपृष्ठम् ॥१०९६॥
 
+
+
 सहजविनतमंसद्वन्द्वमस्याः कवीन्द्रा
 
 गिरिधरकरशश्वद्भारतो नम्रमाहुः ।
@@ -16895,6 +22097,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मम तु मतमनुच्चैरप्यदः सर्वमुच्चैः
 
 शिरसगणमतीत्योद्भाति तत्सौभगेन ॥१०९७॥
+
+
 
 सौन्दर्यलक्ष्मीरिह काव्यलक्ष्मीः
 
@@ -16904,7 +22108,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्रयेण कण्ठः किमु भात्यमुष्याः ॥१०९८॥
 
+
+
 गोविन्दलीलामृतं ११.७६७८—
+
+
 
 व्यर्थीकृता स्वरगुणैर्गहनं पिकाली
 
@@ -16914,6 +22122,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 केनोपमान्तु कवयस्तमिमं सुकण्ठम् ॥१०९९॥
 
+
+
 यो बालार्कविकाशिसुप्तमधुपस्वर्णाम्बुजैकच्छदो
 
 विश्राम्यत्पिकहेममन्दिरगवाक्षाधोविटङ्कोऽपि यः ।
@@ -16921,6 +22131,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तौ राधामदबिन्दुचारुचिबुकं दृष्ट्वा स्वसाम्योत्सुकौ
 
 श्रीकृष्णाङ्गुलिसङ्गसौभगगुणैर्न्यक्कृत्य विभ्राजते ॥११००॥
+
+
 
 बन्धोर्हरेर्जीवतयास्य तत्ता
 
@@ -16930,7 +22142,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वयं तन्नहि साम्यमाभ्याम् ॥११०१॥
 
+
+
 गोविन्दलीलामृतं ११.८१—
+
+
 
 कुन्दाकृतिर्हीररुचिर्विचित्र
 
@@ -16940,7 +22156,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वादेन लेभे शिखरच्छवित्वम् ॥११०२॥
 
+
+
 गोविन्दलीलामृतं ११.८४८६—
+
+
 
 श्रीकृष्णसत्कीर्त्यभिधाननाम्नो
 
@@ -16950,6 +22170,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधारसज्ञारुणवस्त्रदोला ॥११०३॥
 
+
+
 पीयूषाब्धितरङ्गवर्णमधुरं नर्मप्रहेलीमयं
 
 शब्दार्थोभयशक्तिसूचितरसालङ्कारवस्तुध्वनि ।
@@ -16957,6 +22179,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भृङ्गीभृङ्गपिकीपिकध्वनिकलास्वध्यापकं राजते
 
 श्रीकृष्णश्रवसो रसायनमिदं श्रीराधिकाभाषितम् ॥११०४॥
+
+
 
 प्रेमाज्यनर्मालिसितारसावली
 
@@ -16966,7 +22190,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वाणी रसालोल्लसतीशतृप्तिदा ॥११०५॥
 
+
+
 गोविन्दलीलामृतं ११.८८—
+
+
 
 हरेर्गुणालीवरकल्पवल्ल्यो
 
@@ -16976,7 +22204,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्मितच्छलात्किन्तु बहिः स्खलन्ति ॥११०६॥
 
+
+
 गोविन्दलीलामृतं ११.९२९४—
+
+
 
 हरिनयनचकोरप्रीतये राधिकाया
 
@@ -16986,6 +22218,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न्यधित तदवरोद्धुं पार्श्वयोः कर्णपाशौ ॥११०७॥
 
+
+
 चन्द्रः कलङ्की क्षयितोऽतिविह्वलस्
 
 तत्पादघातैर्मलिनं यथाम्बुजम् ।
@@ -16993,6 +22227,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुनिर्मलं सन्ततपूर्णमण्डलं
 
 केनोपमेयं वद राधिकाननम् ॥११०८॥
+
+
 
 राधाया जितहेमदर्पणमदं गण्डद्वयं सुन्दरम्
 
@@ -17002,7 +22238,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 छैवालं मकरीविलासवलितं कृष्णातितृष्णाहरम् ॥११०९॥
 
+
+
 गोविन्दलीलामृतं ११.९८१००—
+
+
 
 अमुष्याः श्रीनासातिलकुसुमतूणो रतिपतेर्
 
@@ -17012,6 +22252,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शरव्यत्वं येषामलभत हरेश्चित्तहरिणः ॥१११०॥
 
+
+
 राधाया नयनाञ्जनाहररुचा व्याप्तं नु गुञ्जायते
 
 नासामौक्तिकमेतदित्यविदुषां काव्यं ममैतन्मतम् ।
@@ -17019,6 +22261,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शश्वत्कृष्णविराजिरागिहृदयश्वासानिलैर्भावितं
 
 तत्तद्वर्णतयाशु तत्परिणतं तेषां हि तत्तद्गुणैः ॥११११॥
+
+
 
 नयनयुगविधाने राधिकाया विधात्रा
 
@@ -17028,7 +22272,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रमरमृगचकोराम्भोजमीनोत्पलानि ॥१११२॥
 
+
+
 गोविन्दलीलामृतं ११.१०३१०४—
+
+
 
 राधाक्षिपद्मद्वयधाम्नि तिष्ठतः
 
@@ -17038,11 +22286,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कटाक्षधारामिषतो निरेत्युत ॥१११३॥
 
+
+
 भ्रुवौ तिरःप्रसारिण्यौ विष्णुक्रान्तालते ध्रुवम् ।
 
 अस्याः कृष्णे ययोर्भातः कुसुमे नेत्रयोर्मिषात॥१११४॥
 
+
+
 गोविन्दलीलामृतं ११.१०६—
+
+
 
 राधालिकं चिल्ल्यलकालिमञ्जुलं
 
@@ -17052,7 +22306,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यथा नवं काञ्चनमाधवीदलम् ॥१११५॥
 
+
+
 गोविन्दलीलामृतं ११.१०८—
+
+
 
 सीमन्तरेखाञ्च्यरुणाम्बरावृतं
 
@@ -17062,7 +22320,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताम्रार्घ्यपात्रं सशिखं स्मरस्य वा ॥१११६॥
 
+
+
 गोविन्दलीलामृतं ११.१११११२—
+
+
 
 अलकमधुपमाला भाति या राधिकाया
 
@@ -17072,6 +22334,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मदनमृगयुनासौ लम्भिता वागुरात्वम् ॥१११७॥
 
+
+
 राधाअम्नोवृत्तिलताङ्कुरागताः
 
 कृष्णस्य ये भावनया तदात्मताम् ।
@@ -17080,7 +22344,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ते निःसृता केशमिषाद्बहिर्ध्रुवम् ॥१११८॥
 
+
+
 गोविन्दलीलामृतं ११.११५११८—
+
+
 
 रत्नावलीकान्तिसरस्वतीयुता
 
@@ -17090,6 +22358,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वेणी त्रिवेणीव बभौ नतभ्रुवः ॥१११९॥
 
+
+
 विलासविस्रस्तमवेक्ष्य राधिका
 
 श्रीकेशपाशं निजपुच्छपिञ्छयोः ।
@@ -17097,6 +22367,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 न्यक्कारमाशङ्क्य ह्रियेव भेजिरे
 
 गिरिं चमर्यो विपिनं शिखण्डिनः ॥११२०॥
+
+
 
 राधायाः कुङ्कुमानां परिमलविततिर्निर्जिहीतेऽखिलाङ्गान्
 
@@ -17106,6 +22378,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कक्षश्रेणीनखेभ्यो मलयजरससंसिक्तसत्केतकीनाम् ॥११२१॥
 
+
+
 कृष्णेन्द्रियाह्लादिगुणैरुदारा
 
 श्रीराधिका राजति राधिकेव ।
@@ -17114,7 +22388,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अङ्गानि च भान्त्यमुष्याः ॥११२२॥
 
+
+
 गोविन्दलीलामृतं ११.१२११२२—
+
+
 
 पातिव्रत्यं क्व नु परवधूत्वापवादः क्व चास्याः
 
@@ -17124,6 +22402,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मूलं कृष्ट्वा कषति हृदयं कापि शल्यत्रयी नः ॥११२३॥
 
+
+
 का कृष्णस्य प्रणयजनिभू राधिकैका न चान्या
 
 कास्य प्रेयस्यनुपमगुणा राधिकैका परा न ।
@@ -17132,7 +22412,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वाञ्छापूर्तौ प्रभवति हि का राधिका नापरेह ॥११२४॥
 
+
+
 गोविन्दलीलामृतं ११.१२४—
+
+
 
 न दीक्षास्याः शिक्षाश्रवणपठने वा गुरुमुखात्
 
@@ -17142,7 +22426,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कलानामाचार्या व्रजमृगदृशामप्यजनि सा ॥११२५॥
 
+
+
 गोविन्दलीलामृतं ११.१२६१२७—
+
+
 
 प्रजागरस्वप्नसुषुप्तिषु
 
@@ -17152,6 +22440,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णैकतानत्वं ऋतेऽस्ति वृत्तिः ॥११२६॥
 
+
+
 शफरमृगचकोरीखञ्जनाम्भोजभृङ्गी
 
 निकरमदनवाणश्रेणी नीलोत्पलानि ।
@@ -17160,7 +22450,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सहजनयनलीलानर्तनैर्निर्जितानि ॥११२७॥
 
+
+
 गोविन्दलीलामृतं ११.१३०१३१—
+
+
 
 गीर्भूर्लीला युवतिषु वरैः सद्गुणैः सारभूतास्
 
@@ -17170,6 +22464,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीराधास्यां बत हि नितरां सोऽपि कृष्णः सतृष्णः ॥११२८॥
 
+
+
 चन्द्रावलीप्रणयरूपगुणैः प्रयत्न
 
 व्यक्तीकृतैर्व्यरचयत्स्ववशं बकारिम् ।
@@ -17178,7 +22474,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्यस्मारयत्तमिह तामपि हा कुतोऽन्याः ॥११२९॥
 
+
+
 गोविन्दलीलामृतं ११.१३४१३७—
+
+
 
 विनाप्याकल्पैः श्रीवृषरविसुता कृष्णसविधे
 
@@ -17188,6 +22488,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 युताप्येषा म्लाना मलिनयति तासां तनुमनः ॥११३०॥
 
+
+
 कृष्णः पुरः स्फुरति पार्श्वयुगे च पश्चाच्
 
 चित्तस्य वृत्तिषु दृशोर्विषये च शश्वत्
@@ -17195,6 +22497,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीगण्डयोश्च कुचयोस्तरले यतोऽस्याः
 
 श्रीराधिका तदिह कृष्णमयीति सत्यम् ॥११३१॥
+
+
 
 कृष्णस्य सौन्दर्यभरैर्विनिर्जितः
 
@@ -17204,6 +22508,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तां बाधतेऽद्धा तदगोचरेऽबलात॥११३२॥
 
+
+
 स्पृशति यदि मुकुन्दो राधिकां तत्सखीनां
 
 भवति वपुषि कम्पस्वेदरोमाञ्चबाष्पम् ।
@@ -17212,7 +22518,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भवति बत तदासामत्तता चित्रमेतत॥११३३॥
 
+
+
 गोविन्दलीलामृतं ११.१३९—
+
+
 
 इयं कृष्णादङ्कस्रजमुरुमुपादाय रुचिरां
 
@@ -17222,7 +22532,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गृहीत्वाभ्यामान्यो दर तदवलोकं तनुमदुः ॥११३४॥
 
+
+
 गोविन्दलीलामृतं ११.१४३—
+
+
 
 दृष्ट्वा राधां निपुणविधिना सुष्ठु केनापि सृष्टां
 
@@ -17232,7 +22546,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नैकाप्यासीदपि तु समभूत्पूर्वसृष्टिर्निरर्था ॥११३५॥
 
+
+
 गोविन्दलीलामृतं ११.१४५१४६—
+
+
 
 राधागुणानां गणनातिगानां
 
@@ -17242,6 +22560,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जानीथ तत्तत्कथनिरलं नः ॥११३६॥
 
+
+
 इत्थं सालङ्कार काव्यैः सहासं
 
 कृष्णः कान्तां वर्णिताङ्गीं सखीभिः ।
@@ -17250,7 +22570,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नेत्र श्रुत्योस्तृप्तिमुच्चैरवाप ॥११३७॥
 
+
+
 आनन्दवृन्दावनचम्पू ८.२३—
+
+
 
 क्षितौ शोणेऽम्बुजे तदुपरि नवौ हेमकदली
 
@@ -17260,7 +22584,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ततश्चन्द्रस्तस्मात्तम इति विधेः का नु घटना ॥११३८॥
 
+
+
 राधारससुधानिधि १२६१२७—
+
+
 
 राकानेकविचित्रचन्द्र उदितः प्रेमामृतज्योतिषां
 
@@ -17270,6 +22598,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भावेनैव यदा तदैव तुलये राधे तव श्रीमुखम् ॥११३९॥
 
+
+
 कालिन्दीकूलकल्पद्रुमतलनिलयप्रोल्लसत्केलिकन्दा
 
 वृन्दाटव्यां सदैव प्रकटतररहोवल्लवीभावभव्या ।
@@ -17278,7 +22608,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सान्द्रानन्दाकृतिर्नः स्फुरतु नवनवप्रेमलक्ष्मीरमन्दा ॥११४०॥
 
+
+
 राधारससुधानिधि ३९—
+
+
 
 वेणुः करान्निपतितः स्खलितं शिखण्डं
 
@@ -17288,7 +22622,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तां राधिकां परिचरामि कदा रसेन ॥११४१॥
 
+
+
 राधारससुधानिधि ४५—
+
+
 
 श्रीराधिके तव नवोद्गमचारुवृत्त
 
@@ -17298,7 +22636,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कैशोरकं जयति मोहनचित्तचौरम् ॥११४२॥
 
+
+
 राधारससुधानिधि ७५—
+
+
 
 गौराङ्गे म्रदिमा स्मिते मधुरिमा नेत्राञ्चले द्राघिमा
 
@@ -17308,7 +22650,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीराधे हृदि ते रसेन जडिमा ध्यानेऽस्तु मे गोचरः ॥११४३॥
 
+
+
 राधारससुधानिधि ९९—
+
+
 
 गात्रे कोटितडिच्छवि प्रविततानन्दच्छवि श्रीमुखे
 
@@ -17318,7 +22664,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वन्दे तन्नवकुञ्जकेलिमधुरं राधाभिधानं महः ॥११४४॥
 
+
+
 राधारससुधानिधि ११७—
+
+
 
 चन्द्रास्ये हरिणाक्षि देवि सुनसे शोणाधरे सुस्मिते
 
@@ -17328,7 +22678,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रोन्मीलन्नखचन्द्रमण्डलि कदा राधे मयाराध्यसे ॥११४५॥
 
+
+
 राधारससुधानिधि १२०—
+
+
 
 भ्रमद्भ्रूकुटिसुन्दरं स्फुरितचारुबिम्बाधरं
 
@@ -17338,7 +22692,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्मरामि तव राधिके रतिकलासुखं श्रीमुखम् ॥११४६॥
 
+
+
 राधारससुधानिधि १८६—
+
+
 
 चलत्कुटिलकुन्तलं तिलकशोभिभालस्थलं
 
@@ -17348,7 +22706,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तवातिरतिपेशलं वदनमण्डलं भावये ॥११४७॥
 
+
+
 राधारससुधानिधि १८५—
+
+
 
 लसद्दशनमौक्तिकप्रवरकान्तिपूरस्फुरन्
 
@@ -17358,7 +22720,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्मरामि तव राधिके वदनमण्डलं निर्मलम् ॥११४८॥
 
+
+
 राधारससुधानिधि १२१—
+
+
 
 उन्मीलन्मुकुटच्छटापरिलसद्दिक्चक्रवालं स्फुरत्
 
@@ -17368,7 +22734,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीमत्पादसरोरुहं भज मनो राधाभिधानं महः ॥११४९॥
 
+
+
 राधारससुधानिधि १३०—
+
+
 
 मल्लीदामनिबद्धचारुकवरं सिन्दूररेखोल्लसत्
 
@@ -17378,7 +22748,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विद्युत्कोटिनिभं स्मरोत्सवमयं राधाख्यमीक्षे महः ॥११५०॥
 
+
+
 राधारससुधानिधि २४५—
+
+
 
 शुद्धप्रेमविलासवैभवनिधिः कैशोरशोभानिधिः
 
@@ -17388,7 +22762,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सौन्दर्यैकसुधानिधिर्मधुपतेः सर्वस्वभूतो निधिः ॥११५१॥
 
+
+
 राधारससुधानिधि १८९—
+
+
 
 श्रीगोपेन्द्रकुमारमोहनमहाविद्ये स्फुरन्माधुरी
 
@@ -17398,7 +22776,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हा हा स्वामिनि राधिके मयि कृपादृष्टिं मनाङ्निक्षिप ॥११५२॥
 
+
+
 सखीनां वर्णनमाह, वृन्दावनमहिमामृत ३.४०—
+
+
 
 काञ्चीमञ्जीरकेयूरकवलयघटारत्नताटङ्करम्याः
 
@@ -17408,7 +22790,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लोलद्वेण्यग्रगुच्छाः स्मर कनकरुचीर्दासिका राधिकायाः ॥११५३॥
 
+
+
 साधनामृतचन्द्रिक २.२३ —
+
+
 
 गोरोचनारुचिमनोहरकान्तिदेहां
 
@@ -17418,6 +22804,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताम्बूलभक्तिललितां ललितां नमामि ॥११५४॥
 
+
+
 सौदामिनीनिचयचारुरुचिप्रतीकां
 
 तारावलिललितकान्तिमनोज्ञचेलाम् ।
@@ -17425,6 +22813,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीराधिके तव विचित्रगुणानुरूपां
 
 सद्गन्धचन्दनरतां कलये विशाखाम् ॥११५५॥
+
+
 
 सद्रत्नचामरकरां वरचम्पकाभां
 
@@ -17434,6 +22824,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधेऽथ चम्पकलतां भवत्याः प्रपद्ये ॥११५६॥
 
+
+
 काश्मीरकान्तिकमनीयकलेवराभां
 
 सुस्निग्धकाचनिचयप्रभाचारुचेलाम् ।
@@ -17441,6 +22833,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीराधिके तव मनोरथवस्त्रदाने
 
 चित्रां विचित्रहृदयां सदयां प्रपद्ये ॥११५७॥
+
+
 
 सच्चन्द्रमण्डलमनोरमकुङ्कुमाभां
 
@@ -17450,6 +22844,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधे भजे प्रियसखीं तव तुङ्गविद्याम् ॥११५८॥
 
+
+
 नृत्योत्सवां हि हरितालसमुज्ज्वलाभां
 
 सद्दाडिमकुसुमकान्तिमनोज्ञचेलाम् ।
@@ -17457,6 +22853,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वन्दे मुदा रुचिविनिर्जितचन्द्रलेखां
 
 श्रीराधिके तव सखीमहमिन्दुलेखाम् ॥११५९॥
+
+
 
 सत्पद्मकेशरमनोहरकान्तिदेहां
 
@@ -17466,6 +22864,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधे भजे प्रियसखीं तव रङ्गदेवीम् ॥११६०॥
 
+
+
 प्रोत्तप्तशुद्धकनकच्छविचारुदेहां
 
 प्रोद्यत्प्रवालनिचयप्रभचारुचेलाम् ।
@@ -17474,7 +22874,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीराधिके तव सखीं कलये सुदेवीम् ॥११६१॥
 
+
+
 साधनामृतचन्द्रिका, २.२४—
+
+
 
 वसन्तकालोद्भवकेतकीततिप्रभा
 
@@ -17484,7 +22888,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अनङ्गपूर्वां प्रणमामि मञ्जरीम् ॥११६२॥
 
+
+
 वृन्दावनमहिमामृत २.५८५९—
+
+
 
 किशोरवयसः स्फुरत्पुरटरोचिषो मोहिनीः
 
@@ -17494,6 +22902,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुवेणीः पटभूषणाः स्मरत राधिकाकिङ्करीः ॥११६३॥
 
+
+
 सुरम्या दोर्वल्लीवलयगणकेयूररुचिराः
 
 क्वणत्काञ्चीमञ्जीरकर्मणि सुताटङ्कललिताः ।
@@ -17502,7 +22912,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सम्रानन्यस्निग्धाः कनकरुचिराधाङ्घ्र्यनुचरीः ॥११६४॥
 
+
+
 ११६५११७० सोउर्चे उन्क्नोwन्(सङ्ग्रहकर्तुः?)—
+
+
 
 तडितप्रभाहराङ्गकान्तिका लसत्सुतारका
 
@@ -17512,6 +22926,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लवङ्गमञ्जरी कदा मम प्रयाति दृक्पथम् ॥११६५॥
 
+
+
 गोरोचनारुचिरभासिशिखिपिञ्छवस्त्रा
 
 सार्धत्रयोदशशरद्वयसान्विता ।
@@ -17519,6 +22935,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीरूपमञ्जरिरसौ वरवाम्यरम्या
 
 मध्या ममाक्षियुगलं किमलङ्कृषीष्ट ॥११६६॥
+
+
 
 तारावलीसुवसना तडिदाभदेहा
 
@@ -17528,6 +22946,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सेवापरां विरचयेद्रतिमञ्जरी माम् ॥११६७॥
 
+
+
 विद्युद्वराङ्गसुषमा सुजवाप्रसून
 
 वस्त्रा धृतप्रखरता खलु दक्षिणा सा ।
@@ -17535,6 +22955,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यस्यास्त्रयोदशशरत्प्रमितं वयश्च
 
 मासैकयुक्कृपयताद्गुणमञ्जरी माम् ॥११६८॥
+
+
 
 फुल्लचम्पकरुचिः सुदक्षिणा
 
@@ -17544,6 +22966,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्रक्ष्यते किमिह रागमञ्जरी सदा ॥११६९॥
 
+
+
 स्वर्णकेतकीप्रसूनकान्तिनिन्दिगौरभा
 
 वाम्यमार्दवान्विता च भृङ्गरोचिरंशुका ।
@@ -17552,7 +22976,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मय्यलं कृपाकुलास्तु सा विलासमञ्जरी ॥११७०॥
 
+
+
 साधनामृतचन्द्रिका, २.२४—
+
+
 
 प्रतप्तहेमाङ्गरुचिं मनोज्ञां
 
@@ -17562,6 +22990,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तां मञ्जुलालीं निरतं भजामि ॥११७१॥
 
+
+
 विशुद्धहेमाब्जकलेवराभां
 
 काचद्युतिचारुमनोज्ञचेलाम् ।
@@ -17570,7 +23000,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भजाम्यहं कस्तूरी मञ्जरीं ताम् ॥११७२॥
 
+
+
 कस्यचित्(सङ्ग्रहकर्तुः?)—
+
+
 
 सुरम्यचपलावलीरुचिरभावृता वाससा
 
@@ -17580,6 +23014,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कदा कनकमञ्जरी किल कृपां विधत्ते मयि ॥११७३॥
 
+
+
 गोरोचनासंयुतचन्दनश्री
 
 विडम्बनीया निजदेहकान्त्या ।
@@ -17588,7 +23024,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विन्देत्कदा जम्बुनिभांशुका सा ॥११७४॥
 
+
+
 साधनामृतचन्द्रिका, २.२४—
+
+
 
 गाङ्गेयचाम्पेयतडिद्विनिन्दि
 
@@ -17598,7 +23038,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दे भजे त्वच्चरणारविन्दम् ॥११७५॥
 
+
+
 गोविन्दलीलामृत १८.१४—
+
+
 
 अथ प्रीतेश्वरी कीरमादाय वत्सला करे ।
 
@@ -17608,6 +23052,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गिरीन्द्रधारिणं धीरं सरस्तीरकुटीरगम् ॥११७७॥
 
+
+
 वद शुक सद्गुणमणिनिकराकर
 
 तरुणीमादकमधुमधुराधर ।
@@ -17615,6 +23061,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुन्दरशेखर शुचिरससागर
 
 व्रजकुलनन्दन जय वर नागर ॥११७८॥
+
+
 
 अघबकशकटकदवभयहरण
 
@@ -17624,7 +23072,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पठ खग जय जय धरवरधरण ॥११७९॥
 
+
+
 गोविन्दलीलामृत १८.८१०—
+
+
 
 स्तुहि सारि मनोहारि वारिजालिजिदाननाम् ।
 
@@ -17634,6 +23086,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्रिजगत्तरुणीश्रेणी कलासु शिष्यायते यत्ते ॥११८१॥
 
+
+
 गुणमणिखनिरुद्यत्प्रेमसम्पत्सुधाब्धिस्
 
 त्रिभुवनवरसाध्वीवृन्दवन्द्येहितश्रीः ।
@@ -17642,7 +23096,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलसति किल सा श्रीराधिकेह स्वयं श्रीः ॥११८२॥
 
+
+
 गोविन्दलीलामृत १८.२४२५—
+
+
 
 द्राक्षादाडिमबीजानि वृन्दयोपहृतान्यथ ।
 
@@ -17652,7 +23110,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ययतुस्तौ हरित्कुञ्जं सुदेवीसुखदाभिधम् ॥११८४॥
 
+
+
 कृष्णभावनामृत १५.१६—
+
+
 
 सीधुपानजलखेलन
 
@@ -17662,6 +23124,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यद्विजित्वा सखि नः प्रजगल्भे ॥११८५॥
 
+
+
 तद्बलोपधिकतः स्फुटमन्यद्
 
 धीप्रधानमधुना ललिते त्वम् ।
@@ -17669,6 +23133,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 खेलनं विमृश्य यत्प्रभविष्यत्य्
 
 अस्य गर्वचुलुकीकरणे द्राक॥११८६॥
+
+
 
 द्युतकेलिजयकैरवचान्द्र
 
@@ -17678,6 +23144,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नित्यमेव धृतगर्वततीर्नः ॥११८७॥
 
+
+
 इत्थमालिकृतमन्त्रणयोचे
 
 राधया प्रियतम प्रभविष्णो ।
@@ -17685,6 +23153,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पाशकाजिचतुरिम्णि जिगीषा
 
 नर्तकीं न किमुरीकुरुषे त्वम् ॥११८८॥
+
+
 
 सत्यमालि हृदि नर्तयसे तां
 
@@ -17694,6 +23164,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स ह्रियैष्यति तदा निलयं द्राक॥११८९॥
 
+
+
 इत्यघारि गदितं मदिराक्षी
 
 चिल्लिवल्लिदरवेल्लितभङ्ग्या ।
@@ -17702,7 +23174,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आनिनाय तरसैव सुदेव्या ॥११९०॥
 
+
+
 कृष्णाह्निककौमुदी ४.२३९२४४—
+
+
 
 तत्र काचिदथ बिम्बफलौष्ठी
 
@@ -17712,6 +23188,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चारुमन्मथविकारविमुग्धाः ॥११९१॥
 
+
+
 गोपराजयुवराजसमाजः
 
 सोऽभिरामरमणीमणिराजः ।
@@ -17719,6 +23197,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कुञ्जसीमनि मणीन्द्रशिलायां
 
 शोभते स्म तरुमूलगतायाम् ॥११९२॥
+
+
 
 वृन्दया निजगदे हरिरासां
 
@@ -17728,6 +23208,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्रीडने सनिपुणं नलिनाक्ष ॥११९३॥
 
+
+
 पश्य शारिफलकं कृतशिल्पं
 
 पट्टकाञ्चनगुणैरविकल्पम् ।
@@ -17735,6 +23217,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शारयो मरकतैस्तपनीयैर्
 
 निर्मिताः सुवलिताः कमनीयैः ॥११९४॥
+
+
 
 दन्तिदन्तकृतशिल्पसुघट्टे
 
@@ -17744,6 +23228,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शारिमेव परिघायतबाहो ॥११९५॥
 
+
+
 तन्निशम्य रमणो लसद्धसः
 
 शारिखेलनमुरीचकार सः ।
@@ -17752,7 +23238,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सन्तु रन्तुमुपयान्तु सुदत्यः ॥११९६॥
 
+
+
 कृष्णभावनामृत १५.७१३—
+
+
 
 नान्द्यभूद्वनपया सह साक्षिण्य्
 
@@ -17762,6 +23252,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वागराजत बटुर्ललिता च ॥११९७॥
 
+
+
 पाणिशोणजलजोदररङ्गे
 
 झञ्झणद्वलयमुच्छलदङ्ग्याः ।
@@ -17769,6 +23261,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यर्हि पाशककुशीलवयुग्मं
 
 लब्धनृत्यमधिभूमि चुकूर्दे ॥११९८॥
+
+
 
 तर्हि कक्षकुचयोरुरुरोचि
 
@@ -17778,6 +23272,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 र्यापि नेषदपि भङ्गकलङ्कम् ॥११९९॥
 
+
+
 कर्हिचिद्दश दशेति कदाचित्
 
 सा विदुर्विदुरिति प्रसरद्गीः ।
@@ -17785,6 +23281,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पातयन्त्यलघु दायमभीष्टं
 
 मूर्तिमत्यजनि किं न जयश्रीः ॥१२००॥
+
+
 
 यत्प्रिये दश दशेति निकामं
 
@@ -17794,6 +23292,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 देवने तव कुतो जयवार्ता ॥१२०१॥
 
+
+
 सारिका गमयितुं निजकोष्ठेष्व्
 
 अप्रभुः स्वतनुशृङ्खलिताः स्वाः ।
@@ -17801,6 +23301,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 घातयंश्चरविधिं विमृशंस्ताः
 
 खेलति स्म हरिरात्त जिगीषः ॥१२०२॥
+
+
 
 इष्टदायपतनेनसुधीः सा
 
@@ -17810,7 +23312,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लेभिरेऽतिमृदवोऽपि नितान्तम् ॥१२०३॥
 
+
+
 कृष्णभावनामृत १५.१७३०—
+
+
 
 कौस्तुभं पणितमानय तस्याप्य्
 
@@ -17820,6 +23326,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षालनैः प्रियसखी हृदि धास्ये ॥१२०४॥
 
+
+
 काननं न हि गवामिदमेतन्
 
 मारणं न बकवत्सबकीनाम् ।
@@ -17827,6 +23335,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अक्षदेवनमिदं तु सभायां
 
 स्याद्विदग्धजनबुद्धिपरीक्षा ॥१२०५॥
+
+
 
 इत्थमालिखरधारसरस्वत्य्
 
@@ -17836,6 +23346,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कौस्तुभं मम समर्पये हस्ते ॥१२०६॥
 
+
+
 चेत्स्वकृत्यमिषतोऽपसृते मय्या
 
 क्रमं कमपि हन्त विधित्सेत।
@@ -17843,6 +23355,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 एककेऽपि भवति व्रजरामा
 
 संहतिर्व्रजपुरन्दरसूनो ॥१२०७॥
+
+
 
 तन्निवेद्य निखिलं व्रजराज्ञीं
 
@@ -17852,6 +23366,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वाश्वमूर्न किमु पातयितास्मि ॥१२०८॥
 
+
+
 धिग्धिया रहित किं त्वमभैषीर्
 
 अस्मि जिष्णुरधुनैव विजिष्ये ।
@@ -17859,6 +23375,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मातिमौग्ध्यमयचेष्टितभङ्ग्या
 
 ख्यापयाज्ञतम मत्परिभूतिम् ॥१२०९॥
+
+
 
 किं हितप्रकथनेऽप्यतिकुप्यस्य्
 
@@ -17868,6 +23386,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृत्य नृत्यमपि कारयतु त्वाम् ॥१२१०॥
 
+
+
 चिल्लिकोणधुवनेन मुकुन्दः
 
 स्वीयपक्षगमिता एव सभ्याः ।
@@ -17875,6 +23395,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्राह पश्य मयैव जितानां
 
 अप्यतिप्रखरतां चपलानाम् ॥१२११॥
+
+
 
 यद्यजेष्यदबलाततिरेषा
 
@@ -17884,6 +23406,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वद्भ्रुवे नम इति प्रहसन्ती ॥१२१२॥
 
+
+
 वैरिणी भवति या कुलधर्म
 
 ध्वंसिकापि सुहृदालिरिवाद्य ।
@@ -17891,6 +23415,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तद्वचोऽप्यनृतयन्त्युदगन्नो
 
 धिन्वती सदसि कुञ्चितकोणा ॥१२१३॥
+
+
 
 देहि कौस्तुभमिति स्फुट नान्दी
 
@@ -17900,6 +23426,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधिकोरसि दधौ स्मयमाना ॥१२१४॥
 
+
+
 कृष्ण पश्य कुचमध्यगतं स्वं
 
 बिम्बितं मणिवरे विलसन्तम् ।
@@ -17907,6 +23435,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हन्त यत्त्वमदधाः स इदानीं
 
 त्वादधाति मणिराट्प्रणयेन ॥१२१५॥
+
+
 
 धन्य धन्य सुषमामय कृष्णस्
 
@@ -17916,6 +23446,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वैतुमित्यगभृदुन्नदृगासीत॥१२१६॥
 
+
+
 राधिकाप्यरमवाञ्छितवक्त्रा
 
 वीक्ष्य भान्त्यमिमात्म कुचान्तः ।
@@ -17924,7 +23456,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नन्दजाड्यजलधौ निममज्ज ॥१२१७॥
 
+
+
 कृष्णाह्निककौमुदी ४.२४७२५४—
+
+
 
 स्ताद्द्वितीय इतरः पण एते
 
@@ -17934,6 +23470,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्जितः परिददानि हसित्वा ॥१२१८॥
 
+
+
 साह नाहमसमञ्जसं वृणे
 
 वंशिकाललितयोः कृते पणे ।
@@ -17941,6 +23479,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 काष्ठिकामणिशलाकयोः कथं
 
 साम्यमत्र कुरु नो मनोरथम् ॥१२१९॥
+
+
 
 कस्तृतीयपणतां गमिष्यती
 
@@ -17950,6 +23490,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्वं ममास्य वरहारयष्ठिका ॥१२२०॥
 
+
+
 आह काचिदथ वच्मि चतुर्थं
 
 सत्पणं यमुपलभ्य कृतार्थम् ।
@@ -17957,6 +23499,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वं वपुः सफलमेव भवन्तौ
 
 मङ्क्ष्यतः सुखनिधिं प्रविशन्तौ ॥१२२१॥
+
+
 
 कृष्ण आह वद सापि जगाद
 
@@ -17966,6 +23510,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेयसोऽस्य शतशः परिरम्भाः ॥१२२२॥
 
+
+
 तां जगाद कुपितेव तदा सा
 
 भ्रूकुटीकुटिलयालिकभासा ।
@@ -17973,6 +23519,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 खेल निस्त्रपमनेन पणेन
 
 त्वं कलावति समं रमणेन ॥१२२३॥
+
+
 
 भद्रमुक्तमनया पणकार्ये
 
@@ -17982,6 +23530,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वल्लभस्य तु पणोऽतिगरीयान॥१२२४॥
 
+
+
 त्वं जितातिलघु दास्यसि जित्वा
 
 लप्स्यसे प्रचुरमेव हसित्वा ।
@@ -17990,7 +23540,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लाभ एव परमः शुभवत्याः ॥१२२५॥
 
+
+
 कृष्णाह्निककौमुदी ४.२५६२८१—
+
+
+
+
 
 साथ शारिफलके यथास्थलं
 
@@ -18000,6 +23556,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न्यास हाससुधया परिप्लुतम् ॥१२२६॥
 
+
+
 सोपगृह्य वरपाशकपाट्या
 
 द्वन्द्वमिन्दुवदना परिपाट्या ।
@@ -18007,6 +23565,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पातय प्रथममित्यनुदात्त
 
 प्रौढि वल्लभकरे समधत्त ॥१२२७॥
+
+
 
 पाशकोत्किरणजातविलासः
 
@@ -18016,6 +23576,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आह काचन सखी सुविदग्धा ॥१२२८॥
 
+
+
 खेल खेल सुभगे जयशाली
 
 मास्तु हारहरणे वनमाली ।
@@ -18023,6 +23585,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कौस्तुभं जय सुरञ्जय चाली
 
 मण्डलं विजयकौशलपाली ॥१२२९॥
+
+
 
 योऽपतत्प्रथमपाशकदायः
 
@@ -18032,6 +23596,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रापयत्करतलं पुनरस्य ॥१२३०॥
 
+
+
 भूय एव रमणो न्यपीपतत्
 
 पाशकं तदनुरूपमेव तत।
@@ -18039,6 +23605,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शारिसञ्चरणमप्यचीकरत्
 
 दर्पमम्बुजदृशोऽप्यसीसरत॥१२३१॥
+
+
 
 हृद्ययाक्षहृदयज्ञविद्यया
 
@@ -18048,6 +23616,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आस खेलनकलाविहस्तयोः ॥१२३२॥
 
+
+
 बुद्धिपूर्वमथ सा पराजयं
 
 स्वीचकार स च लब्धवान्जयम् ।
@@ -18055,6 +23625,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हारमाहरति जीवितेश्वरे
 
 सा स्वयं व्यतरदग्रतः करे ॥१२३३॥
+
+
 
 साक्षमाक्षिपदुदञ्चितकक्षं
 
@@ -18064,6 +23636,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्लिद्यति स्म विगलज्जयपक्षः ॥१२३४॥
 
+
+
 सा द्वितीयपणभावशंसिकां
 
 तं विजित्य विचकर्ष वंशिकाम् ।
@@ -18071,6 +23645,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यच्छति स्म ललिताकराम्बुजे
 
 सा च तां निजतयैव सस्वजे ॥१२३५॥
+
+
 
 सोऽपि वारमपरं जयशाली
 
@@ -18080,6 +23656,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सञ्जिगाय गुणगौरवमत्ताम् ॥१२३६॥
 
+
+
 तां हृतां समवलोक्य समस्ताः
 
 सस्वनं जहसु रूढमुदस्ताः ।
@@ -18087,6 +23665,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 साह मा हसत पाशकदेव्याश्
 
 चातुरीमनुभविष्यथ भव्याः ॥१२३७॥
+
+
 
 ताः समूचुरनयोचितमुक्तं
 
@@ -18096,6 +23676,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्युत्क्रमेण सखि जेष्यति सर्वाः ॥१२३८॥
 
+
+
 वृन्दया निजगदे विजितायां
 
 त्वद्विधेन मुरलीदयितायाम् ।
@@ -18103,6 +23685,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नानुशोचति सखि स्मितशाली
 
 राजते भृशमसौ वनमाली ॥१२३९॥
+
+
 
 त्वादृशः प्रकटयन्तु न तापं
 
@@ -18112,6 +23696,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शेवधिं विधुरयन्ति न धीराः ॥१२४०॥
 
+
+
 वंशिकातिसुलभ्येयमटव्यां
 
 नेदृशी गुणवती तु पृथिव्याम् ।
@@ -18119,6 +23705,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्युदीरयथ चेद्विजिहीमाम्
 
 आग्रहः कथमवस्तुनि भूमा ॥१२४१॥
+
+
 
 कृष्णपक्षपतिता त्वममन्दे
 
@@ -18128,6 +23716,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वासरेऽपि फिहितेक्षणमुद्रम् ॥१२४२॥
 
+
+
 हेलयानवहितैव सखी मे
 
 हन्त खेलितवती परिणामे ।
@@ -18135,6 +23725,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तेन हारितवती वरहारं
 
 प्रेयसीमपि सखीमनुवारम् ॥१२४३॥
+
+
 
 इत्युवाच ललिता यदि विज्ञा
 
@@ -18144,6 +23736,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 णाभ्युदास दयिता दयिताग्रे ॥१२४४॥ (विशेषकम्)
 
+
+
 तत्र तत्प्रववृतेऽक्षखेलनं
 
 प्रेयसोर्विरहितावहेलनम् ।
@@ -18151,6 +23745,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यत्र कोऽपि सभिको मनोभवस्
 
 तत्र को रसकलापराभवः ॥१२४५॥
+
+
 
 यच्चतुर्थपणतामुपनीतं
 
@@ -18160,6 +23756,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा तथापि विजयाय सुसज्जा ॥१२४६॥
 
+
+
 यं यमिच्छति हृदा कुतुकाय
 
 प्रेयसी समपतत्स स दायः ।
@@ -18167,6 +23765,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 एवमेव रमणोऽपि सखेलस्
 
 तेन तत्र स रराज सहेलः ॥१२४७॥
+
+
 
 सा भुजावलयमुन्नमयन्ती
 
@@ -18176,6 +23776,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रौढितो दश दशेति जजल्प ॥१२४८॥
 
+
+
 मा ब्रवीर्दश दशेत्यलमुग्रे
 
 कृष्णमाकलय भोगिनमग्रे ।
@@ -18183,6 +23785,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पूर्वमेव सखि येन सुदष्टं
 
 त्वन्मनस्त्वदधरश्च सुकष्टम् ॥१२४९॥ (युग्मकम्)
+
+
 
 यद्विषस्य विभवः परिसर्पी
 
@@ -18192,6 +23796,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किं करिष्यति स कृष्णभुजङ्गः ॥१२५०॥
 
+
+
 इत्युदारललितावचनान्ते
 
 तत्प्रतिप्रसवभाषिणि कान्ते ।
@@ -18200,7 +23806,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जिह्राय नतमुख्यथ मुख्या ॥१२५१॥ (युग्मकम्)
 
+
+
 कृष्णाह्निककौमुदी ४.२८३२८५—
+
+
 
 सा तथाप्यसति ह्रीपरिरम्भे
 
@@ -18210,6 +23820,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जेतुमेव विदधे व्यवसायान॥१२५२॥
 
+
+
 देवनैरकृतसन्धितसन्धं
 
 तस्य पाशकगतिप्रतिबन्धम् ।
@@ -18217,6 +23829,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्परं विधुमुखी पणसिद्धिं
 
 सस्वनं प्रविदधे द्विगुणर्द्धिम् ॥१२५३॥
+
+
 
 व्यूहबन्धमथ भेत्तुमशक्तस्
 
@@ -18226,7 +23840,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षोभयन्मधुरमन्दमुवाच ॥१२५४॥
 
+
+
 कृष्णाह्निककौमुदी ४.२८२—
+
+
 
 यच्चतुर्थपणतामुपनीतं
 
@@ -18236,7 +23854,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तुल्य एव खलु तत्फलभोगः ॥१२५५॥
 
+
+
 कृष्णाह्निककौमुदी ४.२८६२९७—
+
+
 
 तावकस्य किमु मामकस्य वा
 
@@ -18246,6 +23868,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ब्रूहि सुन्दरि विधूतसाध्वसा ॥१२५६॥
 
+
+
 सा ममर्ष मनसोभयथा मे
 
 व्रीडहेतुरतुलः परिणामे ।
@@ -18253,6 +23877,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आलयोऽपि विहसन्ति मिथो माम्
 
 अप्ययं हसितवान्गुणभूमा ॥१२५७॥
+
+
 
 इत्यचिन्तितसमागतचिन्ता
 
@@ -18262,6 +23888,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 खेलितुं प्रववृते विहसन्ती ॥१२५८॥
 
+
+
 निक्वणत्कनककङ्कणभाजा
 
 पाणिना विकसदास्यसरोजा ।
@@ -18269,6 +23897,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अक्षमाक्षिपदनाकलयन्ती
 
 सा विदुर्विदुरिति प्रवदन्ती ॥१२५९॥
+
+
 
 सख्य ऊचुरयि ते मनोरथं
 
@@ -18278,6 +23908,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किं विदुर्विदुरिति त्वमालप ॥१२६०॥
 
+
+
 सा सखीनिकरभाषितभङ्गीम्
 
 आकलय्य चलरज्यदपाङ्गी ।
@@ -18285,6 +23917,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वक्रया प्रियगिरापि च विद्धा
 
 खेलने समभवद्भ्रमबद्धा ॥१२६१॥
+
+
 
 आत्मनैव कृतपाशबन्धं
 
@@ -18294,6 +23928,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्बिभेद नियतेरिव गत्या ॥१२६२॥
 
+
+
 तद्विलोक्य दयितः सदुदारस्
 
 तं पणं त्रिगुणितं स चकार ।
@@ -18301,6 +23937,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आलयस्तमवदन्जहि गर्वं
 
 जेष्यति प्रियसखी मम सर्वम् ॥१२६३॥
+
+
 
 सा पुनः प्रववृते जयकामा
 
@@ -18310,6 +23948,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुभ्रुवो विजय एव हि यादृक॥१२६४॥
 
+
+
 सा न तं स च न तामथ जेतुं
 
 सम्बभूव जगतीजयकेतुम् ।
@@ -18317,6 +23957,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चित्रमेतदति यद्विजितोऽभूद्
 
 एक एव सभिकः स मनोभूः ॥१२६५॥
+
+
 
 द्वौ कलारसकलापविदग्धौ
 
@@ -18326,6 +23968,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्वौ परस्परमनोरथसिद्धौ ॥१२६६॥
 
+
+
 बाधको व्यजनि कालविलम्बः
 
 खेलनेऽस्ति नतरामवलम्बः ।
@@ -18333,6 +23977,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्युभावसति पर्यवसाने
 
 खेलनं जहतुरव्यवधाने ॥१२६७॥
+
+
 
 वंशिकामथ ददौ हरिणाक्षी
 
@@ -18342,7 +23988,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वालयं ययुरयोगसुमन्दाः ॥१२६८॥
 
+
+
 कृष्णभावनामृत १५.५३५८—
+
+
 
 तावदेत्य वनदेव्यथ काचित्
 
@@ -18352,6 +24002,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 त्रस्तनेत्रमगुरन्तिकमस्याः ॥१२६८॥
 
+
+
 किं स्नुषे क्व नु विलम्बमकार्षीः
 
 स्नातुमद्य यदगां सुरनद्याम् ।
@@ -18359,6 +24011,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 किं नु कुन्दलतिकामिह वीक्षे
 
 सा गता मम पुरोहितहेतोः ॥१२६९॥
+
+
 
 नैति किं चिरमियं कलयाराद्
 
@@ -18368,6 +24022,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा गताथ निजगाद च वृद्धाम् ॥१२७०॥
 
+
+
 नाद्य कोऽपि चिरमार्गणतोऽपि
 
 प्राप्यते द्विजसूतो निजगोष्ठे ।
@@ -18375,6 +24031,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 किन्त्वयं मधुपुरी भव आगाद्
 
 अत्र गर्गकलिताखिलविद्यः ॥१२७१॥
+
+
 
 एनमेव बहुवर्णिनमत्र
 
@@ -18384,6 +24042,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तं पुरोहिततया वृणु वध्वाः ॥१२७२॥
 
+
+
 तं जरत्यवददद्य कृतर्थै
 
 वाभवं भवदवेक्षणमात्रात।
@@ -18392,7 +24052,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मद्वधूं कुरु समर्चय मित्रम् ॥१२७३॥
 
+
+
 तदा राधा विशाखामाह, ललितमाधव २.१२—
+
+
 
 सहचरि हरिरेष ब्रह्मवेशं प्रपन्नः
 
@@ -18402,7 +24066,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न किल कुमुदबन्धोः कौमुदीमन्तरेण ॥१२७४॥
 
+
+
 राधाकर्णे विशाखाह, उज्ज्वलनीलमणि १.३०—
+
+
 
 व्रध्नोपास्तिविधौ तव प्रणयितापूरेण वेशं गते
 
@@ -18412,7 +24080,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वागेतस्य मृगाक्षि रूढविनया मूर्तिश्च धीरोज्ज्वला ॥१२७५॥
 
+
+
 कृष्णभावनामृत १५.५९६०—
+
+
 
 धीरतारनयनः सितवासा
 
@@ -18422,6 +24094,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मूर्तिमान्स इहैष तदोचे ॥१२७६॥
 
+
+
 वर्णिनो यदपि नोचितमेव
 
 स्त्रीविलोकनमथाप्यतिसाध्वीम् ।
@@ -18430,7 +24104,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रांशुमद्यजनमद्य तु वृद्धे ॥१२७७॥
 
+
+
 गोविन्दलीलामृत १८.६५७०—
+
+
 
 पूजारम्भेऽवदत्कृष्णो वध्वास्ते नाम किं वद ।
 
@@ -18456,13 +24134,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वं च गौरांशुकः स्यात्ते यथा कामप्रदो वशः ॥१२८३॥
 
+
+
 ललितमाधव २.१४—
+
+
 
 अर्चितार्चाधुना धन्ये त्वमर्घ्यं कुरु भावतः ।
 
 अम्बरोद्भासिने गाढमुदा राजीवबन्धवे ॥१२८४॥
 
+
+
 ललितमाधव २.१३—
+
+
 
 निभृतमरतिपुञ्जभाजि राधे
 
@@ -18472,19 +24158,31 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अयि कृपणे क्सणमों नमः सवित्रे ॥१२८५॥
 
+
+
 ललितमाधव २.१५—
+
+
 
 सम्प्रति कन्याराशेरुपभोगं कुर्वते पुरःस्थाय ।
 
 मित्राय चित्रमर्घ्यं कुरु सुस्मितपुण्डरीकेण ॥१२८६॥
 
+
+
 राधिका दृगन्तेन हरिं पश्यति, ललितमाधव २.१६—
+
+
 
 सवितुः समाप्तिमाप्तः, पूजाविधिरेष सुष्ठु कल्याणि ।
 
 इष्टं नन्दय देवं, सरागसुमनोवराञ्जलिना ॥१२८७॥
 
+
+
 राधिका बन्धूककुसुमाञ्जलिं क्षिपति, कृष्णभावनामृत १५.६४—
+
+
 
 पत्युरस्तु कृपया तव भास्वद्
 
@@ -18494,7 +24192,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृद्धिरित्यमुमयाचत वृद्धा ॥१२८८॥
 
+
+
 कृष्णभावनामृत १५.६५६६—
+
+
 
 एवमस्त्विति वदत्यघशत्राव्
 
@@ -18504,6 +24206,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अक्षिपद्दृशमशेषनिवेद्ये ॥१२८९॥
 
+
+
 मूर्ख लम्पटसख त्वमिहागाः
 
 किं बटुः प्रतिदिनं पुनरेषः ।
@@ -18512,7 +24216,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्याम इत्यवदज्जरती तम् ॥१२९०॥
 
+
+
 कृष्णः, कृष्णभावनामृत १५.६८—
+
+
 
 साम्प्रतं शृणु सतीकुलवर्ये
 
@@ -18522,7 +24230,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षौणिलग्नशिरसा प्रणमामूम् ॥१२९१॥
 
+
+
 स तथा विन्दति, गोविन्दलीलामृत १८.७३९८—
+
+
 
 नैवेद्ये दक्षिणात्वेन राधास्वर्णाङ्गुलीयके ।
 
@@ -18548,6 +24260,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कौन्द्या तथा कृते सोऽभूत्कम्पाश्रुपुलकान्वितः ॥१२९७॥
 
+
+
 आच्छाद्य विस्मयेनात्महर्षमाहाद्भुतं त्विदम् ।
 
 यान्यस्याः शुभचिह्नानि तैरियं स्यात्स्वयं रमा ॥१२९८॥
@@ -18571,6 +24285,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तावदेत्याह सुबलो विश्वशर्मन्हरिर्युवाम् ।
 
 पयःफेणफलादीनां भोजनाय प्रतीक्षते ॥१३०३॥
+
+
 
 नाद्मि विप्रेतरान्नादि गार्ग्या चास्मि निमन्त्रितः ।
 
@@ -18596,6 +24312,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बबन्ध मुद्रिके ते द्वे निषिद्धोऽप्यमुना मुहुः ॥१३०९॥
 
+
+
 जगाद कृष्णं जटिला बटो यदै
 
 वायाति गोष्ठं मम भाग्यतो भवान।
@@ -18604,9 +24322,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृतोऽस्ति ते भूरि ददामि दक्षिणाम् ॥१३१०॥
 
+
+
 इत्युक्त्वा जटिला हृष्टा नत्वादित्यं द्विजौ च तौ ।
 
 कृतार्थं स्वं मन्यमाना ताभिः सा चलितालयम् ॥१३११॥
+
+
 
 यान्ती विवर्त्य सहसा लपनच्छलेन
 
@@ -18616,6 +24338,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधा पिबन्त्यपि न तृप्तिर्मवाप दीना ॥१३१२॥
 
+
+
 हृदयदयितलीलास्निग्धदुग्धैः प्रपूर्णात्
 
 तनुकनकघटीया सुभ्रूवोऽस्याः सखीनाम् ।
@@ -18623,6 +24347,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नयनमुदमतानीत्साशु वैरस्यमाप्ता
 
 विरहविषविवर्णा नेत्रसन्तप्तयेऽभूत॥१३१३॥
+
+
 
 कान्तासङ्गेन्दुसम्फुल्लः कृष्णो नीलोत्पलप्रभः ।
 
@@ -18632,6 +24358,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तेऽहम्पूर्विकया हृष्टा आलिङ्गन्तस्तमब्रुवन॥१३१५॥
 
+
+
 अस्मान्हित्वा तव गतवतस्त्वद्वियोगासहिष्णून्
 
 काठिन्यं नः स्फुटमवगतं व्याकुलैर्दीनचित्तैः ।
@@ -18639,6 +24367,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्वेष्टुं त्वां प्रतिजिगमिषून्यत्तमागाः क्षणार्धात्
 
 तेन ज्ञातं प्रियसख परं प्रेमकौमल्यमेव ॥१३१६॥
+
+
 
 सोऽयं राधासहचरहरेः स्फीतमध्याह्नलीला
 
@@ -18648,11 +24378,23 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वात्यानीता तदनु कणिकाप्यस्पृशन्मां तटस्थम् ॥१३१७॥
 
+
+
+
+
 इति श्रीश्रीभावनासारसङ्ग्रहे मध्याह्नलीलास्वादनं नाम
 
 चतुर्थः सङ्ग्रहः ॥
 
 ॥४॥
+
+
+
+
+
+
+
+
 
 श्रीश्रीभावनासारसङ्ग्रहः
 
@@ -18668,6 +24410,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
   ७२४.
 
+
+
+
+
 श्रीश्रीभावनासारसङ्ग्रहः
 
 (५)
@@ -18675,6 +24421,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पञ्चमसङ्ग्रहः
 
 अथ अपराह्नलीला
+
+
 
 परावृत्तिं गोष्ठे व्रजनृपतिसूनोर्विपिनतो
 
@@ -18684,7 +24432,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षणं मुह्यन्सर्वान्विवशयति यस्तं भज मनः ॥१॥
 
+
+
 गोविन्दलीलामृतं १९.१—
+
+
 
 श्रीराधां प्राप्तगेहां निजरमणकृते क्ÿप्तनानोपहारां
 
@@ -18694,7 +24446,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीराधालोकतृप्तं पितृमुखमिलितं मातृमृष्टं स्मरामि ॥२॥
 
+
+
 कृष्णभावनामृतं १६.१२—
+
+
 
 अथ प्रेम्णः स्थेमन्यपि समजनि स्थैर्यरहिता
 
@@ -18704,6 +24460,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बलादाक्रम्यास्या हृदयनगरीं भेत्तुमविशन॥३॥
 
+
+
 सखीसङ्घाश्वासौषधमपि निरोजो विदधतीं
 
 दधाना स्वप्राणप्रियविरहजां संज्वररुजम् ।
@@ -18712,7 +24470,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निरम्भस्कं कूपं ह्रियमशनिजं जालपटलम् ॥४॥
 
+
+
 उज्ज्वलनीलमणि १४.७६—
+
+
 
 अवितथमसौ किं द्राघीयान्गमिष्यति वासरः
 
@@ -18722,7 +24484,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षपयति दृशामार्तिं यत्र व्रजेश्वरनन्दनः ॥५॥
 
+
+
 कृष्णभावनामृतं १६.३७—
+
+
 
 तदालीनां पाल्या समुचितसपर्याकुलधियां
 
@@ -18732,6 +24498,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समीपेऽस्याः प्रायात्प्रणयविकला चन्दनकला ॥६॥
 
+
+
 कुतो वृन्दारन्यात्कथमिदमगा गोष्ठमहिषी
 
 निदेशात्कस्मात्स त्वरितमशनीयोपहृतये ।
@@ -18739,6 +24507,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुतस्यास्याः किं सम्प्रति स कुरुते कन्दुकतति
 
 व्यतिक्षेपग्राहोत्तरविविधखेलां सवयसा ॥७॥
+
+
 
 अरे किं श्रीदामन्वदसि मम दोरर्गलवलत्
 
@@ -18748,6 +24518,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्फुटत्कर्णोऽभ्यर्णाद्यदि सपदि शं वाञ्छसि भृशम् ॥८॥
 
+
+
 जयश्रीः श्रीदाम्नि प्रथितमहसां धाम्नि सहसा
 
 व्यराजीद्राजिष्यत्यवकलय राजत्यपि सदा ।
@@ -18755,6 +24527,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तवैवंसः साक्षी भवति तदपि त्वं भजसि किं
 
 मुखाटोपी कोपी स्वमहिमविलोपी चपलताम् ॥९॥
+
+
 
 बकीं मन्त्रैर्विप्रा निधनमनयन्यः पुनरघस्
 
@@ -18764,7 +24538,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वियत्यस्थादस्तौजसि भवति गर्वः कथमभूत॥१०॥
 
+
+
 भक्तिरसामृतसिन्धु ४.३.१२—
+
+
 
 पिण्डीशूरस्त्वमिह सुबलं कैतवेनाबलाङ्गं
 
@@ -18774,7 +24552,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मन्द्रध्वानो नटति निकटे स्तोककृष्णः कलापी ॥११॥
 
+
+
 भक्तिरसामृतसिन्धु ४.३.१६—
+
+
 
 धृताटोपे गोपेश्वरजलधिचन्द्रे परिकरं
 
@@ -18784,7 +24566,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुदाम्नः सोत्कण्ठं जयति मुहुराहोपुरुषिका ॥१२॥
 
+
+
 भक्तिरसामृतसिन्धु ४.३.२०—
+
+
 
 शुकाकारं प्रेक्ष्य मे बाहुदण्डं
 
@@ -18794,7 +24580,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीदामाहं कृष्णमेवाह्वयेय ॥१३॥
 
+
+
 कृष्णभावनामृतं १६.८—
+
+
 
 स इत्थं तत्प्राणार्बुदनियुतनिर्मञ्छ्यकिरणौ
 
@@ -18804,7 +24594,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षणं निन्ये मूर्तप्रणयरस एव प्रणयिभिः ॥१४॥
 
+
+
 कृष्णाह्निककौमुदी ५.८२०—
+
+
 
 समजनि समयो व्रजाय गन्तुं
 
@@ -18814,6 +24608,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ध्वनयत वेणुविषाणमत्युदारम् ॥१५॥
 
+
+
 अथ कतिचन रौहिणेयमुख्याः
 
 सहजपरस्परनिर्व्यलीकसख्याः ।
@@ -18821,6 +24617,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ध्वनितदलाविषाणवेणुनादा
 
 व्रजगमनाय बभूवुरप्रमादाः ॥१६॥
+
+
 
 अयि शवलि पिशङ्गि कालि नीले
 
@@ -18830,6 +24628,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विरमत काननचारकामचारात॥१७॥
 
+
+
 इति कलमृदुना रवेण वेणोर्
 
 विधुतवधूवलमानमानरेणोः ।
@@ -18837,6 +24637,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उपययुरनुक्ÿप्तचारुहम्बा
 
 रवमथ धेनुगणा वनावलम्बाः ॥१८॥
+
+
 
 मदकलरविकुम्भपीवरोधो
 
@@ -18846,6 +24648,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुरभिगणस्य बभूव भूः प्रपन्ना ॥१९॥
 
+
+
 सुलभतर तृणाङ्कुरोपभोगाद्
 
 अतिशयपूरितचारुकुक्षिभागाः ।
@@ -18853,6 +24657,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अशकलकलसोधसोतिकायाश्
 
 चलनमकुर्वत नैचिकीनिकायाः ॥२०॥
+
+
 
 सह सहचरमण्डलैः किशोरौ
 
@@ -18862,6 +24668,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बभतुरमू सहजौ त्रिलोककान्तौ ॥२१॥
 
+
+
 अलिततिरघवैरिणोनुकूले
 
 कमलधिया निपपात पादमूले ।
@@ -18869,6 +24677,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विरहविधुरितात्मनोऽत्युदारा
 
 ञ्जनमलिनेव वनश्रियोऽश्रुधारा ॥२२॥
+
+
 
 कलमधुरतरैः स्वरैः शकुन्ताः
 
@@ -18878,6 +24688,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्यथमरुदन्निव वर्ष्म ताडयन्तः ॥२३॥
 
+
+
 अनिमिषमसकृद्विलोकयन्त्यः
 
 पुनरवलोकनमर्थमर्थयन्त्यः ।
@@ -18885,6 +24697,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रियविरहरुजेव कातराङ्ग्यश्
 
 चलनयना व्यवतस्थिरे कुरङ्ग्यः ॥२४॥
+
+
 
 प्रियतममनुगच्छतामुदारा
 
@@ -18894,6 +24708,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बत विपिनश्रिय एव केशपक्षाः ॥२५॥
 
+
+
 सरसि सरसि सारसादि पाथश्
 
 चरपतगप्रकरैरसेवि नाथः ।
@@ -18901,6 +24717,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पथि पथि परितः प्रयाणभाग्भिः
 
 सकरुणबाष्पभरेण रुद्धवाग्भिः ॥२६॥
+
+
 
 हरिहलधरपालिताग्रमूला
 
@@ -18910,7 +24728,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्यजयत रूप्यमयीं तरीमुदाराम् ॥२७॥
 
+
+
 कृष्णाह्निककौमुदी ५.२३२७—
+
+
 
 तदपि तदितराङ्गसङ्गमार्थं
 
@@ -18920,6 +24742,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्व नु सुखसम्पदि तृप्तिमेति कश्चित॥२८॥
 
+
+
 उपचितमतिमन्दवातधूतैर्
 
 अलककुलं कमलेक्षणस्य पूतैः ।
@@ -18927,6 +24751,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अलिततिमिव कौसुमैः परागैर्
 
 व्यजयत गोखुररेणुभिः सुरागैः ॥२९॥
+
+
 
 सितसिचयसुचारुमौलिबन्धः
 
@@ -18936,6 +24762,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्युतिरुदभाद्दलचुम्बितैकदेशः ॥३०॥
 
+
+
 उरसि च शुशुभेऽस्य वैजयन्ती
 
 सुरभिरजःकणसञ्चयैर्जयन्ती ।
@@ -18943,6 +24771,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कुसुमसुषमयेव संहर्सन्ती
 
 निजमिव चारुपरागमुत्किरन्ती ॥३१॥
+
+
 
 अपि सुरभिरजःकणाभिभूतः
 
@@ -18952,7 +24782,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुनरपि निर्मलयन्निवाद्वितीयाम् ॥३२॥
 
+
+
 कृष्णभावनामृतं १६.९—
+
+
 
 इति प्रेष्ठोदन्तामृतसरिति तत्प्राणशफरी
 
@@ -18962,7 +24796,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रवृत्तां चक्रे तामथ धृतमुदं मोदकविधौ ॥३३॥
 
+
+
 गोविन्दलीलामृतं १९.५०६०—
+
+
 
 कदलकुसुममासक्षोदसत्सीरिशस्यैर्
 
@@ -18972,6 +24810,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बटकममृतकेलिं सा व्यधात्तं प्रियेष्टम् ॥३४॥
 
+
+
 सामिक्षैः शालिचूर्णैर्दधिमरिचसितानारिकेलार्धसस्यैर्
 
 जात्येलासल्लवङ्गामृतदलफलैः फेनितैः पिष्टमुद्गैः ।
@@ -18980,9 +24820,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सेन्दौ कर्पूरकेलिं तमिह सुबटकं सा व्यधात्स्वप्रियेष्टम् ॥३५॥
 
+
+
 ग्रन्थिवद्बटिकालिस्तैर्द्रव्यैः सृष्टा तु या पतेत।
 
 पञ्चामृते व्यधात्तां सा पीयूषग्रन्थिपालिकाम् ॥३६॥
+
+
 
 सक्षीरसारशशितण्डुलनारिकेलजाती
 
@@ -18992,6 +24836,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा तामनङ्गगुटिकां विदधे प्रियेष्टाम् ॥३७॥
 
+
+
 कदलमरिचदुग्धैः खण्डगोधूम
 
 पक्वप्रकटितबटकोऽयं भूरिजातीफलाढ्यः ।
@@ -18999,6 +24845,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नवविधुमधुमध्ये यो विलासं विधत्ते
 
 रचित इह तयासौ सीधुपूर्वो विलासः ॥३८॥
+
+
 
 उपायनानामिति पञ्चकं सत्
 
@@ -19008,9 +24856,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुधां विनिन्दन्परमत्ति नन्दन॥३९॥
 
+
+
 तेषु व्रजप्रसिद्धानि त्रीण्यन्तिमयुगं च यत।
 
 रहो भोग्यं निशायां तन्मधुपाने विदंशवत॥४०॥
+
+
 
 लवङ्गैलेन्दुमरिचैः संयुतैः शर्कराचयैः ।
 
@@ -19020,6 +24872,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अन्यान्यप्याज्यभृष्टैः सा सरैश्च सरपूपिकाः ॥४२॥ (युग्मकम्)
 
+
+
 साथ स्नातानुलिप्तारुणरुचिसिचया बद्धवेणीसुचित्रा
 
 श्रीसिन्दूरेन्दूभाला मृगमदचिबुका मालिनी साब्जहस्ता ।
@@ -19027,6 +24881,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नासाग्रान्दोलमुक्ताञ्जनयुतनयनोत्तंसिनी बद्धनीवी
 
 राधा ताम्बूलवक्त्रा सुकुसुमचिकुरा भाति यावोज्ज्वलाङ्घ्रिः ॥४३॥
+
+
 
 चूडा रत्नललाटिके सुवलयांश्चक्रीशलाकायुगं
 
@@ -19036,7 +24892,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मञ्जीराविति रत्नभूषणचयं राधा बभौ विभ्रती ॥४४॥
 
+
+
 कृष्णभावनामृतं १६.१२—
+
+
 
 अयं यामो यामो भवति दिवसान्तः कथमिमं
 
@@ -19046,7 +24906,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रवृत्तेनैवासौ कठिनतर लोठः शठ धिया ॥४५॥
 
+
+
 भागवतं १०.३५.२—
+
+
 
 वामबाहुकृतवामकपोल
 
@@ -19056,7 +24920,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोप्य ईरयति यत्र मुकुन्दः ॥४६॥
 
+
+
 गोपालपूर्वचम्पू १७.४६४७—
+
+
 
  हरेर्वक्त्रं वेणुध्वनिमिषतया वर्षति सुधां
 
@@ -19066,6 +24934,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  किमेतत्किं नैतद्भवति किमिवैतत्किमिति वा ॥४७॥
 
+
+
  गवामस्माकं च श्रवणमनु वेणोः समदशा
 
  यदप्येषा जाता तदपि किल भेदो विलसति ।
@@ -19074,7 +24944,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  वयं नैतद्विद्मः क्व भवति युगे तस्य कलनम् ॥४८॥
 
+
+
 गोपालपूर्वचम्पू १७.५१५२—
+
+
 
 आश्चर्यं सखि कृष्णसारदयितावृन्दं मिलद्भर्तृकं
 
@@ -19084,6 +24958,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्याप्यर्चनमुल्लसत्प्रणयतस्तत्रापि नेत्राञ्चलैः ॥४९॥
 
+
+
  वयं जात्या नार्यः पुरुगुणवतामादृततमास्
 
  तथा भर्तारस्तत्प्रणयनयसिद्धव्रजभुवः ।
@@ -19092,7 +24968,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  धिगस्मान्दुष्पुण्या दधिम नहि तासामपि तुलाम् ॥५०॥
 
+
+
 गोपालपूर्वचम्पू १७.५७६०—
+
+
 
  द्वीपिन्यः श्रवणेन वेणुरणितेः स्तम्भं गताः सभ्रमाः
 
@@ -19102,6 +24982,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  भङ्गालोलभुजैः सरोजवलयस्तस्याङ्घ्रियुग्मं दधुः ॥५१॥
 
+
+
  नद्यः सिन्धुपतिव्रता हरि हरि प्रत्यक्तमर्यादिकास्
 
  तं विद्रुत्य मिलन्ति चेदहह का दीनास्तदानीं वयम्? ।
@@ -19109,6 +24991,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
  किन्तु स्वैरममूरुदूढसुकृता नास्मासु तत्तुल्यता
 
  स्वल्पापीति निवृत्तिरेव सुखतो युक्ताथवा दुःखतः ॥५२॥
+
+
 
  मुरारेरम्भोदः सुहृदिति न वा केवलरुचा
 
@@ -19118,6 +25002,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  स चायं छायाभिः प्रशमयति तापं तदुपरि ॥५३॥
 
+
+
  हंहो पश्य जडोऽपि वारिदचयः सर्वोपरि स्थाय्यपि
 
  च्छायाभिः स्वरसैश्च तं परिचरत्यन्तश्चरप्रेमतः ।
@@ -19126,7 +25012,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
  गण्यास्तस्य विना तु सेवनममूर्जीवाम धिग्जीवितम् ॥५४॥
 
+
+
 गोपालपूर्वचम्पू १७.६४६६—
+
+
 
 वेणोः पुण्यमतीव हन्त यदसावस्त्री च तस्याधरं
 
@@ -19136,6 +25026,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यद्वंश्या नगजातयोऽपि मधुभिर्बाष्पं मदाद्बिभ्रति ॥५५॥
 
+
+
 याचेऽहं वंशदेहं न तु कुलजवधूदेहमाद्ये हि कृष्णस्
 
 तृष्णग्भावेन सज्जन्बहुरुचि विहरन्दुर्लभः स्यात्परत्र ।
@@ -19143,6 +25035,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वंशीभावे चिदंशप्रशमनवशताविस्मृतात्मा यदि स्यात्
 
 तेन ज्ञायेय सेयं मम विरहदुता दारुतामागतेति ॥५६॥
+
+
 
 गण्डं चुम्बसि कुण्डलस्थमकरि त्वं तस्य वंसि त्वमप्य्
 
@@ -19152,7 +25046,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हा तत्तद्विधिभाग्विचारहतकेनाभीप्सिताद्वञ्चिताः ॥५७॥
 
+
+
 कृष्णभावनामृत १६.१३१७—
+
+
 
 इति क्लिद्यन्नेत्रां विधुरवदनां मङ्क्षुललिता
 
@@ -19162,6 +25060,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दिशं पश्य प्राचीं विशति सखि गोधूलिरधुना ॥५८॥
 
+
+
 न गोधूलिर्भद्रे अनुभव भवतीदं विधुरजो
 
 दृशं तृप्तां दूराद्विशति किमवादीः सखि दिशम् ।
@@ -19169,6 +25069,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यदेतत्कण्ठान्मे शमित दवथु प्राणपतगान्
 
 हृदानिन्ये मन्ये तदयि मृतसञ्जिवनमिदम् ॥५९॥
+
+
 
 मदर्थं त्वत्प्रेयोवदननलिनस्वेदकणिका
 
@@ -19178,6 +25080,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जगत्प्राणो नाम्ना भवति गुणतोऽप्येष नितराम् ॥६०॥
 
+
+
 स्मरन्मां दीनां व्रजतिलकसूनुः किमधुना
 
 पुरोगाः कृत्वा गा द्रुततरमुपैति प्रणयवान।
@@ -19185,6 +25089,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कथं वास्य द्रौत्यं भवतु समदोक्षालसगतेः
 
 कथं वा स्फारत्वं त्यजतु स दवीयान्वनपथः ॥६१॥
+
+
 
 मुखाब्जं बिभ्राणो विमलतिलकं वेल्लदलकं
 
@@ -19194,7 +25100,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धुवन्बाधां राधे त्वरितमधुनैवैष्यति स ते ॥६२॥
 
+
+
 गोविन्दलीलामृत १९.८६—
+
+
 
 मुरलीनदनादुत्थितमदना
 
@@ -19204,7 +25114,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ययुरपकदानाः सदनात्सदनात॥६३॥
 
+
+
 बृहद्भागवतामृतं २.६.५०५२—
+
+
 
 किञ्चिच्च काश्चित्त्वनपेक्षमानाः
 
@@ -19214,6 +25128,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हम्बारव वेणुनिनादमिश्राः ॥६४॥
 
+
+
 काश्चिद्विपर्यग्धृतभूषणा ययुः
 
 काश्चिच्च नीविकचबन्धनाकुलाः ।
@@ -19221,6 +25137,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्या गृहान्तस्तरुभावमिश्रिताः
 
 काश्चिच्च भूमौ न्यपतन्विमोहिताः ॥६५॥
+
+
 
 मोहं गताः कश्चन नीयमाना
 
@@ -19230,7 +25148,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पश्यैतमित्यलीभिरुच्यमानाः ॥६६॥
 
+
+
 बृहद्भागवतामृतं २.६.४६—
+
+
 
 गवां हांवारावैः सुललिततरं मोहमुरली
 
@@ -19240,7 +25162,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजस्थानां तेषां सपदि परमाकर्षवलितम् ॥६७॥
 
+
+
 कृष्णभावनामृत १६.१९२२—
+
+
 
 इतो वंशीध्वानात्कलय सखि राधे कलकलं
 
@@ -19250,6 +25176,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रतार्येत्युत्कण्ठाचुलुकितधृतिः सा द्रुतमगात॥६८॥
 
+
+
 त्वया दत्तेनालं श्रवणमनु पुष्पेण यदिह
 
 स्वयं दूराद्वंशीनिरसवतंसोऽलगदयम् ।
@@ -19257,6 +25185,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पतामि त्वत्पादे सखि बकुलमाले जहिहि माम्
 
 इतो गत्वा कृष्णाम्बुदघनरसैः स्यां शिशिरता ॥६९॥
+
+
 
 प्रियस्निग्धश्यामाञ्जनरस इतोऽग्रे विपिनतः
 
@@ -19266,6 +25196,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वनेनेति श्यामा त्वरितमुपराधं वनमगात॥७०॥
 
+
+
 विलम्बं नो भद्रे कुरु जहिहि चन्द्रावलि रुजं
 
 न धन्ये मान्थर्यः कलय कमले याव सदनात।
@@ -19274,7 +25206,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ऋते जीवेत्यालो व्रजमृगदृशां सम्भ्रममधुः ॥७१॥
 
+
+
 आनन्दवृन्दावनचम्पू ११.२३—
+
+
 
 धूलिभरो गवां खरखुरक्षुण्णः क्षमायास्ततो
 
@@ -19284,6 +25220,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पश्चात्कृष्ण इति क्रमाद्व्रजपुरीपत्योरभूद्गोचरः ॥७२॥
 
+
+
 धेनूनामथ वत्सवत्सलतया जातत्वरामूधसाम्
 
 आहारस्य च गौरवाल्लघुतरामाबिभ्रतीनां गतिम् ।
@@ -19292,7 +25230,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हम्बेति श्रुतिरम्यगद्गदगिरां श्रेणी व्रजं प्राविशत॥७३॥
 
+
+
 आनन्दवृन्दावनचम्पू ११.१—
+
+
 
 मुक्ते नन्दिनि चन्दिनीन्दुतिलके कस्तूरि कर्पूरिके
 
@@ -19302,7 +25244,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हीहीहीति ततान तानमधुरं गानं मुरल्या हरिः ॥७४॥
 
+
+
 ललितमाधव १.२९—
+
+
 
 गत्वा पुरस्त्रिचतुराणि जवात्पदानि
 
@@ -19312,7 +25258,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेमानुबन्धविधुरं पथि धेनुवृन्दम् ॥७५॥
 
+
+
 गोविन्दलीलामृतं १९.७७७८—
+
+
 
 तत्र स्फारे सरसि मुरली निस्वनैः स्तम्भयन्गा
 
@@ -19322,6 +25272,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नानावर्णानगणयदपि स्वान्श्रीहरिर्धेनुयूथान॥७६॥
 
+
+
 सण्ख्यापूर्तौ भवति मुदितः स्वस्य किं वा सखीनां
 
 सङ्ख्यान्यूने सपदि स गवां वेणुसङ्केतनादैः ।
@@ -19330,7 +25282,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्तद्यूथे चलति घटयंश्चालयंस्तान्व्रजाय ॥७७॥
 
+
+
 आनन्दवृन्दावनचम्पू १३.२६२८—
+
+
 
 गोधूलिधूम्रकम्रालकसदलिकास्तिर्यगुष्णीषबन्ध
 
@@ -19340,6 +25296,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्यत्किञ्जल्कलेशच्छुरितलघुतरस्विन्नगण्डान्तलक्ष्मीः ॥७८॥
 
+
+
 मन्दप्रस्थानलीलामदमधुररणन्मञ्जुमञ्जीरनाद
 
 श्रेणीसंवाद्यमानश्रुतिमृदुमुरलीस्वाननिष्णातकर्णः ।
@@ -19347,6 +25305,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अग्रे कृत्वाग्रजातं सहचरनिकरं पृष्ठतः पार्श्वतश्च
 
 प्रेमानन्दस्तनूमानिव नयनवतां स व्रजं प्राविवेश ॥७९॥
+
+
 
 श्रीकृष्णागमनोत्सवस्य कथनं सायाह्न एवाग्रतः
 
@@ -19356,7 +25316,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्रैवावसरे मनो मृगदृशां मुष्णाति वेणुस्वनः ॥८०॥
 
+
+
 अलङ्कारकौस्तुभः ९.३—
+
+
 
 वल्गद्वल्गुवतंसमांसविगलन्मन्दारमालमिलद्
 
@@ -19366,7 +25330,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धावन्धृतधरो धराधरधरो धाराधरश्यामलः ॥८१॥
 
+
+
 भागवतं १०.१५.४३—
+
+
 
 तं गोरजश्छुरितकुन्तलबद्धबर्ह
 
@@ -19376,7 +25344,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोप्यो दिदृक्षितदृशोऽभ्यगमन्समेताः ॥८२॥
 
+
+
 कृष्णभावनामृत १६.२३—
+
+
 
 इतो हम्बा हम्बाध्वनिभिरुपगोष्ठं निजसुतान्
 
@@ -19386,7 +25358,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विषादाब्धेरम्बाः प्रथममुदहार्षीत्पुरि विशम् ॥८३॥
 
+
+
 कृष्णाह्निककौमुदी ५.३६४०—
+
+
 
 अथ मणिवलभातलस्थितानां
 
@@ -19396,6 +25372,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियवदनाम्बुरुहे श्रियोऽवलम्बे ॥८४॥
 
+
+
 प्रियतममुखपद्मबद्धलक्ष्म्याः
 
 कमलदृशां सरसत्रपाः कटाक्षाः ।
@@ -19403,6 +25381,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कुवलयदलवर्षवत्प्रतीताः
 
 सममनुपेतुरुपर्युपर्युपेताः ॥८५॥
+
+
 
 तदपि तदवघातजातशातः
 
@@ -19412,6 +25392,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रविदुरसौ प्रविवेद मन्मथश्च ॥८६॥
 
+
+
 मदमदिरदृशां कटाक्षपाताः
 
 सितविशिखा इव दुःसहावघाताः ।
@@ -19419,6 +25401,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रतिनयननिपातमध्यभग्ना
 
 अपि विभिदुः प्रियमग्रभागलग्नाः ॥८७॥
+
+
 
 अयमयमितरेतरावलोकः
 
@@ -19428,7 +25412,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्फुरदनुरागरसो न तु व्यरंसीत॥८८॥
 
+
+
 कृष्णभावनामृत १६.२४३२—
+
+
 
 इतः प्रेङ्खत्प्रान्तप्रमदमदभारान्तसदृशा
 
@@ -19438,6 +25426,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ग्रहोद्वेपक्षेपप्रचितनवलावण्यजलधिः ॥८९॥
 
+
+
 रुचाध्वानं नीलोत्पलवनमयीकृत्यदृगलि
 
 व्रजानां कान्तालेर्मधुररससत्रं विरचयन।
@@ -19445,6 +25435,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 व्रजन्मन्दं मन्दं मुखररसनानूपुरमलं
 
 चकार श्रीकृष्णः प्रियसखवृतो गोकुलभुवम् ॥९०॥
+
+
 
 अलं ह्रीदम्भेन प्रकटय चलद्भृङ्गविकसद्
 
@@ -19454,6 +25446,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रशान्त्यै विद्धीमं क्षणमुशति राधेति शुभदम् ॥९१॥
 
+
+
 त्वमेवामुं श्यामे त्वरितमुपधाव प्रकटित
 
 द्युतिं हृद्याम्भोजस्तवकमुपनीयार्हणकृते ।
@@ -19461,6 +25455,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मुहूर्तेऽस्मिन्कामं सुमुखि यदि सम्पादयति ते
 
 महेशोऽयं मज्जाम्यमृतजलधौ तत्स्वयमहम् ॥९२॥
+
+
 
 मृषा मा त्वं वादीः कलय ललिते वल्लिपटलीः
 
@@ -19470,6 +25466,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रमौ यन्मालत्यास्तदयमित ईष्टे न चलितुम् ॥९३॥
 
+
+
 यदेत्थं संलापः प्रणयसरसीधोरणिरिव
 
 श्रुती कृष्णस्यारादशिशिरयदानन्दपृषतैः ।
@@ -19477,6 +25475,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तदा श्रीराधास्यं मदिरधृतलास्यं दरदृशोर्
 
 अवाप्याग्रं तस्य द्रुतमधिलतं निह्नुतिमगात॥९४॥
+
+
 
 पिपासार्तौ हा मे दृगनघचकोराविह सुधाम्
 
@@ -19486,6 +25486,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रदायैवाहाषीरिति हृदि तदोचे गिरिधरः ॥९५॥
 
+
+
 विमुञ्च त्वं लज्जे क्षणमपि दृशः कोणमपि मे
 
 यथा ते नैवास्यं सकृदपि विलिह्यामघरिपोः ।
@@ -19493,6 +25495,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रसीदानन्दाभ्र त्वमपि नहि रुन्धी मम तनो
 
 नमस्ते मां मा कम्पय चरणयोस्तेऽस्मि पतिता ॥९६॥
+
+
 
 इति प्रेम्णा प्रोच्य स्वगतमतिधाऋष्ट्यं पुनरिदं
 
@@ -19502,7 +25506,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उपानीय प्रेष्ठाननचकितदृष्टिं व्यधुरिमाम् ॥९७॥
 
+
+
 तां दृष्ट्वा सुबलस्तं प्रत्याह, उज्ज्वलनीलमणि ४.९१०—
+
+
 
 स्नाता नासाग्रजाग्रन्मणिरसितपटा सूत्रिणी बद्धवेणी
 
@@ -19512,6 +25520,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधालक्तोज्ज्वलाङ्घ्रिः स्फुरिति तिलकिनी षोडशाकल्पिनीयम् ॥९८॥
 
+
+
 दिव्यश्चूडामणीन्द्रः पुरटविरचिताः कुण्डलद्वन्द्वकाञ्चि
 
 निष्काश्चक्रीशलाकायुगवलयघटाः कण्ठभूषोर्मिकाश्च ।
@@ -19520,7 +25530,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तुङ्गा पादाङ्गुरीयच्छविरिति रविभिर्भूषणैर्भाति राधा ॥९९॥।
 
+
+
 पद्यावली २५९—
+
+
 
 भ्रूवल्लीचलनैः कयापि नयनोन्मेषैः कयापि स्मित
 
@@ -19530,7 +25544,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सातङ्कानुनयं जयन्ति पतिताः कंसद्विषः दृष्टयः ॥१००॥
 
+
+
 कृष्णभावनामृतं १६.३३—
+
+
 
 अपाङ्गाभ्यां यूनोर्नभसि यमुना धातृतनया
 
@@ -19540,7 +25558,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रवाहायामास्तां विकचकमलालीक्षणततौ ॥१०१॥
 
+
+
 गोविन्दलीलामृतं १९.९२९३—
+
+
 
 श्रीराधिकापाङ्गविलोकनेषुणा
 
@@ -19550,6 +25572,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सम्भिन्नसर्वावयवोऽप्यसौ तथा ॥१०२॥
 
+
+
 यद्वत्सुनिर्वृतिमवाप स राधिकाया
 
 वक्त्रेन्दुमन्दहसितामृतलेशसेकात।
@@ -19558,7 +25582,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रोद्यत्स्मितामृतझरप्रकरावगाहात॥१०३॥
 
+
+
 कृष्णभावनामृतं १६.३४४०—
+
+
 
 अपाङ्गाभ्यां यूनोर्नभसि यमुना धातृतनया
 
@@ -19568,6 +25596,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रवाहायामास्तां विकचकमलालीक्षणततौ ॥१०३॥
 
+
+
 ततो निष्पन्दाङ्गं रसिकमिथुनं तत्प्रियसुहृद्
 
 गणो वर्त्मप्रान्तादितरजनशङ्काकुलमनाः ।
@@ -19575,6 +25605,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 विकृष्यारात्तत्तत्पुरसरणिमानीय रभसात्
 
 प्रबुद्धः प्रत्याशासित हृदमकर्षीत्पटिमभिः ॥१०४॥
+
+
 
 जनन्या वात्सल्यं तनुमदिव पित्रोः किमसवो
 
@@ -19584,6 +25616,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजेश्वर्यै दातुं तदभिमतपीयूषबटिकाः ॥१०५॥
 
+
+
 बलात्पाणिं नीव्यामहह मम धित्सत्ययमयं
 
 विशाखे त्वं वीथ्यां कलयसि किमेतत्कुतुकिनी ।
@@ -19591,6 +25625,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यदुच्चैः क्रोशन्तीमपि न हि जहात्येष बत मां
 
 सतीनां मूर्धन्यां तदिह कथयार्यां द्रुतमितः ॥१०६॥
+
+
 
 प्रलप्यैवं राधा दरविकसिताक्षी समुदित
 
@@ -19600,6 +25636,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलक्षालीराह स्मरपरिभवाद्गद्गदगिरा ॥१०७॥
 
+
+
 क्व मे प्रेयान्वीथ्यां चकर किमहं निष्कुटभवं
 
 किमेतद्वेश्माहो सखि गुरुपुरस्थं भवति किम् ।
@@ -19607,6 +25645,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इयं सन्ध्या प्रातः किमजनि किमहो स्विदभवन्
 
 निशीथः किं निद्राम्यहह किमु जगर्मि वद तत॥१०८॥
+
+
 
 त्वमारामाद्धामाम्बुजमुखि समायाः प्रियतमो
 
@@ -19616,6 +25656,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विधुः स त्वन्नेत्रोत्पलयुगविकाशार्थमधुना ॥१०९॥
 
+
+
 यत्प्रागासीद्व्रजपुरसरोजीवनाद्विच्युतं द्राग्
 
 उग्रैस्तापैर्विरहरविणोत्पादितान्तर्विदारम् ।
@@ -19624,17 +25666,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सारैः पूर्णं त्वरितमभवत्फुल्लपङ्केरुहासाम् ॥११०॥
 
+
+
 इति श्रीश्रीभावनासारसङ्ग्रहे अपराह्नलीलास्वादनं नाम
 
 पञ्चमः सङ्ग्रहः ॥
 
 ॥५॥
 
+
+
+
+
 (६)
 
 षष्ठसङ्ग्रहः
 
 अथ सायाह्नलीला
+
+
 
 सायन्तनीं कृष्णमनोज्ञलीलां
 
@@ -19644,7 +25694,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तां यो मनस्तं भज गौरचन्द्रम् ॥१॥
 
+
+
 गोविन्दलीलामृतं २०.१—
+
+
 
 सायं राधा स्वसख्या निजरमणकृते प्रेषितानेकभोज्यां
 
@@ -19654,7 +25708,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्व्यूढोस्रालिदोहं स्वगृहमनु पुनर्भुक्तवन्तं स्मरामि ॥२॥
 
+
+
 कृष्णभावनामृतं १७.१२१—
+
+
 
 द्वौ भवन्तौ विधुरतुलयत्पद्मिनीनित्यबन्धू
 
@@ -19664,6 +25722,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 को वा हैमं गणयति सुधीः सर्षपार्धेन सार्धम् ॥३॥
 
+
+
 उद्यन्नक्तं दिवमपि जगल्लोचनानन्दधारा
 
 निर्माणार्थं स्थिरचरततेः प्रेमधर्मप्रकाशी ।
@@ -19671,6 +25731,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 माधुर्याब्धिर्मृदुलकिरणो गोपरार्धप्रचारी
 
 हारो लोकान्तरसुतमसमानभ्रविभ्रजितश्रीः ॥४॥
+
+
 
 कष्टाम्भोधेः परमतरणिभीरुहृच्चक्रवाक
 
@@ -19680,6 +25742,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पूर्त्यै गच्छन्हतभगदृशो हि जिहासत्ययं नः ॥५॥
 
+
+
 इत्थं स्वःस्त्रीजनकलकलैर्लाघवं स्वं विवस्वान्
 
 मेने श्रोत्रामृतमिव कृती यत्तदाशानुगामी ।
@@ -19687,6 +25751,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मूढाऽमंस्तात्मनि वरुणदिङ्नागरीसौभगं यन्
 
 मन्ये तेनाप्रकटयदिदं हन्त मिथ्यानुरागम् ॥६॥
+
+
 
 कृष्णोऽगच्छद्यदनु विशिखहर्म्यगत्रीजनेऽश्रुस्
 
@@ -19696,6 +25762,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तेन स्थाने क्वचन सुदृशां मुग्धता दोग्धि मुदम् ॥७॥
 
+
+
 याते पितोर्नयनपदवीं तत्पुरान्तःप्रविष्टे
 
 तद्वात्सल्यामृतजलनिधौ मज्जति श्रीमुकुन्दे ।
@@ -19703,6 +25771,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तं ज्ञात्वाक्ष्नोरविषयमभूद्भानुरङ्गारतुल्यस्
 
 तत्प्राप्त्यर्थं किमनु लवणाम्बोधिमासीन्मिमङ्क्षुः ॥८॥
+
+
 
 तद्विश्लेषज्वरशमलवेऽप्यक्षमा यर्ह्यभूवन्
 
@@ -19712,6 +25782,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तद्वृत्तान्तामृतरसपृशत्सेचनं कर्णरन्ध्रे ॥९॥
 
+
+
 संज्ञां लब्ध्वा हरिणनयना सम्भ्रमादुत्थितोचे
 
 तप्ताश्रान्तं श्रवनमरुभूरालि धन्या ममाभूत।
@@ -19719,6 +25791,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अस्यां स्वप्नेऽन्वभवमधुनापूर्वपीयूषवृष्टिं
 
 धिन्वत्येषा तदिह सखि मां शीतलीवो भवीति ॥१०॥
+
+
 
 आयातेयं सुमुखि तुलसीमञ्जरी गोष्ठराज्ञ्या
 
@@ -19728,6 +25802,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेयःसायन्तनगुणकथां प्राह मध्ये सभं सा ॥११॥
 
+
+
 तातस्याक्ष्नोः पदमुपययावादितो गोपुराग्रे
 
 कृष्णो दोर्भ्यां पुलकिततनोरुद्गृहीतोऽथ सद्यः ।
@@ -19735,6 +25811,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निष्पन्दस्योरसि चिरमयं भ्राजते स्म स्थिराङ्गः
 
 कैलासान्तःसरसि विकशन्नीलपद्मं यथैकम् ॥१२॥
+
+
 
 उष्णीषाग्रं दर विघटयन्नश्रुभिः सिच्यमानं
 
@@ -19744,6 +25822,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ज्योत्स्नजालैः स्वमलमकरोदात्मतापापनुत्यै ॥१३॥
 
+
+
 यान्ती गेहादजिरमजिराद्गेहमायान्त्यथ या
 
 शुष्यद्वक्त्रानयदतिरुजैवान्तिमं याममह्नः ।
@@ -19751,6 +25831,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सा गोष्ठेशा तरणितनये नेत्रयुग्मात्कुचाभ्यां
 
 जह्नोः कन्ये असृजदिव तं प्रेक्ष्य सूनुं समीपे ॥१४॥
+
+
 
 नाङ्के कर्तुं वलितजडिमा सन्नकण्ठी न वार्तां
 
@@ -19760,6 +25842,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वास्याः क्रोढे करधृतमुपवेशयत्तर्हि कृष्णम् ॥१५॥
 
+
+
 किं वात्सल्यामृतजलनिधिं जन्मभूमिं विधुस्ताम्
 
 अध्यास्ताहो किमु निजखनिं प्रेममाणिक्यराजः ।
@@ -19767,6 +25851,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 किं कस्तूरीद्रवचिततनोः स्नेहपीयूषपुत्र्याः
 
 कुक्षेर्भूषा हरिमणिरभादर्पितः साधु धात्रा ॥१६॥
+
+
 
 यावन्मामाकलय जननीत्यक्षिधारां स्वहस्ते
 
@@ -19776,6 +25862,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्तन्यैरेव व्यरचि रुचिरं लालनं तस्य तावत॥१७॥
 
+
+
 आनन्दोर्मिष्वनुपरमणीष्वप्यमुं चेतयन्ती
 
 कृत्ये प्रवर्तयदभिमते यर्हि वात्सल्यलक्ष्मीः ।
@@ -19783,6 +25871,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तर्ह्येवासौ स्वतनयतनुं पाणिनामृज्य दासीर्
 
 अस्याभ्यङ्गस्वपनलपनोन्मार्जनादौ न्ययुङ्क्त ॥१८॥
+
+
 
 वत्स स्वच्छप्रणय सदने वर्तते या निषण्णा
 
@@ -19792,6 +25882,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एनां सङ्गे न हतजननीमानयस्येकदापि ॥१९॥
 
+
+
 अह्नि प्राप्तेऽप्युपरममिहात्यन्तदैर्घ्येऽपि जातं
 
 त्वं नायासि स्वगृहमदराम्रेडितोऽपि स्वपित्रा ।
@@ -19799,6 +25891,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 क्षामो व्यामोहयसि यदमून्क्षुत्पिपासासहः स्व
 
 द्रष्ट्èन्बन्धूंस्तदलमसुभिर्मातुरेतैः कठोरैः ॥२०॥
+
+
 
 अम्बावेहि त्वमति चटुलं प्लावितं खेलनाब्धौ
 
@@ -19808,6 +25902,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नैष्यत्सम्प्रत्यपि गृहमिति प्राह राज्ञीं बटुः सः ॥२१॥
 
+
+
 तथ्यं ब्रूषे कथमपि न मे मन्यमाना निषेधं
 
 बाला एव प्रखरनखराः प्रत्यहं बाहुयुद्धे ।
@@ -19815,6 +25911,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नीलाम्भोजादपि मृदु बलादङ्कयन्त्यस्य गात्रं
 
 तत्किं कुर्वे चपलतनये नात्र कोऽप्यस्त्युपायः ॥२२॥
+
+
 
 इत्थं तत्संलपितमपि तत्राहमाकर्णयन्ती
 
@@ -19824,7 +25922,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धात्रीगार्ग्यादिभिरपि सहालालयं सा स्वसूनुम् ॥२३॥
 
+
+
 कृष्णाह्निककौमुदी ५.४८५१—
+
+
 
 क्षणमजिरतले विलम्बमाना
 
@@ -19834,6 +25936,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 समुपदिदेश निसर्गचारुकृत्यान॥२४॥
 
+
+
 अहरत कतमः प्रकृष्टतुष्टी
 
 रसिकवरस्य विषाणवेणुयष्टीः ।
@@ -19841,6 +25945,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उदहृत वनमालिकामथान्यः
 
 समकृषदाभरणानि कोऽपि धन्यः ॥२५॥
+
+
 
 उदहरदवतार्य मौलिबन्धं
 
@@ -19850,6 +25956,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुरभिरजांस्यपसारयाञ्चकार ॥२६॥
 
+
+
 वसनमितर आशु लम्भयित्वा
 
 मुखपदपद्ममधावयन्मुदित्वा ।
@@ -19858,7 +25966,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रचुरमशूशुधदुद्यता सुखेन ॥२७॥
 
+
+
 श्रीगोविन्दरतिमञ्जरी ५.५२—
+
+
 
 कृतिभिरवयवोऽस्य चारुशीलैः
 
@@ -19868,7 +25980,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मृदुतरमानखमूर्धमन्दहासैः ॥२८॥
 
+
+
 कृष्णाह्निककौमुदी ५.५३६४—
+
+
 
 मसृणघुसृणगन्धसारचूर्णैर्
 
@@ -19878,6 +25994,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रणयविलासकलावशो विपश्चित॥२९॥
 
+
+
 अकृत कचविशोधने प्रकर्षं
 
 सुरभितरामलकीकषायघर्षम् ।
@@ -19885,6 +26003,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 घनतरघनसारसारगन्धैर्
 
 अपघनसेकमकल्पयत्कबन्धैः ॥३०॥
+
+
 
 मृदुसितसिचयाञ्चलावलिभिर्
 
@@ -19894,6 +26014,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्तिमितपटेन निपीड्य कोऽप्युदारः ॥३१॥
 
+
+
 स्तिमितवसनमाशु हापयित्वा
 
 पटमपरं मृदु पीतमापयित्वा ।
@@ -19901,6 +26023,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अतिमृदुलमतीव दर्शनीयं
 
 व्यधित महोरसि पीतमुत्तरीयम् ॥३२॥
+
+
 
 अकृत कचकलापमम्बुरिक्तं
 
@@ -19910,6 +26034,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कचभरवेष्टनिकां चकार दभ्राम् ॥३३॥
 
+
+
 अलिखदलिकमध्यमत्युदारं
 
 तिलकमनिन्दितगन्धगन्धसारम् ।
@@ -19917,6 +26043,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अलिपत घनसारसारिताङ्कैर्
 
 वपुरघनैर्हरिचन्दनस्य पङ्कैः ॥३४॥
+
+
 
 अथ मणिमयमण्डनानि गात्रे
 
@@ -19926,6 +26054,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मणिमयकाञ्चनपट्टिकोपनीतम् ॥३५॥
 
+
+
 लघु ललितमहो विशन्स सद्म
 
 प्रियसखपाण्यवलम्बिपाणिपद्मः ।
@@ -19933,6 +26063,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 परिहृतमणिपादुको विनम्रः
 
 पितरमवन्दत भक्तिभावकम्रः ॥३६॥
+
+
 
 दृढतरमौप्गृह्य तेन हर्षे
 
@@ -19942,6 +26074,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उपविशतानुमतः शनैरनेनाः ॥३७॥
 
+
+
 चिरमुपचरितः स चैवमेव
 
 स्वपरिजनैर्विरराज रामदेवः ।
@@ -19949,6 +26083,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पितरमवननाम सोऽप्यमन्द
 
 प्रणयवशादुपगूह्य चाननन्द ॥३८॥
+
+
 
 व्रजपतितनयद्वयद्वितीया
 
@@ -19958,6 +26094,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अजनि पचेति जगाद राममाता ॥३९॥
 
+
+
 व्रजपतिगृहिणीङ्गितप्रणुन्ना
 
 नवनवदासकदासिकाः प्रसन्नाः ।
@@ -19966,7 +26104,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रकमुचितस्थलसङ्गि जातरङ्गाः ॥४०॥
 
+
+
 कृष्णभावनामृतं १७.२३२५—
+
+
 
 सार्धं मित्रैः सपदि विहितस्नानभूषानुलेपं
 
@@ -19976,6 +26118,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नानाभेदं त्रिविधमथ सा भोजयामास भक्ष्यम् ॥४१॥
 
+
+
 एतद्वोऽतिप्रियमिति यदा सीधुकेल्यादि तेभ्यो
 
 युष्मद्पक्वं बटकपटलं पञ्चभेदं ददौ सा ।
@@ -19983,6 +26127,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सस्नौ पञ्चेन्द्रियमपि तदैवासु तेषां प्रमोदैस्
 
 तत्सौरभ्यम्रदिमसुरसाख्यानरूपामृताब्धौ ॥४२॥
+
+
 
 एतद्गन्धोऽप्यनुभवपथं यस्य भाग्योदयासीत्
 
@@ -19992,13 +26138,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ये मा देहीत्यभिदधति तान्सागसोऽत्र ब्रवीमि ॥४३॥
 
+
+
 गोविन्दलीलामृतं २०.१५—
+
+
 
 हसन्तो हासयन्तस्ते मधुमङ्गलनर्मभिः ।
 
 भुक्त्वा पीत्वा मुदाचम्य क्षणं तल्पे विशश्रमुः ॥४४॥
 
+
+
 कृष्णाह्निककौमुदी ५.७२७४—
+
+
 
 प्रथमविधृतवेशभूषणानां
 
@@ -20008,6 +26162,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रयततिरेऽङ्घ्रिसरोजधावनाय ॥४५॥
 
+
+
 अथ सुखमुखवासवासितास्यः
 
 स्फुरदमृतद्रवमुग्धमन्दहास्यः ।
@@ -20015,6 +26171,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुविहितपितृमातृवन्दनान्तः
 
 स बहिरभूदघमर्दनोऽङ्गनान्तः ॥४६॥
+
+
 
 अमृतकरकदम्बकापवाद
 
@@ -20024,13 +26182,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियमणिपादुकयोपगूढपादः ॥४७॥
 
+
+
 गोविन्दलीलामृतं २०.२३—
+
+
 
 दासा भृङ्गारताम्बूलपात्रव्यजनपाणयः ।
 
 निर्योगपाशवेत्रादिधारिणस्ते तमन्वययुः ॥४८॥
 
+
+
 कृष्णाह्निककौमुदी ५.७५—
+
+
 
 विदधदनुचरांससीम्नि वामं
 
@@ -20040,7 +26206,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 च्छदनमदन्प्रविवेश घोषपल्लीः ॥४९॥
 
+
+
 कृष्णभावनामृतं १७.२७३५—
+
+
 
 इत्येतस्या मुखविधुवरादञ्चलग्रन्थितश्च
 
@@ -20050,6 +26220,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मुद्भ्यां सिक्तानकृत शिशिरान्निम्नगाभ्यामिवासून॥५०॥
 
+
+
 निःसृत्यासावथ गुरुपुरादेत्य कासारतीरं
 
 तत्रोद्यानान्तरगतवरक्षौममारुह्य सालिः ।
@@ -20057,6 +26229,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वक्त्रज्योत्स्नामधयदपराऽलक्षिता यन्मुरारेस्
 
 तेनाविन्दन्मुदमुदयिनीं चक्षुषीमप्यपाराम् ॥५१॥
+
+
 
 आस्योदञ्चत्कुटिलचिकुराच्छादकोष्णीषराजे
 
@@ -20066,6 +26240,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्योते विद्युल्लसति चपला भावलिप्रोतमूला ॥५२॥
 
+
+
 धर्मध्वान्तं व्रजकुलभुवां भिन्दती स्वैर्मयूखैर्
 
 एते गण्डद्वयमनुचले कुण्डले नाघशत्रोः ।
@@ -20073,6 +26249,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अग्रे स्थातुं तरणियुगलं नेशमेवाननेन्दोः
 
 पार्श्वद्वन्द्वं भजति नटनैः प्रीणनार्थं यदस्य ॥५३॥
+
+
 
 कन्दर्पो यत्स्वमकरयुगं कर्णबन्धं व्याधान्नो
 
@@ -20082,6 +26260,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यत्नान्मौग्ध्यादपसृतिकृते हन्त किं वा विधत्ते ॥५४॥
 
+
+
 स्वच्छं स्निग्धं नयनयुगलं प्राप ये हन्त कान्ते
 
 ते तारे सम्भृतमदभरे चञ्चले द्रागभूताम् ।
@@ -20089,6 +26269,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ताभ्यां ये वाजनिषत सुतास्ते जनान्तःपुरेभ्यः
 
 कृष्ट्वा कृष्ट्वा धृतिकुलवधूर्दूषयन्ते कटाक्षाः ॥५५॥
+
+
 
 सर्वाशोद्यत्तरसि दृशि यद्दस्यवोऽनङ्गनद्यां
 
@@ -20098,6 +26280,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तद्रामाणां नयनवणिजां लुण्ठनायेति विद्मः ॥५६॥
 
+
+
 नैतन्मन्दस्मितमुदयते शोणबिम्बाधरौष्ठात्
 
 बन्धूकाभ्यां जगदलिकृते च्योतिते नो मरन्दः ।
@@ -20105,6 +26289,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लक्ष्यीभूते मम सखि दृशौ वैद्रुमस्मारयन्त्रोन्
 
 मुक्तं पश्य प्रविशति बलात्किन्तु कार्पूरनीलम् ॥५७॥
+
+
 
 निर्वर्ण्यैवं प्रियमुखविधुं तं ह्रियेवोर्मिमध्ये
 
@@ -20114,7 +26300,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सायं श्वश्रुगिरमतिकटुं वेत्सि पीयूषकल्पम् ॥५८॥
 
+
+
 कृष्णाह्निककौमुदी ५.७६८४—
+
+
 
 विकसितकुमुदेक्षणा त्वरा या
 
@@ -20124,6 +26314,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भवदनुरागरसा प्रदोषलक्ष्मीः ॥५९॥
 
+
+
 परितः उपपतत्सु पक्षिलक्षेष्व्
 
 अपरिमिते स्वकुलायकेलिवृक्षे ।
@@ -20131,6 +26323,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अनुभवनतलं ज्वलत्सु दीपेष्व्
 
 अकिरणधूसरिते दिशां समीपे ॥६०॥
+
+
 
 दिशि विदिशि रुवत्सु तर्णकेषु
 
@@ -20140,6 +26334,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सति सति गोपकुले निरस्तमोहे ॥६१॥
 
+
+
 तमुपनतमभीक्ष्य दिव्यरूपैः
 
 सुरभिरुतश्चलमङ्गलप्रदीपैः ।
@@ -20147,6 +26343,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुरभिगृहरुचो भवन्नुलूला
 
 रवरसनाचलनादिवानुकूलाः ॥६२॥
+
+
 
 अथ हरिहरिदङ्गनाभिरामं
 
@@ -20156,6 +26354,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हिमकिरणाननमुन्महःपरागम् ॥६३॥
 
+
+
 विघटयदिव सर्वतो विसारां
 
 तिमिरपटीमवगुण्ठनप्रकाराम् ।
@@ -20163,6 +26363,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मुखमिह हरिदिग्विलासवत्या
 
 विधुरुदियाय चिराभिलाषवत्याः ॥६४॥
+
+
 
 शशधरधवलासु तासु गोषु
 
@@ -20172,6 +26374,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उदयति गोधनधीर्विधूतखेदा ॥६५॥
 
+
+
 तुलितरजतशैलगण्डशैलः
 
 सुखमकरोच्छयनं स्वतन्त्रलीलः ।
@@ -20179,6 +26383,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वृषवृषभगणस्तु तत्र सायं
 
 गृहमुनिवत्स यतस्ततोऽनपायम् ॥६६॥
+
+
 
 ललितमखिलगोगृहाङ्गनेषु
 
@@ -20188,7 +26394,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रियमभिवीक्ष्य मुमोद मुद्वरिष्ठः ॥६७॥
 
+
+
 कृष्णभावनामृतं १७.३६४०—
+
+
 
 उत्कर्णानां धवलिशवलीत्येवमाहूयते या सा
 
@@ -20198,6 +26408,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कण्डूयाभिर्दरगिरिभृता प्रीणितादौ बभूव ॥६८॥
 
+
+
 उद्यत्पाऋष्णिः प्रकटयुगलालम्बितष्मोधिजानु
 
 न्यस्तेऽमत्रे सखि मणिमये बिम्बित श्रीमुखेन्दुः ।
@@ -20205,6 +26417,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गोतुन्दस्पृग्दरशिथिलितोष्णीषनिर्यन्मदालि
 
 श्रेणिजिष्णुद्युतिमदलकस्त्यक्तलास्येक्षनाब्जः ॥६९॥
+
+
 
 इष्ट्वा क्षौणीं प्रथमपयसो धारया ताभिरेव
 
@@ -20214,6 +26428,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दोहन्त्यन्तः शनशनशनद्घस्मघस्मेति घोषैः ॥७०॥
 
+
+
 उद्यत्कर्णाः शशिमुखि परास्तत्र सोत्कण्ठयन्गाः
 
 सद्यः प्रोद्यत्तदमलकणैश्चित्रतस्वोरुजङ्घः ।
@@ -20221,6 +26437,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ग्रीवभङ्गोदितरुचिगवा तर्णकेनापि सश्रैर्नेत्रैः
 
 पीतद्युतिनवसुधो दोग्धिं दुग्ध प्रियस्ते ॥७१॥
+
+
 
 मुष्णोपेहि त्वरय नय मे देहि याहीति गावो
 
@@ -20230,7 +26448,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ता दुष्पार इह परिमिताः किं कवेर्मान्ति गावः ॥७२॥
 
+
+
 गोविन्दलीलामृत २०.३२३५—
+
+
 
 वत्सा निपीयोदरपूरमुच्चकैस्
 
@@ -20240,6 +26462,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नोधःपयःपूर्तिरवाप हीनताम् ॥७३॥
 
+
+
 कृष्णाननाब्जार्पितनेत्रचेतसां
 
 गवां स्वयं संस्रवदौधसं पयः ।
@@ -20247,6 +26471,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गोपाः स्तनाधो धृतकुम्भसञ्चयैः
 
 सम्भृत्य निन्युः पुरतो व्रजेशितुः ॥७४॥
+
+
 
 प्रवेश्य गोपैर्निजमातृलालितान्
 
@@ -20256,6 +26482,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रजाधिपस्यागमदन्तिकं हरिः ॥७५॥
 
+
+
 प्रस्थाप्य दुग्धानि गृहं स भाविकैर्
 
 गवालयद्वार्षु नियुज्य किङ्करान।
@@ -20264,7 +26492,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राजा व्रजस्याव्रजदात्ममन्दिरम् ॥७६॥
 
+
+
 कृष्णभावनामृतं १७.४१—
+
+
 
 दुग्ध्वा कृष्णः प्रियसखदृशा सूच्यमानां कदाचित्
 
@@ -20274,19 +26506,29 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एवं लीलामृतजलनिधौ तस्य मज्जन्ति धन्याः ॥७७॥
 
+
+
 इति श्रीश्रीभावनासारसङ्ग्रहे सायन्तनलीलास्वादनं नाम
 
 षष्ठः सङ्ग्रहः ॥
 
 ॥६॥
 
+
+
 ओ)०(ओ
+
+
+
+
 
 (७)
 
 सप्तमसङ्ग्रहः
 
 अथ प्रदोषलीला
+
+
 
 समुत्कण्ठासन्नाकलितहरिवार्ता बत यथा
 
@@ -20296,7 +26538,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्खलन्गच्छन्गौरो नटति धृतकम्पाश्रुपुलकः ॥१॥
 
+
+
 गोविन्दलीलामृतं २१.१—
+
+
 
 राधां सालीगणान्तामसितसितनिशायोग्यवेशां प्रदोषे
 
@@ -20306,7 +26552,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यत्नादानीय संशायितमथ निभृतं प्राप्तकुञ्जं स्मरामि ॥२॥
 
+
+
 कृष्णभावनामृतं १८.६१०—
+
+
 
 अपि गुरुपुरमध्ये दृक्कबाटावरुद्ध
 
@@ -20316,6 +26566,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुखयितुमथ राधामागतेन्दुप्रभोचे ॥३॥
 
+
+
 विधुररुचिरसि त्वं यं विना हन्त राधे
 
 विधुररुचिरभूत्स त्वं ऋतेऽन्यस्तथापि ।
@@ -20323,6 +26575,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भवति हृदयहारी स त्रिलोक्यास्तबाहो
 
 भवति हृदयहारी भूततां लब्धमुत्कः ॥४॥
+
+
 
 रचय सखि तदस्योदन्तपीयूषवृष्टिर्
 
@@ -20332,6 +26586,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पपुरजरतृषस्ताः कर्णपालीचकोर्यः ॥५॥
 
+
+
 गिरिधरबलदेवालङ्कृतात्मद्विपार्श्वो
 
 व्रजधरणीवरेण्यो भोजनायोपविष्टः ।
@@ -20339,6 +26595,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 धनपतिरिव शोभामाप नन्दीश्वरान्तः
 
 पुरसदसि निधिभ्यां पद्मशङ्खाभिधाभ्याम् ॥६॥
+
+
 
 प्रतिरजनि निमन्त्र्यानीयमानैः सपुत्रैर्
 
@@ -20348,7 +26606,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तुहिनगिरिरिवाभान्मूर्त आनन्दपुञ्जः ॥७॥
 
+
+
 गोविन्दलीलामृतं २०.४५५३—
+
+
 
 तुङ्गी सुभद्रजननी जननीतिविज्ञा
 
@@ -20358,6 +26620,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विप्रात्मजस्वधरदेवरपुत्रकेभ्यः ॥८॥
 
+
+
 सत्सौरभैः कनकवर्णघृताभिषिक्तैः
 
 स्तूपीकृतैर्विविधतेमनपात्रयुक्तैः ।
@@ -20365,6 +26629,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्थालीर्भूताः सुमृदुलैर्विशदोदनैः सा
 
 सन्दानिकोपरि पुरो निदधे स्म तेषाम् ॥९॥
+
+
 
 जेमत्सु तेषु परिवेशयति क्रमात्सा
 
@@ -20374,9 +26640,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सद्भाजनान्तरधृता मृदुरोटिकाश्च ॥१०॥
 
+
+
 यस्य यस्य प्रियं यद्यत्तज्ज्ञात्वाथ रोहिणी ।
 
 इङ्गितेन व्रजेश्वर्यास्तस्मै तत्तदसौ मुहुः ॥११॥
+
+
 
 दुग्धं घनं शिखरिणीं मथितं रसालां
 
@@ -20386,6 +26656,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तेभ्यः क्रमेण परिवेशयति स्म शश्वत॥१२॥
 
+
+
 सर्वं भोजयितुं समुत्सुकमनोवाग्दृक्प्रकाशीकृतैर्
 
 गूढैर्मातृततेः स्फुटैः पितृततेः स्नेहद्रवच्चेतसः ।
@@ -20394,9 +26666,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 संतृप्ता अपि ते मुहुर्बुभुजिरे नान्तं मुदां चाययुः ॥१३॥
 
+
+
 द्वयं व्यस्तमभूत्प्रातराशात्सायन्तनाशने ।
 
 गाम्भीर्यनर्मणि बटोर्गूढता मातुराग्रहे ॥१४॥
+
+
 
 अस्वाच्छन्द्यं यदपि लपितान्योन्यहासक्रियादौ
 
@@ -20406,6 +26682,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तेषां सौख्यं तदवकलनात्कोटिधासीच्च तस्याः ॥१५॥
 
+
+
 वक्त्रेन्दोः स्मितसम्पदा व्रजविधोस्तद्वाक्सुधाबिन्धुभिस्
 
 तत्सौरभ्यविमिश्रदूपविसरैस्तत्तालवृन्तानिलैः ।
@@ -20414,7 +26692,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ते पञ्चेन्द्रियतृप्तिजामतितमां सम्भोजनीयां मुदम् ॥१६॥
 
+
+
 कृष्णाह्निककौमुदी ५.७१—
+
+
 
 पृथगथ परिचारकोपनीतैर्
 
@@ -20424,7 +26706,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सहजनकः ससखः स चाचचाम ॥१७॥
 
+
+
 कृष्णाह्निककौमुदी ५.८९९७—
+
+
 
 पितृपुरसविधे पुरं यदीयं
 
@@ -20434,6 +26720,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शयनगृहादि च यत्र नव्यभव्यम् ॥१८॥
 
+
+
 नवनवतरुवीर्धावलीकं
 
 कुसुमितकुञ्जकुटीरनिर्व्यलीकम् ।
@@ -20441,6 +26729,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मणितटसरसीविहारिहंसं
 
 यदुपवनं कलकोकिलावतंसम् ॥१९॥
+
+
 
 कुसुमदलकूलावतंसमुक्ता
 
@@ -20450,6 +26740,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सितसिचयाः करिदन्तपत्रमुग्धाः ॥२०॥
 
+
+
 स्मितभवदशनांशुपुष्टदोषा
 
 करकिरणाः प्रियसङ्गभावितोषाः ।
@@ -20457,6 +26749,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 रजनिषु घनचन्द्रिकाभिरामास्व्
 
 अभिसरणं रचयन्ति यत्र रामाः ॥२१॥
+
+
 
 शयनसमयसेवनावलम्बैर्
 
@@ -20466,6 +26760,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गुरुगुरुधूपसुधूपिताप्यनुष्णा ॥२२॥
 
+
+
 सुरभिकुसुममालिकाकृताभिर्
 
 नवनवमण्डनिकाभिरुत्तमाभिः ।
@@ -20473,6 +26769,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मणिकलसशिखालसत्पताका
 
 वलिभिरपि प्रियकान्तिकन्दलीका ॥२३॥
+
+
 
 विरजसगजदन्तशिल्पभाजा
 
@@ -20482,6 +26780,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मृदुकशिपूत्तमसुन्दरोपधानैः ॥२४॥
 
+
+
 शशधरमणिदण्डरुग्गवाक्षा
 
 गतशशिरश्मिसिताभ्रधूलिलक्षा ।
@@ -20489,6 +26789,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रतिविलसति यत्र तल्पशाला
 
 मणिमयपञ्जरमञ्जुकीरमाला ॥२५॥
+
+
 
 शिशयियुरथ तद्विलोभनीयं
 
@@ -20498,7 +26800,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गणसहितोऽघनिहा महाविलासी ॥२६॥
 
+
+
 कृष्णभावनामृतं १८.१५२४—
+
+
 
 अधि वलभिवलक्षे सक्षणं पुष्पतल्पे
 
@@ -20508,6 +26814,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मधुरिमगरिमाणं श्रुयतां तच्च राधे ॥२७॥
 
+
+
 सरसमनुगवीनस्यापराह्ने भवद्भिः
 
 सममसममहिम्नोऽप्यञ्जसा गच्छतो याः ।
@@ -20515,6 +26823,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मम धृतिततिमद्यन्नद्य गोष्ठप्रदेशे
 
 कथय सुबल ता मां मोहयित्र्यो रुचः काः ॥२८॥
+
+
 
 अहह मधुरिमाब्धेः किं सुधामथ्यमानात्
 
@@ -20524,6 +26834,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किमतनुविशिखानां राशयश्चम्पकानाम् ॥२९॥
 
+
+
 तदुपरि घुसृणाक्तां किं सरोजं प्रफुल्लं
 
 शुचिजलधिजनिर्वा क्षोभनः कश्चनेन्दुः ।
@@ -20531,6 +26843,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मणिमयमदिराभ्यां तस्य चाङ्के नटद्भ्यां
 
 मम दृगुपसरन्त्येवादिता पुच्छघातैः ॥३०॥
+
+
 
 किमिदमहह वस्त्वित्यूढसम्भ्रान्तिमूढे
 
@@ -20540,6 +26854,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्रततिततिषु लीनं प्रभावं तन्न लेढुम् ॥३१॥
 
+
+
 सपदि नयनयुग्मोद्दिष्टवर्त्मा तदागान्
 
 मम हृदयभटन्तन्मार्गणार्थं समर्थः ।
@@ -20547,6 +26863,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 न पुनरयमिदानीं यत्परावर्तते तद्
 
 वनभुवि कुसुमेषो बन्धमापेति बुध्ये ॥३२॥
+
+
 
 अघहर भवता यालोक्यत श्लाघ्यरूपा
 
@@ -20556,6 +26874,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विलुठति गलदक्ष्नोर्धारया धौतगात्री ॥३३॥
 
+
+
 अयमयमयते त्वां तन्वि धिन्वन्मुकुन्दो
 
 रसनिधिरथ स क्व क्वेति संलापशेषे ।
@@ -20563,6 +26883,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रथमरजनिजातं ध्वान्तमालक्षयन्ती
 
 शमयति रुजमस्या व्रीडयाथावृताङ्ग्याः ॥३४॥
+
+
 
 इति सुबलवचोभिः कृष्णनेत्राम्बुजाभ्यां
 
@@ -20572,6 +26894,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ववमतुरिव मुक्तां मञ्जुचञ्चू चकोरौ ॥३५॥
 
+
+
 परिचरणपरां मां तस्थूषीं तत्र दृष्ट्वा
 
 न्यदिशदयममन्दोत्कण्ठया कुण्ठितास्यः ।
@@ -20580,7 +26904,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अभिसरतु रसेनेत्याशु तां ब्रूहि गत्वा ॥३६॥
 
+
+
 गोविन्दलीलामृतं २०.५७६१—
+
+
 
 अथ व्रजेशा तुलसीं सहालिकां
 
@@ -20590,9 +26918,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विनात्ति भोज्यं न जलं पिबत्यपि ॥३७॥
 
+
+
 सा श्रुत्वा स्नेहरीतिं तां प्रीताहान्नं सतेमनम् ।
 
 ससखीवृन्दराधार्थमाभ्यां प्रस्थापय द्रुतम् ॥३८॥
+
+
 
 ततो धनिष्ठा हरिभुक्तशेषं
 
@@ -20602,6 +26934,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बलाम्बया दत्तमपि स्फुटं सा ॥३९॥
 
+
+
 व्रजेशा भोजयित्वादौ दासीर्दासान्सगोपकान।
 
 सस्नुषाभिः सपुत्रीभिर्यातृभिः सग्धिमाचरत॥४०॥
@@ -20610,7 +26944,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धनिष्ठाख्यत्केलिकुञ्जं ददौ च वीटिका रहः ॥४१॥
 
+
+
 गोविन्दलीलामृतं २१.२२०—
+
+
 
 अथाययौ हरेः पिता बहिःसभां व्रजेशिता
 
@@ -20620,6 +26958,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हरेर्विलोकनाशया समृद्धया सिताशयः ॥४२॥
 
+
+
 श्रेणिमुख्यलोकविप्रगोपवृन्दसङ्गिनः
 
 स्वस्वविद्ययाऽघवैरितोषणातिरङ्गिणः ।
@@ -20627,6 +26967,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आययुः स्वगीतवाद्यहास्यलास्यनन्दिनः
 
 सूतवंशशंसिनृत्यगानकर्तृवन्दिनः ॥४३॥
+
+
 
 ते गोपराज्ञा मिलिता यथायथं
 
@@ -20636,6 +26978,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णेक्षणोत्कण्ठितनेत्रचेतसः ॥४४॥
 
+
+
 शेते सुतः श्रमभराद्विहिताशनोऽसौ
 
 लोकास्तदीक्षणतृषो बत किं विधेयम् ।
@@ -20643,6 +26987,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्थं विचिन्तयति गोपपतावकस्मात्
 
 कृष्णः स्वयं सखिकुलैः सहितः समायात॥४५॥
+
+
 
 स्वान्ताम्बुधिं नेत्रचकोरवृन्दं
 
@@ -20652,6 +26998,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सभोदयाद्रावुदितो हरीन्दुः ॥४६॥
 
+
+
 विप्रान्गुरून्स्वाञ्जलिबन्धवन्दनैः
 
 समान्सखींश्च स्मितमिश्रितेक्षणैः ।
@@ -20659,6 +27007,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पाल्यांस्तथान्यान्सदयावलोकनैः
 
 सम्भाष्य तान्सोऽपि विवेश सङ्गिभिः ॥४७॥
+
+
 
 वेदध्वानैर्जयजयरवैः पूर्ववंश्यानुवादैस्
 
@@ -20668,9 +27018,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 घोषः कृष्णे व्यतनुततरां स्वस्य नाम्नो निरुक्तिम् ॥४८॥
 
+
+
 व्रजेन्द्रेणेरितः क्षत्ता लोकानुत्करचालनैः ।
 
 कोलाहलान्निवार्यैतान्यथास्थानं न्यवेशयेत॥४९॥
+
+
 
 तेषूपविष्टेषु नृपेङ्गितेन ते
 
@@ -20679,6 +27033,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रदर्शयन्तः क्रमशः कलाविदः
 
 सलालसान्सभ्यजनानतोषयन॥५०॥
+
+
 
 छालिक्यादिनृत्यमेकेऽन्ये लास्यं ताण्डवं परे ।
 
@@ -20696,6 +27052,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 केचित्कृष्णस्य जन्मादिलीलाढ्यां विरुदावलीम् ॥५४॥
 
+
+
 तेभ्यो व्रजेशादिसभासदो ददुर्
 
 वासोधनालङ्करणान्यनेकधा ।
@@ -20703,6 +27061,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ते तानि कृष्णेक्षणपूर्णमानसाः
 
 स्वीचक्रुराचारतया न तृष्णया ॥५५॥
+
+
 
 कृष्णाननेन्दोः स्मितकौमुदीं
 
@@ -20712,6 +27072,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पिबत्यहो प्रेमगतिः सुदुर्गमा ॥५६॥
 
+
+
 तावद्व्रजेशाप्रहितः स रक्तकः
 
 सभां समेत्याह नमन्व्रजेश्वरम् ।
@@ -20719,6 +27081,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 व्रजावनीशोत्कमना व्रजेश्वरी
 
 दिदृक्षते श्रीयुतभर्तृदारकम् ॥५७॥
+
+
 
 ततो व्रजेन्द्रेन कृताग्रहोत्करः
 
@@ -20728,6 +27092,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णः प्रपेद निजमातृमन्दिरम् ॥५८ ॥
 
+
+
 तावागतौ समधुमङ्गलमित्रवृन्दौ
 
 माता सुतावथ निवेश्य सुमृष्टवेद्याम् ।
@@ -20735,6 +27101,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दुग्धं घनं सशशिशर्करमीषदुष्णं
 
 स्तन्याश्रुसिक्तसिचयालमपाययत्तौ ॥५९॥
+
+
 
 ततो गते मित्रगणे निजालयं
 
@@ -20744,7 +27112,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बटुं बलं कृष्णमशीशयत्पृथक॥६०॥
 
+
+
 कृष्णभावनामृतं १८.२६—
+
+
 
 अतुलचतुरिमाणं तं जनालक्ष्यमाणं
 
@@ -20754,7 +27126,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्रुतमभिसर रागादित्युदित्वैव सागात॥६१॥
 
+
+
 गोविन्दलीलामृतं २०.६२७६—
+
+
 
 अथागतासौ तुलसी तदन्नं
 
@@ -20763,6 +27139,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तद्गन्धवर्णानुभवेन चादौ
 
 नासादृशोस्तृप्तिरभूदमूषाम् ॥६२॥
+
+
 
 तद्रूपमञ्जरी नीत्वा तुलस्या भोजनालयम् ।
 
@@ -20780,6 +27158,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीराधामेत्य तस्यै तद्वार्तामावेदयन्मुदा ॥६६॥
 
+
+
 ततः समेतेत्योपविवेश भोक्तुं
 
 भृङ्गारपीठालिविराजिवेद्याम् ।
@@ -20787,6 +27167,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सहालिपालिः प्रियभुक्तशेषं
 
 राधा मरालीव सुधां समुत्का ॥६७॥
+
+
 
 असव्ये ललिता सव्ये विशाखास्या उपाविशत।
 
@@ -20796,6 +27178,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्नेहेन मोहिनी यद्वद्देवताभ्योऽमृतं क्रमात॥६९॥
 
+
+
 प्रणयिजनविसृष्टं श्रीहरेर्भुक्तशिष्टं
 
 तदधरमधुमिष्टं तत्करेणाभिमृष्टम् ।
@@ -20804,6 +27188,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मितमपि च तदासीदक्षयं बण्टनेऽन्नम् ॥७०॥
 
+
+
 रमणकवलशिष्टं सन्मृणालं मराल्यः
 
 किशलयकुलमेण्यः श्रीमरन्दं भ्रमर्यः ।
@@ -20811,6 +27197,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अमृतमिव चक्रोयश्चैन्दवं राधिकाद्याः
 
 मुमुदुरधिकमन्नं प्रास्य कृष्णावशिष्टम् ॥७१॥
+
+
 
 आचम्यास्वादयन्त्यस्ताः कृष्णताम्बूलचर्वितम् ।
 
@@ -20832,7 +27220,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ताम्बूलचर्वितं तस्या अश्नन्त्यौ तामसेवताम् ॥७६॥
 
+
+
 गोविन्दलीलामृतं २१.१०२१०६—
+
+
 
 अथात्र घोषेशसुतः सवित्र्यां
 
@@ -20842,9 +27234,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रस्थाप्य गेहाच्छयनादुदस्थाम् ॥७७॥
 
+
+
 कीलयित्वा पुरोद्वारं दासान्प्रस्थाप्य तद्बहिः ।
 
 गन्तुमुत्कमनाः कुञ्जं पक्षद्वारेण निर्ययौ ॥७८॥
+
+
 
 अनाच्छन्नं हित्वा शशिकरचितं घोषवसतेः
 
@@ -20854,6 +27250,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विचार्येत्थं गन्तुं पदयुगमधाद्यर्हि स पुरः ॥७९॥
 
+
+
 तदैव सा स्वे व्रजभूरतर्कितं
 
 निधाय यन्त्रार्पितयानसन्निभे ।
@@ -20861,6 +27259,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मनोजवे हृत्कमले निनाय तं
 
 कुञ्जालयं तन्मनसा सह द्रुतम् ॥८०॥ (युग्मकम्)
+
+
 
 ज्योत्स्नापूर्णं तूर्णमुल्लङ्घ्य यत्नाच्
 
@@ -20870,13 +27270,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किं वा नेत्थं कृष्ण आसीत्तदोत्कः ॥८१॥
 
+
+
 गोविन्दलीलामृतं २.५९—
+
+
 
 उत्थायाथ वराङ्गी दास्या स्थापितमग्रे ।
 
 अध्यास्तासनवर्यं सा नानामणिचित्रम् ॥८२॥
 
+
+
 अनुरागविहस्तचित्ता सा स्वसखीमाह, ललितमाधव १.४९—
+
+
 
 महेन्द्रमणिमण्डली मदविडम्बिदेहद्युतिर्
 
@@ -20886,7 +27294,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 च्छिदाकरणकौतुकी जयति यस्य वंशीध्वनिः ॥८३॥
 
+
+
 विदग्धमाधव २.४५—
+
+
 
 यस्योरस्तटमण्डलं धृतिनदिरोधक्रियापण्डितं
 
@@ -20896,7 +27308,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हा कष्टं निखिलङ्गिला सखि दृशोर्भङ्गीभुजङ्गि तु सा ॥८४॥
 
+
+
 कृष्णाह्निककौमुदी ४.३३२—
+
+
 
 इन्द्रनीलमणिदर्पणदर्प
 
@@ -20906,6 +27322,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ज्योतिरङ्गजितमन्मथकोटिः ॥८५॥
 
+
+
 मेदुरो मृदुतरः सतरङ्गः
 
 श्यामलः सततसौरभसङ्गः ।
@@ -20913,6 +27331,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आयतः शमितलोचनतापस्
 
 तस्य विस्फुरति केशकलापः ॥८६॥
+
+
 
 हेलया जितसुधाकरबिम्बं
 
@@ -20922,6 +27342,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राजते लवणिमामृदुलास्यम् ॥८७॥
 
+
+
 चञ्चलालककुलाकुलसीमा
 
 चारुचित्रतिलकेन सुषीमा ।
@@ -20929,6 +27351,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तस्य सौभगसुधारसवाटी
 
 भाति भालमहसः परिपाटी ॥८८॥
+
+
 
 चारुचापलरुचामुपकर्त्री
 
@@ -20938,6 +27362,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रूलतास्य वलतेऽप्रतिरूपा ॥८९॥
 
+
+
 कारणेऽप्यसति कूणितकोणे
 
 फुल्लकोकनदसोदरशोणे ।
@@ -20945,6 +27371,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निर्व्यलीककरुणारसपूर्णे
 
 पूर्णया मदमुदा घनघूर्णे ॥९०॥
+
+
 
 द्राघिमाणमनघं प्रथिमानं
 
@@ -20954,6 +27382,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लोचने अघरिपोः शुशुभाते ॥९१॥
 
+
+
 नसिकास्य तिलपुष्पसुशोभा
 
 सौभगेन विहिताधिकलोभा ।
@@ -20961,6 +27391,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भात्यधोमुखमनोजनिसङ्गा
 
 कीरसारपरिवारविभङ्गा ॥९२॥
+
+
 
 कर्णयोर्मकरकुण्डलहेला
 
@@ -20970,6 +27402,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा द्वयी जयति तस्य सुशोभा ॥९३॥
 
+
+
 लोलकुण्डलमणिप्रतिबिम्बं
 
 प्रेयसीगणपणीकृतचुम्बम् ।
@@ -20977,6 +27411,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भाति मन्दहसितोन्नतिकान्तं
 
 गण्डमण्डलममुष्य नितान्तम् ॥९४॥
+
+
 
 सृक्कणेर्मधुरिमामृतकूपं
 
@@ -20986,6 +27422,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्य राजतितरामधरौष्ठम् ॥९५॥
 
+
+
 भाति पक्वयमजाम्बवशोभा
 
 भावुकस्य चिवुकस्य सुशोभा ।
@@ -20993,6 +27431,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निम्नमध्यमधुरातिगभीरा
 
 प्रेयसो लवणिमामृतधारा ॥९६॥
+
+
 
 ज्योतिषा पुरुपराहतमुक्ताः
 
@@ -21002,6 +27442,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निन्द्यमानशिखरौघमयूखाः ॥९७॥
 
+
+
 चारुपाकिमसुदाडिमबीजाद्
 
 अभ्रविभ्रमसमाहितपूजाः ।
@@ -21009,6 +27451,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चिद्विलासमहसामिव सारा
 
 भान्ति तस्य दशनाः स्मितपूराः ॥९८॥
+
+
 
 आननोदरमहो मधुरिम्णां
 
@@ -21018,6 +27462,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भाति तस्य रसनारुणशोभा ॥९९॥
 
+
+
 अग्रतः क्रमसुशोभनपुष्टः
 
 सुत्रिरेखसुषमाधिकमिष्टः ।
@@ -21025,6 +27471,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निन्दितेन्द्रमणिकम्बुरकण्ठः
 
 शोभतेऽस्य दयितस्य स कण्ठः ॥१००॥
+
+
 
 श्रीवधूवसतिवास्तुवरः श्री
 
@@ -21034,6 +27482,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शोभते मणिकवाटकरालः ॥१०१॥
 
+
+
 कन्धरामधुरिमश्रुतिहेतोर्
 
 निम्नमध्यमतिसद्गुणसेतोः ।
@@ -21041,6 +27491,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 बाहुमूलपरिपुष्टिगरिष्ठं
 
 चारु पार्श्वरुचि राजति पृष्ठम् ॥१०२॥
+
+
 
 भाति तस्य तदलं गजशुण्डा
 
@@ -21050,6 +27502,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दोर्युगं मणियुगोत्तमलीलम् ॥१०३॥
 
+
+
 सप्रपञ्चनखमण्डलधाम्ना
 
 पञ्चशाखयुगलेन सुभूम्ना ।
@@ -21057,6 +27511,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पञ्चपञ्चमणिमण्डलचञ्चत्
 
 पञ्चशीर्षभुजगाकृतिमञ्चत॥१०४॥
+
+
 
 पिप्पलच्छदपरिच्छदविन्दे
 
@@ -21066,6 +27522,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कस्य मुह्यति न धी रतिकान्ते ॥१०५॥
 
+
+
 नाभिकूपविवरात्समुदीर्णा
 
 चारुलोमलतिका रसपूर्णा ।
@@ -21073,6 +27531,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सा बलिक्रमपराक्रमभुग्ना
 
 तस्य चेतसि न कस्य निमग्ना ॥१०६॥
+
+
 
 इष्टमिष्टरुचि मुष्टिविलग्नं
 
@@ -21082,6 +27542,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शाम्भवस्य डमरोरपि दर्पः ॥१०७॥
 
+
+
 उन्नतिअस्फिचि सवीचिमरीचि
 
 स्तोमकोमलिमकेलिसमीचि ।
@@ -21089,6 +27551,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यन्नितम्बफलके सुवपञ्ची
 
 स्वानजिज्जयति काञ्चनकाञ्ची ॥१०८॥
+
+
 
 श्यामरामकदलीवरकाण्डे
 
@@ -21098,6 +27562,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कस्तदूरुमभि नेच्छति लिप्साम् ॥१०९॥
 
+
+
 पिण्डितो मधुरिमेव न चोच्चैर्
 
 मांसलं सुवलितं न च नीचैः ।
@@ -21105,6 +27571,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सम्पुटं रतिपतेरिव धाम्नाम्
 
 अस्य जानु जयतान्मधुरिम्ना ॥११०॥
+
+
 
 जानुतः क्षरदधोमुखधारा
 
@@ -21114,6 +27582,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मूलतः क्रमकृशवरजङ्घा ॥१११॥
 
+
+
 राजतोऽस्य घूतिके गुणसिन्धोर्
 
 बुद्बुदाविव महो रससिन्धोः ।
@@ -21121,6 +27591,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कामकेलिगुलिके इव दिव्ये
 
 रम्यनीपकलिके इव नव्ये ॥११२॥
+
+
 
 माधुरीसरिदधोमुखधारा
 
@@ -21130,6 +27602,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भूषिता नखमयूखलताभिः ॥११३॥
 
+
+
 अङ्कुशध्वजसरोजयवाद्यैर्
 
 लक्ष्मभिः परमलक्ष्मभिराद्यैः ।
@@ -21138,7 +27612,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सा द्वयी चरणयोः सुखसीमा ॥११४॥
 
+
+
 आनन्दवृन्दावनचम्पू ८.५७—
+
+
 
 ईदृशा पुरुषभूषणेन या
 
@@ -21148,6 +27626,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धिक्तदीयगुणरूपसम्पदः ॥११५॥
 
+
+
 जीवितं सखि पणीकृतं मया
 
 किं गुरोश्च सुहृदश्च मे भयम् ।
@@ -21155,6 +27635,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लभ्यते स यदि कस्य वा भयं
 
 लभ्यते न यदि कस्य वा भयम् ॥११६॥
+
+
 
 मां धवो यदि निहन्ति हन्यतां
 
@@ -21164,6 +27646,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 माधवः स्वयमुरीकृतो मया ॥११७॥
 
+
+
 व्रीडां विलोडयति लुञ्चति धरियमार्य
 
 भीतिं भिनत्ति परिलुम्पति चित्तवृत्तिम् ।
@@ -21172,7 +27656,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दृष्टः स किं न कुरुतां सखि मद्विधानाम् ॥११८॥
 
+
+
 अलङ्कारकौस्तुभः ३.२१ (?)—
+
+
 
 विलासचेष्टाः सखि केशिनाशिनो
 
@@ -21182,7 +27670,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेमा विकारी हृदि हृद्व्रणो यथा ॥११९॥
 
+
+
 पद्यावली १७६—
+
+
 
 स्वामी कुप्यति कुप्यतां परिजना निन्दन्ति निन्दन्तु माम्,
 
@@ -21192,7 +27684,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 येनेदं परिपीयते मुररिपोः सौन्दर्यसारं वपुः ॥१२०॥
 
+
+
 पद्यावली १६५—
+
+
 
 अद्य सुन्दरि कलिन्दनन्दिनी
 
@@ -21202,7 +27698,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 माधवो हरति मामकं मनः ॥१२१॥
 
+
+
 विदग्धमाधव १.३७—
+
+
 
 एष स्थैर्यभुजङ्गसङ्घदमनासङ्गे विहङ्गेश्वरो
 
@@ -21212,7 +27712,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कालिन्दीतटमण्डलीषु मुरलीतुण्डाद्ध्वनिर्धावति ॥१२२॥
 
+
+
 सङ्ग्रहकर्तुः (?)—
+
+
 
 शृणु सखि गुरवोऽन्तः शेरते साम्प्रतं ते
 
@@ -21222,6 +27726,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदभिसर रसेन स्वप्रियं केलिकुञ्जे ॥१२३॥
 
+
+
 अनुपदवनमालप्रेमसन्दर्शिताध्वा
 
 कुसुमशरभटेनैवाभितः पाल्यमाना ।
@@ -21230,7 +27736,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रमलवमपि राधे नाध्वनो ज्ञास्यसि त्वं ॥१२४॥
 
+
+
 उज्ज्वलनीलमणि १५.७४—
+
+
 
 इन्दुस्तुन्दिलमण्डलं प्रणयते वृन्दावने चन्द्रिकां
 
@@ -21240,7 +27750,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किं वर्त्मन्यरविन्दचारुचरणद्वन्द्वं न सन्धित्ससि ॥१२५॥
 
+
+
 गोविन्दलीलामृतं २१.२३—
+
+
 
 श्रीराधिकाप्यशकलेन्दुकरोज्ज्वलायां
 
@@ -21250,7 +27764,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शुक्लाभिसाररचनां चतुरा चकार ॥१२६॥
 
+
+
 गोविन्दलीलामृतं २१.२५—
+
+
 
 कदाचित्तामस्यामसितवसना सा मृगमदैर्
 
@@ -21260,7 +27778,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निराबाधा राधा प्रियमभिसरत्यालिसहिता ॥१२७॥
 
+
+
 कृष्णाह्निककौमुदी ६.१४१९—
+
+
 
 मुक्ताजालैर्वलयरसनादामहाराद्यनागः
 
@@ -21270,6 +27792,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीताडङ्काः श्रुतिकिशलयप्रान्तयोः कान्तदान्ताः ॥१२८॥
 
+
+
 हंसश्येना प्रपदवसनप्रान्तभागैरकुण्ठैर्
 
 आच्छन्नभ्रूनयनमहसां क्ÿप्तदीर्घावगुण्ठैः ।
@@ -21277,6 +27801,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कर्पूराणां पथि पथि रजोवर्षणेनैव नासां
 
 चक्रुश्छायाविसदृशतया चित्रमेतत्तदासाम् ॥१२९॥
+
+
 
 अत्यौत्सुख्यात्त्वरितगतयः श्रोणिभारप्रथिम्ना
 
@@ -21286,6 +27812,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हस्तालम्बं क्वचन विदधुः श्रान्तिश्रान्त्यै सुरीत्या ॥१३०॥
 
+
+
 ऊरुस्तम्भो गमनविरहं वेपथुर्गात्रलौल्यं
 
 हर्षाश्रं च क्षितिपरिचयाभावतः प्रातिकूल्यम् ।
@@ -21293,6 +27821,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 चक्रुस्तासां मलयजरसोल्लासनं रोमहर्षा
 
 रेजुर्ज्योत्स्नाभिसरणविधौ केवलं हासवर्षाः ॥१३१॥
+
+
 
 ज्योत्स्नाजाले निजनिजतनुज्योत्स्नयोल्लासयन्त्यः
 
@@ -21302,6 +27832,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नैव ज्ञाता अपि शशभृति स्वांशुजालप्रतीत्या ॥१३२॥
 
+
+
 श्रोणीभारप्रथिमनि समालम्बमानं विलम्बं
 
 राधा प्राणप्रियतमसखीर्दत्तहस्तावलम्बम् ।
@@ -21310,7 +27842,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 खेदस्वेदक्षुभिततनुका हन्त जग्लौ सुदन्ती ॥१३३॥
 
+
+
 पद्यावली २११—
+
+
 
 द्वित्रैः केलिसरोरुहं त्रिचतुरैर्धम्मिल्लमल्लीस्रजं
 
@@ -21320,7 +27856,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तन्वङ्गी निरुपायमध्वनि परं श्रेणीभरं निन्दति ॥१३४॥
 
+
+
 गोविन्दलीलामृतं २१.२६—
+
+
 
 वृक्षच्छाये पथि पथि भिया वञ्चयन्ती स्वगम्यं
 
@@ -21330,7 +27870,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यन्त्राकारे व्रजवनभुवा प्राप कृष्णासमीपम् ॥१३५॥
 
+
+
 गोविन्दलीलामृतं २१.२८—
+
+
 
 श्रीगोविन्दस्थलाख्यं तटमिदममलं कृष्णसंयोगपीठं
 
@@ -21340,7 +27884,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रेणीकिञ्जल्कमेषा दशशतदलराजीवतुल्यं ददर्श ॥१३६॥
 
+
+
 गोविन्दलीलामृतं २१.३३३४—
+
+
 
 कल्पद्रुमैर्वाञ्छितदानकल्पैर्
 
@@ -21350,6 +27898,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सन्तानकैः सम्मदतानकैश्च ॥१३५॥
 
+
+
 शश्वद्धरेश्चित्तशरीरचन्दनैर्
 
 यच्चन्दनैः श्रीहरिचन्दनैरपि ।
@@ -21358,7 +27908,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्याप्तं लताराजिविराजिताङ्गकैः ॥१३६॥
 
+
+
 गोविन्दलीलामृतं २१.३७—
+
+
 
 वल्ल्यः सर्वा यत्र ताः कल्पवल्ल्यो
 
@@ -21368,17 +27922,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जात्या या ये तादृशः किन्तु तास्ते ॥१३७॥
 
+
+
 गोविन्दलीलामृतं २१.४६—
+
+
 
 शाला भान्ति चरास्तोये यत्र शाला स्थिरा स्थले ।
 
 रोहितोऽप्सु चरस्तीरे रोहितौ च चरस्थिरौ ॥१३८॥
 
+
+
 गोविन्दलीलामृतं २१.५५५९—
+
+
 
 यत्कर्णहारिहारीतभरद्वाजशुकोक्तिभिः ।
 
 वत्सगालवशाण्डिल्यान्वितं मुनिसदो यथा ॥१३९॥
+
+
 
 श्रुतिऋतुवसुकोणैर्मण्डलाङ्गैश्च कैश्चिद्
 
@@ -21388,6 +27952,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वलितललितमूलाकुट्टिमैः सालबालैः ॥१४०॥
 
+
+
 नीलरक्तमणिबद्धकुट्टिमाः
 
 केचिदिन्दुमणिजालवालकाः ।
@@ -21395,6 +27961,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नीलरक्तमणिजालवालकाः
 
 केऽपि चन्द्रमणिबद्धकुट्टिमाः ॥१४१॥
+
+
 
 वृक्षा हैमा हरिमणिमयैः काञ्चनैरैन्द्रनीला
 
@@ -21404,6 +27972,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दीव्यन्त्यस्मिन्व्रततिवलयैः श्लिष्टशाखाः प्रफुल्लाः ॥१४२॥
 
+
+
 हरिमणिभुवि हैमा वैद्रुमा वैद्रुमाश्च
 
 स्फटिकमणिधरायां स्फाटिकाः स्वर्णभूमौ ।
@@ -21412,7 +27982,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मरकतमणिधात्र्यां पद्मरागा विभान्ति ॥१४३॥
 
+
+
 गोविन्दलीलामृतं २१.६२६४—
+
+
 
 स्वभावमालाकृतिपुष्पभाजां
 
@@ -21422,6 +27996,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीकृष्णलीलोचितवस्तुभाञ्जि ॥१४४॥
 
+
+
 कुसुमरचितशय्योल्लोचभूषोपधानैः
 
 समधुचषकताम्बूलाम्बुगन्धादिपात्रैः ।
@@ -21429,6 +28005,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 व्यजनमुकुरसिन्दूराञ्जनामत्र कैश्चा
 
 न्वितमणिनिचितान्तर्भूमयो भूरिचित्राः ॥१४५॥
+
+
 
 कुसुमितबहुवल्लीमण्डलैर्भित्तिकल्पैर्
 
@@ -21438,7 +28016,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मणिमयगृहतूल्या यत्र कुञ्जा विभान्ति ॥१४६॥
 
+
+
 गोविन्दलीलामृतं २१.६६८१—
+
+
 
 कपोतपारावतकोकिलानां
 
@@ -21448,6 +28030,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चाषालिलावावलिवर्तकानाम् ॥१४७॥
 
+
+
 यच्छौकशारीततिचाटकानां
 
 कालिङ्गपादायुधतैत्तिरीणाम् ।
@@ -21456,9 +28040,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वनैर्विलासैः श्रुतिनेत्रहारि ॥१४८॥ (युग्मकम्)
 
+
+
 विस्तीर्णा रत्नचित्रान्ता तदन्तःकनकस्थली ।
 
 निकुञ्जमण्डलैः कल्पद्रुमानामस्ति वेष्टिता ॥१४९॥
+
+
 
 मध्ये विचित्रमणिमन्दिरमस्ति तस्याः
 
@@ -21468,6 +28056,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सन्तानकाद्यपरवृक्षचतुष्टयेन ॥१५०॥
 
+
+
 स्वकान्तिजालायतलोलपक्षैर्
 
 ऊर्ध्वक्रमात्कुञ्चितपूर्वपादैः ।
@@ -21475,6 +28065,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पश्चादधो न्यस्तदरायतान्य
 
 स्वीयाङ्घ्रियुग्मार्पितदेहभारैः ॥१५१॥
+
+
 
 माणिक्या नेत्रै रविकान्तगात्रैर्
 
@@ -21484,6 +28076,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यदुह्यमानं वियतीव दिक्षु ॥१५२॥
 
+
+
 सुचेलतूलीषुतहेमकर्णिकं
 
 खट्टायमानं मणिकान्तिकेशरम् ।
@@ -21491,6 +28085,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यस्यान्तरष्टच्छदपद्मसन्निभं
 
 कृष्णस्य सिंहासनमस्ति काञ्चनम् ॥१५३॥ (सन्दानितकम्)
+
+
 
 लघुरत्नालयस्वाङ्कैः कुञ्जैः कल्पलतावृतैः ।
 
@@ -21512,6 +28108,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पृथक्तत्तत्पुष्पबाटीवलितेन समन्ततः ॥१५८॥
 
+
+
 तद्बहिर्भूरिभेदानां नम्राणां फलभारतः ।
 
 आराममण्डलैस्तैस्तैर्वेष्टितं फलभूरुहाम् ॥१५९॥
@@ -21528,7 +28126,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तद्बहिर्वृतकण्ठानां पूगानां मण्डलैर्वृतम् ॥१६२॥
 
+
+
 गोविन्दलीलामृतं २१.८५—
+
+
 
 स्वपार्श्वयोः श्रीबकुलावलिभ्यां
 
@@ -21538,7 +28140,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चत्वारि वर्त्मानि विभान्ति दिक्षु ॥१६३॥
 
+
+
 गोविन्दलीलामृतं २१.९४९५—
+
+
 
 कल्पद्रुमाधःस्थितरत्नमन्दिरं
 
@@ -21548,6 +28154,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रियागणः केलिनिकुञ्जमाह च ॥१६४॥
 
+
+
 एवंविधं तं स्थलराजतल्लजं
 
 कन्दर्पलीलासुखसत्रमन्दिरम् ।
@@ -21556,7 +28164,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वीक्ष्यापराधा ससखीततिर्मुदम् ॥१६५॥
 
+
+
 कृष्णाह्निककौमुदी ६.२५२७—
+
+
 
 तस्मिन्कुञ्जप्रवरसविधे रत्नवेयां प्रकृष्ट
 
@@ -21566,6 +28178,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रत्युद्गम्याभ्युपगमयितुं प्रेरयामास वृन्दाम् ॥१६६॥
 
+
+
 निर्गच्छन्त्या द्रुतमथ तयालोकि पूर्द्वार एव
 
 ज्योत्स्नामूर्तिर्विबुधलतिकावाटिका जङ्गमेव ।
@@ -21573,6 +28187,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तां प्रापय्योपवनलतिकां राधिकां सप्रहर्षं
 
 चक्रेऽन्योन्यद्युतिवितरणेऽन्योन्यमेव प्रकर्षम् ॥१६७॥
+
+
 
 चेतोमध्याद्बहिरिव गतं वीक्ष्य सा वीतबाधा
 
@@ -21582,7 +28198,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पन्थाः को वा मम समजनीत्याममर्श प्रतीताः ॥१६८॥
 
+
+
 कृष्णाह्निककौमुदी ६.२९३१—
+
+
 
 सा तं दृष्ट्वा तदुपविपिनं तां निशां चन्द्रिकाभिः
 
@@ -21592,6 +28212,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तानस्तौषीन्मनसि मुदिता विस्मृताशेषदाहः ॥१६९॥
 
+
+
 अध्वश्रान्ताः सुमृदुलतनूर्माधवीमण्डपानां
 
 द्वारि द्वारि प्रतिजनममूः स्थापयित्वा समानाम् ।
@@ -21599,6 +28221,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वृन्दा प्रत्यादिशदनुलतं पल्लवैर्वीजनार्थं
 
 ताः कुर्वत्यस्तदथ मुदिता मेनिरे स्वं कृतार्थम् ॥१७०॥
+
+
 
 यावच्छ्रान्तिं व्यपनयति सा श्रेणिरेणीक्षणानां
 
@@ -21608,7 +28232,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वीयं वासो व्यजनमकरोत्तास्त्रपामबबन्धुः ॥१७१॥
 
+
+
 उज्ज्वलनीलमणि ११.३३—
+
+
 
 अध्यासीनममुं कदम्बनिकटे क्रीडाकुटीरस्थलीम्
 
@@ -21618,7 +28246,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कालिन्दी तव दृक्तरङ्गितभरैस्तन्वङ्गि गङ्गायते ॥१७४॥
 
+
+
 उज्ज्वलनीलमणि १२.३१—
+
+
 
 जङ्घे स्थावरतां गते परिहृतस्पन्दा द्वयी नेत्रयोः
 
@@ -21628,7 +28260,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 साक्षात्कारमिते मनोऽपि मुनिवन्मन्ये समाधिं दधे ॥१७५॥
 
+
+
 आनन्दवृन्दावनचम्पू १९.५५७२—
+
+
 
 अनिशमनिमिषाभ्यां लोचनाभ्यामथैका
 
@@ -21638,6 +28274,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 इयमपि च नितान्तं पीयमानापि पूर्णा ॥१७६॥
 
+
+
 तं कापि लोचनपथेन निवेश्य चित्ते
 
 तेनैव निर्गमनशङ्कनतो नताक्षी ।
@@ -21645,6 +28283,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्कालमेव विनिमीलितलोचनैव
 
 रोमाञ्चिता विधुमुखी चिरमालिलिङ्ग ॥१७७॥
+
+
 
 काचित्काञ्चनमञ्जरीव विनमद्गात्री मनोरागजैर्
 
@@ -21654,6 +28294,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गर्वेणैव चकार चम्पकधनुःकम्पस्य सम्पादकम् ॥१७८॥
 
+
+
 अभ्युन्नीय परस्पराङ्गुलिदलव्यासङ्गि पाणिद्वयं
 
 लीलालस्यविलुप्तये तनुलतामुल्लासयन्ती तिरः ।
@@ -21661,6 +28303,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मूर्ध्नः सीमनि मण्डलीकृतमतिस्मेरस्य हर्षोदयात्
 
 वक्त्रेन्दोः परिधीचकार भुजयोर्युग्मं चकोरेक्षणा ॥१७९॥
+
+
 
 वामा वामकराङ्गुलीदलयुगेनातन्वती छोटिकां
 
@@ -21670,6 +28314,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्या एव हि वर्त्मकल्पनकृतारम्भेव जृम्भां व्यधात॥१८०॥
 
+
+
 आनीय काप्युरसि पाणिदलेन वेणीम्
 
 एणीदृगुन्नतपयोधरयोर्निवेश्य ।
@@ -21677,6 +28323,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दोर्भ्यां निपीड्य निविडं विनिमीलिताक्षी
 
 रोमाञ्चकञ्चुकतनूश्चिरमालिलिङ्ग ॥१८१॥
+
+
 
 आघ्राय धूनितशिरः सरसं च वीक्ष्य
 
@@ -21686,6 +28334,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लीलारविन्दमरविन्दमुखी चुचुम्ब ॥१८२॥
 
+
+
 काचिच्चकोरनयना नयनाञ्चलेन
 
 लीलाऽऽलसेन दयिताननमीक्षमाणा ।
@@ -21693,6 +28343,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आलीजनांसतटवेल्लितबाहुवल्लिर्
 
 मूर्तेव सौभगमहाधनमत्तताभूत॥१८३॥
+
+
 
 दोर्भ्यां लसत्कनककङ्कणझङ्कृताभ्यां
 
@@ -21702,6 +28354,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नो वेति तं निरसितुं तमिवान्वियेष ॥१८४॥
 
+
+
 भुजाया वामायाः कलमधुरझङ्कारिवलयं
 
 सलीलं धूतायाः करदलकनीयोऽङ्गुलिकया ।
@@ -21709,6 +28363,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वितन्वाना वामश्रुतिकुहरकण्डूमथ परा
 
 व्यधात्कामक्रीडासमरजयघण्टाध्वनिमिव ॥१८५॥
+
+
 
 करेणासव्येन प्रचलवलयालिध्वनिभूता
 
@@ -21718,6 +28374,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 महानेवावर्तो नभसि नवलावण्यसरितः ॥१८६॥
 
+
+
 मुदितमदनमोदामर्षघर्माम्बुसिक्तं
 
 निजवपुरथ काचित्स्वोत्तरीयाञ्चलेन ।
@@ -21725,6 +28383,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 व्यजयत कृतहेलं लीलया वीजयन्ती
 
 स्मरसमरपताका मारुतेनाधुतेव ॥१८७॥
+
+
 
 अन्तःप्रफुल्लदभिलाषलताततीनां
 
@@ -21734,6 +28394,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णवलोकनमहोत्सवपुष्पवर्षम् ॥१८८॥
 
+
+
 आनन्दजैर्नवकुरङ्गविलोचनाया
 
 बाष्पाम्बुभिर्नयनयुग्मकमापुपूरे ।
@@ -21741,6 +28403,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कृष्णं विलोकयसि धन्यमसीति गाढं
 
 प्रेम्णा द्रुतेन मनसेव तदालिलिङ्गे ॥१८९॥
+
+
 
 एकां च काञ्चनमयप्रतिमायमानां
 
@@ -21750,6 +28414,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सौभाग्यभारगरिमैव पराबभूव ॥१९०॥
 
+
+
 आमूलतो मुकुलितेव कदम्बशाखा
 
 काचिद्बभूव विपुलैः पुलकैः किमस्याः ।
@@ -21757,6 +28423,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 बाणान्स्मरस्य विरहे हृदि सम्प्रविष्टान्
 
 श्रीकृष्णचुम्बकमणिर्बहिराचकर्ष ॥१९१॥
+
+
 
 अम्भःकणाकुलितकाञ्चनपद्मिनीव
 
@@ -21766,6 +28434,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यत्स्यन्दते स्म बत मानसचन्द्रकान्तः ॥१९२॥
 
+
+
 कृष्णं विलोक्य चलचारुचकोरनेत्रा
 
 सञ्चारिचम्पकलतेव चिरं चकम्पे ।
@@ -21774,7 +28444,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हृद्भूमिकम्पमिव मत्ततया व्यधत्त ॥१९३॥
 
+
+
 आनन्दवृन्दावनचम्पू १९.७४७५—
+
+
 
 वेणीं विमुच्य कुटिलां निजबाहुमूले
 
@@ -21784,6 +28458,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षिप्त्वोत्तरीयसहितामपसर्पमीये ॥१९४॥
 
+
+
 अभिमुखमवलोक्य कापि भृङ्गं
 
 करकमलेन सलीलमुद्धुनाना ।
@@ -21792,7 +28468,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्यधित वधूरधरौष्ठसम्पिधानं ॥१९५॥
 
+
+
 भाववशीभूता पूर्वमागतमपि अनागच्छन्तमिव मन्यमानाह, सङ्ग्रहकर्तुः (?)—
+
+
 
 अत्रैवावसरे व्यजिज्ञपदितस्तं रूपमञ्जर्यमूः
 
@@ -21802,6 +28482,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शङ्के मोहयितैव मन्त्रबलभागाल्यः करोम्यत्र किम् ॥१९६॥
 
+
+
 इत्युक्त्वैव शनैः ससम्भ्रमपदन्यासैः स्वमञ्जीरगीः
 
 सातङ्कैव कदम्बषण्डविटपैः स्वं निह्नुवानैव सा ।
@@ -21810,7 +28492,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रक्षाव्यग्रधियेव कुब्जिततनुः सद्माविशद्वाञ्जुलम् ॥१९७॥
 
+
+
 गोविन्दलीलामृतं २१.११११२०—
+
+
 
 कृष्णोऽपि तासामवलोकजाता
 
@@ -21820,6 +28506,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कान्तामपश्यन्नवदत्तदालीः ॥१९८॥
 
+
+
 वयस्या वः सख्यः क्व नु निजगृहे तद्विरहिताः
 
 कथं यूयं प्राप्ताः कुसुममवचेतुं रविकृते ।
@@ -21827,6 +28515,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कुतस्तत्सौरभ्यं प्रसरति तदङ्गेन मिलिताच्
 
 छरिरादस्माकं वितत्थमिदमस्त्वेव वितथम् ॥१९९॥
+
+
 
 तां विना न वने युष्मद्गतिः सम्भाव्यते क्वचित।
 
@@ -21852,6 +28542,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्तब्धां स्वालोकमुद्भीभ्यां मेने पञ्चालिकां प्रियः ॥२०५॥
 
+
+
 तां लालसा दयितसङ्गतये पुरस्ताद्
 
 द्रग्वामतापसृतये च चकर्ष पश्चात।
@@ -21859,6 +28551,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तावन्मुदुत्थजडतैत्य निवार्य तां तां
 
 वामा सखीव निरुरोध हरेः पुरस्तात॥२०६॥
+
+
 
 तां स्प्रष्टुमुत्सुकतयेरितमन्तिकाप्तं
 
@@ -21868,7 +28562,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रापय्य तत्करमधारयदाशु सोग्रा ॥२०७॥
 
+
+
 गोविन्दलीलामृतं २२.५—
+
+
 
 तत्काननं तां रजनीं प्रियास्ताः
 
@@ -21878,7 +28576,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स प्रेरितो रासविलासवाञ्छया ॥२०८॥
 
+
+
 गोविन्दलीलामृतं २१.१२२१२७—
+
+
 
 स्मेरारुणान्तकुटिलाश्रुकलाञ्चिपक्ष्म
 
@@ -21888,6 +28590,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेक्स्यामितां मुदमवाप हरिः प्रियास्यम् ॥२०९॥
 
+
+
 नासारसज्ञाश्रुतिनेत्रवर्ष्मभिर्
 
 लुब्धैः स्वतत्तद्विषये प्रियौ मिथः ।
@@ -21895,6 +28599,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तौ लुण्ठयामासतुरङ्गनीवृतं प्रिया
 
 छलाच्छन्नमयं बलात्स्फुटम् ॥२१०॥
+
+
 
 गूढौ पुनः स्वर्णघटौ विमोषितुं
 
@@ -21904,6 +28610,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 करेण सारुद्ध परं न वाञ्छितम् ॥२११॥
 
+
+
 इति सुमधुरलीलानन्दसिन्धौ निमग्ने
 
 शिथिलिततनुचित्ते प्रेयसि प्रेयसी सा ।
@@ -21911,6 +28619,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्रियसहनिजलीलालोकनायागताली
 
 वलितमुदितवाम्या कुट्टिमं प्राप गेहात॥२१२॥
+
+
 
 हरिरपि रसभङ्गैः प्रापितस्तत्समीपं
 
@@ -21920,6 +28630,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रणयकुटिलदृष्टिः संस्पृशन्मोदमाप ॥२१३॥
 
+
+
 यदपि हृदि विवृद्धां काञ्चिदाशान्तयोस्तां
 
 न्यरुणदतिबलिष्ठा वामतैत्य प्रियायाः ।
@@ -21928,19 +28640,29 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रथयति हि सुखाब्धीन्वामताप्यङ्गनानाम् ॥२१४॥
 
+
+
 इति श्रीश्रीभावनासारसङ्ग्रहे प्रदोषलीलास्वादनं नाम
 
 सप्तमः सङ्ग्रहः ॥
 
 ॥७॥
 
+
+
 ओ)०(ओ
+
+
+
+
 
 (८)
 
 अष्टमसङ्ग्रहः
 
 अथ नक्तलीला
+
+
 
 श्रीश्रीवासगृहे मुदा परिवृतो भक्तैः स्वनामावलीं
 
@@ -21950,7 +28672,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विश्रान्तः स शचीसुतः कृतकलाहारो निषेव्यो मम ॥१॥
 
+
+
 गोविन्दलीलामृत २२.१११—
+
+
 
 तावुत्कौ लब्धसङ्घौ बहुपरिचरणैर्वृन्दयाराध्यमानौ
 
@@ -21960,6 +28686,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधाकृष्णौ निशायां सुकुसुमशयने प्राप्तनिद्रौ स्मरामि ॥२॥
 
+
+
 वृन्दा सवृन्दाथ सहालिवृन्दौ
 
 वृन्दावनेशावनुनाथ्य नाथौ ।
@@ -21967,6 +28695,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तदालयालिन्दमनिन्दशोभं
 
 पूर्णेन्दुकान्त्युज्ज्वलितं निनाय ॥३॥
+
+
 
 सा तत्र तौ पुष्पचितान्तरायां
 
@@ -21976,6 +28706,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न्यवीविशत्काञ्चनवेदिकायाम् ॥४॥
 
+
+
 आवेशनादालिगणोपनीतैर्
 
 विचित्रपुष्पाभरणैश्च नाल्यैः ।
@@ -21983,6 +28715,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ताम्बूलगन्धव्यजनैः सुतोयैः
 
 सा तौ निजेशौ सगणौ सिषेवे ॥५॥
+
+
 
 तत्काननं तां रजनीं प्रियास्ताः
 
@@ -21992,6 +28726,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स प्रेरितो रासविलासवाञ्छया ॥६॥
 
+
+
 सगणोऽरण्यविहृतिश्चक्रभ्रमणनर्तनम् ।
 
 हल्लीसकं युग्मनृत्यं ताण्डवं लास्यमेककम् ॥७॥
@@ -21999,6 +28735,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्तत्प्रबन्धगानं च सनृत्यरतिनर्मणी ।
 
 जलखेलेत्यमून्येष रासाङ्गानि व्यधात्क्रमात॥८॥ (युग्मकम्)
+
+
 
 ज्योत्स्नोज्ज्वलं मन्दसमीरवेल्लितं
 
@@ -22008,9 +28746,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वनं समीक्ष्यात्र विहर्तुमैच्छत॥९॥
 
+
+
 वंशीगानेन तास्वेष ज्ञापयामास वाञ्छितम् ।
 
 तन्नाम्नैवानुगानेन स ताभिश्चानुमोदितः ॥१०॥
+
+
 
 कानने सुधांशुकान्तिशुभ्रमञ्जुविग्रहे ।
 
@@ -22020,6 +28762,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एवमस्तु कृष्ण कृष्ण कृष्ण कृष्ण कान्त हे ॥११॥
 
+
+
 उत्थितः स्वरमणीगणसङ्गी
 
 वृन्दयाप्यनुगतो मृदु गायन।
@@ -22028,7 +28772,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स प्रदक्षिणतया भ्रमति स्म ॥१२॥
 
+
+
 आनन्दवृन्दावनचम्पू १७.१३—
+
+
 
 हरिति हरिति हारी पूर्णयन्कर्णमोदं
 
@@ -22038,6 +28786,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गतिमतनुत मन्दश्चान्दनो गन्धवाहः ॥१३॥
 
+
+
 कुसुमकुलमफुल्लं मल्लिकावल्लिकानां
 
 मदमधुपयुवानोऽलङ्कृतो झङ्कृतेन ।
@@ -22045,6 +28795,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 उपरि परिपिबन्तो वादयन्ते स्म शङ्खान्
 
 इव निविडनिदाघश्रीविहारोत्सवस्य ॥१४॥
+
+
 
 सरसि सरसि सारं सारमामोदमीयुर्
 
@@ -22054,7 +28806,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्यधिषत रतिकेलिं चञ्चलाश्चञ्चरीकाः ॥१५॥
 
+
+
 आनन्दवृन्दावनचम्पू १७.६५७८—
+
+
 
 आनन्देन समन्ततो जयजयेत्युत्कीर्तितं पत्रिभिर्
 
@@ -22064,6 +28820,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुष्पाणां मकरन्दबिन्दुनिवहैः स्विन्नं धरण्यापि च ॥१६॥
 
+
+
 समेताभिस्ताभिः सह स हरिरानन्दलहरी
 
 हरिद्वृन्दाप्लावी स्मितमधुरमुग्धास्यविधुभिः ।
@@ -22071,6 +28829,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अकम्पाभिः शम्पाततिभिरिव सम्पालिततनुर्
 
 धराधारो धाराधर इव नवीनो व्यहरत ॥१७॥
+
+
 
 सोत्कण्ठैरुपगीयमानचरितः प्रेम्णा सुकण्ठीगणैः
 
@@ -22080,6 +28840,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बिभ्राणः प्रतिभूरुहं प्रतिलतं बभ्राम दामोदरः ॥१८॥
 
+
+
 चित्रैः पत्रैर्नखविदलितैः कल्पयन्पत्रलेखां
 
 नानापुष्पैः स्वकरविचितैः कञ्चुलीं निर्मिमाणः ।
@@ -22087,6 +28849,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वल्लीखण्डैः स्तवकचटुलैः साधयन्नङ्गदादीन्य्
 
 आसां तेनेऽलकललिततां धूलिभिः कौसुमीभिः ॥१९॥
+
+
 
 हारं मल्लीकुसुमनिकरैः पत्रपाश्यां कदम्बैर्
 
@@ -22096,6 +28860,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कुर्वन्स्वीयां युगपदनघां दर्शयामास शिक्षाम् ॥२०॥
 
+
+
 काचित्केशरकुट्मलं श्रवणयोः काचित्कचे केतकीं
 
 काचिद्वक्षसि तस्य मल्लिकुसुमैराकल्प्य हारोत्तमम् ।
@@ -22104,7 +28870,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 काचित्कङ्कणमङ्गदं च बकुलैः काचिच्च काञ्चीगुणम् ॥२१॥
 
+
+
 तेषु चारब्धे वनविलासे निराविलासे निराकरणरणन्मदकलकलकण्ठरोलम्बलम्बमानकलझङ्कारमाधुरीधुरीणासु दिङ्मण्डलीषु मदनमदनमद्धियो धियोढकृष्णरतयो यूथश एव—
+
+
 
 पुन्नागेभ्यः कनकरुचिभिश्चीयमानैः परागैर्
 
@@ -22114,6 +28884,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 झञ्झङ्कारक्षुभितवलयैरप्यधुः प्राणनाथम् ॥२२॥
 
+
+
 नानापुष्पैः स्वयमवचितैः कन्दुकान्कल्पयित्वा
 
 तैस्तैर्निघ्नन्युगपदभितो हन्यमानश्च ताभिः ।
@@ -22121,6 +28893,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अक्षोभेण व्यजयत वधूयूथपानां स यूथं
 
 तत्पक्षीयैर्जय जय जयेत्याजगे पक्षिसङ्घैः ॥२३॥
+
+
 
 दर्पोत्सेकात्सहपरिजनां राधिकां जेतुकामे
 
@@ -22130,6 +28904,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रेणुर्ही ही जितमिति मुहुस्तद्गणाः पक्षिसङ्घाः ॥२४॥
 
+
+
 आचिन्वानां सुरभिसुरसं केशरं भृङ्गबाधा
 
 वित्रस्ताक्षीं चकितचकितां पाणिपद्मं धुनानाम् ।
@@ -22137,6 +28913,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पुन्नागं यद्धरसि तदहो योग्यमेतत्तवेति
 
 स्मायं स्मायं नमितवदनां स्मापयामास राधाम् ॥२५॥
+
+
 
 पादाग्रेण क्षितितलमवष्टभ्य दोर्वल्लिमुच्चैर्
 
@@ -22146,6 +28924,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दोर्भ्यामुत्थापयति दयिते तत्रपे तत्र राधा ॥२६॥
 
+
+
 काचित्कैतवतो रजः कुसुमजं लग्नं ममाक्ष्णोरिति
 
 त्रस्ता पाणिसरोरुहेण वलयक्वाणेन हाहाकृता ।
@@ -22153,6 +28933,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मार्जन्ती त्वरितं समेत्य दयितेनालोकयामीत्यलं
 
 निर्भाष्याननपद्ममारुतमिषादक्ष्णोश्चिरं चुम्बिता ॥२७॥
+
+
 
 हस्ताप्राप्ये कुसुमनिकरे पाणिमुल्लास्य हर्तुं
 
@@ -22162,7 +28944,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आलीभावादिव विनमिता पाणिलग्ना बभूव ॥२८॥
 
+
+
 कृष्णाह्निककौमुदी ३.४३५७—
+
+
 
 मन्दारैर्हरिचन्दनैरगुरुभिः सन्तानकैश्चम्पकैः
 
@@ -22172,6 +28958,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मल्लीभिर्मुचुकुन्दकुन्दकरुणैः सत्स्वर्णयूथ्यादिभिः ॥२९॥
 
+
+
 पूगैर्दाडिमनारिकेलपनसै रम्भाभिराम्रातकैर्
 
 नारङ्गै रुचकैर्मधुकशमिकाकक्कोलकुद्दालकैः ।
@@ -22179,6 +28967,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भव्यैरामलकीलवङ्गलवलीसत्कर्मरङ्गादिभिर्
 
 जबीरावलिसल्लकीकरुणकैरम्लानकुब्जादिभिः ॥३०॥
+
+
 
 वानस्पत्यवनस्पतिव्यतिकरैरप्राकृतैः प्राकृतैः
 
@@ -22188,6 +28978,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जुष्टं तद्वनमाविवेश स समं रामेण सख्युत्तमैः ॥३१॥
 
+
+
 काण्डं मारकतं प्रभूतविटपाः शाखाः सुवर्णात्मिकाः
 
 पत्राली कुरुविन्दकन्दलमयी प्रावालिकाः कोरकाः ।
@@ -22195,6 +28987,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पुष्पाणां निकरः सुहीरकमयो वैदूर्यकीया फल
 
 श्रेणी यस्य स कोऽपि शाखिनिकरो यत्रातिमात्रोज्ज्वलः ॥३२॥
+
+
 
 येषां रत्नमयालवालवलयक्रीडाद्रिनिर्यत्पयः
 
@@ -22204,6 +28998,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कामं कामदुघोऽखिलाः क्षितिरुहस्त्रैलोक्यलक्ष्मीयुषः ॥३३॥
 
+
+
 नानामञ्जुलकुञ्जमण्डपकुलैर्नानामणिमन्दिरैर्
 
 नानारत्नमयैर्भुवः परिसरैर्निर्यत्नरत्नाङ्कुरैः ।
@@ -22211,6 +29007,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 क्वापि क्वापि वनस्थली सुललिता कृष्णाभमृत्स्नामयी
 
 वैचित्री नहि तत्र धातृविहिता नित्यैव सा चिन्मयी ॥३४॥
+
+
 
 बद्धा कापि वनस्थली मरकतैर्यस्यां चरन्ति ध्रुवा
 
@@ -22220,6 +29018,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बालार्कद्युतितर्कतश्चमरिकाः क्रीडन्ति कालक्रमे ॥३५॥
 
+
+
 विस्फारस्फटिकेन्द्रसान्द्रसरसा काचिन्निदाघातुराः
 
 सेवन्ते घनचन्द्रिकाचयधिया यां संवराणां वराः ।
@@ -22227,6 +29027,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 काचिन्नीलमणीन्द्रवृन्दघटिता ध्वान्तभ्रमे सङ्गते
 
 यामाश्रित्य निदाघदीधितिभिया घूकाः सुखं शेरते ॥३६॥
+
+
 
 वासन्ती कलिकालिमौक्तिकलता मल्लीप्रसूनाञ्चिता
 
@@ -22236,6 +29038,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लक्ष्मीस्तस्य वनस्य कृष्णमभजत्षाण्णां ऋतूनां प्रिया ॥३७॥
 
+
+
 प्रालयैर्यवसाङ्कुरैर्मधुरसैर्गन्धैः प्रसूनोत्तमैः
 
 श्रेण्योर्ध्वं गतयालिनां सुमुकुकैश्च्योतैः फलैः पक्त्रिमैः ।
@@ -22243,6 +29047,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पाद्यार्घ्याचमनीयगन्धसुमनोधूपप्रदीपावली
 
 नैवेद्यानि ततान सा वनरुहां कृष्णार्चने मण्डली ॥३८॥
+
+
 
 चञ्चद्वातगुरूपदिष्टनटना भृङ्गावलीगायनी
 
@@ -22252,6 +29058,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रोन्मीलत्कुसुमस्मिता हरिपुरोऽनृत्यल्लतानां ततिः ॥३९॥
 
+
+
 तत्रैका कुसुमस्मितं दलकरेणाच्छादयद्व्रीडिता
 
 हर्षास्रं मकरन्दबिन्दुभिरुदस्राक्षीत्परानन्दिता ।
@@ -22259,6 +29067,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आरौत्सीदपरापरागपटलीचीनेन पीनस्तन
 
 श्रीभाजस्तवकान्विकीर्य मधुपानङ्गात्स्थिताः काश्चन ॥४०॥
+
+
 
 चञ्चत्कोकिलकूजितेन मरुता लोलैर्दलैः पाणिभिस्
 
@@ -22268,6 +29078,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वीक्ष्यैवाह्वयतीव कृष्णमसकृत्काचिल्लताश्रेणिका ॥४१॥
 
+
+
 दार्वाघाटविरावशुष्करुदितो भृङ्गावलीभ्रूभृत
 
 भ्राम्यद्भ्रूकुटिवीक्षिते सति हरौ पुष्पैः सरोषस्मितः ।
@@ -22275,6 +29087,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लोलैः पल्लवपानिभिर्नननेत्याक्षेपकारीद्विज
 
 स्वानैः कल्पितभर्त्सनो विरुरुचे कश्चित्स वल्लीव्रजः ॥४२॥
+
+
 
 इत्थंभावितभावभावुकवतीर्वल्लीततीर्मानयन्
 
@@ -22284,7 +29098,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पद्भ्यां मेदुरयंश्चचार रसिको वृन्दावनान्तःस्थलीम् ॥४३॥
 
+
+
 भागवतं १०.२९.४३४४—
+
+
 
 ताभिः समेताभिरुदारचेष्टितः
 
@@ -22294,11 +29112,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 व्यरोचतैणाङ्क इवोडुभिर्वृतः ॥४४॥
 
+
+
 उपगीयमान उद्गायन्वनिताशतयूथपः ।
 
 मालां बिभ्रद्वैजयन्तीं व्यचरन्मण्डयन्वनम् ॥४५॥
 
+
+
 गोविन्दलीलामृतं २२.२८—
+
+
 
 सुकण्ठीभिः कण्ठीरवमधुरमध्याभिर्
 
@@ -22308,7 +29132,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अकुण्ठामुत्कण्ठां निभृतरतयेऽवर्धयदयम् ॥४६॥
 
+
+
 गोविन्दलीलामृतं २२.३१—
+
+
 
 यद्यज्जगौ चन्द्रलतादिकं हरिस्
 
@@ -22318,7 +29146,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णस्य नाम्नाऽनुजगुः क्व चालयः ॥४७॥
 
+
+
 गोविन्दलीलामृतं २२.४५५०—
+
+
 
 स सुदृशां सुदृशां रुचिकृद्
 
@@ -22328,6 +29160,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वर मुदे स मुदेति विधुर्हि नः ॥४८॥
 
+
+
 इत्थं गायन्मधुरविपिनश्रीभरालोकतृप्तः
 
 कान्तावल्लीरपि विरचयन्स्वाभिमर्दने फुल्लाः ।
@@ -22335,6 +29169,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भ्रामं भ्रामं भ्रमरनिकरैः स्वानुगैर्वेष्टितोऽसौ
 
 ताभिर्वंशीवटविटपिनः कुट्टिमं प्राप कृष्णः ॥४९॥
+
+
 
 तत्रोपविष्टः स ददर्श कृष्णां
 
@@ -22344,6 +29180,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वसङ्गमायोत्कहृषीकवर्गाम् ॥५०॥
 
+
+
 स्पर्शोत्सवयोच्छलदूर्मिहस्तां
 
 लोलाब्जरक्तोत्पलफुल्लनेत्राम् ।
@@ -22352,9 +29190,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आवर्तगर्तोत्सुककर्णपालीम् ॥५१॥
 
+
+
 पुलिनानि समीक्ष्यासौ तत्र रन्तुमना हरिः ।
 
 कृष्णापारं गन्तुकामः समुत्तस्थौ प्रियागणैः ॥५२॥
+
+
 
 अथागतानां स्वजलान्तिकं सा
 
@@ -22364,13 +29206,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तैस्तैः स्पृशन्तीव मुहुर्ववन्दे ॥५३॥
 
+
+
 भागवतं १०.२९.४५—
+
+
 
 नद्याः पुलिनमाविश्य गोपीभिर्हिमवालुकम् ।
 
 जुष्टं तत्तरलानन्दिकुमुदामोदवायुना ॥५४॥
 
+
+
 आनन्दवृन्दावनचम्पू १७.७८—
+
+
 
 कह्लारोत्पलसौरभप्रणयिना वातेन सम्मार्जितं
 
@@ -22380,13 +29230,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेयः प्राप्य ससौरभं तत इतो बभ्राम दामोदरः ॥५५॥
 
+
+
 भागवतं १०.३२.२—
+
+
 
 तत्रारभत गोविन्दो रासक्रीडामनुव्रतैः ।
 
 स्त्रीरत्नैरन्वितः प्रीतैरन्योन्याबद्धबाहुभिः ॥५६॥
 
+
+
 भागवतं १०.२९.४६—
+
+
 
 बाहुप्रसारपरिरम्भकरालकोरु
 
@@ -22396,7 +29254,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 उत्तम्भयन्रतिपतिं रमयाञ्चकार ॥५७॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.४—
+
+
 
 वल्गद्वल्गुवतंसमंसविलसन्मन्दारमालं नदत्
 
@@ -22406,7 +29268,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सर्वाः पुप्लुविरे स्थिरा नवतडिन्माला इवैणीदृशः ॥५८॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.१—
+
+
 
 एकस्या दक्षिणांसे वरभुजवलयं वाममन्यं परस्या
 
@@ -22416,7 +29282,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अन्यां गृह्णन्पुरस्तात्स पुनरुपसरत्येवमेव क्रमेण ॥५९॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.३—
+
+
 
 तस्यैव भ्रमतो जवेन सुदृशां द्वे द्वे समालिङ्गतो
 
@@ -22426,7 +29296,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्यामाब्जैरुत काञ्चनेन्द्रमणिभिः क्ÿप्तामजैषीत्स्रजम् ॥६०॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.५—
+
+
 
 ह्रस्वावर्ते सरति सरसं राधिकामन्तरस्थां
 
@@ -22436,7 +29310,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लीलाचक्रीपुत इव हरिर्बिभ्रमी बम्भ्रमीति ॥६१॥
 
+
+
 भागवतं १०.३३.५, ७—
+
+
 
 ततो दुन्दुभयो नेदुर्निपेतुः पुण्यवृष्टयः ।
 
@@ -22446,7 +29324,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मध्ये मणीनां हैमानां महामरकतो यथा ॥६३॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.७१२—
+
+
 
 मूर्ताः सङ्गीतशास्त्रोपनिषद इव ताश्चित्रमेवाविरासन्
 
@@ -22456,6 +29338,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गायन्यस्तालधारिण्यपि करकलितोपाङ्गमौपाङ्गिकी च ॥६४॥
 
+
+
 वाग्गेयकारकगुणैरुपलक्षितानां
 
 सङ्गीततन्त्रारहसामपि पारगाणाम् ।
@@ -22463,6 +29347,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शुद्धाङ्गशुद्धतरकर्कशमार्गलास्य
 
 नेत्री व्यरोचत ततीर्वरनर्तकीनां ॥६५॥
+
+
 
 गीतं द्वेधा मार्गदेशीयभेदात्
 
@@ -22472,6 +29358,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 चत्वारिंशद्द्वौ च देश्यां प्रसिद्धाः ॥६६॥
 
+
+
 थैया तथतथथैया
 
 तथतथथैया तथतितथथैया ।
@@ -22480,7 +29368,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 थगथगगतत्तिथदिगणथैः ॥६७॥
 
+
+
 ततश्चैनं शब्दं गृहीत्वा—
+
+
 
 स्वरं लघुगुरुप्लुतद्रुतविराममात्रविधौ
 
@@ -22490,7 +29382,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अथाष्टममुपारटत्किमपि तालधारिण्यसौ ॥६८॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.१९५०—
+
+
 
 थै थै थै थै तिगडतिगथै थेति पाठानुकृत्या
 
@@ -22500,6 +29396,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नृत्यन्त्यस्ता सरसमधुरं मण्डलस्था विरेजुः ॥६९॥
 
+
+
 वक्त्रे गानं तदभिनयनं पाणिपद्मे पदाब्जे
 
 तालो ग्रीवाभुवि विधुवनं दोलनं नेत्रयुग्मे ।
@@ -22507,6 +29405,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वामावामस्खलनवलना तारकायाः दृगन्तः
 
 कृष्णे प्रेमा मनसि युगपत्तुल्यमासामथासीत॥७०॥
+
+
 
 जानूत्क्षेपभुजावधूननपदन्यासैः सगर्भभ्रमैर्
 
@@ -22516,6 +29416,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नो भुग्ना न च चक्रतामुपगता सव्यापसव्यक्रमैः ॥७१॥
 
+
+
 पादन्यासैः सशब्दैर्मृदुमुखरमणीनूपुरध्वानरम्यैर्
 
 धीधीधीधीतधीधीत्यनुपममधुरैर्स्तालपाठैश्च मिश्रैः ।
@@ -22523,6 +29425,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सव्यासव्याङ्गदोलैः स्खलितकुचपटं मध्यभङ्गापशङ्कं
 
 धुन्वाना बाहुवल्लीं ननृतुरतिमुदावर्तयोरेव तुल्यं ॥७२॥
+
+
 
 वैणिक्यो वैणविक्यो मृदु मृदु ननृतुः पादविन्यासमात्रैर्
 
@@ -22532,6 +29436,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 देहं किं त्वेकसूत्रग्रथितमिव दधुस्ताः समं नर्तकीभिः ॥७३॥
 
+
+
 वामावर्तेन कृष्णो भ्रमति यदि तदा दक्षिणावर्तरीत्या
 
 तन्वङ्ग्यो मण्डलस्था विदधति नटनं सम्मुखीनाः क्रमेण ।
@@ -22539,6 +29445,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्थं ताः सोऽपि शश्वत्सरससकुतुकं प्रातिलोम्यानुलोम्य
 
 स्वीकारेणैव नैव भ्रमिनटनकलाकेलिपारं स्म गाते ॥७४॥
+
+
 
 दीपालोके प्रसरति यथा वामभागे पुरस्ताद्
 
@@ -22548,6 +29456,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तासां तस्यापि च तनुमहःपूरयोस्तद्वदासीत॥७५॥
 
+
+
 वाद्यादि मण्डलविलासै विलासिनीनां
 
 नृत्यानुगं च हरिनृत्यसहायमासीत।
@@ -22555,6 +29465,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 गानं तु भिन्नमभवत्सुदृशो जगुस्तं
 
 चन्द्रादिकं स तु जगौ ललितानि चासां ॥७६॥
+
+
 
 तासां तालविमोक्षनिर्भरहतिक्षोभेण निःसारिणा
 
@@ -22564,6 +29476,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 धूतं किं नु रजांसि तान्यपि तदानन्देन जाड्यं ययुः ॥७७॥
 
+
+
 प्रत्येकं सुदृशां कपोलफलके बिम्बोद्गतं नृत्यतः
 
 श्रीकृष्णस्य वपुः सनृत्यमपि तद्ब्रूते स्म तं किञ्चन ।
@@ -22571,6 +29485,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तासामानन्दपद्मधूननविधिव्याधूतमासां यथा
 
 ना ना ना सुरसा तथात्र भवतो नृत्यस्य लक्ष्मीरिति ॥७८॥
+
+
 
 नृत्यन्त्यः कतिचित्सरोरुहदृशः प्रारभ्दनृत्यान्तरे
 
@@ -22580,6 +29496,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गायन्ति स्म निशम्य यत्प्रमुमुहुः सङ्गीतदेव्योऽपि च ॥७९॥
 
+
+
 असङ्कीर्णान्जातिश्रुतिगमकवर्गेण सरसान्
 
 सगान्धारग्रामान्विशकलितभेदान्स्वरगणान।
@@ -22588,9 +29506,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुपूजे सा साध्वित्यनुपममुदा मोदितहृदा ॥८०॥
 
+
+
 सगरिमपधानिषु सकलालङ्कृतिमणिभिः सुमञ्जुलश्रुतिषु ।
 
 स्वरसमुदयेषु तासां धामसु च प्रीतिमाययौ कृष्णः ॥८१॥
+
+
 
 ता धिक्ता धिगिति ननाद यन्मृदङ्गस्
 
@@ -22600,6 +29522,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वादोऽपि श्रवणरसायनः स तासाम् ॥८२॥
 
+
+
 वैदग्ध्यैवास्य देव्या स्वयमिव रचितां सर्वखेदापनुत्त्यै
 
 सौहित्योपायसिद्धौषधिमिव सरसां प्रेमपीयूषवर्षैः ।
@@ -22607,6 +29531,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दोर्भ्यामालिङ्ग्य राधां सतडिदिव घनो हेमवल्ल्येव रुद्धः
 
 तापिञ्छः पिञ्छमौलिः सह नटनकलाकौतुकेनाननर्त ॥८३॥
+
+
 
 भग्नावस्थितमन्मथेषु कलिकाकृष्टेर्मणिश्चुम्बको
 
@@ -22616,6 +29542,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गातुं वादयितुं तथानुनटितुं नैश्वर्यमापेदिरे ॥८४॥
 
+
+
 राधाकृष्णौ स्वरौघं गरिमनिविगमं धैवतांशग्रहाभ्यां
 
 आरोहेणावरोहेण च गमकमयं रम्यमुल्लासयन्तौ ।
@@ -22623,6 +29551,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तेनातेनेति नानारसमथ नटनं गानमप्यूढरागौ
 
 तेनाते नेतिलोकं सरभसकुतुकोल्लासमन्योन्यजिष्णू ॥८५॥
+
+
 
 तालावसानसमये करपद्मकोष
 
@@ -22632,6 +29562,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सापि प्रियस्य विनिरस्यति बाहुदण्डम् ॥८६॥
 
+
+
 पूर्वं गानाद्यकृत यदहो हन्त तस्यातिरिक्तं
 
 रागं वंश्या स्वयमथ जगौ दुर्गमं गीतविद्भिः ।
@@ -22639,6 +29571,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ग्रामं गान्धारकमुपनयन्नेष तस्यानुगाने
 
 गायन्यस्ताः पुनरनु ययुर्मौरजिक्यादियुक्ताः ॥८७॥
+
+
 
 तन्त्रीकण्ठादिसर्वस्वरमिलनविधौ चारु सम्पन्नमात्रे
 
@@ -22648,6 +29582,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गीर्णं धामेव काचिन्नटनरसकलाचार्यवर्याविरासीत॥८८॥
 
+
+
 आकुञ्चज्जानु कृत्वा पृथुनि कटितटे वाममर्धेन्दुमन्यद्
 
 व्याकोशं पद्मकोशं मृदुललितमथोन्नीय कुञ्चत्कफोणि ।
@@ -22655,6 +29591,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 क्षीणक्षीणावलग्नं ह्रसितवलि समुच्छूनवक्षोजभारं
 
 तस्थौ सव्यापसव्यस्खलदलसलसत्तारकैर्दृष्टिपातैः ॥८९॥
+
+
 
 अङ्गैः प्रस्वेदमेद्यज्जतुभिरिव नवैरङ्गमङ्गं स्पृशद्भिः
 
@@ -22664,6 +29602,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हस्तैर्हंसास्यमुख्यैरभिनयकुशला मन्दमन्दं ननर्त ॥९०॥
 
+
+
 क्षीणक्षीणोदरमतिशयस्फारवक्षोजभारं
 
 पार्ष्णिद्वन्द्वोपरि परिलुठद्वेणि शाम्यद्वलीकम् ।
@@ -22671,6 +29611,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पृष्ठे भुग्ना व्यजयत करौ धुन्वती तालमोक्षे
 
 स्मारं सज्जीकृतमिव धनुश्चाम्पकं व्युत्क्रमेण ॥९१॥
+
+
 
 सा जानुभ्यां क्षितितलमवष्टभ्य विस्फार्य बाहू
 
@@ -22680,6 +29622,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वेगक्षिप्ता कुसुमधनुषः काञ्चनी चक्रिकेव ॥९२॥
 
+
+
 पादाङ्गुल्यावलम्ब्य क्षिततलमलघुस्फारवक्षोजजानुः
 
 पार्ष्णिद्वन्द्वोपविष्टा ह्रसितवलि नमन्नीवि विस्तीर्णवक्षाः ।
@@ -22687,6 +29631,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अङ्गुष्ठौ बद्धमुष्ट्योः कुचभुवि करयोर्न्यस्य तालानुकृत्याऽ
 
 लङ्कारात्कूजयन्ती गदति तथतथै थैतथै थैतथेति ॥९३॥
+
+
 
 युक्तानां कण्ठतन्त्रीचयशुषिरघनानद्धवाद्यैकतायां
 
@@ -22696,6 +29642,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अञ्चल्या वीज्यमाना श्वसितचलकुचा सा विशश्राम रामा ॥९४॥
 
+
+
 तिर्यक्कृत्योन्नमितनमितस्फारवक्षोरुहस्फिक्
 
 झञ्कुर्वद्भिः कनकवलयैर्धुन्वती पाणिपद्मे ।
@@ -22703,6 +29651,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तत्ता तत्थै तिकिडतिकिथै तालमुत्थापयन्ती
 
 पर्यायेणोत्क्षिपति सुदती जानुनी दोर्लते च ॥९५॥
+
+
 
 ऊर्ध्वोर्ध्वभ्रमिभिरुपर्युपर्युदीर्णैर्
 
@@ -22712,6 +29662,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वात्याभिः किमपि धुता परागराजी ॥९६॥
 
+
+
 तेजोवल्लीमिव तनुलतामन्तरिक्षे धुनाना
 
 सेयं नानागतिमतितरां दुष्करां व्याततान ।
@@ -22719,6 +29671,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नेदं शिक्षाप्रकटनमहो किन्तु लावण्यदेव्याः
 
 पादावस्या भुवि न पततः केवलं हेलयैव ॥९७॥
+
+
 
 विद्युद्वल्ली यदि चिरतरस्थेयसीं निष्पयोदा
 
@@ -22728,6 +29682,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तर्ह्येवासौ नटनविदुषी सोपमत्वं बिभर्ति ॥९८॥
 
+
+
 नर्तित्वैवं लघुलघुपदं दोलयन्ती नितान्तं
 
 तालोपान्ते कुचभरधुरा दुर्वहं पूर्वकायम् ।
@@ -22735,6 +29691,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वात्यावर्तैरिव कमलिनी हन्त हा हन्त मध्ये
 
 भुग्ना मा भूदिति परिजनैः सव्यथं सा शशङ्के ॥९९॥
+
+
 
 सहनर्तनगानतत्परा
 
@@ -22744,13 +29702,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पृथमंसं भुजया समग्रहीत॥१००॥
 
+
+
 भागवतं १०.३३.११—
+
+
 
 काचिद्रासपरिश्रान्ता पार्श्वस्थस्य गदाभृतः ।
 
 जग्राह बाहुना स्कन्धं श्लथद्वलयमल्लिका ॥१०१॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.५१५३—
+
+
 
 तमालस्य स्कन्धे श्लथपतितशाखेव पवन
 
@@ -22760,6 +29726,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 परिष्वक्तो मात्रः समघटत शृङ्गार इव सः ॥१०२॥
 
+
+
 काचित्कूजितकाञ्चिकिङ्किणिरणन्मञ्जीरमान्दोलता
 
 हारेण श्रवणोत्पलेन ललिता चीनाञ्चलेनापि च ।
@@ -22767,6 +29735,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कृष्णांसे कृतवामबाहुवलया लीलाविलासालसं
 
 गायन्ती नटति स्म तामनुनटन्कृष्णस्तदेवाजगौ ॥१०३॥
+
+
 
 कृष्णस्य पीतवसनाञ्चलमम्बुजाक्षी
 
@@ -22776,7 +29746,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नृत्यन्त्यहो तमपि नर्तयति स्म काचित॥१०४॥
 
+
+
 भागवतं १०.३३.१०—
+
+
 
 काचित्समं मुकुन्देन स्वरजातीरमिश्रिताः ।
 
@@ -22784,7 +29758,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तदेव ध्रुवमुन्निन्ये तस्यै मानं च बह्वदात॥१०५॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.५४५९—
+
+
 
 कृष्णप्रणीतमुरलीकलगानरीत्या
 
@@ -22794,6 +29772,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वं तालभङ्गमथ संवरयाम्बभूव ॥१०६॥
 
+
+
 काञ्चिद्वीणां मधुरमृदुलं वादयन्तीं सलीलं
 
 गायं गायं हरिमतिमुदा सस्मयं नर्तयन्तीम् ।
@@ -22802,9 +29782,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भ्रंशे सम्भालनबहुतरव्यग्रचित्तां चकार ॥१०७॥
 
+
+
 श्लिष्यति काञ्चन चुम्बति, काञ्चन कस्याश्चनाधरं पिबति ।
 
 नृत्यन्नेव हि कृष्णो, रमयाञ्चक्रे वधूरखिलाः ॥१०८॥
+
+
 
 आसीन्न सा तत्र ननर्त नो या
 
@@ -22814,6 +29798,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एकैकशः श्लेषणचुम्बनादि ॥१०९॥
 
+
+
 मुक्तावलीमिव जुगुम्फ ललाटमूले
 
 घर्माङ्कुरान्सहचरीव समस्तमङ्गम् ।
@@ -22821,6 +29807,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 माद्वीकपीतिरिव सालसयाञ्चकार
 
 श्रान्तिः कुरङ्गदृशां श्रियमापुपोष ॥११०॥
+
+
 
 दधाना दोर्युग्मं भुजशिरसि पार्श्वे विलसतो
 
@@ -22830,7 +29818,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 क्षणं विश्रामाय व्यधित दयितस्योपरि वधूः ॥१११॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 कपोलयोः कुण्डलपद्मराग
 
@@ -22840,7 +29832,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्ववाससा लुम्पति कापि मुग्धा ॥११२॥
 
+
+
 उज्ज्वलनीलमणि ११.२०—
+
+
 
 असव्यं बिभ्राणा पदमधूतलाक्षारसमसौ
 
@@ -22850,7 +29846,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अलिन्दाग्रे वृन्दावनकुसुमधन्वा विजयते ॥११३॥
 
+
+
 उज्ज्वलनीलमणि १३.२०—
+
+
 
 शिथिलगतिविलासास्तत्र हल्लीशरङ्गे
 
@@ -22860,7 +29860,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रतिपदमनवद्याः सिष्विदुर्वेदिमध्याः ॥११४॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.६१—
+
+
 
 एवं तासां श्रमजलकणक्लिन्नकर्णोत्पलानां
 
@@ -22870,7 +29874,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मन्ये तेषामपि समजनि श्रेयसी श्रान्तिबाधा ॥११५॥
 
+
+
 उज्ज्वलनीलमणि १४.१६०—
+
+
 
 उन्मीलत्कलहंसगद्गदरवा कम्पातिविक्षोभतः
 
@@ -22880,7 +29888,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गोपीनामनुरागितासरिदियं रासे वितेने रसम् ॥११६॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.६३—
+
+
 
 कृष्णाङ्गसङ्गसुखमग्नधियस्तदिच्छा
 
@@ -22890,7 +29902,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पाशांश्च हन्त विविदुः स्खलितानि तानि ॥११७॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.६५६७—
+
+
 
 श्रान्तानां रमणकलाभिरङ्गनानां
 
@@ -22900,6 +29916,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रत्येकं हरिरपसारयाञ्चकार ॥११८॥
 
+
+
 स्पर्शेन पाणिकमलस्य पुनः प्रकामं
 
 स्विद्यत्सु वक्त्रकमलेषु मृगेक्षणानाम् ।
@@ -22907,6 +29925,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्वेदापनोदकुशलो यदि नैष आसीत्
 
 ता एव चेलशकलैर्ममृजुर्मुखानि ॥११९॥
+
+
 
 लावण्यसारसरसानि विलासलास्य
 
@@ -22916,7 +29936,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बन्धेन ता निजनिजप्रतिभाकृतेन ॥१२०॥
 
+
+
 कृष्णभावनामृत १९.८०—
+
+
 
 काचित्तदा वीजयति स्म भूष
 
@@ -22926,7 +29950,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एकास्ययोरर्पयति स्म वीटिम् ॥१२१॥
 
+
+
 अथान्यपुलिनान्तरे रासविलासविशेषमाह, गोविन्दलीलामृत २२.५७६०—
+
+
 
 वितस्तिमात्रोच्चनिखातशङ्कुग
 
@@ -22936,6 +29964,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बहिश्चकाराथ सुमण्डलत्रयीम् ॥१२२॥
 
+
+
 आवृत्य पूर्णं रसधारया हरिं
 
 राधोपगूढं किल मण्डलत्रयी ।
@@ -22943,6 +29973,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुवर्णवल्ल्यञ्चितमालशाखिनं
 
 स्वर्णालबालालिरिवाबभावसौ ॥१२३॥
+
+
 
 आदिश्य हल्लीशककेलिरङ्गे
 
@@ -22952,17 +29984,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अनृत्यतां लास्यविदां वरिष्ठौ ॥१२४॥
 
+
+
 नृत्यन्नितम्बिनीनां तद्वैदग्ध्यपदचालनैः ।
 
 कुलालचक्रवच्चक्रं भ्रमदासीत्तयोरपि ॥१२५॥
 
+
+
 गोविन्दलीलामृत २२.६२—
+
+
 
 लघुभ्रमच्चक्रगतेः समा तासां गतिः क्वचित।
 
 क्वचिन्मन्दा क्वचिच्छीघ्रा विविधासीत्प्रिया हरेः ॥१२६॥
 
+
+
 गोविन्दलीलामृत २२.६१—
+
+
 
 विधाय राधां ललिताविशाखयोर्
 
@@ -22972,7 +30014,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 बभ्राम नृत्यन्सह नर्तकीगणैः ॥१२७॥
 
+
+
 गोविन्दलीलामृत २२.६३—
+
+
 
 तासां मध्ये द्वयोर्द्वयोर्मध्ये
 
@@ -22982,7 +30028,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नृत्यत्तापिञ्छवद्बभौ ॥१२८॥
 
+
+
 अद्भुतं मत्वा काचित्काञ्चित्प्रत्याह, उज्ज्वलनीलमणि १५.२३२—
+
+
 
 हरिर्नवघनाकृतिः प्रतिवधूद्वयं मध्यतस्
 
@@ -22992,17 +30042,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सखीधृतकराम्बुजा नटति पश्य रासोत्सवे ॥१२९॥
 
+
+
 गोविन्दलीलामृत २२.६४—
+
+
 
 सोऽलातचक्रवत्क्वापि लघुगत्याभ्रमत्तथा ।
 
 हित्वा मां क्वाप्यसौ नागादिति ता मेनिरे यथा ॥१३०॥
 
+
+
 गोविन्दलीलामृत २२.६८६९—
+
+
 
 विलस्येत्थं हरिस्ताभिश्चक्रभ्रमणनर्तनैः ।
 
 रासलीलाविशेषाय चक्रादवरुरोह सः ॥१३१॥
+
+
 
 स्वलहरिमृदुहस्तैः संस्कृतं कृष्ण आल्या
 
@@ -23012,7 +30072,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुलिनवरमनङ्गोल्लासरङ्गाख्यमायात॥१३२॥
 
+
+
 गोविन्दलीलामृत २२.७१७२—
+
+
 
 परिभ्रमत्तल्ललनालिमण्डलं
 
@@ -23022,6 +30086,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सुवर्णचक्रं हरिदण्डचालितम् ॥१३३॥
 
+
+
 तन्मण्डलं भाति विलाससागरे
 
 रोद्धुं मनोमीनमिहैव किं हरेः ।
@@ -23030,7 +30096,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हैमं महाजालमुरोजतुम्बिकम् ॥१३४॥
 
+
+
 गोविन्दलीलामृत २२.७५७६—
+
+
 
 भुजशिरसि विराजद्दोर्युगं स्वप्रियाल्याः
 
@@ -23040,6 +30110,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्थिरतडिदुपगूढं सम्भ्रमच्चक्रवातैः ॥१३५॥
 
+
+
 हरिहरिदयितानां वंशिकाकण्ठगानैर्
 
 मिलितवलयकाञ्चीनूपुरालिस्वनौघैः ।
@@ -23048,17 +30120,27 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निजवरमधुरिम्णा व्यानशेऽसौ जगन्ति ॥१३६॥
 
+
+
 गोविन्दलीलामृत २२.१०१—
+
+
 
 रतिलीलं त्रिभङ्गीं च चच्चरत्वारविक्रमम् ।
 
 इत्यादीन्नर्तने तालान्दधुः कृष्णोऽस्य च प्रियाः ॥१३७॥
 
+
+
 गोविन्दलीलामृत २३.१११—
+
+
 
 अथ प्रबन्धगानं स नानातालैः पृथग्विधम् ।
 
 कर्तुमारभतैताभिर्विदग्धाभिः सनर्तनम् ॥१३८॥
+
+
 
 श्रीराधया नृत्यति कृष्णचन्द्रे
 
@@ -23068,6 +30150,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दादयः सभ्यतया व्यवस्थिताः ॥१३९॥
 
+
+
 कृष्णे नृत्यत्येकले राधिकाद्या
 
 गायन्ति स्माश्चर्यतालैर्दुरूहैः ।
@@ -23075,6 +30159,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तस्मिन्सभ्ये राधिकाद्याः क्रमेणाश्चर्यं
 
 नृत्यं साङ्गहारं व्यधुस्ताः ॥१४०॥
+
+
 
 रङ्गे क्रमाच्छ्रेणि तयास्थितानाम्
 
@@ -23084,6 +30170,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रबन्धादिक गायिकानाम् ॥१४१॥
 
+
+
 तत घन शुषिराढ्यानद्ध कण्ठ स्वरौघे
 
 मृदु विविध गतित्वेऽप्यैक्यमाप्तेऽङ्गनानाम् ।
@@ -23091,6 +30179,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तदनुग पदतालैर्भ्रुकराङ्गाक्षिचालै ननृतुर्
 
 इह सकृष्णास्ताः प्रविश्य क्रमेण ॥१४२॥
+
+
 
 कृष्णः श्रीमान्मुहुरिह समागत्य तासां समध्यान्
 
@@ -23100,6 +30190,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तास्तत्ता तत्थे दृगिति दृगि थै दृक्तथै दृक्तथै था ॥१४३॥
 
+
+
 थोदिक्दां दां किट किट कणझें थोक्कु थो दिक्कु आरे
 
 झें द्रां झें द्रां किटि किटि किटिधां झेङ्कुझें झेङ्कुझें झेम् ।
@@ -23107,6 +30199,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 थोदिक्दां दां दृमि दृमि दृमि धां काङ्कुझें काङ्कुझें द्राम्
 
 आगत्यैवं नटति स हरिश्चारु पाठ प्रबन्धम् ॥१४४॥
+
+
 
 कूजत्काञ्ची कटकविरणन्नूपुर ध्वान रम्यं
 
@@ -23116,6 +30210,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नृत्यन्तीत्थं गदति तथथै थैतथै थैतथैथा ॥१४५॥
 
+
+
 धां धां दृक्दृक्चङ्चङ्निनाङ्णङ्निनां णं निङां नां
 
 तुत्तुक्तुङ्तुङ्गुडु गुडु गुडु धां द्रां गुडु द्रां गुडु द्राम् ।
@@ -23123,6 +30219,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 धेक्धेक्धो धो किरिटि किरिटि द्रां द्रिमि द्रां द्रिमि द्राम्
 
 आगत्यैवं मुहुरिह मुदा श्रीमदीशा ननर्त ॥१४६॥
+
+
 
 झं झं कुर्वत्कनक बलये धुन्वती पाणिपद्मे
 
@@ -23132,6 +30230,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 थै थै थोथो तिगड तिगथै थो तथै थो तथैता ॥१४७॥
 
+
+
 दृमि दृमि दृमि धो धो मृदङ्गादि नादैः
 
 कण कण कण वीणा शब्द मिश्रैर्विशाखा ।
@@ -23140,7 +30240,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दृगिति द्र्गिति दृक्थै थो तथो थो ब्रुवाणा ॥१४८॥
 
+
+
 गोविन्दलीलामृत २३.१५—
+
+
 
 आ आ ई आति आ आति आइ अति ऽ आतिआ आति आआ आ आ
 
@@ -23150,7 +30254,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णः पुनरिह निगदन्सालसाङ्गं ननर्त ॥१४९॥
 
+
+
 गोविन्दलीलामृत २३.१९—
+
+
 
 आविष्टानां गान नृत्येऽङ्गनानां
 
@@ -23160,7 +30268,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णः क्षिप्रं नृत्यमध्ये बबन्ध ॥१५०॥
 
+
+
 गोविन्दलीलामृत २३.२४—
+
+
 
 आस्ये गीतिस्तदभिनयनं श्रीकरे श्रीपदाब्जे
 
@@ -23170,7 +30282,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णस्याब्जे मनसिजसुखं बल्लवीनां तदासीत॥१५१॥
 
+
+
 अत्यद्भुतं दृष्ट्वा काचित्काञ्चित्प्रत्याह, सङ्गीतमाधवः १८—
+
+
 
 प्रथममुरलीरन्ध्रे रञ्जिताकुञ्चितबिम्बा
 
@@ -23180,7 +30296,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नखमणिरुचिवीचिर्मुद्रिकालिच्छटाभिः ॥१५२॥
 
+
+
 उज्ज्वलनीलमणि १०.३४—
+
+
 
 मग्ना शुभ्रे दशनकिरणे स्फाटिकीव स्फुरन्ती
 
@@ -23190,7 +30310,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सूते रत्नत्रयधियमसौ पश्य कृष्णस्य वंशी ॥१५३॥
 
+
+
 गोविन्दलीलामृत २३.३०३३—
+
+
 
 तालावसाने हरिरात्मपाणि
 
@@ -23200,6 +30324,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निरस्यतीशस्य करं रुषेव ॥१५४॥
 
+
+
 जानुभ्यां क्षितिमालम्ब्य प्रसार्यैका ततौ भुजौ ।
 
 जुघूऋने काञ्चनी वेगक्षिप्तेव स्मरचक्रिका ॥१५५॥
@@ -23207,6 +30333,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 लीलोत्सर्पापसर्पाभ्यां दोःप्रसारनिकुञ्चनैः ।
 
 अङ्गान्यङ्गैः स्पृशन्त्यन्या नृतिं चक्रेऽन्यदुष्कराम् ॥१५६॥
+
+
 
 स्पृष्ट्वा करैकेन भुवं क्वचित्परा
 
@@ -23216,7 +30344,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विना तदालम्बनमम्बरे परम् ॥१५७॥
 
+
+
 गोविन्दलीलामृत २३.४१—
+
+
 
 शिथिलवसनकेशाः श्वासवेल्लत्कुचाग्राः
 
@@ -23226,7 +30358,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुपूषुरधिकमेता रासनृत्यावसाने ॥१५८॥
 
+
+
 गोविन्दलीलामृत २३.४८४९—
+
+
 
 इत्थं समाप्य विविधाङ्गमनन्यसिद्धं
 
@@ -23236,11 +30372,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कर्तुं समुत्कमनसं हि विविद्य वृन्दा ॥१५९॥
 
+
+
 हिमबालुकबालुकेऽमले पुलिने सह राधयाच्युतम् ।
 
 विनिवेश्य तयोः पुरः सखीनिचयं सगणा न्यवीविशत॥१६०॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.८७—
+
+
 
 कर्पूराभे किरणसुधया प्रोक्षिते शीतधाम्नः
 
@@ -23250,7 +30392,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रत्यासन्ने सुरतसमरे वीरपानप्रमोदः ॥१६१॥
 
+
+
 कृष्णाह्निककौमुदी ६.३८४८—
+
+
 
 तस्मिन्न्नानामधुरिमधुराधुर्यवैदूर्यवेद्यां
 
@@ -23260,6 +30406,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कर्तुं वृन्दारभत रभसात्पानलीलानुकूल्यम् ॥१६२॥
 
+
+
 तत्रानिन्ये स्फटिकघाटितं मेध्यमाध्वीककुम्भं
 
 गन्धेनान्धीकृतमधुकरं सोपदंशोपलम्भम् ।
@@ -23267,6 +30415,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कामक्रीडानिधिघटमिवापीनचीनेन गूढं
 
 ग्रीवादेशे सुरभिकुसुमोद्दामदामोपगूढम् ॥१६३॥
+
+
 
 तत्रागत्य प्रमुदितवधूमण्डलीमध्यवर्ती
 
@@ -23276,6 +30426,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मध्येऽवात्सीत्सह मणिशिलामूर्ध्नि तत्रैकमत्या ॥१६४॥
 
+
+
 पर्यन्ते चोपविशति वधूमण्डले तस्य वाचा
 
 पङ्क्तीभूय प्रसृमरतरेणाङ्गभासा समीचा ।
@@ -23283,6 +30435,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 मूर्तिभूता इव वलयिताश्चन्द्रिकाश्चन्द्रिकानां
 
 मध्ये मेध्या अथ विललसुर्मूर्तयः सुन्दरीणाम् ॥१६५॥
+
+
 
 उद्यद्विद्युल्लतिक इव स स्निग्धधाराधरेन्द्रश्
 
@@ -23292,6 +30446,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पानक्रीडोत्सवनवनवोत्साहनिर्वाहरङ्गी ॥१६६॥
 
+
+
 व्रीडौत्सुक्यस्मृतिमतिधृतिक्षान्तिहर्षाभ्यसूया
 
 शङ्कात्रासश्रममदमुखाः प्राभवन्नानुमेयाः ।
@@ -23299,6 +30455,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 एकैकस्याः परिजनधुरां धारयन्तोऽस्वभावा
 
 लब्ध्वा लब्ध्वा समयमुचितं सेवितुं सर्वभावाः ॥१६७॥
+
+
 
 पानास्थानीमनु सहचरीषूपविष्टासु तासु
 
@@ -23308,6 +30466,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वृन्दा नन्दादनुजनमनुग्रीवमाधत्त मालाः ॥१६८॥
 
+
+
 लोलाः कालागुरुजनिजुषो धूपधूमस्य धाराः
 
 सारादारादरचयदनुक्षुण्णकर्पूरपुराः ।
@@ -23315,6 +30475,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तन्निर्दिष्टाः कुसुममकिरन्क्ष्मारुहः पावनस्य
 
 प्रारम्भेऽस्मिन्स्फुरति मधुनः पानलीलोत्सवस्य ॥१६९॥
+
+
 
 मल्लीपुष्पेष्वनुसृणिमुखैश्चञ्चलैश्चञ्चरीकैः
 
@@ -23324,6 +30486,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्थाने स्थाने कुसुमलतिकामण्डलीनर्तकीभिः ॥१७०॥
 
+
+
 माध्वीकेन स्फटिकचषकश्रेणिमापूरयन्त्या
 
 ज्योत्स्नाजाले मिलितवपुषं तामथालक्षयन्त्याः ।
@@ -23331,6 +30495,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 वृन्दादेव्याः किमिह चषकान्किं नु शून्यान्पिपर्मीत्य्
 
 आसीत्तस्याः क्षणमिव तदा चित्तवृत्तौ महोर्मी ॥१७१॥
+
+
 
 दिव्ये नव्ये स्फटिकपुटिके मेध्यमाध्वीकपूर्णे
 
@@ -23340,7 +30506,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नाग्रे राधाव्रजपसुतयोरग्रतः सोपनिन्ये ॥१७२॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.८८९१—
+
+
 
 प्रतिचषकं प्रतिबिम्बित
 
@@ -23350,6 +30520,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पुरतस्तासां रराज माध्वीकम् ॥१७३॥
 
+
+
 आदौ पाने नयनयुगयोः शोणिमानं द्वितीये
 
 वाग्वैवश्यं व्यधिकरणतां हासभीत्योस्तृतीये ।
@@ -23357,6 +30529,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 द्रष्टुं पश्चाद्विहसितुमपि प्राणनाथं तथान्या
 
 पानक्रीडापरिषदि दधे पातुमिच्छां न काचित॥१७४॥
+
+
 
 आतन्वाने अमृतमधुनोर्व्यत्ययेनैव मैत्रीं
 
@@ -23366,6 +30540,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 राधाकृष्णौ सममपिबतां साधरोष्ठोपदंशम् ॥१७५॥
 
+
+
 आलीन्दुर्मे पिबति मधुकिं पीयतामालि सार्धं
 
 स्तेनोऽयं यत्तव मुखरुचां कण्ठलग्नेन भाव्यम् ।
@@ -23374,7 +30550,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नो पास्यामीत्यर्थ मधुमती पाणिना मध्वपास्थत॥१७६॥
 
+
+
 कृष्णाह्निककौमुदी ६.४९६९—
+
+
 
 दीव्यत्तेजःपरिधि परिवेवेष्टि यावत्सखीनां
 
@@ -23384,6 +30564,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भृङ्गानास्तामुपरिपतितांस्तां प्रतीक्षावहन्तौ ॥१७७॥
 
+
+
 निष्पण्णेऽस्मिन्मधुविभजने भाजनैस्तैरमन्दे
 
 श्रीकृष्णः स्वं समधुचषकं राधिकास्यारविन्दे ।
@@ -23391,6 +30573,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पीत्वा देहि त्वमिति निगदन्सूपनिन्येऽप्रवेशात्
 
 साप्याघ्राय नतमुखमुदात्कामतन्त्रोपदेशात॥१७८॥
+
+
 
 तन्माध्वीकं कमलवदनावक्त्रगन्धोपलम्भाद्
 
@@ -23400,6 +30584,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्मित्वा स्मित्वा पिबति महता कौतुकेनैव भूयः ॥१७९॥
 
+
+
 सा सव्रीडस्मितमवनताधीतसत्प्रेमतन्त्रा
 
 कान्तोच्छिष्टं मधु सुमधुरं पातुकामा स्वतन्त्रा ।
@@ -23407,6 +30593,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नैच्छत्पातुं स्वमधु यदि सा तद्विदित्वाघहन्ता
 
 स्मित्वा प्रादादथ पिब पिबेत्यादरेणानुमन्ता ॥१८०॥
+
+
 
 तत्पीत्वा स स्वमथ मधुनः पात्रमादाय पाणि
 
@@ -23416,6 +30604,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नैतच्चित्रं भवति सुहृदां सौहृदस्याभिरूप्ये ॥१८१॥
 
+
+
 भूयो वृन्दा चषकमपरं सीधुना पूरयित्वा
 
 श्रीदम्पत्योर्न्यधित पुरतः स्वं मनो मोदयित्वा ।
@@ -23423,6 +30613,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 आपीयान्यदथ ददतुस्तौ सखीभ्योऽल्पमल्पं
 
 तास्तत्पीत्वा स्वमपि च पपुः सीधु पीयूषकल्पम् ॥१८२॥
+
+
 
 एवं वृत्ते कुवलयदृशां प्रेयसश्चादिपाने
 
@@ -23432,6 +30624,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शोणीभावं व्रजति नयने दृश्यमानाभ्युपाया ॥१८३॥
 
+
+
 काचित्तत्र प्रथमचषकेणैव निर्व्यूढकामा
 
 नैच्छत्पातुं पुनरविरतं प्रार्थ्यमानापि वामा ।
@@ -23439,6 +30633,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 द्रष्टुं ताषां मदविलसितं वल्लभस्यापि विज्ञा
 
 लोभाच्छोभातिशयविषयासन्दिदृक्षामनोज्ञा ॥१८४॥
+
+
 
 अस्थाने ह्रीरुदितमपदं हेतुहीनो विवादस्
 
@@ -23448,6 +30644,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तासामासीद्विसरकविधौ रीतिरेषैव धन्या ॥१८५॥
 
+
+
 वाचां वर्णस्खलनबलेन चेतसामस्थिरत्वं
 
 मन्दाक्षाणां समयसरणं वर्ष्मणां कम्पवत्त्वम् ।
@@ -23455,6 +30653,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 बुद्धीनां च भ्रमणमसकृद्धासरोषप्रतोष
 
 जाड्यं मौनं विसरकविधौ रेजिरेऽमी विशेषाः ॥१८६॥
+
+
 
 ज्योत्स्नालीनं स्फटिकचषकं कायनालोकयन्ती
 
@@ -23464,6 +30664,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्थौ काचिन्न पिबति मधु प्रोल्लसन्मानपङ्कम् ॥१८७॥
 
+
+
 आल्यः पेयं मधु कथमिदं चन्द्रमाः सम्प्रविष्टः
 
 कण्ठे लग्नोऽप्यहह भविता चर्यते चेत्स दुष्टः ।
@@ -23471,6 +30673,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 किञ् चोदञ्चन्मलपरिमलां प्रस्तुतात्तत्कलङ्का
 
 सङ्गादस्मिन्मम सुमहती जायते दोषशङ्का ॥१८८॥
+
+
 
 माध्वीकानामुपरि परितो विभ्रमद्भृङ्गमाला
 
@@ -23480,6 +30684,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पूतं कृत्वा पुनरथ पपुः पानमोदे नितान्ते ॥१८९॥
 
+
+
 हा कष्टं द्यौः पपपतति घूघूर्णते भूमिमीमिः
 
 सख्यो मामाधधरत भो हन्त पप्पापतामि ।
@@ -23487,6 +30693,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्थं पानातिशयवशतः काचिदालिङ्ग्य काञ्चित्
 
 स्थित्वा मन्दं न्यगददगदा जीवितास्मीति किञ्चित॥१९०॥
+
+
 
 विच्छेदे प्रागभवदुभयोर्यत्तु तादात्म्यमेकं
 
@@ -23496,6 +30704,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्यातां नाम्नोर्विनिमयमयामन्त्रणे मन्दहासौ ॥१९१॥
 
+
+
 राधे कृष्ण त्वमयि मम किं किङ्करी नैव नैव
 
 प्राणास्त्वं मे न भवति वपुस्त्वां विना स्थातुमेव ।
@@ -23503,6 +30713,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्थं प्राक्संस्कृतिमतिरतेर्वैपरीत्ये स्वनाम
 
 व्यत्यासेनोभयरसकथा मञ्जुलत्वं जगाम ॥१९२॥
+
+
 
 कर्णे कर्णे वचनरचनैः कोमलैरर्थशून्यैर्
 
@@ -23512,6 +30724,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीदम्पत्योर्न खलु समयास्ते भवन्यातयामाः ॥१९३॥
 
+
+
 पृष्ठालम्बिन्यनयनपथे कौस्तुभे सा दयातः
 
 कृष्णं राधा चकितमवदत्कौस्तुभस्ते क्व यातः ।
@@ -23519,6 +30733,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तां स प्राह त्वमिममहरः साह नाहं विशाखा
 
 सोचे नाहं सुमुखि ललिता साह नाहं सुलेखा ॥१९४॥
+
+
 
 इत्यन्योन्यं मधुमदमुदा कुर्वतीनां विवादं
 
@@ -23528,6 +30744,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वातन्त्र्येणोरसि विलसितुं वैजयन्त्येव माला ॥१९५॥
 
+
+
 आं जानीमस्त्वमहर इमं कौस्तुभं हन्त माले
 
 दण्ड्यासि त्वं तमुपहर मे चौरि वेगादराले ।
@@ -23535,6 +30753,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 इत्याक्षिप्तस्रगुपहतितः पृष्ठतोऽसौ ललम्बे
 
 कण्ठे दृष्ट्वा तमथ जहसुस्तां समेत्याविलम्बे ॥१९६॥
+
+
 
 गम्भीरेऽस्मिन्मधुमदधुरा माधुरीणां प्रवाहे
 
@@ -23544,7 +30764,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सर्वा एव प्रतिविदधिरे पुष्पबाणं कृतार्थम् ॥१९७॥
 
+
+
 गोविन्दलीलामृत २३.५२५३—
+
+
 
 कन्दर्पमाध्वीकमदाकुलाङ्गीं
 
@@ -23554,11 +30778,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 विन्यस्ततल्पं पुलिनान्तकुञ्जम् ॥१९८॥
 
+
+
 कन्दर्पमदवैक्लव्याद्घूर्णपूर्णेक्षणाः सखीः ।
 
 वृन्दाप्यादाय कुञ्जेषु पृथक्पृथगशाययत॥१९९॥
 
+
+
 अलङ्कारकौस्तुभ ५.१५—
+
+
 
 मृदुस्पन्दं लीलाकरकिशलयोत्कम्पमुदयत्
 
@@ -23568,7 +30798,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सिषेवे राधाङ्गं हरिरथ वसन्तानिलमिव ॥२००॥
 
+
+
 अलङ्कारकौस्तुभ ५.७१—
+
+
 
 आकृष्टे व्रजराजजेन वसने निर्मोचितैरायतैः
 
@@ -23578,7 +30812,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वासीत्सुन्दरि सम्मुखार्धतिमिरा पश्चार्धचन्द्रप्रभा ॥२०१॥
 
+
+
 उज्ज्वलनीलमणि १५.२५४—
+
+
 
 बलेन परिरम्भणे नखशिखाभिरुल्लेखनं
 
@@ -23588,7 +30826,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 रतादपि सुखं हरेरधिकमादधे राधया ॥२०२॥
 
+
+
 श्रीगोविन्दरतिमञ्जरी ५.९२९३—
+
+
 
 राधायाः स्तनमण्डले हरिपरिरम्भोपलम्भे ध्रुवं
 
@@ -23598,6 +30840,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्थातुं सम्प्रति नूनमम्बरमणिस्तत्सन्धिमभ्याविशत॥२०३॥
 
+
+
 चञ्चद्बर्हकचग्रहादिसुरतावेशात्प्रियाः चुम्बतः
 
 कृष्णस्याजनि दोर्लतावलयिनी वेणीविचूडामणिः ।
@@ -23606,7 +30850,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 मन्ये त्यक्तफणामणिः फनिधिया पाणिं समावेष्टयत॥२०४॥
 
+
+
 अलङ्कारकौस्तुभ ५.७५—
+
+
 
 श्लिष्टा श्लिष्यति गोकुलेन्द्रतनयेनाचुम्बिता चुम्बति
 
@@ -23616,7 +30864,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्य क्षोभकरी यदैष्ट तदियं विद्या गुरुक्षोभिका ॥२०५॥
 
+
+
 अलङ्कारकौस्तुभ ४.२—
+
+
 
 शयनसहचरीणां लोचनैरर्च्यमानान्य्
 
@@ -23626,7 +30878,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 स्वजन इव मृगाक्षी स्वाङ्गकैः स्वाङ्गकानि ॥२०६॥
 
+
+
 उज्ज्वलनीलमणि ११.१८—
+
+
 
 निमीलन्नेत्रश्रीरचटुलपटीराचलमरुन्
 
@@ -23636,7 +30892,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किशोरी सा तेने हरिमनसि राधा मनसिजम् ॥२०७॥
 
+
+
 विशेषविहारमुक्त्वाथ सामान्यमाह, आनन्दवृन्दावनचम्पू १७.७९८७—
+
+
 
 प्रेमातिशुद्धमपि केवलमेष तासाम्
 
@@ -23646,6 +30906,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लब्धुं सदन्तनखलेखनकौशलानि ॥२०८॥
 
+
+
 मानसेऽतिसुमहानभिलाषो
 
 ना न नेति वचसि प्रतिषेधः ।
@@ -23653,6 +30915,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सुभ्रुवां रतिविधिप्रतिषेधौ
 
 नात्मबुद्धिविषयौ ववृताते ॥२०९॥
+
+
 
 ह्रीप्रबोधनकरः कररोधः
 
@@ -23662,6 +30926,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्परं प्रियममन्यत कृष्णः ॥२१०॥
 
+
+
 भर्त्सनं स्मितसुधाप्लुतवर्णं
 
 पाणिधूननमलक्ष्यनिषेधम् ।
@@ -23669,6 +30935,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भ्रूलतासु भृकुटिः कृतकोपा
 
 सर्वमन्तरनुरागमवादीत॥२११॥
+
+
 
 चुम्बने विमुखताधरपाने
 
@@ -23678,6 +30946,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वामतैव दयितस्य मतासीत॥२१२॥
 
+
+
 द्राघीयसा सुवलितेन सुकोमलेन
 
 प्रत्येकमेव तरसा भुजमण्डलेन ।
@@ -23685,6 +30955,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्तः प्रवेशयितुकाम इव क्रमेण
 
 लीलानिधिः स रमणीगणमालिलिङ्ग ॥२१३॥
+
+
 
 वामेन पाणिकमलेन विधृत्य वेणीम्
 
@@ -23694,6 +30966,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 माध्वीकमुग्धमधुरं धयति स्म कृष्णः ॥२१४॥
 
+
+
 वक्षोरुहाम्बुरुहकोरकयुग्ममासाम्
 
 आसादयन्स नखलेखनलक्ष्मलक्ष्मीम् ।
@@ -23701,6 +30975,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 अन्तःसमुद्यदनुरागविकारकण्डूं
 
 कण्डूयनादिव पुनः प्रथयाञ्चकार ॥२१५॥
+
+
 
 आताम्रकम्रमहसा नखलेखलक्ष्मी
 
@@ -23710,11 +30986,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 आसादिताङ्कुरदशैर्बहिरावृतानि ॥२१६॥
 
+
+
 गोविन्दलीलामृत २३.५६६३—
+
+
 
 निर्गतः कुञ्जनिकरात्कृष्णस्ताभिरलक्षितः ।
 
 एकः सन्राधिकामागात्स्वदर्शनमृदुस्मिताम् ॥२१७॥
+
+
 
 तत्रागता कुञ्जततेर्निवीता
 
@@ -23724,6 +31006,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नम्रानना लोलदृगेतयोचे ॥२१८॥
 
+
+
 यो नायकः सोऽत्र स वृन्दया मया
 
 रङ्गे स्थितः क्वापि गतो न हि क्षणम् ।
@@ -23731,6 +31015,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नानर्तयद्वो रतिनर्तनेऽसकौ
 
 दशेदृशी वो वपुषः कुतोऽभवत॥२१९॥
+
+
 
 हरिरसन्नाह निकुञ्जरङ्गे
 
@@ -23740,6 +31026,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 संनर्त्तिता यत्स्फुटतत्तदङ्काः ॥२२०॥
 
+
+
 कृष्णे स्वसख्यां प्रणयोद्गतेर्ष्यास्
 
 ता उचुरस्मिन्रतिनृत्य एषा ।
@@ -23747,6 +31035,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 त्वां नर्तयन्ती सततं गुरुस्ते
 
 कर्तुं त्वया वाञ्छति नः प्रशिष्याः ॥२२१॥
+
+
 
 निजेच्छया यात्र गुरूपसत्तिः
 
@@ -23756,6 +31046,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गुरूस्त्वं विफलः श्रमो वाम् ॥२२२॥
 
+
+
 जानासि नो नो नकुलाङ्गनानां
 
 वृत्तिं विशुद्धां सखि भोगिनि त्वम् ।
@@ -23763,6 +31055,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 तथापि सम्पादयितुं स्वसाम्यं
 
 किं खिद्यसे प्रेर्ष्य वृथा भुजङ्गम् ॥२२३॥
+
+
 
 इत्थं विधाय पुरुनर्मविहारनृत्यं
 
@@ -23772,7 +31066,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कर्तुं समारभत वारिविहारनृत्यम् ॥२२४॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.६८७६—
+
+
 
 वक्त्रैरम्भोरुहवरवनं दोर्लताभिर्मृणाली
 
@@ -23782,6 +31080,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भास्वत्कन्यासलिलमलसं लम्बमानाभिराभिः ॥२२५॥
 
+
+
 वक्त्रैः स्वर्णसरोजमण्डलमयं नीरोपरिष्टान्नभो
 
 वक्षोजैर्मदचक्रवाकमिथुनश्रेणीजुषो वीचयः ।
@@ -23789,6 +31089,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 दोर्भिश्चारुमृणालवल्लिवलिता आपस्तदासन्वधू
 
 वृन्दे गच्छति चित्रभानुदुहितुस्तत्कुक्षिदघ्नं पयः ॥२२६॥
+
+
 
 लब्ध्वा तासां तनुपरिमलान्पद्मिनीः प्रोज्झ्य भृङ्गैर्
 
@@ -23798,6 +31100,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रान्ताः सर्वाः प्रणयरभसाद्वीजयामास सैव ॥२२७॥
 
+
+
 भृङ्गैस्तासामुपरि परितो मण्डलिभूय सद्भिस्
 
 तत्पर्यन्तेष्वपि विविषदां पुष्पवर्षैः पतद्भिः ।
@@ -23805,6 +31109,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 नीलं वातावधुतमभितः सारिमुक्तावलीकं
 
 शोभाहेतोरतनुत किमु व्योमलक्ष्मीर्वितानम् ॥२२८॥
+
+
 
 अन्योन्यात्तैः करसरसिजैस्ताडयन्तीषु तोयं
 
@@ -23814,6 +31120,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णस्योरःपरिसरमयुस्तोकातुङ्गास्तरङ्गाः ॥२२९॥
 
+
+
 अन्योन्यग्रथिताङ्गुलीकलिकयोः कृत्वाम्बुपाण्योः समा
 
 पीड्योच्चैर्जलयन्त्रवत्करभयोः प्रान्तेन निक्षिप्यता ।
@@ -23821,6 +31129,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 धाराभिर्मुहुरायताभिरबलावृन्देन सिक्तो हरिर्
 
 मन्ये ममथवारुणास्त्रमहसा मूर्तेन विद्धो बभौ ॥२३०॥
+
+
 
 निःसंहारं तदिदमतनोर्वारुणास्त्रं विदित्वा
 
@@ -23830,6 +31140,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 भग्नाः सर्वाः पुनरतितरामेक एवासिषेच ॥२३१॥
 
+
+
 प्रत्येकं ताः सपदि पयसो द्वन्द्वयुद्धेन जित्वा
 
 कृष्णेनास्मिन्पणितमखिलं हारमाकृष्य नीतम् ।
@@ -23837,6 +31149,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 पृष्ठं याता लघुलघुतरां पीडयित्वास्य बाहू
 
 राधा सर्वं यदि हृतवती तामधावत्तदासौ ॥२३२॥
+
+
 
 आचिन्वानां कमलममलं क्वापि गाधेऽपि नीरे
 
@@ -23846,7 +31160,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कान्तेनैनां सरसकुतुकं ताः समीक्षम्बभूवुः ॥२३३॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.७८, ८०—
+
+
 
 पद्मैः पद्मैः स्वयमवचितैस्तन्मृणालैर्मृणालैर्
 
@@ -23856,7 +31174,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृष्णस्यैव प्रहरणवशेनेव रुग्णं मनोऽभूत॥२३४॥
 
+
+
 अलङ्कारकौस्तुभ ५.३०—
+
+
 
 कृष्णे कर्षति कोकयुग्मकमियं दोर्भ्यां व्यधात्स्वस्तिकं
 
@@ -23866,7 +31188,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 अस्पर्शा सुरतिस्तयोः प्रियसखीवृन्दस्य रस्याभवत॥२३६॥
 
+
+
 अलङ्कारकौस्तुभ ५.१०५—
+
+
 
 जलावगाहे च्युतमेखलायाः
 
@@ -23876,7 +31202,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सर्वास्ववस्थासु सदैकरूपम् ॥२३७॥
 
+
+
 काचित्सख्यधिकस्नेहा तत्खेदं दृष्ट्या तां प्रत्याह, अलङ्कारकौस्तुभ ८.१४९—
+
+
 
 अलमलमभिलाषेणामुना वारिखेला
 
@@ -23886,7 +31216,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 शिव शिव परिदष्टं षट्पदेनाधरौष्ठम् ॥२३८॥
 
+
+
 उज्ज्वलनीलमणि १५.२३४—
+
+
 
 व्यात्युक्षीयुधि राधया घनरसैः पर्युक्ष्यमाणस्य ते
 
@@ -23896,7 +31230,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तन्मा भूश्चकितो विमुक्तचिकुरं नार्दत्यसौ त्वद्विधम् ॥२३९॥
 
+
+
 आनन्दवृन्दावनचम्पू २०.८१८३—
+
+
 
 पद्मैः केशाभरणममलैरुत्पलैः कर्णभूषां
 
@@ -23906,6 +31244,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 प्रेम्णा नार्यो दिनमणिभुवे प्रीतिदेयानि चक्रुः ॥२४०॥
 
+
+
 उल्लास्य वामकरवारिरुहेण वारि
 
 झङ्कारिकङ्कणकलेन च दक्षिणेन ।
@@ -23913,6 +31253,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 सन्ताड्य चारु जलमड्डुकवाद्यलीलाम्
 
 आतेनुरुत्सवसमाप्तिफलामिवैताः ॥२४१॥
+
+
 
 स्नानोत्तीर्णाः कनकनलिनईस्पर्धिभासो नितम्बं
 
@@ -23922,7 +31264,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ध्वान्तैः पृष्ठानुसरणपरैरंशुमाला इवेन्दोः ॥२४२॥
 
+
+
 गोविन्दलीलामृतं २३.७२९०—
+
+
 
 आलेपनालङ्करणैरमूषाम्
 
@@ -23932,6 +31278,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लोभाय कृष्णस्य दृशोस्तदासीत॥२४३॥
 
+
+
 तासां वक्षश्चन्दनैः श्वेततोया
 
 कृष्णा साम्यं गङ्गयासौ गतापि ।
@@ -23939,6 +31287,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शौरेस्तत्तत्केलिसौभाग्यलाभात्
 
 ताभिः शश्वत्सुष्ठु सा तामजैषीत॥२४४॥
+
+
 
 इत्थं विधायाम्बुविहारनृत्यं
 
@@ -23948,9 +31298,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 दधार प्रत्युद्गमनीयवस्त्रम् ॥२४५॥
 
+
+
 वृन्दा ताभिः समं कृष्णमानीय स्वर्णमण्डपम् ।
 
 तत्पूर्वकुट्टिमे पुष्पास्तरणे तं न्यवीविशत॥२४६॥
+
+
 
 ततः सवृन्दोपनिनाय वृन्दा
 
@@ -23960,17 +31314,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लेपाञ्जनैर्नागजवर्णकैश्च ॥२४७॥
 
+
+
 तत्तन्नामाङ्कितानालीततिरादाय पेटिकान।
 
 कृष्णं राधां सखीश्चामूः पृथक्पृथगभूषयत॥२४८॥
+
+
 
 हरिरुज्ज्वलरसमूर्तिरतिपरिणतमूर्तयो हि राधाद्याः ।
 
 विधुरयमस्य कलास्ता एकात्मनोऽपि तत्पृथग्देहाः ॥२४९॥
 
+
+
 मिथःस्नेहाभ्यङ्गरम्यः सख्योद्वर्तनसुप्रभाः ।
 
 तारुण्यामृतसुस्नाता लावण्यरसनोज्ज्वलाः ॥२५०॥
+
+
 
 मिथःसौभाग्यतिलकाः सौन्दर्यस्थासकाञ्चिताः ।
 
@@ -23992,6 +31354,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तान्यत्त्वाचम्य ताभिः स विवेश केलिमन्दिरम् ॥२५५॥
 
+
+
 तस्मिन्मुक्तचतुर्द्वारि यमुनानिलशीतले ।
 
 कोटिसूर्यांशुसद्रत्नचयांशुपरमोज्ज्वले ॥२५६॥
@@ -24004,6 +31368,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नानोपधानचित्रास्ते कृष्णः सुष्वाप कान्तया ॥२५८॥
 
+
+
 पर्यङ्कपार्श्वस्थितखट्टिकायुगे
 
 सुखं निविष्टे ललिताविशाखिके ।
@@ -24011,6 +31377,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 कृष्णास्यताम्बूलसुचर्वितानने
 
 ताम्बूलमास्वादयतां निजेश्वरौ ॥२५९॥
+
+
 
 श्रीरूपरतिमञ्जर्यौ पादसंवाहनं तयोः ।
 
@@ -24020,7 +31388,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सख्यस्ताः सुषुपुः स्वे स्वे कल्पवृक्षलतालये ॥२६१॥
 
+
+
 कृष्णभावनामृतं २०.११२३—
+
+
 
 स्वबाहुसन्दानितकण्ठया तया
 
@@ -24030,6 +31402,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्किङ्करीणां समपूरि वाञ्छिताम् ॥२६२॥
 
+
+
 ऊर्वोः स्वयोः कनकपीठयोः क्रमान्
 
 निधाय पदाम्बुरुहे निजेशयोः ।
@@ -24037,6 +31411,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 द्वे दासिके तच्छयनान्तसङ्गते
 
 दृग्बिन्दुभिः पाद्यमिवोपजह्रतुः ॥२६३॥
+
+
 
 उद्भिन्नरोमाङ्कुरपालिरेव
 
@@ -24046,6 +31422,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 पाण्यम्बुजैरार्चयतामिवैते ॥२६४॥
 
+
+
 गन्धं तु कस्तूर्यमृतसुपङ्कैर्
 
 वक्सःस्थलस्थैरुपकल्प्य सद्यः ।
@@ -24053,6 +31431,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निःश्वासधूपैर्नखरत्नदीपैर्
 
 आलोक माल्यैर्धिनुतः स्म नीत्या ॥२६५॥
+
+
 
 नैवेद्यतायां करकावुरोजौ
 
@@ -24062,6 +31442,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निर्मञ्छनं प्रेमभरद्व्यधत्ताम् ॥२६६॥
 
+
+
 हिरण्यरम्भोपरिवर्तिपल्लवेष्व्
 
 आसज्य रक्तोत्पलकोरकोत्तमाः ।
@@ -24069,6 +31451,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 भृङ्गालिझङ्कारभृतोऽनटन्नहो
 
 तत्पादसंवाहनदम्भतोऽसकृद॥२६७॥
+
+
 
 तौ वीजयन्त्यो वलयानि झङ्कृति
 
@@ -24078,6 +31462,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किं स्वैरधिन्वन्नधिपौ नटीकृतैः ॥२६८॥
 
+
+
 सुवर्णवर्णाः क्रमुकेन्दुजाती
 
 लवङ्गचूर्नाद्युचितांशभाजः ।
@@ -24085,6 +31471,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 ताम्बूलवीटीरपरे न्यधत्तां
 
 तदास्ययोः पार्श्वगते कराभ्याम् ॥२६९॥
+
+
 
 यौ पूर्णचन्द्रावुदितौ निरङ्कौ
 
@@ -24094,6 +31482,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 गाङ्गेयवल्ल्यौ मुहुरीजतुः किम् ॥२७०॥
 
+
+
 कन्ते दिशैताः शयनाय गन्तुं
 
 घूर्णद्दृशः सम्प्रति स्विन्नगात्रीः ।
@@ -24101,6 +31491,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रान्तिह्पदोस्ते न शमं ययौ चेत्
 
 तदर्थमेतावहमेव धास्ये ॥२७१॥
+
+
 
 इत्युक्तिमात्रेण समीहितस्यै
 
@@ -24110,6 +31502,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तन्मन्दिराल्लब्धवरा निरीयुः ॥२७२॥
 
+
+
 निष्णात एवातनुतीर्थसरे
 
 रोमाञ्चपूर्णः स्फुरितोज्ज्वलाङ्गः ।
@@ -24117,6 +31511,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 स्मृत्युद्भवाशेषविशेषधर्मा
 
 नुष्ठानदक्षो रभसं स भेजे ॥२७३॥
+
+
 
 प्रारम्भ एवाघभिदस्तदास्या
 
@@ -24126,6 +31522,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 ऽनङ्गोऽपि साङ्गो निरपायमिष्टः ॥२७४॥
 
+
+
 नानोपचारान्कलयन्मुदाशा
 
 बन्धं वितन्वन्नपसार्य विघ्नान।
@@ -24134,7 +31532,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कृत्वा करन्यासमुपात्तकान्तौ ॥२७५॥
 
+
+
 कृष्णभावनामृतं २०.४५५१—
+
+
 
 विद्युद्घनार्चिक्रमिषां यदोपरि
 
@@ -24144,6 +31546,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 जालावलीं हर्षजलैः प्लुतां व्यधुः ॥२७५॥
 
+
+
 बहिस्तु यन्त्रव्यजननेन दास्यस्
 
 तौ वीजयाञ्चक्रुरजस्रमस्रैः ।
@@ -24151,6 +31555,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 प्लुतेक्षाणाश्चुक्रुधुरप्रमेय
 
 प्रेम्णे तदात्वानवलोकदीनाः ॥२७६॥
+
+
 
 प्रफुल्लनीलाम्बुजसीधुचन्द्रः
 
@@ -24160,6 +31566,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किं बलात्तदीयामृतमप्यधासीत॥२७७॥
 
+
+
 अभ्रान्तरुद्यच्चलसूर्यमण्डले
 
 ननर्त मुक्तावलिरात्तसम्मदा ।
@@ -24167,6 +31575,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 हंसावधूताः कनकावलीं श्रिता
 
 वाद्यं विचित्रं रभसादवीवदन॥२७८॥
+
+
 
 तत्रागत श्रीमधुसूदनोद्यद्
 
@@ -24176,6 +31586,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 द्रौत्यं दधे स्वेदमिषात्सवेपम् ॥२७९॥
 
+
+
 बालास्तु कौटिल्यभृतोऽति लौल्याद्
 
 इतस्ततः संसरणभजन्तः ।
@@ -24183,6 +31595,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रुतिप्रसक्ताः प्रतिकर्मभातास्
 
 तस्थुर्मदादैन्दवमण्डलान्तः ॥२८०॥
+
+
 
 अवार्यमानामृतपानदृप्तयो
 
@@ -24192,7 +31606,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 यूनोर्जिगीषा समवर्धत र्द्धिभिः ॥२८१॥
 
+
+
 गोविन्दलीलामृतं १५.२६—
+
+
 
 ताभ्यां तु सन्धौ विहिते तदा तयोः
 
@@ -24202,7 +31620,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कैश्यालकाल्यम्बरसंवृतिं च सः ॥२८२॥
 
+
+
 उज्ज्वलनीलमणि ११.४३—
+
+
 
 त्वं गोविन्द मयासि किं नु कवरीबन्धार्थमभ्यर्थितः
 
@@ -24212,13 +31634,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नैवोत्तंसय मालतीर्मम शिरः खेदं भरेणाप्स्यति ॥२८३॥
 
+
+
 सङ्ग्रहकर्तुः—
+
+
 
 इति तद्वाक्सुधां पीत्वात्याग्रहं स हरिर्यदा ।
 
 कृतवांस्तु तदा राधा वेशायानुमतिं ददौ ॥२८४॥
 
+
+
 गीतगोविन्द १२.२५—
+
+
 
 रचय कुचयोश्चित्रं पत्रं कुरुष्व कपोलयोर्
 
@@ -24228,7 +31658,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 इति निगदितः प्रीतः पिताम्बरोऽपि तथाकरोत॥२८५॥
 
+
+
 उज्ज्वलनीलमणि १४.१०६—
+
+
 
 चित्रं चिरस्पर्शसुखाय चुचुके
 
@@ -24238,7 +31672,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 सव्येन चिक्षेप कुचेन केशवम् ॥२८६॥
 
+
+
 उज्ज्वलनीलमणि ५.९२—
+
+
 
 मुदा कुर्वन्पत्राङ्कुरमनुपमं पीनकुचयोः
 
@@ -24248,7 +31686,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 निराबाधां राधां रमयति चिरं केशिदमनः ॥२८७॥
 
+
+
 विदग्धमाधव ७.४८—
+
+
 
 नीतं ते पुनरुक्ततां भ्रमरकैः कस्तूरिकापत्रकं
 
@@ -24258,7 +31700,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किं राधे तव मण्डनेन नितरामङ्गैरसि द्योतिता ॥२८८॥
 
+
+
 सङ्ग्रहकर्तुः (?)—
+
+
 
 सदा न त्याज्यं चेदलिकतिलकं च गर्भकमुत
 
@@ -24268,6 +31714,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 न वा तीरे त्याजा मदनतटिनी नौरपि न वा ॥२८९॥
 
+
+
 चकोरं चन्द्रो न त्यजतु यदि मेघो न करका
 
 शनीः प्राणाघातौ किरतु बत चेच्चातकमुखे ।
@@ -24276,7 +31724,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 हरिः श्लाघित्वेत्थं वृषरविस्तुआं तां रमयति ॥२९०॥
 
+
+
 गोविन्दलीलामृतं २३.५४५६—
+
+
 
 स्वाधीनभर्तृकावस्थां प्रापय्य राधिकां तया ।
 
@@ -24290,7 +31742,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 एकः सन्राधिकामागात्स्वदर्शनमृदुस्मिताम् ॥२९३॥
 
+
+
 कृष्णभावनामृत २०.१०—
+
+
 
 स्वबाहुसन्दानितकण्ठया तया
 
@@ -24300,13 +31756,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तत्किङ्करीणां समपूरि वाञ्छिताम् ॥२९४॥
 
+
+
 अलङ्कारकौस्तुभः ५.२०—
+
+
 
 पाययति पिबति चास्यं प्रेयसि ललिते क्व त्वमसीति ।
 
 सान्द्रानन्दविनिद्रितराधा स्वप्नायितं जयति ॥२९५॥
 
+
+
 अलङ्कारकौस्तुभः ५.२१—
+
+
 
 अर्धाकुद्मलितानिमेषनयनं निस्पन्दतारं कियद्
 
@@ -24316,13 +31780,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 किञ्चित्त्वं ललिते पिबेति किमपि स्वप्नायते राधिका ॥२९६॥
 
+
+
 गोविन्दलीलामृतं २३.९१—
+
+
 
 श्रीरूपमञ्जरीमुख्याः सेवापरसखीजनाः ।
 
 तल्लीलामन्दिरबहिः कुट्टिमे शिश्यिरे सुखम् ॥२९७॥
 
+
+
 ललितमाधव ६.४१—
+
+
 
 अलिन्दे कालिन्दीकमलसुरभौ कुञ्जवसतेर्
 
@@ -24332,15 +31804,25 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 कदाहं सेविष्ये किशलयकलापव्यजनिनी ॥२९८॥
 
+
+
 इति श्रीश्रीभावनासारसङ्ग्रहे नक्तलीलास्वादनं नाम
 
 अष्टमः सङ्ग्रहः ॥
 
 ॥८॥
 
+
+
 ओ)०(ओ
 
+
+
+
+
 उपसंहारः
+
+
 
 नित्यानन्दसनातनामलनवद्वीपाभिराम प्रभो
 
@@ -24350,6 +31832,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 लक्ष्मीप्राण गदाधरप्रिय हरे विश्वम्भर पाहि माम् ॥१॥
 
+
+
 यत्पादपङ्कजरजः शिरसा प्रणम्य
 
 धन्या भवन्ति नितरां बहवो जगत्याम् ।
@@ -24357,6 +31841,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीमत्सनातनतनुः सदयार्द्रचित्तो
 
 मन्दस्य मेऽप्यनुदिनं शरणं स एव ॥२॥
+
+
 
 श्रीरूपस्याङ्घ्रिपद्मं प्रणतमतिरहं नौमि भूमौ निपत्य
 
@@ -24366,6 +31852,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीमद्वृन्दावन्नीयं मधुररतिरसं दर्शयामास सर्वान॥३॥
 
+
+
 श्रीचैतन्यकृपासुधाब्धिलहरीसिक्तं गभीरं गुणैः
 
 श्रीरूपप्रणयप्रमोदसरसीभृङ्गादृतस्वान्तकम् ।
@@ -24373,6 +31861,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीवृन्दाविपिनेश्वरीगिरिभृतोर्लीलामृतास्वादकं
 
 तं श्रीमद्रघुनाथभट्टमनिशं वन्दे प्रमोदान्वितम् ॥४॥
+
+
 
 श्रीमद्गोपालभट्टः प्रभुवरकरुणासागरो दीनबन्धुस्
 
@@ -24382,6 +31872,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 श्रीराधाकृष्णपादाम्बुजपरिचरणं शिक्षयामास यस्मै ॥५॥
 
+
+
 श्रीचैतन्यकृपासुधामयनदीवीचीभिरासिञ्चितः
 
 श्रीमद्रूपसनातनप्रियतमः श्रीजीववात्सल्यवान।
@@ -24389,6 +31881,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 श्रीराधासरसीतटे विनिवसन्नामामृतानन्दितो
 
 यस्तं श्रीरघुनाथदासमनिशं वन्दे कृपासागरम् ॥६॥
+
+
 
 श्रीमज्जीवं सदयहृदयो लोकदुर्गम्यभावो
 
@@ -24398,6 +31892,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 तस्य श्रीमच्चरणयुगलं नौमि नित्यं प्रपन्नः ॥७॥
 
+
+
 यः कृष्णचैतन्यकृपैकवित्तस्
 
 तत्प्रेमहेमाभरणाढ्यचित्तः ।
@@ -24405,6 +31901,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 निपत्य भूमौ सततं नमामस्
 
 तं लोकनाथं प्रभुमाश्रयामः ॥८॥
+
+
 
 यः श्रीमत्कृष्णदासः कविनृपतिवरः स्निग्धमुग्धस्वरूपः
 
@@ -24414,6 +31912,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वन्दे तत्पादयुग्मं सकलकुशलदं नित्यमानन्दयुक्तम् ॥९॥
 
+
+
 आचार्यः श्रीनिवासः प्रभुरतिरुचिरस्तप्तकार्तस्वराभः
 
 श्रीरामकृष्णनामामृतमयजलधेरूर्मिणाकृष्णजिह्वः ।
@@ -24421,6 +31921,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 यः श्रीवृन्दावनीयं मधुररतिरसं दर्शयामास लोकांस्
 
 तस्य श्रीमत्पदाब्जं मम कृपणमतेर्जीवनं तच्च नौमि ॥१०॥
+
+
 
 श्रीकृष्णनामामृतवर्षिवक्त्र
 
@@ -24430,9 +31932,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नमो नमः श्रीलनरोत्तमाय ॥११॥
 
+
+
 श्यामानन्दमहं वन्दे प्रेमानन्दपरिप्लुतम् ।
 
 यस्मै श्रीराधिका स्वीयां तुलाकोटिं ददौ मुदा ॥१२॥
+
+
 
 चैतन्यचन्द्रस्य पदारविन्द
 
@@ -24442,6 +31948,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 नमामि दन्तैस्तृणमाददानः ॥१३॥
 
+
+
 संसारदावानललीढलोक
 
 त्राणाय कारुण्यघनाघनत्वम् ।
@@ -24450,7 +31958,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 वन्दे गुरोः श्रीचरणारविन्दम् ॥१४॥
 
+
+
 (स्तवामृतलहरी १.१)
+
+
 
 तस्य श्रीगुरुपादपद्ममधुनः केन स्तवे प्राभवं
 
@@ -24462,6 +31974,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 (कृष्णभावनामृत उपसंहारे २)
 
+
+
 श्रीगोविन्दपदारविन्दमधुपानन्याभिलाषोज्झितान्
 
 पूर्णप्रेमरसोत्सवोज्ज्वलमनोवृत्तिप्रसन्नाननान।
@@ -24469,6 +31983,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 शश्वत्कृष्णकथामहामृतपयोराशौ मुदा खेलतो
 
 वन्दे भागवतानिमाननुलवं मूर्ध्ना निपत्य क्षितौ ॥१६॥
+
+
 
 दशमो गीतगोविन्दो रस्मामृतोज्ज्वलौ तथा ।
 
@@ -24502,14 +32018,33 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjAwNTAyNzcwNjk
 
 केनचिदतिमुग्धेन भावनासारसङ्ग्रहः ॥२४॥
 
+
+
 वसुऋषिसिन्धुरेन्दुसङ्ख्ये गोवर्धनान्तरे ।
 
 फाल्गुने सितपञ्चम्यां ग्रन्थोऽयं पूर्णतां गतः ॥२५॥
+
+
 
 इति श्रीपरमकरुणार्णवश्रीलनरोत्तमदासनामधेयठक्कुरमहाशय
 
 भृत्यभृत्यानुभृत्यकृष्णदासेन श्रीगोवर्धनवासिना
 
 रचितः श्रीश्रीभावनासारसङ्ग्रहः समाप्तः
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \]

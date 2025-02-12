@@ -13,7 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NjUzNjcyODA
 
 \[
 
+
+
           ***शृङ्गारविलासः***
+
+
 
 न मनागपि राहुरो,शङ्का न कलङ्कानुगमो न पाण्डुभावः ।  
 उपचीयत एव कापि शोभा परितो भोमिनि ते मुखस्य नित्यम्‌ ॥1॥
@@ -633,6 +637,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2NjUzNjcyODA
 विलसनत्यानने तस्या नासाग्रस्थितमौक्तिकम्‌ ।  
 आलक्षितबुधाश्लेषं राकेन्दोरिव मण्डलम्‌ ॥180॥
 
+
+
+
+
  \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 
 \]

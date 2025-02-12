@@ -11,7 +11,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwNDIwNTc0NTg
 
 \[
 
+
+
+
+
 ***कर्णभारम्***।
+
+
+
+
 
 (
 
@@ -146,6 +154,8 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwNDIwNTc0NTg
 इति
 
 प्रस्तावना
+
+
 
 प्रथमोऽङ्कः
 
@@ -2421,6 +2431,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwNDIwNTc0NTg
 
 कर्णभारमवसितम्।
 
+
+
+
+
+
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+
 
 \]

@@ -13,7 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM3MjY5ODIzNDY
 
 \[
 
+
+
     ***करुणाविलासः***
+
+
 
 \\\\दैवे पराग्वदनशालिनि हन्त जाते  
 याते च सम्प्रति दिवं प्रति बन्धुरत्ने ।  
@@ -110,6 +114,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM3MjY5ODIzNDY
 लोकोत्तरामथ कृतिं करुणारसार्द्रां  
 स्तोतुं न कस्य समुदेति मनः प्रसारः ॥19॥
 
+
+
+
  \*\*\*\*\*\*\*\*\*\*\*\*
+
 
 \]

@@ -13,7 +13,21 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzNjIzMTYyMjk
 
 \[
 
+
+
+
+
+
+
+
+
+
+
+
+
  ॥ ***उपक्रमांशपद्यानि*** ॥
+
+
 
 स्मृतापि तरुणातपं करुणया हरन्ती नृणा-  
 मभङ्गुरतनुत्विषां वलयिता शतैर्विद्युताम्‌ ।  
@@ -48,5 +62,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODIzNjIzMTYyMjk
 
 रसगङ्गाधरनामा सन्दर्भोऽयं चिरं जयतु ।  
 किं च कुलानि कवीनां निसर्गसम्यञ्चि रञ्जयतु ॥8॥
+
+
+
+
+
+
+
+
+
 
 \]

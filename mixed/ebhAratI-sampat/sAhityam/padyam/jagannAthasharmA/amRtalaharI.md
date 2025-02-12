@@ -13,7 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5MDg3MjYzMDA
 
 \[
 
+
+
 ***अमृतलहरी***
+
+
 
 मातः पातकपातकारिणि तव प्रातः प्रयातस्तटं  
 यः कालिन्दि महेन्द्रनीलपटलस्निग्धां तनुं वीक्षते ।  
@@ -68,6 +72,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM5MDg3MjYzMDA
 अयं पण्डितराजेन श्रीजगन्नाथशर्मणा ।  
 स्तवः कलिन्दनन्दिन्या निर्मलो निरमीयत ॥11॥
 
+
+
+
+
  \*\*\*\*\*\*\*\*\*\*\*\*\*
+
 
 \]
