@@ -12,23 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcwNTc0NDI2MTU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **योगतत्त्वोपनिषत् ।**
-
-
 
 योगैश्वर्यं च कैवल्यं जायते यत्प्रसादतः ।
 
@@ -610,8 +594,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcwNTc0NDI2MTU
 
 निश्चितं त्वात्ममात्रेणावशिष्टं योगसेवयेत्युपनिषत् ॥
 
-
-
 ॐ सह नाववतु ॥ सह नौ भुनक्तु ॥ सह वीर्यं करवावहै ॥
 
 तेजस्विनावधीतमस्तु मा विद्विषावहै ॥
@@ -621,18 +603,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjcwNTc0NDI2MTU
 **इति योगतत्त्वोपनिषत् समाप्ता ॥**
 
 **------------------------------**
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

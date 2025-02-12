@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTM
 
 \[
 
-
-
-
-
 [TABLE]
-
-
 
 **LIST OF SINGE DRUGS OF ANIMAL ORIGIN**
 
@@ -53,8 +47,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTM
 |  26  |       Ghṛta        |    Goghṛta     | Ghee from cow's milk |
 |  27  |      Godadhi       |               |  Curd of Cow's milk  |
 
-
-
 |     |                  |                  |                               |
 |:---:|:----------------:|:----------------:|:-----------------------------:|
 | 28  |     Godanta      |                 |         Tooth of cow          |
@@ -87,8 +79,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTM
 | 55  |     Kṣaudra      |      Madhu       |             Honey             |
 | 56  |  Kukkuṭīṇḍatvak  |                 |      Shell of hen's eggs      |
 
-
-
 |     |                    |                     |                            |
 |:---:|:------------------:|:-------------------:|:--------------------------:|
 | 57  |    Māhiṣapitta     |                    |      Bile of buffalo       |
@@ -120,8 +110,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTM
 | 84  | Pīlikkaṇṇu (S. Y.) |    Mayūrapiccha     |      Peacock feather       |
 | 85  |   Paviza(S. Y.)    |       Pravala       |           Coral            |
 
-
-
 |     |                     |                     |                      |
 |:---:|:-------------------:|:-------------------:|:--------------------:|
 | 86  |        Paya         |      Godugdha       |     Milk of cow      |
@@ -152,24 +140,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTM
 | 111 |       Vidruma       |       Pravāla       |        Coral         |
 | 112 |      Vṛṣaśrṅga      |                    |      Horn of ox      |
 
-
-
 |     |              |           |                |
 |:---:|:------------:|:---------:|:--------------:|
 | 113 | Vyāghranakha |          | Nail of Tiger  |
 | 114 |  Kapardikā   | Kapardikā | Shell (Cowrie) |
 
-
-
 **LIST OF SINGLE DRUGS OF MINERAL ORIGIN**
 
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 |     |                   |                  |                             |
 |:---:|:-----------------:|:----------------:|:---------------------------:|
@@ -200,11 +180,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTM
 | 79  |       Nāga        |                 |            Lead             |
 | 80  |    Naṭabhūṣaṇa    |     Haritāla     |          Orpiment           |
 
-
-
 [TABLE]
-
-
 
 |     |                   |                   |                           |
 |:---:|:-----------------:|:-----------------:|:-------------------------:|
@@ -233,8 +209,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTM
 | 131 |      Soraka       |                  |        Salt petre         |
 | 132 |    Srotoñjana     |      Añjana       | Stibnite (black antimony) |
 | 133 |    Sugandhaka     |     Gandhaka      |          Sulphur          |
-
-
 
 |       |                         |              |                              |
 |:-----:|:-----------------------:|:------------:|:----------------------------:|
@@ -267,181 +241,93 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTM
 | 160  |         Trapu          |    Nāga     |             Lead             |
 |  161  |     Tṛṇakāntamaṇi     |             |  Iron (magnetite/hematiate)  |
 
-
-
 [TABLE]
-
-
 
       LIST OF SINGLE DRUGS OF PLANT ORIGIN
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 |     |              |                |                                       |                          |
 |:---:|:------------:|:--------------:|:-------------------------------------:|:------------------------:|
@@ -469,19 +355,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjM3NTIzOTYyNTM
 | 979 |   Vañjula    |     Vetasa     |          Salix carprea Linn.          |                         |
 | 980 |   Vaśīraka   |    Cāṅgerī     |       Oxalis corniculata Linn.        |                         |
 
-
-
 [TABLE]
-
-
 
 [TABLE]
 
 # 
 
 [TABLE]
-
-
-
 
 \]

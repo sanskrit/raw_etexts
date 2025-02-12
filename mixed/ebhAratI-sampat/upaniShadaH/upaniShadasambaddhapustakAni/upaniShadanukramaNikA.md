@@ -11,8 +11,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0ODA4NTY2NTk
 
 \[
 
-
-
 1.  ईश
 \-
 शुक्लयजुर्वेद
@@ -341,6 +339,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDM0ODA4NTY2NTk
 ः
 
 ----------------------------------------------------------
-
 
 \]

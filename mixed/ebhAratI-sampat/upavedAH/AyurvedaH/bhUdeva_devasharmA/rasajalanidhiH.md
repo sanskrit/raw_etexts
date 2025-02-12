@@ -15,18 +15,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUyOTIyNDI5Nzc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
 **CONTENTS**.
@@ -61,8 +49,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUyOTIyNDI5Nzc
 | (9) Rehabilitation ,,                            |
 | Easy process of absolute purification of mercury. |
 
-
-
 |                                                                |
 |----------------------------------------------------------------|
 | (10) Swallowing of metals by mercury                           |
@@ -96,8 +82,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUyOTIyNDI5Nzc
 | Another process of dyeing of mercury                           |
 | (18) Transformation of base metals into gold bymercury        |
 
-
-
 |                                                                             |
 |-----------------------------------------------------------------------------|
 | Importance of metals in the above                                           |
@@ -130,7 +114,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDUyOTIyNDI5Nzc
 | ,,  Chapter VI'                                                                                                    |
 | ,,  Chapter VII'                                                                                                   |
 | ,,  Chapter VIII'                                                                                                  |
-
 
 **\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -206,8 +189,6 @@ CALCUTTA.
 इत्युपनामधारिणा विरचितः।  
 **\_\_\_\_\_\_\_\_**
 
-
-
 सर्व्वसत्त्वं संरक्षितं ग्रन्थकारेण। 
 
 कल्यब्दः ५०२७। 
@@ -215,15 +196,11 @@ CALCUTTA.
 मूल्यं षड् मुद्राः।  
 विदेशमूल्यं दश मुद्राः।
 
-
-
 **PRINTED BY  
 K. C. NEOGI,  
 NABABIBHAKAR PRESS  
 91-2, MECHUA BAZAR STREET,  
 CALCUTTA.**
-
-
 
 **सूचीपत्रम्।**
 
@@ -250,8 +227,6 @@ CALCUTTA.**
 | रसस्य स्वेदनम्—द्वितीयः संस्कारः |
 | रसस्य मर्द्दनम्—तृतीयः संस्कारः  |
 |  रसस्य उद्धतिः—चतुर्थः संस्कारः  |
-
-
 
 |                                       |
 |:-------------------------------------:|
@@ -284,8 +259,6 @@ CALCUTTA.**
 |              पञ्चामृतम्               |
 |              रससेवाविधिः              |
 
-
-
 |                                       |
 |:-------------------------------------:|
 |               **विषयः**               |
@@ -315,8 +288,6 @@ CALCUTTA.**
 |           **षष्ठोऽध्यायः|**           |
 |               यन्त्रानि               |
 
-
-
 |                                                                                                                                                                                                                                                                                       |
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                                                                                                       **विषयः**                                                                                                                                       |
@@ -328,8 +299,6 @@ CALCUTTA.**
 |                                                                                                                                       रसबन्धाः                                                                                                                                        |
 |                                                                                                                                  **अष्टमोऽध्यायः|**                                                                                                                                   |
 |                                                                                                                               अतिरिक्ताः वेधनप्रक्रियाः                                                                                                                               |
-
-
 
 **शुद्धिपत्रम्।**
 
@@ -361,8 +330,6 @@ CALCUTTA.**
 |       ,,        |        ,,        |
 |       ,,        |        ,,        |
 
-
-
 |                 |                |
 |:---------------:|:--------------:|
 | **अशुद्धपाठः**  | **शुद्धपाठः**  |
@@ -386,8 +353,6 @@ CALCUTTA.**
 | क्षारैररम्लेश्च | क्षारैरम्लैश्च |
 |     राङ्गलि     |    रांगुलि     |
 |      दङ्गल      |     दंगुलो     |
-
-
 
 **रसजलनिधिः।**  
 **![](../../../books_images/U-IMG-1708003972123456.png)**  
@@ -436,8 +401,6 @@ CALCUTTA.**
 **राक्षसी ज्ञायते सद्भिः शस्त्रादिभिः कृता तु या।  
 अतएव रसक्रिया शिक्षणीयातियत्नतः॥**
 
-
-
 **INTRODUCTION.**
 
   I bow down to the Greatest of the great, at the movements of whose blissful eyes the universe comes into being, undergoes dissolution, and is frequently absorbed in Himself—I bow down to Him who has conquered death, has been maintaining the universe from all eternity, and is the source of all greatness and magnanimity.
@@ -455,8 +418,6 @@ CALCUTTA.**
 [^3]: "According to the Hindus, eternity is measured by the following terms-Kalpa, Manwantara and Juga. Kalpa is the period which is followed and preceded by the dissolution of the universe. A Kalpa is sub-divided into so many Manwantaras, each of which is again subdivided into so many Jugas."
 
   Treatment of diseases by Rasa (mercury), gems, metals etc is divine, that by incantations and vegetable drugs human, and that by surgical instruments diabolical. Metallurgy is therefore to be learnt very carefully.
-
-
 
 **प्रथमोऽध्यायः।**
 
@@ -679,7 +640,6 @@ CALCUTTA.**
   Those who are engaged in metallurgical operations should secure the services of those physicians who are well-versed in the science, in lexicography, and in the commentaries of the difficult books on the subject; and of those attendants who are persevering and are neat and clean, courageous and strong. TheAghora mantram is to be frequently chanted all the time a mercurial operation is carried on.  
   For the purpose of performance of metallurgical. operations, one should engage a chemist of the following description:—pious, truthful, learned, worshipper of Shiva and Keshava (personifications of the two different aspects of the same God), kindhearted, and having the following marks on the palm:—flag, vessel, lotus, fish, bow, and a line just below the ring-finger (i.e., on the mount of sun). Such a chemist is called nectar-palmed. A chemist who is unfortunate, cruel, greedy, uninitiated, and has black spots on his palm is called burnt-palmed, and should therefore be avoided in metallurgical operations.   
 
-
 **शुचीनां सत्यवाक्यानामास्तिकानां मनस्विनाम्।  
 सन्देहोज्भ्क्तितचित्तानां रसः सिध्यति सर्वदा॥**
 
@@ -774,7 +734,6 @@ an earthen vessel full of water, and containing gold, gems, and fruits, is to be
   The next thing to be done is to draw, with red vermilion, a hexagonal diagram, two cubits long on
 
 [TABLE]
-
 
 the Rasamandapam, by the side of which is to be drawn carefully a quadrangular and eight petalled lotus furnished with fourdoor-ways. (*Vide*  figure given here).
 
@@ -997,7 +956,6 @@ of Mercury.***
   The name, Rasa (from root ‘ras’ = to eat), is due to the fact that mercury can swallow every metal, or that mercury is eaten by men with a view to being cured of all diseases. The name Rasendra (from Rasa + Indra, a king) is due to the fact that mercury is the king of all medicines. The name, Suta (frem ‘su’ = to give rise to), is due to fact that mercury is competent to make the box as strong as steel. The name, ‘Parada’ (from para = end + da = to give)is due to the fact that mercury causes an end of the suffering of those men who are immersed in the muddy sea of diseases. The name, Jiva (from root, jiv=to live), is due to the fact that mercury helps human beings to live: The name, Mishraka (from mishra-mixed), is due to the fact that the properties of all the metals are found combined in Mercury.
 
 **\_\_\_\_\_\_\_\_\_**  
-
 
 **चतुर्थोऽध्यायः।**
 
@@ -1502,7 +1460,9 @@ Saindhaba, trikatu, all the ksharas (alkalis), and mercury are to be rubbed toge
 जम्बीरद्रवयोगेन यावदायाति पिण्डताम्॥**
 
 **तत् पिण्डं तलभाण्डस्थमूर्द्धभाण्डे जलं क्षिपेत्।  
-[विद्याधराख्ययन्त्रेण](http://॑# "अग्रेयन्त्रनिरूपणाख्यः अध्यायो द्रष्टव्यः।") रसं समुद्धरेद्बुधः॥**
+विद्याधराख्ययन्त्रेण[^116] रसं समुद्धरेद्बुधः॥**
+
+[^116]: "अग्रेयन्त्रनिरूपणाख्यः अध्यायो द्रष्टव्यः।"
 
   (5) Patanam or sublimation of mercury (*i.e.,* the fifth mercurial operation).
 
@@ -1510,9 +1470,9 @@ Saindhaba, trikatu, all the ksharas (alkalis), and mercury are to be rubbed toge
 
 **First process.**
 
-  Three parts of mercury and one part of copper are to be rubbed with lime juice till the whole thing turns into a lump. This lump is to be kept inside an earthen vessel on which is to be placed another earthen vessel containing water, forming what is called a Vidyadhara Jantram[^29], by means of which the mercury is to be sublimated,
+  Three parts of mercury and one part of copper are to be rubbed with lime juice till the whole thing turns into a lump. This lump is to be kept inside an earthen vessel on which is to be placed another earthen vessel containing water, forming what is called a Vidyadhara Jantram[^116], by means of which the mercury is to be sublimated,
 
-[^29]: "अग्रेयन्त्रनिरूपणाख्यः अध्यायो द्रष्टव्यः।"
+[^116]: "अग्रेयन्त्रनिरूपणाख्यः अध्यायो द्रष्टव्यः।"
 
 —मतान्तरम्—
 
@@ -1579,14 +1539,18 @@ Branaghni and jakshalochanam.
 
 **First process.**
 
-  Mercury is to be rubbed with triphala, sigru, chitraka, saindhava, and rajika, and made into a lump which will have to be attached to the internal surface of the upper vessel of a Bhudhara [Jantram](http://॑# "For details see chapter on apparata."),placed upside down upon another vessel containing water, a glowing fire made of dried cowdung balls being placed upon the external surface of the upper vessel. The downward sublimation of mercury will have to be effected in this way.
+  Mercury is to be rubbed with triphala, sigru, chitraka, saindhava, and rajika, and made into a lump which will have to be attached to the internal surface of the upper vessel of a Bhudhara Jantram[^117],placed upside down upon another vessel containing water, a glowing fire made of dried cowdung balls being placed upon the external surface of the upper vessel. The downward sublimation of mercury will have to be effected in this way.
+
+[^117]: "For details see chapter on apparata."
 
 —मतान्तरम्—
 
 **द्वितीयो विधिः।**
 
-**[नवनीताह्वयं](http://॑# "नवनीतार्द्रकमितिरसेन्द्रचिन्तामणिघृतपाठः।")सूंतं घृष्ट्वाजम्भाम्भसा दिनम्।  
+**नवनीताह्वयं[^118]सूंतं घृष्ट्वाजम्भाम्भसा दिनम्।  
 वानरी शिग्रुशिखिभिः सैन्धवासुरिसंयुतैः॥**
+
+[^118]: "नवनीतार्द्रकमितिरसेन्द्रचिन्तामणिघृतपाठः।"
 
 **नष्टपिष्टं रसं कृत्वा लेपयेदूर्द्ध भाण्डके।  
 ऊर्द्ध भाण्डोदरं लिप्त्वाऽधोभाण्डंजलसंयुतम्॥**
@@ -1619,7 +1583,9 @@ Branaghni and jakshalochanam.
 
 **शुलवाद रसं रसात् ताम्रंपातयेच्च पृथक् पृथक्।  
 पुनः पिष्टी प्रकर्त्तव्या दत्त्वाम्लं ताम्रसंयुतम्।  
-ऊर्द्ध्वपातनमेतस्य यन्त्रे [डमरुके](http://॑# "विद्याधरयन्त्रम् प्रशस्ततरम्।")भवेत्॥**
+ऊर्द्ध्वपातनमेतस्य यन्त्रे डमरुके[^119]भवेत्॥**
+
+[^119]: "विद्याधरयन्त्रम् प्रशस्ततरम्।"
 
 A reverse process of sublimation.  
 First, downward sublimation.
@@ -1628,7 +1594,9 @@ First, downward sublimation.
 
 Then, upward sublimation.
 
-  Now, mercury and copper are to be carefully separated from each other, and again rubbed together, with lime juice and made into a lump which will besubjected to a process of upward sublimation by means of a Damaru [Jantram](http://॑# "Vidyadhara Jantram is more convenient.").
+  Now, mercury and copper are to be carefully separated from each other, and again rubbed together, with lime juice and made into a lump which will besubjected to a process of upward sublimation by means of a Damaru Jantram[^120].
+
+[^120]: "Vidyadhara Jantram is more convenient."
 
 **(ग) तिर्य्यकपातनम्।**
 
@@ -2779,7 +2747,9 @@ Parpati-Rasa.
 
 *Thirteenth process.*
 
-  Mercury is to be rubbed with the following drugs and subjected to heat by means of a Baluka Jantram:— bisnucranta, karpura, lata-kasturi, kumbhi, kanaka dhutura, kulika, bisálá, nágadanti, shurana, byaghra-padi, dronapushpi, brischikali, hastishundi, sahà (mudgaparni ), asura, and the urine of a cow which has not yet conceived. After the completion of the heating, [\*](http://॑# "For test of a perfect heating, see instructions under Baluka Jantram.") the mercury is again to be rubbed with some incinerated metal and again to be heated (by means of a Baluka Jantram).
+  Mercury is to be rubbed with the following drugs and subjected to heat by means of a Baluka Jantram:— bisnucranta, karpura, lata-kasturi, kumbhi, kanaka dhutura, kulika, bisálá, nágadanti, shurana, byaghra-padi, dronapushpi, brischikali, hastishundi, sahà (mudgaparni ), asura, and the urine of a cow which has not yet conceived. After the completion of the heating, \*[^121] the mercury is again to be rubbed with some incinerated metal and again to be heated (by means of a Baluka Jantram).
+
+[^121]: "For test of a perfect heating, see instructions under Baluka Jantram."
 
 **चतुर्द्दशो विधिः ।**
 
@@ -4817,8 +4787,6 @@ The following are the drugs which are to be used in the killing of mercury. Not 
 
   Gandhanakuli, kshirini, bandhyakarkati, brahmi, sharapunkha, kakajangha, maurashikha, (nilakantha, or moragphul), brahmadandi, akhuparni, punarnaba, kanchuki (khirisha), murba (suchamukhi), saindhava salt, utpala, chinchika, shatabari, astisanghara, bajra kanda, gokshura, mandukaparni, patali. chitraka, grishmasundarag kakamachi, jalapippali, haridra, tilaparnika, swetarka, shigru, dhuttura, mrigadurba, haritaki, guduchi, mushali, sarapunkha, bhringaraja, ráctachitraka, tagaram, shuranam, mundiri, kastaudumbara, karanja, kokilaksha, saindhava, swetapunarnaba, sambara salt, hingu, madhu, aparajita, somalata, langali, bata, byaghrapadi (bikankata), godhapadi. brishchikali, jhinti, mashaparni krishnajira, hastishundi, indrabaruni, and seeds of arka. All of them, or at least 18 of them, are to be used, jointly or separately, in the transformation, incineration, and entanglement of mercury.
 
-
-
 **——————**
 
 **पञ्चमोऽध्यायः ।**
@@ -5720,7 +5688,6 @@ and falls into the water in the Samputam. The sublimation continues so long as t
 
   A kosti is one cubit long and twenty four angulisin breadth. It is used for the purpose of extractingessences of metals. Half of the space inside theapparatus is to be filled with hard charcoal, madeof bamboo, khadira, madhuka, and badari wood, thefire made by which being fanned by air, sent throughthe internal passage by a bellows.
 
-
 **जलचरी यन्त्रम्।**
 
 **यत्र लोहमये पात्रे पार्श्वयोर्वलयद्वयम्।  
@@ -5736,8 +5703,6 @@ and falls into the water in the Samputam. The sublimation continues so long as t
 [^97]: "रसप्रबोधनाय रसस्य मूर्च्छितरसस्य रससिन्दूरादेः प्रबोधनायपूर्व्वरूपं प्रापणायेत्यर्थः । मूर्च्छितरसस्याम्लयोगेन मईनं स्वेदनःनप्रबोधनाय कल्पते-तथाहि सव्वै अम्लाः प्रबोधकाः ।"
 
 [^98]: "मूर्च्छनानन्तरं प्रबोधनेन रसस्य गुणाधिषय जायते ।"
-
-
 
 *Khalachari Jantram.*
 
@@ -5973,7 +5938,6 @@ Circular mortar.
 
   Goat's stool, husk of paddy, and fire are to be keptin a pit made in the ground. The mortar, placed uponthis pit, is called a hot mortar.
 
-
 **ऊर्द्ध नलिकायन्त्रम् (टंकयन्त्रम्)।**
 
 **भाण्डकण्ठादधशिछद्रेवेणुनालं विनिक्षिपेत्।  
@@ -6069,7 +6033,6 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 
   It consists of a pit inside a bigger one. Mercuryis to be kept in the inner pit, the outer and the biggerpit being filled with cowdung cakes duly set fire to.  
 
-
 **वक यन्त्रम्।**
 
 **दीर्घकण्ठ्यां काचकूप्यां गिलयेत् काचभाण्डकम्।  
@@ -6106,7 +6069,6 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 *Baruni Jantram.*
 
   This differs from a Nadika Jantram in this that ithas got a water pot placed at the top of the vesselcontaining the drugs; it has no water trough throughwhich the tube is topass in a Nadika Jantram; itrequires a straight and not a bent tube, and that itrequires the pot meant to contain the extract to besurrounded on all sides with water.
-
 
 **वारुणीयन्त्रम् – प्रकारान्तरम्।**
 
@@ -6409,7 +6371,6 @@ allowed to come out through the higher pipe,let the arkam (concentrated extract 
 *Labaku putam.*
 
   It is an act of heating a very mild substance, bymeans of a fire made at the top of a samputam orcrucible containing the substance, by husks, orpowdered cowdung, sixteen times in weight of thesubstance cooked.
-
 
 ![](../../../books_images/U-IMG-1708856310399.jpg)
 
@@ -6731,7 +6692,6 @@ The paste–like substance, prepared out of sulphur,milk, and mercury, rubbed to
 2 surpas          "  "  droni, bahi or goni.  
 4 dronis or gonis    "  "  khari.   
 
-
 **अथ रसवन्धाः।**
 
 **पञ्चविंशतिसङ्ख्यकान् रसबन्धान् प्रचक्षते।  
@@ -6877,8 +6837,6 @@ Mercury, exhausted with double its quantity of mica and then reduced to ashes, i
 निर्ब्वन्धो द्रवति क्षणात्‌ स हि महाबन्धाभिधानो रसः॥**
 
   If mercury, when heated with gold or silver, becomes solidified, amalgamated, heavy, elongated, and bright, without undergoing any diminution, it is called 'Mahabaddha’, When killed, it can be reduced to powder like salt; when rubbed, it does not part with any rust; if not properly solidfied, it turns into a liquid immediately.
-
-
 
 **———————**
 
@@ -7504,13 +7462,11 @@ silver.
 
 **THE END.**  
 
-
 **APPENDIX.**
 
 **G[^113].")LOSSARY[^113].").**
 
 [^113]: "This does not contain Latin names for the vegetable drugs referred to in the book. A booklet dealing with English, Latin, Tamil, Telegu, Hindi, and Bengali synonyms of all these names is intended to be compiled by the author, in collaboration with his disciple, kaviraj N. Swarnamani Shastri, kaviratna, of Ramnad (Madras
-
 
 **A.**
 
@@ -7521,7 +7477,6 @@ Aratni— a measure of length from the elbow to the tip of the little finger.
 Asava—is a liquid obtained by fermentation of prescribed materials immersed in water for a month in a   jar,closely covered.
 
 **B.**
-
 
 Balla—see measures of weight, page 310.  
 Bataracta—Leprosy,  
@@ -7600,7 +7555,6 @@ Putapaka—heating by means of aputam (see page 293).
 
 **R.**
 
-
 Racti— gunja, see page 310.  
 Rasaka—calamine.  
 Rati—same as racti.
@@ -7641,11 +7595,7 @@ Urdhapatanam—upward sublimation.
 
 Vida—see page 81.
 
-
-
 **———————**
-
-
 
   Truimph of Ayurveda after several centuries of slumber and self-humiliation.
 
@@ -7654,7 +7604,6 @@ Vida—see page 81.
 **( 1 )**
 
   I have much pleasure in certifying that Kaviraj Bhudeb Mookerji M.A. showed wonderful skill in treating and radically curing a hopeless case of a malignant type of Kala-azar in my family. *Prolonged Allopathic treatment by the leading physicians of the metropolis* had proved inefficacious in effecting permanent cure of thedisease.
-
 
 KANTI CHANDRA Mookerji,  
 Inspector, Detective Department, Alipore.  
@@ -7688,12 +7637,10 @@ Lucknow University.
 
   Kaviraj Bhudeb Mookerji, M.A. of 172 Bowbazar Street was recommended to me as a physician of great ability. My father, Mr. P. Banerji, who was suffering from high blood pressure and attendant weakness, and had been under the treatment of the best medical men (Allopaths, Homoeopaths, and Kavirajas) for nearly five years, was placed under Kaviraj Mookerji's treatment about two months ago, and I am glad to be able to say that his medicines have produced marvellous effects.
 
-
 S. N. BANERJI,
 
 (Secretary, National Insurance Co.)  
 Calcutta. 4th July 1925.
-
 
   Note by the physician. The blood pressure in this case was reduced to a normal state in course of two months.
 
@@ -7739,7 +7686,6 @@ Office of Messrs McLeod & Co., Calcutta.
 
   I pray to God for the long life and success of the Kaviraj, who has created a sensation in many parts of the country by his novel and effective method oftreatment.
 
-
  8A, Beadon Street, Calcutta,                 
 KALIPADA RAKSHIT.  
     4th April, 1926.
@@ -7748,7 +7694,6 @@ KALIPADA RAKSHIT.
 (Translated from Bengali)
 
   Kaviraj Bhudeb Mookerji is well-known to me. After a creditable University career and high honours received from the Calcutta University, he has devoted his life to the culture of Ayurveda. The success which he has already scored in the field is remarkable. Many of my friends and relatives, and I myself, had to be - treated in difficult diseases, by this able physician. We have always found him highly successful. He has been able to cure even cataract by the application of medicines only. I have no doubt he will live to be a great physician.
-
 
                                    
   RADHA KUMUD MOOKERJI,  
@@ -7801,136 +7746,4 @@ Principal, Bengal College of Ayurveda,
 (Formerly Lecturer, Post Graduate  
 Classes in Commerce, Calcutta University).
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^114]: "This does not contain Latin names for the vegetable drugs referred to in the book. A booklet dealing with English, Latin, Tamil, Telegu, Hindi, and Bengali synonyms of all these names is intended to be compiled by the author, in collaboration with his disciple, kaviraj N. Swarnamani Shastri, kaviratna, of Ramnad (Madras

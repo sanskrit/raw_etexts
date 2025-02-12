@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAxMjcxMjI3NTU
 
 \[
 
-
-
 शिवोपनिषद्
-
-
 
 कैलासशिखरासीनमशेषामरपूजितम् ।
 
@@ -2665,16 +2661,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDAxMjcxMjI3NTU
 ॥ इति शिवोपनिषदि शिवाचाराध्यायः सप्तमः ॥
 
 ॥ इति शिवोपनिषत्समाप्ता ॥
-
-
-
-
-
-
-
-
-
-
-
 
 \]

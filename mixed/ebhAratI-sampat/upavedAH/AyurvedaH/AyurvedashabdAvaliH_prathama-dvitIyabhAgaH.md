@@ -12,22 +12,14 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODQwNjUzNDgyMTU
 
 \[
 
-
-
 THE AYURVEDIC FORMULARY OF INDIA  
 PART-I, II
 
-
-
 **COMMON APPENDICES**
-
-
 
 1 LIST OF DISEASES / TECHNICAL TERMS AND THEIR APPROXIMATE  
 ENGLISH EQUIVALENTS  
 2 METRIC EQUIVALENTS OF CLASSICAL WEIGHTS AND MEASURES
-
-
 
 **LIST OF DISEASES / TECHNICAL TERMS AND THEIR**
 
@@ -62,8 +54,6 @@ ENGLISH EQUIVALENTS
 | Abhighātābhicārī Jvara | Fever due to physical or psychological trauma |
 | Abhinyāsa Jvara        | Meningitis                                    |
 
-
-
 |                        |                                        |
 |------------------------|----------------------------------------|
 | Adṛṣṭi               | Loss of eyesight                       |
@@ -96,11 +86,7 @@ ENGLISH EQUIVALENTS
 | Amladāha               | Hyperacidity                           |
 | Amlapitta              | Dyspepsia                              |
 
-
-
 [TABLE]
-
-
 
 |                  |                                      |
 |------------------|--------------------------------------|
@@ -134,8 +120,6 @@ ENGLISH EQUIVALENTS
 | Avraṇa Śukra     | Corneal opacity                      |
 | Bādhirya         | Deafness                             |
 
-
-
 |                        |                                          |
 |------------------------|------------------------------------------|
 | Bāhu Śosa            | Muscular wasting of forearm              |
@@ -167,8 +151,6 @@ ENGLISH EQUIVALENTS
 | Buddhikṣaya           | Impaired intelligence                    |
 | Buddhimāndya           | Low intelligence                         |
 | Buddhimandatā          | Low intelligence                         |
-
-
 
 |                          |                                 |
 |--------------------------|---------------------------------|
@@ -202,11 +184,7 @@ ENGLISH EQUIVALENTS
 | Dehaśūla                 | Bodyache                        |
 | Dehaśithilatā            | Unenergetic body                |
 
-
-
 [TABLE]
-
-
 
 |                     |                                      |
 |---------------------|--------------------------------------|
@@ -240,15 +218,9 @@ ENGLISH EQUIVALENTS
 | Gara Viṣa           | Slow/ accumulated poison             |
 | Garadoṣa            | Effects of slow / accumulated poison |
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 |                                                 |                                                      |
 |-------------------------------------------------|------------------------------------------------------|
@@ -277,8 +249,6 @@ ENGLISH EQUIVALENTS
 | Jaṅghā Rujā                                     | Pain in thigh                                        |
 | Jaṅghāśūla                                      | Pain in calves                                       |
 | Jaṅghoru-Pṛṣṭhatrikasthāna andVastigataśūla    | Pain in calves-thighs-back-sacral and bladderregion |
-
-
 
 |                |                                |
 |----------------|--------------------------------|
@@ -312,11 +282,7 @@ ENGLISH EQUIVALENTS
 | Kṣīṇa Retas    | Oligospermia                   |
 | Kṣīṇendriya    | Impaired senses                |
 
-
-
 [TABLE]
-
-
 
 |                         |                                          |
 |-------------------------|------------------------------------------|
@@ -350,8 +316,6 @@ ENGLISH EQUIVALENTS
 | Koṣṭha Vikāra           | Disorders of abdomen                     |
 | Koṣṭharujā            | Pain in abdomen                          |
 
-
-
 |                        |                                      |
 |------------------------|--------------------------------------|
 | Kroṣṭuka Sīrṣa         | Synovitis of Knee joint              |
@@ -383,8 +347,6 @@ ENGLISH EQUIVALENTS
 | Mūtrātisāra            | Polyurea                             |
 | Mūtra Śarkarā          | Urinary calculus                     |
 | Mūtra Vibandha         | Retention of urine                   |
-
-
 
 |                   |                                                   |
 |-------------------|---------------------------------------------------|
@@ -418,8 +380,6 @@ ENGLISH EQUIVALENTS
 | Manoglāni         | Depression                                        |
 | Manoroga          | Psychological Disorder                            |
 
-
-
 |                     |                                                     |
 |---------------------|-----------------------------------------------------|
 | Manovibhrama        | Delirium                                            |
@@ -451,8 +411,6 @@ ENGLISH EQUIVALENTS
 | Mukha Pāka          | Stomatitis                                          |
 | Mukha Roga          | Disease of mouth                                    |
 | Mukha Roga (Kavala) | Disease of mouth                                    |
-
-
 
 |                              |                                        |
 |------------------------------|----------------------------------------|
@@ -486,8 +444,6 @@ ENGLISH EQUIVALENTS
 | Nyaccha                      | Naevus/mole                            |
 | Oedema                       | ΝΑ                                     |
 
-
-
 |                     |                                        |
 |---------------------|----------------------------------------|
 | Ojakṣaya            | Loss of body strength (immunity)       |
@@ -518,8 +474,6 @@ ENGLISH EQUIVALENTS
 | Paala Roga          |                                       |
 | Padminīkaṇṭaka      | Papilloma of skin                      |
 | Paittika Netra Roga | Eye disease due to Pitta dosa          |
-
-
 
 |                                             |                                          |
 |---------------------------------------------|------------------------------------------|
@@ -553,8 +507,6 @@ ENGLISH EQUIVALENTS
 | Pittaja Gulma                               | Tumour due to Pitta doṣa                 |
 | Pittaja Kuṣṭha                              | Skin disorders due to Pitta doṣa         |
 
-
-
 |                             |                                                           |
 |-----------------------------|-----------------------------------------------------------|
 | Pittaja Netra Roga          | Eye disease due to Pitta doṣa                             |
@@ -586,11 +538,7 @@ ENGLISH EQUIVALENTS
 | Pravāhikā                   | Dysentery                                                 |
 | Purāṇa Tvagroga             | Degenerative/Chronic Skin disorder                        |
 
-
-
 [TABLE]
-
-
 
 |                      |                                               |
 |----------------------|-----------------------------------------------|
@@ -624,8 +572,6 @@ ENGLISH EQUIVALENTS
 | Sarvāṅga Vāta        | Quadriplegia                                  |
 | Sarvāṅgaśotha        | Generalized tremors                           |
 
-
-
 |                           |                                                 |
 |---------------------------|-------------------------------------------------|
 | Sarvānga Graha            | Stiffness and Tightness in all limbs            |
@@ -657,8 +603,6 @@ ENGLISH EQUIVALENTS
 | Snāyuvāta                 | Inflammation of ligaments                       |
 | Somaroga                  | Polyuria in females                             |
 | Sparśā Śūnyatā            | Lack of tactile sensation                       |
-
-
 
 |               |                                     |
 |---------------|-------------------------------------|
@@ -692,8 +636,6 @@ ENGLISH EQUIVALENTS
 | Tilaka        | Non-elevated mole                   |
 | Timira        | early stage of Catract              |
 
-
-
 |                                                         |                                                      |
 |---------------------------------------------------------|------------------------------------------------------|
 | Timira Roga                                             | Blindness                                            |
@@ -724,11 +666,7 @@ ENGLISH EQUIVALENTS
 | Urastoya                                                | Pleural effusion/ Hydrothorax                        |
 | Urograha                                                | Stiffness and Tightness in the chest                 |
 
-
-
 [TABLE]
-
-
 
 |                       |                                                                     |
 |-----------------------|---------------------------------------------------------------------|
@@ -760,8 +698,6 @@ ENGLISH EQUIVALENTS
 | Vātarakta             | Vātaroga                                                            |
 | Vātaraktarujā         | Disease due to Vāta doṣa                                            |
 | Vātavikāra            | Disorder due to Vāta doṣa                                           |
-
-
 
 |                   |                                      |
 |-------------------|--------------------------------------|
@@ -795,8 +731,6 @@ ENGLISH EQUIVALENTS
 | Vataśleṣmaja Roga | Disorders of Vāta Kapha doṣa         |
 | Viśvācī           | Brachial neuralgia                   |
 
-
-
 |                          |                                      |
 |--------------------------|--------------------------------------|
 | Viṭbandha                | Constipation                         |
@@ -829,8 +763,6 @@ ENGLISH EQUIVALENTS
 | Yakṛt roga               | Disease of liver                     |
 | Yakṛtodara               | Enlargement of liver (Hepatomegaly)  |
 
-
-
 |                                       |                                                                                                                            |
 |---------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | Yakṛtplīhāroga                        | Disorder of Liver and Spleen                                                                                               |
@@ -857,26 +789,16 @@ ENGLISH EQUIVALENTS
 | Pārśva Śopha                          | Pleural effusion                                                                                                           |
 | Enhances Bala, Varṇa, Āyu             | promotes Physical strength, Complexion andLongevity                                                                       |
 
-
-
 [TABLE]
-
-
 
 **METRIC EQUIVALENTS OF CLASSICAL WEIGHTS AND  
 MEASURES**
 
-
-
 The following table of metric equivalents of weights and measures, linear measures andmeasurement of time used in the Ayurvedic classics have been approved by theAyurvedic Pharmacopoeia Committee in consultation with Indian Standards Institution.
-
-
 
 **I. Weights And Measures**
 
 [TABLE]
-
-
 
 In the case of liquids, the metric equivalents would be the corresponding litre and millilitre.
 
@@ -896,8 +818,5 @@ II\. Linear Measures
 III\. Measurement of Time
 
 [TABLE]
-
-
-
 
 \]

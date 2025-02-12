@@ -20,8 +20,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIxODc3MDU2
 
 सूत्राणि
 
-
-
  वास्तोष्पतिर्ज्ञेय
 
 इति
@@ -118,13 +116,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIxODc3MDU2
 
 १०।
 
-
-
 द्वितीयप्रपाठकस्य
 
 सूत्राणि
-
-
 
 निर्दिष्टार्थकप्रतिमा
 
@@ -360,8 +354,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIxODc3MDU2
 
 सूत्राणि ।
 
-
-
 रूपस्य
 
 भावो
@@ -546,13 +538,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIxODc3MDU2
 
 २१
 
-
-
 चतुर्थप्रपाठकस्य
 
 सूत्राणि ।
-
-
 
 प्रतीतात्प्रतीकः
 
@@ -842,8 +830,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIxODc3MDU2
 
 सूत्राणि
 
-
-
 भावस्यारोपणं
 
 रूपकर्माणि
@@ -1064,13 +1050,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIxODc3MDU2
 
 २३
 
-
-
 षष्ठप्रपाठकस्य
 
 सूत्राणि
-
-
 
 न्यासधारणा
 
@@ -1293,7 +1275,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjIxODc3MDU2
 वास्तूपाख्यानम्
 
 २६
-
-
 
 \]

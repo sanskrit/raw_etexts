@@ -19,25 +19,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MzQxNTUwNzA
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **भूमिका।  
 ![](../../../books_images/U-IMG-1707365224image4.jpg)**
@@ -59,8 +43,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MzQxNTUwNzA
 पुस्तक मिलनेका ठिकाना-  
 **खेमराज श्रीकृष्णदास,**  
 **“श्रीवेङ्कटेश्वर” स्टीम् प्रेस्-बम्बई.**
-
-
 
 **हंसराजनिदानकी अनुक्रमणिका।**
 
@@ -140,8 +122,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MzQxNTUwNzA
 |     पित्तके स्वरभेदके लक्षण     |      वातकी मूर्च्छाके लक्षण      |
 |      कफके स्वरभेदके लक्षण       |      पित्तकी मूर्छाके लक्षण      |
 |     असाध्य स्वरभेदके लक्षण      |       कफकी मूर्छाके लक्षण        |
-
-
 
 |                                   |                                 |
 |:---------------------------------:|:-------------------------------:|
@@ -323,8 +303,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MzQxNTUwNzA
 |           कखलाईके लक्षण           |     सौषिरनाम दन्तरोग के लक्षण ..      |
 |                                  |           महासौथिरके लक्षण            |
 
-
-
 |                             |                                   |
 |:---------------------------:|:---------------------------------:|
 |            विषय.            |               विषय.               |
@@ -363,14 +341,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MzQxNTUwNzA
 
 [TABLE]
 
-
-
 [TABLE]
 
 **इति हंसराजनिदानकी विषयानुक्रमणिका समाप्त।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 ॥ श्रीगणेशाय नमः॥  
 हंसराजनिदानम्।  
@@ -3889,17 +3863,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk3MzQxNTUwNzA
 \_\_\_\_\_\_\_\_\_\_\_**
 
 पुस्तक मिलनेका ठिकाना—**खेमराज श्रीकृष्णदास**, "**श्रीवेङ्कटेश्वर**” स्टीम् प्रेस—**बंबई**.
-
-
-
-
-
-
-
-
-
-
-
 
 \]
 

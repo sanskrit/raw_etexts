@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMDk5MTM2OTU
 
 \[
 
-
-
-
-
 योगचूडामण्युपनिषत्।
-
-
 
 मूलाधारादिषट्चक्रं सहस्रारोपरि स्थितम् ।
 
@@ -607,10 +601,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMyMDk5MTM2OTU
 इति योगचूडामण्युपनिषत्समाप्ता ॥
 
 -------------------------------
-
-
-
-
-
 
 \]

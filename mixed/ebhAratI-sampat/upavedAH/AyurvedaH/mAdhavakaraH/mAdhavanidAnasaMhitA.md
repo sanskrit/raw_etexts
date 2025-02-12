@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE1NzIzNTQyNjA
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 माधवनिदान् संहिता  
 Mādhav Nidān Saṁhitā  
 माधवनिदान् संहिता  
@@ -3372,16 +3360,5 @@ Mādhav Nidān Saṁhitā
 
 MŒdhava NidŒna, by MŒdhavŒchŒrya, edited by Vaidya Yadav ji Trikam ji ÌchŒrya, 1977 edition.  
 Typed by Om Prakash Sharma, B.A., and proofread by Maya Nand Sastri, Ved Vyakaranacharya.
-
-
-
-
-
-
-
-
-
-
-
 
 \]

@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NTM1NDU2
 
 \[
 
-
-
 वराहोपनिषत् ।
-
-
 
 श्रीमद्वाराहोपनिषद्वेद्याखण्डसुखाकृति ।
 
@@ -28,13 +24,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NTM1NDU2
 
 ॐ शान्तिः शान्तिः शान्तिः ॥
 
-
-
-
-
 प्रथमोऽध्यायः।
-
-
 
 हरिः ॐ ॥ अथ ऋभुर्वै महामुनिर्देवमानेन द्वादशवत्सरं
 
@@ -122,11 +112,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NTM1NDU2
 
 ----------------------------
 
-
-
 **द्वितीयोऽध्यायः।**
-
-
 
 ऋभुर्नाम महायोगी क्रोडरूपं रमापतिम् ।
 
@@ -512,13 +498,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NTM1NDU2
 
 -------------------------
 
-
-
-
-
 **तृतीयोऽध्यायः।**
-
-
 
 नहि नानास्वरूपं स्यादेकं वस्तु कदाचन ।
 
@@ -680,11 +660,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NTM1NDU2
 
 ---------------------
 
-
-
 चतुर्थोऽध्यायः।
-
-
 
 अथ ह ऋभुं भगवन्तं निदाघः पप्रच्छ जीवन्मुक्तिलक्षणमनुब्रूहीति ।
 
@@ -926,13 +902,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NTM1NDU2
 
 -------------------------
 
-
-
-
-
 पञ्चमोऽध्यायः।
-
-
 
 अथ हैनं ऋभुं भगवन्तं निदाघः पप्रच्छ
 
@@ -1265,15 +1235,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA3NTM1NDU2
 इति वराहोपनिषत्समाप्ता ॥
 
 --------------------------
-
-
-
-
-
-
-
-
-
-
 
 \]

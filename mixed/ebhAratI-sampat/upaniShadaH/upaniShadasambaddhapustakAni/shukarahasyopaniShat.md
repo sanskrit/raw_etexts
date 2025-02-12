@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MTQxNzA3OTM
 
 \[
 
-
-
-
-
 शुकरहस्योपनिषत् ।
-
-
 
 प्रज्ञानादिमहावाक्यरहस्यादिकलेवरम् ।
 
@@ -395,14 +389,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk3MTQxNzA3OTM
 ॥ इति शुकरहस्योपनिषत्समाप्ता ॥
 
 ----------------------------
-
-
-
-
-
-
-
-
-
 
 \]
