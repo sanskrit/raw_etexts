@@ -12,10 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA
 
 \[
 
-
-
-
-
 **सुभाषितानि**
 
 [सुरुचिः](\%22http://kalidasa.blogspot.com/2010/11/blog-post_10.html\%22)
@@ -41,7 +37,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA
 प्राप्येत
 
 एव।  
-
 
 बहुशः
 
@@ -179,7 +174,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA
 
 विद्यते।  
 
-
 रमन्ते
 
 कामसंतप्ताः
@@ -209,7 +203,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA
 ,
 
 २०  
-
 
 स्वर्धुनी
 
@@ -258,7 +251,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA
 वातावरणम्
 
 इति।  
-
 
 किन्तु
 
@@ -331,7 +323,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDQ2ODc3ODE1NDA
 कतिपयदिवसाभ्यन्तरे
 
 प्रकाश्यते।  
-
 
 देवक्रीडा
 
@@ -465,7 +456,6 @@ Monday, October 25, 2010
 
 --  
 
-
 किं
 
 तया
@@ -501,7 +491,6 @@ Monday, October 25, 2010
 भक्तिमान्
 
 ॥  
-
 
 या
 
@@ -571,7 +560,6 @@ Monday, October 25, 2010
 
 भावः।  
 
-
 अत्र
 
 भक्तिः
@@ -625,7 +613,6 @@ Monday, October 25, 2010
 इति
 
 भावार्थः।  
-
 
 किन्तु
 
@@ -793,7 +780,6 @@ Monday, April 07, 2008
 
 मङ्गलम्  
 
-
 अन्वयः
 
 --
@@ -833,7 +819,6 @@ Monday, April 07, 2008
 मङ्गलं
 
 कुर्यात्।  
-
 
 सूर्यः
 
@@ -996,7 +981,6 @@ Thursday, April 26, 2007
 जीवितम्
 
 ॥  
-
 
 चिन्ता
 
@@ -1170,7 +1154,6 @@ Thursday, April 12, 2007
 
 ॥  
 
-
 यादृशी
 
 बुद्धिः
@@ -1206,7 +1189,6 @@ Thursday, April 12, 2007
 स्यात्
 
 ?  
-
 
 यादृशी
 
@@ -1297,7 +1279,6 @@ Thursday, April 12, 2007
 भवति
 
 ।  
-
 
 सर्वेषां
 
@@ -1409,12 +1390,6 @@ Friday, April 06, 2007
 
 [संस्कृतज्ञः](\%22http://kalidasa.blogspot.com/2007/04/blog-post_3951.html\%22)
 
-
-
-
-
-
-
 यस्य
 
 षष्ठी
@@ -1450,7 +1425,6 @@ Friday, April 06, 2007
 अहं
 
 कथम्॥  
-
 
 umd_samskritam
 
@@ -1606,7 +1580,6 @@ umd_samskritam
 
 ।  
 
-
 अन्यः
 
 अर्थः
@@ -1702,7 +1675,6 @@ umd_samskritam
 परोककारः
 
 ।  
-
 
 यस्य
 
@@ -1816,7 +1788,6 @@ umd_samskritam
 
 ?  
 
-
 यथा
 
 वागर्थौ
@@ -1906,7 +1877,6 @@ umd_samskritam
 स्वात्मा
 
 ॥  
-
 
 वयम्
 
@@ -2021,7 +1991,6 @@ Friday, September 01, 2006
 दुर्लभः
 
 ॥  
-
 
 न
 
@@ -2154,7 +2123,6 @@ Sunday, August 13, 2006
 
 ॥  
 
-
 ![\\"http://photos1.blogger.com/blogger/166/590/200/upadesha.jpg\\"](\%22http://photos1.blogger.com/blogger/166/590/200/upadesha.jpg\%22)
 
 षट्कर्णः
@@ -2264,7 +2232,6 @@ Share to Google Buzz
 पण्डिताः
 
 ॥  
-
 
 यथा
 
@@ -2409,7 +2376,6 @@ Share to Google Buzz
 सकृत्सकृत्
 
 ॥  
-
 
 राजानः
 
@@ -2570,7 +2536,6 @@ Saturday, August 12, 2006
 
 ॥  
 
-
 देशे
 
 \-
@@ -2693,7 +2658,6 @@ Share to Google Buzz
 
 ॥  
 
-
 विनिश्चित्य
 
 (
@@ -2797,7 +2761,6 @@ Share to Google Buzz
 सदा
 
 ॥  
-
 
 यः
 
@@ -2945,7 +2908,6 @@ Thursday, August 03, 2006
 
 ॥  
 
-
 भार्या
 
 \- wife.
@@ -3069,7 +3031,6 @@ Share to Google Buzz
 त्यजेत्
 
 ॥  
-
 
 त्यजेत्
 
@@ -3215,7 +3176,6 @@ Share to Google Buzz
 
 ॥  
 
-
 कः
 
 \- who.
@@ -3327,7 +3287,6 @@ Share to Google Buzz
 धर्तुमिच्छति
 
 ॥  
-
 
 भ्रान्त्या
 
@@ -3463,7 +3422,6 @@ Share to Google Buzz
 
 ॥  
 
-
 यः
 
 \- that person who.
@@ -3592,7 +3550,6 @@ Share to Google Buzz
 
 ॥  
 
-
 पृथिव्याम्
 
 (
@@ -3684,12 +3641,7 @@ Share to Google Buzz
 Water, food and subhashitas are the three jewels of this world.  
 Only fools claim pices of stone (diamonds) to be on par with these.
 
-
-
 **---------------------------------------------
 ---------------------------------------------**
-
-
-
 
 \]

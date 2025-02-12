@@ -12,23 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ** विष्णुपुराणम् **
-
-
 
 \<1,11,18\>
 
@@ -38,15 +22,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</1,11,18\>
 
-
-
 \<1,11,21\>
 
  यस्य यावत् स ते नैव स्वेन तुष्यति बुद्धिमान् ।
 
 \</1,11,21\>
-
-
 
 \<1,11,42\>
 
@@ -56,8 +36,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</1,11,42\>
 
-
-
 \<1,11,43\>
 
  परः पराणां पुरुषो यस्य तुष्टो जनार्दनः ।
@@ -65,8 +43,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  स प्राप्नोत्यक्षयस्थानं एतत् सत्यं मयोदितम् ॥
 
 \</1,11,43\>
-
-
 
 \<1,11,45\>
 
@@ -76,8 +52,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</1,11,45\>
 
-
-
 \<1,11,48\>
 
  प्राप्नोत्याराधिते विष्णौ मनसा यद् यदिच्छति ।
@@ -85,8 +59,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  त्रैलोक्यान्तर्गतं स्थानं किमु वत्सोत्तमोत्तमम् ॥
 
 \</1,11,48\>
-
-
 
 \<1,11,52\>
 
@@ -96,8 +68,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</1,11,52\>
 
-
-
 \<1,19,5\>
 
  अन्येषां यो न पापानि चिन्तयत्यात्मनो यथा ।
@@ -105,8 +75,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  तस्य पापागमस्तात हेत्वभावान्न विद्यते ॥
 
 \</1,19,5\>
-
-
 
 \<1,19,6\>
 
@@ -116,8 +84,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</1,19,6\>
 
-
-
 \<1,19,9\>
 
  एवं सर्वेषु भूतेषु भक्तिरव्यभिचारिणी ।
@@ -125,8 +91,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  कर्तव्या पण्डितैर्ज्ञात्वा सर्वभूतमयं हरिम् ॥
 
 \</1,19,9\>
-
-
 
 \<1,19,37\>
 
@@ -136,8 +100,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</1,19,37\>
 
-
-
 \<1,19,41\>
 
  तत्कर्म यन्न बन्धाय सा विद्या या विमुक्तये ।
@@ -145,8 +107,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  आयासायापरं कर्म विद्यान्या शिल्पिनैपुणम् ॥
 
 \</1,19,41\>
-
-
 
 \<1,19,43\>
 
@@ -156,8 +116,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</1,19,43\>
 
-
-
 \<1,19,44\>
 
  सर्व एव महाभाग महत्त्वं प्रति सोद्यमाः ।
@@ -165,8 +123,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  तथापि पुंसां भाग्यानि नोद्यमा भूतिहेतवः ॥
 
 \</1,19,44\>
-
-
 
 \<1,19,45\>
 
@@ -176,8 +132,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</1,19,45\>
 
-
-
 \<1,19,46\>
 
  तस्माद् यतेत पुण्येषु य इच्छेन्महतीं श्रियम् ।
@@ -185,8 +139,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  यतितव्यं समत्वे च निर्वाणमपि चेच्छता ॥
 
 \</1,19,46\>
-
-
 
 \<1,19,47\>
 
@@ -196,8 +148,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</1,19,47\>
 
-
-
 \<2,6,44\>
 
  मनःप्रीतिकरः स्वर्गो नरकस्तद्विपर्ययः ।
@@ -205,8 +155,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  नरकस्वर्गसञ्ज्ञे वै पापपुण्ये द्विजोत्तम ॥
 
 \</2,6,44\>
-
-
 
 \<2,6,45\>
 
@@ -216,8 +164,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</2,6,45\>
 
-
-
 \<2,6,46\>
 
  तदेव प्रीतये भूत्वा पुनर्दुःखाय जायते ।
@@ -225,8 +171,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  तदेव कोपाय ततः प्रमादाय च जायते ॥
 
 \</2,6,46\>
-
-
 
 \<2,6,47\>
 
@@ -236,8 +180,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</2,6,47\>
 
-
-
 \<4,10,11\>
 
  यदा न कुरुते भावं सर्वभूतेषु पापकम् ।
@@ -245,8 +187,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  समदृष्टेस्तथा पुंसः सर्वा एव सुखा दिशः ॥
 
 \</4,10,11\>
-
-
 
 \<4,10,12\>
 
@@ -256,8 +196,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</4,10,12\>
 
-
-
 \<4,10,13\>
 
  जीर्यन्ति जीर्यतः केशा दन्ता जीर्यन्ति जीर्यतः ।
@@ -265,8 +203,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  धनाशा जीविताशा च जीर्यतोऽपि न जीर्यति ॥
 
 \</4,10,13\>
-
-
 
 \<5,10,30\>
 
@@ -276,8 +212,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</5,10,30\>
 
-
-
 \<5,10,31\>
 
  योऽन्यस्य फलमश्नन् वै पूजयत्यपरं नरः ।
@@ -285,8 +219,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  इह च प्रेत्य चैवासौ तात नाप्नोति शोभनम् ॥
 
 \</5,10,31\>
-
-
 
 \<6,1,13\>
 
@@ -296,8 +228,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,1,13\>
 
-
-
 \<6,1,14\>
 
  सर्वमेव कलौ शास्त्रं यस्य यद् वचनं द्विज ।
@@ -305,8 +235,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  देवताश्च कलौ सर्वाः सर्वः सर्वस्य चाश्रमः ॥
 
 \</6,1,14\>
-
-
 
 \<6,1,16\>
 
@@ -316,8 +244,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,1,16\>
 
-
-
 \<6,1,17\>
 
  सुवर्णमणिरत्नादौ वस्त्रे चापि क्षयं गते ।
@@ -325,8 +251,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  कलौ स्त्रियो भविष्यन्ति तदा केशैरलङ्कृताः ॥
 
 \</6,1,17\>
-
-
 
 \<6,1,18\>
 
@@ -336,8 +260,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,1,18\>
 
-
-
 \<6,1,19\>
 
  यो यो ददाति बहुलं स स स्वामी तदा नृणाम् ।
@@ -345,8 +267,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  स्वामित्वहेतुः सम्बन्धी भावी नाभिजनस्तदा ॥
 
 \</6,1,19\>
-
-
 
 \<6,1,20\>
 
@@ -356,8 +276,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,1,20\>
 
-
-
 \<6,1,22\>
 
  अभ्यर्थितोऽपि सुहृदा स्वार्थहानिं न मानवः ।
@@ -365,8 +283,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  पणार्धार्धार्धमात्रेण करिष्यति तदा द्विज ॥
 
 \</6,1,22\>
-
-
 
 \<6,1,28\>
 
@@ -376,8 +292,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,1,28\>
 
-
-
 \<6,1,42\>
 
  पलितोद्भवश्च भविता तदा द्वादशवार्षिकः ।
@@ -385,8 +299,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  नातिजीवति वै कश्चित् कलौ वर्षाणि विंशतिम् ॥
 
 \</6,1,42\>
-
-
 
 \<6,1,50\>
 
@@ -396,8 +308,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,1,50\>
 
-
-
 \<6,1,51\>
 
  स्वल्पाम्बुवृष्टिः पर्जन्यः सस्यं स्वल्पफलं तथा ।
@@ -405,8 +315,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  फलं तथाल्पसारं च विप्र प्राप्ते कलौ युगे ॥
 
 \</6,1,51\>
-
-
 
 \<6,1,52\>
 
@@ -416,8 +324,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,1,52\>
 
-
-
 \<6,1,53\>
 
  अणुप्रायाणि धान्यानि आजप्रायं तथा पयः ।
@@ -425,8 +331,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  भविष्यति कलौ प्राप्ते उषीरं चानुलेपनम् ॥
 
 \</6,1,53\>
-
-
 
 \<6,2,15\>
 
@@ -436,8 +340,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,2,15\>
 
-
-
 \<6,2,16\>
 
  तपसो ब्रह्मचर्यस्य जपादेश्च फलं द्विजाः ।
@@ -445,8 +347,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  प्राप्नोति पुरुषस्तेन कलिः साध्विति भाषितम् ॥
 
 \</6,2,16\>
-
-
 
 \<6,2,17\>
 
@@ -456,8 +356,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,2,17\>
 
-
-
 \<6,2,18\>
 
  धर्मोत्कर्षमतीवात्र प्राप्नोति पुरुषः कलौ ।
@@ -465,8 +363,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
  अल्पायासेन धर्मज्ञास्तेन तुष्टोऽस्म्यहं कलेः ॥
 
 \</6,2,18\>
-
-
 
 \<6,2,20\>
 
@@ -476,8 +372,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,2,20\>
 
-
-
 \<6,2,34\>
 
  स्वल्पेनैव प्रयत्नेन धर्मः सिध्यति वै कलौ ।
@@ -486,19 +380,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxMDM5OTY0MjU
 
 \</6,2,34\>
 
-
-
 **-----------------------------------------**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

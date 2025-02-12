@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NTA1MTEwNDY
 
 \[
 
-
-
-
-
 ॥ आत्मबोधोपनिषत् ॥
-
-
 
 श्रीमन्नारायणाकारमष्टाक्षरमहाशयम् ।
 
@@ -199,10 +193,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE2NTA1MTEwNDY
 इति आत्मबोधोपनिषत्समाप्ता ॥
 
 ------------ ------------
-
-
-
-
-
 
 \]

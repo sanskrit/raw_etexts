@@ -12,21 +12,8 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
  ** जीव-तरङ्गः।  
   राजा।**
-
 
   (118)  
 \<3-118\>  
@@ -927,18 +914,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0
      (विह्लणस्य)  
 \</3-205\>
 
-
-
 **-------------------------------------------**
 
-
-
-
-
-
-
  ** जीव-तरङ्गः।**
-
 
   राजा।  
   (118)  
@@ -1842,14 +1820,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0
 
 **----------------------------------------------------------**
 
-
-
-
-
-
-
 **  उद्भित्-तरङ्गः।**
-
 
   सामान्य-वृक्षः।  
   (206)  
@@ -2080,14 +2051,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0
 
 **-----------------------------------------**
 
-
-
-
-
-
-
    **स्भावोक्ति-तरङ्गः।**
-
 
   (क) पर्वतः।  
   मन्दरः।  
@@ -2421,12 +2385,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0
 
 **--------------------------------------**
 
-
-
-
-
 **  निन्दाप्रशंसा-तरङ्गः।**
-
 
   (क) निन्दा-तर्गः।र  
   असन्तोष-निन्दा।  
@@ -3041,14 +3000,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0
 
 --------------------------------------------------------
 
-
-
-
-
-
-
 ** (ख) प्रशंसा-तरङ्गः।**
-
 
   उद्भटकविता-प्रशंसा।  
 \<3-313\>  
@@ -3545,14 +3497,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0
 
 -----------------------------------------------------
 
-
-
-
-
-
-
   **रस-तरङ्गः।**
-
 
   (1) शृङ्गार-रसः।  
 \<3-358\>  
@@ -3799,14 +3744,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0
 
 ----------------------------------------------------
 
-
-
-
-
-
-
 **  विविध-तरङ्गः।**
-
 
   प्रथम-बिन्दुः।  
   प्राचीन-शिलालिपिः।  
@@ -4257,17 +4195,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjkzNzU2ODU0
   **इति तृतीय-प्रवह-टिप्पनी समाप्ता।**
 
 **-------------------------------------------------**
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

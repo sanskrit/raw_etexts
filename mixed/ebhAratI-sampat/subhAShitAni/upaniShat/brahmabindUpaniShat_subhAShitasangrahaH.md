@@ -12,15 +12,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMjQxMTU0MjM
 
 \[
 
-
-
-
-
   
 
 **  ब्रह्मबिन्दूपनिषत्**  
 \<2\>
-
 
  मन एव मनुष्याणां कारणं बन्धमोक्षयोः ।  
  बन्धाय विषयासक्तं मुक्तं निर्विषयं स्मृतम् ॥  
@@ -51,8 +46,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMyMjQxMTU0MjM
 
 ------------------ ---------------------- -------------------
 ----------------
-
-
-
 
 \]

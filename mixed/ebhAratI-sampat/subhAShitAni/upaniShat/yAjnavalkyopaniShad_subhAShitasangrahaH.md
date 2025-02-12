@@ -11,22 +11,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2MDk5NTczMjU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   **याज्ञवल्क्योपनिषत्**
-
 
 \<11-13,15,16-17,20\>  
  कामनाम्ना किरातेन विकीर्णा मुग्धचेतसः ।  
@@ -51,16 +36,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njc2MDk5NTczMjU
 \</11-13,15,16-17,20\>
 
 -----------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
 
 \]

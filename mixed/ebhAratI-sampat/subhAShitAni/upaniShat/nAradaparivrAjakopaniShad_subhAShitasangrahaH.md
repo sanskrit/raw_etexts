@@ -11,14 +11,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY1ODc3NDkzMjc
 
 \[
 
-
-
-
-
-
-
 **नारदपरिव्राजकोपनिषत्**
-
 
 \<3,12-16\>  
  यदा मनसि सञ्जातं वैतृष्ण्यं सर्ववस्तुषु ।  
@@ -103,8 +96,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY1ODc3NDkzMjc
 \</6,5-8,12\>
 
 ----------------------- -------------------------------
-
-
-
 
 \]

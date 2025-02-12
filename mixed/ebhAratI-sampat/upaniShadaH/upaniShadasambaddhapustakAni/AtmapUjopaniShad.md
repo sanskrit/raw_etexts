@@ -12,13 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwODQ3NzAwMDY
 
 \[
 
-
-
-
-
 आत्मपूजोपनिषद् ।
-
-
 
 ॐ तस्य निश्चिन्तनं ध्यानम् ।
 
@@ -65,10 +59,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjMwODQ3NzAwMDY
 ॥ इति आत्मपूजोपनिषत् समाप्ता॥
 
 --------------- --------------
-
-
-
-
-
 
 \]

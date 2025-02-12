@@ -16,35 +16,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjEzNzE2NTcwNDg
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 **INTRODUCTORY NOTE**
 
  THIS Upaniṣad has derived its name from the six Praśnas or questions it contains. It belongs to the Atharvaveda and is probably of the Pippalādaśakhā. Śaṅkara calls it a Brāhmaṇa complementary to the Mantra Upaniṣad, i.e. the Muṇdaka, which also belongs to the same Veda. There are six chapters in the Upaniṣad, and each begins with a question. The first question refers to the origin of the created beings, the second to the constituents of the human personality, the third to the nature and origin of Prāṇa; the fourth is about the psychological aspect of the human personality, the fifth about Praṇava, and the sixth about the metaphysical principle in man. Like the Taittirīyopaniṣad, it also takes the reader gradually from the gross to the subtle principles of life, revealing one by one all the folds of Matter that enwrap the Ātman. Moreover, in this Upaniṣad alone we find a clear mention being made of the creation originating from Matter and Energy.
-
-
 
 **NOTE ON TRANSLITERATION**
 
@@ -54,8 +34,6 @@ IN this book Devanāgarī characters are transliterated according to the scheme 
 औau,![](../books_images/U-IMG-1734946641Screenshot2024-12-23150629.png)ṁ,**:**ḥ,
 क् k, ख् kh, ग् g, घ्gh, ङ् ṅ, च् c, छ् ch, ज् j, झ jh, ञ् ñ, ट्ṭ  ठ ṭh, ड् ḍ, ढ्ḍh, ण ṇ, त्t, थth, द् d, ध्dh,
 न् n , प् p, फ् ph, ब् b, भ्bh, म् m, य् y, र् r, ल् l, व् v, श् ś, ष ṣ, स् s, ह् h.
-
-
 
 **॥ॐ तत् सत्॥**
 
@@ -70,8 +48,6 @@ IN this book Devanāgarī characters are transliterated according to the scheme 
 
 **  देवाः** O gods (or worshipful Ones ) **कर्णेभिः** with the ears (of the teacher and the disciple) **भद्रम्**what is auspicious (i.e. words of the scripture etc.) **शृणुयाम** may we hear. **यजत्राः** efficient to sacrifice (**वयम्** we) **अक्षभिः** with eyes **भद्रम्**what is auspicious (sacrifice, worship, etc.) **पश्येम** may we behold. **स्थिरैः** perfect (lit. firm) **अङ्गैः** limbs and organs **तनूभिः** bodies (**युक्ताः वयम्** we having) **तुष्टुवांसः** singing (your praise) **देवहितम्** allotted by the Lord **आयुः** span of life **व्यशेम** may we obtain fully. **वृद्धश्रवाः** He who is glorified in the scriptures by ancient preceptors **इन्द्रः**the Supreme Lord **नः**for us **स्वस्ति**prosperity (in our study and in the practice
 
-
-
 of what is learned) **दधातु** may confer. **विश्ववेदाः** all-knowing **पूषा**Pūṣan (lit. he who nourishes the world) **नः स्वस्ति दधातु** may confer on us prosperity **अरिष्टनेमिः** he who protects from harm **तार्क्ष्यः**the celestial Bird **नः स्वस्ति दधातु** may confer on us prosperity. **बृहस्पतिः** the Lord of Prayers (**ब्रह्मवर्चसं** **परिपाल्य** taking care of our spiritual lustre ) **नः स्वस्ति दधातु** may confer on us prosperity.
 
   Om. O worshipful Ones, may our ears hear what is auspicious. May we, efficient to worship, see with our eyes what is auspicious. May we, who sing your praise, live our allotted span of life in perfect health and strength.
@@ -82,8 +58,6 @@ Om Peace : Peace : Peace.
 
 \[NOTES— These two Peace Invocations are mantras that originally occur in the Ṛgveda Saṁhitā (1. lxxxix. 8. 6), and are used in connection with the Upaniṣads of the Atharvaveda\].
 
-
-
 **PRAŚNOPANIṢAD**
 
 **प्रथमः प्रश्नः FIRST QUESTION**
@@ -91,8 +65,6 @@ Om Peace : Peace : Peace.
 **  ॐ नमः परमात्मने। हरिः ॐ॥ सुकेशा च भारद्वाजः, शैब्यश्च सत्यकामः, सौर्यायणी च गार्ग्यः, कौसल्यश्चाश्वलायनो, भार्गवो वैदर्भिः कबन्धी कात्यायनस्ते हैते ब्रह्मपरा ब्रह्मनिष्ठाः परं ब्रह्मान्वेषमाणा, एव ह वै तत्सर्वं वक्ष्यतीति, ते ह समित्पाणयो भगवन्तं पिप्पलादमुपसन्नाः॥१॥**
 
 **  भारद्वाजः** Son of Bharadvāja **सुकेशा** (called) Sukeśas **च** and, **शैब्यः** son of Sibi **सत्यकामः**(called) Satyakāma **च** and, **गार्ग्यः** of the clan of Garga **सौर्यायणी** the grandson of Sūrya **च** and, **आश्वलायनः** the son of Aśvala **कौसल्यः** (called) Kausalya **च** and, **वैदर्भिः** of Vidarbha **भार्गवः** Bhārgava (i.e. born of the clan of Bhṛgu), **कात्यायनः** the son of Katya (one whose great-grandfather is still living) **कबन्धी** (called) Kabandhin—**ते** they **ह**so the story goes **ब्रह्मपराः** devoted to Brahman **ब्रह्मनिष्ठाः** Stead fast in Brahman **परम्** the Supreme**ब्रह्म**Brahman **अन्वेषमाणाः** seeking (**आसन्** were) **ते**they **ह** indeed
-
-
 
 **एषः** this person **ह वै** surely **तत्** that **सर्वम्** all **वक्ष्यति** will tell **इति** thus (**निश्चित्य** having thought) **समित्पाणयः** with sacrificial fuel in hand **भगवन्तम्**the venerable **पिप्पलादम्** Pippalāda **उपसन्नाः** approached.
 
@@ -106,8 +78,6 @@ Om Peace : Peace : Peace.
 
  3. *With sacrificial fuel in hand*— According to the customary rules, one should not visit the king, the deity in the temple, and the Guru without offering some kind of present. It was also customary with the pupils in
 
-
-
 ancient times to get for their teachers the fuel for sacrifices.\]
 
   **तान् ह स ऋषिरुवाच— भूय एव तपसा ब्रह्मचर्येण श्रद्धया संवत्सरं संवत्स्यथ, यथाकामं प्रश्नान् पृच्छत, यदि विज्ञास्यामः सर्वंह वो वक्ष्याम इति॥२॥**
@@ -117,8 +87,6 @@ ancient times to get for their teachers the fuel for sacrifices.\]
   The Ṛṣi said to them : 'Live again a year more in penance, abstinence, and faith; then you may ask questions according to your desire; if I know them, assuredly I shall tell everything to you.'
 
  \[NOTES—The Śruti here clearly indicates by the story that unless the pupil is thoroughly trained and disciplined through Tapas, abstinence, and faith, it is not possible to comprehend subtle spiritual truths. While Tapas and Brahmacarya are helpful in restraining the mind and the senses, Śraddhāis needed to make the pupil's mind receptive to the holy teachings impartedbythe Guru.\]
-
-
 
 **  अथ कबन्धी कात्यायन उपेत्य पप्रच्छ, भगवन् कुतो ह वा इमाः प्रजाः प्रजायन्त इति॥३॥**
 
@@ -132,8 +100,6 @@ ancient times to get for their teachers the fuel for sacrifices.\]
 
  To him Pippalāda replied : 'The Creator' desirous of progeny performed austerity in the
 
-
-
 form of meditation. Having performed austerity, He created the pair— Matter**²** and Energy— thinking that they together would manifoldly bring forth creatures for Him.
 
  \[NOTES— 1. *Creator*—Hiraṇyagarbha.
@@ -143,8 +109,6 @@ form of meditation. Having performed austerity, He created the pair— Matter**�
 **  आदित्यो ह वै प्राणो, रयिरेव चन्द्रमा, रयिर्वा एतत् सर्वं यन्मूर्त्तं चामूर्त्तं च, तस्मान्मूर्त्तिरेव रयिः॥५॥**
 
  **आदित्यः** the Sun, **ह वै** verily **प्राणः** Energy; **चन्द्रमा** the Moon **एव** verily **रयिः** Matter **वा** or **यत्** what **मूर्त्तम्** withform (gross) **यत्** what **च** and **अमूर्त्तम्** formless (formless (subtle) **एतत्** these **सर्वम्** all **वै** verily **रयिः** Matter **तस्मात्** therefore **मूर्त्तिः**form **एव** indeed **रयिः**Matter.
-
-
 
  The**¹** Sun is Energy, and Matter**²** indeed is the Moon; or, Matter**³** verily are all these—what is with form and what is formless; therefore**⁴** form is Matter.
 
@@ -156,8 +120,6 @@ form of meditation. Having performed austerity, He created the pair— Matter**�
 
  4. *Therefore form is Matter.*—But according to the ordinary conception of matter, it is inert and gross and occupies space, i.e. it has form.\]
 
-
-
 ** अथादित्य उदयन् यत् प्राचीं दिशं प्रविशति तेन प्राच्यान् प्राणान् रश्मिषु सन्निधत्ते। यद्दक्षिणां यत्प्रतीचीं यदुदीचीं यदधो यदूर्ध्वं यदन्तरा दिशो यत्सर्वं प्रकाशयति तेन सर्वान् प्राणान् रश्मिषु सन्निधत्ते॥६॥**
 
 **अथ** now **आदित्यः** the Sun **उदयन्** having risen **यत्** when **प्राचीम्** the eastern **दिशम्** quarter **प्रविशति** enters, **तेन** by that **प्राच्यान्** eastern **प्राणान्** Prāṇas **रश्मिषु** in the rays **सन्निधत्ते** holds ; **यत्** when **दक्षिणाम्** southern **यत्** when **प्रतीचीम्** western **यत्** when **उदीचीम्** northern **यत्** when **अधः** nadir, **यत्** when **ऊर्ध्वम्** zenith, **यत्** which **अन्तरा** intermediate **दिशः** quarters, **यत्** when (**अन्यत्** else ) **सर्वम्** all **प्रकाशयति** illumines **तेन** by that **सर्वान्** all **प्राणान्** Prāṇas **रश्मिषु** in the rays **सन्निधत्ते** holds.
@@ -167,8 +129,6 @@ form of meditation. Having performed austerity, He created the pair— Matter**�
   \[NOTES— The Śruti here states that wherever there is the manifestation of life and energy, they are due to the quickening influence of the Sun.\]
 
 **   स एषवैश्वानरो विश्वरूपः प्राणोऽग्निरुदयते। तदेतदृचाभ्युक्तम्॥७॥**
-
-
 
 ** सः** He **एषः** this **प्राणः**Prāṇa **विश्वरूपः** of universal form **वैश्वानरः** of universal life **अग्निः**Fire **उदयते** rises. **तत्** that **एतत्** this **ऋचा** by the Ṛk **अभ्युक्तम्** described.
 
@@ -183,8 +143,6 @@ form of meditation. Having performed austerity, He created the pair— Matter**�
 
 (The wise know him, who is) of universal form, full of rays, omniscient, the basis of all
 
-
-
 (life), the effulgent one, and (great) giver of heat. There rises the Sun of thousand rays who is manifold in existence and the life of all creatures.
 
 \[NOTES— The spiritualization of Prāṇa identified with the Sun is most significant in the Vedāntic Metaphysics.\]
@@ -192,8 +150,6 @@ form of meditation. Having performed austerity, He created the pair— Matter**�
 ** संवत्सरो वै प्रजापतिः, तस्यायने दक्षिणञ्चोत्तरं च। तद्ये ह वै तदिष्टापूर्त्तेकृतमित्युपासते, ते चान्द्रमसमेवलोकमभिजयन्ते, त एव पुनरावर्त्तन्ते। तस्मादेवऋषयः प्रजाकामा दक्षिणं प्रतिपद्यन्ते। एष ह वै रयिर्यः पितृयाणः॥९॥**
 
 **  प्रजापतिः** Prajāpati (Lord of the creatures) **वै**verily**संवत्सरः** the whole year ; **तस्य** his **दक्षिणम् च** the south **उत्तरम् च** and the north **अयने** two paths (**वर्तेत** exist) ; **तत्** therefore **ये** who **ह वै** verily (or, as it is well-known) **तत्** that **इष्टापूर्त्ते**(**इष्टम् च पूर्त्तम् च**) the performance of Vedic sacrifices and doing such philanthropic works as digging a well or a tank for the public, or establishing an almshouse etc., **कृतम्** work worth doing, or of permanent value, **इति** thus **उपास्ते** do devoutly **ते** they **चान्द्रमसम्** the lunar **लोकम्** world **अभिजयन्ते** conquer (attain) ; **ते** they **एव** verily **पुनरावर्त्तन्ते** return again. **तस्मात्** therefore **एते** these **ऋषयः** the Ṛṣis **प्रजाकामाः** desirous of progeny, **दक्षिणम्** the southern **प्रतिपद्यन्ते** go ; **एषः** this **ह वै** indeed **रयिः** Matter **यः** which **पितृयाणः** the path of the manes.
-
-
 
   The**¹**year is verily Prajāpati, and his**²** paths are two, the southern and the northern ; now, those who perform the ***Iṣṭāpūrta***^(**3**) (Vedic sacrifice and charitable work) thinking them as works of supreme value, they attain the world of the Moon and afterwards return here again. Therefore those Ṛṣis who desire offspring go by the Southern Path. Matter⁴verily is this path of the manes.
 
@@ -205,8 +161,6 @@ form of meditation. Having performed austerity, He created the pair— Matter**�
 
 **अग्निहोत्रं तपः सत्यं भूतानां चानुपालनम्।  
 आतिथ्यं वैश्वदेवश्च इष्टमित्यभिधीयते॥**
-
-
 
   'The daily sacrifice of ***Agnihotra***, austerity, truthfulness, maintenance of animals, feeding of the guests and feeding the birds and beasts—these are called ***Iṣṭa.***'
 
@@ -221,8 +175,6 @@ form of meditation. Having performed austerity, He created the pair— Matter**�
 
 ** अथ** again **तपसा** by austerity **ब्रह्मचर्येण** by self-discipline, **श्रद्धया** by faith, **विद्यया** by knowledge, **आत्मानम्** the Ātman, Self **अन्विष्य** having sought **उत्तरेण** by the Northern Path **आदित्यम्** the Sun **अभिजयन्ते** attain **एतत्** this (Sun) **वै** verily **प्राणानाम्** of all the Prāṇas or Energy **आयतनम्** abode (source) ; **एतत्** this **अमृतम्** immortal and
 
-
-
 imperishable, **अभयम्** free from fear, **एतत्** this **परायणम्** Supreme resort ; **एतस्मात्** from this (Sun) **पुनः** again **न आवर्त्तन्ते** do not return. **इति** thus **एषः** this (the Northern Path) **निरोधः**(is) the end (lit. restriction). **तत्**on the same **एषः** this **श्लोकः** verse (**भवति** there is).
 
  But those who have sought the Ātman by austerity, abstinence, faith and knowledge, attain**¹**the Āditya by the Northern Path. This ^(**2**)is the source of all Energy, this is immortal and free from fear, this is the supreme resort. From there they do not return, for it**³** is the end. There is the following verse on it:  
@@ -233,8 +185,6 @@ imperishable, **अभयम्** free from fear, **एतत्** this **पर
   3. *It is the end*— Śaṅkarācārya explains**निरोधः**of the text as 'blocked,' i.e. this Northern Path is blocked for the ignorant and persons devoid of the necessary qualities.\]
 
 ** पञ्चपादं पितरं द्वादशाकृतिं दिव आहुः परे अर्धे पुरीषिणम्। अथेमे अन्य उ परे विचक्षणं सप्तचक्रे षडर आहुरर्पितमिति॥११॥**
-
-
 
 **पञ्चपादम्** with five feet **द्वादशाकृतिम्** with twelve forms **पितरम्** father **दिवः**of the sky **परे** above **अर्धे** half **पुरीषिणम्** excreting (giving rains) **आहुः**(the sages) say. **अथ** again **परे अन्ये** others **इमे** these (the sages) **विचक्षणम्** the seer (the sun) **सप्तचक्रे**of seven wheels **षडरे**on six-spoked (chariot) **अर्पितम्** placed (**इति** thus) **आहुः** say.
 
@@ -254,8 +204,6 @@ imperishable, **अभयम्** free from fear, **एतत्** this **पर
 
  The drift of the text is that it is the Sun, the Prāṇa, who makes the time, who marks it out into the year which has several sub-divisions and phases, andwho thus functions as the coutroller and father of all. This verse and occurs originally in the Ṛgveda-1. 164. 12\]
 
-
-
  **मासो वै प्रजापतिस्तस्य कृष्णपक्ष एव रयिः शुक्लः प्राणस्तस्मादेव ऋषयः शुक्ल इष्टं कुर्वन्तीतर इतरस्मिन्॥१२॥**  
 ** मासः** the month **वै** verily **प्रजापतिः** Prajāpati (lord of creatures) **तस्य** its **कृष्णपक्षः** the dark fortnight **एव** only **रयिः** matter **शुक्लः** the bright (fortnight) **प्राणः** Prāṇa. **तस्मात्** therefore **एते** these **ऋषयः** the Ṛṣis **शुक्ले** in the bright (fortnight) **इष्टम्** sacrifices **कुर्वन्ति** perform ; **इतरे** others **इतरस्मिन्** in the other (i.c. in the dark fortnight).
 
@@ -266,8 +214,6 @@ imperishable, **अभयम्** free from fear, **एतत्** this **पर
 ** अहोरात्रो वै प्रजापतिस्तस्याहरेव प्राणो रात्रिरेव रयिः। प्राणं वा एते प्रस्कन्दन्ति ये दिवा रत्या संयुज्यन्ते, ब्रह्मचर्यमेव तद्यद्रात्रौ रत्या संयुज्यन्ते॥१३॥**
 
  **अहोरात्रः** Day and Night **वै** surely **प्रजापतिः** Prajāpati. **तस्य** its **अहः** day **एव** indeed **प्राणः** Prāṇa (Energy)
-
-
 
 **रात्रिः** night **एव** verily **रयिः** matter. **ये** who **दिवा** by day **रत्या** in sexual intercourse **संयुज्यन्ते** combine **प्राणम्** Prāṇa **वै** assuredly **एते** they **प्रस्कन्दन्ति** dissipate. **रात्रौ** in night **यत्** when **रत्या** in sexual intercourse **संयुज्यन्ते** are united **तत्** that **ब्रह्मचर्यम्** control **एव** indeed.
 
@@ -281,13 +227,9 @@ imperishable, **अभयम्** free from fear, **एतत्** this **पर
 
   Food is verily the Prajāpati. From that is produced the seed, and from that again all these creatures are born.
 
-
-
 \[NOTES— This Section directly gives the answer to the first question; but hitherto the Śruti has been dealing only with the fundamental principles of creation. The question was 'Whence are these creatures born?'; and in answer to it, the teacher first said (Sec. 4) that Matter and Energy are the two fundamental principles of creation. Next (Sec. 5 to 8) the various expressions and functions in general, of Energy and Matter, in maintaining the creation are described. Then (Sections 9 and 10) he spoke of the two paths, the material and the spiritual, by which a soul can travel after death, according to his Karma and Knowledge. Next (Sections 11 to 13) he digressed in giving the descriptions of minor sub-divisions of time, such as seasons, months, and days, and pointed out that all these divisions, like Time itself, are but the working of the same Matter and Energy, and through them they control the life. And then in the present Section he gives the direct reply that 'from the seed the creatures are born.'
 
   It may appear strange why the teacher should apparently depart so much from the point before directly giving the answer which after all was a statement of a simple biogenetic fact perhaps well-known to the questioner himself. But there is a deeper significance in it. In making so many preliminary statements with regard to Prāṇa and Rayī (Energy and Matter) before mem- tioning the Biological origin of life, the teacher had two things in view. First, by stating the fact that Matter and Energy are the principal sources of the Creation, the teacher pointed out that the bioplasmic origin of life is but a secondary expression of the same Matter and Energy. Secondly, by mentioning the
-
-
 
 eschatology even before his answer to the question on the origin of life, he hinted that there could be no first origin of life, nor of any creature for the matter of that, in the true sense of the term. Life is beginningless and so are the creatures. The life-principle, the soul, has to undergo bodily expressions from time to time, from Cycle to Cycle,— that is all,—but has no real origin.
 
@@ -298,8 +240,6 @@ eschatology even before his answer to the question on the origin of life, he hin
  **तत्** thus **ये** those **तत्** that **प्रजापतिव्रतम्** rule of Prajāpati **चरन्ति** observe **ते** they **मिथुनम्** a pair **उत्पादयन्ते** produce. **येषाम्** of those **तपः** penance **ब्रह्मचर्यम्** abstinence, **येषु** in whom **सत्यम्** truth **प्रतिष्ठितम्** established, **तेषाम्** their **एव** verily **एषः** this **ब्रह्मलोकः** the heaven of Brahmā.
 
   Therefore, those who observe the**¹** rule of. Prajapati produce**²** a pair. For them verily
-
-
 
 is the Brahmaloka**³**, who have penance and abstinence**⁴** and in whom truth abides.
 
@@ -323,8 +263,6 @@ is the Brahmaloka**³**, who have penance and abstinence**⁴** and in whom trut
 
 **END OF THE FIRST QUESTION**
 
-
-
 **द्वितीयः प्रश्नः SECOND QUESTION**
 
 ** अथ हैनं भार्गवो वैदर्भिः पप्रच्छ। भगवन् कत्येव देवाः प्रजां विधारयन्ते? कतर एतत्प्रकाशयन्ते? कः पुनरेषां वरिष्ठ? इति॥१॥**
@@ -339,8 +277,6 @@ is the Brahmaloka**³**, who have penance and abstinence**⁴** and in whom trut
 
 ** तस्मै स होवाचाकाशो ह वा एष देवो वायुरग्निरापः पृथिवी वाङ्मनश्चक्षुः श्रोत्रं च। ते प्रकाश्याभिवदन्ति वयमेतद्वाणमवष्टभ्य विधारयामः॥**
 
-
-
 **  स** he (Pippalāda) **तस्मै** to him **उवाच** said, **एषः** that **देवः** god **आकाशः** the sky, **वायुः** air, **अग्निः**fire, **आपः** water, **पृथिवी** earth, **वाक्** speech (organ of speech), **मनः** mind, **चक्षुः** eye, **श्रोत्रम्** ear **च** and **ते** they **प्रकाश्य** having manifested (their power) **अभिवदन्ति** vaunt **वयम्** we **एतत्** this **बाणम्** body (lit perishable) **अवष्टभ्य** having held together **विधारयामः** support.
 
   To him he replied : 'The ether is that God, the air, fire, water, earth, speech, mind, eye and ear. These having manifested their power, vaunt and say, “We (each of us), holding this body, support it."
@@ -351,8 +287,6 @@ is the Brahmaloka**³**, who have penance and abstinence**⁴** and in whom trut
 
  The chief Prāṇa then declared: 'Do not be deluded. **I¹** alone, dividing myself into five
 
-
-
 parts, hold this body and support it.' But they were not disposed to believe his words.
 
  \[NOTES—*1. I alone dividing myself etc.*—Here it refers to the five kinds of vitai breath, viz., Prāṇa, Apāna, Samāna, Udāna, and Vyāna which are supposed to function in maintaining the body. But the powers which the sensory and motor organs manifest by their functioning are only expressions of the one vital energy that pervades the whole body, and which again is a part of the universal energy. There is only one Prāṇa that acts through the body and Nature. This truth has been allegorically described here as well as in the subsequent sections.\]
@@ -360,8 +294,6 @@ parts, hold this body and support it.' But they were not disposed to believe his
 **सोऽभिमानादूर्ध्वमुत्क्रमत इव; तस्मिन्नुत्क्रामत्यथेतरे सर्व एवोत्क्रामन्ते तस्मिꣳश्चप्रतिष्ठमाने सर्व एव प्रातिष्ठन्ते। तद्यथा मक्षिका मधुकरराजानमुत्क्रामन्तं सर्वा एवोत्क्रामन्ते, तस्मिꣳश्च प्रतिष्ठमाने सर्वा एव प्रातिष्टन्त, एवं वाङ्मनश्चक्षुःश्रोत्रं च ते प्रीताः प्राणं स्तुन्वन्ति॥४॥**
 
  **सः** he (Prāṇa) **अभिमानात्** from indignation **ऊर्ध्वम्** upward **उत्क्रमते** was going out **इव** as if ; **तस्मिन्** when he i.e. the chief Prāṇa) **उत्क्रामति** when gone out, **अथ** thereupon **इतरे** others **सर्वे एव** all **प्राणाः** Prāṇas (senses and organs) **उत्क्रामन्ते** get out; **तस्मिन्** when he (te the chief Prāṇa) **च** and **प्रतिष्ठमाने** when being established **सर्वे** all **एव** verily **प्रातिष्ठन्ते** are established, **तत् यथा**as**मधुकरराजानम्** the king of the bees (queen-bee) **उत्क्रामन्तम्** in
-
-
 
 going out **सर्वाः**all **एव** verily **मक्षिकाः** bees **उत्क्रामन्ते** go out **तस्मिन्** when he (the King) **प्रतिष्ठमाने** being established **सर्वाः** एव all **प्रतिष्ठन्ते** are established ; **एवम्** thus **वाक्** speech **मनः** mind **चक्षुः**eyes **श्रोत्रम्** ears **च** and (**अकुर्वन्** did). **ते** they **प्रीताः** being pleased **प्राणम्** the Prāṇa **स्तुन्वन्ति** praises.
 
@@ -373,8 +305,6 @@ going out **सर्वाः**all **एव** verily **मक्षिकाः
 एष पृथिवी रयिर्देवः सदसच्चामृतं च यत्॥५॥**
 
  **एषः** this (Prāṇa) **अग्निः** fire (**सन्** being) **तपति** burns **एषः** this **सूर्यः** sun; **एषः** this **पर्जन्यः** cloud (**एषः** this) **मघवान्** Indra **एषः** this **वायुः** wind **एषः** this **देवः** bright
-
-
 
 one **पृथिवी** the earth, **रयिः** (matter) **सत्** what is **असत्** what is not **च** and **अमृतम्** immortal**च** and **यत्**what.
 
@@ -395,8 +325,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
 
 ** रथनाभौ** in the nave of a wheel **अराः** spokes **इव** as**प्राणे** in Prāṇa **सर्वम्** all **प्रतिष्ठितम्** are established. **ऋचः**the Ṛks (Veda) **यजूꣳषि** Yajus (Veda) **सामानि** Sāmas(Veda) **यज्ञः** Sacrifice **क्षत्रम्** Kṣatriyas **ब्रह्म** Brāhmaṇas **च**and (**तस्मिन्** **प्रतिष्ठितम्** are established in that),
 
-
-
   As spokes in the nave of the wheel, all**¹**are fixed in Prāṇa-Ṛks, Yajus, Sāmas, sacrifice, Kṣatriyas and Brāhmaṇas.
 
  \[NOTES— *1. All are fixed in Prāṇa etc*.— Here the Vedas are mentioned as fixed in Prāṇa inasmuch as their recitation depends upon Prāṇa, or, it may mean that they have their original manifestation in Hiraṇyagarbha, the universal mind or Prāṇa. Prāṇa is identified with the universal life-force.\]
@@ -408,8 +336,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
   Verily as Prajāpati thou wanderest in the womb and art born again. To**¹** thee, O Prāṇa, who dwellest in the body with the senses these creatures carry their offerings.
 
 \[NOTES—Prāṇa is Prajāpati, the universal Life; as a finite principle of life he enters into the womb and is re-born in the form of a child,-this is the play of Life, of Prāṇa.
-
-
 
 1. *To Thee these creatures carry etc.*—The senses gather the perceptions of their respective objects not for any selfish gain, but for fostering the Life, the Prāṇa in the body.\]
 
@@ -425,8 +351,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
 
 **इन्द्रस्त्वं प्राण तेजसा रुद्रोऽसि परिरक्षिता।  
 त्वमन्तरिक्षे चरसि सूर्यस्त्वं ज्योतिषां पतिः॥९॥**
-
-
 
 **  प्राण** O Prāṇa, **त्वम्** thou **इन्द्रः** Indra **तेजसा** by prowess **रुद्रः** Rudra **असि** art; **परिरक्षिता** the protector **त्वम्** thou **सूर्यः** the sun **अन्तरिक्षे** in the sky **चरसि** movest **त्वम्** thou **ज्योतिषाम्** of lights **पतिः** lord.
 
@@ -447,8 +371,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
 
   O Prāṇa, when thou pourest down rain, these creatures of thine are delighted, hoping that there will be food according to their desire.
 
-
-
 **व्रात्यस्त्वं प्राणैकऋषिरत्ता विश्वस्य सत्पतिः।  
 वयमाद्यस्य दातारः पिता त्वं मातरिश्वनः॥११॥**
 
@@ -460,8 +382,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
 
 **या ते तनूर्वाचि प्रतिष्ठिता या श्रोत्रे या च चक्षुषि।  
 या च मनसि सन्तता शिवां तां कुरु मोत्क्रमीः॥१२॥**
-
-
 
   **ते** Thy **या** which **तनूः**body **वाचि** in speech **प्रतिष्ठिता** is established **या**which **श्रोत्रे**in the ear **या**which **च**and **चक्षुषि** in the eyes (**प्रतिष्ठिता** is established); **या** which **च** also **मनसि** in the mind **सन्तता** pervades, **ताम्** that **शिवाम्** propitious **कुरु** do; **मा** do not **उत्क्रमीः** go away.
 
@@ -478,14 +398,9 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
 
   Whatever**¹**exists in the three worlds, is all under the control of Prāṇa. (O Prāṇa) protect us as a mother (protects) her sons; give us affluence and intelligence.
 
-
-
 \[NOTES— *1. Whatever exists etc.*—Śaṅkarācārya has taken the first line to mean that 'all objects of this world are within the control of Prāṇa and also those objects of enjoyment that are in the third heaven of Gods.'\]
 
-
 **END OF THE SECOND QUESTION**
-
-
 
 **तृतीयः प्रश्नः THIRD QUESTION**
 
@@ -494,8 +409,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
  **अथ** then **च** and **आश्वलायनः कौसल्यः** Āśvalāyana Kausalya **एनम्** him (Pippalāda) **पप्रच्छ** asked, **भगवन्** Sir, **एष** this **प्राणः** Prāṇa **कुतः** whence **जायते** is born? **कथम्** how**अस्मिन्** in this **शरीरे** body **आयाति** comes? **कथम्** how **आत्मानम्** himself **प्रविभज्य** having divided **प्रातिष्ठते** exists? **केन** by what means **उत्क्रमते** goes out? **कथम्** how **बाह्यम्** the outside (world) **अभिधत्ते** holds. **कथम्** how (**वा** also) **अध्यात्मम्** the internal **इति** thus (the question).
 
  And then Āśvalāyana Kausalya asked him: ‘Sir, whence is this Prāṇa born? How does he come into this body, and how does he exist (there) having divided himself (into five parts)? By what means does he go out? How does he hold the outside (world), and how the**¹** internal? '
-
-
 
  \[NOTES— *1. The Interna*l—i.e. the body, the senses, and the mind.\]
 
@@ -511,8 +424,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
 
   Of**¹**the Ātman is born this Prāṇa. Like the shadow on a man, it is spread out on That. It comes into the body by**²** the acts of the mind.
 
-
-
  \[NOTES— *1. Of the Ātman is born etc*.—Here is a clear indication that the Energy whose play is the whole creation, both internal and external, is born of the Ātman, and covers the Being just as a shadow spreads over a body, i.e. it has no separate existence apart from the Ātman, and it shrouds the real nature of the latter under its varied display, yet it is as non-essential as a shadow. This is called Māyā. It will be
 
   2. *By the acts of the mind*— i.e., according to the volitional efforts and desires of the mind. explained by the Śruti itself later on.\]
@@ -522,8 +433,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
  **यथा** as **सम्राट्** the emperor **एव** verily **अधिकृतान्** officials **एतान्** these **ग्रामान्** villages **एतान्** these **ग्रामान्** villages **अधितिष्ठस्व** do you reside in and rule **इति** thus **विनियुङ्क्ते**orders, **एवम्** so **एव** verily **एषः** this (the chief Prāṇa) **इतरान्** other **प्राणान्** Prāṇas **पृथक् पृथक्** separately **एव** indeed **सन्निधत्ते** engages.
 
   As an emperor orders his officials, saying 'Do you reside in and rule these villages and those', so does this (the chief Prāṇa), engage the other Prāṇas differently (in their different functions).
-
-
 
 **  पायूपस्थेऽपानं चक्षुश्रोत्रे मुखनासिकाभ्यां प्राणः स्वयं प्रातिष्ठते मध्ये तु समानः। एषह्येतद्भुतमन्नं समं नयति तस्मादेताः सप्तार्चिषो भवन्ति॥५॥**
 
@@ -535,8 +444,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
 
   2. *The seven flames*—i.e., the seven organs of perception-two eyes, two ears, twoils; and the mouth.)
 
-
-
 ** हृदि ह्येष आत्मा। अत्रैतदेकशतं नाडीनां तासां शतं शतमेकैकस्यां द्वासप्ततिर्द्वासप्ततिः प्रतिशाखानाडीसहस्राणि भवन्त्यासु व्यानश्चरति॥६॥**
 
 **   एषः** this **आत्मा**the Ātman **हृदि** in the heart (**वसति** dwells) **अत्र**here **नाडीनाम्**of the nerves **एतम्**this **एकशतम्** hundred and one. **तासाम्** of those **एकैकस्याम्** of each one **शतम् शतम्** hundred **प्रतिशाखानाडी सहस्राणि** in each thousand branch nerves **द्वासप्ततिः** **द्वासप्ततिः** seventy-two each **भवन्ति** are. **आसु** in these **व्यानः** Vyāna **चरति** moves.
@@ -544,8 +451,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
   'In the heart dwells the Ātman. There are (in the heart) a hundred-and-one nerves, in each of them there are a hundred, and each of these branch nerves again has seventy-two thousand nerves. In all these the Vyāna moves.
 
  \[NOTES— According to this passage, Vyāna is the Energy that works through the nervous system, and perhaps through arteries and veins also, during the circulation of blood. Sometimes the word **नाडी**is translated as artery. But it is not quite correct to do so; to the ancients, the difference between artery and nerve was not known; and we find them often confusing the functions of the two as of one and the same **नाडी.**\]
-
-
 
 **अथैकयोर्ध्व उदानः पुण्येन पुण्यं लोकं नयति।  
 पापेन पापमुभाभ्यामेवमनुष्यलोकम्॥७॥**
@@ -564,8 +469,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
 
  4. *By both*—i.e., when both sin and virtue are in balance state.\]
 
-
-
 ** आदित्यो ह वै बाह्यः प्राण उदयत्येष ह्येनं चाक्षुषं प्राणमनुगृह्णानः। पृथिव्यां या देवता सैषा पुरुषस्यापानमवष्टभ्यान्तरा यदाकाशः स समानो वायुर्व्यानः॥८॥**
 
 **  आदित्यः** the sun **ह वै** verily **बाह्यः** the external **प्राणः** Prāṇa, **हि** because **एषः** it **एनम्** this **चाक्षुषम्** in the eye **प्राणम्** Prāṇa **अनुगृह्णानः** gracing **उदयति** rises. **पृथिव्याम्** of the earth **या** which **देवता** the god (the energy) **सा** that **एषा** this **पुरुषस्य** of man **अपानम्** Apāna **अवष्टभ्य** having controlled (**अनुग्रहम् कुर्वती वर्त्तते** exists thus favouring); **अन्तरा** in the interspace (between heaven and earth) **यत्** which **आकाशः** the ether **सः** that **समानः** Samāna, **वायुः** the air **व्यानः** Vyāna.
@@ -577,8 +480,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
  2. *The God which is in the earth—*Could it mean the Force of Gravity or even a vague indication of it?\]
 
 **  तेजो ह वा उदानस्तस्मादुपशान्ततेजाः पुनर्भवमिन्द्रियैर्मनसि संपद्यमानैः॥९॥**
-
-
 
 **  तेजः** the fire **ह वै** verily **उदानः**the Udāna **तस्मात्** therefore **उपशान्ततेजाः** those whose fire is extinguished **मनसि** in the mind **सम्पद्यमानैः** absorbed **इन्द्रियैः** with the senses **पुनर्भवम्** rebirth (**प्रतिपद्यन्ते** attain).
 
@@ -597,8 +498,6 @@ one **पृथिवी** the earth, **रयिः** (matter) **सत्** wh
 
   \[NOTES— *1. He comes to the Prāṇa etc.*— According to the Vedānta, the self of man is encased by five
 
-
-
 sheaths, viz. (1) Annamayakośa (physical sheath), (2) Prāṇamayakośa (sheath of vital energy), (3) Manomayakośa (mental sheath), (4) Vijānamayakośa (sheath of intellect) and (5) Ānandamayakośa (sheath of primal nescience). These five again to go make the three bodies of man: the first forms the gross body (Sthūlaśarīra), the second, third and fourth constitute the subtle body (Liṅgaśarīra) and the fifth forms the causal body (Kāraṇaśarīra). When physically alive, the soul is in all these three bodies, the causal being situated within the subtle and the subtle in the gross. In death, the self still remaining within the causal and subtle bodies separates away from the physical, and it is the subtle that forms the vehicle of the soul in its transmigration. Hence the Śruti tells here that after death the Jīvātman comes to Prāṇa, i.e., in the Prāṇamayakośa of the subtle body with the mood of mind in which it was at the dying moment, and then moves on for a befitting reincarnation.
 
   2. The Ātman—The Jīvātman.\]
@@ -608,8 +507,6 @@ sheaths, viz. (1) Annamayakośa (physical sheath), (2) Prāṇamayakośa (sheath
  **यः** who **विद्वान्** one who knows **एवम्** as such **प्राणम्** Prāṇa **वेद** knows, **अस्य** his **प्रजाः** progeny **न ह** never **हीयते** perishes, (**सः**he) **अमृतः** immortal **भवति** becomes ; **तत्** thus **एषः** this **श्लोकः** stanza :
 
   'The progeny of the wise man who knows the Prāṇa as^(**1**)such never perishes; he becomes immortal. Here is the verse (about it)**.²**
-
-
 
   \[NOTES— *1. As such*—i.e., as described before.  
   2. *Never perishes*—i.e., there never comes a break in his lineage. This might be taken as an Arthavāda a mere eulogy of the Science of Prāṇa.\]
@@ -626,8 +523,6 @@ sheaths, viz. (1) Annamayakośa (physical sheath), (2) Prāṇamayakośa (sheath
 
 **END OF THE THIRD QUESTION**
 
-
-
 **चतुर्थ प्रश्नः FOURTH QUESTION**
 
 ** अथ हैनं सौर्यायणी गार्ग्यः पप्रच्छ। भगवन्नेतस्मिन् पुरुषे कानि स्वपन्ति? कान्यस्मिञ्जाग्रति? कतर एष देवः स्वप्नान् पश्यति? कस्यैतत्सुखं भवति? कस्मिन्नु सर्वे संप्रतिष्ठिता भवन्तीति॥१॥**
@@ -638,8 +533,6 @@ sheaths, viz. (1) Annamayakośa (physical sheath), (2) Prāṇamayakośa (sheath
 
 \[NOTES—The questioner wants to know what parts of man sleep in sleep, and what are awake in the
 
-
-
 awakened state. In sleep again what in man dream the dream, and what enjoy the calm repose of the dreamless sleep. \]
 
   **तस्मै स होवाच। यथा गार्ग्य मरीचयोऽर्कस्यास्तं गच्छतः सर्वा एतस्मिन् स्तेजोमण्डल एकीभवन्ति। ताः पुनः पुनरुदयतः प्रचरन्त्येवं ह वै तत् सर्वं परे देवे मनस्येकीभवति। तेन तर्ह्येष पुरुषो न शृणोति, न पश्यति, न जिघ्रति, न रसयते, न स्पृशते, नाभिवदते, नादत्ते, नानन्दयते न विसृजते, नेयायते, स्वपितीत्याचक्षते॥२॥**
@@ -647,8 +540,6 @@ awakened state. In sleep again what in man dream the dream, and what enjoy the c
   **सः** he (Pippalāda) **तस्मै** to him **उवाच** said—**गार्ग्य** O Gārgya **यथा** as **अस्तं** **गच्छतः** the setting **अर्कस्य** of the sun **सर्वाः** all **मरीचयः** rays **एतस्मिन्** in this **तेजोमण्डले** circle of light (solar orb) **एकीभवन्ति** become united ; **पुनः** again **उदयतः** the rising (**अर्कस्य** of the sun)**ताः** those (rays) **पुनः** again **प्रचरन्ति** go out (radiate) **एवम्** so **ह** verily **तत्** that **सर्वम्** all (senses) **परे** higher **देवे** in god **मनसि** in mind **एकीभवति** become united. **तेन** thus **तर्हि** then **एषः** this **पुरुषः** man (being) **न शृणोति** hears not, **न पश्यति** sees not, **न जिघ्रति** smells not, **न रसयते** tastes not, **न स्पृशते** feels not, **न अभिवदते** speaks not, **न आदत्ते** takes not, **न** **आनन्दयते** enjoys not, **न विसृजते** evacuates not, **न इयायते** moves not, (**तदा** then) **स्वपिति** sleeps **इति** thus **आचक्षते** says (**जनाः** man).
 
   To him he said : 'As the rays of the setting sun, O Gārgya, become united in the orb of
-
-
 
 light (the sun) and while rising they again go out, so (in sleep) all**¹**become one in the superior god, the mind; hence the man hears not, sees not, smells not, tastes not, feels not, speaks not, enjoys not, evacuates not, moves not; and they say "(he) sleeps".
 
@@ -660,27 +551,19 @@ light (the sun) and while rising they again go out, so (in sleep) all**¹**becom
 
  'The fires of Prāṇa alone remain awake in this city. This Apana is the Gārhapatya fire, the Vyāna is the Anvāhāryapacana and the Prāṇa is the Āhavanīya fire since it is taken from the Gārhapatya fire.
 
-
-
  \[NOTES— In sleep although the senses remain dormant, the Prāṇas ever remain active. But the significance of comparing the Prāṇas to the fires is not very clear. In Agnihotra sacrifice, there are mainly three kinds of fires used, viz., (1) Anvāhāryapacana or Dakṣināgni (2) Gārhapatya and (3) Āhavanīya. The first fire is placed on the southern side and is used only for offering oblations to the forefathers. The second, the household fire, is kept constantly burning on an altar and all other fires are taken from it. The third is the fire into which all the oblations to gods are offered. śaṅkara says that as there are some similarities between the Agnis and Prāṇas, the analogy is drawn. Vyāna works in the nerve on the right side of the heart; so it is compared to the Dakṣina fire. Apāna remains active constantly in the lower part of the system. From it proceeds the Prāṇa in sleep; so the Apāna is called Gārhapatya fire. And like the Āhavanīya fire which is taken from the Gārhapatya, Prāṇa proceeds from Apāna; so it is compared to the former fire.\]
 
 **  यदुच्छ्वासनिःश्वासावेतावाहुती समं नयतीति स समानः। मनो ह वाव यजमान इष्टफलमेवोदानः स एनं यजमानमहरहर्ब्रह्म गमयति॥४॥**
 
  **यत्** as **एतौ** these two **उच्छ्वासनिश्वासौ** expiration andinspiration **आहुती** two oblations **समम्** equally **नयति** takes **इति** thus **सः समानः** that Samāna (**होता** the Hotṛ priest). **मनः** the mind **ह** verily **यजमानः** the sacrificer **उदानः** the Udāna **एव** indeed **इष्टफलम्** the fruit of the
 
-
-
 sacrifice **सः** he (the Udāna) **एनम्** this **यजमानम्** the sacrificer **अहरहः** every day **ब्रह्म** Brahman **गमयति** takes.  
   As it carries the two oblations of inspiration and expiration equally into the system, the Samāna is the Hotṛ; the mind is verily the sacrificer and the Udāna is the fruit of the sacrifice inasmuch as it takes the sacrificer every day to Brahman.**¹**  
   \[NOTES— *1. It takes . . . Brahman.*—Ordinarily there are three states of human consciousness— (1) the awakening state, when the physical world becomes the object of cognition, (2) the dreaming state, when dreams formed out of the impressions of the awakening state, are perceived, and (3) the state of dreamless deep sleep, when the content of consciousness is nothing of the sense world or its impressions, but a vague feeling of unconditioned being. There is a fourth state of consciousness known as Samādhi, when the consciousness of the being alone remains in its infinitude without its limiting adjuncts. The attainment of this consciousness means the realization of Brahman. The consciousness in deep sleep is very similar to this consciousness, the difference being only that the consciousness during deep sleep is vague and impermanent, while that in the latter is distinct, full of light, and permanent at least in its effect and impression. Hence the Śruti tells here that the Udāna takes the mind, the sacrificer, every day in deep sleep to Brahman, i.e., to a state which is very near to Brahman.\]
 
-
-
 ** अत्रैष देवः स्वप्ने महिमानमनुभवति। यद् दृष्टं दृष्टमनुपश्यति ; श्रुतं श्रुतमेवार्थमनुशृणोति ; देशदिगन्तरैश्च प्रत्यनुभूतं पुनः पुनः प्रत्यनुभवति दृष्टं चादृष्टं च श्रुतं चाश्रुतं चानुभूतं चाननुभूतं च, सच्चासच्च, सर्वं पश्यति सर्वः पश्यति॥५॥**  
  **एषः**this **देवः** god (mind) **अत्र** here **स्वप्ने** in dream **महिमानम्** grandeur (power) **अनुभवति** perceives (enjoys) **यत्** what **दृष्टम् दृष्टम्** whatever seen **अनुपश्यति** sees again, **श्रुतम् श्रुतम् एव** whatever heard **अर्थम्** object **अनुशृणोति,** hears again **देशदिगन्तरैः** in different places and quarters **च** also **प्रत्यनुभूतम्** perceived **पुनः पुनः** again and again **प्रत्यनुभवति** is perceived, **दृष्टम्** seen च and **अदृष्टम्** unseen**श्रुतम्** heard **अश्रुतम्** unheard **अनुभूतम्** perceived **अननुभूतम्** unperceived **च** and **सत्** real **असत्** unreal **सर्वम्** all **पश्यति,** sees (**स्वयमपि** itself) **सर्वः** all (**सन्** being) **पश्यति** sees.  
  Here, in this state, the god enjoys**¹** its power of dream—it sees again whatever has been seen before, hears whatever has been heard before, enjoys again what has been enjoyed in different places and quarters. Becoming all, it sees all that has been seen and unseen, heard and unheard, perceived and unperceived real and unreal.
-
-
 
   \[NOTES— When all the senses lie dormant in sleep, the mind builds up in dream a world of its own out of the impressions received in the awakened state and enjoys the visions. All the different component parts of a dream are impressions of actual experiences, obtained, it may be, in different times; but they are curiously and fantastically linked together in sleep, when the controlling power of both reason and will is absent, and so we find that we experience things in dream which we have never seen or heard in the waking state. But ordinary dreams can be better explained physiologically than by mere psychology, although there are dream-phenomena that directly prove the existence of psychic mind and the Liṅgaśarīra of man.  
   1. *Enjoys its power.*—i.e., unlike the awakening state, enjoys its single nature untrammelled by the senses.\]
@@ -690,8 +573,6 @@ sacrifice **सः** he (the Udāna) **एनम्** this **यजमानम�
  **सः** he (the mind) **यदा** when **तेजसा** with the power**अभिभूतः** overpowered **भवति** becomes **अत्र** here (in this condition) **एषः**this **देवः**god (the Jīvātman) **स्वप्नान्**the dreams **न पश्यति** does not see. **तदा** then **एतस्मिन् शरीरे** in this body **एतत्** this **सुखम्** bliss **भवति** becomes (is enjoyed).
 
   When the mind**¹** is overcome by power, the god (Jīva) sees not the dream,—then**²** in the body bliss is enjoyed.
-
-
 
   \[NOTES— *1. The mind is overcome by the power.*― In the original the word is 'tejasā' which means by 'the light' or 'by power.' Śaṅkarācārya explains it as light of the sun, which is called citta and is in the nerves,' but this does not elucidate the term. Ordinarily, the mind is conceived as a self-effulgent light lighting up everything it comes in contact with; but in deep sleep that self-effulgence of the mind is overpowered for the time being by some other power which might be of the Nature outside or of the body, and of a Tamasic kind.
 
@@ -706,19 +587,13 @@ sacrifice **सः** he (the Udāna) **एनम्** this **यजमानम�
 
   *2. Superior Ātman*.—i.e., the Jīvātman the Ātman related to body etc.\]
 
-
-
  ** पृथिवी च पृथिवीमात्रा चापश्चापोमात्रा च, तेजश्च तेजोमात्रा च, वायुश्च वायुमात्रा चाकाशश्चाकाशमात्रा च, चक्षुश्च द्रष्टव्यं च, श्रोत्रं च श्रोतव्यं च, घ्राणं च घ्रातव्यं च, रसश्च रसयितव्यं च त्वक्च स्पर्शयितव्यं च, वाक्च वक्तव्यं च, हस्तौ चादातव्यं चोपस्थश्चानन्दयितव्यं च, पायुश्च विसर्जयितव्यं च पादौ च गन्तव्यं च, मनश्च मन्तव्यं च, बुद्धिश्च बोद्धव्यं चाहंकारश्चाहंकर्तव्यं च, चित्तंच चेतयितव्यं च, तेजश्च विद्योतयितव्यं च, प्राणश्च विधारयितव्यं च॥८॥**
 
   **पृथिवी** earth **पृथिवीमात्रा** the subtle earth element, **च** also **आपः च** and water **आपोमात्रा च** and the subtle water element, **तेजः**light **च** and**तेजोमात्रा**as the light element **च** and, **वायुः** the air **च** and **वायुमात्रा** the subtle air element **च** and, **आकाशः** the ether **च** and **आकाशमात्रा** the ether element **च**and, **चक्षुः**the eye **च**and **द्रष्टव्यम्**object **च** and of sight, **श्रोत्रम्** the ear **च** and **श्रोतव्यम्** the object of hearing **च** and, **घ्राणम्** the smell **च** and **घ्रातव्यम्** the object of smell **च** and, **रसः** taste **च** and **रसयितव्यम्** the object of taste **च** and, **त्वक्** the touch **च** and **स्पर्शयितव्यम् च** and the object of touch, **वाक्** speech **च** and **वक्तव्यम्** the object of speech **च**and (i.e., what can be spoken) **हस्तौ** the two hands **च** and **आदातव्यम्** what can be taken **च**and, **उपस्थः**the organ of generation **च**and **आनन्दयितव्यम्** the object of enjoyment **च** and, **पायुः**
 
-
-
 the organ of excretion **च** and **विसर्जयितव्यम्** the object of excretion **च**and, **पादौ**the two feet **च** and **गन्तव्यम्**what can be walked upto, **मनः** the mind **च** and **मन्तव्यम्** the object of thought **च** and, **बुद्धिः**the intellect **च**and **बोद्धव्यम्** the object of intellection **च** and, **अहंकारः** the ego **च** and **अहंकर्त्तव्यम्** the object of egoism **च**and, **चित्तम्** the memory **च** and **चेतयितव्यम्** the object of memory **च** and, **तेजः** the light **विद्योतयितव्यम्** what is to be lighted up **च**and, **प्राणः**the light Prāṇa (Energy) **च**and **विधारयितव्यम्** what can be held up **च** and (**एते सर्वे आत्मनि सम्प्रतिष्ठन्ते** all these rest in the Ātman.)  
 
   Earth and its subtle element, Water and its subtle element, Light and its subtle element, Air and its subtle element, Ether and its subtle element, the eyes and what can be seen, the smell and what can be smelt, the taste and what can be tasted, the touch and what can be touched, the organ of speech and what can be spoken, the hands and what can be taken, the organ of generation and its object of enjoyment, the organ of excretion and what can be excreted, the feet and what can be walked up to, the mind and what can be thought of, the intellect and what can be comprehended, the ego and the object of egoism, the memory and its object, the light and what
-
-
 
 can be lighted up, the Prāṇa and what is to be sustained—all these rest in the superior Ātman in deep sleep.
 
@@ -729,8 +604,6 @@ can be lighted up, the Prāṇa and what is to be sustained—all these rest in 
  **एषः** he **हि** verily **द्रष्टा** the seer, **स्प्रष्टा** he who feels **श्रोता** the hearer **घ्राता** he who smells, **रसयिता** he who tastes, **मन्ता**the thinker, **बोद्धा**at the perceiver, the knower, **कर्ता** the doer, **विज्ञानात्मा** the self of knowledge **पुरुषः** the person (with all the qualifying adjuncts) **सः**he **परे**supreme **अक्षरे**immutable, imperishable **आत्मनि**in the Ātman **सम्प्रतिष्ठते** is established.
 
   It is he who sees, feels, hears, smells, tastes, thinks, knows; he is the doer, the intelligent soul, the Puruṣa**¹**. He**²** is established in the supreme immutable Ātman.
-
-
 
   \[NOTES— The present section refers to the Jīvātman inasmuch as the intelligence of the Jīvātman makes all perception and intellection possible, the senses and the mind being only instruments through which it acts, or better, for whose existence the mind and the senses function.
 
@@ -743,8 +616,6 @@ can be lighted up, the Prāṇa and what is to be sustained—all these rest in 
 ** परमेवाक्षरं प्रतिपद्यते, स यो ह वै तदच्छायमशरीरमलोहितं शुभ्रमक्षरं वेदयते; यस्तु सोम्य, स सर्वज्ञः सर्वो भवति॥१०॥ तदेष श्लोकः—**
 
 ** यः** who **ह वै** assuredly **तत्** that **अच्छायम्** the shadowless, **अशरीरम्**bodiless, **अलोहितम्**colourless (lit. not of red colour), **शुभ्रम्** pure **अक्षरम्** indestructible **वेदयते**
-
-
 
 knows, **सः** he **परम्** the supreme **अक्षरम्** the indestructible **एव** verily **प्रतिपद्यते** attains. **सोम्य** my young friend **यः** **तु** and who again (**एवम्** **विद्वान्** has known thus) **सः** he **सर्वज्ञः** omniscient **सर्वः** all **भवति** becomes, **तत्** about that **एषः** the following **श्लोकः** verse **भवति** is.
 
@@ -759,18 +630,13 @@ knows, **सः** he **परम्** the supreme **अक्षरम्** the 
 
 **  विज्ञानात्मा** the self of intellect (Buddhi) **सर्वैः**all **देवैः** gods (senses) **सह** with **प्राणाः** Prāṇas, **भूतानि** the elements **यत्र** in which **सम्प्रतिष्ठन्ति** rest, **सोम्य** my friend, **यः** who **तु** again **तत्** that **अक्षरम्** the imperishable **वेदयते** knows **सः** he **सर्वज्ञः** omniscient **सर्वम्** all **एव** verily **आविवेश** enters **इति** thus.
 
-
-
   My young friend, he who knows that Imperishable in Which rest the mind, the senses^(**1**)and the Prāṇas, verily becomes omniscient and enters into all.
 
   \[NOTES— *1. The senses and the Prāṇas*— Śaṅkarācārya explains 'Devas' in the text as gods like Agni, Indra, etc., who preside over the function of the senses, and Prāṇas' as the senses.
 
   *Enters into all*—i.e., realising himself as the Ātman, feels himself as existing in all.\]
 
-
 **END OF THE FOURTH QUESTION**
-
-
 
 **पञ्चमः प्रश्नः FIFTH QUESTION**
 
@@ -785,8 +651,6 @@ knows, **सः** he **परम्** the supreme **अक्षरम्** the 
 
 **  सत्यकाम** O Satyakāma, **एतत्** this **वै** verily **परम् च** superior **अपरम् च** and inferior **ब्रह्म** Brahman **यत्** what
 
-
-
 **ओङ्कारः** Om **तस्मात्** therefore, **विद्वान्** the knower **एतेन** by this **आयतनेन** means **एकतरम्** one of the two **अन्वेति** attains.
 
   What is Om, O Satyakāma, is verily the higher**¹** and the lower Brahman. Therefore the knower attains either of the two by this means.
@@ -798,8 +662,6 @@ knows, **सः** he **परम्** the supreme **अक्षरम्** the 
 
 **  सः** he **यदि** if **एकमात्रम्** the one syllable (i.e., A) **अभिध्यायीत** meditates upon, **सः** he **तेन** by that **एव** alone **संवेदितः** being enlightened **तूर्णम्** quickly **एव** verily **जगत्याम्** into this world **अभिसम्पद्यते** comes back (is reborn). **ऋचः** the Ṛk (ie, the first mātrā A) **तम्** him **मनुष्यलोकम्** the world of man **उपनयन्ते** take. **सः** he **तत्र** there **तपसा** with Tapas (austerity) **ब्रह्मचर्येण** with continence, **श्रद्धया** with faith **सम्पन्नः** being endowed **महिमानम्** greatness **अनुभवति** gets.
 
-
-
   If he meditates upon the one syllable, he comes back to this world very soon (after his death) being enlightened by that. Ṛks take him to the world of man, where he attains the greatness (in life) being endowed with austerity, continence, and faith.
 
  **अथ यदि द्विमात्रेण मनसि सम्पद्यते सोऽन्तरिक्षं यजुर्भिरुन्नीयते सोमलोकम्। स सोमलोके विभूतिमनुभूय पुनरावर्तते॥४॥**
@@ -810,15 +672,11 @@ knows, **सः** he **परम्** the supreme **अक्षरम्** the 
 
   \[NOTES— *1. United with the mind*—i.e., remains in his Śūkṣmaśarīra, the mental body.\]
 
-
-
   **यः पुनरेतं त्रिमात्रेणौमित्येतेनैवाक्षरेण परं पुरुषमभिध्यायीत स तेजसि सूर्ये संपन्नः। यथा पादोदरस्त्वचा विनिर्मुच्यत एवं ह वै स पाप्मना विनिर्मुक्तः स सामभिरुन्नीयते ब्रह्मलोकं स एतस्माज्जीवघनात्परात्परं पुरिशयं पुरुषमीक्षते॥५॥ तदेतौ श्लोकौ भवतः—**
 
   **यः** who **पुनः** again **एतम्** this (Om) **त्रिमात्रेण** with the three syllables (A+U+M) **ओम्** Om **इति** thus **एतेन** by this **अक्षरेण** letter **परम्** the Supreme **पुरुषम्** Puruṣa (Being) **अभिध्यायीत** would meditate **सः** he **तेजसि** in the light **सूर्ये** in the sun **सम्पन्नः** becomes united. **यथा** as **पादोदरः** serpent **त्वचा** from the skin (slough) **विनिर्मुच्यते**is freed **एवम्** like that **ह वै** verily **सः** he **पाप्मना** from sins **विनिर्मुक्तः** becomes free. **सः** he **सामभिः** by the Sāma hymns **उन्नीयते** is elevated to **ब्रह्मलोकम्** the world ofBrahmā. **सः** he **एतस्मात्** from this **जीवघनात्** the Macrocosmic Soul (Hiraṇyagarbha) **परम्** the Supreme **पुरिशयम्** existing in the heart, **पुरुषम्** the Puruṣa **ईक्षते** beholds. **तत्** about that **एतौ** these **श्लोकौ** two verses **भवतः** are.
 
   Again, he who meditates upon the Supreme Puruṣa with the letter Om, constituted of three moras becomes**¹**united with the effulgent Sun. He is freed from all sins, even as a snake is freed from its slough. He is taken up to the world of Brahmā by the Sāma hymns. From
-
-
 
 that Macrocosmic Self he beholds the Supreme Puruṣa residing in the heart. There are the two following verses about it:
 
@@ -831,8 +689,6 @@ that Macrocosmic Self he beholds the Supreme Puruṣa residing in the heart. The
   The Three Mātrās when**¹** employed separately are mortal; but when**²** they are connected with one another, they are not wrongly employed. When**³** they are properly employed, in all the**⁴** internal, external, and middle functions, the knower trembles**⁵** not.
 
   \[NOTES— *1. When employed separately etc*.—when each of the three mātrās A U M, is taken separately and meditated upon, the contemplator has to be born again and again in this world as explained in V. 3. 4.
-
-
 
   2. *When they are connected with one another etc.*—i.e., when all the three 'mātrās are blended together in significance and sound, they truly represent the universal Brahman, and when thus meditated upon, they bear the proper fruit as described in the previous section.
 
@@ -848,8 +704,6 @@ that Macrocosmic Self he beholds the Supreme Puruṣa residing in the heart. The
 
   By the Ṛk hymns this world is attained, by Yajus the sky (the world of the moon), and by
 
-
-
 the Sāmans, is attained that which is known to the wise only. What is peaceful, undecaying, immortal, free from all fear and supreme, the sage also attains by means of this Om.
 
   \[NOTES— The sound OM is produced by the combination of the three sounds A, U and M. These are the three mātrās of OM; further there is the Ardhamātrā, or the inaudible sound which still lingers even when the audible sound dies away, and which can be detected only by fine perception and concentration.
@@ -860,15 +714,11 @@ the Sāmans, is attained that which is known to the wise only. What is peaceful,
 
 **END OF THE FIFTH QUESTION**
 
-
-
 **षष्ठः प्रश्नः SIXTH QUESTION**
 
 **  अथ हैनं सुकेशा भारद्वाजः पप्रच्छ। भगवन् हिरण्यनाभः कौसल्यो राजपुत्रो मामुपेत्यैतं प्रश्नमपृच्छत— षोडशकलं भारद्वाज पुरुषं वेत्थ? तमहं कुमारमब्रुवं नाहमिमं वेद यद्यहमिममवेदिषं कथं ते नावक्ष्यमिति। समूलो वा एष परिशुष्यति योऽनृतमभिवदति। तस्मान्नार्हाम्यनृतं वक्तुम्। स तूष्णीं रथमारुह्य प्रवव्राज। तं त्वा पृच्छामि क्वासौ पुरुष? इति॥१॥**
 
  **अथ** next **ह** verily **भारद्वाजः सुकेशा** Sukeśas of the Bhāradvāja Gotra **एनम्** him (Pippalāda) **पप्रच्छ** asked ; **भगवन्** holy sir, **कौसल्यः** of Kosala **हिरण्यनाभः** Hiraṇyanābha **राजपुत्रः** the prince **माम्** me **उपेत्य** having approached **एतम्** this **प्रश्नम्** question **पप्रच्छ** asked : **भारद्वाज** O Bhāradvāja, **षोडशकलम्** of sixteen parts **पुरुषम्** Puruṣa **वेत्थ** do (you) know? **अहम्** I **तम्** that **कुमारम्** prince **अब्रुवम्** said, **अहम्** I **इमम्** this **न वेद** do not know. **अहम्** I **यदि** if **इमम्** this **अवेदिषम्** had known (**तर्हि** then ) **ते** to thee**कथम्** why **न** not **अवक्ष्यम्** have told? **इति** thus **यः** who **अनृतम्** falsehood **वदति** tells **एषः** this one **वै**verily **समूलः**with the whole root **परिशुष्यति**dries up (is destroyed);
-
-
 
 **तस्मात्** therefore **अनृतम्** falsehood **वक्तुम्** to tell **न अर्हामि**I do not deserve. **सः** he (the prince) **तूष्णीम्** silently **रथम्** the chariot **आरुह्य** having ascended **प्रवव्राज** went away **त्वां**to thee **तम्** that **पृच्छामि** I ask **असौ** this **पुरुषः** Puruṣa **क्व**where, **इति**thus.
 
@@ -878,8 +728,6 @@ the Sāmans, is attained that which is known to the wise only. What is peaceful,
 
 **  तस्मै** to him **सः** he **ह** verily **उवाच** said, **सोम्य** my young friend **सः** that **पुरुषः** the Puruṣa **इह** here **अन्तःशरीरे** within this body (**वर्त्तते** exists) **यस्मिन्** in which **एताः** these **षोडशकलाः** the sixteen parts **प्रभवन्ति** arise.  
   To him he said: 'Here, within this body, my friend, exists that Puruṣa, from which arise the sixteen parts.'
-
-
 
   \[NOTE— Here it is stated that the Puruṣa, the Ātman of which more will be spoken in the subsequent sections is within this body; but the statement should not be taken in too strict a sense. As the Ātman is generally perceived first as our own very self, which animates this body, it is spoken of as existing within this body. In reality He is all-pervading, unrestricted by space-limit.\]
 
@@ -893,8 +741,6 @@ the Sāmans, is attained that which is known to the wise only. What is peaceful,
 
  **सः** he (the Puruṣa) **प्राणम्** the Prāṇa (Hiraṇyagarbha) **असृजत** created. **प्राणात्** from the Prāṇa **श्रद्धाम्** faith **खम्** ether, **वायुः** air, **ज्योतिः** fire, **आपः** water, **पृथिवी** earth, **इन्द्रियम्** the senses, **मनः** the mind, **अन्नम्** food, **अन्नात्** from food **वीर्यम्** vigour (strength), **तपः** penance, **मन्त्राः**
 
-
-
 the Vedas, **कर्म** the Yajñas, **लोकाः** the worlds, **लोकेषु** in the worlds **च**again **नाम**name **च**also (**असृजत** created).
 
   He created the Prāṇa; from the prāṇa came out faith**¹**, ether, air, fire, water, earth, the senses, the mind, and food. From**²** food came vigour, penance, the Vedas, the Yajñas, and the worlds. And in the worlds again was created Name.
@@ -907,15 +753,11 @@ the Vedas, **कर्म** the Yajñas, **लोकाः** the worlds, **ल�
 
 **  स यथेमा नद्यः स्यन्दमानाः समुद्रायणाः समुद्रं प्राप्यास्तं गच्छन्ति भिद्येते तासां नामरूपे समुद्र इत्येवं प्रोच्यते एवमेवास्य परिद्रष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति; भिद्येते तासां नामरूपे पुरुष इत्येवं प्रोच्यते स एषोऽकलोऽमृतो भवति॥५॥ तदेष श्लोकः—**
 
-
-
 **  सः**that **यथा** as **समुद्रायणाः** coursing towards the ocean **स्यन्दमानाः** flowing **इमाः** these **नद्यः** rivers **समुद्रम्** the ocean **प्राप्य** having reached **अस्तम् गच्छन्ति** disappear, **तासाम्** their **नामरूपे** names and forms **भिद्येते** are obliterated, **समुद्रः** the ocean **इति** thus **एवम्** alone **प्रोच्यते** is spoken of ; **एवम्** so **एव** verily **अस्य** of this **परिद्रष्टुः** the seer of all things **पुरुषस्य** of the Puruṣa, **इमाः** these **पुरुषायणाः** resting in the Puruṣa, **षोडशकलाः** the sixteen kalās **पुरुषम्**the Puruṣa **प्राप्य**having reached **अस्तं गच्छन्ति** disappear, **तासाम्** of these **नामरूपे** the name and form **भिद्येते** are destroyed. **पुरुषः** the Puruṣa. **इति** thus **एवम्** alone **प्रोच्यते** is spoken of, **सः** that **एषः** this (person) **अकलः** devoid of Kalās **अमृतः** immortal **भवति** becomes **तत्** about that **एषः** the following **श्लोकः** verse **भवति** is.
 
   As the flowing rivers that tend towards the sea, having reached it, merge into the all their names and forms disappear and people speak only of the ocean, so the sixteen kalās of this Seer, the Puruṣa, resting in Him alone, having reached Him disappear in Him; their names and forms are destroyed and people speak of the Puruṣa only. Then He becomes devoid of kalās, and immortal. There is the following verse about it.
 
   \[NOTES—When all the sixteen kalās which are cognized in the ordinary 'ignorant' state are merged in
-
-
 
 the Ātman in Samādhi by the practice of Yoga, then their existence is not perceived in the consciousness and the Conscious Principle, the Ātman, alone remains in its unalloyed glory.\]
 
@@ -932,8 +774,6 @@ the Ātman in Samādhi by the practice of Yoga, then their existence is not perc
 
  **तान्** to them (**सः** he) **उवाच** said, **अहम्**I **एतावत्** up to this **एतत्** this **परम्** Supreme **ब्रह्म** the Brahman **वेद** know. **अतः** beyond this **परम्** suprerior **न अस्ति** there is not.
 
-
-
   To them he said, 'So far I know of the Supreme Brahman; there is nothing higher than that.'
 
 **  ते तमर्चयन्तस्त्वं हि नः पिता योऽस्माकमविद्यायाः परं पारं तारयसीति। नमः परमऋषिभ्यो नमः परमऋषिभ्यः॥**
@@ -947,9 +787,6 @@ Obeisance to the highest Ṛṣis!
 
 **END OF THE SIXTH QUESTION**
 
-
-
-
 **ओं भद्रं कर्णेभिः शृणुयाम देवाः भद्रं पश्येमाक्षभिर्यजत्राः।  
 स्थिरैरङ्गैस्तुष्टुवांसस्तनूभिः व्यशेम देवहितं यदायुः॥**
 
@@ -959,16 +796,5 @@ Obeisance to the highest Ṛṣis!
 **  ॐ शान्तिः। शान्तिः। शान्तिः॥**
 
 **   ॐ तत्सत्॥हरिः ॐ॥**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

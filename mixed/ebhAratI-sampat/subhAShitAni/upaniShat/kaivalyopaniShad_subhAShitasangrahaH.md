@@ -12,16 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MTgwMTI0MDA
 
 \[
 
-
-
-
-
-
-
-
-
 ** कैवल्योपनिषत्**
-
 
 \<10\>  
  सर्वभूतस्थमात्मानं सर्वभूतानि चाऽऽत्मनि ।  
@@ -53,8 +44,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE2MTgwMTI0MDA
 \</22\>
 
 --------------------------------------------------------
-
-
-
 
 \]

@@ -12,14 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMTUwNjA0NDg
 
 \[
 
-
-
   
 
-
-
 ** कुण्डिकोपनिषत्**
-
 
 \<9-13\>  
  कुण्डिकां चमसं शिक्यं त्रिविष्टपमुपानहौ ।  
@@ -39,6 +34,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAzMTUwNjA0NDg
 \</24\>
 
 ------------------- -------------- --------------- ----------------
-
 
 \]

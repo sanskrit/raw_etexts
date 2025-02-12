@@ -16,29 +16,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1MzU5MjU5MDg
 
 \[
 
-
-
 |                       |
 |:---------------------:|
 | SUBHASHITA RATNAKARA. |
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 **PREFACE.**  
 
@@ -46,15 +34,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjU1MzU5MjU5MDg
 
  If there is a language on the surfacof the earth, dend or living, which may preeminently deserve, by its compressibility of thought, richness of expression, and cuphony of words, to be entitled the Langunge of Poets, it is undoubtedly Sanskrit. The Sanskrit writers cultivated poetry to such an extent, that every work, whether on the philosophy of the soul, or on the composition of a cement, on a battle deciding the intoof the country for a thousand years to come and shedding the blood of millions of human beings, or on the prosnic sacrifice of an animal offered to appease the hungry demons or the reluctant gods, came to be written in verse. Logic and grammar no less than the art and science of medicine, were thought worthy of being written in verse. Shortness and capability of being easily committed to memory were the chief objects in preferring verɛe to prose as regards the subjects for which poctry as such had no sympathy, But real poetry was by no means neglected and among other kinds, epigrammatic poetry received special attention. The Panchatantra is full of short epigrams on all possible topics relating to humanity viewed in all possible aspects Thousands of couplets and stanzas embodying in the most Inconic style the choicest thoughts of serious as well as humorous minds, are floating on the surface of what is called learned conversation among our country-men, and a man is not considered learned, and perhaps rightly, unless he is able to repeat some celebṛated saying of a poet or a dramatist illustrating either side of a question that may form the subject of conversation in which he is taking part, And though very few of these popular sayings can be verified as the productions of known authors, they are nevertheless greedily learnt by heart by the generality of shastris, and may be heard repeated by them in the course of their conversation. As they are very generally used among the well informed and well read of the passing generation of shastris, they may freely be described as containing a faithful reflection of the modes of thought and of the sentiments of the Indian mind busy in a civilization that is now in a state of transition, Not infre
 
-
-
 quently these epigrammatic pieces serve as authorities with the ignorant classes, to whom everything written in the sacred tongue has the authority of the shastras
 
  It is trusted that what is said above will be sufficient excuse for placing before the public the following collection of *Subhashitas* The collection is arranged under various heads and sometimes sayings both praising and censuring a custom or a state of things are separately given. It is one of the characteristics of the Subhashita poetry that, coming as it does from various hands, it is both one sided and exhaustive— one sided when viewed only in parts, and exhaustive when viewed as a whole. The reader will doubtless remember the satakas of Bhartrihari, who writing in praise of the pleasures of the company of young women will raise them to the highest heaven, but speaking of indifference to the pleasures of the world will almost in the same breath send his angels to the lowest depth of bottomless perdition. The same may be said of the epigrammatic verses of the Panchatantra, the interlocutors in which are never at a loss to support their conflicting views by authoritative verses either quoted from old writers or composed for the occasion by the author. Both sides ofevery subject touched by the Subhashitas are well, some-times perhaps too well, illustrated and the truth always lies between the extremes.
 
  So far as possible the verses have been referred in the Index to their sources, and it is hoped the Index will also prove useful in other respects.
-
-
 
 **प्रस्तावना।**  
 
@@ -83,8 +67,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
  अस्मिन् भारते वर्षे पुरा खलु वेदशास्त्रपुराणेतिहासादिविविधविद्यासंपन्ना बहवो विद्वांसोऽभूवन्। तत्समये भोजविक्रमादयो विद्यागुणग्राहिणो महीपालाः स्वयशःशुभ्रांशुकौमुदीधवलितादिक्चक्रवाला आसन्। ते च तान् विदुषो दानमानसत्कारैर्यथोचितं पूजयांचक्रुः। एवमाश्रयबलेनोत्तेजिताः कालिदासभवभूतिजगन्नाथप्रभृतयः कवयः स्वबुद्धिकौशलेन गीर्वाणवाण्या सुरसकाव्यनाटकचम्पूभाणादीन गद्यपद्यग्रथितानतीवमनोहरान् ग्रन्थान् व्यद-
 
-
-
 धुः। परं तु तदर्वाक् कंचित्कालपर्यंतं वेदादिविद्यापठनपाठनादिसंप्रदायस्यातिकार्श्येन सकलगीर्वाणविद्यामार्तण्डोऽस्तंगत इवासीत्
 
  अधुना चेदं भारतवर्षमाङ्ग्लमत्ताकं जातं। तेपि नानाविद्याविशारदाः सन्ति। तैरिदानीं सर्वदेशेषु प्रतिनगरं प्रतिग्रामं पठन पाठनक्रमप्रवृत्तये पाठशाला अपि स्थापिताः एतद्देशीयानां जनानां कल्याणं विधित्सुना महोदारेण एल्फिन्स्तनाख्येन हूणेन गीर्वाणविद्याविवृद्धये पुण्याख्यपत्तने संस्कृतपाठशाला स्थापिता। तस्यां बहूनि विद्वद्रत्नानि समुत्पन्नानि। सापीदानीमस्मद्दैवदुर्विलसितेन विलयं गता।
@@ -103,8 +85,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 महाकाव्यानि साहित्यसारो रसिकजीवनम्॥  
 गोवर्धनकृता सप्तशती कर्णामृतं तथा॥३॥
-
-
 
 **वेणीसंहरणं चाऽभिज्ञानशाकुन्तलं तथा॥  
 उत्तरं रामचरितं त्रोटकं विक्रमोर्वशी॥४॥**
@@ -146,14 +126,11 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
  एतत्पुस्तकमुद्रणीपत्रपरिशोधनकार्यमङ्गीकुर्वद्भिः खाडिलकरे-
 
-
-
 पाह्वयैरपाशास्त्रिभिर्ममोपरि बहूपकृतं तत्कियदिति वक्तुं न पारये। तथा च मास्तर आफ आर्तेत्युपपदधारिणा संस्कृताभिज्ञेन तैलङ्गोपाह्वयेन काशीनाथभिधेन परिश्रमः कृतोऽतस्तस्यापि बलवदुपकारगौरवं विभर्मि.
 
 शके १७९३  
 प्रजापतिसंवत्सरे  
 फाल्गुनो मासः                             
-            
 
  
 
@@ -165,8 +142,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 वासवदत्तादिग्रन्थाश्च मूलसंग्रहमूलकाः॥
 
 उद्धवाचार्यः।
-
-
 
 अनुक्रमणिका।
 
@@ -203,8 +178,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |     मित्रम्      |       स्वधर्मप्रशंसा        |
 | दारिद्र्यवर्णनम् |        शान्तिस्तुतिः        |
 
-
-
 |                                |                               |
 |:------------------------------:|:-----------------------------:|
 |            प्रकरणम्            |           प्रकरणम्            |
@@ -239,8 +212,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |         वाग्मिप्रशंसा          |         समस्यापूरणम्          |
 |        असत्यवादिनिन्दा         |           प्रहेलिका           |
 | अविवेकनिन्दापूर्वकविवेकस्तुतिः |         छेकापन्हुतिः          |
-
-
 
 |                         |                               |
 |:-----------------------:|:-----------------------------:|
@@ -277,11 +248,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |        कूपान्यो०        |        शाखोटान्योक्तिः        |
 |      दावानलान्यो०       |        पील्वन्योक्तिः         |
 
-
-
 [TABLE]
-
-
 
 **सुभाषितप्रशंसा।**
 
@@ -329,8 +296,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^5]: "नानाश्ले० आश्लेषःआलिङ्गनं पक्षेश्लेषः"
 
-
-
 सुभाषितरत्नाकरे
 
 प्रकरण  
@@ -363,8 +328,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 ॥इति सुभाषितप्रशंसा॥  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 अथ मङ्गलाचरणानि
 
@@ -422,8 +385,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^22]: " प्रतिभट प्रतिस्पर्धि"
 
 [^23]: "हस्तःशुण्डादण्डः"
-
-
 
 सुभाषितरत्नाकरे
 
@@ -500,8 +461,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^47]: " मयूरवाणीम्."
 
-
-
 कृष्णः।
 
 स्थाणुर्मुग्धे न वदति तरुर्जीवितेशः शिवा[^48]या  
@@ -514,7 +473,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 नाहं द्वन्द्वं करोमीत्यपनय शिरसस्तूर्णमेनामिदानी-  
 मित्थं प्रोक्तो भवान्या प्रतिवचनजितः पातु वश्चन्द्रचूडः॥६॥
 
-ग[^49]वीशपत्रो [नगजा](http://॑# "नगजा पार्वती तस्या दुःखनाशकः पक्षे गजेन्द्रपोडानाशकः ")र्तिहारी कुमार[^50]तातः शशि[^51]खण्डमौलिः॥  
+ग[^49]वीशपत्रो नगजा[^3174]र्तिहारी कुमार[^50]तातः शशि[^51]खण्डमौलिः॥  
 लङ्केश[^52]संपूजितपादपद्मः पायादनादिः[^53] परमे[^54]श्वरो नः॥७॥
 
 [^49]: "गवीशो वृषः पत्र वाहन यस्य पक्षे वीशो गरुडः"
@@ -528,6 +487,8 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^53]: " न विद्यते आदिर्यस्य सअनादिः पक्षे आद्यश्रशून्यः यथा वीशपत्रः गजातिहारीइत्यादि."
 
 [^54]: "परमेश्वरः शिव. रमेश्वरःविष्णुः"
+
+[^3174]: "नगजा पार्वती तस्या दुःखनाशकः पक्षे गजेन्द्रपोडानाशकः "
 
 द्विज[^55]राजशेखरो यद्वृषमारूढः सदा सदार[^56]स्त्वम्॥  
 चक्रे हर तद्विधिना पुनरु[^57]पनयनं ललाटघटितं ते॥८॥
@@ -553,8 +514,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 इत्यूढवान्नरमणी रमणीं रुक्मिणीं हरिः॥२॥
 
 [^60]: " शीलसम्पन्नरमणीं विना सम्पत् रमणी नास्ति इति हेतोः"
-
-
 
 भवान् हि भगवानेव गतो[^61] भेदः परस्परम्॥  
 मह[^62]त्यागदयायुक्तः सत्य[^63]भामासमन्वितः॥३॥
@@ -608,8 +567,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 इत्थं नन्दनिदेशतश्चलितयोः प्रत्यध्वकुञ्जद्रुमं  
 राधामाधवयोर्जयन्ति यमुनाकुले रहःकेलयः॥८॥
 
-
-
 कृष्णः।
 
 पुञ्जीभूतं प्रेम गोपाङ्गनानां मूर्तीभूतं भागधेयं यदूनाम्॥  
@@ -654,8 +611,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 युक्तं तन्नवनीतभाजनपुटे न्यस्तः किमर्थं करः॥  
 कर्तुं तत्र पिपीलिकापनयनं सुप्ताः किमुद्बोधिता  
 बाला वत्सगतिं विवेक्तुमिति संजल्पन् हरिः पातु वः॥१७॥**
-
-
 
 राधा पुनातु जगदच्युतदत्तचित्ता  
 मन्थानमाकलयती दधिरिक्तपात्रे॥  
@@ -711,8 +666,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 स्वेदस्ते कथमीदृशः प्रियतमे त्वन्नेत्रवहेर्विभो  
 कस्माद्वेपितमेतदिन्दुवदने भोगीन्द्रभीतेस्तव॥
-
-
 
 **लक्ष्मीः।**
 
@@ -773,8 +726,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 घ्नानां पराक्रमिणा निम्न आयत्तस्तमिति महिषविशेषणम्
 
-
-
 उत्तिष्ठन्त्या रतान्ते भरमुरगपत्तौ पाणिनैकेन कृत्वा  
 श्रुत्वा चान्येन वासो विगलितकबरीभारमंसे वहन्त्याः॥  
 भूयस्तत्कालकान्तिद्विगुणितसुरतप्रीतिना शौरिणा वः  
@@ -820,8 +771,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^112]: "गुरुरेव घनो मेघस्तस्य छाया यस्मिन् पक्षे गुर्वी महती घना निबिडा छाया यस्मिन्"
 
 [^113]: "सीतासहितस्य रामस्य पद पक्षे सीतं शीतल यदारामपदं उपवनस्थानम्।"
-
-
 
 **महाजनप्रशंसा।**
 
@@ -877,8 +826,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 विकृतिं नैव गच्छन्ति सङ्गदोषेण साधवः॥  
 आवेष्टितं महासर्पैश्चन्दनं न विषायते॥३॥
-
-
 
 सुजनो न याति वैरं परहितकार्ये विनाशकालेऽपि॥  
 छेदेऽपि चन्दनतरुः सुरभ[^126]यति मुखं कुठार[^127]स्य॥४॥
@@ -941,8 +888,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 व्यग्रा ये च परोपकारकरणे हृष्यन्ति[^141] ये याचिताः॥
 
 [^141]: "हर्षयुक्ता भवन्ति."
-
-
 
 महाजनप्रशंसा।
 
@@ -1008,8 +953,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^155]: "नीचाः।"
 
-
-
 स्वार्थो यस्य परार्थ एव स पुमानेकः सताम[^156]ग्रणीः॥  
 दुष्पूरोदरपूरणाय पिबति स्रोतः[^157]पतिं वाडवो[^158]  
 जीमूत[^159]स्तु निदाघ[^160]संभृतजगत्संतापविच्छित्तये॥२१॥
@@ -1068,8 +1011,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^171]: "कोकिलाशब्दः।"
 
-
-
 महाजनमशंसा।
 
 तन्मध्ये खलसंकुलं जगदिदं द्वित्राः क्षितौ सज्जनाः॥२६॥
@@ -1127,8 +1068,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^182]: "कपटरहित्यम्"
 
 [^183]: "स्वभावः"
-
-
 
 अनु[^184]कुरुतः खलसुजनावग्रिमपाश्चात्यभागयोः सूच्याः[^185]॥  
 विदधा[^186]तिरन्ध्रमेको गुण[^187]वानन्यस्तु पिदधाति[^188]॥३५॥
@@ -1202,8 +1141,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^205]: "उपकारस्य।"
 
-
-
 **महाजनप्रशंसा।**
 
 घृष्टंघृष्टं पुनरपि पुनश्चन्दनं चारुगन्धं  
@@ -1261,8 +1198,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^217]: "विकासयति."
 
-
-
 भवति विपद्यपि महतामङ्गीकृतवस्तुनिर्वाहः॥४८॥
 
 दाता न दापयति दापयिता न दत्ते  
@@ -1316,8 +1251,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 तुङ्गा[^227]सनास्तुङ्गतराः समर्था मनोरथान्पूरयितुं न नीचाः॥
 
 [^227]: "उच्चासनाः"
-
-
 
 धाराधरा एव धराधराणां निदाघदाहं शमितुं[^228] न नद्यः॥५७॥
 
@@ -1378,8 +1311,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^241]: "विकारम् "
 
-
-
 नहि तापयितुं शक्यं सागराम्भस्तृणोल्कया[^242]॥६५॥
 
 [^242]: " 'कोलीत' इतिलोके"
@@ -1436,8 +1367,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^253]: "काठिन्यम्."
 
-
-
 यः प्रीणयेत्सुचरितैः पितरं स पुत्रो  
 यद्भर्तुरेव हितमिच्छति तत्कलत्रम्॥  
 तन्मित्रमापदि सुखे च समक्रियं य-  
@@ -1483,8 +1412,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 नाल्पीयसि निबध्नन्ति पदमुन्नत[^259]चेतसः॥
 
 [^259]: "उदारचेतसः"
-
-
 
 येषां भुवनलाभेऽपि निःसीमानो मनोरथाः॥८२॥
 
@@ -1532,8 +1459,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 प्राज्ञो हि जल्पतां पुंसां श्रुत्वा वाचः शुभाशुभाः॥  
 गुणवद्वाक्यमादत्ते हंसः क्षीरमिवाऽम्भसः॥९१॥
-
-
 
 रिपुः पौल[^267]स्त्वाख्यश्चरणचरितव्यो जलनिधि-  
 र्विजेतव्या लङ्का रणभुवि सहायाश्च कपयः॥  
@@ -1592,8 +1517,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 विस्तारयत्यकृतपूर्वमुदारभावम्॥  
 कालागुरुर्दहनमध्यगतः समन्ता-**
 
-
-
 ल्लोकोत्तरं परिमलं प्रकटीकरोति॥९९॥
 
 विश्वा[^280]ऽभिरामगुणगौरवगुम्फितानां  
@@ -1641,8 +1564,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **हितेच्छुना तु कर्तव्यः सतामेव समागमः**
 
-
-
 सरसानां सुमनसां षट्पदेनेव सर्वदा॥१०७॥
 
 सद्वृत्तमेव संसेव्यं गुरवो लघवोऽपि च  
@@ -1677,8 +1598,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **न दुर्जनः सज्जनतामुपैति बहुप्रकारैरपिसेव्यमानः॥  
 भूयोऽपि सिक्तः पयसा घृतेन न निम्बवृक्षो मधुरत्वमेति॥४॥**
 
-
-
 **खलः सर्पपमात्राणि परच्छिद्राणि पश्यति॥  
 आत्मनो बिल्वमात्राणि पश्यन्नपि न पश्यति॥५॥**
 
@@ -1694,10 +1613,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 काकः सर्वरसान् भुङ्क्तेविनाऽमेध्यं[^292] न तृप्यति॥७॥**
 
 [^292]: "विष्ठाद्यशुचि."
-
-
-
-
 
 पोतो[^293] दुस्तरवारिराशितरणे दीपोऽन्धकारागमे  
 निर्वाते व्यजनं मदान्धकारणां दर्पोपशान्तौ सृणिः[^294]॥  
@@ -1756,8 +1671,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^306]: " वनम्"
 
-
-
 ते वै सत्पुरुषाः परार्थघटकाः स्वार्थं परित्यज्य ये  
 सामान्यास्तु परोपकारनिरताः स्वार्थाऽविरोधेन ये॥  
 तेऽमी मानुपराक्षसाः परहितं स्वार्थाय निघ्नन्ति ये  
@@ -1804,9 +1717,9 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^314]: "अशिरस्क कलेवरम् "
 
 **जलनिधौ जननं धवलं वपुर्मुररिपोरपि पाणितले स्थितिः॥  
-इति समस्तगुणान्वित शङ्ख भो [कुटिलता](http://॑# "कौटिल्यम्.") हृदये न निवारिता॥२४॥**
+इति समस्तगुणान्वित शङ्ख भो कुटिलता[^3175] हृदये न निवारिता॥२४॥**
 
-
+[^3175]: "कौटिल्यम्."
 
 दुर्जनस्य विशिष्टत्वं परोपद्रवकारिणाम्॥  
 व्याघ्रस्य चोपवासेन पारणं पशुमारणम्॥२५॥
@@ -1858,8 +1771,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 शीलमेतदसाधूनामभ्रं पारिप्लवं[^322] यथा॥३५॥
 
 [^322]: "चञ्चलन्"
-
-
 
 संवर्धितोपि भुजगः पयसा न वश्य-  
 स्तत्पालकानपि निहन्ति बलेन सिंहः॥
@@ -1917,8 +1828,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^333]: "असत्यप्रतिज्ञम्."
 
 दुर्जनेन समं सख्यं प्रीतिं चाऽपि न कारयेत्॥
-
-
 
 उष्णो दहति चाऽङ्गारः शीतः कृष्णायते करम्॥४६॥
 
@@ -1980,8 +1889,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^348]: "सगर्वता."
 
 [^349]: "वाचालत्वं गर्द्मवाक्त्वमितियावत्."
-
-
 
 उद्भासिता[^350]खिलखलस्य विशृङ्खल[^351]स्य  
 प्राग्जातविस्मृतनिजाऽधमकर्मवृत्तेः॥  
@@ -2050,11 +1957,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 १६ व अपि
 
-
-
 \#
-
-
 
 हर्षादिवैषपिशुनो ऽत्र मनुष्यधर्मा  
 कर्णे परं स्पृशति हन्त्यपरस्य मूलम्॥६३॥
@@ -2071,7 +1974,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 प्रेरयति परमनार्यः शक्तिविहीनोऽपि जगदभिद्रोहे॥  
 तेजयति शस्त्रधारां स्वयमसमर्थः शिलां छेत्तुम्॥६५॥
 
-स्वभावकठिनस्याऽस्य कृत्रिमां[^368] विभ्रतो [नतिम्](http://॑॑# "नवत्वम्")॥  
+स्वभावकठिनस्याऽस्य कृत्रिमां[^368] विभ्रतो [नतिम्](॑# "नवत्वम्")॥  
 गुणो[^369]ऽपि परहिंसायै चाप[^370]स्य च खलस्य च॥६६॥
 
 [^368]: "क्रियया निर्वृत्ता कपटयुक्ता च."
@@ -2112,25 +2015,27 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^376]: "साधूनाम्।"
 
-
-
 दुग्धधौतोऽपि किं याति वायसः[^377] कल[^378]हंसताम्॥७३॥
 
 [^377]: "काक."
 
 [^378]: "राजहंसत्वम्"
 
-विभ्राणा गरलं कन्ठे [भुज](http://॑# "सर्पैः परिवेष्टिता पक्षे जारैः परिवेष्टिता.")गपरिवेष्टिता॥  
+विभ्राणा गरलं कन्ठे भुज[^3176]गपरिवेष्टिता॥  
 शांभवीव तनुः कस्य न वन्द्या दौर्जनी[^379] सभा॥७४॥
 
 [^379]: "दुर्जनसबन्धिनी"
 
-अक्षमाला[^380]पवृत्तिज्ञा [कुशा](http://॑# "कुत्सितं यत् शासनं शिक्षा तस्य परिग्रहोऽबलम्बो यस्याः सा पक्षे कुशासनं दर्भासनं तत्परिग्रहः स्वीकारौ यस्याः ")सनपरिग्रहा॥  
+[^3176]: "सर्पैः परिवेष्टिता पक्षे जारैः परिवेष्टिता."
+
+अक्षमाला[^380]पवृत्तिज्ञा कुशा[^3177]सनपरिग्रहा॥  
 ब्राह्मीव दौर्जनी संसद्वन्दनीया समेखला[^381]॥७५॥
 
 [^380]: "अक्षमाः ये आलापास्तेषां वृतिज्ञा पक्षे अक्षमाला जपमाला तस्या अप्वृत्तिः भ्रमणं जानातीति"
 
 [^381]: "समे साधी खलाः पक्षे मेखलया सहिता,"
+
+[^3177]: "कुत्सितं यत् शासनं शिक्षा तस्य परिग्रहोऽबलम्बो यस्याः सा पक्षे कुशासनं दर्भासनं तत्परिग्रहः स्वीकारौ यस्याः "
 
 पात्रमपात्री[^382]कुरुते दहति गुणं[^383] स्नेहमाशु[^384] नाशयति॥  
 अमले मलं[^385] नियच्छति दीपज्वालेव खलमैत्री॥७६॥
@@ -2161,8 +2066,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 मुखं पद्मदलाकारं वाचा नन्दनशीतला॥  
 हृदयं क्रोधसंयुक्तं त्रिविधं धूर्तलक्षणम्॥८१॥
-
-
 
 कृतमपि महोपकारं पय इव पीत्वा निरा[^387]तङ्कः॥  
 प्रत्युत[^388] हन्तुं यतते काको[^389]दरसोदरः खलो जयति॥८२॥
@@ -2222,8 +2125,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^401]: "जिह्वाछलेन."
 
 उन्नतं पदमवाप्य यो लघुर्हेलयैव सपतेदिति ब्रुवन्॥
-
-
 
 शैलशेखरगतः पृषद्गणश्चा[^402]रुमारुतधुतः[^403]पतत्यधः॥९१॥
 
@@ -2299,8 +2200,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^424]: "'ऊ' इतिलोके।"
 
-
-
 कस्त्वं भद्र स्वले[^425]श्वरोहमिह किं घोरे वने स्थीयते  
 शार्दूला[^426]दिभिरेव हिंस्र[^427]पशुभिः खाद्यो[^428]हमित्याशया॥  
 कस्मात्कष्टमिदं त्वया व्यवसितं मद्देहमांसाशिनः  
@@ -2353,8 +2252,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 न यत्नकोटिशतकैरपि दुष्टः सुधीर्भवेत्॥
 
-
-
 किं मर्दितोपि कस्तूर्यां लशुनो याति सौरभम्॥११०॥
 
 अलं दुर्जनचित्तस्य सौजन्याऽऽप्तिप्रयत्नतः  
@@ -2393,8 +2290,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 यन्मध्यपतितो नीचः काचोप्युच्चैर्महीयते[^434]॥१॥
 
 [^434]: "पूज्यते. 'मणीयत' इति पाठे मणिरिव गण्यत इत्यर्थः"
-
-
 
 शास्त्रो[^435]पस्कृतशब्दसुन्दरगिरः शिष्यप्रदेयाऽऽग
 
@@ -2463,8 +2358,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^453]: "नमध्यमः शुकः नकारो मध्ये यस्य एवं विधः शुनकः श्वा इत्यर्थः"
 
-
-
 विद्वत्प्रशंसा।
 
 उदीरि[^454]तोऽर्थः पशुनाऽपि गृह्यते हयाश्च नागाश्च वहन्ति नोदिताः॥  
@@ -2525,8 +2418,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 अव्य[^468]येभ्योऽपि ये चाऽर्थान् निष्कर्षन्ति सहस्रशः॥१७॥
 
 [^468]: "अव्ययेभ्यः अव्ययानामनेकार्थत्वात्. पक्षे व्ययरहितेभ्यः कृपणेभ्य इति यावत् ."
-
-
 
 कला[^469]वतः सैव कला ययाऽधः[^470]क्रियते भवः[^471]॥  
 बह्वीभिश्र कलाभिः किं याभिरङ्कः[^472]स्फुटी[^473]कृतः॥१८॥
@@ -2594,8 +2485,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^487]: "अमृतस्राविभिः"
 
-
-
 यदा किंचिज्ज्ञोऽहं द्विष[^488]इव मदान्धः समभवं  
 तदा सर्वज्ञोऽस्मीत्यभवदव[^489]लिप्तं मम मनः॥  
 यदा किञ्चित्किञ्चिद्बुधजनसकाशादवगतं  
@@ -2656,8 +2545,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 येषां न विद्या न तपो न दानं ज्ञानं न शीलं न गुणो न धर्मः॥  
 ते मृत्युलोके भुवि भारभूता मनुष्यरूपेण मृगाश्चरन्ति॥१०॥
 
-
-
 वरं पर्वतदुर्गेषु भ्रान्तं वनचरैः सह॥  
 न मूर्खजनसंपर्कः सुरेन्द्र[^505]भवनेष्वपि॥११॥
 
@@ -2712,8 +2599,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^514]: "ग्रीवास्तम्भ धारयत"
 
 [^515]: "परोत्कर्षः"
-
-
 
 मूर्खवर्णनम्।
 
@@ -2777,8 +2662,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 न मौर्ख्यसदृशं क्वापि विषं क्वाप्यवलोक्यते॥  
 यदन्यान्स्वाश्रयं चापि भूयो मारयति स्फुटम्॥२६॥
 
-
-
 किं नानानरकैः किं वा यमयातनयापि च॥  
 यन्मौढ्यमेव सर्वाणि दुःखान्यासादयिष्यति॥२७॥
 
@@ -2837,8 +2720,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^542]: " वास्तवम् "
 
 [^543]: "विचारं कुरु."
-
-
 
 सदुपदेशः।
 
@@ -2915,8 +2796,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^565]: "अन्यसन्तोषः"
 
-
-
 धैर्यं यस्य पिता क्षमा च जननी शान्तिश्चिरं गेहिनी[^566]  
 सत्यं सूनु[^567]रयं दया च भगिनी भ्राता मनः[^568]संयमः॥  
 शय्या भूमितलं दिशोऽपि वसनं[^569] ज्ञानामृतं भोजन-  
@@ -2977,8 +2856,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^583]: "कुत्सित लपिता वक्तापि कविशब्दः पृष्ठतो युक्तश्चेत्कुलपितापि कविकुलपितैव भवति इति कविहृदयम्."
 
-
-
 सत्कविः।
 
 नूनं निसर्गतः कविरूढमलप्रशमने हि सरसानां॥  
@@ -3019,11 +2896,9 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 कुमाराणामन्तःकरणहरणं नैव कुरुते॥१३॥
 
 लौकिकानां हि साधूनामर्थं वागनुवर्तते॥  
-ऋषीणां पुनरा[द्यनां](http://॑# "वाल्मीक्यादीनाम्") वाचमर्थोऽनुधावति॥१४॥
+ऋषीणां पुनराद्यनां[^3178] वाचमर्थोऽनुधावति॥१४॥
 
-
-
-
+[^3178]: "वाल्मीक्यादीनाम्"
 
 माघश्चोरो मयूरो मुररिपुरपरो भारविः सारविद्यः  
 श्रीहर्षः कालिदासः कविरथभवभूत्याह्वयो भोजराजः॥  
@@ -3087,8 +2962,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^605]: "प्रागल्भ्यम्."
 
-
-
 कविता।
 
 कविभिर्नृपसेवासु वित्ताऽलंकारहारिणी॥  
@@ -3145,8 +3018,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^616]: " शिरः"
 
-
-
 सरसा साऽलंकारा सुपदन्यासा सुवर्णमयमूर्तिः॥  
 आर्या तथैव भार्या न लभ्यते पुण्यहीनेन॥९॥
 
@@ -3198,8 +3069,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 अकुलीनोऽपि विद्यावान्देवैरपि स पूज्यते॥७॥
 
 [^624]: "विस्तीर्णेन."
-
-
 
 धनिधनयोर्निन्दा।
 
@@ -3263,8 +3132,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^638]: "प्रेक्षणीयः"
 
-
-
 यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः॥  
 यस्याऽर्थः स पुमाँल्लोके यस्याऽर्थः स च पण्डितः॥७॥
 
@@ -3305,8 +3172,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 त्यजन्ति मित्राणि धनैर्विहीनं पुत्राश्च दाराश्चसुहृज्जनाश्च॥  
 तमर्थवन्तं पुनराश्रयन्ति ह्यर्थो हि लोके पुरुषस्य बन्धुः॥१५॥
-
-
 
 धनिधनयोर्निन्दा।
 
@@ -3363,8 +3228,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 दायादाः स्पृहयन्ति तस्करगणा मुष्ण[^653]न्ति भूमीभुजो
 
 [^653]: "हरन्ति"
-
-
 
 **दूरेण च्छल[^654]माकलय्य हुत[^655]मुग्मस्मीकरोति क्षणात्॥  
 अम्भःप्लावयते क्षितौ विनिहितं यक्षा हरन्ति ध्रुवं  
@@ -3430,8 +3293,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^668]: " झटिति."
 
-
-
 धनिधनयोर्निन्दा।
 
 आप[^669]द्गतं हससि किं द्रविणान्धमूढ  
@@ -3474,8 +3335,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 यत्कुवर्णैकहेतुस्तत्सुवर्णं कथमुच्यताम्॥  
 नोचेत्कुमार्यपि जनैः सुमारीत्येव भाष्यताम्॥४३॥
-
-
 
 मनस्विप्रशंसा।
 
@@ -3533,8 +3392,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 शेफरीस्फुरितेनाब्धेः क्षुब्धता जातु[^686] जायते॥८॥
 
 [^686]: "कदाचित् "
-
-
 
 तेजस्विप्रशंसा।
 
@@ -3601,8 +3458,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^701]: "मार्दवस्य."
 
-
-
 तेजस्विनि क्षमासारे नाऽतिकार्कश्यमाचरेत्॥  
 निःशङ्को हि जनो धत्ते पदं भस्मन्यनूष्माणि[^702]॥५॥
 
@@ -3666,8 +3521,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 एकेन तिष्ठताऽधस्तादन्येनोपरितिष्ठता॥  
 दातृयाचकयोर्भेदः कराभ्यामेव सूचितः॥३॥
 
-
-
 धीरप्रशंसा।
 
 सैव परं न विनश्यति तनु[^718]रपि या श्रीर्निवेशिता सत्सु॥  
@@ -3726,8 +3579,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 अर्थः सुखं कीर्तिरपीह मा भूदनर्थ एवाऽस्तु तथाऽपि धीराः॥  
 निजप्रतिज्ञामधिरूढमाना महोद्यमाः कर्म समारभन्ते॥५॥
 
-
-
 अङ्गन[^729]वेदी वसुधा कुल्या[^730] जलधिः स्थली च पातालम्॥  
 वल्मी[^731]कश्च सुमेरुः कृतप्रतिज्ञस्य धीरस्य॥६॥
 
@@ -3784,8 +3635,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 गुणवज्जनसंसर्गाद्याति सर्वोऽपि गौरवम्॥  
 पुष्पमालाप्रसंगेन सूत्रं शिरसि धार्यते॥२॥
-
-
 
 गुणप्रशंसा।
 
@@ -3853,8 +3702,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^758]: "आडम्बरैः"
 
-
-
 जात्युत्कृष्टस्य हि मणेर्नोचितं शाण[^759]घर्षणम्॥  
 आदर्शे चित्रकारैः किं लिख्यते प्रतिबिम्बितम्॥१३॥
 
@@ -3903,8 +3750,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 कदन्न[^764]मपि मर्त्यानाममृतत्वाय कल्पते॥८॥
 
 [^764]: "कुत्सितमन्नम्"
-
-
 
 मित्रम्।
 
@@ -3968,8 +3813,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 अन्यथैव हि सौहार्दं भवेत्स्वच्छाऽन्तरात्मनः॥  
 प्रवर्ततेऽन्यथा वाणी शाठ्योपहतचेतसः॥५॥
 
-
-
 तत्र मित्र न वस्तव्यं यत्र नाऽस्ति चतुष्टयम्॥  
 ऋणदाता च वैद्यश्च श्रोत्रियः सजला नदी॥६॥
 
@@ -4019,8 +3862,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 विवादो धनसंबन्धो याचनं स्त्रीषु संगतिः  
 आदानमग्रस्थायित्वं मैत्रीभगङ्गस्य हेतवः॥१५॥
-
-
 
 दारिद्र्यवर्णनम्।
 
@@ -4072,8 +3913,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^795]: "विलसन्त्यः शोभमानाः करेणवो हस्तिन्यस्ताभिर्गहन निविडं पक्षे बवयोः सावर्ण्यात् विले सन्त एव सत्का बिलवर्तिनो ये रेणवो धूलयस्तैगर्हनं व्याप्तम्"
 
 [^796]: "गृहम्"
-
-
 
 यो गङ्गामतरत्तथैव यमुनां यो नर्मदां शर्मदां[^797]  
 का वार्ता सरिदम्बुलङ्घनविधौ यश्चार्णवांस्तीर्णवान्॥  
@@ -4130,8 +3969,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 तदन्तःशल्यं मे त्वमिव पुनरुद्धर्तुमुचितः॥१५॥
 
 [^808]: "छादितवती"
-
-
 
 दारिद्र्यवर्णनम्।
 
@@ -4199,8 +4036,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^655]: "अग्निः"
 
-
-
 क्षुत्क्षामाः शिशवः शवा इव भृशं मन्दाऽऽशया बान्धवा  
 लिप्ता जर्जरकर्करी[^826]जतुल[^827]वैर्नो मां तथा वाधते॥  
 गेहिन्या त्रुटितांशुकं घटयितुं कृत्वा सकाकु[^828]स्मितं  
@@ -4252,8 +4087,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^834]: "प्रसारिताः विस्तारिताः कराः किरणाः येन पक्षे प्रसारितः करो हस्तो येन."
 
 [^835]: "ह्रास प्राप्नोति."
-
-
 
 याचकनिन्दा।
 
@@ -4309,8 +4142,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 साधुरेवाऽर्थिभिर्याच्यः क्षीणवित्तोऽपि सर्वदा॥  
 शुष्काऽपि हि नदी मार्गे खन्यते सलिलाऽर्थिभिः॥१४॥
 
-
-
 देहीति वचनं श्रुत्वा हृदिस्थाः पञ्च देवताः॥  
 मुखान्निर्गत्य गच्छन्ति श्री
 
@@ -4333,7 +4164,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 जन[^847]स्थाने भ्रान्तं विषय[^848]मृगतृष्णाऽऽकुलतया  
 वचो[^849]वै देहीति प्रतिपदमुदश्रु प्रलपितम्॥  
-[कृतालङ्का](http://॑# "काभर्तुः कुत्सितस्वामिनः वदनपरिपाटीषु रचना अलंअत्यर्थकृताः पक्षे लड़ाभर्तु रावणस्य वदनपरिपाठ्याइषुरचना वाणरचना कृता")भर्तुर्वदनपरिपाटीषुरचना  
+कृतालङ्का[^3179]भर्तुर्वदनपरिपाटीषुरचना  
 मयाऽऽप्तं रामत्वं कुशल[^850]वसुता न त्वधिगता॥१९॥
 
 [^847]: " जनाना स्थानानि नगरपत्तनादीनि तेषु भ्रमणं कृतं रामपक्षे जनस्थाने नातिके परिभ्रमणं कृतम्"
@@ -4343,6 +4174,8 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^849]: "वै इति पदच्छेदः देहीति प्रलपित. पक्षे वैदेही जानकीतिप्रलपितम्."
 
 [^850]: "कुशल यद्वसु द्रव्यं तद्भावो न सपादित. पक्षे कुशलवौ सुतौ यस्या. ता वैदेही. "
+
+[^3179]: "काभर्तुः कुत्सितस्वामिनः वदनपरिपाटीषु रचना अलंअत्यर्थकृताः पक्षे लड़ाभर्तु रावणस्य वदनपरिपाठ्याइषुरचना वाणरचना कृता"
 
 तीक्ष्णधारेण खड्गेन वरं जिह्वा द्विधा कृता॥  
 नतु मानं परित्यज्य देहिदेहीति भाषितम्॥२०॥
@@ -4354,8 +4187,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 पुरतः प्रेरयत्याशा लज्जापृष्ठाऽवलम्बिनी॥  
 ततो लज्जाऽऽरायोर्मध्ये दोलायात्यर्थिनां मनः॥२२॥
-
-
 
 कृपणनिन्दा।
 
@@ -4397,8 +4228,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 अन्ये मतस्य क्रीडन्ति दारैरपि धनैरपि॥८**॥
 
 कासवेक्षण मिte 5 लोग ४ आरोपास ७ घातल्या
-
-
 
 फलं स्वेच्छालभ्यं प्रतिवनम[^852]खेदं क्षितिरुहां[^853]  
 पयः स्थानेस्थाने शिशिरमधुरं पुण्यसरिताम्॥  
@@ -4460,8 +4289,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^868]: "उपभोगहीनेन"
 
-
-
 कृपणनिन्दा।
 
 कृपणेन शवेनैव मृतेनापि न दीयते॥  
@@ -4522,8 +4349,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^880]: "भ्रमरीणाम्."
 
-
-
 दानं भोगो नाशस्तिस्रो गतयो भवन्ति वित्तस्य॥  
 यो न ददाति न भुङ्क्तेतस्य तृतीया[^881] गतिर्भवति॥४॥
 
@@ -4566,8 +4391,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^887]: "वक्राया तुण्डस्य रचना ता मुखवक्रत्वमित्यर्थः पक्षे वक्रतुण्डस्य गणपतेरिव या रचना ता गणेशरूपत्वमित्यर्थः"
 
 [^888]: "नविद्यन्ते पर्णान्यपि यस्यास्तामकिचनत्वमित्यर्थ पक्षे अपर्णा पार्वती तद्रूपताम्"
-
-
 
 कलिमहिमा।
 
@@ -4612,8 +4435,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^892]: "स्नानम् "
 
 [^893]: "गर्दभैः"
-
-
 
 गत्वा म्लेच्छमुखागुचीन्स्पृशति च स्पृष्ट्वाऽपि न स्नात्यहो  
 न स्नातोऽप्यथभुङ्क्तएव चपलो भुक्त्वाऽपि न व्रीडति[^894]॥१३॥
@@ -4672,8 +4493,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^907]: "नटादौ"
 
-
-
 तृष्णानिन्दाः।
 
 गाथागीतविनोदवाक्यरचनायुक्तया जगद्रञ्जितं  
@@ -4725,8 +4544,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 अहो दुष्टः कायस्तदपि मरणाऽपायचकितः॥७॥
 
 आशा नाम नदी मनोरथजला तृष्णातरङ्गाऽऽकुला
-
-
 
 रागग्राह[^916]वती वितर्कविहगा धैर्यद्रुमध्वंसिनी॥  
 मोहाऽऽवर्तसुदु[^917]स्तराऽतिगहना प्रोत्तुङ्गचिन्तातटी  
@@ -4782,8 +4599,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 ड्निरोधः पदेपदे॥  
 पातसज्जमिमं देहं तृष्णा साध्वी न मुञ्चति॥१६॥
 
-
-
 तृष्णानिन्दा।
 
 तृष्णे त्वमपि तृष्णाऽन्धा त्रिषु स्थानेषु पूज्यसे॥  
@@ -4838,8 +4653,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^933]: "पुष्ट्वा दम्भ स्वबन्धुं तदपीति वा पाठः"
 
 [^934]: "अहो इत्याश्चर्ये."
-
-
 
 आशाऽवलम्बो[^935]पचितानकस्य तृष्णालताऽनर्थफलं प्रसूते॥  
 दिनेदिने लब्धरुचिर्विव[^936]स्वान्मीनं[^937] च मेषं[^938] च वृषं[^939] च भुङ्क्ते॥२६॥
@@ -4904,8 +4717,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **तृष्णयैवाखिला दोषास्तच्छित्त्यैवाखिला गुणाः॥  
 मोदाः सर्वे विद्ययैव शोकाः सर्वेप्यविद्यया॥३६॥**
 
-
-
 **दैवम्।**
 
 लोभनिन्दा।
@@ -4958,8 +4769,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 दैवे विमुखतां याते न कोऽप्यस्ति सहायवान्॥  
 पिता माता तथा भार्या भ्राता वाऽथ सहोदरः॥४॥
 
-
-
 भूयिष्ठं द्रविणा[^956]त्मजं जनयितुं लिप्सावता चेतसा  
 नार्यः पञ्च मया क्रमेण कुलजाः काले समुद्वाहिताः[^957]॥  
 सद्विद्या कविता विदेशवसतिः सेवा तथाऽभ्यर्थना  
@@ -5004,8 +4813,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 नमस्तत्कर्मभ्यो विधिरपि न येभ्यः प्रभवति[^962]॥११॥
 
 [^962]: "समर्थोभवति."
-
-
 
 दैवम्।
 
@@ -5054,8 +4861,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^968]: " 'व्यापार' इति लोके."
 
-
-
 द्वीपादन्यस्मादपि मध्यादपि जलनिधेर्दिशोप्यन्तात्॥  
 आनीय झटिति घटयति विधिरभिमतमभिमुखीभूतः॥२१॥
 
@@ -5102,8 +4907,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 माता यस्य धरा[^973]धरेन्द्रदुहिता तातो महेशस्तथा
 
 [^973]: "पर्वतराजपुत्री पार्वती"
-
-
 
 भ्राता विघ्न[^974]कुलान्तकः पितृसखो देवो धनानां[^975] पतिः॥  
 ख्यातः कौञ्चविदारणे सुरपतेः सेनाग्नगः षण्मुख-  
@@ -5161,8 +4964,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 उद्यमः साहसं धैर्यं बुद्धिः शक्तिः पराक्रमः॥  
 षडेते यत्र वर्तन्ते तत्र देवः सहायकृत्॥३॥
 
-
-
 उद्योगिनं पुरुष[^985]सिंहमुपैति लक्ष्मी-  
 र्दैवं प्रधानमिति कापुरुषा[^986] वदन्ति॥  
 दैवं विहाय कुरुपौरुषमात्मशक्त्या  
@@ -5218,8 +5019,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 असंपादयतः कंचिदर्थं जातिक्रियागुणैः॥  
 यदृच्छाशब्दवत्पुंसः संज्ञायै जन्म केवलम्॥१३॥
-
-
 
 कर्म।
 
@@ -5283,8 +5082,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1009]: "कुम्भकारः‘कुंभार' इति लोके."
 
-
-
 धनानि भूमौ पशवश्च गोष्ठे भार्या गृहद्वारि जमः श्मशाने॥  
 देहश्चितायां परलोकमार्गे कर्माऽनुगो गच्छति जीव एकः॥२॥
 
@@ -5330,8 +5127,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 स्थाल्यां वैदूर्य[^1015]मय्यां पचति तिलकणांश्चन्दनैरिन्धनाद्यैः
 
 [^1015]: "रत्नवशेषः"
-
-
 
 उदरपूरणदूषणम्।
 
@@ -5391,8 +5186,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1027]: "अम्बुकणः"
 
-
-
 विद्याधराऽध्युषितचारुशिलातलानि॥  
 स्थानानि किं हिमवतः प्रलयंगतानि  
 यत्साऽवमानपरपिण्डरतो मनुष्यः॥३॥
@@ -5437,8 +5230,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1034]: "पुच्छविक्षेपणम्"
 
 [^1035]: "गजश्रेष्ठः"
-
-
 
 तेजस्विप्रशंसा।
 
@@ -5494,8 +5285,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1044]: "वैयाकरण एव किरातो भिल्लस्तस्मात्"
 
 [^1045]: " भीताः"
-
-
 
 ज्योति[^1046]र्नटविटगायकभिषगाननगह्वराणि यदि न स्युः॥१॥
 
@@ -5560,8 +5349,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1062]: "कम्पति"
 
-
-
 धानधनयोर्निन्दा।
 
 सूत्रं[^1063] पाणिनिबद्धं कलयन्[^1064] पुरुषः समु[^1065]द्वहति सुदृशम्[^1066]॥  
@@ -5623,8 +5410,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1080]: " तर्कसमुद्रः"
 
-
-
 अक्ष[^1081]पादोऽतमः[^1082]स्ष्टष्टस्त्वकलङ्कः कला[^1083]निधिः॥४॥
 
 [^1081]: " गौतम. पक्षे क्षपा ददातीति क्षपादः स न भवतीति तथाविध इति चन्द्र विशेषणम्"
@@ -5683,8 +5468,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1094]: "मुर्खाः "
 
 [^1095]: "लज्जा प्राप्नोति"
-
-
 
 वैद्यप्रशंसा
 
@@ -5751,8 +5534,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1113]: "कर्णकटुभिः"
 
 [^1114]: "सर्वेषा मध्ये निर्दोषम्."
-
-
 
 कुवैद्योपहासः।
 
@@ -5824,8 +5605,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1133]: "ग्रहणम्."
 
-
-
 कुगणकनिन्दा।
 
 आविष्कुर्वन्त्यखिलवचनेष्वत्रकुम्भीपुलाक-  
@@ -5887,8 +5666,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 न्मयैवं प्रागेवाऽभिहितमिति मिथ्या कथयति॥  
 जनानिष्टाऽनिष्टाऽऽकलनपरिहारैकनिरता-  
 नसौ मेषादीनां परिगणनयैव भ्रमयति[^1142]॥४॥
@@ -5929,8 +5706,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **अभ्याससदृशं नैव लोकेऽस्ति हितसाधनम्॥**  
 **अतः स एव कर्तव्यः सर्वदा साधुवर्त्मना॥५॥**
 
-
-
 **कलावत्प्रशंसा।**
 
 श्रीः॥ विबुधानां सभायां तु कलावानेव राजते॥  
@@ -5969,8 +5744,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **श्रीः॥लक्ष्मि क्षमस्व वचनीयमिदं दुरुक्त-  
 मन्धीभवन्ति पुरुषास्त्वदुपासनेन॥**
-
-
 
 नोचेत्कथं कमलपत्राविशालनेत्रो  
 नारायणः स्वपिति पन्न[^1143]गभोग[^1144]तल्पे[^1145]॥१॥
@@ -6028,8 +5801,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1153]: "नियतिपरम्"
 
 [^1154]: " तरुणस्त्री"
-
-
 
 आलस्यं स्त्रीसेवा सरोगता जन्म[^1155]भूमिवात्सल्यम्॥  
 संतोषो भीरुत्वं षड्व्याघातां महत्त्वस्य॥१०॥
@@ -6096,8 +5867,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 धान्यानामपि संग्रहो न कलहश्चित्ताऽनुरूपा प्रिया  
 हृष्टा प्राह हरिं वसामि कमला तस्मिन् गृहे निश्चला॥१६॥
 
-
-
 येषामन्यकलत्र[^923]दर्शनकलाव्युत्पत्तिशून्ये दृशौ  
 मूढं हृच्च परार्थचिन्तनविधौ मिथ्याऽनभिज्ञं मुखम्॥  
 अप्रज्ञातपशून् बुभुक्षितशिशूनभ्रोदकैस्ताम्यत-  
@@ -6147,8 +5916,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 वंशभवो गुणवानपि सङ्गविशेषेण पूज्यते पुरुषः॥  
 नहि तुम्बीफलविकलो वीणादण्डः प्रयाति महिमानम्॥३॥
-
-
 
 गङ्गेवाऽघविनाशिनी जनमनःसंतोपसच्चन्द्रिका  
 तीक्ष्णांशोरपि सत्प्रभेव जगदज्ञानाऽन्धकाराऽपहा॥  
@@ -6203,8 +5970,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 महाजनस्य संसर्गः कस्य नोन्नतिकारकः॥  
 पद्मपत्रस्थितं वारि धत्ते मुक्ताफलश्रियम्॥१३॥
 
-
-
 नम्रत्वप्रशंसा।
 
 श्रीः॥ सद्वंशजत्वं साद्गुण्यं शूरहस्तगतापि च॥  
@@ -6243,8 +6008,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 श्रीः॥ पूर्णेन्दुकार्तिकौमुद्याः सुखस्पर्शः सुधाम्बुधिः॥  
 ज्ञानोद्यानस्य सुरभिर्धर्म एव न चेतरः॥१॥
-
-
 
 स्थानमाहात्म्यम्।
 
@@ -6288,8 +6051,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 स्थानं प्रधानं न बलं प्रधानं स्थाने स्थितः कापुरुषोऽपि शूरः॥  
 जानामि नागेन्द्र तव प्रभावं कण्ठं विना गर्जसि शंकरस्य॥२॥
-
-
 
 किंचिदाश्रयसौन्दर्याद्धत्ते शोभामसाध्वपि॥  
 कान्ताविलोचने न्यस्तं मलीमसमिवाऽञ्जनम्॥३॥
@@ -6355,8 +6116,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1211]: "अङ्गराजवत् कर्णपक्षे अङ्गेषु मुख्य इत्यादिलिङ्गविपरिणामेन योजनीयम्."
 
-
-
 उदरपूरणदूषणम्।
 
 रसने[^1212] रचितोऽयमञ्जलिस्ते परनिन्दापरूषैरलं वचोभिः॥  
@@ -6415,8 +6174,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1223]: "सोपि चन्द्रापि स्वयं सान्तः सकारान्तः पक्षे नश्वरः अतोऽनन्तपदावलम्बम् आकाशपदाश्रयं पक्षे विष्णुपदाश्रयं धत्ते."
 
-
-
 इतस्ततश्चङ्क्रमणो रजोभिः क्रीडन्मनोमत्तमतङ्गजोऽयम्॥  
 यः सर्वदा पिप्पल[^1224]भोगतुष्टस्तच्छान्तये त्वं हरिमाश्रयस्व॥७॥
 
@@ -6468,8 +6225,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 कमपि द्वेष्टि सरोषं ह्यात्मानं श्लाघते कदाचिदपि॥  
 चित्तं पिशाचमभवद्राक्षस्या तृष्णया व्याप्तम्॥२॥
-
-
 
 दम्भाभिमानलोभैःकामक्रोधोरुमत्सरैश्चेतः॥  
 आकृष्यते समभितः श्वभिरिव पतितातनुर्मार्गे॥३॥
@@ -6524,8 +6279,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1244]: "मृदुलेन."
 
-
-
 भोगा मेघवितानमध्यविलसत्सौदामिनीचञ्चला  
 आयुर्वायुविघट्टिताऽभ्रपटलीलीनाम्बुवद्भङ्गुरम्॥  
 लोलायौवनलालसास्तनुभृतामित्याकलय्य द्रुतं  
@@ -6574,8 +6327,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1254]: "स्वस्थेन"
 
 [^1255]: "माता च पिता च पितरौ तयोः"
-
-
 
 ब्रह्म[^1256]ज्ञानविवेकनिर्मलधियः कुर्वन्त्यहो दुष्करं[^1257]  
 यन्मुञ्चन्त्युपभोगवन्ति च धनान्ये[^1258]कान्ततो निःस्पृहाः[^1259]॥  
@@ -6628,8 +6379,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 तस्यार्धस्य परस्य चार्धमपरं बालत्ववृद्धत्वयोः॥  
 शेषं व्याधिवियोगदुःखसहितं सेवादिभिर्नीयते  
 जीवे वारितरङ्गचञ्चलतरे सौख्यं कुतः प्राणिनाम्॥९॥
-
-
 
 क्षणं बालो भूत्वा क्षणमपि युवा कामरसिकः  
 क्षणं वित्तैर्हीनः क्षणमपि च संपूर्णविभवः॥  
@@ -6697,8 +6446,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1286]: "अस्निग्धम्"
 
-
-
 **क्षणं बालो भूत्वा क्षणमपि युवा कामरसिकः  
 क्षणं वित्तैर्हीनः क्षणमपि च संपूर्णविभवः॥  
 जराजीर्णैरङ्गैर्नट इव वली[^1268]मण्डिततनु-  
@@ -6765,8 +6512,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1286]: "अस्निग्धम्"
 
-
-
 भार्या निष्ठुर[^1306]भाषिणी प्रभुरपि क्रोधेन पूर्णः सदा  
 स्नानं शीतलवारिणा हि सततं धिग्धिग्गृहस्थाश्रमम्॥३॥
 
@@ -6827,8 +6572,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 श्रीः॥ कृतान्तस्य दूती जरा कर्णमूले  
 समागत्य वक्तीति लोकाः शृणुध्वम्॥
 
-
-
 परस्त्रीपरद्रव्यवाञ्छां त्यजध्वं  
 भजध्वं रमानाथपादाऽरविन्दम्॥१॥
 
@@ -6879,8 +6622,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1331]: " केशैः"
 
 [^1332]: "दन्तपङ्क्तिः"
-
-
 
 यममिव करधृतदण्डं हरिमिव सगदं[^1333] शशाङ्कमिवं वक्रम्॥  
 शिवमिव च विरूपाक्षं[^1334] जरा करोत्यकृतपुण्यमपि॥८॥
@@ -6962,8 +6703,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1358]: "भयकरणम्"
 
-
-
 दुर्नीतं किमिहाऽस्ति किं सुचरितं कः स्थानलाभे गुणः  
 कालो हि व्यसनप्रसारितकरो गृह्णाति दूरादपि॥१॥
 
@@ -7024,8 +6763,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1373]: "पृथ्वी शान्तिश्च"
 
-
-
 नरस्याऽऽभरणं रूपं रूपस्याऽऽभरणं गुणः॥  
 गुणस्याऽऽभरणं ज्ञानं ज्ञानस्याऽऽभरणं क्षमा॥३॥
 
@@ -7067,8 +6804,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 नाऽस्ति क्षुधासमं दुःखं नाऽस्ति रोगः क्षुधासमः॥  
 नाऽस्त्याहारसमं सौख्यं नाऽस्ति क्रोधसमो रिपुः॥३॥
-
-
 
 स्वभावः।
 
@@ -7128,8 +6863,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1388]: " 'टोल' इति लोके."
 
-
-
 दीपोऽर्जुन इवाऽऽभाति पतङ्ग[^1389]जनितापदः॥  
 किं च राम इवाऽऽभाति समुच्छिन्न[^1390]दशाननः॥३॥
 
@@ -7175,8 +6908,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1395]: "कासारम्"
 
 [^1396]: "कुमुदमण्डलम्"
-
-
 
 नाऽम्यर्थितो जलधरोऽपि जलं ददाति  
 सन्तः स्वयं परहितेषु कृताऽतियोगाः॥६॥
@@ -7235,8 +6966,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1411]: "नक्षत्राणाम्"
 
-
-
 त्रिलोकेशः शार्ङ्गी[^1412]शबर[^1413]शरलक्ष्यत्वमगम-  
 द्विधाता[^1346] लोकानामलभत शिरः[^1415]कृन्तनविधिम्॥  
 प्रयातौ तौ राहोर्दिनकरशशाङ्कौ कव[^1416]लतां  
@@ -7290,8 +7019,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1424]: "लक्ष्मीलेशाशया"
 
 [^1425]: "गणिकासु"
-
-
 
 हारहीरकहिरण्यभूषणैस्तोषमेति गणिकाधनैषिणी[^1426]॥  
 प्रेमकोमलकटाक्षवीक्षितैरेव जीवति कुलाऽङ्गनाजनः॥५॥
@@ -7355,8 +7082,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1439]: "पर्वततुल्य स्तनद्वयमिति भावः"
 
-
-
 कमले कमलोत्पत्तिः श्रूयते न च दृश्यते॥  
 बाले तव मुखाऽम्भोजे दृष्टमिन्दीव[^1440]रद्वयम्॥३॥
 
@@ -7416,8 +7141,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1454]: " पुनः"
 
-
-
 आकिञ्च[^1455]न्यादतिपरिचयाज्जाययोपेक्ष्य[^1456]माणो  
 भूपालानामननुसरणाद्बिभ्यदेवाऽखिलेभ्यः  
 गेहे तिष्ठन् कुमतिरलसः कूपकूर्मैः सधर्मा[^1457]  
@@ -7475,8 +7198,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1468]: " उरःस्थलम्"
 
-
-
 सेवकनिन्दा।
 
 श्रीः॥ आहारे वडवा[^1469]ऽनलश्च शयने यः कुम्भकर्णायते  
@@ -7532,8 +7253,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 चलेषु स्वामिचित्तेषु सुलभे पिशुने[^1480] जने॥
 
 [^1480]: "सूचके"
-
-
 
 यदि जीवन्त्यहो चित्रं क्षणमप्युपजीविनः[^1481]॥९॥
 
@@ -7599,8 +7318,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1497]: "दक्षिणाया अयं तु वैदिकानां सांकेतिकः शब्दः"
 
-
-
 वाग्वर्णनम्।
 
 श्रीः॥ केयूरा[^1498] न विभूषयन्ति पुरुषं हारा न चन्द्रो[^1499]ज्ज्वला  
@@ -7662,8 +7379,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1516]: "नखानां किरणस्तैविर्भिन्नां मिश्राम्"
 
-
-
 अनु[^1517]लवमनुकर्षन् येन कीरो[^1518] निषिद्धः  
 स भवतु मम भूत्यै[^1519] वाणि ते मन्द[^1520]हासः॥६॥
 
@@ -7721,8 +7436,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 वाचः सौष्ठवमावेक्ष्य सुधाप्रायः सुधाभवत्॥  
 सुधाधरोपि नोतद्वद्वाग्मी द्विजमुदे यथा॥१५॥
-
-
 
 वाग्मि[^1530]प्रशंसा।
 
@@ -7787,8 +7500,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1544]: "ब्रह्मणः"
 
-
-
 पौल[^1546]स्त्यस्य दशाऽभवन् फणि[^1547]पतेर्जिह्वासहस्त्रद्वयं  
 जिह्वालक्षशतैककोटिनियमो नो दुर्जनानां मुखे॥२॥
 
@@ -7849,8 +7560,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1556]: "भषक"
 
 [^1557]: "व्यर्थम्."
-
-
 
 गर्भवासप्रयुक्तं दुःखम्।
 
@@ -7925,8 +7634,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1578]: "स्वभावतः"
 
-
-
 विधायाऽलीकवि[^1579]श्रम्भमज्ञेषु त्यक्तसौहृदाः॥  
 नवंनवमभीप्सन्त्यः पुंश्चल्यः[^1580] स्वैरवृत्तयः[^1581]॥४॥
 
@@ -7980,8 +7687,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 नाऽमृतं न विषं किंचिदेकां मुत्त्का नितम्बिनीम्॥  
 सैवाऽमृतलतारक्ता विरक्ता विषवल्लरी॥११॥
-
-
 
 कुलवधूवृत्तम्।
 
@@ -8040,8 +7745,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 नित्यं स्नाता सुगन्धा च नित्यं च प्रियवादिनी॥  
 अल्पभुङ्मितवक्त्री च देवता सा न मानुषी॥२॥
-
-
 
 असारभूते संसारे सारभूता नितम्बिनी॥  
 इति सञ्चिन्त्य वै शम्भुरर्धाङ्गे पार्वतीं दधौ॥३॥
@@ -8102,8 +7805,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 लज्जावशाच्च नतमन्थरदृष्टिपातं यैश्चुम्बितं कुलवधूवदनाऽरविन्दम्  
 तेषामनेकपुरुषव्रणिताधरेषु शक्तिः कथं भवति वेशवधूमुखेषु॥१०॥
-
-
 
 सैव साध्वी सुभक्तश्च सुस्नेहः सरसोज्ज्वलः॥  
 पाकः[^1619] संजायते यस्याः करादप्युदरादपि॥११॥
@@ -8167,8 +7868,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1634]: "परिणयरूपायामापदि संकटे ."
 
-
-
 इह वटवृक्षे यक्षः प्रतिवसति दिवाऽपि यत्र भयशङ्का॥  
 तस्मिन्नभिनववध्वा नीता वीतोदयाः क्षण[^1635]दाः॥२१॥
 
@@ -8215,8 +7914,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1640]: "स्तनात्."
 
 कृतचङ्क्रममङ्गणेषु किंचित्क्वणवत्किङ्किणिरिङ्गदङ्घ्रिपद्मम्॥
-
-
 
 यदि सन्महितं सुतं श्रितं स्यात्तदिदं सद्म हितं भवेत्तदानीम्॥८॥
 
@@ -8267,8 +7964,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 श्रीः॥ एकोऽपि गुणवान् पुत्रो निर्गुणैः किं शतेन तैः॥  
 एकश्चन्द्रो जगच्चक्षुर्नक्षत्रैः किं प्रयोजनम्॥१॥
-
-
 
 एकेन हि सुवृक्षेण पुष्पितेन सुगन्धिना॥  
 वासितं तद्वनं सर्वं सुपुत्रेण कुलं यथा॥२॥
@@ -8321,8 +8016,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 वरं वन्ध्या भार्या वरमपि च गर्भेषु वसति-  
 र्नचाऽविद्वान् रूपद्रविणगुणयुक्तोऽपि तनयः॥१०॥
 
-
-
 कुपुत्रनिन्दा।
 
 श्रीः॥ किं तेन जातु[^1657] जातेन मातृयौवन[^1658]हारिणा॥  
@@ -8369,8 +8062,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 कथं नाम न सेव्यन्ते यत्नतः परमेश्वराः॥  
 अचिरेणैव ये तुष्टाः पूरयन्ति मनोरथान्॥४॥
-
-
 
 एकेन हि सुवृक्षेण पुष्पितेन सुगन्धिना॥  
 वासितं तद्वनं सर्वं सुपुत्रेण कुलं यथा॥२॥
@@ -8422,8 +8113,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 वरं जातः प्रेतो वरमपि च कन्या विजनिता॥  
 वरं वन्ध्या भार्या वरमपि च गर्भेषु वसति-  
 र्नचाऽविद्वान् रूपद्रविणगुणयुक्तोऽपि तनयः॥१०॥
-
-
 
 राजसेवा मनुष्याणामसिधारा[^1672]ऽवलेहनम्॥  
 पञ्चानन[^1673]परिष्वङ्गो व्याली[^930]वदनचुम्बनम्॥१५॥
@@ -8495,8 +8184,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 अचिराऽधिष्ठितराज्यः शत्रुः प्रकृतिष्वरूढमूलत्वात्॥  
 नवसंरोपणशिथिलस्तरुरिव सुकरः समुद्धर्तुम्॥२१॥
 
-
-
 सप्रतिबन्धं कार्यं प्रभुरधिगन्तुं सहायवानेव॥  
 दृश्यं तमसि न पश्यति दीपेन विना सचक्षुरपि॥२२॥
 
@@ -8562,8 +8249,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1709]: "बद्धः"
 
-
-
 अस्य क्षोणिपतेः परार्धपरया लक्षीकृताः सङ्ख्यया  
 प्रज्ञा[^1710]चक्षुरवेक्ष्यमाणबधिरश्राव्याः किलाऽकीर्तयः॥  
 गीयन्ते स्वरमष्टमं कलयता जातेन वन्ध्योदरा-  
@@ -8621,8 +8306,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1724]: "मदनाय"
 
-
-
 नूनमाज्ञाकरस्तस्याः सुभ्रुवो मकरध्वजः॥  
 यतस्तन्नेत्र[^1725]संचारसूचितेषु प्रवर्तते॥२॥
 
@@ -8678,8 +8361,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1736]: "स्वेच्छया."
 
-
-
 एकं वस्तु द्विधा कर्तुं बहवः सन्ति धन्विनः॥  
 धन्वी स मार एवैको द्वयोरैक्यं करोति यः॥९॥
 
@@ -8731,8 +8412,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1748]: "जलानि सोमादिवासरश्च"
 
 [^1749]: " उदकं पीयुषं च."
-
-
 
 कामिनी[^1750]कायकान्तारे कुचपर्वतदुर्गमे[^1751]॥  
 मा संचर मनः[^1752]पान्थ तत्राऽऽस्ते स्मरतस्करः[^1753]॥३॥
@@ -8796,8 +8475,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1766]: "उत्त्का"
 
-
-
 ग्रामेऽस्मिन् प्रस्तरप्राये[^1767] न किंचित्पान्थ विद्यते॥  
 पयोधरो[^1768]न्नतिं दृष्ट्वा वस्तुमिच्छसि चेद्वस॥९॥
 
@@ -8856,8 +8533,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 अये स्निग्धे मुग्धे चपलनयने चन्द्रवदने  
 प्रसीदेत्याक्रोशन्निमिषमिव नेष्यामि दिवसान्॥३॥
 
-
-
 परस्त्रीसंभोगनिन्दा।
 
 श्रीः॥ परस्त्रीस्मरणेनापि कोट्यनर्थागमः क्षणात्॥  
@@ -8897,8 +8572,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 योषा सुरूपवेषा यदि भर्तृमनोनुकूलमाचरति॥  
 पतिदेवता मृता चेत्किं वक्तव्यं तदा हि यः खेदः॥६॥
-
-
 
 तारुण्यमदनिन्दा।
 
@@ -8945,8 +8618,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 भो रोहिणि त्वमसि रात्रिचरस्य भार्या  
 एनं निवारय पतिं सखि दुर्निवारम्॥
-
-
 
 जालान्तरेण मम सद्मनि सन्निविष्टः  
 श्रोणीतरं स्पृशति किं कुलधर्म एषः॥३॥
@@ -9006,8 +8677,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1799]: " नर्मदा"
 
 [^1800]: "लतागृहम्"
-
-
 
 इयं प्रावृड् धन्या नवजलदविन्यासचतुरा  
 पराधीनं चेतः सखि किमपि कर्तुं मृगयते॥९॥
@@ -9075,8 +8744,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1818]: "वियोगः"
 
-
-
 विरमत[^1819]विरमत सख्यो नलिनीदलतालवृन्तपवनेन॥  
 हृदयगतोऽयं वन्हिर्झटिति कदाचिज्ज्वलत्येव॥१७॥
 
@@ -9121,8 +8788,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 प्रहर न हरभ्रान्त्याऽनङ्ग क्रुधा किमु धावसि॥२५॥
 
 [^1824]: "वासुकिः"
-
-
 
 पाणौ मा कुरु चूतसायकममुं मा चापमारोपय  
 क्रीडानिर्जितविश्वमूर्छितजनाऽऽघातेन किं पौरुषम्॥  
@@ -9189,8 +8854,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1843]: "नेत्रप्रान्तः"
 
-
-
 अनतिलुलितज्या1घाता[^1844]ऽङ्कं मुहुर्मणिबन्धनात्  
 कनकवलयं[^1845] स्रस्तंस्रस्तं[^1846] पुनः प्रतिसार्यते॥३१॥
 
@@ -9242,8 +8905,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 सरक्षतु प्रियतमो हृदि वर्ततेऽसौ॥  
 इत्याशया शशिमुखी गलदश्रुवारि-  
 धाराभिरुष्णमभिषिञ्चति हृत्प्रदेशम्॥३८॥
-
-
 
 वसन्त[^1856]कुसुमाकरं तदनु पूर्ण[^1857]चन्द्रोदयं  
 निदा[^1858]नमविचार[^1859]यन्दिशतु[^1860] हन्त मारो[^789] भिषक्[^1862]॥  
@@ -9303,8 +8964,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1872]: "सेना नद्यश्च."
 
-
-
 प्राणेश विज्ञप्तिरियं मदीया तत्रैव नेया दिवसाः कियन्तः॥  
 संप्रत्ययोग्यस्थितिरेष देशः करा हिमांशोरपि तापयन्ति॥४५॥
 
@@ -9362,8 +9021,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1885]: "वज्रवत्कटोराणां,"
 
-
-
 स्मर्तव्याऽहं त्वया कान्त न स्मरिष्याम्यहं तव॥  
 स्मरणं चेतसो धर्मस्तच्चेतो भवता हृतम्॥५२॥
 
@@ -9417,8 +9074,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 विलोक्य संगमे रागं पश्चिमायां विवस्वतः॥  
 कृतं कृष्णं मुखं प्राच्या नहि नार्यो विनेर्ष्यया॥३॥
 
-
-
 सान्ध्यरागरुधिराऽरुणमारान्निष्पपात रविमण्डलमब्धौ॥  
 क्रूरकालक[^1896]रवालविलूनं[^1897] वासरस्य सहसैव शिरो नु॥४॥
 
@@ -9469,8 +9124,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 यातोऽस्मि पद्मनयने समयो ममैष  
 सुप्ता मयैव भवती प्रतिबोधनीया॥
-
-
 
 प्रत्याय[^1906]नामयमितीव सरोरुहिण्याः[^1907]  
 सूर्योऽस्तमस्तकनिविष्टकरः करोति॥१२॥
@@ -9538,8 +9191,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1923]: " महद्भिस्तेजोभिः"
 
-
-
 प्रभातवर्णनम्।
 
 अभूत्प्राची पिङ्गा रसपतिरिव[^1924] प्राश्य कनकं  
@@ -9597,8 +9248,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1937]: "श्रेष्ठःअग्रेसर इत्यर्थः"
 
 [^1938]: "ज्योत्स्नाप्रवाहम्"
-
-
 
 सोऽयं तारकनायकः किमपरं शृङ्गार[^1939]संजीवनं  
 जातः पुष्पपरागपाण्डुरजरत्कू[^1940]श्माण्डपिण्डाकृतिः॥६॥
@@ -9672,8 +9321,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1961]: "खिन्नत्वम्."
 
-
-
 ताराः स्वस्य करै[^710]र्विकृष्य सहसा गच्छन्नितोऽस्ताचलं  
 लग्नाः काश्चन ताः प्रभाकरकरे पश्यन् परिम्लायति॥११॥
 
@@ -9737,8 +9384,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^1977]: "उष्णक्लान्तः"
 
 [^1978]: " मयूरः"
-
-
 
 तप्तं वारि विहाय तीरनलिनीं कारण्डवः सेवते  
 क्रीडावेश्मनिवेशिपञ्जरशुकः क्लान्तो जलं याचते॥३॥
@@ -9808,8 +9453,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^1998]: " 'कारजें' इति प्र."
 
-
-
 प्रावृड्वर्णनम्।
 
 अथोपगूढे शरदा शशाङ्के प्रावृड्ययौ शान्ततडित्कटाक्षा॥  
@@ -9845,8 +9488,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 अलं हिमानीपरिदीर्णगात्रः समापितः फाल्गुनसंगमेन॥  
 अत्यन्तमाकाङ्क्षितकृष्णवर्त्माभीष्मो महात्माऽजनि माघतुल्यः॥२॥
-
-
 
 हेमन्ते पथिकजनाः प्रियाविमुक्ता लोकानां गृहबहिरङ्गणे शयानाः॥  
 कन्दर्पाऽऽकुलमनसां निशासु तेषां शीतं किं लगति जगत्प्रकम्पकारि  
@@ -9903,8 +9544,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
  (1) संमीलने नयनयोरिति चतुर्थपादः समस्या (२) हरशिरसीत्युत्तरार्धसमस्या (3) चलित इत्युत्तरार्धं समस्या. (४) नेमुरिति चतुर्थपादः आद्यपादत्रय समस्यापूरणं. (५) मृगात्सिंह इति चतुर्थपादः समस्या  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 दामोदरकराऽऽघातविह्वलीकृतचेतसा॥  
 दृष्टं चाणूरमल्लेन शतचन्द्रं नभःस्थलम्॥६॥
@@ -9965,8 +9604,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 उन्नमय्य सकच[^2023]ग्रहमास्यं[^921] चुम्बति[^2025] प्रिय[^2026]तमे हठ[^2027]वृत्या॥  
 कूजितं[^2028] भवति मान[^2029]धनाया हुंहुंहुंहुंहुंहुंहुंहुंहुंहुंहूं॥१३॥
 
@@ -10024,13 +9661,9 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 (१३) हूहुंहूमि० च० स० ( १४ ) अपांनिधिरित्यादि समस्या. (१५) अम्भोधिरित्यादिचतुर्थपादःसमस्या (१६) सर्वस्यद्वे, एकोगोत्रे, वृद्धोयूना, स्त्रीपुंवच्च, इति चत्वारि पाणिनेः सूत्राणि समस्या चतुर्षु पादेषु (१७ ) पुण्याश्चेष्महाऽनृणीति चतुर्थपादःसमस्या
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 कांचिद्दिनार्ध[^2040]समये रविरश्मितप्तां[^2041]  
 नीलांशु[^2042]काञ्चलनिलीनमुखेन्दुबिम्बाम्॥  
@@ -10092,8 +9725,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 काचिन्मृगाक्षी प्रियविप्रयोगे गन्तुं निशापारमपारयन्ती॥  
 उद्गातुमादाय करेण वीणामुद्ग्रीवमालोक्य शनैरहासीत्॥६॥
 
@@ -10134,8 +9765,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 सर्वस्वापहरो न दस्युकुलजः खट्वाङ्गभृन्नेश्वरो  
 दोषाऽनिष्टकरो न धर्मनिरतः कीलालपो नाऽसुरः॥  
 नृृणां पृष्ठपलायनो न पिशुनः शीघ्रंगमो नो हयः  
@@ -10164,8 +9793,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
  इयन्वयः मद्गीतसुखितस्त्व याचकस्य मे शिरोदान देहीति व्याधः शृङ्गं जग्राह अथ तं हरिण शिरोदानायोद्यतकर समीक्ष्य तज्जाया हरिणीमपि पतिभक्त्या निजशिरोदानाय उद्यतकरा समीक्ष्यं अयं हरिणो दाता तत्पत्न्यपि दात्री इति हेतोर्वरमेते पशवो न वय मनुष्या इति लज्जितेत्यभिप्रायः( १२ ) उत्तरं मत्कुणः 'ढेंकूण' इति लोके (१३) उ०-नारिकेरफलम् 'नारल' इतिलोके (१४) उ० सूचिका. (सुई) (१५) उ०-कञ्चुकः(अगरखा) (१६) उ०. छोटिका 'चुटकी' तिलोके नरनार्यौ अङ्गुष्ठमध्यमाङ्गुली. (१७) उत्तरं—उपानत् 'जोडा' (२८) उ०—नयनं (डोला).
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 छेकापन्हुतिः।
 
@@ -10214,8 +9841,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 तन्वी चारुपयोधरा सुवदना श्यामा मनोहारिणी  
 नीता निष्करुणेन केनचिदहो देशान्तरादागता॥
 
-
-
 **उत्सङ्गोचितया[^2070] तया रहितया किं जीवनाऽपेक्षया  
 भिक्षो ते दयिताऽस्ति किं नहिनहि प्राणप्रिया तुम्बिका॥९॥**
 
@@ -10261,8 +9886,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 पितृशिरसि पतन्ती जाह्नवी नः पुनातु॥२॥**
 
 [^2083]: "अहिः सर्पस्तद्रिपुर्गरुडस्तत्पतिर्विष्णुस्तत्कान्ता लक्ष्मीस्तत्तातः समुद्रः सम्यक् बद्धो येनैतादृशो रामस्तत्कान्ता जानकी तस्या हरो हर्ता रावणस्तत्तनय इन्द्रजित्तन्निहन्ता लक्ष्मणस्तत्प्राणदाता हनूमान् स ध्वजे यस्यैतादृशोऽर्जुनस्तस्य सखा कृष्णस्तत्सुतो मदनस्तत्सुतः प्रद्युम्नस्तत्कान्ता उखा तत्तातो बाणासुरस्तस्य सम्यक् पूज्यः शिवस्तत्कान्ता पार्वती तत्पिता हिमालयस्तच्छिरसि पतन्ती जान्हवी भागीरथीत्यर्थः"
-
-
 
 **अर्जुनस्य इमे बाणा नेमे बाणाः शिखण्डिनः॥  
 सीदन्ति मम गात्राणि माघमा[^2084]सेगवा इव॥३॥**
@@ -10323,8 +9946,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 सरावणोऽपि मुमुचे मध्ये रीतिधरं[^2101] शरम्॥१०॥**
 
 [^2101]: "मध्यभागे रीतिः पिंत्तलं तद्विशिष्ट अथ च मध्ये रीकारविशिष्ट शर शरीरमित्यर्थः"
-
-
 
 शिला[^2102]र्पितपदद्वन्द्वा नासा[^2103]ऽर्पितकरद्वया॥  
 अभूद्व्यक्तस्तनी नारी कथमेतद्भविष्यति॥११॥
@@ -10395,8 +10016,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2125]: "महः श्रीकृष्णाख्य रामाख्य शिवाख्य च,"
 
-
-
 **अनेकसुषिरं[^2126] वाद्यं[^2127] कान्तं[^2128] च ऋषिसंज्ञितम्॥  
 चक्रिणा[^2129] च सदाऽऽराध्यं यो जानाति स पण्डितः॥१८॥**
 
@@ -10450,10 +10069,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
-
 **स्तनमण्डलमाश्रित्य[^2139] नखस्य वरयोषिताम्  
 कदाकर्णयते गीतं रमया सह रङ्गराट्॥२५॥**
 
@@ -10481,8 +10096,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **एको ना[^2142]विंशतिः स्त्रीणां स्नानार्थं शरयूं गता॥  
 विंशतिः पुनरायाता एको व्याघ्रेण भक्षितः॥३०॥**
 
@@ -10507,8 +10120,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 हे आलि उपपतिः जारः अतिसखिवत् अतिशयितमित्रवत् शस्त इति त्वयाऽपि कथं नाऽवोधि. व्याकरणपक्षे. पतिशब्दः शस्तःशस इति शस्त. पञ्चम्यन्तात्तसिःद्वितीयाबहुवचनात्पर सखिवत् सखितुल्यरूपो ज्ञेयः नादेशाभावेन कार्यैक्यात्. उपपतिशब्द. शस्तः द्वितीयाबहुवचनात्परं अतिसखिशब्दवत् नादेशभाक् (३२) जीविकार्थे चापण्ये इत्यत्र अपण्ये इत्युक्तत्वात् हस्तिकान्विक्रीणीते इत्यत्रेव रामकं, सीतका, लक्ष्मणकं, इति प्रयोगा एव साधनः(३३) यदीयं आभरणं गोकर्णराट् गावावेव नेत्रे एव कर्णौ येषा चक्षुःश्रवस इत्यर्थः तेषु राजते इति. यद्गव्यहव्येट् यस्य गवि नेत्रे भवः उत्पन्नःहव्येट् हव्यस्वामी अग्निः अज मदन आददाह. भेनचूडामणिः भाना इनःस्वामी चन्द्र इत्यर्थः स चूडामणिःशिरोरत्नं यस्य. अगात्मजार्धः उः शिवः अपायात् आदिगन्तात् कु पृथ्वी पायात् रक्षतु. (३४) कश्चित्स्वनायिका स्तौति तं प्रति अन्यः प्रतिभाषते हेसखे एतस्याः त्रैलोक्ये उपमा नास्तीति किमिति कुतो भाषसे यतः सा उपमैव अनन्तरा मध्यवर्णरहिता उमेति यावत्. अथवा सैवोमा नादि आद्यवर्णरहिता लक्ष्मीरिति यावत् उपमा उपमान अस्तीति भावः तृतीया नास्ति इति मे बुद्धिः।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **सुवर्णालंकृता[^2144] कन्या हेमाऽलंकारवर्जिता॥  
 सा कन्या विधवा[^2145] जाता गृहे रोदिति तत्पतिः॥३५॥**
@@ -10561,8 +10172,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2160]: "टवर्गस्य मूर्धस्थानत्वाद्यदि त्व रुष्टासि तर्हि त्वा शिरसा नमामीति सूचितम्"
 
-
-
 **काचिद्वियोगानलतप्तगात्री प्राणान्समाधारयितुं लिलेख॥  
 बाह्वोर्भुजङ्गं हृदि राहुबिम्ब नाभौ च कर्पूरमयं महेशम्॥४०॥**
 
@@ -10588,8 +10197,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
  (४०) सर्पग्रासभीत्या प्राणा. स्वतो न निर्गमिष्यन्तीत्याशयेन बाह्वोर्भुजङ्गलिलेख चन्द्रश्च स्वभागतया श्रुतिसिद्धं मृतानां मनोग्रहीतुमागच्छेदित्याशयेन हृदि राहु मन्मथत्रासाय शिवं च लिलेखेति भावः(४१) समुद्रमपि करे चुलकयतो मुनेः सामर्थ्यं मम चेत्स्यात्तर्हि झटिति तृट्शान्यभावाच्चिरमेना पश्यामीति पान्थाभिप्रायः यदि सागराः सन्निहिताःस्युस्तदानवरत जलधारा विसृजन्ती चिरमेतद्दर्शनसुखमनुभवेयमिति प्रपापाल्यभिप्रायः (४२) कोकिलरक्षककाकावशेषकत्वाद्रामं मलयाद्र्यवशेषणाद्वानरवाहिनी मन्मथावशेषणात्पुररिपुं चन्द्रावशेषणाद्राहुं रवेः शीघ्रमस्ताद्रिप्रापणेन रात्रिसपादनादनूरु चन्द्रोत्पादकसमुद्रावशेषणादगस्त्य मन्मथोत्पादनान्मुररिपुं निनिन्देति भावः कोकिलादीनां कामोद्दीपकत्वं रसशास्त्रे प्रसिद्धम् (४३) नक्षत्रमालाधारणेन नक्षत्रोदयवेलायामागमनं कर्तव्यामिति तया सूच्यते वासरसख्याकरणेन सप्तविंशतिदिनमध्य एव मयाऽऽगम्यत इति तेन सूचितम् (४४) मन्मथावशेषणाच्छम्भु चन्द्रावशेषणाद्राहुम् मलयाद्र्यवशेषणाद्रामचन्द्र मन्मथजनकत्वाद्बलरामानुजं वायुभक्षिसर्पहननात्पन्नगारातिं गरुडं निन्दितवतीति भावः
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **द्वौ दानार्थौभवति च तथा पालने खण्डने वा  
 नो जानीमः कथयति भवान् कस्य धातोः प्रयोगम्॥४५॥**
@@ -10630,8 +10237,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
  (४५) त्वं सर्वज्ञः सन् बहुधा वारंवारं दीयते दीयते इति वदसि दीयते इति रूपं चतुर्णामपि दा धातूनां सदृशं भवति तन्मध्ये द्वौ दानार्थौदाणदाने डुदाञ् दाने इति एकः पालने देङ् रक्षणे इति. एकः खण्डने दोऽवखने इति. एतन्मध्ये भवान् कस्य धातो प्रयोगं कृत्वा वदति तं न जानीमः (४६) न विद्यते अन्तो यस्य तन्नान्तम् अथ च नकारान्तं ब्रह्म अन्तेन सहितं सान्त अथ च सकारान्तं सान्त मनो नान्त ब्रह्मन पश्यतीति युक्तमेव. ककारोन्ते यस्याः अथ च कान्ता रमणी अकस्य दुःखस्यान्तकं नाशकं अथ च ककारान्तं न भवतीत्यकान्तकं स्वार्थे कः स्वयं कान्ता वाक् अकान्तकमपि लोकजनकत्वात्कान्त ब्रह्म नैतीति चित्रमिति भावः
 
-
-
 **आगतः पाण्डवाः सर्वेऽदुर्योधनसमीहया॥  
 तस्मै गांच सुवर्णं च रत्नानि विविधानि च॥६॥**
 
@@ -10665,8 +10270,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **राक्षसेभ्यः सुतां हृत्वा जनकस्य पुरीं ययौ॥  
 अत्र कर्तृपदं गुप्तं मर्यादा दशवार्षिकी॥१५॥**
 
@@ -10697,8 +10300,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 —————————————————————————————————————————
 
 (१५) राक्षसाना इभ्यः स्वामी रावण. जनकस्य सुता हृत्वा पुरी लङ्काययौ (१६) अयं पुरुषो रोषं न करोति, परुषं कठोरं न वदतिशत्रून्न हन्ति नामेति प्रसिद्ध तथापि अस्य वीरस्य धी अखिला मही रञ्जयति (१७) यैरनिशं सुकृतं कृतं तेषामेव मन शरदिन्द्वित्यादिविशेषणविशिष्ट देव हरं प्रसादयति. (१८) हे रमणि एहि कौ पथिव्या तुक बाल धूलीत्यादिविशेषणविशिष्टं पश्य कर्म गुप्तम् (१९) पान्थस्त्रीनिःश्वासैर्मोसलःपुष्ट इवेत्युत्प्रेक्षा. शीकरेत्यादिविशेषण विशिष्टो जवनमारुतवेगवान् वायुः सरः प्रक्षोभयति कर्म गुप्तम् (२०) दिवसः शं सुखं कुर्वन् अयति गच्छति. कर्म गुप्तम् (२१) दुष्टं वाःजल तेन दुर्वारा कलुषितजलवत्त्वेन हेतुनेत्यर्थःहेतुगुप्तं (२२) महानसा महता शकटेन आयातः आगतः नरको मृत्युः करणगुणम्. (२३) अम्भोरुहं अये इतिपदच्छेद इःका-
-
-
 
 प्रशस्त्यायुक्तमार्गस्य तव संमानितां श्रिताः॥  
 स्पृहयन्ति न के नाम गुणरत्नालयप्रभो॥२४॥
@@ -10731,8 +10332,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 मस्तस्मै अये कामाय सप्रदानगु० (२४) प्रशस्त्यैउक्तमार्गस्येति पदच्छेदः प्रशस्त्यै कल्याणाय. सप्रदानगुप्तम् (२५) अलिनः भ्रमरात्. अपादानगुप्तम् (२६) ए कृष्णे कान्ते भर्तरि. सप्तमीगुप्तम् (२७) विपदि अमानता इति पदच्छेदः निर्गतः ऊष्मा द्रव्यरूपी यस्मात्तस्य अमानता आदराभावः शान्तमूष्मरहितमित्यर्थः सप्तमी गु० (२८) उन्निद्रमुकुला एःइति पदच्छेदःएः कामस्य. (२९) भा कान्तिः नु. मनुष्यस्य. (३०) हे कर उमेश प्रति अनिश पूजापरायणः भव (३१) क अले इतिपदच्छेदःकमिति सुखे. सुख यथास्यात्तथा पिबतः सम्बुद्धिगुप्तिः (३२) सर्वज्ञाना इनःस्वामी तत्संबोधनं, संबुद्धिगुप्तिः
 
-
-
 विषादी भैक्ष्यमश्नाति सदारोगं न मुञ्चति॥  
 रुष्टेनाऽपि त्वया वीर शम्भुनाऽरिः समः कृतः॥३३॥
 
@@ -10763,8 +10362,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 (३३) विषादी खिन्नः पक्षे विषमत्तीति विषादी सदा सर्वदा रोग व्याधिं न मुञ्चति. पक्षेसदारः सस्त्रीकः अग शैल न मुञ्चति. (३४) हे एण मृग कल्हारशीतल वारि उदक पिबतः ते हृदये केन दुर्विदग्धेन इमौ शरौ सन्निरोपितौ इत्यन्वयः अत्रापि सम्बुद्धिगुप्तिः. (३५) वटोववयोरैक्यात् वटो ऋक्षः अच्छभल्लःआवृत्यरुद्ध्वा. सधिगुप्तमेतत्. (३६) नमे आगोरसाभिज्ञं इति च्छेदः मे चेतःआगोरसाभिज्ञ अपराधरसाभिनं नेत्यर्थ. सन्धिगुप्तमेतत् (१) शभुकान्ता का उ० गौरी. एवमेव अन्यत्र ऊह्य. भुजगो जारः(४) सन्तः मान, लुब्धाः धनं, महर्षिसंघाःवन, विप्राः दान, कृषिष्ठाःघनं, माननीयाः यानं इच्छन्ति. सर्वेपि माधवे वैशाखे दाघः ऊष्मा तस्मिन् यानं गमनं नेच्छन्ति।
 
-
-
 **कः खे चरति का रम्या का जप्या किं विभूषणम्॥  
 को वन्द्यः कीदृशी लङ्का वीर मर्कटकम्पिता॥५॥**
 
@@ -10787,8 +10384,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 ————————————————————————————————————————
 
 (५) खे कः चरति. विः पक्षी. रम्या रमा. जप्या ऋक्. विभूषणं कटकं. वन्द्यः पिता. लंका-वीरमर्कटैर्हनुमदादिभिः कम्पिता नाशितेत्यर्थः (६) हाराः स्तनमण्डलानि भूषयन्ति। उमा-महादेवरता तमातः रात्रितः (अयं प्रयोगो विचारणीयः) सीता किमाह हाराम, हादेवर, हातात, हामातः (७) रवेः सार-भा कान्तिः कवेः सार-गीःसमरस्य सार-रथी योद्धा. कृषे. भयं इतिः अनावृष्ट्यादिः भृङ्गाः किं उशन्ति इच्छन्ति-रस खलाद्भय केषा-आश्रितानां विष्णुपद केषा-भागीरथीतीरसमाश्रितानाम् (८) उषसि द्विजाः प्रतिदिनं क कुर्वन्ति-संध्यावन्दन. एवमग्रेप्यूह्यम्. (९) किं तृष्णाकारि-हेम. रथचरणसारं अराभिः सहितं. को रौति-गली प्रशस्तकण्ठः रौति गायति. अब्धिकाञ्चिः इला पृथ्वी. अपस्मारी-लाली लालावान्. भुजगे कि-गर विष. कलिशमनं सामसान्त्वं 'तह' इति लोके आर्यसंबोधन-हे. सुन्दर्यो का-हेला लीला. इन्दुः कथ मली मलवान् कलङ्कीति यावत् अचलभृतः सबुद्धिः-साग अगैर्वृक्षै. सहित. अग्नेर्बीज-रं. अवनिजा सीता तद्रमणो रामस्तन्मतिहरा-हेमसारङ्गलीला हेम्नः सुवर्णस्य सारङ्गो मृगस्तस्य लीला.
-
-
 
 **को निर्दग्धस्त्रिपुरीरपुणा कश्च कर्णस्य हन्ता  
 नद्याः कूलं विघटयति कः कः परस्त्रीरतश्च॥  
@@ -10822,8 +10417,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 (१०) त्रिपुररिपुणा को निर्दग्धः-मारः मदनः एवमग्रेपि दुःसगात् महता किं मानपूजापहारः मानपूजयोःअपहारः नाश. (११) सीमन्तिनीषु का शान्ता-सीता एवमग्रेपि चरणाद्यन्ताक्षरयोर्मेलनेनोत्तरम् (१२) कृष्णः क पुरुष सजघान मारितवान्-कंसः एवमग्रेपि (१३) चतुर्थपादस्थपदत्रयेण प्रश्नयस्योत्तरं (१४) अत्र पादाद्याक्षरद्वयविपर्यासेन उत्तर यथालङ्काभूपे इत्यत्र कालमित्यादि उत्तरार्धे केनेत्यस्य सुखेनेत्यर्थः (१५) अत्र चतुर्थपादस्थैः पञ्चभिः पदैरुत्तर. रावणेन सहितः कुम्भकर्ण. इय विपरीतपृच्छा (१६) चतुर्थपादस्थसिन्दूरबिन्दुरित्यादि पदत्रयेणोत्तरम् (१७) तक्रमित्यादि पदत्रयेण प्रश्नत्रयस्योत्तरम्
 
-
-
 **क्व वसति लघुजन्तुः किं निदानं हि वान्ते-  
 र्झटिति वद पशुं कंलम्बकण्ठं वदन्ति॥  
 प्रसवसमयदुःखं वेत्ति का कामिनीनां  
@@ -10848,8 +10441,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 ——————————————————————————————————————————————————
 
 (१८) तिलतुषेत्यादिपदचतुष्टयेन प्रश्नचतुष्टयस्योत्तरम् (१९) आजिवन्हौ सग्रामाग्नौ हुतनिजतनवस्त्यक्तनिजदेहाः क्व गच्छन्ति—स्वः स्वर्गम् स्वकूलं का भिनत्ति—धुनी नदी. विकल्पे किं योज्य—वा इत्यव्ययं. क्रकचनखचयैः करपत्रसदृशनखसमूहै. नृसिंहेन किं भिन्न—रिपूरःरिपोःउरःस्थल. दित्या प्रसूतिः कीदृक्—स्वर्धुनी स्वः स्वर्गे धूनयतीति स्वर्धुनी. धूञ्कंपने इतिचौरादेः अचइरिति औणादिक इ प्रत्यय. धूञ्प्रीञोरिति नुगागम. अनलशमन—वारि नृपैः पालनीया—पू.वन्द्यःअ विष्णु. त्रिभुवनकलुष स्वर्धुनीवारिपूरःप्रमार्ष्टि (२०) ना, अलिके, अर, इति आद्यप्रश्नत्रयस्य त्रीण्युत्तराणि. रके, अलिना, नालिकेर, इति उत्तरार्धस्थप्रश्नोत्तराणि अलिके भाले, अर शीघ्रं रके क्षुद्रे, बाह्ये अस्थि यस्यैवविधम् (२१) अत्र प्रश्नार्थकसर्वनामवाचकशब्द एवोत्तर. यथा मरौ मरुदेशे कस्य दुरधिगमः दुःखेन प्राप्तिःउ० कस्य उदकस्य एव कः ब्रह्मा. कैःमस्तकैः कुतः पृथिव्याः(२२) पृथ्वी-सम्बोधन-को इना कामेन, कविना यशःआप्यते.
-
-
 
 **कुत्रोदेत्युदयाचलस्य तरणी रम्या गतिः कस्य खे  
 कान्याभान्ति च किं करोति गणको यष्टिंविधृत्यैति कः॥  
@@ -10879,8 +10470,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 (२३) अत्र शृङ्गाग्रे इत्यादिभिरष्टभिः पदैः क्रमेणाष्टावुत्तराणि यथा-उदयाचलस्य कुत्र कस्मिन् प्रदेशे तरणिः. सूर्यः उदेति-शङ्गाग्रे. एवमग्रेप्यूह्यं. (२४) अत्र चतुर्थपादस्थचतुर्भिः पदैः क्रमेण चत्वारि उत्तराणि (२५) अत्रचतुर्थपादस्थैस्त्रिभिः पदैस्त्रीण्युत्तराणि. (२६) अत्र पूर्वार्धस्थप्रश्नचतुष्टयस्य चतुर्थपादस्थ यारा नदी दंश मा इत्येतानि चत्वारि उत्तराणि. याराःजारा उत्तरार्धस्थपञ्चमप्रश्नस्य हे मित्र एतादृशी दीपकलिका मया कदापि न दृष्टेत्यर्थक यारानदीदंशमेति यावनीभाषया उत्तर. (२७) मुरारिःके उदके शेते. वायसी वसतिः शवे. निषेधः न. स्त्रीणा रागः-नवे. सितिमा श्वेतत्व क्व-शेके यवन विशेषे. शौरिसंबोधनं-केशव अहिमाशोः सूर्यस्य सम्बुद्धिः-इन. विधिहर-वयसा संबुद्धयः-क्रमेण-क, ईश, वे. लुब्ध. कथ ब्रूते-नेति.
 
-
-
 **के वा वर्षासु न स्युर्बिसमिवहरिणा किं विदीर्णं नखाग्रै-  
 र्विन्ध्याद्रेः को विसर्पन् विघटयति तरून्नर्मदावारिपूरः॥२८॥**
 
@@ -10901,8 +10490,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 ——————————————————————————————————————————————————
 
 (२८) कचिद्राजान प्रति कवेरुक्तिरियं पुस सम्बोधन—न., करिणा रुचः शोभा. के विदधति—मदाः, अग्नेर्द्विषत्—वारि.रिपूणा शून्या का-पूः नगरी, नरवरेति सबोधन. नरक असुरं क. अबधीत्-अ विष्णु, रामक रमणीय किं-नर्म. वर्षासु के न स्यु.-दावाः, विसमिव हरिणा कि विदीर्णं—रिपूरःहिरण्यकशिपोरुरःस्थल. विन्ध्याद्रे. को विसर्पंस्तरून्विघटयति-नर्मदावारिपूर. (२९) मा लक्ष्मी., अमा अमावास्या, अमाः अभाग्याः, मीनकेतनः मदन। (१) उ० मृत्युञ्जयः अत्र पूर्वार्धस्थप्रश्नद्वयस्य पदद्वयेनोत्तरम् उत्तरार्धस्थ-प्रश्नस्य एकपदेनोत्तरम् (२) वयः पक्षिणस्तेषा राजा गरुडस्तद्राजा विष्णुस्तत्पुत्रो मदनस्तच्छत्रु. शिवस्तस्य. चतुरक्षरं नाम-मृत्युञ्जय इति तदर्धंमृत्युरिति तव शत्रूणा मन्दिरे उत्तरमर्धं जय इति तव मन्दिरे वसत्विति कस्यचित्पुरुषस्य राजानं प्रत्याशीर्वादः
-
-
 
 **पत्रं किं नृपतेः किमर्जुनधनुः को रामरामाहरो  
 मत्प्रश्नोत्तरमध्यमाऽक्षरपदं यत्तत्तवाशीर्वचः॥३॥**
@@ -10928,8 +10515,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 (४) अत्र दवेन वनवन्हिना विकल व्याकुलमित्यर्थकेन (दवविकलम्) इति समुदितान्तोत्तरे प्रथमाद्यक्षराणामन्त्याक्षरेण योजने पूर्वेषा चतुर्णांप्रश्नानामुत्तराणि भवन्ति. यथा प्रथमे किं भवतीति प्रश्ने दलमिति. एवमेवोत्तरत्र ववि इत्यत्र ववयो· सावर्ण्यात् (बलं, बिलं) इति कल अव्यक्तमधुरं इति. (५) 'मलापहा' इत्युत्तरम् (६) अर्थवदधातुरप्रत्ययः प्रातिपदिक, बुधः कीदृक्वचोब्रूते अर्थवत् एवमग्रेपि. (७) अन्धः अन्नं दृग्विहीनश्च. दानवाः दानवारि च दानोदकमित्यर्थः। तमः राहुः अन्धकारश्च। वयः पक्षिणः तारुण्य च. एतानि चत्वारि उत्तराणि प्रत्येकंप्रश्नद्वयस्य.
 
-
-
 **गता सा किं स्थानं पथि सह तया का स्थितवती  
 नृपेणेत्थं पृष्टा सखि चतुरदूती स्थितवती॥  
 विलोक्याऽलंकारं निजमथ च शाकं नरपतिं  
@@ -10951,8 +10536,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 ——————————————————————————————————————————————————
 
 (८) कश्चिद्राजा काचिन्नायिका स्वगृहमानयत् ततश्च तद्भर्तारमागतं दृष्ट्वा ता स्वगृहं प्रापयितु दूतीमाज्ञापयति स्म. सा च दूती ता स्वगृह प्रापय्य पुना राजनिकटे आगत्य स्थितवतीता प्रत्याह राजा सा किं स्वस्थान गता? गतवत्या तया सह पथि मार्गे का स्थितवती. एव राज्ञा पृष्टा चतुरा दूती स्थितवती सती निजमलकार 'पोहोची'ति भाषाप्रसिद्ध तथा शाक 'मेथी'ति भाषाप्रसिद्ध शाकविशेष च अवलोक्य तावन्मात्रेणैव नरपतिं निराकाक्षमुत्तरविषये आकाक्षारहित चक्रे एतदलकारशाकावलोकन कथ प्रभवति राज्ञोनैराकाङ्क्ष्यसंपादने कथ समर्थं भवतीति कथयेति कविप्रश्नः अत्र प्रथमप्रश्नस्य प्राप्तेत्यर्थक पोहोंचीति भाषयोत्तर. द्वितीयप्रश्नस्य तु अहमासमित्यर्थक भाषया मेथीत्युत्तरमिति तात्पर्य बोध्यम् (९) मुनयः कुत्र तपस्यन्तीति प्रश्ने शिखरिणि पर्वते इत्युत्तर सुराणा रिपुर्हिरण्यकशिपुस्तस्य रिपुर्विष्णुस्तस्य दयिता केति प्रश्ने ई लक्ष्मीरित्युत्तरम् कविप्रेयः कवीना प्रियवृत्त किमितिप्रश्नेशिखरिणीत्युत्तरम् (१०) मुरभिदः विष्णोरुरसि आलिङ्गिता मा लक्ष्मीः, अलिनी भ्रमरी, मालिनी. इति त्रीण्युतराणि क्रमेण(११) अबे, लाभः, अजिनम्, अवेलाभोजिन, इति चतुर्णांप्रश्नाना चत्वारि उत्तराणि.
-
-
 
 **को नयति जगदशेषं क्षयमथ बिभराम्बभूव कं विष्णुः॥  
 नीचः कुत्र सगर्वः पाणिनिसूत्रं च कीदृक्षम्॥१२॥**
@@ -10985,8 +10568,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [TABLE]
 
 (१६) उ० वपुषि अण्डजा. भेरीणा एकान्ते रक्षस्सु इति पञ्च प्रश्नोत्तराणि तन्मध्यवर्णघटितः पुण्डरीकाक्षः
-
-
 
 **भाषा दर्शयतेति वस्तुनि महाराष्ट्री कथं वा भवे-  
 दाद्यन्ताक्षरयोगलोपरचनाचातुर्यतः पूर्यताम्॥१७॥**
@@ -11033,8 +10614,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 (१७) दाखवाससारङ्गाः। अत्र प्रथमप्रश्नोत्तर सारङ्गः चातकः तत्रान्त्याक्षरलोपपूर्वर्क माद्याक्षरयोगे ससारं सबलमिति द्वितीयप्रश्नोत्तरं एवं सर्वत्रोह्यम्
 
 (१८) दुष्ट रत यस्य सः रतसामर्थ्याभावाद्वर्जित इत्यर्थ
-
-
 
 **यत्पादाः[^2173] शिरसा न केन विधृताः पृथ्वीभृतां[^2174] मध्यत-  
 स्तस्मिन्भास्वति[^2175] राहुणा कवलिते[^2176] लोकत्रयीचक्षुषि॥  
@@ -11083,8 +10662,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **येनोन्मथ्य तमांसि मांसलङ्घनस्पर्धानि सर्वं जग-  
 च्चक्षुप्मत्परमार्थतः कृतमिदं देवेन तिग्मत्विषा॥**
-
-
 
 **तस्मिन्नस्तमिते विवस्वति कियान् क्रूरो जनो दुर्जनो  
 यद्बध्नाति धृतिं शशाङ्कशकलालोके प्रदीपेऽथवा॥१२॥**
@@ -11138,8 +10715,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2192]: "लाञ्छनम्"
 
-
-
 **मारस्य[^2193] मित्रमसि किं च सुधामयूख  
 शंभावपि प्रणयितां[^533] प्रकटीकरोषि॥  
 विश्वासपात्रमसि यद्द्विवतोस्तयोर-  
@@ -11190,8 +10765,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 स्तारामौक्तिकशुक्तिरन्धतमसस्तम्बेरमस्याऽङ्कुशः॥**
 
 [^2204]: "वराह"
-
-
 
 **शृङ्गाराऽर्गलकुञ्चिका[^2205]विरहिणीमर्मच्छिदा कर्तरी  
 सायं वारवधूनखक्षतमियं चान्द्री कला राजते॥१३॥**
@@ -11247,8 +10820,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2215]: "कलङ्किनः"
 
-
-
 **शुक्ले पक्षे शीतरश्मिर्बलीयान् न प्राधान्यं तारकायास्तु दृष्टम्॥  
 शक्त्या युक्तेविद्यमानेऽपि कान्ते न प्राधान्यं योषितां क्वाऽपि दृष्टम्॥२३॥**
 
@@ -11290,8 +10861,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **निजकरनिकरसमृद्ध्याधवलय भुवनानि पार्वणशशाङ्क॥  
 सुचिरं हन्त न सहते विधिरिह सुष्ठु स्थितं कमपि॥३०॥**
-
-
 
 **यज्जातोसि पयोनिधौ हरजटाजूटे प्रसिद्धोसि य-  
 द्विश्वस्योदरदीपकोसि विधिना सृष्टोसि यच्चामृतैः॥  
@@ -11335,8 +10904,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **चातकः स्वाऽनुमानेन जलं प्रार्थयतेऽम्बुदात्॥  
 स स्वोदारतया सर्वां प्लावयत्यम्बुना महीम्॥८॥**
-
-
 
 **शैलेयेषु शिलातलेषु च गिरेः शृङ्गेषु गर्तेषु च  
 श्रीखण्डेषु बिभीतकेषु च तथा पूर्णेषु रिक्तेषु च॥  
@@ -11385,8 +10952,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 रे पान्थ विह्वलमना न मनागपि स्याः॥  
 विश्वाऽर्तिवारणसमर्पितजीवनोऽयं  
 नाऽऽकर्णितः किमु सखे भवताऽम्बुवाहः॥१६॥**
-
-
 
 **नोपेक्षा न च दाक्षिण्यं न प्रीतिर्न च सङ्गतिः॥  
 तथाऽपि हरते तापं लोकानामुद्यतो घनः॥१७॥**
@@ -11438,8 +11003,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 नानानदीनदशतानि च पूरयित्वा  
 रिक्तोसि यज्जलद सैव तवोत्तमश्री॥२४॥**
 
-
-
 **कालातिक्रमणं कुरुष्व नितरां विस्फूर्जितैस्त्रासय  
 स्फारैर्भीषय गर्जितैरतितरां कार्यं मुखे दर्शय॥  
 अस्यानन्यगतेः पयोदमनसो जिज्ञासया चातक-  
@@ -11477,8 +11040,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **अलिपटलैरनुयातां सहृदयहृदयज्वरं विलुम्पन्तीम्॥  
 मृगमदपरिमलंलहरीं समीर किं पामरेषु रे किरसि॥४॥**
-
-
 
 **ये जात्या लघवः सदैव गणनां याता न ये कुत्रचित्  
 पद्भ्यामेव विमर्दिताः प्रतिदिनं भूमौ विलीनाश्चिरम्॥  
@@ -11518,8 +11079,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **सिंहः शिशुरपि निपतति मदमलिनकपोलभित्तिषु गजेषु॥  
 प्रकृतिरियं सत्त्ववतां न खलु वयस्तेजसो हेतुः॥३॥**
-
-
 
 **एकोऽहमसहायोऽहं कृशोऽहमपरिच्छदः[^2250]॥  
 स्वप्नेऽप्येवंविधा चिन्ता मृगेन्द्रस्य न जायते॥४॥**
@@ -11579,8 +11138,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2261]: "उत्कर्षम्"
 
-
-
 **उत्तङ्गशैलशिखरस्थितपादपस्य  
 काकोऽपि पक्वफलमालभते सपक्षः॥  
 सिंहो बली गजविदारणदारुणोऽपि  
@@ -11622,8 +11179,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 गलद्दानोद्रेकभ्रमदलिकदम्बाः करटिनः॥**
 
 [^2266]: "स्थितिम्"
-
-
 
 **लुठन्मुक्ताहारे भवति परलोकं गतवतो  
 हरे[^2267]रद्य द्वारे शिवशिव शिवानां[^2268] कलकलः॥२१॥**
@@ -11673,8 +11228,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **कर्णे चामरचारुचञ्चुकलिका कण्ठे मणीनां गणः  
 सिन्दूरप्रकरः शिरःपरिसरे पार्श्वान्तिके किङ्किणी॥**
 
-
-
 **लब्धश्चेन्नृपवाहनेन करिणा बद्धेन भूषाविधि-  
 स्तत्किंभूधरधूलिधूसरतनुर्मान्यो न वन्यो गजः॥३॥**
 
@@ -11719,8 +11272,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **नाऽभूवन् भुवि यस्य कुत्रचिदपि स्पर्धाकराः कुञ्जराः  
 सिंहेनाऽपि न लङ्घिता किमपरं यस्योद्धता पद्धतिः॥**
-
-
 
 **कष्टं सोऽपि कदर्थ्यते[^2282] कविवरः स्फाराऽऽरवैः फेरवै-  
 रापातालगभीरपङ्कपटलीमग्नोऽद्य भग्नोद्यमः[^2283]॥९॥**
@@ -11769,8 +11320,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2289]: "शबरस्त्री."
 
-
-
 **नो मन्ये दृढबन्धनात्क्षतमिदं नैवाऽङ्कुशाऽऽघातनं  
 स्कन्धाऽऽरोहणताडनात्परिभवं नैवाऽन्यदेशागमम्॥  
 चिन्तां मे जनयन्ति[^2290] चेतसियथा स्मृत्वा स्वयूथ्या वने  
@@ -11815,8 +11364,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2295]: "सिंहविहारस्थानस्य."
 
-
-
 **अयि कुरङ्गि[^2296]तपोवनविभ्रमा[^2297]दुपगताऽसि किरातपुरीमिमाम्॥  
 इह न पश्यसि दारय मारय ग्रस पिबेति शुकानपि जल्पतः॥३॥**
 
@@ -11860,8 +11407,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **नाऽत्र व्याधशराः पतन्ति परितो नैवाऽत्र दावानलो  
 नाऽप्युच्चावचभीतिरस्ति कुहचिन्नो वागुरा भङ्गुराः॥**
 
-
-
 **पर्यालो य कुरङ्गकेन विहितो नक्षत्रनाथाऽऽश्रयो  
 नो जानाति यदत्र दास्यति विधिः स्वर्भानुदन्तव्रणम्॥११॥**
 
@@ -11904,8 +11449,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **चिन्तां मुञ्च गृहाण पल्लवमिदं प्लक्षस्य शालस्य वा  
 गाङ्गस्याऽस्य जलस्य चन्द्रवपुषो गण्डूषमेकं पिब॥**
-
-
 
 **जीवन्द्रक्ष्यसि ताः पुनः करभ हे दासेरकीया भुवो  
 रम्याः पीलुशमीकरीर[^2307]बदरीकूजत्कपोताऽऽकुलाः॥४॥**
@@ -11954,8 +11497,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2313]: "वालुकामयमार्गे"
 
-
-
 **मार्गे कर्दमदुर्गमे जलमृते गर्ताशतैरा[^2314]कुले  
 खिन्ने शाकटिके[^2315] भरेऽतिविषमे दूरंगते रोधसि॥  
 शब्देनैतदहं ब्रवीमि महता कृत्वोच्छ्रितां तर्जनी-  
@@ -11999,8 +11540,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 कान्ताचञ्चुपुटाऽपवर्जितबिसग्रासग्रहेऽप्यक्षमः  
 सोऽयं संप्रति हंसको मरुगतः कौपं पयो याचते॥४॥**
 
-
-
 तरौ तीरोद्भूते क्वचिदपि दलाऽऽच्छादिततनुः  
 पतद्धारासारां गमय विषमां प्रावृषमिमाम्॥  
 निवृत्तायां तस्यां सरसि सरसोत्फुल्लनलिने  
@@ -12036,8 +11575,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 कारण्डकाकबककोककुलं प्रविष्टः॥  
 मूकोऽयमित्युपहसन्ति लुनन्ति पक्षा-  
 न्नीचाऽऽश्रयो हि महतामपमानहेतुः॥१०॥ 
-
-
 
 **यदि नाम दैवगत्या जगदसरोजं सदैव संजातम्॥  
 अवकरनिकरं[^2322] विकिरति तत्किं कृकवाकु[^2323]रिव हंसः॥११॥**
@@ -12080,8 +11617,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **वहति बहलगर्वं क्षीरनीरप्रपन्न  
 प्रणयविघटनेन क्ष्मातलेऽयं मरालः॥**
-
-
 
 **निपुणमतिमहान्तं टङ्कणं हेम मन्ये  
 विघटितघटनं यः स्वाङ्गदानात्करोति॥१८॥**
@@ -12126,15 +11661,15 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2331]: "माधवीलताम्"
 
-
-
 **केतकीकुसुमं भृङ्गः खण्ड्यमानोपि सेवते॥  
 दोषाः किं नाम कुर्वन्ति गुणाऽपहृतचेतसः[^2332]॥८॥**
 
 [^2332]: "गुणाकृष्टान्तःकरणस्य"
 
-**[मदनम](http://॑# "मदनवाणाख्यं पुष्पम्")वलोक्य निष्फलमनित्यतां बन्धुजीवकुसुमानाम्॥  
+**मदनम[^3180]वलोक्य निष्फलमनित्यतां बन्धुजीवकुसुमानाम्॥  
 वनमुपगम्य भ्रमरः संप्रति जातो दयासक्तः॥९॥**
+
+[^3180]: "मदनवाणाख्यं पुष्पम्"
 
 **फुल्लेषु यः कमलिनीकमलोदरेषु  
 चूतेषु यो विलसितः कलिकाऽन्तरस्थः॥  
@@ -12165,8 +11700,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **मधुकरगणश्चूतं त्यक्त्वा गतो नवमल्लिकां  
 पुनरपि गतो रक्ताऽशोकं कदम्बवनं ततः॥**
-
-
 
 **तदपि सुचिरं स्थित्वा तेभ्यः प्रयाति सरोरुहं  
 परिचितजनद्वेषीलोको नवंनवमीहते॥१५॥**
@@ -12204,9 +11737,9 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2337]: "रवं कुरु "
 
 **येनाऽऽमोदिनि केसरस्य मुकुले पीतं मधु स्वेच्छया  
-नीता येन निशाः शशाङ्गधवलाः पद्मोदरे [शारदीः](http://॑# "शरत्सम्बन्धिनीः")॥**
+नीता येन निशाः शशाङ्गधवलाः पद्मोदरे शारदीः[^3181]॥**
 
-
+[^3181]: "शरत्सम्बन्धिनीः"
 
 **भ्रान्तं येन मदप्रवाहमालिने गण्डस्थले दन्तिनां  
 सोऽयं भृङ्गयुवा करीरविटपे बध्नाति तुष्टिं कुतः॥२२॥**
@@ -12271,8 +11804,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2354]: "काकसमानवर्णम्."
 
-
-
 **रेरे कोकिल मा भज मौनं किंचिदुदञ्चय पञ्चमरागम्॥  
 नो चेत्त्वामिह को जानीते काककदम्बकपिहिते चूते॥२॥**
 
@@ -12330,8 +11861,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **रे बाल कोकिल करीरमरुस्थलीषु  
 किं दुर्विदग्धमधुरध्वनिमातनोषि॥**
 
-
-
 **अन्यः स कोपि सहकार[^1988]तरुप्रदेशो  
 राजन्ति यत्र तव विभ्रमभाषितानि॥१०॥**
 
@@ -12381,8 +11910,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **चातकस्य खलु चञ्चुसंपुटे नो पतन्ति किल वारिबिन्दवः॥  
 सागरीकृतमहीतलस्य किं दोष एव जलदस्य दीयते॥३॥**
 
-
-
 **सत्यंसत्यं मुनेर्वाक्यं नाऽदत्तमुपतिष्ठति॥  
 अम्बुभिः पूरिता पृथ्वी चातकस्य मरुस्थली॥४॥**
 
@@ -12419,8 +11946,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **अन्ये ते जलदायिनो जलधरास्तृष्णां विनिघ्नन्ति ये  
 भ्रातश्चातक किं वृथा विरुदितैः खिन्नोऽसि विश्राम्यताम्॥**
-
-
 
 **मेघः शारद एवकाशधवलः[^2377] पानीयरिक्तोदरो  
 गर्जत्येव हि केवलं भृशतरं नो बिन्दुमप्युज्झति॥११॥**
@@ -12471,8 +11996,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2385]: "मरणपर्यन्तम्"
 
-
-
 **अखिलेषु विहङ्गेषु हन्त स्वच्छन्दचारिषु॥  
 शुकपञ्जरबन्धस्ते मधुराणां गिरां फलम्॥२॥**
 
@@ -12507,8 +12030,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **द्राक्षां प्रदेहि मधु वा वदने निधेहि  
 देहे विधेहि किमु वा करलालनानि॥**
 
-
-
 जातिस्वभावचपलः पुनरेष कीर-  
 स्तत्रैव यास्यति कृशोदरि मुक्तबन्धः॥९॥
 
@@ -12541,8 +12062,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 मन्दं याहि मनोरमां वद गिरं मौनं न संपादय॥  
 धन्यस्त्वं बकराज हंसपदवीं प्राप्तोऽसि किं तैर्गुणै-  
 र्नीरक्षीरविभागकर्मनिपुणा शक्तिः कथं लभ्यते॥२॥
-
-
 
 **जातिस्तस्य[^2387] न मानसे न शुचिभि[^2388]र्वृत्ति[^2389]र्मृणालाऽङ्कुरै-  
 र्न ब्रह्मोद्वहनेन[^2390] निर्मलयशः प्राप्ता न वाचः कलाः॥  
@@ -12588,8 +12107,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 अन्धंसमग्रमपि कीटमणे भविष्य-  
 त्युन्मेषमेष्यति भवानपि दूरमेतत्॥२॥**
 
-
-
 **अदृष्टव्यापारं[^2394] गतवति दिनानामधिपतौ  
 यशःशेषीभूते[^2395] शशिनि गतधाम्नि[^2396] ग्रहगणे॥  
 तथा ध्वान्तं जातं जगदुपगते मेघसमये  
@@ -12634,8 +12151,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 येयं निम्बफलेषु काक भवतस्तिक्तेषु नैसर्गिकी  
 प्रीतिस्तत्सदृशं विधेर्विलसितं निष्पन्नमेतच्चिरात्॥६॥**
 
-
-
 **विधिरेव विशेष[^2400]गर्हणीयः करट[^2401] त्वं रट[^2402]कस्तवाऽपराधः॥  
 सहकारतरौ चकार यस्ते सहवासं सरलेन कोकिलेन॥७॥**
 
@@ -12676,8 +12191,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 प्रथयति तव कीर्तिं दक्षिणाऽऽवर्तशङ्खः[^2404]॥**
 
 [^2404]: "दक्षिणभागे आवर्तो यस्य एतादृशः शङ्खः"
-
-
 
 **परिकलय[^2405] पयोधे पद्मनाभा[^2406]ऽर्धयोग्यं  
 तव निकटनिषण्णैः क्षुल्लकैः[^2407] श्लाघ्यता का॥२॥**
@@ -12732,8 +12245,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2416]: "पाषाणसमूहैः"
 
-
-
 **एवं वीक्ष्य तवाऽविकेकमथ च प्रौढिंपरामुन्नतेः  
 किं निन्दाम्यथवा स्तवीमि कथय क्षीरार्णव त्वामहम्॥१०॥**
 
@@ -12777,8 +12288,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **शक्रादरक्षि यदि पक्षयुगं तथाऽपि  
 मैनाक सन्ति तव नेह गतागतानि॥**
-
-
 
 **निःसत्त्वता[^2422] च निरपत्रपता[^2423] च किंतु  
 पाथोनिधौ निवसता भवताऽर्जिता च॥५॥**
@@ -12829,8 +12338,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **तटिनि चिराय विचारय विन्ध्यभुवस्तव पवित्रायाः॥  
 शुष्यन्त्या अपि युक्तं किं खलु रथ्योदकाऽऽदानम्॥५॥**
-
-
 
 **तडागान्योक्तयः।**
 
@@ -12886,8 +12393,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2442]: "ग्रीष्मे"
 
-
-
 **कमलान्योक्तयः।**
 
 **श्रीः॥ रेपद्मिनीदल तवाऽत्र मया चरित्रं  
@@ -12935,8 +12440,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **उदितवति द्विजराजे कस्य न हृदयं मुदं परां धत्ते॥  
 संकुचसि कमल यदयं हरहर वामो विधिर्भवतः॥९॥**
 
-
-
 **अन्तश्छिद्राणि भूयांसि कण्टका बहवो बहिः॥  
 कथं कमलनालस्य नाऽभूवन् भङ्गुरा गुणाः॥१०॥**
 
@@ -12983,8 +12486,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **श्रीः॥ चित्रं न तद्यदयमम्बुधिरम्बुदौघ  
 सिन्धुप्रवाहपरिपूर्णतया महीयान्॥**
-
-
 
 **त्वं त्वर्थिनामुपकरोषि यदल्पकूप  
 निष्पीड्य कुक्षियुगलं हि महत्त्वमेतत्॥१॥**
@@ -13039,8 +12540,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **विध्वस्ता मृगपक्षिणो विधुरतां नीता स्थलीदेवता  
 धूमैरन्तरिताः स्वभावमलिनैराशामही तापिता॥**
 
-
-
 **भस्मीकृत्य सुपुष्पपल्लवफलैर्नम्रान्महापादपा-  
 नुद्वृत्तेन दवानलेन विपिनं वल्मीकशेषं[^2469]") कृतम्॥४॥**
 
@@ -13093,8 +12592,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **श्रीः॥ कीटगृहं कुटिलोऽन्तःकठिनः क्षाराऽम्बुसंभवः शून्यः॥  
 शङ्खः श्रीपतिनिकटे केन गुणेन स्थितिं लेभे॥१॥**
 
-
-
 **तातः क्षीरनिधिः स्वसा[^2477] जलधिजा[^2478] भ्राता सुरेशद्रुमः  
 सौजन्यं सह कौस्तुभेन शुचिता यस्य द्विजेशादपि॥  
 धिक्कर्माणि स एव कम्बुरधुना पाखण्ड[^2479]कान्ताकरे  
@@ -13138,8 +12635,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2482]: "व्याप्तम्"
 
 [^2483]: "स्वभावतो महान्तः"
-
-
 
 **तीव्रो निदाघसमयो बहुपथिकजनश्च मारवः[^2484] पन्थाः॥  
 मार्गस्थिततरुरेकः कियतां संतापमपहरति॥५॥**
@@ -13191,8 +12686,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **शाखोटशाल्मलिपलाशकरीरकाद्याः  
 शृण्वन्तु पुण्यनिलयो यदसौ वसन्तः॥**
 
-
-
 **युष्मभ्यमर्पयति पल्लवपुष्पलक्ष्मीं  
 सौरभ्यसंभवविधिस्तु विधेरवीनः॥१२॥**
 
@@ -13231,8 +12724,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 मुक्ताभिस्तबकश्रियो मधुलिहां वृन्दानि नीलोत्पलैः॥  
 संकल्पाऽनुविधायि यस्य फलितं कस्तस्य धत्ते तुलां  
 धिग्जातु द्रुमसत्कथासु यदयं कल्पद्रुमोऽपि द्रुमः ॥२॥**
-
-
 
 **औदार्यंभुवनत्रयेऽपि विदितं सम्भूति[^2496]रम्भोनिधे-  
 र्वासो[^2497] नन्दनकानने[^2498] परिमलो[^2499] गीर्वाणचेतोहरः॥  
@@ -13285,8 +12776,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **यद्यपि चन्दनविटपी विधिना फलकुसुमवर्जितो विहितः॥  
 निजवपुषैव परेषां तथाऽपि संतापमपनयति॥५॥**
 
-
-
 **मूलं भुजङ्गः शिखरं विहङ्गैः शाखाः प्लवङ्गैः[^2506] कुसुमानि भृङ्गैः॥  
 नांऽस्त्येव तच्चन्दनपादपस्य यन्नाऽऽश्रितं सत्त्वभरैः समन्तात्॥६॥**
 
@@ -13337,8 +12826,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **उद्यानपालकलशाऽम्बुनिषेचनाना-  
 मेतस्य चम्पकतरोरयमेव कालः॥**
 
-
-
 **अस्मिन्निदाघनिहते घनवारिणा वा  
 संवर्धिते तव वृथोभयथोपयोगः॥२॥**
 
@@ -13382,8 +12869,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2520]: "कान्तापादघातः पादाहतः प्रमदया विकसत्यशोकः शोकं जहाति वकुलो मुखसीधुसिक्तः। आलिङ्गितः कुरुबकः कुरुते विकासमालोकितस्तिलक उत्कलिको विभातीत्यभियुक्तवचनम्"
 
-
-
 **मालत्यन्योक्तयः।**
 
 **किं मालतीकुसुम ताम्यसि[^2521] निष्ठुरेण  
@@ -13426,8 +12911,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **मालतीकुसुमे भाति गुञ्जन्मत्तमधुव्रतः॥  
 प्रयाणे पञ्चबाणस्य शङ्खमापूरयन्निव॥७॥**
-
-
 
 **मल्लिकान्योक्तिः।**
 
@@ -13475,8 +12958,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2534]: "कर्णभूषणम्."
 
-
-
 **उद्यानमण्डनतरोः सहकार सत्व-  
 मङ्गारकारकरगोचरतां गतोऽसि॥२॥**
 
@@ -13511,8 +12992,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 लज्जावशादुचित एव विनाशयोगः॥  
 एतत्तु चित्रमुपकृत्य फलैः परेभ्यः  
 प्राणान्निजाञ्झटिति यत्कदली जहाति॥१॥**
-
-
 
 **द्राक्षान्योक्ती।**
 
@@ -13553,8 +13032,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 भूर्जद्रुमस्य विफलत्वसमर्थनेन॥**
 
 [^2538]: "दुर्जनत्वम्"
-
-
 
 **किं चर्मभिर्निशितशस्त्रशताऽवकृत्तै-  
 राशां न पूरयति सोऽर्थिपरंपराणाम्॥१॥**
@@ -13599,8 +13076,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2542]: "काकाः "
 
 [^2543]: "'गिधाड' इति प्रसिद्धाः"
-
-
 
 **निम्बान्योक्तयः।**
 
@@ -13648,8 +13123,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2551]: "पलाशवृक्ष"
 
-
-
 **शाखोटान्योक्तिः**
 
 **कस्त्वं भोः कथयामि दैवहतकं मां विद्धि शाखोटकं  
@@ -13686,8 +13159,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2552]: "गुडशर्करादिः।"
 
-
-
 **न संप्राप्तो वृद्धिं यदि सभृशमक्षेत्रपतितः  
 किमिक्षोर्दोषोऽसौ न पुनरगुणाया मरुभुवः॥१॥**
 
@@ -13723,8 +13194,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **उचितं नाम नारिङ्ग्यां केतक्यामपि कण्टकाः॥  
 रसगन्धोज्झिते किं ते कण्टकाः कण्टकारिके॥१॥**
-
-
 
 **धत्तूरान्योक्ती।**
 
@@ -13768,8 +13237,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **निसर्गादारामे तरुकुलसमारोपसुकृती॥  
 कृती मालाकारो बकुलमपि कुत्राऽपि निदधे॥**
-
-
 
 **इदं को जानीते यदयमिह कोणाऽन्तरगतो  
 जगज्जालं कर्ता कुसुमभरसौरभ्यभरितम्॥१॥**
@@ -13838,8 +13305,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **युक्तोऽसि भुवनभारे मा वक्रां वितनु कंधरां शेष॥  
 त्वय्येकस्मिन् दुःखिनि सुखितानि भवन्ति भुवननानि॥५॥**
 
-
-
 **शैत्यं नाम गुणस्तवैव तदनु स्वाभाविकी स्वच्छता  
 किं ब्रूमः शुचितां भजन्त्यशुचयः स्पर्शेन यस्याऽपरे॥  
 किंवाऽतः परमुच्यते स्तुतिपदं यज्जीवनं देहिनां  
@@ -13884,8 +13349,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2585]: "आचरितम्"
 
 [^2586]: "सुवर्णरूपम्"
-
-
 
 **मुग्धाऽपाङ्गकपोलचुम्बनसुखं संगश्च रत्नोत्तमैः  
 प्राप्तः कुण्डल वांछसे किमपरं यन्मूढ दोलायसे॥१२॥**
@@ -13934,8 +13397,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 हे चक्र धैर्यमवलम्ब्य विमुञ्च शोकं  
 धीरास्तरन्ति विपदं न तु दीनचित्ताः॥१८॥**
 
-
-
 **हंसः प्रयाति शनकैर्यदि यातु तस्य  
 नैसर्गिकी गतिरियं हि न तत्र चित्रम्।  
 गत्या तया जिगमिषुर्बक एव मूढ-  
@@ -13975,8 +13436,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 मल्लीवधूर्मधुपरागवती बभूव।  
 दृष्ट्वाऽपि तत्कुटिलतां न जहाति चूतः  
 प्रायः कुजातिनिहेषु कुतोऽभिमानः॥२८॥**
-
-
 
 **आबद्धकृत्रिमसटाजटिलांऽसभित्ति-  
 रारोपितो मृगपतेः पदवीं यदि श्वा।  
@@ -14018,8 +13477,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2602]: "काञ्चनलेपेन गोपिता वाह्याताम्रा आकृतिर्यस्य"
 
 [^2603]: "'कलस' इति लोके"
-
-
 
 **ताम्रत्वं गतमेव काञ्चनमयी कीर्तिः स्थिता तेऽधुना  
 नान्तस्तत्त्वविचारणप्रणयिनो लोका बहिर्बुद्धयः॥३५॥**
@@ -14072,8 +13529,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2612]: "निष्करुणः"
 
-
-
 **भूपानां भवनेषु किंच विमलक्षेत्रेषु गूढाशयाः  
 साधूनामरयो वसन्ति कति न त्वत्तुल्यकक्षाः खलाः॥४३॥**
 
@@ -14108,8 +13563,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **अज्ञतया प्रेम्णा वा चूडामणिमाकलय्य काचमणिम्।  
 नृपतिर्वहेत शिरसा तेनाऽसौ नह्यनर्व्यमणिः ॥५२॥**
-
-
 
 **कस्तूरिकान्योक्तयः।**
 
@@ -14154,8 +13607,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **अदाता पुरुषस्त्यागी धनं संत्यज्य गच्छति।  
 दातारं कृपणं मन्ये मृतोऽप्यर्थं न मुञ्चति॥५॥**
-
-
 
 **दातव्यं भोक्तव्यं सति विभवे संग्रहो न कर्तव्यः।  
 पश्येदं मधुकरिणां[^2619] संचितमर्थं हरन्त्यन्ये॥६॥**
@@ -14207,8 +13658,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **भोज्यं भोजनशक्तिश्च रतिशक्तिर्वरस्त्रियः।  
 विभवो दानशक्तिश्च नाऽल्पस्य तपसः फलम्॥१६॥**
-
-
 
 **वरमुन्नतलाङ्गूला[^2628]त्सदाधूनन[^2629]भीषणात्।  
 सिंहात्पादप्रहारोऽपि न शृगालाऽधिरोहणम्॥१८॥**
@@ -14266,8 +13715,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2639]: "तिर्यग्जातीयाः पशव इत्यर्थः"
 
-
-
 **विद्याऽभ्यासो विचारश्च समयोरेव शोभते।  
 विवाहश्च विवादश्च समयोरेव शोभते॥२८॥**
 
@@ -14304,8 +13751,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **सुहृदि निरन्तरचित्ते गुणवति भृत्ये प्रियासु नारीषु।  
 स्वामिनि शक्तिसमेते निवेद्यदुःखं जनः सुखी भवति॥३८॥**
-
-
 
 **अर्थाऽऽतुराणां न गुरुर्न बन्धुः कामातुराणां न भयं न लज्जा।  
 विद्यातुराणां न सुखं न निद्रा क्षुधातुराणां न रुचिर्न वेला॥३९॥**
@@ -14352,8 +13797,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **अर्था हसन्त्युचितदानविहीनलुब्धं  
 भूम्यो हसन्ति मम भूमिरिति ब्रुवाणम्।**
-
-
 
 **जारा हसन्ति तनयानुपलालयन्तं  
 मृत्युर्हसत्यवनिपं रणरङ्गभीरुम्॥५३॥**
@@ -14404,8 +13847,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2652]: "करेण महणं धारण, पक्षे करग्रह. पाणिग्रहः"
 
 [^2653]: "सूत्रनिर्मिता पक्षे पातिव्रत्यदाक्षिण्यादिगुणयुक्ता."
-
-
 
 मता जठरपूर्तये भुजशिरः[^2654] समारोपिता  
 मनोहरति र्धोगेटी[^2655] युवतिवत्प्रवासे नृणाम्॥६४॥
@@ -14460,8 +13901,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 तृणैर्गुणत्व[^2668]मापन्नैर्बध्यन्ते मत्तदन्तिनः॥७१॥
 
 [^2668]: "रज्जुत्वम्."
-
-
 
 **कृतार्थः स्वामिनं द्वेष्टि कृतदारस्तु[^2669] मातरम्।  
 जाताऽपत्या पति द्वेष्टि गतरोगश्चिकित्सकम्[^1111]॥७२॥**
@@ -14521,8 +13960,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2681]: "गुणसमुदायः"
 
-
-
 वैद्या वदन्ति कफपित्तमरुद्विकारान्  
 ज्योतिर्विदोग्रहगतिंपरिवर्तयन्ति।  
 भूता[^2682]ऽभिषङ्ग इति भूतविदो वदन्ति  
@@ -14566,8 +14003,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2688]: "द्विजाः द्विजन्मानो ब्राह्मणादयस्तेषामवनं रक्षण तस्मिन् महासमर्थः पक्षे द्विजाः दन्ता"
 
 [^2689]: "सारं श्रेष्ठवस्तु मोक्षादि तस्य संधान सविभजतीति. पक्षे सारः खदिरसारस्तेन संधानं सम्यड्मेलनं भजतीति."
-
-
 
 **सदैव सुधया[^2690]ऽशनं भवति यस्य विष्णोः सम-  
 स्तमाखुरिति सेव्यतां भवति वै यतो रागिता[^2691]॥८९॥**
@@ -14615,8 +14050,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **कृते च रेणुका कृत्या त्रेतायां जानकी तथा।  
 द्वापरे द्रौपदी कृत्या कलौ कृत्या गृहेगृहे॥९७॥**
-
-
 
 **विद्वान् संसदि[^2699] पाक्षिकः[^2700] परवशो मानी दरिद्रो गृही[^2701]  
 वित्ताढ्यः कृपणः सुखी परवशो वृद्धो न तीर्थाऽऽश्रितः।  
@@ -14673,8 +14106,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **जलबिन्दुनिपातेन क्रमशः पूर्यते घटः।**
 
-
-
 **स हेतुः सर्वविद्यानां धर्मस्य च धनस्य च॥७॥**
 
 **सुपात्रदानाच्च भवेद्धनाऽऽढ्यो धनप्रभावेण करोति पुण्यम्।  
@@ -14717,8 +14148,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2714]: " अवमानः"
 
 **घृतं न श्रूयते कर्णे दधि स्वमेऽपि दुर्लभम्।**
-
-
 
 **मुग्धे दुग्धस्य का वार्ता तक्रं शक्रस्य दुर्लभम्॥१७॥**
 
@@ -14763,8 +14192,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2719]: " लक्ष्मणः"
 
 [^2720]: " भाण्डारगृहम्."
-
-
 
 **यथा चतुर्भिः कनकं परीक्ष्यते निघर्षणच्छेदनतापताडनैः।  
 तथा चतुर्भिः पुरुषः परीक्ष्यते श्रुतेन शीलेन कुलेन कर्मणा॥२६॥**
@@ -14816,8 +14243,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **शत्रुवाक्याऽमृतं श्रुत्वा तेन सौहार्दमार्जवम्।**
 
-
-
 **नहि धीरेण कर्तव्यमात्मनः शुभमिच्छता॥३६॥**
 
 **अरण्यं सारङ्गै[^2729]र्गिरिकुहरगर्भाश्च हरिभि[^2730]-  
@@ -14863,8 +14288,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **विप्रेभ्यः साधुदानं रिपुजनसुहृदां चोपकारान् कुरु त्वं  
 सौजन्यं बन्धुवर्गे निजहितमुचितं स्वामिकार्यं यथार्थम्।**
 
-
-
 **श्रोत्रे ते तथ्यमेतत्कथयति सततं लेखनी भाग्यशालि-  
 न्नोचेन्नष्टेऽधिकारे मम मुखसदृशं तावकाऽऽस्यं भवेद्धि॥४३॥**
 
@@ -14904,8 +14327,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **धर्मं प्रसङ्गादपि नाऽचरन्ति पापं प्रयत्नेन समाचरन्ति।  
 आश्चर्यमेतद्धि मनुष्यलोकेऽमृतं परित्यज्य विषं पिबन्ति॥५०॥**
-
-
 
 **मित्रं स्वच्छतया रिपुं नयबलै[^2740]र्लुब्धं धनैरीश्वरं  
 कार्येण द्विजमादरेण युवतिं प्रेम्णा शमैर्बान्धवान्।  
@@ -14959,8 +14380,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2751]: " मूर्खे 13 खञ्जरीटनयनानाम्"
 
-
-
 **गुणेषुक्रियतां यत्नः किमाटोपैः[^2752] प्रयोजनम्।  
 विक्रीयन्ते न घण्टाभिर्गावः क्षीरविवर्जिताः॥५७॥**
 
@@ -15005,8 +14424,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **चत्वारो धनदायादा धर्माऽग्निनृपतस्कराः।  
 तेषां ज्येष्ठाऽवमानेन त्रयः कुप्यन्ति बान्धवाः॥६५॥**
-
-
 
 धन्या गोकुलकन्या वयमिह मन्यामहे जगति।  
 यासां नयनसरोजेष्वञ्जनभूतो निरञ्जनः साक्षात्॥६६॥
@@ -15059,8 +14476,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 परैः प्रोक्ता गुणा यस्य निर्गुणोऽपि गुणी भवेत्।  
 इन्द्रोऽपि लघुतां याति स्वयं प्रख्यापितैर्गुणैः॥७३॥
-
-
 
 **क्षोणीशा[^2770]ऽश्रयिणां परोपकरणाऽभावादवाऽऽप्तश्रियां[^2771]  
 कार्पण्यात्सुधियामनध्ययनतो यूनां प्रवासाऽऽश्रयात्।  
@@ -15125,8 +14540,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2784]: "मूर्खैः"
 
-
-
 **कः शूरो विजितेन्द्रियः प्रियतमाकाऽनुव्रता किं धनं  
 विद्या किं सुखमप्रवासगमनं राज्यं किमाज्ञाफलम्॥८२॥**
 
@@ -15176,8 +14589,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **दौर्मन्त्र्यान्नृपतिर्विनश्यति यतिः संगात्सुतोलालना-  
 द्विप्रोऽनध्ययनात्कुलं कुतनयाच्छीलं खलोपासनात्।**
 
-
-
 ह्रीर्मद्यादनवेक्षणादपि कृषिः स्नेहः प्रवासाश्रया-  
 न्मैत्री चाऽप्रणयात्समृद्धिरनयात्त्यागात्प्रमादाद्धनम्॥९०॥
 
@@ -15221,8 +14632,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2800]: "माघमासे. पक्षे तपश्चर्यायाम् "
 
 [^2801]: " कान्तारं अरण्यं दुर्गममार्ग इति यावत् तत्सम्बन्धि एजनवेग कपनवेग विषह्य सहित्वा सद्रसानि फलानि येषा एवंविधाः विरलाः स्युः पक्षे काता स्त्री, राः द्रव्यं, जनवेगो जनसंतापः एतान् मर्षयित्वा सद्रसः मोचरसः स एव फल येषा एतादृशा विरलाः स्युः"
-
-
 
 **यस्य यो दुर्लभो भोगस्तस्य तद्यत्नतः क्षतिः।  
 वाप्यां यथोष्ट्रयोगेन यतिः सशिबिकोऽपतत्॥९६॥**
@@ -15279,8 +14688,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 इत्युच्चैर्गगने निशाकरमृगे कारुण्यमातन्वतः  
 शृङ्गाऽग्रादपतन्मृगस्य रुदतोबाष्पाऽम्बुभूमण्डले॥३॥**
 
-
-
 **कन्याप्रसूतस्य[^2816] धनुःप्रसंगादङ्गाधिकासादित[^2817]विक्रमस्य।  
 धनंजयाऽऽधीन[^2818]पराक्रमस्य हिमस्य कर्णस्य च को विशेषः॥४॥**
 
@@ -15328,8 +14735,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2829]: "सम्पूर्वोक्तःपुरुषः, कान्तायाः रतं रमणं तस्य रण युद्ध. पक्षे कान्तारं दुर्गमारण्यं तत्तरणं कलयति."
 
-
-
 **प्रसादं कोपं वा जननि भवती यत्र तनुते॥९॥**
 
 **भूपः कूप इवाऽऽभाति नमज्जनसुखाऽऽवहः[^2830]।  
@@ -15376,8 +14781,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 नतया[^2839] धावितौ पादौ भर्तुराज्ञा न लङ्घिता॥१६॥**
 
 [^2839]: "नतया इसत्र तयापादौ न धावितौ परिहारे नतया नम्बया इतिपदच्छेदः"
-
-
 
 **पुष्पेषु[^2840] माता पुरुषायमाणा लज्जावती विश्वसृजं विलोक्य।  
 नाभीसरोजे नयनं मुरारेर्वामेतरं वारयति स्म चित्रम्॥१७॥**
@@ -15432,8 +14835,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2852]: "स्तुतिरेव कन्या"
 
 [^2853]: "कुमारिकात्वम्."
-
-
 
 **ते कौ[^2854]पीनधनास्त[^2855] एव सकलं धात्रीफलं[^2856] भुञ्जते  
 तेषां द्वारि नदन्ति वाजिनिवहास्तैरेव[^2857] लब्धा क्षितिः।  
@@ -15503,8 +14904,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^2874]: "दुर्जनत्वं पक्षे(खल, डेप
 
-
-
 **उपभोक्तुं न जानाति श्रियं प्राप्याऽपि मानवः।  
 आकण्ठजलमग्नोऽपि श्वा लिहत्येव जिह्वया॥३१॥**
 
@@ -15561,8 +14960,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **श्रुतिर्विभिन्ना स्मृतयश्च भिन्ना नैको मुनिर्यस्य वचः प्रमाणम्।  
 धर्मस्य तत्त्वं निहितं गुहायां महाजनो येन गतः स पन्थाः॥४०॥**
 
-
-
 **न भटो न विटो न गायको न च वेश्याघटको न चाऽपि वेश्या।  
 कथमत्र लभेमहि प्रतिष्ठामसती वा युवती न मेऽस्ति रामा॥४१॥**
 
@@ -15605,8 +15002,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **कि तेन जातु जातेन मातुर्यौवनहारिणा।  
 आरोहति न यः स्वस्य वंशस्याऽग्रे ध्वजो यथा॥४८॥**
 
-
-
 **संग्रहं नाकुलीनस्य[^2892] सर्पस्येव करोति यः।  
 स एव श्लाघ्यते मन्त्री सम्यग्गारुडिको यथा॥४९॥**
 
@@ -15645,8 +15040,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 पूर्वं न जल्पितमिदं न च संगमोऽस्ति।  
 व्योम्नि स्थितं रविशशिग्रहणं प्रशस्तं  
 जानाति यो द्विजवरः स कथं न विद्वान्॥५९॥**
-
-
 
 **देयं भो अधने धनं सुकृतिभिर्नो संचितं सर्वदा[^2894]  
 श्रीकर्णस्य बलेश्च विक्रमपतेरद्याऽपि कीर्तिः स्थिता।  
@@ -15688,8 +15081,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **सुकुले योजयेत्कन्यां पुत्रं विद्यासु योजयेत्।  
 व्यसने योजयेञ्छत्रुमिष्टं धर्मेण योजयेत्॥६७॥**
 
-
-
 **सुलभं वस्तु सर्वस्य न यात्यादरणीयताम्।  
 स्वदारपरिहारेण परदाराऽर्थिनो जनाः॥६८॥**
 
@@ -15730,8 +15121,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2899]: "सगर्वस्य "
 
 [^2900]: "उन्मार्गप्रवर्तिनः"
-
-
 
 **गौष्ठिककर्मनियुक्तः श्रेष्ठी चिन्तयति चेतसा हृष्टः।  
 वसुधा वसुसंपूर्णा मयाऽद्य लब्धा किमन्येन॥७९॥**
@@ -15777,8 +15166,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **अलिरनुसरति परिमलं लक्ष्मीरनुसरति नयगुणसमृद्धिम्।  
 निम्नमनुसरति सलिलं विधिलिखितं बुद्धिरनुसरति॥९०॥**
 
-
-
 **राजाऽऽश्रयस्तस्करताऽश्वपण्य[^2905]माथर्वणं[^2906] चाऽपि समुद्रयानम्।  
 एतानि सिध्यन्ति महाफलानि विपर्यये प्राणहराणि पञ्च॥९१॥**
 
@@ -15819,8 +15206,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **इति पाठयतां ग्रन्थे काठिन्यं कुत्र वर्तते॥४॥**
 
-
-
 अगतित्वमतिश्रद्धा ज्ञानाभ्यासेन तृप्तता।  
 त्रयः शिष्यगुणा ह्येतेमूर्खाचार्यस्य भाग्यजाः॥५॥
 
@@ -15859,8 +15244,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 प्रवर्तनार्थमारम्भे मध्ये त्वौषधहेतवे।  
 बहुमानार्थमन्ते च जिहीर्षन्ति चिकित्सकाः॥१७॥
-
-
 
 रोगस्योपक्रमे सान्त्वं मध्ये किंचिद्धनव्ययः।  
 शनैरनादरः शान्तौ स्नातो वैद्यं न पश्यति॥१८॥
@@ -15901,8 +15284,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 क्षणमात्रं ग्रहाऽऽवेशो याममात्रं सुरामदः।  
 लक्ष्मीमदस्तु मूर्खाणामादेहमनुवर्तते॥३०॥
 
-
-
 अध्यापयन्ति शास्त्राणि तृणीकुर्वन्ति पण्डितान्।  
 विस्मारयन्ति जातिं स्वां, वराटाः पञ्चषाः करे॥३१॥
 
@@ -15942,8 +15323,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 द्वेधा भ्रमं तु वेधाश्चक्रे कान्तास्वपि च कनकेषु।  
 यदि कान्ता साध्वी यदि कनकं सततं भवाब्धिपोतं तव॥४३॥
 
-
-
 **आत्मीयं चरणं दधाति पुरतो निम्नोन्नतायां भुवि  
 स्वीयेनैव करेण कर्षति तरोः पुष्पं श्रमाशङ्कया।  
 तल्पे किंच मृगत्वचाविरचिते निद्रालिभागैर्निजै-  
@@ -15979,8 +15358,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 (३४) एषा द्विजवेषायेन्द्राय कवचकुण्डलदानागतस्य कर्णस्य तद्दानविस्मितान् सभ्यान् प्रत्युक्तिः
 
-
-
 **ईर्ष्यानिर्भरफुल्लरोमनिकरव्यावल्गदूधःस्रव-  
 त्पीयूषप्रकरैः सुरेन्द्रसुरभिः प्रावृट्पयोदायते॥३५॥**
 
@@ -16013,8 +15390,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 —————————————
 
 (३७) एषा शिवेः कपोतं श्येनं प्रति चोक्तिः॥ (३८) एषा दशवदन प्रति भगवतो रामस्योक्तिः (३९) एषा अधर्मेणापि रिपुर्जेतव्य इति वदन्तं प्रति युधिष्ठिरस्योक्ति॥ (४१) क्षमावत उक्तिरियम्॥
-
-
 
 **परिहरतु धरां फणिप्रवीरः सुखमयतां कमठोपि तां विहाय।  
 अहमिह पुरुहूतपक्षकोणे निखिलमिदं जगदण्डकं वहामि॥४२॥**
@@ -16050,8 +15425,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 —————————————
 
 (४२) पुरुहूत प्रत्येषा गरुत्मत उक्तिः
-
-
 
 **अलकाः फणिशावतुल्यशीला  
 नयनान्ताः परिपुङ्खितेषु शीलाः।  
@@ -16089,8 +15462,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 (५१) सीता परित्यक्तवतो भगवतः श्रीरामभद्रस्येयमुक्तिः॥ (५२) गर्वोक्तिरियं॥ (५४) स्वात्मनि भगवतो रामस्यैषोक्तिः॥
 
-
-
 मृद्वीकारसिता सिता समशिता स्फीतं निपीतं पयः  
 स्वर्यातेन सुधाप्यधायि कतिधा रम्भाधरः खण्डितः।  
 सत्यं ब्रूहि मदीय नीव भवता भूयो भवे भ्राम्यता  
@@ -16127,8 +15498,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 वल्गद्गाण्डिवमुक्तकाण्डवलयज्ज्वालावलीताण्डव-  
 भ्रश्यत्खाण्डवरुष्टपाण्डवमहो को न क्षितीशः स्मरेत्॥६६॥
 
-
-
 एकीभवत्प्रलयकालपयोधिकल्प-  
 मालोक्य संगरगतं कुरुवीरसैन्यम्।  
 सस्मार तल्पमहिपुङ्गवकायकान्तं  
@@ -16164,8 +15533,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 विज्ञत्वं विदुषां गणेषु कवितां सामाजिकानां कुले  
 माङ्गल्यं स्वजनेषु गौरवमथो लोकेषु सर्वेष्वपि।
 
-
-
 दुर्वृत्तेशनितां नृलोकवलये राजत्वमव्याहतं  
 मित्रत्वं च वहन्न किंचन जने देव त्वमेको भुवि॥७५॥
 
@@ -16199,8 +15566,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 यावन्न ते चलति देव कृपाकटाक्षाः।  
 प्राचीललाटपरिचुम्बिनि भानुबिम्बे  
 पङ्केरुहोदरगतानि कुतस्तमांसि॥८२॥
-
-
 
 वहति विषधरान्पटीरजन्मा शिरसि मषीपटलं दधाति दीपः।  
 विधुरपि भजते वराङ्कलेपं पिशुनजनं खलु बिभ्रति क्षितीन्द्राः॥ ८३॥
@@ -16236,8 +15601,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 रामोसौ भुवनेषु विक्रमगुणैः प्राप्तः प्रसिद्धिं परा-  
 मस्मद्भाग्यविपर्ययाद्यदि पुनर्देवो न जानाति तम्।
 
-
-
 बन्दीवैष यशांसि गायति मरुद्यस्यैकबाणाहति-  
 श्रेणीभूतविशालतालविवरोद्गीर्णैः स्वरैः सप्तभिः॥९०॥
 
@@ -16270,8 +15633,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 जीवातवे विसृज शूद्रमुनौ कृपाणम्।  
 रामस्य गात्रमसि निर्भरगर्भखिन्न-  
 सीताविवासनपटो करुणा कुतस्ते॥९६॥
-
-
 
 जिह्वेकीर्तय केशवं मुररिपुं चेतो भज श्रीधरं  
 पाणिद्वन्द्व समर्चयाच्युतकथाः श्रोत्रद्वय त्वं शृणु।  
@@ -16307,8 +15668,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 माकन्दगन्धलहरीभिरपीह वायोः  
 स्वान्तं तु मेद्य परमात्मनि शान्तिमेति॥४॥
 
-
-
 किं मन्दमन्दहसितैरसितैरपाङ्गै-  
 रुन्मीलदिङ्गितवचोमृतपूरभङ्गैः।  
 बाले वयं तु निगमान्तमतेन तृप्ता-  
@@ -16343,8 +15702,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 संरम्भारुणलोचनो रणभुवि प्रस्थातुकामोऽधुना  
 जानीमो भवता न हन्त विदितो दिल्लीधरो वल्लभः॥१२॥
 
-
-
 पाण्डित्यं परिहृत्य यस्य हि कृते बन्दित्वमालम्बितं  
 दुःप्रापं मनसापि यो गुरुतरैः क्लेशैः पदं प्राप्तिः।  
 रूढस्तत्र स चेन्निगीर्य सकलां पूर्वोपकारावलिं  
@@ -16377,8 +15734,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 मात्सर्यमन्दमनसां सहसा खलानाम्॥  
 काव्यारविन्दमकरन्दमधुव्रताना-  
 मास्येषु यास्यसि सतां विपुलं विलासम्॥१२१॥
-
-
 
 **रम्भाशुकसंवादः।**
 
@@ -16419,8 +15774,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **शु० नारायणः पङ्कजलोचनः प्रभुः केयूरवान्कुण्डलमण्डिताऽऽननः।  
 भक्त्यास्तुतो येन समाधितो नो वृथागतं०॥११॥**
 
-
-
 रं० प्रियंवदा चम्पकहेमवर्णा हारावलीमण्डितनाभिदेशा।  
 संभोगशीला रमिता न येन वृथा०॥१२॥
 
@@ -16459,8 +15812,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 रं० विशालवेणी नयनाऽभिरामा कन्दर्पसंपूर्णनिधानरूपा।  
 भुक्ता न येनैव वसन्तकाले वृथा गतं०॥२४॥
-
-
 
 शु० मायाकरण्डी नरकस्य हण्डी तपोविखण्डी सुकृतस्य भण्डी।  
 नृणां विखण्डी चिरसेविता चेद्वृथा०॥२५॥
@@ -16501,8 +15852,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 शु० संसारसद्भावनभक्तिहीनाचित्तस्य चोरा हृदि निर्दया च।  
 
 विहाय योगं कलिता नरेण वृथागतं तस्य नरस्य जीवितम्॥३७॥
-
-
 
 **रं० सुगन्धैः सुपुष्पैः सुशय्या सुकान्ता वसन्त ऋतुः पूर्णिमा पूर्णचन्द्रः।  
 यदा नाऽस्ति पुंस्त्वं नरस्य प्रभूतं ततःकिं ततःकिं ततःकिं ततःकिं॥३८॥**
@@ -16558,8 +15907,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^2919]: "उत्पादयसि "
 
 [^2920]: " दृग्विषयीभूतः"
-
-
 
 **जना जगत्यां जगदीशशश्वत्त्वां[^2921] राधिकाजारमुदाहरन्ति।  
 निन्दन्तु लोका यदि वा स्तुवन्तु प्राणेश्वरीं त्वां न परित्यजामि॥८॥**
@@ -16621,8 +15968,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **श्रीः॥ अङ्कादृतक्षितिजमङ्काऽनभिज्ञशशिशङ्काकराऽऽस्यसुषमं  
 टङ्कारिचापमनुलङ्काऽऽशरक्षतजपङ्काऽवरूषितशरम्।**
 
-
-
 त्वं कामदं विहितरङ्काऽवनं दनुजकङ्कालनोदिनमना-  
 तङ्काय वत्स भज तं कालमेघरुगहंकारहारिवपुषम्॥१॥
 
@@ -16636,8 +15981,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 अड्केति। हे वत्स त्व अनातङ्काय आतङ्को भवरोगस्तन्निवृत्त्यर्थे अङ्केआदृता क्षितिजा सीता येनैवविधं तं राम भजेत्यन्वयः। कीदृशं त अड्कोलाञ्छन तदनभिज्ञोयः शशी तच्छड्काकरा आस्यसुषमा मुखकान्तिर्यस्यैवभूतम्। पुनः की० टकारःप्रत्यञ्चा शब्दस्तद्विशिष्टश्चापोधनुर्यस्य त अनु पश्चात्। पु०की० लङ्कासबन्धिनो ये आशरा राक्षसास्तेषा रक्तकर्दमेन लिप्तः शरो यस्य। पु०की० कामान् भक्तमनारेथान् ददाति सः एव भूतम्। पु०की० विहितं रङ्काणा दीनानामवन रक्षण येन तम्।पु० की ०दनुजो दुन्दुभिनामा दानवस्तस्य य• कङ्काल. अस्थिपञ्जरस्त नुदति क्षिपतीत्येवभूतम्. सुग्रीवाय स्वबलं प्रदर्शयितु वालिहतस्य कस्यचिद्दानवस्यास्थिपञ्जरं रामो वामपादाङ्गुष्ठेन सलीलं चिक्षेपेति रामायणे प्रसिद्धम्' पु० की० नीलमेघस्य कान्तिविषये योहकारः मत्सदृशमन्यन्नील नास्तीत्येव रूपस्त हरतीत्येवंभूत वपुः शरीरयस्य अतिनीलवपुषमित्यर्थः॥१॥
 
  संप्रति स्वमन उपदिशति। हे मनः त्वं उपभोगान् स्रक्चन्दनादिविषयान् अवाप्तु प्रातुं अनसा रथेन अनुरागातिभूमिं पराकाष्ठा मा गाः मा गच्छ। ननु किमर्थे मा वारयसीति चेत्तत्राह मागारदारसुतयोगाः मा लक्ष्मीःआगारगृह दाराः स्त्री सुताश्च एषा सयोगाः परिणामे वियोगात्मकाः न किं अपि तु तथैव वतेति खेदे। स्वर्गसुखमपि तथैवेत्याह यागादिना ज्योतिष्टोमादिना उत्पन्ना ये परा उत्कृष्ट भागाः पीयूषाप्सरआदि रूपास्तेपि अवसाने वियोगात्मका एवेति पूर्वेण सबन्ध।पदभागा इति पाठे स्वर्गादयः तर्हि किमस्माभिः कर्तव्यमित्यपेक्षायामाह पुररिपु शिव वेगाच्छीघ्रमुपास्व भज। कीदृशपु० अविग्रहविभागार्हशैलतनय विग्रहेण देहेन यो विभागो भेदस्तमर्हतीति विग्रहविभागार्हा तथा न भवतीत्येवंविधा शैलतनया
-
-
 
 वाचामरन्दमधुमोचामुवामधुरिमाऽऽचामदक्षरसंया  
 हा चापलान्नरपिशाचानुपासितुमनाचार किं नु यतसे।  
@@ -16657,8 +16000,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
  अधिमति मतौ खञ्जायित. खञ्जवदाचरितः कुण्ठितमतिर्मूढ इत्यर्थः तथैव गञ्जापरोपि मदिरागृहासक्तोपि नर. धनदः सजायते कुबेरतुल्यधनवान् भवती-
 
-
-
 आटीकसेऽङ्गकरिघोटीपदातिजुषि वाटीभुवि क्षितिभुजां  
 चेटीभवंस्तदपि शाटी न ते वपुषि वीटी न वाधिवदनम्।  
 कोटीररत्नपरिपाटीभृशाऽरुणितजूटीविधुं तनुलस-  
@@ -16676,8 +16017,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
  एव स्वकीयमनसः समाधानं कृत्वाऽन्यमुपदिशति आटीकसेइति हे अङ्ग त्वं चेटीभवन् दासःसन् करिघोटीपदातिजुषि हस्त्यश्वपदातिसेविताया क्षितिभुजा राज्ञा वाटीभुवि उद्यानभूमौ आटीकसे परिभ्रमणं करोषि तदपि तथापि ते तव वपुषि शाटी शरीरपरिधानार्थे वस्त्रं नास्ति। परं च अधिवदनं वदने वीटी ताम्बूलं नास्ति एवं च व्यर्थं श्रमकारी त्वमतीव मूर्खोऽसीति भावः। तर्हि मया किं कार्यमिति तत्राह कोटीरो मुकुटस्तस्य या रत्नपरिपाटीमाणिक्यपंक्तिस्तया भृशमत्यन्तमरुणितो रक्तो जूटीविधु. केशपाशसमीपवर्ती भालचन्द्रो यस्यास्तामेवंभूता तनौ लसन्ती शोभमानापाटीरलिप्तिश्चन्दनलेपो यस्यास्तातथाइभो गजस्तस्य घाटीगतिस्तां भजन्तीं सुराणा वधूट्यः स्त्रियस्ताभिर्नुता स्तुता शिवा पार्वतीं भज॥५॥
 
  पण्डेति। हे पण्डावदग्रिम पण्डितश्रेष्ठ पिचण्डस्योदरस्यावपूर्तिर्भरणं तामनुलक्षीकृत्य रण्डानां पांसुलाना विधेया वचनग्राहिण आज्ञापालास्ते च ते कुटिला वक्रा सद्दण्डा उद्धता अविवेकिनो विवेकशून्या एतादृशा ये धनिनस्त एव चण्डालास्तद्गेभुवि दण्डाऽऽहतिं दण्डप्रहारं किमयसे प्राप्नोषि उद्धताः पुरुषागृहमागतं
-
-
 
 गाढा त्वया सपदि राढापुरी वसुनि वाढाऽववद्धरतिना  
 सोढा तथा तपनगाढाऽऽतपप्रसररूढाऽतिवृष्टिविततिः।  
@@ -16697,8 +16036,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
  दन्तावलेति। रे मदान्ध त्वं गजाश्वभरणचिन्तापरःअसि तावता तवेति शेषः। किं फलमस्तीति वद कथयाननु गजाश्वशिबिकाद्युपभोगेन मनसः परमाल्हाद एवफलमितिचेद् भ्रान्तोति इत्याह हन्तेति। खेदे तदेतत् गजाश्वप्रभृति सर्वे कुत्राऽपि
 
-
-
 वन्दारुलोकततिमन्दारपादपममन्दायमानकरुणं  
 वृन्दावनोढपशुवृन्दाऽवनं प्रणतवृन्दारकं चरणयोः।  
 नन्दाऽऽदृतं कुशलसंदायितत्किमपि कन्दायितं श्रुतिगिरां  
@@ -16717,8 +16054,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
  उपदेशान्तरमाह। क्रोधेति। भोः पौत्र मदीयं वचनं प्रतिकूलं मत्वा त्वं क्रोधाकुलः क्रोधव्याप्तः विगतःबोधान्वयो ज्ञानानुवृत्तिर्यस्य तथाभूतः सन् असता दुष्टानामनुरोध आनूकुल्यं तदनुगच्छतीति तथाविधो मा भूः। कुतः भवस्य संसृतेर्बाधा पीडा साधारणी सामान्या न खलु भुवि मोहवसति. मोहस्थानं गाधा उत्ताना स्वल्पेयर्थः न भवति किंच पट्टी समर्थां मेधा बुद्धिर्यस्य तथाभूतो वेधाः ब्रह्मा च परं गुरुराचार्यः कर्मविततेः प्राक्तनकर्मविस्ताररूपिणःसुखदुःखस्य नि-
 
-
-
 नानाविधे जनुषि का नाम सौख्ययुजिरानाकपृष्ठमपि वा  
 जानासि यद्विषयसूनारुचिर्भवसिदूनाऽऽशयो भृशतरम्।  
 मानाऽतिगो विहितदाऽनाध्वरादिरिह कीनाशभीतिरहितो  
@@ -16729,8 +16064,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 षेधाय नाशाय विभुः समर्थो न भवति हीति निश्चयेन। अतः हेतात राधाविटो राधिकाजारः श्रीकृष्णस्तस्याऽङ्घ्रियुगं चरणद्वन्द्व हृदि मनसि आधाय ध्यात्वा मुदा मोक्ष सुखाना आधारता पात्रता व्रज गच्छेति॥१०॥
 
  नानाविधेति। हेतातेत्यनुषञ्जनीयं नानाविधे अनेकप्रकारे नृदेवतिर्यगादिरूपे जनुषि जन्मनि सौख्ययुजिः सौख्ययोगः आनाकपृष्ठं स्वर्गलोकमभिव्याप्यापि का नामास्ति। स्वर्गादीनामपि क्षयिष्णुत्वेन न काप्यस्तीत्यर्थः। इहेर्ष्याद्वेषादिजन्यक्लेशवत्स्वर्गादिलोकेष्वपि पुण्यतारतम्येन भोगेषूत्कर्षापकर्षयोः सत्त्वेन पुण्यपरिक्षये पतनभयेन चेतोप्यधिकतरक्लेशसत्त्वादिति भावः। एतदहमेव कथयामीति मा मन्यस्वकिंतु स्वयमेवाग्रेत्वं ज्ञास्यसीत्याह। जानासीति। यत् यदा त्वं विषयसूनारुचिः विषयेषु तत्पूर्तये सूनाया यागीयाया रागप्राप्ताया वा रुचिरभिलाषो यस्यैवविधो भवति तदा भृशतरमत्यन्त दूनाशयः क्लेशादिबाहुल्येनोपतप्तान्तःकरणः सन् जानासि। मया बोधितमिहामुत्र सुखाभावं ज्ञास्यसीत्यर्थः। उभयत्र 'वर्तमानसामीप्ये वर्तमानवद्वेति' लट् तस्मादुभयत्र निरवधिसुखकामना चेद्रेवं कुर्वित्याह। मानातिग इति। मानं प्रमाणमतीत्य गच्छतीति मानातिगः एतावत एव दानयागादयो मया कर्तव्या इत्येवमियत्ता विहायेत्यर्थः। विहितदानाध्वरादिः कृतदानयजनादिः'अत एव कीनाशभीतिराहतो यमभयरहितः सन् मीनायताक्षं मत्स्यसदृशदीर्घनयनं। अधिगानादर आधे अधिको गानविषये आदरो यस्य त गानप्रियमित्यर्थः। सूनास्त्रः कुसुमायुधः कामस्तस्य जीवन हरतीति तथाविधस्त स्मरहरं सदाशिवमित्यर्थः। भज सेवस्व इह दानयजनादिजन्यपुण्यवलाद्यमभयनिवृत्त्याचित्तस्वास्थ्येनाक्ष य्यानन्दरूपतावाप्तये विषयविरक्तिपूर्वक स्मरहरमेव सेवस्वेति भावः॥११॥
-
-
 
 सापायमेत्य वपुरापातरम्यमनुतापाद्यते सकुतुकं  
 द्वीपानगाहिषि समीपाऽतिगानकृतभीपातखेदगणनः।  
@@ -16748,8 +16081,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
  किमिति। हे बाल मूढ अत्रामुष्मिन् लोके बिम्बाधराविलसित बिम्बं पक्वतुण्डिकेरीफलं तद्वदरुणोऽधरो यासा तासा विलसित विलासः संबाधक अत्यन्तंबाधकं तथा मृशविडम्बास्पदं अत्यन्तं प्रतारणात्मक तथा परिणतौ परिपाकावस्थाथा निम्बादितिक्तरससबाध निम्बादिवत्तिक्तरसेन व्याप्तं ईदृशं न स्फुरति कि। अपि तु भासत एवेत्यर्थः। अतस्तदनुराग परित्यज्य अम्बा पार्वतीं जगन्मातरमित्यर्थः उपास्व भज। कीदृशीं लम्बालका दीर्घकेशी। पुनः कीदृशीं धुतविलम्बादरा धुतस्तिरस्कृतो विलम्बो भक्तरक्षणविषयस्तस्मिन् आदरो यया ता। पुनः कीदृशीं घुसृण कुकुमं तस्य यज्जम्बालजालं पङ्कजाल तद्वद्विलसद्बिम्ब सत्सदृश ओष्ठो यस्यास्तामारक्तौष्ठीमित्यर्थः। पुनः कीदृशीं अनूनशशिबिम्बानना पूर्णचन्द्रमण्डलमुखीं तथा सदयाम्॥१३॥
 
-
-
 रम्भादिगाढपरिरम्भाऽऽदरेण सुचिरं भावतोऽत्र यजसे  
 त्वं भावयस्व किमु शं भाव्यनेन जडसम्भावितक्षयमिदम्।  
 स्तम्भादुदित्त्वरमहं भावतः कलय जम्भारिसंस्तुतपदं  
@@ -16765,8 +16096,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
  रम्भादीति। रम्भादीना स्वर्वेश्याना गाढपरिरम्भो गाढालिंङ्गन तस्य आदरेण लोलुपतया सुचिर बहुकाल भावतः श्रद्धया अत्र इह लोके यजसे ज्योतिष्टोमादीन् करोषि। अनेन क्रतुयजनेन श सुखं किं भावि भविष्यति इति त्वं भावयस्व विचारं कुरु। रे जड मूर्ख इदं यागार्जितं स्वर्गसुखं संभावितक्षयं अवश्य क्षयशीलं तस्मात् अदम्भाकुलःदम्भो गर्वः सोमयाज्यहमिति तेन आकुलो व्याप्तोन भवतीति तथाभूतः सन् अहंभावतः सोहंभावेन तदाकारवृत्त्येति भावः। स्तम्भात् उदित्त्वर प्रादुर्भूतं नृसिंहमियर्थः। तं कलय चिन्तय तस्य ध्यानं कुर्विति यावत्। कीदृशं जम्भारिसंस्तुतपदं जम्भारिणा इन्द्रेण संस्तुतं पदं यस्य। पुनः कीदृशं भावुकप्रद क्षेमदातारं। पुनः कीदृशं नखरसभारदारितरिपुं नखरसंभारेण नखसमूहेन दारित. विदारितः रिपुः हिरण्यकशिपुर्येनैवंभूतम्॥१४॥
 
  रामेति। रामार्चिताङ्घ्रिःरामवन्दितपदा अभिरामा मनोहरा आकृतिर्यस्याः सुपर्वविपदा दैत्यकृतदेवविपत्तीनां कृतविरामा विरामो नाशःकामार्तिहत्कामपीडानाशिका सफलकामा अवन्ध्यमनोरथानिदेशःआज्ञा तस्मिन् रतास्तत्पराः कामादिनिर्जराणा वध्वो रत्यादयो यस्याः सा। हरस्य शिवस्य भामा स्त्री नुतः भामः क्रोधः असुरवधकालोत्पन्नो यस्याः सा अत एव जपासदृशा भा कान्तिर्यस्या अरुणेत्यर्थः माननीयं पूजनीय चरित यस्याः सा ईदृशी सा प्रसिद्धा देवी भवानीत्यर्थः। मा अवतु रक्षतु शेषं स्पष्टम्॥१५॥
-
-
 
 माया तवेयमुरुगायाऽविवेकनिधिमायामिनी किमपि मा-  
 मायासयत्यकृतजायातनूजधनकायादिदोषकलनम्।  
@@ -16784,8 +16113,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
  हारमिति। हे सखे त्व सारङ्गचञ्चलदृशः कुरङ्गाक्ष्याः कुचभारं जिघुक्षसि महीतुमिच्छसि। अतएव तस्यै हारमुक्ताहार ददाति सा त्वद्दत्तमुक्ताहारविलसत्कुचकुम्भा जारं निषेव्य अत्यन्त प्रसाद्य रन्तुमिच्छति। हि इति निश्चये मद्वाक्ये मा सशयं कुर्वत्यर्थः। इह ईदृशे कपटव्यवहारे तव का रञ्जना घटता नैवेत्यर्थः। तर्हि किं करोमीति चेदेवं कुर्याःआरम्भरम्य प्रारम्भकाले रमणीयं परिणामे त्वतीव गर्ह्यमित्यर्थः। स्मारं स्मरसम्बधिनं मदं विहाय श्रुतिगिरा वेदवाक्याना सारं अविकारं विकृतिरहितं कालत्रयावाध्यमित्यर्थं। महेशमनुवारं भज। किं तेन स्यादिति चेच्छृण जनार्वेलययोर्जन्ममरणयोः पारं मोक्षं प्रयास्यति गमिष्यति
 
-
-
 नीलाऽलकानयनलीलाविमोहमयकीलालराशिजठरे  
 वेलातिलङ्घमनुषेलावमज्जिरिह ते लाघवाय नहि किम्।  
 को लाभ एषइति कोलायितो जयसि हालासमस्थितवयः  
@@ -16801,8 +16128,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
  नीलालकेति। नीलालकाया नीलकुन्तलाया नयनलीला कटाक्षविसर्पणं स एव मोहस्तन्मयो यः कीलालराशिः समुद्रः संभोगशृङ्गाररसस्तस्य जठरे मध्ये वेलातिलङ्घंअतिकालं अनुवेलं वारंवार अवमज्जिः प्रतिक्षणमवमज्जनं ते तव लाघवाय लघुत्वाय नहि किं अपि तु सर्वथैव लघुत्वजनिका स्यात् क एष लाभो न कोपीत्यर्थः। अमुमेव लाभं मन्यसे चेत्तत्राह हेहालासमस्थितवयः हालासमं मदिरासमं स्थितं वयस्तारुण्यरूप यस्य यथा हालामादयति ज्ञानावरणं च करोति तथा तारुण्यमपि कोलायितः सूकरवदाचरितो जयसि नृपशुरूपेणोत्कर्षमावहसीति भावः। तथैव कुर्वित्याह शमितं हालाहलं विषं येन तं कालस्य मृत्योरहितं द्वेष्टारं मृत्युंजयमितियावत्। सततं आत्ममनसा आलानय बधान सेवनेन मृत्युंजय वशीकुर्वित्यर्थः॥१८॥
 
  दावानलेति। तावान् तावत्परिमाणः वाम्य कौटिल्यं करोतीति वाम्यकृत् अयं कलिः दावानलार्चिरिव दावाग्निज्वालेव तपति सतापयति। हा इतिखेदे अहो इत्याश्चर्ये। भो वासुदेव इहामुष्मिन् लोके त्वदपर. त्वत्तोऽन्यस्तमिम मम कलि को वारयेत न कोपीत्यर्थः त्वया तु नन्दव्रजे वत्सा गोपाश्चदावानलाद्रक्षिता इति श्रीमद्भागवते प्रसिद्धमेव तस्मात् सेवाविधाने सेवाकरणे भृशं हेवाकाः स्पर्धायुक्ता एवं भूताः सिद्धाः नारदादयो देवयोनिविशेषा वा मुनय. कपिलादयः देवा इन्द्रादयः यास्मिंस्तथाभूत हे भगवन् चरणयोर्भवत्पदयोर्भावेन शुद्धान्तःकरणेन आनताय
-
-
 
 आशाभरेण निखिलाऽऽशा सुधावनमथाऽऽशातकुम्भगिरिवा  
 क्लेशाऽऽवहं विविधदेशाऽटनं द्रविणलेशाय नाऽपि ववृते।  
@@ -16822,8 +16147,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
  एषेति। हे सौम्यवेषान्यभावकृत् वेषस्य कृष्णकेशत्वादिरूपस्य अन्यभाव वैपरीत्यं वलीपलितत्वादिरूपं करोतीति तथा। चपरं, अशेषामयैकवसतिः सर्वरोगाणा मुख्यस्थानम्, अतएव दोषालया अनेकदोषस्थानभूता तथा भृशमधिक अपोषास्पदीकृताः गुणाः विद्याभ्यासादर्योयया एवं भूता एषा जरा शिरसि आगता तोषाय नहि संतोष जनयितुं न प्रभवतीत्यर्थः। तस्मात् तनुशोषावहं शरीरशोषकारिरोषाद्यपास्य क्रोधादीन् हित्वा शेषायुषः अवशिस्यायुषः विशेषार्हं विशेषयोग्यमेतत्कुरु। किंतदित्याह। इहास्मिन् संसारे शेषाहिक्लृप्तधनुषः शेषाख्यपन्नगेन क्लृप्तं धनुर्येन तथाभूतस्यानङ्गजयिनःकाम, जेतुः शिवस्येत्यर्थः योषा स्त्रिय भवानी कलयआश्रयेत्यर्थः॥२१॥
 
-
-
 संसारधन्वभुवि किं सारमामृशसि शंसाऽधुना शुभमते  
 त्वं साधु संतनु हितं साहसेन तु नृशंसाऽऽदृतेन किमहो।  
 हंसाऽऽशयस्थमतिहंसात्मभासमथ तं सामभिः परिगृणन्  
@@ -16839,8 +16162,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
  संसारेति। संसारधन्वभुवि तापादिजनकत्वात् मरुभूमितुल्ये संसारे किं सार आमृशसि जानासि न किमपीत्यर्थः। जानासि चेदिदं तावदत्र सारमिति शस कथय। हे शुभमते अधुना त्वं साधु हित संतनु। आत्महितं कुर्विति भावः। नृशंसादृतेन धातुकपुरुषैःस्वीकृतेन साहसने परधनपरस्त्रीहरणप्राणिवधादिकेन अहो कष्ट किं स्यात् न किंचित्कल्याणं स्यादित्यर्थः तस्मात् हंसाशयस्थं योगिहृदयस्थं अतिहंसात्मभासं सूर्यमतिक्रान्ता आत्मभाःस्वकान्तिर्यस्य तं सूर्यातिशायितेजसमित्यर्थः कसाविन्द्यं विष्णुपूज्यं अवतंसायितेन्दुं चन्द्रशेखरं भगयन्तं सामभिः प्रेमगीतैः सामवेदरथैर्मन्त्रैर्वा गृणन् कीर्तयन् अखिलमर्थंचतुर्विधपुरुषार्थरूपं संसाधय रूपादय॥२२॥
 
  गेहेति। जनितःउत्पादितः मोहानुबन्धः अज्ञानसम्बन्धो येन तादृशं गेहात्मजद्रविणदेहादिकं गेहं गृहं, आत्मजः पुत्रः, द्रविणं द्रव्य, तद्गेहादिकं अवितुं रक्षितुं भोः इहापि अस्मिन् लोके कियती किंपरिमाणा हानिःअनेक दुःखसहनरूपा स्वार्थोन्मूलनरूपा च आपि प्राप्ता। तथापि ते तव निजहिते स्वहिते सुस्थितिमती यातायातनिवृत्तिविषयिणी ईहा इच्छा न भवति इति शेषः। स्वहित तु ईश्वरभजनं विना न भविष्यतीत्यतस्तदेव कुर्वित्याह। वाहायिताक्षेवाहनीवृतवलीवर्दंभवदाहापहं संसारतापनाशकं तथा सलिलवाहो मेघस्तस्येवाभां कान्तिर्यस्यास्तथाविधा कण्ठसुषमाकण्टशोभा यस्य तत् बाहाया हस्ते लसन्मृगो यस्य तत् अनाहार्यंत्रिकालावाध्यं मोक्षाख्यं सुखं तस्य करं उत्पादकं माहात्म्य यस्य तथाभूत नीलकण्ठाख्यं महस्तेजो भज॥२३॥
-
-
 
 वालीयुतश्रवणपालीयुगा ललितचुलीविराजिबकुला  
 केलीगतानुगमरालीकुला मधुरमालीभिरादृतकथा।  
@@ -16859,8 +16180,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
  दक्षेति। हे वत्स त्र्यक्षाऽऽह्वयं त्रिलोचनाख्य महः शिवाख्यं तेजः स्मरचेतय। कीदृश तत् दक्षयज्ञध्वसने दक्षः पटुः आग्रहो यस्य.। पुनः कीदृशं विबुधाना देवाना विदुषा वा पक्षस्तत्पालनपरं देवपक्षपाती अर्थः। पुनः कीदृश..लक्षसंख्याका ये अमृतद्युतयश्चन्द्रास्तेषामिव वलक्षो धवल आत्मा देहो यस्य। पुनः कीदृक् हृताः पराजिता ये विपक्षा शत्रवस्त्रिपुरादयस्तैः आत्तः प्राप्त विस्मय. आश्चर्यंयस्या तथाविधा कथा यस्य। पुन कीदृ
 
 क् गधिरोहि-
-
-
 
 रामनाम्नः स्वपौत्रस्य कामनापूरणोत्सुकः।  
 अश्वधाटीं जगन्नाथो विश्वहृद्यामरीरचत्॥२६॥
@@ -16901,8 +16220,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
  रामेति। रमयतीति रामः विद्याविनयादिगुणै. सर्वेषा मनोरम इत्यन्वर्थंराम इति नाम यस्य तस्य स्वपुत्रपुत्रस्य कामनापूरणोत्सुको मनोरथपूरणोत्कण्ठितो जगन्नाथाभिधः पण्डितो विश्वत्दृद्या पण्डितरञ्जनी अश्वघाटीं अरीरचत् रचयासास॥२६॥
 
  गुणरत्नर्षिभूयुक्तेप्रजापतिसमाह्वये॥शाकेधिमासे भाद्राख्ये गीष्पतौ प्रतिपत्तिथौ। अश्वधाट्यादर्पणाख्या व्याख्या कृष्णेन निर्मिता॥
-
-
 
 **अस्याः सर्गविधौ[^2943] प्रजापतिरभूच्चन्द्रो नु कान्तिप्रदः  
 शृङ्गारैकरसः स्वयं नु मदनो मासो नु पुष्पाऽऽकर।  
@@ -16955,8 +16272,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **द्रष्टव्येषु किमुत्तमं मृगदृशां प्रेमप्रसन्नं मुखं  
 घातव्येष्वपि किं तदास्यपवनः श्राव्येषु किं तद्वचः।**
 
-
-
 **किं स्वाद्येषु तदोष्ठपल्लवरसः स्पृश्येषु किं ततनु-  
 र्ध्येयं किं नवयौवनं सहृदयैः सर्वत्र तद्विभ्रमः॥१२॥**
 
@@ -17000,8 +16315,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **इदं परमसुन्दरं तनुपुरं कुरङ्गीदृशां  
 निवार्य खलु शैशवं स्वयमनेन नीतं बलात्।**
-
-
 
 **तदागमनशङ्कया मकरकेतुना किं कृतं  
 पयोधरधराधरौ त्रिवलिवाहिनीदुस्तरौ॥२२॥**
@@ -17053,8 +16366,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 इदमाभरणं नितम्बिनीनामितरद्भूषणमङ्गदूषणाय॥२८॥**
 
 [^2969]: "स्वच्छम्."
-
-
 
 **आस्यं[^2970] सहास्यं नयनं सलास्यं सिन्दूरबिन्दूदयशोभिभालम्।  
 नवा च वेणीहरिणी दृशश्चेदन्यैरगण्यैरपि भूषणैः किम्॥२९॥**
@@ -17109,8 +16420,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 पाणिभ्यां प्रविभज्य केशनिचयं सीमन्तकर्मोद्यता  
 चेतः कस्य वशीकरोति न बलाद्बाला विलोलक्षणा॥१॥**
 
-
-
 **केशान् वामकराऽवलम्बितशिखान् भूयोरणत्कङ्कणं  
 व्याधूयाऽथकनिष्ठिकानखमुखेनाऽऽकुञ्चिताऽन्याङ्गुलि।  
 सीमन्तं विरचय्य तस्य करभेणो[^2982]न्मृज्य पार्श्वद्वय  
@@ -17148,8 +16457,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **अश्रान्तं दृढयन्त्रणेन कुचयोरत्यक्तकठिन्ययो-  
 राबद्धस्फुटमण्डलोन्नतिमितश्चोलं विमुच्योरसः**
-
-
 
 **नीवीविच्छुरितं[^2984] विधाय तमिमं वामस्तनालम्बिनीं  
 वेणीं पाणिनखाऽञ्चलैः शिथिलयत्याक्रम्य पीठं पदा॥३॥**
@@ -17192,8 +16499,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **स्मरकल्पद्रुमो वाले तव भाले द्विपत्रकः।  
 पत्रयोरनयोश्छाया भ्रुवोर्व्याजादुदञ्चति॥१॥**
 
-
-
 **नेत्रे।**
 
 **नूनमाज्ञाकरस्तस्याः सुभ्रुवो मकरध्वजः।  
@@ -17212,7 +16517,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **रामाविलोलनयने किमुमीनबाणौ नीलोत्पले किमथवा किमु स्वञ्जरीटौ  
 किंवा जगत्त्रयजयाय कृतिर्न जाने कन्दर्पभूपरचितानवकार्मणस्य॥५॥**  
-
 
 **कटाक्षः।**
 
@@ -17233,8 +16537,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 यावदेव न कुरङ्गचक्षुषां ताड्यते चपललोचनाऽञ्चलैः॥४॥**
 
 [^2991]: "पण्डितानाम् "
-
-
 
 **प्रभवति मनसि विवेको विदुषामपि शास्त्रसंभवस्तावत्।  
 निपतन्ति नेत्रविशिखा यावन्नेन्दीवराक्षीणाम्॥५॥**
@@ -17274,8 +16576,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **सौन्दर्यपात्रे वक्र्त्रेन्दौ कुरङ्गाऽऽसङ्गभीतया।  
 सूचितौ श्रोत्रपाशाभ्यां पाशाविव मृगीदृशा॥१॥**
-
-
 
 **कपोलौ।**
 
@@ -17323,8 +16623,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 सुरसुमनसः श्वासाऽऽमोदे शशी च कपोलयो-  
 रमृतमधरे तिर्यग्भूते विषं च विलोचने॥१॥**
 
-
-
 **तस्या मुखस्याऽतिमनोहरस्य कर्तुं न शक्तः सदृशं[^3004] प्रियायाः।  
 अद्याऽपि शीतद्युतिरात्मबिम्बं निर्मायनिर्माय पुनर्भिनत्ति॥२॥**
 
@@ -17364,8 +16662,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^3009]: " कृतः उरुः महान् निमहो दण्डो यस्य."
 
-
-
 **चलद्भृङ्गमिवाम्भोजमधीरनयनं मुखम्।  
 तदीयं यदि दृश्येत कामः क्रुद्धोऽस्तु किं ततः॥९॥**
 
@@ -17404,8 +16700,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **सुदीर्घा रागशालिन्यो बहुपर्वमनोहराः।  
 तस्या विरेजुरङ्गुल्यः कामिनां संकथा इव॥**
-
-
 
 **स्तनौ।**
 
@@ -17455,8 +16749,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **पटविघटितमपि कुचतटमकपटमनसः कुरङ्गनयनायाः।  
 मणिभवमयूखपटली पटलीनतया न सम्यगालोचि॥१०॥**
 
-
-
 **प्रतिपक्षो यदि वक्षोहरुपरिणाहः कुरङ्गनयनायाः।  
 आकाशवासतपसः श्रीफलविफलस्तवाऽऽयासः॥११॥**
 
@@ -17499,8 +16791,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **गम्भीरनाभिह्रदसन्निवेशे रराज नीला नवरोमराजिः।  
 मुखेन्दुभीतस्तनचक्रवाकचञ्चुच्युता शैवलमञ्जरीव॥१॥**
-
-
 
 **दत्तं मयापदमिदं नवयौवनाय  
 त्वं सत्वरं क्व चन शैशवसा घयेति।  
@@ -17548,8 +16838,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^3032]: " श्रान्तेनेव"
 
-
-
 **जङ्घे।**
 
 **जङ्गे यदीये संतापं यज्जनस्याऽनुरागिणः।  
@@ -17589,8 +16877,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **तद्वक्त्राऽभिमुखं मुखं विनमितं दृष्टिः कृता पादयो-  
 स्तस्याऽऽलापकुतूहलाऽऽकुलतरे श्रोत्रे निरुद्धे मया।**
-
-
 
 **पाणिभ्यां च तिरस्कृतः सपुलकः स्वेदोद्गमो गण्डयोः  
 सख्यः किं करवाणि यान्ति शतधा यत्कञ्चुकीसंधयः॥३॥**
@@ -17633,8 +16919,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^3042]: " मौक्तिकाना हारः पक्षे मुक्तस्त्यक्तः आहारःअशनं येन प्रियेणेत्यर्थः "
 
 [^3043]: "हृदयदाहशान्त्यै"
-
-
 
 **नायककर्तृकमानाऽपनोदः।**
 
@@ -17686,8 +16970,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^3054]: "सर्पभ्रान्त्या."
 
-
-
 **मोहान्मया सुतनु पूर्वमुपेक्षितस्ते  
 यो बाष्पविन्दुरधरं परिबाधमानः।  
 तं तावदाकुटिल पक्ष्मविलग्नमद्य  
@@ -17737,8 +17019,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **कमलाक्षिः विलम्व्यतां क्षणं कमनीये कचभारबन्धने।  
 दृढलग्नमिदं दृशोर्युगं शनकैरद्य समुद्धराम्यहम्॥६॥**
 
-
-
 **कुतः कुवलयं कर्णे करोषि कलभाषिणि।  
 किमपाङ्गमपर्याप्तमस्मिन् कर्मणि मन्यसे॥७॥**
 
@@ -17782,8 +17062,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 कुसुममिव लोमनीयं[^3070] यौवनमङ्गेषु सन्नद्धम्॥७॥**
 
 [^3070]: "स्पृहणीयम्"
-
-
 
 **अनाघ्रातं पुष्पं किसलयमलूनं[^3071]कररुहै-  
 रनाविद्धं[^3072] रत्नं मधु नवमनास्वादितरसम्।  
@@ -17831,8 +17109,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^3080]: " विकसितम्"
 
-
-
 **पीतं श्रोत्रयुगेन षट्पदरुतं[^3081] पीतं न ते जल्पितं  
 रक्ता शक्रदि[^3082]गङ्गना रविकरैर्नाऽद्यापि रक्ताऽसि किम्॥२॥**
 
@@ -17878,8 +17154,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 न पुत्रः पौत्रो वा रघुकुलभुवां च क्षितिभुजाम्।  
 अधीरं धीरं वा कलयतु जनो मामयमयं  
 मया बद्धो दुष्टद्विजदमनदीक्षापरिकरः॥३॥**
-
-
 
 **चत्वारो वयमृत्विजः स भगवान् कर्मोपदेष्टा हरिः  
 संग्रामाध्वरदीक्षितो नरपतिः[^3089] पत्नी[^3090] गृहीतव्रता।  
@@ -17937,8 +17211,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^3102]: "स्थाश्रमिणः १६ 'युष्मास्वपीतेषु ये'ति वा पाठः"
 
-
-
 **आदौ वः कुसुमप्रवृत्तिसमये यस्या भवत्युत्सवः  
 सेयं याति शकुन्तला पतिगृहं सर्वैरनुज्ञायताम्॥५॥**
 
@@ -17980,8 +17252,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **भूमौ स्थिता रमणनाथमनोहरेति  
 संबोधनैर्यमधिरोपितवत्यसि द्याम्॥**
-
-
 
 **स्वर्गं गता कथमिव क्षिपासि त्वमेण-  
 शावाक्षितं धरणिधूलिषु मामिदानीम्॥१२॥**
@@ -18031,8 +17301,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **चित्रं कनकलतायां शरदिन्दुस्तत्र खञ्जनद्वितयम्।  
 तत्र च मनोजधनुषी तदुपरि गाढाऽन्धकाराणि॥४॥**
-
-
 
 **कृष्णेनाऽम्बगतेन रन्तुमनसा मृद्भक्षिता स्वेच्छया  
 सत्यं कृष्ण कएवमाह मुसली[^3119] मिथ्याऽम्बपश्याऽऽननम्।  
@@ -18090,8 +17358,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **उदरद्वयभरणभयादर्धाङ्गीकृतदारः।  
 यदि नैवं तस्यैकसुतः कथमद्याऽपि कुमारः॥५॥**
 
-
-
 **किं गोत्रं किमु जीवनं किमु धनं का जन्मभूः किं वयः  
 किं चारित्र्यममुष्य के सहचराः के वंशजाः प्राक्तनाः।  
 का माता जनकः शिवस्य क इति प्रह्वेण पृथ्वीभृता  
@@ -18125,8 +17391,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **वैद्यराज नमस्तुभ्यं क्षपिताशेषमानव।  
 त्वयि विन्यस्तभारोऽयं कृतान्तः सुखमेधते॥१३॥**
-
-
 
 **सामगायनपूतं मे नोच्छिष्टमधरं कुरु।  
 उत्कण्ठिताऽसि चेद्गद्रे वामं कर्णं दशस्व मे॥५॥**
@@ -18176,8 +17440,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^3142]: "मासम्"
 
-
-
 **अन्त्रप्रोतबृहत्कपालनलकक्रूरक्वणत्कङ्कण-  
 प्रायप्रेङ्खितभूरिभूषणरवैराभूषयत्यम्बरम्।  
 पीतच्छर्दितरक्तकर्दमघनप्राग्भारघोरोल्लल-  
@@ -18211,8 +17473,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 योयः पाञ्चालगोत्रे शिशुरधिकवयागर्भशय्यागतो वा।  
 योयस्तत्कर्मसाक्षी चरति मयि रणे यश्चयश्च प्रतीपः  
 क्रोधाऽन्धस्तस्य तस्य स्वयमिह जगतामन्तकस्याऽन्तकोऽहम्॥४॥**
-
-
 
 **शान्तरसः।**
 
@@ -18260,8 +17520,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 [^3150]: "आत्मानम्."
 
-
-
 वाग्जालं कस्य हेतोर्विरचयसि गिरा दृश्यते नैव किंचि-  
 द्देहस्थं पश्य नाथं भ्रमसि किमपरं शास्त्रमोहाऽन्धकारे॥८॥
 
@@ -18306,8 +17564,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 [^3157]: "पानपात्रम् "
 
 [^3158]: "मद्ययुक्त"
-
-
 
 **अमेध्यक्लेदाऽर्द्रेपथि च रमते स्पर्शरसिको  
 महामोहान्धानां किमिह रमणीयं न भवति॥१४॥**
@@ -18355,8 +17611,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 **दिनमेकंशशी पूर्णः क्षीणस्तु बहुवासरान्।  
 सुखाद्दुःखं सुराणामप्यधिकं का कथा नृणाम्॥२१॥**
 
-
-
 **कि निःशङ्कं शेषे शेषेवयसः समागतो मृत्युः।  
 अथवा सुखं शयीथा निकटे जागर्ति जान्हवी भवतः॥२२॥**
 
@@ -18403,8 +17657,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 **समाप्तोयं ग्रन्थः**
 
-
-
 |                     |           |                    |          |
 |:-------------------:|:---------:|:------------------:|:--------:|
 |      ग्रन्थनाम      | चिन्हम्|  |     ग्रन्थनाम      | चिन्हम्| |
@@ -18437,8 +17689,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |      भर्तृहरी       |    भ.     |     हितोपदेशः      |   हि.    |
 | प्रसंगाभरणभर्तृहरी  |  प्र.र.   |                    |          |
 |    भामिनीविलासः     |  भा. वि.  |                    |          |
-
-
 
 **सूचीपत्रम्।**
 
@@ -18475,8 +17725,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |       अङ्गेषुमुख्या. वि.अ.       |     २     |      अदातापुरुषाः शा.       |     ५     |
 |      अङ्गगलितं पलित. च.पं.       |    ११     | अद्भुतस्तर्कपायोधि. वि.गु. |     ४     |
 
-
-
 |                            |     |                              |     |
 |----------------------------|-----|------------------------------|-----|
 | अदृष्टव्यापार. वि.गु       | ३   | अनृतं साहसं माया. स्फु.      | १   |
@@ -18508,8 +17756,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | अनुरागवंतमपिलोच. मा.       | ४७  | अन्येतेजलदायिनो. शा.         | ११  |
 | अनुयातानेकजनः स्फु.        | ११  | अन्योपिचन्दनतरो. भो.प्र.     | २२  |
 | अनुसरतिकरिकपोल.इं.प्रु.    | ७०  | अन्येपिसंतिवत. शा.           | १०  |
-
-
 
 |                              |     |                             |
 |------------------------------|-----|-----------------------------|
@@ -18546,8 +17792,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | अभिमतमहामानग्रं. भर्तृ       | २   | अयित्यक्तासिकस्तूरि शा.     |
 | अभिनवनवलिनी. प्र.र           | ६   |                             |
 
-
-
 |                            |     |                                |     |
 |----------------------------|-----|--------------------------------|-----|
 | अयिवतगुरुगर्वे. शा         | १   | अर्यःसुख कीर्ति. शा            | ५   |
@@ -18581,8 +17825,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | अर्थोकरोतिदैन्यं. क.त.     | १२  | अशौचदेहा. रंशु.                | ३५  |
 | अर्थोलाघवमुच्छ्रितो. स्फु. | ५२  | अश्रान्तं दृढयन्त्रणेन. पं.भा. | ३   |
 | अर्थोहिकन्या. कलि.         | ७   | अश्वनैवगजंनैव. स्फु.           | ५९  |
-
-
 
 |                               |     |                            |     |
 |-------------------------------|-----|----------------------------|-----|
@@ -18619,11 +17861,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | अस्याः पीठोपविष्टाया. पं. भा. | ५   | आगतः पाडवाः सर्वे. स्फु.   | ६   |
 | अस्याश्चेद्गतिसौ. स.त.        | २५  |                           |     |
 
-
-
 [TABLE]
-
-
 
 |                            |     |                                   |     |
 |----------------------------|-----|-----------------------------------|-----|
@@ -18660,8 +17898,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | इंदोर्लक्ष्मत्रिपुर.कुव.   | ४   | उत्तिष्ठ क्षणमेक. क.त.            | ६   |
 | इभतुरगतशतैःप्रयाति.शा.     | ७   | उत्तिन्ष्ठत्या                    | २   |
 
-
-
 |                             |     |                             |     |
 |-----------------------------|-----|-----------------------------|-----|
 | उत्तुङ्गमत्तमातंग. शा.      | २०  | उन्मत्तयेषा. रंशु.          | ३३  |
@@ -18697,11 +17933,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | उन्नमय्यसकचग्रहं. शा.       | १३  | एकस्यतस्यमन्ये. शा.         | ५   |
 | उन्मत्तधूर्ततरुणेंदु. शा.   | २   | एकस्त्वंगहनोस्मिन्.शा.      | १५  |
 
-
-
 [TABLE]
-
-
 
 |                               |     |                              |     |
 |-------------------------------|-----|------------------------------|-----|
@@ -18738,8 +17970,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | कलानिधिंगोकुल. रा. कृ         | ९   | करत्वंभो. कथयामिदैव श.       | १   |
 | कलानिधिरवेरयं .शा           | १५  | कस्त्वंलोहितलोचनास्य. शा.    | ८   |
 
-
-
 |                                |     |                               |     |
 |--------------------------------|-----|-------------------------------|-----|
 | कस्त्वंशूलीमृगयभिषजं, प्र. र.  | ५   | कामिनीकायकांतारे भर्तृ.       | ३   |
@@ -18774,8 +18004,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | कामपिश्रियमासाद्य.             | १४  | किंतयाक्रियतेधेन्वा. क. त     | २   |
 | कामातुरापूर्णशशांक. रं. शु.    | ८   | किंतयाक्रियतेलक्ष्म्या. स्फु. | ६   |
 | कामान्दुग्धेविप्रकर्ष. उ. रा. | ५   | किंतृष्णाकारिकीदृकृ. प्र. र   | ९   |
-
-
 
 |                             |           |                                     |           |
 |:---------------------------:|:---------:|:-----------------------------------:|:---------:|
@@ -18813,11 +18041,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |   कुंकुमपंकेनाकितदेहा. भ    |    ११     |      कृतेचरेणुकाकृत्या. प्र.र       |    ९७     |
 |    कुचावस्याः कामं स्फु.    |    १३     |     कृतोपकारप्रियबंधुमर्के. शा.     |     ६     |
 
-
-
 [TABLE]
-
-
 
 |                                    |       |                               |       |
 |:----------------------------------:|:-----:|:-----------------------------:|:-----:|
@@ -18854,8 +18078,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |       खलःसर्षपमात्राणि, शा.        |   ५   |    गाढ़ात्वयासपदि. अ. धा.     |   ७   |
 |        खिन्नोसिमुचशैलं वा.         |  १२   |      गात्रंकंटकसकटं. शा.      |   १   |
 |                                   |      |       गात्रंतेमलिन. शा.       |   १   |
-
-
 
 |                                |       |                                  |       |
 |:------------------------------:|:-----:|:--------------------------------:|:-----:|
@@ -18894,8 +18116,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |  गुणैः सर्वज्ञकल्पोपि प्र. र,  |   ६   |    चतुर्भुजश्चक्रवरो, रं. शु.    |   ९   |
 |                                |   ४   |                                 |      |
 
-
-
 |                                |       |                             |       |
 |:------------------------------:|:-----:|:---------------------------:|:-----:|
 |               च.               | श्लो. |             छ.              | श्लो. |
@@ -18931,8 +18151,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |     च्युतादंताःसिताः स्फु.     |  १६   |  जाड्यंहीमतिगण्यते. स. त.   |  ५३   |
 |               छ.               |      |    जातालताहिशैले. स्फु.     |   २   |
 |     छयावंतागेतव्यालाः, शा.     |  १०   |                            |      |
-
-
 
 |                              |           |                            |           |
 |:----------------------------:|:---------:|:--------------------------:|:---------:|
@@ -18970,8 +18188,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |      तत्तेजस्तरणेः शा.       |     १     |  तारुण्यमिवसर्वे. अ. रा.   |     ४     |
 |                             |          |    तालीतरोरनुपकारि. शा.    |     १     |
 
-
-
 |                                |           |                                  |           |
 |:------------------------------:|:---------:|:--------------------------------:|:---------:|
 |             **त.**             | **श्लो.** |              **त.**              | **श्लो.** |
@@ -19006,8 +18222,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |   तृष्णदेविनमस्तुभ्यं. स्फु.   |    १८     |              **द.**              |          |
 |    तृष्णेदेविनमस्तुभ्य. शा.    |     १     |      दक्षाध्वरप्रशम. अ. घा.      |    २५     |
 |     तेकौपीनधनास्तएव. स.त.      |    २७     |  दक्षिणाशाप्रवृत्तस्य. प्र. र.   |     ४     |
-
-
 
 |                             |           |                              |          |
 |:---------------------------:|:---------:|:----------------------------:|:--------:|
@@ -19045,8 +18259,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | दारिद्र्यभोत्वं परमं. स. त. |    २५     |   दुर्दैवप्रभवप्रभंजन. शा.   |    ३     |
 | दारिद्र्यशोचामि. इं. प्रु.  |     २     | दर्मेत्रीराज्यनाशाय. प्र. र. |    ६०    |
 
-
-
 |                              |       |                               |       |
 |:----------------------------:|:-----:|:-----------------------------:|:-----:|
 |              द.              | श्लो. |              ध.               | श्लो. |
@@ -19082,8 +18294,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |     देवपुरुषकारेण. क. त.     |  ११   |        धनमर्जय.स्फु.         |  ११   |
 |    दैवफलतिसर्वत्र.स्फु.     |   १   |       धनवानितिहि.स्फु.       |   ६   |
 |    दैवमुल्लध्ययत्. स. त.     |  २२   |                              |      |
-
-
 
 |                          |       |                            |       |
 |:------------------------:|:-----:|:--------------------------:|:-----:|
@@ -19122,8 +18332,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 |                         |      |     न पश्यामो. क. वि.      |  २६   |
 |                          |      |   न पुत्रात्परमो. क. त.    |   ४   |
 
-
-
 |                          |     |                            |     |
 |--------------------------|-----|----------------------------|-----|
 | नपुंसकमिति. स्फु.      | ३   | नस्थातव्यं. स्फु         | ११  |
@@ -19159,11 +18367,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | नश्चाधते. वि.मुं       | १३  | नासाभारग्रहे.  शा.       | १   |
 | नसाविद्या. प्र.र.        | ५४  | नास्योच्छ्रायवतो शा.     | ९   |
 
-
-
 [TABLE]
-
-
 
 |                          |     |                            |     |
 |--------------------------|-----|----------------------------|-----|
@@ -19200,8 +18404,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | पद्मे मूढज्जने. स.त.   | ६   | पाटलयावन. शा.            | १   |
 | पयोधरधनी. स्फु.        | ७   | पाटीरतवपटी. भा. वि.      | ८   |
 
-
-
 |                             |     |                               |     |
 |-----------------------------|-----|-------------------------------|-----|
 | पाणिग्रहे पुलकितं. गो.स.  | ४   | पीतोगस्त्येन. प्र.र.        | १४  |
@@ -19237,8 +18439,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | पशुनत्वमेव. क.त.          | १०५ | पृथुगगन. शा.                | १   |
 | पीठे पोठनिषण्ण. प्र.रू.   | १६  | पोतोदुस्तरवारी. स.त.      | ८   |
 
-
-
 |                         |     |                               |     |
 |-------------------------|-----|-------------------------------|-----|
 | पौलोस्त्यः कथ. क.त.     | ८१  | प्रवर्तनार्थ. क. वि.          | १३  |
@@ -19273,8 +18473,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | प्रमादिनान. अ.रा.       | ३   | प्रियवाक्यप्र. प्र.र.         | ५६  |
 | प्रमोदेखेदेवा. वि.गु.   | ४   | प्रियान्याय्यावृत्ति. भ.      | ३९  |
 | प्रयत्नैरस्तोकैः वि.गु. | ४   |                              |     |
-
-
 
 |                        |     |                          |     |
 |------------------------|-----|--------------------------|-----|
@@ -19312,8 +18510,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | ब्रह्मघ्रोपि स.त.     | १२  | भार्यारूपविहीना. प्र.सु  | २   |
 | ब्रह्मज्ञानविवेक. क.त. | २   |                          |     |
 
-
-
 |                          |     |                          |     |
 |--------------------------|-----|--------------------------|-----|
 | भार्येद्वैपुत्र. क.त.    | २३  | भ्रष्टंन्वपति. शा.       | ७   |
@@ -19348,8 +18544,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | भ्रमन्वनाते शा.          | ४   | मन्येसमाप्त. शा.         | १   |
 | भ्रमयतिभव. वि.अ.         | ५   | मलगचलगंधेन स.त.         | ५०  |
 | भ्रमरभ्रमता. शा.         | ५   | मलयानिल. र.जी            | २५  |
-
-
 
 |                          |     |                       |     |
 |--------------------------|-----|-----------------------|-----|
@@ -19386,8 +18580,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | मातंगकुंभ. शा.           | १   | मुग्धे मानंनते. स्फु. | १   |
 | मावचरन्वन. स्फु.         | २०  | मुग्धे मुग्धतयैव. शा. | १   |
 
-
-
 |                               |     |                         |     |
 |-------------------------------|-----|-------------------------|-----|
 | मूढभक्त्यव. अ. रा.            | ४   | मजुलघी. वि.भू.          | २८  |
@@ -19422,8 +18614,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | मोहान्मयासुतनु. प्र.र         | ७   | यथारंध्रव्योम्नः स्फु.  | २   |
 | मौनान्मूकः भ                  | ११  | यथावृष्टिःसमु. क त.     | २   |
 | मौलौसन्मणयो. शा.              | १३  | यथोदयगिरौ. हि.          | ८   |
-
-
 
 |                          |     |                          |     |
 |--------------------------|-----|--------------------------|-----|
@@ -19460,8 +18650,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | यद्यपिस्वच्छभा. शा.      | ५   | वस्यामहत्वभा. शा.        | १   |
 | यद्वत्कंमुहुरीक्षसे. शा. | १०  |                          |     |
 
-
-
 |                             |     |                          |     |
 |-----------------------------|-----|--------------------------|-----|
 | यस्यार्थास्तस्य. शा.        | ७   | यासर्वे. अ.रा.           | २   |
@@ -19496,8 +18684,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | यास्यत्यद्यश. शा.कुं        | ४   | योदिव्यावुज. र.जी.       | ७   |
 | यास्वसद्मनि. स्फु.         | १९  | योनददातिन. शा.           | १५  |
 |                            |    | योनात्मजेनच. क.त.        | १०  |
-
-
 
 |                         |     |                            |     |
 |-------------------------|-----|----------------------------|-----|
@@ -19534,8 +18720,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | राक्षसाःकलि. स्फु.     | १२  | रूपविविद्या. अ.रा.         | ४   |
 |                        |    | रेखलत  क.त.            | ८४  |
 
-
-
 |                             |     |                           |     |
 |-----------------------------|-----|---------------------------|-----|
 | रचित्तर्चितय. स्फु.         | २   | लभेतसिकतासु. भ.           | ३   |
@@ -19570,11 +18754,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | लज्जावशाच. शा.            | १०  | वक्षोजोनिबिडं. मु.भा.    | १   |
 | लतापुष्पवतीं. शा.         | २   | वक्षःपीठेनिरा. शा.       | २   |
 
-
-
 [TABLE]
-
-
 
 |                               |     |                              |     |
 |-------------------------------|-----|------------------------------|-----|
@@ -19611,15 +18791,9 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | विध्वस्तपरगुणा. प्र.र.       | ९७  | विश्वंभरो. रं.शु.          | १५  |
 | विध्वस्तामृगप. शा.           | ४   | विश्वाभिराम. शा.            |    |
 
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 |                                 |     |                           |     |
 |---------------------------------|-----|---------------------------|-----|
@@ -19657,8 +18831,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | सद्वशजत्वंसाद्गुण्यं. स्फु.     | १   | संपन्नरमणी.स्फु.         | २   |
 | संतःक्वपिनसंति. स्फु.           | ८   |                          |     |
 
-
-
 |                             |     |                               |     |
 |-----------------------------|-----|-------------------------------|-----|
 | संप्रतिषंबं. स.त.          | २२  | सहिगगनविहारी. हि.            | ५   |
@@ -19692,8 +18864,6 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | सावप्रपादोद. स्फु.         | ५   | सुखस्यदुःखस्य. क.त.          | १२  |
 | सहपरिजनेन प्र.र.           | १   | सुगंधैःसुपुष्पैः स्फु.       | ३८  |
 | सहस्रशीर्षापुरुषः स्फु.    | ३   | सुजनानामपि. क.त.             | ४०  |
-
-
 
 |                            |     |                              |     |
 |----------------------------|-----|------------------------------|-----|
@@ -19730,11 +18900,7 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 | सेवेवमानम. स्फु.          | ९   | स्थानेस्थानद. रं.शु.        | ५   |
 | सेवाश्ववृत्तिर्यैरु. क.त. | १०  | स्थाल्यावैदूर्यमय्या. भ.    | १०  |
 
-
-
 [TABLE]
-
-
 
 |                          |       |                          |      |
 |:------------------------:|:-----:|:------------------------:|:----:|
@@ -19751,3612 +18917,5 @@ quently these epigrammatic pieces serve as authorities with the ignorant classes
 
 ---------------------------------
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^3112]: "स्त्री"
-
-
-[^3111]: "विश्वासः"
-
-
-[^3107]: "स्वर्गम्"
-
-
-[^3098]: " पाषाणः"
-
-
-[^3086]: "ब्रह्मणः "
-
-
-[^2953]: " वस्त्रम् "
-
-
-[^2941]: "ब्रह्मा "
-
-
-[^2896]: " सूर्यः "
-
-
-[^2859]: "द्रव्यम्"
-
-
-[^2833]: "परिणामः"
-
-
-[^2810]: "शोभाम्"
-
-
-[^2782]: "रावणः"
-
-
-[^2778]: "चन्द्रः"
-
-
-[^2774]: "चन्द्रः"
-
-
-[^2678]: "स्त्रियः"
-
-
-[^2670]: " वैद्यम्"
-
-
-[^2626]: "अवमानः"
-
-
-[^2620]: "स्त्री"
-
-
-[^2592]: "सर्पः "
-
-
-[^2581]: "इन्द्रः"
-
-
-[^2573]: "चन्द्रम्"
-
-
-[^2572]: "दिग्गजानाम्"
-
-
-[^2570]: "भ्रमराः"
-
-
-[^2549]: "सर्पान्"
-
-
-[^2536]: "उष्ट्रस्य"
-
-
-[^2531]: "आम्रः"
-
-
-[^2522]: "छिन्नम्"
-
-
-[^2515]: "समूहः"
-
-
-[^2507]: "चन्दन"
-
-
-[^2462]: "अत्यन्तम्"
-
-
-[^2451]: "भ्रमराः"
-
-
-[^2443]: "सूर्ये"
-
-
-[^2435]: "सूर्यः"
-
-
-[^2426]: "समुद्रम्"
-
-
-[^2408]: "अवमानः"
-
-
-[^2380]: "मयूरः"
-
-
-[^2367]: "आम्रः"
-
-
-[^2366]: "सह"
-
-
-[^2346]: "समूहः"
-
-
-[^2343]: "कल्पवृक्षः"
-
-
-[^2341]: "इच्छा"
-
-
-[^2336]: "मधुरम्"
-
-
-[^2284]: "मरुदेशे"
-
-
-[^2260]: "स्वभावः"
-
-
-[^2243]: "वाडवाग्निः"
-
-
-[^2228]: "शीघ्रम् "
-
-
-[^2197]: "सर्पाणाम्"
-
-
-[^2194]: "प्रीतिम्"
-
-
-[^2187]: "समुद्रः"
-
-
-[^2180]: "रात्रिम्"
-
-
-[^2168]: "सूर्ये."
-
-
-[^2055]: "शब्दं करोति"
-
-
-[^2035]: "मस्तके"
-
-
-[^2024]: " मुखम् "
-
-
-[^2014]: "समुद्रम्"
-
-
-[^1982]: " सूर्यः"
-
-
-[^1981]: "किरणैः"
-
-
-[^1979]: "भ्रमराः"
-
-
-[^1976]: "सूर्यः"
-
-
-[^1975]: "गुप्तम्"
-
-
-[^1971]: "सत्वरम्"
-
-
-[^1964]: "चन्द्रः"
-
-
-[^1962]: "किरणैः"
-
-
-[^1960]: "शोभाम्"
-
-
-[^1908]: "चन्द्रम्"
-
-
-[^1884]: "कुटुम्बम्"
-
-
-[^1861]: "मदनः"
-
-
-[^1837]: "अमृतम्"
-
-
-[^1814]: "निरन्तरम्"
-
-
-[^1804]: "कान्तिम्"
-
-
-[^1802]: "प्राप्नोति"
-
-
-[^1786]: "विषम्"
-
-
-[^1763]: "वर्षाकाले"
-
-
-[^1756]: "रात्रिः"
-
-
-[^1734]: "अल्पानि"
-
-
-[^1732]: "असत्यम्"
-
-
-[^1714]: "वैरिणः"
-
-
-[^1692]: "भार्या"
-
-
-[^1677]: "सभायाम्"
-
-
-[^1674]: "सर्पिणी"
-
-
-[^1671]: "रात्रिः"
-
-
-[^1670]: " पुरुषश्रेष्ठेन"
-
-
-[^1668]: "चन्द्रेण"
-
-
-[^1667]: "कलापूर्णेन"
-
-
-[^1665]: "भ्रमणशीले"
-
-
-[^1628]: "कुटुम्बम्"
-
-
-[^1603]: "लक्ष्मीः"
-
-
-[^1545]: "अग्नेः"
-
-
-[^1541]: "वृक्षाणाम्"
-
-
-[^1504]: " उदरभाण्डम्"
-
-
-[^1491]: "स्तुतिः"
-
-
-[^1488]: "इच्छति"
-
-
-[^1453]: "गृहम्"
-
-
-[^1451]: "द्रव्यम्"
-
-
-[^1432]: "नाशयति"
-
-
-[^1414]: "ब्रह्मा "
-
-
-[^1382]: "सर्पः"
-
-
-[^1372]: "'नागर' इति लोके"
-
-
-[^1370]: "वक्रा"
-
-
-[^1311]: "लक्ष्मीः"
-
-
-[^1310]: "स्त्री"
-
-
-[^1305]: "अस्निग्धम्"
-
-
-[^1304]: " मशकपूर्णा"
-
-
-[^1303]: "उदकपूर्णम्."
-
-
-[^1302]: "ऐश्वर्यम् "
-
-
-[^1301]: "उत्तमकुले उत्पत्तिः"
-
-
-[^1300]: "गृहम् "
-
-
-[^1299]: "रत्नविशेषः स हि चिन्तितमर्थंददाति इति प्रसिद्धिः"
-
-
-[^1298]: "हन्त इति खेदे"
-
-
-[^1297]: "काचमणेर्मूल्येन"
-
-
-[^1296]: "निष्फलत्वम् "
-
-
-[^1295]: "दशरथाज्जन्म यस्य सः रामः"
-
-
-[^1294]: " सार्वभौमत्वम्"
-
-
-[^1293]: "नमस्कारः"
-
-
-[^1292]: "रामपादोदकम्"
-
-
-[^1291]: " राममूर्तिः"
-
-
-[^1290]: "स्त्री"
-
-
-[^1289]: "'पडदा' इति लो०"
-
-
-[^1288]: "कृतान्तनगरीम्"
-
-
-[^1287]: "वलीभिर्माण्डता तनुर्यस्य"
-
-
-[^1271]: "स्त्री"
-
-
-[^1260]: "विश्वासः"
-
-
-[^1200]: "सह"
-
-
-[^1195]: "शिवतुल्यः"
-
-
-[^1179]: "ददाति"
-
-
-[^1176]: "लक्ष्मीः"
-
-
-[^1173]: "स्त्री"
-
-
-[^1076]: "उत्पादयति"
-
-
-[^1041]: "सभायाम्"
-
-
-[^980]: "सभायाम्"
-
-
-[^963]: " दैवम्"
-
-
-[^931]: "शीघ्रम् "
-
-
-[^927]: "पृथ्वी"
-
-
-[^920]: " शिरः"
-
-
-[^830]: "प्रीतिम्"
-
-
-[^825]: "अग्निः"
-
-
-[^820]: "अत्यन्तम्"
-
-
-[^780]: "विश्वासः"
-
-
-[^704]: "विकारम् "
-
-
-[^664]: "इच्छा"
-
-
-[^617]: "उष्ट्र"
-
-
-[^359]: "सर्पः"
-
-
-[^176]: "सर्पः"

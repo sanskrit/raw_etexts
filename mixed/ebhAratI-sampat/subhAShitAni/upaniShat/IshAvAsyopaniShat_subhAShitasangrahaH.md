@@ -12,14 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzNDUzMjM0MjE
 
 \[
 
-
-
-
-
  
 
 **ईशावास्योपनिषत्**
-
 
 \<2\>  
  कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः ।  
@@ -41,10 +36,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjQzNDUzMjM0MjE
  तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ॥  
 \</15\>  
 
-
 ----------------------------------------------------
-
-
-
 
 \]

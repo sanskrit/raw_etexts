@@ -11,14 +11,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg5MDIwMTkzODY
 
 \[
 
-
-
-
-
   
 
 **परमहंसोपनिषत्**
-
 
 \<1,2\>  
  सर्वान् कामान् परित्यज्य अद्वैते परमस्थितिः ।  
@@ -30,6 +25,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODg5MDIwMTkzODY
 
 ------------------------------------- -------------------------------
 ------------------------------- ----------------------------------
-
 
 \]

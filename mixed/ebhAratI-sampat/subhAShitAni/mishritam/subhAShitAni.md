@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 \[
 
-
-
 **सुभाषितानि - १**
-
-
 
 अकृत्यं मन्यते कृत्यमगम्यं मन्यते सुगम् \।  
 अभक्ष्यम् मन्यते भक्ष्यम् स्त्रीवाक्यप्रेरितो नरः \।\।१९\।\।
@@ -175,10 +171,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ------------------------------------------------------------------------
 
-
-
-
-
 \[[सम्पाद्यताम्](\%22http://sa.wiktionary.org/w/index.php?title=%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A5%83%E0%A4%A4_%E0%A4%B8%E0%A5%81%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BF%E0%A4%A4%E0%A4%BE%E0%A4%A8%E0%A4%BF_-_%E0%A5%A6%E0%A5%A7&action=edit&section=2\%22 "\"अयं")\]
 
 आ
@@ -313,8 +305,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 एको ना विंशतिः स्त्रीणां स्नानार्थम् शरयूं गताः \।  
 विंशतिः पुनरायाता एको व्याघ्रेण भक्षितः \।\।१६\।\।
-
-
 
 ऐक्यं बलं समाजस्य तदभावे स दुर्बलः \।  
 तस्मादैक्यं प्रशंसन्ति दृढं राष्ट्रहितैषिणः \।\।१७\।\।
@@ -1068,8 +1058,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 फणिनो बहवः सन्ति भेकभक्षणतत्पराः \।  
 एक एव हि शेषोऽयं धरणीधरणक्षमः \।\।१\।\।
 
-
-
 फलं स्वेच्छालभ्यं प्रतिदिनमखेदं क्षितिरुहां
 
 पयः स्थाने स्थाने शिशिरमधुरं पुण्यसरितां \।  
@@ -1092,8 +1080,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 बुभुक्षितः किं न करोति पापं क्षीणा नरा निष्करुणा भवन्ति \।  
 आख्याहि भद्रे प्रियदर्शनस्य न गंगदत्तः पुनरेति कूपं \।\।६\।\।
-
-
 
 ब्रह्मन्नध्ययनस्य नैष समयस्तूष्णीं बहिः स्थीयतां
 
@@ -1666,17 +1652,9 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 स्वायत्तमेकान्तहितं विधात्रा विनिर्मितं छादनमज्ञतायाः \।  
 विशेषतः सर्वविदां समाजे विभूषणं मौनमपण्डितानाम् \।\।३७\।\।
 
-
-
 **-------------------------------------------------------------**
 
-
-
-
-
 **सुभाषितानि -२**
-
-
 
 द्राक्षा म्लानमुखी जाता शर्करा न च पण्डिता \।  
 सुभाशित रसं दृष्ट्वा सुधा भीता दिवंगता\।\।
@@ -1719,7 +1697,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 लक्ष्मीः समाविशतु गच्छतु वा यथेष्टम्।  
 अद्यैव वा मरणमस्तु युगान्तरे वा  
 न्याय्यात्पथः प्रविचलन्ति पदं न धीराः॥ १४  
-
 
 अपि स्वर्णमयी लंका न मे लक्ष्मण रोचते।  
 जननी जन्मभूमिश्च स्वर्गादपि गरीयसी॥ १५
@@ -1792,7 +1769,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 क्षणशः कणशश्चैव विद्यामर्थं च साधयॆत् । क्षणत्यागॆ कुतॊ विद्या? कणत्यागॆ कुतॊ धनम् ॥
 
 ज्ञानॆन पाणिर्नतु कङ्कणॆन स्नानॆन शुद्धिर्नतु चन्दनॆन । मानॆन तृप्तिर्नतु भॊजनॆन ज्ञानॆन मुक्तिर्नतु मुण्डनॆन ॥
-
 
 वैद्यराज नमस्तुभ्यं यमराज सहोदरः। यमः हरति प्राणं वैद्यः प्राणं धनं च॥
 
@@ -1875,24 +1851,14 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 अनुद्वताः सत्पुरुषाः समृद्धिभिः स्वभाव एवैष परोपकारिणाम् \।\।६३\।\।
 
-
-
 पद्माकरं दिनकरो विकचं करोति चन्द्रो विकाशयति कैरवचक्रवालम् \।
 
 नाभ्यर्थितो जलधरोऽपि जलं ददाति सन्तः स्वयं पराहितेषु कृताभियोगाः \।\।६४\।\।
 
-
-
 **---------------------------------------
 --------------------------------------**
 
-
-
-
-
 सुभाषितानि- ३
-
-
 
 अधिगत्य
 
@@ -2574,8 +2540,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३०\।\।
 
-
-
 ------------------------------------------------------------------------
 
 अहं
@@ -2826,8 +2790,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ४१\।\।
 
-
-
 अहम्पूरुषो
 
 भारतीयोऽस्मि
@@ -2855,8 +2817,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 कल्याणहेतोः \।\।
 
 ४२\।\।
-
-
 
 अहम्भारती
 
@@ -2891,8 +2851,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 सिद्धाहमन्याय्यरूहीः \।\।
 
 ४३\।\।
-
-
 
 अञ्जलिस्थानि
 
@@ -2936,8 +2894,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ४५\।\।
 
-
-
 अनुदिनमनुतापेनास्म्यहं
 
 राम
@@ -2972,8 +2928,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ४६\।\।
 
-
-
 अतिकुपिताऽपि
 
 सुजना
@@ -2999,8 +2953,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 तृणानाम् \।\।
 
 ४७\।\।
-
-
 
 अस्यां
 
@@ -3033,8 +2985,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 कलानभिज्ञाः \।\।
 
 ४८\।\।
-
-
 
 अत्तुं
 
@@ -3081,8 +3031,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 हालाहलम् \।\।
 
 ४९\।\।
-
-
 
 अभिवादनशीलस्य
 
@@ -3153,8 +3101,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 स्थिरं \।\।
 
 ५२\।\।
-
-
 
 आकाशात्
 
@@ -3275,8 +3221,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 भगः \।\।
 
 ५\।\।
-
-
 
 आपद्गतं
 
@@ -3480,8 +3424,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १४\।\।
 
-
-
 आदौ
 
 रामतपोवनाभिगमनं
@@ -3514,8 +3456,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १५\।\।
 
-
-
 आदौ
 
 देवकिदेवगर्भजननं
@@ -3539,8 +3479,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 श्रीकृष्णलीलामृतम् \।\।
 
 १६\।\।
-
-
 
 आदौ
 
@@ -3582,7 +3520,511 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १७\।\।
 
+इच्छेयेत्
 
+विपुलां
+
+मैत्रीं
+
+त्रीणि
+
+तत्र
+
+न
+
+कारयेत् \।  
+
+वाग्वादमर्थसम्बन्धं
+
+तस्याः
+
+स्त्रीपरिभाषणम् \।\।
+
+१\।\।
+
+ईक्षणं
+
+द्विगुणं
+
+प्रोक्तं
+
+भाषणस्येति
+
+वेधसा \।  
+
+अक्षिणि
+
+द्वे
+
+मनुष्याणां
+
+जिंव्हा
+
+त्वेकैव
+
+निर्मिता \।\।
+
+२\।\।
+
+उद्यमेन
+
+हि
+
+सिद्ध्यन्ति
+
+कार्याणि
+
+न
+
+मनोरथैः \।  
+
+न
+
+हि
+
+सुप्तस्य
+
+सिंहस्य
+
+प्रविशन्ति
+
+मुखे
+
+मृगाः \।\।
+
+३\।\।
+
+उत्तमो
+
+नातिवक्ता
+
+स्यात्
+
+अधमो
+
+बहु
+
+भाषते \।  
+
+न
+
+काञ्चने
+
+ध्वनिस्तादृक्
+
+यादृक्
+
+कांस्ये
+
+प्रजायते \।\।
+
+४\।\।
+
+उपकारोऽपि
+
+नीचानां
+
+अपकारो
+
+हि
+
+जायते \।  
+
+पयःपानं
+
+भुजङ्गानां
+
+केवलं
+
+विषवर्धनम् \।\।
+
+५\।\।
+
+उत्साहो
+
+बलवानार्य
+
+नास्त्युत्साहात्
+
+परं
+
+बलम् \।  
+
+सोत्साहस्य
+
+च
+
+लोकेषु
+
+न
+
+किञ्चिदपि
+
+दुर्लभम् \।\।
+
+६\।\।
+
+उपदेशो
+
+हि
+
+मूर्खाणां
+
+प्रकोपाय
+
+न
+
+शान्तये \।  
+
+पयःपानं
+
+भुजङ्गानां
+
+केवलं
+
+विषवर्धनम् \।\।
+
+७\।\।
+
+उत्तमा
+
+आत्मनः
+
+ख्याताः
+
+पितुः
+
+ख्याताश्च
+
+मध्यमाः \।  
+
+अधमा
+
+मातुलात्
+
+ख्याताः
+
+श्वशुराच्चाधमाधमाः \।\।
+
+८\।\।
+
+उदारस्य
+
+तृणं
+
+वित्तं
+
+शूरस्य
+
+मरणं
+
+तृणम् \।  
+
+विरक्तस्य
+
+तृणं
+
+भार्या
+
+निःस्पृहस्य
+
+तृणं
+
+जगत् \।\।
+
+९\।\।
+
+एक
+
+एव
+
+तपः
+
+कुर्यात्
+
+द्वौ
+
+स्वाध्यायपरौ
+
+हितौ \।  
+
+त्रयोऽधिका
+
+वा
+
+क्रीडायां
+
+प्रवासेऽपि
+
+च
+
+ते
+
+मताः \।\।
+
+१०\।\।
+
+एकः
+
+स्वादु
+
+न
+
+भुञ्जीत
+
+नैकः
+
+सप्तेषु
+
+जागृयात् \।  
+
+एको
+
+न
+
+गच्छेदध्वानं
+
+नैकश्चार्थान्
+
+विचिन्तयेत् \।\।
+
+११\।\।
+
+एकचक्रो
+
+रथो
+
+यन्ता
+
+विकलो
+
+विषमा
+
+हयाः \।  
+
+आक्रामत्येव
+
+तेजस्वी
+
+तथाप्यर्को
+
+नभस्तलम् \।\।
+
+१२\।\।
+
+एकेनापि
+
+सुवृक्षेण
+
+पुष्पितेन
+
+सुगन्धिना \।  
+
+वासितं
+
+तद्वनं
+
+सर्वम्
+
+सुपुत्रेण
+
+कुलं
+
+यथा \।\।
+
+१३\।\।
+
+एको
+
+हि
+
+दोशो
+
+गुणसन्निपाते
+
+निमज्जतीन्दोरिति
+
+यो
+
+बभाषे \।  
+
+नूनं
+
+न
+
+दृष्टं
+
+कविनापि
+
+तेन
+
+दारिद्र्यदोशो
+
+गुणराशिनाशी \।\।
+
+१४\।\।
+
+एते
+
+सत्पुरुषा
+
+परार्थघटकाः
+
+स्वार्थान्
+
+परित्यज्य
+
+ये
+
+सामान्यास्तु
+
+परार्थमुद्यमभृतः
+
+स्वार्थाविरोधेन
+
+ये \।  
+
+तेऽमी
+
+मानवराक्षसाः
+
+परहितं
+
+स्वार्थाय
+
+निघ्नन्ति
+
+ये
+
+ये
+
+तु
+
+घ्नन्ति
+
+निरर्थकं
+
+परहितं
+
+ते
+
+के
+
+न
+
+जानीमहे \।\।
+
+१५\।\।
+
+एको
+
+ना
+
+विंशतिः
+
+स्त्रीणां
+
+स्नानार्थम्
+
+शरयूं
+
+गताः \।  
+
+विंशतिः
+
+पुनरायाता
+
+एको
+
+व्याघ्रेण
+
+भक्षितः \।\।
+
+१६\।\।
+
+ऐक्यं
+
+बलं
+
+समाजस्य
+
+तदभावे
+
+स
+
+दुर्बलः \।  
+
+तस्मादैक्यं
+
+प्रशंसन्ति
+
+दृढं
+
+राष्ट्रहितैषिणः \।\।
+
+१७\।\।
+
+ॐकारश्चाथशब्दश्च
+
+द्वावेतौ
+
+ब्रह्मणः
+
+पुरा \।  
+
+कण्ठं
+
+भित्त्वा
+
+विनिर्यातौ
+
+तस्मान्माङ्गलिकावुभौ \।\।
+
+१८\।\।
+
+ऋग्वेदोऽथ
+
+यजुर्वेदो
+
+सामवेदो
+
+ह्यथर्वणः \।  
+
+चत्वारः
+
+सन्ति
+
+ते
+
+वेदाः
+
+मान्याः
+
+सर्वत्र
+
+पूजिताः \।\।
+
+१९\।\।
+
+ऋणशेषोऽग्निशेषश्च
+
+शत्रुशेषस्तथैव
+
+च \।  
+
+पुनः
+
+पुनः
+
+प्रवर्धन्ते
+
+तस्माच्छेषं
+
+न
+
+रक्षयेत् \।\।
+
+२०\।\।
 
 इच्छेयेत्
 
@@ -3828,8 +4270,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १०\।\।
 
-
-
 एकः
 
 स्वादु
@@ -3929,8 +4369,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 गुणराशिनाशी \।\।
 
 १४\।\।
-
-
 
 एते
 
@@ -4093,8 +4531,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 रक्षयेत् \।\।
 
 २०\।\।
-
-
 
 इच्छेयेत्
 
@@ -4340,8 +4776,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १०\।\।
 
-
-
 एकः
 
 स्वादु
@@ -4441,8 +4875,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 गुणराशिनाशी \।\।
 
 १४\।\।
-
-
 
 एते
 
@@ -4605,520 +5037,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 रक्षयेत् \।\।
 
 २०\।\।
-
-
-
-इच्छेयेत्
-
-विपुलां
-
-मैत्रीं
-
-त्रीणि
-
-तत्र
-
-न
-
-कारयेत् \।  
-
-वाग्वादमर्थसम्बन्धं
-
-तस्याः
-
-स्त्रीपरिभाषणम् \।\।
-
-१\।\।
-
-ईक्षणं
-
-द्विगुणं
-
-प्रोक्तं
-
-भाषणस्येति
-
-वेधसा \।  
-
-अक्षिणि
-
-द्वे
-
-मनुष्याणां
-
-जिंव्हा
-
-त्वेकैव
-
-निर्मिता \।\।
-
-२\।\।
-
-उद्यमेन
-
-हि
-
-सिद्ध्यन्ति
-
-कार्याणि
-
-न
-
-मनोरथैः \।  
-
-न
-
-हि
-
-सुप्तस्य
-
-सिंहस्य
-
-प्रविशन्ति
-
-मुखे
-
-मृगाः \।\।
-
-३\।\।
-
-उत्तमो
-
-नातिवक्ता
-
-स्यात्
-
-अधमो
-
-बहु
-
-भाषते \।  
-
-न
-
-काञ्चने
-
-ध्वनिस्तादृक्
-
-यादृक्
-
-कांस्ये
-
-प्रजायते \।\।
-
-४\।\।
-
-उपकारोऽपि
-
-नीचानां
-
-अपकारो
-
-हि
-
-जायते \।  
-
-पयःपानं
-
-भुजङ्गानां
-
-केवलं
-
-विषवर्धनम् \।\।
-
-५\।\।
-
-उत्साहो
-
-बलवानार्य
-
-नास्त्युत्साहात्
-
-परं
-
-बलम् \।  
-
-सोत्साहस्य
-
-च
-
-लोकेषु
-
-न
-
-किञ्चिदपि
-
-दुर्लभम् \।\।
-
-६\।\।
-
-उपदेशो
-
-हि
-
-मूर्खाणां
-
-प्रकोपाय
-
-न
-
-शान्तये \।  
-
-पयःपानं
-
-भुजङ्गानां
-
-केवलं
-
-विषवर्धनम् \।\।
-
-७\।\।
-
-उत्तमा
-
-आत्मनः
-
-ख्याताः
-
-पितुः
-
-ख्याताश्च
-
-मध्यमाः \।  
-
-अधमा
-
-मातुलात्
-
-ख्याताः
-
-श्वशुराच्चाधमाधमाः \।\।
-
-८\।\।
-
-उदारस्य
-
-तृणं
-
-वित्तं
-
-शूरस्य
-
-मरणं
-
-तृणम् \।  
-
-विरक्तस्य
-
-तृणं
-
-भार्या
-
-निःस्पृहस्य
-
-तृणं
-
-जगत् \।\।
-
-९\।\।
-
-एक
-
-एव
-
-तपः
-
-कुर्यात्
-
-द्वौ
-
-स्वाध्यायपरौ
-
-हितौ \।  
-
-त्रयोऽधिका
-
-वा
-
-क्रीडायां
-
-प्रवासेऽपि
-
-च
-
-ते
-
-मताः \।\।
-
-१०\।\।
-
-
-
-एकः
-
-स्वादु
-
-न
-
-भुञ्जीत
-
-नैकः
-
-सप्तेषु
-
-जागृयात् \।  
-
-एको
-
-न
-
-गच्छेदध्वानं
-
-नैकश्चार्थान्
-
-विचिन्तयेत् \।\।
-
-११\।\।
-
-एकचक्रो
-
-रथो
-
-यन्ता
-
-विकलो
-
-विषमा
-
-हयाः \।  
-
-आक्रामत्येव
-
-तेजस्वी
-
-तथाप्यर्को
-
-नभस्तलम् \।\।
-
-१२\।\।
-
-एकेनापि
-
-सुवृक्षेण
-
-पुष्पितेन
-
-सुगन्धिना \।  
-
-वासितं
-
-तद्वनं
-
-सर्वम्
-
-सुपुत्रेण
-
-कुलं
-
-यथा \।\।
-
-१३\।\।
-
-एको
-
-हि
-
-दोशो
-
-गुणसन्निपाते
-
-निमज्जतीन्दोरिति
-
-यो
-
-बभाषे \।  
-
-नूनं
-
-न
-
-दृष्टं
-
-कविनापि
-
-तेन
-
-दारिद्र्यदोशो
-
-गुणराशिनाशी \।\।
-
-१४\।\।
-
-
-
-एते
-
-सत्पुरुषा
-
-परार्थघटकाः
-
-स्वार्थान्
-
-परित्यज्य
-
-ये
-
-सामान्यास्तु
-
-परार्थमुद्यमभृतः
-
-स्वार्थाविरोधेन
-
-ये \।  
-
-तेऽमी
-
-मानवराक्षसाः
-
-परहितं
-
-स्वार्थाय
-
-निघ्नन्ति
-
-ये
-
-ये
-
-तु
-
-घ्नन्ति
-
-निरर्थकं
-
-परहितं
-
-ते
-
-के
-
-न
-
-जानीमहे \।\।
-
-१५\।\।
-
-एको
-
-ना
-
-विंशतिः
-
-स्त्रीणां
-
-स्नानार्थम्
-
-शरयूं
-
-गताः \।  
-
-विंशतिः
-
-पुनरायाता
-
-एको
-
-व्याघ्रेण
-
-भक्षितः \।\।
-
-१६\।\।
-
-ऐक्यं
-
-बलं
-
-समाजस्य
-
-तदभावे
-
-स
-
-दुर्बलः \।  
-
-तस्मादैक्यं
-
-प्रशंसन्ति
-
-दृढं
-
-राष्ट्रहितैषिणः \।\।
-
-१७\।\।
-
-ॐकारश्चाथशब्दश्च
-
-द्वावेतौ
-
-ब्रह्मणः
-
-पुरा \।  
-
-कण्ठं
-
-भित्त्वा
-
-विनिर्यातौ
-
-तस्मान्माङ्गलिकावुभौ \।\।
-
-१८\।\।
-
-ऋग्वेदोऽथ
-
-यजुर्वेदो
-
-सामवेदो
-
-ह्यथर्वणः \।  
-
-चत्वारः
-
-सन्ति
-
-ते
-
-वेदाः
-
-मान्याः
-
-सर्वत्र
-
-पूजिताः \।\।
-
-१९\।\।
-
-ऋणशेषोऽग्निशेषश्च
-
-शत्रुशेषस्तथैव
-
-च \।  
-
-पुनः
-
-पुनः
-
-प्रवर्धन्ते
-
-तस्माच्छेषं
-
-न
-
-रक्षयेत् \।\।
-
-२०\।\।
-
-
 
 क्षमा
 
@@ -5273,8 +5191,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 मधुरध्वनिम् \।\।
 
 ६\।\।
-
-
 
 काकः
 
@@ -5452,8 +5368,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १२\।\।
 
-
-
 का
 
 पाण्डुपत्नी
@@ -5594,8 +5508,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १७\।\।
 
-
-
 क्वचित्
 
 दुष्टः
@@ -5714,8 +5626,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २२\।\।
 
-
-
 कस्यचित्
 
 किमपि
@@ -5783,8 +5693,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 नाषिताः \।\।
 
 २५\।\।
-
-
 
 काचं
 
@@ -5858,8 +5766,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २८\।\।
 
-
-
 किसलयानि
 
 कुतः
@@ -5892,8 +5798,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २९\।\।
 
-
-
 कल्पद्रुमः
 
 कल्पितमेव
@@ -5923,8 +5827,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 प्रसूते \।\।
 
 ३०\।\।
-
-
 
 करोति
 
@@ -6003,8 +5905,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 योषितः \।\।
 
 ३३\।\।
-
-
 
 काके
 
@@ -6170,8 +6070,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३९\।\।
 
-
-
 करोति
 
 शोभामलके
@@ -6208,8 +6106,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ४०\।\।
 
-
-
 क्षुत्क्षामोऽपि
 
 जराकृशोऽपि
@@ -6241,8 +6137,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 केसरी \।\।
 
 ४१\।\।
-
-
 
 किं
 
@@ -6277,8 +6171,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 समुद्रः \।\।
 
 ४२\।\।
-
-
 
 केयूरा
 
@@ -6404,8 +6296,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ४६\।\।
 
-
-
 खलः
 
 करोति
@@ -6429,8 +6319,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 महोदधेः \।\।
 
 १\।\।
-
-
 
 खिन्नं
 
@@ -6481,8 +6369,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 सङ्ग्रहः \।\।
 
 २\।\।
-
-
 
 खद्योतो
 
@@ -6900,8 +6786,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १९\।\।
 
-
-
 घृष्टं
 
 घृष्टं
@@ -6945,8 +6829,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 नोत्तमानाम् \।\।
 
 २०\।\।
-
-
 
 ------------------------------------------------------------------------
 
@@ -7024,8 +6906,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २\।\।
 
-
-
 खद्योतो
 
 द्योतते
@@ -7442,8 +7322,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १९\।\।
 
-
-
 घृष्टं
 
 घृष्टं
@@ -7487,8 +7365,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 नोत्तमानाम् \।\।
 
 २०\।\।
-
-
 
 चन्दनं
 
@@ -7744,8 +7620,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १०\।\।
 
-
-
 जीवनं
 
 स्वं
@@ -7857,8 +7731,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 स्मृताः \।\।
 
 १५\।\।
-
-
 
 तृणं
 
@@ -8084,8 +7956,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ९\।\।
 
-
-
 तिलवत्स्निग्धं
 
 मनोऽस्तु
@@ -8121,8 +7991,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 सदाहमाशंसे \।\।
 
 १०\।\।
-
-
 
 दधि
 
@@ -8614,8 +8482,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २०\।\।
 
-
-
 दर्शने
 
 स्पर्शणे
@@ -8770,8 +8636,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २७\।\।
 
-
-
 न
 
 धैर्येण
@@ -8921,8 +8785,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 वा \।\।
 
 ६\।\।
-
-
 
 नागो
 
@@ -9304,8 +9166,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २०\।\।
 
-
-
 न
 
 गृहं
@@ -9383,8 +9243,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 सर्वदा \।\।
 
 २३\।\।
-
-
 
 निन्दन्तु
 
@@ -9574,7 +9432,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 चार्थम्\।\।  
 
-
 ३०\।\।
 
 नैनं
@@ -9600,8 +9457,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 मारुतः \।\।
 
 ३१\।\।
-
-
 
 नानाधर्मनिगूढतत्त्वनिचिता
 
@@ -9649,8 +9504,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३२\।\।
 
-
-
 नरपतिहितकर्ता
 
 द्वेष्यतां
@@ -9682,8 +9535,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 कार्यकर्ता \।\।
 
 ३३\।\।
-
-
 
 नायं
 
@@ -9723,8 +9574,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३४\।\।
 
-
-
 निवृत्तो
 
 यस्तु
@@ -9748,8 +9597,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 शारीरमानसैः \।\।
 
 ३५\।\।
-
-
 
 निःस्वो
 
@@ -9802,8 +9649,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 गतः \।\।
 
 ३६\।\।
-
-
 
 न
 
@@ -9899,8 +9744,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ४०\।\।
 
-
-
 नृपस्य
 
 वर्णाश्रमपालनं
@@ -9946,8 +9789,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 भूयः \।\।
 
 ४१\।\।
-
-
 
 नक्षत्रभूषणं
 
@@ -10018,8 +9859,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 भारतम् \।\।
 
 ४४\।\।
-
-
 
 परित्राणाय
 
@@ -10323,8 +10162,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १४\।\।
 
-
-
 प्रारभ्यते
 
 न
@@ -10358,8 +10195,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 परित्यजन्ति \।\।
 
 १४\।\।
-
-
 
 प्रलये
 
@@ -10436,8 +10271,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 तद्धनम् \।\।
 
 १७\।\।
-
-
 
 परिश्रमो
 
@@ -10522,8 +10355,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 यथा \।\।
 
 २०\।\।
-
-
 
 पङ्गो
 
@@ -10701,8 +10532,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २६\।\।
 
-
-
 प्रथमवयसि
 
 पीतं
@@ -10734,8 +10563,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 विस्मरन्ति \।\।
 
 २७\।\।
-
-
 
 पश्चाद्बर्हं
 
@@ -10787,8 +10614,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २८\।\।
 
-
-
 पलाशमुकुलभ्रान्त्या
 
 शुकतुण्डे
@@ -10827,8 +10652,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३०\।\।
 
-
-
 पाराशर्यवचः
 
 सरोजममलं
@@ -10856,8 +10679,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 श्रेयसे \।\।
 
 ३१\।\।
-
-
 
 पार्थाय
 
@@ -10999,8 +10820,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३७\।\।
 
-
-
 फणिनो
 
 बहवः
@@ -11020,8 +10839,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 धरणीधरणक्षमः \।\।
 
 १\।\।
-
-
 
 फलं
 
@@ -11162,8 +10979,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 कूपं \।\।
 
 ६\।\।
-
-
 
 ब्रह्मन्नध्ययनस्य
 
@@ -11357,8 +11172,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १३\।\।
 
-
-
 भीष्मद्रोणतटा
 
 जयद्रथजला
@@ -11421,8 +11234,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १५\।\।
 
-
-
 माता
 
 मित्रं
@@ -11473,8 +11284,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २\।\।
 
-
-
 मात्रा
 
 समं
@@ -11508,8 +11317,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 शरीरभूषणं \।\।
 
 ३\।\।
-
-
 
 मुखं
 
@@ -11638,8 +11445,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 जगति \।\।
 
 ९\।\।
-
-
 
 मर्कटस्य
 
@@ -11803,8 +11608,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १७\।\।
 
-
-
 मौनान्मूर्खः
 
 प्रवचनपटुर्वातुलो
@@ -11842,8 +11645,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 योगिनामप्यगम्यः \।\।
 
 १८\।\।
-
-
 
 यथा
 
@@ -11921,8 +11722,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३\।\।
 
-
-
 या
 
 कुन्देन्दु
@@ -11962,8 +11761,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 निःशेषजाड्यापहा \।\।
 
 ४\।\।
-
-
 
 यस्तु
 
@@ -12078,8 +11875,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 प्राज्ञस्तदेवेश्वरपूजनम् \।\।
 
 ९\।\।
-
-
 
 येषां
 
@@ -12341,8 +12136,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १८\।\।
 
-
-
 ये
 
 नाम
@@ -12385,8 +12178,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १९\।\।
 
-
-
 यस्य
 
 शष्ठी
@@ -12418,8 +12209,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 कथम् \।\।
 
 २०\।\।
-
-
 
 यत्र
 
@@ -12504,8 +12293,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 विना \।\।
 
 २४\।\।
-
-
 
 यां
 
@@ -12641,8 +12428,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २९\।\।
 
-
-
 यत्र
 
 नार्यस्तु
@@ -12700,8 +12485,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 वनानि \।\।
 
 ३१\।\।
-
-
 
 रूपयौवनसम्पन्ना
 
@@ -12771,8 +12554,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३\।\।
 
-
-
 रात्रिर्गमिष्यति
 
 भविष्यति
@@ -12806,8 +12587,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 उज्जहार \।\।
 
 ४\।\।
-
-
 
 रे
 
@@ -12865,8 +12644,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ५\।\।
 
-
-
 रात्रौ
 
 जानु
@@ -12910,8 +12687,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 महानिधी \।\।
 
 ७\।\।
-
-
 
 रथस्यैकं
 
@@ -12965,8 +12740,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ९\।\।
 
-
-
 रे
 
 रे
@@ -13010,8 +12783,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 परे \।\।
 
 १०\।\।
-
-
 
 रामाद्याचय
 
@@ -13058,8 +12829,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 कृथाः \।\।
 
 ११\।\।
-
-
 
 रामाभिषेके
 
@@ -13162,8 +12931,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 अतिलोभात्विनश्यति \।\।
 
 १५\।\।
-
-
 
 लक्ष्मीः
 
@@ -13290,8 +13057,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 सुखम् \।\।
 
 २०\।\।
-
-
 
 विद्याधिदेवता
 
@@ -13545,8 +13310,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 १०\।\।
 
-
-
 वरं
 
 दरिद्रः
@@ -13764,8 +13527,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 विज्ञातुमर्हति \।\।
 
 २०\।\।
-
-
 
 विपदि
 
@@ -14109,8 +13870,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३४\।\।
 
-
-
 वृक्षाग्रवासी
 
 न
@@ -14185,8 +13944,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३७\।\।
 
-
-
 विश्वाभिरामगुणगौरवगुम्फितानाम्
 
 रोषोऽपि
@@ -14211,8 +13968,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३८\।\।
 
-
-
 विराटनगरे
 
 राजन्
@@ -14230,8 +13985,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 दशवार्शिकि \।\।
 
 ३९\।\।
-
-
 
 वह्निस्तस्य
 
@@ -14268,8 +14021,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 समुन्मीलति \।\।
 
 ४०\।\।
-
-
 
 सदाचारेण
 
@@ -14491,8 +14242,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 मे \।\।
 
 १०\।\।
-
-
 
 सर्वथा
 
@@ -14730,8 +14479,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २०\।\।
 
-
-
 स्वयं
 
 महेषः
@@ -14759,8 +14506,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 केवलमीश्वरेच्छा \।\।
 
 २१\।\।
-
-
 
 सन्तप्तायसि
 
@@ -14820,8 +14565,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 २३\।\।
 
-
-
 सुखं
 
 हि
@@ -14855,8 +14598,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 जीवति \।\।
 
 २४\।\।
-
-
 
 सारङ्गाः
 
@@ -14897,8 +14638,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 स्पृहा \।\।
 
 २५\।\।
-
-
 
 स्वस्ति
 
@@ -14953,8 +14692,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 मे \।\।
 
 २६\।\।
-
-
 
 सुलभाः
 
@@ -15129,8 +14866,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३३\।\।
 
-
-
 सर्पा
 
 पिबन्ति
@@ -15169,8 +14904,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 
 ३४\।\।
 
-
-
 संस्कृतं
 
 देवभाषास्ति
@@ -15202,8 +14935,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 समदर्शनाः \।\।
 
 ३६\।\।
-
-
 
 स्वायत्तमेकान्तहितं
 
@@ -15290,8 +15021,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 सनातनः \।\।
 
 ४०\।\।
-
-
 
 स्नेहं
 
@@ -15506,7 +15235,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDg0MzYyMTE1
 ४९\।\।
 
 --------------------------------------------
-
-
 
 \]

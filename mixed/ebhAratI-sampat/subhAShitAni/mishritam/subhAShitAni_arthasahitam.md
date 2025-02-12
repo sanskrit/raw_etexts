@@ -12,13 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODEyNjM1MjI1ODA
 
 \[
 
-
-
 # 
 
 # **सुभाषितानि**
-
-
 
 भाषासु मुख्या मधुरा दिव्या गीर्वाण भारती। तस्यां हि काव्यं मधुरं तस्मादपि सुभाषितम्॥ द्राक्षा म्लानमुखी जाता शर्करा चाश्मतां गता। सुभाषितरसम् दृष्ट्वा सुधा भीता दिवां गता॥
 
@@ -153,8 +149,6 @@ In this world, to take birth in the human race is rare, wherein to obtain knowle
 
 Wanting to reform the wicked with nectar-sweet advice, is like trying to control an elephant with the pith of a lotus-stem, or cutting a diamond with delicate petals of the Shireesh flower, or sweetening the salty ocean with a drop of honey.
 
-
-
 २)
 
 विवेक
@@ -192,8 +186,6 @@ Wanting to reform the wicked with nectar-sweet advice, is like trying to control
 ॥  
 
 The Ganges descended from the heavens upon the head of Shiva, and thence, to the mountains. From the high mountains, she flowed down the plains to finally lapse into the sea. Thus, the Ganges kept drifting downwards from one level to another. Similarly, those who have lost their sagacity plunge downwards in a hundred ways. Note: The Ganges became proud that she emerged from Vishnu's feet, and lost her sense of bearing
-
-
 
 ३)
 
@@ -245,10 +237,6 @@ The Ganges descended from the heavens upon the head of Shiva, and thence, to the
 
 Those who are devoid of learning, restraint, charity, knowledge, moral conduct, virtue and righteousness are virtually animals living in the garb of men, and burdening the Earth.
 
-
-
-
-
 ४)
 
 दुर्जन
@@ -276,8 +264,6 @@ Those who are devoid of learning, restraint, charity, knowledge, moral conduct, 
 सन्॥
 
 It is wise to keep a wicked man at arm's length even if he is embellished with knowledge. Is it not true that a snake even though crowned with a jewel is yet dreadful?
-
-
 
 ५)
 
@@ -340,8 +326,6 @@ It is wise to keep a wicked man at arm's length even if he is embellished with k
 भूषणम्॥
 
 Bracelets do not adorn a person. Nor do pearl necklaces shining like the moon, or a cleansing bath; nor anointment of the body, nor flowers, nor decoration for the hair. It is cultured speech alone which embellishes a man. All other ornaments lose their glitter, only the jewel of speech ever remains the jewel of jewels.
-
-
 
 ६)
 
@@ -407,8 +391,6 @@ Bracelets do not adorn a person. Nor do pearl necklaces shining like the moon, o
 
 Knowledge is certainly a man's greatest beauty. It is a safe and hidden treasure. It provides prosperity, fame and happiness. Knowledge is the guru of all gurus. It acts as one's friend in a foreign country. Knowledge is the Supreme God. It is the knowledge, not wealth, which is adored by kings. Without knowledge one remains as animal.
 
-
-
 ७)
 
 सत्सङ्ग
@@ -455,8 +437,6 @@ Knowledge is certainly a man's greatest beauty. It is a safe and hidden treasure
 
 The companionship of good people removes the inertia of one's mind, nurtures truth in the speech, enhances prestige, expiates the sins, comforts the conscience, spreads the name and fame in all directions. Say! what good is there which the company of devout does not bring to a man.
 
-
-
 ८)
 
 उत्तमजना
@@ -499,8 +479,6 @@ The companionship of good people removes the inertia of one's mind, nurtures tru
 
 Base men do not undertake any work apprehending obstacles. Mediocres make a start, but cease working when they encounter hindrances. The men of excellence, however, after commencing a job do not give up despite of recurrence of impediments.
 
-
-
 ९)
 
 सज्जना
@@ -530,8 +508,6 @@ Base men do not undertake any work apprehending obstacles. Mediocres make a star
 ॥
 
 A lion's cub also attacks a frenzied elephant. Valour is inherent in the nature of the powerful, and age, as such, is of no consequence to their prowess.
-
-
 
 १०)
 
@@ -567,8 +543,6 @@ A lion's cub also attacks a frenzied elephant. Valour is inherent in the nature 
 
 Patience in adversity, magnanimity in ascendancy, eloquence in assembly, bravery in battle, aspiration for eminence and engrossment in the Scriptures are the self-evident attributes of great men.
 
-
-
 ११)
 
 धनं
@@ -602,8 +576,6 @@ Patience in adversity, magnanimity in ascendancy, eloquence in assembly, bravery
 गतिर्भवति॥
 
 There are only three ends of wealth-charity, enjoyment or destruction. One who neither gives, nor enjoys, leaves open only the third course for it.
-
-
 
 १२)
 
@@ -651,8 +623,6 @@ There are only three ends of wealth-charity, enjoyment or destruction. One who n
 
 The path of service is formidable. It is difficult even for a yogi to follow. If a man in service remains quiet, then he is called dumb. If he is quick-witted, then he is described as loquacious. If he stays close by, then he is taken to be audacious, and if he maintains a distance, then is considered as shy. If he is tolerant, then he is regarded as timid, and if he is unable to bear indignities, then he is known as ill bred.
 
-
-
 १३)
 
 परोपकार
@@ -686,8 +656,6 @@ The path of service is formidable. It is difficult even for a yogi to follow. If
 चन्दनेन॥
 
 Ears are to be adorned by listening to the Scriptures and not with ear rings; hands by alms giving and not with bracelets, and body by benevolence and not with the application of sandal-paste.
-
-
 
 १४)
 
@@ -731,8 +699,6 @@ Ears are to be adorned by listening to the Scriptures and not with ear rings; ha
 
 Indeed, a son is he who makes his father happy with his good deeds. The woman who is a well-wisher of her husband is a wife in the real sense. A friend who remains alike in times of happiness and misery, is a true friend. Verily, men obtain these three only as a result of their good deeds.
 
-
-
 १५)
 
 मित्रम्
@@ -772,8 +738,6 @@ Indeed, a son is he who makes his father happy with his good deeds. The woman wh
 ॥
 
 He restrains his friend from committing sins, and induces him to do good deeds. He conceals the unseemly secrets of a friend, projecting only his good qualities. He does not desert his friend in difficulties, but gives timely assistance. Saints describe these as the characteristics of a true friend.
-
-
 
 १६)
 
@@ -831,8 +795,6 @@ He restrains his friend from committing sins, and induces him to do good deeds. 
 
 What is a grain? It is the companionship of the virtuous. What is grief? It is the company of fools. What is loss? It is the dissipation of time. What is prudence? It is devotion to virtue. What is velour? It is the conquest of the senses. Who is the beloved wife? One who is devoted to her husband. What is wealth? It is knowledge. What is happiness? It is to remain settled in one's own country. What is ruler ship? It is to command obedience.
 
-
-
 १७)
 
 धीरा
@@ -881,8 +843,6 @@ What is a grain? It is the companionship of the virtuous. What is grief? It is t
 
 Discerning men may slight or laud them, the goddess of wealth, Lakshmi, may come or go as she likes, death may occur today or after ages; but strong-willed men do not deviate from the path of justice.
 
-
-
 १८)
 
 सुविचार
@@ -908,8 +868,6 @@ Discerning men may slight or laud them, the goddess of wealth, Lakshmi, may come
 कुर्वता॥
 
 The result of men's efforts depends upon fate. Intelligence is also determined by fate, yet wise men should think before acting.
-
-
 
 १९)
 
@@ -945,8 +903,6 @@ The result of men's efforts depends upon fate. Intelligence is also determined b
 
 Before taking any action, whether good or bad, wise men should carefully ponder over its consequences. Or else, the result of an act done in haste keeps piercing the heart like an arrow even after death.
 
-
-
 २०)
 
 सुयोधन
@@ -970,8 +926,6 @@ Before taking any action, whether good or bad, wise men should carefully ponder 
 स्वयमुपक्रमेत्॥
 
 (A King) desiring to attack (an enemy) should first make his soldiers contented (by good pay and just treatment) and having injured (weakened) the enemy by strategy should himself then advance (to the attack).
-
-
 
 २१)
 
@@ -1001,8 +955,6 @@ Before taking any action, whether good or bad, wise men should carefully ponder 
 
 A well-wisher (friendly) but not learned, and a learned man but unreliable (is no good), for kingship is maintained by wise counsel and therefore it (state secrets) should be well guarded.
 
-
-
 २२)
 
 दुस्सङ्ग
@@ -1029,8 +981,6 @@ A well-wisher (friendly) but not learned, and a learned man but unreliable (is n
 
 If a person, though of noble birth, associates himself with low people, considering it important, is doomed to a fall, as a person though holding a bamboo stick may precipitate into a fall if he takes a difficult path leading downwards.
 
-
-
 २३)
 
 लोभी
@@ -1056,8 +1006,6 @@ If a person, though of noble birth, associates himself with low people, consider
 ॥
 
 Dependents give advice for taking an unbeneficial course actuated by greed (for their own future). He who listens to their pleasing words is not favoured by prosperity.
-
-
 
 २४)
 
@@ -1087,8 +1035,6 @@ Dependents give advice for taking an unbeneficial course actuated by greed (for 
 
 One well born, though insulted, does not hit back in the same strain due to innate breeding (natural courtesy). The sandal tree of the Malaya mountain does not exude filth (even) to him who cuts it with an axe.
 
-
-
 २५)
 
 सहिष्णु
@@ -1108,8 +1054,6 @@ One well born, though insulted, does not hit back in the same strain due to inna
 महानपि॥
 
 An enemy, though powerful can be easily uprooted by a patient person, if he is shaken by the wind of disaffection and if his supporters are gradually estranged, like a tree which, though big, can be easily uprooted shaken by the wind and its mass of roots gradually giving way.
-
-
 
 २६)
 
@@ -1135,8 +1079,6 @@ An enemy, though powerful can be easily uprooted by a patient person, if he is s
 
 Offended friends should be reconciled by honouring and gifts and kind words; others should be won over by the proper employment of the policy of alienation or bribery or gift.
 
-
-
 २७)
 
 राजनीति
@@ -1158,8 +1100,6 @@ Offended friends should be reconciled by honouring and gifts and kind words; oth
 ॥
 
 A king who advances towards the enemy without carefully examining others’ deception expecting to see what he wants, out of greed, is killed helplessly, deserted by his allies, like a bird with its wings cut and helpless.
-
-
 
 २८)
 
@@ -1199,8 +1139,6 @@ A king who advances towards the enemy without carefully examining others’ dece
 
 People worship the lord of waters (ocean) by offering (consecrated) water to him and wave lights before the sun (to illumine him). Do these two things enhance their fullness? Great people are indeed pleased by devotion.
 
-
-
 २९)
 
 विद्वान्
@@ -1225,8 +1163,6 @@ People worship the lord of waters (ocean) by offering (consecrated) water to him
 
 A stream of tasteful water, having flown into the sea, becomes saline and thus undrinkable. For this simple reason, a wise man should never associate with one of wicked and impure soul.
 
-
-
 ३०)
 
 सज्जन
@@ -1248,8 +1184,6 @@ A stream of tasteful water, having flown into the sea, becomes saline and thus u
 न्याय्यैकसेविना॥
 
 One who ever stands for reason must accept a science, though man made, if it stands to reason; and he must reject the other (the unreasonable) though it may be propounded by the sages (of yore).
-
-
 
 ३१)
 
@@ -1279,8 +1213,6 @@ One who ever stands for reason must accept a science, though man made, if it sta
 
 If, even after having acquired human birth those who do not become truly wise, it is far better that they are born as beasts; for then they will do no mischief to others.
 
-
-
 ३२)
 
 बुधजन
@@ -1304,8 +1236,6 @@ If, even after having acquired human birth those who do not become truly wise, i
 चन्द्रोदयमपेक्षते॥
 
 Wise men should get friends, even if they live in abundance, the lord of rivers \[the ocean\], although filled, impatiently waits for the rise of the moon.
-
-
 
 ३३)
 
@@ -1332,8 +1262,6 @@ Wise men should get friends, even if they live in abundance, the lord of rivers 
 ॥
 
 A wise man should rather remain inactive like a branchless truck, and wither away with oppressive hunger, then seek a means of maintenance from the worthless.
-
-
 
 ३४)
 
@@ -1362,8 +1290,6 @@ A wise man should rather remain inactive like a branchless truck, and wither awa
 दरिद्रता॥
 
 Empty is a house for a childless person; empty is the country for a person lacking relations; empty is the heart of a fool; (but) poverty is complete emptiness.
-
-
 
 ३५)
 
@@ -1397,8 +1323,6 @@ Empty is a house for a childless person; empty is the country for a person lacki
 
 One becomes a fool by not questioning, but wisdom comes up by deep thinking. A vessel, not full, makes noise, but not so a full one.
 
-
-
 ३६)
 
 मूढ
@@ -1418,8 +1342,6 @@ One becomes a fool by not questioning, but wisdom comes up by deep thinking. A v
 समुन्नद्धस्तमाहुर्मूढचेतसम्॥
 
 Foolish us he, who though prosperous does not help others; who though poor is generous; and who though ignorant is proud and swollen.
-
-
 
 ३७)
 
@@ -1448,8 +1370,6 @@ Foolish us he, who though prosperous does not help others; who though poor is ge
 ॥
 
 An unimportant person becomes important, as soon as he is employed by a prince (and) an important person becomes unimportant as soon as he is unemployed.
-
-
 
 ३८)
 
@@ -1481,8 +1401,6 @@ An unimportant person becomes important, as soon as he is employed by a prince (
 
 This king who is vigilant, who is well versed in knowledge, who controls his senses who is grateful and who is virtuous, will reign over the kingdom for a long time.
 
-
-
 ३९)
 
 प्राज्ञ
@@ -1509,8 +1427,6 @@ This king who is vigilant, who is well versed in knowledge, who controls his sen
 
 A wise man should keep far away from an unpleasant person, from injuring others, from other’s views, from unrighteous conduct and from untruth.
 
-
-
 ४०)
 
 सज्जना
@@ -1534,8 +1450,6 @@ A wise man should keep far away from an unpleasant person, from injuring others,
 परित्यजति॥
 
 A man of culture does not speak unpleasantly though burnt by the burning coals of displeasing talk. Does the fragrant aloe wood abandon its natural fragrance when being burnt?
-
-
 
 ४१)
 
@@ -1563,8 +1477,6 @@ A man of culture does not speak unpleasantly though burnt by the burning coals o
 
 Shadow of clouds, friendship with a wicked person, ground near the ocean indeed disappear shortly, similarly as youth and wealth.
 
-
-
 ४२)
 
 सज्जना
@@ -1590,8 +1502,6 @@ Shadow of clouds, friendship with a wicked person, ground near the ocean indeed 
 रसोत्तरम्॥
 
 A man possessing good qualities surely serves only a good cause even when he gets angry; milk which is sweet by nature becomes all the more tasty when it is boiled.
-
-
 
 ४३)
 
@@ -1625,8 +1535,6 @@ A man possessing good qualities surely serves only a good cause even when he get
 
 What has been done cannot be done again; what is dead cannot (come to life and) die again; what is lost cannot be repented for; such is the view of those learned in the Vedas.
 
-
-
 ४४)
 
 अक्षमा
@@ -1650,8 +1558,6 @@ What has been done cannot be done again; what is dead cannot (come to life and) 
 योजयेत्॥
 
 Fire fallen on a grassless plot is extinguished by itself. A man without patience brings unto himself many troubles.
-
-
 
 ४५)
 
@@ -1684,8 +1590,6 @@ Fire fallen on a grassless plot is extinguished by itself. A man without patienc
 ते॥
 
 Knowing that success is uncertain, people still act so that they sometimes succeed, and sometimes do not. They however, who abstain from action never obtain success.
-
-
 
 ४६)
 
@@ -1721,8 +1625,6 @@ Knowing that success is uncertain, people still act so that they sometimes succe
 
 Everything is not good simply because it is old; nor a poem should be condemned simply because it is new; the wise resort to the one or the other after (proper) examination; (only) a fool has his mind led by the judgement of another.
 
-
-
 ४७)
 
 विज्ञातारा
@@ -1754,8 +1656,6 @@ Everything is not good simply because it is old; nor a poem should be condemned 
 ॥
 
 The conferrers of mighty benefits and of high honours are always easily found in this world, but their appreciators are rare.
-
-
 
 ४८)
 
@@ -1797,8 +1697,6 @@ The conferrers of mighty benefits and of high honours are always easily found in
 
 Happiness indeed shines up, after having experienced miseries, like the sight of a lamp amidst (masses of) thick darkness. But a person who goes from luxury to penury, lives on (really) dead, (only) keeping up (his) body.
 
-
-
 ४९)
 
 विपुलता
@@ -1833,8 +1731,6 @@ Happiness indeed shines up, after having experienced miseries, like the sight of
 
 Oil in water, a secret confined to the treacherous, donation to the deserving even in a small measure; and knowledge in a wise person, expand by themselves because of inherent nature.
 
-
-
 ५०)
 
 राजकोप
@@ -1861,8 +1757,6 @@ Oil in water, a secret confined to the treacherous, donation to the deserving ev
 
 Trees in the forest may survive after being touched by the forest conflagration; but those guilty of offence against the king remain not (alive).
 
-
-
 ५१)
 
 अज्ञानिन
@@ -1885,8 +1779,6 @@ Trees in the forest may survive after being touched by the forest conflagration;
 
 The results of the activities of persons, who are full and ignorant of their own limitations, are seen only fall like blind men.
 
-
-
 ५२)
 
 विवेकयुक्त
@@ -1904,8 +1796,6 @@ The results of the activities of persons, who are full and ignorant of their own
 खानामप्रकाशनम्॥
 
 For people who have self-respect and know how to distinguish between proper and improper, it does not seem right to expose misfortunes, which must needs be borne.
-
-
 
 ५३)
 
@@ -1935,8 +1825,6 @@ For people who have self-respect and know how to distinguish between proper and 
 
 For the disease of worldly life the primary cause is ajnana, its previous symptom is birth (in this world) Mundane existence is its development. The remedy is perpetual tranquility.
 
-
-
 ५४)
 
 अरसिक
@@ -1962,8 +1850,6 @@ For the disease of worldly life the primary cause is ajnana, its previous sympto
 पशूनां॥
 
 Those who are devoid of Literature, Music and Art, are veritable animals without tails and horns. It is the great good luck of other beasts that they do not graze grass, and still survives.
-
-
 
 ५५)
 
@@ -1992,8 +1878,6 @@ Those who are devoid of Literature, Music and Art, are veritable animals without
 सहते॥
 
 When even an inanimate object like jasper becomes hot with the touch of sun beams, then how can a brilliant man brook any affront from others?
-
-
 
 ५६)
 
@@ -2024,8 +1908,6 @@ When even an inanimate object like jasper becomes hot with the touch of sun beam
 सुखकृतस्तथा॥
 
 One should not go up too high by excessive exertions; elevation is not so conducive of happiness as is a fall (from a high position) conducive of misery.
-
-
 
 ५७)
 
@@ -2062,8 +1944,6 @@ One should not go up too high by excessive exertions; elevation is not so conduc
 प्रतिनिविष्टमूर्खजनचित्तमाराधयेत्॥
 
 One can, perhaps, extract oil by squeezing sand; a man may be able to quench his thirst by drinking water from a mirage; during travel one may even find the horns of a hare; but it is impossible to please a conceited fool.
-
-
 
 ५८)
 
@@ -2107,8 +1987,6 @@ One can, perhaps, extract oil by squeezing sand; a man may be able to quench his
 
 Basemen do not undertake any work apprehending obstacle. Mediocres make a start, but cease working when they encounter hindrances. The men of excellence, however, after commencing a job do not give up despite recurrence of impediments.
 
-
-
 ५९)
 
 अकीर्ति
@@ -2130,8 +2008,6 @@ Basemen do not undertake any work apprehending obstacle. Mediocres make a start,
 प्रकीत्र्यते॥
 
 Whoever it may be, if his ill fame be current in the world, he falls to a lower state, so long as the defamatory rumours exist.
-
-
 
 ६०)
 
@@ -2163,8 +2039,6 @@ Whoever it may be, if his ill fame be current in the world, he falls to a lower 
 
 Incessantly, in every quarter, in every country, in water, on earth are (beings) born and dying like bubbles in water.
 
-
-
 ६१)
 
 अर्थ
@@ -2190,8 +2064,6 @@ Incessantly, in every quarter, in every country, in water, on earth are (beings)
 भवत्युत॥
 
 Loss appears in the form of profit; and profit in the form of loss; therefore loss of property proves to be for some a profit.
-
-
 
 ६२)
 
@@ -2233,8 +2105,6 @@ Loss appears in the form of profit; and profit in the form of loss; therefore lo
 
 When a man is powerful and prosperous, friends gather around him and (come to him) from all directions; (but) if he is out of office and (lost his) fortune, they turn their backs on him, as foes in time of calamity.
 
-
-
 ६३)
 
 निर्भाग्य
@@ -2263,8 +2133,6 @@ When a man is powerful and prosperous, friends gather around him and (come to hi
 
 When fate is unfavourable and destruction is near at hand, the intelligence of even a wise man perishes.
 
-
-
 ६४)
 
 सुखी
@@ -2292,8 +2160,6 @@ When fate is unfavourable and destruction is near at hand, the intelligence of e
 ॥
 
 The whole world is full of happiness to a humble one, whose passions are curbed, who is self-controlled, even-tempered and who is self-controlled, even-tempered and who is always satisfied.
-
-
 
 ६५)
 
@@ -2329,8 +2195,6 @@ The whole world is full of happiness to a humble one, whose passions are curbed,
 
 What greater misfortune can there be even in hell than to (have) a worthless person who is (willfully) unable to do a good deed for a friend?
 
-
-
 ६६)
 
 मूढ
@@ -2352,8 +2216,6 @@ What greater misfortune can there be even in hell than to (have) a worthless per
 ज्ञानभेरीशतैरपि॥
 
 Who is capable of arousing, even with hundreds of drums of knowledge, that ass of a man who is asleep with an eunuch of ignorance?
-
-
 
 ६७)
 
@@ -2385,8 +2247,6 @@ Who is capable of arousing, even with hundreds of drums of knowledge, that ass o
 
 There are many snakes intent (solely) on eating frogs; just this one serpent (is) capable of bearing the earth.
 
-
-
 ६८)
 
 धीरा
@@ -2411,8 +2271,6 @@ There are many snakes intent (solely) on eating frogs; just this one serpent (is
 
 Courageous, cultivated minds their fate would supervise; but linked causation masters them and makes it otherwise.
 
-
-
 ६९)
 
 शोच्यता
@@ -2434,8 +2292,6 @@ Courageous, cultivated minds their fate would supervise; but linked causation ma
 व्रजेत्॥
 
 Wealth which does not help the needy, and a mind which is proud without meditation and a body which moves not towards a holy place (in pilgrimage) come to grief at the end.
-
-
 
 ७०)
 
@@ -2465,8 +2321,6 @@ Wealth which does not help the needy, and a mind which is proud without meditati
 
 Some exhibit acting very well in their own person; while others show greater skill in imparting (that art) to another; he who excels in both these qualities deserves a pre-eminent place among teachers.
 
-
-
 ७१)
 
 सज्जना
@@ -2488,8 +2342,6 @@ Some exhibit acting very well in their own person; while others show greater ski
 यथा॥
 
 Innocent persons, though they may not commit any sinful acts, are punished as a consequence of their mere association with evil-doers. Even so the fishes in a serpent-pond are destroyed by the snake destroyers along with the snakes.
-
-
 
 ७२)
 
@@ -2520,8 +2372,6 @@ Innocent persons, though they may not commit any sinful acts, are punished as a 
 तप्यते॥
 
 Even good people get themselves corrupted by their close association with the undesirable. Water which is sweet and cool becomes hot associated with fire.
-
-
 
 ७३)
 
@@ -2555,8 +2405,6 @@ Even good people get themselves corrupted by their close association with the un
 
 Lives he who strives For merit and good deeds; Without merits and good deeds, Life is useless, indeed.
 
-
-
 ७४)
 
 अर्थ
@@ -2580,8 +2428,6 @@ Lives he who strives For merit and good deeds; Without merits and good deeds, Li
 लोके॥
 
 Gold is the life and all the business of life for men, yet in this world our singers with their goat-like bleats are clever enough to steal it away.
-
-
 
 ७५)
 
@@ -2612,8 +2458,6 @@ Gold is the life and all the business of life for men, yet in this world our sin
 भवन्ति॥
 
 A virtuous person may spring even from a bad source and one of bad conduct even from the virtuous. The (beautiful) lotus springs from (dirty) mud, but worms are seen to spring even from a lotus.
-
-
 
 ७६)
 
@@ -2649,8 +2493,6 @@ A virtuous person may spring even from a bad source and one of bad conduct even 
 
 Old age sets first into the mind and then into the body in the case of a good person even though the body becomes old and the mind never matures for the wicked.
 
-
-
 ७७)
 
 साधु
@@ -2677,8 +2519,6 @@ Old age sets first into the mind and then into the body in the case of a good pe
 
 Having brought the senses under control and being free from love and hatred, treating equally joy and sorrow, and being at peace (with all), is said to be the good man who understands the essential nature of all things.
 
-
-
 ७८)
 
 कर्मोक्तिनर्मनिर्माणैः
@@ -2702,8 +2542,6 @@ Having brought the senses under control and being free from love and hatred, tre
 नृणाम्॥
 
 By creating the pastime of various actions and running (to and fro) from morning to morning, talking of nothing but money, men forget that (such a thing as) death exists.
-
-
 
 ७९)
 
@@ -2767,8 +2605,6 @@ Vipra is like a tree, whose roots are prayers\* The Vedas are its branches, call
 
 Knowledge is retained by constant practice; a family is held together by virtuous conduct; friendship is kept by good qualities; anger is evident from the knitting of the eye-brows.
 
-
-
 ८१)
 
 उद्वाह
@@ -2797,8 +2633,6 @@ Knowledge is retained by constant practice; a family is held together by virtuou
 
 If the Lord of Creation had not united this couple, possessed of a beauty which each one of them well might envy, then his efforts in dowering them with such (exquisite) beauty would have been all in vain.
 
-
-
 ८२)
 
 गुरु
@@ -2825,8 +2659,6 @@ If the Lord of Creation had not united this couple, possessed of a beauty which 
 
 By honouring his mother he gains this world, by honouring his father the middle sphere, but by obedience to his teacher the world of Brahman.
 
-
-
 ८३)
 
 मित्रम्
@@ -2852,8 +2684,6 @@ By honouring his mother he gains this world, by honouring his father the middle 
 प्रयच्छति॥
 
 In this world there is not to be found a friend equal to an abusive person; for he takes away all our demerits and gives back in their place all the goodness he possess.
-
-
 
 ८४)
 
@@ -2883,8 +2713,6 @@ In this world there is not to be found a friend equal to an abusive person; for 
 
 With noble persons friendship lasts for the lifetime; anger is transitory and lasts for a moment only; (and) they have no desire for wealth.
 
-
-
 ८५)
 
 सुहृद
@@ -2911,8 +2739,6 @@ With noble persons friendship lasts for the lifetime; anger is transitory and la
 
 He gives what is liked by us and also takes it similarly, he tells us all his (private) affairs and enquiries the same of us, he takes food with us and also invites us to die with him; thus these are the six characteristics of a (good) friend.
 
-
-
 ८६)
 
 क्षमा
@@ -2932,8 +2758,6 @@ He gives what is liked by us and also takes it similarly, he tells us all his (p
 विमुच्यते॥
 
 Fools seek to injure the wise by false reproaches and evil speech. The consequence is, that by this they take upon themselves the sins of the wise, while the latter, freed from their sins are forgiven.
-
-
 
 ८७)
 
@@ -2979,8 +2803,6 @@ Fools seek to injure the wise by false reproaches and evil speech. The consequen
 
 A rat attempts to life the Kailasa mountain; a crow desires to eat the flesh of the king of birds, Garuda; an inchneumon foolishly shakes the top of the tail of the mighty serpent Taksaka, with a view to killing him; a frog desires to cross the ocean, the great devourer, with the help of a serpent; thus mostly, when adversity is at hand, a creature of low stature remembers not what is proper to do in various situations.
 
-
-
 ८८)
 
 वैरम्
@@ -3002,8 +2824,6 @@ A rat attempts to life the Kailasa mountain; a crow desires to eat the flesh of 
 ॥
 
 If a person cultivates enmity with a number of people, he perishes, though the enemies may be insignificant people. The king, who was infused with confidence by the people abandoned his minister, considering him to be a corpse.
-
-
 
 ८९)
 
@@ -3039,8 +2859,6 @@ If a person cultivates enmity with a number of people, he perishes, though the e
 
 Good conduct is the highest mortality, it is the highest penance and it is the highest knowledge. What cannot be achieved through good conduct?
 
-
-
 ९०)
 
 आचार
@@ -3068,8 +2886,6 @@ Good conduct is the highest mortality, it is the highest penance and it is the h
 ॥
 
 Dharma is born of good conduct, the Veda-s (scriptures) have sprung from Dharma alone; the holy sacrifices are born of (performed with) the Veda-s, the gods are established (propitiated) by the sacrifices.
-
-
 
 ९१)
 
@@ -3099,8 +2915,6 @@ Dharma is born of good conduct, the Veda-s (scriptures) have sprung from Dharma 
 
 Dharma is born of good conduct, it is that which brings the highest welfare to man; great is the fame here that he gets by observing it, and supreme beatitude in the world yet to come.
 
-
-
 ९२)
 
 दरिद्रता
@@ -3129,8 +2943,6 @@ Dharma is born of good conduct, it is that which brings the highest welfare to m
 
 Service for livelihood in dependence is difficult. Living somehow without a support is difficult. Undertaking any work without money is difficult. Poverty is all difficult.
 
-
-
 ९३)
 
 दुष्कर्म
@@ -3157,8 +2969,6 @@ Service for livelihood in dependence is difficult. Living somehow without a supp
 
 Quarrels destroy homes. Bad words destroys friendship. Bad kings ruin empires and the fame of men gets destroyed by a bad act.
 
-
-
 ९४)
 
 दुस्सङ्ग
@@ -3180,8 +2990,6 @@ Quarrels destroy homes. Bad words destroys friendship. Bad kings ruin empires an
 यथा॥
 
 Like the fish in a snake-pond, the pure, though not committing any sin will perish by the sin of others due to their association with the wicked.
-
-
 
 ९५)
 
@@ -3217,8 +3025,6 @@ Like the fish in a snake-pond, the pure, though not committing any sin will peri
 
 First he should carefully examine the nobility of the family, then the learning and next the age (of the bridegroom), next comes his wealth and then his personal beauty and the region to which he belongs—then should the marriage alliance be made.
 
-
-
 ९६)
 
 आचार
@@ -3245,8 +3051,6 @@ First he should carefully examine the nobility of the family, then the learning 
 
 One should not come empty-handed near the holy fire, a house, a field, a pregnant woman, an old man, a child, a sovereign, a deity and a guru.
 
-
-
 ९७)
 
 गुरु
@@ -3266,8 +3070,6 @@ One should not come empty-handed near the holy fire, a house, a field, a pregnan
 प्रपूजयेत्॥
 
 One should honour one’s preceptor there with food, drink, etc. as well as clothes and decorating materials, pleasing unguents and flower garlands.
-
-
 
 ९८)
 
@@ -3309,8 +3111,6 @@ One should honour one’s preceptor there with food, drink, etc. as well as clot
 
 The preceptor (guru) should be resorted to, by a person desiring his own welfare, who ever selfless, remains in the right path and leads others also on into it, who is capable of liberating himself as well as others from the bonds of the world.
 
-
-
 ९९)
 
 गुरु
@@ -3339,8 +3139,6 @@ The preceptor (guru) should be resorted to, by a person desiring his own welfare
 
 With the glance (careful attention) bestowed by a guru (preceptor) or by two (glances), what is gained? the same (gain) is not obtained by someone with the assistance of three, eight or even a thousand (teachers).
 
-
-
 १००)
 
 गुरु
@@ -3364,8 +3162,6 @@ With the glance (careful attention) bestowed by a guru (preceptor) or by two (gl
 Who does not consider as a guru a person who taught him even a single syllable will be re-born in a family of caëòäla-s after having been first re-born hundreds of times as a dog.
 
 ----------------------------------------------------11
-
-
 
 1  
 
@@ -3412,8 +3208,6 @@ If a fire, a loan, or an enemy continues to exist even to a small extent, it wil
 प्रदीयते \।\।
 
 There are three jewels on earth: water, food, and adages. Fools, however, regard pieces of rocks as jewels.
-
-
 
 3  
 
@@ -3462,8 +3256,6 @@ Animals do not coronate a lion through sprinkling holy water on him and conducti
 सौहॄदम् \।\।
 
 When a fire is burning a forest, wind becomes its friend. The same wind extinguishes a small flame. Who holds friendship with the weak?
-
-
 
 5  
 
@@ -3756,8 +3548,6 @@ Hunger, Thirst (Trut) and desire (Aasha) are like man's three wives. Until he is
 त्यजेत् \।\।
 
 One should sacrifice one's self-interest for the sake of one's family, one's family for the sake of one's town members, one's town members for for the sake of one's nation, and sacrifice the whole earth for the sake of one's soul's enlightenment.
-
-
 
 16  
 
@@ -4828,8 +4618,6 @@ Parmeshwar (God) doesn't himself take a 'danda' (Stick) in his hand to protect s
 
 A person, who wants to get some work done from another person, praises him till the work is pending. (after the work is done, he doesn't need that person. As,) once you cross a river, why will you need a boat? This Subhashit describes, how selfish we are when dealing with others. Obviously not to be practiced.
 
-
-
 55  
 
 अल्पानामपि
@@ -4872,8 +4660,6 @@ atiparichayAdavjNa -If you go too much close to some one it is likely that peopl
 
 malaye bhillA purandhrI chandanatarukAShTham iMdhanam kurute - To support this above saying , example is given of a woman (Purandhri) living on Malaya Mountain Where Sandal wood is available in abundance.So she uses it for her daily rituals like burning it to cook food etc., But for the rest of the world same sandal wood is very costly because it is not so easily available to them.
 
-
-
 57  
 
 सर्पः
@@ -4903,8 +4689,6 @@ malaye bhillA purandhrI chandanatarukAShTham iMdhanam kurute - To support this a
 शाम्यति \।\।
 
 A snake is cruel and so is the wicked person. But a wicked person should be called more cruel than the snake because the snake can be calmed by some techniques ('Mantras'), but the wicked person cannot be kept in control by any such techniques!
-
-
 
 58  
 
@@ -5016,8 +4800,6 @@ A fully filled water container will not create much noise as compared to the hal
 
 Meaning Line 1 There is only one bird (Khag) who has very high self esteem and self respect, Let that that Chataka (that bird's name) live long life (Chiranjeev) Meaning line -2 Line two explains why is he called Khagomani. He would prefer to die because of thirst but will ask for water only from God Indra (Purandar). Means, he drinks only rain water. He will never drink water from the pond or stored water. Such high self respect and self esteem he has. In our context we can take it this way, if you want to ask some thing then ask that greatest almighty who is the supreme self and not anyone else. If we want to be like Chataka or if we want to learn something from this bird. In other words dont do Yachana( Yachana is like asking something from some one as u are in need) to any one but only to the greatest authority which is GOD. This bird comes in many contexts in Marathi or Sanskrit. There is a phrase used when u are waiting on something we say , u are waiting like Chataka (Who waits for raindrop to feed himself water)
 
-
-
 62  
 !
 
@@ -5049,8 +4831,6 @@ Meaning Line 1 There is only one bird (Khag) who has very high self esteem and s
 शान्तिः \।
 
 OM May that Brahman protect us both (Teacher & Disciple); May that Brahman nourish us both; May we work in harmony with great vigor; May our study be illuminating and fruitful; May we not hate each other. Om.. Peace, Peace.. Peace.
-
-
 
 63  
 
@@ -6118,8 +5898,6 @@ sandalwood is pleasant (cool), moon (or moon light) is more pleasant than sandal
 
 Literal meaning of word 'shItalah' is cool/cold, in this context cool means something which is pleasant.
 
-
-
 102
 
 समानी
@@ -6150,7 +5928,6 @@ Literal meaning of word 'shItalah' is cool/cold, in this context cool means some
 
 असति \।\।  
 
-
 यथा
 
 वः
@@ -6159,14 +5936,11 @@ Literal meaning of word 'shItalah' is cool/cold, in this context cool means some
 
 असति \।\।  
 
-
 ऋग्वेद
 
 This is the last 'shloka' in the Rigveda. It states - Let your conclusions be ONE (or be alike), Let your hearts be the same (or be alike) \[So that "everyone" feels for the same particular bad/ill in the society in the same intensity. It may be the common experience that not all feel for the same problem in the 'intensity' that we as individual may feel for that. Due to this there may be lack of 'collective' efforts to solve that problem\]. Let your minds think alike/similar. May all these factors make your organisational-power an impressive one. This 'shloka' can be called as an 'sanghatan-sukta' i.e. guidelines for building an impressive organisation/nation.
 
 Lokmanya Bal Gangadhar Tilak had ended his book 'Geeta Rahasya' by this 'shloka'.
-
-
 
 103
 
@@ -6193,7 +5967,6 @@ Lokmanya Bal Gangadhar Tilak had ended his book 'Geeta Rahasya' by this 'shloka'
 इति
 
 स्मॄतः \।\।  
-
 
 ज्ञन्ब्स्प;
 
@@ -6247,8 +6020,6 @@ A person who does the things which are to be done and who doesn't do the things 
 
 The term "Arya" is used to refer to elder or respectable person in India. This subhashita give some of the characteristics of 'Arya'. A person who does the things which he is supposed to do i.e. good things, and does not do any bad, can be called Arya.. In short, the one who obeys dharma is Arya. 'Arya' does not reflect any race.
 
-
-
 104
 
 परो
@@ -6279,12 +6050,9 @@ The term "Arya" is used to refer to elder or respectable person in India. This s
 
 औषधम् \।\।  
 
-
 हितोपदेश
 
 The person with whom we have no relation, but who helps us in our difficult times is our Real relative/brother. In contrast the person who may be our relative/brother (With whom we have blood relations) but who always does bad things for us should not be considered as our relative/brother. Just like a disease which is in our own body does so much harm to us while the medicinal plant which grows in forest far off does so much of good to us!
-
-
 
 105
 
@@ -6310,7 +6078,6 @@ The person with whom we have no relation, but who helps us in our difficult time
 
 शतम् \।\।  
 
-
 ज्ञख्8211;
 
 युधिष्ठीर
@@ -6322,8 +6089,6 @@ This are words of yudhiShThIr (dharmarAja). In araNyaparva (i.e. when pANDava we
 This is an excellent example laid by yudhiShThIr before us. If we turn our pages of history, many places we find that our rajas were fighting with each other, and they even helped outside invaders to knock down other Indian rajas. And that was major cause of success of invaders.
 
 In todays contex, we must know who is "ours" and who is not.
-
-
 
 106
 
@@ -6346,8 +6111,6 @@ In todays contex, we must know who is "ours" and who is not.
 दुर्भिक्षे \।\।
 
 Friendship of a friend is tested in our bad times, the warrior's heroism is tested in a war, a servant's test lies in his good attitude towards the owner and a donor's test is at the time of drought. The point explained here is that the person who donates wealth/food even at the time of a drought, i.e. at the times when the food is a scarcity, is a real donor. If we do not live up to our expectations at the tough times then there is no use of what we stand for.
-
-
 
 107
 
@@ -6378,8 +6141,6 @@ Friendship of a friend is tested in our bad times, the warrior's heroism is test
 तथा \।\।
 
 If a country goes in a wrong way/ does a sin then the king should be held responsible. If king commits a sin then his advisors/ministers should be held responsible. If a women does a wrong thing then her husband should be held responsible and if a student ('shishya') commits a sin then his teacher ('guru') should be held responsible.
-
-
 
 108
 
@@ -6413,8 +6174,6 @@ If a country goes in a wrong way/ does a sin then the king should be held respon
 
 The knowledge which is residing in the book and one's wealth which is in possession of some other person is of no use at all. At the time of it's need they will not be of any help for the person.
 
-
-
 109
 
 अधमाः
@@ -6442,8 +6201,6 @@ The knowledge which is residing in the book and one's wealth which is in possess
 धनम् \।\।
 
 An inferior person's desire is money. An average person will desire money and respect. A great person desires respect (and not Money). Respect is superior to money.
-
-
 
 110
 
@@ -6479,12 +6236,9 @@ An inferior person's desire is money. An average person will desire money and re
 
 जनः \।\।  
 
-
 महाभारत 122528
 
 Only two types of people are happy in this world. One who are foolish/dull and the others who are very much intelligent and knowledegble. All the other people in between these two limits are the only sufferers. The foolish/dull people do not understand the problem (or cannot grasp the problems) and the intelligent people have the solution for it! And therefore it is only left for the people in between them to keep crying for the problem because having known what it is still they cannot envision the path for it's complete eradication.
-
-
 
 111
 
@@ -6511,8 +6265,6 @@ Only two types of people are happy in this world. One who are foolish/dull and t
 वित्तमुपार्जितम \।\।
 
 Extreme desire should be avoided. but don't throw away desires. We should enjoy self earned wealth with control. This subhashita explains one of the specialties of our culture. You may find two extreme views about life in this world. There are a few groups who think that desire about anything is cause of sorrow in life. And desire causes degradation of a person. So it should be avoided totally. There are some groups which believe that we should try to satisfy all our desires... and that will bring happiness in life. The problem in first case is, it is very difficult to follow. And often these suppressed desires give rise to misbehavior of a person. In second case, it is obvious that, this view is not good for societal interest. Also desires can't be satisfied. if you fulfill one another would arise. Keeping this in mind our Rishis suggested midway between these two. one need not give away desires totally, but try to control them and satisfy them with some limit.
-
-
 
 112
 
@@ -6543,8 +6295,6 @@ Extreme desire should be avoided. but don't throw away desires. We should enjoy 
 च \।\।
 
 Rains over the sea are not of any use. Food for one, whose stomach is full, is waste. What's the use of donation to an affluent? Also, lighting a lamp during day is useless.
-
-
 
 113
 
@@ -6588,8 +6338,6 @@ Rains over the sea are not of any use. Food for one, whose stomach is full, is w
 
 The rivers don't drink their own water. The trees don't eat their own fruits. The clouds don't eat the crops to which they give the water. The wealth of the good people ('sajjan') is really only for helping the others. (They themselves don't consume what they produce!)
 
-
-
 114
 
 क्रोधो
@@ -6622,8 +6370,6 @@ The rivers don't drink their own water. The trees don't eat their own fruits. Th
 
 Anger is the King of Death (Yama), greed (desire) is the river VaitaraNI (in the Hell). (However)Knowledge is (like) the cow which fulfills all wishes (Kamdhenu), (and) bliss is the paradise.
 
-
-
 115
 
 लोभमूलानि
@@ -6643,8 +6389,6 @@ Anger is the King of Death (Yama), greed (desire) is the river VaitaraNI (in the
 अतिलोभात्विनश्यति \।\।
 
 Greed is a cause of sin ( a greedy person can do any sin to satisfy his greed) Greed is cause of calamity, greed gives rise to enmity (greedy person invites enemies) Greed destroys a person (a greedy persons life gets spoiled by his own deeds) .
-
-
 
 116
 
@@ -6718,8 +6462,6 @@ Greed is a cause of sin ( a greedy person can do any sin to satisfy his greed) G
 
 A person for whom courage is his father, forgiveness (KshmA) is his mother, calmful mind is his wife, Truth is his son, compassion his sister and control of mind is his brother. And for whom this earth is a bed, the directions (dishA) like the cloths and the knowledge is his food. When all these make up his family then for which thing will that person be scared of? Isn't this a very unique suBAshit indeed? What else will the person need to overcome the challenges that may face him in his life?
 
-
-
 117
 
 महाजनस्य
@@ -6739,8 +6481,6 @@ A person for whom courage is his father, forgiveness (KshmA) is his mother, calm
 मुक्ताफलश्रियम् \।\।
 
 Company of great person is always beneficial. (see how) drop of water on lotus leaf appears like a pearl. (i.e.. it gains status similar to pearl) Hear Subhashitkar explains how useful it is to be with great persons.
-
-
 
 118
 
@@ -6770,14 +6510,11 @@ Company of great person is always beneficial. (see how) drop of water on lotus l
 
 दारिद्रयशङ्कया \।\।  
 
-
 भोजप्रबंध
 
 A unwise ('murkha') person hesitates to donate the wealth due to the fear of becoming poor in future. But due to the same fear (of becoming poor in future), a wise person wisely donates his wealth!
 
 See how the same fear causes wise and unwise persons to behave differently! In conclusion the wise person donates his wealth thinking that in future if he becomes poor then he may loose the opportunity to donate. The implied meaning of the suBAshit may be that man should not fear for the transient things like wealth. Today it is there and tomorrow it may not be there. So donate it when you have it!
-
-
 
 119
 
@@ -6798,8 +6535,6 @@ See how the same fear causes wise and unwise persons to behave differently! In c
 शीतताम् \।\।
 
 One cannot change nature of a person by giving him a advice or telling him good things. (as even) If water is heated, after some time it again attains its normal temperature. Subhashit explains how difficult it is to change nature of a person. Everybody must have experienced this. If we find that a person needs to improve in certain thing, and try to explain that to him, may be he will accept it that time. But after some time you will find him back with all his traits. This behaviour is similar to water. water is normally cold. you can heat it to change its this usual properly. But after some time you will find that water is cold again.
-
-
 
 120
 
@@ -6829,14 +6564,9 @@ One cannot change nature of a person by giving him a advice or telling him good 
 
 स्वोदरपूरणम् \।\।  
 
-
 पंचतंत्र
 
-
-
 If the 'living' of a person results in 'living' of many other persons, only then consider that person to have really 'lived'. Look even the crow fill it's own stomach by it's beak!! (There is nothing great in working for our own survival) I am not finding any proper adjective to describe how good this suBAshit is! The suBAshitkAr has hit at very basic question. What are all the humans doing ultimately? Working to feed themselves (and their family). So even a bird like crow does this! Infact there need not be any more explanation to tell what this suBAshit implies! Just the suBAshit is sufficient!!
-
-
 
 121
 
@@ -6872,8 +6602,6 @@ If the 'living' of a person results in 'living' of many other persons, only then
 
 There is no vidhi (ritual) which is as noble as donation. (People follow some rituals to get some "punya". this subhashit says that sharing your wealth with others is the best possible ritual.) There is no enemy as greed on this earth. (Greed gives rise to problems in life, that's why it is our biggest enemy) There is no other ornament like sheela (good character). (We use ornaments to adorn our body, but there is no ornament comparable to good character.) There is no wealth as satisfaction. (We earn wealth for being happy, but satisfaction is key to happiness.)
 
-
-
 122
 
 संरोहति
@@ -6902,14 +6630,11 @@ There is no vidhi (ritual) which is as noble as donation. (People follow some ri
 
 वाक्क्षतम् \।\।  
 
-
 महाभारत\।
 
 Bhismacharya says to Yudhistira, "The forest which gets destroyed due to the fire or due to the axe, will again grow in time. But the wound caused to the mind due to the bad and harsh words will never get healed".
 
 Speak with compassion and soft tongue with all is the message of this suBAshit. The human mind is so soft that it doesn't forget even the smallest of insult/disgrace caused to it .
-
-
 
 123
 
@@ -6930,8 +6655,6 @@ Speak with compassion and soft tongue with all is the message of this suBAshit. 
 मुद्गरैरभिताड्यते \।\।
 
 Wicked person's company is invitation to frequent insults. When gold is with iron and hammer, it gets beaten.
-
-
 
 124
 
@@ -6959,12 +6682,9 @@ Wicked person's company is invitation to frequent insults. When gold is with iro
 
 अतपस्विनम् \।\।  
 
-
 महाभारत 53365
 
 There are two types of people who should be pushed in deep water with heavy stones tied to their body! One who does not donate inspite of being rich and the other who does not work hard inspite of being poor!!
-
-
 
 125
 
@@ -6993,8 +6713,6 @@ There are two types of people who should be pushed in deep water with heavy ston
 चिता \।\।
 
 There is not much difference between 'chita' (pyre) and 'chinta' (Worry). \['chita' and 'chinta' differ only by a 'anusvaar'. Only those who understand the 'devnaagri' script can know what is a 'anusvaar'\] The former will destroy (burn) a dead body and the later will burn/harm the living individual!!
-
-
 
 126
 
@@ -7025,8 +6743,6 @@ There is not much difference between 'chita' (pyre) and 'chinta' (Worry). \['chi
 धीरस्य \।\।
 
 For a person who has a firm conviction (mind is firm (krutapratijnasya)), this earth is like a little garden, sea is like a small canal/dam, 'paatal' (there is no parallel concept in english) is like a picnic spot (ramya sthal) and the Meru mountain is like an ant's house ('vaarul')! This means that if you have a firm conviction, hurdles in the way do not mean much. you have ways to tackle them.
-
-
 
 127
 
@@ -7072,8 +6788,6 @@ For a person who has a firm conviction (mind is firm (krutapratijnasya)), this e
 
 A person who is not educated, who is not ready to work hard, who does not donate whatever he has, who does not have knowledge, who does not have a good character, good qualities and one who does not obey dharma, such a person on this earth is just a useless person, he is as good as any other animal. please see subhashit no 18 which also distinguishes between a human and other animals.
 
-
-
 128
 
 माता
@@ -7097,8 +6811,6 @@ A person who is not educated, who is not ready to work hard, who does not donate
 हितबुद्धयः \।\।
 
 Mother, father and friend are the one who think about our interests (well-being) in a very much natural manner. \[It's part of their nature ('swaBAv').They think this without expecting any thing in return.\] All others having the similar feelings towards us do so due to their personal benefits or any other reason \[It is not part of their nature ('swaBAv')\].
-
-
 
 129
 
@@ -7134,14 +6846,11 @@ Mother, father and friend are the one who think about our interests (well-being)
 
 मुहुर्मुहुः \।\।  
 
-
 ज्ञख्8211;
 
 चाणक्य
 
 "How is situation around me (i.e. is it favourable or not)? who are (my) friends? how is condition in the country? what are the things for and against me (or what do I have and what I don't have)? who am I? what are my strengths?" one should always worry about these questions. Subhashitkar is suggesting us that we must be always alert and consider all this prior to any action.
-
-
 
 130
 
@@ -7173,8 +6882,6 @@ Mother, father and friend are the one who think about our interests (well-being)
 
 A person whose face is always charming/enthusiastic, his heart full of compassion, his speech like 'Amrut' (I think there is no equivalent word for 'Amrut' in english. Here it means sweet speech i.e. speech which will always give pleasure to the listener) and whose work is to always help the needy ('paropkAr'), then tell me for whom such a person will not be the most respected ('vandaneeya') one? Very small and practical points - if we are successful in imbibing these in ourselves then surely we will be the better humans than today!
 
-
-
 131
 
 अनाहूतः
@@ -7200,8 +6907,6 @@ A person whose face is always charming/enthusiastic, his heart full of compassio
 विदुर
 
 Subhashitkar has given some of the characteristics of a fool person here. He says, a fool person comes without invitation (he lands up anywhere even if he is not required i.e. he does not have self respect), talk even if not asked for (they have habit of poking his nose in other's business), and trusts a person who is not trustable (he is not able to evaluate others properly)
-
-
 
 132
 
@@ -7231,12 +6936,9 @@ Subhashitkar has given some of the characteristics of a fool person here. He say
 
 धनम् \।\।  
 
-
 र्इशोपनिषद् 1
 
 This 'shloka' is from Ishavasya upanishad. Here I am giving two explanations of this shloka. One is from the book:- Sanskrit Subhashit Navnet, published by Jamnabai Narsee Adhyatmik trust. Another is from one article. This is a not a suBAshit as such but as it has good teaching in it we are sending it to the group. In this moving world, whatever moves is enveloped (is prevaded) by God. Therefore, you find your enjoyment (or protect yourself) by offering it to him (i.e. by renunciation) \[To whom does the wealth belong? It belongs to no one\] Be no greedy to what belongs to others. Whatever animate or inanimate objects we witness in this world are the abode of the Almighty. Enjoy it with a sense of renunciation, do not grab, because it belongs to nobody i.e. the resources of the world belong to God and it is for his pleasure that they ought to be used.
-
-
 
 133
 
@@ -7266,8 +6968,6 @@ This 'shloka' is from Ishavasya upanishad. Here I am giving two explanations of 
 
 Wealth and strength of a wicked person is for his vanity(show off) and (ability) to trouble others (respectively). for a good person, they are always for donating (or say sharing with others) and to protect (others) (respectively).
 
-
-
 134
 
 यथाचिज्ञल्त;
@@ -7295,8 +6995,6 @@ Wealth and strength of a wicked person is for his vanity(show off) and (ability)
 साधुनामेकरूपता \।\।
 
 What is in mind should be reflected in one's speech (yaTA chittam taTA vAcho). What is in one's speech should be reflected in one's actions (yaTA vAchataTA kriyHa). Thus the person whose mind, speech and actions are same is a 'sADhu' (I don't think 'gentlemen' is a word anywhere close to the meaning of word 'SADhu'! Meanings of some words can be best appreciated in that language only.).
-
-
 
 135
 
@@ -7326,14 +7024,11 @@ What is in mind should be reflected in one's speech (yaTA chittam taTA vAcho). W
 
 ज्ञन्ब्स्प; \।\।  
 
-
 तैत्तरीयोपनिषद्
 
 \[This subhashita is an advice to a bhachelor coming out of Gurukula after finishing his studies, before entering into Gruhasthashrama.\]
 
 Speak truth, beahave as dharma dictates (dharmAcharan), do not miss swAdhyAy. ( Literally, swadhyay means self-study. ) After paying Gurudakshina (fees) to the guru (teacher), do not stop family propagation. (by entering into Gruhasthashrama)
-
-
 
 136
 
@@ -7356,8 +7051,6 @@ Speak truth, beahave as dharma dictates (dharmAcharan), do not miss swAdhyAy. ( 
 चिन्हमेतन्महात्मनाम् \।\।
 
 This is the indication of great people that (they have) discretion along with wealth, humbleness along with scholarship, (and) power with courteousness. Note that this suBAshit has some similarity to that of suBAshit No. 05
-
-
 
 137
 
@@ -7405,12 +7098,9 @@ This is the indication of great people that (they have) discretion along with we
 
 देयम् \।\।  
 
-
 तैत्तरीयोपनिषद्
 
 Those who are superior Brahman, you offer them seat with respect. (Treat them with great respect.) Donate wholeheartedly. Do not give unwillingly. Donate without hesitation. Donate politely. (Do not donate for fame). Donate by fear. ( Feel afraid about being narrow minded) Donate with compassion.
-
-
 
 138
 
@@ -7438,8 +7128,6 @@ Those who are superior Brahman, you offer them seat with respect. (Treat them wi
 
 The minds of extraordinary people are harder than (even) the thunderbolt and softer than (even) the flowers; who in this world is capable of discerning them properly? Just pay attention to the two extreme qualities of mind that suBAshitKar has mentioned and further to be present in the same human being! Still further to have the 'vivek' to decide under which circumstances what state of mind should be there and to act accordingly!!
 
-
-
 139
 
 संसारविषवॄक्षस्यज्ञन्ब्स्प;
@@ -7466,8 +7154,6 @@ The minds of extraordinary people are harder than (even) the thunderbolt and sof
 
 Poisonous tree (in the form of materialistic world ) has only two sweet fruits. Sweetest Subhashit and company of good people!
 
-
-
 140
 
 धॄतिः
@@ -7490,8 +7176,6 @@ Fortitude, forgivefulness, (self) control, non stealing, purity, withdrawal of s
 
 This suBAshit along with suBAshit No. 17 explains what 'Dharma' is. Please note that there is no equivalent word in english for 'Dharma'. The english word 'Religion' is not at all even close to what 'Dharma' is in samskrit language. Other suBAshitas where the word 'Dharma' occurs are SuBAshit Nos. 22,67,80,127,135. All these subaashitas will help in understanding of what actually 'Dharma' means in our culture.
 
-
-
 141
 
 मितं
@@ -7511,8 +7195,6 @@ This suBAshit along with suBAshit No. 17 explains what 'Dharma' is. Please note 
 This subhasita befits the nature of Sanskrit language perfectly. It contains esential truth and is as concise as the meaning itself. Thus Sanskrit is the language of true eloquence.
 
 On the other hand, even if one cannot speak Sanskrit, the test of his eloquence is how well he can put esential truth in only a few words - and that is actually the advice of this subhashita.
-
-
 
 142
 
@@ -7548,8 +7230,6 @@ On the other hand, even if one cannot speak Sanskrit, the test of his eloquence 
 
 Both the good (Shreyas) and the pleasant (Preyas) approch the man. The wise man pondering over them, makes his choice. The wise chooses the good (Shreyas) in preference to the pleasant (Preyas). The fool (simple-minded) for the sake of worldly-being prefers the pleasant (preyas)
 
-
-
 143
 
 मत्रस्य
@@ -7580,12 +7260,9 @@ Both the good (Shreyas) and the pleasant (Preyas) approch the man. The wise man 
 
 समीक्षामहे \।\।  
 
-
 यजुर्वेद
 
 All living beings in this world should see me with an amiable eye. I should (also) look at all the living beings with a friendly eye. (I should be very loving and affectionate to all living beings on this earth.) We all should see each other with a friendly eye. (We all should be sympathetic and loving to each other.)
-
-
 
 144
 
@@ -7608,8 +7285,6 @@ All living beings in this world should see me with an amiable eye. I should (als
 समाचरेत् \।\।
 
 Please listen to the essence of Dharma (i.e. piety) and having listened to it, bear in mind. The essence of Dharma is: Whatever is adverse (or Unfavourable) to us, we should not adopt (operate) that in case of others.
-
-
 
 145
 
@@ -7647,8 +7322,6 @@ Please listen to the essence of Dharma (i.e. piety) and having listened to it, b
 
 Indra, Surya (the sun), Varun (the rain), Agni (the fire), Garuda with divine and beautiful wings, Yama (the God of Death) and Vayu (the wind) are all the manifestations of the same satyaswarup (closest meaning righteous, veracious ) God. The wise call this spirit by different names given above.
 
-
-
 146
 
 आदित्यचन्द्रावनिलोऽनलश्र्चद्यौर्भूमिरापो
@@ -7675,12 +7348,9 @@ Indra, Surya (the sun), Varun (the rain), Agni (the fire), Garuda with divine an
 
 वॄत्तम् \।\।  
 
-
 महाभारत
 
 Aditya (The Sun), Chandra (The Moon), Vayu (The wind), Agni (The fire), Akash (The Space), Prithvi ( The Earth), Jala (The Water), Hridaya (Heart), Yama (The death), both Sandhikalas (Dawn and Dusk) and Dharma, witness what man does.
-
-
 
 147
 
@@ -7702,12 +7372,9 @@ Aditya (The Sun), Chandra (The Moon), Vayu (The wind), Agni (The fire), Akash (T
 
 कुर्यादतन्द्रितः \।\।  
 
-
 हितोपदेश
 
 The karma of previous birth is called as daiva (fortune) (in this birth). So, one should try and work hard (in this birth ) without relaxation.
-
-
 
 148
 
@@ -7733,12 +7400,9 @@ The karma of previous birth is called as daiva (fortune) (in this birth). So, on
 
 दीर्घसूत्रता \।\।  
 
-
 पंचतंत्र
 
 One who wishes to prosper in this world, should keep back the following six faults sleep (too much), lethargy, fear, anger, laziness and miserliness (stinginess). The six faults can be interpreted as follows:- nidrA:- sleep i.e. ignorance, not knowing what is happening around. tandrA:- lethargy, lassitude. bhaya:- fear. krodh:- anger, short temper. aalsyam:- laziness. diirghasuutrataa:- procrastinate, one who is slow in acting, takes too long for decisions etc.
-
-
 
 149
 
@@ -7772,8 +7436,6 @@ One who wishes to prosper in this world, should keep back the following six faul
 
 Whatever persons are unhappy in this world, they are so because of their desire (greed) for their own happiness. While those who are happy in this world, they are so, because of their desire for the happiness of others. People are miserable because they strive for their happiness and do not obtain it, while those who strive or exert to make others happy become themselves happy!
 
-
-
 150
 
 अभ्दिः
@@ -7798,12 +7460,9 @@ Whatever persons are unhappy in this world, they are so because of their desire 
 
 शुध्यति \।\।  
 
-
 मनुस्मॄति
 
 Senses (Sense-Organs) are purified by water; Mind is purified by truth; Soul is purified by learning and penance; While intelligence is purified by knowledge.
-
-
 
 151
 
@@ -7826,8 +7485,6 @@ Senses (Sense-Organs) are purified by water; Mind is purified by truth; Soul is 
 बलम् \।\।
 
 For a person who is polite and serves/respects old people, four things Viz, life (number of years), knowledge, success in life and strength increase. In short, such person leaves a successful life.
-
-
 
 152
 
@@ -7857,8 +7514,6 @@ For a person who is polite and serves/respects old people, four things Viz, life
 
 A person should never give up following six qualities. truth (sticking to truth), generosity, activeness, being free from jealousy, tolerance and firmness.
 
-
-
 153
 
 छायामन्यस्य
@@ -7882,8 +7537,6 @@ A person should never give up following six qualities. truth (sticking to truth)
 इव \।\।
 
 The trees make shade for others, themselves standing in Sun. (Their) fruits are also for others. (Hence) the trees are like 'satpurush' (gentlemen).
-
-
 
 154
 
@@ -7921,8 +7574,6 @@ The trees make shade for others, themselves standing in Sun. (Their) fruits are 
 
 (One who) donates to right person (for noble cause), appreciates good qualities in others, shares joys and sorrows with brothers, gathers knowledge of science and is ( an excellent ) warrior on battlefield is called ‘Man’.
 
-
-
 155
 
 शुचित्वं
@@ -7951,8 +7602,6 @@ The qualities of a true friend are: Purity, generosity, chivalry, being composed
 
 The main point of this subhashita is not that we have to make people of such qualities our friends, but that we need to make such qualities our own, for then we will naturally attract virtuous people to become our friends
 
-
-
 156
 
 आदानस्य
@@ -7975,14 +7624,11 @@ The main point of this subhashita is not that we have to make people of such qua
 
 तद्रसम् \।\।  
 
-
 हितोपदेश
 
 Whatever you have to return back to others or whichever work has to be done by you, please do it in the expected time only (Don't delay too much). If you don't do this in time (You do it late) then the importance of that work vanishes (i.e. the effect of the work if done late will have no impact. Here the impact of the work that is done in time is compared to a sweet drink ('rasa')).
 
 suBAshitkAr says that if you don't do your 'karma' (duties) at proper time then the sweetness of your work's result is lost. 'kaal' (Time) will drink that sweetness!!
-
-
 
 157
 
@@ -8016,12 +7662,9 @@ suBAshitkAr says that if you don't do your 'karma' (duties) at proper time then 
 
 काननम् \।\।  
 
-
 महाभारत
 
 Don't destroy the forest where tigers are living. Tigers should not get extinguished from the forests. Forest is protected by the tiger (People don't cut trees in the forest for fear of tiger) and by providing the place to hide, forest too protects the tiger!
-
-
 
 158
 
@@ -8053,12 +7696,9 @@ Don't destroy the forest where tigers are living. Tigers should not get extingui
 
 आर्तिनाशनम् \।\।  
 
-
 भागवत
 
 " I do not desire kingdom, nor the heaven or even liberation ('moksha'). I have only one desire and that is to remove the misery of all the living beings who are suffering." King Rantidev has prayed to God in above words. This 'shloka' is also in the Mahabharat- Dronparva.
-
-
 
 159
 
@@ -8096,8 +7736,6 @@ Don't destroy the forest where tigers are living. Tigers should not get extingui
 
 These are the words uttered by Shri. Ram when he is going for exile ('vanvAs'). Shri. Ram says: It may happen that brightness may leave the moon, or that the ice may leave the Himalaya, or that Sea may exceed it's limits.... But it is never possible that I will break the oath given to my father.
 
-
-
 160
 
 दीपो
@@ -8124,8 +7762,6 @@ These are the words uttered by Shri. Ram when he is going for exile ('vanvAs'). 
 
 The lamp eats the darkness and gives birth to soot (generates soot). The food you eat has an influence on the offspring.
 
-
-
 161
 
 जितात्मनः
@@ -8143,7 +7779,6 @@ The lamp eats the darkness and gives birth to soot (generates soot). The food yo
 तथा
 
 मानापमानयोः \।\।  
-
 
 ज्ञन्ब्स्प;
 
@@ -8191,8 +7826,6 @@ The lamp eats the darkness and gives birth to soot (generates soot). The food yo
 
 For one who has conquered the mind, the Super soul is already reached, for he has attained tranquillity. To such a man happiness and distress,heat and cold, honour and dishonour are all the same.
 
-
-
 162
 
 कोकिलानां
@@ -8222,8 +7855,6 @@ For one who has conquered the mind, the Super soul is already reached, for he ha
 पंचतंत्र
 
 Cuckoo bird’s beauty is in it’s voice, woman’s beauty is in her dedication to family/husband ('pativrata'). Knowledge is the beauty of an ugly person and forgiving is the beauty of the sages ('tapaswis').
-
-
 
 163
 
@@ -8261,8 +7892,6 @@ Cuckoo bird’s beauty is in it’s voice, woman’s beauty is in her dedication
 
 Any thing that we see in this world, is it beautiful or ugly in it's very nature? (Of-course No) The thing which is liked by any individual is felt beautiful by that individual! For example a ugly looking child is still loved very much by his/her mother.
 
-
-
 164
 
 अकालो
@@ -8291,8 +7920,6 @@ Any thing that we see in this world, is it beautiful or ugly in it's very nature
 
 When this life is full of uncertainty there is no time which is unfavourable for living the life as per the 'dharma'. Think as if death is within it's reach to you and obey the 'dharma'. Death can come anytime so always do good things (It shouldn’t happen that due to early death your wish to live the life of 'dharma' remained a mere wish only!!!). Don't wait for any favourable time ('muhurta') at which you will start living good life! The whole point is if you want to lead a good/noble life start NOW! Note that 'dharma' is not religion. Please refer suBAshitas No. 17,22,50,67,140,144 for more explanations of the word 'dharma'.
 
-
-
 165
 
 बुद्धिः
@@ -8312,7 +7939,6 @@ When this life is full of uncertainty there is no time which is unfavourable for
 वॄत्तिभयं
 
 कुतः \।\।  
-
 
 ज्ञन्ब्स्प;
 
@@ -8374,8 +8000,6 @@ When this life is full of uncertainty there is no time which is unfavourable for
 
 One who has brain, chivalry, poise, power, enthusiasm and willingness to work; why he/she has to worry about earning his/her living?
 
-
-
 166
 
 गुणैरुत्तमतांयाति
@@ -8391,8 +8015,6 @@ One who has brain, chivalry, poise, power, enthusiasm and willingness to work; w
 गरुडायते \।\।
 
 Worth of a person is not determined by his seat (position), but by his qualities. Just by sitting on tip of palace, a cow can not become eagle.
-
-
 
 167
 
@@ -8418,7 +8040,6 @@ Worth of a person is not determined by his seat (position), but by his qualities
 
 समाचरेत् \।\।  
 
-
 ज्ञन्ब्स्प;
 
 ज्ञन्ब्स्प;
@@ -8426,8 +8047,6 @@ Worth of a person is not determined by his seat (position), but by his qualities
 चाणक्य
 
 Subhashitkar hear explains what device are to be used to purify different things. He says, purify your next step by your vision i.e. watch the path carefully before you step further. drink water, which is purified by cloth. speak after purification by satya (truth) i.e. speak whatever truth is. purify your behaviour by your mind i.e. make conscience efforts to keep your behaviour good.
-
-
 
 168
 
@@ -8447,14 +8066,11 @@ Subhashitkar hear explains what device are to be used to purify different things
 
 जगति \।\।  
 
-
 भतर्ॄहरि
 
 नीति
 
 Deer, Fishes and noble people ('sajjan') earn their livelihoods on dry grass, water and satisfaction ('santosh') respectively! Even though they lead such simple life without troubling anyone still we find hunters, fishermen and bad people ('durjan') becoming their enemies! It's really true that the people who do not trouble others still have enemies without any reason!
-
-
 
 169
 
@@ -8475,8 +8091,6 @@ Deer, Fishes and noble people ('sajjan') earn their livelihoods on dry grass, wa
 लघुः \।\।
 
 There is no fault in the failure of the big dreams/aims. But it's big fault even to think for the personal selfish gains.
-
-
 
 170
 
@@ -8548,8 +8162,6 @@ There is no fault in the failure of the big dreams/aims. But it's big fault even
 
 ( Oh God ) From the unreal lead me to the real From darkness lead me to light From death lead me to immortality.
 
-
-
 171
 
 विद्या
@@ -8577,7 +8189,6 @@ There is no fault in the failure of the big dreams/aims. But it's big fault even
 मॄतस्य
 
 च \।\।  
-
 
 ज्ञन्ब्स्प;
 
@@ -8631,8 +8242,6 @@ There is no fault in the failure of the big dreams/aims. But it's big fault even
 
 Knowledge is (your) friend in the journey, wife is the friend at home, drug is (like) friend in illness and dharma is the friend after death.
 
-
-
 172
 
 आदौ
@@ -8665,8 +8274,6 @@ Our own mother (i.e. one who gives birth), guru's (teacher's) wife, wife of a br
 
 The word 'mother' indicates respect we have about somebody. Here, subhashitkar says that we have seven mothers i.e. we should have respect to all listed in the subhashita.
 
-
-
 173
 
 यथा
@@ -8697,8 +8304,6 @@ The word 'mother' indicates respect we have about somebody. Here, subhashitkar s
 
 Just like a chariot cannot run with only a single wheel, in the same way luck will not favour the human without his/her efforts.
 
-
-
 174
 
 ग्रहाणां
@@ -8728,8 +8333,6 @@ Just like a chariot cannot run with only a single wheel, in the same way luck wi
 बिभ्यति \।\।
 
 When there are changes in our life (good or bad) we generally attribute these to things like - effects of Planetary motions, (bad/good) dream, (bad/good) signs, results of praying to God. But really speaking these are just like the coincidence of a crow sitting on the branch of a tree and that branch falling on ground within few minutes!! (The branch does not fall down due to the weight of the crow!!!)
-
-
 
 175
 
@@ -8767,8 +8370,6 @@ When there are changes in our life (good or bad) we generally attribute these to
 
 It has never happened before, nobody has heard about, no body has seen a golden deer. But, ShriRama's greed (about it) is unfavorable intention leading to destruction.
 
-
-
 176
 
 गुरुं
@@ -8795,8 +8396,6 @@ Hostile person is to be killed without any (second) thought, even if he is your 
 
 Subhashitakar wants to emphasize here that there is no excuse for crime, no matter who has done that.
 
-
-
 177
 
 आपदां
@@ -8821,12 +8420,9 @@ Subhashitakar wants to emphasize here that there is no excuse for crime, no matt
 
 गम्यताम् \।\।  
 
-
 चाणक्यनीति
 
 Being under the command of our senses/mind is nothing but invitation to many problems and winning over them is a pathway to the glory/success! Choose any path that you like!! Animals get satisfied by Taste,Touch,Smell etc. Getting too much happiness from such things is like being under their command. If human beings are "different" than animals then these things will not give the ultimate joy to any human being.
-
-
 
 178
 
@@ -8862,8 +8458,6 @@ Being under the command of our senses/mind is nothing but invitation to many pro
 
 Explanation:- Srila Vyasadeva is stressing that the most important thing in any book, or mere few sentences of writting, is the purity of the author's intention. Even sadhus, the most exalted men, will apreciate (hear and accept) such texts although they find many discrepancies in them.
 
-
-
 179
 
 अर्थानाम्
@@ -8898,12 +8492,9 @@ Explanation:- Srila Vyasadeva is stressing that the most important thing in any 
 
 कष्टसंश्रयाः \।\।  
 
-
 पंचतंत्र 1163
 
 Getting all types of wealth is painful, after getting the wealth protecting it is painful, after you have obtained the wealth it's the cause for many sorrows, if the wealth is spent then also it's sorrowful..... such a wealth which is cause to all types of problems be condemned!!
-
-
 
 180
 
@@ -8926,8 +8517,6 @@ Getting all types of wealth is painful, after getting the wealth protecting it i
 सेवितुम् \।\।
 
 Three kinds of people get the golden earth; Chivalrous, learned, and the ones who do service. (The Earth gives all its wealth to the three kinds of people.)
-
-
 
 181
 
@@ -8983,8 +8572,6 @@ Three kinds of people get the golden earth; Chivalrous, learned, and the ones wh
 
 Sometimes sleeps on floor and sleeps on fine bed at other times. Sometimes manages only with vegetables and eats delicious rice at other times. Sometimes wears torn clothes and wears elegant clothes at other times. The person devoted to work does not care about sorrows and joys.
 
-
-
 182
 
 उपकारान्
@@ -9004,7 +8591,6 @@ Sometimes sleeps on floor and sleeps on fine bed at other times. Sometimes manag
 अशुभे
 
 दीर्घसूत्रता \।\।  
-
 
 ज्ञन्ब्स्प;
 
@@ -9056,8 +8642,6 @@ Sometimes sleeps on floor and sleeps on fine bed at other times. Sometimes manag
 
 One should always remember the favours (done by others) and forget the mean deeds. Do the good things at once, however postpone the unpleasant things.
 
-
-
 183
 
 आरभ्यते
@@ -9076,7 +8660,6 @@ One should always remember the favours (done by others) and forget the mean deed
 
 मध्याः \।\।  
 
-
 विघ्नेः
 
 पुनः
@@ -9094,8 +8677,6 @@ One should always remember the favours (done by others) and forget the mean deed
 परित्यजन्ति \।\।
 
 Inferior men do not star a work due to fear of obstacles. Medium men start their work, but leave the work whenever they get difficulty. Exceptionally good people start their work, and continue doing working even if there is series of obstacles in their way.
-
-
 
 184
 
@@ -9118,8 +8699,6 @@ Inferior men do not star a work due to fear of obstacles. Medium men start their
 एवाभिवर्धते \।\।
 
 (any) Desire never gets fulfilled even if it is temporarily satisfied. As, fire consumes offered ghee and increases, desire also increases with consumption.
-
-
 
 185
 
@@ -9151,8 +8730,6 @@ Inferior men do not star a work due to fear of obstacles. Medium men start their
 
 The person who has more desires is infact the poorest one. If one's mind is satisfied then will there be any distinction between rich and poor? suBAshikAr has termed that person as "Poor" who has more desires. The basic parameters on which anyone's richness or poverty is decided (Which is ofcourse Money) is changed by the suBAshikAr from money to desire (trushna)!!
 
-
-
 186
 
 अरौ
@@ -9179,12 +8756,9 @@ The person who has more desires is infact the poorest one. If one's mind is sati
 
 दु्रमः \।\।  
 
-
 हितोपदेश
 
 Do treat even the enemy who has come to your house as a guest. Look how a tree does not take away it's shadow over the person who has come to cut it!!
-
-
 
 187
 
@@ -9205,7 +8779,6 @@ Do treat even the enemy who has come to your house as a guest. Look how a tree d
 कर्म
 
 कर्तारमनुगच्छति \।\।  
-
 
 ज्ञन्ब्स्प;
 
@@ -9261,8 +8834,6 @@ Do treat even the enemy who has come to your house as a guest. Look how a tree d
 
 Calf recognises its mother among the herd of thousands of cows; the same way, karma of previous birth (good and bad deeds) goes with the doer.
 
-
-
 188
 
 अस्थिरं
@@ -9282,7 +8853,6 @@ Calf recognises its mother among the herd of thousands of cows; the same way, ka
 धर्मकीर्तिद्वयं
 
 स्थिरम् \।\।  
-
 
 ज्ञन्ब्स्प;
 
@@ -9332,8 +8902,6 @@ Calf recognises its mother among the herd of thousands of cows; the same way, ka
 
 In this world, the life is uncertain, wealth and youthfulness (also) do not last long (they are unstable). (Even) son and wife are unstable. Dharma and fame are the two things that last long (are stable).
 
-
-
 189
 
 कॄपणेन
@@ -9362,8 +8930,6 @@ In this world, the life is uncertain, wealth and youthfulness (also) do not last
 
 No one was/will be ever as generous as a stingy person. He gives his wealth to others without even touching it. Here the subhashitakar is stressing that a miser never spends his money, and after his death, others get that money.
 
-
-
 190
 
 खलानां
@@ -9385,8 +8951,6 @@ No one was/will be ever as generous as a stingy person. He gives his wealth to o
 There are only two options while dealing with the wicked people and a thorn lying on the road. One is to hit their face by your footware or leave them aside!!
 
 Actually the word 'muKhaBhang' applies to both the thorn and the wicked person. When appiled to the wicked person it means you insult that person (and not litellary to hit that person on face!) and when applied to a thorn it means you cut that part of the thorn which is pointed and thus it will not harm anyone. Further the suBAShitkAr says that if you don't have capabilities to do such things then simply leave them aside (You follow a different path!!)
-
-
 
 191
 
@@ -9426,8 +8990,6 @@ Actually the word 'muKhaBhang' applies to both the thorn and the wicked person. 
 
 Roots of the sandalwood tree form a shelter for the snakes, on it's top birds take rest, on it's branches monkeys are playing and one can find bee's on it's flowers. Really, the ultimate aim of the good ('sajjan') people is to offer helping hands to others ('paropkAr')!
 
-
-
 192
 
 दूरस्थोऽपि
@@ -9455,7 +9017,6 @@ Roots of the sandalwood tree form a shelter for the snakes, on it's top birds ta
 समीपस्थोऽपि
 
 दूरतः \।\।  
-
 
 ज्ञन्ब्स्प;
 
@@ -9501,8 +9062,6 @@ Roots of the sandalwood tree form a shelter for the snakes, on it's top birds ta
 
 The one who resides in your mind, is not far away even if one is staying far away(physically). (However) The one who doesn’t have place in your heart, is distant even if one is close to you.
 
-
-
 193
 
 उद्धरेदात्मनात्मानं
@@ -9524,8 +9083,6 @@ The one who resides in your mind, is not far away even if one is staying far awa
 Be cause of your own progress, don't be a cause of your own degradation. You yourself are your friend or enemy (no one else).
 
 That is, a person will prosper or ruin due to his own deeds, he has to select what he wants.
-
-
 
 194
 
@@ -9554,8 +9111,6 @@ That is, a person will prosper or ruin due to his own deeds, he has to select wh
 Nobody is friend of any other person. Nobody is enemy of any other person. Need (intention or the situation) only binds (a person as your) friend or enemy.
 
 Friendship or enmity is a relationship between two persons, and it is decided only on their interests. No person is your friend or enemy if you don't consider your interest..
-
-
 
 195
 
@@ -9587,8 +9142,6 @@ Friendship or enmity is a relationship between two persons, and it is decided on
 
 It's very easy to convince an uneducated person. It's even more easy to convince a person who has complete knowledge. But a person who develops a false pride on basis of half-knowledge gained, cannot be convinced even by God.
 
-
-
 196
 
 यथा
@@ -9614,8 +9167,6 @@ It's very easy to convince an uneducated person. It's even more easy to convince
 अनुविन्दति \।\।
 
 In the group of thousands of cows, the calf correctly identifies it's mother and comes near it's mother - In the same way the deeds done in the past life correctly gets attached to the person (It's effect cannot be undone). Here suBAshitkAr has compared cow with the 'person' (The one who is doing 'karma') and the previous life deeds ('karmas') with the calf. Just as the cow need not bother that how in thousands of group it's calf will locate her, in the same way a human need not bother about how his/her past life deeds will get attached in the current life! According to the Hindu philosophy the current life that we have got and all the goods and bads in it are due to the effect of our deeds in the past life and the deeds in this life will determine about our next life. So 'plan' your next life!!
-
-
 
 197
 
@@ -9644,7 +9195,6 @@ In the group of thousands of cows, the calf correctly identifies it's mother and
 नेत्रेण
 
 गम्यते \।\।  
-
 
 ज्ञन्ब्स्प;
 
@@ -9688,8 +9238,6 @@ In the group of thousands of cows, the calf correctly identifies it's mother and
 
 The studies make one’s knowledge grow ( The education of a person can be judged by the knowledge he/she possesses). Kula is perceived by one’s behaviour. The virtues show one’s originality, (however) the anger can be sensed from one’s eyes.
 
-
-
 198
 
 कस्यैकान्तं
@@ -9718,14 +9266,11 @@ The studies make one’s knowledge grow ( The education of a person can be judge
 
 चक्रनेमिक्रमेण \।\।  
 
-
 कालिदास
 
 मेघदूत
 
 Who is the one who experiences constant happiness or constant sorrows? Like any point on a wheel goes down and again rises up so also the happiness and sorrows follow each other in one's life. Therefore don't get excited by happiness nor get dejected by sorrows.
-
-
 
 199
 
@@ -9747,8 +9292,6 @@ Who is the one who experiences constant happiness or constant sorrows? Like any 
 
 Every day one should introspect one's own bheaviour and see what are qualities in me that resemble with animal ('pashu') characteristics and what are the qualities that resemble with the qualities of a noble person. ('satpurusha'). A simple way of implementation given for any individual to brighten the inherent noble qualities present in the human mind!
 
-
-
 200
 
 अव्याकरणमधीतंज्ञन्ब्स्प;
@@ -9768,8 +9311,6 @@ Every day one should introspect one's own bheaviour and see what are qualities i
 कॄतं \।\।
 
 Learning without grammar (i.e. not learning fundamentals, only surface), crossing river using boat which has a hole, and consuming medicines without following the instructions of the physician, better not to do these three things rather than doing them this way. It is advisable not to do something rather than doing it improperly.
-
-
 
 \[
 
@@ -9792,8 +9333,6 @@ Learning without grammar (i.e. not learning fundamentals, only surface), crossin
 मत्तदन्तिनः
 
 Meaning: Even small-small (insignificant) things, when put together, can do a great work. A rope made up of hay sticks can control a powerful elephant. Unity is power.
-
-
 
 202
 
@@ -9833,8 +9372,6 @@ Meaning: Even small-small (insignificant) things, when put together, can do a gr
 
 All the mountains do not have the precious stones, you will not get pearls from all the elephants; The philanthropists are not very common, sandalwood is not found in all the woods. (The good things are uncommon)
 
-
-
 203
 
 एकवर्णं
@@ -9859,12 +9396,9 @@ All the mountains do not have the precious stones, you will not get pearls from 
 
 स्मॄतम् \।\।  
 
-
 महाभारत
 
 The cows of different colours produce milk of one colour, in the same way, the principle taught by different religions is one.
-
-
 
 204
 
@@ -9896,8 +9430,6 @@ The cows of different colours produce milk of one colour, in the same way, the p
 
 Whatever is not in possession of ourselves (It is with others) is sorrow and whatever is in possession of ourselves is happiness. In short, these are the indications of happiness and sorrow! Happiness is inside the human-being and not outside. Happiness is not tied with the external entity. Absence of desire is absolute happiness! People become unhappy when they see new/better objects of consumption not in their ownership. So the suBAshitkAr has in simple words told us what are the things that makes one happy or sad. We have to decide if we want to be happy or sad!
 
-
-
 205
 
 आलस्य
@@ -9926,8 +9458,6 @@ Whatever is not in possession of ourselves (It is with others) is sorrow and wha
 
 How can a lazy person acquire knowledge? Without knowledge how will one get wealth? Without wealth who will become friends? And without friends how will anyone become happy?
 
-
-
 206
 
 आकाशात्
@@ -9951,8 +9481,6 @@ How can a lazy person acquire knowledge? Without knowledge how will one get weal
 गच्छति \।\।
 
 Just as the rain water that falls on the earth travels through various rivers and ultimately reaches the sea - In the same way offerings ('Namaskaras') offered to various Gods ultimately reaches only one God.
-
-
 
 207 \।
 
@@ -9984,8 +9512,6 @@ Just as the rain water that falls on the earth travels through various rivers an
 
 So here in the above suBAshita, the suBAshitkAr addressing the swan says - Only you have the capability to separate milk and water, and so if you only become lazy then who else will be able to do your job? If the people with bright intellect and unique skills don't carry their work as is expected from them, then who else can do it? It is the responsibility of the beaurocrats, doctors, engineers, farmers, soldiers,writers,poets,artists,thinkers,saints of the nation to do their job with the best of their abilities, or else how will the nation progress?
 
-
-
 208
 
 पापंज्ञन्ब्स्प;
@@ -10012,12 +9538,9 @@ So here in the above suBAshita, the suBAshitkAr addressing the swan says - Only 
 
 ज्ञन्ब्स्प; \।\।  
 
-
 विदूरनीति
 
 Person loses the conscience (ability to think) by committing sins again and again and the one who has lost the conscience keeps on doing sins.
-
-
 
 209
 
@@ -10045,12 +9568,9 @@ Person loses the conscience (ability to think) by committing sins again and agai
 
 ज्ञन्ब्स्प; \।\।  
 
-
 विदूरनीति
 
 Person gains conscience (ability to think) by doing good deeds again and again and the one who has conscience, keeps on doing good things.
-
-
 
 210
 
@@ -10080,8 +9600,6 @@ Person gains conscience (ability to think) by doing good deeds again and again a
 
 There are many ‘shastraas’ (topics of study, doctrines) and abundance of knowledge. We have limited time and many obstacles. As swan (haMsaH) extracts milk from mixture of milk and water, one should (only) study essence of shastras (rather than studying each end every shastra to great details).
 
-
-
 211
 
 कलहान्तनि
@@ -10108,8 +9626,6 @@ There are many ‘shastraas’ (topics of study, doctrines) and abundance of kno
 
 Quarrels destroy families. Bad words (which hurt others) destroy friends (friendships). Nations get destroyed due to incapable person as a King. Person's bad deeds destroy (or keeps him away from) success.
 
-
-
 212
 
 दुर्लभं
@@ -10125,8 +9641,6 @@ Quarrels destroy families. Bad words (which hurt others) destroy friends (friend
 महापुरूषसश्रयः \।\।
 
 These three are difficult to obtain in this world, and depend on the mercy of the gods - the human birth, the desire for salvation, and the company of the great-souled ones. This suBAshit will surely appeal to an spiritual person! Individually we can think which of these things we have and be greatful towards it. If we don't have the company of great-souled ones then we should become one!
-
-
 
 213
 
@@ -10155,8 +9669,6 @@ These three are difficult to obtain in this world, and depend on the mercy of th
 सुखम् \।\।
 
 The one who runs after the luxuries will not get knowledge. And the one who wants to gain knowledge leaves the luxuries. How will any one get knowledge if he/she wants to lead a easy life? And how will one get to live a easy life who is looking for knowledge? suBAshitkAr makes us "understand" that knowledge cannot be gained leading a lavish life-style. Therefore may be in ancient Bharat the 'Gurukula' system was designed in such a way that students in their student life should gain maximum knowledge by staying away from all the pleasures of the materialistic world.
-
-
 
 214
 
@@ -10188,12 +9700,9 @@ The one who runs after the luxuries will not get knowledge. And the one who want
 
 वसेत् \।\।  
 
-
 विदूरनीति
 
 Do such a work through the day, so that you can sleep peacefully at night. Similarly, do such a work throughout your life so that you can 'live' peacefully after death.
-
-
 
 215
 
@@ -10217,8 +9726,6 @@ Do such a work through the day, so that you can sleep peacefully at night. Simil
 
 Donating (part of ... these are my words:-) ) earned wealth is the best way to protect it. (Just like) allowing water to flow out of a lake is best way to keep the lake clean. Well, I don't know how exactly it works, but may be like this, If you are standing in a bus, and say seat before you becomes empty. If you offer that seat to some other person in the bus, next time when a seat in vicinity becomes empty he takes care that you get it. Similarly if you help others, they will protect you.
 
-
-
 216
 
 खलः
@@ -10240,8 +9747,6 @@ Donating (part of ... these are my words:-) ) earned wealth is the best way to p
 पश्यति \।\।
 
 A wicked person will notice the bad qualities as tiny as a mustard seed in other person, but will not notice even the bad qualities as large as any big leaf ('bilva-patra') within himself/herself. This subhaashita teaches us to look in to ourselves before we pass any bad comments on others.
-
-
 
 217
 
@@ -10285,8 +9790,6 @@ A wicked person will notice the bad qualities as tiny as a mustard seed in other
 
 There are three things that can happen with money/wealth . The money can be donated, it can be consumed for individual purposes and lastly it can be destroyed (It will be of no use to either the individual nor to the society). The wealth of the person who does not donate nor use it for his/her own purposes, ultimately gets destroyed. There are so many subhaahitas that tell us not to accumulate wealth! But as Shri. Ramray Kamath has stated in his last e-mail that attachment to money is often hard to resist- it rightly calls for a "sacrifice" in true sense. Please refer to the suBAshitas No. 121, 124, 133, 179 and 189 which give us more guidelines for putting our earned wealth for proper usage!
 
-
-
 218
 
 यादॄशैः
@@ -10304,8 +9807,6 @@ There are three things that can happen with money/wealth . The money can be dona
 पूरूषः \।\।
 
 One becomes like the people (around him/her), who one lives with, whom one serves and whom one wants to become like.
-
-
 
 219
 
@@ -10357,8 +9858,6 @@ One becomes like the people (around him/her), who one lives with, whom one serve
 
 Only a person with good qualities knows (or appriciates) qualities of another, not a person without any qualities. A strong person knows (or judges) strength of another storng person, not a weak person. Cuckoo understands (or feels) vasanta Ritu (spring) not a crow (The cuckoo starts singing in this preriod). Elephant knows strength of Lion not a mouse.
 
-
-
 220
 
 गुणवान्
@@ -10391,8 +9890,6 @@ Only a person with good qualities knows (or appriciates) qualities of another, n
 
 A friend, even without many good qualities, is better than an enemy with good qualities. After all enemy is enemy. Though, we shall appreciate good qualities in others, it must not be forgotten that enemy is enemy and friend is friend. A person is our enemy or friend depending upon his and our interests, it does not depend on his qualities. Refer to subhashit 194, which have similar meaning.
 
-
-
 221
 
 पदाहतं
@@ -10408,8 +9905,6 @@ A friend, even without many good qualities, is better than an enemy with good qu
 रजः \।\।
 
 Even a dust particle which rises above when beaten by someone's foot is better than the person who sits calmly inspite of being insulted badly. The message of this suBAshita can vary from person to person if applied individually. But when applied to the society or nation it will convey in no uncertain terms that any wrong/insult done, should get a befitting reply. Bharat which has been beaten by the terrorism for so many years could not follow this message.
-
-
 
 222
 
@@ -10447,8 +9942,6 @@ Even a dust particle which rises above when beaten by someone's foot is better t
 
 The one who speaks in a sweet language is a real wife to any man; from whom one gets happiness and satisfaction is a real son/daughter; on whom we can put our complete faith without any hesitation is a real friend; and the land in which we can easily earn our livelihood is the real country. The way to understand this suBAshita is not by validating our wife, son, friend or country on the above specified parameters but by seeing if we personally have the qualities mentioned by the suBAshitkAr! As for the country it can be said that from the government's point-of-view it is it's duty to see that every person has work and can easily earn his livelihood, but from the citizen's point-of-view it should no doubt be like "Ask not what the country has done for you, but ask what you have done for the country"!
 
-
-
 223
 
 जरा
@@ -10478,8 +9971,6 @@ The one who speaks in a sweet language is a real wife to any man; from whom one 
 सर्वमेवाभिमानः \।\।
 
 The old age snatches away the beauty, hope takes away the courage, death defeats the life, hatred will destory ones noble attitude (dharmic vyavahaar), anger will lead to poverty, being in the company of bad people and helping them will take away ones 'sheela', uncontrolled desire will take away the shyness and false pride will take away all the good things!
-
-
 
 224
 
@@ -10513,8 +10004,6 @@ The old age snatches away the beauty, hope takes away the courage, death defeats
 
 There are very few who can realise the qualities in others. Also are very few who keep attachment towards the poor people. One can rarely find any person who is fully engrossed in some ones work, and also very few are there who "feel" sad by seeing some ones misery. Should we try to become one of such rare and extinguishing species?
 
-
-
 225
 
 आरोग्यं
@@ -10540,8 +10029,6 @@ There are very few who can realise the qualities in others. Also are very few wh
 विनाप्यर्थेः \।\।
 
 Good Health, Intelligence, friendship with noble people, birth in a great (noble) family and not being dependent on others (Say for economic or any other needs) - these things (and not 'money') - are the real wealth of a man. Refer to suBAshita No. 212 which very loosely relates with the current suBAshita.
-
-
 
 226
 
@@ -10579,8 +10066,6 @@ Good Health, Intelligence, friendship with noble people, birth in a great (noble
 
 Whether circumstances causes King or King causes circumstances? There is no doubt that King causes circumstances. Though it talks about king, it is applicable to all of us. One can have doubt, if surrounding governs him, or he can govern his surroundings. Subhashitkar says that there is no doubt that your surrounding depends on you i.e. you create it.
 
-
-
 227
 
 आयुषः
@@ -10607,8 +10092,6 @@ Whether circumstances causes King or King causes circumstances? There is no doub
 
 Even if you surrender all the jewels that you possess, you will not get back a "single" second of the time that has passed away (in your life). When such is a case, those who are wasting the time - what a blunder they are committing!! But 'wasting' of time will mean different to different people! (The work/task which will mean 'proper' usage of time for one person may be the 'waste' for another!) So what exactly to do which will not really mean 'wasting' of time? Please Refer to suBAshita No. 25 on what way to spend the time.
 
-
-
 228
 
 योजनानां
@@ -10632,8 +10115,6 @@ Even if you surrender all the jewels that you possess, you will not get back a "
 गच्छति \।\।
 
 Even a tiny creature such as ant can move ahead miles together if it keeps on walking consistently. But if a Eagle doesn't decide to leave it's place then it can't move even an inch ahead!! suBAshitkAr wants to stress that only having the capability will not do. One should also have the "Will" to achieve the goal. And thus with a strong will an ant (With inferior capabilities) can keep on moving ahead, but the eagle (With much more superior capabilities) - without any efforts can't even dream to reach near it's goal! Notice suBAshita No. 37 which has similar meaning.
-
-
 
 229
 
@@ -10660,8 +10141,6 @@ Even a tiny creature such as ant can move ahead miles together if it keeps on wa
 इतरेजनाः
 
 Different people have different interests out of same act. Take for instance wedding. The bride expects a handsome husband (which is natural for that age), her mother expects a wealthy son in law (so that he will keep the daughter happy in life), her father is interested in a knowledgeable person (which is a good quality for him) where as her brothers are interested in a good family background (so that they have a relation with a noble family). And what about others? they are interested only in delicious food! (they are not bothered about what happens to the husband and wife and their families afterwards).
-
-
 
 230
 
@@ -10693,8 +10172,6 @@ Different people have different interests out of same act. Take for instance wed
 
 Wealth can be earned, it can also be lost. (even after loss) it can be recovered again and again. But youth once gone, never returns.
 
-
-
 231
 
 आशा
@@ -10718,8 +10195,6 @@ Wealth can be earned, it can also be lost. (even after loss) it can be recovered
 पङ्गुवत् \।\।
 
 Desire ('Asha') is a strange (surprising) type of chain! The one who are tied by this chain run here and there (For seeking the objects of desire) and the one who are free from this chain stand calmly at one place without moving, like an disabled person!
-
-
 
 232
 
@@ -10779,12 +10254,9 @@ Even after learning various sciences ('ShAstra') many remain fools ('murKha'). (
 
 हतः \।\।  
 
-
 विदूरनीति
 
 One should put efforts in building up good character; the wealth is not stable. One who doesn’t have wealth is not really powerless, (however) characterless person is a waste.
-
-
 
 234
 
@@ -10813,8 +10285,6 @@ One should put efforts in building up good character; the wealth is not stable. 
 महाभारत
 
 The wealth, which is earned by troubling others, by disobeying the “Dharma” or even by swallowing (self) insult; does not bring happiness.
-
-
 
 235
 
@@ -10850,8 +10320,6 @@ Duryodhana says, "It's not that I didn't knew what was 'Dharma' and what was 'ad
 
 This suBAshita ponits at a very delicate nature of the human mind. Many people know what is right and what is wrong. Still why is it that they still follow the wrong path?! So one has to develop the 'habit' ('pravrutti') of following the righteous path (and not to follow the bad way).
 
-
-
 236
 
 अकॄत्वा
@@ -10871,8 +10339,6 @@ This suBAshita ponits at a very delicate nature of the human mind. Many people k
 तद्बहु
 
 Without hurting others; Without geting into association of bad Without losing association of good; However little (you progress in the Path of Dharma) That is sufficient. The non-dharmic means cannot justify dharmic "looking" ends. In short; There is no Dharmic Justification for a "Robinhood" type of activity. (Though ends may be good; the means are not good.) Any intention of Dharmic activity should be absolute and complete from Means through the End.
-
-
 
 237
 
@@ -10895,8 +10361,6 @@ Without hurting others; Without geting into association of bad Without losing as
 सुमहात्मनः
 
 It is easy to advise others (about how to behave, what is good, what is bad etc.) showing one's smartness. (so you can find many people doing that) (But practicing that is very difficult so) Only great man can practice dharma. In other words, only great man can stick to behaviour, what he thinks, the ideal.
-
-
 
 238
 
@@ -10928,8 +10392,6 @@ Never let your enemy free (if you catch him) even if he asks for (and you feel p
 
 This Subhashit, no Indian should forget. Many times in our history our Hindu Kings have made this mistake of forgiving enemy. The most ancient example is of Raja Dahir, and the most recent is of Pakistan.
 
-
-
 239
 
 नेह
@@ -10952,12 +10414,9 @@ This Subhashit, no Indian should forget. Many times in our history our Hindu Kin
 
 जायात्मजादिभिः \।\।  
 
-
 श्रीमद्भागवत
 
 Your Majesty (Dhrutarashtra), no one ever has everlasting relationship with something else, (in this world). Not even with one’s own body, let alone wife and son.
-
-
 
 240
 
@@ -10985,14 +10444,11 @@ Your Majesty (Dhrutarashtra), no one ever has everlasting relationship with some
 
 सः \।\।  
 
-
 गीता 342
 
 The working senses are superior to dull matter; mind is higher than the senses; intelligence is still higher than the mind; and he \[the soul\] is even higher than the intelligence. \[The meaning is taken from www.krsna.com\]
 
 Observe the ladder: The matter- Senses - The mind - Intelligence ('buddhi') - The Soul.
-
-
 
 241
 
@@ -11011,8 +10467,6 @@ Observe the ladder: The matter- Senses - The mind - Intelligence ('buddhi') - Th
 घटमिवाश्मनि
 
 Carry your enemy on your shoulders if time is against you. But with first opportunity, destroy your enemy, as earthen vessel is broken on a rock. This subhashit tells us that an enemy is always an enemy. If you are not in position to fight with him, temporarily try to please him. But whenever you get a chance, finish him.
-
-
 
 242
 
@@ -11039,8 +10493,6 @@ Carry your enemy on your shoulders if time is against you. But with first opport
 ध्वनिः
 
 Donkeys are singing song in a weddings of camels. Both are praising each other, (donkeys say) how beautiful (camels are), (camels say) what a pleasant voice (of donkeys. i.e. donkeys are good singers). This is a typical scenario in a gathering of low calibre persons. None of them is of any excellence, but they praise each other, either because they don't know what is excellence, or because they want some mental satisfaction. Now whenever somebody praises you, remember this Subhashit;-)
-
-
 
 243
 
@@ -11070,12 +10522,9 @@ Donkeys are singing song in a weddings of camels. Both are praising each other, 
 
 कामकामी \।\।  
 
-
 गीता 270
 
 A person who is not disturbed by the incessant flow of desires--that enter like rivers into the ocean, which is ever being filled but is always still--can alone achieve peace, and not the man who strives to satisfy every such desires.
-
-
 
 244
 
@@ -11107,8 +10556,6 @@ Getting delighted and feeling friendly by seeing others joys, getting dejected b
 
 A short suBAshita with great meaning, which can help any individual to become a better human being!
 
-
-
 245
 
 न
@@ -11139,12 +10586,9 @@ A short suBAshita with great meaning, which can help any individual to become a 
 
 स्मॄतः \।\।  
 
-
 मनुस्मॄति
 
 (Those, who) do not get carried away by honour and do not become angry because of dishonour, do not use harsh words, even when angry, are known as great saints.
-
-
 
 246
 
@@ -11198,8 +10642,6 @@ Those who wanted to leave me have already left. Those who want to leave me may a
 
 See the confidence of Chanakya in himself! Apart from being self-confident, this subhaashita also teaches us that whatever we loose in life it is nothing... But let us not loose good mind/intellect and other noble qualities in ourselves.
 
-
-
 248
 
 दीर्घा
@@ -11230,8 +10672,6 @@ See the confidence of Chanakya in himself! Apart from being self-confident, this
 
 Night sounds very long to the one who is awake all through the night. Little distance appears to be stretched to the one who is already tired of walking. (Similarly) Life sounds long to the people who do not know sat-dharma.
 
-
-
 249
 
 देहीति
@@ -11251,8 +10691,6 @@ Night sounds very long to the one who is awake all through the night. Little dis
 र्धीह्र्रीश्र्रीकान्र्तिकीर्तयः \।\।
 
 The words 'give me' (begging), cause five virtues (good qualities) go away from you, immediately: intelligence, elegance, prosperity, glow and fame.
-
-
 
 250
 
@@ -11290,8 +10728,6 @@ It just gives a word of caution that if you are dependent on others for somethin
 
 there is a chance that it will never get done or will be delayed. This is something which we experience frequently.
 
-
-
 251
 
 यस्य
@@ -11322,8 +10758,6 @@ there is a chance that it will never get done or will be delayed. This is someth
 
 A person whose wife lacks the good conduct (Is not a 'saadhvi') and sweet language, such a person should leave home and go to forest because for him, there should be no difference between a forest and his own home!
 
-
-
 252
 
 अकॄत्यं
@@ -11352,8 +10786,6 @@ A person whose wife lacks the good conduct (Is not a 'saadhvi') and sweet langua
 
 The work which is not to be done (because it is bad) should not be done even if you have to loose your life. And the work which has to be done (because it is your duty) - should be continued to be done even if it costs your own life! This is the sanatana Dharma.
 
-
-
 253
 
 ध्यायतो
@@ -11374,12 +10806,9 @@ The work which is not to be done (because it is bad) should not be done even if 
 
 क्रोधोऽभिजायते \।\।  
 
-
 भगवद्गीता 262
 
 “While contemplating the objects of the senses, a person develops attachment for them, and from such attachment lust develops, and from lust anger arises”. The attachment (and hence the desire to attain) for an object develops in the first place by perceiving it through the senses. When such desire is not fulfilled, then there comes anger in the heart (due to frustration of the desire) Therefore the best policy is to not even think about the sense objects and thus live simply and happily. For, the more one thinks, the more one desires; the more one desires, the more one gets frustrated, and the more one gets frustrated, the more one gets angry.
-
-
 
 254
 
@@ -11405,8 +10834,6 @@ The work which is not to be done (because it is bad) should not be done even if 
 
 There is no work which is good in all respects. There is no work bad in all respects. Both good and bad points are present in every work.
 
-
-
 255
 
 एकतः
@@ -11425,12 +10852,9 @@ There is no work which is good in all respects. There is no work bad in all resp
 
 प्रााणरक्षणम् \।\।  
 
-
 महाभारत
 
 On one side is an act of performing 'Yadnya' and donating generously for the same and on the other side is an act of giving an helping hand to the poor/needy and curing the diseased ones. Both these acts will earn for you the same 'Punya'.
-
-
 
 256
 
@@ -11451,8 +10875,6 @@ On one side is an act of performing 'Yadnya' and donating generously for the sam
 पश्यति \।\।
 
 Those who are 'dharmic' in nature (Have noble qualities), consider all the women (Except one's own wife) as mothers - consider other's wealth as dust (Have no intention to acquire other's wealth by any meanes) - and consider all the other living creatures like themselves (Equally love all the living creatures as one would love himself/herself)!
-
-
 
 257
 
@@ -11486,8 +10908,6 @@ Those who are 'dharmic' in nature (Have noble qualities), consider all the women
 
 Whatever be the nature of a person, it is always very difficult to change. If a dog is appointed as King, even then he will not stop biting shoes. That is, he will keep on doing all the inferior things which he is otherwise used to.
 
-
-
 258
 
 नात्युच्चशिखरो
@@ -11503,8 +10923,6 @@ Whatever be the nature of a person, it is always very difficult to change. If a 
 महोदधिः
 
 For a person who is seconded by activities (i.e. for a person who depends on his own efforts), peak of a mountain is not very high (is not hard to climb), bottom of earth (centre of earth) is not very deep and an ocean is not difficult to cross.
-
-
 
 259
 
@@ -11534,8 +10952,6 @@ For a person who is seconded by activities (i.e. for a person who depends on his
 
 One should avoid crooked person even if he/she is educated. Isn't snake adorned with gem, dangerous?
 
-
-
 260
 
 सुखमापतितंज्ञन्ब्स्प;
@@ -11564,12 +10980,9 @@ One should avoid crooked person even if he/she is educated. Isn't snake adorned 
 
 ज्ञन्ब्स्प; \।\।  
 
-
 महाभारत
 
 Take pleasure from the joys (in life) and also accept the sorrows; for joys and sorrows keep changing in a cycle.
-
-
 
 261
 
@@ -11605,10 +11018,6 @@ Take pleasure from the joys (in life) and also accept the sorrows; for joys and 
 
 Those who can read books are better than the illiterates. Better than the readers of the book are those who also understand the meaning of the books. Better than those who understand the meaning of the books are the one who know / experience the supreme reality and even better are those who put in practice the knowledge that they have gained from the books!
 
-
-
-
-
 262
 
 उभाभ्यामेव
@@ -11635,12 +11044,9 @@ Those who can read books are better than the illiterates. Better than the reader
 
 पदम् \।\।  
 
-
 योगवा\। 117
 
 Just as the bird can fly high with the help of it's two wings, in the same way with the help of knowledge ('dnyaana') and duly performance of one's own duties ('karma') - one can attain the supreme reality.
-
-
 
 263
 
@@ -11663,8 +11069,6 @@ Just as the bird can fly high with the help of it's two wings, in the same way w
 जायते \।\।
 
 If you are thinking of doing some work, don't tell it (to others). If others get to know it, it won't succeed. There are some people who talk a lot and don't do much. Perhaps this Subhashit is meant or such people. Subhashitkar is telling us to 'do' rather than 'tell' your intentions to other.
-
-
 
 264
 
@@ -11698,8 +11102,6 @@ If you are thinking of doing some work, don't tell it (to others). If others get
 
 Loosing balance while walking, talking in low voice (not able to talk properly), sweating, and fear, all this are signs found in a person who is about to die, same signs are found in yAchaka, i.e. a person who is asking help from others (a person who is dependent on others).
 
-
-
 265
 
 शुश्रूषा
@@ -11729,8 +11131,6 @@ Loosing balance while walking, talking in low voice (not able to talk properly),
 धीगुणाः \।\।
 
 Willing to listen, to actually listen, to understand what we listen, to be able to remember what we have listened, to be able to deduce some conclusions and put forth arguments, to be able to formalise and conclusively put forth the thought, knowledge of the around and Philosophy - these are the eight facets of 'buddhi'.
-
-
 
 266
 
@@ -11769,14 +11169,11 @@ Willing to listen, to actually listen, to understand what we listen, to be able 
 
 शाश्वतम् \।\।  
 
-
 महाभारत
 
 शांतिपर्व
 
 'mR^ityu' (Death) is a two letter word while 'brahma' (The ultimate reality) - the non-perishable - is a three letter word. The word 'mama' (Mine) is also a two letter word and thus will lead you to 'mR^ityu' - but the word 'namama' (Not Mine) is a three letter word and will thus lead you to the 'brahma' (The ultimate reality)! Nothing in this world "is mine" - I am not the "owner/creator" of any thing in this world - "idam na mama" (This is not mine) - I am only an care taker or trustee of the so-called things owned by me! One should think and act keeping this in mind.
-
-
 
 267
 
@@ -11807,8 +11204,6 @@ Willing to listen, to actually listen, to understand what we listen, to be able 
 भवति
 
 Direct Sun (light) does not burn us (our skin) as much as a hot sand dune does. (Similarly) A mediocre person who becomes great (or powerful) due to another person (like sand dune getting hot due to Sunlight) is often annoying.
-
-
 
 268
 
@@ -11868,8 +11263,6 @@ Direct Sun (light) does not burn us (our skin) as much as a hot sand dune does. 
 
 Sometimes he will sleep on floor, sometimes on bed. Sometimes he will eat vegetables, sometimes rice and bread. Sometimes he will wear worn cloths, sometimes very rich cloths. A person who is dedicated for a certain cause/work is never bothered of (such external) difficulties of facilities. In short, a devoted person is unaffected by all the things which are not related to his cause.
 
-
-
 269\.
 
 रामो
@@ -11922,14 +11315,11 @@ Sometimes he will sleep on floor, sometimes on bed. Sometimes he will eat vegeta
 
 मामुद्धर \।\।  
 
-
 रामरक्षा
 
 स्तोत्र
 
 Rama, the jewel among the kings, Him I worship, by Him the hordes demons have been destroyed, to him is said my prayer, beyond Him there is nothing to be worshipped, His servant I am, my mind is totally absorbed in Him, O Ram, please lift me up. (The speciality of this verse from rAmarakSha is, it gives all the eight declensions of the singular word rAma. Hats off to the composer, Budhakaushik Rishi)
-
-
 
 270
 
@@ -11953,14 +11343,11 @@ Rama, the jewel among the kings, Him I worship, by Him the hordes demons have be
 
 प्रपद्ये \।\।  
 
-
 रामरक्षा
 
 स्तोत्र
 
 I take refuge in the lord Hanuman who is as fast as the mind, equals his father, the wind-God, in speed, is the master of the senses, the foremost amongst the learned, the leader of the Monkey forces and the great messenger of Shri Rama .
-
-
 
 271
 
@@ -11978,12 +11365,9 @@ I take refuge in the lord Hanuman who is as fast as the mind, equals his father,
 
 हन्त्यलक्षणम् \।\।  
 
-
 मनु\।4156
 
 Good conduct gives long life, desired well-behaved progeny and ever-lasting wealth (i.e. prosperity). so also by good conduct other defects are destroyed. (i.e.They become ineffective.) The suBAshikAr wants to stress that achieving all the good things in the life does not depend on others but rather than on the 'individual' only! And the method is also very simple - "Good Conduct"!
-
-
 
 272
 
@@ -12011,12 +11395,9 @@ Good conduct gives long life, desired well-behaved progeny and ever-lasting weal
 
 सर्वदा \।\।  
 
-
 मनु\। 357
 
 The family in which women folks (such as mother, wife, sister, daughter etc.) are full of sorrow that family meets its destruction very soon; while the family in which thay have not to grieve is always prosperous. Gender equality etc. are the terms evolved in last few hundred years. But here in Hindu's ancient literature one can find not just dry words but sincere and pure feelings for making entire humankind happy.
-
-
 
 273
 
@@ -12042,8 +11423,6 @@ The family in which women folks (such as mother, wife, sister, daughter etc.) ar
 
 Strength of a powerful person is ignored if he does not show it to others (if others areunaware). As far as energy is stored in wood, no body is bothered about it. But when same wood starts burning, they are scared of that.
 
-
-
 274
 
 विक्लवो
@@ -12068,8 +11447,6 @@ Strength of a powerful person is ignored if he does not show it to others (if ot
 
 A powerless timid person believes in fortune (i.e. relies on external forces for his own progress). A powerful person with self esteem does not give any importance to fortune. This subhashita tells us that a person himself is responsible for whatever happens in his life. So he must 'act' if he wants to do any progress. He can not blame his fortune.
 
-
-
 275
 
 यथा
@@ -12092,12 +11469,9 @@ A powerless timid person believes in fortune (i.e. relies on external forces for
 
 आश्रमाः \।\।  
 
-
 मनु\। 377
 
 Just as, (in this world) all the (living) beings exist, depending on (with the help of) air (vAyu), in the same way, all the other stages of life (i.e. Ashramas) exist depending on the stage of a house-holder (i.e. Grhasthashrama).
-
-
 
 276
 
@@ -12118,10 +11492,6 @@ Just as, (in this world) all the (living) beings exist, depending on (with the h
 मनोहरः \।\।
 
 The good ('sajjan') people are like a coconut - Harsh/Rough from outside but very soft and sweet from inside. In contrast the bad ('durjan') people are like berry - only soft from outside, but hard from inside! Just as coconut does not 'look' nice, the 'sajjan' people at first sight may seem to be harsh in their talk and attitude - But in reality their mind is pure. The 'durjan' people may 'look' nice with their sweet talk, but in their minds they will be crooked. What this suBAshita teaches us is that don't be 'nice' and 'good' in your external look - that is not important, but be 'nice'/'good'/'sweet'/'pure' from inside - from your mind. After all beauty is God given - whereas it is in one's hand to make one's mind more and more beautiful!
-
-
-
-
 
 277
 
@@ -12150,8 +11520,6 @@ The good ('sajjan') people are like a coconut - Harsh/Rough from outside but ver
 हतः \।\।
 
 One shall protect his 'sheela' (good character) with efforts (not his wealth), money can be earned and lost (i.e. money is not stable, you have it today tomorrow you may lose it). A wealthy person without a good character is as good as dead.
-
-
 
 278
 
@@ -12217,8 +11585,6 @@ One shall protect his 'sheela' (good character) with efforts (not his wealth), m
 
 This is by Dharamaraja in Mahabharata. It tells us how difficult it is to decide what is good or bad. Logic is unstable (i.e. one can draw any conclusions depending on his knowledge and intelligence, and these conclusions may change greatly due to slight changes in available knowledge). Shruti or Veda will give different opinions (different Vedas will have conflicts over an issue). Every Rishi/Muni will have his own opinion, and there is nothing to believe that one is better than another. Philosophy of dharma is very difficult to understand. So, the path followed by great persons, is the right path.
 
-
-
 279
 
 सुखंज्ञन्ब्स्प;
@@ -12242,7 +11608,6 @@ This is by Dharamaraja in Mahabharata. It tells us how difficult it is to decide
 तथैव
 
 विजितेन्द्रियः \।\।  
-
 
 ज्ञन्ब्स्प;
 
@@ -12318,10 +11683,6 @@ This is by Dharamaraja in Mahabharata. It tells us how difficult it is to decide
 
 The one who speaks truth, one who spends less, One who eats nutritional food in limited quantity and the one who has conquered the senses, gets peaceful sleep.
 
-
-
-
-
 280
 
 परित्यजेदर्थकामौ
@@ -12340,7 +11701,6 @@ The one who speaks truth, one who spends less, One who eats nutritional food in 
 
 च \।\।  
 
-
 मनु
 
 Let him avoid (the acquisition of) wealth and (the gratification of his) desires, if they are opposed to Dharma (the sacred law); and even Dharma, which may cause pain in future (or result in pain in future) and is condemned by the people or is offensive to the people.
@@ -12348,8 +11708,6 @@ Let him avoid (the acquisition of) wealth and (the gratification of his) desires
 This suBAshita by Maharshi Manu proves the broad mindedness of the Hindu Culture. Ofcourse The 'Dharma' referred here is the 'Yuga-Dharma' and not the 'Sanatan' Dharma. This provision in our culture to frame the new 'Yuga-Dharma' which is relevant for that 'Yuga' (Period) is what has helped our culture to be always relevant in all the 'Yugas'. We don't say that the laws made by some 'great' person/'holy' book - one thousand years ago should be valid and implemented even today! The flowing water is always fresh while the still water develops insects and bacterias!
 
 More on 'Dharma' in suBAshita Nos. 17,67,140,144,235.
-
-
 
 281
 
@@ -12370,8 +11728,6 @@ More on 'Dharma' in suBAshita Nos. 17,67,140,144,235.
 Those listeners only are meritorious, who have faith and devotion and have no further desire except grasping the subject, have control over their speech and are holy (or pure).
 
 We ourselves may have commented many times on the speech of some Lecturer/'Kirtan-Kaar'/Social Workers/Good Politicians etc. and may have pointed out the mistakes in the speech and that of the person also! But this suBAshita is for Listeners! Without the qualities mentioned in the suBAshita, the listener or the seeker cannot really "Realize" or "Live" the Truth/Philosophy that the orator is trying to explain. Even being a Good Listener is so difficult!
-
-
 
 282
 
@@ -12399,8 +11755,6 @@ We ourselves may have commented many times on the speech of some Lecturer/'Kirta
 
 In ancient India, there were states called 'gaNarAjya'. These states did not have any king, and were governed by government similar to present democracy. This subhashita is about such gaNarAjya. Whenever unity in unions (societies or gaNarAjya) is broken, they get destroyed, because if they are not united, it is easy for their enemies to conquer them. That's why unions (societies) should always try to be united. We can find many subhashitas in Sanskrit or in other Indian languages that tell us importance of unity in general, and with respect to defence. If we turn pages of our history, we will find that India was, and is, strong in all respects. But, we have a serious lacking, that is devoid of unity, which helps our enemies. Everyone of us should try to help our motherland by uniting our brothers.
 
-
-
 283
 
 परवाच्येषु
@@ -12426,8 +11780,6 @@ In ancient India, there were states called 'gaNarAjya'. These states did not hav
 मुह्मति
 
 Every one is always expert in finding out (and talking about) falts/shortcommings of another person. He either does not know his own faults or even after knowing he keeps quiet about it.
-
-
 
 284
 
@@ -12459,8 +11811,6 @@ Every one is always expert in finding out (and talking about) falts/shortcomming
 
 Fame is obtained by donating (giving) money, not collecting it. Clouds (givers of water) have a high position whereas the seas (reservoirs of water) have a low position.
 
-
-
 285
 
 नारून्तुदः
@@ -12479,12 +11829,9 @@ Fame is obtained by donating (giving) money, not collecting it. Clouds (givers o
 
 तामुदीरयेत् \।\।  
 
-
 विदूरनीति
 
 Let him not, even though pained by others (speak words) cutting (others) to the quick; let him not injure others in thought or deed; let him not utter words, which would pain others and prevent him from gaining heaven.
-
-
 
 286
 
@@ -12507,8 +11854,6 @@ Let him not, even though pained by others (speak words) cutting (others) to the 
 पलाण्डुः
 
 If an onion plant is grown in camphor bed, musk is used as a soil for it, or it is watered with Ganga-jala (the holiest of the waters), will it give up its characteristic pungent odour? The central idea is that a person's basic character remains the same, no matter what efforts you take to change him.
-
-
 
 287
 
@@ -12535,8 +11880,6 @@ If an onion plant is grown in camphor bed, musk is used as a soil for it, or it 
 च
 
 If water is added to a vessel drop by drop, it gets filled slowly. Similarly, knowledge, dharma (punnya, virtuous deeds), and wealth are to be earned slowly. This subhashita says that don't ever miss to gain a small amount of knowledge, dharma or wealth, because any small amount actually adds in your treasure.
-
-
 
 288
 
@@ -12570,8 +11913,6 @@ If water is added to a vessel drop by drop, it gets filled slowly. Similarly, kn
 
 A servant hates his master if the master is miser and rough in talking. Why doesn't he hate himself as he can not judge who is worthy of serving and who is not? Normally people tend to blame the surroundings for their sufferings. Most of the times the cause of trouble is oneself and not his surroundings.
 
-
-
 289
 
 ऐक्यं
@@ -12600,8 +11941,6 @@ A servant hates his master if the master is miser and rough in talking. Why does
 
 Unity is the strength of any society and it (society) is weak without unity. Hence wellwishers of the nation strongly praise unity.
 
-
-
 290
 
 का
@@ -12621,7 +11960,6 @@ Unity is the strength of any society and it (society) is weak without unity. Hen
 ज्ञन्ब्स्प;
 
 कनकलतायाः \।\।  
-
 
 हस्ते
 
@@ -12653,8 +11991,6 @@ Unity is the strength of any society and it (society) is weak without unity. Hen
 
 Who are you, little girl?: ( My name is) kAnchanamAlA. Whose daughter are you?: ( I am the daughter of) kanakalatA. What is it in your hand?: the palm-leaf ( used as a slate or writing pad). What is the written there (on it)? (alphabets) ka kha ga gha
 
-
-
 291
 
 अप्यब्धिपानान्महतः
@@ -12672,8 +12008,6 @@ Who are you, little girl?: ( My name is) kAnchanamAlA. Whose daughter are you?: 
 ानिग्रहः \।\।
 
 O good man! The control over mind is more difficult than drinking the water of entire ocean, uprooting the Meru mountain and also licking or eating the fire . (The control over the mind is more difficult than all the impossible things mentioned above). But then the question of how to make this impossible task - possible is unanswered by this subhaashita.
-
-
 
 292
 
@@ -12698,8 +12032,6 @@ O good man! The control over mind is more difficult than drinking the water of e
 यथा \।\।
 
 Mere reading of the four vedas and all the shastras number of times, is not enough for obtaining the real knowledge of Brahman (Realisation of the supreme being), Just as a spoon in a vessel used for serving, does not get the taste of the thing served from that pot. (For realisation of highest principle, listening the shastras, meditating on them, and their constant study, observing of the restrictions etc. are necessary.)
-
-
 
 293
 
@@ -12731,8 +12063,6 @@ Mere reading of the four vedas and all the shastras number of times, is not enou
 
 He, whose mind is free from objects of senses and whose heart is calm (free from passion, anger, greed etc.), entire world is his friend and liberation or emancipation is as if in his hand only. (He is as good as liberated).
 
-
-
 294
 
 अज्ञाम्प;
@@ -12761,8 +12091,6 @@ He, whose mind is free from objects of senses and whose heart is calm (free from
 
 Salute to the guru, who opens eyes of a person blind due to darkness of ignorance, by knowledge (GYAna). Guru is one of the most honourable personalities in Indian (Hindu) tradition. This Subhashita demonstrates Guru's role in one's life. Difference between an ignorant person and a knowledgeable person is stated as difference between a blind and a person with normal eyesight. Guru is a person who gives sight to otherwise blind person. On the day of Ashaadh pournima (full moon day in Ashaadh month of Hindu calendar), called Guru pournima, Hindu's show their respect to their Guru by sacrificing something for him.
 
-
-
 295
 
 क्षमा
@@ -12789,8 +12117,6 @@ Salute to the guru, who opens eyes of a person blind due to darkness of ignoranc
 
 What can a wicked person do to someone who has the weapon of fogivance in his hands? Fire fallen on ground without any grass extinguishes by itself.
 
-
-
 296
 
 ग्रन्थानभ्यस्य
@@ -12815,8 +12141,6 @@ What can a wicked person do to someone who has the weapon of fogivance in his ha
 
 An intelligent man, eager to have knowledge and wisdom, studies the books and discards what is unimportant, grasping the essence (only) just as a farmer abandons useless husk completely and picks essential grains only.
 
-
-
 297
 
 असूयैकपदं
@@ -12840,8 +12164,6 @@ An intelligent man, eager to have knowledge and wisdom, studies the books and di
 शत्रवस्त्रयः \।\।
 
 In case of a student envy is (sudden) death, to much talking is the destruction of wealth. Unwillingness to serve, haste and boasting (or self-praise) these are enemies of learning.
-
-
 
 298
 
@@ -12873,8 +12195,6 @@ In case of a student envy is (sudden) death, to much talking is the destruction 
 
 A lazy person can never earn wealth (or he can never achieve any thing), neither a wicked person, nor a rogue. The one who worries about others' reactions about his deeds, and the one who waits for long time (for good opportunity) also can not earn wealth. A person must be very active, honest, loyal, confident and quick in actions, in order to achieve his goal.
 
-
-
 299
 
 दातव्यं
@@ -12898,8 +12218,6 @@ A lazy person can never earn wealth (or he can never achieve any thing), neither
 हरन्त्यन्ये \।\।
 
 It should be given(donated) or enjoyed and spent. As far as money is concerned it should never be stocked up. Look here, the collected savings of the bees are stolen by others.
-
-
 
 300
 
@@ -12989,8 +12307,6 @@ The one who is as white (beautiful) as kundapushpa ( jasmine or lily flower-two 
 
 The one who is as white (beautiful) as kundapushpa ( jasmine or lily flower-two from two different dictionaries), moon or a garland of dewdrops, whose attire is white, whose hand is decorated with Veena (a string instrument), who is sitting on a white lotus, who is always worshipped by Gods like BrahmA, VishNu and Mahesh, Let the Godess SaraswatI, who puts an end to lethargy, protect me!
 
-
-
 301
 
 कस्यचित्
@@ -13018,8 +12334,6 @@ The one who is as white (beautiful) as kundapushpa ( jasmine or lily flower-two 
 तरणीयम् \।\।
 
 One should never steal others belongings. One should never utter a harsh word about another person (especially something which exposes his deficiencies). One should think about holy feet of Vishnu (one shold worship Vishnu from heart). If one does this, he can attain moksha easily.
-
-
 
 302
 
@@ -13054,8 +12368,6 @@ One should never steal others belongings. One should never utter a harsh word ab
 सः \।\।
 
 Do not tell your good qualities to a wise person, he will know them or will find them out. Also, do not tell your good qualities to an idiot person, because he will not be able to undertand them. One does not need to advertise himself Those who can appreciate your qualities, will find out by themselves. Others are not worth paying attention, as they can not understand your greatness. The current era of advertisement (actually, advertising more than what one has) gives exactly opposite message. But our culture, since ancient times, believe in this subhashita. There is more emphasis on 'doing' rather than 'telling' what you did.
-
-
 
 303
 
@@ -13093,8 +12405,6 @@ Hold your breath, if you have tried interpreting this shloka!! Correct interpret
 
 Notice that ke and shava have been separated. The word "ka" means water (among several other meanings). Hence ke means â€˜in waterâ€™. pANDava also means fish and kaurava also means crow. Hence the interpretation is: Seeing the corpse (shava) fallen in water, the fish were overjoyed. All the crows, however, started crying .. " O the corpse in water!!"
 
-
-
 304
 
 गुरोरप्यवलिप्तस्य
@@ -13111,12 +12421,9 @@ Notice that ke and shava have been separated. The word "ka" means water (among s
 
 शासनम् \।\।  
 
-
 महाभारत
 
 A preceptor or an elderly person, if puffed up with pride,if unable to discriminate between the proper and improper thing to be done, and has taken to a wrong path, punishment in his case is just. (No need to feel the 'weight' of the past greatness of that person!)
-
-
 
 305
 
@@ -13139,8 +12446,6 @@ A preceptor or an elderly person, if puffed up with pride,if unable to discrimin
 ेषास्त्वन्धदिनालयाः \।\।
 
 O descendant of raghu, whatever day is spent in the service of great men, that is a real day. Other days are the abode of darkness, (even though there is day-light they are wasted. They do not deserve to be termed a day).
-
-
 
 306
 
@@ -13172,8 +12477,6 @@ O descendant of raghu, whatever day is spent in the service of great men, that i
 
 If you are not at variance with (i.e have no difference of opinion with ) God Yama, the son of Vivasvat, who dwells in your heart, you need not either visit the Ganges nor go to the (holy) land of kurus (for expiration of your sins).
 
-
-
 307
 
 किम्
@@ -13195,8 +12498,6 @@ If you are not at variance with (i.e have no difference of opinion with ) God Ya
 सुपूज्यते \।\।
 
 What is use of a person who is born in high clan (vishAla kula ) but is devoid of Knowledge (VidhyAhIna) . (i.e. how does it matter even if a person is born in respected family, if he is devoid of knowledge).If a person is knowledgeable, then he is worshipped even by Gods, even if he is born in a low clan.
-
-
 
 308
 
@@ -13258,8 +12559,6 @@ What is use of a person who is born in high clan (vishAla kula ) but is devoid o
 
 KarIr tree ( a leafless tree that is found in deserts) does not blossom (even during Spring); how is the Spring responsible for that? Can you blame the Sun, for the Owl can not see during the day? The cloud can not be blamed if the rain water does not fall in the beak of Chatak bird (a bird who supposedly drinks only the rain water that falls into his beak). Who can change (erasee) the fate (written on one's forehead)?
 
-
-
 309
 
 यथा
@@ -13284,12 +12583,9 @@ KarIr tree ( a leafless tree that is found in deserts) does not blossom (even du
 
 भूतसमागमः \।\।  
 
-
 महाभारत
 
 As a certain traveller remains under a shade (of some tree) and having refreshed himself again goes on (his journey), so does the company of living beings.
-
-
 
 313
 
@@ -13309,12 +12605,9 @@ As a certain traveller remains under a shade (of some tree) and having refreshed
 
 निवारय \।\।  
 
-
 चाणक्य
 
 If you want to make this world obidient just by doing one thing, then chase off the cow (the toungue) grazing the field of grains (of blaming, cursing others) Do not curse, criticize others.
-
-
 
 314
 
@@ -13342,8 +12635,6 @@ If you want to make this world obidient just by doing one thing, then chase off 
 
 Knowledge (is acquired) by serving the teacher, or by a lot of money or by (exchange of) knowledge. A fourth (path) is not available.
 
-
-
 315
 
 यथा
@@ -13365,8 +12656,6 @@ Knowledge (is acquired) by serving the teacher, or by a lot of money or by (exch
 शुश्रूषुरधिगच्छति
 
 Just as a person gets water after digging earth with a spade, so also a student who serves his guru gets knowledge.
-
-
 
 316
 
@@ -13398,8 +12687,6 @@ If a person has good qualities, they spread by themselves (others get to know ab
 
 (As) aroma of musk does not need an oath (it proved by itself).
 
-
-
 317
 
 यथा
@@ -13426,12 +12713,9 @@ If a person has good qualities, they spread by themselves (others get to know ab
 
 भूतसमागमः \।\।  
 
-
 महाभारत
 
 Just as two pieces of wood come together in the great ocean (by the stroke of a wave) and after coming together separate, so does the association of living beings.
-
-
 
 318
 
@@ -13473,12 +12757,9 @@ Just as two pieces of wood come together in the great ocean (by the stroke of a 
 
 काञ्चनमाश्रयन्ते \।\।  
 
-
 नीतिशतक
 
 The one who is wealthy is (considered to be) of high descent. He is the one who is (assumed to be) scholar, famous, having ability to distinguish good qualities; orator and people would want to see him. All the good qualities are (considered to be) possessed by the affluent.
-
-
 
 319
 
@@ -13544,8 +12825,6 @@ Whatever little or more wealth is written on one’s forehead; one will get it e
 
 Be patient, do not show poverty to the wealthy. Look, the pot can take equal amount of water from a well or from the ocean.
 
-
-
 320
 
 नाम्भोधिरर्थितामेति
@@ -13566,12 +12845,9 @@ Be patient, do not show poverty to the wealthy. Look, the pot can take equal amo
 
 संपदः \।\।  
 
-
 विदुरनीति
 
 An ocean never begs (for water), yet it is always full of water. If one makes oneself worthy, riches come to that worthy person by themselves (with their own accord).
-
-
 
 321
 
@@ -13611,12 +12887,9 @@ An ocean never begs (for water), yet it is always full of water. If one makes on
 
 भवति \।\।  
 
-
 धम्मपद 219
 
 If a man, recites even a large portion of sacred text, but being heedless (negligent) does not put in to practice, he has no share in the ascetic life; He is like a cowherd who counts the cows of others (i.e. he is not the owner of the cows).
-
-
 
 322
 
@@ -13648,12 +12921,9 @@ If a man, recites even a large portion of sacred text, but being heedless (negli
 
 कॄतानि \।\।  
 
-
 नीतिशतक
 
 When one is trapped in the middle of a jungle ,in the war, in the midst of enemies, water/flood or fire, in the ocean or on the mountains; while sleeping, in unconsciousness, or in (any kind of) odd situation - The good deeds that one might have done in the past, protect oneself.
-
-
 
 323
 
@@ -13675,12 +12945,9 @@ When one is trapped in the middle of a jungle ,in the war, in the midst of enemi
 
 विपरीतार्थदर्शनम् \।\।  
 
-
 महाभारत 28111
 
 The time does not kill a person by weapons, but it destroys the thinking capability of a person and makes that person follow a wrong path - which ultimately leads to the destruction of that person. Corrupting the intellect is really the power of time!
-
-
 
 324
 
@@ -13709,8 +12976,6 @@ The time does not kill a person by weapons, but it destroys the thinking capabil
 उपासते \।\।
 
 Oh men! Go together harmoniously; speak together; understand each other's minds; Just as gods from ancient times, having known each other's minds did the job come to their lot, religiously, so you too act.
-
-
 
 325
 
@@ -13748,8 +13013,6 @@ Oh men! Go together harmoniously; speak together; understand each other's minds;
 
 As long as a sin is not mature (does not get ripe) so long an ignorant person considers it sweet like honey; but when the sin ripens he has to suffer it's consiquences. (has to suffer the misery, resulting from it).
 
-
-
 326
 
 तावज्जितेन्द्रियो
@@ -13778,12 +13041,9 @@ As long as a sin is not mature (does not get ripe) so long an ignorant person co
 
 रसे \।\।  
 
-
 श्रीमद्भागवत 11821
 
 A man conquering all the other senses, as long as, he does not control the organ of taste (tongue), so long he cannot be called self-controlled. He becomes self-controlled (fully) with the control of the desire for taste in food.
-
-
 
 327
 
@@ -13813,12 +13073,9 @@ A man conquering all the other senses, as long as, he does not control the organ
 
 गतः \।\।  
 
-
 भागवत 1194
 
 There are two (persons in this world), who are free from anxiety and filled with great delight: An ignorant child, without any activity and an ascetic beyond the three Gunas (i.e. Prakrti) - i.e. who has attained god.
-
-
 
 328
 
@@ -13846,12 +13103,9 @@ There are two (persons in this world), who are free from anxiety and filled with
 
 पुरूषेषवः \।\।  
 
-
 भागवत 11233
 
 A man, having his body well pierced by the arrows is not pained (tormented) so much, as he suffers, when his mind is cut to the quick by shaft-like harsh words of the wicked.
-
-
 
 329
 
@@ -13880,8 +13134,6 @@ A man, having his body well pierced by the arrows is not pained (tormented) so m
 बुद्धिमान \।\।
 
 Nobody knows, tomorrow what will happen to whom. Therefore, the wise, finish tomorrow’s work today itself.
-
-
 
 330
 
@@ -13931,10 +13183,6 @@ Nobody knows, tomorrow what will happen to whom. Therefore, the wise, finish tom
 
 A yogi says to a king: â€œWe are here (in a hermitage) content with a garment, made of barks, while you are with your silken garments. Our contentment is the same. There is no difference whatever. He, who has abundant desire, is poor. When there is contentment in the mind, who is rich and who is poor?
 
-
-
-
-
 331
 
 न
@@ -13957,12 +13205,9 @@ A yogi says to a king: â€œWe are here (in a hermitage) content with a garmen
 
 साधवः \।\।  
 
-
 भागवत 104831
 
 The holy places of water and idols of gods made out of stone do not purify the devotees immediately. They purify men after a long-standing adoration. But saints do so by a mere sight (as soon as devotees see them).
-
-
 
 332
 
@@ -13990,12 +13235,9 @@ The holy places of water and idols of gods made out of stone do not purify the d
 
 यथा \।\।  
 
-
 भागवत 41441
 
 If a brahmin with even (sama) attitude towards all (Samadrsti) does not act for giving relief to the weak (and opressed), it may be considered that, that brahmin has lost his Brahma lusture (energy), just like the milk(or water) streaming (or leaking) out from a pot that is leaking.
-
-
 
 333
 
@@ -14019,8 +13261,6 @@ If a brahmin with even (sama) attitude towards all (Samadrsti) does not act for 
 
 This subhashita is for them who believe in luck or fortune rather than their own capabilities. It says, if luck only is doing all your work, then why do you need to do anything? Your luck will also do your day to day activities like taking bath, giving donations, sitting and talking. Moral: don’t rely on fortune or other such things, rely on your own strengths.
 
-
-
 334
 
 कार्यमण्वपि
@@ -14036,8 +13276,6 @@ This subhashita is for them who believe in luck or fortune rather than their own
 रिक्ततामेत्यकालतः \।\।
 
 Even a very small thing done for somebody is very helpful if done at a proper time. But if one does not do it at a proper time (does it when it is not called for), then a (apparently) big favour to a person will be in vain.
-
-
 
 335
 
@@ -14064,8 +13302,6 @@ Even a very small thing done for somebody is very helpful if done at a proper ti
 निवर्तते \।\।
 
 If a person wants something, and if he makes efforts to achieve it - without getting tired - then no doubt he gets it.
-
-
 
 336
 
@@ -14099,12 +13335,9 @@ If a person wants something, and if he makes efforts to achieve it - without get
 
 कौतुकम् \।\।  
 
-
 गरूडपुराण
 
 Whatever is earned by a person, by lethal hard work, the descendants divide it amongst themselves, when he/she dies. (However) the wrong deeds done by the sinner for gaining the wealth; accompany him/her. (He/she has to face the consequences. The sins are not inherited).
-
-
 
 337
 
@@ -14142,7 +13375,6 @@ Whatever is earned by a person, by lethal hard work, the descendants divide it a
 
 भवन्ति \।\।  
 
-
 चाणक्य
 
 Starving mother might leave her own son, starving snake might eat her own eggs, What sin can a starved not do? People, who are helpless, get merciless when its a question of life and death for them.
@@ -14171,8 +13403,6 @@ Starving mother might leave her own son, starving snake might eat her own eggs, 
 
 A wise person should gather only important parts (gist) of knowledge from all 'shaastras' (because they are many and it is impractical to learn everything in depth) - juts as a bee gathers (only) honey from all types of flowers (and does not collect flowers).
 
-
-
 339
 
 न
@@ -14200,10 +13430,6 @@ A wise person should gather only important parts (gist) of knowledge from all 's
 परदैवतम् \।\।
 
 Giving water and food is the best amoung various donations. 'dwadashi' is the most auspicious amoung all the days. 'Gayatri Mantra' is the best amoung all the 'Mantras' and mother is superior over all the Gods. \['dwadashi' - 12th day of a fortnight - In Hindu system of calendar a 'dwadashi' comes twice in a month - once in the 'shukla paksha' when moon is in the waxing phase and once in the 'krishna paksha' when moon is in the wanning phase.\]
-
-
-
-
 
 340
 
@@ -14237,12 +13463,9 @@ Giving water and food is the best amoung various donations. 'dwadashi' is the mo
 
 क्रियाः \।\।  
 
-
 मनुस्मॄति
 
 Where women are adored and given respect, the Gods like to stay in such places. But where women are given ill-treatment, at such places no work is successful because of absence of Gods.
-
-
 
 341
 
@@ -14274,8 +13497,6 @@ Where women are adored and given respect, the Gods like to stay in such places. 
 
 Lions in forest, who eat flesh of other animals - will not eat grass even if they are very hungry. Similarly, persons born in good families will not perform any misconduct even in odds. Meaning of respectable family should be taken here as a good cultured families - families with values. When a person is having a bad time, to overcome it, he may do something that is ethically wrong, e.g. a person can steal somebody else’s food if he is starving. A cultured person will die - but not do such things.
 
-
-
 342
 
 खद्योतो
@@ -14304,8 +13525,6 @@ Lions in forest, who eat flesh of other animals - will not eat grass even if the
 
 The glittering fly appears bright (or is visible) only until the absence of moon in the sky. But when the Sun rises, there is neither the glittering fly nor the moon! In absence of a true great person, a mediocre will also appear like a great person. But nobody will notice such person in presence of a truly great individual.
 
-
-
 343
 
 स्वभावं
@@ -14327,8 +13546,6 @@ The glittering fly appears bright (or is visible) only until the absence of moon
 लभतेतराम् \।\।
 
 A good person never gives up his/her nature even when caught in a disaster. Camphor caught with fire, emits more fragrance.
-
-
 
 344
 
@@ -14352,14 +13569,9 @@ A good person never gives up his/her nature even when caught in a disaster. Camp
 
 किंचित्कर्मेकोटिभिः \।\।  
 
-
 विवेकचूडामणी
 
 The whole purpose of worship (Like chanting 'mantras', performing 'puja' etc.) is for purifying the mind and not for attaining the spiritual knowledge. Spiritual knowledge can only be attained by deep thinking and reading and would not be attained even if any one chants millions of 'mantras'.
-
-
-
-
 
 345
 
@@ -14379,14 +13591,9 @@ The whole purpose of worship (Like chanting 'mantras', performing 'puja' etc.) i
 
 प्रामोद \।\।  
 
-
 श्रमहात्म्य
 
 While working hard we do feel a bit of sadness due to the adverse conditions. But surely in future when we think of 'that' work, it gives us the happiness and satisfaction (Of having completed the work up to the expectation). Any good and positive work to be done cannot be done without facing the hardship. At the moment of actually doing the work we may feel the heat of it! But in future the memories of it will surely give a pleasant and cool experience!
-
-
-
-
 
 346
 
@@ -14413,10 +13620,6 @@ While working hard we do feel a bit of sadness due to the adverse conditions. Bu
 भगः \।\।
 
 Fortune of a person who sits idle, also sits idle. That of who stands, also stands. That of who sleeps, also sleeps, and fortune of a person, who walks, also walks. Here, subhashitkar says that fortune does not bring any thing to life, one who Works, or puts efforts, succeeds (you can say his fortune also works for him). In other words God helps them, who help themselves.
-
-
-
-
 
 347
 
@@ -14448,8 +13651,6 @@ Fortune of a person who sits idle, also sits idle. That of who stands, also stan
 
 Courage in adversity, patience in prosperity, oratory in assembly, bravery in battle, full of interest in fame, attachment to knowledge; all these are naturally found in the great persons.
 
-
-
 348
 
 यावत्
@@ -14476,14 +13677,11 @@ Courage in adversity, patience in prosperity, oratory in assembly, bravery in ba
 
 दण्डमर्हति \।\।  
 
-
 मनुस्मॄती,
 
 महाभारत
 
 One may claim proprietorship to as much wealth, as is required to maintain himself; but he who desires proprietorship over more than that, must be considered a thief; he deserves to be punished.
-
-
 
 349
 
@@ -14511,8 +13709,6 @@ One may claim proprietorship to as much wealth, as is required to maintain himse
 
 A beggar says to the King, "O King! Both of us are Lokanathas. However, if I’m BahuvrIhi compound, you are ShaShthi TatpuruSha!" laaoknaaqa: can be analysed into a Bahuvrihi compound as laaok: naaqa: yasya sa: - he whose patrons are the people, a beggar. The same compound, analysed into Shashthi tatpurusha, would be laaoksya naaqa: - the Lord of the people, the King.
 
-
-
 350
 
 यदा
@@ -14535,12 +13731,9 @@ A beggar says to the King, "O King! Both of us are Lokanathas. However, if I’m
 
 दिशः \।\।  
 
-
 श्रीमदभागवत 91515
 
 When a man does not harbour any bad (or unauspicious) thought about any creature, to that man of uniform outlook (view) towards all, happiness is there all around (in all directions).
-
-
 
 351
 
@@ -14580,8 +13773,6 @@ When a man does not harbour any bad (or unauspicious) thought about any creature
 
 Clouds in autumn do not cause rain, but they make big sound when they pass by.(Where as,) monsoon clouds give rains, without making noice. An inferior person just talks, does not do any thing, (but) good a person acts, does not talk (about his acts).
 
-
-
 352
 
 सर्वार्थसंभवो
@@ -14604,12 +13795,9 @@ Clouds in autumn do not cause rain, but they make big sound when they pass by.(W
 
 शतायुषा \।\।  
 
-
 श्रीमदभागवत 10455
 
 A mortal (a man) with the life of one hundred years even, cannot be free from the debts of his parents, from whom the body, which is the root of the four principal objects of human life (Dharma, Artha, Kaama and Moksha), has originated and by whom it has been nourished.
-
-
 
 353
 
@@ -14629,14 +13817,11 @@ A mortal (a man) with the life of one hundred years even, cannot be free from th
 
 सत्येनापद्यतेऽमॄतम् \।\।  
 
-
 श्री
 
 शंकराचार्य
 
 Immortality and Death both these reside in the body only. Death comes because of temptation; and immortality by the truth.
-
-
 
 354
 
@@ -14668,12 +13853,9 @@ Immortality and Death both these reside in the body only. Death comes because of
 
 समुन्न्तिम् \।\।  
 
-
 नितीशतक 32
 
 In this ever-rotating wheel of birth and death, who that is dead, is not indeed born again? But he alone is (considered as) born by whose birth (his) family attains eminence.
-
-
 
 355
 
@@ -14703,8 +13885,6 @@ In this ever-rotating wheel of birth and death, who that is dead, is not indeed 
 
 Who on earth can not be controlled if his mouth is properly filled (his wants are satisfied by you). Even a mrudungam (a musical instrument) makes sweet sound if flour is applied to it (flour is applied to mrudungam to make its sound clearer).
 
-
-
 356
 
 सर्वनाशे
@@ -14733,8 +13913,6 @@ Who on earth can not be controlled if his mouth is properly filled (his wants ar
 
 In the situations where every thing is about to get distroyed, a wise person gives up half (or a part) of what he has. One can live with half of what he wants, but it is extremely difficult to withstand loss of everything,
 
-
-
 357
 
 गुणेषु
@@ -14758,8 +13936,6 @@ In the situations where every thing is about to get distroyed, a wise person giv
 क्षीरविवर्जिताः \।\।
 
 One should try to develop (relevant) qualities/skills in him rather than making noise (showing off irrelevant qualities). A cow cannot be sold by ringing a bell in her neck if she cannot be milked (making sweet sound of bell is irrelevant quality where as giving milk is a relevant quality of a cow). Today's world of advertisement tells us exactly opposite of this. It tells us to attract others by attractive packaging rather than contents. But by attractive packaging, one can only raise expectations, but can not satisfy them.
-
-
 
 358
 
@@ -14785,12 +13961,9 @@ One should try to develop (relevant) qualities/skills in him rather than making 
 
 पशूनाम् \।\।  
 
-
 नीतिशतक
 
 He who is devoid of the arts, of literary composition and music is evidently a beast without the tail and horns; That he lives without eating (feeding on) grass is the great good fortune of the beasts!
-
-
 
 359
 
@@ -14826,8 +13999,6 @@ He who is devoid of the arts, of literary composition and music is evidently a b
 
 He is declared as the best saint, who is not overjoyed when honoured, and does not get angry when insulted and also does not speak harsh words when angry.
 
-
-
 360
 
 असभ्दिः
@@ -14847,8 +14018,6 @@ He is declared as the best saint, who is not overjoyed when honoured, and does n
 शिलालिखितमक्षरम् \।\।
 
 The oath taken by the wicked person are like the letters written on the water (So much temporary!). In contrast, even the informal words uttered by the saintly person are like the letters imprinted on rocks!
-
-
 
 361
 
@@ -14874,8 +14043,6 @@ The oath taken by the wicked person are like the letters written on the water (S
 
 It is very very difficult to lift the rock till the peak of the mountain. But it's very very easy to get the same rock from the peak to the mountain foot. (You just need to give the first push!). In the same way it is very difficult task to induce noble thoughts in to a person's mind and to make him/her an good individual. But it's far more simple to induce bad habits in a person!
 
-
-
 362
 
 लुब्धमर्थेन
@@ -14900,8 +14067,6 @@ It is very very difficult to lift the rock till the peak of the mountain. But it
 
 A greedy person can be convinced by use of wealth (by giving him bribe). Hot tempered person can be convinced by being polite with him. A fool can be convinced by making him feel that you are acting as he wants. A wise person can be convinced by telling him the gist of the matter.
 
-
-
 363
 
 अधर्मेणैथते
@@ -14925,8 +14090,6 @@ A greedy person can be convinced by use of wealth (by giving him bribe). Hot tem
 विनश्यति \।\।
 
 Through unrighteousness a man prospers, for a while; then he experiences good fortune, afterwards he conquers his enemies but (at the end ) he perishes, tearing root and branch.
-
-
 
 364
 
@@ -14958,8 +14121,6 @@ Through unrighteousness a man prospers, for a while; then he experiences good fo
 
 Knowledge is a friend during travel. Wife is a friend in home. Medicines are the friends during illness and our good deeds (Dharma) are friends after death!
 
-
-
 365
 
 रूपयौवनसंपन्नाः
@@ -14979,8 +14140,6 @@ Knowledge is a friend during travel. Wife is a friend in home. Medicines are the
 इव \।\।
 
 Those who are born in a great family and are handsome and young, but do not possess any knowledge, are like a beautiful flower without fregnance.
-
-
 
 366
 
@@ -15040,8 +14199,6 @@ On your forehead, by Brahma written, is your destiny; That's what decides if you
 
 It is destiny that determines one becomes wealthy or poor. So, it does not matter where you seek wealth. Therefore, do not go begging or acting servile and pitiably with the rich. It does not matter whether you go to a well or the ocean. The amount of water you can gather depends only on the size of your pail. Reference to destiny here does not imply fatalism,. It indicates the observation by the poet that everything in life is not under one's control , and that even after making one's best efforts, what one can attain in life depends on one's own innate capabilities .Hence the reference to a pail's capacity to hold water.
 
-
-
 367
 
 नरपतिहितकर्ता
@@ -15076,8 +14233,6 @@ It is destiny that determines one becomes wealthy or poor. So, it does not matte
 
 A person who works for benefit the ruler, is disliked by the people. The one who works for the welfare of the people, is disliked by the ruler. So, it is difficult to find a person who can work for benefit of the both, where he is facing equally strong opposition from both the sides. ( it will be very difficult do something which is liked by both sides, if their interests are clashing.) This Subhashita is suitable for a situation where rulers are not particularly contributing towards the welfare of their subjects, and their actions are primarily driven by their own vested interests.
 
-
-
 368
 
 दीपो
@@ -15099,8 +14254,6 @@ A person who works for benefit the ruler, is disliked by the people. The one who
 दीपज्योतिर्नमोऽस्तुते
 
 The lamp destroys darkness, it brings health and wealth. Lamp is for the welfare of all humans. O flame of lamp, I bow to you.
-
-
 
 369
 
@@ -15134,14 +14287,11 @@ The lamp destroys darkness, it brings health and wealth. Lamp is for the welfare
 
 शिल्पनैपुणम् \।\।  
 
-
 विष्णुपुराण 23
 
 That 'karma' (action), which does not bound the soul back in the life and death cycle is the real 'karma'. That 'vidyA' (knowledge) which brings liberation to the soul, is the real 'vidyA'. Rest all 'karmas' lead just to hardship and rest all forms of knowledge are nothing but information specalizations (or stamp collection)!
 
 According to our Indian culture, liberation of soul (moksha) is the ultimate aim of life. There are many paths (yoga) towards moksha. One of the them is 'niSkAmakarmayoga' (actions without desire). The one, whose actions are driven by desire, fails to attain moksha. The karma which is driven by desire is binding to soul (i.e. it will add to his pApa (bad deed) or punya (good deed)), and some time later, he will either get reward or penalty for the deed. If the same karma is done without any desire, or if the person performs the karma just as his duty, without claiming its fruits (niShkAmakarma) he does not get any reward or penalty. Those who can practice this for their life, can attain moksha. The vidyA which helps in practicing this niShkAmakarma is real vidya.
-
-
 
 370
 
@@ -15175,8 +14325,6 @@ According to our Indian culture, liberation of soul (moksha) is the ultimate aim
 
 If the person at the peak of his wealth says 'No No' to the poor and needy person then be assured that in future that person will have to say 'Give Give'!!
 
-
-
 371
 
 अन्यक्षेत्रे
@@ -15200,8 +14348,6 @@ If the person at the peak of his wealth says 'No No' to the poor and needy perso
 भविष्यति \।\।
 
 The bad work ('pApa') done in other places get vanished in the holy places. In contrast the same bad deeds committed in the holy places gets inscribed on the rocks - unwashable!! The lesson is that the purest and sacred atmosphere of the holy places will transform a person and make him repent on his earlier sins! But if at all a person does commit sin in such place then it can never be forgived for having polluted the greatness of the place.
-
-
 
 372
 
@@ -15228,8 +14374,6 @@ The bad work ('pApa') done in other places get vanished in the holy places. In c
 महोदधौ \।\।
 
 In this meaningless world only one place is worth to live in! And that place is the home of father-in-law! And see therefore Lord Shankar stays in himalayas and Lord Vishnu stays in the Sea!! (Himalay is father of mother Parvati and Sea is considered as father of Godees Laxmi as she was born from the 'samudra-manthana')
-
-
 
 373
 
@@ -15261,8 +14405,6 @@ In this meaningless world only one place is worth to live in! And that place is 
 
 A lioness having only one cub relaxes as she is assured that her cub will bring the hunt. But the donkey even if having ten children will have to carry her load herself!
 
-
-
 374
 
 आचारः
@@ -15288,8 +14430,6 @@ A lioness having only one cub relaxes as she is assured that her cub will bring 
 विशेषतः \।\।
 
 Good character (which is characterised by a good beheviour) is our first (and the most importent) duty. Great scholars have said this. So one should preserve/observe them greater than one\`s life.
-
-
 
 375
 
@@ -15323,8 +14463,6 @@ Good character (which is characterised by a good beheviour) is our first (and th
 
 The cold water, sandal paste and cold shade do not give pleasure that much like sweet speech gives pleasure.
 
-
-
 376
 
 न
@@ -15346,8 +14484,6 @@ The cold water, sandal paste and cold shade do not give pleasure that much like 
 दुष्करम् \।\।
 
 The brave people do not like being praised in front of them. They display their valiour not by words but by doing difficult deeds.
-
-
 
 377
 
@@ -15373,8 +14509,6 @@ The brave people do not like being praised in front of them. They display their 
 
 Even the huge mountains may start moving due to the mighty wind at the time of dooms day ('pralay'). But the minds of brave persons will never ever get perturbed.
 
-
-
 378
 
 मनस्येकं
@@ -15395,8 +14529,6 @@ Even the huge mountains may start moving due to the mighty wind at the time of d
 
 In the mind, speech and action, the great souls are same, but the wicked are different in mind, speech and action. (Wicked people will not be truthful).
 
-
-
 379
 
 जीवने
@@ -15415,15 +14547,11 @@ In the mind, speech and action, the great souls are same, but the wicked are dif
 
 भगवन्परिपूर्यताम् \।\।
 
-
-
 Oh Lord, please do fulfill this expectation that -
 
 In our lives whatever we give to others should be greater than whatever
 
 we borrow from others.
-
-
 
 Putting in similar context we can pray to Lord that “Oh Lord Please grant
 
@@ -15436,8 +14564,6 @@ This is an achievable accomplishment for an average individual in his/her
 life time who is longing for material pleasures along with a moderate
 
 deposit of ‘punya’ in his/her account!!
-
-
 
 380
 
@@ -15471,15 +14597,11 @@ deposit of ‘punya’ in his/her account!!
 
 बान्धवाः \।\।
 
-
-
 Truth is my mother, knowledge is my father, ‘Dharma’ is my brother,
 
 Mercifulness is my friend, Calmness(peacefulness) is my wife and forgiveness my son.
 
 There six are my kith and keens.
-
-
 
 381
 
@@ -15509,8 +14631,6 @@ There six are my kith and keens.
 
 रामायण 4, 622
 
-
-
 When Ravana was forcefully taking away Sita , she had thrown few of her ornaments
 
 in a hope that Rama might see those and make his way to her.
@@ -15526,8 +14646,6 @@ Being always at her feet to get her blessings, I can only say that this feet cha
 certainly belongs to her”.
 
 Many salutes to Lakshmana’s such pure devotion!
-
-
 
 382
 
@@ -15565,15 +14683,9 @@ Many salutes to Lakshmana’s such pure devotion!
 
 सर्ग 1830
 
-
-
 After getting the boons from King Dasharatha that Bharata be crowned and Rama be sent to forest, Kaikai told Lord Rama that King Dasharatha is not willing to convey the sad message to him. So if Rama is interested in following what King Dasharatha desires only then she can convey the message.
 
-
-
 At that moment Rama exclaimed with sorrow and mentioned that he could even jump into the fire on the command of king Dasharatha. So he requested Kaikai mata to order him what King Dasharatha wants. He took oath that he would do whatever King Dasharatha says! Shree Rama never gives his words twice! Therefore he is known to be ek-vachani (If once said, it will be done at any cost).
-
-
 
 383
 
@@ -15613,13 +14725,9 @@ At that moment Rama exclaimed with sorrow and mentioned that he could even jump 
 
 रामायण
 
-
-
 When Kaikai asks king Dashratha to give her the boon that Rama be sent to exile – at that moment king Dashratha says, “It may happen that this world may survive without sun or the crops may grow without water. But without Rama my body will not be able to hold the life!”
 
 This really became true after Rama went to exile – King Dashratha left his body in deep sorrow of Rama’s separation.
-
-
 
 384
 
@@ -15649,11 +14757,7 @@ This really became true after Rama went to exile – King Dashratha left his bod
 
 दूरतः \।\।
 
-
-
 Mountain look very spectacular from distance. Prostitutes look very beautiful when they make-up. War stories are very interesting. All these three things are interesting from distance (Better be away from them).
-
-
 
 385
 
@@ -15683,11 +14787,7 @@ Mountain look very spectacular from distance. Prostitutes look very beautiful wh
 
 मनुस्मॄति
 
-
-
 An Acharya (spiritual guide- person having knowledge of all Vedas, in modern terms, Chancellor of University) is ten times superior to an Upadhyaya (Person who masters part of Vedas, in modern terms, a professor), Father is like hundred Acharyas, and person's Mother is thousand times superior to Father!
-
-
 
 386
 
@@ -15719,8 +14819,6 @@ Those who are in distress pray God (They are not real devotees). Those who are h
 
 ‘SuBAshitkAr’ says that many people only act as if they possess good virtues. Many times it’s only due to some circumstances.
 
-
-
 387
 
 शोको
@@ -15747,8 +14845,6 @@ Those who are in distress pray God (They are not real devotees). Those who are h
 
 रिपुः \।\।
 
-
-
 These sentences are uttered by Kausalya, mother of Lord Rama.
 
 When Rama was exiled by his father King Dashratha, Kausalya in deep grief said bad words to her husband even though she knew that it was not her husband’s fault. Later she realised her fault and then she says –
@@ -15756,8 +14852,6 @@ When Rama was exiled by his father King Dashratha, Kausalya in deep grief said b
 Sorrow kills ones patience, sorrow makes forget one’s ability to distinguish between good and bad, sorrow takes away all good qualities and thus the sorrow is the biggest enemy of an individual.
 
 Thus one should not give himself/herself in the hands of sorrow.
-
-
 
 388
 
@@ -15793,8 +14887,6 @@ Thus one should not give himself/herself in the hands of sorrow.
 
 केशवः \।\।
 
-
-
 This ‘shloka’ is from Mahabharata and so the reader should be familiar with this famous
 
 epic to understand and appreciate the meaning of the ‘shloka’.
@@ -15806,8 +14898,6 @@ as shark, Kripa as the speed of the water flow, karna as it’s breakers, Ashwat
 as it’s killer whales and Duryodhana as it’s whirlpools, the river of battle was successfully crossed
 
 by Pandavas, only because their boatman was Lord Krishna.
-
-
 
 389
 
@@ -15839,8 +14929,6 @@ by Pandavas, only because their boatman was Lord Krishna.
 
 उच्चते \।\।
 
-
-
 One cannot guess what a person is going to do. One cannot understand or
 
 appreciate a person’s advice or the importance of the task as emphasised by him/her.
@@ -15848,8 +14936,6 @@ appreciate a person’s advice or the importance of the task as emphasised by hi
 Only after people see the sweet fruits as a result of doing such a task then one
 
 recognises such a person’s greatness, who can be rightly called as a ‘Pandit’.
-
-
 
 To give an example, Veer Savarkar gave call to Indian youths during second
 
@@ -15868,8 +14954,6 @@ modern arms and ammunitions for building an independent army.
 Indian Army General Shri. Thimappa in the post independent India was soldier in
 
 second world war!!
-
-
 
 390
 
@@ -15895,8 +14979,6 @@ second world war!!
 
 तॄणात् \।\।
 
-
-
 युधिष्ठिर
 
 उवाच
@@ -15921,8 +15003,6 @@ second world war!!
 
 तॄणात् \।\।
 
-
-
 These two ‘shlokas’ from ‘Aranya Parva’ of Mahabharata occur as the part of famous dialogue between
 
 ‘Yaksha’ and Dharmaraj Yudhisthira, popularly known as ‘Yaksha Prashna’ episode.
@@ -15942,8 +15022,6 @@ The earth and sky are often compared to the mother and father in the Vedas. The 
 rain but the mother sustains and nourishes her children with much more care and love and the father also bestows
 
 more benefits on his children.
-
-
 
 391
 
@@ -15965,23 +15043,17 @@ more benefits on his children.
 
 स्मॄतः \।\।
 
-
-
 Background -
 
 Yaksha put forth the following question to Yudhishthira - “Who is the enemy of men difficult to conquer
 
 and what is the endless disease? What is the nature of a good man and what is the nature of a bad man?”.
 
-
-
 The above SuBAshita is the answer given by Yudhishthira -
 
 Anger is the enemy of men difficult to conquer and covetousness (greed) is the endless desire.
 
 A good man is one who seeks welfare of all beings and a bad man is one who has no compassion or mercy.
-
-
 
 392
 
@@ -16005,8 +15077,6 @@ A good man is one who seeks welfare of all beings and a bad man is one who has n
 
 वार्ता \।\।
 
-
-
 Yaksha had asked Yudhishthira, “What is the news?”
 
 In answer to that Yudhishthira said –
@@ -16024,8 +15094,6 @@ little time for his own emancipation. Many people do not realise that they
 are gradually being consumed by time and hence that is the news deserving
 
 widest publicity.
-
-
 
 393
 
@@ -16057,15 +15125,11 @@ widest publicity.
 
 भूतले \।\।
 
-
-
 After seeing the dead body of her husband Ravana, Mandodari uttered,
 
 “It is said that when the tears of a pati-vrata (a devout wife) drop on the land,
 
 they do not go waste. And this has been proved once again in your case.”
-
-
 
 Vrata means that which is strictly followed with utmost devotion and missionary zeal.
 
@@ -16076,8 +15140,6 @@ and moral depth. And Ravana having captured and tortured such an elevated soul h
 pay for his sin. Mandodari’s wisdom has to appreciated that even in the time of greatest
 
 sorrow she could understand the real cause of her husband’s demise.
-
-
 
 394
 
@@ -16119,8 +15181,6 @@ Also note that the word ‘yadnya’ has much more wide meaning other than
 
 only the ritual part of it.
 
-
-
 395
 
 दुः
@@ -16161,8 +15221,6 @@ only the ritual part of it.
 
 सुत्र
 
-
-
 Leave the company of bad and evil at all conditions. Because it will lead to desires
 
 (worldly/bad), from the non fulfillment of these desires, anger and moHa (attachment)
@@ -16171,15 +15229,11 @@ will arise and further in this chain the buddhi (intelligence) will get destroye
 
 end it will be total destruction. (Refer to suBAshita No. 253)
 
-
-
 The bad qualities, even though present in small traces in the human mind, like that of tiny
 
 waves, would eventually get developed in to a big ocean due to the company of bad and
 
 evil people!
-
-
 
 396
 
@@ -16207,13 +15261,9 @@ evil people!
 
 गर्दभात् \।\।
 
-
-
 The above subhAshit teaches us three things to be learnt from a Donkey.
 
 and those are:
-
-
 
 1\. He carries load (meaning he slogs,takes pains..thats
 
@@ -16231,13 +15281,9 @@ been assigned to him...and (that too with honesty)
 
 complain about anything.
 
-
-
 These three things can be learn from a donkey....
 
 thats what the subhAshitkar says.
-
-
 
 397
 
@@ -16281,8 +15327,6 @@ thats what the subhAshitkar says.
 
 प्रादा \।\।
 
-
-
 The facial expression of Shri. Rama (also his feelings) neither
 
 displayed smile on hearing the good news of his coronation ceremony nor
@@ -16298,8 +15342,6 @@ Therefore the last two lines of the suBAshita is for a humble devotee
 of Shri. Rama who says that “May such a pure sight of Prabhu Shri. Rama
 
 always guide me”.
-
-
 
 398
 
@@ -16329,8 +15371,6 @@ always guide me”.
 
 जगत्रयः \।\।
 
-
-
 Salutations to you Oh Poverty!! I am blessed because of you!
 
 Being poor, I can see the whole world but no one else can see me!! (Rather no
@@ -16347,8 +15387,6 @@ class but across the whole humanity! For us the message to take from this
 
 suBAshita is always try to find some thing good even from the worst.
 
-
-
 399
 
 जलान्तश्चन्द्रचपलं
@@ -16363,11 +15401,7 @@ suBAshita is always try to find some thing good even from the worst.
 
 त्वाशाश्वत्कल्याणमाचरेत् \।\।
 
-
-
 Life of a man is like a shaky reflection of moon in the water (is very short, and unstable). Knowing this, humans should always keep on doing a long lasting work that benefits the society.
-
-
 
 400
 
@@ -16405,19 +15439,8 @@ Life of a man is like a shaky reflection of moon in the water (is very short, an
 
 नोपकरणे \।\।
 
-
-
 For defeating Lanka, (Lord Rama) had to walk across the sea. His opponent was (powerful) RavaNa, and his army was of monkeys (All odds were against Rama). Inspite of that Rama killed all the demons. Success of great men depend solely on their own capacities, and not on the means they get to use.
 
-
-
 ----------------------------------------------
-
-
-
-
-
-
-
 
 \]

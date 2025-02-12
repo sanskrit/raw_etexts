@@ -16,25 +16,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM5Mjk4MjI5ODQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **FOREWORD**  
 **\_\_\_\_\_\_**
@@ -47,8 +31,6 @@ And sayings of philosophers".
 Some collections of verse and of fables were specially made for the education and edification of princes. Now and then, statesmen and ministers of state utilised the talents of poets to draw princes away from pleasure to a realisation of their public duties. Thus, it is said, that the Hindi poet, **Bihari**, wrote his famous **Doha** beginning नहिं पराग नहिं मधुर रस to point a moral.
 
  There are many collections with which scholars are familiar. The **Sharngadhara Paddhati**, the three **Shatakas** of **Bhartrihari**, the **Aryasaptashati** of **Govardhana**, are amongst the best known. One interesting anthology, the **Vidyakara-sahasrakam** was published a few years ago by the **Allahabad** University of which I was then Vice-Chancellor.
-
-
 
 My favourite in this type of work, is Jagannatha's **Bhamini-vilasa**. His boast is thoroughly justified.
 
@@ -63,16 +45,12 @@ He has divided his anthology into four parts. The verses in each are little gems
 
  The book has been edited with meticulous care by **Pandit Ramanatha Jha**. The elaborate introduction con-
 
-
-
 tains valuable materials the collection of which must have meant much industry and research. The editor has thrown light on the ancestry and date of Harihara; he has analysed the anthology in order to show how the social and intellectual life of the age is revealed in it. It is remarkable contribution to our knowledge of Mithila.
 
 **AMARANATHA JHA.**
 
 **Nov. 11, 1949.                           
        **
-
-
 
 **विषयानुक्रमणिका**
 
@@ -103,15 +81,11 @@ tains valuable materials the collection of which must have meant much industry a
 | १२ परमार्थप्रकरणम्                               |
 | ***1. Index of the first lines of the verses.*** |
 
-
-
 **INTRODUCTION**
 
  The work presented here was first published in 1890 as the 86th volume of the *Kavyamala* series; a second edition was issued in 1910. But the text, as published, is far from being perfect. In many places the reading is corrupt and therefore, obscure; at places the verses are mutilated; and above all, there are many verses missing in the printed text, the most important of which are the concluding two verses which form the *Kaviprashasti* of the work. There is no introductory matter, and it is not possible to say anything either about the source on which that edition was based or about the author of the book. It appears that the *Kavyanmala* edition was published from a single manuscript and that an imperfect one.
 
  The absence of the two concluding verses, in which the poet has furnished us with his personal history,detracts greatly from the value of the *Kavyamala* edition and it is no wonder that ignorance still prevails about the author although his work was published more than half a century ago. *Aufrecht* in his *Catalogus* *Catalogarum*does not say anything about him though he has recorded a *Subhashita* as the work of a *Harihara*. In his History of Classical Sanskrit Literature, *Mr. M. Krishnamachariar* has not a word to say either about this work or about the author. In a recent issue of the Kalyana, the well-known Hindi monthly of Gorakhpur (volume XVIII, part VII. page 934 for May, 1944) it has been claimed that Harihara, the author of *Bhartriharinirvedanataka* as well as of this Subhashita was a resident of the Deccan. And what is surprising, even so well informed a scholar as *Mm. Dr. Umesha Mishra* states in the introduction to his edition of the *Vidyakarasahasrakam* (published in 1943 as the second volume of the Allahabad University Sanskrit series) that the *Subhashitavali* of Harihara is still unpublished.
-
-
 
  I was led to undertake an edition of this work by the clear statement of the *Mahamahopadhyaya* and it was only when my work was far advanced that I chanced to see the printed text of this book in the *Kavyamala* series. On comparing it, however, with the manuscripts available to me, I was convinced that there was still need for a critical edition based on the best and most reliable manuscripts. It might be of value to lovers of Sanskrit language and literature; and a full and authentic account of the author and his time would dispel all doubts about his identity and age. This is my justification for bringing out a new edition of this exquisite work. I hope that by its publication, new light will be thrown on the social history of *Mithila* of the 16th century and on the ideals of the age.
 
@@ -119,15 +93,11 @@ tains valuable materials the collection of which must have meant much industry a
 
  The first of them, on which it has been mainly based. called by me मा hereafter, was in the possession of *Pandita Madhava Jha of Ujan* (Darbhanga) but has since been acquired for the Darbhanga Raj Library. It is on palm-leaves, 49 in number, 14 inches long by 1¾ inches broad, with five lines on each page and about 55letters in a line. Except for the ink which is not sparkling, the manuscript is in an excellent condition. It is complete but as many as 21 verses including the last two ones are found added in the margin by some other scribe and they are not quite legible, partly because of the fading ink and partly because of the damage to the ends of the leaves. The post-colophon remark shows that the transcriptionof this manuscript was completed by one *Abhirama, a Karana (Kayastha)* by caste, in the village of *Mahisari* on Wednesday, the 12th day of the dark half of *Ashvina* in the year 544 of the *Lakshmana* Sen Era prevalent in Mithila which corresponds to the Saka year 1575 equivalent to 1653 A.D. The text of this manuscript is not quite correct; it abounds inerrors mostly visual and transcriptional; and though it has been revised at least twice and many errors have been
 
-
-
 corrected, still there are many mistakes which, to that extent, mar its value and reliability.
 
  The second codex which, too, has been in the Darbhanga Raj Library, and will be called by me रा hereafter, is or. palm-leaves, 57 in number, of which 6 leaves numbering 39 to 44, are missing and some 6 others are broken. The leaves are 12 inches by 1¼ inches with four or five lines on each page and about 70 letters in a line. Except for the missing leaves, the manuscript is complete and all the verses. even those that are added in the margin in the first manuscript, are found here in the body of the text. It is written very legibly in very bright ink but is in a very dilapidated condition, rotten and thoroughly worm-eaten, with innumerable holes in each leaf, so much so that many letters are completely eaten up. Like the first, this too abounds in mistakes, though not so numerous, of the same visual and transcriptional kind and this too has been revised as a result of which some of these errors stand corrected. The post-colophon remark shows this to have been copied by one *Krishnadasa*, a *Karana* (*Kayastha*) by caste, in the village of *Digaondha* on Sunday, the 3rd day of the dark half of *Chaitra* in the year 556 of the *Lakshmana Sen* Era, i.e., only twelve years after the first. It may be interesting to note here that on palm-leaves of the same size and in the handwriting of the same scribe, there is, in the Darbhanga Raj Library, a manuscript equally rotten and worm-eaten of *Bhartriharinir-vedanataka*, another famous work of the same author, *Harihara*.
 
  The third copy, called by me प, is an incomplete paper manuscript belonging to the Inte *Pandita Padmanatha Jha of Ujan* and contains only 14 folios, 12 inches by 4 inches, with 11 or 12 lines on each page and about 66 letters in a line. It breaks off after the 30th verse of the 9th chapter. It is not, therefore, possible to say when it was copied but it appears to be about 200 years old. It is written fairly legibly though not quite correctly and from the nature of errors it is quite clear that the scribe did not understand all that he was copying. Nevertheless, the manuscript has been
-
-
 
 of great help to me in solving many puzzles that have been created by the two palm-leaf manuscripts.
 
@@ -139,8 +109,6 @@ of great help to me in solving many puzzles that have been created by the two pa
 
  In choosing the readings for the text of this edition I have not confined myself rigidly to any one of the different readings presented by these codices but have adopted what appeared to me to be correct and most appropriate. All the different readings, nevertheless, have been given by me in the foot-notes with the siglum of each codex after them so that this edition will be found to contain the readings of all the texts available to me including those of the *Havyamala*
 
-
-
 edition with the notation का affer them. The reader willhave thus all the different readings before him and will be free to choose the best for himself if the one adopted by me does not appeal to him.
 
  A comparison of the texts of the different codices reveals certain affinities among them. The two palm-leaf manuscripts, for example, copied almost in the same decade, within 12 years of each other, by *Karana Kayasthas*, who have been the professional scribes of manuscripts in *Mithila*, are wonderfully alike not only in their readings but also in their mistakes. It would have been, therefore, reasonable to suppose that both of them were transcribed from the same archetype; but the fact that one of them has as many, as 21 verses added to it later on in the margin while the other has all of them in the body of the text, seems to preclude such supposition. As they are, it appears that one of them was originally transcribed from an imperfect copy with its text still fluid, whereas the other was transcribed from a copy the text of which was finally fixed. The sameness of the mistakes (specially where the meaning of the text is not quite easy to grasp) remains, nevertheless, a mystery and howsoever much we may attribute them to the carelessness and ignorance of the scribes, still the fact that both of them should fall into exactly the same mistakescannot thus be explained away.
@@ -148,8 +116,6 @@ edition with the notation का affer them. The reader willhave thus all the di
  The codex पcontains all the verses, as far as it goes, in the very body of the text without any late addition, but from the abundance of errors it is obvious that it was copied more carelessly by a still more ignorant scribe. The errors here are not, however, exactly the same as in the two palm-leaf manuscripts. It contains some variant readings also. which in some cases tally with those of the *Kavyamala* edition. It appears, therefore, that this is a careless copy of a copy that was itself a careless transcription from some original and follows perhaps a different tradition.
 
  The last codex ग is too small a fragment to form the basis of any generalisation though it contains the most
-
-
 
 correct readings in most cases. It misses, however, one verse that is missing from the *Kavyamala* edition also, the 50th verse of the 9th chapter, which is added later on in the margin in the codex मा.
 
@@ -159,13 +125,9 @@ correct readings in most cases. It misses, however, one verse that is missing fr
 
  In the *Kaviprashasti* at the end, Harihara states that it took him long to complete the work: चिरेण चीर्ण्णाare his exact words. It is not unreasonable, therefore, to suppose that the text of this work was fluid for a long time and even when the text of the other eight chapters was finally fixed, these four chapters, namely the 5th, the 9th, the 11th and the 12th continued growing, receiving additions every now and then.
 
-
-
 I can almost visualise the author sending his autograph copy, imperfect though he might call it, into circulation among his admiring friends and pupils, and then at times making additions to it whenever a new idea struck him, jotting them down in the margin of his copy. I can, Likewise, picture some among those admirers, charmed by its excellence wishing eagerly to have a copy of it, imperfect though it might be, and in their eagerness employing a speedily copying scribe to transcribe it quickly. Such hurried transcriptions of the imperfect version might be the original of the *Kavayamala edition*, the exemplar of the manuscript noticed by *R. L. Mitra* and the original form of the codex मा, the last one revised and completed later from a perfect copy, probably from the autograph copy itself, the second one receiving only the *Kaviprashasti* at some later date because it described the author, and the first one remaining as imperfect as it was originally taken down.
 
  On the evidence of all these differing versions, three stages of the text of this work can very well be presumed. The earliest one was the text reproduced in the *Kavyamala* edition which is evidently the shortest and wanting even in the *Kaviprashasti*. The second stage is preserved in the original version of the codex मा where we have eight more verses but as many as twenty verses including the *Kaviprashasti* still wanting. And finally we have the text of the codex राand probably of प also, as far as it is available, where the text seems to have been finally fixed. The 50th verse of the 9th chapter seems to have been the latest addition made by the author, added perhaps after the exemplar of the codex ग was transcribed, very possibly even after the *Kaviprashasti* was inserted in the text. Viewed in this light it would appear that the codex मा was transcribed from the autograph copy of the work while the author was still alive and was completed later on, possibly after the passing away of the author, by adding the new verses in the margin as in the autograph copy, and that the codex राwas transcribed twelve years later from the same autograph copy after the author had passed away, taking down all the verses in their proper order as finally fixed by him. This explains the similarity between the two palm-leaf Mss. which,
-
-
 
 copied within 12 years of each other, are so very much alike not only in their readings but also in their mistakes. This finds support from the fact that at a later date not only this *Subhashita* but also another work of the same author, *Bhartriharinirvedanataka*, was transcribed by the same *Karana Krishnadasa*. If this be the fact, the date of the passing away of the author would be some time after the transcription of the codex माbut before that of the codex राi.e., between the years 1653 and 1665 A. D. This is exactly the age in which the author flourished which, as I shall show later, can be deduced from the details of his birth and family connections.
 
@@ -174,8 +136,6 @@ copied within 12 years of each other, are so very much alike not only in their r
  It appears from the *Kaviprashasti* that this work was designated *Sukti-muktavali* by the author, but it is known as *Hariharasubhashita.* It is by this name that it has been called at the end of each chapter and in the final colophon, not only in the printed edition of the *Kavyamala* series where the *Kaviprashasti* is missing, but in other Mss. also which do contain the *Kaviprashasti.* The title is obviously after the author's name and on the basis of the title alone this has been called the work of *Harihara* in the *Kavyamala* edition which, without *Kaviprashasti* as it is, does not contain any mention of the author's name. There is, thus, no doubt about the fact that *Harihara* was the author of this *Subhashita*.
 
  But *Harihara* is a very common name and there are as many as 24 *Hariharas*, (whose works are known to exist) mentioned by Aufrecht. Our author, however, calls himself a son of *Lakshmi* and *Raghava* in the 74th verse of the 12th chapter (71st in the *Kavyamala* edition) and then he proceeds with fuller details about himself and his family in the *Kaviprashasti* at the end. It is interesting to note here that both the verses of this *Kaviprashasti* are found, but with slight variations to suit the context, in the prologue of *Prabhavatiparinayanataka*, another work of the same author. They are, thus, very valuable from the point of view of the author's personal history. Full of similes and
-
-
 
 containing a pun, they may be translated in simple English:--
 
@@ -187,27 +147,19 @@ containing a pun, they may be translated in simple English:--
 
  Lest the statement that his mother was the daughter of a Maithila scholar should imply that his father was a non-Maithila like Rama, the poet uses a pun on the term दिवाकर महावंशे in the second line of the first verse. Take away 'दिया" front his compound and construe it with the first
 
-
-
 part of the sentence and the whole sentence would mean—"As the sun rising from the mountain in the East shines *during day*, the pious twice-born *Raghava*, having taken his birth from *Hrishikesha*, shone in, the family of the *Karamahas*. This family of the *Karamahas* is, indeed, one of the highest among the *Maithila Brahmanas*, and by means of this pun it is intended by the author to convey that he belonged to that family. This is the meaning read into these two verses both by *Mm*. *Mukund Jha Baksi* (in the introduction to his edition of *Bhartriharinirvedanataka*) and by *Kavishekhara Badari Natha Jha* (in his paper on *Maithila* *Panditas* *of Yore in the Mithilanka of the Mithila-Mihira of Darbhanga)*. From all this it follows that our author, *Harihara*, was a *Maithila*, born in one of the highest and most respectable families of the *Maithila Brahmanas*. Indeed, in face of the clear statement of the author in two of his works, Subhashila and the *Prabhavatiparinayanataka* in exactly the same words, it is impossible to hold otherwise.
 
  This is, moreover, supported by the *Panjis*. The *Panjis* are the consolidated genealogies of all the important families of *Maithila Brahmanas* collected by *Maharaja Hari-sinhadeva*, the last of the *Karnata* kings of *Mithila*, in the Saka Year 1248, with a view to ensuring that no *Maithila* Brahmana may marry within the prohibited degrees of relationship. Since then Panjis have grown into an institution, kept and maintained up-to-date by a class of *Panditas* called *Panjikaras*, who have to certify before a marriage is finally settled that the parties are not prohibited by relationship to marry. These *Panjis* not only corroborate in every detail what *Harihara* tells us about his family and parentage but they furnish us also with fresh facts about the history of the family and its connections which reveal the high standing of the family, and on the basis of which it becomes easy to determine, within short limits, the age in which the author must have flourished.
 
  When the *Panjis* were first promulgated in the Saka Year 1248, there was one *Gangeshvara* in the family of the *Karamahas*. He was one of the thirteen who were declared.
 
-
-
 |                                             |
 |:-------------------------------------------:|
 | ![](../books_images/U-IMG-173442734811.png) |
 
-
-
 by reason of their pure lineage, learning and exemplary character, the highest among the *Maithila Brahmanas,* known thenceforth as Shrotriyas, by which name their descendants are still called, provided they have not degenerated by marrying too low and thus lost their position. This *Gangeshvara* had seven sons and as a result perhaps of the new social order brought into being by the promulgation of the *Panjis* which classified all *Maithila Brahmanas* into three grades according to their birth, accomplishments, and character, all the seven sons of *Gongeshvara* migrated to different parts of the country and settled down in different villages, giving rise thereby to different branches of the parent family, each denoted by adding the name of the village newly adopted to the name of the parent family, *Karamaha*. One of the sons of *Gangeshvara* was *Shrivatsa* and he settled down in the village of *Behat*, still a flourishing village in which the Railway Station *Jhanjharpur* on the Oudh *Tirhut* Railway is situated,some 25 miles east of *Darbhanga*. Though the main branch of his descendants has, in course of time, migrated some five miles westward to the village Bittho, they are still known as belonging to the family of "*Karamaha Behat*".
 
  One of the sons of *Shrivatsa* is popularly called "*Bachhe*" but in one of the old *Panji Mss*. (in the possession of *Panmikara Modananda Jha of Shivarnagara* in the district ot Purnea) his name is said to have been "*DIVAKARA*," called Bachhe. It is this *Divakara* in whose high family *Raghava*, his great-grandson, is described as shining, by our author, *Harihara*? *Divakara*, called Bachhe, was married to the daughter of *Lakhu Thakur of the Khandavala family*. This Lakhu was the younger brother of *Shripati*, called Dube Thakur one of whose sons Harapati was married to the daughter of *Maharaja Dhira Singha* *Hridayanarayana* of *Mithila* (1400—1460) and another Chandrapati, called Chana Thakur was the father of *Mm*. *Maharaja Mahesha Thakur* (1510-1580). the founder of the present Darbhanga Raj.
-
-
 
  *Bachhe* had two sons, *Manu* and *Bhabe*. Of them the younger, *Bhabe*, was married to the daughter of the renowned scholar and author, *Mahamahopadhyaya San-Mishra Shankara* (1385-1450) of the family of *Sodarapur*, resident of *Sarisab*, while the elder, *Manu*, was the father of *Hrishikesha*, popularly known as *Harakhu*. This *Hrishikesha* had three wives; by his first wife he had a son, *Raghava*, and a daughter who was married to *Harikesha* of the *Sodarpura* family resident of *Dhaoli*, who was the grandson of *Sondal*, whose sister was married to *Maharaja Shiva Singha Rupanarayana* (1352—1407) immortalised by *Vidyapati* in his songs.
 
@@ -215,13 +167,9 @@ by reason of their pure lineage, learning and exemplary character, the highest a
 
  *Raghava Jha*, the good, had two wives. By the first wife, who was the daughter of *Madhusudana* popularly called Madhu Jha of the Sadarpur Kamhouli family, he had tour sons, Babu, Banai, Birai and Babi and two daughters, *Devasena* and *Kumari*. Devasena, perhaps the eldest of all, was married to Mm. Aniruddha Jha of Mandara Sihauli family. There is a verse attributed to him in the *Vidyakarasahasrakam* (No. 799) which shows him to have been a contemporary of Raja Mana Singh, the famous courtier of Emperor Akbar; while there are two verses (Nos. 110-111) in the *Kavindra-Chandrodaya* which prove that during the reign of the Emperor Shahjehan he was at *Banaras*, most probably
 
-
-
 |                                             |
 |---------------------------------------------|
 | ![](../books_images/U-IMG-173442747113.png) |
-
-
 
 In his old age, living there a retired life. One of his sons was *Mahamahopadhyaya Mohana*, author of *Anyoktishataku* described by *R. L. Mitra* on page 38 of the 6th volume of his famous Notices. The second daughter of *Raghava Jha*, named *Kumari*, was married to *Purushottama* Tha of *Naraon Sulhani* family, two of whose sons *Sadupadhyaya Harinan* dun and *Raghunandan* were married to the daughters of *Maharaja Shubhankara Thakur* (1571-1620), the youngest son of *Mm. Maharaja Mahesha Thakur*. This *Purushottanı Jha*, it may be noted here, was married previously to the daughter of *Agnihotrika Vishvambhara Thakur*, son of *Mm. Damodar Thakur*, who was the elder brother of Mm. Maharaja Mahesha Thakur. To the daughter of Babu Jha, the eldest son of *Raghava Jha*, was married *Mahuraja Purushottama Thakur* (1595-1641) the eldest son of *Maharaja Shubhankar Thakur.*
 
@@ -229,33 +177,23 @@ In his old age, living there a retired life. One of his sons was *Mahamahopadhya
 
 * Raghava Jha*, the good, married another wife, most probably after the death of the first, and she bore him two
 
-
-
 sons, *Harihara* and *Nilakantha*, and a daughter named *Bahula,* whose only daughter was married to *Mm. Yadunatha* of the *Kujilabara Bhakharauli* family. This *Yadunatha* was the grandson of *Mm. Suchi* (1500-1560) the teacher of *Mm. Maharaja Mahesha Thakur* and his maternal grand-father was the son of the great *Vachaspati Mishra* the famous *Smriti writer of Mithila*, The daughter's sonof *Yadunatha* was *Mm. Lochana*, the author of *Ragatarangiṇī*, composed during the reign of Maharaja *Narapati Thakur* (1650—1700). A copy of *Naisadhiyacharitam* transcribed by *Mm. Loghana* in *Saka* Year 1603 is still preserved in the Darbhanga Raj Library.
 
  The second wife of *Raghava Jha*, the good, called, *Lakshmi*, was the daughter of *Rameshvara* of the *Sodarpur Dhaoli* family and is styled a *Mahamahopadhyaya* in the *Panjis*. He is the "*Vidyavadatma Maithila*", to whom *Harihara* describes his mother to have been born. To this *Rameshvara*, most probably, there is a reference in the 22nd verse of the 2nd chapter of this *Subhashita* where it is stated that inspite of all his philosophical attainments, his fame rested chiefly on his poetical compositions. Indeed. *Harihara* inherited scholarship, including the poetic gifts, from his mother's side.
 
  *Mm. Harihara* had two wives. His first wife was named *Bachhana*. She was the daughter of *Bhavaninatha* *Jha* ot the *Sodarpur Kanhouli* family—the same family in which his father, *Raghava Jha*, had first married. By this wite he had a son and at least one daughter who was married to *Baladeva Jha of Mandara Sihauli* family. This *Baladeva* was the son of *Mahipati* by the daughter of *Mm. Sadananda*, the son of *Mm. Madhusudan Thakur*, the author of the various *Kantakodharas*, and grandson of *Vaidika Vishwambhara* by the daughter of *Mm. Damodaru Thakur,* the elder brother of Mm. *Maharaja Mahesha Thakur.* His only son *Krishnananda*, was a *Naiyayika* who had a son named *Dharmananda*, who was a poet. *Dharamananda's* son *Rudradatta* died without a child and thus after three generations, the direct male line of *Harihara's* descendants became extinct
 
-
-
 |                                               |
 |:---------------------------------------------:|
 | ![](../books_images/U-IMG-17348555798974.png) |
-
-
 
 |                                                |
 |:----------------------------------------------:|
 | ![](../books_images/U-IMG-173485567989741.png) |
 
-
-
 The second wife of *Harihara* was the daughter of *Bhatta* Jha of the *Mandara Pataluku* family. The sister of this *Bhatta Jha* was married to a son of *Mm. Bhagiratha*, popularly called *Megha Thakur*, the eldest brother of *Mm Mahesha Thakur*, and author of the celebrated commentary *Jalada* on the *Kusumanjali* of *Udayanacharya*. This second wife of *Harihara* had no issue.
 
  *Nilakantha*, his brother, who is described by *Harihara* as *Kavikantha-vibhushana* or an ornament for the neck of the poets, and to whom both this *Subhashita* and the dreams *Prabhavatiparinaya* are dedicated (by which is meant that they were compiled for his sake), is styled a *Jyotirvid* in all the *Panjis* but over and above that he is called in some *Panji* Mss. a *Mahamahopadhyaya* while in others he is termed a *Sadupadhyaya*. It is clear, therefore, that he was not a mere astrologer but an all round scholar, highly respected for his learning and scholarship, though he had specialised in astrology and possessed poetic talents also. Two of his works, both on astrology, have been noticed in the third volume of the Descriptive Catalogue of the Manuscripts in *Mithila*; they are "*Janmapaddhati*" No. 74 and "*Jatakapaddhati*". No. 89. He was married to *Apuchha* who was the younger sister of *Bachhana*, *Harihara's* first wife. He had two sons and two daughters. One of his daughters was married to the same *Baladeva* to whom *Harihara's* daughter was married, and therefore, the marriage must have taken place after the death of his first wife, *Harihara's* daughter. His second daughter was married to *Shripati Mishra* of the *Sodarapur Hati* family,whose mother was the daughter of *Shikhe Mishra* of *Hariamba Balirajpur* family by the daughter of *Mm. Maharaja Mahesha Thakur*. The two sons of *Nilakantha* were *Kułapati* and *Mm. Jyotirvid Ruchipati*. *Ruchipati's* son *Mm. Indrapali* was the author of *Mimamsapalvala*, a manuscript of which. No. 1959, dated the Saka Year 1667 has been described by *R. L. Mitra* in the 5th Volume of his Notices. The son of Indrapati, also, was a Mahamohopadhyaya. *Krishnapati* by name, who had a son and a grandson but this grandson of *Krishnapati*, named *Jhalahana Jha*, died without a child
-
-
 
 some fifty years ago and with him therefore the direct male line of *Nilakantha's* descendants also became extinct after five generations.
 
@@ -267,8 +205,6 @@ some fifty years ago and with him therefore the direct male line of *Nilakantha'
 
  It has been said above that in the *Saka* Year 1248 when the *Panjis* were first promulgated there was *Gangeshvara* in the family of the *Karamahas* and he was then perhaps a young man, say, of forty. Just at present his fourteenth descendant, *Babn Mukund Jha*, is, in his ton manhood. Thus, there have elapsed 14 generations in this
 
-
-
 family during these 622 years. Each generation covers, therefore, a period of about 44 years. *Mm. Harihara* was seventh in descent from *Gangeshvara* and therefore, it follows, roughly, that in the *Saka* year 1556. *Mm. Harihara* was, say, about 40 years of age. The date of his birth, thus, falls during the closing decade of the 16th century. This is the conclusion which we arrive at from a consideration of other factors also.
 
  It has been said that a daughter of *Raghava Jha*. *Kumari*, was married to *Purushottama Jha* who was married previously to the daughter of *Agnihotrika Vishvambhara Thakur*. *Raghava Jha* must have been, therefore, a contemporary, though a younger one, of *Vishvambhara Thakur*. This *Vishvambhara* was the eldest son of *Mm Damodara Thakur* who was the elder brother of *Mm. Maharaja Mahesha Thakur*. *Mm. Mahesh Thakur*, it is almost settled, was born in about 1510 A. The birth of his elder brother,*Damodara*, can, therefore, be assigned to the year 1500 and that of his son *Vishwambhara* to the year 1535 or thereabout. *Raghava Jha*, therefore might have been born in or about 1540 A. D.
@@ -277,21 +213,15 @@ family during these 622 years. Each generation covers, therefore, a period of ab
 
  But both *Babu Jha* and *Kamari* were born to the first wife of *Raghava Jha* by whom he had four sons and two daughters, while *Harihara* and his younger brother and sister were the children of his second wife. It can, therefore, be safely, assumed that *Raghava Jha* married a second
 
-
-
 time after the death of his first wife. Supposing he married his first wife at the age of thirty and that she lived with him at least for 20 years, in course of which six children were born to her, it follows that he married the second wife, say, at the age of 50 and thus the birth of the first child to his second wife could have taken place, say about the year 1595. This is, therefore, the approximate year of Mm. *Harihara's* birth.
 
  Moreover, the second daughter of *Harihara's* younger brother *Nilakantha* was married to *Shripati Mishra* who was the daughter's son of *Shikhe Mishra*, This *Shikhe Mishra* was twice married, both times to the daughter of *Mm Maharaja Mahesha Thakur*. His first wife, *Helana*, was the first child of her fathe and after her death, *Shikha Mishra* married again the daughter of the same *Maharaja. Manika*, by name, who was a child of his old age. Supposing she was born in 1560 when the Maharaja was fifty years of age, the birth of a son to her daughter can safely be assigned to the year 1610 or thereabout, specially as this daughter was her sixth child. *Nilakantha's* daughter was the second wife of this *Shripati* and supposing *Nilakantha* to have been born in or about 1600, the marriage of his second daughter could well have taken place, say, in the year 1650 when *Shripati* was forty years of age. Anyway,this proves *Niakantha* to have been two generations later than *Mm. Mahesha Thakur* and thus the period of 1595—1600 assigned to the birth of *Mm. Harihara* and *Nilakantha* is not unreasonable.
 
  From a consideration of other synchronisms also described above, the same conclusion can be deduced and I think it futile to pursue them all. Assuming, therefore, that *Harihara* was born during the last decade of the 16th century and that he lived up to an age of. say, sixty-sixty-five, we come to the conclusion that he died sometime during the years 1655—1660 and this is exactly the conclusion to which the evidence of the two palm-leaf Mss. of this *Shubhashita* leads us. It can, therefore, be taken as aImost settled that Mm. *Harihara* flourished in the first-half of the 17th century.
 
-
-
  In view of what has been discussed above, it is very much to be regretted how scholars have erred about the age of *Harihara*. In his History of *Sanskrit Drama*, *A. B. Keith* assigns the composition of *Bhartriharinirveda* to the end of the 15th century when even *Raghava*, *Harihara's* father,was not born. As he does not give any evidence on the strength of which he came to this conclusion, nothing can be said about it except that it is inaccurate. *Mm. Mukunda Jha Baksi* in the introduction to his edition of the same *Nataka* places him in about 1650 *Saka* year i.e. the first half of the eighteenth century and relies tor this on tradition that *Harihara* was a contemporary of the great *Mm. Gokulanatha Upadhyaya* with whose cousin, *Madana Upadhyaya, Harihara* had a discussion about which even a verse is quoted. Both *Kavishekhara Badarinatha Jha* in his paper published in the *Mithilanka* of the *Mithila-Mihira* of Darbhanga and *Mm. Dr. Umesha Mishra* in the introduction to his edition of the *Vidyakarasahaskaram* rely perhaps on the same tradition and assign him to the 18th century. In view of the fact, however, that the Mss. of this *Subhashita* are available which were copied in the third quarter of the 17th century, the tradition making him a contemporary of Gokulanatha who was a contemporary of Maharaja Raghava Singha of Mithila and *Raja Fateh Shah* of *Garhawala* must be pronounced inaccurate and may be explained as referring to some other *Harihara* of which name there have been so many scholars in *Mithila*.
 
  About the personal history of *Mm. Harihara* not much is known that is authentic. That he was a resident of the village of *Bittho* is quite certain. In all the *Panjis* he is styled a *Mahamahopadhyaua* bay which term is meant,according to the definition given in the *Panjis* themselves, a scholar who was a master of all the schools of philosophy as distinguished from a mere *Naiyayika* who is called in te *Panjis* a *Mahopadhyaya* or a *Mimamsaka* who is termeda*Mishra*. But we do not know for certain who the *Guru* of Mm. *Harihara* was. We know, however, that he was the son by the second wife of his father, who married her in his old age and most probably died while *Harihara* and his brother
-
-
 
 were still very young. It is quite reasonable, therefore, to suppose that both the brothers were entrusted to the loving care of their maternal grand-father who was a scholar of great renown, a *Mahamahopadhyaya*, to whom *Harihara* makes feeling references. Very possibly, therefore, it was under him that both of them turned out to be great scholars, the elder one specialising in Philosophy and the younger in Astrology, but both of them imbibing the poetical talents of their grand-father for which *Harihara* praises him in preference even to his philosophical attainments.
 
@@ -299,21 +229,15 @@ were still very young. It is quite reasonable, therefore, to suppose that both t
 
  There is, however, one thing about the scholarly attainment of our author which is worthy of note. In this *Subhashita* there are many forms which contravene *Panini's* rules of grammar and, are therefore, irregular. Such for example are (i) the disregard of एकशेष in नायकनायिकयोः in XI-1 and समासान्तविधि in काननपथा in X-65; (ii) 'the use of आशीर्लिङ् in भूयात् in XI-76 and of शतृwith the root ईक्ष्in XII-22; and (iii) the forms कुलीनस्त्रियः for कुलीनस्त्रियाः in X-54, कृन्तन for कर्त्तन in XII-49, आस for आसीत् or बभूव in XI-65, and प्रोष्यत्पतिका for प्रवत्स्यत्पतिका in the 10th chapter, though the last form has been so used even by *Kaviraja Mahamahopadhyaya Bhanudutta* in his famous *Rasamanjari*. One is, therefore, irresistibly drawn to the conclusion that *Mm. Harihara* was not a grammarian but that he was a philosopher by learning and poet by instinct.
 
-
-
 **HIS WORKS**
 
  Besides the *Subhashita* there is only one work that can be said without any shadow of doubt to have been his composition and that is the *Prabhavatiparinayanataka* which is still unpublished and a Ms. of which (No. 2395) has been described by *R. L. Mitra* on page 159 of the 7th volume of his Notices and also by *Dr. K. P. Jayasval* on page 88 of the 2nd Volume of the Descriptive catalogue of Mss. in Mithila, though without the verses of the prologue. This contains in the prologue (reproduced by *R. L. Mitra*) the very two verses that are the closing verses of this *Subhashita* with only this difference that in the drama the 3rd line of the second verse begins with *"Govind-Sunu"* which indicates that the drama deals with the life of *Pradyumna*the son of *Krishna*. There is still another drama, attributed to him. *Bhartriharınirveda*, which has been twice printed, first from *Bombay* and then with a Sanskrit commentary and Hindi translation from Banaras and is very famous. But there is no indication in this work to prove conclusively that it is by the same *Harihara* who was the son of *Raghava*. Tradition, however, avers this to have been the work of the author of the *Subhashita* and is supported by the fact that we have in the Darbhanga Raj Library a palm-leaf Manuscript of this drama along with that of the *Subhashita* written by the same scribe on leaves of the same size which go unmistakably to show that both of them were transcribed together. It can, therefore, be taken for granted that this also is from his pen.
 
  *Mm. Mukand Jha Bakshi*, in the introduction to his edition of the *Bhartriharinirveda*, states that there is also a smriti work of his called *Dvaitanirnaya*. *Aufrecht* also notes a *Harihara* on *Dharma*, who, he says, is quoted by *Vachaspati Mishra* in his *Dvaitanirnaya* and by *Kamalakara* in *Nirnayasindhu*. It is quite possible that that work on Dharma from which both *Vachaspati* and *Kamalakara* quote, was a *Dvaitanirnaya* as stated by *Mm. Mukund Jha*. But the very fact of his being quoted by *Vachaspati*
 
-
-
 rules it out that he was the son of *Raghava Jha* because we have already seen that the daughter's daughter of *Raghava* was married to the son of the grand-daughter of *Vachaspati*, who, therefore, must have been older than even *Raghava Jha*, *Harihara's* father by more than one generation. As stated repeatedly, there have been so many scholars of this name even in *Mithila*. There is actually one *Harihara* said to have been the *Dharmadhyaksha* (Chiet Judge) at least 200 years before *Vachaspati*. There are other *Hariharas* also, many of them styled *Mahamahopadhyaya* and most of them preceded the great *Vachaspati*. *Harihara*, on *Dharma*, must have been, therefore, an earlier *Harihara*. The statement of *Kavishekhara Badartnatha Jha*, likewise, that Harthara wrote a commentary called *Muktavali* on a work of *Devanatha Thakur* is clearly by mistake as the verses he quotes are just the closing verses of this very *Subhashita*, which, I have already stated, wasdesigned by the author to have been called "*Suktimuktavali*". As regards the different works noted under *Harihara* by *Aufrecht* or verses quoted under this name in the different *Subhashita* works, nothing can be said definitely. Some of them may have been the composition of our author but unless there is something to prove conclusively that they are by the same *Harihara*, who was the son of *Raghava*, We must not take them to be his and must be content with what is conclusively proved to have been his composition.
 
  There are thus only three works—all *Kavyas—*on which the fame of our author rests and rests securely. Extolling the virtues of *Kavya* in the second chapter of this *Subhashita*, *Harihara* states that "a hundred different branchesof learning may all be very charming but the fame resting on *Kavya*stands unimpeded". No work of *Rameshvara* has unfortunately survived for us to judge what kind of*Kavya* he composed or how unimpeded fame he achieved for that *Kavya* that *Harihara* cites as an example of his statement. But what he says about *Rameshvara*, whom,by the way, I identify with his maternal grand-father, has been proved in his own case. The distinguished title of *Mahamahopadhyaya* leads us to believe that he was
-
-
 
 indeed a "*Nipita-Darshana-Grama*"—"had drunk deep at the fountains of the different branches of Philosophy", but it is as a poet *par* excellence that he is remembered. The fame resting on his *Kavyas* is literally unimpeded andthere is no doubt whatsoever that he will live downto posterity only as a great poet.
 
@@ -321,15 +245,11 @@ indeed a "*Nipita-Darshana-Grama*"—"had drunk deep at the fountains of the dif
 
  Whether we call the present work as the *Suktimuktavali*, by which name the author designates it in the closing verse, or simply as the *Subhashita* as it has been more commonly known and called in the colophon at the end of each chapter, it has to be admitted that the author designed it to be what is called in *Sanskrita* Literature a *Subhashita* work. A *Sukti,Sadukti or Subhashita* literally means "a good saying" but in Sanskrit Literature it is used in a special sense. A *Subhashita* in Sanskrit Literature, is a single verse, I should rather say, a single stanza, descriptive or didactic but complete in itself, expressing a single idea. devotional, ethical or erotic, in a witty or epigrammatic way. It is, thus, of the *Muktaka* type of poetry. Among Sanskrit scholars; *Subhashitas* have been very popular and that for two reasons. Free from all the restraints of a formal *Kavya* for which a sustained effort is necessary to maintain its high level,a *Subhashita* can be composed at any moment immediately an idea strikes the mind; and secondly, it can be easily remembered and can be cited equally easily with great effect on any appropriate occasion. Thus, there has hardly been a Sanskrit scholar with any taste and aptitude for poetry who has not composed a few of these Subhashitas. But the greatest misfortune with these Subhashitas has been that they were not put down in black and white by the authors themselves, but have all been transmitted from mouth to mouth. Efforts have been made by scholars from very early times to gather into anthologies as many of these floating verses as they knew or could collect. There is quite a good number, ofthese anthologies, most of them in print also. Still it must be conceded that what these anthologies, preserve cannot be more than a mere fraction of what must have been
 
-
-
 composed all over India. Nevertheless, they do preserve quite a large number, which too would have otherwise perished and thus keep the names of all those authors alive, whose only known works are these verses. These constitute the *Subhashita* literature.
 
  When we look into the many *Subhashita* anthologies we find that there are certain broad features characterising this type of literature. A *Subhashita* work is a collection of verses by different authors. There are the *Gatha* and *Arya Saptashatis*, the various *Shatakas*, the *Bhamini-Vilasa* and many other collections of *Muktaka* poetry from which verses are very often quoted in the different *Subhashita* works, but none of these works itself is called a *Subhashita* simply because they are all by one and the same poet. Secondly, the verses in a *Subhashita* work are never of one and the same Rasa and though any of the Rasas may preponderate in the collection,there must be verses of the other Rasas also to entitle the collection to be called a Subhashita. We have, for instance, the Padyavali of Rupa Gosvami which contains verses,like a true *Subhashita*, or different authors but it is not called a *Subhashita* because all the verses in this collection are devotional and no other *Rasa* is represented in it. Thirdly, and this follows naturally from what has been described above, a *Subhashita* work has no unity of stucture underlying it, the chapters or verses have no connection among them and the parts are not related to the whole as in a sequence. The only plan on which it is based is to collect verses on a single subject together under one head, and these heads are not knit together, howsoever loosely, nor have verses even under the same head any link connecting them.
 
  Viewed in this light, the present work appears to be unique in its kind. Though the verses here are of all the different Rasas, on different subjects, devotional, ethical and erotic, yet they are all by one and the same author,*Harihara* himself. They are arranged under different chapters which like a true *Subhashita* do not appear on first sight to have any link connecting them but on a closer
-
-
 
 analysis it becomes evident that there is an inherent unity underlying the whole work which is not a mere collection of *Subhashita* verses composed at random without any connection among them, but has a definite purpose behind the whole plan. In order to make the plan with the purpose behind it clear, let me give a brief analysis of the contents.
 
@@ -340,8 +260,6 @@ analysis it becomes evident that there is an inherent unity underlying the whole
  The third chapter is called "*The Friendly Advice*" and is addressed to the young student. It praises learning and discipline,characterises the evil men whose company the stripling youth is advised to avoid and the good men whose society he is encouraged to cultivate; and is full of such other wholesome precepts as may conduce to make his career successful and life happy.
 
  It is, however, the fourth chapter that reveals at once the central theme of the work and is called "*Living away from home*". It opens with the statement that wealth alone makes the life of a person successful here on earth and praises, therefore, riches and deprecates poverty. But to be truly enjoyable that wealth, says *Harihara*, must be earned by one's own efforts which must be in true keeping with the dignity of the caste to which he belongs. The only dignifled way in which a *Brahmana* can get riches is to receive them in gifts, and, therefore, he must make efforts to find out a liberal patron and please him. With this end
-
-
 
 in view he should leave home and move about in foreign fands. Travelling, then, is praised and its risks and pleasures are described. The rest of the chapter contains practical hints to guide him at every step from his leaving home tilthe is presented to a king by some one among his favourite courtiers whom he must please before he makes an attempt to approach the king.
 
@@ -355,8 +273,6 @@ in view he should leave home and move about in foreign fands. Travelling, then, 
 
  The ninth chapter is devoted wholly to *Erotics*. It opens with the statement that the rich have a natural pre-direction for erotics and therefore, in the court of the king such verses should be recited. Theyfollow erotic verses in different metres,
 
-
-
  The tenth chapter is in continuation of the ninth and describes the various types of *Nayakas* and Nayikas so very important in Sanskrit erotics and also rhetorics.
 
  The eleventh chapter, called "*Miscellaneous*", contains all sorts of verses in different metres on subject devotional, moral or erotic on the true *Subhashita* pattern. These verses are introduced for being recited in the court of the king with a view to win the good will of the courtiers.
@@ -364,8 +280,6 @@ in view he should leave home and move about in foreign fands. Travelling, then, 
  The twelfth chapter, which is the last, reverts to the central theme and guides the *Pandita* back to his home with whatever gifts he should have received. If he is not satisfied with one king, he is advised to seek the patronage of another; if his ambition is not fulfilled in one trip, he is counselled to undertake another; but staying out tor long at one time is not recommended. Then follows a long discourse on the right use of riches to show how best to utilise the wealth thus earned. After a few more hints about the way in which the rest of his life should be spent, the chapter concludes with the exaltation of the contemplative life leading to self-realisation through the practiceof mental equipoise (so very eloquently propounded in the *Bhagavadgita*) after which he is advised to strive. This is the highest truth, says *Harihara*, and after this t..c chapter has been named.
 
  Even from this brief analysis it must be evident that though cast in the form of a *Subhashita*, this work has been planned as a complete whole with a definite purpose namely, to serve as a practical guide to the Brahmana*Pandita*. For every period of his life from infancy up to his old age, there has been chalked out the right course of conduct which evidently was sanctioned by usage; for every stage of his life, a set of instructions has been offered which have obviously for their basis the experience of the successive generations of *Panditas*. The greater portion of the book, however, deals with the journeyings of the Pandita in search of a liberal patron and the various ways of pleasing him. From the moment the *Pandita* leaves his
-
-
 
 home till he returns to it, there is practically no step for which *Harihara* has no guidance to offer. There can hardly be an occasion in his journeys abroad or during his sojourn at the court of a king for which Harihara has not given his advice for regulating his behaviour. So detailed, indeed. are these instructions that one feels that the main purpose of compiling this work was to provide a hand-book of practical guidance for the benefit of such adventurous and ambitious *Panditas*. We can very aptly characterise this book as the *Itinerant Pandita's Vade Mecum*.
 
@@ -375,15 +289,11 @@ home till he returns to it, there is practically no step for which *Harihara* ha
 
  It is well-known that *Mithila* was the last Hindu kingdom in the whole of *Aryavarta* to fall a prey to the devastating inroads of the *Mohammadon* conquerors. For more than a century after the whole of northern India had passed into the hands of the *Mohammadon* rulers, she was secure under the *Karnata Kshatriyas* who had been ruling here since the close of the eleventh century and was, thus, free from the desecration and sacrilege of a *Mohammadon* invasion. Even after the sack of *Sakuri*, the then capital of *Mithila* by the army of Ghyasuddin Tughalak and flight of *Maharaja Harisimhadeva* northward towards the *Nepal* hills. Mithila was but temporarily under Mohammadon rule. The leaders of *Maithila* Society headed by Bhogishvara Thakura, the eldest son of *Siddha Kameshvara Thakura*,
 
-
-
 who was the *Purohita* of the *Karnata Kshatriyas* managed to approach Emperor *Ferozeshah Tughalak*, who was immensely pleased with them and, in the words of *Vidyapati Thakura* recorded in his historical poem. *Kirtilata*, honourea them by calling their leader, *Bhogisha Raya* his friend,whom he placed on the throne of *Mithila* as an ally. After the downfall of the *Kshatriya* rule, *Mithila* thus passed into the hands of the native *Brahmanas*.
 
  Already under the *Karnata Kshatriyas, Mithila* was surging with a great intellectual fervour. Secure in the peace and prosperity under the protection and patronage of the benign *Karnatas, Mithila* produced some of the greatest celebrities in the annals of Indian scholarship whose contributions to Hindu Philosophy and Hindu Jurisprudence have not only made them immortal for all times but have at the same time shed a lustre on the fair name of *Mithila*. Such, for instance, were *Udayana*, *Gangesha*, *Varddhamana Lakhmidhara and Chandeshvara*, among many others. They were all the products of the *Karnata* period of Mithila's history.
 
  But early in the 14th century it became apparent to the leaders of *Maithila* society that they could not put off a Mohammadon conquest of the land for long. They saw that with the *Mohammadons* all around as the ruling race, it was impossible to escape from constant contact with them. In order, therefore, to keep unsullied their ancient culture, maintain untarnished the pristine purity of their race and above all, to keep undiminished the brilliant glow of their intellectual luminosity, they put their heads together to think out a plan how best to ward off the evil, looming large before them. They decided, therefore,to put their own house in order, and with that end in view, to re-organise the society thoroughly and radically on such firm foundations that no contact with the Mohammadons. not even their conquest of the land. might influence their course of life, and materially affect their society and religion. This was the social organisation, named after *Maharaja Harisimhadeva*, the crowning act of which was
-
-
 
 the *Panji-prabandha,* which was finally promulgated in the year 1248 of the *Sake* Era.
 
@@ -391,13 +301,9 @@ the *Panji-prabandha,* which was finally promulgated in the year 1248 of the *Sa
 
  It has already been stated that under this new measure of social re-organisation the same importance was given to the cultivation of learning as to purity of lineage and piety of behaviour for a position in society. One's birth,however, is never in one's control and piety of behaviour is too personal a matter to admit of an effective test. The most practical plank,therefore, on the new platform was the cultivation of learning which is evidently in one's own hand and which can very well be judged by the society at large. *Mithila*. moreover, had been since times immemoriala land dedicated to learning. The tradition of glorious scholarship was still unbroken. To this a strong impetus was given by this new measure. With society so well organised and political freedom conferred by the Emperor of Delhi which was later on supported by the *Shurky Nawabs* of *Jaunpur*, who became, on the weakening of the imperial power of Delhi, the paramount rulers of the regions to the
 
-
-
 east of the Imperial city, *Mithila* under her native *Brahmana* rulers embarked upon an age of unbroken peace and plenty that led to intense intellectual activity which was the distinctive characteristic of the new regime. Never was *Mithila* barren of intellectual luminaries, and cultivation oflearning was never neglected here but under the new regime it began to be cultivated with unprecedented zeal and devotion. In fact, it came to be regarded as the only honourable profession for a *Brahmana* to pursue if he had to retain his position in society, to neglect which would entail a loss of social status, but to excel in which would raise him and his family in the estimation of society. No wonder, therefore, that on an invitation issued by *Maharaja Bhairava Simha Harinarayana* during the latter part of the 15th century there was an assemblage of *Panditas* from att over *Mithila* among whom there were as many as 1,400 Mimamsakas only, and a little earlier, the great *Shankara Mishra* in his mature work. *Upaskara*, on the *Vaishesika Sutras*, claims more than a thousand pupils for himselfalone. Truly has the late *Dr. K. P. Jayaswal* said that "in the 15th century *Mithila* under the *Shrotriya Brahmans* became the centre of Sanskrit learning in the East of India," and that "in the 16th century *Mithila* emerges as the acknowledged head both secular and religious of all the regions to the north (east ?) of the river *Sarayu*" (Introduction to *Mithila* Mss. Volume I.pp. VIII) This was indeed the golden age of *Maithila Scholarship*!
 
  It is quite true that learning was then cultivated as a part of the *Brahmana's* duty and not as a means to an end as now. Nevertheless, it must be admitted that the question of livelihood must have been as keen then as now. How did all those *Panditas* maintain themselves? What was the means of their livelihood? It is interesting to note in this connection that there was one very important thing that had no place in the new social order and that was wealth. Not that there were no rich *Brahmanas* among the high class *Maithilas* even at that time, but wealth was considered of no consequence whatsoever in estimating the social status of a *Brahmana*. Birth, accomplishments and
-
-
 
 character were the only factors which decided that issue and if a *Brahmana* had them, he was given a high position in society even if he was poor, but without them he was relegated to an inferior place and no amount of riches could help him to attain the privileged position. *Brahmanas*, it is well-known, have at no time attached great importance to riches and under the new scheme of things also the same traditional dignity of contented poverty was brought to the forefront once again and emphasised with new zeal. The ideal of perfection among the *Maithila Brahmanas* under the new order, the perfect *Shrotriya* in the reorganised society, has been *Mm. Bhavanatha Mishra* of *Sarisaba*, who is reputed to have never accepted even a gift, much less asked for it, as a mark of respect for which he came to be knownas *Ayachi* by which name he is remembered with reverence by posterity.
 
@@ -405,13 +311,9 @@ character were the only factors which decided that issue and if a *Brahmana* had
 
  It is, thus, clear that possession of riches by itselfwas not banned by the society; much depended on the way.
 
-
-
 in which the riches were acquired. The Hindu *Shastras* have laid down in great detail the professions that each *Varna* ought to follow. For a *Brahmana* there are certain professsions that are prohibited out-right, while others are neither prohibited nor approved, and there are only a few which are openly recommended. Following faithfully these distinctions between one profession and another, the society adjudged the position of a *Maithila Brahmana* andonly those were given the high places who followed the approved professions. This was one of the chief criteria—indeed the most practical one—in deciding the piety of behaviour which was one of the three ingredients necessary for a privileged position in society under the new social organisation.
 
  We know that there are six,—only six,—professions,approved for a *Brahmana* and among them there are only three that can bring any riches, namely, teaching,officiating as a priest in a regular *Yojna,*and receiving them in gift. Teaching was the one profession that was most widely followed throughout *Mithila* but teaching for remuneration is strictly prohibited and was not practised any where in India, much less in *Mithila*, till very recently. Yajnas too had fallen into disuse during the period of Buddhist ascendancy and what little remained of it was appropriated mostly by *Vaidikas*, the Vedic scholars. *Paurolritya*, i.e. ordinary priesthood was remunerative,and though it was not considered as fully approved a profession as *Yajana* or officiating as a priest in a *Yajna*, it was followed very widely; but this also was technical in the sense that they alone could follow the profession of a *Parohita,*who had made a special study of the ritualistic literature and specialised in it. There was left, thus, only one way of acquiring riches which was approved by the *Shastras* for a *Brahmana* andthat was receiving them in gift. This too, has been, however, hedged with many conditions. One has to decide. before he accepts a gift if the maker of the gift is a proper person from whom the gift ought to be accepted, and this is why a puritan like *Ayachi* had made it a rule of his life not to accept any gift whatsoever. Nevertheless, it was an
-
-
 
 approved way of acquiring riches, and the only one which a *Brahmana* could follow conscientiously without violating the injunctions of the Shastras and suffering the opprobrium of society. Indeed, this Dana or gift became as popular in post-*Harisinghadeva* *Mithila* as Yajnas had been in pre-*Buddhist* India, and the numerous treatises written upon the subject bear testimony to the fact that this was the main source of income for all the *Brahmanas*, and the only means of acquiring riches for the more conscientious and orthodox among them.
 
@@ -419,17 +321,11 @@ approved way of acquiring riches, and the only one which a *Brahmana* could foll
 
  The *Shrotriya* rulers of *Mithila* were great patrons of scholars and so were the rich persons among the *Maithilas* themselves who could afford to be generous. But it was impossible for them to satisfy the ambition of all these *Panditas*. The more ambitious among them were, therefore, going out even earlierbut by the end of the 15th century when the *Oinabara* dynasty of the *Brahmana* rulers of*Mithila* began to decay, (which about the year 1530 finally fell before the onslaught of the Mohammadon Nawab ofBengal,)the *Panditas* of *Mithila* were deprived of their
 
-
-
 native patronage and all of them for whom material prosperity had any attraction, went out for adventure and undertook perilous journeys to distant lands on the look-out of a liberal patron. The reputation of the *Maithila* scholars had spread far and wide. In his comical drama, *Gauri-digambara Prahasana*, the great *Shankara Mishra* claims for his father. *Ayachi Bhavanatha*, a band of scholar pupils, who were spread all over *Aryavarta* from one sea to the other, trading, as he says, in the wares of knowledge. Brilliant and witty, of erudite learning and exemplary character, these *Panditas* were respected wherever they went, and though most of them came back home, laden with riches sufficient to last them through their lives, or grants of land which their descendants still enjoy, some of them settled down permanently in those far off regions. There are, thus, colonies of *Maithila Brahmanas* all over India, in Bengal and Assam,in the Central Provinces and *Rajputana,*in distant Kashmir also, not to mention the United Provinces and *Nepal*; and if a history of all these colonies is compiled, it will be found that each one of them was founded by some adventurous and ambitious *Pandita* who could please some prince and thus receive from him a lavish gift, perhaps the very Guru-ship of the royal family,content with which he gave up all idea of returning hotee and settled down there.
 
  It is beyond the scope of this introduction to describe even cursorily the exploits of all these *Panditas*. To do full justice to the subject, much patient and laborious research is required, which will-form a glorious chapter when a comprehensive history of *Mithila* is written. Let me give here a few typical instances just to illustrate what has been described above. There was the renowned *Govinda Thakur*, author of the famous *Kavyapradipa*, who had as his patron one *Bhavananda Raya*, whom some scholars identify with the founder of *Krishnanagar Raj* of *Bengal,*though I have grave doubts about it. Whoever he might have been, the descendants of the eldest son of this *Govinda Thakur* are settled in the district of *Dinajpur* in Bengal and are in a flourishing state. There was *Kaviraja Bhanu*-
 
-
-
 *datta*, author of *Rasamanjari*, etc., who was the great-grand-son of *Ayachi Bhavanatha* himself. He toured extensively in Central India attending the Courts of and eulogising *Raja Sangram Shah* of *Garha Mandla*, the *Baghela* prince *Virabhana* of *Bandogarh* the then capital of the state now known as *Rewa, King Nizam Shah of Ahmadnagar, King Krishnadeva Raya of Vijayanagar*, and lastly the famous *Sher Shah*. *Gangananda* called *Kavindra*, who was the son of the daughter of *Kaviraja Bhanudatta's* son, went as far as *Bikaner* and composed a work which he called *Karnabhushana* after the name of his patron king *Karna* of*Bikaner*. The renowned *Mm. Gokulanatha Upadhyaya*, with his brother *Mm. Jagannatha*, secured patronage of king *Fateha Shah* of *Garhwal*. Towards the end of the 18th century there was the famous *Bhavaninatha*, popularly known as *Sachala Mishra*, who went to distant Poona to the Court of the then *Peshwa*, *Madhava Rao Narayan*, from whom he received the grant of two villages in the district of Jubbulpore, still in possession of his descendants, and is reputed to have won along with this grant "the high honour of having his Palki carried by the *Peshwa* on his own shoulder, an honour which was reserved only for the very select *Panditas*, which was very rarely bestowed". But the most noteworthy of all is the instance of the founder of the present *Darbhanga Raj.* *Mm. Maharaja Mahesha Thakur.* His elder brother *Mm. Damodar Thakur* was the *Purohita* of king *Sangram Shah* of *Garha Mandła*and his descendants were settled for many generations in the city of *Mahishmati*, recorded by one of his descendants *Mm. Premanidhi* in his *Dharmadharmaprabodhini*. *Mm. Mahesha* was at first a courtier of *Rani Durganat,* the daughter-in-law of *Raja Sangram Shah*. From there he went to Delhi and secured the grant of the *Raj* of *Tirhut* from *Emperor Akbar*, who was pleased with his vast learning and scholarship and bestowed upon him, the *Raj* ruled for so long by learned *Brahmanas*. No other instance isavailable in the history of India, where learning has so signally been rewarded, where a *Pandita* has won by dint of his scholarship what others win by the prowess of then arms. It is, indeed, to the credit of the holy land of *Mithila*,
-
-
 
 where *Bhudevas* have been *Bhupalas* for more than 600 years to have shown to the world that cultivation of learning can bear fruits in peace as sweet and everlasting as any war can win with all its attending inhumanities.
 
@@ -437,15 +333,11 @@ where *Bhudevas* have been *Bhupalas* for more than 600 years to have shown to t
 
  In one respect, however, *Mm. Harihara* deviates from the high ideals of the *Maithila* society, and that is about the possession of riches. Himself a *Shrotriya*, *Mm. Harihara* writes this work from the point of view of persons who were born in families possessing कुल, शील, श्रुत and आचार (chapter II, verse 29), meaning in one word, *Shrotriyas*. Again and again, he stresses the importance of such a high birth. That the only means of acquiring riches for such a high-born-learned *Maithila Brahmana* was by receiving them in gift has been made clear in the tenth verse of the fourth chapter. But about the possession of riches, *Harihara* presents advanced views. He states categorically that riches alone make the life of a man successful here on earth. This gives an importance to riches which seems somewhat unusual for a society that idealised contented poverty and we can, therefore, say with some plausibility that what *Harihara* states
 
-
-
 here was not the general view of the society but his personal opinion or at best, the opinion of that section of society for whom he composed the work, namely, the ambitious and adventurous *Panditas* for whom, riches, indeed, constituteď a major, if not the major, success in life.
 
  But it must be conceded that the general view of the society also had undergone considerable change in this respect during the three centuries that had elapsed since it had been newly re-organised. As days passed, the fervour with which the high ideals set up before the society were cherished gradually waned. Materialism was ganing ground, and under its influence the puritanic indifference with which wealth was formerly looked upon was giving place to love of riches which is innate in man. To illustrate this liberal trend in the outlook of the society, I cannot do better than cite two well-known facts.
 
  In the middle of the 14th century when the sons of *Siddha Kameshvara Thakur* accepted the *Raj* of *Tirhut*, they gradually fell from grace in the eyes of the society and though their family was one of the highest among the *Maithilas*, every high born *Maithila*, thereafter, shunned matrimonial alliances with them till at last the *Oinabars*, so they were called, sank down deep in the social hierarchy. Towards the close of the 16th century, however, the same *Raj* of *Tirhut* was acquired by *Mm. Maharaja Mahesha Thakur*, who was a *Shrotriya* of the *Khandabala* family, but this family did not suffer any diminution in social status on account of the acceptance of the *Raj*. On the contrary these *Khandabalas* received an added lustre on account of the new acquisition, and every high family felt itself honoured by having a matrimonical alliance with them till by the end of the 18th century the leadership of the entire *Maithila* society was entrusted to the then *Mithilesha*, who has since then been dispensing social status on the entire community of *Maithila Brahmanas* as the Head of the Society, the highest among all Maithilas. Similarly, *Kaviraja Bhanudatta*, the great-grand-son of that ideal of perfection among all *Maithila Brahmanas*, the perfect *Shrotriya*,
-
-
 
 *Ayachi Bhavanatha*, it has already been stated, went from one court to another, eulogising the princes, Hindus and Mohammedens alike, seeking their patronage, and we know that he did not lose his status in society on that account but continued a *Shrotriya* that he was born. These two cases will suffice to indicate that riches were not looked upon with indifference during the age in which *Harihara* flourished and for which he composed this work; they were, rather, considered of great consequence even by the high born and learned Maithilas provided they were property got and it is this growing materialism that had come to stay in the *Maithila* Society, which has been reflected by *Mm. Harihara* so very faithfully in this work.
 
@@ -453,21 +345,15 @@ here was not the general view of the society but his personal opinion or at best
 
  Another fact of some historical importance with this *Subhashita* is the little details about the lives of certain distinguished *Maithilas* cited by *Mm. Harihara* as illustrations of some of his statements in the second and the last chapters. They must have been well-known during his time so as to serve as examples but to us, these are empty names and we cannot satisfactorily identify them. Still Ihave identified two of them, *Rameshvara* (H-22) with the author's maternal grand-father and *Vateshvara* (X11-24) with the maternal grand-father of *Ayachi Bhavanatha*, because these are famous names. There is, however, one name, *Mahadeva Thakur*, (XII-6) whom I identify with the eldest brother of *Mm. Maharaja Mahesha Thakur*. He was a *Mahamahopadhyaya* like his three younger brothers, and was popularly known as *Thegha Thakur*. Nothing, however, was known about him and the mystery has been solved by the statement of *Mm. Harshara* (XII-26) that he left home with the vow that he would return only with a lac of rupees but he did not return at all probably because his vow was never fulfilled. *Harinath* (XII-14) may likewise be the famous author of *Smritisara* but one cannot be sure about it as with other names. Nevertheless, petty though these detailsare and the names sometimes unidentified, they have an historical interest which may throw light on many a dark corner of *Mithila's* unexplored history.
 
-
-
 ***POETICAL EXCELLENCES.***
 
  The historical element in this *Subhashita* is not, however, of primary importance. It is altogether a new thing and an attempt has been made for the first time by me to read this into it. Quite independent of this historical interest, the work has been popular among lovers of Sanskrit poetry. Published more than half a century ago, it has passed through a second edition, and with all the imperfections of the published text, it has afforded pleasure to quite a large number of learned readers. But it is as a piece of poetical composition that this work has been received so long, and has been read with delight solely for its poetical excellences. These excellences are,however, manifest and have been recognised and appreciated by allthe connoisseurs of poetical art. I need not, therefore,dwell upon them at any great length, but shall content myself with indicating briefly, without going into details, some of those characteristic features of the poetry of this *Subhashita*, which appear to me to constitute its excellences.
 
  For a proper appreciation of the poetry of this *Subhashita* it is, however, profitable to note that there are two distinct kinds of poetry in this work, which will be apparent even from the brief analysis of the contents of the work given above. We know from the last verse of this *Subhashita* that this was composed by *Mm.* *Harihara* for the save of his younger brother and the whole work is, thus, addressed to him, and through him, to the wider circle of ambitious*Panditas*. Naturally, therefore, the poet assumes the rote of a confidential adviser of superior wisdom and knowledge, with more varied experiences of life, and as such, pours forth with great confidence his counsels of perfection in the most persuasive manner to the younger generation of *Panditas* just on the threshold of life. There are thus six chapters (excluding the opening one which is purely benedictory and has not, therefore, to do anything with the general plan of the work) where the poet speaks directly to his readers. Each one of these chapters has verses in a single metre, short and simple, *Anustubh* in two and *Arya* in
 
-
-
 four. The poetry of these chapters is natural, direct, perspicuous, and didactic. The other five chapters contain verses, in different metres, mostly long and involved ones, given as specimens of the kinds of verses that the *Panditas* should recite before the king on suitable occasions with a view to winning his favour. The poetry of these chapters is highly imaginative and ornate but ostentatious and therefore, artificial. This work is, thus, a delightful blend of both these types of poetry, belonging to two different planes and while the second displays the poetical carftsmanship of our poet, it is through the first that the originality of his poetical talents really shines forth.
 
  But the one quality, which runs throughout the entire work is the mellifluous rhythm of its verses. It is sweet melodiousness that characterises the poetry of this *Subhashita*. This is effected by the frequent use of apt alliterations and clever chimes which are so very charming to the ears. There is hardly a verse in this *Subhashita* which is devoid of this embellishment. In order to make this possible it is essential that the words used should be carefully selected so as to give not only the appropriate sense but the proper sound also, and naturally, therefore, in a work abounding so much with alliterations and chimes, the diction is apt to become uncommon, laboured and even obscure But so very dexterous is our poet and so complete is his mastery over Sanskrit vocabulary, that he manipulates all these alliterations and chimes without sacrificing the perspicuity and naturalness of his composition. There are words and forms in this *Subhashita* also which are not quite common and have apparently been selected for the sake of sound only, but they are few and far between, and our author never allows the effectivenessof the sense of the verses to suffer though he is sometimes led away by his partiality for the sound of the words. Even where no alliteration is intended our poet generally chooses words that are soft and sweet, but at the same time, clear and not quite uncommon. This sweetness of diction, therefore, is an outstanding merit of the poetry of this *Subhashita* and as this is achieved without any loss
-
-
 
 to lucidity, propriety, force, or suggestiveness of the sense, it becomes an artistic feature that imparts such an uncommon excellence to the poetry of this work.
 
@@ -475,13 +361,9 @@ to lucidity, propriety, force, or suggestiveness of the sense, it becomes an art
 
  The other kind of poetry of this *Subhashita*, which Ichoose to call "*Courtly*" is by its very nature gaudy and ostentatious. We have already seen that these verses are introduced hereto serve as specimens of the kinds of verses that a *Pandita* should recite in the court of a king, which must display, therefore, the learning and skill of
 
-
-
 the *Pandita* so as to impress the king with his attainments and abilities. Designed, therefore, as models of perfection for the younger *Panditas* to copy and emulate, these verses make a great display of the erudite learning and poetical craftsmanship of our author and are, at the same time, wonderfully faultless and excellent according to all canons of Sanskrit poetics. But the topics of these verses are just a few. Eulogy of a king, or the description of the seasons and the time, erotic verses of different aspects, and the description of the *Nayikas* in particular, are subjects well-known in Sanskrit literature; they are almost stereotyped and the literature upon them is vast indeed. It is, therefore. too much to expect that *Harihara* would say something new or original about them. They show, on the otherhand, quite unmistakably the influence of older literature on the subject, and to name only one, the influence of *Rasaparijata* of *Kaviraja Bhanudatta* is seen clearly over this *Subhashita*. while the whole of its tenth chapter is greally indebeted to and largely modelled upon the famous *Rasamanjari* of the same *Kaviraja*. But even when the ideas or imageries are the same as developed by older poets, the manner in which he presents them, and the language in which he puts them,are all his own, and, therefore, though he has to say very little that is absolutely new, the way in which he says those things is novel, indeed. In one respect, he is, however,quite original. No other poet has played upon the names of the different signs of the Zodiac in the same way as *Harihara* has done in his description of the six seasons.
 
  But what it lacks in originality has been much more than recompensed by the boldness of conception, flights of imagination, richness and perfection of, embellishments, appositeness of style and diction, and the variety of metres, with the result that the production is a brilliant work of art, sweet and charming, skilfully executed and lavishly decorated, a new work altogether though on old subjects. Just for these reasons, this portion lacks in that freshness and spontaneity which characterise the didactic portion of it, and there is a tinge of artificiality discernible throughout, though the verses in smaller
-
-
 
 metres even in this portion have much of that naturalness and grace which we miss so sadly in others. In points of polish and elegance, in what is called finish, the work is, however, uniformly splendid, and with so few blemishes and so many excellences, this work is, indeed, rare even in the vast field of Sanskrit literature.
 
@@ -490,8 +372,6 @@ metres even in this portion have much of that naturalness and grace which we mis
  Such is this exquisite work, small though unique, which I place before the lovers of Sanskrit language and literature in the hope that published in its complete form from some of the oldest and most reliable Mss. the text of this edition will be found much more perfect and genuine and will, therefore, be read with better appreciation and greater delight. Long and detailed, indeed, has this introduction been, but if it is found to have fixed with any precision the identity and age of our authors, and rendered any help in the better understanding of the work by throwing fresh light, however feeble, on the condition of the society for which the work was composed, and ideals. of the age which have been enshrined for ever herein, I shall deem my labour amply repaid.
 
  In the end I must offer my thanks to *Mm. Dr. Umesha Mishra,* whose statement, as stated at the very outset, led me to undertake this work. But if this undertaking has been successful, that success is due to the constant advice and helpful suggestions of *Kavishekhara Pandita Badarinatha Jha*, lately of the Dharmasamaja Sanskrit College of.
-
-
 
 Muzaffarpur and his worthy disciple, *Pandita Surendra Jha Suman*, the Editor of the *Mithilamihira* of *Darbhanga*. But for their cordial assistance and encouragement, this would never have been what it is.
 
@@ -510,14 +390,10 @@ Raj Library.
 
  Since going to the Press I have come across another Manuscript of this work in the possession of *Mahavaiyakarana Pandita Shri Dinabandhu Jha* of *Sarisaba Mahavidyalaga*. This is a paper manuscript, excellently written but incomplete both in the beginning and at the end. It opens on the 16th folio with the middle of the second verse of the 4th chapter and ends on the 68th with 34th of the last chapter. It is, however, written fairly correctly and except for the mistakes in putting the *Visargas* properly and the right use of ण it is without doubt as useful as the fragment of the Ms. ग. It is very important to note
 
-
-
 that this manuscript contains all the verses that are found in Mss. मा and रा, even the 50th verse of the 9th chapter, except only one, the 30th verse of the last chapter. I have noted down the readings of this manuscript also under the sign दा and it will be seen how very useful the find of this Ms. has been to decide the most suitable readings of the text. I only regret that the manuscript is incomplete so that it could not help me throughout the whole work, and it cannot be gathered who wrote this and when.
 
 **4-12-48.  **                           
            **RAMANATHA JHA**
-
-
 
 **सूक्तिमुक्तावली**
 
@@ -557,8 +433,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^1]: "श (प
 
 [^2]: "धृग् (का
-
-
 
 **स पायात्पार्वतीपाणिः फणिकङ्कणिना धृतः।  
 सात्त्विकेषु विकारेषु त्रासो यत्रास[^3] निह्नवः॥९॥**
@@ -605,8 +479,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 उपास्य पादावभजद् गङ्गासङ्गमयोग्यताम्॥२०॥**
 
 [^7]: "र्ज्जि(प
-
-
 
 **बुद्धमुद्बुद्धकारुण्यरसावासमुपास्महे।  
 अहिंसा दीर्घसंसारदारिणी येन दर्शिता॥२१॥**
@@ -659,8 +531,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^14]: "मूर्ति (का
 
 **इति श्री हरिहरसुभाषिते मङ्गलप्रकरणम्॥१॥ **
-
-
 
 **बालविनयप्रकरणम्॥२॥**
 
@@ -722,8 +592,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^25]: "क (का०प०
 
-
-
 **जडानामपि चैतन्यम्भवभूतेरभूद् गिरा।  
 ग्रावाऽप्यरोदीत् पार्वत्या हसतः स्म स्तनावपि॥१३॥ **
 
@@ -772,8 +640,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 **तत्पिवन्त्वमृतं देवाः काव्यमेवामृतम्भुवि।  
 यत्सम्बन्धेन जीवन्ति भोजराजादयो मृताः॥२४॥**
 
-
-
 **को[^32].") नायुद्ध्यन्न कः प्रादान्नृपोऽनादावनेहसि।  
 अनाराध्य कविं कस्य चिरं क्रीडन्ति कीर्त्तयः॥२५॥ **
 
@@ -815,8 +681,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 **बालैः परिहृतं वेश्म न श्मशानाद्विशिष्यते।  
 यत्रस्था देहिनो नित्यं दह्यन्ते गतचेतसः॥३६॥ **
-
-
 
 **न चन्द्रश्चन्द्रमाः पुत्रं चन्द्रमाहुर्म्मनीषिणः।  
 दृष्टे स्पृष्टे श्रुते चोक्ते घ्राते यत्रेन्द्रियोत्सवः॥३७॥ **
@@ -864,8 +728,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 **शिशोर्दुश्शिक्षणीयत्वात्सोपेक्षो न क्षणं भवेत्।  
 विपुलाय फलायालं कष्टकृष्टा वसुन्धरा॥४८॥**
 
-
-
 **व्याहारेण विहारेण सदसत्सङ्गमेन च।  
 पुरः पुत्रं परीक्षेत चिरभाविनि पौरुषे॥४९॥ **
 
@@ -905,8 +767,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^46]: "महीयन्ते(प
 
 **इति श्री हरिहरसुभाषिते बालविनयप्रकरणम्॥२॥ **
-
-
 
 **सुहृदुपदेशप्रकरणम्॥३॥**
 
@@ -959,8 +819,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 **अपि निपुणतरमधीतं दुर्व्विनयारूढचेतसः पुंसः।  
 मणिरिव फणिफणवर्ती प्रभवति शोकाय लोकानाम्॥११॥**
 
-
-
 **विगुणा बहवोऽपि गुणा विना विनीतेन चेतसा पुंसः।  
 निशितैरलं, शरशतैरनुपेतपतञ्जिके धनुषि॥१२॥ **
 
@@ -1004,8 +862,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^57]: "रः (मा०रा०
 
 [^58]: "बहूञ्जनानेकः(का
-
-
 
 **परहितहेतोर्व्विहिताः सुहृदः स्वहिताहितान्यजानन्तः।  
 उपविन्यस्तपदानपि नौका इव तारयन्ति परान्॥२४।॥ **
@@ -1056,8 +912,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 द्विगुणितहेतुः स कथं तवापवादान्निवारयतु वाचम्॥३३॥**
 
 [^68]: "सुखमुख(का
-
-
 
 **परिहर चापलमुच्चैरुच्चैःपदसंस्थितिस्थिरे[^69] मनसि।  
 चिरमेधते न चपलश्चपलैव निदर्शनन्तत्र॥३४॥ **
@@ -1121,8 +975,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 **इति श्री हरिहरसुभाषिते सुहृदुपदेशप्रकरणम्॥३॥**
 
-
-
 **प्रवासप्रकरणम्॥४॥**
 
 **धनमेव धरणिवलये कलयति सफलायुषं पुरुषम्।  
@@ -1170,8 +1022,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 **शयनाशनादिविधुरो भवति विदेशेषु चङ्क्रमक्लेशः।  
 निर्द्धनभवननिवासप्रयासखेदस्य षोडशो भागः॥१२॥ **
-
-
 
 **किं जीवति य[^86]")श्छायामुपजीवति बन्धुवर्गस्य।  
 तरुविटपप्रच्छन्ने प्रक्षिप तात[^87]") ! क्षुपे नयनम्॥१३॥**
@@ -1231,8 +1081,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^96]: "विदेश (प
 
-
-
 **प्रबसन्त्वनलसमनसः परानुरागोन्मुखाः पुरुषाः।  
 अलमलसैर्ज्जनविरसं[^97].")श्चिरमपि परदेशदर्शिभिः पशुभिः॥२५॥ **
 
@@ -1282,8 +1130,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 **तत्तत्पथपथिकक्रमसमुचितसञ्चारवासविश्रामः।  
 पथि सञ्चरेदवहितः परिचयरहितेषु येषु तेष्वेव॥३६॥**
-
-
 
 **नापरिशीलितशीले सद्मन्यपि विश्वसन्ति विद्वांसः।  
 परदेशेषु कराले कलिकाले कस्य विश्वासः॥३७॥**
@@ -1337,8 +1183,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^111]: "चिन्तितो (प०
 
-
-
 **सुललितफ[^112]")लादिवलिताञ्जलिरुपयातो नृपासनसमीपम्।  
 विनयगुणावनतवपुर्विकासिमुखमाशिषं ब्रूते॥४९॥**
 
@@ -1377,8 +1221,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 अमरेश्वर इव समरे स्मर इव शोभासु भूपालः॥५७॥**
 
 **इति श्री हरिहरसुभाषिते प्रवासप्रकरणम्॥४॥**
-
-
 
 **राजप्रशस्तिप्रकरणम्॥५॥ **
 
@@ -1434,8 +1276,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^128]: "लग्नं (का
 
-
-
 **चैत्रीचन्द्राभचन्द्रातपतलचकि[^129]")तोच्चित्तचञ्चच्चमूरु-  
 प्रोदञ्चल्लोचनानां चतुरकरचलच्चामरोच्चारिचेलः।  
 न्यञ्चच्चामीकरार्च्चारुचिरु[^130]")चिरमुखस्त्वं चिरं चारुकीर्ते-  
@@ -1483,8 +1323,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^137]: "रथ्य(का
 
 [^138]: "लः(दी
-
-
 
 **यैर्युष्मत्करवालकालदशनोत्कृत्तैरिहैकक्षणे  
 कीर्णा भूमिरियं भयङ्करतरैरेतैरुपेतैर्द्दिवम्।  
@@ -1545,8 +1383,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^152]: "ता (मा० दी
 
-
-
 **वीर ! त्वद्वैरिदारा गहनगिरिम[^153]")हागह्वरान्तस्तमिस्रं[^154]")  
 त्वत्त्रासाद्‌गुप्तवासा दर[^155]")कलितहृदो यद्यदेव प्रपन्नाः।  
 तत्तज्ज्योत्स्नायमानं धरणिपरिवृढ ! प्रेक्ष्य युष्मद्यशोभिः  
@@ -1599,8 +1435,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^165]: "का omits this verse. हान् (प
 
 [^166]: "कृ (प० दी
-
-
 
 **उर्व्वीङ्गुर्व्वीतिमुर्व्वी[^167]धर लघ[^168]यशरैर्व्वैरिधै[^169]र्व्वीर्य्यगुर्व्वी  
 स्वर्व्वीथीर्व्वीतदर्व्वीकरनिकरमदैर्व्वी*ति*[^123]")गुर्व्वी।  
@@ -1672,8 +1506,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^188]: "रियं स्फुरत्सुरपुट (का
 
 [^189]: "रं (मा० रा०
-
-
 
 **इन्द्रो निन्दति वाहमाह दिनकृत्त्वर्च्या[^190]") चमेवाचर्च्चत[^191]")-  
 श्चञ्चू[^192]")र्त्यञ्चति किं न पन्नगरिपोरन्तस्त्रपोद्रेकतः।  
@@ -1755,8 +1587,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^216]: "ङ्कि (माराप
 
-
-
 **आःशक्तिःशक्तिनाथ त्वदुरुवल[^217]")दसिव्यक्तिसंसक्तिरिक्तां  
 निर्य्यूक्तिर्व्वक्ति सूक्तिव्यतिकरवशतो भुक्तिमुक्तिप्रसक्तिम्।  
 यद्भक्तिर्वक्ति स[^218] (बी)")क्तिंपरनृपतिपरित्यक्तिरस्य व्यनक्ति  
@@ -1815,8 +1645,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^230]: "तो (दी
 
-
-
 **त्वद्वाणेषु यमो जयेषु नियमो याने स्थिरं चासनं  
 श्रान्तौ श्वासविनिग्रहो गुणगणे प्रत्याहृतिः श्रीमतः।  
 ध्यानं शूलिनि धारणा च धरणौधर्मे समाधिर्यत-  
@@ -1847,8 +1675,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^237]: "सूर्य्या(का
 
 **इति श्री हरिहरसुभाषिते राजप्रशस्तिप्रकरणम्॥५॥**
-
-
 
 **राजोपासनप्रकरणम्॥६॥ **
 
@@ -1899,8 +1725,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 जयभूमिचक्रशक्र ! स्वस्तीत्याद्या[^246].")शिवः पुरो वाच्याः॥१०॥**
 
 [^246]: "स्वस्तीत्याशीःपुरो वाच्या (प
-
-
 
 **राजाशिषोऽवसाने *द्वित्रा*[^247] सन्तः। ")नरपालपूजिताः सुधिया[^248],")।  
 नत्याशीर्भ्यां सभ्या यथोचितं परिचितेन परि[^249]तोष्याः॥११॥ **
@@ -1966,8 +1790,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 **अभिलषति न खलु पुरुषः श्रियमपि कीर्त्या विनाकृतां कुशलः।  
 क्षणिकाय वस्तुने कस्त्यजतीह चिरस्थिरं श्रेयः॥२०॥ **
 
-
-
 **राजा न जातु मित्रं सेवामेवाचरद्भिरपि वेद्यः।  
 आजन्मलालितेन द्विजो रजोऽन्धेन भोगिना दष्टः॥२१॥ **
 
@@ -2014,8 +1836,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 **यदि नामासङ्गतमपि सङ्गमयितुमस्ति कौशलं वचसि।  
 प्रस्तावे स्तुतिमाचर सुखहरणोयोऽनयैव नरपालः॥३१॥ **
-
-
 
 **किं सम्यगिति प्रश्ने भीष्मः[^271] ष्मन्तो(मा रा प दी)") स्तोत्रं श्रियः पतेः[^272]") प्राह।  
 स्तव्यस्तेन श्रोमान् कस्य न वा वल्लभा स्तुतिर्ब्भवति॥३२॥ **
@@ -2066,8 +1886,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 ललिताभिः कविताभिः प्रसङ्गतः प्रीणयेन्नृपतिम्॥४१॥ **
 
 **इति श्री हरिहरसुभाषिते राजोपासनप्रकरणम्॥६॥ **
-
-
 
 **राजनीतिप्रकरणम्॥७॥ **
 
@@ -2124,8 +1942,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 जीवति पटीरविटपी परिरभ्य न दाव[^291]पावकं प्रायः॥१०॥ **
 
 [^291]: "का has no दाव"
-
-
 
 **निहतं गीतेन मृगं मीनं बलि[^292]")शेन तेजसा शलभम्।  
 दृष्ट्वापि यदि न पश्यति नश्यति[^293]") किं केन करणीयम्॥११॥ **
@@ -2193,8 +2009,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^309]: "द्भरण (प
 
-
-
 **विजितो रिपुरपखेदं भेदं चेत्तस्य साधयेन्नृपतिः।  
 सुहृदा योऽज*नि*[^311]") भिन्नः *किं* न हितन्त[^312] किं न हितं तुष्य (का) हि (का प)")स्य वेधसाविहतम्॥२१॥ **
 
@@ -2257,8 +2071,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^326]: "सु (मा रा दी
 
-
-
 # **दैवद्विजगुरुभक्त[^327]")श्चिरपरितुष्टैर्ब्भटैर्य्युक्तः। बहुधा विमृष्यकारी नारीणां[^328] ") व[^329]")शमुपैति नरपालः॥३१॥**
 
 [^327]: "क्तः (मा रा
@@ -2308,8 +2120,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^340]: "रः (दी
 
 # **स्वस्मिन्नेव समस्तो येन न्यस्तो भरः क्षितीशेन। स्वायत्तसिद्धिरेषः स्वकरधृते मन्दिरे वसति॥४१॥**
-
-
 
 **दुःखं परवशमखिलं स्ववशं सुखमित्युवा[^341]हृतं मुनिभिः।  
 तदनवहिते सहाये यद्वाप्यहितेऽव[^342]")गन्तव्यम्॥४२॥ **
@@ -2363,8 +2173,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^351]: "ग्नैरा(का
 
-
-
 **लघुरत्युच्चैश्चरितः क्रमे[^352].")ण गन्तासि गौरवं तात।  
 कलया कलया काले कलानिधिः पूर्णतामेति॥५२॥ **
 
@@ -2388,8 +2196,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 चाणक्याद्यभिधानाज्ज्ञेयनिधानादथान्यदुन्नेयम्॥५५॥ **
 
 **इति श्री हरिहरसुभाषिते राजनीतिप्रकरणम्॥७॥**
-
-
 
 **समयवर्णनप्रकरणम्॥८॥ **
 
@@ -2448,8 +2254,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^370]: "नः (मा रा दी
 
 [^371]: "षि (मा रा
-
-
 
 **कार्णाटी-केलिवाटो-विटपि-नवदलान्दो[^372].")लनाश्चोलबाला-  
 चञ्चच्चाम्पेयमालानिविलपरिमलाकर्षणोत्कर्षभाजः।  
@@ -2517,8 +2321,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^389]: "मा रा दीand प have राशि before भोगाय"
 
-
-
 **स्वपिति ग्रीष्मभयादासायं सुख[^390]")माश्लिष्टसवातच्छायम्।  
 जन्तु[^391]")र्य्यत्नशतान्यारभतां को नामान्यत्रैतल्लभताम्॥१५॥ **
 
@@ -2576,8 +2378,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 **मैथुनभोगोपरतः पयोदमलिनाम्बरान्नरणः।  
 पामर इवरविरधुता प्रकटं वर्षासु कर्क्कटं भुङ्क्ते॥२१॥ **
 
-
-
 **म्लानान्नीपतरोरपीपतदिमान् सन्धिः शरत्प्रावृषो-  
 रन्तःकोरकितामहो मधुलिहो जातीमवातीतरत्।  
 पुंहंसा[^404]")न्समचीकरत् कृतधियो भाष्येषु वागुद्यमं[^405] ")  
@@ -2629,8 +2429,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^414]: "र (मा रा प दी
 
 [^415]: "त्रि (का
-
-
 
 **नीचश्त्वमसि तुलायामयमुच्चैः कार्त्तिकी शशाङ्क इति।  
 शरदङ्काशविकासादुपहप्तितव[^416].")तींमुमोच मलिनोऽर्क्कः॥२८॥**
@@ -2695,8 +2493,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^432]: "नि(मा रा प का दी
 
-
-
 **शिशिरेऽनुधावतिरिपौ धनुरप्युन्मुच्य भानुरपयातः।  
 मकरालयमपि तीर्णः किं भीरुः कुम्भमाविशति॥३७॥**
 
@@ -2742,8 +2538,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^395]: "न्त(का
 
 [^440]: "चलि (का
-
-
 
 **विरहेण रवोर्द्दिनावसाने परिपीतानि विषाणि वारिजि[^443].")न्यः।  
 कमलोदरनिस्सरद्द्विरेफव्यपदेशादधुना किमुद्गिरन्ति॥४३॥**
@@ -2793,8 +2587,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 **विधिना विनिपातनाय नोतो रविरस्ताचलमम्बुधावगाधे।  
 मुखमुद्रणमम्बुजैरुपेतं प्रणयं के विपदि प्रमाणयन्ति॥४८॥**
 
-
-
 **चिरकरपरिमृष्टं भानुबिम्बं दिनान्ते  
 सकुतुकमिव शोणं कालकापालिकेन।  
 चरशिखरिकण्डान्तस्थलीं[^454] कण्डान्तस्तर्गी(मा), कन्थान्तस्थलीं(प), कन्थान्तस्थगी (दी). ")नीयमानं  
@@ -2840,8 +2632,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^461]: "वि(का
 
 [^462]: "वितनुरियंमीलता (का
-
-
 
 **दत्तोष्णां[^463],")शुकरा[^464],")वकाशमभितोऽप्याकाशमाशु ग्रस-  
 न्नद्वैतं महसामुपाहृ[^465],")तरसां क्ष्माम[^466].")न्धकूपे क्षिपन्।  
@@ -2897,8 +2687,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^475]: " मि (का
 
-
-
 **दुग्धाब्धेर्न्नवनीतमन्वहमयं निस्सार्य्य कालः[^476],")क्रमात्  
 पिण्डं पूर्णतरं व्यधादधिवियद्भाण्डं विधोर्म्मण्डलम्।  
 सान्निध्यन्तु यथा यथाम्बरमणर्व्वह्नेरिदन्नीयते  
@@ -2946,8 +2734,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^489]: "किं समेतं हरिद्धिः (प०
 
 **इति श्री हरिहरसुभाषिते समयवर्णनप्रकरणम्॥८॥**
-
-
 
 **शृ‌ङ्गारवर्णनप्रकरणम्॥९॥**
 
@@ -3011,8 +2797,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^506]: "त् (का
 
-
-
 **अजनि शिशिरशीलं शैवलं सागरे य-  
 च्चिकुरमकृत कामस्तन्वि ते किन्न तेन।  
 वहति कुटिलमेनं हेतुना केन मूर्ध्ना[^507], ")  
@@ -3066,8 +2850,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 **चित्रं तरुणिमराज्ये समाश्रिता बलिभिरप्यबला।  
 किमपरमुरोजशम्भुर्ज्जीवातुर्ज्जायते मनोजस्य॥१३॥**
 
-
-
 **विसर्प्पत्कालिन्दीलहस्पिरिपाटीपस्मृिशा  
 दृशा दीर्घापाङ्गक्रमणरस्मणीयं वलितया।  
 निरुन्मीलो नी[^519]. ")लोत्पलदलकलापैर्न्न कतिधा  
@@ -3114,8 +2896,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^526]: "हृद्यं (मा. का.
 
 [^527]: "दीcorrects हृद्यं as कृत्यं ति (का
-
-
 
 **तव तन्वि तरुणपुण्यादम्बरमणिमकरसङक्रमो जातः।  
 अधिवेणि[^528]") भवति नियमः फलमविलम्बेन भावि कामस्य॥२१॥**
@@ -3164,8 +2944,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^520]: "व (दी
 
 [^538]: " का misses ल."
-
-
 
 **केलीसद्मनि पद्मसुन्दरमुखी मन्दाक्षमन्देक्षितं  
 सम्प्राप्तेति समीक्ष्य निर्भरतराविर्भूतचेतोभु[^539],")वा।  
@@ -3221,8 +2999,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^550]: "न(ग
 
-
-
 **पर्याप्ते सुरते विकीर्णचिकुरोद्गीर्णे प्रसूने पुरः  
 प्रक्षिप्ते कुचकञ्चुके क्वचिदपव्यस्ते च हारे हृदः।  
 नैतम्बे रसना-गुणे निपतिते[^552]. ") भग्ने च दोष्कङ्कणे  
@@ -3269,8 +3045,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 दूरादुन्नमिताननार्द्धमसकृत्तन्व्या बहिर्वीक्ष्यते॥३९॥**
 
 [^560]: " यः (का
-
-
 
 **बलाद्विलासभवनान्नीयमानेव लज्जया।  
 धन्यं धीरा परावृत्य प्रातः कात[^561]रंमीक्षते॥४०॥**
@@ -3329,8 +3103,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^574]: "सन्निहितस्थितापि (ग
 
-
-
 **प्रतिषिद्धनखेन्दुसङ्गयोश्चिरमुत्सारितहारग[^575]")ङ्गयोः।  
 किमुदेति न शम्भुशोभयोः स्तनयोरप्यनयोरनुग्रहः॥४७॥**
 
@@ -3354,8 +3126,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^578]: "only मा and दी have this verse. नी (मा
 
 **इति श्री हरिहरसुभाषिते शृङ्गारवर्णनप्रकरणम्॥९॥**
-
-
 
 **नायकनायिकाप्रभेदप्रकरणम्॥१०॥**
 
@@ -3398,8 +3168,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^583]: "चन्द्रः (का
 
-
-
 **मान्या कुण्डि[^392],")नभूरभूदसुभगा कुत्राथ सात्राजिती  
 वैषम्य[^585].")स्य कथाऽपि मे धरणिभृत्कन्यासु नान्यास्वपि।  
 इत्थं दित्सति पारिजातकुसुमं सन्देहदोलायिते भूयः  
@@ -3441,8 +3209,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^589]: " स (का
 
-
-
 **मयि प्रणयचञ्चलं रुचिरमञ्चयत्यञ्चलं  
 स्खलन्निबिड़नीविकानियमितैकपाण्यम्बुजम्।  
 परेण बत[^590], ") पाणिना युगपदेव गण्डाधर-  
@@ -3483,8 +3249,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 सामान्या चेत्यासां वदाम्युदाहरणमेकदेशेन॥२१॥**
 
 [^595]: "प्रति (मा
-
-
 
 **परिरभ्य प्रियं प्रेमप्रसारिपुलकाङ्कुरा।  
 निस्साध्वसा सुखं साध्वी निशां नयति नायिका॥२२॥ **
@@ -3533,8 +3297,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^604]: "दी and मा miss this मा but दी has corrected it."
 
-
-
 **कोपिन्याः कतिधा व्यधायि न पदप्रान्तानतिः प्रेयसा  
 कुत्रासीदिह जातु ज[^605],")न्मनि पुनः सद्भावसम्भावना।  
 तस्मिन्नेत्रपथादथापसरति प्राप्तानुतापज्वराः  
@@ -3578,8 +3340,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 **अन्योपभोगकलुषा मानवती प्रेमगर्व्विता मुदिता।  
 सौन्दर्य्यगर्व्विता च प्रेमपराधीनमानसाऽनूढ़ा॥३६॥**
-
-
 
 **सङ्गोपितसुरताऽथ क्रियाविदग्धा च वाग्विदग्धा च।  
 क्वापि प्रोष्यत्पति[^612]काऽनुशयाना लक्षिता कुलटा॥३७॥**
@@ -3631,8 +3391,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^620]: "यै (का
 
-
-
 **हितमभिहितं दीना वाचो वदन् बहु पादयोः  
 पतति नियतं मानावेशे वशे भवंति प्रियः।  
 सहचरि समाक्रान्तं प्रेम्णा[^622],") परन्तु चिरान्मनः  
@@ -3672,8 +3430,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^626]: "गग. वाधा (का
 
-
-
 **पूर्वस्मादधिकाधिकांदरमिदं श्वश्रूषु शुश्रूषणं  
 भिन्नोऽयं परिचारिकासु विपुलाह्लाद[^627]. ")प्रसादक्रमः।  
 अद्यान्यः प्रतिवेशिनीषु भवनाचारौचितीसम्भ्रम-  
@@ -3710,8 +3466,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^631]: "कुतुरुः (मा
 
 **इति श्री हरिहरसुभाषिते नायकनायिकाप्रभेदप्रकरणम्॥१०॥**
-
-
 
 **प्रकीर्णकप्रकरणम्॥११॥**
 
@@ -3753,8 +3507,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^635]: "वः  (का
 
 [^636]: "र्घ (का
-
-
 
 **स्वर्णदीतटवलज्जटाटवी-विस्फुटेन्दुकलिकैकपुष्पकम्।  
 अङ्गसानुविलस‌द्भुजङ्गमं जङ्गमं स्फटिकभूभृतं भजे॥८[^638]॥ **
@@ -3810,8 +3562,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 १४. Sixteenth verse in का, coming after अहो महीयसां etc.
 
-
-
 **शैलाः सन्तु शतं सुमेरुहिमभृन्मैनाकविन्ध्यादयः  
 किन्त्वेषां महिमावधारणविधौ गोवर्द्धनो वर्द्धते।  
 सप्ताहानि मुरारिपाणिकमलक्रोड़ोपरि क्रीड़ता  
@@ -3864,8 +3614,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^660]: "का misses these two verses,"
 
-
-
 **त्वं तादृशी मम दृशीव निपात्य पांशु—  
 मुष्णांशुवंशवनिताऽपहृता परेण।  
 अद्यापि चेत्तदुचितं न किमप्यतानी—  
@@ -3914,8 +3662,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^670]: "न्स्या म (का
 
 [^671]: "णं (दी
-
-
 
 **गुणगौरवमेव गाहमानाः कृतिनः किं कलयन्ति[^673], ") दूषणानि।  
 न जहाति विहारि[^674] ")नक्रचक्रं बत रत्नाकरवारि दानवारिः॥२७॥**
@@ -3971,8 +3717,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^685]: "र्जा (का
 
-
-
 **क्षीणः क्षीणः क्षपय[^686]. ")सि निशाः पूर्णतायां पुनस्ते  
 राहोरास्ते भयमयमपि स्वान्तशल्यं कलङ्कः।  
 एतास्वापत्स्वपि हिमरुचे त्वां विनोल्लासलोलं  
@@ -4026,8 +3770,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^697]: "स्वत्रास (का
 
-
-
 **येषामेकतरेण केनचिदपि प्राप्तेन पर्युत्सुको  
 मर्यादामवसाद्य माद्यति जनः क्षोणीमपि क्षोभयन्।  
 वीची[^698]")भिर्व्विलुठन्ति तानि परितो रत्नानि वारां निधे-  
@@ -4071,8 +3813,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^704]: "नि (मा रा
 
 [^705]: "सि (मा
-
-
 
 **यावद् वियोगविधुरां मधुरादरेण  
 भानुर्व्विनोदयति पङ्कजिनीं करेण।  
@@ -4126,8 +3866,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 [^716]: "वि (का दी
 
 [^717]: "मपकरुणा (का
-
-
 
 **नीरनिधेरपि नीचान्नाचा[^718]णमति चातकः प्रचुरम[^718]म्भः।  
 अपि शी[^600],")करमुत्कन्धरमुन्नतमम्भोदमर्थ[^721].")यति॥५४॥**
@@ -4186,8 +3924,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^733]: "काः (दी
 
-
-
 **मलिनस्यागुरोरेष नामरूपसमः[^734],") क्रमः।  
 तथोपलालितो नायं सुखाय ज्वालितो[^557].") यथा॥६१॥**
 
@@ -4243,8 +3979,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^746]: "श (मा रा दी
 
-
-
 **एतावन्तं समयमन[^747],")यःकेसरोत्सङ्गरङ्गी  
 हृद्भृ[^748],")ङ्गीनां सततमहरस्त्वं सरःसञ्चरेषु।  
 दैवादस्मिन् मधुप निपतन् कानने केतकीना-  
@@ -4298,8 +4032,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 ६९, ले(ग्रा राका दी), नि (दी), ७०. प(रा.). 
 
-
-
 **वारितवान्मदकरिणां नखरेण खरेण बृंहितं सिंहः।  
 कुपितोऽपि तरल[^758] ")फेरवकण्ठरवं केन वारयतु॥७४॥**
 
@@ -4346,8 +4078,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ७५ खि (रा), लि (का)
-
-
 
 **परमार्थप्रकरणम्॥१२॥**
 
@@ -4400,8 +4130,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 **चिरं विनिर्गमो बन्धुवर्गमोदापनोदनः।  
 तस्मादपूर्णकामोऽपि समेत्य प्रवसेत्पुनः॥११॥**
 
-
-
 **धात्रा वक्रेण धनुषा गुणोत्कर्षेण मार्गणाः।  
 अपि लब्धेषु लक्षेषु प्रक्षिप्यन्ते पुनः पुनः॥१२॥**
 
@@ -4451,8 +4179,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^783]: "का misses the verse ईक्षतोरित्यपाणिनीयम्, पश्यतोरित्युचितम्."
 
-
-
 **अर्थिनो जठरज्वालादग्धा वाक्कञ्चिदञ्चति।  
 ताञ्चाश[^784]. ")मयतो वित्तं किन्निमित्तं न विद्महे॥२३॥**
 
@@ -4492,8 +4218,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 श्रेयस्थो[^787].")दानभोगाभ्यां श्रियो निःशेषिता अपि॥३२॥**
 
 [^787]: "सो (मा रा वी
-
-
 
 **विनयेन वदान्यत्वं मदास्पर्शन पौरुषम्।  
 पूर्वेण तपसा पुंसां द्वाभ्यां द्वयमलङ्कृतम्॥३३॥**
@@ -4538,8 +4262,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^566]: " पि (मा रा
 
-
-
 **जन्म तन्मन्महे धन्यं संसर्गो यत्र सत्तमैः।  
 सौभाग्यं पश्य निम्बस्य चन्दनाचलजन्मनः॥४४॥**
 
@@ -4582,8 +4304,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 तदाचर चिरास्ये[^798].")यपरलोकावलोकनम्॥५४॥**
 
 [^798]: "स्ते. (का
-
-
 
 **अवधारय धर्मेषु प्रधानमवधानतः।  
 निर्ब्भरानन्दकन्दाय गोविन्दाय मनोर्प्पय॥५५॥**
@@ -4634,8 +4354,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 **साम्यङ्कुरु सुते शत्रौ कीटकोटीशयोरपि।  
 समो जीवस्तमोरूपं न भावमनुधावति॥६५॥**
 
-
-
 **भोगारीणां न शक्तोऽसि यदि वा विनिधारणे[^807], व (का). ")।  
 अनौत्सुक्यमयं वर्म ममोमर्मणि धारय॥६६॥**
 
@@ -4681,8 +4399,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 
 [^814]: " न्यू (का
 
-
-
 **वाग्देवीकरपद्मपञ्जरपठत्कीरायितानां पुरो  
 गण्यन्ते कवयः क्व वाङ्मयपुरप्राकारकाकायिताः।  
 ब्रह्मास्वादसुखावघा[^815],")तमनसां गोष्ठीषु सांसारिकाः  
@@ -4711,8 +4427,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 **—शुभमस्तु—**
 
 **\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **Alphabatical Index of First Lines**
 
@@ -4746,8 +4460,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |       २३        | अन्य इत्यमुपजातयन्त्रणं  |       ९        |       १७        |
 |       २४        |  अन्योन्यस्य नियन्त्रणा  |       ८        |        ४        |
 
-
-
 |                |                         |              |                 |
 |:--------------:|:-----------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |    **श्लोकानामादिः**    | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -4775,8 +4487,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |       ४६       |    अलमात्मीयं विदितं    |      ६       |       २८        |
 |       ४७       |     अलं वा बहुवादेन     |      १२      |       ६४        |
 |       ४८       |  अल्पेऽपि नृपतिदंत्ते   |      ६       |       ३०        |
-
-
 
 |                |                          |              |                 |
 |:--------------:|:------------------------:|:------------:|:---------------:|
@@ -4806,8 +4516,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |       ७१       |    आसामपि प्रतिभेदाः     |      १०      |       २१        |
 |       ७२       |  आसोत्कल्पमुदन्वदम्बुनि  |      ११      |       ३४        |
 
-
-
 |                |                          |              |                 |
 |:--------------:|:------------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |    **श्लोकानामादिः**     | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -4835,8 +4543,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |       ९४       |    उपदिशति लोकवृत्तं     |      ३       |        ७        |
 |       ९५       |      उपनीत नीतिनौकः      |      ३       |       २३        |
 |       ९६       |     उपभुक्ताशेषवृषं      |      ८       |       १४        |
-
-
 
 |                |                            |              |                 |
 |:--------------:|:--------------------------:|:------------:|:---------------:|
@@ -4866,10 +4572,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |       १९       |       करिमदपरिमलवाही       |      ११      |       ७८        |
 |      १२०       | कर्णेकान्तागमनवचनश्राविणि  |      १०      |       ४३        |
 
-
-
-
-
 |                |                         |              |                 |
 |:--------------:|:-----------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |    **श्लोकानामादिः**    | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -4897,8 +4599,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ४२       |  किं सम्यगिति प्रश्ने   |      ६       |       ३२        |
 |      ४३       |   कुतस्ते देहलीस्तम्भ   |      ९       |       ४५        |
 |      ४४       |    कुत्रासीस्त्वमिति    |      ११      |        ५        |
-
-
 
 |                |                         |              |                 |
 |:--------------:|:-----------------------:|:------------:|:---------------:|
@@ -4928,8 +4628,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ६७       |  क्षुद्रेपि क्षोणिभुजा  |      ७       |       ३७        |
 |      ६८       |   क्षुद्रोपद्रवभीत्या   |      ६       |       ३५        |
 
-
-
 |                |                        |              |                 |
 |:--------------:|:----------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |   **श्लोकानामादिः**    | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -4957,8 +4655,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      १९०       |    चुम्बति कपोलपाली    |      १०      |       १०        |
 |      ९१       | चैत्री चन्द्राभचन्द्रा |      ५       |        ७        |
 |      ९२       |       जगत्पतिपद        |      १       |       १२        |
-
-
 
 |                |                         |              |                 |
 |:--------------:|:-----------------------:|:------------:|:---------------:|
@@ -4988,8 +4684,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      १५       |    तावज्जीवति जन्तुः    |      ६       |       २६        |
 |      १६       |     तासामष्टौ भेदाः     |      १०      |       २५        |
 
-
-
 |                |                         |              |                 |
 |:--------------:|:-----------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |    **श्लोकानामादिः**    | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -5017,8 +4711,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ३८       |   दुग्धाब्धेर्न्नवनीत   |      ८       |       ६१        |
 |      ३९       | दुष्टाः सुहृदुपदिष्टाः  |      ३       |       ४५        |
 |      २४०       |  दुःखनित्यानि वित्तानि  |      १२      |       ६२        |
-
-
 
 |                |                            |              |                 |
 |:--------------:|:--------------------------:|:------------:|:---------------:|
@@ -5048,8 +4740,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ६३       |      धूलीभरो दृगवरोध       |      ११      |       ७०        |
 |      ६४       | धौताः स्वर्धुनि मूर्द्धजाः |      ११      |       १२        |
 
-
-
 |                |                             |              |                 |
 |:--------------:|:---------------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |      **श्लोकानामादिः**      | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -5077,8 +4767,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ८६       |      निजदेशकुलाख्याना       |      ४       |       ४४        |
 |      ८७       |      निजबलपौरुषवाध्यं       |      ७       |       २८        |
 |      ८८       |    निजहृदयं सत्प्रणिधिः     |      ७       |       ४७        |
-
-
 
 |                |                          |              |                 |
 |:--------------:|:------------------------:|:------------:|:---------------:|
@@ -5108,8 +4796,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ११       |    नीरनिधेरपि नीचात्     |      ११      |       ५४        |
 |      १२       |     नीरागेऽधरपल्लवे      |      ९       |       ३४        |
 
-
-
 |                |                        |              |                 |
 |:--------------:|:----------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |   **श्लोकानामादिः**    | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -5137,8 +4823,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ३४       |    परमुखरत्वज्वलितः    |      ३       |       ३२        |
 |      ३५       |      परवित्तविमुख      |      ३       |       ३७        |
 |      ३६       |   परहितहेतोर्विहिताः   |      ३       |       २४        |
-
-
 
 |                |                       |              |                 |
 |:--------------:|:---------------------:|:------------:|:---------------:|
@@ -5168,8 +4852,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ५९       |    पुरतः परनगरगतः     |      ४       |       ४२        |
 |      ६०       |   पुरतः पुरमपरिचितं   |      ४       |       ३९        |
 
-
-
 |                |                          |              |                 |
 |:--------------:|:------------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |    **श्लोकानामादिः**     | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -5197,8 +4879,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ८२       |  प्राप्ता वासक सज्जतां   |      ५       |       ३७        |
 |      ८३       |    प्राप्तास्त्रासात्    |      ५       |       १९        |
 |      ८४       |   प्राप्यप्रावृषमखिलं    |      ११      |       ५६        |
-
-
 
 |                |                            |              |                 |
 |:--------------:|:--------------------------:|:------------:|:---------------:|
@@ -5228,8 +4908,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ४०७       |      भ्रातः कङ्कण किं      |      ९       |       २५        |
 |      ४०८       |   भ्रम्यन्तु माडवग्रामे    |      २       |       १२        |
 
-
-
 |                 |                        |              |                 |
 |:---------------:|:----------------------:|:------------:|:---------------:|
 | **क्रमसंख्या ** |   **श्लोकानामादिः**    | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -5257,8 +4935,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |       ३०       |     म्लानान्नीपतरो     |      ८       |       २२        |
 |       ३१       |  म्लायसि परनिश्वसितैः  |      ११      |       ३१        |
 |       ३२       |    यदपि प्रवासगमनं     |      ४       |       २४        |
-
-
 
 |                |                       |              |                 |
 |:--------------:|:---------------------:|:------------:|:---------------:|
@@ -5288,8 +4964,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ५५       | येषु प्राक् प्रकृतेषु |      ११      |       ७७        |
 |      ५६       |    ये सतामवमन्तारः    |      १२      |       ४०        |
 
-
-
 |                |                        |              |                 |
 |:--------------:|:----------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |   **श्लोकानामादिः**    | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -5317,8 +4991,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ७८       | लज्जां संवलितामुपेयुषि |      ९       |       २८        |
 |      ७९       |   लम्बालकं तदालम्बे    |      ११      |        ३        |
 |      ४८०       |   लालयेद्बालकं तावत्   |      २       |       ४१        |
-
-
 
 |                |                        |              |                 |
 |:--------------:|:----------------------:|:------------:|:---------------:|
@@ -5348,8 +5020,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ५०३       |    विद्वानयमितरो वा    |      ६       |        २        |
 |      ५०४       |  विद्वान् विदायमादाय   |      १२      |        ३        |
 
-
-
 |                |                         |              |                 |
 |:--------------:|:-----------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |    **श्लोकानामादिः**    | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -5377,8 +5047,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      २६       |    वेशः स एव स गुणः     |      ६       |       १९        |
 |      २७       |    व्यधितं विधुमधीनं    |      ८       |       ४०        |
 |      २८       |     व्ययमायक्रमेणैव     |      १२      |       ४७        |
-
-
 
 |                |                         |              |                 |
 |:--------------:|:-----------------------:|:------------:|:---------------:|
@@ -5408,8 +5076,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ५१       |     शृङ्गारे धनभाजा     |      ९       |        १        |
 |      ५२       |    शृङ्गणैकेन हेम्नः    |      ५       |       ३४        |
 
-
-
 |                |                             |              |                 |
 |:--------------:|:---------------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |      **श्लोकानामादिः**      | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -5437,8 +5103,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ७४.      |   सन्निविश्य मनसा क्षितिप   |      ५       |       १७        |
 |      ७५       |     स पातु यः प्रतापानि     |      १       |       १९        |
 |      ७६       |    स पायात् पार्वतीपाणिः    |      १       |        ९        |
-
-
 
 |                |                       |              |                 |
 |:--------------:|:---------------------:|:------------:|:---------------:|
@@ -5468,8 +5132,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ९९       |   सातङ्कवारितनखाङ्क   |      १०      |       २३        |
 |      ६००       |      सामगीतमपनीत      |      ११      |        २        |
 
-
-
 |                |                        |              |                 |
 |:--------------:|:----------------------:|:------------:|:---------------:|
 | **क्रमसंख्या** |   **श्लोकानामादिः**    | **प्रकरणम्** | **श्लोकसंख्या** |
@@ -5497,8 +5159,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      २२       | संविभर्त्तु भुजगेश्वरं |      ११      |       १०        |
 |      २३       |   स्तनपं क्षणमङ्केन    |      १       |       २४        |
 |      २४       |    स्तुमस्तमुद्यमे     |      १       |       १८        |
-
-
 
 |                |                         |              |                 |
 |:--------------:|:-----------------------:|:------------:|:---------------:|
@@ -5528,8 +5188,6 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |      ४७       |     हितमभिहितं दीना     |      १०      |       ४५        |
 |      ४८       | हित्वा हित्वा विधुरमनसो |      ८       |       १०        |
 
-
-
 |                 |                      |               |                  |
 |:---------------:|:--------------------:|:-------------:|:----------------:|
 | **क्रमसंख्या ** |  **श्लोकानामादिः **  | **प्रकरणम् ** | **श्लोकसंख्या ** |
@@ -5541,1054 +5199,5 @@ that this manuscript contains all the verses that are found in Mss. मा and �
 |       ५४       |   होतानस्त्राणकृत्   |       १       |        ३१        |
 |       ५५       |  हंसैः शैवलमञ्जरीति  |      १०       |        ४७        |
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^809]: "का misses this verse."
-
-
-[^805]: "नि (मा रा
-
-
-[^800]: "ति (का
-
-
-[^797]: "थे थि (मा रा
-
-
-[^792]: " पि (मा रा
-
-
-[^779]: "प्रि (का
-
-
-[^774]: "पि (का
-
-
-[^768]: "प (का
-
-
-[^765]: "सु (दी
-
-
-[^763]: "त (का
-
-
-[^739]: "ता (का
-
-
-[^737]: "नि (मा रा दी
-
-
-[^735]: "ते (का
-
-
-[^731]: "य (दी
-
-
-[^720]: "सी (का
-
-
-[^719]: "रा misses both चा and म,"
-
-
-[^711]: "का misses this verse."
-
-
-[^702]: "व (का दी
-
-
-[^690]: "वि (का
-
-
-[^676]: "नि (मा रा दी
-
-
-[^672]: "म (का
-
-
-[^656]: "मु (का
-
-
-[^652]: "कु (का
-
-
-[^651]: "सु (का
-
-
-[^647]: "त (का
-
-
-[^643]: "वो (का
-
-
-[^642]: "तु (का
-
-
-[^637]: "का-text is mutilated."
-
-
-[^634]: "त (मा रा दी
-
-
-[^633]: "पु (का
-
-
-[^632]: "नि (मा रा दी
-
-
-[^625]: "पा (का
-
-
-[^621]: "म (का
-
-
-[^614]: "सु (का
-
-
-[^593]: "पु (का
-
-
-[^584]: "न्ति (का
-
-
-[^582]: "व (मा
-
-
-[^576]: "वा (का
-
-
-[^558]: "म (का
-
-
-[^551]: "ति (रा
-
-
-[^541]: "म (का
-
-
-[^537]: "पि (का
-
-
-[^536]: "व (दी
-
-
-[^497]: "र (का
-
-
-[^468]: "ष(मा रा
-
-
-[^457]: "स (मा रा प
-
-
-[^442]: "र (का
-
-
-[^441]: "न्त(का
-
-
-[^428]: "व (का
-
-
-[^424]: "व (का
-
-
-[^418]: "र (का
-
-
-[^402]: "न (दी
-
-
-[^373]: "ल (का
-
-
-[^366]: "द्वि (का
-
-
-[^355]: "प (का
-
-
-[^347]: "पि (का
-
-
-[^322]: "तो (प
-
-
-[^314]: "त (प
-
-
-[^310]: "व (का
-
-
-[^302]: "प (का
-
-
-[^301]: "प (का
-
-
-[^300]: "द(का
-
-
-[^299]: "द(का
-
-
-[^296]: "षा(प
-
-
-[^281]: "ति (का
-
-
-[^268]: "र (का
-
-
-[^253]: "म (का
-
-
-[^212]: "ना (प
-
-
-[^205]: "न्ताः (का
-
-
-[^170]: "त (प
-
-
-[^158]: "ही (का
-
-
-[^142]: "पु (का
-
-
-[^75]: "पि (का

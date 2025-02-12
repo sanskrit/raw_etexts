@@ -18,21 +18,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **प्रस्तावना**
 
@@ -48,8 +34,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
                           **जैनेतिहाससार.**
 
 **————————**
-
-
 
 |                                    |                        |
 |:----------------------------------:|:----------------------:|
@@ -82,13 +66,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 |             शीलवर्णनं              |    धर्मौषधकरणवर्णनं    |
 |         परिग्रहत्यजनवर्णनं         |    धर्मशरणकरणवर्णनं    |
 
-
-
 [TABLE]
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **॥श्रीः॥**
 
@@ -451,8 +431,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 
  **हिं० अर्थ—**शरीर निर्बल होकर भी जो धीर पुरुष जिनदीक्षा गृहण करके निष्पाप तपश्चर्या करते है, उनको मुनीश्वर धन्य मानते है.
 
-
-
 **सद्भाषितावलीचें शुद्धिपत्र.**  
 ![](../books_images/U-IMG-1724774194उपनिषत्2-removebg-preview.png)
 
@@ -484,8 +462,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 |     १२      |      पाण्डवाः      |      पाण्डवाः|      |
 |     १५      |      साधारणं       |      साधारणं|       |
 |      १      |       संस्थं       |       संस्थं|       |
-
-
 
 |             |                   |                  |
 |:-----------:|:-----------------:|:----------------:|
@@ -519,8 +495,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 |     १५      |        मुढ        |       मूढ        |
 |     १६      |       वरंच        |      वरं च       |
 
-
-
 |             |               |              |
 |:-----------:|:-------------:|:------------:|
 | **पंक्ति.** |  **अशुद्ध.**  |  **शुद्ध**   |
@@ -549,8 +523,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 **———————————————————**
 
 **![](../books_images/U-IMG-1724702701च.png)**
-
-
 
 **चारित्रचलितो जीवो जीवन्नपि मृतोपमः॥  
 मृतश्चारित्रसंयुक्त इहामुत्र च जीवति॥४७॥**
@@ -2138,8 +2110,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 
 **  म. अर्थ–**एक ज्ञाता, धर्माचें संपादन करून जातीनें स्वर्गास जातो, एक जीव पापसंग्रह करून भयंकर नरकास जातो, एकजण अलौकिक चारित्र पालून मोक्षास जातो, ह्यास्तव तूं एक धर्मसंग्रह कर, आपलें घर सोड.
 
-
-
 **॥अनित्यभावनावर्णनं॥**
 
 **वदन्तीव जनाग्रेषु घटी घातेन प्रत्यहं॥  
@@ -2593,8 +2563,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 **समाप्त।**  
 **\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 ** सज्जनचित्तवल्लभ**
 
 **![](../books_images/U-IMG-1723560796Screenshot2024-07-15110639.png)**
@@ -2784,16 +2752,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODc5NTkxOTQ5Njc
 
 **समाप्त.  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
-
-
-
-
-
-
-
-
-
 
 \]

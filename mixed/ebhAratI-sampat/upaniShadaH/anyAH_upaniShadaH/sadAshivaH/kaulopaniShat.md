@@ -17,18 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDYwMTE3MjM4MjU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 T A N T R I K T E X T S
 
 EDITED BY ARTHUR AVALON
@@ -50,40 +38,20 @@ LONDON
 SANSKRIT PRESS DEPOSIT           GREAT RUSSELL STREET  
 CORNWALLIS STREET.
 
-
-
 **T A N T R I K T E X T S**
-
-
 
 EDITED BY  
 ARTHUR AVALON
 
-
-
-
-
 VOL. XI
 
-
-
-
-
 KAULA AND OTHER UPANISHADS
-
-
 
 WITH COMMENTARY BY  
 BHASKARARÂYA
 
-
-
 EDITED BY  
 SITÂRÂMA SHÂSTRI
-
-
-
-
 
      CALCUTTA                         
 LONDON  
@@ -91,10 +59,7 @@ AGAMANUSANDHANA SAMITI.             LUZAC & CO.
    SANSKRIT PRESS DEPOSITORY        46, GREAT RUSSELL STREET.  
 30, CORNWALLIS STREET.                        
 
-
 1922
-
-
 
 **TANTRIK TEXTS**
 
@@ -113,8 +78,6 @@ VOL. V. KULÂRNAVA TANTRA. Editedby Târânâtha Vidyaratna, with an Introductio
 VOL. VI. KÂLìVILÂSA TANTRA―Edited by Pârvati Charana Tarkatîrtha with an English Introduction by Arthur Avalon ...2 0
 
 VOL. VII. SHRîCHAKRASMABHÂRA.―A Buddhist Tantra Edited by Kazi Dausamdup with a foreword on the Vajrayâna by Arthur Avalon ... 5 0
-
-
 
 VOL. VIII. First Part TANTRARAJA, (*Kâdimata*). Edited by Mahâmahopadhyaya Lakshmana Shâstrî Dravida with full Summary in English by Arthur Avalon ... 3 0
 
@@ -138,8 +101,6 @@ PRINCIPLES OF TANTRA (TANTRATATTVA). Vols. I and II.
 
 THE SERPENT POWER (SHATCHAKRANIRÛPANA). A translation of Vol. II Tantrik Texts and Introduction by Arthur Avalon with coloured plates of the Chakras
 
-
-
 "WAVE OF **BLISS**" (Ânandalahari) (*out of print*).
 
 CREATION according to Tantra. 1 0
@@ -156,25 +117,17 @@ GARLAND OF LETTERS. Studies in the Mantra Shâstra
 
 HYMNS TO THE GODDESS (from the Tantra and the Stotra of Shangkaracharyya).3 0
 
-
-
 INTRODUCTION.
 
  The Upanishads published in this volume belong, with the exception of the Arunâ and the Bahvricha, to the Saubhâgya Kânda of the Atharva Veda. Some reader may ask why they are published in this series of Tântrik Texts seeing that they are not Tantras; nor can they be called (as some might do) Tântrik Upanishads for there does not exist any such thing. To the followers of the Âgama Upanishad is Upanishad and of authority as Shruti and not a Tântrik or otherwise qualified Upanishad. In fact the adjective Tantrik is largely a western term. In the Sûta Samhit (I. 5. 4.) the expression "Tântrikî" is used as a form of worship distinguished from the Vedik form in ritualistic details. The verse, where the expression occurs, says that Parâ Shakti may be worshipped according to Vedik or Tântrik rites according to the Adhikâra of the worshipper. A follower of the Agama calls himself an Âgamavâdî, Kaula, Shakta, Shaiva and so forth. The Tantras are a recognised part of the scriptures of that which is generally called "Hinduism." The Sûta Samhitâ (I. 1. 12) says the Puranas are of authority in the same way as the different Âgamas (Kâmikâ &c.) The commentator speaks of the Âgamas as of equal authority with Shruti (*Shrutisamya*) and he further says that for a full understanding of the Vedanta it is necessary to know among other scriptures the Âgama.
 
  The Upanishads here published are accorded a place in this series because they contain doctrine and practice of and are referred to as authority by the Âgamavâdins. The Âgamas are based on and are as Professor Grunwedal has pointed out in his "Der Weg Nach Sambhala" a continuation of the Vedas (Die Tantras sind eben die fortzetzung des Vedas). It is of interest to here note that, for reasons which have not yet been explained, the Tantra Shîstra at any rate in its Shikta form appears to have a special affiliation with the Atharva Veda. This however does not of course mean that Mantras and
 
-
-
 Yantras, Chakras or other elements of Upâsanâ belong to this Veda alone as appears in this Volume from the Arunâ Upanishad which belongs to the Krishna Yajurveda and Bahvricha which belongs to the Rigveda. The authority of the Atharva Veda has been called in question. The argument is that as the Vedas are spoken of as Trayî Vidyâ it is only theRik, Yajus and Sâma which are the original Vedas. The Atharva Veda is said to be of later date. Reference is made to the fact that it is replete with ritual and magic. The meaning however of the term Trayî Vidya is not understood. Trayî does not refer to the number of the Vedas but to the three Kândas, Karma, Upâsanâ and Jnâna. \[See among others Raghava Bhatta under Shâradâtilaka I. 1.\] The "three-fold knowledge" has therefore nothing to do with the number of the Vedas. The word "*Veda*" signifies *four*, as when it is said of Brahmâ, that he is Vedavâhu or Fourarmed. There are Brâhmanas who are called Chaturvedis (proficient in the four Vedas just as there are others called Trivedîs and Dvivedîs. Not merely, the Atharva Veda but the others also contain ritual injunctions. The name Atharvan occurs in the other three Vedas. The four classes of priests are also well-known, namely, Adhvaryu, Hotâ, Udgâtâ and Brahmâ the last of whom superintend the work of the other Ritviks. It is said by some that the Atharva Veda is named after a great Brahmâ who belonged to the line of Angirâ. In the Mundaka Upanishad (I. 1.) that Brahmâ communicated to his first born son Atharva the Brahma-vidyâ which is the storehouse of all Vidya and Atharva communicated it to Angira. (See also as to this Veda, Sûta Samhitâ I. 1. 44—48; Mârkandeyapurâna Ch. 102; Kûrma Purâna Ch. 49). From a Brahmanik standpoint it is an error to attribute to any Veda or Upanishad higher authority than the rest. The Sûta Samhitâ (I. 1. 37, 38) says "Veda is one and the goal thereof is one also, but it is divided into different Shâkhâs or branches" and as such the "Vedas verily are endless" (*Anantâ vai vedâh*). Mâdhavâchârya in his commentary to the above verses cites the Shruti text.
-
-
 
 "These verily are Vedas-the Vedas verily are endless," (*Vedâh vâ ete anantâ vai vedah*). There is yet no contradiction here. Though Shruti is endless it points to one Veda or Truth. Some only of the Upanishads of the Atharva Veda have been published. The Asiatic Society of Bengal has published 27 of the Atharvana Upanishads with commentary of Narayana, as also one page of the Garudopanishad. The Government of Bombay has published eleven Upanishads of the Atharva Veda including the Garudopanishad with (in the case of two of them) the commentaries of Nârâyana and Shangkarânanda. Seven have the commentary of Nârâyana and the rest are without any commentary. The Ânandâshrama of Poona has published a volume contaning 32 Upanishads some of which belong to the Atharva Veda, a number of these have commentaries both by Nârâyana and Shangkarânanda. The Theosophical society have published two volumes containing 40 Upanishads the first of which was edited by Dr. Schrader and the second containing Yoga Upanishads by Pandit Mahâdeva Shâstri together with the commentaries of Brahmachârî. Some of these belong to the Atharva Veda. Srîyukta Mahesha Chandra Pâla published some Upanishads of this Veda in Bengali character with Bengali translations. The Nirnayasâgara Press of Bombay has published a volume containing the text only of 108 Upanishads which is erroneously believed by not a few to be a complete list. Preference (it may be here observed) has been given to some Upanishads because of the authority which they gained by reason of Shangkaracharya's commentaries on them. Doubtless this fact is proof of their authority but it does not necessarily follow that the Upanishads not so dealt with by him are without authority. He may neither have had the time nor considered it necessary to comment upon other Vedanta Shâstras as did Appaya Dikshita, Narayana, Shangkarânanda and others.
 
  In this volume are published the *Kaulopanishad* the*Tripurâmahopanishad*, the *K**â**likopanishad*, the *Advaitabh**â**vanopanishad*, the *Táropanishad*, the *Arunopanishad*, the
-
-
 
 *Bahorichopanishad*, and the *Bh*â*vanopanishad*. The first four are here published for the first time. The Venkateshvara Press of Bombay has in the volume named Shaktapramoda included Târopanishad which however is a different Upanishad from that which is here published under the same name though it is possible that what is there and here published may belong to one and the same Upanishad. The text of the Arunopanishad here published is a different work from that of the Âruneyopanishad published in the 108 Upanishads of the Nirnayasâgara Press. Therefore these two texts here published under these two names are also published for the first time. The Bhâvanopanishad has been previously printed by the Mysore Government but not the *Prayoga* or practical application of its directions which is now published for the first time. To three Upanishads (Kaula, Bhâvanâ and Tripuramaha) are attached the commentary of the great Bhaskararâya an exponent of Kâdimata. To the Bhavanopanisad and Tripuramahopanishad are also added short commentary by Appaya Dikshita, with the Arunopanishad is given the commentary by Lakshmîdhara. The rest are published without commentary as it has not yet been found possible to secure any.
 
@@ -182,33 +135,23 @@ Yantras, Chakras or other elements of Upâsanâ belong to this Veda alone as app
 
  Commenting on the Riks of the Kaulopanishad which say:—"Even weak argument may be valid" (*Anyâyo nyâyah*) and "Condemn not others" (*Lakán na nindyât*), Bhâskara says that some times it so happens that an objector by reason of his own weakness is not able to state his case rightly. With regard
 
-
-
 to the injunction not to condemn others he says that different Darshanas are of authority for different people according to the path they pursue and their respective Adhikâra. A man who is not an Adhikârî for a particular Darshana should not be initiated therein. It is on this account, says Bhaskararaya, the Lord (Gîtâ III. 26) has said that men are not to weaken the faith of the ignorant in the efficacy of ritualistic observances. This Upanishad is an enquiry (*Jijnâsâ*=*Jnânâya vichârah*) relating to Dharma or Vimarsha Shakti. Vimarsha Shakti is Dharma because she is inherent in theBrahman who is the possessor of Dharma (Dharmî). In thisUpanishad the oneness of Brahman with Vimarsha Shakti and with the universe is established, One of the Riks says Adharma, that is, the Nishkala Brahman is Dharma (*Adharma eva dharmah*). This is the same thing as saying that Shakti or Dharma is not separate from that in which she inheres (Âdhâra) which is here the Brahman.Towards the end of the Upanishad is to be found the injunction against the indiseriminate preaching of Kaula (Kula faith and doctrine). *Kaulapratishthang nakuryát*. This is because it is likely to be, as it often is in fact, misunderstood as by persons who say that the Doctrine teaches and sanctions among others things incest. (See introduction to the Karpârâdi Stotra in this series). The Upanishad ends by saying "Be the equal of all"—(*Sarvasamo bhavet*). "Such an one becomes liberated"—(*Sa mukto bhavati*).
 
  The Bahvrichopanishad which belongs admittedly to the Rig Veda is here printed with a commentary by Appaya Dikshita. This speaks of Sâdividya besides Kâdi and Hâdi. Appaya in his commentary gives the first Kûta of each of the three Vidyâs.
 
  The Tripurâmahopanishad consists of 16 Riks. Bhâskararaya who quotes the eighth Rich in his commentary to the Nityâshodashikârnava Tantra (Ch. I, vv. 118, 119) speaks of it as belonging to the Shaunakashâkhâ of the Atharva Veda and according to the Triplicane text of the commentary on the Kamakalivilisa wherein the same
 
-
-
 Rik has been cited under verse 17, it belongs to the Sangkhyayana Shâkhâ of the Rigveda and contains the Panchadashâksharî Vidya. Bhaskara under verse 8 of the Varîvasyârahasya speaks of it as belonging to the same Shruti. Rik 9 gives the Vagbhava Kûta of the Panchadashikaramantra according to Hâdimata. It may be noted here that both Bhaskararaya who belongs to the Hâdimata and the Commentator on Kâmakala vilasa an adherent of the Hâdimata are agreed as to the authority aud significance of the Rik. In the first Rik the Binduchakra is spoken of as containing within itself the letters A, Ka, Tha, (the A-Ka-Tha triangle) in a subtle state (see A. Avalon's "Serpent Power"). In Rik 2 the first Chakra of one triangle and the second of eight triangles are spoken of. In this way in the first five Riks the Shrîchakra of Tripurasundarî is described. (See Introduction to Tantrarâja and also Kâmakalâvilâsa. Ed: A. Avalon). Rik 6 says all the Devîs spoken of elsewhere are but Tripura. Rik 7 says that by*knowing* Her the Sâdhaka enters this Light of Tripurâ. The fourteenth Rik speaks of the equality in greatness (*Samapradhânatvam*) of the Female (Strî, Shakti) and the Male (Pumân, Shiva) phases in the Universe. Bhaskararaya in his commentary to this Rik cites the well-known verse from Agama which says that Shiva bereft of Kundalinî is no better than a corpse (Shava). Rik 15 speaks of the fruit of Nirguna Dhyana and the way to perform it. Under this Rik Bhaskara, discusses the arguments for and against the use of wine.
 
  The Bhâvonopanishad belongs, as is stated in the body of the Upanishad, to the Kâdimata with which The Tantrarâja (Vol. VIII. Tântrik Texts and Vol. XII and in the Press) fully deals. In Chapter XXXV of that Tantra commonly called the Vâsanâpatala it gives a summary which explains this Upanishad. The first Rik of this Upanishad says that Shakti who is the cause of all (*Sarva-kárana-bhútá Shaktih*) is the adored Guru (*Shriguruh*) as is also stated in the Tantrarâja in Chapter I and also in the Vâsanâpatala. In the Vâmakeshvara
-
-
 
 Tantra (Nityâshodashikâ Ch. VI) the same is affirmed. So the great poet Kâlîdâsa in his Hymn to the Mother (Ambâstotra) speaks of Her as "the very self of the Guru of boundless mercy." (*Sâkshádapârakarunâgurumûrtir eva*). The second Rik says that "Her body consists of nine openings," (*Tena navarandhrarúpo dehah*). The Tantrarâja explains this and says that the ninefold character (*Navatvam*) of Her body (i, e. the body of Vimarsha Shakti) manifests itself (*Avabhâsate*) in the nature of apertures (*Randhrâtvcna*).These nine apertures are the nine Gurus. The two organs of hearing and that of speech are the three gurus of the Divya class. The two organs of vision and that of generation constitute the Siddha class and the two organs of smell and that of excretion the Mânava class. In Rik 3 it is said that the Shrichakra is made up of nine Chakras, and Rik 6 that the body is made up of nine Gurus. In this way the correspondence is shown between the human body and the Shrîchakra. The 10th Rik says that to worship the Shrichakra is to realise the identity of Jnâtâ, Jnana and Jneya.The other Riks speak of the identity of the different parts of the human body with those of the Shrichakra and the Shaktis abiding therein. Rik 27 says "that one's Atmi (*Svátmá*) which is ever Bliss and Whole (*Sadânandapurna*) is the Supreme Devatâ Lalitâ (or Tripurâ)" In Rik 30 it is said that the end or accomplishment (Siddh:) is in the realisation of this unity. *Ananychittatvenacha Siddhih.* Rik 31 says "Homa consists in the dissolution (*Vilapana*) in the Âtmâof all sense of duality as shown in *I*and*Thou, Being and Non-being, Injunction* and *Prohibition*, and the like.(*Aham tvam asti násti kartavyam akartavyam upasitavyam iti vikalpánám átmani vilapanam homah*). The sense of this, says Bhaskararâya, is that all sense of duality should be destroyed and the many Shaktis which are the causes of it should be thought of as if dissolved or absorbed into the Devatâ. Rik 33 declares the oneness of the fifteen Nityâs with the fifteen lunar days.
 
  The Prayoga shows how the Sâdhaka should do the rituals
 
-
-
 with the Riks. The proper (*Svâdhyâyaparâyana*) student of Vedas not merely understands the text but practises it in such a way that he becomes an embodiment of Veda which thus rules him in all his actions leading him ultimately to Liberation which is the final goal of all who belong to the Brahmanik Faith. Thus the first three Riks of the Bhâvanopanishad are those already mentioned (1) *Shri-Guruh sarva-káranabhútáShaktih*. (2) *Tena navarandhrarúpo dehah*. (3) *Navachakrarúpam Shrî-chakram:* The Prayoga is as follows: Do Prânâyâma with the Mûlamantra and do Rishinyâsa and other two Nyâsas prescribed. Then say "obeisance to Shrîguru who is Sushumnâ and Vivekavritti being an*Angsha* of Chit Shakti itself," and touch the Brahmarandhra. Then say "Obeisance to Shrî-Prakâshânandanâtha who is the right ear and Payasvinî (the Nâdî of that name); Obeisance to Shrî-Vimarshânandapâtha who is the left ear and Shangkhinî; Obeisance to Shrî-Ânandanâtha and Sarsvatî. In this way obeisance is to be made to each of the other six Gurus of the Siddha and Mânava classes, mentioning along with the name of each the name of the associated organ and Nâdî and touching the organs named and last of all Vyâpaka Nyâsa should be done saying obeisance to the (Her) body which is the Shrichakra composed of nine Chakras. Bhaskararâya in the Prayoga has given the entire process of which the above is a sample.
 
  As regards the Arunopanishad it is said by some that the whole of the first Prapâthaka of the Taittiriya Âranyaka is the Arunopanishad as it is devoted to Arunâ and Arunaketu. The word Arunâ means "She who is red." Redness ( Lauhityam) is Vimarsha. Red is the colour of Rajas Guna. The Tantrarâja says: "*Lauhityang tadvimarshahsyât*," and the Bhâvanopanishad (Rik 29) says the same. I have here published only that portion of the 27th section of the first Prapâthaka of the Taittiriya Aranyaka which is by all admitted to be the Arunopanishad. There is a commentary to the Taittiriya Âranyaka by Siyanâcharya and
-
-
 
 it, like the generality of his commentary, deals with the surface of things and does not go into the inner significance of the texts commented upon. I have given the lucid commentary of Lakshmîdhara. The Arunopanishad belongs to the Krishna Yajurveda and not to the Atharva Veda. The Upanishad begins with the text: "We now discuss this (the Chakravidyâ) and the Bhuvanas." (See A. Avalon's "Garland of Letters") The speakers are a class of Rishis named Prishnis—the name appears at the end of the Upanishad. Natanânanda cites two of the Riks of this Upanishad in his commentary to the Kâmakalâvilâsa under verse 35 of that book. These two Riks are: *Marîchayah svâyambhuvâh. Ye sharîrâni akalpayan.* Sâyana has made no attempt to state their inner sense. Lakshmîdhara gives a full explanation and shows how on the authority of the Taittirîya Brâhmana and having regard to the context the two Riks refer to the countless rays which emanate from Supreme Self or the Devîand are indicative of Time and the divisions thereof as seen in Creation.
 
@@ -219,8 +162,6 @@ it, like the generality of his commentary, deals with the surface of things and 
 CALCUTTA,  
 *23. July, 1922.                           
      *ARTHUR AVALON,
-
-
 
 **॥श्रीः॥**
 
@@ -243,8 +184,6 @@ CALCUTTA,
  **'शन्नः कौलिकः शन्नो वारुणी शन्नः शुद्धिः शन्नोऽग्निप्रशन्नःसर्वं समभवत्'।** कुलमार्गप्रवर्त्तकः कौलिकः परः शिवः शं विघ्ननिराकरणपूर्व्वकस्वात्मानन्दप्रापको नोऽस्माकं समभवत् भूयात्। वारुणी प्रथमाभिमानिनी महतीदेवता च शन्नो भूयात्। शुद्धिः द्वितीयाभिमानिनीदेवताऽपि शन्नो भूयात्। अग्निस्तेजः, किं बहुना सर्व्वमपि सुखकरं भवतु।
 
  **'नमो ब्रह्मणे, नमः पृथिव्यै, नमोऽद्भ्यो, नमोऽग्नये, नमो वायवे, नमो गुरुभ्यः'**, परब्रह्मणे पृथिव्यादिचतुष्टयदेवताभ्यः परमशिवादिस्वगुरुपर्य्यन्तेभ्यश्च नमः। भूतचतुष्टयमाकाशस्याप्युपलक्षणम्। 'त्वमेव प्रत्यक्षं सैवासि। त्वामेव प्रत्यक्षं तां वदिष्यामि। प्रत्यक्षं ह्यहंप्रत्ययव्याजेन सर्वैरनुभूयमानं ब्रह्म सैव त्वमेवासि त्रिपुरसुन्दरीरूपकौलोपनिषदसि। अत
-
-
 
 **तद्वक्तारमवतु। अवतु माम्। अवतु वक्तारम्। ॐ शान्तिः शान्तिः शान्तिः।**
 
@@ -270,8 +209,6 @@ CALCUTTA,
 
 इति वासिष्ठात्। '**तेषां ज्ञानस्वरूपाः**'। जड़जातं निर्द्दिश्य चेतनजातं
 
-
-
  अधर्म्मकारणाज्ञानमेव ज्ञानम्।प्रपञ्च ईश्वरः। अनित्यं नित्यम्। अज्ञानं ज्ञानम्। अधर्म्मएव धर्म्मः। एष मोक्षः। पञ्च वन्धा ज्ञानस्खरूपाः। पिण्डाज्जननम्। तत्रैव मोक्षः।
 
  एतज्ज्ञानम्। सर्वेन्द्रियाणां नयनं प्रधानम्। धर्म्मविरुद्धाः कार्य्याः।धर्म्मविहिता न कार्य्याः। सर्वं शाम्भवीरूपम्।
@@ -285,8 +222,6 @@ CALCUTTA,
 [^2]: "धर्म्मभवधम्मीति पाठः।"
 
  '**एतज्ज्ञानम्**'। प्रथमं शास्त्रसिद्धान्तमुक्त्वाज्ञाननिष्कर्षमाह—एतत् बक्ष्यमाणं ज्ञानसर्व्वस्वम्। '**सर्वेन्द्रियाणां नयनं प्रधानम्**'। ब्रह्म प्रति नयेत्। षड्भिरपोन्द्रियैर्जन्येषु प्रत्यात्मकज्ञानेषु अहमिदं जानामि' इत्यादिप्रकारकेषु
-
-
 
  आम्नाया न विद्यन्ते। गुरुरेकः। सर्वैक्यताबुद्धिमन्ते। आमन्त्रसिद्धेः। मदादिस्त्याज्यः।
 
@@ -303,8 +238,6 @@ CALCUTTA,
 
 इति कुलार्णवोक्तनिषेधस्येयं श्रुतिर्मूलम्। लब्ध्वेत्युक्त्यैव 'कौलिके गुरवोऽनन्ता' इति शक्तिरहस्यं तादृशगुरोरलाभाभिप्रायम्। '**सर्वैक्यताबुद्धिमन्ते**'। ऐक्यमिति स्वार्थे ष्यञ्। एवंरीत्या वर्त्तमानः साधकोऽप्यन्तकालेऽप्यद्वैतबुद्धिमेव
 
-
-
  प्राकट्यं न कुर्य्यात्। न कुर्य्यात्पशुसम्भाषणम्। अन्यायो न्यायः।
 
 ———————————————————————————————————————————
@@ -312,8 +245,6 @@ CALCUTTA,
 लभते। '**आमन्त्रसिद्धेः**'। अधिकारोऽयम्। इत आरभ्यमन्त्रसिद्धिपूर्व्वकाले ये नियमानुष्ठेयास्ते धर्म्माः कथ्यन्त इत्यर्थः। तेन वक्ष्यमाणेष्वेकस्याप्यनादरे सिद्धिहानिरेवेति भावः। '**मदादिस्त्याज्यः**'। मादकद्रव्यसेवनजन्यो विकार विशेषो मदः। विकारान्तराण्यादिपदग्राह्याणि। अरिषड्वर्गश्च सन्त्याज्य एव। मन्त्रसिद्ध्यत्तरन्तु स्वत एव कामक्रोधादयो न प्रसरन्ति। विकारविशेषास्तु पूर्व्वमेवाभ्यनुज्ञाताः। तथाच 'यावन्न चलते दृष्टिः' 'आगलान्तं पिवेद्रव्यम्' इति वचनयोर्मन्त्रसाधकसिद्धमन्त्रपरत्वेन व्यवस्थासिद्धेरविरोधः।
 
  '**प्राकट्यं न कुय्यात्**'। स्वकीयमन्त्रदीक्षोपास्तिरहिता धर्म्मान्तरेष्वत्यन्तादरशीलाः स्वोयमन्त्रोपासकाभासाञ्च सर्वेऽपि बहिर्मुखास्तर्यथान्यायमेतदुपासक इति न ज्ञायेत तथोपास्ति गोपयेत्। इदञ्च दीक्षान्तरेष्वपि तुल्यम्। नैनमदीक्षिता व्रतयन्तं पश्यन्ति इत्यादितत्तत्प्रकरणगतवचनात्। यद्यप्यस्या दीक्षाया वेदेष्वारण्यककाण्डे विहितत्वादेव रहस्यता सिद्धा क्रत्वङ्गप्रवर्ग्यादिवत्, तथाऽपि पुनः कण्ठरवेण तद्विधानं रहस्यान्तरेभ्यो वैलक्षण्यार्थम्। धर्ममान्तरेषु रहस्यभङ्गे क्रतुवैगुण्यमात्रमिह तु तथात्वे नरक एवेति। तथाच भगवान्परशुरामः— 'प्राकट्यान्निरयः' इति। '**न कुर्य्यात्पशुसम्भाषणम्**'। बहिर्मुखाः सर्वेऽपि पशवो विद्याहीनत्वात्, एतदुपास्तेरेव विद्यात्वात्। 'न शिल्पादिज्ञानयुक्ते विद्वच्छन्दः प्रयुज्यते इत्यादिवचनात्। तैस्महसम्यक् स्वहृदयज्ञापनपर्य्यन्तं भाषणं न कार्य्यम्, तेनापातभाषणस्य न निषेधः। '**अन्यायो न्यायः**'। यदि कश्चि द्वावदूकः पूर्व्वोत्तरमौमांसान्यायैः कौलिकाचारं दूषयेत्तथापि न मनागपि कोपः कार्य्य इत्याशयेनाह—अन्याय इति। अल्पार्थो नञ्। अल्पबलो न्यायःपूर्व्वपक्षन्याय इति यावत्। सोऽपि न्याय एव। न हि पूर्व्वपक्षोऽपि न्यायोपन्यासमन्तरेण प्रवर्त्तते। अतस्तादृशन्यायसिद्धोऽपि न्याय्य एवायं पन्याः। न चैवं सति सिद्धान्तन्यायेनापवादात्कथमाश्वासः। सिद्धान्तानामृषिभेदेन बहुविधत्वेन तदभिमानिभिस्तथा तथोपपादनस्य परस्परविरुद्धस्य पूर्वोक्ततन्त्रस्थदेवताधिकरणादिषु बहुशो दर्शनात्। वादिनो दौर्वल्यंन तु न्यायस्येति भावः। 'तर्काप्रतिष्ठानाद्' इति भगवान्वप्रासः।
-
-
 
  न गणयेत्कमपि। आत्मरहस्यं न वदेत्। शिष्याय वदेत्। अन्तः शाक्तः। बहिः शैवः। लोके वैष्णवः। अयमेवाचारः। आत्मज्ञानान्मोक्षः।
 
@@ -331,8 +262,6 @@ CALCUTTA,
 
 इत्यादिवचनैर्विष्णुस्वरूपस्य परशिवावरोधत्रिपुरसुन्दरोप्रकटरूपान्तरात्मकतया सभासु विष्णुनामाम्रेडनादिना विष्णूपास्तिमेव प्रकटयेद् इति सूत्रत्रयार्थः। अत एव विष्णुशिवशक्तीनामुत्तरोत्तरफलाधिकयमुत्तरोत्तररहस्याभिप्रायेणोक्तं रहस्यनामसाहस्रे। '**अयमेवाचारः**'। सन्त्यन्येऽपि कौलिकानामाचारास्तन्त्रेषु विहितास्तेषां सर्वेषां मध्ये प्राकट्याभावरूपाचार एवातीव मुख्य इत्यर्थः। '**आत्मज्ञानान्मोक्षः**'। कर्म्मवेदेऽतोवाचार एवासक्तस्मन्नात्मानुसन्धाने न प्रमाद्येत, अपि तूभयमपि सम्यगनुतिष्ठेतेति द्योतनायेह पुनः स्मारणम्।
 
-
-
  लोकान्न निन्द्यात्। इत्यध्यात्मम्। व्रतं न चरेत्। न तिष्ठेन्नियमेन। नियमान्न मोक्षः। कौलप्रतिष्ठां न कुर्य्यात्।
 
  सर्वसमो भवेत्। स मुक्तो भवति।
@@ -346,8 +275,6 @@ CALCUTTA,
 इति भगवान् कृष्णः। सर्व्वदर्शनानिन्दनमिति भार्गवरामश्च। '**इत्यध्यात्मम्**'। सर्व्वदर्शनानिन्दनं क्वोपयुज्यत इत्याशङ्कायामाह परेषां छिन्नाभ्रवन्नाशापेक्षया स्वस्य सर्व्वात्मभावे न्यूनतापत्तेरयमाचारोऽप्यात्मज्ञान एवोपकुरुत इत्यर्थः। '**व्रतं न चरेत्**'। पुरुषार्थरूपाणि व्रतानि नाचरेत्, तैः प्राप्यस्यार्थस्येतोऽप्यधिकस्याभावात्।यानि वर्णाश्रमधर्म्मरूपाणि पुरुषार्थसाधकत्वेन प्राप्तानि प्राप्तानां नित्यनैमित्तिकानामङ्गत्वेन प्राप्तानि दर्शपूर्णमासाद्यङ्गभूतानि क्रत्वर्थव्रतानि तानि तु कार्य्याण्येव नित्यनैमित्तिकानां त्यागाविधानात्। '**न तिष्ठेन्नियमेन**'। तस्यैवेदं विवरणम्। नियमनस्य निर्बन्धनरूपत्वेनात्मानुसन्धानविरोधित्वात्। '**नियमान्न मोक्षः**'। आत्मानुसन्धानाभावादेव मोक्षे विलम्वापत्तेरिति हेत्वर्थः। '**कौलप्रतिष्ठां न कुय्यात्**'। यदि कश्चिन्यायोपन्यासनिपुणः कौलं सन्यायैरेव स्थापयितुं क्षमेत सोऽपि नेमं मा प्रतिष्ठापयेत्, प्राकट्यभङ्गापत्तेः। अतएवैतच्छास्त्रविषये ग्रन्थकारस्यापि कौलप्रतिष्ठारूपत्वेन तत्रापि निषेधप्रवृत्त्या साम्प्रदायिकानां कतिपयांशानामप्रकटनाय गुरुमुखादेव ज्ञेयमिति तत्र तत्र लेखः सङ्गच्छते।
 
  ‘**सर्वसमो भवेत्**'। एतच्छास्त्रेष्वेवाचारान्निष्कृष्य विधत्ते प्राणिमात्रे स्थावरमात्रे वा समो भूयात् अनन्यभावेन वर्त्तेत। अतएव विष्णुभागवते 'खं वायुमग्निं सलिलं महीं च' इत्यादि। **‘स मुक्तो भवति'।** स एव सद्यो मुच्यते तादृशविषधौरेयात्। ईषन्नानास्तु शनैश्शनैर्मुच्यन्त एवेति भावः।
-
-
 
 **पठेदेतानि सूत्राणि प्रातरुत्थाय देशिकः।  
 आज्ञासिद्धिर्भवेत्तस्य इत्याज्ञा पारमेश्वरी॥  
@@ -374,8 +301,6 @@ CALCUTTA,
 कौलोपनिषद्भाष्यं समाप्तम्।**
 
 **—————**
-
-
 
 श्रीः।
 
@@ -419,8 +344,6 @@ CALCUTTA,
 
 [^10]: "शक्तिरित्यधिकम्।"
 
-
-
 वशादनाश्वास आस्तिकता च, ते पूर्व्वकाण्डोक्तकर्म्मखेवाधिकारिणो न देवतोपासनायाम्। तादृशजनाभिप्रायेणैव देवतानां विग्रहादिपञ्चक निरासेन[^11]कर्म्मप्राधान्यवादः[^12]समर्थितो जैमिन्यादिभिः। अत एव तादृशकर्म्मठानामेव कर्मपरिपाकवशात्कतिपयानां शिवशक्तिपूजायां प्रवृत्तौ सत्यां मीमांसकमतपरित्यागप्रयुक्त उपहासो वृत्तौ[^13]वर्णितो मृगेन्द्रसंहितायाम्। ये तु देवतोपासकास्तैरपि विग्रहादिपञ्चकापह्नवाभिप्रायरहस्यं जानानैरपि कर्म्मप्राधान्यवादो न निरसनोयः।तथा[^14]त्वे तादृशकम्मैठानां चित्तपरिपाकविशेषमन्तरेण समर्थ्यमानार्येविश्वासानुदयात्। निरसनयुक्तिभिस्तदवलम्बितार्थे सन्देहोदये तु[^15]तेषामुभयभ्रष्टतापत्तेः। अत एव तेषां संरक्षणार्थमेवोपासकैरपि तानि कर्माणि तद्ददेव सविश्वासमिव कार्य्यास्येव। एतदभिप्रायेणैव—
 
 [^11]: " निरासनेनेति पाठः।"
@@ -457,8 +380,6 @@ CALCUTTA,
 
 [^23]: "पुरुष इति पु० नास्ति।"
 
-
-
 **तिस्रः पुरस्त्रिपथा विश्वचर्षणीअत्राकथा अक्षरा सन्निविष्टा।  
 अधिष्ठायैना[^24]मजरा पुराणीमहत्तरा महिमा देवतानाम्॥१॥**
 
@@ -493,8 +414,6 @@ CALCUTTA,
 
 इत्यनेन पञ्चविधात्मत्रिविधभजनेनापि त्रैपुरप्राप्तेरुक्तत्वात्। तस्मात्सैव तिस्रः पुरः
 
-
-
 **त्रिपुरा।**त्रयः पन्थानो यस्यास्सा। तत्पुरुषानङ्गीकारादेव “पथः संख्याव्ययादेः” इति नपुंसकत्वं न। चर्षणोशब्दो वैदिकनिघण्टुरीत्या प्रजावाचकः[^28]। विश्वाः समस्ताश्चर्षण्यः प्रजा[^29]यस्यां सा **विश्वचर्षणी**देव्येव। समस्तप्राण्युत्पादिकेति यावत्। विश्वदृष्टिर्वा[^30]। इदमत्र बोध्यम्—“तदैक्षत बहु स्यां प्रजायेयेति” श्रुतिसिद्धयद् ब्रह्मणःप्राथमिकमीक्षणं तदेव सर्व्वजनक[^31]तदेवेच्छारूपं कृतिरूपं च। “सोऽकामयत, तपोऽकुरुत” इति श्रुत्यन्तरात्। "स्वाभाविको ज्ञानबलक्रिया च" इनि श्रुत्याऽप्येकैव ब्रह्माभिन्ना प्राथमिकीवृत्तिर्ज्ञानेच्छाकृतिरूपेति प्रतिपाद्यते। सा वृत्तिरेवेच्छान्ज्ञानक्रियासमष्टिरूपत्वाच्छान्ते[^32]त्युच्यते, पश्यन्तीमध्यमावैखरीसमष्टिरूपत्वात्परेत्युच्यते, वामाज्येष्ठाराैद्रीसमष्टिरूपत्वादम्बिकेत्युच्यते। सा शान्तात्मिका देवतैव श्रोचक्रस्थं बिन्दुचक्रम्। तदुक्तं नित्याहृदये परब्रह्म प्रक्रम्य—
 
 [^28]: " पूजावाचक इति पाठः।"
@@ -528,8 +447,6 @@ CALCUTTA,
 इति वचनात्। लकारस्तु लकारान्न भिद्यते। क्षकारस्तु कषसंयोग[^35]रूप एव
 
 [^35]: "सम्पर्क इति पाठः।"
-
-
 
 न स्वतन्त्रः। तेनाष्टाचत्वारिंशदेव मातृकाः[^36]। एत एव मातृकाः।तथा च सूतसंहितायाम्—
 
@@ -568,8 +485,6 @@ CALCUTTA,
 
 [^44]: "भवतीत्यधिकं पुस्तकान्तरे।"
 
-
-
 **नवयोनीर्नव चक्राणि दीधिरे नवैव योगा नव योगिनीश्च।  
 नवानां चक्रे अधिनाथाः स्योना नव मुद्रा नव भद्रा महीनाम्॥२॥**
 
@@ -597,8 +512,6 @@ CALCUTTA,
 
 [^47]: " चकं मिध्यति इति पाठः।"
 
-
-
 **एका सा आसीत्प्रथमा सा नवासीदासोनविंशदासानत्रिंशत्॥  
 चत्वारिंशदय[^48]तिस्रः समिधा उशतीरिव मातरो मा विशन्तु॥३॥**
 
@@ -609,7 +522,6 @@ CALCUTTA,
 चक्राणामिह सत्त्वादेव तत्रत्यप्रकटादियोगिनोनवकमपि कोणात्मनेहैव तिष्ठतीति भावः।
 
 **देशकालानवच्छिन्नं तदूर्द्धं परमं महः।**
-
 
 इत्यादिव्यवहाराद्देशाद्यवच्छिन्नो[^49]बिन्दुचक्रादिप्रपञ्चो ब्रह्मणोऽधोऽधस्तिष्ठतीति लभ्यते। एतन्मूलक एव श्रीचक्रस्य मेरुप्रस्तारोऽपि। तेनैकस्मिंञ्चक्रे भूपुरादिविन्द्दन्ता उपर्य्युपरि नव भूमिकाः, तामामधिपतयोऽपि त्रिपुराचक्रेश्वर्य्यादिनामानो नवैव। ता अपि नवयोनिष्वेव सूक्ष्मरूपेण क्रमेण तिष्ठन्तोत्याह चक्रे नवानां महोनामधिनाथा अपि कर्त्यो नवयोनोर्दीधिरे इति[^50]। स्योना इति चक्रेश्वरीविशेषणम्, सुखहेतुभूता इत्यर्थः। नवमुद्राः सङ्घोभिण्यादियोन्यन्ता अपि इहैव स्थिताः। नवभद्रास्तु तन्त्रेविवृताः—
 
@@ -635,8 +547,6 @@ CALCUTTA,
 [^48]: "दधीति पाठः।"
 
 आभ्यो नवयोनिभ्यःसूक्ष्मभूतानि पञ्च स्थूलभूतानि पञ्चेति भूतदशकमभवत्।
-
-
 
 **ऊर्ध्वज्वलज्ज्वलनज्योतिरग्रेतमो वै तिरश्चीनमजरं तद्रजोऽभूत्॥  
 आनन्दनं मोदनं ज्योतिरिन्दोरेता उ वै मण्डला[^53]\* मण्डयन्ति॥४॥**
@@ -665,8 +575,6 @@ CALCUTTA,
 आनन्दनं मोदनं ज्योतिरिन्दोरेता उ वै मण्डला मण्डलयन्ति”॥४॥**
 
  चतुर्दशारमधोऽधो हि द्वे चक्रे अष्टदलषोड़शदलपद्मात्मके वर्त्तते तथोर्द्धे
-
-
 
 **तिस्रश्च[^57]\* रेखाः सदनानि भूमेस्त्रिविष्टपास्त्रिगुणास्त्रिप्रकाशाः।  
 एतत् पुरं पूरकं पूरकाणामत्र प्रथेते मदनो मदन्या॥५॥**
@@ -708,8 +616,6 @@ CALCUTTA,
 
 [^67]: "क्षेमेणेति पाठः।"
 
-
-
 **मदन्तिका मानिनी मङ्गला च सुभगा च सा सुन्दरीशुद्धमत्ता\*[^68]।  
 लज्जा मतिस्तुष्टिरिष्टा च पुष्टा लक्ष्मीरुमा ललिता लालपन्ती॥६॥**
 
@@ -735,8 +641,6 @@ CALCUTTA,
 
  पद्मपुराणे देवीतीर्थपरिगणनावसरे कतिपयानि रूपाण्युक्तानि—
 
-
-
 **इमां विज्ञाय सुधया मदन्ति परिस्रुता तर्पयन्तः स्वपीठम्।  
 नाकस्य पृष्ठे महतो वसन्ति परन्धाम त्रैपुरं चाविशन्ति॥७॥**
 
@@ -761,8 +665,6 @@ CALCUTTA,
 
 इति रुद्रयामलञ्च। महानाकपृष्ठवासस्त्रिविधपुरुषार्थफलोपलक्षकः। त्रिपुरायाः परं धाम तु मुक्तोपसर्तव्यं स्वरूपम्, तेन मोक्ष उच्यते। सर्वान् कामान्मोक्षं चाप्नुवन्तीति भावः।
 
-
-
 **'एवं सर्व्वगता शक्तिः सा ब्रह्मेति विविच्यते॥  
 सगुणा निर्गुणा चेति द्विविधोक्ता मनीषिभिः॥  
 सगुणा रागिभिः पूज्या निर्गुणा तु विरागिभिः॥  
@@ -776,8 +678,6 @@ CALCUTTA,
 **'कुलदीक्षाविहीनानां नाधिकारो द्विजन्मनाम्।**
 
 इति समयाचारस्मृतिरुपपद्यते। इह 'तर्पयन्त' इति शतृप्रत्ययेन बहिर्यागविधौ वक्ष्यमाणे (१२ ऋचि ) 'निवेदयन्, स्वात्मीकृत्य' इति च शतृल्यप्प्रत्ययाभ्यां देवतानिवेदनस्वात्मोकरणयोः समानकालत्वकथनाद् दिव्यपानविधावेव श्रुतेः स्वारस्यम्, न वीरपानविधौ। तेन—
-
-
 
 **कामो योनिः कमला वज्रापाणिर्गुहा हसा मातरिश्वाऽभ्रमिन्द्रः॥  
 पुनर्गुहा सकला मायया च पुरुच्येषा विश्वमाताऽऽदिविद्या॥८॥**
@@ -812,8 +712,6 @@ CALCUTTA,
 
 [^73]: " मारकमिति पाठः।"
 
-
-
 **षष्ठंसप्तममथ वह्निसारथिमस्या मूलत्रिकमावेशयन्तः॥  
 कथ्यं कविं कल्पकं काममीशं तुष्टुवांसो अमृतत्वं भजन्ते॥६॥**
 
@@ -847,8 +745,6 @@ CALCUTTA,
 
 'विद्याद्वयमिदं भद्रे देवानामपि दुर्लभम्'।
 
-
-
 **त्रिविष्टपं त्रिमुखं विश्वमातुर्नवरेखाःस्वरमध्यं तदीले।  
 बृहत्तिथीर्दशपञ्चादिनित्या सा षोड़शी पुरमध्यं विभर्त्ति॥१०॥**
 
@@ -868,7 +764,6 @@ CALCUTTA,
 
  वस्तुत उपास्तित्रयस्य समप्राधान्यमेव विधित्रयेऽपि फलश्रवणेनान्यतमस्य प्रकरणित्वकल्पने विनिगमनाविरहात्। आग्नेयादिषट्कस्येव मिलितानामेव च फलजनकत्वम्।
 
-
 **अन्तर्यागवहिर्यागौ गृहस्थः सर्व्वदाऽऽचरेत्॥  
 चक्रराजार्चनं विद्याजपो नाम्नाञ्च कोर्तनम्॥  
 भक्तस्य क्कृत्यमेतावदन्यदभ्युदयं विदुः॥**
@@ -876,8 +771,6 @@ CALCUTTA,
 इत्यादिवचनात्।
 
  अधिकारिविशेषेण तु केवलान्तर्यागजपयोः फलजनकत्वन्तु वचनात्। असीमयाजिनोऽग्नीषोमीयपुरोडाशसाहित्याभावेऽपि फलसिद्धिवदित्यादिक' न्यायविह्निरूह्यम् ॥८॥
-
-
 
  अथ स्थूलोपास्तिविधित्सया मूलदेवताया अन्तरगुणत्वेन चिन्तिताया बहि श्चक्रे स्थापनाय स्थूलविशेषं निर्देष्टुं दशमीमृचमाह—
 
@@ -898,8 +791,6 @@ CALCUTTA,
 दर्शाद्याःपूर्णिमान्ताथ कलाः पञ्चदशैव तु।
 
 इत्यादिनां तन्त्रेनिर्दिष्टः, 'दर्शा दृष्टा दर्शता' ( तै० ब्रा० ३,१०, १ ) इत्यादिना तैत्तिरीयैराम्नाताश्च। एतासां कारणभूता वृद्धिक्षयशून्या सदाख्या षोड़शो कला, सा च पञ्चदशानां नित्यानां कारणत्वादादिनित्योच्यते। सा पूर्वं वर्णिता त्रिपुरसुन्दरो आदित्यस्वरूपा सतो पुरस्य श्रीचक्रस्य मध्यं विसर्गस्वरस्थानं बिभर्त्ति
-
-
 
 **द्वामण्डला हा स्तना विम्बमेकं मुखं चाधस्त्रीणि गुहा सदनानि।  
 कामींकलां काम्यरूपां विदित्वा नरो जायते कामरूपश्च काम्यः॥११**
@@ -931,9 +822,6 @@ CALCUTTA,
 
 [^83]: "व्याख्यामुङ्गादिति पाठः।"
 
-
-
-
 **परिस्रुतं झषमाद्यं पलं च भक्तानि योनीःमुपरिष्कृतानि।  
 निवेदयन्देवतायै महत्यै स्वात्मीकृत्य सुकृतीसिद्धिमेति॥१२॥**
 
@@ -961,8 +849,6 @@ CALCUTTA,
 
 [^84]: "आद्यमत्तुमर्ह तेन गजव्याघ्रादीनां मांसानामन्येषां स्मृतिविरुद्धानां निरासः इति केचित्।"
 
-
-
 **मृण्येव सितया विश्वचर्षणिः पाशेन प्रतिबध्नात्यभीकान्।  
 इषुभिः पञ्चभिर्धनुषा च विध्यत्यादिशक्तिररुणा विश्वजन्या॥१३॥**
 
@@ -976,8 +862,6 @@ CALCUTTA,
 इषुभिः पञ्चभिर्धनुषा च विध्यत्यादिशक्तिररुणा विश्वजन्या॥१३॥**
 
 **सृण्येव सितयेति** इत्थंभूतलक्षणे तृतीया। **सितया**श्वेतया रजतमय्या सशयोरभेदान्निशितया तीक्ष्णधारया वा **सृण्यां**ऽकुशेनेवोपलचिता **विश्वजन्या**विश्वंजन्यं यस्याः सा विश्वजगज्जननी **अरुणा** लौहित्यवतो **आदिशक्ति**र्महात्रिपुरसुन्दरी **विश्वचर्षणिः** प्राणिमात्रस्यशुभाशुभकर्मद्रष्ट्री सती**अभीकान्** कामुकान् तृष्णया लील्येनेह मार्गे प्रवर्तमानान् भ्रष्टान्**प्रतिबध्नाति** तान् बध्वा **धनुषा पञ्चभिरिषुभि**र्वाणैर्विध्यति च।
-
-
 
 **भगः शक्तिर्भगवान् काम ईश उभा दाताराविह सौभगानाम्।  
 समप्रधानौ समसत्त्वौ समातयोः समशक्तिरजरा विश्वयोनिः॥१४॥**
@@ -1004,8 +888,6 @@ CALCUTTA,
 
 इत्यादिस्मृतिष्वोशस्य शरीरघटको यावान् धर्मराशिः स सर्वोऽपि भगपदेनेह निर्दिष्टः। तादृशो धर्मसमूह एव शक्तिरित्युच्यते। उपास्यत्वेन वर्णितायाः स्त्रीरूपाया देवताया इदं स्वरूपम्। तदुक्तं नागानन्दसूत्रे प्रकाशात्मनो ब्रह्मणः स्वभावात्मकविमर्शं प्रक्रम्य 'एष एव विमर्शश्चितिश्चैतन्यमात्मा स्वरसोदिता परा वाक् स्वातन्त्र्यम् परमात्मोन्मख्यमैश्वर्य्यं सतत्त्वंसत्ता स्फुरत्ता सारो मातृका मालिनीहृदयमूर्मिः स्वसंवित्स्पन्द इत्यादिशब्दैरागमैरुद्वोष्यते' इति। एतेषां धर्मविशेषाणां विवरणं तद्भाष्य एव द्रष्टव्यम्। **भगवान्** तादृशधर्मविशिष्ट एव **काम ईशः** कामेश्वरः इदमेवोपासादेवतायाः पुमात्मकं रूपम्। **इहो**पासनायां **सौभगानां** धर्मार्थकामरूपाणां विविधफलानां **दातारा**वुभावपि
 
-
-
 **परिस्रुता हविषा पावितेन प्र संकोचे गलिते वै मनस्तः।  
 सर्वः सर्वस्य जगतो विधाता धर्ता हर्ता विश्वरूपत्वमेति॥१५॥**
 
@@ -1029,8 +911,6 @@ CALCUTTA,
 
  एवं सगुणध्यानमुक्त्वानिर्गुणध्याने वक्तव्यांशाभावात्तज्जन्यफल' तज्जननप्रणालिकां चोपदेष्टुं पञ्चदशीभृचमाह—
 
-
-
 **परिस्रुता हविषा पावितेन प्र संकोचे गलिते वै मनस्तः।  
 सर्वः सर्वस्य जगतो विधाता धर्ता हर्ता विश्वरूपत्वमेति॥१५॥**
 
@@ -1051,8 +931,6 @@ CALCUTTA,
 सौत्रामण्यां कुलाचारे मदिरां ब्राह्मणः पिबेत्॥  
 अन्यत्र ब्राह्मणः पीत्वा प्रायश्चित्तं समाचरेत्।**
 
-
-
 इत्यादि। परन्तु—
 
 **परं प्राणाः प्रगच्छन्तु ब्राह्मणो नार्पयेत्सुराम्।  
@@ -1066,8 +944,6 @@ CALCUTTA,
 गायन्ति गायका मत्ता मत्ता ध्यायन्ति कोपनः॥**
 
 इति। तेन योगिविशेषो ऽप्येतत्सहायत्वेनाक्षिप्तः। सर्वात्मकत्वमेव विवृणोति**सर्वस्य जगतो विधाता** ब्रह्मा **भर्ता** विष्णु**र्हर्ता** रुद्रः स एव। किं बहुनादासदाशकितवादिप्राणिमात्ररूपः स एव भवतीत्याह—**विश्वरूपत्वमेति।**शरीरपातस्तु प्रारब्धवशाद् यदा कदाऽपि यत्र क्वापि भवतु न तावता ऽस्य कोऽपि विशेषः कृतकृत्यत्वादिति भावः। उक्त च कल्पसूत्रे—'इत्थंविदित्वा विधिवदनुष्ठितवतः कुलनिष्ठस्यसर्वतः कृतकृत्यता शरीरत्यागे श्वपचग्रहकाण्यो र्नान्तरं स जीवन्मुक्तं इति॥१५॥
-
-
 
 **इयं महोपनिषत्त्रिपुराया यामक्षरं परमे गोर्भिरीट्टे।  
 एषग्यजुः परमेतच्च सामेवायमथर्वेयमन्या च विद्यो३म्॥१६॥**
@@ -1090,8 +966,6 @@ CALCUTTA,
 
  इतिवचनात्। एकारे ऽपि अ + ई इतिच्छेदो वा। "अकारो वै सर्वा वाक्"। "यदीं शृणोत्यलकं शृणोति" इति श्रुतेः। चरम ओंकारो वा
 
-
-
 अक्षरे विशेष्यत्वेनान्वेति। स गीर्भिरकारोकारमकारैः परमो ऽखण्डोऽपि यां स्तौतीत्यर्थः। “समस्तं व्यस्तं वा शरणद गृणात्योमिति पदम्” इति शिवरहस्ये स्मरणात्। “स्वाध्यायो ऽध्येतव्य" इति विधिविहितविविधाध्ययनान्धप्येतदध्ययनेनैव सिध्यन्तीत्याह—**एषेति।** ऋगादिशब्दा वेदपरा न त्वेकैकमन्त्रपरा अथर्वादिप्रायपाठात्। एषाएतदयमितिशब्दा ऋग्यजुराथर्वणां विशेष्यत्वाभिप्रायेण साम्नो ध्वनिरूपत्वेनानक्षरत्वादिवेतिपदेन अक्षरेषु तत्तुल्यफलकत्वद्योतनम्। अष्टादशविद्यासु चतुर्ष्णामुपादानादन्यपदेन उपदेशाद्याचतुर्दश गृह्यन्ते। सर्वस्वरूपेयमुपनिषदित्यर्थः। प्रणवस्वरूपाऽप्येषैवेत्याह—**ओमि**ति। 'ओमाङोश्च' इति पररूपम्। तेन यतिभिरप्यध्येतव्येति भावः। इयमुपनिषदेतादृशीत्येवं यो ह्येतस्या महिमा तं श्रुतिरपि वक्तुमसमर्था। तस्या ब्रह्मैकरूपत्वात् तत्र वाचामप्रवृत्तेरित्याशयेन श्रुत्या मौनमास्थितम्। **इत्युपनिषद्** समाप्तेत्यर्थः। इतोऽधिकस्य रहस्यस्य वक्तव्यांशस्याभावाद् इति भावः॥
 
 इति श्रीभास्कररायेणाग्निचिता त्रिपुरामहोपनिषदो ऽर्थाः प्रकटयितुमयोग्या  
@@ -1099,35 +973,23 @@ CALCUTTA,
 
 इति भास्कररायक्कृतं त्रिपुरामहोपनिषद्भाष्यं सम्पूर्णम्॥
 
-
 ॥ शुभम् ॥
-
-
 
 **सुन्दराचार्यशिष्याप्पय्यदीक्षितकृतं महोपनिषद्भाष्यम्।**
 
-
-
 श्रीरस्तु। श्रीरामकृष्णाभ्यां नमः। त्रिपुरोपनिषद्भाष्यम्।
-
 
 **ब्राह्मणानां तु या पारायणमात्रोपयोगिनी।  
 त्रिपुरोपनिषत्सेयं सम्यग्याख्यास्यतेऽधुना॥१॥**
 
-
 अस्यास्त्रिपुरोपनिषदस्मकामक्षत्रियकर्तृककौलशाक्तमार्गानुसारिबाह्याराधनस्यैव प्राधान्येन वर्णनाद् ब्राह्मणकर्तृंकपारायणमात्रोपयुक्तता स्यात्। यथा च वेदोक्ताश्वमेधप्रकरणानां ब्राह्मणपारायणमात्रयोग्यता ऽस्ति तद्वत्। कुतः ? सुरापानादीनामत्र विहितत्वात्। 'ब्राह्मणो न सुरां पिबेद'। 'न कलञ्जंभक्षयेद्' इति सुरापानादेस्सुतरां प्रतिषिद्धत्वाच्च। क्षत्रियस्य तु देवीप्रसादबुद्ध्या तत्पानपूर्वकयुद्धादिप्रवृत्त्यौचित्यान्न क्वचिदपि तत्प्रतिषेधः स्यात्। गुरुज्ञानवासिष्ठोपासनाकाण्डे चेदृशी बाह्यशक्तिपूजा तन्त्रानुसारिणी सर्वथा ब्राह्मणानर्हाक्षत्रियमात्रार्हेति च बहुशो ऽभिहिता ऽस्ति। नच क्षत्रिया इव सुरापानादिभिरनिन्द्या इतरवर्णिनः संकरा वा ऽस्यामुपासनायामर्हन्तीति वाच्यम्। तेषां वेदाधिकारस्य सर्वत्र प्रतिषिद्धत्वात्। नापि ब्राह्मणानां सौत्रामण्यां वाजपेयपौण्डरीकादिषु च यागेषु मधुमांसस्त्रोविषयभोगादिविधानवदत्रापि अधिकारो ऽनवद्यः स्यादिति शङ्क्यम्। यद्घ्राणभक्ष इतिभागवते तत्तदाघ्राणमात्रस्य विहितत्वेन तत्तद्भक्षणस्याविहितत्वात्। नच सद्यो मदाभावेन कर्मलोपाभावे ऽप्याघ्राणजनितं पापं तेषां भवतीति शङ्क्यम्। श्रुतिपुराणविहितत्वधिया क्रियमाणत्वेन पापाप्रसक्तेः। निष्कामस्य तु इदमुपासनं तानि कर्माणि च सर्वथाऽननुष्ठेयान्येव। 'आसु निवृत्तिरिष्टा' इति भागवतावधारितत्वात्। नन्विह परिसुतादीनि महत्यै देवतायै निवेदयन्सुक्कृत्येव सिद्धिमेतीत्युक्तं नतु तत्पानादिकर्तेति। नायं दोषः। स्वोपास्यदेवतायै निवेदितानां सर्वेषां पदार्थानां यथोपयोगमुपासकैः प्रसादबुद्ध्यापरिग्राहयत्वोपपत्तेः। तथा लोकप्रसिद्धेश्व। यद्वा'परिस्रुता तर्पयन्तःस्वपीठमि'त्यत्र स्वपीठं कामपीठं मूलाधारात्मकं प्रसिद्धम्। तस्य तर्पणं पानेनैव भवितुमर्हति। नच स्वात्मीक्कृत्येत्येष शब्द उपासकस्य स्वोपभोगार्थको भवितुमर्हति। स्वात्मार्थं करोतीतिक्कृत् तस्यै देवताये इतिदेवताविशेषणत्वात्। ननु भगवान् विष्णुः कामेशः परशिवस्तयोःशक्तिरजरा विश्वमायेत्यर्थः। मा विश्वमातेत्यादिविद्येति
-
-
 
 चाभिधीयमानत्वात्तुष्टुवांसस्तुवन्तो ऽमृतत्वं भजन्त इति मोक्षप्राप्त्यभिधानाच्च न केवलंकाव्यप्रयोजनत्वमस्या इति वाच्यमिति चेन्न। परिस्स्रुता हविषा पावितेनेत्युक्त्या पूर्ववत्सकामोपास्याया एव देवताया अभिधोयमानत्वान्न मोक्षप्रयोजनता वाच्या। यद्वा मोक्षप्रयोजनवर्जितायाः कस्याश्चिदप्युपनिषदस्सत्त्वानुपपत्तेरियंचोपनिषदुपसंहारवाक्यैःसगुण निर्गुणोभयब्रह्मविद्यापराऽवगन्तव्या। तथाह्येषर्ग्यजुरित्यादिषु चतुर्वेदमयो सगुणब्रह्ममयो अन्याच विद्येति निर्गुणब्रह्ममयी चाभिधीयते। तस्मात्कृच्छ्रेण निर्गुणब्रह्मपरतामवगम्य शुद्धाचाराः सद्ब्राह्मणाः श्रुत्यन्तरोक्तप्रकारकध्यानसमाधियोग्योपायाः संसारबन्धेभ्यो मुक्तिं यान्तु। नत्वत्रोक्तप्रकारकपरिस्रुतादिनिवेदनानि स्वप्नेऽप्याचारन्तु।
 
 इति सुन्दरेश्वरतातपादशिष्याप्पय्यदोक्षिताचार्य्यविरचितो  
 पनिषद्भाष्ये त्रिपुरोपनिषद्भाष्यम्।
 
-
 ॥समाप्तम् ओ३म्॥
-
-
 
 श्रीः।  
 **भावनोपनिषत्।**
@@ -1154,8 +1016,6 @@ CALCUTTA,
 भावनोपनिषद्भाष्यं भाषते भास्करस्सुधीः॥**
 
  इह खलु श्रोत्रिपुरसुन्दर्य्याः स्थूलसूक्ष्मपररूपभेदेन त्रिविधाया उपास्तिरूपा क्रियाऽपि त्रिविधा—कायिको वाचिकीमानसो चेति। तासां बहिर्य्यागान्तर्यागभावनारूपाणामेकैकस्यामितरयोस्संवलितत्वे ऽपि प्राधान्यप्राचुर्य्याभ्यां कायिकत्वादिव्यपदेशः। एतास्वादिमं द्वयं त्रिपुरातापिन्याद्युपनिषत्सूपदिश्य ततो ऽपि रहस्यभूतां कालचक्रान्तर्गतश्रीचक्रस्य भावनानाम्नीं तृतीयामुपास्तिमथर्वनामा ऽऽदिवेदपुरुषो योगिजनानुजिघृक्षया प्रकाशयन्त्रादौ मद्गुरोः परं रूपं विधत्ते—'श्रीगुरुः सर्वकारणभूता शक्तिः इत्यादिवाक्यद्वयेन। तत्र चोपनिषदि श्रूयमाणं 'भावनापरो जीवन्मुक्तो भवति' इति वाक्यमाग्नेयादिवाक्यवद् भावनया जीवन्मुक्तिं भावयेदिति परिणतं सद् अपूर्वविधिः। आर्थभावनाकरणीभूतायाश्च भाव्यार्थोपायपररूपभावनायाः स्वर्गवदलौकिकत्वेन तत्स्वरूपनिरूपणार्थः श्रीगुरुरित्यादिस्सर्वोऽपि तद्विधेः शेषः। तेन 'यन्न दुःखेन' इत्यादिवाक्यवद्विध्येकवाक्यतया स्वार्थे प्रामाण्यमस्यावधेयम्। ताश्च भावना यद्यपि कादि-
-
-
 
 **तेन नवरन्ध्ररूपो देहः॥२॥**
 
@@ -1191,8 +1051,6 @@ CALCUTTA,
 [^89]: " रन्ध्रइति पाठः।"
 
 [^91]: "सूर्येति पाठः।"
-
-
 
 **प्रागुक्तमूलाधारस्य मध्यस्थवात्रस्रमध्यतः।  
 सुषुम्ना पृष्ठवंशाख्यवीणादण्डस्य मध्यगा॥**
@@ -1237,8 +1095,6 @@ CALCUTTA,
 
 रूपकुह्वात्मने श्रीपूर्णानन्दनाथाय नमः। दक्षनासारूपपिङ्गलात्मने स्वभावानन्दनाथाय नमः। वामनासारूपेडात्मने प्रतिभानन्दनाथाय नमः। पायुरूपालंबुसात्मने सुभगानन्दनाथाय नमः। इति तत्तत्स्थानानि संस्पृश्य नवचक्ररूपश्रीचक्रात्मने
 
-
-
 **नवचक्ररूपं श्रीचक्रम् ॥३॥**
 
 ——————————————————————————————————————————————
@@ -1259,8 +1115,6 @@ CALCUTTA,
 **नवचक्ररूपं श्रीचक्रम्॥३॥**
 
  देह इत्यनुवर्तते। स्वकीयदेह एव त्रैलोक्यमोहनादिनवचक्रसमष्टिरूपश्रीचक्राभिन्नः। अवान्तरचक्रविभागस्तु आवरणदेवतास्थानैर्व्यक्तीभविष्यति तानि च स्थानानि शाखाभेदेनैव विवृतानि रहस्यत्वात्। अत एव तन्त्रराजेऽप्यनुक्तानि नित्याषोडशिकार्णवे विवृतत्वात्। तदिदमुक्तं बिन्दुसूत्रे—'अपरशिवोदितव्याकुलस्थाननिर्णीतचरणदेशिकप्रसादाधिगतविभावनारहस्यमुपसंहारम्' इति। एकःशिवस्तन्त्रकर्ता प्रसिद्धःअपरः शिवो वेदपुरुषस्तेनापि व्याकुलतया शाखाभेदेनोक्तानां स्थानानां निर्णयनसमर्थस्य गुरोः प्रसादादधिगतं
-
-
 
 **वाराही पितृरूपा कुरुकुल्ला बलिदेवता माता॥४॥  
 पुरुषार्थाः सागराः॥५॥**
@@ -1289,8 +1143,6 @@ CALCUTTA,
 
 [^93]: "१ अव सर्वत्र 'आमने इत्यस्य स्थाने आत्मिकायै इति पाठः।"
 
-
-
 ** देहो नवरत्नद्वीपः॥६॥ त्वगादिसप्तधातुरोमसंयुक्तः॥७॥ संकल्पाः कल्पतरवस्तेजः कल्पकोद्यानम्॥८॥**
 
 ———————————————————————————————————————————————————
@@ -1314,8 +1166,6 @@ CALCUTTA,
 
 [^98]: "५ शुक्लेति पाठः"
 
-
-
 **रसनया भाव्यमाना मधुराम्लतिक्तकटुकषायलवणरसाः षडृतवः॥९॥ज्ञानमर्घ्यं ज्ञेयं हविर्ज्ञाता होता ज्ञातृज्ञानज्ञेयानामभेदभावनं श्रीचक्रपूजनम्॥१०॥**
 
 —————————————————————————————————————————————————————
@@ -1332,8 +1182,6 @@ CALCUTTA,
  स्वाधारपदेन डाकिन्यादियोगिनीषट्काधारभूतानि सुषुम्नान्तर्गतानि षट्चक्राण्युच्यन्ते। सुषुम्नाया इडापिङ्गलात्मकचन्द्रार्कसंयोगेनानुमितकालात्मकतयातङ्गतानां चक्राणामृत्वात्मकत्वं युक्तमिति व्याचक्षते। वस्तुतः प्रत्यक्षश्रुत्यनुरोधात् स्वानुभूयमानरसपरत्वमेव स्वाधारपदस्य युक्तम्। ननु भाव्यमान इति शानचावर्तमानकालकथनादुपास्तिकाले ऽनुभूयमानरसाभाव इति चेत्, न, अनुभवानाःमेव संस्कारात्मना तदानीमपि सत्त्वात्। स्वमात्मा आधारःसमवायीयेषामितिव्युत्पत्त्या स्वाधारपदस्य रसानुभवजन्यसंस्कारपरत्वस्यैव सुवचत्वात्। डाकिन्यादीनामितः पूर्वमनुपस्थिततया स्वपदेन तत्परामर्शीयोगात्। वैद्यके ऋतुभेदेनरसव्यवस्थायाः कथनेन ऋतुसंस्कारयोरभेदस्य युक्तत्वाच्च।एवंरोत्योपपत्तौशाखान्तरमूलकत्वानुमितेरप्रसङ्गाच्च। इहाश्वगजानां परिखामण्डपयोश्च भावनोपसंहारः॥९॥
 
 **ज्ञानमर्घ्यं ज्ञयं हविर्ज्ञाता होता ज्ञातृज्ञानज्ञेयानामभेदभावनं श्रीचक्रपूजनम्॥१०॥**
-
-
 
 **नियतिः शृङ्गारादयो रसा अणिमादयः॥११॥**
 
@@ -1359,9 +1207,6 @@ CALCUTTA,
 [^100]: " चिदात्मिकायै इति पाठः।"
 
 [^101]: "श्वासात्मिकाया इति पाठः।"
-
-
-
 
 **कामक्रोधलोभमोहमदमात्सर्य्यपुण्यपापमया ब्राह्म्याद्यष्ट शक्तयः॥१२॥**
 
@@ -1390,16 +1235,12 @@ CALCUTTA,
 
 प्रतिपत्तिथिरूपकामेश्वरोनित्यायै नमः। तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने द्वितीयातिथिरूपभगमालिनोनित्यायै नमः। तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने तृतीयातिथिरूप नित्यक्लिन्नानित्यायै नमः। तदुत्तरचत्वारिंशदधिक चतुर्दशशतश्वासात्मने चतुर्थी तिथिरूपभेरुण्डानित्यायै नमः। तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने पञ्चमीतिथिरूपवह्निवामिनीनित्यायै नमः।
 
-
-
  मूलाधारादिषट्कमूर्ध्वाधः सहस्रदलकमले द्वेलम्बिकाग्रमेकमिति नवाधारास्तेषां समष्टिरेकेति दश। एतैः संक्षोभिण्यादित्रिखण्डान्तमुद्राभिमानिदशकस्याभेदः। तन्त्रान्तरे तृतीयरेखाभिमानिदेवताभावात्तदनुयायिबिन्दुसूत्रोक्तानामावरणदेवतास्थानानामिह न ग्रहणम्, अपितु योगिनो हृदयस्यापि कादिमतानुयायित्वात्तव मुद्रादेवतानां शरीरावयवेषु अवस्थानकथनात्तान्येव स्थानानि
 
 ———————————————————————————————————————————————————————  
 तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने षष्ठोतिथिरूपवज्रेश्वरोनित्यायै नमः।तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने सप्तमीतिथिरूपशिवदूतौनित्यायै नमः।तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने अष्टमीतिथिरूपत्वरितानित्यायै नमः।तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने नवमीतिथिरूपकुल सुन्दरीनित्यायै नमः।तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने दशमीतिथिरूपनित्यानित्यायै नमः। तदुत्तरचत्वारिंशदधिकचतुर्दशशतखासात्मने एकादशीतिथिरूपनोलपताकानित्यायै नमः। तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने द्वादशोतिथिरूपविजयानित्यायै नमः। तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने त्रयोदशोतिथिरूपसर्वमङ्गलानित्यायै नमः। तदुत्तरचत्वारिंशदधिकचतुदशशतखामात्मने चतुर्दशीतिथिरूपज्वालामालिनोनित्यायै नमः। तदुत्तरचत्वारिंशदधिकचतुर्दशशतश्वासात्मने पौर्णमासीतिथिरूपचित्रानित्यायै नमः। नित्यामन्वानपि तत्तदादौ केचित्पठन्ति। इयं नित्या भावना[^102] सर्वान्त एव वा कार्या। चतुरश्राद्यरेखायै नम इति वक्ष्यमाणस्थानेषु व्यापकं न्यस्य। दक्षांसपृष्ठरूपशान्तरसात्मने ऽणिमासिद्ध्यै नमः। दक्षपाण्यङ्गुल्यग्ररूपाद्भुतरसात्मने लघिमासिद्धैा नमः। दक्षस्फिग्रूपकरुणरसात्मने महिमासिद्ध्यैनमः। दक्षपादाङ्गुल्यग्ररूपवीररसात्मन ईशितासिद्ध्यैनमः। वामापादाङ्गुल्यग्ररूपहास्यरसात्मनेवशितासिद्धैय नमः। वामस्फिग्रूपबीभत्सरसात्मने प्राकाम्यसिद्धयैनमः।पाण्यङ्गुल्यग्ररूपरौद्ररसात्मने भुक्तिसिद्धयैनमः। वामांसपृष्ठरूपभयानक रसात्मनइच्छासिडेय नमः। चूलोमूलरूपशृङ्गाररसात्मने प्राप्तिसिद्धैय नमः। चूलो पृष्ठ रूपनियत्यात्मने सर्वकामसिद्धयैनमः। चतुरस्रमध्यरेखाये नम इति। तदन्तर्व्यापकंन्यस्य पादाङ्गुष्ठद्दयरूपकामात्मने ब्राह्मयैनमः। दक्षपार्श्वरूपकोधात्मने माहेश्वर्य्यै नमः। मूर्द्धरूपलोभात्मने कौमार्य्यै नमः। वामपार्श्वरूपमोहात्मने वैष्णव्यै नमः।
 
 [^102]: "१।नित्यं भावनेति पाठः।"
-
-
 
 **
 वचनादानगमनविसर्गानन्दहानोपादानोपेक्षाख्यबुद्धयोऽनङ्गकुसुमाद्यष्टौ॥१५॥**
@@ -1423,9 +1264,7 @@ CALCUTTA,
 
 [^103]: " १। ततोऽप्यन्तरिति पाठः"
 
-
 [^104]: "।२। रुपायेति पाठः।"
-
 
 **भूतेन्द्रियमनांस्येव क्रमान्नित्याः कलाः पुनः।  
 कर्मेन्द्रियार्थदोषाश्च ज्ञेयाः स्युः शक्तयोऽष्टकाः॥इति॥**
@@ -1444,8 +1283,6 @@ CALCUTTA,
 [^108]: " ६। पार्श्वेति पाठः।"
 
 [^109]: " ७। अहंकाराकर्षीति पाठः"
-
-
 
 ** प्राणापानव्यानोदानसमाननागकूर्मकृकरदेवदत्तधनञ्जया दश वायवः सर्वसिद्धिप्रदादिवहिर्दशारदेवताः॥१७॥**
 
@@ -1469,8 +1306,6 @@ CALCUTTA,
 [^113]: "स्तंभिनीति वा पाठः"
 
 [^114]: "।६। वामको गेति पाठः"
-
-
 
 ** एतद्वायुसंसर्गकोपाधिभेदेन रेचकः पाचकः शोषको दाहकः प्लावक इति प्राणमुख्यत्वेन पञ्चधा जठराग्निर्भवति॥१८॥**
 
@@ -1496,8 +1331,6 @@ CALCUTTA,
 ———————————————————————————————————————————————————
 
 वशंकरीशक्तैयनमः। वामोरुरूपपूषात्मने सर्वरञ्जिनीशक्तैयनमः। वामपार्श्वरूपशंखिन्यात्मने सर्वोन्मादिनोशक्त्यैनमः। वामांसरूपसरखत्यात्मनेसर्वार्थसाधिनोशक्तैयनमः। वामगण्डरूपेडात्मने सर्वसंपत्तिपूरणशक्त्यैनमः। ललाटवामभागरूपपिङ्गलात्मने सर्वमन्त्रमयोशक्तैयनमः। ललाटपृष्ठभागरूपसुषुम्नात्मने सर्वन्दक्षयंकरीशक्त्यैनमः। हृद्रूपसर्वसौभाग्यदायक चक्रेश्वर्ये त्रिपुरवासिन्यै
-
-
 
 **शीतोष्णमुखदुःखेच्छाः सत्त्वं रजस्तमो वशिन्यादिशक्तयोऽष्टौ॥२१॥**
 
@@ -1536,8 +1369,6 @@ CALCUTTA,
 
 नमः। संप्रदाययोगिनीरूपखात्मात्मने ईशितासिद्धयै नमः। अपरिच्छिन्नरूपस्वात्मात्मने सर्ववशंकरोमुद्रायै नमः। दशारचक्राय नम इति व्यापकं न्यस्य। दक्षाक्षीरूपप्राणात्मने सर्वसिद्धिप्रदादेव्यै नमः। नासामूलरूपापानात्मने मर्व-
 
-
-
 त्विच्छासामान्यम्। तेनारुणावाग्देवतावासनया न पौनरुक्त्यम्। बन्धकत्वेन साम्यात्तस्य पाशाभेदः। द्वेषः क्रोधः। तस्य द्वेष्यान्निवारकत्वादङ्कुशत्वम्। उक्तं  
 च रहस्यनामसाहस्रे—
 
@@ -1554,8 +1385,6 @@ CALCUTTA,
 
 संपत्प्रदादेव्यै नमः। वामनेत्ररूपव्यानात्मने सर्वप्रियंकरीदेव्यै नमः। कुक्षीशकोणरूपोदानात्मने सर्वमङ्गलकारिणदेव्यै नमः। कुक्षिवायुकोणरूपसमानात्मने सर्वकामप्रदादेव्यै नमः। वामजानुरूपनागात्मने सर्वदुःखविमोचिनीदेव्यैनमः। गुदरूपकूर्मात्मने सर्वमृत्युप्रशमनीदेव्यै नमः। दक्षजानुरूपकृकरात्मनेसर्वविघ्नविनाशिनीदेव्यै नमः। कुक्षिनिर्ऋतिकोणरूपदेवदत्तात्मने सर्वाङ्गसुन्दरीदेव्यै नमः। कुक्षिवह्निकोणरूपधनंजयात्मने सर्वसौभाग्यदायिनोदेव्यै नमः। हृद्रूपसर्वार्थसाधकचक्रेश्वर्यैत्रिपुराश्रियै नमः। कुलकौलयोगिनीरूपस्वात्मात्मनेवशितासिद्ध्यै नमः। अपरिच्छिन्नरूपस्वात्मात्मने सर्वोन्मादिनोमुद्रायै नमः। अन्तर्दशारचक्राय नम इति व्यापकं न्यस्य। दक्षनासारूपरेचकाग्न्यात्मने सर्वज्ञादेव्यै नमः। दक्षसृकिरूपपाचकाग्न्यात्मने सर्वशक्तिप्रदादेव्यै नमः। दक्षस्तनरूपशोषकाग्न्यत्मने सर्वेश्वर्यप्रदादेव्यै नमः। दक्षवृषणरूपदाहकाग्न्यात्मने सर्वज्ञानमयीदेव्यै नमः। सीवनीरूपप्लावकाग्नप्रात्मने सर्वव्याधिविनाशिनीदेव्यै नमः। वामवृषणरूपक्षारकाग्न्याप्रात्मने सर्वाधारस्वरूपादेव्यै नमः। वामस्तनरूपोद्गारकाग्नात्मने सर्वपापहरादेव्यैनमः। वामसृक्विरूपक्षोभकाग्न्यात्मने सर्वानन्दमयीदेव्यै नमः। वामनासारुपजृम्भकाग्न्यात्मने सर्वरक्षास्वरूपिणोदेव्यैनमः। नासाग्ररूपमोहकाग्न्यात्मने सर्वेप्सितफलप्रदादेव्यै नमः। हृद्रपसर्वरक्षाकरचक्रेश्वर्यैत्रिपुरमालिन्यै नमः। निगर्भयोगिनीरूपस्वात्मात्मने प्राकाम्यसिद्ध्यै
 नमः।अपरिच्छिन्नरूपस्वात्मात्मने महाङ्कुशामुद्रायै नमः। अष्टकोणचक्राय नम इतिव्यापकं न्यस्य। चिबुकदक्षभागरूपशीतात्मने वशिनोवाग्देवतायै नमः। कण्ठ-
-
-
 
 **
 अव्यक्तमहदहङ्काराः[^115] कामेश्वरीवज्रेश्वरीभगमालिन्योऽन्तस्त्रिकोणगा देवताः॥२६॥**
@@ -1575,8 +1404,6 @@ CALCUTTA,
 —————————————————————————————————————————————————————
 
 दक्षभागरूपोषणात्मने कामेश्वरोवाग्देवतायै नमः। हृदयदक्षभागरूपसुखात्मने मोदिनोवाग्देवतायै नमः। नाभिदक्षभागरूपदुःखात्मने विमलावाग्देवतायैनमः। नाभिवामभागरूपेच्छात्मने अरुणावाग्देवतायै नमः। हृदयवामभागरूपसत्त्वगुणात्मनेजयिनीवाग्देवतायै नमः। कण्ठवामभागरूपरजोगुणात्मने सर्वेश्वरोवाग्देवतायै नमः। चिवुकवामभागरूपतमोगुणात्मने कौलिनीवाग्देवतायै नमः। हृद्रूपसर्वरोगहरचक्रेश्वर्यैत्रिपुरासिद्धायै नमः। रहस्ययोगिनोरूपत्वात्मामने भुक्तिसि नमः। अपरिच्छिन्नरूपस्वात्मात्मने खेचरीमुद्रायै नमः। हृदयत्रिकोणाधोभागरूपपञ्चतन्मात्रात्मकेभ्यः सर्वजन्म्भनवाणेभ्यो नमः। तद्दक्षभागरूपमनआत्मकाभ्यां सर्वमोहनधनुर्भ्यांनमः।तदूर्द्धभागरूपरागात्मकाभ्यां सर्ववशंकरपाशाभ्यां नमः। तद्वामभागरूपद्देषात्मभ्यां सर्वस्तम्भकरांकुशाभ्यां नमः। त्रिकोणचक्राय नमः। इति व्यापकं न्यस्य।हृदयत्रिकोणाग्रभागरूपमहत्तत्त्वात्मने कामेश्वरोदेव्यै नमः। तद्दक्षकोणरूपाहङ्कारात्मने वज्रेश्वर्यै देव्यै नमः।
-
-
 
 **सदानन्दपूर्णः स्वत्मैव परदेवता ललिता॥२८॥  
 लौहित्यमेतस्य सर्वस्य विमर्शः॥२६॥**
@@ -1601,8 +1428,6 @@ CALCUTTA,
 ————————————————————————————————————————————————————————————
 
 तद्वामकोणरूपाव्यक्तात्मने भगमालिनीदेव्यै नमः। हृद्रुपसर्वसिद्धिप्रदचक्रेश्वर्येत्रिपुराम्बायैनमः। अतिरहस्ययोगिनोरूपखात्मात्मने इच्छासिद्ध्यैनमः। अपरिच्छिन्नस्वात्मात्सने बीजमुद्रायै नमः। बिन्दुचक्राय नम इति व्यापकं न्यस्य। हृन्मध्यरूपनिरुपाधिकसंविन्मात्त्ररूपकामेश्वराङ्कनिलयायै सच्चिदानन्दैकब्रह्मात्मने परदेवतायैललितायै महात्रिपुरसुन्दर्यैनमः। निरुपाधिकचैतन्यमेव सच्चिदानन्दधर्मकमन्तःकरणप्रतिबिम्बितम् सदाऽहमेवेत्यनुसन्धानं ललिताया लौहित्यमिति
-
-
 
 **अनन्यचित्तत्वेन च सिद्धिः॥३०॥**
 
@@ -1629,8 +1454,6 @@ CALCUTTA,
 
 सिद्धिस्त्वनन्यचित्तत्वं मुद्रा वैभववासना। इति।
 
-
-
 **भावनायाः क्रिया उपचारः॥३१॥**
 
 ————————————————————————————————————————————————————————————————
@@ -1646,8 +1469,6 @@ CALCUTTA,
 चलत्वं चाञ्चल्यमभेदभावनास्थैर्याभावः। तादृशस्वभावशीलत्वेऽपि ब्रह्ममयत्वांशे प्रमादाभावोऽतीव सावधानता यथा स्यात्तथा विभावना एवोपचार इति तदर्थः। यद्यपि चलशब्दोऽवश्यन्भाविप्रमादस्वप्नाद्यवस्थापरत्वेन मनोरमायां व्याख्यातस्तथाऽप्यपिशब्दस्वारस्येन जाग्रत्काले सावधानतामात्रावश्यकत्वपरैव सोक्तिरिति मन्तव्यम्। तादृशोऽप्रमादश्च
 योगवासिष्ठोक्तशिवपूजायां द्रष्टव्यः। आत्मनो विषयोपभोगजनितानन्दस्य सर्वस्य स्वात्माभेदेनानुसन्धानं प्रारब्धलब्धसुखदुःखस्यापि कर्मक्षयकारकत्वेन परिणामसुखावहत्वात्कटुकषायवस्तुक्व तस्वाङ्गोद्वर्तनादेरिवभावनायाःसपर्यारूपतैवेति तत्रत्यो निष्कर्षः। 'सपर्यापर्यायस्तव भवतु यन्मे विलसितम्' इत्यादयो भगवत्पादादीनामुक्तयोऽप्यमुमेवार्थं वदन्ति। परन्त्वीदृशपूजाया अहोरात्रकालसाध्यत्वेन प्रकृतविधित्सितायाश्च भावनाया उक्तमुहूर्तादिकालनियमविधिनाविरोधादन्यथैवोपचाराः प्रयोक्तव्याः। तत्प्रकारो यथा—'खे महिम्नि प्रतिविभावनमासनम्। 'पादोऽस्य विश्वा भूतानि' इति श्रुत्वा पादरूपे वियदादिप्रपञ्चे
 
-
-
 अस्तिभातिप्रियांशमात्रभावनारूपाभिरद्भिर्नामरूपमलक्षालनं पाद्यम्। तस्यैव सूक्ष्मप्रपञ्चस्यैकदेशविषयाध्यस्तत्वेनापि परिकल्पोक्तरीत्या मलनिरासोऽर्घ्यम्। भावनारूपजलस्यापि कवलीकार आचमनम्। सत्त्वचित्त्वानन्दत्वाद्यखिलावयवाभेदेन भावनाजलसंपर्कःस्नानम्। तेष्वेवावयवेषु उक्तजलसंपर्केण प्रसक्तायावृत्तिविषयतायाः प्रोच्छनभावनं वस्त्रम्। निर्विषयत्व निरञ्जनत्वाद्यनेकब्रह्मलिङ्गभूततदभिन्नधर्मविभावनमाभरणम्। स्वगरीरान्तर्गतपार्थिवनाभसवायवीयतैजसभागानां चन्द्रमण्डलस्थामृतस्य तन्मण्डलस्य च जडभागापनयपूर्वक सच्चिदा-
 
 ———————————————————————————————————————————————————
@@ -1661,8 +1482,6 @@ CALCUTTA,
 [^118]: "३ । भावनाया इति पाठः ।"
 
 [^119]: "४। परिच्छिन्नमिति पाठः ।"
-
-
 
 ** अहं त्वमस्ति नास्ति कर्त्तव्यमकर्त्तव्यमुपासितव्यमिति विकल्पानामात्मनि विभावनं होमः॥३२॥**
 
@@ -1693,8 +1512,6 @@ CALCUTTA,
 [^120]: "१। आयता इत्यधिकं पुस्तकान्तरं।"
 
 [^121]: "२। त्वभित्यधिकम्"
-
-
 
 **भावनाविषयाणामभेदभावना तर्पणम्॥३३॥  
 पञ्चदशतिथिरूपेण कालस्य परिणामावलोकनम्॥३४॥**
@@ -1727,15 +1544,12 @@ CALCUTTA,
 
 विषयास्ते सर्वेऽपि चिन्मात्ररूपा न परस्परं भिद्यन्त इनि भावनया तर्पयामिI तिथिचक्रमुक्तरूपं कालचक्रं देशचक्रं च सर्व्वमस्ति भाति प्रियञ्च न तु नामरूपवद
 
-
-
  स च प्रपञ्चस्त्रिविधः—कालरूपो देशरूप उभयरूपश्वेति। तत्राद्यौ यथा—चन्द्रमण्डलनिष्ठसादाख्यकलातिरिक्ता 'दर्शा दृष्टा दर्शता' ( तै० ब्रा० ३-१०-१) इत्यादिश्रुतिपरिगणिताः पञ्चदश कलास्तन्ति ता एव प्रतिपदादिपूर्णिमान्तास्तिथयः। तिथिरूपास्ता एव च कामेश्वर्य्यादिचित्रान्त नित्याभिरभिन्नाः। सादैव तु ललिता। ईदृशस्य च नित्यं परिवर्तमानस्य कालरूपतिथिचक्रस्यान्तरेव श्रीचक्रंतिष्ठति न बहिः। द्दितोयो यथा—भूगोलस्योत्तरभागे स्थितो मेरुस्तद्दक्षिणतोजम्बूप्लक्षशाल्मलिकुशक्रौञ्च शाकपुष्कराख्यास्तप्त द्दीपाः। तेषामन्तरालेषु भूगोलस्य  
 लवणेक्षुसुरासर्पिर्मधुक्षीराख्यास्तमुद्राः पुष्कराद्दहिर्मधुरोदस्समुद्रसप्तमः। ततोऽपि दक्षिणतः परं व्योमेत्येवं षोड़श देवताः। तेषु मेर्वादिव्योमान्तेषु क्रमेण ललितादिचित्रान्ताः क्रमेण नित्या युगप्रथमवर्षे तिष्ठन्ति।द्वितीये तु वर्षे जम्बूद्दोपादिमेर्वन्तेषु गच्छन्ति। तृतीये तु लवणसागरादिजम्बूदोपान्तेषु इत्यादिरीत्या षोड़शवर्षे परमव्योमादिमधुर समुद्रान्तदेशेषु ललिताद्याःषोड़श नित्यास्तिष्ठन्ति। एवं षोड़शभिः षोड़शभिर्वर्षेर्नित्यानामेकैका परिवृत्तिः।ईदृशदेशरूपचक्रस्याप्यन्तरेव श्रीचक्रं न बहिः। तृतीयो यथा—भूगोलस्योपय्यैधश्च वलयिताञ्चन्द्रबुधशुकर विभौमगुरुशनिनक्ष त्रकच्या स्तत्तदन्तरालान्यष्टावितिषोड़श देशाः कालचक्ररूपास्सन्ति। तेषु स्थानेषु देशपरिवृत्तिविपरिवत्तिक्रमतः  
 षोड़श नित्याः परिवर्त्तन्ते। अस्यापि चक्रस्यान्तरेव श्रीचक्रं न बहिः। अस्यत्रिविधस्यापि चक्रस्य पारमार्थिकरूपं नित्याचक्रमेव ब्रह्मातिरिक्तस्य सर्वस्य देश-कालावच्छिन्नतद्भेदात्सर्वोऽपि नित्यारूप एव। तासां स्वात्माभेदभावनैव ह्यत्रविधीयते।
 
 अथ षोड़शनित्यानां स्वात्मत्वे भावनां शृणु।  
 यदा तन्मयता सिद्धा प्रत्यक्षा भवति ध्रुवम्॥
-
 
  इत्युपक्रम्य ‘गुरुराद्या भवेच्छक्तिः' इत्यादिना ललितायाः साङ्गोपाङ्गायाः स्वात्मत्ववासनामुक्त्वा अन्ते—
 
@@ -1747,8 +1561,6 @@ CALCUTTA,
 ———————————————————————————————————————————————————————————————
 
 अतः सर्वं ब्रह्मैवेति विभावयामि। अथवा पूर्व्वलिखितां नित्याभावनामिहैव
-
-
 
 ** एवं मुहूर्त्तत्रितयं मुहूर्त्तद्वितयं मुहूर्त्तमात्रं वा भावनापरो जीवन्मुक्तो भवति स एव शिवयोगीति गद्यते॥३५॥**
 
@@ -1769,8 +1581,6 @@ CALCUTTA,
 श्वासविलापनफलिकां कुर्य्यात्। तेन मनः पवनात्मनामैक्यनिफालनेन त्रीनमुहूर्त्तान् द्वावेकं मुहूर्त्तमवच्छिन्नं यापयेत्[^122]। ततोऽवतीर्य्य प्राणायामत्रयं ऋष्यादि-
 
 [^122]: "१। धारयेदिति पाठः।"
-
-
 
 **कादिमतेनान्तश्चक्रभावनाः प्रतिपादिताः॥३६॥  
 य एवं वेद सोऽथर्वशिरोऽधीते॥३७॥**
@@ -1794,12 +1604,9 @@ CALCUTTA,
 अथर्व्वशिरसि प्रोक्तभावनानां सतां मुदे।  
 इति भास्कररायेण प्रयोगविधिरीरितः॥
 
-
 भावनोपनिषत्प्रयोगविधिः समाप्तः।
 
 —————
-
-
 
 **अथ भावनोपनिषद्भाष्यम्।**
 
@@ -1817,8 +1624,6 @@ CALCUTTA,
 
 इत्युक्तप्रकारकपूजनमेवविवक्षितमवगम्यते। अत्रैवं सति सगुणमूर्त्तिध्यानात्मकोपासनस्याप्यनवकाशात्कैमुतिकन्यायेनैव रेखामेर्व्वादिमयस्य श्रीचक्रप्रतीकोपासनस्यानवकाश इति स्थितम्। केचिच्चैतत्प्रतीकोपासकाः स्वेषां प्रवन्तं मन्त्रशास्त्रप्रावीण्यं मत्वा क्वतार्थतां मन्यन्ते। न तु ते
 
-
-
 उत्तमा तत्त्वचिन्ता स्यान्मध्यमं शास्त्रचिन्तनम्।  
 अधमा मन्त्रचिन्ता स्यात्तीर्थभ्रान्त्यधमाधमा॥
 
@@ -1833,19 +1638,13 @@ CALCUTTA,
 
 इति स्मरणात्। तस्मादियमुपनिषत्सर्व्वानर्थकारित्वादुपेक्षणीयैवेति। अत्रोच्यते। यन्त्राराधका हि लोके स्वाराधनोत्तमप्रमाणान्वेषणपरा एतदुपनिषत्पुस्तकमादायमहतां मुखेभ्योऽर्थंशुश्रूषवः प्रार्थयन्ते तेषां यथार्थोपदेशेन बुद्धिभेदः स्याच्चेत् तदा श्रुतेरुपदेष्टृणां वा को न्वपराधः। न च भावनामात्रेणेन्द्रियाणां विषयव्यापारवैमुख्यं न स्यादिति वाच्यम्। भावनाकर्त्र्यां बुद्धौ सर्वेषामिन्द्रियाणां लोयमानत्वात्।उक्तप्रकारभावनारहितो हि क्षणमपि अकर्म्मकृन्न तिष्ठतीति स्मृतेः,अतोऽनयोप-
 
-
-
 निषदा न स्मृत्युपरोधः। न च बाह्याराधनमुपमृद्य देव्याः सगुणमूर्त्तभावनैवेह प्रतिपिपादयिषितेति वाच्यम्। चिदग्निस्वरूपपरमानन्दशक्तिस्फुरणं वस्त्रमिति स्वव्यतिरिक्तवस्तुसङ्गरहितस्मरणं विभूषणमिति चैवमसङ्गचिद्रूपनिर्गुणब्रह्मभावमाया एव प्रक्कृतत्वात्। अवस्थात्रयैकी करणात्मकताम्बूलेन तुरीयावस्थात्मकनमस्कारेण च निर्गुणब्रह्मभावनैव प्रकृता भवति। यद्यपि मूलाधारादाब्रह्मरन्ध्रपर्य्यन्तमित्याद्युक्तलक्षणप्रदक्षिणेन व्यष्टितत्त्वभावनैव प्रकृता, न त्वखण्डबोधानन्दलक्षणसमष्टितन्त्वभावनेत्याशङ्कीत। न तु सोपपद्यते। कुतः, देहशून्यप्रमातृतानिमज्जनं बलि हरणमिति देहशून्यत्वेन भावनया प्रमातृतायाः स्वरूपे समष्टिचैतन्ये निमग्नत्वात्। समष्टिमूलाधारब्रह्मरन्ध्रयोरैश्वरयोर्विवक्षितत्वोपपत्तेश्च। तस्मात्सर्व्वगतब्रह्मभावनैव प्रकृतेति। तर्हि वलिहरणानन्तरकार्यो होमःकीदृश इत्यतआह नित्येति। नित्यात्मविलापनं नित्यस्य कूटस्थघटाकाशस्थानीयस्य आत्मनः परस्मिन्महाकाशस्थानीयचिन्मात्रात्मनि विलापनं होम इति। आर्द्रा ज्वलन्तीमित्यत्र माञ्जुहोमिस्वाहेति नित्यात्मनो होमद्रव्यता श्रवणात्। परिपूर्णध्यानमेव तत्पादुकानिमज्जनमित्येवं मुहर्तत्रयं भावयतो देवताया आत्मना सहैक्य' सिध्यति। तथा च श्रुत्यन्तरं 'त्वं वाऽहमस्मि भगवो देवतेऽहं वै त्वमसी' ति। एवं प्रत्यक्षरैक्यपर्यवसन्नामिमां भावनोपनिषदं बाह्यश्रीचक्राराधनाधारभूतां मन्यमानानांपण्डितत्वं को नु ब्रूयात्॥ नच चिन्तितकार्यसिध्यभिधानात्सगुणोपासनमेवात्रोक्तं स्यादिति शङ्ख्यम्। निर्गुणोपासकानामपि मोक्षकार्यसिद्धेः। तस्मात्सर्वमनवद्यमवगन्तव्यम्।
-
-
 
 इति सुन्दरेश्वरतातपादशिष्याप्पयदीक्षितविरचितोपनिषद्भाष्ये
 
 भावनोपनिषद्भाष्यं समाप्तम्।
 
 ———
-
-
 
 **॥श्रीः॥**
 
@@ -1859,8 +1658,6 @@ CALCUTTA,
  देवीह्येकाऽग्र एवासीत्। सैव जगदण्डमसृजत्। कामकलेति विज्ञायते। शृङ्गारकलेति विज्ञायते। तस्या एव ब्रह्मा अजीजनत्। विष्णुरजीजनत्। रुद्रोऽजीजनत्। सर्वे मरुङ्गणा अजीजनन्। गन्धर्व्वास्मरसः किन्नरा वादिववादिनः समन्तादजीजनन्। भोग्यमजीजनत्। सर्वमजीजनत्। सर्वं शाक्तमजीजनत्। अण्डजं खेदजमुद्भिज्जं जरायुजंयत्किञ्चैतत् प्राणि स्थावरजङ्गमं मनुष्यमजीजनत्।
 
  सैषा परा शक्तिः। सैषा शाम्भवी विद्या कादिविद्येति वाहादिविद्येति वा सादिविद्येति वा। रहस्यमोंमोंवाचि प्रतिष्ठा। ^(२)सैव पुरत्रयं शरीरत्रयं व्याप्य वहिरन्तरवभासयन्तीदेशकालवस्त्वन्तरसङ्गान्महात्रिपुरसुन्दरी वै प्रत्यकचितिः। सैवात्माततोऽन्यदसत्यमनात्मा। अत एषा ब्रह्मसंवित्तिर्भावाभावकलाविनिर्मुक्ता चिद्विद्याऽद्वितीयब्रह्मसंवित्तिः सच्चिदानन्दलहरी महात्रिपुरसुन्दरी बहिरन्तरनुप्रविश्य स्वयमेकैव विभाति।यदस्ति सन्मात्रम्। यद्विभाति चिन्मात्रम्। यत्प्रियमानन्दं तदेतत्पर्वाकारा महात्रिपुरसुन्दरी। त्वं चाहञ्च सर्वं विश्वं सर्वदेवता। इतरत्सर्वं महात्रिपुरसुन्दरी सत्यमेकं ललिताख्यांवस्तुतदद्वितीयमखण्डार्थं परं ब्रह्म।
-
-
 
 **पञ्चरूपपरित्यागादस्वरूपप्रहाणतः।  
 अधिष्ठानं परं तत्त्वमेकं सच्छिष्यते महत्॥ इति।**
@@ -1882,8 +1679,6 @@ CALCUTTA,
 
 २ इत आरभ्य शिष्यते महदितोत्यन्तः पाठोऽधिकः पुस्तकान्तरे।
 
-
-
 इति वा 'योऽसौ सोऽहमस्मि' इति वा या भाव्यते सैषा षोड़शी श्रीविद्या पञ्चदशाक्षरी श्रीमहात्रिपुरसुन्दरीबालाऽम्बिकेति वा सकलेति वा मातङ्गीति स्वयम्वरकल्याणीति भुवनेश्वरीति चामुण्डेति चण्डेति वाराहीति तिरस्करिणीति राजमातङ्गीति वा शुकश्यामलेति वा लघुश्यामलेति वा अश्वारूढे़ति वा प्रत्यङ्गिरा धूमावती सावित्री गायत्री सरखतो ब्रह्मानन्दकलेति। ऋचःअक्षरे परमे व्योमन्। यस्मिन्देवा अधि विश्वे निषेदुः। यस्तन्न वेद किमृचा करिष्यति। य इत्तद्विदुस्त इमे समासते। इत्युपनिषद्। वाङ्मे मनसीति शान्तिः।
 
 **समाप्तेयं बह्वृचोपनिषद्।**
@@ -1893,8 +1688,6 @@ CALCUTTA,
 पास्यमानाऽपि निःश्रेयसार्थिभिरमूर्त्तचैतन्यात्मतयोपास्यमानत्वात्। “प्रज्ञानं ब्रह्म” इति “अहं ब्रह्मास्मि" इति “तत्वमसि” इति "अयमात्मा ब्रह्म" इति च सम्भाष्यते। अस्य महावाक्यचतुष्टयस्य रहस्योपनिषदि प्रातिलोम्येन वर्णितार्थत्वादलमतिप्रपञ्चेन। नन्वहमस्मि इति योऽहमस्मीति सोऽहमस्मीति योऽसौ सोऽहमस्मीति यद्वाक्यचतुष्टयमुच्यते अस्य पूर्वोक्तप्रज्ञानंब्रह्मेत्यादिवाक्यचतुष्टयार्थाविलक्षणत्वात्पुनरुक्तिदोषप्रसङ्ग इति चेदत्रोच्यते। न ह्यस्य पूर्व्ववाक्यार्थाविलक्षणत्वं शक्यं सम्भावयितुम्। पूर्व्ववाक्यानां प्रातिलोम्येनाधिकारिसम्बन्धविषयप्रयोजनार्थत्वादपरवाक्यानां विषयमात्रार्थत्वाच्च।
 
  यत्त्वहंब्रह्मास्मीत्यभ्यासविषयवाक्यमुक्तं तस्यावृत्तिसूचकमपरमिदं वाक्यचतुष्टयं भवितुमईतीत्येवं वैलक्षण्यमवगन्तव्यम्। यथा च "प्रज्ञानं ब्रह्म" इत्यादिवाक्यानां पूर्व्वपूर्व्वसाध्यत्वेन उत्तरोत्तरसाधनत्वमस्ति तथाहमस्मीत्यादिवाक्यानामपि वक्तुं युक्तम्। श्रद्यस्य निदिध्यासनाभ्यासरूपत्वाद्वितीयस्य मननाभ्यासरूपत्वात्तृतीयस्य श्रवणाभ्यासरूपत्वाच्चतुर्थस्य दर्शनाभ्यासरूपत्वाच्च। दर्शनश्रवणमनननिदिध्यासनानामुत्तरोत्तरसाध्यत्वेन पूर्व्वपूर्व्वसाधनत्वं सर्व्वत्रावोचाम। तस्मात्सर्व्वमनवद्यमिति। यैवं महावाक्यैर्मुमुक्षुभिर्भाव्यते सैषा निर्गुणब्रह्मचैतन्य-
-
-
 
 स्वरूपिणीपराशक्तिर्व्यवहारदशायां प्रणवेन सह षोडशी श्रीविद्या कादिपञ्चदशाक्षरीमहात्रिपुरसुन्दरीत्यादिसगुणनामभिरभिधीयमानाभ्युदयार्थिभिरुपास्यमाना भवति।
 
@@ -1908,8 +1701,6 @@ CALCUTTA,
 
 इति परब्रह्मज्ञानहीनस्याधीतशब्दब्रह्मणोऽपि श्रममात्रफलत्व श्रवणात्। ये पुन
 
-
-
 स्तत्परद्दह्म इत् इत्थंपूर्वोक्तप्रकारेण विदुर्विदितवन्तस्त इमे वर्त्तमाना जीवन्मुक्ता एव समासतेपरब्रह्मणि सम्यगासीना भवन्तोत्यर्थः।
 
  अयं भावः—लोके अधीतसमस्तवेदमन्त्रोऽपि पुरुषस्तत्परमतात्पर्य्यभूतपरब्रह्मात्मैक्यापरोक्षज्ञानानुभवहीनश्चेत्तदा तदध्ययनश्रमश्चित्तशुद्धिमात्रप्रयोजनो भवेत् न तु सद्योमुक्तिप्रयोजन इति।
@@ -1921,8 +1712,6 @@ CALCUTTA,
 ॥ शिवम् ॥
 
 ———
-
-
 
 श्रीश्रीभगवत्यै नमः॥
 
@@ -1956,8 +1745,6 @@ CALCUTTA,
 
 ऋचोऽयमर्थः—आण्डी पिण्डाण्डं ब्रह्माण्डञ्च, चिप्रत्ययान्तः भव
 
-
-
 पिण्डाण्डरूपेणास्मदीयेन ब्रह्माण्डरूपेण वाह्येन भवदीयेन प्राप्नुहि, भवत्सायुज्यं देहीत्यर्थः। अज अवगच्छ। मुहर्म्मामवगच्छ अनुगृहाणेत्यर्थः। अजगतौ इति धातोः अकारलोपश्छान्दसः॥
 
 **सुखादीन्दुःस्वनिधनाम्॥**
@@ -1984,8 +1771,6 @@ CALCUTTA,
 
  ते तव ख्या ख्यातिः ज्ञानं मा च तीरिषत् अस्मान् न जहातु। भवद्विषयज्ञानं अस्माकं सदा सिध्यत्वित्यर्यः॥
 
-
-
  इतःपरं पृश्नयश्चक्रविद्यानुष्ठाने त्वरमाणाः परस्परं सङ्गिरन्ते—
 
 **उत्तिष्ठत मा स्वप्त। अग्निमिच्छध्वं भारताः।  
@@ -2003,14 +1788,11 @@ CALCUTTA,
 
 **अष्टाचक्रा नवद्वारा॥**
 
-
 अयमर्थः—अष्टकोण-दशकोणहितय-चतुर्द्दशकोणाष्टपत्र-षोड़शपत्रत्रिवलयत्रिरेखात्मकानि अष्टावक्राणि यस्याः सा अष्टाचक्रा। अतएव नवद्वारा नवानि द्वाराणि त्रिकोणरूपाणि यस्याः सा नवद्वारा॥
 
 **देवानां पूरयोध्या॥**
 
  अयमर्थः—देवानामिन्द्रादीनां पूज्यत्वेन सम्वन्धिनीपूः श्रीविद्यानगरम्। यद्वा, दीव्यन्तीति देवाः पञ्चविंशतितत्त्वानि तेषां पूरधिष्ठानम्। यद्वा, सूर्य्यचन्द्राग्नीनां पूः सोमसूर्य्यानलात्मकत्वात् श्रीचक्रस्य। तस्य पुरत्रयसमष्टिरूपत्वात् पूरित्येक वचनसिद्धिरिति ध्येयम्। अयोध्या असाध्या अनधिकारिणां मन्दभाग्यानामिति शेषः॥
-
-
 
 **तस्यां हिरण्मयः कोशः।  
 स्वर्गो लोको ज्योतिषावृतः॥**
@@ -2031,8 +1813,6 @@ CALCUTTA,
 पुरं हिरण्मयींब्रह्मा विवेशापराजिता॥**
 
  श्रयमर्थः—विभ्राजमानां अनन्तकोटिसंख्याककिरणैरिति शेषः प्रकाशमानां। हरिणीं हिरण्यवर्णा “हिरण्यवर्णं हरिणीम्” इति श्रुतेः। यशसा कीर्त्त्यासम्यक्परिनृतां, ये ये लोके कीर्त्तिमन्तः ते सर्व्वे भगवतीप्रसादसमासादितकीर्त्तिमन्त इत्यर्थः। तां वैन्दवींपुरं चिन्तामणिगृहं ब्रह्मा सदाशिवः'ब्रह्मा शिवो मे अस्तु सदाशिवोम्' इतिश्रुतेः पुंलिङ्गब्रह्मशब्दसदाशिवशब्दयोः एकएवार्थः प्रतीतः। विवेश अपराजिता सादाख्या चन्द्रकला विवेश। वाक्यद्वयेन उभयोः प्रवेशभेदप्रतिपादनं 'वैन्दवे चिन्तामणिगृहे सदाशिवः सर्व्वदा सन्निहितः। अपराजिता कुण्डलिनी शक्तिः षट्चक्राणि भित्वा भूयोभूयः प्रविशति इतोममर्थं ज्ञापयितुम्॥
-
-
 
  शिवशक्त्योः तस्मिन् चक्रे अवस्थितिप्रकारमाहुः—
 
@@ -2057,8 +1837,6 @@ CALCUTTA,
 
 इति सनत्कुमारवचनात्। यत् यस्मिन् चक्रे पतिव्रता पत्या सदाशिवेन साई
 
-
-
 सहस्रदलकमले विहरमाणा। रिष्टं शुभाभावं 'रिष्टं क्षेमे शुभाभावे' इत्यभिधानात्, तदन्यदरिष्टं शुभं अमृतास्वादामित्यर्थः। यत् किञ्चित् क्रियते तत् स्वाधिष्ठानगतोऽग्निः अनुवेधति सहायं करोति। अतश्च अभ्यासवशात् वायुना अग्निं प्रज्वाल्य अग्निशिखानुविद्धविलीनचन्द्रमण्डलगलत्पीयूषधारानुभवे पञ्चविंशतितत्त्वातीता परमेश्वरीइति ज्ञातुं सुशकमित्युपदेशः॥
 
 चक्रविद्योपासनं वर्णिनां आश्रमिणां ज्ञानिनामज्ञानिनाञ्च फलदायकमित्यमिसन्धायाहु**:**—
@@ -2080,8 +1858,6 @@ CALCUTTA,
 
  अयमर्थः—अविद्यां विद्याविरुद्धांज्ञानमार्गविरुद्धां इन्त्रादिमेवां 'वाचं
 
-
-
 धेनुमुपासीत' इत्येवमध्यारोपितसेवाञ्च ये कुर्व्वते ते अविद्वांसः अन्धं तमः प्रविशन्ति अन्धतामिस्त्रं प्रविशन्तोत्यर्थः। चकारः प्रकरणसमाप्तिद्योतकः॥
 
 **ऋषिभिरदात् पृश्निभिः॥ **
@@ -2096,15 +1872,11 @@ CALCUTTA,
 
 ————
 
-
-
 **कालिकोपनिषत्।**
 
  ॐ अथ ह एनां ब्रह्मरन्ध्रे बह्मरूपिणीमाप्नोति[^123]। शुभगां त्रिगुणामुक्त्वा। शुभगा तु कामरेफेन्दिराविन्दुमेलनरूपा। समष्टिरूपिणी। एतत्त्रिगुणितमादौ। तदनुकूर्च्चद्वयम्। कूर्च्चबीजन्तु। व्योमषष्ठस्वरविन्दुमेलनरूपम्। तदेव द्विरुच्चार्य। भुवनाद्वयम् भुवना तु व्योमज्वलनेन्दिराशून्यमेलनरूपा। तद्वयम्। दक्षिणे कालिके इति अभिमुख्यता। तदनुबीजसप्तकमुच्चार्य्य। वृहद्भानुजायामुञ्चरेत्। मत्वा शिवमयो भवेत्। सर्व्वसिद्धीश्वरो भवेत्। गतिस्तस्यास्ति। नान्यस्य। स तु नारीश्वरः। स तु देवेश्वरः। इति॥ अभिनवजलदसङ्काशा। घनस्तनो। कुटिलदंष्ट्रा। स (श) वासना कालिका ध्येया। त्रिकोणं त्रिकोणं नवकोणम्।पद्मम्। तस्मिन् देवीं षडङ्गनाभ्यर्च्च्य। तदिदं सर्व्वाङ्गम्। ॐ कालीकपालिनीकुल्ला कुरुकुल्ला विरोधिनी। विप्रचित्ता। उग्रा। उग्रप्रभा। दीप्ता। नीला। घना। वलाका। मात्रा।मुद्रा।मिता। सैव पञ्चदशकोणगा। ॐ ब्राह्मी माहेश्वरो चैन्द्रो चामुण्डा कौमारीअपराजिता। वाराही नारसिंहीच अष्टपत्रगा। द्वितीयचतुःषष्ठाष्ट \[दश\] द्वादशचतुर्दशषोडशस्वरभेदेन प्रथमेन। प्रणवेन वा। मन्त्र विदध्यात्। अङ्गेतम्मूले (ना) वाहनम्। तदैव पूजनम्। य एनं मन्त्रराजं नियमेन अनियमेन वा। लक्षं लक्षमावर्त्तयति। स पाप्मानं तरति। स दुष्कृतानि तरति। स ब्रह्मभाग्भवति। सोऽमृतत्वभाग्भवति। स सर्वशोकंतरति। स आयुरारोग्यमैश्वर्य्य' लभते सदा। पञ्चमकारेण पूजयेत्। सदा भक्तो सदा वेदभक्तो भवेत्। स सर्व्वशास्त्रं जानाति। स सर्व्वप्रत्ययकारी भवति। राजानो दासतां यान्ति। सिद्धमन्त्रस्य जपिनाम्। यश्च पाश्चात्यम्। तन्मयम्। शिव एव हि। जष्वा सर्वदैवतम्। मन्त्रं बीजम्। यः स्वयम्। शिव एवायम्। अणिमादिविभूतीनामोश्वरः। कालिकां लभेत्। आवयोः पात्रभूतोऽसौ। सुकृतीत्यक्तकल्मषः। जीवन्मुक्तः स विज्ञेयो यः स्मरेद् घोरदक्षिणाम्। दशांश' होमयेत्। तदनु तर्पयेत्। अथ ह एकेषु यान् कामान् वाहयति भोषयति। अनिरुद्धज्ञानात्। अनिरुद्धसरस्वती। अथ एक कालिकामनु' जपेत्। यं (यः) मत्श्रद्धात्मा ज्ञानवैराग्ययुक्तः। शाम्भवं(व) दीक्षासुरतः। शाक्तो वा दिवा ब्रह्मचारो। रात्रीनग्नः। सर्वदा मैथुना—
 
 [^123]: "स्वरूपिणीति पाठान्तरम्।"
-
-
 
 सक्तमानसः। जपपूजादिनियमो योषित्सु प्रियकरः। सुभगोदकेन तर्पणम्। तेनैव पूजनम्। सर्व (दा) कालीरूपा (पमा) त्मानं विभावयेत्। सर्व्वयोषिदाश स) क्तो भवति। सर्व्वहत्यां तरति। अथ पञ्चमकारेण सर्व्वमाप्नोति। विद्यां पशु धनं धान्यं सर्व्वशस्यञ्च।कवित्वञ्च। नान्यः परमः पन्थाविद्यते। मोक्षाय। ज्ञानाय। धर्म्माय। तत्सर्वं भव्यं यत्किञ्चित् दृश्यादृश्यमानं। स्थावरजङ्गम (मं) तत्सर्व्वम्। कालिकातन्त्रे तु। तं प्रोक्तम्। वेदेऽयम्। मनुजापी। स पाप्मानं तरति। सतु अगम्यागमनं तरति। सभ्रूणहत्यां तरति। स सर्व्वपापं तरति। स सर्व्वसुखमाप्नोति। स सर्वं जानाति। स सर्व्वसन्नासी भवति। स विरक्तो भवति। स वै सर्व्ववेदकारीभवति। स सर्व्वमन्त्रजापीभवति। स सर्व्वशास्त्रवेत्ता भवति। स सर्व्वयन्त्राधिकारी भवति। आवयोर्मित्रभूतो भवति। इत्याह भगवान् शिवः। निर्विकल्पेन मनसा यः सर्वं करोति। अथ ह एनं मूलाधारे स्मरेद्दिव्यं त्रिकोणां तेजसां निधिम्। तस्याग्निरेखामानीय अध उर्द्धं व्यवस्थितम्। नीलतोयदमध्यस्थतड़िल्लेखेव भास्वराम्। नीलां सुपीतां भास्करवदुपमाम्। तस्याः शिखाया मध्ये परमोर्ध्वंव्यवस्थिताम्। स ब्रह्मा स शिवः। स स्मरः स सर्वपापैः प्रमुच्यते। स महापातकेभ्यः पूतो भूत्वा सर्व्वसिद्धिं कृत्वा केवल्यं भजतीति। भंरवोऽस्य ऋषिरनुष्टुप् छन्दःलज्जा बीजं कूर्च्चं शक्तिः कवित्वार्थे विनियोगः। ऋषिच्छन्दोदेवतं ज्ञात्वा मन्त्रफलमश्रुते। अथ सर्वांविद्यां प्रथममेक द्वयं त्रयं वा पुटितं कृत्वा वा जपेत्। गतिस्तस्यास्तोति। नान्यस्य। इह गतिः। ॐ सत्वं (त्यं) तत्सर्वम् (तत्सत्)। अथ हैनं गुरु परितोष्य गोहिरण्यादिभिर्गृहीयात्। मन्त्रराजम्। गुरुरपि शिष्थाय। सत्कुलीनाय शुश्रूषवे॥ स्त्रियं दृष्ट्वा स्वयं परिजप्यनिशायां विहरेत्। एकाकीशिवगेहे। लक्षंतदूर्ध्वं वा जप्ता देयम्। ॐ तत्सत्यम्। ॐ तत्सत्यम्। नान्यप्रकारेण वा सिद्धिर्भवतीति। कालिकामनीवा भावयति। त्रिपुरामन्त्रे वा सर्व्वस्य दुर्गामनीसिद्धिर्भवतीति॥
 
@@ -2112,17 +1884,11 @@ CALCUTTA,
 समाप्ता।  
 ————
 
-
-
 ॐ नमः शिवाय।
-
-
 
 **तारोपनिषत्।**
 
  अथ हैनां ब्रह्मरन्ध्रे तारिणोमाप्नोति। तारयतीति तारा। तारा स्यादर्द्वपञ्चाक्षररूपा ब्रह्मविष्णुमहेश्वरमदाशिवविन्दुमेलनरूपा विद्या। तथा प्रथमं भुवनामुच्चरेत्। व्योमज्वलनेन्दिराकलाविन्दुमेलनरूपा। ततो वधूमुच्चरेत्। (१) षोड़शहल तूर्य्यस्वरविन्दुमेलनरूपा। ततः कूर्च्चं व्योमषष्ठस्वरविन्दुमेलनरूपम्। नीलाख्या सरस्वती। इमामधीयानस्तर्कागमपुराणकाव्यादिवागीश्वरो भवति। तारादिकास्वान्ता चेत् तारा भवति। एतस्या ज्ञानमात्रेण जीवन्मुक्तो भवेद् वै। तामेत्य मर्व्वविद्याज्ञानवान् भवति। वारत्रयं यः पठेत्। समन्न्यासी शिव एव सर्व्वदेवमयो भवति। ताररहिता पुनरेकजटा भवति। एतद्रूपामधीयाना समानफलदा। नात्र मित्रामित्रादिविचारणा। सिद्धिविद्यानामासां फलं दक्षिणावत्। अथातो मन्त्रान् जलशुद्विक्षालनाचमनकराक्षतप्रक्षेपत्रिविधविघ्नोत्सारणभूम्यभिमन्त्रणं जलाभ्युक्षणकुसुमशुद्धियन्त्रनिम्माणरूपानागमवादी लिखेत्। एकलिङ्गेपितृभूमौ चिरशून्यनिर्ज्जने देवालये विजने चतुष्पथे उज्जटे भूधरतटे निर्ज्जने देशे निर्ज्जन देवागारे श्रीफलमूले विजने नदीतीरेचैत्यहट्टे वटाश्वत्थमूले स्वगृहे वा पूजा। पञ्चतत्त्वविधिना। अक्षोभ्यमुनिरस्यापि कन्दस्तु वृहतीकूर्च्चंबीजं शक्तिर्भुवना वधूः कोलकम्। एकजटा तारिणी वज्रोदकैकोग्रजटा महाप्रतिसरा पिङ्गोग्रैकजटा आभिमुख्येन षडङ्गानि इन्द्रनीलवर्णाभा मूलमन्त्रभाञ्जिमूलाधारनाभिहृदयत्रह्मरन्ध्रेषु भुवना बधूकूर्च्चशोषणदहनप्रोत्सारणामृतीकृतिर्मूर्त्तिर्जननीया तत्त्वबोधेन। सजलप्रावृषेण्यधनराजिनिभाष्य (द्व्य) ष्टवर्षा पीनोन्नतवक्षोरुहा नानाविधस्त्र्यलङ्कारविराजिता। स्वर्व्वालम्बोदरी भीमा व्याघ्रत्वगावृता महाचीनगुरुकपालपञ्चमुद्रा विराजिता भोमदंष्ट्रा करालास्या पिङ्गलोग्रैकजटा स्वङ्गकर्त्तृदक्षिणकरयुगा कपालोत्पलवामकरयुगा अरुणत्रिनेत्रा मावेशस्मरयुता अक्षोभ्यमौलौन्दुप्रज्वलिता पितृभूमिमध्यस्था ध्येया। चित्ततोषणानन्तरं स्वयं तारिणीति आत्म (त्मा) भेदतया आत्मनि सन्तोष्य पूर्व्वमोङ्कारं तत आकारः परेसुरेखे बज्ररेखे उत्तरे कूर्च्चं तदन्तास्त्रवह्निजाया। चतुरस्राष्टदलत्रिकोणरूपं यन्त्रम्। लक्ष्मीः सरस्वती रतिः प्रोतिः कीर्त्तिस्तुष्टिः शान्तिः सदाशिवश्वात्रगमागमवशात् पुष्पाञ्चलियोग मूलमन्त्ररूपपटल विहित-
-
-
 
 कुसुमपरद्रव्यदानतर्पणम्। नैवेद्यभूतवलिदानादिसुस्थ (मुख्य) षडङ्गानि। गुरूनपि यथादेशं। पूर्व्वादिदिशि गणेशवटुकक्षेत्रपालयोगिन्यः। आग्नेयादिषु वैरोचनशङ्खपाण्डर (१) तारकान्[^124]। त्रिकोणेषु बीजत्रयं। दिशि पद्मान्तकयमान्तकविघ्नान्तकनरकान्तकान्। त्रिकोणेषु बीजत्रयं ब्राह्मौ वैष्णवो माहेश्वरी शक्तित्रययुता यथायोग्यं वस्त्रालङ्कार महाशङ्खमालया लक्षं नियमेनानियमेन वा सिद्धविद्यानां देवज्ञानप्रकाशकानां संज्ञानसङ्कान्। कालिकाविहितानि कल्पानि कुर्य्यात्। अथ हैनं भगवन्तं परमेष्ठिनं सनत्कुमारः पप्रच्छ येन सर्व्वस्य सर्वं भवति म (त) न्मन्त्र' कथय भगवन् कोहि मन्त्राणां परमा मन्त्र देवतानाञ्च दैवतं किमुतास्य विद्यायुगशोधनं पुत्रपौत्रकवित्वञ्च धनधान्यकवित्वञ्च निर्व्वाणमोक्ष' लभते बुधः।केन विधिना आराध्यते केन मन्त्रेण सर्व्वमिति। अथाह भगवान्ं ब्रह्मा मन्त्राणां परमो मन्त्रस्तारेति परमा तारा सा देवतानाञ्च देवता। सर्व्वदा स्त्रीषु मध्येजपेत्। स्त्रिया योनौ सदा जपेत्। ऋतुमतीं गच्छेत्। तुलसीं त्यजेत् एवं कृत्वा गुरुः शिष्योऽयुतद्वयं निशायां एकाकीशून्यगृहे तिमिरालये। तदा सर्व्वस्य सर्व्वन्तरति यशस्यन्ते नराः॥ ॐ
 
@@ -2132,8 +1898,6 @@ CALCUTTA,
 ॐ ताराये नमः।
 
 ———
-
-
 
 **ॐ नमः काल्यै।**
 
@@ -2153,8 +1917,6 @@ CALCUTTA,
 
 **——————**
 
-
-
  अथातो धर्मजिप्रासा। ज्ञानं दुद्धिश्च। ज्ञानं मोक्षस्य कारणम्। मोक्षात् सर्वङ्गता बुद्धिः। प्रपञ्चेस्वरः। पञ्च विषयाः प्रपञ्चाःपञ्चमकाराः। तेषां ज्ञानस्वरूपाः। योगो मोक्षः। कुलधर्मकरचं ज्ञानम्। पमित्यज्ञानम्। ज्ञाने धर्म्मः। एषां मोक्षइत्यध्यात्मः। सर्व्वेन्द्रियाणां नयनप्रधानम्। अधर्म्मविहिता न कार्य्या धर्म्मः शाम्भवम्। श्रात्मनोऽनिन्दा।गुरुरेकः सर्व्ववेकता। बुद्धिर्मतिमता प्रकटयां (प्राकट्य ) न कुर्य्यात्। पशुभावणं। अन्यायो न्यायः। किमपि आत्मरहस्वं न वदेत् शिष्याय वदेत्। अन्तः शाक्तः। वह्निःशैवः। लोके न निन्दात्। लोके वेक्षवः।कौलं न निन्दात्। प्रकट्येन निरयः। न तिष्ठेत्। नियमेन नियमात्र मोक्षः। एतज्ङ्गा \[ज्ञा\] नं व्रतञ्चरेत्। कौलं प्रतिष्ठां कुय्यात्। निःसङ्ग एव भवेदित्याध्यामम्। अनित्य लोपः। मपञ्चमलाभे क्रमं कुर्य्यात्। अत्र शक्तिप्रधानम्। सर्व्वत्र निर्भयता फलमात्मालतारूपम्। शक्तिषु निष्ठुरतां न कुर्य्यात्। न स्वेच्छया पश्ञ्चमं स्वीकुर्य्यात्। कुलभ्रष्टं न सन्भाषयेत्। वीरस्त्रियमनिच्छाया म रमेत्। स्त्रियं न हन्यात् एतास्तु जपेत् प्रातरुत्थाय देशिकः। तस्वानामितिर्भवति इति पूजां कुर्व्वन्ति दिव्यन्ते नन्दने वने।
 
 इति सदाशिवप्रणीता कौलोपनिषत्
@@ -2162,8 +1924,6 @@ CALCUTTA,
 समाप्ता।
 
 ————
-
-
 
 BL      Tantras. Kaula
 
@@ -2183,151 +1943,5 @@ UNIVERSITY OF TORONTO LIBRARY
 
 —————————————————
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^90]: " रन्ध्रइति पाठः।"
-
-
-[^56]: "विधिशकन्या सविधीनां तवस्थानान्गुलमिति पाठः।"
-
-
-[^52]: "दधीति पाठः।"
