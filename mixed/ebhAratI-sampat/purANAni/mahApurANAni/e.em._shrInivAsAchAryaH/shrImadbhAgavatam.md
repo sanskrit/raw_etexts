@@ -15,21 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1MzY4OTE1MDU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 [TABLE]
-
-
 
 **FOREWORD**
 
@@ -37,13 +23,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjg1MzY4OTE1MDU
 
  **T** has been the ambition of Mr. G. A. Natesan to popularise the three most important poems in the sacred literature of India by bringing out abridgments of the original Sanskrit texts with an English translation. He first brought out an abridgment of Valmiki's Ramayana, the most famous Kavya in the classical literature of India. This was immediately followed by the abridgment of the Mahabharata, the greatest Itihasa. His latest venture is the abridgment of the Srimad Bhagavata which may be justly described as the greatest and most popular of the Puranas. Every Purana has necessarily to deal with a certain number of topics according to traditional conventions, and the manner of treatment of these topics is more or less on similar lines. But each Purana is further intended to serve a special purpose. The Puranas generally contain a strange medley of fables and fairy tales, philosophy and religion, myth and legend. It is not easy for a Western reader to appreciate to appreciate the teaching and value of our Puranas without a knowledge of the methods employed by the ancient
 
-
-
 Indian sages for inculcating the principles of ethics or the tenets of religion. The Bhagavata shares the defects of Puranas generally. It is full of incredible stories and miracles, and embodies divergent philosophical doctrines, divers cults, stories intended to exalt some particular incarnation or manifestation of the Deity and stories which do not hesitate to attribute faults of character to God or which may appear to the reader to have an immoral tendency. It is not free from the bias of sectarianism. Its literary merit is not uniform and is so uneven in substance and in style that we may reasonably suspect many interpolations and the work of more hands than one. The style is often harsh and rugged, involving highly artificial combinations of words. It has got its peculiar terminology. In this respect it compares unfavourably with the Ramayana. In spite of these defects, the Bhagavata has acquired a wonderful hold upon the minds of Hindus. It has a fascination even for the minds of those who. like myself, are keenly alive to its defects.
 
  What is the secret of the appeal that the Bhagavata makes even to the mind of the educated Hindu? The main theme of the Bhagavata is the importance of Haribhakti or devotion to God, especially in His manifestation as Krishna. It is generally said that the Bhagavata is par excellence the Purana which emphasises the value of Bhakti
-
-
 
 (devotion) and Virakti (detachment). Attractive stories are a vehicle employed by the Hindu sages for teaching morality and religion. The author of the Bhagavata has largely availed himself of this method.
 
@@ -51,25 +33,17 @@ Indian sages for inculcating the principles of ethics or the tenets of religion.
 
  The stories of the Deity and His miraculous intervention to help His votaries often read like fairy tales. They are not, however, accepted by the thoughful at their face value. It is pointed out by Sri Sankaracharya that the object of myth and legend in the Vedas is merely to lure the mind to the truths of religion. The stories are treated AS mere Arthavada (eulogistic) and not as facts. If, notwithstanding the progress of knowledge. educated people still listen with delight to these stories, it is because even they have not outgrown the credulity of childhood. What appeals
 
-
-
 to the childhood of the human race appeals even to grown-up individuals in civilised societies. Bernard Shaw has remarked that there is evidence for a law of conservation of credulity. Our appetite for the marvellous still persists in the hiddenrecesses of the mind. Stories of miracles are to be found in the Bible and in the literature of most religions. It is these defects which first strike the superficial observer who is unable to separate the pearls of truth and wisdom from the shells in which they are imbedded. Macaulay made fun of the history and geography of the Hindus, history abounding with kings thirty feet high and reigns thirty thousand years long, and geography made up of seas of treacle and seas of butter". But no educated Hindu takes these descriptions for history or geography.
 
  Dismissing these stories as intended for the entertainment of undeveloped minds, we find in the Bhagavata the highest truths of religion and philosophy and the highest principles of ethics expounded in appropriate language. The lilt of the verse in the Bhagavata has apeculiar charm of its own; it varieswith the occasion as it is gay or grave, from the lighter and swift moving measure of the madrigal and the pastoral song to the slow and solemn measureof the hymn. There
-
-
 
 is a solemnity and grandeur in the devotional songs which attunes the mind to the high theme. It is a poem to suit different modes and emotions, the mood of adoration or worship, of sorrow or joy, of peace and tranquillity, of discontent with the things of the world and a desire for freedom from its trammels, of humility and regret over wasted opportunities for salvation, of perplexity about the mysteries of the universe and the ways of God or of passionate yearning for union with God. with God. While the Western mind prefers to contemplate God in the role of a law-giver, a judge or a friend, the Hindu mind prefers to dwell upon the conception of God in His incarnation as a child, a son, a lover, a hero, a guide and counsellor, a protector of the oppressed and the humble and the pure in heart. and a saviour. This is the secret of the special charm of the Krishna Avatara.
 
  The virtues ascribed by the author to the Deity may sometimes appear to be carried to extremes. Like the God of the Israelites, the God of the Hindus is described as partial to the Devas or Suras who are His chosen people. This favouritism is unaccountable in view of the fact that the Gods or Suras are, like the Gods of Greek antiquity, not patterns of morality, and the Asuras or Titans are very often superior to the Gods in courage, chivalry,
 
-
-
 character and religious devotion. The moral superiority of the Asuras is conspicuous in the case of Vritra, Prahlada and Bali, whose character stands out in shining contrast to that of Indra, the ruler of the Devas. One plausible explanation which occurs to me is that God has been often depicted in the Puranas as a tribal God, and the partiality shown towards the Devas is consistent with this character. The unwilling testimony borne by the Puranas to the character of some of the Asuras is strange and calls for an explanation. The Asuras and Suras were agnatic relations, and the Asuras, who were the Gods of the ancient Iranians, represented the heroes of the Iranian branch of the Indo-Aryan family from which the Aryans of India separated when they trekked towards India.
 
  The protection of servants, dependants and votaries is an obligation and a virtue. Krishna exhibits a most touching solicitude for the inviolability of the troth of his Bhaktas even at the sacrifice sometimes of his own. One circumstance which must never be lost sight of sight of in our appraisal of the characters and events depicted in the Puranas or, for the matter of that, any work of past history, is that they reflect the conditions of the society in which the authors lived and
-
-
 
 the beliefs and ethical standards current at the time.
 
@@ -79,25 +53,17 @@ the beliefs and ethical standards current at the time.
 
  I have already referred to the tendency of our moralists and religious teachers to emphasise the value of the particular truths which they wish to impress on the mind by recourse to exaggeration. The importance of obedience to the father is illustrated by the story of Parasurama who killed
 
-
-
 even his mother at thebidding of his father. The banishmentof Sita to the forest is intended to illustrate the obligation of the sovereign to sacrifice his own personal happiness for the purpose of avoiding even the slightest breath of scandal against the throne. The value of the invocation of the Deity and the repetition of His name as a means of leading the mind to the thought of God and concentration upon the idea of God is illustrated by the extravagant story of Ajamila who was saved after a life of libertinism by pronouncing the name of Narayana. The human wish for longevity which often expresses itself in the longing for eternity is illustrated in the story of an ancient king Bharata who is said to have lived for ten million years. The slaughter of Kshatriyas by Parasurama must be interpreted not as a wanton act of revenge, but as an attempt to crush the growing militarism and aggressiveness of the warrior caste.
 
  The amours of Krishna have often proved a stumbling-block to the faithful and have furnished a handle to the critics of Hinduism. Several explanations have been attempted and the author of the Bhagavata himself raises the question and suggests an explanation that super-menare not to be judged by the standards of ordinary humanity. Many interesting
-
-
 
 questions are raised by this riddle. Are the incidents historical facts or were they merely the outcome of the luxuriance of the poet's voluptuous imagination? One circumstance which may throw light in forming an opinion upon this question is that Krishna has always been depicted in the Bhagavata as an incarnation in which he asserted and manifested his omnipotence and other divine attributes from time to time. He oftendeclared himself to be divine and was believed by his kinsmen and followers to be divine. When the sage Narada wished to find out how Krishna could lead could lead a happy married lifewith his 16,000 wives, he visited their mansions and found Krishna in every one of their homes. We must interpret the story and judge of the characters with due regard to the setting of the story and its milieu. Even the Gopis who ardently loved him addressed him as being not the son of a Gopi, but as the divinity residing in the hearts of all persons, who had taken a human form for the protection of the world. They idolised him as the Paramatman in the flesh.
 
  Hinduism often depicts God as the creator, preserver and destroyerof the universe. He is often identified with relentless time or fate. He is represented in the Bhagavata as having become incarnate as Krishna to reduce
 
-
-
 the over—population of the world. War was one of the well—known means by which the evil of over—population was rectifiedBhagavata describes Krishna as assuming in the world. When the authorof the responsibility for the drunken brawls and mutual slaughter of the turbulent Yadavas, he is simply identified with the evolutionary process of the world. The story is also intended to emphasise the evils of addiction to liquor.
 
  The value ofthe Bhagavata to the devout consists not so much in the stories and legends with which it abounds or in the charming lyrics or in the beauty of its poetic descriptions or in the portrayal of human nature with its intense human interest, but in its exposition of the main theme of the book. The essential truths which it emphasises again and again are the imperishability of the soul, the goodness, power and helpfulness of God and the attainment of salvation by the method of Bhakti. The path of Bhakti or devotion has sometimes been misrepresented by hostile critics. The true spirit of religion implies the adoration and love of God and the desire for unionwith God. The highest conception of bliss is not, according to the Hindu mind, mere prostration and service at the foot of the Almighty, but a loving union with Him. The salvation may take the shape of Salokya,
-
-
 
 Sarupya or Sayujya. In emphasising Bhakti as a method of salvation, the Bhagavata does not fail to lay stress on theneed for the service and love of humanity, nay of all living beings. There are beings. There are innumerable passages dwelling upon the importance of identifying oneself with all humanity. It is sufficient to quote one of the many passages in which goodness is defined:
 
@@ -112,23 +78,17 @@ Sarupya or Sayujya. In emphasising Bhakti as a method of salvation, the Bhagavat
 
  Mr. Natesan's object in publishing this abridgment of the Bhagavata is laudable. In making the selections from such a voluminous work, he has followed a principle of his own. His purpose is evidently to give some idea of all the Avataras described in the Bhagavata. To keep his book within the limits of space he has prescribed for himself he has cut out many passages of
 
-
-
 great beauty, especially the hymns. Opinions may differ as to the portions of the original which should have been included or excluded. But this is to a great extent amatter for individual judgment and taste. I understand that it is his intention to follow upthis book with an anthology of hymns in which I hope several of the hymns of the Bhagavata will find a place. Mr. Natesan has been fortunate in securing the services of Pandit A. M. Srinivasachari for the task of condensation and of Dr. V. Raghavan, a competentSanskrit scholar, for the translationofthe original text.
 
 **P. S. SIVASWAMY AIYER.**
 
 **\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **TRANSLATOR'S NOTE**
 
 **\_\_\_\_\_\_**
 
  THE Srimad Bhagavata was composed by Sage Vyasa at the instance of Sage Narada. This Purana, singing exclusively of the Lord'sglories and of the greatness of Devotion to Him, Vyasa taught to his son, Suka. Suka recited the Bhagavata to King Parikshit, the grandson of the Pandavas, who had been cursed to death. Subsequently the Suta, or minstrel, named Ugrasravas, of Romaharshana, recited this Bhagavata, as done by Vyasa to Suka and Suka to Parikshit, to Saunaka and other Brahmins and the sages assembled in the Naimisa forest during the session of the Sacrifice performed by Saunaka. The text proper, as narrated by Suka to Parikshit, is not given directly as Suka's narration. Almost every section is a narrative by some different person and this has made the structure of the Purana very involved. The text presented in this condensation is given as if it were all recited directly by Suka himself. The names of different persons to whom the different narratives are addressedare enclosed in square brackets as well as the addresses, by name by name or attribute, to King
-
-
 
 Parikshit, made by Suka. These are left untranslated. In all these respects, the plan of the earlier publication, the Mahabharata, is followed.
 
@@ -141,8 +101,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 
 **\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **PUBLISHER'S NOTE**
 
 **\_\_\_\_\_**
@@ -153,8 +111,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 
 ** Jan. 1937.                            
                     G. A. NATESAN.**
-
-
 
 **CONTENTS**
 
@@ -182,8 +138,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 | VAMANA & TRIVIKRAMA AVATARAS |
 | MATSYA AVATARA               |
 | RAMA AVATARA                 |
-
-
 
 |                                      |
 |--------------------------------------|
@@ -213,8 +167,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 | The Killing of Kamsa                 |
 | The Installation of Ugrasena as King |
 
-
-
 |                                   |
 |-----------------------------------|
 | Life with the Teacher             |
@@ -233,8 +185,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 | THE SALVATION OF PARIKSHIT        |
 | NOTE ON THE BHAGAVATA             |
 | INDEX TO PROPER NAMES             |
-
-
 
 **॥श्रीः॥**
 
@@ -261,8 +211,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 
 [^1]: "Suta,son of Romaharshana, hence called Raumaharshani, is the reciter of this and the other Puranas to Saunaka and other sages."
 
-
-
 **त्वया खलु पुराणानि सेतिहासानि चानघ।  
 आख्यातान्यप्यधीतानिशेतानि धर्मशास्त्राणि यान्युत।  
 नत्रतत्राञ्जसाऽऽयुष्मन् भवता यद्विनिश्चितम्।  
@@ -279,8 +227,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 'मुनयः साधु पृष्टोऽहं भवद्भिर्लोकमङ्गलः।  
 यत्कृतः प्रष्णसंप्रश्नो येनात्मा सुप्रसीदात॥**
 
-
-
  Rejoicing at this excellent inquiry, the Suta began to speak:
 
  "Sages! well have I been asked by you that which is for the well-being of the world; for, of Krishna has this great enquiry been made, an enquiry by which the soul gets completely composed.
@@ -294,11 +240,7 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 **'वासुदेवपरा वेदाः वासुदेवपराः क्रियाः॥  
 वासुदेवपरो धर्मो वासुदेवपरा गतिः॥**
 
-
-
  'It is Hari who is the import of the Vedas; it is Hari for whom all rituals are intended; it is Hari who is the object of all Dharmas; it is Hari who is the ultimate goal.
-
-
 
 **'स एवेदं ससर्जाने भगवानात्ममायया॥**
 
@@ -318,8 +260,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 उत्तमश्लोकचरितं चकार भगवानृषिः॥**
 
  " This Purana of the doings of the Lord of greatest renown, the well-known Bhagavata equal to the Vedas, the blessed sage Vyasa composed.
-
-
 
 **' तदिदं ग्राहयामास सुतमात्मवतां वरम्।  
 स तु संश्रावयामास महाराजं परीक्षितम्।  
@@ -342,8 +282,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 
  That Vyasa whose vision was never barren sat all alone and contemplated what was beneficial.
 
-
-
 **'धृतव्रतेन हि मया छन्दांसि गुरवोऽग्नयः।  
 मानिता निर्व्यलीकेन गृहीतं चानुशासनम्॥**
 
@@ -363,8 +301,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 
  To the hermitage of that Vyasa, who was thus pondering over the waste his soul had been, Narada came, lute in hand, and spoke, smiling a little :
 
-
-
 **'कृतवान् भारतं यस्त्वं सर्वार्थपरिबृंहितम्।  
 जिज्ञासितमधीतं च ब्रह्म यत्तत्सनातनम्।  
 अथापि शोचस्यात्मानमकृतार्थ इव प्रभो॥'**
@@ -381,8 +317,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
  Vyasa :
 
  "I do have all this you have said; still, my soul is not satisfied; its imperceptible cause that is too deep for me for me to understand, I ask of you. the son of theself—born Brahman."
-
-
 
  **नारदः—**
 
@@ -405,8 +339,6 @@ Parikshit, made by Suka. These are left untranslated. In all these respects, the
 
  " That outpour of the Lord's story washes away the sins of all humanity; though there are flaws in it in every verse, there are in it the names of the
 
-
-
 imperishable Lord, marked with his fame; and for this reason do good men listen to, sing and proclaim it to others.
 
 **'अथो महाभाग भवानमोघदृक्  
@@ -424,8 +356,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 **' आमयो यश्च भूतानां जायते येन सुव्रत।  
 तदेव ह्यामयं द्रव्यं न पुनाति चिकित्सितः।**
 
-
-
 **एवं नृणां क्रियायोगाः सर्वे संसृतिहेतवः।  
 त एवात्मविनाशाय कल्पन्ते कल्पिताः परे॥'**
 
@@ -440,8 +370,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 शुकमध्यापयामास निवृत्तिनिरतं मुनिः॥**
 
  In that hermitage of his, Vyasa held his mind in concentration, created this sacred taught it to his son Sukawho was. ever on the path of renunciation.
-
-
 
 **युधिष्ठिरः स्वराट् पौत्रमभ्यषिञ्चद्गजाह्नये॥**
 
@@ -464,8 +392,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **एकदा धनुरुद्यम्य विचरन्मृगयां वने।  
 मृगानुतः श्रान्तः क्षुधितस्तृषितो भृशम्।  
 ददर्श मनिमासीनं शान्तं मीलितलोचनम्।  
@@ -482,8 +408,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 ब्राह्मणं प्रत्यभूद् \[ब्रह्मन्\] मत्सरो मन्युरेव च॥**
 
  In him, who was being agonised by hunger and thirst, there arose suddenly what had never before arisen against a Brahmin, anger and a hatred of his superiority.
-
-
 
 **स तु ब्रह्मऋषेरंसे गतासुमुरगं रुषा।  
 विनिर्गच्छन्धनुष्कोट्या निधाय पुरमागतः॥**
@@ -502,8 +426,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 
  Having spoken thus, the boy delivered a curse, his eyes red with rage: "Instigated by me, (the serpent) Takshaka shall, on the seventh day (from now), bite this blight of his family, this enemy of my father, who has thus trangressed the bounds."
 
-
-
 **निशम्य शप्तमतदर्हंनरेन्द्रं  
    स ब्राह्मणो नात्मजमभ्यनन्दत्।  
 ‘अहो बतांहो महदज्ञ ते कृत—  
@@ -516,8 +438,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 क्षुत्तृट्छ्रमयुतो दीनो नैवास्मच्छापमर्हति॥'**
 
  "The king is the guardian of Dharma and that that Parikshit is an emperor of great renown, a great devotee of the Lord, a sage among kings and and a performer of horse-sacrifices. Pitiable with fatigue, hunger and thirst, he hardly deserves a curse from us."
-
-
 
 **इति पुत्रकृताघेन सोऽनुतप्तो महामुनिः।  
 स्वयं विप्रकृतो राज्ञा नैवाधं तदचिन्तयत्॥**
@@ -536,8 +456,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 कृष्णङ्घ्रिसेवामधिमन्यमानः  
    उपाविशत् प्रायममर्त्यनद्याम्॥**
 
-
-
  Then, leaving aside this world as well as the other, both of which he had already judged as things that must be cast away, he regarded service at the feetof Krishna as greater and sat on banks of the celestial river (the Ganges), vowing to fast unto death.
 
 **दध्यौ मुकुन्दाङ्घ्रिमनन्यभावो  
@@ -552,8 +470,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 
  There came, along with pupils, great sages who sanctified the world. Honouring them, the king, with his pure mind, announced what he desired to do.
 
-
-
 **'द्विजोपसृष्टः कुहकस्तक्षको वा  
    दशत्वलं गायत विष्णुगाथाः।  
 पुनश्च भूयाद्भगवत्यनन्ते  
@@ -567,8 +483,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
    यदृच्छया गामटमानोऽनपेक्षः।  
 मुनिं नृपो भागवतोऽभ्युपेत्य  
    नत्वागिरा सूनुतयाऽन्वपृच्छत्॥**
-
-
 
  There the divine son of Vyasa, Suka, arrived accidentally, wandering as he was all over the world, looking forward to nothing. The royaldevotee of God, Parikshit, approached him, bowed to him and enquired of him in pleasing words:
 
@@ -592,8 +506,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 **श्रोतव्यादीनि राजेन्द्र नृणां सन्ति सहस्रशः।  
 अपश्यतामात्मतत्त्वं गृहेषु गृहमेधिनाम्॥**
 
-
-
  "Great King, to those householders who, attached to their families, do not realise the Truth of Self, things that should be listened to, thought of and worshipped exist in thousands.
 
 **तस्माद्भारत सर्वात्मा भगवान् हरिरीश्वरः।  
@@ -610,8 +522,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 
  "Scion of Kuru, there are still seven days for your life to come to an end and ere that time, prepare all that which would lead you to salvation.
 
-
-
 **'अन्तकाले तु पुरुष आगते गतसाध्वसः।  
 छिन्द्यादसङ्गशस्त्रेण स्पृहां देहेऽनु ये च तम्॥**
 
@@ -627,8 +537,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
 
  "He is pure knowledge itself; that which is the innermost of everything; that firmly established thing about which there is no doubting; He is Truth itself; that full thing that has neither beginning nor end; He is the attributeless, the eternal and (the one that is) without a second.
 
-
-
 **'यत् किञ्च लोके भगवन्महस्व—  
    दोजस्सहस्वद्बलवत् क्षमावत्।  
 श्रीह्नीविभूत्यात्मवदद्भुतार्णं  
@@ -642,8 +550,6 @@ imperishable Lord, marked with his fame; and for this reason do good men listen 
    ननुक्रमिष्ये त इमान् सुपेशान्॥**
 
  “These sportful incarnations of that boundless Spirit which the sages consider as the chief ones, which purify the ears of those that ardently listen to them and which are most beautiful, I shall relate.
-
-
 
 **॥श्रीः॥**
 
@@ -664,8 +570,6 @@ THE STORY OF THE BOAR-INCARNATION
 अहीन्द्रतल्पेऽधिशयान एकः  
    कृतक्षणः स्वात्मरतौ निरीहः॥**
 
-
-
  This universe was flooded with water at that time (of creation); and lying on those waters, on the bed of the great serpent, the one Being of never-closing eyes, closed His eyes (in mystic sleep), bereft of any yearning and choosing to revel in the bliss of His own self.
 
 **सोऽन्तश्शरीरेऽर्पितभूतसूक्ष्मः  
@@ -679,8 +583,6 @@ THE STORY OF THE BOAR-INCARNATION
    तस्मिन्स्वयं वेदमयो विधाता।  
 स्वयंभुवं यं स्म वदन्ति सोऽभून्  
    न्यषीददारूढसमाधियोगः॥**
-
-
 
  It suddenly shot up as a lotus-bud. In it was born of himself the creator who is of the form of the Vedas and who is called Svayambhu, the self—born. Entering on concentration, he sat (on the lotus there).
 
@@ -698,8 +600,6 @@ THE STORY OF THE BOAR-INCARNATION
 तेनैव मे दृशमनुस्पृशताद्यथाऽहं  
    स्रक्ष्यामि कर्मशमलं च यथा विजह्याम्॥'**
 
-
-
  "I seek this form of yours that is the sole source of hundreds of incarnations and embodies (within itself) the beings and their faculties. May you infuse my mind with the knowledge and the power with which you, this Lord, friend and one soul of the universe, make (the universe) happy, so that I shall create and yet avoid the stain attending that act."
 
  **श्रीभगवान्—**
@@ -715,8 +615,6 @@ THE STORY OF THE BOAR-INCARNATION
 अतो मयि रतिं कुर्याद्देहादिर्यत्कृते प्रियः॥**
 
  “Ocreator! I am the soul of those souls for the sake of which bodies and other objects are dear, being thus the dearest of even the very dear; therefore, one should have his love for me.
-
-
 
 **‘प्रजास्सृज यथापूर्वंयाश्च मय्यनुशेरते॥'**
 
@@ -739,8 +637,6 @@ THE STORY OF THE BOAR-INCARNATION
 **इत्यभिध्यायतो नासाविवरात्सहसा \[अनघ\]।  
 वराहतोको निरगादङ्गष्ठपरिमाणकः॥**
 
-
-
  From the nostril of the creator who was thus meditating, there issued out, of a sudden, a little Boar, of the size of the thumb.
 
 **तस्याभिपश्यतः स्वस्थः क्षणेन किल \[भारत\]।  
@@ -757,8 +653,6 @@ THE STORY OF THE BOAR-INCARNATION
 तत्रादिदेत्यं गदयाऽऽपतन्तं  
    जघान रुन्धानमसह्यविक्रमः॥**
 
-
-
  Lifting with His tusk the earth which was submerged, He rose up from the nether world and looked resplendent. There, (in the nether world) the Lord, whose prowess none can withstand, killed the prime demon (Hiranyaksha)¹ who attacked Him with his mace and obstructed Him.
 
 **क्ष्मामुत्क्षिपन्तं गजलीलयाऽङ्गविरिञ्चिमुख्या उपतस्थुरीशम्॥**
@@ -768,8 +662,6 @@ THE STORY OF THE BOAR-INCARNATION
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  1THE STORY OF HIRANYAKSHA : Once Sanaka and other sons of Brahma went to Vishnu's abode in Vaikuntha to worship Him and they were prevented from entering the sanctum by Jaya and Vijaya, the door-keepers of Vishnu. For this rudeness, Jaya and Vijaya were cursed to be born as demons. They are first born as the primo domon-twins, Hiranyakasipu and Hiranyaksha, in the womb of Diti. The latter is slain by the Lord in the Varaha avatara and the former in the Narasimha avatara. They are again born as Ravana and Kumbhakarna to be slain in the Rama avatara and once again as Sisupala and Dantavaktra to be slain in the Krishna avatara. These successive encounters with the Lord and death at His handspurify them and they ultimately regain the divinestate which was theirs before their fall.
-
-
 
 **स इत्थं भगवानुर्वीमप्सु न्यस्य ययौ हरिः॥**
 
@@ -782,8 +674,6 @@ THE STORY OF THE BOAR-INCARNATION
 THUS ENDS THE STORY OF THE BOAR—INCARNATION.
 
 \_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **॥श्रीः॥**
 
@@ -808,8 +698,6 @@ THE STORY OF THE INCARNATION AS KAPILA
 
  \* Kardama: The creator Brahma who was born of the navel-lotus of the Lord created the elements, the world of animals and trees and then the sages and divine beings. Among the last were Daksha, Kardama and others who were the progenitors of the human race (Prajapatis).
 
-
-
  **श्रीभगवान्—**
 
 **‘प्रजापतिसुतस्सम्राण्महिष्या शतरूपया।  
@@ -828,8 +716,6 @@ meet husband for her.
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  \* Manu is the first man. After creating the sages and divine boings, Brahma felt that he could not yet bring into being the human species and as he was feeling thus, his form divided into two, a male and a female. The male is Manu, the first man and emperor; he is called Svayambhuva Manu, i.e., Manu born of the Creator, Svayambhu. The female was Satarupa who became Manu's queen and from this prime-couple, the human species began to develop. Two sons, Priyavrata and Uttanapada, and three daughters, Akuti, Devahuti and Prasuti, were born to Manu and Satarupa. Manu gives Devahuti in marriage to Kardama Prajapati and of those two is born sage Kapila, an incarnation of the Lord to bless the world with spiritual enlightenment.
-
-
 
 **अथ संप्रस्थिते शुक्ले कर्दमो भगवानृषिः।  
 आस्ते स्म बिन्दुसरसि तं कालं प्रातेपालय।  
@@ -854,8 +740,6 @@ meet husband for her.
 
  "Surely I am desirous of marrying and your daughter has not yet been given in marriage to anybody."
 
-
-
 **सोऽनुज्ञात्वा व्यवसितं महिष्या दुहितुस्स्फुटम्।  
 तस्मै गुणगणाढ्याय ददौ तुल्यां प्रहर्षितः॥**
 
@@ -874,8 +758,6 @@ meet husband for her.
    तं त्वाऽभिपृच्छेऽद्य पति प्रजानाम्।  
 परिव्रजत्पदवीमास्थितोऽहं  
    चरिष्ये त्वां हृदि युञ्जन्विशोकः॥**
-
-
 
  "I take refuge in Kapila whose power is dependent on Himself alone. I now take leave of you (Kapila), the Lord of all beings. Taking to the path of the Sannyasin, I shall move about, fixing you in my heart and bereft of all sorrow.”
 
@@ -896,8 +778,6 @@ meet husband for her.
 **'मात्रे आध्यात्मिकीं विद्यां शमनीं सर्वकर्मणाम्।  
 वितरिष्ये यया चासौ भयं चातितरिष्यति॥**
 
-
-
  “I shall impart to my mother(also) the spiritual knowledge that puts an end to all action, whereby she too shall overcome Fear. "
 
 **एवं समुदितस्तेन वनमेव जगाम ह॥**
@@ -916,8 +796,6 @@ meet husband for her.
 
  Devahuti told her son: "Lord, I am in the utter darkness (of nescience). You are that prime Being, the Lord and Master
 
-
-
 of all men, risen like the sun who is the eye of this world, which is blinded with darkness. Therefore, O God! you must remove my gross ignorance."
 
  **श्रीभगवान्—**
@@ -933,8 +811,6 @@ of all men, risen like the sun who is the eye of this world, which is blinded wi
 गुणेषु सक्तं बन्धाय रतं वा पुंसि मुक्तये॥**
 
  "The mind it is that is held as the cause of the soul's bondage as well as of its release; engrossed in material objects of enjoyment, it makes for bondage; if it revels in the spirit, it makes for emancipation.
-
-
 
 **' प्रसङ्गमजरं पाशमात्मनः कवयो विदुः।  
 स एव साधुषु कृतो मोक्षद्वारमपावृतम्॥**
@@ -954,8 +830,6 @@ for whom their character is the ornament.
 
  “Some desire not oneness with Me, delighting as they do in service at My feet and yearning for Me,— those for whom I am the object of love, the soul, son, companion, teacher, friends and the deity beloved.
 
-
-
 **'एतावानेव लोकेऽस्मिन् पुंसां निःश्रेयसोदयः।  
 तीव्रेण भक्तियोगेन मनो मय्यर्पितं स्थिरम्॥**
 
@@ -971,8 +845,6 @@ for whom their character is the ornament.
 
  "Performing one's Dharma up to his capacity, turning away from what is another's Dharma, contentment with what is one's lot by destiny, worshipping the feet of men of self—realisation, abstaining from doing the low and vulgar, and taking pleasure in the Dharma that would lead to liberation,
 
-
-
 eating pure food in moderation, frequently resorting to the security of solitude, non-injury, truthfulness, non-stealing, taking no more than the necessary amount of material possession, restraint in sexual enjoyment, penance, personal purity, study of scriptures, worship of God,— by these and other ways mind casts off its impurity.
 
 **अभिसन्धाय यो हिंसां दम्भं मात्सर्यमेव वा।  
@@ -984,8 +856,6 @@ eating pure food in moderation, frequently resorting to the security of solitude
 अर्चादावर्चयेद्यो मां पृथग्भावः स राजसः॥**
 
  "He who,contemplating objects of enjoyment, fame or riches, worships Me in images and the like—that man who also has the sense of difference, is one who is prompted by passion.
-
-
 
 **'कर्मनिर्हारमुद्दिश्य परस्मिन्वा तदर्पणम्।  
 यजेद्यष्टव्यमिति वा पृथग्भावः स सात्त्विकः॥**
@@ -1005,8 +875,6 @@ eating pure food in moderation, frequently resorting to the security of solitude
 **'द्विषतः परकाये मां मानिनो भिन्नदर्शिनः।  
 भूतेषु बद्धवैरस्य न मनः शान्तिमृच्छति॥**
 
-
-
  “The mind of that person who hates me in the bodies of others, is conceited, differentiates, and is inimical towards beings, does not attain peace.
 
 **'अहमुच्चावचैर्द्रव्यैः क्रिययोत्पन्नयाऽनघे।  
@@ -1019,13 +887,10 @@ eating pure food in moderation, frequently resorting to the security of solitude
 
  “Doing his duty, one duty, one should Me, the Master, in images and the like only so long as he does not in his heart realise Me as established within all beings.  
 
-
 **अथ मां सर्वभूतेषु भूतात्मानं कृतालयम्।  
 अर्हयेद्दानमानाभ्यां मैत्र्याऽभिन्नेन चक्षुषा॥**
 
  Therefore, one should honour with gifts and respect, with friendlineas and an eye which is not invidious, Me who, as the soul of all beings, have my temple in all beings.
-
-
 
 **'मनैसैतानि भूतानि प्रणमेद्बहुमानयन्।  
 ईश्वरो जीवकलया प्रविष्टो भगवानिति॥**
@@ -1045,8 +910,6 @@ eating pure food in moderation, frequently resorting to the security of solitude
 **सा चापि तनयोक्तेन मार्गेणाचिरतः परम्।  
 आत्मानं ब्रह्म निर्वाणं भगवन्तमवाप ह॥**
 
-
-
  And the mother, Devahuti also, by the path shown by her son, soon attained that Supreme Lord who is Himself one's soul, the universal soul and the final beatitude.
 
 **॥इति कपिलावतारकथा॥**
@@ -1056,8 +919,6 @@ eating pure food in moderation, frequently resorting to the security of solitude
 THUS ENDS THE STORY OF THE INCARNATION AS KAPILA
 
 \_\_\_\_\_\_\_\_\_\_
-
-
 
 .**॥श्रीः॥**
 
@@ -1082,8 +943,6 @@ THE STORY OF DHRUVA
 **एकदा सुरुचेः पुत्रमंकमारोप्य लालयन्।  
 उत्तमं नारुरुक्षन्तं ध्रुवं राजाऽभ्यनन्दत॥**
 
-
-
  Once, taking Uttama, the son of Suruchi, on his lap and fondling him, the king did not like Dhruva who also desired to get on his lap.
 
 **तथा चिकीर्षमाणं तं सपत्न्यास्तनयं ध्रुवम्।  
@@ -1102,8 +961,6 @@ THE STORY OF DHRUVA
 सुनीतिरुत्सङ्ग उदुह्य बालं  
    निशम्य तद्वालकमाह बाला॥**
 
-
-
  Pierced by these very sharp words of his step-mother, Dhruva approached his own mother, weeping bitterly. Youthful Suniti took her boy on her lap, heard of what had taken place and told him:
 
 **‘माऽमङ्गलं तात परेष्वमंस्था  
@@ -1117,8 +974,6 @@ THE STORY OF DHRUVA
 
 **एवं सञ्जल्पितं मातुराकयर्थागमं वचः।  
 संनियम्यात्मनाऽऽत्मानं निश्चक्राम पितुः पुरात्॥**
-
-
 
  Hearing his mother's words thusblabbered (in grief), words which were (destined) to accomplish his object, Dhruva controlled his mind himself and went out of his father's city.
 
@@ -1135,15 +990,12 @@ THE STORY OF DHRUVA
 **'विकल्पे विद्यमानेऽपि न ह्यसन्तोषहेतवः।  
 पुंसो मोहमृते भिन्ना यल्लोके निजकर्मभिः॥**
 
-
-
  “Though there is the difference of insult and honour, there are (really) nocauses for discontent for a man except his ignorance; for, in (this) world, men aredifferent because of their own actions.
 
 **परितुष्येत्ततस्तात तावन्मात्रेण पुरुषः।  
 दैवोपसादितं यावद्वीक्ष्येश्वरगतिं बुधः॥**
 
  "Therefore, dear child, the wiseman should content content himself with that which him, under-destiny has provided for him, standing the design of the Master.  
-
 
 **‘अथ मात्रोपदिष्टेन योगेनावरुरुत्ससि।  
 यत्प्रसादं स वै पुंसां दुराराध्यो मतो मम॥**
@@ -1154,8 +1006,6 @@ THE STORY OF DHRUVA
 यतिष्यति भवान्काले श्रेयसां समुपस्थिते॥**
 
  "Therefore, may you turn back; this tenacity of thine is futile; thou is futile; thou shouldst make (all these) efforts when the propitious time comes.
-
-
 
 **'गुणाधिकान्मुदं लिप्सेदनुक्रोशं गुणाधमात्।  
 मैत्रीं समानादन्विच्छेन तापैरभिभूयते॥'**
@@ -1173,8 +1023,6 @@ THE STORY OF DHRUVA
 
 **'अथापि मेऽविनीतस्य क्षात्रं घोरमुपेयुषः।  
 सुरूच्या दुर्वचोबाणैर्न भिन्नं श्रयते हृदि॥**
-
-
 
  " Still, (this advice of yours) does not enter (this) heart of mine that is pierced with the shafts of Surichi's sharp words, this heart of myself who am unsubdued and violently militant in spirit.
 
@@ -1199,8 +1047,6 @@ THE STORY OF DHRUVA
 
 **“ओंनमो भगवते वासुदेवाय॥"**
 
-
-
  Narada—
 
  "The path which your mother told you of is for your salvation. Therefore, my child,may welfare attend you; go to the pure bankof the Yamuna, the forest of Madhuvanawhere there is the eternalpresence ofGod Hari. With a constant and onepointed mind you should meditate uponthe munificent Lord with a smile andlook of love. And prince, hearken to this greatest and (most) secret Mantra that must be meditated upon and repeated:'Om,obeisance unto Lord Vasudeva'."
@@ -1213,8 +1059,6 @@ THE STORY OF DHRUVA
 **समाहितः पर्यचरदृष्यादेशेन पूरुषम्।  
 ध्यायन्ब्रह्म पदैकेन तस्थौ स्थाणुरिवाचलः।  
 ब्रह्म धारयमाणस्य त्रयो लोकाश्चकंपिरे॥**
-
-
 
  According to sage Narada's instruction, he attentively worshipped the Supreme Being. Contemplating the Brahman, he stood on one leg, motionless like the trunk of a tree. As he was holding his mind on the Brahman, the three worlds shook.
 
@@ -1230,8 +1074,6 @@ THE STORY OF DHRUVA
 दृग्भ्यां प्रपश्यन्प्रापेबभिवार्यकः  
    चुम्बन्निवास्येन भुजैरिवाश्लिषन्॥**
 
-
-
  With fear coming upon him on seeing the Lord, the boy (Dhruva) prostrated himself on the ground, throwing his body down like a stick, looking at Him intently as if he were drinking Him in with his eyes, appearing to kiss Him with his mouth and embrace Him with numerous arms.
 
 **स तंविवक्षन्तमतद्विदं हरि—  
@@ -1246,8 +1088,6 @@ THE STORY OF DHRUVA
 
  Obtaining the power of speech at that very moment, Dhruva for whom God had already reserved a permanent place, sang of Him in his devotion:
 
-
-
 **' योऽन्तः प्रविश्य मम वाचमिमां प्रसुप्तां  
 सञ्जीवयत्यखिलशक्तिधरः स्वधाम्ना।  
 अन्यांश्च हस्तचरणश्रवणत्वगादीन्  
@@ -1261,8 +1101,6 @@ THE STORY OF DHRUVA
 आनन्दमात्रमविकारमहं प्रपद्ये॥'**
 
  "I seek refuge in Thee who art that from which, one after another, Learning and other manifold powers fall away arrested with their progress every time,— that Brahman, the source of the Universe, the One, the Endless, the First, that which is Bliss itself and is the Immutable."
-
-
 
 **अथाभिष्टुत एवं वै भगवानिदमब्रवीत्॥**
 
@@ -1281,8 +1119,6 @@ THE STORY OF DHRUVA
 भुक्त्वाचेहाशिषस्सत्या अन्ते मां संस्मरिष्यसि।  
 ततो गन्तासि मत्स्थानं यतो नावर्तते गतः॥'**
 
-
-
  "When, handing over the kingdom( to you), your father retires to the forests, you shall, upholding Dharma, protect the kingdom for thirty—six thousand years, with your faculties unimpaired. And having enjoyed the rightful things with which you will be blessed, you shall think of me in the end; and then shall you go to my place, whence one returns not."
 
 **बालस्य पश्यतो धाम स्वमगाद्गरुडध्वजः।  
@@ -1298,8 +1134,6 @@ THE STORY OF DHRUVA
 
  (Dhruva said unto himself:) "This has been sought by me by me in vain, like medicine sought after life had departed. Having
 
-
-
 propitiated by my penance the Soul of the universe who is hard to be pleased, I, this unfortunate self, begged of the destroyer of the misery of birth anddeath, that misery itself.
 
 **''स्वराज्यंयच्छतो मौढ्यान्मानो मे भिक्षितो बत।  
@@ -1314,8 +1148,6 @@ propitiated by my penance the Soul of the universe who is hard to be pleased, I,
 
 **सुरुचिस्तं समुत्थाप्य पादावनतमर्भकम्।  
 परिष्वज्याह जीवेति बाष्पगद्गदया गिरा॥**
-
-
 
  Suruchi lifted that lad who had bowed at her feet, embraced him and in in a tone tremulous with tears said: "Live long. "
 
@@ -1333,8 +1165,6 @@ propitiated by my penance the Soul of the universe who is hard to be pleased, I,
 श्रुत्वा दृष्ट्राऽद्भुततमं प्रकृतीनां च संमतम्।  
 अनुरक्तप्रजं \[ राजा \] ध्रुवं चक्रे भुवः पतिम्॥**
 
-
-
  The royal sage Uttanapada, hearing of and himself seeing that most wonderful greatness of his son, and seeing also the consent of the subjects, made Dhruva,. beloved of the subjects, the lord of the Kingdom.
 
 **आत्मानं च प्रवयसमाकलय्य विशाम्पतिः।  
@@ -1351,8 +1181,6 @@ propitiated by my penance the Soul of the universe who is hard to be pleased, I,
 
  The subjects looked on Dhruva,. endowed with such conduct, as their father
 
-
-
 **एवं बहुसवं कालं नीत्वा कृष्णपरायणः।  
 अभूत्त्रयाणां लोकानां चूडामणिरिवामलः॥**
 
@@ -1368,8 +1196,6 @@ THUS ENDS THE STORY OF DHRUVA
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **॥श्रीः॥**
 
 **॥पृथुराजचरित्रः॥**
@@ -1380,7 +1206,6 @@ THE STORY OF THE INCARNATION
 AS KING PRITHU
 
 \_\_\_\_\_\_\_\_
-
 
 **सुनीथाऽङ्गस्य या पत्नी सुषुवे घेनमुल्वणम्॥**
 
@@ -1393,8 +1218,6 @@ AS KING PRITHU
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \* After Dhruva, his eldest son Utkala having become desireless of kingdom, his next son Vatsara became king. Vatsara's wife gave birth to six sons; the eldest of these, Pushparna begot six sons on his two wives. The last of these, Vyushta, had a son named Sarvatejas by his wife named Pushkarini. Of Sarvatejas and Akuti was born the Manu named Chakshus. Chakshusha Manu had twelve sons, the last of whom, Ulmuka begot six sons, the eldest of whom was Anga.
-
-
 
 **तं विचक्ष्य खलं पुत्रं नृप आसीत्सुदुर्मनाः॥**
 
@@ -1416,8 +1239,6 @@ AS KING PRITHU
 
  Haughty and imagining himself great, he insulted the eminent. " Brahmins ! You should not perform sacrifices; you should not make any gifts; you should not offer any oblations anywhere." Thus did he prohibit Dharma by the beat of drum everywhere.
 
-
-
 **'अहो उभयतः प्राप्तं लोकस्य व्यसनं महत्।  
 दारुण्युभयतो दीप्त इव तस्करपालयोः॥**
 
@@ -1433,8 +1254,6 @@ AS KING PRITHU
 उपव्रज्याब्रुवन्वेनं सान्त्वयित्वा च सामभिः॥**
 
  Resolving thus, the sages approached Vena with their anger concealed, and told him, conciliating him with gentle words:
-
-
 
 **'धर्मस्स ते मा विनशेत्प्रजानां क्षेमलक्षणः।  
 यस्मिन्विनष्टे नृपतिरैश्वर्यादवरोहति॥**
@@ -1456,8 +1275,6 @@ Vena-
 
  "You are either childish or you imagine Dharma in what is Adharma,—you who ignore the husband who maintains you and adore the clandestine lover.
 
-
-
 **'विष्णुर्विरिञ्यो गिरिश इन्द्रो वायुर्यमो रविः।  
 एते वान्ये च विबुधाः प्रभवो वरशापयोः।  
 देहे भवन्ति नृपतेस्सर्वदेवमयो नृपः।  
@@ -1474,8 +1291,6 @@ Vena-
 बाहुभ्यां मथ्यमानाभ्यां मिथुनं समपद्यत॥  
 विष्णोः कला पृथुर्नाम महाराजः पृथुश्रवाः।  
 अर्चिश्च तत्परा हि श्रीरनुजज्ञेऽनपायिनी॥**
-
-
 
  Of the arms of of king Vena who died childless, the arms that were being churned by Brahmins, was born a couple: a partial manifestation of Lord Vishnu, Prithu by name, who was to be an emperor of and the imperishable Goddess Lakshmi, always devoted to Vishnu, was born after Prithu as Archis.
 
@@ -1495,8 +1310,6 @@ Vena-
 **नादण्डयं दण्डयत्येष सुतमात्मद्विषामपि।  
 दण्डयत्यात्मजमपि दण्डयं धर्मपथे स्थितः॥**
 
-
-
  Steadfast in Dharma, this Prithu punished not the innocent, even if he were the son of one who hated him (Prithu), and he punished even his own son, if if the son deserved punishment.
 
 **मातृभक्तिः परस्त्रीषु पत्न्यामर्धइवात्मनः।  
@@ -1511,8 +1324,6 @@ Vena-
 प्राक् पृथोरिह नैवैषा पुरग्रामादिकल्पना॥**
 
  King Prithu, son of Vena, made (the surface of) the earth almost even; and on it then, Prithu, who was God Himself, and who maintained his subjects like a father, created everywhere places of dwelling,—
-
-
 
 villages, cities, towns, and various kinds of forts. Before Prithu, there never was on this earth this devising of cities, villages and the like.
 
@@ -1532,8 +1343,6 @@ THUS ENDS THE STORY OF THE INCARNATION AS KING PRITHU
 1. Prithu was called Raja, having been king par excellence. Both the moon and the king are called Raja. Raja is derived from the root Ranj to please. The ideal king is thus one who pleases his subjects.
 
 \_\_\_\_\_\_\_\_\_
-
-
 
 **॥श्रीः॥  
 ॥प्राचीनवर्हिः प्रबोधकथा॥**
@@ -1556,9 +1365,6 @@ THE STORY OF THE ENLIGHTENMENT OF PRACHINABARHIS
 
 1.Prithu was succeeded by Vijitasva his son, who had the other name Antardhana. By Nabhasvati, a wife of his, Antardhana had the son Havirdhana. Havirdhana had six sons, the eldest of whom was Barhishat otherwise called Prachinabarhis, one of the Prajapatis, (primeval progenitors) and always engrossed in sacrificial rites.
 
-
-
-
 **प्राचीनवर्हिषं \[क्षत्तः\] कर्मस्वासक्तमानसम्।  
 नारदोऽध्यात्मतत्त्वज्ञः कृपालुः प्रत्यबोधयत्॥**
 
@@ -1580,8 +1386,6 @@ THE STORY OF THE ENLIGHTENMENT OF PRACHINABARHIS
 **नैकान्ततः प्रतीकारः कर्मणां कर्म केवलम्।  
 द्वयं ह्यविद्योपसृतं स्वप्ने स्वप्न इवानघ॥**
 
-
-
  “As a man carrying a heavy burden on his head bears it (now) on his shoulder, even so are all remedies. Action by itself can never be the final remedy for Actions; for both proceed from nescience; O sinless soul ! it is like a dream within a dream!
 
 **‘अथात्मनोऽर्थभूतस्य यतोऽनर्थपरम्परा।  
@@ -1598,8 +1402,6 @@ THE STORY OF THE ENLIGHTENMENT OF PRACHINABARHIS
 स्तब्धो बृहद्वधान्मानी कर्म नावैषि यत्परम्।  
 तत्कर्म हरितोषं यत् सा विद्या तन्मतिर्यया॥**
 
-
-
  “Strewing the whole of this earth with blades of grass thrown eastward, you pride yourself with this huge slaughter of living beings and imagining that you have done the right thing, you know not that which is the greater Karma. That is Karma which pleases Lord Hari; that is knowledge which makes one think of Him.
 
 **‘हरिर्देहभृतामात्मा स्वयं प्रकृतिरीश्वरः।  
@@ -1614,8 +1416,6 @@ THE STORY OF THE ENLIGHTENMENT OF PRACHINABARHIS
 
 **भागवतमुख्यो भगवान्नारदो हंसयोर्गतिम्।  
 प्रदर्श्य ह्यमुमामन्त्र्य सिद्धलोकं ततोऽगमत्॥**
-
-
 
  Blessed Narada, chief among God’s devotees, having explained the natur of the Universal and Individual Souls, took leave of Prachinabarhis and then went to the world of those who have realised their Self.
 
@@ -1638,8 +1438,6 @@ ENLIGHTENMENT OF KING PRACHINABARHIS.**
 
 **\_\_\_\_\_**
 
-
-
 **॥ श्रीः ॥**
 
 **॥ प्रियव्रतकथा ॥**
@@ -1649,7 +1447,6 @@ ENLIGHTENMENT OF KING PRACHINABARHIS.**
 **THE STORY OF PRIYAVRATA**
 
 **\_\_\_\_\_\_\_**
-
 
 ** स राजपुत्रः प्रियव्रतः परमभागवतो नारदस्य चरणोपसेवया ऽवगतपरमार्थसतत्त्वोऽव-नितलपरिपालनाय स्वपित्रोपामन्त्रितो भगवति वासुदेव
 एवाव्यवधानसमाधियोगेन नैवाभ्यनन्दत्।**
@@ -1661,8 +1458,6 @@ ENLIGHTENMENT OF KING PRACHINABARHIS.**
  1. Priyavrata was brother of Uttanapada, father of Dhruva. The mapping out of the globe into the seven oceans and seven continents is said to date from the time of this Priyavrata who is described as having gone round the world many times.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 ** अथ ह भगवानात्मयोनिः प्रियव्रतमिति होवाच।**
 
@@ -1679,8 +1474,6 @@ ENLIGHTENMENT OF KING PRACHINABARHIS.**
 न्विमुक्तसङ्गः प्रकृतिं भजस्व ॥**
 
  “And you have resorted to the stronghold of the lotus-feet of Hari and conquered the six enemies. Abandoning attachment, enjoy here the joys extended to you by the Supreme Being and (thus) realise your essential nature.
-
-
 
  **इति स जगतीपतिरीश्वरेच्छयाऽधिनिवेशितकर्माधिकारो भगवत आदिपुरुषस्याङ्घ्रि-युगलानवरतध्यानानुभावेनावदावो महीतलमनुशशास।**
 
@@ -1699,8 +1492,6 @@ ENLIGHTENMENT OF KING PRACHINABARHIS.**
 **THUS ENDS THE STORY OF PRIYAVRATA.**
 
 **\_\_\_\_\_**
-
-
 
 **॥ श्रीः॥**
 
@@ -1726,8 +1517,6 @@ AS RISHABHA**
 
 ** तस्य वरीयसा चौजसा पिता ऋषभ इतीदं नाम चकार।**
 
-
-
  Because of His superior energy, thefather gave Him the name Rishabha.
 
 ** नाभिरात्मजं समयसेतुरक्षायामभिषिच्य सहमेरुदेव्या समाधियोगेन कालेन भगवन्तमवाप।**
@@ -1738,15 +1527,11 @@ AS RISHABHA**
 
  The Lord Rishabhadeva, inculcating theDharmas of the householders, begota hundred sons equal to Himself on (hiswife) Jayanti; of whom the eldest was thegreat yogin, Bharata of most eminentqualities, after whom this country is calledBharata varsha.
 
-
-
  **भगवानृषभसंज्ञः आत्मतन्त्रः स्वयं नित्य निवृत्तानर्थपरम्परः केवलनन्दनुभव ईश्वर एव धर्ममाचरणेनोपशिक्षयन्नतद्विदां सम उपशान्तो मैत्रः कारुणिको धर्मार्थयशःप्रजानन्दामृतावरोधेन गृहेषु लोकं नियमयत्। यद्यच्छीर्षण्याचरितं तत्तदनुवर्तते लोकः॥**
 
  Though He was master of Himself, and by Himself permanently devoid of all evils and though He was God Himself who is (ever) in the enjoyment of the bliss unimpaired, the Lord, with the name of Rishabha, taught by his own example the Dharmas to those ignorant of them. Remaining equal towards all, subduel in passions, full of friendliness and sympathy, He ordained the world in domestic life leading to the acquisition of Dharma, material gains, fame, children, pleasure and (in the end) salvation also. For, whatever the great man does, that the world does after him.
 
 ** भगवतर्षभेण परिरक्ष्यमाण एतस्मिन्वर्षे न कश्चन पुरुषो वाञ्छत्यात्मनोऽन्यस्मात्कथञ्चन किमपि।**
-
-
 
  When this country was being protected by Lord Rishabha, none coveted for himself anything from anybody in any manner.
 
@@ -1761,8 +1546,6 @@ AS RISHABHA**
 
  “This body with which men have been in this world of human beings, does not deserve the miserable pleasures which are like those of the filtheating creatures. Sons ! this body deserves that divine penance, by which one's mind gets purified, and through which, is obtained the permanent bliss of Self.
 
-
-
 **‘महत्सेवां द्वारमाहुर्विहुक्ते  
 स्तमोद्वारं योषितां सङ्गिसङ्गम्।  
 महान्तस्ते समचित्ताः प्रशान्ताः  
@@ -1776,8 +1559,6 @@ AS RISHABHA**
 रनन्तदुःखं च न वेद मूढः॥**
 
  “The world has itself lost sight of its welfare, this world which in its great avarice, yearns for material for material possessions; creating mutual animosity for the sake of a morsel of enjoyment, this deluded world realises not the unending misery (it causes to itself).
-
-
 
 **‘गुरुर्न स स्यान्न पतिश्चस स्यात्  
 न मोचयेद्यस्सऽपेतमृत्युम्।**
@@ -1804,8 +1585,6 @@ INCARNATION AS RISHABHA
 
 ![](../books_images/U-IMG-1734241710Screenshot2024-12-15104840.png)
 
-
-
 **॥ श्रीः ॥**
 
 **॥ जडभरतचरित्रम् ॥**
@@ -1823,8 +1602,6 @@ INCARNATION AS RISHABHA
 
  That king Bharata of extensive knowledge protected with great affection his subjects who were devoted to their respective duties. He worshipped the Lord also with manifold sacrifices.
 
-
-
 ** एवं वर्षायुतसहस्रपर्यन्तावासंतनिर्वाणावसरोऽधिविभुज्यमानं स्वतनयेभ्यो रिक्थं विभज्य स्वयं पुलहाश्रमं प्रवव्राज।**
 
  (Having lived) thus, Bharata, at the end of ten million years, resolved that the time for the end of enjoyment had come, divided the possession (of the kingdom) he was enjoying among his sons and himself retired to the hermitage of (sage) Pulaha.
@@ -1839,8 +1616,6 @@ INCARNATION AS RISHABHA
 
  **तत्र तदा हरिणी पिपासया जलाशयाभ्याशमुपजगाम। तया पेपीयमान उदकेऽविदूरेण मृगपतेरुन्नादो लोकभयङ्कर उदपतत्। तमुपश्रुत्य सा**
 
-
-
 **मृगवधूः प्रकृतिविक्लबाभयात् सहसैवोच्चक्राम तस्या उत्पतन्त्या अन्तर्वत्न्या उरुभयावगलितो गर्भस्त्रस्रोतसि निपपात॥**
 
  There, at that time, a thirsty doe approached the river. When the doe was drinking water, there arose from the neighbourhood the roar of the king of beasts which terrified the whole world. Hearing that, the doe, timid by nature, jumped away, all of a all of a sudden, out of fear. And as that pregnant doe was jumping, the young one in her womb slipped out, as a result of her great fright, and fell into the stream.
@@ -1850,8 +1625,6 @@ INCARNATION AS RISHABHA
  In the agony due to the discharge of the young one, the jump and the fright, the doe fell down in a cave and, after a time, died.
 
 ** तं त्वेणकुणकं कृपणं स्रोतसाऽनुह्यमानमभिवीक्ष्यानुकम्पया राजर्षिर्भरत आदायाश्रमपदमनयत्।**
-
-
 
  Seeing the pitiable young one of the doe being carried along by the flood, the royal sage, Bharata, rescued it in his sympathy and took it to his hermitage.
 
@@ -1865,8 +1638,6 @@ INCARNATION AS RISHABHA
 
  **मृग एवाभिनिवेशितमना विसृज्य लोकमिमं मृगशरीरमवाप। तत्राप्यात्मनो मृगत्वकारणमनुस्मृत्य भृशमनुतप्यमानो विसृज्य मृगीं मातरं पुनर्भगवत्क्षेत्रं पुलस्त्य पुलहाश्रमं प्रत्याजगाम॥**
 
-
-
  Passing away with a mind mind absorbed in the deer only, he was born (again) as a deer. (But) even in that deer-body, he thought of the cause for his becoming a deer and repenting very much, left his mother-doe, and again returned to the Lord's own realm, the hermitage of (sages) Pulastya and Pulaha.
 
  **तस्मिन्नपि शुष्कपर्णरणवीरुधा वर्तमानो मृगत्वनिमित्तावसानमेव गणयन् मृगशरीरमुत्ससर्ज।**
@@ -1877,8 +1648,6 @@ INCARNATION AS RISHABHA
 
  Then, there were born to an excellent Brahmin nine sons by one wife, and by the younger wife twins, a son and a
 
-
-
 daughter. The male-child of the twins, they say, was the great devotee Bharata who had left the deer-body and had become a Brahmin in his last birth.
 
  **तत्रापि स्वजनसङ्गाद् भृशमुद्विजमानो भगवदनुग्रहेणानुस्मृतस्वपूर्वजन्मावलिरात्मानमत्त जडान्धबधिरस्वरूपेण दर्शयामास लोकस्य। शीतोष्णवातवर्षेष्वनावृताविचचार॥**
@@ -1887,15 +1656,11 @@ daughter. The male-child of the twins, they say, was the great devotee Bharata w
 
  **अथ कदाचित्कश्चिद्वृषलपतिर्भद्रकाल्यै पुरुषपशुमालभतापत्यकामः। तदनुचरा निशि एनं बद्ध्वारशनया चण्डिकागृहमुपनिन्दुः। अथ वृषलराजपणिः पुरुषपशोरसृगासवेन देवीं यक्ष्यमाणोऽसिमुपाददे॥**
 
-
-
  Then, on an occasion, a certain banditchief, desiring issue, decided to offer a human sacrifice to Goddess Bhadrakali. His followers bound Bharata with a rope in the night and brought him to the temple of Chandika (Bhadrakali). Then, the bandit who was officiating as the priest of the banditchief took the sword for propitiating the Goddess with the wine of the blood of that human offering.
 
  **इति तेषां वृषलानां रजस्तमःप्रकृतीनां हिंसाविहाराणां कर्मातिदारुणं यद्ब्रह्मभूतस्य निर्वैरस्य सर्वभूतसुहृदोऽननुमतमालम्भनं तदुपलभ्य सहसोच्चचाट सैव देवी।**
 
  Seeing that highly heinous act of those low men of passion and delusion, delighting in violence, namely, the bad impermissible become the killing of one who Brahman, one from whom enmity had completely departed and one who was a friend of all beings, the Goddess Herself suddenly burst out of the image.
-
-
 
 ** महाट्टहासं विमुञ्चन्त्युत्पत्य पापीयसां तेनैवासिना विवृक्णशीर्ष्णामसृगासवं निपीय जगौ ननर्त च। एवमेव महदभिचारातिक्रमः कार्त्स्न्येनात्मने फलति॥**
 
@@ -1906,8 +1671,6 @@ daughter. The male-child of the twins, they say, was the great devotee Bharata w
  Nor is this composure even when one's decapitation is imminent any great wonder in those who have cast away that strong knot of the heart, the mistaken sense of soul in body and other material objects.
 
  **अथ सिन्धुसौवीरपते रहूगणस्य व्रजत इक्षुमत्यास्तटे शिबिकावहपुरुषान्वेषणसमये स द्विजवर**
-
-
 
 **उपलब्ध एष पीवा युवा धुरं वोढुमलमिति पूर्वविष्टिगृहीतैस्सह गृहीतः प्रसभमतदर्द्धमुवाह शिबिकां स महानुभावः।**
 
@@ -1920,8 +1683,6 @@ daughter. The male-child of the twins, they say, was the great devotee Bharata w
 
 ** ‘वयं नरदेव साध्वेव वहामः। अयमधुनैव नियुक्तो न द्रुतं व्रजति, नानेन सह वोढुं पारयाम इति।’**
 
-
-
  (The bearers said:) “King, we are carrying (the palanquin) aright but this recently recruited person does not proceed fast and we are not able to carry it along with him.”
 
  **राजा रहुगण उपासितवृद्धोऽपि ईषदुत्थितमन्युरविस्पष्टब्रह्मतेजसं रजसावृतमतिराह—**
@@ -1933,8 +1694,6 @@ daughter. The male-child of the twins, they say, was the great devotee Bharata w
  “Alas brother, what a misery! Clearly, you are very tired! Singly and for long, you have been carrying (the palanquin) a long way! You are not very stout or sturdy in limbs and you are decrepit !”
 
  **इति विप्रलब्धोऽपि ब्रह्मभूतस्तूष्णीं शिबिकां पूर्ववदुवाद।**
-
-
 
  Though scolded ironically in this manner, Bharata, who had become the Brahran, silently bore the palanquin as before.
 
@@ -1951,8 +1710,6 @@ daughter. The male-child of the twins, they say, was the great devotee Bharata w
 निद्रारविर्मन्युरहंमदश्शुचो  
 देहेन जातस्य हि मे न सन्ति।**
 
-
-
  Stoutness, leanness, physical ills, mental anguish, the fear of hunger and thirst, quarrel, desire, old age, sleep, enjoyment, anger, the intoxicating sense of I, sorrows,―these exist for him who is born in the flesh, not for me (who am born in spirit).
 
 **‘स्वस्वाम्यभावो ध्रुव ईड्य यत्र  
@@ -1966,8 +1723,6 @@ daughter. The male-child of the twins, they say, was the great devotee Bharata w
 तथाऽपि राजन् करवाम किं ते॥**
 
  “Except in words, we do not see any occasion for the sense of difference (of master and servant). When the fact is such, who is the lord and what is there to be lorded over? Still, O king, what shall we do for you?
-
-
 
 **‘उन्मत्तमत्तजडवत्स्वसंस्थां  
 गतस्य मे वीर चिकित्सितेन।  
@@ -1985,8 +1740,6 @@ bear fruit, carried the royal vehicle.
 
  And Rahugana, on hearing those words of the eminent Brahmin which cut the knot of nescience, got down (from his
 
-
-
 palanquin) in haste, bowed at his feet, and with his pride of kingship gone, begged pardon of him and said:
 
 **‘कस्त्वं निगूढश्चरसीह कस्मात्  
@@ -2002,8 +1755,6 @@ palanquin) in haste, bowed at his feet, and with his pride of kingship gone, beg
 यथा तरे सदवध्यानमंहः॥**
 
  “Therefore, O, you friend of the suffering, you must grace with a look of friendliness me who have, in the intoxication of my pride of kingship, slighted the noblest of men; so only may I escape escape the sin of insulting the good.”
-
-
 
 ** जडभरतः—**
 
@@ -2024,8 +1775,6 @@ palanquin) in haste, bowed at his feet, and with his pride of kingship gone, beg
 
 “King! so long as man does not shake off this nescience as a result of the rise of knowledge, and leaving off (all) attachments and conquering the six enemies (Desire, Anger, Avarice, Delusion, Pride and Malice), does not realise the Truth of Self, so long as he does not understand this
 
-
-
 mind which conditions the (unconditioned) soul as the soil that produces the agonies of births and deaths of man, so long does man wander here (in the world of birth and death).
 
 **‘भ्रातृव्यमेनं तददभ्रवीर्यम्  
@@ -2041,8 +1790,6 @@ mind which conditions the (unconditioned) soul as the soil that produces the ago
 जानूरुमध्योरशिरोधरांसाः॥**
 
  “King! this something of earth, if it moves about in the world for some reason, comes to
-
-
 
 be known as man; and to that earthen form, there are, above its feet, the ankles, the shanks, the thighs, the hip, the chest, the neck and the shoulders.
 
@@ -2060,8 +1807,6 @@ be known as man; and to that earthen form, there are, above its feet, the ankles
 
  “Forcibly conscribing these pitiable people rendered miserable by the great toil (of carrying you ), you are indeed merciless.
 
-
-
 Boasting that you are the protector of the people, you, who are audacious, do not shine in the assemblies of the learned.
 
 **‘ज्ञानं विशुद्धं परमार्थमेकं  
@@ -2078,8 +1823,6 @@ Boasting that you are the protector of the people, you, who are audacious, do no
 हरिं तदीहाकथनश्रुतिभ्यां  
 लब्धस्मृतिर्यात्यतिपारमध्वनः॥**
 
-
-
  “Therefore cutting here itself his delusion with the sword of knowledge born of the association with those who have no attachments, and acquiring the constant thought (of the Lord) by speaking of and listening to His acts, acts, man reaches Hari, crossing the end of the road of this world.
 
 **‘रहूगण त्वमपि ह्यध्वनोऽस्य  
@@ -2090,8 +1833,6 @@ Boasting that you are the protector of the people, you, who are audacious, do no
  “Rahugana, laying aside aside the role of punishing (others) and making friends with all beings, with your soul untouched by (objects of enjoyment) and arming yourself with the sword of knowledge, sharp with the service of Lord Hari, you also cross over the other end of this highway.”
 
  **इत्येवं स सिन्धुपतय आत्मसतत्त्वं परमकारुणिकतया उपदिश्य आपूर्णार्णव इव निभृतकरणोर्म्याशयो धरणिमिमां विचचार।**
-
-
 
  Having thus, out of his great compassion, imparted the Truth of Self to the king of the Sindhus, Jadabharata wandered over this earth, looking like the full ocean, the waves of action in his mind having become still.
 
@@ -2105,8 +1846,6 @@ Boasting that you are the protector of the people, you, who are audacious, do no
 JADABHARATA.**
 
 ![](../books_images/U-IMG-1734278695Screenshot2024-12-15104840.png)
-
-
 
 **॥ श्रीः॥**
 
@@ -2135,8 +1874,6 @@ THE STORY OF AJAMILA
 
  The annihilation of sin by expiatory rites is not considered as final; for the expiatory rites are prescribed for those who are notmen of knowledge. Knowledge is expiation.
 
-
-
 **नाश्नतः पथ्यमेवान्नं व्याधयोऽभिभवन्ति हि।  
 एवं नियमकृद् \[राजन्\] शनैः क्षेमाय कल्पते॥**
 
@@ -2157,8 +1894,6 @@ THE STORY OF AJAMILA
 
  And on this subject they tell an old story also, a conversation between the messengers of God Vishnu and Yama (the God of Death):
 
-
-
 **कन्यकुब्जे द्विजः कश्चिद्दासीपतिरजामिलः।  
 नाम्ना नष्टसदाचारो दास्याः संसर्गदूषितः॥**
 
@@ -2175,8 +1910,6 @@ THE STORY OF AJAMILA
 
  To him, who had become very old, there were (born) ten sons, of whom the last was a boy named Narayana, a darling of the parents. Doting on that child, the old man was extremely happy.
 
-
-
 **स एवं वर्तमानोऽज्ञो मृत्युकाल उपस्थिते।  
 मतिंचकार तनये बाले नारायणाह्वये॥**
 
@@ -2192,8 +1925,6 @@ THE STORY OF AJAMILA
 भर्तुर्नाम \[महाराज\] पार्षदास्सहसाऽऽपतन्॥**
 
  Hearing the name of their Lord from that dying person who was uttering the name of Hari, the attendants of the Lord rushed (to him) in haste.
-
-
 
 **विकर्षतोऽन्तर्हृदयाद्दासीपतिमजामिलम्।  
 यमप्रेष्यान्विष्णुदूता वारयामासुरोजसा॥**
@@ -2216,8 +1947,6 @@ THE STORY OF AJAMILA
 **‘अयं हि श्रुतसंपन्नः शीलवृत्तगुणालयः।  
 एकदाऽसौ वनं यातः पितृसन्देशकृद् द्विजः।**
 
-
-
 **‘ददर्श कामिनं कञ्चिच्छूद्रं सह भुजिष्यया।  
 क्रीडन्तमनुगायन्तं हसन्तमनयाऽन्तिके॥**
 
@@ -2236,8 +1965,6 @@ THE STORY OF AJAMILA
 **‘विप्रां स्वभार्यामप्रौढां कुले महति लम्भिताम्।  
 विससर्जाचिरात्पापः स्वैरिण्यापाङ्गविद्धधीः॥**
 
-
-
  “With his mind pierced by the side-long glances of the wanton woman, the sinner, Ajamila, soon abandoned his own wife, a Brahmin lady, not yet of age, and married out of a great family.
 
 **‘यतस्ततश्चोपनिन्ये न्यायतोऽन्यायतो धनम्।  
@@ -2251,8 +1978,6 @@ THE STORY OF AJAMILA
 नेष्यामोऽकृतनिर्वेशं यत्र दण्डेन शुद्ध्यति॥’**
 
  “Since this Ajamila, trangressing the sacred Institutes, licentious and contemned by the noble, has for a long a long time been leading a life of sin and has been impure with pollution, we we shall lead this sinner who has performed no expiation, to the presence of the dispenser of justice (Yama), where he he would become purified by punishment.”
-
-
 
 **विष्णुदूताः—**
 
@@ -2275,8 +2000,6 @@ THE STORY OF AJAMILA
 
 [^4]: "Here the name of the Lord happened to be the name of Ajamila's last son."
 
-
-
 **‘अज्ञानादथवा ज्ञानादुत्तमश्लोकनाम यत्।  
 सङ्कीर्तितमघं पुंसो दहेदेधो यथाऽनलः॥  
 यथाऽगदं वीर्यतममुपयुक्तं यदृच्छया।  
@@ -2296,8 +2019,6 @@ THE STORY OF AJAMILA
 **द्विजः पाशाद्विनिर्मुक्तोगतभीः प्रकृतिं गतः।  
 भक्तिमान्भगवत्याशु माहात्म्यश्रवणाद्धरेः॥**
 
-
-
  Released from the noose (of death), the Brahmin, with his fear gone, regained his normal state and as a result of listening to the greatness of the Lord (from his messengers), quickly became a devotee of God.
 
 **अनुतापो महानासीत् स्मरतोऽशुभमात्मनः।  
@@ -2309,8 +2030,6 @@ THE STORY OF AJAMILA
 अहोमयाऽधुना त्यक्तावकृतज्ञेन नीचवत्॥**
 
  Recapitulating his sins, he repented intensely: Alas! What a great misery there was for me who had no self-possession and had destroyed my Brahminic line by begetting (children) on a low-caste woman! Fie upon me, accursed by the good, the sinner and blot on my family, who abandoned a young and faithful wife and went over to the drunkard-harlot! Alas! ungratefully and like a low person, I have now neglected my poor parents, who are old, helpless and have no kin besides myself!
-
-
 
 **‘किमिदं स्वप्नआहोस्वित्साक्षाद् दृष्टमिहाद्भुतम्।  
 क्व याता अद्य ते ये मां व्यकर्षन्पाशपाणयः।  
@@ -2332,8 +2051,6 @@ THE STORY OF AJAMILA
 सद्यः स्वरूपं जगृहे भगवत्पार्श्ववर्तिनाः।  
 हैमं विमानमारुह्य ययौ यत्र श्रियःपतिः॥**
 
-
-
  In that divine region he sat and took to Yoga; immediately he assumed the form of those who remain by the side of the Lord and, mounting a golden heavenly vehicle, reached the Lord's abode.
 
 **भगवत्पुरुषैः \[राजन्\] याम्याः प्रतिहतोद्यमाः।  
@@ -2352,8 +2069,6 @@ THE STORY OF AJAMILA
 यस्मै बलिं त इमे नामकर्म-  
 निबन्धबद्धाश्चकिता वहन्ति॥**
 
-
-
 **Yama—**
 
  “Besides me, there is a master for (this world of) moving and static objects, a master who is the warp and woof of the fabric of the universe, the master to whom these (gods), bound with the bonds of (definite) names and duties, bear in fear their offering of service.
@@ -2369,8 +2084,6 @@ THE STORY OF AJAMILA
 भक्तियोगो भगवति तन्नामग्रहणादिभिः॥**
 
  “Only this much is considered as the greatest Dharma of men, namely, the practice of devotion devotion to the Lord by uttering his name and such other means.
-
-
 
 **‘नामोच्चारणमाहात्म्यं हरेः पश्यत पुत्रकाः।  
 अजामिलोऽपि येनैव मृत्युपाशादमुच्यत॥**
@@ -2391,8 +2104,6 @@ THE STORY OF AJAMILA
 
 ![](../books_images/U-IMG-1734324958Screenshot2024-12-15104840.png)
 
-
-
 **॥ श्रीः ॥  
 ॥ वृत्रासुरवधकथा ॥**
 
@@ -2411,8 +2122,6 @@ VRITRA ASURA**
 **ततो निर्गत्य सहसा विद्वान् श्रीमदविक्रियाम्।  
 बृहस्पतिर्गवोऽदृष्टां गतिमध्यात्ममायया॥**
 
-
-
  Going out of Indra’s court all of a sudden, and knowing as he did the evil effect of the pride of prosperity, Brihaspati became invisible by his spiritual power.
 
 **तच्छ्रुत्वैवासुरास्सर्व आश्रित्यौशनसं मतम्।  
@@ -2427,8 +2136,6 @@ VRITRA ASURA**
 
 **‘अहो बत सुरश्रेष्ठा ह्यभद्रं वः कृतं महत्।  
 ब्रह्मिष्ठं ब्राह्मणं दान्तमैश्वर्यान्नाभ्यनन्दत॥**
-
-
 
  “Alas! you eminent gods! a great wrong has been committed by you, you who in your power did not honour the Brahmin (Brihaspati), a person of self-realisation and self-control.
 
@@ -2446,8 +2153,6 @@ VRITRA ASURA**
 **‘वृणीमहे त्वोपाध्यायं ब्रह्मिष्ठं ब्राह्मणं गुरुम्।  
 यथाऽञ्जसा विजेष्यामस्सपत्नांस्तव तेजसा॥’**
 
-
-
 “We beseech you, you, a Brahmin of selfrealisation and one fit to be a preceptor, to become our preceptor so that, with your power, we shall conquer our enemies with ease.”
 
 **विश्वरूपः**—
@@ -2463,14 +2168,11 @@ VRITRA ASURA**
 
  “Still, I shall accomplish (for you), with all my life and resources, all that you have requested (of me).”
 
-
 **तेभ्य एवं प्रतिश्रुत्य विश्वरूपो महातपाः ।  
 सुरद्विषां श्रियं गुप्तामौशनस्याऽपि विद्यया।  
 आच्छिद्यादान्महेन्द्राय वैष्णव्या विद्यया विभुः॥**
 
  Having thus promised to the gods, the powerful Visvarupa of great penance snatched and gave to Indra, by (the power)
-
-
 
 of the Mantra of Lord Vishnu, the fortune of the enemies of the gods, though it was  
 protected by the power of Sukra's magic-lore.
@@ -2492,8 +2194,6 @@ protected by the power of Sukra's magic-lore.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
  Seeing that insult of the gods and pretended Dharma of Visvarupa, Indra, the king of the gods, afraid (of Visvarupa's attachment to the demons) quickly cut offhis heads in anger.
 
 **हतपुत्रस्ततस्त्वष्टा जुहावेन्द्राय शत्रवे।  
@@ -2511,8 +2211,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 
  Then the gods praised the Prime Being with concentrated minds.
 
-
-
 **अभूदाविर्हरिः प्राह 'प्रीतोऽहं विबुधर्षभाः।  
 मघवन्यात भद्रं वो दध्यञ्चमृषिसत्तमम्।  
 विद्याव्रततपस्सारं गात्रं याचत मा चिरम्।  
@@ -2526,8 +2224,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 **इन्द्रमेवं समादिश्य तत्रैवान्तर्दधे हरिः॥**
 
  Having directed Indra thus, Hari disappeared at that very place.
-
-
 
 **तथाऽभियाचितो देवैर्ऋषिराथर्वणो महान्।  
 ‘किन्नु तद्दुस्त्यजं ब्रह्मन्पुंसां भूतानुकम्पिनाम्॥’**
@@ -2548,8 +2244,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 
  Having determined thus, Dadhichi offered his soul to the Supreme Lord, the Brahman, and gave up his body.
 
-
-
 **अथेन्द्रो वज्रमुद्यम्य निर्मितं विश्वकर्मणा।  
 मुनेश्शुक्तिभिरुत्सिक्तो भगवत्तेजसाऽन्वितः।  
 वृत्रमभ्यद्रवच्छेत्तुं क्रुद्धो रुद्र इवान्तकम्॥**
@@ -2567,8 +2261,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 
  All the efforts the demons made against the gods were repeatedly rendered futile. Deprived of their strength, they made up their minds to forsake their master (Vritra) at the war-front, and flee.
 
-
-
 **वृत्रोऽसुरांस्ताननुगान्मनस्वी  
 प्रधावतः प्रेक्ष्य बभाष एतत्।**
 
@@ -2583,8 +2275,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 नैवागृह्णन् भयत्रस्ताः पलायनपरा \[नृप\]॥**
 
  Having lost their senses and intent on running away, the panic-stricken demons heeded not the words of their master who was thus speaking what was righteous.
-
-
 
 **स इन्द्रशत्रुः कुपितो भृशं मृधे  
 वज्रायुधं भातृहणं विलोक्य।  
@@ -2605,8 +2295,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 न त्वेष वज्रस्तव शक्र तेजसा  
 हरेर्दधीचेस्तपसा च तेजितः।**
 
-
-
 **तेनैव शत्रुं जहि विष्णुयन्त्रितो  
 यतो हरिर्विजयः श्रीर्गुणास्ततः॥**
 
@@ -2618,8 +2306,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 गतिं मुनेर्याम्यपविद्धलोकः॥’**
 
  “As God said, I shall concentrate my mind on His lotus-feet and with my ties of attachment to low things cut by the force of your thunderbolt, and casting off this body, I shall reach the sages goal.”
-
-
 
 **एवं जिहासुः \[नृप\] देहमाजौ  
 मृत्युं वरं विजयान्मन्यमानः।  
@@ -2640,8 +2326,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 
  Ashamed, Indra did not take up, in the presence of his enemy, the thunderbolt that had slipped down from his hand. Vritra told him: “Indra, take the thunderbolt and kill your enemy; this is no time for sorrow.”
 
-
-
 **‘लोकास्सपाला यस्येमे श्वसन्ति विवशा वशे।  
 द्विजा इव शिचाबद्धाः स काल इह कारणम्।  
 ओजस्सहो बलं प्राणममृतं मृत्युमेव च।  
@@ -2657,8 +2341,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 
 **‘तस्मादकीर्तियशसोर्जयापजययोरपि।  
 समस्स्यात्सुखदुःखाभ्यां मृत्युजीवितयोस्तथा॥’**
-
-
 
  “Therefore one should be equanimous in infamy and fame, defeat and victory, miscry and happiness, and death and life.”
 
@@ -2681,8 +2363,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 
  Vritra got at Indra and swallowed him along with his elephant. The powerful Indra tore his stomach with his thunderbolt, and getting out, forcefully chopped off his head, like the summit of a mountain.
 
-
-
 **वृत्रस्य देहानिष्क्रान्तमात्मज्योतिः \[अरिन्दम\]।  
 पश्यतां सर्वलोकानामलोकं समपद्यत॥**
 
@@ -2700,8 +2380,6 @@ The great gods attacked Vritra with their followers and struck him with their re
 
 **THUS ENDS THE STORY OF THE  
 KILLING OF VRITRA ASURA**
-
-
 
 **॥श्रीः॥**
 
@@ -2723,8 +2401,6 @@ KILLING OF VRITRA ASURA**
 आवेश्य तदघं हित्वा बहवस्तद्गतिं गताः।  
 गोप्यः कामाद भयात्कंसो द्वेषाच्चैद्यादयो नृपाः॥**
 
-
-
  As in devotion, so also in love, hate, fear and friendship, many have concentrated their minds on God, cast off their sin and attained to His goal,—the shepherd-women in love, Kamsa in fear, and kings like Sisupala in hate.
 
 **एकदा ब्रह्मणः पुत्रा विष्णुलोकं यदृच्छया।  
@@ -2742,8 +2418,6 @@ of Vishnu; the two door-keepers (there) prevented them (from entering).
 हिरण्याक्षोधरोद्धारे बिभ्रता सौकरं वपुः॥**
 
  The two door-keepers of Vishnu were born as the two sons of Diti, respected by all the demons, Hiranyakasipu the elder,
-
-
 
 and Hiranyaksha, the younger. Hiranyaksha was killed by the Lord who took the form of the Boar, when He lifted the earth out of the waters.[^5]
 
@@ -2764,8 +2438,6 @@ and Hiranyaksha, the younger. Hiranyaksha was killed by the Lord who took the fo
 आत्मानमप्रतिद्वन्द्वमेकराजं व्यधित्सत।  
 स तेपे मन्दरद्रोण्यां तपः परमदारुणम्॥**
 
-
-
  And Hiranyakasipu desired to make himself an invincible person, free from old age and death, and the sole monarch without a foe. (To this end) he performed very terrible penance in a ravine of the Mandara mountain.
 
 **तस्मिंस्तपस्तप्यमाने जज्वलुश्च दिशो दश॥**
@@ -2784,8 +2456,6 @@ and Hiranyaksha, the younger. Hiranyaksha was killed by the Lord who took the fo
 न भूमौ नाम्बरे मृत्युर्न नरैर्न मृगैरपि।  
 व्यसुभिर्वाऽसुमद्भिर्वा सुरासुरमहोरगैः॥**
 
-
-
 **Hiranyakasipu :**
 
  "Lord! let me not have death from any of the beings created by you; let me not have death indoors or outside, by day or night, or from any other thing, or by any weapons; let me not have death on the ground or in the air, by men or by animals, by animate or inanimate things, or from gods, demons or the great serpents.
@@ -2803,8 +2473,6 @@ and Hiranyaksha, the younger. Hiranyaksha was killed by the Lord who took the fo
 भगवत्यकरोद् द्वेषं भ्रातुर्वधमनुस्मरन्॥**
 
  Having thus obtained the boons, the demon, endowed with a golden body, began to hate the Lord, constantly remembering the killing of his brother.
-
-
 
 **स विजित्य दिशस्सर्वा लोकांश्च त्रीन्महासुरः।  
 जहार लोकपालानां स्थानानि सह तेजसा॥**
@@ -2827,8 +2495,6 @@ and Hiranyaksha, the younger. Hiranyaksha was killed by the Lord who took the fo
 
  An incorporeal voice like the rumbling of the clouds manifested itself to them: “Great gods! fear not; let there be
 
-
-
 welfare to you all. I have known the wickedness of this Hiranyakasipu. the worst of demons. I will put an end to him, but wait for a time.
 
 **‘यदा देवेषु वेदेषु गोषु विप्रेषु साधुषु।  
@@ -2849,8 +2515,6 @@ he perishes soon.”
 **तस्य दैत्यपतेः पुत्राश्चत्वारः परमाद्भुताः।  
 प्रहलादोऽभून्महांस्तेषां गुणैर्महदुपासकः॥**
 
-
-
  The demon-king, Hiranyakasipu, had four marvellous sons; by (his) virtues, Prahlada, a worshipper of the great, was the greatest of them.
 
 **ब्रह्मण्यः शीलसंपन्नस्सत्यसन्धो जितेन्द्रियः।  
@@ -2860,8 +2524,6 @@ he perishes soon.”
 **विद्यार्थरूपजन्माढ्योमानस्तंभविवर्जितः॥**
 
  Prahlada wasbeneficent to Brahmins, endowed with character, vowed to truthfulness, and one who had conquered his senses; like the soul, he was the one most beloved friend of all beings; at the feet of the noble, he was prostrate like a servant; and towards the suffering, he was affectionate like a father; he was attached like a brother towards his equals and had the regard of God for his elders; (though) endowed with birth, beauty, wealth and learning, he was devoid of the stiffness of pride.
-
-
 
 **नोद्विग्नचित्तो व्यसनेषु निस्पृहः  
 श्रुतेषु दृष्टेषु गुणेष्ववस्तुदृक्।  
@@ -2877,8 +2539,6 @@ he perishes soon.”
 
 **तस्मिन्महाभागवते महाभागे महात्मनि।  
 हिरण्यकशिपू \[राजन्\] अकरोद्धमात्मज॥**
-
-
 
  Against that great devotee of the Lord, the blessed and great Prahlada, his own son, Hiranyakasipu sinned (by hating him).
 
@@ -2897,8 +2557,6 @@ he perishes soon.”
 ** Prahlada—**
 
  “O eminent demon! That I consider good for men who are ever alarmed in mind in their false notion of I and Mine, namely, that man should abandon the house, the well hidden for his fall, and having gone to the forests, should seek Hari.”
-
-
 
 **श्रुत्वा पुत्रगिरोदैत्यः परपक्षसमाहिताः।  
 जहास ‘बुद्धिर्बालानां भिद्यते परबुद्धिभिः॥**
@@ -2920,8 +2578,6 @@ residence, extolled him in fine words and asked of him in conciliatory terms:
 
  "Dear Prahlada, welfare unto you; speak truth and not falsehood: Wherefore
 
-
-
 is this affection of your mind which is beyond the range of boys? Is this the work of another or do you have it yoursel?”
 
 ** प्रह्लादः—**
@@ -2940,8 +2596,6 @@ is this affection of your mind which is beyond the range of boys? Is this the wo
 
  Then, that wretched servant of the king (the Brahmin teacher) became angry, and threatening Prahlada, made him receive his teaching of Dharma, Artha and Kama.
 
-
-
 **तत एनं गुरुर्ज्ञात्वा ज्ञातज्ञेयचतुष्टयम्।  
 दैत्येन्द्रं दर्शयामास प्रतिनन्द्याशिषाऽसुरः।  
 परिष्वज्य चिरं दोर्भ्यामिदमाह \[युधिष्ठिर\]॥**
@@ -2959,8 +2613,6 @@ is this affection of your mind which is beyond the range of boys? Is this the wo
 इति पुंसाऽर्पिता विष्णौ भक्तिश्चेन्नवलक्षणा।  
 क्रियते भगवत्यद्धा तन्मन्येऽधीतमुत्तमम्॥’**
 
-
-
 **Prahlada—**
 
  “Listening to and Singing of the glories of Vishnu, Thinking of Him, Service at His feet, Worshipping Him. Bowing to Him, Becoming a servant of His, Having a friend's love for Him, Offering up of oneself to Him,—if man practises this ninefold devotion to Lord Vishnu, well, that I consider as the greatest learning.”
@@ -2974,8 +2626,6 @@ is this affection of your mind which is beyond the range of boys? Is this the wo
 असारं ग्राहितो बालो मामनादृत्य दुर्मते॥’**
 
  “You wretched Brahmin of evil mind! What is this? Ignoring me, you have vilely sided with the enemy and have taught this boy worthless things!”
-
-
 
 **गुरुपुत्रः—**
 
@@ -3001,8 +2651,6 @@ is this affection of your mind which is beyond the range of boys? Is this the wo
 अदान्तगोभिर्विशतां तमिस्रं  
 पुनःपुनश्चर्वितचर्वणानाम्॥’**
 
-
-
 **Prahlada—**
 
  “For those who are vowed to household life, and with unsubdued senses chew again and again the same cud and (thus) plunge into darkness, the thought of Krishna will be neither from another, nor of themselves, nor mutually.”
@@ -3019,8 +2667,6 @@ is this affection of your mind which is beyond the range of boys? Is this the wo
 
  Possessed by intolerant anger and with eyes turned red, Hiranyakasipu said: “Let this Prahlada be put to death, this Prahlada
 
-
-
 who deserves to be killed; demons! take him away. This Vishnu is the person who killed my brother and this base Prahlada, leaving his own friends, does servile worship at the feet of him who killed his own uncle.”
 
 **नैर्ऋतास्ते समादिष्टा भर्त्रा वै शूलपाणयः।  
@@ -3035,8 +2681,6 @@ who deserves to be killed; demons! take him away. This Vishnu is the person who 
 
  (Those tortures) were futile against Prahlada who had riveted his soul on the supreme Brahman, the inscrutable Lord, the soul of all. Fearing (the impossibility of killing him), the lord of the demons sough pertinaciously (several) means of killing him.
 
-
-
 **दिग्गजैर्दन्दशूकैश्च अभिचारावपातनैः।  
 मायाभिस्सन्निरोधैश्च गरदानैरभोजनैः।  
 हिमवाय्वग्निसलिलैः पर्वताक्रमणैरपि।  
@@ -3049,8 +2693,6 @@ who deserves to be killed; demons! take him away. This Vishnu is the person who 
 नूनमेतद्विरोधेन मृत्युर्मे भविता नवा॥’**
 
  (He said to himself:) “This Prahlada is of inscrutable power; he has fear from nothing; he is indeed immortal; surely by (this) enmity (of mine) with him, there is going to be death for me, a thing new to me.”
-
-
 
 **वयस्यैरुपहूतोऽथ महाबुध उवाच तान्॥**
 
@@ -3071,8 +2713,6 @@ told them:
 सर्वत्र लभ्यते दैवाद्यथा दुःखमयत्नतः।  
 तत्प्रयासो न कर्तव्यो यत आयुर्व्ययः परम्॥**
 
-
-
  “Demons! as misery comes to men without their effort for it, so also the pleasure of the senses is available for all beings by destiny and by the mere reason of their having taken a body. (Therefore) one should not strain oneself for its sake; for, by doing so, only life ebbs away.
 
 **‘पुंसो वर्षशतं ह्यायुस्तदर्धं चाजितात्मनः।  
@@ -3085,8 +2725,6 @@ told them:
  “A hundred years form a man's life; the man who has no self-possession has but  
 half of that. Twenty years pass away for the fool in his sports of childhood and boyhood and a score (more) pass away as he remains inefficient for any work, his  
 body being in the grip of old age. The rest (also) passes away for the careless man who is engrossed is indomestic life in his insatiable desiresand strong infatuations.
-
-
 
 **‘कोन्वर्थतृष्णां विसृजेत् प्राणेभ्योऽपि य ईप्सितः।  
 यं क्रीणात्यसुभिः प्रेष्ठैस्तस्करस्सेवकोवणिक्॥**
@@ -3111,8 +2749,6 @@ body being in the grip of old age. The rest (also) passes away for the careless 
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
  “Therefore, ye demons! discard from a distance association with the demons of material pleasure. Go unto Narayana, the Prime Lord. He is the salvation desired by those who have given up all attachments.
 
 **‘न ह्यच्युतं प्रीणयतो बह्वायासोऽसुरात्मजाः।  
@@ -3127,8 +2763,6 @@ body being in the grip of old age. The rest (also) passes away for the careless 
 
 **‘तस्मात्सर्वेषु भूतेषु दयां कुरुत सौहृदः।  
 आसुरं भावमुन्मुच्य यया तुष्यत्यधोक्षजः॥**
-
-
 
  “Therefore, casting away your demoriac attitude, have compassion and friendliness towards all beings, whereby the Lord is satisfied.
 
@@ -3145,8 +2779,6 @@ body being in the grip of old age. The rest (also) passes away for the careless 
 
 **‘ततो हरौ भगवति भक्तिं कुरुत दानवाः।  
 आत्मौपम्येन सर्वत्र सर्वभतात्मनीश्वरे॥**
-
-
 
  “Therefore, ye demons, have for all time devotion to Lord Hari, the Master who is  
 the Soul of all beings, even as you have for your own soul.
@@ -3165,8 +2797,6 @@ the Soul of all beings, even as you have for your own soul.
 जगृहुर्निरवद्यत्वान्नैव गुर्वनुशिक्षितम्॥**
 
  Then, all the boys of the demons, having heard what Prahlada had described, imbibed it, since it was irreproachable, and they did not take at all the teaching of their preceptor.
-
-
 
 **श्रुत्वा तदप्रियं दैत्यः पुत्रं हन्तुं मनो दधे॥**
 
@@ -3189,8 +2819,6 @@ the Soul of all beings, even as you have for your own soul.
 
  “Not only for me, not only for you, Oking, but for all others also who possess any strength, He is the strength. He is Master, Time and the Lord under whose (three) huge strides are all these worlds. He is the embodiment of energy, might, power, strength and the faculties.
 
-
-
 **‘जह्यासुरं भावमिमं त्वमात्मनः  
 समं मनो धत्स्व न सन्ति विद्विषः।  
 ऋतेऽजितादात्मन उत्पथस्थितात्  
@@ -3212,8 +2840,6 @@ is everywhere, why is he not visible in (this) pillar?”
 **एवं दुरुक्तैर्मुहुरर्दयन्सुतं  
 स्तम्भं तताडातिबलस्स्वमुष्टिना॥**
 
-
-
  Tormenting his son repeatedly with such bad words, that Hiranyakasipu of exceeding strength struck a pillar with his fist.
 
 **तदैव तस्मिन्निनदोऽतिभीषणो  
@@ -3233,8 +2859,6 @@ is everywhere, why is he not visible in (this) pillar?”
 ‘नायं मृगो नापि नरो विचित्र-  
 महो किमेतन्नृमृगेन्द्ररूपम्।**
 
-
-
 **प्रायेण मेऽयं हरिणोरुमायिना  
 वधस्स्मृतोऽनेन समुद्यमेन किम्।’  
 एवं ब्रुवंस्त्वभ्यपतद्गदायुधो  
@@ -3249,8 +2873,6 @@ is everywhere, why is he not visible in (this) pillar?”
 
  Lord Hari seized that Hiranyakasipu who was attacking Him with his mace, even as Garuda seizes a python, and throwing him on His thigh at the door, the Lord tore him with ease, licking with His tongue the corners of His opened mouth.
 
-
-
 **निशम्य लोकत्रयमस्तकज्वरं  
 तमादिदैत्यं हरिणा हतं मृधे।  
 प्रहर्षवेगोत्कलितानना मुहुः  
@@ -3263,8 +2885,6 @@ is everywhere, why is he not visible in (this) pillar?”
 तत्सुतं पाह्युपसृतं भक्तं ते भक्तवत्सल’॥**
 
  The gods, Brahma, Indra, Siva and others came there and lauded the Supreme Being: “This base demon has been killed; O you who are affectionate towards your devotees! protect his son, your devotee who has approached you.”
-
-
 
 **स्वपादमूले पतितं तमर्भकं**  
 **विलोक्य देवः कृपया परिप्लुतः।  
@@ -3284,8 +2904,6 @@ is everywhere, why is he not visible in (this) pillar?”
 
  “The low-caste man who has offered up his mind, speech, object of desire, and life to Lord Hari, I consider greater than the Brahmin who possesses the twelve excellen-
 
-
-
 ces¹but is averse to the lotus-feet of Lord Hari; the former purifies his (whole) family, not he of stupendous pride.
 
 **‘नैवात्मनः प्रभुरयं निजलाभपूर्णो  
@@ -3304,8 +2922,6 @@ ces¹but is averse to the lotus-feet of Lord Hari; the former purifies his (whol
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
  “For the welfare and prosperity of the world, or rather for His own joy, the Lord sports in beautiful incarnations.
 
 **तद्यच्छ मन्युमसुरश्च हतस्त्वयाऽद्य  
@@ -3322,8 +2938,6 @@ ces¹but is averse to the lotus-feet of Lord Hari; the former purifies his (whol
 
  “Unconquered Lord! I am not afraid of your frightening face, tongue, blazing eyes, the knittings of brows and the terrifying
 
-
-
 fangs; I am afraid, O God who is affectionate towards the wretched, of the torture at the wheel of this unbearably terrible cycle of birth and death, where I am thrown to voracious beasts.
 
 **‘बालस्य नेह शरणं पितरौ नृसिंह  
@@ -3338,8 +2952,6 @@ fangs; I am afraid, O God who is affectionate towards the wretched, of the tortu
 
  “Sex and the like which form the pleasures of the householder are contemptible; like the scratching of itching hands, they breed more and more misery.
 
-
-
 **‘मौनव्रतश्रुततरोध्ययनस्वधर्म-  
 व्याख्यारहोजपसमाधय आपवर्ग्याः।  
 प्रायः परं पुरुष ते त्वजितेन्द्रियाणां  
@@ -3353,8 +2965,6 @@ fangs; I am afraid, O God who is affectionate towards the wretched, of the tortu
 भक्तिं जनः परमहंसगतौ लभेत॥’**
 
  “Therefore, O most worthy Being, how can man have devotion for you, the goal of the great men of self-realisation, without the six-fold worship of you,—obeisance, prayer, offering of action, service, thought of your feet, and listening to your stories?”
-
-
 
 **श्रीभगवान्—**
 
@@ -3376,8 +2986,6 @@ Prahlada—
 
 **‘यदि रासीश मे कामान् वरांस्त्वं वरदर्षभ।  
 कामानां हृद्यसंरोहं भवतस्तु वृणे वरम्॥**
-
-
 
  “Lord! greatest of the bestowers of boons! if you would grant me my desired boons, I seek of you the boon that desires may not grow in my heart.
 
@@ -3401,8 +3009,6 @@ The Lord—
 
 **‘पित्र्यं च स्थानमीतिकुरु कर्माणि मत्परः॥’**
 
-
-
  “Assume the place of your father and discharge your duties, remaining devoted to Me.”
 
 **इत्युक्त्वा भगवान् \[राजन्\] तत्रैवान्तर्दधे हरिः।  
@@ -3418,8 +3024,6 @@ The Lord—
 **THUS ENDS THE STORY OF PRAHLADA**
 
 **\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **॥श्रीः॥  
 ॥गजेन्द्रमोक्षकथा॥**  
@@ -3442,8 +3046,6 @@ OF THE ELEPHANT-KING**
 
  There, the leader of an elephant-herd, which lived in the forests of that mountain, was once roving about with female elephants; surrounded by its herd afflicted with thirst, it then ran up tothe neighbourhood of that excellent lake.
 
-
-
 **विगाह्य तस्मिन्नमृताम्बु निर्मलं  
 पपौ निकामं स्नपयन् गतक्लमः॥**
 
@@ -3461,8 +3063,6 @@ OF THE ELEPHANT-KING**
 विचुक्रुशुर्दीनधियोऽपरे गजाः  
 पार्ष्णिग्रहास्तारयितुं न चाशकन्॥**
 
-
-
  The pitiable female-elephants cried aloud for their herd-chief, who was being dragged forcibly by the strong (crocodile) in that manner; the other elephants held (their chief) at the back but were not able to save it.
 
 **अपारयन्नात्मविमोक्षणे चिरं  
@@ -3476,8 +3076,6 @@ OF THE ELEPHANT-KING**
 प्यहं च तं यामि परं परायणम्॥**
 
  "These kinsmen of mine, the elephants, are unable to rescue me am in trouble; how can the female-elephants be able to? Nor am I also able to free myself, caught as I am in the fatal noose of this crocodile. I shall turn to that Supreme Being, the greatest refuge.
-
-
 
 **एवं व्यवसितो बुद्ध्या समाधाय मनो हृदि।  
 जजाप परमं जाप्यं प्राग्जन्मन्यनुशिक्षितम्॥**
@@ -3499,8 +3097,6 @@ OF THE ELEPHANT-KING**
 इच्छामि कालेन न यस्य विप्लवः  
 तस्यात्मलोकावरणस्यमोक्षम्॥’**
 
-
-
  "I do not desire life here; of what use is this elephant-body wrapped inside and out in darkness. I desire freedom from that shroud over the light of the soul, a freedom which is not endangered by the passage of time."
 
 **स्तोत्रं निशम्य गरुडेन समुह्यमान-  
@@ -3514,8 +3110,6 @@ OF THE ELEPHANT-KING**
 नारायणाखिलगुरो भगवन्नमस्ते॥**
 
  The elephant, caught within the lake by the mighty crocodile and distressed, saw in the sky Lord Hari on Garuda, with His discus uplifted; lifting his trunk with a lotus in it, it uttered with great difficulty the words: "Narayana, Father of all, Lord, obeisance unto you."
-
-
 
 **तं वीक्ष्य पीडितमजः सहसाऽवतीर्य  
 सग्राहमाशु सरसः कृपयोज्जहार।  
@@ -3533,8 +3127,6 @@ OF THE ELEPHANT-KING**
 
  Rid of his sin, he bowed (to the Lord) and went to his world.
 
-
-
 **गजेन्द्रो भगवत्स्पर्शाद्विमुक्तोऽज्ञानबन्धनात्।  
 प्राप्तो भगवतो रूपं पीतवासाश्चतुर्भुजः॥**
 
@@ -3551,8 +3143,6 @@ OF THE ELEPHANT-KING**
 समागमच्छिष्यगणैः परिश्रितः॥**
 
  Once, during the time of worship, that Indradyumna, of self-possession, had undertaken a vow of silence and was worshipping Lord Hari when, by chance, the sage (Agastya) arrived (there) surrounded by his disciples.
-
-
 
 **तं वीक्ष्य तूष्णीमकृतार्हणादिकं**  
 **तस्मा इमं शापमदादगस्त्यः॥**
@@ -3574,8 +3164,6 @@ THUS ENDS THE STORY OF THE EMANCIPATION OF THE ELEPHANT-KING.
 
 \_\_\_\_\_\_\_\_\_
 
-
-
 **॥श्रीः॥**
 
 **॥कूर्मावतारकथा॥**
@@ -3596,8 +3184,6 @@ THE STORY OF THE INCARNATION AS TORTOISE**.**
 
  Thinking of the Supreme Being, Brahma, along with the gods, went to the very abode of the Lord, the abode that is bevond darkness.
 
-
-
 **स्तुतिमब्रूत दैवीभिर्गीर्भिस्त्ववहितेन्द्रियः॥**
 
  With his faculties in attention, Brahma sang a hymn in divine words:
@@ -3613,8 +3199,6 @@ THE STORY OF THE INCARNATION AS TORTOISE**.**
 तेषामाविरभूद् \[राजन्\] सहस्रार्कोदयद्युतिः॥**
 
  Thus extolled by the gods, Lord Hari, the Master, manifested Himself to them, with the splendour of the rising of a thousand suns.
-
-
 
 **श्रीभगवान्—**
 
@@ -3639,8 +3223,6 @@ The Lord—
 सहायेन मया देवा निर्मन्यध्वमतन्द्रिताः।  
 क्लेशभाजो भविष्यन्ति दैत्या यूयं फलग्रहाः॥**
 
-
-
  " Cast into the milk-ocean all kinds of medicinal herbs, and with Mount Mandara as the churner, serpent Vasuki as the rope and Myself as aid, O gods, churn diligently. The demons shalltoil, and you shall reap the fruit.
 
 **'यूयं तदनुमोदध्वं यदिच्छन्त्यसुरास्सुराः।  
@@ -3657,8 +3239,6 @@ The Lord—
 तेषामन्तर्दधे \[राजन्\] स्वच्छन्दगतिरीश्वरः॥**
 
  Having commanded the gods thus, Lord Hari, the Master moving as He pleases, disappeared from the sight of the gods.
-
-
 
 **ततो देवासुराः कृत्वा संविदं कृतसौहृदाः।  
 उद्यमं परमं चक्रुरमृतार्थे \[परन्तप \]॥**
@@ -3679,8 +3259,6 @@ The Lord—
 
  When the ocean was being churned, the Mandara mountain which had no support underneath, went into the waters.
 
-
-
 **विलोक्य विघ्नेशविधिं तदेश्वरः  
 कृत्वा वपुः काच्छपमद्भुतं महत्।  
 प्रविश्य तोयं गिरिमुज्जहार  
@@ -3697,8 +3275,6 @@ The Lord—
 
  Out of the ocean that was being churned, there arose, in front of them, the very terrible poison named Halahala. Seeing that poison of formidable force sweeping across all quarters, and below, unbearable and irremediable, people, along with the gods, frightened and unprotected (by any), fled to the ever auspicious God Siva for refuge.
 
-
-
 **तद्वीक्ष्य व्यसनं तासां कृपया भृशपीडितः।  
 सर्वभूतसुहृदेव इदमाह सतीं प्रियाम्॥**
 
@@ -3711,8 +3287,6 @@ The Lord—
 तस्मादिदं गरं भुञ्जेप्रजानां स्वस्तिरस्तु मे॥’**
 
  "Alas! Parvati! behold! this suffering of the people that has come from the Kalakuta poison risen from the churning of the milk-ocean. I must afford security to these who desire to Save their lives. For, this much is the purpose of a Master, namely, the protection of the afflicted. Hence shall I drink this poison; let there be welfare for the people through Me."
-
-
 
 **ततः करतलीकृत्य व्यापि हालाहलं विषम्।  
 अभक्षयन्महादेवः कृपया भूतभावनः॥**
@@ -3733,8 +3307,6 @@ The Lord—
 
  When the poison had been drunk by Siva, the gods and the demons were satisfied and theychurned the ocean forcibly; there arose then the cow Kamadhenu.
 
-
-
 **तत उच्चैःश्रवा नाम हयोऽभूश्चन्द्रपाण्डरः।  
 तत ऐरावतो नाम वारणेन्द्रो विनिर्गतः।  
 कौस्तुभाण्यमभूद्रत्नं पद्मरागां महोदधेः।  
@@ -3753,8 +3325,6 @@ The Lord—
 विलोकयन्ती निरवद्यमात्मनः  
 पदं ध्रुवं चाव्यभिचारि सद्गणम्।**
 
-
-
 **गन्धर्वयक्षासुरसिद्धचारण-  
 त्रैविष्टपेयादिषु नान्वविन्दत॥**
 
@@ -3766,8 +3336,6 @@ The Lord—
 स ईश्वरः किं परतो व्यपाश्रयः॥**
 
  “ He who certainly possessed (the merit of) penance had not conquered wrath; there was knowledge somewhere but it was not free from attachment to material objects; there was some one great but he had not overcome passion; is he a lord who is dependent on another?
-
-
 
 **‘धर्मः क्वचित्तत्र न भूतसौहृदं  
 त्यागः क्वचित्तत्र न मुक्तिकारणम्।  
@@ -3786,8 +3354,6 @@ The Lord—
 तस्थौ निधाय निकटे जनको जनन्या**  
 वक्षो निवासमकरोत्परमं विभतेः॥
 
-
-
  She placed on His shoulders that beautiful garland of fresh lilies, resonant with the hum of the cluster of drunken bees, and stood by His side; the Lord, the Father, made His own chest the best abode of the Mother, the Goddess of all prosperity.
 
 **अथासीद्वारुणी देवी कन्या कमललोचना।  
@@ -3801,8 +3367,6 @@ The Lord—
 धन्वन्तरिरिति ख्यात आयुर्वेददृगिज्यभाक्॥**
 
  Then arose a beautiful person, adorned with armlets armlets and of lion-like strides, bearing a jar filled with nectar. He wasa partial incarnation of Lord Hati Himself, known as Dhanvantari, the founder of the science of medicine and one who had a share in sacrificial offerings.
-
-
 
 **तमालोक्यासुरास्सर्वे कलशं तरसाऽहरन्।  
 नीयमानेऽसुरैस्तस्मिन् कलशेऽमृतभाजने।  
@@ -3824,8 +3388,6 @@ The Lord—
 सव्रीडस्मितविक्षिप्तभ्रः लासावलोकनैः।  
 दैत्ययूथपचेतस्सु काममुद्दीपयन्मुहुः॥**
 
-
-
  In the meanwhile, Lord Vishnu, who knew all expedients, took an indescribable and most wonderful female form. With bashful smiles and glances cast with theplay of the brows, He (She) frequently kindled
 passion in the minds of the demon-chiefs.
 
@@ -3844,8 +3406,6 @@ The Demons—
 यद्यभ्युपेतं क्वच साध्वसाधु वा  
 कृतं मया वो विभजे सुधामिमाम्॥**
 
-
-
  Then, taking the nectar-vessel, Lord Hari spoke in words beautified with gentle smile: "Good or bad, if you would accept whatever I do, I shall divide this nectar amongst you."
 
 **इत्यभिव्याहृतं तस्यास्तत्तथेत्यन्वमंसत॥**
@@ -3858,8 +3418,6 @@ The Demons—
 दूरस्थान्पाययामास जरामृत्युहरां सुधाम्॥**
 
  When the gods and the demons had sat facing the east, the Lord of the universe made two separate rows for the two; and with the nectar-vessel in his hand, He deceived the demons, merely approaching them often (with sweet gestures and words), and made (the gods), sitting at a distance, drink that nectar which destroyed old age and death.
-
-
 
 **ते पालयन्तस्समयमसुराः स्वकृतं \[नृप\]।  
 तस्यां कृतातिप्रणयाः प्रणयापायकातराः।  
@@ -3874,8 +3432,6 @@ The Demons—
 
  Thus, though the gods and the demons were alike in respect of place, time, purpose, means, endeavour and intelligence, they differed in the reaping of fruit. Between the two, the gods easily got the fruit, because of their seeking the dust of the lotus feet of the Lord, and (by not doing that) the demons failed to get it.
 
-
-
 **साधयित्वाऽमृतं \[राजन् \] पाययित्वा स्वकान्सुरान्।  
 पश्यतां सर्वभूतानां ययौ गरुडवाहनः॥**
 
@@ -3887,8 +3443,6 @@ The Demons—
 THUS ENDS THE STORY OF THE INCARNATION AS TORTOISE.
 
 **\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **॥श्रीः॥**
 
@@ -3910,8 +3464,6 @@ THE STORY OF THE INCARNATIONS AS VAMANA AND TRIVIKRAMA.
 **हुताशनादास हविर्भिरिष्टाद्  
 धनुश्च दिव्यं कवचं च दिव्यम्॥**
 
-
-
  From the fire propitiated by the oblations there arose a celestial bow and a celestial armour.
 
 **अथारुह्य रथं दिव्यं विकर्षन्ध्वजिनीं विभुः।  
@@ -3928,8 +3480,6 @@ THE STORY OF THE INCARNATIONS AS VAMANA AND TRIVIKRAMA.
 
 **मघवांस्तमभिप्रेत्य बलेः परममुद्यमः।  
 सर्वदेवगणोपेतो गुरुमेतदुवाच ह॥**
-
-
 
  Seeing that great effort of Bali, Indra, along with all the gods, said this to his preceptor (Brihaspati):
 
@@ -3951,8 +3501,6 @@ The Preceptor—
 नास्य शक्तः पुरः स्थातुं कृतान्तस्य यथा जनाः॥**
 
  " Neither one like you, nor even yourself,— none except Lord Hari can stand before him, even as men cannot before Death.
-
-
 
 **'तस्मान्निलयमुत्सृज्य यूयं सर्वे त्रिविष्टपम्।  
 यात कालं प्रतीक्षन्तो यतः शत्रोर्विपर्ययः॥'**
@@ -3976,8 +3524,6 @@ The Preceptor—
 **एकदा कश्यपस्तस्या आश्रमं भगवानगात्।  
 स पत्नीं दीनवदनामिदमाह \[कुरूद्वह\]॥**
 
-
-
  Once, the blessed Kasyapa went to her hermitage and spoke this to his wife whose face was woe-begone:
 
 **'अपि वाऽकुशलं किञ्चिद्रूहेषु गृहमेधिनि।  
@@ -3994,8 +3540,6 @@ The Preceptor—
 Aditi—
 
  " My lord! save us who have been deprived of our prosperity and position by cur foes, O you who are capable and are the greatest of benefactors! With your intellect, do us such benefaction as will make my sons regain that prosperity and position."
-
-
 
 **कश्यपः—**
 
@@ -4020,8 +3564,6 @@ Kasyapa—
 
  \* Payovrata is to be observed for twelve days in the bright fortnight, of the Phalguna month. God Hari should be worshipped continuously, the devotee sustaining himself on milk alone.
 
-
-
 **श्रीभगवान्—**
 
 **'देवमातर्भवत्या मे विज्ञातं चिरकाङ्क्षितम्।  
@@ -4041,8 +3583,6 @@ The Lord—
 
  " Divine lady! my opinion is that, at the present moment, those demon-chiefs are almost invincible. Still, I who have been propitiated by your observance should
 
-
-
 think of a plan. Partially manifesting Myself as your son, and taking my stand on the penance of Kasyapa, I shall save your sons."
 
 **एतावदुक्ता भगवांस्तत्रैवान्तरधीयत॥**
@@ -4060,8 +3600,6 @@ think of a plan. Partially manifesting Myself as your son, and taking my stand o
 कर्माणि कारयामासुः पुरस्कृत्य प्रजापतिम्॥**
 
  The great sages rejoiced on seeing that dwarf-Brahmacharin and, with Brahma as the head, they performed the sacraments for Him.
-
-
 
 **स ब्रह्मवर्चसेनैवमत्यरोचत मारिषः॥**
 
@@ -4086,8 +3624,6 @@ think of a plan. Partially manifesting Myself as your son, and taking my stand o
 
  2. Kamandalu is a small earthen or wooden vessel for water carried by Brahmacharins, ascetics and others.
 
-
-
 himself in the guise of a brahmacharinBali washed the feet of the Lord and worshipped Him, the delighter of those who have discarded attachment.
 
 **बलिः—**
@@ -4110,8 +3646,6 @@ Bali—
 **‘न ह्येतस्मिन्कुले कश्चिन्निस्सत्त्वः कृपणः पुमान्।  
 प्रत्याख्याता प्रतिश्रत्य यो वाऽदाता द्विजातये॥**
 
-
-
 The Lord—
 
  " There is none in this line (of yours) who has been untruthful or niggardly, none who had promised and gone back on his word, and none who had not been munificent to a Brahmin.
@@ -4130,8 +3664,6 @@ The Lord—
 नैनः प्राप्नोति वै विद्वान् यावदर्थपरिग्रहः॥'**
 
  "King! I desire nothing else from you, a munificent donor and the lord of the
-
-
 
 universe. A wise person who receives only as much as is necessary does not incur any sin."
 
@@ -4154,8 +3686,6 @@ Bali—
 **'यावन्तो विषयाः प्रेष्ठास्त्रिलोक्यामजितेन्द्रियम्।  
 न शक्नुवन्ति ते सर्वे प्रतिपूरयितुं नृप।**
 
-
-
 The Lord—
 
  " King, not all the things that are dearest in these worlds car fully satisfy one of uncontrolled senses.
@@ -4177,8 +3707,6 @@ The Lord—
 **'यदृच्छालाभतुष्टस्य तेजो विप्रस्य वर्धते।  
 तत्प्रशाम्यत्यसन्तोषादम्भसेवाशुशुक्षणिः॥**
 
-
-
  " The spiritual power of the Brahmin who is content with what is got by chance increases; that power dies out by non-contentment, like fire by water.
 
 **'तस्मात्त्रीणि पदान्येव वृणे त्वद्वरदर्षभात्।  
@@ -4195,8 +3723,6 @@ The Lord—
 जानंश्चिकीर्षितं विष्णोः शिष्यं प्राह विदां वरः॥**
 
  Knowing what Vishnu desired to do, Sukra, the most eminent of the wise, told his pupil, the king of the Asuras, who was about to make the gift of land to Vishnu:
-
-
 
 **'एष वैरोचने विष्णुर्देवानां कार्यसाधकः।  
 प्रतिश्रुतं त्वयैतस्मै यदनर्थमजानता।  
@@ -4218,8 +3744,6 @@ Bali—
 '**सर्वंसोढुमलं मन्ये ऋतेऽलीकपरं नरम्।  
 नाहं बिभेमि निरयाद्यथ विप्रप्रलभनात्॥'**
 
-
-
  " I consider everything bearable except the man of faleshoods. I do not fear hell so much as deceiving a Brahmin."
 
 **एवं सत्यान्न चलितो वामनाय ददौ मुदा॥**
@@ -4238,8 +3762,6 @@ Bali—
 पदं द्वितीयं क्रमतस्त्रिविष्टपं  
 न वै तृतीयाय तदीयमण्वपि॥**
 
-
-
  The Lord bestrode the (whole of) Dali's earth with one foot and (pervaded) the skies with His body, and the quarters with His arms; and for Him who bestrode the heaven with the second foot, there was not even an atom belonging to Bali for His third.
 
 **श्रीभगवान्—**
@@ -4254,8 +3776,6 @@ The Lord—
 
  " Demon, three feet of ground were gifted by you to me; with two feet, I have covered the entire universe. Find me the space for the third foot. Promising to give, you, who imagined yourself wealthy, have deceived Me. Therefore, enjoy for a few years the fruit of this fraud,— hell."
 
-
-
 **बलिः—**
 
 **'यद्युत्तमश्लोक भवान्मयेरितं  
@@ -4267,8 +3787,6 @@ Bali—
 
  " O you foremost of gods, O you of highest renown! if you consider the words I had spoken as deceitful, I will make them true; there shall be no fraud, place your third foot on my head.
 
-
-
 **'बिभेमि नाहं निरयाहुरत्ययात्  
 असाधुवादाद्भृशमुद्विजे यक्षा॥**
 
@@ -4277,8 +3795,6 @@ Bali—
 **'पुंसां श्लाघ्यतमं मन्ये दण्डमर्हत्तमार्पितम्॥**
 
  " Punishment at the hands of the greatest of the revered is, I think, most praiseworthy for men.
-
-
 
 **'यस्मिन्वैरानुबन्धेन रूढेन विबुधेतराः।  
 बहवो लेभिरे सिद्धिं यमुहैकान्तयोगिनः।  
@@ -4303,8 +3819,6 @@ Bali—
 मन्ये महानस्य कृतो ह्यनुग्रहो  
 विभ्रंशितो यच्छ्रिय आत्ममोहनात्॥'**
 
-
-
  (Prahlada addressed The Lord): “The prosperous place of Indra was given by Yourself; and now, it has been taken back by Yourself. The latter is as welldone (as the former). I think that a great blessing has been bestowed on Bali since he has been thrown down from the pelf that deludes one."
 
 **श्रीभगवान्—**
@@ -4322,8 +3836,6 @@ The Lord—
 
  " This renowned Bali, foremost of the demons, has conquered the invincible Illusion.
 
-
-
 Praiseworthy in his vow, he forsook not Truth. He is being sent by me to a place of Mine hard of access even to the gods.
 
 **'इन्द्रसेन महाराज याहि भो भद्रमस्तु ते।  
@@ -4337,8 +3849,6 @@ Praiseworthy in his vow, he forsook not Truth. He is being sent by me to a place
 नित्यं द्रष्टासि मां तत्र गदापाणिमवस्थितम्॥'**
 
  " Prahlada, my child! Welfare unto you. Go thou to the abode in the Sutala and rejoicing (there) with your grandson, bring happiness to your relations. You shall see Me there for all time, standing mace in hand."
-
-
 
 **आज्ञां भगवतो \[राजन्\] प्रह्लादो बलिना सह।  
 मूर्ध्न्याघाय परिक्रम्य प्रविवेश महाबिलम्॥**
@@ -4360,8 +3870,6 @@ THUS ENDS THE STORY OF THE INCARNATIONS AS VAMANA AND TRIVIKRAMA.
 
 **\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **॥श्रीः॥**
 
 **॥मत्स्यावतारकथा॥**
@@ -4382,8 +3890,6 @@ THUS ENDS THE STORY OF THE INCARNATIONS AS VAMANA AND TRIVIKRAMA.
 
  At the end of the last aeon, there was an involution caused by Brahma going to sleep. In that involution, the Earth and other worlds became deluged by the oceans.
 
-
-
 **कालेनागतनिद्रस्य धातुश्शिशयिषोर्बली।  
 मुखतो निस्सृतान्वेदान्हयग्रीवोऽन्तिकेऽहरत्॥**
 
@@ -4402,8 +3908,6 @@ THUS ENDS THE STORY OF THE INCARNATIONS AS VAMANA AND TRIVIKRAMA.
 **एकदा कृतमालायां कुर्बतो जलतर्पणम्।  
 तस्याञ्जल्युदके काचिच्छफर्येकाऽभ्यपद्यत॥**
 
-
-
  Once, as he was offering water-libation in the Kritamala river, there came a tiny fish with the water into his hard.
 
 **कलशाप्सु निधायैनां दयालुर्निन्य आश्रमम्।  
@@ -4415,8 +3919,6 @@ THUS ENDS THE STORY OF THE INCARNATIONS AS VAMANA AND TRIVIKRAMA.
 जलाशये संमितं तं समुद्रे प्राक्षिपज्झषम्॥**
 
  The compassionate Satyavrata placed it in the water in his pitcher and took it to his hermitage. In a night, it grew in size in that pitcher. Satyavrata took it out of the pitcher and placed it in the water in atub. Placed there, it grew to three arms' length in a moment. It was taken out of it and thrown into a big lake by the king. That great fish pervaded the lake with its body and was (still) growing continuously. The king (then) threw into the ocean that fish which was filling every kind of reservoir of water.
-
-
 
 **तमाह को भवानस्मान् मत्स्यरूपेण मोहयन्॥**
 
@@ -4440,8 +3942,6 @@ The Lord—
 सप्तर्षिभिः परिवृतः सर्वसत्त्वोपबृंहितः।  
 आरुह्य बृहतीं नावं विचरिष्यस्यविक्लबः॥**
 
-
-
  "And, taking with you every kind of herb and every kind of sced, surrounded by the seven sages and every kind of animal, you shall get into that big ark and move about without any fear.
 
 **'दोधूयमानां तां नावं समीरेण बलीयसा।  
@@ -4456,8 +3956,6 @@ The Lord—
 वेत्स्यस्यनुगृहीतं मे संप्रश्नैर्विवृतं हृदि॥'**
 
  "King! I shall drag you along with the sages and the boat in the ocean and move about till Brahma's night comes. to an end. And you shall also realise in your owe heart My glory, that which is called the Supreme Spirit, which I shall bless you with and expound in reply to your questions."
-
-
 
 **इत्थमादिश्य राजानं हरिरन्तरधीयत।  
 सोऽन्ववैक्षत तं कालं चिन्तयन्मत्स्यरूपिणः॥**
@@ -4477,8 +3975,6 @@ The Lord—
 **सोऽनुध्यातस्ततो राज्ञा प्रादुरासीन्महार्णवे।  
 एकशृङ्गधरो मत्स्यो हैमो नियुतयोजनः॥**
 
-
-
  Thought of by the king, the Lord 'hen appeared in the great ocean, a golden Fish with a single snout, (full) nine million miles in length.
 
 **निबद्ध्य नावं तच्छृङ्गे तुष्टाव मधुसूदनम्।  
@@ -4492,8 +3988,6 @@ The Lord—
 
  When the time of deluge-destruction had passed, Lord Hari killed the demon Hayagriva and restored the Vedas to Brahma, who had risen from his slumber.
 
-
-
 **स तु सत्यव्रतो राजा ज्ञानावज्ञानसंयुतः।  
 विष्णोः प्रसादात् कल्पेऽस्मिन्नासीद्वैवस्वतो मनुः॥**
 
@@ -4503,12 +3997,9 @@ The Lord—
 
 **\_\_\_\_\_\_\_\_\_\_\_\_**  
 
-
 THUS ENDS THE STORY OF THE INCARNATION AS THE FISH.
 
 **\_\_\_\_\_\_\_\_\_**
-
-
 
 **॥श्रीः॥**
 
@@ -4529,8 +4020,6 @@ THE STORY OF THE INCARNATION AS RAMA
 **तस्यानुचरितं \[राजन्\] ऋषिभिस्तत्त्वदर्शिभिः।  
 श्रुवं हि वर्णितं भूरि \[त्वया\] सीतापतेर्मुहुः।**
 
-
-
  The story of that Lord Hari (as Rama), the husband of Sita, has been extensively described by sages who have realised the Truth, and has been frequently heard.¹
 
 **गुर्वर्थे त्यक्तराज्यो व्यचरदनुवनं  
@@ -4548,8 +4037,6 @@ THE STORY OF THE INCARNATION AS RAMA
 
 1.THE RAMAYANA. Condensed in the poet's own words and translated into English. Re. 1-4. G. A. Natesan & Co.
 
-
-
  whose fatigue from walking was removed by Hanuman, the greatest of the monkeys and His own brother (Lakshmana), who in his fury at His separation from His beloved which resulted from His causing Surpanakha (the demoness) to be disfigured, frightened the ocean with the knit of His brow, built the dam, burnt the forest of the wicked (the demons) and became the king of the Kosalas.
 
 **यस्सत्यपाशपरिवीतपितुर्निदेशं  
@@ -4558,8 +4045,6 @@ THE STORY OF THE INCARNATION AS RAMA
    त्यक्त्वा ययौ वनमसूनिव मुक्तसङ्गः॥**
 
  Rama, who, with His wife, received with reverence the command of His father, who was tied by the chords of Truth, even though the father was a slave to a woman, and went away to the forest leaving His kingdom, riches, dear friends and His abode, even as as a person of detachment would give up his life.
-
-
 
 **रक्षोधमेन वृकवद्विपनेऽसमक्षं  
    वैदेहराजदुहितर्यपयापितायाः।  
@@ -4575,8 +4060,6 @@ THE STORY OF THE INCARNATION AS RAMA
 
  When the righteous Rama who brought happiness to all beings was king, there did not exist mental and physical maladies, old-age, fatigue, misery, sorrow, fear and
 
-
-
  weariness. Upholding the vow of devotion to one wife, living the life of a royal sage, and remaining pure, Rama Himself observed His His Dharma as a householder, (thereby) teaching it (to the world).
 
 **स्मरतां हृदि विन्यस्य विद्धं दण्डककण्टकैः।  
@@ -4590,8 +4073,6 @@ THE STORY OF THE INCARNATION AS RAMA
 किं तस्य शत्रुहनने कपयः सहायाः॥**
 
  This, the annihilation of the demons and the damming of the ocean with (the power of) His arrows, is hardly any glory for that king of the Raghus, who assumed in sport that form at the entreaty of the
-
-
 
  gods, and whose greatness hath nothing either to excel or equal it. Are monkeys His aids in the killing of His foes?
 
@@ -4607,8 +4088,6 @@ THE STORY OF THE INCARNATION AS RAMA
 THUS ENDS THE STORY OF THE INCARNATION AS RAMA.
 
 **\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **॥ श्रीः ॥**
 
@@ -4628,8 +4107,6 @@ THE STORY OF THE INCARNATION AS PARASURAMA
 
  Jamadagni married Renuka, the daughter of Renu. Of her and that sage of the Bhrigu line (Jamadagni), was born the very well known Rama, who, they say, was a partial incarnation of Lord Vasudeva, the annihilator of the race of the Haihayas, He who, twenty-one times, swept this earth clean of the Kshatriyas.
 
-
-
 **हैहयानामधिपतिरर्जुनः क्षत्रियर्षभः।  
 बाहून्दशशतं लेभे दुर्धर्षत्वमरातिषु॥ **
 
@@ -4644,8 +4121,6 @@ THE STORY OF THE INCARNATION AS PARASURAMA
 
  Once he came into the hermitage of Jamadagni. The sage for whom penance was his wealth, offered hospitality to that king with all his army, ministers and animals, with the aid of his Kamadhenu.
 
-
-
 **स वीरस्तत्न तद् दृष्ट्वाआत्मेश्वर्यातिशायनम्।  
 हविर्धानीमृषेर्दर्पान्नरान हर्तुमचोदयत्।  
 ते च माहिष्मतीं निन्युः सवत्सां क्रन्दतीं बलात्॥**
@@ -4658,8 +4133,6 @@ THE STORY OF THE INCARNATION AS PARASURAMA
 अन्वधावत दुर्धर्षो मृगेन्द्र इव यूथपम्॥**
 
  Then, when the king had gone, Rama, who had returned, heard in the hermitage of that wickedness of Arjuna and became furious like a beaten serpent. Seizing his terrible axe, quiver, shield and bow, the inviolable Rama ran after Arjuna, like a lion running after an elephant.
-
-
 
 **तमापतन्तं ददृशे पुरीं विशन्  
    अचोदयद्धस्तिरथाश्वपत्तिभिः।  
@@ -4679,8 +4152,6 @@ THE STORY OF THE INCARNATION AS PARASURAMA
 
 1.An Akshauhini is an unit of army comprising 21,870 elephants, 21,870 chariots, 65,610 horse and 109,350 foot.
 
-
-
 **पुनस्स्वहस्तैरचलान्मृधेऽङ्घ्रिपान्  
    उत्क्षिप्य वेगादभिधावतो युधि।  
 भुजान्कुठारेण कठोरनेमिना  
@@ -4694,8 +4165,6 @@ THE STORY OF THE INCARNATION AS PARASURAMA
 स्वकर्म वर्णयामास, जमदग्निरभाषत॥**
 
  When their father was killed, Arjuna's sons, numbering ten thousand, fled in fear. Rama, the destroyer of enemy—warriors, recovered the cow along with her calf, reached the hermitage and gave the muchharassed cow to his father. Rama described his exploit, (whereon) Jamadagni (his father)said :
-
-
 
 **'राम राम महाबाहो भवान्पापमकारषीत्।  
 अवधीन्नरदेवं यत्सर्वदेवमयं वृथा॥**
@@ -4713,8 +4182,6 @@ THE STORY OF THE INCARNATION AS PARASURAMA
 
  "The murder of an anointed king is more heinous than the slaying of a Brahmin. And this sin, you wipe out by visiting the holy places, with your thought on the imperishable Lord."
 
-
-
 **पित्रोपशिक्षितो रामस्तथेति \[ कुरुनन्दन \]।  
 संवत्सरं तीर्थयात्रां चरित्वाऽऽश्रममाव्रजत्॥**
 
@@ -4728,8 +4195,6 @@ THE STORY OF THE INCARNATION AS PARASURAMA
 प्रसह्य शिर उत्कृत्य निन्युस्ते क्षत्रबन्धवः॥**
 
  Remembering the killing of their father, the sons of Arjuna, getting an opportunity when Rama, along with his brothers, had once gone away from the hermitage into the forests, came ( to the hermitage) desiring to wreak vengeance. They saw the sage (Jamadagni) in the fire—chamber, sitting in meditation. Though entreated by the pitiable mother of Rama, those extremely cruel and base Kshatriyas forcibly chopped and carried off Jamadagni's head.
-
-
 
 **रेणुका राम रामेति विचुक्रोशोच्चकैस्सती।  
 त्वरयाऽऽश्रममासाद्य ददृशे पितरं हतम्॥**
@@ -4748,8 +4213,6 @@ THE STORY OF THE INCARNATION AS PARASURAMA
 
 **त्रिस्सप्तकृत्वः पृथिवीं कृत्वा निःक्षत्रियां प्रभुः।  
 स्यमन्तपञ्चके चक्रे शोणितोदान् हृदान्नव॥**
-
-
 
  Ridding the earth of Kshatriyas for twenty-one times, the Lord created nine lakes of blood at Syamantapanchaka.
 
@@ -4770,8 +4233,6 @@ THE STORY OF THE INCARNATION AS PARASURAMA
 
  1.The group of the seven great sages (Sapta Rishis) is the constellation of the Great Bear. The seven great sages are Kasyapa, Atri, Vasishtha, Visvamitra, Gautama, Bharadvaja and Jamadagni.
 
-
-
  And the Lord, the lotus—eyed Rama who incarnated Himself as the son of Jamadagni, is present even now in the Mahendra hill having laid down the function of punishment and become completely tranquil in mind.
 
 **यदायदेह धर्मस्य क्षयो वृद्धिश्व पाप्मनः।  
@@ -4786,8 +4247,6 @@ THE STORY OF THE INCARNATION AS PARASURAMA
 THUS ENDS THE STORY OF THE INCARNATION AS PARASURAMA.
 
 **\_\_\_\_\_\_**
-
-
 
 **॥श्रीः॥**
 
@@ -4813,8 +4272,6 @@ THE STORY OF THE INCARNATION AS KRISHNA
 जनिष्यते तत्प्रियार्थे सम्भवन्तु सुरस्त्रियः।  
 ऋषयोऽपि तदादेशात् कल्प्थन्तां पशुरूपिणः।**
 
-
-
 **वासुदेवकलाऽनन्तः सहस्रवदनोऽग्रजः।  
 विष्णोर्माया भगवती कार्यार्थे सम्भविष्यति।'  
 इत्याश्वास्य महीं गीर्भिः स्वधाम परमं ययौ॥**
@@ -4824,8 +4281,6 @@ THE STORY OF THE INCARNATION AS KRISHNA
 **शूरसेनो यदुपतिर्मथुरामावसत् पुरा।  
 तस्यां तु कर्हिचिच्छौरिः वसुदेवः कृतोद्वहः।  
 देवक्या सूर्यया सार्धं प्रयाणे रथमारुहत्॥**
-
-
 
  In olden days, there lived at Mathura Surasena, the chief of the Yadus. In that Mathura once, Vasudeva, the son of Sura, having (just) married, mounted the chariot for the procession, along with his bride Devaki.
 
@@ -4844,8 +4299,6 @@ THE STORY OF THE INCARNATION AS KRISHNA
 
  The illustrious Vasudeva assuaged and told that cruel and shameless Kamsa of loathsome act :
 
-
-
 **'श्लाघनीयगुणश्शूरैर्भवान्भोजयशस्करः।  
 स कथं भगिनीं हन्यात् स्त्रियमुद्वाहपर्वणि॥'**
 
@@ -4861,8 +4314,6 @@ THE STORY OF THE INCARNATION AS KRISHNA
 वसुदेवोऽपि तं प्रीतः प्रशस्य प्राविशद् गृहम्॥**
 
  Appreciating the reasonableness of those words, Kamsa desisted from killing his sister. Vasudeva also, being pleased, praised Kamsa and entered his (own) abode.
-
-
 
 **देवकीं वसुदेवं च निगृह्य निगडैर्गृहे।  
 जातं जातमहन्पुत्रं तयोरजनशङ्कया॥**
@@ -4881,8 +4332,6 @@ Imprisoning his father, Ugrasena, the king of the Yadus, the Bhojas and the Andh
 
  With Pralamba, Baka, Chanura, Trinavarta, Mahasana, Mushtika, Arishta, Dvivida, Putana, Kesi, Dhenuka and other demon chiefs like Bana and Bhauma, the powerful
 
-
-
 Kamsa, with the support of ( Jarasandha) the king of the Magadhas[^7],oppressed the Yadus.
 
 [^7]: "Jarasandha, the Magadha king, was Kamsa's father—in-law."
@@ -4898,8 +4347,6 @@ Kamsa, with the support of ( Jarasandha) the king of the Magadhas[^7],oppressed 
 
  And the Lord who is the Soul of the universe, understanding the fear inspired by Kamsa in the Yadus of whom He was to become the chief, directed (His own Mystic Power), the Goddess Yogamaya:
 
-
-
 **'गच्छ देवि व्रजं भद्रे गोपगोभिरलङ्कृतम्।  
 रोहिणी वसुदेवस्य भार्याऽऽस्ते नन्दगोकुले।  
 देवक्या जठरे गर्भंशेषाख्य धाम मामकम्।  
@@ -4914,8 +4361,6 @@ Kamsa, with the support of ( Jarasandha) the king of the Magadhas[^7],oppressed 
 भगवानप्याविवेश मन आनकदुन्दुभेः॥**
 
  Thus directed by the Lord, the Goddess went to the earth and did accordingly.
-
-
 
 When the child in the womb of Devaki had been transferred to Rohini by Goddess Maya, the Lord also entered of Vasudeva.
 
@@ -4933,8 +4378,6 @@ When the child in the womb of Devaki had been transferred to Rohini by Goddess M
 स्त्रियाः स्वतुर्गुरुमत्या वधोऽवं  
 यशः श्रियं हन्त्यनुकालमायुः॥**
 
-
-
  Seeing that Devaki of beaming smile, with the unconquered Lord in her womb, illuminating the (whole) abode with her lustre, Kamsa said: "This is Hari, my death, who has surely entered her womb; for she was not like this before. (But) the slaying of a woman, a sister and one in confinement, destroys one's fame,prosperity and life immediately."
 
 **इति घोरतमाद्भावात् सन्निवृत्तः स्वयं प्रभुः।  
@@ -4947,8 +4390,6 @@ When the child in the womb of Devaki had been transferred to Rohini by Goddess M
 
  As he was sitting, lying, standing, eating, strolling and drinking, Kamsa thought (only) of Lord Hari and saw the (whole) universe as made up of Him.
 
-
-
 **अथ सर्वगुणोपेतः कालः परमशोभनः।  
 दिशः प्रसेदुर्गगनं निर्मलोडुगणोदयम्।  
 मही मङ्गलभूयिष्ठपुरग्रामव्रजाकरा।  
@@ -4959,8 +4400,6 @@ When the child in the womb of Devaki had been transferred to Rohini by Goddess M
 मन्दंमन्दं जलधरा जगर्जुरनुसागरम्॥**
 
  Then came the most glorious of times, possessing every excellence. The quarters cleared and in the sky appearedmultitudes of bright stars. Cities, villagesand hamlets on the earth earth were full of auspiciousness. Rivers were transparent in their waters and lakes beautiful with lotuses. There was the hum of bees and birds in the clusters of flowers in the sylvan groves.The wind blew pleasant, fragrant and pure.The minds of the good men and the gods were tranquil and pleased. And softly the clouds rumbled in accompaniment to the ocean.
-
-
 
 **देवक्यां देवरूपिण्यां विष्णुस्सर्वगुहाशयः।  
 आविरासीद्यथा प्राच्यां दिशीन्दुरिव पुष्कलः॥**
@@ -4977,8 +4416,6 @@ When the child in the womb of Devaki had been transferred to Rohini by Goddess M
 र्विरोचमानं वसुदेव ऐक्षत॥**
 
  Vasudeva saw that wonderful son, lotuseyed, four—armed, with the uplifted missiles, the conch, the mace and the rest; having the mark Srivatsa, with the ruby Kaustubha shining at his neck, in yellow garment and beautiful like the laden cloud; with His thick locks clasped by the radiance
-
-
 
 of the ear—rings and crown set with precious lapis lazuli, and resplendent with a big girdle, armlets, wristlets and other ornaments.
 
@@ -4997,8 +4434,6 @@ of the ear—rings and crown set with precious lapis lazuli, and resplendent wit
 स तेऽवतारं पुरुषैस्समर्पितं  
    श्रुत्वाऽधुनैवाभिसरत्युदायुधः॥'**
 
-
-
 "Lord, the Master of all,you have descended into my house,desiring to prolect this world. (But), thatKamsa, hearing through the servants, ofyour incarnation, will even now assail uswith his weaponuplifted."
 
 **देवकी तमुपाधावत् कंसाद्भीता शुचिस्मिता।  
@@ -5012,8 +4447,6 @@ The bright-smiled Devaki,Devaki, afraid of Kamsa, besought Him: "O Lord, let not
 
 **‘यदि कंसाद्विभेषि त्वं तर्हि मां गोकुलं नय।  
 मम्मायामानयाशु त्वं यशोदागर्भसम्भवाम्॥'**
-
-
 
 The Lord—
 
@@ -5035,8 +4468,6 @@ The Lord—
 सुतं यशोदाशयने निधाय तत्—  
    सुतामुपादाय पुनर्गृहानगात्॥**
 
-
-
  Vasudeva went to the hamlet ofNanda, and making sure that the shepherds were all in deep sleep, piaced his child on Yasoda's bed, and returned to his abode, taking with him Yasoda's daughter.
 
 **ततो बालध्वनिं श्रुत्वा गृहपालास्समुत्थिताः।  
@@ -5055,8 +4486,6 @@ The Lord—
 
  The miserable Devaki told her brother pitifully: Auspicious (brother)! this is your daughter-in-law; you must not kill a girl."
 
-
-
 **याचितस्तां विनिर्भर्त्स्य हस्तादाचिच्छिदे खलः।  
 तां गृहीत्वा चरणषोर्जातमात्रां स्वसुस्सुताम्।  
 अपोथयच्छिलापृष्ठे स्वार्थोन्मूलितसौहृदः॥**
@@ -5069,8 +4498,6 @@ The Lord—
 यत्र क्व वा पूर्वशत्रुः मा हिंसीः कृपणान्वृथा॥'**
 
  That child, the Goddess Maya, leapt from Kamsa's hand and immediately reached the sky. Extolled by the Siddhas, Charanas and Gandharvas, she said this (to Kamsa): Fool, what is the use of killing me ? He who would put an end to , your old foe, has been born somewhere. Do not" torment in vain these poor persons (Devaki and Vasudeva). "
-
-
 
 **मोंचयामासनिगडाद्विश्रब्धः कन्यकागिरा।  
 देवकीं वसुदेवं च दर्शयन्नात्मसौहृदम्॥**
@@ -5091,9 +4518,6 @@ The Ministers—
 
  "If it is so, lord of the Bhojas, we shall now kill (all) the children, those that are not even ten days old and those that are ten days old, in the cities, villages, hamlets and other places.  
 
-
-
-
 **'तपस्विनो यज्ञशीलान् गाश्च हन्मो हविर्दुघाः।  
 विप्रा गावश्च वेदाश्च तपस्सत्यं दमश्शमः।  
 श्रद्धा दया तितिक्षा व ऋतवश्च हरेस्तनूः॥'**
@@ -5105,8 +4529,6 @@ The Ministers—
 सन्दिश्य कदने दिक्षु दानवान् गृहमाविशर॥**
 
  Taking counsel with (his) evil ministers in this manner, the foolish demon Kamsa, encircled by the noose of death, considered the torture of the Brahmins beneficial (to himself). Ordering the demons to do havoc in all the quarters, Kamsa went into his abode.
-
-
 
 **नन्दस्त्वात्मज उत्पन्ने जाताह्लादो महामनाः।  
 आहूय विप्रान्दैवशान् जातकर्माऽऽत्मजस्य वै।  
@@ -5123,8 +4545,6 @@ The Ministers—
 **महार्हवस्त्राभरणकञ्चुकोष्णीषभूषिताः।  
 गोपास्समाययू \[राजन्\] नानोपायनपाणयः॥**
 
-
-
  Adorned with valuable clothes, ornaments, shits and turbans, shepherds arrived with manifold presents in their hands.
 
 **गोप्यश्चाकर्ण्य मुदिता यशोदायास्सुतोद्भवम्।  
@@ -5139,11 +4559,8 @@ The Ministers—
 
 **\_\_\_\_\_\_\_\_\_**
 
-
-
 **पूतनावधः—**THE KILLING OF PUTANA
 
-   
 ![](../books_images/U-IMG-1735120096Screenshot2024-12-25151514.png)
 
 **कंसेन प्रहिता घोरा पूतना बालघातिनी।  
@@ -5161,8 +4578,6 @@ The Ministers—
 **अनन्तमारोपयदङ्कमन्तकं  
 यथोरगं सुप्तमबुद्धिरज्जुधीः॥**
 
-
-
  Knowing her as the evil planet that killed children, the Lord, who is of the form of the moving and the unmoving world, remained with His eyes closed. That deathless Lord, her death, she took on her lap, as one might ignorantly a sleeping serpent, taking it for a piece of rope.
 
 **तस्मिंस्स्तनं दुर्जरवीर्यमुल्बणं  
@@ -5171,8 +4586,6 @@ The Ministers—
 निशाचरीत्थं व्यथिताऽपतत् \[नृप\]॥**
 
  She offered Him her terrible breast containing indigestible poison. The Lord crushed it with His hands, and with anger, sucked it together with her life. Thus tortured, the demoness fell (dead).
-
-
 
 **शकटभञ्जनम्—**THE SHATTERING OF SAKATA
 
@@ -5192,8 +4605,6 @@ The Ministers—
 
  Kicked by the tiny feet, soft like sprouts, of that child lying on the ground, a cart (nearby) capsized, with its wheels and
 
-
-
 axle overturned and the polebroken.Nanda and others were excited.on seeing this wonder.
 
 **अप्रमेयं बलं तस्य बालकस्य न ते विदुः॥**
@@ -5201,8 +4612,6 @@ axle overturned and the polebroken.Nanda and others were excited.on seeing this 
  They did not realise the immeasurable strength of that child.
 
 **\_\_\_\_\_\_\_\_\_**
-
-
 
 **तृणावर्तवधः—**THE KILLING OF TRINAVARTA
 
@@ -5226,8 +4635,6 @@ For a time, time, (all) Gokula was wrapti indust and darkness.
 कृष्णं नभोगतो गन्तुं नाशक्नोद्भरिभारभृत्।  
 गले गृहीत उत्स्रष्टुं नाशक्नोदद्भतार्भकम्॥**
 
-
-
  Trinavarta who, taking the form of a gale, was carrying away Krishna, reached the sky and (then), with his force subdued, he could not proceed (further), carrying as he was a huge burden. a huge burden. Caught by the neck (by the child), he could not fling down the wonder-child.
 
 **गलग्रहणनिश्चेष्टो दैत्यो निर्गतलोचनः।  
@@ -5236,8 +4643,6 @@ For a time, time, (all) Gokula was wrapti indust and darkness.
  Rendered inactive by the strangling of his throat, with his eyes bulged out and howling indistinctly, the dead demon fell down in Gokula, along with the boy.
 
 **\_\_\_\_\_\_\_**
-
-
 
 **नामकरणम् —** THE SACRAMENT OF NAMING
 
@@ -5262,8 +4667,6 @@ Garga—
 
 1.Rama is from Ram, causal, to delight; Bala means strength and Sankarshna is one who draws people together; Krish with Sam, to draw close.
 
-
-
 **'आसन् वर्णास्त्रयो ह्यस्य गृह्णतोऽनुयुगं तनूः।  
 शुक्लो रक्तस्तथा पीत इदानीं कृष्णतां गतः।  
 वासुदेव इति श्रीमानभिज्ञाःसंप्रचक्षते ॥**
@@ -5280,16 +4683,12 @@ Garga—
 
  "This delighter of the Gopas and the Gokula will bring welfare unto you and, through Him, you shall easily overcome all difficulties. "
 
-
-
 **इत्यात्मानं समादिश्य गर्गे च स्वगृहं गते।  
 नन्दः प्रमुदितो मेन आत्मानं पूर्णमाशिषाम्॥**
 
  When after advising him thus, Garga had left for his abode, Nanda rejoiced and considered himself full of blessings.
 
 **\_\_\_\_\_\_\_\_**
-
-
 
 **मातुर्विश्वरूपप्रदर्शनम् —** SHOWING VISVARUPA[^8]TO HIS MOTHER
 
@@ -5316,14 +4715,10 @@ The Lord—
 
  "Then, open (your mouth)." So told ( by His mother), Lord Hari, of unimpeded
 
-
-
 Lordship, who had become a human child for sport, opened (His mouth).  
-
 
 **सा तत्र ददृशे विश्वं जगत्स्थास्नु च खं दिशः।  
 साद्रिद्वीपाब्धिभूगोलं सवाय्वग्नीन्दुतारकम्॥**  
-
 
  She saw there (in the mouth of her son) the universe, moving and static, the sky  
 and the quarters; with the globe of this earth and its mountains, continents and oceans, and with air, fire, moon and the stars.
@@ -5337,8 +4732,6 @@ Vedas, the Upanishads, and the followers of the Sankhya, the Yoga and the Satvat
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 [^9]: "Sankhya is the path of knowledge; Yoga of action; and Satvata, an Agamik path, is that of devotion."
-
-
 
 **कृष्णबन्धनः** — THE BINDING OF KRISHNA  
 **\_\_\_\_\_\_\_\_\_\_\_**
@@ -5361,8 +4754,6 @@ the churning rod, and delighting (His mother), prevented her (from churning ).
 
  She suckled Him, who had mounted her lap, with her breast which flowed of itself in love, and looked at His face with a smile. (But) even when He was not yet satisfied, she left Him in haste and went away as the milk on the oven was boiling over.
 
-
-
 **सञ्जातकोपः स्फुरितारुणाधरं  
 सन्दश्य दद्भिर्दधिमन्थभाजनम्।  
 भित्त्वा मृषाश्रुर्द्दषदश्मना रहो  
@@ -5380,10 +4771,7 @@ the churning rod, and delighting (His mother), prevented her (from churning ).
 **इयेष किल तं बद्धुं दाम्नाऽतद्वीर्यकोविदा।  
 न चान्तर्न बहिर्यस्य न पूर्वंनापि चापरम्॥**
 
-
-
  Ignorant of His power, she desired to bind Him with a rope, one for whom there was not in or out or front or back.  
-
 
 **गोपिकोलूखले दाम्ना बबन्ध प्राकृतं यथा।  
 तद्दाम बध्यमानस्य स्वार्भकस्प कृतागसः।  
@@ -5392,7 +4780,6 @@ the churning rod, and delighting (His mother), prevented her (from churning ).
  The poor cowherd-woman bound Him in the mortar with the rope, as she would  
 an ordinary person. That rope was two inches too short for her guilty son who was to be bound. Hence, she joined another to it.  
 
-
 **तदपि द्व्यङ्गुलं न्यूनं यद्यदादत्त बन्धनम्।  
 स्वमातुस्स्विन्नगात्राया विस्रस्तकबरस्रजः।  
 दृष्ट्वापरिश्रमं कृष्णः कृपयाऽऽसीत्स्वबन्धने॥**
@@ -5400,8 +4787,6 @@ an ordinary person. That rope was two inches too short for her guilty son who wa
  Whatever rope she brought, happened to be two inches short. Seeing the exhaustion of His mother, with her bodyperspiringand her locks and flowers dishevelled, Krishna, out of pity, allowed Himself to be bound.
 
 **\_\_\_\_\_\_\_\_\_**
-
-
 
 **यमलार्जुनभञ्जनम्—** THE UPROOTING OF THE  
 PAIR OF ARJUNA TREES
@@ -5423,8 +4808,6 @@ PAIR OF ARJUNA TREES
 
  Krishna slowly went to where stood the pair of Arjuna trees. By this mere
 
-
-
 entering (the space between them), the mortar (to which He was tied) became transverse.
 
 **बालेन निष्कर्षयताऽन्वगुलूखलं तत्  
@@ -5440,8 +4823,6 @@ entering (the space between them), the mortar (to which He was tied) became tran
  The two Siddhas, rid of their impurity, went round and bowed to the Lord tied to the mortar, and taking His leave, went to the north[^12].
 
 [^12]: "Their abode, the city of Kubera, Alaka, is in the Himalayas, in the north."
-
-
 
 **वत्सवधः—**KILLING OF VATSA
 
@@ -5461,15 +4842,9 @@ Lord Hari showed him to Balarama and slowly approached him as if He knew nothing
 भ्रामयित्वा कपित्थाग्रे प्राहिणोद्गतजीवितम्।  
 स कपित्थैर्महाकायः पात्यमानैः पपात ह॥**
 
-
-
  Seizing (the demon-calf) by its hind-legs and tail, the imperishable Lord wheeled it (to death) and sent its corpse against a a wood-apple tree. The huge corpse of the demon fell, along with the wood-apples it brought down.
 
-
-
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **बकवधः—**KILLING OF BAKA
 
@@ -5491,8 +4866,6 @@ Lord Hari showed him to Balarama and slowly approached him as if He knew nothing
 
  Hastening towards Krishna, that powerful crane of sharp beak swallowed Him. And Rama and other boys, seeing Krishna
 
-
-
 swallowed by the huge crane, became unconscious, like the senses in the absence of life.
 
 **तं तालुमूलं प्रदहन्तमग्निवत्  
@@ -5503,8 +4876,6 @@ swallowed by the huge crane, became unconscious, like the senses in the absence 
  Baka vomitted Krishna who burnt his throat like fire, and again came up to kill Him. Krishna caught Baka, the friend of Kamsa, who was rushing (at Him), by his bill and bill and tore him asunder with His arms.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **अघवधः—**KILLING OF AGHA
 
@@ -5527,8 +4898,6 @@ swallowed by the huge crane, became unconscious, like the senses in the absence 
 धृत्वाऽद्भुतं व्यात्तगुहाननं तदा  
 पथि व्यशेत ग्रसनाशया खलः॥**
 
-
-
  Then rushed up a great demon, Agha by name. Seeing the boys, the wicked demon took the huge and wonderful form of a python and laid himself on the way, with his cave-like mouth agape, desiring to devour (the boys and Krishna).
 
 **अस्मान् किमत्र ग्रसिता निविष्टा-  
@@ -5543,8 +4912,6 @@ swallowed by the huge crane, became unconscious, like the senses in the absence 
 
  (But) the demon, who was waiting for the enemy of Baka (Krishna) to enter his mouth, did not swallow the boys with their calves.
 
-
-
 **तान्वीक्ष्य कृष्णः सकलाभयप्रदो  
 ह्यस्याविशत्तुण्डमशेषदृग्घरिः॥**
 
@@ -5552,9 +4919,7 @@ swallowed by the huge crane, became unconscious, like the senses in the absence 
 
 **चूर्णीचिकीर्षोरात्मानं तरसा ववृधे गले॥**  
 
-
  Krishna swelled in size in the throat of that demon who wanted to crush Him.  
-
 
 **ततोऽतिकायस्य निरुद्धमार्गिणो  
 ह्यद्गीर्णदृष्टेर्भ्रमतस्त्वितस्ततः।  
@@ -5562,10 +4927,6 @@ swallowed by the huge crane, became unconscious, like the senses in the absence 
 मूर्धन्विनिष्पाट्य विनिर्गतो बहिः।**
 
  Of that demon of huge body then, whose throat had been closed, whose eyes had bulged out and who was rolling this side and that, the wind that was full and pent.up within his body burst open the head, and passed out.
-
-
-
-
 
 **तेनैषसर्वेषु बहिर्गतेषु  
 प्राणेषु वत्सान् सुहृदः परेतान्।  
@@ -5575,8 +4936,6 @@ swallowed by the huge crane, became unconscious, like the senses in the absence 
  When along with the breath, the life (also) of that demon had passed away, Lord Krishna raised to life with His glance the dead calves and friends, and accompanied by them, came out of the mouth (of the demon).
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **वत्सवत्सपापहरणम्** — THE CARRYING AWAY  
 OF THE CALVES AND COWHERDS  
@@ -5597,8 +4956,6 @@ BY BRAHMA
 
  The boys said ''Be it so''. made the calves drink, herded them on the meadow, unstrung their slings containing their food and ate in delight with the Lord.
 
-
-
 **कृष्णस्य विष्वक् पुरुराजिमण्डलैः  
 अभ्याननाः फुल्लदृशोव्रजार्भकाः।  
 सहोपविष्टा विपिने विरेजुः  
@@ -5615,8 +4972,6 @@ BY BRAHMA
 वत्सादवन्तर्वने दूरं विविशुस्तृणलोभिताः॥**
 
  When the cowherds were thus eating, lost in the imperishable Lord, the calves, tempted by the grass, dived far into the forest.
-
-
 
 **'मित्राण्याशान्मा विरमतेहानेष्ये वत्सकानहम्।  
 इत्युक्त्वाऽद्रिदरीकुञ्जगह्वरेष्वात्मवत्सकान्।  
@@ -5637,8 +4992,6 @@ BY BRAHMA
 **ततः कृष्णो मुदं कर्त्तुं तम्मातृृणां च कस्य च।  
 उभयायितमात्मानं चक्रे विश्वकृदीश्वरः॥**
 
-
-
  To delight then the mothers of the cowherds and god Brahma, the Master whois the creator of the universe, transformed Himself into both, the cowherds andthe calves.
 
 **स्वयमात्माऽऽत्मगोवत्सान् प्रतिवार्यात्मवत्सपैः।  
@@ -5654,8 +5007,6 @@ BY BRAHMA
 पालयन् वत्सपो वर्षं चिक्रीडे वनगोष्ठयोः॥**
 
  Thus, in the guise of the cowherds and the calves, that cowherd who is the Soul (of all), Himself protecting Himself, sported Himself in the forest and in the Gokula for a year.
-
-
 
 **तावदेत्यात्मरात्ममानेन त्रुट्यनेहसा।  
 पुरोवदब्दं क्रीडन्तं ददृशे सकलं हरिम्॥**
@@ -5673,8 +5024,6 @@ BY BRAHMA
 **एवं सकृद्ददर्शाजः परब्रह्मात्मनाऽखिलान्।  
 यस्य भासा सर्वमिदं विभाति सचराचरम्॥**
 
-
-
  Thus did Brahma see for once all those beings as one with the Supreme Spirit, by  
 the light of which, all this, the universe with all (things) moving and static, shines.
 
@@ -5683,8 +5032,6 @@ the light of which, all this, the universe with all (things) moving and static, 
 
  O ! the fortune of the inhabitants of the hamlet of the cowherd Nanda, to whom that  
 Supreme Bliss, the full and eternal Being, the Brahman, was a friend!
-
-
 
 **धेनुकवधः** – THE KILLING OF DHENUKA  
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -5709,17 +5056,12 @@ Hearing the noise of the falling fruits, a demon ( there), in the form of an ass
 Balarama caught him by the feet, wheeled him round with a single hand, and when  
 he had died of that, flung him on the top of the palms.
 
-
-
 **ततः कृष्णं च रामं च ज्ञातयो धेनुकस्य ये।  
 क्रोष्टारोऽभ्यद्रवन् सर्वे संरब्धा हतबान्धवाः॥  
 तांस्तानापततः कृष्णो रामश्च \[नृप\] लीलया।  
 गृहीतपश्चाच्चरणान् प्राहिणोत्तृणराजसु॥**  
 
-
  Then all the kith and kin of Dhenuka (the demon), enraged because one of them had been killed, attacked Krishna and Rama, braying. As each ran up, Krishna and Rama, sportfully took it by its hindlegs and flung it against the palms.
-
-
 
 **कालियदमनम्**—THE SUBDUING OF THE SERPENT KALIYA
 
@@ -5740,8 +5082,6 @@ he had died of that, flung him on the top of the palms.
 कृष्णः कदम्बमधिरुह्य ततोऽतितुङ्ग-  
 मास्फोटय गाढरशनोन्यपतद्विषोदे॥**
 
-
-
  Finding that Kaliya to be powerful with fiercely virulent poison and the river poisoned by it, Krishna, who had incarnated Himself for subduing the wicked, got up a very high Kadamba[^13]tree, struck His palms over His arms, girded up his loins  
 fast, and jumped into the poisonous waters.
 
@@ -5759,8 +5099,6 @@ fast, and jumped into the poisonous waters.
 बभ्राम, तत्पृथुशिरस्स्वधिरूढ आद्यः  
 नृत्यन् पदाऽनुनमयन् दमयांबभूव॥**
 
-
-
  With his coil aching as a result of Krishna's body swelling, the serpent abandoned Him, lifted up its hoods in fury and came round and round. The Prime Being mounted its hoods, danced, bent (its hoods) with his foot and subdued it.
 
 **मूर्च्छितं भग्नशिरसं विससर्जाङ्घ्रिकुट्टनैः।  
@@ -5769,8 +5107,6 @@ fast, and jumped into the poisonous waters.
   Krishna (then) set free the serpent whose hoods had been crushed and who had swooned as a result of the kicks of His feet.Given leave (by the Lord), the serpentking Kaliya departed to an island in the ocean.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **प्रलम्बवधः**—  
 THE KILLING OF PRALAMBA
@@ -5793,8 +5129,6 @@ THE KILLING OF PRALAMBA
 
  Though Lord Krishna, the omniscient, knew him, He approved of friendship with him, (thus) intending to kill him.
 
-
-
 **तत्रोपहूय गोपालान् कृष्णः प्राह विहारवित्।  
 हे गोपा विहरिष्यामो द्वन्द्वीभूय यथायथम्॥**
 
@@ -5813,8 +5147,6 @@ THE KILLING OF PRALAMBA
 स आस्थितोऽद्भुतमभयो रिपुं बलो  
 रुषाऽहनाच्छिरसि दृढेन मुष्टिना॥**
 
-
-
  Having carried Balarama, heavy like a huge mountain, the great demon stopped and assumed the miraculous form that was his own. The fearless Balarama angrily struck him on his head with his firm fist.
 
 **स आहतः सपदि विशीर्णमस्तको  
@@ -5823,8 +5155,6 @@ THE KILLING OF PRALAMBA
  (Thus) struck, the demon, whose head was immediately shattered, fell down dead, uttering a terrible howl.
 
 **\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **गोपीवस्त्रापहरणम्—**THE STEALING OF THE  
 GARMENTS OF THE GOPIS
@@ -5844,8 +5174,6 @@ GARMENTS OF THE GOPIS
 वासांसि कृष्णं गायन्त्यो विजह्रुस्सलिले मुदा॥**
 
  Once they went to the river and as usual, placed their garments on the bank and joyously sported in the water, singing of Krishna.
-
-
 
 **कृष्णो वासांस्युपादाय नीपमारुह्य सत्वरः।  
 हसद्भिः प्रहसन् बालैः परिहासमुवाच ह।  
@@ -5867,8 +5195,6 @@ GARMENTS OF THE GOPIS
 बद्ध्वाञ्जलिं मूर्ध्न्यपनुत्तयेंऽहसः  
 कृत्वा नमोऽधो वसनं प्रगृह्यताम्॥'**
 
-
-
 The Lord—
 
  "It is an insult to the gods that you who are observing an austerity have entered the waters naked: for the removal of that sin, join your hands in salute on your heads, prostrate yourselves on the ground (then), and take your garments."
@@ -5885,8 +5211,6 @@ The Lord—
 
  Understanding their desire, Krishna told the women: "Virtuous ladies, I have understood your idea in worshipping Me. The desire of those whose minds are absorbed in Me does not deserve to become the desire for enjoyment. With success in your austerity, you go to the Vraja.
 
-
-
 These nights (that are to come) you shall sport with Me."
 
 **इत्यादिष्टा भगवता लब्धकामाः कुमारिकाः।  
@@ -5895,8 +5219,6 @@ These nights (that are to come) you shall sport with Me."
  Thus commanded by the Lord, the maidens, who had who had achieved their object, entered the Vraja with reluctance, contemplating the lotus-feet of Krishna.
 
 \_\_\_\_\_\_\_\_\_\_
-
-
 
 **गोवर्द्धनोद्धरणम्—**THE LIFTING OF THE GOVARDHANA MOUNTAIN
 
@@ -5921,8 +5243,6 @@ These nights (that are to come) you shall sport with Me."
 **तं तात वयमन्ये च वार्मुचां पतिमीश्वरम्।  
 द्रव्यैर्यजन्तेक्रतुभिः त्रिवर्गफलहेतवे॥'**
 
-
-
 Nanda—
 
  "Indra is the Lord of rain; the clouds are His own forms and the waters, the gratifiers of beings. Child, that the clouds, do we they pour they pour down and the very life Master, the Lord and other men of worship, with offerings and sacrifices, for attaining the fruits of Dharma, Artha and Kama.
@@ -5937,8 +5257,6 @@ Nanda—
 The Lord—
 
  "A living being is born as a result of its actions and disappears similarly; pleasure, misery, fear and security,—(all this) it comes by as a result of its actions. (Therefore) of what use is Indra to beings acting in accordance with their respective Karma? Hence, taking his stand on his nature, man should do his duty and worship what is his own Karma.
-
-
 
 **अञ्जसा येन वर्तेत तदेवास्य हि दैवतम्।  
 वयं गोवृत्तयो नित्यं वनशैलनिवासिनः।  
@@ -5955,8 +5273,6 @@ The Lord—
 गोधनानि पुरस्कृत्य गिरिं चक्रुः प्रदक्षिणम्॥**
 
  They did everything as Lord Hari told them; with the flocks of cows in front of them, they went round the mountain (Govardhana).
-
-
 
 **गणं सांवर्तकं नाम मेघानां चान्तकारिणाम्।  
 इन्द्रः प्राचोदयत् क्रुद्धो मेघा निर्मुक्तबन्धनाः।  
@@ -5976,8 +5292,6 @@ The Lord—
 
  Uprooting the Govardhana mountain with a single hand, Lord Krishna held it up, as a boy might a mushroom.
 
-
-
 **अथ निर्विविशुर्गर्ते सघनाः सोपजीविनः।  
 वीक्ष्यमाणो दधावद्रिं सप्ताहं नाचलत्पदात्॥**
 
@@ -5991,14 +5305,11 @@ The Lord—
 **गोलोकादाव्रजत्कृष्णं सुरभिः पयसाऽऽत्मनः।  
 अभ्यषिञ्चत दाशार्ह गोविन्द इति चाभ्यधात्॥**
 
-
 Kamadhenu[^19]came to came to Krishna from the heaven of the cows and with her own milk anointed Krishna and hailed Him as the Lord of the cows.
 
 [^19]: "The heavenly milch-cow which arose from the milky—ocean when it was churned. See above."
 
 **\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **रासक्रीडा**—THE SPORT OF DANCE
 
@@ -6017,8 +5328,6 @@ Kamadhenu[^19]came to came to Krishna from the heaven of the cows and with her o
    स यत्र कान्तो जवलोल कुण्डलाः॥**
 
  Seeing the moon full in its orb, Krishna played sweet music captivating the hearts of women. Hearing the music which increased their love, the women of the Vraja, with their minds possessed by Krishna, came
-
-
 
 to where Krishna was, unknown to each other, and with the pendents in their ears quivering with their speed.
 
@@ -6041,8 +5350,6 @@ The Lord—
 
  'Love for Me is born more through hearing, seeing, contemplating and singing of
 
-
-
 Me than by (physical) proximity (to me). Hence go back to your houses."
 
 **गोप्यः—**
@@ -6060,8 +5367,6 @@ The Gopis—
 प्रहस्य सदयं गोपीरात्मारामोऽप्यरीरमत्॥**
 
  Hearing these plaintive words of those women, the Lord, who was the Master of the masters of Yoga, laughed and, in his compassion, delighted the Gopis, Gopis, though He revelled only in Himself.
-
-
 
 **एवं भगवतः कृष्णाल्लब्धमाना महात्मनः।  
 आत्मानं मेनिरे स्त्रीणां मानिन्योऽभ्यधिकं भुवि॥**
@@ -6083,8 +5388,6 @@ The Gopis—
 दयित दृश्यतां दिक्षु तावकाः  
 त्वयि धृतासवस्त्वां विचिन्वते॥**
 
-
-
  "By your birth, the Vraja flourishes ever more, and here, the Goddess of Fortune abides permanently. Beloved Lord! see, those who are your own, those whose life are searching for you in (all) is in you, directions.
 
 **'न खलु गोपिकानन्दनो भवान्  
@@ -6099,8 +5402,6 @@ The Gopis—
 श्रवणमङ्गलं श्रीमदाततं  
 भुवि गृणन्ति ते भूरिदा जनाः॥'**
 
-
-
  “They are the bestowers of plenty on earth who sing your nectar-like story, the rejuvenator of scorched souls, praised by men of vision, the destroyer of sin, auspicious to the ears, extensive and beautiful.”
 
 **“इति गोप्यः प्रगायन्त्यः प्रलपन्त्यश्च चित्रधा।  
@@ -6113,8 +5414,6 @@ The Gopis—
 उत्तस्थुर्युगपत्सर्वाः तन्वः प्राणमिवागतम्॥**
 
  Seeing Him, their most beloved Lord, who had come, the women, with their eyes blooming in love, rose up all together, even as bodies arise on seeing life coming.
-
-
 
 **तास्समादाय कालिन्द्या निर्विश्य पुलिनं विभुः।  
 तत्रारभत गोविन्दोरासक्रीडामनुव्रतैः।  
@@ -6130,8 +5429,6 @@ The Gopis—
  Multiplying Himself into as many as the women, the Lord delighted with them in sport, though He revelled only in Himself.
 
 **\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **अरिष्टवधः—**THE KILLING OF ARISHTA
 
@@ -6152,13 +5449,9 @@ The Gopis—
 जगाम कृच्छ्रं निर्ऋतेरथ क्षयं  
 पुष्पैः किरन्तो हरिमीडिरे सुराः॥**
 
-
-
  Krishna caught by its horns the bull that was rushing up, overpowered it by his foot and killed it; it fell down, suffered extreme pain and then passed away to the abode of death. The gods showered flowers and lauded Hari.
 
 **\_\_\_\_\_\_\_\_\_**
-
-
 
 **धनुर्यागोद्यमः—**PREPARATIONS FOR THE BOW–FESTIVAL
 
@@ -6180,8 +5473,6 @@ The Gopis—
 
  "They must be killed by you when they are brought here, in the sport of wrestling.
 
-
-
 **मञ्चाः क्रियन्तां विविधा मल्लरङ्गपरिश्रिताः।  
 पौरा जानपदास्सर्वे पश्यन्तु स्वैरसंयुगम्॥**
 
@@ -6201,8 +5492,6 @@ The Gopis—
 तावानय समं गोपैर्नन्दाद्यैस्साभ्युपायनैः।  
 धनुर्मखनिरीक्षार्थे द्रष्टुं यदुपुरश्रियम्॥'**
 
-
-
  Having thus commanded, Kamsa, who was versed in the science of politics, said to Akrura: "Go to Nanda's Vraja; there the two sons of Vasudeva live. Bring them along with Nanda and other Gopas with their tributes, for seeing the festival of the bow and the splendour of the Yadava capital."
 
 **एवमादिश्य चाकूरं मन्त्रिणश्च विसृज्य सः।  
@@ -6211,8 +5500,6 @@ The Gopis—
  Having ordered Akrura also in this manner, Kamsa sent awayhis ministers and entered his apartment.And Akrura also went to his abode.
 
 \_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **अक्रूरागमनम्—**THE ARRIVALOF AKRURA
 
@@ -6231,8 +5518,6 @@ The Gopis—
 
  Akrura reached the Gokula in his chariot and the sun also set. He saw at the milking yard in the VrajaKrishna and Balarama, of charming faces,the foremost of the beautiful, the cause and theLords ofthe universe.
 
-
-
 **रथात्तूर्णमवप्लुत्य सोऽकूरस्स्नेहविक्लबः।  
 पपात चरणोपान्ते दण्डवद्रामकृष्णयोः॥**
 
@@ -6249,8 +5534,6 @@ The Gopis—
 गृहीत्वा पाणिना पाणी अनयत्सानुजो गृहम्॥**
 
  The high-minded Balarama also embraced Akrura who had bowed to him, and taking Akrura's hand in his, brought him home, along with his brother Krishna.
-
-
 
 **सुखोपविष्टः पर्यङ्के रामकृष्णोरुमानितः।  
 पृष्टो भगवता सर्वं वर्णयामास माधवः॥**
@@ -6269,8 +5552,6 @@ The Gopis—
 
  And Nanda commanded the cowherds: “Collect all the products of of our dairy;
 
-
-
 let presents be taken and carts bemade ready. We shall proceed to Mathura to-morrow and give our products to the king. We shall witness the great festival. It is said, people from the countryside will go there.”
 
 **भगवानपि संप्राप्तः कालिन्दीमघनाशिनीम्।  
@@ -6286,8 +5567,6 @@ let presents be taken and carts bemade ready. We shall proceed to Mathura to-mor
 **भूयस्तत्रापि सोऽद्राक्षीत् सहस्रफणमौलिनम्।  
 तस्योत्सङ्गे घनश्यामं पीतकौशेयवाससम्।  
 पुरुषं चतुर्भुजं शान्तं पद्मपत्रारुणेक्षणम्॥**
-
-
 
  Again, Akrura beheld there (Adisesha), crested with a thousand hoods. And on his lap, the Supreme Being, cloud-blue, wearing yellow silk, four-armed, serene and with eyes red like the lotus-petal.
 
@@ -6305,8 +5584,6 @@ let presents be taken and carts bemade ready. We shall proceed to Mathura to-mor
 भूमौ वियति तोये वा तथा त्वां लक्षयामहे’॥**
 
  And Akrura, seeing the Lord disappear, came to the chariot, wondering. The Lord
-
-
 
 asked him: “What is the wonder on earth, in the skies or in the waters that has been seen by you? You look like one who has seen a wonder.”
 
@@ -6326,8 +5603,6 @@ asked him: “What is the wonder on earth, in the skies or in the waters that ha
 
 ![](../books_images/U-IMG-1734514221Screenshot2024-12-15104840.png)
 
-
-
 ** मथुराप्रवेशः—**
 
 **THE ENTRY OF THE LORD INTO MATHURA**
@@ -6345,8 +5620,6 @@ asked him: “What is the wonder on earth, in the skies or in the waters that ha
 यदुचक्रद्रुहंहत्वा वितरिष्ये सुहृत्प्रियम्’॥**
 
  Joining them, the Lord, who is the Master of the universe, said to Akrura: “Enter you first the city with the chariot and go to your house. After killing the enemy of the Yadus, I will go to your house with my elder brother, and please my friends.”
-
-
 
 **एवमुक्तो भगवता सोऽक्रूरो विमना इव।  
 पुरीं प्रविष्टः कंसाय कर्मावेद्य गृहं ययौ॥**
@@ -6367,8 +5640,6 @@ asked him: “What is the wonder on earth, in the skies or in the waters that ha
 तस्मिन्प्रविष्टो ददृशे धनुरैन्द्रमिवाद्भूतः।  
 पुरुषैर्बहुभिर्गुप्तमर्चितं परमर्द्धिमत्॥**
 
-
-
  The imperishable Lord then enquired of the citizens the place where the bow was, and entering that place, beheld the bow, wonderful like the rainbow, with most costly trappings, guarded by numerous men and kept worshipped.
 
 **वार्यमाणो नृभिः कृष्णः प्रबभञ्जोरुविक्रमः।  
@@ -6382,8 +5653,6 @@ asked him: “What is the wonder on earth, in the skies or in the waters that ha
 
 The guardians of the bow, along with their followers, surrounded (Krishna and Rama), shouting: “Catch them.” Infuriated, (Krishna and Rama) took two broken pieces of the bow and killed them.
 
-
-
 **बलं च कंसप्रहितं हत्वा शालामुखात्ततः।  
 निष्क्रम्य चेरतुर्हृष्टौ आदित्योऽस्तमुपेयिवान्।**  
 **कृष्णरामौ वृतौ गोपैः पुराच्छकटमीयतुः।  
@@ -6392,8 +5661,6 @@ The guardians of the bow, along with their followers, surrounded (Krishna and Ra
  Having killed the forces sent by Kamsa also, the two went out of that apartment (of the bow) and wandered about merrily. The sun (then) set, and Krishna and Rama, surrounded by the cowherds, went out of the city, to where their carts were. Knowing what Kamsa desired to do, the two spent the night happily.
 
 ![](../books_images/U-IMG-1734516449Screenshot2024-12-15104840.png)
-
-
 
 ** कंसवधः—**
 
@@ -6417,8 +5684,6 @@ The guardians of the bow, along with their followers, surrounded (Krishna and Ra
 
  The stands were decorated with garlands, flags and buntings.Citizens, country-folk and kings tooktheir seats there. Surrounded by hisministers, Kamsa sat in the king's stand.
 
-
-
 **मल्लास्स्वलङ्कृता दृप्तास्सोपाध्यायास्समासत।  
 चाणूरो मुष्टिकः कूटः शलस्तोशल एव च।**
 
@@ -6441,8 +5706,6 @@ The guardians of the bow, along with their followers, surrounded (Krishna and Ra
 **तमापतन्तं भगवान् पातयामास भूतले।  
 दन्तमुत्पाट्य तेनेभं हस्तिपांश्चाहनद्धरिः॥**
 
-
-
  The Lord threw on the ground the elephant that rushed (at Him). Plucking out its tusk, Krishna struckdeadthe elephant and its keepers, with it.
 
 **वृतो गोपैः कतिपयैर्बलदेवजनार्दनौ।  
@@ -6461,8 +5724,6 @@ The guardians of the bow, along with their followers, surrounded (Krishna and Ra
 
  Accosting Krishna and Rama, Chanurasaid: “Oh! Krishna! Oh! Rama! being known as esteemed amidst warriors and
 
-
-
 experts in wrestling, you have been called (here) by the king who desires to see (you in action). Fight with me, Balarama fight with Krishna, and let Balarama Mushtika.”
 
 **हस्ताभ्यां हस्तयोर्बद्ध्वा पद्भ्यामेव च पादयोः।  
@@ -6480,8 +5741,6 @@ experts in wrestling, you have been called (here) by the king who desires to see
 लघिम्नोत्पत्य तरसा मञ्चमुत्तुङ्गमारुहत्॥**
 
  Struck by the palm of Balarama, Mushtika died. The remaining wrestlers
-
-
 
 fled. The imperishable Lord, who was very angry with Kamsa, lightly leapt and mounted the high stand (of the king) quickly.
 
@@ -6502,8 +5761,6 @@ fled. The imperishable Lord, who was very angry with Kamsa, lightly leapt and mo
 
  When Kamsa had died, the Lord dragged and there him along the ground; and were tremendous shouts of ‘Hah, Hah’ at that time.
 
-
-
 **मातरं पितरं चैव मोचयित्वाऽथ बन्धनात्।  
 कृष्णरामौ ववन्दाते शिरसाऽऽस्पृश्य पादयोः॥**
 
@@ -6515,8 +5772,6 @@ fled. The imperishable Lord, who was very angry with Kamsa, lightly leapt and mo
  Devaki and Vasudeva understood their sons who who were bowing to them as the Lords of the universe and, free from fear embraced them.
 
 ![](../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png)
-
-
 
 **उग्रसेनाभिषेकः**
 
@@ -6534,8 +5789,6 @@ UGRASENA AS KING**
 
  All his kith and kin, who had fled in all directions out of their fear of Kamsa, the Lord, who is the creator of the universe, pleased with gifts of wealth and settled in their own homes.
 
-
-
 **अथ नन्दं समासाद्य भगवान्देवकीसुतः।  
 सङ्कर्षणश्च \[राजेन्द्र\] परिष्वज्येदमूचतुः॥**
 
@@ -6549,8 +5802,6 @@ UGRASENA AS KING**
  Told thus, Nanda embraced Krishna and Rama and, along with the cowherds, left for the Vraja.
 
 ![](../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png)
-
-
 
 ** गुरुकुलवासः— **
 
@@ -6575,8 +5826,6 @@ UGRASENA AS KING**
 
 ![](../books_images/U-IMG-1734518836Screenshot2024-12-15104840.png)
 
-
-
 ** उद्धवसन्देशः— **
 
 **MESSAGE TO THE GOKULA THROUGH UDDHAVA**
@@ -6595,8 +5844,6 @@ UGRASENA AS KING**
 
 **इत्युक्त उद्धवो \[राजन्\] प्रययौ नन्दगोकुलम्।  
 नन्दः प्रीतः परिष्वज्य वासुदेवधियाऽर्चयत्॥**
-
-
 
  Thus told, Uddhava went to the Gokula of Nanda. Nanda, who was pleased, embraced him and worshipped him, regarding him as Krishna Himself.
 
@@ -6617,8 +5864,6 @@ UGRASENA AS KING**
 **‘सरिच्छैलवनोद्देशान् मुकुन्दपदभूषितान्।  
 आक्रीडानीक्षमाणानां मनो याति तदात्मताम्॥’**
 
-
-
  “For us who are seeing the places of His sports, the river, the mountain and the forest regions adorned with His footprints, our mind becomes filled with Him.”
 
 ** उद्धवः—**
@@ -6634,8 +5879,6 @@ UGRASENA AS KING**
 नोत्तमो नाधमो वाऽपि समानस्यासमोऽपि वा॥**
 
  “To Him who does not have the sense of “my”, there is none who is (specially) dear, and none who is (specially) inimical; to Him who is equanimous (towards all), there is none who is superior, inferior or not equal.
-
-
 
 **‘युवयोरेव नैवायमात्मजो भगवान् हरिः।  
 सर्वेषामात्मजो ह्यात्मा पिता माता स ईश्वरः॥**
@@ -6656,12 +5899,9 @@ UGRASENA AS KING**
 **‘अहो यूयं स्म पूर्णार्था भवत्यो लोकपूजिताः।  
 वासुदेवे भगवति यासामित्यर्पितं मनः॥**
 
-
  Uddhava—
 
  “Oh, you are the persons whose objects are fulfilled, you are the persons worshipped by the (whole) world, you whose mind is thus offered to Lord Vasudeva.
-
-
 
 **‘दानव्रततपोहोमजपस्वाध्यायसंयमैः।  
 श्रेयोभिर्विविधैश्वान्यैः कृष्णे भक्तिर्हि साध्यते॥**
@@ -6683,8 +5923,6 @@ UGRASENA AS KING**
 
  ‘If I, your beloved Lord, remain far away from your sight, it your sight, it is for drawing
 
-
-
 your minds (to me) closer and for giving you continuous thought of Me. In the manner in which the mind remains absorbed when one’s dearest is far away, the mind of women does not remain absorbed, when (their dearest) is near and within sight.
 
 **“मय्यावेश्य मनः कृत्स्नमचिरान्मामुपैष्यथ॥”**
@@ -6698,8 +5936,6 @@ your minds (to me) closer and for giving you continuous thought of Me. In the ma
  Then, taking leave of the Gopis, Yasoda and Nanda, Uddhave returned to Mathura, protected by Krishna, and bowing to Him, informed Him of the heights of the devotion of the inhabitants of the Vraja.
 
 ![](../books_images/U-IMG-1734600952Screenshot2024-12-15104840.png)
-
-
 
 **रूक्मिणीविवाहः**
 
@@ -6722,8 +5958,6 @@ your minds (to me) closer and for giving you continuous thought of Me. In the ma
 
  When (all) the kinsmen desired to give his sister in marriage to Krishna, Rukmi (her eldest brother) who hated Krishna, prevented them from doing so, and considered (Sisupala), the king of the Chedis (as the proper husband).
 
-
-
 **तदवेत्यासितापाङ्गी वैदर्भी दुर्मना भृशम्।  
 विचिन्त्याप्तं द्विजं कंचित्कृष्णाय प्राहिणोद्व्रुतम्॥**
 
@@ -6743,8 +5977,6 @@ your minds (to me) closer and for giving you continuous thought of Me. In the ma
 
  1Dvaraka was an island in the sea, in the west of India, which Krishna had made his headquarters, after installing Ugrasena as king at Mathura.
 
-
-
 **“श्रुत्वा गुणान् भुवनसुन्दर शृण्वतां ते  
 निर्विश्य कर्णविवरैर्हरतोऽङ्गतापम्।  
 रूपं दृशां दृशिमतामखिलार्थलाभं  
@@ -6758,8 +5990,6 @@ your minds (to me) closer and for giving you continuous thought of Me. In the ma
 काले नृसिंह नरलोकमनोभिरामम्॥**
 
  “ Which esteemed, intelligent and high-born maiden would not, in time, choose O! lion among men, Krishna! you who are her equalin birth, conduct, beauty,
-
-
 
 learning, age, riches and power, and are a charm to the minds of the (whole) world of men?
 
@@ -6777,8 +6007,6 @@ learning, age, riches and power, and are a charm to the minds of the (whole) wor
 
  “During my marriage that is to come off to-morrow, O! unconquered Lord ! come you secretly to the Vidarbhas, surrounded
 
-
-
 by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibly carrying me away, make me, away, make me, whose price is heroism, your wife.
 
 **‘पूर्वेद्युरस्ति महती कुलदेवियात्रा  
@@ -6795,8 +6023,6 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
 आरुह्य स्यन्दनं शौरिर्द्विजमारोप्य तूर्णगैः।  
 आनर्तादेकरात्रेण विदर्भानगमद्ध्यैः॥**
 
-
-
  Hearing the message of the Vidarbha princess, the scion of the Yadus and Sura mounted a chariot, took the Brahmin in it, and with swift horses, reached the Vidarbhas from the Anartas within a single night.
 
 **राजा स कुण्डिनपतिः पुत्रस्नेहवशं गतः।  
@@ -6810,8 +6036,6 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
 कृष्णरामद्विषो यत्ताः कन्यां चैद्याय साधितुम्॥**
 
  Adherents of Sisupala, the Paundrakas and others, the enemies of Krishna and Balarama, came in their thousands, ready prepared to secure the bride for Sisupala.
-
-
 
 **श्रुत्वैतद्भगवान् रामो विपक्षीयनृपोद्यमम्।  
 कृष्णं चैकं गतं हर्तुं कन्यां कलहशङ्कितः।  
@@ -6829,8 +6053,6 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
 
 **‘नमस्ये त्वाऽम्बिकेऽभीक्ष्णं स्वसन्तानयुतां शिवाम्।  
 भूयात्पतिर्मे भगवान् कृष्णस्तदनुमोदताम्॥’**
-
-
 
 ** Rukmini prayed to the goddess—**
 
@@ -6852,8 +6074,6 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
 
  With his forces led by Rama, Krishna slowly went out of that gathering, even as a lion carrying off its portion would go out of the midst of jackals.
 
-
-
 **परे सर्वे सुसंरब्धा अन्वीयुर्धृतकार्मुकाः।  
 हन्यमानवलानीका वृष्णिभिर्जयकाङ्क्षिभिः।  
 राजानो विमुखा जग्मुः जरासन्धपुरस्सराः॥**
@@ -6866,8 +6086,6 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
  Conquering thus the (enemy) kings, the Lord brought the daughter of Bhishmaka to his city (Dvaraka), and married her in the prescribed manner.
 
 **\_\_\_\_\_\_\_**
-
-
 
 **नरकासुरवधः**
 
@@ -6889,8 +6107,6 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
 
  Hearing the sound of the Panchajanya (the Lord's conch), dreadful like the thunder at the time of the aeon-end, the five-headed demon, Mura, who was sleeping, rose out of the waters.
 
-
-
 **शूलं भौमोऽच्युतं हन्तुमाददे वितथोद्यमः।  
 तद्विसर्गात्पूर्वमेव नरकस्य शिरो हरिः।  
 अपाहरद्गजस्थस्य चक्रेण क्षुरनेमिना॥**
@@ -6898,8 +6114,6 @@ by generals of armies, rout the forces of Sisupala and Jarasandha and by forcibl
  With (all) his efforts made futile, Bhauma seized his trident to kill the imperishable Lord. Even before he could aim it, Lord Hari took off, with His razor-edged discus, the head of Naraka, who was mounted on an elephant.
 
 ![](../books_images/U-IMG-1734604265Screenshot2024-12-15104840.png)
-
-
 
 indifferent to wife as well as home; we remain full with self-realisation, and, like the on-looking light, ourselves devoid of any action.”
 
@@ -6914,8 +6128,6 @@ indifferent to wife as well as home; we remain full with self-realisation, and, 
 चिन्तां दुरन्तां रुदती जगाम ह॥**
 
  Hearing such unpleasant words, for the first time, from her beloved husband who was the Lord and Master of the three worlds, Rukmini became afraid in her heart, shuddered, wept and plunged into deep thought.
-
-
 
 **तद् दृष्ट्वाभगवान्कृष्णः प्रियायाः प्रेमबन्धनम्।  
 आश्लिष्य बाहुना \[राजन्\] अनन्यविषयां सतीम्।  
@@ -6932,8 +6144,6 @@ indifferent to wife as well as home; we remain full with self-realisation, and, 
 ** The Lord—**
 
  “Rukmini, do not get angry. I know you to be entirely devoted to Me. I did this in sport, lady, in my desire to hear your words and to see your face with its lip quivering in the agitation due to your love.
-
-
 
 **‘अयं हि परमो लाभो गृहेषु गृहमेधिनाम्।  
 यन्नर्मैर्नीयते यामः प्रियया भीरुभामिनि॥’**
@@ -6953,8 +6163,6 @@ indifferent to wife as well as home; we remain full with self-realisation, and, 
 
  “Lotus-eyed Lord! Surely what you said is true; for I am not equal to the Lord who is limitless vastness. Surely, you are one who has no possession, you beyond whom there is nothing and to whom even those that receive offerings,
 
-
-
 Brahma and others, bring their offerings! (True), those that are blinded with the sense of being rich, and those who gratify their own lives only, do not reach you who are the very end of everything. And you are dearest to the gods and they are dearest to you.
 
 **‘अस्त्वम्बुजाक्ष मम ते चरणानुराग  
@@ -6963,8 +6171,6 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
  “O lotus-eyed Lord! May I have devotion unto the feet of you who are revelling in your own self. That itself would be the greatest mercy shown to us.”
 
 ![](../books_images/U-IMG-1734604539Screenshot2024-12-15104840.png)
-
-
 
 **उषापरिणयः—**
 
@@ -6987,8 +6193,6 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
 **तस्योषा नाम दुहिता स्वप्ने प्राद्युम्निना रतिम्।  
 कन्याऽलभत कान्तेन प्रागदृष्टश्रुतेन सा॥**
 
-
-
  Bana’s daughter, a maiden, a maiden, Usha by name, had in a dream enjoyment with a lover (Aniruddha), the son of Kama, whom she had neither seen nor heard of before.
 
 **चित्रलेखा तमाज्ञाय प्राद्युम्निं योगमास्थिता।  
@@ -7002,8 +6206,6 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
  Remaining concealed in in the maiden’s apartments, Aniruddha knew not the days passing, in the company of Usha, whose love had greatly increased. (But) Bana found out the scion of the Yadus[^25].
 
 [^25]: "Aniruddha was the son of Pradyumna or Kama who was the son of Krishna and Rukmini."
-
-
 
 **तं नागपाशैर्बलिनन्दनो बली  
 घ्नन्तं स्वसैन्यं कुपितो बबन्ध ह।  
@@ -7027,8 +6229,6 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
 तस्यास्यतोऽस्त्राण्यसकृत् चक्रेण क्षुरनेमिना।  
 चिच्छेद भगवान् बाहून् शाखा इव वनस्पतेः॥**
 
-
-
  Mounting his chariot, Bana proceeded to fight Krishna. With His razor-edged discus, the Lord chopped off, like the branches of a tree, the arms of Bana, who was hurling missiles incessantly.
 
 **‘प्रह्लादाय वरो दत्तो न वध्यो मे तवान्वयः।’  
@@ -7041,8 +6241,6 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
 सपत्नीकं पुरस्कृत्य ययौ रुद्रानुमोदितः॥**
 
  Placing in front Aniruddha with his wife, decked and dressed in beautiful garments, and surrounded by an Akshauhini of forces, Krishna went (to Dvaraka), with the approval of Siva.
-
-
 
 **कृष्णगार्हस्थ्यम्**
 
@@ -7067,8 +6265,6 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
 **स तु विस्मित उत्थाय तूष्णीमन्यदगाद्गृहम्।  
 तत्राप्यचष्ट गोविन्दं लालयन्तं सुतान् शिशून्॥**
 
-
-
  Wondering, Narada rose and silently went to another apartment and there also he saw Krishna, fondling His children.
 
 **ततोऽन्यस्मिन्गृहेऽपश्यन्मज्जनाय कृतोद्यमम्।  
@@ -7080,8 +6276,6 @@ Brahma and others, bring their offerings! (True), those that are blinded with th
 ध्यायन्तमेकमात्मानं पुरुषम् प्रकृतेः परम्॥**
 
  Then Narada saw Him in another apartment getting ready for ablution; in another, worshipping Sandhya and in silence, repeating the Gayatri; in one place, executing the sword-movements with sword and shield; lying on the bed and being extolled by minstrels somewhere, and holding consultations in some other place with Uddhava and other ministers; attending to Dharma in one place, to Artha and Kama in another, and in still another,
-
-
 
 contemplating the one self, the Supreme Spirit that is beyond Matter.
 
@@ -7101,8 +6295,6 @@ contemplating the one self, the Supreme Spirit that is beyond Matter.
  “O, you who have realised the soul ! I am the expounder of Dharma, its founder, and the person who commends it. And inculcating it, I am living in this world; be not distracted, my son.”
 
 \_\_\_\_\_\_\_\_
-
-
 
  **जरासन्धवधः—**
 
@@ -7129,8 +6321,6 @@ contemplating the one self, the Supreme Spirit that is beyond Matter.
 
  1. Yudhishthira, son of Pandu and Kunti, was Krishna’s aunt’s son. For the full account of the part Krishna played in the life and i the life and fortunes of the Pandavas, see the the Mahabharata. (G. A. Natesan & Co., G. T. Madras.)
 
-
-
 went out (to receive Him) along with his preceptor and his friends.
 
 **चिराद् दृष्टं प्रियतमं सस्वजेऽथ पुनः पुनः॥**
@@ -7147,8 +6337,6 @@ went out (to receive Him) along with his preceptor and his friends.
 **एवं सुहृद्भिर्भगवान् विवेशालङ्कृतं पुरम्।  
 ससंभ्रमैरभ्युपेतः प्राविशद्राजमन्दिरम्॥**
 
-
-
  Thus, the Lord entered the decorated city along with His friends. Received by the people with great zeal. He entered the palace.
 
 **पृथा विलोक्य भ्रात्रेयमुत्थाय परिषस्वजे॥**
@@ -7159,7 +6347,6 @@ went out (to receive Him) along with his preceptor and his friends.
 
 **‘क्रतुराजेन गोविन्द राजसूयेन पावनीः।  
 यक्ष्ये विभूतीर्भवतस्तत्संपादय नः प्रभो॥’**
-
 
 ** Yudhishthira—**
 
@@ -7173,8 +6360,6 @@ went out (to receive Him) along with his preceptor and his friends.
 ** The Lord—**
 
  “O king who routs his enemies ! well have you resolved. Vanquishing all kings, perform the great sacrifice.”
-
-
 
 **निशम्य भगवद्गीतं प्रीत्युत्फुल्लमुखाम्बुजः।  
 भ्रातॄन् दिग्विजयेऽयुङ्क्त विष्णुतेजोपबृंहितान्॥**
@@ -7194,8 +6379,6 @@ went out (to receive Him) along with his preceptor and his friends.
 
 **ते गत्वा समयाचन्त राजन्या ब्रह्मलिङ्गिनः।  
 ‘राजन् प्रयच्छ भद्रं ते यद्वयं कामयामहे’॥**
-
-
 
  Approaching Jarasandha, the Kshatriyas, who were in Brahmin guise, begged of him: “King, welfare unto you; give us what we desire.”
 
@@ -7217,8 +6400,6 @@ went out (to receive Him) along with his preceptor and his friends.
 
  “We are Kshatriyas who have come here seeking fight (with you), not expecting food. This is Bhima, this is his brother Arjuna, and know me as their uncle’s son, Krishna, your enemy.”
 
-
-
 **एवमावेदितो राजा जहासोच्चैस्स मागधः।  
 आह चामर्षितो ‘मन्दा युद्धं तर्हि ददामि वः।  
 न त्वया भीरुणा योत्स्ये, नातिसत्त्वो न मे समः।  
@@ -7239,8 +6420,6 @@ went out (to receive Him) along with his preceptor and his friends.
 सञ्चिन्त्याविधोपाये भीमस्यामोघदर्शनः।  
 दर्शयामास विटपं पाटयन्निव संज्ञया॥**
 
-
-
  Lord Hari of unfailing insight, who knew how the enemy (Jarasandha) was born and how he would die[^28],
 infused Bhima with His own power, thought of the way to kill the enemy and showed to Bhima, by gesture, the tearing atwain of a branch.
 
@@ -7256,8 +6435,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 
  Pressing one leg (of Jarasandha) with his foot, and snatching (Jarasandha's) other leg with his arms, (Bhima) tore (Jarasandha) afwain, even as a great elephant might tear the bough of a tree.
 
-
-
 **हाहाकारो महानासीन्निहते मगधेश्वरे।  
 सहदेवं तत्तनयं भगवान्भूतभावनः।  
 अभ्यषिञ्चदमेयात्मा मगधानां पतिं प्रभुः।  
@@ -7266,8 +6443,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
  When the king of the Magadhas had been killed, there were hugeshouts of **‘Ha ! Ha !’**. The inscrutable Lord, the benefactor of all beings, anointed Sahadeva, the son the son of Jarasandha, as the king of the Magadhas, and released (all) the kings whohad been imprisoned by Jarasandha.
 
 ![](../books_images/U-IMG-1734879444Screenshot2024-12-15104840.png)
-
-
 
 **शिशुपालवधः—**
 
@@ -7290,8 +6465,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 
  On the day of the offering of the Soma juice, the king ascertained the intention of those in the assembly and offered worship to Lord Krishna. All the people folded their hands in respect.
 
-
-
 **दमघोषसुतोऽमर्षी ‘गोपालः कुलपांसनः।  
 स्वैरवर्ती गुणैर्हीनः सपर्या कथमर्हति’।  
 एवमादीन्यभद्राणि बभाषे नष्टमङ्गलः॥**
@@ -7307,8 +6480,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 शिरः क्षुरान्तचक्रेण जहारापततो रिपोः।**
 
  Rising up in the meantime, the Lord drew aside His friends, and in His anger, severed with His razor-edged discus, the head of the enemy (Sisupala) who rushed at Him.
-
-
 
 **चैद्यदेहोत्थितं ज्योतिः वासुदेवमुपाविशत्।  
 जन्मत्रयानुगुणितवैरसंरब्धया धिया।  
@@ -7326,8 +6497,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 [^29]: "See the story of Jaya and Vijaya above."
 
 **\_\_\_\_\_\_\_**
-
-
 
 **कुचेलोपाख्यानम् —**
 
@@ -7350,8 +6519,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 तमुपैहि महाभाग साधूनां च परायणम्।  
 दास्यति द्रविणं भूरि सीदते ते कुटुम्बिने॥**
 
-
-
  “O Brahmin ! is not the Lord of the Goddess of Fortune Himself a friend of your adored self ? O self ? O you who are blessed ! approach Him, the refuge of the good. He will give ample wealth to you who are perishing with a large family.”
 
 **स एवं भार्यया विप्रो बहुशः प्रार्थितो मृदुः ।  
@@ -7365,8 +6532,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 कृष्णसन्दर्शने मह्यं कथं स्यादिति चिन्तयन्॥**
 
  Begging of (the neighbouring) Brahmins four handfuls of Prithuka (fried and Rattened rice), and tying them in a piece of cloth, Kuchela proceeded to Dwaraka,thinking: “How can I have the sight of Krishna !”
-
-
 
 **गृहं विवेशैकतमं ब्रह्मानन्दं गतो यथा॥**
 
@@ -7385,8 +6550,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 
 **कथयाञ्चक्रतुर्गाथाः पूर्वा गुरुकुले सतोः।  
 आत्मनोर्ललिता \[ राजन् \] करौ गृह्य परस्परम्॥**
-
-
 
  Clasping each other’s hands, Krishna and Kuchela talked their own beautiful old stories (of the days ) when they were in the teacher’s house together.
 
@@ -7408,8 +6571,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 **‘पत्रं पुष्पं फलं तोयं यो मे भक्तथा प्रयच्छति।  
 तदहं भक्त पहृतमश्नामि प्रयतात्मनः॥’**
 
-
-
  “A leaf, a flower, a fruit, or some water,—if one gives me any of these in devotion, I enjoy that offering of devotion from one of pure soul.”
 
 **इत्युक्तोऽपि द्विजस्तस्मै ब्रीडितः पतये श्रियः।  
@@ -7424,8 +6585,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 प्राप्तो मामस्य दास्यामि सम्पदोऽमर्त्यदर्लभाः॥**
 
  Understanding the cause of Kuchela’s visit, the Lord, who is the witness of the souls of all beings, thought: “This Kuchela never worshipped me in the past, desiring wealth. It is to please his devoted wife that my friend has come now; I will give him riches hard to be cbtained even by the gods.”
-
-
 
 **इत्थं विचिन्त्य वसनात् चीरबद्धान् द्विजन्मनः।  
 स्वयं जहार किमिदमिति पृथुकतण्डुलान्॥**
@@ -7442,8 +6601,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 ‘एतावताऽलं विश्वात्मन् सर्वसम्पत्समृद्धये’॥**
 
  Saying this, the Lord ate one handful, and took a second handful to eat. Ere He ate, goddessLakshmi (Rukmini) caught in haste the hand of the lord saying: “This (one handful) suffices, O Lord who is of the form of the universe ! to fill one with all the riches.”
-
-
 
 **ब्राह्मणस्तां तु रजनीमुषित्वाऽच्युतमन्दिरे।  
 श्वोभूते विश्वभावेन स्वसखेनाभिवन्दितः।  
@@ -7463,8 +6620,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 इति कारुणिको नूनं धन मे भूरि नाददात्।’  
 इति तच्चिन्तयन्नन्तः प्राप्तो निजगृहान्तिकः।**
 
-
-
 **सूर्यानलेन्दुसङ्काशैर्विमानिस्सर्वतो वृतम्।  
 विचित्रोपवनोद्यानैः कूजद्दि्वजकुलाकुलैः।  
 जुष्टं स्वलङ्कृतैः पुंभिः स्त्रीभिश्च हरिणाक्षिभिः॥**
@@ -7474,8 +6629,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 **‘किमिदं कस्य वा स्थानं कथं तदिदमित्यभूत्।’  
 एवं मीमांसमानं तं नरा नार्योऽमरप्रभाः।  
 प्रत्यगृह्यन्महाभागं गीतवाद्येन भयसा॥**
-
-
 
  “What is this ? Whose abode is this ? How did this come to be ?” As he was thus thinking, god-like men and women received that blessed Kuchela with tumultuous music.
 
@@ -7494,8 +6647,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 महाविभूते रखलोकवोऽन्यो  
 नैवोपपद्येत यदूत्तमस्य॥’**
 
-
-
  “For this prosperity coming to me, unfortunate and eternally poor, surely there can can be no other cause than my seeing the best of the Yadus, the Lord who is the great boundless”
 
 **इत्थं व्यवसितो बुद्धया भक्तोऽतीव जनार्दने।  
@@ -7504,8 +6655,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
  Making up his mind thus and becoming an (ever more) intense devotee of the Lord, Kuchela, with his wife, enjoyed (all) pleasures, not hankering too much after them but with a view to (gradually) renounce them.
 
 ![](../books_images/U-IMG-1734882413Screenshot2024-11-03140300.png)
-
-
 
 **उद्धवोपदेशः—**
 
@@ -7524,8 +6673,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 हत्वा नृपान्निरहरत् क्षितिभारमीशः॥**
 
  Taking as ostensible cause the sons of Pandu, who were provoked in the extreme by their enemies deceitful gambling, mocking, seizure of their queen by the hair and the rest, Krishna made the kings who had assembled (on the battle-field ) kill each other, and (thus) removed Earth’s burden.
-
-
 
 **अथाभिष्ट्रय विबुधैस्सेशरशतधृतिर्हरिम्।  
 अभ्यभाषत गोविन्दं प्रणम्याम्बरमाश्रितः॥**
@@ -7548,8 +6695,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 तदिदं यादवकुलं वीर्यशौर्यश्रियोद्धतम्।  
 लोकं जिघृक्षद्वद्धं मे. वेलयेव महार्णवः।**
 
-
-
 **यद्यसंहृत्य दृप्तानां यदूनां विपुलं कुलम्।  
 गन्तास्म्यनेन लोकोऽयमुद्वेलेन विनङ्क्ष्यति॥’**
 
@@ -7567,8 +6712,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 
  “Elders ! if we desire life, we must not live here; we shall go away to the sacred Prabhasa forthwith; tarry not.”
 
-
-
 **एवं भगवताऽऽदिष्टाः स्यन्दनान्समयूयुजन।  
 तन्निरीक्ष्योद्धवो \[ राजन् \] नित्यं कृष्णमनुव्रतः।  
 विविक्त उपसङ्गम्य जगतामीश्वरेश्वरम्।  
@@ -7581,8 +6724,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 त्यक्क्तुं समुत्सहे नाथ स्वधाम नय मामपि॥’**
 
  “After bringing toan end this race, surely you will leave this world altogether. My Lord, I cannot leave off your lotusfeet even for a fraction of a second; take me also to your place.”
-
-
 
 ** श्रीभगवान्—**
 
@@ -7603,8 +6744,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 
 **‘तस्माद्युक्तेन्द्रियग्रामो युक्तचित्त इदं जगत्।  
 आत्मनीक्षस्व विततमात्मानं मय्यधीश्वरे॥**
-
-
 
  “With your senses and mind in concentration, see the universe as projected out of your own soul and soul and your soul as projected out of Myself, the Overlord.
 
@@ -7628,8 +6767,6 @@ infused Bhima with His own power, thought of the way to kill the enemy and showe
 
  “Unable to bear another's suffering, unharmful and folbearing towards all beings; one whose strength is Truth, who is irreproachable, equanimous, helpful
 
-
-
 to all; of mind unspoilt by desires, selfpossessed, mild, pure, owning nothing; not expecting honour from others, ready to honour all, efficient, the very embodiment of friendliness and impelled to act act by compassion alone; one of noble vision and one who, transcending all Dharmas, worships Me, he is indeed the greatest man.
 
 **‘भक्तथाऽहमेकया ग्राह्यः श्रद्धयाऽऽत्मा प्रियःसताम्।  
@@ -7641,8 +6778,6 @@ to all; of mind unspoilt by desires, selfpossessed, mild, pure, owning nothing; 
 मद्भक्तियुक्तो भुवनं पुनाति॥**
 
  “Only by devotion and faith can I, who am the Soul and thus the beloved, be grasped by the good. Devotion firmly established towards Me sanctifies even a born Chandala. Chandala. He whose voice falters, whose heart melts, who sheds tears often
-
-
 
 and laughs sometimes, and without any shame sings aloud and dances—he. My devotee, purifies the (whole) universe.
 
@@ -7659,8 +6794,6 @@ and laughs sometimes, and without any shame sings aloud and dances—he. My devo
 
  “Of worships, I am the worship of the knowledge of the Brahman. Of vows, I am the vow of non-injury. Among Dharmas, I am the giving of security to all. Among varieties of safety, 'I am inwardness of mind. I am the patience of the patient and the goodness of the good. I can in
 
-
-
 time count the atoms but not the glorious manifestations of Myself who am creating worlds by crores.
 
 **‘तेजः श्रीः कीर्तिरैश्वर्ये ह्नीस्त्यागस्सौभगं भगः।  
@@ -7676,8 +6809,6 @@ time count the atoms but not the glorious manifestations of Myself who am creati
 **‘योगास्त्रयो मया प्रोक्ता नृणां श्रेयोविधित्सया।  
 ज्ञानं कर्म च भक्तिश्च नोपाथोऽन्योऽस्ति कुत्रचित्॥**
 
-
-
  “Desirous of doing good to humanity, I have expounded three yogas: Knowledge, Action and Devotion; there is no other path anywhere.
 
 **‘निर्विण्णानां ज्ञानयोगः कर्मयोगस्तु कामिनाम्।  
@@ -7689,8 +6820,6 @@ time count the atoms but not the glorious manifestations of Myself who am creati
 मत्कथाश्रवणादौ वा श्रद्धा यावन्न जायते॥**
 
  “One should be performing Acts only so long as he has not attained Indifference, or only so long as Faith in listening to My story and similar acts of devotion has not been produced.
-
-
 
 **‘अस्मिन्लोके वर्तमानः स्वधर्मस्थोऽनघः शुचिः।  
 ज्ञानं विशुद्धमाप्नोति मद्भक्तिं वा यदृच्छया॥**
@@ -7712,8 +6841,6 @@ time count the atoms but not the glorious manifestations of Myself who am creati
 
  “Theft, Injury, Falsehood, Hypocrisy, Desire, Anger, Conceit, Infatuation, Making distinctions, Enmity, Distrust, Rivalry, Addiction to the three vices of woman, wine and gambling—these fifteen evils of men are considered as having their root in wealth.
 
-
-
 **‘देहं मनोमात्रमिमं गृहीत्वा  
 ममाहमित्यन्धधियो मनुष्याः।  
 एषोऽहमन्योऽयमिति भ्रमेण  
@@ -7731,8 +6858,6 @@ time count the atoms but not the glorious manifestations of Myself who am creati
 
  “With his mind offered to Me, with his mind and soul revelling in Dharmas leading to Me, one, should do all acts for My sake, calmly and with My thought.
 
-
-
 **‘मामेवं सर्वभूतेषु बहिरन्तरपावृतम्।  
 ईक्षेतात्मनि चात्मानं यथा खममलाशयः॥**
 
@@ -7749,8 +6874,6 @@ time count the atoms but not the glorious manifestations of Myself who am creati
  “He is the learnedman who realises the same Me in the Brahmin as
 well as the Chandala, in the thief as well as the person who is versed in the Vedas, in the sun as well as in a spark, in the good as well as in the cruel.
 
-
-
 **‘नरेष्वभीक्ष्णं मद्भावं पुंसो भावयतोऽचिरात्।  
 स्पर्धासूयातिरस्कारास्साहङ्कारा वियन्ति हि॥**
 
@@ -7765,8 +6888,6 @@ well as the Chandala, in the thief as well as the person who is versed in the Ve
 यत्सत्यमनृतेनेह मर्त्येनाप्नोति माऽमृतम्॥**
 
  “This is the knowledge of the knowing and the wisdom of the wise that, with the unreal and mortal, (body), man attains to Me, the Real and the Immortal.
-
-
 
 **‘नैतद्विज्ञाय जिज्ञासोर्ज्ञातव्यमवशिष्यते।  
 पीत्वा पीयूषममृतं पातव्यं नावशिष्यते॥”**
@@ -7786,8 +6907,6 @@ well as the Chandala, in the thief as well as the person who is versed in the Ve
 तत्रानुशिक्षितं यत्ते विविक्तमनुभावयन्।  
 मय्यावेशितवाकचित्तो मामेष्यसि ततः परम्॥**
 
-
-
 ** The Lord—**
 
  “Uddhava, go you on my command to Mine own hermitage named Badari. There contemplate in solitude what you have been taught. And with your speech and mind completely absorbed in Me, you shall reach Me.”
@@ -7798,8 +6917,6 @@ well as the Chandala, in the thief as well as the person who is versed in the Ve
 तपः समास्थाय हरेरगाद्गतिम्॥**
 
  Then, establishing the Lord within his heart, the great devotee of the Lord (Uddhava) went to Badari and, performing penance,attained to the state of Lord Hari as taught to him by (Himself), the one Friend of the universe.
-
-
 
 **भगवन्निर्याणम्—**
 
@@ -7823,8 +6940,6 @@ well as the Chandala, in the thief as well as the person who is versed in the Ve
 **महापानाभिमत्तानां सङ्घर्षः सुमहानभूत्।  
 युयुधुः क्रोधसंरब्धाः वेलायामाततायिनः॥**
 
-
-
  A great quarrel arose among them who were intoxicated with excessive drink. Desiring to kill each other, the infuriated Yadavas fought on the sea-shore.
 
 **पुत्रा अयुध्यन् पितृभिर्भ्रातृभिश्च  
@@ -7844,8 +6959,6 @@ well as the Chandala, in the thief as well as the person who is versed in the Ve
 
  On the sea-shore, Rama sat in Yogic contemplation of the Supreme Being, united His soul with the universal soul, and left the mortal world.
 
-
-
 **रामनिर्याणमालोच भगवान् देवकीसुतः।  
 निषसाद धरोपस्थे तूष्णीं धामाविशत्स्वकम्॥**
 
@@ -7861,8 +6974,6 @@ well as the Chandala, in the thief as well as the person who is versed in the Ve
 **![](../books_images/U-IMG-1734920007Screenshot2024-12-15104840.png)  
 THUS ENDS THE STORY OF THE  
 INCARNATION AS KRISHNA.**
-
-
 
 **॥ श्रीः॥**
 
@@ -7883,8 +6994,6 @@ Kali[^32] agehas thus well-advanced towards the end, when man is essentially vio
 
 [^32]: "The fourth of aeons, Krita, Treta, Dvapara and Kali; with the fourth ands one cycle."
 
-
-
 **शम्भलग्राममुख्यस्य ब्राह्मणस्य महात्मनः।  
 भवने विष्णुयशसः कल्किः प्रादुर्भविष्यति॥**
 
@@ -7900,7 +7009,6 @@ Kali[^32] agehas thus well-advanced towards the end, when man is essentially vio
 
  When Hari, the Lord of Dharma, incarnates Himself as Kalki, there will be the Krita age and men will be born with goodness, purity and knowledge.
 
-
 **॥ इति कल्क्यवतारकथा ॥**
 
 **![](../books_images/U-IMG-1734928708Screenshot2024-12-15104840.png)  
@@ -7908,8 +7016,6 @@ THUS ENDS THE STORY OF THE
 INCARNATION AS KALKI.**
 
 **![](../books_images/U-IMG-1734928708Screenshot2024-12-15104840.png)**
-
-
 
 **॥ परीक्षिन्निर्वाणम् ॥**
 
@@ -7934,8 +7040,6 @@ INCARNATION AS KALKI.**
 **‘तस्मात्सर्वात्मना राजन् हृदिस्थं कुरु केशवम्।  
 म्रियमाणो ह्यवद्दितस्ततौ यासि परां गतिम्॥**
 
-
-
  “Therefore, O king, fix Hari in your heart by every means. With your mind in concentration, you who are about to die, shall thereby attain to the supreme goal.
 
 **‘त्वं तु राजन् मरिष्येति पशुबुद्धिमिमां जहि।  
@@ -7948,8 +7052,6 @@ INCARNATION AS KALKI.**
 एवं समीक्षन्नात्मानमात्मन्याधाय निष्कले।  
 दशन्तं तक्षकं पादं लेलिहानं विषाननैः।  
 न द्रक्ष्यसि शरीरं च विश्वं च पृथगात्मनः॥’**
-
-
 
 “‘I am the supreme spirit, the supreme effulgence; the Brahman is myself; I am the supreme goal.’ With this know. ledge and with your spirit placed on the unconditioned spirit, you will not perceive Takshaka biting your foot or licking it with poisonous tongues, or this body or this universe. as separate from your spirit.”
 
@@ -7966,8 +7068,6 @@ INCARNATION AS KALKI.**
 प्रविष्टो ब्रह्मनिर्वाणमभयं दर्शितं त्वया॥**
 
 “Lord, I am not afraid not afraid of death from Takshaka or others. I have entered the Bliss which is the Brahman. You have shown me that thing on realisingwhich fear ceases to exist.
-
-
 
 **‘अनुजानीहि मां ब्रह्मन् वाचं यच्छास्यधोक्षजे।  
 मुक्तकामाशयं चेतः प्रवेश्य विसृजाम्यसून्॥’**
@@ -7987,8 +7087,6 @@ INCARNATION AS KALKI.**
 समाधाय परं दध्यावस्पन्दासुर्यथा तरुः॥**
 
  And the royal sage Parikshit placed his mind with his intellect on the Inner Light, and with his breath still, contemplated, looking like a (motionless) tree.
-
-
 
 **प्राक्कूले बर्हिष्यासीनो गङ्गाकूले उदङ्मुखः।  
 ब्रह्मभूतो महायोगी निस्सङ्गः, तक्षको नृपम्।  
@@ -8010,8 +7108,6 @@ OF PARIKSHIT**
 
 **![](../books_images/U-IMG-1734928029Screenshot2024-12-15104840.png)**
 
-
-
 **नमो भगवते तस्मै कृष्णायाकुण्ठमेधसे ।  
 यत्पादाम्बुरुहध्यानात्संहितामध्यगामिमाम्॥**
 
@@ -8028,8 +7124,6 @@ OF PARIKSHIT**
 **![](../books_images/U-IMG-1734928029Screenshot2024-12-15104840.png)  
 THUS ENDS THE BHAGAVATA**
 
-
-
 **THE BHAGAVATA**
 
 **BY**
@@ -8040,13 +7134,9 @@ THUS ENDS THE BHAGAVATA**
 
 ТHE Purana is a reinforcement (*Upabrihmana*) of the teachings of the Vedas, with arguments for God and Dharma in the form of accounts of the creation, the sages, and the lives of the kings of the past. This is the real meaning of the traditional definition of the Purana as ‘*Panchalakshana*’. The supremacy of the Lord and Dharma is made the more explicit purpose of the Purana in the amplified *‘Dasalakshana’* (ten characteristics) given by the Bhagavata (II. 10. 1-7). The Lord, as Asraya, is given as the chief of these ten features of the Purana and along with this are introduced as definite subjects the stories of the incarnations which the Lord took for the re-establishment of His Kingdom and for the renaissance of Dharma on earth, and Salvation (Mukti). The first nine subjects only qualify the tenth, the *Asraya*, and are intended to strengthen it. *(Dasamasya visuddhyartham navanamiha lakshanam. II. 10.2).* In this, the Bhagavata shifts the emphasis from Principle to
 
-
-
 Personality. The same emphasis on the Personality of the Lord is effectively laid in the preliminary story of the genesis of the Bhagavata, of how Vyasa, at the instance of Narada, composed the Bhagavata for singing exclusively of the Lord's glories and thus removing the depressing emptiness of his heart which he felt even after his composing the great Mahabharata and the other Puranas. The very name of the Purana shows that it is the lays of the Lord *par excellence.*
 
  Of the Principles, Dharma, Jnana and Vairagya, the Lord Himself is the embodiment. Devotion, Bhakti, to the Personality, the Lord, is to be achieved and its achievement means and includes the Principles also. Knowledge, Action, and Devotion—Jnana, Karma, Bhakti—as envisaged by the Bhagavata are neither exclusive of each other nor contradictory. To know truly is to is to love Him; and Devotion can be of the best form only when it is informedby Knowledge. Knowledge and Love must express themselves in Acts of Devotion. But the Lord seems to say in His discourse to Uddhava that the path of Devotion is the best for us, for it is suited to those who are attached to various interests in life on earth and yet have some spiritual yearnings. This seems to be the meaning of the saying that Bhakti is the path for the
-
-
 
 Kali age. It is an age in which emotion is dominant; it is its spiritual harnessing that is Bhakti. And this has been woven into an allegorical story on the greatness of the Bhagavata, *the Bhagavata Mahatmya*, found in the Padma Purana.
 
@@ -8054,13 +7144,9 @@ Kali age. It is an age in which emotion is dominant; it is its spiritual harness
 
  Of the Love which the individual soul, caught in the meshes of a distracting world, is expected to develop for the Lord, the noblest image that has
 
-
-
 occurred to the mystics of all religions is the Love of woman for man. The intensity and the fight against odds that this God-love means find find a parallel only in clandestine love. Hence the saying: Yosha *jaramiva priyam*. The mystic language of the Rasa is hardly stranger than that of Solomon's song of songs, or of St. Bernard's sermons, or of the writings of Coventry Patmore, which speak of Christ the bridegroom and Church the bride. “The Law and the Prophets describe pure by impure. Bride and Bridegroom are the highest images.” “Thy maker is Thy Husband.” That the Lord's dance with the cowherd women and their Love for Him mean something which has to be sought beyond their face-meaning must be very clear to anybody. For the Lord Himself tells the women when they seek Him: “The Love of those whose minds are absorbed in Me cannot be physical love: *Na mayyavesitadhiyam kamah kamaya kalpate.”* (X. A. 22-26.)
 
 **\_\_\_\_\_\_\_**
-
-
 
 **INDEX TO PROPER NAMES**
 
@@ -8077,8 +7163,6 @@ occurred to the mystics of all religions is the Love of woman for man. The inten
 
  **AJAMILA—**A fallen Brahmin of Kanyakubja, who, despite his sins, is saved by the power of mentioning the name of the Lord.  
  **AKRURA—**Son of Gandini (hence called Gandinisuta) and. Svaphalka courtier of Kamsa; sent by Kamsa to bring Krishna
-
-
 
 and Balarama from the hamlet of Nandato *the city* of Mathura;beholds the Lord's  transcendental form in the waters of the Jumna: referred to also as Madhava which is a tribal name.
 
@@ -8098,8 +7182,6 @@ and Balarama from the hamlet of Nandato *the city* of Mathura;beholds the Lord's
 
  **ARJUNA—**More fully Kartaviryarjuna: king of the Haihayas; deprives sage Jamadagni of his divine cow; is killed by
 
-
-
 Parasurama; had a thousand hands; could stem the flood of rivers with his hands: imprisoned Ravana: was a Yogin who miraculously appeared in the minds of his erring subjects and prevented them from committing sin.
 
  **ASURAS—**The demons; other names: Daityas, Danavas (sons of Diti and Danu).
@@ -8111,8 +7193,6 @@ Parasurama; had a thousand hands; could stem the flood of rivers with his hands:
  **BALARAMA.—**Elder brother of Krishna; born of Rohini to whose womb he is transferred from Devaki's by Yoga Maya; an incarnation of the great serpent Sesha; marries Revati; kills the demons Dhenuka and Pralamba; also called Bala, Rama. Sankarshana, Rohiniputra and Baladeva.
 
 ** BALI—**The king of the demons: grandson Prahlada, hence called Prahladi; son of Virochana, hence called Vairochana; a virtuous monarch; is is however subdued by the Lord, for the sake of the Devas, in the forms of Vamana and Trivikrama: is sent by him to the netherworld
-
-
 
 where he is made an immortal; also called Mahabali and Indrasena.
 
@@ -8127,8 +7207,6 @@ where he is made an immortal; also called Mahabali and Indrasena.
  **BHARATA.—**Son of Dushyanta and Sakuntala; an ancestor of the Pandavas and Parikshit, who are referred to as the Bharatas, after him.
 
  **BHARATA OR JADABHARATA—**A king and a yogin; son and successor of Rishaba, an incarnation of the Lord; marries Pancajani; has five sons; is reborn as a deer because of his absorption in an orphan deer which he rescues from the current; is reborn then as a Brahmin's son; wanders as a recluse; is about to be sacrificed once to Bhadrakali; instructor of king Rahugana.
-
-
 
  **BHAUMA.—**A demon of five heads born of arth; killed by the Lord. See footnote on p. 864; also called Mura and Naraka.
 
@@ -8150,8 +7228,6 @@ where he is made an immortal; also called Mahabali and Indrasena.
 
  **CHAIDYA.—**The king of the Chedis, Sisupala, who meets his death at the hands
 
-
-
 of Krishna, during Yudhishthira's Rajasuya sacrifice; is intended as the bridegroom for the hand of Rukmini by her brother Rukmi; son of Damaghosha; hence referred to as Damaghoshasuta.
 
  **CHANURA.—**A wrestler in the employ of Kamsa; killed by Krishna.
@@ -8167,8 +7243,6 @@ of Krishna, during Yudhishthira's Rajasuya sacrifice; is intended as the bridegr
  **DASARATHA.—**A king of the Solar line; father of Rama, an incarnation incarnation of the Lord.
 
  **DASARHA.—**One of the tribes of Krishna's race; hence Krishna is referred to as Dasarha.
-
-
 
  **DEVADATTA.—**The white horse on which Kalki will ride to destroy the evil rulers of the Kali Age.
 
@@ -8190,8 +7264,6 @@ of Krishna, during Yudhishthira's Rajasuya sacrifice; is intended as the bridegr
 
  **GAJAHVAYA.—**Hastinapura, the capital of the Kuru- Pandavas.
 
-
-
 ** GANDHARVAS.—**A class of semi-divine beings; great musicians.
 
  **GARGA.—**The preceptor of the Yadus; names *Krishna and Balarama,* and conducts the other *sacraments* for the brothers.
@@ -8212,8 +7284,6 @@ of Krishna, during Yudhishthira's Rajasuya sacrifice; is intended as the bridegr
 
  **HARI.—**The Supreme Lord, who is also theimpersonal Brahman. It is His glory and incarnations that specially form the subject of this Purana, *the Bhagavata*. Other names: *Krishna, Adhokshaja, Sattvatampati, Vasudeva, Bhagavan (the Lord), Ananta, Urukrama, Mukunda, Vishnu, Narayana, Sukla, Triyuga, Garudadhvaja,*
 
-
-
 *Yajnesa, Achyuta, Abjanabha, Sriyahpati, Sankarshana, Govinda, Isvara, Jagadisvara, Gadadhara, Aravindanabha, Ajita, Paramapurusha, Purusha, Purushottama, Chakra yudha, Aja, Garudasana, Mukunda, Garudavahana, Janardana, Adipurusha, Amritabhu, Madhusudana, Hrishikesa, Ambujekshana, Kesava, Jagannatha, Jagadguru and Madhudvit*.
 
  **HARINDRA.—**The king of the monkeys; Sugriva ally of Rama; see *the Ramayana*.
@@ -8225,8 +7295,6 @@ of Krishna, during Yudhishthira's Rajasuya sacrifice; is intended as the bridegr
  **HIRANYAKSHA.—**The Adidaitya or the prime-demon, brother of Hiranyakasipu. The two are demoniac manifestations of the Lord's door-keepers, Jaya and Vijaya, and after three encounters with the Lord and death at His hands, attain to their original divine state. See foot-note on p. 28.
 
  **HUHU.—**A Gandharva, who is cursed to become a crocodile by sage Devala; he drags the Gajendra and attains his original state on being cut by the Lord's discus.
-
-
 
 ** IKSHUMATI.—**A river on whose banks Jadabharata is caught and made to bear king Rahugana's palanquin.
 
@@ -8243,8 +7311,6 @@ cursed by sage Agastya to become an elephant; is caught by a crocodile and is sa
 
  **JARASANDHA.—**The Magadha king; an enemy of Krishna; he was born as two halves which were miraculously welded; killed by Bhima in a duel on the eve of the Rajasuya sacrifice of *Yudhishthira; also referred to as Magadha, Magadhesvara.*
 
-
-
  **KALAUTA.—**The deadly poison which arises from the ocean while it isbeing churned; Siva saves the world by swallowing it; also called Halahala.
 
  **KALIYA.—**A serpent which was poisoning a pool in the Jumna; Krishna subdues it and makes it go away to the sea.
@@ -8260,8 +7326,6 @@ cursed by sage Agastya to become an elephant; is caught by a crocodile and is sa
  **KAPILA.—**A sage; born of Kardama and Devahuti: an incarnation of the Lord, expounds the Samkhya Philosophy to His mother.
 
  **KARDAMA.—**A son of Brahına and one of the Prajapatis or progenitors of the human
-
-
 
 race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation of the Lord. See footnote on p. 30.
 
@@ -8280,8 +7344,6 @@ race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation 
  **KUNDINA.—**The capital of the Vidarbhas.
 
  **KURMA.—**The great tortoise, an Avatara of the Lord in that form taken to support the mountain Mandara used for churning the milky ocean; also referred to as Kacchapa.
-
-
 
  **KURU.—**An ancestor οι Parikshit; Parikshit is referred to as to as Kauravya, a scion of Kuru.
 
@@ -8303,8 +7365,6 @@ race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation 
 
  **MANMATHA.—**God of Love; son of Krishna and Rukmini; father of Aniruddha; also called Pradyumna.
 
-
-
  **MATHURA.—**The capital of the Surasenas; Ugrasena and Kamsa ruled there; referred to as Madhupuri also.
 
  **MATSYA.—**The Fish-incarnation Fish-incarnation of the Lord; appears during the deluge; kills Hayagriva and restores the Vedas; protects on an an ark king Satyavrata along with some others, to continue the world in the next aeon; imparts to Satyavrata the Matsyapurana.
@@ -8318,8 +7378,6 @@ race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation 
  **MUSTIKA.—**A wrestler in the employ of Kamsa; is killed by Balarama.
 
  **NABHI.—**A king; grandson of Priyavrata; son of Agnidhra; husband of Merudevi; the Lord incarnated himself as Rishabha in the womb of Merudevi.
-
-
 
  **NAIMISA.—**A forest and a divine region where sage Saunaka performed his sacrifice during whose session, Suta the minstrel recited the eighteen Puranas to Saunaka and the other sages assembled there.
 
@@ -8339,8 +7397,6 @@ race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation 
 
 ** PARIJATA.—**A celestial tree which rises out of the milky. ocean; a bestower of desired objects; taken by Indra.
 
-
-
  **PARIKSHIT.—**Grandson of the Pandavas; son of Abhimanyu and Uttara; born as a corpse as a result of the deadly missile aimed at his mother's womb by Asvatthaman; Krishna brings him to life by His power; succeeds the Pandavas on the throne; father of Janamejaya; is cursed by a sage's son to die of snakebite within seven days; renounces his kingdom and hears from Suka the *Bhagavata* for the seven days and attains salvation; other names: Bharata (scion of Bharata), Kauravya (scion of Kuru).
 
  **PAUNDRAKA.—**A tribe, inimical to Krishna and the Yadavas and allied to Sisupala.
@@ -8352,8 +7408,6 @@ race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation 
  **PRAGJYOTISHA.—**The capital of Narakasura in Kamarupa (Assam).
 
  **PRAHLADA.—**Son of demon Hiranyakasipu; one of the greatest of God's devotees; is hated by his father for his devotion to the Lord grandfather of Bali.
-
-
 
  **PRALAMBA.—**A demon ally of Kamsa who is set on Krishna by Kamsa, but is killed by Balarama.
 
@@ -8368,8 +7422,6 @@ race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation 
  **PULAHA.—**A sage towhose hermitage, Bharata retires from his kingdom for doing penance.
 
  **PULASTYA.—**A sage whosehermitage was the same as Pulaha's andwhere where Jadabharata performs penance.
-
-
 
  **PUTANA.—**A demoness set on Krishna by Kamsa; killed by Krishna.
 
@@ -8389,8 +7441,6 @@ race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation 
 
  **ROHINI.—**A wife of Vasudeva; living in Nanda's hamlet; mother of Balarama, whom Yogamaya transfers from Devaki's womb to Rohini's.
 
-
-
  **RUKMP—**Eldest son of king Bhishmaka and eldest brother of Rukmini; enemy of Krishna; proposes to give his sister in marriage to Sisupala, but is defeated in his plans.
 
  **RUKMINI.—**Daughter of Bhishmaka; wife of Krishna; mother of Pradyumna; incarnation of Goddess Lakshmi; also called Vaidarbhi and Bhaishmi.
@@ -8408,8 +7458,6 @@ race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation 
  **SANANDANA.—**One of the sage-sons of Brahma who curse Jaya and Vijaya, Vishnu's door-keepers, to be born thrice as demons for their insolence.
 
 ** SANDIPINI.—**A teacher of Avanti of the Kasyapa Gotra: Krishna, Balaramaand Kuchela study under him.
-
-
 
  **SAPTA RISHIS.—**The seven great sages; the constellation of the Great Bear: *Kasyapa, Atri. Vasishtha, Visvamitra, Gautama, Bharadvaja and Jamadagni*.
 
@@ -8431,8 +7479,6 @@ race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation 
 
  **SITA.—**Wife of Rama; daughter of king Janaka; an incarnation of Goddess Lakshmi; see the *Ramayana;* Vaideharajaduhita.
 
-
-
  **SIVA.—**One of the Trinity; other names: *Girisa, Sadasiva, Mahadeva, Vrishanka,* Bhava; saves the world by drinking the deadly poison which the milky ocean churned by the gods and demons throws out.
 
  **SONITA.—**The capital city of Banasura.
@@ -8453,8 +7499,6 @@ race; marries Devahuti, daughter of Manu; father of sage Kapila, an incarnation 
 
 **  SURASENAS.—**A. tribe related to the Yadavas.
 
-
-
  **SURPANAKHI.—**Ademoness; sister sister of Ravana; disfigured by Lakshmana; sows the seed for the war between Rama and Ravana; see *the Ramayana*.
 
  **SURUCHI.—**A wife of king Uttanapada; a favourite of her lord; mother of Uttama.
@@ -8474,8 +7518,6 @@ Raumaharshani. His proper name is Ugrasravas.
 
 ** TRIKUTA—**A mountain on which the elephant king, Gajendra lived.
 
-
-
  **TRINAVARTA.—**A demon friend of Kamsa who, as a whirlwind, tries to carry off baby Krishna, and dies in the attempt.
 
 ** TRIVIKRAMA.—**he gigantic form of the Lord, with which He bestrides the whole universe in three steps; also called Urukrama.
@@ -8491,8 +7533,6 @@ Raumaharshani. His proper name is Ugrasravas.
 ** USANAS.—**The preceptor of the demons, the Asuras other names: Kavya (also Kavi).
 
 ** USHA.—**Daughter of Banasura; marries Aniruddha, grandson of Krishna.
-
-
 
  **UTTARA.—**A king; father of Iravati,queen of Parikshit.
 
@@ -8510,8 +7550,6 @@ Raumaharshani. His proper name is Ugrasravas.
 
  **VASUDEVA.—**Of the Yadu race; son of Sura; brother of Kunti, the mother of the first three Pandavas; marries Devaki, daughter of Devaka, and sister of Kamsa; father of Balarama and Krishna; also called Sauri, Anakadundubhi and Surasuta.
 
-
-
  **VASAVI.—**A name of Satyavati; so called because of her being the daughte: of Vasu, that is Uparichara Vasu; mother of Vyasa; wife of king Santanu.
 
  **VASUKI.—**A great serpent who is used as the rope when the gods and the demons churn the milky ocean; referred to as Nagaraja also.
@@ -8527,8 +7565,6 @@ Raumaharshani. His proper name is Ugrasravas.
 ** VISVAKARMAN.—**The architect of the gods; makes the Vajra or thunderbolt for Indra out of sage Dadhichi's bones, to kill Vritrasura.
 
 ** VISVARUPA.—**A Brahmin; sonof Tvashta; hence called Tvashtra; sought by Indra during the absence of Brihaspati; acts as Indra's priest, but is slain by Indra for his partiality for the Asuras to whom he is related through his mother.
-
-
 
  **VRAJA.—**The hamlet of Nanua, Nanua, where Krishna spends his boyhood; also called Gokula; referred to also as Nandavraja and Nandagokula (Nanda's hamlet).
 
@@ -8548,67 +7584,11 @@ Raumaharshani. His proper name is Ugrasravas.
 
  **YAMUNA.—**The Jumna; Dhruva practises austerities on its banks; scene of Krishna's boyhood sport; also called Kalindi.
 
-
-
 ** YASODA—**Wife of the cowherd chief, Nanda; foster-mother of Krishna; Yoga Maya appears as her daughter.
 
  **YUDHISHTHIRA.—**The eldest of the five Pandavas, the sons of the aunt of Krishna; grandfather of king Parikshit to whom the *Bhagavata* is narrated;also called Ajatasatru.
 
 ![](../books_images/U-IMG-1735092528Screenshot2024-12-15104840.png)
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^30]: "See the story of Jaya and Vijaya above."
-
-
-[^16]: " Names of some of the cowherds."
-
-
-[^15]: " Names of some of the cowherds."

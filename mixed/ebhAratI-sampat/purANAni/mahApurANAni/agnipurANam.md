@@ -16,24 +16,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg5OTk0Nzg1MjI
 
 \[
 
-
-
-
-
 [TABLE]
 
-
-
-
-
-
-
 [TABLE]
-
-
-
-
-
 
 |             |               |      |                |     |     |
 |:-----------:|:-------------:|:----:|:--------------:|:---:|:---:|
@@ -61,10 +46,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg5OTk0Nzg1MjI
 |     for     |  necssarily   | read |  necessarily   |     |     |
 |     for     |    accpted    | read |    accepted    |     |     |
 
-
-
-
-
 |                                               |                        |         |                               |
 |:---------------------------------------------:|:----------------------:|:-------:|:-----------------------------:|
 | **अथाग्निपुराणस्य तृतीयखण्डस्यानुक्रमणिका |** |                        |         |                               |
@@ -91,10 +72,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg5OTk0Nzg1MjI
 |                      २८८                      |      अश्वचिकित्सा      |   ३१०   |     त्वरितामूलमन्त्रादिः      |
 |                      २८९                      |      अश्वशान्तिः       |   ३११   |         त्वरिताविद्या         |
 |                      १९०                      |       गजशान्तिः        |   ३१२   |         नानामन्त्राः          |
-
-
-
-
 
 |                               |                          |         |                              |
 |:-----------------------------:|:------------------------:|:-------:|:----------------------------:|
@@ -128,8 +105,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg5OTk0Nzg1MjI
 |              ३४०              | नृत्यादावङ्गकर्मनिरूपणं  |   ३६७   | नित्यनैमित्तिकप्राकृतप्रलयाः |
 |              ३४१              |     अभिनयादिनिरूपणं      |   ३६८   | आत्यन्तिकलयगर्भीत्यात्यादयः  |
 
-
-
 |                               |                          |             |                       |
 |:-----------------------------:|:------------------------:|:-----------:|:---------------------:|
 | **अथाग्निपुराणानुक्रमणिका |** |                          |             |                       |
@@ -141,8 +116,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg5OTk0Nzg1MjI
 |              ३७३              |          ध्यानं          |     ३८०     |       गीतासारः        |
 |              ३७४              |          धारणा           |     ३८१     |        यमगीता         |
 |              ३७५              |          समाधिः          |     ३८२     | आग्नेयपुराणमाहात्म्यं |
-
-
 
 **INTRODUCTION.**
 
@@ -163,8 +136,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg5OTk0Nzg1MjI
 यथोक्तं भारतं वीर पाराशर्येणशोभता \।\।  
 वेद्दार्थं मकलं चोष्यधर्माशास्त्राणि च प्रभो ॥**
 
-
-
 were designed for the masses, who were unfit to unravel thetrangled skein of abstruse scientific terminology.  
  The word *Puráṇa* means ‘of former times,’ ‘old,’ ‘ancient,’and is extensively used as an epithet. As a neuter noun it isusually applied to ancient history. Accordingly the Buddhistsdesignate all their narrative works by that term. The Jainstoo apply it to those works of their literature which refer to thehistory of their most revered saints. In some of the Bráhmaṇasand the Upanishads it has also been used in the same technicalsense of a narrative; and Sankara Áchárya, in commenting onit, expresses his opinion to the effect that such passages in theVedas so “the world did not exist before”are Itihásas, andsuch passages as“the Devas and the Asuras fought of yore,”are Puráṇas. The manner, however, in which the terms havebeen used in the Upanishadsseems to indicate that in the timeof Yájñavalkya there were works bearing the generic name ofPuráṇa. These contained amplified versions of the shortstories of the Vedas, and Yájñavalkya, in one place, very aptlysays “the concise Veda dreads the two (the Itihása and thePuráṇa), lest they should destroy it (by misrepresentation incourse of amplification).”What the works were to which thisreference was made-whether they were the Puránas as we havethem, or some thing distinct-is not known; but this much maybe accepted as certain that some works of the name of Puráṇa,have been known and current in the country from a prettyremote period of antiquity. Some of the existing Puráṇasclaim to be even older than the Vedas¹; but their language isobviously mere hyperbole, and calls for no notice.
 
@@ -179,8 +150,6 @@ were designed for the masses, who were unfit to unravel thetrangled skein of abs
 
 मत्स्यपुराणम् ॥
 
-
-
 technically the “great” or “primary”—*Mahá*, and eighteenothers ‘secondary’ or “minor”—*Upa*: the rest have not yetfound a generic name. Complete codices of all the Puráṇashave not yet been found, and the number of appendixes whichare attributed to some of them, is so great that it is impossible todetermine with precision what portions are really old, and whatare subsequent interpolations.
 
  This objection applies equally to all the three classes, withthe exception, perhaps, of a few of the first class. According toone of them, the Matsya Puráṇa, originally there was but onePuráṇa extant, and it comprised no less than a thousand millionsof stanzas. Another is satisfied with ten millions of verses, andfrom them, it says, an abstract was prepared, which comprisedfour hundred thousand verses, or a million and six hundredthousand lines. This last constitutes the Mahá Puráṇas. It isobvious that these stories have been got up with a view to throwa halo of mysetry and antiquity on the origin of the Puráṇas.
@@ -189,31 +158,21 @@ technically the “great” or “primary”—*Mahá*, and eighteenothers ‘se
 
  Available codices, however, do not bear out the figures givenin the works above named. With the exception of the Vishṇuand the Bhágavata Puráṇas, they all fall short of the extentassigned them, if thesupplementary treatises called Máhátmyasbe excluded; and including them, the extent is considerably in-
 
-
-
 creased. In the Agni Purana, to which this note is intendedto serve as an introduction, according to the authorities named,there should be 15,000 slokas, but out of ten Mss. nine afford only11,000, and the last 12,500. In order to make up the deficiencies paṇdits are in the habit of reckoning such words asSútovàcha, &c as a complete śloka ; but the expedient is of littleavail where, as in the Agni Puráṇa, the deficiency is large.
 
  All the Mahá Puráṇas profess to be the works of Vyása, thecompiler of the Vedas, and the immediate progenitor of theKuru and the Páṇdu princes. The contents of the MahàPuráṇas, however, at every step falsify this prfoession. They areof a character which cannot by any means be carried to thetime of Vyása. They treat of subjects many of which couldnot have formed a part of Hindu learning four thousand yearsago; and they refer to historical personages who lived withinthe last two thousand years. Nor do the Puráṇas themselvesacknowledge Vyása to be their first author. In most instanceshe is alleged to have heard the substance of particular Puráṇasfrom persons who had lived long before him, and who again, intheir turn, got them from some body else. Had Vyása himself,having heard the Puráṇas from others, taught them to hispupils, the immediate authors of the texts as we have them,should be these pupils, unless it can be shown, which is impossible, that they only recited the *ipsissima* *verba* of their tutor.
 
  As regards these pupils there are again serious difficultiesin reference to their identity. The person especially named inevery instance is Súta; but the name appears to be not aspecific but a generic ore, implying a whole class or castewhose special vocation was to expound ancient traditions. Thefirst Súta was born long before Vyása, in the time of Yayáti,and his descendants all bore that title; it is impossible thereforeto determine which of them was the immediate author of anyparticular work. In fact they occupied the same position in-
 
-
-
 India which bards and rhapsodists did in Europe, and theoldest of whom are represented by the authors of the Homericsongs, and the latest by the Troubadours of France. In Indiathe earliest were the Sútas and the latest the Bhaṭs andKulajñas, Chand affording the most notable instance ofmediæval times. Princes in their palaces and Bráhmaṇicalhermits assembled in sacred groves to celebrate sacrifices protracted from one to twelve years, needed some recreations towhile away their time, and nothing could be more appropriatethan the ballads of minstrels recounting the glorious deeds ofthe great men who had preceded them. These ballads andlegends were doubtless preserved in the families of the minstrels for the benefit of their descendants who naturallytook to their occupation, and gradually elaborated them,supplying connecting links according to their knowledge andfancy, and adding new matter when particular subjects of whichno former accounts existed had to be described; and thesecompilations ultimately became the Puráṇas as we now findthem. The revisions, recastings and elaborations took place atdifferent times, under different circumstances, by different individuals. and hence it is that we have so many different recensions of the same stories, their general purports remainingthe same.
 
  Such, in short, being the origin of the Puráṇas, it would bevain to expect that modern research can help us to discoverthe real author of particular works of the kind, and the exacttime when they were composed. All that can now be done isto ascertain when the process of elabortion stopped in eachinstance, so as roughly to determine the latest date of each.Professor H. H. Wilson undertook this enquiry about fifty yearsago, and he was most favorably situated to carry out thisresearch. He was at the head of a committee appointed bythe Government of India to prepare abstracts of all the leading
 
-
-
 works in the Sanskrit language, and several pandits and translators worked under him for upwards of twelve years. Theworks selected in the first instance were the Puranas, andparaphrastic translations were prepared of most of them. Withthese materials before him professor Wilson was better acquainted with the contents of the Puráṇas than any other person ofhis time, European or native. The necessity for compiling notesfor his translation of the Vishnu Puráṇa also obliged him tomuch special research, and the results he arrived at wereembodied in the several essays which he published on thesubject, and subsequently incorporated in the learned dissertation which prefaces his edition of the Vishnu Puráṇa. Theresults he arrived at were, however, not generally accepted ascorrect, and Colonel Vans Kennedy, who had studied the subjectvery carefully, in a series of letters addressed to the Editorof the London ‘Asiatic Journal,’proved them to be quite unreliable. Professor Wilson answered some of these letters; but, inthe course of discussion, lost his temper, and gave utterances tomere dogmatisms instead of sound arguments. Subsequent discoveries have since proved very satisfactorily that so many of hisdeductions as referred to two three and four centuries as the agesof particular Puráṇas are utterly worthless. The single fact ofthe names of the eighteen Purágas and their extents in ślokashaving been mentioned by Chand in the first canto of his‘Prithviraya Ráyasá,’ is sufficient to show their futility. At thesame time it is obvious that those of the Puráṇas which havemany episodes are comparatively more modern than thosewhich have none, or only a few. Judged by this test, as alsoby their contents, the Vishnu, the Váyu, and the Agni Puráṇasappear to be much older and more authentic then the rest ;while the Padma, the Brahmavaivarta, the Brahmánḍa, theSkanda, and the Bhavishya appear to have been the mosttampered with.
-
-
 
  The three first are not only the most authentic, but alsothe most important, as containing a vast amount of usefulmaterials for the development of the ancient history of thecountry. Two good editions of the first of these have been published, one in the Bengali character, along with explanatory notesand a Bengali translation, and the other in the Nágari characterwith a commentary; and the splendid English translation of itby Professor Wilson, published in 1839, leaves nothing tobe desired. An edition of the second is now in the press, andan English translation of it has been promised in the series of“Non-Christian Scriptures”of the University of Oxford. Thetext of the third is now printed for the first time.
 
  The contents of a Puráṇa, according to the definition givenin some works of that class should include: 1st. primary creation,or cosmogony; 2nd, secondary creation, or the destruction andrenovation of worlds; 3rd, genealogy of gods and patriarchs;4th, reigns of the Manus, or periods called Manvantaras ; and5th, history of the solar, the lunar and other races. Thisfivefold character of their contents has given to the Puráṇasthe generic name of Pancha-lakshana or “that which has fivecharacteristic topics;” and this name has been common from avery long time. Amara Siñha, in his Sanskrit dictionary, givesit as a synonym of Puráṇa, and the dictionary is, at the lowestcalculation, fourteen hundred years old. As a matter of fact everyPuráṇa has dwelt upon these subjects at some length; but itdoes not appear that thedefinition was designed to exclude allother matters. On the contrary, every Purána has some particular subject or subjects on which it dwells at great length;and, in some cases, the five primary subjects occupy in them buta very subordinate position. This is particularly the case withthe Agni Puráṇa, more than three fourths of which have beendevoted to topics which bear no relation to the five primarysubjects. Even in its introduction the subjects of the work are
-
-
 
 described to be, not five-fold but, twofold, viz., sacred knowledge or theology, (*Pará Vidyá*,) and profane knowledge or thearts and sciences known to the people (*Apará Vidyá*). As theintroduction also gives a history of the origin of the Puráṇa Ishall here quote it entire.
 
@@ -223,8 +182,6 @@ described to be, not five-fold but, twofold, viz., sacred knowledge or theology,
 
  “Whoever reads or hears the Ágneya Purána, which wasrevealed by Agni, obtains the object of his desires, and salvation as well as merit. He, Agni, is the all-devastating fire;he is Vishṇu; he is Brahma in the form of light; he is thegreatest of the greatest; he is God, the adored object of
 
-
-
 wisdom and sacrifices. Solicited to impart information aboutit by the sages, Vasishtha asked him, saying; ‘comṃunicateto us that Brahma which is the essence of all sciences, andis the vessel for our conveyance across this worldly ocean;by knowing which men become omniscient.’  
  “Agni said; ‘I, who am an attribute of Vishnu, Kála, Agniand Rudra, shall communicate to you the essence of wisdom,the Ágneya Puráṇa, which is best adapted to impart generalknowledge. Five subjects constitute a Puráṇa; viz. Sarga, orcreation; Pratisarga, or recreation i.e. reproduction after partialdestruction of the universe; Vañśa, or genealogy; Manvantara,or account of the Manus; and Vañśa-charita, or history ofancient families and the Puráṇas have assumed the forms ofMatsya, Kúrma &c.'  
  “Vishṇu assuming the form of a fish, a tortoise &c. is thetwofold Vidya or knowledge, and it is known under the twonames Pará and Apará.
@@ -232,19 +189,13 @@ wisdom and sacrifices. Solicited to impart information aboutit by the sages, Vas
  “The Apará Vidyá, or worldly knowledge, comprehends thefollowing; viz., The Rik, the Yajus, the Sáma, and the AtharvaVedas, along with their subsidiary branches, consisting of six,viz. Śikshá, (Phonetics); Kalpa (Rituals); Vyákaraṇa (Grammar) ; Nirukta (Lexicology); Jyotish (Astronomy); Chhandas,(Prosody); as also Abhidhána (Philology), Mímámsá, (Philosophy), Dharma (Law), Puráṇa (History), Nyáya (Logic), Vaidyaka(Medicine), Gándharva (Music), Dhanurveda (War), and ArthaŚástra (Political Economy). The Pará Vidyá is the knowledgeby which may be known Brahma or the Supreme Being, thatwhich is invisible, incomprehensible, casteless, feetless, andsempeternal.”  
  In elaborating the general heads above set forth, the authorof the work does not at all bear in mind the five principal topicswhich should form the substance of the Puráṇa. Even the two-
 
-
-
 fold division of divine and secular knowledge, which he startswith in the Introduction, is soon lost sight of, and subjects aretaken up at random as they strike him without any system ororder. His object seems to have been the production of a volumewhich, like Chambers' 'Information for the People' or a cyclopædia, should afford, in a popular form, concise and succinctinformation on all the leading topics of later Sanskrit learning;and, if in the course of his writings any of the five Pauráṇictopics come in the way, he disposes of it as cursorily andsummarily as those which do not relate to them. I say “later”because the Vedic rituals are nowhere noticed in detail.
 
  The first subject of the work, according to the five-folddivision, should be the primary creation of the universe; but,instead of that, the work opens with an account of the FishIncarnation of Vishnu (Matsya Avatára). This is followed bybrief accounts of the Tortoise, the Boar, the Man-lion, the Dwarf,and the two Ráma incarnations, as described in other works onthe subject. The second Ráma, or that of Ayodhyá, takes upseven chapters, (5th to 11th), and in the course of his description, a summary is given of the Rámáyaṇa of Válmíki. Thencomes an account of the Yádava race, in which Kṛishṇa, theeighth incarnation, was born, and also of the Mahábhárata,which contains many important incidents in the history of hislife. (12th to 15th). One chapter (15th) is especially devotedto the character of the five Pandava brothers. These chaptersprove conclusively that the work is long posterior to theRámáyaṇa and the Mahábhárata, and written at a time whenthose works had become very old, and abstracts of them werelikely to be prized by general readers. The manner in whichthe summaries have been given precludes the idea of thesummaries being the germs out of which the epics have beenelaborated. Then follow brief accounts of the Buddha and theKalki incarnations, (16th). The former is described in the
 
-
-
 past tense, and the latter in the future, as a prophecy. Withregard to the former Agni says, 'I shall now describe to you theBuddha incarnation, the hearing or reading of which is calculated to ensure good fortune. At a battle fought in ancienttimes between the Devas and the Asuras, the former were over-come by the latter. Thereupon the Devas sought the shelter ofÍśvara, saying 'O, save us, save us.' He, Íśvara, took birth asthe son of Suddhodana, and as an embodiment of illusion anddeception. He deluded the Daityas, and made them abjurethe religion of the Vedas. They were born as Bauddhas and intheir turn they made others reject the religion of the Vedas.He (Íśvara), afterwards became an Árhata, and converted othersinto the religion of Arhat. Thus were produced heretics, devoidof the religion of the Vedas, addicted to vice, and committingacts, which rendered them fit to be consigned to hell”. Herethe Buddha incarnation is avowed to be the same with the sonof Śuddhodana, and the religion of Arhat or Jina (Jainism)is described to be of a later date than Buddhism. How far thelast statement is historically correct is open to question, asthe Buddhist scriptures, which are unquestionably older andmore authentic, admit Jainism to be older: in fact Buddhismwas a reformation or a scismatic form of the latter.
 
  The seventeenth chapter opens with an account of primarycreation very much in the same way in which the subjecthas been treated in the Vishnu Purána; but the whole subjecthas been condensed into sixteen stanzas. The race of theself-born Manu is, in the same way, condensed, in the nextchapter, into 44 stanzas. The race of Káśyapa is treated ofnext, and the primary creation of matter is disposed off in thesame summary manner in 23 stanzas. Thus three out of thefive essential subjects of Puránas are disposed of in a hundredand eleven stanzas out of a total of well nigh eleven thousandstanzas.
-
-
 
  Having thus disposed of the primary subjects the Puráṇa,in its twenty-first chapter, gives a summary of the mantrasfor the adoration of Vishņu in his different forms, and of certaingoddesses of the Śákta class. The mystic mantras of thesedivinities are of the Tántric type, and formed, in most cases, ofthe syllable Hriñ or Sriñ coupled with the name of the divinityput in the dative case. The first purification necessary for worship is bathing, and this accordingly forms the theme of thenext chapter (22nd). Then follow the rituals and the gesticulations as ordinarily given in the Tantras, and rules for the construction of altars (Kuṇḍas,) for the sacred fire (24th), but in mereoutline; and they are followed by chapters devoted successivelyto definitions of the mystic mantras of Váśudeva and other deities25th); mudrás or gesticulations (26th); initiation into religiousduty (28th); mystic diagrams (29th); circles (30th); prayers(31st); and the usual sacraments (32nd), of which the assumptionof the secred cord is especialised by the devotion of an entirechapter to it (33rd), and in course of it a great number ofmystic mantras are supplied. The first rite in connexion withthe assumption of the sacred thread is the performance of thehoma, or the offering of oblations to the fire in the altar, andthis is explained in the following chapter (34th); the preparation of the cord, the mode of putting it on, the measurementsof the cord for gods and men being treated in the three subsequent chapters (35th to 37th).
 
@@ -252,19 +203,13 @@ past tense, and the latter in the future, as a prophecy. Withregard to the forme
 
 [^1]: "Vide passim 'Antiquities of Orissa 1.' p. 37."
 
-
-
 is in character similar to the Nárada-pancharátra. The subject,however, is no sooner mooted than dropped, and in the 40thchapter the offering of arghyas is taken up for discussion.Ordinarily the arghya is formed of durva grass, sandal paste,grains of rice, and water; but the rice is replaced by othergrains, and sometimes by sweetmeats, or frumenty accordingto the nature of the divinities for whom it is intended. Thus,Maríchi gets laḍḍuka, a kind of sweetmeat made of gram-mealfried in butter, and frosted with sugar; Indra gets boiled ricesteeped in clarified butter; Savitá red flowers, and so on.This is followed by a set of rules for the placing of stones nearthe altar, and then by two others on building other than temples,and the manner in which images are to be placed in them (43rd).The mention of images suggests the idea of rules for themaking of images, their size and relative proportions, which arediscussed in the same way as in the Mánasára. The unitof measurement is the angula, or the breadth of the thumb,and the different parts of the body are reckoned by so manyangulas, the total length being taken at 100, just in the sameway in which the subject is treated in the work above named.As a part of the image the pedestal next comes to notice (45th),and its details, like those of the images, are founded on thesame authority.
 
  The next two chapters treat of the ammonite shell (Sálagráma), its peculiarities, and the propriety of worshipping it asthe emblem of Vishnu. The shells are named differently according to the number of whirls, the forms of the lineations, thepositions of the centres of the whirls, and the particular colorsand spots seen within them; i.e. each species of the shells has aspecific name of its own. After this comes a chapter (48th)on hymns for the twenty-four forms of Vishnu. Continuingthe subject of images, the Purána describes the forms, successively, of the Fish and the other incarnations, including the
 
-
-
 more important followers of Vishnu in his Ráma and Kríshṇaincarnations, as also of some of the different forms of Deví,Súrya and other gods and goddesses. The forms describedare in some instances exactly what are produced in the presentday, but in others, totally different. The ten-handed Durgáof the present day is called Chanḍí, and is endowed with 20,18, 14, or 12 hands at option, each hand holding an appropriate weapon, the other accessories remaining unchanged.Gaurí is endowed with four faces. Sankarí has four hands, andis mounted on a goose. Kaumárí has no superabundant handsor faces, and is characterised only by her vehicle, which isa peacock. Váráhí is mounted on a buffaloe, and sportsfour hands. Aindrí has a thousand eyes. Chámuṇḍá appearsas an emaciated, flesheess hag, set off with a tiger skin and boneornaments, and seated on a corpse. Her want of flesh ismade up by an extra eye. Her alter ego Siddha Chámuṇḍáhas ten hands, with which she is engaged in the not veryelegant task of eating the raw flesh of men, horses, buffaloes,and elephants. Bhairaví has twelve hands, and Mahálakshmífour faces. These godesses are called the Eight PrimitiveMothers (ashṭa mátriká), and their images are met with atPuri, Bhuvaneśvara and Jájpur; the images, however, do notcorrespond with the descriptions in all their details. On theform of Buddha there is an only śloka, and it says that he is of“a benign appearance, fair complexion, and long ears; seatedon a lotus, having his body covered with a piece of cloth, he isthe giver of encouragement and blessings.”
 
  As a sequel to these descriptions the lingam, its appropriatematerials, sizes, proportions and pedestals, come in the nextthree chapters, (53rd to 55th). The next eleven chapters (56thto 66th) are devoted to the consecration of different divinities,temples, manḍapas, tanks, wells and so forth. Then comes ashort one on the disposal of broken images (77th). According
-
-
 
 to it wooden images should be consigned to the flames, andstone ones to the nearest river. Should the broken image,however, be of gold, or silver, or other valuable metal, or ofsome precious stone, the bed of the ocean should be the placefor its consignment. In any case the image should be removedin a car, but covered over with a piece of cloth, which is to serveas a pall. The car should be preceded by a band of musicians.After the consignment of the image to the fire or water as thecase may be, an appropriate fee is ordained for the guru. Thelast line of the chapter recommends that in the case of tanks,wells, temples, and houses repairs or restoration to theiroriginal condition is the most appropriate course to follow.
 
@@ -272,15 +217,11 @@ to it wooden images should be consigned to the flames, andstone ones to the near
 
  The subject of the 77th chapter is the adoration of Kapilá,the “tawney colored,”a form of Durgá, who is to be worshippedwith bloody sacrifices. I am not aware of this divinity beinganywhere worshipped in the present day. Even the name isall but unknown. The next chapter has for its subject thepresentation of Brahmanical cords to images of gods. It is anannual ceremony, fit to be observed in the month of Ásháḍha,Śrávaṇa, Bhádra or Kártika; but except at Bhuvaneśvara I
 
-
-
 have never seen it observed. At Bhuvaneśvara it is celebratedon the 14th of the wane in the month of Śrávana: its detailsare given in my ‘Antiquities of Orissa’(vol. II. p. 80). Therules for the Thyme festival, which are given in the nextchapter, are now confined to Bhuvaneśvara and Puri.
 
  The next theme is Dikshá, or initiation to the formal teaching of the Śástra. Three kinds of it are described, of which thefirst produces knowledge of the Śástras, the second, trancendental knowledge, and the third, emancipation. These againhave their varieties, and are attended by various purifications,some of which require fleshmeat and spiritious liquors for theirperformance. Passing over these we next come to a chapter(92nd) on the consecration of Śákta and Śivite images, andvarious mystic mantras required to be recited in course of thedifferent services for the purpose. The details are, in this as inthe preceding and in some succeeding chapters,—such as on*Vástupújá*, or the worship of the presiding divinity of dwellings (93rd), the dressing of stones (94th). the articles requiredat the consecrational services (95th), and the ceremonial to beobserved on the night preceding the day of consecration (96th),—are purely liturgical, and call for no notice. The same may besaid of the special rituals for the consercation of lingams (97th),of Gaurí, (98th), of Súrya (99th), of the doorway of a house(100th), of palaces (101st); and of flagstaffs (102nd). Theseare followed by another chapter on the disposal of brokenor desecrated images. In this, instead of the summary castingaway of such stones, provisions are made for preserving andreconsecrating them under certain circumstances. The ceremonials to be observed in such cases are also described.
 
  The next subject taken up is house-building, including thedifferent kinds of houses, the mode of selecting sites for houses,and the disposition of buildings, tauks, trees &c. on such sites.Here the rules are similar to what occur Mánasára, and the
-
-
 
 curious in such matters will find an extract on the subject in thefirst volume of my “Antiquities of Orissa”, p. 80. The transition from houses to villages, towns, and fortresses, is but natural;and thence a brief survey of the geography of the earth*(Bhuvana-kosha)* is a wide but by no means an inconsistentstride (107th 108th). Again, talking of the earth, the authornaturally casts his eyes on those spots on it which are the mostholy, and worthy of being visited (Tírthas). These are allcomprised within the boundary of India, and treated of in avery summary and perfunctory manner. He first gives achapter on what should be the duties which good men shouldobserve in going to Tirthas, and what they should do there.Fasting; gifts of gold, land and cattle; shaving off thehair of the head; bathing; offering of water *(tarpana)* andfuneral cakes *(śrádha)* to the manes; and feeding of Bráhmanas and beggars are the principals duties; and these arestrictly enjoined (109th). Then follow notices of some of theprincipal places of pilgrimage, such as the river Ganges, theconfluence of the Ganges and the Yamuná *(Prayága)*, Benares,the river Narmadá, and Gayá. The first four are disposed ofvery summarily, but the last is described in some detail, including the story of Gayásura in full[^2],the mode of proceeding toGayá, and the various Śrádhas and rites to be performed there.The details are closely similar to what occur in the GayáMáhátmya section of the Váyu Purána; but not quite so elaborate. Some of the slokas are almost identical in the twoworks; but it is difficult to decide from the circumstance whichis the archetype, and which the copy.
 
@@ -288,13 +229,9 @@ curious in such matters will find an extract on the subject in thefirst volume o
 
  A short account of India (Bháratavarsha) in 8 śtanzas(118th) forms the prelude to another geographical dissertationin two chapters (119th and 120th); and then follow twenty-
 
-
-
 nine chapters on astrology, or the calculation of auspiciousand inauspicious conjunctions of stars, particularly those bearing on proper moments for commencing wars. The subjectis one which has always interested much the people of thiscountry, and systematic works on it are so numerous and voluminous, that an abstract of it is of little value for a clear understanding of the peculiar ideas and beliefs which have hithertogoverned the Hindu mind. To those who are curious on thesubject Dr. Kern's translation of the Vrihat Sañhítá of Varáhamíhira will afford a much better account. As necessary adjuncts to inauspicious signs, rites and ceremonies calculated toovercome them, are adverted to in different parts of thesechapters. The divinities specially to be invoked on such occasions appear to be Kubjiká, or the "humpbacked one," a formof Durga, the goddess Tvaritá, and the sungod.
 
  As parts of the ritual for worship Nyásas, or the mentaldedications of different parts of the body to particular divinities,are held important, and the mystic mantras appropriate forsuch dedications are given at length. The rites are purelyTántric; they are observed in all Tántric worship; and in describing them the Puráṇa especially refers to those Tantras whichbear the generic name of Yámalas. Besides Kubjiká, there areother forms of Durgá which contribute to success of particularundertakings, and their mystic mantras, as also those of eightfierce forms of Durgá, are given at length. The goddess Tvaritá, who is otherwise called Turajá or Tulajá, has severalchapters dedicated to rituals and mantras for her worship. Sheis now entirely forgotten in India; but at one time she was ofgreat consequence, and an entire book of 40 chapters of theSahyádri Khanda of the Skanda Purána is devoted to herhistory. She is said to have been the wife of a Rishi or sage.Failing to sacrifice herself on the funeral pile of her lord, she,by a divine command, performed protracted austerities on the
-
-
 
 Himálaya mountain, and ultimately attained apotheosis. Theritual for the worship of the God of War, who is declared tobe the sun under the name of Sangráma-vijaya, takes up onechapter, and a rite called *Lakshakotihoma*, or a hundred billionofferings to the homa fire, another. As the rite, however, is allbut impracticable, ten million, a million, a hundred thousand,or even ten thousand offerings are recommended as substitutes.
 
@@ -302,19 +239,13 @@ Himálaya mountain, and ultimately attained apotheosis. Theritual for the worshi
 
  The third order, or the one immediately following that ofhouseholder, is that of hermitage (Vánaprastha), when the house-holder, having fully enjoyed the pleasures and performed theduties of domestic life, retires to the jungle to meditate inseclusion on the Divinity. This forms the theme of the next chapter; and the chapter after it is devoted to Yatis (161st) orpure asceticism, in which men are recommended to passthe last stage of their lives.
 
-
-
  Having thus disposed of the duties of the four orders ofmankind in a summary way, the Puráṇa enters upon those religious duties of householders which form the theme of theDharma Śástra (162nd). The authorities on the subject arethe Rishis, who were the founders of distinct Vedic schools orŚákhás; and each of whom compiled sets of rules for the guidanceof his followers. These rules were known under the three differentnames of *Grihya, Dharma* and *Samayáchára*, and from themmetrical redactions were compiled by their considerably remotesuccessors, and named *Smritis* or *Sañhitás*. Entire works orfragments of well nigh fifty such redactions are still extant, andsome of them bear the title of “old,”“abridged”and “large,”showing clearly that they had undergone several redactions.Of the sages in whose names they are current thirtysix areknown by their works, and others by quotations from theirwritings, or by name only. The Agni Puráṇa, however, doesnot refer to them all. It is satisfied with a list of twenty, including the names of (1) Manu, (2) Vishṇu, (3) Yájañvalkya,(4) Háríta, (5) Atri, (6)Yama, (7) Angiras, (8) Vaśishṭha, (9)Daksha, (10) Samvarta, (11) Śátátapa, (12) Parásara, (13)Ápastamba, (14) Uśanas, (15) Vyása, (16) Kátyáyana, (17)Vṛihaspati, (18) Gotama, (19) Śankha, and (20) Likhita. It isimpossible now to determine whether this list was made toshow that these were the only authorities known at the timeof the Puráṇa, or that they were the most important orleading lawgivers. In either case their preeminence is manifest.This is also evident from the fact of their having been named inYájñavalkya's code of laws. According to these authorities,says the Puṛáṇa, Dharma or duty is two-fold; first that whicheffects emancipation; and second, that which prepares the mindby gradual amelioration for perfect freedom from transmigration. The theme of the Dharma Śástra is the latter.
-
-
 
  One of the most important religious duties of Hindu domestic life is the performance of periodical offerings of funeralcakes to the manes. This is called Śráddha; and to it the Puráṇa devotes a chapter of 41 ślokas, in which an outline is givenof the order in which the rite should be performed. (163rd).It is followed by one on homa offerings to the nine planets toappease their wrath, and overcome their adverse influences; andthis leads to the influence of eclipses under particular conjunctions, and their effect on human destiny (165th). The duties ofparticular castes next take up 21 ślokas, and the ritual for a riteinvolving the offering of ten lacs of oblations to the sacredfire, and the mantras most appropriate for the purpose, 48more (167th).
 
  Duties necessarily involve transgressions, and the most serious of such transgressions are called Mahápátakas or "heinoussins," These are noticed in one chapter (168th). The consequences which follow from these sins, both in this and futureexistences, as also those which result from venial offences, andthe rites and penances for their expiations are detailed in thefollowing six chapters (169th to 174th). The injunctions arestrictly in accordance with what occur in Manu and other leading Smriti works on the subject. Some of the ślokasare, letterfor letter, quotations from ancient authorities, and they showclearly that the chapters are intended to serve as summaries ofthe Smritis which have been cited as authorities at the commencement of the chapter on duty.
 
  Chapter 175th opens with optinal religious observancesor Vratas. They are of eight kinds, according as they are regulated—(I) by the age of the moon; (2) by the day of the week;(3) by the conjunction of the moon with particular constellations;(4) by the day of the month%3B (5) by the months; (6) by theseasons; (7) by the year; and (8) by the sun. They all involvefasting and penance, and their main object is to t: ain the body so
-
-
 
 as to control the sensuous desires of human nature. The abstinence includes the giving up for a fixed time of the use of flowers,incenses, aromatics, unguents, and particular articles of foodand convenience. Fleshmeat, fish, sweetmeats, milk, particularfruits, are the articles usually abjured; and not unoften plates at meal time, bedding, shaving, and rich apparel, come underthe ban. Abstinence from paring the nails, and from trimmingthe beard, or the hair of the head, is a common form of penance[^3].
 
@@ -324,15 +255,11 @@ as to control the sensuous desires of human nature. The abstinence includes the 
 
  All the Vratas involve feasting of Bráhamans and alms tobeggars. But gifts may be made apart from Vratas, and the
 
-
-
 merits resulting from such gifts form the subjects of fivechapters (209th to 213th). The times for making such gifts,the rules to be followed in making them, the persons qualifiedto receive them, are described at considerable length, and incourse of these details many verses occur which are verbatimquotations from the older Smritis.
 
  Chapter 214th treats of a mystical Tántric dogma; itrelates to the existence of certain lotuslike forms in the humantrunk, the disposition of certain arteries around them, theplay of the soul in these places, and the influence of mysticmantras thereupon. The rules regarding Sandhya or theprayers to be repeated at morning, noon and dusk, comein next; and they are followed by two chapters (216th and217th) on the merits of repeating the Gáyatri a number oftimes on those ocassions.
 
  The next thirtythree chapters dwell on the duties of kings,their coronation, ministers, officers, forts, &c. The rules areclosely like what occur in the Ríjadharma section of the Mahábhárata; and quotations, or what appear like them, from the NitiŚástra of Kámandaki occur frequently. The principles innunciated are the same which have been illustrated in the fablesof the Panchatantra and the Hitopadesa. First comes coronation, or royal unction, with the mantras required for the purpose(218th and 219th). In its general outline it is the same ritewhich has been described by me in my paper on "a Delhi Assemblage" in the Journal of the Asiatic Society of Bengal XIV.But the details are simpler, and most of the mantras aredifferent. The ministers, are very aptly called "wealth ofassistance" (Saháya sampatti), and their duties take up the nextchapter (220th). Then comes the "wealth of forts," and itincludes rules for selecting sites for strongholds, (221st). Themode of dividing a kingdom into villages, towns, districts, and themachinery of government for them, take up the next chapter,
-
-
 
 and the control of the household, including the princes and theladies of the Zenana, form the subject of the next two chapters.Vigilance and personal interest on the part of the king in allstate affairs, and the administration of punishment being thendisposed of, a chapter is devoted to times and rites meat forproceeding on military expeditions. Four chapters are thendevoted to the interpretations of dreams. The vision of certaininauspicious objects in dreams proves beneficial if the nature ofthe dreams are not disclosed to any body, while the reverse isthe case with other objects. Some dreams are not subject toeither of these rules, and produce their effect without fail;while others of a malignant nature may be counteracted bycertain rites and ceremonies. Omens are somewhat more independent; but they too may be counteracted in certain instancesby rites, ceremonies, and particular observances. The termused for omens is Śakuṇa, which means " a vulture;" andoriginally that bird was looked upon as an animal of evil omen,whence the application of the term to omens generally.
 
@@ -340,15 +267,11 @@ and the control of the household, including the princes and theladies of the Zen
 
  The punishments referred to above relate to offences committed in one's own kingdom; they cannot be inflicted on peopleresiding in another's country; and when they commit offences,they have to be treated very differently; and what applies tothem applies likewise to their rulers. Punishments for themare said to be either overt or covert. The former head includesplunder, sacking, and burning of villages or crops; the lattercomprehends poison, arson through secret agents, assasination,tampering the loyalty of subjects, poisoning of drinking water,&c. The propriety of, and the mode of inflicting, these punishments are described in 25 stanzas (233rd).
 
-
-
  The daily duties of kings are treated of in the next chapter; and they include every act of the king from rising fromhis bed an hour and a half before sunrise to retirement to hisbed at night. Religious duties in connexion with military education are next described, and then comes a hymn to Śiri,to insure success in warfare (236th), and it is followed by severalchapters on Níti or Polity, some of the rules laid down beingattributed to Ráma.
 
  One important element of success in government is thecapacity on the part of a king to make out the character ofmen, or the selection of fit officers for particular duties; andto supply instruction for the purpose of helping kings easily toselect their officials the Purána devotes two chapters to the characterstics of men and women; and then, to make them connoisseurs of chámaras, umbrellas, jewels, buildings, and flowers,add four chapters (244th to 247th). The subject of training inthe use of arms and armour also take up four chapters. Archeryof course forms its leading element, and on it the rules appear to be thoroughly Indian. No mention is made in them of fire-arms, such as are to be met with ia the ‘Śukra Níti.’Thechapters are particularly interesting, and abstracts of them willbe found in Dr. Wilson's essay on the Art of War as knownto the Hindus' (II. pp. 290f), and in my ‘Antiquities of Orissa’,(vol. I.p. 120).
 
  The adminstration of justice takes up six chapters (252nd to257th). The first is on law-courts; the second, on judicialofficers; the third, on evidence; the fourth, on inheritance; thefifth, on boundary and other disputes; and the sixth, on abuse,slander, libel &c. To those who are familiar with the leadinglaw literature of the Hindus as given in the English translations of Manu, Mitákshará &c. there is nothing in these chapterswhich will appear novel. In fact, we have in them a very fragmentary and unsatisfactory abstract of those works.
-
-
 
  The subject of the 258th chapter is called *Rig-vidhána* ; but it does not refer to the work of that name in which Śauṇaka describes the authors, the divinities, and the metres of the Rig Veda. Its object is to point out the merits derivable by the repetitions of particular verses of the Rig Veda, especially the Gayatri, a great number of times, and under certain condi- tions. The verses and the rites enjoined in the Yajus, the Sáma, and the Atharva Vedas are also treated of in the same way in successive chapters; and they are respectively named *Yajur vidhána, Sáma-vîdhána*, and *Atharva-vidhána*. Health, life, prosperity, wealth, descendants, destruction and dementation of enemies, seasonable rain, and other blessings are promised to those who follow the injunctions laid down in these chapters.
 
@@ -358,13 +281,9 @@ and the control of the household, including the princes and theladies of the Zen
 
  The last of the five primary subjects of Puráṇas is genealogy, and to it the Agni Paráṇa devotes six chapters (272nd to 277th).The first of these treats of the solar race; the second, of the lunar
 
-
-
 race; the third, of the Yádava race; the fifth, of the descendants of Turvasu; and the sixth, of the descendants of Puru;the fourth being an erratic one on the twelve great wars wagedbetween the Devas and the Asuras. The total number of stanzasin the five chapters on genealogy amounts to 170. Theaccount maybe described as a brief summary of what occursin the Vishṇu, the Váyu, and the Bhágavata Puráṇas.
 
  The next subject taken up is practice of medicine, includingmateria medica and pharmacy. Agni, the interlocutor,proposes to explain the Ayur Veda. in the very words in whichŚuśruta was taught by Dhanvantari. This remark at onceshows that at least this portion of the work is subsequent to theage of Śuśruta. The interval between the time of Śuśruta andthat of borrowing his authority in the Agni Puráṇa must alsohave been a long one, for both Dhanvantari and his pupil weresurgeons, and not physicians. The former owes his name—apparently a title–to *dhanus* ‘a bow,’because he saved menfrom wounds inflicted by arrows shot from bows, and the workof the latter is of a purely surgical character. We have alsothe authority of Charaka, a medical practitioner of a remote age,who says that under particular circumstances patients shouldresort to Dhanvantariyas, i.e surgeons. And it must have takena long time before the distinction could be so effaced as to hidethe impropriety of quoting a surgeon as the highest authorityon medicine. Suśruta asks his tutor to explain the scienceof medicine as bearing on the diseases of men, horses, elephantsand cattle; but Dhanvantari, instead of taking up the science,resorts to the art, and begins his instruction in the Puráṇawith an account of some select recipes (*Siddhaushadha*), andthe names of the diseases in which they are best indicated.Very few of these find a place in the work of Śuśruta. Hethen describes some compound medicines which were held tobe panaceas for all kinds of diseases (279th). The humours
-
-
 
 of the body are next described, and a chapter is then devotedto the value of particular trees, planted round dwellings. Sometrees are good on the south side of the house, others on thenorth, and so on. The effect of particular fieldcrops on thesanitary condition of houses is also described. But the wholesubject is disposed of in 73 ślokas. Another set of the samenumber of slokas is devoted to the effect of mantras as meansof curing diseases and promoting longevity (283rd). Dhanvantari then quotes the words of Átreya with reference tocertain highly efficacious recipes, supplementing the same byothers of his own, and next enters upon the subject of elephants,their good points and defects, and the medicines most appropriatefor diseases to which they are subject. The subject is named*Gajayurveda*, and is explained by one called Pálakápya, whois elsewhere said to be a saint (muni) or an alias of Dhanvantarihimself; but inasmuch as the narrator of chapter 285th isDhanvantari, and he is made to say that the Gajáyurvedawould be explained by Pàlakápya, and the latter, instead ofaddressing Śuśruta, makes Ḷomapáda, king of Anga, the reciever of his instructions, and at the close of chapter 291st Agnidistinctly says that the instructions regarding horses hadbeen imparted by Śálihotra to Śuśruta, and those regardingelephants had been communicated by Pálakápya to the kingof Anga[^5] the obvious inference is that the two names indicatenot the same but two different persons.
 
@@ -372,13 +291,9 @@ of the body are next described, and a chapter is then devotedto the value of par
 
  In the next chapter Dhanvantari again takes up the threadof the discourse, and dwells at some length on the value of thehorse as a vehicle, and the proper times and modes of usingthat animal. He concludes by saying that he would quotethe words of Sálihotra on the good and bad points of horses and
 
-
-
 on the veterinary art. Accordingly chapter 288th is devotedto the quotation in question. Śálihotra is said to have been aRishi of great renown, who had aquired the veterinary artfrom the celestial horse-doctors, the two Aśvins, and writtenthe first work on the subject for human use. His work hasnot yet been met with, but an abridgement of it by Nakula,the fourth of the Páṇḍu brothers, is still current, and veterinaryart is in India indicated by the name of the Rishi, the vernacularform in nothern India and also in Bengal, being *Saluteri*, andthe practitioner of the art *Saluter*. In the reign of GhiásuddinMuhammad Sháh Ghilzai, A. H.783= A. D. 1381, a Sanskritwork, styled *Salotár*, appeared in a Persian dress under the nameof *Kurrat-ul mulk*, and extended to 41 pages. Even before that,an Arabic version had appeared under the name of *KitábulBaitarat*, and subsequently, in the reign of Sháh Jahán, aPersian translation was prepared of a Sanskrit work namedSalotari, which extended to 16,000 ślokas. There is nothing,however, to show whether the original of any of these three versions was the work of Śálíhotra, or later compilations on farriery.Seeing that the word Saloteri is now become a common nounfor farriery, and there is no reason to doubt that it hasbeen so current from a very long time, I am of opinion that thePersian versions were not taken from the original work ofŚálihotra, bnt from later compilations; and this is confirmedby the fact of the originals of the three versions having beenof very unequal lengths. It is doubtful if the verses quotedin the Agni Puráṇa retain the *ipsissima verba* of Śálihotra, or are paraphrases. The subject is an exceedingly interesting one;but as I have already written on it a separate paper, which willere long be published, I refrain from producing a translationof the text here.
 
  In the next chapter (291st) the interlocutor changes toDhanvantari, and the subject is domestic cattle. The value of
-
-
 
 the cow and her products, the sanctity of that animal, theproper mode of tending it, the diseases it is subject to, and theart of treating cattle diseases are all described briefly. A shortextract from this chapter occurs in Bábu Hem Chunder Ker'sminute in the Report of the Cattle Commission of 1870.
 
@@ -386,21 +301,15 @@ the cow and her products, the sanctity of that animal, theproper mode of tending
 
  Chapters 299th to 326th are purely ritualistic, supplyingmantras and details for a variety of purposes, but of nopractical interest. First come some ritual observances for theremoval of diseases and evils resulting from adverse conjunctions of planets. Then Súrya, “the lord of the planets,” come in for his share (327th). Lakshmí, Gauri, Nṛisiñha, TvaritáPaśupati, and a host of minor divinities also have their rituals.One chapter (324th) is devoted to rosaries, the materials of whichthey should be made, the number of beads to be employed, andthe manner in which they should be used. A good number ofthe mantras are meant to serve as magical incantations forcausing death, ruin, dementation, subjugation, disease, stupifaction, &c. of one's adversaries. Some are meant to serve aslove philters, others as amulets, others demoniac nocturnalrites the efficacy of a few are promoted by the administrationof poisonous substances. Every one of them is malevolent inits character. In Sanskrit literature these incantations datefrom the time of the Atharva Veda, and have at all timesexercised a potent influence on the domestic life of the people;
 
-
-
 but they are of the most puerile character, and it is a matter ofno ordinary wonder that intelligent and even learned men ofIndia should have attached any importance to them. These menwere, however, not singular in this respect. The ancient Egyptians were particularly noted for their magical art, and the Greeksand the Romans were no less attached to it. Even in mediæval times charms, philters, incantations, and rites in association with evil spirits were any thing but uncommon in Europe.To illustrate the character of the incantations a single specimen would suffice. The object being to stupify or benumbthe face of an enemy a Bráhman should, at midnight, draw,on a peice of Bhurj bark, the figure of a tortoise six fingersin diameter. Then he should write on each foot of the picturethe mystic syllable Kríñ; in the mouth, the word Hriñ; onthe belly, the name of one of the fierce forms of Durgá, andon the back the name of the worshipper. He should thensurround the picture with the mantra called Málá mantra,which in its translated form would stand thus: “Om, benumberof enemy's face, assumer of every shape at will, and causerof agitation, Hriñ, Pheñ, Pheṭkáriní, do, do thou benumbthe mouth of my enemy so and so; do, do thou benumbthe mouths of all who are inimical to me, Oñ, Húñ, Pheň,Pheṭkárini, may this be agreeable to thee!.”The drawing thuscompleted should be placed on a brick, and covered over by thecarapace of a large tortoise. The divinity named Mahákùrma,or the great tortoise, should next be worshipped in due form,and with all the necessary offerings. On the completion of therite, the name of the enemy should be called to mind seventimes, and then the drawing with its coverings should be kickeddown with the left foot.
 
  As an instance of employing poisonous substances to promote the efficacy of incantations, reference may be made tothe formula given for producing leprosy. The direction is:
-
-
 
 “Take the blood of a serpent, and of a mole, and half itsquantity of oleander root, a lizard, bees or lice, crabs, andscorpion; pound them together, and digest them in oil; givethe oil to be rubbed on the body of the victim, and then burythe rest in a burning ground with the mantra, “Um, to thenine planets, do, do work on all my enemies, do, do kill them,Añ, Soň, Mañ, Vuñ, Chuñ, Oñ, Sañ, Váñ, Keñ, Oñ, may thisbe acceptable!”All the mantras are made up of a numberof mystical syllables like Hriñ, Huñ, Háñ, Piñ, Kriñ, Phát,Śvaha, &c. jumbled with the names of particular divinities andmore or less difinite prayers.
 
  After the incantations come versification, and to it eight chapters have been dedicated (327th to 334th). The technicalterms used in this part of the work are the same which aremet with in Pingala's Chhanda Śástra, and this part necssarily must be of a later age than that work, unless it can beshown that the two works have drawn their materials from acommon source, which is by no means unlikely. This much,however, is certain that the versification treated of belongsto the age of classic Sanskrit, and not of the Vedic period,except in so far as Vedic metres had retained currency in thelater age.
 
  The great antiquity of the Vedas is no where better illustrated than in the treatises called Śíkshá, in which the phonetics ofthe Vedic language are explained at length. All those treatisesdate from before the Christian era; some of them are unquestionably 6 to 8 hundred years older than that era; and at thattime the language of the Vedas had become so old and antiquated, and the practices of the different schools of chanters hadbecome so divergent that the necessity was felt of havingtreatises pointing out what syllables were long, what short,what circumffex, and what unaccented, and the differentplaces in the organs of speech where they should be modu
-
-
 
 lated. This could not have possibly arisen until after thelapse of máṇy centuries from the date when the Vedas werecomposed;— in fact when the láṇguage of the Vedas had ina great measure,if not entirely, ceased to be colloquial. Theleading principles of this branch of Indiáṇ learning are givenin the Puráṇa in 21 stanzas (335th), and the matter seems tohave been taken from the Rik-pràtiśakhya of Śauṇaka.
 
@@ -410,29 +319,21 @@ lated. This could not have possibly arisen until after thelapse of máṇy centu
 
  The grammar is followed by a metrical vocabulary in thestyle and pláṇ of the Amarakosha, but very much condensed.It extends to eight chapters, (359th to 366th). The first opens,as in the Amarakosha, with celestial objects; the second suppliesthe indeclinables; the third, words of various meanings, and
 
-
-
 so on. In the first chapter, after naming the gods and theirfollowers, their enemies are indicated by a single word Asura,and immediately after it occurs the word Sugata with its synonyme Tathágata.
 
  Chapter 367th treats of the dissolution of the universe(*pralaya*). The word is used in its most comprehensivesense of change, and then circumscribed under four heads,viz. (1) Nitya, (2) Naimittika, (3) Prákrita, (4) Atyantika. Thefirst implies the change which the creation is undergoing constantly without intermission, including the daily deaths of animated beings. The second is “periodical,” or the more or less partial destruction of the order of things produced at the closeof a Kalpa. The third is called “elemental”, or that in whichthe creation is reduced to its rudimentary form at the close ofa thousand fourfold Yugas. The fourth is arrived at when,by the attainment of perfect knowledge, the nonsubstantialityof the creation becomes manifest to the eye of reason. Thelast is dwelt upon at considerable length. In the next chapter(369th) is given the anatomy of the human body, supplyingthe names of the different structuresand their functions. Immediately after it occurs a dissertation on the different hellsto which the wicked are consigned, and their characteristics ;and this concludes the circle of mundane knowledge—AparáVidyá, and the concluding twelve chapters are devoted totranscendental knowledge, which insures final emancipationfrom all liability to repeated births and deaths.
 
  The first essential for perfect knowledge is the controlof the passions, or the subjugation of the sensuous wants andlongings of humanity. Nothing transcendental can be accomplished without this essential preliminary, and how thisis to be effected is treated of in chapter three hundred andseventy first. Simultaneously with the exertion to restrain the
 
-
-
 passions, the candidate for emancipation should train himselfto adopt particular seats (*ásana*), to regulate his breath (*pranáyáma*), to withdraw his mind from all worldly objects (*pratyáhára*), and to concentrate it in the meditation of Brahma (dhyána).These practices gradually train the mind to rise above allexternal attractions and distractions, and to be fully occupiedin holding within it the object of contemplation (*dháraná*)to the entire exclusion of all other thoughts. This leads tothe state of ecstacy (*samádhi*) in which the mind becomesdead to every perception, except that of the consciousness ofexistence, and the manifestation of the soul within is all thatis left in him. This is the highest and most transcendental stateof the mind, and the one necessary for the *sumum bonum* ofknowledge, the conviction of the identity of the thinker withBrahma i.e. the knowledge of Brahma. The conviction thenarises in which the thinker is enabled truthfully to say; “I amthe great light which governs all.” The doctrine inculcatedis that which maintains the identity of the human and theSupreme soul, and it is illustrated by the story of Yaḍha, whichalso occurs in some of the other Puráṇas, and in which a youth,forced to serve as a substitute for a palki bearer, and being reprimanded for the slowness of his movements, explains to a kingthe true relation between matter and mind. By way of furtherillustration, the Puráṇa gives an abstract of the *Bhagavad Gita*quoting the Mahábhárata, and then a similiar abstract of the*Yama Gítá*, a work on the model of Bhagavad Gítá and said tohave been first imparted by Yama,the ruler of the nether regions, to a renowned saint named Kapila.
 
  In the concluding chapter Agni first recounts the praisesof the Agni Puráṇa; Vaśishtha then recounts them to Vyása;Vyása to Súta; and the last to the sages assembled in theNaimisha grove. The praises are of the most exaggerated
-
-
 
 and hyperbolical character; but they are by no means remarkable. Almost every Puráṇa uses the same words, and attributesto itself the same virtues, in the same manner, so as to makethe whole worthless; and even intelligent Hindu authors callthem eulogistic, (*prasansáváda*,) and not intended to be implicity believed as true.
 
  This abstract of its contents shows that the Puráṇa has nosectarial leaning. It treats of Vaishnava, Śaiva and Śáktaforms of worship with impartiality, and its object was, as hasbeen already stated, more to produce a digest of Sanskritlearning than to advocate any particular form of religion.Hence it is that Sanskrit authors class it among the *Támcsa* ordelusive division of the Puráṇas. Commenting on the contentsof the work Professor Wilson remarks:
 
  “From this general sketch of the Agneya Puráṇa it is evidentthat it is a compilation from various works; that consequentlyit has no claim in itself to any great antiquity, although, fromthe absence of any exotic materials, it might be pronouncedearlier, with perhaps a few exceptions, than the Mohammedaninvasion. From the absence also of a controversial or sectarialspirit it is probably anterior to the struggles that took place inthe 8th and 9th centuries of our era between the followers ofŚiva and Vishṇu. As a mere compilation, however, its dateis of little importance, except as furnishing a testimony to thatof the materials of which it is composed. Many of these maypretend no doubt to considerable antiquity, particularly thelegendary accounts of the Avatáras, the section on regal polityand judicature, and the genealogical chapters: how far the restmay be ancient, is perhaps questionable. for there can be littledoubt that the Puráṇa as it now exists, differing from its owndefinition of Puráṇa, and comprehending such incongruousadmixtures, is not the entire work as it at first stood. It is not
-
-
 
 unlikely that many chapters were arbitrarily supplied about8 or 9 centuries ago, and a few perhaps even later; to fill upthe chasms which time and accident had made in the originalÁgneya Puráṇa[^6].”  
  In the Preface attached to the first volume of this editionof the Agni Puráṇa, a descriptive list has been given of themanuscripts consulted in preparing the text for the press.Since its publication I obtained two codices, one from Benares,and the other from Mangalore. The former numbered X, andmarked comprises 412 folia each 16. by 5
@@ -445,17 +346,11 @@ inches, writtenin the Bengali character with 9 lines of writing on each page.Its
 
 , was obtained for me by Dr. A. C. Burnell of Mangalore. Ithad been copied from a Tamil MS. It comprises 386 folia in4to foolscap, having 21 lines of writing on each page. Likethe last it is generally correct, and complete. On the receiptof these, No. V., which was incorrect, was not any longerconsulted, and No. VIII. was found deficient at the end. Theeleven Mss consulted may be classed under four heads; 1st,Benares, represented by Nos. I. VIII. and X; 2nd, Calcutta,represented by Nos. II, III, IV, V, VI, and VII; 3rd, Baroda,by No. IX; and 4th, Mangalore, by No. XI. Of these, eightcodices correspond very closely, and give the same number ofchapters; two Nos, I and VIII are incomplete, wantingseveral chapters at the end; and one, No. III, has severalchapters at the end, and 4 chapters on pilgrimage in the middlethe counterparts of which are not to be met with elsewhere. The chapters are not regularly numbered in any of the Mss.,
 
-
-
 and in several no number is to be met with. For the sake of convenience of reference the serial number has been introducedby me, and the total I have arrived at from the eight Mss.which correspond is 382. The MS. from which the late Professor Wilson prepared his analysis of the Agni Puráṇa forthe Journal of the Asiatic Society was, like my Mss., dividedinto a number of small sections according to the subject, butwithout any enumeration; but their number amounted to 332, orto 50 under the total of my Mss. On the other hand, the extentof matter in Professor Wilson's codex was computed at about14000 slokas, whereas, my printed text comes up to 11000,exclusive of a few prose passages and mantra, which togetherwould not amount to 500, ślokas. Thus my text is short by 2500ślokas, if the total of the Puráṇa be accpted in its own words at14000, or more if 15000, or 16000 ślokas be assigned to it inaccordance with the Bhagavata and other Puráṇas. The excessin my No. III amounts to 33 chapters, which togethercomprise about a thousand slokas; but there are several repititions in them of subjects treated in previous chapters, and altogether the writing is so corrupt, smudgy, and frequently obliterated that I found it impossible to print from them. A few chapters are given in the Appendix by way of specimen. This is,however, not the “appendix” to which Colonel Wilford refersin his essay on Vikramáditya and Śáliváhana (*Asiatic Researches*, Xp. 131) in which he met with the mention of Śáliváhana andVikramáditya, and also of Muhammad as the institutor of a newera, nor has it anything to do with the ‘Káverí Máhátmyam,”current in the South of India, and said to be a part of theAgni Purána. It is, in the words of Professor Wilson,“verynearly as extensive as the whole work of which it is called asection.”Of these appendixes I have seen no Mss., and knownothing of their contents. Colonel Wilford's appendix is described
-
-
 
 to be “the sixtythird or last section,”and appears on the faceof the statement to be apocryphal—one of the many instancesin which the enthusiastic enquirer was imposed upon by hiswily Paṇḍits. The second occurs in the Mackenzie Collection,and belongs to the same class with the other Máhátmyas or locallegends, which, with a view to attach importance and sanctityto them, have been interpolated into, or appended to, thePuráṇas.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 अग्निपुराणम्।
 
@@ -490,8 +385,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शार्ङ्गविस्फूर्ज्जितञ्चैव वासुदेवस्य मद्रिपून्।  
 तिर्य्यङ्मनुष्यकुष्माण्डप्रेतादीन् हन्त्वशेषतः॥७॥
 
-
-
 खङ्गधारोज्ज्वलज्जोऽत्स्नानिर्द्धूता ये समाहिताः।  
 ते यान्तु शाम्यतां सद्यो गरुड़ेनेव पन्नगाः॥८॥
 
@@ -523,8 +416,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे विष्णुपञ्जरं नामोनसप्तत्यधिकद्विशततमोऽध्यायः।
 
 ————————
-
-
 
 अथ सप्तत्यधिकद्विशततमोऽध्यायः।
 
@@ -565,8 +456,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 व्यासरूपीस भगवान् शाखाभेदाद्यकारयत्।
 
-
-
 शाखाभेदादयो विष्णुरितिहासः पुराणकं॥१०॥
 
 प्राप्य व्यासात् पुराणादि सूतो वैलोमहर्षणः।  
@@ -605,8 +494,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 स्वर्गार्थिनां स्वर्गदञ्चपुत्रदं पुत्रकामिनां।  
 गवादिकामिनाङ्गोदं ग्रामदं ग्रामकामिनां॥२०॥
 
-
-
 कामार्थिनां कामदञ्च सर्वसौभाग्यसम्प्रदम्।  
 गुणकीर्त्तिप्रदन्नॄणां जयदञ्जयकामिनाम्॥२१॥
 
@@ -644,8 +531,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 यत्राधिकृत्य गायत्रीं कीर्त्त्यते धर्मविस्तरः।
 
-
-
 वृत्रासुरबधोपेतं तद्भागवतमुच्यते॥६॥
 
 सारस्वतस्य कल्पस्य प्रोष्ठपद्यान्तु तद्ददेत्।  
@@ -682,8 +567,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 सहेमगरुड़ञ्चैत्र्यांपदमाप्नोति वैष्णवम्।
 
-
-
 चतुरशीतिसाहस्रं स्कान्दंस्कन्देरितं महत्॥१७॥
 
 अधिकृत्य सधर्म्मांश्चकल्पे तत्पुरुषेऽर्पयेत्।  
@@ -718,8 +601,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अयनादौश्राबकस्य दानमादौविधीयते।  
 श्रोतृभिः सकलैः कार्यं श्रावके पूजनं द्विज॥२८॥
-
-
 
 इतिहासपुराणानां पुस्तकानि प्रयच्छति।  
 पूजयित्वायुरारोग्यंस्वर्गमोक्षमवाप्नुयात्॥२९॥
@@ -761,8 +642,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कन्येला च मनोरासीद्बुधात्तस्यां पुरूरवाः।  
 पुरूरवसमुत्पाद्य सेला सुद्युम्नताङ्गता॥७॥
 
-
-
 सुद्युम्नादुत्कलगथौ विनताश्वस्त्रयो नृपाः।  
 उत्कलस्योत्कलं राष्ट्रं विनताश्वस्य पश्चिमा॥८॥
 
@@ -797,8 +676,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मनुपुत्रादथेक्षाकोर्विकुक्षिर्देवराड़भूत्॥१८॥
 
 विकुक्षेस्तु ककुत्स्थोऽभूत्तस्य पुत्रः सुयोधनः।
-
-
 
 तस्य पुत्रः पृथुर्न्नाम विश्वगश्वःपृथोः सुतः॥१९॥
 
@@ -836,8 +713,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 भगीरथो दिलीपात्तु येन गङ्गावतारिता।
 
-
-
 भगीरथात्तु नाभागो नाभागादम्बरीषकः॥३०॥
 
 सिन्धुद्वीपोऽम्बरीषात्तुश्रुतायुस्तत्सुतः स्मृतः।  
@@ -871,8 +746,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इक्षाकुवंशप्रभवाः सूर्य्यवंशधराः स्मृताः॥३९॥
 
 इत्याग्नेये महापुराणे सूर्य्यवंशकीर्त्तनं नाम द्विसप्तत्यधिकद्विशततमोऽध्यायः।
-
-
 
 अथ त्रिसप्तत्यधिकद्विशततमोऽध्यायः।
 
@@ -913,8 +786,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 जहार तरसा सोमो ह्यवमन्याङ्गिरःसुतम्।  
 ततस्तद्युद्धमभवत् प्रख्यातं तारकामयम्॥९॥
 
-
-
 देवानां दानवानाञ्च लोकक्षयकरं महत्।  
 ब्रह्मा निवार्य्योशनसन्तारामङ्गिरसे ददौ॥१०॥
 
@@ -949,8 +820,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 नहुषस्य सुताः सप्त यतिर्य्ययातिरुत्तमः।  
 उद्भवः पञ्चकश्चैव शर्य्यातिमेघपालकौ॥२०॥
-
-
 
 यतिः कुमारभावेऽपि विष्णुंध्यात्वा हरिं गतः।  
 देवयानी शुक्रकन्या ययातेः पत्न्यऽभूत्तदा॥२१॥
@@ -988,8 +857,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 दत्तोऽर्ज्जुनाय तपते सप्तद्वीपमहीशताम्।  
 ददौबाहुसहस्रञ्च अजेयत्वं रणेऽरिणा॥५॥
 
-
-
 अधर्म्मे वर्त्तमानस्य विष्णुहस्तान्मृतिर्ध्रुवा।  
 दश यज्ञसहस्राणि सोऽर्ज्जुनः कृतवान्नृपः॥६॥
 
@@ -1024,8 +891,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 तितिक्षोस्तु मरुत्तोऽभूत्तस्मात्कम्बलवर्हिषः।  
 पञ्चाशद्रुक्मकवचाद्रुक्मेषुः पृथुरुक्मकः॥१६॥
-
-
 
 हविर्ज्यामघः पापघ्नो ज्यामघः स्त्रीजितोऽभवत्।  
 सेव्यायां ज्यामघादासीद्विदर्भस्तस्य कौशिकः॥१७॥
@@ -1065,8 +930,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 चत्वारश्च सुता वभ्रोर्वासुदेवपरा नृपाः।
 
-
-
 कुहुरो भजमानस्तु[^20]शिनिः कम्बलवर्हिषः॥२७॥
 
 [^20]: "कुकुरो भजमानस्त्विति क०। सुन्दरी भजमानस्त्विति ज०।"
@@ -1104,8 +967,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 कृतवर्म्माशतधन्वा देवार्हो भीषणादयः।
 
-
-
 देवार्हात् कम्बलवर्हिरसमौजास्ततोऽभवत्॥३७॥
 
 सुदंष्ट्रश्चसुवासश्च धृष्टोऽभूदसमौजसः।  
@@ -1141,8 +1002,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 स्वफल्कपुत्रो ह्यक्रूरो अक्रूराच्च सुधन्वकः।  
 शूरात्तु, वसुदेवाद्याः पृथा पाण्डोः प्रियाऽभवत्॥४७॥
-
-
 
 धर्म्माद्युधिष्ठिरः पाण्डोर्वायोःकुन्त्यां वृकोदरः।  
 इन्द्राद्धनञ्जयो माद्र्यांनकुलः सहदेवकः॥४८॥
@@ -1181,8 +1040,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^25]: "चित्रविन्देति ख०, छ० च।"
 
-
-
 एवमादीनि देवीनां सहस्राणि तु षोड़श।  
 प्रद्युम्नाद्याश्च रुक्मिण्यां भीमाद्याः सत्यभामया॥५॥
 
@@ -1218,8 +1075,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 मन्थानं मन्दरं कृत्वा नेत्रं कृत्वा तु वासुकिम्।
 
-
-
 सुरासुरैश्चमथितं[^26]देवेभ्यश्चामृतं ददौ॥१६॥
 
 [^26]: "सुरासुरैरमन्वान्धिमिति क०, छ० च०।"
@@ -1254,8 +1109,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 यदुक्तं यच्च नैवोक्तमवतारा हरेरिमे॥२५॥
 
 इत्याग्नेये महापुराणे द्वादशसङ्ग्रामा नाम पञ्चसप्तत्यधिकद्विशततमोऽध्यायः।
-
-
 
 अथ षट्सप्तत्यधिकद्विशततमोऽध्यायः।
 
@@ -1296,8 +1149,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 नरायान्तु नरश्चासीत् कृमिस्तु कृमितः सुतः।
 
-
-
 दशायांसुब्रतो जज्ञे दृशद्वत्यां शिविस्तथा॥८॥
 
 शिवेः पुजास्तुचत्वारः पृथुदर्भश्च वीरकः।  
@@ -1328,8 +1179,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 एतेऽङ्गवंशजा भूपाः पूरोर्वंशं निबोध मे॥१६॥
 
 इत्याग्नेये महापुराणे राजवंशवर्णनं नाम षट्सप्तत्यधिकद्विशततमोऽध्यायः।
-
-
 
 अथ सप्तसप्तत्यधिकद्विशततमोऽध्यायः।
 
@@ -1369,8 +1218,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 स चापि वितथः पुत्रान् जनयामास पञ्च वै।
 
-
-
 सुहोत्रञ्च सुहोतारङ्गयङ्गर्भन्तथैव च॥९॥
 
 कपिलश्च महात्मानं सुकेतुञ्चसुतद्वयम्।  
@@ -1408,8 +1255,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 नीलिन्यां शान्तिरपरः पुरुजातिः सुशान्तितः।
 
-
-
 पुरुजातेस्तु वाह्याश्वो वाह्याश्वात् पञ्च पार्थिवाः॥१९॥
 
 मुकुलःसृञ्जयश्चैव राजा वृहदिषुस्तथा।  
@@ -1446,8 +1291,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 सुधन्वा तत्सुतश्चोर्ज्जऊर्ज्जादासीच्चसम्भवः।
 
-
-
 सम्भवाच्चजरासन्धः सहदेवश्च तत्सुतः॥३०॥
 
 सहदेवादुदापिश्च उदापेः श्रुतकर्मकः।  
@@ -1483,8 +1326,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 भीमसेनाद्धिडिम्बायामन्य आसीद् घटोत्कचः॥४०॥
 
 एते भूता भविष्याश्च नृपाः संख्या न विद्यते।
-
-
 
 गताः कालेन कालो हि हरिस्तं पूजयेद्द्विज।  
 होममग्नौसमुद्दिश्य कुरु सर्व्वप्रदं यतः॥४१॥
@@ -1527,8 +1368,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तद्विधास्ते ज्वरेष्विष्टा यवानां विकृतिस्तथा।  
 मुद्गामसूराश्च णकाः कुलत्थाश्च सकुष्ठकाः॥६॥
 
-
-
 आटक्यो नारकाद्याश्च कर्क्कोटककटोल्वकम्।  
 पटोलं सफलं निम्बं पर्पटं दाडिमं ज्वरे॥७॥
 
@@ -1563,8 +1402,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 यवान्नविकृतिर्मुद्गाकुलत्था जीर्णशालयः॥१७॥
 
 तिक्तरुक्षाणि शाकानि तिक्तानि हरितानि च।
-
-
 
 तैलानि तिलशिग्रुकविभीतकेङ्गुदानि च॥१८॥
 
@@ -1602,8 +1439,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^40]: "सदामये इति ञ०। दमात्यये इति ट०।"
 
-
-
 क्षयं मांसरसाहारो वह्निसंरक्षणाज्जयेत्।  
 शालयो भोजने रक्ता नीवारकलमादयः॥२९॥
 
@@ -1640,8 +1475,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 वातशोणितनाशाय तोयं शस्तं सितं मधु।
 
-
-
 नाशारोगेषु च हितं घृतं दुर्व्वाप्रसाधितम्॥३९॥
 
 भृङ्गराजरसे सिद्धंतैलं धात्रीरसेऽपि वा।  
@@ -1677,8 +1510,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शतावरीरसे सिद्धौ वृष्यौक्षीरघृतौ स्मृतौ॥४९॥
 
 कलम्बिकानि माषाश्च वृष्यौ क्षीरघृतौ तथा।
-
-
 
 आयुष्या त्रिफला ज्ञेया पूर्ववन्मधुकान्विता॥५०॥
 
@@ -1718,8 +1549,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सर्पकीटविषाण्याशु जयत्यतिबलान्यपि।  
 चन्दनं पद्मकङ्कुष्ठंलताम्बूशीरपाटलाः॥६०॥
 
-
-
 निर्गुण्डी शारिवा सेलुर्लूताविषहरो गदः।  
 शिरोविरेचनं शस्तंगुड़नागरकं द्विज॥६१॥
 
@@ -1756,8 +1585,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तैलं शनैश्चरेदद्यादाश्विने गोरसान्नदः।  
 घृतेन पयसा लिङ्गं संस्नाप्य स्याद्रुगुज्झितः॥४॥
 
-
-
 गायत्र्याहावयेद्वह्नौ दूर्वान्त्रिमधुराप्लुताम्।  
 यस्मिन् भे व्याधिमाप्नोति तस्मिन् स्नानं बलिः शुभे॥५॥
 
@@ -1792,8 +1619,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अनूपइतिविख्यातो जाङ्गलस्तद्विवर्ज्जितः॥१५॥
 
 किञ्चिद्वृक्षोदकोदेशस्तथा साधारणः स्मृतः।
-
-
 
 जाङ्गलः पित्तबहुलो मध्यः साधारणः स्मृतः॥१६॥
 
@@ -1830,8 +1655,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 जनयत्यम्ललवणमधुरांस्त्रीन् यथाक्रमम्।  
 शिशिरादीनृतूनर्कश्चरन् पर्य्यायशो रसान्॥२७॥
 
-
-
 विवर्द्धयेत्तथा तिक्तकषायकटुकान् क्रमात्।  
 यथा रजन्यो वर्द्धन्ते वलमेकं हि वर्धते॥२८॥
 
@@ -1867,8 +1690,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 शुद्धाम्बुदर्शी स्वप्ने च कफप्रकृतिको नरः।
 
-
-
 तामसा राजसाश्चैव सात्विकाश्चतथा स्मृताः॥३९॥
 
 मनुष्य मुनिशार्दूल वातपित्तकफात्मकाः।  
@@ -1901,8 +1722,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सर्वरोगप्रशान्त्यै स्याद्विष्णोर्ध्यानञ्चपूजनम्॥४८॥
 
 इत्याग्नेये महापुराणे सर्वरोगहराण्यौषधानि नामोनाशीत्यधिकद्विशततमोऽध्यायः।
-
-
 
 अथाशीत्यधिकद्विशततमोऽध्यायः॥
 
@@ -1942,8 +1761,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 क्वाथयेत् षोड़शगुणं पिवेद्द्रव्याच्चतुर्गुणम्।
 
-
-
 कल्पनैषा कषायस्य यत्र नोक्तो विधिर्भवेत्॥९॥
 
 कषायन्तु भवेत्तोयं स्नेहपाके चतुर्गुण[^49]ं।  
@@ -1980,8 +1797,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 क्षयस्य वृंहणं कार्यं स्थुलदेहस्य कर्षणम्।  
 रक्षणं मध्यकायस्य देहभेदास्त्रयो मताः॥१९॥
 
-
-
 उपक्रमद्वयं प्रोक्तंतर्पणं वाप्यतर्पणं।  
 हिताशी च मिताशी च जीर्णाशीच तथा भवेत्॥२०॥
 
@@ -2016,8 +1831,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नाजीर्णे तु श्रमं कुर्य्यान्नभुक्त्वापीतवान्नरः॥३०॥
 
 दिनस्य तु चतुर्भाग ऊर्द्धन्तु प्रहरार्द्धके।
-
-
 
 व्यायामं नैव कर्त्तव्यं स्नायाच्छीताम्बुना सकृत्॥३१॥
 
@@ -2057,8 +1870,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^52]: "पुष्करिण्यान्त्विति पाठो न सम्यक् प्रतिभाति।"
 
-
-
 हस्ता मघा तथा मैत्रमाद्यं पुष्यं सवासवं।  
 जलाशयसमारम्भे वारुणञ्चोत्तरात्रयम्॥५॥
 
@@ -2090,8 +1901,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे वृक्षायुर्वेदा नामैकाशीत्यधिकद्विशततमोऽध्यायः॥
 
 **———————**
-
-
 
 अथ द्व्यशीत्यधिकद्विशततमोऽध्यायः।
 
@@ -2133,8 +1942,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^55]: "मूत्रहा शोषरोगनुदिति ञ०।"
 
-
-
 जातीपत्रंफलं व्योषंकवलं मूत्रकं निशा।  
 दुग्धक्वाथेऽभयाकल्के सिद्धं तैलं द्विजार्त्तिनुत्॥९॥
 
@@ -2169,8 +1976,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 क्वाथः समाक्षिको हन्यात् पाण्डुरोगं सकामलं॥१९॥
 
 रक्तपित्तीपिवेद्वासासुरसं ससितं मधु।
-
-
 
 वरीद्राक्षाबलाशुण्ठीसाधितं वा पयः पृथक्॥२०॥
 
@@ -2208,8 +2013,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^56]: "कटुरोहोत्पलातङ्कलाजचूर्णमिति ट०।"
 
-
-
 वस्त्रच्छिद्रगतं वक्त्रेन्यस्तं तृष्णां विनाश्येत्॥३१॥
 
 पाठादार्व्वीजातिदलं द्राक्षामूलफलत्रयैः[^57]।  
@@ -2245,8 +2048,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वचाफलकषायोत्थं पयो वमनकृद्भवेत्॥४१॥
 
 त्रिफलायाःपलशतं पृथग्भृङ्गजभावितम्।
-
-
 
 विड़ङ्गंलोहचूर्णञ्चदशभागसमन्वितम्॥४२॥
 
@@ -2285,8 +2086,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 ——————
 
-
-
 अथ त्र्यशीत्यधिकद्विशततमोऽध्यायः।
 
 **———000———**
@@ -2321,8 +2120,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 दामोदरो बन्धहरः पुष्कराक्षोऽक्षिरोगनुत्।  
 हृषीकेशो भयहरोजपेदौषधकर्म्मणि॥९॥
-
-
 
 अच्युतञ्चामृतं मन्त्रं सङ्ग्रामे चापराजितः।  
 जलतारे नारसिंहं पूर्व्वादौक्षेमकामवान्॥१०॥
@@ -2363,8 +2160,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 विल्वादिपञ्चमूलस्य क्वाथः स्याद्वातिके ज्वरे।  
 पावनं पिप्पलीमूलं गुडूची विष्वजोऽथ वा॥२॥
 
-
-
 आमलक्यभया कृष्णा वह्निः सर्वज्वरान्तकः।  
 विश्वाग्निमन्थश्योनाककाश्मर्य्यःपारला स्थिरा॥२॥
 
@@ -2399,8 +2194,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 वटं शृङ्गी शिलालोध्रदाड़िमं मधुकं मधु।  
 पिबेत् तण्डुलतोयेन च्छर्दितृष्णानिवारणम्॥१३॥
-
-
 
 गुडुचीवासकं लोध्रं पिप्पलीक्षौद्रसंयुतम्‌।  
 कफरान्वितञ्जेयद्रक्तंतृष्णाकासज्वरापहम्‌॥१४॥
@@ -2442,8 +2235,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अशीतिंवातजान्रोगान् चत्वारिंशश्चपैत्तिकान्।
 
-
-
 विंशतिं श्लैष्मिकान्‌ कासपीनसार्शोव्रणादिकान्‌॥२४॥
 
 हन्त्यन्यान्योगराजोऽयं यथार्कस्तिमिरंखलु।  
@@ -2478,8 +2269,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **निम्बमूलकपत्राणां कषायाः शोधने हिताः।  
 करञ्चारिष्टनिर्गुण्डीरसो हन्याद्व्रणक्रमीन्‌॥३४॥**
-
-
 
 धातकीचन्दनबलासमङ्गामधुकोत्पलैः।  
 दार्वीमेदोन्वितैर्लेपः ससर्पिर्व्रणरोपणः॥३५॥
@@ -2519,8 +2308,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 पक्वंपीत्वा जयत्याशु सदाहं वातशोणितं।
 
-
-
 **गुग्गुलं कोष्णशोते[^72]तु गुडुची त्रिफलाम्भसा॥४५॥**
 
 [^72]: "क्रोष्टुशीतेऽथेति ख॰।"
@@ -2557,8 +2344,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **पाठानिकुम्भत्रिकटुत्रिफलाग्निषु साधितम्।**
 
-
-
 मूत्रेण चूर्णगुटिका गुल्मप्लीहादिमर्द्दनी॥५६॥
 
 वासानिम्बपटोलानि त्रिफला वातपित्तनुत्‌[^73]।  
@@ -2594,8 +2379,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नवश्चटकवज्जन्भेद् दशवारान् स्त्रियं ध्रुवम्॥६६॥
 
 ससङ्गाधातकीपुष्पलोध्रनीलीत्पलानि च।
-
-
 
 एतत्‌ क्षीरेण दातव्यं स्त्रीणांप्रदरनाशनं॥६७॥
 
@@ -2634,8 +2417,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 विरेकः सर्व्वरोगघ्नः श्रेष्ठो नाराचसंज्ञकः।
 
-
-
 सिद्धयोगा मुनिभ्यो ये आत्रेयेण प्रदर्शिताः।  
 सर्वरोगहराः सर्वं योगाग्र्याः सुश्रुतेन हि॥७७ ॥
 
@@ -2671,8 +2452,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 उच्चटामधुना कर्षंपयःपा मृत्युजिन्नरः।  
 मध्वाज्यैः पयसावापि निर्गुण्डीरोगमृत्युजित्‌॥६॥
-
-
 
 पलाशतैलं कर्षैकं षण्मासं मधुना पिवेत्‌।  
 दुग्धभोजीपञ्चशतीसहस्रायुर्भवेन्नरः॥७॥
@@ -2715,8 +2494,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तिलस्य तैलं समधु नस्यात्‌ कृष्णकचः शती।  
 कर्षमक्षंसमध्वाज्यंशतायुः पयसा पिवन्‌॥१६॥
 
-
-
 अभयं सगुडञ्जग्ध्वा घृतेन मधुरादिभिः।  
 दुग्धान्रभुक्‌ कृष्णकेशोऽरोगीपञ्चशताब्दवान्‌॥१७॥
 
@@ -2747,8 +2524,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पञ्चशीत्यधिकदिशततमोऽध्यायः।
 
 —————
-
-
 
 अथ षडशीत्यधिकद्विशततमोऽध्यायः।
 
@@ -2789,8 +2564,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 लवणैःपञ्चभिर्म्मिश्राप्रतिपानाय वारुणी।
 
-
-
 विडङ्गत्रिफलाव्योषसैन्धवैःकवलान्‌ कृतान्‌॥९॥
 
 मूर्च्छासु भोजयेन्नागं क्षौद्रन्तोयञ्चपाययेत्‌।  
@@ -2825,8 +2598,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 त्रिवृद्व्योषाग्निदन्त्यर्कश्यामाक्षीरेभपिप्पली।  
 एतैर्गुल्महरःस्नेहःकृतश्चैवतथापरः॥२०॥
-
-
 
 भेदनद्रावणाभ्यङ्गस्नेहपानानुवासनैः।  
 सर्वानेव समुत्पन्नान्‌ विद्रवान्‌ समुपाहरेत्‌॥२१॥
@@ -2865,8 +2636,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^86]: "क्षीरवृक्षकरोराश्चेति ञ०।"
 
-
-
 अनेनाञ्जितनेत्रस्तु करोति कदनंरणे।  
 उत्पलानि च नीलानि मुस्तन्तगरमेव च॥३१॥
 
@@ -2902,8 +2671,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तीव्रैर्न्नच परैर्द्दण्डैरदेशे न च ताडयेत्।  
 कीलास्थिसंकुले चैव विषमे कण्टकान्विते॥४॥
 
-
-
 वालुकापङ्कसंच्छन्ने गर्त्तागर्त्तप्रदूषिते।  
 अचित्तज्ञो विनोपायैर्वाहनं कुरुतेतु यः॥५॥
 
@@ -2938,8 +2705,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 हुताशनस्य दीप्त्याच स्मर जातिं तुरङ्गम।  
 स्मर राजेन्द्रपुत्रस्त्वंसत्यवाक्यमनुस्मर॥१५॥
-
-
 
 स्मर त्वंवारुणींकन्यांस्मर त्वं कौस्तुभंमणिं।  
 क्षीरोदसागरे चैव मथ्यमाने सुरासुरैः॥१६॥
@@ -2978,8 +2743,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्रग्रहेण गृहीत्वाऽथ प्रविष्टो वाहभूतलम्‌।  
 सव्यापसव्यभेदेन वाहनीयःस्वसादिना॥२६॥
 
-
-
 आरुह्यसहसा नैव ताड़नीयो हयोत्तमः।  
 ताड़नादुभयमाप्नोति भयान्मोहश्चजायते॥२७॥
 
@@ -3016,8 +2779,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सव्यहीनं खलीकारो हनने गुणने तथा॥३७॥
 
 स्वभावं हि तुरङ्गस्यमुखव्यावर्तनंपुनः।
-
-
 
 न चैवेत्थं तुरङ्गाणां पादग्रहणहेतवः॥३८॥
 
@@ -3060,8 +2821,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 खलीकृत्यचतुष्केण तुरङ्गो वल्गयान्यया।  
 उच्छास्यं ग्राह्यतेऽन्यत्रतत्स्यादुच्छासनंपुनः॥४८॥
 
-
-
 स्वभावं वहिरस्यन्तं तस्यां दिशि पदायनं।  
 नियोज्य ग्राहयेत्तत्तुमुखव्यावर्त्तनंमतम्‌॥४९॥
 
@@ -3097,8 +2856,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 सम्पीड्य जानुयुग्मे न स्थिरमुष्टिस्तुरङ्गमं।
 
-
-
 **गोमूत्राकुटिला वेणीपद्ममण्डलमालिका॥६०॥**
 
 **पञ्चोलूखलिका कार्य्या गर्वितास्तेऽतिकीर्त्तिताः[^94]।  
@@ -3129,8 +2886,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 धिकद्विशततमोऽध्यायः॥
 
 \_\_\_\_\_\_\_
-
-
 
 अथाष्टाशीत्यधिकद्विशततमोऽध्यायः।
 
@@ -3170,8 +2925,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 दीर्घग्रीवाक्षिकूटाश्चह्रस्वकर्णाश्चशोभनाः।
 
-
-
 राज्ञान्तुरङ्गमायत्र[^98]विजयं वर्जयेत्ततः॥९॥
 
 [^98]: "राजौ तुरङ्गमा यत्रेति ख० ।"
@@ -3210,8 +2963,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 लोध्रकन्धरयोर्मूलं मातुलाङ्गाग्निनागराः।
 
-
-
 कुष्ठहिङ्गुवचारास्नालेपोयं शोथनाशनः॥२०॥
 
 मञ्जिष्ठा मधुकंद्राक्षावृहत्यौरक्तचन्दनम्‌।  
@@ -3248,8 +2999,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 देवदारुवचायुग्मरजनीरक्तचन्दनैः।  
 तैलसिद्धं कषायेण गुडूच्याः पयसा सह॥३१॥
 
-
-
 म्रक्षणेवस्तिनश्ये च योज्यं सर्वत्रलिङ्गिने।  
 रक्तस्त्रावो जलौकाभिर्न्नेत्रान्ते नेत्ररोगिनः॥३२॥
 
@@ -3283,8 +3032,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्रियङ्गुपिप्पलीलोध्रयष्ट्याक्षैः समहौषधैः॥४१॥
 
 निदाघे सगुड़ा देया मदिरा प्रतिपानके।
-
-
 
 लोध्रकाष्ठंसलवणं पिप्पल्यो विश्वभेषजम्‌॥४२॥
 
@@ -3320,8 +3067,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 वातिकाःपैत्तिकाश्चैव श्लेष्मजाःसान्निपातिकाः।  
 न रोगाःपीडयिष्यन्तिदूर्वाहारन्तुरङ्गमम॥५३॥
-
-
 
 द्वौ रज्जुबन्धौदुष्टानां पक्षयोरुभयोरपि।  
 पश्पचाद्धनुश्च कर्त्तव्यो दूरकीलव्यपाश्रयः॥५४॥
@@ -3359,8 +3104,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 घटान्‌ सर्व्वरसैःपूर्णान्‌ दिक्षुदद्यात्सवस्त्रकान्।  
 यवाज्यं जुहुयात्‌ प्रार्च्य यजेदश्वांश्च साश्विनान्॥५॥
 
-
-
 विप्रेभ्यो रक्षिणान्दद्यान्नैमित्तिकमतःशृणु।  
 मकरादौ हयानाञ्चपद्मैर्विष्णुं श्रियं यजेत्॥६॥
 
@@ -3396,8 +3139,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 कुमुदैरावणःपद्मः पुष्पदन्तोऽथवामनः।  
 सुप्रतीकोञ्जनो नागा अष्टौहोमोऽथ दक्षिणां॥४॥
-
-
 
 **गजाः शान्त्युदकासिक्ता वृद्धौ नैमित्तिकं शृणु।  
 गजानाम्मकरादौच ऐशान्यांनगराद्बहिः॥५॥**
@@ -3437,8 +3178,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **करिणीन्तु समारुह्यवदेत्‌ कर्णन्तु कालवित्‌।**
 
-
-
 नागराजेऽमृतेशान्तिं कृत्वाऽमुस्मिन्[^105]जपेन्मनुम्‌॥१५॥
 
 [^105]: "कृत्वान्यस्मिन्निति ख०, ज०, ञ० च।"
@@ -3476,8 +3215,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे गजशान्तिर्नाम नवत्यधिकद्विश-  
 ततमोऽध्यायः॥
 
-
-
 अथैकनवत्यधिकद्विशततमोऽध्यायः।
 
 ***———000———***
@@ -3513,8 +3250,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कृच्छ्रातिकृच्छ्रं पयसा दिवसानेकविंशतिं।  
 निर्म्मलाःसर्व्वकामाप्त्यास्युर्गगाः स्युर्न्नरोत्तमाः॥९॥
 
-
-
 त्र्यहमुष्णं पिवेन्‌मूत्रं त्र्यहमुष्णंघृतं पिवेत्‌।  
 
 त्र्यहमुष्णंपयःपीत्वा वायुभक्षःपरं त्र्यहम्‌॥१०॥
@@ -3548,8 +3283,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 ब्राह्मणाश्चैव गावश्चकुलमेकं द्विधा कृतम्‌।  
 एकत्र मन्त्रास्तिष्ठन्ति हविरेकत्र तिष्ठति॥२०॥
-
-
 
 देवब्राह्मणगोसाधुसाध्वीभिः सकलं जगत्‌।  
 धार्य्यते वैसदा तस्मात्‌ सर्व्वे पूज्यतमा मताः॥२१॥
@@ -3587,8 +3320,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 मासास्तिलाःसगोधूमाः पशुक्षीरं घृतं तथा।
 
-
-
 एषां पिण्डीसलवणा वत्सानां पुष्टिदात्वियं॥३२॥
 
 बलप्रदा विषाणां स्याद्ग्रहनाशाय धूपकः।  
@@ -3623,8 +3354,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 शतंशतंसुवर्णञ्चकांस्यादिकं द्विजे ददेत्‌।  
 गावःपूज्या विमोक्तव्याःशान्त्यैक्षीरादिसंयुताः॥४३॥
-
-
 
 **अग्निरुवाच।**
 
@@ -3666,8 +3395,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **तारान्त्याग्निवियत्प्रायो मन्त्रआग्नेय इष्यते।  
 शिष्टः सौम्यः प्रशस्तौ तौ कर्मणोः क्रूरसौम्ययोः॥६॥**
 
-
-
 **आग्नेयमन्त्रः सौम्यः स्यात्प्रायशोऽन्ते नमोऽन्वितः।  
 सौम्यमन्त्रस्तथाग्नेयः फट्कारेणान्ततो युतः॥७॥**
 
@@ -3704,8 +3431,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **धीरो दक्षःशुचिर्भक्तोजपध्यानादितत्परः।**
 
-
-
 सिद्धस्तपस्वी कुशलस्तन्त्रज्ञःसत्यभाषणः॥१७॥
 
 निग्रहानुग्रहे शक्तोगुरुरित्यभिधीयते।  
@@ -3740,8 +3465,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 उच्चैर्ज्जपाद्विशिष्टःस्यादुपांशुर्द्दशभिभिर्गुणैः।  
 जिह्वाजपे शतगुणःसहस्रो मानसःस्मृतः॥२८॥
-
-
 
 प्राङ्मुखोऽवाङ्मुखो वापि मन्त्रकर्म्मसमारभेत्‌।  
 प्रणवाद्याःसर्व्वमन्त्रावाग्यतो विहिताशनः॥२९॥
@@ -3779,8 +3502,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 पार्श्वयोःपृष्ठतो नाभौ हदये च क्रमान्न्यसेत्‌।
 
-
-
 यादींश्च हृदये न्यस्येदेषां स्युःसप्तधातवः॥३९॥
 
 त्वगसृङ्मांसकस्नायुमेदोमज्जाशुक्राणि धातवः।  
@@ -3815,8 +3536,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 निरङ्गस्यात्मना चाङ्गंन्यस्येमान्नियुतं जपेत्‌।  
 क्रमाभ्यां देवीं वागीशीं यथोक्तांस्तुतिलान्‌ हुनेत्‌॥५०॥
-
-
 
 लिपिदेवीसाक्षसूत्रकुम्भपुस्तकपद्मधृक्‌।
 
@@ -3857,8 +3576,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^113]: "स्थिता इति ख० ।"
 
-
-
 राजिलाश्चित्रिताःस्निग्धास्तिर्य्यगूर्द्धञ्चवाजिभिः॥६॥
 
 व्यन्तरा मिश्रचिह्नाश्चभूवर्षाग्नेयवायवः।  
@@ -3896,8 +3613,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 विशाखार्द्रा मघाश्लेषा चित्रा श्रवणरोहिणी॥१६॥
 
 हस्ता मन्दकुजौ वारौ पञ्चमीचाष्टमी तिथिः।
-
-
 
 षष्ठीरिक्ता शिबानिन्द्यापञ्चमीच चतुर्द्दशी॥१७॥
 
@@ -3938,8 +3653,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 कुचमर्दी नखच्छेदीगुदस्पृक्‌ पादलेखकः।
 
-
-
 केशमुञ्चीतृणच्छेदी दुष्टा दूतास्तथैकशः॥२८॥
 
 इड़ान्या वावहेद्देधा यदि दूतस्य चात्मनः।  
@@ -3975,8 +3688,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 तण्डुलाहेम रूप्यञ्च सिद्धयेऽभिमुखा अमी।  
 सकाष्ठःसानलःकारुर्म्मलिनाम्बरभावभृत्॥३९॥
-
-
 
 गलस्थटङ्कोगोमायुगृध्रोलूककपर्द्दिकाः।  
 तैलंकपालकार्पासा निषेधे भस्म नष्टये॥४०॥
@@ -4017,8 +3728,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^119]: "गरुडविलासशिरसे इति ख० ।"
 
-
-
 र्द्दय विमर्द्दय कवचाय अप्रतिहतशासनं वं हूं फट्‌ अस्त्राय उग्ररूपधारक सर्वभयङ्कर भीषय सर्वं दह दह भस्मीकुरु कुरु स्वाहा नेत्राय।
 
  सप्तवर्गान्तयुग्माष्टदिग्दलस्वर केशरादिवर्णरुद्धं वह्निुराभूतकर्णिकं मातृकाम्बुजं।
@@ -4052,8 +3761,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मण्डलादिषु तान्‌ वर्णान्‌ वियतेः कवयो जितान्‌॥११॥
 
 श्रेष्ठद्व्यङ्गुलिभिर्द्देहनाभिस्थानेषु पर्वसु।
-
-
 
 आजानुतः सुवर्णाभमानाभेस्तहिनप्रभम्‌॥१२॥
 
@@ -4091,8 +3798,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 पक्षिपक्षिमहापक्षिमहापक्षिविधि स्वाहा।
 
-
-
 पक्षिपक्षिमहापक्षिमहापक्षिक्षि क्षिस्वाहा।
 
 द्वावेतौपक्षिराड्मन्त्रौविषघ्नावभिमन्त्रणात्‌।
@@ -4129,8 +3834,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
  नमस्ते रुद्रमन्यव इतिसर्म्मार्ज्जनाद्विषंविनश्यति न सन्देहःकर्णजाप्या उपानहावा।
 
-
-
 यजेद्रुद्रविधानेन नीलग्रीवंमहेश्वरं।  
 विषव्याधिविनाशःस्यात्कृत्वा रुद्रविधानकं॥२९॥
 
@@ -4165,8 +3868,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 [^123]: "उत्तरगोनस इति ज०, ट० च ।"
 
 आद्यानान्तिसृणां त्रिष्टुप्‌छन्दोऽनुष्टुव्द्वयोरपि।
-
-
 
 छन्दस्त्रैष्टुभमन्त्यायाःपुरुषोऽस्यापि देवता॥६॥
 
@@ -4205,8 +3906,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^126]: "विषव्याधिविमर्हनमिति ज० ।"
 
-
-
 इँ श्रीँ ह्रीँ ह्रौँ हूँ[^127]त्रौलोक्यमोहनाय विष्णवे नमः।  
 अनुष्टुभं नृसिंहेन विषव्याधिविनाशनं॥१६॥
 
@@ -4240,8 +3939,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
  अग्निरुवाच। ओंनमो भगवतेरुद्राय छिन्द २ विषं ज्वलितपरशुपाणये च। नमो भगवतेपक्षिरुद्राय दष्टकं उत्थापय२ दष्टकं कम्पय२ जल्पय २ सर्प्पदष्टमुत्थापयलल २ बन्ध २ मोचय २ वररुद्र गच्छ २ बध २ त्रुट २ वुक २ भीषय २ मुष्टिना संहर विषं ठ ठ।
 
-
-
 पक्षिररुद्रेण हविषं नाशमायाति मन्त्रणात्‌।
 
  ॐ नमो भगवते रुद्र नाशय विषं स्थावरजङ्गमं कृत्रिमाकृत्रिमविषमुपविषंनाशय नानाविषं दृष्टकविषं नाशय धम २ दम २ वम २ मेघान्धकारधाराकर्षनिर्विषयीभव संहर २ गच्छ २आवेशय २ विषोत्थापनरूपं मन्त्रान्ताद्विषधारणंॐक्षिपॐ क्षिप स्वाहा।
@@ -4269,8 +3966,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 पाननस्याञ्जनाद्यैश्चविषं हन्यान्नसंशयः।  
 कोषातकीवचाहिङ्गुशिरीषार्कपयोयुतं॥६॥
-
-
 
 कुटुत्रयं समेषाम्भो हरेन्नस्यादिनाविषं।  
 रामठेक्ष्वाकुसर्वाङ्गचूर्णं नस्याद्विषापहं॥७॥
@@ -4308,8 +4003,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 व्योषं पिच्छं विडालास्थि नकुलाङ्गरुहैः समैः॥४॥  
 चूर्णितैर्न्मेषदुग्धाक्तैर्धूपः सर्वविषापहः।
 
-
-
 रोमनिर्गुण्डिकाकीलवर्णैर्वा लशुनं समं॥५॥  
 सुनिपत्रैःक्वतस्वेदं दष्टं काञ्जिकपाचितैः।  
 मूषिकाः षोडश प्रोक्ता रसङ्कार्पासजम्पिवेत्॥६॥  
@@ -4340,8 +4033,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सकन्धरं शिरीषास्थि हरेदुन्दूरजं विषं॥११॥  
 व्योषं ससर्पिः पिण्डीतमूलमस्य विषं हरेत्।
 
-
-
 क्षारव्योषवचाडिङ्गु विडङ्गं सैन्धवन्नतं ॥१४॥  
 अम्बष्ठातिबलाकुष्ठं सर्वकीटविषं हरेत्।  
 यष्टिव्योषगुडक्षीरयोगः[^134](१) शूनो विषापहः॥१५॥
@@ -4370,8 +4061,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 त्यधिकद्विशततमोऽध्यायः।
 
 ** \_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 अथाष्टनवत्यधिकद्विशततमोऽध्यायः।
 
@@ -4416,8 +4105,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 र्द्वधारिणी।
 
-
-
 मुष्टिबन्धश्च तच्चेष्टा बलिं मत्स्यादिना हरेत्॥१०॥  
 मेषशृङ्गबलालोध्रशिलातालैः शिशुंलिपेत्।  
 फट्कारी तु ग्रही षष्ठी भयमोहप्ररोदनं ॥११॥  
@@ -4449,8 +4136,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 गोमूत्र
 
 स्नपनं तस्य गोदन्तेन च धूपनम् ॥२०॥
-
-
 
 पीतवस्त्रंददेद्रक्तस्रग्गन्धौतैलदीपकः।  
 त्रिविधं पायसन्मद्यंतिलमासञ्चतुर्व्विधम्॥२१॥
@@ -4486,8 +4171,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 घण्टा पताका पिष्टोक्ता सुरामांसबलिः समे॥३१॥
 
 राक्षस्येकादशीपीड़ा नेत्राद्यं न चिकित्सनम्।
-
-
 
 चञ्चला द्वादशे श्वासः त्रासादिकविचेष्टितम्॥३२॥
 
@@ -4525,8 +4208,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 बलिः स्यात् कृशरापूपशक्तुकुल्मासपायसैः।  
 दशमेऽब्दे कलहंसीदाहोऽङ्गकृशता ज्वरः॥४२॥
 
-
-
 पौलिकापूपदध्यन्नैःपञ्चरात्रं बलिं हरेत्।  
 निम्बधूपकुष्ठलेप एकादशमके ग्रही॥४३॥
 
@@ -4557,8 +4238,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सर्वबालग्रहेषु स्यान्मन्त्रोऽयं सर्वकामिकः॥५०॥  
 ॐ नमो भगवति चामुण्डे मुञ्च मुञ्च बलिं बालिकां वा।
 
-
-
 बलिं गृह्णगृह्ण जय जय वस वस।
 
 सर्वत्र बलिदानेऽयं रक्षाकृत् पठ्यते मनुः।
@@ -4572,8 +4251,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
   अष्टनवत्यधिकद्विशततमोऽध्यायः।
 
 **      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 अथ नवनवत्यधिकद्विशततमोऽध्यायः।
 
@@ -4600,8 +4277,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अवमानं नृणां वैरं विघ्नं भाग्यविपर्य्ययः॥५॥
 
 देवतागुरुधर्म्मादिसदाचारादिलङ्घनम्।
-
-
 
 पतनं शैलवृक्षादेर्विधुन्वन्मूर्द्धजं मुहुः॥६॥
 
@@ -4639,8 +4314,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 स्वनामाद्यन्तु वीजास्ते हस्तौ संशोध्य चास्त्रतः।
 
-
-
 अङ्गुष्ठादौतले नेत्रे हृदाद्यं व्यापकं न्यसेत्॥१७॥
 
 मूलवीजैस्त्रिभिः प्राणध्यायकं न्यस्य साङ्गकम्।  
@@ -4675,8 +4348,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 वृश्चिकालीफलीकुष्ठं लवणानि च शार्ङ्गकम्।  
 अपस्मारविनाशाय तज्जलं त्वभिभोजयेत्॥२८॥
-
-
 
 विदारीकुशकाशेक्षुक्वाथजं पाययेत् पयः।  
 द्रोणे सयष्टिकुष्माण्डरसे सर्पिश्च संस्कृतौ॥२९॥
@@ -4719,8 +4390,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 स्वयं दीर्घस्वराद्यञ्चवीजेष्वङ्गानि सर्वशः।  
 खातं साधु विषञ्चैव सविन्दुं सकलं तथा॥२॥
 
-
-
 गणस्य पश्च वीजानि पृथग्दृष्टफलं महत्।  
 गणं जयाय नमः एकदंष्ट्राय अचल-
 
@@ -4757,8 +4426,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 कृतान्तमैशे निर्म्माल्यंतेजश्चण्डाय दीपितं।  
 रोचना कुङ्कुमं वारि रक्तगन्धाक्षताङ्कुराः॥११॥
-
-
 
 वेणुवीजयवाः शालिश्यामाकतिलराजिकाः।  
 जवापुष्पान्वितां दत्वा पात्रैः शिरसि धार्य्यतत्[^141]॥१२॥
@@ -4800,8 +4467,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वाक्कर्म्मपार्श्वयुक्शुक्रतीककृते मतो प्लवः।  
      हुतान्ता देशवर्णेयं विद्या मुख्या सरस्वती॥१॥
 
-
-
 अक्षाराशी वर्णलक्षंजपेत् स मतिमान् भवेत्।  
 अत्रिः सवह्निर्वामाक्षिविन्दुरिन्द्राय हृत्परः॥२॥
 
@@ -4841,8 +4506,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सशर्क्करयोनिलेपात् कदम्बरसको मधु।  
 सहदेवी महालक्ष्मीःपुत्रजीवीकृताञ्जलिः॥११॥
 
-
-
 एतच्चूर्णं शिरः क्षिप्तं लोकस्य वशमुत्तमम्।  
 त्रिफलाचन्दनक्वाथप्रस्था द्विकुड़वम् पृथक् ॥१२॥
 
@@ -4877,8 +4540,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नाभेरधः समालिप्य प्रसूते प्रमदा सुखम् ॥२२॥
 
 रक्तं शुक्तंजावापुष्पंरक्तशुक्लस्रुतौपिवेत्।
-
-
 
 **केशरं बृहतीमूलं गोपीयष्टितृणोत्पलम् ॥२३॥**
 
@@ -4918,8 +4579,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **तारो मेषो विषं दन्तीनरीदीर्घौ घणा रसः।  
 क्रूद्धोल्काय महोल्काय वीरोल्काय शिखा भवेत्॥३॥**
 
-
-
 ह्यल्काय सहसोल्काय वैष्णवोष्टाक्षरो मनुः।  
 कनिष्ठादितदष्टानामङ्गुलीनाञ्चपर्वसु॥४॥
 
@@ -4954,8 +4613,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 वासुदेवादयः पूज्याश्चत्वारो दिक्षुमूर्त्तयः।  
 विदिक्षुश्रीसरस्वत्यै रतिशान्यै च पूजयेत्॥१४॥
-
-
 
 शङ्खं चक्रं गदांपद्मं मुषलं खङ्गशार्ङ्गिके।  
 वनमालान्वितं दिक्षु विदिक्षुच यजेत् क्रमात् ॥१५॥
@@ -4995,8 +4652,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 गव्येन प्रक्षयेद्दीक्षास्थानं मन्त्रेण चोदितं।  
 तन्त्रसम्भूतसम्भावः शिवमिष्ट्वाविधानतः॥५॥
 
-
-
 मूलमुर्त्त्यङ्गविद्याभिस्तण्डुलक्षेपणादिकम्।  
 कृत्वा चरुञ्च यत् क्षीरं पुनस्तद्विभजेत् त्रिधा॥६॥
 
@@ -5034,8 +4689,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 क्रमात् कृष्णसितश्यामरक्तपीता नगादयः।  
 मन्त्रार्णा दण्डिनाङ्गानि तेषु सर्व्वास्तु मूर्त्तयः ॥१६॥
 
-
-
 अङ्गुष्ठादिकनिष्ठान्तं विन्यस्याङ्गानि सर्व्वतः।  
 न्यसेन्मन्त्राक्षरं पादगुह्यहृद्वक्त्रमूर्द्धसु ॥१७॥
 
@@ -5070,8 +4723,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सिहेश्वरं त्वेकनेत्रंपूर्व्वादौदिशि पूजयेत्॥२७॥
 
 एकरुद्रंत्रिनेत्रञ्च श्रीकण्ठञ्चशिखण्डिनम्।
-
-
 
 ऐशान्यादिविक्ष्वेते विद्येशाःकमलासना[^146]ः॥२८॥
 
@@ -5109,8 +4760,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पुनरुत्पाद्य तत्पाणौ दद्याद्दर्भांश्चमन्त्रितान्।  
 पृथिव्यादीनि तत्त्वानि जुहुयाहृदयादिभिः॥३८॥
 
-
-
 **एकैकस्य शतं हुत्वा व्योममूलेन होमयेत्।  
 हुत्वा पूर्णाहुतिं कुर्य्यादस्त्रेणाष्टाहुतीर्हुनेत् ॥३९॥**
 
@@ -5125,8 +4774,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **नाम त्र्यधिकत्रिशततमोऽध्यायः॥**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **अथ चतुरधिकत्रिशततमोऽध्यायः।**
 
@@ -5149,8 +4796,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कुञ्जाम्रके हृषीकेशं गङ्गाद्वारे जटाधरम्॥४॥
 
 **शालग्रामे महायोगं हरिं गोवर्द्धनाचले।**
-
-
 
 पिण्डारके चतुर्ब्बाहुंशङ्खीद्वारे च शङ्खिनम् ॥५॥
 
@@ -5189,8 +4834,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नामान्येतानि विष्णोश्च जप्त्वासर्वमवाप्नुयात्।  
 क्षेत्रेष्वेतेषु यत् श्राद्धं दानं जप्यञ्चतर्पणम् ॥१६॥
 
-
-
 तत्सर्व्वं कोटिगुणितं मृतो ब्रह्ममयीभवेत्।  
 यः पठेत् शृणुयाद्वापि निर्न्मलःस्वर्गमाप्नुयात् ॥१७॥
 
@@ -5224,8 +4867,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 एवं सहस्रारे हूँफट् आचक्राय स्वाहा हृदयं विचक्राय शिवः।  
 शिखाचक्रायाथ कवचं विचक्रायाथ नेत्रकम्॥५॥
-
-
 
 **सञ्चक्रायास्त्रमुदिष्टं ज्वालाचक्राय पूर्ववत्।  
 शार्ङ्गंसुदर्शनं क्षुद्रग्रहहृत् सर्व्वसाधनम्॥६॥**
@@ -5270,8 +4911,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **सदक्षिणमिदं होमद्वयं भूतादिनाशनम्।**
 
-
-
 **गव्याक्तपत्रलिखितैर्निष्पर्णैः क्षुद्रमुद्धृतम् ॥१६॥  
 दूर्वाभिरायुषे पद्मैःश्रिये पुत्रा उडुम्बरैः।  
 गोसिद्धयैसर्पिषा गोष्ठे मेधायै सर्वशाखिना॥१७॥**
@@ -5295,8 +4934,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **अग्निरुवाच। वक्ष्ये मन्त्रं चतुर्वर्गसिद्धयैत्रैलोक्यमोहनम्।  
  ओं श्रीं ह्रीं हूं ओं नमः पुरुषोत्तमः पुरुषोत्तमप्रतिरूप लक्ष्मीनिवास सकलजगत् क्षोभण सर्वस्त्रीहृदयदारण त्रिभुवनमदोन्मादकर सुरमनुजसुन्दरोजनमनांसि तापय २ दीपय २ शोषय २ मारय २स्तम्भय‍ २ द्रावय२
 आकर्षय २परमसुभग सर्वसौभाग्यकर कामप्रद अमुकं हन २ चक्रेण गदया खङ्गेण सर्व्व-**
-
-
 
 वाणैर्भिद २पाशेन हट्ट २ अङ्कुशेन ताड़य २
 
@@ -5334,8 +4971,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ध्यात्वामृतैर्वहिश्चान्तः सुषुम्नामार्गगामिभिः।  
 एवं शुद्धवपुः प्राणानायम्य मनुना विधा ॥८॥
 
-
-
 विन्यसेत्र्यस्तहस्तान्तः शक्तिं मस्तकवक्त्रयोः।  
 गुह्ये गले दिक्षु हृदि कुक्षौदेहे च सर्व्वतः॥१०॥
 
@@ -5370,8 +5005,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
  ओं सुदर्शन महाचक्रराज दुष्टभयङ्कर छिद २ छिन्द २ विदारय २ परममन्त्रान् ग्रस २ भक्षय २ भूतानि चाशप २ हूँ
 
-
-
 फट् ओं जलचराय स्वाहा। खड्गतीक्ष्ण छिन्द २ खड्गाय नमः। शारङ्गाय मशराय हूं फट्। भूतग्रामाय विद्महे चतुर्व्विधाय धीमहि तन्नोब्रह्म प्रचोदयात्। सम्बर्त्तक श्वसन पोथय २ हूँ
 
 फट् स्वाहा। पाश बन्ध२ आकर्षय २ हूँ फट्। अङ्गुशेन कट्ट हूँफट्।
@@ -5403,8 +5036,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 [^150]: "फलपुष्पाद्यैरिति ट० ।"
 
 तयाभिषेकहोमादिक्रियातुष्टो ह्यभीष्टदः।
-
-
 
  ओं नमो भगवते वराहाय भूर्भुवः स्वःपतये भूपतित्वं मे देहि हृदयाय स्वाहा।
 
@@ -5447,8 +5078,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 विल्वलक्षहुता लक्ष्मीर्वित्तवृद्धिश्चजायते।  
 शक्रवेश्म चतुर्द्वारं हृदये चिन्तयेदथ॥५॥
 
-
-
 बलाकां वामनां श्यामां श्वेतपत्रजधारिणीम्।  
 ऊ
 
@@ -5481,8 +5110,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 बिल्वाज्याञ्जपायसेन पृथग् योगः श्रिये भवेत् ॥१६॥  
 विषं महिषकालाग्निरुद्रिज्योतिर्वकद्वयम्।
 
-
-
  
 
 ओंह्रीं महामहिषमर्द्धिनि ठ ठ मूलमन्त्रंमहिषहिंसके नमः। महिषशत्रुं भ्रामय २
@@ -5511,8 +5138,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 इत्याग्नेये महापुराणे त्रैलोक्यमोहनीलक्ष्मादिपूजा नामसप्ताधिकत्रिशततमोऽध्यायः।
 
-
-
 **अथाष्टाधिकत्रिशततमोऽध्यायः।**
 
 \_\_\_\_\_\_\_\_\_\_\_
@@ -5536,8 +5161,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सिंहासनस्था मायूरवर्हच्छत्रसमन्विता ॥४॥
 
 त्रिनेत्रा श्यामला देवी वनमालाविभूषणा।
-
-
 
 विप्राहिकर्णाभरणा क्षत्रकेयूरभूषणा ॥५॥
 
@@ -5578,8 +5201,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 त्रिलक्षजप्यात्सर्व्वाप्तिर्होमाद्ध्यानात्तथेज्यया।  
 मण्डलेऽभ्यर्च्च्यगायत्र्याआहुतीः पञ्चविंशतिम् ॥१६॥
 
-
-
 दद्याछतत्रयं मूलात् पल्लवैर्दीक्षितो भवेत्।  
 पञ्चगव्यं पुरा पीत्वा चरुकं प्राशयेत्सदा ॥१७॥
 
@@ -5616,8 +5237,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पूजनाच्छत्रुनाशः स्याद्राष्ट्रं नयति लीलया।  
 दीर्घायूराष्ट्रभूतिः स्याद्दिव्यादिव्यादिसिद्धिभाक्॥६॥
 
-
-
 तलेतिसप्तपातालाः कालाग्निभुवनान्तकाः।  
 ओं कारादिस्वरारभ्य यावद्ब्रह्मण्डवाचकम्॥७॥
 
@@ -5653,8 +5272,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पञ्चस्वरसमारूढं ओष्ठसम्पुटयोगतः।  
 द्वितीयमक्षरञ्चान्यज्जिह्वाग्रे तालुयोगतः॥१७॥
 
-
-
 प्रथमं पञ्चमे योज्यं स्वरार्द्वेनीद्धृता इमे।  
 ओंकाराद्या नमोन्ताश्चजपेत् स्वाहाग्निकार्य्यके॥१८॥
 
@@ -5687,8 +5304,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 हृदादिकन्यासादौस्थान् मध्ये नेत्रे न्यसेत्सुधीः॥२६॥
 
 पादादारभ्य मूर्द्धान्तं शिर आरभ्य पादयोः।
-
-
 
 अङ्गिजानूरुगुह्ये च नाभिहृत्कण्ठदेशतः॥२७॥
 
@@ -5725,8 +5340,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 त्रीणि त्रीणि प्रसार्य्येति[^154]वच्चमुद्रा प्रकीर्त्तिता।
 
 [^154]: "प्रसार्य्या चेति ट० ।"
-
-
 
 दण्डःखड्गञ्चक्रगदा मुद्रा चाकारतः स्मृता ॥३८॥
 
@@ -5768,8 +5381,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ज्रस्य मध्यमं शृङ्गं वाह्यरेखा द्विधार्द्धतः।  
 वाह्यरेखा भवेद्वक्राद्विभङ्गा कारयेद्बुधः॥४॥
 
-
-
 मध्यकोष्ठं भवेत्पद्मं पीतकर्णिकमुज्ज्वलम्।  
 कृष्णेन रजसा लिख्य कुलिशासिशिरोर्द्वता॥५॥
 
@@ -5808,8 +5419,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 [^158]: "नीत्वेति ञ०।"
 
 [^159]: "श्रियमिति ञ०।"
-
-
 
 अष्टाभिर्वेष्टयेत् कुम्भैर्म्मन्त्राष्टशतमन्त्रितैः ॥ १४ ॥
 
@@ -5861,8 +5470,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 यथा जले जलं क्षिप्तं जलं देही शिरस्तथा ॥ २५ ॥
 
-
-
 कुम्भैः कुर्य्याच्चाभिषेकं जयराज्यादिसर्व्वभाक्।  
 कुमारिब्राह्मणीपूज्यागुर्व्वादेर्दक्षिणां ददेत् ॥२६॥
 
@@ -5910,8 +5517,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नीलेन वाथ वस्त्रेण देवीं तैरेव चार्च्चयेत्।  
 व्रजेद्दक्षिणदिग्भागं द्वारे दद्याद्बलिं बुधः॥३५॥
 
-
-
 दूतीमन्त्रेणद्वारादौ एकवृक्षेश्मशानके ।  
 एवञ्चसर्व्व कामाप्तिर्भुक्ते सर्व्वां महीं नृपः ॥ ३६ ॥
 
@@ -5948,8 +5553,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 प्रस्तावक्रमयोगेन प्रस्तावं यस्तु विन्दति ।  
 करमुष्टिस्थितास्तस्य साधकस्य हि सिद्धयः ॥ ७ ॥
-
-
 
 त्रैलोक्यं पादमूले स्यान्नवखण्डां भुवं लभेत्।  
 कपाले तु समालिख्य शिवतत्त्वं समन्ततः॥८॥
@@ -5988,8 +5591,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^163]: "वज्रतुण्डसमन्वित इति ड० ।"
 
-
-
 कुष्ठाद्या व्याधयो ये तु नाशयेत्तान्नसंशयः।  
 मध्यादि उत्तरान्तन्तु करालीबन्धनाज्जपेत्॥१९॥
 
@@ -6024,8 +5625,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 \_\_\_\_\_\_\_\_\_\_
 
-
-
 **अथ द्वादशाधिकत्रिशततमोऽध्यायः।**
 
 ———ooo@ooo———
@@ -6039,8 +5638,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वक्ष्येयजेदाधारशक्तिकम्।  
 
    धर्म्माद्यष्टककन्दञ्च नालं पद्मञ्च कर्णिकाम्॥१॥
-
-
 
 केशरं त्रिगुणं पद्मंतीव्रञ्चज्वलिनींयजेत्।  
 
@@ -6088,8 +5685,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 विभ्रत्यभयपुस्तञ्च वामे वरदमालिकाम्।
 
-
-
 मूलेन हृदयादि स्याज्जालपूर्णञ्च कामकम् ॥१२॥
 
 गोमध्ये नाम संलिख्य चाष्टपत्रे च मध्यतः।  
@@ -6135,8 +5730,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 पवनवेगा भुवनपाला वै सर्व्वसिद्धिदा ।
 
-
-
 **अनङ्गमदनानङ्गमेखलान्ताञ्जपेच्छ्रिये॥२२॥**
 
 **पद्ममध्यदलेषु ह्रीँ स्वरान् कादींस्ततः स्त्रियाः।  
@@ -6174,8 +5767,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **इत्याग्नेये महापुराणे नानामन्त्रा नाम द्वादशाधिक-**
 
 **त्रिशततमोऽध्यायः।**
-
-
 
 अथ त्रयोदशाधिकत्रिशततमोऽध्यायः।  
 
@@ -6216,8 +5807,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ऐशादावम्बुपादौ च यमराज्यञ्च वाह्यतः।  
 कालीनारवमाली कालीनामाक्षमालिनी॥८॥
 
-
-
 मामोदेतत्तदोमोमा रक्षत स्वस्व भक्षवा।  
 यमपाटटयामय मटमो टट मोटमा॥९॥
 
@@ -6251,8 +5840,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ओमाद्याह्रुँफडन्ता च आदिवर्णमथानुतः॥१८॥
 
 **विद्यावर्णक्रमेनैव संज्ञाञ्च वषडन्तिकां।**
-
-
 
 अधस्थात् प्रत्यङ्गिरैषा सर्व्वकामार्थसाधिका॥१९॥
 
@@ -6291,8 +5878,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **चतुष्पादेषु क्रींकारं ह्रींकारं मुखमध्यतः।  
 गर्भे विद्यां ततो लिख्य साधकं पृष्ठतो लिखेत्॥३॥**
 
-
-
 मालामन्त्रैस्तु संवेष्ट्य इष्टकोपरि सन्न्यसेत्।  
 पिधाय कूर्म्मपृष्ठेन करालेनाभिसम्पठेत्॥४॥
 
@@ -6325,8 +5910,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 गोखुरञ्च तथा शृङ्गमश्वस्य च खुरं तथा॥१०॥
 
 शिरः सर्पस्य संक्षिप्तंगृहेषूच्चाटनं भवेत्।
-
-
 
 करवीरशिफा पीता ससिद्धार्था च मारणे॥११॥
 
@@ -6370,11 +5953,7 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 —
 
-
-
 —
-
-
 
 —
 
@@ -6386,8 +5965,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वर्गातीतविसर्गेण स्त्रींहूंक्षेपफड़न्तिका॥१॥
 
 **सर्व्वकर्म्मकरी विद्या विषसधादिमर्द्दनी।**
-
-
 
 ॐ
 
@@ -6430,8 +6007,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^170]: "अतिरूपमिति ख०।"
 
-
-
 सदाशिवस्य शब्दस्य रूपस्याखिलसिद्धये॥२॥
 
 अमृतश्चांशुभांश्चेन्दुश्चेश्वश्चोग्र ऊहकः।  
@@ -6467,8 +6042,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 चतुर्थन्तु शिरो विद्धिईश्वरन्नामनामतः॥१२॥
 
 ऊहकन्तु शिखा ज्ञेया विश्वरूपसमन्विता।
-
-
 
 तन्मन्त्रमष्टमं ख्यातं नेत्रन्तु दशमं मतम्॥१३॥
 
@@ -6508,8 +6081,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 नरसिंहं कृतान्तस्थंतेजस्विप्राणमूर्धगम्।
 
-
-
 अंशुमानूहकाक्रान्तमधोर्द्धंस्वसलङ्घृतम्॥२४॥
 
 चन्द्रार्धनादनादान्तंब्रह्मविष्णुविभूषितम्।  
@@ -6543,8 +6114,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 शिखण्डिनोऽप्यनन्तान्तंमन्त्रान्तं मूर्त्तिरीरिता॥३४॥
 
 इत्याग्नेये महापुराणे सकलादिमन्त्रोद्धारो नाम षोड़शाधिकत्रिशततमोऽध्यायः।
-
-
 
 अथ सप्तदशाधिकत्रिशततमोऽध्यायः।
 
@@ -6598,8 +6167,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 चतुष्पदं त्रिकोणे तु त्रिदलं कमलं लिखेत्।
 
-
-
 तत्पृष्ठे पदिकाविथीभागि त्रिदलमश्वयुक्॥८॥
 
 वसुदेवसुतैः साब्जैस्तिदलैः पादपट्टिका।  
@@ -6634,8 +6201,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **लयं दूत्यप्रियं लौल्यं विकर्णं वत्सलं तथा।  
 कृतान्तं कालदण्डञ्च यजेत् कुम्भञ्च पूर्व्ववत्॥१९॥**
-
-
 
 श्रयुतञ्चजपेन्मन्त्रं होमयेत्तु दशांमतः।  
 शेषाणान्तु दशाहुत्या जपाद्धोमन्तु कारयेत्॥२०॥
@@ -6674,8 +6239,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^177]: "कृतमिति ख०।"
 
-
-
 वीथिका पदिका कार्य्यापद्मान्यष्टौ चतुष्पदे।  
 वीथिका पदिका वाह्ये द्वाराणि द्विपदानि तु॥६॥
 
@@ -6712,8 +6275,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 चित्रास्वात्यन्तरेणाथ दृष्टसूत्रेण वा पुनः।  
 पूर्वापरायतं सुत्रमास्फाल्यमध्यतोऽङ्कयेत्॥२॥
 
-
-
 कोटिद्वयन्तु तन्मध्यादङ्कयेद्दक्षिणोत्तरम्।  
 मध्ये द्वयं प्रकर्त्तव्यं स्फालयेद्दक्षिणोत्तरम्॥३॥
 
@@ -6748,8 +6309,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 भागद्वयपरित्यागाद्वस्वंशैर्वर्त्तयेद्दलम्॥१२॥
 
 **सन्धिविस्तृरसूत्रेण तमूलादञ्जयेद्दलम्।**
-
-
 
 सव्यासव्यक्रमेणैव वृद्धमेतद्भवेत्तथा॥१४॥
 
@@ -6787,8 +6346,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अष्टहस्तं पुरा क्षेत्रंरसपक्षैर्विवर्त्तयेत्।**
 
-
-
 द्विपदं कमलं मध्ये वीथिका पदिका ततः॥२५॥
 
 दिग्विदिक्षु ततोऽष्टौ च नोलाब्जानिविवर्त्तयेत्।  
@@ -6824,8 +6381,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 चतुर्हस्तं पुरं कृत्वा वृत्रञ्चैव करद्वयम्॥३५॥
 
 वीथिका हस्तमात्रन्तु स्वस्तिकैर्वहुभिर्वृता।
-
-
 
 हस्तमात्राणि द्वाराणि दिक्षु वृत्तं सपद्मकम्॥३६॥
 
@@ -6863,8 +6418,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 देव्यादिख्यापकं भद्रं वृहन्मध्ये परं लघु।
 
-
-
 मध्ये नवपदं पद्मं कोणे भद्रचतुष्टयम्॥४७॥
 
 त्रयोदशपदं शेषं बुद्ध्याधारन्तु मण्डलं।  
@@ -6900,8 +6453,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **घृतेन लक्षपातेन उत्पाते भूमिजे हितम्।  
 घृतगुग्गुलुहोमे च सर्व्वोत्पातादिमर्द्दनम्॥६॥**
 
-
-
 दूर्वाक्षताज्यहोमेन व्याधयोऽथ घृतेन च।  
 सहस्रेण तु दुःखस्वप्ना विनशन्ति न संशयः॥७॥
 
@@ -6934,10 +6485,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 इत्याग्नेये महापुराणे अघोरास्त्रादिशान्तिकल्पो नाम विंशत्यधिकत्रिशततमोऽध्यायः।
 
-
-
-
-
 अथैकविंशत्यधिकत्रिशततमोऽध्यायः।
 
 ![](../books_images/U-IMG-1734485244Capture.PNG)
@@ -6953,8 +6500,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 फट्।दण्डाय फट्। यमाय फट्। खङ्गाय फट्। वारुणाय फट्। पाशाय फट्। ध्वजाय फट्। अङ्कुशाय फट्। गदायै फट्।कुवेराय फट।त्रिशूलाय फट्।मुद्गराय फट्। चक्राय फट्। पद्माय फट्। नागास्त्राय फट्।ईशानाय फट। खेटकास्त्राय फट्। मुण्डास्त्राय फट्। कङ्कालास्त्राय फट्। पिच्छिकास्त्राय फट। क्षुरिकास्त्राय फट्। ब्रह्मास्त्राय फट्। शक्त्यस्त्राय फट्। गणास्त्राय फट्। पिलिपिच्छास्त्राय फट। गन्धर्वास्त्राय फट्। मूर्व्वास्त्राय फट्।दक्षिणास्त्राय फट्। वामास्त्राय फट्। पश्चिमास्त्राय फट्। मन्त्रास्त्राय फट्। शाकिन्यस्त्राय
 
-
-
 फट्। योगिन्यस्त्राय फट्। दण्डास्त्राय फट। महादण्डास्त्राय फट्। नानास्त्राय फट्। शिवास्त्राय फट्। ईशानास्त्राय फट्। पुरुषास्त्राय फट्। अघोरास्त्राय फट्। सद्योजातास्त्राय फट्। हृदयास्त्राय फट्। महास्त्राय फट्।गरुड़ास्त्राय फट्।रक्षसास्त्राय फट्। दानवास्त्राय फट्। क्षौंनरसिंहास्त्राय फट्। त्वष्ट्रस्त्राय फट्। सर्व्वास्त्राय फट्। नः फट्। वः फट्। पः फट्। फः फट्। मः फट्। श्री फट्। फेःफट्। भूः फट्। भुवः फट्। स्वःफट्। महः फट्। जनः फट्। तपः फट्। सर्व्वलोक फट्। सर्व्वपाताल फट्। सर्वतत्त्व फट्। सर्वप्राण फट्। सर्वनाड़ी फट। सर्वकारण फट्। सर्वदेव फट्। ह्रीँ फट्। श्रीं फट्।हूं फट्। स्रुं फट्। स्वांफट्। लां फट्। वैराग्याय फट् \। मायास्त्राय फट्। कामास्त्राय फट। क्षेत्रपालास्त्राय फट्। हूंकारास्त्राय फट्। भास्करास्त्राय फट्। चन्द्रास्त्राय फट्। विघ्नेश्वरास्त्राय फट्। ख्रोंख्रौंफट्। ह्रींह्रींफट्। भ्रामय २ फट्। छादय २ फट्। उन्मूलय २ फट्। त्रासय २ फट्। सञ्जीवय २ फट्। विद्रावय २ फट्। सर्व्वदुरितं नाशय २ फट्॥
 
 सकृदावर्त्तनादेव सर्वविघ्नान् विनाशयेत्।  
@@ -6966,8 +6511,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 [^183]: "असाध्यमपीति ख०।"
 
 इत्याग्नेये महापुराणे पाशुपतशान्तिर्नामैकविंशत्यधिकत्रिशततमोऽध्यायः।
-
-
 
 अथ द्वाविंशत्यधिकत्रिशततमोऽध्यायः।
 
@@ -7005,8 +6548,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अनेन मन्त्रराजेन क्षालयित्वा तु तण्डुलान्॥७॥**
 
-
-
 त्रिंशद्वारानि जप्तानि तच्चौरेषु प्रदापयेत्।  
 दन्तैश्चूर्णानि शुक्लानि पतितानि हि शुद्धये॥८॥
 
@@ -7037,8 +6578,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पालाशवीजपानेन लमेत पुत्रकन्तथा।
 
  ॐ उत्तिष्ठ चामुण्डेजम्भय २ मोहय २ अमुकं वशमानय २ स्वाहा।
-
-
 
 षड्विंशा सिद्धविद्या सा नदीतीरमृदा स्त्रियम्॥१५॥
 
@@ -7073,8 +6612,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
  ॐ नमः परमात्मने पराय कामदाय परमेश्वराय योगाय योगसम्भवाय सर्व्वकराय कुरु‍ २ सत्य र भव २ भवोद्भव वामदेव सर्व्वकार्य्यकर पापप्रशमन सदाशिव प्रसन्न नमोऽस्तु ते स्वाहा॥
 
-
-
 हृदयं सर्व्वार्थदन्तु सप्तत्यक्षरसंयुतं।
 
  ॐ शिवः शिवाय नमः शिवः। ॐ हृदये ज्वालिनि स्वाहा शिखा। ॐ शिवात्मक महातेजः सर्व्वज्ञ प्रभुरावर्त्तय महाघोर कवच पिङ्गल नमः। महाकवच शिवाज्ञया हृदयं बन्ध २ घूर्णय २ चूर्णय २ सूक्ष्मवज्रधर वज्रपाश धनुर्वज्राशनिवज्रशरीर मम शरीरमनुप्रविश्य सर्व्वदुष्टान् स्तम्भय २हूं।
@@ -7107,8 +6644,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्रायश्चित्तमघौघार्त्तौदौर्भाग्यार्त्तिविनाशनम्॥३॥
 
 एकवीरन्तु विन्यस्य ध्येयः पञ्चमुखः सदा।
-
-
 
 शान्तिके पौष्टिके शुक्लोरक्तो वश्येऽथ पीतकः॥४॥
 
@@ -7144,13 +6679,9 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^188]: "नियताविति ञ, ट० च।"
 
-
-
  एकपिङ्गलाय श्वेतपिङ्गलाय कृष्णपिङ्गलाय नमः। मधुपिङ्गलाय नमः मधुपिङ्गलाय नियतौ अनन्ताय आद्रार्यशुष्काय पयोगणाय। कालतत्त्वे। करालाय विकरालाय। द्वौमायातत्त्वे। सहस्रशौर्षाय सहस्रवक्त्राय सहस्रकरचरणाय सहस्रलिङ्गाय। विद्यातत्त्वे। सहस्राक्षाद्विन्यसेद्दक्षिणे दले। एकजटाय द्विजटाय त्रिजटाय स्वाहा। काराय स्वधाकाराय वषट्काराय षड्रुद्राय।ईशतत्त्वे तु वह्निपत्रे स्थिता गुह। भूतपतये पशुपतये उमापतये कालाधिपतये। सदाशिवाध्यक्ष्यतत्त्वे षट् पूज्याः पूर्वदले स्थिताः। उमायैकुरूपधारिणि ॐ कुरु २ रुहिणि २ रुद्रोसि देवानां देवदेवविशाख हन२ दह २ पच २ मथ २ तुरु २ अरु २ सुरु २[^189]रुद्रशान्तिमनुस्मर कृष्णपिङ्गल अकालपिशाचाधिपतिविश्वेश्वराय नमः। शिवतत्त्वे कर्णिकायां पूज्यौमामहेश्वरौ। ॐ व्योमव्यापिने व्योमरूपाय सर्वव्यापिने शिवाय अनन्ताय अनाथाय अनाश्रिताय शिवाय। शिवतत्त्वे नव पदानि व्योमव्याप्यभिधास्यहि। शाश्वताय योगपीठसंस्थिताय नित्यं योगिने ध्यानाहाराय नमः। ॐ नमःशिवाय सर्वप्रभवे शिवाय ईशानमूर्द्धाय तत्पुरुषादिपञ्चवक्त्राय नवपदं पूर्वदले सदाख्ये पूजयेद्गुह। अधोरहृदयाय वामदेवगुह्याय सद्योजातमूर्त्तये। ॐ नमो नमः। गुह्यातिगुह्याय गोप्त्रेअनिधनाय सर्व्वयोगाधिकृताय ज्योतीरूपाय अग्निपत्रे हीशतत्त्वे विद्यातत्त्वे द्वेयाम्यगे परमेश्वराय चेतनाचेतन व्योमन व्यापिन प्रथम तेजस्तेजः मायातत्त्वे नैर्ऋते कालतत्त्वे
 
 [^189]: "सुरु२इति ञ०।"
-
-
 
 ऽथ वारुणे।ॐ धृ धृनाना वां वां अभिधान निधनोद्भव शिव सर्वपरमात्मन् महादेव सद्भावेश्वर महातेज योगाधिपते मुञ्च २ प्रमथ २ ॐ सर्व २ ॐ भव २ॐभवोद्भव। सर्वभूतसुखप्रद वायुपत्रेऽथ निय़तौपुरुषे चोत्तरेन च। सर्वसान्निध्यकर ब्रह्मविष्णुरुद्रपर अनर्चित अस्तुतस्तु च साक्षिन२तुरु२पतङ्ग पिङ्ग‍२ ज्ञान२शब्द२सूक्ष्म२ शिव२सर्वप्रद२ॐ नमः शिवाय ॐ नमो नमः शिवाय ॐ नमो नमः।
 
@@ -7179,8 +6710,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 हैमी वा मुद्रिका धार्य्या[^190]शिवमन्त्रेण चार्च्च्यतु॥३॥
 
 [^190]: "कार्य्येति ख०।"
-
-
 
 शिवः शिखा तथा ज्योतिः सवित्रश्चेतिगोचराः।  
 गोचरन्तु कुलं ज्ञेयं तेन लक्ष्यस्तु दौचितः॥४॥
@@ -7217,8 +6746,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^191]: "विष्ण्वंश इति ञ०।"
 
-
-
 रुद्रांशको भवेद्वीर इन्द्रांशश्चेश्वररप्रियः।  
 नागांशोनागस्तब्धाक्षो यक्षांशोभूषणप्रियः॥१५॥
 
@@ -7250,8 +6777,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वायौ स्याद् भ्रमणं शून्ये पुण्यं कालं समभ्यसेत्॥२३॥
 
 इत्याग्नये महापुराणे अंशकादिर्नाम चतुर्विंशत्यधिकत्रिशततमोऽध्यायः।
-
-
 
 अथ पञ्चविंशत्यधिकत्रिशततमोऽध्यायः।
 
@@ -7291,8 +6816,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 ललिता सुभगा गौरी क्षोभणी चाग्नितः क्रमात्।
 
-
-
 वामा ज्येष्ठा क्रिया जाना वृत्ते पूर्व्वादितो यजेत्॥९॥
 
 सपीठे वामभागे तु शिवस्याव्यक्तरूपकम्।  
@@ -7328,8 +6851,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नैवेद्यं शिवभक्तेषु दद्यान्नस्वयमाचरेत्॥१९॥**
 
 [^195]: "स्त्रियो वाष्ट च भोजयेदिनि ख०, छ० च।"
-
-
 
 कन्यार्थौलभते कन्यां अपुत्रः पुत्रमाप्नुयात्।  
 दुर्भगा चैव सौभाग्यं राजा राज्यं जयं रणे॥२०॥
@@ -7367,8 +6888,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **व्रतेश्वरांश्चसत्यादीनिष्ट्वा व्रतसमर्पणम्।  
 अरिष्टशमने शस्तमरिष्टं सुत्रनायकम्॥१॥**
 
-
-
 हेमरत्रमयं भूत्यै महाशङ्खञ्चमारणे।  
 आप्यायने शङ्खसूत्रं मौक्तिकं पुत्रवर्द्धनम्॥२॥
 
@@ -7403,8 +6922,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 लिङ्गार्च्चनाद्भुक्तिमुक्तिर्यावज्जीवमतो यजेत्।  
 वरं प्राणपरित्यागो भुञ्जीतापूज्य नैव तं॥१२॥
-
-
 
 रुद्रस्य पूजनाद्रुद्रो विष्णुः स्याद्विष्णुपूजनात्।  
 सूर्यःस्यात् सूर्यपूजातः शक्त्यादिःशक्तिपूजनात्॥१३॥
@@ -7442,8 +6959,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **इन्दो वक्ष्येमूलजैस्तैः पिङ्गलोक्तं यथाक्रमम्।  
 सर्व्वादिमध्यान्तगणौ म्लौद्वौजौस्तौत्रिकौगणाः॥१॥**
 
-
-
 ह्रस्वो गुरुर्व्वा पादान्ते पूर्वोयोगाद् विसर्गतः।  
 अनुस्वाराद्व्यञ्जनात् स्थात् जिह्वामूलीयतस्तथा॥२॥
 
@@ -7478,8 +6993,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ऋग्यजुषां संज्ञाः स्युश्चतुःषष्टिपदे लिखेत्॥५॥
 
 इत्याग्नेये महापुराणे छन्दःसारो नामाष्टाविंशत्यधिकत्रिशततमोऽध्यायः।
-
-
 
 अथोनत्रिंशदधिकत्रिशततमोऽध्यायः।
 
@@ -7516,8 +7029,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **तृतीयः पथ्या भवति द्वितीयान्यंकुसारिणी।  
 स्कन्धौग्रीवा क्रौष्टुके स्याद् यक्षेस्यद्वोवृहत्यपि॥९॥**
 
-
-
 उपरिष्टाद्वृहत्यन्तेपुरस्ताद्वृहती पुनः।  
 क्वचिन्नवकाश्चत्वारो दिग्विदिक्ष्वष्टवर्णिकाः॥१०॥
 
@@ -7553,8 +7064,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 गान्धारो मध्यमश्चैव पञ्चमो धैवतस्तथा।  
 निषादवर्णाः श्वेतश्चसारङ्गश्च पिसङ्गकः॥२०॥
 
-
-
 कृष्णो नीलो लोहितश्च गौरीगायत्रिमुख्यके।  
 गोरोचनाभाः कृतयो ज्योतिश्छन्दो हि श्यामलं॥२१॥
 
@@ -7589,8 +7098,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 चतुर्भागो भवेत् पादो गणच्छन्दः प्रदर्श्यते।  
 तावन्तः समुद्रा गणा ह्यादिमध्यान्तसर्वगाः॥५॥
-
-
 
 चतुर्णः पञ्च च गणा आर्य्यालक्षणमुच्यते।  
 स्वरार्द्धञ्चार्य्यार्द्धंस्यादार्य्यायां विषमेन जः॥६॥
@@ -7628,8 +7135,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 विश्वोकः पञ्चमाष्टौ मो चित्रा लवमकश्चलः।
 
-
-
 परयुक्तेनोपचित्रापादाकुलकमित्यतः॥१७॥
 
 गीतार्य्या लोपश्चेत् सौम्या लःपूर्वः[^201] ज्योतिरीरिता।  
@@ -7665,8 +7170,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 विपरीतपथ्यान्यासाच्चपला वा युजस्वनः।  
 विपुलायुग्नसप्तमः सर्व्वं तस्यैव तस्य च॥४॥
-
-
 
 तौन्तौवा विपुलानेका चक्रजातिः समीरिता।  
 भवेत् पदचतुरुर्द्धंचतुर्वृद्ध्यापदेषु च॥५॥
@@ -7705,8 +7208,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 वेगवतीससमगा भभभगोगथो स्मृताI
 
-
-
 रुद्रविस्तारस्तोसभगासमजागोगथा स्मृता॥२॥
 
 रजसागोगथोद्रोणौगोगौवै केतुमत्यपि।  
@@ -7742,8 +7243,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **स्याद्भुजङ्गशिशुसुतानौ मेहनं मरुतं ननौ।  
 भवेच्छुद्धविराड्वृत्तं प्रतिपादं समौ जगौ॥३॥**
-
-
 
 पणवोमलयेामः[^204]स्याज्जौगौमयूरसारिणी।  
 सत्तामभसगा वृत्तं भजताद्युपरिस्थिता॥४॥
@@ -7782,8 +7281,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^207]: "विश्वदेवीति ख०।"
 
-
-
 नजौ भयौ प्रतिपादं गणा यदि जगत्यपि॥१३॥
 
 प्रहर्षणीमवजवा गोपतिर्वह्निदिक्षु च।  
@@ -7819,8 +7316,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **रथाः स्वराः प्रतिरथससजाः सतताश्च गः।  
 शार्दूलविक्रीड़ितं स्यादादित्यमुनयो यतिः॥२३॥**
-
-
 
 कृतिः सुवदना मोरो भनया भनगाः सुराः।  
 यतिर्मुनिरसाश्चाथ इति वृत्तं क्रमात् स्मृतम्॥२४॥
@@ -7862,8 +7357,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 छन्दोऽत्र सिद्धं गाथा स्यात् पादे सर्व्व गुरौ तथा।  
 प्रस्तार आद्यगाथोनः परतुल्योऽथ पूर्व्वगः॥१॥
 
-
-
 नष्टमध्ये समेऽङ्केनः समेऽर्द्धविषमे गुरुः।  
 प्रतिलोमगुणं नाद्यंद्विरुद्दिष्टग एकनुत्॥२॥
 
@@ -7902,8 +7395,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 मनः कायाग्निमाहन्ति स प्रेरयति मारुतम्।
 
-
-
 मारुतस्तूरसि चरन् मन्त्रं[^213]जनयति स्वरं॥५॥
 
 [^213]: "मात्रमिति ख०।"
@@ -7941,8 +7432,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 एवं वर्णाः प्रयोक्तव्या नाव्यक्ता न च पीड़िताः।
 
-
-
 सम्यग्वर्णप्रयोगेण ब्रह्मलोके महीयते॥१५॥
 
 उदात्तश्चानुदात्तश्च स्वरितश्च स्वरास्त्रयः।  
@@ -7969,9 +7458,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे शिक्षानिरूपणं नाम पञ्चत्रिंशदधिकत्रिशततमोऽध्यायः।
 
 —————  
-
-
-
 
 अथ षट्त्रिंशदधिकत्रिशततमोऽध्यायः।
 
@@ -8010,8 +7496,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अल्पाल्पविग्रहं नातिमृदुसन्दर्भनिर्भरं।**
 
-
-
 चूर्णकं नामतो दीर्घसमासात् कलिका भवेत्॥१०॥
 
 भवेन्मध्यमसन्दर्भन्नातिकुत्सितविग्रहम्।  
@@ -8046,8 +7530,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 पद्यं चतुष्पदी तच्च वृत्तंजातिरितित्रिधा।  
 वृत्तमक्षरसंख्येयमुक्थं तत् कृतिशेषजम्॥२१॥
-
-
 
 **मात्राभिर्गणना यत्र सा जातिरिति काश्यपः[^217]।  
 सममर्धसमं वृत्तं विषमं पैंङ्गलं त्रिधा॥२२॥**
@@ -8086,8 +7568,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **तमसा मरुताप्यन्यैर्विभावैरतिनिर्भरैः।**
 
-
-
 **सर्व्ववृत्तिप्रवृत्तञ्च सर्व्वभावप्रभावितम्॥३१॥**
 
 **सर्व्वरीतिरसैः पुष्टं[^221]पुष्टङ्गुणविभूषणैः।**  
@@ -8117,8 +7597,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे अलङ्कारे काव्यादिलक्षणं नाम षट्त्रिंशदधिकत्रिशततमोऽध्यायः।
 
 **\_\_\_\_\_\_\_**
-
-
 
 **अथ सप्तत्रिंशदधिकत्रिशततमोऽध्यायः।**
 
@@ -8158,8 +7636,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **नान्द्यन्ते सूत्रधारोऽसौ रूपकेषु निबध्यते।**  
 **गुरुपूर्वक्रमं वंशप्रशंसा पौरुषं कवेः॥१०॥**
 
-
-
 **सम्बन्धार्थौ च काव्यस्य पञ्चैतानेष निर्द्दिशेत्।**  
 **नटी विदूषको वापि पारिपार्श्विक एव वा॥११॥**
 
@@ -8194,8 +7670,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तथा निर्व्वहणञ्चेति क्रमात् पञ्चैव सन्धयः॥२१॥**
 
 **अल्पमात्रं समुद्दिष्टं बहुधा यत् प्रसर्पति।**
-
-
 
 **फलावसानं यच्चैव वीजं तदभिधीयते॥२२॥**
 
@@ -8235,8 +7709,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **व्यक्तिः सा तस्य चैतन्यचमत्काररसाह्वया॥२॥**
 
-
-
 **आद्यस्तस्य विकारो यः सोऽहङ्कार इति स्मृतः।**  
 **ततोऽभिमानस्तत्रेदं समाप्तं भुवनत्रयं॥३॥**
 
@@ -8272,8 +7744,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **हर्षादिभिश्च मनसो विकाशी हास उच्यते।**
 
-
-
 **चित्रादिदर्शनाच्चेतोबैक्लव्यं ब्रुवते भयम्॥१४॥**
 
 **जुगुप्सा च पदार्थानां निन्दा दौर्भाग्यवाहिनां।**  
@@ -8307,8 +7777,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **क्रियातिशयजन्मान्तःशरीरोत्थक्लमः श्रमः।  
 शृङ्गारादिक्रियाद्वेषश्चित्तस्यालस्यमुच्यते॥२४॥**
-
-
 
 **दैन्यं सत्त्वादपभ्रंशश्चिन्तार्थपरिभावनं।**  
 **इतिकर्त्तव्यतोपायादर्शनं मोह उच्यते॥२५॥**
@@ -8345,8 +7813,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **विभावो नाम सद्वेधालम्बनोद्दीपनात्मकः।**
 
-
-
 **रत्यादिभाववर्गोऽयं यमाजीव्योपजायते॥३६॥**
 
 **आलम्बनविभावोऽसौ नायकादिभवस्तथा।  
@@ -8382,8 +7848,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **शोभा विलासो माधुर्य्यं स्थैर्य्यं गाम्भीर्य्यमेव च।**  
 **ललितञ्च तथौदार्य्यन्तेजोऽष्टाविति पौरुषाः॥४७॥**
 
-
-
 **नीचनिन्दोत्तमस्पर्धा शौर्य्यं दाक्षादिकारणं।**  
 **मनोधर्म्मे भवेच्छोभा शोभते भवनं यथा॥४८॥**
 
@@ -8411,8 +7875,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे अलङ्कारे शृङ्गारादिरसनिरूपणं नामाष्टत्रिंशदधिकत्रिशततमोऽध्यायः॥
 
 \_\_\_\_\_\_\_
-
-
 
 **अथोनचत्वारिंशदधिकत्रिशततमोऽध्यायः।**
 
@@ -8451,8 +7913,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **व्याहारस्त्रिमतञ्चैव[^225] छलावस्कन्दिते तथा।**
 
 [^225]: "व्याहारस्तिगतञ्चैवेति ख०।"
-
-
 
 **गण्डोऽथ मृदवश्चैव त्रयोदशमथाचितम्॥९॥**
 
@@ -8493,8 +7953,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अङ्गानि भ्रूलतादीनि प्रत्यङ्गान्यभिजानते।**
 
-
-
 **अङ्गप्रत्यङ्गयोः कर्म्म प्रयत्नजनितं विना॥ ६॥**
 
 **न प्रयोगः क्वचिन्मुख्यन्तिरश्चीनञ्च तत् क्वचित्।  
@@ -8529,10 +7987,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 [^228]: "काङ्गूलकालपद्माविति ञ०। कांमूलकालपद्मौ काङ्गूलकालपद्मौ एतत्पाठद्वयं न समीचीनं।"
 
 **हंसास्यहंसपक्षौ च सन्दंशमुकुलौ तथा।**
-
-
-
-
 
 **उर्णनाभस्ताम्रचूडश्चतुर्विंशतिरित्यमी॥१६॥**
 
@@ -8572,8 +8026,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **सम्भोगो विप्रलम्भश्च शृङ्गारो द्विविधः स्मृतः।**
 
-
-
 **प्रच्छन्नश्च प्रकाशश्च तावपि द्विविधौ पुनः॥४॥**
 
 **विप्रलम्भाभिधानो यः शृङ्गारः स चतुर्विधः।  
@@ -8607,8 +8059,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वीरस्तस्य च निष्पत्तिहेतुरुत्साह इष्यते॥१४॥**
 
 **आरम्भेषु भवेद्यत्र वीरमेवानुवर्त्तते।**
-
-
 
 **भयानको नाम रसस्तस्य निर्वर्त्तकं भयं॥१५॥**
 
@@ -8644,8 +8094,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अभिप्रायविशेषेण कविशक्तिं विवृण्वती।**
 
-
-
 **मुत्प्रदायिनीति सामुद्रा सैव शय्यापि नो मते॥२६॥**
 
 **उक्तिः सा कथ्यते यस्यामर्थकोऽप्युपपत्तिमान्।  
@@ -8672,8 +8120,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे अलङ्कारे अभिनयादिनिरूपणं नामैकचत्वारिंशदधिकत्रिशततमोऽध्यायः।
 
 ——————
-
-
 
 **अथ द्विचत्वारिंशदधिकत्रिशततमोऽध्यायः।**
 
@@ -8712,8 +8158,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **शषसा रेफसंयुक्ताश्चाकारश्चापि भूयसा।**
 
-
-
 **अन्तस्थाभिन्नमाभ्याञ्च हः पारुष्याय संयुतः॥८॥**
 
 **अन्यथापि गुरुर्वर्णः संयुक्ते परिपन्थिनि।  
@@ -8750,8 +8194,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 दशधा यमकं श्रेष्ठं तद्भेदा बहवोऽपरे॥१७॥**
 
 **स्वतन्त्रस्यान्यतन्त्रस्य पदस्यावर्त्तना द्विधा।**
-
-
 
 **भिन्नप्रयोजनपदस्यावृत्तिं मनुजा विदुः॥१८॥**
 
@@ -8792,8 +8234,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **स्वरव्यञ्जनविन्दूनां विसर्गस्य च विच्युतेः॥२८॥**
 
 **दत्तेपि यत्र वाक्याङ्गे द्वितीयोर्थः प्रतीयते।  
@@ -8830,8 +8270,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अर्द्धाभ्यामर्धपादैश्च कुर्य्याद्विन्यासमेतयोः।**
 
-
-
 **न्यस्तानामिह वर्णानामधोधः क्रमभागिनां॥३९॥**
 
 **अधोधःस्थितवर्णानां यावत्तूर्य्यपदन्नयेत्।  
@@ -8867,8 +8305,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **स्यात्पादार्द्धचतुष्कन्तु नाभौ तस्याद्यमक्षरं।  
 पश्चिमारावधि नयेन्नेमौशेषे पदद्वयी॥५०॥**
 
-
-
 **तृतीयं तुर्य्यपादान्ते प्रथमौसदृशावुभौ  
 वर्णौ पादत्रयस्यापि दशमः सदृशोयदि॥५१॥**
 
@@ -8903,8 +8339,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कृत्वा कुर्य्याद्यथैतस्य मुरजाकारता भवेत्॥६१॥**
 
 **द्वितीयं चक्रशार्दूलविक्रीडितकसम्पदम्।**
-
-
 
 **गोमूत्रिका सर्ववृत्तैरन्ये बन्धास्त्वनुष्टुभा॥६२॥**
 
@@ -8943,8 +8377,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **निजमागन्तुकञ्चेति द्विविधं तदुदाहृतम्।  
 सांसिद्धिकं निजं नैमित्तिकमागन्तुकं तथा॥४॥**
 
-
-
 **सादृश्यं धर्म्मसामान्यमुपमा रूपकं तथा।  
 सहोक्त्यर्थान्तरन्यासाविति स्यात्तु चतुर्विधम्॥५॥**
 
@@ -8979,8 +8411,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 उपमानविकारेण तुलना विक्रियोपमा॥१५॥**
 
 **त्रैलोक्यासम्भवि किमप्यारोप्य प्रतियोगिनि।**
-
-
 
 **कविनोपमीयते या प्रथते साद्भूतोपमा॥१६॥**
 
@@ -9017,8 +8447,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 गुणजातिक्रियादीनां यत्र वैकल्यर्दर्शनं॥२६॥**
 
 **विशेषदर्शनायैव सा विशेषोक्तिरुच्यते।**
-
-
 
 **प्रसिद्धहेतुव्यावृत्या यत् किञ्चित् कारणान्तरम्॥२७॥**
 
@@ -9058,8 +8486,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **प्रशस्तिः परवन्मर्म्मद्रवीकरणकर्म्मणः।  
 वाचोयुक्तिर्द्विधा सा च प्रेमोक्तिस्तुतिभेदतः॥३॥**
 
-
-
 **प्रेमाक्तिस्तुतिपर्य्यायौ प्रियोक्तिगुणकीर्त्तने।  
 कान्तिः सर्व्वमनोरुच्यवाच्यवाचकसङ्गतिः॥४॥**
 
@@ -9094,8 +8520,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 स आक्षेपो ध्वनिः स्याच्च ध्वनिना व्यज्यते यतः॥१४॥**
 
 **शब्देनार्थेन यत्रार्थः कृत्वा स्वयमुपार्जनम्।**
-
-
 
 **प्रतिषेध इवेष्टस्य यो विशेषोऽभिधित्सया॥१५॥**
 
@@ -9136,8 +8560,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **शब्दमाश्रयते काव्यं शरीरं यः स तद्गुणः।**
 
-
-
 **श्लेषो लालित्यगाम्भीर्य्यसौकुमार्य्यमुदारता॥५॥**
 
 **सत्येव यौगिकी चेति गुणाः शब्दस्य सप्तधा।  
@@ -9173,8 +8595,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **अभिप्रेतं प्रति यतो निर्व्वाहस्योपपादिकाः।  
 युक्तयो हेतुगर्भिण्यःप्रोठाप्रोटिरुदाहृता॥१६॥**
 
-
-
 स्वतन्त्रस्यान्यतन्त्रस्य वाह्यान्तःसमयीगतः।  
 तत्र व्युत्पत्तिरर्थस्य या सामयिकतेति सा॥१७॥
 
@@ -9203,9 +8623,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 वैशेषिकः परिज्ञेयो यः स्वलक्षणगोचरः॥२५॥
 
 इत्याग्नेये महापुराणे काव्यगुणविवेको नाम पञ्चचत्वारिंशदधिकत्रिशततमोऽध्यायः।  
-
-
-
 
 **अथ षट्चत्वारिंशदधिकत्रिशततमोऽध्यायः**
 
@@ -9243,8 +8660,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 [^239]: "मनीषयेति ज०।"
 
 **अन्यार्थत्वासमर्थत्वे एतामेवोपसर्पतः।**
-
-
 
 **सन्दिह्यमानवाच्यत्वमाहुः संशयितार्थतां॥९॥**
 
@@ -9284,8 +8699,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **व्यस्तसम्बन्धता सुष्ठुसम्बन्धोव्यवधानतः।  
 सम्बन्धान्तरनिर्भाषात् सम्बन्धान्तरजन्मनः॥१९॥**
 
-
-
 **अभावेपि तयोरन्तर्व्यवधानात्त्रिधैव सा।  
 अन्तरा पदवाक्याभ्यां प्रतिभेदं पुनर्द्विधा॥२०॥**
 
@@ -9321,8 +8734,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **अनेकस्य तथैकेन बहूनां बहुभिः शुभा।  
 कवीनां समुदाचारः समयोनाम गीयते॥३०॥**
 
-
-
 **समान्यश्चविशिष्टश्च धर्म्मवद्भवति द्विधा।  
 सिद्धसैद्धान्तिकानाञ्च कवीनाञ्चाविवादतः॥३१॥**
 
@@ -9355,8 +8766,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अपरा च परा विद्या तां ज्ञात्वा मुच्यते भवात्॥४०॥**
 
 इत्याग्नेये महापुराणे अलङ्कारे काव्यदोषविवेकी नाम षट्चत्वारिंशदधिकत्रिशततमोऽध्यायः।
-
-
 
 **अथ सप्तचत्वारिंशदधिकत्रिशततमोऽध्यायः।**
 
@@ -9396,8 +8805,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **णो निष्कर्षे निश्चये च तश्चौरे क्रोडपुच्छके।  
 भक्षणे थश्छेदने दोधारणे शोभने मतः॥८॥**
 
-
-
 **धो धातरि च धूस्तूरे नोवृन्दे सुगते तथा।  
 प उपवने विख्यातः फश्चफञ्झनिले मतः॥९॥**
 
@@ -9434,8 +8841,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **ह्रींदुर्गे दुर्गे रक्षणि स्वाहामन्त्रार्थसिद्धये।  
 गौरी पूज्या च धर्म्माद्याः स्कन्दायाः शक्तयो यजेत्॥१९॥**
 
-
-
 **प्रज्ञा ज्ञाना क्रिया वाचा वागीशी ज्वालिनी तथा।  
 कामिनी काममाला च इन्द्राद्याः शक्तिपूजनं॥ २०॥**
 
@@ -9470,8 +8875,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **\*द्विरेफ द्विर्मूखाक्षिण इत्ययं पाठ आदर्शदोषेण समीचीनोभवितुं
 नार्हति।**
 
-
-
 **अथाष्टचत्वारिंशदधिकत्रिशततमोऽध्यायः।**
 
 **———ooo———**
@@ -9498,8 +8901,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे व्याकरणे प्रत्याहारो नामाष्टचत्वारिंशदधिकत्रिशततमोऽध्यायः।
 
 **\_\_\_\_\_\_\_**
-
-
 
 **अथोनपञ्चाशदधिकत्रिशततमोऽध्यायः।**
 
@@ -9536,8 +8937,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **भवाञ्छेते भवाञ्चशेते भवाञशेते भवाण्डीनः।  
 त्वम्भर्त्ता त्वङ्करोष्यादिः सन्धिर्ज्ञेयो विसर्गजः॥९॥**
 
-
-
 **कश्छिन्द्यात् कश्चरेत् कष्टः कष्ठः कस्थश्च कश्चलेत्।  
 क ॥खनेत् क ॥करोति स्म क ,,पठेत् क ,,फलेत वा॥१०॥**
 
@@ -9573,8 +8972,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **द्विविधं प्रातिपदिकं ह्यजन्तञ्चहलन्तकं।**
 
-
-
 **प्रत्येकं त्रिविधं तत् स्यात् पुमांस्त्रीच नपुंसकं॥४॥**
 
 **दर्श्यन्ते नायकास्तेषामनुक्तानाञ्चवीर्य्यतः।  
@@ -9609,8 +9006,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **शृण्वती तुदती कर्त्री तुदन्ती कुर्वती मही।  
 रून्धती क्रीड़ती दान्ती पालयन्ती सुराण्यपि॥१५॥**
-
-
 
 **गौरी पुत्रवती नीश्च वधूर्द्देवतया भुवा।  
 तिस्रो द्वेकति वर्षाभूः स्वस्रा माता वरा च गौः॥१६॥**
@@ -9648,8 +9043,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **कारके कर्त्तरि च सा सम्प्रदाने चतुर्घ्यपि।  
 यस्मै दित्सा धारयते सम्प्रदानं तदोरितं॥२६॥**
 
-
-
 अपादानं यतोऽपैति आदत्ते च भयं यतः।  
 अपादाने पञ्चमी स्यात् स्वस्वाम्यादौ च षष्ठ्यपि॥२७॥
 
@@ -9684,8 +9077,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सोमपाः सोमपौ ज्ञेयौ सोमपाः सोमपां व्रज॥३७॥
 
 कीलालपौ सोमपश्च सोमपा सोमपे दद।
-
-
 
 सोमपाभ्यां सोभपाभ्यः सोमपः सोमपोः कुलं॥३८॥
 
@@ -9722,8 +9113,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 एवं शरपूमुखाः स्युः क्रोष्टा क्रोष्टार ईरिताः।  
 क्रोष्टूंश्टक्रोष्टुना क्रोष्ट्रा क्रोष्टूनां क्रोष्टरीदृशं॥४९॥
 
-
-
 पिता पितरौ पितरः हेपितः पितरौ शुभौ।  
 पितॄन् पितुः पितुः पित्रोः पितॄणां पितरीदृशं॥५०॥
 
@@ -9758,8 +9147,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 एवं मघवान्मघवन्तौअग्निचिच्चाग्निचित्यपि॥६०॥
 
 अग्निचित्स्वेवमेवान्यत् वेदवित्तत्त्ववित्त्वपि।
-
-
 
 **वेदविदामेवमन्यत् यः समस्तेन सर्व्ववित्॥६१॥**
 
@@ -9796,8 +9183,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **गोधुक्ष्वित्येवमन्येपि मित्रद्रुहो मित्रदुहा।  
 मित्रध्रुग्भ्यां मित्रध्रुग्भिरेवं चित्तद्रुहादयः॥७२॥**
 
-
-
 **स्वलिट् स्वलिड्भ्यांस्वलिहि अनड्वाननडुत्सु च।  
 अजन्ताश्च हलन्ताश्च पुंस्यथोऽथ स्त्रियां वदे॥७३॥**
 
@@ -9831,8 +9216,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **नद्या नदीभिर्नद्यै च नद्याञ्चैव नदीषु च।  
 कुमारी जृम्भणीत्येवं श्रीः श्रियौ च श्रियः श्रिया॥६॥**
 
-
-
 **श्रियै श्रिये स्त्रीं स्त्रियञ्चस्त्रीश्चस्त्रियः स्त्रिया स्त्रियै।  
 स्त्रियाः स्त्रीणां स्त्रियाञ्चग्रामण्यांधेन्वै च धेनवे॥७॥**
 
@@ -9856,8 +9239,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 असौ चामूममू चामूरमूभिरमुयाऽमुयोः॥१३॥**
 
 इत्याग्नेये महापुराणे व्याकरणे स्त्रीलिङ्गशब्दसिद्धरूपं नामैकपञ्चाशदधिकत्रिशततमोऽध्यायः।
-
-
 
 **अथ द्विपञ्चाशदधिकत्रिशततमोऽध्यायः।**
 
@@ -9895,8 +9276,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 उपलक्षणमत्रैव अज्झलन्ताश्चते स्मृताः॥ ९॥
 
 इत्याग्नेये महापुराणे व्याकरणे नपुंसकशब्दसिद्धरूपं नाम द्विपञ्चाशदधिकत्रिशततमोऽध्यायः।
-
-
 
 अथ त्रिपञ्चाशदधिकत्रिशततमोऽध्यायः।
 
@@ -9937,8 +9316,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 ९**॥**
 
-
-
 नरो ददाति नृपतये दासन्तदनुमन्तृकं।  
 अनिराकर्त्तृकं भर्त्रेदद्यात् पुष्पाणि सज्जनः॥१०॥
 
@@ -9973,8 +9350,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नमो देवाय ते स्वस्ति तुमर्थाद्भाववाचिनः॥२०॥
 
 पाकाय पक्तये याति तृतीया सहयोगके।
-
-
 
 हेत्वर्थे कुप्सितेऽङ्गे सा तृतीया च विशेषणे॥२१॥
 
@@ -10011,8 +9386,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कुम्भकारश्च नित्यः स्याद्धेमकारादिकस्तथा।  
 राज्ञः पुमान् राजपुमान् नित्योऽयञ्चसमासकः॥२॥
 
-
-
 **कष्टश्रितो लुक्समासः कण्ठेकालादिकस्त्वलुक्।  
 स्यादष्टधा तत्पुरुषः प्रथमाद्यसुपा सह॥३॥**
 
@@ -10048,8 +9421,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **सहपूर्वपदोऽयं स्यात् समूलोद्धृतकस्तरुः।**
 
-
-
 व्यतिहारलक्षणार्थः केशाकेशि नखानखि॥१४॥
 
 दिग्लक्ष्या स्याद्दक्षिणपूर्व्वा द्विगुराभाषितो द्विधा।  
@@ -10073,7 +9444,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 ![](../books_images/U-IMG-1734626027Screenshot(127).png)  
 
-
 तद्धितं।
 
 स्कन्द उवाच।
@@ -10085,8 +9455,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 अणि प्राज्ञ आर्च्चकः स्यात् दन्तादुरचि दन्तुरः॥२॥
 
 रे स्यान्मधुरं सुशिरं रे स्यात् केशर ईदृशः।
-
-
 
 हिरण्यं ये मालवो वे वलचि स्याद्रजस्वलः॥३॥
 
@@ -10123,8 +9491,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 चञ्चुपि वित्तचञ्चुःस्याद्वित्तमस्य च शब्दके।  
 चणपिस्यात् केशचणःरूपे स्यात् पटरूपकम्॥१४॥
 
-
-
 ईयसौच पटीयान् स्यात् तरप्यक्षतरादिकम्।  
 पचतितराञ्च तरपि तमप्यटतितमामपि॥१५॥
 
@@ -10159,8 +9525,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 उपरि वसेदुपरिष्टाद्भवेद्रिष्टाति उर्द्धकात्॥२५॥
 
 उत्तरेण च पित्रोक्तं आचि च स्याच्चदक्षिणा।
-
-
 
 आहौदक्षिणाहि वसेद्द्विप्रकारं द्विधा च धा॥२६॥
 
@@ -10202,8 +9566,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 \* पाठोऽयं, एतत्पाठस्थलाभिषिक्तपाठान्तरणञ्च न सम्यक् प्रतिभाति।
 
-
-
 आयुःस्वादुश्च हेत्वाद्याः किंशारुर्धान्यशूककः॥२॥
 
 कृकवाकुः कुक्कटः स्यादु गुरुर्भर्त्ता मरुस्तथा।  
@@ -10240,8 +9602,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 —————————
 
-
-
 अथ सप्तपञ्चाशदधिकत्रिशततमोऽध्यायः।  
 
 ![](../books_images/U-IMG-1734966333Screenshot(127).png)  
@@ -10276,8 +9636,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 तुदिर्मृशतिर्मुञ्चतिः रुधिर्भुजिस्त्यजिस्तनिः।  
 शवादिके विकरणे मनिश्चैव करोत्यपि॥९॥
-
-
 
 **क्रीड़तिर्वृङो ग्रहिश्चोरिः पा नीरर्च्चिश्चनायकाः।  
 भुवि स्यात् तिङ् भवति सः भवतस्तौ भवन्ति ते॥१०॥**
@@ -10314,8 +9672,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अभूदभूतामभूवनभूश्चाभूवमेव लुङ्।**
 
-
-
 **ऐधिष्टैधिषातां नरावैधिष्ठा ऐधिषीदृशं॥२१॥**
 
 **लिटि बभूव बभूवतुः बभूवुश्चबभूविथ।  
@@ -10348,8 +9704,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे व्याकरणे तिङ्सिद्धरूपं नाम सप्तपञ्चाशदधिकत्रिशततमोऽध्यायः।
 
 —————
-
-
 
 **अथाष्टपञ्चाशदधिकत्रिशततमोऽध्यायः।**
 
@@ -10387,8 +9741,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 —————————
 
-
-
 **अथोनषष्ट्यधिकत्रिशततमोऽध्यायः।**
 
 ————000————
@@ -10423,8 +9775,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 ह्रीदिनीवज्रमस्त्री स्यात् कुलिशम्भिदुरं पविः।  
 व्योमयानं विमानोऽस्त्रीपीयूषममृतं सुधा॥८॥
-
-
 
 स्यात् सुधर्म्मादेवसभा स्वर्गङ्गा सुरदीर्घिका।  
 स्त्रियां बहुष्वप्रसः स्वर्व्वेश्या उर्व्वशीमुखाः॥१०॥
@@ -10461,8 +9811,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 अभ्यन्तरन्त्वन्तरालञ्चक्रवाड़न्तु मण्डलं।
 
-
-
 तडित्वान् वारिदो मेघस्तनयित्नुर्वलाहकः॥२९॥
 
 कादम्बिनी मेघमाला स्तनितं गर्जितं तथा।  
@@ -10497,8 +9845,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 परिवेषस्तु परिधिरुपसूर्य्यकमण्डले।  
 किरणोऽस्रमयूखांशुगभस्तिघृणिधृष्णयः॥१२॥
-
-
 
 भानुः करो मरीचिः स्त्रीपुंसयोर्दीधितिः स्त्रियां।  
 स्युः प्रभा रुग्रुचिस्त्विड्भाभाश्छविद्युतिदीप्तयः॥३३॥
@@ -10535,8 +9881,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 भावुकं भविकं भव्यं कुशलं क्षेममस्त्रियां।
 
-
-
 दैवं दिष्टं मागधेयं भाग्यं स्त्री नियतिर्व्विधिः॥४४॥
 
 क्षेत्रज्ञ आत्मा पुरुषः प्रधानं प्रकृतिः स्त्रियां।  
@@ -10571,8 +9915,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 रोहितो लोहितो रक्तः शोणःकोकनदच्छविः।  
 अव्यक्तरागस्त्वरुणः श्वेतरक्तस्तु पाटलः॥५५॥
-
-
 
 श्यावः स्यात्कपिशो धूम्रधूमलो कृष्णलोहिते।  
 कड़ारः कपिलः पिङ्गपिशङ्गौकद्रुपिङ्गलौ॥५६॥
@@ -10609,8 +9951,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 सत्यं तथ्यमृतं सम्यङ्नादनिस्वानमिस्वमनाः।
 
-
-
 आरवारावसंरावविरावा अथ मर्म्मरः॥६७॥
 
 स्वनिते वस्त्रपर्णानां भूषणानान्तु शिञ्जितं।  
@@ -10645,8 +9985,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 उत्साहवर्द्धनो वीरः कारुण्यं करुणा घृणा।  
 कृपा दया चानुकम्पाऽप्यनुक्रोशोऽप्यथो हसः॥७८॥
-
-
 
 **हासो हास्यञ्च वीभत्सx विकृतं त्रिष्विदं द्वयं।  
 विस्मयोऽद्भुतमाश्चर्य्यं चित्रमप्यथ भैरवं॥६६॥**
@@ -10683,8 +10021,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **जलोच्छासाः परीवाहाः कूपकास्तु विदारकाः।**
 
-
-
 **आतरस्तरपण्यंस्याद्द्रोणीकाष्ठाम्बुवाहिनी॥७७॥**
 
 **कलुषश्चाविलोऽच्छस्तु प्रसन्नोऽथ गभीरकं।  
@@ -10717,8 +10053,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **पापकुत्सेषदर्थेकु धिग्जुगुप्सननिन्दयोः।  
 चान्वाचयसमाहारेतरेतरसमुच्चये॥२॥**
-
-
 
 स्वस्त्याशीःक्षेमपुण्यादौ प्रकर्षे लङ्घनेऽप्यति।  
 स्वित्प्रश्नेवितर्क्केच तु स्याद्भेदेऽवधारणे॥३॥
@@ -10753,8 +10087,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नाम प्राकाश्यसम्भाव्यक्रोधोपगमकुत्सने।  
 अलं भूषणपर्य्याप्तिशक्तिवारणवाचकम्॥१३॥
 
-
-
 हूं वितर्के परिप्रश्ने समयाऽन्तिकमध्ययोः।  
 पुनरप्रथमे भेदे निर्निश्चयनिषेधयोः॥१४॥
 
@@ -10788,8 +10120,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 स्वाहा देवहविर्दाने श्रौषट् वौषट् वषट् स्वधा॥२३॥
 
 किञ्चिदीषन्मनागल्पेप्रेत्याऽमुत्रभवान्तरे।
-
-
 
 **यथा तथा चैव साम्येअहो हो इति विस्मये॥२४॥**
 
@@ -10826,8 +10156,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **सायं साये प्रगेप्रातः प्रभाते निकषाऽन्तिके।  
 परुत्परार्य्यैसमोऽब्दे पूर्वे पूर्वतरे यति॥३५॥**
 
-
-
 अद्यात्राह्न्यऽथ पूर्वेह्नीत्यादौपूर्वोत्तरा परात्।  
 तथाऽधरान्यान्यतरेतरात्पूर्वेद्युरादयः॥३६॥
 
@@ -10862,8 +10190,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सर्गः स्वभावनिर्मोक्षनिश्चयाध्यायसृष्टिषु॥४॥
 
 योगः सन्नहनोपायध्यानसङ्गतियुक्तिषु।
-
-
 
 भोगः सुखे स्त्र्यादिभृतावब्जौशङ्खनिशाकरौ॥५॥
 
@@ -10900,8 +10226,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 प्राधान्ये राजलिङ्गे च वृषाङ्गेककुदोऽस्त्रियां।  
 स्त्रीसम्बिज्ज्ञानसम्भाषाक्रियाकाराजिनामसु॥१६॥
 
-
-
 धर्म्मेरहस्युपनिषत् स्वादृतो वत्सरे शरत्।  
 पदं व्यवसितित्राणस्थानलक्ष्माङ्घ्रिवस्तुषु॥१७॥
 
@@ -10936,8 +10260,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 आराधनं साधने स्यादवाप्तौ तोषणेऽपि च॥२७॥
 
 रत्नं स्वजातिश्रेष्ठेऽपि लक्ष्म चिह्नप्रधानयोः।
-
-
 
 **कलापो भूषणे वर्हे तूणीरे संहतेऽपि च॥२८॥**
 
@@ -10974,8 +10296,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **प्रत्यक्षेऽधिकृतेऽध्यक्षःसूर्य्यवह्नीविभावसू।  
 शृङ्गारादौ विषे वीर्य्येगुणे रागे द्रवे रसः॥३९॥**
 
-
-
 **तेजःपुरीषयोर्वर्च्च आगः पापापराधयोः।  
 छन्दः पद्येऽभिलासे च साधीयान् साधुवाढ़योः।  
 ब्यूहो वृन्देऽप्यहिर्वृत्रेऽप्यग्नीन्द्वर्कास्तमोनुदः॥४०॥**
@@ -11007,8 +10327,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **रथ्या प्रतोली विशिखा स्याच्चयो वप्रमस्त्रियां \।  
 प्राकारो वरणः शालः प्राचीरं प्रान्ततो वृतिः॥६॥**
-
-
 
 **भित्तिः स्त्रीकुह्यमेड़ूकं यदन्तर्नस्तकीकसं।  
 वासः कूटो द्वयोः शाला सभा सञ्जवनन्त्विदम्॥७॥**
@@ -11045,8 +10363,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **स्याज्जम्बीरे दन्तशठो वरुणे तिक्तशावकः।**
 
-
-
 **पुत्रागे पुरुषस्तुङ्गः केशरो देववल्लभः॥१८॥**
 
 **पारिभद्रे निम्बतरुर्मन्दारः पारिजातकः।  
@@ -11081,8 +10397,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अरिमेदो विट्खदिरे कदरः खदिरे सिते।  
 पञ्चाङ्गुलो वर्षमानश्चञ्चुर्गन्धर्वहस्तकः॥२९॥**
-
-
 
 **पिण्डीतको मरुवकः पीतदारु च दारु च।  
 देवदारुः पूतिकाष्ठं श्यामा तु महिलाह्वया॥३०॥**
@@ -11119,8 +10433,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **जीवन्तिका वृक्षरुहा गुडूचीतन्त्रिकाऽमृता।**
 
-
-
 सोमवल्ली मधुपर्णी मूर्वा तु मोरटी तथा॥४९॥
 
 मधूलिका मधुश्रेणीगोकर्णीपीलुपर्ण्यपि।  
@@ -11156,8 +10468,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 विडङ्गोऽस्त्रीकृमिघ्नः स्यात् वज्रद्रुस्नुक्स्नुहीसुधा।  
 मृद्वीका गोस्तनीद्राक्षावला वाट्यालकस्तथा॥५२॥
 
-
-
 **काला मसूरविदला त्रिपुटा त्रिवृता त्रिवृत्।  
 मधुकं क्लीतकं यष्टिमधुका मधुयष्टिका॥५३॥**
 
@@ -11192,8 +10502,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 जीवन्ती जीवनी जीवा भूमिनिम्वः किरातकः॥६३॥**
 
 **कूर्चशीर्षो मधुकरश्चन्द्रः कपिवृकस्तथा।**
-
-
 
 **दद्रुघ्नः स्यादेड़गजो वर्षाभूः शीथहारिणी॥६४॥**
 
@@ -11231,8 +10539,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **पतङ्गिका पुत्तिका स्यात्सरघा मधुमक्षिका।**
 
-
-
 द्वि रेफपुष्पलिङ्भृङ्गषट्पदभ्रमराऽलयः॥७५॥
 
 केकी शिख्यस्य वाक्केका शकुन्तिशकुनिद्विजाः।  
@@ -11248,8 +10554,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे भूमिवनोषध्यादिवर्गा नाम द्विषट्यधिकत्रिशततमोऽध्यायः।
 
 ————————————
-
-
 
 अथ त्रिषष्ट्यधिकत्रिशततमोऽध्यायः।
 
@@ -11270,8 +10574,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 वारस्त्री गणिका वेश्या भ्रातृजायास्तु यातरः।  
 ननान्दा तु स्वसा पत्युः सपिण्डास्तु सनाभयः॥8॥
-
-
 
 समानोदर्य्यसोदर्य्यसगर्भसहजास्Mमाः।  
 सगोत्रबान्धवज्ञातिबन्धुस्वखजनाः समाः॥५॥
@@ -11308,8 +10610,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 स्याच्छरीरास्थ्रि कङ्कालः पृष्ठास्थ्रितु कशेरुका।
 
-
-
 शिरोऽस्थनि करोटिः स्त्रीपार्श्वास्थनि तु पर्शुका॥१६॥
 
 अङ्गं प्रतीकोऽवयवः शरीरं वर्ष्मविग्रहः।  
@@ -11344,8 +10644,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 कर्णिका तालपत्रंस्याल्लम्बनं स्याल्ललन्तिका।  
 मञ्जीरोनूपुरं पादे किङ्किणीक्षुद्रघण्टिका॥२७॥
-
-
 
 देर्घ्यमायाम आरोहः परिणाहोविशालता।  
 पटच्चरं जीर्णवस्त्रंसंव्यानञ्चोत्तरीयकम्॥२८॥
@@ -11383,8 +10681,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 उपाकृतः पशुरसौ योऽभिमन्त्र्यक्रतौ हतः॥५॥
 
 परम्पराकं समनं प्रोक्षणञ्च बधार्थकम्।
-
-
 
 **पूजा नमस्याऽपचितिः सपर्य्यार्चार्हणाः समाः॥६॥**
 
@@ -11424,8 +10720,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **चक्रवर्त्तीसार्वभौमो नृपोऽन्यो मण्डलेश्वरः।  
 मन्त्री धीसचिवोऽमात्यो महामात्राः प्रधानकाः॥२॥**
 
-
-
 द्रष्टरि व्यवहाराणां प्राड्विवाकाऽक्षदर्शकौ।  
 भौरिकः कनकाध्यक्षोऽथाध्यक्षाधिकृतौसमौ॥३॥
 
@@ -11460,8 +10754,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सेनामुखं गुल्मगणौबाहिनी पृतना चमूः॥१३॥
 
 अनीकिनी दशानीकिन्योऽक्षोहिण्यो गजादिभिः।
-
-
 
 **धनुः कोदण्डइष्वासौकोटिरस्याटनी स्मृता॥१४॥**
 
@@ -11500,8 +10792,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **किंशारुः सस्यशूकं स्यात् स्तम्बोगुत्सस्तृणादिनः।  
 धान्यं व्रीहिः स्तम्बकरिः कड़ङ्गरो वुषंस्मृतं॥२५॥**
 
-
-
 माषादयः शमीधान्ये शुकधान्ये यवादयः।  
 तृणधान्यानि नीवाराः शूर्पं प्रस्फोटनं स्मृतं॥२६॥
 
@@ -11537,8 +10827,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 ते षोड़शाक्षःकर्षोऽस्त्रीपलं कर्षचतुष्टयम्।
 
-
-
 **सुवर्णविस्तौहेम्नोऽक्षे कुरुविस्तस्तु तत्पले॥३७॥**
 
 **तुला स्त्रियां पलशतं भारः स्याद्विंशतिस्तुलाः।  
@@ -11573,8 +10861,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **पञ्चालिका पुत्रिकास्याद्वर्करस्तरुणः पशुः।  
 मञ्जूषा पेटकः पेडा तुख्यसाधारणौ समौ।**
-
-
 
 **प्रतिमा स्यात् प्रतिकृतिर्वर्गा ब्रह्मादयः स्मृताः॥४८॥**
 
@@ -11615,8 +10901,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **मत्तशौण्डोत्कटक्षीवाश्चण्डस्वत्यन्तकोपनः।**
 
-
-
 देवानञ्चति देवद्र्यङ् विश्वद्र्यङ्विश्वगञ्चति॥८॥
 
 यः सहाञ्चति स सध्र्यङ् स तिर्य्यङ् यस्तिरोऽञ्चति।  
@@ -11653,8 +10937,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 आविद्धं कुटिलं भुग्नंवेल्लितं वक्रमित्यपि।
 
-
-
 चञ्चलं तरलञ्चैव कठोरं जठरं दृढ़ं॥१९॥
 
 प्रत्यग्रोऽभिनवो नव्योनवीनो नूतनो नवः।  
@@ -11685,8 +10967,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 इत्याग्नेये महापुराणे सामान्यनामलिङ्गानि नाम षट्षष्ट्यधिकत्रिशततमोऽध्यायः॥
 
 —————————
-
-
 
 अथ सप्तषष्ट्यधिकत्रिशततमोऽध्यायः।
 
@@ -11725,8 +11005,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **अम्बरीषमिवाभाति त्रैलोक्यमखिलं तथा।  
 ततस्तापपरीतास्तु लोकद्वयनिवासिनः॥९॥**
 
-
-
 गच्छन्ति ते महर्लोकं महर्लोकाज्जनं ततः।  
 रुद्ररूपी जगद्दग्ध्वा मुखनिश्वासतो हरेः॥१०॥
 
@@ -11762,8 +11040,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 ज्योतिषोऽपि गुणं रूपं वायुर्ग्रसति भास्करं।
 
-
-
 नष्टे ज्योतिषि वायुश्च बलीदोधूयते महान्॥२१॥
 
 वायोरपि गुणं स्पर्शमाकाशं ग्रसते ततः।  
@@ -11794,8 +11070,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अग्निरुवाच। आत्यन्तिकं लयं वक्ष्ये ज्ञानादात्यन्तिको लयः।  
 आध्यात्मिकादिसन्तापं ज्ञात्वा स्वस्य विरागतः॥१॥**
-
-
 
 **आध्यामिकस्तु सन्तापः शारीरो मानसोद्विधा।  
 शारीरो बहुभिर्भेदैस्तापोऽसौश्रूयतां द्विज॥२॥**
@@ -11832,8 +11106,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **न हि मोक्षमवाप्नोति पिण्डांस्तत्रैव सोऽश्नुते।  
 कृते सपिण्डीकरणे नरः संवत्सरात्परं॥१२॥**
 
-
-
 प्रेतदेहं समुत्सृज्य भोगदेहं प्रपद्यते।  
 भोगदेहावुभौ प्रोक्तावशुभशुभसंज्ञितो॥१२॥
 
@@ -11867,8 +11139,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 यस्यां तिष्ठत्यसौ योनौ तां स वेत्ति न संशयः॥२२॥
 
 सर्वञ्च वेत्ति वृत्तान्तमारभ्य नरजमनः।
-
-
 
 अन्धकारञ्चमहतीं पीड़ां विन्दति मानवः॥२३॥
 
@@ -11906,8 +11176,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कामक्रोधौ भयं हर्षो धर्माधर्म्मत्मता तथा।  
 आकृतिः स्वरवर्णौ तु मेहनाद्यं तथा च यत्॥३३॥
 
-
-
 **तामसानि तथाऽज्ञानं प्रमादालस्यतृट्क्षुधाः।  
 मोहमात्सर्य्यवैगुण्यशोकायासभयानि च॥३५॥**
 
@@ -11943,8 +11211,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **यकृत्प्लीहाश्रया चान्या मेदोधराऽस्थिधारिणी।**
 
-
-
 मज्जाश्ले अपुरीषाणां धरा पक्वाशयस्थिता।  
 षष्ठी पित्तधरा शुक्रधरा शुक्राशयाऽपरा॥४६॥
 
@@ -11973,8 +11239,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सप्ताशयाः स्मृता देहे रुधिरस्यैक प्राशयः॥६॥**
 
 **श्लेष्मणश्चामपित्ताभ्यां पक्वाशयस्तु पञ्चमः।**
-
-
 
 वायुमूत्राशयः सप्तः स्त्रीणां गर्भाशयोऽष्टमः॥७॥
 
@@ -12011,8 +11275,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 दक्षिणे च तथा क्लोम पद्मस्यैवं प्रकीर्त्तितं।  
 श्रोतांसि यानि देहेऽस्मिन् कफरक्तवहानि च॥१८॥
 
-
-
 **तेषां भूतानुमानाच्च भवतीन्द्रियसम्भवः।  
 नेत्रयोर्मण्डलं शुक्लं कफाद्भवति पैतृकं॥१९॥**
 
@@ -12047,8 +11309,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 चत्वार्य्यरत्नोरस्थीनि जङ्ङ्घयोस्तद्वदेव तु॥१८॥**
 
 **हे हे जानुकपोलोरुफलकांशसमुद्भवं।**
-
-
 
 अक्षस्थानांशकश्रोणिफलके चैवमादिशेत्॥३०॥
 
@@ -12086,8 +11346,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 मूत्रस्य चैव पित्तस्य श्लेष्मणः शकृतस्तथा।
 
-
-
 रक्तस्य सरसस्यात्र क्रमशोऽञ्जलयो मताः॥४१॥
 
 अर्द्धार्द्धाभ्यधिकाः सर्व्वाः पूर्वपूर्वाऽनलेर्मताः।  
@@ -12119,8 +11377,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 एतैः प्राणो विनिर्याति प्रायशः शुभकर्मणां॥४॥
 
 अधः पायुरुपस्थञ्च अनेनाशुभकारिणां।
-
-
 
 मूर्द्धानं योगिनो भित्त्वा जीवो यात्यथ चेच्छया॥५॥
 
@@ -12157,8 +11413,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 भयोत्कटा कालरात्री महाचण्डा च चण्ट्या।  
 कोलाहला प्रचण्डाख्या पद्मा नरकनायिका॥१६॥
 
-
-
 पद्मावती भीषणा च भीमा चैव करालिका।  
 विकराला महावज्रा त्रिकोणा पञ्चकोणिका॥१०॥
 
@@ -12193,8 +11447,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 तप्तं मद्यं पाययन्ति पाटयन्ति पुनर्नरान॥२७॥
 
 यन्त्रेषु पीडयन्ति स्म भक्ष्यन्ते वायसादिभिः।
-
-
 
 तैलेनोष्णेन सिच्यन्ते विद्यन्ते नैकवा शिरः॥२८॥
 
@@ -12231,8 +11483,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 उक्त आध्यात्मिकस्तापः शस्त्राद्यैराधिभौतिकः॥३८॥
 
 ग्रहाग्निदेवपीड़ाद्यैराधिदैविक ईरितः।
-
-
 
 त्रिथा तापं हि संसारं ज्ञानयोगाद्विनाशयेत्।  
 कुष्ठु व्रतैव दानाद्यैर्विष्णुपूजादिभिर्नरः॥३९॥
@@ -12274,8 +11524,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 रुक्कृतिः शोनितञ्जतिः पैशुन्यकरणन्तथा।
 
-
-
 हितस्थातिनिषेधश्च मर्मोद्घाटनमेव च॥६॥
 
 सुखापह्नुतिःसंरोधो बधो दशविधा च सा।  
@@ -12310,8 +11558,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 शरीरं धर्मसंयुक्तंरक्षणीयं प्रयत्नतः।  
 शौचन्तु द्विविधं प्रोक्तं वाह्यमभ्यन्तरं तथा॥१७॥
-
-
 
 मृज्जलाभ्यां स्मृतं बाह्यं भावशुद्धेरथान्तरं।  
 उभयेन शुचिर्यस्तु स शुचिर्नेतरः शुचिः॥१८॥
@@ -12348,8 +11594,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 छन्दोऽस्य देवीगायत्री अन्तर्यामी ऋषिः स्मृतः।
 
-
-
 देवता परमात्मास्य नियोगो भुक्तिमुक्तये॥२९॥
 
 भूरग्न्यात्मने हृदयं भुवः प्राजापत्यात्मने।  
@@ -12377,8 +11621,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कसप्तत्यधिकत्रिंशततमोऽध्यायः।
 
 \_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **अथ द्विसप्तत्यधिकचिशततमोऽध्यायः।**
 
@@ -12414,8 +11656,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **न भुञ्चति न गृह्णाति वायुमन्तुर्वहिःस्थितम्।  
 सम्पूर्णकुम्भवत्तिष्ठेदचलः स तु कुम्भकः॥९॥**
-
-
 
 **कन्यकः[^267]सकृदुङ्घातः स वै द्वादशमात्रिकः।  
 मध्यमश्च द्विरुद्घातश्चतुर्विंशतिमात्रिकः॥१०॥**
@@ -12453,8 +11693,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 संवत्सरशतं साग्रंप्राणायामश्च तत्समः॥१९॥**
 
 **इन्द्रियाणि प्रसक्तानि प्रविश्य विषयोदधौ।**
-
-
 
 आहृत्य यो निगृह्णाति प्रत्याहारः स उच्चते॥२०॥
 
@@ -12494,8 +11732,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 एवं मुहर्त्तमर्धंवा ध्यायेद् यः श्रद्धया हरिं।  
 सोपि यां गतिमाप्नोति न तां सर्वैर्महामखैः॥६॥
 
-
-
 ध्याता ध्यानं तथा ध्येयं यञ्च ध्यानप्रयोजनं।  
 एतच्चतुष्टयं ज्ञात्वा योगं युञ्जीत तत्त्ववित्॥७॥
 
@@ -12530,8 +11766,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 चिन्तयेद्धृदये पूर्वं क्रमादादौ गुणत्रयं।  
 तमः प्रच्छाद्य रजसा सत्त्वेन च्छादयेद्रजः॥१७॥
-
-
 
 **ध्यायेत्त्रिमण्डलं पूर्वं कृष्णंरक्तं सितं क्रमात्।  
 सत्त्वोपाधिगुणातीतः पुरुषः पञ्चविंशकः[^271]॥१८॥**
@@ -12569,8 +11803,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **नालेनाष्टदलं पद्म द्वादशाङ्गुलविस्तृतं।**
 
-
-
 सकर्णिके केसराले सूर्यसोमाग्निमण्डलं॥२८॥
 
 अग्निमण्डलमध्यस्थः शङ्कचक्रगदाधरः।  
@@ -12597,8 +11829,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 इत्याग्नये महापुराणे ध्यानं नाम त्रिसप्तत्यधिक-  
 त्रिंशततमोऽध्यायः॥
-
-
 
 **अथ चतुःसप्तत्यधिकत्रिंशततमोऽध्यायः।**
 
@@ -12633,8 +11863,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **नाड़ीभिर्विकटं दिव्यं शूलाग्रं वेधयेच्छुभम्।  
 पादाङ्गुष्ठात् कपालान्तं रश्मिमण्डलमातृतं॥८॥**
-
-
 
 तिर्य्यक्चाधोर्द्ध्वभागेभ्यः प्रयान्त्योऽतीव तेजसा[^275]।  
 चिन्तयेत् साधकेन्द्रस्तं यावसर्वं महामुने॥८॥
@@ -12671,8 +11899,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 यावत् स्वस्यन्दरूपन्तु न दृष्टं गुरुवक्त्रतः॥१८॥
 
 दृष्ठे तस्मिन् परे तत्त्वेआब्रह्म सचराचरं।
-
-
 
 **प्रमातृमानमेयञ्च ध्यानहृत्पद्मकल्पनं॥१९॥**
 
@@ -12712,8 +11938,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **न चाभिमन्यते किञ्चिन्न च बुध्यति काष्ठवत्।  
 एवमीश्वरसंलीनः समाधिस्थः स गीयते॥४॥**
 
-
-
 यथा दीपो निवातस्यो नेङ्गते सोपमा स्मृता।  
 ध्यायतो विष्णुमात्मानं समाधिस्तस्य योगिनः॥५॥
 
@@ -12747,8 +11971,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ब्रह्मस्वानिलतेजांसि जलभूवितिधातवः।  
 इमे लोका एष चात्मा तस्माच्च सचराचरं॥१५॥
 
-
-
 मृद्दण्डचक्रसंयोगात् कुम्भकारो यथा घटं।  
 करोति तृणमृत्काष्ठैगृहं वा गृहकारकः॥१६॥
 
@@ -12781,8 +12003,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 बुद्धेरुत्पत्तिरव्यक्ता ततोऽहङ्कारसम्भवः।  
 तस्मात् खादीनि जायन्ते एकोत्तरगुणानि तु॥२६॥
-
-
 
 शब्दः स्पर्शश्च रूपञ्च रसो गन्धश्च तद्गुणाः।  
 यो यस्मिन्नाश्रितश्चैषां स तस्मिन्नेव लीयते॥२७॥
@@ -12819,8 +12039,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 उपासते द्विजाः सत्यं श्रद्धया परया युताः।
 
-
-
 क्रमात्ते सम्भवन्त्यर्च्चिरहः शुक्तंतथोत्तरं॥३८॥
 
 अयनन्देवलोकञ्च सवितारं सविद्युतं।  
@@ -12845,8 +12063,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 त्रिंशततमोऽध्यायः।
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **अथ षट्सप्तत्यधिकत्रिंशततमोऽध्यायः।**
 
@@ -12883,8 +12099,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **अम्बेरापो जलात्पृथ्वीततः सूक्ष्मं शरौरकं।  
 अपञ्चीकृतभूतेभ्य आसन् पञ्चीकृतान्यतः॥९॥**
 
-
-
 स्थूलं शरीरं ध्यात्वास्माल्लयं ब्रह्मणि चिन्तयेत्।  
 पञ्चीकृतानि भूतानि तत्काय्यञ्च विराट्स्मृतम्॥१०॥
 
@@ -12919,8 +12133,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नाज्ञानञ्चैव तत्कार्यं संसारादिकबन्धनं॥२०॥
 
 नित्यशुद्धबन्धमुक्तसत्यमानन्दमयं।
-
-
 
 ब्रह्माहमस्म्यहं ब्रह्म परं ज्योतिर्विमुक्त ओं॥२१॥
 
@@ -12958,8 +12170,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **अहं ब्रह्म परं ज्योतिराकाराक्षरवर्जितम्।  
 अहं ब्रह्म परं ज्योतिर्वाक्पाण्यङ्घ्रिविवर्जितम्॥४॥**
 
-
-
 अहं ब्रह्म परं ज्योतिः पायूपस्थविवर्जितं।  
 अहं ब्रह्म परं ज्योतिः श्रोत्रत्वक्चक्षुरुज्झितं॥५॥
 
@@ -12995,8 +12205,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **अहं ब्रह्म परं ज्योतिः सदसद्भाववर्जितं।**
 
-
-
 अहं ब्रह्म परं ज्योतिः सर्वावयववर्जितं॥१६॥
 
 अहं ब्रह्म परं ज्योतिर्भेदाभेदविवर्जितं।  
@@ -13020,8 +12228,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 इत्याग्नेये महापुराणे समाधिर्नाम सप्तसप्तत्यधिक-  
 त्रिंशततमोऽध्यायः॥
-
-
 
 अथाष्टसप्तत्यधिकत्रिंशततमोऽध्यायः।  
 
@@ -13061,8 +12267,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **सम्भर्तेति तथा भर्त्ता भकारोऽर्थद्वयान्वितः।  
 नेता गमयिता स्रष्टा गकारोऽयं महामुने॥१०॥**
 
-
-
 ऐश्वर्य्यस्य समग्रस्य वीर्य्यस्य यशसः श्रियः।  
 ज्ञानवैराग्ययोश्चैव षणां भग इतीङ्गना॥११॥
 
@@ -13098,8 +12302,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 भजते प्राकृतान्धर्मान् अन्यस्तेभ्यो हि सोऽव्ययः।
 
-
-
 बन्धाय विषयासङ्गं मनो निर्विषयं धिये॥२२॥
 
 विषयात्तत्समाकृष्य ब्रह्मभूतं हरिं स्मरेत्।  
@@ -13134,8 +12336,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 इत्याग्नेये महापुराणे ब्रह्मज्ञानं नामाष्टसप्तत्यधिक-  
 त्रिंशततमोऽध्यायः॥
-
-
 
 **अथोनाशीत्यधिकत्रिंशततमोऽध्यायः।**  
 
@@ -13176,8 +12376,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **वचःस्थलं तथा वाह्न स्कन्धौ चोदरसंस्थितौ।  
 स्कन्धस्थितेयं शिविका मम भावोऽत्र किं कृतः॥९॥**
 
-
-
 शिविकायां स्थितञ्चेदंदेहं त्वदुपलक्षितं।  
 तत्र त्वमहमप्यत्र प्रोच्यते चेदमन्यथा॥१०॥
 
@@ -13215,8 +12413,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ब्राह्मण उवाच।
 
 श्रूयतां कोहमित्येतदृक्तुंनैव च शक्यते।
-
-
 
 **उपभोगनिमित्तञ्च सर्वत्रागमन क्रिया॥२०॥**
 
@@ -13257,8 +12453,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **किं हेतुभिर्वदत्येषा वागेवाहमिति स्वयं।  
 तथापि वाङ्नाहमेतदुक्त मिथ्या न युज्यते॥३१॥**
 
-
-
 **पिण्डःपृथग् यतः पुंसः शिरः पाय्वादिलक्षणः।  
 ततोऽहमिति कुत्रैतां संज्ञां राजन् करोम्यहं॥३२॥**
 
@@ -13296,8 +12490,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 पुत्रानिच्छति राज्यञ्च श्रेयस्तस्यैव किं नृप॥४१॥**
 
 **विवेकिनस्तु संयोगः श्रयो यः परमात्मनः।**
-
-
 
 यज्ञादिका क्रिया न स्यात् नास्ति द्रव्योपपतिता॥४२॥
 
@@ -13339,8 +12531,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^281]: "भोक्तेति क०।"
 
-
-
 **यज्ञादिका क्रिया न स्यात् नास्ति द्रव्योपपत्तिता॥४२॥**
 
 **परमार्थात्मनोर्योगः परमार्थ इतीष्यते।  
@@ -13380,8 +12570,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 त्वं चान्यो न भवेन्नापि नान्यस्त्वत्तोऽस्मि वा प्यहं॥५१॥**
 
 [^281]: "भोक्तेति क०।"
-
-
 
 नान्यस्माद्वैतसंस्कारसंस्कृतं मानसं तथा।  
 ऋतुः प्राह निदाघन्तं ब्रह्मज्ञानाय चागतः।  
@@ -13427,8 +12615,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 गतासुरगतासुर्वा न शोच्यो देहवानजः।  
 आत्माऽजरोऽमरोऽभेद्यस्तस्माच्छोकादिकं त्यजेत्॥२॥
 
-
-
 ध्यायतो विषयान् पुंसः सङ्गस्तेषूपजायते।  
 सङ्गात् कामस्ततः क्रोधः क्रोधात्सम्मोह एव च॥३॥
 
@@ -13463,8 +12649,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ॥१२॥
 
 चतुर्विधा भजन्ते मां ज्ञानी चैकत्वमा स्थितः।
-
-
 
 अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते॥१४॥
 
@@ -13502,8 +12686,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 आसक्तिरनभिष्वङ्गः पुत्रदारगृहादिषु।
 
-
-
 नित्यञ्च समचित्तत्त्वमिष्टानिष्टोपपत्तिषु॥२५॥
 
 मयि चानन्ययोगेन भक्तिरव्यभिचारिणौ।  
@@ -13539,8 +12721,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च।  
 प्रमादमोहौ तमसो भवतो ज्ञानमेव च॥३६॥
 
-
-
 गुणा वर्तन्त इत्येव योऽवतिष्ठति नेङ्गते।  
 मानावमानमित्रारितुल्यस्यागीस निर्गुणः॥३७॥
 
@@ -13574,8 +12754,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 देशादौ चैव दातव्यमुपकाराय राजसं।  
 अदेशादाववज्ञातं तामसं दानमीरितं॥४७॥
 
-
-
 **श्रोतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः।  
 यज्ञदानादिकं कर्म्म भुक्तिमुक्तिप्रदं नृणां॥४८॥**
 
@@ -13607,8 +12785,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **स्वकर्मणा तमभ्यर्च्य विष्णुं सिद्धिञ्च विन्दति।  
 कर्मणा मनसा वाचा सर्वावस्थासु सर्वदा॥५७॥**
-
-
 
 ब्रह्मादिस्तम्भपर्यन्तं जगद्विष्णुञ्च वेत्ति यः।  
 सिद्धिमाप्नोति भगवद्भक्तोभागवतो ध्रुवं॥५८॥
@@ -13648,8 +12824,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **अभिन्नयोर्भेदकरः प्रत्ययो यः परात्मनः।  
 तच्छान्तिपरमं श्रेयो ब्रह्मोद्गीतमुदाहृतं॥७॥**
 
-
-
 कर्त्तव्यमिति यत्कर्म्मऋग्यजुःसामसंज्ञितं।  
 कुरुते श्रयसे सङ्गान् जैगीषव्येण गीयते॥८॥
 
@@ -13684,8 +12858,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 केचिद्विष्णुं हरं केचित् केचिद् ब्रह्माणमीश्वरं॥१८॥
 
 इन्द्रादिनामभिः केचित् सूर्य्यं सोमञ्च कालकम्।
-
-
 
 ब्रह्मादिस्तम्भपर्य्यन्तं जगद्विष्णुं वदन्ति च॥१९॥
 
@@ -13722,8 +12894,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 ज्ञानमात्मनि महति नियच्छेच्छान्त आत्मनि।  
 ज्ञात्वा ब्रह्मात्मनोर्योगं यमाद्यैर्ब्रह्म सद्भवेत्॥३०॥
 
-
-
 अहिंसा सत्यमस्तेयं ब्रह्मचर्यापरिग्रहौ।  
 यमाश्च नियमाः पञ्च शौचं सन्तोषसत्तपः॥३१॥
 
@@ -13749,8 +12919,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 इत्याग्नेये महापुराणे यमगीता नामैकाशीत्यधिक-  
 त्रिंशततमोऽध्यायः॥
-
-
 
 **अथ द्वयशीत्यधिकत्रिंशततमोऽध्यायः।**
 
@@ -13789,8 +12957,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **संसारे भ्रमता लभ्यंपुत्रदारधनं वसु।**
 
-
-
 **सुहृदश्च तथैवान्ये नोपदेशी द्विजेदृशः॥१०॥**
 
 **किं पुत्रदारैर्मित्रैर्वा किं मित्रक्षेत्रबान्धवैः।  
@@ -13825,8 +12991,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **नोपसर्गान चानर्था न चौरारिभयं गृहे।  
 तस्मिन् स्याद् यत्र चाग्नेयपुराणस्य हि पुस्तकं॥२१॥**
-
-
 
 न गर्भहारिणीभीतिर्न च बालग्रहा गृहे।  
 यत्राग्नेयं पुराणं स्यान्न पिशाचादिकं भयं॥२२॥
@@ -13863,8 +13027,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 व्यासाग्नेयपुराणं ते रूपं विद्याद्वयात्मकं।  
 कथितं ब्रह्मणो विष्णोरग्निना कथितं यथा॥३२॥
-
-
 
 सार्द्धं देवैश्च मुनिभिर्मह्यं सर्व्वार्थदर्शकं।  
 पुराणमग्निना गीतमाग्नेयं ब्रह्मसम्मितं॥३३॥
@@ -13903,8 +13065,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 श्रावय त्वञ्च शिष्येभ्यो भक्तेभ्यश्च पुराणकम्।
 
-
-
 सूत उवाच।
 
 व्यासप्रसादादाग्नेयं पुराणं श्रुतमादरात्॥४४॥
@@ -13942,8 +13102,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मण्डलानि च वास्तुश्च मन्त्राणि विविधानि च।  
 प्रतिसर्गश्चानु गीतो ब्रह्माण्डपरिमण्डलं॥५५॥
 
-
-
 गीतो भुवनकोषश्च द्वीपवर्षादिनिम्नगाः।  
 गयागङ्गाप्रयागादि तीर्थमाहात्म्यमीरितं॥५६॥
 
@@ -13979,8 +13137,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 पुराणपाठकञ्चैव पूजयेत् प्रयतो नृपः।
 
-
-
 गोभूहिरण्यदानाद्यैर्वस्त्रालङ्कारतर्पणैः॥६७॥
 
 तं संपूज्य लभेच्चैव पुराणश्रवणात् फलं।  
@@ -14002,8 +13158,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 समाप्तमाग्नेयं पुराणं।
 
-
-
 **अथाग्निपुराण-परिशिष्टम्।**
 
 **———000@000———**
@@ -14021,8 +13175,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 उत्पन्नः प्रोह्यते प्रियप्रियामरोपचारतः[^290]॥२॥**
 
 [^290]: "पाठोऽयं आदर्शाक्षरविलोपेन शोधयितुमशक्यः।"
-
-
 
 **निजेन तस्य मानेन आयुर्वर्षशतं स्मृतं।  
 कालश्च विष्णुर्यस्तेन तस्यायुः परिगण्यते॥३॥**
@@ -14059,8 +13211,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **प्रोच्यते तत् सहस्रञ्च ब्रह्मणो दिवस्रं द्विज।**
 
-
-
 **ब्रह्मणो दिवसे ब्रह्मन्मनवश्च चतुर्दश॥१४॥**
 
 **भवन्ति प्रतिमानञ्चतेषां कालकृतं शुभं।  
@@ -14095,8 +13245,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **तद्वद्वराहकल्पश्च तृतीयः परिकल्पितः।  
 तत्र विष्णुः स्वयं प्रीत्या वाराहं वपुरास्थितः॥२४॥**
 
-
-
 सृष्ट्वा जगद्व्योम धरान्तु तोयं  
 प्रजास्तु सृष्ट्वा सकलास्तथेशः।  
 नैमित्तिकाख्ये प्रलये समस्तं  
@@ -14128,8 +13276,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 सोऽपि तेन सृजस्वेति प्रोक्तो लोकमिमं पुनः।  
 असकृच्छ्रान्तसलिले ससर्ज तपसे धृतः॥६॥
-
-
 
 तस्मिन् सलिलमग्ने तु पुनरन्यं प्रजापतिं।  
 ब्रह्मा ससर्ज भूतेशो दक्षिणात्तिष्ठतोऽपरं॥७॥
@@ -14170,8 +13316,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 [^293]: "पाठोऽयं न साधुः । "
 
-
-
 पञ्चधाऽवस्थितः सर्गो ध्यायतः प्रतिबोधनात्।  
 मुख्यसर्गः स विज्ञेयः सर्गविद्भिर्विचक्षणैः॥१७॥
 
@@ -14207,8 +13351,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 नवमी रुद्रसर्गस्तु नवसर्गाः प्रजापतेः।
 
-
-
 **पञ्चैते वैकृताः सर्गाः प्राकृतास्तु प्रियाःस्मृताः॥२८॥**
 
 **प्राकृतावैकृताश्चैव जगतोमूलहेतवः।  
@@ -14243,8 +13385,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **नारदो दशमश्चैव वसिष्ठश्च महाद्युतिः।  
 सनकादयो निवृत्त्याख्ये ते च धर्मे नियोजिताः॥४॥**
 
-
-
 **प्रवृत्त्याख्ये मरीच्याद्या मोक्षैकेनारदो मुनिः।  
 योऽसौ प्रजापतिस्थस्य दक्षो नामाङ्गसम्भवः॥५॥**
 
@@ -14277,8 +13417,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **रुद्रसर्गन्तु मे ब्रूहि विस्तरेण महामते।  
 अनुसर्ग मरीच्याद्याः ससृजुस्तेकथं पुनः॥१॥**
-
-
 
 मित्रावरुणपुत्रत्वं वशिष्ठस्य कथं भवेत्।  
 ब्रह्मणो मनसः पूर्व्वमुत्पन्नस्य महामते॥२॥
@@ -14317,8 +13455,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 तपोबलेन विप्रेन्द्र भूतानि विविधानि च।
 
-
-
 पिशाचान् कश्मलांश्चैवसिंहोष्ट्रैकराननान्॥१२॥
 
 वेतालप्रमुखानन्यानन्यांश्चैव सहस्रशः।  
@@ -14355,8 +13491,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 श्रद्धा भूतिर्धृतिस्तुष्टिः पुष्टिर्मेधा किया तथा।
 
-
-
 **बुद्धिर्लज्जा वपुः शान्तिः सिद्धिः कीर्त्तिस्त्रयोदश॥२४॥**
 
 **पत्न्यर्थं प्रतिजग्राह धर्म्मोदाक्षायणीः प्रभुः।  
@@ -14390,8 +13524,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कर्दमश्चाम्बरीषश्च सहिष्णुश्च सुतत्रयम्॥३४॥**
 
 **क्षमा तु सुसुवे भार्य्यापुलस्त्यस्य प्रजापतेः।**
-
-
 
 **क्रतीस्तु सत्वतिर्भार्य्या वालिखिल्वानसूयत॥३५॥**
 
@@ -14427,8 +13559,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **पावकं पवमानञ्च शुचिञ्चापि जलाशिनं।  
 तेषान्तु वंशजान् वक्ष्ये षट्चत्वारिंशदीरितान्॥४५॥**
 
-
-
 कथ्यन्ते बहुशश्चैते पिता पौत्रत्रयञ्च यत्।  
 एवमेकोनपञ्चाशदन्वयात् परिकीर्त्तिताः॥४६॥
 
@@ -14462,8 +13592,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 नद्यायाञ्चैव घोषाख्यो नागवीथ्याञ्च जामिजाः।  
 पृथिवीविषयं पूर्व्वमरुन्धत्यां व्यजायत॥५६॥
 
-
-
 सङ्कल्पायान्तु सङ्कल्पः पुत्रो यज्ञे महामते।  
 ये त्वनेकवसुप्राणा देवज्योतिः पुरोगमाः॥५७॥
 
@@ -14496,8 +13624,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 गास्तु वै जनयामास सुरभ्यां कश्यपो मुनिः।  
 विनतायान्तु पुत्रौ द्वौप्रख्यातौगरुडारुणौ॥६७॥
-
-
 
 **गरुड़ो देवदेवस्य विष्णोरमिततेजसः।  
 वाहनत्वं गतः प्रीत्या अरुणः सूर्य्यसारथिः॥६८॥**
@@ -14534,8 +13660,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **सर्गानुसर्गौकथितौमया ते  
 समासतः सृष्टिविवृद्धिहेतोः।**
 
-
-
 **पठन्ति ये विष्णुपराः सदा नराः  
 इदं द्विजास्ते विमला भवन्ति च॥७८॥**
 
@@ -14570,8 +13694,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 **कद्रुश्च सुरसा चैव यातुदेवी शुनी स्मृता।  
 दक्षस्यैता दुहितरस्ताः प्रादात् कश्यपाय सः॥७॥**
 
-
-
 तासां ज्येष्ठा वरिष्ठा च अदितिर्नामनामतः।  
 अदितिः सुसुवे पुत्रान् द्वादशाग्निसमप्रभान्॥८॥
 
@@ -14604,8 +13726,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 तस्यां वरुण आदित्यो दीप्यमानः स्वतेजसा।  
 पाति सर्व्वानिमान् लोकान्नियुक्तो ब्रह्मणा स्वयं॥१८॥
-
-
 
 उपास्यमानीगन्धर्ष्वैस्तत्रैवासरसाङ्गणैः।  
 दिव्यगन्धानुदीप्ताङ्गो दिव्याभरणभूषितः॥१९॥
@@ -14640,8 +13760,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 सुभ्रुः सुनासा सुनखा सुरनाटा मनस्विनी।  
 करसम्मितमध्याङ्गी पीनोरुजघनस्थलौ॥२९॥
 
-
-
 तन्वङ्गी मधुरालापा सुमध्या चारुहासिनी।  
 रक्तोत्पलकरापादासुपदी विनयान्विता॥३०॥
 
@@ -14674,8 +13792,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कुम्भेत्वगस्त्यः सलिले च मत्स्यः॥३६॥
 
 स्थले तावपि तप्येते पुनरुग्रतरन्तपः।
-
-
 
 तपसा प्राप्तकामोऽसौ परं ज्योतिः सनातनं॥३७॥
 
@@ -14710,8 +13826,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 कथनं नाम पञ्चमोऽध्यायः॥  
 
 \_\_\_\_\_
-
-
 
 **अथ षष्ठोऽध्यायः।**
 
@@ -14753,8 +13867,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 शृन्वन्तु मुनयश्चेमे कथ्यमानं मयाऽधुना।
 
-
-
 महिष्याश्चैव शृन्वन्तु महदाख्यानमुत्तमं॥९॥
 
 भृगोः ख्यात्यां ममुत्पन्नोमृकण्डुर्नाम वै सुतः।  
@@ -14790,8 +13902,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 तौ दृष्ट्वा दुःखमापन्नौमार्कण्डेयो महाद्युतिः।
 
-
-
 उवाच वचनं तत्र किमर्थं दुःखमीदृशं॥१९॥
 
 यदेतत् कुरुषे मातस्तातेन सह धीमता।  
@@ -14825,8 +13935,6 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 मार्कण्डेय उवाच।
 
 भूतापहारिणंमृत्युंजेतुमिच्छामि साम्प्रतं।
-
-
 
 तत्रोपदेशात्तुगुरो तत्रोपायंवदस्वनः॥२९॥
 
@@ -14868,322 +13976,5 @@ to be “the sixtythird or last section,”and appears on the faceof the stateme
 
 **तुङ्गा च भगिनीभद्रा द्वे नद्यौ मन्त्रसम्भवे।**
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^300]: "पाठोऽयं न साधुः।"
-
-
-[^296]: "पाठोऽयं न साधुः।"
-
-
-[^285]: "भोक्तेति क०।"
-
-
-[^283]: "ततः क्षुत्सम्भवाभावादिति ख०, ञ० च।"

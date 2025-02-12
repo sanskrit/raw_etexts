@@ -18,33 +18,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDcwMjM1ODc1OTA
 
 \[
 
-
-
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 तन्त्रोद्यानपुष्पहारे शास्त्रसरे - ।३।
 
 [TABLE]
-
-
 
 **FOREWORD**  
 BY  
 M. KRISHNAMACHARIAR, M.A., M.L., Ph. D., M. R. A. S.
 
  Poetics, or Alankarasastra, means the Science ofpoetry. It embraces in its sphere, theory of poetry, the origin, form and variety of poet's work, its faults andmerits, and a description of several embellishments whichdistinguish poetic from unpoetic compositions. In itswidest sense it covers the field of music, dancing and erotics. The earliest literature of the Hindus is poetic andis the natural effusion of man's instinct. But poetics asa science must be of later origin, for without a volume ofpoetry (*lakshya*) there cannot be a science (*lakshana*) dealing with the regulation of its composition. Tradition saysthat Goddess of Learning, Sarasvati, created Kavya-purusha as the Personification of Poetry, and the Creatorsent him down to the human world for the propogation ofpoetics. In 18 chapters, he taught the subject to hisseventeen pupils. The several topics were embodied bythese desciples in separate treatises, Kavirahasya bySahasraksha, Auktika by Uktigarbha, Ritinirnaya bySuvarnanabha, Anuprasa by Pracetayana, Yamaka andCitra by Citrangada, Sabdaslesha by Sesha, Vastava byPulastya, Upama by Aupakayana, Atisaya by Parasara,Arthaslesha by Utithya, Ubhayalankarika by Kubera,Vainodika by Kamadeva, Rupaka by Bharata, Rasadhikara by Nandikesvara, Dosha by Dhishana, Guna byUpamanyu and Aupanishadika by Kucimara. These references are given by Rajasekhara in Kavyamimamsa(I. 1). It has been thought fashionable to treat theseaccounts as fictitious, but when we see that much of theearliest literature has been lost and replaced by later compendia, which, on account of the ease of study, have tendedto throw the older treatises into oblivion, it is possible thatthese traditional accounts are not after all a fraud. Opinions of many of these early writers are noticed in later
-
-
 
 works and Vatsyayana in his Kamasutras cites some ofthem for their views.
 
@@ -63,8 +49,6 @@ works and Vatsyayana in his Kamasutras cites some ofthem for their views.
 -----------------------------------------
 
 Adóhôt à frand o
-
-
 
 of Gunas or Alankaras; or classed as Natyalankaras.Guna and Alankara are according to Bharata subsidiaryto rasa.
 
@@ -86,8 +70,6 @@ of Gunas or Alankaras; or classed as Natyalankaras.Guna and Alankara are accordi
 
 [^7]: "VI. 16. 17."
 
-
-
  On the relative priority of Bhamaha and Dandin, therehas been divergence of opinion¹.But the assertivenesof Dandin's expressions of dissent in relation to views of
 
 Bhamaha on particular topics indicates his posteriority. Such is also the opinion of the present editor, Tatacharya. It is possible that Bhamaha was an elder contemporaryof Dandin or Bhamaha was an author whose opinionwere then fresh in the minds of the readers which Dandithought ought to be controverted before they gainedplace of honor[^8].
@@ -103,8 +85,6 @@ Bhamaha on particular topics indicates his posteriority. Such is also the opinio
 Kavyadarsa, Anantacharya in Brahmavadin (1911) R. Narasimhacharya, Ind. Ant. XLI, 20, MedepalVenkataramanacharya's History of Alankarasastra (inTelugu). Taruna Vacaspati, in his commentary ofKavyadarsa (I. 29., II. 235-7; IV. 4) distinctly says theDandin criticises Bhamaha. See S. K. De's Poetics I. 45-62; For a contrary opinion, see P. V. Kane, JRA(1908) 545; Ind. Ant. XLI. 12-98; Pathak. JBRAS XXII 19, Ind. Ant. XLI. 232; M. T. Narasimha AyyangaJRAS (1905) 535; Barnett, JRAS (1905) 841. While Bhmaha mentions that Upama should not be divided inseveral categories as Nindopama, Prasamsopama &and that all such varieties should come under samanyguna, these scholars see in it a criticism of Dandinlong list of varieties of Upama.  
 2. For the list of Alankaras illustrated in Canto X, sJRAS, (1929), 830 et seq.  
 On this question there is a difference of opinion. It mainturns on the two verses:
-
-
 
 **स्वविक्रमाक्रान्तभुवश्चित्रं यन्न तवोद्धतैः(?)।  
 को वा सेतुरलं सिन्धोर्विकारकरणं प्रति॥**BHAMAHA, ii. 70.  
@@ -122,8 +102,6 @@ On this question there is a difference of opinion. It mainturns on the two verse
 दूर्वाकाण्डमिव श्यामं तन्वी श्यामा लता यथा॥
 
 BHAMAHA II. 13
-
-
 
  If Dandin flourished about the beginning of the 7th century Bhamaha can be safely placed in the6th centuaryA. D.¹  
  Bhamaha composed his Kavyalankara after an investigation of the thoughts of good poets for the instructionof the virtuous;
@@ -157,8 +135,6 @@ and
 
 1\. Ganapati Sastri, in his introduction to Svpnavasvadatta(T. S. S. No. 15 p. XXIV), places Bhamaha far earlierthan Kalidasa and in the 1st century B. C. See III. 3and I. 43, where references to Kalidasa, RaghuvamsXVI. 7, 8 and Megha, I. are indicated. S. K. De, (Sanskrit Poetics, I. 49 ) places him in 7-8 century A. D.
 
-
-
  In six chapters, he deals with six topics, Kavyasarira, Alankara, Dosha, Nyaya and Sabdhasuddhi, His venerationfor Panini is supreme and his description of the Ocean ofVyakarana reminds us of the garland of metaphors whichis Valmiki's peculiar glory:
 
 **सूत्राम्भसं पदावर्तंपारायणरसातलम्।  
@@ -190,8 +166,6 @@ Here is Valmiki's description of the sky as an ocean:
 **सैषा सर्वैव वक्रोक्तिरनयाऽर्थो विभाव्यते।  
 यत्नोऽस्यां कविना कार्यः कोऽलङ्कारोऽनया विना॥II. 85.**
 
-
-
  By Vakrokti Bhamaha meant all poetic expressionother than natural, that is, all adorned expression asopposed to naked. Vakrokti, said Bhamaha, was the meansby which the meaning was rendered assimilable or delectable; in short, Vakrokti flashes rasa. Rasa therefore issubordinate to Alankara and Alankara is founded onVakrokti. The idea of Vakrokti was carried to an extremeby Kunta(la)ka and his Vakroktijivitam enunciates thetheory that Vakrokti is the life of poetry and that comprehends in it other characteristics of poetry, Alankaraand Dhvani. But before him Udbhata had kept himselfwithin reasonable limits and accepted Bhamaha's generaltheory, except in some subordinate details of definitionsand classifications, and on Bhamaha's work he wrote acommentary. To this school also belong Mukula andPratiharenduraja who commented on Udbhata's work.
 
  This verse of Bhamaha has been quoted by laterwriters, and Bhamaha also states it in other words:
@@ -210,8 +184,6 @@ Anandavardhana appreciates Bhamaha's views : (?)
 **भामहेनाप्यतिशयोक्तिलक्षणे यदुक्तं 'सैषासर्वैव वक्रोक्ति'रिति,तत्रातिशयोक्तिर्यमलङ्कारमधितिष्ठति कविप्रतिभावशात्तस्य चातुर्यातिशययोगोऽन्यस्यालङ्कारमात्रतैवेति सर्वालङ्कारस्वीकरणयोग्यत्वेनाभेदोपचारात्, सैव सर्वालङ्काररूपेत्ययमेवार्थोऽगन्तव्यः। तस्याश्चालङ्कारान्तरसङ्कीर्णत्वं कदाचिद्वाच्यत्वेन कदाचिद्व्यङ्ग्यत्वेन**
 
 **  **                     (Bom. Edn. P. 207-8)
-
-
 
 Ruyyaka thus sums up Bhamaha's views;
 
@@ -247,8 +219,6 @@ and the same verse is quoted anonymously by Namisadhuand Mammata.
 
 1\. On this see K. B. Pathak's Bhamaha's attacks on*Jinendrabuddhi* JBRAS (XXIII. 18) ; P. V. Kane, Bhamaha*Byasa* and *Magha* (ibid. 91\] and K. P. Trivedi, I A, XLIII.204, 260.
 
-
-
 From Rajamitra, there is an instance taken to illustratethe figure, samahita:
 
 **समाहितं राजमित्रे यथा क्षत्रिययोषिताम्।  
@@ -279,8 +249,6 @@ and Ruyyaka in Alankarasarvasva (p. 183) says:
 हृद्यो भाम इव स्त्रीणामल्पारम्भोऽपि भामहः॥
 
  Is it possible that Bhattanayaka also composed acommentary on Bhamaha's Kavyalankara, as Udbhatadid?
-
-
 
  It is suspected that Bhamaha wrote a later work on rhetoric, with greater completeness, for we have in Rasikarasayanam, (Mysore Cat. 303.) which goes under his name, an elaborate treatment in seven prakaranas of all topics embraced in poetics. The exposition of the Natyalankaras of Bharata is particularly good. But a distinction must be made detween the Karikas and the Vrittis. If these Karikas could have been the work of Bhamaha, Vritti must have been anonymously written later than the 12th century A. D., for it mentions Kavyaprakasa and Bhavaprakasa and quotes Malatimadhava.
 
@@ -314,8 +282,6 @@ But in the extant editions, we see only one verse delineating the Love for Devas
 
 सस्सौख्यं हश्च खेदं विलयमपि च लः क्षस्समृद्धिं करोति।
 
-
-
 संयुक्तं चेह न स्यात् सुखमरणपबुर्वर्णविन्यासयोगः(?)  
 पद्यादौ गद्यवक्त्रेवचसि च सकलं प्राकृतादौ समोऽयम्॥
 
@@ -325,15 +291,9 @@ And if these two authors are identical, this work on metrics appears to be an ex
 
  This, shortly, is what has been known or said ofBhamaha. D. T. Tatacharya has by his present Vritti,replenished the lost gloss of Udbhata and the thought andlabour spent on it deserve all appreciation. His scholarship is everywhere adored and to students of rhetoric,he needs no introduction.
 
-
-
-
-
 Errata  
 In page iii line 5 read hadfor has  
 ,,     iv ,, 27 ,,  says ,,mentions
-
-
 
 AN APPRECIATION
 
@@ -342,23 +302,16 @@ AN APPRECIATION
 अधनस्येव दातृत्वं क्लीबस्येवास्त्रकौशलम्।  
 अज्ञस्येव प्रगल्भत्वमकवेः शास्त्रवेदनम्॥
 
-
-
 Above all, his powers of expression is simply admirable ashis writings and speeches possess the guna of *Prasada*,the redeeming feature of all convincing passages and thenecessary suggestive of every rasa.
 
  The critical faculty, essential for determining correctreading and sense of passages and for comparative studyand research, is present in him in a high degree, as maybe seen from the preface to this work, his M.O.L. thesison the '*Definition of Poetry or Kavya*' and the introductionto his *Mimamsabhyudaya*. Every one of them deserves tobe studied carefully, not only for the valuable matter andmethod of criticism it contains, but also for the fact thatit clearly shows how the western scholars mistake us veryoften, as they are wanting in proper materials for researchin the Oriental field. For instance, our commentator'sinterpretation, in his thesis, of the term 'Universal' usedby Aristotle in his Poetics is worthy of our attention.There, it has been brought out how critics such as Coleridge,Sydney, Butcher and others, have gone wrong in takingit to mean 'generic attributes', 'moral ideal', and 'purifiedindividuality' etc. etc. and how it should be taken to mean'*actions deprived of individual relations*', according tothe principle of **साधारणीकरण** of the Oriental critics. Ithas also been shown that the latter interpretation alonemakes Aristotle himself intelligible and consistent.
 
  Coming to Bhamaha, his work though styled *Kavyalankara* is really encyclopædic as he himself summarisesin **षष्ठ्याशरीरं**and the following. His ideas are all profoundand his expressions succinct, grand and suggestive. Inthe Sastra-Khanda of his work, he may be even said toverge upon a sort of obscurity to ordinary minds. Towrite an intelligible and intelligent commentary on it when
 
-
-
 even a correct edition of the text itself is not to be hadis really a difficult task, requiring a high order of intellectand patient working for a sufficiently long period. This,our author has successfully performed and has thus rendered a valuable service to the cause of Oriental Literature, nay, to Literature in general, as principles of poeticcriticism are brought to light in the body and the introduction of this learned commentary. All this our authorhas done in a purely academic spirit like the Rishis andother great scholars of old. Though his commentary is modestly named *Vritti*, it deserves to be ranked as a *Bhashya* from the thoroughness and lucidity of treatment of matter, the wealth of illustrations and the comparative and discoursive manner of presentation. The stanzas put in byour commentator at the beginning and at the end of each*Pariccheda* are really literary gems suggestive of fine, profound and useful ideas. They are good illustrations ofBhamaha's definition of sweetness **श्रव्यंनातिसमस्तार्थं** andshould be scrutinised by the reader carefully. All thishe has effected with the help of a very small library. IfUniversities and other bodies interested in the advancement of learning could make use of his scholarship andequip him with better aids for comparative study and research, they would be discharging their duties properly asit would greatly promote the interest of education in itstruest sense.In the Oriental field there is a vast scopefor comparative and original work which, if done, wouldbe very useful to the world interested in learning and culture. First there is the *Rig Veda* the most ancient literary monument shedding so much light on the laterworks and the civilisation of the Aryans.Much is yetto be done, though scholars of the West and the East havehitherto worked to a great extent. Next there are the
-
-
 
 fields of *Nyaya* and *Vaisesika* Sastras with their later developments, through highly subtle conceptions at thehands of Avaidikas and Vaidikas, to be viewed comparatively with the Western Logic and Epistemology beginning from Aristotle down to modern times, for the sakeof certain useful interchange of ideas and for realisingthe grandeur of the Oriental mind at so early a period.Again there are the other branches of the Mental and Moralsciences of the East and the West awaiting a mutualproper understanding as the little that has yet been done.in that field is in many cases really misleading. Nowour commentator has planned for a comparative researchin the field of Rig Veda, Nyaya and Metaphysics in itsdifferent branches. From the brilliant manner in whichhe has accomplished his work in his Mimansabhyudaya,a critical and historical review of the Mimamsa Sastra,there is every hope of his admirable achievement in thework under contemplation by the grace of Hayavadana, theGod of learning.
 
-                                   
   
 
 S. Vedantam Aiyangar, M.A. L.T.
@@ -367,10 +320,6 @@ Tiruvadi,
 Retired Principal,
 
 30th Dec. '33.                       Sanskrit College, Tiruvadi.  
-
-
-
-
 
 **\।\। श्रीः\।\।**  
 
@@ -393,8 +342,6 @@ Introduction ...            ...        ...
 
  चतुर्थपरिच्छेदपरामर्शः। तत्र —दोषेषु दण्डिभामहयोर्विशेषः। वत्सेश्वरचरिते भामहोक्ता दोषाः। वीणावासवदत्ते तेषां परिहारेण कथावस्तुनिबन्धनम्।
 
-
-
  अन्त्यपरिच्छेदद्वयपरामर्शः। तत्र —भामहस्य वैदुष्यम्। दण्डिभामहमोस्तारतम्यम्। भामहस्य रासिक्यम्।
 
  एतदीयं ग्रन्थान्तरम्। अस्य कालः। शास्त्रान्तराणां साहित्यस्य च सम्बन्धः। मीमांसासाहित्यसम्बन्धः। उपसंहारः।
@@ -412,8 +359,6 @@ Introduction ...            ...        ...
 
  माधुर्यप्रसादौ १। ओजः २ \। माधुर्यप्रसादयोर्लक्षणम् ३। अलङ्कारपञ्चकम् ४। अनुप्रासः ५-८। यमकम् ९-२०। रूपकम् २१-२४ दीपकम् २५-२९। उपमा ३० - ३८। उपमादोषाः ३९-६५। अलङ्कारषट्कम् ६६-६७। आक्षेपः ६८-७०। अर्थान्तरन्यासः ७१ - ७४। व्यतिरेकः ७५-७६। विभावना ७७-७८। समासोक्तिः ७९- ८०। अतिशयोक्तिः ८१-८५। हेतुसूक्ष्मलेशानामनलङ्कारता ८६ -
 
-
-
 ८७। यथासंख्योत्प्रेक्षे ८८- ९२। स्वभावोक्तिः ९३ - ९४। उपसंहारः९५-९६।
 
 तृतीयः परिच्छेदः—                          
@@ -430,8 +375,6 @@ Introduction ...            ...        ...
 
  परिच्छेदार्थप्रतिज्ञा १। न्यायशास्त्रार्थनिरूपणस्य इह सङ्गतिः २।काव्येशास्त्रार्थनिबन्धनसङ्गतिः ३-४। प्रमाणतद्विषयौ ५। प्रत्यक्षम् ६-१०।अनुमानम् ११। प्रतिज्ञा १२। प्रतिज्ञाहीनम् १३ - २०। काव्यहेतुः
 
-
-
 २१-२५। दृष्टान्तहीनम् २६-२७। अनुमानदूषणम् २८।दूषणाभासः २९।न्यायविरुद्धनिबन्धनोदाहरणम् ३०-३१।न्यायशास्त्रार्थोपसंहारः ३२। शास्त्रकाव्ययोर्विशेषः ३३-३४ \। काव्यप्रतिज्ञा ३५-३९। प्रतिज्ञाऽऽभासः ४०-४६। हेतुः ४७-५१। हेत्वाभासः ५२-५४।काव्यदृष्टान्तः ५५-५७।शुद्धदृष्टान्तः ५८-६०। दुष्टम् ६१-६८। उपसंहारः ६९।
 
 षष्ठः परिच्छेदः —                           
@@ -447,8 +390,6 @@ Introduction ...            ...        ...
 Appendix                               
                    I -XXXIV
 
-
-
 **INTRODUCTION**  
 
 **(Sound Scholarship)**
@@ -456,8 +397,6 @@ Appendix
  What I had to say about Bhamaha and hisKavyalankara I have said in the Sanskrit introduction, whereto I am going to add nothing here.During my college life itself, when I had to attendthe class lectures on the History of SanskritLiterature and Philology with special referenceto Sanskrit, there arose a suspicion in my mindabout the real value, and soundness of modernSanskrit scholarship. Day by day it grew stronger and stronger till at last I was thoroughly convinced that the present day scholarship is verydefective, on account of which the literaturehas suffered to a very great extent.
 
  My College library contains a copy of thetranslation, (of course beautifully edited, printedand bound with gilt letters on it, and accordinglymore costly than the Indian editions of the book)of *Dasarupa* of Dhananjaya by George C. O. Hassand a translation of *Vasavadatta* of Subandhuby Louis H. Gray both of which I happened tolook into when preparing for my thesis for theM. O. L. Degree on "The Definition of Poetry orKavya" which has been published in the 'Journalof Oriental Research, Madras' and a reprint ofthe third chapter of which is appended to thisbook. Having gone wholly through the formerof these two, I am able to boldly assert that itcan supply us with abundant and most convincing illustrations of the very grave misconcep-
-
-
 
 tions, blunders to which the dictionary-taughtpandits of the western line are usually andinevitably liable. In one of the several placesmistaken by him which I have pointed outin the "Journal of Oriental Research" thetranslator takes the stanza in a sense exactlyopposite to the intended one. In the printedtexts of the Dasarupa there is a stanzametrically defective. The translator was intelligent enough to find it out. So for well.But he has attempted to correct it adoptingthe suggestion that came from one of his friendsand he appears to have congratulated himselffor having thus remedied the defect. The facthowever is that the suggested reading is ungrammaticalț.
 
@@ -474,18 +413,12 @@ mimamsabhyudaya. The history of India, social, critical, religious, philosophica
 Vide Udyana Patrika Bk. VII Page 10.  
 Vide Udvana Patrika RL III Page 11 &12
 
-
-
 what not, has been and is being built chiefly ifnot wholly with the help derived from the ancientSanskrit literature. Those who bear this wellin mind can fully realise the disaster whichInability to understand correctly original Sanskrit texts is sure to bring about. And I seesuch a state of things has already come. Spurioustheories regarding Vedic religion have beenset afloat. Philosophy, Vedic and post-Vedic,has been misrepresented. Unfair opinions havebeen created about India's social customs andobservations.
 
  My intention here is not at all to makeany complaint against all this. What I am directlyconcerned with is the present day Sanskritscholarship. What is scholarship after all? Skillin preparing catalogues and indices and skill inconjecturing chronological hypotheses? If so thepresent age has brilliant scholars who cannotbe surpassed by those of any other age. Butunfortunately true scholarship does not consistin that. Scholarship, at least Sanskrit Scholarship, consists in the ability to correctly interpret and understand the original texts. Consulting a perfect dictionary, let us concede, one mayknow the meaning of all the words in a sentence;but not the idea intended to be conveyed by it.Besides there are phrases peculiar to Sanskritwhich to none but those who have got a gooddeal of familiarity with the language throughtheir vast reading and ample exercise in writing,would be intelligible. And further there is a
 
-
-
 number of laws which govern sentences.Sentence is also a subject which, as any othermust be studied scientifically. Unless it is studiedso, we shall certainly be often unable to make,out of a sentence, what it really means. And thereis a science for it. It is one of the valuable literary treasures which India alone can boast of.That is Mimamsa. Its direct concern is not, asmany think, with sacrificial rites, but with Vedicsentences. As the Veda is concerned with thesacrifices it also has to refer to them. But initselfit is purely a science of (interpreting) sentence onaccount of which it has, as I have said elsewhere,got the name of *Vakya* (sentence).  
  If keeping all these points in mind, one will goto evaluvate the modern scholarship, it will showitself in its true colours. It is hopelessly defective. It requires to be set aright. Otherwisethe study of Sanskrit will serve no useful purpose.On the otherhand it will do much harm.But before remedying something that is wrongwe should know what its defects are and whythey are so. This is my excuse for exposing someof the flaws in the works of a few of the scholarswhom, for class purposes, I have specially studied. I have not in the least any idea of induling in fault-finding. It is always the motivealone that makes anything good or bad. It isquite possible that I may be misunderstoodby some. But my firm conviction is that I shallbe failing in my duty, if owing to a sense ofsuch risk, I refrain from making a strenuous
-
-
 
 attempt to draw the attention of those interested in and responsible for the well-being of Sanskritto the most doplorable condition of the presentday scholarship.
 
@@ -493,16 +426,11 @@ attempt to draw the attention of those interested in and responsible for the wel
 
  "After we have thus gained an insight into thesystem by which the Brahmanas were handed down
 
-
-
 from generation to generation, we now return to a consideration of the literary merits of these works.The Brahmanas represent no doubt a most interestingphase in the history of the Indian mind, but judgedby themselves, as literary productions, they are mostdisappointing. No one would have supposed that atso early a period, and in so primitive a state of society, there could have risen up a literature which for pedantry and downright absurdity can hardly be matchedanywhere. There is no lack of striking thoughts,of boldexpressions, of sound reasoning, andcurious traditions in these collections. But these areonly like the fragments of a *torso*, like preciousgems set in brass and lead. The general characterof these works is marked by shallow and insipid grandiloquence, by priestly conceit, and antiquarianpedantry. It is most important to the historian thathe should know how soon the fresh and healthygrowth of a nation can be blighted by priestcraft andsuperstition. It is most important that we shouldknow that nations are liable to these epedemicsin their youth as well as in their dotage. These worksdeserve to be studied as the physician studies thetwaddle of idiots, and the raving of madmen. Theywill disclose to a thoughtful eye the ruins of fadedgrandeur, the memories of noble aspirations. But letus only try to translate theseworks into our ownlanguage, and we shall feelastonished that humanlanguage and human thought should ever have beenused for such purposes. The following is a small specimen, and it has not been chosen to give an unfavourable idea of the Brahmanas.
 
  Critics, when dealing with the very ancientliterature such as the Vedas must take intoconsideration the very great importance attachedto it, the high esteem in which it is held, theburning enthusiasim with which it has been
 
-
-
 studied and the most scrupulous care taken topreserve it by such an intelligent nation as theAryans, and hundred times ponder over beforepassing any unfavourable remarks with regardto it. If from his view-point there is nothingbut absurdity, what a candid and able scholarshould do is to honestly confess his inability tounderstand it, but not to abuse it. Perhaps thisscholar is unconsciously paying high tributeto the Rishis of old. It is said in connection withthe life of consummate *yogins* and *bhaktas* (**योगिन्&** **भक्त**) that theyyearn for such a stage inlife when people would laugh at and playinglytrifle them.
-
 
 Elsewhere[^9] I have shown a few of the minormistakes found in the Ancient Sanskrit Literature of Prof. Max Muller which are sufficient toindicate that his grasp of Sanskrit is in no waybetter than that of others. Now let us take upa topic which is rather serious and has beendealt with by the Professor towards the end ofthe same book. After explaining in his own waythe contents of the first six rks of one of thephliosophical hymns of the Rigveda \[x. 129\] Prof.Max Muller writes:-
 
@@ -510,17 +438,11 @@ Elsewhere[^9] I have shown a few of the minormistakes found in the Ancient Sansk
 
  "And now a new thought dawns in the mind of theRishi, a thought for which we are not prepared, andwhich apparently contradicts the whole train ofargument or meditation that preceded. Whereashitherto the problem of existence was conceived as amere evolution of one substance, postulated by human
 
-
-
 reasoning, the poet now speaks of an Adhyaksha, an overseer, a contemplator, who resides in the highest heavens. He, he says, knows it. And why? Because this creation came from him whether he made it or not. The poet asserts the fact that this overseer is the source of creation though he shrinks fron determining the exact process, whether he created from himself or from nothing, or from matter existing by itself. Here the poet might have stopped; but there are yet four more words of extreme perplexity which close the poem. They may be interpreted in two ways. They either mean "Or does he not know?" and this would be a question of defiance addressed to all who might doubt his former assertion; or they mean “or he knows not" and this would be a confession of doubt on the part of the poet, startling, perhaps, after the firm assertion of his belief in this one overseer and creator, yet not irreconcilable with that spirit of timidity displayed in the words, "whether he made it himself or not," which shrinks from asserting anything on a point where human reason, left to herself, can only guess and hope, and if it venture on words, say in last resort, “Behold, we know not anything."
 
  The topic here, being very interesting and philosophically most important, deserves and requires to be treated at great length when only a clear and correct understanding of it is possible. As however this is not a place for any dilation upon it we have to confine ourselves to a very brief notice which will directly bear upon the interpretation of the last stanza of the hymn, with which the above quoted extract from the Ancient Sanskrit Literature of Max Muller is concerned. The Rishi does not here intend giving the first information of the Overseer but pre-
 
-
-
 sumes a knowledge of him in his hearers. This weare to understand from **यः**which signifies thatthe thing it refers to is already known: *i.e*. it is aterm of **अनुवाद**.As very often in the Rig-Vedaone or another of the gods is hailed as theoverlord of the whole universe there is little likelihood of any scholar of this Veda being takenby surprise at the mention of an overseer. Butthe difficulty that confronts Prof. Max Muller isevidently this: that in this particular hymn reference to an overseer is quite incongruous, therishi having proclaimed the evolution theory inthe previous rks. It may be seen here that thereis not the least inconsistency. Are we not to understand that the rishi is telling us in this way thatthat *tat* **(तत्)** spoken of in the previous rks, whichis the substance of which the world is created, isalso the creator of the world? We know thatsuch is exactly the philosophy that all the Upanishads and the Vedanta Sutras intend to teachus. Is there anything that will go against theview that what is taught in the Upanishads didnot originate from these latter rishis themselvesbut only came down to them through a long uninterrupted tradition which had its beginning during the ancient age of the Rig Veda, if not earlier?On the other hand the long lists of teachers thatthe Upanishads contain would seem to confirm theabove view. I don't think therefore we can postulate with any reasonableness a kind of scepticismon the part of the rishi regarding the agency ofthe overseer in the matter of the creation of the
-
-
 
 world. The rishi has very firmly asserted bothaffirmatively and negatively that at the time of*pralaya* preceding creation, there was only one'tat'. If then there is the manifestation of aworld such as the present one, it must certainlyhave come from that 'tat'. What reason is thereto suggest even hypothetically that the worldmight have been created either from nothing orfrom matter existing by itself ? The question**कुत अजाता**could mean nothing but 'what was thesubstance from which this world is made?"**आनीत्** (it breathed ) and **कामः समवर्तत** ( a desirecame to it) leave no room for entertaining anydoubt as to that 'tat' being a substance full oflife, animate; wherefore it follows that that 'tat'itself is the overseer that made the world:made this world out of Himself. The word **विसृष्टिः**(creation) will be quite unmeaning without thepresumption of a **स्रष्टा**, creator, a fact, to indicatewhich is the purpose of the repetition of thesame question in **कुत अजाता कुत इयं विसृष्टिः** ।
 
@@ -528,13 +450,9 @@ world. The rishi has very firmly asserted bothaffirmatively and negatively that 
 
  Having given a few important hints aboutthe secrets of the world cause, the rishi, in orderto draw our attention to the seriousness of the
 
-
-
 question, goes on to say that even the Gods areignorant of the matter, not to speak of others.One may be apt to think that this is a mere hyperbole. The rishi wants to give a warning here,wherefore he adds, 'the overseer in the highestheaven knows it,' meaning to affirm that nobodyelse knows it. Then there are four words closingthe poem which according to the scholar are ofextreme perplexity and may be interpreted in theone or the other of the two ways. To us, to thosewho are fully familiar with the modes of expressions in Sanskrit, they are not the least perplexing and are to be interpreted in neither of thetwo ways the Professor has shown, but in athird way. The rishi-poet is speaking poeticallyand we have here a kind of figure of speach whichis called by our rhetoricians *ākshepa* **(आक्षेप)**.The rishi first said 'the Adhyaksha knowswhence the world came and who created andsupported it, but the question in the rishi's opinionis too grave and too subtle to be left there asknown by some one, let that one be the creatorhimself. Therefore he closes with 'or he knowsnot'. All this could be learnt from Sayana's bhashya itself but the scholar has tightly shut hiseyes against that, and persists in reading his owndoubts and uncertainties in the rishi's words.
 
  Now I want to go to A.A.Macdonell, perhaps themost thorough scholar of the Rig Veda. Readersof the Udyana Patrika will remember that theyhave already tasted the flavour of the soundscholarship of this famous professor of Sans-
-
-
 
 krit. There is a *Sloka* in the Mahabharatha itself, which the professor asserts, informs us of aperiod in the history of this one of the greatestepics of India, when it consisted only of 8800slokas. [But[^10] read the sloka yourself and seewhat it means.
 
@@ -546,11 +464,7 @@ krit. There is a *Sloka* in the Mahabharatha itself, which the professor asserts
 
  This very paper will be of immense service tous in establishing the reverse: i.e. that the modernmethod is by far inferior to that of Sayana etc.What the professor has tried to show throughoutthe paper is that certain words such as **हिरण्यपाणि,नासत्य** have lost their true significance long before the advent of theBrahmana periods;
 
-
-
 that consequently the later commentators basetheir interpretation of these words on mereetymology, which is indecisive; that it followsfrom the above that Sayana etc. had not anyspecial advantages through tradition; and thaton the otherhand they had the disadvantagesof not possessing the modern appliances ofcritical study such as comparative philologyand grammer. Let us for the moment acquiescein all these points. What if it is all so? Theincomplete sense of an individual word, **(पदार्थ)**, thesignifying capacity of an individual word **(शक्ति)**,and the complete sense of a passage **(वाक्यार्थ)**—these three are quite distinct from each other.All you deny them is the knowledge of whata few words mean and how they signify it. Butwhat about the third category in the triad mentioned above? They were born in the midst ofSanskrit. They spoke Sanskrit. They studiedSanskrit. They wrote Sanskrit. In short theirbreath was Sanskrit. They can at once understand what kind of expressions in Sanskritmean what, even though they could not besure about the sense and significance of a fewwords in the Vedic passages. They do not know,you say and I am not going to refute it here,what the word **हिरण्यपाणि**means. What then?Will it stand in their way when they go tointerpret the passage containing the word?They perfectly know that it is an adjectivequalifying the Sun-God and it will do for theirpurpose. They know that the term **नासत्य**signifies Asvins whatever might be its original
-
-
 
 derivation. What else is required for interpreting the rk or passage containing the word? Butyou, completely foreign (in every sense of theword) to the language, very often misunderstandpssages, even when they are quite simple, inspite of all the so called modern appliances atyour disposal.
 
@@ -570,8 +484,6 @@ The following is the commentary by Sayana onthe rk:-
 अहं अग्निनामकं देवं ईले स्तौमि। ......कीदृशमग्निम्।  
 ज्ञस्य पुरोहितम् यथा राज्ञः पुरोहितः तदभीष्टं सम्पादयति
 
-
-
  तथाऽग्निरपि यज्ञस्यापेक्षितंहोमं सम्पादयति। पुनः कीदृशंदेवं दानादिगुणयुक्तम्। होतारमृत्विजं देवानां यज्ञेषु होतृ-नामक ऋत्विगग्निरेव। ..... पुनरपि कीदृशम्। रत्नघातमंयागफलरूपाणां रत्नानामतिशयेन धारयितारं पोषयितारं वा।
 
  A. A. Macdonell renders this rk as follows:
@@ -588,8 +500,6 @@ and he adds in his notes: 'Yagnasya is to be taken with rtvijam (not with *puroh
 
  Let us see here which, Sayana's or Macdonell's,construing is more reasonable and acceptable.The first two points may be considered together.No doubt, if possible, words of the same padamust be related to each other. But where it is notpossible an exception to that rule must be allowed.
 
-
-
 Now in **यज्ञस्य देवमृत्विजं** according to the abovementioned two reasons of Macdonell **यज्ञस्य**willseem to go with the next word **देवं** and this is aconstruction which the great Kumurila, thefamous author of the *Tantravartika*, favours.The following is from the *Kalpasutradhikarana*of his *Tantravartika:*
 
 देवत्वं चास्य यज्ञस्य विहितं क्वोपलक्षितम्।  
@@ -605,24 +515,16 @@ and it means
 
 Sabara in his Bhashya here remarks that “determined by sense" is not to be included ia thedefinition. A mantra wherein there are necessarilypadas is a rk. The determination of padas may beeither according to sense or metre. Otherwise**अग्निः पूर्वेभि ऋषिभिः** which requires for completingits sense, the word of the next pada, cannotbe a pada. Kumarila here asks: Why has Sabara gone to the second rk **अग्निः पूर्वेभि ऋषिभिः**leaving the first **अग्निमीले पुरोहितम्**. His answer is:'this pada, it is plain, is complete in its sense. Butwhat about the second and third padas? One might here say that there we have to take the word **ईले** from the first pada by the **अनुषङ्ग**Principle, and thus we have a complete sense ineach of the padas. Therefore Sabara goes to thesecond rk.'From this we can understand why Kumarila'sconstruction of the rk etc. should naturally be as shown above. i.e. **यज्ञस्य देवम्।**
 
-
-
  Besides a Mimamsist will always rememberthat all Yagna (sacrifice) involves two things: a*devata* **(देवता)** and some *havis* **(हविः)** ; wherefore,when he hears **'यज्ञस्यदेवं'**he would not even thinkof taking the word ‘Yagnasya’ with any wordother than *‘devan*’.  
  But Sayana finds no reason for taking **देवं**in the sense of Mimamsists. This word is foundin many rks without the qualifying ‘Yagnasya’before it and its sense in all these places must be‘having the nature of giving, etc.'Why shouldwe take it here ina different meaning? Thereis a rule that generally a word shall have oneuniform sense. If thus, ‘Yagnasya’ cannot gowith **देवं**, then, Sayana thinks, there is no otheralternative than to take it with the precedingword **पुरोदितम्‌।**  
  This, Macdonell disapproves, and connects‘*Yagnasya*’ with ‘rtvijam’. But here there is somedifficulty. The word **देवं**intervenes. Macdonelltries to get over the difficulty by making it anadjective to rtvijam and interprets it as ‘divine’.But, for such a meaning we must have either **दिव्य**(celestial) as in **याआपो दिव्याः** fear: (VII 49. 2), **दिव्या अङ्गाराः**(X 34.9) or **दैव्य**, (related to gods) as in**शश्वद्विशः सवितुर्दैव्यस्य** (I. 35. 5.) **अवयाता हरसो दैव्यस्य** ete.Only **‘देव’** is here and it should mean only ‘god’ as in **देवो देवेभिरागमत्‌** (I. 1. 5) **यज्ञेषुदेवमीलते** (v. 22. 3) **देवायाग्नये**(V. 16. 1) etc. If the intention of the Rishi is toqualify ‘rtvijam’ he would have certainly said **दैव्यमृत्विजम्**as we find in**ये दैव्या ऋत्विजः तेभिरग्ने**(X. 2. 1.) and not **देवमृत्विजम्‌**. There is also an in-
 
-
-
 terpretative rule according to which an adjectivehad better be so construed as to qualify a nounand not another adjective — **प्रधानान्वयस्याभ्यर्हितत्वम्**.In **यज्ञस्य हि स्थ ऋत्विजा** (VIII. 38. 1) which Macdonellcites in support of his construction there is nosuch difficulty. Now it may seem that the question reduces itself into whether the word **देवं** isto be taken rather in an unusual sense or the'word' **यज्ञस्य** may be connected with **पुरोहितम्** whichprecedes it and that in another pada. Accordingto the laws of interpretation change in the orderof words is by far preferable to depriving aword of its accepted sense. There is a numberof places where the genitive succeeds thenoun governing it. Take for instance **वयं स्यामपतयो रयीणाम्** (IV. 50.6 ). Here unlike in **"सुवीर्यस्यपतयः स्याम''** (IV. 5I. 10) the noun precedesthe genitive. It may be apparently seen thatconsideration of metre is responsible for suchirregularity. Just the same is the case with **पुरोहितं 'यज्ञस्य'** ; change the order, metre is gone.There is many a point which for its explanationneeds reference to metrical conveniences. Forexample, take the rk **अग्निः पूर्वेभिः**....... (I. 1. 2).Here we see that both the forms of instrumentalplural, bhis and ais, are employed — **पूर्वेभिः**inthe first quarter and **नूतनैः**in the second. Metrealone determines such uses. Besides Macdonellhimself does not strictly observe those two rulesof construction. In IV 50. 4- **बृहस्पतिः प्रथमं जायमानो महो ज्योतिषः परमे व्योमन्** — he takes **'महोज्योतिषः'**
-
-
 
 takes it (genitive) with **'परमे व्योमन्'.**  
  Now we may go to the third point. Asin the case of 'Yagnasya', Macdonell has notexpressly rejected Sayana's opinion here but impliedly indicates his disapproval of it. Thereasons why here again Macdonell disagrees withSayana are surely the same as he has givenwith regard to 'Yagnasya' and here also theyare untenable. Conformity with the generalrules of the *padas* of a metre is of lessimportance when interpreting a rk, if it resultsin a sense that is not intended by the Rishi. The words *rtvijam* and *hotaram* are placedin diffrent *padas*. Therefore, Macdonell thinks,they are two seperate adjectives to Agni.But what do they signify? Agni is a *hota*. Hecalls upon the gods and brings them to the sacrificial place. But as a 'rtvik' what does he do?Have we any authority to say that he has something to do in connection with the sacrifice as artvik other than the *hota* ? I don't think there isany. 'Rtvik' is a general term meaning singly allthe priests of a sacrifice, while ‘hota' is the nameof only one priest among them. In the Vedic literature we very often meet with both the termsmeaning the general and the particular used together such as **रजतं हिरण्यं,सुवर्णं हिरण्यम्.** This tradition has come down to the Upanishads. In theBrihadaranyaka we find the same term 'hota' andother names of the particular *rtviks* used withgeneral name of rtvik:
 
 होता ऋॄत्विजा, अध्वर्युणा ऋॄत्विजा, उद्गात्रा ऋत्विजा,ब्रह्मणा ऋत्विजा\[V. 3. 6.\]
-
-
 
 If then there is among the Vedic rishis such atradition it is quite unnecessary for us to attribute to Agni a different kind of office as a *rtvik*apart from being a *hota*. This will be clear tothose who can peep into the hearts of rishis whosing of Agni as follows:
 
@@ -631,15 +533,11 @@ If then there is among the Vedic rishis such atradition it is quite unnecessary 
 
  We were speaking thus for strictly on theline chalked out by Sastras such as Mimamsa.Now all that is said above may be maintainedfrom another point of view too. The Maharshihas said — **वेदाच्छास्त्रं परं नास्ति** (There is no greaterSastra than Veda). I wish to say— **वेदात् काव्यं परं नास्ति.**Sastra is Sastra and Poetry is Poetry tothose only whose mind has not developed to sucha degree of maturity as to be able to dive deepinto the workings of human mind which liesunderneath the ocean of literature with all itsbranches. To such master-minds Sastra is Poetryand Poetry is Sastra. One of the best piecesof poetry in the world is this first Sukta ofthe Rig Veda. Only we need be trained torelish it. All definitions of poetry have beenfound inadequate excent the one that is based
 
-
-
 upon the pleasure, call it **चमत्कार, रस** or whatever you like. Apply that principle to this*sukta* and then judge whether it is poetry ornot. Pious and reverential feelings towardsthe God Agni overflow the heart of the rishi.Though to Mammata love towards god, how-muchsoever developed, is only a *bhāva*, there areRhetoricians who deem it a rasa called *bhakti*.This rasa is the life of the Vedic Poerty.
 
  The rishi keeps before his mind's eye thegod, the life of his own self, the life of the world,effulgent and all powerful and he begins to praisehim mentioning his name 'Agni' first. 'Agni'is to us a hackneyed word. It is no moresignificant when we hear it than the words 'ghata'‘pata', cat, rat etc. But to the rishi it was of aquite different nature. When he used the word, hewas fully conscious of the volume of the powerand greatness of the god, which the word signified. But after all word is poor match to powerful feelings of the heart and however, there beingno better means of expression, it is used as onlya small hole through which to peep into theocean of feelings.
 
  What is he going to do with Agni the God?'I praise him' is his answer. Why and what for?You will naturally be inclined to ask. He answersthis question by the rest of the rk. He is bornto hail the god. His duty, his dharma, is to pleaseHim by offering *havis* and prayers. There is nouse of possessing wealth if one does not hail him.All the riches of impious men should be carried
-
-
 
 off and given to those who revere Him. Thosewho do not perform sacrifices need not have descendents there being no purpose to be served bythem (VII. 61. 4.). But could he perform his dutyunless aided by Him? No. *Yāga* is His own Pujaand He it is that must help the mortal menduring (1) the preparation for it (2) and its actualperformance; (3) and at the end, the reward mustcome from Him.
 
@@ -652,8 +550,6 @@ off and given to those who revere Him. Thosewho do not perform sacrifices need n
  ( 3 ) Agni is **यज्ञस्य रत्नधातमः।** He owns richesttreasures. He amply rewards the performant ofa sacrifice.
 
    "Agni being such, and I one of his devotedvotaries, am I not bound to crave for his merci-
-
-
 
 ful favour? So I praise him" is the answer therishi intends to return to the questions aboveasked.
 
@@ -669,8 +565,6 @@ ful favour? So I praise him" is the answer therishi intends to return to the que
 
  "Through the god Agni one has to obtainwealth that increases day by day; wealth thatbrings glory and is the most concomitant withsons (to its possessor)". By 'glory' is meantfame that comes from the performance of sacrifices. The rishi means to say that all thatis required for Yagna should be had fromAgni. Therefore He is to be approached first.
 
-
-
 Thus He is ***Purohita*.** Macdonell's rendering of this term-'domestic priest'- is quite unmeaning. In the Vedic literature words have not lost their intrinsic significance as they have done in the classic. So to translate them in the conventional words of a foreign language is always detrimental to the proper and correct understanding of their real meaning. The word **वृषा**is very often used in the Veda, the intention in most places being to indicate the lavishness of the Gods and this Macdonell translates uniformly into 'bull'. One of such is also the case of ‘purohita'. The rishi is speaking here only of Yagna and there is no reference to any domestic affair. The term here has the same significance as the classic **'पुरस्कृत'** (placed first, honoured). It also may be noticed here that the noun-form **पुरोहिति**is used in the sense of worship or service as we find in **इयं देव पुरोहितिर्युवभ्यां**(VII 61.7). It is only from a mistaken notion of its significance that Macdonell renders this word into 'priestly service'. The word purohita in the **अग्निमीले**rk, however, signifies not merely worship or service but its literal sense of 'placed' (or 'approached') first.
 
 अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि। स इद्देवेषु गच्छति॥४॥
@@ -680,8 +574,6 @@ Thus He is ***Purohita*.** Macdonell's rendering of this term-'domestic priest'-
 यदङ्गदाशुषे त्वमग्ने भद्रं करिष्यसि। तवेत्तत्सत्यमङ्गिरः॥६॥
 
 That these three rks refer to the last three adjectives of Agni **यज्ञस्य देवं, होतारं,** and **रत्नधातमं**, it is not very difficult to understand.
-
-
 
  The rishi as proposed praised *Agni* the God possessing such qualities and with his aid the sacrifice was performed. 'What else do you want?' Agni asked him to which he replies in the last stanzas.
 
@@ -696,13 +588,9 @@ That these three rks refer to the last three adjectives of Agni **यज्ञ�
 
  Now it is clear, I think that such a poeto-critical study of the Veda will go very far to help us in determining many a point which is otherwise undeterminable. It has been shown that considering the succeeding four (3 - 6) rks which un-
 
-
-
 doubtedly have reference to the adjectives that are in the first rk, we have necessarily to take, as Sayana has done, 'Yagnasya' with **पुरोहितं**and not only with that but all the other adjectives as well. And further it has been shown that **देवं**is an independent adjective to *Agni*; not to another adjective *rtvijam* as Macdonell thinks and that *hotaram* and *rtvijam* are to be taken together as a single adjective, not two seperate ones, accoding to the same scholar.
 
  However severe one's criticism might be it cannot equal, as such, I am sure, the criticism of Theodor Goldstucker directed against Dr. Beohtlingk and Professor Roth, in his Panini. He is a laborious Sanskrit scholar and an impartial critic. He is able to distinguish between pseudoscholarship and true, thorough and genuine Panditship. He is able to appreciate the real value of the works of the eminent scholars of old such as Sayana. He takes side with this great Indian Scholar and makes vehement attack upon Roth and exposes the shallowness of his arrogant and impertinent criticisms against the former. I do not think there is any among the modern scholars who is so sympathetic and unprejudiced towards the old commentators of India as Goldstucker. But with regard to what I am calling the general *Vyutpatti* in Sanskrit, he is none the better. For the purpose of refuting the views of Prof. Max Muller etc. he draws big conclusions from reasons which, almost all of them, stand only on his mis-
-
-
 
 conceptions. I shall give only one instance. He writes as follows in his Panini (pp. 124-6.)—
 
@@ -717,8 +605,6 @@ PATANJALI ON THE TECHNICAL TERMS OF PANINI.
 KAIYYATA ON PATANJALI'S GLOSS IN QUESTION.
 
  To these words Patanjali appends the following gloss: "When Panini speaks of conventional terms which he will not teach, because they are settled, does he mean, by this expression, such technical terms as *ti, ghu, bha* and the like? No; for *Sanjna* is here the same as *Sanjnana,* 'understanding' *(i.e. a name which has a real meaning*, that may be traced etymologically)". And *Kaiyyata* enlarges upon these words in the following strain: "The question of Patanjali is suggested by the rule of analogy. His answer is in the negative, because context itself has a greater weight than (mere) analogy. Now though such terms as *ti, ghu, bha* and the like are settled terms, this circumstance would not have been a sufficient reason in
-
-
 
 an *etymological* work (like that of Panini) for leaving them untaught, for they have no etymology.' 'Understanding' (as Patanjali paraphrases *Sanjna*) means mentally entering into, understanding the component parts of a word, (or it means the words which admit of this mental process.\]"
 
@@ -738,8 +624,6 @@ settled otherwise.
 
  Having thus obtained, through the comment of Patanjali on the Sutra in question, a means by which to judge of the originality of Panini's terms, we must feel induced to test its accuracy before we base our inferences on it; and the opportunity of doing so is afforded not merely by the technical symbols which Patanjali himself names—we easily ascertain that Panini has given a definition of them— but also by another of these important five Sutras. This Sutra (I. 2. 56) says. "Nor shall I teach the purport of the principal part of a compound (*pradhana*), or that of an affix (*pratyaya*), because they, too, have been settled by others (i.e., people who know already from other authorities, that in a compound the sense
 
-
-
 of the word ravitates towards its principal part, and in a derivative towards the affix.)"
 
  I do not know what to say about this. If all this is explained to an Indian Pandit of old type what do you think he will do? If of a hilarious nature he, at once, would burst into a sidesplitting laughter, or if irascible (almost all of them are such) he would either snatch the book off and tear it into pieces or give a box on the ear to the man that stands before him explaining. Goldstucker himself has quoted the Sutra, the *Bhashya* and the commentary in question in their original and these are:
@@ -752,23 +636,17 @@ of the word ravitates towards its principal part, and in a derivative towards th
 
  Panini lays down in a Taddhita Sutra (IV. 2. 81) that certain suffixes will disappear when the word is used in the sense of a country. Take for instance, **पञ्चाल**(in plural). This is the name of a people. According to a Sutra (**तस्य निवासः**IV. 2. 69) it will be thought that the country where the Panchala people live is to be said as **पाञ्चाल.** But it is not so. The suffix should disappear; the country also is **पञ्चाल**But its number? When meaning people it is used in plural. Now it means a single country.
 
-
-
 Accordingly is it not to have the singular number? 'No' says Panini following his predecessors, 'it retains its original number as well as gender'. The country also is to be called **पञ्चालाः**not otherwise. Panini is, in all this, in full agreement with the old grammarians. He remarks, however, that grammarians need not enjoin such rules and this is meant by the above quoted aphorism of his.
 
  The first two words in the aphorism **तत्**and **अशिष्यं**are quite clear ; no comment is necessary. But 'what does **संज्ञाप्रमाणत्वात्**mean?', Patanjali asks: does it mean 'because of the authoritativeness of such conventional terms as **टि,घु,भ,**etc.' With regard to Patanjali's question too one may put another question 'how is it that he considers **टि, घु, भ** etc. as referred to by the word **संज्ञा** ?" Kaiyyata's answer to this question is this: 'It is owing to the principle of nearness **(प्रत्यासत्तिन्याय)**. The Sutra under consideration is one of Panini's and in his Ashtadhyayi there are so many **संज्ञा**s (conventional terms) of his own. Therefore it is but natural that one understands by the word **संज्ञा**, Panini's own conventional term rather than anything else. This is what is called 'the principle of nearness', of which the Mimamsakas' name is **सन्निधिः** or **स्थान.**
 
  Patanjali gives a negative answer to the question raised by himself: **नेत्याह** (one says 'No'). What does it then mean? 'It means **संज्ञानं**(understanding)' is his answer. Kaiyyata further
 
-
-
 elucidates this by ‘ang: **'अवगमः संप्रत्यय इत्यर्थः'** ; *i e*. the word is not to be taken in the sense of conventional terms but in the sense of **ज्ञान**(understanding). But why? Patanjali says nothing about this. Kaiyyata supplies us with an answer here in the following words:
 
 प्रत्यासत्तेः सामर्थ्यंबलवत्। न हि टिघुभादिसंज्ञानां प्रमाणत्वं युक्तवद्भावशास्त्रस्याशिष्यत्वे हेतुरुपपद्यते। सम्बन्धाभावात्।
 
  The principle of nearness should give way to the principle of capability. The statement **तद् अशिष्यं** (the rule contained in the Sutra '**लुपि युक्तवद्व्यक्तिवचने'**need not be enjoined) requires a reason to support itself and that reason is given as **संज्ञाप्रमाणत्वात्.** This must therefore, of necessity, signify something which is capable of supporting the preceding statement. Can the authoritativeness of such conventional terms as **टि,घु, भ**etc. be a reason for avoiding the above mentioned rule? Certainly not. There must be some relation between that which requires to be supported and that which is to support it. Here there is none. These two are as unrelated to each other as the mewing of the cat and the setting of the Sun. This is said by Kaiyyata: **सम्बन्धाभावात्**(because of the absence of any relation between the two). On the other hand take 'understanding' as the sense of the word. Then we have a reason that can support the statement. People understand that the country is meant by the word **पञ्चाल**only when it is
-
-
 
 used in plural, its original number, and not otherwise, and the understanding of the people is an authority for deciding the correct form of words. Therefore it is not necessary for grammarians to lay down a rule regarding such forms.
 
@@ -778,8 +656,6 @@ used in plural, its original number, and not otherwise, and the understanding of
 
 "Although great credit is due to European scholars for what they have done for Sanskrit learning,
 
-
-
 yet their works generally suffer from the disadvantage which was pointed out by Schopenhauer more than half a century ago. He said:—
 
  'If I consider how difficult it is, even with the assistance of the best and most carefully educated teachers, and withal the excellent philological appliances collected in the course of this century, to arrive at a really correct, accurate, and living understanding of Greek and Roman authors \*\*\* while Sanskrit \*\*\* can be learnt only with appliances which are as yet very imperfect; if I add to this the impression which the translations of Sanskrit works by European scholars, with very few exceptions, produce on my mind, I cannot resist a certain suspicion that our Sanskrit scholars do not understand their contexts much better than the higher class of schoolboys their Greek. Of course, as they are not boys, but men of knowledge and understanding, they put together. out of what they do understand. something like what the general meaning may have been, but much probably creeps in *exingenio*.'
@@ -787,9 +663,6 @@ yet their works generally suffer from the disadvantage which was pointed out by 
  No truer words were ever spoken. Though spoken now nearly three-fourths of a century ago they stand to-day and I see no reason, if the present state of things is the index to the future, why they cannot stand for a long time to come, if not to the end of this Yuga. The Editor of the 'Devata' after quoting the above extract from Schopenhauer says of the author of the book:
 
  'The above observation of the distinguished European philosopher can hardly apply to the author of the present work. He is a veteran scholar and he has devoted more than half a century of his long and eventful life, not only to the study of  
-
-
-
 
 Sanskrit literature and philosophy in general, but also comparative philology and comparative mythology."
 
@@ -809,8 +682,6 @@ One while hearing does not hear Her.\] R. VIII
 
  There is a literary philosophy, which alone can teach us that, in spite of the apparent divergences, there is a spirit that pervades throughout the ancient literature, and which is not
 
-
-
 easy of access except with the aid of a most profound scholar traditionally trained. Modern scholars confound the word **ब्राह्मण**meaning a portion of Veda with the same word meaning a caste and their natural and unpardonably wrong conclusion is that that branch of literature came into existence only for the benefit of that class of people.
 
  Prof. Max Muller is bold enough to go too far and to write in his Ancient Sanskrit Literature: (page 88)
@@ -819,23 +690,15 @@ easy of access except with the aid of a most profound scholar traditionally trai
 
  Nobody will question, I am sure, when I say that we are fully entitled to have some piece of evidence in support of this grave charge. He has adduced none. Perhaps his words are too authoritative to be in need of any support! Prayers or mantras were called as Brahman not 'sometimes' by some, but this is the regular name of them often used in the Rig Veda, as in **तत्त्वा यामि ब्रह्मणा वन्दमानः** I am not yet able to say decidedly whether the word is used in the Rksamhita in the sense of the Supreme Spirit as familiarly as in the Upanishads. But it is beyond doubt that the word has the meaning of mantra and there is every possibility and probability that the original sense of the word was mantra alone and only in latter
 
-
-
 times it came to mean the Supreme Spirit etc. The word Brahmana in neuter gender is found in the Brahmanas themselves in the sense of those Vedic texts e.g. **एतदेव सावित्रे ब्राह्मणम्**. Vyakarana can teach us how Brahmana is to be derived from Brahman. The first and the most important purpose of these texts was to regulate the recitation of *mantrus* of the *Samhitas*, and with that purpose in view they enjoin sacrificial rites and ceremonials. Kumarila quotes a Smriti text — **विधिर्विधेयस्तर्कश्च वेदः** — which means: command (**विधि**), the subject of command (**मन्त्र**) and the reasoning (**तर्क**-Mimamsa) are the Veda. Here by 'Vidhi' is meant Brahmana. This clarifies the relation between mantras and Brahmanas. Prof. Max Muller is not ignorant of such meaning of the word but as we have seen above, goes on to the length of denying it, and that without the smallest particle of evidence. So great is his prejudice against the authors of Brahmanas and almost all the modern scholars are of the same mentality:— how can we expect a fair understanding on their part of these texts? 'Blemishes appear even where there are none to those whose mind is bent upon them.' says the great Kumarila.
 
  Sabara and others say that Sastra -meaning the whole Vedas-is kinder than thousands of mothers and fathers, which means, 'all are taken in its fold excepting none.' 'Roguery often masquerades' one may cry 'as the most benevolent and kindest personality.' But one should remember that.
 
-
-
 fools subject themselves to ruinous self-deciet mostly through such a sense of being extraordinarily intelligent. What ancient India can teach the other parts of the world and the present day India, which is in no way better than them, is not merely that a few nations of to-day belong to the same stock of old Aryans; that various languages and dialects are daughters of one mother-tongue and such things which after all when considered from the view-point of well-being and welfare of people in general are very small matters. But what the ancient India can teach us, and what we must try, at any cost, shaking off every kind of prejudice, to learn from her is the philosophy with the help of which we can see in everything, in every particle, the Supreme Spirit, the soul, the life of the world, or call it whatever you will, together with the religionwhich will enthuse the dormant, console the meloncholy, frighten the sinful, punish the criminal, forgive the repentant, entreat the angry, lead the ignorant, check the overzealous, befriend the good, serve the needy and thus fill up the world with permanent peace. Philosophy is the science explaining the truth of Him and Religion the art decorating and beautifying the path to approach Him. These are two essential properties of all the Vedas and whoever fails to understand them, is still wanting in equipment necessary for studying Vedas and all the modern scholars are such and hence all the insinuations and mischief. When compared to the ancient
-
-
 
 times of the Vedas, the modern civilisation of the West is only a matter of yesterday, and its History teems with stories of oppression and struggles for freedom religious and otherwise. The impression of such History being quite fresh in their mind, scholars read in the Vedas only similar things and publish their criticisms which tend only to kindle here racial and communal strife and animosity.
 
  In addition to full mastery over the language and complete riddance of all kinds of prejudice, some amount of deference to the great authors whom we are going to study and criticise is necessary to understand them. To write independent works and to criticise others are offices as everyone knows quite different from each other. The immediate concern of critics and reviewers is not with the subject itself but with the mind of the authors. They should know exactly, before offering their criticisms and reviews, what the authors think and say about their subjects. Superficial reading and hasty conclusions render all criticisms worthless. If we are used to pay due regard to those authors who deserve — undoubtedly all the great authors of the past deserve utmost regard on all hands — it will serve as a check on passing thoughtless remarks and thus deepen our study. The modern criticism however deems such a sense of respect to elders as an unnecessary shackle to its free movement and likes to be entirely free from all such things
-
-
 
 with the result that there is no longer any desire for a distinction between fair and unfair criticisms. Even a school-boy can say anything he likes about any subject, however great and sacred it may be.
 
@@ -843,15 +706,11 @@ with the result that there is no longer any desire for a distinction between fai
 
  One more instance and I shall stop. This time I am going to speak not of an English-educated scholar but a pure Sanskrit Pandit. My friend Mahamahopadhyaya, Vedantavisarada Brahma Sri Anantakrishna Sastri of the Calcutta University is an author of a number of works, many of them being in the form of introductions to his editions of books relating to the Advaita school of the Vedanta philosophy and Mimamsa. In them he tries to defend the Advaita school and unscrupulously takes great Acharyas of other schools like Ramanuja to task. I have already given samples of his criticisms at the end of my "Mimamsabhyudaya." Now I shall add one
 
-
-
 more here. In his introduction to the Vedantaparibhasha with his own commentary published by the Calcutta University he makes a strenuous attempt to show that Badarayana, the author of the Brahmasutras is more favourable to Sankara than to Ramanuja. He refers to most of the Adhikaranas of the second Adhyaya and attempts to justify Sankara's and to refute Ramanuja's interpretation. With reference to the **नविलक्षणत्वाधिकरण** (II 1. 3.) he writes:
 
 **तदुक्तं श्रुतप्रकाशिकायां नविलक्षणत्वाधिकरणे—'विलक्षणत्वकथनेन द्रव्यान्तरत्वमुक्तं भवति; ततोऽसत्कार्यवादः स्यादिति पूर्वपक्षिणोऽभिप्रायः। नैतदिति — कार्यकारणयोस्साजातीयत्वमेव। अस्येदमिति प्रत्यभिज्ञा (?)र्हावान्तरजात्या सालक्षण्यनियमः, प्रतिषिद्धः, नत्वेकद्रव्यत्वमित्यर्थ' इति। अनेन हि ग्रन्थेन कारणकोटौ विशेष्यस्य ब्रह्मणः कार्यकोटौ विशेषणस्य जगतश्च न कार्यकारणभावः, किन्तु विशिष्टयोर्ब्रह्मणोरेव स इति स्पष्टीक्रियत इति तयोरवैलक्षण्यात्, कथं वा विलक्षणत्वात् कार्यकारणभावासम्भव इति सांख्यानां प्रत्यवस्थानसम्भवः?**
 
  The contention of the *purvapakshin* in this Adhikarana is that the Brahman cannot be the material cause of the world because this is of different character. Such a contention the learned Sastri thinks cannot be put forward according to Ramanuja's views. The world that comes from the Brahman means to Ramanuja not merely sentient and non-sentient things but the Brahman with all the other things as its body. And the Brahman the cause also is the same, the only difference being that its body is then in the subtle state **(सूक्ष्मावस्था)**. It follows that the cause
-
-
 
 and the effect are of the same, in no way different character. Both of them consist of two parts, the soul and the body. It is now plain that there is no room here for the contention which is based upon the difference of character of the cause and effect. But unfortunately our Mahamahopadhyaya could not see things which are plainly stated in the Sri Bhashya. It is not a fact that according to Ramanuja the Brahman taken in itself (independent of its body in its subtle stage) is not the cause of the world taken in itself independent of its soul the Brahman. This may be clearly seen from the following extract from the *Srutaprakasika* of the *Prakrityadhikarana:*
 
@@ -863,8 +722,6 @@ and the effect are of the same, in no way different character. Both of them cons
 
 अत्र केचित्। कारणकोटौ विशेष्यभूतस्य ब्रह्मणः कार्यकोटौ विशेषणभूतेष्वचेतनेष्वपि उपादानत्वं उपपादनीयम्। अन्यथा तस्य सर्वोपादानत्वासिद्धेः। अत एव श्रुतिप्रक्रियायां 'यद्वा जगत इति निष्कर्षकशब्दः। (ब्रह्मशब्दो विशेष्यमात्रपर इत्यादि) कार्यकोटौ विशेषणभूतस्य जगतः कारणकोटौ विशेष्यभूतब्रह्म प्रति उपादेयत्वशरीरत्वे स्तः' इत्याचार्यैरेव प्रतिपादितम्। ततश्च तत्र सालक्षण्याभावात् उपादानत्वंन सम्भवतीत्याक्षेपस्य चेतनांशे चेतनांशत्वानुवृत्तिरप्यस्तीति परिहार-
 
-
-
 स्यासम्भवात् एतत्सूत्रोक्तन्यायेन विलक्षणयोरप्युपादानोपादेयभावोऽस्तीत्येव परिहर्तव्यमिति वदन्ति।
 
 \[Page 362, Grantha Edition\]
@@ -874,8 +731,6 @@ and the effect are of the same, in no way different character. Both of them cons
 तुशब्दात् पक्षो विपरिवर्तते। यदुक्तं जगतो ब्रह्मविलक्षणत्वेन ब्रह्मोपादानत्वं न सम्भवतीति, तदयुक्तम्। विलक्षणयोरपि कार्यकारणभावदर्शनात्। दृश्यते हि माक्षिकादेर्विलक्षणस्य क्रिम्यादेस्तस्मादुत्पत्तिः। ननूक्तमचेतनांश एव कार्यकारणभावात्तत्र सालक्षण्यम्। सत्यमुक्तम्। न तावता कार्यकारणयोर्भवदभिमतसालक्षण्यसिद्धिः। यथा कथंचित्सालक्षण्ये सर्वस्य सर्वसालक्षण्येन सर्वस्मात् सर्वोत्पत्तिप्रसङ्गभयाद्वस्तुनो वस्त्वन्तराद्व्यावृत्तिहेतुभूतस्याकारस्यानुवृत्तिस्सालक्षण्यं भवताऽभ्युपेतम्। स तु नियमो माक्षिकादिभ्यः क्रिम्याद्युत्पत्तौ न दृश्यत इति ब्रह्मविलक्षणस्यापि जगतो ब्रह्मकार्यत्वं नानुपपन्नम्।
 
  The text of the *Srutaprakasika* quoted by Mr. Sastri too, does not mean, as he thinks, that cause and effect must always necessarily be of the same character. On the other hand it rejects such a view. Mr. Sastri fails to construe the text correctly. **कार्यकारणयोः सजातीयत्वमेव** is not a complete sentence but only a part of the sentence ending with **प्रतिषिद्धः** The middle part **अस्येदमिति** **प्रत्यभिज्ञानार्हावान्तरजात्या सालक्षण्यनियमः** is only an explanation of **कार्यकारणयोः** etc. Thus the sense
-
-
 
 we have is 'that the view that cause and effect must be of the same character is rejected'. That such is the meaning of the above text of the *Srutaprakasika* may be seen from its commentary, *Bhavaprakasika*, though according to it, we have here two sentences, the first having the word **प्रतिषिद्धम्** understood.
 
@@ -889,8 +744,6 @@ we have is 'that the view that cause and effect must be of the same character is
 
 2\) इदमेवात्रालोचनीयम् — यत् प्रजाराज्ञोः शरीरशरीरिभावः तत्प्रयुक्ताविभागो वा श्रीभाष्यमते मतान्तरे वा कुत्रापि सम्भवति वा न वेति। यद्यपि प्रजा राज्ञो नियम्या, परं तु न तदेकनियम्येति न प्रजानां राजशरीरत्वम्, तेन तदविनाभावाभावा(?) पृथक्सिद्ध्यादिरूपाविभागादिकं वा कुत्रापि सिद्धमिति श्रीभाष्यविवरणमिदं न केवलं स्वसिद्धान्तविरुद्धम् ; किन्त्वसम्भवदुक्तिकमपि।
 
-
-
 3\) अत एव भोक्त्रापत्तेरिति पञ्चमी अविभाग इति प्रथमाचोपपद्यते; श्रीभाष्यमते हि अविभागादिति पञ्चमी, भोक्त्रापत्तिरिति प्रथमा च स्यादिति सूत्राक्षरानुगुण्यमपि दुरासदमेव।
 
  Here I shall offer my remarks in the respective order:
@@ -901,8 +754,6 @@ some one to talk such nonsense)—
  "Both Ramanuja and Sankara accept that the son of Dasaratha killed Ravana. But the point of difference is this: while according to Ramanuja Ravana killed Rama, Sankara says that Lakshmana killed Ravana”.
 
  2. The Visishtadvaita school maintains that the Brahman is embodied. 'If so', the *pureapakshin* says 'the Brahman like all the embodied souls will become subject to affiction of pains'. In refutation of this *prima facie* argument an instance is given by Ramanuja as meant by the latter part of the Sutra **लोकवत्.**There are the king and his subjects. The subjects often undergo and suffer various forms of punishment while the king does not. So is the case of Brahman. Here our friend rises with headlong haste pointing out that the subjects do not form the body of the king and therefore the instance is the wrong one. But who says that they do? What necessity is there for saying so? The king is as embodied as his subjects are. Why then, these alone suffer from punishment and the king does not? The king is the lord of his subjects whose commands they must obey and those failing to do so incur the displeasure of the lord who punishes them. But the king has no command to obey and no punishment comes to him. In the same way the Brahman though embodied has no sin or virtue which will result in his suffering while people
-
-
 
 have them and suffer. That both the Brahman and the people have body is immaterial, just as in the case of the king and his subjects. This is the point of similarity which any scholar except our most impatient Sastri will take care to understand.
 
@@ -924,8 +775,6 @@ have them and suffer. That both the Brahman and the people have body is immateri
 
 \[Vol. I. page 306, Grantha Edition.\]
 
-
-
 he would have never written the following:
 
  **अत एव भगवद्गीतादिषु देहिशब्दप्रयोग आत्मनि उपपद्यते, अन्यथा शरीरवाचकानां पदानां शरीरिपर्यन्तत्वमिति श्रीभाष्यसिद्धान्ते कथं देहिशब्दप्रयोग उपपद्यते?**
@@ -940,27 +789,19 @@ and repeatedly he says the same thing:— **उपादानोपादेय
 
 The real *purvapaksha* is this: both jiva, the
 
-
-
 enjoyer, and the thing he enjoys come from the same general cause, the Brahman, wherefore no distinction can be between them. We can plainly see that here there is no question of non-distinction between the Brahman and jiva.
 
  The Pandit extols Advaita not because he has realised and appreciated the truth of it but because the accident of birth has made him belong to it. Otherwise he would not hesitate to make frivolous attacks even against Sankara in his usual way with promiscuous heaps of clumsy words full of tautology and teeming with mistakes grammatical, grammatical, syntactical, and logical.
 
   As in the ordinary life, so in the literary career also, everybody must try to be honest, true and merciful. A scholar should discipline himself so as not to write even a single word unless it is absolutely necessary and of some use to somebody. What is the use of writing volume after volume if it is not going to add to the true knowledge of the people? Our friend, it is a great pity, has not advanced a single new argument either in support of Advaita or in refutation of any other school of Vedanta. On the other hand he repeats the old, effete story which had been long ago criticised and proved worthless by some author or another. Universities are public bodies which must keep themselves free from all sectarian influences and partiality. If works such as Sastri's introduction in question, are continued to be published by
 
-
-
 any public body it will render itself open to the charge of not only encouraging pedantism and psuedo-scholarship but of showing undue and unreasonable partiality to one school of philosophy against another. Our Sastri himself must be careful not to abuse his position and bring bad name to the institution that entertains him. His unchecked enthusiasm for offensive against other schools has led him to quarrel with men of his own camp. He disagrees in many a point with Ramakrishna the old commentator of the Vedanta Paribhasha, who is a first rate Naiyayika as well as a profound Advaita Vedantin. His commentary is a learned one and only those well-versed in Nyaya can 'rightly and fully understand it. My friend in his usual way casts a superficial glance upon it and, working out things by his own imagination, begins, often quoting irrelevant authorities, to pour wrong criticisms which are as frivolous as those we have seen above against the Sri Bhashya. I have already begun making preparations for vindicating Ramakrishna but I don't know when I shall be able to finish and publish the work. I almost begin to shed tears when I perceive the lowest level to which the panditship which once formed the world-praised glory of this our land has unfortunately drifted itself. The Eastern Sanskrit scholarship of to-day has becomeas bad as that of the West if not worse.
 
  If such a state of things must go and real benefit is to be obtained, as much labour and
 
-
-
 money must be spent as has been spent till now and the whole Sanskrit Literature studied refresh with the help of competent hands. Unless encouraged, no man today will aspire to become a profound pandit. Old method of learning Sastras almost died away. The few colleges conducted on modern lines which continue to exist with constant fear of some kind of danger or other turn out pandits whose acquaintance with this Sastra or that is only superficial and whọ as soon as they get a place are glad to forget, even that small acquaintance.
 
  It must be the concern of the Universitiesto see that there are many profound scholars in Sanskrit as well as in other fields. They should provide a chair to each branch of the literature: Purva Mimamsa. Dvaita, Advaita and Visishtadvaita, Nyaya, Vyakarana and Sahitya and appoint really eminent pandits with a decent remuneration. The best way of encouragingtrue and erudite scholarship is to create an impression on all sides that merits alone will count and guide when filling up places. The absenceof such an impression is one of thecauses, if not the only cause, which is responsible for the gradual decline of scholarship. Recommendations and communal and sectarian considerations override the claim of qualifications, which naturally results on the part of the pandits in much energy being spent towards obtaining favours of great. men rather than proficiency in Sastras. In case of equal qualifications there is no harm if some
-
-
 
 favour is shown on account of religion or community. Even to-day there are a few scholars whose proficiency in Sastras is indeed very great but who because of want of opportunity remain in obscurity repenting for the number of years spent in study, while men with imperfect and scanty knowledge placed in position are experiencing a good deel of difficulty in collecting materials for producing some work and quite unable to penetrate into the subject-matter of Sastraic works, wholly engage themselves in much unimportant discussions such as whether the author of the Dhavanikarikas is the same as that of the Vritti or different[^14] प्रकाशित इति। मया वृत्तिकारेण सतेति भावः had been taken into consideration and well understood there would have been no occasion at all for raising such a question.")
 
@@ -974,8 +815,6 @@ favour is shown on account of religion or community. Even to-day there are a few
 यस्य नाहंकृतो भावोबुद्धिर्यस्य न लिप्यते।  
 हत्वाऽपि स इमान् लोकान् न हन्ति न निबध्यते॥
 
-
-
 स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः।  
 सहजं कर्म कौन्तेय सदोषमपि न त्यजेत्॥
 
@@ -987,8 +826,6 @@ Tantrodyanam
 23rd Dec. 1933.
 
 D. T. T.
-
-
 
 ERRATA
 
@@ -1008,8 +845,6 @@ ERRATA
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-
-
 श्रीः ॥  
 
 उपोद्घातः ॥
@@ -1019,8 +854,6 @@ ERRATA
 इति प्रतापरुद्रयशोभूषणे प्रथममस्माकं भामहनामश्रवणम्। ततः परं कालक्रमेणालङ्कारकौस्तुभध्वन्यालोकादिष्वलङ्कारग्रन्थेषु परिचीयमानेषु भूय एतन्नामधेयं श्रवणगोचरमभवत् ;भामहीयाः श्लोकाश्च कतिपये खण्डशः पठिता आसन्। यदा त्रिवेदिमहाशयेन महता व्यवसायेन सम्पादितं बहुविषयपरिशोभितं प्रतापरुद्रयशोभूषणं अलभामहि तदैव तस्यान्ते संयोजितंभामहीयं काव्यालङ्कारं समग्रं साक्षादवलोकितुमशक्नुम \। स्वाभाविकेन प्राचीनग्रन्थावलोकनकौतूहलेन सकृत् तमवलोक्य तावति न व्यरमाम। किन्तु मद्रराजधानीविश्वविद्यालयीय — 'प्राच्यविद्येश्वर' (Master of Oriental Learning) बिरुदलाभहेतोः 'काव्यलक्षणम्' नाम भाषान्तरमयं उपन्यासविशेषं[^15] लेखितुं विषयसङ्कलनंकुर्वन्तः बहुषु प्राचीनालङ्कारग्रन्थान्तरेष्विव अत्रापि गाढं परिचयं कर्तुं प्रावर्तामहि। तदाऽस्मिन् तत्र तत्र दृष्टा अर्थप्रतीतिविघातिन्योऽशुद्धयः, यदि शक्यं तर्हि कथमपि परिश्रम्य शोधनं कर्तव्यमिति मतिमुदपादयन्। ततो दिनेषु गच्छत्सु तैस्तैः दुर्व्याख्यातान् भामहश्लोकान् पश्यतां अनतिविस्तृतं व्याख्यानमेव किमपि काव्यालङ्कारस्य कर्तव्यमित्यभासीत्। सद्य उपक्रान्तमिदं व्याख्यानं षट्भ्यो वर्षेभ्यः परमपि वा संप्रति समाप्तिमगच्छदिति नूनं भगवताऽतिमात्रमनुग्रहयालुनाऽभावि। अतीतेष्वेषु षट्सु वर्षेषु इह तत्तदशुद्धिशोधने तात्पर्योपलेभे च यंक्लेशभारमन्वभवाम स इदानीं चिन्त्यमानः
 
 [^15]: "अस्य तृतीयपरिच्छेद इहान्तेऽनुबद्धः।"
-
-
 
 "प्राप्तानि दुःखान्यपि दण्डकेषु  
 सञ्चिन्त्यमानानि सुखान्यभूवन्।” (रघु. १४-२५)
@@ -1041,8 +874,6 @@ ERRATA
 
 इति स्थितः पाठः। अत्र काव्यादीत्यनन्वितम्। काव्यस्यैवात्रविभागेनादिपदस्यानपेक्षितत्वात्। काव्यवाचिनस्तच्छन्दस्य सत्त्वेन काव्यपदस्याप्यनुपयुक्तत्वाच्च। यद्यप्यल्पेयमशुद्धिः ; अनया वाक्यार्थप्रतीतेर्नास्ति कश्चिद्विघातः ; तथाऽपि यावदियं न शोधिता तावदुपरि बुद्धिर्नप्रावर्तत। तस्मात्तदेकासङ्गिनी धीरस्माकमजायत। सूक्ष्मतरधियामत्रअधिकक्लेशस्यासम्भावितत्वेऽपि पञ्चदशसु दि-
 
-
-
 ष्वितीतेष्वेव 'काव्यज्ञैः' इति भवितुं युक्तमिति अकस्मात् स्फूर्तिरभवत्। एवम्
 
 क्लिष्टं व्यवहितं वित्तेरन्यार्थंविगमे यथा।  
@@ -1053,8 +884,6 @@ ERRATA
 **ऋषभात्पञ्चमात्तस्मात् सषट्जं धैवतं स्मृतम्। (४-३४)**
 
 इत्यादिः ; स वर्षत्रयमस्माकमभेद्योऽभवत्। सङ्गीतशास्त्रे निपुणतया प्रसिद्धानां केषांचित् सविधे इमं प्रादर्शयाम। 'प्राचीनग्रन्थस्य अद्यतनसङ्गीतशास्त्रवैदुष्यस्य च नास्ति कश्चित्सम्बन्धः। नात्र किञ्चिद्वयं वक्तुं शक्नुमः' इति ते उत्तरमददुः। अथ कदाचित् तीर्थयात्राप्रसङ्गेन साक्षादिदमेव स्थलमागतो विद्यारसिकमूर्धन्यः श्रीरामकृष्णतेलाङ्महाशयः, सम्भाषणावसरे पूनानगरस्थ 'आनन्दाश्रम' मुद्रितसङ्गीतरत्नाकरसम्पादकत्वेन ज्ञातः इमं विषयं विज्ञापितः सन् स्वस्थानं गत्वा विचिन्त्य निवेदयामीति प्रतिज्ञाय, सदयंतथैव चकार। तावन्तं परिश्रममङ्गीकृतवति तस्मिन् संस्कृतप्रिये सहृदयसार्वभौमे सर्वसौहार्दयोग्ये विचक्षणे महतीं कृतज्ञतां विभ्राणानामप्यस्माकं तेनोक्ते प्रकृतश्लोकार्थे न तृप्तिरासीत्। ततः कियन्तं चन कालं उद्यानपत्रिकानुबन्धतया काव्यालङ्कारग्रन्थप्रकाशनस्य विच्छेदः कर्तव्योऽभवत्। अगत्या तथा कृत्वा पूर्वमसकृदवलोक्य निराशनिक्षिप्तमपि सङ्गीतरत्नाकरं पुनरादाय आदितः प्रभृति सावधानमवालोकयाम। गच्छत्सु दिनेषु क्रमेण तत्र प्रवेशोऽलभ्यत। ततः परं अयं श्लोकः स्वार्थं प्राकाशयत्। तथा प्राकाशयत् यथा न परं हृदयस्य परिपूर्णातृप्तिरभवत् ; किं तु अयमेवार्थो नान्य इति अकम्पनीयं प्रतिज्ञाधार्ष्ट्यमप्यजनि। इममर्थंज्ञापितः श्रीरामकृष्णतेलाङ् महाशयः भरतनाट्यशास्त्रमपि समालोच्यतामित्युपादिशत्। आपाततोऽस्य सङ्गीतरत्नाकरस्य चास्मिन्विषये ऐकमत्यस्याप्रतीतावपि वस्तुतो नात्राभिप्रायभेद इत्यस्माकमभात्। तद्वयं पुनस्तस्मै न्यवेदतयाम।
-
-
 
  इतोऽपि महत्तरं विषयान्तरं किञ्चिदस्ति। यस्मिन् दिने एतद्व्याख्यानकरणबुद्धिरस्माकमजायत तस्मात् दिनात् प्रभृति आवसानं प्रत्यहं काव्यालङ्कारपारायणं कुर्वन्त आस्म। अह्नि तदर्थमवकाशालाभे शयने शयित्वाऽपि एकमपि वा परिच्छेदं पठित्वैव सुप्ता अभवाम। एवं पुनः पुनरावृत्तिकरणानन्तरमेव न्यायव्याकरणविषयावन्तिमौ द्वौ परिच्छेदौ ज्ञातार्थौसमपद्येताम्। तृतीयपरिच्छेदे 'गाम्भीर्यलाघवतोः' (५०) इति स्थिते 'गाम्भीर्यलावण्यवतोः' इति, 'निशा कृतं प्रकृत्यैव (५१) इत्यत्र 'निशाकृतः प्रकृत्यैव' इति, चतुर्थे 'इष्टं निश्चितयेवाक्यं न वेलायेति (१८)' इत्यत्र '... न दोलायेत' इति 'न चाभिमानेन किमु प्रतीयते (५१)' इत्यत्र 'किमु प्रतीतये' इति, पञ्चमे 'तत एवेति न्यायतः (१०)' इत्यत्र 'नान्यतः' इति, एवं बहुषु स्थलान्तरेषु च तत्तदौचित्येन शुद्धपाठोपलम्भनं प्रथमावलोकन एव यथा सुकरमासीत् न तथा षष्ठे—
 
@@ -1069,8 +898,6 @@ ERRATA
 
 इत्यत्र च गलितग्रन्थपूरणमपि कर्तव्यमापतत्। सर्वमेतद्यथाबुद्धिविभवं परिश्रम्य समञ्जसं कृत्वा व्याख्यातवन्तः स्मः। तत्र सर्वत्र सदसद्भावे सहृदयाः प्रमाणम्। इदं त्विहास्माकं विशेषतो वक्तव्यम्। षष्ठेपरिच्छेदे काव्योपयोगार्हान् व्याकरणसंस्कारवतः शब्दविशेषान् बहून् भामहः प्रदर्शयति। तत्र पौर्वापर्यनियामकं किंचिदस्ति न वेतिजातगाढजिज्ञासा वयं चिरं चिन्तामकुर्म। प्रथमं मार्जन्तीति तिङन्तमाह। अथ सरूपशेषम्। अथ णिचम्। अथाव्ययीभावमित्यादि पश्यतां सर्वथा नास्त्यत्र कश्चित् क्रम इत्येव
 
-
-
 मन्तव्यमासीत्। किन्तु शास्त्ररीत्या प्रौढं ग्रन्थं लेखितुं प्रवृत्तः काव्यलक्षणकारोऽयं भामहः यत्किमपि नियामकमकृत्वा यथोपस्थितं तं तं शब्दमाहेति अध्यवसातुं न हृदयमन्वमन्यत। अथापि किं कर्तुं शक्यम्। निराशा एव सन्तः षष्ठस्य परिच्छेदस्य वृत्तिंलेखितुमारभामहि। त्रिंशच्छ्लोका व्याख्याता अभूवन्। ततः परमेव क्रमनियामकापेक्षा। निराशविरसमनस एव लेखन्यामषीमादाय अवधूय वृत्तिलेखनाय एकत्रिंशं श्लोकमपठाम—
 
 वृद्धिपक्षं प्रयुञ्जीत ... ...(६.३१)
@@ -1081,8 +908,6 @@ ERRATA
  स एषोऽस्माकं व्याख्यानकाले जातोऽनुभवः। तस्यात्र प्रकाशने किं श्रोतॄणां प्रयोजनम्? तन्न जानीमः। अस्माकं तु हृदयमिदानीमपनीतभारमिव लघुभूतं चिन्तान्तरं कर्तुं क्षमते। तत्क्रियते।
 
  अयं भामहीयः काव्यालङ्कारः षट्परिच्छेदात्मा। एवमादीनां ग्रन्थानां परिच्छेदरूपेण विभागः किं भामहकालात् प्राक्तनः अथ वा अयमेव तस्य प्रवर्तक इति विचारणीयम्। इदानीं तु तत्र निर्णयं कर्तुं न सामग्र्यस्ति। एषु षट्सु परिच्छेदेषु आद्येकाव्यस्य
-
-
 
 शरीरं द्वितीयतृतीययोः अलङ्कारान्, चतुर्थे दोषान्, पंचमे न्यायविषयं, अन्तिमे शब्दशुद्धिं च प्रतिपादयति। तदिदं अन्ते श्लोकद्वयेन स्वयमेव भामहः कथयति। अत्र सर्वत्र प्राचीनैरेव निरूपितोंशः कियान्, भामहेन स्वयमवधार्य निरूपितोंशः कियानिति विभज्य दर्शनं विमर्शनमार्गगामिनामाह्लादाय कल्पेत।
 
@@ -1095,8 +920,6 @@ ERRATA
 [^17]: "'प्रहेलिका सा ह्युदिता रामशर्माच्युतोत्तरे' इत्यत्र रामशर्मकृतत्वेन निर्दिष्टे अच्युतोत्तरे वा अस्य श्लोकस्य स्थितिः अथ वा तदीये कृत्यन्तर इति न निश्चेतुं शक्यते।"
 
  इत्थं यथेमौ शाखावर्धनरामशर्माणौ काव्यविशेषकृतौ कवी इति प्रतीयेते न तथा मेधावी। किन्तु 'इत्येवमुपमादोषाःसप्त मेधाविनोदिताः' 'संख्यानमिति मेधावी' इत्यादिपर्यालोचनया अलङ्कारग्रन्थविशेषस्यायं कर्तेति प्रतीयते। रुद्रटालंकारव्याख्याता नमिसाधुश्च 'दण्डिमेधाविरुद्रभामहादिकृतानि सन्त्येवालंकारशास्त्राणि' इति लिखन् उक्तेऽर्थेसंवादी भवति। मेधाविरुद्र इति ना-
-
-
 
 म्नि स्थिते भामहेन 'मेधावी'त्येकदेशाभिधानं कृतं भवेत् अस्य मेधाविनोऽलंकारग्रन्थो नूनमपुनर्लाभाय लुप्तः। एवं 'बहुविधकृतीर्दृष्ट्वाऽन्येषाम्' इत्यत्राभिसंहितेषु बहुष्वालंकारिकेषु एको मेधावी उपात्तनामा। ग्रन्थस्तु तस्य अत्यन्तमलुप्यत। अन्येषां तु न परं ग्रन्थास्तथाऽलुप्यन्त किन्तु नामापि न ज्ञायते। तदिह भरतनाट्यशास्त्रमेकं भामहात् प्राचीनं विमर्शनीयं भवति।
 
@@ -1114,8 +937,6 @@ ERRATA
 
 इति सर्वेष्वेव लक्षणेषु भूषणव्यवहारं करोति। भूषणालङ्कारशब्दौ पर्यायाविति न कश्चिन्न जानीते। तेन दण्ड्युक्तरीत्या काव्यशोभाकरत्वेन सर्वत्रालङ्कारत्वं स्थितमित्येव भरतस्यापि हृदयमिति प्रतीमः।
 
-
-
 अथापि प्रदयं पार्थक्यं कृत्वा निरूपयति तत्र तदानींतनव्यवहारव्यवस्था नियामिकेति भाति। लक्ष्यपरिशीलने प्रवृत्तानां प्राचां बुद्धौ वाचां शोभाकारित्वेन प्रथमप्रतीता उपमा। इयं द्विधा — यथेवादिशब्दवती तद्रहिता च। तत्त्राद्याया उपमेत्येव व्यवहारे स्थिते अन्त्यायाः पश्चाद्रूपकमिति व्यवहारः प्रावर्तत। पूर्वंतु साऽप्युपमेत्येव प्रख्याता बभूव। अत एव यास्क इमां लुप्तोपमेत्येवाभिदधाति। इवादीनामप्रयोगे यथा कोऽपि शोभातिशयः तथा बहुवाक्यान्वययोग्यस्य पदस्य प्रतिवाक्यमावृत्तिमन्तरा सकृत्प्रयोगे अस्ति काऽपि शोभेति प्रतिभाने सति दीपकालंकारप्रादुर्भावः। प्रसिद्धश्च वैदिकप्रस्थान एव पूर्वत्र श्रुतस्य उत्तरत्रवा, एतद्वैपरीत्येन वा, पदानामनुषङ्गः। सकृत्पाठेनैव बहुत्रप्रतीतिजननं हि प्रयोक्तुः कौशलमभिव्यञ्जयति। तेनात्रास्ति चमत्कारः। एवमसकृत् प्रयोज्यस्य पदस्य सकृत्प्रयोगरूपेऽलंकारे सिद्धे ततः परं शब्दाभ्यासरूपयमकप्रवृत्तिः। ऋक्संहितायामप्यस्ति शब्दालङ्कारः। एते चत्वारः वाचामलङ्कारत्वेन भरतात्पूर्वंप्रसिद्धाः। तां प्रसिद्धिमनुरुन्धान एवायमाह—
 
 'उपमा रूपकं चैव दीपकं यमकं तथा।  
@@ -1124,8 +945,6 @@ ERRATA
  मन्त्रब्राह्मणरूपाणां वैदिकग्रन्थानां स्वरूपं विविच्य निरूपयितुं प्रवर्तमाना ऋषयः बहुविधं तद्विभजन्ति। यास्कस्तावत् ऋङ्मन्त्रविषये एवमाह—
 
  अथापि स्तुतिरेव भवति नाशीर्वादः। इन्द्रस्य नु वीर्याणि प्रवोचमिति यथैतस्मिन् सूक्ते। अथाप्याशीरेव न स्तुतिः। सुचक्षा अहमक्षीभ्यां भूयासं सुवर्चामुखेन सुश्रुत्कर्णाभ्यां भूयासमिति। तदेतद्बहुलमाध्वर्यवे याज्ञेषु च मन्त्रेषु। अथापि शपथाभिशापौ। अद्या मुरीय यदि यातुधानो अस्मि अथा स वीरैर्दशभिर्वि यूया इति। अथापि कस्यचिद्भावस्याचिख्यासा। न मृत्युरासीदमृतं न तर्हि, तम आसीत्तमसा गूल्हमग्रे। अथापि परिदेवना कस्माच्चि
-
-
 
  द्भावात्। सुदेयो अद्य प्रपतेदनावृत्। न विजानामि यदिवेदमस्मीति। अथापि निन्दाप्रशंसे। केवलाघो भवति केवलादी। भोजस्येदं पुष्करिणीव वेश्मेत्येवमक्षसूक्ते द्यूतनिन्दा च कृषिप्रशंसा च। एवमुच्चावचैरभिप्रायैर्ऋषीणां मन्त्रदृष्टयो भवन्ति। (VII. १.३ )
 
@@ -1143,8 +962,6 @@ ERRATA
 [^20]: "विधिरिह ब्राह्मणम्।"
 
 इति। इत्थं यथा वैदिकानां ग्रन्थानां तथा लौकिकानामपि बहुधा विभागः सम्भवी। श्रोतॄणामावर्जनाय हि वाचां गुम्फः प्रवर्तते। तेन उदात्ता गम्भीरा ऊर्जिता च शैली तत्रावलम्ब्यते। तथा सति व-
-
-
 
 क्तृबोद्धृविषयादिभेदेन तत्र वैविध्यमवश्यंभावि। ग्रन्थानां स्वरूपं परस्परं भिन्नं भवतीत्युक्तं भवति। एवं स्वरूपभेदहेतव एव नूनं वैदिकमार्गानुसारेण काव्यस्वरूपभेदान् अवदधता भरतेन लक्षणानीत्युच्यन्ते। एवमस्मिन् विषये वेदप्रस्थानोपजीवित्वमभिसन्धायैव 'जग्राह पाठ्यमृग्वेदात्' इत्युक्तमित्यपि युक्तं ग्रहीतुम्। हेतुः, संशयः निरुक्तं (निन्दा), पृच्छा, प्रियवचनं, आशीः, इति हीमानि वैदिकमार्गानुसरणमिह दृढं प्रत्यभिज्ञापयन्ति। सामान्यलौकिकव्यवहारापेक्षया वाचां काव्यत्वापादकता यद्यपि उपमादिवत् सर्वेषां लक्षणानां समाना तथाऽपि पूर्वमेषामलङ्कारत्वप्रसिद्ध्यभावात् शब्दार्थव्यवहारे चउत्सर्गतः प्रौढैरपि स्वातन्त्र्यानवलम्बनात् उपमानादीनां चतुर्णामलङ्कारत्वं कृत्वा स्वरूपभेदनियामकानामेषां लक्षणसंज्ञां भरतो विदधे। एषामपि शोभाकारित्वं सम्पश्यंस्तु उपमादिषु प्रसिद्धमलङ्कारशब्दं विहाय यौगिकं विभूषणशब्दं उपाददानः
 
@@ -1164,8 +981,6 @@ ERRATA
 
 **अपरिज्ञाततत्त्वार्थे वाक्यं यत्र समाप्यते।  
 अनेकत्वाविचाराणांससंशय इति स्मृतः॥**
-
-
 
 इत्यस्मात् ससन्देहालङ्कारप्रतीतिरिति नास्त्यत्र सन्देहस्यावसरः।
 
@@ -1194,8 +1009,6 @@ ERRATA
 
  रामायणमहाभारतादिलक्ष्यपर्यालोचनया च बहवोऽलंकारा उपज्ञाताभवेयुः।
 
-
-
 "वहन्ति वर्षन्ति नदन्ति भान्ति  
 ध्यायन्ति नृत्यन्ति समाश्वसन्ति।  
 नद्यो घना मत्तगजा वनान्ताः  
@@ -1216,7 +1029,6 @@ ERRATA
 
 नाट्यस्येह त्वलंकारो नेपथ्यंसंप्रकीर्तितम्।  
 
-
 संप्रकीर्तितं
 
 तुनेपथ्यं पुस्तोऽलंकार एव च।  
@@ -1227,8 +1039,6 @@ ERRATA
 अलङ्कारास्तु नाट्यज्ञैर्ज्ञेया नाट्यरसाश्रयाः।
 
 इति नाट्यालङ्कारः। (5) सप्तविंशे
-
-
 
 यदा सर्वे समुदिता एकीभूता भवन्ति हि।  
 अलङ्कारः स तु तदा मन्तव्यो नाट्ययोक्तृभिः॥
@@ -1256,8 +1066,6 @@ ERRATA
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\. My friend A. Sankaran M.A. Ph.D. writes in his thesis ‘Some aspects of Literary criticism in Sanskrit' (P. 24). "The attitude of Bhamaha to the Rasa theory is distinctly thatof an exponent of a rival school of criticism, and
-
-
 
 तत्र भरतः
 
@@ -1287,8 +1095,6 @@ we clearly see that he laysstress upon rasasbeing present in sargabandhas also.D
 
 Five slokas from 19 to 23 treat only of poetry, sarga-
 
-
-
 इत्याह। काव्यस्य प्रयोजनं हेतुश्चेत्येतदभिधानपरमुपोद्घातं समाप्य स्वग्रन्थविषयं विविञ्चन् भामहःरूपकादिरर्थालङ्गारवर्ग एव कैश्चिदुक्त इति, अस्य बहिरङ्गत्वमाचक्षाणैरन्यैस्सुपां तिङां च व्युत्पत्तिरेवालङ्गारत्वेनाङ्गीकृतेति चाभिधाय सौशब्द्यमेतदुच्यते नार्थालङ्कार ईदृश इति तन्निरस्यति
 
 रूपकादिमलंकारं बाह्यमाचक्षते परे।  
@@ -1311,8 +1117,6 @@ But the truth is this:—
 
 whereas it must be **वाक्यस्याग्राम्यतायोनिर्माधुर्ये दर्शितो रसः।** One of the ten gunas that were treated in the first Paricheda is Madhurya and it has deen defined as **मधुरं रसवत्।** Now among the alankaras we have another rasavat. What is the difference between the two? This, Dandin explains in this sloka. The meaning of the sloka is this: When treating of Madhurya we have shown a rasa which is derived from **अग्राम्यता.** But here we speak of poetry as having a rasa on account of the presense of eight rasas (of Bharata).
 
-
-
  "कः पुनरयं पाक इत्याचार्याः। परिणाम इति मङ्गलः। कः पुनरयं परिणाम इत्याचार्याः। सुपां तिङां च श्रवः(प्रि)या व्युत्पत्तिरिति मङ्गलः। सौशब्द्यमेतत्। पदनिवेशनिष्कम्पता पाक इत्याचार्याः।"
 
 इति राजशेखरेण काव्यमीमांसायामुक्तं पश्यतां मङ्गलनाम्ना केनचित् प्राचीनेन काव्यलक्षणकारेणाभिहितमेवात्र भामहोऽनूद्य निराकरोतीति प्रतिभानं भवेत्। किन्तु काव्यमीमांसाकाव्यानुशासनादिग्रन्थस्थतदभिप्रायानुवादपर्यालोचनायां स भामहात् सर्वथाऽर्वाचीन इत्येव भाति। भामहात् प्राचीनैः कैश्चित् सुप्तिङ्व्युत्पत्तेरलङ्कारत्वमभ्यधीयत। भामहोक्तरीत्या तस्या अनलङ्कारत्वेऽपि पाकविशेषरूपत्वं युक्तमिति मङ्गल इत्यभिप्रायभेदोपपत्तेर्नेदं मङ्गलस्य भामहादपि पूर्वत्वे लिङ्गमिति सुवचम्। सदुक्तिकर्णामृते मङ्गलकृतत्वेनोदाहृते
@@ -1332,8 +1136,6 @@ whereas it must be **वाक्यस्याग्राम्यताय�
 
 ** सोमेश्वर** in his commentary on the **काव्यप्रकाश** quotes from **भरत**a passage about ojas (which is not found in **नाट्यशास्त्र**) and the explanation of **मङ्गल** thereon **'तत्रावगीतस्य हीनस्य वा वस्तुनः शब्दार्थसम्पदा यदुदात्तत्वं निषिंचन्ति कवयः तदोज इति भरतः।अवगीतस्य हीनस्य वा वस्तुनः शब्दार्थयोः सम्पदा पदमुदात्तत्वं? निषिञ्चन्ति कवयः तर्हि तदनोजः स्यादिति मङ्गलः'।**The **काव्यप्रकाशसङ्केत**
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 of **माणिक्यचन्द्र** also quotes the views of **मङ्गल—दण्ड्युक्तं समासदैर्ध्यमोज इत्यपि न। रीतित्रयेऽप्योजसः साधारणत्वाद्गौडीयानिर्देशो न युक्तिमानिति वामनमङ्गलौ** (p. 292 Mysore Edn.). **हेमचन्द्र (विवेक** p. 195) quotes the same two passages from **मङ्गल**। The **काव्यमी** of **राजशेखर** quotes **मङ्गल** as a writer on poetics (pp. 11, 14, 16, 20.). Therefore it is not unlikely that Mangala wrote a comment on the Natya Sastra.
@@ -1349,8 +1151,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 यदनुदात्तत्वं.... ........... . ... ... इति मङ्गलः'** and exactly thus we read the line in the **अलङ्कारचूडामणि** of Hemachandra, and also in **माणिक्यचन्द्र'**s commentary on **काव्यप्रकाश** we read **'अहीनानवगीतस्यापकर्षणेन ओजसोऽपि गुणस्य प्राप्तेः।** If this is borne in mind it may be seen that P. V. Kane's conjecture about **मङ्गल** having written a commentary on the Natya Sastra is quite baseless.
 
   In“... **रीतित्रयेऽप्योजसः साधारणत्वात् गौडीयानिर्देशो न युक्तिमानिति वामनमङ्गलौ”** I am not sure who is meant by **वामन.** The author of the Kavyalankarasutra does not accept as we all know the ojas as common to all the three ritis. Or there must be some misreading.
-
-
 
 इति अर्थालंकारशब्दशुद्ध्योर्मतभेदेनाद्रियमाणत्वमभिदधत् स्वस्मास्प्राचीनैव तादृशमतभेदप्रवृत्तिरिति दर्शयति। एतेन, एतद्व्याख्याता स आलंकारिकमङ्गल एव यदि भवेत् तर्हि तदीयात्कालाच्चिरात् पूर्वमेव स मतभेद आसीदिति स्पष्टमेव प्रतीयते। परं तु आलङ्कारिककिरातव्याख्याकृतोर्मङ्गलयोर्नामधेयव्यतिरिक्तेन प्रमाणेन ऐक्यं यावत् स्थिरीक्रियेत तावदत्र साशङ्कतैव हृदयस्य भवेत्।
 
@@ -1374,8 +1174,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 इत्याह दण्डी। उदाहृताभ्यां भामहश्लोकाभ्यां सह इमं दण्डिनः श्लोकं पर्यालोचयन्तोव्युत्पन्नमतयः, 'वंशवीर्यश्रुतादिभिः' इति भामहप्रयुक्तं शब्दमेवसाक्षात्प्रयुञ्जानो दण्डी रिपोः प्रतिनायकस्य स्तुतिं कृत्वा वधवर्णनं नायकोत्कर्षपर्यवसायित्वात् कामं युक्तमिति स्वाभिप्रायं भामहोक्तिंमनसि कृत्वा तदाक्षेपाभिप्रायेणैव प्रकाशयतीति नैव न गृह्णीयुः।
 
-
-
  एवं कथाऽऽख्यायिकयोर्भेदमपि भामहोक्तं दण्डी निरस्यति। आख्यायिकाविषये षट्विशेषाः भामहेनोक्ताः - (1) संस्कृतभाषामयी। (2) नायकवक्तृका। (3) सोच्छ्वासा। (4) वक्त्रापरवक्त्रयुक्ता। (5) कविभावकृतचिह्ना। (6) कन्याहरणाद्यन्विता। इति। कथाविषये च (1) संस्कृतप्राकृतापभ्रंशमयी (2) उच्छ्वासरहिता (3) नायकेतरवक्तृका (4) वक्त्रापरवक्त्ररहिता। इति चत्वारो विशेषाः। अत्र आख्यायिका विशेषषट्केऽन्त्यद्वयस्याप्रतिषेधात् 'अप्रतिषिद्धमनुमतं भवति' इति तन्त्रयुक्त्या तत्कथायामपीष्टमिति सिद्ध्यति[^21] in describing कथा, he means that they are to be absent in a कथा.  (Introduction to the साहित्यदर्पण p. XXIX. )")।
 
 [^21]: "P. V. Kane is quite mistaken when he says:- As भामह is silent about the points 4 and 5 (here 5 and 6
@@ -1393,8 +1191,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 'अपित्वनियमो दृष्टस्तत्राप्यन्यैरुदीरणात्'
 
 इत्यनेन निरस्यति। भामहो हि
-
-
 
 वृत्तमाख्यायते तस्यां नायकेन स्वचेष्टितम्। ( 1. 26)
 
@@ -1422,8 +1218,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 [^23]: "So, P. V. Kane's rendering of this '... would not bea blemish in a कथा' is apparently wrong."
 
-
-
 च सह पश्यतो यस्य कस्यचिदपि पण्डितस्य दण्ड्युक्तंभामहो निराकरोतीति वक्तुं प्रवृत्तिर्भवेत्। 'नैते वैशेषिका गुणाः' इति 'अन्यत्रापि न दुष्यति इति च निरसनं हि दण्डिना कृतं दृश्यते। निरस्यमानं वैशेषिकगुणत्वं च भामहेनोक्तमुपलभामहे, न निरसनानुपपत्तिप्रदर्शनम्। अथ यद्युभावपि ग्रन्थान्तरोक्तं दृष्ट्वा एवं. ब्रूतः, न त्वनयोरेकोऽन्यदीयग्रन्थदर्शी ; तर्हि भूयिष्ठः शब्दसंवादः कथम्। न हि यदृच्छया उक्तवक्ष्यमाणस्थलेषु इयान् शब्दसंवादः कथमपि क्वचिदपि सम्भावनामर्हति। यदि तु दण्डिदूषितग्रन्थान्तरस्थं सर्वंभामहस्तथैव शब्दतोऽप्यनुवदति, तर्हितस्य ग्रन्थकरणसामर्थ्यमतीव नाम श्लाघितव्यम्। तस्माद्भामहीयं काव्यालङ्कारं साक्षात् दृष्ट्वा तत्रोक्तमेव तत्र तत्र विशदयन् विस्तारयन् खण्डयंश्च दण्डी स्वं काव्यादर्शंचकारेति दृढसंस्कृतभाषाशैलीपरिचयशालिभिर्निश्चीयमाने व्याख्यातृभिस्तथाऽभिधीयमाने च यदद्य केचित् दण्डिभामहावज्ञातपरस्पराविति यद्वा दण्डी प्राचीनः भामहोऽर्वाचीन इति सिद्धान्तयन्ति ते सर्वथोपेक्षितव्याः। कालिदासोपजीव्यकाव्यान्तरव्याख्याता मल्लिनाथः अस्मादनन्तरकालिकस्तु कालिदास इत्यभिधीयमानं यावद्विदुषामादरार्हम्, तावदेव एषां केषांचिदभिधानमिति मन्तव्यम्। वक्ष्यमाणेषु सर्वेषु स्थलेषु एवमेषामन्यथा ग्रहणं पण्डितैरवधातव्यम्।
 
  वैदर्भं गौडीयमिति प्रकारान्तरेण विभागं कैश्चित्प्राचीनैः कृतं भामहः साभिनिवेशं निराकरोति। इदममृष्यन् दण्डी महताऽभिनिवेशेन गौडवैदर्भमार्गौविभज्य प्रदर्शयति। तत्र
@@ -1432,8 +1226,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 तत्र वैदर्भगौडीयौ वर्ण्येते प्रस्फुटान्तरौ॥'
 
 इति वदन्, 'न परं द्वावेव मार्गौअपि तु परस्सहस्रा मार्गाः परस्परविलक्षणाः सन्ति। किन्तु तेषां सूक्ष्मभेदत्वात् मा नाम भेदो ग्राहि। यो पुनरतिस्फुटभेदौ गौडवैदर्भमार्गौ तयोर्वैलक्षण्यं ग्रहीतु-
-
-
 
 मशक्नुवन्तो हन्त कथं काव्यलक्षणकृतो भवन्ती'ति नूनं 'गतानुगतिकन्यायान्नानाऽऽख्येयममेधसा'मिति वदन्तं भामहमुपहसति।
 
@@ -1451,8 +1243,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
  आद्यद्वये गूढार्थमिति यत् तदिह भामहेन गूढशब्दाभिधानमित्युक्तम्। भरतोक्तेषु दशसु गुणेषु, माधुर्यंप्रसादः ओजः इति त्रीन् विना इतरेषां बहूनां दोषाभावमात्ररूपत्वमभिसन्धाय तद्विपरीतरूपेण, नेयार्थंक्लिष्टं अवाचकमयुक्तिमत् इतीमान् दोषान् पठित्वा वर्जनीयानाह। भरतोक्तं अर्थान्तरं अत्रान्यार्थमिति पठितमिति भाति। भिन्नार्थमित्यस्य भरतेन द्वेधा लक्षणमुच्यते। तत्र एकं लक्षणमनुसृत्य विरुद्धार्थमित्यर्थो भवति। इदं व्यर्थमिति व्यवहृतं भामहेन चतुर्थपरिच्छेदे निरूप्यत इत्यवोचाम। लक्षणान्तरमनुसृत्य तु असभ्यग्राम्यार्थत्वं तदिति प्रतीयते। तदिदं किञ्चित् बहुकृत्य श्रुतिदुष्टमर्थदुष्टं कल्पनादुष्टं इतीमान् दोषान् भामहोदर्शयति।
 
 चेक्रीडितप्रभृतिभिर्विकृतैस्तु शब्दै-
-
-
 
 र्युक्ता न भान्ति ललिता भरतप्रयोगाः।  
 कृष्णाजिनाक्षरुरुचर्म (?) धरैर्घृताक्तै-  
@@ -1480,10 +1270,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 इत्यादिषु दण्डी परकीयमेवोदाहरतीति वक्तव्यं स्यात्।
 
-
-
-
-
  यदपि कृत्स्नस्य श्लोकस्य काव्यादर्शे दर्शनात् काव्यालङ्कारेस्थितेनांशेन तत उद्धृतेन भाव्यमिति, सोऽपि निर्बन्धो निर्हेतुकः। यथा 'मायेव भद्रेति यथा' इत्यादिषु अल्पपदमेवोदाहरणं ददाति, न पूर्णश्लोकं; तथाऽत्रापि भामहः स्वयमेव हिमापहेत्युदाहरणं ददाति। तदादायांशान्तरं पूरयन् दण्डी पूर्णं श्लोकं पठतीति वस्तुतत्त्वे स्थिते का नामानुपपत्तिः।
 
 \_\_\_\_\_\_
@@ -1507,8 +1293,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 इति। निरूपितानां चतुर्दशानामप्यलङ्काराणां उदाहरणानि स्वकीयानि। निरूपयिष्यमाणानां तु केषांचित् परकीयाण्यपि प्रदर्शयिष्यन्ते। अनेन विशेषेण मध्ये परिच्छेदसमापनम्। एवमुदाहर-
 
-
-
 णानांस्वकीयत्वोक्तिर्द्वितीयपरिच्छेदस्थालङ्कारमात्रपरेति स्पष्टंप्रतीयमानेऽत्रनवीनानां विकल्पनास्सर्वाः तात्पर्याग्रहणमात्रमूला इति ज्ञेयम्। द्वितीयपरिच्छेदेऽपि राजमित्रशाखावर्धनाद्युदाहरणात् स्वयंकृतैरेवेत्यवधारणमनुपपन्नमिति चेदुक्तमगृह्णद्भिरेवेदं पृच्छ्यते। अलङ्काराणामुदाहरणानि सर्वाणि स्वकीयानीत्युच्यन्ते। न तु अलङ्कारदोषाणामपि। तत्र स्वकीयानि परकीयाणि वा परिच्छेदान्तरार्थेष्विवेत्यास्तां तावत्।
 
  एवं भामहप्रदर्शितमेव पन्थानमनुसरन् दण्डी आवापोद्वापाभ्यां परिष्कृत्यालङ्कारान्निरूपयति। तत्रादौ भामहेन माधुर्यं, ओजः, प्रसादश्चेति त्रयं न्यरूपि। अस्य त्रयस्य स्वेन प्रथमपरिच्छेद एव निरूपितत्वेन इहानिरूपणमिति ज्ञापयन्नाह दण्डी—
@@ -1519,8 +1303,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 इति। तथा अनुप्रासयमकयोः शब्दालङ्कारयोः वाङ्माधुर्यरूपत्वेन प्रतिपादितत्वात् अत्र परित्यागः। अवशिष्टेषु भामहोक्तेषु षट्त्रिंशत्यलंकारेषु अनन्वयससन्देहोपमेयोपमानां उपमायां, उपमारूपकस्य रूपके, उत्प्रेक्षावयवस्य उत्प्रेक्षायां चान्तर्भावं दण्डी मन्यते। भामहेन प्रतिषिद्धान् हेतुसूक्ष्मलेशांस्तु पृथगलंकारतया गणयति। तथा आवृत्तिदीपकमपि। एवं पञ्चानामुद्वापस्य चतुर्णामावापस्य च करणात् दण्डिनो मतेन पञ्चत्रिंशदर्थालङ्काराः। कालक्रमेण जातैस्तैस्तैरालङ्कारिकैः केचित्केचिदलङ्काराः प्रत्यपाद्यन्तेति क्रमेण जातामलङ्कारवृद्धिमभिव्यञ्जयन् भामहः वर्गशोऽलङ्कारान् न्यरूपयत्। अत एव हि उपमाप्रभेदत्वेन उपस्थितस्यापि उपमेयोपमादेः निरूपणमकुर्वन्
 
  'इत्युक्त उपमाभेदो वक्ष्यते चापरः पुनः' इति वक्ष्यमाणतया प्रत्यजानीत। तत्र तत्र च अन्ये केचिदिति निर्दिशति। परिच्छेदभेदवत् वर्गभेदमप्यनपेक्षितं मत्वा तु दण्डी प्रथममेव पञ्चत्रिंशतोप्यलङ्काराणामुद्देशं करोति। तत्र भामहीय एव क्रमः उत्सर्गत अश्री-
-
-
 
 यते। सति तु हेतौ क्रमान्तरमपि। उत्प्रेक्षायाः परतः स्वभावोक्तिर्भामहेनादर्शि। दण्डी पुनः
 
@@ -1542,17 +1324,11 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 ............ एव । भामहः यथासंख्यमिति प्रथममुक्त्वा'संख्या-
 
-
-
 नमिति मेधावी' इति नामान्तरमप्याह। तत्र दण्डी 'यथासंख्यमिति प्रोक्तं संख्यानं क्रम इत्यपि' इति तृतीयं नाम दर्शयति। एवं भामहेनाकथितमपि क्रम इति नाम वृत्तानुरोधादेवादौ दण्डी प्रयुङ्क्ते। भामहेन सर्वान्ते दर्शिताया आशिषः सङ्कीर्णात्पूर्वंनिवेशनं तस्या उपमादिवत्केवलालङ्कारत्वात्। केवलालङ्काराणां संमिश्रणे हि सङ्कीर्णंभवति। तस्मात् येषां पृथगवस्थितियोग्यानां सङ्करेऽलङ्कारान्तरं भवति, तेषां सर्वेषां आदौ निरूपणं युक्तमिति।
 
  अस्मिन् अलङ्कारोद्देशे 'दीपकावृत्ती' इति वक्तव्ये 'दीपकावृती' इति अपशब्दप्रयोगादिसद्भावात् नायं दण्डिना कृत इति केचित् सन्दिहत इति केचिल्लिखन्ति। सोऽयमेषामस्थाने सन्देहः। आङ्पूर्वात् 'वृतु वर्तने' इत्यस्मात् धातोः 'इगुपधात् कित्' इत्युणादिचतुर्थपादसूत्रेण आवृतिशब्दनिष्पत्तिरिति तरुणवाचस्पतिदर्शितरीत्या आवृत्तिरित्यर्थे आवृतिशब्दस्य साधुत्वे न कश्चिद्दोषः। 'गमिकर्मीकृतनैकनीवृता' इति श्रीहर्षादिप्रयोग इव इगन्ततया आङ्पूर्वस्य वृतुधातोरुपादानं तदर्थपरतयेत्यपि वक्तुं शक्यम्। बहुधा चैवं शबरादीनां प्रौढानां प्रयोगो दृश्यत इति नात्राल्पोऽपि संशयितुमवसरोऽस्ति। अप्रस्तुतप्रशंसास्थाने अप्रस्तुतस्तोत्रपदोपादाने न काऽपि न्यूनता। अशक्तिमेतत् प्रदर्शयतीति चेत्, नैव। भामहः 'प्रेयो रसवदूर्जस्वि' इत्यारभ्य चतुर्षु श्लोकेषु त्रयोविंशतिमलङ्कारान् घटयति। अत्र छन्दःपूरणाय सप्त चकाराः त्रयोऽपिकाराश्च प्रयुज्यन्ते[^25]। इदमयुक्तं मन्यमानोऽयमलंकारनिर्देशकारः पञ्चत्रिंशतोऽप्यलंकाराणां चतुर एव श्लोकान् कृत्वा एकमपि चकारमपिकारं वाऽप्रयुञ्जानः रचनाकौशलविशेषं प्रदर्शयति , नाशक्तिम्। 'अथ भाविकम्' इत्येकमव्ययं दृश्यते। तदपि स्वभावोक्त्यादिष्वन्येष्वलंकारेषु वाक्यविषयेषु सत्सु भाविकं प्रबन्धविषयतया वि-
 
 [^25]: "‘उपमारूपकं चान्यदुपमेयोपमामपि' इत्यत्र 'अन्य'दित्यपि पादपूरणमात्रफलकम्। 'उपमारूपकं चान्य उपमेयोपमामपि' इति वापाठो भवितुमर्हति।"
-
-
-
-
 
 लक्षणमिति सूचनाय। अथ 'परिवृत्त्याशीः' इत्यत्त द्विवचनेन भाव्यम्। परिवृत्तिसहिता आशीः इति मध्यमपदलोपकल्पनमस्वरसमितियदि शङ्क्येत, तदपि न। 'परिवृत्त्याशीः संकीर्णम्' इति समाहारद्वन्द्वेन एकवद्भावाश्रयणात्। 'सहोक्तिः' इत्यत्रापि उच्चारणे प्रयत्नाधिक्यसापेक्षत्वात् श्रवणमाधुर्यभञ्जकत्वाच्च विसर्गो न युज्यते। तेन 'सहोक्तिपरिवृत्त्याशीःसंकीर्णमथ भाविकम्' इत्येव दण्डिना पठितमासीदिति युक्तं कल्पयितुम्। यदि दण्डिना इमे उद्देशश्लोकाः नाकरिष्यन्त नूनमुत्तरत्रनिरूपणावसरे अलंकाराणां भामहीय एव क्रमोऽद्रक्ष्यत।
 
@@ -1568,8 +1344,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 इति। अतिशयोक्तिनिरूपणेऽवसिते
 
 हेतुश्च सूक्ष्मो लेशोऽथ नालंकारतया मतः।
-
-
 
 इत्येकेनैवार्धेन भामहस्तेषामलंकारतां प्रतिषेधति। अत्रससंरम्भं खण्डनं कुर्वन् दण्डी—
 
@@ -1594,8 +1368,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 अनन्वयससन्देहावुपमास्वेव दर्शितौ।  
 उपमारूपकं वापि रूपकेष्वेव दर्शितम्॥
-
-
 
 उत्प्रेक्षाभेद एवासावुत्प्रेक्षावयवोऽपि च।
 
@@ -1623,10 +1395,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 [^26]: "See Dr. A. Sankaran's thesis: P. 23."
 
-
-
-
-
 भामहस्य कृताविव दण्डिनः क्वचिदर्धत्रयघटितं पद्यं पठामः, येनेह तथेति गृह्णीयाम। नापीदमर्धंप्रक्षिप्तमेवेति प्रमाणं विना कल्पयितुं शक्यम्। एतदनुसारेणैव च सरस्वतीकण्ठाभरणकृता
 
 वक्रोक्तिश्चरसोक्तिश्च स्वभावोक्तिश्च वाङ्मयम्। (V. 8.)
@@ -1644,8 +1412,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 को वा हेतुरनार्याणां धर्म्येवर्त्मनि वर्तितुम्॥
 
 इति भट्टिश्लोकं च पश्यतां इमौ उभावदृष्टपरस्परौ इति वक्तुं नैव प्रवृत्तिर्जायेत। तत्र लक्ष्यकारस्य लक्षणकारानुसारित्वस्य युक्तत्वात्, 'स्वयंकृतैरेव निदर्शनैः' इति भामहेनान्यानुपजीवित्वस्य कण्ठोक्तत्वाच्चभामहं भट्टिरुपजीवतीति युक्तं ग्रहीतुम्। 'दूर्वाकाण्डमिव श्यामं तन्वी श्यामा लता यथा' इति भामहीयमुपमोदाहरणम्, 'दूर्वाकाण्डमिव श्यामा न्यग्रोधपरमण्डला' (V. 18) इति भट्टिश्लोकार्धंचात्रचिन्तनीयम्। एवं भामहीयातिशयोक्तिस्थाने स्वभावोक्तिः। स्वभावोक्तिस्थानेऽतिशयोक्तिः। तत्रायं स्वभावोक्तिमान् श्लोकः-
-
-
 
 अथ लक्षणतुल्यरूपवेषं गमनादेशविनिर्गताप्रहस्तम्।  
 कर्पयोऽनुययुः समेत्य रामं नतसुग्रीवगृहीतसादराज्ञम्॥
@@ -1668,8 +1434,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 गतोऽस्तमर्को भातीन्दुर्यान्ति वासाय पक्षिणः।  
 इत्येवमादिकं काव्यं वार्तामेनां प्रचक्षते॥
 
-
-
 इत्यभिहिते'ति लिखतः। अयमबद्धः पाठ इति वृत्तिपरिशिष्टेऽवोचाम।हेत्वादीनां त्रयाणां अलङ्कारत्वनिराकरणपरश्लोकानन्तरं काव्यालङ्कारे अयं श्लोकः पठ्यते।
 
 समासातिशयोक्ती च षडलंकृतयोऽपराः[^27]।
@@ -1684,8 +1448,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 **तच्च वार्ताभिधानेषु वर्णनास्वपि दृश्यते।**
 
 इति दण्डश्लोकेऽपि लोकसीमानतिक्रमरूपस्य कान्तिगुणस्य वार्तासु सद्भाव उच्यते, न वार्तानाम्नोऽलङ्कारस्य। अत्र 'वार्ता नामान्यो-
-
-
 
 न्वकथन'मिति तरुणवाचस्पतिः। उपचारवचनं वार्तेति तु हेमचन्द्रः। उभयमपि सामान्यव्यवहाररूपमेव।
 
@@ -1715,8 +1477,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 इत्युपक्रमेऽभिधानात्। एवं न्यायप्रकरणे भामहोक्तमनुसृत्यैव उद्भटः
 
-
-
 'काव्यदृष्टान्तहेतू च' इति हेतुशब्देनैव हेतुं निर्दिश्य निरूपणावसरे 'काव्यलिङ्गं तदुच्यते' इति लिङ्गपदं प्रयुङ्क्ते। किं तु ज्ञापकहेतोरलङ्कारप्रकरणेऽकथनात् प्रत्युत सामान्येन हेत्वलङ्कारनिषेधाच्च ज्ञापकहेतोरलङ्कात्वप्रतीतिः काव्यालंकारात् स्फुटं न जायते। औद्भटात्काव्यालङ्कारसंग्रहात् तु तथा सा जायत इति विशेष इत्यप्यत्र द्रष्टव्यम्। वस्तुतत्त्वमेतत् प्रसङ्गादुक्तम्। प्रकृतेऽवधेयं तु एवम्—
 
 दत्वोदाहरणद्वन्द्वं ज्ञापको वर्णयिष्यते।
@@ -1741,8 +1501,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 इति भामहीये प्रतिवस्तूपमालक्षणोदहरणे बुद्धौ कुर्वतामस्मिन् भट्टिश्लोके प्रतिवस्तूपमाप्रतीतिरवश्यंभाविनी। उत्तरार्धे एवंप्रतिवस्तूपमासत्वेऽपि पूर्वार्धे प्रस्तुतं रामं साक्षादप्रतिपाद्य
 
-
-
 'अधिगतमहिमा प्रमादी' इत्यप्रस्तुतसामान्यप्रतिपादनादिदमप्रस्तुतप्रशंसोदाहरणं भट्ट्यभिप्रेतं भवेत्। 'अवसीदति' इति निन्दा प्रतिपाद्यते, न स्तुतिः ; तस्मादियमप्रस्तुतप्रशंसेति न युक्तमिति उद्भटाद्युदाहरणं चिन्तयतां शङ्का न भविष्यति।
 
 बोद्धव्यं किमिव हि यत्त्वया न बुद्धं  
@@ -1755,8 +1513,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
  तदेवमलंकाराणां भामहोक्तानां सर्वेषामिदोदाहरणदर्शनात् भामहानुसारी भट्टिरिति सुकरो निश्चयः। शब्दालंकारे बाहुल्यमन्योपजीवनाद्वा स्वप्रतिभावैभवाद्वा भवेत्। क्रमभेदोऽपि तत्र तत्र वर्णनीयविषयानुरोधेन कश्चिदापतन् न भट्टेर्भामहोपजीवित्वनिर्णयप्रतिरोधायालम् \।
 अल्पेप्यन्यथाभावे सति उपजीव्योपजीवकभावो न भवतीति येऽभिनिविश्य प्रतिपादयन्ति तेषां उद्भटकृतः काव्यालंकारसंग्रहः समुचितमुत्तरं दास्यतीति विश्वसिमः। उद्भटो हि रूपके चातुर्विध्यं दर्शयति। न तत् काव्यालंकारे दृश्यते। उपमा-रूपकं, उत्प्रेक्षावयवः, आशीः इतीमान् भामहोक्तानलंकारान् न निरूपयति। संसृष्टिः, काव्यलिङ्गं, काव्यदृष्टान्तः इतीमान् तत्रानुक्तान्
-
-
 
 निरूपयति। किं च प्रेयः, ऊर्जस्वि, समाहितं इत्येतेषां त्रयाणां भामहेनलक्षणाकथनेऽपि 'उदाहरण एवास्य रूपमाविर्भविष्यति' इति न्यायेन उदाहरणपर्यालोचनयैव तेषां स्वरूपं काव्यादर्शोक्तरूपमेवेति स्पष्टं विज्ञातुमीश्महे। एतद्वैलक्षण्येन उद्भटः क्रमेण तेषां भावोदयः रसभावा भावाभासः भावशान्तिरित्येतन्निबन्धनरूपत्वमाचष्टे, यदर्वाञ्चः सर्वे आलङ्कारिका अभ्युपगच्छन्ति। एवं बहुष्वंशेषु वैलक्षण्यसत्त्वेऽपि यथा उद्भटस्य भामहीयकाव्यालङ्कारानुरोधित्वं भवति, तद्वदेव दण्डिभट्ट्योरपीति स्थितमेतत्।
 
@@ -1773,8 +1529,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 इति काव्यालङ्कारश्लोकेन सह चिन्त्यमानः अलं भट्टेः काव्यालङ्कारदर्शित्वं साधयितुम्। विद्वद्भिः सम्यक् चिन्तनीयं कतरस्य श्लोकस्यात्रप्राचीनत्वं भवितुमर्हति ; कतरस्य तदपेक्षयाऽर्वाचीनत्वमिति। अस्मदीयोऽभिप्रायः काव्यालङ्कारश्लोकस्येति। संवादहेतोः प्रतिपक्षमनाख्याय इमौ द्वौ श्लोकौ केवलं पठित्वा अनयोः पौर्वापर्यंकथं भवितुमर्हतीति व्युत्पन्नं पण्डितं कञ्चिदपृच्छाम। तत्रास्मदभिप्रायस्य संवाद एवाजनि। न विसंवादः। अन्येऽपि विद्वांस एवं संवादिन एव स्युरिति वयं दृढप्रत्ययाः स्मः। 'हन्त दुर्मेधसो हताः' इत्येकः शोचति, काव्यरसास्वादे सर्वाधिकारौचित्यं मन्यमानः। 'अस्मिन् काव्येविद्वत्प्रीतिमात्रस्योद्दिष्टत्वात् दुर्मेधसामत्र हतिरिष्ठैव' इत्यन्यः समादधाति। अत्र पौर्वापर्यमन्यथा वकुं कस्य प्रवृत्तिः स्यात्, विना वचनतात्पर्यग्रहणासमर्थान्[^30] — Though there is resemblance in the words, the purport is different. Besides the two verses standing by themselves would rather suggest that Bhamaha criticises Bhatti.' How shrewd and scholar-like?")।
 
 [^30]: "P.V. Kane says (P. XXXIX
-
-
 
  इति शतषष्ट्याऽलंकृति निरूप्य चतुर्थपरिच्छेदे पञ्चाशता दोषदृष्टिंकरोति। तत्रादौ
 
@@ -1805,8 +1559,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 इति गुणत्वप्रदर्शनाय दोषत्वप्रसञ्जनमात्रं पूर्वंकृतमिति वेदितव्यम्।
 
-
-
 कान्ते इन्दुशिरोरत्नेआदधाने उदंशुती ! (IV. 28)
 
 इति प्रगृह्यहेतुकं सन्ध्यभावं कृत्वा विस्रन्ध्युदाहरणं भामहः प्रदर्शयति। तत्खण्डयन्नाह दण्डी—
@@ -1833,8 +1585,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 
 [^31]: "P.V. Kane p· XXXVIII. Referring to नमोऽस्तु तेभ्यो विद्वद्भ्यः"
 
-
-
 मिति काव्यगतिमविदुषां प्रधानाप्रधानांशविवेकविधुराणां च भणितमित्यनादरणीयम्। किं तु 'विजिगीषुमुपन्यस्य' इति भामहोक्तस्य विजिगीषु तयोपन्यासस्य अद्य दृश्यमाने प्रतिज्ञायौगन्धरायणेऽदर्शनात् यस्मादिदं प्रयोगसौकर्याय वा कारणान्तरेण वा संगृहीतंतादृशं प्रतिज्ञायौगन्धरायणमित्येव वा अन्यथा वा प्रथितं काव्यान्तरं दृष्ट्वा भामह एवं दूषणान्याहेति तर्कयामः।
 
  इदमिह युक्तमवगन्तुम्, यदचिरात् प्रकाशिते अज्ञातकर्तृके आश्चर्यचूडामणिसमानकर्तृकतया सम्भावितेवीणावासवदत्तनामनि असमग्रे नाटके भामहोक्ताः सर्वे दोषाः परिहृताः सन्ति। न तत्र कृत्रिमो गजः, अपि तु वास्तवः, 'वन्यद्विपानां परां लीलां शिक्षितवान् कृत्रिमवर्णलक्षणवांश्च'।न तस्याल्पं बलम्। किं तु द्वे सहस्रेपदातयः। द्वे शते मत्तास्तुरगाः। विंशतिर्मत्तवारणाः। तथाऽपि सर्वंसैन्यमन्यत्र प्रहित्य नीलगजग्रहणाय स्वयमेकाकी गच्छति। तथा निश्चये ऋषिशापो निमित्तम्, न मन्त्रिणां दोषः यतो विष्णुमित्रः
@@ -1851,8 +1601,6 @@ of **माणिक्यचन्द्र** also quotes the views of **मङ
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 of Bhamaha, this scholar says: 'lt appears to me that the words of Bhamaha **नमोऽस्तु तेभ्यो** etc. amount to this: that some poet first narrated the story of **उदयन**and then others (referred to as **विद्वद्भ्यः**) adopted (**नयन्ति**) the story for their own purposes... ...'. But in reality Bhamaha here makes an ironical remark: 'let there be a bow to those learned who justify (**नयन्ति**) such a plot of the poet.'
-
-
 
 षेधति स्म। तृतीयाङ्के सचिवस्य यौगन्धरायणस्य राजविषया चिन्ता साध्वभिव्यञ्जिता
 
@@ -1882,10 +1630,6 @@ of Bhamaha, this scholar says: 'lt appears to me that the words of Bhamaha **न
 
 इत्यागमविरोधमुदाहरंश्च वैदिकग्रन्थमीमांसादिपरिचयमात्मनः
 
-
-
-
-
 प्रकटयति। शास्त्रविदां गोष्ठीषु नूनमतिप्रसिद्धेन भामहेन भवितव्यं येन कुमारिलभट्टभर्तृहरिप्रभृतीन् महतः शास्त्रकारान् खण्डयितुं प्रवृत्तः 'तत्त्वसंग्रह'कारः शान्तरक्षितो नाम प्रौढबौद्धतार्किकः काव्यालङ्कारस्थान् श्लोकाननूद्य खण्डयति। तत्रानूदिताः श्लोकाः कमलशीलव्याख्यानेन सह वृत्तिपरिशिष्टेऽस्माभिः प्रादर्शिषत।पदानांसौन्दर्ये, अलङ्काराणामवान्तरविकल्पने च यद्यपि दण्डी दूरं विशिष्यते, तथाऽपि सर्वतोमुखे शास्त्रवैचक्षण्ये चिन्त्यमाने भामहः शतगुणं विशिष्यतेतराम्। सूर्यो भामहः चन्द्रो दण्डी। समुद्रो भामहः ; क्रीडातटाको दण्डी। सिंहो भामहः, हरिणो दण्डी। गरुत्मान् भामहः, शुको दण्डी। काव्यलक्षणं प्रणयन्नपि भामहः त्रैलोक्यमग्रतः कृत्वा काव्येषु ग्रथनीयान् सारांशानपचित्य कविभ्यो वितरति। प्राक्तनैरालङ्कारिकैः सर्वैरेकैकांशमात्रे दृगर्पिता बभूव। अयमेकस्तदानीं काव्यसाम्राज्यव्यवस्थापकः। अतोऽस्य 'स्वयं परितर्क्य च' 'अवगम्य स्वधिया च काव्यलक्ष्म' इत्यसकृदभिधाने यत्नः। येषां प्रचण्डं पाण्डित्यं तेषां कवीनां काव्यलक्षणकाराणां वा कृतिषु तदवश्यं पदे पदे आविर्भवति, कियत्या मात्रया काव्यरसं विहन्ति च। भारविमाघयोर्हि शास्त्रपाण्डित्यं स्वाभाविकत्वकृतरसाच्छादकं तत्काव्ययोःस्फुटं दृश्यते। न तथा कालिदासकाव्येषु। नापि भामहग्रन्थे। कालिदासस्य अन्येषां कवीनां च यदन्तरं तदन्तरं भामहस्य अन्येषामालङ्कारिकाणां च। काव्यालङ्कारस्य प्रथमावलोकनसमये
 
 केचिदोजोऽभिधित्सन्तः समस्यन्ति बहून्यपि। (II. 2)
@@ -1897,8 +1641,6 @@ of Bhamaha, this scholar says: 'lt appears to me that the words of Bhamaha **न
   स्वच्छन्दोच्चलदच्छकच्छकुहरच्छातेतराम्बुच्छटा—
 
 इत्येवमादितुल्यं किंचित्कर्णे पतिष्यतीति तदनुगुणं कर्णंसज्जीकृत्य उपरि पठितुमारभामहि। किं पुनस्तत्रोदाहरणं स दर्शयति। इदम्-
-
-
 
 यथा मन्दारकुसुमरेणुपिञ्जरितालका। (IV. 2)
 
@@ -1917,8 +1659,6 @@ of Bhamaha, this scholar says: 'lt appears to me that the words of Bhamaha **न
 
  वामनालङ्कारसूत्रे रुद्रटकृते काव्यालङ्कारे च भामहश्लोकानामस्ति प्रत्यभिज्ञा। तत् सर्वं प्रतिपादयितुं प्रवर्तमानानां अतिविस्तर आपतेदिति साम्प्रतमुदास्महे। वामनालङ्कारसूत्रवृत्तिव्याख्याने कामधेनौ भामहकृतत्वेन बहवः श्लोका उदाह्रियन्ते। तेषामिहानुपलम्भात् ग्रन्थान्तरमपि भामहेन कृतमासीदिति मन्तव्यं भवति
 
-
-
 वररुचिकृतप्राकृतसूत्राणां काऽपि टीका भामहकृतत्वेन प्रथते। किमयमेव स भामह इति विमर्शनीयम्। बाधकाभावाद्वा स एवेति निश्चेतव्यम्।
 
  'प्रत्यक्षं कल्पनापोढं' इति दिङ्नागोक्तलक्षणस्यात्राभिधानात् क्रिस्तोः पश्चात्पञ्चशत्यां स्थितस्य तस्य बौद्धतार्किकपरिबृढस्यानन्तरं भामह आसीदित्यनुमीयते। इदं दिङ्नागलक्षणं 'अभ्रान्त' पदप्रक्षेपेण धर्मकीर्तिना परिष्कृतम्। तस्यात्राप्रदर्शनात् यदि धर्मकीर्तेः प्राक्तनो भामहः, तर्हि ५००-६०० मध्येऽस्य स्थितिरिति युक्तं कल्पयितुम्।
@@ -1928,8 +1668,6 @@ of Bhamaha, this scholar says: 'lt appears to me that the words of Bhamaha **न
  तर्कव्याकरणादीनि यानि विविधानि शास्त्राणि या च साहित्यविद्या तत्र सर्वत्र ये कृतपरिश्रमाः तेषां तत्र मिथो न्यूनाधिकत्वकल्पनाया नैव प्रसक्तिः। तथाऽपि समीपकालादारभ्य साहित्यविद्यायां अनादरः क्रियमाण आसीत्। तथा शास्त्रेष्वपि यावान् नवीनन्यायव्याकरणयोः संरम्भः न तावान् मीमांसायाम्। तत्रापि पूर्वमीमांसायामात्यन्तिकी उपेक्षा अवालम्ब्यत। एवं साहित्यपूर्वमीमांसयोरनादरस्य इदं फलं यत् पाण्डित्यं क्रमेण ह्रासमुपेयाय। प्राञ्चोये प्रसिद्धाः प्रौढग्रन्थकारास्ते सर्वे यथा तेषु तेषु शास्त्रेषु तथा मीमांसायामपि परिपूर्णपाण्डित्या इति तत्तद्ग्रन्थदर्शिनां नाविदितम्। साहित्यमीमांसयोर्नास्ति सम्बन्ध इति न विद्वांसो मन्येरन्। काव्यमीमांसयोः सम्बन्धमधिकृत्य उद्यानपत्रिकायां यद्वयं लिखितवन्तः स्मः तत्सहृदयानां कटाक्षमर्हति[^33]। वाक्यरूपो हि सर्वो विद्याप्रपञ्चः। तत्र वाक्यशास्त्रस्य असम्बन्धं ब्रुवाणः कथमभिज्ञःस्यात्। ध्वन्यालोकलोचनादिषु अमीमांसकस्य तलस्पर्शित्वं दुर्लभम्। असम्पन्नमीमांसापरिचयानां बहुषु स्थलेषु स्वालित्यमपरिहार्यमित्यत्र उदाहरणतया, अध्यापनावसरे काव्यप्रकाशे उपमाप्रकरणे वृत्तिग्रन्थस्य व्याख्यानकारैरुक्तेऽर्थे अनुपपत्तिंता-
 
 [^33]: "Book II. Nos 2-11."
-
-
 
 त्त्विकार्थं च उपन्यस्यन्तो वयं विद्यार्थिनां धारणसौकर्याय याः पंक्तीरलेखयाम ता इहान्ते योजयामः।
 
@@ -1952,16 +1690,12 @@ of Bhamaha, this scholar says: 'lt appears to me that the words of Bhamaha **न
 
 पदावगतिहेतुत्वात्पदं व्याकरणम्। वाक्यसमन्वयावसायहेतुत्वाद्वाक्यं मीमांसा। प्रमाणप्रतिपत्तिकारित्वात् प्रमाणं तर्कः। एतेषु पदवाक्यप्रमाणशास्त्रेषु चतुर्वर्गोपयोगिसर्वविद्याधिगमोपायभूतेषु त्रिषु प्रविभिद्यमानेषु (?) संक्रान्तानन्तरनिरू-
 
-
-
 पितस्वरूपप्रतिबिम्बं दशविधमभिधावृत्तं यः साहित्यादौ सकललोकव्यवहारदर्पणप्रख्ये सञ्चारयति स वाचि क्रमेण प्रसीदन्त्यां वागीश्वरो भवति। ... ...''
 
 अधनस्येव दातृत्वं क्लीबेस्येवास्त्रकौशलम्।  
 अज्ञस्येव प्रगल्भत्वमकवेः शास्त्रवेदनम्॥(I. 3)
 
 इति भामहेनैवोपपादितरीत्या काव्यमार्गस्यात्यन्तादरणीयतां पश्यद्भिः पदवाक्यप्रमाणेष्वन्यतमस्याप्यभावे अपरिपूर्णमेव पाण्डित्यमित्यवदधानैश्च सुधीभिर्यथा लोके पूर्ववत् अगाधवैदुष्यसम्पत्तौ प्रयत्नः क्रियेत तथा स देवदेवो दयतामिति सम्प्रार्थ्य तिष्ठामस्तावत्॥
-
-
 
 तन्त्रोद्यानम्  
 12. 2. 34.
@@ -1970,11 +1704,7 @@ D. T. T.
 
 ![](../books_images/U-IMG-1727620048Screenshot2024-09-29195500.png)
 
-
-
  \[अत्र 'पुरोवाचं' कामपि विलिख्य प्रदर्शितपरमादरेषु संस्कृतसाहित्यरसास्वादतत्परेषु सहृदयधुरीणेषु श्रीमत्सु M. कृष्णमाचार्येषु (M. A., M.L., Ph. D., M.R.A.S., Sub Judge, Devakotta) सर्वदा वयं कृतज्ञा भविष्यामः।\]
-
-
 
 श्रीः ॥  
 
@@ -1986,13 +1716,9 @@ D. T. T.
 
  अत्रेदं वाच्यम्। यदि यथेवादीनां तुल्यादिशब्दानां च विशेषतः सामान्यतश्च साधारणधर्मप्रतिपादकत्वेनैव श्रौतत्वार्थत्वाभ्यां विभागोपपत्तिः तर्हि 'यद्यपि उपमानविशेषणान्येते' इति शङ्कायाः 'शक्तिविशेषेण उभयत्र सम्बन्धो बोध्यते' इति समाधानस्य च कथमिह सङ्गतिः। न ह्येवंविधविभागोपपादनमन्तरा अन्यत्र तथाविधशङ्कासमाधानयोः उपयोगः सुवचः। यत्तु प्रदीपकारः 'उपमानोपमेयभावरूपसम्बन्धस्य श्रौतत्वार्थत्वाभ्यां विशेषः' इति केषां चिन्मतमुपन्यस्य निरस्यति ; तद्यकमेव। न हि उपमानोपमेयभावरूपसम्बन्धे इवादिशब्दानां शक्तिर्लोके॥ काव्यदर्पणकारस्तु, इवादयः नियमेन उपमानस्य सादृश्यप्रतियोगित्वं बोधयन्ति। तुल्या-
 
-
-
 दिशब्दास्तु क्वचित्प्रतियोगित्वं क्वचिदनुयोगित्वमिति न नियमेन प्रतियोगित्वबोधकाः। तदिह नियमेन सादृश्यप्रतियोगित्वबोधकेषु इवादिषु सत्सु श्रौती उपमा। अतथाविधेषु तुल्यादिषु आर्थी ; इति प्राचां मतत्वेन प्रतिपादयति। अत्रापि प्रकाशस्थशङ्काग्रन्थासङ्गतिरेव।अलङ्कारकौस्तुभकारप्रभृतयस्तु इवादिशब्दार्थे उपमानत्वं उपमेयत्वं च कथंचिदन्तर्भाव्य तदुभयाभिधायकत्वेन उपमायाः श्रौतीत्वं तुल्यादिशब्दार्थे अन्यतरमात्रान्तर्भावेन आर्थीत्वं च उपपादयन्ति। अत्रापि इवशब्दस्यार्थान्तराङ्गीकारगौरवं महत्।
 
  तस्मादत्रप्रकाशग्रन्थस्य एवमर्थो वाच्यः। 'उपमानोपमेययोः समानेन धर्मेण सम्बन्ध उपमा' इत्युपमालक्षणमुक्तम्। यदि यथेवादिशब्दस्थले श्रौत्युपमा इष्यते तर्हि उभयत्र समानधर्मसम्बन्धः शक्त्या प्रतिपाद्यत इति वक्तव्यम्। न चैतदुपपद्यते, यतः यस्माच्छब्दात् यथेवादयः प्रयुज्यन्ते तत्सम्बन्धमेव समानधर्मस्य पदश्रुतिवत् शीघ्रं ते प्रत्याययन्ति। मुखाद्यन्यसम्बन्धं तु समभिव्याहाररूपाद्वाक्यादिति शङ्काग्रन्थाभिप्रायः। तदभ्युपेत्यैव समाधानमुच्यते। साधारणधर्मसम्बन्धस्य यच्चन्द्रादिप्रतियागिकत्व यच्च मुखाद्यनुयागिकत्वं तदुभयमपि शब्देन प्रतिपादनीयमिति न वयं ब्रूमः। किं तु तस्यान्यत एव प्रतिपत्तिमभ्युपेत्य साधारणधर्मसम्बन्धमात्रस्य शक्त्या प्राधान्येन प्रतिपादने श्रौत्युपमेति ब्रूमः। अस्ति हि इवशब्दस्य शक्तिः समानधर्मसम्बन्धे। यथा षष्ठ्याः सम्बन्धसामान्ये शक्तिः तद्वत्। एवं उपमालक्षणे विशेष्यभूतस्य समानधर्मसम्बन्धस्य यथा इवादिशब्दप्रयोगे श्रुत्या प्रतिपत्तिः न तथा तुल्यादिशब्दप्रयोगे। तेषां सादृश्यं न्यक्कृत्य तदाश्रयधर्मिप्रतिपादकत्वात्। यथा मीमांसकाः कर्मत्वकरणत्वादेः शक्त्या बोधकानां द्वितीयातृतीयादीनां श्रुतित्वमभ्युपयन्ति ; 'प्रोक्षिताभ्यां ' इति कर्मकृदादौ कर्मत्वाश्रयधर्मिप्रतिपादकत्वेन विशेषणतया कर्मत्वप्रतिपत्तावपि श्रुतित्वं नाङ्गीकुर्वन्ति, तद्वदिह द्रष्टव्यम्। एवं च 'सादृश्यस्य विशेषणतया प्रतिपादने श्रौती ; अन्योपसर्जनतया प्रतिपादने आर्थीति यद्विद्याधर-विद्यानाथप्रभृतयः सर्वे अर्वाञ्चः प्रतिपादयन्ति तत्रैव प्रकाशोक्तस्यार्थस्य
-
-
 
 पर्यवसानमिति प्रदीपकारादिकृतं निर्वहणं न युज्यते।
 
@@ -2001,8 +1727,6 @@ D. T. T.
  उपमानविशेषणानीति। उपमानान्वितार्थबोधकानीत्यर्थः। शब्दशक्तिमहिम्नेति। स्वकीयाभिधाव्यापार महिम्नेत्यर्थः। श्रुत्यैव श्रवणमात्रेण। षष्ठीवदिति। यथा षष्ठीविभक्तिः द्वितीयातृतीयादिविभक्तिवत् कारकानभिधायिन्यपि सम्बन्धमात्रमभिधाय श्रुतिर्भवति 'सप्तदश वैश्यस्य' इत्यादौ तद्वदिवादयोऽपि समानधर्मसम्बन्धं सम्बन्धत्वेन रूपेण प्रतिपादयन्तः श्रुतयो भवन्ति। षष्ठीतरविभक्तेः एवं सम्बन्धवाचित्वाभावात् नात्र दृष्टान्तत्वं घटत इति तदनादरः। उपमेय एवेति। तुल्यशब्दस्य धर्मिवाचकत्वे स्थिते मुखसामानाधिकरण्यादिह उपमेयमात्रवाचित्वम्। तत्तुल्यमस्येत्यत्र उपमानसामानाधिकरण्यात् तन्मात्रवाचित्वम्। 'इदं च तच्चे' त्यत्र उभयसामानाधिकरण्यात् उभयवाचित्वम्। तथा च तत्तत्सामानाधिकरण्यानुरोधेन वाच्यधर्मिविशेषभेदेऽपि सर्वत्र धर्मिवाचित्वं स्थितम्। एवं च सादृश्यस्य श्रुत्या प्रतिपत्त्यभावात् सोमविशिष्टयागविधौ सोमस्येव सादृश्यवत्प्रतीतौसादृश्यस्यार्थिकत्वमिति पर्यवसितम्।
 
  इदं चात्र बोध्यम् — तत्तुल्यमस्येत्यत्र चन्द्रस्य तुल्यं मुखं इति केचिद्व्याचक्षते। तन्न युक्तम्। अस्येति इदंशब्देन प्रकृतोपमेयस्यैव, तच्छब्देन अप्रकृतोपमानस्यैव च प्रतिपत्तिस्वारस्यात्। अन्यथा षष्ठ्या उपमानत्वस्य तुल्यपदसामानाधिकरण्येन उयमेयत्वस्य च प्रतीतेः 'उपमान एव विश्रान्ति'रिति प्रकाशग्रन्थविरोधाच्च। न च उपमानमात्रे पर्यवसानस्याभिमतत्वे तेन तुल्यं मुखं इतिवत् तत्तुल्यमनेनेति तृतीयाया एव पर्याप्तत्वेकिमिति षष्ठीपर्यन्तानुधावनमिति शंक्यम्। प्रकृतप्राधान्यप्रतिपत्त्यर्थत्वात् षष्ठ्याः। 'तेन तुल्यं' इत्यत्र हि न परं लक्षणया प्रतियोगित्वबोधः, अपि तु अप्रकृतत्वात्मकाप्राधान्यप्रतीतिरपीति।
-
-
 
 ![](../books_images/U-IMG-1727675318Screenshot2024-09-30110944.png)
 
@@ -2031,8 +1755,6 @@ D. T. T.
 
 उद्यानपत्रिका- अनुबन्धः।
 
-
-
 क्षण्यमिति। न केवलमेतावत् परगतं प्रयोजनं काव्यकरणस्य। किन्तु कवेः कीर्तिञ्च तत् करोति। निषेवणमिति पाठे सहृदयकर्तृको रसास्वादपरिचयः कविकर्तृकः काव्यनिर्माणयत्नश्च तन्त्रेणोपात्त इति वेदितव्यम् २
 
  ननु विविधानां शास्त्राणां परिज्ञानात् सर्वमिदं सत्स्यति। न सेत्स्यति। कस्मात् \। यस्मात्
@@ -2052,8 +1774,6 @@ D. T. T.
  एवं तावत् प्रयोजनविशेषाच्छास्त्रेभ्यः काव्यमतिरिच्यत। रणविशेषादपि तत्तथा वेदितव्यम्। तथाहि—
 
 उद्यानपत्रिका-
-
-
 
 गुरूपदशादध्यतुशास्त्र जडधियोऽप्यलम्।  
 काव्यं तु जायतेजातु कस्यचित् प्रतिभावतः॥५॥
@@ -2080,8 +1800,6 @@ D. T. T.
 
  यस्य कवेः कान्तं काव्यमयं वपुरिह देदीप्यते तस्याविनश्वरीकीर्ति-अनुबन्धः।
 
-
-
 र्भवति। यावन्तं च कालमस्य कीर्तिरविनश्वरी सती द्यावाभूमी व्याप्नोति तावन्तं कालमयं सहृदयहृदयास्वाद्यब्रह्मानन्दसदृशरसामृतकुल्यायमानसत्काव्यनिर्माणसुकृतशाली कविर्विबुधानां पदं स्वर्गमध्यास्ते। तत् स्वर्गोपभोगस्थेम्नो हेतुः काव्यमयं वपुर्नानादरणीयमिति। किलेति इममर्थमितिहाससिद्धमावेदयति। अस्ति चात्रेतिहासः। इन्द्रद्युम्नोहि नाम राजर्षिः भूमावस्य कीर्तिरनंशदिति मत्वा देवैः स्वर्गान्निपातित इह मार्कण्डेयमृषिं ततोऽपि चिरजाततरं प्रावारकर्णनामानमुलूकं नाडीजङ्घाभिधानं बकं चाभिगम्य तैरप्रत्यभिज्ञातोऽन्तेऽकूपाराख्यं कूर्ममुपसृत्य तेन प्रत्यभिज्ञात उदश्रुणा स्तुतचरितश्च सन् तत्क्षणोपस्थितेन दिव्येन रथेन पुनःस्वर्गमगादितीमां कथां कथयित्वा महाभारते वनपर्वणि श्लोका अप्युदाह्रियन्ते येषामयमाद्यः—
 
 दिवं स्पृशति भूमिं च शब्दः पुण्यस्य कर्मणः।  
@@ -2100,8 +1818,6 @@ D. T. T.
 लोको युक्तिः कलाश्चेति मन्तव्या काव्यवैखरी॥९॥
 
  शब्दोनामाख्यातादिः साधुशब्दस्वरूपमिति यावत्। छन्दः वृत्तरत्नाकराद्युक्तलक्षणं अभिधानं शब्दस्यार्थप्रतिपादनव्यापारः शक्तिलक्षणादिस्वरूपः अर्थः अस्य शब्दस्यायमेवार्थ इति अयमर्थोऽस्यैव शब्दस्य
-
-
 
 वाच्य इति च विवेकः। महाभारतरामायणादिषु प्रतिपाद्याः कथाः, लोकः स्त्रीपुरुषादिस्वभावविशेषावस्थाविशेषादि युक्तिः, न्यायमीमांसादिरूपाणि दर्शनानि, कला गीतवाद्यादयः इत्येवमेतदष्टकरूपा, काव्यवैखरी मन्तव्या।
 
@@ -2128,8 +1844,6 @@ D. T. T.
 
  लोके धार्मिकमपेक्ष्य अधार्मिकस्य नीरोगमपेक्ष्य रुग्णस्य राजसम्मा
 
-
-
 नितमपेक्ष्य दण्डितस्य च यदन्तरं तदन्तरं कविलोकेकविमपेक्ष्य अकवेः। कुकवेः पुनर्जीवन्तमपेक्ष्य मृतस्य यावदन्तरं तावदन्तरम्। अधर्माय अधर्मकृता या लोकेऽधार्मिकस्य स्थितिः तत्तुल्यस्थितय इत्येवं नेयम्। यद्वा अकवित्वमधर्माय व्यक्तवाचां हि वाचः सृष्टिः परमपुरुषं स्तोप्यन्तीति यथोचितमाह्लादनेन लोकस्योपकरिष्यन्तीति च। तत्र यदि सत्यामपि शक्तावलसमनसस्सन्तोऽकवयो भवन्ति तद्दिव्याज्ञाव्यतिक्रमादधर्मायभवति। व्याधये वा। सरसवागमृतोद्गारतोषितचेतसो हि राजानो महाकवीन् सुबहु सम्मानयन्ति। तच्चाकवयः पश्यन्तो वयमपि कथन्न कवयोऽभूमेत्याधिं भजन्ते। आधिश्च क्रमादुपचितो व्याधये भवतीति। दण्डनाय वा ।यो हि शक्तो न कवित्वेप्रवर्तते स राज्ञो दण्ड्यः। यद्यपि न तथा दण्डः कदाचित् कृतः श्रूयते तथाऽपि स दण्डार्हएव। अनधीयानन्यायात्। अथ वा यत् कवीनां गोष्ठ्यामकवेःप्रवेशो निषिध्यते तदस्य दण्डनं भवति। न हि दापनबन्धनाद्येव दण्डनम्। धिक्कारस्यापि दण्डत्वादिति। यदेतदधर्मादिरूपमनिष्टं ततोऽपि गरीयसो मरणतुल्यस्यानिष्टस्य हेतुः कुकवित्वमिति। एवंवा। प्राञ्चो हि कवयः भगवन्तं स्तुत्वा पापमपानुदन् व्याधिञ्चाशमयन्निति श्रूयते। तथा राजानमुपश्लोकयन्तो दण्डान्मुक्ता इति। अकवीनां सतामेवं कर्तुमशक्यमिति कृत्वा अधर्मायेत्येवमाद्युच्यते। के पुनः कुकवयः। तत्राहुः—
 
 गणयन्ति नापशब्दं न वृत्तभङ्गं क्षयं न वाऽर्थस्य ।  
@@ -2138,8 +1852,6 @@ D. T. T.
 अपशब्दः निन्दाशब्दः संस्कारच्युतश्च। वृत्तं शीलं छन्दश्च। अर्थो वित्तं काव्यार्थश्च। कुकविना हि दुर्घटितैः शब्दैर्व्याविद्धरूपो रमणीयोऽप्यर्थो विनश्यतीव। तदुक्तं ‘क्षयं न वाऽर्थस्य' इति॥१२॥
 
  तदेवमुक्तं काव्यस्य प्रयोजनं हेतुश्च। अथ साक्षाद्विषयं विविच्य दर्शयति—
-
-
 
 रूपकादिरलङ्कारस्तस्यान्यैर्बहुधोदितः।  
 न कान्तमपि निर्भूषं विभाति वनितामुखम्॥१३॥
@@ -2167,8 +1879,6 @@ D. T. T.
 
   ननु शरीरं तावत् प्रथमं काव्यस्याभिधीयतां यस्य भवता द्विविधोऽलङ्कार इष्यते। उच्यते—
 
-
-
 शब्दार्थौ सहितौ काव्यम्
 
  न शब्द एव केवलः काव्यम्। नाप्यर्थ एव। किन्तर्हि। उभौ शब्दार्थौ सहितौ काव्यम्। यथाह — शब्दार्थौ काव्यम्। वाचको वाच्यं चेति द्वौ संमिलितौ काव्यम्। द्वावेकमिति विचित्रैवोक्तिः। तेन यत्केषांचिन्मतं कविकौशलकल्पितकमनीयतातिशयः शब्द एव केवलं काव्यमिति केषांचित् वाच्यमेव रचनावैचित्र्यचमत्कारकारि काव्यमिति पक्षद्वयमपि निरस्तं भवति। तस्माद् द्वयोरपि प्रतितिलमिव तैलं तद्विदाह्लादकारित्वं वर्तते। न पुनरेकस्मिन् इति।
@@ -2189,8 +1899,6 @@ D. T. T.
 कलाशास्त्राश्रयं चेति चतुर्धा भिद्यते पुनः॥१७॥
 
 एतदिति वर्तते।
-
-
 
  अत्र प्रतिहारेन्दुराजीये शङ्कासमाधाने —तदेवं गुणसंस्कृतशब्दार्थशरीरत्वात् सरसमेव काव्यम्। यद्येवं गुणशून्यत्वान्नीरसे व्याकरणादौ भरतादौ च काव्यव्यपदेशो न प्राप्तः। ततश्च वृत्तदेवादिचरित .... .... इति भामहोदितं विरुध्यते। अत्र हि कलाश्रयशब्देन भरताद्यभिहितम्। शास्त्राश्रयशब्देन च व्याकरणादि। अतो वक्तव्यमेतत् कथं तत्र काव्यव्यपदेश इति। उच्यते। मुख्यया तावद्वृत्त्यागुणसंस्कृतशब्दार्थशरीरमेव काव्यम्। गुणरहितशब्दार्थशरीरेतु वाक्यमात्रे काव्यशब्दस्य काव्यसादृश्यादुपचारात् प्रयोगो भविष्यति— इति॥१७॥
 
@@ -2215,9 +1923,6 @@ D. T. T.
 
 अनुबन्धः।  
 
-
-
-
 वाक्। तत्र महान्ति कवीनां वाङ्मयानि। तेषां महतामपि मध्ये सर्गबन्धात्मकं काव्यं महत्। न चात्र सन्देग्धव्यम्। महच्च महदेव \। यद्वा यत् महतां च वाल्मीकिकालिदासप्रभृतीनां महाकवीनां संबन्धि च। यत्रैव तादृशा महाकवयः प्रावर्तन्तेत्यर्थः। महच्च स्वरूपेण काव्यान्तरापेक्षया महच्चेति द्रष्टव्यम्। अथ लक्षणमुच्यते। अग्राम्यशब्दं शब्ददोषवर्जितम्। यद्वा औचित्यशालि \। अर्थ्यंअर्थादनपेतम्। अपार्थद्यर्थदोषवर्जितम्। न च दोषपरिहारमात्रेण काव्यं भवति। किन्तु सालङ्कारम्।अलङ्कारो वक्ष्यमाणलक्षणः। न चादोषमपि सालङ्कारमपि नीचनायकं काव्यं शोभते। किन्तु सदाश्रयं सत्पुरुषविषयम्। शिशुपालवधवत् मन्त्रणेन दूतप्रेषणेन प्रयाणेन युद्धेन नायकजयेन च युक्तम्। दशरूपाद्युक्तलक्षणैः मुखप्रतिमुखादिभिःपञ्चभिः सन्धिभिश्च युक्तम्। नातिव्याख्येयम्। अतिव्याख्येयत्वं हि शास्त्रग्रन्थवदरुचये स्यात्। ऋद्धिमत् ऋतुसन्ध्यारात्रिचन्द्रोदयादीनां विवाहसम्भोगपुष्पावचयजलक्रीडारतिपुत्रजननादीनां च वर्णनैः प्रचुरम् \।
 'धर्मार्थकाममोक्षेषु वैचक्षण्यं कलासुच' इत्युक्तरीत्या चतुर्वर्गप्रतिपादकत्वेऽपि भूम्रा हितोपदेशकारि। अर्थो हितम्। युक्तं लोकस्वभावेन न तु लोकातिक्रान्तरूपेण। यथाह — लोकातीत इवात्यर्थमध्यारोप्य विवक्षितः। योऽर्थस्तेनातितुष्यन्ति विदग्धानेतरे जना इति। सकलैः रसैश्च युक्तम्। नत्वेकेनैव रसेन। तैश्च कथंभूतैः। पृथक्। असंकीर्णवृत्तिभिरित्यर्थः। एकत्र यस्यकस्यचिदेकस्य प्राधान्यं इतरेषामङ्गत्वं इत्यविरोधेन मिथ उपकार्योपकारकभावेन विनिवेशितैः न तु पुनरेकत्रैव समप्राधान्येन द्वाभ्यां बहुभिर्वा निवेशितैरिति। यत् महतां चेत्याद्युक्तरूपं तन्महाकाव्यं सर्गबन्ध इत्यन्वयः॥१९, २०, २१ ॥
 
@@ -2225,8 +1930,6 @@ D. T. T.
 
 नायकं प्रागुपन्यस्य वंशवीर्यश्रुतादिभिः।  
 न तस्यैव वधं ब्रूयादन्योत्कर्षाभिधित्सया॥२२॥
-
-
 
 श्रुतं विद्या। आदिना शीलगुणाः॥२२॥
 
@@ -2254,8 +1957,6 @@ D. T. T.
 
 संस्कृताऽनाकुलश्रव्यशब्दार्थपदवृत्तिना।
 
-
-
 गद्येन युक्तोदात्तार्था सोच्छ्वासाऽऽख्यायिका मता॥२५॥
 
 पदवृत्तिः शक्तिलक्षणारूपा। यथासंभवमनाकुलाः श्रव्याः शब्दार्थपदवृत्तयो यस्मिन् तथाविधेन गद्येन अपादपदसन्तानेन युक्ता। शब्दस्य श्रव्यत्वं माधुर्यम्। अर्थस्य विड्वर्चः प्रभृतिवत् श्रुतिदुष्टत्वशून्यत्वम्। अनाकुलत्वं शब्दस्य झटिति प्रत्यायकत्वम् अर्थस्य तथा प्रतीयमानम्। प्रसाद इति यावत्। पदवृत्तेरनाकुलत्वं तु हिमापहामित्रधरादिपदवृत्तिवैलक्षण्यम्। उदात्तार्था उत्तमपुरुषचरितविषया। सोच्छ्वासा अवान्तरप्रकरणसमाप्तौ उच्छ्वाससंज्ञा यत्र भवति तादृशी। संस्कृता संकृतभाषानिबद्धा। अत्र 'प्रकृत' इत्यादिरपपाठः यदेतदनुसारी हेमचन्द्र आह — नायकाख्यातस्ववृत्ता भाव्यर्थशंसिचक्रादिः सोच्छ्वासा संस्कृता गद्ययुक्ताऽऽख्यायिकेति।
@@ -2274,8 +1975,6 @@ D. T. T.
 कन्याहरणसङ्ग्रामविप्रलम्भोदयान्विता॥२७॥
 
 यथा माघभारविप्रभृतयः श्रीलक्ष्म्यादि चिह्न कुर्वन्ति तथा कृतैः कैश्चिच्चिह्नैश्चिह्निता भवति। कन्याहरणादिवर्णनपरा च भवति। ननूभयमपीदं सर्गबन्धसाधारणम्। सत्यम्। किन्तु तत्र स्याद्वा न वा। अत्र तु स्यादेवेति। कथानैरित्यपपाठः। अङ्कनैरिति क्वचिदुपलब्धः पाठः॥२७॥
-
-
 
 अथ कथा—
 
@@ -2304,8 +2003,6 @@ D. T. T.
 युक्तं वक्रस्वभावोक्त्या
 
 तदनिबद्धं पुनः वक्रोक्त्या स्वभावोक्त्या च युक्तमेव भवति।'भिन्नं द्विधा स्वभावोक्तिर्वक्रोक्तिश्चेति वाङ्मयम्'। तद्वक्ष्यते। यदि पुनर्न वक्रोक्तिः स्यात् न वा स्वभावोक्तिः तन्न काव्यम्। वार्ता तु सा। यथा—
-
-
 
 भोजनं देहि राजेन्द्र घृतसूपसमन्तिम्।  
 गोरपत्यं बलीवर्दस्तृणान्यति मुखेन सः॥ इत्यादि।
@@ -2338,8 +2035,6 @@ D. T. T.
 
 गतमनुगतिर्यस्य स गतानुगतिकः। प्रथमं कश्चिद्भ्रान्त एवमाह। तदेव
 
-
-
 पश्चात्कालिका अप्यनुवदन्ति। न तु स्वयं विविञ्चन्ति। कस्मात्। यस्मादमेधसः। तदिह वस्तुतो नास्ति वैलक्षण्यम्॥३२॥
 
  आह—
@@ -2360,8 +2055,6 @@ D. T. T.
 भिन्नं गेयमिवेदं तु केवलं श्रुतिपेशलम्॥३४॥
 
 अपुष्टार्थं अगम्भीरार्थं अत एव प्रसन्नं कविप्रतिभाजनितरसोपस्काररहितं अवक्रोक्ति अलङ्कारशून्यं अत एव ऋजु पामरसाधारणवार्तातुल्यं एवं काव्यजीवितविकलमपि कोमलं ललितपदबन्धं इदं तु वैदर्भं विलक्षणं गेयमिव केवलं श्रवणमधुरम् न तु प्रीतिहेतुभूतविशिष्टशब्दार्थमय काव्य-
-
-
 
 व्यपदेशनिदानशोभाशालि। तथा च काव्यत्वमेव नास्तीति कुतस्तद्विशेषता। गेयंगीतिप्रधाना पदरचना॥३४॥
 
@@ -2387,8 +2080,6 @@ D. T. T.
 तथापि परुषत्वेन कोमलत्वेन चास्ति यः।  
 भेदस्तदनुसारेण विभागौऽत्र न दुष्यति॥७॥  
 इति चेत् सत्यमेवैतत् किं त्वेतदिह चिन्त्यताम्।
-
-
 
 नैकरूपं हि पारुष्यं सर्वत्र समवस्थितम्॥८॥  
 तथा कोमलताऽप्यस्ति नैकरूपा हि सर्वतः।  
@@ -2418,8 +2109,6 @@ D. T. T.
 
 अनुबन्धः।
 
-
-
 अनुप्रासादिमत्ता। अथ स्वभावोक्तिरलंकृतिर्न स्यात्। वक्राभिधेयाभावात्। नेत्युच्यते। स्वभावोक्तिरपीहोपलक्षिता ज्ञेया। भूयांसो हि वक्रोक्त्यलङ्काराः। एकधैव त स्वभावोक्तिर्वक्ष्यते। तस्माद्वक्रोक्त्यभिधानम्। न चात्र स्वभावोक्तिपरिसङ्ख्या गम्यते। बन्धकोमलत्वमात्रपरिसङ्ख्यानात्। यद्वा स्वभावोक्तिरपि वक्रोक्तिरेव। ननु विप्रतिषिद्धमिदमभिधीयते स्वभावोक्तिरपि वक्रोक्तिरेवेति। 'भिन्नं द्विधा स्वभावोक्तिर्वक्रोक्तिश्चेति वाङ्मयम्' इति हि स्थितम्। न। नास्ति विप्रतिषेधः। वार्तावैलक्षण्यं हि वक्रत्वं नाम। तद्यथा वार्तायामविद्यमानस्यानुप्रासादेर्घटनया शब्दस्य वक्रत्वं उपमादेर्निवेशेन चाभिधयस्य तथा वक्ष्यमाणन वस्तुनस्तदवस्थत्वेनाप्यभिधेयस्य वार्तावैलक्षण्याद्वक्रत्वं वेदितव्यम्। आह च कुन्तक निरस्यन् हेमचन्द्रः —अयमर्थः। कविप्रतिभया निर्विकल्पप्रत्यक्षकल्पया विषयीकृता वस्तुस्वभावा यत्रोपवर्ण्यन्ते सजातेर्विषयः। एवञ्च
 
 अलङ्कारकृतां येषां स्वभावोक्तिरलंकृतिः।  
@@ -2436,8 +2125,6 @@ D. T. T.
 रसानुगुणशब्दार्थचिन्तास्तिमितचेतसः।  
 क्षणं स्वरूपस्पर्शोत्था प्रज्ञैव प्रतिभा कवेः॥**
 
-
-
 सा हि चक्षुर्भगवतस्तृतीयमिति गीयते।  
 येन साक्षात्करोत्येष भावांस्त्रैकाल्यवर्तिनः॥  
 अस्य स्वभावस्योक्तिर्या साऽलङ्कारतया मता।  
@@ -2452,8 +2139,6 @@ D. T. T.
  तस्मात् स्थितं तावदेतत् यद् वार्तावैलक्षण्यात् स्वभावोक्तिरपि
 
 अनुबन्धः।
-
-
 
 वक्रोक्तिप्रभेद एवेति। कथं तर्हि भिन्नं द्विधेति। अत्रैव च युक्तं वक्रस्वभावोक्त्येति। न हि सामान्यविशेषयोर्विभागः। अन्यथा घटः पृथिवी नदी आप इति द्रव्यं विभज्येत। न चैवमस्ति। उच्यते। द्वौ वक्रोक्तिशब्दौ। एकस्तावदुभयमाचष्टे स्वभावोक्तिं च उपमादिकच्च। वार्तावैलक्षण्यरूपस्य वक्रतासामान्यस्योभयत्र भावात्। अपरः पुनः यः स्वभावोक्त्यपेक्षयाऽलङ्कारान्तरेषु विद्यमानः वक्रताविशेषस्तन्निमित्तीकृत्य केवलमलङ्कारान्तराण्याचष्टे न स्वभावोक्तिम्। अस्ति ह्येवमेकरूप एव शब्दः सामान्यस्य विशेषस्य चाभिधानेन द्वेधा भिद्यमानः। यथा मृगशब्दः। स हि चतुष्पात्सामान्यमभिदधाति हरिणं च। वादशब्दश्च। स हि कथासामान्यमाह वीतरागकथारूपं विशेषं च। तदुक्तं भगवता वेङ्कटनाथेन श्रीन्यायपरिशुद्धौ — सा द्विधा वीतरागकथा विजिगीषु कथा चेति। पूर्वा वाद इति सामान्यशब्देनैव विशेषतोऽपि निर्दिश्यते .... इति। तद्वत् प्रकृतेऽपि। सति चैवं विभागवचने विशेषवाची शब्दो ग्राह्यः। अन्यत्र सामान्यवाची। प्रकृते चैवमिति न कश्चिद्दोषः॥३६॥
 
@@ -2471,8 +2156,6 @@ D. T. T.
 
 उद्यानपत्रिका-
 
-
-
 शेष उन्नीयते। विश्वजितश्च फलम्। न चायं वाक्यस्य दोषः। सत्यम्। किन्तु सोऽर्थः शब्दन्यायोपारूढः। अस्ति ह्यंशब्दस्य न्यायः यदयं श्रुतः स्वार्थमभिदधानः यमर्थमन्तरा स्वार्थो नोपपद्यते तमप्याक्षिपतीति। अत एवोच्यते सामर्थ्यंशब्दैकदेश इति। तस्माद्युक्तं यदृद्देश्यविशेषः फलं च कल्प्यते। न हि स्रुवकरणकमवदानं श्रुतं द्रवेतरद्रव्यस्य युज्यते विश्वजितश्च फलमन्तरा श्रुतं विधेयत्वमिति सामर्थ्यसत्त्वात्। यत्र त्वेवं सामर्थ्यं नास्ति स शब्दन्यायानुपारूढोऽर्थः। तस्योन्नयनं दोषावहमिति। यदि न वचनं नापि न्यायः कथं तमर्थंबुद्धिमन्तोऽप्युन्नयन्ति। स्वाभिसन्धिना असत्येव तात्पर्यग्राहके स्वाभिप्रायमात्रेण कल्पयन्ति। तदपि कथञ्चित् महता क्लेशेन। नीयते युक्त इति पाठः कथञ्चिद्योज्यः। अनुक्त इति तु युक्ततरमिति तमेव पाठमचीक्लृपाम। वचनाद्विनेति हि वक्ष्यति॥३८॥
 
 इदमुदाह्रियते—
@@ -2481,8 +2164,6 @@ D. T. T.
 वेणुदाकेरिति च तां नयन्ति वचनाद्विना॥३९॥
 
 मायेव भद्रेति यथा यादृशं तादृशं नेयार्थमिति योजना \। एवं सर्वत्र। सैषा वाक्यरचनाऽसाध्वी। न हि का भद्रा कस्य सा मायेवेति किञ्चिदत्र प्रतीयते। तथासति शब्दत उपादानमन्तरेणैव वेणुदाकेर्भद्रा मायेवेति तां प्रकल्पनामुपपादयन्ति। वेणुदाकिःकस्यचित् प्रबन्धस्य नायकः। भद्रा नायिका। सा तस्य मायेवाभूत्। तथाऽमूमुहदिति। तत्र कथानायकस्योपादानं विना भद्रा मायेवेत्येतावन्मात्राभिधाने नार्थोबुध्यते। तत्र वेणुदाकेरित्ययमर्थ उन्नेतव्य इति नेयार्थमिदम्। तद्यथा खुरक्षुण्णनागासृग्लोहितादिति वक्तव्ये लोहितादित्येतावन्मात्राभिधाने नेयार्थमिति दण्डिनोक्तं तादृगिदं द्रष्टव्यम्। सोऽयमस्मदुपज्ञमर्थः। अस्मद्द्वितीयमीमांसागुरवः सर्वशास्त्रविदो महामहोपाध्यायश्रीकुप्पुस्वामिशास्त्रिपादास्तु वेणुःअनुबन्धः।
-
-
 
 सूर्यः दाकिश्चन्द्रः दकस्योदकस्यापत्यत्वात्।यस्य चन्द्र एव सूर्यः तापकरत्वात् स विरही वेणुदाकिः तस्य भद्रा प्रेयसी मायेव। यद्वा सूर्य एव दाकिः पद्मः यस्य स आकाशो वेणुदाकिः। तस्य गङ्गा मायेव। यद्वा वेणु दाकिर्भगवान् कृष्णः। तस्य स्वसा सुभद्रा मायेवेति व्याचक्षते।३९।
 
@@ -2494,8 +2175,6 @@ D. T. T.
 व्यवहितं विवक्षितादथात् पूर्वं प्रतीतेनार्थान्तरेणान्तरितम्। अस्योदाहरणं विजह्नुस्तस्य ताः शोकमिति। अत्र विजह्नुरिति जह्नुरित्यर्थे। कर्मनिर्देशात्। सोऽयमर्थों वाक्यप्रमाणकः। पदान्तरसमभिव्याहारसापेक्षप्रतीतिकत्वात्। सतः पूर्वन्तु विपूर्वस्य हरतेः क्रीडार्थत्वात्पदश्रुत्येव क्रीडाप्रत्ययो भवति। तेनेह वाच्यवाचकयोर्व्यवधानात् क्लिष्टत्वमिति। तथा च ये इह क्लिष्टावाचके ते एव अवाचकक्लिष्टे इति विपर्यासेनोदाहरन् मम्माटानुसारी हेमचन्द्रः क्लिष्टलक्षणमाह व्यवहितार्थप्रत्ययजनकत्वं क्लिष्टत्वमिति। अवाचकं चोदाजहार अत्र दधदित्यर्थे विदधदित्यवाचकमिति।
 
  एवं विवक्षितार्थवित्तेर्व्यंवधानेनापि सम्भवे क्लिष्टम्। यत्र तु तद्वित्तेर्विगम एव अनुदय एव तदन्यार्थम् ज्ञेयम्। वित्तिः प्रत्ययः। विद ज्ञाने। क्तिन्। तस्योदाहरणं क्रीडायां विकृतं च तदिति। तत् शोकहरणं च क्रीडायां विकृतं कृतमित्यर्थः। पूर्वं कर्मसमभिव्याहारात् व्यवहिताऽपि विवक्षितार्थप्रतीतिरासीत्। अत्र तु तथाविधस्य कस्यचन हेतोरभावेन प्रतीयमानविकारार्थत्वस्यबाधाभावात् विवक्षितः करणरूपोऽर्थोऽप्रतीत एवेति। रूढिप्रच्युतमन्यार्थमिति कृत्वा विदग्धहृदयाः शोकवह्निना राजकन्यकाः इत्युदाहरणं दत्वा तदुपपादयन् विद्यानाथ आह विदग्धहृदया इति विशेषणं दग्धहृदयस्यावाचकत्वादन्यार्थमिति। विद्यादन्यार्थं
-
-
 
 विगमे इत्युपलभ्यमानं पाठं कृत्वाऽपि विगमे विवक्षितार्थप्रतीतौ अन्यार्थमिति व्याख्येयम्। विगमोऽप्रतीतिरिति॥४०॥
 
@@ -2534,8 +2213,6 @@ D. T. T.
 
 थ
 
-
-
 मुत्कण्ठयाऽप्ययोग्य सम्भाषणमिति। उत्कण्ठा हि परिपोषं गता उन्मादान
 
 ... विशिष्यते। भाषते नायकः। तथा भवतु तेऽपि दूता भवन्तु। अत एव हि व्यासकालिदासप्रभृतयः सुमेधसस्तथाविधमुत्कण्ठाभाषितं बहु घटयन्ति न हि कवयोऽप्युन्मत्ताः येन तन्नाद्रियेत। सुमेधसस्तु ते सन्तो यदिदं घटयन्ति तत् काव्यरसावहत्वादेवेति॥४४॥
@@ -2557,8 +2234,6 @@ D. T. T.
 
  रत्नेश्वरसूरिरिदमेवं व्याचष्ट।असितर्तीति। ऋगतौ इति धात्वनुसारात् ऋतिर्वर्त्म असिता कृष्णा ऋतिर्यस्य सः कृष्णवर्त्मा वह्निः तस्य तुक् अपत्यम्। अद्रिच्छित् क्रौञ्चदारणत्वात्। स्वर्गे क्षियन्ति निवसन्ति ये देवाः तेषां पतिः सेनानीत्वात्। अद्विदृक् द्वादशलोचनत्वात्। एवं भूतः कार्तिकेयः। अमिद्भिः अस्निग्धैः रूक्षैः। शुभ्रदृग्दृष्टैधवलाक्षिविलोकितैः। सक्रोधं वीक्षणे तारकाभागस्योर्ध्वतया नीयमानत्वात्तथाभावो दृशाम्। वः युष्माकम् \। द्विपः शत्रून्। जेघ्नीयिषीष्ट अत्यर्थं पुनःपुनर्वा वध्यात्। हन्तेर्यङि घ्नीभावे आशीर्लिङि रूपम्। मिदि स्नेहने।न मिन्दतीति अमित्। तस्य तृतीयाबहुवचनम्। शुभ्रदृगिति पृथक् पदमित्यपि शक्यं
 
-
-
 वक्तुम् ।आश्रितेषु प्रसादसुभगदृष्टिरिति। तथापि द्विषोऽमिद्भिर्दृष्टैर्निहन्त्विति।
 
  असितर्तीन् पापकारिणः तोजति हिनस्तीति असितर्तितुक्। अद्रिच्छित् पर्वतभेदनत्वात्। अद्विदृक् सहस्राक्षत्वात्। स्वःक्षितां पतिरिन्द्र इत्यर्थोऽपि सुवचः॥४६॥
@@ -2577,8 +2252,6 @@ D. T. T.
 
 विट् वैश्यो जना या विष्ठा च। वर्चः तेजो विष्ठा च। विष्ठितः विशेषेण स्थितो विष्ठावांश्च। क्लिन्नं आर्द्रं शोणितादिक्लेदयुक्तं च। छिन्नं त्रुटितम्। मङ्गलसूत्रादिछेदोपस्थितिरितो भवति। अत एव हीदमश्लीलं परिहरन्तो वर्धनशब्देन छेदं बोधयन्ति नालवर्धनमिति। निघण्टुश्च तन्मूलः वर्धनं छेदनेऽपिचेति। वान्तमिति निर्गमितार्थे प्रयुक्तं पित्तोपहतस्य अजीर्णान्नस्य वा वान्तिमुपस्थापयद् दुष्यति। प्रवृत्तिः औदासीन्यप्रच्युतिः विरेकश्च। प्रचारोऽपीदृश इति मन्यामहे। सञ्चारपुरीषोत्सर्गयोर्बोधात्। धर्षणं परिभवनार्थंबलात्कारेण कृतं स्त्र्युपभोगं प्रत्वाययति। उद्गारो वान्तवत्। विसर्गोमोचनार्थः पर्दनपतीति जनय-
 
-
-
 ति। ह्रादः अव्यक्तशब्दवाची पदेनप्रत्यायकः।हद हृद इत्यादि पुन पाठं न बुध्यामहे। यन्तृता तल् अविवक्षितः। यन्ता यमयितृवाचकग्राम्यधर्मंबोधयतीति ग्रन्थकारो मन्यत इत्युत्पश्यामः। हिरण्यरेता अग्न्यर्थः धातुविशेषे धियं करोति। संबाधः सङ्घट्टो वराङ्गञ्चेति हेमचन्द्रः। पेलवः मृदुलवाची द्रमिडेषु मलोत्सर्गप्रत्ययकृत्। उपस्थित बुद्ध्यारूढस्य सन्निहितस्य वा वाचकः स्त्रीकटिभागमतिहेतुः। उपस्थमिति हि मध्यमुच्यते। यथा रथोपस्थ उपाविशदिति। अण्डजः पक्ष्यर्थकवृषणवृद्धिकारी।काटवं तिक्तता। अत्र काटेत्यंशः क्वचित् प्रेतवाहनमवगमयतीत्याहुः। एता गिरः श्रुतिदुष्टा मताः। श्रुत्या पदशक्तिमात्रेण जुगुप्सिताश्लीलार्थान्तरप्रत्ययहेतुतयादोषवत्त्वात्॥४९॥
 
  यत्र पुनरेवं पदं स्वशक्त्या नैतादृशमर्थान्तरमवगमयति किन्तु अर्थ एवाभिहितो जुगुप्सितार्थान्तरसाधारण्यात् तादृशार्थान्तरबुद्धिं जनयति तदर्थदुष्टम्। तदुच्यते—
@@ -2596,8 +2269,6 @@ D. T. T.
 तदाहुः कल्पनादुष्टं स शौर्याभरणो यथा॥२२॥
 
 यदित्यव्ययं सप्तम्यर्थे। यस्मिन् वाक्ये पदद्वयसन्धाननिमित्तकमनु-
-
-
 
 वितार्थविज्ञानं जायते तद्वाक्यं कल्पना दुष्टमाह। उदाह्रियते यथा स शौर्याभरणइति। शौर्यमाभरणं यस्य तथाभूतः। अत्र शौर्यपदं आभरणपदं वा स्वशक्त्या वा अर्थतो वा नानिष्टं प्रत्ययं करोति। किन्तु समासेन सन्धाने सति याम इत्यनेनांशेनानिष्टप्रतीतिर्जायत इति कल्पनया दुष्टमेतत्। यभ मैथुने॥१२॥
 
@@ -2631,8 +2302,6 @@ D. T. T.
 किञ्चिदाश्रयससौन्दर्याद्धत्ते शोभामसाध्वपि।  
 कान्ताविलोचनन्यस्तं मलीमसमिवाञ्जनम्॥५५॥
 
-
-
 तुकारो दोषत्वापवादार्थः। मलीमसं मलिनम्॥५५॥
 
  तत्र सन्निवेशविशेषाददोषत्वमुदाह्रियते—
@@ -2665,8 +2334,6 @@ D. T. T.
 एतद्ग्राह्यं सुरभि कुसुमं ग्राम्यमेतन्निधेयं  
 धत्ते शोभां विरचितमिदं स्थानस्तस्यैतदस्य।
 
-
-
 मालाकारो रचयति यथा साधु विज्ञाय मालां  
 योज्यं काव्येष्ववहितधिया तद्वदेवाभिधानम्॥१९॥
 
@@ -2682,10 +2349,6 @@ D. T. T.
 
 ![](../books_images/U-IMG-1727790940Screenshot2024-10-01192349.png)
 
-
-
-
-
 ॥श्रीः॥
 
 **अथ द्वितीयः परिच्छेदः॥**
@@ -2699,8 +2362,6 @@ D. T. T.
 समासवन्ति भूयांसि न पदानि प्रयुञ्जते॥१॥
 
  अन्य पुनराहुः— सत्य समासाभाव माधुर्यं भवति प्रसादश्च। किं तु क्वचित् समासोऽपि शोभामावहति। प्रसादश्च न हीयते। न हि सर्वत्र समासो दुष्ट इति निरूप्यते। तस्मादयमपि कश्चिदलङ्कारः। स तु माधुर्येण केवलंविकल्पितः। तेन माधुर्यमोजो वा प्रसादश्च काव्यबन्धेषु नियतौ अन्यश्च कश्चिदलङ्कारः। सोऽयं शोभाधायकः समासरूपो गुण ओज इत्युच्यते— इति। तदेतत् सोदाहरणमाह—
-
-
 
 केचिदोजोऽभिधित्सन्तः समस्यन्ति बहून्यपि।  
 यथा मन्दारकुसुमरेणुपिञ्जरितालका॥२॥
@@ -2728,8 +2389,6 @@ D. T. T.
 
 कर्णंतु शूरं पतितं पृथिव्यां  
 शराचितं शोणितदिग्धगात्रम्।
-
-
 
 यदृच्छया सूर्यमिवावनिं गतं  
 दिदृक्षवः सम्परिवार्य तस्थुः॥
@@ -2765,8 +2424,6 @@ D. T. T.
 
  बलो बलरामः। अत्र ग्राम्यानुप्राससमाख्यानात् पूर्वोनागरिकानुप्रास इति गम्यते।'अन्यत्तु मन्यन्ते' 'नीलालिकुल' इत्येवं पाठे नातीवौचित्यमिति ध्येयम्॥६॥
 
-
-
 अनुप्रासं शिक्षमाणान् कवीन् प्रत्याह—
 
 नानार्थवन्तोऽनुप्रासा न चाप्यसदृशाक्षराः।  
@@ -2793,8 +2450,6 @@ D. T. T.
 सन्दष्टकसमुद्गादेरत्रैवान्तर्गतिर्मता।  
 आदौ मध्यान्तयोर्वा स्यादिति पञ्चैव तद्यथा॥१०॥
 
-
-
 पादाभ्यासे सन्दष्टकादि सर्वमन्तर्भवति। आदौ मध्यान्तयोश्च यमकादिमध्यान्तयमकमिति द्वयोरेवाभिप्रेतत्वान्न त्रैविध्यमुक्तं भवतीति न पञ्चधात्वोक्तिविरोध इति। वस्तुतस्तु आदौ मध्ये अन्ते आदिमध्ययोः आद्यन्तयोश्चेत्यन्तमु
 
 ....स्य भेद इत्यन्यत्र विस्तरः। यथेति। क्रमेणोदाहरणानि प्रदर्श्यन्त इत्यर्थः॥१०॥
@@ -2820,8 +2475,6 @@ D. T. T.
 न ते धीर्धीर भोगेषु रमणीयेषु सङ्गता।  
 मुनीनपि हरन्त्येते रमणीयेषु सङ्गता॥१३॥
 
-
-
 हे धैर्यशालिन् तवधीः रमणीयेषु भोगेषु न सङ्गं गता। येषु नारी सङ्गता तादृशा एते भोगा मुनीनपि हरन्ति निष्ठायाः प्रच्यावयन्ति। मुनीनपि हरुन्त्येषारमणीति वा पाठः। मुनीनामपि धैर्यहरणक्षमा एषा रमणी येषु सङ्गता तादृशेषु भोगेषु तव धीर्न सङ्गिनीति तव धैर्यं श्लावनीयमिति भावः॥१३॥
 
  आवली—
@@ -2832,8 +2485,6 @@ D. T. T.
 प्रियामिमामुत्सुकयन्ति यन्ति च॥१४॥
 
 प्रोषितः कश्चित् काभी मेघोन्नतिं दृष्ट्वा कान्तां स्मरन् परिदेवनां करोति। तारकायामसिते अन्यत्र सिते चाक्षिणी यस्यास्ताम्। घनगर्जितं श्रुत्वा नूनं भीतभीता नभसि दिक्षु च दृशः प्रसारयतीत्यभिप्रायः। पयोधरौ चाधरश्च शोभना यस्याः। ‘उपरि घनंघनपटलं दूरे दयितः किमेतदापतितं' इति शोचन्ती नूनमश्रूणि मुञ्चति यानि तस्या अधरं पयोधरौ च दूषयन्ति। न चैवम्भावः तदीयपयोधराधरस्य युक्तमिति। हन्त हता मेघाएतामेवमवस्थान्तरमानयन्ति या पूर्वमत्यन्तं व्यलसदिति पूर्वदशां स्मरन्नाह सुसम्मदामिति। सर्वसम्पत्समृद्धतया शोभनप्रहर्षवतीम्। व्यक्तमदां यौवनोज्जृम्भणकाष्ठाकृतविविधहावभावशालिनीम्। ललामदां स्वकान्त्या भूषणान्यपि खण्डयन्तीम्। पुनरपि वर्तमानदशां चिन्तयन्नाह घनालकामिति। घना निबिडा अलका यस्यास्ताम्। पूर्वं तथाभूता सा सम्प्रति कण्ठाश्लेषप्रणयिनो मम दूरीभावात् चिन्तापराऽसकृद्दीर्घं निश्वसन्ती एकहस्तनिषण्णगण्डस्थला संस्कारहान्या परिधूसरान् लम्बालकान् मुहुर्मुखमावृण्वतोऽपसारयन्ती वर्तत इति। एवम्भूतामिमां प्रियाम्। भावनाप्रकर्षेण प्रत्यक्षमिव पश्यन्नाह इमामिति। नीलघनाः नीलवर्णाश्च निबिडाश्च। घनाघनाः वर्षुका मेघाः। उत्सुकयन्ति उत्सुकां विकृतचित्तां कुर्वन्ति। एवं चिरं ध्यात्वा उन्मत्त इव भवन् मैवं प्रियाया हिंसां कुरुतेति प्रार्थयिष्यमाणो मेघानुपसर्तुमैच्छत्। ते तु वाते
-
-
 
 नापह्रियमाणाः प्राचलन्। तदृष्ट्वाऽऽह यन्ति चेति। कथं यान्त्येव न मद्वार्ताश्रवणाय तिष्ठन्तीति॥१४॥
 
@@ -2857,8 +2508,6 @@ D. T. T.
 कृत्स्नं च सर्वपादेषु
 
 कृत्स्नंन त्वेकदेश एव। एवमित्यनुषज्ययमकं भवतीत्यर्थो बोध्यः। यथा श्रीमति
-
-
 
 यादवाभ्युदये—
 
@@ -2887,8 +2536,6 @@ D. T. T.
 
  असाधु यमकमुदाहरन्नाह—
 
-
-
 नानाधात्वर्थगम्भीरा यमकव्यपदेशिनी॥  
 प्रहेलिका सा ह्युदिता रामशर्माच्युतोत्तरे॥१९॥
 
@@ -2912,8 +2559,6 @@ D. T. T.
 
 समस्तवस्तुविषयमेकदेशविवर्ति च॥  
 द्विधा रूपकमुद्दिष्टमेतत्तच्चोच्यते यथा॥२२॥
-
-
 
 इति द्विधा एतद्रूपकं अलङ्कारविद्भिरुक्तम्। तद्द्वयमपि उदाह्रियते। यथेति
 
@@ -2940,8 +2585,6 @@ D. T. T.
 एकस्यैव त्र्यवस्थत्वादिति तद्भिद्यते त्रिधा॥२५॥
 
 दीपकशब्दार्थो हि त्रिष्वप्यन्वितः। तेनायमेक एवालङ्कारो दीपकमिति। एतदलङ्कारनिबन्धनपदनिवेशनं तु आदौ मध्ये अन्ते वा भवतीति तिस्रोऽवस्था अस्या-
-
-
 
 लङ्कारस्य भवन्ति। तेनावान्तरभेद एवात्र युक्तो न जातिभेद इति। एकस्यैव एकरूपस्यैव इति आदिमध्यान्तविषयमित्युक्तप्रकारेण त्र्यवस्थत्वात् त्रिस्थानत्वात् तत् दीपकं त्रिधा भिद्यत इत्यन्वयः। इति उक्तप्रकारेण भिद्यत इति वा। आदिमध्यान्ताः विषयाः स्थानानि यस्य तदादिमध्यान्तविषयम्॥२५॥
 
@@ -2971,8 +2614,6 @@ D. T. T.
 
 इति दण्डलक्षितमालादीपकमपि भवतीति ज्ञेयम्॥२७॥
 
-
-
  मध्यदीपकम्—
 
 मालिनीरंशुकभृतः स्त्रियोऽलङ्कुरुते मधुः।  
@@ -2993,8 +2634,6 @@ D. T. T.
 उपमेयस्य यत् साम्यं गुणलेशेन सोपमा॥३०॥
 
 देशकालक्रियाजातिस्वरूपस्वभावैर्भिन्नेन केनचिद्वस्तुना अन्यस्य कस्यचिद्वस्तुनः केनचित् गुणेन यत्साम्यं भवति सोपमा। 'सादृश्यमुपमा भेदे'
-
-
 
 इत्युक्तं भवति। न हि चन्द्र इव चन्द्र इत्युपमा भवति। काव्याधिकाराच्चमत्कारित्वलाभेन घट इव पटो द्रव्यमिति नोपमा॥३०॥
 
@@ -3031,8 +2670,6 @@ D. T. T.
 
  अथायमन्य उपमाभेदः यत्र सादृश्यवाचकशब्दश्च न श्रयते सादृश-
 
-
-
  च प्रतीयते—
 
 समानवस्तुन्यासेन प्रतिवस्तूपमोच्यते।  
@@ -3053,8 +2690,6 @@ D. T. T.
 स्वादुपाकफलानम्राः कियन्तो वाऽध्वशाखिनः॥३६॥
 
 साधूनां सतां साधारण्यः स्वामिवत् यथेच्छं भोग्याः सम्पदो येषाम्। स्वादुपाकैः फलैः समन्तान्नम्राः। अत्र मिथो भिन्नावपि साधुसाधारणश्रीत्वस्वादुपाकफलानम्रत्वरूपौ धर्मौबिम्बप्रतिबिम्बभावेनाभिन्नाविव भवन्तौ स्वाश्रयभूतानां गुणिनामध्वशाखिनां च सादृश्यमापादयतः। एवं ग्रन्थकाराभिप्रायः। अर्वाञ्चस्तु साधुसाधारणश्रियो गुणिन उपमेयम्। स्वादुपाकफलानम्रा अध्वशाखिन उपमानम्। कियन्त इत्यनेनोक्तं विरलत्वं सामान्यधर्मः। तस्योपमाने उपमेये च पृथक्पृथगुपादानात् प्रतिवस्तूपमा। वस्तुनि वस्तुनि साहश्यप्रयोजकधर्मकथनादिति मन्यन्ते॥३६॥
-
-
 
  नन्वन्यत्र प्रकारान्तरेणाप्युपमा विभज्यते। तथा कस्मादिह न क्रियते।
 
@@ -3098,8 +2733,6 @@ D. T. T.
 
 उपमानं यदुप्रवीरः। तत्र वासः शङ्खः चाप इति त्रीण्युपात्तानि। उपमेयं मेघः। तत्र सेन्द्रायुध इति कार्मुकमेकं केवलमुपात्तम्। न वासरश्शङ्खस्था-
 
-
-
 नापन्नं किञ्चित्। तस्माद्धीनमिति। किलेत्यनादरे॥४२॥
 
  अनादरे हेतुमाह—
@@ -3128,8 +2761,6 @@ D. T. T.
 
 अत्रोपमेये शिखिनां मुखानि सविशेषणानि। नोपमाने गेहानि। न च कश्चिदुपमालक्ष्म्या ह्रासः। तन्न सर्वसारूप्यमादर्तव्यम्॥४६॥
 
-
-
  अथासम्भवः—
 
 निष्पेतुरास्यादिव तस्य दीप्ताः  
@@ -3157,8 +2788,6 @@ D. T. T.
 
 यदि ह्यर्काद्वारिधाराः पतन्ति ते च जाज्वल्यन्ते इतीममर्थं वास्तवं कृत्वा सादृश्यमिह वक्तुमिष्येत ततः स्यादुपालम्भः। न चेवमिष्यते। किन्तर्हि। यद्यर्काद्वारिधाराः पतेयुः ते च जाज्वल्यमाना भवयुः तादृशाः शरा इति। एवमसदर्थकल्पनया को लाभः। श्रूयताम्। निष्पततां शराणां तीव्रपातित्वं सानुबन्ध-
 
-
-
 पातित्वं असङ्ख्येयत्वं च प्रतिपादनीयम्। सोऽयमतिशय इह उपमार्थः। न ह्यं न सम्भवतीति वक्तुं शक्यते। तदेवं यस्यासम्भवो न सोऽर्थो विवक्षितः। यस्तु विवक्षितः सोऽर्थो नासम्भवति निर्निमित्त उपालम्भ इत्युक्तं भवति। शब्दार्थस्तु यस्योपमानविशेषस्य अतिशयवान् उपमेयविशेषः अर्थः तात्पर्यविषयः स उपमानविशेषः कथं सम्भवशून्य इति मन्यत इति।
 
  न केवलमेवमुपमायांकिन्तु अलङ्कारान्तरेऽपि अतिशयविवक्षया अस्यसम्भवतोऽर्थस्य निबन्धनम्। क्व। उच्यते—
@@ -3185,8 +2814,6 @@ D. T. T.
 
 अविगाह्योऽसि नारीणामनन्यमनसामपि।  
 विषमोपलभिन्नोर्मिरापगेवोत्तितीर्षतः॥५३॥
-
-
 
 अविगाह्य इति। सर्वशक्त्यापि प्रयतमानाभिरनुत्पाद्यविकार इत्यर्थः। अत्रोपमेये अविगाह्योऽसीत्यनेनाक्षिप्तो युष्मदर्थः पुमान्। उपमाने आपगा स्त्रीति लिङ्गभेदः। नारीणां उत्तितीर्षत इति तु लिङ्गभेदो वचनभेदश्च॥५३॥
 
@@ -3218,8 +2845,6 @@ D. T. T.
 
 पाणिकमलाद्युपमानं काममस्ति। न तत्र लिङ्गभेददोष उच्यते।कुत्र तर्हि यत्र स्त्रीपुंसयोरुपमानोपमेयभावः। पाण्यधरौ हि पुमांसौ। कमलविम्बफले तु क्लीबे इति न दोषः। ननु विद्रुमच्छेदभाःस्त्री। अधरः पुनः पुमान्। सत्यम् अत एव तत्र दोषोऽस्त्येव। कथं तर्हि तदङ्गीकारः। न कश्चिदङ्गीकरोति काममस्तीदमिति वदतः कमलबिम्बफलोपमानभावमात्रे तात्पर्यात्। यद्वा विद्रुमच्छेदभासा युक्तोऽधरश्च बिम्बफलेनोमीयत इति पुन्नपुंसकोपमानोपमेय भावोदाहरणद्वयमात्रं दर्शितम्। विद्रुमच्छेदभासीत्येव वा पठितव्यम् विद्रुमच्छदेवद्भासमानेन बिम्बफलेनेति वा योजना \। अधरो यथा पुंस
 
-
-
 विद्रुमच्छेदेनोपमीयते तद्वत् तत्समकान्तिना क्लीबेन बिम्बफलेनाप्युपमीयत इत्यभिप्रायः। अन्यैस्तु त्रयाणामपि लिङ्गानां परस्परमुपमानोपमेयभावो नेष्यते। पाणिकमलादिषु विद्यमानोऽपि स दोषः प्रौढप्रयोगपरम्पराप्रसिद्धतया न झटित्याविरस्ति। न तद्दृष्ट्वा स्वयमप्येवं लिङ्गभेदेन व्यवहर्तव्यम्। यथा चन्दनो जलमिव शीतल इति॥५७॥
 
  अथोपमानाधिक्यम्—
@@ -3245,8 +2870,6 @@ D. T. T.
 
 अनुबन्धः।
 
-
-
 कथमिति। सर्वांशसारूप्यात्मा न भवतीति। तस्माच्छशिसंसर्गांशसारूप्याभावेऽप्युपमेयस्य नास्ति दोष इति। ननु न ब्रूमः सर्वांशसारूप्यमुपमेति किन्तु यावत्यंशे सादृश्यमभिप्रेतं तावति तस्याभावो दोषमावहतीति तथाचाभिप्रेतस्य शशिसंसर्गसारूप्यस्योपमेये जलजावचनेनाप्रतीतेरुपमा दोषवतीति। नेत्युच्यते। न तस्मिन्नंशे सारूप्यमभिप्रेतम्। अन्यथा नूनमुपमेयेजलजोऽवक्ष्यत। न चोक्तः। तस्मादत्रमा जलजे बुद्धिर्भूदिति कविरभिप्रैतीति गम्यते। तस्मात्तत्र मतिर्न कार्येति। एवं सति शशिना संसृज्यमान इति विशेषणस्यापुष्टार्थत्वं कथञ्चित् परिहर्तव्यम्॥६०॥
 
  उपमानस्याधिकत्वं द्वेधा सम्भवि।सादृश्याप्रयोजकाविशेषणवत्त्वेन उपमानस्यानेकत्वेन च। आद्यमुक्तम्। अन्त्यमपि न दोषायेत्याह—
@@ -3265,8 +2888,6 @@ D. T. T.
 उक्तार्थस्य प्रयोगो हि गुरुमर्थंन पुष्यति॥६२॥
 
 अपुष्टार्थत्वं पौनरुक्त्यंच दोष इति। अस्य प्रत्यवस्थानस्य परिहारग्रन्थे नोपलभ्यते। त्रुटित इति भाति। न चैतन्मन्तव्यम् — आधिक्यमुपमानानामित्यनेन पूर्वपक्षं कृत्वाऽनेन स्वसिद्धान्तमाहेति। दोषानङ्गीकारशीलो ग्रन्थकारः। स इह दोषमङ्गीकरोतीति वचनं नातीव श्रद्धेयम्। सन्ति चोपमानानेकत्वस्यालङ्कारिकाङ्गीकृततां प्रतिपादयन्तः प्रामाणिकाः। यदुक्तं रहस्यशिखामणौ ‘काष्ठपाषाणसन्निभं' इत्येतद्व्याचक्षाणेन भगवता वेङ्कटनाथ-
-
-
 
  \*तर्हि, एक एव दृष्टान्तः किं नालमिति चेत् साधर्म्येऽतिशयप्रतीतयेऽनेकं दृष्टान्तं वक्तमुचितमित्यालङ्कारिका आचचक्षिरे।
 
@@ -3305,8 +2926,6 @@ D. T. T.
 
 ம் பக்..ம்
 
-
-
 थाभूता मतङ्गजाः विचित्रबर्हभूषणा मयूराश्च दिवि निर्मलवपुषो ग्रहा इव बभुः॥६३॥
 
  अत्रोच्यते—
@@ -3335,8 +2954,6 @@ D. T. T.
 
 इष्टस्य यः प्रतिषेध इव। न तु प्रतिषेध एव। प्रातीतिकः प्रतिषेध इत्यर्थः किमर्थमेवं प्रतिषेधः। विशेषाभिधानाय। विवक्षितस्य कञ्चिद्विशेषं प्रति
 
-
-
 पादयितुम्। तं आक्षेप इति काव्यज्ञाः शंसन्ति। तं च द्विविधं शंसन्ति। द्विविधो यथेति तु श्रेयान् पाठः॥६८॥
 
  तत्र वक्ष्यमाणविषयो यथा—
@@ -3364,8 +2981,6 @@ D. T. T.
 
 परानीकानि भीमानि विविक्षोर्न तव व्यथा।  
 साधु वाऽसाधु वाऽऽगामि पुंसामात्मैव शंसति॥७२॥
-
-
 
 न व्यथा ।जयस्य निश्चयात्। कथं निश्चयः। तदुच्यते साधु वेति॥७२
 
@@ -3397,8 +3012,6 @@ D. T. T.
 
 उपमानभूतैकान्तशुभ्रश्यामपुण्डरीकासितोत्पलापेक्षया सितासितारुणयोर्नेत्रयोरिह विशेषः प्रतीयते। ताम्रमरुणं यथा तथा राजितुं शीलमनयोः ताम्रराजिनी। पुण्डरीकमिह सिताम्भोजम्। वेदविदस्तु रक्ताम्बुजमाहुः॥७६॥
 
-
-
  अथ विभावना—
 
 क्रियायाः प्रतिषेधे या तत्फलस्य विभावना।  
@@ -3426,8 +3039,6 @@ D. T. T.
 जातस्तरुरयं चोच्चैःपातितश्च नभस्वता॥८०॥
 
 अव्यालः सर्पराहितः। स्थिरः न वात्योत्खेयमूलः। अत्र गम्यमानोऽन्योऽर्थः क
-
-
 
 श्चिन्महापुरुषः। सोऽपि हि स्कन्धवान् बन्धुमान् वृषस्कन्धो वा ऋजुरकुटिलस्वभावः अव्यालो दुर्जनरहितः स्थिरोऽचञ्चलचेताः अनेकानि महान्ति फलान्यभिलषितार्था यस्मिंस्तथाभूतश्चेति। यौगपद्यार्थौचकारौ॥८०॥
 
@@ -3459,8 +3070,6 @@ D. T. T.
 
  तर्हि ता अप्यतिशयोक्तयो वक्तव्याः। न वक्ष्यामः। कथम्—
 
-
-
 तर्कयेत् तां
 
 अन्या अतिशयोक्तीः स्वयं तर्कयेत्। मार्गंहि लक्षणकाराः प्रदर्शयन्ति। नकार्त्स्न्येयतते।
@@ -3479,8 +3088,6 @@ D. T. T.
 वक्रोक्तिरलङ्कारः। ‘वक्राभिधेयशब्दोक्तिरिष्टा वाचामलङ्कृतिः' इति वचनात्। या निरूपिताऽतिशयोक्तिः सैव सर्वा वक्रोक्तिः सर्वोऽलङ्कारः। अनया अतिशयोक्त्याकाव्यार्थः रसचर्वणानुगुणविशदप्रतीतिगोचरीक्रियते। एतद्घटने कविना संरम्भः कार्यः। अनया विनाऽलङ्कार एव न भवति।
 
  अत्र केचिदेवमाचक्षीरन्। अतिशयोक्तिः सर्वोऽलङ्कार इति वचनात्अतिशयोक्तिविशेषा एव सर्वेऽन्येऽलङ्कारा इति। तत्तु न ग्राह्यम्। अतिशयोक्तिरिति पृथगलङ्कारनिरूपणात्। वक्रोक्तिभेदा ह्यलङ्कारा इष्यन्ते। न चोपमादीन् विहाय वक्रोक्तिं नाम कश्चिदलङ्कारं ग्रन्थकारो निरूपयति। न हि विशेषविविक्तं सामान्यं सुनिरूपम्। तथाऽतिशयोक्तिमपि पृथङ् न न्यरूपयिष्यत् यदि सर्वालङ्कारसामान्यात्मत्वमतिशयोक्तेरभिमतमभविष्यत्। पृथङ्निरूपणात्तु ज्ञायते यथोपमादयोऽलङ्कारावशेषास्तथाऽतिशयोक्तिरपि कश्चिदलङ्कारविशेषो न तत्सामान्यात्मा। कथं तर्हि 'सैषा सर्वैव वक्रोक्तिः' इति। अभेदोपचारात्। अतिशयोक्तियुक्तो ह्यन्यः सर्वोऽलङ्कारः प्रायेणाधिकतरचमत्कारकारी भवति। आह चानन्दवर्धनः— 'प्रथमं तावदतिशयोक्तिगर्भता सर्वालङ्कारेषु शक्यक्रिया। कृतैव च सा महाकविभिः कामपि काव्यच्छायां पुष्यति। कथं ह्यतिशययोगिता स्वविषयौचित्येन क्रियमाणा सती काव्ये नोत्कर्षमावहेत्। भामहेनाप्यतिशयलक्षणे यदुक्तं सैषा सर्वेति
-
-
 
 तत्रातिशयोक्तिर्यमलङ्कारमधितिष्ठति कविप्रतिभावशात् तस्य चारुत्वातिशय योगःअन्यस्यालङ्कारमात्रतैवेति सर्वालङ्कारशरीरस्वीकरणयोग्यत्वेनाभेदोपचारात् सैव सर्वालङ्काररूपेत्ययमेवार्थोऽवगन्तव्यः।' इति॥८५॥
 
@@ -3512,8 +3119,6 @@ D. T. T.
 
 संख्यानमिति मेधावी नोत्प्रेक्षाऽभिहिता क्वचित्॥८८॥
 
-
-
 यथासङ्ख्यं सङ्ख्यानमिति मेधावी नामालङ्कारकारो व्यवहरति। उत्प्रेक्षायास्तु न क्वचित्तेनाभिधानम्। तस्या अलङ्कारता तस्यानभिमता भवेत्। यथासंख्यस्य व्यपदेशान्तरमपि दण्डिना क्रियते 'संख्यानं क्रम इत्यपि' इति। 'संख्यानमिति मेधाविनोत्प्रेक्षाऽभिहिता क्वचित्' इति तु पठ्यमानमनुपपन्नं भाति॥८८॥
 
  तत्र यथासंख्यम्—
@@ -3526,8 +3131,6 @@ D. T. T.
 गोक्षीरकुन्दहलिनां विशुद्धिर्यशसा जिता।
 
 इत्युच्यमाने तावतामनुनिर्देशोऽस्ति। न चैवमुक्तिरनुपपन्ना। किं तावत्कारणमत्र तावतामनुनिर्देशो नास्ति। एकधर्मयोगस्यैव विवक्षितत्वात्। त्रयोऽपि हि गोक्षीरकुन्दहलिनः एकस्य यशस उपमानभूताः। तत्र विशुद्धिः साधारणधर्मः। अयमेक एव हि त्रयाणामप्युपमानतानिर्वाही धर्मः। एवं यद्यप्युपमानव्यक्तयोऽनेकाः तथाप्येकसाधारणधर्मयोगात् सधर्माणो भवन्त्यस्ता एकस्येवानुनिर्दिष्टस्योपमेयस्यान्वयेन शान्ताकाङ्क्षा भवन्ति। यत्र पुनर्भिन्नभिन्नधर्मेणोपमानभावो बहूनामिष्यते तत्रासधर्मणां तावतामुपमानानामन्वयाय तावतामुपमेयानामनुनिर्देशोऽपेक्ष्यत एवेति। यत्पुनरत्रप्रतिहारेन्दुराजोऽन्यथा व्याचष्टेस तस्य वृथा क्लेशः। न च सहृदयप्रीतय इत्यलम्॥८९॥
-
-
 
  यथा—
 
@@ -3564,8 +3167,6 @@ D. T. T.
 
  ननु वक्रोक्त्यनभिधानतो हेत्वादेरनलङ्कारतोक्ता। स दोष इहा प्राप्नोति। नेत्युच्यते। स्वभावोक्तिर्वक्रोक्तिरिति हि द्वैराश्ये स्थिते वक्रे
 
-
-
 क्त्यनभिधानं वक्रोक्तिविशेषरूपालङ्कारतामेव निवर्तयति। नालङ्कारतासामान्यम्। चतुष्पात्त्वं हि व्यावर्तमानं गोत्वमहिषत्वादि निवर्तयति न चेतनत्वम्। अचतुष्पदां मनुष्याणामपि चेतनत्वात्। द्विपात्त्वचतुष्पात्त्वगूढपात्त्वानां त्वभावश्चेतनत्वं निवर्तयितुमलम्। तथा हेत्वादीनां वक्रोक्तित्वाभाव उपमादिवद्वक्रोक्तिविशेषरूपालङ्कारत्वाभावमेव साधयति नालङ्कारतासामान्यम्। हेत्वादिनामनिर्देशादेव तु स्वभावोक्तिभेदस्य तत्र सिद्ध्याराशिद्वयबहिर्भावप्रतीतेरलङ्कारतासामान्यव्यावृत्तिरवगम्यते। तस्माद्वक्रोक्तित्वाभावात् स्वभावोक्तिरनलङ्कार इति शिंशुपात्वाभावादाम्रो न वृक्ष इतिवदुपहास्यम्। 'इति केचित् प्रचक्षेत' इति न स्ववैमत्य प्रदर्शयितुम्। आशीरपि च केषांचित्' इति वक्ष्यमाणवत्। अपि तु नानावक्तृकतां ज्ञापयितुम्। 'बहुविधकृतीर्दृष्ट्वाऽन्येषां' इति हि वक्ष्यति।
 
  तथा च "सैव सर्वा वक्रोक्तिः अलङ्कारप्रकारः सर्वः। 'वक्राभिधेयशब्दोक्तिरिष्टा वाचामलङ्कृतिः' इति वचनात्। शब्दस्य हि वक्रताऽभिधेयस्य च लोकोत्तररूपेणावस्थानमित्ययमेवालङ्कारस्यालङ्कारभावः' इति ग्रन्थकारवचनं व्याचक्षाण एव लोचनकारोऽन्यत्राह
@@ -3578,8 +3179,6 @@ D. T. T.
 गा वारयति दण्डेन बालः सस्यावतारिणीः॥९४॥
 
 इदमुदाहरणं ददतो ग्रन्थकारस्यायमलङ्कारोऽनभिमत इति वदन्तः प्रतिज्ञामात्रप्रगल्भाः॥९४॥
-
-
 
  उक्तेष्वलङ्कारेष्ववान्तरप्रभेदप्रपञ्चनिरूपणमपेक्षमाणं प्रत्याह—
 
@@ -3605,10 +3204,6 @@ D. T. T.
 त्तौद्वितीयः परिच्छेदः।
 
 ![](../books_images/U-IMG-1727883710Screenshot2024-10-02211100.png)
-
-
-
-
 
 ॥श्रीः॥  
 
@@ -3649,8 +3244,6 @@ D. T. T.
 स्वरूपमास्थाय च ता कृतस्मितः  
 समालम्बे वृषराजकेतनः।
 
-
-
 तं वीक्ष्य वेपथुमती सरसाङ्गयष्टि-  
 र्निक्षेपणाय पदमुतमुद्दृतमुद्वहन्ती।  
 मार्गाचलव्यतिकराकुलितेव सिन्धुः  
@@ -3671,8 +3264,6 @@ D. T. T.
 उवाच रत्नाहरणे चैद्यं शार्ङ्गधनुर्यथा॥८॥**
 
 वक्तव्यं साक्षादनुक्त्वा यद्भङ्ग्यन्तरेणाभिधानं तत् पर्यायोक्तम्। तस्योदाहरणं रत्नाहरणनाम्नि काव्यविशेषे॥८॥
-
-
 
  अथ पर्यायोक्तम्—
 
@@ -3703,8 +3294,6 @@ D. T. T.
 उदात्तंशक्तिमान् रामो गुरुवाक्यानुरोधकः।  
 विहायोपनतं राज्यं यथा वनमुपागमत्॥११॥
 
-
-
 को माम लोके सर्वशक्तः सन् उपनतं राज्यं विजह्यात्। वनं चोपगच्छेत्। अथापि दाशरथिस्तथा चक्रे। कस्मात्। आज्ञा गुरूणामविलङ्घनीयेति। यदेवमाशयस्यातिमहत्त्वं तदुदात्तमुच्यते। विहायोपवनमिति पाठश्चिन्त्यः॥११॥
 
 यद् विभूतेर्महत्त्वं तदुदात्तमिति तु केचित्। तदाह—
@@ -3719,8 +3308,6 @@ D. T. T.
 
  इति। इदममृष्यमाणआह दण्डी—
 
-
-
 **पूर्वत्राशयमाहात्म्यमत्राभ्युदयगौरवम्।  
 सुव्यञ्जितमिति प्रोक्तमुदात्तद्वयमप्यदः॥**
 
@@ -3734,8 +3321,6 @@ D. T. T.
 पयसां गणैरिति तु क्वश्चित् पठ्यते॥१३॥
 
  इति द्विप्रकारमुदात्तम्। अथ श्लिष्टम्—
-
-
 
 उपमानेन यत्तत्त्वमुपमेयस्य साध्यते।  
 गुणक्रियाभ्यां नाम्ना च श्लिष्टं तदभिधीयते॥१४॥
@@ -3764,8 +3349,6 @@ D. T. T.
 
  अयं श्लिष्टालङ्कारो विभज्योदाह्रियते। 'भेदैः श्लिष्टमपि त्रिभिः' इति ह्युक्तम्।—
 
-
-
 तत् सहोक्तुपमाहेतुनिर्देशात् त्रिविधं यथा॥१७॥
 
 सहोक्तिःः समुच्चयः। अयं समाहारद्वन्द्वः। सहोक्त्युपमाहेतूनां निर्देशादिति वा। समुच्चायकच्चकारवत् उपमावाचकेवशब्दवत् हेतुवाचकपञ्चमीयुक्तश्चेति त्रिविधं श्लिष्टमिति फलितम्। अत्र क्रमेणोदाहरणमुच्यते॥१७॥
@@ -3793,8 +3376,6 @@ D. T. T.
  अथ हेतुनिर्देशयुक्तं श्लिष्टं यथा—
 
 रत्नवत्त्वादगाधत्वात् स्वमर्यादाऽविलङ्घनात्।
-
-
 
 बहुसत्त्वाश्रयत्वाच्चसदृशस्त्वमुदन्वता॥२०॥
 
@@ -3825,8 +3406,6 @@ D. T. T.
 
 विवक्षितकार्यसाधनौपयिका ये गुणास्तत्रैकदेशस्य विरहमुपनिबध्य यत्र गुणान्तरं कार्यसिद्धिक्षमतया प्रतिपाद्यते महिमातिशयप्रथनाय सा विशेषोक्तिः। सम्पूर्णाहि सामग्री कार्यं जनयति। तत्र विकलाऽपि जनयतीति वचनं
 
-
-
 विशेषोक्तिर्भवति। गुणान्तरसंस्थितिरिति च पठन्ति॥२३॥
 
  यथा—
@@ -3856,8 +3435,6 @@ D. T. T.
 तुल्यकार्यक्रियायोगादित्युक्ता तुल्ययोगिता॥२७॥
 
 गुणैर्न्यूनस्यापि कस्यचित् उत्कृष्टेनान्येन साम्यप्रतिपिपादयिषया एककार्यकारित्वेऽभिधीयमाने तुल्ययोगिता उक्ता। तन्निमित्तस्तुल्ययोगिताऽलङ्कारइति। सा च वक्ष्यमाणरूपा। ननु दीपकेऽप्येकक्रियायोगः। सत्यम् किं तु तत्र वाक्यभेदो नियतः। अत्र तु तदभेदः॥२७॥
-
-
 
 शेषोहिमगिरिस्त्वं च महान्तोगुरवः स्थिराः।  
 यदलङ्घितमर्यादाश्चलन्तीं बिभृथ क्षितिम्॥२८॥
@@ -3892,8 +3469,6 @@ D. T. T.
 
 सुग्रीवप्रत्ययाय भगवान् दाशरथिः सप्त सालान् बिभेद। तथा स्वीयमस्त्र..
 
-
-
 विद्याकौशलं प्रकाशयन् भगवान् जामदग्न्यः क्रौञ्चं गिरिं बिभेद। किमल्पमपि त्वया तयोः सदृशं कृतं येन त्वं ताभ्यामुपमीयेथा इति प्रतिषेध्यतया तत्तुल्यतामाक्षिपन्तीर्थं निन्दा स्वात्मनि वक्ततात्पर्यविरहात् तत्रैव पर्यवस्यति॥३२॥
 
  अथ निदर्शना—
@@ -3918,8 +3493,6 @@ D. T. T.
 तद्भावोऽभेद इत्युक्तम्। ननु रूपकस्यापीदमेव लक्षणमुक्तम् — उपमानेन यत् तत्त्वमुपेमयस्य रूप्यते — इति। सत्यम्। किन्तु गुणसाम्यमपि रूपके विवक्षितम्। 'गुणानां समतां दृष्ट्वा' इति ह्युक्तम्। अपि च रूपकेऽभेदप्रधानता। इह तु प्रतीतितोऽभेदेऽप्युपमैव तात्पर्यगोचरीभूता। तथा चाह 'यां वदत्युपमां' इति। अपि च रूपके जलददन्तिन इत्युपमेयाभेद उपमाने शाब्दः। सोऽप्युभयोरेकपदोपादानात् सिद्धवत् प्रतीयते। अर्थात्तु उपमानाभेद उपमेये। इह तूपमेये उपमानाभेदः साक्षात् प्रतीतः। स च पृथक्पदोपात्ततया विधेयः। अत एवाह साधयन्निति। अतिनिर्बन्धे त्वत्र
 
 उद्यानपत्रिका-
-
-
 
 दुर्वच एव विशेषः। अतो दण्डिवामनावन्यथेममलङ्कारमाहतुः॥३५॥
 
@@ -3956,8 +3529,6 @@ D. T. T.
 
 अनुबन्धः।
 
-
-
 हिमपातशैत्यात् गाढालिङ्गनहेतुता। तथाभूता रात्रयोवर्धन्त इति कानां प्रीतिवृद्धिः॥४०॥
 
  अथ परिवृत्तिः—
@@ -3992,8 +3563,6 @@ D. T. T.
 
 अयि सौम्य भुवनसुन्दर त्वयि दृष्टे विस्मितस्य में मतिः उपपत्त्यनुपपत्त्या उद्यानपत्रिका
 
-
-
 षाणायां क्रियमाणायामपि अयं शश्येवेति वा नैवेति वा मन्मथ एवेति वा नैवेति वा स्वविषयावधारणां न प्राप्नोति॥४५॥
 
  अथानन्वयः—
@@ -4020,8 +3589,6 @@ D. T. T.
 
 अनुबन्धः।
 
-
-
 तुल्योदयावसानत्वात् गतेऽस्तं प्रति भास्वति।  
 वासाय वासरः क्लान्तो विशतीव तमोगृहम्॥४८॥
 
@@ -4040,8 +3607,6 @@ D. T. T.
  गाम्भीर्यं विशालता हृदयौन्नत्यं च। लावण्य सौन्दर्यंलवणमयता प्राज्यानि रत्नानि निधित्वात् स्वामित्वाच्च ययोः। एवं समानयोरपि तमुद्रस्य चास्ति कश्चिद्विशेषः। त्वं जनानां सुखसेव्यः। अम्भसां पतिः ग्राहः। ग्राहः ग्रहणं उपसेवनम्। क्लेशसाध्यं अनर्थकारि च उपसेवनं तथाभूतः। अत्र पूर्वार्धे श्लिष्टं उत्तरार्धे व्यतिरेक इत्युभययोगात् संसृ
 
 उद्यानपत्रिका
-
-
 
 धैर्यलावण्यगाम्भीर्यप्रमुखैस्त्वमुदन्वतः।  
 गुणैस्तुल्योऽसि भेदस्तु वपुषैवेदृशेन ते॥
@@ -4069,8 +3634,6 @@ D. T. T.
 
 अनुबन्धः।
 
-
-
 भाविकत्वमिति प्राहुः प्रबन्धविषयं गुणम्।  
 प्रत्यक्षा इव दृश्यन्ते यत्त्रार्थाभूतभाविनः॥५३॥
 
@@ -4091,8 +3654,6 @@ D. T. T.
  अस्याश्चाशिषः मैत्रीव्यपायेन शत्रुसमृद्ध्यावा यदि सौहृदय्यस्य सुहृदस्य सुमनकत्वस्यक्वचिद्विरोधः भङ्गः तस्य परिहारे प्रयोगः॥५५॥
 
  तद्यथा—
-
-
 
 अस्मिञ्जहीहि सुहृदि प्रणयाभ्यसूया-  
 माश्लिष्य गाढममुमानतमादरेण।  
@@ -4122,8 +3683,6 @@ D. T. T.
 
 अनुबन्धः।
 
-
-
 यद्यपि ते ते विपश्चितः तं तमलङ्कारं सन्तमुपजानन्ति स्म तथाऽपि न तैः सर्वोऽलङ्कारो लक्षणोदाहरणाभ्यां स्फुटं प्रतिपादितः यथाऽत्रमया स्वयं धिया विनिश्चित्योदितः। ननु कथं गिरामलङ्कारविधिरिति। अथीनामलङ्कारोऽपि ह्युक्तः। सत्यम्। गिरामिति अर्थविशेषप्रतिपादनसमर्थानामेव शब्दानां विवक्षिततयाऽलङ्कारोऽपि गृहीत एव। तदाह अनेन वागर्थविदामिति। अर्थविद्भिः तत्प्रतिपादनार्थं प्रयुक्ता वाक् अनेन विधिनाऽलंकृता यथोचितस्थाननिवेशितमहार्घभूषणा नारीव विभाति काव्यव्यपदेशमापन्ना रसिकहृदयाह्लादनप्रगल्भा भवतीति॥५८॥
 
 **आपूर्यमाणे पवनेन रन्ध्रेश्रुतिप्रियश्चेत् ध्वनिरुज्जिहीते।  
@@ -4131,11 +3690,7 @@ D. T. T.
 
 इत्युद्यानवृत्तोतृतीयः परिच्छेदः।
 
-
-
 ![](../books_images/U-IMG-1727928153Screenshot2024-10-03093158.png)
-
-
 
 ॥श्रीः॥  
 
@@ -4162,8 +3717,6 @@ D. T. T.
 
  अपार्थमित्यस्य शब्दार्थस्तावदयम् — अपेतोऽर्थो यस्मात् तदिति। तत्रार्थोलोके द्वेधाप्रसिद्धः। तस्मात् द्विविधादप्यन्यादृशोऽर्थ इह विवक्षितः। तत्र प्रथमं तावत् प्रसिद्धोऽर्थ उच्यते। स हि पदार्थो वाक्यार्थ इति द्वेधा भवति। ननु किं पदं नाम? उच्यते। पदं पुनर्वर्णसमुदायः। ननु कचटेति न पदम्। सत्यम्। अर्थाभावात्। अर्थवान् हि वर्णसमुदायः पदमिष्यते। तदपि पदं सुप्तिङन्तं भवति। रामेत्येतावन्मात्रस्य पदत्वाभावात्। 'रामः' 'जयति' इत्येवमादि हि पदम्। 'सुप्तिङन्त' इत्येव युक्तम्॥३॥
 
-
-
  अथ किं वाक्यं नाम? उच्यते—
 
 पदानामेव संघातः सापेक्षाणां परस्परम्।  
@@ -4177,8 +3730,6 @@ D. T. T.
 बुद्धौ तु सम्भवत्येतदन्यत्वेऽपि प्रतिक्षणम्॥५॥
 
  यदुक्तं वर्णसंघातः पदम्, तत्संघातोवाक्यमिति तन्न युज्येत। कस्मात्। यस्मात् क्रमवृत्तयो वर्णाः। क्रमेण हि वर्णाउच्चार्यन्ते। यथा गौरित्यत्र गकारौकारविसर्जनीयाः। तेषां कथं संघातसम्भवः। संघातो हि नाम युगपद्वर्तमानता। स कथं क्रमवर्तिनां सम्भवेत्?ननु प्रथमोच्चारितो गकारो यावत् विसर्जनीयोच्चारणमवतिष्ठते। एवमौकारोऽपि। अयच्चारिते विसर्जनीये पूर्वयोरपि वर्णयोः सत्त्वात् त्रयोऽपि युगपद्वर्तिन इति कथं संघातासंभवः। उच्यते। क्षणिका हि वर्णा इष्यन्ते ; न स्थिराः। अन्यथा सकृदुच्चारिता अविरतं श्रूयेरन्। क्षणिकाश्च सन्तो न वर्णान्तरोच्चारणपर्यन्तमवतिष्ठन्त इति। एवं संघातस्यासम्भवे अर्थप्रत्यायकत्वमपि न संभवति। ज्ञातं हि सत् पदं वा वाक्यं वा अर्थंप्रत्याययेत्। तत्र वर्णसंघातात्मनः पदस्यैवाभावे कथं तस्य ज्ञानं ; कथन्तरामर्थप्रत्यायकत्वमिति।
-
-
 
  तदिदमुक्तं संघातादीति। एवं शङ्कायां समाधानमुच्यते। यद्यप्युक्तरीत्या वर्णानां प्रतिक्षणमन्यत्वं तथाऽपि तु एतत् संघातादि बुद्धौ संभवति ; एकबुध्द्युपारूढाः सन्तः संहता अर्थप्रत्यायकाश्च भवन्तीति॥५॥
 
@@ -4202,8 +3753,6 @@ D. T. T.
 रामस्तमवधीत् क्रोधात् को न नश्यत्यधार्मिकः॥
 
 इति वाक्यचतुष्टयस्य अधर्मो नाचरणीय इत्यर्थः। एवंविधेन समुदायार्थेन
-
-
 
  शून्यं यत् तदपार्थतादोषदुष्टमिति सोदाहरणमाह—
 
@@ -4232,8 +3781,6 @@ D. T. T.
 श्रेयसो विनयाधानमधुनाऽऽतिष्ठ केवलम्॥११॥
 
  हे सौम्य, उपासिता गुरवो येन तथाभूतत्वात् त्वया विजिता वशीकृता ये इन्द्रियरूपाः शत्रवः तेषु अधुना श्रेयसः ; इयं पञ्चमी ; गुणवत्तरस्य विदुषः सकाशात् विनयाधानं विनयस्य दमस्य आधानं सम्पादनं केवलं आतिष्ठ अङ्गीकुरु; कुर्विति यावत्। गुरूपासनया विजितेष्विन्द्रियेषु पुनर्विनयाधानं निष्फलत्वान्नोपपद्यत इति विरुद्धार्थमिदम्। पूर्वत्र विरोधः साक्षात्। अत्र तु पूर्वमेव कार्यस्य सिद्धत्वादिति भेदः। शक्यमिह केन-
-
-
 
 चित् पाठान्तरेण भवितुम्॥११॥
 
@@ -4265,8 +3812,6 @@ D. T. T.
 
  अत्र अस्मत्संप्रदाये। अयं वा कथं दोषः। उच्यते। कार्यासम्भवात्। पदप्रयोगस्य ह्यर्थज्ञानं कार्यम्। तच्छेदेकेन पदेन सिद्धं किं तत्र पदान्तरेण क्रियेत। असिद्धं हि क्रियते, न सिद्धमिति॥१५॥
 
-
-
  यथा—
 
 'तामुत्कमनसं नूनं करोति ध्वनिरम्भसाम्।  
@@ -4288,10 +3833,6 @@ D. T. T.
 
 [^34]: "संशयप्रभेदविस्तरोऽलङ्कारचूडामणौ ससन्देहप्रकरणे"
 
-
-
-
-
  तद्यथा—
 
 व्यालवन्तो दुरारोहा रत्नवन्तः फलान्विताः।  
@@ -4312,8 +3853,6 @@ D. T. T.
 
  विदधानौ दधानौ। व्युपसृष्टे। दधातिर्नैकान्तेन कृञर्थाभिधायीति ग्रन्थकाराभिप्रायः। श्यामाभ्रेण हिमेन च सदृशी छविर्ययोस्तौ। 'पातां वः शार्ङ्गिशङ्करौ' इत्युक्ते नायं दोष इति विभाव्यम्॥२१॥
 
-
-
  अथ शब्दहीनम्—
 
 'सूत्रकृत्पदकारेष्टप्रयोगाद्योऽन्यथा भवेत्।  
@@ -4327,8 +3866,6 @@ D. T. T.
 तेजस्तिरयतः सौरं घनान् पश्य दिवोऽभितः॥२३॥
 
  स्फुरद्भिस्तटिद्विलयैर्युक्तान्, बहुसमधिकैरम्भोभिर्गुरुतरान्, सूर्यसम्बन्धि तेजश्छादयतः, गगने सर्वतः स्थितान् मेघान् पश्य। अत्र 'स्फुरतटिद्विलयान्' इति बहुव्रीहिणा भाव्यम्। न तु स्फुरन्ति च तानि तटिद्विलयानीति कर्मधारयोत्तरं मतुबर्थेन इनिप्रत्ययेन। यदाहुः— नः कर्मधारयान्मत्वर्थीयो बहुव्रीहिश्चेत् तत्प्रतिपत्तिकरः— इति। 'वर्णॊवर्णेन' इति सूत्रे महाभाष्यपर्यालोचनया चेदमवगम्यते। सर्वतनीबाहुबलीत्यादावेव क्वचित् कर्मधारयादिनिं वार्तिककारोऽनुशास्ति। अत एव 'हंसचिह्नदुकूलवान्' इति महाकविप्रयोगोऽपि प्रौढिमात्रेण समाधेयः। तथा गरीयस इतीयसुन्नसाधुः।'द्विवचनविभज्योपपदे तरबीयसुनौ' इति द्वयोरेकस्यान्यस्मादतिशये विवक्षिते हि तरबीयसुनोरनुशासनम्। न चात्रातिशयप्रतियोगि किमपि शब्देनोपादीयते, अर्थेन वा लभ्यते। बहुगुरुत्वमात्रं ह्यत्र वक्तुमिष्यते नापेक्षिकातिशयशालि गुरुत्वम्। तस्मादिह ईयसुन्नसाधुः। तथा तिरयत इत्ययुक्तम्। तिर्यक्शब्दात् करोतीत्यर्थे णिचि लटः शतृप्रत्यये द्वितीयाबहुवचने तिराययत
-
-
 
  ते रूपात्। तिरःशब्दात् कण्ड्वादित्वात् यकि तिरस्यत इति रूपात्। दि तु तिर्यगर्थात्तिरःशब्दादेवेह णिच् क्रियते तर्हि नायं शब्दोऽसाधुत्वेतिध्येयम्। तथा दिवोऽभित इति षष्ठ्यन्तमसाधु। 'अभितः परितः समयानिकपाहाप्रतियोगेऽपि' इति वार्तिककृता द्वितीयाया अनुशासनादिति॥२३॥
 
@@ -4354,8 +3891,6 @@ D. T. T.
 
  यथा—
 
-
-
 भ्रमति भ्रमरमाला काननेषून्मदाऽसौ।  
 विरहितरमणीकोऽर्द्धस्यद्य गन्तुम्॥२७॥
 
@@ -4374,8 +3909,6 @@ D. T. T.
 तत्तद्विरोधि विज्ञेयं स्वभावात् तद्यथोच्यते॥२९॥
 
  देशविशेषे द्रव्यसंभूतिर्यादृशी उपदिश्यते; प्रसिद्धेति यावत् ; अपि वा वा यादृशी नोपदिश्यते; स्वभावात् तत्तद्देशद्रव्यस्वभावं पर्यालोच्य तत्तहे विरोधि विज्ञातव्यम्। यद्वा तद्विरोधि उक्तप्रसिद्धिविरोधेन निबद्धं तत् तत् देशाविरोधिनामककाव्यदोषस्वरूपं विज्ञेयमिति योजना। शक्य
-
-
 
 'अन्यथैवोपदिश्यते' इत्येवंरीत्या पाठान्तरेण भवितुम्। तद्दोषस्वरूपं शं तादृशमुदाह्रियते॥२९॥
 
@@ -4403,8 +3936,6 @@ D. T. T.
 
  कलयतिलोकशात्रावेक्षणेन चराचरात्मकस्य जगतः सुखदुःखानुषङ्गितां संकलय्य गृह्णातीति कला विलक्षणा प्रज्ञा। सैषा अस्य पदस्य व्युत्पत्तिः। तस्या विषयीभूतं फलन्तु शिल्पानि चित्रलेखनंप्रतिमानिर्माणंसंगीतमित्येवमादीनि रसाभिव्यञ्जनादितत्पराणि कर्माणि। तादृशप्रज्ञाविशेषप्रयोज्यत्वादेतान्यपि कलापदाभिधानीयकं लभन्ते। पूर्ववदेतत्सम्बन्धि-नियमविपर्यासेन निबद्धं कलाविरोधीत्याहुः॥३३॥
 
-
-
  यथा—
 
 ऋषभात् पञ्चमस्तस्मात् सषट्जं धैवतं स्मृतम्।  
@@ -4416,16 +3947,12 @@ D. T. T.
 
  'अत्र पञ्च पक्षाः संभवन्ति। श्रवणैकेन्द्रियग्राह्यत्वाद्विशेषस्पर्शशून्ययोः स्वरश्रुत्योर्जाति-व्यक्त्योरिव तादात्म्यमिति प्रथमः पक्षः। दर्पणे मुखविवर्तच्छ्रुतिषु खरा विवर्तन्त इति द्वितीयः। यथा घटस्य मृत्पिण्डदण्ड(?)कार्यत्वं तथा स्वराणां श्रुतिकार्यत्वमिति तृतीयः। क्षीरं दधिरूपेणेव श्रुतयः स्वररूपेण परिणमन्त इति चतुर्थः। प्रदीपादन्धकारस्थितघटाद्यभिव्यक्तिवच्छ्रुतिभ्यः स्वराणामभिव्यक्तिरिति पञ्चमः। नाद्यः। स्वरश्रुत्योर्भिन्नबुद्धिग्राह्यत्वादाश्रयाश्रयित्वभेदाच्च। जातिव्यक्त्योरपि निर्विशेषं न सामान्यमिति न्यायेन भेदस्य सिद्धत्वाच्च। न द्वितीयः। विवर्तत्वे हि स्वराणां भ्रान्तत्वं स्यात्। न च तथा। तेषामबाधितप्रयोगहेतुत्वदर्शनात्। तृतीयोऽपि न परीक्षाक्षमः। स्वरव्यतिरेकेण श्रुतिसद्भावे प्रमाणाभावादिति वक्तुं हि न युक्तम्। स्वरस्य हि।श्रूयमाणमनुरणनात्मकत्वं रणनमन्तरेण नोपपद्यत इत्यर्थापत्त्या वा, अयं स्वरो रणनपूर्वकः, अनुरणनात्मकत्वात् ; दण्डाहतजयघण्टानुरणनशब्दवदित्यनुमानेन वा तत्सिद्धेः। सत्यम्, यद्यपि स्फुटपौर्वापर्येण कार्यकारणभावप्रतीतिरस्ति तथाऽप्युपादानस्य मृत्पिण्डादेर्यथा घटादिकार्यनिष्पत्तौ भेदेनानुपलब्धिर्न तथेह स्वरनिष्पत्तौ श्रुतीनामु(मनु) पलम्भ इति तासामकारणत्वान्न तृतीयः। चतुर्थपञ्चमावदुष्टत्वे मतङ्गादि संमतवाद्ग्राह्यौ। इति।
 
-
-
  तत्र क्रमेण सप्तानां स्वराणां चत्तस्रः तिस्रः द्वे, चतस्रः, चतस्रः तिस्रः द्वे इत्येवंसंख्याः श्रुतयः। कदाचित्तु अन्तिम निषादः आद्यस्य षड्जस्य द्वे श्रुती संश्रित्य चतुःश्रुतिर्भवति। तदानीं तस्य काकलीसंज्ञा। एवं कदाचित् तृतीयो गान्धारः चतुर्थस्य मध्यमस्य द्वे श्रती संश्रित्य चतुःश्रुतिर्भवति। तदा तस्य अन्तरसंज्ञा। एषां स्वराणां समूहोग्राम इत्युच्यते। विकारलशनापि वर्जितोऽय सप्तखरसमूहः षड्जग्राम इत्याख्यायते। यदा तु पञ्चमः त्रिश्रुतिर्भवति धैवतश्च पञ्चमस्य चतुर्थी श्रुतिमाक्रम्य चतुःश्रुतिः तदा मध्यमग्रामो भवति। अत्र ग्रामद्वय 'साधारणविधिः' इति प्रकारान्तरमप्यस्ति। षड्जस्वरसम्बन्धिनीषु चतसृषु श्रुतिषु आद्यांनिषादः अन्त्यां ऋषभश्च यदि संश्रयति तदा षड्जस्य पूर्वोत्तरस्वरसाधारण्यात् षड्जसाधारणं भवति। एवं मध्यमस्य आद्यान्त्ये श्रुती यदि गान्धारपञ्चमौ श्रयतः तदा मध्यमसाधारणमिति ज्ञेयम्। एवमेव पूर्वोक्तकाकल्याः शुद्धषड्जनिषादोभयसम्बन्धित्वात् अन्तरस्य शुद्धगान्धारमध्यमोभय-सम्बन्धित्वाच्च काकलीसाधारणमन्तरसाधारणमित्यपि द्वे साधारणे भवतः। आहत्य स्वरसाधारणं चतुर्विधम्। तदुक्तम् —
 
 स्वरसाधारणं तत्र चतुर्धा परिकीर्तितम्।  
 काकल्यन्तरषड्जैश्च मध्यमेन विशेषणात्॥इति।
 
  तत्र काकल्यन्तरसाधारणयोः प्रयोगे अस्ति विशेषः। काकलीसाधारणे षड्जमुच्चार्य काकलोधैवतौ क्रमादुच्चारयेत्। यद्वा षड्जं काकलीं पुनः षड्जं चोच्चारयेत्। ततः परं तत्सन्निहितं स्वरान्तरम्। एवमन्तरसाधारणे मध्यमः अन्तरः ऋषभः इति मध्यमः अन्तरः पुनर्मध्यम इति वा क्रमेणोच्चार्य ततः परं तत्सन्निहितं स्वरान्तरमिति। तदेवंविधा सङ्गीतशास्त्रे स्वरसाधारणविधिस्थितिः। तद्विरुद्धमिदं ऋषभात् पञ्चम इत्यादि। न हि काकलीसाधारणे अन्तरसाधारणे वा ऋषभः ततः पञ्चमः ततः षड्जः
-
-
 
  ततो धैवत इति क्रमेण स्वरोच्चारणं प्रसिद्धमस्ति। तथा मध्यमसाधारणॆ'मध्यमोत्पीडितर्षभः' इत्येतदप्रसिद्धम्। पीडनं नाम उत्तरस्वरेण पूर्वस्य स्वात्मत्वापादनम्। मध्यमस्यान्तिमां श्रुतिं संश्रयन् पञ्चमो हि तत्र मध्यमं पीडयति। न तु स्वयमन्येन पीड्यमानो मध्यमः स्वपूर्वगान्धारव्यवहितं ऋषभं पीडयतीति प्रसक्तिरप्यस्ति। तस्मादेवं वदन् मौग्ध्यात् साधारणं अयथावदेव गृह्णाति। साधारितं साधारणमित्येकार्थम्। इत्येवं सङ्गीतकलाविरोध्युदाहारि। कलान्तरविरोध्यपि एवंरीत्या वक्तव्यम् \।
 अत्र पञ्चमादिति पञ्चम्यन्तं पठ्यमानं न बुध्यामहे। तथा धैवतमिति क्लीबत्वमपि चिन्त्यमित्याहुः॥३५॥
@@ -4449,8 +3976,6 @@ D. T. T.
 धावतां सैन्यवाहानां फेनवारि मुखाच्युतम्।  
 चकार जानुदघ्नापान् प्रतिदिङ्मुखमध्वनः॥३८॥
 
-
-
  वाहा अश्वाः। दिशि दिशि मागान् जानुप्रमाणा आपा येषु तथाविधान् चकार। न चैवं क्वचिल्लोके दृश्यत इति इदमपि लोकविरोध। अतिसंरब्धाःकवय एवमसकृद्वर्णयन्तीति तत्रानौचित्यवैशद्यायोदाहरणभेदः॥
 
  अथ न्यायविरोधि—
@@ -4471,8 +3996,6 @@ D. T. T.
 
 अन्तर्योधशताकीर्णंसालङ्कायननेतृकम्।  
 तथाविधं गजच्छद्म नाशासीत् स स्वभूगतम्॥४१॥
-
-
 
  नीतिनिपुणः सालङ्कायनो हि परपक्षमन्त्री। सर्वदा तस्य निमिषिताद्यपि ज्ञातव्यं विजिगीषुणा वत्सराजेन। चर्मणा कृतः नीलगजः अन्तः स्थितशतसैनिकः गजग्रहणकोतूहलिवत्सराजग्रहणाय स्थापितः अवश्यमेव ज्ञातव्यः। सोऽपि स्वदेशमागतः सुखतरं ज्ञायेत। एवमपि स तन्नाज्ञासीदिति न युज्यते॥४१॥
 
@@ -4495,8 +4018,6 @@ D. T. T.
 हतोऽनेन मम भ्राता मम पुत्रः पिता मम।  
 मातुलोभागिनेयश्च रुषा संरब्धचेतसः॥४४॥
 
-
-
 अस्यन्तो विविधान्याजावायुधान्यपराधिनम्।  
 एकाकिनमरण्यान्यां न हन्युर्बहवः कथम्॥४५॥
 
@@ -4518,8 +4039,6 @@ D. T. T.
 
  इति न्यायविरोधि। अथागमविरोधि—
 
-
-
 आगमो धर्मशास्त्राणि लोकसीमा च तत्कृता।  
 तृद्विरोधि तदाचारव्यतिक्रमणतो यथा॥४८॥
 
@@ -4533,8 +4052,6 @@ D. T. T.
 नरवाहनदत्तेन वेश्यावान् निशि पीडितः॥५०॥
 
  यद्यधार्मिककुलप्रसूत एव कश्चिन्नायकीक्रियेत तदीयानि चातिक्रमचरितानि वर्ण्येरन् न तदाऽऽगमविरोधिनिबन्धनं दोषाय। तदाह — न्याय्ये वर्त्मनि तिष्ठतामिति। एवंविधानां राज्ञां सोमपानमागमविरुद्धम्। 'यदि राजन्यं वैश्यं वा याजयेत् ........न्यग्रोधस्तिभिनीराहृत्य ताः सम्पिष्य दधन्युन्मृज्य तमस्मै भक्षं प्रयच्छेत् ; न सोमम्' इति राजन्यवैश्ययोः सोमभक्षप्रतिषेधश्रवणात्। तथा महावंशालङ्करणॊचितगुणपौष्कल्यवतः गुरौ सति जिगीषुत्वमागमविरुद्धम् \। गुरुमतिक्रम्य क्रियमाणायाः सर्वप्रकाराया वृत्तेर्निषिद्धत्वात्। तथा संस्कारमन्तरेण द्विजन्मत्वं विरुद्धम्। उपनयनाख्यसंस्कारेणैव द्वितीयजन्मसिद्धेः। 'द्वितीयं मौञ्जिबन्धनात्' इति हि स्मरन्ति। तथा भार्याधिगमात् पूर्वं वेश्याप्रसङ्गो ब्रह्मचर्यभङ्गावहत्वात् विरुद्धः। तत्रापि सर्वसाधारणीं वेश्यां भजतोऽन्यस्य पीडनं शास्त्राननुरोधि। सुतरां निशि। वेश्याहि यस्मिन् दिने यं भजति तस्य तस्मिन् दिने भार्याकल्पा। तदाऽन्यस्य तत्र प्रसङ्गो न धर्म्यः। स्वयं राजा सन् यदि कश्चित्तथा कुर्यात् तन्न तस्य विशिष्टकुलशीलविद्यानामनुगुणमिति। नरवाहनदत्त इति राज्ञो नाम॥५०॥
-
-
 
  अथ गभीरां प्रतिज्ञाहीनादिचिन्तां परिच्छेदान्तरेण करिष्यन् इह अप्रौढानालङ्कारिकान् किंचित् प्रतिबोधयन्नाह—
 
@@ -4551,8 +4068,6 @@ D. T. T.
 कर्ता किमेषोऽस्म्युतकश्चिदन्यः॥
 
 **इत्युद्यानवृत्तौ चतुर्थः परिच्छेदः।**
-
-
 
 अथ पंचमः परिच्छॆदः।
 
@@ -4575,8 +4090,6 @@ D. T. T.
 
  दुर्बोधानि हि प्रायः शास्त्राणि। ततो मन्दधियो भीतास्तत्र न प्रवर्तन्ते। तथा महती तेषां ततो भीतिः यथा ललितेषु तत्तत्प्रकरणग्रन्थेष्वपि महानुद्वेगो भवति। न तथाऽतिकठिनाः शास्त्रार्थाः अतो न भेतव्यमिति तेषां हृदयप्रसादनाय एष करिष्यमाणः हेतुन्यायलवोच्चयः हेतुरनुमानं तस्य न्यायः प्रामाण्ययुक्तिः तस्याल्पांशस्य उच्चयः घटनं निबन्धनमिति यावत्॥२॥
 
-
-
  ननु काव्यलक्षणे प्रवृत्तस्य हेतुन्यायनिरूपणे का सङ्गतिः। न च वाच्यं यत्र काव्ये हेतुन्यायस्यापि सङ्घटना दृश्यते तत्र साध्वसाधुविवेकाय सोऽपि काव्यलक्षणकौरेर्विवेक्तव्य इति। रसमये काव्यमार्गे हेतु न्यायसङ्घटनाया वैयर्थ्येन तादृशस्य काव्यस्याभावात्। सहृदयचेतः समाराधनपरतया हि काव्यस्य प्रवृत्तिः। तत्र का प्रसक्तिर्हेतुर्न्यायसङ्घटनाया इति।
 
  उच्यते —
@@ -4596,8 +4109,6 @@ D. T. T.
 रम्यं जुगुप्सितमुदारमथापि नीच-  
 मुग्रं प्रसादि गहनं विवृतं च वस्तु।
 
-
-
 यद्वाऽप्यवस्तु कविभावकभाव्यमानं  
 तन्नास्ति यन्न रसभावमुपैति लोके॥
 
@@ -4614,8 +4125,6 @@ D. T. T.
 असाधारणसामान्यविषयत्वं तयोः किल॥५॥
 
 प्रत्यक्षस्य असाधारणं विषयः। सर्वेतरव्यावृत्ता तत्तद्व्यक्तिः असाधारणमुच्यते। एतत् स्वलक्षणमित्यपि व्यवह्रियते। तद्भिन्नं सर्वव्यक्त्यनुगतं सामान्यम्। एतदनुमानस्य विषयः। किलेत्यनङ्गीकारे। तदाहुः — उन्मीलितनेत्रस्य विकल्पोऽपि गौरयमित्यपरोक्षावभास एव प्रतीयते। न ह्ययं परोक्षापरोक्षविभागो विषयकृतः। यदि हि तथा स्यात् सर्वदैव सामान्यं परोक्षंस्यात्। न चैत्रमस्ति। सामान्याकारस्यापि परोक्षापरोक्षविभागदर्शनात्। तथा हि। श्वेतं स्वलक्षणं पश्यन् अनिर्धारितगवाश्वजातिविशेषः हेषाशब्दश्रवणादश्वत्वं तस्मिन्नेव स्वलक्षणे अनुमिमानोऽपि परोक्ष बुद्ध्यते। वदन्ति हि 'अश्वोऽप्ययं न चक्षुषा तथाऽवभासते' इति। प्रत्यासन्नस्तु वदति 'संप्रत्यश्वत्वमप्यस्य चक्षुषा पश्यामि न पूर्वम्' इति। स्वलक्षणं तु प्रागपि
-
-
 
 शदमेवेति सामान्यांशगत एवायं दूरसमीपवर्तिनः परोक्षापरोक्षाविभागः। तस्मात् कारणकृतोऽयं विभागः — इति॥५॥
 
@@ -4642,8 +4151,6 @@ D. T. T.
 
  किञ्च यदि जात्यादयोऽर्थाअपोह्यन्ते अपहृयन्ते क्व तर्हि प्रत्यक्ष-
 
-
-
 विज्ञानस्य वृत्तिः। कस्मिंश्चिदर्थे वृत्तिर्हि ज्ञानस्य नियता। निर्विषयज्ञानाप्रसिद्धेः। जातिगुणक्रियाद्रव्यात्मा च सर्वो विषयो भवद्भिर्नेष्यते। तथा क्वविशेषः व्यावृत्तिश्च कुत्र भवेत्। सति हि प्रत्यक्षविषये घटत्ववति द्रव्ये तस्य घटत्वेन पटाद्यावृत्तिर्भवेत्। यदि तदेव नास्ति घटं पश्यामि न पटमिति प्रत्यक्षगम्यो विशेषः कुत्र भवेत्। अपि च घटज्ञानस्य पटज्ञानाद्विशेष एव कुतः। उभे अपि हि प्रत्यक्षे अर्थसामान्यशून्ये। तेन विषयकृतो विशेषस्तावन्नास्ति। न च केवलयोर्ज्ञानस्वरूपयोः खतो विशेषः कश्चित् सुवचः। सर्वविषयविरक्तत्वेनोभयोः स्वच्छत्वसाम्यात्। यद्वा क विशेषः विषयाभावे ज्ञानानां घटज्ञानं पटज्ञानमिति विशेषः किंकृतः। कुतश्च सः न हि विषयातिरिक्तः कोऽपि विशेषहेतुरस्तीति द्रष्टव्यम्॥७॥
 
  ननु यद्यपि भावरूपमर्थस्वरूपं किमपि नास्ति तथाऽपि अन्यापोहरूपं तदस्माकस्त्येव। उच्यते—
@@ -4652,8 +4159,6 @@ D. T. T.
 अवस्तुकं चेद्वितथं प्रत्यक्षं तत्त्वत्वृत्ति हि॥८॥
 
 जात्याद्यपोहेषु च तथा प्रत्यक्षवृत्त्यास्पदेषु, सा जातिर्बुद्धिगोचरा सती सिद्धा भवति। गुणादयश्च। गौरित्यत्र हि अगोव्यावृत्तिरपोह इत्युच्यते। अगोव्यावृत्तिश्च गोभिन्नभेदः। गौश्च गोचवती। तेनायमपोहा गोत्वमप्रतीत्य न प्रत्येतुं शक्यते। यदि च प्रतीयते प्रत्यक्षप्रमागोचरीकृतत्वादस्त्येव सा ; न तु नास्ति \। अथ चेदुच्यते — वितथमयथार्थमिदं विज्ञानम्। अवस्तुकं निर्विषयकं हि तत्। न हि गोत्वं परमार्थसत्। तच्चेदं विषयीकरोति। तस्मादवस्तुकं वितथम्। न च वितथः प्रत्ययो वस्तुसाधनायालमिति —तन्न। तत्त्ववृत्ति यथार्थविषयं हि भवतामपि प्रत्यक्षम्। प्रमाणस्य हि भवद्भिरपि विभागः क्रियते प्रत्यक्षमनुमानमिति। तस्य कथमिदानीं वैतथ्यमुच्येत॥८॥
-
-
 
  स्यादेतत्। वस्त्वभावेऽपि एका ज्ञानस्य व्यक्तिर्ग्राहिका अपरा ग्राह्या। गोत्वन गोचरीभवन्तीमिमां ग्राहिका गृह्णाति गौरिति। तदुपपन्नं विज्ञानम्। न चार्थाभ्युपगम इति। अत्रोच्यते—
 
@@ -4672,8 +4177,6 @@ D. T. T.
 
 अन्यथा घटविज्ञानमन्येन व्यपदिश्यते॥१०॥
 
-
-
 घटज्ञानमिति तावत् किञ्चिद् ज्ञानंघटेन व्यपदिश्यते प्रतिपाद्यते। न च तद्धटाज्जातम्। किं तर्हि।अन्यथा अन्यस्मात् घटभिन्नाद्वस्त्वन्तरात्। किं पुनस्तद्वस्त्वन्तरम्। रूपादिकमेव। कुतस्तु खलु घटादेव तस्योत्पत्तिर्नेष्यते। घटस्याभावात्। तदेतदुपपादयन्ति—
 
 "रूपादिपरमाणव एव निरन्तरोत्पादाः परमार्थसन्तो भिन्नाः स्वविज्ञानस्याविकल्पस्य जनकाः। तेषां तु नानात्वं स्वेन रूपेण संवृण्वती निर्विकल्पकपृष्ठभाविनी घट इति विकल्पिक बुद्धिस्तानेव रूपादीनेकोदकाहरणादिक्रियाकारिणोऽभेदिन इव दर्शयन्ती संवृतिरित्युच्यते" इति तदेवं घटविज्ञानं अन्यथा भवति ; अन्येन च व्यपदिश्यते। तद्वारणाय तत एवार्थाद्यद् भवति तत्प्रत्यक्षमित्युक्तमिति।
@@ -4691,8 +4194,6 @@ D. T. T.
 तद्विदां नान्तरीयार्थदर्शनं चापरे विदुः॥११॥
 
 अत्र औद्योतकरं वचः —अपरे तु ब्रूवते नान्तरीयकार्थदर्शनं तद्विदोऽनुमानमिति। योऽर्थोयमर्थमन्तरेण न भवति स नान्तरीयकः नान्त-
-
-
 
 यिकश्चासावर्थश्चेति नान्तरीयकार्थः तस्य दर्शनं तद्विदोऽनुमानं यस्तं वेद तन्नान्तरीयकोऽयमिति — इति।
 
@@ -4715,8 +4216,6 @@ D. T. T.
 तदर्थादीन्विरुणद्धीति तदर्थादिविरोधिनी। इत्येवंप्रकारैः सा प्रतिज्ञा दुष्यतीति योज्यम्॥१३॥
 
   तदर्थविरोधिनोत्येतद्विवृण्वन्नेवेोदाहरति—
-
-
 
 तृयैव हि तदर्थस्य विरोधकरणं यथा।  
 यतिर्मम पिता बाल्यात् सूनुर्यस्याहमौरसः॥१४॥
@@ -4747,8 +4246,6 @@ D. T. T.
 
 ......... विनश्वर एवेति सिद्धान्तः॥ एतच्छेषतयाऽपि पूर्वश्लो-
 
-
-
 को योजयितुं शक्यते। विवादो वादिनोर्मिथोजायते। तत्र स्वसिद्धान्तविरोधित्वे तद्विरोधिनीति। पूर्वैव तु योजना साधीयसी॥१७॥
 
  अथ सर्वागमविरोधिनी—
@@ -4764,8 +4261,6 @@ D. T. T.
 प्रसिद्धधर्मेति मता श्रोत्रग्राह्योध्वनिर्यथा॥१९॥
 
 सन्दिग्धार्थनिर्णयाय हि अनुमानप्रवृत्तिः। यदाहुः साध्यसंशयः पक्षतेति। तत्र आबालगोपालप्रसिद्धार्थप्रतिज्ञा निष्फलत्वात् दुष्यति। शब्दस्य श्रोत्रग्राह्यत्वं च सर्वजनंप्रसिद्धम्॥१९॥
-
-
 
  अथ प्रत्यक्षबाधीनी—
 
@@ -4793,8 +4288,6 @@ D. T. T.
 
 अभिन्नलक्षणः पक्षः फलभेदादयं द्विधा॥२२॥
 
-
-
 सत्यमेको धर्मी। विशेषणभूतधर्मभेदमादाय तु विशिष्टभेद इहोच्यते ; नित्यत्वविशिष्टः शब्द एकस्य वादिनः पक्षः अनित्यत्वविशिष्टः शब्दोऽपरस्य। तद्युक्तं द्वयोः स्वपक्षपरपक्षयोरिति॥२२॥
 
 ननु स्तामेवं द्वौ पक्षौ। तथापि द्वयोर्युगपदुपादाने को निर्बन्धः। यः प्रथमं प्रतिजानानः स्वपक्षपरिग्रहं करोति तदीये तस्मिन् पक्षे स हेतुरस्ति न वेत्येतावन्मात्रं हि विचार्यम्। किं पक्षान्तरे तस्य सदसद्भावचिन्तया। अत्रोच्यते—
@@ -4812,8 +4305,6 @@ D. T. T.
 व्याख्याता पार्थसारथिश्च — दर्शनादिति। वादिप्रतिवादिनोरेकस्य द्वयोर्वा संशयाज्ञानविपर्यया यस्मिन् सोऽनिश्चितत्वादसिद्धोऽनेन व्युदस्यते। .... .... कृतकत्वेति। शब्दानित्यत्वे हि यदेव(?) मीमांसकं प्रति वैशेषिकादिभिः कृतकत्वगुणत्वादिकं हेतुत्वेनोच्यमानं प्रतिवादिनोऽसिद्धम् : तदेव मीमांसकनोच्यमानं वाद्यसिद्धमिति — इति।
 
  यदि वादिना कृतायां प्रतिज्ञायां परपक्षॊनोपादेयः हेतोश्च तत्र वृत्तिर्नोदाहार्या कथमेवमन्यतरासिद्धहेत्वाभासाभ्युपगमः प्रामाणिकानाम्। उभयत्र सिद्ध्यपेक्षासत्त्वे हि अन्यतरासिद्धिर्दोषॊभवेत्। तस्माद्युक्तमुक्तं सन्द्वयोरिति॥२३॥
-
-
 
  अथ 'सदृशे सिद्धः' इति कोऽर्थः। उच्यते—
 
@@ -4839,8 +4330,6 @@ D. T. T.
 
 इति द्वयैकानुगतिव्यावृत्तिर्लक्ष्मसाधुता॥२५॥
 
-
-
 इति उक्तविधा या द्वयैकानुगतिव्यावृत्तिः द्वयं पक्षः सपक्षश्च एकः विपक्षः द्वयं च एकश्च द्वयैकौ अनुगतिसहिता व्यावृतिः अनुगतिव्यावृत्तिः द्वयैकयोरनुगतिव्यावृत्तिः सा लक्ष्मसाधुता लक्ष्मणः हेतुलक्षणस्य साधुत्वप्रयोजिका। तत्प्रयोजके तच्छब्दः। 'व्यावृत्तेर्लक्ष्मसाधुता' इति वा पठनीयम्। पाठान्तरं वा समञ्जसतरमिहान्वेष्टव्यम्॥२५॥
 
  अथ दृष्टान्तहीनम्। तत्र दृष्टान्तस्तावत् द्विविधः —
@@ -4861,8 +4350,6 @@ D. T. T.
 
 यत्र हेतोः साध्यनिरूपिता अन्वयरूपा व्याप्तिर्गृह्यते यत्र हेतुरस्ति तत्र साध्यमप्यस्तीति, स एको दृष्टान्तः। यत्र तु साध्याभावे हेतोर्नास्तिता व्यतिरेको गृह्यते सोऽन्यो दृष्टान्त इत्येवंविधो द्वेधा दृष्टान्त इत्यन्यैरुच्यते।
 
-
-
 किलेत्वनास्थायाम्। परं प्रति प्रयोगकाले साध्यसाधनवत्तया सिद्धत्वमेव दृष्टान्तस्यापेक्षणीयम्। न व्याप्तिग्राहकत्वमपीति॥२७॥
 
  'प्रतिज्ञाहेतुदृष्टान्तहीनम्' इति यदुद्दिष्टं तन्निरूपणप्रवृत्तेन एवं प्रतिज्ञाहेतुदृष्टान्ताः साभासाः प्रदर्शिताः। अथेदानीमनुमानप्रकरणकार्त्स्न्याय अनुमानदूषणमपि संगृह्य प्रतिपादयति—
@@ -4880,8 +4367,6 @@ D. T. T.
  वस्तुतोऽदूषणानि दूषणवदाभासन्त इति दूषणाभासाः। तेषां जातिरिति संज्ञा। सेयं साधर्म्यसमा, वैधर्म्यसमा, इत्यादिभेदात् चतुर्विंशतिविधेति न्यायदर्शने पञ्चमाध्याये प्रथमाह्निके विस्तरः॥२९॥
 
  एवं हेतुन्यायलवोच्चयोऽकारि। अथास्य काव्येषूपयोगः प्रदर्शनीयः। तत्रैतदादौ विवेक्तव्यम् — एवंविध एक एव न हेतुन्यायः काव्येषु। कि-
-
-
 
 त्वन्यादृशोऽपि। स वक्ष्यते। शास्त्रगर्भत्वेन अन्यादृशत्वेन च द्विविधेषु काव्येषु अद्यराशौ निरूपितस्य शस्त्रीयस्य हेतुन्यायस्योपयोगः। द्वितीयराशौ वक्ष्यमाणविधस्य हेतुन्यायस्य — इति। तदेतदाह—
 
@@ -4909,8 +4394,6 @@ D. T. T.
 
  प्रतिज्ञाहेतुदृष्टान्तसमुदायात्मनो न्यायस्य प्रयोगे ये दोषाः सम्भवन्ति तेषां लक्ष्म लक्षणं प्रदर्शितया रीत्या अन्यथा वक्ष्यमाणवैलक्षण्येन शास्त्रेषु उक्तम्।
 
-
-
 कस्मै प्रयोजनाय। सन्धादिसाधनासिद्ध्यै। सन्धा प्रतिज्ञा आदिर्यस्याः तादृशीया साधना साध्यतेऽनया तत्त्वार्थ इति साधना प्रतिज्ञादिसमुदायात्मा
 न्यायः तस्याः सिद्ध्यै सुव्युत्पत्त्यै। प्रमेयं प्रति विवादे जाते परार्थानुमानरूपन्यायप्रयोगेण हि तत्सिद्धिर्भवति। तत्र सम्भावितदोषापरिज्ञाने कथं समीची साधना प्रयुज्येत। असमीचो वा परप्रयुक्ता दूष्येत। तदेतत्प्रयोजनाय प्रयोगदोषलक्षणं शास्त्रेष्वन्यथा प्रतिपादितम्॥३२॥
 
@@ -4928,8 +4411,6 @@ D. T. T.
 
  यदुक्तं भ्रान्तिसिद्धोऽप्यर्थो लोकव्यवहारे दृश्यते, शास्त्रं तु तत्र तत्त्वं
 
-
-
 असिसङ्काशमाकाशं शब्दो दूरानुपात्ययम्।  
 सदैव वारि सिन्धूनामहो स्थेमा महार्चिषः॥
 
@@ -4941,8 +4422,6 @@ D. T. T.
 
 **इष्टकार्याभ्युपगमं प्रतिज्ञां प्रतिजानते।  
 धर्मार्थकामकोपानां संश्रयात् सा चतुर्विधा॥३५॥**
-
-
 
 स्वस्य परस्य वा इष्टं यत्किञ्चित् कार्यं तस्य इदमहं करिष्यामीति सङ्कल्पः प्रतिज्ञेति लक्षणम्। निमित्तभेदात् सा चतुर्विधा। धर्मर्थिकामकोपाश्चत्वारि निमित्तानि। तेन धर्मनिमित्ताऽर्थनिमित्ता कामानिमित्ता कोपनिमित्तेति तस्याश्चतुर्विध्यमिति विभागः॥३५॥
 
@@ -4978,8 +4457,6 @@ D. T. T.
 
 ....... प्रतिज्ञायाः प्रयोगो न कथञ्चन।
 
-
-
 विषयप्रवणानां सुकुमारमतीनामपि रञ्जनाय हि काव्यं प्रवर्तते। तत्र वरलैकाधिकारिकतुरीयपुमर्थप्रधानं काव्यं न तद्धृदयाराधनाय कृल्पेत। एकद्वास्तत्र रसिका भवेयुर्न वा। तस्मादुक्तेभ्यश्चतुर्भ्योनिमित्तेभ्योऽन्यत्र प्रतिज्ञाप्रयोगो न युक्तः। यद्वा एवं द्रष्टव्यम् — ये पुरुषार्थत्वेनातिगम्भीरा विषयाः तन्निमित्तैव प्रतिज्ञा प्रयोज्या न पुनः इमां कुल्यां तरिष्यामि इमां शाखां वृक्षस्य छेत्स्यामीति क्षुद्रविषयाम्। काव्योत्कर्षानाधायकत्वात्—इति।
 
  अथैवंविधायाः काव्यप्रतिज्ञाया दोषमाह—
@@ -5001,8 +4478,6 @@ D. T. T.
 कृत्वा सन्धां शकुनिना दिदेवेत्यर्थवाधिनी॥४२॥
 
 ननु कृतायाः प्रतिज्ञायाः परित्यागो दोष इत्युक्तम्। न चात्र तथा। यथाप्रतिज्ञं युधिष्ठिरस्यानुष्ठानात्। सत्यमेवमेतत्। किं तु परित्यागः स्वरूपेण दोषावह इति न ग्रहीतव्यम्। अपि तु अवश्यं प्राप्तव्यतया निश्चितस्यार्थस्य अप्राप्तिहेतुत्वात्। एवं च प्राप्तव्यतयाऽध्यवसितस्यार्थस्याप्राप्तावपि यदि दोषॊभवति किमु वक्तव्यं प्राप्तस्यार्थस्य विनाशे। तेन स्थि-
-
-
 
 तार्थविनाशकारिणीयं प्रतिज्ञा सुतरां दुष्यतीति॥४२॥
 
@@ -5031,8 +4506,6 @@ D. T. T.
 
  अथेदानीं 'सन्धाभ्युपगमाद्विना' प्रतिज्ञायाः कण्ठरवेण प्रयोगं विना भवन्ती 'अभ्युपगमप्राप्तिः' आर्थी प्रतिज्ञा प्रदर्श्यते। का सा। उच्यते। यत्र शब्देन साक्षादनभिहितमपि विवक्षितस्यार्थान्तरस्याभ्युपगमं अभिहितार्थसामर्थ्यादेव प्रत्याययति तत्रेयमभ्युपगम-प्राप्तिर्द्रष्टव्या॥४५॥
 
-
-
   यथा—
 
 किमिन्द्रियद्विषा ज्ञेयं को निराक्रियतेऽरिभिः।  
@@ -5053,8 +4526,6 @@ D. T. T.
 
 काव्येष्वपि न परं शास्त्रेषु। त्रिलक्ष्मैव त्रिरूप एव। विदुषामिष्टः।
 
-
-
  कस्मात् \। अन्वयव्यतिरेकावेव हि साध्यसिद्धिकरौ। अन्वयव्यतिरेकाभ्यामवगता व्याप्तिरित्यर्थः। व्याप्यव्यापकभावविरहे हि केनचिदर्थेन अर्थान्तरस्य निश्चयो दुर्लभः। तेन काव्येऽपि सपक्षासत्त्वं विपक्षासत्त्वं च हेतोरपेक्षणीयमिति॥४७॥
 
   सोऽयमुदाह्रियते—
@@ -5072,8 +4543,6 @@ D. T. T.
  सत्यं क्रूजनं सौरभंच न पक्षस्य प्रदेशस्य धर्मः अपि तु ततो भिन्नानां कुररीणां कमलानां च धर्मः। अथापि सम्बन्धोऽस्तयेव पक्षस्य कूजनादेश्च। कोऽसौ सम्बन्धः। स्वाश्रयकुरर्याद्यधिकरणत्वमिति गृह्यताम्। कूजन्तो हि कुरर्यस्तस्मिन् प्रदेशे वर्तन्ते। तस्मात् प्रणालिकया कूजनमपि तत्सम्बद्धमेव। तेनायं कूजनादिधर्मः तस्य सरसः सिद्धिमनुमितिं जनयति। अभ्रंकषात् धूमात् जायमानां साग्नेःप्रदेशस्यानुमितिं स धूमो यथा जनयति तद्वत्। आकाशे धूमो दृश्यते। स तत्र दृष्टः अधो विद्यमानस्य वह्निमत्प्रदेशस्यानुमितिं जनयतीति प्रसिद्धम्। तत्र धूमस्य कथं पक्षवृत्तिस्वमिति चेत् प्रणालिकया वाच्यम्। तथैव प्रकृतेऽपीति। धूमादभ्रंकषादित्यत्र प्रथमान्तत्वमुचितम्। किं तथा पाठोऽस्तीत्यन्वेष्टव्यम्॥४९॥
 
 --......-यधिकरणभेदात्। तत्र व्यधिकरणो द-
-
-
 
 र्शेतः। कूजनात् सौरभादिति पञ्चम्यन्तनिर्देशात् पक्षवाचकपदसामानाधिकरण्याभावात्। अथ समानाधिकरणः प्रदर्श्यते—
 
@@ -5095,8 +4564,6 @@ D. T. T.
 अज्ञानसंशयज्ञानविपर्ययकृतो यथा॥५२॥
 
  यथा शास्त्रहेतोः तथा काव्यहेतोरपीति अपेरर्थः। प्रागुक्ताः 'हेतुस्त्रिलक्षणो ज्ञेयो हेत्वाभासो विपर्ययात्' इति। पक्षवृत्तित्वाभावे अज्ञानकृत्। विपक्षावृत्तित्वाभावे संशयात्मकज्ञानकृत्। सपक्षवृत्तित्वाभावे साध्याभावज्ञानरूपविपर्ययकृत्॥५२॥
-
-
 
  तत्राज्ञानसंशयज्ञानकृतौ चथा—
 
@@ -5124,8 +4591,6 @@ D. T. T.
 
  सदृशवस्त्वन्तरनिर्देशात्मा योऽयं दृष्टान्त उक्तः सोऽनुमानानामिति तावत् स्थितम्। अस्ति चैवमुपमायां सदृशवस्त्वन्तरनिर्देशः। तेन साऽनुमैव भवितुमर्हति। अनुमानाङ्गभूतो दृष्टान्त एवेत्यर्थः।
 
-
-
  तत्समाधीयते —
 
 न त्वमभिधानतः॥५५॥
@@ -5152,8 +4617,6 @@ D. T. T.
 
 इहकलावपीत्यनुवादः पापभूयिष्ठेऽपि काले धार्मिकोत्तम इति स्तुतये कार्तयुगानां पुरुषाणां दृष्टान्तत्वेन पक्षस्य प्रकृतस्य राज्ञस्तदन्यकालत्वसिद्धये च। भवानिति पक्षः। श्रेयस्त्वं श्लाघ्यगुणशीलवत्त्वं साध्यम्। वृद्धानुशिष्टत्वं हेतुः। यथा कृतयुगे स्थिताः प्राञ्च इति दृष्टान्तः। इत्येवंविधस्य न्यायवाक्यस्य साध्यं साधनं च यथाऽस्ति तथा मुखं पद्ममिवेत्यत्र
 
-
-
 किं साध्यमस्ति किं साधनमस्ति। न किञ्चित्। तेन नामुमानमिति पूर्वेण योज्यम्॥५७॥
 
  इति उपात्तसाध्यसाधनोदृष्टान्तः प्रदर्शितः। अनुपात्तसाध्यसाधनं शुद्धदृष्टान्तं प्रदर्शयति—
@@ -5177,8 +4640,6 @@ D. T. T.
 
 यदि विशिष्य किञ्चित्साध्यं साधनं च निर्दिश्येत तर्हि तन्मात्रं सिद्ध्येत्। दृष्टान्तवृत्तिगुणान्तरं न सिद्ध्येत्। तदर्थं पुनः साध्यान्तरसाधनान्तरप्रयोगे विस्तर आपद्येत। अतो विस्तरात् बिभ्यतो विचक्षणा एकं दृष्टान्तपदमात्रंप्रयुञ्जते। तेन हि श्रुतेन दृष्टान्ते यावन्तो गुणाः सन्ति ते सर्वे तस्तद-
 
-
-
 गुणहेत्वनुसन्धानेन सहृदयैः प्रकृते विज्ञातुं शक्यन्ते। अन्वयादिस्तु, इति रतस्त्वमित्यादिररीत्या विस्तरभीरवः केचित् सन्तः प्रयुञ्जते। कस्मैफलाय। कस्य प्रकृतस्य ते दृष्टान्तवर्तिनः सर्वे गुणा एकपदेनैव दृष्टान्तवाचकेन कथं व्यज्येरन् प्रकाश्येरन् इत्यस्मै फलायेति॥६०॥
 
  तुरीयपरिच्छेदोपक्रमे निर्दिष्टेषु दोषेषु अन्त्यद्वयवर्जमन्यान् सर्वास्तत्रैव निरूप्य तद्द्द्वयनिरूपणमेतत्परिच्छेदार्थतया प्रत्यज्ञायि अथ प्रतिज्ञाहेत्वादिहीनं दुष्टं च वर्ण्यते' इति। तत्राद्यं प्रतिज्ञादिहीनमियता प्रबन्धेन यरूपि। अथान्त्यंदुष्टंप्रदर्शयन् कवीनां तत्परिहारेऽवधानसम्पत्तये निन्दार्थवादमाह—
@@ -5194,8 +4655,6 @@ D. T. T.
 काव्यं कपित्थमामं यत् केषांचित् तादृशं यथा॥६२॥
 
 केषांचित् कवीनां काव्यं अहृद्यं सहसा हृदयमप्रविशत्, असुनिर्भेदं विदुषामपिसुखेन भेत्तुं अवगाहितुमशक्यम्, अत एव रसवत्वेऽपि अपेशलं अनधिगतशोभं सत् यत् अमिअपक्वंकपित्थफल तादृशं भवति॥६२॥
-
-
 
  यथा—
 
@@ -5222,8 +4681,6 @@ D. T. T.
 
 पूर्वनिर्देशक्रमेणेह मणिवृक्षकुसुमानां चित्रचारुविभूषितशब्दैरलङ्कारकत्वाभिधानमिति द्रष्टव्यम्॥६५॥
 
-
-
  ननु कोऽत्र दोषः। उच्यते—
 
 तदेभिरङ्गैर्भूयन्ते भूषणॊपवनस्रजः।  
@@ -5243,8 +4700,6 @@ D. T. T.
 एलातक्कोलनागस्फुटवकुललताचन्दनस्पन्दनाढ्यो  
 मुक्ताकर्पूरचक्रागरुकमनशिलास्थासकव्याप्ततीरः।
 
-
-
 शङ्खव्राताकुलोऽन्तस्तिमिमकरकुलाकीर्णवीचीप्रतानो  
 दधे यस्याम्बुराशिः शशिकुमुदसुधाक्षीरशुद्धां सुकीर्तिम्॥६८॥
 
@@ -5261,8 +4716,6 @@ D. T. T.
 गुरुतरधियामखाराधं मनोऽकृतबुद्धिभिः॥६९॥
 
 पूर्वाचार्यग्रन्थापरिचये उच्छृंखलता। स्वयमपरितर्केऽनुवादमात्रविश्रान्तेः शुकसब्रह्मचारिता। अत उभयमादृतम्। न चैतावता मन्तव्यं सर्वमेतद्यथोक्तं ग्राह्यमिति। किं तर्हि। इहापरे प्रमाणं साध्वसाधुनिर्णयकृतः। कीदृशा अपरे। अभिज्ञाः न जडाः। अभिज्ञा अपि सन्तः सज्जनाः। दुर्जना हि रागद्वेषवशेन असन्तं दोषं गृह्णीयुः सन्तमपि न गुणम्। तथा-
-
-
 
 सन्तोऽपि प्रथितवचसः येषां वचः प्रथितं लोके सर्वतः प्रसृतम्,
 
@@ -5287,13 +4740,9 @@ D. T. T.
 
 **इति पञ्चमः परिच्छेदः॥**
 
-
-
 **अथ षष्ठः परिच्छेदः॥**
 
 ![](../books_images/U-IMG-1728118226Screenshot2024-10-05141952.png)
-
-
 
 इयमूर्मिरियं झंझा कथं नौर्मा बिभीहि भोः।  
 झंझोर्मीवपुषो तत्स्थं दयालुं पश्य देहिनम्॥
@@ -5317,8 +4766,6 @@ D. T. T.
 
 अयं खभावतो दुर्बलमतिर्जनः जातमात्रः पुरुषः। पदं वार्तिकम्। पारायणं भाष्यम्। रसातलं भूतलम्। धातव उणादयो गणाश्च ग्राहाः। ध्यानस्य पुनः पुनरनुसन्धानरूपस्य मननस्य ग्रहः दृढपरिग्रहः। धीरा अपि प्रान्तमेवावलोकितुमीशते। अमेधसामसुयाऽपि महतां गुणभूमानं
 
-
-
 ..। 'क्रुधद्रुहेर्थ्यासूयार्थानां यं प्रति कोपः' इति सम्प्रदानत्वं आव्यतिरिक्तस्थलेषु प्रायशो नाद्रियन्ते। तेन असूयितमितिकर्मणि। विषयतया अमेधःकर्तृकासूयाविशिष्टमिति क्लिष्टकल्पना \। ननु करेणुभिरर्णवस्योपभोगः। एकदेशविवर्तिरूपकान्तरमिदम्। वारपतित्वं व्याकरणस्य गम्यमिति केचित्। भवेदेतदेवं यदि उपभुक्तव्याकरणं विशेष्येत। व्याकरणार्णवस्तु विशेष्यते। तेनायमस
 
 \[:। अवगाह्य स्नात्वा वा तीरवनेषु विहृत्य वा उपभुज्यत इति ग्रही
@@ -5334,8 +4781,6 @@ D. T. T.
 .. यपि केषांचित् भायात् तथाऽपि 'रूपकादिरलङ्कारस्तस्यान्यैर्वघोदितः' इत्येतदपेक्षयैव 'शब्दाभिधेय ... ...इष्टं द्वयं तु नः' इत्यभिधानात् सौशब्द्यस्य तत्रान्तर्भावो नोचितः। अन्तर्भावे शब्दालङ्कारकरण एवास्य निरूपणीयत्वादिहासङ्गतिश्चेति बोध्यम्। यदपि— 'अथप्रतिज्ञाहेत्वादिहीनं दुष्टं च वर्ण्यते' इति प्रतिज्ञाय 'पदमेकं वरं साधु' इत्यादिना पञ्चमान्ते निरूपितस्य दुष्टस्य अवशिष्टनिरूपणमिह क्रियते। वक्ष्यति हि 'वक्रवाचां कवीनां ये प्रयोगं प्रति साधवः। प्रयोक्तुं ये न युक्ताश्च तद्विवेकोऽयमुच्यते' इति — इति; तदपि 'इति निगदितास्तास्ताः ....' इत्युपसंहृतत्वात् 'तस्य चाधिगमे यत्नः कार्यः' 'तद्विवेकोऽयमुच्यते' इत्यपूर्ववदुपक्रमाच्च चिन्त्यमिति ज्ञेयम्॥३॥
 
  एव स्तुतस्य व्याकरणस्याध्ययनं विधत्त
-
-
 
 तस्य चाधिगमे यत्नःकार्यः काव्यं विधित्सता।  
 परप्रत्ययतो यत्तु क्रियते तेन का रतिः॥४॥
@@ -5353,8 +4798,6 @@ D. T. T.
 
 मुख्यस्तावदयं न्यायोयत्स्वशक्त्या प्रवर्तते।  
 अन्य सारस्वता माम सन्त्यन्योक्तानुवादिनः॥६॥
-
-
 
 हि गौणमुख्यविभागः। तत्र स्वयं व्याकरणं कृत्स्नमधीत्य पदानां साधुभावं विविच्य अन्यानुपजीवनेन निष्कम्पप्रयोगकरणमित्ययं मुख्यः।एवं कर्तुमशक्तौ परोपजीवनमिति गौणः पक्षः। तत्र सति सम्भवे।पक्ष आश्रयणीय इत्ययमुपदेश इति। अन्यतः प्राप्तं सारस्वतं विद्य! अन्यसारस्वताः। सन्ति अप्रशस्ता इत्यर्थः॥६॥
 
@@ -5376,8 +4819,6 @@ D. T. T.
 
 प्रत्येकमसमर्थानां समुदायोऽर्थवान् कथम्।  
 वर्णानां क्रमवर्तित्वान्न्याय्या नापि च संहतिः॥९॥
-
-
 
 न हि वर्णाः प्रत्येकमर्थमभिदधति। शेषवैयर्थ्यापत्तेः। एवं प्रत्येकमसमर्थानां वर्णानां समुदाये कथं अर्थविशेषप्रत्यायनसामर्थ्यमाविर्भविष्यति। न हि अचेतनानां घटादीनां समुदाये चैतन्यं प्रादुःष्यात्। किंच वर्णानां समुदाय एव न सम्भवति। एकदेशकालावच्छिन्नत्वं हि समुदायः। न चैतद्वर्णेषु सम्भवति। क्रमवर्तित्वात्। घकाराकारटकाराकारा हि घटपदघटकाश्चत्वारो वर्णाः क्रमेणोच्चार्यमाणाः क्रमेण चतुर्षु क्षणॆषु एकैकशो वर्तन्ते। नत्वेकस्मिन् क्षणॆचत्वारोऽपि वर्तन्त इति तेषां संहतिः समुदायात्मना स्थितिः न न्याय्या न युक्तियुक्ता॥९॥
 
@@ -5401,8 +4842,6 @@ D. T. T.
 
  एषा उक्तविधा वः स्फोटवादिनां शब्दसम्बन्धिनी अतिरिक्तत्वनित्यत्वकल्पना निष्फला अङ्गीकारानर्हा। कस्मात्। अप्रामाणिकत्वात्। यस्मिन्विषये प्रत्यक्षमनुमानं वा सम्भवति तत्परमार्थतोऽस्तीत्यभ्युपगम्येत। न च
 
-
-
 अतिरिक्तेपद प्रत्यक्षमस्ति। अदर्शनात्। नाप्यनुमानम्। तानिरूपितव्याप्तिमतो हेतोः कस्यचिदभावात्। तस्मादपारमार्थिकं॥११॥
 
  एवमतिरेकवादिनः साक्षात् प्रतिबोधिताः। यद्यपि ते गृहीतग्राणअप्रामाणिकमपितं क्षं न परित्यजेयुः तथाऽपि स पक्षो लोकेन अपेक्षणीय इति प्रतिबोधयन् उक्तमेवार्थंसाभिनिवेशं भङ्ग्यन्तरेणाह—
@@ -5418,8 +4857,6 @@ D. T. T.
 व्यवहाराय लोकस्य प्रागित्थं समयः कृतः॥१३॥
 
 ..क् सर्गादौलोकस्य व्यवहाराय अन्योन्याभिप्रायप्रत्यायनाय समयः सङ्केत इत्थं कृतः। कथम्। एतावन्तः एतादृशक्रमविशिष्टा वर्णा तदर्थाभिधायि इति। खेति खकाराकारौ द्वौ वियद्वाचिनौ। परेति खकाराकाररेफाकाराश्चत्वारः तिग्मवाचिनः। तथा मेति द्वौवर्णौप्रतिषेधवाचिनौ लक्ष्मीवाचिनौ च। मालेति चत्वारः स्रग्वाचिनः। राज, जरा इत्युभयत्रापि यद्यपि वर्णाश्चत्वार एव तथाऽपिं क्रमभेदादर्थभेदः। तथा चेत्थंसङ्केतस्य गृहीतत्वे क्रमवर्तिनामेव वर्णानां श्रवणानन्तरं तादृशक्रमविशिष्टानामेव एकस्मृत्यारूढानामर्थप्रतीतिजनकत्वे न किश्चित् सङ्कटमिति
-
-
 
 यत्किञ्चित्प्रमाणागोचरस्फोटकल्पनाप्रयासोऽत्यन्तमनपेक्षित इत्यभिसन्धिः १३।
 
@@ -5437,8 +4874,6 @@ D. T. T.
 वाय्वादिसंयोगविभागसन्तानः यः शब्दजनक इति।
 
  एवं शब्दस्वरूपं स्थितम्। अथास्यार्थेन कीदृशः सम्बन्धः। तदेतत्पूर्वमेवोक्तं 'प्रागित्यं समयः कृतः' इति। गौतमोऽप्याह 'सामयिकत्वा-
-
-
 
 अर्थसम्प्रत्ययस्य' इति। अत्रान्ये विप्रतिपद्यन्ते। यथा ज्वलनस्य दा
 
@@ -5478,8 +4913,6 @@ D. T. T.
 अन्यापोहेन शब्दोऽर्थमाहेत्यन्ये प्रचक्षते।  
 अन्यापोहश्च नामान्यपदार्थापाकृतिः किल॥१६॥
 
-
-
 अन्ये बौद्धाः शब्दः अन्यापोहेन अर्थं प्रत्यायतीति वदन्ति। कोऽन्यापाहो नाम। पदार्थान्तरभेदः। गौरिति पदं न गोत्वावच्छिन्नं बोधयति किन्तु अगोभिन्नामित्युक्तं भवति॥१६॥
 
  किलेत्यनङ्गीकारः सूचितः तदाह—
@@ -5497,8 +4930,6 @@ D. T. T.
 शब्दानामर्थज्ञानं फलम्। तत्रैकस्य शब्दस्य एकमेवार्थज्ञानं फलम्। न तद्द्वयम्। आहुश्च सकृत् प्रयुक्तः शब्दः सकदेवार्थं गमयतीति। तथा सति कथं युष्माकं मते एकस्य शब्दस्य द्वे ज्ञाने फले उच्येते। अपवादः अपोहः व्यावृत्तिः भेदः। विधिः भावः गोत्वादिः। तयोर्ज्ञाने। फलद्वयोपपादनं रत्नकीर्तिकृतावपोहसिद्धौ द्रष्टव्यम्॥१८॥
 
  एवमेकस्य शब्दस्य फलद्वये अयुक्ते, अपोहो वा शब्दगम्यः गवादिर्वेति विमर्शे, उत्तरः पक्षो युक्तः न पूर्वः। कस्मात्। उक्तं हि प्राक् गोबुद्धेराकस्मिकत्वप्रसङ्ग इति 'जनको गवि गोबुद्धेर्मृग्यतामपरो ध्वनिरित्यनेन। अन्यच्चेदं द्रष्टव्यम्। — गामनवबुद्ध्य अगोभेदो न बोद्धुं शक्यः। अभावस्य प्रतियोगिनिरूपणीयत्वात्। तत्र यदि प्रथमं गोशब्दश्राविणां गोप्रतीति-
-
-
 
 नयति पुनस्तस्य अपोहबोधनाय प्रवृत्तौ नास्ति हेतुरिति निष्प्रमाणकं धायित्वं शब्दस्येति। तदिदमाह—
 
@@ -5527,8 +4958,6 @@ D. T. T.
 
 न सर्वे वर्णः तदा तदा उच्चरितप्रध्वस्ता भवन्ति। तथा सति एको शब्दः एको घटशब्द इति नास्ति। किं तु यथा घटशब्दगोशब्दौ मिथो भिद्येते तथैव अद्येह उच्चारिताः कालान्तरदेशान्तरोच्चारिताश्च गोशब्दा अन्योन्यं भिद्यन्ते। यथैव पदानि सावयवानि तदा तदा तत्तदवयवविनाशानुपातिविनाशानि अन्यान्यन्यानि भवन्ति तथैव वर्णा अपि सर्वानित्यत्ववादिनां तथागतानां मते स्वयमपि सावयवाः सन्तो विनश्यन्तीति अन्येऽन्ये भवन्ति। एवं सति अयं शब्दः अस्यार्थस्य वाचक इति चिरानुवर्तमानव्यवहारदर्शनाधीनः सङ्केतग्रह एव न निष्पत्तुमर्हतीति तेषां मते शब्दप्रमाणमार्गोऽतीव दुरधिगम इति॥२०॥
 
-
-
  एतावता निरूपितस्वरूपः शब्दोविभज्यते—
 
 द्रव्यक्रियाजातिगुणभेदात् ते च चतुर्विधाः।  
@@ -5551,8 +4980,6 @@ D. T. T.
 प्रयोक्तुं ये न युक्ताश्च तद्विवेकोऽयमुच्यते॥२३॥
 
 सामान्यव्यवहारे शब्दानां साधुत्वासाधुत्वे अन्यादृशे। अन्यादृशे च कवीनां वाचि। ते हि रससम्पत्तये शब्देऽर्थे च वक्रिमाणमाश्रयन्ति।
-
-
 
 अनुगुणं साधु भवति अननुगुणमसाध्विति। प्रयोगं प्रति प्रयोगा
 
@@ -5595,8 +5022,6 @@ D. T. T.
 
 अन्यथा अन्यादृशः अर्थः यस्य सोऽन्यथार्थः तस्य भावोऽन्यथार्थत्वम्। अर्थान्तरवाचित्वमित्यर्थः। अप्रतीतं अप्रसिद्धं अन्यथार्थत्वं यस्य तं शब्दं
 
-
-
 न प्रयुञ्जीत, तस्य धातोरनेकार्थत्वं धातुपरायणे पठितमित्येतावन्मात्रेण। लिश्यते अल्पीभवतीति लेशः स चासौ ज्ञापकश्च तेन आकृष्टं हठान्निष्पादितं च शब्दं न प्रयुञ्जीत। आद्योयथा — स हन्तीति। हनहिंसागत्योरित्यनेकार्थत्वं हन्तेः श्रूयते। तत्र हिंसार्थत्वं प्रसिद्धम्। गतिरूपार्थान्तरवाचित्वं त्वप्रसिद्धम्। एवमप्रसिद्धार्थवाचितयाऽयं शब्दः प्रयुज्यमानोऽसाधुरिति। प्रपूर्वश्लोके दृष्टान्तमात्रतया एतत्कथनमिति विभाव्यम्। 'संहति' इति तु पठ्यमानं न बुद्ध्यामहे। द्वितीयो यथा — ध्यातीति।  
 ध्यै चिन्तायामिति धातुः। अस्मात् तिपि शपि आयादेशे ध्यायतीति रूपम्। तत्र 'तनादिकृञ्भ्य उः' इत्यत्र तनादित्वादेव कृञोऽप्युप्रत्यये सिद्धे तस्य पुनः पृथग्ग्रहणं गणकार्यस्यानित्यत्वं ज्ञापयति। तेन 'अदिप्रभृतिभ्यः शपः' इति विहितस्य लुकोऽभावे अदाद्यन्तर्गत
 
@@ -5609,8 +5034,6 @@ D. T. T.
 
 ................................................................................
 
-
-
 ..थाऽपि प्रौढग्रन्थसामान्यस्य तदुपलक्षणमिति कृत्वा छान्दसप्रयोगो
 
 य... इत्यभिप्राय इति कैश्चिदत्रोक्तम्। वस्तुतस्तु 'छन्दोवत् कवयो
@@ -5618,8 +5041,6 @@ D. T. T.
 ... इति कवीन् प्रत्येव 'यूस्त्र्याख्यौ नदी' इति सूत्रे महाभाष्येउक्तमिति
 
 अभिसंहितमिति ज्ञेयम्॥२७॥
-
- 
 
 अयंनिषेधेनोक्तमर्थं विधिमुखेन सङ्कलयन्नाह—
 
@@ -5646,8 +5067,6 @@ D. T. T.
 इयं चन्द्रमुखी कन्या प्रकृत्यैव मनोहरा।  
 अस्यां सुवर्णालङ्कारः पुष्णाति नितरां श्रियम्॥३०॥
 
-
-
 'कर्तृकरणयोस्तृतीया' इति सूत्रे 'प्रकृत्यादिभ्य उपसंख्यानम्' इति वचनात्'प्रकृत्यैव मनोहरा' इति प्रकृतिशब्दात् तृतीया। 'सङ्घातविकारषष्ठ्याश्चोत्तरपदलोपश्च' इति वचनेन सुवर्णस्य विकारोऽलङ्कारो यस्य स सुवर्णालकार इति सिद्धेरेतदपि पदमिहोदाहरणं भवितुमर्हति। किं तु अलङ्कारस्यैवात्र प्राधान्यमिष्यते नान्यपदार्थस्येति बहुव्रीह्ययोगात् तस्योदाहरणत्वानुपपत्तिर्भाति॥३०॥
 
  एव सामान्यतोवक्तव्यमुक्त्वा, अथ विशेषेण विवक्षन् भगवता पाणिनिना प्रथमसूत्रेमङ्गलार्थमादौ प्रयुक्तं वृद्धिशब्दं स्वयमपि प्रयुञ्जानः वृद्धिकार्यवन्तं शब्दविशेषमादरणीयतयोपदिशति
@@ -5664,8 +5083,6 @@ D. T. T.
 
 सरूपशेषं तु पुमान् स्त्रिया यत्र च शिष्यते।  
 यथाऽह वरुणाविन्द्रोभवौशर्वौमृडाविति॥३२॥
-
-
 
 'पुमान् स्त्रिया' इति प्रथमाध्याये द्वितीयपादे सप्तषष्टितमं सूत्रम्। स्त्रिया सहोक्तौपुमान् शिष्यत इति तदर्थः। एवं यत्र विधीयते तं सरूपशेषंप्रयुञ्जीतेति योजना।इन्द्रस्य स्त्री वरुणस्य स्त्री इत्यादिविवक्षायां 'इन्द्रवरुणभवशर्वरुद्रमृडहिमारण्ययवयवनमातुलाचार्याणामानुक्' इति सूत्रेण आनु
 
@@ -5684,8 +5101,6 @@ D. T. T.
 
  यद्यपि 'पुमान्स्त्रिया' इति सूत्रात् प्रातिपदिकसंज्ञाविधायकसूत्रंपूर्वं पठ्यत इति एकशेषकथनात् प्राक् एतत्कथनं न्याय्यं तथाऽपि मार्जन्ति मृजन्तिइत्यनेकरूपवत् इन्द्र इन्द्राणीत्यनेकरूपस्य प्रथममुपस्थितत्वात् क्रमान्तरा-
 
-
-
 श्रयणमिति मन्तव्यम्। यद्वा सूत्रस्य प्रथमं स्थानं पश्चाद्वार्तिकस्येति॥३३॥
 
  अथ द्वितीयाध्यायविषयः। तत्रादौ अव्ययीभावसमासः। तद्विषयमिदं सूत्रं 'नाव्ययीभावादतोंत्वपञ्चम्याः' इति। 'अदन्तादव्ययीभावात् सुपो न लुक् ; तस्य पञ्चमीं विना अमादेशः' इति तदर्थः। 'अपदिशम्' इतीहोदाहरणम्। दिशयोर्मध्यमिति तदर्थः। अत्रैव सूत्रान्तरम्— 'तृतीयासप्तम्योर्बहुलम्' इति। अदन्तादव्ययीभावात् तृतीयासप्तम्योर्विकल्पेनाम्भावः स्यादित्यर्थः। अपदिश अपदिशेन; अपिदिशं अपदिशे। इत्युदाहरणम्। अपञ्चम्या इति पूर्वसूत्रे पर्युदासेन पञ्चम्या अम्भावाभावात् अपदिशादिति भवति। तथा च पञ्चम्या अम् नित्यं न भवति। तृतीयासप्तम्योर्विकल्पेन भवति। अन्यासां विभक्तीनां नित्यं भवतीति त्रैविध्यम्। तत्र तृतीयासप्तमीतरविभक्त्यादेशामन्तं काव्ये प्रयोक्तुमुचितम्। अरहिता पञ्चमी न प्रयोज्या ।तृतीयासप्तम्यौ अम्भावरहिते एव प्रयोज्ये इत्याह—
@@ -5701,8 +5116,6 @@ D. T. T.
 इत्येवंविधेन पाठान्तरेण भवितुं युक्तमिति प्रतिभाति॥३४॥
 
  अव्ययीभाव एव विशेषान्तरम्—
-
-
 
  अव्ययीभाव एव विशेषान्तरम्—
 
@@ -5731,8 +5144,6 @@ D. T. T.
 पञ्चराजीति च यथा प्रयुञ्जीत द्विगुं स्त्रियाम्।  
 नपुंसकं तत्पुरुषंपुरुहूतसमंयथा॥३८॥
 
-
-
 द्विगुं च स्त्रियां प्रयुञ्जीत। यथा पञ्चराजीति। पञ्चानां राज्ञां समाहार इति संख्यापूर्वत्वादयं द्विगुः। अत्र 'अतो नलोपश्च वा द्विगुः स्त्रियाम्' इति वार्तिकेन नलोपे, वैकल्पिके स्त्रीत्वे'द्विगोः' इति ङीपि पञ्चराजीति रूपम्। 'सभा राजाऽमनुष्यपूर्वा' इति सूत्रेण पुरुहूतसभमिति नपुंसकत्वम्॥३८॥
 
  अथ तृतीयाध्यायविषयः —
@@ -5750,8 +5161,6 @@ D. T. T.
 तृतीयैकवचस उदाहरणं बलभिदेति। 'क्वेप्च' इति क्विप्। रुगित्यत्र 'अन्येभ्योऽपि दृश्यते' इत्यनेन क्विप्। 'भ्राजभासधुर्विद्युतोर्जिपृजुग्रावस्तुवः क्विप्' इत्यनेन विद्युदिति। पदमात्रमिहोदाहृतं न वाक्यमिति ज्ञेयम्॥४०॥
 
  उदाहृते 'भ्राजभासे'ति सूत्रे भासतेरप्युपादानात् तस्यासन्तत्वेनान्येषामप्यसन्तानामुपस्थितेराह—
-
-
 
 असन्तमपि यद्वाक्यं तत् तथैव प्रयोजयेत्।  
 यथोच्यतेऽम्भसाभासा यशसामम्भसामिति॥४१॥
@@ -5771,8 +5180,6 @@ D. T. T.
 रतिस्वेदपरिश्रान्ता जहार हृदयं नृणाम्॥४३॥
 
 नवसङ्गमानन्तरं शय्यागृहान्निर्गतां प्रति सम्वीप्रभृतीनां जनानां जातां प्रीतिं श्रुत्वा प्रतिपादयतो वचनमिदम्। इभकुम्भनिभेस्तने कञ्चुकं धारितवती। दधुषीत्युदाहरणम्। दवातेर्लिटि क्वसौस्त्रीत्वम्॥४३॥
-
-
 
  णिज्विषये किञ्चिदाह—
 
@@ -5802,8 +5209,6 @@ D. T. T.
 
 इच्छन्तीत्यनुषज्यते। उक्तरीत्या णिज्विषयस्य सार्धश्लोकद्वयस्य भृशादिश्लोकानन्तरं निवेशने क्वसुश्लोकस्थं इच्छन्तिपदं सुखमिहानुषञ्जयितुं शक्यत इत्येतदपि दृश्यमानस्य क्रमस्य प्रामादिकत्वे क्रमान्तरस्यावश्यकत्वे च
 
-
-
 लिङ्गम्॥ ४६॥
 
  यथा—
@@ -5812,8 +5217,6 @@ D. T. T.
 हारिणी तनुरत्यन्तं कियन्न हरते मनः॥४७॥
 
 त्रिष्वपि लिङ्गेषु हारिशब्दइह प्रयुक्तः। सुन्दरत्वात् हारि। हारिशब्दार्थस्पष्टीकरणायैव कियन्न हरते मन इति। अत्र मीमांसन्ते। हरतेर्णिनिः केन शास्त्रेणशिष्यते। न तावत् 'सुप्यजातौणिनिस्ताच्छील्ये' इत्यनेन। सुबन्तोपपदापेक्षित्वात्। अत एव न 'बहुलमाभीक्ष्ण्ये' इत्यनेनापि। ताच्छील्यार्थत्वानुपपत्तेश्च। एतेन 'आवश्यकाधमर्ण्ययोर्णिनिः'इति णिच्सिद्धिरिति भट्टिकाव्यव्याख्यानकृता केनचिदुक्तमत्रन सङ्गतमिति वेदितव्यम्। यत्त्वन्येनोक्तंग्रहादित्वात् 'नन्दिग्रहिपचादिभ्यो ल्युणिन्यचः' इत्यनेन तत्सिद्धिरिति तदपि चिन्त्यमेव। ताच्छील्यार्थेतत्रविध्यभावात्। अव्याहारी, असंव्याहारी, अहारी, इति नञुपसर्गविशिष्टस्यैव तस्मिन् गणे पाटात्। पचादिवत् ग्रहादेराकृतिगणत्वानभिधानात्। द्वितीयपादीयप्रकरणस्थत्वेन प्रथमपादस्थनन्द्यादिशास्त्रप्राप्तणिनिपरतया वर्णनस्य ग्रन्थकाराभिप्रायविरुद्धत्वाच्चेति। तत्रैवं वाच्यम्। 'उणादयो बहुलम्' 'कुत्यल्युटो बहुलम्' इत्यसकृत् कृत्प्रकरणे भगवान् पाणिनिर्बहुलग्रहणं करोति। तत्तन्नात्रपरं न ग्राह्यम्। किन्तु सर्वेषामेव कृतां सर्वोपाधिव्यभिचारार्थमिति। तेन 'सुप्यजादौ' इत्यादिना विहितो णिनिः सुबुपपदाभावेऽपि हारीत्यादौ ताच्छील्ये भवति। 'बहुलमाभीक्ष्ण्ये' इत्यत्रवा बहुलग्रहणं सुबुपपदाभावेऽपि ताच्छील्येऽपि णिनिर्भवतीत्येतदर्थमिति। 'तवास्मि गीतरागेण हारिणा ....' इति महाकविना 'हारीण्यवलानां हारीण्यबलानां' इति चित्रसर्गे व्याकरणं प्राज्ञेन भट्टिना च प्रयुक्तस्य हारिशब्दस्य समर्थनमेवं क्रियमाणं काममभिनन्दनीयं विदुषाम्। 'न शिष्टैरुक्तमि-
-
-
 
 त्येव' 'शिष्टप्रयोगमात्रेण' 'न लेशज्ञापकाकृष्टम्' इत्यादि अभिनिविश्य कथयन्नाचार्यर्भामहः पुनः अत्र साक्षात् प्रतिषेधमकुर्वन् अर्धसम्मतिमेव करोतीति प्रतीयते। अत एवानादरसूचकं किलेत्येतदपि इच्छन्तीतिवत् क्वसुश्लोकादिहानुषज्यत एवेति। सुबुपपदकं वोदाहार्यम्॥४७॥
 
@@ -5832,8 +5235,6 @@ D. T. T.
 शाकारौजागुरिष्टौ च जागर्या जागरा यथा॥४९॥
 
 पूर्वमर्धमतिस्पष्टम्। 'जागृ' इति ऋकारान्तस्य पञ्चम्येकवचनं जागुरिति। शकारश्च अकारश्च उभौ अस्मादिष्टौ। 'इच्छा' इति सूत्रे 'जागर्तेरकारो वा' इति वार्तिकम्। अकाराभावपक्षे शः। अस्मिन् परे यक् भवति। उभयत्र स्त्रीत्वेऽदन्तत्वाट्टाप्। तत्र अकारे जागरेति रूपम्। शप्रत्यये जागर्येति॥४९॥
-
-
 
  'ण्यासश्रन्थो युच्' इति सूत्रविहितं युचमाह—
 
@@ -5869,8 +5270,6 @@ D. T. T.
 
 इष्ट इत्यनुषङ्गादिना सम्बध्यते। प्रत्ययानां पुंनपुंसकत्वमनियमेन स्थितम्। 'तेन दीव्यति खनति जयति जितम्' इति सूत्रस्यैकदेश इहोपात्तः 'तेन जयती'ति। अक्षैर्जयति आक्षिकः। शस्त्रेण जयति शास्त्रिकः॥५२॥
 
-
-
  इति चतुर्थाध्यायस्य विषयः। अथ पञ्चमाध्यायस्य—
 
 हितप्रकरणे णं च सर्वशब्दात् प्रयुञ्जते।  
@@ -5890,8 +5289,6 @@ D. T. T.
 
 'द्विवचनविभज्योपपदे तरवीयसुनौ' इति विहित ईयसुन् विशेषेणेष्यते तरबपेक्षया। विशेषेणेति पूर्वत्रापि सम्बध्यते। यथा ज्यायानिति। यद्यप्यत्र विभज्यमुपपदं न श्रूयते तथाऽपि स्वस्मात् कनीयसीं कन्यां ततो ज्यायानापेति लभ्यते। ननु तृतीयपादीयमेतत् द्वितीयपादीयात् परं स्थानमर्हति \।
 सत्यमेवमेतत्। किं तु 'तुरिष्ठेमेयःसु' इत्यादौइमनिच्साहचर्यात् तृतीयपादीयस्य विषयान्तरस्य वक्तव्यस्याभावाच्चेहैव एतदभिधानमिति ज्ञेयम्॥५४॥
-
-
 
  अथ द्वितीयपादीयम्—
 
@@ -5920,8 +5317,6 @@ D. T. T.
 
 अभ्यस्ताज्झेरदादेशे दधतीत्यादयोऽपि च।
 
-
-
 'अदभ्यस्तात्' इति सूत्रेण अभ्यस्तात् परे झिप्रत्यये झकारस्य अदादेशो विधीयते। तेन सिद्ध्यन्ति ये दधतीत्यादयः शब्दाः तेऽपि मनीषिभिरिष्टाः। जुहोत्यादिस्थो धाञ्धातुः। अस्माज्झिप्रत्यये 'कर्तरि शप्' इति प्राप्तस्य शपः 'जुहोत्यादिभ्यः श्लुः' इति श्लौ 'श्लौ' इत्यनेन धातोर्द्वित्वे अभ्यासस्य'हृस्वः' इति हृस्वे जशि 'श्नाभ्यस्तयोः' इति अनभ्यासावयवाकारलोपे दधतीति भवति। एवं ददति जुह्वति जक्षतीत्यादयः॥
 
  अपरिसमाप्त एव प्रथमपादविषये पूर्ववत् तिङ्विषयत्वात् द्वितीयपादस्थं किञ्चिदाह—
@@ -5936,8 +5331,6 @@ D. T. T.
 असौ दधदलङ्कारं स्रजं बिभ्रच्च शोभते॥५९॥
 
 जुहोत्यादयो जक्षित्यादयश्च अभ्यस्ताः। तेषां मध्ये यौ घुभृञौ ; 'दाधा घ्वदाप्' इति सूत्रेण दाधातोर्धाधातोश्च घुरिति संज्ञा। भृञ्'डुभृञ्धारणपोषणयोः' इति जुहोत्यादिः। घुश्च भृञ्च घुभृञौ तयोः सम्बन्धी यः शता शतृप्रत्ययः 'लटः शतृशानचावप्रथमासमानाधिकरणे' इति विहितः तत्सम्बन्धि अदन्तं प्रयोक्तव्यम्। यथा दधदित्यादि। दधदिति घोरुदाहरणम्। बिभ्रदिति भृञः। 'नाभ्यस्ताच्छतुः'इति सूत्रेणेह नुमो
-
-
 
 निषेधाददन्तत्वम्। अन्यथा पचन्नित्यादिवत् अन्नन्तत्वं स्यात्। अस्मिन् श्लोके द्वितीयपादे 'अदन्तं च विदेः शतुः' इति पठनमसमीचीनमिति ध्येयम्॥५९॥
 
@@ -5955,8 +5348,6 @@ D. T. T.
 सावर्ण्यवज्झयो हस्य ब्रूयान्नान्यत्र पद्धतेः॥६१॥
 
 अनुनासिकवर्जिता वर्गीया विंशतिर्वणी झय्। तस्मात् परस्य हस्य हकारस्य यत् सावर्ण्यं ‘झयो होऽन्यतरस्याम्' इति विहितं पूर्ववर्णसावर्ण्यं तद्विशिष्टं शब्दस्वरूपं पद्धतेरन्यत्र पद्धतिपदातिरिक्तं न ब्रूयात्। पद्धतिमात्रंप्रयोक्तुमुचितम्। नान्यत्। यथा 'अम्बराद्धिरण्यगर्भाङ्गभुवम्' इति माघे। अत्र 'सावर्ण्यवत्सयोभस्य' इति तृतीयपादपाठासामीचीन्यं स्पष्टम्। इदमप्यत्र बोध्यम्। शरछोटिसूत्रं चतुर्थे पादे त्रिषष्टितमम्। 'झयो होऽन्यतरस्याम्' इतीदं तस्याव्यवहितपूर्वंसूत्रम्। 'गतो यातः' इत्यादौ सस्य रुत्वविधायकं 'ससजुषोरुः' इतीदं पुनः सूत्रं द्वितीयपादस्थम्। तदत्र क्रमभेदो दृश्यते। 'नैकत्रौंकारभूयस्त्वं' इति श्लोकस्य पूर्वं, तदनन्तरं 'नतवर्गं शकारेण' इति श्लोकस्य च पाठेसुस्थितः क्रमो भवति। यद्वा
-
-
 
 पूर्वश्लोके 'विभ्रच्च' इत्यत्र तवर्गसन्धेरुपस्थित्या प्रथमनिरूपणम्। पश्चात् पादक्रमानुसरणम्। अथ वा वर्णसमाम्नायक्रमण प्रथम शकारसन्धिः। पश्चात् रुत्वविधिविषयसकारसन्धिः। ततः परं हकारसन्धिः। प्रथमपक्ष एव त्वत्रसमीचीनतम इति॥६१॥
 
@@ -5978,8 +5369,6 @@ D. T. T.
 
 पाणिनीयं मतं व्याकरणमित्यर्थः। अपरासां सर्वासां विद्यानामाश्रयः \।
 
-
-
 शब्दसन्दर्भमयत्वात् सर्वासां विद्यानाम् ; शब्दविवेकस्य चैतदधीनत्वात्। एवं तत्त्वेस्थिते'आश्रयः सर्वविद्यानाम्' इति वात्स्यायनस्य गौतमीयं प्रतिवचनं पक्षे पतित्वेति हृदयम्। अयमपरो विशेषो व्याकरणस्य यदिदं विद्यान्तरोक्तं यं कमप्यर्थं न प्रतिषेधति। स्फेटकल्पनं तु व्याख्यातृृणां दाषोन भगवतः पाणिनेः। विद्यान्तराणि पुनरन्योन्योक्तमर्थमाक्षिपन्ति तलातलि कुर्वत इति सार्वजनिकमेतत्। आभ्यां द्वाभ्यां विशेषाभ्यां व्याकरणं लोके सर्वेषां आदरणीयम्। अथापि न कस्यचिदपि प्रमाणमतीवादरणीयं भवति। कस्मात् ।माध्यस्थ्यादेव। विवदमानानां हि मध्ये यस्य पक्षे कश्चित् पतति स तावन्नूनं तमाद्रियेत, अन्येषु परिभाषमाणेष्वपि। यदि तु यस्य कस्यापि पक्षोन परिगृह्येत तर्हि सर्व एव उदासते। सेयं सत्यं शोचनीया स्थितिरिति। यद्वा व्याकरणं श्रद्धेयम्। कस्मात्। यस्मान्नकस्यचिदेकस्यैव पुरुषस्य कुलस्य दार्शनिकस्य वा तत्प्रमाणम् ; अपि तु सर्वस्य। कुतएतत्। माध्यस्थ्यात्। तत्तदभिमतार्थप्रतिषेधप्रसङ्गमन्तरा ताटस्थ्यावलम्बनादिति व्याख्येयम्॥६३॥
 
   अथ ग्रन्थोपसंहारः—
@@ -5990,8 +5379,6 @@ D. T. T.
 ग्रथितं रक्रिलगोमिसूनुनेदम्॥६४॥
 
 सत्कवीनां मतान्यवलोक्य, स्वधिया अवगम्य चेति 'बहुविधकृतीर्दृष्ट्वाऽन्येषां स्वयं परितर्क्य च' इति पूर्वोक्तवद् द्रष्टव्यम्। कीर्त्यनुवृत्तये स्वनामकथनम्। कृतज्ञतायै पितुः। ज्योत्स्नादिसुत्रेण गोमानित्यर्थे निपातितो गोमिन्शब्दः। प्रयोजनं सुजनावगमायेति। दूषणपरतया दुर्जनानामत्र प्रयोजनं मन्दमिति भावः। इदं काव्यलक्ष्म ग्रथित काव्यलक्षणप्रतिपादकोऽयं ग्रन्थः कृत इति॥६४॥
-
-
 
 नाग्नस्तृण दग्धुमभूत् समर्थो  
 यदाहितं न श्वसनोऽपहर्तुम्।  
@@ -6024,8 +5411,6 @@ D. T. T.
 तृतीयो नन्दनस्तस्य नन्दनेऽजनि वत्सरे।  
 आ जन्मनो मनो यस्य निवृत्तमसतः पथः॥
 
-
-
 परिचितपदमार्गो योऽवगाढप्रमाणः  
 परममहति वाक्याम्भोनिधौ दूरमग्नः।  
 स्वधिगतानिगमान्तः साहितीसारवित्तः  
@@ -6052,8 +5437,6 @@ D. T. T.
 उद्यानवृत्तिः।
 
 ![](../books_images/U-IMG-1728313584Screenshot2024-10-07203547.png)
-
-
 
 वृत्तिपरिशिष्टम्॥
 
@@ -6083,8 +5466,6 @@ I. 9 शब्दच्छन्दोऽभिधानार्थाः।
 
 I. 12 'नाकवित्वमधर्मीय' इति बहुत्रदृष्टः पाठः आदर्तुमुचित इति कविवर य. वरदाचार्याः। तथा सति — अकवित्वं अधर्माय व्याधये दण्डनाय वा न भवति। कुकवित्वं पुनः न परमेतेभ्योऽनिष्टेभ्यो भवति ; अपि तु मरणात्मकमहत्तरानिष्टात्मकमिति व्याख्यातव्यम्।
 
-
-
  I. 50. 'युक्तं वक्रस्वभावोक्त्या' इत्येतद्विवरणावसरे उदाहृते हेमचन्द्रग्रन्थखण्डे 'सोऽन्यालङ्कारगोचरः' इति स्थितंपाठं कृत्वा व्याचक्ष्महि। 'अलङ्कार्यतया तेषां किमन्यदवशिष्यते' इति स्वभावोक्त्यनङ्गीकारमतसमाधानप्रवृत्तत्वादत्र 'सोऽन्योऽलङ्कारगोचरः' इति पठितुं युक्तमिति न्यायमीमांसाशिरोमणि श्री पञ्चापगेशशास्त्रिणः।
 
   II. 70. **"को वा हेतुरनार्याणां धर्म्ये वर्त्मनि वर्तितुम्।"**
@@ -6094,8 +5475,6 @@ I. 12 'नाकवित्वमधर्मीय' इति बहुत्�
 ** **II. 87. **'इत्येवमादिकं काव्यं वार्तामेनां प्रचक्षते।'**
 
 इति पठित्वा स्वभावोक्तिप्रभेदरूपो वार्तानामाऽलङ्कारविशेष इहोक्त इति मत्वाभट्टिकाव्ये साक्षादतिशयोक्त्युदाहरणीभूतं श्लोकं एतदलङ्कारोदाहरणतया व्याचक्षाणौ जयमङ्गलादिव्याख्याकारौ अतिस्थूलदृश्वानाविति सुधीभिर्विभाव्यम्।
-
- 
 
 III\. 9.
 
@@ -6107,8 +5486,6 @@ III\. 9.
  IV. 24. **'विचार्य सर्वतो दृष्टिं कानने काननप्रियः।'** इति श्रीमति रामायणे 'विशेषेण चारयित्वा' इत्यर्थे 'विचार्य' इति प्रयुज्यते। न तु 'विमृश्य' इत्यर्थे। तद्वदिह' विचारणा' इति विभज्य घटनायां प्रयोगः।
 
  V. 6. **'कल्पनां नामजात्यादि....**' इति युक्तं मूलग्रन्थानुरोधादिति महामहोपाध्याय-विद्यावाचस्पति-श्रीकुप्पुस्वामिशास्त्रिचरणाः।
-
-
 
  V. 48.
 
@@ -6132,8 +5509,6 @@ III\. 9.
 
 स्यादेतत्। एकेनैव गोशब्देन बुद्धिद्वयस्य जन्यमानत्वान्नापरो
 
-
-
 ध्वनिर्मृग्यत इत्य(त्र)हि न त्विति।
 
 न तु ज्ञानफलाः (शब्दा न चैकस्य फलद्व)यम्।  
@@ -6152,8 +5527,6 @@ III\. 9.
 
  द्वितीयश्लोके तत्त्वसंग्रहे'न तु' इत्ययुक्तमिति भाति। 'ननु' इत्युचितः पाठः।
 
-
-
 भामहकीर्तितग्रन्थ, ग्रन्थकारनामानि।
 
 |       |               |       |            |
@@ -6168,8 +5541,6 @@ III\. 9.
 | ५८    | रामशर्मा      | ६३    | पाणिनीयम्  |
 
 \_\_\_\_\_\_\_\_\_\_\_
-
-
 
 शोधनिका॥
 
@@ -6198,8 +5569,6 @@ III\. 9.
 | १३    |        अद्भुतार्थत्वं         | ३    |         धनं लघु|          |
 |      |                              | १७   |          क्षेपः           |
 
-
-
 |     |                      |     |                        |
 |-----|----------------------|-----|------------------------|
 | ३   | सपक्षसत्त्वं         | ५-६ | प्रतियोगिगोविज्ञानं    |
@@ -6214,8 +5583,6 @@ III\. 9.
 | २२  | ध्वनि'रित्यनेन       | २   | तावदूर्ध्वमधश्च        |
 
  \_\_\_\_\_\_\_
-
-
 
 APPENDIX
 
@@ -6232,8 +5599,6 @@ CHAPTER III
 
 [^35]: "Thesis approved by the Madras University for theDegree of Master of Oriental Learning."
 
-
-
 should move for the achievement of their object. Sincethus, the causes of poetry have nothing to do in ourattempt to get at a definition of it, we may well pass overthem.
 
 BHAMAHA
@@ -6247,19 +5612,13 @@ it cannot be deemed that he intends to define poetry.Rather the idea underlying 
 
 [^36]: "Bandarkar Commemmoration Volume."
 
-
-
 iccheda, Bhamaha does mention and illustrate what called the *Svabhavokti* Alankara. Although this Alankara there introduced with 'some say that' **"इति केचित् ईक्षते**", it will not be reasonable to say that he does not kept it as one of the poetic figures. If so he would have taked expressly as he had done in the case of *Hetu*, *Sukshma* and *Lesa*. While Sovani, ignoring 11. 93 of Bhamha, declares that according to him Vakrokti is the lifetiming principle of poetry, Dr. Denot only does not take twice of it but goes to the length of asserting that 'such Svabhavokti, or natural mode of speech to which Dandin so partial, is not acceptable to Bhamaha, who refuses acknowledge Svabhavokti as a poetic figure at all.' \[See introduction to the Vakrokti-Jivita, p. XIV.\] I would say'he does not take notice of it', not 'he is ignorant of it'. He know, from a foot-note of his in page 21, that Dr. De was seen that *sloka*. There he means to say that Kuntala Krutes Svabhavokti, following Bhamaha's theory of poetry. There, we should ask Dr. De, does Bhamaha rufuse to acknowledge Svabhavokti? So far as our study of the Kavyalankara goes, nowhere in its six chapters can we find any statement of Bhamaha to that effect. As I have already
 
 ...id, " **इति केचित् प्रचक्षते**" is not sufficient to prove the non-acceptance of Svabhavokti by Bhamaha. If it be said is sufficient, many Alankaras would have to be struck offrom Bhamaha's list. For instance take Asis. Bhasaha says **आशीरपि च केषाञ्चिदलङ्कारतया मता**. No one could say that the *asis* Alankara is not acceptable to Bhasaha because he adds 'some accept "**केषाञ्चिन्मता**”. Just the same is the case with Svabhavokti. And further here is not a single Alankarika, except indeed Kuntala, offar as we know, who denies Svabhavokti a place in poetry. Udbhata, the famous commentator of Bhamaha, creats of this Svabhavokti in the very place and order in which Bhamaha has treated it. Dandin's list of Alankaras isheaded by Svabhavokti, or Svabhavakhyana, as it is alled there. As Dandin criticises Bhamaha's views on
 
-
-
 many a point, he would have, when explaining the Svabhavokti Alankara, surely uttered at least a few words of censure which is not the case — had he thought in the least that Bhamaha refused to recognise Svabhavokti as a poetic figure. All the difference we can perceive between Bhamaha's and Dandin's treatment of Svabhavokti is this. Bhamaha, though not, like Dandin, expressly classifying Alankaras, yet, having in mind the same division as Dandin's and having regard to the predominance of 'Vakroti' Alankaras, — I mean the Alankaras other than Svabhavokti in poetry, gave priority to such of them as he intended to illustrate by his own *slokas* '**स्वयं कृतैरेव निदर्शनैः**' and treated Svabhavokti at the end of the chapter. But Dandin following a more scientific method and having in mind the division he is going to make at the end **'भिन्ना द्विधा स्वभावोक्तिर्वक्रोक्तिश्चेति वाङ्मयम्'** mentions and treats of Svabhavokti first of all. Bhamaha and Dandin, therefore, are indubitably of one mind and in full agreement in dividing Alankaras into two kinds, Svabhavokti and Vakrokti, and consequently the Vakrokti of the one means as much as that of the other, nothing less, nothing more.
 
  Dr. De, however, tries to show in his introduction to Vakroktijivita (pp. XIV-XVII) that there is some difference between Bhamaha's and Dandin's Vakroktis. But he is not there very clear and my impression after a very careful perusal of these pages is that he had missed the true significance of 11. 362 of Dandin and that he is unnecessarily troubling himself to interpret in his own way the word Vakrokti, which Dandin only once uses there. Though I do not now propose to go any further in proving the truth of my statement, yet I wish to say one word as to Dr. De's understanding of the views of the two commentators of Dandin about the *sloka* referred to. After quoting Hrdayangama, Dr. De writes: —'Tarunavacaspati agrees with this interpretation but differs as to what group of Alankaras Dandin signifies by this collective name: *Svavyakhyanavyatirikta sarvalankrtir vakroktir*
-
-
 
 *ityucyante* (this should be in singular *ityucyate*). It is where obvious that *svavyakhyana* is an erroneous reading for Sabhavakhyana. For, among the Alankaras mentioned in the beginning of the chapter by Dandin or anywhere in the Kavyadarsa we cannot find one with the name of bhavyakhyana. Even if one should perversely insist upon the correctness of the reading, yet there is no alternative kcept to take it to mean *Svabhavakhyana*. So there exists to
 
@@ -6274,8 +5633,6 @@ difference of opinion between these two commentators of Dandin as to what group 
 and,                        
 **आक्रोशन्नाह्वयन्नन्यानाधावन् मण्डलै रुदन्।**
 
-
-
 **गा वारयति दण्डेन बालः सस्यावतारिणीः॥**
 
                            (Bhamaha II. 94.)
@@ -6284,7 +5641,6 @@ and,
 
  "Nay the simplest truth is often so beautiful and impressive of itself that one of the greatest proofs of his genius consists in his leaving it to stand alone illustrated by nothing but the light of its own tears or smiles, its own wonder, might or playfulness".      
 
-                                 
 (ECE[^37] (The World's Classics)").p. 303)
 
 [^37]: "English Critical Essays. (19th Century
@@ -6297,15 +5653,11 @@ and,
 
  This reason of Bhamaha for his non-acceptance of the three Alankaras at once leads us to think that according to Bhamaha there can be no Alankara where there is no Vakrokti. But I do not think that is the meaning of Bhamaha. As is shown above, in Bhamaha's view, all the Alankaras other than the one, Svabhavokti, are governed by the Vakrokti principle. An Alankara, if it is to be really so, must belong to the one or the other of the two kinds of Alankaras —Svabhavokti and Vakrokti. When the real nature of a *pseudo-Alankara* is to be explained, what we should do is to show that there is neither Svabhavokti nor Vakrokti. It would be quite wrong if, speaking of a particular poetic expression, we
 
-
-
 ...y that this is not an Alankara because it is not a Svabhavokti. For there are Alankaras such as *upama*, yet they are not Svabhavoktis. In the same way it would be wrong if, taking a passage, we say that because it is not Vakrokti it cannot be an Alankara, For there is an Alankara called Svabhavokti and it is not a Vakrokti. So before we can pass judgment upon a certain expression as not having any Alankara, we should satisfy ourselves as its coming under neither of the two heads of Alankaras Svabhavokti and Vakrokti.
 
  Now Svabhavokti has no subdivision, while Vakrokti as so many. When this is well borne in mind, it will apear quite reasonable that whenever the names of alankaras such as *upama* and *dipaka* are heard, we at once understand that they are not of the Svabhavokti kind. 'thus, the very names of the other Alankaras invarioly give the idea of their not being Svabhavoktis, there is no use of stating it expressly. In this light should theinterpreted the line in question. *Hetu, Sukshma* and sesa by their very names imply that they are not the pecies of the Svabhavokti Alankara. Then, if these non-Svabhavokti Alankaras are really Alankaras, they should involve some kind of Vakrokti in them. But they do not. bhamaha thinks so. Therefore, they are not accepted as alankaras. This is, I believe, the real meaning of Bhamaha.
 
  When the foregoing remarks are kept in mind it will be clearly seen that the word *vakrasvabhavoktya* in the second line of Bhamaha I. 39, **युक्तं वक्रस्वभावोक्त्या सर्वमेवैतदिष्यते**, need not be necessarily interpreted as Sovani has interpreted it. He takes the word to mean the same Vakrokti, ignoring the second element 'Svabhava' in that compound word. According to him the word is to be passed **वक्रस्वभावा उक्तिः** ; but it may be as well parsed so as no mean **वक्रोक्ति** and **स्वभावोक्ति**. Since in his interpretaticn, the word Svabhava becomes purposeless in the sentence,
-
-
 
 my interpretation, it may be seen, according to the interpretative laws of Mimamsa, is preferable. I should likehere to point out, though it has no direct bearing upon ourpresent consideration, that Sovani is misconstruing theline quoted above when he explains it thus:— 'All thesub-divisions of poetry I mentioned (by him 16-30) areadmissible to the designation of Kavya in so far as theypossess Vakrasvabhavokti or imaginative speech.' (BCV. p.394.)
 
@@ -6324,8 +5676,6 @@ and
 
 must not be brought under this kind. There is no Alankara here at all; neither Svabhavokti nor Vakrokti. Thethird and last sentence indicates that he approves of allspecies of poetry divided and described by him in thepreceding *slokas*. True, all that is not expressly rejectedmay readily be taken as approved by him. However,since he is next going to controvert another division ofpoetry, Bhamaha thinks it proper, as all the experiencedand able writers would think, to finish the previous topic in this way. Unless the sloka is interpreted in this
 
-
-
 way, the two words in the first line — **तत्** and **पुनः**, would remain without any connection either with the precedingor the succeeding sentence.
 
  If thus both of these *uktis* are equally embellishers ofpoetry, does it not go without saying that one of them alone will not do for the purpose of defining poetry? The definition formed with one of these two principles is sure to leave out those pieces of poetry, the poetic essence ofwhich is the other principle a fact which will render the definition faulty of *avyapti*. So we should take leaveof Vakrokti and look elsewhere in Bhamaha for some such poetic principle as can help us in forming a definitionof poetry. To the best of my belief, the following two lines, with a little difference in wording but the same insubstance, may be taken to indicate what Bhamaha coniders the essence of poetry : —
@@ -6334,8 +5684,6 @@ way, the two words in the first line — **तत्** and **पुनः**, wou
 **अलङ्कारवदग्राम्यमर्थ्यंन्याय्यमनाकुलम्।** ( I-35)
 
  In these two lines, the words, other than **सालङ्कार**and **अलङ्कारवत्**, mean this — that poetic speech and sense shouldbe free from blemishes. From the words **सालङ्कार** and **अलङ्कारवत्**we are to understand that Bhamaha's theory is thatAlankara is the life principle of poetry. So I think ‘**अलङ्कृतौशब्दार्थौकाव्यम्**' is the definition of Bhamaha. The name of the work itself, *Kavyalankara*, is suggestive of Bhamaha's theory of poetry. As Sovani has pointed out (BCV p. 305),Bhamaha uses the word**गुण** in the sense of Alankara.Bhamaha makes no difference between **गुण** and **अलङ्कार**, not through want of keen critical acumen. Since he is decidedlyposterior to the sage Bharata, who with unmistakable distinctness, enumerates both poetic *gunas* and alankaras,it is impossible that the difference known to Bharata between these poetic embellishers did not come to his knowledge. He new it full well but held the opinion which hiscommentator. Udbhata has expressly recorded about it.
-
-
 
 Therefore it is, and it is unaccountable otherwise, that he not only uses nowhere in the Kavyalankara the word '*guna*' in the sense in which other Alankarikas use it, not even when he speaks of the three famous *gunas* —**माधुर्य, प्रसाद**, and **ओजस्**but also uses it in the sense of Alankara.
 
@@ -6359,8 +5707,6 @@ To those who will carefully read the above *sloka* of Dandin, it would be appare
 
 ....... separately mentions, defines and illustrates
 
-
-
 *gunas* and Alankaras and implies thereby that *gunas* and Alankaras are different and cannot interchange their names, yet Bhamaha, being of the opinion that the difference between them is only illusory and fanciful in as much as both groups in the same way function as poetic embellishments, tacitly disregards and rejects Bharata's views, and accepts only one category of poetic embellishers, Alankara, though sometimes called *guna*, which includes everything that may be thought an indispensable element of poetry. To this theory of Bhamaha, Dandin gives his whole-hearted assent and indirectly indicates the undistinguishableness of *gunas* and Alankara by giving a definition which comprehends both of them: —
 
 काव्यशोभाकरान् धर्मानलङ्कारान् प्रचक्षते।
@@ -6369,12 +5715,8 @@ But Bhamaha differentiates **कथा** and **आख्यायिका** fro
 
  The fact that Vamana divides *gunas* into two groups, as those of word and those of sense, and *riti* into three kinds instead of twoleads, naturally, some to think that he has made some improvement upon Dandin and therefore both of them are of the same school. (BVC, p. 393.) But the nomenclature of the ton *gunas* being the same in Bharata too, why cannot the improvement be upon Bharata as well? In truth: though the names are the same, they are given very different meanings by each author. For instance, Dandin's *slesa* is Vamana's *ojas*;
 
-
-
 while Vamana's slesa has nothing corresponding to it inDandin. And Vamana's slesa too is further strained byJagannatha so as to give it a more restricted sense. Thisprocess of innovation from Dandin to Jagannatha may beshown in the case of each of the gunas. Hemacandra hasalredy made an attempt in his Alankaracudamani to showthe various meanings given by his predecessors to thenames of *gunas*. Further I do not think Dandin's conception of these margas is the same as Vamana's. In Bhamaha and Dandin, we do not meet with the term *riti*.Dandin's marga means kind or way. In many places heuses this word **मार्ग** where it is quite impossible to take itin the sense of Vamana's riti. Morover, he often indiscriminately uses also the words **वर्त्म, पन्थाः, प्रस्थानम्** instead of **मार्ग**. All this goes to show that *marga* has notassumed any technical sense in Dandin.  
  Nor do we see that Bhamaha or Dandin speaks of theessential principle of poetry as the *soul* of it. Such anidea seems to have never come to their mind. Word andsense are embellished by what are called Alankaras, andthey are poetry, and they please the readers or hearers oftaste. This much and no more is the idea of Bhamahaand Dandin, concerning poetry. True, Dandin uses inthe beginning of the Kavyadarsa, in connexion withpoetry, the word denoting body, which some may think,implies that the author meant to call the characteristicprinciple of poetry its *soul*. But it seems to me thatit will be almost impossible to answer if it be askedwhy the word should be taken in such a far-reaching sense.This word is annotated in the *Hrdayangama* as meaning **स्वरूप**. And in *sastraic* discussions such phrases are veryoften used as **लक्षणशरीर, अधिकरणशरीर** etc., where **शरीर**is not intended to suggest any contrast with the soul.Exactly the same, I believe, is the case here. To Dandin,Alankara or the embellisher is to poetry what sweetnessis to milk (1. 102). If still on the sole authority of thissingle equivocal word, it be tenaciously held that Dandin
-
-
 
 has conceived of a poetic soul, I am at a loss to know why the same cannot be said of Bhamaha also, who at the end of his Kavyalankara says **षष्ट्याशरीरं निर्णीतम्.** The general trend of the Kavyalankara and the Kavyadarsa will, if well understood, surely prove that the idea of *poetic soul* is wholly foreign to the mind of Bhamaha and Dandin.
 
@@ -6383,8 +5725,6 @@ has conceived of a poetic soul, I am at a loss to know why the same cannot be sa
  "The chief writers of this (*riti*) school were Dandin and Vamana." (BCV, p. 396.)
 
  According to Vamana, the gunas, not at all identifiable with Alankaras, constitute what is called *riti*— which is the soul of poetry, while the Alankaras are mere accessories to it. This is all that marks his school as fundamentally different from that of Bhamaha, who contemplates no *soul* of poetry, speakes of no *riti*; makes no difference between *gunas* and Alankaras; but holds that the embellished word and sense taken together are poetry. If so, let one judge candidly, whether Dandin belongs to Bhamaha's or Vamana's school. It is shown that Dandin too contemplates no soul of poetry, speaks of no *riti*, and makes no difference between *gunas* and Alankaras. Nor does Dandin seem to maintain, as Vamana does, that the absence of the so-called *gunas* alone will render a literary composition unpoetic. When the consideration of these fundamental principles makes it clear that they do not and cannot belong to one and the same school, it is of little consequence that they use the same terminology such as Gauda and Vaidarbha, *guna* and Alankara. In the same way, the fact that Dandin recognises the two margas of poetry, Vaidarbha and Gauda, which Bhamaha rejects, can no more establish their belonging to different schools than the fact that Dandin accepts the three Alankaras, hetu, etc., which Bhamaha disfavours. Of this view we find a supporter in Jayaratha. Commenting upon the first passage of the *Alankarasarvasva*—**इह हि तावत् भामहोद्भटप्रभृतयः**
-
-
 
 **चिरन्तनालङ्कारकाराः** — he observes : —  
  **... इहेत्यादिना। प्रभृतिना दण्ड्यादयः। तावच्छब्दो विप्रतिपत्त्यभावद्योतकः।**         (p. 3.)  
@@ -6400,19 +5740,14 @@ After quoting these words of Jayaratha which settle thecase once for all, little
 
  Vamana too, though following a school quite defferentfrom Bhamaha's and Dandin's, does not seem to rejectthis definition of poetry. Probably his first Sutra isintended for giving a definition, though it is not inthe usual form of a definition. His employment of theword Alankara there is in the same general sense ofembellishment as in Bhamaha and Dandin. But in thenext Sutra he uses it in the restricted sense of "figures ofspeech", excluding gunas. Nevertheless, as apparentlythis narrow sense would not do for the purpose of defini-
 
-
-
 tion, he had necessarily to use it also in its formerly usual wider application. Ignoring the first Sutra we would naturally think that Vamana's definition should be **रीतिमत् काव्यम्** or **गुणवत् काव्यम्**. It is only to prevent such a wrong notion about Dandin's definition, arising in scholar's minds, that I have been so particular to show that Dandin's school is that of Alankaranot of *riti*. Vamana also, though distinguishing between *gunas* and Alankaras as the factors that produce and those that heighten poetic beauty, did not wish it to be understood that, according to him, Alankaras should be considered unimportant in potery. Therefore he begins with defining poetry, not deviating from his predecessors.
 
 MAMMATA.
 
  Among the Alankarikas later than Vamana, except a few commentators on older works, there are none who hold gunas and Alankaras as of one category. Consequently the term Alankara became since then settled in the sense of figures of speech; and sometimes it was used to mean the charm produced by them. But nobody employed it so as to include in its meaning the gunas, or the beauty resulting from them, evidently to avoid confusion. So, it was no longer possible to make a definition of poetry with the help of Alankara alone, and the definition of the old Alankarikas began to be thought inadequate. And it needs. hardly be told that it is difficult, if not impossible, to find another term general enough to comprehend all the charming elements of poetry. Under these circumstances it is but natural that Mammata, and following him, others, should try to make a definition, putting into it separately the absence of blemishes, *gunas*, and Alankaras, all of which were at once denoted in the old Alankarikas' definition by the single word Alankara. Thus, it will be seen that though the wording is different, yet the substance is the same in the old and the new definition.
 
-
-
  It would seem to many that, as becomes a devoutadherent of the theory of Anandavardhana, the father ofthe *dhvani* school, who seems to define poetry by its effect,"**सहृदयहृदयाह्लादिशब्दार्थमयत्वमेव काव्यलक्षणम्**" ( 1 p. 7 )
 
-                                   
  Dhvanyaloka.
 
 Mammata should have defined it otherwise than he hasdone. But in accordance with a tradition current amongthe sastraic authors —**शास्त्रादौ तेन वक्तव्यः सम्बन्धः सप्रयोजनः**—he thought it necessary, perhaps, to point out first theobjects of poetry: and of the many objects mentioned byhim, **आह्लाद** (pleasure) is one —**सद्यः परनिर्वृतये** ।
@@ -6428,8 +5763,6 @@ Here lies, too, the explanation of the fact that all theauthors on Poetics, post
 
  Thus far, we were speaking of the definitions, ofpoetry that belong to the second division of definition mentioned in the beginnig of this chapter. Regarding thesedefinitions there may arise a question. What are theAlankaras, gunas, and dosas, which form these definitions?Unless and until we know what they are, we cannot under-
 
-
-
 stand the definition of poetry based on them. One is sure to be disappointed if one looks to Bhamaha for a definition of Alankara. Perhaps Bhamaha thought that the word Alankara is simple enough to indicate at once what is meant by it. I think what was in Bhamaha's mind was expressly told by Dandin. —
 
 **काव्यशोभाकरान् धर्मालङ्कारान् प्रचक्षते।**
@@ -6439,8 +5772,6 @@ stand the definition of poetry based on them. One is sure to be disappointed if 
  There is another way of defining, familiar only to our *sastraic* authors, and followed when any other attempt to give a definition fails. When the species of a genus to be defined are of a limited number, they define the genus as being any one (**अन्यतम**) of the species. Let us suppose there is the question to be answered : What is metal? The answer according to the above method will be this, any one of gold, silver, iron etc., is metal. In the same way perhaps we may have a definition of Alankara: that which is identical with one or another of **दीपक**,
 
 ....etc. is Alankara. But such a kind of definition should be entirely discarded here. For ours should not be an endeavour to have somehow or other a definition of a thing, even though it be uninforming and unmeaning, but to find out the governing, pervading principle, and to define the thing through it. Otherwise, the definition will be a verbal and arbitrary one; and will not serve the purpose of definition. When we hear the above-mentioned definition of Alankara we are not in a position to know from it why *Upama*, etc., should be called Alankara and not otherwise, or why some other modes
-
-
 
 of speech cannot be accepted as Alankaras. Alankara isnot, we know, a term like our own names, merely conventional. 'Nor would it be reasonable to suppose that theancient authors ever thought of such a kind of definition.
 
@@ -6455,8 +5786,6 @@ of speech cannot be accepted as Alankaras. Alankara isnot, we know, a term like 
  Roughly rendered into English, this means — that isAlankara, possessed of which, word and sense, throughtheir cognition, produce pleasure. In poetry, word and senseare producers of pleasure but what renders them capable of producing pleasure is Alankara. If the true significance of Vaidyanatha's definition of Alankara is fullygrasped, it will be clearly seen that the definition of Alankara itself involves the definition of poetry. If, then,
 
 यद्विशिष्टौ शब्दार्थौचमत्कारजनकौ सोऽलङ्कारः
-
-
 
 is the definition of Alankara, it goes without saying that
 
@@ -6476,8 +5805,6 @@ are Visvanatha's definitions of them. So we may putaside the former definitions 
 
  **यशोव्युत्पत्तिफलत्वेऽपि पर्यन्ते सर्वत्रानन्दस्यैव साध्यत्वात्। तथा हि— कवेस्तावत् कीर्त्यापि प्रीतिरेव सम्पाद्या। यदाह 'कीर्तिं**
 
-
-
 स्वर्गफलामाहुः' इत्यादि। श्रोतॄणांव्युत्पत्तिर्यद्यप्यस्ति तथापितत्र प्रीतिरेव प्रधानम्। अन्यथा प्रभुसंमितेभ्यो वेदादिभ्यो मित्रसंमितेभ्यश्चेतिहासादिभ्यः कोऽस्य काव्यरूपस्य व्युत्पत्तिहेतोर्जायासम्मितत्वलक्षणोविशेष इति। चतुर्वर्गव्युत्पत्तेरपि च आनन्द एवपार्यन्तिकं मुख्यफलमिति।
 
  The material at our disposal cannot help us to tracethe source from which **"कीर्तिं स्वर्गफलामाहुः"** is taken.[^38]Whoever may be the author of this quarter[^39], it is plainthat he means to say that the fame results in Svarga.Uttungodaya takes this Svarga as the pleasure enjoyablein this world itself. It is not strange that our authorsinterpret the word in this sense. I fail to see however,why the word should be taken here in that secondarymeaning, discarding its proper meaning, which is heavenlybliss. Now we are naturally induced, here, to ask a question 'How fame, instead of Dharma, can lead one toSvarga?' To this question there is an answer in Bhamaha:
@@ -6494,13 +5821,9 @@ are Visvanatha's definitions of them. So we may putaside the former definitions 
 
  Most probably the author of the quarter **कीर्तिं स्वर्गफलामाहुः** had in his mind this *sloka* of Bhamaha. Theindeclinable **किल** shows that Bhamaha too is referringthere to some ancient authority and that authority is,
 
-
-
 I think, Indradyumna's episode in the Vanaparva of theMahabharata.
 
  Thus we see that in order to establish pleasure as thechief end and aim of poetry, Abhinavagupta and, followinghim, Hemachandra go up to the very heavens. But I hesitateto accept their argument. It is not by any reference toheavenly bliss that we should try to prove the pleasurableness of poetry. For. is there any branch of our literature,where, in our point of view, the ultimate aim is not enjoyment in the celestial world? Even though the interpretation of Uttungodaya is accepted, the difficulty is not inany way lessened. Everything in the world can be connected with earthly convenience at the end; and moreover,we do not see that those, desirous of fame, desire it as ameans to achieve another object. Besides, what Hemachandra says in rejecting the two objects of poetry mentioned by Mammata — worldly knowledge and removal ofevil — may be equally said of fame. Not only by writingpoems, but Sastraic works as well, men of genious becomefamous. True, there might have been poets whose objectin writing poems was fame and happiness in another world.But it is none the less true that there weremany whowrote in order to get a rich reward from kings and chiefs.This nobody can deny. An irrefutable proof of this maybe found in the large mass of panegyric work thatwe now possess in Sanskrit. Similarly, we hear of manypoets who have praised gods for dispelling their illnessand other misfortunes of various kinds. Though each ofthese objects of poets and poetry in general, cannot beshown to bear such a strict cause-and-effect relation aswould satisfy a Naiyayika, because it is obtainable byother means as well, and poetry does not always bring itunfailingly, yet it is undeniable that particular poets have,as Mammata informs us, achieved these particular objects´by means of poetry. If the biographies of our numberlessancient poets were accessible to us, it would be seen quiteclearly, I am sure, that Mammata is fairly correct in enumerating these several objects of poetry, and that several
-
-
 
 other objects also may well be added to the list.
 
@@ -6514,8 +5837,6 @@ mean otherwise : —
  What is said of wealth and other remote objects of poetrymentioned by Mammata and others, equally applies to'*upadesa*' (instruction). The qualifying phrase ‘**कान्तासंमिततया**' itself makes it apparent that it is with the help of thepleasure it affords, that poetry instructs those for whomit is meant. Instruction alone, independent of pleasure,cannot be an object of poetry; and it is not an object thatis invariably attainable through poetry.
 
  In Butcher's opinion, Plato would urge “That in
-
-
 
 regard to war, generalship, politics, education, which arethe main subjects of the poems, we have a right to askhim (Homer) what state was ever better governed by hishelp". It seems to me this is a crucial question. Itwould be contrary to our own experience to say that poetrywith all its enticing delectableness has given to somebodysuch instruction as is necessary for his well-being, andas can, only with much difficulty, be received from moralor political philosophy and such other branches of knowledge. There is a number of poetic pieces, which cannoteven pretend to have an instructional aim. The bestexample I can point out for this kind of poetry is theRomavali Sataka of Visvesvara.
 
@@ -6540,8 +5861,6 @@ Most dang 'rous when he finds to be,
 Obedient to a Smrti,  
 (Whereof is sinful transgression)
 
-
-
 Which bids men themselves save from all,  
 Tries, lest he should suddenly fa॥  
 Into the hands of ruin, to sleep  
@@ -6554,17 +5873,11 @@ On others' bed (though not so cheap) (XIV-14).
 
  This has a direct bearing upon our enquiry, as it provesthat instruction is not a governing principle of the art ofpoetry. Therefore, though much against the views of the
 
-
-
 ancient authors like Bhamaha who speaks of poetry as 'mostly instructive'- **भूयसाऽर्थोपदेशकृत्**— ; Mammata: who saysthat poetry instructs men pleasingly like their dear love ;Strabo, who is said to have observed (L. L. p. 176) "Thatpoetry is a kind of elementary philosophy which introduces us early to life and gives us pleasurable instructionin reference to character, emotion, action," and Sir PhilipSidney himself, who in his 'Apologie For Poetrie' repea ortedly states that the end of poetry is 'delightful teaching''to teach and to delight': —though much against the viewsof ancient authors like these, we have to adopt conclusively the opinion of Eratosthenes (though, as we are told,Strabo would condemn it) that, 'The aim of poetry is alwaysto charm the mind not to instruct.' Though doubtless therewere poets whose aim was to give pleasant instruction — andalmost all the first poets of all nations seem to be such — yet it is equally undeniable that there are poets in whoseworks it is impossible to discover a moral aim. The absenceof a didactic aim in certain works, however, need notresult in their banishment from the domain of poetry:The sword which is meant for defending one's own princeand country does not become other than sword on accountof its being abused by one for killing one's own father.The moral philosophers may, as emphatically as they can,insist upon everything, animate or inanimate, being in strictand full conformity with their own precepts and principles.But nature cares little for them and is deaf to theircryings and works out things, according to her own lawsand intentions. Are there not in the midst of ourselves, inspite of immense libraries of the sacred teaching andphilosophy in our possession, heretics, profligates andother abominable human beings? Are they not, thoughwith a brutal soul, after all, men? In the same way thephilosophic critics may lay down rules that a poet's aimshould be 'to give instruction, sweetened with pleasure.'But the poets scarcely allow themselves to be restrictedby such rules and write according to their own will and
-
-
 
 pleasure. Nor do we see that, on account of the absenceof moral teachings, any piece was ever held unpoetic.
 
  Now, therefore, we arrive at the conclusion that theonly direct aim and object of poetry is pleasure and sincethe efficacy or inefficacy in this direction renders a literarypiece fit or unfit for the name of poetry, we may furtherconclude that pleasure is, besides being the aim and objectthe soul, life, standard, criterion, guide, regulator, ofpoetry. When, thus, the inherent life-giving principle ofthe art is determined it will be seen that we can hardlyhave a better definition of poetry than the one given above,which is based on this principle. Now it remains for usto see, of what nature this pleasure is. All the kinds ofpleasure, other than that which is derived from literaryworks, are here excluded by the terms, the 'word andsense', put into the definition. So the question now to beanswered is "The word, pleasure, being so comprehensiveas to include in its sense also the delight that one may getfrom scientific and phiolosophical treatises, how are we torestrict the definition so that it may not be open to thefault of *Ativyapti*. It is idle to think that there is no pleasure derivable from works other than those of poets. This isa fact that requires no endeavour on my part to substantiate; every scholar, if he be a real one, must have knownit in his own experience. I shall, however, mention herea few great personalities whose most rapturous subjects ofstudy have been Vedas, Mimamsa, Vedanta, Vyakaranaand the like, all of which in the point view of poetry-loversare insipid, dreary, arid branches of literature. We havea short story in the end of the first Prasna of the Kathakaportion of the Taittiriya Brahmana, in which it is told thatone Bharadvaja lived three lives, i. e., 300 years, as a student of Vedas, and when he was lying on bed worn outwith age, Indra went to him and asked him what he woulddo if he were to give him a forth life; to which Bharadvajareplied that he would certainly continue the study of
-
-
 
 Vedas. In the beginning of his Sloka-Vartika, the greatKumarila says "My avidity highly increases for the precious gem of the Vedic lore which is made greatly effulgent by the radiance of the Mimamsa Sastra"[^41]. Sri Venkatanatha, at the end of his Abhitistava, says that his life wasspent in enjoying the sweetness of the words of the greatestof saints (i. e.,) the Sri Bhasya of Bhagavad Ramanuja.And lastly, so recent a scholar as Professor Max Mullerhas a few words in his "Science of Language", whichshow that he ranks the dhatus of Vyakarana, which areto literary men what clay is for a house-builder, evenhigher than poetry :—
 
@@ -6577,8 +5890,6 @@ VISVANATHA.
  Here a solution may seem possible.Rasa may be putin the place of pleasure. The meaning of the term Rasais much more restricted than that of pleasure. The onlypleasure which is derived from poetical works is calledRasa. And such a definition we have from Visvanathathe author of Sahityadarpana. He says that the sentencewhich has 'Rasa' is poetry — '*Kavyam tu rasavad vakyam*'.
 
  Now the theories of Rasa are manifold. The sage,Bharata, the father of Rasa, mentions only eight Rasas.Udbhata and a more ancient author, kohala, add one more,namely 'Santa'; and again Rudrata adds one more namely'Preyan or Sneha'. Dharmasuri informs us that there areauthors who accept another Rasa called 'Vatsala'; andothers who accept another, called 'Bhakti'.Thus we seethat the number of Rasas is brought up to twelve. Rudratanot only mentions ten Rasas, but he goes on to say thateven 'Nirveda,' (**निर्वेद**) etc., which are usually accepted and
-
-
 
 styled as '*Vyabhichari Bhavas*' (transitory states as Haastranslates them) are also Rasas. While thus the numberof Rasas gradually increases at the hands of these authors,critics are not altogether wanting who would not accepteven Bharata's eight Rasas. Perhaps we should notreckon Bhavabhuti (who in his Uttararamacharita makesit clear that in his view there is only one Rasa '*Karuna*,')among the critics and theorists of poetry, because, hebeing a poet, his words may be explained away as poeticHyperbole. There is, however, Bhojaraja or Bhojadeva,the author of the 'Srngaraprakasa', wherein he is saidto have maintained that there is no Rasa other thanSrngara¹, it is only one Rasa. Now whose theory arewe to follow with regard to the meaning of the term'Rasa' if we adopt Visvanatha's definition ? Moreover, noAlankarika anterior to Anandavardhana seems to haveever thought of Rasa as the omnipresent essence of poetry.As Sovani says very correctly, Bharata's conception ofpoetry is dramatic. True, he very often makes use of theterm, Kavya; but so far as I know, it invariably refersonly to drama. But it would be wrong to infer from thisthat at the time of Bharata, epic poetry had not come into
 
@@ -6598,15 +5909,11 @@ Dharmasuri quotes two slokas from Bhojaraja's Srngaraprakasa:
 आम्नासिषुर्दश रसानपरे वयं तु  
 शृङ्गारमेव रसनाद्रसमामनामः॥ इति।**
 
-
-
 existence. 'Devas, headed by Mahendra', says Bharata (I-11), 'requested Brahma that they wanted a plaything which should be at once seeable and hearable.' This phrase 'seeable and hearable,' I think, goes to show that not only epic poetry, which is hearable, was known to him but he deemed drama much superior to it, probably on the same ground as Aristotle relies upon in maintaining the superiority of tragedy to epic. 'And superior it is, says Aristotle, 'because it has all the epic elements — it may even use the epic metre — with the music and spectacular effects as important accessories; and these produce the most vivid of pleasures. Further it has vividness of impression in reading as well as in representation.' If thus Bharata has in his view only a branch of poetry, drama, not poetry in general, then it goes without saying that all his theory of Rasa is to be taken as concerning that branch alone, not any other. The words 'Eight are Rasas in drama[^42]'also should be taken here into consideration. So it seems to me that what Bharata means to say by the words '**न हि रसादृते कश्चिदर्थः प्रवर्तते**' applies to drama only. Since the drama is imitation of human life, **अवस्था**, which is the same thing as Aristotle's 'men in action,' it is absolutely necessary that at least one of the Rasas should be present in every piece of drama. If the lower animals and inanimate things find a place in drama it is only in the background. Not so in narrative poems. The whole tenor of them may as well be the delineation of such animals as monkeys etc., or such things as streams, clouds and cataracts, as Jagannatha points out in his Rasagangadhara. Undoubtedly the view that the Rasa is the essence of poetry dates only from Anandavardhana[^43]"). It requires some boldness to maintain this view, since some species of poetry have to be excluded on account of their not being representations of human life, though on every other considera- 
 
 [^42]: "अष्टौ नाट्ये रसाः स्मृताः ।"
 
 [^43]: "न हि तच्छून्यं काव्यं किंचिदस्ति ( लोचनम् - page 65
-
-
 
 tion, they might satisfy the requirements of poetry and such boldness Anandavardhana fully possessed and he says (p. 220) 'that poem, which is void of Rasa, Bhava etc., is picture-like and therefore called *chitra* (picture): it is not poetry proper, but an imitation of poetry.' From a quotation made by Sovani, from Abhinava's commentary on the Natyasastra, Abhinavagupta seems to have carried this extreme view to a greater extent. 'The ten kinds of drama alone are poetry proper.' But whatever is said by these authors through their over-enthusiasm to establish the *dhvani* theory,it seems to me certain that no author older than Anandavardhana, from Bharata down to Rudrata, ever held such narrow and exclusive feature to be characteristic of poetry, as Anandavardhana and a few others after him, did. It is accepted by Anandavardhana himself that there were poets in ancient times who had not Rasa in their view while writing their works.
 
@@ -6624,15 +5931,11 @@ JAGANNATHA
 
 (Hrdayangama)
 
-
-
  But to return from the digression — From what hasbeen said, it is clear that it is hardly justifiable tospeak of, as Sovani does, a Rasa school on a par withAlankara-, riti-, and dhvani-, schools as having been founded by some, Bharata or anybody else. As a furthersupport to this fact I may refer to the passage Sovanihimself has quoted from Samudrabandha's commentary on the Alankarasarvasva, wherein, evidently summing up all the known theories of poetry, the authormakes no mention of a Rasa theory. Since thus Rasacannot help us out of the difficulty which we have toface in getting the definition of poetry so narrowedin its scope that it may not apply to sastraic treatises,we should try to deal with the question otherwise.Speaking of the end of fine art, Butcher writes: ―
 
  "But in his treatment of poetry which holds thesovereign place among the fine arts he makes plainthat æsthetic enjoyment proper proceeds from an emotional rather than from an intellectual source. The main appeal is not to the reason but to the feelings. In aword, fine art and philosophy, while they occupy distinctterritory, each finds its complete fruition in a regionbordering on the other. The glow of feeling whichaccompanies the contemplation of what is perfect in artis an elevated delight similar in quality to the glow ofspeculative thought. Each is a moment of joy completein itself, and belongs to the ideal sphere of supremehappiness."          (p. 202).
 
  We see here that Butcher in explaining Aristotle'sview, divides pleasure as intellectual and emotional,the former being derived from philosophy or our Sastras, and the latter from poetry. This suggests ananswer to the question under consideration. Pleasure, inthe definition may be qualified as emotional. *Wordand sense which produce emotional pleasure are poetry.*Philosophical works no doubt give pleasure but the pleasure is intellectual, and not emotional. This definition
-
-
 
 is no doubt nearly up to the mark. But I think it islikely to give a wrong idea of poetry. It will leadone to think that there is no intellectual pleasure inpoetry a view which we cannot accept. There are many,I believe, whose pleasure is derived when they read thefollowing *sloka* of the Raghuvamsa, from an intellectualrather than an emotional source.
 
@@ -6652,8 +5955,6 @@ is no doubt nearly up to the mark. But I think it islikely to give a wrong idea 
 
  In order to bring forth fully the truth of thisthoughtful and ingenious observation of Rudrata, we haveto consider a great number of similes of eminent poets,a thing which is now impossible. I should rest satisfied
 
-
-
 at present therefore with saying this much; thatKalidasa's fame for simile is not merely due to the frequent use he makes of it, or merely to its appropriateness but it is due to the fact that while most of hissimiles are highly pleasing, they at the same time givea more vivid impression of the things described thanthe case would be if the similes are to be dropped.
 
  Such being the case the best answer we can everhope to get seems to be this. True, as is shown abovepoetry pleases both intellectually and emotionally.True also, such pleasure is derived from philosophy aswell. But it is an incontrovertible fact that the objectswhich poetry and philosophy aim at are entirely different. Poetry directly aims at pleasure while philosophy aims at truth. That poetry sometimes teaches sometruth, and philosophy produces pleasure is accidental.
@@ -6665,16 +5966,12 @@ at present therefore with saying this much; thatKalidasa's fame for simile is no
 
  Now it seems that if pleasure in the definition bequalified as 'the direct aim' we can have a definitionof poetry, and in my opinion a more satisfactory oneis almost impossible.
 
-
-
  Accordingly I conclude that word and sense whichdirectly aim at, and produce, pleasure, are poetry.
 
 श्रीमत्पञ्चनदस्थित-  
 संस्कृतविद्यालये विनीतमतिः।  
 श्रीशैलस्तातार्यो  
 विमृश्य काव्यस्य लक्षणं व्यधित॥
-
-
 
 \।\। श्रीः\।\।  
 
@@ -6688,11 +5985,7 @@ at present therefore with saying this much; thatKalidasa's fame for simile is no
 
  Same with the Sastraic Supplement Rs. 2-0-0
 
-
-
 [TABLE]
-
-
 
  Only a few copies of the back numbers areavailable.
 
@@ -6703,67 +5996,11 @@ Apply to:—
                Tiruvadi P.O.  
         Dt..
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-
-
 
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

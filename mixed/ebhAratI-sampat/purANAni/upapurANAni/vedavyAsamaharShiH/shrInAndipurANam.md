@@ -305,8 +305,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 ॥
 
-
-
 नांदी
 
 पुराण
@@ -316,8 +314,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नांदीमुख
 
 माहात्म्य
-
-
 
 अथ
 
@@ -592,8 +588,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नांदीमुखोत्पत्तौ
 
 प्रथमोऽध्यायः
-
-
 
 अध्याय
 
@@ -1404,8 +1398,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 द्वितीयोऽध्यायः
 
 २
-
-
 
 अध्याय
 
@@ -2610,8 +2602,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 तृतीयोऽध्यायः
 
 ३
-
-
 
 अध्याय
 
@@ -4655,8 +4645,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 श्रीमानजायत
 
-
-
 सिंहासनगतः
 
 शक्रः
@@ -5303,10 +5291,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 चतुर्थोऽध्यायः
 
-
-
-
-
 अध्याय
 
 ५
@@ -5732,10 +5716,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 ५
 
 संपूर्णः
-
-
-
-
 
 अध्याय
 
@@ -7575,8 +7555,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 संशयः
 
-
-
 अग्निरुवाच
 
 तस्य
@@ -8528,8 +8506,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 षष्ठोऽध्यायः
-
-
 
 अध्याय
 
@@ -10357,8 +10333,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 सप्तमोऽध्यायः
 
-
-
 अध्याय
 
 ८
@@ -10868,8 +10842,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 चतुःशाखाभेद
 
 कथननामाष्टमोऽध्यायः
-
-
 
 अध्याय
 
@@ -11442,8 +11414,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 वाजिमाध्यंदिनीयशाखानाम
 
 नवमोऽध्यायः
-
-
 
 अध्याय
 
@@ -12028,8 +11998,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 दशमोऽध्यायः
-
-
 
 अध्याय
 
@@ -13004,8 +12972,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नंदिग्रायनिरूपणनाम
 
 एकादशोऽध्यायः
-
-
 
 अध्याय
 
@@ -17401,8 +17367,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 त्रयोदशोऽध्यायः
 
-
-
 अध्याय
 
 १४
@@ -18282,8 +18246,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नांदीमुखमाहात्म्ये
 
 चतुर्दशोऽध्यायः
-
-
 
 अध्याय
 
@@ -19905,8 +19867,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 पंचदशोऽध्यायः
 
-
-
 अध्याय
 
 १६
@@ -20843,8 +20803,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 वह्निरुवाच
 
-
-
 एवं
 
 च
@@ -21384,8 +21342,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 षोडशोऽध्यायः
 
 संपूर्णः
-
-
 
 अध्याय
 
@@ -22395,8 +22351,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 र्णः
 
-
-
 अध्याय
 
 १८
@@ -23400,8 +23354,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नामाष्टादशोऽध्यायः
 
 संपूर्णः
-
-
 
 अध्याय
 
@@ -25939,8 +25891,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 एकोनविंशोऽध्यायः
 
-
-
 अध्याय
 
 २०
@@ -26466,8 +26416,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 विंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -27454,8 +27402,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 एकविंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -29459,8 +29405,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 द्वाविंशोध्यायः
 
-
-
 अध्याय
 
 २३
@@ -30050,8 +29994,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 वक्रांग्युत्पत्तिनाम
 
 त्रयोविंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -31761,8 +31703,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 २४
 
-
-
 अध्याय
 
 २५
@@ -32078,8 +32018,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 पंचविंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -34595,8 +34533,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 षड्विंशोऽध्यायः
 
-
-
 अध्याय
 
 २७
@@ -35331,8 +35267,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 सप्तविंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -36964,8 +36898,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 २८
 
-
-
 अध्याय
 
 २९
@@ -38077,8 +38009,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 श्रीरामपराक्रम
 
 नामैकोनत्रिंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -39333,8 +39263,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 श्रीरामचरितनाम
 
 त्रिंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -41598,8 +41526,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 एकत्रिंशोऽध्यायः
 
-
-
 अध्याय
 
 ३२
@@ -42717,8 +42643,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 च
 
 कौशलान्
-
-
 
 नाथ
 
@@ -44070,8 +43994,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 द्वात्रिंशत्तमोऽध्यायः
 
-
-
 अध्याय
 
 ३३
@@ -44639,8 +44561,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 त्रयस्त्रिंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -45438,8 +45358,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 चतुस्त्रिंशत्तमोऽध्यायः
 
-
-
 अध्याय
 
 ३५
@@ -46173,8 +46091,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 श्रीरामचरितनाम
 
 पंचत्रिंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -46937,8 +46853,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 श्रीरामचरितनाम
 
 षट्त्रिंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -47737,8 +47651,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 सप्तत्रिंशोऽध्यायः
-
-
 
 अध्याय
 
@@ -48768,8 +48680,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 अष्टत्रिंशोऽध्यायः
 
-
-
 अध्याय
 
 ३९
@@ -49379,8 +49289,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 रावणवधोनाम
 
 एकोनचत्वारिंशत्तमोऽध्यायः
-
-
 
 अध्याय
 
@@ -50863,14 +50771,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 चत्वारिंशत्तमोऽध्यायः
-
-
-
-
-
-
-
-
 
 आध्याय
 
@@ -52616,8 +52516,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 समाप्तम्
 
-
-
 अध्यायः
 
 ४२
@@ -53764,8 +53662,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 नामद्वाचत्वारिंशत्तमोऽध्यायः
 
-
-
 आध्याय
 
 ४३
@@ -54781,8 +54677,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 त्रिचत्वारिंशत्तमोऽध्यायः
-
-
 
 अध्याय
 
@@ -56325,8 +56219,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 चतुश्चत्वारिंशत्तमोऽध्यायः
 
-
-
 अध्याय
 
 ४५
@@ -56854,8 +56746,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 विप्रागमननामा
 
 पंचचत्वारिंशत्तमोऽध्यायः
-
-
 
 अध्याय
 
@@ -58488,8 +58378,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 षट्चत्वारिंशत्तमोऽध्यायः
 
-
-
 अध्याय
 
 ४७
@@ -59702,8 +59590,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 सप्तचत्वारिंशत्तमोऽध्यायः
 
-
-
 अध्याय
 
 ४८
@@ -60769,10 +60655,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 माहात्म्यनामा
 
 अष्टचत्वारिंशत्तमोऽध्यायः
-
-
-
-
 
 अध्याय
 
@@ -62398,8 +62280,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 नामैकोनपंचाशत्तमोऽध्यायः
 
-
-
 अध्याय
 
 ५०
@@ -62969,8 +62849,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 नाम
 
 पंचाशत्तमोऽध्यायः
-
-
 
 अध्याय
 
@@ -64942,8 +64820,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 एकपंचाशत्तमोऽध्यायः
 
-
-
 अध्याय ५२
 
 ब्रह्मोवाच
@@ -65230,8 +65106,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 इति श्रीवह्निपुराणे नांदीमुखोत्पत्तौ गालवाख्यानं नाम द्विपंचाशत्तमोऽध्यायः
 
 समाप्तमिदं नांदिमुखाख्यं नांदीपुराणम्
-
-
 
 नान्दीपुराण
 
@@ -66487,8 +66361,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 प्रथमोऽध्यायः
 
-
-
 अध्याय २
 
 ब्रह्मोवाच
@@ -66708,8 +66580,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 विष्णुप्रसादितं वाक्यं विश्वकर्माभि वंदितं ५३
 
 इति श्री वह्निपुराणे चतुराशीति साहस्र्यां संहितायां ब्रह्ममरीचि संवादे ब्रह्मखंडे नांदीमुखवर्जने नंदवाणा महात्म्ये विश्वकर्मणे शिक्षाप्रदान नाम द्वितीयोऽध्यायः
-
-
 
 अध्याय ३
 
@@ -67212,8 +67082,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 वरं दत्वा महाविष्णुर्जगाम निजमंदिरं १२१
 
 इति श्रीवह्निपुराणे चतुराशीति साहस्र्यां संहितायां ब्रह्ममरीचिसंवादे नांदीमुख वर्णने नंदवाणा माहात्म्ये स्थापन विधिर्नाम तृतीयोऽध्यायः
-
-
 
 अध्याय
 
@@ -69311,8 +69179,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 चतुर्थोऽध्यायः
 
-
-
 अध्याय ५
 
 श्रीब्रह्मोवाच
@@ -69737,8 +69603,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 इच्छावृष्टि करामेधाः घटोध्नी च पयस्विनी ९९
 
 इति श्रीवह्निपुराणे चतुराशीति साहस्र्यां संहितायां ब्रह्ममरीचिसंवादे नांदीमुखवर्णने नंदबाणा माहात्म्ये कालकाक्ष विश्वेदेवेभ्यः रामचंद्रे ण वरप्रदानं नाम पंचमोऽध्यायः ॥
-
-
 
 अध्याय ६
 
@@ -70204,8 +70068,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 इति श्रीवह्निपुराणे चतुराशीति साहस्र्यां संहितायां ब्रह्ममरीचिसंवादे नांदीमुखस्थान स्थलितं नाम षष्ठोऽध्यायः
 
-
-
 अध्याय ७
 
 मरीचिरुवाच
@@ -70465,8 +70327,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 विप्राणां पश्चिमाबुद्धिः स्वभावोनाग्रिमोमतः ६१
 
 इति श्रीवह्निपुराणे चतुराशीति साहस्र्यां संहितायां ब्रह्ममरीचिसंवादे ब्रह्मखंडे नांदीमुखवर्णने नंदवाणमाहात्म्ये नंदराज हिमालय प्राप्तौ ब्राह्मणान् प्रतिसंवादो नाम सप्तमोऽध्यायः
-
-
 
 अध्याय ८
 
@@ -70952,8 +70812,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 ब्रह्मखंडे ब्रह्ममरीचि संवादे नंदवाणा माहात्म्ये राजसेना पाणिग्रहण कौमारग्रहण नामाष्टमोऽध्यायः
 
-
-
 अध्याय ९
 
 ब्रह्मोवाच
@@ -71233,8 +71091,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 इति श्रीवह्निपुराणे चतुराशीति साहस्र्यां संहितायां
 
 ब्रह्ममरीचिसंवादे ब्रह्मखंडे नांदीमुखवर्णने नंदवाणमाहात्म्ये द्विजालय यागवर्णनो नाम नवमोऽध्यायः
-
-
 
 अध्याय १०
 
@@ -71617,8 +71473,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 इति श्रीवह्निपुराणे चतुराशीति साहस्र्यां संहितायां
 
 ब्रह्ममरीचिसंवादे ब्रह्मखंडे नांदीमुखवर्णने नंदवाणा माहात्म्ये ब्राह्मागपरे दशमोऽध्यायः
-
-
 
 अध्याय ११
 
@@ -72188,8 +72042,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 ब्रह्ममरीचिसंवादे ब्रह्मखण्डे नांदीमुखवर्णने सावित्री शापानुग्रहो नाम एकादशोऽध्यायः
 
-
-
 अध्याय १२
 
 ब्रह्मोवाच
@@ -72540,8 +72392,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 इति श्रीवह्निपुराणे चतुराशीति साहस्र्यां संहितायां ब्रह्ममरीचिसंवादे ब्रह्मखंडे नांदीमुखवर्णने नंदवाणा माहात्म्ये सकलराज शिरोमणी जयचंद्र
 मुद्गल सैन्य युद्धवर्णन नाम द्वादशोऽध्यायः
-
-
 
 अध्याय १३
 
@@ -73028,10 +72878,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 इति श्रीवह्निपुराणे चतुराशीति साहस्र्यां संहितायां ब्रह्ममरीचिसंवादे ब्रह्मखंडे नांदीमुखवर्णने नंदवाणा माहात्म्ये सकलराज शिरोमणी जयचंद्र
 मुद्गल सैन्य युद्धवर्णन नाम त्रयोदशोऽध्यायः
 
-
-
-
-
 अध्याय १४
 
 जयचंद्रो महाराजः सागरां तमहीपतिः
@@ -73216,8 +73062,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 ब्रह्ममरीचिसंवादे ब्रह्मखंडे नांदीमुखवर्णने नंदवाणा माहात्म्ये जयचंद्र
 संवादे चतुर्दशोऽध्यायः
-
-
 
 अध्याय १५
 
@@ -73691,11 +73535,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 समाप्तोयं नंदपुराणं
 
-
-
 नव ग्रहनी स्तुतिः
-
-
 
 सूर्यः
 
@@ -73703,15 +73543,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 तमोऽरिं सर्वपापघ्नं प्रणतोस्मि दिवाकरं
 
-
-
 चंद्र ः!
 
 दधि शंख तुपाराभं क्षीरोदार्णव संभवम्
 
 नमामि शशिनं सोमं शंभोर्मुकुट भूषणम्
-
-
 
 मंगलः
 
@@ -73719,15 +73555,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 कुमारं शक्तिहस्तं च मंगलं तंनमाम्यहं
 
-
-
 बुधः
 
 प्रियंगु कलिकां श्यामं रूपेणा प्रतिमं बुधं
 
 सौम्यं सौम्यगुणो पेतं बुधं तं प्रणमाम्यहं
-
-
 
 गुरुः
 
@@ -73735,15 +73567,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 बुद्धियूतं त्रिलोकेशं नमामि तं बृहस्पतिं
 
-
-
 शुक्रः
 
 हिमकुंद मृणालाभं दैत्यानां परमं गुरुं
 
 सर्वशास्त्र प्रवक्तारं भार्गवं प्रणमाम्यहं
-
-
 
 शनिः
 
@@ -73751,15 +73579,11 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 
 छाया मार्तण्ड संभूतं नमामि तं शनैश्चरं
 
-
-
 राहुः
 
 अर्धकायं महावीर्यं चंद्रा दित्य विमर्दनं
 
 सिंहिकागर्भसंभूतं तं राहुं प्रणमाम्यहं
-
-
 
 केतुः
 
@@ -73768,8 +73592,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDU2OTk1NDYy
 रौद्रं रौद्रा त्मकं घोरं तंकेतुं प्रणमाम्यहं
 
 समाप्त ।
-
-
 
 Source: Vaje§aµkara DevarŒma Bola, ed., *NŒnd´purŒöa: nŒnd´mukha brŒhmaöajŒtine §Œstr´ya itihŒsa* \[Skt., Guj.\](Calcutta : Damodara Viththalarama Parakhani, 1948).
 

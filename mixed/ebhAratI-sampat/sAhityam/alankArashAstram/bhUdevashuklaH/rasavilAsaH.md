@@ -14,18 +14,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE3MjQwMjIwODU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **TABLE OF CONTENTS**
 
 |     |                                                                                                   |
@@ -48,15 +36,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjE3MjQwMjIwODU
 | 9.  | लक्षणश्लोकसूची                                                                                    |
 | 10. | उदाहरणश्लोकसूची                                                                                   |
 
-
-
 **FOREWORD**
 
  THE Sentiment or Rasa is one of the essential constituents of Poetry in Sanskrit literature. This topic was discussed and studied from very early times. Chronologically Bharata, the author of *Nātyaśāstra*, is the first to give a full and clear exposition of the theory of Rasa, primarily for dramatic compositions. The *ānuvaṃśya ślokas* or stanzas traditionally handed down and quoted by Bharata himself in his above-mentioned work, suggest that the topic of Rasa was discussed by earlier teachers but was not codified in literary works. Unfortunately the Nātyaśāstra of Bharata has not come down to us in its original form. There are a number of passages which are interpolated and corrupt, in the text available to us. It is much more so in the case of the two chapters (VI and VII) dealing with the topic of Rasa. The number of Rasas, at least in dramatic compositions, is eight, but a place for peaceful sentiment or Śānta, has been found either as a result of interpolation or by way of exposition. Later writers maintained that Bharata too counted the sentiment or Rasa to have nine forms including Śānta Rasa. This view, rightly or wrongly, gained ground, and the majority of writers on Poetics held the view that Rasa had nine forms of manifestation, and quoted Bharata in support of their views. The question of the constitucats of Rasa, and the process of its manifestation in the actor, reader or members of the audience was also discussed in the Nātyaśāstra I feel there has been very little real advance in the theoretical side of the problem in works of later writers. In fact Bharata was regarded as the infallible and sole authority on the subject, and any exposition which would go against his views was considered not authentic or acceptable. Even Ānandavardhana, Mamṁata and Jagannātha did not go much beyond Bharata except perhaps in their method of exposition.
 
  The number of Rasas is another topic hotly discussed by Indian writers. There are works which maintain that there is
-
-
 
 only one Rasa, Love or Śrngāra, or Wonder or Adbhuta, and it is this Śrngāra or Adbhuta which manifest themselves in numerous forms Peaceful sentiment, according to them, is nothing but moksasrngāra.
 
@@ -69,8 +53,6 @@ only one Rasa, Love or Śrngāra, or Wonder or Adbhuta, and it is this Śrngāra
 
 20th August 1952
 
-
-
 **PREFACE**
 
  WHILE I was working as a research student in the College of Indology of the Banaras Hindu University, I was placed under the guidance of Professor Dr. P. L. Vaidya, who at that time was the Mayurbhanj Professor and Head of the Department of Sanskrit & Pali. At his suggestion I took up the subject for my research "*Shri Rūpa Gosvāmin* *and his Contribution to Sanskrit Poetics and* *Dramaturgy*." In the course of my preliminary reading I studied the Bhaktirasāmrtasindhu of Shri Rūpa, and came upon the following passage:-
@@ -80,8 +62,6 @@ only one Rasa, Love or Śrngāra, or Wonder or Adbhuta, and it is this Śrngāra
 **                  \[Bh. R. S. 3.2.2\]**
 
 The topic referred to in the stanza is the Dāsya Rasa. As this topic was of great importance to my work, I tried to find out who this Sudeva was. Aufrecht's *Catalogus Catalogorum* and Krishnamachariar's *History* could not give me any clue nor did Padyavenīhelp me to get access to Sudeva's contribution to the Dāsya Rasa. I then thought that Sudeva might be a misprint or mistake for Bhūdeva, the writer of *Rasavilāsa*, about whom I had read a few recent articles and references in the history of Alaṃkaraśāstra of Mm. Dr. P. V. Kane. When I asked Dr. Vaidya if he could secure for examination the two Mss. of Bhūdeva's *Rasavilāsa* available at the Bhandarkar Oriental Research Institute, Poona, he readily arranged to have them, thanks to the kindness of Prof. P. K. Gode. On examination of these Mss. I found that they were incomplete. On a further search, I found two more Mss. at the Central Library of the Oriental Institute, Baroda. They were also secured by Dr. Vaidya, through Dr. G. H. Bhatt, the Director. On a careful examination of the latter Mss., I found, to my great disappointment, no reference to the Dāsya Rasa in the work. Dr. Vaidya, all the same, suggested to me that I should undertake to prepare an edition of the work, based on these four Mss., so that it might be available to scholars.
-
-
 
 then started to collate the four Mss at my disposal After I fixed my text, I came to hold the view that Bhūdeva Śukla, after all, was a second rate writer on Rasa, that he advanced no fresh views on the subject, that he borrowed, not only views from his predecessors, but also passage after passage from them, and that there were hardly a few passages which Bhūdeva could claim as his own Among his predecessors, there is surely Panditarāja Jagannātha, the author of the famous work *Rasagaṅgādhara.* This scholar of very high originality did not deserve to be mentioned under terms like *kecit, navyāh,* and *sahastkāh*, when not less than seventy passages from his work are found in *Rasavilāsa.* I therefore thought that I should bring out an edition of Rasavilāsa and thereby bring to the notice of scholars a type of plagiarism, so prevalent among scholars of modern age, but believed to be non-existent among the ancient writers Incidentally this edition, I hope, will clear out certain misstatements about the author, his works and his date. The question of the likely identity between Bhūdeva and Sudeva, on the basis of which I started my investigation, is now completely set at rest.
 
@@ -93,8 +73,6 @@ Women's Hostel B H. U
  PREM LATA SHARMA  
  17th July 1952                           
      Research Student             
-
-
 
 **INTRODUCTION**
 
@@ -115,8 +93,6 @@ Women's Hostel B H. U
 
  There are mentioned the five Mahākāvyas of the Sanskrit Literature, and notes on Kirāta as stripradhāna, on Māgha i.e., Śisupālavadha as Purusapradhāna and on Naisadha as Śtrīpumsapradhana There are a few marginal notes, apparently from a learned scholar, indicating some references and sources of the author's citations and discussions E g, on folio 72 we have
 
-
-
  एतदर्थकं मंजूपायामस्ति, पत्र ३
 
 Similarly on folio 64 we have
@@ -130,8 +106,6 @@ Similarly on folio 64 we have
  D This Ms also belongs to the Deccan College Collection now deposited in the Bhandarkar Oriental Research Insti- tute, Poona and bears No 594 of 1887 91. It has only 15 folios and covers the text of nearly first two chapters of our text.
 
  The constituted text of the Rasavilāsa has been fixed with the help of these four Mss As it was discovered that the con tents of the text are more or less extracts from the writings of the predecessors' works, they were also used in doubtful cases to correct the mistakes of copyists Whenever the source of a passage was found out, I checked it by referring to that source Our author, like many other Indian Pandits, quoted from memory and not by actual use of the source, and did not even care whether a particular writer ever wrote on the subject The references to Dandin and Jayadeva are of this type Bhūdeva Śukla belongs to the old school in Poetics and usually follows Kāvyaprakaśa, Kāvyapradipa ete in their views He found the new school of Jagannātha not to his liking, but could not resist the temptation of profusely citing from it It seems he never cared to verify the statements to their oldest source, otherwise he would have been able to mention Dhanamjaya and his *Daśarupaka* He refers to *Agnipurana* of doubtful date and *Nātyaśāstra* correctly, but his chief authorities have been *Kavyaprakaśa Kavyapradipa* and *Rasagaṅgādhara*, the last under the discourteous reference such as *kecit,*
-
-
 
 navyāh and sahasıkah. When I verified his citations, I noted some of the readings from older source where they seemed to be necessary. Otherwise I respected the authority of my Mss
 
@@ -148,8 +122,6 @@ navyāh and sahasıkah. When I verified his citations, I noted some of the readi
 सदर्भ एष कृतिना मुदमातनोतु॥**
 
  These two stanzas tell us that he was the resident of Jambusar and not Jammu in Kashmir as suggested by Khiste, that he was the first son of Sukadeva or Sukadeva, that he studied Kāvyaprakāśa or Kāvyaprakāśikā under his teacher Śrīkantha Dikṣita, and that he did not claim much of originality as such in his work It is likely that Śrīkantha mentioned by our author may be that Śrīkantha who was patronised by Satruśalya (Sattarsal), the Jam of Navanagar in Śaurāstra (1569-1608 A D), and who wrote a work called *Rasakaumudi* The Ms of *Rasakaumudi*, available at the Bhandarkar Institute is dated 1596 A D It is not therefore impossible that Bhodeva as a youngster might have studied under Śrīkantha who may be very old at that time Bhūdeva seems to be a good scholar, well versed in several Śastras such as Vyākarana Nyāya, Vedānta and Alaṃkāra, and was also a poet and dramatist In his Īśvaravilāsa he calls himself to be a pupil of Rāmarāmā Who this Rāmatāmā was, we cannot say He seems to have lived upto a ripe old age, and had a group of pupils, one of which, Natthu, copied Bhūdeva's work, viz.*Īśvaratilasadipika*, a commentary on his own work called *Ātmatativapradipa*, in 1720 A D From a reference in one of the concluding stanzas of his work Itvaravilasadipikā, it appears
-
-
 
 that he, at that time at any rate, lived near *Manikarnikā*in the Vicinity of Banaras which enabled him to get acquainted with *Rasagaṅgādhara* soon after its composition, but being trained in older school of Poetics did not like the views advocated by Jagannātha and therefore referred to him with scant courtesy.
 
@@ -171,8 +143,6 @@ that he, at that time at any rate, lived near *Manikarnikā*in the Vicinity of B
 
  Now I turn to fix up the date of Bhūdeva Śukla Professor PK Gode in an article in ABORI (Vol XIII, p 183) tries to fix the date of Bhūdeva Śukla as not earlier than 1550 AD on the ground that he mentions Śrivatsalanchana either from his commentary on Kavyaprkaśa or from bis mdepen. dent work called Kavyaparikṣa The Ms of Kavyaparikṣa is dated 15:0 AD Mm Dr P V Kane in his History follows this view and mentions on page 410 that RasaviIāsa contains four Stabakas.
 
-
-
  Narayan Shastri Khiste who edited the drama *DharmaVijaya* of our author, says in the Introduction that Bhūdeva may have lived in the 16th century, sav in the reign of Akbar. He comes to this conclusion on the ground that the drama seems to have been composed at a time when the standard of morality had become very low. The liberal policy of Akbar encouraged freedom of thought and faith. The influence of Yavanas endangered strictness in religious practices, and the sober influence of government went only to encourage vice. To counteract this slackness the author wrote the drama. In the prologue of the drama there is a mention of one Keśava dāsa as the patron of our author, and about him he says:—
 
 **चित्तं मानसमुन्नत करयुग श्रीपुष्कर पद्मजा-  
@@ -188,8 +158,6 @@ He further says that if this Keśavadāsa is the same as the famous Hindi poet, 
  काव्यं मया निहितं न परस्य किंचित्।  
 किं सेव्यते सुमनसा मनसापि गन्ध-  
  कस्तूरिकाजननदशक्तिभृता मृगेण॥**
-
-
 
  In view of this it is quite clear that Bhūdeva is the barrower and not Jagannātha. We can also come to the same conclusion on another ground. In the concluding stanzas of RasaviIāsa, Bhūdeva says:—
 
@@ -212,8 +180,6 @@ at its full value and not as a modest statement. It is true that Bhūdeva did no
 
  This is Jagannātha's definition of kāvya, and the reader cannot have any doubt in his mind that by *Sāhasika Bhūdeva* nean Jagannātha.
 
-
-
  Now Dr. P V Kane has fixed the date of the composition of *Rasagaṅgādhara* as lying between 1641 and 1650 A D. (see Kanes' History, p 312). Taking that a few years are necessary for Rasagaṅgādhara to attain popularity and dissemination and availability of copies, a period of say some ten years would be easily allowed. I therefore take that Bhūdeva could not have composed his *Rasavilāsa* earlier than 1660 A D. The Ms of *Rasavilāsa* from the Central Library records the date of 1737 A D, and the Ms of *Īś*varavilāsadipikā at the Bhandarkar Institute records the date of 1720 A D.This latter Ms was copied by Natthū, a direct pupil of Bhūdeva for his own study under the author himself as the following portion of the colophon indicates.
 
  नप्वाल्येन द्विजेन शुक्लश्रीभूदेवचरणारावेदरज परमाण्वणीयसा लिखितैयं ईश्वरविलासदीपिका पठिता च॥
@@ -225,8 +191,6 @@ at its full value and not as a modest statement. It is true that Bhūdeva did no
  The Rasavilāsa is divided into seven chapters called Stabakas, and not into four as stated by Mm Dr Kane on page 410 of his History.
 
  The first chapter is named *Rasaviveka.* It opens with a Mangalācarana in which the author states that Rasa in all its nine forms, is a manifestation of the Self when the factor of ignorance is annihilated by a frame of mind on hearing a poetic composition. He then proceeds to elaborate the process of Rasa from out of its constituents such as Śthāyibhāva, Vibhāva, Anubhāva and Vyabhichāribhāva He then defines and llustrates these constituents. He holds the view that the suggestion of Rasa, rather than Rasa itself, adds an unparallelled charm to the poetic composition. He then enumerates the eight Rasas, and discusses the question whether Śānta can be a ninth Rasa. In this respect he agrees with the views propounded by Śārngadeva in his *Śāngstaratnākara* and by Jagannātha in his *Rasagaṅgādhara*
-
-
 
  The second chapter gives definitions and illustrations of the nine Rasas He then opens a discussion as to the foundation or Sthayibhāva of Śānta Rasa, whether it should be nirveda disgust for the world or peace of mind, sama, and comes to the conclusion in favour of the latter, the reason advanced being that nirveda which is cessation of all mental faculties, is negative and not positive He does not accept *Bhakti* as a Rasa He then criticises the views of Viśvanātha regarding *Camatkara,* strikingness or wonder, as the soul of all Rasas, and says that it is common to all the Rasas.
 
@@ -240,8 +204,6 @@ at its full value and not as a modest statement. It is true that Bhūdeva did no
 
  The seventh and last chapter which is named *Vṛttinirupana* discusses the nature of the threefold function of words, Abhidhā, expression, Laksanā,indication and Vyañjanā, suggestion He admits besides the six types of Laksanā, a seventh type, viz, Jahadajahallaksanā, as is done by Jagannātha
 
-
-
 **4. A CRITICAL ESTIAMATE OF THE WORLK**
 
  Bhūdeva Śukla who lived between 1660 and 1700 A D, is one of youngest writers on Rasa, barring Acyūtarāya Modaka of Nasik He treats in his Rasavilāsa only one aspect of Poetics, viz, the Rasa or Emotion The creative period in the field of Poetics came to an end with Jagannātha with his brilIiant work *Rasagaṅgādhara* We therefore do not find any originality in Bhūdeva's work He copies word for word, texts from his predecessors, and does not even care to ascertain the original sources of his statements He wrongly ascribes certain statements to Dandin and Jayadeva the author of Candralokāwho never discussed the topics. It appears that Bhudeva wanted to compose a Laksanagrantha which was a fashion among writers of the age between 1650 and 1850 A D of the literary world, and thereby establish his reputation. Corresponding to a Laksanagrantha, he must have a Laksyagrantha, and we find in Rasavilāsa as many as fifty illustrative verses composed by our author. We do not trace any critical acumen as such to him either in his definitions or illustrations. Nearly fifty stanzas used for illustrations are his own composition, while the remaining three fourths are taken from *Kavyaprakaśa* and *Rasagaṅgādhara* His own verses are introduced, not because there were no illustrations available in his source books, but only as appendages as they are usually introduced with the remark यथा वा मम The method of treatment has nothing novel about it The only feature we notice in his work is his audacity in copying, without acknowledgement from *Rasagaṅgādhara* Sometimes he quotes definitions of two writers, but adds no comments of his own to point out merits or demerits of either. He sometimes indulges in pedantic discussions, it seems, but when they are analysed we do not see any original contribution beyond saf feats or similar expressions which occur at the end of such discussion
@@ -249,8 +211,6 @@ at its full value and not as a modest statement. It is true that Bhūdeva did no
  To a casual reader points like the following, viz
 
  (1) Whether Santa should be admitted as a Rasa,
-
-
 
  (2) Whether Bhakti can constitute a separate Rasa,
 
@@ -265,8 +225,6 @@ at its full value and not as a modest statement. It is true that Bhūdeva did no
  (7) Argument to admit Vyañijanāas a separate process: may appear to present some striking features of the work; but it is easy to prove that Bhūdeva did not show any origina lity in discussing them in fact, he has borrowed the whole discussion on points one to four and point six from *Rasagaṅgādhara*, on point five he has copied the text and views from *Kāvyaprakāśa* and *Kāvyapradipa* and on point seven his views are taken from *Kāvyaprakāśa*, Laghumañjūṣā and similar works. It is possible to trace each of his statement to some older work, I have done that as much as was possible for me, but concentrated my quest on *Rasagaṅgādhara* as it contained latest pronouncements on the topics in a highly polished form, and also it helped me to fix up the date of Bhūdeva. A point which Bhūdeva did rot care to discuss is the process of the production of Rasa– a point on which his predecessors held divergently striking views So we should look up to Bhūdeva's work, not for any originality, but for mediocre Manual on Rasa
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **भूदेवशुलविरचितो**
 
@@ -301,7 +259,6 @@ at its full value and not as a modest statement. It is true that Bhūdeva did no
 
 [^7]: "This कारिका is not found in धन्यालोक"
 
-
 तत्र[^8] स्वरूपमाहुः काव्यप्रकाश कृतः—
 
 [^8]: "A B have the following marginal note on तत्र-तत्रेति सतिसप्तमी। लक्षणस्वरूपाभ्यां रसे निरूपणीये सतीत्यर्थः"
@@ -312,8 +269,6 @@ at its full value and not as a modest statement. It is true that Bhūdeva did no
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 A begins: श्री महागणपतये नमः।श्रीमद्गुरुभ्यो नमः. B begins: श्रीगणेशाय नमः। वाग्देव्यै नमः।श्रीगुरुभ्यो नमः. C begins : श्री गोपीजनवल्लभाय नमः। श्रीगणेशाय नमः D begins: श्रीगणेशाय नमः.
-
-
 
 **विभाषा अनुभावास्तत्कथ्यन्ते व्यभिचारिणः।  
 व्यक्तःस तैर्विमावाद्यैः स्थायी भावो रसः स्मृतः॥५॥ इति।**
@@ -337,8 +292,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 आत्मभावं नयत्यन्यान्स स्थायी लवणाकरः॥**
 
 **\[दश० रू०.IV.34\]**
-
-
 
  जयदेवोऽप्याह[^9]—
 
@@ -370,7 +323,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  चिरमिति व्यभिचारिवारणायेति।
 
-
 इत्थं[^14] with very slight variations") च समुचितललित \[2b\]निवेशधारुणा काव्येन समर्पितैः सहृदयहृदयं प्रविष्टैः, तदीयसहृदयता[^15]सहकृतेन भावनाविशेषमहिम्ना विगलितदुष्यन्त[^16]रमणीयत्वादिभिरलौकिकविभाधानुभावव्यभिचारिशब्दव्यपदेश्यैः शकुन्तलादिभि[^17]रालम्बनकारणैःचन्द्रिकादिभिरुद्दीपनकारणैः, अश्रुपातादिभिः कार्यैश्चिन्तादिभिः सहकारिभिश्च संभूय प्रादुर्भावितेनालौकिकेन व्यापारेण तत्कालनिर्वर्तितानन्दांशावरणज्ञानेन अत एव प्रभुष्टपरिमितप्रमातृत्वादिनिजधर्मेण मात्रा स्वप्रकाशतया वास्तवेन निजस्वरूपानन्देन सह गोचरीक्रियमाणः प्राग्विनिविष्टवासनारूपो रत्यादिरेव रसः। रत्याद्यवच्छिन्नं चैतन्यं वा रसः। प्राग्विनिविष्ट[^18] इत्यनेन वासनाल्पतयाऽनुवर्तमान इत्युक्तं भवति। अत एव वासनाया अभावाद्वैयाकरणश्रोत्रियवैदिकादीनां न रसास्वादः॥
 
 [^14]: "The passage इत्थं च... रसः is found in toर० गं०. (pp. 21-22
@@ -382,9 +334,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 [^17]: "D शकुंतत्वादिभिः"
 
 [^18]: "CD प्रागिविष्ट -"
-
-
-
 
 तदुक्तंश्रीवत्सलाञ्छनेन[^19]—
 
@@ -432,8 +381,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **उद्दीपनविभावास्ते रसमुद्दीपयन्ति ये॥१४॥इति॥  
                        \[सा० द० III\]**
-
-
 
  उद्दीपनविभावो यथा—
 
@@ -486,8 +433,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  अस्य रसस्येति प्रकृतपरामर्श।
 
-
-
  सात्त्विका यथा—
 
 **वारं वारं तिरयति दृशावुद्गतो बाष्पपूर-  
@@ -530,8 +475,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  विषम इति मतिः। खला इत्यसूया। प्रविरन्ध्रमिति दैन्यम्।अद्य इति त्रासः। शुनीति स्मृतिः। मा चञ्चलेति शङ्का। एतैर्व्यभिचारिभावैः
 
-
-
 नायिकानिष्ठाया उपनायक[^40]समवेता रतिः [काये](#) संचार्यते पोष्यते इति यावत्॥
 
 [^40]: "A B नायकfor उपनायक"
@@ -569,8 +512,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[अमद० 94; quoted in का० प्र. IV. 29\]**
 
-
-
  इत्यादौ उत्सुकादिविशेषणव्यङ्ग्यानामौत्सुक्य[^44]लज्जाहर्षकोपासूयाप्रसादानां व्यभिचारिमात्राणाम्॥यद्यप्यत्र प्रेयसीत्यालम्बन[^45]विभावोऽप्यरित तथापि रत्यनुकूलधर्मवत्तयाऽनिर्देशादस्तिकल्प एवेति। मैवम्। एषां विभावादीनामसाधारण्येनान्यद्वयाक्षेपकत्वेनात्रापि मिलितानामेव व्यञ्जकत्वात्। अथैते यद्यसाधारणास्तर्हि किमन्यद्वयाक्षेपेण। एकैकयभिचारे हि त्रयापेक्षा।यदि साधारण्यमेवैषां कथं तर्हि स्थायिविशेषयोग्यविभावाद्याक्षेपकत्वमिति। उच्यते। एकैकस्य व्यभिचारात् मिलितानां व्यञ्जकत्वे स्थितेऽसाधारणेनापि इतरद् द्वयमाक्षिप्यते। किं च। रसस्य विभावादिसमूहालम्बनरूपत्यादकैकस्मादसाधारणादपि व्यक्त्यभावात् मिलितानामेव व्यञ्जकत्वम्। [अतोऽसाधारण्येऽपि](#) इतरद् द्वयमाक्षिप्यते। ततो मिलितैस्तैस्तदभिव्यक्तिरिति। ते च—
 
 [^44]: "B व्यङ्ग्यौत्सुक्य"
@@ -580,7 +521,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **शृङ्गारहास्यकरुणरौद्रवीरभयानकाः।  
 बीभत्साद्भुतसंज्ञौ चेत्यष्टौ नाट्ये रसाः स्मृताः॥२०॥  
                      \[ना० शा ० VI. 15\]**
-
 
 अत्र[^46] with very slight variations.") केचित्—
 
@@ -598,8 +538,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 [^48]: "B तात्त्विकfor वास्तव"
 
 [^49]: "D शिक्षाद्यभ्यासादित."
-
-
 
 तदा प्रकृतेऽपि दीयतां दृष्टिः। अथ नाट्ये गीतवाद्यादीनां विरोधिनां सत्त्वात् सामाजिकेष्वपि विषयवैमुख्यात्मनः शान्तस्य कथमुद्रेक इति चेत्। नाट्ये शान्तरसमुपगच्छद्भिः[^50] फलबलात्तद्गीत[^51]वाद्यादेरप्यविरोधित्वस्वीकारः। विषयचिन्तासामान्यस्य तत्र विरोधित्वस्वीकारे तदीयालम्बनस्य संसारानित्यत्वस्य तदुद्दीपनस्य पुराणश्रवणसत्संगपुण्यवनतीर्थावलोकनादेरपि विषयत्वेन वि\[5a\]रोधित्वापत्तेः। अत एव करव्यादर्शे दण्डिना[^52]—
 
@@ -645,8 +583,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 [^59]: "र० गं० contains a sentence similar to this on Page 30."
 
-
-
 प्रेक्षावताप्रवृत्त्यापत्ते[^60]। एतेषां लक्षणानि प्रागुक्तानि। केचित्तु[^61]—रत्याद्यन्यतमत्व स्थायित्वमिति तन्न। रत्यादीनामेकस्मिन्प्ररूढे अन्यस्याप्ररूढस्थ व्यभिचारित्वोपगमात्। प्ररूढाप्ररूढत्वे च बह्वल्पविभावजत्वे।
 
 [^60]: "D अप्रवृत्ते"
@@ -678,14 +614,11 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 [^64]: "AB एव च The sentence is found in र० गं० on page 31"
 
-
 तत्र[^65] स्त्रीपुसयोरन्योन्यालम्बन प्रेमायश्चित्तवृत्तिविशेषो रति स्थायिभाव। गुरुदेवविप्रनृपपुनाद्यालम्बनस्तु व्यभिचारी॥
 
 [^65]: "The portion from तत्र down to the end of this chapter is almost identical with र० गं० pp31 33"
 
  पुत्रादिवियोगमरणादिजन्मा वैक्लव्यारयश्चित्तवृत्तिविशेष शाक॥
-
-
 
  दम्पत्योस्तु वियोगे जीवित्व[^66]ज्ञानदशायां वैप्लव्यपोपिताया रतेरेव प्रधानत्वात् शृङ्गारो विप्रलम्भाख्यो रसः। वैक्लव्यं व्यभिचारी[^67]। मृतत्वज्ञानदशायां तु रतिपुष्टवैकृव्यस्यैव प्राधान्यात्करुणः। यदा तु सत्यपि मृतत्वज्ञाने देवताप्रसादादिना पुनरुज्जीवनज्ञानं कथंचित् स्यात् तदा आलम्बनस्यात्यन्विकनिरासाभावाच्चिरप्रवास[^68] इव विप्रलम्भ एव न क\[6\]रुणः। नित्यानित्यवस्तुविचारजन्मा विषयविरागाख्यो निर्वेदः स्थायी। गृहकलहादिजस्तु व्यभिचारी॥
 
@@ -720,8 +653,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  एवमेषां स्थायिभावानां मध्ये रतेः स्त्रीपुंसौआलम्बने। चन्द्रिकावसन्तविविधोपवनरहःस्थानादय उद्दीपनविभावाः। तन्मुखावलोकनतद्गुणश्रवणकीर्तनादयोऽन्ये सात्त्विकमावाश्चानुभावाः। स्मृतिचिन्वादयो व्यभिचारिणः॥
 
-
-
  करुणस्य बन्धुनाशादय आलम्बनानि। तरंगबन्धिगृहतुरगाभरणदर्शनादxxxxxदीपकाः। गात्रक्षेपा\[6b\]भूपातादयोऽनभावाः। ग्लानिभघमोहविवदयिन्तौत्सुक्यदीनाञ्चहतादयो व्यभिचारिणः॥
 
  शान्ताम्यानित्यत्वेनxxxx जगदालम्पनम्। वेदान्तश्रवणपोवनापमदर्शनाद्युदीपनम्। विषयाकणिशष्ठभिप्राद्यौदामीन्यचेष्टाहानिनामामदृष्ट्यादयोऽनुभावाः। हर्षोन्मादम्भृतिमत्यादयो व्यभिचारिणः॥
@@ -733,11 +664,7 @@ A begins: श्री महागणपतये नमः।श्रीम�
 इति भीमच्छुक्लभेदवविरचिते रसविलासे  
 रसविवेको नाम प्रथमः स्तवकः॥
 
-
-
 **\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **द्वितीयः स्तवकः।**
 
@@ -788,8 +715,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[?\]**
 
-
-
  इत्यादौविप्रलम्भस्यैव वर्णनात्। एवं वियोगोऽपि न वैयधिकरण्यम्। दोषस्योक्तत्वात्। तस्माद् द्वाविमौ संयोगावियोगख्यावन्तकरणवृत्तिविशेषौ यत् संयुक्तो वियुक्तश्चास्मीति धीः। अयं च शृङ्गारः परस्परा[^80]लोकनालिङ्गनचुम्बनादिभेदादपरिगणनीय[^81]इत्येक एवं गण्यते। तत्र संयोगो नायिकारब्धो नायकारब्ध उभयारब्धश्च।
 
 [^80]: "D परस्परालिङ्गन०"
@@ -824,8 +749,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  अत्र नायिका आलम्बनम्। चरमच\[7b\]रणप्रतिपाद्यं विविक्तमुद्दीपकम्। वीटिकासंस्पर्शायनुभावः। प्रथमार्धव्यङ्ग्यहासचपलतादिकं व्यभिचारि। तै रतेर्नायिकाविपयाया नायकसमवेताया अभिव्यक्तिरिति॥
 
-
-
 उभयाख्धो यथा—
 
 **ह्रीतया गलितनीवि निरस्य-  
@@ -849,8 +772,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **\[मा० मा० V. 7; quoted in का० प्र० IV. 32\]**
 
  प्रेम स्नेहः। स ए\[8a\]व प्रकृष्टः प्रणयः। स एव परिचयातिशयेन रञ्जनक्षमो रागः। भयं च मालतीमाधवे माधववाक्यविन्यासः। अत्रमालवी आलम्बनम्। तदीयसौन्दर्यादिस्मरणमुद्दीपनम्। भवेयुरित्यादिपदसामर्थ्याक्षिप्तकातरावलोकनं चित्तलयादयोऽनुभावाः। औत्सुक्यादयो व्यभिचारिणः। तैः संयोगप्रागभावकालावच्छिन्नाया रतेरमिव्यक्तिः॥
-
-
 
  यथा वा मम—
 
@@ -882,8 +803,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **\[?\]**
 
  अत्र नायक आलम्बनम्। तदीयतनिमप्रयुक्तान्यसपत्न्यपेक्षया आत्मनि पतिप्रणयाविरेकभावना उद्दीपनम्। कृतेऽपि अनुनये येमुख्यादिक-
-
-
 
 मनुभावः। धैर्यादिकं व्यभिचारि। तै रतेरभिव्यक्तिः। पूर्वमीर्ष्याहेतुकः अत्र प्रणयहेतुक इति भेदः। एवममेऽपि बोध्यम्॥
 
@@ -929,8 +848,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **आषाढे श्रावणे वा सरसिजनयने प्रेक्षणीयोऽस्मदीयः  
  पन्था वर्षादिने यत्कथमपि न बहिः स्थेयमस्माभिरेव।**
 
-
-
 **उक्त्वैव याति पान्थे वदनकुमुदिनीबन्धुमालिन्यकर्त्री  
  हंसप्रोल्लासहर्त्री दृशि नलिनदृशः प्रावृडाविर्बभूव॥**
 
@@ -970,8 +887,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  स्थातुं नागरसुन्दरी न सदने शक्नोति नो वा बहिः॥**
 
 **\[?\]**
-
-
 
  २. हास्यो यथा—
 
@@ -1025,8 +940,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[सं० र० VII, 1432\]**
 
-
-
  अयं चोदाहृतः॥
 
 **हसन्तमपरं दृष्ट्वा विभावैश्चोपजायते।  
@@ -1075,8 +988,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 [^104]: "B मदं for गण्ड-"
 
-
-
 **निकुञ्चितांसशीर्षश्च जिह्मदृष्टिविलोकनः।  
 उत्फुल्लनासिको हासो नाम्नोपहसितं मतम्॥३७॥**
 
@@ -1121,8 +1032,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 [^109]: "CD add च after असंभाषणादि."
 
-
-
 दयो व्यभिचारिणः। तैः शोकाभिव्यक्तिः। पूर्वमिष्टनाशात् अत्रेष्टस्य पर्यन्ते जीवनात् अनिष्टप्राप्तिमात्राच्च पूर्वस्माद्भेदः॥
 
 **४. प्रतिकूलेषु तैक्ष्ण्यस्य प्रबोधः शोध उच्यते।  
@@ -1157,8 +1066,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 [^112]: "D गधर्वादयो."
 
 [^113]: "C D गुरुनाशजन्य क्रोध, अत्र तु गुर्वपराधजन्य"
-
-
 
 **५.** **कार्यारम्भेषु संरम्भः स्थेयानुत्साह उच्यते।  
  रसो यस्त्वत्प्रकृतिकः सोऽयं वीरस्त्रिधा मतः।  
@@ -1206,8 +1113,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  अत्र पात्रलाभोविभावः । पण्डितापण्डितसाधारण्येन दानमनुभावः।हर्षादयः संचारिणः। तैर्दानेविपयोत्साहस्य[^118] प्रतीतिः॥
 
 [^118]: "C तैर्दानविषयोत्सादाभिव्यक्तिः , D om. ते... मतीतिः"
-
-
 
  दयावीरो[^119] यथा—
 
@@ -1260,8 +1165,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[ \]**
 
-
-
  स यथा—
 
 **उत्कृत्योत्कृत्य कृत्तिं प्रथममथ पृथूत्सेध[^126]भूयांसि मांसा-  
@@ -1309,8 +1212,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  अत्र वामन आलम्बनम्। विलक्षणकान्त्यादिदर्शनमुद्दीपनम्।एतद्वाक्यप्रयोगाक्षिप्तंच विस्फारितनयनाव\[13a\] लोकनादिकमनुभावः। आवेगादयः संचारिणः। तैर्विस्मयाभिव्यक्तिः॥
 
-
-
 **९. तत्त्वज्ञानादिना चेतोवृत्तिर्वैराग्यशब्दभाक्।  
  निर्वेदस्तत्प्रकृतिको रसः शान्त इतीरितः॥४६॥**
 
@@ -1346,8 +1247,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 १. B has a marg. note on this verse: प्रशस्तिरचनान्ते इयमस्ति, Jhalakikar has following remarks on this stanza: कारमारदेशस्थस्याभिनवगुप्तपादाचार्याणां परमगुरोः प्रत्यभिज्ञासूत्राद्यनेकग्रन्थकर्तुः श्रीमदुत्पलराजस्य पद्यमिदमिति क्षेमन्द्रकविकृतायामौचित्यविचारचर्यायां तटिप्पणे च स्पष्टम्। यद्यपीदं पद्यं भर्तृहरिकृते वैराग्यशतकेदृश्यते तथापि भर्तृहरेः शतकत्रयेऽपिअन्यकविकृतान्यपिबहूनि पद्यान्युपलभ्यन्ते. Cf. Kosambi 213.
 
-
-
 **यच्च कामसुखं लोके यच्च दिव्यं महत्मुखम्।  
 तृष्णाक्षयसुखस्यैते कलां नार्हन्ति षोडशीम्। इति।**
 
@@ -1363,7 +1262,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  इति सिद्धम्[^134]॥
 
 [^134]: " A B प्रसिद्धम्"
-
 
 अथ[^135] कथमेत एव रसाः। भगवदालम्बनस्य रोमाञ्चाश्रुपातादिभिरनुभावितस्य हर्षादिभिः परिपोषितस्य भागवतादिपुराणश्रवणसमये भगवद्भक्तैरनुभूयमानस्य भक्ते रसस्य दुरपह्रवत्वात्। भगवदनुरागरूपा भक्तिश्चात्र स्थायिभावः॥
 
@@ -1388,8 +1286,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 भावः प्रोक्तस्तदाभासास्वनौचित्यप्रवर्तिताः॥४८॥**
 
 **\[का०प्र० IV. 35\]**
-
-
 
  इति प्राचां सिद्धान्तात्। न च तर्हि कामिनीविषयाया अपि रतेर्भावत्वमस्तु, रतित्वाविशेषात्। अस्तु वा भगवद्भक्तेरेव स्थायित्वं कामिन्यादिरतीनां च भावत्वं विनिगमकाभावादिति[^138] वाच्यम्। भरतादिमुनिवचनानामेवात्र रसभावत्वादिव्यवस्थापकत्वेन स्वातन्त्र्यायोगात्। अन्यथा पुत्रादिविषयाया अपि रतेः स्थायिभावत्वं[^139] \[14\] कुतो न स्थात्। न स्याद्वाकुतः शुद्धभावत्वं हासशोकादीनामित्यखिलं दर्शनमाकुलस्यान्। रसानां नवत्वगणना च मुनिवचननियन्त्रिता[^140] भज्येतेति यथाशास्त्रमेव व्यायः॥
 
@@ -1416,8 +1312,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ४. The reference to जयदेव seems to be incorrect as the topic is not discussed in चन्द्रालोक. On the contrary विश्वनाथ ascribes the कारिका to धर्मदत्तas तदाह धर्मदत्त' स्वग्रन्थे. See Kane page 289
-
-
 
 **तृतीयस्तवकः।**
 
@@ -1459,8 +1353,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  ससुरासुरस्य जगतः शरणम्॥**
 
 **\[?\]**
-
-
 
  गुरुविषया यथा—
 
@@ -1508,8 +1400,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[स० कं० V. 238; का० प्रदीप IV\]**
 
-
-
  इत्यपि केचित्। तत्र नीचपुरुषेष्वाक्रोशनाधिव्याधितिरस्कारताडनदारिद्येष्टविरहपरसंपद्दर्शनादिभिरुत्तमेषु त्ववमानादिभिर्जनिता विषयविद्वेषाख्या वृत्तिश्चित्तस्येति विवेकः। नित्यानित्यवस्तुविवेकजन्या सा स्थायिभावः॥
 
  उदाहरणम्—
@@ -1555,8 +1445,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **क्षामक्षामकपोलमाननमुरः काठिन्यमुकस्तनं  
  मध्यः क्लान्तवरः प्रकामविनतावंसौ छविः पाण्डुरा॥**
-
-
 
 **शोच्या च प्रियदर्शना च मदन[^150]क्लिष्टेयमालक्ष्यते  
  पत्राणामिव शोषणेन मरुता स्पृष्टा लता माधवी॥**
@@ -1610,8 +1498,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **वदतु सदसि धृष्टं युद्धिमानस्ति नैष  
  पठतु सकलशास्त्राण्य धुरोपस्थितिः कः।**
 
-
-
 **अरुददिह पुरासौबालकैस्ताड्यमानः  
  प्रतिदिनमभिमानः किंनिदानोऽयमस्य॥**
 
@@ -1652,8 +1538,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 गतिभङ्गस्मृतिध्वंसहिक्वाछर्द्यादिभिः परः॥६५॥I**
 
 **\[ \]**
-
-
 
  उदाहरणम्—
 
@@ -1708,8 +1592,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[दशरू० IV. 2.5 का० प्रदीप IV\]**
 
-
-
  अतितृप्ति[^158]गर्भव्याधिश्रमादिजन्मा चेतसः क्रियानुन्मुखता बालस्यमिति निष्कर्षः। अत्र च नासामर्थ्यनापि कार्याकार्यविवेकशून्यत्वम्। तेन कार्यकारणरूपस्वानुभावस्य तुल्यत्वेऽपि ग्लानेर्जडतायाश्च भेदः॥
 
 [^158]: "Cf र० गं० P. 94."
@@ -1739,7 +1621,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[र० गं० P. 81\]**
 
-
 दुःख[^161]दारिद्र्यापराधादिजनितस्वापकर्षभाषणादिहेतुचित्तवृत्तिविशेषो दैन्यमिति निष्कर्षः॥
 
 [^161]: "Cf र० गं० P. 81."
@@ -1754,8 +1635,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 [^162]: "Jhalakikar comments on the stanza: कीचककृतपराभवं निवेदयन्तीं द्रौपदीं प्रति वृहन्नलारूपस्यार्जुनस्योक्तिरियमिति सुधासागरकारः। अर्जुनस्य बृद्धन्नलादशायां स्वाभ्युदया किमिति न चेष्टते इति केनापि पृष्टस्य वाक्यमिदमित्युद्योतकारः-"
 
 **\[Quoted in का० प्र० V. 113\]**
-
-
 
  अत्र दौर्गत्यमनस्तापादयो विभावाः। आत्मनिन्दादयोऽनुभावाः॥
 
@@ -1803,8 +1682,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  एवं[^168] च भयवियोगादिप्रयोज्या वस्तुतत्त्वानवधारिणी चित्तवृत्तिर्मोहः। अन्तरान्तरा शून्यताख्यचित्तवृत्तिसंवलिता सेति तु नव्याः॥
 
 [^168]: "Cf. र० गं०P. 79."
-
-
 
  उदाहरणं यथा मम—
 
@@ -1862,8 +1739,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **अयि नन्दकुमारमभ्युपेतं  
  भवनद्वारि निवारयांचकार।**
 
-
-
 **जननी मम तेन नाहि दूये  
  मनसः केन स वा निवारणीयः॥**
 
@@ -1909,8 +1784,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[स० क० V. 193; quoted in का० प्रदीप IV\]**
 
-
-
 इति केचित्॥
 
 **अमर्षप्रातिकूल्येर्ष्यारागद्वेषाश्च मत्सरः।  
@@ -1948,8 +1821,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  तथा चेष्टप्राप्त्यादिजन्मा[^178] सुखविशेषो हर्षः॥
 
 [^178]: "Cfर० गं० P. 76."
-
-
 
  उदाहरणम्—
 
@@ -1993,8 +1864,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 अनिमिषनयननिरीक्षणतूष्णीमात्रादयस्तत्र॥१०॥इति॥**
 
 **\[Quotedin का० प्रदीप IV \]**
-
-
 
 **कार्याविवेको जडला पश्यतः शृण्वतोऽपि वा।  
 तद्विभावाः प्रियानिष्टदर्शनश्रव\[20b\]णे रुजः॥११॥  
@@ -2041,8 +1910,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  अत्र सौन्दर्ययुक्तं स्वोत्कर्षभावनं विभावः। अङ्गवीसादयोऽनुभावा॥
 
  यथा वा मम—
-
-
 
 **पाण्डित्यं[^184] कविताकलाकुशलता शौर्यं तथाऽन्ये गुणाः  
  सन्तु प्राणभृतामथापि भवनद्वारप्रदेशे मम।  
@@ -2099,8 +1966,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[ \]**
 
-
-
  अत्र रामवधासिद्धिर्विभावः। निःश्वासादयोऽनुभावाः॥
 
 **२०. कालाग्नमत्वमौत्सुक्यं रम्येच्छारतिसंभ्रमैः।  
@@ -2152,8 +2017,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  प्रातराननजसौरलुब्धैः॥**
 
 **\[र० गं० p. 85\]**
-
-
 
  जागरण[^194]श्रमोऽत्रविभाव। मधुपैर्बोधनेऽपि बोधा[^195]भावोऽनुभाव।
 
@@ -2211,8 +2074,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[ ? \]**
 
-
-
  उदाहरणम्—
 
 **अवगम्य गुह्यकगणादिति त-  
@@ -2255,8 +2116,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  द्धर्मस्तदा मे भविता सहायः॥**
 
 **\[ \]**
-
-
 
 अन्ये तु उत्साहोत्थापितायास्वस्यादयावीरस्थायित्वमित्यत्र [तद्गणनामौचित्यमित्याहुः](#)। न चात्र संचारित्वाद्गणनं फलवदिति वाच्यम्। स्थाय्यन्तरसाधारणत्वात्। तेऽपि हि क्वचन संचारिणः॥
 
@@ -2301,8 +2160,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  तथा[^206] च— भीरोर्धीरसत्त्वदर्शनस्फूर्जथुश्रवणादिजन्मा चित्तवृत्तिविशेषस्त्रासः। अनुभावाञ्चास्य रोमाञ्चकम्पस्तम्भभ्रमादयः॥
 
 [^206]: "Cf र० गं० P 86."
-
-
 
  उदाहरणम्[^207]—
 
@@ -2349,8 +2206,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 [^212]: "B has marg. note आवश्यकतया on नान्तरीयकतया."
 
-
-
  एषु संचारिभावेषु मध्ये केचन केषांचन विभावा अनुभावाश्च भवन्ति। तथा हि—ईर्ष्याया निर्वेदं प्रति विभायत्वमसूयां प्रति चानुभावत्वम्। चिन्ताया निद्रां प्रति विभावत्वमौत्सुक्यं प्रति चानुभावत्वमित्यादि स्वयं विज्ञेयम्॥
 
  अथाभासाः॥
@@ -2389,8 +2244,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 [^215]: "B किं."
 
-
-
 **सुलग्ने को जातः शशिमुखि यमालिङ्गसि बलात्  
  तपःश्रीः कस्यैषा मदननगरि ध्यायसि तु यम्॥**
 
@@ -2428,8 +2281,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **\[Quoted in का० प्र०IV. 49\]**
 
  अत्र रतेर्व्यभिचारिभूता चिन्ताऽनौचित्यप्रवर्तिता। नायिकाया अननुरक्तत्वेन रतेरनुत्कृष्टतया तद्व्यभिचारिणोऽपि तथात्वात्॥
-
-
 
  यथा वा मम—
 
@@ -2474,8 +2325,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **\[ रघु० VI 13\]**
 
  अत्र रतेगभासत्वेन तत्संचारिणश्चापलभ्यायामामदा। एवमन्येऽरि उदाहार्यौ॥
-
-
 
  भावशान्त्यादिरपि भावा एव। तदुक्तम्—
 
@@ -2524,8 +2373,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[ \]**
 
-
-
  अत्र सुन्दरीनेत्रशोणिम्नः पान्थत्ववर्णनेन कोपस्य शान्तिर्व्यज्यते॥ एवमन्येऽपि उदाहार्याः॥
 
  भावोदयो यथा—
@@ -2572,8 +2419,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  अत्र चुम्बनत्यविशिष्टाया नायि\[29a\]कायाश्चुम्बनं विहाय केवलमुखावलोकनवर्णमेन कोपस्योदयो व्यजते॥
 
-
-
  यथा वा मम—
 
 **वालुकाविहितभित्तिभेदनं  
@@ -2600,7 +2445,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  अत्र शत्रुनिष्ठस्योत्साहस्य शान्तिव्यज्यते। एवमन्यदपि उदाहार्यम्॥
 
-
 भावसंधिर्यथा—स[^225]चान्योन्यानभिभूतयोरन्योन्याभिभावनयोग्ययोर्भावयोः सामानाधिकरण्यरूपः॥
 
 [^225]: "Cf र० गं०P. 103."
@@ -2618,8 +2462,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **काकार्थं शशलक्ष्मणः क्व च कुलं भूयोऽपि दृश्येत सा  
  दोषाणां प्रशमाय नः श्रुतमहो कोपेऽपि कान्तं मुखम्।**
-
-
 
 **किं वक्ष्यन्त्यपकल्मषाःकृतधियः स्वप्नेऽपि सा दुर्लभा  
  चेतःस्वास्थ्यमुपेह\[26b\]कः खलु युवा धन्योऽधरं धास्यति॥**
@@ -2658,8 +2500,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  स्नेहः सारससारसोदरदृशस्तस्याः पुनस्तादृशः॥  
                                 \[ ?\]**
 
-
-
  अत्र गन्तव्यमित्यौत्सुक्यम्। तत्रेति स्मृतिः। ह ह हेति खेदः। दुःखितेति दैन्यम्। बुद्धेरिति धैर्यम्। परामिति चिन्ता। प्रत्यावृत्येति शङ्का। लोकोत्तर इत्यावेगः। तादृश इति स्मृतिः। एतेषां भाषानां शाबल्यम्॥
 
  अत्र—भावशबलत्वं[^227] भावानां बा\[27a\]ध्यबाधकमावापन्नानामुद्दासीनानां वा व्यामिश्रणम्। एकचमत्कृतिजनकज्ञानविषयत्वमिति यावत्॥
@@ -2689,14 +2529,11 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  ते भावा भावशान्त्यादयः। कदाचनेति यदा त एवाङ्गित्येन विवक्षिताः। प्राधान्याप्राधान्ययोः कविविवक्षाधीनत्वादिति निर्गलितोऽर्थः॥
 
-
 अत्रेदं[^230] विचार्यते। नन्वेतेषु भावेषु किं नाम भावत्वम्। विभावानुभावभिन्नत्वे सति रसव्यञ्जकत्वमिति[^231]। विभावानुभावभिन्नेषु रसव्यञ्जकेषु
 
 [^230]: "The entire discussion about the definition of भाव consists of stray sentences from र० गं०"
 
 [^231]: "B adds इति चेन्न."
-
-
 
 रागादिषु अतिव्याप्तेः। अत्रोच्यते— विभावानुभावव्यज्यमाननिर्वेदाद्यन्य\[27ba\]समत्वं तत्त्वम्। यदाहुः— 'व्यभिचार्याञ्जितो भाव' इति। निर्वेदादीनां च सामाजिकगतानामेव स्थायिभावन्यायेनाभिव्यक्तिः। विभावानुभावौ चात्र व्यञ्जकौ, न त्वेकस्मिन् व्यभिचारिणि ध्वन्यमाने व्यभिचार्यन्तरं व्यञ्जकतयाऽवश्यमपेक्ष्यते। तस्यैवप्राधान्यापत्तेरित्यास्तां विस्तरः॥
 
@@ -2705,8 +2542,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **चतुर्थः स्तबकः।**
 
  अथैषामुत्कर्षाधायकत्वेन स्मृता गुणास्तावन्निरूप्यन्ते। तत्सामान्यलक्षणं काव्यप्रकाशे—
@@ -2714,7 +2549,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **ये रसस्याङ्गिनो धर्माः शौर्यादय इवात्मनः।  
 उत्कर्षतवस्ते स्युरचलस्थितयो गुणाः॥११६॥इति।**  
                       **\[का० प्र० VIII. 66\]**
-
 
 अङ्गिनः[^232] शरीरे स्वात्मवत् प्राधान्येन काव्ये स्थितस्य रसस्य[^233] धर्माः साक्षात्तदाश्रिता इत्यर्थः। अचलस्थितय इति अपृथकस्थितयः। अव्यभिचारिस्थितय इति यावत्। अव्यभिचारश्च रसेन तदुपकारेण च। तेन रसं विना ये नावतिष्ठते अवतिष्ठमानाश्चावश्यं रसमुपकुर्वन्तीत्यर्थः। एवं च[^234] रसोत्कर्षहेतुत्वे सति रसधर्मत्वं तथात्वे सति रसाव्यभिचारिस्थितित्वंवा गुणसामान्यलक्षणम्। ननु रसधर्मत्वमेषामसिद्धं कथमन्यथा नीरसेऽपि सुकुमारवर्णशालिनि—
 
@@ -2733,8 +2567,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 [^235]: "B सच्छतामावहन्ति"
 
  इत्यादौमधुरादिव्यवहारः। रसवत्यपीदृग्वर्णाभाववति 'शून्यं वासगृहम्' इत्यादौअमधुरादिव्यवहार इति चेत्। उच्यते। शौर्यादयस्तावदात्मनो धर्मा इत्यविवादम्। दृश्यते तु क्वचिदशूरेऽपि आका\[28a\]रमहश्वादियोगिनि शूरत्वव्यवहारः, शूरेऽप्याकारलाघवादियोगिनि अशूरव्यवहारश्च। तत्कस्य हेतोः। अथ क्वचित् शूरव्यवहारविषये वितताकृतिदर्शनात्आकार एवास्य शूर इत्यौपचारिकव्यवहाराच्चाभियुक्तानामाकार एवैतादृशः शूरपदवाच्य इति विपर्यासाददूरदर्शिनस्तथा व्यवहरन्ति। तत्त्वज्ञास्तु क्वचित् उपचारत इति वक्तव्यम्। हन्तैवं मधुरादिरसोपयोगिनि सुकुमारादि-
-
-
 
 वर्णयुक्ते मधुरादिव्यवहारात् वर्ण एवायं मधुरादिरित्यौपचारिकव्यपदेशाञ्चाभियुक्तानां वर्ण एवैवादृशो[^236] माधुर्यभागिति विपर्ययाद्रसपर्यन्तावगाहिबुद्धिविधुरास्तथा व्यवहरन्ति। तत्त्वज्ञास्तु क्वचित् उपचारादिति तुल्यमेतत्॥ ननु शौर्यादावात्मवृत्तित्ववत् मधुरत्वादीनां रसवृत्तित्वव्यवस्थितावेवं स्यात्, सैव त्वसिद्धा, विनिगमकाभावादिति चेन्मैवम्। भवत्येव विनिगमकामावो यदि त्वया वर्णमात्राश्रया गुणाः स्वीकर्तुं शक्यन्ते, न[^237]त्वेवमविशेषेण रचनायामपि तद्भ्युपगमात्। तथा च रसमात्रवृत्तित्वे लाघवम्[^238], वर्णरचनोभयवृत्तित्वेतु गौरवम्। यतश्चैवमत एव माधुर्यादयो रसधर्माः समुचितैर्वर्णरचनादिभिर्व्यज्यन्ते इति फलितम्॥ते—
 
@@ -2758,7 +2590,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 माधुर्यं नाम शृङ्गारे प्ररोहं गाहते गुणः॥११९॥**  
            **\[Quoted in का० प्रदीप VIII\]**
 
-
 क्वासावित्यत[^239] उक्तं शृङ्गारे इति। संभोगे इत्यर्थः। विप्रलम्भेऽतिशयस्य वक्तव्यत्वात्। करुणादौ विशेषमाह- करुणेति। संभोगात् करुणे, तस्माद् विप्रलम्भे, ततोऽपि शान्तेऽतिशयितं माधुर्यम्। इयांस्तु विशेषो यत्—
 
 [^239]: "The whole discussion is found in identical terms in का० प्रदीप VIII."
@@ -2767,8 +2598,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 जुगुप्साद्यन्वयाच्छान्वेऽनुविद्धं त्वोजसापि ठन्॥१२०॥ इति।**  
                                    
   **\[ \]**
-
-
 
  ओजोरक्षणमाह—
 
@@ -2798,8 +2627,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  माधुर्ये व्यङ्ग्ये टवर्गवर्जिताः कादयो मावसानाः रेफणकारौचेति वर्णाः। तत्र कादयो मूर्ध्नि स्वस्ववर्मान्त्यवर्णगताः—
 
 **पद्मपुञ्जभ्रमद्भृङ्गां गङ्गां किं गन्तुमीहसे।**
-
-
 
  इत्यादौ।रेफणकारौ तु ह्रस्वस्वरान्तरितौ वृत्तिः समासस्तस्य चाभावो मध्यमता वा। घटना तथेति। सौकुमार्यवती घटना।सुकुमारपदानां तादृशपदान्तरयोगरचनेत्यर्थः। वर्णसौकुमार्यवती रचना वर्णसौकुमार्यादेव लब्धेति। पदान्तरयोगे सौकुमार्यलाभाय घटना तथेत्युक्तमिति॥
 
@@ -2831,8 +2658,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 भ्रश्यकूपणवज्रकण्टकपनीमावं व्रजत्यन्तरा  
  वासाभिद्रुतपूर्वदेवमुदृशां पन्थाः पुरा दुस्तरः॥  
                                \[ \]**
-
-
 
  प्रसादलक्षणमाह—
 
@@ -2874,8 +2699,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  नीरसेऽत्र माधुर्यौजसोरभावेऽपि प्रसाद। स चोपचाराद्वर्णनिष्ठ एव। वस्तुतस्तु नात्र प्रसादोऽपि, तस्य रसैकधर्मस्वात्॥
 
-
-
  यथा वा मम—
 
 **अलकारज्ञान निखिलनटशास्त्रे परिचय  
@@ -2895,8 +2718,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **मन्थायरतार्णवाग्भ प्लुतकुहरचन्मन्दरध्वानधीर  
  कोणाघातपुगर्जन्प्रलयघनघटान्योन्यसघट्टचञ्चु।**
-
-
 
 **कृष्णाक्रोधाप्रदूत कुरुकुलनिधनोत्पातनिर्घातवात  
  केनास्मत्सिंहनादप्रतिरसितसखो दुदुभिस्ताडितोऽयम्॥**  
@@ -2922,8 +2743,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **प्रागप्राप्तनिशुम्भशाम्भवधनुर्द्वेधाक्रियाविर्भव-  
  त्क्रोधप्रेरितभीमभार्गवभुजस्तम्भापविद्ध क्षणात्।**
-
-
 
 **सज्वालः परशुर्भवत्वशिथिलस्त्वत्कण्ठपीठातिथि-  
  र्येनानेन जगत्सु खण्डपरशुर्दे\[31b\]वो हरः[^241]ख्याप्यते॥**  
@@ -2952,10 +2771,7 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **पञ्चमः स्तवकः।**
-
 
 अथावसरसंगत्या[^244] रसविरोधित्वेन हेयतया स्मृतत्वेन प्रसङ्गाच्च रसदोषा निरूप्यन्ते। तानाहुः काव्यप्रकाशकृतः—
 
@@ -2986,8 +2802,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  नव्यास्तु— अत्र[^247]यदि असाधारणानां विभावानुभावानामुपस्थितिस्तदा व्यभिचारिभावानामाक्षेपादेव रसव्यक्तिरिति नास्वादविघातः। यदि तेषांनोपस्थितिस्तदा कारणाभावादेव नास्वादः। एवं च व्यभिचारिभावानां
 
 [^247]: "Cf.र० गं० P. 50."
-
-
 
 स्वशब्दोपादाने को दोष इत्याशङ्क्य विभावानुभावानामुपस्थितौव्यभिचारिणां चाक्षेपावश्यकत्वे स्वशब्देनोपादानस्य वैयर्थ्याद् व्यर्थत्वं दोषमाहुः। केचित्तु[^248]रसभावादीनां व्यञ्जनावृत्त्यैकगम्यत्वे व्यवस्थिते शब्दवाच्यत्वे वमनाख्यं दोषमाहुः॥ ए\[32b\]वं च स्थिते–
 
@@ -3025,8 +2839,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  अत्रैव[^249] 'स्थायिभावोऽस्य कोऽप्यभूत्' इति चतुर्थपादपाठे सामान्यतः शब्दवाच्यतोदाहरणं द्रष्टव्यम्।
 
 [^249]: "Cf का० प्रदीप VII."
-
-
 
  २. कष्टकल्पनया पृथक् श्लोकाद्यनुसंधानेन प्रकरणा\[33a\]दिपर्यालोचनेन वा विलम्बेन व्यक्तिः॥ तत्रानुभावस्य यथा—
 
@@ -3066,8 +2878,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 तेषांकरुणादावपि \[33b\].संभवात् इति कष्टेन कल्पनीयः॥
 
 [^256]: " Cf का० प्रदीप VII."
-
-
 
  ३. प्रतिकूलविभावादिग्रहः प्रकृतरसादेः प्रतिकूलो यो रसादिस्तद्विभावानुभाव्यभिचारिणां ग्रहः॥
 
@@ -3110,8 +2920,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
               निभृतरमये लोचनपथे पतिते गुरुजनमध्ये।  
               शाकलपरिदारूपयावनगमनमेवेच्छति वधू ॥
 
-
-
  केचित्तु[^258]—प्रबन्धे प्रकृतस्य रसस्य प्रसङ्गान्तेरण विच्छिन्नस्य पुनर्दीपने न सामाजिकानां सामग्र्येण रसास्वाद इति विच्छि\[34a\]न्नदीपनं दोषमाहुः॥
 
 [^258]: "Cf र०गं०P. 50."
@@ -3130,8 +2938,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  ९. प्रकृतीनां विपर्ययः—यत्प्रकृतौयद्वर्णनमुचितं तद्विपर्यासेन वर्णनम्। प्रकृतयस्तावदिव्या अदिव्या दिव्यादिव्याश्च। अत्र दिव्यत्वममर्त्यैकरूपत्वम्।
 
-
-
 अतो न पातालीयाद्यसंग्रहः। उदाहरणं श्रीमन्महेश्वरादिः। अदिव्यत्वं मर्त्यैकरूपत्वम्। यथा माधवादेः। दिव्यादिव्यत्वमुभयरूपता यथा कृष्णादेः। त्रिविधा अप्येते चतुर्धा भवन्ति। धीरोदात्तधीरोद्धत- धीरललितधीरशान्तभेदात्। क्रमेण वीररौद्रशृङ्गारशान्तरसप्रधानत्वमेषां लक्षणानि। श्रीरामजामदग्न्यवासुदेवबुद्धाः उदाहरणानि। एतेषु भेदेषु प्रत्येकमुत्तममध्याधममेदत्वम्। अनुकूलादिभेदास्त्वस्थिराः। अनुकूलादिर्हिकदाचिद्दक्षिणः संपद्यते इति प्रकृतिभेदा न गणनीयाः। एवं भिन्नासु प्रकृतिषु रतिहासशोकाद्भुतानि अदिव्योत्तमप्रकृतिवद् दिव्येष्वपि वर्णनीयानि। किं तु रतिः संभोगशृङ्गाररूपा उत्तमदिव्यविषया स्फुटीकृतसकलानुभावेन वर्णनीया॥
 
 **क्रोधं प्रभो संहर संहति यावद्भिरः खे मरुतां चरन्ति।  
@@ -3145,8 +2951,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 [^262]: "Bom हि."
 
 [^263]: "Cf.र० गं० P. 52."
-
-
 
 स्वतोऽपकृष्टेषु न सबहुमानेन वचसा व्यवहर्तव्यम्।\[35b\]व्यवहर्तव्यं चापकृष्टैरुत्कृष्टेषु। तत्रापि भवन् भगवन् इत्यादिभिः संबोधनैर्मुनिगुरुदेवताप्रभृतय एव न राजादयः। जात्योत्तमैर्द्विजैरेव नाधमैः शूद्रादिभिः। परमेश्वरेत्यादिसंबोधनैश्चक्रवर्तिन एव न मुनिप्रभृतयः संबोध्याः। एवं यत्र जातिदेशकालवर्णाश्रमवयोऽवस्थाकृतिव्यवहारादिषु यल्लोकशास्त्रसिद्धमुचितं द्रव्यगुणक्रियादि तद्भेदो वर्ण्यमानः प्रकृतिभेदे पर्यवस्यति॥
 
@@ -3170,7 +2974,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 इत्यादिकं वर्ण्यमानं वैरस्यायैव कल्पते॥१३५॥**  
                              **\[ \]**
 
-
 त[^265]च्चा[^265]नौचित्यं[^265] पानकरसे सिकतापातवद्रसे चर्व्यमाणेऽरुंतुदम्। तदाहुः—
 
 [^265]: "Cfर० गं०P. 51."
@@ -3185,16 +2988,12 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 [^269]: "Cf र०गं०P. 51."
 
-
-
 इत्यनेनैतदुक्तं भवति यदेवविधा अन्येऽप्यनौचित्यहेतवो भवन्ति। यथा नायिकापादप्रहारादिना नायककोपादिवर्णनमित्याद्यनौचित्यं रसभङ्गहेतु इत्यास्तां विस्तरः॥
 
 इति श्रीमच्छुक्लभूदेवविरचिते रसविलासे रसदोषनिरूपणो नाम  
 पञ्चमः स्तवकः ॥
 
 \_\_\_\_\_\_\_\_\_
-
-
 
 **षष्ठः स्तवकः।**
 
@@ -3216,8 +3015,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **                            \[रत्ना I. 21\]**
 
  अत्रौत्सुक्यशब्दवत् सहसाप्रसरणादिरूपोऽनुभावो नौत्सुक्यमसंदिग्धं प्रतिपादयितुमीष्टे भयादिसाधारणत्वात्। अत एव 'दूरादुत्सुकमागते विवलिप्तम्' इत्यत्र व्रीडादीनि विवलितत्यादिभिरनुभावैरूपनिबध्नन् एव रसिकशिरोमणिरमरुकविरौत्सुक्यंस्वशब्देनोपात्तवान्॥ अत्र नव्याः—स्वरादीनां भयादिसाधारण्येऽपि औसुक्यादिना स्वकारणेनविशिष्यमाणास्ता एवासाधारण्यमासाद्य औत्सुक्यादिकं व्यञ्जयन्तीति आरवादीदयः। न तु शब्दादेव \[36b\]तत्प्रतिपत्या व्यभिचार्यादीनां वाच्यत्वासहनस्य व्युत्पादनात्। अत्र एवात्र न वैयर्थ्यमपिविशेषणत्वेनोपयोगात्। दूरादुत्सुकमित्यादौ तु शब्दमहिम्ना विशिष्टस्यैवानुभावस्य कल्पतमिति ततोऽभिव्यक्तिरिति।एवं च व्यवस्थिते शब्देनोपादानं विना न तदनुभावस्यासाधारण्यं न च तेन विनाऽभिव्यक्तिः, न चाभिव्यक्ति विनास्वादसंभव, न च तेन विना भावमध्यप्रवेशः, न च तमन्तरेण तथा कीर्तनं युक्तमिति भावस्योत्कीर्तनमप्येतादृशव्यभिचारिणि शब्दवाच्यताया दोषत्वाभावं साधयतीति युक्तमुत्पश्यामः॥
-
-
 
 **संचार्यादेर्विरुद्धस्य बाध्यस्योतिर्गुणावहा॥१३८॥**  
                        **\[का० प्र० VII. 63\]**
@@ -3243,8 +3040,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  एतेषा[^271]ं पूर्वोक्तानां रसानां परस्पर कैरपि सह विरोधः कैरपि सहाविरोध।तत्रवीरशृङ्गारयो, शृङ्गारहास्ययो, वीराद्भुतयो, वीररौद्रयो, शृङ्गाराद्धृतयोश्चाविरोध। शृङ्गारवीभत्सयो, शृङ्गारकरुणयो, वीरभयानकयो, शान्तरौद्रयो, शान्तशृङ्गारयोश्च विरोध। तत्र कविना प्रकृतरस परिपोष्टुकामेन तदभिव्यञ्जके काव्ये तद्विरुद्धरसाङ्गानां निबन्धनं
 
 [^271]: "Cf र० गं०P 46."
-
-
 
 न कार्यम्। तथा हि सति तदभिव्यक्तौ विरुद्धः प्रकृतं बाधेत।सुन्दोपसुन्दन्यायेन सत्प्रतिपक्षन्यायेन वा उभयोर्हानिर्निर्बलता वा स्यात्। यदि तु विरुद्धयोरप्येकत्रसमावेश इष्यते तदा विरोधं परिहृत्यविधेयः। तथा हि– विरोधस्तावद् द्विविधः— सामानाधिकरण्येन नैरन्तर्येण वा। स चोभयरूपः स्थलविशेषे नेति मनसिकृत्याह—
 
@@ -3274,8 +3069,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **भूरेणुदिग्धान्नवपारिजात-  
  मालारजवासितबाहुमध्याः।**
-
-
 
 **गाढं शिवाभिः परिरभ्यमाणान्  
  सुगङ्गनाश्लिष्टभुजान्तरालाः॥\।**  
@@ -3314,8 +3107,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 गन्धवद्रुधिरचन्दनोक्षिता जीवितेशवसतिं जगाम सा॥**  
                           ** \[रघु० XI. 20\]**
 
-
-
  अत्र शृङ्गारवीभत्सयोर्विरोधेऽपि शृङ्गार उपमानं वीभत्सश्चोपमेयः। एवं ह्यत्र प्रतीयते– यथा कापि जीवितेशस्य कान्तस्य वसतिं प्रयाति तथा सा मृत्युसदनं जगामेति न विरोधः॥ एकत्र अङ्गिनि द्वयोर्विरुद्धयोरङ्गत्वं द्विधा तुल्यकक्षतयाअङ्गाङ्गिभावेन, साक्षात् परस्याङ्गभावमासाद्य वा। तत्राद्येन विरोधः। यथा—
 
 **कामन्त्यः क्षतकोमलाड्गुलिगलद्रक्तैःसदर्भाः स्थलीः  
@@ -3348,8 +3139,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 \[39a\] षष्ठः स्तवकः॥  
 **\_\_\_\_\_\_\_**
 
-
-
 **सप्तम स्तवकः।**
 
  एवं^(१) निरूपित सपरिकरो रसरूपकाव्यस्यात्मा। इदानीं तस्य शरीरभूतस्य काव्यशब्दप्रतिपाद्यत्वरूपलक्ष्यतावच्छेदकाकान्तस्य लक्षणमुच्यते। तच्च काव्यप्रकाशे—
@@ -3379,14 +3168,11 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 १. The discussion in this chapter is found in similar terms in काव्यप्रकाश, काव्यमदीप, रसगंगाधर परमलघुमञ्जूषा, द्वैतविवेक, तर्केरकाश etc and there is hardly a passage which the author can claim as his own.
 
-
-
 **कीटानुविद्धरत्नादिसाधारण्येन काव्यता।  
 दुष्टेष्वपि मता यत्र रसस्यानुगमः स्फुटः॥१४२॥ इति।**  
                  **\[Quoted in का० प्रदीप I.\]**
 
  किं दुष्टस्याकाव्यत्वे काव्यंदुष्टमिति व्यवहारो न स्यादित्याहुः॥
-
 
 साहसिकास्तु[^284]—रमणीयार्थप्रतिपादकः शब्दः काव्यं न तूभयम्। काव्यं पठ्यते श्रूयते, काव्यार्थो ज्ञायते काव्यं श्रुतमर्थे न ज्ञात इति विश्वजतीनव्यवहारात्। किं च— वेदेऽपि शब्दार्थद्वयस्यैव स्वदुक्तरीत्या वेदत्वं स्यात्। न चेष्टापत्तिः।
 
@@ -3407,8 +3193,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  तत्र[^286] शक्त्या प्रतिपादकत्वमभिधा। शक्तिश्चास्माच्छन्दादयमर्थो बोद्धव्य इत्याफारिका ईश्वरेच्छा समयसङ्केतपदाभिधेया। सा च विशेष्यतयार्थे विशेषणतया शब्दे च। अयं शब्द एवमर्थं बोधयतु इतीश्वरेच्छाकारो यदि तदा विशेष्यतया शब्दे विशेषणतया चार्थे वर्तमानः शब्दार्थयोः संबन्धः। तार्किकमते चाभिधापदेन शक्तिरेवाभिधीयते।आलंकारिकमते परमयं विशेषो-
 
 [^286]: "Cfर० गं० p. 140"
-
-
 
 यद् एतादृशशक्तिसहकारेणार्थप्रतिपादकत्व शब्दनिष्ठमभिघापदेनाभिधीयते। सा चाभिधा त्रिधा— रूढि, योग योगरूढिश्च। अखण्डशक्तिमात्रेणैकार्य प्रतिपादकत्व रूढि। तन्मात्रेण प्रतिपादकत्व अवयवार्थाप्रतिभासाद् यथा गोघटादिपदे।अवयवशक्तिमात्रसापेक्ष पदस्यैकार्थप्रतिपादकत्व योग। तन्मात्रसापेक्षता च समुदायार्थप्रतिभासात्। यथा पाचकपाठकादिपदे। अवयवसमुदायोभयशक्तिसापेक्ष पदस्यैकार्थप्रतिपादकत्व\[40b\]योगरूढ़ि। यथा पङ्कजसरोजजलआदिपदे। अत्रावयवशक्तिमपेक्ष्य पङ्कजनिर्क्तृत्वेनोपाधिना समुदायशक्तिमपेक्ष्य पद्मत्वेन जात्या च पङ्कज्पदेन कमलरूप एकार्थ प्रतिपाद्यते इति योगरूढ़ि। अत्र पङ्कजनिर्क्तृपद्ममिति बोधस्याकार। क्वचिद्योगरूढमत पदस्य विषयविशेषेऽवयवार्थानन्वयात् समुदाय शक्तिमाने विश्रान्ति॥
 
@@ -3434,8 +3218,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 **सयो\[41a\]गो विप्रयोगश्च साहचर्यं विरोधिता।  
 अर्थ प्रकरण लिङ्गशब्दस्यान्यस्य सनिधि॥१४३॥**
 
-
-
 **सामर्थ्यमौचिती देश कालो व्यक्ति स्वरादय।  
 शब्दार्थस्थानवच्छेदे विशेषस्मृतिहेतव॥१४४॥ इति**  
 **                  \[ वाक्यपदीय का० प्र० II \]**
@@ -3459,8 +3241,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 १. The definitions and illustrations of संयोगetc are all taken from काव्यप्रकाश and काव्यप्रदीप
-
-
 
 सामानाधिकरण्योपादानान्न भवच्छिद इत्यत्रातिव्याप्ति। न च सशंखचक्रो हरित्यनातिव्याप्ति। तत्रसशंखपदस्य सामानाधिकरण्येऽपि न सशंखचक्रपदसामानाधिकरण्यम्। यद्वा हरौ शंखचक्रे इति संयोगोदाहरणे तात्पर्यम्॥
 
@@ -3488,8 +3268,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  इत्यत्र तत्कालस्तनपरिमाणप्रदर्शकहस्तव्यापारेणइय्तपदस्य परिमाणविशेष॥
 
-
-
  अपदेशोऽभिमतनिर्द्देशः। स च हृदये हस्तनिक्षेशदिरूपः॥
 
  तेन यथा—
@@ -3509,8 +3287,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  अत्र शिवकेशवयोर्द्वयोरपि स्तुत्यतया प्रकरणमविशिष्टम्। अतो ध्वस्तमनोभवेननाशितमन्मथेन येन बलिजित्कायो विष्णुदेहःपुरेषु अस्त्रतां नीतः। यश्चोद्वृत्तशेषवासुकिप्रभृतिनागसंपादितहारवलयकृत्यः। यश्च गङ्गामधारयत्। यस्य शिरः शशिमदाहुः।अमराः स्तुत्यं च नाम हर इत्याहुः।अन्धकासुरक्षयकरः स उमाधव\[43a\]स्त्वां सर्वदा पायात्इति॥ अभवेन निःसंसारेण येन। अनःशकटं ध्वस्तं येन च वलिजित्स्वस्य कायः पुराभृतमथनावसरे स्त्रीत्वं नीतः। यश्चोद्वृत्त भुजङ्गं कालीयं हतवान्। रवे शब्दब्रह्मणि लयस्ताद्र्ष्यापत्तिरस्येति रवलयः। उद्वृत्तभुजङ्गात् हतवदरवलयं चक्रमस्येति एकं पदं वा। अयं गोवर्धनं गां वराहावतारे भूमिं च योऽधारयम्। यस्य स्तुत्यं नाम शशिमच्छिरोहर इत्याहुः। शशिनं मथ्नातियो राहुस्तच्छिहरोहर इति। अन्धकानां राज्ञां क्षयकरो निवासकृत्। सर्वदो माधवस्त्वां पायादिति पार्थद्वयेऽप्यभिधैव व्यापारः। अत एवात्र श्लेषोऽलंकारः। ननु यत्र यत्रानेकन्न प्रकरणादि अविशिष्टं तत्र भवत्वनेकत्रापि अभिधाव्यापारः। यत्रप्रकरणस्य क्वचिदर्थे व्यवस्थितेऽपि[^287]अप्राकरणिकशक्यान्तरं प्रतीयते तत्र का गतिः॥
 
 [^287]: "B व्यवस्थितत्वेऽपि."
-
-
 
  यथा—
 
@@ -3537,8 +3313,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 [^289]: "B निरूढा"
 
 [^290]: "A विवक्षार्थान्तर"
-
-
 
  आद्या यथा—
 
@@ -3581,8 +3355,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 [^294]: "A स्रोतस्विनीपद"
 
-
-
 प्रसिद्धोदाहरणमप्यनुसंधेयम्। तत्र गोस्वामिनः प्रीतये नीरस्याविशयित[^295]पावनत्वद्योतनं फलम्[^296]॥
 
 [^295]: "B अतिशयितदोषद्योतनं"
@@ -3615,8 +3387,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  अत्रार्धचन्द्रार्धान्धकारत्येननिरूपितमालस्थलकेशाधिकरणत्वसादृश्यात् गौणी सारोपा। इयमिति आरोपविषयदमयन्तीवाचकपदस्य अष्टमीति आरोप्यमाणाष्टमीवाचकपदम्योभयस्य पृथगुपादानाम् आरोपः। ताद्रूप्यमतीतिःफलम्। मदनङ्गप्रयासिद्धौ इतरवैलक्षण्यं च फलम्। एवं 'गौ-
 
-
-
 'वाहीकः' 'मुखं कमलं' इत्यादौव्यासे मुखचन्द्र इत्यादौसमासेऽपि सारोपलक्षणा द्रष्टव्या॥
 
  गौणी साध्यवसान\[45a\]लक्षणा यथा—
@@ -3644,8 +3414,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 [^302]: "B सकलसहृदयानुभव०"
 
-
-
 तत्र संकेताभावात्। किं च विभावादिपदवाचकानां विभावादिमात्रशक्तत्वात् पदान्तरस्य चाभावात् केन रसभिधानं स्यात्। न हि विभावाद्यभिधानमेव तदभिधानम्[^303]। रसस्य तदैकरूप्यानभ्युपगमात्। प्रत्युत स्वपदाभिधाने रसदोषाङ्गीकार इति। यत्रापि 'शृङ्गारस्योपनतमधुना राज्यमेकातपत्रं'इत्यादौशृङ्गारादिपदोपादानं तत्रापि विभावादिभ्य एवास्वादरूपा रसप्रतीतिर्नतु रसशृङ्गारादिपदादिति। न तेनाप्यमिधाशङ्का। घटकर्मत्वानयनकृतयः पदार्थाःएषां च परस्परं संसर्गस्तात्पर्यमर्यादया वाक्याद्भासते इति अभिहितान्वयवादिनां[^304] तार्किकाणां मतेऽपि तात्पर्याख्या वृत्तिः संसर्गमात्रोपक्षिीणा न व्यङ्ग्यप्रत्यायने व्यापारमपसारयति॥
 
 [^303]: "A B have a marg. note on तदभिधानं as तस्य रसस्य"
@@ -3665,8 +3433,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  यत्तु— यत्परः शब्दः स शब्दार्थ इति न्यायात् रसः शब्दार्थ इति, तत्रोच्यते। किमिदं तत्परत्वं? तदर्थत्वं वा तात्पर्यवृत्त्या सद्बोधकत्वं वा। आद्ये न विवादः। व्यङ्ग्यत्वेऽपि तदर्थतानपायात्। द्वितीये तु ये तात्पर्याख्या वृत्तिरभिहितान्वयवादिभिरङ्गीकृता तदन्या वा। आद्ये दत्तमेवोत्तरम्। द्वितीये तु अतिरिक्तवृत्तिनाममात्रे विवादः न तु अतिरिक्तवृत्तौ। किं च नैयायनये[^308]ऽभिधा शब्दार्थोभयनिष्ठा, आलंकारिकमते च शब्दमात्र–
 
 [^308]: "B नैयायिकनये"
-
-
 
 निष्ठा। व्यञ्जना तु कचित् केवलमर्थमात्रे इति कथं शब्दव्यापारेणाभिधयाऽन्यथासिद्धा॥
 
@@ -3701,8 +3467,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[औन्निद्र्ये दीर्घल्पंचिन्तालसत्वं सनिःश्वसितम्।  
 मम मन्दागिन्याः कृते सखि त्वामपि अहह परिभवति॥\]**
-
-
 
  अत्र दूती प्रतिपाद्या। तस्या अन्यदापि दृष्टदुष्टचेष्टाया वैशिष्टयेन तस्याः कामुकोपभोगो व्यज्यते॥
 
@@ -3740,8 +3504,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  येषामग्ने सरति कलिताकाण्डकोपो मनोभूः॥**
 
 **\[Quoted in का०प्र० III. 17 \]**
-
-
 
  अत्र नर्मदादेशरूपस्य तद्विशेषणीभूतकुञ्जादिरूपस्य वाच्यस्य यथोक्तविशेषणस्यवैशेष्ट्यात्सुरता \[47b\]र्थं प्रविशेति व्यज्यते॥
 
@@ -3781,8 +3543,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 **\[Quoted in का० प्र० III. 21\] **
 
-
-
 **\[गुरुजनपरवश प्रिय किं भणामि तव मन्दभागिनी अहकम्।  
 अद्य प्रवासं व्रजसि व्रज स्वयमेव ज्ञास्यसि करणीयम्॥\]**
 
@@ -3808,8 +3568,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 [^311]: "Cf काव्यप्रदीप V."
 
-
-
 शत्रूणामाहवेनावमर्दनावसर इति। दूतीनामभिसारिको प्रति अभिसरणमुपक्रम्यतामिति। सख्या वासकसज्जां प्रति प्राप्तप्रायस्ते प्रेयानिति। कर्मकरस्य सह कर्म कुर्वाणं प्रति कर्मकरणान्निवर्तामहे इति। भृत्यस्य धार्मिकं प्रति सान्ध्यो विधिरुपकम्यतामिति। आप्तस्य कार्यवशेन बहिर्गन्छन्तं प्रति दूरं भागा इति। गृहिणो गोपालं प्रति सुरभयो गृहं[^312] प्रवेश्यन्तामिति। दिवसेऽतिसंतप्तस्य बन्धून् प्रति संतापोऽधुना न भवतीति। आपणिकानां भृत्यान् प्रति विक्रेयवस्तूनि संहियतामिति। नायकागमनप्रस्तावे प्रोषितभर्तृकायास्तत्कथकं प्रति नागतोऽद्य मे प्रेयानिति निरवधिर्व्यङ्ग्योऽर्थः प्रकाशते। वाच्यस्त्वेक एव इति अभिधाव्यञ्जनयोरर्थसंख्याभेदाद्भेदः॥
 
 [^312]: " B गृहे"
@@ -3834,8 +3592,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  पूर्वसिद्धमेव हि घटादिकमभिधया बोध्यते। अत एव लक्षणापि न व्यङ्ग्योघनक्षमा। न हि 'शून्यं वासगृहं' इत्यादौमुख्यार्थबाधः, न वा तद्योगः, शक्यसंबन्ध इत्यर्थः। असम्बद्धस्य आत्मन एवं व्यङ्गत्वात्। न रसे लक्ष्ये प्रयोजनान्तरम्, स्वस्यैव प्रयोजनपटुत्वात्। गङ्गायां घोष
 
-
-
 इत्यादौ च प्रयोजनस्यापि लक्ष्यत्वेऽनवस्थाप्रसङ्गात्। न च तद्विशिष्टे लक्षणा। विषयप्रयोजनयोर्युगपत्प्रतीत्यनभ्युपगमात्। घटादिज्ञानानन्तर प्रयोजनोभूतज्ञातताया अनुव्यवसायेनैव ग्रहात्॥
 
  ननु 'शून्य वासगृहम्' इत्यादौअभ्युपगम्यते तावद्विभावादिवाचक पदाना रसप्रतीतौ तात्पर्यम्। अन्यथा निष्प्रयोजनत्वात्। तन्निर्वाहश्च लक्षणया। तथा हि— चुम्बनालिङ्गनादिचेष्टाना रत्यादिभि सहाविनाभावो दृष्ट।ते चुम्बनादय काव्येऽभिधीयमाना रत्यादिक रक्षयन्ति। 'अभिधेयाविनाभूतप्रतीतिर्लक्षणोच्यते' इति लक्षणाक्षणात्। लक्षि\[49b\]तश्च रत्यादिर्वाक्यार्थ प्राधान्येन बोध्यत्वात्॥
@@ -3853,8 +3609,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
  किं च— लक्षणा तावद् द्विविधा— अर्थान्तरसंक्रमितवाच्या, अत्यन्तु तिरस्कृतवाच्या च। तत्राद्या तु नैव। यत्र मुख्यार्थ स्वेन रूपणानुपयोग बाधितो रूपान्तरेणान्वेति तत्रार्थान्तरसक्रम। यथा—'रामोऽस्मि सर्वं सहे वैदही तु कथ भविष्यति' इत्यत्र हि रामत्वमात्रमनाकाक्षितम्। वक्तृत्वेनैव तल्लाभात्। अतो राज्यपरित्यागवनवासादिदु स्वसहस्रविशिष्टे लक्षणा। एव 'रामोऽसौभुवनेषु विक्रमगुणे प्राप्त प्रसिद्धिम्' इत्यत्र रामपदेन ताडका दिहन्ता लक्ष्यन्ते। एव 'रामस्य गात्रमसि दुर्वहगर्भखिन्नसीताप्रवासनपटो' इत्यनेन नृशसो[^318] लक्ष्यते॥
 
 [^318]: "B om नृशंसो लक्ष्यते"
-
-
 
  अत्यन्ततिरस्कृतवाच्या च वाच्यस्य सर्वथैवान्वयेऽप्रवेशात्। यथा—' तप\[50a\]कृतं बहु नाम' इत्यत्र।एवं च द्वितीयापि नैव। विभावादीनामनुपयोगाभावात्, अन्वये सर्वथैवाप्रवेशाभावाच्च। अथ मुख्यप्रयोगे चमत्काराभावेन रसदोषप्रसङ्गात् न मुख्यः प्रसङ्गः[^319], किंतु विभावादिवाचकपदानां निरूढलक्षणेति चेत् सर्वेषां रसप्रत्ययप्रसङ्गः। वस्तुतस्तु मुख्यार्थबाधाद्यभावेऽपि प्रत्यायिका वृत्तिरतिरिक्तैव भवितुमर्हति। मात्सर्यमात्रात्तु लक्षणोच्यते भवद्भिः॥
 
@@ -3874,15 +3628,11 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
  इति चेन्न। एवं हि रसाविर्भावानुमानं न तु रसास्वादेऽनुमित्यात्मकः। दृश्यते च व्याप्तिधर्मताज्ञानस्य विलम्बे वैधुर्ये या सत्यपि वासनावतां झटिति रसप्रत्यय इति न किंचिदेतत्। ननु अभिधामूलव्यङ्ग्येऽभिधयैव व्यङ्ग्यप्रतीतिसिद्विर्निरर्धिका वृत्त्यन्तरकल्पना। न च प्रकरणादिना एकार्थे
 
-
-
 तन्नियन्त्रणान्न तत्र तस्याः प्रसार इति वाच्यम्, तात्पर्यस्यावश्यकत्वात्। अन्यथा तादृशकाव्यार्थकवीनां पदविशेषान्वेषणं न स्यात्। न च सकृदुञ्चग्तिः शब्दः सकृदर्थं गमयतीति न्यायात् नार्थद्वयस्य युगपत्प्रतीतिः। प्रतीतिक्रमे तु विरम्य व्यापाराभाव इति वाच्यम्। सकृदुच्चरितादपि सति तात्पर्ये येन ध्वस्तमनोमवेत्यादौ युगपदर्थद्वयबोधात्। भवतु वाऽभिधाया अवबोधकत्वम्।तथाप्येकपदवाच्यत्वसंबन्धेन लक्षणैव स्यात्। न तु व्यञ्जनेति चेन्न। क्रमिकार्थबोधे एव तात्पर्याद्युगपद्बोधासंभवात् क्रमिकबोधे च विरम्य व्यापाराभावात् अभिधाया नियन्त्रणात् मुख्या\[50a\]र्थबाधाभावेन लक्षणाया अप्यभावाच्च तत्र व्यञ्जनासिद्धेः। किं च द्वितीयार्थे यद्यभिधालक्षणे तथापि तदुपमालंकारप्रतीतयेऽवश्यस्वीकार्यवृत्त्यन्तरादेव तत्प्रतीतिसिद्धौअभिधाया अन्यथासिद्धेः। निःशेषच्युतचन्दनमित्यत्र स्नानसाधारण्येन निबद्धानां विशेषणानामाभासत्वेन नानुमापकत्वम्, अपि तु अधमपदसाहचर्येण व्यञ्जकत्वमेव। तदन्तिके रन्तुं गतासीति नानुमानम् किं चानुमानं परार्थमेव स्यात्, शब्दरूपत्वात्। तत्र च साध्यसाधननिर्देशः। न चात्र तथा साध्याद्यनुपादानात्। नापि प्रतीयमानेष्वेकमवच्छेदकं येन रूपेण व्यापकभानं भवेत्। न वा तावतां विशेषणानामेकदा समूहालम्बनानुसंधानसंभवो येन समूहालम्बनात्मिकाऽनुमितिः स्यात्। व्यञ्जनायां पुनरनिश्चितविशेषाणामनेकेषां पानकरसन्यायेन प्रतीतिरिति नानुपपत्तिः॥
 
  नव्यास्तु–वर्णतद्गतसौकुमार्यादिविशेषरचनाविशेषचेष्टादीनां व्यञ्जनयैव तावदर्थबोधकत्वं वाच्यम्। सर्वत्र विशेषेषु अनुमानासंभवात। तथा न सिद्धेऽतिरिक्तेव्यापारे शब्दादप्यर्थविशेषप्रतीतिः लक्षणा\[51b\]दिप्रयोज्यप्रतीतिविलक्षणा तत्प्रयोज्यैव वाच्या कदाचित्पुनर्लक्षणादिकमप्यास्तां, का नः क्षतिः। सर्वथा विलक्षणप्रतीत्युपपादनाय अतिरिक्तवृत्तिस्वीकार इत्याहुरिति कुशलाः॥
 
  इति श्रीमच्छुक्लभूदेवविरचिते रसविलासे वृत्तिनिर्णयो नाम सप्तमः स्तवकः॥
-
-
 
 **श्रीकण्ठदीक्षितगुरोर्ज्ञाता काव्यप्रकाशिका।  
 इत्यविदितमस्माभिर्नवं नात्र प्रकल्पितम्॥**
@@ -3901,73 +3651,39 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 २. A adds at the end: श्रीरस्तु। शुभं भवतु। कल्याणमस्तु। श्रीरस्तु। कल्याणमस्तु। श्रीगणपतये नमः। श्रीहरिः। संवत्सप्तदश १७९३ शाके १६५९ प्रवर्तमाने पौषमासे शुक्लपक्षे पूर्णिमायां सोम्यवासरे परिमलपुरे अहिक्षत्रज्ञातीयमत्यैकुंठात्मविश्वनाथेनेदमलेखि स्वात्मपठनार्थं। यादृशं पुस्तके इष्टं तादृशं लिखितं मया। यदि शुद्धमशुद्धे या मम दोषी न दीयिते॥ श्री॥ श्री॥ श्री॥ श्री while B adds: श्रीरस्तु शुभं भवतु।कल्याणमस्तु॥
 
-
-
 **प्रथमं परिशिष्टम्**
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
-
-[TABLE]
-
-
 
 **द्वितीयं परिशिष्टम्।**
 
@@ -4003,8 +3719,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 नो येन मातुरुदरं गुरु नाभ्युपैमि॥**
 
  इति श्रीमद्भूदेवशुक्लविरचितायां स्वकृतात्मतत्त्वप्रदीपीकायां ईश्वरविलासदीपिकायां मोक्षतत्त्वनिरूपणं नाम दशमी कलिका समाप्ता॥ समातोऽयं प्रत्थः॥ संवत् १७७८ वर्षे चैत्रशुक्लतृतीयायां मंदवासरान्वितायां धलाप्रामथ्येन भ० विश्वनाथात्मजवीरेश्वरात्मजेन नध्वाख्येन द्विजेन शुक्लश्रीभूदेवचरणारविदरजःपरमाण्वणीयसा लिखितेयं ईश्वरविलासदीपिका पठिता च॥ श्रीरस्तु लेखकपाठकयोः॥
-
-
 
  २. I have examined a Ms of ईश्वरप्रसादप्रबन्ध of भूदेवशुक्ल deposited in BORI (No 557 of 188692) This Ms has 11 folios and the text is in 20 stanzas with a brief commentary on them. The heginning is—
 
@@ -4046,8 +3760,6 @@ A begins: श्री महागणपतये नमः।श्रीम�
 
 \_\_\_\_\_\_\_\_
 
-
-
 **CRITICAL NOTES**
 
 \[The figures in\[ \] brackets in the body of Text represent the  
@@ -4068,8 +3780,6 @@ two sides of the folio\]
 
  Page 5 अनुभावो विकारस्तु— This stanza is also wrongly ascribed to Dandin, and so also विशेषादाभिमुख्येन on page 6, and अष्टावेव रसा on page 9.
 
-
-
  Page 16. अयं च मन्निर्मिते रुक्मिणीविलासे—Bhūdeva wrote a Poem called रुक्मिणीविलास. Several stanzas from this work seem to have been cited in this book, e.g., प्राणादपि प्रियतम on page 17, अपि नन्दकुमारमभ्युपेतं on page 37, धूलिधूसरकपोल on page 30, न कदापिon page 41 etc.
 
  Page 20. श्रोतातपादैर्विहिते निबन्धे—This stanza is taken from रसगङ्गाधर without acknowledgement. There are a few more; eg. अहितव्रत पापात्मन् on page 39; निपतद्वाष्पसरोध and सा मदागमन on Page 43; हरिमागतमाकर्ण्य on page 44; हृदये xxxxxx on page 47; दयितस्य गुणाननुस्मरन्तीon page 48; आलीषु केली and मा पुरु कशा on page 49, सर्वेऽपि विस्तृनिर्णय and मध्ययनस्य on page 50; शतेनोपायानां on page 51 (read राजरमनीम् in the last line); and पापं हन्त on page 56.
@@ -4088,8 +3798,6 @@ xxxxxxxxxxxxxxxxxxxxxx॥**
 
 The discusion that follows is taken from गा० द०and रसप्रदीप of xxxxx, p. 40. The ascription of the passage to जयदेव is of course wrong
 
-
-
  Page 37. वारं वारं—The meaning of जायते नास्य कल्पः is not quite clear; it may mean: he is not thrilled even when I touch him with my hand.
 
  Page 40. ततादृशं— It appears that this verse is composed by the author Bhūdeva and may have been included in his रामचरित. Similarly भस्माङ्कुरेति on page 42 also may have been taken from the same source.
@@ -4105,8 +3813,6 @@ The discusion that follows is taken from गा० द०and रसप्रद�
 
  अथ कथमस्य संख्या नियमः— Can we say that the total number of व्यभिचारिभावऽ should be thirty-three only and not more? The reply of course, is संभवति मुनिवचने उच्छृंखलताया अनौचित्यात्. The author has also shows how मात्सर्य, उद्वेग, दम्भ, ईर्ष्या, विवेक, निर्णय, क्लैव्य, क्षमा, कुतुक, उत्कण्ठा, विनय, संशय and धार्ष्ट्यcan identify themselves in the feelings such as असूया etc. which are already enumerated as व्यभिचारिभाव.
 
-
-
  Page 50.आभासत्व चैषामनौचित्प्रवर्तितत्वेन— The topic of अनौचित्य has been discussed in numerous places by rhetoricians as aesthetic pleasure depends on the observance of औचित्य. In the औचित्यविचारचर्चा, क्षेमेन्द्र has discussed this topic at great length. The ध्वन्यालोकenunciates in the following stanza this principle as it applies to रस —
 
 **अनौचित्यादृते नान्यद्रसभङ्गस्य कारणम्।  
@@ -4119,8 +3825,6 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
  Page 60. द्रुतिश्चेतसो गलितत्वमिव— Softness or tenderness of mind which prepares it for the proper appreciation of aesthetic pleasure is called द्रुति. As a result of this द्रुति, the श्रोता of a poetic composition forgets his own self and becomes engrossed in pleasure or joy.
 
  Page 64. मन्थायस्तार्णवाम्भ etc— Our Ms. B and वेणी० read 'चण्ड in place of चञ्चु which in its turn should be read as चुञ्चु.
-
-
 
  Page 70. दृष्टया कान्त— This is a Sanskrit rendering of the original in Prakrit which runs as follows —
 
@@ -4139,8 +3843,6 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
 
  Page 90 Read हर्षशोकयोरभिधैव व्यापार
 
-
-
  Page 95. कस्स व ण होइ etc—There is another versionof this stanza in Sanskrit —
 
 **कस्य वा न भवेद्रोष प्रियाया सव्रणेऽधरे।  
@@ -4155,8 +3857,6 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
  Page 98. सिद्धेऽतिरिक्ते व्यापारे—This passage down to स्वाकारः is taken from रसप्रदीप, p 51 विलक्षणप्रतीत्युपपादनाय अतिरिकहतिस्वीकार—We go in for व्यञ्जना as an additional (third) function because its purpose cannot be served by अभिधा or लक्षणा.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 **१.लक्षणश्लोकसूची**
 
@@ -4191,10 +3891,6 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
 |     १३९     |  आश्रयैक्ये विरुद्धो यः  |         का. प्र. ७.६४         |
 |     ११८     |   आह्लादकत्वं माधुर्य    |         का. प्र. ८.६८         |
 |     ४०      |   इष्टनाशादिभिश्चेतो०    |               ?               |
-
-
-
-
 
 |             |                             |                                        |
 |:-----------:|:---------------------------:|:--------------------------------------:|
@@ -4231,10 +3927,6 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
 |     ११५     |  मुख्ये रसेऽपि तेऽङ्गित्व   |              का.प्र. ४.५१              |
 |     १२४     | मूर्ध्नि वर्गान्त्यगा वर्णा |              का.प्र. ८.७६              |
 
-
-
-
-
 |              |                            |                             |
 |:------------:|:--------------------------:|:---------------------------:|
 | **क्रमाङ्क** |          **आदि**           |           **मूल**           |
@@ -4270,10 +3962,6 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
 |      २१      |   शान्तस्य शमसाद्यत्वाद्   |        सं. र. ७.१३१७        |
 |     १३२      |     शिशिरादौ जलक्रीडा      |              ?              |
 
-
-
-
-
 |             |                          |                           |
 |:-----------:|:------------------------:|:-------------------------:|
 | **क्रमांक** |         **आदि**          |          **मूल**          |
@@ -4306,8 +3994,6 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
 |     ३१      |    हसन्तमपरं दृष्ट्वा    |       सं.र. ७.१४३३        |
 
 **\_\_\_\_\_\_\_\_\_\_\_**
-
-
 
 |            |                            |                                   |
 |:----------:|:--------------------------:|:---------------------------------:|
@@ -4351,8 +4037,6 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
 |     ३२     |      वदनु सदसि धृष्टं      |                 "                 |
 |     ८९     |     वापी कापि स्फुरति      |            कुवलयानन्द             |
 
-
-
 |             |                           |                |
 |:-----------:|:-------------------------:|:--------------:|
 | **क्रमांक** |          **आदि**          |    **मूल**     |
@@ -4390,8 +4074,6 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
 |     २१      |     हा मातस्त्वरितासि     |  का.प्र. ४.३८  |
 |     ४७      |   हृदये कूतशैवलानुषङ्गा   | र. गं. पृ. ८६  |
 |            |      हीतया गलितनीवि       |  किरात. ९.४८   |
-
-
 
 |             |                             |                |
 |:-----------:|:---------------------------:|:--------------:|
@@ -4431,356 +4113,5 @@ after a long discussion covering some 12 pages (134-145). He comes to the conclu
 |     ४३      |    हृदये कृतशैवलानुषङ्गा    | र. गं. पृ. ८६  |
 |            |          गालितनीवि          |  किरात. ९.४८   |
 
-
-
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^280]: "B साश्रुनेत्रो०"
-
-
-[^267]: "Cfर० गं०P. 51."
-
-
-[^266]: "Cfर० गं०P. 51."
-
-
-[^251]: "Cf का० प्रदीप VII."
-
-
-[^250]: "Cf का० प्रदीप VII."
-
-
-[^246]: "The discussion, moreor less in identical terms, is found in का०प्रदीप VII."

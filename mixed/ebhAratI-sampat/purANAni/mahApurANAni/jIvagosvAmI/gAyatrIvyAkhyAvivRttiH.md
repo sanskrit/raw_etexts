@@ -15,29 +15,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5OTQ5Njc4NjA
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-[TABLE]
-
-
 
 **❋श्रीश्रीगौरगदाधरौ विजयेताम्❋**
 
@@ -997,14 +979,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDM5OTQ5Njc4NjA
 **श्रीहरिदासशास्त्री**
 
 **![](../books_images/U-IMG-1722447309Screenshot2024-07-31230455.png)**
-
-
-
-
-
-
-
-
-
 
 \]

@@ -17,8 +17,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 
 पाराशरोपपुराणम्
 
-
-
 श्रीगणेशाय
 
 नमः
@@ -674,8 +672,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 प्रथमोऽध्यायः
 
 १
-
-
 
 अथ
 
@@ -1767,8 +1763,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 
 २
 
-
-
 अथ
 
 तृतीयोऽध्यायः
@@ -2650,8 +2644,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 तृतीयोऽध्यायः
 
 ३
-
-
 
 अथ
 
@@ -3611,8 +3603,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 
 ४
 
-
-
 अथ
 
 पञ्चमोऽध्यायः
@@ -4243,8 +4233,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 
 ५
 
-
-
 अथ
 
 षष्ठोऽध्यायः
@@ -4872,8 +4860,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 षष्ठोऽध्यायः
 
 ६
-
-
 
 अथ
 
@@ -5633,8 +5619,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 
 ७
 
-
-
 अथ
 
 अष्टमोऽध्यायः
@@ -6234,8 +6218,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 अष्टमोऽध्यायः
 
 ८
-
-
 
 अथ
 
@@ -8185,8 +8167,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 
 ९
 
-
-
 अथ
 
 दशमोऽध्यायः
@@ -9801,8 +9781,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 
 १०
 
-
-
 अथ
 
 एकादशोऽध्यायः
@@ -10204,8 +10182,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 एकादशोऽध्यायः
 
 ११
-
-
 
 अथ द्वादशोऽध्यायः
 
@@ -11252,10 +11228,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 त्रयोदशोऽध्यायः
 
 १३
-
-
-
-
 
 अथ
 
@@ -13071,8 +13043,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 चतुर्दशोऽध्यायः
 
 १४
-
-
 
 अथ
 
@@ -15018,8 +14988,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 
 १५
 
-
-
 अथ
 
 षोडशोऽध्यायः
@@ -15919,8 +15887,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 षोडशोऽध्यायः
 
 १६
-
-
 
 अथ
 
@@ -16895,8 +16861,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDUyMzY5Njkx
 सप्तदशोऽध्यायः
 
 १७
-
-
 
 अथ
 

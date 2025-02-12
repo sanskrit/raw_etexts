@@ -18,26 +18,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDI2Mjk1NDg0OTA
 
 \[
 
-
-
 [TABLE]
-
-
-
-
 
 ![](../books_images/U-IMG-1727250312titrleofsymbol.jpg)  
 ![](../books_images/U-IMG-1727250361titleofsymbol2.jpg)
-
-
-
-
-
-
-
-
-
-
 
 Digitized for Microsoft Corporation  
 by the Internet Archive in 2007.  
@@ -45,8 +29,6 @@ From University of California Libraries.
 May be used for non-commercial, personal, research,  
 or educational purposes, or any fair use.  
 May not be indexed in a commercial service.
-
-
 
 ![](../books_images/U-IMG-1727252267symbol3.jpg)
 
@@ -66,21 +48,13 @@ IS RESPECTFULLY
 
                     BY THE EDITOR.
 
-
-
-
-
 ![](../books_images/U-IMG-1727962534Screenshot2024-10-03190349.png)
-
-
 
 PREFATORY NOTE.
 
  In the following, I have attempted to place within the easy reach of modern students of Sanskṛit literature, that elementary and classic, but nevertheless difficult treatise on Alankāras, the Kuvalayānanda Kārikās of Appaya Dīkshita, with an English translation, Tīkā commentary, and explanatory notes, so as to enable them to sufficiently understand and digest the subject even in the absence of better teachers.
 
  Among the numerous treatises on the Science of poetry, the **KĀVYAPRAKĀSA**—the “Illustration of Poetry,”—the**SĀHITYA DARPANA**—the “Mirror of Composition,”—and the **KUVALAYĀNANDA**—the “Delight of the moon-lotus,”—are considered the best. Of these, the first-named is by far the most difficult and erudite work, notwithstanding innumerable commentaries thereon by able hands. The second is less difficult, and it is a complete treatise—*ne plus ultra*—on the whole subject of Sanskṛit composition, including Dramaturgy. The last-named treatise, which is the most elementary as well as the most elegant of all, confines itself only to Alankāras or ‘ornaments’of the language, the portion that forms the subject matter of the tenth chapter of the first two treatises. There already exist excellent English translations of the *Kāvyaprakāsa* and the *Sāhitya-Darpana*; yet, they, being higher treatises, are intelligible only to advanced students under the guidance of able teachers. And the Kuvalayānanda, with its elementary definitions of the principal Alankāras and its apt examples, is the work that every student of this branch of Sanskṛit Literature usually commences with. The Kuvalayānanda is a sort of commentary, in the form of notes, and an expansion of the fifth chapter of an ancient work on the Science of poetry, known as the **CHANDRĀLOKA** by Jayadeva Kavi, who is reputed to have
-
-
 
 Hourished about the 12th century of the Christian era and whois more generally known to the public in connection with his charming lyric, the Gīta-Govinda. The author of the Kuvalayānanda is Appaya Dīkshita,\* as appears from the penultimate verse of the work :—
 
@@ -100,11 +74,7 @@ Hourished about the 12th century of the Christian era and whois more generally k
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 \* Called also अप्पदीक्षितः, अप्पादीक्षित, अप्यय्यदीक्षितand अप्यय्यादीक्षित।
-
-
 
 चन्द्रालोको विजयतां शरदागमसम्भवः।  
 हृद्यः कुवलयानन्दो यत्प्रसादादभूदयम्॥
@@ -118,8 +88,6 @@ Hourished about the 12th century of the Christian era and whois more generally k
  The verses, alone as modified and finally adopted by Appaya Dīkshita in his treatise, often go by the name of Kuvalayānanda-Kārikās or the memorial verses of Kuvalayānanda,’and these have been separately compiled and edited under the title of **KUVALAYĀNANDA KĀRIKĀH** by the poet Āśādhara, with a lucid commentary of his own. The verses themselves are, as already mentioned, simple and in elegant style, in the Anushṭubh metre, the first half of each verse defining the Alankāra and the second half exemplifying the same.
 
  Before proceeding to explain the arrangement that I have followed in this work, it may not be out of place to say a word or two as to the necessity of this production and as. to the aim and object which I have had in placing the same before the public. For the acquisition of a sound knowledge of any language, a knowledge of the rules of its Grammar, including Rhetoric and Composition, will be admitted to be essential. This is especially the case when the language in question happens to be not a spoken vernacular,. but an unspoken classical language like the Sanskṛit. All the works in the Sanskṛit Literature are found to have been composed upon fixed principles of Grammar and Rhetoric; and formerly, at any rate, no work that was not in complete accordance with the immutable rules of Sāhitya was ever allowed to be published. And in those days, the authors also, whatever their social position or poetical fame may be, never ventured out
-
-
 
 with any composition that did not gain the approval of the learned. One remarkable instance of this which occurred in connection with the publication of the *Champū* *Rāmāyana* by king Bhoja might here be given in illustration of the above:—
 
@@ -137,13 +105,9 @@ with any composition that did not gain the approval of the learned. One remarkab
 
  The lady then threw Kālidāsa into a pit specially prepared and let fall a big stone upon him; but she, in her hurry to go to the king to get half of his kingdom, did not stop there to see whether Kālidāsa was completely killed or not. The lady went to the king; and the ready-witted king, seeing the
 
-
-
 fulfilment of the stanza addressed to a female and not to a male as it ought to be, if filled up by her, and, thinking that Kālidāsa was living in her house, asked her whether she had spared the life of Kālidāsa. She replied that she had thrown him into a pit and did not know if he had completely expired. The king hurried to the scene of action with his poem in hand. Kālidāsa, only half dead then, said to his weeping king that the human life is unstable, that tolearned people this world is nothing but its proper nothingness, and that he should therefore be allowed to pass the remaining few minutes of his life to meditate upon the Supreme Spirit. The king wanted his poem on divine Rāma to be read over to him so that he may correct all the blemishes contained in it. The king read his poem and a running criticism was made by the Greatest Poet of India, and, when the last stanza of the Sundarakāṇḍa was read, Kālidāsa expired. The king offered to the public his Champū, one of the best poems of the language, up to Sundarakāṇḍa only, the remaining two kāṇḍas, *Yuddha-kanda* and *Uttara-kanda*, having been torn away by the king on the spot as they were not perused by Kālidāsa.
 
  Such was the criticism going on in India before the publication of any work. It was the look-out of every critic to see whether the particular work has been composed in strict accordance with the fixed rules of Grammar, Rhetoric etc. Hence, it is necessary that a student should know something of the Grammar, Figures of Speech of the language etc., to enable him to understand a poem. In other words, a student can very easily master a poem if he has known something of the Grammar and Alankāras. For the acquirement of the elements of the Sanskṛit Grammar in its connection with the Language, the First and Second Books of Sanskṛit were placed before the public over 35 years ago by that great oriental scholar, Mr. Rāmakṛishṇa Gopāla Bhanḍarakara; and they still remain as modelText Books of the kind. Let me quote here his own words from the prefaces to his Second Book:—
-
-
 
  ‘My object has been to render thisas much a Sanskṛit Reading Book as a book on Sanskṛit Grammar; in other words, not only to teach Grammatical forms to the student, but to enable him to construe Sanskṛit.’
 
@@ -161,8 +125,6 @@ fulfilment of the stanza addressed to a female and not to a male as it ought to 
 
 \*The italics areours.
 
-
-
 aware, no such book has till now been placed within the reach of the Sanskṛit students on the subject of Alankāras. And I have therefore ventured to offer this to the public in the sincere hope that it may supply to some extent the long-felt want of the students of this branch of Sanskṛit Literature.
 
  The Alankāras in Sanskṛit are generally classed under three heads, viz. :—
@@ -177,8 +139,6 @@ Of these, the 2nd class, viz., Ornaments of Sense alone are now treated in the p
 
  In the present volume, each and every word in the verse containing the definition and the example is given in its prose order (*anvaya*) in an intelligible way with its English equivalent and a literal English translation of the verse has been given under the same together with all the necessary explanations that are sufficient to help the student in understanding the Figure and its example himself without the assistance of a teacher. In the Appendix, almost all the conventions of poets are given; **UPAMĀ**in its 32 varieties and the **APRASTUTAPRASAMSĀ**in its 5 varieties are treated with their appropriate examples taken from the standard works. Additional examples of certain Figures that require such are also given. The three Figures—**ANUMĀNA**—‘Inference,’**SAMSRISHTI**—‘Conjunction,’and **SANKARA**—‘Commixture,’—which are not found in the body of the book are also defined and exemplified. To it are also appended a more or less scientific classification of the Alankāras treated in the book, and an explanatory note, showing the mutual distinguishing peculiarities of many of the Alankāras.
 
-
-
  Now I must mention here. the works I have consulted in the course of the publication of the present volume. The first and foremost of these is the Sāhitya-Darpana of Vishvanātha Kavirāja with its English translation by that distinguished scholar, Rai Bahadur Pramada Dasa Mitra of Benares. Many of the English renderings of the Figures of Speech are adopted from the work of that able orientalist who borrowed the same from Mr. R. T. H. Griffith's paper on Indian Figures of Speech appended to his Specimens of Old Indian Poetry. The Chandrikā and the Rasikaranjinī,the two famous commentaries on Kuvalayānanda, were also my chief guides. The Kāvyaprakasa and its English translation, the Pratāpa-Rudrīya of Vidyānātha Bhaṭṭa and the Sāhitya-Ratnākara of Śrī Dharma Sūri were also consulted. My heart-felt thanks are also due to Messrs. J. N. Banerjee and Son of Calcutta for their neat execution of the work and for their extreme kindness shown to me in the course of its publication.
 
  In conclusion, I only hope that the work now offered to the public may serve the purpose for which it is intended— namely, to enable the student to thoroughly understand this difficult branch of Sanskṛit Literature without much difficulty and with very little of extraneous help. I am fully aware that, in a work of this kind, there must be several defects and errors, and I most humbly crave the favour of the public, who will have occasion to do me the honour of perusing this little book, to be so good as to point out to me the portions which require amendments or corrections; and I shall be only very willing to give my best consideration to those suggestions in any future edition of the work.
@@ -186,12 +146,8 @@ Of these, the 2nd class, viz., Ornaments of Sense alone are now treated in the p
 नत्वा कृष्णाभिधं ब्रह्म ह्यांग्लभाषानुवादिनीम्।  
 कुर्वे कुवलयानन्दकारिकाविवृतिं मुदा॥
 
-
-
    MADURA,  
 21st February, 1903.}   P. R. SUBRAḤMAṆYA ŚARMĀ.
-
-
 
 **LIST OF CONTENTS.**
 
@@ -222,14 +178,12 @@ Of these, the 2nd class, viz., Ornaments of Sense alone are now treated in the p
 **10. सन्देहः—**Doubt
 
 **11. अपह्नुतिः—** Concealment  
-  
 
 (1)  do.**शुद्धा **  do.      Pure  
   (2)  do. **हेतु**    do.      with a Reason  
   (3)  do. **पर्यस्ता**  do.      transferred  
   (4)  do. **भ्रान्ता** do.      under a mistake  
   (5)  do. **छेका**   do.      of the skilfu।  
-  
 
 (6)  do. **कैतवा**  do.      of the deceitful
 
@@ -246,8 +200,6 @@ Of these, the 2nd class, viz., Ornaments of Sense alone are now treated in the p
 ** (6) चपला  **       do.        do.     
 fickleness  
 ** (7) अत्यन्ता **       do.      of the highest degree
-
-
 
 **14. तुल्ययोगिता—**Equal Pairing  
      do.    2nd and 3rd kinds
@@ -309,8 +261,6 @@ fickleness
      do.   2nd and 3rd kinds
 
 **38. विषमम्—** Incongruity
-
-
 
 **   विषमम्—** 2nd and 3rd kinds
 
@@ -377,8 +327,6 @@ fickleness
 **66. ललितम्—** The Artful Indication
 
 **67. प्रहर्षणम्—**The Enrapturing
-
-
 
 **   प्रहर्षणम्—** 2nd kind  
      do.    3rd kind
@@ -449,12 +397,8 @@ fickleness
 
 **99. विधिः—**Fitness
 
-
-
 **100. हेतुः—** The Cause  
     do.  2nd kind
-
-
 
 APPENDIX.
 
@@ -500,8 +444,6 @@ Classification of Alankāras
 
 Mutual distinctions of certain Alankāras
 
-
-
 ![](../books_images/U-IMG-1728025145Screenshot2024-10-03190349.png)
 
 **BENEDICTORY VERSES OF OUR AUTHOR.**
@@ -527,10 +469,6 @@ AUTHOR'S PREFACE TO THE WORK.
 
 \_\_\_\_\_\_
 
-
-
-
-
  Ex. O Kṛishna, thy fame like a she-swan enters the celestial Ganges (or pervades the celestial regions and this earth).
 
  This is an example of **पूर्णोपमा** (**पूर्णा**= full, **उपमा**= simile) ‘simile complete’; for, it contains all the four essentials of comparison, which are:—
@@ -549,15 +487,11 @@ In the present example:—
 
 ** हंसी**—the object compared to
 
- 
-
 **अवगाहते**, i.e, **अवगाहनक्रिया**= ‘the act of entering or pervading’— the common attribute
 
 ** इव**= the word implying comparison.
 
  Observe:— **कीर्त्तिः**‘fame,' **यशस्** ‘reputation' and **हासः**‘laughter’are always described as white according to the convention of the poets. Hence, the fame of Kṛishna is compared to a swan which is of white colour.
-
-
 
 8 KINDS OF SIMILE ELLIPTICAL.
 
@@ -580,8 +514,6 @@ In the present example:—
 
 **6. उपमानलुप्ता**—Do. Do. of the object compared to.
 
-
-
 **7. उपमानवाचकधर्मलुप्ता**—Do. Do. of the object compared to, of the word implying comparison and of the common attribute.
 
 **8. उपमानधर्मलुप्ता**—Do. Do. of the object compared to and of the common attribute.
@@ -599,13 +531,9 @@ In the present example:—
 
 ** तड़िद्**—the object compared to
 
- 
-
 **गौरी**— the common attribute
 
 ** तन्वी**— the object compared.
-
-
 
  We have, in this example, these 3 requisites, but the remaining requisite, the word **इव**, expressive of comparison, is indirectly omitted; and, in the expansion of the compound, it becomes expressed and so this is the example of the Elliptical Simile, No. 1,— in the omission of the word implying comparison (**वाचकलुप्ता**).
 
@@ -620,8 +548,6 @@ In the present example:—
  Here, we have the above three requisites; and the remaining requisite— the common attribute such as charmingness &c., we have not got. Hence, this is the example of the Elliptical Simile, No. 2,— in the omission of the common attribute (**धर्मलुप्ता**).
 
  *Observe*:— With regard to Elliptical Similes in the omission of the common attribute only, the word omission **‘लोपः’**is used strictly in the sense in which it is used in the Pānini's Sūtra **‘अदर्शनं लोपः’**(I. 1. 60) ‘The disappearance is called **‘लोपः’**With regard to the omissions of the other three, i.e., the object compared, the object compared to and the word implying comparison, they are indirectly omitted; but when the compounds which contain them are uncompounded, they come to light, and thus, we see, they are understood. Moreover, the student should note that, without these three requisites, either expressed or understood, there will be no simile at all.
-
-
 
 **3. कर्परन्ती दृशोर्मम। कर्पूरन्ती**is the present participial noun, feminine gender, of the nominal verb ‘**कर्पूरति’**having the **क्विप्** affix expressive of comparison omitted. If it is uncompounded, it becomes **कर्पूरमिव आचरन्ती**— 'she acts like the camphor', where:—
 
@@ -639,8 +565,6 @@ In the present example:—
 
 only two essentials of comparison. The other two, i.e., the object compared**आत्मानम्‘**herself' and the word expressive of comparison**इव**  'as' are indirectly omitted. Hence, we have the example of the Elliptical Simile, No. 4,—inthe omission of the
 
-
-
 word implying comparison and the object compared (**वाचकोपमेयलुप्ता**).
 
 * Examples of the Elliptical Similes Nos. 5 and 6.*
@@ -657,8 +581,6 @@ word implying comparison and the object compared (**वाचकोपमेय�
 समासात् च तद्-विषयात् छः।
 
  The affix Chha (**ईय**) comes, also in the sense of
-
-
 
 'like this', after a compound noun containing in itself the force of ‘like this' (hidden).
 
@@ -692,8 +614,6 @@ How is that.
 
 **तेन तालेन पतता काकस्य वधः कृतः**—By the palm fruit thus falling, the death of the crow occurred.
 
-
-
 **एवं एवदेवदत्तस्य तत्र आगमनम्**— In the very same manner, the coming of Devadatta (a person) there.
 
 **दस्यूनां च उपनिपातः**— In the same manner, the sudden attack of robbers (upon Devadatta).
@@ -720,8 +640,6 @@ Then, the killing of Devadatta is like that of the crow by the fall of the palm 
 
 There is no other rule for the formation of this compound but this indica-
 
-
-
 tion (as no such compound with the force of **इव** is taught in the chapter on compounds).
 
  By a careful study of this Sūtra with its commentary, we come to know that the compound **काकतालीयम्**contains two senses of '**इव**= like this' ; the first sense is hidden in the compound**काकतालम्**and the second sense is expressed by means of the affix chha in the compound **काकतालीयम्**.
@@ -731,8 +649,6 @@ tion (as no such compound with the force of **इव** is taught in the chapter 
  From the sloka quoted above, let us first take the example for the Elliptical Simile, No. 5,— in the omission of the object compared to and the word implying comparison and consider the same.
 
  **यत्तया मेलनम् तत् अवितर्कितसंभवं काकतालम्** where **मेलनम्** is the object compared and **अवितर्कितसंभवम्** is the common attribute. Here, we have only the above two essentials of comparison. The other two— the object compared to and the word implying comparison, are both hidden in the compound **काकतालम्**. The coming of the person (**पुरुषागमनम्**) is compared to the coming of the crow (**काकागमनम्**) and the coming of the lady is compared to the falling of the palm fruit (**तालफलपतनम्**). The union of these two, i.e., the person and the lady (**तयोःमेलनम्**) which is the object compared) is like that of the crow and the palm fruit (**काकतालसमागमसदृशम्**). The word **समागमः**, the object compared to, and the word, **इव**, implying comparison,
-
-
 
 are both omitted. Hence, we have the Elliptical Simile, No. 5,— in the omission of the object compared to and the word implying comparison.
 
@@ -751,8 +667,6 @@ are both omitted. Hence, we have the Elliptical Simile, No. 5,— in the omissio
 
  \* In the Kāsikā commentary on V. 3. 106, this compound stands in its expansion thus— **काकतालवधसदृशः**‘like the death of the crow by the sudden fall of the palm fruit'. The student should note here that this and the other two similar compounds are used to denote the accidental occurrence whether *welcome or unwelcome* as the case may be.
 
-
-
 chanced; what shall I tell you'; and read the sloka thus:—
 
 यत्तया मेलनं तत्र लाभो मे यश्च तद्रतेः।  
@@ -769,8 +683,6 @@ In the second example:—
  **लाभः**is the object compared and the compound **काकतालीयम्** contains the object compared to hidden and the word implying comparison expressed in the affix **छ**and we have no common attribute; so we have the example of the Elliptical Simile, No. 8,— in the omission of the object compared to and of the common attribute (**उपमानधर्मलुप्ता**).
 
  Thus, in one sloka, we have the examples of the second four Elliptical Similes Nos. 5 to 8. This ornament **उपमा**is distinguishable from certain other
-
-
 
 ornaments such as **अनन्वयः**No. II.— 'Comparison Absolute,' **रूपकम्** No. V.— Metaphor, **उपयोगपमा**No. III.— Reciprocal Comparison, and **व्यतिरेकः**No. XX.— Dissimilitude.
 
@@ -795,8 +707,6 @@ EXAMPLE.
 [TABLE]
 
  When the object compared to and the object compared are one and the same, or in other words, when one and the same object is compared to itself, it is
-
-
 
 Comparison Absolute— as in the illustration like**इन्दुरिन्दुरिव श्रीमान्** 'the glorious moon is like the moon itself &c.
 
@@ -823,8 +733,6 @@ EXAMPLE.
 
 धर्मोऽर्थ इव पूर्णश्रीरर्थो धर्म इव त्वयि॥
 
-
-
 [TABLE]
 
  Def. That, i.e., the position of Upamāna and Upameya, when alternated is declared the Reciprocal Comparison.
@@ -840,8 +748,6 @@ IV\. **प्रतीपम्—‘**CONVERSE.’
 DEFINITION. **प्रतीपमुपमानस्योपमेयत्वप्रकल्पनम्।**
 
 EXAMPLE.**त्वल्लोचनसमं पद्मं त्वद्वक्तसदृशो विधुः॥**
-
-
 
 [TABLE]
 
@@ -860,8 +766,6 @@ EXAMPLE. **अलं गर्वेण ते वक्त्र कांत�
  Def. When the subject on hand (face &c.) is disregarded by reason of the gain of another object (i.e., moon &c.) which is not the subject under discourse it is also termed Converse.
 
  Ex. O face! enough of thy pride; (there is) the moon equal to thee in splendour.
-
-
 
 3rd kind of Converse.
 
@@ -882,8 +786,6 @@ DEF. **वर्ण्येनान्यस्योपमाया अनि
 Ex. **मिथ्यावादोहि मुग्धाक्षि! त्वन्मुखाभं किलांबुजम्॥**
 
 [TABLE]
-
-
 
  Def. The assertion of non-accomplishment of the resemblance of the object not on hand with the object on hand is also termed the Converse.
 
@@ -911,8 +813,6 @@ DEF. **विषय्यभेदताद्रूप्यरञ्जनं 
 
 Ex. **रूपकं तत्त्रिधाधिक्यन्यूनत्वानुभयोक्तिभिः॥**
 
-
-
 [TABLE]
 
  Def. The gratifying representation of the object compared (1) as non-different from, and (2) as identical with, the object compared to is termed Rūpaka. And each (of the said two kinds) is again three-fold in point of (1) superiority, (2) inferiority and (3) the absence of both.
@@ -937,10 +837,6 @@ Ex. **अयं हि धूर्जटिः साक्षाद् ये�
 
 [TABLE]
 
-
-
-
-
  Ex. This (king) is indeed the very God Siva in bodily form; because by him the cities (of his foes) were burnt.
 
  Here, the king, the upameya, who is said to have burnt the cities of his foes is represented as non-different from the God Siva, the upamāna, the destroyer of the three cities of gold, silver and iron of the demon *tripura,* and in the absence of any superiority or of inferiority between these two objects, we have the example of Rūpaka No. 3.
@@ -962,8 +858,6 @@ No. 1.
 Ex. **शंभुर्विश्वमवत्येष स्वीकृत्य समदृष्टिताम्।**
 
 [TABLE]
-
-
 
  Ex. This (king), the God Sambhu himself, protects the world assuming impartiality (lit. even eyes).
 
@@ -988,8 +882,6 @@ No. 5.
 Ex. **साध्वीयमपरा लक्ष्मीरसुधासागरोदिता॥**
 
 [TABLE]
-
-
 
  Ex. This virtuous woman is a second Lakshmī(Goddess of fortune) not born of the Milky Sea.
 
@@ -1017,8 +909,6 @@ Ex. **प्रसन्नेन दृगब्जेन वीक्षते
 
  Def. When the upamāna (i.e., the lotus &c., the object superimposed) is identified with the upameya
 
-
-
 (i.e., the eye &c., the subject of superimposition) and serves the purpose on hand (i.e., seeing &c.) it is the Commutation.
 
  Ex. This lady of lovely eyes beholds with her bright eye-lotus.
@@ -1037,8 +927,6 @@ Ex. **स्त्रीभिः कामोऽर्थिभिः स्व
 
  Def. When an object is delineated by different people under different characters, it is termed Representation.
 
-
-
  Ex. He (God Kṛishṇa) was regarded as the God of love by the women, as the tree of paradise by the mendicants, and as the God of death by (his) foes.
 
  Here, the one and the same object is represented as distinct by different beholders on different occasions according to their liking or taste.
@@ -1056,8 +944,6 @@ Ex. **गुरुर्वचस्यर्जुनोऽयं कीर्�
  Ex. He (the king) is grave (Bṛihaspati) in speech, white (Arjuna) in fame, and terrible ( Bhīshma ) in bow.
 
  Here, one and the same king is represented as distinct by one and the same beholder but through difference of peculiarities belonging to the object delineated.
-
-
 
 **VIII. स्मृतिमान्—** Reminiscence or Rhetorical Recollection.
 
@@ -1083,8 +969,6 @@ Example of Reminiscence.
 
 [TABLE]
 
-
-
  Seeing this lotus, my mind recollects the face of my beloved.
 
 Example of the Mistaker.
@@ -1106,8 +990,6 @@ Example of Doubt.
  We are not able to decide whether (the object before us) is the lotus or the moon (nectar-rayed).
 
  Thus, we see that these three figures are founded upon the close resemblance, of the objects seen and experienced before, that gave rise to a recollection, mistake or doubt.
-
-
 
 **XI. अपह्नुतिः**— Concealment.
 
@@ -1137,8 +1019,6 @@ Ex. **नायं सुधांशुः किं तर्हि व्य�
 
  Ex. This (the object before us) is not the moon (nectar-rayed) but it is the lotus of the celestial Ganges.
 
-
-
 2\. हेत्वपह्नुतिः
 
 —Concealment with a reason.
@@ -1167,8 +1047,6 @@ Ex. **नायं सुधांशुः किं तर्हि सुध�
 
 [TABLE]
 
-
-
  Def. *Paryastāpahnuti* is that in which the real character of an object (moon &c.) is denied and the same is superimposed upon another object (face of a damsel).
 
  Ex. This is not the moon (nectar-rayed). Then which is moon? The face of my beloved is the moon (nectar-rayed— not being endowed with burning character).
@@ -1187,15 +1065,11 @@ Ex.**तापं करोति सोत्कम्पं, ज्वरः �
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 \* Said by a lady pining under separation.
 
  + Said by her female friend that chanced to be near her.
 
  † Reply made by the former to the latter.
-
-
 
 **5. छेकापह्नुतिः—**Concealment of the skilful.
 
@@ -1219,15 +1093,11 @@ Ex. **निर्यान्ति स्मरनाराचाः कां
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 \* Said by a lady to her confidential companion.
 
  + Question asked by another lady that chanced to come there at that time.
 
  †Reply made by the first lady.
-
-
 
  Def. When (the denial of the real character of an object on hand) is clearly expressed by the words of denial**व्याज** etc., it is the Concealment of the deceitful.
 
@@ -1246,8 +1116,6 @@ DEF.**संभावना स्यादुत्प्रेक्षा व
 [TABLE]
 
  Def. The Poetical fancy is the imagining of an object on hand under the character of another object not on hand under three heads, viz., (1) nature, (2) cause and (3) effect. (And thus the figure is first three-fold). Of these, the first**वस्तूत्प्रेक्षा** qual or as it is generally called**स्वरूपोत्प्रेक्षा**is two-fold according as the occasion of the fancy is mentioned or not mentioned. The other two, i.e., **हेतूत्प्रेक्षा**and **फलोत्प्रेक्षा**are each
-
-
 
 two-fold according as the subject of the fancy is an accomplished or unaccomplished one.
 
@@ -1269,8 +1137,6 @@ two-fold according as the subject of the fancy is an accomplished or unaccomplis
 
 [TABLE]
 
-
-
  Ex. The darkness anoints, as it were, the bodies, (lit. limbs). Sky rains, as it were, the collyrium.
 
  This is the description of the thick darkness of a particular night. In the first sentence, the subject, i.e., the pervasion of darkness which was fancied by the poet as anointing the bodies is not mentioned. In the second sentence too, the pouring down of the darkness which is the subject of the raining of collyrium is not mentioned. Hence we have two instances of **अनुक्तास्पदा वस्तूत्पेक्षा** where the occasion of the fancy is not mentioned.
@@ -1289,8 +1155,6 @@ Ex.**त्वन्मुखाभेच्छयानूनं पद्म�
 
  Oh! Damsel, the moonrivals with the lotuses, surely, with a desire of attaining the loveliness of thy face.
 
-
-
  Here, the enmity, between the moon and the lotuses, on account of the latter's contraction on the appearance of the former, is natural, and the cause ascribed to it, i.e., with a desire of attaining the beauty of the lady's face is not real and is due to the fancy of the poet. The cause not being an established one, this forms an instance of **असिद्धास्पदा हेतूत्प्रेक्षा**।
 
 Ex.**मध्यः किं कुचयोर्धृत्यै बद्धः कनकदामभिः।**
@@ -1308,8 +1172,6 @@ Ex. **प्रायोऽब्जंत्वत्पदेनैक्य�
  Lady! the lotus does penance in the water perhaps to become identical with thy foot.
 
  Here, the lotuses naturally grow in water, and the poet artfully attributes another cause for their
-
-
 
 standing in the water, which is no doubt the work of his imagination; and this being an unaccomplished one, it is an instance of **असिद्धविषया फलोत्पेक्षा**।
 
@@ -1341,8 +1203,6 @@ Ex. **पश्य नीलोत्पलद्वंद्वान्नि�
 
 [TABLE]
 
-
-
  Def. When the object on hand (i.e., face &c. the upameya) is swallowed up, or completely taken in, by the upamāna 'moon &c.' through introsusception, and the upameya is therefore comprehended as upamāna itself, or, in other words, (when the upamāna is used for upameya), it is called 'Hyperbole Metaphorical'.
 
 ** निगीर्य**is indeclinable past participle in **य**of the root **गृृ**with **नि** 'to devour'. **अध्यवसानतः = अध्यवसान+तस्अध्यवसान** is the abstract noun formed by adding the affix **अन** to the root **सो** with prepositions **अधि** and **अव**, and **तस्** is a termination of the ablative case.
@@ -1354,8 +1214,6 @@ Ex. **पश्य नीलोत्पलद्वंद्वान्नि�
  Ex. Behold! There issue forth sharpened shafts from a pair of blue lotuses.
 
  Here, the speaker, instead of saying**पश्यकान्ताक्षियुग्मात् कटाक्षा निःसरन्त्यहो** there issue forth ogles or side— glances from a pair of eyes of this lovely woman who was before him, says thus by using the upamāna words **नीलोत्पल**'blue lotus' and **शराः**‘shafts’ for their corresponding upameya words the **अक्षि**‘eye' and**कटाक्षः**‘ogles'. Thus, we have the introsusception of the eyes and the ogles of a beloved lady in
-
-
 
 the blue lotuses and shafts with which they are respectively identified.\*
 
@@ -1379,8 +1237,6 @@ Ex. **त्वत्सूक्तिषु सुधा राजन् भ�
 
  \* This comprehension brings about the superior excellence of the upameya over the upamāna.
 
-
-
 2\. भेदकातिशयोक्तिः।
 
 DEF.**भेदकातिशयोक्तिस्तु तस्यैवान्यत्ववर्णनम्।**
@@ -1403,8 +1259,6 @@ Ex. **सौधाग्राणि पुरस्यास्य स्पृ
 
 [TABLE]
 
-
-
  Def. When a connection is asserted where there is really none, it is called **संबन्धातिशयोक्तिः।**
 
  Ex. The tops of the mansions of this town kiss the disc of the moon.
@@ -1424,8 +1278,6 @@ Ex. **त्वयि दातरि राजेन्द्र स्वर�
 ** **Ex. O best of kings! As long as thou remainest here, as our liberal donor, we won't devote ourselves to the wish-yielding trees of Indra's paradise.
 
  This is addressed by the mendicants to a king of very liberal donations. They, the mendicants, say that as long as this king is their donor, they sever their connection with the Kalpa tree. Here, the connection of the mendicants with their wish-yielding tree which is, as its very name implies, renowned for its liberality is denied.
-
-
 
 5\. अक्रमातिशयोक्तिः।
 
@@ -1447,10 +1299,6 @@ DEF. **चपलातिशयोक्तिस्तु कार्य्य
 
 Ex. **यास्यामीत्युदिते तन्व्याबलयोऽभवदूर्मिका॥**
 
-
-
-
-
 [TABLE]
 
  Def. If the effect is described to have taken place without the cause, or, literally, if the effect is said to have taken place when the cause was under discussion, i.e., not yet begun, it is then called**चपलातिशयोक्तिः।**
@@ -1468,8 +1316,6 @@ Ex.**अग्रे मानो गतः पश्चादनुनीता
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  \* Is explained by the commentator as हेत्वभावे— without cause.
-
-
 
 [TABLE]
 
@@ -1491,8 +1337,6 @@ Ex. **संकुचंति सरोजानि स्वैरिणौव
 
  \* तत्= तयोःof those, i.e., of the cause and effect.
 
-
-
  Def. The sameness of attribute of objects on hand or of objects not on hand, is called **तुल्ययोगिता।**
 
 Example of objects on hand.
@@ -1513,8 +1357,6 @@ Example of objects that are not on hand.
  Ex. Lady! In whose mind will not the hardness of the jasamine, the lunar ray and the plantain be manifest when the softness of thy limbs was perceived?
 
  Here, the jasamine &c., the objects unconnected with the subject, are associated with one and the same attribute, that is, the quality of hardness.
-
-
 
 *Equal Pairing, second kind.*
 
@@ -1538,8 +1380,6 @@ DEF. **गुणोत्कृष्टैःसमीकृत्य वचो
 
 Ex. **लोकपालोयमः पाशी श्रीदः शक्रो भवानपि॥**
 
-
-
 [TABLE]
 
  Def. The description of placing one object on a footing of equality with those possessed of superior qualities is termed a third kind of Equal Pairing.
@@ -1562,8 +1402,6 @@ DEF. **वदंति वर्ण्यावर्ण्यानां ध�
 
 Ex. **मदेन भाति कलभः प्रतापेन महीपतिः॥**
 
-
-
 [TABLE]
 
  Def. When objects on hand and those not on hand are associated with a common attribute (mentioned only once), the learned call it the Illuminator.
@@ -1573,8 +1411,6 @@ Ex. **मदेन भाति कलभः प्रतापेन मही�
  Here, the elephant, the object not on hand, and the king, the object on hand, are together associated with one and the same attribute, *the action of shining.* Just as a lamp standing in one place illumines the several objects round it, so in the present figure one finite verb serves as predicate to two or more nominatives. Compare the maxim of the lamp placed over a threshold **देहलीदीपन्यायः**। It takes its origin from a lamp hanging over the threshold of a house which, by its peculiar position, serves to light the rooms on both sides, and is used to denote something which serves a two-fold purpose at the same time. *Apte.*
 
 * *In the Equal Pairing No. 1 (Fig. XIV), the objects on hand if associated with one and the same attribute formed one kind of the figure; and the objects not on hand if associated with one and the same attribute formed another kind of the same figure (observe the word **वा**in the Definition). In the Illuminator, the objects on hand and those not on hand are *together*
-
-
 
 associated with one common attribute mentioned only once.
 
@@ -1602,8 +1438,6 @@ Ex. **वर्षत्यंबुदमालेयं वर्षत्य�
 
 [TABLE]
 
-
-
  Ex. The kadamba flowers blossom and the kutaja creepers bloom forth.
 
  **उन्मीलन्ति** and **स्फुटन्ति**
@@ -1630,8 +1464,6 @@ Ex. **तापेन भ्राजते सूरः शूरश्चा�
 
  Def. When, in two sentences one of which describes the object compared and the other the object compared to, the same common attribute is expressed *but by different words,* it is termed Typical Comparison.
 
-
-
  Ex. The sun shines with intense heat and this warrior looks brilliant with his bow.
 
  Here, the actions of shining and looking brilliant, though mean the same thing, are expressed by different words to avoid the fault of repetition.
@@ -1654,8 +1486,6 @@ Ex. **त्वमेव कीर्त्तिमान् राजन् �
 
  \* Taken from the preceding verse.
 
-
-
 as excellent, is employed as a type. The difference between this figure and **प्रतिवस्तूपमा**is that the common attributes here are similar but in the latter they are identical. In the**प्रतिवस्तूपमा** the couple of sentences terminates in conveying the same sense; whilst in the example of the present figure the sentences have similar sense reflectively expressed and not the same.
 
 **XIX. निदर्शना।** Illustration (First kind.)
@@ -1674,11 +1504,7 @@ Ex. **या दातुः सौम्यता सेयं पूर्ण�
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 \*In Sanskṛit, the relative and corrolative clauses are reckoned as two separate sentences.
-
-
 
 non-existence of a donor destitude of anger. Thus, we see that the two sentences terminate in a comparison.
 
@@ -1702,8 +1528,6 @@ DEF. **अपरां बोधनं प्राहुः क्रियय�
 
 Ex. **नश्येद्राजविरोधीति क्षीणं चन्द्रोदये तमः॥**
 
-
-
 [TABLE]
 
  Def. The intimation, by an agent engaged in a certain action, of the unreal and the real state of things signified by the action itself, it is termed the third kind of Illustration.
@@ -1720,8 +1544,6 @@ Example of the real state of things:—
 [TABLE]
 
  Ex. 'The chief object of one's having riches consists in rewarding his friends'— thus intimating(to the
-
-
 
 world), the sun, just on its rise, consigns its own treasures (splendour) to the lotuses.
 
@@ -1747,8 +1569,6 @@ DEE. **सहोक्तिः सहभावश्चेद्भासते
 
 Ex. **दिगंतमगमत्तस्य कीर्त्तिः प्रत्यर्थिभिः सह॥**
 
-
-
 [TABLE]
 
  Def. A description of simultaneity or conjunction which will excite a pleasing (poetical) delight in the people's (mind) is called the Connected Description.
@@ -1762,8 +1582,6 @@ Ex. **दिगंतमगमत्तस्य कीर्त्तिः प
 DEF. **विनोक्तिश्चेद्विना किंचित्प्रस्तुतं हीनमुच्यते।**
 
 Ex. **विद्या हृद्यापि साऽवद्या विना विनयसंपदम्॥**
-
-
 
 [TABLE]
 
@@ -1782,8 +1600,6 @@ Ex. **विना खलैर्विभात्येषा राजें
  Def. When an object on hand is represented as charming in the absence of some other object, it is also called Speech of Absence.
 
  Ex. O best of kings! Thy council hall shines splendid in the absence of wicked persons.
-
-
 
 **XXIII. समासोक्तिः—**Modal Metaphor or Speech of Brevity.
 
@@ -1805,8 +1621,6 @@ DEF. **अलंकारः परिकरः साभिप्राये �
 
 Ex. **सुधांशुकलितोत्तंसस्तापं हरतु वः शिवः॥**
 
-
-
 [TABLE]
 
  Def. A speech with epithets signifying the import (of the speaker) is termed Insinuator.
@@ -1827,8 +1641,6 @@ Ex. **चतुर्णांपुरुषार्थानां दात�
 
  Ex. The four-armed God (Vishṇu) is the giver of the four principal objects of life.
 
-
-
  Four objects of life are **धर्मः**'merit', **अर्थः**'wealth', **कामः**‘enjoyment' and **मोक्षः**'liberation'.
 
   Here, the word **चतुर्भुजः**is one of the thousand names of the Lord Vishṇu and is used here without epithets. The import of the speaker is that God Vishṇu alone (being four-armed) is able to distribute the four objects of life.
@@ -1844,8 +1656,6 @@ Ex.**सर्वदो माधवः पायात् स यो गंग�
  Def. Paronomasia is the expression by words having more than one signification referring (1) to an object on hand, (2) to an object not on hand and (3) to both.
 
  Ex. The all-giver Mādhava who held up the mountain (Govardhana on his head) and the earth may protect (you).
-
-
 
  The husband of Umā (Siva) who bore (on his head) the river Ganges may protect (you).
 
@@ -1873,8 +1683,6 @@ or
 
  Here,**अब्ज**moon' and**अब्ज**'lotus' which are upamānas are both objects not on hand.
 
-
-
 Example of No. 3.
 
 उच्चरद्भूरिकीलालः शुशुभे वाहिनीपतिः।
@@ -1899,8 +1707,6 @@ Ex. **एकःकृती शकुंतेषु योऽन्यं श�
 
  Def. When the description of an object not on hand conveys a reference to an object on hand, it is called Indirect Description.
 
-
-
  Ex. (The chātaka bird) is the only fortunate one, among the birds, which never begs of any other than Indra.
 
  It is a known fact that chātaka bird lives on rain drops and that Indra is the bestower of rain.
@@ -1921,8 +1727,6 @@ Ex. **किं भृंग सत्यां मालत्यां के�
 
  Ex. O Bee! What (is the use of thy amusement) with the (unblown) Ketakīfull of thorns while thou hast here the Mālatī(Jasamine) flower.
 
-
-
  Here, a lady, by the description of the bee's act with the unblown Ketakībud witnessed by her in her pleasure garden indirectly intimates the same to her lover, the subject of discourse, who is at present in love with a maiden who has not yet arrived at puberty.
 
 * N. B.—* The bee and the lover are both objects on hand.
@@ -1940,8 +1744,6 @@ Ex. **नमस्तस्मैकृतौ येन मुधा राह�
  Ex. Homage to him (God Vishṇu) by whom the breasts of Rāhu's spouse were rendered useless.
 
  Here, the intended fact is that homage is to the God Vishṇu only, because he was the killer of Rāhu and thus rendered the breasts of Rāhu's spouse useless and this fact has been expressed by a turn of
-
-
 
 speech, i.e., by different words which do not express it but by words which suggest it, simply for the purpose of giving a particular strikingness to the description.
 
@@ -1965,10 +1767,6 @@ DEF. **उक्तिर्व्याजस्तुतिर्निंद�
 
 Ex. **कः स्वर्धुनि! विवेकस्ते नयसे पापिनो दिवम्॥**
 
-
-
-
-
 [TABLE]
 
  Def. when (1) the praise is understood by apparent censure and (2) censure by apparent praise, it is termed Artful Praise.
@@ -1988,10 +1786,6 @@ Example of No. 2.
 साधु दूति पुनः साधु कर्तव्यं किमतःपरम्।  
 यन्मदर्थे विलूनासि दंतैरपि नखैरपि॥
 
-
-
-
-
 [TABLE]
 
  Well (done) messenger! what other good than this can again be done; because thou, on my account, wast injured even by (my lover's) teeth and nails.
@@ -2005,8 +1799,6 @@ Example of No. 2.
 DEF. **निंदाया निंदया व्यक्तिर्व्याजनिंदेति गीयते।**
 
 Ex. **विधे स निंद्यो यस्ते प्रागेकमेवाहरच्छिरः॥**
-
-
 
 [TABLE]
 
@@ -2023,8 +1815,6 @@ DEF. **आक्षेपःस्वयमुक्तस्य प्रति
 Ex. **चंद्र! संदर्शयात्मानमथवास्ति प्रियामुखम्॥**
 
 [TABLE]
-
-
 
  Def. A denial, after some deliberation, of what has been expressed, is called Hint.
 
@@ -2045,8 +1835,6 @@ Ex. **नाहं दूतीतनोस्तापस्तस्याः 
  Ex. I am no go-between love-fever (residing in) her (mistress') body, resembling the destructive fire at the end of the world.
 
  Here, the character of a person— that of the go-between, is denied. The fact of excessive hardship, experienced by the lady under the pangs of separation, which was intended to be conveyed by the go-between, the speaker, is suppressed in order to suggest more strikingly that the lady is sure to die if her lover delays even for a moment in meeting her.
-
-
 
 A third kind of Hint.
 
@@ -2069,8 +1857,6 @@ DEF. **आभासत्वे विरोधस्य विरोधाभ�
 Ex. **विनापि तन्वि!हारेण वक्षोजौ तव हारिणौ॥**
 
 [TABLE]
-
-
 
  Def. When an incongruity (between two things) is apparent (in words\*), then it is called Contradiction.
 
@@ -2096,8 +1882,6 @@ Ex. **अपि लाक्षारसासिक्तंरक्तं त
 
  \*i.e., the incongruity is to be removed by explaining the words without the pun.
 
-
-
 duction of an effect in the absence of its cause is not inconsistent in as much as the denial of a known cause suggests that the effect produced must be natural or is due to some other hidden cause.
 
 A second kind of Peculiar Causation.
@@ -2113,8 +1897,6 @@ Ex. **अस्त्रैरतीक्ष्णकठिनैर्जग�
  Ex. By weapons, neither sharp nor hard, the God of love conquers the whole world.
 
  Here, the conquest of the world by the God of love is represented as having taken place though his weapons are neither sharp nor hard (being only *five flowers*) and are therefore quite inadequate to produce such an effect. The contradiction here must be removed by the supposition of some superhuman cause specially gifted by the Supreme Spirit.
-
-
 
 A third kind of Peculiar Causation.
 
@@ -2138,8 +1920,6 @@ Ex. **शंखाद्वीणानिनादोऽयमुदेति �
 
 [TABLE]
 
-
-
  Def. When the production of an effect is represented as being from a different cause, or, more literally, from a similar cause, it is the fourth kind of Peculiar Causation.
 
  Ex. It is a great wonder that this musical sound of a lute proceeds from a conch-shell (i.e., conch-shell-like neck of a damsel).
@@ -2160,8 +1940,6 @@ Ex. **शीतांशुकिरणास्तन्वीं हंत स
 
  Ex. Alas! the rays of the moon (lit. cool-rayed) inflame that slender lady.
 
-
-
  This is the state of a damsel, the object on hand, pining under separation from her lover. The rays of the moon have a peculiar charm of exciting the passions of such women and therefore it is said so.
 
 Sixth kind of Peculiar Causation.
@@ -2179,8 +1957,6 @@ Ex. **यशः पयोराशिरभूत्करकल्पतरो�
  Here, the king referred to is Karṇa renowned for his liberal donations.
 
  The kalpa tree was produced from the ocean at the time of churning. Here, the kalpa tree in the form of the king's hand is said to be the cause of the ocean in the form of the king's fame for his unusual liberality.
-
-
 
 **XXXV. विशेषोक्तिः—** Peculiar Allegation.
 
@@ -2202,8 +1978,6 @@ DEF.**असंभवोऽर्थनिष्पत्तेरसंभा�
 
 Ex. **को वेद गोपशिशुकःशैलमुत्पाटयेदिति॥**
 
-
-
 [TABLE]
 
  Def. Improbability is the description of the accomplishment of a truly impossible act.
@@ -2224,8 +1998,6 @@ Ex. **विषं जलधरैः पीतं मूर्च्छित�
 
  Ex. The poison (lit. water) was drunk by the clouds and the consorts of the travellers fainted.
 
-
-
  This figure is only an exception to the ornament of Contradiction (**XXXIII**) and not Contradiction itself, where the mutual inconsistency of two objects resides in one place ; but in this figure in two different places. The drinking of poison (water) by the clouds and its effect, the fainting of the consorts, take place in two different localities. It is a convention of poets that the women are affected at the sight of the clouds in the rainy season being separated from their lovers who therefore hasten to meet their beloved.
 
 Second and third kinds of Disconnection.
@@ -2239,8 +2011,6 @@ DEF. 3rd **अन्यत्कर्तुं प्रवृत्तस्�
  Def. When the accomplishment or effect of an object to be produced in a certain locality is represented as having taken place in a quite different locality, it is called the second kind of Disconnection.
 
  Def. An incongruous effect of an object obtained by an agent engaged to do a quite different thing is termed a third kind of Disconnection.
-
-
 
 Example of the second kind of Disconnection.
 
@@ -2258,8 +2028,6 @@ Example of the second kind of Disconnection.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- 
-
 **\*अप+अरिजात=अपगतम्**—free from **अरिजातम्**— assemblage of foes **यस्याः तादृशीम्**= making the earth devoid of the multitude of foes.
 
  **अ** not + **पारिजातः**Pārijāta tree= **नास्ति पारिजातः यस्याम्** making the paradise devoid of Pārijāta tree.
@@ -2268,8 +2036,6 @@ Example of the second kind of Disconnection.
 धर्म्मसंस्थापनार्थाय संभवामि युगे युगे॥**
 
  For the protection of the good and for the destruction of the wicked and for the establishment of the righteousness I am born in every Yuga.
-
-
 
 [TABLE]
 
@@ -2288,8 +2054,6 @@ Ex. **क्वेयं शिरीषमृद्वंगी क्व त�
  Def. Vishama is a figure where a combination of two incongruous things is described.
 
  Ex. Where this lady with body as soft as the Sirīsha flower and where these torments or fever of the God of love.
-
-
 
  Here, we see the incongruity or incompatible relation of two things which are opposed to each other, i.e., the nature of the God of love is quite opposed to the nature of the lady, under description, whose body is soft as the Sirīsha flower.
 
@@ -2313,10 +2077,6 @@ DEF.**अनिष्टस्याप्यवाप्तिश्च तद�
 
 Ex. **भक्ष्याशयाहिमंजूषां दृष्ट्वाखुस्तेन भक्षितः॥**
 
-
-
-
-
 [TABLE]
 
  Def. The attainment of an undesired object from an endeavour made for a desired one is termed the third kind of Incongruity. Or in other words, when a desired object for which an endeavour is made is not obtained but, on the contrary, an unfavourable result is obtained, it is the third kind of Incongruity.
@@ -2332,8 +2092,6 @@ DEF. **समं स्याद्वर्णनं यत्र द्वय�
 Ex. **स्वानुरूपं कृतं सद्म हारेण कुचमण्डलम्॥**
 
 [TABLE]
-
-
 
  Def. **सम** is the description of the combination‌ of two agreeable objects.
 
@@ -2376,10 +2134,6 @@ Ex.
 
 युक्तो वारणलाभोऽयं स्यान्न ते वारणार्थिनः॥
 
-
-
-
-
 |                                        |                                          |
 |----------------------------------------|------------------------------------------|
 | यम् अर्थम् which thing                 | वारणार्थिनः seeking for an elephant      |
@@ -2397,8 +2151,6 @@ Ex.
 
  The speaker here is a person that went to his king for an‌ elephant. He was obstructed by the doorkeeper of the‌ king's palace and this was addressed in jest by his (speaker's) brother-in-law who accompanied him saying that this**वारण** (impediment) is equal to that **वारण** (elephant) sought for.
 
-
-
 XL **विचित्रम् —** Strange.
 
  DEF
@@ -2411,17 +2163,11 @@ XL **विचित्रम् —** Strange.
 
 [TABLE]
 
-
-
-
-
  Def. If an endeavour is made by a person desiring to attain the exact opposite effect, it is called the Strange.
 
  Ex. The good people bow down for the purpose of attaining an exalted position higher than the triple world.
 
  Here, the act is *bowing down* and the desired effect‌ is *elevation* over the triple world.
-
-
 
 XLI\. **अधिकम् —** Exceeding.
 
@@ -2445,13 +2191,9 @@ XLI\. **अधिकम् —** Exceeding.
 
 . पृथ्वाधेयाद्यदाधाराधिक्यं तदपि तन्मतम्।
 
- 
-
 Ex
 
 . कियद्वाग्ब्रह्म यत्रैते विश्राम्यंति गुणास्तव॥
-
-
 
 [TABLE]
 
@@ -2477,8 +2219,6 @@ XLII**. अल्पम्—**Smallness.
  Def. When the containant is described as smaller than the object contained which is really very small, it is called Smallness.
 
  Ex. Lady ! Thy ring inlaid with precious stones has become to-day a rosary in thy hand.
-
-
 
  Here, the thinness of the hand or the finger which contained the ring is meant. The lady under description was suffering from the pangs of seperation from her lover on a certain day and so her hand or finger, the containant, became so thin that the ring, the object contained, became greater than the hand, the containant, and served as a rosary.
 
@@ -2509,8 +2249,6 @@ XLIII
 
  Here, the night and the moon beautify each other. The night is the cause of the moon looking splendid and the moon is the cause of the night looking splendid.
 
-
-
 **XLIV**. **विशेषः—** The Extraordinary.
 
  DEF**. विशेषः ख्यातमाधारं विनाप्याधेयवर्णनम्।**
@@ -2539,8 +2277,6 @@ XLIII
 
  He (Raghu) obtained the kingdom given by (his) father and shone the more just as the fire that got the lustre deposited with (it) by the sun at the close of the day.
 
-
-
 * N. B.—*For Vedic quotations on this, see the Mallinatha's commentary on the verse.
 
 Second kind of the Extraordinary.
@@ -2549,12 +2285,9 @@ Second kind of the Extraordinary.
 
 . विशेषः सोऽपि यद्येकं वस्त्वनेकत्रवर्ण्यते।
 
- 
-
 Ex
 
 . अंतर्बहिःपुरःपश्चात्सर्वदिक्ष्वपि सैव मे॥  
-
 
 |                           |                                          |
 |---------------------------|------------------------------------------|
@@ -2580,13 +2313,9 @@ Third kind of the Extraordinary.
 
 . किंचिदारंभतोऽशक्यवस्त्वंतरकृतिश्च सः।
 
- 
-
 Ex
 
 . त्वां पश्यता मया लब्धं कल्पद्रुमनिरीक्षणम्॥
-
-
 
 |                                                                      |                                                   |
 |----------------------------------------------------------------------|---------------------------------------------------|
@@ -2617,11 +2346,7 @@ XLV\. **व्याघातः—**Frustration.
 | व्याघातः स्यात् it is frudtration.                   | कुसुमायुधः the flower-shafted God of love |
 |                                                     | हंति torments.                             |
 
-
-
  Def. When a thing which produces the established result, *i.e.,* the effect natural to its cause is
-
-
 
 represented to have produced the exact opposite result, it is called Frustration.
 
@@ -2651,8 +2376,6 @@ Second kind of Frustration.
 
  This is said by a crown-prince to this king going to war. The king seems to have asked him to stay
 
-
-
 at home for he *being a boy* could not bear the terrible toils of a battle field. The crown-prince mentions the same reason to accompany the king for he being a youth must go to the war and become skilled in the arts of war, or, as one commentator says, he (the youth) could not bear the separation from the king. Thus we see the frustration of the object which the king had at first.
 
 XLVI\. **कारणमाला—** Garland of Causes.
@@ -2679,8 +2402,6 @@ XLVI\. **कारणमाला—** Garland of Causes.
 
  This figure occurs also when one object, mentioned afterwards, is spoken of as the cause of what precedes and so on.
 
-
-
 **Ex. भवन्ति नरकाः पापात् पापं दारिद्र्यसंभवम्।  
 दारिद्र्यमप्रदानेन तस्माद्दानपरो भव॥**
 
@@ -2691,8 +2412,6 @@ XLVII\. **एकावली—**The Necklace.
  DEF
 
 . गृहीतमुक्तरीत्यार्थश्रेणिरेकावली मता।
-
- 
 
 Ex
 
@@ -2713,8 +2432,6 @@ Ex
 
  Def. A successive series of statements made in a manner in which each succeeding thing is taken**(गृहीत)** as an attribute of each preceding thing and that thing which was first taken as an attribute is
 
-
-
 made to cease **(मुक्त)**as such by being afterwards made a subject and qualified by another succeeding thing and so on, it is the Necklace.
 
  Ex. The eyes of that king extend as far as the His ears extend as far as his post-like arms. His post-like arms are charming by their extension as far his knees. And his kness are, in appearance, jewelled mirrors.
@@ -2734,15 +2451,11 @@ Bhaṭṭi Kāvya, II. 19.
 
  Here, of *water, lotuses* must be considered as denied; of *lotuses*, *bees*; of *bees, humming;* and of *humming, attraction.*
 
-
-
 XLVIII\. **मालादीपकम्—**The Serial Illuminator.
 
  DEF
 
 . दीपकैकावलीयोगान्मालादीपकमुच्यते।
-
- 
 
 Ex
 
@@ -2771,8 +2484,6 @@ XLIX\. **सारः—**The Climax.
 
  Ex**. मधुरं मधु पीयुषं तस्मात्तस्मात्कवेर्वचः॥**
 
-
-
 |                           |                        |
 |---------------------------|------------------------|
 | उत्तरोत्तरम् successively | मधुरम् sweet           |
@@ -2793,8 +2504,6 @@ L. **यथासंख्यम्—**The Relative Order.
 
 यथासंख्यं क्रमेणैव क्रमिकाणां समन्वयः।
 
- 
-
 Ex
 
 . शत्रु मित्रं विपत्तिं च जय रंजय भंजय॥
@@ -2812,8 +2521,6 @@ Ex
  Ex. O king! Conquer, gratify, destroy (thy) foe, friend and the calamity respectively.
 
  Here, a series of objects **शत्रुम्, मित्रम्** and **विपत्तिम्** is respectively connected with **जय,रञ्जय**and **भञ्जय** in their due order.
-
-
 
 LI\. **पर्यायः—**The Sequence.
 
@@ -2853,8 +2560,6 @@ Second kind of the Sequence.
 
  Def. Or, if many objects are said to reside in one and the same place in succession, that too is regarded as the Sequence.
 
-
-
  Ex. Sand bank is now seen in the place where there was water formerly.
 
  Here, the water and the sand bank are said to be successively residing in the same place.
@@ -2886,8 +2591,6 @@ The Exclusion of Specification.
 
 ** **Ex**. स्नेहक्षयः प्रदीपेषु न स्वान्तेषु नतभ्रुवाम्॥**
 
-
-
 |                                 |                                          |
 |---------------------------------|------------------------------------------|
 | एकस्मिन् in one onject on hand | प्रदीपेषु in the lamps                  |
@@ -2907,8 +2610,6 @@ LIV\. **विकल्पः—**The Alternative.
 
 . विरोधे तुल्यबलयोर्विकल्पालंकृतिर्मता।
 
- 
-
 Ex
 
 . सद्यः शिरांसि चापान् वा नमयन्तु महीभूजः॥
@@ -2923,8 +2624,6 @@ Ex
 
  Def. When there is an opposition of two things of equal probability, or, in other words, when the performance of two such things becomes impossible at the same time and thus restricts the agent to have recourse to only one of them, it is called the Alternative.
 
-
-
  Ex. Let the kings\*[^1] bend at once their heads or their bows.
 
 [^1]: "* The foes of the speaker."
@@ -2936,8 +2635,6 @@ LV\. **समुच्चयः—**The Conjunction.
  DEF
 
 . बहूनां युगपद्भावभाजां गुम्फः समुच्चयः।
-
- 
 
 Ex
 
@@ -2959,15 +2656,11 @@ Ex
 
  Compare the celebrated laconic report which Cæsar sent to Rome concerning his victory over Pharnaces at Tela 'I came, saw, conquered' (veni,vedi, vici).
 
-
-
 Second kind of the Conjunction.
 
  DEF
 
 . अहंप्राथमिकाभाजामेककार्यान्वयोऽपि सः।
-
- 
 
 Ex
 
@@ -2993,8 +2686,6 @@ LVI\. **कारकदीपकम् —** The Case-Illuminator.
 
 . क्रमिकैकगतानां तु गुंफः कारकदीपकम्।
 
- 
-
 Ex
 
 . गच्छत्यागच्छति पुनः पान्थः पश्यति पृच्छति॥
@@ -3008,8 +2699,6 @@ Ex
 |                                                                   | पश्यति sees      |
 |                                                                   | पृच्छति asks.    |
 
-
-
  Def. A combination of actions that are succes sively connected with one Kāraka (case-noun) is called **कारकदीपम्**. Or, in other words, when the same Kāraka (case-noun) is connected with many verbs in succession, it is **कारकदीपकम्**.
 
  Ex. The traveller goes, again comes, sees and asks (something).
@@ -3021,8 +2710,6 @@ LVII.**समाधिः—**The Convenience.
  DEF
 
 . समाधिः कार्यसौकर्यं कारणान्तरसन्निधेः।
-
- 
 
 Ex
 
@@ -3040,8 +2727,6 @@ Ex
  Ex. No sooner did this young lady long for her lover than the sun set in.
 
  Here, we see the simultaneous occurrence of two actions— the lady's longing for her lover and the
-
-
 
 sun's setting (expressed by the two **च**s in the two sentences).
 
@@ -3071,15 +2756,11 @@ The Rivalry.
 
  *N.B.—*The lilies are usually worn as ornaments on the ears which bend by their weight.
 
-
-
 LIX\. **काव्यार्थापत्तिः—**The Necessary Conclusion.
 
  DEF
 
 . कैमुत्येनार्थसंसिद्धिः काव्यार्थापत्तिरिष्यते।
-
- 
 
 Ex
 
@@ -3103,15 +2784,11 @@ Ex
 
  It is an acknowledged fact that lotuses begin to shrink and become faded on the rise of the moon. When that moon, the subduer of the lotuses, has been conquered, the fact that lotuses too have been conquered much more becomes a necessary conclusion.
 
-
-
 LX\. **काव्यलिंगम्—**The Poetical Reason.
 
  DEF
 
 . समर्थनीयस्यार्थस्य काब्यलिंगं समर्थनम्।
-
- 
 
 Ex
 
@@ -3146,8 +2823,6 @@ LXI\. **अर्थान्तरन्यासः—**The Transition.
 | हनुमान् the monkey-god Hanūmān                                       | दुष्करम् impossible    |
 |                                                                     | किम् what.             |
 
-
-
  Def. The assertion of a universal (proposition) and a particular (instance) is termed the Transition. Or, in other words, when a universal proposition is introduced to support a particular instance, or a particular instance to support a universal proposition, it is called the Transition.
 
  Ex. Hanūmān crossed the ocean; what is impossible for great men ?
@@ -3170,8 +2845,6 @@ particular instance.
  Even the meanest creature, by the association of the meritorious, attains to the greatness. A thread united with a wreath of flowers is worn on the head.
 
  Here, a universal proposition is confirmed by a particular instance.
-
-
 
 LXII\. **विकस्वरः—**The Expansion.
 
@@ -3202,8 +2875,6 @@ LXIII\. **प्रौढ़ोक्तिः—**The Bold Speech.
 
 . प्रौढ़ोक्तिरुत्कर्षाहेतौतद्धेतुत्वप्रकल्पनम्।
 
- 
-
 EX
 
 . कचाः कलिन्दजातीरतमालस्तोममेचकाः॥
@@ -3214,8 +2885,6 @@ EX
 | तद्धेतुत्वप्रकल्पनम् attribution of a certain cause to it |                                                                                               |
 | प्रौढ़ोक्तिः The Bold Speech                              |                                                                                               |
 | कचाः the tresses                                         |                                                                                               |
-
-
 
  Def. The attribution of a certain cause, to a statement asserted, which cannot form the cause of excellence (of the object described) is called the Bold Speech.
 
@@ -3228,8 +2897,6 @@ LXIV. **संभावना—**The Supposition.
  DEF
 
 . सम्भावना यदीत्थं स्यादित्यूहोऽन्यस्य सिद्धये।
-
- 
 
 Ex
 
@@ -3247,8 +2914,6 @@ Ex
 
  Def. A conjecture assumed through the use of the expression 'if it were so' for the accomplishment of another (impossible) act, is termed the Supposition.
 
-
-
  Ex. O God! If the Lord of the serpents were to be the narrater, then *all* thy merits would have been described.
 
  This form of supposition introduced by a subjunctive clause is reckoned by the author of Kāvyaprakāsa as the third kind of **अतिशयोक्ति**.
@@ -3258,8 +2923,6 @@ LXV\. **मिथ्याध्यवसितिः—**The False Determinatio
  DEF
 
 . किञ्चिन्मिथ्यात्वसिद्ध्यार्थं मिथ्यार्थान्तरकल्पनम्।
-
- 
 
 Ex
 
@@ -3279,15 +2942,11 @@ Ex
 
  Sky-flower is an absolute nonentity and does not exist in any period, past, present or future. So the winning over a prostitute becomes also a non-entity. This ornament is also reckoned as one of the kinds of **अतिशयोक्ति** by the author of **K. P.**
 
-
-
 LXVI\. **ललितम्—**The Artful Indication.
 
  DEF
 
 . वर्ण्ये स्याद्वर्ण्यवृत्तान्तप्रतिबिम्बस्य वर्णनम्।
-
- 
 
 Ex
 
@@ -3313,15 +2972,9 @@ LXVII\. **प्रहर्षणम्—**The Enrapturing.
 
 . उत्कण्ठितार्थसंसिद्धिर्विना यत्नं प्रहर्षणम्।
 
- 
-
 Ex
 
 . तामेव ध्यायते तस्मै निसृष्टा सैव दूतिका।
-
-
-
-
 
 [TABLE]
 
@@ -3346,8 +2999,6 @@ The Second kind of the Enrapturing.
 | यावत् no sooner               | अभ्युदितः rose.   |
 
  Def. The attainment of something more than what was desired is called the second kind of the Enrapturing.
-
-
 
  Ex. No sooner did she kindle the lamp, than the sun rose.
 
@@ -3376,15 +3027,9 @@ LXVIII\. **विषादनम्—**The Despondency.
 
 . इष्यमाणविरुद्धार्थसंप्राप्तिस्तु विषादनम्।
 
-
-
 Ex
 
 . दीपमुद्योजयेद् यावन्निर्वाणस्तावदेव सः।
-
-
-
-
 
 |                                                                                        |                         |
 |----------------------------------------------------------------------------------------|-------------------------|
@@ -3409,8 +3054,6 @@ LXIX\. **उल्लासः—**Abandonment.
  Def. If the delineation of merit and demerit of one object conveys a reference to the merit and demerit of another object, or, in other words, if (1) the merit of one object refer to the merit of another object, (2) the demerit, to the demerit, (3) the merit, to the demerit, and (4) the demerit, to the merit, then it is called the Abandonment.
 
  Ex. 'Will not a chaste woman (come and) bathe (in my waters) and purify me also', so the river Gangā desires.
-
-
 
  Here the merit—the purificating character of a chaste woman refers to the merit of the Gangā who prays for purification. Hence this is the example of No. 1 merit referring to a merit.
 
@@ -3441,8 +3084,6 @@ LXIX\. **उल्लासः—**Abandonment.
 | ससज्जनम् the good man        | धनस्य एव of the riches only |
 | न आश्रयति does not resort to | अभाग्यम् misfortune.       |
 
-
-
  Ex. It is the misfortune of riches themselves in that they do not resort to the good people.
 
  Here, the merit of the good people refers to the demerit of the riches in their not resorting to the good people.
@@ -3467,8 +3108,6 @@ LXX\. **अवज्ञालंकृतिः—**Non- Abandonment.
 
 . ताभ्यां तौ यदि न स्यातामवज्ञालंकृतिस्तु सा।
 
- 
-
 Ex
 
 . स्वल्पमेवांबु लभते प्रस्थं प्राप्यापि सागरम्॥
@@ -3481,8 +3120,6 @@ Ex
 | न स्याताम् do not occur        | स्वल्पमेव only a small quantity |
 | सा that                        | अंबु water                       |
 | अवज्ञालंकृतिः Non-Abandonment | लभते gets.                      |
-
-
 
  Def. If, by the delineation of them, *i.e.*, merit and demerit of one object, they— the merit and demerit of another object—do not occur, then it is called the Non-Abandonment.
 
@@ -3512,13 +3149,9 @@ LXXI\. **अनुज्ञा—**The Permission.
 
 . दोषस्याभ्यर्थनाऽनुज्ञा तत्रैव गुणदर्शनात्।
 
- 
-
 Ex
 
 . विपदः सन्तु नः शश्वद् यासु संकीर्त्यते हरिः॥
-
-
 
 |                                                        |                            |
 |--------------------------------------------------------|----------------------------|
@@ -3547,7 +3180,6 @@ Ex
 
 . अखिलेषु विहङ्गेषु हन्त स्वच्छन्दचारिषु॥  
 
-
 शुक ! पञ्जरबन्धस्ते मधुराणां गिरां फलम्॥
 
 |                                                   |                                  |
@@ -3561,15 +3193,11 @@ Ex
 
  Def. **लेशः**is a figure in which the merit and demerit of one thing are respectively construed to the demerit and merit of the other.
 
-
-
  Ex. Alas! parrot! when all other birds freely wander about at their will, thy confinement in the cage is the result of thy melodious songs.
 
   Here, the utterance of melodious sounds is construed to be a demerit in a parrot and the non-utterance is construed to be a merit in other birds.
 
 LXXIII.**मुद्रा—**The Sealing.
-
- 
 
 DEF.
 
@@ -3592,19 +3220,13 @@ DEF.
 
   Here,**युग्मविपुला**serves to signify the sense required for the description of the lady the subject on hand. The same word is also the name of a metre of **अनुष्टुम्** class containing 8 syllables for each quarter wherein the seventh syllable of the 2nd and 4th quarters must be short. Thus, we see that the same word that served the purpose on hand—the description of the lady— also names the metre of the verse to be hinted at by the poet, the stanza being the illustration of that metre.
 
-
-
  It is usual *among* the Sanskrit prosodians to illustrate a metre, defined, by a stanza containing the name of that metre which will also serve to explain the sense contained in the stanza. Hence the figure is called** मुद्रा—** an expression of things by their right names.
 
 LXXIV**. रत्नावली—**The Jewelled Necklace.
 
-
-
 DEF.
 
 क्रमिकं प्रकृतार्थानां न्यासं रत्नावलीं विदुः।
-
-
 
 Ex.
 
@@ -3630,8 +3252,6 @@ Ex.
 
  Here, the words **चतुरास्यः**etc., serve the sense on hand in describing the king and are also names of
 
-
-
  the Hindu Triad, in their order—Brahmā, Vishnu and Siva, the objects not on hand to which the king is identified in succession.
 
  The difference between this figure and the figure **मुद्रा** (LXXIII) is that in this figure the sense of the words referring to objects not on hand—*i.e.* the sense to be hinted at—also serves to explain the sentence in another way under a pun, but it is not so in the Mudrā.
@@ -3641,8 +3261,6 @@ LXXV\. **तद्गुणः—**The Borrower.
  DEF.
 
 तद्गुणः स्वगुणत्यागादन्यदीयगुणग्रहः।
-
- 
 
 Ex.
 
@@ -3661,17 +3279,13 @@ Ex.
 
  Here, the colour of the lady's lower lip, being superior, makes the white pearl of her nose ornament appear like a padmarāga ruby.\*[^4]
 
-
 [^4]: " The pearl has been eclipsed by the lady's lip."
-
 
 LXXVI\. **पूर्वरूपम्—**The Original.
 
  DEF
 
 . पुनः स्वगुणसंप्राप्तिः पूर्वरूपमुदाहृतम्।
-
- 
 
 Ex
 
@@ -3691,15 +3305,9 @@ Second kind of the Original.
 
 . पूर्वावस्थानुवृत्तिश्च विकृते सति वस्तुनि।
 
- 
-
 Ex
 
 . दीपे निर्वापितेऽप्यासीत्कांचीरत्नैर्महन्महः॥
-
-
-
-
 
 |                                                       |                                                         |
 |-------------------------------------------------------|---------------------------------------------------------|
@@ -3721,8 +3329,6 @@ LXXVII\. **अतद्गुणः—**The Non-Borrower.
 
 संगतान्यगुणानंगीकारमाहुरतद्गुणम्।
 
- 
-
 Ex.
 
 चिरंरागिणि मच्चित्ते निहितोऽपि न रञ्जसि॥
@@ -3736,8 +3342,6 @@ Ex.
 |                                                                                           | न रञ्जसि dost not become red(affectionate). |
 
  Def. The non-assuming, by an object, of the quality of another though connected with it (or in
-
-
 
 other words, when an object does not borrow the quality of another object, it) is called the Non-  
 Borrower.
@@ -3755,8 +3359,6 @@ LXXVIII\. **अनुगुणः—**The Conformity.
 
 प्राक्सिद्धस्वगुणोत्कर्षोऽनुगुणः परसन्निधेः।
 
- 
-
 Ex.
 
 नीलोत्पलानि दधते कटाक्षैरतिनीलताम्॥
@@ -3772,8 +3374,6 @@ Ex.
  Def. The pre-eminence, of one's own previously settled quality, by the presence of another agency, (or, in other words, when the original quality of an object is made pre-eminent by the proximity of another object, it) is called the Conformity.
 
  Ex. The blue lotuses attain more blueness by the side-glances (of a lady falling on them).
-
-
 
  Here, the dark blue lustre of the lotuses is increased by the pre-eminent blue side-glances of the lady falling on them.
 
@@ -3812,10 +3412,6 @@ LXXX\. **सामान्यम्—**The Sameness.
 
 पद्माकरप्रविष्टानां मुखं नालक्षि सुभ्रुवाम्॥
 
-
-
-
-
 |                                       |                                                  |
 |---------------------------------------|--------------------------------------------------|
 | यदि if                                | पद्माकरप्रविष्टानाम् that entered the lotus-pool |
@@ -3842,15 +3438,9 @@ LXXXII\. **विशेषकः—**The Un-Sameness.
 
 भेदवैशिष्ट्ययोःस्फूर्तावुन्मीलितविशेषकौ।
 
- 
-
 Ex.
 
 हिमाद्रिं त्वद्यशोमग्नं सुराः शीतेन जानते॥
-
-
-
-
 
 |                                                                          |                                       |
 |--------------------------------------------------------------------------|---------------------------------------|
@@ -3868,8 +3458,6 @@ Ex.
 
  This is the example of the figure **उन्मीलित**. Here,the Himālaya which is white was lost in the whiter fame of the king and was afterwards recognized by the Gods on account of its chillness.
 
-
-
 *Example of the* **विशेषक***.*
 
 लक्षितान्युदिते चन्द्रे पद्मानि च मुखानि च।
@@ -3879,8 +3467,6 @@ Ex.
  Ex. After the rise of the moon, the lotuses and the faces of the damsels became distinguishable.
 
  In the **सामान्य**, the faces of the damsels that entered the lotus-pool were undistinguishable from the
-
-
 
 lotuses on account of their likeness but after the rise of the moon the lotuses faded and the faces began to appear more beautiful and hence they became discriminated.
 
@@ -3908,15 +3494,11 @@ LXXXIII.**उत्तरम्—**The Reply.
 
  From this, we understand that a traveller has asked the speaker, a lady here, the place where a particular river can be crossed. The lady becoming enamoured of him makes this reply by showing a particular place which was also indirectly named by her as a place of assignation for their meeting.
 
-
-
 Second kind of the Reply.
 
  DEF.
 
 प्रश्नोत्तरान्तराभिन्नमुत्तरं चित्रमुच्यते।
-
- 
 
 Ex.
 
@@ -3937,8 +3519,6 @@ consists of the same words of the question asked, and when one reply made serves
 upon bringing the lands to perfection or husbandmen. Q. Who move in the air and which is transitory—R. **वयः**(1) birds (2) age.
 
  **केदारः**= a field. The first question **के दारपोषणरताः**and its answer **केदारपोषणरताः**consist of the same words (lit. letters). **वयः**is the one reply made to the two questions asked. **वयः**when it means, 'birds' is the nominative plural of the word **वि** m; and when it means 'the age' it is the nominative singular of the neuter noun.**वयस्.** Hence these are styled the skilful replies.
-
-
 
 LXXXIV\. **सूक्ष्मम्—**The Subtle.
 
@@ -3976,10 +3556,6 @@ LXXXV\. **पिहितम्—**The Covering.
 | परवृत्तान्तज्ञातुः of one that knows the secret of the other | साकूतचेष्टितम् significant act or an insinuation |
 |                                                              | पिहितम् The Covering                             |
 
-
-
-
-
 |                                                 |                    |
 |-------------------------------------------------|--------------------|
 | प्रातः in the morning                           | कान्ता the lady    |
@@ -3997,8 +3573,6 @@ LXXXVI\. **व्याजोक्तिः—**The Disembler.
  DEF.
 
 व्याजोक्तिरन्यहेतूक्त्या यदाकारस्य गोपनम्।
-
- 
 
 Ex.
 
@@ -4018,8 +3592,6 @@ Ex.
 
  Here, a lady, the speaker, having her body made dirty by the dust in her toying with with her lover, artfully
 
-
-
 conceals the same by saying that she was made greyish by the pollens, *i.e.,* by attributing it to some different cause. Her first state was not expressed and then denied and so this is different from the ornament of Concealment (XI) where an object is first mentioned by a person who then conceals it.
 
 LXXXVII\. **गूढ़ोक्तिः—**The Secrecy.
@@ -4027,8 +3599,6 @@ LXXXVII\. **गूढ़ोक्तिः—**The Secrecy.
  DEF.
 
 गुढ़ोक्तिरन्योद्देश्यं चेद्यदन्यं प्रति कथ्यते।
-
- 
 
 Ex.
 
@@ -4050,8 +3620,6 @@ Ex.
  This speech is intended to be communicated to a person toying with the wife of another person and this is addressed to the bull that was grazing in a third man's field. The intended meaning to be conveyed is :—
 
  O Luster! begone, yonder comes the husband of the lady with whom thou art boldly toying.
-
-
 
 LXXXVIII\. **विवृतोक्तिः—**Open Speech.
 
@@ -4077,8 +3645,6 @@ LXXXIX\. **युक्तिः—**Covert Speech.
 
 युक्तिः परातिसंधानं क्रियया मर्मगुप्तये।
 
- 
-
 Ex.
 
 त्वामालिखन्ती दृष्ट्वान्यं धनुःपौष्यं करेऽलिखत्॥
@@ -4091,8 +3657,6 @@ Ex.
 | युक्तिः Covert Speech                           | पौष्पं धनुः flowery bow              |
 |                                                | करे in the hand                       |
 |                                                | अलिखत् drew                           |
-
-
 
  Def. Covert Speech is a deception of a person by an act played upon another for concealment of his or her own design.
 
@@ -4108,8 +3672,6 @@ XC\. **लोकोक्तिः—**Popular Saying.
 
 लोकप्रवादानुकृतिर्लोकोक्तिरिति भण्यते।
 
- 
-
 Ex.
 
 सहस्व कतिचिन्मासान्मीलयित्वा विलोचने॥
@@ -4123,8 +3685,6 @@ Ex.
  This is one of the messages sent by a separated lover to his lovely wife. The full meaning is:—
 
  "Lady! Let a few months be spent unmarked by thee; and then we shall both meet, and have full scope to reward our desires entertained in our separation."With thy eyes closed" is even now more current in the sphere of the lovers and distressed people.
-
-
 
 XCI\. **छेकोक्तिः—**The Skilful Speech,
 
@@ -4156,8 +3716,6 @@ XCII\. **वक्रोक्तिः—**The Crooked Speech.
 
 वक्रोक्तिः श्लेषकाकुभ्यामपरार्थप्रकल्पनम्॥
 
- 
-
 Ex
 
 . मुञ्च मानं दिनं प्राप्तं नेह नन्दी हरान्तिके॥
@@ -4171,8 +3729,6 @@ Ex
 |                                                                    | हरान्तिके near the God Śiva.  |
 
  Def. when a person construes a speech of another in a different sense by means of a pun or by an affected change of voice, it is called the Crooked Speech.
-
-
 
  Ex. *Lady* ! Remove thy anger as day has appeared.
 
@@ -4196,15 +3752,11 @@ XCIII\. **स्वभावोक्तिः—** Description of Nature.
 
  Another name of this figure is **जातिः**according to Dandī. This kind of description is considered the best by the poets.
 
-
-
 XCIV\. **भाविकम्—**The Vision.
 
  DEF.
 
 भाविकं भूतभाव्यर्थसाक्षात्कारस्य वर्णनम्।
-
- 
 
 Ex.
 
@@ -4228,8 +3780,6 @@ XCV\. **उदात्तम्—**The Exalted.
 
 उदात्तमृद्धेश्वरितं श्लाघ्यं चान्योपलक्षणम्।
 
- 
-
 Ex
 
 . सानौ यस्याभवद्युद्धं तद्धूर्जटिकिरीटिनोः॥
@@ -4245,8 +3795,6 @@ Ex
 | उपलक्षणम् indirect representation of importance |                                              |
 
  Def. A description of prosperity of an object is termed the Exalted.
-
-
 
  And any commendable action *of some great personage* represented indirectly or collaterally to the object under delineation is termed also the Exalted..
 
@@ -4278,15 +3826,11 @@ he wish-yielding (kalpa) trees of paradise become thy mendicants.
 
  This is a false exaggeration of a king's liberal munificence.
 
-
-
 VII**. निरुक्तिः—**Exposition.
 
  DEF.
 
 निरुक्तिर्योगतो नाम्नामन्यार्थत्वप्रकल्पनम्।
-
- 
 
 Ex.
 
@@ -4325,8 +3869,6 @@ XCVIII\. **प्रतिषेधः—**Prohibition.
 
 \* **दोषाम्** night **करोति** does = moon and **दोषाणाम्** of faults **आकरः** mine = a mine of faults.
 
-
-
  Def. Prohibition is the announcement of prevention of a well-known act.
 
  Ex. O Gambler Sakuni ! This is not the playing at dice but this is the playing by sharpened arrows (the famous battle of Kurukshetra).
@@ -4338,8 +3880,6 @@ XCIX\. **विधिः**—Fitness.
  DEF.
 
 सिद्धस्यैव विधानं यत्तदाहुर्विध्यलंकृतिम्।
-
- 
 
 Ex.
 
@@ -4357,8 +3897,6 @@ Ex.
 [^5]: "In the season in which panchama note becomes manifest."
 
  Def. A declaration of a thing previously effected, the learned call as the figure Fitness.
-
-
 
  Ex. Only in the spring season, the kokila bird shall become a kokila, *i.e.*, charming.
 
@@ -4393,10 +3931,6 @@ C.**हेतुः—**The Cause.
 | हेतुहेतुमतोः of cause and effect | केचित् certain rhetoricians |
 | ऐक्यम् identity                  | हेतुम् as the figure reason |
 
-
-
-
-
 |                                                                                                                     |                                                   |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
 | प्रचक्षते call                                                                                                      | कटाक्षाः glances                                 |
@@ -4416,11 +3950,7 @@ C.**हेतुः—**The Cause.
 
  These one hundred figures of speech have been thus defined and exemplified (by the author) after having studied all the dogmas of the rhetoricians, ancient as well as modern.
 
-
-
 ![](../books_images/U-IMG-1728574953pic2.jpg)
-
-
 
 **APPENDIX.**
 
@@ -4435,8 +3965,6 @@ P. A. " Pāṇini's Ashṭādhyāyī by Mr. S. C. Vāsu.
  The student should know first some of the conventions of poets to understand this as well as other works better.
 
  The sky, sin, sorrow, sea, clouds, serpents, infamy, etc., are described as black; fame, laughter, renown,‌virtue, umbrella, water, flower, cloth, etc., as white; anger, love, sun, learning, etc., as red; valour as red‌ and hot. Lotuses, lilies, etc., can be described as growing in all the rivers, seas and in small tanks. Flamingoes and other birds are said to haunt in all‌ receptacles of water. Water-elephants live in celestial Ganges too. Gems and the fish 'makara' are found in oceans; pearls in the river Tāmraparṇī only. Bhūrja trees grow in the Himālaya alone; Sandal trees grow only in the Malaya Mountain and bear no flowers and fruits. Asoka does not‌ fructify. Lotuses bloom only in the day; lilies only in the night. Mālatī does not bloom in the spring. The Indian cuckoos utter sweet notes only in the spring season. The cries and dances of peacocks and the emigration of the flamingoes to the Mānasa Lake occur only in the rainy season. The chakora
-
-
 
 birds are said to drink the moonlight. chakravāka birds always move in couple; and the couple occupying the opposite banks of a river never see each other during the whole night. The God‌ of love bears a flowery bow with only five flowery shafts and his bow-string is strung with bees. There is moonlight throughout the bright fortnight; and darkness throughout the black fortnight. The description of the setting sun must be followed by that of the rising moon. Separated lovers are affected at the sight of the clouds and feel the moonlight and the Malaya breeze as fire and also suffer very much from love fever. The moon on the crest of God Siva is always described as young. The description of men must be from head to foot and, in case of Gods, from foot to head.
 
@@ -4458,8 +3986,6 @@ Words expressive of comparison.
 
 D. K.
 
-
-
  Of these, **वत्, कल्प, देश्य, देशीय** are taddhita terminations. The last three express a slight incomplete comparison. See V. 3. 67 P. A.
 
 *Other terminations expressive of comparison.*
@@ -4480,8 +4006,6 @@ D. K.
 
 ** लुम्मनुष्ये** (V. 3. 98). When a man is denoted, the affix **कन्** expressing comparison is elided, the word
 
-
-
 retaining its number and gender. Thus **चञ्चा (चञ्चा इव पुरुषः)** a straw-man, *i.e.,* an effigy in straw. **P. A.**
 
 **णिनि (णिन्)** * a krit termination.*
@@ -4500,8 +4024,6 @@ retaining its number and gender. Thus **चञ्चा (चञ्चा इव 
 
 * Observe*. **उपमा** is first two-fold **पूर्णा** 'complete' and **लुप्ता** 'elliptical'. These again are **श्रौती** *direct* when the comparison is expressed by the employment of such words as **यथा, इव, वा** or **वत्** all in the sense of English 'as'; and **आर्थी** *indirect* when the comparison is
 
-
-
 expressed by the use of the words **तुल्य, समान,** etc., all in the sense of English 'like '**श्रौती** conveys the notion of similarity at the very hearing **आर्थी** is to be understood only through the meaning ofthe expression. These two kinds are again three-fold as they occur in a sentence **(वाक्यगता ),** in a compound **(समासगता)** and in a nominal affix **( तद्धितगता).** Thus, there are 6 varieties of **पूर्णा ;** and but of **लुप्ता,** there are 26 varieties.
 
 **पूर्णा –** 6 varieties.
@@ -4510,10 +4032,7 @@ expressed by the use of the words **तुल्य, समान,** etc., all i
 
 **लुप्ता —**26 varieties.  
 
-
 [TABLE]
-
-
 
 |                                    |
 |------------------------------------|
@@ -4530,8 +4049,6 @@ expressed by the use of the words **तुल्य, समान,** etc., all i
 
 ¶In the active sense.  
 \।\। No श्रौती —तद्धितगता.
-
-
 
 21 धर्मवाचकलुप्ता —क्विप् -गता.
 
@@ -4586,8 +4103,6 @@ The lower-lip of that lady is sweet like nectar; her hand is exceedingly tender 
 
 R.S.
 
-
-
  Alas! I will not forget the eyes of my fawn-eyed lady beautiful like slightly expanded lotuses.
 
 मलयानिलमनलीयति मणिभवने काननीयति क्षणतः।  
@@ -4612,11 +4127,8 @@ R.G.
 
 \* The words connected by इव (or its equivalent) must be in the same case. Apte's Guide. 257 Observe.
 
-
-
       13  
 **कोकिलालापिनी ह्येषा**  
-
 
  This maiden speaks like an Indian cuckoo.
 
@@ -4653,7 +4165,6 @@ O beloved! thy face is as the moon; thy hand is like a sprout ; thy speeches are
 
 **S.D.**  
 
-
 The lotus-like-face of this lady acts like the moon.
 
  In **विधवति = विधुरिवाचरति,** we have the omission of and the common attribute 'charmingness' in the **क्विप्** affix. In **मुखाब्जम् = मुखम् अब्जमिव,** we have the same in a compound.**  **
@@ -4671,8 +4182,6 @@ The lotus-like-face of this lady acts like the moon.
 **ममायं मानुषो लोको नाकलोक इवाभवत्॥**
 
 **R. S.**
-
-
 
  This mortal world has become a celestial one to me being in company with this lady who has eyes tremulous like those of young deer and who thinks herself like Tilottamā.
 
@@ -4699,7 +4208,6 @@ The lotus-like-face of this lady acts like the moon.
 
 **S. D.**  
 
-
 A charming likeness to her face or to her eyes does not exist (any where)
 
 29 & 30  
@@ -4711,8 +4219,6 @@ A charming likeness to her face or to her eyes does not exist (any where)
 **सहकार ! न प्रपेदे मधुपेन तथापि ते समं जगति॥**
 
 **R.S**.
-
-
 
  All the forest has been explored and all the trees were seen; still O mango tree! thy likeness in the world was not obtained by this bee.
 
@@ -4747,8 +4253,6 @@ S. D.
 **मालोपमा –** Garland of Similes.
 
  Def. When one object is compared to many, or in‌ other words, when one upameya is compared to many upamānas, it is called **मालोपमा**.
-
-
 
 Ex
 
@@ -4790,8 +4294,6 @@ Ex
 
  Here, **कुशलाः** and **निपुणाः** are similar attributes. This ornament is also found in a series—**माला**- **प्रतिवस्तूपमा**.
 
-
-
 Ex.
 
 वहति विषधरान् पटीरजन्मा  
@@ -4828,8 +4330,6 @@ R. S.
 कार्ये निमित्ते सामान्ये विशेष प्रस्तुते सति।  
 तदन्यस्य वचस्तुल्ये तुल्यस्येति च पञ्चधा॥
 
-
-
 ** कार्ये प्रस्तुते सति =** when an effect is the subject-matter, **तदन्यस्य वचः=** the description of its contrary, ie., cause (**कारण); निमित्ते प्रस्तुते सति =** when a cause is the subject-matter, **तदन्यस्य वचः** the description of its contrary, i.e., the effect **(कार्य); सामान्धे प्रस्तुते सति =** when a general is the subject matter, **तदन्यस्य वचः** the description of its contrary, i.e., the particular **(विशेष); विशेष प्रस्तुते सति =** when a particular is the subject matter, **तदन्यस्य वचः =** the description of its contrary, i.e., the general **(सामान्य); तुल्ये प्रस्तुते सति** when a similar thing is the subject matter, **तुल्यस्य वचः =** the description of another similar thing; **इति =** in this manner, **पञ्चधा** five-fold.
 
  When the subject-matters in hand are (1) an effect (2) a cause, (3) a general, (4) a particular, the descriptions of their contraries, *i.e*., cause, effect, particular, general, respectively and when (5) a similar thing is the subject-matter, the description of another similar thing, (or in other words, when the descriptions of (1) a cause, (2) an effect, (3) particular, (4) a general, and (5) a similar thing convey reference to (1) effect, (2) cause, (3) the general, (4) the particular and (5) another similar thing which are respectively in question, such descriptions) are called the five varieties of this figure.
@@ -4846,8 +4346,6 @@ Examples in their order.
 R. S.
 
  When I began to start, through anger, for a distant countrythough I was obstructed, by sweet words, (by my lady) bending onh er knees, that young maiden immediately arrested my way by her sportive kitten acting obedient to her will pointed out by her fingers.
-
-
 
  Here, the cause, the lady's act, is described, when the effect, the prevention of her lover's departure is to be understood.
 
@@ -4875,8 +4373,6 @@ R. S.
 
  Here, the description of a wicked man in general conveys a reference to a particular person, before the speaker, the subject matter,
 
-
-
 \(4\) A general is understood from the description of the particular.
 
 **हारं वक्षसि केनापि दत्तमज्ञेन मर्कटः।  
@@ -4902,8 +4398,6 @@ Bhāminīvilāsa.
 45\. **व्याघातः—**Frustration.
 
  S. D. defines this figure thus:—'Frustration is when by the same means that one employed in bringing a thing to a particular state, another brings it to
-
-
 
 an opposite one' —and quotes the following as an example
 
@@ -4935,8 +4429,6 @@ Ex.
  What is ever to be practised—virtue.[^7] What is to be resorted to— the study of good science. Who is to be meditated upon the God Vishnu. Which is to be desired the abode of Vishnu or final beatitude.
 
 [^7]: " 'and not sin' is understood."
-
-
 
  Here, sin etc., which are to be denied, are under stood, here also preceded by a query.
 
@@ -4973,8 +4465,6 @@ Ex
 
  Def. When a reason is implied in a sentence or in a word or words, it is called Poetical Reason.
 
-
-
 Ex
 
 .
@@ -4993,8 +4483,6 @@ Ex
 * N.B.—*This figure occuring in a sentence should not be confounded with the figures **अर्थान्तरन्यास** 'Tran- sition' (59) nor with **अनुमानम्** 'Inference';[^8] \* on this, S. D. says as follows:***—*** In the province of poetry the reason is three-fold, as being Informative, Completive and Justificative (or Confirmative). Of these three sorts, the Infirmative Reason is the subject of the figure Inference, the Completive of the Poetical Reason and the Justificative of the Transition. Thus the Transition founded upon a causation is evidently distinct from the Poetical Reason.'
 
 [^8]: "This figure is not treated in this book."
-
-
 
  S. D. defines it thus:—The notion, expressed in a peculiarly striking manner, of a thing established by proof, is termed Inference,' and exemplifies thus:—
 
@@ -5024,8 +4512,6 @@ Example of the description of prosperity.
  Rāvaņa surrounded by the innumerable images of his own reflected in the jewelled pillars (of his palace) was with great difficulty recognized by Hanümän (lit. son of **अञ्जना**).
 
  From this, the super-mundane prosperity of Rāvana, king of Lankā, the object under description, is apprehended.
-
-
 
  It is essentially necessary that student should know what is **संसृष्टिः** 'Conjunction' and what is **संकरः** 'Commixture' as they are not treated in this book.
 
@@ -5057,8 +4543,6 @@ the object not on hand—
 
 conveys a reference
 
-
-
 to a beautiful dame standing on the top of a skykissing mansion, her circular face alone being visible above the parapet wall;
 
  **(2)** A Metaphor No. 1 **अनुभयाभेदरूपकम्** as the moon's orb is superimposed upon a fair face intimated by the pronoun '**इदम्** = this';
@@ -5074,8 +4558,6 @@ to a beautiful dame standing on the top of a skykissing mansion, her circular fa
 ** (7) दीपकम् —**Illuminator, as the face and the lunar orb the former of which is now taken as the object on hand and the latter as one not on hand are together associated with one and the same attribute—the verb **आभाति**; and so on.
 
  As we have here a dubiousness about all these ornaments, this figure is called **सङ्कर**।
-
-
 
 *All the Alankāras treated in this book may be classified under the following heads :—*
 
@@ -5103,8 +4585,6 @@ to a beautiful dame standing on the top of a skykissing mansion, her circular fa
 | 16\. आवृत्तिदीपक|                  | 80\. सामान्य|          |
 |                                   | 81\. उन्मीलित|         |
 |                                   | 82 विशेषक|            |
-
-
 
 II\. *Figures founded on Contrast. —* **विरोधमूलाः**।
 
@@ -5146,8 +4626,6 @@ V. Figures relating to the Logical connection of senses of two sentences. –
 | 61.अर्थान्तरन्यास| |
 | 62\. विकस्वर|      |
 
-
-
 VI\. Figures founded on Universality.—  
 
 **लोकव्यवहारमूलाः**।
@@ -5182,8 +4660,6 @@ VII\. Figures founded on Dissimulation.—
 | 84\. सूक्ष्म|     | 89.‌युक्ति|       |
 |                  | 92\. वक्रोक्ति| |
 
-
-
 *VIII. Figures founded on striking chain-like*  
 *description.***—शृंखलावैचित्र्यमूलाः।**
 
@@ -5191,8 +4667,6 @@ VII\. Figures founded on Dissimulation.—
 |----------------|-----------------|
 | 46\. कारणमाला| | 48\. मालादीपक| |
 | 47.एकावली|    | 49\. सार|      |
-
-
 
 IX\. Figures founded on striking epithets.—  
 विशेषणवैचित्र्यमूलाः ।
@@ -5210,12 +4684,8 @@ IX\. Figures founded on striking epithets.—
 
 **\_\_\_\_\_\_\_\_\_**
 
-
-
 Mutual distinctions of some of the more important  
 Figures treated in this book.
-
-
 
 DISTINCTION OF—
 
@@ -5228,8 +4698,6 @@ and
  12
 
  In **UPAMA**, we have a striking expressed resemblance that has been sanctioned by convention of poets and that will exite poetical delight and give an‌ agreeable surprise. In **PRATIPA**, we have not got that striking resemblance. The usual form of comparison is inverted and the excellence of *upameya* over *upamāna* is implied. In **UTPREKSHA**, we have a more stricking suggested resemblance not confined to the‌ convention of poets but solely due to the imaginative skill of the poet.
-
-
 
 उपमा  
  1  
@@ -5270,8 +4738,6 @@ and
 26
 
  In **UPAMA**, we have real expressed resemblance resting in the senses of words. In **SLESHA**, the suggested resemblance rests in mere words with out reference to their meanings.
-
-
 
 रूपक  
 5  
@@ -5315,8 +4781,6 @@ and
 
  In **ULLEKHA**, the upameya isl ooked upon as identical with severlupamānas by one or different perceiverst hrough difference of peculiarities according to their taste. In **RUPAKA**,
 
-
-
 the upameya is simply identified with one or many upamānas on account of their close resemblance only and not under any differential peculiarity.
 
 स्मृतिमान्  
@@ -5345,10 +4809,7 @@ and
 No.1  
 (13)  
 
-
  In **UTPREKSHA**, the introsusception is not complete, *i.e.*, the upameya is fancied under the character of upamāna. In **ATISAYOKTI**, the introsusception is complete, as the upameya which is comprehended as upamāna is
-
-
 
 not mentioned and is expressed by the word expressing the upamāna.
 
@@ -5375,8 +4836,6 @@ and
 15
 
  In **TULYAYOGITA**, we have the sameness of attribute of objects on hand, or of objects not on hand. In **DIPAKA**, the objects on hand and those not on hand are together associated with one and the same attribute mentioned only nonce. (See pages 46 and 47.)
-
-
 
 प्रतिवस्तूपमा  
 17  
@@ -5406,8 +4865,6 @@ and
 
 \* Are independent of each other. † Are dependent upon each other.
 
-
-
 māna and upameya, could not be distinguished on account of their having like properties and in the absence of any discriminating peculiarity. In **MILITA**, the inferior object gives up its own quality. In **SAMANYA**, both the objects do not give up their qualities. In **UNMILITA**, the difference which was not perceivable as in **MILITA**, becomes manifest by some act of the perceiver. In **VISESHAKA**, the discriminating peculiarity which was absent in **SAMANYA** becomes manifest by the accidental operation of another agency.
 
 समासोक्ति  
@@ -5426,8 +4883,6 @@ and
 34
 
  In **VIBHAVANA**, we have an effect in the absence of a cause. In **VISE–**
-
-
 
 विशेषोक्ति  
 35
@@ -5464,8 +4919,6 @@ and
 
 In **SAMADHI**, the effect of an act through one cause is facilitated by the accidental operation of another cause and this cause is therefore more powerful than the other and hence we have in
 
-
-
 *samadhi* unequal causes. In **SAMUCHCHAYA 2ND KIND,** all causes are equally powerful in bringing out the same effect with emulation as the Maxim of the Threshing floor and the Pegions\*[^9]*, i.e.,* just as the pegions alight together upon a threshing floor, each with emulation.
 
 [^9]: " खले कपोतिकान्यायः"
@@ -5494,8 +4947,6 @@ and
 
 **In UTTARA**, we infer from a statement made that a question has been previously made. In **PARISANKHYA** *2nd kind* (see Appendix), we have both question and answer. In
 
-
-
 **काव्यलिंग  
 60**
 
@@ -5513,8 +4964,6 @@ and**
 कृता कुवलयानन्दकारिकाविवृतिर्मया॥
 
 THE END.
-
-
 
 **INDEX.**
 
@@ -5546,8 +4995,6 @@ THE END.
 | उत्प्रेक्षा (12) 3    | परिकरः (24)           |
 | उदात्तम् (95)         | परिकराङ्कुरः (25)     |
 | उन्मीलितम् (81)       | परिणामः (6)           |
-
-
 
 |                           |                   |
 |---------------------------|:------------------|
@@ -5582,8 +5029,6 @@ THE END.
 | रूपकम् (5)               | समाधिः (57)       |
 | रूपकातिश्योक्तिः शुद्धा  | समासोक्तिः (23)   |
 
-
-
 |                         |                                   |
 |-------------------------|-----------------------------------|
 | समुच्चयः(55)           | सारः(49)                         |
@@ -5593,16 +5038,5 @@ THE END.
 | सापह्नवरूपकातिशयोक्तिः | हेतुः(100)                      |
 | सामान्यम्(80)          | हेत्वपह्नुतिः          |
 
-
-
-
 \]
-
-
-
-
-
-
-
-
 

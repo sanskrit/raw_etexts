@@ -12,11 +12,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 \[
 
-
-
             Arthalankaram
-
-
 
             अथ
 
@@ -25,10 +21,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निरूप्यन्ते
 
 ।
-
-
-
-
 
 1\.
 
@@ -44,8 +36,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपमा
 
 नाम
@@ -60,8 +50,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नाशा. 16.41)
 
-
-
 एकस्यैकेन
 
 सा
@@ -73,8 +61,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पुनः
 
 ।
-
-
 
 अनेकस्य
 
@@ -88,8 +74,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नाशा. 16.42)
 
-
-
 प्रशंसोपमा,
 
 निन्दोपमा,
@@ -101,8 +85,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 किञ्चित्सदृश्युपमा
 
 चेति
-
-
 
 पञ्चधेयमिति
 
@@ -118,8 +100,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 प्रतिपाद्यन्ते -
 
-
-
 दृष्ट्वा
 
 तु
@@ -133,8 +113,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मनुजाधिपः
 
 ।
-
-
 
 मुनिभिः
 
@@ -150,8 +128,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नाशा. 16.47)
 
-
-
 सा
 
 तं
@@ -163,8 +139,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कर्कशच्छविम्
 
 ।
-
-
 
 वने
 
@@ -180,8 +154,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नाशा. 16.48)
 
-
-
 क्षरन्तो
 
 दानसलिलं
@@ -189,8 +161,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लालामन्थरगामिनः
 
 ।
-
-
 
 मतङ्गजा
 
@@ -206,8 +176,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नाशा. 16.49)
 
-
-
 यत्त्वयाऽद्य
 
 कृतं
@@ -217,8 +185,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 परचित्तानुरोधिना
 
 ।
-
-
 
 सदृशं
 
@@ -230,15 +196,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नाशा. 16.50)
 
-
-
 संपूर्णचन्द्रवदना
 
 नीलोत्पलदलेक्षणा
 
 ।
-
-
 
 मत्तमात्तङ्गगमना
 
@@ -252,8 +214,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नाशा. 16.51)
 
-
-
 भामहकृतं
 
 लक्षणं
@@ -266,8 +226,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपमेयस्य
 
 यत्साम्यं
@@ -279,8 +237,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 2.30)
-
-
 
 दण्डिनो
 
@@ -295,8 +251,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रतीयते
 
 ।
-
-
 
 उपमा
 
@@ -314,8 +268,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.14)
 
-
-
 दण्डिनाऽत्रोपमायाः
 
 धर्मोपमाप्रभृतयः
@@ -326,8 +278,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यथाक्रममेतेषां
 
 लक्षणानि
@@ -337,8 +287,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रतिपादयामः
 
 ।
-
-
 
 \(1\)
 
@@ -354,8 +302,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इति
 
 धर्मोपमा
@@ -365,8 +311,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.15)
-
-
 
 \(2\)
 
@@ -386,8 +330,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इयं
 
 प्रतीयमानैकधर्मा
@@ -400,8 +342,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.16)
 
-
-
 \(3\)
 
 विपर्यासोपमा -
@@ -410,8 +350,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सा
 
 प्रसिद्धिविपर्यासाद्विपर्यासोपमेष्यते
@@ -419,8 +357,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.17)
-
-
 
 \(4\)
 
@@ -434,8 +370,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इत्यन्योन्योपमा
 
 सेयमन्योन्योत्कर्षशंसिनी
@@ -443,8 +377,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.18)
-
-
 
 \(5\)
 
@@ -462,8 +394,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इत्यन्यसाम्यव्यावृत्तेरियं
 
 सा
@@ -473,8 +403,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.19)
-
-
 
 \(6\)
 
@@ -490,8 +418,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अस्ति
 
 चेदस्तु
@@ -501,8 +427,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.20)
-
-
 
 \(7\)
 
@@ -520,8 +444,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ह्लादनाख्येन
 
 चान्वेति
@@ -531,8 +453,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.21)
-
-
 
 \(8\)
 
@@ -552,8 +472,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इयत्येव
 
 भिदा
@@ -563,8 +481,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.22)
-
-
 
 \(9\)
 
@@ -576,8 +492,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पद्मेऽपि
 
 सा
@@ -587,8 +501,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.23)
-
-
 
 \(10\)
 
@@ -608,8 +520,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तत्ते
 
 मुखश्रियं
@@ -619,8 +529,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.24)
-
-
 
 \(11\)
 
@@ -636,8 +544,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इन्दुमप्यनुधावामीत्येषा
 
 मोहोपमा
@@ -647,8 +553,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.25)
-
-
 
 \(12\)
 
@@ -666,8 +570,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मम
 
 दोलायते
@@ -679,8 +581,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.26)
-
-
 
 \(13\)
 
@@ -694,8 +594,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अतस्त्वन्मुखमेवेदमित्यसौ
 
 निर्णयोपमा
@@ -703,8 +601,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.27)
-
-
 
 \(14\)
 
@@ -718,8 +614,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अम्भोजमिव
 
 ते
@@ -731,8 +625,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.28)
-
-
 
 \(15\)
 
@@ -748,8 +640,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 बाले
 
 वोद्यानमालेयं
@@ -759,8 +649,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.29)
-
-
 
 \(16\)
 
@@ -778,8 +666,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 समानमपि
 
 सोत्सेकमिति
@@ -792,8 +678,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.30)
 
-
-
 \(17\)
 
 प्रशंसोपमा -
@@ -805,8 +689,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 शम्भुशिरोद्धृतः
 
 ।
-
-
 
 तौ
 
@@ -821,8 +703,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.31)
-
-
 
 \(18\)
 
@@ -840,8 +720,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 स
 
 गुणो
@@ -858,8 +736,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.32)
 
-
-
 \(19\)
 
 विरोधोपमा -
@@ -872,8 +748,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 परस्परविरोधीति
 
 सा
@@ -885,8 +759,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.33)
-
-
 
 \(20\)
 
@@ -904,8 +776,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कलङ्किनो
 
 जडस्येति
@@ -917,8 +787,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.34)
-
-
 
 \(21\)
 
@@ -934,8 +802,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आत्मनैव
 
 भवत्तुल्यमित्यसाधारणोपमा
@@ -943,8 +809,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.35)
-
-
 
 \(22\)
 
@@ -962,8 +826,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तथापि
 
 सम
@@ -977,8 +839,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.36)
-
-
 
 \(23\)
 
@@ -1000,8 +860,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इति
 
 विस्पष्टसादृश्यात्
@@ -1013,8 +871,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.37)
-
-
 
 \(24\)
 
@@ -1030,8 +886,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 त्वदाननं
 
 विभातीति
@@ -1043,8 +897,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.38)
-
-
 
 \(25\)
 
@@ -1060,8 +912,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 परुषा
 
 वागितो
@@ -1072,8 +922,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.39)
 
-
-
 \(26\)
 
 बहूपमा -
@@ -1081,8 +929,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चन्दनोदकचन्द्रांशुचन्द्रकान्तादिशीतलः
 
 ।
-
-
 
 स्पर्शस्तवेत्यतिशयं
 
@@ -1094,8 +940,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.40)
 
-
-
 \(27\)
 
 विक्रियोपमा -
@@ -1105,8 +949,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पद्मगर्भादिवोद्धृतम्
 
 ।
-
-
 
 तव
 
@@ -1119,8 +961,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.41)
-
-
 
 \(28\)
 
@@ -1138,8 +978,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विक्रमस्त्वय्यधाल्लक्ष्मीमिति
 
 मालोपमा
@@ -1149,8 +987,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.42)
-
-
 
 \(29\)
 
@@ -1166,8 +1002,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एकानेकेव
 
 शब्दत्वात्सा
@@ -1179,8 +1013,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.43)
-
-
 
 सेयं
 
@@ -1196,8 +1028,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथाक्रममेतयोरुदाहरणे
 
-
-
 निरूप्येते
 
 ।
@@ -1205,8 +1035,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 त्वदाननमधीराक्षमाविर्दशनदीधिति
 
 ।
-
-
 
 भ्रमद्भृङ्गमिवालक्ष्यकेसरं
 
@@ -1218,8 +1046,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.44)
 
-
-
 नलिन्या
 
 इव
@@ -1229,8 +1055,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पद्ममिवाननम्
 
 ।
-
-
 
 मया
 
@@ -1244,8 +1068,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.45)
 
-
-
 \(30\)
 
 प्रतिवस्तूपमा -
@@ -1258,8 +1080,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 साम्यप्रतीतिरस्तीति
 
 प्रतिवस्तूपमा
@@ -1269,8 +1089,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.46)
-
-
 
 उदा. -
 
@@ -1283,8 +1101,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 राजसु
 
 ।
-
-
 
 ननु
 
@@ -1300,8 +1116,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.47)
 
-
-
 \(31\)
 
 तुल्ययोगोपमा -
@@ -1313,8 +1127,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हीनमेकक्रियाविधौ
 
 ।
-
-
 
 यद्ब्रुवन्ति
 
@@ -1330,8 +1142,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.48)
 
-
-
 उदा. -
 
 दिवो
@@ -1346,8 +1156,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 असुरास्तेन
 
 हन्यन्ते
@@ -1359,8 +1167,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.49)
-
-
 
 \(32\)
 
@@ -1380,8 +1186,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 राजन्ननु
 
 करोषीति
@@ -1396,8 +1200,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.50)
 
-
-
 उभयोः
 
 समानमेकं
@@ -1409,8 +1211,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भवेद्यथैकत्र
 
 ।
-
-
 
 अर्थेऽन्यत्र
 
@@ -1430,8 +1230,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.4)
 
-
-
 वाक्योपमा
 
 समासोपमा
@@ -1445,8 +1243,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 त्रिविधा
 
 ।
-
-
 
 वाक्योपमात्र
 
@@ -1462,8 +1258,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपमानमिवादीनामेकं
 
 सामान्यमुपमेयम्
@@ -1471,8 +1265,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.5)
-
-
 
 उदा. -
 
@@ -1488,8 +1280,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अलिमालेव
 
 सुनीला
@@ -1504,8 +1294,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.6)
 
-
-
 इयमन्या
 
 सामान्यं
@@ -1513,8 +1301,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यत्रेवादिप्रयोगसामथ्र्यात्
 
 ।
-
-
 
 गम्येत
 
@@ -1525,8 +1311,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.7)
-
-
 
 उदा. -
 
@@ -1539,8 +1323,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भुजलतायुगलमेतत्
 
 ।
-
-
 
 करकुम्भाविव
 
@@ -1556,8 +1338,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.8)
 
-
-
 वस्त्वन्तरमस्त्यनयोर्न
 
 सममिति
@@ -1570,8 +1350,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उभयोरुपमानत्वं
 
 सक्रममुभयोपमा
@@ -1581,8 +1359,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.9)
-
-
 
 उदा. -
 
@@ -1598,8 +1374,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कुमुदमिव
 
 स्मितमेतत्स्मितमिव
@@ -1614,8 +1388,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.10)
 
-
-
 सा
 
 स्यादनन्वयाख्या
@@ -1625,8 +1397,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वस्त्वनन्यसदृशमिति
 
 ।
-
-
 
 स्वस्य
 
@@ -1642,8 +1412,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.11)
 
-
-
 उदा. -
 
 आनन्दसुन्दरमिदं
@@ -1657,8 +1425,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नागनासोरु
 
 ।
-
-
 
 इयमियमिव
 
@@ -1676,8 +1442,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.12)
 
-
-
 (
 
 मम्मटादिमतेन
@@ -1692,8 +1456,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।)
 
-
-
 सा
 
 कल्पितोपमाख्या
@@ -1703,8 +1465,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विशेषणैर्युक्तम्
 
 ।
-
-
 
 तावद्भिस्तादृग्भिः
 
@@ -1718,8 +1478,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.13)
 
-
-
 उदा. -
 
 मुखमापूर्णकपोलं
@@ -1729,8 +1487,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ते
 
 ।
-
-
 
 भाति
 
@@ -1742,8 +1498,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.14)
 
-
-
 अनुपममेतद्वस्त्वित्युपमानं
 
 तद्विशेषणं
@@ -1751,8 +1505,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चासत्
 
 ।
-
-
 
 संभाव्य
 
@@ -1768,8 +1520,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.15)
 
-
-
 उदा. -
 
 कुमुददलदीधितीनां
@@ -1784,8 +1534,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इदुमुपमीयेत
 
 तया
@@ -1797,8 +1545,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.16)
-
-
 
 (
 
@@ -1812,8 +1558,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।)
 
-
-
 सामान्यपदेन
 
 समं
@@ -1825,8 +1569,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तूपमानपदम्
 
 ।
-
-
 
 अन्तर्भूतेवार्था
 
@@ -1840,8 +1582,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.17)
 
-
-
 उदा. -
 
 मुखमिन्दुसुन्दरमिदं
@@ -1851,8 +1591,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भुजालतिके
 
 ।
-
-
 
 जघनस्थली
 
@@ -1868,15 +1606,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.18)
 
-
-
 पदमिदमन्यपदार्थे
 
 समस्यतेऽथोपमेयवचनेन
 
 ।
-
-
 
 यस्यां
 
@@ -1894,8 +1628,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.19)
 
-
-
 उदा. -
 
 शरदिन्दुसुन्दरमुखी
@@ -1907,8 +1639,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मे
 
 ।
-
-
 
 दहति
 
@@ -1922,8 +1652,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.20)
 
-
-
 उपमानपदेन
 
 समं
@@ -1936,8 +1664,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्यपदार्थे
 
 सोदितसामान्येवाभिधेयान्या
@@ -1945,8 +1671,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.21)
-
-
 
 उदा. -
 
@@ -1957,8 +1681,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सितांशुमुखि
 
 ।
-
-
 
 दहसि
 
@@ -1978,8 +1700,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.22)
 
-
-
 उपमानात्सामान्ये
 
 प्रत्ययमुत्पाद्य
@@ -1990,8 +1710,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सा
 
 प्रत्ययोपमा
@@ -2001,8 +1719,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.23)
-
-
 
 उदा. -
 
@@ -2020,8 +1736,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कुमुदायते
 
 तथा
@@ -2038,8 +1752,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.24)
 
-
-
 मालोपमेति
 
 सेयं
@@ -2050,15 +1762,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपमीयेतानेकैरुपमानैरेकसामान्यैः
 
 ॥ (
 
 कालरु. 8.25)
-
-
 
 उदा. -
 
@@ -2076,8 +1784,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 हंसीव
 
 कलालापा
@@ -2092,8 +1798,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.26)
 
-
-
 अर्थानामौपम्ये
 
 यत्र
@@ -2104,8 +1808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपमानमुत्तरेषां
 
 सेयं
@@ -2115,8 +1817,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.27)
-
-
 
 (
 
@@ -2131,8 +1831,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्वीकृता
 
 ।)
-
-
 
 उदा. -
 
@@ -2150,8 +1848,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 शशिबिम्बमिव
 
 लसद्द्युति
@@ -2164,8 +1860,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.28)
 
-
-
 क्रियतेऽर्थयोस्तथा
 
 या
@@ -2175,8 +1869,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तथैकदेशानाम्
 
 ।
-
-
 
 परमन्या
 
@@ -2190,8 +1882,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.29)
 
-
-
 उदा. -
 
 अलिवलयैरलकैरिव
@@ -2203,8 +1893,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वसन्ते
 
 ।
-
-
 
 भान्ति
 
@@ -2230,8 +1918,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कमलदलैरधरैरिव
 
 दशनैरिव
@@ -2239,8 +1925,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 केसरैर्विराजन्ते
 
 ।
-
-
 
 अलिवलयैरलकैरिव
 
@@ -2257,10 +1941,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 एकदेशविषया
 
 ।
-
-
-
-
 
 उपमा -
 
@@ -2285,8 +1965,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भेद
 
 प्रधाना,
-
-
 
 \(2\)
 
@@ -2316,8 +1994,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अत्र
 
-
-
 एकवाक्यं
 
 अपेक्षितम्
@@ -2335,8 +2011,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 राका
 
 चन्द्रादिना)
-
-
 
 लोकप्रसिद्धेन
 
@@ -2356,8 +2030,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यत्
 
-
-
 साधम्र्यं (
 
 समान
@@ -2375,8 +2047,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लोकप्रसिद्धपदं
 
 उत्प्रेक्षा
-
-
 
 व्यावर्तकं,
 
@@ -2400,8 +2070,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तत्र
 
-
-
 उपमानोपमेययोरालिंगितत्वात्;
 
 वाच्य
@@ -2415,8 +2083,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्र
 
 गम्यमानौपम्य
-
-
 
 त्वात्;
 
@@ -2436,8 +2102,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 एकवाक्यता
 
-
-
 पदं
 
 उपमेयोपमा
@@ -2453,8 +2117,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सत्त्वात्
 
 ।
-
-
 
 उपमायां
 
@@ -2480,8 +2142,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एषां
 
 चतुर्णां
@@ -2505,8 +2165,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 श्रौत्यां
-
-
 
 साक्षात्
 
@@ -2532,8 +2190,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आथ्र्यां
 
 धर्मि
@@ -2555,8 +2211,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सम,
 
 उपम
-
-
 
 आदयः,
 
@@ -2580,8 +2234,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तद्धितगत,
 
-
-
 समासगत
 
 भेदेन
@@ -2589,8 +2241,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 त्रिधा
 
 ।
-
-
 
 उदा -
 
@@ -2608,8 +2258,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 समासगा
 
 श्रौती - "
@@ -2622,8 +2270,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तद्धितगा
 
 श्रौती - "
@@ -2635,8 +2281,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सुन्दरम्"
 
 ।
-
-
 
 वाक्यगा
 
@@ -2652,8 +2296,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 समासगा
 
 आर्थी - "
@@ -2666,8 +2308,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तद्धितगा
 
 आर्थी - "
@@ -2679,8 +2319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रकाशते"
 
 ।
-
-
 
 यदा
 
@@ -2697,8 +2335,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लुप्तोपमा
 
 ।
-
-
 
 तत्र
 
@@ -2720,8 +2356,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 समं",
 
-
-
 "
 
 मुखं
@@ -2729,8 +2363,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चन्द्रसमं"
 
 ।
-
-
 
 उपमानलुप्ता
 
@@ -2752,8 +2384,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 लोपः)
 
-
-
 समासगा -
 
 द्विपदा - "
@@ -2766,8 +2396,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 बहुपदा - "
 
 पूर्ण
@@ -2779,8 +2407,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मुखम्"
 
 ।
-
-
 
 वाचक
 
@@ -2798,8 +2424,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आधार
 
 क्यच् - "
@@ -2812,8 +2436,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कर्तृ
 
 क्यङ् - "
@@ -2823,8 +2445,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चन्द्रीयते"
 
 ।
-
-
 
 कर्म
 
@@ -2840,8 +2460,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कर्तृ
 
 णमुल् - "
@@ -2853,8 +2471,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काशते"
 
 ।
-
-
 
 धर्म
 
@@ -2874,8 +2490,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 \-
 
 समासगा - "
@@ -2885,8 +2499,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रकाशते"
 
 ।
-
-
 
 धर्मोपमान
 
@@ -2902,8 +2514,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 वाक्यगा - "
 
 मुखेन
@@ -2916,8 +2526,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 वाचकोपमेय
 
 लुप्ता - "
@@ -2927,8 +2535,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चन्द्रीयति"
 
 ।
-
-
 
 त्रिलुप्ता - "
 
@@ -2952,10 +2558,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 समासः)
 
-
-
-
-
 राजानकरुय्यकमतेन -
 
 उपमानोपमेययोः
@@ -2972,8 +2574,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपमानोपमेययोरित्यप्रतीतोपमानोपमेयनिषेधार्थम्
 
 ।
@@ -2985,8 +2585,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रकाराः
 
 ।
-
-
 
 भेदप्राधान्यं
 
@@ -3001,8 +2599,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 द्वयोस्तुल्यत्वं
-
-
 
 यथास्याम्
 
@@ -3024,8 +2620,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सदृशतायाः"
 
-
-
 इति
 
 उपमैवानेकप्रकार-
@@ -3038,8 +2632,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अस्याश्च
 
 पूर्णालुप्तात्वभेदाच्चिरन्तनैर्बहुविधत्वमुक्तम्
@@ -3050,8 +2642,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साधारणधर्मस्य
 
-
-
 क्वचिदनुगामितयैकरूप्येण
 
 निर्देशः
@@ -3061,8 +2651,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 क्वचिद्वस्तुप्रतिवस्तुभावेन
 
 पृथङ्निर्देशः
-
-
 
 पृथङ्निर्देशे
 
@@ -3078,15 +2666,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वा
 
-
-
 दृष्टान्तवत्
 
 ।
 
 क्रमेणोदाहरणम् -
-
-
 
 उदा. -
 
@@ -3101,8 +2685,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मार्गः
 
 ।
-
-
 
 संस्कारवत्येव
 
@@ -3122,8 +2704,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 13)
 
-
-
 उदा. -
 
 यान्त्या
@@ -3135,8 +2715,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वहन्त्या
 
 ।
-
-
 
 दिग्धोऽमृतेन
 
@@ -3164,8 +2742,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 14)
 
-
-
 उदा. -
 
 पाण्ड्योऽयमंसार्पितलम्बहारः
@@ -3175,8 +2751,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हरिचन्दनेन
 
 ।
-
-
 
 आभाति
 
@@ -3189,8 +2763,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 15)
-
-
 
 पीयूषकवेः
 
@@ -3208,8 +2780,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उदा. -
 
 हृदये
@@ -3220,8 +2790,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 11)
 
-
-
 चमत्कारिसाम्यमुपमा,
 
 सा
@@ -3231,8 +2799,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 इति
 
 प्रथमवाग्भटे
-
-
 
 (
 
@@ -3256,8 +2822,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 विश्वनाथः
 
-
-
 (
 
 साद. 10.14)
@@ -3273,8 +2837,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 च
 
 वैधम्र्यस्याप्युक्तिः,
-
-
 
 उपमेयोपमायां
 
@@ -3292,15 +2854,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इति
 
-
-
 तत्रैव
 
 वृत्तौ
 
 ।
-
-
 
 षड्विधां
 
@@ -3318,8 +2876,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तत्र
 
-
-
 धर्मलुप्तायाः
 
 पञ्च,
@@ -3333,8 +2889,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अपि
 
 द्वौ,
-
-
 
 धर्मोपमानलुप्ताया
 
@@ -3351,8 +2905,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 एकः,
 
 तथैव
-
-
 
 धर्मोपमेयलुप्तायाः,
 
@@ -3374,8 +2926,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विश्वनाथमतेन
 
 उपमाया
@@ -3392,8 +2942,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 \(1\)
 
 तद्धितगा
@@ -3407,8 +2955,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मुखस्य
 
 ।"
-
-
 
 \(2\)
 
@@ -3425,8 +2971,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पीनौ
 
 ।"
-
-
 
 \(3\)
 
@@ -3450,8 +2994,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 \(4\)
 
 तद्धितगा
@@ -3466,8 +3008,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 \(5\)
 
 समासगा
@@ -3481,8 +3021,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पाणिः
 
 ।"
-
-
 
 \(6\)
 
@@ -3506,8 +3044,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 (
 
 साद. 10.16
@@ -3515,8 +3051,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वृत्तौ)
 
 ।
-
-
 
 केशवमिश्रस्तु
 
@@ -3538,8 +3072,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वाक्यार्थोपमा,
 
-
-
 सातिशयोपमा,
 
 श्लेषोपमा,
@@ -3553,8 +3085,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 संशयोपमा,
 
 नियमोपमा,
-
-
 
 स्वोपमा,
 
@@ -3572,8 +3102,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सा
 
-
-
 वाक्यार्थोपमा,
 
 सा
@@ -3590,15 +3118,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपमानस्यैवोपमेयतायां
 
 विपर्ययोपमा,
 
 यथा -
-
-
 
 अथ
 
@@ -3612,8 +3136,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सहचरमधुहस्तन्यस्तचूताङ्कुरास्त्रः
 
 शतमखमुपतस्थे
@@ -3623,8 +3145,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पुष्पधन्वा
 
 ॥
-
-
 
 (
 
@@ -3644,8 +3164,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उपमेयभूताया
 
-
-
 उपमानत्वात्,
 
 मदनधनुष
@@ -3658,8 +3176,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यत्रेतरव्यावृत्त्या
 
 साम्यलाभस्तत्र
@@ -3667,8 +3183,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नियमोपमा
 
 ।
-
-
 
 यथा -
 
@@ -3681,8 +3195,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भविष्यति
 
 ।
-
-
 
 ऋते
 
@@ -3698,8 +3210,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.31)
 
-
-
 स्वोपमा
 
 तु
@@ -3710,8 +3220,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपमेयस्य
 
 उपमानविकारतयोक्तौ
@@ -3719,8 +3227,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विक्रियोपमा,
 
 यथा -
-
-
 
 हरिणादथ
 
@@ -3731,8 +3237,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पद्मपत्राच्च
 
 ।
-
-
 
 आहृत्य
 
@@ -3749,8 +3253,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अशे.
 
 पृ.31)
-
-
 
 अत्र
 
@@ -3771,8 +3273,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 उदाजहार
 
 ।
-
-
 
 2\.
 
@@ -3796,8 +3296,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 एनामुपमा
 
-
-
 प्रपञ्चे
 
 आविर्भावयति
@@ -3814,8 +3312,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तद्यथा -
 
-
-
 यथोध्र्वमुपमेयस्य
 
 यदि
@@ -3825,8 +3321,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 साद. 10.25)
-
-
 
 उदा. -
 
@@ -3843,8 +3337,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कान्ता
 
 ।
-
-
 
 कान्तायते
 
@@ -3864,8 +3356,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 3\.
 
 मालोपमा -
@@ -3883,8 +3373,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पृथग्लक्षिता
 
 ।
-
-
 
 मालोपमा
 
@@ -3906,8 +3394,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उदा. -
 
 वारिजेनेव
@@ -3919,8 +3405,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निशीथिनी
 
 ।
-
-
 
 यौवनेनेव
 
@@ -3935,8 +3419,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 4\.
 
@@ -3960,8 +3442,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यथा -"
 
 मुखं
@@ -3979,8 +3459,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 फलम्
 
 ।
-
-
 
 उदा. -
 
@@ -4002,15 +3480,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥"
 
-
-
 रुय्यकमतेन - "
 
 एकस्यैवोपमानोपमेयत्वेऽनन्वयः" (
 
 अस. 12)
-
-
 
 उदा. -
 
@@ -4032,8 +3506,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 न्यग्रोधवर्तिनमथाधिपतिं
 
 कुरूणामुत्प्रासनार्थमिव
@@ -4043,8 +3515,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 16)
-
-
 
 जयदेवकृतं
 
@@ -4058,8 +3528,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उदा. -
 
 इन्दुरिन्दुरिव
@@ -4067,8 +3535,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 चन्द्रा. 5.12)
-
-
 
 5\.
 
@@ -4088,8 +3554,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रः
 
-
-
 मुखमिव"
 
 ।
@@ -4106,8 +3570,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 13)
 
-
-
 इयं
 
 च
@@ -4123,8 +3585,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 द्विधा
 
 ।
-
-
 
 आद्ये
 
@@ -4150,8 +3610,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कुमुदाकारास्तारास्ताराकाराणि
 
 कुमुदानि
@@ -4159,8 +3617,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 17)
-
-
 
 द्वितीये
 
@@ -4171,8 +3627,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सच्छायवदनाम्बुजा
 
 ।
-
-
 
 वाप्योऽङ्गना
 
@@ -4188,8 +3642,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 18)
 
-
-
 जयदेवोऽत्र "
 
 पर्यायेण
@@ -4204,8 +3656,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इति
 
-
-
 लक्षणं
 
 विधाय
@@ -4213,8 +3663,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रुय्यकमेवानुकरोति
 
 ।
-
-
 
 तदुदाहरणं
 
@@ -4236,13 +3684,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 1.13)
 
-
-
 भामहेनेयमिदम्प्रथमतयोल्लिखिता
 
 ।
-
-
 
 धर्मसूरेर्लक्षणम् -
 
@@ -4255,8 +3699,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चेदुपमानोपमेयते
 
 ।
-
-
 
 वाक्यद्वयेनोपमेयोपमा
 
@@ -4271,8 +3713,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सार.
 
 पृ.573)
-
-
 
 धर्मस्य
 
@@ -4292,8 +3732,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पण्डितराजस्तु
 
 उक्तधर्मा
@@ -4310,8 +3748,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 6\.
 
 उत्प्रेक्षा -
@@ -4324,15 +3760,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अतद्गुणक्रियायोगादुत्प्रेक्षातिशयान्विता
 
 ॥ (
 
 कालभा. 2.91)
-
-
 
 दण्डिनः
 
@@ -4350,8 +3782,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्यथोत्प्रेक्षते
 
 यत्र
@@ -4364,8 +3794,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.221)
 
-
-
 एतदनुसारेण
 
 चेतनोत्प्रेक्षाऽचेतनोत्प्रेक्षा
@@ -4375,8 +3803,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 द्विधेयम्
 
 ।
-
-
 
 \(1\)
 
@@ -4392,8 +3818,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मन्ये
 
 मात्र्तण्डगृह्याणि
@@ -4403,8 +3827,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.222)
-
-
 
 स्नातुं
 
@@ -4418,8 +3840,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तद्वैरनिष्क्रयायेति
 
 कविनोत्प्रेक्ष्य
@@ -4429,8 +3849,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.223)
-
-
 
 \(2\)
 
@@ -4446,8 +3864,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इति
 
 कर्णोत्पलं
@@ -4462,15 +3878,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.224)
 
-
-
 अपाङ्गभागपातिन्या
 
 दृष्टेरंशुभिरुत्पलम्
 
 ।
-
-
 
 स्पृश्यते
 
@@ -4488,8 +3900,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.225)
 
-
-
 रुद्रटमतेन -
 
 अतिसारूप्यादैक्यं
@@ -4499,8 +3909,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सिद्धोपमानसद्भावम्
 
 ।
-
-
 
 आरोप्यते
 
@@ -4514,8 +3922,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.32)
 
-
-
 चम्पकतरुशिखरमिदं
 
 कुसुमसमूहच्छलेन
@@ -4523,8 +3929,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मदनशिखी
 
 ।
-
-
 
 अयमुच्चैरारूढः
 
@@ -4536,8 +3940,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.33)
 
-
-
 सान्येत्युपमेयगतं
 
 यस्यां
@@ -4545,8 +3947,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 संभाव्यतेऽन्यदुपमेयम्
 
 ।
-
-
 
 उपमानप्रतिबद्धापरोपमानस्य
 
@@ -4556,13 +3956,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.34)
 
-
-
 आपाण्डुगण्डपालीविरचितमृगनाभिपत्ररूपेण
 
 ।
-
-
 
 शशिशङ्कयेव
 
@@ -4577,8 +3973,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.35)
-
-
 
 रुद्रटमतेन
 
@@ -4598,8 +3992,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 वस्त्वन्तरमुपपत्त्या
 
 सम्भाव्यं
@@ -4609,8 +4001,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.36)
-
-
 
 उदा. -
 
@@ -4626,8 +4016,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उदयतटान्तरितस्य
 
 प्रथयत्यासनतां
@@ -4637,8 +4025,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.37)
-
-
 
 रुद्रटेन
 
@@ -4652,8 +4038,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 यत्रातितथाभूते
 
 संभाव्येत
@@ -4661,8 +4045,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 क्रियाद्यसंभाव्यम्
 
 ।
-
-
 
 संभूतमतद्वति
 
@@ -4676,8 +4058,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.11)
 
-
-
 घनसमयसलिलधौते
 
 नभसि
@@ -4687,8 +4067,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विसर्पन्ती
 
 ।
-
-
 
 अतिसान्द्रतयेह
 
@@ -4700,8 +4078,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.12)
 
-
-
 पल्लवितं
 
 चन्द्रकरैरखिलं
@@ -4709,8 +4085,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नीलाश्मकुट्टिमोर्वीषु
 
 ।
-
-
 
 ताराप्रतिमाभिरिदं
 
@@ -4721,8 +4095,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.13)
-
-
 
 अन्यनिमित्तवशाद्यद्यथा
 
@@ -4736,8 +4108,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 हेत्वन्तरमतदीयं
 
 यत्रारोप्येत
@@ -4748,8 +4118,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.14)
 
-
-
 सरसि
 
 समुल्लसदम्भसि
@@ -4757,8 +4125,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कादम्बवियोगदूयमानेव
 
 ।
-
-
 
 नलिनी
 
@@ -4773,8 +4139,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.15)
-
-
 
 संभावना -
 
@@ -4791,8 +4155,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अध्यवसायः)
 
 उत्प्रेक्षाया
-
-
 
 मुख्यं
 
@@ -4818,8 +4180,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 एव
 
-
-
 इति
 
 मन्ये"-
@@ -4844,8 +4204,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वाचकः)
 
-
-
 सम्भावनमथोत्प्रेक्षा
 
 प्रकृतस्य
@@ -4860,13 +4218,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 137)
 
-
-
 मम्मटमतेन
 
 भेदाः -
-
-
 
 हेतूत्प्रेक्षा - "
 
@@ -4884,8 +4238,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 निशायाम्
 
-
-
 इन्दोरिन्दीवरदलदृशा
 
 तस्य
@@ -4893,8 +4245,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सौन्दर्यदर्पः
 
 ।
-
-
 
 नीतः
 
@@ -4907,8 +4257,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वक्त्रकान्त्येति
 
 हर्षाल्-
-
-
 
 लग्ना
 
@@ -4932,8 +4280,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कविकल्पितं -
 
-
-
 क्रियोत्प्रेक्षा - "
 
 लिम्पतीव
@@ -4945,8 +4291,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नभः
 
 ।
-
-
 
 असत्पुरुषसेवेव
 
@@ -4960,10 +4304,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 417)
 
-
-
-
-
 फलोत्प्रेक्षा - "
 
 जटिलः
@@ -4975,8 +4315,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यथा"
 
 ।
-
-
 
 सा
 
@@ -5004,8 +4342,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 च,
 
-
-
 ते
 
 च
@@ -5019,8 +4355,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सनिमित्त,
 
 अनिमित्ताभ्यां,
-
-
 
 पुनः
 
@@ -5040,15 +4374,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ठ्ठ.
 
 अनुपात्तनिमित्तजात्यभावस्वरूपोत्प्रेक्षा - (
 
 अर्केन्दुशून्याभावात्)
-
-
 
 "
 
@@ -5061,8 +4391,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 शून्यवत्
 
 ।"
-
-
 
 ड.
 
@@ -5079,8 +4407,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पवित्रितम्"
 
 ।
-
-
 
 ड़.
 
@@ -5104,8 +4430,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कोशाय)
 
-
-
 ड्ड.
 
 गुणस्वरूपोत्प्रेक्षा - "
@@ -5124,8 +4448,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इति
 
-
-
 नूनं
 
 अवैमि"
@@ -5137,8 +4459,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गुणः
 
 उत्प्रेक्षितः)
-
-
 
 ड्ढ.
 
@@ -5160,8 +4480,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 स्वत
 
-
-
 एव
 
 नूनं
@@ -5169,8 +4487,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अमुचत्"
 
 ।
-
-
 
 ढ.
 
@@ -5190,8 +4506,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ढ़.
 
 क्रियास्वरूपोत्प्रेक्षा - "
@@ -5205,8 +4519,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ध्रुवम्"
 
 ।
-
-
 
 ण्.
 
@@ -5223,8 +4535,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नूनं
 
 तरलः
-
-
 
 संजातः"
 
@@ -5248,13 +4558,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अतः
 
-
-
 जीवहेतुभूता"
 
 ।
-
-
 
 त्.
 
@@ -5265,8 +4571,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नीरन्ध्र
 
 निकुञ्जान्निविश्य
-
-
 
 लताङ्गनालिंगनलालसाः
 
@@ -5282,8 +4586,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 (
 
 आलिंगन
@@ -5293,8 +4595,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 फलत्वं)
 
 ।
-
-
 
 त्र्.
 
@@ -5310,8 +4610,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 त्त्.
 
 द्रव्यहेतूत्प्रेक्षा - "
@@ -5326,8 +4624,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 न
 
-
-
 गराणि
 
 विमुञ्चन्ति
@@ -5339,8 +4635,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 श्लेषोत्थापिता
 
 उत्प्रेक्षा)
-
-
 
 थ्.
 
@@ -5362,8 +4656,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सदाचारं
 
-
-
 त्यजन्ति
 
 षडिन्द्रिय
@@ -5371,8 +4663,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वैफल्यात्)
 
 ।
-
-
 
 विश्वनाथस्तु
 
@@ -5387,8 +4677,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रथमं
 
 वाच्या
-
-
 
 प्रतीयमानेति
 
@@ -5414,8 +4702,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 प्रत्येकं
 
-
-
 द्विधेति
 
 अष्टौ
@@ -5434,8 +4720,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 गुणक्रियास्वरूपत्वात्
 
-
-
 प्रत्येकं
 
 चतुर्विधा
@@ -5445,8 +4729,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 द्वातिं्रशद्भेदाः
 
 ।
-
-
 
 रुय्यकमतेन -
 
@@ -5466,8 +4748,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 भेदाः -
 
-
-
 जात्युत्प्रेक्षा -
 
 स
@@ -5475,8 +4755,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वः
 
 पायादिन्दुर्नवबिसलताकोटिकुटिलः
-
-
 
 स्मरारेर्यो
 
@@ -5492,15 +4770,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 स्रवन्मन्दाकिन्याः
 
 प्रतिदिवससिक्तेन
 
 पयसा
-
-
 
 कपालेनोन्मुक्तः
 
@@ -5511,8 +4785,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 48)
-
-
 
 क्रियोत्प्रेक्षा -
 
@@ -5527,8 +4799,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 अस. 49)
-
-
 
 गुणोत्प्रेक्षा -
 
@@ -5550,8 +4820,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अदृश्यत
 
 त्वच्चरणारविन्दविश्लेषदुःखादिव
@@ -5561,8 +4829,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 50)
-
-
 
 द्रव्योत्प्रेक्षा -
 
@@ -5575,8 +4841,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मृगलाञ्छनेन
 
 ।
-
-
 
 इहाङ्गनाभिः
 
@@ -5592,8 +4856,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 51)
 
-
-
 एतानि
 
 भावाभिमाने
@@ -5606,8 +4868,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 कपोलफलकावस्याः
 
 कष्टं
@@ -5618,8 +4878,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अपश्यन्ताविवान्योन्यमीदृक्षां
 
 क्षामतां
@@ -5629,8 +4887,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 52)
-
-
 
 गुणस्य
 
@@ -5645,8 +4901,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अस.
 
 पृ.90)
-
-
 
 क्रियायाः
 
@@ -5666,15 +4920,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.91)
 
-
-
 निमित्तोपादानस्यैते
 
 उदाहरणे
 
 ।
-
-
 
 अनुपादाने - "
 
@@ -5690,8 +4940,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.91)
 
-
-
 हेतूत्प्रेक्षा - "
 
 विश्लेषदुःखादिव
@@ -5705,8 +4953,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अस.
 
 पृ.91)
-
-
 
 स्वरूपोत्प्रेक्षा -
 
@@ -5724,8 +4970,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 दिग्दक्षिणा
 
 गन्धवहं
@@ -5735,8 +4979,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 व्यलीकनिःश्वासमिवोत्ससर्ज॥ (
 
 अस. 53)
-
-
 
 फलोत्प्रेक्षा -
 
@@ -5752,8 +4994,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अद्यापि
 
 किं
@@ -5765,8 +5005,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 54)
-
-
 
 प्रतीयमानोत्प्रेक्षा -
 
@@ -5784,8 +5022,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अनुदिनमनन्यकर्मा
 
 अङ्गं
@@ -5797,8 +5033,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 55)
-
-
 
 श्लिष्टशब्दहेतुर्यथा -
 
@@ -5814,8 +5048,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अभूदहंपूर्विकया
 
 गतानामतीव
@@ -5828,8 +5060,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 56)
 
-
-
 उपमोपक्रमोत्प्रेक्षा -
 
 कस्तूरीतिलकन्ति
@@ -5840,8 +5070,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 मुखाम्भोरुहे
 
-
-
 रोलम्बन्ति
 
 तमालबालमुकुलोत्तंसन्ति
@@ -5849,8 +5077,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मौलावपि
 
 ।
-
-
 
 याः
 
@@ -5863,8 +5089,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 च
 
 कालागुरु-
-
-
 
 स्थासन्ति
 
@@ -5880,8 +5104,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 57)
 
-
-
 सापह्नवोत्प्रेक्षा -
 
 गतासु
@@ -5896,8 +5118,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यत्रोल्लसत्फेनततिच्छलेन
 
 मुक्ताट्टहासेव
@@ -5910,8 +5130,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 58)
 
-
-
 जयदेवस्य -
 
 उत्प्रेक्षोन्नीयते
@@ -5923,8 +5141,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विना
 
 ।
-
-
 
 उदा. -
 
@@ -5939,8 +5155,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.29)
-
-
 
 अत्यन्तसादृश्यादसतोऽपि
 
@@ -5960,8 +5174,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 7\.
 
 ससन्देहः -
@@ -5978,8 +5190,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ससन्देहं
 
 वचःस्तुत्यै
@@ -5992,8 +5202,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 3.43)
 
-
-
 वस्तुनि
 
 यत्रैकस्मिन्ननेकविषयस्तु
@@ -6003,8 +5211,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 संदेहः
 
 ।
-
-
 
 प्रतिपत्तुः
 
@@ -6019,8 +5225,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.59)
-
-
 
 किमिदं
 
@@ -6038,8 +5242,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इति
 
 संशेते
@@ -6054,8 +5256,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.60)
 
-
-
 उपमेये
 
 सदसंभवि
@@ -6068,8 +5268,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यत्र
 
 स
@@ -6081,8 +5279,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.61)
-
-
 
 एतÏ
 
@@ -6102,8 +5298,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.62)
 
-
-
 किं
 
 पुनरिदं
@@ -6113,8 +5307,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सौधतलालक्ष्यसकलदेहायाः
 
 ।
-
-
 
 वदनमिदं
 
@@ -6131,8 +5323,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.63)
-
-
 
 किमयं
 
@@ -6154,8 +5344,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इति
 
 संशय्य
@@ -6172,15 +5360,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.64)
 
-
-
 यत्रानेकत्रार्थे
 
 संदेहस्त्वेककारकत्वगतः
 
 ।
-
-
 
 स्यादेकत्वगतो
 
@@ -6193,8 +5377,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.65)
-
-
 
 गमनमधीतं
 
@@ -6209,8 +5391,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हंसेभ्यः
 
 ।
-
-
 
 किं
 
@@ -6232,8 +5412,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.66)
 
-
-
 \- (
 
 स्थाणुर्वा
@@ -6241,8 +5419,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पुरुषो
 
 वा)
-
-
 
 भेदोक्तौ -
 
@@ -6255,8 +5431,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चन्द्रो
 
 वा"
-
-
 
 निश्चयगर्भः - "
 
@@ -6271,8 +5445,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गगने
 
 प्रकाशते"
-
-
 
 निश्चयान्तः - "
 
@@ -6296,8 +5468,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 भेदानुक्तौ - "
 
 किं
@@ -6311,8 +5481,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रकाशते ?"
 
 ।
-
-
 
 "
 
@@ -6336,8 +5504,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 420)
 
-
-
 ससन्देहस्तु
 
 भैदोक्तौ
@@ -6354,8 +5520,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 138)
 
-
-
 विषयस्य
 
 सन्दिहमानत्वे
@@ -6365,8 +5529,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 अस. 17)
-
-
 
 तदत्र
 
@@ -6380,8 +5542,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 निश्चयान्तश्चेति
 
-
-
 केवलं
 
 भेदत्रयं
@@ -6389,8 +5549,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्वीकुरुते
 
 ।
-
-
 
 शुद्धो
 
@@ -6406,8 +5564,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वल्लरी
 
-
-
 लीलाप्रोच्छलितस्य
 
 किं
@@ -6418,13 +5574,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उद्गाढोत्कलिकावतां
 
 स्वसमयोपन्यासविस्रम्भिणः
-
-
 
 किं
 
@@ -6437,8 +5589,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 34)
-
-
 
 निश्चयगयर्भः -
 
@@ -6456,8 +5606,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सप्तभिरितः
 
-
-
 कृशानुः
 
 किं
@@ -6472,8 +5620,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कृतान्तः
 
 किं
@@ -6481,8 +5627,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 साक्षान्महिषवहनोऽसाविति
 
 पुरः
-
-
 
 समालोक्याजौ
 
@@ -6495,8 +5639,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 35)
-
-
 
 निश्चयान्तः -
 
@@ -6516,8 +5658,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ललितसविलासवचनैर्मुखमिति
 
 हरिणाक्षि
@@ -6530,8 +5670,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 36)
 
-
-
 क्वचिदारोप्यमाणानां
 
 भिन्नाश्रयत्वे
@@ -6539,8 +5677,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दृश्यते
 
 यथा -
-
-
 
 रञ्जिता
 
@@ -6560,8 +5696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पूरिता
 
 नु
@@ -6580,8 +5714,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 37)
 
-
-
 सन्देहविचिकित्सायां
 
 सन्देहोऽलङ्कार
@@ -6593,8 +5725,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.31)
-
-
 
 उदा. -
 
@@ -6614,8 +5744,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.32)
 
-
-
 विश्वनाथस्त्वत्र
 
 सन्देहः
@@ -6628,8 +5756,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.35)
 
-
-
 भेदत्रयं
 
 चास्यासौ
@@ -6637,8 +5763,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्वीकरोति
 
 ।
-
-
 
 8\.
 
@@ -6655,8 +5779,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वा
 
 सादृश्याधारेण
-
-
 
 प्रकृते
 
@@ -6678,8 +5800,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 स्वविकल्पेन
 
 रचितं
@@ -6687,8 +5807,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तुल्यावयवलक्षणम्
 
 ।
-
-
 
 किञ्चित्सादृश्यसम्पन्नं
 
@@ -6704,8 +5822,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नाशा. 16.56)
 
-
-
 तत्त्वनिरूपणमिति
 
 भामहः
@@ -6718,8 +5834,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 उपमानेन
 
 यतत्त्वमुपमेयस्य
@@ -6727,8 +5841,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रूप्यते
 
 ।
-
-
 
 गुणानां
 
@@ -6746,8 +5858,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 2.21)
 
-
-
 दण्डिनो
 
 यथा -
@@ -6759,8 +5869,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रूपकमुच्यते
 
 ।
-
-
 
 यथा
 
@@ -6774,8 +5882,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.66)
 
-
-
 असमस्तरूपकम् -
 
 अङ्गुल्यः
@@ -6787,8 +5893,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नखत्विषः
 
 ।
-
-
 
 बाहू
 
@@ -6804,8 +5908,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.67)
 
-
-
 समस्तव्यस्तरूपकम् -
 
 स्मितं
@@ -6818,8 +5920,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.68)
 
-
-
 सकलरूपकम् -
 
 ताम्राङ्गुलिदलश्रेणि
@@ -6827,8 +5927,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नखदीधितिकेसरम्
 
 ।
-
-
 
 ध्रियते
 
@@ -6842,8 +5940,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.69)
 
-
-
 अवयवरूपकम् -
 
 अकस्मादेव
@@ -6855,8 +5951,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्फुरिताधरपल्लवम्
 
 ।
-
-
 
 मुखं
 
@@ -6870,8 +5964,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.71)
 
-
-
 अवयविरूपकम् -
 
 वल्गितभ्रु
@@ -6879,8 +5971,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गलद्घर्मजलमालोहितेक्षणम्
 
 ।
-
-
 
 विवृणोति
 
@@ -6892,8 +5982,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.73)
 
-
-
 एकाङ्गरूपकम् -
 
 मदपाटलगण्डेन
@@ -6903,8 +5991,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ते
 
 ।
-
-
 
 मुखेन
 
@@ -6922,8 +6008,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.75)
 
-
-
 युक्तरूपकम् -
 
 स्मितपुष्पोज्ज्वलं
@@ -6933,8 +6017,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मुखम्
 
 ।
-
-
 
 इति
 
@@ -6948,8 +6030,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.77)
 
-
-
 अयुक्तरूपकम् -
 
 इदमाद्र्रस्मितज्योत्स्नं
@@ -6959,8 +6039,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मुखम्
 
 ।
-
-
 
 इति
 
@@ -6974,8 +6052,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.78)
 
-
-
 विषमरूपकम् -
 
 रूपणादङ्गिनोऽङ्गानां
@@ -6983,8 +6059,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रूपणारूपणाश्रयात्
 
 ।
-
-
 
 रूपकं
 
@@ -7002,8 +6076,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.79)
 
-
-
 उदा. -
 
 मदरक्तकपोलेन
@@ -7011,8 +6083,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मन्मथस्त्वन्मुखेन्दुना
 
 ।
-
-
 
 नर्त्तितभ्रूलतेनालं
 
@@ -7024,8 +6094,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.80)
 
-
-
 सविशेषणरूपकम् -
 
 हरिपादः
@@ -7034,15 +6102,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जयत्यसुरनिःशङ्कसुरानन्दोत्सवध्वजः
 
 ॥ (
 
 काद. 2.81)
-
-
 
 विशेषणसमग्रस्य
 
@@ -7052,8 +6116,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पादे
 
 तदर्पणादेतत्सविशेषणरूपकम्
@@ -7061,8 +6123,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.82)
-
-
 
 विरुद्धरूपकम् -
 
@@ -7078,8 +6138,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 त्वन्मुखेन्दुर्ममासूनां
 
 हरणायैव
@@ -7090,8 +6148,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.83)
 
-
-
 अक्रियाचन्द्रकार्याणामन्यकार्यस्य
 
 च
@@ -7099,8 +6155,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 क्रिया
 
 ।
-
-
 
 अत्र
 
@@ -7116,8 +6170,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.84)
 
-
-
 हेतुरूपकम् -
 
 गाम्भीर्येण
@@ -7129,8 +6181,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पर्वतः
 
 ।
-
-
 
 कामदत्वाच्च
 
@@ -7144,8 +6194,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.85)
 
-
-
 गाम्भीर्यप्रमुखैरत्र
 
 हेतुभिः
@@ -7155,8 +6203,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गिरिः
 
 ।
-
-
 
 कल्पद्रुमश्च
 
@@ -7170,8 +6216,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.86)
 
-
-
 श्लिष्टरूपकम् -
 
 राजहंसोपभोगार्हं
@@ -7179,8 +6223,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भ्रमरप्राथ्र्यसौरभम्
 
 ।
-
-
 
 सखि
 
@@ -7194,8 +6236,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.87)
 
-
-
 उपमारूपकं
 
 व्यतिरेकरूपकञ्च -
@@ -7206,8 +6246,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपमाव्यतिरेकाख्यं
 
 रूपकद्वितयं
@@ -7217,8 +6255,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.88)
-
-
 
 यथाक्रममेतयोरुदाहरणं
 
@@ -7232,8 +6268,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सन्नद्धोदयरागस्य
 
 चन्द्रस्य
@@ -7243,8 +6277,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.89)
-
-
 
 चन्द्रमाः
 
@@ -7256,8 +6288,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 असमग्रोऽप्यसौ
 
 शश्वदयमापूर्णमण्डलः
@@ -7265,8 +6295,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.90)
-
-
 
 समाधानरूपकम् -
 
@@ -7284,8 +6312,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 भाग्यदोषान्ममैवेति
 
 तत्समाधानरूपकम्
@@ -7293,8 +6319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.92)
-
-
 
 रूपकरूपकम् -
 
@@ -7305,8 +6329,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तव
 
 ।
-
-
 
 लीलानृत्यं
 
@@ -7319,8 +6341,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.93)
-
-
 
 अपह्नवरूपकम् -
 
@@ -7336,8 +6356,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एतानि
 
 केसराण्येव
@@ -7349,8 +6367,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 काद. 2.94)
-
-
 
 तत्त्वारोप
 
@@ -7369,8 +6385,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 उपमानोपमेययोरभेद
 
 इति
-
-
 
 दण्डि-
 
@@ -7392,8 +6406,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 हेम-
 
-
-
 जयदेव-
 
 विश्वनाथादयः
@@ -7411,8 +6423,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 परन्तु
 
 आरोप्यमाणस्य
-
-
 
 उपमानस्यापेक्षया
 
@@ -7432,8 +6442,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 स्यात्,
 
-
-
 तर्हि
 
 अधिकारूढवैशिष्ट्यं
@@ -7447,8 +6455,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 असावभिप्रैति
 
 ।
-
-
 
 धर्मसूरिस्तु -
 
@@ -7464,8 +6470,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.528)
 
-
-
 रुद्रटमतेन -
 
 यत्र
@@ -7477,8 +6481,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सत्युपमानोपमेययोरभिदा
 
 ।
-
-
 
 अविविक्षितसामान्या
 
@@ -7494,8 +6496,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.38)
 
-
-
 साक्षादेव
 
 भवान्विष्णुर्भार्या
@@ -7507,8 +6507,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ते
 
 ।
-
-
 
 नान्यभद्भूतसृजा
 
@@ -7522,8 +6520,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.39)
 
-
-
 उपसर्जनोपमेयं
 
 कृत्वा
@@ -7531,8 +6527,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 समासमेतयोरुभयोः
 
 ।
-
-
 
 यत्तु
 
@@ -7543,8 +6537,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.40)
-
-
 
 सावयवं
 
@@ -7560,8 +6552,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 द्वयमपि
 
 पुनर्द्विधैतत्समस्तविषयैकदेशितया
@@ -7570,8 +6560,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.41)
 
-
-
 उभयस्यावयवानामन्योन्यं
 
 तद्वदेव
@@ -7579,8 +6567,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यत्क्रियते
 
 ।
-
-
 
 तत्सावयवं
 
@@ -7593,8 +6579,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.42)
-
-
 
 उदा. -
 
@@ -7610,8 +6594,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अधरैर्दलैश्च
 
 तासां
@@ -7624,15 +6606,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.43)
 
-
-
 विकसितताराकुमुदे
 
 गगनसरस्यमलचन्द्रिकासलिले
 
 ।
-
-
 
 विलसति
 
@@ -7646,8 +6624,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.44)
 
-
-
 अलिकुलकुन्तलभाराः
 
 सरसिजवदनाश्च
@@ -7655,8 +6631,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चक्रवाककुचाः
 
 ।
-
-
 
 राजन्ति
 
@@ -7669,8 +6643,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.45)
-
-
 
 निरवयवलक्षणम् -
 
@@ -7685,8 +6657,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निरवयवम्
 
 ।
-
-
 
 भवति
 
@@ -7704,8 +6674,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.46)
 
-
-
 शुद्धमिदं
 
 सा
@@ -7718,8 +6686,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यस्मिन्नुपमानाभ्यां
 
 समस्यमुपमेयमन्यार्थे
@@ -7728,8 +6694,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.47)
 
-
-
 उदा. -
 
 कः
@@ -7737,8 +6701,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पूरयेदशेषान्कामानुपशमितसकलसंतापः
 
 ।
-
-
 
 अखिलार्थिनां
 
@@ -7758,15 +6720,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.48)
 
-
-
 कुसुमायुधपरमास्त्रं
 
 लावण्यमहोदधिर्गुणनिधानम्
 
 ।
-
-
 
 आनन्दमन्दिरमहो
 
@@ -7784,8 +6742,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.49)
 
-
-
 किसलयकरैर्लतानां
 
 करकमलैः
@@ -7795,8 +6751,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 जगज्जयति
 
 ।
-
-
 
 नलिनीनां
 
@@ -7808,15 +6762,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.50)
 
-
-
 स्मरशबरचापयष्टिर्जयति
 
 जनानन्दजलधिशशिलेखा
 
 ।
-
-
 
 लावण्यसलिलसिन्धुः
 
@@ -7826,8 +6776,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.51)
 
-
-
 इति
 
 यथाक्रमं
@@ -7835,8 +6783,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चतुर्णामुदाहरणानि
 
 ।
-
-
 
 उपमेयस्य
 
@@ -7850,8 +6796,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उभयेषां
 
 निरवयवैर्विज्ञेयं
@@ -7864,8 +6808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.52)
 
-
-
 लक्ष्मीस्त्वं
 
 मुखमिन्दुर्नयने
@@ -7877,8 +6819,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कमले
 
 ।
-
-
 
 केशाः
 
@@ -7894,8 +6834,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.53)
 
-
-
 सुतनु
 
 सरो
@@ -7907,8 +6845,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मदनचापनिर्घोषः
 
 ।
-
-
 
 कुमुदवनं
 
@@ -7924,8 +6860,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.54)
 
-
-
 इन्द्रस्त्वं
 
 तव
@@ -7935,8 +6869,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 जयलक्ष्मीद्वारतोरणस्तम्भौ
 
 ।
-
-
 
 खङ्गः
 
@@ -7954,8 +6886,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.55)
 
-
-
 उक्तं
 
 समस्तविषयं
@@ -7963,8 +6893,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लक्षणमनयोस्तथैकदेशीदम्
 
 ।
-
-
 
 कमलाननैर्नलिन्यः
 
@@ -7978,8 +6906,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.56)
 
-
-
 अतिसाम्यादुपमेयं
 
 यस्यामसदेव
@@ -7989,8 +6915,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सदपि
 
 ।
-
-
 
 उपमानमेव
 
@@ -8006,8 +6930,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.57)
 
-
-
 नवबिसकिसलयकोमलसकलावयवा
 
 विलासिनी
@@ -8015,8 +6937,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सैषा
 
 ।
-
-
 
 आनन्दयति
 
@@ -8029,8 +6949,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.58)
-
-
 
 मम्मटमतेन -
 
@@ -8046,8 +6964,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 139)
 
-
-
 समस्तवस्तुविषयं
 
 श्रौता
@@ -8062,8 +6978,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 140)
 
-
-
 (
 
 आरोप्यमाणस्य
@@ -8076,15 +6990,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 भेदश्च)
 
-
-
 सावयवं (
 
 साङ्गं) -
 
 समस्तवस्तुविषयं -
-
-
 
 "
 
@@ -8096,15 +7006,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तारकास्थी-
 
-
-
 न्यन्तर्धानव्यसनरसिका
 
 रात्रिकापालिकीयम्
 
 ।
-
-
 
 द्वीपाद्द्वीपं
 
@@ -8113,8 +7019,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दधती
 
 चन्द्रमुद्राकपाले
-
-
 
 न्यस्तं
 
@@ -8129,8 +7033,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 421)
-
-
 
 श्रौता
 
@@ -8148,8 +7050,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 141)
 
-
-
 एकदेशवृत्ति - "
 
 जस्स
@@ -8163,8 +7063,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मण्डलग्गलअम्
 
 ।
-
-
 
 रससंमुही
 
@@ -8184,8 +7082,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 422)
 
-
-
 (
 
 राज्ञा
@@ -8199,8 +7095,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गृहीता)
 
 ।
-
-
 
 निरवयवं -
 
@@ -8218,8 +7112,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यत्
 
-
-
 सखीं
 
 कान्तोदन्तं
@@ -8234,8 +7126,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अनिद्रं
 
 यच्चान्तः
@@ -8245,8 +7135,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तदहो
 
 वेद्म्यभिनवां
-
-
 
 प्रवृत्तोऽस्याः
 
@@ -8264,8 +7152,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 423)
 
-
-
 मालारूपः - "
 
 सौन्दर्यस्य
@@ -8276,8 +7162,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 हर्षोद्गमः
 
-
-
 कान्तेः
 
 कार्मणकर्म
@@ -8286,15 +7170,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विद्या
 
 वक्रगिरां
 
 विधेरनवधिप्रावीण्यसाक्षात्क्रिया
-
-
 
 बाणाः
 
@@ -8314,8 +7194,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 424)
 
-
-
 परम्परितं -
 
 श्लिष्टः -
@@ -8327,8 +7205,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 जगत्त्रयः
 
 ।
-
-
 
 स्तूयते
 
@@ -8346,8 +7222,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 427)
 
-
-
 मालारूपः - "
 
 विद्वन्मानसहंस
@@ -8356,23 +7230,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 दीप्तद्युते
 
-
-
 दुर्गामार्गणनीललोहित
 
 समित्स्वीकारवैश्वानर
 
 ।
 
-
-
 सत्यप्रीतिविधानदक्ष
 
 विजयप्राग्भावभीम
 
 प्रभो
-
-
 
 साम्राज्यं
 
@@ -8390,15 +7258,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 425)
 
-
-
 अश्लिष्टः -
 
 केवलः - "
 
 चतुर्दशलोकवल्लिकन्दः"
-
-
 
 मालारूपः - "
 
@@ -8410,8 +7274,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सेतुर्विपद्वारिधेः
 
-
-
 पूर्वाद्रिः
 
 करवालचण्डमहसो
@@ -8422,13 +7284,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 समग्रामामृतसागरप्रमथनक्रीडाविधौ
 
 मन्दरो
-
-
 
 राजन्
 
@@ -8444,8 +7302,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 426)
 
-
-
 अभेदप्राधान्ये
 
 आरोपे
@@ -8458,8 +7314,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 15)
 
-
-
 अनेनाप्यष्टौ
 
 भेदाः
@@ -8468,15 +7322,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यत्रोपमानचित्रेण
 
 सर्वथाप्युपरज्यते
 
 ।
-
-
 
 उपमेयमयी
 
@@ -8488,8 +7338,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.18)
 
-
-
 जयदेवेन
 
 लक्षणकत्र्तृकं
@@ -8499,8 +7347,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रस्तुतम्
 
 ।
-
-
 
 केशवमिश्रस्तु
 
@@ -8516,8 +7362,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 रूपकरूपकम्,
 
-
-
 श्लिष्टं
 
 च
@@ -8531,8 +7375,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विरुद्धम्
 
 ।
-
-
 
 रूपकरूपकं
 
@@ -8548,8 +7390,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 नरीनर्ति
 
 लसत्स्वर्णकेतकीदललोचने
@@ -8559,8 +7399,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अशे.
 
 पृ.33)
-
-
 
 9\.
 
@@ -8574,8 +7412,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 भूतार्थापह्नवादस्याः
 
 क्रियते
@@ -8587,8 +7423,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 3.21)
-
-
 
 मम्मटमतेन -
 
@@ -8608,8 +7442,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 146)
 
-
-
 उपमेयं
 
 असत्यं
@@ -8621,8 +7453,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सत्याप्यते
 
 ।
-
-
 
 आरोप्यप्रकृतनिषेधः - "
 
@@ -8636,8 +7466,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 निषिध्यारोपः - "
 
 एतन्मुखं
@@ -8650,8 +7478,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 "
 
 अयं
@@ -8663,8 +7489,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कलङ्को
 
 न",
-
-
 
 "
 
@@ -8688,8 +7512,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अमुख्येयं
 
 मन्ये
@@ -8710,8 +7532,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 430)
 
-
-
 छलादिशब्दप्रयोगः (
 
 आर्थी) - "
@@ -8728,8 +7548,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 स्मरस्य
 
-
-
 प्रियविरहकृशेऽस्मिन्
 
 रागिलोके
@@ -8740,11 +7558,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपवनसहकारोद्भासिभृङ्गच्छलेन
-
-
 
 प्रतिविशिखमनेनोट्टङ्कितं
 
@@ -8756,15 +7570,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 431)
 
-
-
 विषयस्यापह्नवेऽपह्नुतिः
 
 ॥ (
 
 अस. 20)
-
-
 
 अस्य
 
@@ -8782,13 +7592,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 आरोपपूर्वकोऽपह्नवः,
 
-
-
 छलादिशब्दैरसत्यत्वप्रतिपादकैर्वापह्नवनिर्देशः
 
 ।
-
-
 
 आद्यो
 
@@ -8797,8 +7603,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यदेतच्चन्द्रोन्तर्जलदलवलीलां
 
 प्रकुरुते
-
-
 
 तदाचष्टे
 
@@ -8818,8 +7622,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अहं
 
 त्विन्दुं
@@ -8828,23 +7630,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 त्वदरिविरहक्लान्ततरुणी-
 
-
-
 कटाक्षोल्कापातव्रणकिणकलङ्काङ्किततनुम्
 
 ॥ (
 
 अस. 42)
 
-
-
 द्वितीयो
 
 यथा -
 
 विलसदमरनारीनेत्रनीलाब्जषण्डा-
-
-
 
 न्यधिवसति
 
@@ -8855,8 +7651,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 संयमाधःकृतानि
 
 ।
-
-
 
 न
 
@@ -8869,8 +7663,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यो
 
 मयूरे
-
-
 
 वितरतु
 
@@ -8886,8 +7678,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 44)
 
-
-
 तृतीयो
 
 यथा -
@@ -8896,13 +7686,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कुच-
 
-
-
 प्रेङ्खोलामलहारवल्लिविगलन्मुक्ताफलच्छद्मना
 
 ।
-
-
 
 सार्धं
 
@@ -8914,8 +7700,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 धावतां
 
-
-
 भ्रष्टं
 
 राजमृगाङ्ककुन्दमुकुलस्थूलैः
@@ -8925,8 +7709,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 45)
-
-
 
 जयदेवस्य
 
@@ -8939,8 +7721,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.24)
-
-
 
 उदा. -
 
@@ -8958,8 +7738,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.24)
 
-
-
 तदत्रायमलङ्कारस्यास्य
 
 भेदचतुष्टयं
@@ -8972,8 +7750,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 क्रमशस्तेषां
 
-
-
 सोदाहरणं
 
 लक्षणं
@@ -8981,8 +7757,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रतिपाद्यते
 
 ।
-
-
 
 \(1\)
 
@@ -8995,8 +7769,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निषिध्यते
 
 ।
-
-
 
 नायं
 
@@ -9014,8 +7786,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.25)
 
-
-
 \(2\)
 
 भ्रान्तापह्नुतिः -
@@ -9027,8 +7797,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तथ्यनिर्णये
 
 ।
-
-
 
 शरीरं
 
@@ -9048,8 +7816,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.26)
 
-
-
 \(3\)
 
 छेकापह्नुतिः -
@@ -9061,8 +7827,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तथ्यनिह्नवे
 
 ।
-
-
 
 प्रजल्पन्मत्पदे
 
@@ -9082,8 +7846,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.27)
 
-
-
 \(4\)
 
 कैतवापह्नुतिः -
@@ -9096,8 +7858,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 निर्यान्ति
 
 स्मरनाराचाः
@@ -9107,8 +7867,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.28)
-
-
 
 पद्येषु
 
@@ -9122,8 +7880,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विश्वनाथ
 
 स्तु
@@ -9136,8 +7892,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 लक्षयति -
 
-
-
 गोपनीयं
 
 कमप्यर्थं
@@ -9147,8 +7901,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कथञ्चन
 
 ।
-
-
 
 यदि
 
@@ -9161,8 +7913,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 साद. 10.38)
-
-
 
 श्लेषेण
 
@@ -9179,8 +7929,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्थातुम्
 
 ।
-
-
 
 उत्कण्ठितासि
 
@@ -9202,8 +7950,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 अश्लेषेण
 
 यथा -
@@ -9224,8 +7970,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 स्मरसि
 
 किं
@@ -9243,8 +7987,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 वक्रोक्तौ
 
@@ -9264,8 +8006,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 गोपनीयस्यापि
 
-
-
 प्रथममभिहितत्वाच्च
 
 व्याजोक्तेः
@@ -9280,8 +8020,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 10\.
 
 निश्चयः -
@@ -9289,8 +8027,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विश्वनाथेनायमलङ्कारोऽङ्गीकृतः
 
 ।
-
-
 
 अन्यन्निषिध्य
 
@@ -9303,8 +8039,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 साद. 10.39)
-
-
 
 अपह्नुतौ
 
@@ -9325,8 +8059,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अप्रकृतस्य
 
 निषेधः,
-
-
 
 प्रकृतस्यैव
 
@@ -9352,8 +8084,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इह
 
 सविधे
@@ -9374,8 +8104,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 नायं
 
 निश्चयान्तः
@@ -9385,8 +8113,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्र
 
 संशयनिश्चययोरेकाश्रयत्वेनावस्थानात्,
-
-
 
 न
 
@@ -9399,8 +8125,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कमलत्वेनानिर्धारणात्
 
 ।
-
-
 
 11\.
 
@@ -9424,8 +8148,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काव्यगुणेषु
 
-
-
 श्लेषनाम्नो
 
 गुणस्य
@@ -9444,8 +8166,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 गुणरूपेण
 
-
-
 अलङ्काररूपेणोभयथा
 
 विवृतः
@@ -9457,8 +8177,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 एनं
 
 केवलमर्थालङ्कारेष्वेव
-
-
 
 पठन्ति
 
@@ -9478,8 +8196,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 श्लेषं
 
-
-
 प्रतिपादयन्ति
 
 ।
@@ -9498,8 +8214,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्ये
 
 तु
@@ -9516,15 +8230,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उपमानेन
 
-
-
 यत्तत्त्वमुपमेयस्य
 
 साध्यते
 
 ।
-
-
 
 गुणक्रियाभ्यां
 
@@ -9540,8 +8250,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 3.14)
 
-
-
 यत्रैकमनेकार्थैर्वाक्यं
 
 रचितं
@@ -9549,8 +8257,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पदैरनेकस्मिन्
 
 ।
-
-
 
 अर्थे
 
@@ -9565,8 +8271,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.1)
-
-
 
 रुद्रटमतेन
 
@@ -9586,8 +8290,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उक्तिः,
 
-
-
 असम्भवः,
 
 अवयवः,
@@ -9599,8 +8301,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 कालरु. 10.1-2)
-
-
 
 अविशेषः
 
@@ -9614,8 +8314,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अर्थादन्यं
 
 गमयेदविशिष्टविशेषणोपेतम्
@@ -9623,8 +8321,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.3)
-
-
 
 उदा. -
 
@@ -9635,8 +8331,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सुरभिपरिमलामनिशम्
 
 ।
-
-
 
 निदधाति
 
@@ -9652,8 +8346,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.4)
 
-
-
 विरोधः
 
 श्लेषः -
@@ -9663,8 +8355,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विरुद्धविशेषणमवगमयेदन्यमर्थसामान्यम्
 
 ।
-
-
 
 प्रक्रान्तमतोऽन्यादृग्
 
@@ -9676,8 +8366,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.5)
 
-
-
 उदा. -
 
 संवर्धितविविधाधिककमलोऽप्यदलितनालिकः
@@ -9686,15 +8374,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सकलारिदाररसिकोऽप्यनभिमतपराङ्गनासङ्गः
 
 ॥ (
 
 कालरु. 10.6)
-
-
 
 अधिकश्लेषः -
 
@@ -9706,8 +8390,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अर्थान्तरमवगमयेदधिकश्लेषः
 
 स
@@ -9717,8 +8399,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.7)
-
-
 
 उदा. -
 
@@ -9740,8 +8420,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 भूतिं
 
 च
@@ -9760,8 +8438,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.8)
 
-
-
 वक्रः
 
 श्लेषः -
@@ -9771,8 +8447,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गम्यतेऽन्योऽर्थः
 
 ।
-
-
 
 वाक्येन
 
@@ -9788,8 +8462,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.9)
 
-
-
 उदा. -
 
 आक्रम्य
@@ -9804,8 +8476,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पतति
 
 करः
@@ -9817,8 +8487,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.10)
-
-
 
 ब्याजश्लेषः -
 
@@ -9838,8 +8506,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्याविवक्षिताया
 
 व्याजश्लेषः
@@ -9851,8 +8517,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.11)
-
-
 
 उदा. -
 
@@ -9871,8 +8535,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 शरीरम्
 
 ।
-
-
 
 तथास्य
 
@@ -9895,8 +8557,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.12)
-
-
 
 भोगवते
 
@@ -9922,8 +8582,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सर्पेण
 
-
-
 दष्टा
 
 इति
@@ -9933,8 +8591,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कृतवती
 
 ।
-
-
 
 मम्मटादिमतेनात्र
 
@@ -9947,8 +8603,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्यात्
 
 ।
-
-
 
 उक्तिश्लेषः -
 
@@ -9964,8 +8618,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 गम्येतान्या
 
 तस्मादुक्तिश्लेषः
@@ -9977,8 +8629,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.14)
-
-
 
 उदा. -
 
@@ -9996,8 +8646,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 नृणामपाङ्गेन
 
 कृतश्च
@@ -10014,8 +8662,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.15)
 
-
-
 असम्भवश्लेषः -
 
 गम्येत
@@ -10023,8 +8669,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रक्रान्तादसम्भवत्
 
 तद्विशेषणोऽन्योऽर्थः।
-
-
 
 वाक्येन
 
@@ -10035,8 +8679,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ज्ञेयोऽसम्भवश्लेषः॥ (
 
 कालरु. 10.16)
-
-
 
 उदा. -
 
@@ -10054,8 +8696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 नन्वन्य
 
 एव
@@ -10070,8 +8710,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.17)
 
-
-
 अवयवश्लेषः -
 
 यत्रावयवमुखस्थितसमुदायविशेषणं
@@ -10079,8 +8717,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रधानार्थम्
 
 ।
-
-
 
 पुष्यन्
 
@@ -10093,8 +8729,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.18)
-
-
 
 उदा. -
 
@@ -10110,8 +8744,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अक्रूरो
 
 हृदयेऽसौ
@@ -10123,8 +8755,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.19)
-
-
 
 तत्त्वश्लेषः -
 
@@ -10142,8 +8772,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 गम्येतान्यद्वाच्यं
 
 तत्त्वश्लेषः
@@ -10155,8 +8783,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.20)
-
-
 
 उदा. -
 
@@ -10178,8 +8804,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अधरोऽपद्मरागस्त्रिभुवनरत्नं
 
 ततो
@@ -10189,8 +8813,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.21)
-
-
 
 स
 
@@ -10204,8 +8826,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्यद्वाक्यं
 
 गमयेदविरुद्वं
@@ -10215,8 +8835,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.22)
-
-
 
 तव
 
@@ -10234,8 +8852,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 दुर्योधनोऽपि
 
 राजन्युधिष्ठिरोऽस्तीत्यहो
@@ -10245,8 +8861,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.23)
-
-
 
 एषां
 
@@ -10262,8 +8876,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तन्नामानस्तेषां
 
 लक्षणमंशेषु
@@ -10274,8 +8886,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.24)
 
-
-
 योगवशादेतेषां
 
 तिलतण्डुलवच्च
@@ -10283,8 +8893,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दुग्धजलवच्च
 
 ।
-
-
 
 व्यक्ताव्यक्तांशत्वात्संकर
 
@@ -10296,8 +8904,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.25)
 
-
-
 अभियुज्य
 
 लोलनयना
@@ -10305,8 +8911,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 साध्वसजनितोरुवेपथुस्वेदा
 
 ।
-
-
 
 अबलेव
 
@@ -10324,8 +8928,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.26)
 
-
-
 सन्नारीभरणो
 
 भवानपि
@@ -10339,8 +8941,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नाधिरूढो
 
 वृषं
-
-
 
 किं
 
@@ -10360,8 +8960,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इत्थं
 
 द्वौ
@@ -10371,8 +8969,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 शिवस्त्वं
 
 चैकरूपस्थिती
-
-
 
 तÏ
 
@@ -10396,8 +8992,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.27)
 
-
-
 आलोकनं
 
 भवत्या
@@ -10406,8 +9000,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 हृदयाकर्षणपाशः
 
 स्मरतापप्रशमहिमसलिलम्
@@ -10415,8 +9007,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 10.28)
-
-
 
 आदौ
 
@@ -10427,8 +9017,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लोलः
 
 कपोलस्थलीं
-
-
 
 संप्राप्य
 
@@ -10442,8 +9030,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 युष्मद्वैरिवधूजनस्य
 
 सततं
@@ -10451,8 +9037,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कण्ठे
 
 लगत्युल्लसन्
-
-
 
 किं
 
@@ -10472,8 +9056,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 10.29)
 
-
-
 श्लेषः
 
 स
@@ -10492,8 +9074,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 147)
 
-
-
 \-
 
 एकार्थप्रतिपादकानामेव
@@ -10506,8 +9086,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ठ्ठ. "
 
 उदयमयते
@@ -10515,8 +9093,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दिङ्मालिन्यं
 
 निराकुरुतेतराम्
-
-
 
 नयति
 
@@ -10530,13 +9106,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रचयतितरां
 
 स्वैराचारप्रवर्तनकर्तनम्
-
-
 
 बत
 
@@ -10560,8 +9132,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अर्कभूपौ)
 
-
-
 ड.
 
 अप्रस्तुते - "
@@ -10571,8 +9141,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सदारामावियोगिनः
 
 ।
-
-
 
 अलंकाराश्रया
 
@@ -10588,8 +9156,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 शब्दश्लेषः) (?)
 
-
-
 प्रस्तुते - "
 
 अपविक्रमसङ्कोचं
@@ -10597,8 +9163,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गोसहस्रोल्लसत्तनुम्
 
 ।
-
-
 
 नाकोल्लासिनमत्येति
 
@@ -10612,8 +9176,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इन्द्रसूर्ययोः) (?)
 
-
-
 द्वयोः
 
 प्राकरणिकयोरप्राकरणिकयोः
@@ -10621,8 +9183,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्राकरणिकाप्राकरणिकयोर्वा
 
 श्लिष्टपदोपनिबन्धे
-
-
 
 श्लेष
 
@@ -10638,8 +9198,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 विशेष्यस्यापि
 
 साम्ये
@@ -10652,15 +9210,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 33)
 
-
-
 क्रमेणात्रोपस्थाप्यन्ते
 
 उदाहरणानि
 
 ।
-
-
 
 प्राकरणिकयोः
 
@@ -10674,8 +9228,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पुरास्त्रीकृतो
 
-
-
 यश्चोद्वृत्तभुजङ्गहारवलयो
 
 गङ्गां
@@ -10687,8 +9239,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 धारयन्
 
 ।
-
-
 
 यस्याहुः
 
@@ -10702,8 +9252,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नामामराः
 
-
-
 पायात्स
 
 स्वयमन्धकक्षयकरस्त्वां
@@ -10714,8 +9262,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 117)
 
-
-
 अप्रस्तुतयोः
 
 श्लिष्टत्वम् -
@@ -10725,8 +9271,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लुब्धैर्भूरिशिलीमुखैः
 
 ।
-
-
 
 सदृशे
 
@@ -10740,8 +9284,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 118)
 
-
-
 प्रस्तुताप्रस्तुतयोः
 
 श्लिष्टत्वम् -
@@ -10754,8 +9296,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वक्तुं
 
-
-
 देहीति
 
 मार्गणशतैश्च
@@ -10766,13 +9306,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मोहात्समाक्षिपति
 
 जीवितमप्यकाण्डे
-
-
 
 कष्टं
 
@@ -10783,8 +9319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 119)
-
-
 
 जयदेव
 
@@ -10798,8 +9332,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 श्लेषालङ्कारं
 
-
-
 निर्णयति
 
 ।
@@ -10807,8 +9339,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यथाक्रममत्रोपस्थाप्यन्तेऽधः
 
 ।
-
-
 
 खण्डश्लेषः -
 
@@ -10822,8 +9352,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उच्छलद्भूरिकीलालः
 
 शुशुभे
@@ -10834,8 +9362,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.63)
 
-
-
 भङ्गश्लेषः -
 
 भङ्गश्लेषः
@@ -10845,8 +9371,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चेत्पृथगर्थता
 
 ।
-
-
 
 अजरामरता
 
@@ -10862,8 +9386,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.64)
 
-
-
 अर्थश्लेषः -
 
 अर्थश्लेषोऽर्थमात्रस्य
@@ -10871,8 +9393,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यद्यनेकार्थसंश्रयः
 
 ।
-
-
 
 कुटिलाः
 
@@ -10890,8 +9410,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.65)
 
-
-
 केवलप्रस्तुतगतत्वेन,
 
 केवलाप्रस्तुतगतत्वेन
@@ -10907,8 +9425,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 धर्मसूरिः
 
 ।
-
-
 
 तल्लक्षणं
 
@@ -10928,8 +9444,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.596)
 
-
-
 12\.
 
 समासोक्तिः -
@@ -10947,8 +9461,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वामनस्यापरे
 
 ।
-
-
 
 भोज-
 
@@ -10968,15 +9480,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 विद्यानाथ-
 
-
-
 विश्वनाथादयश्च
 
 रुय्यकमूरीकुरुतः
 
 ।
-
-
 
 भामहस्य
 
@@ -10987,8 +9495,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गम्यतेऽन्योर्थस्तत्समानविशेषणः
 
 ।
-
-
 
 सा
 
@@ -11002,8 +9508,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 2.79)
 
-
-
 रुद्रटमतेन -
 
 सकलसमानविशेषणमेकं
@@ -11013,8 +9517,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सत्
 
 ।
-
-
 
 उपमानमेव
 
@@ -11028,8 +9530,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.67)
 
-
-
 फलमविकलमलघीयो
 
 लघुपरिणति
@@ -11039,8 +9539,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सुस्वादु
 
 ।
-
-
 
 प्रीणितसकलप्रणयिप्रणतस्य
 
@@ -11052,8 +9550,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.68)
 
-
-
 (
 
 विशेषणमात्रसाम्यं,
@@ -11063,8 +9559,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रस्तुतं
 
 विशेषणं)
-
-
 
 "
 
@@ -11082,8 +9576,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नायकः
 
-
-
 मम्मटमतेन -
 
 परोक्तिर्भेदकैः
@@ -11098,8 +9590,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 148)
 
-
-
 विश्वनाथस्य -
 
 समासोक्तिस्तु
@@ -11112,8 +9602,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 व्यवहारसमारोपः
 
 प्रकृतेऽन्यस्य
@@ -11123,8 +9611,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 साद. 10.56)
-
-
 
 रुय्यकमतेन -
 
@@ -11137,8 +9623,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 अस. 31)
-
-
 
 तच्च
 
@@ -11155,8 +9639,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भवति
 
 ।
-
-
 
 तत्र
 
@@ -11178,8 +9660,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यथा
 
 समस्तं
@@ -11200,8 +9680,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 96)
 
-
-
 साधारण्येन
 
 यथा -
@@ -11218,8 +9696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विकासमेति
 
 सुभग
@@ -11229,8 +9705,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 97)
-
-
 
 औपम्यगर्भत्वेन
 
@@ -11242,8 +9716,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 केशपाशालिवृन्देन
 
 सुवेषा
@@ -11254,8 +9726,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 98)
 
-
-
 जयदेवस्तु
 
 सोदाहरणं
@@ -11263,8 +9733,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लक्षणमेवं
 
 प्रस्तौति -
-
-
 
 समासोक्तिः
 
@@ -11275,8 +9743,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चेत्
 
 ।
-
-
 
 अयमैन्द्रीमुखं
 
@@ -11289,8 +9755,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.62)
-
-
 
 धर्मसूरिरपि
 
@@ -11308,8 +9772,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्रकृतस्य
 
 समर्थानि
@@ -11324,8 +9786,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.588)
 
-
-
 (
 
 विवक्षितः),
@@ -11333,8 +9793,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चन्द्रमाः -
 
 प्रस्तुतः
-
-
 
 उपमेयश्लेषोक्तौ
 
@@ -11347,8 +9805,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लक्षणम्
 
 ।
-
-
 
 उदाहरणत्वेनासौ
 
@@ -11367,8 +9823,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निशामुखम्
 
 ।
-
-
 
 यथा
 
@@ -11390,8 +9844,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 इति
 
 पद्यं
@@ -11410,8 +9862,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अन्याभिधानं
 
-
-
 समासोक्तिरिति
 
 लक्षणं
@@ -11426,8 +9876,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चाभिन्नत्वेन
 
-
-
 मनुते
 
 । (
@@ -11435,8 +9883,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अशे.
 
 पृ.34)
-
-
 
 13\.
 
@@ -11454,8 +9900,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कार्यान्तरे
 
-
-
 प्रवृत्ते
 
 आनुषङ्गिकफलोपलब्धौ
@@ -11470,8 +9914,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 गम्यमानौपम्येन
 
-
-
 क्रियया
 
 विशिष्टार्थप्रदर्शनं
@@ -11484,8 +9926,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तद्यथा -
 
-
-
 क्रिययैव
 
 विशिष्टस्य
@@ -11493,8 +9933,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तदर्थस्योपदर्शनात्
 
 ।
-
-
 
 ज्ञेया
 
@@ -11508,8 +9946,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 3.33)
 
-
-
 वस्तुसम्बन्धाभावेऽपि
 
 उपमानोपमेयभावसम्बन्धकल्पना
@@ -11520,8 +9956,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 (
 
 उद्भटे
@@ -11531,8 +9965,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 इत्येव
 
 पाठः)
-
-
 
 मम्मटस्तु -
 
@@ -11556,8 +9988,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 लक्षणं
 
-
-
 करोति
 
 ।
@@ -11574,8 +10004,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 प्रतिबिम्बकरणं
 
-
-
 निदर्शना
 
 । (
@@ -11590,8 +10018,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 निरूपयन्नाह -
 
-
-
 वाक्यार्थयोः
 
 सदृशयोरैक्यारोपो
@@ -11599,8 +10025,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निदर्शना
 
 ।
-
-
 
 या
 
@@ -11616,8 +10040,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.58)
 
-
-
 विश्वनाथ
 
 एतल्लक्षणं
@@ -11625,8 +10047,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मनाङ्
 
 विपर्यासयन्नूचे -
-
-
 
 सम्भवन्
 
@@ -11639,8 +10059,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुत्रचित्
 
 ।
-
-
 
 यत्र
 
@@ -11655,8 +10073,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 साद. 10.51)
-
-
 
 प्रथमस्योदाहरणम् -
 
@@ -11676,8 +10092,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 वेदयन्निति
 
 दिनेन
@@ -11694,8 +10108,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 अत्र
 
 रवेरीदृशार्थवेदनक्रियायां
@@ -11705,8 +10117,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सम्भवत्येव
 
 ।
-
-
 
 असम्भवद्वस्तुनिदर्शना
 
@@ -11720,8 +10130,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आद्योदाहरणम् -
 
 कलयति
@@ -11734,8 +10142,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अधरः
 
 किसलयलीलामाननमस्याः
@@ -11747,8 +10153,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 अनेकवाक्यगा
 
@@ -11770,8 +10174,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ध्रुवं
 
 स
@@ -11788,8 +10190,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 इति
 
 कालिदासीयं
@@ -11802,8 +10202,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 धर्मसूरिरेनामित्थं
 
 लक्षयति -
@@ -11813,8 +10211,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वस्तुनोद्र्वयोः
 
 ।
-
-
 
 प्रतिबिम्बत्वमाक्षिप्तं
 
@@ -11829,8 +10225,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सार.
 
 पृ.578)
-
-
 
 आर्थी - "
 
@@ -11848,8 +10242,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तितीर्षुः
 
 दुस्तरं
@@ -11864,13 +10256,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 435)
 
-
-
 संभवन्वस्तुसंबन्धे -
 
 एकवाक्यगता -
-
-
 
 "
 
@@ -11886,8 +10274,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 वहति
 
 गिरिरयं
@@ -11899,8 +10285,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 436)
-
-
 
 मालारूपा - "
 
@@ -11917,8 +10301,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हरिणाङ्कबिम्बम्
 
 ।
-
-
 
 मेरुं
 
@@ -11940,8 +10322,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 437)
 
-
-
 "
 
 क्षिपसि
@@ -11955,8 +10335,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मृगादनरदने
 
 ।" (?)
-
-
 
 स्वस्वहेत्वन्वयोक्तौ - "
 
@@ -11976,8 +10354,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 शैलशेखरगतो
 
 दृषत्कणश्चारुमारुतधुतः
@@ -11989,8 +10365,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 438)
-
-
 
 14\.
 
@@ -12005,8 +10379,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 दण्डी
-
-
 
 अग्निश्च
 
@@ -12028,8 +10400,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काद. 2.340)
 
-
-
 भामहस्य -
 
 अधिकारादपेतस्य
@@ -12041,8 +10411,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्तुतिः
 
 ।
-
-
 
 अप्रस्तुतप्रशंसा
 
@@ -12058,8 +10426,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 3.29)
 
-
-
 रुद्रटस्य -
 
 असमानविशेषणमपि
@@ -12069,8 +10435,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 समानेतिवृत्तमुपमेयम्
 
 ।
-
-
 
 उक्तेन
 
@@ -12084,8 +10448,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.74)
 
-
-
 मुक्त्वा
 
 सलीलहंसं
@@ -12097,8 +10459,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सरसम्
 
 ।
-
-
 
 बकलुलितजलं
 
@@ -12113,8 +10473,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.75)
-
-
 
 मम्मटस्तु -
 
@@ -12132,8 +10490,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 151)
 
-
-
 \-
 
 अप्राकरणिकस्य
@@ -12149,8 +10505,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 ठ्ठ.
 
@@ -12172,8 +10526,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 मत्कृते
 
-
-
 नो
 
 कार्या
@@ -12190,15 +10542,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 लज्जामन्थरतारकेण
 
 निपतत्पीताश्रुणा
 
 चक्षुषा
-
-
 
 दृष्ट्वा
 
@@ -12215,8 +10563,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 439)
-
-
 
 ड.
 
@@ -12238,8 +10584,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 स्थिताः
 
-
-
 कुब्जे
 
 भोजय
@@ -12254,8 +10598,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इत्थं
 
 नाथ
@@ -12266,8 +10608,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पञ्जरात्
 
-
-
 चित्रस्थानवलोक्य
 
 शून्यवलभावेकैकमाभाषते
@@ -12277,8 +10617,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 440)
-
-
 
 ड़.
 
@@ -12294,8 +10632,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वारिणो
 
-
-
 यन्मुक्तामणिरित्यमंस्त
 
 स
@@ -12306,13 +10642,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अङ्गुल्यग्रलघुक्रियाप्रविलयिन्यादीयमाने
 
 शनैः
-
-
 
 कुत्रोड्डीय
 
@@ -12330,8 +10662,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 441)
 
-
-
 ड्ड.
 
 विशेषे - "
@@ -12344,8 +10674,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 स्वस्थादेवापमानेऽपि
 
 देहिनस्तद्वरं
@@ -12353,8 +10681,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रजः
 
 ॥" (?)
-
-
 
 ड्ढ.
 
@@ -12370,8 +10696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 समुज्ज्वलरुचिः
 
 श्रीमान्
@@ -12383,8 +10707,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विशेषणे
 
 श्लेषः) (?)
-
-
 
 "
 
@@ -12410,8 +10732,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अभ्युद्धरेत्तदपि
 
 विश्वमितीदृशीयं
@@ -12429,8 +10749,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 443)
-
-
 
 समासोक्तिः - "
 
@@ -12450,8 +10768,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ते
 
-
-
 युज्येत
 
 प्रतिकर्तुमेव
@@ -12463,8 +10779,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पादग्रहः
 
 ।
-
-
 
 क्षीणेनैतदनुष्ठितं
 
@@ -12479,8 +10793,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नो
 
 मनाक्
-
-
 
 अस्त्वेवं
 
@@ -12500,8 +10812,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 444)
 
-
-
 सादृश्यमात्रं -
 
 वाच्यसंभव - "
@@ -12518,8 +10828,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अम्बरमावृतिशून्यं
 
 हरहर
@@ -12531,8 +10839,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 करुणा
 
 ॥" (?)
-
-
 
 वाच्यासंभव - "
 
@@ -12548,8 +10854,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्तरं
 
 कथयिष्यन्ति
@@ -12559,8 +10863,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पुनः
 
 ॥" (?)
-
-
 
 उभयरूप - "
 
@@ -12576,8 +10878,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कथं
 
 कमलनाभस्य
@@ -12592,13 +10892,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥" (?)
 
-
-
 धर्मसूरेर्लक्षणं
 
 मम्मटमनुसरति -
-
-
 
 अप्रस्तुतेन
 
@@ -12611,8 +10907,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यदि
 
 ।
-
-
 
 अप्रस्तुतप्रशंसेयं
 
@@ -12628,8 +10922,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.604)
 
-
-
 "
 
 अप्रस्तुतात्सामान्यविशेषभावे
@@ -12639,8 +10931,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सारूप्ये
 
 च
-
-
 
 प्रस्तुतप्रतीतावप्रस्तुतप्रशंसा
 
@@ -12653,8 +10943,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 अस. 34)
-
-
 
 सामान्यविशेषभावे
 
@@ -12669,8 +10957,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 द्वैविध्यम्
 
 ।
-
-
 
 कार्यकारणभावेऽप्यनयैव
 
@@ -12688,8 +10974,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इत्यस्याः
 
-
-
 पञ्च
 
 प्रकाराः
@@ -12699,8 +10983,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्राद्यो
 
 यथा -
-
-
 
 तन्नास्ति
 
@@ -12716,8 +10998,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अनवरतगमनशीलस्य
 
 कालपथिकस्य
@@ -12727,8 +11007,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 126)
-
-
 
 द्वितीयो
 
@@ -12742,8 +11020,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वारिणो
 
-
-
 यन्मुक्तामणिरित्यमंस्त
 
 स
@@ -12754,13 +11030,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अङ्गुल्यग्रलघुक्रियाप्रविलयिन्यादीयमाने
 
 शनै-
-
-
 
 स्तत्रोड्डीय
 
@@ -12778,8 +11050,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 127)
 
-
-
 तृतीयो
 
 यथा -
@@ -12796,8 +11066,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 मयालम्बितं
 
-
-
 किं
 
 मां
@@ -12812,13 +11080,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इत्यन्योन्यविलक्षदृष्टिचतुरे
 
 तस्मिन्नवस्थान्तरे
-
-
 
 सव्याजं
 
@@ -12836,8 +11100,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 128)
 
-
-
 चतुर्थो
 
 यथा -
@@ -12850,8 +11112,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 दृष्टिर्मृगीणामिव
 
-
-
 प्रम्लानारुणिमेव
 
 विद्रुमरुचिः
@@ -12862,8 +11122,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कार्कश्यं
 
 कलयामि
@@ -12871,8 +11129,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कोकिलवधूकण्ठेष्विव
 
 प्रस्तुतं
-
-
 
 सीतायाः
 
@@ -12892,8 +11148,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 129)
 
-
-
 पञ्चमस्तु
 
 प्रकारः
@@ -12906,8 +11160,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उपर्युक्तान्येव
 
-
-
 साधम्र्यस्योदाहरणानि
 
 ।
@@ -12915,8 +11167,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वैधम्र्यस्य
 
 यथा -
-
-
 
 धन्याः
 
@@ -12930,8 +11180,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 राममिन्दीवरश्यामं
 
 ये
@@ -12941,8 +11189,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 133)
-
-
 
 जयदेवस्तु
 
@@ -12960,8 +11206,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तद्यथा -
 
-
-
 अप्रस्तुतप्रशंसा
 
 स्यात्सा
@@ -12972,8 +11216,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कार्यकारणसामान्यविशेषादेरसौ
 
 मता
@@ -12981,8 +11223,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.66)
-
-
 
 उदाहरणं
 
@@ -13002,8 +11242,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अप्यम्बुधेः
 
 परं
@@ -13018,8 +11256,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.67)
 
-
-
 उपमेयस्य
 
 किञ्चिदुक्तावप्रस्तुतप्रशंसा -
@@ -13031,8 +11267,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लक्षणम्
 
 ।
-
-
 
 "
 
@@ -13047,8 +11281,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कदलिकाण्डमृणालदण्डाः
 
 ।
-
-
 
 यत्रोत्पलानि
 
@@ -13068,8 +11300,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥"
 
-
-
 इति
 
 पद्यमुदाहृतं
@@ -13088,8 +11318,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 मम्मटेन
 
-
-
 रूपकालङ्कारस्योदाहरणत्वेन
 
 प्रस्तुतमिति
@@ -13099,8 +11327,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चिन्त्ये
 
 ।
-
-
 
 अन्योक्तिनाम्ना
 
@@ -13112,8 +11338,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 मम्मटस्य
 
-
-
 अप्रस्तुतप्रशंसातस्तदीया
 
 अप्रस्तुतप्रशंसा
@@ -13123,8 +11347,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ऊह्यम्
 
 ।
-
-
 
 15\.
 
@@ -13144,8 +11366,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 लोकातिक्रान्तगोचरं
 
-
-
 वचोऽतिशयोक्तिः
 
 ।
@@ -13162,8 +11382,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तद्यथा -
 
-
-
 निमित्ततो
 
 वचो
@@ -13174,8 +11392,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मन्यन्तेऽतिशयोकिं्त
 
 तामलङ्कारतया
@@ -13185,8 +11401,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 2.81)
-
-
 
 दण्डी,
 
@@ -13203,8 +11417,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अस्य
 
 लोकसीमातिगोचरत्वं
-
-
 
 द्रढयन्ति
 
@@ -13226,8 +11438,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चतुर्षु
 
-
-
 भेदेषु
 
 विभाजितः,
@@ -13244,13 +11454,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मम्मटमतेनास्य
 
 भेदाः -
-
-
 
 ठ्ठ.
 
@@ -13267,8 +11473,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रकृतस्य
 
 परेण)
-
-
 
 ड.
 
@@ -13294,8 +11498,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सामा
 
 सामण्मपआवइणो
@@ -13320,8 +11522,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।)"
 
-
-
 ड़.
 
 यद्यर्थोक्तिमूलके - "
@@ -13331,8 +11531,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चेदमृतांशोर्भवेद्वपुः
 
 ।
-
-
 
 तस्या
 
@@ -13348,8 +11546,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 451)
 
-
-
 ड्ड.
 
 पौर्वापर्यविपर्यये - "
@@ -13362,15 +11558,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पश्चादुद्भिन्नबकुल
 
 रसालमुकुलश्रियः
 
 ॥" (?)
-
-
 
 "
 
@@ -13383,8 +11575,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 द्विरदगामिना
 
 ।
-
-
 
 तेन
 
@@ -13400,8 +11590,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥" (?)
 
-
-
 रुय्यकस्य -
 
 अध्यवसितप्राधान्ये
@@ -13411,8 +11599,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 22)
-
-
 
 अयन्त्वलङ्कारस्यास्य
 
@@ -13425,8 +11611,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ते
 
 यथा -
-
-
 
 ठ्ठ.
 
@@ -13446,8 +11630,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सा
 
 च
@@ -13459,8 +11641,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 61)
-
-
 
 ड.
 
@@ -13478,8 +11658,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 श्यामा
 
 सामान्यप्रजापते
@@ -13493,8 +11671,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 62)
-
-
 
 ड़.
 
@@ -13510,8 +11686,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 महान्स्वीकृतः
 
-
-
 स्वच्छन्दस्य
 
 सुखं
@@ -13522,8 +11696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एषापि
 
 स्वयमेव
@@ -13531,8 +11703,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तुल्यरमणाभावाद्वराकी
 
 हता
-
-
 
 कोऽर्थश्चेतसि
 
@@ -13545,8 +11715,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 64)
-
-
 
 ड्ड.
 
@@ -13568,8 +11736,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ततोऽनुकुर्याद्विशदस्य
 
 तस्यास्ताम्रौष्ठपर्यस्तरुचः
@@ -13577,8 +11743,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्मितस्य॥ (
 
 अस. 66)
-
-
 
 ड्ढ.
 
@@ -13591,8 +11755,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुसुमचापबाणेन
 
 ।
-
-
 
 चरमं
 
@@ -13608,23 +11770,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 68)
 
-
-
 जयदेवस्त्वत्राक्रमातिशयोक्तिः,
 
 अत्यन्तातिशयोक्तिः,
 
 चपलातिशयोक्तिः,
 
-
-
 सम्बन्धातिशयोक्तिः,
 
 भेदकातिशयोक्तिः,
 
 रूपकातिशयोक्तिश्चेत्यतिशयोक्तेः
-
-
 
 षड्विधत्वं
 
@@ -13638,8 +11794,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 निरूप्यन्तेऽत्र -
 
-
-
 (
 
 ठ्ठ)
@@ -13651,8 +11805,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 युगपदत्कार्यकारणे
 
 ।
-
-
 
 आलिङ्गन्ति
 
@@ -13672,8 +11824,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.41)
 
-
-
 (
 
 ड)
@@ -13683,8 +11833,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अत्यन्तातिशयोक्तिस्तत्पौर्वापर्यव्यतिक्रमे
 
 ।
-
-
 
 अग्रे
 
@@ -13702,8 +11850,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.42)
 
-
-
 (
 
 ड़)
@@ -13718,8 +11864,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यामीति
 
 प्रियपृष्टाया
@@ -13729,8 +11873,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.43)
-
-
 
 (
 
@@ -13746,8 +11888,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पश्य
 
 सौधाग्रसंसक्तं
@@ -13760,8 +11900,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.44)
 
-
-
 (
 
 ड्ढ)
@@ -13771,8 +11909,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भेदकातिशयोक्तिश्चेदेकस्यैवान्यतोच्यते
 
 ।
-
-
 
 अहो
 
@@ -13785,8 +11921,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.45)
-
-
 
 (
 
@@ -13802,8 +11936,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पश्य
 
 नीलोत्पलद्वन्द्वान्निःसरन्ति
@@ -13815,8 +11947,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.46)
-
-
 
 धर्मसूरिस्तु
 
@@ -13836,8 +11966,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 षण्णामतिशयोक्तीनां
 
-
-
 सामान्यलक्षणं
 
 च
@@ -13856,8 +11984,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.36)
 
-
-
 16\.
 
 प्रतिवस्तूपमा -
@@ -13872,8 +11998,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 भामहस्याभिमतं
 
 यत् -
@@ -13884,8 +12008,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यथेवानभिधानेऽपि
 
 गुणसाम्यप्रतीतितः
@@ -13893,8 +12015,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 2.34)
-
-
 
 उद्भटोऽस्या
 
@@ -13911,8 +12031,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 इयमुभयन्यासालङ्कार
 
 एव
-
-
 
 ।
 
@@ -13934,8 +12052,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 (
 
 वाक्यद्वयं
@@ -13950,8 +12066,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वर्तते)
 
-
-
 मम्मटमतेन -
 
 प्रतिवस्तूपमा
@@ -13961,8 +12075,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सा
 
 ॥
-
-
 
 सामान्यस्य
 
@@ -13980,8 +12092,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 154)
 
-
-
 साधम्र्ये - "
 
 देवीभावं
@@ -13995,8 +12105,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भजत्वेषा
 
 ।
-
-
 
 न
 
@@ -14014,8 +12122,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 453)
 
-
-
 वैधम्र्ये - "
 
 चकोर्य
@@ -14026,8 +12132,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विनावन्तीर्न
 
 निपुणाः
@@ -14037,8 +12141,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रतनर्मणि
 
 ॥" (?)
-
-
 
 मालारूपा - "
 
@@ -14060,8 +12162,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 शिवगिरिः
 
 शिवहाससहोदरः
@@ -14075,8 +12175,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सज्जनः
 
 ॥" (?)
-
-
 
 "
 
@@ -14098,8 +12196,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 लवणमम्बु
 
 सदैव
@@ -14116,8 +12212,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 454)
 
-
-
 रुय्यकस्य
 
 मतेन
@@ -14132,8 +12226,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृथङ्निर्देशे
 
-
-
 प्रतिवस्तूपमा
 
 ।"
@@ -14144,8 +12236,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 25)
 
-
-
 उदा. -
 
 चकोर्य
@@ -14155,8 +12245,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चतुराश्चन्द्रिकाचामकर्मणि
 
 ।
-
-
 
 आवन्त्य
 
@@ -14172,8 +12260,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 78)
 
-
-
 चन्द्रालोककारस्याभिमतं
 
 यथा -
@@ -14185,8 +12271,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मता
 
 ।
-
-
 
 तापेन
 
@@ -14202,8 +12286,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.55)
 
-
-
 पद्यस्यास्य
 
 पूर्वार्धे
@@ -14217,8 +12299,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रस्तुते
 
 ।
-
-
 
 17\.
 
@@ -14235,8 +12315,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हेमचन्द्र-
 
 केशवमिश्रान्
-
-
 
 विहाय
 
@@ -14260,8 +12338,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रुद्रटमतेन -
 
 अर्थविशेषः
@@ -14276,8 +12352,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तादृशमन्यं
 
 न्यस्येद्यत्र
@@ -14291,8 +12365,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.94)
-
-
 
 त्वयि
 
@@ -14310,8 +12382,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आलोके
 
 हि
@@ -14326,8 +12396,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.95)
 
-
-
 लोकं
 
 लोलितकिसलयविषवनवातोऽपि
@@ -14337,8 +12405,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मोहयति
 
 ।
-
-
 
 तापयतितरां
 
@@ -14352,15 +12418,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.96)
 
-
-
 (
 
 बिम्बप्रतिबिम्बभावः,
 
 वाक्यद्वये)
-
-
 
 साधम्र्ये - "
 
@@ -14375,8 +12437,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मधुधाराम्
 
 ।
-
-
 
 अनधिगतपरिमलाऽपि
 
@@ -14394,8 +12454,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 वैधम्र्ये - "
 
 त्वयि
@@ -14410,8 +12468,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 दृष्टानुदयभाजीन्दौ
 
 ग्लानिः
@@ -14424,15 +12480,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 धर्मसूरेर्लक्षणम् -
 
 बिम्बानुबिम्बभावाच्चेदुपमानोपमेययोः
 
 ।
-
-
 
 साधम्र्यं
 
@@ -14449,8 +12501,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सार.
 
 पृ.569)
-
-
 
 द्वयोरपि
 
@@ -14470,8 +12520,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रुय्यकस्तु "
 
 तस्यापि
@@ -14486,8 +12534,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इति
 
-
-
 लक्षणं
 
 विधाय
@@ -14499,8 +12545,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 समर्थयति
 
 ।
-
-
 
 आद्यो
 
@@ -14518,15 +12562,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 गम्भीरता-
 
-
-
 मापातालनिमग्नपीवरतनुर्जानाति
 
 मन्थाचलः
 
 ।
-
-
 
 देवीं
 
@@ -14542,8 +12582,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सारस्वतं
 
-
-
 जानीते
 
 नितरामसौ
@@ -14557,8 +12595,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 79)
-
-
 
 द्वितीयो
 
@@ -14580,8 +12616,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तमांसि
 
 तिष्ठन्ति
@@ -14596,8 +12630,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 80)
 
-
-
 चन्द्रालोककारस्य
 
 सोदाहरणं
@@ -14605,8 +12637,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लक्षणविधानं
 
 यथा -
-
-
 
 चेद्
 
@@ -14616,8 +12646,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 स्यान्मल्लप्रतिमल्लत्वे
 
 संग्रामोद्दामहुङ्कृतिः
@@ -14625,8 +12653,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.56)
-
-
 
 18\.
 
@@ -14642,8 +12668,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एकवाक्येन
 
 संयुक्तं
@@ -14654,8 +12678,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 नाशा. 16.53)
 
-
-
 भामहमतेन -
 
 आदिमध्यान्तविषयं
@@ -14665,8 +12687,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दीपकमिष्यते
 
 ।
-
-
 
 एकस्यैव
 
@@ -14680,8 +12700,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 2.25)
 
-
-
 रुद्रटमतेन -
 
 यत्रैकमनेकेषां
@@ -14693,8 +12711,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भवति
 
 ।
-
-
 
 तद्वत्
 
@@ -14709,8 +12725,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.64)
-
-
 
 आदौ
 
@@ -14728,8 +12742,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 वाक्यार्थानिति
 
 भूयस्त्रिधेत्येवं
@@ -14741,8 +12753,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.65)
-
-
 
 उदाहरणानि -
 
@@ -14757,8 +12767,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सन्तापमसममनुपशयम्
 
 ।
-
-
 
 सन्तापो
 
@@ -14776,8 +12784,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 आदिक्रियादीपकम्)
 
-
-
 तारुण्यमाशुमदनं
 
 मदनः
@@ -14787,8 +12793,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विलासविस्तारम्
 
 ।
-
-
 
 स
 
@@ -14804,8 +12808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 मध्यक्रियादीपकम्)
 
-
-
 नवयौवनमङ्गेषु
 
 प्रियसङ्गमनोरथो
@@ -14815,8 +12817,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हृदयेषु
 
 ।
-
-
 
 अथ
 
@@ -14834,8 +12834,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अन्तक्रियादीपकम्)
 
-
-
 निद्रापहरति
 
 जागरमुपशमयति
@@ -14843,8 +12841,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मदनदहनसन्तापम्
 
 ।
-
-
 
 जनयति
 
@@ -14860,8 +12856,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 आदिकर्तृदीपकम्)
 
-
-
 स्रंसयति
 
 गात्रमखिलं
@@ -14873,8 +12867,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निकाममनुरागः
 
 ।
-
-
 
 जन्मसुलभं
 
@@ -14894,8 +12886,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 दीपकम् )
 
-
-
 दूरादुत्कण्ठन्ते
 
 दयितानां
@@ -14907,8 +12897,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लज्जन्ते
 
 ।
-
-
 
 त्रस्यन्ति
 
@@ -14926,8 +12914,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.66-71)
 
-
-
 अस्य
 
 दीपकस्य
@@ -14941,8 +12927,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तथा
 
 आद्ययोरुदाहरणयोः
-
-
 
 कारणमाला-
 
@@ -14964,8 +12948,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मम्मटमतेन -
 
 कारकस्य
@@ -14984,10 +12966,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अनेककारकेषु)
 
-
-
-
-
 सकृद्वृत्तिस्तु
 
 धर्मस्य
@@ -14995,8 +12973,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रकृताप्रकृतात्मनाम्
 
 ।
-
-
 
 सैव
 
@@ -15013,8 +12989,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 सू. 156)
-
-
 
 क्रियादि
 
@@ -15034,8 +13008,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कुलबालिकानां
 
 स्तनाः
@@ -15051,8 +13023,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 457)
-
-
 
 कारकदीपकम् - "
 
@@ -15072,8 +13042,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अनन्तर्नन्दति
 
 चुम्बितुमिच्छति
@@ -15090,8 +13058,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 458)
 
-
-
 रुय्यकस्य -
 
 प्रस्तुताप्रस्तुतानां
@@ -15103,8 +13069,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 24)
-
-
 
 उदाहरणानि
 
@@ -15126,8 +13090,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अमृतेन
 
 धुनीधवस्त्वया
@@ -15137,8 +13099,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भुवनमिदम्
 
 ॥
-
-
 
 संचारपूतानि
 
@@ -15154,8 +13114,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्रचक्रमे
 
 पल्लवरागताम्रा
@@ -15167,8 +13125,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 धेनुः
 
 ॥
-
-
 
 कृपणानां
 
@@ -15184,8 +13140,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कुलबालिकानां
 
 च
@@ -15199,8 +13153,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 74-76)
-
-
 
 एवमेकक्रियं
 
@@ -15218,8 +13170,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 दीपकं,
 
-
-
 तथानेकक्रियागतत्वेनैककारकमपि
 
 दीपकम्
@@ -15227,8 +13177,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 यथा -
-
-
 
 साधूनामुपकर्तुं
 
@@ -15241,8 +13189,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गन्तुम्
 
 ।
-
-
 
 न
 
@@ -15262,8 +13208,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 77)
 
-
-
 चन्द्रालोककारस्त्वत्र
 
 रुय्यकमनुकुर्वन्नेव
@@ -15273,8 +13217,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लक्षयति
 
 ।
-
-
 
 तदित्थम् -
 
@@ -15290,8 +13232,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मेधां
 
 बुधः
@@ -15306,15 +13246,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.53)
 
-
-
 उदाहरणन्त्वत्रैवोत्तरार्धे
 
 सन्निहितम्
 
 ।
-
-
 
 आवृत्तिदीपकमिति
 
@@ -15324,8 +13260,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तद्यथा -
 
-
-
 आवृत्ते
 
 दीपकपदे
@@ -15333,8 +13267,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भवेदावृतिदीपकम्
 
 ।
-
-
 
 दीप्त्याग्निर्भाति
 
@@ -15349,8 +13281,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.54)
-
-
 
 धर्मसूरिस्तु
 
@@ -15368,8 +13298,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पुनस्त्रिविधमिति
 
-
-
 षोढा
 
 दीपकं
@@ -15384,8 +13312,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पदार्थेन
 
-
-
 यत्रार्थसङ्गतिस्तत्र
 
 दीपकमिति
@@ -15397,8 +13323,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कानु.
 
 पृ.36)
-
-
 
 19\.
 
@@ -15413,8 +13337,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 व्यवस्थापयति
 
 ।
-
-
 
 रुय्यकः
 
@@ -15432,8 +13354,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 पूर्वस्य
 
 पूर्वस्योत्तरोत्तरगुणावहत्वे
@@ -15444,8 +13364,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 55)
 
-
-
 उदाहरणम् -
 
 संग्रामाङ्गणसंगतेन
@@ -15455,8 +13373,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चापे
 
 समारोपिते
-
-
 
 देवाकर्णय
 
@@ -15470,8 +13386,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कोदण्डेन
 
 शराः
@@ -15479,8 +13393,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 शरैररिशिरस्तेनापि
 
 भूमण्डलम्
-
-
 
 तेन
 
@@ -15502,8 +13414,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 189)
 
-
-
 चन्द्रालोककारोऽत्र
 
 दीपकैकावल्योः
@@ -15516,8 +13426,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तत्कृतं
 
 लक्षणमुदाहरणञ्चेदम् -
@@ -15525,8 +13433,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दीपकैकावलीयोगान्मालादीपकमुच्यते
 
 ।
-
-
 
 स्मरेण
 
@@ -15544,8 +13450,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.89)
 
-
-
 धर्मसूरिस्त्वेनं
 
 शृङ्खलान्यायमूलकेषु
@@ -15557,8 +13461,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 उत्तरोत्तरभावः -
-
-
 
 "
 
@@ -15584,8 +13486,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥" (?)
 
-
-
 20\.
 
 तुल्ययोगिता -
@@ -15601,8 +13501,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 उद्भटलक्षणमेव
 
 त
-
-
 
 ऊरीचक्रुः
 
@@ -15620,8 +13518,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तुल्यकार्यक्रियायोगादित्युक्ता
 
 तुल्ययोगिता
@@ -15629,8 +13525,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 3.27)
-
-
 
 नियतानां
 
@@ -15646,8 +13540,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 158)
 
-
-
 प्राकरणिकानां
 
 अप्राकरणिकानां
@@ -15657,8 +13549,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 एकस्यैव
 
 ।
-
-
 
 प्राकरणिके - "
 
@@ -15680,8 +13570,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आवेदयति
 
 नितान्तं
@@ -15698,8 +13586,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 460)
 
-
-
 अप्राकरणिके - "
 
 कुमुदकमलनीलनीरजालिर्ललितविलासजुषोर्दृशोः
@@ -15709,8 +13595,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 का
 
 ।
-
-
 
 अमृतममृतरश्मिरम्बुजम््म
 प्रतिहतमेकपदे
@@ -15722,8 +13606,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 461)
-
-
 
 रुय्यकस्तु -
 
@@ -15737,8 +13619,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वा
 
-
-
 समानधर्माभिसम्बन्धे
 
 तुल्ययोगिता
@@ -15747,8 +13627,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 23)
 
-
-
 तत्र
 
 प्राकरणिकानामप्राकरणिकानां
@@ -15756,8 +13634,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वार्थानां
 
 समानगुणक्रियाभिसंबन्धाभ्यां
-
-
 
 तुल्ययोगिता
 
@@ -15770,8 +13646,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रतिपाद्यन्तेऽत्र
 
 ।
-
-
 
 प्राकरणिकानां
 
@@ -15787,8 +13661,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उचितानि
 
 तवाङ्गेषु
@@ -15801,8 +13673,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 71)
 
-
-
 क्रियाभिसम्बन्धत्वेन -
 
 सज्जातपत्रप्रकराञ्चितानि
@@ -15812,8 +13682,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्फुटपाटलत्वम्
 
 ।
-
-
 
 विकस्वराण्यर्ककरप्रभावाद्दिनानि
 
@@ -15826,8 +13694,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 70)
-
-
 
 अप्राकरणिकानां
 
@@ -15847,8 +13713,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मालतीशशभृल्लेखाकदलीनां
 
 कठोरता
@@ -15856,8 +13720,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 73)
-
-
 
 क्रियाभिसंबन्धत्वेन
 
@@ -15867,13 +13729,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 मुखेऽस्य
 
-
-
 निर्निद्रनीलनलिनच्छदकोमलाङ्ग्या
 
 ।
-
-
 
 भग्नस्य
 
@@ -15882,8 +13740,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रजः
 
 कयापि
-
-
 
 तन्व्या
 
@@ -15898,8 +13754,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 72)
-
-
 
 जयदेवकृतं
 
@@ -15917,8 +13771,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.51)
 
-
-
 उदाहरणं
 
 यथा -
@@ -15933,8 +13785,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्राचीनाचलचूडाग्रचुम्बिबिम्बे
 
 सुधाकरे
@@ -15942,8 +13792,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.52)
-
-
 
 विश्वनाथस्तु -
 
@@ -15959,8 +13807,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एकधर्माभिसम्बन्धः
 
 स्यात्
@@ -15972,8 +13818,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 साद. 10.47-48)
-
-
 
 इति
 
@@ -15993,8 +13837,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सेयं
 
 स्तुत्यर्थनिन्दार्थाभ्यां
@@ -16006,8 +13848,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 प्रस्तुतानामेव
-
-
 
 अप्रस्तुतानामेव
 
@@ -16023,8 +13863,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 धर्मसूरिस्तु
 
-
-
 द्विविधां
 
 भेदसरणिमित्थं
@@ -16038,8 +13876,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गुण-
 
 रूपतया
-
-
 
 द्वैविध्ये
 
@@ -16059,8 +13895,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 षण्णां
 
-
-
 धर्मत्वमङ्गीकृत्य
 
 प्रकृताप्रकृतगतत्वेन
@@ -16070,8 +13904,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 इत्यन्ये
 
 ।
-
-
 
 उदा. -
 
@@ -16087,8 +13919,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्तर्निगूढब्रह्माण्डाः
 
 सञ्चरन्ति
@@ -16100,8 +13930,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सार.
 
 पृ.59?)
-
-
 
 अत्र
 
@@ -16121,8 +13949,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अप्रकृतानां
 
 तुल्ययोगिता,
@@ -16139,8 +13965,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पाथोधयः
 
-
-
 प्रायो
 
 निःसृतजीवना
@@ -16151,8 +13975,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 त्यक्ताः
 
 शैत्यगुणेन
@@ -16160,8 +13982,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पाण्डुरमुखा
 
 डिण्डीरपिण्डच्छलात्
-
-
 
 कम्पन्ते
 
@@ -16181,8 +14001,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.60?)
 
-
-
 21\.
 
 व्यतिरेकः -
@@ -16197,8 +14015,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 व्यतिरेकं
 
 तमिच्छन्ति
@@ -16208,8 +14024,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 2.75)
-
-
 
 रुद्रटेन
 
@@ -16235,8 +14049,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 व्यस्तसमस्तन्यस्तौ
 
 तौ
@@ -16250,8 +14062,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.86)
-
-
 
 उदाहरणम् -
 
@@ -16271,8 +14081,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अभुजङ्गः
 
 समनयनः
@@ -16285,13 +14093,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.87)
 
-
-
 रुद्रटमतेन
 
 भेदान्तरम् -
-
-
 
 यो
 
@@ -16311,8 +14115,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 भवतो
 
 यत्र
@@ -16326,8 +14128,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.89)
-
-
 
 उदाहरणं
 
@@ -16349,8 +14149,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रुय्यकस्तु
 
 उपमानस्याधिक्येऽपि
@@ -16358,8 +14156,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 व्यतिरेकालङ्कृतिमूरीकरोति
 
 ।
-
-
 
 "
 
@@ -16379,8 +14175,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उपमानस्य
 
-
-
 चन्द्रस्यैव
 
 प्रकर्षं
@@ -16391,15 +14185,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जयदेवोऽप्यस्याभिमतं
 
 सहकुर्वन्नेव
 
 ब्रवीति
-
-
 
 यत् - "
 
@@ -16414,8 +14204,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 चन्द्रा. 5.59)
-
-
 
 उदाहरणं
 
@@ -16437,8 +14225,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.59)
 
-
-
 मम्मटेनायं
 
 निराकृतः
@@ -16448,8 +14234,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मम्मटस्य
 
 लक्षणम् -
-
-
 
 उपमानाद्
 
@@ -16469,8 +14253,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 159)
 
-
-
 "
 
 क्षीणः
@@ -16486,8 +14268,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सत्यम्
 
 ।
-
-
 
 विरम
 
@@ -16507,8 +14287,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 462)
 
-
-
 हेतुद्वयोक्तौ
 
 शाब्दी - "
@@ -16531,8 +14309,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 आर्थी - "
 
 अकलङ्कं
@@ -16550,8 +14326,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 आक्षिप्तं - "
 
@@ -16567,8 +14341,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 564)
 
-
-
 उपमेयोत्कर्षानुक्तौ
 
 शाब्दी - "
@@ -16589,8 +14361,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 आर्थी - "
 
 मुखं
@@ -16607,8 +14377,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 आक्षिप्तं - "
 
 मुखं
@@ -16620,8 +14388,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कलङ्किनम्
 
 ।"
-
-
 
 उपमाननिकर्षानुक्तौ
 
@@ -16639,8 +14405,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 आर्थी - "
 
 अकलङ्कं
@@ -16655,8 +14419,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 आक्षिप्तं - "
 
 अकलङ्कं
@@ -16668,8 +14430,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 जयतीन्दुम्
 
 ।"
-
-
 
 उभयानुक्तौ
 
@@ -16685,8 +14445,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 आर्थी - "
 
 मुखं
@@ -16699,8 +14457,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 आक्षिप्तं - "
 
 मुखं
@@ -16710,8 +14466,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 जयतीन्दुम्
 
 ।"
-
-
 
 श्लेषे
 
@@ -16725,8 +14479,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अतिगाढगुणस्यास्य
 
 नाब्जवद्भङ्गुरा
@@ -16738,8 +14490,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 466)
-
-
 
 आर्थी - "
 
@@ -16757,8 +14507,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 आक्षिप्तं - "
 
 अतिगाढगुणस्यास्य
@@ -16775,8 +14523,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 उपमेयोत्कर्षानुक्तौ
 
 शाब्दी - "
@@ -16788,8 +14534,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गुणाः"
 
 ।
-
-
 
 आर्थी - "
 
@@ -16803,8 +14547,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 आक्षिप्तं - "
 
 अस्य
@@ -16816,8 +14558,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अब्जभङ्गुराः
 
 ।"
-
-
 
 उपमाननिकर्षानुक्तौ
 
@@ -16831,8 +14571,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आर्थी - "
 
 अतिगाढगुणस्यास्य
@@ -16842,8 +14580,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गुणाः
 
 ।"
-
-
 
 आक्षिप्तं - "
 
@@ -16859,8 +14595,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 उभयानुक्तौ
 
 शाब्दी - "
@@ -16873,8 +14607,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आर्थी - "
 
 अस्य
@@ -16884,8 +14616,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गुणाः
 
 ।"
-
-
 
 आक्षिप्तं - "
 
@@ -16899,8 +14629,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 एवमेव
 
 उपमेयस्य
@@ -16908,8 +14636,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 उपमानान्न्यूनत्वेऽपि
 
 ।
-
-
 
 यथा - "
 
@@ -16929,8 +14655,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 मालाव्यतिरेके - (
 
 तुल्यार्थे
@@ -16940,8 +14664,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विषमादयश्च
 
 श्लिष्टाः)
-
-
 
 "
 
@@ -16955,8 +14677,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रविवन्न
 
 चातिदुःसहकरतापितभूः
@@ -16968,8 +14688,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 468)
-
-
 
 विश्वनाथो
 
@@ -16984,8 +14702,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 साद. 10.52)
 
 ।
-
-
 
 व्यतिरेकस्य
 
@@ -17002,8 +14718,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तस्य
 
 लक्षणम् -
-
-
 
 व्यतिरेकस्तूपमानादुपमेयेऽतिशायिनि
 
@@ -17023,8 +14737,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 22\.
 
 आक्षेपः -
@@ -17040,8 +14752,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विशेषाभिधित्सया
 
 ।
-
-
 
 आक्षेप
 
@@ -17061,8 +14771,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 2.68)
 
-
-
 रुद्रटेन -
 
 वस्तु
@@ -17077,8 +14785,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्यत्तथात्वसिध्यै
 
 यत्र
@@ -17091,8 +14797,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.89)
 
-
-
 जनयति
 
 संतापमसौ
@@ -17104,8 +14808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चित्रम्
 
 ।
-
-
 
 अथवा
 
@@ -17125,8 +14827,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.90)
 
-
-
 तव
 
 गणयामि
@@ -17136,8 +14836,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 धिङ्माम्
 
 ।
-
-
 
 कः
 
@@ -17152,8 +14850,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.91)
-
-
 
 उक्तविषये
 
@@ -17179,8 +14875,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सा
 
 म्रियते
@@ -17201,8 +14895,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 कथननिषेधे - "
 
 ज्योत्स्ना
@@ -17213,15 +14905,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 शीतांशुकान्तद्रवः
 
-
-
 कर्पूरं
 
 कदलीमृणालवलयान्यम्भोजिनीपल्लवाः
 
 ।
-
-
 
 अन्तर्मानसमास्त्वया
 
@@ -17230,8 +14918,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तस्याः
 
 स्फुलिङ्गोत्कर-
-
-
 
 व्यापाराय
 
@@ -17251,8 +14937,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 472)
 
-
-
 वक्ष्यमाणविषये
 
 सर्वात्मना
@@ -17270,8 +14954,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 किमपि
 
 ।
-
-
 
 क्षणमिह
 
@@ -17291,8 +14973,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 आंशिकनिषेधे - "
 
 तव
@@ -17309,8 +14989,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 हन्त
 
 नितान्तमिदानीम्
@@ -17326,8 +15004,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 गम्यनिषेधे - "
 
@@ -17347,8 +15023,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ममापि
 
 जम््म
@@ -17366,8 +15040,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 रुय्यकस्य
 
 यथा -
@@ -17377,8 +15049,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्राकरणिकयोर्विशेषप्रतीत्यर्थं
 
 निषेधाभास
-
-
 
 आक्षेपः
 
@@ -17400,8 +15070,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 क्रमेण
 
-
-
 तन्निरूप्यते
 
 ।
@@ -17413,8 +15081,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 उपरि
 
 तूल्लिखितमेतत्)
-
-
 
 वस्तुकथनस्य
 
@@ -17430,8 +15096,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 घटते
 
-
-
 करिष्याम्येवं
 
 नो
@@ -17441,8 +15105,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भवेदभ्युपगमः
 
 ।
-
-
 
 न
 
@@ -17458,8 +15120,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 मृषा
 
-
-
 किमेतस्मिन्वक्तुं
 
 क्षममिति
@@ -17473,8 +15133,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 146)
-
-
 
 सामान्यस्योक्तौ
 
@@ -17494,8 +15152,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 संस्थाप्य
 
 भणिष्यामि
@@ -17512,8 +15168,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 147)
 
-
-
 अंशस्योक्तावंशान्तरस्य
 
 निषेधे -
@@ -17526,8 +15180,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 क्रकचस्तुषारः
 
-
-
 क्षारो
 
 मृणालवलयानि
@@ -17536,15 +15188,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सर्वं
 
 दुरन्तमिदमद्य
 
 शिरीषमृद्वी
-
-
 
 सा
 
@@ -17557,8 +15205,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 148)
-
-
 
 जयदेवस्त्वित्थं
 
@@ -17574,8 +15220,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 चन्द्र
 
 सन्दर्शयात्मानमथवास्ति
@@ -17586,8 +15230,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.72)
 
-
-
 उत्तरार्धमस्य
 
 पद्यस्योदाहरणमेव
@@ -17595,8 +15237,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 द्योतयति
 
 ।
-
-
 
 विश्वनाथो
 
@@ -17613,8 +15253,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विकल्पतया
 
 अन्यथाप्याक्षेपमसौ
-
-
 
 लक्षयति,
 
@@ -17634,8 +15272,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.65)
 
-
-
 तथेति
 
 पूर्ववद्
@@ -17643,8 +15279,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विशेषप्रतिपत्तये
 
 ।
-
-
 
 उदा. -
 
@@ -17666,8 +15300,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ममापि
 
 जम््म
@@ -17687,8 +15319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 एकेन
 
 प्रस्तुतस्य
@@ -17704,8 +15334,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अशे.
 
 पृ.37)
-
-
 
 यथा -
 
@@ -17726,8 +15354,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तद्द्विपेन्द्रः
 
 ।
-
-
 
 दम्भोलिनाप्यलमयंयदि
 
@@ -17751,8 +15377,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.37)
 
-
-
 23\.
 
 विभावना -
@@ -17771,8 +15395,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ज्ञेया
 
 विभावनैवासौ
@@ -17787,8 +15409,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 2.77)
 
-
-
 रुद्रटेन
 
 अतिशयोक्तिमूलकालङ्कारेषु
@@ -17799,8 +15419,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सेयं
 
 विभावनाख्या
@@ -17808,8 +15426,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यस्यामुपलभ्यमानमभिधेयम्
 
 ।
-
-
 
 अभिधीयते
 
@@ -17821,15 +15437,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.16)
 
-
-
 निहतातुलतिमिरभरः
 
 स्फारस्फुरदुरुतरप्रभाप्रसरः
 
 ।
-
-
 
 शं
 
@@ -17843,8 +15455,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.17)
 
-
-
 यस्यां
 
 तथा
@@ -17854,8 +15464,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सुव्यक्तः
 
 ।
-
-
 
 प्रभवति
 
@@ -17871,8 +15479,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.18)
 
-
-
 जाता
 
 ते
@@ -17887,8 +15493,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कस्मादभवदकस्मादियममधुमदालसा
 
 दृष्टिः
@@ -17896,8 +15500,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.19)
-
-
 
 यस्य
 
@@ -17913,8 +15515,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्यस्यापि
 
 तथात्वं
@@ -17927,8 +15527,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.20)
 
-
-
 स्फुटमपरं
 
 निद्रायाः
@@ -17938,8 +15536,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पुंसाम्
 
 ।
-
-
 
 अपटलमान्ध्यनिमित्तं
 
@@ -17951,15 +15547,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.21)
 
-
-
 \-
 
 हेतुरूपक्रियानिषेधेऽपि
 
 फलप्रकाशनम्
-
-
 
 "
 
@@ -17972,8 +15564,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तच्चरणद्वयम्
 
 ।" (?)
-
-
 
 उक्ते - "
 
@@ -17997,8 +15587,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 अनुक्ते - "
 
 अनायासकृशं
@@ -18021,8 +15609,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 रुय्यकस्य
 
 यथा -
@@ -18034,8 +15620,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 41)
-
-
 
 उक्तनिमित्ताऽनुक्तनिमित्ता
 
@@ -18049,8 +15633,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 असंभृतं
 
 मण्डनमङ्गयष्टेरनासवाख्यं
@@ -18060,8 +15642,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मदस्य
 
 ।
-
-
 
 कामस्य
 
@@ -18079,8 +15659,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 161)
 
-
-
 द्वितीया
 
 यथा -
@@ -18088,8 +15666,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अङ्गलेखामकाश्मीरसमालम्भनपिञ्जराम्
 
 ।
-
-
 
 अनलक्तकताम्राभामोष्ठलेखां
 
@@ -18100,8 +15676,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 162)
-
-
 
 जयदेवोऽत्र
 
@@ -18117,8 +15691,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तदित्थम् -
 
-
-
 विभावना
 
 विनाऽपि
@@ -18132,8 +15704,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पश्य,
 
 लाक्षारसासिक्तं
@@ -18146,15 +15716,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.77)
 
-
-
 उदाहरणन्त्वत्रैव
 
 सन्निहितम्
 
 ।
-
-
 
 24\.
 
@@ -18171,8 +15737,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गुणान्तरसंस्थितिः
 
 ।
-
-
 
 विशेषप्रथनायासौ
 
@@ -18192,8 +15756,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उक्ते - "
 
 धनिनोऽपि
@@ -18208,8 +15770,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्रभवोऽप्यप्रमत्तास्ते
 
 महामहिमशालिनः
@@ -18219,8 +15779,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 साद. 67
 
 वृत्तौ)
-
-
 
 अनुक्ते - "
 
@@ -18236,8 +15794,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्रभवोऽप्यप्रमत्तास्ते
 
 कियन्तः
@@ -18252,8 +15808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 अचिन्त्ये - "
 
 स
@@ -18267,8 +15821,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुसुमायुधः
 
 ।
-
-
 
 हरतापि
 
@@ -18290,8 +15842,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 रुय्यककृतं
 
 लक्षणं
@@ -18306,8 +15856,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 42)
 
-
-
 सेयं
 
 विशेषोक्तिरुक्तनिमित्ताऽनुक्तनिमित्ता
@@ -18319,8 +15867,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 अनुक्तनिमित्ता
-
-
 
 पुनः
 
@@ -18336,15 +15882,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्रत्येकस्योदाहरणं
 
 यथा
 
 क्रमशः -
-
-
 
 \(1\)
 
@@ -18362,8 +15904,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 नमोऽस्त्ववार्यवीर्याय
 
 तस्मै
@@ -18374,8 +15914,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 163)
 
-
-
 \(2\)
 
 आहूतोऽपि
@@ -18385,8 +15923,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विमुक्तनिद्रोऽपि
 
 ।
-
-
 
 गन्तुमना
 
@@ -18404,8 +15940,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 164)
 
-
-
 \(3\)
 
 स
@@ -18419,8 +15953,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुसुमायुधः
 
 ।
-
-
 
 हरतापि
 
@@ -18440,8 +15972,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 165)
 
-
-
 रुय्यकमनुकुर्वतैव
 
 जयदेवेन
@@ -18449,8 +15979,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लक्षणं
 
 कृतम् -
-
-
 
 विशेषोक्तिरनुत्पत्तिः
 
@@ -18461,8 +15989,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कारणे
 
 ।
-
-
 
 नमन्तमपि
 
@@ -18478,15 +16004,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.78)
 
-
-
 उदाहरणन्त्वत्रैव
 
 निर्दिष्टम्
 
 ।
-
-
 
 25\.
 
@@ -18497,8 +16019,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भूयसामुपदिष्टानामर्थानामसधर्मणाम्
 
 ।
-
-
 
 क्रमशो
 
@@ -18511,8 +16031,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 2.89)
-
-
 
 रुद्रटमतेन -
 
@@ -18528,8 +16046,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पुनरपि
 
 तत्प्रतिबद्धास्तयैव
@@ -18541,8 +16057,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.34)
-
-
 
 तद्द्विगुणं
 
@@ -18557,8 +16071,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रम्यम्
 
 ।
-
-
 
 यत्
 
@@ -18578,8 +16090,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.35)
 
-
-
 त्रिगुणोदाहरणम् -
 
 कज्जलहिमकनकरुचः
@@ -18592,8 +16102,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जलनिधिगिरिपद्मस्था
 
 हरिहरचतुरानना
@@ -18604,8 +16112,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.36)
 
-
-
 द्वयोर्बहुगुणोदाहरणम् -
 
 दुग्धोदधिशैलस्थौ
@@ -18615,8 +16121,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 घनेन्दुरुची
 
 ।
-
-
 
 मधुमकरध्वजमथनौ
 
@@ -18629,8 +16133,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.37)
-
-
 
 मम्मटेन -
 
@@ -18647,8 +16149,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 सू. 164)
-
-
 
 यथा - "
 
@@ -18675,8 +16175,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 च
 
 ।
-
-
 
 तापं
 
@@ -18710,8 +16208,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 477)
 
-
-
 उद्दिष्टानामर्थानां
 
 क्रमेणानुनिर्देशो
@@ -18721,8 +16217,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 अस. 59)
-
-
 
 तच्च
 
@@ -18740,15 +16234,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 लावण्यौकसि
 
 सप्रतापगरिमण्यग्रेसरे
 
 त्यागिनां
-
-
 
 देवत्वय्यवनीभरक्षमभुजे
 
@@ -18757,8 +16247,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वेधसा
 
 ।
-
-
 
 इन्दुः
 
@@ -18774,8 +16262,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 किमुत्पादितं
 
-
-
 चिन्तारत्नमहो
 
 मुधैव
@@ -18789,8 +16275,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 198)
-
-
 
 द्वितीयो
 
@@ -18806,8 +16290,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जलनिधिगिरिकमलस्था
 
 हरिहरचतुरानना
@@ -18817,8 +16299,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 199)
-
-
 
 जयदेवस्य
 
@@ -18830,8 +16310,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 यथासंख्यं
 
 द्विधार्थाश्चेत्
@@ -18839,8 +16317,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 क्रमादेकैकमन्विताः
 
 ।
-
-
 
 शत्रुं
 
@@ -18858,8 +16334,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.92)
 
-
-
 26\.
 
 अर्थान्तरन्यासः -
@@ -18876,8 +16350,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यत्र
 
 सधर्मकमितरं
@@ -18887,8 +16359,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.79)
-
-
 
 तुङ्गानामपि
 
@@ -18901,8 +16371,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 छायाम्
 
 ।
-
-
 
 उपकर्तुं
 
@@ -18920,8 +16388,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.80)
 
-
-
 सकलमिदं
 
 सुखदुःखं
@@ -18934,8 +16400,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रमयन्तितरां
 
 तरुणीर्नखक्षतादीनि
@@ -18946,8 +16410,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.81)
 
-
-
 पूर्ववदभिधायैकं
 
 विशेषसामान्ययोर्द्वितीयं
@@ -18955,8 +16417,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तु
 
 ।
-
-
 
 तत्सिद्धयेऽभिदध्याद्विपरीतं
 
@@ -18968,8 +16428,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.82)
 
-
-
 अभिसारिकाभिरभिहतनिबिडतमा
 
 निन्द्यते
@@ -18977,8 +16435,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सितांशुरपि
 
 ।
-
-
 
 अनुकूलतया
 
@@ -18994,8 +16450,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.83)
 
-
-
 हृदयेन
 
 निर्वृतानां
@@ -19009,8 +16463,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निर्वृतये
 
 ।
-
-
 
 इन्दुरपि
 
@@ -19026,8 +16478,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.84)
 
-
-
 सामान्यावप्यर्थौ
 
 स्फुटमुपमायाः
@@ -19035,8 +16485,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्वरूपतोऽपेतौ
 
 ।
-
-
 
 निर्दिश्येते
 
@@ -19050,8 +16498,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.85)
 
-
-
 सकलजगत्साधारणविभवा
 
 भुवि
@@ -19061,8 +16507,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विरलाः
 
 ।
-
-
 
 सन्ति
 
@@ -19075,8 +16519,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.86)
-
-
 
 साधम्र्ये
 
@@ -19091,8 +16533,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विपरीतम्
 
 ।
-
-
 
 पश्यति
 
@@ -19110,8 +16550,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 478)
 
-
-
 सामान्येन
 
 विशेषसमर्थनं - "
@@ -19123,8 +16561,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 माधवः
 
 ।
-
-
 
 विरराम
 
@@ -19140,8 +16576,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 "
 
 हनुमानतरदÏ
@@ -19155,8 +16589,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 महात्मनाम्
 
 ।" (?)
-
-
 
 वैधम्र्ये
 
@@ -19174,8 +16606,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 असंजातकिणस्कन्धः
 
 सुखं
@@ -19190,8 +16620,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 480)
 
-
-
 सामान्येन
 
 विशेषसमर्थनं - "
@@ -19203,8 +16631,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भुवनत्रयम्
 
 ।
-
-
 
 शाम्येत्प्रत्यपकारेण
 
@@ -19218,8 +16644,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 रुय्यकस्तु -
 
 सामान्यविशेषकार्यकारणभावाभ्यां
@@ -19227,8 +16651,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निर्दिष्टप्रकृतसमर्थनमर्थान्तरन्यासः
 
 ।
-
-
 
 (
 
@@ -19248,8 +16670,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जयदेवस्य
 
 यथा -
@@ -19257,8 +16677,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भवेदर्थान्तरन्यासोऽनुषक्तार्थान्तराभिधा
 
 ।
-
-
 
 हनुमानब्धिमतरद्
 
@@ -19272,15 +16690,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.68)
 
-
-
 उदाहरणन्त्वत्रैव
 
 सुस्पष्टम्
 
 ।
-
-
 
 27\.
 
@@ -19300,8 +16714,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 या
 
 विशेषाभिधानाय
@@ -19316,8 +16728,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 3.25)
 
-
-
 रुद्रटस्य -
 
 यस्मिन्द्रव्यादीनां
@@ -19329,8 +16739,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विरुद्धानाम्
 
 ।
-
-
 
 एकत्रावस्थानं
 
@@ -19346,8 +16754,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.30)
 
-
-
 अस्य
 
 सजातीयानां
@@ -19360,8 +16766,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 भेदास्तन्नामानः
 
 पञ्च
@@ -19373,8 +16777,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.31)
-
-
 
 जातिद्रव्यविरोधी
 
@@ -19389,8 +16791,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 षडेते
 
 ।
-
-
 
 अन्ये
 
@@ -19408,8 +16808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.32)
 
-
-
 यत्रावश्यंभावी
 
 ययोः
@@ -19418,8 +16816,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एकत्र
 
 विरोधवतोस्तयोरभावोऽयमन्यस्तु
@@ -19427,8 +16823,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.33)
-
-
 
 अत्रेन्द्रनीलभित्तिषु
 
@@ -19442,8 +16836,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्योन्यानभिभूते
 
 तेजस्तमसी
@@ -19453,8 +16845,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.34)
-
-
 
 सत्यं
 
@@ -19468,8 +16858,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ब्रह्मन्परमसि
 
 विमलो
@@ -19480,8 +16868,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.35)
 
-
-
 बालमृगलोचनायाश्चरितमिदं
 
 चित्रमत्र
@@ -19491,8 +16877,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 माम्
 
 ।
-
-
 
 जडयति
 
@@ -19514,8 +16898,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.36)
 
-
-
 एकस्यामेव
 
 तनौ
@@ -19525,8 +16907,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 युगपन्नरत्वसिंहत्वे
 
 ।
-
-
 
 मनुजत्ववराहत्वे
 
@@ -19542,8 +16922,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.37)
 
-
-
 तेजस्विना
 
 गृहीतं
@@ -19555,8 +16933,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लोहमपि
 
 ।
-
-
 
 पात्रं
 
@@ -19573,8 +16949,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.38)
-
-
 
 सा
 
@@ -19594,15 +16968,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अभिनवकदम्बधूलीधूसरशुभ्रभ्रमद्भ्रमराः
 
 ॥ (
 
 कालरु. 9.39)
-
-
 
 वरतनु
 
@@ -19613,8 +16983,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लोके
 
 ।
-
-
 
 मन्थासि
 
@@ -19631,8 +16999,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.40)
-
-
 
 अविवेकितया
 
@@ -19654,8 +17020,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अनुरज्य
 
 चलप्रकृतौ
@@ -19671,8 +17035,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.41)
-
-
 
 न
 
@@ -19692,8 +17054,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यद्विरहानलतप्तं
 
 न
@@ -19710,8 +17070,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.42)
 
-
-
 नास्ते
 
 न
@@ -19726,8 +17084,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 चिरपरिचितां
 
 च
@@ -19739,8 +17095,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.43)
-
-
 
 न
 
@@ -19760,8 +17114,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कथमिव
 
 तत्पातालं
@@ -19775,8 +17127,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.44)
-
-
 
 विरोधः
 
@@ -19792,8 +17142,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 166)
 
-
-
 वस्तुवृत्तेऽविरोधेऽपि
 
 विरोधत्वेनाभिधानम् -
@@ -19805,8 +17153,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भेदाः
 
 ।
-
-
 
 1\.
 
@@ -19820,8 +17166,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सुभगकुरङ्गदृशोऽस्या
 
 विधिवशतस्त्वद्वियोगपविपाते
@@ -19831,8 +17175,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 482)
-
-
 
 2\.
 
@@ -19846,8 +17188,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विश्वम्भराप्यतिलघुर्नरनाथ
 
 तवान्तिके
@@ -19859,8 +17199,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 483)
-
-
 
 3\.
 
@@ -19875,8 +17213,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 संप्राप्य
 
 धाराधर-
-
-
 
 स्तीक्ष्णः
 
@@ -19894,8 +17230,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तेषां
 
 संगरसंगसक्तमनसां
@@ -19905,8 +17239,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 त्वया
 
 भूपते
-
-
 
 पांसूनां
 
@@ -19921,8 +17253,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 484)
-
-
 
 4\.
 
@@ -19950,8 +17280,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अवसरवशतः
 
 शफरो
@@ -19968,8 +17296,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 485)
 
-
-
 5\.
 
 गुणेन
@@ -19985,8 +17311,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नृपते
 
 ।
-
-
 
 द्विजपत्नीनां
 
@@ -20006,8 +17330,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 486)
 
-
-
 6\.
 
 क्रियया
@@ -20026,8 +17348,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 परुषमपि
 
 सुजनवाक्यं
@@ -20042,8 +17362,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 487)
 
-
-
 7\.
 
 द्रव्येण
@@ -20055,8 +17373,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यन्मार्गणानर्गलशातपाते
 
 ।
-
-
 
 अभून्नवाम्भोजदलाभिजातः
 
@@ -20072,8 +17388,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 488)
 
-
-
 8\.
 
 क्रियया
@@ -20083,8 +17397,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 परिच्छेदातीतः
 
 सकलवचनानामविषयः
-
-
 
 पुनर्जन्मन्यस्मिन्ननुभवपथं
 
@@ -20096,11 +17408,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विवेकप्रध्वंसादुपचितमहामोहगहनो
-
-
 
 विकारः
 
@@ -20120,8 +17428,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 489)
 
-
-
 9\.
 
 द्रव्येण
@@ -20140,13 +17446,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इति
 
-
-
 श्रितोऽस्माभिस्तृष्णातरलितमनोभिर्जलनिधिः
 
 ।
-
-
 
 क
 
@@ -20155,8 +17457,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 जानीते
 
 निजकरपुटीकोटरगतं
-
-
 
 क्षणादेनं
 
@@ -20170,8 +17470,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 490)
 
-
-
 10\.
 
 द्रव्यस्य
@@ -20181,8 +17479,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 समदमतङ्गजमदजलनिःस्यन्दतरङ्गिणीपरिष्वङ्गात्
 
 ।
-
-
 
 क्षितितिलक
 
@@ -20200,8 +17496,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 491)
 
-
-
 रुय्यकोऽपि "
 
 विरुद्धाभासत्वं
@@ -20218,15 +17512,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 मम्मटस्येव
 
-
-
 दशभेदान्
 
 स्वीकुरुते
 
 ।
-
-
 
 जयदेवस्य
 
@@ -20237,8 +17527,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गुणद्रव्यक्रियादिषु
 
 ।
-
-
 
 अमन्दचन्दनस्यन्दः
 
@@ -20251,8 +17539,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.74)
-
-
 
 28\.
 
@@ -20268,8 +17554,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अर्थस्य
 
 तदवस्थत्वं
@@ -20281,8 +17565,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 2.93)
-
-
 
 रुद्रटस्तु
 
@@ -20296,8 +17578,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 संस्थानावयवस्थानक्रियादि
 
 यद्यस्य
@@ -20307,8 +17587,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भवति
 
 ।
-
-
 
 लोके
 
@@ -20322,13 +17600,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.30)
 
-
-
 शिशुमुग्धयुवतिकातरतिर्यक्सम्भ्रान्तहीनपात्राणाम्
 
 ।
-
-
 
 सा
 
@@ -20342,8 +17616,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.31)
 
-
-
 उदाहरणम् -
 
 धूलीधूसरतनवो
@@ -20351,8 +17623,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 राज्यस्थितिरचनकल्पितैकनृपाः
 
 ।
-
-
 
 कृतमुखवाद्यविकाराः
 
@@ -20365,8 +17635,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.32)
-
-
 
 मम्मटेन -
 
@@ -20382,8 +17650,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 168)
 
-
-
 पश्चादङ्घ्री
 
 प्रसार्य
@@ -20391,8 +17657,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 त्रिकनतिविततं
 
 द्राघयित्वाङ्गमुच्चैः
-
-
 
 आसज्याभुग्नकण्ठो
 
@@ -20406,11 +17670,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 घासग्रासाभिलाषादनवरतचलत्प्रोथतुण्डस्तुरङ्गो
-
-
 
 मन्दं
 
@@ -20430,8 +17690,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 492)
 
-
-
 उदाहरणान्तरम् -
 
 करारविन्देन
@@ -20443,8 +17701,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विनिवेशयन्तम्
 
 ।
-
-
 
 वटस्य
 
@@ -20464,8 +17720,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥ (?)
 
-
-
 रुय्यकोऽत्र
 
 ब्रूते -
@@ -20480,8 +17734,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 79)
 
-
-
 उदाहरणं
 
 यथा -
@@ -20489,8 +17741,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हुंकारो
 
 नखकोटिचञ्चुपुटकव्याघट्टनोट्टङ्कित-
-
-
 
 स्तन्व्याः
 
@@ -20500,11 +17750,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पृष्ठश्लिष्यदवामनस्तनभरोत्सेधाङ्कपालीसुधा-
-
-
 
 सेकाकेकरलोचनस्य
 
@@ -20515,8 +17761,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 251)
-
-
 
 जयदेवस्य
 
@@ -20534,8 +17778,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कुरङ्गैरुत्तरङ्गाक्षि
 
 स्तब्धकर्णैरुदीक्ष्यते
@@ -20543,8 +17785,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.112)
-
-
 
 यथास्थितवस्तुस्वरूपवर्णनमग्राम्यं
 
@@ -20555,8 +17795,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 च
 
 त्रस्तार्भकदीनतिर्यग्युवतिप्रभृतिषु
-
-
 
 विशेषतो
 
@@ -20570,8 +17808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.32)
 
-
-
 29\.
 
 व्याजस्तुतिः -
@@ -20581,8 +17817,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तुल्यताम्
 
 ।
-
-
 
 किञ्चिद्विधित्सोर्या
 
@@ -20595,8 +17829,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 3.31)
-
-
 
 मम्मटमतेन -
 
@@ -20614,8 +17846,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू.169)
 
-
-
 हित्वा
 
 त्वामुपरोधवन्ध्यमनसां
@@ -20628,8 +17858,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 परः
 
-
-
 लज्जावर्जनमन्तरेण
 
 न
@@ -20640,8 +17868,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यस्त्यागं
 
 तनुतेतरां
@@ -20649,8 +17875,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मुखशतैरेत्याश्रितायाः
 
 श्रियः
-
-
 
 प्राप्य
 
@@ -20668,8 +17892,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 493)
 
-
-
 हे
 
 हेलाजितबोधिसत्त्व
@@ -20679,8 +17901,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 किं
 
 विस्तरैस्तोयधे
-
-
 
 नास्ति
 
@@ -20694,11 +17914,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तृष्यत्पान्थजनोपकारघटनावैमुख्यलब्धायशो
-
-
 
 भारप्रोद्वहने
 
@@ -20716,15 +17932,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 494)
 
-
-
 रुय्यकस्य
 
 संविधानं
 
 यथा -
-
-
 
 स्तुतिनिन्दाभ्यां
 
@@ -20740,8 +17952,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 37)
 
-
-
 सेयं
 
 व्याजस्तुतिः
@@ -20753,8 +17963,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निन्दायाः
 
 स्तुतिरूपेण
-
-
 
 पर्वसानरूपा
 
@@ -20770,8 +17978,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 हे
 
 हेलाजितबोधिसत्त्व
@@ -20781,8 +17987,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 किं
 
 विस्तरैस्तोयधे
-
-
 
 नास्ति
 
@@ -20796,11 +18000,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तृष्यत्पान्थजनोपकारघटनावैमुख्यलब्धायशो-
-
-
 
 भारप्रोद्वहने
 
@@ -20816,8 +18016,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 142)
 
-
-
 इन्दोर्लक्ष्म
 
 त्रिपुरजयिनः
@@ -20825,8 +18023,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कण्ठपीठी
 
 मुरारि-
-
-
 
 र्दिङ्नागानां
 
@@ -20836,13 +18032,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अद्याप्युर्वीवलयतिलक
 
 श्यामलिम्नानुलिप्ता-
-
-
 
 न्युद्भासन्ते
 
@@ -20858,8 +18050,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 143)
 
-
-
 जयदेवस्य
 
 यथा -
@@ -20869,8 +18059,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्तुतिनिन्दयोः
 
 ।
-
-
 
 कस्ते
 
@@ -20888,8 +18076,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.71)
 
-
-
 30\.
 
 सहोक्तिः -
@@ -20905,8 +18091,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 एकायामेव
 
 क्रियायां
-
-
 
 प्रयुक्तायां
 
@@ -20928,8 +18112,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पदेनैकेन
 
 कथ्येते
@@ -20945,8 +18127,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 3.39)
-
-
 
 दण्डी
 
@@ -20968,8 +18148,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रुद्रटमतेन
 
 वास्तवमूलकोऽयमलङ्कारः
@@ -20980,8 +18158,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 भवति
 
 यथारूपोऽर्थः
@@ -20991,8 +18167,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तथाभूतम्
 
 ।
-
-
 
 उक्तिस्तस्य
 
@@ -21012,8 +18186,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.13)
 
-
-
 उदाहरणम् -
 
 कष्टं
@@ -21032,8 +18204,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्रतिदिनमुपैति
 
 वृदिं्ध
@@ -21043,8 +18213,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.14)
-
-
 
 रुद्रटमतेन
 
@@ -21070,8 +18238,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अभिधानं
 
 यत्
@@ -21086,8 +18252,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.15)
 
-
-
 भवदपराधैः
 
 सार्धं
@@ -21099,8 +18263,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तस्याः
 
 ।
-
-
 
 क्षयमेति
 
@@ -21116,8 +18278,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.16)
 
-
-
 रुद्रटमतेन
 
 प्रकारान्तरम् -
@@ -21129,8 +18289,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यावर्थावेककालमेकविधौ
 
 ।
-
-
 
 भवतस्तत्कथनं
 
@@ -21146,8 +18304,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.17)
 
-
-
 उदाहरणम् -
 
 कुमुददलैः
@@ -21162,8 +18318,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सह
 
 कमलैर्ललनानां
@@ -21176,8 +18330,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.18)
 
-
-
 औपम्यमूलकालङ्कारेषु
 
 पृथक्तया
@@ -21187,8 +18339,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सहोक्तिरलक्षिता,
 
 यथा -
-
-
 
 सा
 
@@ -21201,8 +18351,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 योऽर्थः
 
 ।
-
-
 
 तस्य
 
@@ -21220,13 +18368,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.99)
 
-
-
 मधुपानोद्धतमधुकरमदकलकलकण्ठदीपितोत्कण्ठाः
 
 ।
-
-
 
 सपदि
 
@@ -21246,8 +18390,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.100)
 
-
-
 यत्रैककर्तृका
 
 स्यादनेककर्माश्रिता
@@ -21257,8 +18399,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्र
 
 ।
-
-
 
 कथ्येतापरसहितं
 
@@ -21271,8 +18411,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.101)
-
-
 
 स
 
@@ -21288,8 +18426,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ननु
 
 कोपनेऽवकाशः
@@ -21302,8 +18438,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.102)
 
-
-
 रुय्यकस्तु
 
 उपमानोपमेययोरेकस्य
@@ -21311,8 +18445,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्राधान्यनिर्देशेऽपरस्य
 
 सहार्थसम्बन्धे
-
-
 
 सहोकिं्त
 
@@ -21338,8 +18470,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 कार्यकारणप्रतिनियमविपर्ययरूपा
 
 यथा - "
@@ -21353,8 +18483,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वर्धतेतरामस्याः
 
 ।"
-
-
 
 श्लेषभित्तिकाभेदाध्यवसायरूपा
 
@@ -21374,8 +18502,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 अश्लेषमूला
 
 सहोक्तिर्यथा - "
@@ -21392,8 +18518,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।"
 
-
-
 जयदेवस्य
 
 मतेन -
@@ -21408,8 +18532,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 दिगन्तमगमद्
 
 यस्य
@@ -21422,8 +18544,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.60)
 
-
-
 एवमेव
 
 विद्यानाथ-
@@ -21433,8 +18553,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 धर्मसूरिप्रमुखाः
 
 ।
-
-
 
 मम्मटमतेन
 
@@ -21458,8 +18576,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 170)
 
-
-
 सह
 
 दिअहणिसाहिं
@@ -21477,8 +18593,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गलन्ति
 
 ।
-
-
 
 तुह
 
@@ -21506,8 +18620,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 495)
 
-
-
 31\.
 
 विनोक्तिः -
@@ -21528,8 +18640,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 भवति,
 
-
-
 न
 
 इतरः
@@ -21543,8 +18653,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 क्वचिदशोभनः
 
 ।
-
-
 
 अरुचिर्निशया
 
@@ -21561,8 +18669,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 महत्तमः
 
 ।
-
-
 
 उभयेन
 
@@ -21582,8 +18688,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 496)
 
-
-
 मृगलोचनया
 
 विना
@@ -21591,8 +18695,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विचित्रव्यवहारप्रतिभाप्रभाप्रगल्भः
 
 ।
-
-
 
 अमृतद्युतिसुन्दराशयोऽयं
 
@@ -21610,8 +18712,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 497)
 
-
-
 धर्मसूरिरस्यामौपम्यस्य
 
 गम्यत्वं
@@ -21624,8 +18724,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.586)
 
-
-
 रुय्यकस्तु
 
 मम्मटस्याभिमतं
@@ -21637,8 +18735,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कञ्चिदन्यस्य
 
 सदसत्त्वाभावो
-
-
 
 विनोक्तिः" (
 
@@ -21658,8 +18754,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एवमसत्त्वस्याशोभनत्वस्याभावोऽशोभनत्वम्
 
 ।
@@ -21671,8 +18765,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यत्र
 
 कस्यचिदसन्निधानान्निबध्येते
-
-
 
 सा
 
@@ -21704,8 +18796,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रहिता
 
 सत्कवित्वेन
@@ -21718,8 +18808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 93)
 
-
-
 द्वितीया
 
 यथा -
@@ -21731,8 +18819,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विचित्रव्यवहारप्रतिभाप्रभाप्रगल्भः
 
 ।
-
-
 
 अमृतद्युतिसुन्दराशयोऽयं
 
@@ -21747,8 +18833,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 95)
-
-
 
 जयदेवस्य
 
@@ -21766,8 +18850,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विद्या
 
 हृद्यापि
@@ -21781,8 +18863,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.61)
-
-
 
 32\.
 
@@ -21798,8 +18878,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अर्थान्तरन्यासवती
 
 परिवृत्तिरसौ
@@ -21809,8 +18887,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 3.41)
-
-
 
 रुद्रटस्य -
 
@@ -21823,8 +18899,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यत्
 
 ।
-
-
 
 क्वचिदुपचर्येते
 
@@ -21840,8 +18914,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.77)
 
-
-
 उदाहरणम् -
 
 दत्वा
@@ -21855,8 +18927,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 त्वया
 
 क्रीताः
-
-
 
 किं
 
@@ -21874,8 +18944,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.78)
 
-
-
 मम्मटेन -
 
 परिवृत्तिर्विनिमयो
@@ -21889,8 +18957,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 सू. 172)
-
-
 
 लतानामेतासामुदितकुसुमानां
 
@@ -21908,8 +18974,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 लतास्त्वध्वन्यानामहह
 
 दृशमादाय
@@ -21923,8 +18987,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 498)
-
-
 
 प्रथमार्धे
 
@@ -21940,8 +19002,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 नानाविधैः
 
 प्रहरणैर्नृप
@@ -21956,8 +19016,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 दृप्तारिवीरविजयेन
 
 वसुन्धरेयं
@@ -21969,8 +19027,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 499)
-
-
 
 तदत्र
 
@@ -21986,8 +19042,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इति
 
-
-
 लक्षणं
 
 विधाय
@@ -22002,15 +19056,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 जयदेवोऽत्र
 
-
-
 प्रकारान्तरेण
 
 रुय्यकमेवानुकरोति
 
 ।
-
-
 
 33\.
 
@@ -22028,8 +19078,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्रत्यक्षा
 
 इव
@@ -22043,8 +19091,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 3.53)
-
-
 
 प्रत्यक्षा
 
@@ -22070,8 +19116,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 173)
 
-
-
 भावः
 
 कवेरभिप्रायोऽत्रास्तीति
@@ -22082,8 +19126,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 आसीदञ्जनमत्रेति
 
 पश्यामि
@@ -22093,8 +19135,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लोचने
 
 ।
-
-
 
 भाविभूषणसम्भारां
 
@@ -22108,8 +19148,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 500)
 
-
-
 रुय्यकस्त्वत्र
 
 प्रकारान्तरेण
@@ -22122,15 +19160,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 चन्द्रालोककारस्यापि
 
 संविधानमेतत्सहकृतमेव
 
 ।
-
-
 
 34\.
 
@@ -22152,8 +19186,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सोऽलङ्कारो
 
 हेतुः
@@ -22166,8 +19198,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.82)
 
-
-
 उदाहरणम् -
 
 अविरलकमलविकासः
@@ -22177,8 +19207,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कोकिलानन्दः
 
 ।
-
-
 
 रम्योऽयमेति
 
@@ -22192,8 +19220,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.83)
 
-
-
 काव्यलिङ्गं
 
 हेतोर्वाक्यपदार्थता
@@ -22203,8 +19229,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 सू. 174)
-
-
 
 मम्मटमतेनास्य
 
@@ -22220,8 +19244,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 क्रमेणोदाहरणानि
 
 ।
@@ -22233,8 +19255,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 जन्मनि
 
 पुरा
-
-
 
 पुरारे
 
@@ -22250,15 +19270,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 नमन्
 
 मुक्तः
 
 सम्प्रत्यहमतनुरग्रेऽप्यनतिभाक्
-
-
 
 महेश
 
@@ -22272,8 +19288,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 501)
 
-
-
 प्रणयिसखीसलीलपरिहासरसाधिगतैर्ललितशिरीषपुष्पहननैरपि
 
 ताम्यति
@@ -22281,8 +19295,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यत्
 
 ।
-
-
 
 वपुषि
 
@@ -22308,8 +19320,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 502)
 
-
-
 भस्मोद्धूलनभद्रमस्तु
 
 भवते
@@ -22317,8 +19327,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रुद्राक्षमाले
 
 शुभं
-
-
 
 हा
 
@@ -22328,15 +19336,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अद्याराधनतोषितेन
 
 विभुना
 
 युष्मत्सपर्यासुखा-
-
-
 
 लोकोच्छेदिनि
 
@@ -22352,15 +19356,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 503)
 
-
-
 रुय्यकोऽप्यत्र
 
 मम्मटमेवानुकरोति
 
 ।
-
-
 
 जयदेवस्याभिमतं
 
@@ -22376,8 +19376,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जितोऽसि
 
 मन्दकन्दर्प
@@ -22389,8 +19387,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.38)
-
-
 
 35\.
 
@@ -22405,8 +19401,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दृश्यते
 
 ।
-
-
 
 पर्यायेण
 
@@ -22424,8 +19418,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अग्नौ
 
-
-
 चास्ति
 
 ।
@@ -22442,8 +19434,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उवाच
 
 रत्नाहरणे
@@ -22455,8 +19445,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 3.8)
-
-
 
 इष्टार्थमनभिधाय
 
@@ -22472,8 +19460,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 वाच्यवाचकव्यापारशून्यतया
 
 अवगमनव्यापारेण
@@ -22486,8 +19472,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पर्यायोक्तमिति
 
-
-
 उद्भटः
 
 ।
@@ -22497,8 +19481,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 द्रढयति
 
 मम्मटः -
-
-
 
 पर्यायोक्तं
 
@@ -22516,8 +19498,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 175)
 
-
-
 वाच्यवाचकव्यतिरिक्तेन
 
 अवगमनव्यापारेण
@@ -22530,8 +19510,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पर्यायेण
 
-
-
 भङ्ग्यन्तरेण
 
 कथनात्
@@ -22539,8 +19517,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पर्यायोक्तम्
 
 ।
-
-
 
 यं
 
@@ -22566,8 +19542,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 504)
 
-
-
 रुय्यकेनाप्येतत्समथ्र्यते -
 
 गम्यस्यापि
@@ -22580,8 +19554,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 36)
 
-
-
 उदा. -
 
 स्पृष्टास्ता
@@ -22593,8 +19565,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 केशसंभोगलालिताः
 
 ।
-
-
 
 सावज्ञं
 
@@ -22610,8 +19580,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 141)
 
-
-
 जयदेवस्य
 
 मतन्त्वेतस्माद्भिन्नमवलम्बते
@@ -22619,8 +19587,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 तद्धि -
-
-
 
 कार्याद्यैः
 
@@ -22632,8 +19598,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तृणान्यङ्कुरयामास
 
 विपक्षनृपसद्मसु
@@ -22641,8 +19605,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.70)
-
-
 
 ठ्ठड्डड्ड
 
@@ -22653,8 +19615,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दृढ
 
 क़्ण्ठ्ठद्धथ्र्ठ्ठद्मद्वद्धत्.
-
-
 
 36\.
 
@@ -22668,8 +19628,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तद्यथा -
 
-
-
 उदात्तं
 
 शक्तिमान्
@@ -22679,8 +19637,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गुरुवाक्यानुरोधकः
 
 ।
-
-
 
 विहायोपनतं
 
@@ -22694,8 +19650,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालभा. 3.11)
 
-
-
 उदात्तं
 
 वस्तुनः
@@ -22706,15 +19660,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 176)
 
-
-
 मुक्ताः
 
 केलिविसूत्रहारगलिताः
 
 सम्मार्जनीभिर्हृताः
-
-
 
 प्रातः
 
@@ -22726,15 +19676,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 दूराद्दाडिमबीजशङ्कितधियः
 
 कर्षन्ति
 
 केलीशुकाः
-
-
 
 यद्
 
@@ -22749,8 +19695,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 505)
-
-
 
 मम्मटमतेन
 
@@ -22772,8 +19716,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 177)
 
-
-
 उदाहरणम् -
 
 तदिदमरण्यं
@@ -22783,8 +19725,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दशरथवचनानुपालनव्यसनी
 
 ।
-
-
 
 निवसन्
 
@@ -22802,8 +19742,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 506)
 
-
-
 रुय्यकोऽत्र
 
 प्रथममेव
@@ -22818,8 +19756,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 81)
 
-
-
 उदाहरणन्तु
 
 तदेव,
@@ -22831,8 +19767,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रतिपादितम्
 
 ।
-
-
 
 जयदेवकृतं
 
@@ -22850,8 +19784,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सानौ
 
 यस्याभवद्
@@ -22863,8 +19795,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.115)
-
-
 
 37\.
 
@@ -22884,8 +19814,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ज्ञेयः
 
 समुच्चयोऽसौ
@@ -22898,13 +19826,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.19)
 
-
-
 क्रमेण
 
 उदाहरणानि -
-
-
 
 दुर्गं
 
@@ -22921,8 +19845,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 राक्षसाः
 
 ।
-
-
 
 नरोऽभियोक्ता
 
@@ -22942,8 +19864,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.20)
 
-
-
 सुखमिदमेतावदिह
 
 स्फारस्फुरदिन्दुमण्डला
@@ -22951,8 +19871,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रजनी
 
 ।
-
-
 
 सौधतलं
 
@@ -22968,8 +19886,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.21)
 
-
-
 तरलत्वममालिन्यं
 
 पक्ष्मलतामायतिं
@@ -22977,8 +19893,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सुमाधुर्यम्
 
 ।
-
-
 
 आधास्यन्नस्त्रत्वं
 
@@ -22989,8 +19903,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुरुते
 
 ॥
-
-
 
 प्रस्फुरन्नधरोष्ठं
 
@@ -23004,8 +19916,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मण्डयति
 
 रहसि
@@ -23015,8 +19925,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुसुमशरस्तरलयन्नयने
 
 ॥
-
-
 
 सतोर्योगः -
 
@@ -23029,8 +19937,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सुधाचन्द्रे
 
 ।
-
-
 
 क्वचिदपि
 
@@ -23046,8 +19952,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 असतोर्योगः -
 
 आलिङ्गिताः
@@ -23058,8 +19962,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मरुतोऽतिखराः
 
 ग्रीष्मे
@@ -23069,8 +19971,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मरौ
 
 ॥
-
-
 
 सदसतोर्योगः -
 
@@ -23084,8 +19984,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रमणीष्वपि
 
 दुश्चरितं
@@ -23098,8 +19996,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.22-26)
 
-
-
 रुद्रट
 
 मतेन
@@ -23107,8 +20003,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 समुच्चयस्य
 
 प्रकारान्तरम् -
-
-
 
 व्यधिकरणे
 
@@ -23121,8 +20015,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चैककालमेकस्मिन्
 
 ।
-
-
 
 उपजायेते
 
@@ -23138,8 +20030,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.27)
 
-
-
 उदाहरणम् -
 
 विदलितसकलारिकुलं
@@ -23153,8 +20043,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 च
 
 ।
-
-
 
 प्रस्खलन्मुखानि
 
@@ -23172,8 +20060,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.28)
 
-
-
 क्रियासमुच्चयः -
 
 दैवादहमत्र
@@ -23186,8 +20072,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अविरलविलोलजलदः
 
 कालः
@@ -23197,8 +20081,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.29)
-
-
 
 औपम्यमूलकालङ्कारेषु
 
@@ -23212,8 +20094,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 च -
 
-
-
 सोऽयं
 
 समुच्चयः
@@ -23224,8 +20104,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अनिवादिद्र्रव्यादिः
 
 सत्युपमानोपमेयत्वे
@@ -23233,8 +20111,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.103)
-
-
 
 जालेन
 
@@ -23252,8 +20128,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 संसारे
 
 भूतसृजा
@@ -23268,15 +20142,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.104)
 
-
-
 अथ
 
 मम्मटकृतं
 
 समुच्चयलक्षणम् -
-
-
 
 तत्सिद्धिहेतावेकस्मिन्
 
@@ -23294,8 +20164,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 178)
 
-
-
 अयं
 
 सद्योगे
@@ -23310,8 +20178,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 दुर्वाराः
 
 स्मरमार्गणाः
@@ -23321,8 +20187,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दूरे
 
 मनोऽत्युत्सुकं
-
-
 
 गाढं
 
@@ -23340,8 +20204,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 स्त्रीत्वं
 
 धैर्यविरोधि
@@ -23351,8 +20213,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कालः
 
 कृतान्तोऽक्षमो
-
-
 
 नो
 
@@ -23380,8 +20240,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 507)
 
-
-
 कुलममलिनं
 
 भद्रा
@@ -23389,8 +20247,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मूर्तिर्मतिः
 
 श्रुतिशालिनी
-
-
 
 भुजबलमलं
 
@@ -23402,8 +20258,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्रकृतिसुभगा
 
 ह्येते
@@ -23413,8 +20267,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अमीभिरयं
 
 जनो
-
-
 
 व्रजति
 
@@ -23444,8 +20296,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 508)
 
-
-
 शशी
 
 दिवसधूसरो
@@ -23453,8 +20303,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विगतयौवना
 
 कामिनी
-
-
 
 सरो
 
@@ -23466,15 +20314,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्रभुर्धनपरायणः
 
 सततदुर्गतः
 
 सज्जनो
-
-
 
 नृपाङ्गणगतः
 
@@ -23500,8 +20344,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 509)
 
-
-
 तदिदं
 
 तत्त्वं
@@ -23518,8 +20360,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तदेवम् -
 
-
-
 एकस्य
 
 सिद्धिहेतुत्वेऽन्यस्य
@@ -23534,8 +20374,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 67)
 
-
-
 जयदेवस्याभिधानं
 
 यथा -
@@ -23547,8 +20385,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 समुच्चयः
 
 ।
-
-
 
 नश्यन्ति
 
@@ -23567,8 +20403,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.97)
-
-
 
 38\.
 
@@ -23594,8 +20428,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 179)
 
-
-
 विदलितसकलारिकुलं
 
 तव
@@ -23607,8 +20439,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 च
 
 ।
-
-
 
 प्रखलमुखानि
 
@@ -23632,8 +20462,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 510)
 
-
-
 अयमेकपदे
 
 तया
@@ -23650,8 +20478,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 नववारिधरोदयादहोभिर्भवितव्यं
 
 च
@@ -23664,15 +20490,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 511)
 
-
-
 अत्र
 
 क्रिययोर्यौगपद्यम्
 
 ।
-
-
 
 कलुषं
 
@@ -23685,8 +20507,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चक्षुः
 
 ।
-
-
 
 पतितं
 
@@ -23708,15 +20528,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 512)
 
-
-
 अत्र
 
 गुणक्रिययोर्यौगपद्यम्
 
 ।
-
-
 
 गुणक्रियायौगपद्यं
 
@@ -23728,8 +20544,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रुय्यकस्यानेन
 
 प्रथमसमुच्चयगतलक्षणेन
@@ -23740,13 +20554,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इत्यस्याभिव्यक्तिः
 
-
-
 सहक्रियते
 
 ।
-
-
 
 39\.
 
@@ -23761,8 +20571,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तस्य
 
 ।
-
-
 
 यदजनकमजन्यं
 
@@ -23782,8 +20590,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.42)
 
-
-
 उदाहरणम् -
 
 राजन्
@@ -23795,8 +20601,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रिपुबन्दीनिबिडनिगडशब्देन
 
 ।
-
-
 
 तेनैव
 
@@ -23812,8 +20616,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.43)
 
-
-
 एकं
 
 प्रकारान्तरमाह -
@@ -23825,8 +20627,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्यात्
 
 ।
-
-
 
 वस्तु
 
@@ -23844,8 +20644,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.44)
 
-
-
 उदाहरणम् -
 
 कमलेषु
@@ -23857,8 +20655,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुमुदेभ्यः
 
 ।
-
-
 
 नभसोऽपससार
 
@@ -23874,8 +20670,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.45)
 
-
-
 मम्मटमतेन -
 
 क्रमेणानेकस्मिन्
@@ -23887,8 +20681,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 सू. 180)
-
-
 
 वास्तविके
 
@@ -23904,8 +20696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 नन्वाश्रयस्थितिरियं
 
 तव
@@ -23915,8 +20705,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 केनोत्तरोत्तरविशिष्टपदोपदिष्टा
 
 ।
-
-
 
 प्रागर्णवस्य
 
@@ -23940,8 +20728,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 513)
 
-
-
 बिम्बोष्ठ
 
 एव
@@ -23953,8 +20739,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पूर्मदृश्यत
 
 ।
-
-
 
 अधुना
 
@@ -23976,8 +20760,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तं
 
 ताण
@@ -23987,8 +20769,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हिअअमेक्करसम्
 
 ।
-
-
 
 बिम्बाहरे
 
@@ -24012,8 +20792,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 40\.
 
 पर्यायः (
@@ -24028,8 +20806,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 181)
 
-
-
 अनेकमेकस्मिन्
 
 भवति
@@ -24039,8 +20815,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वा
 
 ।
-
-
 
 मधुरिमरुचिरं
 
@@ -24055,8 +20829,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 व्यनक्ति
 
 ।
-
-
 
 अथ
 
@@ -24076,8 +20848,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 516)
 
-
-
 तद्
 
 गेहं
@@ -24089,8 +20859,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लब्धावकाशं
 
 दिवः
-
-
 
 सा
 
@@ -24106,8 +20874,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 स
 
 क्षुद्रो
@@ -24119,8 +20885,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सङ्गीतकं
 
 योषिताम्
-
-
 
 आश्चर्यं
 
@@ -24135,8 +20899,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 517)
-
-
 
 रुय्यकोऽपि
 
@@ -24154,8 +20916,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृथक्
 
-
-
 व्यवस्थापितयोः
 
 पर्याययोः
@@ -24172,8 +20932,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तदित्थम् -
 
 एकमनेकस्मिन्ननेकमेकस्मिन्
@@ -24185,8 +20943,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 60)
-
-
 
 द्वितीयस्तु -
 
@@ -24200,8 +20956,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 61)
 
-
-
 तत्रानेकोऽसंहतरूपः
 
 संहतरूपश्चेति
@@ -24214,8 +20968,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 द्वैविध्यमाधाराधेयगतमिति
 
-
-
 चत्वारोऽस्य
 
 भेदाः
@@ -24223,8 +20975,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 क्रमेणोदाहरणानि -
-
-
 
 नन्वाश्रयस्थितिरियं
 
@@ -24235,8 +20985,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 केनोत्तरोत्तरविशिष्टपदोपदिष्टा
 
 ।
-
-
 
 प्रागर्णवस्य
 
@@ -24258,8 +21006,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 200)
 
-
-
 विसृष्टरागादधरान्निवर्तितः
 
 स्तनाङ्गरागारुणिताच्च
@@ -24267,8 +21013,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कन्दुकात्
 
 ।
-
-
 
 कुशाङ्कुरादानपरिक्षताङ्गुलिः
 
@@ -24282,8 +21026,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 201)
 
-
-
 निशासु
 
 भास्वत्कलनूपुराणां
@@ -24293,8 +21035,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 संचरोऽभूदभिसारिकाणाम्
 
 ।
-
-
 
 नदन्मुखोल्काविचितामिषाभिः
 
@@ -24310,8 +21050,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 202)
 
-
-
 यत्रैव
 
 मुग्धेति
@@ -24325,8 +21063,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 महोत्सवोऽभूत्
 
 ।
-
-
 
 तत्रैव
 
@@ -24344,8 +21080,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 203)
 
-
-
 चन्द्रालोककारस्त्वित्थं
 
 ब्रूते -
@@ -24357,8 +21091,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 समन्वयः
 
 ।
-
-
 
 पद्मं
 
@@ -24374,8 +21106,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.93)
 
-
-
 विश्वनाथस्तु
 
 मम्मटेन
@@ -24387,8 +21117,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 व्यवस्थापितयोरुभयोरपि
 
 पर्याययोर्लक्षणे
-
-
 
 एकालङ्कारतया
 
@@ -24403,8 +21131,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 क्रमात्
 
 ।
-
-
 
 भवति
 
@@ -24424,8 +21150,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.79-80)
 
-
-
 क्रमेणास्योदाहरणानि
 
 तत्रैव -
@@ -24441,8 +21165,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पयोधरोत्सेधनिपातचूर्णिताः
 
 ।
-
-
 
 वलीषु
 
@@ -24464,8 +21186,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 इति
 
 कालिदासीय-
@@ -24477,8 +21197,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पार्वतीवर्णनं
 
 प्रथमस्य,
-
-
 
 विचरन्ति
 
@@ -24497,8 +21215,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तव
 
 ॥
-
-
 
 (
 
@@ -24524,13 +21240,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सम्पादने,
 
-
-
 विधानवर्णने
 
 वोदाहरणानि -
-
-
 
 विसृष्टरागादधरान्निवर्तितः,
 
@@ -24539,8 +21251,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कन्दुकात्
 
 ।
-
-
 
 कुशाङ्कुरादानपरिक्षताङ्गुलिः
 
@@ -24556,15 +21266,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 ययोरारोपितस्तारो
 
 हारस्तेऽरिवधूजनैः
 
 ।
-
-
 
 निधीयन्ते
 
@@ -24581,8 +21287,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 एकस्य
 
@@ -24604,8 +21308,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 41\.
 
 अनुमानम् -
@@ -24626,8 +21328,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पुनरन्यदुपन्यस्येद्
 
 विपरीतं
@@ -24637,8 +21337,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.56)
-
-
 
 उदाहरणम् -
 
@@ -24650,8 +21348,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कथमन्यथा
 
 ललाटे
@@ -24661,8 +21357,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.57)
-
-
 
 अस्य
 
@@ -24678,8 +21372,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 भावीति
 
 वा
@@ -24694,8 +21386,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.59)
 
-
-
 उदाहरणम् -
 
 अविरलविलोलजलदः
@@ -24703,8 +21393,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुटजार्जुननीपसुरभिवनवातः
 
 ।
-
-
 
 अयमायातः
 
@@ -24720,8 +21408,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.60)
 
-
-
 भाविन्याह -
 
 यास्यन्ति
@@ -24736,8 +21422,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 हंसा
 
 यथैवमेतां
@@ -24751,8 +21435,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.62)
-
-
 
 मम्मटेन -
 
@@ -24770,8 +21452,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 182)
 
-
-
 यत्रैता
 
 लहरीचलाचलदृशो
@@ -24779,8 +21459,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 व्यापारयन्ति
 
 भ्रुवं
-
-
 
 यत्
 
@@ -24796,11 +21474,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तच्चक्रीकृतचापमञ्चितशरप्रेङ्खत्करक्रोधनो
-
-
 
 धावत्यग्रत
 
@@ -24819,8 +21493,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 518)
-
-
 
 अत्र
 
@@ -24842,8 +21514,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तद्यथा -
 
 साध्य-
@@ -24853,8 +21523,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 अस. 58)
-
-
 
 तदनुसारमनुमानमिदं
 
@@ -24867,8 +21535,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 व्यपदिश्यते
 
 ।
-
-
 
 क्रमशः
 
@@ -24884,8 +21550,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 स्थगयति
 
-
-
 स्फुलिङ्गानां
 
 रूपं
@@ -24900,15 +21564,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यथा
 
 विद्युज्ज्वालोज्ज्वलनपरिपिङ्गाश्च
 
 ककुभ-
-
-
 
 स्तथा
 
@@ -24924,8 +21584,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 196)
 
-
-
 यत्रैता
 
 लहरीचलाञ्चलदृशो
@@ -24933,8 +21591,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 व्यापारयन्ति
 
 भ्रुवं
-
-
 
 यत्तत्रैव
 
@@ -24948,13 +21604,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तच्चक्रीकृतचापमञ्चितशरप्रेङ्खत्करः
 
 क्रोधनो
-
-
 
 धावत्यग्रत
 
@@ -24972,8 +21624,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 197)
 
-
-
 चन्द्रालोककारेणाप्येतदनुकृतम्
 
 ।
@@ -24984,8 +21634,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 अनुमानं
 
 च
@@ -24995,8 +21643,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कारणाद्यवधारणम्
 
 ।
-
-
 
 अस्ति
 
@@ -25013,8 +21659,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.36)
-
-
 
 42\.
 
@@ -25034,8 +21678,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 द्रव्यादिभेदभिन्नं
 
 चतुर्विधः
@@ -25049,8 +21691,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.72)
-
-
 
 उदाहरणानि -
 
@@ -25068,8 +21708,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 फलमुत्सृज्य
 
 तदानीं
@@ -25084,8 +21722,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.73)
 
-
-
 कार्येषु
 
 विघ्नतेच्छं
@@ -25093,8 +21729,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विहितमहीयोपराधसंवरणम्
 
 ।
-
-
 
 अस्माकमधन्यानामार्जवमपि
 
@@ -25106,13 +21740,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.74)
 
-
-
 सततमनिर्वृतमानसमायाससहस्रसङ्कटक्लिष्टम्
 
 ।
-
-
 
 गतनिद्रमविश्वासं
 
@@ -25126,13 +21756,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.75)
 
-
-
 अत्यन्तमसहमानामुरुशक्तीनामनिघ्नवृत्तीनाम्
 
 ।
-
-
 
 एकं
 
@@ -25149,8 +21775,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.76)
 
-
-
 मम्मटमतेन -
 
 साकूतैरुक्तिः
@@ -25165,8 +21789,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 183)
 
-
-
 महौजसो
 
 मानधना
@@ -25180,8 +21802,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लब्धकीर्तयः
 
 ।
-
-
 
 न
 
@@ -25203,8 +21823,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 519)
 
-
-
 रुय्यकस्याभिमतं
 
 यत् -
@@ -25217,8 +21835,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 32)
 
-
-
 यथा -
 
 राज्ञो
@@ -25228,8 +21844,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कार्मुकभृतो
 
 दुर्योधनस्याग्रतः
-
-
 
 प्रत्यक्षं
 
@@ -25245,8 +21859,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पीतं
 
 तस्य
@@ -25254,8 +21866,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मयाद्य
 
 पाण्डववधूकेशाम्बराकर्षिणः
-
-
 
 कोष्णं
 
@@ -25269,15 +21879,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 116)
 
-
-
 जयदेवस्त्वेतदभिमतमेव
 
 समर्थयति
 
 ।
-
-
 
 43\.
 
@@ -25291,17 +21897,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 184)
 
-
-
 शैलेन्द्रप्रतिपाद्यमानगिरिजाहस्तोपगूढोल्लसद्-
-
-
 
 रोमाञ्चादिविसंष्ठुलाखलविधिव्यासङ्गभङ्गाकुलः
 
 ।
-
-
 
 हा
 
@@ -25312,8 +21912,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 करयोरित्यूचिवान्
 
 सस्मितं
-
-
 
 शैलान्तःपुरमातृमण्डलगणैर्दृष्टोऽवताद्
 
@@ -25326,8 +21924,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 520)
-
-
 
 रुय्यकस्त्वत्र
 
@@ -25342,8 +21938,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दृश्यते
 
 ।
-
-
 
 44\.
 
@@ -25367,8 +21961,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 अन्यत्र
 
 तु
@@ -25384,8 +21976,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.79)
-
-
 
 उदाहरणानि -
 
@@ -25403,8 +21993,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 किं
 
 कार्यं
@@ -25421,8 +22009,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.80)
 
-
-
 अपृष्टोदाहरणम् -
 
 कौटिल्यं
@@ -25435,8 +22021,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 काठिन्यं
 
 कुचयुगले
@@ -25448,8 +22032,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.81)
-
-
 
 मम्मटस्य -
 
@@ -25467,8 +22049,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तादृगन्यव्यपोहाय
 
 परिसङ्ख्या
@@ -25485,8 +22065,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 185)
 
-
-
 मम्मटमतेन
 
 सदृशवस्त्वन्तरव्यवच्छेदः
@@ -25502,8 +22080,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तदन्यथा
 
 च
-
-
 
 परिदृष्टम्
 
@@ -25525,8 +22101,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 किमासेव्यं
 
 पुंसां
@@ -25544,8 +22118,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कौस्तुभभृतः
 
 ।
-
-
 
 किमाराध्यं
 
@@ -25567,15 +22139,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 (
 
 काप्र.
 
 उ. 521)
-
-
 
 किं
 
@@ -25601,8 +22169,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 किं
 
 चक्षुरप्रतिहतं
@@ -25625,8 +22191,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 522)
 
-
-
 कौटिल्यं
 
 कचनिचये
@@ -25636,8 +22200,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रागस्ते
 
 ।
-
-
 
 काठिन्यं
 
@@ -25652,8 +22214,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 523)
-
-
 
 भक्तिर्भवे
 
@@ -25670,8 +22230,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 युवतिकामास्त्रे
 
 ।
-
-
 
 चिन्ता
 
@@ -25693,8 +22251,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 524)
 
-
-
 रुय्यको
 
 यथा -
@@ -25710,8 +22266,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 अस. 63)
-
-
 
 तत्र
 
@@ -25731,15 +22285,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उदाहरणानि
 
 तूपर्युक्तान्येव
 
 ।
-
-
 
 जयदेवस्य
 
@@ -25752,8 +22302,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वस्तुयन्त्रणम्
 
 ।
-
-
 
 स्नेहक्षयः
 
@@ -25768,8 +22316,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.95)
-
-
 
 विश्वनाथः
 
@@ -25786,8 +22332,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विशेषः
 
 ।
-
-
 
 45\.
 
@@ -25807,8 +22351,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कारणमाला
 
 स्यात् (
@@ -25818,8 +22360,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सू. 186 )
 
 ।
-
-
 
 जितेन्द्रियत्वं
 
@@ -25832,8 +22372,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विनयादवाप्यते
 
 ।
-
-
 
 गुणप्रकर्षेण
 
@@ -25851,15 +22389,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 525)
 
-
-
 रुय्यकस्त्वत्र
 
 मम्मटमेवानुकरोति
 
 ।
-
-
 
 46\.
 
@@ -25877,8 +22411,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सञ्जायेत
 
 स्फारिततत्त्वविशेषस्तदन्योन्यम्
@@ -25886,8 +22418,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.91)
-
-
 
 उदाहरणम् -
 
@@ -25901,8 +22431,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्योन्यमलङ्करणं
 
 विभाति
@@ -25912,8 +22440,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.92)
-
-
 
 मम्मटस्य -
 
@@ -25933,8 +22459,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 187)
 
-
-
 हंसाणं
 
 सरेहिं
@@ -25951,8 +22475,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अण्णोण्णं
 
 विअ
@@ -25967,8 +22489,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 रुय्यकस्य
 
 यथा -
@@ -25980,8 +22500,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 49)
-
-
 
 उदाहरणम् -
 
@@ -25999,8 +22517,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अन्योन्यशोभाजननाद्वभूव
 
 साधारणो
@@ -26010,8 +22526,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 180)
-
-
 
 जयदेवस्य
 
@@ -26029,8 +22543,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 त्रियामा
 
 शशिना
@@ -26047,8 +22559,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा.5.84)
 
-
-
 अन्योन्यमुभयोरेकक्रियायाः
 
 कारणं
@@ -26058,8 +22568,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 साद. 10.72)
-
-
 
 उदा. -
 
@@ -26079,8 +22587,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रजन्या
 
 शोभते
@@ -26094,8 +22600,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 47\.
 
@@ -26115,8 +22619,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यत्र
 
 ज्ञातादप्यन्यत्
@@ -26129,8 +22631,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कार्येणानन्यसमख्यातेन
 
 तदुत्तरं
@@ -26140,8 +22640,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.72)
-
-
 
 किं
 
@@ -26156,8 +22654,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दरिद्रस्य
 
 ।
-
-
 
 कः
 
@@ -26175,8 +22671,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.73)
 
-
-
 उत्तरवचनश्रवणादुन्नयनं
 
 यत्र
@@ -26186,8 +22680,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वचनानाम्
 
 ।
-
-
 
 क्रियते
 
@@ -26200,8 +22692,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.93)
-
-
 
 उदाहरणम् -
 
@@ -26218,8 +22708,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विधातुमहमसहा
 
 ।
-
-
 
 शक्नोमि
 
@@ -26239,8 +22727,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.94)
 
-
-
 उदाहरणान्तरम् -
 
 किं
@@ -26255,8 +22741,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सौराज्यमदुर्भिक्षं
 
 सत्काव्यरसामृतस्वादः
@@ -26264,8 +22748,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.95)
-
-
 
 मम्मटस्य - ..
 
@@ -26287,8 +22769,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 असकृद्
 
 यद्
@@ -26305,8 +22785,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 188)
 
-
-
 वाणिअअ
 
 हत्थिदन्ता
@@ -26320,8 +22798,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अ
 
 ।
-
-
 
 जाव
 
@@ -26339,8 +22815,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 528)
 
-
-
 प्रश्नादनन्तरं
 
 लोकातिक्रान्तगोचरतया
@@ -26350,8 +22824,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रतिवचनम्
 
 तत्र
-
-
 
 अपरमुत्तरम्
 
@@ -26375,8 +22847,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 किं
 
 सौख्खं
@@ -26395,8 +22865,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 परिसङ्ख्यायां
 
 व्यावर्तनमपि
@@ -26411,8 +22879,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तदत्र
 
 रुय्यकस्य
@@ -26422,8 +22888,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मम्मटादभिन्नम्
 
 ।
-
-
 
 48\.
 
@@ -26441,8 +22905,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अर्थान्तरमुपपत्तिमदिति
 
 तत्
@@ -26455,8 +22917,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.98)
 
-
-
 उदा. -
 
 आदौ
@@ -26467,8 +22927,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 धैर्यं
 
 व्यूढमहाभरमुत्साहः
@@ -26478,8 +22936,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.99)
-
-
 
 मम्मटमतेन -
 
@@ -26492,8 +22948,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रकाश्यते
 
 ।
-
-
 
 धर्मेण
 
@@ -26513,8 +22967,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 189)
 
-
-
 वक्त्रस्यन्दिस्वेदबिन्दुप्रबन्धैर्दृष्ट्वा
 
 भिन्नं
@@ -26526,8 +22978,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कण्ठे
 
 ।
-
-
 
 पुंस्त्वं
 
@@ -26551,8 +23001,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 530)
 
-
-
 सङ्केतकालमनसं
 
 विटं
@@ -26571,15 +23019,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 (
 
 काप्र.
 
 उ. 531)
-
-
 
 रुय्यकस्य
 
@@ -26592,8 +23036,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 76)
-
-
 
 तच्च
 
@@ -26609,8 +23051,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 त्यादि
 
-
-
 "
 
 वक्त्रस्ये"
@@ -26623,8 +23063,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इङ्गिताकारलक्ष्येऽर्थे
 
 सूक्ष्ममिति
@@ -26634,8 +23072,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कानु.
 
 पृ.43)
-
-
 
 उदा. -
 
@@ -26659,8 +23095,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जीवेति
 
 मङ्गलवचः
@@ -26677,8 +23111,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 इति
 
 बिल्हणकवेश्चौरसुरतपञ्चाशिकागतं
@@ -26689,8 +23121,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 संलक्षितस्तु
 
 सूक्ष्मोऽर्थ
@@ -26700,8 +23130,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वा
 
 ।
-
-
 
 कयापि
 
@@ -26719,8 +23147,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.91)
 
-
-
 वक्त्रस्यन्दिस्वेदबिन्दुप्रबन्धैर्दृष्ट्वा
 
 भिन्नं
@@ -26732,8 +23158,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कण्ठे
 
 ।
-
-
 
 पुंस्त्वं
 
@@ -26753,8 +23177,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 (
 
 तत्रैव
@@ -26773,8 +23195,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 सङ्केतकालमनसं
 
 विटं
@@ -26784,8 +23204,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विदग्धया
 
 ।
-
-
 
 हसन्नेत्रार्पिताकूतं
 
@@ -26798,8 +23216,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 49\.
 
@@ -26819,8 +23235,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वस्तुन
 
-
-
 उत्तरोत्तरवस्तुनि
 
 सारश्चेत्
@@ -26834,8 +23248,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 धर्मसूरिरप्येवं
-
-
 
 मनुते
 
@@ -26853,15 +23265,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 प्रतिपाद्येत,
 
-
-
 तदापि
 
 सारालङ्कारमूरीकरोति
 
 ।
-
-
 
 रुद्रटस्य -
 
@@ -26877,8 +23285,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 निर्धार्यते
 
 परावधि
@@ -26892,8 +23298,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.96)
-
-
 
 उदाहरणम् -
 
@@ -26913,8 +23317,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सौधे
 
 तल्पं
@@ -26926,8 +23328,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.97)
-
-
 
 मम्मटमतेन -
 
@@ -26944,8 +23344,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 सू. 190)
-
-
 
 उदा. -
 
@@ -26965,8 +23363,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सौधे
 
 तल्पं
@@ -26981,8 +23377,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 532)
 
-
-
 उत्तरोत्तरमुत्कर्षः
 
 सारः
@@ -26990,8 +23384,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 अस. 56)
-
-
 
 उदा. -
 
@@ -27013,8 +23405,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तथापि
 
 शय्या
@@ -27033,8 +23423,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 190)
 
-
-
 जयदेवेन
 
 तु
@@ -27051,8 +23439,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 सारो
 
 नाम
@@ -27064,8 +23450,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यथोत्तरम्
 
 ।
-
-
 
 सारं
 
@@ -27083,8 +23467,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.90)
 
-
-
 प्रथमवाग्भटस्तु
 
 समुदायादुत्कृष्टोत्कृष्टनिर्धारणं
@@ -27094,8 +23476,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लक्षयति
 
 ।
-
-
 
 उदाहरणेऽस्य
 
@@ -27111,8 +23491,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.43)
 
-
-
 50\.
 
 लेशः -
@@ -27124,8 +23502,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निरूपितः
 
 ।
-
-
 
 रुद्रटमतेन -
 
@@ -27143,8 +23519,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अभिधीयते
 
 तथाविधकर्मनिमित्तः
@@ -27158,8 +23532,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.100)
-
-
 
 उदाहरणम् -
 
@@ -27175,8 +23547,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मथ्नाति
 
 यया
@@ -27191,8 +23561,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.101)
 
-
-
 मम्मटमतेनेदमुदाहरणम्
 
 अतिशयोक्तेः
@@ -27204,8 +23572,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्यात्
 
 ।
-
-
 
 दोषस्य
 
@@ -27223,8 +23589,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 धन्यास्ते
 
 गुणहीना
@@ -27234,8 +23598,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.102)
-
-
 
 कार्यतो
 
@@ -27255,8 +23617,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 दोषीभावे,
 
-
-
 दोषस्य
 
 गुणीभावे
@@ -27266,8 +23626,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तथैवोदाहरति
 
 ।
-
-
 
 51\.
 
@@ -27281,8 +23639,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अर्थान्तरमुत्कृष्टं
 
 सरसं
@@ -27294,8 +23650,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 क्रियते
 
 ।
-
-
 
 अर्थस्य
 
@@ -27309,8 +23663,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.103)
 
-
-
 तदिदमरण्यं
 
 यस्मिन्
@@ -27318,8 +23670,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दशरथवचनानुपालनव्यसनी
 
 ।
-
-
 
 निवसन्
 
@@ -27335,8 +23685,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.104)
 
-
-
 52\.
 
 मीलितम् -
@@ -27349,8 +23697,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तन्मीलितमिति
 
 यस्मिन्
@@ -27360,8 +23706,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हर्षकोपादि
 
 ।
-
-
 
 अपरेण
 
@@ -27373,8 +23717,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.106)
 
-
-
 तिर्यक्प्रेक्षणतरले
 
 सुस्निग्धे
@@ -27384,8 +23726,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्वभावतस्तस्याः
 
 ।
-
-
 
 अनुरागो
 
@@ -27399,8 +23739,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.107)
 
-
-
 वस्तुना
 
 वस्त्वन्तरनिगूहनं
@@ -27410,8 +23748,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 71)
-
-
 
 तच्च
 
@@ -27425,8 +23761,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 अपाङ्गतरले
 
 दृशौ
@@ -27434,8 +23768,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मधुरवक्रवर्णा
 
 गिरो
-
-
 
 विलासभरमन्थरा
 
@@ -27447,8 +23779,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इति
 
 स्फुरितमङ्गकैर्मृगदृशां
@@ -27456,8 +23786,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्वतो
 
 लीलया
-
-
 
 तदत्र
 
@@ -27472,8 +23800,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 230)
-
-
 
 ये
 
@@ -27490,8 +23816,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 द्विषस्ते
 
 ।
-
-
 
 अप्यङ्गमुत्पलकमुद्वहतां
 
@@ -27511,8 +23835,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 231)
 
-
-
 मीलितं
 
 बहुसादृश्याद्
@@ -27522,8 +23844,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लक्ष्यते
 
 ।
-
-
 
 रसो
 
@@ -27536,8 +23856,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.33)
-
-
 
 53\.
 
@@ -27553,8 +23871,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यस्यामुपलभ्येते
 
 विज्ञेया
@@ -27567,8 +23883,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.48)
 
-
-
 नवयौवनेन
 
 सुतनोरिन्दुकलाकोमलानि
@@ -27576,8 +23890,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पूर्यन्ते
 
 ।
-
-
 
 अङ्गान्यसंगतानां
 
@@ -27593,8 +23905,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.49)
 
-
-
 \-
 
 भिन्नदेशतयात्यन्तं
@@ -27602,8 +23912,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कार्यकारणभूतयोः
 
 ।
-
-
 
 मम्मटमतेन -
 
@@ -27620,8 +23928,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 सू. 191)
-
-
 
 जस्सेअ
 
@@ -27641,8 +23947,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 दन्तक्खअं
 
 कवोले
@@ -27659,15 +23963,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 533)
 
-
-
 तयोर्विभिन्नदेशत्वेऽसङ्गतिः
 
 ॥ (
 
 अस. 44)
-
-
 
 सा
 
@@ -27683,8 +23983,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कातराः
 
-
-
 सा
 
 पीनोन्नतिमत्पयोधरभरं
@@ -27696,8 +23994,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वयम्
 
 ।
-
-
 
 सा
 
@@ -27715,8 +24011,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वयं
 
-
-
 दोषैरन्यसमाश्रितैरपटवो
 
 जाताः
@@ -27729,8 +24023,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 170)
 
-
-
 आख्याने
 
 भिन्नदेशत्वे
@@ -27738,8 +24030,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कार्यहेत्वोरसङ्गतिः
 
 ।
-
-
 
 त्वद्भक्तानां
 
@@ -27753,15 +24043,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.79)
 
-
-
 कार्यकारणयोर्भिन्नदेशतायामसङ्गतिः
 
 । (
 
 साद. 10.69)
-
-
 
 54\.
 
@@ -27781,8 +24067,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 192)
 
-
-
 मानमस्या
 
 निराकर्तुं
@@ -27792,8 +24076,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पतिष्यतः
 
 ।
-
-
 
 उपकाराय
 
@@ -27807,8 +24089,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 534)
 
-
-
 रुय्यकस्तु
 
 प्रकारान्तरेण
@@ -27820,8 +24100,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 चन्द्रालोककारोऽपि
-
-
 
 लक्षणमिदमनुकरोति
 
@@ -27836,8 +24114,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विशेषः
 
 ।
-
-
 
 55\.
 
@@ -27861,8 +24137,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 193)
 
-
-
 सद्योगे
 
 असद्योगे
@@ -27872,8 +24146,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 द्विधा
 
 ।
-
-
 
 दातुः
 
@@ -27890,8 +24162,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्मरस्य
 
 ।
-
-
 
 जातं
 
@@ -27912,8 +24182,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 535)
-
-
 
 चित्रं
 
@@ -27937,8 +24205,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यन्निम्बानां
 
 परिणतफलस्फीतिरास्वादनीया
@@ -27955,8 +24221,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 536)
 
-
-
 तद्विपर्ययः
 
 समम्
@@ -27964,8 +24228,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 46)
-
-
 
 स
 
@@ -27983,8 +24245,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 त्वमेवंसौन्दर्या
 
 स
@@ -27994,8 +24254,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रुचिरतायाः
 
 परिचितः
-
-
 
 कलानां
 
@@ -28008,8 +24266,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भजथः
 
 ।
-
-
 
 अयि
 
@@ -28025,8 +24281,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वा-
 
-
-
 मतः
 
 शेषं
@@ -28040,8 +24294,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 175)
-
-
 
 द्वितीयो
 
@@ -28057,8 +24309,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 महच्चित्रमेतद्विचित्रं
 
-
-
 जातो
 
 दैवादुचितरचनासंविधाता
@@ -28067,13 +24317,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यन्निम्बानां
 
 परिणतफलस्फीतिरास्वादनीया
-
-
 
 यच्चैतस्याः
 
@@ -28085,13 +24331,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 176)
 
-
-
 सममौचित्यतोऽनेकवस्तुसम्बन्धवर्णनम्
 
 ।
-
-
 
 अनुरूपं
 
@@ -28107,8 +24349,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.81)
 
-
-
 समं
 
 स्यादानुरूप्येण
@@ -28122,8 +24362,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 साद. 10.71)
-
-
 
 उदा. -
 
@@ -28139,8 +24377,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इति
 
 समगुणयोगप्रीतयस्तत्र
@@ -28155,8 +24391,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 (
 
 तत्रैव
@@ -28170,8 +24404,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पद्यम्
 
 ।
-
-
 
 56\.
 
@@ -28188,8 +24420,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्वीकृतः
 
 ।
-
-
 
 रुद्रटेन
 
@@ -28215,8 +24445,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कार्यस्य
 
 कारणस्य
@@ -28233,8 +24461,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तद्वत्क्रिययोरथवा
 
 संजायेतेति
@@ -28245,15 +24471,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.45)
 
-
-
 अरिकरिकुम्भविदारणरुधिरारुणदारुणादतः
 
 खग्डात्
 
 ।
-
-
 
 वसुधाधिपते
 
@@ -28273,8 +24495,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.46)
 
-
-
 आनन्दममन्दमिमं
 
 कुवलयदललोचनो
@@ -28284,8 +24504,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 त्वम्
 
 ।
-
-
 
 विरहस्त्वयैव
 
@@ -28299,8 +24517,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.47)
 
-
-
 विरूपकार्याऽनर्थयोरुत्पत्तिर्विरूपसंघटना
 
 च
@@ -28311,21 +24527,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 45)
 
-
-
 सोदाहरणमस्य
 
 भेदाः
 
 यथा -
 
-
-
 विरूपकार्योत्पत्तिरूपं
 
 विषमम् -
-
-
 
 सद्यः
 
@@ -28343,8 +24553,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तमालनीला
 
 शरदिन्दुपाण्डु
@@ -28357,13 +24565,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 171)
 
-
-
 अनर्थोत्पत्तिरूपं
 
 विषमम् -
-
-
 
 तीर्थान्तरेषु
 
@@ -28376,8 +24580,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लभन्ते
 
 ।
-
-
 
 वाराणसि
 
@@ -28397,13 +24599,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 172)
 
-
-
 विरूपसंघटनारूपं
 
 विषमम् -
-
-
 
 अरण्यानी
 
@@ -28416,8 +24614,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स
 
 मृगः
-
-
 
 क्व
 
@@ -28435,8 +24631,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 क्व
 
 तत्कन्यारत्नं
@@ -28448,8 +24642,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 च
 
 वयं
-
-
 
 स्वमाकूतं
 
@@ -28465,15 +24657,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 173)
 
-
-
 विषमं
 
 यद्यनौचित्यादनेकान्वयकल्पनम्
 
 ।
-
-
 
 क्वातितीव्रविषाः
 
@@ -28486,8 +24674,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.80)
-
-
 
 विषम
 
@@ -28505,8 +24691,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यत्रार्थयोरसन्तं
 
 परमतमाशङ्क्य
@@ -28518,8 +24702,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.47)
-
-
 
 उदाहरणम् -
 
@@ -28543,8 +24725,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सततं
 
 खलेषु
@@ -28565,8 +24745,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.48)
 
-
-
 प्रकारान्तरम् -
 
 अभिधीयते
@@ -28578,8 +24756,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सम्बन्धस्यार्थयोरनौचित्यम्
 
 ।
-
-
 
 यत्र
 
@@ -28594,8 +24770,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.49)
-
-
 
 उदाहरणम् -
 
@@ -28615,8 +24789,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 इति
 
 चिन्तयन्ति
@@ -28632,8 +24804,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.50)
-
-
 
 तदिति
 
@@ -28653,8 +24823,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कार्यं
 
 कुर्यात्
@@ -28670,8 +24838,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.51)
-
-
 
 उदाहरणानि -
 
@@ -28691,8 +24857,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 असिधारापथपतितं
 
 त्वं
@@ -28706,8 +24870,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.52)
-
-
 
 त्वं
 
@@ -28724,8 +24886,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हतान्
 
 ।
-
-
 
 का
 
@@ -28747,8 +24907,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.53)
 
-
-
 प्रकारान्तरम् -
 
 यत्र
@@ -28763,8 +24921,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कर्तुरनर्थश्च
 
 भवेत्
@@ -28776,8 +24932,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.54)
-
-
 
 उदाहरणम् -
 
@@ -28793,8 +24947,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 फलमिदमहो
 
 मयाप्तं
@@ -28809,8 +24961,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.55)
 
-
-
 मम्मटमतेन -
 
 क्वचिद्
@@ -28823,8 +24973,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कर्तुः
 
 क्रियाफलावाप्तिर्नैवानर्थश्च
@@ -28835,8 +24983,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 गुणक्रियाभ्यां
 
 कार्यस्य
@@ -28846,8 +24992,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गुणक्रिया
 
 ।
-
-
 
 क्रमेण
 
@@ -28871,8 +25015,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 194)
 
-
-
 \(1\)
 
 द्वयोः
@@ -28893,8 +25035,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 न
 
-
-
 लभेत,
 
 अनर्थं
@@ -28911,8 +25051,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तयोर्गुणौ
 
-
-
 क्रिये
 
 च
@@ -28927,8 +25065,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 शिरीषादपि
 
 मृद्वङ्गी
@@ -28936,8 +25072,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 केयमायतलोचना
 
 ।
-
-
 
 अयं
 
@@ -28955,8 +25089,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 537)
 
-
-
 सिंहिकासुतसन्त्रस्तः
 
 शशः
@@ -28964,8 +25096,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 शीतांशुमाश्रितः
 
 ।
-
-
 
 जग्रसे
 
@@ -28983,8 +25113,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 538)
 
-
-
 सद्यः
 
 करस्पर्शमवाप्य
@@ -29001,8 +25129,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तमालनीला
 
 शरदिन्दुपाण्डु
@@ -29017,8 +25143,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 539)
 
-
-
 आनन्दममन्दमिदं
 
 कुवलयदललोचने
@@ -29028,8 +25152,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 त्वम्
 
 ।
-
-
 
 विरहस्त्वयैव
 
@@ -29045,8 +25167,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 540)
 
-
-
 मम्मटमतेनैतदपि
 
 उदाहरणं
@@ -29056,8 +25176,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 माघकाव्ये 13-
 
 सर्गे )
-
-
 
 विपुलेन
 
@@ -29074,8 +25192,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 युगक्षये
 
 ।
-
-
 
 मदविभ्रमासकलया
 
@@ -29095,8 +25211,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 541)
 
-
-
 विरूपकार्याऽनर्थयोरुत्पत्तिर्विरूपसंघटना
 
 च
@@ -29106,8 +25220,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 45)
-
-
 
 उदाहरणानि -
 
@@ -29127,8 +25239,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तमालनीला
 
 शरदिन्दुपाण्डु
@@ -29141,8 +25251,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 171)
 
-
-
 तीर्थान्तरेषु
 
 मलपङ्कवतीर्विहाय
@@ -29154,8 +25262,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लभन्ते
 
 ।
-
-
 
 वाराणसि
 
@@ -29175,8 +25281,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 172)
 
-
-
 अरण्यानी
 
 क्वेयं
@@ -29188,8 +25292,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स
 
 मृगः
-
-
 
 क्व
 
@@ -29207,8 +25309,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 क्व
 
 तत्कन्यारत्नं
@@ -29220,8 +25320,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 च
 
 वयं
-
-
 
 स्वमाकूतं
 
@@ -29237,8 +25335,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 173)
 
-
-
 परहिअअं
 
 मग्गंतीइ
@@ -29252,8 +25348,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हिअअं
 
 ।
-
-
 
 अंहो
 
@@ -29271,15 +25365,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 174)
 
-
-
 विषमं
 
 यद्यनौचित्यादनेकान्वयकल्पनम्
 
 ।
-
-
 
 क्वातितीव्रविषाः
 
@@ -29292,8 +25382,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.80)
-
-
 
 गुणौ
 
@@ -29313,8 +25401,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.69)
 
-
-
 यद्वारब्धस्य
 
 वैफल्यमनर्थस्य
@@ -29324,8 +25410,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सम्भवः
 
 ।
-
-
 
 विरूपयोः
 
@@ -29345,8 +25429,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.70)
 
-
-
 57\.
 
 अधिकम् -
@@ -29361,8 +25443,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 वस्तुद्वयमेकस्माज्जयत
 
 इति
@@ -29372,8 +25452,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.26)
-
-
 
 मुञ्चति
 
@@ -29389,8 +25467,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उदपद्य
 
 नीरनिधेर्विषममृतं
@@ -29403,8 +25479,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.27)
 
-
-
 यत्राधारे
 
 सुमहत्याधेयमवस्थितं
@@ -29412,8 +25486,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तनीयोऽपि
 
 ।
-
-
 
 अतिरिच्येत
 
@@ -29424,8 +25496,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.28)
-
-
 
 जगद्विशाले
 
@@ -29449,8 +25519,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पर्याप्तमासीदखिलं
 
 न
@@ -29461,8 +25529,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.29)
 
-
-
 मम्मटमतेन -
 
 महतोर्यन्महीयांसावाश्रिताश्रययोः
@@ -29470,8 +25536,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 क्रमात्
 
 ।
-
-
 
 आश्रयाश्रयिणौ
 
@@ -29488,8 +25552,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 सू. 195)
-
-
 
 अहो
 
@@ -29515,8 +25577,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 542)
 
-
-
 युगान्तकालप्रतिसंहृतात्मनो
 
 जगन्ति
@@ -29526,8 +25586,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सविकाशमासत
 
 ।
-
-
 
 तनौ
 
@@ -29545,8 +25603,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 543)
 
-
-
 आधारादाधेयस्याधेयादाधारस्य
 
 वाऽऽधिक्येऽधिकमिति
@@ -29554,8 +25610,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वाग्भटप्रथमः
 
 ।
-
-
 
 आधरादाधेयस्याधिक्यं
 
@@ -29571,8 +25625,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तनौ
 
 ममुस्तत्र
@@ -29584,8 +25636,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मुदः
 
 ।
-
-
 
 आधेयादाधारस्याधिक्यं
 
@@ -29603,8 +25653,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रघोः
 
 कुलं
@@ -29621,15 +25669,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.45)
 
-
-
 आश्रयाश्रयिणोरानुरूप्यमधिकम्
 
 । (
 
 अस. 48)
-
-
 
 आश्रयाधिक्यरूपमधिकम् -
 
@@ -29643,15 +25687,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 क्वचि-
 
-
-
 त्क्वाप्यत्रैव
 
 धराधराधरजलाधारावधिर्वर्तते
 
 ।
-
-
 
 स्फीतस्फीतमहो
 
@@ -29660,8 +25700,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कियदिदं
 
 यस्येत्थमेवंविधै-
-
-
 
 र्दूरे
 
@@ -29679,23 +25717,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 179)
 
-
-
 आश्रिताधिक्यरूपमधिकम् -
 
 दोर्दण्डाञ्चितचन्द्रशेखरधनुर्दण्डावभङ्गोद्यत-
-
-
 
 ष्टंकारध्वनिरार्यबालचरितप्रस्तावनाडिण्डिमः
 
 ।
 
-
-
 द्राक्पर्यस्तकपालसंपुटमिलद्ब्रह्माण्डभाण्डोदर-
-
-
 
 भ्राम्यत्पिण्डितचण्डिमा
 
@@ -29709,15 +25739,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 180)
 
-
-
 अधिकं
 
 बोध्यमाधारादाधेयाधिकवर्णनम्
 
 ।
-
-
 
 यया
 
@@ -29739,15 +25765,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.83)
 
-
-
 आश्रयाश्रयिणोरेकस्याधिक्येऽधिकमुच्यते
 
 । (
 
 साद. 10.72)
-
-
 
 उदा. -
 
@@ -29760,8 +25782,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वारिधेर्हरिर्यत्र
 
 ।
-
-
 
 अज्ञात
 
@@ -29781,8 +25801,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 58\.
 
 प्रत्यनीकम् -
@@ -29796,8 +25814,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यत्र
 
 ।
-
-
 
 तस्य
 
@@ -29813,8 +25829,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.92)
 
-
-
 यदि
 
 तव
@@ -29826,8 +25840,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कान्तिसर्वस्वम्
 
 ।
-
-
 
 मम
 
@@ -29847,8 +25859,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.93)
 
-
-
 मम्मटमतेन -
 
 प्रतिपक्षमशक्तेन
@@ -29858,8 +25868,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तिरस्क्रिया
 
 ।
-
-
 
 या
 
@@ -29877,8 +25885,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 196)
 
-
-
 त्वं
 
 विनिर्जितमनोभवरूपः
@@ -29892,8 +25898,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भवत्यनुरक्ता
 
 ।
-
-
 
 पञ्चभिर्युगपदेव
 
@@ -29909,8 +25913,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 544)
 
-
-
 यस्य
 
 किञ्चिदपकर्तुमक्षमः
@@ -29918,8 +25920,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कायनिग्रहगृहीतविग्रहः
 
 ।
-
-
 
 कान्तवक्त्रसदृशाकृतिं
 
@@ -29934,8 +25934,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 545)
-
-
 
 भोज
 
@@ -29959,8 +25957,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 विरोधे
 
-
-
 पर्यवसितिस्तथापि
 
 उभयोरन्तरमपि
@@ -29976,8 +25972,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विरोधस्य
 
 प्रतिपादनं
-
-
 
 लक्ष्यम्
 
@@ -29997,8 +25991,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 प्रतिपक्षप्रतिकाराशक्तौ
 
 तदीयतिरस्कारः
@@ -30008,8 +26000,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 69)
-
-
 
 उदाहरणे
 
@@ -30022,8 +26012,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नावीन्यम्
 
 ।
-
-
 
 जयदेवस्य
 
@@ -30041,8 +26029,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जैत्रनेत्रानुगौ
 
 कर्णावुत्पलाभ्यामधः
@@ -30052,8 +26038,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.99)
-
-
 
 प्रतिपक्षबाधाशक्तौ
 
@@ -30066,8 +26050,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वाग्भटप्रथमः
 
 ।
-
-
 
 उदा. -
 
@@ -30084,8 +26066,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 शक्तः
 
 ।
-
-
 
 राहुः
 
@@ -30109,8 +26089,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.45)
 
-
-
 59\.
 
 एकावली -
@@ -30125,8 +26103,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आधीयते
 
 यथोत्तरविशेषणा
@@ -30136,8 +26112,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.109)
-
-
 
 उदा. -
 
@@ -30153,8 +26127,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मधु
 
 लीनालिकुलाकुलमलिकुलमपि
@@ -30167,8 +26139,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.110)
 
-
-
 (
 
 अत्र
@@ -30177,8 +26147,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 निर्देशः)
 
-
-
 नाकुसुमस्तरुरस्मिन्नुद्याने
 
 नामधूनि
@@ -30186,8 +26154,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुसुमानि
 
 ।
-
-
 
 नालीनालिकुलं,
 
@@ -30198,8 +26164,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.111)
-
-
 
 भोज
 
@@ -30217,8 +26181,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 प्रायः
 
-
-
 सर्वैः
 
 परवर्तिभिरियमूरीकृता
@@ -30230,8 +26192,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मम्मटस्य
 
 लक्षणम् -
-
-
 
 स्थाप्यतेऽपोह्यते
 
@@ -30245,8 +26205,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 198)
 
-
-
 पुराणि
 
 यस्यां
@@ -30258,8 +26216,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रूपपुरस्कृताङ्ग्यः
 
 ।
-
-
 
 रूपं
 
@@ -30274,8 +26230,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 548)
-
-
 
 न
 
@@ -30294,8 +26248,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यदलीनषट्पदम्
 
 ।
-
-
 
 न
 
@@ -30325,8 +26277,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 549)
 
-
-
 (
 
 न
@@ -30344,8 +26294,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मम्मटस्य
 
 पाठः)
-
-
 
 यथापूर्वं
 
@@ -30367,8 +26315,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उदाहरणे
 
 त्वस्य
@@ -30381,8 +26327,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जयदेवस्य -
 
 गृहीतमुक्तरीत्यर्थश्रेणिरेकावली
@@ -30390,8 +26334,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मता
 
 ।
-
-
 
 नेत्रे
 
@@ -30405,8 +26347,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.88)
 
-
-
 धर्मसूरिः
 
 पुनरित्थं
@@ -30419,8 +26359,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एकावलीमलङ्कारमूचिरे
 
 तत्र
@@ -30432,8 +26370,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सार.
 
 पृ.643)
-
-
 
 60\.
 
@@ -30455,8 +26391,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कालान्तरानुभूतं
 
 वस्त्वन्तरमित्यदः
@@ -30467,8 +26401,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.109)
 
-
-
 तव
 
 भग्ने
@@ -30477,13 +26409,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सथूलस्थूलेन्द्रनीलमणिमालाः
 
-
-
 ।
-
-
-
-
 
 भूभृन्नाथ
 
@@ -30496,8 +26422,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8. 110)
-
-
 
 मम्मटस्य -
 
@@ -30519,8 +26443,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 199)
 
-
-
 निम्ननाभिकुहरेषु
 
 यदम्भः
@@ -30532,8 +26454,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लहरीभिः
 
 ।
-
-
 
 तद्भवैः
 
@@ -30551,8 +26471,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 550)
 
-
-
 रुय्यकस्य -
 
 सदृशानुभवाद्वस्त्वन्तरस्मृतिः
@@ -30562,8 +26480,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 14)
-
-
 
 उदाहरणम् -
 
@@ -30576,8 +26492,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तुल्यरूपम्
 
 ।
-
-
 
 कुशिकसुतमखद्विषां
 
@@ -30593,8 +26507,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 19)
 
-
-
 जयदेवस्तु
 
 स्मृतिरित्यभिधानमात्रेणैव
@@ -30604,8 +26516,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्वीकुरुते
 
 ।
-
-
 
 उदा. -
 
@@ -30625,8 +26535,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.31)
 
-
-
 61\.
 
 भ्रान्तिमान् -
@@ -30640,8 +26548,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्सदृशम्
 
 ।
-
-
 
 निः
 
@@ -30657,8 +26563,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.87)
 
-
-
 पालयति
 
 त्वयि
@@ -30670,8 +26574,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ककुभः
 
 ।
-
-
 
 पश्यन्तो
 
@@ -30685,8 +26587,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.88)
 
-
-
 मम्मटस्य -
 
 भ्रान्तिमान्
@@ -30698,8 +26598,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 सू. 200)
-
-
 
 कपाले
 
@@ -30715,8 +26613,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 शशिनः
 
-
-
 तरुच्छिद्रप्रोतान्
 
 बिसमिति
@@ -30727,8 +26623,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रतान्ते
 
 तल्पस्थान्
@@ -30736,8 +26630,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हरति
 
 वनिताप्यंशुकमिति
-
-
 
 प्रभामत्तश्चन्द्रो
 
@@ -30751,23 +26643,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 552)
 
-
-
 सादृश्याद्वस्त्वन्तरप्रतीतिभ्र्रान्तिमान्
 
 ॥ (
 
 अस. 18)
 
-
-
 उदाहरणम् -
 
 ओष्ठे
 
 बिम्बफलाशयालमलकेषूत्पाकजम्बूधिया
-
-
 
 कर्णालंकृतिभाजि
 
@@ -30781,15 +26667,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 निष्पत्त्या
 
 सकृदुत्पलच्छददृशामात्तक्लमानां
 
 मरौ
-
-
 
 राजन्
 
@@ -30803,8 +26685,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 38)
 
-
-
 जयदेवेन
 
 भ्रान्तिरिति
@@ -30816,8 +26696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 व्यपदिष्टः
 
 ।
-
-
 
 उदा. -
 
@@ -30833,8 +26711,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.32)
 
-
-
 विश्वनाथस्तु
 
 ससन्देह
@@ -30846,8 +26722,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रतिभोत्थितत्वमपेक्षते। (
 
 साद. 10.36)
-
-
 
 62\.
 
@@ -30865,8 +26739,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उपमेयमतिस्तोतुं
 
 दुरवस्थमिति
@@ -30878,8 +26750,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.76)
-
-
 
 वदनमिदं
 
@@ -30899,8 +26769,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मलिनयति
 
 यत्कपोलौ
@@ -30915,8 +26783,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.77)
 
-
-
 गर्वमसंवाह्यमिमं
 
 लोचनयुगलेन
@@ -30928,8 +26794,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भद्रे
 
 ।
-
-
 
 सन्तीदृशानि
 
@@ -30947,8 +26811,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.78)
 
-
-
 मम्मटस्य -
 
 आक्षेप
@@ -30958,8 +26820,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रतीपमुपमेयता
 
 ।
-
-
 
 तस्यैव
 
@@ -30977,8 +26837,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 201)
 
-
-
 कैमथ्र्यैन
 
 उपमानस्य
@@ -30992,8 +26850,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अनादर
 
 इति
-
-
 
 अस्य
 
@@ -31009,8 +26865,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 त्यागिनां
 
-
-
 देव
 
 त्वय्यवनीभरक्षमभुजे
@@ -31020,8 +26874,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वेधसा
 
 ।
-
-
 
 इन्दुः
 
@@ -31036,8 +26888,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पूषा
 
 किमुत्पादितं
-
-
 
 चिन्तारत्नमदो
 
@@ -31054,8 +26904,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 553)
-
-
 
 ए
 
@@ -31075,8 +26923,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तुज्झ
 
 मुहेण
@@ -31095,8 +26941,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 554)
 
-
-
 गर्वमसंवाह्यमिमं
 
 लोचनयुगलेन
@@ -31108,8 +26952,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मुग्धे
 
 ।
-
-
 
 सन्तीदृशानि
 
@@ -31129,8 +26971,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 555)
 
-
-
 अहमेव
 
 गुरुः
@@ -31148,8 +26988,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दृप्यः
 
 ।
-
-
 
 ननु
 
@@ -31171,8 +27009,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 556)
 
-
-
 रुय्यकस्तु
 
 प्रतीपस्य
@@ -31182,8 +27018,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 इत्थं
 
 विदधाति -
-
-
 
 उपमानस्याक्षेप
 
@@ -31197,8 +27031,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 70)
 
-
-
 उदाहरणानि
 
 तु
@@ -31206,8 +27038,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मम्मटस्यैव
 
 ।
-
-
 
 जयदेवो
 
@@ -31218,8 +27048,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हीनत्वमुपमेयतः
 
 ।
-
-
 
 दृष्टं
 
@@ -31237,8 +27065,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.100)
 
-
-
 विश्वनाथस्तु
 
 द्विधा
@@ -31255,15 +27081,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 प्रसिद्धस्योपमानस्योपमेयत्व
 
 प्रकल्पनम्
 
 ।
-
-
 
 निष्फलत्वाभिधानं
 
@@ -31276,8 +27098,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 साद. 10.87)
-
-
 
 यथा -
 
@@ -31292,8 +27112,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 तथा
 
@@ -31317,8 +27135,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चेद्द्युतिः
 
-
-
 तच्चक्षुर्यदि
 
 हारितं
@@ -31330,8 +27146,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सुधा ?
 
 ।
-
-
 
 धिक्कन्दर्पधनुभ्र्रुवौ
 
@@ -31349,8 +27163,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ब्रूमहे
 
-
-
 यत्सत्यं
 
 पुनरुक्तवस्तुविमुखः
@@ -31365,15 +27177,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 इत्युपमानस्योमेयत्वकल्पनायास्तन्निष्फलतायाश्च
 
 क्रमेणोदाहरणे
 
 ।
-
-
 
 द्वितीयं
 
@@ -31383,8 +27191,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चेत्थम् -
 
-
-
 उक्त्वा
 
 चात्यन्तमुत्कर्षमत्युत्कृष्टस्य
@@ -31392,8 +27198,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वस्तुनः
 
 ।
-
-
 
 कल्पितेऽप्युपमानत्वे
 
@@ -31404,8 +27208,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 साद. 10.88)
-
-
 
 उदा. -
 
@@ -31427,8 +27229,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ननु
 
 सन्ति
@@ -31449,8 +27249,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 63\.
 
 सामान्यम् -
@@ -31464,8 +27262,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 गुणसाम्यविवक्षया
 
 ।
-
-
 
 ऐकात्म्यं
 
@@ -31485,21 +27281,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 202)
 
-
-
 मलयजरसविलिप्ततनवो
 
 नवहारलताविभूषिताः
-
-
 
 सिततरदन्तपत्रकृतवक्त्ररुचो
 
 रुचिरामलांशुकाः
 
 ।
-
-
 
 शशभृति
 
@@ -31510,8 +27300,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 धरामविभाव्यतां
 
 गताः
-
-
 
 प्रियवसतिं
 
@@ -31527,8 +27315,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 557)
 
-
-
 रुय्यकोऽत्र
 
 प्रकारान्तरेण
@@ -31538,8 +27324,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 समर्थयति
 
 ।
-
-
 
 जयदेवस्तु -
 
@@ -31559,8 +27343,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पद्माकरप्रविष्टानां
 
 मुखं
@@ -31572,8 +27354,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.34)
-
-
 
 विश्वनाथः -
 
@@ -31587,15 +27367,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.89)
 
-
-
 उदा. -
 
 मल्लिकाचितधम्मिल्लाश्चारुचन्दनचर्चिताः
 
 ।
-
-
 
 अविभाव्याः
 
@@ -31611,8 +27387,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 64\.
 
 विशेषः -
@@ -31627,8 +27401,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 लक्षणं
 
 यथा -
@@ -31640,8 +27412,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निराधारम्
 
 ।
-
-
 
 तादृगुपलभ्यमानं
 
@@ -31655,15 +27425,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.5)
 
-
-
 दिवमप्युपयातानामाकल्पमनल्पगुणगणा
 
 येषाम्
 
 ।
-
-
 
 रमयन्ति
 
@@ -31685,8 +27451,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.6)
 
-
-
 यत्रैकमनेकस्मिन्नाधारे
 
 वस्तु
@@ -31694,8 +27458,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विद्यमानतया
 
 ।
-
-
 
 युगपदभिधीयतेऽसावत्रान्यः
 
@@ -31706,8 +27468,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.7)
-
-
 
 हृदये
 
@@ -31725,8 +27485,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 वयमत्र
 
 निरवकाशा
@@ -31741,8 +27499,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.8)
 
-
-
 यत्रान्यत्कुर्वाणो
 
 युगपत्कार्यान्तरं
@@ -31752,8 +27508,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुर्वीत
 
 ।
-
-
 
 कर्तुमशक्यं
 
@@ -31766,8 +27520,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.9)
-
-
 
 लिखितं
 
@@ -31783,8 +27535,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 स्फुटमात्मनो
 
 लिखन्त्या
@@ -31799,8 +27549,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.10)
 
-
-
 मम्मटे -
 
 विना
@@ -31811,8 +27559,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एकात्मा
 
 युगपद्
@@ -31821,8 +27567,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 अन्यत्
 
 प्रकुर्वतः
@@ -31830,8 +27574,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कार्यमशक्यस्यान्यवस्तुनः
 
 ।
-
-
 
 तथैवकरणं
 
@@ -31847,8 +27589,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 203)
 
-
-
 प्रसिद्धाधारपरिहारेण
 
 आधेयस्य
@@ -31859,15 +27599,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 दिवमप्युपयातानामाकल्पमनल्पगुणगणा
 
 येषाम्
 
 ।
-
-
 
 रमयन्ति
 
@@ -31891,8 +27627,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 559)
 
-
-
 एकमपि
 
 वस्तु
@@ -31906,8 +27640,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वर्तते,
 
 यथा -
-
-
 
 सा
 
@@ -31931,8 +27663,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अह्मारिसाण
 
 सुन्दर
@@ -31949,8 +27679,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 560)
 
-
-
 रभसा
 
 आरभमाणः
@@ -31961,8 +27689,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 स्फुरदद्भुतरूपमुत्प्रतापज्वलनं
 
 त्वां
@@ -31970,8 +27696,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सृजतानवद्यविद्यम्
 
 ।
-
-
 
 विधिना
 
@@ -31993,8 +27717,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 561)
 
-
-
 यथा
 
 वा -
@@ -32014,8 +27736,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कलाविधौ
 
 ।
-
-
 
 करुणा
 
@@ -32043,8 +27763,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 562)
 
-
-
 रुय्यकस्तु -
 
 अनाधारमाधेयमेकमनेकगोचरमशक्यवस्त्वन्तरकरणं
@@ -32054,8 +27772,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 50)
-
-
 
 तस्य
 
@@ -32069,23 +27785,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 आधारहीन
 
 आधेयरूपो
 
 विशेषालङ्कारः -
 
-
-
 दिवमप्युपयातानामाकल्पमनल्पगुणगणा
 
 येषाम्
 
 ।
-
-
 
 रमयन्ति
 
@@ -32107,13 +27817,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 182)
 
-
-
 एकस्यानेकगोचरत्वरूपो
 
 विशेषः -
-
-
 
 प्रासादे
 
@@ -32135,8 +27841,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सा
 
-
-
 पर्यङ्के
 
 सा
@@ -32153,8 +27857,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 हंहो
 
 चेतः
@@ -32170,8 +27872,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सा
 
 सा
-
-
 
 सा
 
@@ -32191,15 +27891,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 183)
 
-
-
 असम्भाव्यवस्त्वन्तरस्य
 
 निष्पादनरूपो
 
 विशेषः -
-
-
 
 निमेषमपि
 
@@ -32210,8 +27906,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 करिष्यसि
 
 ।
-
-
 
 पदं
 
@@ -32231,8 +27925,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 184)
 
-
-
 जयदेवेन -
 
 विशेषः
@@ -32242,8 +27934,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विनाप्याधेयवर्णनम्
 
 ।
-
-
 
 गतेऽपि
 
@@ -32257,8 +27947,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.85)
 
-
-
 प्रसिद्धाधारं
 
 विनाप्याधेयस्यावस्थानं
@@ -32270,8 +27958,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वाग्भटप्रथमः
 
 ।
-
-
 
 उदाहरणं
 
@@ -32289,8 +27975,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विश्वनाथस्तु
 
 त्रिविधं
@@ -32299,15 +27983,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तथाहि -
 
-
-
 यदाधेयमनाधारमेकं
 
 चानेकगोचरम्
 
 ।
-
-
 
 किञ्चित्
 
@@ -32318,8 +27998,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वा
 
 ॥
-
-
 
 कार्यस्य
 
@@ -32333,8 +28011,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.74)
 
-
-
 क्रमेणोदाहरणानि -
 
 दिवमप्युपयातानामाकल्पमनल्पगुणगणा
@@ -32342,8 +28018,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 येषाम्
 
 ।
-
-
 
 रमयन्ति
 
@@ -32367,8 +28041,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 कानने
 
 सरिदुद्देशे
@@ -32378,8 +28050,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कन्दरे
 
 ।
-
-
 
 पश्यन्त्यन्तकसंकाशं
 
@@ -32394,8 +28064,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 गृहिणी
 
@@ -32412,8 +28080,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कलाविधौ
 
 ।
-
-
 
 करुणा
 
@@ -32441,8 +28107,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 65\.
 
 तद्गुणः -
@@ -32454,8 +28118,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 योगलक्ष्यरूपाणाम्
 
 ।
-
-
 
 संसर्गे
 
@@ -32475,8 +28137,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.22)
 
-
-
 नवधौतधवलवसनाश्चन्द्रिकया
 
 सान्द्रया
@@ -32484,8 +28144,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तिरोगमिताः
 
 ।
-
-
 
 रमणभवनान्यशङ्काः
 
@@ -32497,8 +28155,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.23)
 
-
-
 असमानगुणं
 
 यस्मिन्नतिबहलगुणेन
@@ -32508,8 +28164,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वस्तु
 
 ।
-
-
 
 संसृष्टं
 
@@ -32525,8 +28179,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.24)
 
-
-
 कुब्जकमालापि
 
 कृता
@@ -32539,8 +28191,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एतत्प्रभानुलिप्ता
 
 चम्पकदामभ्रमं
@@ -32550,8 +28200,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.25)
-
-
 
 मम्मटेन -
 
@@ -32564,8 +28212,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यत्
 
 ।
-
-
 
 वस्तु
 
@@ -32585,8 +28231,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 204)
 
-
-
 विभिन्नवर्णा
 
 गरुडाग्रजेन
@@ -32600,8 +28244,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्फुरन्त्या
 
 ।
-
-
 
 रत्नैः
 
@@ -32621,8 +28263,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 563)
 
-
-
 रुय्यकेन -
 
 स्वगुणत्यागादत्युत्कृष्टगुणस्वीकारस्तद्गुणः
@@ -32630,8 +28270,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 73)
-
-
 
 उदाहरणे
 
@@ -32647,8 +28285,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जयदेवः -
 
 तद्गुणः
@@ -32659,8 +28295,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पद्मरागारुणं
 
 नासामौक्तिकं
@@ -32670,8 +28304,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.102)
-
-
 
 यत्र
 
@@ -32687,8 +28319,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इति
 
-
-
 प्रथमवाग्भटः
 
 । (
@@ -32696,8 +28326,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कानु.
 
 पृ.45)
-
-
 
 66\.
 
@@ -32716,8 +28344,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 सू. 205)
-
-
 
 धवलोऽसि
 
@@ -32741,8 +28367,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 राअभरिए
 
 वि
@@ -32763,8 +28387,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 564)
 
-
-
 अप्रकृतस्य
 
 रूपं
@@ -32783,8 +28405,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यथा -
 
 गाङ्गमम्बु
@@ -32798,8 +28418,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मज्जतः
 
 ।
-
-
 
 राजहंस
 
@@ -32825,8 +28443,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 565)
 
-
-
 रुय्यकस्य
 
 यथा -
@@ -32841,15 +28457,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 74)
 
-
-
 उदाहरणन्तु
 
 मम्मटानुगतम्
 
 ।
-
-
 
 जयदेवस्य
 
@@ -32858,8 +28470,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सङ्गतान्यगुणानङ्गीकारमाहुरतद्गुणम्
 
 ।
-
-
 
 विशन्नपि
 
@@ -32876,8 +28486,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.105)
-
-
 
 तत्
 
@@ -32899,8 +28507,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उदा. -
 
 सज्जणसंगेण
@@ -32910,8 +28516,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कसुसिमानओसरइं
 
 ।
-
-
 
 ससिमण्डलमब्भपरिहिउहि
 
@@ -32927,8 +28531,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.45)
 
-
-
 67\.
 
 व्याघातः -
@@ -32942,8 +28544,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कार्यस्य
 
 ।
-
-
 
 यस्मिन्नभिधीयेत
 
@@ -32959,8 +28559,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.52)
 
-
-
 यत्र
 
 सुरतप्रदीपा
@@ -32970,8 +28568,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 महामणयः
 
 ।
-
-
 
 माल्यस्यापि
 
@@ -32984,8 +28580,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.53)
-
-
 
 मम्मटेन -
 
@@ -33000,8 +28594,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तदन्यथा
 
 ।
-
-
 
 तथैव
 
@@ -33023,8 +28615,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 206)
 
-
-
 दृशा
 
 दग्धं
@@ -33038,8 +28628,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 याः
 
 ।
-
-
 
 विरूपाक्षस्य
 
@@ -33055,8 +28643,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 566)
 
-
-
 रुय्यकस्त्वत्र
 
 प्रकारान्तरेण
@@ -33067,8 +28653,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 जयदेवस्तु -
 
 स्याद्
@@ -33078,8 +28662,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वस्त्वन्यक्रियमुच्यते
 
 ।
-
-
 
 यैर्जगत्
 
@@ -33094,8 +28676,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.86)
-
-
 
 विश्वनाथस्तु -
 
@@ -33115,8 +28695,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तेनैव
 
 चेदुपायेन
@@ -33126,8 +28704,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 साद. 10.74-75)
-
-
 
 तदुदाहरणं
 
@@ -33147,8 +28723,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विरूपाक्षस्य
 
 जयिनीस्ताः
@@ -33162,8 +28736,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 प्रकारान्तरमपि
 
@@ -33180,8 +28752,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कार्यस्य
 
 विरुद्धं
-
-
 
 क्रियते
 
@@ -33201,8 +28771,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कतिपयैः
 
-
-
 समागन्ता
 
 कान्ते
@@ -33215,8 +28783,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मृदुत्वं
 
 मे
@@ -33228,8 +28794,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भवता
 
 गन्तुमधिकं
-
-
 
 न
 
@@ -33244,8 +28808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 अत्र
 
@@ -33264,8 +28826,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 च
 
 प्रत्युत
-
-
 
 सहगमने
 
@@ -33287,8 +28847,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कृतकार्यमपरेण
 
-
-
 तथैवान्यथा
 
 विधीयते
@@ -33309,8 +28867,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उदाहरणमसौ
 
 मम्मटदत्तमेव
@@ -33318,8 +28874,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ददाति
 
 ।
-
-
 
 68\.
 
@@ -33335,8 +28889,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रचिता
 
 रत्नमालेव
@@ -33350,8 +28902,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालभा. 3.49)
-
-
 
 मम्मटस्य -
 
@@ -33369,8 +28919,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 काप्र. 207)
 
-
-
 भेदेन
 
 इति
@@ -33385,15 +28933,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 शब्दालङ्कारसंसृष्टिर्यथा -
 
 वदनसौरभलोभपरिभ्रमद्भ्रमरसम्भ्रमशोभितशोभया
 
 ।
-
-
 
 चलितया
 
@@ -33407,8 +28951,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 567)
 
-
-
 अर्थालङ्कारसंसृष्टिर्यथा -
 
 लिम्पतीव
@@ -33421,8 +28963,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 असत्पुरुषसेवेव
 
 दृष्टिर्विफलतां
@@ -33434,8 +28974,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 568)
-
-
 
 अत्र
 
@@ -33453,8 +28991,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 एव
 
-
-
 उपमोत्प्रेक्षे
 
 संसृÏ
@@ -33464,8 +29000,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रयोजयतः
 
 ।
-
-
 
 शब्दार्थालङ्कारयोः
 
@@ -33487,8 +29021,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तरुणाण
 
 हिअअलूडिं
@@ -33503,8 +29035,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 569)
 
-
-
 अत्र
 
 अनुप्रासो
@@ -33514,8 +29044,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 चान्योन्यनिरपेक्षे
 
 ।
-
-
 
 रुय्यकस्तु "
 
@@ -33531,8 +29059,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इति
 
-
-
 लक्षणं
 
 निरूपयति
@@ -33547,11 +29073,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यथाक्रममेतेषामुदाहरणानि
-
-
 
 यथा -
 
@@ -33560,8 +29082,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुसुमसौरभलोभपरिभ्रमद्भ्रमरसंभ्रमसंभृतशोभया
 
 ।
-
-
 
 चलितया
 
@@ -33572,8 +29092,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 264)
-
-
 
 अर्थालङ्कारसंसृष्टिः -
 
@@ -33590,8 +29108,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सभृङ्गमब्जम्
 
 ।
-
-
 
 एष
 
@@ -33611,8 +29127,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 265)
 
-
-
 उभयसंसृष्टिः -
 
 आनन्दमन्थरपुरन्दरमुक्तमाल्यं
@@ -33627,8 +29141,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पादाम्बुजं
 
 भवतु
@@ -33642,8 +29154,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 267)
-
-
 
 69\.
 
@@ -33661,8 +29171,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 208)
 
-
-
 यत्रैते
 
 अनासादितस्वतन्त्रभावाः
@@ -33672,8 +29180,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 अनुग्राह्यानुग्राहकतां
 
 दधति,
-
-
 
 स
 
@@ -33685,8 +29191,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आत्ते
 
 सीमन्तरत्ने
@@ -33696,8 +29200,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 हृते
 
 हेमताटङ्कपत्रे
-
-
 
 लुप्तायां
 
@@ -33711,15 +29213,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 शोणं
 
 बिम्बोष्ठकान्त्या
 
 त्वदरिमृगदृशामित्वरीणामरण्ये
-
-
 
 राजन्
 
@@ -33743,8 +29241,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 570)
 
-
-
 अत्र
 
 तद्गुणमपेक्ष्य
@@ -33759,8 +29255,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 तद्गुणः
 
-
-
 प्रभूतचमत्कृतिनिमित्तं
 
 सञ्जात
@@ -33773,8 +29267,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यथा
 
 वा -
@@ -33783,19 +29275,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 करधृतकलङ्काक्षवलयो
 
-
-
 वियोगिव्यापत्तेरिव
 
 कलितवैराग्यविशदः
 
 ।
 
-
-
 परिप्रेङ्खत्तारापरिकरकपालाङ्किततले
-
-
 
 शशी
 
@@ -33815,8 +29301,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 571)
 
-
-
 उपमा
 
 रूपकम्
@@ -33833,8 +29317,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अयं
 
 शब्दालङ्कारयोरपि
@@ -33843,15 +29325,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 राजति
 
 तटीयमभिहतदानवरासातिपातिसारवनदा
 
 ।
-
-
 
 गजता
 
@@ -33871,8 +29349,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 572)
 
-
-
 अत्र
 
 यमकम्
@@ -33886,8 +29362,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 परस्परापेक्षे
 
 ।
-
-
 
 अन्यच्च -
 
@@ -33905,8 +29379,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 209)
 
-
-
 अयं
 
 निश्चयाभावरूपः
@@ -33918,8 +29390,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 यथा -
-
-
 
 जह
 
@@ -33934,8 +29404,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 णिम्मलच्छाओ
 
 ।
-
-
 
 तह
 
@@ -33955,8 +29423,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 अत्र
 
 समासोक्तिः,
@@ -33975,15 +29441,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वा -
 
-
-
 नयनानन्ददायीन्दोर्बिम्बमेतत्
 
 प्रसीदति
 
 ।
-
-
 
 अधुनापि
 
@@ -33997,8 +29459,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उ. 574)
 
-
-
 अत्र
 
 पर्यायोक्तमतिशयोक्तिर्वा
@@ -34010,8 +29470,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तुल्ययोगिता
 
 समासोक्तिरप्रस्तुतप्रशंसा
-
-
 
 वेति
 
@@ -34035,8 +29493,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 सू. 210)
 
-
-
 अभिन्ने
 
 एव
@@ -34059,8 +29515,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यथा -
 
 स्पष्टोल्लसत्किरणकेसरसूर्यबिम्बविस्तीर्णकर्णिकमथो
@@ -34068,8 +29522,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दिवसारविन्दम्
 
 ।
-
-
 
 श्लिष्टाष्टदिग्दलकलापमुखावतारबद्धान्धकारमधुपावलि
 
@@ -34080,8 +29532,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काप्र.
 
 उ. 579)
-
-
 
 अनुग्राह्यानुग्राहकतया,
 
@@ -34094,8 +29544,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 व्यवस्थापनात्
 
 ।
-
-
 
 रुय्यकस्य
 
@@ -34111,8 +29559,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 86)
 
-
-
 अनुत्कटभेदत्वमिश्रत्वं
 
 सङ्करः
@@ -34124,8 +29570,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मिश्रत्वमङ्गाङ्गिभावेन,
 
 संशयेन,
-
-
 
 एकवाचकानुप्रवेशेन
 
@@ -34139,8 +29583,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 अङ्गुलीभिरिव
 
 केशसंचयं
@@ -34153,8 +29595,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कुड्मलीकृतसरोजलोचनं
 
 चुम्बतीव
@@ -34166,8 +29606,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 268)
-
-
 
 यः
 
@@ -34185,8 +29623,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चैत्रक्षपा-
 
-
-
 स्ते
 
 चोन्मीलितमालतीसुरभयः
@@ -34197,8 +29633,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 सा
 
 चैवास्मि
@@ -34208,8 +29642,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्र
 
 सुरतव्यापारलीलाविधौ
-
-
 
 रेवारोधसि
 
@@ -34223,8 +29655,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 271)
 
-
-
 मुरारिनिर्गता
 
 नूनं
@@ -34232,8 +29662,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नरकप्रतिपन्थिनी
 
 ।
-
-
 
 तवापि
 
@@ -34250,8 +29678,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 276)
-
-
 
 70\.
 
@@ -34271,8 +29697,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 पुष्टार्थमविपरीतं
 
 निरुपममनतिशयमश्लेषम्
@@ -34281,23 +29705,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.10)
 
-
-
 तस्य
 
 सहोक्तिसमुच्चयजातियथासङ्ख्यभावपर्यायाः
 
 ।
 
-
-
 विषमानुमानदीपकपरिकरपरिवृत्तिपरिसङ्ख्याः
 
 ॥ (
 
 कालरु. 7.11)
-
-
 
 हेतुः
 
@@ -34308,8 +29726,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सारम्
 
 ।
-
-
 
 सूक्ष्मं
 
@@ -34322,8 +29738,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.12)
-
-
 
 71\.
 
@@ -34343,8 +29757,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 गमयति
 
 तदभिप्रायं
@@ -34361,8 +29773,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.38)
 
-
-
 ग्रामतरुणं
 
 तरुण्या
@@ -34370,8 +29780,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 नववञ्जुलमञ्जरीसनाथकरम्
 
 ।
-
-
 
 पश्यन्त्या
 
@@ -34387,8 +29795,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.39)
 
-
-
 मम्मटेनेदमुदाहरणं
 
 मध्यमकाव्यस्य (
@@ -34400,8 +29806,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दत्तम्
 
 ।
-
-
 
 प्रकारान्तरेण
 
@@ -34415,8 +29819,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अर्थान्तरमवगमयति
 
 यद्वाक्यं
@@ -34428,8 +29830,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 7.40)
-
-
 
 उदाहरणम् -
 
@@ -34450,8 +29850,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विदेशम्
 
 ।
-
-
 
 किं
 
@@ -34475,8 +29873,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 7.40)
 
-
-
 वाग्भटप्रथमस्तु -
 
 यत्र
@@ -34494,8 +29890,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 लक्षणमाह
 
 ।
-
-
 
 (
 
@@ -34515,8 +29909,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 72\.
 
 मतम् -
@@ -34533,8 +29925,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 ब्रूयादथोपमानं
 
 तथा
@@ -34547,13 +29937,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.69)
 
-
-
 मदिरामदभरपाटलमलिकुलनीलालकालिधम्मिल्लम्
 
 ।
-
-
 
 तरुणीमुखमिति
 
@@ -34569,8 +29955,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.70)
 
-
-
 उदाहरणम् -
 
 मन्येऽहमिन्दुरेषः
@@ -34583,8 +29967,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 उदयगिरी
 
 छद्मपरैर्निशातमोभिर्गृहीत
@@ -34594,8 +29976,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.71)
-
-
 
 वाग्भटप्रतमस्तु -
 
@@ -34615,8 +29995,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.44)
 
-
-
 उदा. -
 
 यदेतत्
@@ -34624,8 +30002,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कन्यानामुरसि
 
 तरुणीसङ्गसमये
-
-
 
 कृतोद्भेदं
 
@@ -34639,13 +30015,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 मतिस्त्वेषास्माकं
 
 कुचयुगतटीचुम्बनशिला
-
-
 
 समावेषाकृष्टस्मरशरशलाकोत्कर
 
@@ -34657,8 +30029,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.44)
 
-
-
 मम्मटादिनिरूपितायामपह्नुतौ
 
 अस्यान्तर्भावः
@@ -34668,8 +30038,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 शक्यते
 
 ।
-
-
 
 73\.
 
@@ -34685,8 +30053,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रुद्रटस्य -
 
 यत्रैकविधावर्थौ
@@ -34698,8 +30064,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तयोरपूर्वस्य
 
 ।
-
-
 
 अभिधानं
 
@@ -34715,8 +30079,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.97)
 
-
-
 काले
 
 जलदकुलाकुलदशदिशि
@@ -34726,8 +30088,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वियोगिनीवदनम्
 
 ।
-
-
 
 गलदविरलसलिलभरं
 
@@ -34739,8 +30099,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.98)
 
-
-
 रुद्रटेनातिशयमूलकालङ्कारेष्वपि
 
 पृथक्तया
@@ -34751,8 +30109,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 यत्रातिप्रबलतया
 
 विवक्ष्यते
@@ -34762,8 +30118,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 जन्यस्य
 
 ।
-
-
 
 प्रादुर्भावः
 
@@ -34779,8 +30133,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.3)
 
-
-
 जन्मसुलभमभिलषतामादौ
 
 दन्दह्यते
@@ -34790,8 +30142,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यूनाम्
 
 ।
-
-
 
 गुरुरनिवारप्रसरः
 
@@ -34803,8 +30153,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.4)
 
-
-
 मम्मटमतेनायमतिशयोक्तेः
 
 कारणकार्यभावविपर्ययरूपाया
@@ -34814,8 +30162,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 भेदः
 
 ।
-
-
 
 अर्वाचीनस्यार्थस्य
 
@@ -34833,8 +30179,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 भवभूतेः
 
-
-
 पद्यमिदमनेनोदाहृतम् -
 
 हृदयमधिष्ठितमादौ
@@ -34844,8 +30188,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कुसुमचापबाणेन
 
 ।
-
-
 
 चरमं
 
@@ -34860,8 +30202,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कानु.
 
 पृ.43)
-
-
 
 74\.
 
@@ -34881,8 +30221,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 रुद्रटेऽस्य
 
-
-
 लक्षणम् -
 
 अर्थक्रियया
@@ -34893,8 +30231,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 तत्सामान्यगुणमधिककारणया
 
 तद्भवेत्साम्यम्
@@ -34902,8 +30238,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.105)
-
-
 
 अभिसर
 
@@ -34916,8 +30250,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विलोकयसि
 
 ।
-
-
 
 शशिनः
 
@@ -34937,8 +30269,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 8.106)
 
-
-
 सर्वाकारं
 
 यस्मिन्नुभयोरभिधातुमन्यथा
@@ -34946,8 +30276,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 साम्यम्
 
 ।
-
-
 
 उपमेयोत्कर्षकरं
 
@@ -34958,8 +30286,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.107)
-
-
 
 मृगं
 
@@ -34979,8 +30305,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आहार्यमेवं
 
 मृगनाभिपत्रमियानशेषेण
@@ -34990,8 +30314,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 8.108)
-
-
 
 75\.
 
@@ -35011,8 +30333,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रुद्रटमतेन -
 
 यत्रातिप्रबलतया
@@ -35022,8 +30342,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 समानाधिकरणमसमानम्
 
 ।
-
-
 
 अर्थान्तरं
 
@@ -35035,8 +30353,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 कालरु. 9.50)
 
-
-
 प्रियतमवियोगजनिता
 
 कृशता
@@ -35047,8 +30363,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 लसदिन्दुकलाकोमलकान्तिकलापेषु
 
 लक्ष्येत
@@ -35056,8 +30370,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 कालरु. 9.51)
-
-
 
 एकत्राधारे
 
@@ -35079,8 +30391,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अनन्तरत्नप्रभवस्य
 
 यस्य
@@ -35094,8 +30404,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 जातम्
 
 ।
-
-
 
 एको
 
@@ -35111,8 +30419,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ॥
 
-
-
 इति
 
 कलिदासीयं
@@ -35126,8 +30432,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कानु.
 
 पृ.43)
-
-
 
 76\.
 
@@ -35147,8 +30451,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वामन-
 
-
-
 कुन्तकादिषु
 
 अस्य
@@ -35167,8 +30469,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 विद्याधर-
 
-
-
 विश्वनाथाप्पयदीक्षित-
 
 पण्डितराज-
@@ -35184,8 +30484,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 इव
 
 अस्मिन्नपि
-
-
 
 प्रकृते
 
@@ -35213,8 +30511,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रुय्यक-
 
 विश्वनाथ-
@@ -35228,8 +30524,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 आरोप्यमाणस्य
 
 प्रकृतरूपेण
-
-
 
 परिणमनं,
 
@@ -35247,8 +30541,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आरोप्यमाणस्य
 
 प्रकृतोपयोगित्वे
@@ -35258,8 +30550,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 अस. 16)
-
-
 
 तस्य
 
@@ -35273,15 +30563,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 तीत्र्वा
 
 भूतेशमौलिस्रजममरधुनीमात्मनासौ
 
 तृतीय-
-
-
 
 स्तस्मै
 
@@ -35291,15 +30577,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 व्यामग्राह्यस्तनीभिः
 
 शबरयुवतिभिः
 
 कौतुकोदञ्चदक्षं
-
-
 
 कृच्छ्रादन्वीयमानस्त्वरितमथ
 
@@ -35313,8 +30595,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 32)
 
-
-
 द्वितीयो
 
 यथा -
@@ -35326,8 +30606,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सरसैर्वक्त्रपथाश्रितैर्वचोभिः
 
 ।
-
-
 
 क्षितिभर्तुरुपायनं
 
@@ -35341,8 +30619,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 33)
 
-
-
 जयदेवस्तु -
 
 परिणामोऽनयोर्यस्मिन्नभेदः
@@ -35350,8 +30626,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पर्यवस्यति
 
 ।
-
-
 
 कान्तेन
 
@@ -35367,8 +30641,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.22)
 
-
-
 विश्वनाथोऽप्येवमेव
 
 लक्षयति -
@@ -35380,8 +30652,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रकृतार्थोपयोगिनि
 
 ।
-
-
 
 परिणामो
 
@@ -35395,8 +30665,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.34)
 
-
-
 उदा. -
 
 स्मितेनोपायनं
@@ -35408,8 +30676,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 मम
 
 ।
-
-
 
 स्तनोपपीडमाश्लेषः
 
@@ -35424,8 +30690,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 अत्र
 
@@ -35442,8 +30706,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्रयोगः
 
 ।
-
-
 
 रूपके
 
@@ -35463,8 +30725,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 रूपकवदयमपि
 
-
-
 अधिकारूढवैशिष्ट्योऽलक्षि
 
 विश्वनाथेन
@@ -35481,8 +30741,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 प्रदत्तम् -
 
-
-
 वनेचराणां
 
 वनितासखानां
@@ -35490,8 +30748,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दरीगृहोत्सङ्गनिषक्तभासः
 
 ।
-
-
 
 भवन्ति
 
@@ -35502,8 +30758,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सुरतप्रदीपाः
 
 ॥
-
-
 
 धर्मसूरिमतेनास्य
 
@@ -35521,8 +30775,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 प्रकृतार्थोपयोगाय
 
 परिणामः
@@ -35538,8 +30790,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सार.
 
 पृ.543-44)
-
-
 
 अयं
 
@@ -35557,8 +30807,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आद्यस्योदाहरणम् -
 
 बोधाय
@@ -35570,8 +30818,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 दशमुखादिदष्टायाः
 
 ।
-
-
 
 भवतो
 
@@ -35589,8 +30835,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.544)
 
-
-
 चापटङ्कारैरिति
 
 पाठादयमेव
@@ -35598,8 +30842,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वैयधिकरण्यस्योदाहरणम्
 
 ।
-
-
 
 77\.
 
@@ -35617,8 +30859,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 आमुनेरा
 
-
-
 मम्मटादस्यानुल्लेखात्
 
 ।
@@ -35632,8 +30872,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 शौद्धोधनि-
 
 केशवमिश्रादिभिरपि
-
-
 
 नायमुल्लेख
 
@@ -35651,8 +30889,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 विश्वनाथाप्पयदीक्षित-
 
-
-
 नरसिंहकवि-
 
 नरेन्द्रप्रभसूरिभिरयं
@@ -35660,8 +30896,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 निरूपितः
 
 ।
-
-
 
 रुय्यकस्य
 
@@ -35677,8 +30911,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 19)
 
-
-
 उदा. -
 
 यथारुचि
@@ -35691,8 +30923,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 आभासोऽप्यर्थ
 
 एकस्मिन्ननुसंधानसाधिते
@@ -35701,15 +30931,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 40)
 
-
-
 बहुभिर्बहुधोल्लेखादेकस्योल्लेखिता
 
 मता
 
 ।
-
-
 
 स्त्रीभिः
 
@@ -35727,8 +30953,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.23)
 
-
-
 विश्वनाथेनायमित्थमलक्षि -
 
 क्वचिद्
@@ -35745,8 +30969,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 एकस्यानेकधोल्लेखो
 
 यः
@@ -35760,8 +30982,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 साद. 10.37)
-
-
 
 ज्ञातृभेदनिबन्धनं
 
@@ -35783,8 +31003,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 नारायण
 
 इति
@@ -35798,8 +31016,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 अत्र
 
@@ -35821,8 +31037,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 भ्रान्तिमान्,
 
-
-
 न
 
 चायमभेदे
@@ -35834,8 +31048,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रूपातिशयोक्तिः
 
 ।
-
-
 
 विषयभेदनिबन्धन
 
@@ -35857,11 +31069,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 धर्मसूरेर्लक्षणम् - -
-
-
 
 78\.
 
@@ -35881,8 +31089,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 भोजस्त्वेनं
 
 वाकोवाक्यमिति
@@ -35894,8 +31100,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वाग्भटः
 
 प्रश्नोत्तरिकेति
-
-
 
 धर्मसूरि-
 
@@ -35911,8 +31115,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 विद्याधरो
 
-
-
 विकल्पयति
 
 ।
@@ -35927,8 +31129,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 इति
 
-
-
 सामान्यमस्य
 
 लक्षणं
@@ -35938,8 +31138,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्वीकुर्वन्ति
 
 ।
-
-
 
 जयदेवस्य
 
@@ -35952,8 +31150,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्यूतमुत्तरमुत्तरम्
 
 ।
-
-
 
 यत्रासौ
 
@@ -35970,8 +31166,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.108)
-
-
 
 धर्मसूरेर्लक्षणं
 
@@ -35991,8 +31185,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.706)
 
-
-
 समुदायादुत्कृष्टोत्कृष्टनिर्धारणं
 
 सारमिति
@@ -36004,8 +31196,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 काव्यानु.
 
 पृ.42)
-
-
 
 79\.
 
@@ -36019,8 +31209,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अप्पयदीक्षित-
 
-
-
 नरसिंहप्रभृतयोऽर्थापत्तौ
 
 कैमुतिकन्यायमपेक्षन्ते,
@@ -36028,8 +31216,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विश्वनाथः,
 
 तमनुरुन्धानो
-
-
 
 धर्मसूरिश्च
 
@@ -36041,8 +31227,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 विश्वनाथस्य
 
 लक्षणम् -
@@ -36053,8 +31237,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.83)
 
-
-
 विश्वनाथ
 
 एनं
@@ -36064,8 +31246,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विभाजयति -
 
 प्राकरणिकादर्थादप्राकरणिकस्यार्थस्यापतनमिति
-
-
 
 प्रथमः,
 
@@ -36081,8 +31261,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 उभयोरुदाहरणानि -
 
-
-
 हारोऽयं
 
 हरिणाक्षीणां
@@ -36092,8 +31270,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 स्तनमण्डले
 
 ।
-
-
 
 मुक्तानामप्यवस्थेयं
 
@@ -36109,8 +31285,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 विललाप
 
 सबाष्पगद्गदं
@@ -36120,8 +31294,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 धीरताम्
 
 ।
-
-
 
 अतितप्तमयोऽपि
 
@@ -36140,8 +31312,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 तत्रैव
 
 वृत्तौ)
-
-
 
 (
 
@@ -36163,8 +31333,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पाठः)
 
-
-
 धर्मसूरिस्तु
 
 इह
@@ -36177,8 +31345,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 कÏ
 
 स्मश्चिदर्थे
@@ -36189,8 +31355,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 दण्डापूपनयेनार्थापत्तिस्तत्र
 
 ह्यलङ्कृतिः
@@ -36200,8 +31364,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सार.
 
 पृ.657)
-
-
 
 भोजेन
 
@@ -36217,8 +31379,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 धर्मसूरयः
 
-
-
 द्वैविध्यमस्या
 
 ऊरीकुर्वन्ति
@@ -36233,8 +31393,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रुय्यकस्य
 
 यथा -
@@ -36245,8 +31403,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 64)
 
-
-
 अलङ्कारस्यास्य
 
 द्वैविध्यमनेन
@@ -36256,8 +31412,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ।
 
 प्राकरणिकादप्राकरणिकस्यार्थस्यापतनमेकः
-
-
 
 प्रकारः
 
@@ -36273,8 +31427,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 यथा -
 
-
-
 पशुपतिरपि
 
 तान्यहानि
@@ -36282,8 +31434,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कृच्छ्रादगमयदद्रिसुतासमागमोत्कः
 
 ।
-
-
 
 कमपरमवशं
 
@@ -36303,8 +31453,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 213)
 
-
-
 द्वितीयो
 
 यथा -
@@ -36323,8 +31471,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 रिपुसंज्ञकेषु
 
 गणना
@@ -36339,8 +31485,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 214)
 
-
-
 अर्थापत्तिः
 
 स्वयं
@@ -36350,8 +31494,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 पदार्थान्तरवर्णनम्
 
 ।
-
-
 
 स
 
@@ -36366,8 +31508,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.37)
-
-
 
 80\.
 
@@ -36387,8 +31527,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 अनुकल्पस्तु
 
 गौणोक्तिर्मुख्योक्तिसमनन्तरम्
@@ -36398,8 +31536,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सार.
 
 पृ.721)
-
-
 
 उदा. -
 
@@ -36414,8 +31550,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 वा
 
 ।
-
-
 
 यथा
 
@@ -36433,8 +31567,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 तुल्यबलत्वे
 
 विकल्पः,
@@ -36451,8 +31583,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 81\.
 
 समीहितम् -
@@ -36463,8 +31593,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 कार्यमारभमाणस्य
 
 दैवादुपायसम्पत्तिः
@@ -36472,8 +31600,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 समीहितम्
 
 ।
-
-
 
 मनस्विनी
 
@@ -36484,8 +31610,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 यावदभून्निशायाम्
 
 ।
-
-
 
 तावन्नवाम्भोधरधीरनादप्रबोधितः
 
@@ -36498,8 +31622,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 कानु.
 
 पृ.42)
-
-
 
 82\.
 
@@ -36525,8 +31647,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.44)
 
-
-
 उदा. -
 
 आपत्समुद्धरणधीरधियः
@@ -36546,8 +31666,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 सर्वे
 
 ।
-
-
 
 विन्ध्याटवीषु
 
@@ -36569,8 +31687,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 पृ.44)
 
-
-
 83\.
 
 अनुकूलम् -
@@ -36587,8 +31703,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.64)
 
-
-
 उदा. -
 
 कुपितासि
@@ -36602,8 +31716,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 करजक्षतम्
 
 ।
-
-
 
 बधान
 
@@ -36621,8 +31733,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 84\.
 
 विचित्रम् -
@@ -36638,8 +31748,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 अस. 47)
-
-
 
 उदा. -
 
@@ -36659,8 +31767,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 घडिदुं
 
 विहडंति
@@ -36677,8 +31783,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 177)
 
-
-
 जयदेवस्तु -
 
 विचित्रं
@@ -36693,8 +31797,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 नमन्ति
 
 सन्तस्त्रैलोक्यादपि
@@ -36706,8 +31808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 ॥ (
 
 चन्द्रा. 5.82)
-
-
 
 विचित्रं
 
@@ -36723,8 +31823,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 साद. 10.71)
 
-
-
 उदा. -
 
 प्रणमत्युन्नतिहेतोर्जीवितहेतोर्विमुञ्चति
@@ -36732,8 +31830,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 प्राणान्
 
 ।
-
-
 
 दुःखीयति
 
@@ -36751,8 +31847,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 वृत्तौ)
 
-
-
 85\.
 
 विकल्पः -
@@ -36767,15 +31861,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 65)
 
-
-
 उदा. -
 
 भक्तिप्रह्वविलोकनप्रणयिनी
 
 नीलोत्पलस्पर्धिनी
-
-
 
 ध्यानालम्बनतां
 
@@ -36785,8 +31875,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 लावण्यस्य
 
 महानिधी
@@ -36794,8 +31882,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 रसिकतां
 
 लक्ष्मीदृशोस्तन्वती
-
-
 
 युष्माकं
 
@@ -36813,15 +31899,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 अस. 216)
 
-
-
 जयदेवस्तु -
 
 विकल्पस्तुल्यबलयोर्विरोधश्चातुरीयुतः
 
 ।
-
-
 
 कान्ताचित्तेऽधरे
 
@@ -36837,8 +31919,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 चन्द्रा. 5.96)
 
-
-
 विस्वनाथः -
 
 विकल्पस्तुल्यबलयोर्विरोधश्चातुरीयुतः
@@ -36846,8 +31926,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 । (
 
 साद. 10.83)
-
-
 
 उदा. -
 
@@ -36867,8 +31945,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 
 ।
 
-
-
 (
 
 अत्र
@@ -36886,8 +31962,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5NTAyOTg2MzE
 विग्रहोपलक्षणत्वात्
 
 विरोधः )
-
-
-
 
 \]
