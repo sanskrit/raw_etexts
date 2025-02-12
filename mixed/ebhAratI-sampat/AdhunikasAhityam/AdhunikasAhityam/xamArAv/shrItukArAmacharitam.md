@@ -984,6 +984,8 @@ The Sanskrit language, so long left in discare,promises to come into its own in 
 तदा हि वहति स्म वागमृतवाहिनीनिर्झर-  
 स्तदीयहृदयार्द्रितःसततभक्तिवेगोत्कटः॥१३॥
 
+[^1]: "अभङ्ग is the name of a metre very frequently used in the marathi literature."
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 अथाध्यवसदेकदा क्वचन चिंच्वडाख्यं पुरं  
@@ -1727,6 +1729,10 @@ onewith remorse. 63. The good womanAma and her husband Viśwambhara who merited 
 Highest place by the power of constant worship of their God, are
 said by the wise to be the progenitors of Tukarama's family.
 
+[^3]: "Lord Kriṣhṇa, Similarly Viṣṇu Panduranga, Hari, and Mukunda signify Lord Kriṣhṇa"
+
+[^2]: "One who feeds the universe."
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CANTOII**
@@ -1806,6 +1812,8 @@ of poverty. 37. "Your children are distressed with starvationand will soon start
 searching for atoms of grainin rubbish heaps scattered in the
 village lanesby house-wives for their poultry." 38.  He was thus harassed again and again by thelashing words of his
 neighbours but he did notswerve from his devotion for Hari.
+
+[^4]: "The nearest approach to Crouncha bird is a heron."
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2005,6 +2013,10 @@ straw. 38. 40. And he said: "He alone who does not expect any fruit of his
 action, is Hari's true devotee. Such a man is always peaceful." 39. 41 The treasurer of the village, Mahadaji Pant, then kept aside all
 the corn for the use of the villagers.
 
+[^6]: "Dwija in Sanskrit means a bird or a Brahmin."
+
+[^5]: "Another name of Hari."
+
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CANTOV**
@@ -2102,6 +2114,10 @@ parrot is encaged merely becauseof his clever talk. People cut off
 a cow's tail if ithappens to be white and beautiful merely as
 acuriosity." Their words of consolation, however,were of no avail.
 
+[^8]: "Direct perception, wrong perception, doubt, memory andsleep."
+
+[^7]: "Second meaning of this line: wise men foreseeing trouble from marriage, remain unmarried."
+
 **CANTOVI**
 
 1.  Avali once said to her husband: "Today is thesacred day of the
@@ -2197,6 +2213,8 @@ charm. They comforted those whowere distressed with extreme
 anguish; they exalted the blind atheists steeped in the abyss
 ofignorance; they were manifestations of devotionwhich destroyed
 the darkness of countless sinsof previous birth.
+
+[^9]: "Cycle of time."
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -2392,6 +2410,8 @@ sage for a boon, saying: "Giveme a piece of bread to wish good to
 my subjectsand *a coconut to* bless me with a son.' 33. 39 Tukarama gladly gave him both the desired thingsand blessing him
 tenderly, sent him and his motherback to the capital.
 
+[^10]: "Study(अध्ययनम्
+
 **\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **CANTOIX**
@@ -2538,30 +2558,11 @@ coming down slowly towards the earth. 43. 55. It fell down. It wasTukarama's bla
 pair of cymbals! And therethey stood, with their hearts overwhelmed
 withemotions of joy, sorrow, fear, devotion, amazement.
 
-\]
-
 [^13]: " The Eagle is Hari s vehicle according to the Puranas."
 
 [^12]: "Passion, anger, greed, infatuation, pride and envy."
 
 [^11]: "Brahma (Creator
 
-[^10]: "Study(अध्ययनम्
+\]
 
-[^9]: "Cycle of time."
-
-[^8]: "Direct perception, wrong perception, doubt, memory andsleep."
-
-[^7]: "Second meaning of this line: wise men foreseeing trouble from marriage, remain unmarried."
-
-[^6]: "Dwija in Sanskrit means a bird or a Brahmin."
-
-[^5]: "Another name of Hari."
-
-[^4]: "The nearest approach to Crouncha bird is a heron."
-
-[^3]: "Lord Kriṣhṇa, Similarly Viṣṇu Panduranga, Hari, and Mukunda signify Lord Kriṣhṇa"
-
-[^2]: "One who feeds the universe."
-
-[^1]: "अभङ्ग is the name of a metre very frequently used in the marathi literature."

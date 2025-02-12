@@ -17,23 +17,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDI1MDI0MjY3MzU
 
 \[
 
-
-
 [TABLE]
 
-
-
-
-
 In this two-volume work of critically translating the YogasÛtrabhâṣyavivaraṇa (YSBHV) of Śaṅkara, the Yogasûtras of Patañjali, and the bhâṣya of Vyâsa, all these three texts have been brought together for the first time. The question of the authorship of YSBHV has been a vexed one and has engaged the attention of scholars for a long time. In this work the authorship problem has been examined in great detail on the basis of both the internal and external evidences. The author has also drawn attention to some specific references to Vâcaspati Miśra in the body of the Vivaraṇa. This, hopefully, should settle once and for all the authorship problem.
-
-
 
  In this two-volume work of critically translating the Yogasûtrabhâṣyavivaraṇa (YSBHV) of Śankara, the Yogasûtras of Patañjali, and the bhâṣya of Vyâsa, all these three texts have been bought together for the first time. The question of the authorship of YSBHV has been a vexed one and has engaged the attention of scholars for a long time. In this work the authorship problem has been examined in great detail on the basis of both the internal and external evidences. The author has also drawn attention to some specific references to Vâcaspati Miśra in the body of the Vivaraṇa. This, hopefully, should settle once and for all the authorship problem.
 
  Dr. T.S. Rukmani is currently Professor and Chair in Hindu Studies at Concordia University, Montreal,Canada. Before joining the present assignment she had the distinction of being the first Chair in Hindu Studies and Indian Philosophy at the University of Durban-Westville, South Africa. She had a distinguished academic career at the University of Delhi, where her last assignment was Principal, Miranda House. She is the author of ten books which also includes the Yogavârttika of Vijñânabhikṣu, translated into English, 4 vols. (New Delhi, 1981–89). She has innumerable papers to her credit and publishes regularly in academic journals both in India and abroad.
-
-
 
 **Yogasūtrabhāṣyavivaraṇa  
 of Śaṅkara**  
@@ -42,29 +32,17 @@ of Śaṅkara**
 notes alongwith text and English translation of  
 Patañjali's Yogasûtras and Vyâsabhâṣya**
 
-
-
 **T.S. Rukmani**
-
-
-
-
 
 Vol. I  
 Samādhipādaḥ  
 and  
 Sādhanapādaḥ
 
-
-
-
-
 ![](../books_images/U-IMG-1699515038Screenshot2023-11-09125956.png)  
 
 **Munshiram Manoharla।  
 Publishers Pvt. Ltd.**
-
-
 
 Content
 
@@ -77,8 +55,6 @@ Content
 | Sādhanapādaḥ  | 205 |
 | Bibliography  | 379 |
 | Index         | 381 |
-
-
 
 **Abbreviations**
 
@@ -113,36 +89,21 @@ Content
 | Viş. P           | Vişnu Purāṇa                    |
 | YS.              | Yogasūtras of Patan̄jali         |
 
-
-
 **Preface**
 
 The *Yogasūtrabhāṣyavivaraṇa* (YSBHV)—An annotated critical English translation, was the research project for which I was given a fellowship at the Indian Institute of Advanced Study, Shimla, India in 1989–90. At that time I was not aware of TrevorLeggett translating the same work. When I had completed the Samādhipāda in 1990,Leggett's Samādhipāda translation came to my notice. But seeing the divergent approach of that translation from what I was doing, I decided to continue the work.Thus in spite of moving residences and jobs in the interim period (first to South Africa and then to Canada) I kept doggedly on and now it is ready at last.  
 
- 
-
 A number of my friends and colleagues have helped me in many ways in this workand I thank them all for their support. I would, however, like to specially mention Dr.C.S. Radhakrishnan of the Vivekananda College, Madras, India, who was instrumental in procuring some important Sanskrit material, without which this research wouldhave been incomplete.  
-
- 
 
 I take this opportunity to thank Kluwer Academic Publishers for allowing me the use of my published articles in their journals. With their kind permission I haveused material published earlier in their *Journal of Indian* *Philosophy*, vols. 20,1992, pp. 105-9, and 21, 1993, pp. 395-404 titled 'The Problem of the Authorship ofthe *Yogasūtrabhāṣyavivaraṇam*' and 'Sankara's views on Yoga in the *Brahmasūtrabhāṣya* in the light of the authorship of the *Yogasūtrabhāṣyavivaraṇa*' respectively.  
 
- 
-
 My husband S. Rajamani, has been of immense support throughout this period ofhard work and also helped in the preparation of the Index. I would like to record myappreciation for all his understanding and support.  
-
- 
 
 I dedicate this two-volume enterprise to my dear, departed parents. My mother,N.S. Parvathy, stood by me as a solid example of what women can achieve in spite ofthe great odds they are faced with. My father, T.V. Subramaniam, sowed the seeds ofcuriosity and questioning in my mind and was primarily responsible for my taking upSanskrit studies.  
 
- 
-
 Finally I would like to thank my Publisher Mr. Devendra Jain who exerted pressure on me to complete the work and brought it out in record time.
 
-
-
 Department of Religion,                        
-             
 
 T.S. RUKMANI  
 
@@ -150,10 +111,6 @@ Concordia University
 
 *Montreal, Canada*  
 *1 July 2000*
-
-
-
-
 
 **Introduction**
 
@@ -170,8 +127,6 @@ Let me begin the introduction by pointing out how this two-volume work on the*Yo
  Gelblum makes some observations on the word vārtā in sūtra III.36 and the manner in which Leggett has glossed over it[^2]. He has ably refuted Leggett's attempt to give a fanciful interpretation to *vārtā*. Gelblum points out Bhoja's explanation of
 
 [^2]: "Ibid., pp. 84-87."
-
-
 
 vārtā[^3]as also the occurrence of the word vārtā in the Śiva Purāṇa which is quoted by al-Biruni in the eleventh century AD. He has rightly said that Vācaspati Miśra (Miśra) could not have known of the reading *atītasya* in place of *vartamānasya* in the bhāṣyatext of III. 14 and infers that the Vivaraṇakāra (VK) must therefore be later than Miśra. As Vijñānabhikṣu (Bhikṣu) makes the same correction as the VK[^4],it supports whatGelblum says though he (Gelblum) does not seem to know of it. On the basis of his interpretation of YS, IV. 34[^5],Gelblum also argues for the VK being later than Bhoja(eleventh century AD).
 
@@ -197,8 +152,6 @@ Similarly Leggett attaches too much importance to the word Parameśvara undersū
 
 [^9]: "Ibid., VI.30; XI.3; XIII. 13, 22."
 
- 
-
 Leggett also has the tendency to make definitive statements like "Śaṅkaramakessamādhi one of the necessary means to release[^10]." This is not quite what Śaṅkaraissaying and I have dealt with it in my paper on Śaṅkaraand Yoga (see appendix II tovol. II of this work). In citing *Upadeśasāhasrī* (UPA) I.19.2 and glossing 'others' as*yogin-s* and then inferring that there is a direct reference to YS, III.35 here, is againmisleading[^11]. The word 'others' is translated as Sāṅkhya-s by Ānandagiri and others[^12].Mayeda accepts this translation and says 'All commentaries consider this the view oftheSāṅkhyaand interpret *para* as 'puruṣa[^13]'.Thus Leggett's statement is not correct.In many places Leggett also freely translates the YSBHV without being faithful tothe text. This is seen specially in the portion dealing with the *īśvarakāraṇavāda* (1.25)and the sūtraon *śabda* (III.17). Leggett almost suggests that Śankara the BSBH
 
 [^10]: "Trevor Leggett, op. cit., p. 27."
@@ -208,10 +161,6 @@ Leggett also has the tendency to make definitive statements like "Śaṅkaramake
 [^12]: "... icchanti sānkhyāstadayuktam, Commentary by Ānandagiri, Padmapāda, Śrīmadvidyāraṇya, etc. UPA, 1.19.2."
 
 [^13]: "S. Mayeda, A Thousand Teachings, pp. 203, 207"
-
-
-
-
 
 author consciously wrote the YSBHV in order to replace with Vedāntic views the belief in the "plurality of separate *puruṣa-*s and the conscious *pradhāna* as source of the world" which are the Yoga views he criticizes in the *Yogapratyuktaprakaraṇa*[^14].Leggett is also not always faithful to the text in his translation (see later). All this gives the impression that Leggett's translation seems to address itself to the general reader.
 
@@ -233,23 +182,15 @@ The greatest shortcoming of Leggett's work is the lack of an index which makes i
 
 **VIVARAṆA AND YOGA**
 
- 
-
 I am certain that Śaṅkara the *Brahmasūtrabhāṣyakāra* (BSBHK) is not the author of the YSBHV and so I am calling the author of the YSBHV as the VK both in the introduction and in the body of the main work.
 
- 
-
 The YSBHV studies have been overshadowed by the question of its authorship since it was first noticed by Ramakrishna Kavi (discussed later in the Introduction) so that it becomes difficult to separate the study of the contents of the YSBHV from the question of its authorship. Thus the following pages will go back and forth comparing the ideas and contents of the YSBHV along with pointing out Śaṅkara's own preferences as found in the BSBH.
-
- 
 
 I have tried to follow Mayeda's suggestion in his *A Thousand Teachings[^18]* where he says, "In fact we should define Śaṅkara as the author of the *Brahmasūtrabhāṣya*, and use it as the yardstick against which to measure the authenticity of other works ascribed to him[^19]." It is unfortunate that Mayeda himself did not follow his own dictum and tacitly assumed the YSBHV to be Śaṅkara's work without testing it against the BSBH. Mayeda for instance, mentions thatŚaṅkara probably is indebted to the YS and the *Vyāsabhāṣya* for his usage of *vṛtti* and *pratyaya*; but to jump from that to
 
 [^18]: "Mayeda, op. cit., Introduction, p. 6."
 
 [^19]: "Ibid.,P.35"
-
-
 
 state "Śaṅkara as the author of the YSBHV, also uses *pratyaya* as a synonym of *vṛtti*" is rather rash[^20].It is well-known that the BSBHK makes use of the YS for his understanding of *pratyakṣa*, *vṛtti* and *pratyaya*. But how does that tie up with the author of the YSBHV being the same as the BSBHK. One can very well say that it is the VK (whicheverŚaṅkara he was) who is indebted to the BSBHK and the UPA for his descriptions under YS, I.7; IV.17, 22....But to conclude from this that the BSBHKis the author of the YSBHV is beyond my comprehension. At the most it can only be a conjecture.
 
@@ -279,10 +220,6 @@ THE YOGASŪTRABHĀṢYAVIVARAŅA
 
 [^27]: "YSBHV, pp. 58-61 utpattimati ca pṛthivī sāvayavatvāt, ghaṭādivat, and many more such argumentation."
 
-
-
-
-
 Īśvara using Nyāya methodology, gained popularity after the time of Udayana (tenth century CE) who wrote his two famous works-*Kusumāñjalī* and *Bauddha-dhikkāra*.After Udayana's incisive dialectical skills displayed in these works, it became thefashion to emulate his style particularly in establishing the existence of Īśvara. Thereis no doubt that the VK resorts to this style whenever the opportunity presents itselfthroughout the work[^28]. It is therefore reasonable to assume that the VK lived at least acentury or two later than Udayana. When we contrast this style with that of the BSBHKwe find that the BSBHK relies on *śruti* as a sufficient proof for the existence ofīsvara[^29]and he "advances rational teleology as simply of enough weight to counterany rational atheism or naturalism[^30]." What the BSBHK accomplishes through a fewlines on Īśvara takes the VK quite a few pages to achieve; this section (1.25) is in factthe largest in the entire YSBHV. The next largest section under III.17 also exhibitsthe same pedantic argumentation. There are similar analogies used in the BSBH andthe YSBHV and scholars arguing for the identity of the two Śańkaras have mademuch of these similar analogies in the two works[^31]. Similar analogies, especially in theSanskrit context and when dealing with philosophical argumentation need not meanthat there is an identity of authorship. If the VK is later than Udayana, then he has theadvantage of having access to the BSBH and the common analogies in the YSBHVand the BSBH need not pose any problem whatsoever.
 
 [^28]: "YSBHV, under YS, 1.7, 25, 43; II.5, 12, 13, 14 15, 18; III.17, 44; IV.12, 15"
@@ -306,8 +243,6 @@ THE YOGASŪTRABHĀṢYAVIVARAŅA
 [^35]: "Ibid., pp. 27-32."
 
 [^36]: "Cf. Mayeda, op. cit., pp. 46-49"
-
-
 
 school were the formulation of later advaitins—
 
@@ -334,8 +269,6 @@ of course keeping in view Śańkara'sgeneral approach to the means of knowledge 
 [^45]: "For details one can go to the notes in the body of the work. The VK first gives his arguments andthen records the verses stating-evam ca satyeșa śloka evam paṭhitavyaḥ or tasmādayampi śloka evampathitavyaḥ or tasmādevamayam ślokaḥ pathitavyaḥ."
 
  There are a number of grammatical flaws in the YSBHV, some of which could bedue to the carelessness of the scribe. But the use of *abhidhāyiṣyante* in two places and
-
-
 
 that too while quoting it from the bhāṣya which has the correct form abhidhāsyante is perplexing. Since the VK himself uses the correct form later[^46]YSBHV, p. 35 . . . cittamalaprasangenābhidhāyiṣyante (under 1.8).(2)YSBHV, p. 126 same thing is repeated . . . cittamalaprasangenābhidhāyiṣyante(3)YSBHV, under II.33. . . abhidhāsyamānena prakāreņa")we do not know what tomake of it. It needs to be said however, that the BSBHK would not have made such amistake. Even if the VK had this reading in front of him, due to the error of the scribe,he should have corrected it as he in fact does in a number of other grammatical explanations in the YSBHV.
 
@@ -364,9 +297,6 @@ that too while quoting it from the bhāṣya which has the correct form abhidhā
 [^50]: "Gelblum has mentioned this in his notes."
 
 [^51]: "Kavi, LL, p. 134"
-
-
-
 
 Halbfass[^52].However, Halbfass does not seem to be aware of this early reference totheYSBHV by Kavi.[^53]Kavi refers to a commentary on the *Śabarabhāṣya* ascribed to Śaṅkarācārya and called *Bhāṣsyapradīpa*.He also mentions that in one of the colophons of this work the scribe concluded by stating that it is a work of PayyürBhagavatpāda[^54].Kavi further goes to the extent of saying that this Śaṅkara could havebeen the author of the many *Jayamaṅgalas (JM).[^55]*At least one JM has been noticedby Halbfass as mentioning Śaṅkarabhagavat as its author in the colophon[^56].There isanother work, the *Bhaṭṭikāvyavyākhyā*, also called JM which is attributed toŚaṅkarapūjyapādayati.E.Easwaran Nampoothiry (Nampoothiry) wonders whetherthis is the same Śaṅkarapūjyapāda mentioned in the *Svaditaṃkaraṇī* (SVA) ofRṣiputraparameśvara[^57]. Going back to the YSBHV, Kavi even thinks that the acceptance of *sphoṭa* by the VK is in keeping with Parameśvara's commentary on verses712-17 from the SV of [Kumārila.](#) The reader can consult the notes for more detailson this topic.Kavi further quotes the colophon from the *Nyāyakaṇikā* (NK) commented on by Parameśvara which mentions him to be the *śiṣya* of Śrīmacchankarapūjyapāda.[^46] itiśrīmadṛṣigaurīnandanaśrīmadbhavadāsapitṛvya śrīmacchańkarapūjyapādaśiṣyaparmeśvarakṛtausvaditaṅkaraṇyām tṛtīyaḥ ślokaḥ. (2). . . kāyavāṅmanasām samyak prahvībhāvena śaṅkareanyathākhyātibhāve' pi sa vyākhyātum samudyataḥ. (3) Parameśvara mentions his guru as Pūjyaśańkara in his Sumanoramaṇī as well. ...kartāsyāḥ parameśvaro nataśirāḥ pūjye gurau śaṅkare. Cf. K.K. Raja, The Contribution of Kerala to Sanskrit Literature (CKSL), p. 92, n. 90.")
 
@@ -398,8 +328,6 @@ Halbfass[^52].However, Halbfass does not seem to be aware of this early referenc
   Paramesvara's interpretation, according to the above argument, is that which is in agreement with that of the Vivarana's interpretation accepting sphota. And the Gopalikā author Parameśvara is following the line of argument of his uncle or preceptor Sankaracarya as given in the Vivarana.
 
  Whether Sankara was Parameśvara's uncle or his revered preceptor is another question to be answered. But the point being made is that, while this Vivarana author Sankara accepts sphota, the BSBHK. Sankararejectsit.
-
-
 
 Amongst the famous poets (*kavigal*) at the court of Manavikrama theGreat,ofthefifteenthcenturyCE[^60],therewereninescholarsbelonging to the Payyūr family "including Ṛși and his son Parameśvara[^61]". The members of the Payyūr family were famous in Kerala and their surviving works deal mainly with Mīmāmsāand Kāvya.But it can in no way suggest that they did not write works on other systerns of philosophy as well.[^62]That some important works have been lost is amply evidenced by the reference to *Juşadhvaṃkaraṇī* (which is not available) in the SVA (which is available)[^63].Given in the notes is the table of six generations of the Payyūr family one of whom is referred to asŚaṅkarapūjyapāda⁵
 
@@ -438,10 +366,6 @@ by Parameśvara I.
 | Rṣi, III              | (m. Āryā) also called Traividyeṣa                                                                                                                   |
 | Parameśvara III       | (Work: Jaiminīya-sūtrārtha-saṃgraha)                                                                                                                |
 
-
-
-
-
  The second person after Kavi who was also emphatic in denying the authorship of the YSBHV by Śaṅkara is S.K. Ramanatha Śāstrī which is also noted by Halbfass[^69].Śāstrī in his edition of the *Sphoṭasiddhi* (SS) of Maṇḍana, along with the *Gopālikā* of Parameśvara of the payyūr family, has found a set of verses quoted from the YSBHV text in the *Gopālikā* (Madras, 1931). This definitely indicates that this Parameśvara knew of the YSBHV. This Parameśvara also wrote commentaries on the *Tattvabindu*, *Nītitattvāvirbhāva* and *Vibhramaviveka*[^70]. Halbfass also says that "the verses in the Gopālikā from the ŚV may well have been written with the knowledge of the YSBHV's treatment of the topic[^71]".But he also has some difficulty in reconciling this with Parameśvara's work *Tattvabindu* which criticizes the *sphoṭa* theory[^72]. There should be no problem with this as the tradition did throw up flexible "pandit commentators[^73]" like Miśra himself. It is only if one assumes the VK to be identical with the BSBHK as Halbfass has done[^74], will this be a problem. The VK could very well accept the *sphoṭa* while commenting on a Yoga work and reject it while commenting on Miśra's work. The VK will only be emulating Miśra himself, whom he certainly held in high esteem.
 
 [^69]: "Halbfass, op. cit., p. 206. "
@@ -473,8 +397,6 @@ by Parameśvara I.
  1. A Śaṅkarapūjyapāda wrote the YSBHV.  
  2. It definitely existed in the fifteenth century.
 
-
-
  3.We do not get any certain information about the identity of this Śaṅkarapūjyapāda at this point beyond astrong indication that he is the guru of Parameśvara I.
 
  If we now turn our attention to the literature produced in Kerala uptil about thethirteenth and fourteenth centuries of the Common Era we find that most of the worksdealt with Kāvya, Jyotiṣa, Vyākaraṇa, Tantra, Āyurveda, Stuti-s (Stotra-s), Nāṭaka,Pūrvamīmāmsā and Uttaramīmāmsā[^80].Ullur Paramesvara Iyer, who is uniformly considered as an authority on the history of Kerala literature, even remarks that Śaṅkarahad to go out of Kerala which was steeped in *karmakāṇḍa*, to look for a competentguru to initiate him into *samnyāsa[^81].*Ullur also refers to the study of the Vedas,Vyākaraṇa, Mīmāmsā (both schools), proficiency in *paurohitya* (performance of rituals), reading and reciting of the epics and fine arts centered in temples, as the earlyforms of Sanskrit learning in Kerala[^82].Kerala also had the custom of earmarking different groups of people to cultivate and systematise special branches of Sanskrit learning even outside the circle of brāhmaṇa families. Thus the Vaidya families specialised in Āyurveda, the Asans (Asari) were well versed in Śilpaśāstra-s, the Kaniyarswere proficient in Jyotiṣa. This widespread Sanskrit learning in Kerala has been particularly noted by Marco Polo in the thirteenth century[^83]. But in spite of this wide-spread interest there is a paucity of philosophical works dealing with Nyāya-Vaiśeṣikaand Sāṅkhya-Yoga systems till very much later in Kerala. K.K. Raja supports thissurmise when he says that "Tarka became popular in Kerala only recently[^84]", and citessome works belonging to the nineteenth century as examples[^85]." K.K. Raja does notmention a single Sāṅkhya or Yoga work in his Appendix to his Sanskrit literature,though he talks about Vedic exegesis, Dharmaśāstra, Vedānta, Mīmāmsā, Tarka,Tantra, Jyotiṣa, Āyurveda, Vyākaraṇa, literary criticism and fine arts. The Index toSanskrit works in Kerala prepared separately by Venkitasubramonia and Nampoothirypaint the same picture. Thus we may conclude that Sāṅkhya and Yoga were not takenup for serious study till much later in Kerala.
@@ -494,8 +416,6 @@ by Parameśvara I.
  We come across some observations in the YSBHV which are not easy to account for under the above circumstances. The critical observation of the VK regarding the different conceptions of *mokṣa* in Sāṅkhya and Yoga are difficult to reconcile if oneconsiders the VK to be the same as the BSBHK, whose date cannot be pushed furtherthan the eighth century CE under any circumstances[^86].This, however, does not preclude the general acquaintance with Yoga theories, belief in Yogic siddhis, practiceof Yoga as a means to spiritual realisation, etc., which were all part of the Keralareligious atmosphere and was the common inheritance of a Keraliya born into families such as Śaṅkara's. While that can account for the *Yoga* presence in the BSBH, theascription of the *Yogatārāvalī* and the *Vijṛṃbhita*-*Yogasūtrabhāṣya* to the BSBHKis not so easy to accept and is suspect. In fact, Citsukha attributes the *Yogatārāvalī* to
 
 [^86]: "YSBHV, p. 147-tathā ca vyāsaḥ sāńkhyānām yoginām ca pṛthanmokṣam darśayati."
-
-
 
 Govindapāda or alternately to Śaṅkara[^87]. Thus the tradition is vague and not unanimous regarding authorship of the *Yogatārāvalī*. Pande discusses this authorship question in his *Life and Thought of Śaṅkarācārya* and rightly questions the basis of thisbelief[^83].
 
@@ -519,8 +439,6 @@ Another argument for the authorship identity question mentioned by the editors i
 
 [^92]: "Ibid., pp. xiii and xiv."
 
-
-
 and the manner of exposition also bear the characteristic stamp of Śaṅkara's writings[^93]" cannot be accepted at its face value (cf. earlier in this Introduction on the styleof the YSBHV). One is also surprised to note that the editors do not seem to be awareof the earlier references to the YSBHV, especially the SS edited by Rāmanātha Śāstrī,though it is also published from Madras as already mentioned, in the Madras University Series, like the YSBHV itself.
 
 [^93]: "Ibid., p. xiv."
@@ -543,8 +461,6 @@ and the manner of exposition also bear the characteristic stamp of Śaṅkara's
 
 ²etena yogaḥ pratyuktaḥ, BS, II.1.3. Question-nunvevam sati samānanyāyatvātpūrveṇaivaitadgatamkimartham punaratidiśyate. Answer—asti hyatrābhyadhikāśankā, nirākaraṇam tu na sānkhyajñānenavedanirapekṣeṇa yogamārgeṇa vā niḥśreyasamadhigamyata iti ... dvaitino hi te sānkhyā yogāścanātmaikatatvadarśinaḥ ... ityevamādiśruti—prasiddhameva puruṣasya viśuddhatvam nirguṇapuruṣanirūpeṇa sānkhyairabhyupagamyate tathā ca yogairapi...ityevamādi śrutiprasiddhameva nivṛttiniṣṭhatvam pravrajyādyupadeśenānugamyate. etena sarvāṇi.
 
-
-
 Hacker's conversion theory need not be taken seriously. H. Nakamura while attributing the YSBHV to Śaṅkara does not subscribe to the conversion hypothesis[^98].Moreover Hacker's assumption that the *Māṇḍūkya-Upaniṣad-Kārikābhāṣya* (MUKBH) isthe first Advaita work of Śaṅkara is also not easy to prove. So the conversion theorywill have to be set aside as it has no concrete evidence to support it.
 
 [^98]: "Mayeda, op. cit., p. 8, n. 15"
@@ -562,10 +478,6 @@ Hacker's conversion theory need not be taken seriously. H. Nakamura while attrib
 [^87]: "Pande, op. cit., p. 112."
 
 [^101]: "Ibid., pp. 111-12, 310-13, 326; Rukmani, JIP article, see Appendixes I and II in vol. II of presentwork."
-
-
-
-
 
 Śaṅkaras he is not entirely convinced of it. The point that Pande has not noted is the nature of Śaṅkara's works. An important feature of Śaṅkara's writings which Pande has not mentioned is that they are all original compositions. The MUKBH, is the only exception but that has again not been proven to be Śaṅkara's work conclusively. The independent, confident style of Śaṅkara indicates a strong personality, and the choice of original works on which he wrote commentaries appears to fit into the character of the BSBHK, who would like to state what he has to say under a sūtra rather than try to reinterpret the *bhāṣya* of another person. (Cf. Appendix I in vol. II of this work.)
 
@@ -599,17 +511,15 @@ THE VIVARAṆA AND THE BRAHMASŪTRABHĀṢYA
 
 [^113]: "Cf. YSBHV, P. 76."
 
-
-
 word *praṇava* etymologically. Under sūtras BS, III.3.63-66 where a discussion takes place between the pūrvapakṣin and the siddhāntin the word *praṇava* isused in the sense of *Om* and there is no suggestion of its being different from *Om*,leave alone trying to explain its derivation. It is also interesting to observe that it isonly the *Muṇdakopaniṣad* (amongst the so-called early Upaniṣads) that uses *praṇava*as a synonym for *Om* for the first time[^114]. Śaṅkara while explaining it just equates it to*Om*[^115].He does the same when commenting on Gītā, VII.8.[^116]
 
 [^114]: "Mund. Up., II.2.4."
 
 [^115]: "Śankara's commentary on the above-praṇava omkāro dhanuḥ."
 
- In the YSBHV we get a quotation from the*Subāla Upaniṣad*(SU)[^117] (SU)which is not anUpaniṣad ever quoted by the BSBHK either in the BSBH or in his commentaries onthe ten Upaniṣads generally considered as genuine.[^118] It will thus be difficult to believethat the BSBHK would make a departure from his set practice when he wrote theYSBHV. It is more reasonable to conclude that he did not write the YSBHV. The SUdoes not even figure in the exhaustive lists that Belvalkar and Ranade prepared[^119] andwe will have to assign it to a later period. The contents of the SU set in the format ofa dialogue, has a number of borrowings from many Vedic and other sources and alsoindicates the same conclusion[^120]."
-
 [^116]: "praṇava omkāraḥ sarvavedeṣu, tasmin praṇavabhūte mayi sarve vedāḥ protāḥ."
+
+ In the YSBHV we get a quotation from the*Subāla Upaniṣad*(SU)[^117] (SU)which is not anUpaniṣad ever quoted by the BSBHK either in the BSBH or in his commentaries onthe ten Upaniṣads generally considered as genuine.[^118] It will thus be difficult to believethat the BSBHK would make a departure from his set practice when he wrote theYSBHV. It is more reasonable to conclude that he did not write the YSBHV. The SUdoes not even figure in the exhaustive lists that Belvalkar and Ranade prepared[^119] andwe will have to assign it to a later period. The contents of the SU set in the format ofa dialogue, has a number of borrowings from many Vedic and other sources and alsoindicates the same conclusion[^120]."
 
 [^117]: "YSBHV, p. 76."
 
@@ -627,9 +537,9 @@ word *praṇava* etymologically. Under sūtras BS, III.3.63-66 where a discussio
 
 [^123]: "kiñca—sākṣādāsanādīnyeva samādherupakurvanti, na yamaniyamau. naiṣa doṣah. yamaniyamavatoryogādhikāropapatteḥ. . .-YSBHV, p. 211."
 
- The VK's specific reference to the different concepts of *mokṣa* in Sāṅhya andYoga (cf. earlier in Introduction) as well as to technical Naiyāyika concepts like*pakṣadharmatva[^125],**anuvyavasāya*[^126],*indriyārthasannikarṣa pratyakṣa*[^127], etc., cannotbe reconciled with the late interest in serious scholarly studies in Nyāya and otherschools of thought in Kerala, as already mentioned. These schools were yet to betaken up for study in Kerala in the post-Śaṅkara era, which is the general consensusof scholars who have worked in the area of Sanskrit literature in Kerala.
-
 [^124]: "Cf. BSBH, III.3.28."
+
+ The VK's specific reference to the different concepts of *mokṣa* in Sāṅhya andYoga (cf. earlier in Introduction) as well as to technical Naiyāyika concepts like*pakṣadharmatva[^125],**anuvyavasāya*[^126],*indriyārthasannikarṣa pratyakṣa*[^127], etc., cannotbe reconciled with the late interest in serious scholarly studies in Nyāya and otherschools of thought in Kerala, as already mentioned. These schools were yet to betaken up for study in Kerala in the post-Śaṅkara era, which is the general consensusof scholars who have worked in the area of Sanskrit literature in Kerala.
 
 [^125]: "Cf. YSBHV, p. 67."
 
@@ -640,8 +550,6 @@ word *praṇava* etymologically. Under sūtras BS, III.3.63-66 where a discussio
 Śaṅkara the BSBHK refutes the doctrines of the schools that admit Īśvara as anefficient cause only, and under that he lists the *Māheśvara-s* as well.[^128]Glossing on
 
 [^128]: "BSBH, II.2.37."
-
-
 
 *Māheśvara-s*, Miśra lists four major sects i.e., the Śaivas,Pāśupatas,Kāruṇikasiddhāntins,and the Kāpālikas[^129].Neither the BSBHK nor Miśra mentions the Kaulasin this connection. But the VK not only refers to the Kaulas but also talks about theirpreferences[^130].
 
@@ -675,10 +583,6 @@ word *praṇava* etymologically. Under sūtras BS, III.3.63-66 where a discussio
 
 ^(9...)anena prakāreṇa sañcaramāṇā anena višiṣṭā iti. asmin kale' nena graheṇa ayam graho virudhyate. ithamastamayaḥ, ithamudayaḥ, taddvāreņa prāṇabhṛtām śubhamaśubham cetyādi vijānīyāt-YSBHV,p. 287.
 
-
-
-
-
 exercised the minds of all the commentators of the YS. But we cannot go into thathere. The VK explains the word samādhi as *sthiti* (staying in) or as being in thatstate' called variously as *kṣipta, mūḍha*, etc., for the time that it lasts. Thus, as thesedefine the states themselves 'staying in those states' is samādhi or *sthiti* and that is thecommon samādhi for all those states.¹In other words, just as a man walking stops ateach step (*sthiti)* but is still walking, so also all the states like *kṣipta, mūḍha*, etc., donot qualify as samādhi though they stay in those states momentarily. Of course this isnot what the bhāṣya says but that is a different matter. Now comes the reference toMiśra. In this context of the definition, the VK states—others (*anye*) say the stagesare external and internal objects of *saṃ̣̣yama*. But they cannot then explain the nextline vikṣiptecetasi. .[^136]Now who is this *anye*? When we look at the TV we see thathe is indeed saying what the VK has referred to. While discussing the stages, Miśradismisses the *kşipta* and the *mūḍha* states. But he concedes that *vikṣipta* can haveoccasional stability and that is why only the *vikṣipta* has been taken up for denial bythe bhāṣya.³Continuing on the same lines under sūtra 1.2 the TV echoes what the VKcriticizes. Here Miśra firstly states what the VK implies and talks about the restlessand other stages as states of samādhi. In the *vikṣipta* state Miśra says that the *sattvapradhāna* mind wants to meditate on reality and does meditate on atomisation andsuch *siddhis (aiśvarya)* thinking that to be reality. It stays in it for a moment and thenloses it, overcome by *rajas*.⁴Thus the states of the mind being known with referenceto the object of *saṃ̣̣yama*, which the VK refers to, is an allusion to the TV comment.Since Bhoja does not comment on this aspect at all and Bhikṣu is later than the VK itis certain that the VK is referring to Miśra hereby the use of the word *anye*.
 
 [^136]: "anye punarbāhyādhyātmikān saṃ̣̣yamaviṣayān bhūmaya ityācakṣate. teṣām 'vikṣipte cetasi' itisāmānādhikaranyanupapattiḥ... -YSBHV, p. 5."
@@ -700,10 +604,6 @@ exercised the minds of all the commentators of the YS. But we cannot go into tha
 3.vikṣiptasya tu kādācitkasadbhūtaviṣayasthemaśālinaḥ saṃbhavyeta yogatvamiti niṣedhati --"tatra" iti. vikṣipte cetasi samādhiḥ kādācitkaḥ sadbhūtaviṣayaścittasya sthemā na yogapakṣe vartate . . .—TV,under YSBH, I. 1.
 
 4.....tatra citte sattvāt kiñcidūne rajastamasī yadā mithaḥ same ca bhavatastataiśvaryam ca viṣayāścaśabdādayastanyeva priyāṇi yasya tattathoktam, sattvaprādhānyātkhalu cittam tattve praṇidhitsadapitattvasya tamasā pihitatvādaṇimādikamaiśvaryameva tattvamabhimanyamāna tatpraṇidhitsati praṇidhatteca kṣaṇam atha rajasā kṣipyamāṇa tatrālabdhasthitiviśeṣāttatpriyamātram bhavati ...—TV, under YSBH,1. 2.
-
-
-
-
 
 ring to Miśra by using the word *anyeṣām*.
 
@@ -728,10 +628,6 @@ ring to Miśra by using the word *anyeṣām*.
 [^147]: "bāhyasya vāyorantaḥ praveśanam prativṛttiḥ yasya sa bāhyavṛītiḥ, tasmāt sa bāhyaḥ—YSBHV, p. 227"
 
 [^148]: "bāhyamanye püraka ityācakṣate-YSBHV, p. 227."
-
-
-
-
 
 others after him, call it, following the bhāṣya-when there is absence of flow of airafter inhalation that is pūraka[^149].Miśra supplies the word *pūraka* and the word *recaka*which the bhāṣya does not have[^150].Continuing the same discussion on the same lines,the VK says that the exhalation of internal air is an internal activity[^151].And he immediately states that'it is called *recaka'*[^152](by others is understood from the earlier mention of *pūraka* by others). According to Miśra i.e., when there is absence of flow of airafter exhalation that is called *recaka*[^153]-TV, under VBH, II.50."). Miśra makes his understanding of *pūraka* and*recaka* clear when he says further down-there is no inhalation so it is not *pūraka*;there is no exhalation so it is not *recaka*[^154]. It is therefore very clear that the VK isindeed quoting Miśra and referring to him by the term *anye* as he has been consistently doing throughout the YSBHV.[^155]This, incidentally, can also indicate that there was a standard *Yogabhāṣya* and TV text by this time.
 
@@ -761,13 +657,11 @@ others after him, call it, following the bhāṣya-when there is absence of flow
 
 [^158]: "Bhikṣu."
 
- The TV and the YSBHV begin their respective commentaries on YSBH, III.17 in exactly the same words[^160]. Even the substitution of just one word (*anyaḥ* for *aparaḥ)*
-
 [^159]: "YSBHV, p. 205"
 
+ The TV and the YSBHV begin their respective commentaries on YSBH, III.17 in exactly the same words[^160]. Even the substitution of just one word (*anyaḥ* for *aparaḥ)*
+
 [^160]: "ayamaparaḥ samyamasya viṣaya upakṣipyate...-TV; ayamanyaḥ samyamavişayaḥ upakṣipyate ...-YSBHV, p. 263."
-
-
 
 seems to be a deliberate effort. This similarity of style is also seen in the commencement of the TV and YSBHV under YSBH, III.44[^161].
 
@@ -794,8 +688,6 @@ VIVARAṆA AND THE YOGAVĀRTTIKA OF VIJÑĀNABHIKṢU
 ———————————————————————————————
 
 ⁵.kaścittu-atráprāṇādijīvanaśabdābhyām praṇanādināmakavāyukriyāviśeṣahetuḥ prayatnabheda evoktaḥ, sa ca karaṇaniṣṭha iti bhāṣyārthamāha-tanna, vivaraṇabhāṣye prāṇādīnām gatyādivacanasyavirodhād, atrāpi sānkhyakārikābrahmamīmāmsaikavākyatvaucityāt . . .—ibid., p. 150.
-
-
 
 all the three, while making it clear that the three are by different authors. The defintion of the movement of *prāṇa* in the three texts do indeed support each other.
 
@@ -839,13 +731,9 @@ CONCLUSION
 
 .
 
-
-
 Udayana. This style of writing and the familiarity of the VK with the technicalities of Nyāya, Sāṅkhya and Yoga ideas in the Kerala region which, till at leastthethirteenthcentury was preoccupied with Pūrva and Uttaramīmāmsā, also argues for a late date.Gelblum supports this by giving his own reason for placing the VK later than, notonly Miśra, but also Bhoja[^170].The popularity of Miśra in Kerala is attested to by thecommentaries written on the *Nyāyakaṇikā* and *Tattvabindu* by the Payyūr Bhaṭṭas inthe fifteenth century and argues for its regular study at least a century or two beforethat. Thus a Śaṅkara, anywhere between the twelfth and fifteenth centuries couldhave written the Vivaraṇa, influenced by Vācaspati Miśra whom he definitely admired. As a work on Yoga it is an important contribution to Yoga studies and alsoreveals some information about the Kerala scene. Unlike what some say the VK isnot an immature writer and he needs to be read with care. Of course he has a tendencyto be pompous and pedantic but so did Daṇḍin, Subandhu and others in the literaryfield. Its large number of variant readings (also noted by others who worked on it)can be invaluable for reconstructing a standard sūtra and bhāṣya text.
 
 [^170]: "Gelblum, op. cit., pp. 87 ff."
-
-
 
 **समाधिपादः**
 
@@ -875,8 +763,6 @@ Udayana. This style of writing and the familiarity of the VK with the technicali
 
 [^171]: "Kaitabha is the name of a demon killed by Viṣṇu."
 
-
-
 come him and cease to exist (for him): (and) he is one who when thought about in terms of time is not delimited by it.
 
  I bow down to him who is the guru (preceptor) even of the gurus. He who isomniscient, who is all-powerful (who has all the siddhis), who is free from the fruit ofaction which is full of defects, (and) who is the Lord who is the cause of the rise,sustenance and destruction of the universe.
@@ -901,13 +787,6 @@ the world whichhas an abundance of pain is to be abandoned; its cause is the con
 
  ननु च हेयतद्धेतू न प्रस्तोतव्ये,निष्प्रयोजनत्वात्।हानप्रयुक्तं हि शास्त्रं,तदुपायभूता विवेकख्यातिरेव वक्तव्या।न हि कण्टकविद्धचरणतलस्य तदपनयनं मुक्त्वा दुःखतद्धेतू चोद्येते ।
 
-
-
-
-
-
-
-
  Objection-But then, that which is to be abandoned and its cause are not to bementioned since they serve no useful purpose. Philosophy is to be used for the sake ofcessation (of pain); therefore the means to that which is discriminate-discernment isalone to be mentioned. If the foot (sole of the foot) is hurt ( pierced) by a thorn, onedoes not question the pain and the cause for it, giving up the removal of the thorn.  
 
  नैतदेवं— हेयतत्कारणोपेक्षत्वाद्धानोपायस्य। यावदिदमनेनोपायेन हातव्यं संसारचक्रम् अस्य चाविद्यानिमित्तोद्रष्टृदृश्यसंयोगो हेतुः इति नाख्यायते, तावन्नाविद्याप्रतिपक्षभूता विवेकख्यातिराख्यातुं शक्यते।हेयतद्धेतुमतोहानोपायार्थिनो रोगिणो भैषज्यार्थित्वदर्शनात्।न हि रोगं रोगहेतुं चानपेक्ष्य चिकित्साशास्त्रमुपदिश्यते॥
@@ -925,8 +804,6 @@ the world whichhas an abundance of pain is to be abandoned; its cause is the con
  तदुपायत्वाद्योगस्य। उपाय एव वक्तव्यः स्यात्।उपेयोपप्रदर्शने हि उपेयमुपायं प्रति साकाङ्क्षमेवेत्युपायःसाङ्गकलापः पुनरपि वक्तव्यः स्यात्।तस्मिंश्चाभिहिते सर्वमभिहितमिति ।
 
  Answer—Because it (discriminate-discernment) is a means to yoga (and) only themeans is to be mentioned (taught). When the end is to be discussed (it is known that)that which is the end is the desired result (expectation) of that which is the means;
-
-
 
 therefore the means has to be taught again, along with all its parts[^174].And when that isexplained (taught) (then) everything is explained.
 
@@ -968,8 +845,6 @@ Answer—That is not so, as that is the end i.e., it is indeed the end (goal[^18
 
 ^(5.)VBH, under YS,1.1. Inthe one-pointed mindthers is illumination of the objectas it really is.the bhāsya reads as 'sadhūtamartham' in all available texts but here the reading is 'sa bhūtammartham'. It could also be an omission by the scribe.
 
-
-
 yoga is also the goal of its (own) means[^181]and it is the means to discriminate-discernment and to the attainment of (powers) like atomisation[^182], etc. Therefore it is moresuited (to be mentioned first) both as the end and as the means to the end[^183] to yoga.").
 
 [^181]: "The means to yoga."
@@ -1001,8 +876,6 @@ yoga is also the goal of its (own) means[^181]and it is the means to discriminat
 [^186]: "This is probably referring to the stage of jīvanmukti or the initial stages of nirodha-samādhi wherethe samskāras of nirodha are still not very strong."
 
 [^187]: "This is kaivalya, so there is total cessation."
-
-
 
 Thus it is also mentioned (in the Yogasūtras) *tadā draṣṭuḥsvarūpe' vasthānam[^188]* i.e., kaivalya is the abiding (of the seer) in oneself. In confirmation of the idea conveyedby the meaning of the śāstra (Yogasūtra[^189]),
 it follows that through nirodha-samādhi,kaivalya alone is directly experienced.
@@ -1041,10 +914,6 @@ it follows that through nirodha-samādhi,kaivalya alone is directly experienced.
 
  "athetyayamadhikārārthaḥ”—“adhikāra” means beginning, commencement; its
 
-
-
-
-
 meaning is directly expressed[^196]. This is based on the authority of the memory of the learned.
 
 [^196]: "There is no need to resort to lakṣaṇā in order to get at the meaning of the word adhikāra."
@@ -1074,8 +943,6 @@ meaning is directly expressed[^196]. This is based on the authority of the memor
 [^202]: "Two negatives make a positive i.e., then it means a verbal action here."
 
  तस्मादथशब्दः प्रस्तावार्थ एवेति युक्तमथेत्यधिकारार्थ इति।स्वरूपावद्योतनार्थ इति शब्दः।यथा गौरित्याहेति ।
-
-
 
 प्रसिद्धोऽप्यथशब्दार्थोऽधिक्रियमाणविषये शिष्यबुद्धिसमाधानार्थं कीर्त्यते।सिद्धो ह्ययं न्यायः श्रुतौ“व्याख्यास्यामि ते व्याचक्षाणस्य तु मे निदिध्यासस्व" इति॥
 
@@ -1113,10 +980,6 @@ meaning is directly expressed[^196]. This is based on the authority of the memor
 
 [^208]: "Whose samadhi are we talking about--this is one expectation and the second expectation is to know its nature."
 
-
-
-
-
 stages” i.e., this is a quality of mind and not of the ātman. etc. And that mind applies samadhi to itself as it is not dependent on another for its samādhi.
 
  काः पुनर्भूमय इत्यत आह—क्षिप्तं मूढमित्यादयो भूमय इति।क्षिप्तमिति कर्मकर्तरि निष्ठा।यथा भिन्नः कुसूलः स्वयमेवेति।क्षिप्तमनिष्टविषयासञ्जनेन स्तिमितम्।मूढं निर्विवेकं।विक्षिप्तं नानाक्षिप्तम्।कर्मकर्तर्येव।विवेकाक्षमं च विक्षिप्तत्वादेव।एकाग्रं तुल्यप्रत्ययप्रवाहम्।निरुद्धमिति प्रत्ययशून्यं चित्तम्॥
@@ -1145,8 +1008,6 @@ stages” i.e., this is a quality of mind and not of the ātman. etc. And that m
 
  सामान्यभूतत्वात् समाधेः।भूमीनां च विशेषत्वात्।यथा क्षिप्तं तिष्ठति मूढं तिष्ठति,विक्षिप्तमेकाग्रंचेति,क्षिप्तादि भूमिषु स्थितिरनुवर्तते सामान्यम्।स्थितिश्च समाधिः।तस्मात् सामान्यरूपं सर्वासु भूमिषुप्राधान्येन वर्तत इति।'सर्वभूमिपृथिवी' इत्यैश्वर्यार्थीयोऽण्प्रत्ययः।अनुशतिकादित्वादुभयपदवृद्धिः।अन्ये
 
-
-
 पुनर्बाह्याध्यात्मिकान् संयमविषयान् भूमय इत्याचक्षते।तेषां'विक्षिप्ते चेतसि' इति समानाधिकरण्यानुपपत्तिः।स्ववचनविरोधश्च कथम् ?
 
 Answer—This is because samādhi is common to all the states and because thestates are all distinct (from each other). We say—'now there is the restless state','now there is the infatuated state', 'now there is the distracted' and 'now the one-pointed state'; in the different states of restless, etc., there is the common underlyingfactor of steadiness.And steadiness is samādhi. Therefore the common factor existsin a predominant manner in all the states. The word "sārvabhauma" comes from theword 'sarvabhūmi (pṛthivi[^213]. Pāṇ. Aṣṭā., VII.3.20."))'with the affix 'an' added in the sense of predominance;it takes 'vṛddhi' in both vowels by the rule anuśatikāditvādubhayapadavṛddhiḥ. Thereare others who say that the states are the external and internal objects of concentration (saṃyama[^214]).But then there will be difficulty with the next sentence "vikṣiptecetasi" where both the words are in the same case ending.³ So how can the commentator (Vyāsa) contradict himself.
@@ -1170,8 +1031,6 @@ Answer—This is because samādhi is common to all the states and because thesta
 ^(3.)Here the mind is in the state of distraction as both the words are in apposition to each other. Vikṣiptais not an object of the mind but the mind itself. Therefore the state of the mind is not described by theobject on which it is concentrated but by the state it itself is in, even though the state can be broughtabout by any object.
 
 ^(5.)The discussion on whether the objects of ‘saṃyama' can be described as states of the mind is continuing. Since the objects are endless it will not make sense to enumerate only five states of the mind asVyāsa has done.
-
-
 
  ननु चान्यथा योगं केचिदिच्छन्ति।तथा चाहुः—“इन्द्रियमनोऽर्थसन्निकर्षात् सुखदुःखे, तदनारम्भ आत्मस्थे मनसि,\[स\] शरीरस्य सुखदुःखाभावः प्राणमनोविनिग्रहापेक्षः संयोगो (योग) इति"।तदितिप्रकृतापेक्षम्।योऽसौ सुखदुःखयोरात्मेन्द्रियमनोऽर्थसन्निकर्षो हेतुः, तस्यानारम्भः तदनुत्पत्तिः।स कथं भवति? आत्मस्थेमनसि, नेन्द्रियस्थे। सशरीरस्य अविशीर्णशरीरस्य।तदा कारणाभावात् कार्याभाव इति,सन्निकर्षाभावेसुखदुःखयोरप्यभावः तस्यामवस्थायां योऽसौ विभोरात्मनो मनसा संयोगः स प्राणमनोविनिग्रहापेक्षःसंयोगविशेषो योग इति ॥
 
@@ -1211,9 +1070,6 @@ It appears that the Vivaraṇakāra is referring to the various definitions of y
 
 The prāṇas are generally considered to be five depending on their various functions. They are prāṇa, apāna, samāna, vyāna and udāna. hṛdi prāno gude' pānaḥsamāno nābhisansthitaḥ, udānaḥkaṇthadeśasthovyānaḥ sarvasarīragaḥ.  
 
-
-
-
  किं च—आत्मनः प्रदेशाभावादात्मस्थ इत्ययुंक्तम्।न चाप्युपचरितात्मप्रदेशसंयोगः परमार्थस्य योगस्य हेतुः स्यात्।उपचरितस्य मिथ्यात्वात् ॥
 
  Moreover there is this additional point—
@@ -1250,10 +1106,6 @@ Answer—But that is not the case; without the sense-organs there is no contact 
 
 Objection—But then, even if the sūtra just says that (yoga) is absence of pleasure
 
-
-
-
-
 and pain without mentioning the contact of the mind and the senses with the objects,there will be the undesirable consequence of even a liberated self practising yoga, asin his case also there is absence of pleasure and pain[^226].Therefore, in order to avoidthat, one has to accept the rest of the sūtra-reading.
 
 [^226]: "Thus there will be the defect of ativyāpti or over-pervasion in this definition according to thepūrvapakṣin."
@@ -1281,8 +1133,6 @@ and pain without mentioning the contact of the mind and the senses with the obje
 [^229]: "Vāyu is being used in the sense of prāṇa."
 
  अथापि स्याद्योगः समाधिरिति। तच्च न, निष्क्रियत्वादात्मनो नित्यसमाधानमेव स्थितिश्च समाधिरित्युच्यते।
-
-
 
  तस्माद्युक्तमभिधीयते—'स च सार्वभौमश्चित्तस्य धर्मः' इति॥
 
@@ -1313,8 +1163,6 @@ and pain without mentioning the contact of the mind and the senses with the obje
 [^236]: "Vyāsa describes only the vikṣipta and does not describe the kṣipta and the mūḍha by the above-saidprinciple."
 
  योगपक्ष इति॥समाधित्वे सत्यपि कार्याकरणात् पक्ष इत्युच्यते।यथा गच्छतः प्रतिपदं विद्यमानापि
-
-
 
 स्थितिः स्थितिकार्याकरणान्न स्थितिरित्युच्यते।विक्षेपोपसर्जनीभूतत्वं विक्षेपस्थैकसमाधिव्यक्त्यभिप्रायेण।सार्वभौम इति तु प्राधान्यं, सामान्येन सर्वभूमिषु वृत्तेः॥
 
@@ -1350,8 +1198,6 @@ dhi in the state of (asingle) distraction[^237]. The important thing here is tha
 
 [^243]: "Samādhi in which there is consciousness (grasp
 
-
-
  स च वितर्कानुगतो विचारानुगत इत्यादिभाष्यम्।सम्प्रज्ञातस्य प्राथम्याल्लक्षणाभिधाने प्राप्ते, अभ्यर्हितत्वादसम्प्रज्ञातस्यैव लक्षणं युक्तमिह वक्तुमिति सम्प्रज्ञातमुपरिष्टात् प्रवेदयिष्याम इत्युच्यते॥
 
  The bhāṣya then states “sa ca vitarkānugato vicārānugata" and so on. As saṃprajñātais the initial stage, its definition should normally be mentioned first; but since thecommentator desires it proper to mention, in this context, the definition of 'asaṃprajñāta samādhi' he says that we will speak of saṃprajñāta yoga later.
@@ -1386,8 +1232,6 @@ dhi in the state of (asingle) distraction[^237]. The important thing here is tha
 
  सत्त्वगुणात्मिका चेयमतो विपरीता विवेकख्यातिरिति।अतस्तस्यां विरक्तं चित्तं तामपि ख्यातिंनिरुणद्धि।तदवस्थं संस्कारोपगं भवति।स निर्बीजः समाधिः।न तत्र किंचित् संप्रज्ञायत इत्यसंप्रज्ञातः।(द्विविधः) स योगश्चित्तवृत्तिनिरोध इति॥२॥
 
-
-
  By non-inclusion of the word 'all' (in the definition before modification) 'saṃprajñāta' is also known as yoga.
 
  The mind is of a threefold nature due to its tendency towards clarity, activity (and)inertia. The sattva-mind which is of the nature of clarity, when combined with rajasand tamas becomes fond of power and objects of the senses. The same mind, when connected with tamas tends towards adharma, ignorance, non-detachment and powerlessness. The same mind, when (its) covering of delusion is removed, being brightened on all sides, connected only with rajas, tends towards merit, knowledge, detachment (and) power.
@@ -1411,8 +1255,6 @@ dhi in the state of (asingle) distraction[^237]. The important thing here is tha
 [^251]: "The pūrvapakṣin raises the question as to why 'yogaḥ' and 'cittavṛttinirodhaḥ' should have the same case ending if what is intended is the definition of yoga."
 
  Answer—This is not a defect, as there is the superimposition of the definition on
-
-
 
 to the defined. This is like the statement 'This person is Devadatta' where there is thesuperimposition of the definition on to the defined.
 
@@ -1443,8 +1285,6 @@ to the defined. This is like the statement 'This person is Devadatta' where ther
  एवमपि योगग्रहणात् कुतोऽसंप्रज्ञातस्यैव लक्षणं, न पुनः संप्रज्ञातस्य लक्षणं स्यात्, योगग्रहणस्याविशिष्टत्वादिति ?
 
  उच्यते—अव्यभिचारात्। व्यभिचरति न तत्तस्य लक्षणं,निरोधस्त्वसंप्रज्ञातेऽपि वर्तत इति संप्रज्ञातंव्यभिचरति। न हि विषाणित्वं गोर्लिङ्गं,महिष्यादिभिर्व्यभिचारात्॥
-
-
 
  Objection— But then, by the word yoga (in the sūtra[^184]) why should the definition ofasaṃprajñāta alone be understood; why cannot it be the definition of saṃprajñāta,since there is no special distinguishing feature in the use of the word yoga.
 
@@ -1480,8 +1320,6 @@ to the defined. This is like the statement 'This person is Devadatta' where ther
 
  चित्ततद्वृत्तितन्निरोधव्याचिख्यासया चित्तं हीत्यादि भाष्यम्।किमात्मकं पुनस्तच्चित्तं, यस्य वृत्तिनिरोधो योग इत्यत आह—चित्तं हि प्रख्याप्रवृत्तिस्थितिशीलत्वात् त्रिगुणमिति।तत्र चित्तं त्रिगुणमिति व्याख्यायते,
 
-
-
 प्रख्याप्रवृत्तिस्थितिशीलत्वादिति हेतुः।प्रख्या प्रख्यानं प्रकाशनं, स हि सत्त्वगुणस्य धर्मः।प्रवृत्तिः प्रवर्तनंव्यापारः, स हि रजोधर्मः।स्थितिः स्थानं वरणं प्रतिबन्ध इति, स च तमोधर्मः।एवंशीला हि सत्त्वादयोगुणाः, चित्तं च प्रख्यादिशीलं, तस्मात् त्रयाणां गुणानां परिणामश्चित्तं भवितुमर्हति ॥
 
  In order to explain (the nature of) the mind, its modifications and its restriction(restraint) the commentator says “cittam hi” and so on. In answer to the question as towhat is the nature of that mind, the restriction of whose modifications is known asyoga, he says “cittam hi prakhyāpravrṛttisthitis̃īlattvāt trigunam[^263]".In that context heexplains the nature of the mind to be threefold (consisting of the three gunas) due toits tendency towards clarity, activity and inertia.
@@ -1516,8 +1354,6 @@ to the defined. This is like the statement 'This person is Devadatta' where ther
 
  He now explains the (different) modifications of the mind. Their manifold nature
 
-
-
 is caused by the rise and obstruction of the guṇas, rajas and tamas, which are of anopposite nature. Thus he says “rajastamobhyām saṃsṛṣṭam" i.e, when it is combinedwith (rajas and tamas) which are of equal importance, then "aiśvaryaviṣayapriyam bhavati” = it becomes fond of power and the objects of the senses.
 
  Fondness is attachment i.e., the modifications arise attached to power and to objects (possessions).
@@ -1525,7 +1361,6 @@ is caused by the rise and obstruction of the guṇas, rajas and tamas, which are
  तत्तमसानुविद्धं॥तदेव प्रख्यास्वरूपं चित्तं यदा गुणभूतरजस्केनोद्भूतेन तमसानुविद्धं, तदानीमधर्मादिचतुष्टयविषया वृत्तयः क्लिष्टा जायन्ते॥
 
  तदेव प्रक्षीणमोहावरणमिति॥न्यग्भूततमस्कं तमः क्षयादेव जलधरापगमादिव(परि)रविबिम्बं सर्वतःप्रद्योतमानं रजोमात्रया रजोलेशेन अनुविद्धं यदा तदा धर्माद्युपगतं। धर्मादिचतुष्टयविषया वृत्तयोऽक्लिष्टाभवन्ति॥
-
 
 “tattamasānuviddham[^270]';when that same mind of the nature of illumination is connected (pierced) with tamas which has arisen due to the quality of rajas becomingsubordinate then tainted modifications, having the fourfold objects like "adharma[^271]”,etc., come into being.
 
@@ -1552,8 +1387,6 @@ is caused by the rise and obstruction of the guṇas, rajas and tamas, which are
 
 The word is "rajomātrayā” and the Vivaraṇakāra interprets it as rajolesena which is not justified. It is not a trace of rajas which is being mentioned but connection with the whole rajas as part of the composition of the mind.Or he has understood it as such from the next line in the bhāṣya.
 
-
-
 puruṣa, remains in meditation called “prasaṃkhyānamityācakṣate dhyāyino"= prasaṃkhyāna by the yogīs.
 
  एवं वृत्तिस्वरूपे व्याख्याते तन्निरोधप्रदर्शनार्थमाह—चित्तशक्तिरित्यादि॥चितिरेव शक्तिः चितिशक्तिः।यथा पच्यादयः शक्तयः शक्तिमदपेक्षाप्रापणीयजन्मानो न स्वयंशक्तयः। चितिः पुनः स्वयमेव शक्तिः,नार्थान्तरमपेक्षते।
@@ -1575,8 +1408,6 @@ puruṣa, remains in meditation called “prasaṃkhyānamityācakṣate dhyāyi
  And that is why it is “darśitaviṣayā” = i.e. that to which the object is presented bythe mind[^276].And thus it is “śuddhā" = pure; and therefore it is “anantā” = without end(limit) both in terms of space and time. One has to view each of the preceding (adjectives) as the cause for the succeeding one.
 
 [^276]: "This is a view of the Vivaraṇakāra also hinted at by the Yogavārttikakāra. Cf. Rukmani, Yogavārttika of Vijñānabhikṣu, vol. I, p. 38"
-
-
 
  As examples of the opposite are the mind and the sense-organs. “Sattvaguṇātmikā"=that which is of the nature, essence, brightness of sattva-guṇa alone; i.e., it is of thenature of illumination (it illumines); or because it has a modification which is notdistinguished from the modification (pertaining to the object of the senses) it is“sattvaguṇātmikā". Or it is "sattvaguṇātmikā" because it is connected with knowledge and knowledge is of the nature of sattva. Thus discriminate-discernment whichis of the (above) said nature is “viparītā" = different from "citiśakti" and is of thenature of change.
 
@@ -1608,8 +1439,6 @@ puruṣa, remains in meditation called “prasaṃkhyānamityācakṣate dhyāyi
 
  योगश्चित्तवृत्तिनिरोध इत्युक्तं,तत्र बोद्धृत्वेनैव पुरुषसद्भावाधिगमः,विषयभूतवृत्तिनिरोधे च विषयिणोऽपिबोद्धुः पुरुषस्य निरोधं कश्चिदाशङ्केतापि, तथा स सति तत्कैवल्यप्राप्त्यपायस्यापि विवेकख्यातेरनर्थकत्वं
 
-
-
 मन्वीत योगानुशासनस्यापि तदर्थस्य निष्फलत्वं प्रतिपद्येत,तस्मात्पुरुषस्य वृत्तिनिरोधादनिरोधं दर्शयितुकामःख्यातेश्चापि फलं साक्षाद्दर्शयन्नाह—तदवस्थे चेतसीत्यादि॥
 
  The sūtra states that *yoga is the restriction of the modifications of the mind.* It isonly through the act of knowing, one knows the presence of puruṣa. When there isrestriction of the modifications (of the mind) which are of the objects, there would be someone who would suspect the restriction of purusa who is the knower, the one whopossesses the object of thought, also. In that case he might think that discriminate-discernment also, which is a means to kaivalya (liberation ) is useless and then (it will mean) that the instruction of yoga which is a means to kaivalya is also useless. Therefore with the desire to indicate the non-restriction of purușa, even when there is restriction of the modifications, and also directly indicating the fruit of knowledge he(Vyāsa) says "tadavasthe cetasi" and so on.[^280]"
@@ -1635,8 +1464,6 @@ puruṣa, remains in meditation called “prasaṃkhyānamityācakṣate dhyāyi
 [^286]: "Introduction to YS, I.3."
 
  किं नश्वरस्वभावः, सद्भावे वा किंस्वभावः, कथं वा सद्भाव इति ?॥ तदा द्रष्टुः स्वरूपेऽवस्थानम्॥ यदानिरुद्धा वृत्तयः, स्वरूपप्रतिष्ठा तदानीं चितिशक्तिः।स्वरूपप्रतिष्ठेत्यर्थः।यथा कैवल्ये॥ तदा सद्भावं तु 'नतत्स्वाभासं दृश्यत्वात्' इत्येवमादिना वक्ष्यति।तत्र सिद्धे सद्भावे तत आकृष्य प्राप्ताशङ्कानिवृत्त्यर्थमुच्यते— स्वरूपप्रतिष्ठेति॥
-
-
 
  Is he of a perishable nature? Even if he is permanent what is his nature, and howdoes he come about? *tadā draṣṭuḥsvarūpévasthānam* i.e, when (all) the modifications are restricted “At that time, the power of knowing abides in itself” i.e., it abidesin itself (is the key word). “yathā kaivalye[^287]"(as in liberation). He will later describethe nature of permanence through the sūtras beginning with *na* *tatsvābhāsam**dṛśyatvāt*[^288] cannot illumine itself as it is an object fit to be known. These sūtras speak ofthe difference between the nature of the mind and that of puruṣa. In fact the description begins from YS,IV. 17 onwards.")?Its permanent nature being established, in order to remove one's doubt,he draws one's attention (to its nature ) by mentioning “svarūpapratiṣthā" and so on.
 
@@ -1664,13 +1491,9 @@ puruṣa, remains in meditation called “prasaṃkhyānamityācakṣate dhyāyi
 
  At other times it has the same form as the modification (of the mind).
 
- 
-
 व्युत्थाने याः चित्तवृत्तयः तदविशिष्टवृत्तिः पुरुषः।तथा च सूत्रम्—“एकमेव दर्शनं ख्यातिरेवदर्शनम्” इति।चित्तम् अयस्कान्तमणिकल्पं सन्निधिमात्रोपकारि दृश्यत्वेन स्वं भवति पुरुषस्यस्वामिनः।तस्मात् चित्तवृत्तिबोधे पुरुषस्य अनादिसम्बन्धो हेतुः।
 
  Whatever modifications of the mind are present at the time of activity, the puruṣa has modifications not distinguished from those. Thus there is the sūtra (of Pañcasikhācārya) 'there is only one appearance, that appearance is knowledge. The mind
-
-
 
 is like a magnet, by being fit to be seen and being useful by the mere fact of proximity, it becomes the property of puruṣa, the master.
 
@@ -1682,9 +1505,9 @@ is like a magnet, by being fit to be seen and being useful by the mere fact of p
 
 [^290]: "In the introduction to YS, I.4, Vyâsa asks “why is it not so (at other times
 
- Objection—But then, why is there the same form as the modification
-
 [^291]: "YS, I.4."
+
+ Objection—But then, why is there the same form as the modification
 
  Answer—“darśitaviṣayatvât". Though in both places[^292] there is the abiding in oneself without any distinction, there is the difference created by 'having the same form as the modification' (in the state of activity) and not having the same form as the modification,(since there is no modification due to total restraint); thus there is no contradiction ( here) in being so and not being so.
 
@@ -1701,8 +1524,6 @@ is like a magnet, by being fit to be seen and being useful by the mere fact of p
 [^293]: "The crystal does not change by taking on the colour of the object near it."
 
  तथा च पूर्वाचार्यसूत्रम् एकमेव दर्शनं—बुद्धिपुरुषयोः। किं तदित्याह—ख्यातिरेव दर्शनम् । बुद्धिवृत्तिरेव
-
-
 
  दर्शनम्। ख्यायते पुरुषेणेति च ख्यातिः ख्यायतेऽनया च बुद्धिपुरुषयोः स्वरूपमिति ख्यातिः।सैवार्थाकारोऽनया (कारतया) गृह्यत इति करणं, स्वेन च ख्यातिरूपेण गृह्यत इति कर्म च भवति। तथा दृश्यत इति दर्शनं,दृश्यतेऽनेनेति च,\[ज्ञायत इति ज्ञानं,\] ज्ञायतेऽनेनेति च सर्वमेवमादि द्रष्टव्यम् ॥
 
@@ -1749,8 +1570,6 @@ Similarly (that which is known is knowledge) and also that through which one kno
  Similarly, in the act of cooking, the person who is engaged in the act of cooking is called the cook ( agent ). The pot, though not doing anything is called a cooker, by (just) existing and supporting (the rice). Thus the space in the pot gives space (for the rice to rise up) but we do not consider this as its activity.
 
  यथा च राजा दर्शनमात्रेणैव कर्ता। सर्वाणि च कारकाणि स्वेषु व्यापारेषु कर्तॄणि।न चादित्यः प्रकाशयन् करणान्तरमपेक्षते, व्याप्रियते व। न हि प्रकाशनमविद्यमानमुत्पादयति गमनादिवत्। प्रकाशात्मतैव हि तस्य सद्भावः, तथापि सन्निधिमात्रेण घटादीनां प्रकाशरूपेण अभिव्यक्तेः प्रकाशयतीत्युच्यते, एवमिहापि दृशिमात्रेण
-
-
 
 पुरुषेण दृश्यानां चित्तवृत्तीनां चिदात्मना व्याप्यमानत्वात्, द्रष्टा पुरुष इतीममर्थं दर्शयति—चित्तमयस्कान्तमणिकल्पमिति॥
 
@@ -1804,8 +1623,6 @@ as it is admitted that the mind is not the âtman and that it (knowledge ) arise
 
 [^303]: "In saṃyoga (contact
 
-
-
  अथापि स्यात्—ज्ञानाहितसंस्कारस्यात्म\[नः\]स्मृत्येककर्तृत्वेन प्रतिसन्धानदर्शनादिति—न—तस्यापि साध्यत्वात्। तत्रापि ज्ञानसंस्कारस्मृतिप्रतिसन्धानादीन्यात्मन एव, न मनस इति साधनीयानि। फलेन समानाश्रयत्वादिच्छादीनामिति चेत्—न—तत्रापि तुल्यत्वात्। संयोगजत्वे सत्यात्मनः फलेच्छादीनि, न मनस इति दुःसाधमेव॥ (दुःसाध्यमेव )॥
 
  Objection—Moreover this could be because, in recollection, one sees that the âtman is the sole agent of memory, having the subliminal–impressions put in by knowledge.
@@ -1848,15 +1665,11 @@ When it (knowledge) is produced by conjunction, it is difficult to prove that de
 
  Objection—Then it is said that knowledge reveals itself through the inherence of âtman and through its nature of illumination, and the outside objects that have
 
-
-
 brightness (like gold, etc.) have a quality different from knowledge; therefore,there is no defect (in the above argument).
 
  Answer—It is not right to say so. If the inherence of âtman and the nature of illumination of knowledge is the reason for its grasping itself then (it will result in) everyone becoming
 
 omniscient.[^306]
-
- 
 
 [^306]: "This is not so, as seen in the world."
 
@@ -1866,15 +1679,11 @@ omniscient.[^306]
 
  Answer—It cannot be so; just as knowledge which is different has its cause which has another form (from the object), similarly the knowledge (which is grasped) having another form, will have another knowledge as its instrument; and thus the infinite regress will be difficult to get rid of.
 
- 
-
 किं चान्यत्—न हि कश्चित् स्वयंग्राह्यग्राहकत्वप्रसाधनाय दृष्टान्तो विद्यते, प्रदीपस्यापि चक्षुरादिग्राह्यत्वात्। न चाप्यंशद्वयमस्ति ज्ञानस्य, निरवयवत्वात्। सत्यपि चांशद्वये तयोः प्रकाशात्मकत्वान्नान्योन्यग्राह्यग्राहकभावः प्रदीपयोरिव द्वयोः॥
 
  Moreover there is this additional point—there is no example which illustrates the capacity to be both itself the knower and the known since even in the case of light it is grasped by the eyes and so on. And again knowledge has not got these two parts since it is without parts. Even if it is conceded that it is of two parts then, since both have the nature of illumination, they cannot have the relationship of knower and known as in the case of two
 
 lamps.[^307]
-
- 
 
 [^307]: "As both have the same characteristic of illumination, the two lamps do not have the relationship of illuminator and illuminated between them."
 
@@ -1884,13 +1693,9 @@ lamps.[^307]
 
 ³[^308]
 
-
 [^308]: "The Vivaraṇkâra mentions how the acceptance of the dual nature of knowledge can lead to this result."
 
-
 अयस्कान्तमणिकल्पम्॥अयस्कान्तमणिरिव। यथा अयस्कान्तमणिरयसः स्वात्मव्याप्तिं प्रत्युपकरोति सन्निधिमात्रेण,तथा चित्तमपि चित्स्वरूपस्यात्मनः स्वात्मव्याप्तिं प्रत्युपकरोति दृश्यत्वेन॥
-
-
 
 नर्तकीव दर्शितविषयत्वादन्तः कऱणेनेत्युक्तम्।
 
@@ -1922,11 +1727,7 @@ se for puruṣa 's knowledge of the modifications of the mind; and this “anâd
 
  The non-afflicted are also those which occur in the stream of the afflicted; for, even in the midst of the afflicted, there are non-afflicted (modifications), and in the midst of the non-afflicted there are afflicted (modifications). Only through the modifications arise corresponding subliminal-impressions and through subliminal-impres-
 
-
-
 sions the modifications (are produced). Thus the wheel of modifications and subliminal-impressions revolves ceaselessly. The mind which is of this kind, when its work is finished, either stays indistinguished from the self or is absorbed (in prakṛti).
-
- 
 
 ताःपुनर्निरोद्धव्याःबहुत्वेऽपि सति चित्तस्य याभिर्वृत्तिभिः व्युत्थाने सारूप्यमुक्तं पुरुषस्य। कस्मात् पुनः निरोद्धव्या इत्याह—यतो वृत्तयःक्लिष्टाक्लिष्टाः॥
 
@@ -1962,17 +1763,13 @@ informs the âtman through the modifications, repeatedly.
 
 ⁴[^313]
 
-
 [^313]: "Cf. YS, II.13. Vipâka is the result of karma and are jâti, âyuḥ and bhogaḥ."
-
 
  
 
 ख्यातिविषयाः—ख्यात्यास्पदाः।गुणानां सत्त्वादीनाम् अधिकारः संस्कारप्रवृत्तिः तद्विरोधिन्यः। ख्यातिविषयत्वादेव ता अक्लिष्टाः, अपवर्गहेतुत्वात्॥
 
  “khyâtiviṣayâḥ” = having their basis in knowledge; they "guṇâdhikâravirodhinyaḥ" = are (opposed to) the activity based on the subliminal-impressions of the sattva and other guṇas. They are non-afflicted because of having knowledge as their object i.e., due to their being the cause for liberation.
-
- 
 
 अथ क्लिष्टपङ्किमध्य(मानु) जन्मानोऽक्लिष्टा वृत्तयः किं क्लिष्टा एव क्षीरकुम्भप्रक्षिप्ताम्बुबिन्दुवत् ? एवमक्लिष्टप्रवाहपतिता अपि क्लिष्टाःकिमक्लिष्टा एव ? किं चातः; यदि क्लिष्टप्रवाहगता अक्लिष्टाःक्लिष्टाः स्युः, तदा वृत्तिसंस्कारानुविधायिनी स्मृतिः,तदनुरूप एव व्यवहारः।स चापि न सिध्यति स्वरूपव्यभिचारे। तस्मादाह—किष्टच्छिद्रेष्वप्यक्लिष्टाः अक्लिष्टएव भवन्ति।अक्लिष्टछिद्रेशु अपि क्लिष्टाःक्लिष्टा एव। यस्मादेवं तस्मात् तथाजातीयकाः संस्कारा वृत्तिभिरेव क्रियन्ते॥
 
@@ -1997,8 +1794,6 @@ nature.[^315]
  Even though the afflictions give rise to subliminal-impressions still their subliminal-impressions are (produced) only through modifications (of the mind); that is the significance of the word "eva" in the word "vṛttibhireva".Similarly "saṃskâraiḥ"= through the subliminal impressions,"vṛttayaḥ" there are modifications of the mind which conform to their nature.In this way "vṛttisaṃskâracakramaniśamâvartate”= the wheel of modifications and subliminal-impressions keep revolving ceaselessly.
 
  "tadevaṃbhûtam cittam" = the mind is of such a nature having the relationship of cause and effect through modifications (of the mind) and ( its ) subliminal-impressions.
-
-
 
  “avasitâdhikâram" = when it (mind ) stops activity due to the afflictions avidyâ, etc., ceasing (to operate); i.e., because it stays only in its causal
 
@@ -2036,8 +1831,6 @@ ions.[^319]
 
  Sources of true knowledge are perception, inference and what has come down ( from time immemorial) (Vedas), (utterances of a trustworthy person).
 
- 
-
 इन्द्रियप्रणालिकया चित्तस्य बाह्यवस्तूपरागात्तद्विषया सामान्यविशेषात्मनोऽर्थस्य विशेषावधारणप्रधाना वृत्तिः प्रत्यक्षं प्रमाणम्।
 
  फलं तदविशिष्टः पौरुषेयश्चित्तवृत्तिबोधः॥  
@@ -2051,13 +1844,9 @@ ions.[^319]
 
  The result (of perception) is the knowledge of the modification of the mind as belonging to puruṣa, which is identical (with the modification of the mind). 'Puruṣa is conscious by reflection' thus we will explain later.
 
-
-
  That modification of the mind, which mainly comprehends the general characteristic of the inferred object and which refers to that relation which is present in things belonging to the same class as the subject (in which the object is to be inferred) and absent from things belonging to a different class from the subject (in which the object is to be inferred), is inference. Thus, for instance, 'the moon and stars possess motion because of movement from one place to another, like Caitra; and the Vindhya is without motion because it does not move from one place to another.'
 
  In order to transfer one's own knowledge of a thing which has been seen or has been inferred by a trustworthy person, words are used. The modification (of the mind) of the hearer, which is due to that word and which has that (the object intended by the word) as the object is (the source of knowledge called) the Word (Scriptures). The word of one, who is untrustworthy, because he has not seen or inferred the object is contradicted, whereas when the original speaker himself has seen or inferred a thing, that word is not contradicted.
-
- 
 
 काःपुनस्ताःक्लिष्टाक्लिष्टाः पञ्चप्रकारा वृत्तय इत्याह—प्रमाणविपर्ययविकल्पनिद्रास्मृतय इति॥
 
@@ -2107,13 +1896,9 @@ and they are meant only for actions. Thus, even though the word sense-organ is u
 
 [^325]: "The five organs of knowledge by hearing, touching, seeing, tasting, and smelling, are directly connected with the modifications and the subliminal-impressions."
 
-
-
 the sense of hearing, etc., are also meant for the sake of 'producing' the modifications ( of the mind).
 
  The sense-organ of knowledge itself is the channel, doorway,in the form of modifications like sound, etc., for the changeful mind. Thus, the mind, through that senseorgan is changed into the form of the outside object,both in its particular and general nature,and is coloured by it. And because of that colouring, the modification of the mind which is like the counter-seal of a seal,though coloured by the general and special characteristics of the object,mainly “viśeṣâvadhâranapradhânâ" = comprehends the special nature of the object.That alone is true knowledge known as direct perception.
-
-
 
 अथ स्वविषयसामान्यविशेषावभासनसामर्थ्ये श्रोत्रादीनां चित्तस्य च किंकृतं विशेषावधारणप्राधान्यमिति ?
 
@@ -2125,11 +1910,7 @@ the sense of hearing, etc., are also meant for the sake of 'producing' the modif
 
  Answer—As there is an inseparable connection with the special characteristic in rejection and acceptance, it is said that there is comprehension mainly of the special characteristic.It is not that the general characteristic is not comprehended,it is grasped as being subordinate, (as being a quality ). When one says 'blue colour', though there is the understanding of the primary object i.e., the blue colour, it is comprehended under the form of a colour as 'the colour is blue' i.e., in a secondary sense (as being a quality). Similarly when one uses the expressions 'painful word','pleasurable word and oppressive word' (by the words duhkha, etc., the sâmânya is conveyed).Thus it is proper to understand that this (pratyakṣa) modification mainly comprehends the particular characteristic.
 
- 
-
 किं च—संशयविपर्ययनिमित्तत्वाच्च सामान्योपलब्धेः।सामान्ये ह्युपलब्धे बुभुत्सितविशेषस्य संशयो जायते, समुपलब्धसामान्यान्यस्मृतेर्वा विपर्ययः,समधिगतविशेषस्य तु संशयविपर्ययौ न स्थितिमुपारनुवाते, इति विशेषावधारणप्रधानतोच्यते॥
-
- 
 
 यत्रापि सामान्यमेवावदिधारयिषितं गौरिति वा अश्व इति वा,तत्राप्यन्यतरपरित्यागेनान्यतरावधारणेति विशेषावधारणप्रधानतैव। सर्वमेव हि वस्तु वस्त्वन्तरापेक्षया सामान्यं विशेषश्च॥
 
@@ -2143,11 +1924,7 @@ whereas the particular characteristic known directly does not admit of doubt or 
 
  Even where one desires to know only the general characteristic as in the examples
 
-
-
 ‘this is a cow’, ‘this is a horse', etc., there also by discarding some (characteristic) there is an emphasis on some other (characteristic), and thus it is a comprehension mainly of the special characteristic. It is known after-all, that everything with reference to everything else is both an universal and a particular.
-
- 
 
 यस्य पुनः सामान्यमवस्त्वध्यारोपितमेवोषराम्बुवत्,नेन्द्रियविषयमिति,तस्य प्रतिनियतसामान्याध्यारोपणानुपपत्तिः।न ह्यनुपलब्धपूर्वमुख्ये संभवत्यध्यारोपणा, स्मृत्यसंभवात्। न कदाचिददृष्टमुख्योदकस्य सलिलाध्यारोपणमूषरेषु विद्यते।
 
@@ -2155,13 +1932,9 @@ whereas the particular characteristic known directly does not admit of doubt or 
 
  Answer—It will be difficult to explain the superimposition of specific universals.[^327]
 
-
 [^327]: "There is the perception of only certain fixed universals like horns in a cow and not in a horse. This cannot be explained by a general theory of superimposition."
 
-
 It is not possible to superimpose anything on to something which has not been experienced before, as there is no possibility of memory of it. It is not possible to superimpose water on to deserts (as is done in mirages) in case one has not seen water before.
-
- 
 
 अथास्मरन्नप्यध्यारोपयेत् रूपस्वलक्षणे शब्दत्वाद्यप्यध्यस्येत्। अथेन्द्रियान्तरविषयत्वाद्रूपस्वलक्षणे शब्दत्वाद्यध्यासो विरुद्ध इति चेत्—न—अवस्तुत्वे सत्यविशेषात्। विशेषाभ्युपगमे च वस्तुत्वप्रसङ्गः। शब्दस्वलक्षणादिव रूपस्वलक्षणस्य॥
 
@@ -2181,15 +1954,11 @@ And if you admit special characteristics (distinct particulars) then you will ha
 
 stic.[^329]
 
- 
-
 [^329]: "This is in answer to the Buddhist opponent who does not believe in any real entity."
 
 किं चान्यत्—देशकालान्यविशिष्टप्रत्यक्षा\[न\]भ्युपगमे समस्तलोकव्यवहारविलापःस्यात्।न हीदमहममुष्मिन्नवकारो काले चास्मिन्नद्राक्षमेतस्मान्निमित्तादेवंविशेषणमिति च स्मृत्युपपत्तिः।न च प्रत्यक्षादृष्टेषु विशेष्यवद्विशेषणेषु स्मृतिः संभवति।न च कल्पनापोढेन व्यवहारगोचरातीतेन व्यवहरमाणो दृश्यते।तस्माल्लोकप्रसिद्धप्रत्यक्षानुसरणमेव न्याय्यम्॥
 
  Moreover there is this additional point—If one does not admit direct perception as qualified by space, time and other characteristics there will be denial of the entire day-to-day existence. Then there cannot be an experience like 'I saw this on that occasion and at that time and so there is this memory of the special quality.'And without direct perception there cannot also be memory of qualities as there cannot be memory of subjects (having them). No one sees anyone functioning through fancy
-
-
 
 which is beyond everyday
 
@@ -2237,8 +2006,6 @@ Therefore it should not be understood that (direct perception ) is only through 
 
  "bâhyavastûparâgât” has been used in order to exclude misapprehension. By saying 'having mainly the comprehension of the special characteristic', doubt is ruled out.
 
-
-
  तत्र केषांचित् फलं तदेव प्रमाणम्। अपरेषां तु प्रमाणादन्यत्(त्र) प्रमाणव्यक्त्यन्तरम्(रे)। यथा घटविज्ञानस्य प्रमाणस्य हानोपादानोपेक्षाबुद्धयः फलमिति। गुणदोषतदुभय(वद्भव) शून्यत्वविषयत्वादुपादानादिबुद्धीनां प्रमाणभूतघटविज्ञानादत्यन्तभेदः। ततश्चान्यविषयस्य प्रमाणस्य अन्य(प्रमेयस्य)–विषयप्रमाण(णे) व्यक्त्यन्तरं(रे) फलमिति॥
 
  Objection—In this context some say that the instrument of valid knowledge is also the
@@ -2250,8 +2017,6 @@ There are others who say that the result is different from the means of true kno
 [^334]: "This is a reference to the Buddhist theory of 'pramâṇam avisaṃvâdî jñânam'."
 
  As the feelings of acceptance, etc., have as its objects the good (qualities), the defects and the absence of both (in the pot), it is totally different from the knowledge of the pot which is valid (true) knowledge. Therefore it follows that the result of the means of true cognition is a different thing, having valid knowledge relating to something different.
-
-
 
 न हि खदिरच्छेदनस्य खदिरोपादानं तत्परित्यागो वा फलं भवितुं युक्तम्। वि (अपि) योगसंबन्धफलत्वात् त्यागोपादानयोः। न च फलस्य फलं सम्भवति। द्वैधीभावफलव्यवहितत्वाच्च॥
 
@@ -2275,8 +2040,6 @@ world).[^336]
 
  तस्मान्न प्रमाणस्वरूपमेव फलम्,नापि तद्व्यतिरिक्तप्रमाणान्तरमित्याह—फलं तदविशिष्ट इत्यादि।तदविशिष्टः तया प्रमाणाख्यया वृत्त्या अविशिष्टः तुल्यः तदाकारत्वेन, पौरुषेयः पुरुषस्यायं बोध इति।पुरुषस्य हि वृत्त्याकारता। तस्मान्नाक्रियाजं द्रव्यस्वरूपमात्रं फलम्। किं तर्हि ? द्रव्यस्यैवावस्थान्तरविशेषः (ष) क्रियाजः(जा) क्रियापर्यवसानकालः क्रियोपरमोपपत्तेः फलम्। फलनिष्पत्तावेव हि क्रियोपरम उपपद्यते।एवंभूतस्य मुख्यफलत्वे प्रधाानक्रियाव्यवहित (विप्रकृष्टायाः) क्रियाया द्रव्यं द्रव्यस्य वा क्रिया फलमित्यन्योन्यप्रत्युपस्थापकत्वेन प्रधानफलाभिमुखीकरणात् फलत्वोपचारो न विरोत्स्यते॥
 
-
-
  Answer—Nor can the result be the action alone as (then) there is the difficulty of the non-stoppage of action. One understands that action culminates in the production of the result. And if the result belongs to effort there will be the danger of not desiring the result, since it can only lead to
 
 suffering.[^337]
@@ -2295,8 +2058,6 @@ suffering.[^337]
 
  Answer—You are quite right. Even then this is the main result as seen in the world. One does not see any other important result than this (main) one. This is the result aimed at by the collection of actions and the agent (of the actions)—they all have this result in view and that is how it is seen (in the world).
 
- 
-
 ननु च मिथ्याभूतस्यैव मुख्यफलत्वं वृत्त्याकारस्य, तथा च तदभिलाषानुपपत्तिः। बाढम्— मिथ्याभूत एव वृत्त्यनुगतो भोगः। तथा चाह—सत्त्वपुरुषयोरत्यन्तासंकीर्णयोः प्रत्ययाविशेषो भोगः इति॥ भाष्यमपि—तयोः स्वरूपोपलम्भे सति कुतो भोग इति॥ अत एव च सम्यग्दर्शनादात्यन्तिकी निवृत्तिरुपपद्यते॥
 
  Objection—But then, if the main result of the form of the modification (of the mind) is false there will be the undesirable consequence of explaining the desire for it.
@@ -2309,8 +2070,6 @@ The commentary also (says) "when there is knowl-
 
 [^338]: "Cf. YS, III.35."
 
-
-
 edge of their true nature where can there be any
 
 experience."[^339]
@@ -2321,15 +2080,11 @@ Therefore it is said that due to right insight (discriminate-discerninent ) ther
 
 ions).[^340]
 
- 
-
 [^340]: "Thus this supports the theory of falsehood."
 
 येषाममिथ्या फलं,तेषां वैराग्यकारणाभावात् सम्यग्दर्शनान्वेषणानुपपत्तेर्मोक्षाभावः।न च क्रियापरिनिष्पाद्यो मोक्षः, अनित्यत्वप्रसङ्गात्॥
 
  Those who consider the results as real, will not have a reason to practise detachment (and) since there will be no reason to search deeply for right insight there will be no liberation (in their case). Moreover liberation will not be something brought about by action for then it will be impermanent.
-
- 
 
 अथ बुद्धिबोद्धृत्वं पुरुषस्य सत्त्वं चासिद्धमिति चेत् आह—प्रतिसंवेदी बुद्धेः पुरूष इत्युपरिष्टात् प्रवेदयिष्याम इति॥
 
@@ -2357,19 +2112,15 @@ That which arises from something else is the proof (valid means) of that. And th
 
 [^343]: "According to the Nyâya school."
 
- फलमपि सन्निकर्षो ज्ञानं प्रति प्रमाणमिति चेत्—तच्च न—ज्ञापकप्रमाणप्रस्तावे कारकप्रमाणोपन्यासस्यायुक्तत्वात्। सन्निकर्षो हि ज्ञानस्योत्पादको न तस्य ज्ञापकः। प्रमेयाधिगमाय हि प्रत्यक्षादीन्युपन्यस्तानि, न ज्ञानोत्पत्तिकारणम्। तत्प्रक्रियायाम (यान्य) प्रकृतं प्रक्रियेत॥
-
 [^344]: "Thus samyoga is the result of action."
+
+ फलमपि सन्निकर्षो ज्ञानं प्रति प्रमाणमिति चेत्—तच्च न—ज्ञापकप्रमाणप्रस्तावे कारकप्रमाणोपन्यासस्यायुक्तत्वात्। सन्निकर्षो हि ज्ञानस्योत्पादको न तस्य ज्ञापकः। प्रमेयाधिगमाय हि प्रत्यक्षादीन्युपन्यस्तानि, न ज्ञानोत्पत्तिकारणम्। तत्प्रक्रियायाम (यान्य) प्रकृतं प्रक्रियेत॥
 
  Objection—It is said that contact which is the result should be considered as the proof (means) with regard to knowledge.
 
  Answer—It is not so. In the discussion of means which makes a thing known it is not correct to bring in that which creates a thing as a proof (means). Contact is the one which gives rise to knowledge and not one which makes it known. (Proofs like) direct perception and others have been mentioned in order to reveal the known (object) and they are not the ones creating knowledge. In case that is done it will be introducing something not relevant to the topic under discussion.
 
- 
-
 अथापि स्यात्—ज्ञानस्यापि प्रमेयत्वात्तच्चाप्युत्पद्यमानं प्रमीयत इति तदुत्पत्तिकारणस्य सन्निकर्षस्य
-
-
 
  
 
@@ -2401,8 +2152,6 @@ the object of Îśvara’s desire, the closing and opening (i.e., winking) of th
 
 अथ आत्मसमवेतमात्रतयैव ज्ञानस्य ज्ञेयता, न ज्ञानान्तरमपेक्ष्यते येनातिप्रसज्येतेति चेत्—अस्याप्यन्यत् प्रत्यक्षलक्षणं वाच्यम् अनिन्द्रियसन्निकर्षादिलक्षणत्वादात्मनि ज्ञानसमवायत्वस्य। सन्निकर्षस्य च ज्ञानोत्पत्तिफलत्वात्तदुत्पत्तिव्यवधाने सति तस्य ज्ञानेन नानन्तर्यम्।
 
- 
-
 तस्मात्तदानन्तर्येणापि न सन्निकर्षफलत्वं ज्ञानस्य। तथा हानादिबुद्धीनामपि रूपादिज्ञानफलत्वानुपपत्तिरुक्ता॥
 
  Objection—Now it is said that knowledge is (has the property of being) known only by inherence in âtman and it is not in need of another knowledge which (if accepted) will lead to infinite regress.
@@ -2417,21 +2166,13 @@ And since contact has the result of giving rise to knowledge (according to Nyây
 
  Therefore knowledge cannot be the result of a contact because of the problem of continuity. Similarly the ideas of rejection, etc., do not fit into the result of knowledge of colour (form) and so on.
 
- 
-
 व्यभिचाराच्च।यथैकस्मिन्नङ्गनादिपिण्डविषये ज्ञाने समाने बहूनामुत्पन्ने कस्यचिदुपादानबुद्धिः,अन्यस्य हेयबुद्धिः कस्यचिदुभयाभावः,तत्र हानोपादानबुद्धिर्व्यभिचरति।अन्यतरत्रैकमेव ज्ञानं तदेवोभयं व्यभिचरत्युपेक्षकस्य। यच्च यद्व्यभिचरति न तत्तस्य फलम्॥
 
  Moreover there are many counter-examples.For instance with reference to the body of a woman, though the knowledge that arises is common to many, in one of
 
-
-
 them there is the feeling of possessing her, in another there is the feeling of rejecting her, and in another there is the feeling of indifference (absence of both feelings) towards her. In that context, the theory of acceptance or rejection is not on sure ground. On the other hand, knowledge is the same but in the case of one who is indifferent, both (acceptance and rejection) are not seen. That which violates the rule in relation to another cannot be its result.
 
- 
-
 किं च—हानोपादानाभावमात्रत्वादभाव एवोपेक्षा। न चाभावः प्रमाणस्य वस्तुनः फलं भवितुमर्हति।रागद्वेषाभ्यां चोपादानपरित्यागबुद्धी। तदभावात् कारणाभावे कार्याभाव इति प्रमाणविज्ञाने सत्यपि हानोपादानबुद्ध्यभाव एवोपेक्षेति व्यभिचारान्न हानादिबुद्धिफलत्वम्॥
-
- 
 
 किं च—रागद्वेषतदभावानामप्युपादानादिबुद्धिफलत्वे प्रमाणत्वप्रसङ्गः। पौरुषेयचित्तवृत्तिबोधफलत्वे तु न किञ्चिद्विरुध्यत इति॥
 
@@ -2439,17 +2180,13 @@ them there is the feeling of possessing her, in another there is the feeling of 
 
  Moreover the mind's ideas of acceptance and so on, are also the result of attachment, hatred and indifference to both (absence of both); in that case the very definition of valid knowledge is vitiated (contradicted) (as attachment,etc.,would become valid knowledge); whereas when the result is knowledge of the modification of the mind as belonging to puruṣa there is no contradiction.
 
- 
-
 ननु च चित्तवृत्तेः संवेद्यत्वमसिद्धम्। न हि करणमेव कर्म भवति। न हि दात्रमेव लूयते। नैष दोषः। क्रियाकारकयोर्भिन्नधर्मत्वात्। क्रियानिर्वृत्तिं प्रति सम्भूय कारकाणि व्याप्रियन्ते परस्परं विषयविषयिभावेन।क्रिया तु सत्तामात्रेणैव फलहेतुरिति करणत्वमस्यामुपचर्यते, न कारकवत्। कुर्वद्धि कारयेदिति क्रियाधिकारकं स्यान्न भूतं भव्यायोपदिश्येत॥
 
  Objection—But then, in this way, the knowability of the modification of the mind has not been proved. It is not possible for an instrument to become the object
 
 also.[^348]
 
-
 [^348]: "cittavṛtti being the instrument how can it also be the object of knowledge?"
-
 
 For instance, the knife is not the object which is cut by it (the knife).
 
@@ -2457,17 +2194,13 @@ For instance, the knife is not the object which is cut by it (the knife).
 
 future.[^349]
 
-
 [^349]: "The instrument being in the past and the result being in the future."
-
 
  
 
 किं च—अनवस्थाप्रसङ्गश्च। क्रिया चेत् करणं स्यात्,तन्निर्वर्त्यया चान्यया क्रियया भवितव्यम्।न ह्यन्यां क्रियामन्तरेण तस्याः कारणत्वं घटते। यापि चान्या सापि कारणं स्यादन्यस्याः क्रियायाः।साप्यन्यस्या इत्यनवस्था।ततश्च क्रियासन्तानानुपरमात् फलानभिनिर्वृत्तिः। तत्रान्त्या चेत् क्रियान्तरेण विना फलहेतुर्भवेत्, प्रथमस्य तथात्वे कः प्रद्वेषः?
 
  Moreover, there will be the undesirable consequence of infinite regress. If action is also the instrument of action then in order to accomplish its task there should be another action. Without another action (to make it act) it cannot be called the instrument of action. And that another will also be an instrument (cause) of another action and that also will be of another ( action); in this way, there will be infinite regress. And then since there will be no cessation of the series of actions there will be no result accomplished. And if it is said that a final action will cause the result without the need of another action, then one can ask what is wrong in assuming that of the first action itself.
-
- 
 
 चित्तवृत्तेस्त्वभिव्यञ्जकत्वात् संवेद्यतेत्यदोषः॥
 
@@ -2495,8 +2228,6 @@ Similar is the case with the mental modification.
 
  Answer—In the case of those senses which are physical ( gross ) the eye, having the quality of light which arises along with the light outside which is similar, there is ignorance about perceiving itself. As for instance when there are many lamps whose lights all arise simultaneously, it is not possible to distinguish which light belongs to which lamp. And it is similar in the case of sense-of-hearing and so on.
 
- 
-
 येषामप्यभौतिकानि,तेषामप्यभिव्यञ्जकत्वेन समानजातीयता वृत्तेरभिव्यञ्जकत्वादग्रहणमिति।तन्न—प्राप्तचैतन्योपग्रहतयाऽविभाव्यत्वादव्यवहितत्वाच्च। सर्वगतत्वेऽप्यात्मनः सूक्ष्मत्वेन स्वच्छतरत्वेन च चित्तेनाव्यवधानाच्च ग्रहणं चित्तवृत्तेस्तस्माच्चित्तवृत्तिप्रमाणेनैव तदाकारतया पौरुषेयोऽपि बोधः संवेद्यमान एव फलमिति सिद्धम्॥
 
  Objection—But then, even in the case of the senses which are not physical (
@@ -2504,8 +2235,6 @@ Similar is the case with the mental modification.
 gross)[^351] which is subtle.")
 
 [^351]: "The reference is to the mind (subtle-senses
-
-
 
 (one can say) they are similar to the mental modification because of the power to reveal objects; and due to the quality of revealing objects it (mental modification) can also not be
 
@@ -2515,8 +2244,6 @@ perceived.[^352] are not perceived in spite of having the capacity to reveal. So
 
  Answer—That is not so; due to its being coloured by the consciousness it is not distinguishable and not distanced from it. Though omnipresent, the âtman being subtle and being extremely pure and also being inseparable from the mind, grasps the modification of the mind; thus, by the mental modification which is the means of true knowledge, purusa also,by taking on its (modification) form,has knowledge as belonging to it. Thus it is established that the result is that which is being known as belonging to it (puruṣa ).
 
-
-
 येषां पुनः प्रत्यक्षेणासंवेद्या चित्तवृत्तिस्तेषां फल्ग्रहणप्रमाणाभावः। फले च गृहीते ज्ञानासिद्धत्वस्यार्थापत्तिः। न च फलं गृह्यते प्रमाणव्यापारानभ्युपगमात्।तदभ्युपगमे चानवस्थाप्रसङ्गः।यत्फलावग्रहणाय प्रमाणमभ्युपगम्यते तस्याप्यन्यत् फलं तत्प्रमाणस्याप्यन्यदिति न क्वचिदवतिष्ठेत॥
 
  अथ न प्रमाणव्यापारस्तस्य तदा प्रमाणाभावात् फलस्यासत्त्वं प्रसक्तम् यत्र हि सदुपलम्भकानि प्रमाणानि न व्यापारं गच्छन्ति, तत्रास्तीत्यभ्युपगच्छामः (तेषाम्)।
@@ -2524,8 +2251,6 @@ perceived.[^352] are not perceived in spite of having the capacity to reveal. So
  There are those who believe that the mental modification is not known through direct perception and (also) that there is absence of the means to grasp the result. And if (knowledge as) result is admitted then (they say that ) there will be the implication of knowledge not being established as there is no result perceived without admitting the operation of the means of true knowledge. And if it (means) is admitted there will be the problem of infinite regress. That means of true knowledge which is admitted in order to grasp true knowledge will have a result and that will need another means of right knowledge as proof; thus there will be no end to this.
 
  According to them then, there is no operation of the means of right knowledge; then because there is no means of knowledge the result (of true knowledge) does not exist. Wherever the means of proof which causes perception of an existing thing do not function one has to conclude that the thing does not exist.
-
- 
 
 अथ अगृह्यमाणमपि तदेव ज्ञानं प्रमाणं फलस्यापीति चेत्—न—अभिव्यञ्जकधर्मव्यतिक्रमात्। न ह्यभिव्यञ्जकं गृह्यमाणमभिव्यञ्जयदृष्टम्। न ह्युल्का गिरिशिखरेऽपि निजं धर्ममतिक्रामति॥
 
@@ -2535,15 +2260,11 @@ perceived.[^352] are not perceived in spite of having the capacity to reveal. So
 
 nature.[^353]
 
-
 [^353]: "He is going through the same arguments based on the revealer and the revealed dichotomy. The flame in this case reveals the mountain but not itself."
-
 
 अथाभिव्यञ्जयदेव फलं प्रत्यपि प्रमाणमिति चेत्—सिद्धं तर्हीप्सितमस्माकम्। रागादीनां वृत्तिविशेषणत्वेन ग्रहणोपपत्तेः। रक्तोऽहं द्विष्टोऽहमिति यद्यहंप्रत्ययविशेषणं, तदापि वृत्तिभावाभावित्वेनैव ग्रहणाद्वृत्तिविशेषणानां रागादीनां ग्रहणमुपपद्यते। अ(तेना)न्यथा रूपादिवन्मानान्तरापेक्षत्वप्रसङ्गात्। ततश्चानवस्थेति॥
 
  तस्मात्प्रमाणफलानभिज्ञानामभिमानमात्रमेव केवलं पण्डितंमन्यानामित्युपेक्षणीयमिति॥
-
-
 
  Objection—Then it is said that being revealed is itself the means of knowledge with reference to the result also.
 
@@ -2563,8 +2284,6 @@ which is well-known and is mentioned by the word
 
 "yaḥ".[^355]
 
- 
-
 [^355]: "In the commentary of Vyâsa under 1.6."
 
 ननु च अनुमानस्य प्रकृतत्वात्, लिङ्गलिङ्गिनोः सम्बन्धः प्रसिद्ध एव—न—अगमकत्वात्। न केवलः सम्बन्धो गमकः। उच्यते—लिङ्गस्यैव सम्बन्धो व्यावृत्त्यनुवृत्त्योः। कः पुनरसौ ? लिङ्गमेव। न हि लिङ्गादन्यदनुवृत्तं व्यावृत्तं च। तच्च गमकम्।
@@ -2573,17 +2292,11 @@ which is well-known and is mentioned by the word
 
  Answer—That is not so, because it is not convincing. It is not the relationship alone that is proof (of inference). It is thus said that the relationship of inclusion and exclusion has to belong to the distinguishing mark (in an inference). And what is that—it is the distinguishing mark itself. Inclusion and exclusion is not of anything other than the distinguishing mark. And that is proof (of inference).
 
- 
-
 ननु लिङ्गमपि नैव गमकं लिङ्गिसम्बन्धानपेक्षं, यदि चानपेक्षितलिङ्गलिङ्गिसम्बन्धं गमकं, यत्किञ्चिद्गमकं स्यात्, तस्मात् लिङ्गलिङ्गिसम्बन्धो वक्तव्यः॥
 
  Objection—The distinguishing mark is also not proof (of inference) without reference to the relationship with that possessing the mark. If the proof does not take into consideration the relationship between the distinguishing mark and that possessing
 
-
-
 the mark then anything can become the means of proof.Therefore the relationship between the distinguishing mark and that possessing the mark is to be mentioned.
-
- 
 
 न—उक्तत्वात्॥ 'अनुमेयस्य तुल्यजातीयेष्वनुवृत्तः' इत्यादिनैवोक्तत्वात्।न ह्यनुमेयेनासंबद्धं लिङ्गिना तत्सदृशजातीयेष्वनुवर्तते, भिन्नजातीयेम्यो वा निवर्तते। तस्मात् य इति च प्रसिद्धमेव संबन्धमनुवदति॥
 
@@ -2621,25 +2334,17 @@ being (in the relationship of) cause and effect.
 
 [^358]: "This is a very unusual example given; it is not even very specific."
 
-
-
 भवतु तावदविरुद्धानां नित्यसंबन्धाद्देशान्तरप्राप्त्यादीनां गम्यगमकता,वध्यघातकादीनां तु संबन्धाभावे कथमित्युच्यते गम्यगमकभावः (भावेन) ?
 
  तत्रापि नित्यसंबन्धाददोषः। न ह्यन्यत्रापि प्राप्तिलक्षणः संबन्धोऽभिप्रेयते। सामान्यतो दृष्टा (नु) भावप्रसङ्गात्। न हि चन्द्रतारकादिषु देशान्तरप्राप्तेः प्राप्तिलक्षणसंबन्धः प्रत्यक्षेण गृह्यते।
 
  Objection—But then, we can grant that in examples like reaching another place
 
-
-
 there is an eternal relationship between things which are not opposed to each other; so it is convincing to infer that; but in the case of examples like the hunter and the hunted there is no such relationship; then how can you say that it is convincing to infer that?
 
  Answer—Even in such instances there is no harm done as there is an eternal relationship. Even in other places the relationship characterised by reaching another place (and motion in the moon and star) is not intended, as generally one does not observe it.For instance,one does not directly perceive the relationship between motion and reaching another place of the moon, stars and so on.
 
- 
-
 अगृह्यमाणश्चेद्गमकः सर्वं सर्वस्य गमकं स्यात्। न हि किंचित्केनचिदसंबद्धम्, आकाशादीनां सर्वत्र भावात्॥
-
- 
 
 तस्माद्गम्यगमकबुद्ध्युत्पत्तिहेतुरेव संबन्धोऽनुमानविषये। तथा च वध्यघातकयोरपि अन्यतर( रा )भावदर्शनेऽन्यतराभावो गम्यत इत्यनुमानमेव। यस्याप्युचिते देशे अभावदर्शनादन्यत्र भावो गम्यते। यथा घातकदर्शनेन वध्याभावोऽनुमीयते। चैत्रस्य जीवतो गृहे अभाव (गृह्यभाव) दर्शने बहिर्भावश्चेति॥
 
@@ -2659,9 +2364,7 @@ When one does not see the living Caitra in his house, one concludes that he is
 
 outside.[^361]
 
-
 [^361]: "This is arthâpatti and not inference."
-
 
 ननु चाभावार्थापत्ती एते, नानुमाने, (न) लक्षणासङ्गतेः, गवादिवत्॥
 
@@ -2671,17 +2374,11 @@ outside.[^361]
 
  Answer—That is not so; the said definition fits in (here too).The relationship between the hunter and the hunted is that of opposition (to each other).There is an invariable concomitance given in the statement 'wherever there is the hunter there is the absence of the hunted'. The presence of the hunter invariably means the absence of the hunted and the presence of the hunted means the absence of the hunter. It is like the presence of fire in the presence of smoke.
 
-
-
  
 
 कथं पुनरवगम्यते घातकभावदर्शनादेव तद्गोचरे वध्यस्याभावबुद्धिरिति ? न पुनः सदुपलम्भकप्रमाणानां घातक इव वध्ये व्यापाराभावादिति॥
 
- 
-
 उच्यते—घातकभावे व्यापृ(प्यावृ )तप्रमाणस्यैव वध्याभावबुध्युत्पत्तिः, धूमभावे व्यापृ( वृ )तप्रमाणस्येवाग्निभावबुध्युत्पत्तिः, तथा घातकविशेषव्यापृ(वृ)तप्रमाणस्य वध्यविशेषाभावबुध्युत्पत्तिः, धूमविशेषव्यापृ(वृ)तप्रमाणस्येवाग्निविशेषबुद्धिरिति।
-
- 
 
 अभावप्रमाणवादिनस्तु सर्वत्र प्रमाणाभावस्याविशिष्टत्वाद्विरोधिविशेषदर्शनानुविधानं विरोध्यन्तराभावदर्शनस्यानुपपन्नं, लिङ्गविशेषानुविधानमिव लिङ्गिविशेषदर्शनस्य।न हि सदुपलम्भकप्रमाणव्यापाराभावस्य कश्चिद्विशेषःयेन विशेषबुद्धिस्तद्विशेषमनुविधीयते॥
 
@@ -2733,8 +2430,6 @@ Nor is something not existing seen to bring about an
 
 [^367]: "There cannot be a desire to know the absence of something."
 
-
-
 effect depending on other things, like for instance the horns of a rabbit.
 
  Objection—It is said it has been seen now.
@@ -2749,27 +2444,19 @@ example.[^368]
 
  Answer——That is not so;for in the case of a pot, etc.,they have been seen as associated with existence.
 
- 
-
 न चापि निर्व्यापारस्यावस्तुत्वादभावस्य प्रमाणभावो युक्तः।न हि निरस्तव्यापारकं किंचित् कार्यारम्भकं दृश्यते लोके। तस्माद्व्यापाररूपप्रमाणजनिता प्रमेयाभावबुद्धिः,प्रमेयविषयत्वात् घटादिबुद्धिवत्।तथा च वस्तुत्वात् प्रवृत्तिनिवृत्तिहेतुत्वात्।विपक्षः शशविशाणादिः। तथा अभाव\[प्रमा\]प्रमाणा(ण) भावजनिता न भवति, यथाऽभिहितहेतुदृष्टान्तदर्शनात्। (नेन)॥
 
  It is not proper to consider absence as a proof as it is not an object since it has no function. We do not see anything which is without any action producing any effect in the world. Therefore the idea of absence of something which is brought about by knowledge in the form of an action, is like the idea of knowing a pot because it has the object of something knowable. And because it is an object it is the cause for both action and cessation of action. Its counter-examples are rabbit's horns and so on. Thus the knowledge of absence is not created by valid proof (knowledge) of absence as it is seen that a thing is like what is said to be its cause.
 
- 
-
 घातकदर्शनं वध्याभावबुद्धेर्लिङ्गं तद्भावभावित्वादग्न्यादिबुद्धिनिमित्तधूमादिबुद्धिवत् संशयनिवर्तकत्वाच्च। वध्याभावबुद्धिर्वा लिङ्गजनिता निश्चयरूपत्वादग्निबुद्धिवदिति॥
 
  The sight of the hunter is an indicatory mark of the absence of the hunted as it is created by the presence of it (the hunter); it is like the idea of smoke and so on, which are causes for producing the idea of (the presence of) fire, etc., and it removes doubt (in the mind). Or the idea of the absence of the hunted which is created by the indicatory mark (of the presence of the hunter) creates a certainty like the idea of fire (from the mark of smoke).
-
-
 
 इह घटो नास्तीति किल नानुमानं लिङ्गलिङ्गिसंबन्धाग्रहणात्।न हि यथाऽग्न्यादिबुद्धेर्धूमादिलिङ्गान्वेषणं तथेह नास्ति घट इत्यत्र लिङ्गान्वेषणमस्ति। प्रागेव लिङ्गान्वेषणात् बुध्युत्पत्तेः॥
 
  नैष दोषः। इहप्रत्ययाकारस्यैव लिङ्गत्वात्।न हि प्रथममेव लिङ्गबुध्युपजनने सति लिङ्गान्वेषणं भवति। इहेत्याकारोपरञ्जिता बुद्धिर्लिङ्गम् उपरञ्जकव्यतिरिक्तघटाद्यभावबुद्धेर्घातकबुद्धिवदेव। विरोधलक्षण एव चात्रापि सम्बन्धः॥
 
  Objection—The statement here that 'The pot is not here' is not an inference as there is no knowledge of the relationship between a mark and that possessing the mark. Nor is there a search for any indicatory mark here in the absence of the pot, as in the case of the search for the mark of smoke in the idea of (presence of) fire. This is because there is already the idea (of absence) before the search for an indicatory mark.
-
-
 
  Answer—There is no defect in this. The idea in the form 'here' is itself an indicatory mark. It is not necessary that a search for the indicatory mark is only when there is already an idea of the indicatory mark. The idea coloured by the form 'here' is the indicatory mark for the idea of the absence of the pot which is not coloured by that; as in the idea of the absence of the hunter here also,there is the characteristic of opposition (exclusion).[^369]
 
@@ -2783,9 +2470,9 @@ example.[^368]
 
 [^371]: "Devadatta, not being found in the house, his presence outside the house is understood through inference."
 
-In this case it is the direct perception of his presence outside that makes clear his absence inside (the house). The cause for the understanding of absence is the idea of something not being grasped through a modification,which is supposed to grasp it.
-
 [^372]: "Inference can be applied in both ways here."
+
+In this case it is the direct perception of his presence outside that makes clear his absence inside (the house). The cause for the understanding of absence is the idea of something not being grasped through a modification,which is supposed to grasp it.
 
  अग्न्यादावपि दहनादिशक्तिग्रहणमनुमानमेव। कार्यनिर्वर्तकयोरविनाभावसंबन्धस्यात्मनि दृष्टत्वाद्भुज्यादौ। दृश्यते हि प्रत्यगात्मनि शक्तोऽहमिदं कार्यं कर्तुमशक्तोऽहमित्यात्मवदात्मविशेषणस्य शक्तेर्ग्रहणम्। शक्तिनिर्वर्त्यमेव दहनादिकार्यमपीत्यनुमानसिद्धिः॥
 
@@ -2795,13 +2482,11 @@ so also the act of burning, etc., is the fulfilment (accomplishment) of one's po
 
 [^373]: "The embodied self is referred to here."
 
- ननु चाभावस्य प्रत्यक्षतामुपगायन्ति केचित्। यथा किलादर्शकेन प्रदीपादिना सति गृह्यमाणे वस्तुनि न तदवयविनि यदुपलभ्यते तन्नास्तीत्येवं सतः प्रकाशकं प्रमाणमसदपि प्रकाशयति। तथा चोदाहरन्ति—अनङ्कितं वास आनयेत्युक्तः प्रविश्य भाण्डागारम् अङ्कितानङ्कितवासस्सन्निधावङ्कितवासोग्रहणेनैव प्रत्यक्षेणाङ्काभावविशिष्टं वास उपलभ्यानयति। तस्मात् प्रत्यक्ष एवाभावो लक्षणान्तरानुपपत्तेरिति॥
-
 [^374]: "One infers its power from the act."
 
+ ननु चाभावस्य प्रत्यक्षतामुपगायन्ति केचित्। यथा किलादर्शकेन प्रदीपादिना सति गृह्यमाणे वस्तुनि न तदवयविनि यदुपलभ्यते तन्नास्तीत्येवं सतः प्रकाशकं प्रमाणमसदपि प्रकाशयति। तथा चोदाहरन्ति—अनङ्कितं वास आनयेत्युक्तः प्रविश्य भाण्डागारम् अङ्कितानङ्कितवासस्सन्निधावङ्कितवासोग्रहणेनैव प्रत्यक्षेणाङ्काभावविशिष्टं वास उपलभ्यानयति। तस्मात् प्रत्यक्ष एवाभावो लक्षणान्तरानुपपत्तेरिति॥
+
  Objection—But then, some also proclaim that absence is directly perceived. Just
-
-
 
 as when a lighted mirror reflects an object it is not as if whatever is there in the object is not there (in the image); but, in this way, the means of knowledge which reveals existence also reveals that which is not existent.[^375]
 
@@ -2820,8 +2505,6 @@ Answer—That is not so; then there will be the undesirable consequence of ascri
  यथा चासत्यपीहदेशघटाभावसंबन्धे संबन्धप्रतीतिस्तथैवानीलेऽपि वस्तुन्यसत्येव नीलत्वसंबन्धे नीलत्वसंबन्धप्रत्ययः प्राप्नोति, तथा संबन्धिष्वपि। अथास्त्येव संबन्धः, द्विष्ठता विरुध्येत संबन्धस्य। अभावस्यात्रस्तुत्वाभ्युपगमात्॥
 
  If it is said that even though there is no relationship between 'absence of pot' and the location 'here' still there is a perception of the relationship, then even in an object which is not blue when there is no relationship with blueness there will be the idea of relationship with blueness and also between the two things. A relationship is something which exists; this ambiguity (conveying two senses) is contradictory to (the idea of) relation, as one understands absence not to be an actual thing.
-
-
 
   अथाप्येकशतं षष्ठ्यर्था इति यावत् षष्ठ्यर्थाः संबन्ध इष्येत, तदा द्विविध एव संबन्धः समवायाख्यः संयोगाख्यश्चेति न युज्यते॥
 
@@ -2861,8 +2544,6 @@ Answer—That is not so; then there will be the undesirable consequence of ascri
 
  Answer—Then there will be the undesirable consequence of the contact of the objects and the sense-organs being meaningless everywhere. And then if that is so, since everyone will obtain knowledge without contact of sense-organs with objects there will be the undesirable consequence of everyone being omniscient.
 
-
-
  अथानुमेयं तत्रेति चेत्—नभः कुसुमाभाववदिह घटाभावस्याविशेषादानुमानिकत्व(कीय )मेव सिद्धम्। एवं च सत्यभावप्रमाणवादिनोऽपि व्यवहितविप्रकृष्टोदकादावनलाद्यभावस्यानुमेयत्वादिह घटाभावोऽपि तत्सामान्यादनुमानग्राह्य एवेति निश्चेतुं युक्तम्॥
 
  विन्ध्यश्चाप्राप्तेरगतिरिति च प्रयोगान्तरम्।अगतिर्विन्ध्य इति प्रतिज्ञानम्।अप्राप्तेरिति हेतुः।चैत्रवदिति काकलोचनवदुभयत्र संबध्यते गतिमच्चन्द्रतारकमित्यनेन साधर्म्येण, विन्ध्यश्चाप्राप्तेरित्यनेन वैधर्म्येण संबन्धः। एवं च सत्यन्वयव्यतिरेका(क)दर्शनकृतो न दोषः॥
@@ -2889,8 +2570,6 @@ Answer—That is not so; then there will be the undesirable consequence of ascri
 
 [^385]: "While the reading in the bhâṣya is 'âptena dṛṣṭo'numito vârthaḥ' the Vivaraṇakâra has 'tena dṛṣṭo vâ anumito vârthaḥ'."
 
-
-
 realises the particular meaning. "tadarthaviṣayâ" = from that sentence, used by him, the modification of the mind which has that (intended by the sentence) as its object, is like an inference which mainly comprehends the general character (universal).
 
  Thus, in this way, the word (scriptures ) is that which is understood by the hearer as that which belongs to a trustworthy source and it is not so for the speaker[^386].The speaker is the one who has either seen or inferred the object and that knowledge is either obtained through the senses or through an indicatory mark. For the hearer the certain knowledge is on hearing (the speaker) and is different from that brought about by the sense-organs or through an indicatory mark.
@@ -2916,8 +2595,6 @@ realises the particular meaning. "tadarthaviṣayâ" = from that sentence, used 
  यद्यपि प्रत्यक्षानुमानविषयाभासदर्शनं स्वशब्देन न कृतं, तथाप्यागमाभासोपप्रदर्शनेनैव पूर्वत्रापि यथाभिहितलक्षणविपरीतत्वेन प्रत्यक्षानुमानाभासादि द्रष्टव्यमर्थादुक्तम्॥
 
  By the use of the expression 'one whose word is not trustworthy' the word itself is qualified. How is this person, a speaker not trustworthy ? He says (in answer to that) “na dṛṣṭo’ numito vârthaḥ” i.e., that object has neither been seen nor inferred by (that)
-
-
 
  speaker. For instance,the Buddha or the Arhat by informing things other than what is well-known to trustworthy (learned) people (sista) (come under that category).(Wise) men whose minds are unaffected by such defects as attachment, etc., will not describe anything well-known other than it is.If they do so then their words “sa āgamaḥ plavate" = (will be) are false (though appearing to be similar to truth).
 
@@ -2948,8 +2625,6 @@ realises the particular meaning. "tadarthaviṣayâ" = from that sentence, used 
 ^(2.)Thus the Vivaraṇakāra calls it a case of sabdapramāṇa and nothing more.  
 ³.If the relation of the name and the named were the cause then this should take place. But it does not.
 
-
-
  Objection—Even then, he has not had any previous knowledge of it as 'this may be a gavaya'.
 
  Answer—Your case seems to be like that of a tortured noble man following the left hand sākta cult trapped in a corner unable to understand how to get rid of the argument.**¹**
@@ -2976,8 +2651,6 @@ realises the particular meaning. "tadarthaviṣayâ" = from that sentence, used 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ^(**1**).It is difficult to believe that if the author of the Vivaraṇa is Śankara he would indulge in such a clumsy argument.
-
-
 
 स्वात्मव्यतिरेकेणासतः सादृश्यस्य प्रतीतौ कारणमिति प्राप्तमवस्तुत्वम्।अथ पुनर्घटादिप्रत्ययवद्वस्तुत्वं प्रमाणत्वं च, तदा स्यादिति ॥  
  Objection—But then, there is the idea of similarity and this does not take place without a support.
@@ -3024,8 +2697,6 @@ It[^390] can be compared to one of the individuals.
 
 [^390]: "'The similarity."
 
-
-
  Answer—
 
 That cannot be because it refers to itself. Thus (it will read) ‘like a cow because of cowness'.
@@ -3067,8 +2738,6 @@ That cannot be because it refers to itself. Thus (it will read) ‘like a cow be
 ^(**1.**)'It is not possible to compare different things like a horse and a cow as already mentioned. But then opponent says it is possible by saying both are domesticated animals.  
 **².**"The instance of the cow and the horse and the instance of the trees, and the forest.
 
-
-
 it is like the idea of a forest.
 
  Therefore, when one examines closely (one sees that) it cannot stand close scrutiny; in both cases there are parts available which create the idea of similarity just as the trees create the idea of a forest. Thus it is proved that analogy is not a separate means of true knowledge.
@@ -3094,8 +2763,6 @@ commentator (Vyāsa), he has resorted to repeating some of the well-known means 
 ^(**2**.) If every object determined its own means of knowledge then only one who is omniscient can achieve that which is not the case in the world.
 
 ^(**3**).The three Buddhist refuges i.e, buddham Saranam gacchini, dharmam saranam gacchami and sangham Saranam gacchami
-
-
 
 विपर्ययो मिथ्याज्ञानमतद्रूप प्रतिष्ठम् ॥ ८॥
 
@@ -3123,8 +2790,6 @@ Why is that not true knowledge? Because it is contradicted by a source of true k
 ^(**1**.) Avidya is the root cause for all bindage.  
 ^(**2**.)Even before talking about pratyaksa, anumana, etc., viparyaya should have been discussed according to the purvapksin.
 
-
-
  Answer—Yes, in truth, viparyaya has great importance as it has to be restricted. Still, the actions of a person with reference to restraint depend on the knowledge of what has merit, and what is defective. The knowledge of what has merit and what is defective is itself true knowledge.Without true knowledge, the defects of viparyaya will not be known; nor will restraint and the means to achieve it be known.Therefore the importance given to the modification of true knowledge is indeed proper. One knows the merits and demerits (only) through true knowledge, so after that, there is the description of viparyaya. With reference to the other remaining modifications (of the mind) viparyaya is more important, this is so because the other modifications have that as their basis and it is only by restricting it can the others be restricted.**¹**
 
  विपर्ययो मिथ्याज्ञानमिति पर्यायकथनम्।अतद्रूपप्रतिष्ठमिति लक्षणोक्तिः।तस्य रूपं तद्रूपं न तद्रूपमतद्रूपं, यदाभासं विज्ञानं तस्य विज्ञानस्य च सा प्रतिष्ठा आलम्बनम्।अगृहीतविशेषस्य सामान्यमात्रबुद्धिरुपलब्धपूर्वान्यवस्तुस्मृत्युपसंहिता निश्चयाकारेणोपसंहिता निश्चयाकारेणोपजायमाना विपर्ययः ॥
@@ -3148,8 +2813,6 @@ Why is that not true knowledge? Because it is contradicted by a source of true k
 **4**. There is only one thing but it has some property or properties common to something else and therefore a doubt as to its true identity arises in the mind.
 
 **5**. One must have already seen both a man and a pillar, in order to have this kind of a doubt.
-
-
 
 स्मृतिर्जायते यथानुभूतवस्तुविषया। न.विपर्ययस्तथा।सन्निहितसामान्यमात्रे देशकालादिविशेषानुगते वस्तुनि स्मरणपर्यवसानत्वे सत्यप्ययमिति विशेषरूपेण विपर्ययप्रत्ययो जायते।तस्मादेवं न प्रमाणधर्मो नापि स्मृतिधर्म इति वृत्त्यन्तरत्वम् ॥
 
@@ -3176,10 +2839,6 @@ Why is that not true knowledge? Because it is contradicted by a source of true k
 [^394]: "  Ibid."
 
 the word 'dvicandra' being a dvigu and ending in the letter 'a' should have the ending in the letter 'i'.
-
-
-
-
 
  Answer—This is not a defect as there is the exception to the class of words beginning with ‘pātra[^395]'.By the use of the word, etc., there is reference to a whole class. And the class (of words ) is determined by the usage of the learned; thus 'dvicandra' should be included under the class of 'pātra, etc.'. Its etymological explanation is (as follows), ‘in which vision there are two moons'; thus it is a bahuvrīhi compound. As for the word “ekacandra" the question does not arise at all as it is not a 'dvigu' compound[^396].
 
@@ -3213,15 +2872,15 @@ the word 'dvicandra' being a dvigu and ending in the letter 'a' should have the 
 
  It is not included under true knowledge, (and) it is not included under misapprehension. Though it is devoid of a corresponding object, usage based on the strength of the knowledge of words, is seen. Thus for instance 'consciousness is the true nature of puruṣa'. When consciousness itself is puruṣa then what is denoted by what here? (Which is the qualified and which the qualifier?) And there arises a modifica-
 
-
-
 tion (of the mind) on (hearing) the utterance, just as (on hearing the utterance) 'Caitra's cow'. Similarly 'puruşa is one without action' and 'one in whom (all) attributes of objects are denied'; 'the arrow is at a standstill’, or ‘it will come to a standstill’ or ‘it was at a standstill.' The bare meaning of the verbal root (stha) is 'not to move' (stand-still). (Here also the words convey a meaning which is not there.) Similarly (from) 'puruṣa is one who has the attribute of not coming into existence' the mere absence of the quality of coming into existence of puruṣa is known and not the presence of some quality in purusa. Therefore, this quality is fancied and as such there is (this kind of) usage.
 
  इदानीं विकल्पं दर्शयति—शब्दज्ञानानुपाती वस्तुशून्यो विकल्पः॥शब्दस्य ज्ञानं शब्दज्ञानम्, वाच्यवाचकनियमेन साध्वसाधुशब्दज्ञानं,तदनुपतितुं शीलमस्येति शब्दज्ञानानुपाती।वस्तुशून्य इति॥यथा वाच्यार्थशून्यः,यस्य शब्दस्य ज्ञानमनुपतति तस्य शब्दस्य यथाभूताभिधेयेन शून्य इति यावत्।यथाभूतार्थव्यतिरेकेण हि विकल्पनं विकल्पः ॥
 
- He now mentions 'vikalpa' (mental construction) as 'śabdajñānānupātī vastuśūnyo vikalpah'. The knowledge of the (meaning of) words is knowledge of words i.e, it is the knowledge from words, whether good or bad, which follows as a rule due to the relationship of a word to its [meaning](http://॑# " vācaka being the word and vācya being that which is meant by the word i.e, its meaning.  ").Śabdajñānānupātī is that which has the nature of following verbal knowledge[^400].
+ He now mentions 'vikalpa' (mental construction) as 'śabdajñānānupātī vastuśūnyo vikalpah'. The knowledge of the (meaning of) words is knowledge of words i.e, it is the knowledge from words, whether good or bad, which follows as a rule due to the relationship of a word to its meaning[^1256].Śabdajñānānupātī is that which has the nature of following verbal knowledge[^400].
 
 [^400]: "This is the etymological explanation of sabdajnanupati."
+
+[^1256]: " vācaka being the word and vācya being that which is meant by the word i.e, its meaning.  "
 
 ^(** **)Vastuśūnyah i.e, it is devoid of the object denoted by the meaning of the word i.e., the knowledge from words is devoid of the object denoted by the word itself[^401].Mental construction is the imagining of something different from what actually exists.
 
@@ -3241,8 +2900,6 @@ tion (of the mind) on (hearing) the utterance, just as (on hearing the utterance
 
   Moreover, mental construction is there equally in both the speaker and the hearer.
 
-
-
 In the case of both, when the words are uttered, there arises a mental construction. It is not so in the case of scriptural authority. It is an authority only for the listener. As for the speaker its meaning has been experienced or inferred.  
 
  Moreover, in the case of one who is in the state of super-deliberative samadhi, there is the cessation of mental construction, but not scriptural authority. Therefore it is not included under true knowledge.
@@ -3251,7 +2908,7 @@ In the case of both, when the words are uttered, there arises a mental construct
 
  Objection—In that case, since it is devoid of a corresponding (real) object, it can be included under misapprehension.
 
- Answer—He (Vyāsa) therefore says “na viparyayopārohī i.e., (it is not included under misapprehension); why is that so? Because it follows verbal knowledge. Even when there is no corresponding (real) object, misapprehension does not depend on verbal knowledge.That is why it is said 'viparyayo mithyājñānamatatrūpapratiṣṭ[ham'](http://॑॑॑# " YS, I.8. ").And mental construction goes beyond the ideas (thoughts) which are determined by true knowledge[^403].Mental construction is not like misapprehension which, in the case of everyone, is contradicted due to its being inconsistent (with what is known); mental construction, on the other hand, has the characteristic of thoughts based on right knowledge.
+ Answer—He (Vyāsa) therefore says “na viparyayopārohī i.e., (it is not included under misapprehension); why is that so? Because it follows verbal knowledge. Even when there is no corresponding (real) object, misapprehension does not depend on verbal knowledge.That is why it is said 'viparyayo mithyājñānamatatrūpapratiṣṭ[ham'](॑॑# " YS, I.8. ").And mental construction goes beyond the ideas (thoughts) which are determined by true knowledge[^403].Mental construction is not like misapprehension which, in the case of everyone, is contradicted due to its being inconsistent (with what is known); mental construction, on the other hand, has the characteristic of thoughts based on right knowledge.
 
 [^403]: "Mental construction thus differs from misapprehension. "
 
@@ -3265,9 +2922,9 @@ In the case of both, when the words are uttered, there arises a mental construct
 
 [^404]: "There is no fixed form or nature for this modification as it varies with every individual."
 
+  Answer—(Vyāsa says ) that “though it is devoid of a corresponding object, usage based on the strength of verbal knowledge is seen"[^1257].
 
-
-  Answer—(Vyāsa says ) that “though it is devoid of a corresponding object, usage based on the strength of verbal knowledge is [seen"](http://॑# "VBh., under YS, I.9. The Vivaranakāra has used the reading “śabdajñānamāhātmyamātra . ..").
+[^1257]: "VBh., under YS, I.9. The Vivaranakāra has used the reading “śabdajñānamāhātmyamātra . .."
 
  The word "matra" has been used in order to indicate that there is no cause other than verbal knowledge (in the case of mental construction).
 
@@ -3291,8 +2948,6 @@ In the case of both, when the words are uttered, there arises a mental construct
 
  It cannot be said that by the very fact of denial all the properties of sattva, etc., become related to puruṣa. It only means that these properties which are spoken of as belonging to purușa are simply denied therein. Even then when one says 'He who ha
 
-
-
 spotted cows' there is an idea (of possession); so also there is an idea (formed) when one says 'He in whom all properties of objects are denied.'
 
  निर्गता क्रियाअस्मादित्यत्रापि निर्गतिरपायः।अपायश्च सम्बन्धपूर्वः।यथा चैत्रान्निर्गता क्रिया।न चैवं पुरुषे क्रियाया असम्भवान्निर्गतिः पुरुषात् सम्भवति।तथाऽपि 'निष्क्रियः पुरुष' इति व्यपदेशे भवति वृत्तिः ॥
@@ -3305,15 +2960,15 @@ spotted cows' there is an idea (of possession); so also there is an idea (formed
 
 तिष्ठति बाण इति लोकप्रसिद्धोदाहरणप्रतिपादनमप्रसिद्ध्याशङ्कानिवृत्त्यर्थम्।तिष्ठतीति गतिनिवृत्तिर्गत्यभावः।न चाभावस्य कालत्रययोगो भवति। नापि बाणस्य क्रियानिरपेक्षस्य द्रव्यस्य।नापि चाभावेन गतिनिवृत्त्या बाणस्य वस्तुनः संबन्धः।तिष्ठति बाणः \[स्थास्यति स्थितः \] इत्येवं त्रीण्युदाहरणानि ॥
 
- He gives the well-known worldly examples of 'The arrow stands still' in order to remove the feeling that the examples (so far given) are not commonly known; 'stands still' is cessation of movement, absence of movement. There is no connection of the threefold [time](http://॑# "Past, present and future.")with absence; nor is the arrow which is a thing, independent of action (have connection with time); nor can the arrow which is a thing have connection with the cessation of movement which is an absence. Thus he gives three examples as “tisthati bānah, sthāsyati, sthitaḥ".
+ He gives the well-known worldly examples of 'The arrow stands still' in order to remove the feeling that the examples (so far given) are not commonly known; 'stands still' is cessation of movement, absence of movement. There is no connection of the threefold time[^1258]with absence; nor is the arrow which is a thing, independent of action (have connection with time); nor can the arrow which is a thing have connection with the cessation of movement which is an absence. Thus he gives three examples as “tisthati bānah, sthāsyati, sthitaḥ".
+
+[^1258]: "Past, present and future."
 
  गतिनिवृत्तौ धात्वर्थ इति॥ ननु गतिनिवृत्तिरेव धात्वर्थः, तत्र कथं गतिनिवृत्तावित्याधारः ? अत एवोदाहरणान्तरमेतत्।असति व्यतिरेके आधाराधेयभावस्याभावात्।अस्ति च गतिनिवृत्तौ धात्वर्थ इति व्यपदेशे शब्दसामर्थ्यसमुत्थापिता बुद्धिराधाराधेय \[भाव\]संबन्धावलम्बिनी।तस्मादित्थंजातीयं विकल्पविषयमनेकमुदाहरणं द्रष्टव्यम् ॥९॥
 
  "gatinivrttau dhātvartha" and so on.
 
  Objection—But then the bare meaning of the verbal root (sthā) is 'cessation of movement'; then how is there the usage in the locative case which means a location (a support).
-
-
 
  Answer—That is why this is a different example (given). When there is no difference (between two things) there is no relationship as a supporter and a supported. When there is mention of the meaning of the verbal root as cessation of movement, due to the power of the words, there arises in the mind an idea which has the relationship of a supporter and a supported. Thus this is the nature of mental construction and one can see many examples of this kind.
 
@@ -3327,9 +2982,11 @@ spotted cows' there is an idea (of possession); so also there is an idea (formed
 
  निद्राख्यां वृत्तिमिदानीमाचष्टे—अभावप्रत्ययालम्बना वृत्तिर्निद्रा।जाग्रद्विषयत्वात् प्रागुक्तस्य वृत्तित्रयस्य तदुपमर्देन च निद्रासमुद्भव इति, तदनन्तरं निद्राख्या वृत्तिर्व्याख्यायते॥
 
- He now explains the modification (of the mind) known as sleep— abhāvapratyayālambanā vṛttirnidrā. The earlier mentioned three [modifications](http://॑# "pramāna, viparyaya and vikalpa. ")pertain to the waking state and on their suppression sleep comes into being; thus after (describing them) the modification called sleep is now being explained[^408]**.**
+ He now explains the modification (of the mind) known as sleep— abhāvapratyayālambanā vṛttirnidrā. The earlier mentioned three modifications[^1259]pertain to the waking state and on their suppression sleep comes into being; thus after (describing them) the modification called sleep is now being explained[^408]**.**
 
 [^408]: "He describes the sleep state in the logical order, after the waking state."
+
+[^1259]: "pramāna, viparyaya and vikalpa. "
 
 ** **अभाव इति जाग्रद्विषयाभावः, न त्वत्यन्ताभाव एव।तत्र प्रत्ययानुपपत्तेः।अभावे प्रत्ययः अभावप्रत्ययः।स एव आलम्बनं यस्याः सा वृत्तिरभावप्रत्ययालम्बना।सा निद्रा सुषुप्तावस्था ॥
 
@@ -3339,15 +2996,13 @@ spotted cows' there is an idea (of possession); so also there is an idea (formed
 
 [^410]: "The Vivaraṇakāra has changed the order of the words in the sūtra putting ‘vṛttiḥ' at the beginning."
 
-
-
  ननु च स्वप्नावस्थाऽपि निद्रैव—नैष दोषः–“स्वप्ननिद्राज्ञानालम्बनं वा” इति सूत्रकारेण भेदेनोपदिष्टत्वादिह सुषुप्तावस्थैव निद्राऽभिप्रेता ॥
 
  किंच–अभावप्रत्ययालम्बनत्वाच्च सुषुप्तमेव।न हि स्वप्नस्याभावप्रत्ययालम्बनता, स्मृतित्वात् स्मृतेश्चानुभूतविषयत्वात्।तथा भाष्यकारः – “स्वप्ने भावितस्मर्तव्या” इति स्मृतित्वं दर्शयति ॥
 
   Objection—But then even a dream state is sleep.
 
- Answer—This is no defect. Since the Sūtrakāra has differentiated between the [two](http://॑ "Between sleep where one dreams and the dreamless state of sleep.  ")in the sūtra svapnanidrājñānālambanam [vā](http://॑॑# "YS, I.38. Or br having as its support a perception in sleep(the mind gains stability). ")he desires to mention here only the sleep which is a dreamless state.
+ Answer—This is no defect. Since the Sūtrakāra has differentiated between the [two]("Between sleep where one dreams and the dreamless state of sleep.  ")in the sūtra svapnanidrājñānālambanam [vā](॑# "YS, I.38. Or br having as its support a perception in sleep(the mind gains stability). ")he desires to mention here only the sleep which is a dreamless state.
 
  Moreover it is only the dreamless state that is based on the absence of any knowledge content. The dream state is not based on the absence of any knowledge content but on memory; and memory has something experienced as its object. Thus the commentator indicates what constitutes memory (through the words ) “svapne bhāvitasmartavyā”.[^411]
 
@@ -3369,9 +3024,9 @@ here due to the grammatical rule 'prakāre gunavacanasya[^415]'' the repetition 
 
 [^415]: "Pan, Asta., VIII.I.12"
 
+an adjective indicates same kind of heaviness; "(my mind) is tired and appears to be stolen[^1260]”— as if it has been taken away by some wrestler-- these effects, which are experiences of that idea, cannot be possible. Some are memories, some are effects and some are reflections. These three, given by the commentator, can only be explained on the basis of the special modification of deep sleep.
 
-
-an adjective indicates same kind of heaviness; "(my mind) is tired and appears to be [stolen](http://॑# "VBh., under YS, I.10. ")”— as if it has been taken away by some wrestler-- these effects, which are experiences of that idea, cannot be possible. Some are memories, some are effects and some are reflections. These three, given by the commentator, can only be explained on the basis of the special modification of deep sleep.
+[^1260]: "VBh., under YS, I.10. "
 
   Moreover, when a man sleeping inside the house reflects without any cause from outside, immediately on getting up, that 'I have slept for a long time'—this cannot be explained otherwise.[^416]
 
@@ -3394,8 +3049,6 @@ any connection with the mother's breast has the desire for its connection immedi
 
  तत्र ग्रहणाकारपूर्वा बुद्धिः।ग्राह्याकारपूर्वा स्मृतिः।सा च द्वयी भावितस्मर्तव्या च अभावितस्मर्तव्या च। स्वप्ने भावितस्मर्तव्या।जाग्रत्समये त्वभावितस्मर्तव्येति।सर्वाः स्मृतयः प्रमाणविपर्ययविकल्पनिद्रा -स्मृतीनामनुभवात् प्रभवन्ति।सर्वाश्चैता वृत्तयः सुखदुःखमोहात्मिकाः।सुखदुःखमोहाश्च
 
-
-
 क्लेशेषु व्याख्येयाः—सुखानुशयी रागः, दुःखानुशयी द्वेषः, मोहः पुनरविद्या इति।एताः सर्वा वृत्तयो निरोद्धव्याः।आसां निरोधे सम्प्रज्ञातो वा समाधिर्भवति असम्प्रज्ञातो वा इति ॥११॥
 
  Does the mind remember the (process of) knowledge (of the object) or the object. Knowledge connected with the object (and) shining with the dual form of the object and the (process of) knowledge gives a start to the corresponding subliminal-impression. That subliminal-impression, being awakened by its own sign, gives rise to memory of a dual nature of the object and the (process of) knowledge. With regard to these two, knowledge has the form of the process of knowing as predominant (and) memory has the form of the object as predominant. And that (memory) is of two types: (1) which remembers objects that are imagined (2) which remembers objects that are not imagined. During dreaming, there is memory of objects imagined hereas, during waking there is memory of objects not imagined.
@@ -3413,8 +3066,6 @@ any connection with the mother's breast has the desire for its connection immedi
 [^420]: "Memory of memory is not like that as it has no such qualities as sound, touch, shell and so on, as objects have."
 
  तत्र प्रत्ययस्मरणयोर्विषयाकारावभासाविशेषात्, किङ्कृतस्तयोर्भेद इति तद्विवेकं प्रदर्शयितुकाम आह—किं प्रत्ययस्य चित्तं स्मरतीत्यादि ॥
-
-
 
  यद्यप्यनुभूताननुभूयमानविषयत्वेनं विवेकः, तथापि सादृश्यनिमित्तां भ्रान्तिं तयोः कार्यकारणत्वप्रदर्शनाय निवर्तयति।एतदेव च वैनाशिकानां बहिरर्थानुपपत्तेर्बुद्धिकारणम्।किं प्रत्ययस्य स्मरतीति कर्मण्युभयत्र षष्ठी।चित्तं स्मरतीति पुरुषकर्तृत्वं निवारयति स्मृतिप्रत्यययोरेककर्तृत्वप्रदर्शनार्थम्।न हि पुरुषस्य प्रत्ययकर्तृत्वं स्मृतिकर्तृत्वं वा।दृश्यत्वात् प्रत्ययानाम्।दृश्यानां च स्वात्मातिरिक्तदृश्यत्वं घटादिवदिति वक्ष्यामः ॥
 
@@ -3443,8 +3094,6 @@ form like a pot having the shape of a broad base and in its own shining form of 
 
  स च प्रत्यय उत्पद्य विनिवर्तमानः स्वाश्रये प्रत्ययिनि संस्कारमादधाति।स च संस्कारः कारणानुविधायित्वादुभया(पात)कार एव।स्वव्यञ्जकाञ्जन इति।संस्काराधायिनः प्रत्ययस्य हेतुभूतं यत् कर्म दत्तफलं तत्तुल्यजातीयं यत्कर्मान्तरं फलप्रदानायाभिमुखीभवति तत् स्वव्यञ्जकम्।तथा च वक्ष्यति—'ततस्तद्विपाकानुगुणानामेवाभिव्यक्तिर्वासनानाम्' इति।तत्कर्मप्रत्युपनीतं वा सादृश्यप्रणिधानादि।स्वेन
 
-
-
 व्यञ्जकेनाभिव्यज्यत इति स्वव्यञ्जकाञ्जनः।ग्राह्यग्रहणात्मिकां स्मृतिं जनयति।अन्यथा तद्व्यञ्जकस्य कर्मणो विपाकानुपपत्तिः ॥
 
  And that thought after having come up, while subsiding (disappearing), leaves a latent-impression on its support, the mind.And that latent-impressionfollowing its cause,also has both the forms "svavyañjakāñjanah" = being awakened by its own sign; 'karma' which is the cause of the thought which gives rise to a latent-impression has the result of an action of the same kind which gets ready to give its fruit.
@@ -3468,8 +3117,6 @@ form like a pot having the shape of a broad base and in its own shining form of 
 [^430]: "Cf. YS, IV.9."
 
  सा च द्वयी।कथम् ? भावितस्मर्तव्या भावितं परिनिष्पन्नं असकृद्भावितत्वात्।यथा द्रव्यान्तरेणासकृद्भवितं तैलादि।असकृद्भावितत्वादेव प्रणिधानादिप्रयत्नान्तरं नापेक्षते।भावितं स्मर्तव्यं प्रणिधानादियत्नान्तरा\[न\]पेक्षया यस्याः सा स्वप्ने भावितस्मर्तव्या।जा\[गृ\]ग्रत्समये त्वपेक्षते प्रणिधानादियत्नान्तरमिति तद्विपरीता ॥
-
-
 
 “sā ca dvayī”—how is (memory of two kinds) ? “bhāvitasmartavyā” = something which has come into existence because it has been brought into being continuously. It is like oil which is continuously brought into existence (actualised) from another substance. It is because it is obtained continuously that it is not in need of the effort of constant attention. That which is obtained by memory without the help of any other effort like constant attention, etc., that is the memory obtained in dream. During waking there is the need of other effort like constant attention, etc., therefore it is its opposite.
 
@@ -3497,10 +3144,6 @@ form like a pot having the shape of a broad base and in its own shining form of 
 the world, in the downward direction of ignorance, is flowing towards evil.
 
  In these cases, the flow towards objects is weakened through detachment, (and) by
-
-
-
-
 
 the practice of discriminate-discernment, the flow is directed (opened) towards knowledge; thus the restriction of the modifications of the mind depends on the two.
 
@@ -3533,8 +3176,6 @@ the practice of discriminate-discernment, the flow is directed (opened) towards 
  The restricted state of mind has no modification and flows peacefully; the effort required for attaining that state is 'vīrya' and 'utsāha'. Practice is the following of those means, with the desire to attain that state.
 
  तत्राभ्यासस्वरूपं प्रतिपादयिष्यन्नाह—तत्र स्थितौ यत्नोऽभ्यासः।तत्र तस्मिन्निरोधे।सा च निमित्तसप्तमी।निरोधनिमित्ता चित्तस्य या स्थितिः यत्नस्य फलभूता तस्या निमित्तो\[त्तभूतो\] यो यत्नः सोऽभ्यासः।तथा चाह—
-
-
 
  अवृत्तिकस्य प्रशान्त \[पङ्क\]कर\[ङ्ग\]ञ्जस्येवाम्भसः प्रशान्तवाहिता प्रसन्नरूपत य परिणामो निरुद्धवृत्तिकस्य चित्तस्य।यत्नो वीर्यमभ्युत्साह इति पर्यायाः।स्थितिसंपिपादयिषया यमनियमादियोगसाधनानुष्ठानमभ्यास इति॥१३ ॥
 
@@ -3569,9 +3210,9 @@ the practice of discriminate-discernment, the flow is directed (opened) towards 
 
 [^445]: " 'It is strange that the Vivaraṇakāra uses the word samskārā instead of satkāra here while omitting it earlier. All available texts do not have the word samskāra in the sutra but satkāra meaning devotion (reverence
 
+nation of the word drdhabhumiḥ is connected with a subliminal-impression of action (activity). It means that it is not affected by a subliminal-impression of activity all of a sudden[^1261].
 
-
-nation of the word drdhabhumiḥ is connected with a subliminal-impression of action (activity). It means that it is not affected by a subliminal-impression of activity all of a [sudden](http://॑# "The state of restraint is so fixed in the mind that there is no scope of vyutthāna saṁskāra having any effect over it.").
+[^1261]: "The state of restraint is so fixed in the mind that there is no scope of vyutthāna saṁskāra having any effect over it."
 
 दृष्टानुश्रविकविषयवितृष्णस्य वशीकारसंज्ञा वैराग्यम् ॥१५॥
 
@@ -3589,13 +3230,13 @@ nation of the word drdhabhumiḥ is connected with a subliminal-impression of ac
 
  It is seen and it is an object, that is the meaning of the word 'seen object'. And what is it? With reference to an individual it is women, food, drink and wealth. Though there are endless objects like sound, etc., the attachment to the above is excessive; that is why the possession of women, etc., is mentioned as important objects. There is very strong attachment with reference to them and it has to be got rid of by very strong effort. So also “ānuśravikavisaya" = here it means objects which are heard of from the scriptures. That is the attainment of heaven which is to be experienced (after death), the experience to be got by the attainment of the state of 'prakrtilaya' and that which is to be enjoyed in the state of bodiless state i.e., state of the gods.[^446]
 
-
 [^446]: " prakrtilaya and videhalaya are technical terms discussed in YS, I.19."
-
 
  ननु च वैतृष्ण्यमेव वैराग्यम्, तथा 'रागस्तृष्णा गर्द्धः ' इति हि वक्ष्यति। न—अवस्थाविशेषस्य विवक्षितत्वात्।तथा च यतमानसंज्ञा, व्यतिक्रान्तसंज्ञा, एकेन्द्रियसंज्ञा, वशीकारसंज्ञेति चतसृणामासां सामान्यसंज्ञा वैराग्यमिति।एवं सति दृष्यनुश्रविकविषयवितृष्णस्येत्येतदुक्तं भवति— अधिगतपूर्वावस्थात्रयस्य चतुर्थी या अवस्था सा त्विह वैराग्यमिति विवक्षितम्।तस्मादिह वैतृष्ण्यादन्यवैराग्यमभिप्रेतम् ।
 
- Objection—But then absence of greed is detachment and Vyāsa will mention later that attachment is greed, or thirst ( for [pleasure](http://॑# "VBh., under YS, II.7. ")).
+ Objection—But then absence of greed is detachment and Vyāsa will mention later that attachment is greed, or thirst ( for pleasure[^1262]).
+
+[^1262]: "VBh., under YS, II.7. "
 
 ^(** **)Answer—That is not so; as there is mention of a special state (there[^447]).Thus vairāgya is the common name for the following four states known as yatamāna, vyatikrānta, ekendriya and vašīkāra.
 
@@ -3621,17 +3262,17 @@ When it is so, then the statement of absence of greed towards objects seen and h
 
 3.The effort to break attachment is yatamāna; the thought that non-attachment towards certain objects has been achieved and towards others it has to be achieved is vyatikrānta also called vyatireka by Vijñānabhikṣu, Vācaspati Miśra and others; when the spent out attachment stays only in the mind with some eagerness it is ekendriya; and when even that is destroyed then it is known as vaśīkāra. Thus vairāgya can be applied commonly to all four states though vašīkāra cannot be so used.
 
-
-
  दृष्टानुश्रविकविषयदोषदर्शी विरक्तः पुरुषदर्शनाभ्यासात् तच्छुद्धिप्रविवेकाप्यायितबुद्धिः गुणेभ्यो व्यक्ताव्यक्तधर्मकेभ्यो विरक्त इति।तद्द्वयं वैराग्यम्।तत्र यदुत्तरं तज्ज्ञानप्रसादमात्रम्।यस्योदये सति योगी प्रत्युदितख्यातिरेवं मन्यते—प्राप्तं प्रापणीयं, क्षीणाः क्षेतव्याः क्लेशाःछिन्त्रः श्लिष्टपर्वा भवसङ्क्रमो यस्याविच्छेदाजनित्वा म्रियते मृत्वा च जायत इति।ज्ञानस्यैव परा काष्ठा वैराग्यम्।एतस्यैव हि नान्तरीयकं कैवल्यम् इति ॥ १६ ॥
 
  (There is) one, who is detached on seeing defects in objects (which are ) seen and heard of; (and there is another) one who, by practice of discernment of purusa, has his intellect expanded through the consciousness of the pure puruṣa, (and) becomes detached with regard to the gunas having manifested or unmanifested properties. Thus detachment is twofold. Between them, the latter is only clear knowledge (without any object). On the attainment of this state, the yogī, who has obtained this knowledge, reflects thus—that which was to be attained has been attained, the afflictions which were to be destroyed have been destroyed, the succession of existences which has connected joints has been cut asunder, which, if not cut asunder, involves death after birth and birth after death. The uppermost limit of just this knowledge is the (highest) detachment. For liberation (kaivalya) is inseparably connected with this (detachment).
 
  तच्च द्विविधम्—परं चापरं च विषयनिमित्तभेदेन।अपरं व्याख्यातम्।अधुना परमुच्यते—तत्परं पुरुषख्यातेर्गुणवैतृष्ण्यम्।तदिति वैराग्यं परामृश्यते।परमिति पूर्वोक्तवैराग्यादुत्तरकालभावीति।यदि वा—तस्य विषयनिमित्ताभ्यामुत्कृष्टनिमित्तविषयत्वात्, कैवल्यस्य वा प्रत्यासत्रतरत्वात् परमुत्कृष्टम् ॥
 
- At that detachment is of two kinds—higher and lower, depending on the object. The lower kind has been [explained](http://॑# "In YS, 1.15 the lower vairāgya has been mentioned. ").He now describes the higher as *tatparāmpuruṣakhyāterguṇavaitṛṣṇyam*. The word tat refers to vairāgya. The word *param* means that it comes after the earlier mentioned vairāgya. Or (it is higher) because both its object and its cause is far superior to the object and cause of the other[^450].Or it is far superior because it is closer to (the attainment of) kaivalya.
+ At that detachment is of two kinds—higher and lower, depending on the object. The lower kind has been explained[^1263].He now describes the higher as *tatparāmpuruṣakhyāterguṇavaitṛṣṇyam*. The word tat refers to vairāgya. The word *param* means that it comes after the earlier mentioned vairāgya. Or (it is higher) because both its object and its cause is far superior to the object and cause of the other[^450].Or it is far superior because it is closer to (the attainment of) kaivalya.
 
 [^450]: "The object in 'apara' is lower and its cause is also absence of greed for the lower objects. "
+
+[^1263]: "In YS, 1.15 the lower vairāgya has been mentioned. "
 
  किं निमित्तमस्येत्या—पुरुषख्यातेर्निमित्तात्।किंविषयमित्याह—गुणवैतृष्ण्यमिति।गुणेषु सत्त्वादिषु वैतृष्ण्यम्।दृष्टानुश्रविकविषयदोषदर्शीति। पूर्ववैराग्यनिमित्तविषयपरामर्शनमस्य विषयनिमित्तभेदविवेकार्थम्।पुरुषदर्शनाभ्यासात् निमित्तात्।तच्छुद्धिप्रविवेकाप्यायितबुद्धिः।तदिति पुरुषदर्शनं परामृश्यते तस्य शुद्धिः तच्छुद्धिः निर्णिक्तक्लेशादिमलत्वम्।अथवा तस्य पुरुषस्य शुद्धिस्तच्छुद्धिः।तच्छुद्धेस्तदालम्बनदर्शनं प्रविविच्यते।तत्प्रविवेकेनाप्यायिता बुद्धिरस्य योगिनः ॥
 
@@ -3639,9 +3280,9 @@ When it is so, then the statement of absence of greed towards objects seen and h
 
 [^451]: "sattva, rajas and tamas. The difference between the objects in the previous vairāgya and this one is brought out clearly here. One is at the gross level whereas here it is at the subtle level."
 
+the insight of purușa); "tacchuddhipravivekāpyāyitabuddhiḥ"; the word "tad" describes the insight of puruṣa; its purity is "tacchuddhiḥ" i.e., free from the taints of afflictions and so on. Or it can be explained as the purity of purușa[^1264]which distinguishes the insight when it (purușa) is the support (of meditation). The mind of the yogi is expanded by this clear insight.
 
-
-the insight of purușa); "tacchuddhipravivekāpyāyitabuddhiḥ"; the word "tad" describes the insight of puruṣa; its purity is "tacchuddhiḥ" i.e., free from the taints of afflictions and so on. Or it can be explained as the purity of [purușa](http://॑# "In the first explanation it stands for the insight of puruṣa whereas in the second it stands for purușa itself.")which distinguishes the insight when it (purușa) is the support (of meditation). The mind of the yogi is expanded by this clear insight.
+[^1264]: "In the first explanation it stands for the insight of puruṣa whereas in the second it stands for purușa itself."
 
  गुणेभ्य इति विषयप्रतिपादनम्।पूर्वस्तु दृष्टानुश्रविकविषयेभ्यो(ऽपि) विरक्तः।एष तत्कारणेभ्यो गुणेभ्य एव।व्यक्ताव्यक्तधर्मकेभ्यः महदादिसंस्थिता व्यक्तधर्मकाः।प्रधानावस्थिता अव्यक्तधर्मकाः।तेभ्यो विरक्त इति।तत् द्वयं वैराग्यं पूर्वमिदं च।तत्र यदुत्तरं पुरुषदर्शननिमित्तं गुणविषयं तज्ज्ञानप्रसादमात्रम्।पुरुषदर्शनस्यैव परः प्रविवेक इति यावत् ॥
 
@@ -3663,15 +3304,15 @@ the insight of purușa); "tacchuddhipravivekāpyāyitabuddhiḥ"; the word "tad"
 
 [^455]: "$Cf. YS, II.8."
 
-
-
  ननु चैवं बुद्धेरष्टगुणत्वं बाध्येत।षड्गुणत्वं हि ध्यानावस्थाभेदाभ्युपगमात्।ज्ञानत्वेऽपि वैराग्यस्य प्रसन्नतरत्वाभ्युपगमः।रागोऽप्यज्ञानस्यावस्थान्तरविशेषः॥
 
  ननु चैवं सति ज्ञानाज्ञानयोरनेकावस्थाभेदादष्टगुणत्वं पुनरति न प्राप्नोति।नैष दौषः।फलवत्त्वप्रत्यनीकत्वनियमात्।ज्ञानावस्थाचतुष्टयस्य फलवत्त्वेन भेदनियमः।तथा अज्ञानावस्थाचतुष्टयप्रत्यनीकत्वेनाधर्मादिचतुष्टयनियम इत्यष्टगुणत्वसिद्धिः।धर्मादिप्रतिद्वन्द्विन एव हि गुणत्वेन नियभ्यन्ते, नाज्ञानभेदाः सर्व एव॥१६॥
 
- Objection—But then, if that is so, the eightfold division of the qualities of the [intellect](http://॑# "Jñāna and ajñāna, vairāgya and avairāgya (rāga), dharma and adharma, aiśvarya and anaiśvarya. ")will be contradicted as only six states based on meditation will be proper[^456].
+ Objection—But then, if that is so, the eightfold division of the qualities of the intellect[^1265], dharma and adharma, aiśvarya and anaiśvarya. ")will be contradicted as only six states based on meditation will be proper[^456].
 
 [^456]: "The six would be based on vitarka, vicāra, asmitā, and ānanda, the first two having two states each. Cf. YS, I.17. Or if jñana becomes vairāgya and rāga becomes ajñāna then only six of the qualities would be left out of the qualities referred, supra, n. 1."
+
+[^1265]: "Jñāna and ajñāna, vairāgya and avairāgya (rāga
 
 Answer—Even in knowledge, detachment is of a greater clarity of vision; and attachment is a special state of ignorance[^457].
 
@@ -3698,8 +3339,6 @@ Answer—Even in knowledge, detachment is of a greater clarity of vision; and at
  तत्र प्रथमः चतुष्टयानुगतः समाधिः सवितर्कः।द्वितीयो वितर्कविकलः सविचारः।तृतीयो विचारविकलः सानन्दः।चतुर्थः तद्विकलोऽस्मितामात्र इति।सर्व एते सालम्बनाः समाधयः॥१७॥
 
  With regard to its support the mind's direct perception of the essence of the gross object (is samprajñāta accompanied by deliberation). (Samprajñāta accompanied by) reflection is (the direct perception of the essence of) the subtle object; (samprajñāta
-
-
 
 accompanied by) bliss is happiness; (samprajñāta accompanied by) feeling of I-ness is the knowledge of the essence of mere 'I'.
 
@@ -3734,9 +3373,9 @@ accompanied by) bliss is happiness; (samprajñāta accompanied by) feeling of I-
 
 [^468]: "Cf. YS, I.2."
 
+detachment) what is the nature of the ensuing samprajñāta-samādhi[^1266]''i.e., what is its description.
 
-
-detachment) what is the nature of the ensuing samprajñāta-[samādhi](http://॑# "Introduction to sutra 17. ")''i.e., what is its description.
+[^1266]: "Introduction to sutra 17. "
 
  वितर्कविचारानन्दास्मितारूपानुगमात् सम्प्रज्ञातः।अनुगमशब्दः प्रत्येकं संबन्धनीयः।वितर्कानुगमाद्विचारानुगमादानन्दानुगमादस्मितारूपानुगमादिति।रूपशब्दो मात्रार्थो वितर्कादिपूर्वधर्मत्रयवर्जितत्वख्यापनार्थः ॥
 
@@ -3744,9 +3383,9 @@ detachment) what is the nature of the ensuing samprajñāta-[samādhi](http://�
 
 [^469]: "  Each of the words vitarka, vicara, ananda, and asmita is connected with anugama.  "
 
-^(** **)वितर्कश्चित्तस्यालम्बने स्थूल आभोगः।स्थूल(पि) मिश्रीभावः प्रथममालम्बनाकारेण परिणममानस्य चित्तस्य य आलम्बनव्यतिकरः स वितर्कः ॥ सूक्ष्मो विचारः आभोगः सूक्ष्म इति संबन्धः।आनन्दो ह्लादः विचारः सूक्ष्मतर आभोगस्तृतीयः।सानन्दता विशेषः।एकरूपात्मिका संविदस्मिता स्वस्यां प्रकृतावस्मितायां समापत्रस्य अस्मिता प्रत्ययमात्रता एकरूपात्मकत्वम्।तथा चोदाहरिष्यति—तमणुमात्मानमन्ववैत्यास्मीत्येतावत्संजानीत इति ॥
-
 [^470]: "Thus rupa according to the Vivarnakara is connected only with asmita and not with the other three Misra has a different explanation for the usage of the word rupa, while Bhiksu thinks that the word rupa should be discarded as it is a mistake. "
+
+^(** **)वितर्कश्चित्तस्यालम्बने स्थूल आभोगः।स्थूल(पि) मिश्रीभावः प्रथममालम्बनाकारेण परिणममानस्य चित्तस्य य आलम्बनव्यतिकरः स वितर्कः ॥ सूक्ष्मो विचारः आभोगः सूक्ष्म इति संबन्धः।आनन्दो ह्लादः विचारः सूक्ष्मतर आभोगस्तृतीयः।सानन्दता विशेषः।एकरूपात्मिका संविदस्मिता स्वस्यां प्रकृतावस्मितायां समापत्रस्य अस्मिता प्रत्ययमात्रता एकरूपात्मकत्वम्।तथा चोदाहरिष्यति—तमणुमात्मानमन्ववैत्यास्मीत्येतावत्संजानीत इति ॥
 
  "vitarkaścittasyālambane sthūla abhogaḥ" = the mind which is transformed into the form of its object which is gross and somewhat mixed in the first stage, which is not different from the object of support, is that accompanied by deliberation (verbal association). "sūksmo vicārah" —the connection is that the transformation (direct perception) is (here) subtle[^471]."ānando hlādah" = that reflection and transformation which is more subtle is the third. It is characterised by bliss. "ekarūpātmikā samvidasmitā”= this is the stage when the mind is one with its own nature, the sense-of -I, which has the idea of only the 'I-sense' i.e., of being a mere self-hood. He will later give the example[^472]— 'Pondering on that ātman which is a mere atom (the yogī) realises himself in the form I-am'.[^473]
 
@@ -3754,15 +3393,13 @@ detachment) what is the nature of the ensuing samprajñāta-[samādhi](http://�
 
 [^472]: "Cf. VBh., under YS, 1.36. "
 
-^(** **)ननु चास्मितां क्लेशेषु पठिष्यति 'दृग्दर्शनशक्त्योरेकात्मतेवास्मिता' इति।तत्कथमिवास्मितारूपेण क्लशेन समाधिरनुगम्यत इति।सत्यमेवं—प्रकृष्टस्वकारणाकारावभासकत्वादन्यविषयविनिवृत्तात्मक त्वाच्चास्मितायाः समाधिरूपत्वेऽप्यदोषः ॥
-
 [^473]: "The Vivaraṇakāra has a different reading. The reading in VBh. is 'tamaṇumātramātmānamanuvidyāsmītyeva --m tāvatsamprajānīte'. "
+
+^(** **)ननु चास्मितां क्लेशेषु पठिष्यति 'दृग्दर्शनशक्त्योरेकात्मतेवास्मिता' इति।तत्कथमिवास्मितारूपेण क्लशेन समाधिरनुगम्यत इति।सत्यमेवं—प्रकृष्टस्वकारणाकारावभासकत्वादन्यविषयविनिवृत्तात्मक त्वाच्चास्मितायाः समाधिरूपत्वेऽप्यदोषः ॥
 
  Objection—But then, asmitā (sense-of-I) will be mentioned under the afflictions as 'Asmita is the feeling of identity between the power of seeing and the power by which one sees[^474]'.^()So how can samadhi be connected with an affliction in the form of the 'sense-of-I'.
 
 [^474]: "YS, II.6."
-
-
 
  Answer—That is true. But in that state there is (1) the appearance of the form of one's own superior cause (2) there is the disappearance of all other objects (3) there is the feeling of self-hood-therefore, there is no defect in accepting it as a form ofsamādhi.
 
@@ -3792,8 +3429,6 @@ detachment) what is the nature of the ensuing samprajñāta-[samādhi](http://�
  अस्मितामात्रग्रहणान्निरालम्बनतामेषां समाधीनां मा कश्चिदाशङ्किष्टेत्याहसर्व एते सालम्बना इति।यः पुनर्मन्यते निर्विकल्पत्वमस्मितेति – तदसत्।अस्मिताशब्दस्याहङ्कारे प्रसिद्धत्वात् ॥ तथा चाह—अस्मिभावोऽस्मिता ॥१७॥
 
  By the usage of 'mere sense-of-I' one should not have the doubt that these samadhis are without support (or one of the samādhis is without support) — therefore he (Vyāsa) says "sarva ete sālambanāḥ". One might again think that asmitā is devoid of thought but that is not true because the meaning of the word asmitā is well-known as 'ego'.Thus it is said (that) the idea of being (I am) is the sense-of-I.
-
-
 
 tion of modifications and by having only the subliminal-impressions as residue. Which is that which is qualified by these two ? He says (it is) anya (the other).
 
@@ -3825,8 +3460,6 @@ tion of modifications and by having only the subliminal-impressions as residue. 
 
  Answer—Because he was dealing with detachment there. The later detachmentwas mentioned in that context, as being later, as it was distinct from the earlier
 
-
-
 detachment. The earlier detachment is used having samprajñāta samadhi as its object; therefore the later detachment which remains as a means and has another as its object can have its connection only with the seedless-samādhi; therefore there is no mention of (superior) detachment in the sūtra. That which is implied is indicated by the commentator (Vyāsa).
 
  'अभ्यासवैराग्याभ्यां तन्निरोध' इति हि प्रतिपादितम्।सालम्बनो ह्यभ्यासो विरुद्धत्वान्निरालम्बनस्य समाधेः साधनत्वाय न कल्पत इति निर्वस्तुकोऽपि विरामप्रत्ययो निरालम्बनसमाध्यनुरूपत्वादालम्बनी क्रियते।तस्मात्तदभ्यासवैराग्योपायपूर्वकं चित्तं निरालम्बनमभावप्राप्तमिव भवति।स एष निर्बीज़ः संस्कारशेषस्वभावः समाधिरसम्प्रज्ञात इति ॥१८॥
@@ -3851,8 +3484,6 @@ detachment. The earlier detachment is used having samprajñāta samadhi as its o
 
  स खल्वयं द्विविधः।सः निर्बीजः समाधिः उपायप्रत्ययो भवप्रत्ययश्च।उपायेन प्रतीयते प्राप्यत इत्युपायप्रत्ययो योगिनां भवति।यद्यपि विदेहा अपि योगिन एव।तथापि यमादियोगसाधनानुष्ठायि -नोऽभिप्रेताः।तेषां श्रद्धावीर्याद्युपायलभ्यः समाधिः ॥
 
-
-
  “sa khalvayam dvividhah”[^484] = This seedless samādhi is (of two kinds called) “upāyapratyaya” and “bhavapratyayaśca”[^485]. That which is obtained by some means is “upāyapratyaya” and it belongs to yogīs. Even though those without bodies (videhas, gods) are also yogis still, the reference here is to those who follow the means to yoga like yama, etc. Their[^486] samādhi is obtained through the means of Śraddhā, virya and so on.[^487]
 
 [^484]: "'The introduction to YS, I. 19."
@@ -3861,9 +3492,9 @@ detachment. The earlier detachment is used having samprajñāta samadhi as its o
 
 [^486]: " The samadhi of the yogis."
 
- विदेहप्रकृतिलयानां तु जन्मनैव लभ्यः।ते हि तनुतरप्रतिबन्धावशेषाः।स तु प्रतिबन्धावशेषस्तेषां सकृदासादितपुनर्जन्मनां समाधिव्याघाताय न पर्याप्नोति।स तु जन्मप्रतिलम्भमात्रनिमित्तम्। (त्वात्)-ज्ञानवैराग्याद्यनुष्ठानकार्यत्वाद्विदेहप्रकृतिलयत्वस्य तदनुष्ठानस्तुत्यर्थं सूत्रम्।इदृशं हि तदनुष्ठानमाहात्म्यम्।यदुत सामर्थ्यादिवैकल्पादभीप्सितफलानवाप्तावपि महनीयतरं विदेहप्रकृतिलयत्वं प्राप्यते ॥
-
 [^487]: " Cf. YS, I.20."
+
+ विदेहप्रकृतिलयानां तु जन्मनैव लभ्यः।ते हि तनुतरप्रतिबन्धावशेषाः।स तु प्रतिबन्धावशेषस्तेषां सकृदासादितपुनर्जन्मनां समाधिव्याघाताय न पर्याप्नोति।स तु जन्मप्रतिलम्भमात्रनिमित्तम्। (त्वात्)-ज्ञानवैराग्याद्यनुष्ठानकार्यत्वाद्विदेहप्रकृतिलयत्वस्य तदनुष्ठानस्तुत्यर्थं सूत्रम्।इदृशं हि तदनुष्ठानमाहात्म्यम्।यदुत सामर्थ्यादिवैकल्पादभीप्सितफलानवाप्तावपि महनीयतरं विदेहप्रकृतिलयत्वं प्राप्यते ॥
 
  videhaprakrtilayānām – (seedless-samādhi) belongs to the videhalayas, and prakrtilayas, by birth itself. They have very little obstructions left. And that left-over obstruction is not capable of destroying the samadhi of those whose next birth has been brought into being at once[^488]; it is only the cause for obtaining the (next) birth. Since the state of videhalaya and prakṛtilaya are the effects of the practice of discriminate-discernment and detachment, the sūtra[^489]is in praise of their practice, i.e.,this is the importance of their practice. It also means that if there is some imperfec -tion in the practice then even if the desired result[^490]is not attained, the great states of videhalaya and prakṛtilaya are obtained.
 
@@ -3877,8 +3508,6 @@ detachment. The earlier detachment is used having samprajñāta samadhi as its o
 
  प्रकृतिलयाः–साधिकारे अपर्यवसिता (धि) कारे।यावद्धि न कृता गुणपुरुषान्तरख्यातिः, तावदपरिसमाप्ताधिकारमेव चित्तं तस्मिन् प्रकृतिलयापन्ने कैवल्यमिवानुभवन्तीति।पूर्ववत्।यावन्न पुनरावर्ततेऽधिकारवशात् विद्याकर्तव्यतावशात् तावदनुभवन्ति कैवल्यमिव ॥ १९ ॥  
  Videha are the gods who have no bodies; i.e., connection with the body's eight elements. "te svasamskāramātropabhogena cittena kaivalyamihānubhavantah" =through the mind which has only the subliminal-impressions as residue strengthened due to detachment and constant practice, and experiencing only the samskāras (they enjoy, as it were, the state of liberation ). By the dropping off of the sattva-guna, “svasamskāravipākam tathājātīyakam" (ativāhayanti) = when their subliminal-impressions have fructified, they cast it away.“prakrtilayāh" = they have some work left to be fulfilled. Till such time as the knowledge of the difference between the guṇas and puruṣa has not arisen, the mind
-
-
 
 has not fulfilled its task and when in that state it gets absorbed in prakṛti, it enjoys the state of liberation, as it were, as in the case of the videhas. "yāvanna punarāvartate'-dhikāravaśāt" = due to the necessity of acquiring knowledge (of the difference between prakrti and purusa) they experience liberation, as it were, (till knowledge dawns).
 
@@ -3905,8 +3534,6 @@ has not fulfilled its task and when in that state it gets absorbed in prakṛti,
 [^493]: "³From bad thoughts, bad words and bad action. Faith is capable of protecting the yogi from this."
 
 [^494]: "'Miśra and Bhiksu connect each of the words śraddhā, vīrya, smrti, samādhi, and prajñā to the eight means of yoga. The Vivaraṇakāra just leaves them as they are. It thus appears to be following a local tradition."
-
-
 
 be connected everywhere.[^495]
 
@@ -3940,8 +3567,6 @@ be connected everywhere.[^495]
 
  तत्राधिमात्रेपायानां तीव्रसंवेगानामासत्रः समाधिलाभः समाधिफलं च॥२१॥
 
-
-
  Those yogis who follow the means of śraddhā, etc., are of nine kinds. That is mentioned as "tadyathā mṛdūpāyo madhyopāyo' dhimatropāya iti". And each of the above[^498]' is (further) divided into three kinds = "tatra mrdūpāya” and so on. This division is with reference to the practice of the means as that whose progress is slow,average or great. And the same division applies in the other cases as well;³[^499] and it is not hidden[^500].
 
 [^498]: "mrdu, madhya and tīvra. This is mentioned in the introduction to sūtra I.21."
@@ -3968,8 +3593,6 @@ be connected everywhere.[^495]
 
 [^502]: "The highest or the best is the yogi who is the follower of extreme means with extreme-keen-intensity."
 
-
-
  The purpose of this sūtra is to indicate how yogis can become greatly enthused towards the following of the various means to yoga[^503].' Similarly in the world, the one who runs the fastest towards the goal, gets the prize. Alternatively even those yogis who are progressing at a very slow rate can be enthused by lifting them up from their depression, by indicating that the desired goal is attainable. Otherwise, because of the anxiety which arises due to fatigue from extreme effort (the yogīs) may lose heart[^504].
 
 [^503]: "'In Nyāya it is said that without knowing the result of an acti even a fool will not act. Thus, by indicating the various means and the end, the yogis can be greatly encou -raged to continue the practice of yoga."
@@ -3995,8 +3618,6 @@ be connected everywhere.[^495]
  "kimetasmādevāsannataro bhavati? atha (tasya) asya lābhe . . . veti[^505] samādhi nearest only by this means ? Or is there any other means for its attainment or not? The Vivaranakāra has two readings ")".He mentions that there is another means ( to it ) ( through the sūtra ) īśvarapranidhānādvā. He will explain the meaning of the word Ïśvara [later](#);he explains the word praṇidhāna i.e., it is a special kind of devotion, "bhaktiviśesādāvarjita" (and) it makes īśvara face him and bless him, “tam” the yogī, who is a great bhakta, i.e., who is completely devoted to him “abhidhyānamātrena" = ( merely because of his deep desire for samādhi ).As he is the supreme Iśvara he blesses him (the yogi) without any effort and without any
 
 [^505]: "The introduction to YS, I.23. Is (the attainment of
-
-
 
 mental resolve[^506]. And by his blessing also "pratyāsannataraḥ samādhilābhaḥ phala -m ca iti[^507]2 = (there is the attainment of samādhi and its result also).
 
@@ -4030,13 +3651,9 @@ mental resolve[^506]. And by his blessing also "pratyāsannataraḥ samādhilāb
 
  It might be asked-has this eternal excellence of īśvara, which is due to assuming
 
-
-
 Samādhipādaḥ pure ‘sattva' any proof or is it without proof? The proof of that is the sacred texts. But it might again be asked — what proof have the sacred texts? (The reply is —) the proof of pure 'sattva' ( pure sattva is their proof).
 
  Between these two, the sacred texts and the excellence, there is a beginningless relationship because they reside in the pure 'sattva' of Isvara. From this it is true that He is at all times īśvara and at all times liberated.
-
- 
 
 तच्च तस्यैश्वर्यं साम्यातिशयविनिर्मुक्तम्।न तावदैश्वर्यान्तरेण तदतिशय्यते।यदेवातिशायि स्यात्तदेव तत्स्यात्।तस्माद्यत्र काष्ठाप्राप्तिरैश्वर्यस्य स ईश्वर इति।न च तत्समानमैश्वर्यमस्ति।कस्मात् ? द्वयोस्तुल्ययोरेकस्मिन् युगपत् कामितेऽर्थे नवमिदमस्तु पुराणमिदमस्तु इत्येकस्य सिद्धौ इतरस्य प्राकाम्यविघातादूनत्वं प्रसक्तम्।द्वयोश्च तुल्ययोर्युगपत् कामितार्थप्राप्तिर्नास्ति।अर्थस्य विरुद्धत्वात्।तस्मात् यस्य साम्यातिशयैर्विनिर्मुक्तमैश्वर्यं स एवेश्वरः।स च पुरुषविशेष इति ॥२४॥
 
@@ -4053,9 +3670,6 @@ Samādhipādaḥ pure ‘sattva' any proof or is it without proof? The proof of 
  kleśa are the afflictions, avidyā, etc. They are called afflictions because they cause afflictions. “kuśalākuśalāni karmāni" = the actions which are done earlier are good and bad (evil). The word 'ca' stands for the one that remains[^509] and akuśala (bad deeds) we have kuśalākuśalāni which stand for both good and bad deeds. The whole word stands for a mixture of good and bad deeds. The fourth category of being neither good nor bad does not apply here. The word 'ca' is however not there in the available bhāṣya text."),i.e., "kuśalākuśalāni”  
 
 [^509]: " In the deeds after kuśala (good deeds
-
-
-
 
  a mixture of both good and bad deeds. "tatphalam vipākah" = ( the result is) birth, span of life and nature of experience[^510]. These afflictions (and actions and fruition of action) stay till such time as liberation takes place[^511];therefore they-afflictions, actions and their results are called the deposits. Or the deposits of afflictions, actions and results are the collection of the afflictions.
 
@@ -4076,8 +3690,6 @@ Samādhipādaḥ pure ‘sattva' any proof or is it without proof? The proof of 
 [^513]: " They had this relationship with afflictions in the past and then they got rid of it. So they differ from İśvara."
 
  ते हि त्रीणि बन्धनानि प्राकृतवैकृतदाक्षिणानि सम्यग्दर्शनेन हित्वा कैवल्यं प्राप्ताः।ईश्वरस्य तु तत्संबन्धः क्लेशादिसंबन्धो न भूतो यथा मुक्तस्य वा बन्धकोटिर्मुक्तत्वोपपत्तेरेव ज्ञायते।बन्धपूर्विका हि मुक्तिः।नापि भावी।यथा प्रकृतिलीनस्य।तस्य ह्यनारब्धसंसारस्य उत्तरा बन्धकोटिः सम्भाव्यते।प्रवृत्तसंसारस्य चाप्रकृतिलीनचित्तस्य सा(समा)धिकारत्वात् पूर्वोत्तरबन्धकोटी संभवतः।तदिदं सर्वमत्रापरामृष्ट इति कालाविवक्षाप्रदर्शनार्थम्।स तु सदैव मुक्तः सदैवेश्वरः ॥
-
-
 
  The three bondages are prākṛtika, vaikārika and [dākṣinādi'](#) and they (the liberated souls after breaking them) through right knowledge, have attained liberation. But in the case of īśvara the connection with the afflictions was “na bhūto . . . . jñāyate[^514]”never there in the past as in the case of the liberated soul, whose bondage is understood by the very term of being liberated. Liberation is indeed preceded by bondage[^515].Nor (will Ïśvara) have (connection with afflictions) in the future as in the case of one absorbed in prakṛti.[^516] In his case the future bondage of samsāra which has not come into operation will come into being. In one who is involved in the world and whose mind is not absorbed in prakṛti there is the potency to give rise to effects[^517] and so it has both the earlier and later bondages. All this is mentioned in this context in order to indicate that 'untouched' has no reference to time whatsoever. He is at all times liberated, he is at all times Ïśvara.
 
@@ -4102,8 +3714,6 @@ Samādhipādaḥ pure ‘sattva' any proof or is it without proof? The proof of 
  अत्रोच्यते—न निष्कारणः शास्त्रनिमित्तत्वात्।शास्त्रं ज्ञानम्।शास्त्रस्य हेतुत्वात्।यतः सर्वविषयं ज्ञानं नित्यं द्रव्यस्वभावसाध्यसाधनव्यवहितविप्रकृष्टास्पदम्।
 
 In order to clearly state the conclusion he begins the statement with the question-
-
-
 
 eternal excellence of īśvara which is due to assuming pure sattva) any cause or is it without any cause? What is the purpose of this question?
 
@@ -4130,9 +3740,6 @@ eternal excellence of īśvara which is due to assuming pure sattva) any cause o
  अन्येषां व्याख्यानम् – निमित्तशब्दः प्रमाणवाची।तस्य शास्त्रं निमित्तं प्रमाणम्,तेन हि तदुत्कर्षः प्रमीयते।शास्त्रं पुनः किंप्रमाणकम् ?ईश्वरनिर्मलसत्त्वप्रमाणम्।विशुद्धसत्त्वप्रणीतत्वाद्धि शास्त्रस्य प्रामाण्यम्,यथा मन्वादीनाम्।तथा च श्रुतिः– 'यकिंचिन्मनुरभ्यवदत्तद्भेषजम्' इति।यथा च लोके गुरुणाऽभिहितमिति ॥
 
 [^521]: "Excellence and scriptural knowledge are related as effect and cause."
-
-
-
 
 Others[^522]explain the word "nimitta" to mean proof i.e., the proof of that (excellence) is the scripture and it is through that, that his excellence is inferred. But it can again be asked ‘what proof has the scripture ? The proof is the pure-sattva of īśvara. The authority of the scripture is because it was composed out of the pure-sattva as in the case of Manu and others. Thus there is the following scriptural statement 'whatever is said by Manu is medicine' ( a cure )[^523].
 
@@ -4166,9 +3773,6 @@ Others[^522]explain the word "nimitta" to mean proof i.e., the proof of that (ex
 
  Answer—As the authority of Iśvara is established through inference there is no such defect.
 
-
-
-
 "etasmādetadbhavati"[^527] (From this it is true that He is at all times īśvara and at all times liberated).
 
 [^527]: "Thus it is proved that īśvara is always free, etc. VBh., under this sūtra."
@@ -4187,9 +3791,9 @@ Others[^522]explain the word "nimitta" to mean proof i.e., the proof of that (ex
 
 [^529]: "He now discusses the next question of somebody equalling Ïśvara's power."
 
- ने ह्येकस्मिन् राज्ये द्वयोः संभवो राज्ञोः । एकस्य वा द्वे राज्ये । तथा प्रतिपादयति— तद्द्वयोस्तुल्यत्वं प्रसक्तम्। न ह्येकस्यान्यतरत्र प्राकाम्यमबाधित्वा अन्यतरस्मिन् प्रवृत्तिरुपपद्यते । द्वयोश्च युगपदेकार्थयोरेकस्य प्राकाम्येण प्रवृत्तिरेव नास्ति। प्रकामिते वस्तुनि समानप्रकर्षस्यार्थस्य विरुद्धत्वात्। येन चं समानप्रकर्षता तस्य तेनैव स बाध्यते। (ते च) तच्च न वाचा बाधनमितरस्य रूपातिशया आवृत्त्यतिरायाश्च विरुध्यन्ते । सामान्यानि त्वतिशयैः सह वर्तन्त इति वक्ष्यामः॥
-
 [^530]: "  Perfection cannot be equalled-there can be only one entity which can be perfect."
+
+ ने ह्येकस्मिन् राज्ये द्वयोः संभवो राज्ञोः । एकस्य वा द्वे राज्ये । तथा प्रतिपादयति— तद्द्वयोस्तुल्यत्वं प्रसक्तम्। न ह्येकस्यान्यतरत्र प्राकाम्यमबाधित्वा अन्यतरस्मिन् प्रवृत्तिरुपपद्यते । द्वयोश्च युगपदेकार्थयोरेकस्य प्राकाम्येण प्रवृत्तिरेव नास्ति। प्रकामिते वस्तुनि समानप्रकर्षस्यार्थस्य विरुद्धत्वात्। येन चं समानप्रकर्षता तस्य तेनैव स बाध्यते। (ते च) तच्च न वाचा बाधनमितरस्य रूपातिशया आवृत्त्यतिरायाश्च विरुध्यन्ते । सामान्यानि त्वतिशयैः सह वर्तन्त इति वक्ष्यामः॥
 
  तस्माद्यस्य साम्यातिशयविप्रोषितमैश्वर्यं स ईश्वर इति प्रधानपुरुषव्यतिरिक्तः पुरुषविशेष ईश्वरः सिद्धः ॥२४॥
 
@@ -4197,13 +3801,13 @@ Others[^522]explain the word "nimitta" to mean proof i.e., the proof of that (ex
 
 [^531]: " The one whose desire is not fulfilled becomes inferior. And logically there cannot be two perfect purusas."
 
+[^532]: "Thus there cannot be two equals."
+
 [][^532] This opposition is not through words; the opposition is between superiority in form and an inward superiority-we are saying that equals exist along with their (relative) superiorities[^534]. Thus he whose power is both unequalled and unsurpassed he is īśvara who is different from both pradhāna and puruṣa-thus īśvara is established.
 
 [^532]: "Thus there cannot be two equals."
 
 [^534]: " The point is thus being made that there cannot be two equals logically."
-
-
 
 **तत्र निरतिशयं सर्वज्ञबीजम् ॥२५॥**
 
@@ -4235,8 +3839,6 @@ Others[^522]explain the word "nimitta" to mean proof i.e., the proof of that (ex
 
 [^538]: "An object known in all the three states simultaneously."
 
-
-
 beyond the range of the senses it is mentioned as "atīndriyagrahaṇam."
 
  ' तच्चातीन्द्रियग्रहणं त्रिविधम्-सूक्ष्मविषयं व्यवहितविषयं विप्रकृष्टविषयञ्च।अल्पं बह्विति। यथाप्रसिद्ध -मेतद्विवर्धमानं सातिशयत्वेन सर्वज्ञबीजं यथा धूमविज्ञानमग्निविज्ञानस्य।कथम् ? यत्र प्रकर्षकाष्ठां प्रतिपद्यते। ज्ञानस्य ज्ञात्राश्रयत्वात् यत्रेति ज्ञातोच्यते - यस्मिन् ज्ञातरीति।स सर्वज्ञः सिद्धः ॥
@@ -4261,17 +3863,15 @@ beyond the range of the senses it is mentioned as "atīndriyagrahaṇam."
 
  यदपि जलधरोपरोधात् प्रावृषि रवेरदर्शनम्, तदपि दृष्टिव्यवधानमात्रम्।न पुनः प्रकाश एव तिरोधीयते तमोवत्।तस्मान्न, यत्र ज्ञानविवृद्धिस्तत्राज्ञानस्य भावः सवितरीव तमसः।नित्यात्यन्ततिरोहितरजस्तमोगुणसत्त्वोपादानात् ॥
 
-
-
  किञ्च–नाज्ञानस्यावस्तुविषयत्वाद्विवृद्धिः संभवति । ज्ञानस्य ज्ञेयवस्तुविषयत्वादभिवृद्ध्युपपत्तिः । अज्ञानस्य हि वस्तुविषयत्वे ज्ञानत्वप्राप्तिः ॥
 
  Even in the rainy season when the sun is not visible due to obstruction by clouds, that is also a case of the sight being covered. It is not as if the light itself has disappeared as in the case of darkness[^540]. Therefore, where there is increase of knowledge there cannot be the existence of ignorance; it is like darkness in the presence of the sun. (Moreover) knowledge has as its cause sattva which comes into being when both the gunas, rajas and tamas, have eternally and absolutely disappeared.[^541]
 
 [^540]: "Darkness disappears in the presence of light but here light is only covered from sight, it has not disappeared."
 
- Moreover, since ignorance has no real thing as its object there can be no growth in it (ignorance). Since knowledge has a real known object, it is proper that there is growth in it. And when ignorance has a real thing as object it becomes knowledge.
-
 [^541]: "Even ordinary knowledge is due to the sattva-guṇa being predominant and both rajas and tamas being overpowered. In the case of perfect knowledge, both rajas and tamas must be totally and eternally overpowered."
+
+ Moreover, since ignorance has no real thing as its object there can be no growth in it (ignorance). Since knowledge has a real known object, it is proper that there is growth in it. And when ignorance has a real thing as object it becomes knowledge.
 
  यश्चापि स्थावरादिष्वज्ञानप्रकर्ष इति, नासौ प्रकर्षः । अत्यन्तज्ञानाभावापेक्षया हि स उच्यते। अज्ञानस्य प्रकर्षे हि सत्यज्ञानसहस्रस्य न ज्ञानेनैकेन बाधः स्यात् । तथा \[दा \] हि प्रत्यज्ञानं ज्ञानेनोत्पन्नेनानेकेन बाधनं स्यात् । तस्मान्नाज्ञानस्य प्रकर्षः स्वरूपेण ॥
 
@@ -4294,8 +3894,6 @@ beyond the range of the senses it is mentioned as "atīndriyagrahaṇam."
  All things both collectively and individually, is the direct perception of one since they are knowables like pots, etc.
 
  It is the goal of puruṣa as it has knowledge as object, as in the case of knowables like pots, etc.
-
-
 
  The earth is something produced as it has parts, as in the case of pots, etc.
 
@@ -4329,9 +3927,6 @@ beyond the range of the senses it is mentioned as "atīndriyagrahaṇam."
  The waxing and waning of the moon is enjoined by one who has the knowledge of dates, time, etc., as there is the (correct) division of time as in the case of a waterwheel.[^476]5 The moon has been made by one who knows the divisions of time as it is  
 
 [^476]: " "
-
-
-
 
 connected with increase (waxing) and decrease (waning), as in the case of a water wheel (made by man).
 
@@ -4369,8 +3964,6 @@ connected with increase (waxing) and decrease (waning), as in the case of a wate
 
  संसाररहितः सर्वज्ञः, अज्ञानाभावात्, मुक्तात्मवत् । क्लेशादिरहित ईश्वरः, अप्रतिबन्धज्ञानत्वात्, सिद्धयोगिवत् ॥
 
-
-
  एतेन क्लेशादिप्रतिबन्धाज्ञानरहितत्वेन चक्षुरादीन्द्रियग्रामनिरपेक्षसर्वविषयज्ञानत्वं सिद्धम्। सर्वार्थग्रहण—समर्थस्य परमेश्वरचित्तस्य सर्वव्यापिनो युगपत्सर्वविषययोगित्वात् । एवं सति समस्तवस्तुग्रहणाभावे कारणाभा(वानु)वोपपतिः ॥
 
  īśvara is free from samsāra, he is omniscient as he is free from ignorance; thus he is like a liberated ātman[^550].Ïśvara is free from afflictions as he has unobstructed kno -wledge; thus he is like a yogi who has this [siddhi.](#)
@@ -4393,8 +3986,6 @@ connected with increase (waxing) and decrease (waning), as in the case of a wate
 
  सर्वस्य विषयत्वात् सर्वमेकेश्वरं जगत्, परिपालकापेक्षस्थानाद्यनेकवस्तुविशेषत्वात्, प्रसिद्धैवंभूतैकराज्यवत् ॥
 
-
-
 तथा, नियतस्थितिहेत्वनेकोपकरणवत्त्वात्,अन्योन्याभिभवनीयप्रभूततरदुर्गयुक्तानेकदेशत्वात्, अभङ्गुरव्यवस्थशरीरभेदवत्त्वाच्च प्रतीतैवंविधैकराज्यवत् ॥
 
  Similarly, the sattva of Īśvara, in the absence of connection with the covering of afflictions, etc., has no obstructive cause with reference to (perception of) any particular object and so has knowledge of all objects at the same time. And so, in him,there is absence of the defect of crossing or not crossing his own limits.
@@ -4402,7 +3993,6 @@ connected with increase (waxing) and decrease (waning), as in the case of a wate
  Since everything is the object (of Īśvara) the entire world must have (only) one Ïśvara (who perceives all) as there are many things which are in need of a protector, as is well-known in the case of a kingdom[^552].'  
 
 [^552]: "1.It is strange to find the repetition of the same argument again which is not adding any new dimension to the discussion."
-
 
  There are many instruments (methods) for the sake of ruling the kingdom firmly; there are many countries having powerful strongholds (forts) capable of defeating each other[^553];one has to pierce bodies which have been arranged in an unbreakable (imperishable) manner; (thus) it is acknowledged to be a kingdom of that kind[^554].
 
@@ -4431,8 +4021,6 @@ connected with increase (waxing) and decrease (waning), as in the case of a wate
 [^557]: "  6.The body and senses are so fashioned as to accomplish the actions determined by the previous karma; thus only one who knows all that, can bring about the body and senses of each person in order toaccomplish that purpose."
 
 [^558]: " 7.The analogy is not clear. Probably it refers to some machinery which is able to fashion the entire palace according to a determined plan."
-
-
 
 to it, it has the purpose of constructing it (the mansion) according to a determined. plan.
 
@@ -4475,8 +4063,6 @@ to it, it has the purpose of constructing it (the mansion) according to a determ
 
  Objection—It is said here, that the meaning of the word Ïśvara is not one who is omniscient, as
 
-
-
 1\. it is in essence dealing with objects which can be known through being denoted by words, and
 
 2\. depends on instruments ( like the senses) to know them as in the case of us, (human beings).
@@ -4512,8 +4098,6 @@ to it, it has the purpose of constructing it (the mansion) according to a determ
  अग्न्यादीनामिवौष्ण्यादि स्वभावो वस्तुधर्मत्वाद्धेतोः पृथिव्यादिरचनेति चेत् – प्रसादादिरचनाया वस्तुधर्मत्वात् स्यादनैकान्तिकत्वम्
 
  अथ स्वाभाविकत्वादिति चेत्—असिद्धत्वम्, जगद्रचनाया धर्माधर्मफलोपभोगार्थप्रयुक्तत्वाभ्युपगमात्। कर्तृधर्माधर्मास्तित्वमुपरिष्टात् साधयिष्यते ॥
-
-
 
  Objection—It is said that the heat of fire, etc., is natural, so also the creation of earth, etc., is also due to the properties of ( many) things.
 
@@ -4554,9 +4138,7 @@ to it, it has the purpose of constructing it (the mansion) according to a determ
 
  Answer —Let there be that kind of a natural (behaviour); then, the natural desire for a fixed cause in the creation of the earth, etc., is like that of making a palace, etc.[^572]
 
-
 [^572]: "5.In other words he is conceding that it is of a different order than that of the heat in fire. So there is no harm in accepting this which is not different from the view of the siddhanta."
-
 
  Then the discrepancy of nomenclature[^573]' does not create any difficulty as there is dependence on an agent of action; and your conclusion proves the opposite (of what you stated in the beginning).
 
@@ -4566,9 +4148,9 @@ to it, it has the purpose of constructing it (the mansion) according to a determ
 
 [^574]: " 2.Mund. Up., I.19."
 
- It is also in contradiction to all ordinary experience. Everyone including women (the gopis) and cowherds[^576], with their minds concentrated on the names of Gods like Śiva, Nārāyaṇa, etc., are always roaming around with distracted minds, even when prohibited, without listening to those prohibitions[^577]; with their heads bowed down they worship Parameśvara with handful of flowers; they also pray to achieve their purpose by this.
-
 [^575]: "³Kath. Up., 6.12."
+
+ It is also in contradiction to all ordinary experience. Everyone including women (the gopis) and cowherds[^576], with their minds concentrated on the names of Gods like Śiva, Nārāyaṇa, etc., are always roaming around with distracted minds, even when prohibited, without listening to those prohibitions[^577]; with their heads bowed down they worship Parameśvara with handful of flowers; they also pray to achieve their purpose by this.
 
 [^576]: " 4.This has to be taken as a samāhāra-dvandva compound to get this meaning."
 
@@ -4602,10 +4184,6 @@ to it, it has the purpose of constructing it (the mansion) according to a determ
 
  Answer—Even then you are only proving what is already proved (by your own words). Moreover it is in contradiction to truth as well.
 
-
-
-
-
  Objection —How is that?
 
  Answer—One has to accept the reaching of a limit by the seeds of power and omnis -cience as they grow, as in the case of any measure (ascending scale). Then in the case of words which describe power and omniscience that have reached their limit they will be known only as 'īśvara' and 'sarvajña' (one who is omniscient ). And attaining the limit means without any limitation. As in the case of measure, there is its end in infinite measure, in space, or ātman, etc. And there are contradictions in your words which do not support what is arrived at through inference.[^580]
@@ -4635,8 +4213,6 @@ to it, it has the purpose of constructing it (the mansion) according to a determ
  Objection — It is said that it is not determined due to contradicting inference.
 
  Answer — It is possible to make the contradictory inferential statement that ātman
-
-
 
 (space), etc., are also like earth, etc., because of the capacity to be known and because of being substances.[^584]
 
@@ -4676,8 +4252,6 @@ to it, it has the purpose of constructing it (the mansion) according to a determ
 
 **2.**In case inference is to be like direct perception then this would be the result. In other words it will be the end of inference itself. To state it as a syllogism it will be: (a) This place which has smoke is without fire. (b) Because this place has no relation with fire seen directly. (c) Wherever there is no direct perception of fire there is no fire in that place. (d) As in places directly seen to be without fire. (e) Therefore this place has no fire.
 
-
-
 inference. Also the use of medicines, etc., in order to cure diseases, cannot be explained as there can be no fear of death as cause (in his case).[^587]
 
  Similarly since one has had no experience of birth one can think that one's body is unborn. It can also lead to the absence of rejecting and engaging in any task.
@@ -4709,8 +4283,6 @@ inference. Also the use of medicines, etc., in order to cure diseases, cannot be
 
  For instance by denying the well-known infinite extent of space (ether) by saying that space has not infinite extent, it is not proper (logical) to try and establish it in substances like pots, etc., which are well-known for not having infinite measure ( extent).
 
-
-
  अथ सन्बन्धिनावेवेश्वरसर्वज्ञत्वे प्रतिषिध्येते, स्ववचनविरोधिनी प्रतिज्ञा स्यात् । ईश्वरसर्वज्ञत्वयोरीश्वरसर्वज्ञ
 -शब्दार्थत्वाभ्युपगमात् । न हि भवत्यग्निरग्निशब्दार्थो न भवतीति ।
 
@@ -4737,8 +4309,6 @@ inference. Also the use of medicines, etc., in order to cure diseases, cannot be
 तथा वैयाकरणः सर्वज्ञ इत्युक्ते नाधिकविज्ञानयुक्तो न भवति। निरवधिकौ सावधिकौ वेश्वरसर्वज्ञावीश्वर -सर्वज्ञशब्दयोरर्थावभ्युपगम्येयाताम्। अतस्तत्प्रतिषेधादभ्युपगमविरोधिनी प्रतिज्ञा स्यात्, आत्माकाशादीनां महत्त्वस्य महच्छब्दार्थत्वप्रतिषेधवत् ॥
 
  It is well-known that the words Iśvara and omniscience induce ideas associated with many individuals connected with the idea of increase and decrease. If the head
-
-
 
 of a village is īśvara then it is not as if the heads of two or three villages are not called greater heads; nor can the head of a family not be called īśvara. In all these contexts, the word Ïśvara is meaningful and understood by all.
 
@@ -4768,8 +4338,6 @@ of a village is īśvara then it is not as if the heads of two or three villages
 
  इह सर्वज्ञशून्यं जगत्। कालो वा दिश आकाशं वा प्राणिमद्देशो वा प्राणिनो वा सर्वेसर्वज्ञशून्याः। प्रमाणानि वा सर्वाणि सर्वज्ञाविषयाणि।प्रमातारो वा सर्वज्ञस्याप्रतिपत्तारः,इत्येवंजातीयासु प्रतिज्ञासु निरवधिकेश्वरे सर्वज्ञे वा प्रतिषिध्यमाने, प्रसिद्धेश्वरसर्वज्ञशब्दार्थाभ्युपगमविरोधाः प्रतिज्ञादोषा वचनीयाः ॥
 
-
-
  This world has no omniscient person. Time, space or ether, or space with living beings, or living beings themselves, are all devoid of omniscience. As for the proofs all of them do not refer to an omniscient one[^594].And the knowers (wise ones) have not seen any omniscient one[^595].
 
 [^594]: "'None of the proofs refer to an omniscient person."
@@ -4794,8 +4362,6 @@ of a village is īśvara then it is not as if the heads of two or three villages
 
  Answer—What you say is true but there is a difference. The idea that is formed on the basis of the universal of an object and which is obtained by proofs can be refuted by some other object or at some other time as in the example that 'there is no pot (here now)'. Sometimes even without any object, the idea put together and brought into existence by words and which is an object (only) imagined, is denied as in the
 
-
-
 statement There is no son of a barren woman.'
 
  यत्र तु प्रमाणान्तरसिद्धसद्धस्तुप्रतिषेधस्तत्रापि\[स्ति\]अभ्युपगतार्थप्रतिषेधदोषः। यथा ईश्वरशब्दार्थः सर्वज्ञो न भवतीति। ईश्वरसर्वज्ञशब्दयोरभिवर्धमानेश्वरसर्वज्ञव्यक्त्यनुगतसामान्यवचनत्वेन लिङ्गेन निरवधिकेश्वरसर्वज्ञसत्तावद्योतित्वं सिद्धमेव। महद्वहुसर्वानन्तपरिमाणादिशब्दवत् ॥
@@ -4817,8 +4383,6 @@ statement There is no son of a barren woman.'
  न चेश्वरसर्वज्ञशब्दयोरतदर्थत्वमन्यार्थत्वं वा कर्तुं \[वक्तुं\] शक्यते । तथा शक्तिज्ञानैश्वर्याणां प्रतिपुरुषं समुच्चितानां सातिशयानां निरवधिकं तत्त्वं अतः \[नानुन्मत्तः \]प्रतिषेद्धुमुत्सहेतेत्यनुमानविरोधित्वं प्रतिज्ञायाः ॥
 
  Nor can the words īśvara and sarvajña not have these meanings, nor can they mean something, else. Then it will be that there is an attempt to deny a principle which is unlimited, (which is inferred) from the fact that qualities like strength, knowledge and power which have degrees of growth and excellence are present in every person, and thus the conclusion will be in contradiction to inference.
-
-
 
  किं चान्यत्-परि\[ पर\]कल्पितस्येश्वरस्य प्रतिषेधं कुर्वन्तः प्रत्यक्षपरचित्तानिष्टयः प्राप्नुवन्ति।परवाक्यादिति चेत्र— सातिशयत्वादिसर्वज्ञसाधकलिङ्गप्रतिपादकवद्विशिष्टत्वात्।परवाक्यस्यतादृशवाक्यार्थप्रतिषेधे चाभ्युपगतप्रतिषेधः, पूर्ववदेवानुमानविरोधश्च ॥
 
@@ -4849,8 +4413,6 @@ statement There is no son of a barren woman.'
  Objection—But this is possible. Accepting an unlimited īśvara, I can deny his omniscience.
 
  Answer—Even that is not logical, as even omniscience is unlimited (has no limits).
-
-
 
  Moreover, possessing power and omniscience which have degrees, are subject to increase and decrease and do not have their primary meanings as īśvara and omniscient, as they are indefinite. So also the words great, etc., do not have their primary meaning with reference to pots which are of indefinite sizes but not so with reference to space, etc[^601] the word mahat or 'of great extent' can be used.").Similarly, here also, unlimited possession of power and omniscience refer to something definite and so are the primary meaning of the words. Rejecting the primary meaning of the words fails to achieve one's purpose.
 
@@ -4883,8 +4445,6 @@ statement There is no son of a barren woman.'
  Answer — Then, like a liberated self your God will have no knowledge [(consciousness](#)).
 
  Objection — But that is in contradiction to direct perception and so on.
-
-
 
  Answer—Here also (the argument) as before is that there is contradiction to inference and scriptural authority.
 
@@ -4932,8 +4492,6 @@ statement There is no son of a barren woman.'
 
 [^612]: " 9Mund. Up., I.1.9."
 
-
-
  श्रुतीनां विप्रतिषेधार्थत्वादीश्वराप्रत्यायकत्वम् इति चेत्-न-अनन्यशेषत्वात् । न हि कर्मशेषत्वे श्रुतिलिङ्गा -दीनामन्यतममपि प्रमाणमस्ति ॥
 
  स्वाध्यायविधिपरिग्रहाद्दर्शपूर्णमासादिशेष इति चेत्-न-ज्योतिष्टोमादिवद्विध्यन्तरस्य भावात् । यथैव ज्योतिष्टोमादीनां (प्रथमप्र) पृथक्प्रकरणादिकारणादन्योन्यशेषशेषिभावो नास्ति । तथैव 'मन्तव्यो निदिध्यासितव्यः' इत्यादिविषयत्वान्नाग्निहोत्रादिशेषत्वं युक्तम् ॥
@@ -4979,8 +4537,6 @@ statement There is no son of a barren woman.'
 
  Objection—There can be praise through referring to something not existing in some places.
 
-
-
  Answer —That is not so, as one is referring to something established through inference here.
 
  Objection — But since īśvara is connected with all effects (bodies) and instruments (sense-organs), he has relationship with the pleasure and pain of all living beings.
@@ -5008,8 +4564,6 @@ statement There is no son of a barren woman.'
 [^621]: "'Ibid., III.7.4."
 
  Again his pure sattva has the characteristics of eternal strength, knowledge and power, which are unexcelled; as it is all-pervading, it is like space (and) is connected with everything; it illumines all objects as it has everything as object (of knowledge); as it is not associated with dharma, adharma, etc., it has unobstructed power; thus,
-
-
 
 even in the absence of a body and sense-organs, the omniscience of īśvara is established.
 
@@ -5042,8 +4596,6 @@ even in the absence of a body and sense-organs, the omniscience of īśvara is e
 
  Moreover there is another thing. If darkness is (just) an absence, then in the night when the moon is bright it should not appear as faint darkness. It should be totally
 
-
-
 destroyed by that light which is there in all its brilliance because light has existence. Since light is a substance it is reasonable to have qualifications like faint or bright; but that cannot be the case with absence which is without any qualification.
 
  किं च—सहाया भावाच्चक्षुष उपलब्धिसामर्थ्याभावादग्रहणमित्येतदपि व्यभिचरति । यथा सत्यपि विद्युल्लताप्रकाशे तीव्रतरे विद्युल्लताविलासे च किं तद्दृष्टिर्नोपलभते । न हि विद्युतः सहायके दृष्ट -चकितत्वेनाग्रहणं विरोधाभावाद्युक्तम् ॥
@@ -5073,8 +4625,6 @@ destroyed by that light which is there in all its brilliance because light has e
  Thus the mind (internal organ) is capable of perceiving the objects of the senses even without the help of the sense-organs. One perceives that the ears, when covered, do experience sound. When the cavity of the ears is closed (covered) it is not possible to infer the presence of another ear[^623]. For instance, when the cavity of the ears of a
 
 [^623]: " ²So one cannot say that the sound is heard by another ear."
-
-
 
 deaf man is covered, he has no experience of that kind.
 
@@ -5116,8 +4666,6 @@ deaf man is covered, he has no experience of that kind.
 
  अथ चेद्ब्रूयादानर्थक्यं चक्षुरादीनामिति–स वक्तव्यः – तुलादिवदेवान्यत्रार्थवत्त्वमिन्द्रियाणामिति । यथैव
 
-
-
 तुलादिविषयवैमल्यप्रकर्षात् पुरुषस्य विनापि तुलादिसाधनेन दर्शनमात्रादेव कनकादिवस्तुपरिच्छेदकौशलं, तथैवान्तःकरणस्यानपेक्षितचक्षुरादिसाहायकस्यापि वैमल्यप्रकर्षाद्रूपादिग्रहणसामर्थ्यं न विहन्यते ॥
 
  नापि ह्यनेकनिर्वर्तनीयं क्रियाजातमेकेन नाभिनिर्वर्त्यते । दृश्यन्ते च बहुभिरुत्तोल्यमानं शिलादिकमद्वितीया हस्तिपुरुषादयः केचिदुत्तोलयन्तः ॥
@@ -5145,8 +4693,6 @@ deaf man is covered, he has no experience of that kind.
 [^629]: "'Buddhism and Jainism respectively."
 
 [^630]: " ²Buddha and others were born and lived in the world. Thus they were limited in time at one point and so differ from the īśvara in our system-so says the siddhāntin -. In case īśvara existed in the past it will go against unsurpassed excellence."
-
-
 
  The Ïśvara in our philosophy is not limited by time. This is to be inferred by the fact that the Buddhas were living in sometime in the past and had a beginning in time and they had qualities like power, etc., in increasing degrees but not known (to be unexcelled). Some infer this in three ways i.e., in the past he was not born, in the present he is not born, in the future he will not be born. That can only be the opposite of unsurpassed excellence[^631].
 
@@ -5176,8 +4722,6 @@ deaf man is covered, he has no experience of that kind.
 
  Answer—Here it is said that staying in the state of Buddhahood attained for sometime was preceded by desire; thus in the case of another Buddha it has to necessarily be preceded by [desire](#). And there are many other living beings who can be
 
-
-
 given grace, so the desire to stay for sometime is proper. And all those living at that time cannot be given grace by the future Buddha[^634].
 
 [^634]: "'Some would have died before the future Buddha came into being."
@@ -5205,8 +4749,6 @@ given grace, so the desire to stay for sometime is proper. And all those living 
  Thus it is said—In this way since inference exhausts itself in indicating universals it does not reveal the (individual) properties though [existing.](#) Then how can it reveal things which are totally unsuitable (to its sphere) and inaccessible (to it) and are opposed to the field of inference like lack of power, knowledge, strength, dharma, adharma, etc[^476].
 
 [^476]: " "
-
-
 
  Thus there is no need to prove the opposite[^638]. The inference for the existence of omniscience (etc.,) does not need firstly, the proof of the inference indicating its absence. Inference does not have to wait for what some other person says. In the case of inference of fire from smoke, it does not wait for the statement of another speaker.
 
@@ -5241,9 +4783,6 @@ given grace, so the desire to stay for sometime is proper. And all those living 
 
  तथा चोक्तमादिविद्वानिति – आदौ विद्वान् आदिविद्वान् रजस्तमोभ्यामनभिभूतज्ञान इत्यर्थः । ज्ञानधर्मादि वा तत आदीयते इत्यादिः, आदिश्चासौ विद्वांश्च आदिविद्वान् निर्माणचित्तं संकल्पमात्रनिर्मितं योगिचित्तम्  
 
-
-
-
 आवेशग्रहवदुपदेशनार्थम् अधिष्ठाय भगवान् परमर्षिः परमदर्शन इत्यर्थः । परमत्वं चागमतः । दर्शनार्थस्य वा गत्यर्थस्य वा धातोः ऋषेर्ग्रहणम् । परमर्षिरीश्वर एव कपिलनारायणादिसंज्ञः आसुरये प्रोवाचेति ॥
 
  “tathā coktamādividvāniti" = the one who knew from the beginning is “ādividvān”,i.e., he is one whose knowledge is not overpowered (affected) by rajas and tamas. Or it can mean that knowledge and dharma begins from him; the knower who is the beginning (beginner ) ; he assumed a “nirmānacittam adhisthāya" = mind created by mere intention, like one entering a house, for the sake of instructing (others). "bhagavān paramarṣiḥ" = one who is the highest seer; his being the highest is known from the scriptures. The word 'rsi' has to be understood as formed either from the root, meaning to see (rs) or from the root meaning to go (r). The highest rsi is īśvara himself called Kapila, Nārāyana, etc., “āsuraye provāca" = ( who) taught āsuri.
@@ -5267,8 +4806,6 @@ given grace, so the desire to stay for sometime is proper. And all those living 
  सः यथोक्तरूपः परमेश्वरः पूर्वेषामपि गुरूणाम् अभ्युदयनिःश्रेयससर्वसाधनसाध्यसंबन्धोपदेशिनां गुरुः तेषामपि ज्ञानोपदेशस्य कर्तेत्यर्थः । तदुद्भवत्वात् सर्वज्ञानानाम् \। यथा ज्वलनलवणजलधिसमुद्भवा विष्फुलिङ्गलवणकणाः ॥
 
 तस्य चादिविद्वत्तामवोचाम कालेनानवच्छेदादिति । अतीतानागतप्रत्युपादीयमानत्वविशिष्टेन कालेनान्ये
-
-
 
 गुरवोऽवच्छिद्यन्ते । स त्वीश्वरः सर्वदा मुक्तेश्वरत्वेन तैरप्यस्माभिरिवानुमेयः ॥
 
@@ -5303,8 +4840,6 @@ given grace, so the desire to stay for sometime is proper. And all those living 
  अथाप्यभिसन्दधीथाः– प्रधानावस्थमेवेश्वरसत्त्वमिति – तदनुपपत्रम् – ज्ञानानुपपत्तेः ॥
 
  अथापि प्रतिपद्येथाः–सत्कार्याभ्युपगमाद्वीजफलवल्लरीकुसुमादिवज्ज्ञानादीनां प्रधानावस्था यत्सत्त्वमेवेति- तच्च न साधु–व्यवहारयोग्यत्वात् । सर्वेषां च तथा सत्यनवच्छेद्यत्वं ज्ञानादिसत्तामात्रसम्बन्धाविशेषात् प्राप्नुयात् ॥
-
-
 
  Objection—You may say that the (pure) sattva of Ïśvara exists in pradhana in a latent state.
 
@@ -5344,8 +4879,6 @@ Objection—You may reply that the (pure) sattva of īśvara being unlimited by 
 
  यथा अन्येषां गुरूणां योगधर्मादिसमनुष्ठाननिमित्तत्वात् कालानवच्छेद्यो वैमल्यप्रकर्षः, तथा न भगवतः । कथम् ? सर्वदाऽत्यन्ततिरोभूतरजस्तमस्त्वादनपेक्षितधर्मादिनिमित्तं सकलार्थावद्योतकरं कालानवच्छेद्यं सत्त्वस्वरूपवद्भगवत्सत्त्वे ज्ञानम् ।
 
-
-
  तथा तत्कार्यमप्युत्कर्षः कालेन नावच्छिद्यते । यथा चाग्नेरुष्णप्रकाशावग्नौ कालानवच्छेद्यौ, तथा भगवत्स -त्त्वस्य वैमल्यज्ञानप्रकर्षास्तत्सत्त्वे कालानवच्छेद्यतामुपयान्तीत्येतदपेक्षयाभिहितं यत्रावच्छेदार्थः कालो नोपावर्तत इति । न त्वकार्यापेक्षया ह्युच्यते ॥
 
  Objection— In the case of other teachers the absolute purity being the cause for practice of yoga and dharma, etc., is unlimited by time but that is not the case with īśvara — why is that?
@@ -5372,8 +4905,6 @@ Objection—You may reply that the (pure) sattva of īśvara being unlimited by 
 तस्यैते कथिता ह्यर्थाः प्रकाशन्ते महात्मनः ॥” इति ।
 
 स्मृतिरपि—
-
-
 
 **“मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः ।  
 निर्वैरः सर्वभूतेषु यः स मामेति पाण्डव ॥”** इति ॥ २६ ॥
@@ -5411,9 +4942,6 @@ Objection—You may reply that the (pure) sattva of īśvara being unlimited by 
 
 [^654]: " 3YS, I.23."
 
-
-
-
 nature, as the word 'go' is the denoter of something having a dew lap and so on[^655].
 
 [^655]: "'It is interesting to see the Vivaraṇakāra using this example very often. It reminds one of the Paspašāḥnika of the Mahābhāṣya."
@@ -5445,9 +4973,6 @@ nature, as the word 'go' is the denoter of something having a dew lap and so on[
 [^660]: " 'Visnusahasranāmastotram."
 
  किमस्य सङ्केतकृतं वाच्यवाचकत्वं ? अथ प्रदीपप्रकाशवदवस्थितमिति । किं चातः ? यदि तेन भगवता अन्यैर्वा संव्यवहारार्थमस्य नामेदमस्त्विति संकेतितम्, ततोऽस्य प्रागोंशब्दावाच्यत्वादोंशब्देन वा प्रणिधातारः  
-
-
-
 
 प्राण्यधिषत, अन्येन वा नामान्तरेणाधीतवन्तस्तथेदानीमप्यस्तु,किमोङ्कारविशेषवचनेन । अथापि प्रदीपप्रकाशवदवस्थितं, तथाऽपि प्रथमश्रवणेऽपीश्वर उपलभ्येत यथा प्रकाशन सविता ॥
 
@@ -5482,9 +5007,6 @@ nature, as the word 'go' is the denoter of something having a dew lap and so on[
 
  Objection—Then the meaning (of the word) can be inferred by one who has uttered the word.  
 
-
-
-
  Answer—That is not correct as the relationship is not grasped. Moreover, the relationship depends on the usage of others and inference does not depend on others'usage[^663].
 
 [^663]: " 'As it is fixed, it cannot depend on inference."
@@ -5517,8 +5039,6 @@ nature, as the word 'go' is the denoter of something having a dew lap and so on[
 
  यथैव रूपचक्षुषोर्ग्राह्यग्राहकशक्त्यपेक्षयैव सर्गादौ सर्गस्तथेहापि वाच्यवाचकशक्त्यपेक्षयैव सङ्केतः क्रियते ॥
 
-
-
  सम्प्रतिपत्तिनित्यतया वृद्धपरम्परयैव गम्यगमकभावेन शब्दार्थयोः संप्रतिपत्तिर्नित्या नान्यथेति आगमिनो वेदवादिनः प्रतिजानते। सम्प्रतिपत्तिश्च शब्दार्थसंबन्धस्य हेतुस्तदेषाम्॥
 
 Just as there is the creation of form (shape, colour and eyes) at the beginning of creation, depending on the power of being known and being the knower, so is the case here also. The conventional usage is established on the basis of the power of being the denoted and being the denoter.
@@ -5549,8 +5069,6 @@ Just as there is the creation of form (shape, colour and eyes) at the beginning 
 
  The repetition of Om and meditation on Īśvara who is denoted by 'Om' (is enjoined).Then, in the case of a yogī, who thus repeats Om and meditates on Īśvara
 
-
-
 who is the meaning of 'Om', his mind becomes one-pointed. It has been said thus—'After the repetition of Om let him meditate on Īśvara. After meditation on Īśvara let him repeat Om. Through attainment of perfection in both the repetition of Om and in meditating on Īśvara, the Supreme Self shines forth.' (Viṣ. P.) (The meanings of ‘svādhyāya,' and 'yoga' given here follow the meanings in the Viṣ. P.)
 
  एवमवगतवाच्यवाचकसंबन्धस्य योगिनः परमेश्वरप्रसादनं कथं क्रियत इति तदर्थमाह—तज्जपस्तदर्थभावनम् तस्येश्वरवाचकस्य प्रणवस्यार्धचतुर्मात्रस्य त्रिमात्रस्य वा जपः मनसोपांशु वा आवर्तनं जपः,तदर्थस्य चेश्वरस्य प्रणवेन वाचकेन समर्पितस्य बुद्धौ समारोपितस्य भावनमभिध्यानं तदर्थभावनम्। कर्तव्यमिति वाक्यशेषः॥
@@ -5565,8 +5083,6 @@ who is the meaning of 'Om', his mind becomes one-pointed. It has been said thus�
 **———————————————————————————————————————**
 
 ¹The reading available is "...svādhyāyamāste " but the Vivaraṇakāra has the the reading "...svādhyāyamāmanet".
-
-
 
  किं चास्य भवति।
 
@@ -5594,8 +5110,6 @@ who is the meaning of 'Om', his mind becomes one-pointed. It has been said thus�
 
  Answer—That is true. But this modification is not different from the mind's [modification](http://# "'Worldly knowledge takes place by this identity. Thus, in fact, it is ignorance and is not the direct perception of the nature of the self.").
 Moreover, in statements like 'I am happy' and 'I am sad', the common support of the thought of ‘I’ in both ‘happy' and 'sad' is an object of the modification of the mind; thus it is only a thought due to ignorance.
-
-
 
  कथं तर्ह्यस्याधिगम इत्याह—यथैवेश्वरः पुरुषः शुद्धः क्लेशादिमलवर्जितस्तत एव प्रसन्नः स्वच्छस्तत एव केवलो निस्त्रिगुणस्तत एव निरुपसर्गस्तापत्रयवर्जितः प्रकृष्टसत्त्वप्रतिसंवेदी च तथाऽयमपि मदीयः पुरुषः शुद्धः प्रसन्नः केवलो निरुपसर्गो बुद्धेः प्रतिसंवेदीत्यवगच्छति॥
 
@@ -5625,8 +5139,6 @@ Moreover, in statements like 'I am happy' and 'I am sad', the common support of 
 
 That is the significance of the word 'kevala"; he is no more associated with the mind, an evolute of the three gunas.
 
-
-
 inability to stay (in the stage of concentration attained); these (distractions) are the obstacles.
 
  नवान्तरायश्चित्तस्य विक्षेपाः। सहैते चित्तवृत्तिभिर्भवन्ति। एतेषामभावे न भवन्तिपूर्वोक्ताश्चित्तवृत्तयः। व्याधिः धातुरसकरणवैषम्यम्। स्त्यानम् अकर्मण्यता चित्तस्य। संशयः उभयकोटिस्पृक् विज्ञानम् 'स्यादिदमेवं नैवं स्यात्' इति। प्रसादः समाधिसाधनानामभावनम्। आलस्यं कायस्य चित्तस्य च गुरुत्वादप्रवृत्तिः। अविरतिः चित्तस्य विषयसम्प्रयोगात्मा गर्धः।
@@ -5646,8 +5158,6 @@ There are nine obstacles which are the distractions of the mind. These occur alo
  तत्र के तेऽन्तरायाः? कियन्तो वेत्याह—व्याधिस्त्यानेत्यादि। संख्यया तावन्नवान्तरायाः।स्वरूपेण च व्याध्यादयः। व्याधिर्धातुरसकरणवैषम्यम्। धातवो वातपित्तश्लेष्माणस्तेषां विषमभावो वैषम्यं,तच्च वातपित्तश्लेष्मभूयिष्ठद्रव्योपयोगादिभ्यो जायते। स्वयान्यागमे हि धातूनां वृद्धिमाचक्षते॥
 
  In that context,what are the obstacles and ['how many are they.'](http://# "'The reading in available texts is 'ke te'ntarāyāh.'") He says *vyādhistyāna* and so on. Numerically there are nine obstacles and in essence they are sickness and so on. vyādhiḥ= the imbalance in the [humours](http://# "they are three i.e..vāta,pita,kapha i.e., air,bile and phlegm.")or in the [secretions](http://# "The fluids are what the food consumed is converted into.") or in the [organs of the body,](http://# "The gross and subtle organs of action.") is [sickness.](http://# "The three are also connected. Any disorder in the three humours gives rise to the upset in the fluids which in turn can lead to disorder in the sense-organs of action.")The humours are air, bile and phlegm and the loss of harmony in them is an imbalance; this comes into being due to the use of substances having an excess of air, bile and [phlegm.](http://# "This is an interesting observation drawing one's attention to a person's lifestyle.") The humours are said to be in excess either by itself or by [something else.](http://# "Increase can be by itself or due to some outside substance like food, etc.")
-
-
 
  रस उपयुक्ताहारस्य परिणामविशेषः।स च सप्तधा,रसकार्यत्वाद्रस इत्युच्यते रसलोहितमेदोमांसास्थिमज्जाशुक्लाख्यः।तस्य वैषम्यं वृद्धिक्षयौ। करणवैषम्यमन्धबधिरत्वादि॥
 
@@ -5677,8 +5187,6 @@ There are nine obstacles which are the distractions of the mind. These occur alo
 
  These are the nine obstacles.They are obstacles (*antarāya*) as they cause an opening,a fissure,a break. They are distractions,opponents, enemies to the attainment of yoga.
 
-
-
 “ete ca saha [cittavṛttibhirbhavanti](http://# "The Vivaraṇakāra has ‘ete ca saha cittavṛtti . . .' instead of 'sahaite cittavṛttibhirbhavanti'")". They are "cittavikṣepāḥ” because they distract the mind through various objects. And they appear simultaneously along with the [fivefold](http://# "YS, I.6. pramāṇa, viparyaya, etc.")modifications of the mind having a mutual relationship of director and [directed.](http://# "Through this relationship they function.")Thus in their absence, [“eṣāmabhāve"](http://# "The reading is ‘eteṣāmabhāve' not ‘eṣāmabhāve'.")i.e, in the absence of sickness, etc., in the absence of their help, the above-mentioned modifications like true knowledge and so on, do not occur.
 
  The distractions in the form of modifications (of the mind) are considered enemies because they create the same processes in the mind.
@@ -5701,8 +5209,6 @@ Pain is (of three kinds ) – arising from the self, arising from living creatur
 
 * duḥkha* (pain) is that by which living beings are overcome and for the destruction .
 
-
-
 of which they strive. And that is of three kinds. "ādhyātmikam" = that which pertains to the self is adhyātmam and that which arises from that is "adhyātmikam". And that (pain) is bodily and mental. Bodily (pain) is due to imbalance in the humours. Mental (pain) is caused by non-fulfilment of desires.
 
  "ādhibhautikam" = that which pertains to living beings is adhibhūtam and that which arises from that is "ādhibhautikam". And it is what comes about from cows, deer, etc.
@@ -5721,8 +5227,6 @@ of which they strive. And that is of three kinds. "ādhyātmikam" = that which p
  To the extent that the mind is concentrated, to that extent they do not [occur.](http://# "It is only in a mind that is not concentrated that distractions occur.")"tābhyāmevābhyāsavairāgyābhyām niroddhavyaḥ"i.e.,they are to be restricted by the two-constant practice (of samadhi) and detachment.They do not respond to any other counter-measure.
 
  It follows that without constant practice and detachment the devotees of Īśvara have no power ([to attain samādhi](http://# "It appears that there was a school which did not allow devotion to Īśvara as an independent means to samadhi but combined it with constant practice and detachment.")). By the statement [*antarāyābhāvaśca*](http://# "YS, 1.29.")it means that the obstacles are restricted even by the previous (mentioned) devotion to [Īśvara.](http://# "This seems to be a compromise to the bhakti concept.")
-
-
 
  तत्राभ्यासस्य विषयमुपसंहरन् इदमाह—
 
@@ -5762,8 +5266,6 @@ of which they strive. And that is of three kinds. "ādhyātmikam" = that which p
 
  Even if the situation is somehow explained this (reasoning) would be worse than the reasoning that cow-dung is a milky preparation (because it comes from the cow, like milk).
 
-
-
  किंच—स्वात्मानुभवापह्नवः चित्तस्यान्यत्वे प्राप्नोति।कथम्? 'यदहमद्राक्षं तत्स्पृशामि' 'यच्चास्प्राक्षं तत्पश्यामि' इत्यहमिति प्रत्ययः सर्वस्य प्रत्ययस्य भेदे सति प्रत्यायिन्यभेदेनोपस्थितः।एकप्रत्ययिविषयोऽयमभेदात्मा अहमिति प्रत्ययः कथमत्यन्तभिन्नेषु चित्तेषु वर्तमानः सामान्यमेकं प्रत्ययिनमाश्रयेत। स्वानुभवग्राह्यश्चायमभेदात्मा अहमिति प्रत्ययः।
 
  न च प्रत्यक्षस्य माहात्म्यं प्रमाणान्तरेणाभिभूयते।प्रमाणान्तरं च प्रत्यक्षबलेनैव व्यवहारं लभते।तस्मादेकमनेकार्थमवस्थितं च चित्तम्।यस्य चित्तस्यावस्थितस्येदं शास्त्रेण परिकर्म निर्दिश्यते॥३२॥
@@ -5786,8 +5288,6 @@ of which they strive. And that is of three kinds. "ādhyātmikam" = that which p
 
  Answer—With this doubt in mind the commentator says "ekatattvālaṃbanam[cittamabhyaset".](http://# "In available texts the reading is ".....ekatattvālaṁbanam",whereas the Vivaranakāra has the reading" "..ekatattvālaṁbanam".")In the sūtra also this is the meaning obtained by the compound *ekatattvābhyāsa.*
 
-
-
  ननु नैकं चित्तमवस्थितमस्ति, यस्यैकतत्त्वावलम्बनः प्रत्यय आपद्येत।प्रत्यया एव चित्तम्,ते च प्रत्यर्थं नियताः क्षणप्रणाशिनश्च। प्रत्यात्मसंवेद्यं च प्रत्ययानामनवस्थितत्वम्। नापि प्रत्ययव्यतिरेकेणावस्थितं प्रत्यय चित्तं नामोपलभ्यते। योऽप्यहमेवाहमिति प्रत्ययः सोऽपि समानसन्ततिपतितत्त्वात्सादृश्यनिबन्धनः। यथा स एव प्रदीपः त एव केशा इति॥
 
  Objection—But then, there is no one mind that is always existing which can have an idea based on a single principle as [support.](http://# "'The Buddhist idea that the mind itself is momentary, it is nothing more than an idea, it is limited to one object at one moment, is being mentioned by the opponent.") The mind is the ideas themselves and they are each limited to a single object (in each moment) and perishing every moment. There is no enduring entity in the ideas which are each known by a single mind (ātman). Nor is there a mind known which exists apart from the ideas as their knower. The idea of I as 'I' is one among the flow of such similar ideas and has a relation of similarity. It is like saying that the lamp-flame is but the hairs (of the wick of the lamp).
@@ -5799,8 +5299,6 @@ of which they strive. And that is of three kinds. "ādhyātmikam" = that which p
  अत्राभिधीयते—स्वशास्त्रविरोधोऽपि स्यादेवं ब्रुवत इत्याह—क्षणिकं च यस्य चित्तं तस्य सर्वमेव चित्तम् एकाग्रम् विक्षेपाभावादेव नास्त्येव विक्षिप्तमिति सर्वचित्तैकाग्रत्वाद्विक्षेपप्राप्त्यभावाद्विक्षेपप्रतिषेधाय शास्त्रोपदेशोऽनर्थकः स्यात्। अस्ति च चित्तपरिकर्मार्थं मैत्र्याधुपदेशः। स च विरुध्येत इत्थंधर्मं चित्तमभ्युपगच्छतः॥
 
  He mentions that those who advocate this [theory](http://# "The kṣaṇikavāda of Buddhists.")are also contradicting their own doctrine (through the words) "kṣaṇikam ca yasya cittam tasya sarvameva[cittamekāgram](http://# "There is no 'yasya' in the available texts but the Vivaraṇakāra has it.")",i.e, in the absence of distractions “nāstyeva vikṣiptam" (there is no distracted mind) and the entire mind being one-pointed, there being no way for distraction, the teaching of the doctrine for removal of distraction is useless. And there is the teaching of friendliness and so [on](http://# "The vihāras, maitrī,etc., is for the sake of removal of distractions. So that becomes useless."),for the purification of the mind. That will contradict the understanding of the mind as having this [characteristic.](http://# "The quality of being momentary will contradict that teaching.")
-
-
 
  ननु च तवापि वृत्तिवृत्तिमतोरभेदादनुपपन्नो विक्षेप इति तत्प्रतिषेधोपदेशानर्थक्यम्—नैष दोषः—वृत्तिवृत्तिमत्त्वाभ्युपगमात्॥
 
@@ -5817,8 +5315,6 @@ of which they strive. And that is of three kinds. "ādhyātmikam" = that which p
  ततो युक्तस्तत्परिकर्मणे शास्त्रोपदेशः।(अतो न प्रत्यक्षम्) अतोऽस्मात् कारणात् तत्परिकर्मविषयशास्त्रोपदेशात् सांख्ययोगवादिवत् क्षणिकवादिनोऽपि एकमनेकार्थमवस्थितं च चित्तं न प्रत्यर्थनियतं (वा) पश्चादभ्युपगमनीयम्।अन्यथा शास्त्रविरोधः स्यात्। योऽपि सदृशप्रत्ययप्रवाहं चित्तमेकाग्रं मन्यते सदृशः समानः प्रत्ययप्रवाहो यस्यैकस्यां सन्ततौ तच्चित्तमेकाग्रम्। तद्विपरीतम् असमानप्रत्ययप्रवाहं विक्षिप्तम्। तथा चैकाग्रता विक्षेपप्रतिषेधेनोपपद्यते, तदर्थोपदेशश्चेति कुतः शास्त्रविरोध इति॥
 
  Thus the teaching of the scriptures for mental purification is proper. "ato" = due to this reason i.e., due to scriptural teachings regarding mental purification, those who advocate the theory of momentariness will have to accept, like the advocates of Sāṅkhya-Yoga, that the mind is one with many objects and is steady and is not limited to each (one) object. Otherwise it will contradict the [scriptures.](http://# "The Buddhist would be contradicting his own scriptures if he does not accept this.")
-
-
 
  Objection—“yo pi... manyate".That which has a flow of similar ideas; i.e., the mind is one-pointed in a series of similar thoughts, and its opposite, a series of dissimilar thoughts is distraction.Thus one-pointedness is achieved by opposing distraction and the teachings advocate this; thus where is the contradiction to scriptures?
 
@@ -5839,8 +5335,6 @@ of which they strive. And that is of three kinds. "ādhyātmikam" = that which p
  Objection—It can be said that the quality of one-pointedness is that of the ideas which is a part of the flow (of ideas), as in a row of red ants every single ant is red.
 
  Answer—That is not so, as it will suffer from the defect already mentioned. All ideas are parts of a flow whether they are of a similar series or of a dissimilar series. Then as before, since each idea is limited to one idea it is only one-pointed and there is no distracted mind. Therefore, if the scripture teaches purification of the mind then it has to be accepted that the mind is one, it is the support of many objects and it is [stable](http://# "The Vivaraṇakāra does not add much to what has been already stated in the bhāṣya. Only a word here and there is added to complete the sense of the bhāṣya.").
-
-
 
  किं च—
 
@@ -5874,8 +5368,6 @@ It can be said that for the sake of the particular consciousness of the future s
 
  If it exists as it is at a different time then the theory of momentariness will be destroyed. If it exists in the next moment then why cannot it stay for a long time?
 
-
-
  अथापि प्रवृत्तिविज्ञानसंत्कारविशिष्टस्यान्तरालभाविन आत्मसदृशस्य भविष्यत आलयविज्ञानस्य संस्कारमाधाय पूर्वमालयविज्ञानं विनङ्क्ष्यतीति—
 
  तच्च न—
@@ -5907,8 +5399,6 @@ That is also not right since there is no other saṃskāra. And if there is one 
  Objection—
 
 Let it be like the ends of a balance where when one goes down the other comes up. Let there be simultaneously the disappearance of the earlier thing and the appearance of the later thing.
-
-
 
  Answer—
 
@@ -5956,8 +5446,6 @@ It is said that in itself one action of coming into being is different from anot
 
  अथापि नाशजननवद्वस्तु शबलमिति, तथाऽप्यभावस्य शबलत्वं प्रसज्येत। कथम्? क्रियाव्यतिरिक्तस्य कारकस्याभावेऽपि नाश एव जननविनाशवान् जननमेव जननविनाशवदिति।न ह्यभावस्य शबलत्वादिविशेषो निर्विशेषत्वाद्भावाभावयोश्चाविरोधात् प्रत्यक्षानुमानानुपपत्तिः॥
 
-
-
  Objection—
 
 Still it can be that the action of destruction of the sprout is different from the action of the birth of thesprout.
@@ -5996,8 +5484,6 @@ That is also not right. It is the parts of clay which change into the form of a 
 
  The argument that in seeds which are inhabited by other substances there is the deposit of the inhabited substance in the abode-substance is also not a case of causation,as the abode and that which stays there are abiding (enduring).It is only in seeds which are stable that there are sprouts which reside in them through the seed-
 
-
-
 impressions. As it is [different](http://# "As the sprout is different from the seed.")there are subtle parts which do not enter the abode-substance. Thus it is only proper that the existent sprouts, etc., are impressed (resided in) by the seed-impressions, as there is no coming into being of non-existent rabbit's horn and so on. If there is the appearance of that which does not exist then, since both the abode and that which resides in it being [perishable](http://# "Like the seed which is the abode and the sprout which resides in it."),and that which is not presently existing has nothing to distinguish it, that which is not a deposit in the abode-substance cannot come into existence. Or it can be anything else like a hand, etc[^666].
 
 [^666]: "There has to be some logical connection between what comes out of what."
@@ -6019,8 +5505,6 @@ impressions. As it is [different](http://# "As the sprout is different from the 
 “svātmānubhavāpaḥnavaḥcittasyānyatve" = if the mind is only ideas (one after another), there is denial of one's own experience in that one does not remember what another has seen.
 
  On the other hand, when asked 'What have you seen' he would have to say I have not seen' even though he has seen (it); as in his view what was seen, was seen by [another](http://# "The earlier mind being momentary should not be theoretically associated with the later experience according to this theory."). And when he denies it how can there be knowledge of what has been experienced like 'That which I saw I am myself touching','That which I touched I am
-
-
 
 myself remembering'. Cognition and memory having the same agent, knowledge has the capacity to bring them together. Otherwise it will be as 'What was seen by someone similar to me I, who am similar to that someone, am touching it, am remembering it.'
 
@@ -6062,8 +5546,6 @@ He then says "na hi pratyakṣasya māhātmyam ... [abhibhūyate](http://# "The 
 
  Moreover the idea of 'I am [this](http://# "The identical I-notion underlying all experiences.")' is based on the authority of direct perception and is not something existing in one subject underlying all experiences and memory in a general [way](http://# "As belonging to a stream of ideas, memories, etc."). If that which is the result of direct perception is overthrown by inference then the authoritativeness of inference will also be under [suspicion](http://# "Inference, in the case, cannot be trusted."),as it
 
-
-
 (perception) is the basis for inference. Thus he (Vyāsa) says—
 
 “pramāṇamantaram ca pratyakṣabalenaiva vyavahāram labhate" = (any other source of knowledge ) gains authority (only by the power of perception). Thus the defects of a conclusion based on the opponent's argument which is against (both) perception and inference has been pointed out (explained).
@@ -6094,11 +5576,7 @@ He then says "na hi pratyakṣasya māhātmyam ... [abhibhūyate](http://# "The 
 
  One does not find the mutual mixing up of memories of separate streams and one
 
-
-
-
-
-also sees that memory is in the individual [stream](http://॑॑॑॑# "This is an observed phenomenon.")therefore it is established that there is a single agent. Thus it is established through the authority of perception which is the weightiest of all proofs. There is nothing that inference can accomplish in that context. One does not take help from a mirror in order to see a mark on the palm of one's hand.
+also sees that memory is in the individual [stream](॑॑॑# "This is an observed phenomenon.")therefore it is established that there is a single agent. Thus it is established through the authority of perception which is the weightiest of all proofs. There is nothing that inference can accomplish in that context. One does not take help from a mirror in order to see a mark on the palm of one's hand.
 
  Even so,those who cannot tolerate the defeat of the inference-arguments stated by the Vaināśika Buddhists bring up artificial (not logical) counter-inferences (to prove their point).Therefore he says "tasmādekamanekārthamavasthitam ca [cittam](http://# "Vyāsabhāṣya.")"(therefore it is established that the mind is one, it is the support of many objects and it is stable).
 
@@ -6120,11 +5598,13 @@ also sees that memory is in the individual [stream](http://॑॑॑॑# "This i
 
  मैत्रीकरुणामुदितोपेक्षाणां सुखःदुखपुण्यापुण्यविषयाणां भावनातश्चित्तप्रसादनमिति। मैत्री मित्रविषया भावना।
 
-
-
 तादृशीं सुखितेषु सुखमनुमोदयन्तीमसूयादिवर्जिताम्। तथा दुःखितेषु करुणां कृपाम् अनुजानतीं दुःखम्।पुण्यात्मकेषु मुदितां पुण्यशीलतामनुजानतीम्।अपुण्यशीलेषु चोपेक्षाम् अपुण्यशीलव्यापारेषूदासीनतां च भावयेदित्यनुषज्यते॥
 
- What is the kind of purification which is enjoined? Practice on a single entity has been [mentioned](http://॑# "YS, I.32.").And what is that single entity with regard to which there is (to be) constant practice. So he says *maitrīkaruṇāmuditopeksāṇām sukhaduḥkhapunyāpuṇyaviṣayāṇām bhāvanātaścittaprasādanam. maitrī* is the feeling towards a friend; rejoicing in happiness on seeing people who are happy without having any feeling of envy. Similarly, towards those who are in pain “karuṇām" = compassion, sympathy in pain, “puṇyātmakeṣu muditām" = a kindred joy, “[apuṇyaśīleṣūcopekṣām](http://॑# "The Vivaraṇakāra adds a 'ca' which is not found in the bhāṣya.")"= towards those engaged in evil deeds he should cultivate indifference, it is added.
+ What is the kind of purification which is enjoined? Practice on a single entity has been mentioned[^1267].And what is that single entity with regard to which there is (to be) constant practice. So he says *maitrīkaruṇāmuditopeksāṇām sukhaduḥkhapunyāpuṇyaviṣayāṇām bhāvanātaścittaprasādanam. maitrī* is the feeling towards a friend; rejoicing in happiness on seeing people who are happy without having any feeling of envy. Similarly, towards those who are in pain “karuṇām" = compassion, sympathy in pain, “puṇyātmakeṣu muditām" = a kindred joy, “apuṇyaśīleṣūcopekṣām[^1268]"= towards those engaged in evil deeds he should cultivate indifference, it is added.
+
+[^1267]: "YS, I.32."
+
+[^1268]: "The Vivaraṇakāra adds a 'ca' which is not found in the bhāṣya."
 
  सर्वत्रैवमस्य भावयतः, शुक्ल इति विशुद्धः प्राण्युपघातादिवर्जनाच्छुक्लोधर्मः। ततः स धर्म इव जातश्चित्तं प्रसादयति। तेन प्रसन्नं चित्तमेकाग्रं स्थितिपदं लभते। एकाग्रतया समाधीयत इत्यर्थः तदुक्तम्—
 
@@ -6148,8 +5628,6 @@ If indifference is not included then the mind would have become engaged (occupie
 
  Therefore, one who has achieved steadiness of the mind in this way, practising
 
-
-
 meditation on one principle like friendliness, compassion, etc., will have no obstacles already [mentioned.](http://# "YS, I.30 & 31.")
 
 **प्रच्छर्दनविधारणाभ्यां वा प्राणस्य॥३४ ॥**
@@ -6167,8 +5645,6 @@ meditation on one principle like friendliness, compassion, etc., will have no ob
  The mention of many methods is with the idea that to someone, at sometime, any one method may be easy to follow. Exhalation and retention either separately or [together.](http://# "How this can be done separately is not made clear. Retention is only after exhalation or inhalation. Perhaps this is a reference to the kevala kuṃbhaka mentioned in the Sādhanapāda. Cf. Rukmani, op. cit., vol. II, pp. 229-31.") "pracchardanam" is the throwing out of the abdominal air up to the [limit](http://# "Till one is exhausted."),through the nostrils and not through the mouth.
 
  “vidhāraṇam prānāyāmaḥ"= (it is suspension of breath) up to the limit itself. Even though there is restraint of breath (prāṇa) in pracchardana also still there is no restriction in the process of going out; therefore vidhāraṇa has been added to indicate [prānāyāma](http://# "āyāma of prāṇa is not there in pracchardana.").
-
-
 
 **विषयवती वा प्रवृत्तिरुत्पन्ना मनसः स्थितिनिबन्धिनी॥३५॥**
 
@@ -6188,8 +5664,6 @@ meditation on one principle like friendliness, compassion, etc., will have no ob
 
  When there are unsteadied (aniyatāsu) modifications and when the detachment called 'vaśīkāra' has arisen with regard to these (sūtra I.15) then (the mind) becomes capable of perceiving these various objects.And in that state faith, energy, memory and 'samādhi' (sūtra I.20) come to him without any obstacles.
 
-
-
  विषयवती वा प्रवृत्तिरुत्पन्ना स्थितिनिबन्धिनी। चित्तस्येति वाक्यशेषः। विषया गन्धादयो यस्या योगप्रवृत्तेर्गन्धादिसंवेदनलक्षणाया आलम्बनीभूताः स विषयवतीत्युच्युते॥
 
  प्रवृत्तिर्नाम योगिनो योगमभ्यस्यतः अभिमुखीभावं प्रतिपद्यमानस्य योगस्य यः प्रथमोऽभिमुखीभावः प्रत्ययकरणो योगानुष्ठानं प्रत्युत्साहजननो निर्मथ्यमानस्याग्नेरिव धूमसमुद्भवः सा प्रवृत्तिः। सा च तादृशी प्रवृत्तिरुत्पन्ना प्रत्ययकरणात् प्रहर्षयन्ती योगिनश्चित्तं स्थितौ निबध्नाति॥
@@ -6208,8 +5682,6 @@ meditation on one principle like friendliness, compassion, etc., will have no ob
 
  By concentrating the mind on a ray, moon, sun, planet, lamp, etc., or when due to disturbance, when concentrating on the heart-lotus there is the appearance of a ray, moon, and so on, this is the sense-activity pertaining to those [objects](http://# "The word ‘raśmi' is placed at the beginning instead of 'candra'. After 'graha' the word 'mai' which comes in the text is left out altogether.").
 
-
-
  यद्यपि शास्त्रानुमानाचार्येभ्योऽवगतमर्थतत्त्वं तथाभूतमेव अव्यभिचारिस्वरूपमेव। तेषामन्यथाभूताप्रतिपादकत्वात्।तथाऽपि यावदेकदेशोऽपि स्वकरणसंवेद्यो न भवति प्रत्यक्षो न भवति शास्त्राद्युपदिष्टस्यार्थस्यैकदेशोऽपि, तावत् सर्वं परोक्षमिवापवर्गादिषु सूक्ष्मेष्वर्थेषु न दृढां बुद्धिमुत्पादयति। तस्माच्छास्त्रानुमानाचार्योपोद्बलनार्थमवश्यं कश्चिद्विशेषः प्रत्यक्षीकर्तव्यः॥
 
  तत्र शास्त्राद्युपदिष्टार्थैकदेशप्रत्यक्षत्वे सति सर्वं सूक्ष्मविषयमपि आ अपवर्गाच्छ्रद्धीयते। एतदर्थमेवेदं चित्तपरिकर्म यदेतत् 'मैत्रीकरुणा' इत्यादिना ‘परमाणुपरममहत्त्वान्तोऽस्य वशीकारः' इत्येवमन्तेन प्रकरणेन यमनियमासनविशिष्टस्य चित्तपरिकर्मोपदिश्यते॥
@@ -6221,8 +5693,6 @@ meditation on one principle like friendliness, compassion, etc., will have no ob
  तदेतदुक्तं भवति—एतत्प्रकरणोपदिष्टानामुपायानामन्यतमानुष्ठानात् प्रत्यक्षीकृतैकदेशतया विधूत (पिध्मात) संशयं तु आ अपवर्गात् दृढावस्थितश्रद्धानादि प्रशान्तबहिर्वृत्ति उपस्थितवशीकारसंज्ञावैराग्यं तस्य तस्य तृतीयपादोपदिष्टपरिणामत्रयादेरर्थस्य प्रत्यक्षीकरणाय समर्थं स्यात् ज्ञानविभूत्यादिप्राप्यर्थमिति। ततश्चैवमर्थं चित्तपरिकर्मोपदिश्यत इति प्रकरणार्थः।तथा च भाष्यकारः प्रदर्शितवान्—'एतदर्थमेवेदं चित्तपरिकर्म' इत्येवमादिना॥३५॥
 
  Thus it can be said that by following anyone of the methods taught in this section, when someone particular thing is directly perceived, then doubt is removed regarding everything including liberation; there is great faith firmly established, modifications of the mind moving outwards are subdued (calmed) and detachment known as ‘[vaśīkāra](http://# "YS, I.15.")'is present. Then he will be able to directly perceive (experience) the things as taught in the third chapter beginning with the sūtra [*pariṇāmatraya*](http://# "YS, III.16. This sūtra states that saṃyama when practised on the three mutations, gives knowledge of the past and future.")' in order to achieve the perfection of [knowledge](http://# "YS, III.16–32. In these sūtras the various siddhis that come to a yogī is described. But the ultimate purpose is the achievement of knowledge of the pure nature of the self, though on the way, the siddhis come on their own.").Thus the meaning of this section (set of sūtras)
-
-
 
 is that the purification of the mind is taught for this purpose. So the commentator indicates this (through the words beginning with ) "etadarthamevedam cittakarma".
 
@@ -6252,12 +5722,9 @@ is that the purification of the mind is taught for this purpose. So the commenta
 
  He mentions how that arises (through the words) "hṛdayapuṇḍarīke dharayato [buddhisaṃvitbhavati](http://# "The Vivaraṇakāra leaves out 'yā' before buddhisaṃvit'.")"and so on; i.e., it is a knowledge of the true nature of buddhi. In answer to the question as to what the nature of the sattva-intellect is he says “buddhisattvam hi prabhāsvaramākāśakalpam" = it is of the nature of luminosity, it is all-pervading like ether.
 
-
-
  यत्र यस्मिन् बुद्धिसत्त्वे॥
 
  स्थितिवैषम्यादिति। बुद्धिसत्त्वात्मतासाम्यानापत्तेरिति। हृदयपुण्डरीक एव धारयतः प्रवृत्तिर्ज्योतिष्मती सूर्येन्दुमणिप्रभारूपाकारेण विकल्पते।तथा चास्मितायाम् अहङ्कारे समापन्नं स्यात् बुद्धिसत्त्वं स्वरूपेण साम्यापत्तेर्निस्तरङ्गमहोदधिकल्पं शान्तमनन्तमस्मितामात्रं भवति॥
-
 
 “[yatra](http://# "The word in the bhāṣya is tatra' and not 'yatra'.")”= in that sattva-intellect “[sthitivaiṣaṃyāt](http://# "The Vivaraṇakāra uses the word 'sthitivaisamyāt' instead of 'sthitivaiśaradyat'.'Vaiśāradya' and 'Vaiṣamya' are totally different concepts and to substitute one for the other makes no sense.")"as the stability of the sattva- intellect has not attained oneness with its own self, the luminous sense-activity of one concentrating on the heart-lotus assumes alternatively the brilliance of the sun, moon or gem[^667].
 
@@ -6271,8 +5738,6 @@ is that the purification of the mind is taught for this purpose. So the commenta
 In this manner there are two painless sense-activities which are "viṣayavatī” and “cāsmitāmātra”.In that context, all of them beginning with consciousness of (divine) fragrance and ending with the bare 'sense-of-I' are without sorrow (pain).
 
  The luminous sense-activity,on the other hand,is different from the fivefold consciousness of (supernatural) fragrance, [etc.](http://# "Divine smell, divine sight and so on, associated with each of the senses.")The sense-activity (activities)
-
-
 
 having direct perception of an object precedes the bare sense-of-I; thus there is a division of [subject-matter](http://# "There is a sense of ascent in the spiritual ladder; the last stage is the 'sense-of-I' and it is a luminous, radiant, self-consciousness."). By means of this painless luminous (sense-activity) the mind of the yogīattains stability.
 
@@ -6296,10 +5761,6 @@ having direct perception of an object precedes the bare sense-of-I; thus there i
 
  Or by having as its supporting-object, a perception in dream or a perception in sleep (the mind gains stability).
 
-
-
-
-
  स्वप्नज्ञानालम्बनं वा निद्राज्ञानालम्बनं वा तदाकारं योगिनश्चित्तं स्थितिपदं लभत इति॥३८॥
 
  Or the mind of the yogi having a perception in dream as its supporting-object or having a perception in sleep as its supporting-object, gains stability by assuming that form.
@@ -6322,10 +5783,6 @@ having direct perception of an object precedes the bare sense-of-I; thus there i
 
 * yathābhimatadhyānādvā. “yadevābhimatam"* is with reference to the stability of the mind, for the purpose (of this teaching) is the stability of the mind and the purpose is not to gain pleasure and so on. [This](http://# "Seeking pleasure etc.") has also been prohibited (through statements like)—'na tveva viṣayān prāpya dhārayeta [kathaṃcana](http://# "Not traced. It means that one should not dwell on the aspect of pleasure etc., of objects, having obtained them.")'.Having found something
 
-
-
-
-
 as an object of support on which he gains stability he can achieve stability in other things (also) mentioned in the teachings.
 
 **परमाणुपरममहत्त्वान्तोऽस्य वशीकारः॥४०॥**
@@ -6347,8 +5804,6 @@ as an object of support on which he gains stability he can achieve stability in 
  The word *antaḥ*is connected with each of the words (in the [sūtra](http://# "To both the words paramāṇu and paramamahattva the word 'antaḥ' is added in the sense of right to the end.")). "sūkṣme niviśamānasya" = when (the mind of) the yogī, contracting, enters a subtle object i.e., during the practice, while gradually concentrating on smaller and smaller (subtle) objects, he reaches the limit of the smallest atom. And that ultimate atom is the limit of curtailment of the (yogī's) mind. And he is able to gain stability right up to that limit.
 
  "itthamubhaya...parikarmāpekṣata [iti](http://# "The words itthamubhaya and cittasya, are both not part of the available bhāṣya.")"thus the experience of both the subtlest atom and the greatest magnitude, without the obstruction of any other thought, is complete mastery. The earlier ([stability of the mind](http://# "The stability mentioned in sūtras 1.34-39."))is also great mastery. But this (stability) has this distinction. "tadvaśīkārāt paripūrṇam..." i.e., when he has complete mastery there is no need of purification to be obtained by practice; whereas in the earlier instance, all of them are in need of further purification (practice).
-
-
 
 In that context, concentration is threefold; the minutest, the greatest magnitude and vikariṇīwhich touches both the limits. Viśālā is what touches the limit of greatness, samkṣiptā is what touches the limit of minuteness; these three are mentioned here in the sūtra.
 
@@ -6374,8 +5829,6 @@ In that context, concentration is threefold; the minutest, the greatest magnitud
 
  Similarly, one should understand (this samāpatti) with reference to the sense-organs also.(The mind) tinged by the support of a sense-organ (and) having attained oneness with the sense-organ, shines with the form of the sense-organ.
 
-
-
  Similarly, (the mind) tinged by the support of the 'puruṣa' as knower (grahītṛpuruṣa) (and) having attained oneness with the 'puruṣa' as knower, shines with the form of the 'puruṣa' as knower. Similarly, (the mind) tinged by the support of a liberated 'puruṣa' and having attained oneness with the liberated 'puruṣa' shines with the form of the liberated 'puruṣa'.
 
  Thus, in this way, the assumption of the form of the object of support by attaining stability in it of the mind, with reference to the knower, sense-organ and object of support i.e., with reference to the 'puruṣa', organ of sense and objects, is taking on the form of the object (of support) while remaining steadily in it; (and) that is called 'the balanced state' (samāpatti).
@@ -6394,8 +5847,6 @@ In that context, concentration is threefold; the minutest, the greatest magnitud
 
  Moreover, it has been mentioned (earlier) that samprajñāta is that accompanied by deliberation and so [on](http://# "YS, 1.17.").The nature of deliberation, etc., is also to be indicated here. If samāpatti is not mentioned then it is not possible to indicate the nature of vitarka and so on, as vitarka, etc., are the characteristics of samāpatti.  
 "kṣīṇavṛtteh" and so on, means whose thought process based on outside proofs has come to an end.
-
-
 
   ननु सर्व एव प्रत्ययाः प्रत्यस्तमिताः। सर्वप्रत्यस्तमये हि अवसिताधिकारं न स्थूलसूक्ष्मादिकमालम्बते॥
 
@@ -6435,8 +5886,6 @@ In that context, concentration is threefold; the minutest, the greatest magnitud
 
  When complete mastery known as vašīkāra has arisen there is no more connection with the world (of birth and death). Thus it is said Though there is still connection
 
-
-
 with the sattva-mind still,as there is no connection with afflictions and so on, he is ever-free ever-[Īśvara.](http://# "The words 'sa tu sadaiva muktaḥ sadaiveśvaraḥ' is used by Vyāsa in sūtra 1.24 to describe Īśvara.The Vivaraṇakāra is probably using that line with some changes.")'
 
  Thus the mind coloured by the support of a liberated puruṣa and having attained oneness with the liberated puruṣa shines in the form of the liberated puruṣa. To think that by attaining oneness with a released puruṣa whose connection with the mind has ceased, one shines in that form is not [right](http://# "The connection is there but only the connection with afflictions and so on, is absent.");this will mean the dissolution of mind into [itself.](http://# "Into prakṛti which is also made up of the three guṇas like the mind. ")
@@ -6454,8 +5903,6 @@ with the sattva-mind still,as there is no connection with afflictions and so on,
  Answer—There is indeed great confusion regarding whether it is known or not. This knowledge can be a special relationship of the mahat and ahaṃkāra (with the sattva) like that of a knower and a released [self.](http://# "The puruṣa is known as the knower and also as the released in the case of a muktapuruṣa; this is also through the sattva-intellect which is an effect. So also mahat and ahamkāra can also be known through a special relationship.")A special relationship with the two manifest entities (mahat and ahaṃkāra) is in order.This is a special relationship like knowing through the relationship of a special mental modification that one's own puruṣa is of the nature of a knower as well as of the nature of a released self. But mahat and ahaṃkāra cannot be known as the self of all because of its cosmic nature.
 
  If they could be known as the self of all they would be known as just the sattva-mind and as the self alone and in that case they cannot be grasped as the object of [experience.](http://# "There would be no mind to grasp as in the cosmic stage individuation has not taken place.")And in the case of pradhāna and puruṣa and of their relationship, there can be no understanding of their true nature as they are absolutely unmanifest by nature.
-
-
 
  ननु चेश्वरस्यासर्वज्ञता, \[यतः\] प्रधानपुरुषतत्संबन्धा न प्रत्यक्षा इति।उच्यते—
 
@@ -6503,8 +5950,6 @@ But then, it will be said later that there is direct perception of puruṣa in t
 
 parārthāt svārthasaṃyamāt [puruṣajñānam.](http://# "YS, III.35. The point is that mahat (prakṛti) and ahaṃkāra (as puruṣa) are knowable through the mind which is an effect, according to this sūtra. This is in contradiction to what has been said earlier says the pūrvapakṣin.")
 
-
-
  Answer—What is said is right and is the truth. That is why it is said that puruṣa is not an object (of perception ) in truth. And that is why it is said there that “puruṣa is not known through the sattva intellect which has the idea of puruṣa. But puruṣa himself realizes that notion which has himself as its [support.](http://# "'VBh., under YS, III.35. Cf. Rukmani, op. cit., vol. III, pp. 130 ff.")" Thus it is said in the Upaniṣad ‘By whom is the knower to be [known](http://# "Br. Up., II.4.14.")'.
 
  ननु पुरुषालम्बनोपरक्तं चित्तं पुरुषस्य विषयः। तथा च सति प्रत्यक्ष एव पुरुषः। यथा घटालम्बनोपरक्ते प्रत्यये पुरुषेणोपलभ्यमाने घटः प्रत्यक्ष उच्यते—
@@ -6530,8 +5975,6 @@ parārthāt svārthasaṃyamāt [puruṣajñānam.](http://# "YS, III.35. The po
  There is no way for the mind to take on the form of another liberated puruṣa; even if it is that of a liberated one it will be seen as one's own. There is nothing other than the transformation of the mind. Puruṣa does not fail to perceive the mind changed into its own form. When there is the relationship of being the property to one's own puruṣa there is the possibility of this transformation.
 
 कथं तर्हि स्वपुरुषादन्यस्य स्वत्वासंबन्धिनो ग्रहणम्—उच्यते—यथा परदर्पणद्वारेण परमुखदर्शनं,तथा दर्पणस्थानीयपरसत्वाकारपरिणतं स्वसत्वं पुरुषः पश्यन् परमपि पुरुषं जानाति॥
-
-
 
  तस्यायमात्मा ममायमित्यन्यत्वन्त्वनुमानादेव प्रतिपद्यते स्वकीयादन्यदीयसत्वगतविशेषलिङ्गेन।सत्वानां च त्रिगुणत्वादवश्यं विशेषाः सन्ति। पुरुषाणां तु निर्विशेषत्वात्स्वरूपेण भेदो दुरवबोध एव।
 
@@ -6563,8 +6006,6 @@ Just as one can see another face through another mirror similarly puruṣa, seei
 
  (In fact) these are distinguished from each other; the properties of words are of
 
-
-
 one kind, the properties of the objects intended (meanings) are of another kind (and) the properties of the ideas are of another kind, thus their paths are divided.
 
  In this state,when an intended object like cow has entered the discernment in ‘samādhi' of a yogīwho has attained 'samāpatti',if that 'samāpatti' arises,tinged by error regarding word,meaning (and) idea, (then) that is said to be a mixed 'samāpatti' accompanied by deliberation.
@@ -6595,8 +6036,6 @@ That is the point. Even if it is so, this is how it is in the everyday world; i.
 
  Objection — But then, the object (of meditation) is a thing as it is in itself.
 
-
-
  Answer—That is not so; because it isgrasped after knowing the convention regarding a word and its meaning.
 
  Objection—But then, even before the convention any general word can determine the [object.](http://# "Even before the association between the word and its meaning come into play.")
@@ -6612,8 +6051,6 @@ That is the point. Even if it is so, this is how it is in the everyday world; i.
  Because of being qualified by latent-impressions of the knowledge of the convention between word and meaning in many births the first samāpatti of the yogīis the same as the idea as is prevalent in the world. There is only this difference that, because the mind of the yogīhas attained stability there is a flow of similar ideas (in his case).
 
  यदा पुनः शब्दसंकेतस्मृतिपरिशुद्धौ श्रुतानुमानज्ञानविकल्पशून्यायां समाधिप्रज्ञायां स्वरूपमात्रेणावस्थितोऽर्थः तत्स्वरूपाकारमात्रतयैवावच्छिद्यते। सा च निर्वितर्का समापत्तिः। तत्परं
-
-
 
 प्रत्यक्षम्। तच्च श्रुतानुमानयोर्बीजम्। ततः श्रुतानुमाने प्रभवतः।न च श्रुतानुमानज्ञानसहभूतं तद्दर्शनम्। तस्मादसंकीर्णं प्रमाणान्तरेण योगिनो निर्वितर्कसमाधिजं दर्शनमिति।
 
@@ -6639,8 +6076,6 @@ the object of support (loka) of this (super-deliberative balanced state) such as
 
  And this particular kind of arrangement (which is the object such as a cow) is the common property of the subtle elements, which is inferred by the phenomenalized individual (object); risen from itself (ātmabhūtaḥ) it appears (in its individual form) when the conditions for its manifestation unfolds itself; when another property like the piece of pot (potsherd) arises it (the earlier property like the pot) disappears.
 
-
-
  This same property is called a whole. And this is one and big and small and tangible and one in which actions take place and (which is) impermanent. With this (kind of) whole the work in the world is carried on.
 
  यस्य पुनरवस्तुकः स प्रचयविशेषः,सूक्ष्मञ्च कारणमनुपलभ्यं अविकल्पस्य तस्य अवयव्यभावात् अतद्रूपप्रतिष्ठं मिथ्याज्ञानमिति प्रायेण सर्वमेव प्राप्तं मिथ्याज्ञानमिति।
@@ -6659,14 +6094,11 @@ the object of support (loka) of this (super-deliberative balanced state) such as
 
 [^668]: "Forgetting their general import memory does this."
 
-
-
  स्वमपि ग्रहणात्मकं रूपं तत्प्रज्ञा नालोचयति, निर्मलतरत्वात्। ग्राह्यमात्रैव सा विभाव्यते।सा च तादृशी निर्वितर्का समापत्तिः। र्निर्गतो वितर्कोऽस्याः निर्वितर्क वितर्कोऽध्यारोपः। सोऽस्यां नास्ति॥
 
  तत् एतत् परं उत्कृष्टं शुद्धं प्रत्यक्षं अपरं प्रत्यक्षं सर्वसाधारणं पुरस्ताद्वृत्तिमध्ये पठितमिदं योगिन एवेति। तच्छ्रुतानुमानयोर्बीजम्। यद्यपि पूर्वोक्तमपि श्रुतानुमानयोर्बीजमेव, तथाऽपि तत्कार्ये श्रुतानुमाने व्यभिचरतोऽपि,नपुनर्निर्वितर्कसमाधिजप्रत्यक्षप्रभवे व्यभिचरत इत्यत आह — ततः श्रुतानुमाने प्रभवत इति॥
 
  This insight is not aware of itself as of the essence of knowledge as it is absolutely pure. It appears only as the object; and that is “nirvitarkā samāpattiḥ".That from which deliberation is removed is nirvitarkaḥ, vitarka is superimposition, that is absent in this (nirvitarkā). "tat" = this "param pratyakṣam" = is superior pure, direct perception. The lower perception is common to all and has been mentioned earlier under the modifications; this only belongs to a yogī.
-
 
 “[tacchrutānumānayorbījam](http://# "The VBh. has 'tacca' whereas the Vivaraṇa has just 'tat'.")". Though the earlier mentioned (perception) is also the basis of both scriptural and inferential [knowledge](http://# "YS, I.7, and VBh. on it.")still, scriptures and inference which are its effects are uncertain (faulty); but when direct perception arises due to nirvitarkā-samādhi there is no error whatsoever. Thus he (Vyāsa) says "tataḥŚrutānumāne prabhavataḥ".
 
@@ -6677,7 +6109,6 @@ the object of support (loka) of this (super-deliberative balanced state) such as
  शब्दसङ्केतश्रुतानुमानज्ञानविकल्पस्मृतिपरिशुद्धौ शब्दसङ्केतविकल्पः श्रुतज्ञानविकल्पः अनुमानज्ञानविकल्पश्च,स एव स्मृतिः। स्मरणेन ह्यन्यस्यान्यधर्मोऽध्यारोप्यते। न हि वस्तु स्वरूपेण वस्त्वन्तरेऽध्यारोपयितुं शक्यम्।
 
  And "na ca śrutānumānajñānasahabhūtam taddarśanam” = its object is different from the knowledge got through the scriptures and through inference. That knowledge is of the particular object; whereas scriptural and inferential knowledge deal with general properties. "tasmādasankīrṇam...darśanam... [dyodyate](http://# "The Vivaraṇa does not add anything new here.")".
-
 
 "[tannirvitarkāyāḥ](http://# "VBh. has only nirvitarkāyāḥ . . . and not tannirvitarkāyāḥ.")”.Thus the nature of this super-deliberative balanced state is indicated by the sūtra smṛtipariśuddhau svarūpaśūnyevārthamātranirbhāsānnirvitarkā.
 
@@ -6690,8 +6121,6 @@ the object of support (loka) of this (super-deliberative balanced state) such as
 न —
 
 सामान्यविशेषभेदात्। सामान्यं श्रुतमनुमितं च।
-
-
 
 विशेषस्तु प्रत्यक्षस्य विषयः। तस्मिंश्च तत्सामान्याध्यासः प्रसिद्ध एव॥
 
@@ -6727,9 +6156,7 @@ That is not so, due to the distinction between generality and particularity. Tha
 
  The object is something like a cow, a pot, etc., and knowledge itself is not in the
 
-
-
-form of a cow and so [on](http://॑॑# "Unlike the Buddhist Vijñānavādin who subscribes to this view."). “aṇupracayaviśeṣātmā"=that whose essence is a special kind of conglomeration of atoms, i.e.,parts of subtle elements.A cow, a pot, etc., is the support of the mind and that object is a particular kind of arrangement of the subtle elements.
+form of a cow and so [on](॑# "Unlike the Buddhist Vijñānavādin who subscribes to this view."). “aṇupracayaviśeṣātmā"=that whose essence is a special kind of conglomeration of atoms, i.e.,parts of subtle elements.A cow, a pot, etc., is the support of the mind and that object is a particular kind of arrangement of the subtle elements.
 
  Thus it is said that [this](http://# "This particular arrangement.") is the common property of the subtle elements of its own essence and not different from them just like the hood, coils, etc., are not different from the snake.
 
@@ -6777,8 +6204,6 @@ Then it can mean that cause is the relation called inherence.
 
 संबन्धस्य च संबन्धिनोरेवान्यतरतन्त्रत्वादिहेतुत्वे समवायस्यापि समवायान्तरं तस्याप्यन्य
 
-
-
 इत्यनवस्था प्रसज्येत। यथा गुणादीनां समवायलक्षणात् संबन्धात् द्रव्यतन्त्रत्वं, तथा समवायस्यापि द्रव्यव्यतिरिक्तत्वे द्रव्यतन्त्रत्वार्थं समवायान्तरं कल्प्येत, तस्याप्यन्यत्तस्याप्यन्यदित्यनवस्था स्यात्॥
 
  Moreover inherence of action, universal properties and particular characteristics cannot exist apart from a [substance](http://# "It is only in a substance can all these inhere."),as they are obtained only as dependent on a substance. Even there relation has no causality.
@@ -6802,8 +6227,6 @@ Then it can mean that cause is the relation called inherence.
  Objection—Another one says, even that which is existent before cannot come into existence, as it is (already) existent like a pot which is existent now. That which is identical with something else also cannot come into existence from that as it is already existent, like its own self.
 
  Answer—If it is said that the existent does not come into existence so there is no coming into existence of the existent then there will be the fallacy of proving some-
-
-
 
 thing already [established](http://# "Existent things are already in the world. So one is trying to prove what is already present before one's eyes.").Then there will be absence of manifestation (of objects) and there will be absence of any [example](http://# "In any logical syllogism, to prove one's point, there has to be an example cited both for and against, like the kitchen and lake in the case of smoke and fire. If nothing comes into being there can be no examples and one cannot prove one's point through reasoning.").
 
@@ -6829,8 +6252,6 @@ thing already [established](http://# "Existent things are already in the world. 
 
  If seeds from one field are carried by flood water to another field then the corn which grow from those seeds are taken by the one owning that latter field and not by the one who owned the earlier seeds. No one, not even a learned man can dispute this saying that 'I know that the corn has grown from my seeds so I would take it.'
 
-
-
  Similarly the animal with the ears and tail cut off will be taken by the one who owns the land (where the animal is found); he cannot be prevented by saying that this whole animal has come into being through the earlier parts belonging to him.
 
  येषामप्येकस्मिन्गृहीते तस्मिन्नश्वे लूनकर्णलाङ्गूलके जाते स्वक्षेत्रे च दृष्टे स एवाश्वदाता अन्योयं (वितिसन्योयं) महत्तमादश्वान्मया दत्तो महत्तम इति हरेत। हरतामिति चेत्सर्वव्यवहारलोपप्रसङ्गः शास्त्रकोपश्च। तस्माद\[नन्योऽ\]वयवेभ्यः कारणेभ्य एकोऽवयवी कार्यमिति सिद्धम्॥
@@ -6848,8 +6269,6 @@ thing already [established](http://# "Existent things are already in the world. 
  स च स्वफलेन व्यक्तेनानुमितः। फलेन उदकाहरणधारणसम्भवनादिना। यस्य हि फलं कार्यं व्यक्तमुपलभ्यते सोऽस्तीति निश्चयः। अनुमित इति विप्रतिपन्नापेक्षया,साधारणशब्देन शक्तिरूपेण वोच्यते।स तु प्रत्यक्ष एव अव्यक्तेन दण्डसूत्रकुलालादिकारकव्यापाराभिव्यक्तेन फलेन कार्येण घटाख्येन प्रागपि मृदाद्यवस्थायामस्तित्वेन अनुमितः स एव दण्डादिकारकैः स्वव्यञ्जकैरभिव्यज्यमानः प्रादुर्भवति धर्मान्तरोदये च तिरोभवति स एष भूतसूक्ष्माणां धर्मोऽवयवीत्युच्यते॥
 
  And that is “[svaphalena vyaktenānumitaḥ](http://# "VBh. has 'phalena' whereas Vivarana has svaphalena'.")”;“phalena" = by carrying and holding water, etc., (in case of a pot). That whose result, effect is available in a manifest form,certainly exists. “anumitaḥ” is used with reference to many, mutually connected [ideas](http://# "Sometimes the manifest object can give rise to many different opinions regarding its true nature."); i.e., with reference to its common property or with reference to its powers. It is directly perceived (at present ) by its result, its effect called a pot, but is inferred as
-
-
 
 existing earlier in an unmanifest form in the state of clay and made manifest through the action of agencies (causes) like a potter, his staff and string. That same pot is now manifest through its manifesting causes like staff, etc., "dharmāntarodaye..."= and disappears when another quality appears."sa eṣa... tyucyate" (This same property) of the subtle elements (is called a [whole](http://# "Coming into being, disappearing, being in a latent state and so on, all make up the object in this system as it believes in 'satkāryavāda'.")).
 
@@ -6883,8 +6302,6 @@ existing earlier in an unmanifest form in the state of clay and made manifest th
 
 अनित्यत्वात्। न ह्यणूनामनित्यत्वं गृह्यते॥
 
-
-
  किंच—दृश्यत्वात्। न ह्यणवो दृश्यन्ते। तथा स्पृश्यत्वाच्च हानाच्चोपादानाच्च धारणाच्चेत्येवमादयः। तेनावयविना व्यवहाराः क्रियन्ते नाणुभिरिति।
 
  Moreover “kriyādharmakaśca". That which has action as a property is “kriyādharmakaḥ". It is said that it (function ) has a result which is accomplished by action. Atoms do not have (any) function (result) which is accomplished by action, as they cannot be used by people like [us](http://# "Atoms are imperceptible."). Moreover results (substances) are impermanent whereas atoms are not so.
@@ -6893,30 +6310,19 @@ existing earlier in an unmanifest form in the state of clay and made manifest th
 
  यस्य पुनः इत्थं प्रमाणसुप्रसिद्धसत्ताकोऽपि अवस्तु \[कः\] अवयवी, स प्रचयविशेषः सूक्ष्मं च कारणमनुपलभ्यं अण्वादि, तस्यावयव्यभावादतद्रूपप्रतिष्ठं मिथ्याज्ञानमिति प्रायेण सर्वमेव विषयज्ञानं प्राप्तं मिथ्याज्ञानम्॥  
 ततः सर्वमेव ज्ञानं शब्दाद्याकारेण सुखाद्याकारेण तद्ज्ञानाकारेण चोपजायते। शब्दादयश्च ज्ञानाकारकरावयवित्वाभिमता नाभ्युपगम्यन्ते। सुखादयोऽपि विषयत्वादवयविपक्षा एव। तथा तज्ज्ञानमेव ज्ञानाकारकरत्वात्स्वरूपमपि मिथ्येति प्राप्तं सर्वमेव मिथ्याज्ञानम्॥  
- 
 
 ततश्च प्रत्यक्षानुमानयोरप्याभासत्वमेव तेनाभ्युपेतं तयोरपि शब्दादिविषयत्वात्॥
 
- 
-
 If such a whole which has an existence well-known through sources of valid knowledge is denied as real because "sa pracayaviśeṣaḥsūkṣmam ca kāraṇamanupalabhyam”=the atoms which are the subtle causes are not perceived then (to him) "tasyāvayavyabhāvādatadrūpapratiṣṭham mithyājñānamiti prāyeṇa sarvameva prāptam mithyājñānam" = all objective knowledge is false. All knowledge whether it is in the form of sound, etc., or in the form of [pleasure](http://# "All external sense-experiences and internal sense-experiences are covered by these two terms.")
 and so on,are obtained in the form of knowledge. Sound and so on,are considered wholes which take on the form of knowledge but are not real.Even pleasure and so on,being objects (of experiences), also belong to the category of wholes. As their knowledge is assumption of the form of knowledge it follows that its nature is false and thus everything is [false](http://# "This is the Vijñānavādin's viewpoint.").
-
- 
 
 And thus the false appearance (falsity) of perception and inference follows from that, as they also have objects like sound and so on.
 
  यदपि सर्वज्ञज्ञानमनित्यदुःखशून्यानात्मकत्वादिविषयं तस्यापि विषयाभावात्तदपि मिथ्याज्ञानं प्राप्तमिति, स्वतन्त्रस्य तीर्थकरस्य चाप्रामाण्यं, तत्र तीर्थकरसहधर्माभावश्चाभ्युपगतो भवति। शब्दादिवत्प्रमाणविषयत्वाविशेषात्॥
 
-
-
 तदेतत्प्रतिपादयति—सम्यग्ज्ञानमपि किं स्याद्विषयाभावात्।यद्यदुपलभ्यते तत्तदवयवित्वेनाघ्रातमिति,ज्ञानस्य स्वाकारसमर्पकत्वाविशेषात्। तच्च स्वाकारसमर्पकं किञ्चन नाभ्युपेयत इति सर्वस्यात्मीयस्य ज्ञानस्य तेन मिथ्यात्वमापादितम्॥
 
- 
-
 And the knowledge of the omniscient one (Buddha) having objects that are impermanent, painful, empty and without any essence is also without any [object](http://# "As there is no outside object different from the mind.");and since
-
-
 
 that has no object that will also be false knowledge; then the words of the free Arhat will be without any authority and thus there will be no connection between the Arhat and his duties (preachings) since the objects of valid knowledge are not different from objects like sound and so [on](http://# "Thus he attacks the Buddhist doctrine.").
 
@@ -6946,8 +6352,6 @@ that has no object that will also be false knowledge; then the words of the free
 
  Answer—Even then there is the defect already mentioned that there is no proof for its existence. Therefore one has to definitely accept a whole as the object of correct (right) knowledge. Thus he says "tasmādastyavayavīyo mahattvā... viṣayībhavatīti".
 
-
-
 **एतयैव सविचारा निर्विचारा च सूक्ष्मविषया व्याख्याता॥४४॥**
 
  By this (above-mentioned deliberative and super-deliberative balanced states) the reflective and super-reflective (balanced states) having subtle objects (as their support) have been explained.
@@ -6970,19 +6374,11 @@ The subtle element is indeed of this nature (and) having become an object of sup
 
 ** ***etayaiva savicārānirvicārā sūkṣmaviṣayā vyākhyātā.* “tatra...vacchinneṣu” = in the subtle elements itself having manifested properties, which are conditioned by an experience of place, time, cause and experience—thus the word conditioned (avacchinna) is connected with each word. All objects, being conditioned by place, etc., and related to the subject, the knower, become fit for worldly experience. With
 
-
-
 reference to such objects the *samāpatti* along with such wrong notions (misapprehensions) like place, etc., is called savicārā. Thus it is established that savicārā is not different from [savitarkā](http://# "In both there are qualifications or wrong attributes associated with the object, one being gross and the other subtle.").
-
-
 
 कथम्? इहाप्यध्यासाविशेषात्। अयन्तु विशेषः शब्दसङ्केतार्थज्ञानदेशादिसर्वाध्यासाः सवितर्कायाम्॥
 
- 
-
 इह पुनस्तन्मात्रसूक्ष्मधर्मेषु शब्दसङ्केतस्याप्रसिद्धत्वाद्विशिष्टनामसङ्केतज्ञानानध्यासः देशाद्यध्यासश्च सूक्ष्मविषयत्वञ्चेति सवितर्काविशेषत्वसिद्धिः॥
-
-
 
 तत्राप्येकबुद्धिनिर्ग्राह्यमेवोदितधर्मविशिष्टं उक्तदेशादिधर्मविशिष्टमुद्भूतधर्मविशिष्टं वा भूतसूक्ष्ममालम्बनीभूतं न तु निर्विषयं ज्ञानमेव समाधिप्रज्ञायामुपतिष्ठते।
 
@@ -6998,8 +6394,6 @@ In this case, as verbal convention is not known with reference to subtle element
 
 “tatrā...tiṣṭhate" = (the subtle object which is a support of savicārā) is qualified by the said characteristic of place, etc., or qualified by some manifest characteristic: it is not bare knowledge without any object that "samādhiprajñāyāmupatiṣṭhate" (is present in the samādhi insight).
 
-
-
 यदा पुनः सर्वथा सर्वप्रकारेण सर्वतः सर्वत्र शान्ताश्चोदिताश्चाव्यपदेश्याश्च ये धर्मास्ते शान्तोदिताव्यपदेश्यधर्माः तैः अनवच्छिन्नेषु। शान्त इति यो व्यापारं कृत्वोपरतो धर्मः। उदित इति यो व्यापारमारूढः।अव्यपदेश्य इति न शान्तो नाप्युदितः नाप्युद्भावयदृश्यमाननिमित्तः।तद्यथा—सुवर्णस्यादृष्टानेकाश्रुताकारोपजनशक्तयस्ता अव्यपदेश्या धर्माः। तैरनवच्छिन्नेषु भूतसूक्ष्मेषु सर्वधर्मानुपातिषु सर्वान्धर्माननुपतन्ति तानि सूक्ष्माणि सर्वविशेषारम्भकत्वात्। सर्वात्मकेषु सर्वेभ्यो विषयेभ्योऽनन्यत्वात्तन्मात्राणाम्। तत्र या समापत्तिः सा निर्विचारेति। निर्वितर्काया यल्लक्षणं तत्सर्वमिह निर्विचारायां द्रष्टव्यम्॥
 
 ** **
@@ -7010,15 +6404,9 @@ In this case, as verbal convention is not known with reference to subtle element
 
 The subtle elements are not conditioned by those. “sarvadharmānupātiṣu"=they correspond to all attributes, as the subtle elements are the source of all qualities. But both are basically wrong notions of the object.
 
-
-
 “[sarvātmakeṣu](http://# "VBh. has 'sarvadharmātmakeṣu' whereas Vivaraṇa has sarvātmakeṣu'. ")"= as the subtle elements are not different from all [objects](http://# "The basis of all objects.").The ‘samāpatti’ in such an object is nirvicārā. Whatever is the characteristic of 'nirvitarkā' all that is seen here in '[nirvicārā](http://# "The comparison is based on being unconditioned by any properties even though the object of samāpatti is different in nirvitarkā and nirvicārā. ")'.
 
-
-
 तद्दर्शयति—एवंस्वरूपं हि तद्भूतसूक्ष्ममनेनैव स्वरूपेण देशकालनिमित्तानुभवादिविशेषविरहितेन सर्वात्मकेन सर्वधर्मानुपातिना आलम्बनीभूतमेव समाधिप्रज्ञामुपरञ्जयति॥
-
- 
 
 प्रज्ञा च स्वरूपशून्येवार्थमात्रा यदा भवति तदा निर्विचारा।तस्मिन्निर्वितर्काविशेषा निर्विचारा।तत्स्वयमेव दर्शयति— महद्वस्तुविषया। महतः वस्तु महद्वस्त्विति समासः राहुशिर इति यथा।तद्विषयो यस्याः सा महद्वस्तुविषया सवितर्का निर्वितर्का च सूक्ष्मवस्तुविषया सविचारा निर्विचारा चेति॥
 
@@ -7029,8 +6417,6 @@ He indicates that (through the words) "evamsvarūpam...[muparañjayati](http://#
 ** **
 
 "prajñā ca...nirvicārā” = in that state ‘nirvicārā' is distinguished from 'nirvitarkā'. He indicates that himself (through the words) “mahadvastuviṣayā” and so on. The compound “mahadvastu" is dissolved as 'that object of magnitude is the object having magnitude' similar to the 'the head of Rāhu'. That which has that as an object is "mahadvastuviṣayā savitarkā....[nirvicārā ceti](http://# "VBh. ends with 'ca' whereas Vivaraṇa has 'ceti'. Nirvitarkā has an object with magnitude as support while 'nirvicārā has a subtle element as support.")".
-
-
 
 एतयैव सवितर्कनिर्वितर्काख्यया द्वय्या समापत्त्या सविचारा निर्विचारा च समापत्तिर्द्वयी व्याख्याता।उभयोरिति सवितर्कनिर्वितर्कयोर्मध्ये एतयैव निर्वितर्कया वितर्कहानिर्व्याख्याता निर्विचारा व्याख्यातेति।सविचारा चार्थात्सवितर्कया व्याख्याता लक्षणस्योभयत्र समानत्वात्।उक्तश्च विशेषः॥४४॥
 
@@ -7044,47 +6430,25 @@ By these two samāpattis called 'savitarkā' and 'nirvitarkā' the two samāpatt
 
 The subtle object extends upto the 'aliṅga' (prakṛti).
 
-
-
 पार्थिवस्याणोर्गन्धतन्मात्रं सूक्ष्मो विषयः।आप्यस्य रसतन्मात्रम्।तैजसस्य रूपतन्मात्रम्।वायवीयस्य स्पर्शतन्मात्रम्।आकाशस्य शब्दतन्मात्रमिति। तेषामहङ्कारः।अस्यापि लिङ्गमात्रं सूक्ष्मो विषयः।लिङ्गमात्रस्याप्यलिङ्गं सूक्ष्मो विषयः।न चालिङ्गात्परं सूक्ष्ममस्ति।
-
-
-
-
 
 नन्वस्ति पुरुषः सूक्ष्म इति–सत्यम्–यथा लिङ्गात्परमलिङ्गस्य सौक्ष्म्यं, नचैवं पुरुषस्य।किन्तु, लिङ्गस्यान्वयकारणं पुरुषो न भवति, हेतुस्तु भवतीति। अतः प्रधाने सौक्ष्म्यं निरतिशयं व्याख्यातम्॥४५॥
 
- 
-
 Of the atom of earth the subtle object (of the reflective and super-reflective states) is the subtle element of odour (as being the cause of the earth atom). Of (the atom of) water (it is) the subtle element of taste. Of (the atom of fire) it is the subtle element of colour. Of (the atom of) air (it is) the subtle element of touch. Of (the atom of) ether it is the subtle element of sound. Of these (subtle elements) it is the 'sense of I'. Of this also, the 'liṅga' (mahat) alone is the subtle object (of the reflective and super-reflective states). Of the mere 'liṅga' also the 'aliṅga'(prakṛti) is the subtle object. There is no (other) subtle object beyond 'prakṛti'.
 
- 
-
 It may be said that there is the subtle 'puruṣa'; the reply is that this is true. (But) the subtlety of ‘alinga' (which is) beyond the 'linga' does not similarly belong to 'puruṣa'. However, ‘puruṣa' is not the material cause (anvayīkāraṇam) of the 'liṅga' but is the instrumental cause (hetu). Therefore the subtlety in ‘prakṛti' has been explained as being unexcelled.
-
- 
 
 सविचारा निर्विचारा च समापत्तिः सूक्ष्मविषयेत्युक्तम्। तत्प्रसङ्गेनेदं चिन्त्यते—कि (मसमानं) मवसानं सूक्ष्मविषयत्वमिति। सूक्ष्मविषयत्वञ्चालिङ्गपर्यवसानम्। पार्थिवस्याणोर्गन्धमात्रस्वरूपमात्रतेति पृथिवीसमीक्षया सूक्ष्मो विषयः॥
 
  गन्धमात्रस्वरूपमात्रस्यापि लिङ्गमात्रं महत्तत्वं सूक्ष्मो विषयः।ततो लिङ्गमात्रान्महतो निर्वृत्तानि सहाहङ्कारेण तन्मात्राणि लयं गच्छन्तीति लिङ्गं,लयाद्वा प्रधानाल्लिङ्गात्प्रत्यागच्छन्तीति लिङ्गं तद्विपरीतमलिङ्गं प्रधानं न लयं गच्छति,नाप्यन्यतः कुतश्चित् लयादागच्छति। लिङ्गमात्रस्यालिङ्गं सूक्ष्मो विषयः॥
 
- 
-
 न चालिङ्गात्परं सूक्ष्ममस्ति।सूक्ष्मं नाम स्थूलकार्यापेक्षया कारणं,तच्चालिङ्गावसानम्।न चालिङ्गात् प्रधाना(ल्लिङ्गा)दन्यत्सूक्ष्मं कारणमस्ति।
-
- 
 
 It is mentioned that 'savicārā' and 'nirvicārā' samāpattis are concerned with subtle-objects. In that context, the limit of subtlety is considered (through the sūtra) *sūkṣmaviṣayatvañcālingaparyavasānam.* In connection with earth the subtle object is only of the nature of the essence of smell of the atom of [earth](http://# "VBh. has 'pārthivasyāṇorgandhatanmātram' whereas Vivaraṇa has 'gandhamātra' which is not correct as it is referring to the subtle element of smell."). Even its nature as essence of smell has only the [liṅga](http://# "Liṅgamātram is not found in VBh. at all."),the essence of mahat as the subtle object.
 
- 
-
 It is called liṅga because (1) the subtle elements which come out of mahat which is liṅga alone, get absorbed in it along with ahaṁkāra (ego) or (2) after absorption they come out of the liṅga from [pradhāna](http://# "Pradhāna is aliṅga but liṅga comes out of pradhāna therefore it is mentioned here along with liṅga.").The opposite of that is aliṅga, pradhāna, which does not get absorbed nor does it come out of something else after absorption. "lingamātrasya...viṣayaḥ" = (of the mere liṅga also aliṅga is the subtle object).
 
- 
-
 There is no other subtle object beyond prakṛti.Subtlety is that which is the cause with reference to a gross object and that reaches its limit in aliṅga. There is no other subtle cause beyond pradhāna, the aliṅga "[nanu puruṣa iti](http://# "VBh. has ‘nanvasti' whereas Vivaraṇa has 'nanu puruṣa'.")".
-
-
 
 ** **
 
@@ -7094,15 +6458,11 @@ There is no other subtle object beyond prakṛti.Subtlety is that which is the c
 
 Objection—But then, surely purusa comes at the limit in the order of subtle causes?
 
- 
-
 Answer—There is no defect here. Some people accept puruṣa also as a cause; it is with such a doubt that it is mentioned "nanu puruṣa” and so on.The subtlety of aliṅga is due to its being of the nature of [aliṅga](http://# "It does not come into existence and so is not an effect, whereas all the others come into being and are thus effects.").How is this [so](http://# "Puruṣa does not give rise to mahat but prakṛti does.")?Because the cause of liṅga is aliṅga. The rule is that whatever is the natural (material) cause of something else is subtle with reference to the latter.
 
 ** **
 
 Objection—But then, puruṣa is also of the nature of aliṅga.
-
- 
 
 Answer–Quite right, but purṣua is not subtle with reference to [liṅga](http://# "If objects have consciousness or if puruṣa is an effect, puruṣa can be an object of experience.").How is that? Because puruṣa is not the natural (material) cause of linga though he is of the nature of aliṅga. This is because an effect has no correlation with consciousness.
 
@@ -7120,15 +6480,11 @@ Moreover, there will be the danger of puruṣa being experienced (in such a situ
 
 All these (are) concentration (s) having seed(s).
 
- 
-
 ताश्चतस्त्रः समापत्तयः बहिर्वस्तुबीजा इति समाधिरपि सबीजः।तत्र स्थूलेऽर्थॆसवितर्कोनिर्वितर्कः,सूक्ष्मेऽर्थॆसविचारो निर्विचारः, इति चतुर्धापसंख्यातः समाधिरिति॥४६॥
 
 ** **
 
 These four balanced-states have outside objects as their seeds, so the concentration also is (said to be) with seed. Amongst these that (balanced-state directed) towards a gross object is deliberative (and) super-deliberative; that balanced-state directed towards a subtle object is reflective and super-reflective. (In this way) that concentration has been explained as of four kinds.
-
-
 
 ** **
 
@@ -7147,7 +6503,6 @@ On attaining clarity (vaiśāradya) of the super-reflective state there is purit
 ** **
 
 अशुद्ध्यावरणमलापेतस्य प्रकाशात्मनो बुद्धिसत्वस्य रजस्तमोभ्यामनभिभूतः स्वच्छः स्थितिप्रवाहो वैशारद्यम्। यदा निर्विचारस्य समाधेः वैशारद्यमिदं जायते, तदा योगिनो भवत्यध्यात्मप्रसादो भूतार्थविषयः क्रमानुरोधी स्फुटः प्रज्ञाऽऽलोकः।  
- 
 
 तथा चोक्तम्—
 
@@ -7172,8 +6527,6 @@ Thus it is said :—Just as a person on top of a mountain looks at those on the 
 प्रज्ञाप्रासादमारुह्य न शोच्यरशोचतो जनान्।  
 भूमिष्ठानिव शैलस्थः सर्वान्प्राज्ञोऽनुपश्यति॥इति॥४७॥
 
-
-
  *nirvicāravaiśāradye'dhyātmaprasādaḥ.* "aśuddhyāvaraṇamalāpetasya" = impurity itself is the covering, it is the dirt consisting of afflictions,etc., free from that."prakāśātmanaḥ...[tmaprasādaḥ](http://# "Nothing new is added in the Vivaraṇa and the bhāṣya is repeated.")" (adhyātmaprasādaḥ) i.e., discriminate knowledge regarding the self, [etc](http://# "Knowledge of the distinction between the self and sattva-intellect.").The explanation of this is (through the words) "bhūtārthaviṣayaḥ [kramānurodhī sphuṭaḥ prajñālokaḥ](http://# "Both Vācaspati Miśra and Vijñānabhikṣu have ‘kramānanurodhī' instead of 'kramānurodhi'.The bhāṣya has 'sphuṭaḥ' while the Vivaraṇa uses sphuṭam. If it qualifies 'prajñālokaḥ' it is grammatically incorrect.")"i.e., gradually, till such time as the afflictions are totally obstructed the flash that is insight follows a course of getting clearer (and clearer); and by that, one knows the object as it truly is.
 
  Thus it is said—Just as a person on top of a mountain looks at those on the surface of the earth, the discerning (yogī) free from pain... sees all others as [suffering](http://# "The bhāṣya has 'aśocyaḥ' whereas the Vivaraṇa has 'na śocyaḥ'. No further explanation is also added by the Vivaraṇakāra.").
@@ -7193,8 +6546,6 @@ Thus it is said :—Just as a person on top of a mountain looks at those on the 
  ऋतंभरा तत्र प्रज्ञा। तस्मिन् प्रज्ञालोकेऽध्यात्मप्रसादे समाहितस्य या प्रज्ञा जायते विवेकजन्मा, तस्या विवेकजन्मनः ऋतम्भरेति संज्ञा भवति। अन्वर्थैव सा सत्यमेव बिभर्ति न तत्र विपर्यासज्ञानगन्धोऽप्यस्ति। प्रक्षीणसकलविपर्यासकल्मषस्य हि जायते। जायमाना च विषयकलङ्कमपनुदति॥
 
  *ṛtaṃbharātatra prajñā.* "tasmin" = in the light of insight, in the discriminate knowledge regarding the self, "samāhitasya yā prajñā jāyate"= the discernment (in one who has attained stability in that nirvicāra state) "tasya" = that discernment (is called ṛta*ṃ*bharā). "anvarthaiva... [pyasti](http://# "VBh. has 'anvarthā ca sā' whereas Vivaraṇa has 'anvarthaiva sā'. Instead of 'na ca tatra' in the bhāṣya the Vivaraṇa has 'na tatra'. There is an additional 'iti' in the bhāṣya, which is missing in the Vivaraṇa.")".It appears in one in whom the taint of error is completely removed; and having appeared it destroys the impurities
-
-
 
 ** **
 
@@ -7245,8 +6596,6 @@ Has a different object from that of the intelligence arising from the scriptures
 
 The knowledge which arises from the scriptures, which is heard, deals with generic objects. It is not possible to indicate a particular through the testimony of the scriptures.Why is it so? (Because) the scriptures (śabda) do not have the convention (of the relationship between a word and its meaning) established, keeping the particular (in mind). Similarly, (knowledge based on) inference, also deals with only generic objects. As, for instance, where there is reaching some place there is motion' and 'where
 
-
-
 there is no reaching some place there is no motion'. And through inference there is conclusion in general terms (only).Therefore the object of (the knowledge of) the scriptural word and inference is not any particular.
 
  And there is no grasping of this subtle, hidden, far-away object through ordinary perception. (It should not be argued) that this particular, which is not the object of any source of valid knowledge, does not exist. That particular, whether it refers to a subtle element or to the puruṣa, is to be grasped by the discernment of 'samādhi' only. Therefore, that discernment (ṛtaṃbharā) has a different object from that of the intelligence arising from the scriptures and from inference, because it has a particular as its object.
@@ -7265,8 +6614,6 @@ there is no reaching some place there is no motion'. And through inference there
 
  Answer—He then says (in reply) “na cāsya" and so on. Anything that exists has a form that can be known through proofs; it ascends on the king's [path](http://# "A way of saying that it surely exists without any doubt.").
 Therefore
-
-
 
 "samādhi....[vā](http://# "The attention to detail in following the text as it is, is missing in the Vivaraṇa as pointed out on many occasions. Here also the “sa” before ")”(that particular, whether it refers to a subtle element or to the puruṣa, is to be grasped by the discernment of samādhi only).
 
@@ -7290,8 +6637,6 @@ Therefore
 
  समाधिप्रज्ञाप्रभवः संस्कारो व्युत्थानसंस्काराशयं बाधते।व्युत्थानसंस्काराभिभवात् तत्प्रभवाः प्रत्यया न भवन्ति।प्रत्ययनिरोधे समाधिरुपतिष्ठते। ततः समाधिजा प्रज्ञा,ततः प्रज्ञाकृताः संस्काराः इति,नवो नवः संस्काराशयो जायते। ततश्च प्रज्ञा,ततश्च संस्कारा इति। कथमसौ संस्काराशयश्चित्तं साधिकारं न करिष्यतीति?न ते प्रज्ञाकृताः संस्काराः क्लेशक्षयहेतुत्वात् चित्तमधिकारविशिष्टं कुर्वन्ति। चित्तं हि ते स्वकार्यादवसादयन्ति। ख्यातिपर्यवसानं हि चित्तचेष्टितमिति॥५०॥
 
-
-
  The subliminal-impression arising from the discernment of 'samādhi' obstructs the (unwakened) deposit of the subliminal-impressions of activity. When the sub-liminal-impressions of activity are overcome there are no ideas (modifications) which arise from them. When the ideas are restricted 'samādhi' follows. Then (comes) discernment born of 'samādhi', then the subliminal-impressions created by discernment; thus are born again and again deposits of subliminal-impressions. Thus from (samādhi) discernment (comes into being) and from that the subliminal-impressions (of samādhi).
 
  Question—How is that this deposit of subliminal-impressions do not make the mind equipped with power (to come back to activity)?
@@ -7302,14 +6647,11 @@ Therefore
 
  "samādhi...[jāyate](http://# "Bhāṣya introduction to YS, I.50.")"it is established that insight (knowledge) gives rise to subliminal-impressions. Insight being new gives rise to strong subliminal-impressions—this is its special [characteristic](http://# "Ordinarily a new event creates a strong impression; the same principle is mentioned here."). The novelty of (this) knowledge (insight) is because its object is [different](http://# "Different from ordinary objects.").
 
-
 [*tajjassaṃskāro'nyasaṃskārapratibandhī*](http://# "The sūtra has 'tajja' whereas the Vivaraṇa makes the sandhi and has 'tajjas . . .'. "); the subliminal-impression arising from ṛtaṃbharā obstructs the other (unawakened deposit of the subliminal-impressions of activity)-it obstructs because it arises from a special true object. “saṃskārāśayaḥ" is so-called as it lies there upto the time it is liberated.
 
  व्युत्थानसंस्काराभिभवात् व्युत्थानसंस्काराशयस्य समाधिप्रज्ञासंस्कारेणाभिभवात् तत्प्रभवाः व्युत्थानसंस्कारप्रभवाः प्रत्यया न भवन्ति। प्रत्ययनिरोधे व्युत्थानप्रत्ययनिरोधे समाधिः सम्प्रज्ञात इव उपतिष्ठते। ततः समाधिजा प्रज्ञा, ततः प्रज्ञाकृताः संस्कारा इति, एवं नवः संस्काराशयो वर्धते। ततश्च प्रज्ञा ततश्च संस्कारा इति॥
 
  "vyutthānasaṃskārābhibhavāt"= because the deposit of the subliminal-impressions of activity are overcome by the subliminal-impressions of the samadhi-insight; "tatprabhavāḥ" = those (the ideas) arising from the subliminal-impressions of activity (are not there). And "pratyayanirodhe" = when the ideas of activity are restricted, "samādhiḥ upatiṣṭhate" = what follows is samprajñāta, as it [were](http://# "The use of 'iva' is not clear. Perhaps he means that in fact it is something more, as it is prajñā alone or a state of deep insight. In samprajñāta there is still knowledge of an object but here the emphasis is on the state of prajñā and not on the object of knowledge.").Then (comes prajñā born of samādhi and then subliminal-impressions created by prajñā). In this manner,
-
-
 
 the newer and newer (deposit of saṃskāra) grows. From that there is again prajñā and again from it (prajñā) saṃskāras.
 
@@ -7344,8 +6686,6 @@ How is that?
 
  One in whom thirst has disappeared has no desire to drink anything. Similarly it is only up to achieving this (knowledge of puruṣa) that puruṣa has work to be done by the mind. No one desires that which is done as something to be [done](http://# "The idea seems to be that once the task is done no one considers it as something to be done again. Thus 'puruṣa-knowledge' having dawned it is not something which will have to occur again. And so the mind has accomplished its task and has nothing further to do.").
 
-
-
  किं चास्य भवति—
 
  Moreover what else does he gain?
@@ -7374,9 +6714,9 @@ How is that?
 
  स न केवलं ऋतम्भरप्रज्ञाजनितसंस्कारः समाधिप्रज्ञानिरोधी,यथैव तां समाधिप्रज्ञामृतम्भरां निरुणद्धि,तथैवात्मना सहात्मसजातीयानां स्वकारणप्रज्ञाकृतानां संस्काराणामपि प्रतिबन्धी निरोधाद्भवति॥
 
+ "kiñca...[^1269]" *tasyāpi nirodhe [sarvanirodhānnirbījasamādhiriti](http://# "There is no 'iti' in the sutra in the available readings. But the Vivaraṇa has an 'iti' at the end of the sūtra.")*.The word iti indicates the [end](http://# "Does it indicate the end of the pāda or the end of the practice? It probably indicates the end of the practice according to the Vivaraṇakāra.").
 
-
- "[kiñca...](http://॑# "The introduction to sūtra I.51.")" *tasyāpi nirodhe [sarvanirodhānnirbījasamādhiriti](http://# "There is no 'iti' in the sutra in the available readings. But the Vivaraṇa has an 'iti' at the end of the sūtra.")*.The word iti indicates the [end](http://# "Does it indicate the end of the pāda or the end of the practice? It probably indicates the end of the practice according to the Vivaraṇakāra.").
+[^1269]: "The introduction to sūtra I.51."
 
 * tasyāpi nirodhe* = when the newer and newer subliminal-impressions which arise from samādhi-prajñā (are restricted); the word *api* means when even that samadhi-prajñā which is the cause of the subliminal-impressions is restricted then there is sarvanirodhaḥ = (restriction of all). The twofold means of restriction called superior-detachment and 'practice of cessation of modifications' has already been [mentioned](http://# "YS, 1.18.").
 
@@ -7398,8 +6738,6 @@ the existence of nirodha, its time, and the experience of that time by successiv
 
  व्युत्थाननिरोधसमाधिप्रभवैः व्युत्थानसमाधिप्रभवैः निरोधसमाधिप्रभवैश्च सह कैवल्यभागीयैः संस्कारैश्चित्तं
 
-
-
 अवसिताधिकारत्वात् स्वस्यां प्रकृतौ स्वकारणेऽस्मितायामहङ्कारे प्रविलीयते प्रत्यस्तमेति। तस्मात्ते ख्यातिनिरोधजन्मानः संस्कारा यस्मात् चित्तस्याधिकारविरोधिनः न स्थितिहेतवो भवन्तीति॥
 
  यस्मादवसिताधिकारं सह कैवल्यभागीयैः संस्कारैश्चित्तं यं पुरुषं प्रति चरितप्रयोजनं तस्मात् निवर्तते तस्मिन्विनिवृत्ते पुरुषः स्वरूपमात्रप्रतिष्ठः केवलो मुक्त इत्युच्यते, चित्तवृत्तिनिवृत्तिरेव मुक्तिः इति॥५१॥
@@ -7408,12 +6746,9 @@ the existence of nirodha, its time, and the experience of that time by successiv
 
  "vyutthānanirodha... [bhavantīti](http://# "There is no 'bhavanti' in the bhāṣya but it is there in the Vivaraṇa.")". As the mind, along with the subliminal-impressions born of samādhi which restricts activity and the subliminal-impressions born of restraint along with the subliminal-impressions which lead one to liberation, has lost its power (for bondage) it is dissolved in its cause ahamkāra i.e., [asmitā](http://# "Asmitā is what is meant here and not the sense-of-ego denoted by ahaṃkāra.").Hence those subliminal-impressions brought about by restriction of knowledge (prajñā) being the opposers of the power of the mind (for bondage) are not the causes for existence.
 
-
 "yasmādavasitādhikāram...[ityucyate](http://# "All available readings have 'vinivartate' whereas the Vivaraṇa has 'vivartate'. The Vivaraṇakāra omits the words atah śuddhaḥ' while quoting the bhāṣya.")". The mind then turns away from that purusa whose purpose (of release) has been achieved. And release (liberation) is only the cessation of modifications of the mind.
 
  Thus this is the first chapter, the Samādhipāda,in the Vivaraṇa of the *Pātañjalayogasūtrabhāṣya* written by Śrī Śaṅkarabhagav*ā*n the Paramahaṃsasannyāsin,who is the disciple of Śrī Govindabhagavatpūjyapāda.
-
-
 
 **साधनपादः**
 
@@ -7447,8 +6782,6 @@ the existence of nirodha, its time, and the experience of that time by successiv
  तथा, समाधिः प्राधान्येनादावुपाख्यात इति प्रथमः समाधिपाद इत्युच्यते॥
 
  Now then is begun the second chapter (called the) Sādhanapādaḥ.The means to kaivalya is correct knowledge. The aids (means) to yoga are only the means to correct (right) knowledge through yoga. And they are importantly dealt with (explained) in
-
-
 
 this chapter; therefore this chapter is known as Sādhanapādaḥ.
 
@@ -7498,8 +6831,6 @@ That is not so; where the niyamas are mentioned this result is also [mentioned](
 
 Then is it for the sake of weakening of the afflictions?
 
-
-
  Answer—
 
 It is not so,as that is also mentioned there itself asyogāṅga.....*[kṣaye](http://# "YS, II.28.").aśuddhiḥ* are the afflictions,etc. The practice of devotion as samādhi also comes under the practice of the means to yoga.Thus the sūtra samādhi... nāt.
@@ -7545,9 +6876,9 @@ That is not so; true insight alone is directly opposed to afflictions and so on.
 
  When it (tapaḥ, etc.) is mentioned (discussed) at the beginning of the chapter its
 
+being a means to right vision is indicated; its connection with the first chapter is also explained[^1270]as 'yoga achieved by one who has a steadied mind has been mentioned; and how can even one whose mind is restless, who is following the means (of yoga) like austerity, etc., achieve yoga.' Moreover, it will be shown how austerity, etc., have the purpose of bringing about samadhi and weakening the [afflictions](http://# "YS, II.2.").
 
-
-being a means to right vision is indicated; its connection with the first chapter is also [explained](http://॑# "Explained by Vyāsa in the introduction to YS, 11.1.")as 'yoga achieved by one who has a steadied mind has been mentioned; and how can even one whose mind is restless, who is following the means (of yoga) like austerity, etc., achieve yoga.' Moreover, it will be shown how austerity, etc., have the purpose of bringing about samadhi and weakening the [afflictions](http://# "YS, II.2.").
+[^1270]: "Explained by Vyāsa in the introduction to YS, 11.1."
 
  ननु परस्तादेवैतद्वक्ष्यति— “समाधिसिद्धिरीश्वरप्रणिधानात् कायेन्द्रियसिद्धिरशुद्धिक्षयात्तपसः” इत्येवम्। प्रत्येकसाधनानां सिद्धिं च वक्ष्यति॥
 
@@ -7565,8 +6896,6 @@ being a means to right vision is indicated; its connection with the first chapte
 
  Tapaḥ = fasts like kṛcchra and cāndrāyaṇa, and enduring the opposites like heat and [cold](http://# "These are very difficult austerities."). Svādhyāyaḥ = the constant recitation of the syllable Oṃand the sacred scriptural texts that deal with liberation beginning with the Upaniṣads, etc., Īśvarapraṇidhāna = the surrender of all deeds (action) to Īśvara the supreme teacher;
 
-
-
 or the renunciation of their fruit (result), i.e., the reunciation with references to [Īśvara](http://# "The Gītāconcept of renunciation of the fruit of action, or the dedication of all one's actions to Īśvara. The former is karma-yoga while the latter is bhakti-yoga.").
 
  कथं पुनश्चित्तसमाधानं प्रति विप्रकृष्टस्य कायक्केशादिरूपस्य तपसो योगत्वम्? स्वाध्यायेश्वरप्रणिधानयोस्तु युक्तमन्तरङ्गत्वाद्योगत्वमिति, तदर्थमाह—नातपस्विनो योगः सिध्यतीति॥
@@ -7578,8 +6907,6 @@ or the renunciation of their fruit (result), i.e., the reunciation with referenc
  Question—How can austerity which is different of the nature of causing pain to the body have the capacity to achieve yoga through steadying the mind? As far as the study of the scriptures and devotion to Īśvara are concerned they have the capacity towards yoga because of their internal nature. It is therefore said "nātapa... dhyati" (a man without practice of austerity cannot achieve yoga). One who looks upon the body, etc., as the self, as very delicate, having his mind inclined towards protecting the body, etc., (and) engaged in averting pain to the body, sense-organs and mind cannot achieve yoga-therefore there is the inclusion of austerity.
 
  Moreover, "[anādi... trā](http://# "The bhāṣya reading is “anādikarmakleśavāsanācitrā” whereas the Vivaranakāra has "anādivāsanācitra". ")"= (the mind) is coloured by the collection through begnningless time, of latent-impressions of acquisition of knowledge of sense-objects.So also "pratyu ... jālā" = it is entrapped in the net of sense-objects which are present; therefore, through the net in the form of the present sense-objects the mind is trapped like the fish; when that net of sense-objects is present "nāntareṇa... upādānam" without self-restraint it cannot be destroyed; how can that mind whose impurity has not been destroyed achieve samādhi—therefore, in order to get rid of that “tapasa aupādānam" (self-discipline is mentioned). "tacca....[manyante](http://# "The bhāṣya has “manyate" but the Vivaraṇakāra has "manyante".")", i.e., different [yogas](http://# "It appears that the Vivaraṇakāra is talking about different types of yogas all aimed at purifying the mind. Or he is indicating each one of the limbs like yama, niyama, etc., as yoga, which would not be technically correct as only samādhi (the last), is considered to be yoga or the aṇgī whereas the others are aṇgas.")including samādhi (are to be practised for that purification, it is believed). Since it is aimed at the clarity ( purity) of the mind, if austerity (self-discipline) obstructs that, then it will destroy its own purpose.
-
-
 
  स हि क्रियायोगः—
 
@@ -7605,7 +6932,9 @@ or the renunciation of their fruit (result), i.e., the reunciation with referenc
 
 तनूकृतान्क्लेशान्प्रसंख्यानेन क्लेशतनूकरणात् सञ्जातसम्यग्दर्शनशीलनेन,दग्धबीजकल्पान् बीजानीव दग्धप्रसवशक्तीन्,अत एव अप्रसवधर्मिणः अविद्यमानः प्रसवो येषां ते अप्रसवाः,अप्रसवाश्च ते धर्मिणश्चेत्यप्रसवधर्मिणः,(सर्वबीजादिषु वा द्रष्टव्यम्) तानप्रसवधर्मिणः करिष्यति प्रसवशक्तिरहितान् करिष्यति॥
 
- “sa hi kriyāyogaḥWith the idea of clarifying the purpose of kriyāyoga (and) to indicate its achievement of the purpose of [another](http://॑# "kriyāyoga is to achieve samādhi for puruṣa.")he says *samādhibhāvanārthaḥ kleśatanūkaraṇārthaśca.*
+ “sa hi kriyāyogaḥWith the idea of clarifying the purpose of kriyāyoga (and) to indicate its achievement of the purpose of another[^1271]he says *samādhibhāvanārthaḥ kleśatanūkaraṇārthaśca.*
+
+[^1271]: "kriyāyoga is to achieve samādhi for puruṣa."
 
  Question—
 
@@ -7616,8 +6945,6 @@ How does it have this twin purpose?
 "sa hi...tanūkaroti", i.e., combined with other means to yoga it brings about sam*ā*dhi (and weakens the[afflictions](http://# "The Vivaraṇakāra has different readings. Instead of “pratanūkaroti")).He will later sayyogāngānuṣṭhānād...[vivekakhyāteḥ.](http://# "YS, II.28.")
 
  Thus he says "[tanūkṛtān....kariṣyati](http://# "Again the Vivaraṇakāra has ")”, i.e., because of the weakening of the afflictions due to repeated practice of right (correct) knowledge (insight) which arises, they (afflictions) are like seeds which have their potency to sprout burnt; therefore they are “aprasavadharmiṇaḥ” they who do not have any birth; are ones without birth; not giving birth and having this nature (is what is denoted by) “aprasavadharmiṇaḥ";
-
-
 
 therefore kriyāyoga will make them "aprasavadharmiṇaḥ" = devoid of the power to give rise to any birth.
 
@@ -7645,8 +6972,6 @@ therefore kriyāyoga will make them "aprasavadharmiṇaḥ" = devoid of the powe
 
   यथा प्रमाणविपर्ययविकल्पादयः परस्परभिन्नाः, न तथा क्लेशानां विपर्ययाद्भेदः। किन्तर्हि? विपर्ययस्यैवैते भेदा इति। कस्मात्? विपर्ययभावभावित्वादित्येतदाह—पञ्च विपर्यया इत्यर्थः॥
 
-
-
  “[ke...iti](http://# "The bhāśya has an additional ")”= Now what is the nature (of the kleśas) and how many ( are they)? In order to indicate the nature and number (of the kleśas) he composes the (following) sūtra *avidyāsmitārāgadveṣābhiniveśāḥ kleśāḥ.*
 
 * *The definition of each one of these will be explained later on through (different) sūtras; therefore no attempt is made to give an explanation (right now); only this much (what follows) will be explained.
@@ -7667,13 +6992,13 @@ therefore kriyāyoga will make them "aprasavadharmiṇaḥ" = devoid of the powe
 
  तस्माच्चावृत्तित्वाद्वृत्तिभेदत्वेन न तत्र क्लेशा व्याख्याताः। तथा चोक्तम्—“चित्तमलप्रसङ्गेनाभिधायिष्यन्ते” इति क्लेशानां न वृत्तित्वं, मलत्वमेवेत्यभिप्रायेण। अभेदोपचारेण तु प्रत्ययेन सामानाधिकरण्यं, यथा धूमो मलैरग्निं गर्भादशान्तवृत्तास्तथा ज्ञानमेतेनेति, (?) तथैवात्रापि॥
 
-
-
  Question—If misapprehension is only a thought then just as the yogīhas thoughts (like) memory and correct knowledge even when the afflictions are restricted, similarly misapprehension can also happen.
 
  Answer—Misapprehension does not occur when the afflictions are weakened. Therefore, as in the case of the eye, misapprehension is the dirt which causes knowledge to grasp what is false.
 
- Again it (misapprehension) cannot be understood nor explained without recourse to thought. Therefore it is explained through a thought process as 'viparyayo[vṛttiḥ](http://॑# "The Vivaraṇakāra has a different reading of the bhāṣya; ")'.Thus the modifications are qualified by afflictions as "[kliṣṭākliṣṭāśceti](http://# "These words do not occur either in the sūtra 1.6. or in the enunciation to it. The Vivaraṇakāra just takes viparyaya from the sutra and vṛtti from the bhāṣya and states it here.")”.It is not logical to qualify modifications (of the mind) through modifications (of the mind) [themselves](http://# "In the introduction to YS, 1.6.").[There](http://# "That will lead to a logical fallacy, a kartṛkarmavirodha, where the qualifier itself becomes the qualified.") they are explained as caused by afflictions. And it is not logical to state that modifications (of the mind) are caused by modifications (of the mind).
+ Again it (misapprehension) cannot be understood nor explained without recourse to thought. Therefore it is explained through a thought process as 'viparyayovṛttiḥ[^1272]'.Thus the modifications are qualified by afflictions as "[kliṣṭākliṣṭāśceti](http://# "These words do not occur either in the sūtra 1.6. or in the enunciation to it. The Vivaraṇakāra just takes viparyaya from the sutra and vṛtti from the bhāṣya and states it here.")”.It is not logical to qualify modifications (of the mind) through modifications (of the mind) [themselves](http://# "In the introduction to YS, 1.6.").[There](http://# "That will lead to a logical fallacy, a kartṛkarmavirodha, where the qualifier itself becomes the qualified.") they are explained as caused by afflictions. And it is not logical to state that modifications (of the mind) are caused by modifications (of the mind).
+
+[^1272]: "The Vivaraṇakāra has a different reading of the bhāṣya; "
 
  Because of (all these reasons) not being a modification (of the mind) and being different from a modification, the afflictions were not explained there. And it is stated (there) "[cittamala.....nte](http://# "Cf. bhāṣya on YS, I.5.")";thus the afflictions are not modifications (of the mind) and the idea is that they are of the nature of impurity. In the figurative use of identity it has the same locus as [thought.](http://# "Bhāṣya under 1.8, states that these afflictions will be explained later in the context of the impurities of the mind.") Just as by indwelling in fire, smoke makes it disturbed (without the flames being smooth), so also knowledge is distrubed by this ([affliction](http://# "Both thought and affliction are spoken of as identical figuratively and they both have the same locus as well, i.e., the mind.")). Similar is the case here [also](http://# "The same locus of knowledge and the afflictions as well as the distraction the afflictions cause in knowledge, is brought out by this analogy. But the construction is not easily intelligible. Will Śankara the BSBh. author write such a style? Or has the scribe missed out some words connecting the various ideas? As it stands there is no justification in reading verses III.38 and 39 into this context as Trevor Leggett has done.").
 
@@ -7685,9 +7010,9 @@ therefore kriyāyoga will make them "aprasavadharmiṇaḥ" = devoid of the powe
 
  He (Vyāsa) indicates their opposition to (right) knowledge (through the words)
 
+"te spandamānā[^1273]" and so on. "spandamānāḥ" = springing forth through processes of thought; i.e., they are not active on their own accord (and) they are like colour, etc., in a [cloth](http://# "The reading available is ")."guṇādhikāram draḍhayanti" = they strengthen the capacity for activity (i.e., activity under the sway of the guṇas). The mind is never devoid of the capacity to act when they (afflictions) are active (throbbing with activity).
 
-
-"[te spandamānā](http://॑# "This line makes it appear as if something is missing in the earlier portion. ")" and so on. "spandamānāḥ" = springing forth through processes of thought; i.e., they are not active on their own accord (and) they are like colour, etc., in a [cloth](http://# "The reading available is ")."guṇādhikāram draḍhayanti" = they strengthen the capacity for activity (i.e., activity under the sway of the guṇas). The mind is never devoid of the capacity to act when they (afflictions) are active (throbbing with activity).
+[^1273]: "This line makes it appear as if something is missing in the earlier portion. "
 
  "pariṇāmamavasthāpayanti" = it only means that they bring about change (constantly) again and again. “kārya...yanti" = they increase the flow of activity of the limbs of the body like the eyes, etc.
 
@@ -7711,17 +7036,11 @@ therefore kriyāyoga will make them "aprasavadharmiṇaḥ" = devoid of the powe
 
  Of these (four), what is the dormant state? It is the presence in the mind (of asmitā, etc.) in a potential state, in the form of a seed. Its awakening is its coming face-to-face with its object. In the case of one in whom prasaṃkhyāna has arisen, the seeds of kleśa being burnt, this awakening is absent, even when face-to-face with its object; for how can a burnt seed germinate? Therefore, he whose afflictions are weakened (and) who is fortunate, is said to be in his last birth. It is in him that the fifth stage of the afflictions which is the burnt-seed stage is present and nowhere else. In that stage, though the kleśas are present their seed power has been burnt; therefore, even when face-to-face with its objects there is no awakening (of these kleśas). Thus, the dormant state and the non-sprouting of the burnt seed stage has been mentioned.
 
-
-
-
-
 तनुत्वमुच्यते—
 
 प्रतिपक्षभावनोपहताः क्लेशास्तनवो भवन्ति।तथा विच्छिद्य विच्छिद्य तेन तेनात्मना पुनः पुनः समुदाचरन्तीति विच्छिन्नाः। कथम्? रागकाले क्रोधस्यादर्शनात्।न हि रागकाले क्रोधः समुदाचरति। रागश्च क्वचित् दृश्यमानो न विषयान्तरे नास्ति। नैकस्यां स्त्रियां चैत्रो रक्त इत्यन्यासु स्त्रीषु विरक्तः। किं तु तत्र रागो लब्धवृत्तिः, अन्यत्र तु भविष्यद्वृत्तिरिति। स हि तदा प्रसुप्ततनुविच्छिन्नो भवति। विषये यो लब्धवृत्तिः स उदारः।
 
  (Now) the weakened state is being spoken of.The afflictions, when over-powered by (their) opposite (thoughts), become weak. Similarly, when they are intercepted frequently and then again and again manifest themselves in their own nature they are called interrupted. How is this (possible) ? At the time of attachment anger is not seen; thus at the time of attachment anger is not manifest. When attachment is felt towards one object it is not as if it is non-existent with reference to another object. Just because Caitra is attached to one woman (at present) it does not imply that he is disinterested in other women. But the fact is that in the one, attachment is active (now), while in the other, it will become active in the future. This (future activity) is at that moment either dormant, weakened or interrupted. That which is active with reference to an object is (known as ) fully manifest.
-
- 
 
 सर्व एवैते केशविषयत्वं नातिनामन्ति।
 
@@ -7747,8 +7066,6 @@ therefore kriyāyoga will make them "aprasavadharmiṇaḥ" = devoid of the powe
 
 is
 
-
-
 the ground furthering its own interest; just as the earth (allows the growth of ) grass, creepers, groups of trees and shrubs which are not different from itself, so also from avidyā each one of the fourfold asmitā, etc., which are not different from misapprehension (come into being), “[prasupta....avidyā](http://# "The Vivaraṇakära has the following readings instead of what is available. Thus ")”(in their various forms like dormant, weakened, interrupted and fully manifest).
 
  Thought processes which are misapprehensions depending on it (avidyā), benefit themselves. Therefore it is avidyā alone which changes into the fourfold form of asmitā and the others.
@@ -7769,8 +7086,6 @@ the ground furthering its own interest; just as the earth (allows the growth of 
 
  तत्रैतत् स्यात्,सर्वदैव क्लेशस्य बीजभावोपगमः प्रबोधश्च नियमेन स्यादिति। तत आह—प्रसंख्यानवतः सम्यग्दर्शनाभ्यासवतः अदग्धक्लेशबीजस्य योगिनः संमुखीभूतेऽप्यालम्बने नासौ बीजभावोपगमः। दग्धस्य
 
-
-
 दग्धत्वादेव कुतः पुनः प्रबोधः उद्भवः। विद्यमानस्य हि बीजस्य क्षितिजलादिसंयोगनिमित्तप्राप्तावङ्कुरीभावो न दग्धबीजशक्तेः, तथा क्लेशस्यापि॥
 
  Question—There is this possibility that regularly, by turns, there will be the presence of the afflictions in the seed-state and its awakening into the manifested state at all times.
@@ -7789,9 +7104,9 @@ the ground furthering its own interest; just as the earth (allows the growth of 
 
  "kṣīṇa ....deha iti" = the yogī is mentioned as one with true insight. “[tatrai...sāmarthyam](http://# "The Vivaraṇakāra has “tadānīm” instead of “tadā” and has “dagdham” before “bījasāmarthyam”, and omits  ")”.This is similar to seeds like barley seeds, etc., having the potential to sprout losing that seed-potential when fried. "[viṣaya... prabodhaḥ](http://# "The Vivaraṇakāra has not got the word ")”, i.e., in thecase of one with true insight, as there is only the stage of the residual latent-impres-
 
+sions[^1274],(he resembles) the arrow which is freed from its target.
 
-
-[sions](http://॑# "It now becomes clear that this is the jīvanmukti stage or the last stage of samprajñāta."),(he resembles) the arrow which is freed from its target.
+[^1274]: "It now becomes clear that this is the jīvanmukti stage or the last stage of samprajñāta."
 
  उक्ता प्रसुप्तिः। किञ्च दग्धबीजानां च क्लेशानामप्रबोधो योगिन उक्त इति। तनुत्वं इदानीं उच्यते—प्रतिपक्षभावनोपहताः प्रतिपक्षस्य शरीराद्यवद्यदर्शनादेः भावनयोपहताः अबलीकृता मन्दप्रभावाः क्लेशास्तनव उच्यन्ते॥
 
@@ -7814,8 +7129,6 @@ the ground furthering its own interest; just as the earth (allows the growth of 
  “katham”...(In order to answer the question as to how this happens) he gives the (following) example..."rāga...carati" (at the time of attachment, anger is absent).This is so because manifested modifications of the mind and manifested forms (of objects) are in opposition (to other forms and other [modifications which are not fully manifest](http://# "Modification as pleasure which belongs to the mind will be opposed to any other modification while it lasts; so also modification of the mind into the shape of an object will be opposed to any other experience while that lasts. ")).Thus when attachment is manifest (the other emotions) being [hidden](http://# "Only hidden but not destroyed, as they do appear later.")they exist in their own forms in an unmanifest manner, therefore they are interrupted.
 
  Thus (as Vyāsa says) "ragaśca...nāsti" (when attachment is there for one object it is not as if it is not there for another object). How is that so? Because there is an
-
-
 
 opposition between objects here. In the previous example there was non-manifestation of anger because of its opposition to attachment. Whereas here it is the mutual opposition between objects (which is emphasised). When attachment is generated with regard to one object, that same attachment cannot be generated with reference to another object.
 
@@ -7849,8 +7162,6 @@ In that case, this is just what is left of the [former](http://# "The answer is 
 
 If the interrupted (interruption) is not accepted because it is not seen (to
 
-
-
 exist) then when attachment is existing in one place its non-existence in another place can be its total absence.
 
  नन्वस्त्वेवाभावः, अन्यत्रादर्शनात्।न हि। कस्मात्? क्वचित् दृश्यमानत्वादेव।न हि विषयान्तराभिमुखो न भवतीति धर्मिण्यपि चेतसि नास्ति। न हि चक्षुः कदाचिद्रजाभिमुखं न भवतीति घटाभिमुखप्रवृत्तं सन्नास्ति। घटाभिमुखदर्शनादेव। तदेतदाह—क्वचित् दृश्यमानो न विषयान्तरे नास्तीत्यादि।
@@ -7882,8 +7193,6 @@ Then what is the difference between that which is dormant and that which is inte
  Answer—
 
 As there is continuity because of the absence of mutual opposition, disappearance of the continuance of the manifestation of that which has commenced is (known as) the interruption of the unburnt (afflictions). But the dormant stage is
-
-
 
 when the causes present (for manifestation) of the unburnt-seeds, which though absent by being vanquished by the overpowering opposition (to it), remains in a seed-form.
 
@@ -7918,8 +7227,6 @@ That is not so as the appearance of another object is the intended meaning of th
 that is also the interrupted state[^673] the absence of anger for instance when attachment is present; (2) the absence of a modification like attachment, anger, etc., with reference to one object at present but whichcan also come into being in future with regard to another object.").
 
 [^673]: "Thus the two kinds are (1
-
-
 
  He mentions the reason why it is not seen elsewhere (through the words) "sa hi...”, etc. In this context it is not his intention to indicate the dormant or weakened states (dormant or weakened will not serve the purpose). Be that as it may. There, what is intended by absence (non-manifestation) is the interrupted state.
 
@@ -7960,8 +7267,6 @@ If it is said that at that time they are ineffective then the answer is that the
 
 [^676]: "It is not a definite statement and can be understood differently. It can mean that for the moment it is ineffective but not always ineffective as when there is a need it will come into being. Therefore to extinguish it totally, meditating on the opposites has been urged."
 
-
-
 fear of opposition,cut the foetus in the womb of Diti into seven parts[^677].The reason(for calling these afflictions) is also indicated by their own nature as follows:"yathaiva... abhivyaktiḥ" (they manifest themselves when their causes are present).Since they come into existence again then again disappear and yet again come intobeing, therefore even if they are in the dormant stage they have to be mentioned inorder to allow for meditation on opposite thoughts (to get rid of them) because theyare not beyond the sphere of being afflictions[^678].
 
 [^677]: "Indra is constantly in fear of defeat and in one instance is said to have destroyed the daityas in the womb of Diti."
@@ -7996,19 +7301,13 @@ How is it that they (the afflictions) are connected with it (avidyā)?
 
  Amongst them the nature of avidyā is being mentioned.
 
-
-
 **अनित्याशुचिदुःखानात्मसु नित्यशुचिसुखात्मख्यातिरविद्या ॥५॥**
 
  Avidyā is the idea of permanence, of purity, of pleasure and of self in those whichare impermanent, impure, painful and not-self.
 
- 
-
 अनित्ये कार्ये नित्यख्यातिः।तद्यथा—
 
 ध्रुवा पृथिवी, ध्रुवा सचन्द्रतारका द्यौः, अमृता दिवौकसः,इति ।
-
-
 
  तथा अशुचौ परमबीभत्से काये—
 
@@ -8038,8 +7337,6 @@ How is it that they (the afflictions) are connected with it (avidyā)?
  तस्याश्च अमित्रागोष्पदवत् वस्तुसतत्वं विज्ञेयम् ।
 
  यथा नामित्रो मित्राभावः,न मित्रमात्रं,किंतु तद्विरुद्धः सपत्नः।यथा वा अगोष्पदं न गोष्पदाभावः,न गोष्पदमात्रं,किंतु देश एव ताभ्यामन्यद्वस्त्वन्तरम्।एवमविद्या न प्रमाणं,न प्रमाणाभावः,किंतु
-
-
 
 विद्याविपरीतं ज्ञानान्तरमविद्या इति ॥५॥
 
@@ -8089,8 +7386,6 @@ There is no defect (in that) because of dependency (on something else).Earth, et
 
 शुक्लशोणितबीजो हि कायः।
 
-
-
 उपष्टम्भात्—वातपित्तश्लेष्मोपष्टम्भात्।तेषां चाशुचित्वं प्रसिद्धम्।निष्यन्दात्—प्रस्वेदमूत्रपुरीषादिमलाजस्रनिष्यन्दात्।निधनादपि—मरणात्।मृतसंबन्धिनां दशाहाद्याशौचस्मरणम् ॥
 
  ननु च स्वभावतो यद्यशुचिः कायस्तस्य शौचविधानमनर्थकं प्राप्नोतीत्यत आह—कायमाधेयशौचत्वादिति ।शास्त्रत आधातव्यमेव शौचमस्मिन्न स्वतोऽस्तीति यावत् ॥
@@ -8123,8 +7418,6 @@ There is no defect (in that) because of dependency (on something else).Earth, et
 
 [^689]: "The Vivaranakara has the following readings: (a
 
-
-
  एतेनापुण्ये पुण्यप्रत्ययः, यथा संसारमोचकानां, तथैवानर्थे चार्थप्रत्ययो व्याख्यातः, यथा तस्कराणाम् ॥
 
  तथा दुःखे सुखख्यातिं वक्ष्यति 'परिणामतापसंस्कारदुःखैर्गुणवृत्तिवरोधाच्च दुःखमेव सर्वं विवेकिनः ' इति । तत्र सर्वस्मिन् संसारे दुःखे सुखख्यातिरविद्या॥
@@ -8151,7 +7444,6 @@ There is no defect (in that) because of dependency (on something else).Earth, et
 
 [^691]: "Without distinguishing itself from the conscious self."
 
-
 "tathaitadatra....."[^692].In connection with that it is said that (with reference to) allthings beginning with pradhāna, bodies, sense-organs, etc., up to particular objectsare either subject to experience or subject to inference or subject to scriptural proof;believing those animate and inanimate objects to be the self "saṃpadam anunandati" =one rejoices in their prosperity in their excellence "ātmasaṃpadam manvānaḥ” =thinking ‘I am prosperous through this wealth, this is my wealth' “tasya.....śocati” =(and) grieves about its destruction (loss) (thinking) 'My wealth is lost, I am destroyed.'"sa... buddhaḥ" = (all such persons) are falsely proud, ignorant.  
 ————————————————————————————————————
 
@@ -8163,8 +7455,6 @@ There is no defect (in that) because of dependency (on something else).Earth, et
 (e) in place of “āśvāsayantiveti” it is “samāśvāsayantiti"  
 (f) The sentence ends with "saṃbandhaḥ” but the Vivaraṇakāra ends the sentence with“bhavatīti”.  
 He does not add anything new to what the commentator says.
-
-
 
  एषा चतुष्पदी भवत्यविद्या। ननु चापुण्ये पुण्यख्यातिः पुण्ये अपुण्यख्यातिः इत्याभ्यां सह षट्पदीत्वम्—न—चतुर्ष्वेव पादेषु यथासंभवमन्तर्भावात्। अविद्या मूलं प्रभवबीजम् अस्य क्लेशसन्तानस्य अभिनिवेशान्तक्लेशानामनवरतप्रवर्तनस्य। किं च— कर्माशयस्य च त्रिविधस्य जात्यायुर्भोगलक्षणविपाकत्रयसहितस्यसकलस्य संसारस्येत्यर्थः॥
 
@@ -8198,8 +7488,6 @@ He does not add anything new to what the commentator says.
 
 [^696]: "Half of a pepper — thus the half is what is important here."
 
-
-
  Question— Where is the defect in that?
 
  Answer — On hearing the word 'avidyā' doubt will arise (in the mind) (as folows). Is the technical meaning of the word well-known for the sake of dealing withhe authoritative texts (scriptures); for instance it is said 'In the world when wordshaving their meanings well-known are used in sūtras the same meanings should beunderstood. Or is the meaning something which does not belong to the word like 'iko guṇavṛddhi[^698]'.Then when the meaning of a word is not definite it will not be possible to function in the world using the word avidyā[^699].
@@ -8218,11 +7506,7 @@ The other case (alternative) is when both words are in the same case and the sec
 
 इह नञा निवृत्तिरुच्यते। विद्याशब्देनापि विद्या। तत्र यद्युत्तरपदस्यार्थं प्रधानं प्रति गुणभूतो नञ्तस्यैवोत्तरपदार्थस्याभावं कुर्यात्, तदा तद्गुणत्वमेव हीयेत। नापीतरस्य प्राधान्यम् ॥
 
- 
-
 यो हि कञ्चिन्निर्वर्तयितुं अनुप्रस्थितो निर्वर्त्यमेव व्यापादयेत्, न तस्य निर्वर्त्यं प्रति गुणत्वम्। नापि निर्वर्त्यस्यप्रधानता, तद्वत्। तस्मात् प्रधानवशवर्तिना गुणेन भवितव्यमिति विद्यायामन्यस्याभाव एवेति केवलो नञ्नित्यानुवादीति विद्यामात्रं प्रतीयेत॥
-
- 
 
 तदेतदेवं कृत्वोच्यते। 'तस्याश्चामित्रागोष्पदवद्वस्तुसतत्वं विज्ञेयम्' इति। यथा अमित्रो न मित्राभावः यथापूर्वपदार्थप्राधान्ये अर्धपिप्पलीति। न मित्रमात्रम्। यथोक्तं उत्तरपदार्थप्राधान्ये प्रधानवशवर्तिना गुणेन भवितव्यं,न प्रधानविनाशेनेति। तथा चोक्तम्—“अब्राह्मणमानयेत्युक्ते ब्राह्मणमात्रस्यानयनं प्राप्नोती”ति नञ्वार्तिके।उत्तरपदार्थप्राधान्यपक्षे नञो नित्यानुवादत्वात्। एवममित्र इति। एवमविद्यादि॥
 
@@ -8237,8 +7521,6 @@ The other case (alternative) is when both words are in the same case and the sec
  He who starts to achieve some purpose but ends up by destroying that very purpose cannot have the nature of being subsidiary to the accomplishment of that purpose[^702].Nor can the end purpose be of any importance in that case. Therefore the
 
 [^702]: "The same thing is being paraphrased again. If the end is not achieved the subsidiary is also destroyedin the process."
-
-
 
 qualifier has to be of such a nature as to be within the control of the main purpose.Therefore (in this case) there is only indication of absence of something else in knowledge; the negation nañ by itself just serves a subsidiary purpose; therefore what isknown is just knowledge.[^703] for philosophical purposes comes out clearly here.")
 
@@ -8274,23 +7556,13 @@ Or it is like "yathā...antaram", i.e., it is another substance different from a
 
  ततश्चागोष्पदमिति गोष्पदप्रसक्तोऽर्थः, गोष्पदमात्रं, गोष्पदविरुद्धश्चेति त्रयोऽर्थाः प्रतिभान्ति। तत्र यदिगोष्पदमात्रं भवेत्तदा नञः प्रयोगोऽनर्थक एव। अन्याभावानुवादी चेद्गोष्पदे नञ् स्यादेवमप्यनर्थक एव॥
 
- 
-
 अथ गोष्पदप्रसङ्गयुक्तेऽर्थे, तथाऽपि नञमुख्येऽर्थे प्रवृत्तस्स्यात्, गोभिरत्यन्तासेवितत्वस्यानुक्तत्वात्। यतःसेवितत्वे भविष्यत्यपि त्रिष्वपि कालेषु शब्दप्रयोगो युक्तः स्यात्। मुख्यश्चार्थो नाम स भवति, यत्र गोभिःसेवितं न भूतं न वर्तते नाऽपि भविष्यति। तस्मात्, सति सम्भवे नञर्थः स एव युक्त इति न सेवितप्रसङ्गोनाऽपि सेवितमात्र इष्यते। गोसेवितविरुद्ध एव देशोऽगोष्पदशब्देनाभिधीयते॥
-
- 
 
 कथं पुनर्नीलोत्पलवद्विशेष्यविशेषणभाव एकस्य, भावाभावयोर्विरोधात्। तदभावप्रतिपादनमात्रेणसंव्यवहारानुपपत्तेः यस्मिन्वस्तुनि तदभाव उच्यते तदेव वस्त्वन्तरं प्रतीयते। तदुक्तम्—“गोष्पदंसेवितासेवितप्रमाणेषु” इति॥
 
- 
-
 अत्रासेवितग्रहणे पुनः क्रियमाणे च बहुव्रीहिरयं विज्ञायते, अविद्यमानसेवितोऽसेवित इति। (तस्मात्)एवमविद्या न प्रमाणं न च प्रमाणाभावः। किन्तु विपरीतं ज्ञानान्तरमिति॥५॥
 
-
-
  Therefore the word "agoṣpadam" can have three possible meanings: (1) the well-known meaning connected with 'goṣpada'; (2) just a cow's foot; (3) something different from a cow's foot. If it is taken to be a mere cow's foot then the usage of 'nañ'(negation) has not served any purpose. If the usage of 'nañ' in ‘'agoṣpada' conveysthe meaning of absence of something (here cow's foot) even then it has not served itspurpose.
-
- 
 
 Then if the meaning of 'goṣpada' is taken as that which is connected with thecontext even then 'nañ' will be used in a subordinate sense as it cannot be understoodas absolutely not used by the cows[^710]. Because even though there is the possibility of itsuse (by cows) in future the use of words is proper when it applies (equally) to all threetimes[^711]. The primary meaning (of the word agoṣpadam) is that when there is no connection with cows (in all three times), i.e., there was none in the past, there is nonenow and there will be none in the future. Therefore, if the meaning of negation is possible that alone is correct; (but it is not possible); so the desired meaning is neitherconnected with usage nor is it restricted only to the bare use (of space by cows). (Onthe contrary) what is denoted by the word "agoṣpadam" is 'space other than thatassociated with a cow's foot' (space used by a cow).
 
@@ -8314,38 +7586,17 @@ If one understands the word as 'not visited' then it will be understood as a bah
 
 **दृग्दर्शनशक्योरेकात्मतेवास्मिता ॥ ६ ॥**
 
- 
-
 Asmitā is the feeling of identity between the power of seeing and the power bywhich one sees.
-
-
 
 पुरुषो दृक्शक्तिर्बुद्धिर्दर्शनशक्तिरित्येतयोरेकस्वरूपापत्तिरिवास्मिता क्लेश उच्यते।भोक्तृभोग्यशक्त्योरत्यन्तविभक्तयोरत्यन्तासंकीर्णयोरविभागप्राप्ताविव सत्यां भोगः कल्पते,स्वरूपप्रतिलम्भे तु तयोः कैवल्यमेव भवति कुतो भोग इति । तथा चोक्तम्—बुद्धितः परंपुरुषमाकारशीलविद्यादिभिर्विभक्तमपश्यन्कुर्यात्तत्रात्मबुद्धिं मोहेन इति॥६॥  
 
- 
-
 Puruṣa is the power of seeing, intelligence is the power by which one sees; thus the
 
-
-
  
-
-
-
-
-
-
-
-
-
 
 ×
 
-
-
 appearance of identity of essence between these two is the kleśa known as I-sense.When the power of the experiencer and of the thing to be experienced, which arequite distinct and different from each other, are looked upon as if they are identicalwith each other, then experience is possible. When their real nature is known, thenisolation (liberation) is possible—how can there be (any) experience (then)? Thus itis said 'When due to delusion one fails to see that the highest puruṣa is differentfrom intelligence by its nature, its character and its consciousness he (commits theerror of) considering that to be the self.'
-
- 
 
 दृग्दर्शनशक्त्योरेकात्मतेवास्मिता। अधुना अस्मिताख्यं विपर्ययमाचष्टे—दृक् दर्शनं उपलब्धिः पुरुषः सएव शक्तिः। दृश्यतेऽनेनेति दर्शनं सैव शक्तिः अन्तःकरणाध्यवसायस्वरूपा। तयोः दृग्दर्शनशक्त्योःउपलब्ध्यध्यवसायस्वरूपयोः एकात्मतेव एकश्चासावात्माच तस्य भाव एकात्मता। इव शब्देनात्यन्तविविक्ततामाचष्टे। एकस्वरूपापत्तिरिवास्मिता क्लेश उच्यते॥
 
@@ -8371,8 +7622,6 @@ appearance of identity of essence between these two is the kleśa known as I-sen
 
  Thus it is said "bhoktṛ...ktayoḥ" = these two are quite distinct "avibhāga...kalpate”, i.e., it is the affliction called asmitā that is the cause for experience. Whenthere is the ‘I-sense' there is connection with pleasure, pain and so on like 'I amhappy', 'I am sad', etc. Therefore it (the affliction) is of this nature.
 
-
-
  स्वरूपप्रतिलम्भे तु तयोः विवेके नाहं ममेति स्वरूपोपलब्धौ सत्यां बुद्धिपुरुषयोः कैवल्यमेव अविमिश्रतैवभवति। कुतो भोग इति। कारणे ह्यविशेषाहंप्रत्ययात्मनि सति कार्यं भोगः, तस्मिन्नसति कारणे न भोग इति ॥
 
  न हि मनसि चेतनावत्वमनध्यारोप्य सुखित्वं दुःखित्वं वा शक्यं प्रत्येतुम्। अहंप्रत्ययविषयो हिसुखदुःखप्रत्ययाधिकरणम्। 'अहं सुखी दुःखी चाहम्' इति सामानाधिकरण्यात्। तस्मादस्मिताख्योऽहङ्कारोभोगहेतुः ॥
@@ -8397,11 +7646,7 @@ Similarly (one can describe the properties of) the intellect as well. “ākāre
 
 [^722]: "The three constituents sattva, rajas and tamas, give rise to such feelings."
 
-
-
 ner, without distinguishing the puruṣa which is different (from the intellect) throughthe qualities of its make up, its characteristics, and its power of determination, onehas the conception of I (ātman) in that intellect through delusion. What is illustratedhere through this example is the appearance of identity, as it were, between the puruṣaand the intellect which are of a totally different nature with respect to consciousness,character and intrinsic nature.  
-
- 
 
 And "vibhaktam...buddhim" = (this identification) has already been mentionedas avidyā. Or all this can be explained as one whole example since asmitā (sense-of-I) is a division of ignorance. "apaśyam kuryāt", i.e., avidyā is ignorant of the truenature of puruṣa; and the cause of asmitā is the colouring of the mind by the seer andthe seen; and the ignorance (as it were) of puruṣa is its seership itself[^723].
 
@@ -8409,11 +7654,7 @@ And "vibhaktam...buddhim" = (this identification) has already been mentionedas a
 
 **सुखानुजन्मा रागः॥७॥**
 
- 
-
 Attachment is that which follows (experience of) pleasure.
-
- 
 
 सुखाभिज्ञस्य सुखानुस्मृतिपूर्वः सुखे तत्साधने वा यो गर्धस्तृष्णा लोभः स राग इति॥ ७॥
 
@@ -8433,15 +7674,11 @@ Attachment is that which follows (experience of) pleasure.
 
 [^727]: "In the first it arises after pleasure and in the second it arises after pain."
 
-
 [^728]: "Vyāsabhāṣya under YS, IV.11."
-
 
  In order to explain why there is the follow up of pleasure he (Vyāsa) says “sukhā-bhijñasya” and so on. One who recognises pleasure, i.e., one who has experiencedpleasure is a “sukhābhijñah”. “sukhānusmṛtipūrvaḥ" = He by recollecting the earlierexperienced pleasure gets attached to "sukhe" = pleasure or to “tatsādhane" suchobjects like agalloch (amyris aloes eaglewood[^729]), ' sandal paste, etc. (The hankering)for those (objects) is called (thirst, greed, attachment).
 
 [^729]: "Type of tree in Eastern India whose hard inner wood contains a resinous substance which is fragrantwhen burning- Chamber's Dictionary."
-
-
 
 **दुःखानुजन्मा द्वेषः॥८॥**
 
@@ -8471,21 +7708,13 @@ Attachment is that which follows (experience of) pleasure.
 
  यथा चायमत्यन्तमूढेषु दृश्यते क्लेशः,तथा विदुषोऽपि विज्ञातपूर्वापरान्तस्य रूढः।कस्मात्? समानाहि तयोः कुशलाकुशलयोर्मरणदुःखानुभवादियं वासनेति॥९॥
 
-
-
  
 
 All living beings have this craving for one's self ceaselessly—'would that I werenever to experience death; may I live.' And this craving for one's self cannot exist inone who has not experienced the nature of death. And from this the experience of aprevious life is inferred.
 
- 
-
 This same kleśa called abhiniveśa flows by its own potency. Even in a worm justborn, the fear of death which is the knowledge of annihilation not experienced eitherthrough direct perception, or through inference, or through scriptural evidence, makesone infer that the pain of death had been experienced in a previous life.
 
- 
-
 Just as this kleśa is seen present in those who are extremely ignorant so also it isfirmly fixed even in (the minds of) the learned who have realised the beginning andend of life. Why is this so? Because the experience of the pain of death being similarboth in the case of the learned and the ignorant, this latent impression is there (in bothalike).
-
- 
 
 स्वरसवाही विदुषोऽपि तथा रूढोऽभिनिवेशः स्वरसेन स्वभावेन चित्तस्याविद्यामात्रेण वोढुं प्रवर्तितुंशीलमस्य। वहतेरकर्मकस्यापि दर्शनात् यथा नदी वहतीति। अथवा स्वरसं स्वभावं वोढुं शीलमस्य स्वरसवाहीविदुषोऽपि सम्यग्दर्शनस्यापि। अपिशब्दादविदुष एव युक्तो मरणत्रास आत्मोच्छेदमानिन इत्यभिप्रायः।सम्यग्दर्शनस्यात्मानुच्छेदमानिनोऽयुक्त इति। तथा विमूढतरबुद्धिष्वात्मोच्छेददर्शिष्वयमभिप्रायो मरणत्रासोरूढोऽभिनिविष्टः स्थिरो यथा तथैव विदुषोऽप्यात्मानुच्छेददर्शित्वादयुक्तोऽपि रूढः॥
 
@@ -8504,8 +7733,6 @@ Just as this kleśa is seen present in those who are extremely ignorant so also 
 [^736]: "The reading again has to be ‘ātmānanucchedadarśitvāt' to make sense."
 
  How is this fear of death firmly fixed (in the mind) by its own nature. Since"sarvasya..." (there is this constant craving) in the form "maraṇam mānvabhūvam" =
-
-
 
 may I not be destroyed (may I not die[^737]). Or there is this craving “bhūyāsam” = may Ibe associated (always) with good qualities, with good people and may there never beseparation from them. In the ignorant there is prayer for continuity of sensual pleasures as well as one's self[^738].  
 
@@ -8534,8 +7761,6 @@ may I not be destroyed (may I not die[^737]). Or there is this craving “bhūy�
  Answer—(In answer to that) he says "samānā[^741]..."and so on.
 
 [^741]: "In Instead of "
-
-
 
 ते प्रतिप्रसवहेयाः सूक्ष्माः॥१०॥
 
@@ -8577,8 +7802,6 @@ te pratiprasavaheyāḥ sūkṣmāḥ.
 
  Those kleśas which are actively present as seeds in the mind—
 
-
-
 **ध्यानहेयास्तद्वृत्तयः॥११॥**
 
  Their modifications are to be destroyed through meditation.
@@ -8604,8 +7827,6 @@ te pratiprasavaheyāḥ sūkṣmāḥ.
 [^748]: "No more sprouting is possible and the kleśas would be totally burnt effectively."
 
  And how is that done? "yathā....apanīyate", i.e. (After the gross dirt is removed,later the deeper) dirt which is caused by grease, etc., (is removed by effort) and throughspecial means (ingredients) like salt, etc. Similarly, "tathā svalpa....mahāpratipakṣāiti” (the gross modifications of the afflictions) are obstructed by self-discipline, study(of scriptures), devotion to īśvara, and by the practice of various means to yoga likeyama, niyama, etc. “sūkṣmāstu....iti", i.e., the subtle afflictions which depend onthe seed potential need great obstruction like continuous bright effulgence of discriminate-discernment which is obtained by the practice of self-discipline, study of
-
-
 
 the scriptures and so on[^749].
 
@@ -8638,8 +7859,6 @@ Why should one try to get rid of afflictions?
 that latentdeposit of karma (action) which has avidyā, etc.,as the cause for birth (in the world),that is kleśamūlaḥ karmāśayaḥ[^750].
 
 [^750]: "Kleśas are avidyā, etc., already mentioned in YS, II.3. Without the kleśas there will be no actionwhatsoever and without action there will be no birth, etc., in the world. Thus everything is traced to thekleśas— the afflictions."
-
-
 
  From the moment of the fruit of the action coming into effect it lies in the internalorgan (mind), thus it is known as karmāśayaḥ (and) is of a bright and dark nature[^751] bright (white); (2) dark; (3) bright and dark; and (4) neither bright nordark. The last belongs to the yogī but the others belong to all other beings.").dṛṣṭādṛṣstajanmavedanīyaḥ, i.e., that which is seen (i.e., the present life) and that whichis not seen—
 
@@ -8680,8 +7899,6 @@ tatra....prabhavaḥ[^752]", i.e., he explainsits basis in the afflictions. Thus
 [^757]: "Aśvatthāmā went on a spree of killing the entire Pāṇḍava clan in a fit of anger."
 
 [^758]: "Nahuṣa was changed into a snake for insulting the sages. Cf. Rukmani, op. cit., vol. II, pp. 42n, 53,53n."
-
-
 
  अस्मिताविद्ययोर्लोभक्रोधमोहैः प्रत्येकं सम्बन्धः।कथम् ? अहमधिक्षिप्तोऽस्मीति क्रुध्यति।अहंसुखमनुभविष्यामीति लुभ्यति।अहं मुह्यामीति मुह्यति ॥
 
@@ -8725,10 +7942,7 @@ How is that ? One is angry thinking 'I am insulted'. One is greedythinking,‘I 
 
 How is it that actions (deeds) which are similar in nature as well ashave the same causes are (divided as) some having their results experienced in the
 
-
-
 seen life whereas some have their results experienced in (future) unseen lives.
-
 
 Answer[^763]:—
 
@@ -8769,8 +7983,6 @@ i.e. (the karmāśaya accrued by intense worship of Īśvara, etc.) "sadyaḥ pa
  In that connection he mentions as an example of (the quick fruition of) thekarmāśaya of merit (the case of Nandīśvara). "yathā.....pariṇataḥ", i.e., giving up hisown body (human body) (he changed into a divine body) in his own life by the intense practice of the affliction (of devotion) manifested through devotion to Maheśvara.
 
  “tathā nahusaḥ” = (Similarly Nahuṣa) is an example of (quick fruition of) the
-
-
 
 karmāśaya of demerit. "sa devānāmindraḥ[^770]". He (gave up his own body) and throughthe deposit of karma arising out of the intense practice of delusion (was changed intoa lower being).
 
@@ -8818,8 +8030,6 @@ That is not so; as one sees the action by people like Nahuṣa[^774] acted as me
 
 [^776]: "In the bhāṣya under II.9."
 
-
-
 creatures also have karma.
 
  Also, it is only in the case of humans having bodies and sense-organs, that karmais proper[^777]. And in the case of deeds (karma) which arise (through the sense-organs)like the mind, mouth, etc., and the body, there is the commencement of result (ofkarma) as they are accompanied by afflictions.
@@ -8836,8 +8046,6 @@ creatures also have karma.
 
  When there is basis (of kleśas) then its (karmāśaya's) results are birth,span of lifeand kind of experience.
 
-
-
 सत्सु क्लेशेषु कर्माशयो विपाकारम्भी भवति नोच्छिन्नक्लेशमूलः यथा तुषावनद्धाः शालितण्डुलाअदग्धबीजभावाः प्ररोहसमर्था भवन्ति नापनीततुषा दग्धबीजभावा वा,तथा क्लेशावनद्धः कर्माशयोविपाकप्ररोही भवति,नापनीतक्लेशो न प्रसंख्यानदग्धक्लेशबीजभावो वेति।स च विपाकस्त्रिविधोजातिरायुर्भाग इति।
 
  When 'kleśas' exist 'karmāśaya' begins to ripen into fruit but not when 'karmāśaya'has its root of 'kleśa' cut off. Just as grains of rice when connected with the husk andwhen its seeds are not burnt are capable of germinating and not that rice from whichthe husk is removed or whose seeds are burnt, so also karmāśaya, connected withkleśas, is capable of giving rise to its fruit and not that (karmāśaya) which is disconnected with kleśas or whose kleśa-seeds are burnt by ‘prasaṅkhyāna'.This fruition isof three kinds — birth, span of life and kind of experience.
@@ -8848,8 +8056,6 @@ creatures also have karma.
 
  न तावदेकं कर्मैकस्य जन्मनः कारणम्।कस्मात्?अनादिकालप्रचितस्यासंख्येयस्यावशिष्टस्य-कर्मणः सांप्रतिकस्य च फलक्रमानियमादनाश्वासो लोकस्य प्रसक्तः,स चानिष्ट इति।न चैकंकर्मानेकस्य जन्मनः कारणम्।कस्मात्?अनेकेषु कर्मस्वेकैकमेव कर्मानेकस्य जन्मनःकारणमित्यवशिष्टस्य विपाककालाभावः प्रसक्तः स चाप्यनिष्ट इति।न चानेकं कर्मानेकस्य जन्मनःकारणम्।कस्मात् ? तदनेकं जन्म युगपन्न संभवतीति क्रमेणैव वाच्यम्,तथा च पूर्वदोषानुषङ्गः।
 
-
-
  In that context (the following points) are to be considered:
 
  (a) is one action the cause of one birth or does one action bring about many births?  
@@ -8858,8 +8064,6 @@ creatures also have karma.
  One action cannot be the cause of one birth. Why is that so? Because of theabsence of a rule of succession in the fruition of the present actions and all thoseremaining innumerable actions stored from beginningless time; therefore people willlose confidence (in the performance of actions); this is not desirable.
 
  Again one action cannot be the cause for many births. Why is that so? When eachaction, amongst so many actions, is the cause for many births then there will be notime for fruition of the remaining actions; this is also not desirable. Nor are manyactions the cause of many births. Why is that so? Because many births cannot takeplace at the same time, they can only take place by turn. Then all the defects mentioned above will arise.
-
-
 
 तस्माज्जन्मप्रायणान्तरे कृतः पुण्यापुण्यकर्माशयप्रचयो विचित्रः प्रधानोपसर्जनभावेनावस्थितःप्रायणाभिव्यक्त एकप्रघट्टकेन मरणं प्रसाध्य संमूर्च्छित एकमेव जन्म करोति।तच्च जन्म तेनैव कर्मणालब्धायुष्कं भवति।तस्मिन्नायुषि तेनैव कर्मणा भोगः संपद्यत इति।असौ कर्माशयो जन्मायुर्भोगहेतुत्वात्त्रिविपाकोऽभिधीयत इति।अत एकभविकः कर्माशय उक्त इति।
 
@@ -8870,8 +8074,6 @@ creatures also have karma.
  In the case of 'karmāśaya' which is experienced in this life, it can either give riseto one result because of being the cause for kind of experience, or it can give rise totwo results by being the cause for kind of experience and for span of life. This isillustrated by the life of Nandīśvara (two results) or of Nahuṣa (one result).
 
  This mind, permeated from beginningless time, by the subliminal-impressions collected on account of the experiences of the results of ‘karma’ due to ‘kleśas', is coloured, as it were, or is like a fishing net covered all over with knots. Therefore thesubliminal-impressions belong to many previous lives. The particular 'karmāśaya'alone is spoken of as causing one birth. Those latent impressions which are the causefor memory are subliminal-impressions and they are said to exist from beginninglesstime.
-
-
 
  यस्त्वसावेकभविकः कर्माशयः स नियतविपाकश्चानियतविपाकश्च।तत्रादृष्टजन्मवेदनीयस्यनियतविपाकस्यैवायं नियमो न त्वदृष्टजन्मवेदनीयस्यानियतविपाकस्य।कस्मात्?यो ह्यदृष्टजन्मवेदनीयोऽनियतविपाकस्तस्य त्रयी गतिः—
 
@@ -8903,11 +8105,7 @@ creatures also have karma.
 
  How can (karmāśaya) lie dormant for long, overcome by an important action having fruition in a limited time? Death has been mentioned as manifesting at once the(latent deposit of) actions which are to be experienced in a future life and whosefruition is limited in time; but not of the 'karmāśaya' which is to be experienced infuture and whose fruition is not limited in time.
 
-
-
 यत्त्वदृष्टजन्मवेदनीयं कर्मानियतविपाकं तन्नश्येदावापं वा गच्छेदभिभूतं वा चिरमप्युपासीत,यावत्समानं कर्माभिव्यञ्जकं निमित्तमस्य न विपाकाभिमुखं करोतीति।तद्विपाकस्यैवदेशकालनिमित्तानवधारणादियं कर्मगतिश्चित्रा दुर्विज्ञाना चेति।न चोत्सर्गस्यापवादान्निवृत्तिरित्येकभविकः कर्माशयोऽनुज्ञायत इति ॥
-
-
 
  In the case of that action which is to be experienced in a future life and whosefruition is not limited in time, that is either destroyed or it can get merged (into another action) or it lies dormant for a long time over-powered (by an important action)till similar actions which can bring the cause of their manifestation into play,bringabout their fruition. Since the place,time and cause of such manifestation is notdeterminable, the course of karma is mysterious and not discernible.But the generalrule is not destroyed by the exception; therefore, the latent deposit of 'karma' isconsidered to cause one birth.
 
@@ -8949,8 +8147,6 @@ How is that?
  Answer—
 
 "tathā....veti", i.e., karmāśaya connected with kleśas (give rise tokarmāśaya) like rice grains attached to their husks, and like rice grains from whichthe husks are removed (the karmāśaya) disconnected from the afflictions do not give
-
-
 
 rise to the result.
 
@@ -9001,8 +8197,6 @@ by each being many actions having opposite results are done in one life itself.T
 
  अथ पर्यायेण जन्मारम्भित्वं,कर्मणामसंख्येयत्वात् केनचिदेव फलमारब्धं नान्यैरिति,तत्र नियमानुपपत्तिः,केनारब्धः केन वा नेति।तथा च कर्तॄणां कर्मफलं प्रत्य(प्य)विस्रम्भादुत्साहविभङ्गः स्यात् अभ्युदयनिश्रेयसप्रवृत्तिषु ॥
 
-
-
  अथान्यतमेनारम्भे विनाश एवान्येषामिति, तथाऽपि स एव दोषः, किं विनष्टं किमारम्भकमित्यनियमात् ॥
 
  अथाविनाश एव, तथाप्यवशिष्टस्यारम्भकालाभावो मोक्षाभावश्चेति ॥
@@ -9043,8 +8237,6 @@ by each being many actions having opposite results are done in one life itself.T
 
  The second consideration is "dvitīya...vartayatīti", i.e., do many (actions) having contradictory results or having non-contradictory (homogeneous) results (bringabout many births) or do the (many actions) having contradictory or non-contradic-
 
-
-
 tory results (give rise to one birth).
 
  So what follows? "na tāvadekam....kāraṇam[^789]". Why is this so? When there aremany deeds one karma alone does not give rise to one birth. If one karma is capableof commencing a birth then "anādi... tasya" = since the world is beginningless everysingle person (puruṣa) accumulates countless karma in each birth, both having contradictory and non-contradictory results.
@@ -9077,8 +8269,6 @@ will anyone action belonging to the groupof karma collected in the previous live
 
 [^792]: "That one action can lead to many lives."
 
-
-
 rise to many lives) then the remaining karma, apart from the ones which have startedthis life, (will have) the undesirable consequence (of absence of the time of fruition).(That is also not desirable[^793].)And it will have the previous defect of lack of regulationregarding the sequence of result. One cannot accept this kind of undesirable situation.
 
 [^793]: "The Vivaraṇakāra hardly gives his own explanation."
@@ -9103,14 +8293,11 @@ rise to many lives) then the remaining karma, apart from the ones which have sta
 
 [^797]: "The vipāka manifests itself in three kinds."
 
-
 "pracayavicitraḥ[^798]", i.e., as it is collected through many deeds (karma) which areuneven (sometimes similar, sometimes dissimilar) it is varied by its collection."pradhānopasarjanabhāvenāvasthitaḥ" = anyone deed, though dominant in relationto some other deed is (also) subordinate in relation to some other deed and also (in-versely) a subordinate one also becomes a dominant one—
 
 [^798]: "Again the Vivaranakära has different readings. He has an additional "
 
 this is the state of a variednumber of deeds.
-
-
 
  प्रायणाभिव्यक्तः यथा बीजक्षेत्रसंस्कारसंयोगोऽङ्कुरभावाभिव्यक्तिकारणं,तथा प्रायणमप्यविरुद्धानांकर्मणामभिव्यक्तिनिमित्तम्।एकप्रघट्टकेन एकलोलीभावेन समुच्चितः एकीभूतः एकमेव जन्म करोति ॥
 
@@ -9123,7 +8310,6 @@ this is the state of a variednumber of deeds.
 [^799]: "In the bh'In the bhāṣya the word is "
 
  “tacca . . . dyate" (that birth gets its span of life by the deeds) which are manifested by death. (And) that which has determined the (kind of) birth and the span oflife (that same karma determines the kind of experiences in that life). Just as the seedwhich gave rise to the sprout (determines) the flowers, fruits and so on (so is it herealso).
-
 
 By[^800] these (collected) deeds one understands that there is accomplishment of (thekind of) experiences and the span of life (of that birth). But in the case of otherswhich are causes for span of life, kind of experience, etc., and of sacrifices performedfor the sake of a son or for the sake of cattle, etc., their being causes for the attainmentof a son, span of life and so on, is not rejected[^801].On the other hand, it will go againstthe instruction of all the scriptures and traditional texts[^802].Therefore, “tenaivakarmaṇā..." this removes the doubt that (death) starts the birth (new life) and due toeffecting its task there is an end (to it[^803]).  
 
@@ -9144,8 +8330,6 @@ By[^800] these (collected) deeds one understands that there is accomplishment of
  ननु च नन्दीश्वरनहुषयोर्दृष्टजन्मवेदनीयत्वं त्रिविपाकारम्भित्वं च विरुद्धम्।दृष्टं हि जन्म नन्दीश्वरस्यमनुष्यत्वम्।यत्पुनर्नन्दीश्वरस्य देवत्वं, नहुषस्य चाजगरत्वं तत् द्वयमप्यदृष्टं,न हि मनुष्यत्वं एव देवत्वं संवेद्यंनन्दीश्वरस्य, नापि देवत्व एव नहुषस्याजगरत्वं संवेद्यमिति, कथं त्रिविपाकारम्भित्वं दृष्टजन्मवेदनीयत्वं चेति ॥
 
  नैष दोषः।दृश्यमानजातिविशिष्टमेव शरीरं तयोर्जात्यन्तरत्वेन परिणतम्।न च यथाऽन्येषां दृष्टजातिविशिष्टशरीरोपमर्देन जात्यन्तरोपादाननिषेकादिनिमित्तापेक्षया जात्यन्तरप्राप्तिः,तथा नन्दीश्वरनहुषयोः।तस्मात्त्रिविपाकारम्भित्वं दृष्टजन्मवेदनीयत्वं चेत्युदाहृतम्॥
-
-
 
  "asau... hetutvāt", i.e., that which has three results like birth, etc., is known as"trivipāka". "ayam... uktaḥ[^804]",' i.e., that which results in one birth is "ekabhavikaḥ".
 
@@ -9189,8 +8373,6 @@ one whoseresult is regulated and the other whose result is unregulated. The case
 
 [^812]: "The statement in the bhāṣya which has been explained already."
 
-
-
  इदानीं तु कर्मविपाकजनितो वासनाराशिरपर आख्यायते—
 
 क्लेशकर्मविपाकानुभवनिर्वर्तिताभिः क्लेशानुभवश्चकर्मानुभवश्च विपाकानुभवश्च केशकर्मविपाकानुभवाः,तैर्निर्वर्तिताभिः वासनाभिः संस्कारैः अनादिकालसंमूर्छितमिदं चित्तं चित्रीकृतमिव पटकुड्यादिवत् सर्वतो मत्स्यजालं ग्रन्थिभिरिवाततं व्याप्तम्॥
@@ -9222,8 +8404,6 @@ the subliminal-impressions brought about them[^813]. The mind is(permeated from 
  'yastvayam... yaḥ' = this (karmāśaya) in between birth and death, which is thecause of birth and place (of birth) which are compatible, commences the threefoldresult, some being important and others being subsidiary (to the important ones)."eṣa... uktaḥ".(This causes one birth) and not that which is to be experienced in thepresent (seen) life, nor the unregulated result to be experienced in future lives nor thelatent impressions (from beginningless time).
 
  He describes their nature as follows: "ye saṃskārāḥ...na iti", i.e. because of thebeginningless nature of the world in the form of afflictions, karma, result (fruition ofresults ) and experience.
-
-
 
  "yastva... kaśca"—
 
@@ -9263,8 +8443,6 @@ that is not correct as there will be the undesirable consequence of futility of 
 
 [^819]: "As the whole position will be arbitrary."
 
-
-
 lead to an immobile life (as a plant, tree, etc.). In that context for one who reaches hellor an immobile existence (like a tree, etc.) there is no possibility of gaining cattle,property and so on[^820]. Therefore it leads to the futility of such karmāśaya (in thosebirths).  
 
 [^820]: "That makes no sense in that context."
@@ -9299,8 +8477,6 @@ lead to an immobile life (as a plant, tree, etc.). In that context for one who r
 
  न च प्रायणमेव कर्मणामभिव्यञ्जकम्।दृष्टजन्मवेदनीयानां भोगार्थानां दर्शनात्।
 
-
-
  Question—If it is said that in that case, due to karma,there is opposition and sothere is no defect[^824]then the (answer is) here also due to opposition there is no manifestation of all karma. Also, in a field when it is shaken (ploughed) and seeds are sownand even when there is the contact with efficient causes like water, etc., there is nosprouting of opposite kinds of seeds to the (ones sown[^825]).Similarly, when the supportfor karmāśaya is the human life, even though there is no opposition (from other kinds)there is manifestation at once of all karmāśayas which are contradictory, like that ofa divine or animal existence.  
 
 [^824]: "Thus though all the emotions must be evoked in the presence of an object like woman, etc., due tcone's own karma only a special emotion is invoked."
@@ -9328,8 +8504,6 @@ lead to an immobile life (as a plant, tree, etc.). In that context for one who r
  Nor is there destruction or changing otherwise of what is accomplished because ofthe qualification of thought (at death) as thought has no cooperative role with theaccomplished karma (to start a new life). Thought (memory) is independent; and it(one allows that) there will be no purpose to the karma that has been done (accomplished[^828]).
 
 [^828]: "This appears as a repudiation of the Gītā statement."
-
-
 
  Moreover, in the early stage of the embryo there can be the contingency of liberation, as the karma has not begun to take effect.
 
@@ -9371,8 +8545,6 @@ If it is said that just as it possesses the capacity to fructify it also has the
 
  कथम् ? कृतस्याविपक्वस्य विनाशः नाशकालमप्राप्तस्यैव नाशः।यथा— प्रायश्चित्तादिना प्रतिषिद्धस्य कृतस्यनाशः॥
 
-
-
  प्रधानकर्मण्यावापगमनं प्रधानकर्मणि नियतवेदनीये आवापापत्तिः प्रधानकर्मफलातिरस्कारेण स्वयमपिमन्दमन्दं फलं मध्यमनुप्रविश्य प्रयच्छति।यथा— सकलेषु तण्डुलेषु विपच्यमानेषु असकला अपि तण्डुलकणाउप्ता अल्पीयांसमर्थं साधयन्त्येव।नियतविपाकप्रधानकर्माभिभूतस्य वाऽप्यवस्थानं नियतविपाकं यत्प्रधानकर्मप्रारब्धफलं तेनाभिभूतस्य न्यक्कृतस्य विरुद्धदेशकालनिमित्तविपाकत्वादवस्थानम्।यथा–विजिगीषमाणयोरन्यतरेण प्रवृत्तराज्येनाभिभूतस्येतरस्यावस्थानं देशकालनिमित्तापेक्षया ॥  
 
  How does that happen[^835]?'kṛtasya....nāśaḥ”—
@@ -9396,8 +8568,6 @@ i.e., only that whose time of destruction has come will be destroyed, as for ins
  This is explained through a well-known example mentioned in another branch ofthe scripture (through the words) "dve, dve...vedayante[^838]".In every birth there areboth good and bad (deeds) for an aspirant, competent puruṣa. “eko rāśiḥ" = that
 
 [^838]: "Not traced."
-
-
 
 (collection of) good deeds done through study of the scriptures, etc.,(destroys) theother collection got through evildeeds. Or, of the puruṣa (who has done good deeds)(the collection) of good karma (destroys) the collection of bad karma. Therefore (desire) (to do) pure (deeds) to make it good (karma). Why ? Because “ihaiva”= hereitself (in the world itself), "tava karma[^839]" is instructed pleasure, peace, etc., (for you)by those who are knowledgeable about the various results of karma.  
 
@@ -9426,8 +8596,6 @@ As I have (plenty) of good (karma) "bahva...yam" = in that plentifulgood (karma)
  अत्रोच्यते—
 
 तत्रादृष्टजन्मवेदनीयस्यैव अविरुद्धदेशकालविपाकादिनिमित्तस्य नियतविपाकस्यपुण्यापुण्यरूपस्यानेकस्य कर्मणः समानं मरणमभिव्यक्तिकारणमुक्तम्।न तु दृष्टजन्मवेदनीयस्यपुत्रग्रामादिविषयस्य,अनियतविपाकस्य वा अदृष्टजन्मवेदनीयस्य यथाकृतव्याख्यानस्य॥
-
-
 
  Question—
 
@@ -9467,8 +8635,6 @@ It is said "tatrā... kasya[^845]".(It is mentioned that death is the cause ofma
 
 उपपादितोत्तरत्वात् अदृष्टजन्मवेदनीयस्यनियतविपाकस्येवायं नियम इति।न तस्योत्सर्गस्य अस्मादनियमापवादान्निवृत्तिरिति।कथं\[न\] निवृत्तिः ?एकभविकः कर्माशयो दुर्ज्ञान इत्येवं न निवृत्तिः।अनियतविपाकस्याप्येकजन्मारम्भित्वं न प्रतिषिद्धमित्यर्थः।
 
-
-
  अथवा, उत्सर्गस्यापवादान्निवृत्तिरिति मत्वा नैकभविकः कर्माशयो दुर्ज्ञान इत्यनेन नञ् संबध्यते।यस्मादुत्सर्गस्यैकदेशस्यापवादो निवर्तको न सर्वस्य, तस्मान्नियतविपाक एकभविकःकर्माशयः सुज्ञान एव ॥
 
  अपरः कल्पः—
@@ -9483,11 +8649,9 @@ But then, of that (karma) which is to be experienced in a future life(and) which
 
  Answer—(The answer then is) it is not so; as the answer has been provided (throughthe words) "adṛṣṭa... niyama iti".
 
-
 "na...nivṛttiriti[^851]", i.e., (that general rule) (is not overruled by) this (exception) tothe rule. Why is it not overruled?
 
 [^851]: "Again the Vivaraṇa has a different reading from the bhāṣya. Instead of “na cotsargasya"
-
 
 “eka...iti[^852]”(the karmāśaya causing one birth is difficult to understand) thereforeit is not overruled; i.e., there is no prohibition of its starting a life whose fruition ofresult is not even determined.
 
@@ -9504,8 +8668,6 @@ But then, of that (karma) which is to be experienced in a future life(and) which
  They (birth, span of life and kind of experience) have pleasure and pain as resultsdue to virtue and vice.
 
  ते जन्मायुर्भागाः पुण्यहेतुकाः सुखफला अपुण्यहेतुका दुःखफला इति।यथा चेदं दुःखंप्रतिकूलात्मकमेवं विषयसुखकालेऽपि दुःखमस्त्येव प्रतिकूलात्मकं योगिनः ॥१४॥
-
-
 
  Those, i.e., birth, span of life and kind of experience give rise to pleasure whencaused by virtue; when caused by vice, they give rise to pain. Just as this pain isundesirable (to human beings) similarly, even at the time of enjoyment of pleasure,there is pain which is undesirable to the yogī.  
 
@@ -9527,8 +8689,6 @@ But then, of that (karma) which is to be experienced in a future life(and) which
 
  For everyone the experience of pleasure, depending on animate and inanimateobjects, is based on attachment (to those objects); therefore in that pleasure there is‘karmāśaya' born out of attachment. Similarly, men hate objects causing pain and arealso deluded (in the process). Thus there is 'karmāśaya' which arises due to hatredand delusion. This has already been mentioned. Moreover, as enjoyment is not possible without injury to living things there also exists bodily 'karmāśaya' born out ofviolence. The enjoyment of sense objects has been called 'avidyā'.
 
-
-
  या भोगेष्विन्द्रियाणां तृप्तेरुपशान्तिस्तत्सुखम्।या लौल्यादनुपशान्तिस्तद्दुःखम्।न चेन्द्रियाणांभोगाभ्यासेन वैतृष्ण्यं कर्तुं शक्यम्।कस्मात् ? यतो भोगाभ्यासमनु विवर्धन्ते रागाः कौशलानिचेन्द्रियाणामिति।तस्मादनुपायः सुखस्य भोगाभ्यास इति।स खल्वयं वृश्चिकविषभीत इवाशीविषेणदष्टो यः सुखार्थी विषयानुवासितो महति दुःखपङ्के निमग्न इति।एषा परिणामदुःखता नाम प्रतिकूलासुखावस्थायामपि योगिनमेव क्लिश्नाति।
 
  Because of the gratification of the senses, that calmness (which comes) with reference to their objects is (called) pleasure. That lack of calmness due to greed is pain.Again it is not possible for the senses to be free from greed by repeated enjoyment ofsense pleasures, for repeated enjoyment of sense pleasures increases both attachmentand the skill of the sense-organs. Therefore, repeated enjoyment of sense-pleasures isnot a means to (permanent) pleasure.
@@ -9544,8 +8704,6 @@ But then, of that (karma) which is to be experienced in a future life(and) which
  एवमिदमनादि दुःखस्रोतो विप्रसृतं योगिनमेव प्रतिकूलात्मकत्वादुद्वेजयति।कस्मात् ?अक्षिपात्रकल्पो हि विद्वानिति।यथोर्णातन्तुरक्षिपात्रे न्यस्तः स्पर्शेन दुःखयति नान्येषु गात्रावयवेषुएवमेतानि दुःखान्यक्षिपात्रकल्पं योगिनमेव क्लिश्नन्ति नेतरं प्रतिपत्तारम्।
 
  Again what is the pain of subliminal-impressions? Due to the experience of pleasure there is the latent deposit of subliminal-impression of pleasure; similarly, due tothe experience of pain there is the latent deposit of the subliminal-impression of pain.In this way, by experiencing the fruition of deeds either by way of pleasure or painthere is again the collection of latent deposits. Thus the beginningless river of pain,expanding continuously, causes anxiety only to a yogī because it is undesirable. Whyis that so? Because a wise man is like an eyeball. Just as a fine thread of wool fallenin the eye, gives pain by its touch, and not (when it falls) on other parts of the body,
-
-
 
 so also these pains trouble only a yogī who is (sensitive) like an eyeball and not anyother person who comes in touch with them.  
 
@@ -9571,8 +8729,6 @@ so also these pains trouble only a yogī who is (sensitive) like an eyeball and 
 
 this science also has four parts.They are as follows—the round of births and deaths (saṃsāra), the cause of saṃsāra,
 
-
-
 liberation and the means of liberation. Of these, saṃsāra which is filled with pain is tobe got rid of. The cause for saṃsāra is the association between pradhāna and puruṣa;the total cessation of this association is liberation; the means to liberation is trueinsight (knowledge).  
 
  तत्र हातुः स्वरूपमुपादेयं वा हेयं वा न भवितुमर्हतीति।हाने त्वस्योच्छेदवादप्रसङ्गः,उपादाने चहेतुवादः,उभयप्रत्याख्याने च शाश्वतवाद इत्येतत्सम्यग्दर्शनम् ॥१५॥
@@ -9596,8 +8752,6 @@ liberation and the means of liberation. Of these, saṃsāra which is filled wit
  किं सर्वस्यैव? नेत्याह— विवेकिन इति।क्लेशादीनां विभागविवेको यस्य विद्यते स विवेकी।तस्यक्लेशकर्मविपाकाभिज्ञस्य परिणामतापसंस्कारगुणवृत्तिविरोधात्मक (धाच्च) सर्वदुःखत्वोपपादक (प्रतिपादक)हेत्वभिदर्शिन इत्यर्थः नेतरस्यानित्थंदर्शिनः॥
 
  तस्य तु तप्तिमात्रं दुःखम्।तदपि 'अहं तप्य' इत्यात्मत्वेन प्रतिपद्यमानः तत्रापि संशयानोऽसौ ममेदंदुःखमित्येतावन्मात्रमपि विविङ्क्ते। यदि ह्येतावदप्यन्तरं विविञ्चीत, ततो दुःखसाधनमप्येतदुःख(साधन)मिति
-
-
 
 मन्वीत तथा च सर्वमिदं दुःखमिति तितिक्षेदिति सोऽपि विवेकी स्यात्।तस्माद्यद्यपि तापकाले दुःखमात्रंपश्यन्ति, तथाऽपि न तत्साधनादि सर्वं दुःखमिति मन्यन्ते निर्विवेकिनः।यस्य पुनः परिणामदुःखहेतुदर्शनंतस्य विवेकिनः सर्वमेव दुःखम्॥
 
@@ -9629,8 +8783,6 @@ Not so; so he says... vivekinaḥ. He who has the wisdom (knowledge)regarding th
 
 [^863]: "The bhāṣya has "
 
-
-
 other (karma) is being collected. Thus (the statements) (karmāśaya has kleśa as itsbasis[^864]) and (when there is a basis then its result comes into being) are quite consistent[^865].
 
 [^864]: "YS, II. 12."
@@ -9658,8 +8810,6 @@ having similar agency. Another person also thinks'He is enjoying what belongs to
  इतश्च सर्वं दुःखमेव,अविद्यात्वाद्विषयसुखस्य।अविवेकप्रत्ययात्मको हि विषयसुखानुभवः।तदेतदाह-विषयसुखं चाविद्येत्युक्तमिति।क्वोक्तम् ?इहैव पर्यायशब्देन “अत्यन्तविवि(भ)क्तयोरत्यन्तासङ्कीर्णयोरविवेकप्राप्ताविव सत्यां भोगः कल्पते।स्वरूपप्रतिलम्भे तु तयोः कैवल्यमेव भवति कुतो भोग इति”इत्यनेन भाष्येण॥
 
  In this manner at the time of enjoyment, a person accumulates karmāśaya causedby greed,anger (and) delusion.Thus being qualified by attachment, hatred and
-
-
 
 delusion the experience (enjoyment) of pleasure is characterised by different kinds ofkarmāśaya; while undergoing changes this becomes painful in intervals, (and) so it iscalled pain due to changes. As for the wise who see this as it (truly) is there is paineven at the time of enjoying (experiencing) pleasure; this is like a person eating curdrice knowing that it is poisoned[^869].
 
@@ -9698,8 +8848,6 @@ Here (in the bhāṣya itself) by using similar words (as follows) “atyanta...
 **“न जातु कामः कामानामुपभोगेन शाम्यति ।  
 हविषा कृष्णवर्त्मेव भूय एवाभिवर्धते ॥” इति ।**
 
-
-
  कौशलानि नैपुणानि च भोगाभ्यासेष्विन्द्रियाणामनु विवर्धन्ते।यद्यपि मनः कौशलपूर्वकमिन्द्रियाणां कौशलं,तथाऽपि दृश्यत एव भिक्षा (क्ष्वा) दीनामिन्द्रियस्यापि कौशलम् ! तस्मादनुपायःसुखस्य भोगाभ्यास इतिभोगाभ्यासान्निवृत्तिरेव सुखम् ॥
 
  स खल्वयं वृश्चिकभीत इवाशीविषेण दष्टो यः सुखार्थी विषयानन्ववसितः अन्ववबद्धः अनुप्रवृत्तोऽनुव्यवसितो वा,यथा मन्दविषाद्वृश्चिकादुपजातभीतिः पटुतरेणाशीविषेण ग्रस्तो महत्तरं दुःखमभिप्रपद्यते,
@@ -9732,8 +8880,6 @@ Therein he says "na cendriyāṇām... kartum[^874]". "kasmāt" (Why is it so?).
 
 सुखोपभोगस्तु परिणममानः सन्ननुबन्धे विज्ञाने विषदिग्धस्वादु्दध्योदनोपभोगवद्दुःखीभवति, स्वरूपतः पुनरविद्यारूपोऽनुकूलवेदनागन्धोऽपि।इह पुनः स्वरूपत एव दुःखतातापस्य प्रतिकूलात्मकत्वात् ॥
 
-
-
  कथम् ? सर्वस्य द्वेषानुविद्धः द्वेषानुगतः चेतनाचेतनसाधनाधीनः शत्रुकण्टकादिसाधनायत्तः तापानुभवःपूर्ववदेवाधर्मफलमनु भवति अपूर्वश्चोपचीयमानः तत्रास्ति द्वेषजः कर्माशयः॥
 
  तेन च दुःखेन परितप्यमानः सुखसाधनानि चन्दनादीनि प्रार्थयमानः कायेन वाचा मनसा च परिस्पन्दतेचेष्टते।तच्च परिस्पन्दनं परानुग्रहाय परपीडनाय वा भवति।ततः परानुग्रहपीडाभ्यां धर्माधर्मावुपचिनोति।सच परानुग्रहपीडाकृतो धर्माधर्माख्यः कर्माशयो लोभान्मोहाच्च प्रभवतीत्येषा तावत् तापदुःखता द्राघीयसीविप्रसृता । एवं पश्यतो विवेकिनः सर्वमेवाश्रयविषयनिमित्तैर्दुःखमिति॥
@@ -9755,8 +8901,6 @@ Therein he says "na cendriyāṇām... kartum[^874]". "kasmāt" (Why is it so?).
  यद्यपि संस्कारस्य स्वरूपतो दुःखता नास्ति,तथापि संस्कारस्य दुःखहेतुतां जानतो विवेकिनः सत्तामात्रेणदुःखत्वं, भक्षितमात्रविषवत् इत्थमेतैः परिणामतापसंस्कारहेतुभिः सर्वमेव दुःखमित्यनादिदुःखस्रोतो योगिनमेवप्रतिकूलात्मकत्वादुद्वेजयति॥
 
  Now he mentions the pain due to subliminal-impressions created by the experience of pleasure and (anguish) (through the words) “kā...tā”. “sukhā...śayaḥ".As pleasure and pain are coloured by attachment and hatred their respective karmāśayaimpressions (collection of karma saṃskāras) will (also) be coloured by attachment
-
-
 
 and hatred. "evam ...duḥkhe[^843]",i.e., (in this manner) (in the experience of karma)known as birth, life-span and experience there are (pleasure and pain).
 
@@ -9788,8 +8932,6 @@ It does not cause anxiety to another[^884] because his mind has been calloused (
 
  ननु च योगिनोऽपि तत्समानं निमित्तं,कस्मात्तमुद्वेजयतीति।उद्वेजयत्येव तम्।कस्मात्?अक्षिपात्रकल्पोहि सः।प्रसन्नत्वाद्विरक्तत्वादित्यर्थः।तस्मान्न समानं निमित्तं तस्य,यतोऽसौ विद्वानिति।न हि विदुषःक्लेशादिकालुष्याविवेककिणीकृतचेतस्त्वम्।न च तत्किणीकृतचेतस्त्वतिरस्कारादृते विद्वत्ता।तस्मादक्षिपात्रकल्पत्वाद्विद्वांसमेवोद्वेजयति,नेतरम् ॥
 
-
-
  तत्र दृष्टान्ताभ्यां विद्वदविदुषोरन्तरमाचष्टे—यथोर्णातन्तुरतिमृदुस्पर्शोऽप्यक्षिपात्रे न्यस्तः स्पर्शेन दुःखयतिस्वच्छतरत्वादक्षिपात्रस्य, तथा योगिनं विविक्ततरप्रज्ञानमकलुषहृदयमुद्वेजयति दुःखम्।स एवोर्णातन्तुरन्येषुगात्रेषु क्षिप्तः खरतरसंस्पर्शेनापि न दुःखयति, तथा नेतरं प्रतिपत्तारं दुःखं पीडयति, क्लेशादिकिणीकृतचेतस्त्वात्कठिनतरेतरगात्रावयवकल्पो हि सः ॥
 
  तदिदमाह—एवमेतानि दुःखानि अक्षिपात्रकल्पं योगिनमेव क्लिश्नन्ति नेतरं प्रतिपत्तारम्।इतरस्य तुप्रतिपत्तुरितरगात्रावयवस्वभावतां दर्शयन्नाह—इतरं त्विति।तापा अनुप्लवन्त इत्येवमन्तेन वाक्यसमाप्तिः॥
@@ -9818,10 +8960,6 @@ Question —"kasmāt"? "akṣi...saḥ[^887]"(This is so) because he has clarity
  “svakāraṇopahṛtam[^889]"= that which is brought into being through the causes bothanimate and inanimate producing pain and reaching a state of action of puruṣa through
 
 [^889]: "The bhāṣya has “svakarmopahṛtam"
-
-
-
-
 
 the modification of the mind; "duḥkham....iva" = at the giving up of the body (atdeath) (on the one hand) and on the other hand (that which has been given up) isagain another of the nature of the body; "duḥkha ...miva[^890]" (they take on repeatedly)the recollection (of pain) (and are pierced as it were on all sides) by ignorance[^891].
 
@@ -9861,8 +8999,6 @@ those which have both external and internal causes.
 
 [^896]: "Nothing new to the bhāṣya translation is added."
 
-
-
  ननु च योगित्वादेव सम्यग्दर्शनं प्रतिपन्नः।उच्यते—योगाङ्गानुष्ठानादेव योगित्वं,ऋतेऽपि सम्यग्दर्शनात्।तस्मात् सम्यग्दर्शनसाधनत्वं योगस्य दर्शयति।योगं योगफलं च सर्वमेव दुःखं पश्यन् सम्यग्दर्शनैकशरणंप्रतिपद्यते।तथा च वक्ष्यति—“तद्वैराग्यादपि दोषबीजक्षये कैवल्यम्” इति ॥
 
  इतश्च सर्वं दुःखं विवेकिनः।कुतश्च ? गुणवृत्तिविरोधाच्चापि ।  
@@ -9893,8 +9029,6 @@ those which have both external and internal causes.
 
  Answer—There is no defect in that. The experience of pleasure and pain and theirlatent impressions are well-known to all people, therefore it has been indicated throughthe instrumental plural as *pariṇāma...duḥkhaiḥ*. The contradictory nature of theguṇas are only known to those of great wisdom who have the clarity of knowledge ofthe (various) divisions of those causes—therefore it has been mentioned as a separatecause. (And) since being the cause for all pain is common (to both) they are includedin one sūtra.
 
-
-
  The guṇas are sattva, etc., their modifications are the modifications (nature) of theguṇas; 'because of their (mutual) contradiction' gives rise to the word gunavṛtti-virodhāt. These guṇas are present in the form of mental processes; and as these havea single mutation in line with the important guṇa (of the moment) they are by naturecontradictory. As one modification arises it is overcome by another modification.[^902]
 
  In this manner,amongst the three (guṇas) there is mutual repudiation of theirmodification at every moment on the one hand and on the other hand a manifestationof modification by mutual (interaction). The coming into being of one modificationof the guṇas of the nature of pleasure, pain and delusion is not the non-manifestationsimultaneously of other (modifications). Therefore it establishes the following—
@@ -9918,8 +9052,6 @@ whenthe quality of rajas of the nature of pain manifests itself then it can be s
 [^843]: "Instead of "
 
  And when a fearful (passionate) rājasika thought accompanied by the other (twoas subsidiary) has arisen then almost immediately afterwards it is destroyed by adeluded tāmasika thought desiring to manifest itself accompanied by a sāttvika(thought) or by a sāttvika thought accompanied by a tāmasika (thought). In a similar
-
-
 
 way, a tāmasika (thought gets destroyed) in turn by the other thoughts; similarly theothers (are destroyed) by a sāttvika (thought); thus the guṇas function arising anddestroying one another.
 
@@ -9951,8 +9083,6 @@ so also the gunas modified in accordance to illumination, activity (etc.)which t
 [^909]: "The same idea is repeated again and again in different forms. Only one guṇa in its manifest form isseen while the other two are present in an unmanifest from."
 
  एवमेते गुणा इतरेतरोपाश्रयेणोपार्जितसुखदुःखमोहप्रत्ययाः।सत्त्वेन रजस्तमउपाश्रयेणोपार्जितः सुखप्रत्ययः।रजसापि सत्त्वतमउपाश्रयेणोपार्जितो दुःखप्रत्ययः।तमसापि सत्त्वरजउपाश्रयेणोपार्जितो मोहप्रत्ययः।ततःसर्वे सर्वकार्या भवन्ति॥
-
-
 
  यद्येवमयं प्रत्ययः सात्त्विकः,तामसोऽयं,राजसश्चायमिति विशेषः क इत्याह—
 
@@ -9986,8 +9116,6 @@ He answers (through the words) "guṇa...śeṣa”, i.e., it is due to therelat
 
 [^913]: "Towards the very nature of things in their intrinsic sense."
 
-
-
  Having the quality of pain due to changes, anguish and latent impressions "tasyai ...vidyā[^910]", i.e. this great collection having the relationship of being important or subsidiary (in every situation) (has avidyā as its source). "tasyā...hetuḥ" (its means ofdestruction is right knowledge) because it can oppose it. As knowledge has as its object truth (reality) and ignorance is based on objects that do not exist, right knowledge alone is the cause of its destruction. This is similar to the destruction of the sightof the unreal non-existent several moons by the sight of the real, existent, one moon.  
 
 [^910]: "The Vivarana has "
@@ -10013,8 +9141,6 @@ thus this science of yoga also has four divisions and so this science isfourfold
 [^916]: "One could think of the four as avidyā-kleśa-karma-vipāka and again the four repeating itself."
 
 [^917]: "The nature of the liberated is under discussion."
-
-
 
  ननु 'द्रष्टा दृशिमात्र' इति हातृलक्षणसूत्र एतद्वदितव्यम्।नैष दोषः।शास्त्रारम्भप्रयोजनप्रतिपिपादयिषुणाक्लेशादिकः समस्तो दुःखावसानः संसारो निर्वर्णितः।संसारी च यः संसारदुःखेन निर्विण्णो विवेकी सोऽस्यशास्त्रस्य विषय उपपादितः।तस्य विवेकिनः शास्त्रमतः परमारभ्यते।एतच्च प्रथमसूत्रे प्रदर्शितम्।आरभ्यमाणस्यशास्त्रस्य सम्यग्दर्शनमेव प्रयोजनम्।तच्च संसारदुःखनिर्वर्णनानन्तरमवसरप्राप्तं प्रतिपादयितव्यमित्येतदुच्यते—
 
@@ -10064,8 +9190,6 @@ We will indicate (show) the defect in the Kaivalyapāda (last pāda).Moreover, s
 
 [^920]: "One cannot have the agent and the instrument of action being one and the same."
 
-
-
  If it is said that the ātman is itself the destroyer of ātman then (the answer is)—it isnot so; as there will be contradiction of action in one's own self and absence of anydifference (between the agent and the action). As it is to be destroyed, if the ātman isthe destroyer of ātman, then there has to be a second and a third and so on leading toa lack of finality; because whosoever is the destroyer will also have to be destroyed.Nor is it possible to accomplish the coming into existence of both destroyers at thesame moment. And when there is the coming into existence of both at different timesthe relationship of destroyer and destroyed cannot be satisfactorily explained.  
 
 हातुश्च हेयत्वाभ्युपगमे तस्यानवस्थितत्वाद्धेयसम्बन्धानुपपत्तिः।हातुरनवस्थितत्वे च स्वयमेवहेयत्वप्रतिपत्तेर्हातुर्हानायोद्यमानर्थक्यप्रसङ्गः।हानफलानुपपत्तिश्च।न हि बद्धस्य स्वरूपनाश एव फलम्।मोक्षो हि तस्य फलम्।नापि म्रियमाणोऽपि ज्ञातक्षणान्तरमरणः स्वरूपविनाशमिच्छति।विनाशस्यार्थप्राप्तत्वादेवमनवस्थितश्चेद्धाता न स्वरूपहानमिच्छेत्,अर्थप्राप्तेर्हानस्य ॥
@@ -10087,8 +9211,6 @@ We will indicate (show) the defect in the Kaivalyapāda (last pāda).Moreover, s
  किं च—
 
 पारार्थ्यप्रसङ्गश्च। अन्यस्य हि हेतोरन्यदुपादीयते,सत्वादिलक्षणस्य प्रधानस्योपादाने पुरुषोहेतुरभ्युपेयते,यथा घटाय मृत्पिण्डोपादाने कुलालो हेतुः।स चेत्पुरुषः प्रधानोपादानहेतुः प्रधानवदुपादीयेत,
-
-
 
 तस्यापि सत्त्वादिधर्मत्वं स्यात्, उपादेयत्वान्मृत्पिण्डवत्।ततोऽस्य प्रधानस्य निर्हेतुकं कार्यार्थमुपादानं प्राप्नोति॥
 
@@ -10126,8 +9248,6 @@ Why is it not so?
 
 [^929]: "A light or lamp is always used to illumine another object-its intention is not to illumine itselfthough that might come to pass."
 
-
-
  उभयप्रत्याख्याने हेयत्वोपादेयत्वप्रत्याख्याने।शाश्वतवादप्रसङ्गः आत्मनित्यत्ववादप्रसङ्गः।यद्यपिप्रधानस्योपादेयस्यापि शाश्वतत्वं, तथाऽपि विकारात्मना तदशाश्वतमेव।अनेकात्मकत्वमशुचित्वमविद्यात्वंपरार्थत्वमित्येवमादयो दोषाः प्रधाने।पुरुषाणामपि तथात्वे सत्यनिर्मोक्षप्रसङ्गः।बन्धमोक्षयोस्तद्धेत्वोश्चविद्याविद्ययोः स्वरूपाव्यतिरेकाद्बन्धमुक्तयोश्च निर्विशेषत्वप्रसङ्गात्।तस्माद्धेयोपादेयत्वप्रत्याख्यानेन शाश्वतवादइत्येतदेव सम्यग्दर्शनम् ॥२५॥  
 
  “ubhaya... prasangaḥ[^930]"i.e., when there is rejection of being sought after or being destroyed there is the resultant consequence of ātman being eternal. Even thoughpradhāna which is sought after is also eternal still, because of having a changefulnature it is impermanent. (And) in pradhāna there is a multitude of defects like havinga manifold nature, being impure, having ignorance, serving the purpose of anotherand so on. If puruṣas also have the same nature then there will be the contingency ofthere being no liberation. And as there will be no difference in the essential nature ofbondage and liberation and their causes, ignorance and (right) knowledge, there willbe the undesirable consequence of there being no distinction between bondage andliberation. Therefore,by rejecting (the nature of) puruṣa as something to be obtainedor something to be destroyed the theory of permanence (of puruṣa) is reached.“ityetat...nam[^931]."
@@ -10149,8 +9269,6 @@ Why is it not so?
  The pain which is past has been exhausted through experience; therefore, it cannotfall under the sphere of the avoidable. Present suffering also is being experienced atthe time of its existence; therefore it cannot be considered as avoidable at the nextmoment. Therefore it is only that pain, which is yet to come, which troubles a yogīwho is (sensitive) like an eye-ball and not any other experiencer. That alone is to beavoided.
 
  यथा चिकित्स्यव्यतिरिक्तरोगादिचतुष्टयमन्तरेण चिकित्साशास्त्रमारोग्यप्रयोजनं चतुर्व्यूहं न संभवति,तथेदमपिहातृ स्वरूपव्यतिरिक्तहेयादिचतुष्टयमन्तरेण सम्यग्दर्शनशास्त्रं हानफलं चतुर्व्यूहं न सम्भवतीति,हेयादिचतुष्टयप्रतिपादनेन तदेतच्छास्त्रं चतुर्व्यूहमभिधीयते ॥
-
-
 
  कथम् ? हेयं दुःखमनागतम्।दुःखमतीतम् अतिक्रान्तं, वर्तमानाज्जन्मनोऽतिक्रान्तजन्मलक्षणं दुःखं,तदुपभोगेनातिवाहितम् अतिनीतं न हेयपक्षे वर्तते।स्वयमेव हीनत्वात् ॥
 
@@ -10186,8 +9304,6 @@ How is this fourfold?
 
 [^937]: "The Vivaraṇakāra seems to be talking about the prārabdhakarma and pain that comes in its wakeeven in the event of jīvanmukti."
 
-
-
  तस्माद्यदेव हेयमित्युच्यते तस्यैव कारणं प्रतिनिर्दिश्यते—
 
  Therefore the cause of that alone which is mentioned as avoidable is being indicated.
@@ -10211,8 +9327,6 @@ How is this fourfold?
  How is this possible? Because remedy for the cause of pain, which can be removed, is seen (in the world). For example, the sole of the foot is capable of beingpierced; the thorn has the capacity to pierce; the remedy is, 'not to place the foot onthe thorn' or ‘to place the foot when it is covered by a shoe'. Whoever in the worldknows these three, secures the remedy and does not undergo the pain due to thepiercing. How is this possible? By the capacity to understand its threefold character.Here also, for the 'rājasa guṇa' which disturbs, the 'sattva-guṇa' is the disturbed.How is that? Because the action of disturbance can abide (only) in an object and notin the unchanging, actionless 'kṣetrajña'. When the 'sattva guṇa' is disturbed, thepuruṣa which assumes its form, because of being shown the object, is also disturbed.
 
  तदेतच्छास्त्रं चतुर्व्यूहमभिधीयत इत्युक्तम्।एकश्चतुर्षु व्यूहः प्रतिपादितः हेयं दुःखमनागतमिति।इदानींद्वितीयो व्यूहः तस्य दुःखस्य कारणं, हेतुः प्रतिनिर्दिश्यते ॥
-
-
 
  ननु निर्दिष्टमेव दुःखकारणमिति,तथैवोपसंहृतमन्ते—तस्यैतस्य महतो दुःखसमुदायस्य प्रभवबीजमविद्येति।सत्यमेवम्।किन्तु दुःखस्वरूपमात्रं तत्कारणस्वरूपमात्रं च पूर्वं निर्दिष्टम्।न च तत्स्वरूपमात्रे, इति तत्कारणंनिर्दिश्यते।द्रष्टृदृश्ययोः संयोगो हेयहेतुः ॥
 
@@ -10244,8 +9358,6 @@ How is this fourfold?
 
  Answer—"sattvo... dharṃāḥ", i.e., objects like sound and so on, deposited in
 
-
-
 the sattva intelligence are known in the shape of ideas of intelligence and not itself[^941].If it itself is known then puruṣa will have the nature of having objects both known andunknown. But logically puruṣa is established as having always the nature of knowingobjects.Therefore it is only those properties deposited in the intellect that are known.  
 
 [^941]: "The intellect per se is not known but only the thoughts in it. The objects are also not known bythemselves but as deposited as ideas in the intellect."
@@ -10271,8 +9383,6 @@ the sattva intelligence are known in the shape of ideas of intelligence and not 
 तयोर्दृग्दर्शनशक्त्योरितिद्रष्टृदृश्ययोरित्युपक्रम्यदृग्दर्शनशक्त्योरित्युपसंहारः,बुद्धिपुरुषसंयोगस्यबुद्ध्युत्पत्त्यनन्तरभावित्वादादिमत्त्वमाशङ्क्य तदनादिमत्त्वप्रदर्शनार्थं क्रियते।दृग्दर्शनशक्त्योरनादिः संयोगः।धर्मिणां नित्यत्वात् नित्यसम्बन्धोपपत्तेस्तच्छक्त्योरपि द्रष्टृदृश्यत्वलक्षणोऽनादिः संयोगोऽर्थकृतः पुरुषार्थप्रयोजनवश इत्यर्थः ॥
 
  Objection—But then, how can something which is independent have the nature ofbeing a possession? Anything which is independent and functioning on its own does
-
-
 
 not stand in need of another. Even that which fulfils the purpose of puruṣa in consequence of its own activity, that is also through its own nature, and it is not fulfillingthe purpose of puruṣa. Therefore it is incorrect for that which exists independently tohave the nature of being a possession.  
 
@@ -10302,14 +9412,11 @@ not stand in need of another. Even that which fulfils the purpose of puruṣa in
 
  Answer—Through knowledge, through right vision, through its opposition, it isremoved. Therefore by removal of the cause of their association "atyan.... kāraḥ" =there arises the absolute (remedy for pain).
 
-
-
  Question—What is it (the remedy) which is right vision? In answer to the questionas to the nature of this (remedy) he gives the well-known example (through the words)"tadyathā", i.e., (The sole of the foot can be pierced) as it is very soft. "kaṇṭa...tvam"=(the thorn can pierce) as it is of a hard nature. Their contact is the special cause forpain. Therein the “parihāraḥ " (remedy) for the pain due to the piercing of the thorn"kaṇṭake..nam"¹ is not to attack the thorn with one's foot. If there is a reason toplace the foot then “pāda...nam"²(it should be covered with some protection)."etat...pnoti"³= He who knows these two, i.e., capacity to be pierced and capacityto pierce or the twofold remedy[^948](he) commences a different cure. (He by commencing the remedy does not undergo the pain) which is caused by the piercing of thethorn.
 
 [^948]: "Not to place the foot on the thorn or to protect the foot when so placed."
 
  तथेहापि पुरुषः सत्त्वद्वारेण कण्टकस्थानीयं प्रधानम्,तयोर्विशिष्टः संयोगोऽविद्यानिमित्तो दुःखकारणम्,दुःखपरिहारोऽप्ययम्—गुणगौणेभ्यः प्रधानमात्रविशेषेभ्यो दृश्येभ्यो निरपेक्षता,सम्यग्दर्शनेन प्रयोजनाभावंबुद्ध्वा पुरुषस्याविक्रियत्वात् कण्टकाधिष्ठानवच्छरीरारम्भिणो वा कर्मणो नियतवेदनीयत्वादवश्यं फलदायित्वंबुद्ध्वा अप्रार्थितोपनतानां शब्दादीनां सम्यग्दर्शनव्यवहितेन सत्वेन भोगः।एवं परिहारं सञ्जानानःकण्टकभेददुःखपरिहारमिव संसारदुःखं नाप्नोति ॥
-
 
 कस्मादेतदेवमिति?त्रित्वोपलब्धिसामर्थ्यात्।प्रधानपुरुषसंयोगत्रित्वोपलब्धिसामर्थ्यात्।एवं हि विज्ञानस्यसामर्थ्यं दृश्यते, पादतलकण्टकतत्संयोगेष्वज्ञानस्य च त्रित्वानुपलब्धेर्दुःखहेतुत्वं दृश्यत एव।
 
@@ -10326,8 +9433,6 @@ not stand in need of another. Even that which fulfils the purpose of puruṣa in
 ¹The bhāṣya has "kaṇṭakasya" whereas the Vivaraṇa has "kaṇṭake".  
 ²Instead of just "adhiṣṭhanam" the Vivaraṇa has "padadhiṣṭhānam".  
 ³Instead of "etattrayam" available we have "etatdvayam" in the Vivaraṇa.
-
-
 
 रजसस्तापकस्य विषयिणि पुरुषे।तप्तेश्च फलस्य पुरुषविषयत्वात् ॥
 
@@ -10370,8 +9475,6 @@ Thus he says "darśita... tvāt", i.e., it is because there is absence ofactivit
 
 "In the bhāṣya it is "tapyamāne" while in the Vivaraṇa it is "tapye". There is no "tathā" in the bhāṣya. Instead of "anutapyata" the Vivaraṇa has "tapyata".
 
-
-
 which is the thought of the intellect, is the assumption of a similar form (by puruṣa).As in the proximity of red lac a crystal takes on (assumes) the form of red lac so also"puruṣo...ta" (puruṣa also takes on the form of the intellect) figuratively.  
 
   दृश्यस्वरूपमुच्यते—
@@ -10393,8 +9496,6 @@ which is the thought of the intellect, is the assumption of a similar form (by p
 अयं तु खलु त्रिषु गुणेषु कर्तृष्वकर्तरि च पुरुषेतुल्यातुल्यजातीये चतुर्थं तत्क्रियासाक्षिण्युपनीयमानान्सर्वभावानुपपन्नाननुपश्यन् न दर्शनमन्यच्छङ्कतेइति ।
 
  This same object consists of the elements and the sense-organs; in the form ofelements it transforms itself into gross and subtle earth, etc., similarly in the form ofthe sense-organs it transforms itself into the gross and subtle sense of hearing, etc.These objects are not without purpose, instead they function by accepting a cause;therefore, the objects exist for fulfilling the purpose of experience and liberation of
-
-
 
 puruṣa. Of these, experience is the realisation of the desirable and undesirable natureof the qualities (in puruṣa) obtained by identification (with the intellect). Liberation(apavarga) is the realisation of the true nature of the experiencer (puruṣa). Apart fromthese two there is no other knowledge. In this connection it has been said—
 
@@ -10421,8 +9522,6 @@ There is no defect in that; as the knowledge of the nature of the seer isdepende
 [^951]: "In YS, II.17. draṣṭṛ is placed before dṛśya."
 
  "prakāśa ... dṛśyam. The words prakāśa and kriyā and sthitiḥ give rise to theword prakāśakriyāsthitayaḥ (brightness,activity and staying inert).As it is greatlydesired prakāśa is placed as the first (in the compound).When there are many terms
-
-
 
 (as in a compound) and there is no order as to which should come first and whichlater, (and) there is no order between the two words kriyā and sthitiḥ so kriyā hasbeen placed before (sthitiḥ) (just like that). That which has these as its nature isprakāśa...lam. That which illuminates is light; that which has that as its nature is"prakāśa ...sattvam".
 
@@ -10454,12 +9553,7 @@ There is no defect in that; as the knowledge of the nature of the seer isdepende
 
  Answer—Not so; in the state of pradhāna there is equilibrium of the three guṇas;if activity becomes the nature of rajas there will be activity in pradhāna as well in thestate of equilibrium of the guṇas. It is only in the effect state that possessing activityis logical and not at the time of pradhāna (the cause). Therefore the use of the word
 
-
-
-
 ×
-
-
 
 śīla (nature) is not in the sense of its own nature.
 
@@ -10495,12 +9589,9 @@ There is no defect in that; as the knowledge of the nature of the seer isdepende
 ²"kriyāśīlam rajaḥ" has been left out in the Vivaraṇa.  
 ³In the bhāṣya "iti" ends one sentence and the next one begins with "ete". But the Vivaraṇakāra combines the two and starts the line with "ityete".
 
-
-
 about to come into being there is connection amongst them existing as principal andas subsidiary. Similarly when there arises qualities which oppose the effect which hascome into being there is disconnection amongst them.
 
  "itare...rtayaḥ", i.e., those embodied objects beginning with mahat (buddhi) upto a clump of grass, having the properties of being (alternatively) the qualified or thequalifier,which are connected to each other by dependence are "itareta...mūrtayaḥ".
-
 
 "parasparato...api[^954]"—
 
@@ -10525,8 +9616,6 @@ in truth they are different from each other. "asaṃ...bhāgāḥ" they are diff
 गुणत्वेचोपसर्जनभावे च व्यापारमात्रेण प्रधान उपलक्ष्यमाणेन व्यापारमात्रेण।प्रधानान्तर्नीतेन न हि प्रधानस्यान्तर्नीतोव्यापारः इतरयोरुपसर्जनभावेनासन्निधाने संभविष्यतीति प्रधानव्यापारेणानुमितास्तित्वाः ॥
 
  पुरुषार्थेतिकर्तव्यताप्रयुक्तसामर्थ्याः पुरुषार्थो भोगापवर्गौ तस्येतिकर्तव्यता यथा यथा अर्थनिष्पत्तिस्तथा
-
-
 
 तथा प्रयुक्तं कार्यारम्भं प्रति सामर्थ्यं येषां ते पुरुषार्थेतिकर्तव्यताप्रयुक्तसामर्थ्याः॥
 
@@ -10558,13 +9647,9 @@ in truth they are different from each other. "asaṃ...bhāgāḥ" they are diff
 
 [^958]: "The available bhāṣya reading has "
 
-
-
 ¹The Vivaraṇakāra has "pradhānāntarnītena" instead of "pradhānāntarṇītā".  
 ²The Vivaraṇahas an additional "iti" after "puruṣārtha". Also instead of "puru... kartavyatā" the Vivaraṇakāra has "puruşarthetikartavyatāprayukta..."  
 ³The available bhāṣya reading has "pariṇamate" and not "vipariṇamate".
-
-
 
 "indriyabhāvena" = in the form of the sense-organ. "śrotrā...ṇamate" = in the subtle form of the 'sense-of-I' and in the gross form of the ear (sense of hearing), etc."tattu ... nam"; in all instances one observes that activity is with purpose. "apitu....tate"= (on the other hand they function) accepting a purpose. In answer to the question as to the purpose of the activity of the seen object he says "bhogā.....ṣasyeti";just as one finds in the case of fire, etc., (the object serves the purpose of experienceand liberation of puruṣa).
 
@@ -10594,8 +9679,6 @@ Instead of "taddrsyam" the Vivaraṇa has "dṛśyam.
 ³The Vivaraṇakāra is splitting the compound.  
 ⁴By reflection in caitanya.  
 ⁵There is no more experience which is what is indicated by not having any more qualification like identity with the mind.
-
-
 
 नास्त्येवान्यत् सम्यग्दर्शनमिति मन्यते ॥
 
@@ -10628,10 +9711,6 @@ how is that "sa...bhokteti", i.e., he is the experiencer of both the idea ofexpe
 
 ⁴The bhāṣya has "buddhereva puruṣārthā..." whereas the Vivarana has "buddherevārthā...".
 
-
-
-
-
 is a bondage. "tadarthā...mokṣaḥ"=there is the coming to end of the purpose ofthat same intellect, i.e., the end of its achievement. When the intellect perceives puruṣadifferent from itself, not related to both experience and liberation, i.e., as not havingany purpose to achieve, that end of its purpose is called liberation of the intellect.
 
  "etena...sadbhāvaḥ[^962]"=one should understand that (all these various propertiesof the intellect) are superimposed on puruṣa. Since all properties of the intellect arecharacterised without distinction as belonging to the class of ideas, "buddhā...nāḥ”=they are brought into being by the intellect "puruṣe.....vāh"=(and) puruṣa receives(them) (or) puruṣa supports them—thus in this way they are superimposed on puruṣa.
@@ -10654,8 +9733,6 @@ is a bondage. "tadarthā...mokṣaḥ"=there is the coming to end of the purpose
 
 ²Each of the words in the compound "grahaṇa..." is being analysed by the Vivaraṇakāra.
 
-
-
   सर्वार्थम्, इत्येतान्यस्मितालक्षणस्याविशेषस्य विशेषाः।गुणानामेष षोडशको विशेषपरिणामः ।
 
  Amongst them the elements ether, wind, fire, water and earth are the particularised of the unparticularised subtle elements sound, touch, colour, taste and smell.Similarly the ear, skin, eye, tongue and nose are the organs of knowledge; speech,hands, feet, organ-of-excretion and organ-of-generation are the organs of action; mindwhich is the eleventh (organ) is both (the organ of knowledge and organ of action);all these are the particularised of the unparticularised which is the I-sense. Thesesixteen are the particularised mutations of the guṇas.
@@ -10672,8 +9749,6 @@ is a bondage. "tadarthā...mokṣaḥ"=there is the coming to end of the purpose
 
 ×
 
-
-
 existence; they appear to have the properties of birth and death because their individual manifestations in which they are present are possessed of the qualities of goingout of existence and coming into being in their past and future forms. For example wesay—Devadatta has become poor. Why? Because his cows are dying. His poverty isonly due to the death of the cows and not due to his own destruction. In a similar way,one has to understand the case of the gunas.  
 
  लिङ्गमात्रमलिङ्गस्य प्रत्यासन्नं तत्र तत्संसृष्टं विविच्यते, क्रमानतिवृत्तेः।तथा षडविशेषा लिङ्गमात्रेसंसृष्टा विविच्यन्ते, परिणामक्रमनियमात्।तथा तेष्वविशेषु भूतेन्द्रियाणि संसृष्टानि विविच्यन्ते, तथाचोक्तं पुरस्तात्।न विशेषेभ्यः परं तत्त्वान्तरमस्तीति विशेषाणां नास्ति तत्त्वान्तरपरिणामः।तेषां तुधर्मलक्षणावस्थापरिणामा व्याख्यायिष्यन्ते ॥१९॥
@@ -10689,8 +9764,6 @@ existence; they appear to have the properties of birth and death because their i
  "dṛśyānām...bhyate", i.e., this sūtra (is begun) in order to ascertain the difference in the true state of the (gunas) which have been explained (in the previous sūtra)(as) visesāviśesa parvānah. The (compound can be split up as ) 'viśesa' and'aviśesa' and ‘just liṅga' and 'that without liṅga' is (visesā...liṅga).
 
  It does not move, it does not come from anywhere, it is a substance called pradhāna,so the affix ‘ac' (a) is added to all roots of the class of 'pac' and when added it standsfor denotation (as a substance). The word linga which is a synonym of mark (symbol)is of the neuter gender; and it accomplishes the effect. Or the (word can be explainedas) that which has no mark; ‘liṅga' is understanding, an accurate definition, i.e., aliṅga
-
-
 
 is that which is not directly the mark of the substance called pradhāna, thus it is a bahuvrīhi compound[^963].
 
@@ -10718,9 +9791,7 @@ is that which is not directly the mark of the substance called pradhāna, thus i
 
  Question—If it is said that it has the speciality of absence of giving of space then the answer is—not so. The absence of another embodied one will then be similar in
 
-
-
-eternity as [well](http://॑॑# "If space makes way for such a substance then it would be eternal by the same argument.").Ether is eternal also because it has no property of impermanence, (and) like ātman it is all-pervading.
+eternity as [well](॑# "If space makes way for such a substance then it would be eternal by the same argument.").Ether is eternal also because it has no property of impermanence, (and) like ātman it is all-pervading.
 
   Answer—This is not so as it is in contradiction to scriptural statements like—‘From that Brahman indeed which is this self, was produced space[^967]’. It is also in contradiction to traditional statements.
 
@@ -10743,11 +9814,11 @@ eternity as [well](http://॑॑# "If space makes way for such a substance then 
 
  Question—But if it is said that one who argues that ether comes into being cannot say anything in particular (the answer is) that is not so, as there is the particularity of accomplishing or non-accomplishing the goal of puruṣa. The mark is also not applicable as it is all-pervading.
 
-  And time, space, ether and mind are non-permanent; in the absence of functioning for one's own self they function for the sake of another like pots and so on. And they all come into existence as they are different from pradhāna and puruṣa like pots and so on. Thus ether (is non-permanent because of coming into existence) (and) due to having the quality of being an object for the outer [sense-organ](http://॑# "Sound which is the property of ether is the object of the ear, an external sense-organ."),like pots and so on. As it is of the element essence it is like earth. As it has the property of producing connection between non-permanent substances it is like earth and so on. As it excites the accomplishment (completion) of medical treatment it is like the wind[^970]. The
+  And time, space, ether and mind are non-permanent; in the absence of functioning for one's own self they function for the sake of another like pots and so on. And they all come into existence as they are different from pradhāna and puruṣa like pots and so on. Thus ether (is non-permanent because of coming into existence) (and) due to having the quality of being an object for the outer sense-organ[^1275],like pots and so on. As it is of the element essence it is like earth. As it has the property of producing connection between non-permanent substances it is like earth and so on. As it excites the accomplishment (completion) of medical treatment it is like the wind[^970]. The
 
 [^970]: "In Ayurveda ether has a part to play in causing diseases."
 
-
+[^1275]: "Sound which is the property of ether is the object of the ear, an external sense-organ."
 
 excitement of the sky (ether) is reversed by medical treatment (and) thus has increased the reputation of medical practitioners. By (all) this the similarity of non-permanence has been explained[^971].
 
@@ -10781,13 +9852,13 @@ excitement of the sky (ether) is reversed by medical treatment (and) thus has in
 
  एतान्येकादशेन्द्रियाण्यस्मितालक्षणस्य अस्मिभावोऽस्मिता अस्मीति प्रत्ययः स च लक्षणं यस्य सोऽस्मितालक्षणोऽस्मिताप्रत्ययेन हि लक्ष्यते लिङ्ग्यते षष्ठमविशेषाख्यं तत्त्वमहङ्कारः।तस्याविशेषस्य विशेषा एतानि॥
 
-
-
  गुणानामविशेषाकारसंस्थितानां सत्त्वादीनामेष षोडशको विशेषपरिणामः सत्त्वबहुलमाकाशं,रजोबहुलो वायुः,सत्त्वरजोबहुलोऽग्निः, \[जलं च\]। सत्त्वतमोबहुला पृथिवी, ग्राह्यत्वात्।तामसत्वेऽप्येषां गुणप्रधानकृतो विशेषः।करणानि प्रकाशत्वात् सत्त्वबहुलानि, मनःषष्टानि तु बुद्धीन्द्रियाणि प्रकाशप्राधान्यात् सत्त्वबहुलानि।कर्मेन्द्रियाणि क्रियाप्राधान्याद्रजोबहुलानि ॥
 
-  “ekādaśam...ṛtham” = (the mind) has the past, future and present as its objects as well as the sense-organs of knowledge and the sense-organs of action as its [objects.](http://॑# "All these come within the sphere of the mind.")
+  “ekādaśam...ṛtham” = (the mind) has the past, future and present as its objects as well as the sense-organs of knowledge and the sense-organs of action as its objects.[^1276]
 
  “etāni... viśeṣā”? = all these eleven sense-organs are (the particularised of) that (unparticularised asmitā). (The derivation of) asmitā is ‘the state of being I’, i.e., ‘it is an awareness of being-I’, that which has that property is “asmitālakṣaṇaḥ". Ahaṃkāra (or the sense-of-I) is the sixth unparticularised principle which is distinguished by the mark of awareness of the sense-of-I.
+
+[^1276]: "All these come within the sphere of the mind."
 
  “guṇānām” and so on. Of the (guṇas) sattva, etc., which exist in an unparticularised state (these 16 are particularised mutations). Ether is predominantly sattva (tranquil); wind is predominantly rajas, fire is predominantly sattva (tranquil) and rajas (active) (also water is like that);[^975] earth is predominantly sattva (tranquil) and tamas (inert) as it is grasped (as an object). Even though there is the quality of tamas, the quality is created by the predominant guṇa in all these[^976].
 
@@ -10812,8 +9883,6 @@ excitement of the sky (ether) is reversed by medical treatment (and) thus has in
 [^979]: "Fire has three qualities but is known by the prominent guṇa as having colour."
 
 [^980]: "Water and Earth which are the next two."
-
-
 
 “matra[^981]” is for the sake of differentiating the special property such as tranquillity[^982],violence[^983],etc., “eka... bhēdāḥ = having one property of the essence of sound is the distinction of the subtle element of sound. Having the qualities of sound and touch is the distinction of the subtle element of touch. In this manner by increasing one by one the later (subtle elements) can be understood. “ṣaḍa... mātraḥ” = with reference to the subtle elements such as sound, etc., the sixth (I-sense) is the unparticularised of the eleven sense-organs[^984].
 
@@ -10848,8 +9917,6 @@ excitement of the sky (ether) is reversed by medical treatment (and) thus has in
  “eṣa...pariṇāmaḥ”, i.e., of the guṇas sattva,etc., (it is the indicator alone) staying in which the unparticularised reach full growth and to which they return in involution[^990].“aliṅgapariṇāmaḥ” that (which is both existent and non-existent and is
 
 [^990]: "The Vivaraṇakāra just repeats what went before."
-
-
 
 unmanifest) is the (unmanifested change[^991]) of those very guṇas. Beyond that there is no subtle mutation of the guṇas as it has already been explained that ‘The subtle object extends up to the aliṅga[^992]’.
 
@@ -10887,8 +9954,6 @@ unmanifest) is the (unmanifested change[^991]) of those very guṇas. Beyond tha
 
   “guṇāstu...naḥ” = (the guṇas) are the basis for all mutations. Just as a serpent is
 
-
-
 accompanied by the qualities of length, curved movement and the coils, etc., (of the serpent) so also the guṇas are accompanied by the principles such as particularisation, etc.; they accompany the substances and knowledge (and) “na...yante[^1000]” (they neither cease to exist nor come into existence[^1001]).Just as a serpent does not go out of existence when the coils, etc., go out of existence and does not come into being when that comes into being so is the case with the guṇas. So also (to give another example) when a pot, a pan, etc., cease to exist (as a pot, or pan, etc.,) or when they come into existence, the clay neither ceases to exist nor comes into existence[^1002].
 
 [^1000]: "The Vivaraṇakāra has “pralīyante” for “pratyastamayante” in the bhāṣya."
@@ -10903,23 +9968,21 @@ accompanied by the qualities of length, curved movement and the coils, etc., (of
 
 [^1004]: "This is in keeping with the Sānkhya-Yoga theory.."
 
-
-
  एतस्यैवार्थस्य दृष्टान्तमाह—यथा देवदत्तो दरिद्राति।कस्मात् ? येनास्य म्रियन्ते गाव इति।गवामेव मरणात्तस्य दरिद्राणं न स्वरूपहानादिति समः समाधिः तुल्यश्चर्चो दृष्टान्तेन दान्तिकस्य देवदत्तदरिद्राणवदेव गुणानुगताभिर्व्यक्तिभिर्महदादिभिर्गुणविमर्दनवैचित्र्यकृताभिर्विवर्धमानाभिर्गुणानामाढ्यता तत्प्रलये च तेषां दरिद्राणं,न स्वरूपेणापचय उपचयो वेति तुल्यः समाधिरिति ॥
 
  सर्वस्य प्रधानकार्यत्वे सति विशेषा अविशेषा वा कस्मादनन्तरं नोपजायन्त इति तदाह—लिङ्गस्यालिङ्गं प्रत्यासन्नं यथा मूलं वृक्षस्य प्रत्यासत्रं बीजे संसृष्टं मूलमेव प्रथमतरं विविच्यते,न वृक्षस्योत्तरावस्था।एवं तत्र प्रधाने तत् लिङ्गं संसृष्टं संलीनं प्रथमं विविच्यते आविर्भवति नोत्तरे विशेषा विप्रकृष्टत्वादेव।तदेवाह—क्रमानतिपत्तेः क्रमानतिक्रमात्।न हि लोके कस्यचिदुत्पद्यमानस्य क्रमातिलङ्गनमस्ति ॥
 
  तथा षडविशेषाः पूर्वोक्ता लिङ्गमात्रे प्रत्यासन्नत्वात् संसृष्टत्वाद्विविच्यन्ते।कस्मादित्याह— परिणामक्रमनियमात्।तथा तेष्वविशेषेषु भूतेन्द्रियाणि । तन्मात्रेषु भूतानि संसृष्टानि विविच्यन्ते।अस्मितामात्रे इन्द्रियाणि मनस्सहितानि ॥
 
- He gives an example of this truth (in the following words) “[yathā...samādhiḥ](http://॑# "Here again the Vivaraṇakāra has “yenāsya” instead of “yatośya”.")”. The argument brings out the similarity between the comparison and the compared. (Thus) similar to the poverty of Devadatta (due to the death of his cows) the principles mahat, etc., which have the guṇas as their basis, have expansion of the guṇas (into their respective products) when there is growth in a mysterious churning of the guṇas and in their recession there is the poverty (of the products or their cessation); and in truth there is neither cessation of existence or coming into existence (of the guṇas)—therefore there is a similarity in understanding.
+ He gives an example of this truth (in the following words) “yathā...samādhiḥ[^1277]”. The argument brings out the similarity between the comparison and the compared. (Thus) similar to the poverty of Devadatta (due to the death of his cows) the principles mahat, etc., which have the guṇas as their basis, have expansion of the guṇas (into their respective products) when there is growth in a mysterious churning of the guṇas and in their recession there is the poverty (of the products or their cessation); and in truth there is neither cessation of existence or coming into existence (of the guṇas)—therefore there is a similarity in understanding.
+
+[^1277]: "Here again the Vivaraṇakāra has “yenāsya” instead of “yatośya”."
 
  If everything is a product of pradhāna how is it that the particularised or the unparticularised do not come into existence immediately (in evolution[^1005]). He (Vyāsa) answers (that in the following words) "liṅga ...sannam[^1006]". Just as the root (of a tree) is close to the tree, ( it is ) present in the seed (and) it is the root itself that first differ-
 
 [^1005]: "Why cannot they be the first evolutes if everything is an effect of pradhāna asks the opponent."
 
 [^1006]: "Instead of “liṇgamātramaliṅgasya...” the Vivaraṇakāra has "iṅgasyāiṅgam.....""
-
-
 
 entiates itself and not the later stage of the tree (like leaves, etc.). Similarly, in the pradhāna “tat” = liṅga (mahat) “saṃsṛṣṭam” = lies ( is present ) (and) “āvirbhavati” reveals itself first, and not later; the particularised (do not come first) because of being hidden (at this stage). He mentions that as “kramānativṛtteḥ[^1007]”, i.e., as the order (of evolution) cannot be violated. In the world when something comes into existence there is no violation of the order of evolution.
 
@@ -10933,7 +9996,9 @@ entiates itself and not the later stage of the tree (like leaves, etc.). Similar
 
  तथा चोक्तं पुरस्तात्।न विशेषेभ्यः प्रागुक्तेभ्य आकाशादिभ्यः परं तत्त्वान्तरमस्ति।न विशेषाणामन्यस्तत्त्वान्तरपरिणाम इत्यर्थः।एतदेवाह—विशेषाणां नास्ति तत्त्वान्तरमिति।तत्त्वं हि नाम साधारणं सर्वप्राणधारिणामामहाप्रलयस्थायि।नैवंलक्षणं पृथिव्यादिभ्य उत्पद्यमानमन्यदस्ति।धर्मलक्षणावस्थापरिणामास्तु भवन्त्येवेति।तेषां तु विशेषाणां धर्मलक्षणावस्थापरिणामा व्याख्यायिष्यन्ते तृतीयपादे ॥१९॥
 
- Thus it has already been [mentioned](http://॑# "In this bhāṣya itself, earlier.") that there is (no other principle) besides ether, etc., which are already mentioned. It means that there is no other mutation beyond that of the particularised (principles). He mentions that as “viśeṣā...ntaramasti”. A principle is common and abides in all living beings up to the time of the great dissolution. Such another of this nature does not come into existence from earth and so on. On the other hand, there comes into existence mutations of property, of time and of state. In the third chapter (pāda) “dharma...yiṣyante” = (will be explained these mutations) of the “teṣām” = particularised (principles).
+ Thus it has already been mentioned[^1278] that there is (no other principle) besides ether, etc., which are already mentioned. It means that there is no other mutation beyond that of the particularised (principles). He mentions that as “viśeṣā...ntaramasti”. A principle is common and abides in all living beings up to the time of the great dissolution. Such another of this nature does not come into existence from earth and so on. On the other hand, there comes into existence mutations of property, of time and of state. In the third chapter (pāda) “dharma...yiṣyante” = (will be explained these mutations) of the “teṣām” = particularised (principles).
+
+[^1278]: "In this bhāṣya itself, earlier."
 
 ** ** व्याख्यातं दृश्यम्।अथ द्रष्टुः स्वरूपावधारणार्थमिदमारभ्यते—
 
@@ -10945,16 +10010,11 @@ entiates itself and not the later stage of the tree (like leaves, etc.). Similar
 
  दृशिमात्र इति दृक्शक्तिरेव विशेषणापरामृष्टेत्यर्थः।स पुरुषो बुद्धेः प्रतिसंवेदी।स बुद्धेर्न सरूपो नात्यन्तं विरूप इति।न तावत्सरूपः।कस्मात्?ज्ञाताज्ञातविषयत्वात् परिणामिनी हि बुद्धिः,तस्याश्च विषयो गवादिर्घटादिर्वा ज्ञातश्चाज्ञातश्चेति परिणामित्वं दर्शयति।  
 
-
 ** **सदा ज्ञातविषयत्वं तु पुरुषस्यापरिणामित्वं परिदीपयति।कस्मात् ?न हि बुद्धिश्च नाम पुरुषविषयश्च स्याद् गृहीताऽगृहीता चेति सिद्धं पुरुषस्य सदा ज्ञातविषयत्वं ततश्चापरिणामित्वमिति।किं च परार्था बुद्धिः संहत्यकारित्वात्, स्वार्थः पुरुष इति।
-
-
 
  Consciousness alone; this means that he is the power of consciousness alone without being touched by any qualification. This puruṣa knows the intelligence (mind) by reflection. He is neither similar nor totally dissimilar to the intelligence. ‘He is not similar’—Why? Because the intelligence has objects (sometimes) known and (sometimes) unknown ( to it), intelligence is changeful. Its objects such as cow, pot &c., are (sometimes) known and (sometimes) unknown; this indicates its changing character.
 
  Whereas, having its object always known, indicates the unchanging nature of puruṣa. Why? It cannot be that intelligence is the object of puruṣa and is not known (sometimes); from this it is proved that puruṣa always has its object known and therefore, he is unchanging. Moreover, intelligence exists for the sake of another since it acts by combining various causes; but puruṣa exists for its own sake.
-
-
 
 तथा सर्वार्थाध्यवसायकत्वात्त्रिगुणा बुद्धिस्त्रिगुणत्वादचेतनेति।गुणानां तूपद्रष्टा पुरुष इति।अतो न सरूपः ।
 
@@ -10967,8 +10027,6 @@ entiates itself and not the later stage of the tree (like leaves, etc.). Similar
  यच्चोक्तं प्रतिसंवेदी बुद्धेः पुरुष इत्युपपादयिष्याम इति,तच्चात्रोपपाद्यते।दृशिर्दर्शनमुपलब्धिस्तावन्मात्रो दृशिमात्रः।यत एवं तस्माच्छुद्धः।शुद्धोऽपि सन्नसौ बौद्धस्य प्रत्ययस्यानुपश्यः,दृशिमात्रत्वादेव।तस्मात्तमनुपश्यन् तत्स्वरूपो भवति।दृशिसन्निधौ वृत्तेर्दृशिस्वरूपावभासता द्रष्टुर्वृत्तिसारूप्यम् ॥
 
  दृशिमात्रस्यैवाविक्रियात्मकस्य सतोऽस्य बौद्धप्रत्ययानुदर्शनं यस्मात्तस्माच्च स्वरूपप्रतिष्ठता च सिद्धा प्रत्ययानुपश्य इति।एतत्तु तदस्तित्वानुमानम्।कथम्?घटादीनां दृश्यानां स्वरूपव्यतिरिक्तेनान्येन दृश्यत्वदर्शनात् तत्प्रकाशकानां च आलोकाद्रीनां व्यतिरिक्तदृश्यत्वात्, सर्वार्थावभासकानामपि प्रत्ययानां स्वरूपव्यतिरिक्तदृश्यत्वं दृश्यत्वादवगम्यते घटादितदालोकादिवदिति ।
-
-
 
 “vyākhyātam dṛśyamr”= the seen has been explained.(The nature of) that for whose purpose it is the seen, (in order to define its nature this is begun)—*draṣṭā dṛśimātraḥ śuddho’pi pratyayānupaśyaḥ.*
 
@@ -10990,9 +10048,7 @@ entiates itself and not the later stage of the tree (like leaves, etc.). Similar
 
  स पुरुषो बुद्धेः प्रतिसंवेदितुं शीलमस्येति प्रतिसंवेदी।बौद्धप्रत्ययोपलब्धिस्वभाव इत्यर्थः।पुरुषो बुद्धेः प्रतिसंवेदी दृशिमात्रः शुद्धश्चेति कथं गम्यत इत्याह—स बुद्धेर्न सरूपो नात्यन्तं विरूप इति।न समानलक्षणो नाप्यत्यन्तविधर्मेत्येतत्।असरूपतया दृशिमात्रत्वं शुद्धत्वं चाह \। नात्यन्तविरुद्ध इति वृत्तिसारूप्यतामाह ॥
 
-  And because it follows the same perception as that of the intellect it perceives that alone; as it does not, at any time, not perceive knowledge of its own object therefore it is of the nature of bare consciousness. The word “mātra” is used in order to exclude any other quality. By this, this much is established, i.e., there is consciousness of the seer; it is also established that it is not the support of qualities such as desire, [etc.](http://॑॑॑# "It is clear from the previous sentence that purușa does not have any other quality except pure consciousness. It therefore appears that the word “icchādisamānāśrayatvam” should read as “icchādisamānānāśrayatvam”. It seems to be an oversight. In the Nyāya system for instance the ātman is also associated with qualities like desire, volition, effort, etc."),
-
-
+  And because it follows the same perception as that of the intellect it perceives that alone; as it does not, at any time, not perceive knowledge of its own object therefore it is of the nature of bare consciousness. The word “mātra” is used in order to exclude any other quality. By this, this much is established, i.e., there is consciousness of the seer; it is also established that it is not the support of qualities such as desire, [etc.](॑॑# "It is clear from the previous sentence that purușa does not have any other quality except pure consciousness. It therefore appears that the word “icchādisamānāśrayatvam” should read as “icchādisamānānāśrayatvam”. It seems to be an oversight. In the Nyāya system for instance the ātman is also associated with qualities like desire, volition, effort, etc."),
 
 since there is perception only in one who has consciousness. This is mentioned as “drśimātra iti”. “dṛkśaktireva” = knowing is itself insight; that power is “dṛkśaktiḥ”.There is no other having the power of knowing. That itself is the power, i.e., insight. He explains the meaning of the word “mātra” as “viśeṣe... rthaḥ[^1015]”, i.e., he is untouched by qualities of guṇas, i.e., specially by any such qualities like desire, etc.
 
@@ -11013,8 +10069,6 @@ since there is perception only in one who has consciousness. This is mentioned a
 [^1016]: "He just repeats what the bhāṣya says."
 
 [^1017]: "The eye comes into contact with the object through light. All three conditions must be fulfilled for seeing the object, i.e., light, object and contact of eye with object."
-
-
 
   Puruṣa is of an opposite nature having the object always known. Puruṣa always has his object known. Therefore “sadā....dīpayati[^1018]”. In answer to the doubt “kasmāt” = that it is not established that the object is always known to puruṣa he says “na hi” and so on. The word “hi” is used to denote that it (the reason) is well-known. “buddhiśca nāma” = here “buddhi” stands for the idea (knowledge) of buddhi (intelligence). “puruṣasya....ceti[^1019]”, i.e., the knowledge of the intelligence is grasped at all times.
 
@@ -11046,8 +10100,6 @@ since there is perception only in one who has consciousness. This is mentioned a
 
  Answer—That is not so; the immutability of puruṣa is accepted by them as well.
 
-
-
 The meaning of ‘the object determined by the intellect’ means that (puruṣa) perceives the form taken by the intellect, i.e., perceives the object which is the form attained by the activity of the intellect. Otherwise the qualities of the intelligence like mutability, serving the purpose of another, coming together for serving another’s purpose, etc., will all be connected (to puruṣa).
 
  Question—But if it is said that knowledge is incompatible with immutability then (the answer is)—not so; since knowledge itself is the nature of puruṣa. He who considers the mutability of puruṣa should be asked thus—what is achieved by change? If he answers— knowledge—then he should be replied back (as follows)—‘the nature of puruṣa is knowledge (consciousness);therefore mutability is without any meaning.’
@@ -11070,8 +10122,6 @@ The meaning of ‘the object determined by the intellect’ means that (puruṣa
 
  Therefore, it is established that puruṣa is of the nature of bare consciousness and also without change, due to (having its) object known at all times. Though it has the nature of having consciousness eternally (at all times), this denotation (statement) as
 
-
-
 ‘he sees’, ‘(he) causes one to see’ and ‘he (saw)’ is created by the presence or absence of the idea (modification) of the intelligence which is known.It is similar to the denotation (statement) of the illumination of the sun, etc., as ‘the sun causes to shine’, ‘the sun will cause illumination’ (and) ‘the sun illuminated’ which is due to the presence or absence of the object illuminated. The marks are purity, etc., and the dissimilar examples are intelligence, etc.
 
   इतश्चासरूपः।सर्वार्थाध्यवसायित्वाद्धोरशान्तादिसमस्तार्थावसायित्वात् त्रिगुणा बुद्धिः श्रोत्रादिवत्।गुणानां तूपद्रष्टेत्युपद्रष्टृत्वं हेतुः।अत्रिगुणः पुरुष इति प्रतिज्ञा।वैधर्म्येण बुद्ध्यादिरेव दृष्टान्तोऽत्रिगुणत्वाच्चासरूपः ॥
@@ -11092,8 +10142,6 @@ The meaning of ‘the object determined by the intellect’ means that (puruṣa
 
   तमनुपश्यन्नपि न तदात्मा न त्रिगुणः।तदात्मक इव शान्तघोरमूढव्यवसायरूप इव प्रत्यवभासते।तस्मान्नात्यन्तविरूपः प्रवृत्तिसारूप्यात्।तत्र यदुक्तं बुद्धेः प्रतिसंवेदी पुरुष इत्युपपादयिष्यामः इति तदुपपादितम्।तथा च तत्सारूप्यमादर्शितम्।तथोक्तं तन्त्रे—“अपरिणामिनी भोक्तृशक्तिः— दृक्छक्तिर्यथाव्याख्यातरूपा अप्रतिसङ्क्रमा च परिणामिन्यर्थे बौद्धे प्रत्यये प्रतिसङ्क्रान्तेव प्रत्ययविषयत्वात् तद्द्वृत्तिमनुपतन्तीव अस्या बुद्धेर्वृत्तिमनुपतन्तीव द्रष्टृत्वादुपलभमाना।बौद्धः प्रत्ययो जायमान एव दृक्छक्तेः कर्मतामापद्यते। तमनुपतन्त्युपलभमाना भोक्तृशक्तिः तस्याश्च प्राप्तचैतन्योपग्रहरूपायाः प्राप्तं चैतन्योपग्रहरूपं पुरुषोपग्रहरूपं यया बुद्धिवृत्त्या आसादितं पावकोपग्रहरूपतप्तलोहपिण्डवदृशिकर्मत्वादेव अनुकारमात्रतया बुद्धिवृत्तिसारूप्यमात्रतया बुद्धिवृत्त्यविशिष्टा ज्ञवृत्तिरिति ज्ञ एवोपलब्धिरेव वृत्तिरित्याख्यायते ॥२०॥
 
-
-
 “tamanu[^1025]...”(though perceiving the idea of buddhi) (puruṣa) is not of the nature of the three guṇas. “tadātmaka....sate” = (he appears to be) having activity like being tranquil, violent or deluded. Therefore (puruṣa) is not totally dissimilar due to similarity with the modification of the mind. In that context it was said “Puruṣa is conscious by reflection which will beexplained later[^1026]”,that has been fulfilledhere[^1027]. Thus its similarity (with the modification of the mind) has been pointed out. In the discipline (yoga) itself it is said “apari....ākhyāyate[^692]”,i.e., the power of awareness as already described, (is without movement but appears to have activity) in the modification of the mind (intellect) due to having (knowledge of the object). “tadvrtti[^1029] ...”it appears to resemble the modification of the intellect by having perception. In the process of giving rise to knowledge which is a modification of the mind itself, it attains the status of an object of the power of consciousness. The power of experience attaining that (modification as object) “tasyā....pāyāḥ” = the modification of the intellect has taken on a form resembling consciousness, i.e., resemblance of form to puruṣa; it is like a ball of red hot iron taking on the form of the fire due to being the object of consciousness itself just by “anukāramātratayā” = resembling the modification of the mind (intellect). “buddhi....khyāyate[^1030]”
 
 [^692]: "This is attributed to Pañcaśikhācārya."
@@ -11112,22 +10160,14 @@ The meaning of ‘the object determined by the intellect’ means that (puruṣa
 
   The essence of the (knowable) is only for the sake of it (puruṣa).
 
-
-
 दृशिरूपस्य पुरुषस्य कर्मरूपतामापन्नं दृश्यमिति तदर्थ एव दृश्यस्यात्मा भवति स्वरूपं भवतीत्यर्थः ।(ततश्च) स्वरूपं तु पररूपेण प्रतिलब्धात्मकं भोगापवर्गार्थतायां कृतायां पुरुषेण न दृश्यत इति ॥२१॥
 
  The seen appears as the object of experience of puruṣa who is of the essence of consciousness; therefore the essence of the seen is only for the sake of puruṣa. Its nature, however, depending for its existence on another, ceases to be seen by purusa, once experience and liberation have been achieved.
 
- 
-
 तदर्थ एव दृश्यस्यात्मा तच्छब्देन द्रष्टा दृशिमात्रः शुद्धो यथाधिगतात्मा प्रत्याम्नायते।तदर्थः तस्मै तदर्थस्तत्प्रयोजनः दृशिकर्मत्वार्थ इत्यर्थः।भोगरूपेणापवर्गरूपेण च।कोऽसावित्याह—दृश्यस्यात्मा प्रधानस्यात्मा स्वरूपं स्वरूपलाभ इति ।
-
-
 
 ननु चतुर्व्यूहत्वं व्याचिख्यासितं किमर्थमेतदप्रकृतमुच्यते।नैष दोषः
 आत्यन्तिकदुःखनिवृत्तिप्रयोजनस्य प्रकृतत्वात्।कथं दृश्यतादर्थ्यलाभावधारणेनात्यन्तिकी दुःखविरतिरुक्ता भवेदिति।उच्यते—यदि दृश्यस्वरूपप्रतिलंभस्तदर्थ एव,तदा अशेषतदर्थविरतौ पुनः कृतार्थत्वात् कार्याभावादात्यन्तिकदृश्यविरतिः स्यात्।तस्य पुनः प्रवृत्तौ प्रयोजनाभावात्।न हि कृतमेव पुनः करणीयकमुपाश्नुते।अथ तु स्वार्थोऽपि दृश्यस्यात्मलाभोऽभविष्यदतः स्वार्थस्य भावात् पुनः पुनः प्रावर्तिष्यत।ततश्च नात्यन्तिकी निवृत्तिः।तस्मात्तादर्थ्यमेवावधार्यते ॥
-
-
 
 *tadartha eva dṛśyasyātmā*. By the word tad one recalls the seer, the pure, of the nature of consciousness alone, ātman as it is described[^1031]. *tadarthaḥ* = for his sake, *tadartha* for his purpose, i.e., having the purpose of accomplishing the object of the seer; i.e., in the form of experience and in the form of liberation.
 
@@ -11157,17 +10197,15 @@ The meaning of ‘the object determined by the intellect’ means that (puruṣa
 
 [^1001]: "The Vivaraṇakāra does not add anything new to the bhāṣya."
 
- He now explains the purport of the sūtra (though the words) “tataśca[^1038]” and so on. As serving the purpose is fixed “puruṣa...tmakam[^1039]” = taking on the form of consciousness by reflection “sad...dṛśyate[^1040]” = (it is not seen by puruṣa once its purpose is achieved) as there is no other object to be achieved other than experience and liberation.
-
 [^1037]: "As in the enjoyment of food which is also one form of pradhāna so are the other experiences as well."
+
+ He now explains the purport of the sūtra (though the words) “tataśca[^1038]” and so on. As serving the purpose is fixed “puruṣa...tmakam[^1039]” = taking on the form of consciousness by reflection “sad...dṛśyate[^1040]” = (it is not seen by puruṣa once its purpose is achieved) as there is no other object to be achieved other than experience and liberation.
 
 [^1038]: "This is not found in available bhāṣya readings."
 
 [^1039]: "The bhāṣya reading has “pararūpeṇa” whereas the Vivaraṇakāra has “puruṣarūpeṇa”."
 
 [^1040]: "The Vivaraṇakāra adds “sad” to “bhogāpavargārthatāyām” in the bhāṣya."
-
-
 
 **  ** स्वरूपहानादस्य नाशः प्राप्तः।न तु विनश्यति।कस्मात् ?
 
@@ -11193,13 +10231,11 @@ The meaning of ‘the object determined by the intellect’ means that (puruṣa
 
 [^1042]: "Once liberation is achieved these distinctions are no more valid."
 
-
-
-explained as “[nāśa....api](http://॑ "Instead of “nāśam prāptamapi” in the bhāṣya the Vivaraṇakāra has “nāśaprāptamapi”.")”. “anaṣṭam....tvāt”, i.e., with reference to those (puruṣas) whose purpose has not been accomplished, with reference to them it is not destroyed.
+explained as “[nāśa....api]("Instead of “nāśam prāptamapi” in the bhāṣya the Vivaraṇakāra has “nāśaprāptamapi”.")”. “anaṣṭam....tvāt”, i.e., with reference to those (puruṣas) whose purpose has not been accomplished, with reference to them it is not destroyed.
 
   कथमनष्टमित्याह—कुशलपुरुषान् प्रति नाशप्राप्तं भोगापवर्गप्रदानेन कुशलपुरुषान् प्रति कृतप्रयोजनम्।अकुशलपुरुषान् प्रति अकृतार्थं भोगापवर्गयोः कर्तव्ययोरकृतत्वात्तेषामकुशलानां दृशेः त एव दृशिस्तस्याः कर्मतां दृश्यतामापन्नंलभत एव पुरुषरूपेण पुरुषनिर्भासतया आत्मरूपमिति।अतश्च साधारणत्वादेकमेव प्रधानं पृथिव्यादिवत्।कार्यकरणानां च भिन्नत्वात् पुरुषाणां नानात्वं सिद्धम्।सुखदुः खनानात्वाच्च पुरुषभेदसिद्धिः ॥
 
-  He describes why it is not destroyed (through the words) “[kuśala....ptam](http://॑॑# "The Vivaraṇakāra has “kuśalapuruṣān prati nāśaprāptam” instead of “kuśalam puruṣam prati nāśam prāptam”.")”,i.e., in the case of one who has attained true wisdom (prajñā) it has fulfilled its purpose by accomplishing experience and liberation. “akuśa....rtham[^1043]",i.e., not accomplishing experience and liberation that have to be accomplished “teṣām drśeḥ” = with reference to the unenlightened ones they are themselves the seer[^1044]. “karma....ātmarupam[^1045]”= due to reflection of puruṣa. Therefore being common to all, pradhāna is one just like earth, etc. As the instruments and effects (of action) are distinct the plurality of puruṣas is proved. So also the distinction between puruṣas is established due to the plurality of pleasure and pain[^1046].
+  He describes why it is not destroyed (through the words) “[kuśala....ptam](॑# "The Vivaraṇakāra has “kuśalapuruṣān prati nāśaprāptam” instead of “kuśalam puruṣam prati nāśam prāptam”.")”,i.e., in the case of one who has attained true wisdom (prajñā) it has fulfilled its purpose by accomplishing experience and liberation. “akuśa....rtham[^1043]",i.e., not accomplishing experience and liberation that have to be accomplished “teṣām drśeḥ” = with reference to the unenlightened ones they are themselves the seer[^1044]. “karma....ātmarupam[^1045]”= due to reflection of puruṣa. Therefore being common to all, pradhāna is one just like earth, etc. As the instruments and effects (of action) are distinct the plurality of puruṣas is proved. So also the distinction between puruṣas is established due to the plurality of pleasure and pain[^1046].
 
 [^1043]: "Instead of “akuśalān puruṣān prati na kṛṭārtham” the Vivaraṇakāra has “akuśalapuruṣān prati akṛṭārtham”."
 
@@ -11221,8 +10257,6 @@ explained as “[nāśa....api](http://॑ "Instead of “nāśam prāptamapi”
 
  Association is the means of knowing the true nature of the powers of the possessor (owner) and the possessed (owned).
 
-
-
   पुरुषः स्वामी दृश्येन स्वेन दर्शनार्थं संयुक्तः।तस्मात्संयोगाद् दृश्यस्योपलब्धिर्या स भोगः, या तु द्रष्टुः स्वरूपोपलब्धिः, सोऽपवर्गः।दर्शनकार्यावसानः संयोग इति दर्शनं वियोगस्य कारणमुक्तम्।दर्शनमदर्शनस्य प्रतिद्वन्द्वीत्यदर्शनं संयोगनिमित्तमुक्तम्।नात्र दर्शनं मोक्षकारणम्,अदर्शनाभावादेव बन्धाभावः स मोक्ष इति।दर्शनस्य भावे बन्धकारणस्यादर्शनस्य नाश इत्यतो दर्शनं ज्ञानं कैवल्यकारणमुक्तम् ।
 
   Puruṣa the owner, is associated with the owned which is fit to be known for the sake of knowledge. The cognition of the object which takes place by that association is experience. Whereas the cognition of the true nature of the seer (puruṣa) is liberation. Conjunction ends when (true) knowledge results; therefore (true) knowledge is mentioned as the cause for disassociation.
@@ -11240,8 +10274,6 @@ explained as “[nāśa....api](http://॑ "Instead of “nāśam prāptamapi”
 
   ६—दर्शनशक्तिरेवादर्शनमित्येके;प्रधानस्यात्मख्यापनार्था प्रवृत्तिरिति श्रुतेः।सर्वबोध्यबोधसमर्थः प्राक्प्रवृत्तेः पुरुषो न पश्यति, सर्वकार्यकरणसमर्थं दृश्यं तदा न दृश्यत इति।  
   ७—उभयस्याप्यदर्शनं धर्म इत्येके।तत्रेदं दृश्यस्य स्वात्मभूतमपि पुरुषप्रत्ययापेक्षं दर्शनं दृश्यधर्मत्वेन भवति,तथा पुरुषस्यानात्मभूतमपि दृश्यप्रत्ययापेक्षं पुरुषधर्मत्वेनैवादर्शनमवभासते ।
-
-
 
  
 
@@ -11269,8 +10301,6 @@ explained as “[nāśa....api](http://॑ "Instead of “nāśam prāptamapi”
 
 [^1051]: "There are objects of a contradictory nature in the world, some bringing pleasure and some bringing pain to the one who comes into touch with them."
 
-
-
  तदाह—पुरुषः स्वामी दृश्येन स्वेन स्वया बुद्ध्या दर्शनार्थं भोगापवर्गदर्शनार्थं संयुक्तः।दर्शनप्रयुक्त एव संयोग इत्यर्थः ॥
 
 तस्मात् संयोगाद्दर्शनप्रयुक्ता दृश्यस्योपलब्धिः अविशिष्टा या स भोगः।या तु द्रष्टुः स्वरूपोपलब्धिर्विविक्ता सोऽपवर्गः।यस्माद्दर्शनकार्यद्वयप्रयुक्तः संयोगस्तस्माद्दर्शनकार्यावसानः संयोगः तेन पुरुषसंयोगवद्दर्शनं वियोगस्य कारणमित्युक्तम्।गुणपुरुषान्तरदर्शनं प्रधानपुरुषवियोगस्य कारणमित्युक्तं,कार्यस्य दर्शनेन पर्यवसितत्वात्॥
@@ -11286,7 +10316,6 @@ explained as “[nāśa....api](http://॑ "Instead of “nāśam prāptamapi”
 
 अविद्या द्रष्टृदृश्ययोः संयोगकारणं,दुःखनिमित्तसंयोगहेतुत्वात्,रोगहेतुसंयोगनिमित्तमिथ्याज्ञानवत्।द्रष्टृदृश्यसंयोगो मिथ्याज्ञानपूर्वकः,दुःखहेतुत्वात्,रोगिरोगहेतुसंयोगवत्।यस्माद्दुःखिदुःखहेतुयाथात्म्यविषयं दर्शनं,तस्मात्तदन्यथाविषयस्यादर्शनस्य प्रतिद्वन्द्वमित्यदर्शनं संयोगनिमित्तमित्युक्तं तस्य हेतुरविद्येति।दुःखनिमित्तत्वाच्च संयोगस्य ॥  
 
-
 यस्माददर्शनमेव निवर्तयति दर्शनं नान्यत्कार्यं करोति,तस्मान्नात्र दर्शनं मोक्षकारणम्, अदर्शनाभावादेवार्थाददर्शनकार्यस्य दुःखहेतोर्बन्धस्याभावः स मोक्षः।न पुनर्बन्धाभावव्यतिरेकेण भावयितव्यो मोक्षः।ततश्च मोक्षस्य नित्यत्वसिद्धिः॥
 
  दर्शनस्य भावे द्रष्टृदृश्यविषयस्य दर्शनस्य भावे तद्विषयस्यादर्शनस्य नाशः।दर्शनादर्शनयोरेकत्र विरोधात् तिमिररविकिरणजालयोरिव।अतो दर्शनं कैवल्यकारणमुक्तम्—‘विवेकख्यातिरविप्लवा हानोपायः’ इति॥
@@ -11295,13 +10324,15 @@ explained as “[nāśa....api](http://॑ "Instead of “nāśam prāptamapi”
 
 [^1054]: " This whole section is so simplistic and has none of the sophistication of style that one is used to with Śaṅkara. The Vivaraṇakāra repeats the same idea so many times—it appears he is not confident enough to leave a point having stated it once."
 
+it causes pain like contact between the cause of ill health and the possessor of ill health. Because “darśanam” = (insight) has its object as the truth concerning the cause of pain and one possessing pain, therefore “adarśanasya...ktam[^1279]” = (it is mentioned as the opposer of ignorance); (ignorance) has its object different from that; also because association (of the seer and seen) is the cause for pain.
 
-
-it causes pain like contact between the cause of ill health and the possessor of ill health. Because “darśanam” = (insight) has its object as the truth concerning the cause of pain and one possessing pain, therefore “[adarśanasya...ktam](http://॑# "While the bhāṣya has “darśanam adarśanasya pratidvandvītyadarśanam saṃyoganimittamuktam” the Vivaraṇakāra has “darśanamadarśanasya pratidvandvamityadarśanam saṃyoganimittamityuktam”.")” = (it is mentioned as the opposer of ignorance); (ignorance) has its object different from that; also because association (of the seer and seen) is the cause for pain.
+[^1279]: "While the bhāṣya has “darśanam adarśanasya pratidvandvītyadarśanam saṃyoganimittamuktam” the Vivaraṇakāra has “darśanamadarśanasya pratidvandvamityadarśanam saṃyoganimittamityuktam”."
 
  Because awareness removes ignorance[^1055]and does not do any other work, therefore “nātra...bhāvādeva”, i.e., (awareness is not the cause for liberation); “bandha[^1056]
 
 [^1055]: " The direct cause of liberation is absence of bondage and not awareness which is indirect."
+
+[^1056]: " Instead of “bandhābhāvaḥ” the Vivaraṇakāra has “bandhasyābhāvaḥ”."
 
 ...mokṣaḥ[^1056]” (having the absence of bondage which is the cause of pain is liberation), i.e., one should not look upon liberation as different from the absence of bondage. And then it follows that liberation is permanent[^1058].
 
@@ -11330,8 +10361,6 @@ it causes pain like contact between the cause of ill health and the possessor of
 
   ननु गुणानामधिकारस्य कथमदर्शनाशङ्का?उच्यते—अर्थद्वारेण भवत्येवादर्शनमधिकारः।यावद्धि गुणानां प्रवृत्तिस्तावद्वन्धः।बन्धकारणमविद्येति स्थितिस्थैर्यमानीयते।शब्दद्वारेणापि—दर्शनादन्यददर्शनं यदा,भवत्येव तदानीमाशङ्का।गुणाधिकारो हि दर्शनादन्य एवेति
 
-
-
   आहोस्विदृशिस्वरूपस्य स्वामिनो दर्शितविषयस्य चित्तस्यानुत्पादः।इह तु पूर्वपदार्थप्रधानत्वमदर्शनस्य गृहीत्वा शङ्क्यते।चित्तस्यानुत्पादः प्रागुत्पत्तेर्दर्शनस्याभावः।किमुक्तं भवत्यनुत्पाद इत्यत आह—स्वस्मिन् दृश्ये चित्ते विद्यमाने यो दर्शनाभावः गुणपुरुषान्तरदर्शनानुत्पत्तिरदर्शनमिति ॥
 
  किमर्थवत्ता गुणानां भोगापवर्गाभ्यां या गुणानामर्थवत्ता तददर्शनमिति।अत्र त्वर्थद्वारेणैवाशङ्का।प्रयोजनवतो हि प्रयोजनमवश्यकृत्यमिति ॥
@@ -11343,7 +10372,6 @@ it causes pain like contact between the cause of ill health and the possessor of
 [^1062]: "The word ‘avidyā’ has to be analysed and the meaning arrived at. Thus (1
 
 [^1063]: " Since the different meanings can lead one to expect this conclusion."
-
 
 “āhosvit...tpādaḥ[^1064]”.In this context, accepting the importance of the meaning of the first part in the compound adarśanam, the question is raised. (Is) “cittasyānutpādaḥ” = it the non-arising of insight before its coming into being. He explains further what has been expressed as non-arising (through the words) “svasmin...bhāvaḥ[^1065]”,i.e, adarśanam is the non-arising of insight of difference between the guṇas and puruṣa.
 
@@ -11361,14 +10389,13 @@ it causes pain like contact between the cause of ill health and the possessor of
 
  अथाविद्या स्वचित्तेन सह निरुद्धेति।अत्र ह्यविद्याया अदर्शनस्य च केनचिदंशेन भेदं मन्यमानो विकल्पयति।कथम् ? अनिरुद्धा ह्यविद्या दृश्यमानत्वाद्दर्शनमेव।या तु निरुद्धा चित्तेन सह प्रलीना स्वकारणे।स्वचित्तस्योत्पत्तिबीजमुत्पत्तिकारणं सा न दृश्यत इत्यदर्शनमित्यभिमानः।ततश्चानिरोधावस्थाया दर्शनत्वप्रसङ्ग इति दुष्ट एवायं पक्षः स्यात्।अथ तु निरोधानिरोधावस्थयोरप्यदर्शनमेव, तथा सत्यभिमतसिद्धिरित्यदोष एव।किं स्थितिसंस्कारक्षये गतिसंस्काराभिव्यक्तिः।किमेतददर्शनमिति न संबध्यते।कथं तर्हि संबन्धः ? उच्यते–तत्राविद्या स्वचित्तसहनिरुद्धा चित्तस्योत्पत्तिबीजमित्युक्तं, तत इदमर्थात् सिद्धम्—चित्तं स्वकारणे निरुध्यते पुनश्चोत्पद्यत इति।ततश्चेदमपि सिद्धमर्थाच्चित्तस्य कारणमपि स्थित्या गत्या च वर्तत इति।ततश्चैतद्विस्पष्टीकरणार्थं पृच्छति ॥
 
-
-
  Question—What is the defect in all the above views?
 
  Answer—If one takes adarśanam to mean the activity of the guṇas then right knowledge will prove futile. In this view right knowledge cannot be in opposition to activity. Since knowledge and activity are not opposed to each other there will be the contingency of lack of liberation, for, due to (the guṇas) having a purpose there will be activity repeatedly.
 
- The view that lack of insight is the purposefulness of the guṇas also suffers from this (above-mentioned) defect. In the view of the non-arising of the mind (pradhāna) also it (the defect) is the [same](http://॑# "There is not much difference between the second and the third options as far as the continuous activity of the gunas are concerned. Therefore both these views suffer from the same defect as the first option."). Non-arising is the absence of insight and that not being a substance cannot be destroyed through knowledge; since it is an absence it is useless to plan its opposition.
+ The view that lack of insight is the purposefulness of the guṇas also suffers from this (above-mentioned) defect. In the view of the non-arising of the mind (pradhāna) also it (the defect) is the same[^1280]. Non-arising is the absence of insight and that not being a substance cannot be destroyed through knowledge; since it is an absence it is useless to plan its opposition.
 
+[^1280]: "There is not much difference between the second and the third options as far as the continuous activity of the gunas are concerned. Therefore both these views suffer from the same defect as the first option."
 
 “athāvidyā...ddheti[^1067]”;herein he distinguishes between avidyā and adarśanam, thinking that they are connected in parts[^1068].How does he do it? When ignorance is not restricted, then being fit to be seen, it is indeed seeing, (insight). Whereas that which is “niruddha”, absorbed in its cause along with the mind, “svacitta...jam” = that is the seed for coming into being (again); that is not seen[^1069] therefore it is considered as adarśanam (not seen). And hence, as there will be the inconsistency of insight in the unrestricted stage this view suffers from that defect[^1070]. But if it is understood that both the restricted and unrestricted stages have lack of insight then there is no defect, as that is the desired view[^1071].
 
@@ -11394,11 +10421,11 @@ it causes pain like contact between the cause of ill health and the possessor of
 
  यदि स्थित्या गत्या च वर्तते, ततः को दोषः स्यात्तदुदाहरणेन दर्शयति—यत्रेदमुक्तं प्रधानं स्थित्यैव वर्तमानं विकाराकरणात् महदाद्याकारेणापरिणामादप्रधानं स्यात्।यतः प्रधत्ते विकारानिति प्रधानम्।तेन विकाराणां अप्रधातृत्वादप्रधानं स्यात्।
 
-
-
   तथा गत्यैव वर्तमानं नित्यं विकाररूपेणैव वर्तमानं विकारनित्यत्वान्न विकारान् प्रधत्त इति कारणत्वहानेरप्रधानं स्यात्।उभयथा वृत्तिः गत्या स्थित्या च वर्तनं वृत्तिर्यस्य प्रधानस्य तदुभयथावृत्ति व्यवहारं प्रधानत्वव्यवहारं कारणत्वव्यवहारं लभते।नान्यथा प्रधानत्वं प्रधानस्य।कारणान्तरेष्वपि पुरुषेश्वरपरमाण्वादिषु परकल्पितेषु समानश्चर्चः तुल्यविषयः न्यायः।प्रकृत एवाधुना निरूप्यते॥
 
- “sthitisaṃskāraḥ”, i.e, the meaning of the word “sthiti” is the saṃskāras which are the cause for the state of equilibrium of the [guṇas,](http://॑# "There is motion even here except that prakṛti reproduces itself and there is no differentiation into the various evolutes.")and means equilibrium. When that is exhausted = “sthiti...ye”, there is “gatiḥ” = activity in the form of mahat,etc.,the saṃskāra for that purpose is “gati...raḥ” i.e., there is its manifestation.
+ “sthitisaṃskāraḥ”, i.e, the meaning of the word “sthiti” is the saṃskāras which are the cause for the state of equilibrium of the guṇas,[^1281]and means equilibrium. When that is exhausted = “sthiti...ye”, there is “gatiḥ” = activity in the form of mahat,etc.,the saṃskāra for that purpose is “gati...raḥ” i.e., there is its manifestation.
+
+[^1281]: "There is motion even here except that prakṛti reproduces itself and there is no differentiation into the various evolutes."
 
  If it exists either in motion or in equilibrium then what is the defect—he indicates that through example as “yatre...syāt”, i.e., (if it exists) without change into the form of mahat, etc., (only in equilibrium) (then it will not be pradhāna). The meaning of the word pradhāna is that which exhibits (brings about) changes. Therefore, since it does not exhibit (bring about) changes (mutations), it will be apradhāna.
 
@@ -11424,11 +10451,11 @@ it causes pain like contact between the cause of ill health and the possessor of
 
 [^1076]: "This is not found in the bhāṣya but the Vivaraṇakāra has it after “eke”."
 
-
-
-nature of revealing itself to it; and not seeing that is adarśanam according to scrip[tures](http://॑# " Not recognising the potentiality to be known is what adarśanam is, according to this view."). In this view, that itself is adarśanam which is unmanifested and is in a potential form (form of power) and when that is manifested it is seeing (darśanam); since, in oneself, there cannot be a contradiction, there is no possibility of cessation of adarśanam (not seeing) through right vision (in itself[^1077]).
+nature of revealing itself to it; and not seeing that is adarśanam according to scriptures[^1282]. In this view, that itself is adarśanam which is unmanifested and is in a potential form (form of power) and when that is manifested it is seeing (darśanam); since, in oneself, there cannot be a contradiction, there is no possibility of cessation of adarśanam (not seeing) through right vision (in itself[^1077]).
 
 [^1077]: " Thus while adarśanam refers to pradhāna, darśanam refers to puruṣa, and their coexistence in one locus is not there."
+
+[^1282]: " Not recognising the potentiality to be known is what adarśanam is, according to this view."
 
  Similarly there is another view. “sarva...paśyati[^1078]”,i.e., (puruṣa) being of the nature of consciousness or even though puruṣa is of the nature of right vision, (he) does not see (prior) to the activity of prakṛti. “sarva ...dṛśyate”, i.e., pradhāna (capable) of activity, though existing in truth, (is not known) prior to activity; therefore (adarśanam) is the property of both pradhāna and puruṣa say some. In this view also it is in the prior state that there is lack of vision in both (puruṣa and pradhāna) whereas in the later stage there is vision—thus the earlier defect is present in this also.
 
@@ -11436,7 +10463,6 @@ nature of revealing itself to it; and not seeing that is adarśanam according to
 
   दृश्यस्यात्मभूतमव्यतिरिक्तमपि पुरुषप्रत्ययापेक्षं पुरुषाकारेण पुरुषस्य न दृश्यते।पुरुषाकारविशिष्टतया वा पुरुषस्य दृश्यत इति पुरुषप्रत्ययापेक्षमदर्शनं पुरुषस्य धर्मत्वेन भवति।तदेतत्स्पष्टयति—पुरुषस्यानात्मभूतमपि दृश्यप्रत्ययापेक्षं दृश्यप्रत्ययोऽज्ञानं तदपेक्षं, कथं पुरुषाकारेणादर्शनात् संकरेण वा दर्शनादन्तःकरणप्रत्ययापेक्षं पुरुषानात्मभूतमपि पुरुषधर्मत्वेनैवादर्शनमाभासते।तथा च सति दृश्यधर्म एवायमित्यदोषः ॥
 
- 
 “dṛśyasyātmabhūtam[^1079]”,i.e., even though (the object) is in itself not distinguished (from adarśanam) “puruṣapratyayāpekṣam” = it is not known to puruṣa in the form of puruṣa; or (one can say) that it is known to puruṣa as qualified by the form of (reflection of) puruṣa, thus lack of sight (object) depending on knowledge of puruṣa becomes the qualification of puruṣa[^1080].He clarifies this (further) as follows —“puruṣa...peksam”, i.e, the idea of an object is ignorance and it depends on the object; he explains how knowledge either due to the reflection of puruṣa or due to the contact of ignorance depends on the idea in the mind (through the words) “puruṣa....sate”. In that sense it is the property of the seen (object) alone and so there is no defect.
 
 [^1079]: " “Svātmabhūtam” is “. . . ātmabhūtam” here."
@@ -11450,8 +10476,6 @@ nature of revealing itself to it; and not seeing that is adarśanam according to
   All this has been put forward in order to explain all the views regarding this. “darśanam...manyante[^1081]” = (Right vision is knowledge) and that (knowledge it-
 
 [^1081]: " While the bhāṣya has “. . . abhidadhati” the Vivaraṇa has “ . . . manyante”."
-
-
 
 self is lack of vision say some)[^1082]. This view is advocated by giving importance to the second part of the compound. The defect in this view is already pointed out in the sūtra dealing with avidyā[^1083].
 
@@ -11481,8 +10505,6 @@ association of the inner self with its own intelligence.
 
  In this connection someone ridicules this position by (citing) the anecdote of an impotent husband. He is addressed thus by his simple wife—O my impotent husband, my sister has children, why do I not have children? He tells her—when I am dead I shall beget you a child. Similarly, this knowledge, while existing does not cause the cessation of the mind, then what is the hope that it will cause its cessation in the future? In that connection a sage replies—liberation is indeed only the cessation of the mind. The mind (intelligence) ceases to be in the absence of adarśanam (lack of
 
-
-
 true knowledge) which is its cause. That adarśanam which is the cause for bondage, disappears due to true knowledge.
 
  Then (the conclusion is that) liberation is only the cessation of the modifications of the mind. Therefore why is there this confusion of thought in the objector? It is so much out of place.
@@ -11507,9 +10529,7 @@ true knowledge) which is its cause. That adarśanam which is the cause for bonda
 
  Answer—This is not a defect. Since the latent impressions are caused by avidyā (lack of insight) that is itself mentioned as avidyā. Even when all the causes have disappeared (or are absorbed) in a state of equilibrium (of prakṛti) the subliminal-impression of avidyā is the cause for the activity of pradhāna again and again. And there is no misapprehension before the coming into being of intelligence as there is an absence of the cause for activity; the latent impressions of that (avidyā, misapprehension) is the cause for the contact between puruṣa and prakṛti—thus it is mentioned.[^1090]
 
-
 [^1090]: "It is interesting to note that the Vivaraṇakāra has the same question that Miśra asks and answers it the same way too. This is interesting as it can very well mean that the Vivaraṇakāra had access to Miśra’s commentary."
-
 
  तदेवाह—विपर्ययज्ञानवासनावासिता न कार्यनिष्ठां कार्यसमाप्तिम्।कार्यनिष्ठामाह–पुरुषख्यातिमिति।तां बुद्धिर्न प्राप्नोति।पुरुषख्यातिपर्यवसाना हि बुद्धेः करणीयवत्ता।साधिकारा करणीयवती पुनः पुनरावर्तते विपर्ययज्ञानवासनावशात् ॥
 
@@ -11521,10 +10541,11 @@ true knowledge) which is its cause. That adarśanam which is the cause for bonda
 
  अत्राचार्यदेशीयः परिहारं वक्ति।आचार्यदेशीयग्रहणं पूर्वपक्षस्यासारत्वप्रख्यापनार्थम्।उद्घट्टनेनैव प्रत्युत्तरं वदामि इति ॥
 
- He mentions the same thing as [“viparyaya...pnoti”](http://॑# "The Vivaraṇakāra just completes sentences using the bhāṣya text for the most part. He does not provide full explanations as other commentators do."),i.e., the ultimate end (is not achieved when under the influence of avidyā-vāsanā). The ultimate end is mentioned as “puruṣakhyātim”; that (is not achieved by intelligence). That which ends in the true knowledge of the self is the capacity of intelligence to accomplish its purpose. “sādhikāra” having this capacity to produce effects “punaḥ...tate” = (it comes back again and again) due to the subliminal-impressions of misapprehension.
+ He mentions the same thing as “viparyaya...pnoti”[^1283],i.e., the ultimate end (is not achieved when under the influence of avidyā-vāsanā). The ultimate end is mentioned as “puruṣakhyātim”; that (is not achieved by intelligence). That which ends in the true knowledge of the self is the capacity of intelligence to accomplish its purpose. “sādhikāra” having this capacity to produce effects “punaḥ...tate” = (it comes back again and again) due to the subliminal-impressions of misapprehension.
+
+[^1283]: "The Vivaraṇakāra just completes sentences using the bhāṣya text for the most part. He does not provide full explanations as other commentators do."
 
  “sā tu...pnoti”—he clarifies the same idea again as “caritā . . .” and so on. As karma and its result (vipāka) have lack of insight as its basis, it is said that lack of insight is itself a bondage. When adarśanam ceases to be then, as there is cessation of bondage, “bandha...vartate” when there is absence of adarśanam which is the cause of bondage (there is no more rebirth).
-
 
 “atra...dghaṭṭayati”[^1091].“paṇḍaka” = an eunuch. He is (asked by) “mugdhayā bhāryayā” = (his simple wife). What (does she ask him)? “ārya...apatyavatyasmīti”[^1092].“tāmāha...pratyāśca”[^1093]. The intention of the narrator is as follows—if avidyā is the cause for the contact of the intelligence and puruṣa and the cause for its cessation is knowledge, then when knowledge is present its contradictory, lack of knowledge, ceases to be. There can be no cessation of the mind[^1094] even after the rise of knowledge; therein, just as there is no cessation of the mind when knowledge comes into being so also, even when knowledge ceases to be it will not turn it back from the shore; it is
 
@@ -11535,8 +10556,6 @@ true knowledge) which is its cause. That adarśanam which is the cause for bonda
 [^1093]: "The Vivaraṇakāra does not even attempt to explain this portion and leaves the bhāṣya to do the job. The bhāṣya begins with “sa” whereas the Vivaraṇakāra starts the sentence with “tam”. Again in place of “vinaṣṭam” the Vivaraṇakāra has “naśṭam”."
 
 [^1094]: "This is a doubt as to why the mind does not cease to be when knowledge comes into being. In fact this is a confusion which is explained later."
-
-
 
 similar to the production of children from a dead eunuch. That is the reason why avidyā is also not the cause of contact[^1095].
 
@@ -11559,9 +10578,9 @@ similar to the production of children from a dead eunuch. That is the reason why
 
 [^1001]: "The Vivaraṇakāra does not add anything new to the bhāṣya."
 
- “kimartham... bhramaḥ”, i.e., pain caused by contact between puruṣa and pradhāna is due to avidyā—this has been explained in great detail. Therefore, since it is proper that there should be cessation of ignorance by the rise of insight it is felt that the opposition is inconsequential.
-
 [^1098]: "The Vivaraṇakāra just repeats the bhāṣya and leaves it as such. Therefore it has not been translated again. Whereas the bhāsya has “tatra cittanivṛttireva mokṣaḥ” the Vivaraṇa has “tannivṛttireva mokṣaḥ”."
+
+ “kimartham... bhramaḥ”, i.e., pain caused by contact between puruṣa and pradhāna is due to avidyā—this has been explained in great detail. Therefore, since it is proper that there should be cessation of ignorance by the rise of insight it is felt that the opposition is inconsequential.
 
  Objection—But then, it has also been mentioned that the mind (intelligence) does not cease right after the rise of insight.
 
@@ -11571,11 +10590,11 @@ similar to the production of children from a dead eunuch. That is the reason why
 
 [^1099]: "At this point there is no avidyā supporting the mind. It is there till it merges with its cause."
 
-
-
-also, like a released arrow, because of the subliminal-impressions that have started its result not being exhausted, stays for some time because of those subliminal-impressions due to the insight itself. There is the following scriptural statement (in this context)—‘And for him only so long is the delay(as he is not liberated from[the body—)’.](http://॑# "Chānd. Up., 6.14.2.")
+also, like a released arrow, because of the subliminal-impressions that have started its result not being exhausted, stays for some time because of those subliminal-impressions due to the insight itself. There is the following scriptural statement (in this context)—‘And for him only so long is the delay(as he is not liberated fromthe body—)’.[^1284]
 
  हेयं दुःखम्।हेयकारणं च संयोगाख्यं सनिमित्तमुक्तम्।अतः परं हानं वक्तव्यम्—
+
+[^1284]: "Chānd. Up., 6.14.2."
 
  The avoidable pain (has been mentioned). So also the cause for the avoidable pain,called association (between puruṣa and prakṛti), along with the reasons (for it), have been mentioned,Now removal (of association) is to be described.
 
@@ -11596,8 +10615,6 @@ The four divisions are under discussion. In that context “heyam duḥkham”, 
 [^1100]: "YS, II.16. The pain that is yet to come is to be avoided."
 
 [^1101]: "The Vivaraṇakāra has “heyakāraṇañca sanimittam saṃyogākhyamuktam” instead of “heyakāraṇañca saṃyogākhyam sanimittamuktam”."
-
-
 
 of the sacred texts dealing with liberation “vaktavyam” (is to be described). The detailed description which follows is for the sake of convincing the intellect of the listener.*tadabhāvāt saṃyogābhāvo hānam tat dṛśeḥ kaivalyam*.
 
@@ -11625,8 +10642,6 @@ of the sacred texts dealing with liberation “vaktavyam” (is to be described)
 
 [^1106]: "SCf. YS, II.13, and the bhāṣya under it."
 
-
-
 अथ हानस्य कः प्राप्त्युपाय इति—
 
  Then what is the means to attain removal (of association)?
@@ -11634,8 +10649,6 @@ of the sacred texts dealing with liberation “vaktavyam” (is to be described)
 विवेकख्यातिरविप्लवा हानोपायः ॥२६॥
 
 The means for removal (of association) is continuous discriminate-discernment.
-
-
 
  
 
@@ -11664,17 +10677,17 @@ The means for removal (of association) is continuous discriminate-discernment.
  The third division has been mentioned—i.e., the one in the place of health called removal (of pain). Now beginning to explain the fourth division which is in the place of means of cure (medicine) he says “hānasya kaḥ prāptyupāyaḥ iti”.
 
  Objection—But then,how can he ask ‘what is the means to attain hānam,as being a non-substance ‘hānam’ is not
-[attainable.](http://॑# "The opponent raises an objection to the possession of hānam conveyed by the sense of ‘prāpti’; it is only a cessation of bondage and so a state of mind.") Hānam is only the cessation of bondage.
+attainable.[^1285] Hānam is only the cessation of bondage.
 
-
+[^1285]: "The opponent raises an objection to the possession of hānam conveyed by the sense of ‘prāpti’; it is only a cessation of bondage and so a state of mind."
 
  Answer—This is no defect; as the cessation of ignorance is to be accomplished by effort; it is thus a distinction in the state of absorption (attainment). When there is discriminate-discernment there is cessation of avidyā; therefore even if hānam is not a substance it can be said to be attained.
 
-* vivekakhyātiraviplavā hānopāyaḥ*.In answer to the question as to what is discriminate-discernment he says “sattva...yaḥ”, i.e., it is the knowledge in truth of the similarity and dissimilarity between the sattva-intellect (pradhāna) and puruṣa. “sa tu” that discriminate-discernment [“anivṛtta...plavate”](http://॑ "The bhāṣya has ”plavate” whereas the Vivaraṇakāra has ”viplavate”.") is not strengthened, is not capable of any effect (when misapprehension is not removed); Thus it is said— ‘Just as gold whose impurity is not fully burnt (in fire) does not shine so also discriminate-discernment whose impurities have not been fully burnt does not [shine.](http://॑ "Not traced. Trevor Leggett mentions this as Viṣṇusahasranāma, 77.")’Similarly (there is the statement) ‘The knowledge of one who is influenced by desire is not [continuous.’](http://॑ "Not traced.")
+* vivekakhyātiraviplavā hānopāyaḥ*.In answer to the question as to what is discriminate-discernment he says “sattva...yaḥ”, i.e., it is the knowledge in truth of the similarity and dissimilarity between the sattva-intellect (pradhāna) and puruṣa. “sa tu” that discriminate-discernment [“anivṛtta...plavate”]("The bhāṣya has ”plavate” whereas the Vivaraṇakāra has ”viplavate”.") is not strengthened, is not capable of any effect (when misapprehension is not removed); Thus it is said— ‘Just as gold whose impurity is not fully burnt (in fire) does not shine so also discriminate-discernment whose impurities have not been fully burnt does not [shine.]("Not traced. Trevor Leggett mentions this as Viṣṇusahasranāma, 77.")’Similarly (there is the statement) ‘The knowledge of one who is influenced by desire is not [continuous.’]("Not traced.")
 
-[“yadā tu...bhāvam”](http://॑ "The bhāṣya has no “tu” but the Vivaraṇa has it."), i.e., because of its burnt-seed-stage “vandhya... dyate”: it is not capable of giving rise to effect; “tadā... rajasaḥ” in the case of that (sattva intelligence) which is such that its afflictions in the form of rajas has been removed. i.e., (of the sattva intelligence) which is not dirtied by the impurity of attachment, etc. “parasyām... nasya” = existing purely in the clarity of wisdom— he repeats the same idea as “viveka. . . bhavati”, i.e., there is a continuous state of discerning insight.
+[“yadā tu...bhāvam”]("The bhāṣya has no “tu” but the Vivaraṇa has it."), i.e., because of its burnt-seed-stage “vandhya... dyate”: it is not capable of giving rise to effect; “tadā... rajasaḥ” in the case of that (sattva intelligence) which is such that its afflictions in the form of rajas has been removed. i.e., (of the sattva intelligence) which is not dirtied by the impurity of attachment, etc. “parasyām... nasya” = existing purely in the clarity of wisdom— he repeats the same idea as “viveka. . . bhavati”, i.e., there is a continuous state of discerning insight.
 
- “sā...vivekakhyātiḥ” = (insight) of this nature is without any break (continuous). When discriminate-discernment of this nature is continuous “tato... prasava"—being in opposition (to false sight) (it does not rise again) because of ignorance attaining the state of burnt-seed-stage.Thus it is said ‘Just as seeds burnt by fire do not sprout again so also through afflictions burnt by the fire of knowledge, the ātman does not get connected (with the body) [again.](http://॑ "Not traced.")’Discriminate-discernment of that kind “mokṣa...paya” is (the path to liberation...). This is the idea.
+ “sā...vivekakhyātiḥ” = (insight) of this nature is without any break (continuous). When discriminate-discernment of this nature is continuous “tato... prasava"—being in opposition (to false sight) (it does not rise again) because of ignorance attaining the state of burnt-seed-stage.Thus it is said ‘Just as seeds burnt by fire do not sprout again so also through afflictions burnt by the fire of knowledge, the ātman does not get connected (with the body) [again.]("Not traced.")’Discriminate-discernment of that kind “mokṣa...paya” is (the path to liberation...). This is the idea.
 
 तस्य सप्तधा प्रान्तभूमिः प्रज्ञा ॥२७॥
 
@@ -11685,11 +10698,7 @@ The means for removal (of association) is continuous discriminate-discernment.
 
   The word. ‘tasya’ (in the sūtra) refers to one who has attained discriminate-discernment. The word ‘saptadhā’ means that, due to removal of the dirt in the form of the veil of impurity, when no other modification arises in the mind the yogīhas in-
 
-
-
 sight of seven kinds only. They are as follows (1) That which is to be avoided is known; there is nothing more to be known in this direction.(2) The causes for avoidable pain have dwindled; there is nothing further to be dwindled. (3) By the samādhi of restraint, removal (of association between puruṣa and prakṛti) has been directly perceived. (4) The means of removal (of association) in the form of discriminate-discernment has been understood. These four are freedoms of insight which are effected by action.
-
-
 
 चित्तविमुक्तिस्तु त्रयी।(५) चरिताधिकारा बुद्धिः।(६) गुणा गिरिशिखरकूटच्युता इव ग्रावाणो निरवस्थानाः स्वकारणे प्रलयाभिमुखाः सह तेनास्तं गच्छन्ति।न चैषां प्रतिप्रलीनानां पुनरस्त्युत्पादः,प्रयोजनाभावादिति।(७)एतस्यामवस्थायां गुणसंबन्धातीतः स्वरूपमात्रज्योतिः पुरुषः केवली शुद्ध इति।एतां सप्तविधां प्रान्तभूमिप्रज्ञामनुपश्यन्पुरुषः कुशल इत्याख्यायते।प्रतिप्रसवेऽपि चित्तस्य मुक्तः कुशल इत्येव भवति, गुणातीतत्वादिति ॥
 
@@ -11703,9 +10712,9 @@ sight of seven kinds only. They are as follows (1) That which is to be avoided i
 
  क्षीणा हेयहेतव इति बहुवचनप्रयोगात् क्लेशाः कर्माणि च अभिधीयन्ते।न पुनरेषां क्लेशकर्मणामल्पमपि सम्यग्दर्शनपावकादग्धबीजाभावात् क्षे(दुत्प्रेक्षि)तव्यमस्ति।एतेनापि प्रान्तभूमित्वमेवोक्तम्।इत्थं च प्रत्युपस्थितसमीचीनप्रत्ययस्य क्षीणक्केशत्वात् न क्षेतव्यमस्ति।कृतकरणीयोऽहमिति च सम्यग्दर्शनपरिपाकलिङ्गप्रत्यय उपावर्तते।यथा रोगातुरस्य रोगहेतुक्षये नीरोगोऽहं न पुनर्भेषज्यमस्तीति प्रत्ययः।एवमेव(ष) द्वितीयः प्रज्ञाप्रकार उक्तः ॥
 
- In the case of one in whom insight has arisen, i.e., when insight has come into being, in order to indicate the (various) distinguishing marks of knowledge one has experienced, he says *tasya saptadhā...prajñā*. “tasyeti...mnāyaḥ” = (tasya) refers to one who has attained discriminate-discernment “sapta...gamāt”, i.e., the covering is impure, it is the afflictions and karma, that is the dirt (and) by its [removal;](http://॑# "A word by word meaning is given.")“cittasya... bhavati” when there is the non-arising of opposite thoughts like
+ In the case of one in whom insight has arisen, i.e., when insight has come into being, in order to indicate the (various) distinguishing marks of knowledge one has experienced, he says *tasya saptadhā...prajñā*. “tasyeti...mnāyaḥ” = (tasya) refers to one who has attained discriminate-discernment “sapta...gamāt”, i.e., the covering is impure, it is the afflictions and karma, that is the dirt (and) by its removal;[^1286]“cittasya... bhavati” when there is the non-arising of opposite thoughts like
 
-
+[^1286]: "A word by word meaning is given."
 
 mine, I, etc[^1107].The explanation of the word “saptadhā” is “saptaprakāraiva prajñā”[^1108], i.e., (the yogi has) insight. He explains those seven types (of prajñā) in order as “yathā....” and so on, i.e., all pain along with its properties which is to be destroyed, is known. There is no (further) division of pain (which is to be known by him).
 
@@ -11726,12 +10735,9 @@ i.e., due to the proximity of removal (of association between sattva and puruṣ
 
 [^1110]: "This state is not the ultimate; at one level there is an experience of kaivalya but since it is not continuous, kaivalya has to be made a continuous experience."
 
-
  अथ वा—कार्यस्य विमुक्तिः निवृत्तिः कार्यविमुक्तिः।सा च चतुष्टयी कार्यविमुक्तिरिति समाप्तं वाक्यम्।प्रज्ञा इति परेण संबध्यते।कथम् ? प्रज्ञा(प्र)युक्तम्, विवेकख्यातियुक्तं चित्तं प्रज्ञाचित्तं तस्य विमुक्तिः प्रलयः प्रज्ञाचित्तविमुक्तिः।सा त्रयी।तथा च वक्ष्यति—पुरुषार्थशून्यानां गुणानां प्रतिप्रसवः कैवल्यम् इति ॥
 
  तत्र कार्यविमुक्तिश्चतुष्टयी।पुरुषार्थशून्यत्वं पूर्वमुक्तम्।इदानीं बुद्धिगुणान्निवृतिः।पुरुषार्थकर्तव्यानां पुरुषार्थशून्यानां प्रतिप्रसवः प्रज्ञाचित्तविमुक्तिस्त्रयी व्याख्यायते।यथा—चरिताधिकाराः निवृत्तकर्तव्याः बुद्धिगुणाः
-
-
 
 सत्त्वादयो बुद्ध्याकारावस्थिताः प्रलयाभिमुखाः।किमिव ? गिरिशिखरकूटच्युता इव ग्रावाणो निरवस्थानाः कर्तव्याभावात् स्वकारणे अहंकारे प्रलयाभिमुखाः सह तेन बुद्धिसंस्थानेन कार्येण,अथवा,स्वकारणेनाहङ्कारेण कुशलं पुरुषं प्रति स्वकारणमप्यव्यक्तभावं प्रतिपद्यत इति सह तेनास्तं गच्छन्ति इत्युच्यते । एषा प्रथमा प्रज्ञाचित्तविमुक्तिः ॥
 
@@ -11743,9 +10749,9 @@ i.e., due to the proximity of removal (of association between sattva and puruṣ
 
 [^1112]: "It looks as if the Vivaraṇakāra had the reading “prajñācittavimuktiḥ” in the next line."
 
- Therein, the liberation that is the effect, is of four kinds. The absence of a goal has already been mentioned. Now the cessation from the guṇas of intelligence (is mentioned). The dissolution of those (guṇas) which have no more goals to achieve for puruṣa, or (the dissolution) of those that accomplish the purpose of puruṣa, is the liberation of the mind with insight (prajñācitta). It is described as threefold. Thus “caritā...and so on, i.e., sattva in the form of intelligence, etc., having accomplished what is to be done—what happens then—because of absence of anything to be accomplished, merges without retaining any distinction, into the sense-of-I (its own cause) with the effect in the form of intelligence; or along with its own cause the sense-of-I, the cause,attains with regards to puruṣa an indistinctstate;[^1114]thus (it dissolves) along with it (the sense-of-I). This is the first freedom of the mind with insight.
-
 [^1113]: "YS, IV.34."
+
+ Therein, the liberation that is the effect, is of four kinds. The absence of a goal has already been mentioned. Now the cessation from the guṇas of intelligence (is mentioned). The dissolution of those (guṇas) which have no more goals to achieve for puruṣa, or (the dissolution) of those that accomplish the purpose of puruṣa, is the liberation of the mind with insight (prajñācitta). It is described as threefold. Thus “caritā...and so on, i.e., sattva in the form of intelligence, etc., having accomplished what is to be done—what happens then—because of absence of anything to be accomplished, merges without retaining any distinction, into the sense-of-I (its own cause) with the effect in the form of intelligence; or along with its own cause the sense-of-I, the cause,attains with regards to puruṣa an indistinctstate;[^1114]thus (it dissolves) along with it (the sense-of-I). This is the first freedom of the mind with insight.
 
 [^1114]: "In the first option the emphasis is on the mind; in the second the emphasis is on puruṣa. In the first, the mind rests in its cause without any further activity; in the second the emphasis is on puruṣa. While it is the same mind which has gone back into its cause the twofold character of the mind comes into focus here in keeping with its ontology."
 
@@ -11753,8 +10759,6 @@ i.e., due to the proximity of removal (of association between sattva and puruṣ
 एतस्यामवस्थायां चरितार्थगुणप्रलयावस्थायां गुणसम्बन्धातीतः गुणसंबन्धो द्रष्टृदृश्यलक्षणः तमतीतः।स्वरूपमात्रज्योतिः दृशिस्वरूपमात्रमेवं ज्योतिः।पुरुषः केवली शुद्ध इति तृतीया प्रज्ञाचित्तविमुक्तिरिति॥
 
  एतां सप्तविधां प्रान्तभूमिं प्रान्ताः प्रगतावसानाः भूमयः अवस्थाः यस्यास्तां प्रान्तभूमिं प्रज्ञामनुपश्यन् सम्यग्दर्शनलिङ्गपरिपाकभूतामीक्षमाणः पुरुषः कुशल इत्याख्यायते।कुशल इति सङ्केतः।प्रतिप्रसवेऽपि प्रलयेऽपि चित्तस्य मुक्तः कुशल इत्येव भूतपूर्वगत्या कुशल इत्येव भवति । कुतः कौशलं तस्येत्याह—गुणातीतत्वात् इति।गुणानतीतो हि कुशलः ॥२७॥
-
-
 
 “na caiṣām ...bhāvāt” = the fourfold effect is indeed liberated[^1115],(as it has no pur- pose) for puruṣa. This is the second freedom of the mind with insight. “etasyām...” and so on, i.e., in the state of dissolution of the guṇas that have accomplished their purpose, there is surpassing of the association with the guṇas in the form of the seer and the seen. (Then) there is the illumination of oneself alone, the illumination of the nature of the seer. “puruṣa...iti” = (puruṣa pure, alone) this is the third freedom of the mind with insight.
 
@@ -11785,11 +10789,7 @@ i.e., due to the proximity of removal (of association between sattva and puruṣ
 
  The limbs of yoga are eight; they are about to be mentioned. By their practice there is a reduction or destruction of misapprehension of the form of impurity, which is of five kinds. When that is destroyed there is manifestation of true knowledge. In proportion to the practice of the means, impurity also becomes gradually more and more weakened.As it becomes more and more weakened the light of knowledge increases in accordance with the rate of weakening. This growth of knowledge keeps attaining its perfection till it reaches discriminate-discernment, viz., till the insight which distinguishes between the guṇas and puruṣa is reached.
 
-
-
  The practice of the various limbs of yoga is the cause for separation of impurity just as the axe (is the cause) of cutting. It is also the cause for attaining discriminate-discernment similar to dharma (being the means) for pleasure. It is not a cause in any other sense. How many of these causes are mentioned in the śāstras? He says they are just nine (which) are as follows—origin, sustenance, manifestation, change, knowledge, attainment, separation, otherness and support.
-
- 
 
 तत्रोत्पत्तिकारणं मनो भवति विज्ञानस्य।स्थितिकारणं मनसः पुरुषार्थता, शरीरस्येवाहार इति।अभिव्यक्तिकारणं यदा रूपस्यालोकस्तदा रूपज्ञानम्।विकारकारणं मनसो विषयान्तरम्, यथाग्निः पाक्यस्य।प्रत्ययकारणं धूमज्ञानमग्निज्ञानस्य।प्राप्तिकारणं योगाङ्गानुष्ठानं विवेकख्यातेः।वियोगकारणं तदेवाशुद्धेः।अन्यत्वकारणं यथा सुवर्णस्य सुवर्णकारः।एवमेकस्य स्त्रीप्रत्ययस्याविद्या मूढत्वे, द्वेषोदुःखत्वे, रागः सुखत्वे, तत्त्वज्ञानं माध्यस्थ्ये।धृतिकारणं शरीरमिन्द्रियाणाम्, तानि च तस्य।महाभूतानि शरीराणाम्, तानि च परस्परं सर्वेषाम्।तैर्यग्यौनमानुषदैवतानि च परस्परार्थत्वादिति ।
 
@@ -11799,8 +10799,6 @@ i.e., due to the proximity of removal (of association between sattva and puruṣ
 
  In this way, there are nine causes. They are to be applied as far as possible to other objects as well. As for the practice of the aids of yoga they act as causes in two ways only, (separation and acquisition).
 
- 
-
 सिद्धा विवेकख्यातिः समधिगता विवेकख्यातिः सप्तविधप्रान्तभूमिप्रज्ञाफलावसाना हानस्योपाय इति।न च सिद्धिः अन्तरेण साधनम्, इत्यत इदं विवेकख्यातिसिद्धिसाधनार्थमारभ्यते—योगाङ्गानुष्ठानादशुद्धिक्षये ज्ञानदीप्तिराविवेकख्यातेः ॥  
  योगाङ्गानुष्ठानादेव विवेकख्यातिरिति नावदिधारयिषितम्, गुरूपासनधर्मप्रभृतिकेभ्योऽपि विवेकख्यातेः सिद्धिरिष्यत एव।किं तर्हि ? साधनमात्रमन्तरेण न भवत्येवेत्यवधारयिष्यते।न पुनर्योगाङ्गानुष्ठानमेव साधनं,योगाङ्गानुष्ठानात्तु भवत्येव विवेकख्यातिसिद्धिरिति।तथा चाचार्यैरुक्तम्—‘योगस्तत्त्वज्ञानार्थः’ इति ॥
 
@@ -11808,11 +10806,11 @@ i.e., due to the proximity of removal (of association between sattva and puruṣ
 
  “hānasyopāya iti... ” ( there is no achievement) without practice of means; there-
 
-
-
 fore this (sūtra) is begun in order to attain the purpose of achieving discriminate-discernment—yogāṅgānu ... vivekakhyāteḥ.
 
- It should not be understood that discriminate-discernment arises only by the practice of the means to yoga; the attainment of discriminate-discernment is desired also through devotion to the guru, through adherence to [dharma](http://॑# "It is difficult to imagine Śaṅkara advocating these as exclusive means to insight particularly dharma."), etc. Then what does it mean? It is to be understood to mean that without the means it cannot come into being. Moreover, the practice of the means of yoga is not the only means. But through the practice of the means of yoga there is the achievement of discriminate-discernment. Thus it is said by those who instruct—‘yoga is for the sake of realising the truth’.
+ It should not be understood that discriminate-discernment arises only by the practice of the means to yoga; the attainment of discriminate-discernment is desired also through devotion to the guru, through adherence to dharma[^1287], etc. Then what does it mean? It is to be understood to mean that without the means it cannot come into being. Moreover, the practice of the means of yoga is not the only means. But through the practice of the means of yoga there is the achievement of discriminate-discernment. Thus it is said by those who instruct—‘yoga is for the sake of realising the truth’.
+
+[^1287]: "It is difficult to imagine Śaṅkara advocating these as exclusive means to insight particularly dharma."
 
  योगाङ्गान्यभिधायिष्यमाणानि तेषामनुष्ठानं योगाङ्गानुष्ठानम् तस्मात् अशुद्धेः केशाख्यायाः क्षयः,तत्क्षये दीप्तिः प्रकर्षः।कियदवसानेत्याह—आ विवेकख्यातेः भवतीत्युपस्कारः॥
 
@@ -11846,8 +10844,6 @@ the decline (in impurities) is compared as follows—as at the end of the cold s
 
 [^1124]: "Instead of “sā khalveṣā” the Vivaraṇakāra, has “sā khalviyam”."
 
-
-
 follows—“ā guṇapuruṣasvarūpavijñānātityarthaḥ”, i.e., culmination in the discriminate-discernment of (the nature of) the guṇas and puruṣa is itself the purity.
 
  योगाङ्गानुष्ठानमशुद्धेः क्षयकारणं विवेकख्यातेश्च प्राप्तिकारणमिति, द्विधैव कारणम्, धर्मपरशुद्धयस्थानीयमेकमुभयकारणं, नान्यथा भवतीति।तत्र कारणप्रसङ्गेन शास्त्रप्रसिद्धानि कारणानि व्याचष्टे—कति चैतानि कारणानि शास्त्रे भवन्ति ? नवैवेत्याह।तद्यथा—तानि श्लोकेनैव कथयति—
@@ -11861,7 +10857,6 @@ follows—“ā guṇapuruṣasvarūpavijñānātityarthaḥ”, i.e., culminati
 
  अभिव्यक्तेः कारणं रूपस्यालोकः।तदा रूपज्ञानम्।न ह्यालोकेनानभिव्यक्ते रूपेऽवबोधः॥
 
- 
 “yogānga...kāraṇam[^1125]” (The practice of yoga) has a twofold purpose; as an axe in the form of dharma it stands for two causes; (though) one it is a twofold (causal) agent; it is (not a cause in any other sense).
 
 [^1125]: "The Vivaraṇakāra has the reading “yogāṅgānuṣṭhānamaśuddheḥ kṣayakāraṇam . . . vivekakhyāteśca prāptikāraṇam” instead of “yogāṅga . . . śuddheḥ viyogakāraṇam . . . vivekakhyātestu prāpti kāraṇam”."
@@ -11883,14 +10878,13 @@ follows—“ā guṇapuruṣasvarūpavijñānātityarthaḥ”, i.e., culminati
 
  एवमेकस्य ‘स्त्री’ इति प्रत्ययस्यापि अविद्या कारणं मूढत्वे।द्वेषस्तस्यैव स्त्रीप्रत्ययस्य दुःखत्वे कारणम्।तथा रागः सुखत्वे।तथा तस्यैव माध्यस्थ्ये हेयोपादेयशून्यतायां विवेकयुक्तं ज्ञानं कारणम्।एवमेकः स्त्रीप्रत्ययः सुवर्णवदनेकधा मूढत्वदुःखत्वसुखत्वमाध्यस्थ्यादिभेदैभिद्यते॥
 
-
-
   धृतेः कारणम्।धारणं धृतिः, तस्याः कारणं शरीरमिन्द्रियाणाम्।न हि शरीरमप्राप्येन्द्रियाणि धृतिं लभन्ते।तानि चेन्द्रियाणि तस्य शरीरस्य धृतिकारणं भवन्ति।इन्द्रियवृत्तिद्वारेण हि शरीरं ध्रियते ॥
 
- 
-“[vikāra...ntaram](http://॑# "Again we have “vikārasya kāraṇam” instead of “vikārakāraṇam” in the bhāṣya.")”,i.e., it is only in the presence of a different object that the mind undergoes change. “yathā...pākasya[^1127]”,i.e., in the case of the change called cooking the cause for the change in the form of what is cooked is fire.
+“vikāra...ntaram[^1288]”,i.e., it is only in the presence of a different object that the mind undergoes change. “yathā...pākasya[^1127]”,i.e., in the case of the change called cooking the cause for the change in the form of what is cooked is fire.
 
 [^1127]: "Instead of “pākyasya” the Vivaraṇakāra has “pākasya”."
+
+[^1288]: "Again we have “vikārasya kāraṇam” instead of “vikārakāraṇam” in the bhāṣya."
 
  “pratyaya...jñānasya”, i.e., being the cause of knowledge which in fact is the (cause of the) means of knowledge[^1128].Earlier when it was said that “bhavati vijñānasya[^1129]”,the idea was that it (mind) was the material cause (for knowledge).
 
@@ -11904,11 +10898,9 @@ follows—“ā guṇapuruṣasvarūpavijñānātityarthaḥ”, i.e., culminati
 
 [^1131]: "Cutting separates one thing from another. So also yoga practice removes the impurity through attainment of insight."
 
-
 “anyatva...varṇasya[^1132]”,i.e., (The goldsmith) separates the gold and makes another, something bigger. He then separates the bigger (piece) and makes another ornament; thus it is a separating (cause).
 
 [^1132]: "Instead of the sentence ending with “suvarṇakāraḥ”, the Vivaraṇakāra has “suvarṇasya” at the end."
-
 
 “evamekasya...mūḍhatve[^1133]”= Hatred is the cause for pain with reference to the same idea of woman. So also attachment (is the cause) for pleasure. So also “mādhyasthe”= when there is absence of the thought of possession or avoidance the cause is “vivekayuktam jñānam[^1134]” = (knowledge with insight). In this way the one idea of woman, similar to gold, is divided into many forms due to the distinction of being deluded, painful, pleasurable or indifferent. “dhṛteḥ kāraṇam[^1135]”, i.e., support is upholding. The cause for that is (like) “śarīramindriyāṇām” (the body being the support for the sense-organs). It is not possible for the senses to gain support without having the body. “tāni tasya” and the sense-organs are the cause for the support of the body. The body is upheld only through the function of the senses[^1136].
 
@@ -11922,10 +10914,7 @@ follows—“ā guṇapuruṣasvarūpavijñānātityarthaḥ”, i.e., culminati
 
   तथा महाभूतान्याकाशादीनि शरीराणां धृतिकारणम्।महाभूतारब्धानि हि शरीराणि ब्रह्मादिस्तम्बावसानानि।(तानि च) परस्परम् उपकार्योपकारकत्वद्वारेण धृतिकारणम्॥  
 
-
 तथा सर्वेषां पदार्थानां तैर्यग्यौनमानुषदैवतानि धृतिकारणम्। कुतः?परस्परार्थत्वात्।तैर्यग्यौनं मानुषदैवतयोर्वाहनदोहनहविरादिभिरुपकुर्वत् धृतिकारणम्॥
-
-
 
    तथा मानुषं इज्यारक्षणादिभिर्दैवतैर्यग्यौनयोः धृतिकारणम्।तथा दैवमितरयोः शीतोष्णप्रवर्षणादिना धृतिकारणम् ॥
 
@@ -11936,7 +10925,6 @@ follows—“ā guṇapuruṣasvarūpavijñānātityarthaḥ”, i.e., culminati
 [^1137]: "The Gītā idea of the interdependence of the entire cosmos on each other is stressed."
 
  Similarly, the divisions of caste and stage of life,by mutually assisting each other, have the role of causes of support. The entire universe is supported by mutual dependence.
-
 
 “evam...kāraṇāni”[^1138],i.e., (there are only nine causes); thus he denies any other cause[^1139].“tāni...yojyāni" = wherever there is the possibility of application (of these causes) to any situation it should be so applied even in (instances) which have not been mentioned. “yogāṅga...” and so on. (Practice of yoga is a twofold cause) which has been already explained (above).
 
@@ -11957,8 +10945,6 @@ follows—“ā guṇapuruṣasvarūpavijñānātityarthaḥ”, i.e., culminati
   We shall mention in order (serially) the way in which to practise them and their nature.
 
   कानि पुनस्तानि योगाङ्गानि?येषामनुष्ठानं द्विधा कारणत्वं लभत इति।तत्र योगाङ्गान्यवधार्यन्ते—यमनियमासनप्राणायामप्रत्याहारधारणाध्यानसमाधयोऽष्टावङ्गानि॥
-
-
 
   ननु च योगशास्त्रान्तरेष्वासनादीन्येव षडङ्गानि।तद्यथा—‘षडङ्गो योग उच्यते’ इत्यादि।किञ्च—साक्षादासनादीन्येव समाधेरुपकुर्वन्ति, न यमनियमौ ॥
 
@@ -11994,8 +10980,6 @@ follows—“ā guṇapuruṣasvarūpavijñānātityarthaḥ”, i.e., culminati
 
   In another context this is mentioned (as follows)—“Fixed posture and other means of yoga, though means (of yoga) are all that cause distractions; they are not the causes for yoga; getting rid of all defects and steadiness (samādhi) is judged as the twofold
 
-
-
 cause for yoga ;whether other means exist ornot.”[^1144]
 
  As samādhi and destruction of all defects are important the above (verse) is in order to praise them and not in order to deny (prohibit) posture and other limbs. “yathā...vakṣyāmaḥ” yama, etc, (will be described in order); without knowing their true nature it is not possible to practise them.
@@ -12017,8 +11001,6 @@ cause for yoga ;whether other means exist ornot.”[^1144]
  सत्यं यथार्थं वाङ्मनसे।यथा दृष्टं यथानुमितं तथा वाङ्मनश्चेति।परत्र स्वबोधसंक्रान्तये वागुक्ता सा यदि न वञ्चिता भ्रान्ता वा प्रतिपत्तिवन्ध्या वा भवेदिति।एषा सर्वभूतोपकारार्थं प्रवृत्ता न भूतोपघाताय।यदि चैवमप्यभिधीयमाना भूतोपघातपरैव स्यान्न सत्यं भवेत्पापमेव भवेत्।तेन पुण्याभासेन पुण्यप्रतिरूपकेण कष्टं तमः प्राप्नुयात्।
 
   Truthfulness is correspondence of word and mind to fact, i.e., word and mind correspond exactly to what is seen and what is inferred. If words are spoken in order to convey one’s own knowledge to another it should not be deceitful or misleading or lacking in meaning. It should be used in order to benefit all living creatures and not for inflicting pain on living creatures. If by such an utterance there should be only harm to living creatures then that is not truth;and only sin arises from that. By appearing as virtue and by resemblance to virtue he attains only painful darkness (distress).
-
-
 
   स्तेयमशास्त्रपूर्वकं द्रव्याणां परतः स्वीकरणम्,तत्प्रतिषेधः पुनरस्पृहारूपमस्तेयमिति।ब्रह्मचर्यं गुप्तेन्द्रियस्योपस्थस्य संयमः ।
 
@@ -12052,8 +11034,6 @@ cause for yoga ;whether other means exist ornot.”[^1144]
 
  भ्रान्ता वा यथा सत्यमिति मन्यमानोऽनृतमेव वदति।प्रतिपत्तिवनध्या वा—श्रोतुः प्रतिपादनायापर्याप्ता—यथा सन्दिग्धं वाक्यमगृह्यमाणप्रकरणादिविशेषम्।कष्टशब्दो वा अजावय इत्यादिः॥
 
-
-
   तस्मादेवमादिदोषरहिता एषा वाक् ऋजुमनस्सहचारिणी सर्वभूतोपकारार्थं प्रवृत्ता सत्यतामास्कन्दति।न भूतोपघाताय प्रवृत्ता यथार्थबलाधानाऽपि सत्यतामापद्यते ॥
 
   Observing many vows like truth, etc., and also observing other vows which are not in opposition to it (ahiṃsā), such a one has turned away from the cause of violence, i.e., he has turned away from exciting activity having violence as the basis; the arises non-injury of greater purity not having any basis for activity. In the case of one who is observing the vow of begging, etc., there is cessation of the basis of violence in the pursuit of agricultural activity[^1147].
@@ -12070,9 +11050,9 @@ cause for yoga ;whether other means exist ornot.”[^1144]
 
 [^1150]: "The famous incident when Droṇa would only believe the story of Aśvatthāmā’s death if Yudhiṣṭhira said so. Yudhiṣṭhira cheated in this incident mentioning that an elephant Aśvatthāmā was dead. Coming from Yudhiṣṭhira Droṇa believed it but the truth was used to hoodwink Droṇa.It is interesting to note that both Miśra and Bhikṣu use the same illustration. Is it a coincidence or has Miśra set the pattern."
 
- Therefore “eṣā" words which are devoid of the above mentioned defects following a straightforward mind “sarvas...pravṛtta”= enhances the truth.“na...ghātāya”=(when used not for injuring others) receiving strength based on fact, it attains the status of truth[^1152].
-
 [^1151]: "Archaic usage."
+
+ Therefore “eṣā" words which are devoid of the above mentioned defects following a straightforward mind “sarvas...pravṛtta”= enhances the truth.“na...ghātāya”=(when used not for injuring others) receiving strength based on fact, it attains the status of truth[^1152].
 
 [^1152]: "Perhaps what is hinted is that even if the intention is only to convey a fact, the thought of not injuring anyone uplifts it to the status of truth as a yogic means."
 
@@ -12088,13 +11068,13 @@ cause for yoga ;whether other means exist ornot.”[^1144]
 
  ब्रह्मचर्यं गुप्तेन्द्रियस्य गुप्तान्येन्द्रियस्य पुरुषस्य अब्रह्मचर्यार्थवाङ्मनसादिवृत्तिशून्यस्य उपस्थेन्द्रियसंयम इति॥
 
-
-
   विषयाणामार्जनरक्षणक्षयसङ्गहिंसादोषदर्शनादस्वीकरणम्अनुपादानं अपरिग्रहः।न पुनरसामर्थ्येनास्वीकरणम्।इत्येते यमाः ॥३०॥
 
-  “yadi...bhavet” = (even though words) are devoid of defects as described above (but when uttered result in harming others then it is not truth); even though that is free from the threefold defects such as [deceit, etc](http://॑# "Deceiftul, misleading and lacking in meaning are the threefold defects mentioned above.").,based on the intent to injure other living beings, it does not attain the status of truth[^1153]. “pāpameva bhavet” = (it still is demerit).
+  “yadi...bhavet” = (even though words) are devoid of defects as described above (but when uttered result in harming others then it is not truth); even though that is free from the threefold defects such as deceit, etc[^1289].,based on the intent to injure other living beings, it does not attain the status of truth[^1153]. “pāpameva bhavet” = (it still is demerit).
 
 [^1153]: "Thus the mark of truth is not causing injury to any living being and not just a correspondence to truth."
+
+[^1289]: "Deceiftul, misleading and lacking in meaning are the threefold defects mentioned above."
 
   He mentions the same thing as “tena...pāpnuyāt[^1154]”,i.e., by bordering on truth like the truth uttered by Kauśika[^1155]. Therefore one should speak the truth that would result in the good of all, after careful thought[^1156]. It is also said “One should speak the truth; one should speak kindly; one should not utter truth that is unpleasant; one should not utter untruth which is pleasant; this is the eternal dharma.”[^1157]
 
@@ -12104,21 +11084,19 @@ cause for yoga ;whether other means exist ornot.”[^1144]
 
 [^1156]: "The Vivaraṇa prints the line “tasmāt parīkṣya sarvahitam satyam brūyāt”."
 
- “steyam...svīkaraṇam” (Theft is appropriation of the wealth of others not sanctioned by the sacred books) and is caused by greed (desire). “tatpratiṣedhastu[^1158]”,i.e., because theft does not occur when greed is destroyed therefore that is the destroyer (opposer) of that theft. That is called “aspṛhārūpamasteyam[^1159]”.
-
 [^1157]: "MS, IV.138."
+
+ “steyam...svīkaraṇam” (Theft is appropriation of the wealth of others not sanctioned by the sacred books) and is caused by greed (desire). “tatpratiṣedhastu[^1158]”,i.e., because theft does not occur when greed is destroyed therefore that is the destroyer (opposer) of that theft. That is called “aspṛhārūpamasteyam[^1159]”.
 
 [^1158]: "The bhāṣya has “tatpratiṣedhaḥ punaḥ” whereas the Vivaraṇakāra has “tatpratiṣedhastu”."
 
 [^1159]: "So not just not stealing but non-theft with the absence of desire for objects is the complete form of non-stealing."
-
 
 “brahmacaryam...saṃyamaḥ[^1160]”, i.e. (brahmacarya is the control of the sense-organ of generation); the control of the other organ of generation of puruṣa which is hidden, with the absence of activity of the mind, words, etc., which had the result of not observing brahmacarya[^1161].
 
 [^1160]: "Instead of “guptendriyasyopasthasya . . .” the Vivaraṇakāra has “ ...upasthendriyasya ...”."
 
 [^1161]: "Thus brahmacarya is not just celibacy but extends to even speech and mental activity pertaining to lack of sex control."
-
 
 “viṣayā...aparigrahaḥ[^1162]” “asvīkaraṇam”= non-acceptance (is aparigraha).The non-acceptance is not because of lack of capacity (but because of realising their defects). “ityete yamāḥ”.
 
@@ -12132,8 +11110,6 @@ cause for yoga ;whether other means exist ornot.”[^1144]
 
   When not conditioned by class, place, time or concept of duty (they) are universal and constitute the great vow.
 
-
-
   तत्राहिंसा जात्यवच्छिन्ना—मत्स्यवधकस्य मत्स्येष्वेव नान्यत्र हिंसा।सैव देशावच्छिन्ना—न तीर्थं हनिष्यामीति।सैव कालावच्छिन्ना—न चतुर्दश्यां न पुण्येऽहनि हनिष्यामीति।सैव त्रिभिरुपरतस्य समयावच्छिन्ना—देवब्राह्मणार्थ नान्यथा हनिष्यामीति।यथा च क्षत्रियाणां युद्ध एव हिंसा नान्यत्रेति।एभिर्जातिदेशकालसमयैरनवच्छिन्ना अहिंसादयः सर्वथैव परिपालनीयाः।सर्वभूमिषु सर्वविषयेषु सर्वथैवाविदितव्यभिचाराः सार्वभौमा महाव्रतमित्युच्यन्ते ॥३१॥
 
   Of these non-injury conditioned by class is like the injury inflicted by a fisherman only to fish and nowhere else. The same conditioned by place is like saying ‘I shall not kill at a sacred spot.’ The same conditioned by time is like saying ‘I will not kill on the Chaturdasī day or on any sacred day.’ The same in the case of one who refrains from these three, is conditioned by a sense of duty (when) he says—‘I will kill for the sake of the gods and the brāhmaṇas and not otherwise.’ Similarly, injury is caused by kṣatriyas only in battle and nowhere else.
@@ -12144,9 +11120,11 @@ cause for yoga ;whether other means exist ornot.”[^1144]
 
  कथं पुनर्जात्याद्यनवच्छिन्नत्वमेषामिति अनवच्छेदप्रतिपादनाय व्यतिरेकेण अहिंसामुदाहरति—तत्र अहिंसा जात्यवच्छिन्ना मत्स्यबन्धकस्य मत्स्येष्वेव नान्यत्र मत्स्यजातेर्हिंसा।सा च मत्स्यजात्यवाच्छिन्नांमत्स्यभूमिमनश्नुवाना वर्तत इति असार्वभौस्येव ॥
 
- Since other dharmas are observed conditioned by birth, space, time, etc., it could also apply in this case as well—in order to refute that he says “[ete tviti](http://॑# "The bhāṣya has “te tu” whereas the Vivaraṇakāra has “ete tviti”.")”.“ete tu” = non-injury and others are called the great vows and are to be observed by those who renounce everything (the sannyāsins). In answer to the question as to what is the nature of these great vows he says *jātideśa... mahāvratam*. That which is great and is a vow is great vow. Greatness is having sway everywhere[^1163].
+ Since other dharmas are observed conditioned by birth, space, time, etc., it could also apply in this case as well—in order to refute that he says “ete tviti[^1290]”.“ete tu” = non-injury and others are called the great vows and are to be observed by those who renounce everything (the sannyāsins). In answer to the question as to what is the nature of these great vows he says *jātideśa... mahāvratam*. That which is great and is a vow is great vow. Greatness is having sway everywhere[^1163].
 
 [^1163]: "Of universal application, thus, as in the case of Jainas, only that is a mahāvrata when applied as stated unconditionally."
+
+[^1290]: "The bhāṣya has “te tu” whereas the Vivaraṇakāra has “ete tviti”."
 
   Question—How are these not considered by birth, etc. ?
 
@@ -12157,8 +11135,6 @@ cause for yoga ;whether other means exist ornot.”[^1144]
 [^1165]: "As fish are injured in this context."
 
   सैवाहिंसा देशावच्छिन्ना कथम् ? न तीर्थे प्रयागादौ हनिष्यामीति।तीर्थेष्वहिंसा च तीर्थादन्यं देशं न व्यश्नुत इति असार्वभौमी ॥
-
-
 
   सैव च कालावच्छिन्ना यथा—न चतुर्दश्यां न पुण्येऽहनीति।चतुर्दश्यादिकालादन्यं कालं न व्यश्नुत इति साप्यसार्वभौमी ॥
 
@@ -12178,9 +11154,9 @@ cause for yoga ;whether other means exist ornot.”[^1144]
 
 [^1167]: "Instead of “saiva” in the bhāṣya the Vivaraṇakāra has “tasyaiva”."
 
- Answer—(For the sake of the gods and the brāḥmaṇas ) I shall kill (and not otherwise)[^1169]; though it stays restricted to the rules of death anniversary, etc., and does not go beyond it, it is also not of universal application. “yathā ca kṣatriyasya...” is an illustration of restriction caused by adherence to the rules (of dharma).
-
 [^1168]: "Instead of “debvabrāḥmaṇārthe” the Vivaraṇakāra has “debvabrāḥmaṇārtham”; and instead of “kṣatriyāṇām” in plural the Vivaraṇakāra has “kṣatriyasya” in singular."
+
+ Answer—(For the sake of the gods and the brāḥmaṇas ) I shall kill (and not otherwise)[^1169]; though it stays restricted to the rules of death anniversary, etc., and does not go beyond it, it is also not of universal application. “yathā ca kṣatriyasya...” is an illustration of restriction caused by adherence to the rules (of dharma).
 
 [^1169]: "This has reference to the sacrifices."
 
@@ -12194,8 +11170,6 @@ cause for yoga ;whether other means exist ornot.”[^1144]
 
 **शय्यासनस्थोऽथ पथि व्रजन्वा स्वस्थः परिक्षीणवितर्कजालः ।  
 संसारबीजक्षयमोक्षमाणः स्यान्नित्ययुक्तोऽमृतभोगभागी ॥**
-
-
 
  यत्रेदमुक्तम्—ततः प्रत्यक्वेतनाधिगमोऽप्यन्तरायाभावश्च इति ॥३२॥
 
@@ -12225,12 +11199,8 @@ Study is the reading of śāstras pertaining to liberation or the repetition of 
 
  व्रतानि चैषां योगिनां यथायोगं यथासम्भवम्।होमादिविरुद्धधर्मविरुद्धप्रतिषेधार्थं यथायोगमित्याह।कानि तानि ? कृच्छ्रादीनि।कृच्छ्रं प्राजापत्यादि।त्र्यहं प्रातः त्र्यहं सायं त्र्यहमद्यादयाचितम्।उपोषणं त्र्यहम्इति।चान्द्रायणं यवमध्यपिपीलिकामध्यादि।‘एकैकं वर्धयेत् ग्रासम्’ इत्यादि स्मृतिः।सान्तपनम्—
 
-
-
 ‘गोमूत्रं गोमयं क्षीरं दधि सर्पिः कुशोदकम् ।  
 एकरात्रोपवासश्च कृच्छ्रः सान्तपनः स्मृतः ॥’
-
-
 
 एतान्येव द्रव्याणि त्रिरभ्यस्तानि महासान्तपनम्।आदिग्रहणं पराकादिप्रत्युपादानार्थम्।स्वाध्यायो मोक्षशास्त्राध्ययनम् उपनिषदाद्यध्ययनं प्रणवजपो वा।प्रत्यक्चेतनाधिगमोऽप्यन्तरायाभावश्चेति ॥३२॥
 
@@ -12254,7 +11224,6 @@ Study is the reading of śāstras pertaining to liberation or the repetition of 
 
 [^1178]: "MS, XI.217, 218 one mouthful at a time, increasing with the growth of the moon and decreasing with its decline. Instead of “evamādi . . .” the Vivaraṇakāra has “ityevamādi”."
 
-
 “sāntapanam”[^1179] (It is described as) ‘The urine of the cow, cow-dung, milk, curds, grass and water, and fast for one night is considered the difficult vow of santapana’[^1180]. “When the fast is observed with the said objects three times it is called the great sāntapana. The word “adi”[^1181] is used in order to indicate such vows as parāka, etc[^1182] is parāka.").
 
 [^1179]: "It must be noted that the Vivaraṇakāra breaks up the compound in the bhāṣya and quotes each one separately which is not as it is in the bhāṣya. The additional being going back to an unspiritual life."
@@ -12269,9 +11238,7 @@ Study is the reading of śāstras pertaining to liberation or the repetition of 
 
 [^1183]: "This definitely points to a period when japa has gained an equal status with jñāna."
 
-
 [^1184]: "As mentioned in the published manuscript there seems to be something missing here as the important topic of īśvarapraṇidhāna has been left out. The Vivaraṇakāra does not comment on this line either."
-
 
   एतेषां यमनियमानाम्—
 
@@ -12301,8 +11268,6 @@ Study is the reading of śāstras pertaining to liberation or the repetition of 
 
  Answer—In that context, the contrary of non-injury is injury “hani...bhaviṣy-
 
-
-
 āmīti”.[^1185] Similarly the contrary thought of (speaking the) truth is falsehood. So also the opposite thought of non-stealing is (I shall take this man’s wealth). Similarly the contrary idea of sense control is (I shall enter this man’s wife). And so also the opposite of non-covetousness is (I shall own his possessions).
 
 [^1185]: " Many words here are either split into their parts from the compound or quoted differently. Thus the bhāṣya has “haniṣyāmyahamapakāriṇam”, the Vivaraṇakāra has “haniṣyāmyapakāriṇam”. Instead of “anṛtamapi vakṣyāmi” the Vivaraṇakāra has “anṛtam vadiṣyāmīti”; instead of “dravyamapyasya” the Vivaraṇakāra has “dravyamasya”; instead of “ . . . vyayāyī bhaviṣyāmi” the Vivaraṇakāra has “ . . . gamiṣyāmi”."
@@ -12310,7 +11275,6 @@ Study is the reading of śāstras pertaining to liberation or the repetition of 
  The word “asya[^1186]”has been used in order to indicate that it is to be applied everywhere in situations of thought of injury, etc.
 
 [^1186]: " In the examples given the pronoun is used for general application."
-
 
 “dravyamasya...[^1187] ”,i.e., connecting oneself with the wealth of another. “pari... svāmīti”[^1188],i.e., considering oneself the owner of wealth belonging to others. Such as (the wealth of) ministers, kings and princes.
 
@@ -12342,8 +11306,6 @@ Study is the reading of śāstras pertaining to liberation or the repetition of 
 
 [^1193]: " Instead of “evamādi . . .” the Vivaraṇakārahas ”ityevamādi”."
 
-
-
 observed compulsorily; in not observing them there is the additional danger of defects[^1194]; therefore to draw special attention to them (they have been mentioned).
 
 [^1194]: "The additional being going back to an unspiritual life."
@@ -12362,8 +11324,6 @@ observed compulsorily; in not observing them there is the additional danger of d
   Mild, moderate and intense are again of three kinds each. Mildly mild,moderately mild and intensely mild. Similarly mildly moderate, moderately moderate and intensely moderate.Similarly mildly intense, moderately intense and intensely intense. In this way there are eighty-one kinds of injury. This again is innumerable since living creatures are innumerable because of varieties due to customary rules, option (whether to sacrifice one or another animal) and collectiveness (sacrificing every kind of animal). The same division is to be applied to falsehood &c.
 
   ते खल्वमी वितर्का दुःखाज्ञानानन्तफला इति प्रतिपक्षभावनम् दुःखमज्ञानं चानन्तं फलं येषामिति प्रतिपक्षभावनम्।तथा च हिंसकस्तावत्प्रथमं वध्यस्य वीर्यमाक्षिपति, ततश्चशस्त्रादिनिपातनेन दुःखयति, ततो जीवितादपि मोचयति, ततो वीर्याक्षेपादस्य चेतनाचेतनमुपकरणं क्षीणवीर्यं भवति, दुःखोत्पादान्नरकतिर्यक्प्रेतादिषु दुःखमनुभवति, जीवितव्यपरोपणात्प्रतिक्षणं च जीवितात्यये वर्तमानो मरणमिच्छन्नपि दुःखविपाकस्य नियतविपाकवेदनीयत्वात्कथञ्चिदेवोच्छ्वसिति।यदि च कथञ्चित्पुण्यावापगता हिंसा भवेत्तत्र सुखप्राप्तौ भवेदल्पायुरिति।एवमनृतादिष्वपि योज्यं यथासंभवम्।एवं वितर्काणां चामुमेवानुगतं विपाकमनिष्टं भावयन् न वितर्केषु मनः प्रणिधीत ॥३४॥
-
-
 
   These perverse thoughts have endless results of pain and ignorance-this is the kind of opposite thought; i.e., opposite thought is like this—they have unending results of pain and ignorance. Thus the agent of injury first reduces the strength of the victim. Then (he) inflicts pain through weapons and finally takes his life even. Because of reducing the strength (of the victim) his conscious and unconscious aids lose their strength. Because of inflicting pain he suffers pain in hell or is born as an animal or as a disembodied spirit and so on. Because of taking away its life he also continues from moment to moment at the point of death. Even though he desires to die, due to the fixed result to be experienced, he somehow continues to live. If somehow, through merit, the demerit due to injury is reduced then though he gets happiness he will be short-lived.
 
@@ -12388,8 +11348,6 @@ observed compulsorily; in not observing them there is the additional danger of d
 [^1197]: "Instead of “tridhā” the Vivaraṇakāra has “trividhā”."
 
  “ekaikā...dhā”—How are (they further divided into) three kinds. “lobhena...
-
-
 
 rthī[^1198]”,i.e. (out of greed for the skin and meat) one kills a deer (animal). “krodhena...bhaviṣyatīti[^1199]” = thus these are of nine types. Each of these are further divided into three types[^1200].How is this? “lobha...mātra iti”; “tridhā...bhavati[^1201]” (There are thus 81 different kinds of hiṃsā).
 
@@ -12424,8 +11382,6 @@ rthī[^1198]”,i.e. (out of greed for the skin and meat) one kills a deer (anim
  The same (kind of reasoning) must be applied (to other restraints and observances) like uttering falsehood, etc., i.e., done by oneself, caused to be done by another and approval when done by another must be connected (with the other restraints and observances as well).
 
  “te khalvamī...phalā”. Pain and ignorance is the analysis of the word “duḥkhājñāne”—they have them (pain and ignorance) as endless (results). So they are “duḥkha...phalāḥ”. (He further explains it as) of these, pain is the endless result, of these ignorance is the endless result. Therefore one should not consider these
-
-
 
 bad thoughts even mentally (but meditate on their opposites).
 
@@ -12467,11 +11423,8 @@ bad thoughts even mentally (but meditate on their opposites).
 
   This happens in the case of all living creatures.
 
-
-
   प्रतिपक्षभावनाहेया वितर्काः यदा च स्युरप्रसवधर्मिणः अप्रसवाश्च ते धर्मिणश्चेत्यप्रसवधर्मिणः।यदा योगिनो मनसि नोत्पद्यन्ते निकृत्तमूलाः सन्तः,तदा तत्कृतं यमनियमस्थैर्यकृतम् ऐश्वर्यं योगिनः सिद्धिसूचकम् अहिंसादिफलसिद्धिज्ञापकं जायत इति योगसिद्धिफलमवस्थितमेव।अन्यदपि योगाङ्गस्तुतये ऐश्वर्यमनुषङ्गजातमुच्यते।कथम् ? एकैकस्याप्यहिंसादीनां स्थिरत्वलिङ्गमीदृशं यज्ञादिधर्मफलैरप्यसमानं प्रत्यक्षत उपलभ्यते,किमङ्ग संहतानां योगसिद्धिकरत्वमिति।तदेतत्प्रतिदर्शयति—तद्यथा—अहिंसाप्रतिष्ठायाम् अहिंसास्थिरत्वे अवितर्कप्रादुर्भावे।तत्सन्निधौ वैरत्यागः।शाश्वतिकविद्वेषिणामपि सर्पनकुलादीनां तस्य अहिंसकस्य सन्निधौ वैरत्यागो भवति ॥३५॥
 
- 
 “pratipakṣa...dharmiṇaḥ[^1212]”. The analysis of the compound “aprasavadharmiṇaḥ” is—the properties that are unproductive. Due to the roots being cut when (the opposite thoughts) do not arise in the minds of the yogīs “tadā...sūcakam” (then) the perfections indicating the fruition of (practice of) non-injury comes into being, i.e., he attains the result of the perfection of yoga (practice). In order to praise (the perfection arising from) other aids to yoga he describes the group of closely connected perfections. How does he do that? The mark of steadiness in each one of the (restraints) like non-injury, etc., is of this kind—thus one directly achieves results which are superior to the result of performing dharma like sacrifices, etc., thus, which means amongst the closely connected (means) gives rise to (which) perfection in yoga ( is mentioned ).Thus he indicates that (through the words) “tadyathā" *ahiṃsā...vairatyāgaḥ*, i.e., in achieving steadiness in (practice of ) non-injury, in the achievement of absence of contrary thoughts (to non-injury) there arises in the presence of the non-violent person, absence of enmity even amongst perpetual (sworn) enemies such as a cobra and a mongoose, etc.
 
 [^1212]: "Instead of “pratipakṣabhāvanāddhetorheyā” the Vivaraṇakāra has “pratipakṣabhāvanāheyā”."
@@ -12490,8 +11443,6 @@ bad thoughts even mentally (but meditate on their opposites).
 
  Thus when Kuṇḍadhārārādhī was told by the gods ‘Let his mind be devoted to
 
-
-
 dharma’ he became a virtuous brāhmana[^1213]. Similarly when somebody is told ‘You will attain heaven (svarga)’ he “svargam prāpnoti” (attains heaven). This is like Triśaṅku who when told by Viśvāmitra that he will attain heaven did go to heaven[^1214]—In short it means “amoghāya vāk bhavati” (that his word is not belied).
 
 [^1213]: "MBH, Moksa, 271."
@@ -12507,7 +11458,6 @@ dharma’ he became a virtuous brāhmana[^1213]. Similarly when somebody is told
  Jewels from all directions come to him.
 
   अस्तेयप्रतिष्ठायां अस्पृहायाम्।ततः किमस्य भवति ? रत्नोपस्थानं भवति सर्वदिक्स्थान्यस्योपतिष्ठन्ते रत्नानि आत्मानं दर्शयन्ति ॥३७॥
-
 
 *asteya...sthānam*[^1215](when there is no greed)—then what happens to him (to such a yogī)? *ratnopasthānam* occurs, i.e., “sarva...ratnāni ātmānam[^1216]”(jewels from all directions) appear before him.
 
@@ -12528,8 +11478,6 @@ dharma’ he became a virtuous brāhmana[^1213]. Similarly when somebody is told
  किञ्च—विनयेषु शिष्येषु योग्येषु वा साधुषु ज्ञानमाधातुं समर्थो भवति यथा भगवान् व्यासः सं(ज्ञये) जज्ञे ॥३८॥
 
   *brahma... lābhaḥ* (By acquiring) brahmacarya “aprati...karṣayati” = he causes himself to be free of all obstacles. He acquires unobstructed strength for all activities which are good, i.e., it means that he is not defeated by any kind of opposition.Moreover “vinayeṣu” = to disciples who are worthy or good “jñānam... bhavati” he is capable of imparting knowledge just as Bhagavān Vyāsa was born (to impart knowledge to the worthy).
-
-
 
 अपरिग्रहस्थैर्येजन्मकथन्तासंबोधः ॥३९्॥
 
@@ -12558,8 +11506,6 @@ dharma’ he became a virtuous brāhmana[^1213]. Similarly when somebody is told
  स्वाङ्गे जुगुप्सायां शौचमारभमाणः कायावद्यदर्शी कायानभिष्वङ्गी यतिर्भवति।किं च परैरसंसर्गः कायस्वभावावलोकी स्वमपि कायं जिहासुर्मृज्जलादिभिराक्षालयन्नपि कायशुद्धिमपश्यन्कथं परकायैरत्यन्तमेवाप्रयतैः संसृज्येत॥
 
 ²The "vā" after "katham" is not there in the Vivaraṇa; so also instead of "purväntaparantamadhyeṣvātmabhāvajijñāsā..." the Vivaraṇakṇra has "purvaparantamadhyeṣu ātmajijñāsā...".
-
-
 
   When disgust for one's own body arises, the yogī, observing cleanliness, perceives the defects of the body, becomes unattached to the body and becomes controlled. Moreover, there is lack of contact with others. Having perceived the nature of the body and seeing that the body is not pure even when washed with mud, water, etc., how can he who desires to give up his own body have contact with other such impure bodies?
 
@@ -12592,8 +11538,6 @@ dharma’ he became a virtuous brāhmana[^1213]. Similarly when somebody is told
 [^1221]: "The Vivaraṇakāra adds asya and bhavanti from the bhāṣya and reads it along with the sūtra."
 
 [^1222]: "The Vivaraṇakāra does not bother to explain this but just repeats what the bhāṣya has."
-
-
 
 (one's nature) (of the sattva mind comes to be). Thus all this ( is obtained by steadiness in cleanliness). Thus this is the perfection associated with cleanliness.
 
@@ -12632,8 +11576,6 @@ dharma’ he became a virtuous brāhmana[^1213]. Similarly when somebody is told
 
   *kāyendriya... tapasaḥ* which limb has been (successfully) accomplished (is known from the perfection attained)—that is the idea. “tadāvaraṇa...dyā”, i.e., the impure
 
-
-
 body born by the relationship of the mother and father from the seed and the womb nourished by food are all overcome by austerities. As a result there arise perfections like atomisation of the body and so on.
 
  Similarly the covering of dirt of adharma of the senses which come into being by contact with objects, etc., is washed away by the flow of the river of austerities. “tathā...nādyā” (then there comes into being power of hearing from a distance, etc.).
@@ -12648,7 +11590,9 @@ body born by the relationship of the mother and father from the seed and the wom
 
  स्वाध्यायादिष्टदेवतासम्प्रयोगः।देवाः ऋषयः सिद्धाश्च य इष्टास्ते स्वाध्यायशीलस्य दर्शनं गच्छन्ति कार्येषु चास्य उपदेशादिषु वर्तन्ते ॥४४॥
 
-  svādhyāyā...gaḥ. “[devāḥ...vartante](http://॑# "The Vivaraṇakāra has the reading “ya iṣtāste” before “svādhyāyaśīlasya” which the bhāṣya does not have. Instead of “kārye cāsya” the Vivaraṇakāra has “kāryesu cāṣya”. The Vivaraṇakāra does not add anything to what the bhāṣya states.")” (gods, etc., help him and) advise (him) (who is dedicated to study of the sacred texts).
+  svādhyāyā...gaḥ. “devāḥ...vartante[^1291]” (gods, etc., help him and) advise (him) (who is dedicated to study of the sacred texts).
+
+[^1291]: "The Vivaraṇakāra has the reading “ya iṣtāste” before “svādhyāyaśīlasya” which the bhāṣya does not have. Instead of “kārye cāsya” the Vivaraṇakāra has “kāryesu cāṣya”. The Vivaraṇakāra does not add anything to what the bhāṣya states."
 
 समाधिसिद्धिरीश्वरप्रणिधानात् ॥४५॥
 
@@ -12669,8 +11613,6 @@ body born by the relationship of the mother and father from the seed and the wom
  उक्ताः सह सिद्धिभिर्यमनियमाः।आसनादीनि वक्ष्यामः।तत्र—
 
  The yamas and niyamas along with their perfections have been mentioned. We will now speak of posture &c. Amongst these:
-
-
 
 स्थिरसुखमासनम् ॥४६॥
 
@@ -12695,8 +11637,6 @@ body born by the relationship of the mother and father from the seed and the wom
  तथा दक्षिणं पादं सव्यस्योपरि कृत्वा,हस्तं च दक्षिणं सव्यहस्तस्योपरि निधाय येनास्ते, तत् भद्रासनम्।अन्यत् समानम् ॥
 
  Therein,that called padmāsana is (as follows)—drawing the left foot one should place it over the right; similarly the right foot (should be placed) over the left. Keeping steady the hip, chest and neck like one dead or in deep sleep, fixing the gaze on the tip of the nose, like a covered box with the lips not tightly closed, without touching (one row of) the tips of the teeth with (the measure of ) just one fist, fixing the tongue in between the (other) teeth, with the chin separated from the chest with front
-
-
 
 teeth, holding the hands in either the (representation of ) the tortoise or folded together over the heels, having sat steadily like this once, when one can sit without any effort in the special position of the body and the various parts of the body repeatedly this is the posture called “padmāsana[^1226]”. And this is similar to all other postures as well—there are only slight differences.
 
@@ -12728,20 +11668,19 @@ teeth, holding the hands in either the (representation of ) the tortoise or fold
 
  Stretching and keeping even the ankles and the toes and the knees and legs even, one who can stay like a staff that is known as staying in “daṇḍāsanam”.
 
- That which has support like a yogic table or a staff is “[sopāśrayam](http://॑# "The literal meaning is only that with support. For more details see Rukmani, op. cit., vol. II, p. 219 and p. 219n.")”.
+ That which has support like a yogic table or a staff is “sopāśrayam[^1292]”.
+
+[^1292]: "The literal meaning is only that with support. For more details see Rukmani, op. cit., vol. II, p. 219 and p. 219n."
 
  Lying with arms spread reaching the knees is “paryaṅkāsanam”.
 
  The resemblance to the sitting postures of a krauñca, etc., should be noted in “krauñcaniṣadanam . . . ” and so on.
-
 
 “samasamsthitam[^1227]” is when the chest and knees touch (are placed on) the ground. “sthitaprasrabdhiḥ[^1228]”, i.e., any other (posture) through which one binds oneself steady is “sthita... ”. Any posture which can be done without any difficulty is also the posture known as “sthitaprasrabdhiḥ” “yathāsukham ca” = in the form in which it is
 
 [^1227]: "The bhāṣya has “samasthānam” instead of “samasaṃsthitam”."
 
 [^1228]: "Instead of “sthirasukham” the Vivaraṇakāra has “sthitaprasrabdhiḥ”."
-
-
 
 comfortable for one seated, that is known as “yathā...”. By the use of the word “ādi” (etc.) one should understand any other posture which has been taught by the teacher.
 
@@ -12756,7 +11695,9 @@ comfortable for one seated, that is known as “yathā...”. By the use of the 
  तदासनजयाभ्युपाय इदानीमुपपाद्यते—प्रयत्नशैथिल्यानन्त्यसमापत्तिभ्याम्।भवतीति वाक्यशेषः
 आसनं दृढनिष्पन्नं भवतीत्युपस्कारः।प्रयत्नोपरमादासनबन्धोत्तरकालं प्रयत्नाकरणाद्वा सिध्यति।येन नाङ्गमेजयो भवति।येन प्रयत्नोपरमेण।प्रयत्नेन ह्यङ्गं कम्पयति।येन अचलितासनो भवतीत्यर्थः आनन्त्ये वा समापन्नम्।अनन्तं विश्वम्, अनन्तभाव आनन्त्यम्, तस्मिन् समापन्नं, व्याप्य विश्वभावं स्थितं चित्तमासनं निर्वर्तयति द्रढयति ॥४७॥
 
- Having attained proficiency (victory) in posture he now points out [*prayatna...ttibhyām*](http://॑# "The sūtra also reads prayatnaśaithilyānantasamāpattibhyām instead of prayatnaśaithilyānantyasamāpattibhyām.").“*bhavatī...*”, i.e., it is added that the posture gets well accomplished. “prayatno...”, i.e., after getting settled in the posture it is obtained without any more effort. “yena...bhavati”; “yena” = by cessation of effort; due to effort the limbs shiver; (by relaxation) one attains steadiness in posture. “ānantye...pannam” = the universe is endless; the state of being endless is “ānantyam”. Meditating (becoming one with that state), i.e., when the mind staying in that expanded universal state “cittam...vartayati” it (the posture) is strengthened.
+ Having attained proficiency (victory) in posture he now points out *prayatna...ttibhyām*[^1293].“*bhavatī...*”, i.e., it is added that the posture gets well accomplished. “prayatno...”, i.e., after getting settled in the posture it is obtained without any more effort. “yena...bhavati”; “yena” = by cessation of effort; due to effort the limbs shiver; (by relaxation) one attains steadiness in posture. “ānantye...pannam” = the universe is endless; the state of being endless is “ānantyam”. Meditating (becoming one with that state), i.e., when the mind staying in that expanded universal state “cittam...vartayati” it (the posture) is strengthened.
+
+[^1293]: "The sūtra also reads prayatnaśaithilyānantasamāpattibhyām instead of prayatnaśaithilyānantyasamāpattibhyām."
 
 ततो द्वन्द्वानभिघातः ॥४८॥
 
@@ -12769,8 +11710,6 @@ comfortable for one seated, that is known as “yathā...”. By the use of the 
  ततो द्वन्द्वानभिघातः। ततः आसनस्थिरीभावात्।इदं दृष्टमानुषाङ्गिकम्।यत् शीतोष्णादिभिर्द्वन्द्वैर्नाभिभूयते ॥४८॥
 
 * tato dvandvānabhighātaḥ tataḥ* = by gaining steadiness in posture, one has observed the following connection, i.e. “sītoṣṇa...bhūyate” (the opposites do not overcome him).
-
-
 
 तस्मिन्सति श्वासप्रश्वासयोर्गतिविच्छेदः प्राणायामः ॥४९॥
 
@@ -12800,11 +11739,6 @@ comfortable for one seated, that is known as “yathā...”. By the use of the 
 
  यत्र प्रश्वासपूर्वको गत्यभावः स बाह्यः।यत्र श्वासपूर्वको गत्यभावः स आभ्यन्तरः।तृतीयः स्तम्भवृत्तिर्यत्रोभयाभावः सकृत्प्रयत्नाद्भवति।यथा तप्ते न्यस्तमुपले जलं सर्वतः संकोचमापद्यते तथा द्वयोर्युगपद्गत्यभाव इति।त्रयोऽप्येते देशेन परिदृष्टा इयानस्य विषयो देश इति।कालेन परिदृष्टाः क्षणानामियत्तावधारणेनावच्छिन्ना इत्यर्थः।संख्याभिः परिदृष्टा एतावद्भिः श्वासप्रश्वासैः प्रथम उद्धातस्तद्वन्निगृहीतस्यैतावद्भिर्द्वितीय उद्धात एवं तृतीयः एवं मृदुरेवं मध्य एवं तीव्र इति संख्यापरिदृष्टः।स खल्वयमेवमभ्यस्तो दीर्घसूक्ष्मः ॥५०॥
 
-
-
-
-
-
  Where there is absence of movement after exhalation that is external (activity). Where there is absence of movement after inhalation that is internal (activity). Where there is absence of both kinds is the third kind of suppressed activity. This is achieved by a single effort. Just as water dropped on a red-hot stone shrinks from all sides similarly, there is absence of both simultaneously (in the third). All these three are observed (1) according to space; as this much space is its scope; they are observed (2) according to time, i.e., they are measured by determining the moments of duration; they are observed (3) according to number, i.e., through so many inhalations and exhalations the first udghāta (stroke) is measured. Similarly, the second stroke of one who has control (over the first) is through so many (inhalations and exhalations); similarly, the third (stroke). Again they are observed as mild, as moderate and as intense; this is prāṇāyāma observed according to number. This practised in these (many) ways becomes of long duration and subtle.
 
  स तु त्रिविधः बाह्याभ्यन्तरस्तम्भवृत्तिर्देशकालसंख्याभिः परिदृष्टो दीर्घसूक्ष्मः।स बाह्यवृत्तिरभ्यन्तरवृत्तिः स्तम्भवृत्तिश्च।यत्र श्वासपूर्वको गत्यभावः स बाह्यवृत्तिः।बाह्यस्य वायोरन्तः प्रवेशनं प्रति वृत्तिः यस्य स बाह्यवृत्तिः।तस्मात् स बाह्यः।बाह्यमन्ये पूरक इत्याचक्षते ॥
@@ -12830,8 +11764,6 @@ comfortable for one seated, that is known as “yathā...”. By the use of the 
 [^1236]: "Instead of “tṛtīyaḥ” the Vivaraṇakāra has “tṛtīyastu”. Instead of “yatrobhayābhāvaḥ” the Vivaraṇakāra has “tatrobhayābhāvaḥ”. Instead of “bhavati” the Vivaraṇakāra has “pṛabhavati”."
 
  “yathā... āpadyate”, i.e., (just as water poured on a red hot stone shrinks from all sides similarly with one effort activities of prāṇa, etc., get restricted; so he says “dvayo... iti” (there is absence of both activities at once).
-
-
 
  “trayo...deśa iti[^1237]”,i.e., the internal inhalation of the external activity spreads from the tip of the nose to the toes of the feet. Similarly, the external exhalation of air of the internal activity spreads from the toes of the feet up to the tip of the nose.The suppressed activity spreads (all over) from the top of the head to the soles of the feet. Or externally there is pervasion of space measured in terms of a vitasti[^1238]and so on.
 
@@ -12867,8 +11799,6 @@ comfortable for one seated, that is known as “yathā...”. By the use of the 
 
  The sphere of the external (prāṇāyāma) observed with regard to space, time and number is (then) transcended Similarly the sphere of the internal (prāṇāyāma
 
-
-
 observed with regard to space, time and number is transcended. In both cases, it is of long duration and subtle. Following these and by gradually conquering that stage, the suspension of movement (of breath) is the fourth prāṇāyāma.
 
  In the third kind of suspension of movement (of breath) the sphere is not considered, it is accomplished by one single effort, it is observed with reference to space, time and number, it is of long duration and subtle. Whereas the fourth comes into being gradually after determining the spheres of inhalation and exhalation and conquering that stage; the fourth prāṇāyāma is a suspension of movement of breath after transcending both the (earlier) spheres. Thus this is the difference (between the third and fourth prāṇāyāma).
@@ -12878,7 +11808,6 @@ observed with regard to space, time and number is transcended. In both cases, it
  देशकालसङ्ख्याभिर्बाह्यवस्तुविषयः परिदृष्ट आक्षिप्तो व्याप्तः।तथा आभ्यन्तरविषयः परिदृष्टो देशकालसङ्ख्याभिः आक्षिप्तो व्याप्तः।उभयथा दीर्घसूक्ष्मः।बाह्याभ्यन्तरविषयाक्षेपेणोभयथा दीर्घसूक्ष्मत्वापन्नः॥
 
  किमुक्तं भवतीत्याह—तत्पूर्वकः उभयविषयाक्षेपपूर्वकः।भूमिजयात् उभयवृत्तिवायुभूमिजयक्रमेणोभयोः प्राणापानवृत्त्योर्बाह्याभ्यन्तरयोः गत्यभावश्चतुर्थः॥
-
 
 तृतीयचतुर्थयोरुभयवृत्तिसामान्यादविशेषत्वमाशङ्क्याह–तृतीयस्तद्विषयानालोचितः सकृदारब्ध एव गत्यभावो देशकालसङ्ख्याभिः परिदृष्टो दीर्घसूक्ष्मः।चतुर्थस्तु श्वासप्रश्वासयोः आतमितोः विषयावधारणात् क्रमेण वा यद्वृत्तिभूमिजयक्रमेणोभयाक्षेपपूर्वको गत्यभावश्चतुर्थः प्राणायाम इत्ययं विशेषः तृतीयचतुर्थयोः॥२१॥
 
@@ -12899,8 +11828,6 @@ observed with regard to space, time and number is transcended. In both cases, it
 
 [^1244]: "Instead of “ . . . bhūmijayādubhayā . . .” the Vivaraṇakāra has “ . . . bhūmijayakrameṇobhayā . . . ”. Here again the Vivaraṇakāra hardly adds anything to what the bhāṣya says."
 
-
-
 i.e., (the fourth) goes beyond (inhalation and exhalation) both limited and unlimited, or (gradually determining) whatever is the activity, then conquering those stages, and transcending both spheres, the suspension of breath is the fourth (prāṇāyāma); (this is the difference) between the third and fourth (prāṇāyāmas).
 
 ततः क्षीयते प्रकाशावरणम् ॥५२॥
@@ -12917,15 +11844,15 @@ i.e., (the fourth) goes beyond (inhalation and exhalation) both limited and unli
 
  तथा चोक्तम्—‘न परं प्राणायामात्तपः’ इति।तस्मात् ततः प्राणायामात् रजस्तमःकार्याणां विशुद्धिर्मलानां, दीप्तिश्च ज्ञानस्येति ॥५२॥
 
- *tataḥ kṣīyate prakāśāvaraṇam*; that by which the light (of knowledge) is covered is the covering of light, i.e., it is the object (of action). “prāṇāyāma...” and so on, i.e., that by which the discriminating knowledge is covered is “viveka...karma”.“[yattu ācakṣate](http://॑# "Instead of “yattadācakṣate” the Vivaraṇakāra has “yattu ācakṣate”.")” = this is mentioned in an allied sacred text (as follows) “mahā... viniyuṅkte”, i.e., that which envelops by the wide net of misapprehension, that sattva itself, through the act of covering, is engaged in all wrong deeds. “tat prāṇādurbalam bhavati[^1245]”, i.e., not only does it lose its strength but “pratikṣaṇam...te” (it is weakened moment by moment).
+ *tataḥ kṣīyate prakāśāvaraṇam*; that by which the light (of knowledge) is covered is the covering of light, i.e., it is the object (of action). “prāṇāyāma...” and so on, i.e., that by which the discriminating knowledge is covered is “viveka...karma”.“yattu ācakṣate[^1294]” = this is mentioned in an allied sacred text (as follows) “mahā... viniyuṅkte”, i.e., that which envelops by the wide net of misapprehension, that sattva itself, through the act of covering, is engaged in all wrong deeds. “tat prāṇādurbalam bhavati[^1245]”, i.e., not only does it lose its strength but “pratikṣaṇam...te” (it is weakened moment by moment).
 
 [^1245]: "Instead of “tadasya . . . bhavati” the Vivaraṇakāra has “tatprāṇāyāmābhyāsādasya . . . bhavati”."
+
+[^1294]: "Instead of “yattadācakṣate” the Vivaraṇakāra has “yattu ācakṣate”."
 
  Thus it is said—“na param...tapaḥ[^1246]”,i.e., “tataḥ...māt” = because of that
 
 [^1246]: "The order is different in the Vivaraṇa. Instead of “tapo na param prāṇāyāmāt” the Vivaraṇakāra has “na param prānāyāmāt tapaḥ”."
-
-
 
 (prāṇāyāma) there is purification of the effects (defects) of rajas and tamas (and shining of knowledge).
 
@@ -12943,9 +11870,11 @@ i.e., (the fourth) goes beyond (inhalation and exhalation) both limited and unli
 
  किं च—भवत्यन्यदपि प्राणायामाभ्यासात्।धारणासु वक्ष्यमाणासु योग्यता मनसः प्राणायामादेव।‘प्रच्छर्दनविधारणाभ्यां वा प्राणस्य’ इति वचनात् ताभ्यां हि मनसः स्थितिसम्पत्तिरुक्ता ॥५३॥
 
- “kiṃca”—Moreover there is something else that comes about by the practice of [prāṇāyāma.](http://॑# "The sūtra reads dhāraṇāsu ca yogyatā manasaḥ but the Vivaraṇa has dhāraṇāsu yogyatā manasaḥ prānāyāmādeva. It appears that the Vivaraṇakāra is combining the sūtra with part of the beginning of the bhāṣya.") *[dhāraṇāsu](http://॑# "The sūtra reads dhāraṇāsu ca yogyatā manasaḥ but the Vivaraṇa has dhāraṇāsu yogyatā manasaḥ prānāyāmādeva. It appears that the Vivaraṇakāra is combining the sūtra with part of the beginning of the bhāṣya.")*...By the statement *pracchardana...prāṇasya*[^1247]the steadiness of the mind is mentioned as obtained by the two (exhalation and retention of breath..., i.e., prāṇāyāma).
+ “kiṃca”—Moreover there is something else that comes about by the practice of prāṇāyāma.[^1295] *dhāraṇāsu[^1295]*...By the statement *pracchardana...prāṇasya*[^1247]the steadiness of the mind is mentioned as obtained by the two (exhalation and retention of breath..., i.e., prāṇāyāma).
 
 [^1247]: "YS, I.34."
+
+[^1295]: "The sūtra reads dhāraṇāsu ca yogyatā manasaḥ but the Vivaraṇa has dhāraṇāsu yogyatā manasaḥ prānāyāmādeva. It appears that the Vivaraṇakāra is combining the sūtra with part of the beginning of the bhāṣya."
 
  अथ कः प्रत्याहारः ?
 
@@ -12959,15 +11888,15 @@ i.e., (the fourth) goes beyond (inhalation and exhalation) both limited and unli
 
  It means that, due to absence of contact with their objects they (the senses) appear to imitate the nature of the mind; when the mind is restricted the senses (also) are restricted like the mind. Yogīs (therefore) do not need to apply other means like other theories of control of the senses. Just as the bees fly when the king-bee flies and sits when it sits so also the sense-organs are restricted when the mind is restricted. This is pratyāhāra.
 
-
-
  अथ कः प्रत्याहारः ? प्रत्याहारविशेषमभिधित्समानः प्रश्नेनोपक्रमते स्वविषयादिन्द्रियाणां प्रत्याहरणमात्रं परेषां प्रत्याहारः।अत्र पुनर्विशेषवानुच्यते स्वविषयासम्प्रयोगे चित्तस्य स्वरूपानुकार इवेन्द्रियाणां प्रत्याहार इति ।
 
  स्वैः स्वैरशब्दादिभिर्विषयैः इन्द्रियाणां श्रोत्रादीनां संयोगाभावे विषयदोषदर्शनात् ध्यायिनां स्वविषयात् निवर्तितानां चित्तस्वरूपानुकारतेव योगिनश्चित्तं यदाकारतां भजते तत् चित्तस्वरूपानुकारतेवेति ॥
 
  एतदुक्तं भवति—चित्तनिरोधे चित्तवन्निरुद्धानि नोपायान्तरमपेक्षन्ते जयार्थम्।चित्तनिरोधादेव तानि निरुध्यन्ते।यथा मधुकरराजानम् श्रुत्यक्षरमेतत्।मधुकरराजमित्यर्थः।मक्षिका उत्पतन्तमनुत्पतन्ति निविशमानमनु निविशन्ते।तथैवेन्द्रियाणि चित्तनिरोधे निरुद्धानीत्येष प्रत्याहारः ॥५४॥
 
-  “atha kaḥ pratyāhāraḥ”, i.e., with a desire to mention the speciality of pratyāhāra (withdrawal of the sense-organs) he starts off with a question. For others “pratyāhāra" is just withdrawal of the sense-organs from their respective sense-objects. But here the special pratyāhāra is mentioned as *svaviṣaya...pratyāhāra*. “[svaiḥ...nukārateva](http://॑# "The Vivaraṇakāra has “svaiḥ svaiśśabdādibhirviṣayaiḥ saṃyogābhāve cittasvarūpānukārateva” instead of “svaviṣayasaṃprayogābhāve cittasvarūpānukāra iveti”.")”,i.e., when the senses such as the ear, etc., of the yogīs withdraw (themselves) from their respective sense-objects because of perceiving the defects in the objects, the form that the mind of the yogī takes on, is an imitation as it were of the nature of the mind.
+  “atha kaḥ pratyāhāraḥ”, i.e., with a desire to mention the speciality of pratyāhāra (withdrawal of the sense-organs) he starts off with a question. For others “pratyāhāra" is just withdrawal of the sense-organs from their respective sense-objects. But here the special pratyāhāra is mentioned as *svaviṣaya...pratyāhāra*. “svaiḥ...nukārateva[^1297]”,i.e., when the senses such as the ear, etc., of the yogīs withdraw (themselves) from their respective sense-objects because of perceiving the defects in the objects, the form that the mind of the yogī takes on, is an imitation as it were of the nature of the mind.
+
+[^1297]: "The Vivaraṇakāra has “svaiḥ svaiśśabdādibhirviṣayaiḥ saṃyogābhāve cittasvarūpānukārateva” instead of “svaviṣayasaṃprayogābhāve cittasvarūpānukāra iveti”."
 
  (In that connection) it is said—“cittanirodhe...pekṣante[^1248]”, i.e., for the restraint (of the sense-organs) (the yogīs need not resort to any other means). By the restraint of the mind itself they (the senses) are restrained. “yathā...[^1249]”=this is a statement of śruti and means madhukararājam (the king bee) “makṣikā...pratyāhāraḥ[^1250]”.
 
@@ -12987,8 +11916,6 @@ i.e., (the fourth) goes beyond (inhalation and exhalation) both limited and unli
 
  (1)Some say that non-attachment to objects such as sound &c., is control of the senses. (The word) vyasana means attachment, because it separates one from what is good. That enjoyment of sense-objects which is not prohibited in the śāstras is legitimate (and this is control of senses). (2) Others say that contact with sense-objects such as sound &c., (only) when one desires (without being their slave) (is control of the senses). (3) Still others are of the opinion that, knowledge of sound &c., without
 
-
-
 the feeling of either pleasure or pain, in the absence of attachment and aversion, is control of the senses. (4) Jaigīsavya thinks that it is lack of activity (of the senses) due to one-pointedness of the mind. Because of this it is the highest form of control. For here, when the mind is restricted, the sense-organs are restricted; therefore, yogis do not need to employ other means like other theories of control of the senses.
 
  Thus in the (commentary of Vyāsa) on the Yogaśāstra of Patañjali (this is) the second Pāda (quarter) on Sādhana.
@@ -12999,7 +11926,9 @@ the feeling of either pleasure or pain, in the absence of attachment and aversio
 
  अविरुद्धा प्रतिपत्तिर्वा।विरुद्धानां वा शब्दादीनामप्रतिपत्तिर्वश्यतेति।तस्यैव व्याख्यानं— न्याय्यः शास्त्रानुज्ञातः शब्दादिषु संयोगः स्वेच्छया।तेष्वविरुद्धेषु यदीच्छति प्रवर्तते न वा इत्येवमन्ये मन्वते ॥
 
-  tataḥ = by gaining stability in pratyāhāra, *paramā vaśyatendriyāṇām* there is (the highest control of sense-organs). The word iti denotes the end. Those various (sense) controls amongst which that supreme control which comes into being through stability of pratyāhāra are now mentioned. “[śabdādi... kecidāhuḥ](http://॑# " The Vivaraṇakāra has “śabdadiṣvindriyajayaḥ avyasanam kecidāhuḥ” instead of “śabdādiṣvavyasanamindriyajaya iti kecit”. It appears that the Vivaraṇakāra paraphrases the bhāṣya in his own words without meticulously maintaining the order of the words in the bhāṣya.")”, i.e.,it is repeated inactivity or (repeated) non-attachment (to sense-objects) (according to some). He further explains the word “vyasanam” as “sakti... nam” (attachment). How is that so? “vyasya... śreyasaḥ” = it removes him, who gains it, from what is good.
+  tataḥ = by gaining stability in pratyāhāra, *paramā vaśyatendriyāṇām* there is (the highest control of sense-organs). The word iti denotes the end. Those various (sense) controls amongst which that supreme control which comes into being through stability of pratyāhāra are now mentioned. “śabdādi... kecidāhuḥ[^1298]”, i.e.,it is repeated inactivity or (repeated) non-attachment (to sense-objects) (according to some). He further explains the word “vyasanam” as “sakti... nam” (attachment). How is that so? “vyasya... śreyasaḥ” = it removes him, who gains it, from what is good.
+
+[^1298]: " The Vivaraṇakāra has “śabdadiṣvindriyajayaḥ avyasanam kecidāhuḥ” instead of “śabdādiṣvavyasanamindriyajaya iti kecit”. It appears that the Vivaraṇakāra paraphrases the bhāṣya in his own words without meticulously maintaining the order of the words in the bhāṣya."
 
  “aviruddhā...”or sense control is non-attachment towards sense-objects like sound, etc., which are prohibited (according to śāstra) ; that is again explained as “nyayyaḥ... manvate[^1251]”, i.e., with regard to those which are allowed by the śāstras (and) not prohibited, one follows or not follows what one desires[^1252].
 
@@ -13013,12 +11942,9 @@ the feeling of either pleasure or pain, in the absence of attachment and aversio
 
  इति श्रीगोविन्दभगवत्पूज्यपादशिष्यस्य परमहंसपरिव्राजकाचार्यस्य श्रीशङ्करभगवतः कृतौ श्रीपातञ्जलयोग(शास्त्र)सूत्रभाष्यविवरणे ॥ द्वितीयः साधनपादः ॥
 
- 
 “rāga...jñānam[^1253]” = there is absence of a sense of acquisition or loss in sense-control, according to some. In a state of indifference there is no concealing of the
 
 [^1253]: " The words “indriyajaya iti kecit” are not found here."
-
-
 
 bare existence of attachment and hatred—this is the difference. He now explains his desired (definition of sense control) as “aikāgryāt... manyate[^1254]” = acting in comformity with one-pointedness of the mind the (non-attachment) of the sense-organs with reference to sense-objects like sound, etc., (is sense control according to Jaigīṣavya) “paramā...” and so on[^1255], i.e., amongst all the (above) mentioned (types of) sense control this is the supreme; “upāyāntaram...” the above-mentioned (types of) sense control (need other means) for their success; whereas in this (supreme sense control) (the yogis do not need other means of control ...).
 
@@ -13027,8 +11953,6 @@ bare existence of attachment and hatred—this is the difference. He now explain
 [^1255]: "The Vivaraṇakāra has “vaśyatendriyāṇām” instead of just “vaśyatā” in the bhāṣya. Instead of “yaccittanirodhe niruddhānīndriyāṇi” the Vivaraṇakāra has “yaccittaniruddhānīndriyāṇi”. After “indriyajayavat” the Vivaraṇakāra has “upāyāntaramapekṣante” which is not there in the bhāṣya. There is “punarna” before “prayatna . . . ” in the Vivaraṇa which is not there in the bhāṣya."
 
  Thus the second Sādhanapāda, in the Vivaraṇa of the bhāṣya of Patañjali's *Yogasūtra(śāstra)* composed by Śrī Śaṅkarabhagavān, the Paramahaṃsaparivrājaka (wanderer) preceptor, the disciple of the venerable Śrī Govindapāda.
-
-
 
 Bibliography
 
@@ -13054,8 +11978,6 @@ Raja, K.K., *The Contribution of Kerala to Sanskrit Literature*. Madras: Univers
 Rambachan, Anantanand, *Accomplishing the Accomplished*. Honolulu: University of Hawaii Press, 1991.  
 Rukmani, T.S., *Yogavārttika of Vijñānabhikṣu*, vols. I-IV. New Delhi: Munshiram Manoharlal Publishers,      1981-89.  
 —,*Śaṅkarācārya*. New Delhi: Publication Division, 1994.
-
-
 
 Śaṅkaranārāyanan, S., *Śrī Śaṅkara*. Madras: Adyar Library and Research Centre, 1995.  
 Taimini, I.K., *The Science of Yoga*. Madras: Adyar Library and Research Centre, 1974.  
@@ -13085,29 +12007,15 @@ The following Upaniṣads with Śāṅkarabhāṣya published by Gita Press, Gor
 Upadeśasāhasrī, Eng: trans. by Swami Jagadānanda. Madras: Sri Ramakrishna Math, 1973.  
 *  Yogatārāvalī*, with Sanskrit and Hindi commentaries by Swami Dayanand Sastri. Varanasi: Sanskrit Sansthan, 1982.
 
-
+# Please dont Edit this page (Blank Page)
 
 # Please dont Edit this page (Blank Page)
 
-
-
 # Please dont Edit this page (Blank Page)
 
-
-
 # Please dont Edit this page (Blank Page)
-
-
-
-# Please dont Edit this page (Blank Page)
-
-
-
-
 
 Dr. T.S. Rukmani is currently Professor and Chair in Hindu Studies at Concordia University, Montreal, Canada. Before joining the present assignment she had the distinction of being the first Chair in Hindu Studies and Indian Philosophy at the University of Durban-Westville, South Africa. She had a distinguished academic career at the University of Delhi, where her last assignment was Principal, Miranda House. She is the author of ten books which also includes the Yogavārttika of Vijñānabhikṣu, translated into English, 4 vols. (New Delhi, 1981-89). She has innumerable papers to her credit and publishes regularly in academic journals both in India and abroad.
-
-
 
 Books of related interest  
 **The Gheranda Samhita**  
@@ -13135,8 +12043,6 @@ Text with English trans. and critical notes alongwith the text and
 English trans. of the Patanjala Yogasutras and Vyasabhasya  
 T.S. Rukmani
 
-
-
 **Munshiram Manoharla।  
 Publishers Pvt. Ltd.  
 New Delhi**  
@@ -13145,1373 +12051,5 @@ www.mrmlbooks.com
 9788121509084  
 Rs 1600 (for the set)
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^1097]: "The Vivaraṇakāra does not add anything new to the bhāṣya."
-
-
-[^1057]: " Instead of “bandhābhāvaḥ” the Vivaraṇakāra has “bandhasyābhāvaḥ”."
-
-
-[^1048]: "YS, II.20."
-
-
-[^1036]: "The Vivaraṇakāra does not add anything new to the bhāṣya."
-
-
-[^1035]: "The Vivaraṇakāra does not add anything new to the bhāṣya."
-
-
-[^1034]: "The Vivaraṇakāra does not add anything new to the bhāṣya."
-
-
-[^1028]: "This is attributed to Pañcaśikhācārya."
-
-
-[^1011]: "YS, I.4."
-
-
-[^968]: "Ibid."
-
-
-[^956]: "The Vivaraṇakāra has "
-
-
-[^915]: "Instead of "
-
-
-[^914]: "The Vivarana has "
-
-
-[^911]: "Instead of "
-
-
-[^905]: "Instead of "
-
-
-[^881]: "Instead of "
-
-
-[^880]: "There is no "
-
-
-[^697]: "Half of a pepper — thus the half is what is important here."
-
-
-[^662]: " "
-
-
-[^656]: " "
-
-
-[^643]: " "
-
-
-[^637]: " "
-
-
-[^632]: " "
-
-
-[^589]: " "
-
-
-[^583]: " "
-
-
-[^567]: " "
-
-
-[^548]: " "
-
-
-[^546]: " "
-
-
-[^533]: "Thus there cannot be two equals."
-
-
-[^520]: " "
-
-
-[^480]: " "
-
-
-[^464]: " YS, I.32. In order to get rid of these (obstacles
-
-
-[^255]: "YS, I.2."
-
-
-[^103]: "Ibid."
-
-
-[^102]: "Pande, op. cit., p. 112."
-
-
-[^88]: "Ibid."
-
-
-[^58]: "(1

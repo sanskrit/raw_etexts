@@ -332,10 +332,6 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 
 [^23]: "The three lines of the Akatbādi triangle, viz Vahnı, Indu and Arka Sec Arthur Avalon's "
 
-[^19]: "V ante, p II"
-
-[^19]: "V ante, p II"
-
  In Her fourfold aspect She manifests as the Sūkshma Karanas[^24]; Jāgrat etc[^25].
 
 [^24]: "Buddhi, Ahamkära, Manas and Chitta."
@@ -349,10 +345,6 @@ Parā^(**1**). In its next state it is Pashyantī^(**2**). When it reaches the h
 [^27]: "Prāna, Apāna, Samāna, Udāna, Vyāna."
 
  In Her sixfold aspect She is the six Koshas[^19], six Urmis[^29], and six Rasas[^30] She it is who forms the divisions of the six-chambered Yantra (Shadgunita Yantra).
-
-[^19]: "V ante, p II"
-
-[^19]: "V ante, p II"
 
 [^19]: "V ante, p II"
 
@@ -859,10 +851,6 @@ Salutation to Thee in the form of the ear, skin, eyes, tongue, and nose^(**4**),
 
 [^74]: "See last note."
 
-[^74]: "See last note."
-
-[^74]: "See last note."
-
  Salutation to Thee, Manas, Buddhi, Ahaṁkāra and Chitta^(**5**), Obeisance to Thee Who art in the form of the whole Universe:
 
 ———————————————————————————————————————  
@@ -910,10 +898,6 @@ Who can imagine Thy supreme state[^77]?
 [^76]: "Ishi."
 
 [^77]: "Lit "
-
-[^76]: "Ishi."
-
-[^76]: "Ishi."
 
 9
 
@@ -1027,18 +1011,6 @@ Great Yogins salute Thee
 
 [^94]: "Sunāthā,"
 
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
 14
 
 Great Goddess[^95], I know Thee to be Shrī[^96]  
@@ -1052,10 +1024,6 @@ Beauteous with the glittering splendour of the Kaustubha gem^(**3**).
 [^96]: "Lakshmi."
 
 [^97]: "Vyomanile"
-
-[^96]: "Lakshmi."
-
-[^96]: "Lakshmi."
 
 15
 
@@ -1103,10 +1071,6 @@ And all other powers[^104].
 
 [^76]: "Ishi."
 
-[^76]: "Ishi."
-
-[^76]: "Ishi."
-
 [^102]: "Buddhi, see page 41."
 
 [^103]: "Mati; here the acting manas."
@@ -1151,21 +1115,9 @@ Who art the power in all things^(**8**),
 
 [^91]: "Maheshi"
 
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
 [^109]: "Samaste"
 
 [^110]: "Samastasvarūpe"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
 
 ———————————————————————————————————————  
 
@@ -1198,18 +1150,6 @@ Oh our Great Lady[^91],
 May all our speech be of, and all our hymn to, Thee,  
 May all we do^(**2**) be homage to Thee.  
 Be ever gracious to and pardon me^(**3**).
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
-
-[^91]: "Maheshi"
 
 [^91]: "Maheshi"
 
@@ -1549,10 +1489,6 @@ May Thou be ever victorious.
 
 [^74]: "See last note."
 
-[^74]: "See last note."
-
-[^74]: "See last note."
-
 [^168]: "Foster father of Krishna."
 
 8
@@ -1718,10 +1654,6 @@ Gives several Mantras including that of Vishnu as "The Charmer of the whole Univ
 **MEDITATION ON VISHNU.**
 
 Think of a beautiful garden of Kalpa trees fragrant with the scent of flowers and musical with the humming of big bees. Therein meditate upon Ramāpati[^186], seated on Garuda[^187].") who is on a red lotus. The husband of Shrī[^96] is the colour of a full blown red hibiscus flower and shines with the radiance of ten million rising suns. He is in the full flush of beauteous youth shedding the nectar of His sweet scented presence and lovely form. Kind is He to all. He holds a conch shell, bow, club (Mushala), noose (Pāsha), discus (Chakra), sword, mace (Gadā), goad (Aṁkusha). His eyes
-
-[^96]: "Lakshmi."
-
-[^96]: "Lakshmi."
 
 [^96]: "Lakshmi."
 
@@ -9736,24 +9668,3 @@ June 1935.
 
 \]
 
-[^6]: "See note at p. 29 post."
-
-[^28]: "V ante, p II"
-
-[^56]: "See Introduction to my book "
-
-[^101]: "Ishi."
-
-[^108]: "Maheshi"
-
-[^111]: "Maheshi"
-
-[^151]: "The subtle states (bhāva
-
-[^152]: "The subtle states (bhāva
-
-[^167]: "See last note."
-
-[^188]: "Lakshmi."
-
-[^199]: "The Devatās of those names."

@@ -931,6 +931,3 @@ and attributes it to Bhadanta Dharmottara. Aniruddha quotes here
 
 \]
 
-[^13]: "प्रमाणाभासो मु"
-
-[^33]: "संबन्धा ज, सम्बन्धविशेषः मु"

@@ -4683,5 +4683,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDAyOTI4NDg2NzY
 ![](../books_images/U-IMG-1720679723pic5.jpg)
 
 \]
-
-[^59]: "दिनकरग्रहणेभ्यो"

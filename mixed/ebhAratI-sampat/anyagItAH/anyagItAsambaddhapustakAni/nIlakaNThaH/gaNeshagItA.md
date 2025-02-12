@@ -5371,8 +5371,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjYxNzkxMzM5MDk
 
 \]
 
-[^50]: "क. ख. 'नाशका'। "
-
-[^445]: "क. षड्रिपूणां।"
-
-[^494]: "घ. °तावद्भा°"

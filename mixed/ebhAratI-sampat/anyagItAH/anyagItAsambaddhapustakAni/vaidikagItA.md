@@ -225,34 +225,6 @@ fitly supplement the daily prayer, rather than that both of them are one and the
 
 [^4]: "(i
 
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
  Not a little of the success of Islam is due to the foresight of Mohammad in emphasising the importance of the Scripture. It is unquestioned submission to the authority of a single book... the common Koran, that binds together all the Musalmans of the world. Though they happen to berecruited from the diverse people and such different races as Arabs, Pathans, Persians, Turks, Chinese and Egyptians, Negroes and Indians, the acceptance of the Koran makes them all equal sharers in the common-wealth of Islam.  
  "The Musalman is not an isolated individual; the Tunesian, the Algerian, the Moroccan, the Sudanese are not individuals whose horizon stops at the artificial boundaries created by diplomatists and geographers. To whatever political formation they may belong, they are first and foremost citizens of Islam. They belong morally, religiously, intellectually, to the Great Moslem father-land, of which the capital is Mecca, and whose ruler theoretically undisputed...is the commander of the Faithful[^5]."  
  "Next to the act of testifying to the unity of God, the Koran is the great bond of Islam. No matter from what race the convert may have come, no matter what language he may speak, he must learn in Arabic and repeat by rote, portions of the Koran, in every act of public worship[^6].”
@@ -443,34 +415,6 @@ realisation viz, Karma Yoga (Ethical), Bhakti Yoga (Devotional) and Jnana Yoya (
 
 [^4]: "(i
 
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
  On account of this tripartite division, the Veda is known as Trayi[^23]or the Great Triad. The Amara Kosa calls it
 
 [^23]: "Satapath Brahmana, 4-6-7-1"
@@ -487,39 +431,11 @@ Trayi[^24],the Gita calls it Trayi[^25], and the Buddhist gave to it the name of
 
 [^4]: "(i
 
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
 [^27]: "अथ+ऋ+वनिप=अथर्व (Nighantu 5-5-13
 
 [^29]: "Macdonell-History of Sanskrit Literature,p.112."
 
 [^30]: "Gopatha Brahmana,2–2–5"
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
 
  At the time of the composition of the Atharva Veda the Aryans had been divided into two opposite camps– hargavas and Angirasas. The difference arose on the question of Image Worship.
 
@@ -745,34 +661,6 @@ Nasatyau– One-in-Two.
 
 **मित्रस्य इलानि, वरुणस्य इलानि,  
 इन्द्र इलानि, नासत्यौ अन्य[^4] Griswold—God Varuna in the Rig Veda, F. 29. (ii) Griswold-The Religion of the RigVeda,p.114. (iii) Bloomfield-Religion of the Veda,p.121.")। **
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
-
-[^4]: "(i
 
 [^4]: "(i
 
@@ -5108,8 +4996,3 @@ Price–As. 4
 
 \]
 
-[^22]: "(i
-
-[^28]: "(i
-
-[^43]: "(i

@@ -662,10 +662,6 @@ Then, stationed in their great war-chariot, yoked to white horses, Mâdhava[^4]
 
 [^5]: "Arjuna."
 
-[^5]: "Arjuna."
-
-[^5]: "Arjuna."
-
  **ततः** then **; श्वेतैः** (with ) white ; **हयैः** with horses; **युक्ते** (in) yoked ; **महति** (in) great ; **स्यंदने** in war-chariot; **स्थितौ** (two) standing; **माधवः** Mâdhava ; **पांडवः** the son of Pâṇḍu; **च** and; **एव** also ; **दिव्यौ** (two) divine; **शंखौ** (two) conches; **प्रदध्मतुः** (two ) blew .
 
 **पाचजन्यं हृषीकेशो देवदत्तं धनंजयः।  
@@ -767,10 +763,6 @@ of terrible deeds, blew his mighty conch, Paundra ; (15)
 Sanjaya said:
 
  Thus addressed by Guḍâkesha[^5],Hṛiṣhîkesha, O Bhârata, having stayed that best of chariots in the midst, between the two armies, (24)
-
-[^5]: "Arjuna."
-
-[^5]: "Arjuna."
 
 [^5]: "Arjuna."
 
@@ -7019,5 +7011,3 @@ PEACE BE TO ALL WORLDS.
 | **हेतुमत्**—xiii, 4.                                                                                                       |
 
 \]
-
-[^8]: "Arjuna."

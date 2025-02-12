@@ -15,31 +15,15 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk1MjIyNDY3Njg
 
 \[
 
-
-
 |                                            |
 |:------------------------------------------:|
 | ![](../books_images/U-IMG-1724773509न.png) |
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
-
-
-
-[TABLE]
-
-
 
 FOREWORD.  
 
@@ -51,8 +35,6 @@ FOREWORD.
 
  Very few people however have any idea as to the extraordinary significance of Iconography in determining the antiquity of Sanskrit works in general and Tantric works in particular: or even, how materially the mention of certain deities helps a great deal in correctly dating works relating to Tantras and other cognate subjects. In the Pārānanda Sūtra the author persistently makes an attempt to give it the appearance of great antiquity so that it may be regarded as a work of the highest authority. But
 
-
-
 it has been shown elsewhere[^1]that the Tantras are of a very recent origin and even the earliest of the works now extant cannot go back under any circumstances beyond the 2nd or the 3rd century A. D. There are certain clues in the body of the book to show not only that the Pārānanda Sūtra is a product of recent origin, but also that, though written in the Sūtra form, it cannot go back to a time when even the earlier Tantras were composed.
 
 [^1]: "Sādhanamālā, vol II, Introduction, see p.3. Origin and Development of Vajrayana, pp. xxii ff."
@@ -63,9 +45,9 @@ for instance, Agniṣoma and thus refers to the famous Pañcarātra doctrine of 
 
 [^2]: "p. 29. Sūtra, 20, तदुदरतोऽन्यतः सर्वतः अचिन्त्यैश्वर्यावग्नीषोमो।"
 
-. Soma is called Joy while Agni or Surya is called Light (Prakāśa). The combination of the short and long vowels is therefore given the name of Agnīsoma, and they are considered to be the embodiment of the highest god Brahman, and even the creator of the principles like Mahat, Ahaṁkāra, etc. Agniṣoma are regarded as the creator, maintainer and destroyer of the universe. They are therefore named
-
 [^3]: "See Jāyakhyasamhitā, introduction, pp. 24, 25; and text— प्रकाशस्तु भवेत्सूर्य आह्लादः सोम उच्यते पुमान् स एव चिन्मूर्त्तिरग्नीषोममयो द्विज॥p.58 षोडशाक्षर आद्यस्तु अकाराद्यो द्विजोत्तम विसर्गान्तः स्थितस्तस्मिन्ननीषोमात्मकः प्रभुः॥ p.42"
+
+. Soma is called Joy while Agni or Surya is called Light (Prakāśa). The combination of the short and long vowels is therefore given the name of Agnīsoma, and they are considered to be the embodiment of the highest god Brahman, and even the creator of the principles like Mahat, Ahaṁkāra, etc. Agniṣoma are regarded as the creator, maintainer and destroyer of the universe. They are therefore named
 
 as Pumān. From Pumān are originated the Vyañjanas or the consonants of the alphabet and the creative Tattvas beginning with Mahat and ending in the Earth. This Pumān while presiding over the Pradhāna or Primordial matter becomes conscious of his possession, wants many more things to create, and thus obtains the name of Puruşeśvara[^4]
 
@@ -77,13 +59,9 @@ as Pumān. From Pumān are originated the Vyañjanas or the consonants of the al
 
 [^5]: "For the date of the three Pañcarātra Jewels including Jayākhya, See introduction to the Jayākhyasamhitā,pp.26 ff,"
 
-
-
 mentions this, the work cannot have a greater antiquity than the time of the Pāñcarātra Samhitās, one of the chief novelties of which is the theory of the Aksara Brahman.
 
  The Pārānanda Sūtra, moreover, in the course of the book mentions several deities, refers to a large number of Tantric sects, and names many preceptors and authors. The very fact that in the time of the composition of the Pārānanda Sūtra there were such Tantric sects as the Gāṇapas, S'āktas, Sauras, S'aivas and the Vaiṣṇavas as mentioned on p. 45 shows at once that the present work is decidedly later than the time when these schools of Tantra had evolved and become quite popular and well-known. The philosophical tenets inculcated in this Tantra, particularly of Jivātman, Is'vara, and Paramātman have a peculiar affinity towards the doctrines preached in the Buddhist Tantras where the parallels of the three above mentioned are represented by the Bodhisattvas, Dhyani Buddhas and the S'unya. The characteristics of Paramātman to agreat extent coincide with the characteristics of S'ünya as found particularly in the Mahāsukhavāda which is the very essence of Buddhist Tāntrism. Moreover, a perfectly Tantric atmosphere permeates throughout the book, because all the paraphernalia of Tantra are found stated therein, namely, the Mudrās, Mandalas, Mantras, the S'akti, the Vāmamārga, the five Makāras, and what not. The Dakșina Mārga of the Pārānanda School corresponds with the Kriyātantra and the Caryātantra of the Buddhist Tantras, the Vāmamārga corresponds with the Yoga Tantra where S'aktis are permitted to the worshipper and the Uttaramārga is the parallel of the Anuttarayogatantra of the Buddhists where no restriction, no rule and no custom or tradition may be binding on the worshipper. It may be observed in this connection that the earliest reference to S'akti worship or the ascetic having recourse to Yoga practices with the help of women are met with in the Guhyasamāja Tantra. This Tantra is in the form of a Sangīti where Vajradhara is introduced in an Assembly of the Faithful and delivers a sermon essentially on this point showing the necessity of women in the Tantric practices. When he preached this new doctrine there was a chorus of disapproval from among the audience who denounced the speaker for having said something very repugnant to them. The speaker did not reply but sat in Samādhi and from his person issued destructive
-
-
 
 rays of light and when the rays touched those who denounced they all fell down from their seats senseless. The other members, who readily believed in him and implicitly put faith in his new doctrines, were saved from this disaster. These members requested the speaker to revive the dead and in compliance he sat in another Samādhi, and when the rays issuing from his body touched the unconscious members they were revived and sat again on their seats; and in the meanwhile they could realize what they could not understand through words of mouth. The mention of the Vāmācāra and permission given to the ascetics to take recourse to women cannot be earlier than the time of the composition of the Guhyasamāja, which has been shown to be circa 3rd century A. D. The practice of Yoga in the company of women was made a special feature in the Tantras that came after the Guhyasamāja and was the very part and parcel of the Tantra, particularly of the Vāmācāra, Yoga and Anuttarayoga Tantras.
 
@@ -98,8 +76,6 @@ rays of light and when the rays touched those who denounced they all fell down f
 [^9]: "p.37, sūtra 94; p.11, sūtra 47"
 
 [^10]: "Buddhist Deities in Hindu Garb in the Proccedings of the Fifth Oriental Conference at Lahore,Vol.II,pp.1277 ff."
-
-
 
 Hinduism[^11]. Furthermore, the deity Bhūtaḍāmara who is described in the Buddhist Tantras as an expert in destroying the pride of such gods as S'akra, Brahmā, Kubera and others[^12], though included. in the Hindu pantheon is really Buddhist in origin[^13]. Pārānanda Tantra includes Kurukullā who is a purely Buddhist deity as a Hindu goddess, and it is necessary therefore that the origin and history of the conception of this deity should be traced with the materials at present available.
 
@@ -125,21 +101,17 @@ Karuṇācala, the second, twice mentions Līlās'ani or Līlāvajra as his prec
 
 [^16]: "op.cit.Vol.II.intro.p.xcix."
 
-
-
 Padmasambhava who went to Tibet to reform the State religion there and built the first regular monastery at Samye along with his brother-in-law and collaborator, the famous S'āntārakṣita. Indrabhūti owing to these reasons has been placed in cir. A.D.717[^17]. He wrote several works among which the Jñanasiddhi has already been published in the *Gaekwad's Oriental Series.* Besides Indrabhūti there was another Siddhācāryya who is credited with the authorship of a Sadhana for Kurukulla. He is Kṛṣṇācāryya popularly known as Kanhupā. This Kṛṣṇa was born of a Brahmin family of Orissa and was initiated into the mystic cult by Jalandharīpā. Kṛṣṇa's disciple was a weaver. He was a great composer of verses in vernacular and several of them have been published in the *Bauddha Gān O Dohā*by Mahamahopadhyaya Haraprasad Shastri. Kṛṣṇācāryya was a disciple of Jalandharīpā and must have flourished in about 717 A. D.[^18]
 
 [^17]: " Ibid, intro. p. xcVIII. See also Two Vajrayāna works, Iintroduction pp. xiff."
 
- But the name of S'abara amongst the authors of Sadhanas devoted to Kurukulla is the most important in determining the date of the introduction of the deity Kurukulla in the Buddhist pantheon. S'abarapa as is well known is one of the earliest Siddhācāryyas so far known, and is the disciple of Siddha Nagarjuna. He is described as having belonged to the hill tribe called the S'abaras or huntsmen in Bāngālā where he met Nāgārjuna and embraced Tantrism. Besides being a writer on Sādhanas he is also credited to have composed many melodious songs in his own vernacular which have also been published in the *Bauddha Gān O Dohā* already referred to. He, being a disciple of Nagarjuna (645 A.D.), must have flourished in the middle of the seventh century[^19].
-
 [^18]: "Sādhanamālā, întro. p. LIII,"
+
+ But the name of S'abara amongst the authors of Sadhanas devoted to Kurukulla is the most important in determining the date of the introduction of the deity Kurukulla in the Buddhist pantheon. S'abarapa as is well known is one of the earliest Siddhācāryyas so far known, and is the disciple of Siddha Nagarjuna. He is described as having belonged to the hill tribe called the S'abaras or huntsmen in Bāngālā where he met Nāgārjuna and embraced Tantrism. Besides being a writer on Sādhanas he is also credited to have composed many melodious songs in his own vernacular which have also been published in the *Bauddha Gān O Dohā* already referred to. He, being a disciple of Nagarjuna (645 A.D.), must have flourished in the middle of the seventh century[^19].
 
 [^19]: "Ibid, vol. II. intro, p. XLVI."
 
  From the above it becomes quite clear that Kurukulla was well-known in the middle of the seventh century when S'abarapa flourished. But his Guru Nagarjuna does not refer to the deity Kurukulla though Tibetan translations of a large number of works composed by him are still preserved. Saraha the Guru of Nāgārjuna likewise does not mention Kurukulla although a large number of his works are still preserved in Tibetan translations. Kurukulla is, before the time of S'abara, nowhere mentioned. We do not find her either in the Āryamañjus'ri-Mūlakalpa or in the Guhyasamāja which are the earliest works on Tantra so far traceable.
-
-
 
 Therefore according to the materials now at hand the deity Kurukulla cannot be placed earlier than the middle of the seventh century. Therefore, the Pārānanda Tantra which mentions Kurukulla cannot have an antiquity earlier than the same period.
 
@@ -155,8 +127,6 @@ Therefore according to the materials now at hand the deity Kurukulla cannot be p
 
 [^23]: "See Sādhanamālā vol.II,intro.pp.CXLII ff, Buddhist Deities in Hindu Garb,op.cit.pp.1292 ff. And for the time of Sabara(i
 
-
-
  But the conception of the ten Mahāvidyās amongst the Hindus must have been a later one, because the list includes many new deties such as Bagalā, Mātangī, Dhūmāvatī and several others who are not known in Buddhism. Looking to the fact that the Buddhists were the first to develop Tantras, and that the deities like Tārā, Kurukullā, etc. were all Buddhistic in origin, and that none of them is older than the middle of the seventh century, the conceptions of ten Mahavidyās forming a group must be placed considerably later, at least not earlier than the 9th century, allowances being always made for the interval of time for the Buddhist deities becoming famous and well-known so as to find a place in the Hindu pantheon. Also, looking to the strained relation of the Hindus and the Buddhists in the Tantric period it can be easily surmised that a considerable length of time must have passed before the Hindu mind could be prepared to accept purely foreign deities into their own pantheon. In fact, this was only possible when Buddhism was destroyed at the advent of the Muhammadans.
 
  It seems therefore probable that the Pārānanda Sūtra must have been composed not earlier than A. D. 900, and probably after the Muhammadan conquest of Eastern India. The manifest purpose for which the Pārānanda Sūtra was composed seems to be to unite the Tantric religion with the Vedic. Now, the Tantras were for a long time regarded in the orthodox circles of Brahmins as something very impure because they were not based on the Vedas, and verily, for this the Tantrics even to-day suffer from a sort of inferiority-complex at the hands of the orthodox. The author of the Pārānanda Sūtra seems to have realized this defect and made a great attempt in harmonizing the teachings of the Tantra with the Vedas and Vedic literature with quotations from many authorities who are manifestly connected with the Vedic lore. He quotes many Vedic passages as authorities for the doctrines preached by him. This is seldom found in any other Tantra, and surely Pārānanda Sūtra stands as a unique monument in the realm of Tantras as having made a vigorous attempt to give a Vedic origin of the Tantra S'āstra.
@@ -165,8 +135,6 @@ Therefore according to the materials now at hand the deity Kurukulla cannot be p
 
 Baroda,  
 The 10th Feb. 1931.
-
-
 
 INTRODUCTION.  
 
@@ -188,13 +156,9 @@ the learned and much-respected scholar who lived at Benares during the reign of 
 
 [^25]: "p.92 Sūtras 31-33."
 
-
-
 ![](../books_images/U-IMG-1725002896Screenshot2024-08-30125744.png)
 
  Though the names Khadgapras'niddha and Yamaparakrama sound as of later origin, we cannot say so with any certainty, looking to the fact that in our ancient literature, the patronymic names, nick-names and even epithets are found to be freely used for real names of persons. It is quite possible that the above names, which appear to us to be of recent origin, may belong to any of the above classes. Moreover, we have no more proofs for asserting their late or recent origin, unless it is that they sound so to our ears. Pārānanda Sutra occupies a unique position among the Tantrik works printed up to the present day, as it represents the Kalpasūtra of a new S'ākhā; and it is likely to become a subject of keen interest and study owing to this very reason in the eyes of such among the learned scholars who wish to make a comparative study of Tantrik works. The work is also valuable because it supplies about fifty important names of Tāntrik Ācāryas and works. If the names are examined, we shall find that they are mainly divided into two classes: one referring to Acaryas who were famous and whose names are familiar to us; and the other to the less familiar or less famous persons who lived very probably in the time of our author. Those, who are referred to, by name, may be classed under four groups. The first group consists of names ending in Bhairava; the second consists of names ending in Agni; the third group consists of names ending in the names of the deity worshipped by the Tantrika; while the fourth consists of names ending in Ananda. Those with Bhairava endings probably belonged to the Bhairava sect of the Tantriks. This school must have once occupied a highly prominent position, as can be inferred from the S'antisukta of the Tantrikas in which the words: "Bhairavo'ham S'ivo'ham" are
-
-
 
 frequently repeated. The second group which consists of three names ending with the word Agni probably represents Brahmin names; as it is a system existing even now in some Brahmin families to name their sons after the initiation ceremony with some names or other ending with the word Agni. This was perhaps an age-long practice among the orthodox people and is supported by the Vedic passage 'Āgneyo vai Brāhmaṇah'. The third group consists of 14 names and they all end with the name of the worshipper's deity. It may be mentioned here that the system of naming the disciple at the close of the Dikṣā ceremony after the deity existed in olden times and exists even to-day. This system was perhaps the outcome of the S'astric injunction common to both the Vedic and Tantrik worship that the worshipper should, for the worship of the deity, first identify himself with it. From the above, it appears that even in such remote times as our author's, there existed at least in some parts of India the worship of the different deities in the Vedic style. The fourth group of names ending with the word Ānanda probably represents the Ācāryas who preceded the author Parānanda. There are 34 such Ācāryas mentioned by name by our author in this book to state their views in those places.
 
@@ -207,8 +171,6 @@ frequently repeated. The second group which consists of three names ending with 
 [^27]: "vide sutras 34-71 on pp.92-94."
 
  There are, of course, some places in the book first sight agree even remotely on any single point in
-
-
 
 expressed by our author. But when the views are minutely examined and the significance of the terse and epigrammatic sentences used by our author understood, we come to a different conclusion altogether and begin to believe that our author makes a sincere attempt to guide the followers along a right path[^28]instead of misleading them with false doctrines.
 
@@ -226,8 +188,6 @@ expressed by our author. But when the views are minutely examined and the signif
 
  The Sūtra further lays down that if a man does not follow the path of Dharma or duty he goes to hell, and if he does virtuous deeds he goes to heaven. If he makes the Upāsanā of an Is'vara, he attains the abode of that Is'vara. If non-believers believe in their own S'astras and follow them, they get merit and through this merit, they get their next birth in an Astika family which believes in Vedas, God, etc. After being born again like this, they become fit to study the Astika S'astras or the Sciences of the believers.
 
-
-
 The Science of the Astikas falls under two heads, the Samiskāra S'astra, and the Matas'astra. The former treats of religion or ritual and the latter treats of Metaphysics or the nature of the soul, Is'vara, Paramātmā and Mukti, or liberation from bondage. According to the Sūtra, one who follows closely the Saṁskāra S'ästra becomes fit for the Matas'astra and then begins to experience the stages of development explained therein. It is after this only that one can be considered as having become a member of the Pārānanda Mata, or the Pārānanda School.
 
  There are three paths advised in the Pārānanda Mata, namely (1) Dakṣina (2) Vāma, and (3) Uttara, the right, the left and the highest respectively.
@@ -240,8 +200,6 @@ The Science of the Astikas falls under two heads, the Samiskāra S'astra, and th
 
  Paramātmā is the embodiment of eternal bliss, eternal life and illimitable knowledge. His body is exquisitely fine, he is omniscient, and is the Is'vara of Is'varas. His divinity is supreme and is beyond imagination. His powers pervade all places and are felt everywhere like Akās'a or ether. Paramātmā is worshipped even by the Is'varas, who are themselves endowed with powers to confer all desired objects to their devotees. The Paramātman can punish or bless even the Is'varas, is free from pain or pleasure due to Karma (action) and the fruits thereof. He possesses the powers belonging to the act of creation, preservation and destruction; and
 
-
-
 also the power of bestowing enlightenment or the highest knowledge. He is the giver of all kinds of knowledge, of Jivan-mukti and even Para-mukti. In short, the Paramātman is described here as possessing both kinds of attributes Saguna as also Nirguna. His abode is known as Paramānanda Loka. In order that one can have an idea of His Bliss it is described in the book after the manner of the Ānandavalli of the Taittiriyopanisad. All that live in the Părānanda Loka are imperishable though they possess the human body and all are gifted with the same Ānanda. There are no trees or birds in that Loka, the water, the wind and the light there have neither a beginning nor an end. All the beings there are composed of males only years of and they all appear to be of six age.
 
  Is'vara is, in all respects, inferior to Paramātman. The word of the latter is known as Veda, while the words of an Is'vara are known as Tantra. Though the Is'varas are more less similar to Paramātman in respect of omniscience, lordship over all beings, possession of all divine powers, they are inferior to Paramātman in every respect; as they are worshipped only by the Jivas, and because the latter only can be blessed or punished by them. Just as the descriptions of the seven Is'varas vary, so also their duties and abodes are distinct from one another. Brahma's duty is that of creation, Visņu's preservation, S'iva's destruction, Ganapati's prevention of obstacles, S'akti's is the bestowal of knowledge and Surya's is the bestowal of enlightenment. Brahma's abode is called Satyaloka, Visnu's is Vaikuntha, S'iva's is Sʼvetaloka, Vakratunḍa's (or Ganapati's) is Ānandabhuvana, Devi's is known as Mahāpura, while Surya's abode is known as Mahamandala. The above is the description of Is'varas in the present work.
@@ -251,8 +209,6 @@ also the power of bestowing enlightenment or the highest knowledge. He is the gi
  Mokṣa is considered as no-rebirth or freedom from birth; the Jiva gets this condition only when he becomes stationary in the Pārānanda Loka, which he reaches along with the Is'vara whom he was worshipping. This state of the Jiva is known as Kaivalya-mukti.
 
  The above is the summary of the philosophy, as taught in our book We shall now say a few words about the system of Dikṣā as propounded in it. Just as the Yajamāna, prior to the performance of Vedic sacrifices, has first to follow some fixed rules regarding his food, etc. in the same way is the Tantrik Upāsaka obliged to observe the following rules for a period of twenty-four days before receiving the Dīkṣā. In case this is impossible for such a long period, he should observe them for twelve, six, two or at least for one day, before the day of initiation. The same rules should be observed by him even during the days of the Dīkṣā. The rules consist in the observance of silence, fasting, maintaining oneself on fruits, observance of celibacy, non-removal of hairs from any part of the body, abstention from bowing to or blessing others. The neophyte should anoint himself with sandal paste and adorn himself with clothes, ornaments and flowers of the
-
-
 
 colours as are harmonious to the deity whose Mantra he wishes to take. He should wear on his face, fore-head, the right and the left arm and the chest the signs or the weapon-marks belonging to the deity.
 
@@ -264,17 +220,15 @@ even when he happens to be the follower of the Uttara-marga. It is also stated[^
 
 [^30]: "Vide pp.13 sūtra4;15-46,48,50;19-31,32."
 
-that the majority among the deities are easily propitiated through the Dakṣina path alone. The significance of the term Dhyāna-yoga according to this work is the same as given by Patanjali in his Yoga-sutra. Patanjali points out four paths as the means of salvation. They are known as: Karmayoga, Jñānayoga, Bhakti-yoga and Dhyana-yoga. The Brahmacāri or the student attains Siddhi through the Jñāna-yoga, the Grhastha or the householder attains it through the Karma-yoga, the Vanaprastha through the Bhaktiyoga and the Sannyasi through the Dhyana-yoga. In spite of the above fact, Bhakti-yoga occupies the foremost rank and is considered[^32]
-
 [^31]: "p.39,sūtras 33 & 34."
 
-the best among them.
+that the majority among the deities are easily propitiated through the Dakṣina path alone. The significance of the term Dhyāna-yoga according to this work is the same as given by Patanjali in his Yoga-sutra. Patanjali points out four paths as the means of salvation. They are known as: Karmayoga, Jñānayoga, Bhakti-yoga and Dhyana-yoga. The Brahmacāri or the student attains Siddhi through the Jñāna-yoga, the Grhastha or the householder attains it through the Karma-yoga, the Vanaprastha through the Bhaktiyoga and the Sannyasi through the Dhyana-yoga. In spite of the above fact, Bhakti-yoga occupies the foremost rank and is considered[^32]
 
 [^32]: "p.9,sūtras13,14; p.10,sūtras 15,16 & 18."
 
+the best among them.
+
  The Pārānanda Sūtra is divided into two Adhyāyas; and each Adhyāya is divided into seven Ahnikas; and the total number of Sutras in the book is 1585. The Sutras of the second Adhyāya resemble the S'rautasūtras in style; even the language in some places more or less corresponds to that found in the latter. Some of the Prayogas contained in the ritual portions of this work are just like those detailed in the Taittiriya Samhita with the difference that while the Mantras used in the Vedic sacrifices are purely Vedic, those recommended in the book are Tantrik in character. But the author of the work seems to have kept in view two main purposes for the book to fulfil: one to bring into the orthodox fold those that were heterodox in his times; and the other to slowly
-
-
 
 dissuade those habituated to frequent slaughter of animals in Vedic sacrifices from doing so and to gradually bring them into the Yoga-mārga or the path of Yoga.
 
@@ -307,11 +261,7 @@ dissuade those habituated to frequent slaughter of animals in Vedic sacrifices f
 Baroda,  
 11th Feb.1931.
 
-
-
 [TABLE]
-
-
 
 |                            |            |                             |        |
 |----------------------------|:----------:|-----------------------------|:------:|
@@ -348,11 +298,7 @@ Baroda,
 | स्वेष्टेश्वरः              |     ४३     | विघ्नेशस्याधिकारी           | २३-२५  |
 | गोप्यः                     |     ४४     |                            |        |
 
-
-
 [TABLE]
-
-
 
 |                   |          |                        |        |
 |-------------------|:--------:|------------------------|:------:|
@@ -389,8 +335,6 @@ Baroda,
 | प्रलयप्रक्रिया    |  २९-३४   | नरककारणं               |   ११   |
 | ईश्वरावस्थितिः    | ३५-३६-३७ | यमावस्थानं             |   १२   |
 
-
-
 |                              |        |                      |        |
 |------------------------------|:------:|----------------------|:------:|
 |                             | सूत्र. |                     | सूत्र. |
@@ -425,8 +369,6 @@ Baroda,
 | प्रमाणानि                    | ९२-९४  | कमलदंडः              |   १    |
 | अभिवादनक्रमः                 |   ९४   | मूषकः                |   २    |
 | अभिवाद्याः                   |  ९५-४  | विघ्नेशः             |   ३    |
-
-
 
 |                            |        |                        |        |
 |----------------------------|:------:|------------------------|:------:|
@@ -463,8 +405,6 @@ Baroda,
 | अनृतम्                     | ५३-५४  | कर्माधिकारः            |   ३६   |
 | अयाचनम्                    | ५६-५७  | अंकनद्रव्याणि          | ३७-४९  |
 
-
-
 |                        |            |                   |        |
 |------------------------|:----------:|-------------------|:------:|
 |                       | **सूत्र.** |                  | सूत्र. |
@@ -499,8 +439,6 @@ Baroda,
 | प्रतीकसंपादनम्         |   ९९-१००   | हवनपरिभाषा        | ५२-५३  |
 | उपचारभावना             |     १      | वायवः             |   ५४   |
 | तर्पणम्                |    २-३     | वैश्वदेवाः        |   ५५   |
-
-
 
 |                         |            |                      |        |
 |-------------------------|:----------:|----------------------|:------:|
@@ -537,8 +475,6 @@ Baroda,
 | मंडलजपक्रमः             |   १६-१७    | मध्याह्नकृत्यं       |   ९१   |
 | लघुःमंडलजपक्रमः        |     १८     | तर्पणं               |   ९२   |
 
-
-
 |                          |             |                                   |        |
 |--------------------------|:-----------:|-----------------------------------|:------:|
 |                         |   सूत्र.    |                                  | सूत्र. |
@@ -574,8 +510,6 @@ Baroda,
 | सत्रयागः                 |     ६७      | योषिदभावे                         |   ७२   |
 | सत्रयागः                 |    ६८-६९    |                                  |        |
 
-
-
 |                        |        |                              |        |
 |------------------------|:------:|------------------------------|:------:|
 |                       | सूत्र. |                             | सूत्र. |
@@ -607,8 +541,6 @@ Baroda,
 | व्याख्यानक्रमः         | २०-१९  | शास्त्राध्ययनफलम्            | ८४-८५  |
 | दीक्षा                 |   २२   |                             |        |
 | उपदीक्षोत्तरदीक्षे     |   २३   |                              |        |
-
-
 
 अथ श्रीपारानन्दसूत्रम्।  
 ![](../books_images/U-IMG-1726636460image_2024-09-18_104418773.png)
@@ -662,8 +594,6 @@ Baroda,
 **नास्तिकानां** वेदाप्रामाण्यवादिशास्त्रोक्तनिष्ठयानुष्ठिता धर्मा वेदप्रामाण्यवादीनि मतानि प्रवेशयन्ति॥१९॥
 
 इति पारानन्दसूत्रे प्रथमाह्निकं संपूर्णम्॥१॥
-
-
 
 ॐ **आस्तिकानां** वेदप्रामाण्यवादीनि शास्त्राणि द्विविधानि॥२०॥
 
@@ -725,8 +655,6 @@ Baroda,
 
 ईश्वरवा**गागमः॥**४६॥
 
-
-
 तदेव **तन्त्रम्**॥४७॥
 
 ऋषिवाक् **स्मृतिः**॥४८॥
@@ -781,8 +709,6 @@ Baroda,
 
 **परानन्दमत्यन्यमतिनं दीक्षयेत्**॥७३॥
 
-
-
 अन्यमती परानन्दमतिनं न दीक्षयेत्॥७४॥
 
 ब्राह्मणः पारानन्द एव पारानन्दमते सर्वान्वर्णिनश्चाश्रमिणश्च दीक्षयेत्॥७५॥
@@ -824,8 +750,6 @@ Baroda,
 कौशिकीभक्तो रक्तवासा रक्तमाल्यानुलेपनो रक्तसुवर्णाभरणो ललाटे खड्गः शिरसि कौशिकीपदं वामबाहुमूले घण्टा दक्षबाहुमूले त्रिशूलं हृद्यरविन्दमेवं चिह्नचिह्नितो भवेत्॥९३॥
 
 [^35]: "सूत्रे ९४ तमे पूर्णः पाठः।"
-
-
 
 **ललाट एकमेव चिह्नमन्यत्र चतुर्षु बिन्दूनेक इच्छन्ति**॥९४॥
 
@@ -874,8 +798,6 @@ Baroda,
 एष ब्राह्मणोपदेशक्रमः॥१५॥
 
 क्षत्रश्चेन्मन्त्रं ग्राहयित्वोपदिशेद्दक्षिणे कर्णे॥१६॥
-
-
 
 वैश्यश्चेन्मन्त्रं ग्राहयित्वा तदुत्तरं तदक्षरं तदुत्तरं तदक्षरमिति निर्देशेनोपदिशेद्दक्षिणे कर्णे॥१७॥
 
@@ -927,8 +849,6 @@ Baroda,
 
 ततो मन्त्रः कण्ठकूपादूर्ध्वमानीतः सिद्धिं कुर्यात्॥४१॥
 
-
-
 ओष्ठपुटाद्बहिर्निष्कासितः सिद्धिं हन्यात्॥४२॥
 
 **स्वेष्टेश्वरःस्वेष्टमन्त्रः**॥४३॥
@@ -979,8 +899,6 @@ Baroda,
 विहाय सर्वान् धर्मान्नानागुरुमतानि च॥  
 पारानन्दान्धर्मान्पारानन्दं मतं पारानन्दगुरोर्मुखाच्छ्रुत्वानुष्ठेयं चानुसंधेयम्॥६५॥
 
-
-
 पारानन्दं मतं पाप्मा शतधापि प्रेरितो न विशति॥६६॥
 
 यज्ञदानतपस्तीर्थव्रतक्षीणायैः शतधा निवारितोऽपि पारानन्दमतं प्रविशत्येव तस्मादुपदेशो निरर्थक इति॥६७॥
@@ -1029,8 +947,6 @@ Baroda,
 स्वस्वेश्वरचिह्नितो भवेत्॥८४॥
 
 प्राक्साक्षात्कारान्मनसा नेति वा **परे**॥८५॥
-
-
 
 शैवः शिवं पितृवत्परिचरेद्विष्ण्वादीनीश्वराँश्चतुरः पितृव्यवद्यमादीन्बन्धुवत्तद्भक्तान्पितृव्यपुत्रवत्तान्यथायोग्यं परिचरेत्॥८६॥
 
@@ -1090,8 +1006,6 @@ Baroda,
 
 गृही कर्मयोगेन॥१४॥
 
-
-
 वन्यो भक्तियोगेन॥१५॥
 
 त्यागी ध्यानयोगेन॥१६॥
@@ -1150,8 +1064,6 @@ Baroda,
 
 याऽहिभ्य इव पुरुषेभ्यो बिभेति स्वैरिणीभ्यः पुरुषसङ्गिनीभ्यश्च सैवोपास्ते॥४२॥
 
-
-
 तस्मादूर्ध्वरेतस्या कौमारव्रतधारिण्यैवैषा महाविद्या सेव्याऽऽमरणादादेवतासाक्षात्कारतः॥४३॥
 
 कौशिकीदीक्षिता न विवाहिता भवेत्॥४४॥
@@ -1208,8 +1120,6 @@ Baroda,
 
 **काल्याः** कुरुकुल्लाशक्तिः खड्गमायुधं मुण्डमालाद्याभरणं स एव वाहनम्। महा-
 
-
-
 विद्यायाः बाला शक्तिर्धनुर्बाणायुधं मालाद्याभरणानि स एव वाहनं। तस्मात्कालिकातारामहाविद्याद्यानि रूपाणि पृथक् पृथग्विधिना परिचर्य पृथक् पृथक् साक्षात्कारांश्च संपाद्य कौशिकीलोकमेव संपद्यन्ते॥६५॥
 
 **नारसिंहा कार्ष्णा**यथा वैष्णवं लोकम्॥६६॥
@@ -1257,8 +1167,6 @@ Baroda,
 आद्याचारदीक्षित आद्याचारे दीक्षयेत्॥८७॥
 
 क्लीबादीन्न दीक्षयेत्॥८८॥
-
-
 
 अदीक्षिताय यो दद्यान्मन्त्रं वा मार्गमुत्तमम्॥  
 स पतेन्नरके घोरे वर्षाणामयुतं समा इति॥८९॥
@@ -1311,8 +1219,6 @@ Baroda,
 
 तदितरेषु **तान्त्र**मेव॥१२॥
 
-
-
 चतुर्बीजं ब्राह्मणानां क्षत्रियाणां त्रिबीजकम्॥  
 मन्त्रं द्विबीजं वैश्यानां शूद्राणां त्वेकबीजकमिति॥१३॥
 
@@ -1362,8 +1268,6 @@ Baroda,
 निर्वर्तनं दीक्षितोऽनिर्वर्त्य स्थातुमिच्छति यः स नरकं संपद्यते॥३५॥
 
 यस्तूपनीतो वेदपठनं वेदार्थं नाधिगच्छति तत्पापेन समं वाऽसमम्॥३६॥
-
-
 
 सर्ववीरपापैः समं वाऽसमम्॥३७॥
 
@@ -1421,8 +1325,6 @@ Baroda,
 
 **मकारत्रयं तत्सतीर्थेभ्यो दद्यात्**॥६१॥
 
-
-
 **नव्यविशेषार्चने** तत्सतीर्थ्या एव प्रविशेयुः॥६२॥
 
 गृहीतमकारत्रयं नव्यं **शिष्यं कौलिकधर्मानुपदिशेत्**॥६३॥
@@ -1469,8 +1371,6 @@ Baroda,
 
 असंस्कृतं पिबन्मद्यं बलात्कारेण मैथुनम्॥  
 सुभोज्यमविधानेन भुञ्जन्नरकमाप्नुयात् इति॥७७॥
-
-
 
 स्वेच्छया वर्तमानो यो दीक्षासंस्कारवर्जितः॥  
 न तस्य सद्गतिः क्वापि तपस्तीर्थव्रतातिभि**रिति**॥७७॥
@@ -1526,8 +1426,6 @@ Baroda,
 अभिवाद्य॥१००॥ ४॥
 
 सगणिकः सगणिकसतीर्थ्यमण्डलो **हविःप्रतिपत्त्यगारं** प्रविशेत्॥१॥
-
-
 
 यथोक्तां हविःप्रतिपत्तिं कुर्युः॥२॥
 
@@ -1588,8 +1486,6 @@ Baroda,
 
 उत्तरे क्षत्रस्यापीति **कश्चित्**॥३०॥
 
-
-
 सूर्यसंस्तम्भनप्रवाहप्रवर्तनादिसिद्धिमतः पारानन्दादुत्तराचारदीक्षां गृह्णीयादुत्तराचारिणः॥३१॥
 
 जातिवैरोत्सर्गपूर्वकगोव्याघ्राखुमार्जारादीना स्वप्रभावदर्शितविहाराय यथापक्ष निर्वर्तितदीक्षाय दद्यादेनं मन्त्रमधिकारार्थाय॥३२॥
@@ -1643,8 +1539,6 @@ Baroda,
 सप्रणवत्रयोविंशतिकागायत्रीजपः॥५६॥
 
 गुह्यधर्मदशकनिर्वर्तनम्॥५७॥
-
-
 
 स्वमतानुसंधानम्॥५८॥
 
@@ -1700,8 +1594,6 @@ Baroda,
 
 इति पारानन्दसूत्रे चतुर्थमाह्निकम्॥४॥
 
-
-
 ॐ क ऐश्वरो धर्मः॥८३॥
 
 किं पुण्यम्॥८४॥
@@ -1747,8 +1639,6 @@ Baroda,
 कृत ऐश्वरो धर्मः परमेश्वरहृदि प्रीत्युत्पादकः परिणतः परमेश्वरदर्शनदः॥४॥
 
 इति पारानन्दसूत्रे पञ्चममाह्निकम्॥५॥
-
-
 
 **ॐ अथातः परमानन्दमतं वक्ष्यामः**॥५॥
 
@@ -1814,8 +1704,6 @@ Baroda,
 
 साक्षात्तपःफलदः॥३५॥
 
-
-
 साक्षात्परामुक्तिदः॥३६॥
 
 साक्षाज्जीवन्परामुक्तिद **इत्युन्मत्तभैरवः॥**३७॥
@@ -1878,8 +1766,6 @@ Baroda,
 
 ते ये शतं देवानामानन्दाः॥६६॥
 
-
-
 स एक इन्द्रस्यानन्दः॥६७॥
 
 ते ये शतमिन्द्रस्यानन्दाः॥६८॥
@@ -1939,8 +1825,6 @@ Baroda,
 स एषोऽनाद्यनन्तलोकः स एष परानन्दलोकः स एषः पराख्यो
 
 लोकः स एषः
-
-
 
 परमाख्यो लोकः स एषः परमात्मलोकः स एष परामुक्तत्याख्यो लोको यो वेद विद्वानेवं सोऽमृतत्वाय कल्पते॥९५॥
 
@@ -2002,8 +1886,6 @@ Baroda,
 
 अनाद्यनन्ता अणुरूपा **जीवाः**॥२४॥
 
-
-
 ज्ञानरूपा **इत्येके**॥२५॥
 
 परमानन्दलोकैकदेशः **सानन्दाख्यो** बहिर्मुखः॥२६॥
@@ -2053,8 +1935,6 @@ Baroda,
 कौशिकेयो लोकः **कौशिक्या** महापुराख्यः॥४७॥
 
 सौर्यो लोकः **सूर्यस्य** महामण्डलाख्यः॥४८॥
-
-
 
 येषु लोकेष्वीश्वरनिर्विशेषानन्दाः सर्वे जीवाः॥४९॥
 
@@ -2115,8 +1995,6 @@ Baroda,
 पुण्यफलभोक्तृृन्ब्रह्मापातय**त्स्वर्गे लोके**॥७७॥
 
 ऐश्वरधर्मफलभोक्तृृन्स्वान्स्वान्भक्तान् दर्शनदानादिभिरीश्वराः प्रत्यगृह्णन्॥७८॥
-
-
 
 **तामसा**म्जीवान् तीर्थग्जन्मनि ब्रह्मापातयत्॥७९॥
 
@@ -2180,8 +2058,6 @@ Baroda,
 
 ज्योतिष्टोमादिना स्वर्गं कर्तेति॥९॥
 
-
-
 ज्योतिष्टोमादिना गन्धकाग्निसंयोगे यथा दीपज्योतिरुदेत्येवं स्वर्ग उत्पद्यतेऽस्य प्राणात्यय **इति स्मशाननिलयः**॥१०॥
 
 प्राणहिंसनादिना नरकं कर्तेति॥११॥
@@ -2234,8 +2110,6 @@ Baroda,
 
 कदाचि**च्चातुराश्रम्य**धर्मान्कुर्वन्नास्ते॥३५॥
 
-
-
 कदाचि**द्विप्र**कुलोत्पन्नः स्नातकः कृतविवाहः सुधृताद्भुतयौवनसौन्दर्यो लावण्यवज्रसन्नहनाङ्गो रवौ मध्यंगते भिक्षार्थं पर्यटन्नास्ते॥३६॥
 
 देवतासाक्षात्कारसाधनानि कुर्व**न्देवतासाक्षात्काराँ**श्च संपादयन्नास्ते॥३७॥
@@ -2277,8 +2151,6 @@ Baroda,
 तत्राराध्येश्वरं तत्कृपया गृहीताज्ञ ईश्वरकृपया साद्यनन्तदिव्यवपुरनिर्देश्यको महता रयेणोर्ध्वं ब्रह्माण्डं भित्त्वा **स्वेशलोकमेति ततः पुनरावर्तते** नीचैः॥५५॥
 
 **एषा कैवल्यमुक्तिः**॥५६॥
-
-
 
 **जीवन्मुक्तिकैवल्यमुक्त्योर्विशेषः**॥५७॥
 
@@ -2327,8 +2199,6 @@ Baroda,
 **सर्वैः शब्दैर्वाच्यादेवाः॥७८॥**
 
 जीवाः मानुषाः वर्णिनः आश्रमिणः मनुजाः **पुरुषाः** नरः वस्तूनि॥७९॥
-
-
 
 **विशेषतो नामान्युक्तानि मानुषाणाम्॥८०॥**
 
@@ -2383,8 +2253,6 @@ Baroda,
 **परात्मेश्वरगुरवोऽ**भिवाद्या महत्त्वादेतेषाम्॥३॥
 
 **आश्रमे पूर्वस्मादुत्तरो महान्**॥४॥
-
-
 
 महत्संप्रयोगे पश्चात्संयुक्तात्पूर्वसंयुक्तो महान्॥४॥
 
@@ -2442,8 +2310,6 @@ Baroda,
 
 तस्माद्विद्यायुक्तात्तपोयुक्तो **ज्येष्ठः॥**३०॥
 
-
-
  वर्णकनिष्ठं सम्बन्धकनिष्ठं कथंचिन्नाभिवादयेत्॥३१॥
 
  यदि स तथा स्यात्तं सम्बन्धकनिष्ठमप्यभि**वादयेदित्येके**॥३२॥
@@ -2482,8 +2348,6 @@ Baroda,
 
  एवं ब्रह्मचारिगृहस्थाश्रमाधिकारिन्नायुष्मानाशिष्ठो दृढिष्ठो बलिष्ठो विद्याधनाभ्यामेधीत्युचैरुद्धुष्प वरमुद्रया **वैश्य** आशिषा योज्यः॥४९॥
 
-
-
  एवं गृहस्थाश्रमाधिकारिन्नायुष्मान्बलारोग्याभ्यामेधीत्युच्चैरुद्धुष्य वरमुद्रया **शुद्र** आशिषा योज्यः॥५०॥
 
  वेदानधिकाराच्छूद्रस्य ब्रह्मचारिणो वेदाश्रितत्वात्तदभावादस्य तदभावः॥५१॥
@@ -2496,19 +2360,13 @@ Baroda,
 
  सौहार्देन त्वां समनज्मीत्युच्चैरुद्धुष्यालिङ्गयेत्समम्॥५५॥
 
- 
-
 **तूष्णीमिति केचित्**॥५६॥
 
  स्त्री ज्येष्ठाभिवाद्या कनिष्ठा**शिषा** योज्या यदि समा स्यात्पुंसा तर्ह्यशिषैव योज्या पुंसा॥५७॥
 
  पुमानुत्तुङ्गाङ्गाधिकः स्त्रीभ्यस्तस्मात्पुमान् ज्यायान्स्त्रीभ्यः पुरुषो भोक्ता स्त्रियो भोग्या भोग्याद्भोक्तुर्महत्त्वादाशिषा योज्याः स्त्रियः समाः॥५८॥
 
- 
-
 **स्त्रीणां यौनज्येष्ठत्वमेवाभिवाद्यत्वे हेतुभूतं** नान्ये गुणा अभिवाद्यत्वे हेतवः॥५९॥
-
- 
 
 **अथाढ्यताभिवादकस्य** यथा स्यात्तथाऽभिवाद्यस्तस्मिन्वर्तेत॥६०॥
 
@@ -2527,8 +2385,6 @@ Baroda,
  गुरुगुर्वर्ध्यसमयोगे गुर्वर्ध्यादनुज्ञातो गुरुमिति **कालभैरवः**॥६७॥
 
  तत्समयोगे गुरुं गुर्वनुज्ञातो गुर्वर्ध्यमि**त्युन्मत्तभैरवः**॥६८॥
-
-
 
  अभिवादनक्रमेणाभिवादकस्यार्ह्यतां यथा यथा जानीयात् तथा तथाभिवादनीयोऽभिवादकेन भाषेत वर्तेत पूजयीत॥६९॥
 
@@ -2570,8 +2426,6 @@ Baroda,
 
 —————
 
-
-
  ॐ अथार्चनक्रमं वक्ष्यामः॥८६॥
 
  भक्त एवं सदा ध्यायेदेकविंशतिवार्षिकम्॥ गजवक्रं चतुर्बाहुं मनुष्यवपुषं ध्रुवम्॥ पुष्टिशक्तियुतं रक्तं रक्तवाससमीश्वरम्॥ हस्ताभ्यां दक्षिणाभ्यां तु परशुं त्वङ्कुशं तथा॥ वामाभ्यां कमलं पाशं दधानं मूषवाहनम्॥ नानालङ्कारसंयुक्तं रक्तचन्दनचर्चितमिति **ध्यानं दन्तिनः**॥८७॥
@@ -2588,17 +2442,11 @@ Baroda,
 
  सजलजलदश्यामां दशवार्षिकीं खड्गमुण्डाभयवरकरां चतुर्भुजां नागभूषणां वा सिन्दूरलिप्तां रक्तचन्दनलिप्तां वा व्याघ्रचर्माम्बरां हस्तिचर्माम्बरां दिगम्बरां वा शवकरकृतमेखलां वा सिंहस्थां शवासनां वा कुरलचिकुरशोभितशिरसं आसवामोदानन्दितां मुद्राभक्षणलालसां तृप्तां तर्पयन्तीं भक्तजनविहारदर्शनकृतकौतुकाह्लादां सकलविद्यावाग्विहारां समरप्रियां रणमण्डलरुधिरास्वादपरां कुरुकुल्लाशक्तियुतां मनुष्यविग्रहां कालिकां ध्यायेद्भक्त इति **ध्यानं कालिकायाः**॥९३॥
 
- 
-
 **ताराद्या** महाविद्याः सिंहस्थाश्च॥९४॥
 
  महाविद्यानां पृथक्पृथगाकाराणि **वाहनानीच्छन्ति**॥९५॥
 
-
-
  पादाङ्गुष्ठसदृशस्थूलस्त्रिवितस्तिर्दण्डस्तदधः षडङ्गुलः त्सरुर्दण्डोर्ध्वतश्चतुरङ्गुल आकाशाकारस्तत्परितोऽर्धचन्द्राकार एतदाकारः **परशुः**॥९६॥
-
- 
 
 **त्सरु**रायुधमुष्टिः॥९७॥
 
@@ -2608,13 +2456,9 @@ Baroda,
 
  **नागः पाशः**॥१००॥९००॥
 
- 
-
 **कमलदण्डो** द्विवितस्तिः॥१॥
 
  तदीयेन मानेनोत्थितो **मूषकः** सप्तवितस्तिरुच्छ्रित आयतस्तदनु वितस्तिः॥२॥
-
- 
 
 **विघ्नेशः** स्ववितस्त्योत्थितः सप्तवितस्तिरुच्छ्रितस्तदनुकूलो यथायथमायतः॥३॥
 
@@ -2638,13 +2482,9 @@ Baroda,
 
  मध्यतो वितस्तिमात्रं परितो वर्तुलं परितः शितधारं बहिस्तो मध्यतः साकारां अन्तस्त आधारमेतदाकारं **चक्रं नारायणस्य**॥१३॥
 
-
-
  उक्तपरशुदण्डोर्ध्वषडङ्गुलो वर्तुलः पिण्डस्तस्मिन्पिण्डे मध्यमामध्यपर्वायताः शितधाराश्चतस्रो रेखास्ततोऽङ्गुष्ठपर्वमात्राणिरेतदाकारा **गदा वासुदेवस्य**॥१४॥
 
  अञ्जलिमितायतो वितस्तिमात्रो दीर्घः **शङ्को विष्णोः**॥१५॥
-
- 
 
 **कुरुकुल्ला**शक्तिः खड्गाभयकरा **चण्डिकाश**क्तिश्च॥१६॥
 
@@ -2653,8 +2493,6 @@ Baroda,
  षडङ्गुलत्सरुक एतदाकारः **खङ्गः**॥१८॥
 
  एकवितस्तिदीर्घी अञ्जलिमितायता नीचैर्वर्तुला उच्चैरेकदण्डा अन्तस्थलोलदण्डा करव्यापारेण नादकरी एतदाकारा **घण्टा**॥१९
-
- 
 
 **काद्या महाविद्याः सर्वा** दशवार्षिक्यः॥२०॥
 
@@ -2680,21 +2518,13 @@ Baroda,
 
  पल्लवरागताम्रं द्विभुजं चतुर्मुखं दक्षिणेऽक्षमालां वामे कमण्डलुं दधानं सप्तवार्षिकं पल्लवरागताम्रवस्त्रं हंसविमानस्थं पल्लवरागताम्रगन्धचर्चितं सरस्वतीयुतं मनुजाकृतिं ध्यायेद्भक्त **इति ध्यानं ब्रह्मणः**॥३१॥
 
- 
-
 **सरस्वती**शक्तिः सप्तवार्षिकी श्वेताम्बरा श्वेतस्रगनुलेपना हंसविमानवाहना॥३२॥
 
- 
-
 **दक्षाचारसेव्यत्वं ब्रह्मणः**॥३३॥
-
- 
 
 **विघ्नेशादिवदिति नारायणः**॥३४॥
 
  **काद्यानां विद्यानां वामाचारसेव्यत्वमिति तत्पुरुषः**॥३५॥
-
-
 
  यमनियमासनप्राणायामप्रत्याहारधारणाध्यानैर्युक्तो **ध्यानयोगः**॥३६॥
 
@@ -2715,8 +2545,6 @@ Baroda,
  तस्मिन्मनः स्थिरीकरणं **ध्यानम्**॥४४॥
 
  संस्कारशास्त्रोक्तं नित्याद्यनुष्ठानमधिकारिणा हिंसामुत्सृज्य तदनुकृतं **कर्मयोगः**॥४५॥
-
- 
 
 **श्रुतितन्त्रस्मृतिपुराणानां** तदनुसम्पादितं ज्ञानमधिकारिणा **ज्ञानयोगः**॥४६॥
 
@@ -2753,8 +2581,6 @@ Baroda,
  स्वेष्टेश्वरस्वेष्टमन्त्रस्यान्तरुच्चारणधाराप्रवाहोऽत्र **स्वाध्यायः**॥६२॥
 
  एतद्विधायकशास्त्राध्ययनं **स्वाध्यायो वेति दिग्भैरवः**॥६३॥
-
-
 
  नान्यस्त्राता त्वदृते मदीय **इतीश्वरचिन्तनं ध्यानम्**॥६४॥
 
@@ -2798,8 +2624,6 @@ Baroda,
  उपकारं च संस्कारं भोगच्छेदानुसंमतिम्।  
  कुर्युस्त्ववयवानां वै तेऽप्यहिंसाविशारदा **इति**॥७८॥
 
-
-
  मनुष्यहिंसितानां प्राणिनामनागसां देहानामत्यक्तार्द्रत्वपूर्वाणामधयवानां यच्छेदनं विशसनं क्रयो विक्रयः संस्कारो भोग एतेषां कर्मणामन्यतमस्य कर्मण उपकारोऽनुमननं वा एतेष्वन्यतमं वा कुर्यात्सोऽपि हिंसाद्यदुःखभा**गिति**॥७९॥
 
  विशसनं क्रयो विक्रय उपकारः संस्कारो भोगोऽनुमननम्।  
@@ -2811,8 +2635,6 @@ Baroda,
  कर्मयोग—ज्ञानयोग—ध्यानयोगेषु पारानन्देषु पारानन्दीभावनामयी **दीक्षेत्येके**॥८२॥
 
  चतुर्भिश्चतुर्ष्वन्यतमेन वा हिंसा सेवनपूर्वकेण सेवितेनैकाङ्गेन परा भक्तिरुदेति तया साद्यनन्तवपुःप्राप्ति**रित्येके**॥८३॥
-
- 
 
 **अर्चको द्विधा**॥८४॥
 
@@ -2833,8 +2655,6 @@ Baroda,
 
  प्रवहज्जलमेव शुद्धो**दकमित्येके**॥९१॥
 
- 
-
 **अर्चनं त्रिविधम्**॥९२॥
 
  अर्हणार्चनं दानार्चनं प्रयोगविनियोगार्चनम्॥९३॥
@@ -2844,8 +2664,6 @@ Baroda,
  अत्र पुष्पाञ्जलिनिक्षेप **इति केचित्**॥९५॥
 
  देवतामावाह्यासनं तस्यै दत्वा प्रकल्पनीयान्प्रकल्प्यैकस्मिन्महति पात्रे सर्वानुपचारान्स्थाष्य तत्पात्रं तस्यै दद्यात्स्तोत्रैः स्तुत्वा प्रदक्षिणां पुष्पाञ्जलिं दत्वा ध्याने मनःस्थिरी—
-
-
 
  समुत्तीर्यान्यवासः परिधाया**चामेत्**॥१६॥
 
@@ -2873,13 +2691,9 @@ Baroda,
 
  गृही विप्रः कार्पासातिरिक्तं न धारयेत्॥
 
- 
-
 धृत्वा स्नात्वा प्राणायामत्रयं कृत्वा घृतं प्राश्य विशुध्यतीति **बृहस्पतिः**॥२३॥
 
  शाक्तसौरवाक्रतुण्डाश्चेद्गृहस्था रक्तं शैवस्तथैव चेच्छ्वेतं वैष्णवस्तथैव चेत्पीतमिति **कश्चित्**॥२४
-
- 
 
 **अथाचमनं वक्ष्यामः**॥२५॥
 
@@ -2893,15 +2707,11 @@ Baroda,
 
  त्रिःप्राश्यापोऽङ्गुष्ठमूलेन विलोममधरमोष्ठं द्विरुन्मृज्य हस्तं प्रक्षाल्य तर्जनीमध्यमानामाभिरूध्वं विलोममोष्ठं द्विरुन्मृज्य हस्तं पुनः प्रक्षाल्याङ्गुष्ठमध्यमाभ्यां दक्षनासां वामनासामङ्गुष्ठानामिकाभ्यां दक्षं चक्षुर्वामं चक्षुर्दक्षं श्रोत्रं वामं श्रोत्रं करतलेन हृदयं पश्चभिरङ्गुलीभिर्मूर्धानं दक्षं बाहुमूलं वामं बाहुमूलं च दक्षहस्तेन स्पृशेदित्याचमनमिति **देवानन्दः**॥३०॥
 
-
-
  हस्तौ प्रक्षाल्य त्रिःप्राश्यापो द्विरुन्मृज्य सकृदुपस्पृश्य मुखं सव्यं हस्तं पादा प्रोक्ष्य शिरो नेत्रे कर्णौ हृदयं च स्पृशेदित्याचमन **ब्राह्मणानाम्**॥३१॥
 
  द्विजानां नो इतराणामिति **चतुर्मुखः**॥३२॥
 
  एतदाचमनमौत्तर एव कुर्यान्नो इतर **इत्यानन्दः**॥३३॥
-
- 
 
 **यदाचामति तेनात्मानं मेध्यं कुरुते सर्वकर्मस्वर्ह कुरुते**॥३४॥
 
@@ -2909,11 +2719,7 @@ Baroda,
 
  ऐश्वरेषु दैवेषु च बद्धशिखो यज्ञोपवीती धृतवस्त्रोऽङ्कितोऽर्हो भवति तस्मादैश्वरेषु देवेषु च कर्मसु सर्वेषु बद्धशिखो यज्ञोपवीती धृतवस्त्रस्या**दौ निषेधात्**॥३६॥
 
- 
-
 **अङ्कनं** व्याख्यातम्॥३७॥
-
- 
 
 **अथ तस्य द्रव्याणि वक्ष्यामः**॥३८॥
 
@@ -2937,13 +2743,9 @@ Baroda,
 
  सन्ध्यामुपास्य स्वेष्टां देवता परिचरेत्॥४८॥
 
- 
-
 **यदङ्कितो भवति तत्पाप्मानं निरसति**॥४९॥
 
  वामी चेत्तान्त्रिकी सन्ध्या निर्वर्त्य स्वेष्टा परिचरेत्॥५०॥
-
- 
 
 **यत्सन्ध्यामुपास्ते तेनार्चने स्वात्मानमधिकृतं कुरुते**॥५१॥
 
@@ -2952,8 +2754,6 @@ Baroda,
  नित्यार्चनेन विधिनार्चयिष्यन् शुचिः शुचौ देशे समे मनोहरे यज्ञोपवीती चाचम्य स्वासनाद्द्विवितस्तिमितं देशमपहाय देवतासिंहासन पुरतः स्वदक्षिणतः षट्कोणे वर्तुले षोडशदले मण्डले प्रोक्षिते देशे वार्चनसंभारानर्थवत्पात्राण्यासाद्य स्ववामतस्तथैव शुचि कानकं शाङ्खं तैजसं मार्त्तिकमब्जं वाऽऽसाद्य सकल्पयेत्॥५३॥
 
  नैवेयं स्ववामत आसादये**दिति केचित्**॥५४॥
-
-
 
  द्विवितस्युच्छ्रितं देवतासिंहासनं **भवतीत्येके**॥५५॥
 
@@ -2969,8 +2769,6 @@ Baroda,
 
  याः पृथक् पृथक् शिला भवन्ति तस्मात्ताः प्राणभृतां न वपूंषि पाषाणाः प्राणभृतां न वपूंषि तस्मात्तेष्वर्चये**त्पारानन्दः**॥६१॥
 
- 
-
 **शालिग्रामः सर्वेषामेवैश्वराणां प्रतीकं** तस्माच्छालिग्रामे सर्वानेवार्च्चयेत्॥६२॥
 
  शालय ईश्वरास्तेषां शालीनां ग्रामभूतोऽयं प्रस्तरस्ततस्तस्मात्तेष्वर्चयेत्सर्वान्॥६३॥
@@ -2983,15 +2781,9 @@ Baroda,
 
  यदि **स्थण्डिले** पूजयति तयोर्देवतापादयोः स्थिरभक्तिमान्संपद्यते॥६७॥
 
- 
-
 **यद्युदके** पूजयति देवताभक्तिरसिक एव संपद्यते॥६८॥
 
- 
-
 **यद्यग्नौ** पूजयति स उज्ज्वलः संपद्यते वपुषाऽऽरोग्येणाऽऽयुषा यशसा दीप्त्या भक्तया॥६९॥
-
-
 
 यदि **वायौ** पूजयति भक्तिबल एवं देवतायाः संपद्यते॥७०॥
 
@@ -3033,8 +2825,6 @@ Baroda,
 
 तत्तदीश्वरगायत्र्या तत्तदीश्वरस्तुतिमत्रेण मूलमन्त्रेण वा परिचरेत्॥८९॥
 
-
-
  परतो लोकादितो लोकास्त्वतो भक्ततरनिकटाद्वा बाह्ये परिचरेत् विसर्जयेत्ततः॥९०॥
 
  आवाहयेद् यं सायुधं सालङ्कारं सस्वशक्तिकं सस्ववाहनं सस्वभक्तमावाह्यासनं दत्वा स्थानानि कल्पयत्यासने विघ्नेश्वरं कल्पयामि तद्दक्षोर्ध्वतः करतः परशुं कल्पयामि तदधरतः करतोऽङ्कुशं कल्पयामि वामोर्ध्वतः करतः कमलं कल्पयामि तदधरतः करतः पाशं कल्पयामि कर्णयोः कुण्डले कल्पयामि गलतो मालां नाभिलम्बिनीं कल्पयामि हस्तेषु वलयानि कल्पयामि वस्त्रादीन्याभरणानि सुन्दराणि यथावयवं कल्पयामि वामतः पुष्टिं शक्तिं कल्पयामि दक्षतो मूषं वाहनं कल्पयामि तत्परितस्तद्भक्तान्देवानृषीन् सिद्धान्कल्पया**मीति कल्पयेत्**॥९१॥
@@ -3048,8 +2838,6 @@ Baroda,
  सायुधं सालङ्कारं सस्वशक्तिं सस्ववाहनं सस्वभक्तमावाह्यासनं दत्वा स्थानानि कल्पयत्यासने सूर्यं कल्पयामि दक्षहस्ततश्चक्रं कल्पयामि वामहस्ततः शङ्खं कल्पयामि कर्णयोः कुण्डले कल्पयामि वस्त्रादीन्याभरणानि यथावयवं कल्पयामि वामतः संज्ञां शक्तिं कल्पयामि दक्षतः सप्ताश्वं हिरण्मयं रथं वाहनं कल्पयामि आकृष्णेन रजसा वर्तमानो निवेशयन्नमृतं मर्त्यं च । हिरण्मयेन सविता रथेन देवो याति भुवनानि पश्यन् **इति** दर्शनात्परितस्तद्भक्तान्देवानृषीन्सिद्धान्कल्पया**मीति कल्पयेत्**॥९५॥
 
  सायुधां सालङ्कारां सशक्तिकां सवाहनां सस्ववभक्तामावाह्यासनं दत्वा स्थानानि कल्पयत्यासने कालीं कल्पयामि दक्षोर्ध्वतः करतः खङ्गं कल्पयामि तदधरतः करतः
-
-
 
 शिखायुतं ग्रीवान्तं मनुजाकृतिमुण्डं कल्पयामि वामोर्ध्वतः करतोऽभयं कल्पयामि तदधरतः करतो वरं कल्पयामि दक्षतः सिंहवाहनं कल्पयामि परितस्तद्भक्तान्देवानुषीन्सिद्धान्कल्पया**मीति कल्पयेत्**॥९६॥
 
@@ -3080,8 +2868,6 @@ Baroda,
 तद्भुक्तानां संकरस्तदभुक्तेषु न कार्य **इति केचित्**॥९॥
 
  यथा स्वनाभेरधोऽशुच्यशुच्यर्ध्वं नैवमीश्वरे। सच्चिदानन्दशीर्षश्च सच्चिदानन्दपादवांस्तस्मात्पादोदकाद्युपभुक्तसङ्करः शिरोर्पणीयेषु न निषिद्ध **इत्यपरे**॥१०॥
-
-
 
 भालो**ऽक्षतान्मूर्ध्नीत्येके**॥११॥
 
@@ -3131,8 +2917,6 @@ Baroda,
 
  ततोऽग्नेः कुण्डस्य पश्चाद्गत्वाथ खलु यत्र क्वच होष्यन्त्स्यादिषुमात्रावरं सर्वतश्चतुष्कोणं सौरमेय्याः शकृता लेपनं तन्मूत्रेणाभ्युक्षणं कुशसंमार्जन्या संमार्जनं विराम उदकैः सेचनं सौवर्णेन राजतेन ताम्रेण लौहेन यज्ञियवार्क्षण वा धर्मपालेन कर्तिताग्रमध्यबिल्वदलाकारेण षडङ्गुलत्सरुणा गन्धाक्षतपुष्पसुगन्धतैलालङ्कृतेन षड् लेखा उल्लिखेत्॥३४॥
 
-
-
  धर्मपाल त्वां मुष्टिना त्सरौ गृह्णाम्यविघ्नत्वायोर्जे **इति धर्मपालं गृह्णीयात्**॥३५॥
 
  अग्नयो वा एते बहवो यत्सौरो गाणपः शाक्तः शैवो वैष्णवः कापालो ब्राह्मो गाईपत्यो दक्षिण आहवनीयः सभ्य आवसथ्यो माण्डलः पार्थिव औदको वायव्यो वैद्युतः सुमङ्गलो बलवर्धन ऐन्द्रः सौम्यो वैश्वदेवः क्रव्यादस्तस्माद्यमग्निमिच्छेत्तन्नामोहेत्॥३६॥
@@ -3160,8 +2944,6 @@ Baroda,
 अप्रच्छिन्नाग्रावनन्तर्गर्भौ प्रादेशमात्रौ कुशौ **पवित्रे**॥४७॥
 
 छिन्नाग्राविति **केचित्**॥४८॥
-
-
 
 कुशाभ्यां द्रवहविष उत्पवनं शुद्धिः॥४९॥
 
@@ -3197,8 +2979,6 @@ Baroda,
 
 देवताया एकामाहुतिं देवतायुधेभ्यो द्वे तिस्रो देवतालङ्कारेभ्यश्चतस्रो देवताशक्त्यै
 
-
-
 पञ्च देवतावाहनाय षड् देवताभक्तेभ्यो वा षड् देवताया आहुतीः पञ्च देवतालङ्कारेभ्यश्चतस्रो देवतायुधेभ्यस्तिस्रः शक्त्यै देवतावाहनायैकां देवताभक्तेभ्यः स्रुवेण स्रुचा वा जुहोति तत्संख्यैः स्रुवैस्तामापूर्य जुहुयाद्वैकां स्रुगाहुतिं सर्वेभ्यो हविगृह्णीयादमुकाय त्वा हविर्गृह्णामि सत्येन गृह्णामीति गृह्णीयात्कालाग्नौ देवतायै तिष्ठन्हुत्वा ततः कालाग्नेरर्धमाहरेत्॥६५॥
 
  यत्कालाग्निरर्धमाहरत्येष वै नीयमान उक्तवत्स्थण्डिले प्रतिष्ठाप्यो भवत्यस्य नामधेये द्वे दिगग्निः परिच्छिन्नाभासोऽग्निरिति अस्मिन् जुहोति आभरणायुधशक्तिवाहनेभ्यो व्रजन्नेता देवता जुहोत्येनं दाक्षिणमग्निं वदन्ति ब्रह्मवादिनो यस्मात्कालाग्नेर्दक्षिणतोऽयं दिगग्निः कालाग्निं प्रदक्षिणीकृत्य पूर्वाभिमुखस्तिष्ठन्नाभरणेभ्यो जुहोति पुनरेवं पश्चिमाभिमुख आयुधेभ्यो जुहोति पुनरेवं उत्तराभिमुखः शक्तये जुहोति पुनरेवं दक्षिणाभिमुखो वाहनाय जुहोति यदेवमैश्वरं मण्डलमस्मिन्नग्नौ परीत्य परीत्य जुहोति तद्रजन्नेव हुतं भवति॥६६॥
@@ -3227,12 +3007,9 @@ Baroda,
 
 सर्वदेवतोच्छिष्टं भुञ्जीत दीक्षितो न पुनर्भुक्तं देवतायै प्रयच्छेत्तस्यै॥७६॥
 
-
 आसनवस्त्रोदकभक्ष्यगन्धादर्शान्भक्ष्यान्पेयानुपभोग्यान्धार्याननुलेप्यानाश्रेयान्देवतोच्छिष्टान्भुञ्जीत तत्रासनादर्शौ च प्रोक्ष्य तस्यै च पुनः प्रयुञ्जीत॥७७॥
 
 कर्मणोऽन्ते हविःप्रतिपत्ति**रित्येके**॥७८॥
-
-
 
 सर्वेषां मन्त्राणामनुकल्पो मौनमर्थवद्भावनं वा
 
@@ -3280,8 +3057,6 @@ Baroda,
 
 अज्ञानात्कृते प्रायश्चित्तं ज्ञानकृतेऽप्येकवारं ततो न प्रायश्चित्तमित्य**मृतानन्दः**॥९५॥
 
-
-
 अग्निकार्यं तत्कृताकृतम्॥९६॥
 
  देवतायै प्रदक्षिणं परीत्य पुष्पाञ्जलिं देवतामूर्ध्नि प्रयच्छे**द्वामी** प्रकामं परीत्योत्तरतः प्रदक्षिणप्रणामयोरन्यतरं वा॥९७॥
@@ -3317,8 +3092,6 @@ Baroda,
 
 असूत्रितां पदार्थमयीं कुर्वन् शर्करादिभिः संख्यातैः संख्यां कुरुते स स्वर्गं लोकं वन्यैर्गम्यमधितिष्ठति॥१२॥
 
-
-
 दशसंख्यः शतसंख्यः सहस्रसंख्यो वा, नैत्ये न सहस्रसंख्यादधिक इष्यते जपः॥१३॥
 
  वा तत्तदीशवयःसंवत्सरसंख्यया जपेद्वा द्विस्त्रिर्जपेद्वा घटीद्वयं घटीत्रयं वा जपिष्यामीति वा जपेन्न पदार्थमय्यां मेरुः॥१४॥
@@ -3341,8 +3114,6 @@ Baroda,
 
  देवतामेकवारं द्विस्त्रिस्तद्वयः संवत्सरसंख्यया वाभ्यर्च्य मण्डलमर्चयेन्मण्डले मण्डले समस्य पृथग्वा यथाकल्पनमभ्यर्च्य मण्डलानि पुनस्तान्पुष्पैर्विकीर्यामुकायै सायुधायै वा साभरणायै सायुधायै वा सवाहनायै सशक्तिकायै सस्वभक्तायै स्वलोकप्रतिष्ठित्यै विसर्जनं विनियुनज्मि स्वेच्छाप्रतिष्ठित्यै वा पुनरागमनाय पुनः संदर्शनायेति विसर्जयेद्वा द्वितीयान्तानि प्रयुज्य यथेच्छाविहाराय विसर्जनेन विनियुनज्मि **इति वा**॥२३॥
 
-
-
 स्ववामतो नीतं निर्माल्यं सर्वं लौकिकं सम्पद्यते तत्सर्वमुद्बाहुकपुरुषयमितं दीर्घमेकपुरुषायतं कुत्रचिच्छुचौ देशे गर्तं खनित्वा तस्मिन् प्रत्यस्येत्॥२४॥
 
 तस्माद्यावद्भूमितो जलं नाप्नोति तावत्खने**दिति दिग्भैरवः**॥२५॥
@@ -3350,8 +3121,6 @@ Baroda,
  तीर्थं यदुत्तरतो निनयति तस्माद्यदात्मानं प्रोक्षति यन्निनयति तत्तीर्थं विसर्जयति यदात्मानं प्रोक्षति तदात्मानं गङ्गाप्लुतं कुरुत **एषोऽवभृथः**॥२६॥
 
  साधकवामतो निनयनाद्बाहुल्यादशुचिस्पर्शाद्रूपान्तरपरिणमनान्निर्माल्यं यात्यवन्द्यतां लौकिक चैभिः सम्पद्यते अवन्द्यतां गतं योऽनुवन्दयेत्स पाप्मा भवति तस्माच्छिरस्याधाय वामतो निनयेत्॥२७॥
-
-
 
  वामतो निनयनादवद्यतां निर्माल्यं व्रज**तीत्येके बाहुल्यादेके शुचिस्पर्शनादेके रूपान्तरपरिणामादेके वन्दनादेक एतेष्वन्यतमेनैके**॥२८॥
 
@@ -3391,8 +3160,6 @@ Baroda,
 
  आसनं दर्पण व्यजनं छायार्थं यत्किंचिदन्यत्तैजसं मार्तिकं पानपात्रं भक्ष्यपात्रं सोपभुक्तमप्यलाभे प्रोक्ष्य देवतायै पुनः पुनः प्रयुञ्जीत॥४६॥
 
-
-
 ** देवताया भक्तस्य सर्वसम्बन्ध**स्तस्मात्पिता भूत्वा भक्तो देवतां पुत्रोऽयमिति परिचरति। यथा वा सत्पुत्रेऽतिवेलं भक्ष्यं न प्रयच्छति वा यथा सर्वेभ्यो दुःखेभ्यो रक्षत्यात्मानं तदर्थं क्लेशयति न तमेवं परिचरति तस्मात्पितृपुत्रवत्परिचरणं यदेतत्तस्मा**त्केचिदेवं** परिचरन्ति॥४७॥
 
  यद्भक्तः पुत्रो भूत्वा देवतां पिताऽथमिति परिचरति यथा वा पितुर्दुःखसाध्यामाज्ञां नोल्लङ्घत एवं परिचरति तत्पुत्रपितृपरिचरणं तस्मादेतत्परिचरन्ति॥४८॥
@@ -3400,8 +3167,6 @@ Baroda,
  यद्भक्तः पुत्रो भूत्वा देवतां मातेयमिति परिचरति यथा वा पुत्रः कृतापराधो मातुर्न बिमेत्येवं देवताया न बिभेति कृतापराध एवं वा परिचरति भक्तः **शिष्यो** भूत्वा देवतां गुरुरियमिति परिचरति यथा वा गुरुणा ताडितोऽपि गुरोर्मनोवाक्कायकर्मभिर्हितमिच्छति गुरावुपभुङ्क्ते भुङ्क्त उच्छिष्टं यत्तस्य यत्सम्पादयति तद्गुरवेऽर्पयत्येवं वा परिचरति भक्तः प्रजा भूत्वा देवतां राजन्योऽयमिति परिचरति यथा वा राजन्यो मयि कृपां विदध्यात्तथा चरिष्यामीति यथा वा मामैश्वर्यवन्तं कुर्यान्नो अन्यथा मां शासयेदिति बिमेतीति भिया तत्प्रसादाय यतत एवं वा परिचरति भक्त उपासको भूत्वा देवतामुपास्यामीति परिचरति। यथा वा अस्वादु एतद्व्याघ्ररुधिरं वा एताः समिधो वा एतत्संस्कृतं पिष्टमव्यञ्जनं तद्विहितत्वाद्देयं विहितमिति दत्त्वा तत्प्रसादं परामृशति भक्तो विहितमिति प्रसन्नो भवत्येतस्मिन्विहितेनैषा तोष्या यथा वा एते कवयः पूज्याः पूजितैरेतैः स प्रसन्नः सम्पद्यते यथा बा एताः कामिन्योऽनुरक्ताः स्वस्मिन्नेता लाल्या लालिताभिः स प्रसन्नः सम्पद्यते यथा वा एते दुष्टाश्चौरास्तिरश्चीना व्याघ्राः पशवोऽन्ये मानुषाश्च य एवं ते घातनीया घातितैरेतैश्च प्रसन्नः सम्पद्यते विहितमिति यज्ञाः प्रवर्तन्ते विहितमिति दानानि प्रवर्तन्ते विहितमिति दण्डाः प्रवर्तन्ते विहितमिति वधाः प्रवर्तन्ते तस्माद्विहितेनैवास्य तुष्टिस्तस्माद्विहितमाचरन्परिचरत्येवं वा। भक्तः सखा भूत्वा देवता सखायमिति परिचरति यथा वा यद्युपचाराः सुस्वादा अस्वादा इति नोभयं विन्दन्ति स्वयं भुक्त्वापि सुखादमिति ज्ञात्वा तस्यै प्रयच्छत्येवं वा परिचरति देवताभक्तयोः सर्वेषु सम्बन्धेषु देवता आराध्याऽयमाराधको देवता उपास्याऽयमुपासकः स शास्ताऽयं शास्यः स फलदाताऽयं फलभोक्ता स लालकोऽयं लाल्यस्त**स्माद्भक्तदेवतयोरनिर्वाच्याः सम्बन्धा यथा वा य इच्छति स तथा तं परिचरति तद्भक्त्या परिचरणेन च प्रीणाति तस्मात्सर्वेभ्यो योगेभ्योऽयं गरीयान् भक्तियोगो** य एवं वेद विद्वान्सोऽमृतत्वाय कल्पते॥४९॥
 
  वैतानिकाग्नीन्हुत्वा वैवाहिकं वा हुत्वा गृहस्थो ब्रह्मचारी समिधमाधाय ब्रह्मचारिभ्योऽन्तेवासिभ्यो ब्रह्मसंस्मृतिकं दद्यात् तेभ्यो वा ब्रह्मचारिकल्पेभ्यः स्नातेभ्यो ब्रह्मक्षत्रवैश्यानां तेऽपि पठेयुः यत्तैः पठितं भवति तत्सस्मृतिकं दत्तं भवति तेभ्यो यदि दक्षिणां न गृह्णाति तेन ब्रह्मणा दत्तेन स्वर्ग लोकं जयति वा स्वेष्टां देवतां प्रीणाति॥५०॥
-
-
 
  कथं वा गृह्णीयुरदत्त्वा दक्षिणां यत्क्षत्रवैश्यावेतावप्रतिग्रहीतारौ तस्माददत्त्वा नैतौ गृह्णीयातामिति प्रश्नोऽस्मिन्समाधीयते। यत्क्षत्रवैश्यावेतावन्नस्य नीरस्य वस्त्रस्याऽभयस्य कन्याया ब्राह्मणः प्रतिग्रहीतेतरौ क्षत्रवैश्यावदक्षिणस्य ऋते कन्यायाः कन्यां सदक्षिणां गृहन्ती**त्येके त**स्मात्प्रतिगृह्णीयाताम्॥५१॥
 
@@ -3445,8 +3210,6 @@ Baroda,
 
  यदि न लमेद्विमृशन्नन्वेषयन् जन्मना संस्कारेण विद्ययाऽऽरोग्येण सुवर्चसा सौन्दर्येण तपसा युक्तः पात्रं तदा जन्मना संस्कारेण विद्ययाऽऽरोग्येण युक्तः स्यात्तस्मै प्रयच्छेद्यद्येनमपि तथा जन्मना संस्कारेण युक्तः स्यात्तस्मै प्रयच्छेद्यद्येनमपि तथा जन्मना ब्राह्मेण युक्तः स्यात्तस्मै प्रयच्छेत्तस्मान्नाऽब्राह्मणाय धर्मार्थं दानं प्रयच्छेत्॥६८॥
 
-
-
  एतानि वा धर्मार्थं दानान्येतानि यज्जलदानं यदौषधदानं यदन्नदानं यदनुलेपनदानं यद्वस्त्रदानं यदभयदानं यच्छय्यादानं **दानानि सर्वैः प्रतिग्राह्याणि सर्वो दद्यात्** यद्वान्यत्सुखकरं प्राणिनां तत्तदभिलाषिभ्यः प्राणिभ्यो दद्याद्यदेषां दानानां नितरां यदिच्छति तद्दद्यात्तस्मै दत्त्वा सोऽश्नुते परं त**स्मादब्राह्मणाय दानमविधानं दद्याद्यस्मान्न प्रमाद्यति**॥६९॥
 
 अब्राह्मणेभ्यो विधिना दानं न प्रयच्छेदधिकं च
@@ -3481,8 +3244,6 @@ Baroda,
 
  ये मनुष्यान्हिंसन्ति त एव हिंस्रास्त एवागस्कारिणो यतो वा मनुष्यः सर्वेभ्यो जन्मभ्यः श्रेयानेतज्जन्मा पुरुष एव सर्वेषां जन्मनां सम्राडासीद्भविष्यति च सम्राड्वर्तते च भूतानां जन्मनां भव्यानां च जन्मनां पर्यधितिष्ठत्येतत्पौरुषं जन्म **पुरुष एवेदं सर्वं यद्भूतं यच्च भव्यममृत**स्य देवस्याप्येतत्पर्यधितिष्ठ**त्युतामृतत्वस्येशानो यदन्नेनातिरोहतीत्येतच्छब्दाज्ज्ञायते पुरुष एवैतेभ्यः सर्वेभ्यः श्रेयान्** यस्मात्पूर्वं ब्रह्मवादिन एतमेव पौरुषं जन्म व्यदधुर्विभक्तं कुर्युर्यच्चातुर्वर्ण्यं ब्रह्म चैतदेव पर्यवतिष्ठति । किं तच्चातुर्वण्यं पृथक् पृथ**ग्यत्पुरुषं व्यदधुः कतिधा**
 
-
-
 **व्यकल्पयन्। मुखं किमस्य कौ बाहू का ऽऊरू पादा उच्येते।** उत्तमो ब्राह्मणो वर्णस्तदवरः क्षत्रस्तदवरो वैश्यस्तदवरः शूद्रो **ब्राह्मणोऽस्य मुखमासीद्बाहू राजन्यः कृतः। ऊरू तदस्य यद्वैश्यः पद्भ्यां शुद्रोऽ अजायत इति शब्दात्पौरुषमेवातिरिच्यते सर्वेभ्यः॥८०॥**
 
 हिंसा पूर्वं व्याख्याता॥८१॥
@@ -3510,8 +3271,6 @@ Baroda,
 देवानृषीन्पितृृंश्च यज्ञसूत्री देवतीर्थेनर्षितीर्थेन पितृतीर्थेनोपवीती निवीती प्राचीनावीती तर्पयेत्॥९२॥
 
 ऋचो यजूंषि सामान्यथर्वाङ्गिरसो ब्राह्मणानि तन्त्राणि कल्पान्गाथ, नाराशंसीरितिहा—
-
-
 
 सपुराणानि यदृचोऽधीते पयआहुतिभिरेव तद्देवतास्तर्पयति यद्यजूंषि घृताहुतिमिर्यत्सामानि मध्वाहुतिभिर्यदथर्वाङ्गिरसः सोमाहुतिभिरेवमेवर्षीन् पितॄंश्च तर्पयति तस्मादेवं ब्रह्मयज्ञं कुर्वीत विद्वा**न्स एष स्मृतियज्ञः** स एष **शब्दयज्ञः** स एष **ऋषियज्ञः** स एष **जपयज्ञः** स एषः **स्वाध्याययज्ञ** एतेषा यज्ञानामग्निष्टोमादीना मूर्धन्येष विराजत एतेषामेष सम्राडपि वा ऋचं यजुः साम वा जपेदेतस्माद्यज्ञाः प्रवर्तन्ते एतस्माद्दानानि प्रवर्तन्ते दण्डाश्चैतस्मादेव प्रवर्तन्ते तस्मादेष **ब्रह्मयज्ञः सर्वेभ्यो गरीयान्**॥९३॥
 
@@ -3544,8 +3303,6 @@ Baroda,
 
 दौर्गौ, कुमारिका पूज्या ललिताभक्तिमंयुतैः।  
 सुवासिनी भवेत्पूज्या वेश्या स्यात्कालिकाप**रैरिति**॥५॥
-
-
 
 एनां गाथामन्यथैके पाठयन्ति॥६॥
 
@@ -3593,8 +3350,6 @@ Baroda,
 
 स्वयं स्वस्थः शुचिरव्यग्रमानसो व्याध्याध्यन्यतरेण शुचौ देशे काले स्वेष्टे स्वेष्टदिङ्मुखः
 
-
-
 श्रद्धया युक्तो यथाकथंचित्कृत्यं निर्वर्तयेद्भुक्त्वाऽभुक्त्वा वा भूस्थो वासंनस्थो जलस्थो यानस्थो वा वायुस्थस्तेजस्थो वा सूर्योदयात्पुनः सूर्योदयो यावत्तावन्निर्वर्तयेदेकदा सुधीरि**त्युन्मत्तभैरवः**॥२०॥
 
 आपत्स्वित्येतदिति **दिग्भैरवः**॥२१॥
@@ -3641,8 +3396,6 @@ Baroda,
 
  मनसा स्वाद्वन्नादिकं स्वयं भोक्तुमिच्छति वाचा देवतार्थं वदति वा देवतालयं समाजोत्सवदर्शनार्थं व्रजति प्रसङ्गेन देवतां पश्यति वाचा देवतार्थं वदति कायेन
 
-
-
 प्रणामान्विदधाति यथा वाचा वदामि कायेन करोमि तथाहं कदा स्यां ममानुरागः स्याद्देवतायामिति मनसेच्छति तवानुरागो मयि सम्पद्यतामिति वाचा देवता प्रार्थ्यते येन स साधकोऽचिरेणैव सिद्धः सम्पद्यते॥३८॥
 
  एकस्यां शालिग्राम—शिलायामेकस्यां देवतायामावाहितायां विसर्जनात्प्राक् नान्यस्या देवताया आवाहनं पूजनं च जायते॥३९॥
@@ -3659,8 +3412,6 @@ Baroda,
 
 **अथ** शुचिः कृतपूर्वकालक्रिय उदङ्मुखो यथेच्छदिङ्मुखो वा उक्तकालान्यतमे
 
-
-
 विशेषार्चनस्य समे शुचौ देशे सामयिकैः सममाचान्तो दीक्षाक्रमेण ज्येष्ठो ज्ञातविधिस्तदनुस्रगनुलेपनः स्यात्॥४५॥
 
 स्ववर्णाश्रमाभ्यामपि श्रेष्ठः स्यादि**त्येके**॥४६॥
@@ -3672,8 +3423,6 @@ Baroda,
  **विशेषार्चनं** ब्राह्मणान्याः कारयेयुर्ब्राह्मणेन दीक्षितेन हविः प्रतिपत्तिं पुष्पाञ्जलिं स्तवं नतिं स्वाराध्यत्वेन भावनं दासोऽस्मीति निवेदनं स्वतः कुर्युः **विप्रे मुख्यसामयिकत्वं तत्संभवति** तस्मिन्केनापि नानुभवितव्यं क्षत्रेण वैश्येन शूद्रेण पूर्वं ब्रह्माणं विष्णुं देवतां पूर्वं विशेषार्चनेन विधिना चैष्यन्ब्राह्मणान् क्षत्रान्वैश्यान् शूद्रान्देवान् तिरश्चः सर्वानेतान्प्रकल्पयेत्सामयिकीति सर्वे विष्णुं देवतामावाहयन्तोऽभवन्सा देवताऽऽगता ते तामब्रुवन् गृहाणेदं गृहाणेदमिति स विष्णुस्तेभ्योऽकुप्यत् किं सर्वैरेवार्च्यते विशेषार्चने एकेनार्चनेऽस्मिन्मुख्यसामयिकेन भवितव्यं तस्मान्नैतद्विशेषार्चनं यस्मान्नैको मुख्यः सामयिको भवद्भिः कृत इत्थमादाय तस्य विष्णोर्वचनं ते सर्वे भक्ताः संसारविरक्ताः सक्ताः पादाम्बुजे विष्णोः **श्रुतिभ्यां** ते खिन्नाः किमस्माभिरज्ञातविधिभिरिति तेऽस्तुवन् तान्हसन्नेवाभ्युवाच विशेषार्चने मुख्यसामयिकं कृत्वैकं विशेषार्चने भवितव्यं तदनुकूलैर्यथाविधानं यत्तेनार्च्यते स सर्वैरर्चितो भवति **तस्माद्वर्णाश्रमाभ्यां दीक्षाक्रमेण च विद्यया तपसा च युक्तं श्रेष्ठं मुख्यं सामयिकं कुर्याज्जन्मविद्यातपआश्रमदीक्षाक्रमेण श्रेष्ठो भवत्येकेनोत्तरेण न्यूनोऽधमः पूर्वेण पूर्वेणेत्येके। तदेतन्मुख्यसामयिकस्य मुख्यसामयिकत्वं** यन्नित्यार्चनान्यम विदधाति तद्विशेषार्चनं सम्पद्यत **इति विघ्नेशो** विशिष्टे काले यत्क्रियते तत्तदिति **सूर्यो** विशिष्टेन संभारेण यत्क्रियते तत्तदिति **भैरवः** स मुख्यसामयिकैर्यत्क्रियते तत्तत्सर्वेऽनुमन्यन्ते एको वा तन्निवर्तयेदिति **शक्ति**रनेकैः कृतं विशिष्टे काले विशिष्टैः सम्भारैस्तत्तन्नित्यार्चनविशेषार्चनाभ्यामन्यद् यत्तत्सामान्यार्चनमिति **चतुर्मुखो** विशेषार्चने समुख्यसामयिकाः समर्चयेयुरिति सर्वेऽनुमन्यन्ते तदेतन्मुख्यसामयिकस्य मुख्यसामयिकत्वं तेभ्य इत्युक्त्वां विरतो **विष्णु**स्ते ब्रह्माणं मुख्यसामयिकं कृत्वार्चयेयुर्विष्णुं तस्मान्न कंचिदीश्वरममुख्यसामयिका विशेषार्चनेनार्चयिष्यन्तोऽर्चयेयुः॥४९॥
 
  आवाहनासनपाद्यार्ध्यस्नानालङ्काराद्यैरर्थवदुपचरणं दक्षोऽन्यश्चेन्मद्यं मुद्रा स्तुतिकरणं हविःस्वीकरणं मैथुनं रहसि शक्तिभिः सामयिकैः समैः समाभिर्विशेषार्चनं प्रवर्तते
-
-
 
 तृप्त्यानन्दे मनुविमर्शनमग्नेरग्नीनामुत्सर्जनं प्रदक्षिणीकरणं पुष्पाञ्जलिनिवेदनं सर्वसुकृतजनिवेदनं ध्यानानुसन्धानमपराधक्षमापनं दासोऽस्मीति निवेदनं स्वाभीष्टसाक्षात्कारयाचनं सर्वैः कार्यं मण्डलार्चनं च विसर्जनं च मुख्यसामयिकेन॥५०॥
 
@@ -3693,8 +3442,6 @@ Baroda,
 
  आकाशाग्नेरुत्तरतो यूपं निवेश्य विशेषार्चनेन हुत्वा महताल्पेन वा प्रयोगेण वैष्णवं पशुं पीतेन शैवं श्वेतेन सौरं गाणपं शाक्तं च रक्तेन कापालं श्वेतेन कृष्णेन वा वारिणा प्लावयत्यमुकायै देवतायै त्वा जुष्टमाप्लावयामीत्याप्लाव्य तथैव रशनयाऽमुकायै देवतायै त्वा जुष्टं प्रतिबध्नामीति प्रतिबध्याऽमुकायै त्वा जुष्टं प्रोक्षामीति तथैव तेन वारिणा संप्रोक्ष्य तथैव ताभिरद्भिरमुकायै देवतायै त्वा जुष्टं पाययामीति पाययित्वा आकाशाग्नेः पश्चात्पात्राण्यासादयन्ति बर्हिषि दक्षिणे भागे दधिसर्पिषोः पात्रं दुग्धपात्रं सर्पिषः पात्रं एतान् चषकानू संस्थापितान्संप्रोक्ष्य संशोध्य चोल्मुकं परिगृह्य तस्मादग्नेस्त्रिरमुकायै देवतायै त्वा जुष्टं पर्यग्निकरोमीति पर्यग्निकृत्वोल्मुकं निर्ऋत्यां तेभ्यो निरस्यति ये वास्य विघ्नकर्तारो ये वास्योत्सित्यै अनुधावन्ति परिपीडयन्ति परमार्थोपविष्टास्तेभ्य एवमुल्मुकं निरसामीति निरसति मुख्यसामयिकः सोऽनुपद्रवः सम्पद्यते तस्मादेवं निरसेद्यदुल्मुकं निरसति तद्धिंस्रः सम्पद्यते तस्मान्निरस्योपस्पृशेत्तत्तद्वर्णेन तिलकं कुर्यात्तस्य पशोर्भालेऽमुकायै देवतायै त्वा जुष्टं सतिलकं करोमीति मुख्यः सामयिक उदीचीं पश्यन्नुदतिष्ठन् जुहुयादादद्याच्च स्रुवेण स्रुचि
 
-
-
 गृह्णाति प्रथमात्पात्रादकायै त्वा जुष्टं गृह्णामीति हविर्गृहीत्वाऽमुकायै देवतायै अयं पशुः स्नापितः स्वाहेति स्रुचा हुत्वा तस्मादेव पात्रात्तथैव गृहीत्वाऽमुकायै देवतायै अयं पशुर्बद्धः स्वाहेति हुत्वा द्वितीयात्पात्रात्तथैव गृहीत्वाऽमुकायै देवतायै अयं पशुः प्रोक्षितः स्वाहेति हुत्वा तस्मात्तथैव गृहीत्वाऽमुकायै देवतायै अयं पशुराप्यायितः स्वाहेति हुत्वा तृतीयात्पात्रात्तथैव गृहीत्वाऽमुकायै देवतायै अयं पशुः पर्यग्निकृतः स्वाहेति हुत्वा तस्मादेव पात्रात्तथैव गृहीत्वाऽमुकायै देवतायै अयं पशुस्तिलकितः स्वाहेति हुत्वा शेषाणि हवींषि एकः सामयिकः स्रुवेण त्रयः सामयिकाः पात्रैरन्वालब्ध्वान्यैः सामयिकैर्मुख्यसामयिकः स्रुचा विश्वेभ्यो देवेभ्यः स्विष्टकृद्भ्यः स्वाहेति तं पशुमुत्तरत उत्सृजन्ति ये वा तं पशुमुत्सृजन्त्यवन्त्यन्नजलदानरैभयदानैस्ते सर्वे व्रजन्त्युत्तमां गतिं साहस्रोऽपि राजा उत्सृष्टेभ्यः पशुभ्योऽन्नं जलं प्रयच्छन्नभयमुत्तमां गतिं जगाम। ये वा पशुमुत्सृजन्ति त आत्मनः पाप्मानं धुन्वन्ति येऽपि तत्सहायास्तेऽपि ये हवींष्यश्नन्ति त उत्तमां गतिंगमयन्त्यात्मानमेवं पशुं पशून्वा समस्य पृथग्वोत्सृजेत् शिष्टा आहुतीः सर्वैर्हृत्वा शेषं समापयीत॥५८॥
 
 एवं पशुयागं नाचरेद्विद्वान्पारानन्दः
@@ -3708,8 +3455,6 @@ Baroda,
  सात्त्विको वै राजा एवं पशुयागैरयजत्तां देवतां साऽब्रवीन्मां यष्टुमीहेज्जडैरेव पदार्थैर्भाजडैः चित्संवलितैर्यजस्व यस्माद्वा ध्याता चिद्रूपो ध्येयं चिद्रूपं ध्यानं जडं एवं यजनं जडं यष्टा चिद्रूपो यजनीया चिद्रूपा एवं तपस्तपस्वी तपस्तोष्या तस्माद्य एनं क्रमं व्युत्क्रमन्ति ते पापैर्युज्यन्ते तस्मान्नाजडैर्मायजस्व तस्मादेव ब्रह्मवादिनः **पारानन्दाः** मह्यं हिंस्रं बलिं छित्त्वा रुधिरं जडं प्रयच्छन्ति ततोऽहं तुष्यामि तच्छिरोलोमजेन धूमेनाहं हृष्यामि तस्मादेवं यजस्वेत्युक्तो राजा वध्यवधैः पारानन्दैः पारानन्दो राजा तां कालीं यजन्जीवन्मुक्तिं जगाम तस्मात्पारानन्दो विद्वानेतन्नाचरेत्॥६१॥
 
  **अथ वामी महायागेन** यष्टुं कामयीत चेत् पाशुकवर्जं गायत्र्यैव षडाहुतीस्तस्या देवताया जुहोति उल्मुकं निरस्य पात्राण्यासादयति प्रथमं पात्रं शुक्रशोणिताभ्यामापूर्य द्वितीयमासवैस्तृतीयं मुद्रया सर्पिषा वा तदुत्पत्तिं वक्ष्यामः सुरूपामरोगां मञ्जुलभाषिणीं यौवनोद्धतां सुगन्धतैलोन्मर्दनाभ्यां कवोष्णेनोष्णेन स्नापयित्वा वाऽब्दैवतेन तृचेन संप्रोक्ष्य वस्त्रालङ्कारैः शोभितामानीय तस्या उपस्थेऽनन्तरगर्भौ प्रादेशमात्रौ कुशौ नाभ्यग्नौ पाणिनाच्छाद्य तदुपस्थमष्टोत्तरशतं जपेत्कामबीजं चन्द्रबीजं स्वेष्टेशबीजं यद्यस्या देवतायाः कामयीत बीजं तत्तस्या नाम्नः प्रथमाक्षरमनुस्वारेण युक्तं बीजं तस्याः सम्पद्यते एष एकाक्षरो मन्त्र एतद्वीजं यस्माद्यदाकलनेन देवतैवाकलिता भवति तस्मादेवं बीजमूहेज्जत्वा तया रहसि संगम्य शुक्रं योनावेवोत्तारयन् तथा मैथुनं कुर्वीत यथा तस्याः शोणितं पूर्वमुत्तरेत्ततः शुक्रमुत्तार्य योनावेव मुख्यसामयिकोऽन्यो वा कुर्वीत यो दृढः स्यात्ततो मैथुनकृद्गृ—
-
-
 
 ह्णीष्व गृह्णीष्वेति त्रिर्ब्रूयादुक्ते तेन मुख्यः सामयिकोऽन्यो वा स्रुवेण गृहीतुमुद्युक्तः सन्गृह्णामिगृह्णामीति त्रिब्रूयाद्यद्यन्यः सामयिकः स्यान्मुख्यः सामयिको गृहाणेति त्रिर्ब्रूयात्स्रुबं निधाय बर्हिषि पुनस्तेन स्रुवेणाज्यं पात्रे गृहीत्वा स्रुवं निधाय शुक्रं मध्यमाङ्गुल्योत्तार्य चषके तथैव शोणितमुत्तारयेत्। यदि पुमानदृढः स्यान्मैथुनेन शोणितमुद्भेदितुमसमर्थस्तस्मिन्नेव योनिमण्डले रक्तचन्दनं निक्षिप्य तदुत्तारयेद्यदि वा सा रजसा प्लुता स्याद्वस्त्रेण तद्रजो गृहीत्वा चषक उत्तार्याभिधारयेत् यदि वस्त्रं तज्जलेनाप्लाव्य तद्रक्तं जलं वा॥६२॥
 
@@ -3729,8 +3474,6 @@ Baroda,
 
  सत्रेण यष्टुमीहन्महारात्रे उषस्युदिते वा सर्वैः स्वानीतैः संभारैरेकं प्रतीकं प्रतीकं पूजयन्ति आवाहनं विसर्जनं च तेषु सात्रिकेषु परस्परं वृतेषु एको मुख्यः सामयिको भवति स एव कुरुते सात्रिकाः सर्वं पृथक् पृथक् अन्यत्सर्वं कुर्यु**र्नेत्येके सात्रिकाणां ये उपसामयिका भवन्ति विशेषार्चने यत्सामयिकाः कुर्वन्ति तदत्र सत्रे उपसामयिका आचरन्ति नोपसामयिकैर्विहीनं सत्रं भवतीत्येके** सर्वान्सर्वे वृणन्ति या युष्माकं उपास्या सा ममोपास्या यस्या यूयं उपासकास्तस्या अहमुपासकस्तस्मादहं युष्मान्सोपसामयिकान् सात्रिकानमून्वृण इति मुख्यसामयिकस्तान्वृत्वा ते पठन्ति वृता या तवोपास्या साऽस्माकमुपास्या यस्यास्त्वमुपासकस्तस्या देवताया वयमुपासकास्तस्माद्वयं त्वां सात्रिकं सोपसामयिकं मुख्यसामयिकं वृणुम इति मुख्यसामयिकं ते वृत्वा मुख्यसामयिको वृतः पठति यस्माद्यूयं सत्रं प्रारभथ तस्मादहं मुख्यः सामयिकः सोपसामयिको युष्माकं मुख्यसामयिकोऽहं मानुषः एवं ते सात्रिका वृता जपन्ति यस्मात्त्वं सत्रं प्रारभसि तस्माद्वयं ते सात्रिकाःसोपसामयिका वयं ते मानुषा इति वृत्वा प्रारभन्ति यावन्तीच्छेयुर्वर्षाण्ययनानि यावतो ऋतून्मासान्पक्षान्दिवसान्प्रातरादिकालाँस्तावत्सु पूजाभिर्विदध्यात्तत्सत्रं यदेकोऽर्चक आवाहयति विसर्जयति चान्ये समर्चका भवन्ति यथादिङमुखा ये सामयिका उपसामयिकार्चनसत्रिणो मुख्यसामयिकश्च सत्री न ते सांस्कारिकमैश्वरं वा नित्यनिवर्तनं कुर्युर्न मूत्रमुत्सृजेयुर्न पुरीषं न निद्रां कुर्युर्न मिथुनीभूतास्त्रीभिरभिभवेर्युर्न भक्षं भक्षयेयुर्न पानीयं पिबेयुरेतान्यन्यतममर्चने सत्री कृत्वा क्षमापनाय
 
-
-
 देवतायाः पादौ हस्तौ मुखं प्रक्षाल्य द्विराचम्य देवतामूर्धन्यष्टावञ्जलीन्पुष्पाणां विकिरेदप्येकस्य पुष्पस्य वा हस्ताभ्यां पायुभ्या नेत्राभ्या यच्च किल्बिषं अक्षैश्च मनसा क्षुधा तृष्णया निद्रया जिह्वया दन्तैस्तत्सर्वं नुदामि पुष्पविकिरणैस्तस्मात्तत्सर्वं क्षमस्व क्षमस्व नमोनम इ**त्येतत्प्रायश्चित्तं। प्रारब्धे सत्रे न प्रविशन्त्यन्ये इन्द्रियविकलाः कुरूपाश्चायुवानश्च भक्तिमन्तः प्रविशन्त्येके सत्रान्तर्गता न निर्गच्छन्ति ऋते आधिव्याधिभ्यामस्वास्थ्यादासमाप्तेः सत्रस्या**काशाग्नौ एतामाहुतिं हुत्वा सत्रं मे समाप्तमभूत्समाप्तः कामो मे समाप्तिकर्त्रे नमोनमः सर्वे स्विष्टं सुहुतं सुयष्टं करोतु मध्ये ये विघ्नास्ते ये तेभ्यो निर्गच्छन्तु दूरं स्विष्टकृतेग्नये स्वाहेति सत्री सत्रान्निर्गच्छेत्तस्मिन् गते सत्रिणो जुह्वति दशान्वारब्धा अन्यैः। मुख्यः सामयिको वा स्विष्टं ह्येकेन न्यून बहुभिर्वा तत्स्विष्टं भवतु स्वाहेति हविर्मात्राशना **वामिनश्च चे**च्छक्तिमैथुनानन्दा जितेन्द्रिया मुण्डनाकारिणोऽस्नाना ईश्वरपरा मन्त्रजपपरा अर्थवदीश्वरोपचारपरा निराशिषो निरभिवादना निरालिङ्गना भगवच्चिह्नचिह्निता देवतोच्छिष्टामृतपरा भवेयुर्यां देवता यष्टुमिच्छेयुस्तद्वयः सवत्सरसंख्यातैः सामयिकैः शक्तिभिश्च ततोऽधिकैरधिकाभिश्च प्रारभ्यते सत्रं न न्यूनैर्न्यूनाभि**र्न ‘न्यूनाभिरित्येके** **अधिकाभिश्च सुरानन्दः** सत्रं प्रारभ्य देवता विसर्जयेदासत्रसमाप्तेरित्येत**त्सात्रो विधि**रेतत्सात्रा परात्मन ईश्वरात्मानो भवन्तीश्वरात्मनामैश्वरा जीवात्मानो ब्रह्मवादिनो भवन्ति सात्रिकाः॥६७॥
 
  यदि सत्रेऽपक्षीयेत मुख्यः सामयिकः सामयिकान्यतमः पूर्ववन्मुख्यसामयिकत्वेन वरणं यदुदककुम्भं निनयित्वा मार्जयन्त्यात्मानमेषोऽवभृथः॥६८॥
@@ -3744,8 +3487,6 @@ Baroda,
 औत्सवेन विधिना देवता समर्चयन्संकल्य्यागाराणि चित्रितानि रञ्जितानि कारयेत्॥७१॥
 
  गजाश्ववेश्याभिरलङ्कताभिः स्थिताभिरागारद्वाराण्यलङ्कृतानि कारयेत्। दुन्दुभ्यादिवाद्यैः स्तुतिघोषमुखैः सुगायकैः नग्नैः शिष्टोदितकार्यकरैः शूद्रैश्च द्वितीयकक्षाया स्वलङ्कृतैः शस्त्रोद्यतबाहुदण्डैः क्षत्रैः स्वलङ्कृतैः स्वलङ्कताभिर्वेश्याभिर्यौवनोद्धताभिर्यजमानो ब्राह्मणैः कृतस्वस्त्ययनः कृतमुण्डनः कृताभ्यङ्गस्नानः स्वलङ्कृतो ब्राह्मणं स्नातमकृतविवाहं त्यक्तब्रह्मचर्यं उत्सवार्थे ऋत्विजं वृणुते उत्सवार्थं ऋत्विजं त्वा वृण इति। स वृतो जपेदीश्वरात्मँस्तव दासोऽहमिति नवाक्षरं महामनुं नव वा एते अर्णवास्तस्मादेष नवार्णवो यदीहेद्यं देवमर्चामस्तन्मनुमिति एतं जानीयाद्वा। ईश्वरस्य प्रथमैकवचनं संबुध्य तं चतुरक्षरं नामोहेच्छेषं पूर्ववत्तन्नवार्णवः सम्पद्यते। एष चतुष्पादो मन्त्रश्चतुष्पाद्धर्मस्तस्माद्य एनं वाचोच्चरति
-
-
 
 सं चतुष्पादं धर्ममेवात्मनि धत्ते। यदध्ययनं यजनं दानं दण्डश्चैते चत्वारो धर्मस्य पादा यच्चत्वारि वा एतस्य पदानि तच्चत्वार एव वर्गाः चत्वारो वा एते योगास्तस्माद्य एनं वाचोच्चरति स चतुरो वर्गान् योगानेवैवात्मन्धत्ते। एष वै सर्वसम्पादको मन्त्र**स्तस्मादेष चतुष्फलोऽयं चाण्डालेष्वप्युपदेश्यश्चाण्डालाच्चापि परिग्राह्यो** नास्य मन्त्रस्य दानादानाभ्यां गुरुशिष्यावुभौ सम्पद्येते तस्मान्महाफलोऽयमबन्धनो मन्त्रः यदस्य ग्रहणेच्छा साऽस्य दीक्षा यज्जपो मौनेन सा अहिंसा यस्य शिक्षा शुचिना वाऽशुचिना यत्र कुत्रचित्तत्तपो भवति स वृतो जप्त्वैनं भवति। यजमानो नापितं शिष्यान्मुण्डयैनमिति। यद्यस्य मार्दवेन लोमानि युक्तानि स्युरस्य चेद्भूयुगं पक्ष्मरोमाणि शिखां वर्जयन्सर्वगात्राणि मुण्डयेल्लोमानि पूर्वं श्मश्रूणि पश्चात्केशान्नखानि ततो मुण्ड एवं यजमानवत् स्नानादि सर्वदेवतायास्तदिष्टाया विशेषार्चनमारभेत। यजमानो जीवानर्थवत्परिचरेद्वनस्त्रजलगन्धपुष्पमालाभिर्यथासम्भवं मानसत्कारैर्यथायोग्यं विशेषतो ब्राह्मणान्सुवासिनीः कुमारिकाश्च यामे यामे विशेषार्चनं कारयेत् वा सायं प्रातर्वा प्रातर्मध्याह्नसायंनिशीथेषु॥७२॥
 
@@ -3792,8 +3533,6 @@ Baroda,
 
 शस्त्रेण वध्या घातनीयास्त्वपराधिनः॥८६॥
 
-
-
  त्रयो वा एते लोकास्तेषु तिस्रो वा योनयस्तेषूत्तरोत्तरो ज्यायान्तासूत्तरोत्तरा ज्यायसी तस्मादेष मानुषो वध्यो देवतायै अपकरोति। यो मानुषो यथा पशव अपकरोतीत्येते वध्यास्तस्माद्बलौ वध्याः॥८७॥
 
 यस्माद्वा दण्डो धर्मपादस्तस्मादेतेन प्रचरन्ति **ब्रह्मवादिनः** स्वर्गस्य लोकस्य जित्यै॥८८॥
@@ -3826,8 +3565,6 @@ Baroda,
 
  शाणीयं रज्जुं दृढामानीय तया बलिंस्तम्भं संबध्य गन्धाक्षतपुष्पैश्चतुर्षु स्थानेषु स्तम्भमनेन हिंस्रस्य पशोर्देवसालोक्यायै गत्यै त्वामलंकुर्व अयममृतस्य मृत्योर्भयं पलायते त्वमेनं सुस्थिरं कृधि अमृतेन यशसा दीप्त्या नियोजयेयमविह्वलं कुर्विति स्तम्भमलङ्कृत्य प्रणयैतं सुकृतस्य पन्थानमारोहयैनमिति रज्जुं गन्धाक्षतपुष्पैरलङ्कृत्य तया पुरुषं कण्ठे बध्वा प्लावितं सर्वमुत्सृज्य **पशुहोमवद्धोमोऽत्र विशिष्टं** प्राणवियोगानन्तरं घातहोमोऽत्र कृताकृतो होमः स राजा प्राणैर्दण्ड्यान् वियोजयन्नमृतमश्नुते द्विपादाश्च चतुष्पादाश्च पशवः पशुं पुरुषमर्चनाविशिष्टेन गन्धेन यदेनं लिम्पति भाले शिरसि ग्रीवायां खड्गप्रहारणीये कण्ठकूपे हृदि बाह्वोस्तदेनं बहिस्तः शुचिमेव कुरुते पुरुषं नग्नमार्द्रवाससं शुष्कवाससं वा प्राणैर्वियोजयेत्खङ्गेन यस्मादयं योनेर्नग्नः पतितस्तस्मादेनं नग्नं छेदयेदिति **सुरानन्दो** यस्मादयं रुधिरेणार्द्रो निर्गच्छति तस्मादेनं क्लिन्नं छेदये**दित्युन्मादानन्दः**।
 
-
-
 शुष्कवासा ज्ञानमृच्छति तस्मादेनं शुष्कवासस छेदयेदिति **ज्ञानानन्दो**ऽन्यः पशुर्नग्नश्छेद्यो न स्त्रीजातीयो बलिच्छेदः कुत्रचित्तस्याः शास्तिर्न शारीरिकीति **केचित्**। स्त्रीजातीयो बलिच्छेदोऽस्त्येवे**त्यमृतानन्दो** गर्भिण्या अपि दुष्टायाः **गर्भिण्यां विशेषं वक्ष्याम**स्ता छित्त्वा उदरं प्रास्फोट्य खड्गेन स्वधितिना वा गर्भस्थानं ज्ञात्वा गर्भं निष्कास्य स यदि गर्भो जीवेत्तं जीवयेद्यदि शिरो ग्रीवया युक्तं स्यात्त ग्रीवाया छित्त्वा सर्वं समानं यदि स न तथा स्याच्छरावे तं निधाय गोमयेनोपलिप्य गन्धाक्षतपुष्पैर्विकिरेद्दूर्वाभिश्चेषुमात्रावरं दीर्घवितस्त्यायतमधिक वा यागीयं काष्ठं पांसुभिर्भूम्या प्रपूरयेद्गमयितुं स्वर्गाय लोकायैनमुद्गमयितुं खड्गधारा वाहयितुं पूरयामीति पूरयेत् स्तम्भस्य पश्चात्तूष्णीं तमलङ्कृत्य अन्यया रज्ज्वा ग्रीवान्तेन यज्ञकाष्ठेन सबध्य बन्धयेद्यथा स खगप्रहारोऽन्यत्र मा भूयादेवं बध्वा ता ग्रीवामभिमृशत्यधोलोकान्निर्वर्तयितुं स्वर्गाय लोकाय गमयितुं याम्यात्पाशाद्विमोचयितुं कृच्छ्रादुन्मोक्तुमभिमृशामि धर्मिणेति वरुणस्य पाशोऽसीति रज्जुं चाभिमृश्य प्रथमो बलिर्द्वितीयः स्तम्भस्तृतीया रज्जुश्चतुर्थ यागीयकाष्ठं पञ्चमी बन्धनरज्जुः षष्ठः खङ्गः सप्तमं रक्तपात्रमष्टमोऽग्निर्हृदो भूमिर्वा नवमोऽहं **इति** यद्यन्यश्छेदकः स्यान्नवमोऽयमिति ब्राह्मणक्षत्रशूद्रान्यतम आप्तो नान्यश्छेत्ता भवति दशमीय देवतेति जपित्वा उदङ्मुखः प्राङ्मुखं प्रथमं षष्ठेन सयोज्य पुष्पं मूर्ध्नि न्यस्य चिरेण कालेन यद्गन्ता यदप्राप्यमयोगिभिः यद्गच्छन्ति सुकृतिनस्तच्छिन्नो गच्छ सत्वरमिति करणान्यद्भिः संप्रोक्ष्याग्नेयो धर्मपालः—श्छेदयोग्यश्चेत्स एवान्यथान्यो लौह आनेयश्छेदयोग्यः॥९९॥
 
  तिरश्चीनाभिः कनिष्ठिकानामिकामध्यमातर्जनीभिर्गणितो दीर्घः शताङ्गुल आयतो दशाङ्गुलैरेवं धर्मपाललक्षणलक्षित एष **कालखङ्गसंज्ञो** नास्मादधिक इष्यते॥१००॥१४००॥
@@ -3846,16 +3583,12 @@ Baroda,
 
  अह्नि वा कार्यं बलिदानं छिन्दि छिन्दि बलिं स्वाहा स्वर्गीय लोकायास्य प्राणानुत्क्रामयैनं दुःखितं मा कृधीति खड्गमग्नौ निष्टष्यैवं त्रिरुत्तरैस्त्रिभिरन्तरितं रक्षोऽन्तरिता अरा—
 
-
-
 तय **इति** निष्टप्तँरक्षो निष्टप्ता अरातय इति वायव्येनाग्नेयेन च तेजसा त्वां समनज्मीति निनीय तैरष्टभिर्धर्मान्तैर्नामभिः खड्गेऽष्टसु स्थानेषु गन्धाक्षतपुष्पाणि निक्षिपन्ति उभयत **इत्येके** द्विदलो द्विधाधारश्चेच्चतुस्त **इत्येके**।
 
 असिर्विशसनः खङ्गस्तीक्ष्णधारो दुरासदः।  
 श्रीगर्भो विजयश्चैव धर्मपालस्तथैव चेति॥
 
  एषो वै कालस्य प्रतीकं यत्खङ्गस्तस्मादेतस्मिन्नर्चितेऽर्चितो भवति चिद्भिन्नो जडो जडभिन्नश्चैतन्यं सर्वेषां जडानामधिष्ठात्र्यो देवता भवन्ति देवता वै जीवास्तैस्तैर्योगैस्तत्तदधीश्वरत्वं प्राप्नुवन्ति यथा वाऽपां वरुणः। तत्खङ्गं तत्सरौ धृत्वा अस्य स्वर्गाय लोकाय छिनद्मि एनं ग्रीवायामस्य देहं प्राणैर्वियोजयामि तीक्ष्णधारेण हुं फट् स्वाहेति सकृद्धातेन हस्ताभ्यां हस्तेन वा घातकश्छित्त्वा पात्रे रुधिरमानयेत् मुण्डं च तस्मिन् रक्तचन्दनं काश्मीरं वोदकं कर्पूरं दुग्धं दधि वा पुष्पं च निक्षिप्य हस्ताभ्यामाच्छाद्य **ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे** इत्यभिमन्त्रय देवताग्रे निधाय कालीगायत्र्या तत्तद्गायत्र्या वा संपश्य संभुङ्क्ष्वेति वा समर्पयेत्समर्पणं जलोत्सर्गे दीपं मुण्डे प्रज्वालयेत्कर्पूरं वा चतुष्पादस्य लोम्ना धूमप्रिया भवन्ति तस्मात्तेभ्यो धूमं निर्गमयेत् प्रज्वाल्यैवं तस्मिन्शान्त्यै ज्योतिषि आकाशाग्नौ रुधिरं मुण्डं च बल्यभागेभ्यो रुधिरमुण्डादिदेवतोच्छिष्टभागेभ्यो य ईश्वरार्थं दीक्षिता जीवात्मानस्तेभ्यो यदर्थं दीक्षिता ईश्वरास्तेभ्यः स्वाहेति हुत्वा रुधिरतिलकी स्यात् यो वै एतत् रुधिरतिलकी स्यात्स देवतामेव वशीकुरुते वा स्वेष्टं तस्मात्तत्तिलकी स्यात् तच्छरीरं गर्ते निधाय पांसुभिः संपूर्याज्ञातामिवं भूमिं कुर्याद्यस्तस्यां मनुं जपति स सिद्धमनुः सम्पद्यते वा तच्छरीरं ग्रामादुत्तरतस्त्यजेद्वा सायं स्मशानभैरवाय स्वाहेति एकामाज्याहुतिं हुत्वा एकश्चेदग्निः, अग्नित्रयं चेदेतामेव त्रिष्वग्निषु होमशेषं समाप्य च काष्ठैः पुरुषकबन्धं चेत्पुरुषचितां पशोश्चेत्पशुचितां कृत्वाऽग्निनाऽग्निभिर्वा दग्ध्वा तद्धूमतो धूमेन देवतादर्शनीयः सम्पद्यते सहैव धूमेन स्वर्गं लोकमेति देदीप्यमानस्या**ग्नेराउ**ष्णत्वं प्रदेशे जपन्मनुः सिद्धः सम्पद्यते सोऽग्निर्यदोपशाम्येत्तद्वदग्निं पुनः प्रणीय दहेदेवमावृतौ **यावत्तद्भस्म स्यात्तावत्पूजाविरामो न विसर्जनं नियमाश्चैते भवन्ति यजमानस्य** स्वल्पाशनं स्त्रीसङ्गवर्जनं मूत्रपुरीषोत्सर्गयोः स्नानं निद्रायामाचमनं अशुचिस्पर्शने स्नानं **एते नियमाः सात्रिकाणामपि भवन्ति** यद्येतेन विधिना प्रोतं सत्रं स्याद्यस्माद्वा सत्रे यजमानाः सर्वे ऋत्विज इत्यस्थिमात्रावशेषे भस्मनि शीतलेऽस्थीन्यादाय पुनः श्वेतादग्निं प्रणीय तान्यस्थीनि दुग्धेन दृषदुपलाभ्यां दध्ना वा संपिष्ट्वा पिण्डं कृत्वा मधुनाप्लाव्य गोधूमपिष्टेन वा माषपिण्डेन वा संमिश्रय पिण्डं वस्त्रेणावेष्ट्य तेनाग्निना दग्ध्वा यद्यस्थीन्यवशिष्टानि स्युः पुनरेवं भस्ममात्रावशेषे शीतले भस्मनि श्मशानकालिकोपासको भस्म तत्षट्सु स्थानेषु धारयेद्विजिगीषवश्च ये स्युस्तेऽपि धारयेयुः समण्डलां देवतामभ्यर्च्य विसर्जयेदेष बलिदान—
-
-
 
 विधिर्वा तच्चर्मणो योगेन भोगं कुर्वीते**त्याकाशभैरवो** यथाकथञ्चित्खङ्गेन यद्धिस्रान्हिनस्ति स्वापराधकान्वा तत्कालिकेयो बलिः सम्पद्यत **इत्युन्मत्तभैरवो** वा यथाकथंचित्खङ्गेन देवतापुरतश्छेदयेद्बलिं **एष बलिदानविधिः**॥६॥
 
@@ -3865,13 +3598,9 @@ Baroda,
 
  अश्मभिः सुधया च देवतालयं सम्पाद्य देवताप्रतीकं अश्ममयं तैजसं वा ब्राह्मणेभ्यः स्वस्ति वाचयित्वा वास्तुदेवताभ्यश्च हुत्वा **दाक्षिणो** दुग्धेन प्रतीकं यदवयवकरणे लौहैष्टङ्केश्च शिल्पिभिः कृता तस्मादेतस्मान्निर्हरामि दोषं दुग्धेन शीतेनाप्याययामि शुचिं च तेजसा समञ्जयामीति प्रक्षालयेद्देवमाभरणायुधवाहनशक्तिप्रतीकानि तस्याश्चैतानि **वामी** चेदाद्येन शोधितेनाद्येन दुग्धोत्तरत ऊहे**दित्युन्मत्तभैरवो** दुग्धस्थान **इत्याकाशभैरवः** स्थितान्यासीनानि वाहनासीनानि वा प्रतिष्ठापयेत्प्रतिष्ठितायां देवतादक्षिणतोऽव्यवहितं वाहनं वा मुखं देवतायाः शक्तिर्देवतावामतो दक्षमुखी तस्या वामतो वाहनं देवतावाहनमुखमेवं भवति स्थिरां प्रतिष्ठां यदि कामयीत स्थिरां चिराय प्रतिमां प्रतिष्ठापयामि न्यसामीति वा सुधया वान्येन प्रकारेण न्यसेद्यथा न चलिता स्यात्सावयवानि मनोहराणि तत्तद्ध्यनलक्ष्माणि स्थिरप्रतिष्ठाप्यानि भवन्ति नो इतराणि प्रतीकानि भवन्ति चरप्रतिष्ठाप्येवं विशेषस्तु चरा चिराय प्रतिष्ठापयामि न्यसामीति वासने न्यस्यैषा चरा भवति विशेषार्चनेनार्चयित्वाग्नीनग्निं वा प्रणीय हुत्वा पृथ्वीभ्यः स्वाहा अद्भ्यः स्वाहा तेजोभ्यः स्वाहा वायुभ्यः स्वाहा दिग्भ्यः स्वाहा कालेभ्यः स्वाहा आकाशेभ्यः स्वाहा स्थिरायै प्रतिष्ठायै स्वाहेति स्थिरायां चरायै प्रतिष्ठायै स्वाहेति चरायां यावन्ति प्रतीकानि भवन्ति पृथक् पृथक् तावन्तः प्रतिष्ठाहोमा भवन्ति होमशेषं समाप्य पारानन्दोऽर्चनान्ते देवतां समण्डलां विसर्जये**त्प्रतीकानि द्विविधानि भवन्ति प्रतिष्ठया प्रतिष्ठापितानि विसर्जितदेवताकान्यपि पूज्यानि** वन्द्यानि सन्तिष्ठन्त्येव तानि किमुतावाहितदेवताकानि सम्पूज्यानि वन्द्यानि भवन्तीति शालिग्रामशिलादिषु न प्रतिष्ठा व्यक्तावयवा कृता चेद्यथाध्यानं शालिग्रामशिला तस्याः **प्रतिष्ठेत्येके** प्रतिष्ठापितधर्मा भवन्ति शालिग्रामशिलादिषु पार्थिव्यादिषु कृतासु प्रतिमासु अप्रतिष्ठापितासु आवाहिता देवता चैतानि वन्द्यानि पूज्यानि सम्पद्यन्ते तानि विसर्जितदेवताकानि अवन्द्यानि अपूज्यानि सम्पद्यन्ते न पुनस्तत्रावाहनयोग्य**तेत्येके** देवतागारस्य त्रीणि द्वाराणि भवन्ति पुरस्ताद्दक्षिणत उत्तरतस्तेषामग्रतः सभास्थलानि भवन्ति सहस्रहस्तमितः सर्वतो देवतागारगर्भो भवति द्विगुणानि सभास्थलानि भवन्ति तदर्धस्तदर्धस्तदर्धतो यथासंभवं वा तत्परितः परिध्यगाराणि स्तम्भतोऽवच्छि**न्नान्येक** इच्छन्ति। **अथ कृताकृतं** देवतागारपरितः पुनः साम्राकरवीरपलाशोदुम्बरबिल्ववंशवटाश्वत्थखदिराद्यान्वृक्षान्महतो रोपयेद्यथासंभवं तडागान्वापीकूपांश्च खानयेत् प्रवृद्धोद्भूतजलाज्जलाशयान्दीनातिथिपरमहंसरुग्णानां च वासाय यथायोग्याः शाला रम्याः कारयेत् रुग्णानामर्थाय औष—
 
-
-
 धादि वितरेद्ये तं तत्र तथा प्रकल्पयन्ति एवं तत्तदर्थिभ्यस्तत्तद्दातॄन् एतद्रक्षार्थं शोधनार्थं संमार्जनादिभिः शूद्रांश्च प्रकल्पयेदन्नाच्छादनदानाद्यैर्भृत्यानेतस्य सर्वस्य परितो देवतागारस्य सिद्धये दृढकुड्यविशेषं प्रकल्पयन्ति वास्तुशास्त्राद्विशेषोऽनुगन्तव्यो मनोहरत्वादिर्भूमिपरीक्षणादिबलिदानैः प्रचरन्ति ब्राह्मणभोजनैः सहस्रनामहोमैः स्वाहान्तैर्नामभिर्महद्भिरुत्सवै रुधिरहोमैरिति कृताकृतं निःशक्तिकां निर्वाहनां प्रतिमां प्रतिष्ठापये**दित्युन्मत्तभैरवो** निरायुधामिति **ज्ञानानन्दो ब्रा**ह्मण एव प्रतिष्ठया प्रतिष्ठापयेन्न क्षत्रादि**रित्येके** **ए**वं प्रतिष्ठापयति वा यथाकथञ्चित्सोऽश्नुत आनन्त्यं ऋतेऽवयवभ्रंशाद्देवताप्रतीकं न लौकिकं सम्पद्यते **इत्युन्मादानन्दो** लौकिके तस्मिन्जाते सति पुरुषद्वयमितां खनित्या भूमिं तस्यां तं निक्षिप्य पांसुभिः पूरयित्वा तां भूमिं पद्यायोग्यां प्रकल्पयन्ति देवतागारे पुनः प्रतिष्ठया प्रतिष्ठापयेद्द्वितीयं प्रतीकमागारं च जीर्णं नवमिव प्रकल्पयन्ति वास्तुहोमेन च प्रचरन्ति॥८॥
 
 **इति पारानन्दसूत्रे उत्तराध्याये प्रथमाह्निकम्॥**
-
-
 
 **पारानन्दसूत्रे द्वितीयाह्निकम्।**
 
@@ -3894,8 +3623,6 @@ Baroda,
  ब्राह्मणः शिरसो हृदयस्य वा क्षत्रियो बाह्वोः कण्ठस्य वा वैश्य ऊर्वोरुदरस्य वा ललाटस्य शूद्रोऽसृग् दद्याद्बलिदानविधिना वा मार्जयेत्स्वगात्ररुधिरेण देवताप्रतीकं वा नैवेद्यनिवेदने रुधिरं निष्कास्य द्विराचामेत् स्वधितिमवलम्ब्य दक्षिणहस्तेन स्वधितिरसि देवानां त्राता असि वनानां छेत्ता असि रुधिरपोऽसि प्रियकृद्देवानां धर्मपोऽसि यथा वा उच्छिष्टं वत्सस्य स्तन्यं तस्माद्यत्पयस्तदेवता गृह्णन्ति एवं त्वदुच्छिष्टं रुधिरं देवतास्तस्मात्स्वधिते मा मा हिंसीरिति स्वधितिं गृहीत्वा वामेन पाणिना तृणं दूर्वांं वा गृहीत्वा अमृतमसि सोमोऽस्याप्यायितासि देवानामोषधे त्रायस्व मामिति तृणान्तर्हितां त्वचं **कृत्वा हुंफडिति** रुधिरं निष्कास्य पात्रे ईषच्चैतज्जलेन संमिश्र्य सावित्र्या गायत्र्याऽभ्युक्ष्याभ्युक्ष्य तद्विनियोजयेदि**त्येष स्वगात्राग्बलिविधिः**॥१७॥
 
  **वामी** स्त्रियमभिमृशति स्त्रीरसि देवतानां प्रेयस्यसि श्रीरसि यूनां अरणिरसि मनुष्याणामिति तां दृढमालिङ्गय संचुम्ब्य च मुखं स्वीयमुत्थितलिङ्गं नवनीतेनालिप्य भगं निर्मन्थेद् यदि वा सा पूर्वं स्रवेत् रजसा वा उद्रिक्ता स्यात् तदा तत्रैव स्वीयमपि बीजमुत्सारयेत्। आचान्तः शुचिर्भगं गन्धाक्षतपुष्पैरभ्यर्च्य तस्माद्दर्व्या पात्रस्थे घृते निष्कास्य तद्धृतेनापूर्य स्थण्डिले देवताप्रतीकाग्रतो रमिति वह्निं प्रदीप्य बलिरसि देवतानामिति वह्नौ निनयेत्॥१८॥
-
-
 
 देवतां विसर्जयित्वा च विरमेत्॥१९॥
 
@@ -3934,8 +3661,6 @@ Baroda,
 स्वगात्रेषु स्वेष्टदेवता चिह्नानि चिह्नयति मृत्तिकयान्येन वा तथाभूत्वोक्तवत्॥३५॥
 
 अयनं य एवं विदधाति०॥३६॥
-
-
 
 तथाभूत्वोक्तवत् दिव्यसहस्रनामपाठम्॥३७॥
 
@@ -3976,8 +3701,6 @@ Baroda,
 
 होमादि **त्र्यङ्गमिति कालभैरवः**॥५५॥
 
-
-
 मार्जनतर्पणाभ्यां **द्व्यङ्गमित्याकाशभैरवः**॥५६॥
 
 प्राणायामान् दश वा तत्तद्वयःसंवत्सरसंख्याकान्कुर्यात्॥५७॥
@@ -3996,8 +3719,6 @@ Baroda,
 
 ॥६३॥
 
-
-
 काल्यै सिन्दूरं रक्तचन्दनान्यतरं भाले दत्त्वा स्त्रियमानीय तया मैथुनं सम्पाद्योच्चलितशुक्रो लिङ्गं भगान्निष्काश्य पात्रे सजले शुक्रमुत्तार्य तत्सुगन्धिपुष्पैः प्रकीर्य यवपिष्टेन जपया रक्तचन्दनेन च आमिश्र्य पाणिनाच्छाद्य यत्त्वं तदहं यदहं तत्त्वमिति स्वयंभूपुष्पतर्पितामीश्वरात्मानं परमात्मभक्तां जीवात्मोपास्यां स्मशानवासिनीं तर्पयामीति जले स्थण्डिले वा कुशानास्तीर्य निनयेत्॥६४॥
 
 य एवं विदधाति०॥६५॥
@@ -4010,8 +3731,6 @@ Baroda,
 
  तरुणीमर्थपत्नीं कामपत्नीं वा धर्मपत्नीं वेति कश्चिदानीय रजस्वलां यस्मिन्वाऽहनिस्रुतं भवति रजस्तत्प्रथमोऽहः उदयं उदयात्सवितुस्तावदेव रजस्वला स्यात् स प्रथमाहोर्चान्ते पात्रे जलदूर्वागन्धपुष्पाक्षतैः संमिश्र्य सावित्र्या गायत्र्या चाभिमन्त्र्य तदुद्धृतेन तां प्रोक्षयति। यथा त्वं भगोऽसि भ्राजमानोऽसि रजसा एवं मां विद्यया वज्रसन्नहनेन बलेन
 
-
-
 हरामीति रक्तचन्दनेन लाक्षारसेनोक्षितं दत्त्वा तत्पश्चादुपविश्याष्टोत्तरशतं जप्त्वा अदर्शनः खेचरोऽमितगतिः सम्पद्यते॥७५॥
 
  जपान्ते पूजान्ते वा चमसान्पूरयति। प्रथमं त्वा चमतं देवतातर्पणाय जुष्टं लाक्षारसमाक्षिकाभ्यां संपूरयामीति ताभ्यां संपूर्योत्तरतो निदधाति। एवं द्वितीयं तृतीयं चतुर्थं पञ्चमं षष्ठं लाक्षारसमद्याभ्यां लाक्षारसदुग्धाभ्यां लाक्षारसेन सुरया दुग्धेन ऊह्योद्दिश्य पूरयेत् षट् पात्राणि। तरुणीमरोगां वेश्यामानीय अनुलेपनोन्मर्दनाभ्यां संस्कृत्य स्नापयित्वाऽऽच्छाद्याऽङ्कृत्य हास्यविनोदाभ्यां कामं रतिं चावाहयेद्रत्यै रतिमावाहय इति तस्या मूर्ध्नि रक्तपुष्पं न्यसेत्कामाय काममावाहय इति। स्वमूर्ध्नि तदेवं न्यस्य पाणिना नग्नाया भगं परामृशति। भगस्य भगमसीत्येव वा लिङ्गस्य लिङ्गमसीति दृढमुत्थितं लिङ्गं भगस्याश्रयावस्थ इति कुचौ परामृश्य भगमालभ्य शोणितशुक्राभ्यां शुक्राय योनिक्षालनतोयाय च त्वा जुष्टं निर्मथ्नामीति भगे लिङ्गं निवेश्य सुरतोत्सवं सम्पादयेद्यदि वायं शीघ्रं द्रवेत्का तत्र **प्रायश्चिन्तिरि**ति निष्कासयन् लिङ्गं रते शोणितमसीति लाक्षारसमभिमन्त्र्य भगे प्रत्यस्येदुत्तारिकायां नलिकायां तर्जन्या लिङ्गोपरि अङ्गुष्ठेनैवं धृत्वा भगात्तदमृतं गृहीत्वा सजले पात्रे तेन चतुर्थं पूरयेदुत्तारिकास्तेन सजलेन शुक्रेण पञ्चमं भगक्षालनतोयेन षष्ठं पूरयति। परात्मभक्तां कालीं तर्पयामीति प्रथमं निनयेत्। स्थण्डिले आस्तीर्णे कुशेषु प्रागग्रेषु उदगग्रेषु वा ईश्वरात्मानं कालीं तर्पयामीति द्वितीयं जीवात्मभजनीयां कालीं तर्पयामीति तृतीयं भगलिङ्गामृतप्रीतां कालीं तर्पयामीति चतुर्थं शुक्रोत्सवां कालीं तर्पयामीति पञ्चमं भगलिङ्गक्षालनतोयतृप्तां कालीं तर्पयामीति षष्ठं निःशेषान् सर्वान् सावशेषान् तत्पिपीषुर्जीवन्मुक्तो यदि क्रमशो गृह्णाति सत्येन त्वा तेजसाऽमृतायाऽमृतं संगृह्णामीति प्राश्नीयात्स्वप्ने तु दर्शनं तस्या अर्धसिद्धिरुदाहृता। तस्मादर्धसिद्धस्तान् पिपीषेदि**त्येके।**
@@ -4020,8 +3739,6 @@ Baroda,
  यथाकथंचित्सुरतं सम्पाद्य तदासक्तः कालीं ध्यायति मनुमसंख्यं जपन्मुक्तकेशो नग्नः सोऽचिराद्योगीश्वरः सम्पद्यते॥७७॥
 
  श्मशानं गत्वा ब्रह्मक्षत्रवैश्यशूद्रान्यतमे शवे जाज्वल्यमाने तदसंभवे तत्र कालीमिष्ट्वा बलिं छित्त्वा शिष्टमसृक् श्मशानस्येभ्यो भगवन्महारुद्रपूर्वकेभ्यो भूतप्रेतपिशाचेभ्यो ददामीति दिशि निनयेत्। यदि मनुष्यश्छिन्नः स्याच्चेदुत्तरस्यां तदन्यो भूचरश्छिन्नः स्याच्चेद्दक्षिणस्यां तदसृक् नीरचरो वा एवं पश्चिमस्यां खेचरो वा एवं पूर्वस्यां एवं तस्मिन्जाज्वल्यमाने बलौ तरुणीमारोग्यशालिनीमानीय रतिं कामं चाहूय भगमन्थनं कृत्वोत्तारिकाया लिङ्गं धृत्वोत्तरतो घृतमिश्रे दधनि गलितं वीर्यमसीति तस्मिन्वीर्यं निक्षिप्यादित्यं दृष्ट्वोर्ध्वं तां वस्त्रान्नधनैः संतोषयेत्कालीं प्रपद्ये खङ्गवरौ प्रपद्ये मुण्डाभयौ प्रपद्ये मुण्डमालाकुण्ड—
-
-
 
 लमण्डलानि प्रपद्ये सिंहं प्रपद्ये कुरुकुल्लां प्रपद्ये कुरुकुल्लासिंहं प्रपद्ये कालिकेयान्प्रपद्ये, जीवात्मानुग्रहामीश्वरात्मानं परात्मानुरक्तां प्रपद्ये, वर्धनं श्मशानस्थं प्रपद्ये त्रिशूलं च प्रपद्ये कपालं च प्रपद्ये पार्वतीं च प्रपद्ये वृषभं प्रपद्ये पार्वतीवृषभं प्रपद्ये भूतप्रेतपिशाचांश्च प्रपद्ये इति वाचयेत्ततस्तां विसर्जयेदेतेनैव योषामसंस्कृतां शोधयति तस्मादेष योषाशोधनमन्त्रः। **स्वयं चैनं** जपेद्भक्तोऽर्कपुष्पसहस्रं वामतो निदध्याद्दक्षिणतो वा अग्नौ नग्नोऽलङ्कृतो मुक्तकेशस्तामुद्दिश्य तेन दध्ना संमिश्र्याग्नौ जुहोमीत्येतेन सा प्रीणात्वित्युद्देशस्तस्मात्प्रतिपुष्पं मन्त्रमुच्चार्य तस्मिन्नग्नौ निक्षिपेत्स स्वैरचरः सम्पद्यते॥७८॥
 
@@ -4059,8 +3776,6 @@ Baroda,
 
 **केऽप्य**ध्वरम्॥९३॥
 
-
-
 अर्चनं **केचित्**॥९४॥
 
 स्वाध्यायं **केचित्**॥९५॥
@@ -4075,8 +3790,6 @@ Baroda,
 
 —————
 
-
-
 **पारानन्दसूत्रे तृतीयमाह्निकम्।**
 
 ** **
@@ -4089,8 +3802,6 @@ Baroda,
 
  यां देवतामुपास्ते तस्या देवताया वयःसंवत्सरसंख्यासंख्यातवयोरूपवत्त्वमि**त्येके द्वादशाब्दिकवग्नोरूपवत्त्वं सर्वेषामिति कालभैरवः** षोडशाब्दिकभिति **आकाशभैरवः** कोटिकन्दर्पसौन्दर्योपमेयसुरूपत्वं अद्भुतसुगन्धवत्त्वं अनुद्भूतलोमश्मश्रुवत्त्वं अप्रवृद्धकेशनखवत्त्वं अप्रवृद्धभ्रूयुगपक्ष्मयुगलोमवत्त्वं अकार्यव्यङ्गवत्त्वं कोटिवायूपमेयबलवत्त्वं निरामयत्वं स्वेदमलोज्झितत्वं अचिन्त्यकर्तृत्वं मनुष्यगन्धर्वैः सेव्यत्वं देवैर्वे**त्येके**। वर्णश्च श्वेतमिश्रः कृष्णो **वैष्णवानां** श्वेतः **शैवानां** श्वेतमिश्ररक्तः **शाक्तसौर्यगाणपा**नां गोक्षीरधाराधवलामिषासृग्वत्वमि**त्येके नैक** इच्छन्ति। परितो गव्यूतिमात्रे तस्य सर्वप्राणिनां सर्वभाषाविज्ञानं तेषां शब्दो मन्दगभीरः सुखश्राव्योऽकठोरः सन्निहितासन्निहितातिसन्निहितसमश्राव्यो भवति। नेच्छन्त्येत**देके**। भक्तपरितः क्रोशानां शतमुत्सृष्टवैराः प्राणिनः परस्परं भवन्ती**त्येके ब्रह्मवादिन आमन**न्ति। **परितः क्रोशमात्रमेके**। व्याघ्रादयोऽश्वादयः शूराश्च स्वस्वेष्टेश्वरायुधमेकमभीष्टमेतस्यैतद्दक्षिणां सोर्ध्वत आकाशे प्रतिभासयन् दिशः प्रतितिष्ठति हेतोर्गृहीतमेव भवत्येतेनोत्सृष्टं पुनस्तद्वत्खेगामित्वं। द्वौ मनुष्यगन्धर्वौ परिचारकावेकश्छत्रधारी मृगेन्द्रासनधारी तथान्यः। सर्वत्रगमनं अपि कीटतिर्यञ्चामप्रवेश्ये। परितः पृथ्वी समा निष्कण्टका निर्मला निर्मलजलं तदधः सैकती भूमिरुत्तरतोऽनुकूलो वातो मन्दः सुगन्धः सुशीतल उत्तरतो जलायतनमुद्बाहुपुरुषमितमुद्बाहुपुरुषद्वयमितं दीर्घं तज्जलं पवित्रं गम्भीरं तस्मिन्प्रवाहवत्पश्चादुद्भूतं पुरस्ताच्छान्तं भवत्यव्याहतेच्छो भवति श्रुतितन्त्रस्मृतीश्च सर्वा वेत्ति सर्वं पदार्थमात्रं सोपक्रमं सपराक्रमं सलयं वेत्ति तस्मात्सर्वज्ञो भवति। सकृच्छकृतां मूत्रस्य च प्रवृत्तिर्भवति नैनं क्षुधा बाधते न तृषा निद्राऽज्ञानयोश्चान्त्यतो लयः सम्पद्यते। अस्य रेतः प्रजामनुत्पादयति तस्मान्मोघवीर्यं भवती**त्येके**। वादिनां शिष्यताप्राप्तिः शत्रूणां दासता तथा स्यादाढ्यानां मत्तानां
 
-
-
 नम्रता भवति। अमितबलोऽयमिति **नारायणः**। अस्य देहोऽच्छेद्योंऽभेद्यः शस्त्रैरस्त्रैः। दोषमात्रराहित्यं पुण्यपापास्पृष्टत्वं जाग्रदेकावस्थत्वमीशैकाधीनत्वं च। यदहः प्रातर्व्युष्टायामुद्भवन्ति रात्रौ तानि तिष्ठन्त्यासङ्गवतः शारीरकाणि च सर्वदा। एतद्द्वयमन्त्यं विहाय सर्वाणि तदिच्छया देशकालाविशेषेण लक्ष्माण्यनुवर्तन्ते ततोऽनेन वेदितव्यं मयि स ईशः दीक्षितोऽभवदिति॥१॥
 
  इति ज्ञात्वैवाग्निमुपसमाधाय स्वेष्टायै देवतायै ईश्वरात्मने अमुकाख्यायै स्वाहेति मध्ये, अमुकादिभ्यो वा अमुकस्यामुकायुधाय स्वाहेति परितः, अमुकस्यामुकेभ्योऽमुकादिभ्यो वा भूषणेभ्यः स्वाहेति परितः, अमुकस्यामुकायै शक्त्यै स्वाहेति परितः, अमुकस्यामुकाय वाहनाय स्वाहेति परितोऽमुकस्यामुकायाः शक्तेरलंकारायुधवाहनेभ्यः स्वाहेति दक्षिणतोऽमुकस्याऽमुकस्य वाहनस्यालंकारेभ्यः स्वाहेति तद्वामतः अमुकस्याऽमुकेभ्योऽमुकादिभ्यो वा प्राप्तदिव्यसाद्यनन्तदेहेभ्यो भक्तेभ्यः स्वाहेति तत्परितः पुनर्नेत्येव**मेके**। पयसा जुहुयाद्घृतेन दध्ना वा तिलैस्तैलेन वा समिद्भिः पर्णैः पुष्पैः फलैर्वोदित आदित्ये स्नातोऽस्नातो वा रात्रिं षट्धा विभज्य पञ्चधा वा। ब्रह्मशक्तिविष्णुशिवसूर्यदन्तिन एतेषां क्रमेण प्रदोष आप्रातर्ज्ञेयाः **साक्षात्कारकाला** अनुवत्सरो **ब्रह्मणो,** **विद्याशक्तेः** परिवत्सरः, **शिवस्य** संवत्सरो, **विष्णोः** इद्वत्सरः, **सूर्यस्य** इलावत्सरो **दन्तिनः**। सर्वे वा सर्वेषां भवन्ति सव्यायनमपसव्यायनमि**त्येके**। वसन्तः **शक्ते**र्ग्रीष्मः **सूर्यस्य** वर्षा **ब्रह्मणः** शर**द्विष्णो**र्हेमन्तो **दन्तिनः** शिशिरः **शिवस्य** वसन्तः सर्वेषामि**त्येके**। **सर्वे वा सर्वेषां**। सप्तमी **ब्रह्मणो** नवमी **शक्ते**र्दशमी **विष्णो**रेकादशी **शिवस्य** द्वादशी **सूर्यस्य** षष्ठी चतुर्थी वा **गणेशस्य** यानि लक्षणान्याविर्भवन्ति तैरेवायमणुर्महान्भवति गुणतो यथा वैत ईशाः परात्मानो मध्यमपरिमाणा महाँश्च आकाशादिभ्यो महान्भवत्यजडत्वादेतेषां। एते आकाशादयो जडा महत्परिमाणा अप्यजडान्नीचा भवन्ति तस्मादेषोऽणुरपि जीव ईशो द्रष्टा यस्माद्भवति। आईशसाक्षात्कारादस्वतन्त्रोऽन्यैर्जीवैस्ततः स्वतन्त्रः जीवो नित्यः स्वतन्त्र ईशसाक्षात्कारात् प्रागपि किं तत इति। अत्र **ब्रह्मवादिनो** वदन्ति। जीवाः स्वतन्त्राः कर्मकरणे कर्मजन्यादृष्टफलभोग ईश्वराधीनास्ततः साक्षात्कारतः दुःखमीशाज्ञप्ता भोक्तुं प्रवर्तन्ते अदुःखितास्तत्कृपया। **इदमत्र समाधानमामनन्ति ब्रह्मवादिनः**॥२॥
@@ -4098,8 +3809,6 @@ Baroda,
 **इति पारानन्दसूत्रे द्वितीयाध्याये तृतीयमाह्निकम्।**
 
 **————**
-
-
 
 **पारानन्दसूत्रे चतुर्थमाह्निकम्।**
 
@@ -4117,8 +3826,6 @@ Baroda,
 
 **—————**
 
-
-
 **पारानन्दसूत्रे पञ्चममाह्निकम्।**
 
  **अथ प्रायश्चित्तक्रमं वक्ष्यामो** निषिद्धाचरणे प्रायश्चित्तं येनादृष्टेन सम्पादितेन नष्टदुःखः सम्पद्यते तत्प्रायश्चित्तमित्युच्यते। प्रायश्चित्तान्युपवास—प्राणायाम—स्वाध्याय—स्नान—दानादिरूपाणि कर्माणि प्रायश्चित्तादृष्टजनकानि। **पारानन्दो** राजा अदण्ड्यान्दण्डयेत्का तत्र प्रायश्चित्तिरिति त्र्यहमुपवसेदेषा प्रायश्चित्तिर्निषिद्धाचरणे प्रायश्चित्तिर्न विहिताऽनिषिद्धाचरणे प्रायश्चित्तिरनिषिद्धाचरणे तु न पापं विहिताचरणेऽभ्युदयस्तस्मात्प्रायश्चित्तस्य विहितत्वात्ततोऽप्यभ्युदय इ**त्युन्मत्तभैरवः**। तस्मात्प्रायश्चित्तक्रमं वक्ष्यामः॥७॥
@@ -4128,8 +3835,6 @@ Baroda,
  **पारानन्दो** राजा यद्यन्यधर्मान्मतान्युच्छेदयेद्यद्यसम्राट् स्यात्तर्हि मतानि तद्धर्मांश्च संस्थापयेत्स्वमतेऽधिकं ततो न्यूनमास्तिकमते ततोऽपि न्यूनं नास्तिकमते इति सम्पादयेन्नैवं यदि कुर्यात्का तत्र प्रायश्चित्तिरिति एकाहमुपवसेत्कायिकं वाचिकं मानसिकमिति त्रिधा पापं। तत्र नाभ्यधःकृतं कायिकं पद्भ्यां गोब्राह्मणादिवन्द्यप्रहरणं यदि कुर्यात्का तत्र प्रायश्चित्तिर्व्युष्टायां वसन्ते शरद्यनभ्रे आकाशे वा पञ्चक्रोशेभ्योऽधिकप्रदेशे यत्प्रवहज्जलं तीर्थं स्यात्तत्पद्भ्यामेव गत्वा तस्मिन्नाप्लुत्य शुचिर्भवति। एष पापी त्रिभिः शुध्यति राज्ञो दण्डेन, परत्र सादिसान्तदुःखभोगेन, प्रायश्चित्तेनेति। यदि मतविरुद्धमाचरेत् का तत्र प्रायश्चित्तिरिति पुनर्दीक्षां समाचरेत् यदि मतविरुद्धं भावयेद्भूतशुद्ध्यादिकं का तत्र प्रायश्चित्तिरिति पुनर्भावनामयीं दीक्षां कुर्यात्पुनर्दीक्षायां गुरोर्न किंचिदन्यं सर्वं समानम्। दीक्षानियमेषु येषामसंभवस्तदकरणान्न दीक्षान्यौन्यं योऽधिकया दीक्षया दीक्षितः श्रेष्ठो भवति तस्मात्तमभिवादयेत्तमभिवाद्याऽग्रह्वः स्याच्चेत्का तंत्र प्रायश्चित्तिरिति स्नात्वा प्राणायामशतं कुर्यात्ततः सर्पिरश्नाति यत्स्नाति तदधं धून्वति, यत्प्राणानायमति तदप्रह्वत्वजाड्यमेव धून्वति, यत्सर्पिरश्नाति तदात्मानं तेजस्विनमेव कुरुते, यद्वा तमेव प्रह्वो दण्डवत्प्रणिपतेत्प्रणिपत्य तं ब्रूयाद्यदहं प्रमत्तोऽनभिवादयं तदेनश्छिन्धि प्रसन्नः पुष्टिं प्रसन्नतां मयि धेहीति। संभवत्यङ्गे यदङ्गन्यौन्यं तदङ्गमात्रावृत्तिरानित्यनिवर्तनप्रारम्भात्प्रारम्भे न्यौन्यं पूर्णं सम्पद्यते। **दीक्षितः सन्नदीक्षिताय शिष्याय मन्त्रमुपदिशेच्चेत्पुनर्दीक्षा। दीक्षिते आश्रमान्तरं प्रविश्य पुनर्दीक्षा। गुर्वन्तरं गत्वा पुनर्दीक्षा**॥९॥
 
  प्रायश्चित्तमेवं भवति यदेनसः फलद्वयमप्युच्छिनत्ति तत्ततोऽमोघं सम्पद्यते यथा प्रायश्चित्तेनैनो मोघं सम्पद्यते तथा केनचिदघेन पुण्यमपि मोघं भवति नत्वैश्वरधर्मजं
-
-
 
 केनचिन्निवार्यं अदृष्टं एतद्द्वयोर्निवर्तकं सकृत्कृताज्जातमनन्तफलदं तस्माद्विद्वांस्तत्संचिनुयात्॥१०॥
 
@@ -4145,19 +3850,13 @@ Baroda,
 
  यथा यथा बागपराधः स्याज्ज्यायान् लघुर्वा तथा तथा ब्रह्मयज्ञः प्रायश्चित्तं कायापराधेषु सर्वेषु यज्ञाः प्रायश्चित्तीयाः प्रायश्चित्तं मनोपराधेषु सर्वेषु तथा तथा प्राणायामाः
 
-
-
 प्रायश्चित्तं धनाद्यपराधेषु तथा तथा पात्रेषु दानं वा तथा तथा राजदण्डस्य स्वीकारः प्रायश्चित्तम्॥१६॥
 
  तीर्थाभिगमनं वा एकविंशतिरुपवासानामाचरणं सर्वप्रायश्चित्तं उपवासश्चानशनं जलमात्राशनं वा एतस्य कृतस्य एतेन कृतेन फलं नोद्भविष्यति इति ज्ञानं मुण्डनं प्रति वृद्धानां लोम्नां भ्रूयुगपक्ष्मरोमाणि विना शिखावर्जं केशानां श्मश्रूणां च मुण्डनं बृद्धानां स्नानाचमनाङ्कनानि **प्रायश्चित्तमात्रस्य पुरस्तात्पश्चाच्चैतान्यन्वितानि भवन्ति**॥१७॥
 
- 
-
 यस्मिन्नहनि प्रायश्चित्ताचरणं तस्मात्षष्ठेऽहनि मुण्डनाद्याचरणमिति पश्चाद्भवति
 
 ॥१८॥
-
- 
 
 इति प्रायश्चित्तक्रमो व्याख्यातः
 
@@ -4166,8 +3865,6 @@ Baroda,
 **इति पारानन्दसूत्रे उत्तराध्याये पञ्चममाह्निकम्॥**
 
 —————
-
-
 
 **पारानन्दसुत्रे षष्ठमाह्निकम्।**
 
@@ -4190,8 +3887,6 @@ Baroda,
 तेऽपि पूर्ववत्॥२८॥
 
  देवाख्यो देवदेवाख्य इति द्वावृषी मामागत्योत्तराचारिणौ भविष्याव इति ताभ्यामुत्तराचारमहमपि प्रायच्छं तावापन्नोत्तराचारौ व्रजतुर्यथेच्छं तेऽपि पूर्ववत्॥२९॥
-
-
 
  समर्थोविद्वानर्थीति त्रयो वै ऋषयः समाजग्मुस्ते पूर्वं दक्षदीक्षिता अभवंस्ततो वामिनस्तत औत्तरास्तेऽपि पूर्ववत्॥३०॥
 
@@ -4218,8 +3913,6 @@ Baroda,
 
 विहिताऽविहिता वापि हिंसा याऽनपराधिनाम्॥  
 सर्वथा दुःखदा पश्चात्तस्मात्तां परिवर्जयेत्॥३९॥
-
-
 
 एकामहिंसामाश्रित्य यः कुर्यादघपर्वतान्॥  
 सोऽघाचलान्शुचीन्सर्वान् कुरुतेऽहिंसया नरः॥  
@@ -4255,8 +3948,6 @@ Baroda,
 **सर्वेषां पशूनां गोधूमपिष्टम्**॥४९॥
 
 **रक्तचन्दनोदकं लाक्षारसोदकं च सर्वेषां रुधिराणाम्**॥५०॥
-
-
 
 आम्लद्रव्ययुक्तं रक्तचन्दनोदकं रुधिरमिति दिग्भैरवः
 
@@ -4306,8 +3997,6 @@ Baroda,
 
 स तैः पूजितो **नारदो** दिवमाचक्राम॥७१॥
 
-
-
  एको ह वै राजा **खड्गप्रसिद्धाख्यः** पारानन्द आसीत्स ऐश्वरोऽयं धर्म इत्यनुंचिन्तयन् दण्ड्यान्दण्डयन्नेवापुनर्भवं जगामाकुर्वन्नेवान्यान्धर्मान्दीक्षितः शाक्तः॥७२॥
 
  **ऋष्यायणस्य** ब्रह्मर्षेः पुत्र **ऋषभाख्य** आसीत्स उपनीतः षोडशवर्षानन्तरमधीतवेदस्त्यक्तब्रह्मचर्यः पारानन्दो भवन् न चकाराध्यापनं याजनं प्रतिग्रहं पित्रानिरस्तो गृहादहन् पारानन्दब्रुवः पारानन्दं धर्म चकार किचित्पृष्टः केनचित्तदा शाक्तः पारानन्दोऽहमित्युवाच मात्रं सोऽचिरादेव श्रद्धापूतो जीवन्मुक्तोऽभवच्चचार देवतापार्श्वतः स शाक्तः कालिकेयः॥७३॥
@@ -4327,8 +4016,6 @@ Baroda,
 
  स सर्वं दातुं गुरवे गृहस्थं हिरण्यमुद्युक्तोऽभवत्तन्मातापितरौ प्रतिकूलौ बभूवतुस्तज्ज्ञात्वा स नाचिकेतः खङ्गेनोच्चकर्त तयोः शिरसी तदेतज्ज्ञात्वा गुरुः प्रसन्नोऽजीवयत्ता—
 
-
-
 वि**ति** दृष्ट्वा **प्रस्तरो** यो दीक्षितः स एवं चकारैनसा लिप्तोऽभवत्ततः स पारानन्द्या वैष्णव्या दीक्षया विधूतपाप्माऽभवत्॥७८॥
 
  **बलिर्वैरोचनि**र्वैष्णवो **विष्णवे** दातुं सर्वमुद्युक्तोऽभवत्तस्यान्तरायायाभवत्तस्य **गुरु**स्तं गुरुमदण्डयत्स्वदेवतार्थं जीवन्मुक्तो न स एनसाभ्यभवदिति दृष्ट्वा **प्रयूपः** स्वगुरुमजीवन्मुक्त एवमकरोत्स एनसा लिप्तोऽभवत्स पारानन्द्या दीक्षया सौर्या पुनर्विधूतपाप्माऽभवत्॥७९॥
@@ -4336,8 +4023,6 @@ Baroda,
  स्वाराध्येश्वरोच्छिष्टेनान्यान्परात्मना ऋत आत्मन यजेदृत ईश्वरात्मनश्चेत्येके नाविज्ञाततद्भक्तिमात्मानमुद्दिश्य यजेदित्या**हुर्ब्रह्मवादिनो ब्रह्मर्षयः पारानन्दाः**॥८०॥
 
  **यमपराक्रमाख्यो** राजाऽभवत्कालिकेयः पारानन्दः कालिकेयान्धर्मान्प्रावर्तयतस्तस्य जीवन्मुक्तस्य यस्य सभास्था नगरस्थाः प्रायशः कालिकेया रक्तचन्दनलिप्ताङ्गा विलसद्धिरण्यमाला रक्तपुष्पमालास्तीक्ष्णधारधराः शान्ताः पारानन्दाः स राजा वरुणमाह्वयत्। आहूतः स वरुण आजगाम तस्मै प्राहाऽऽनय वारुणीं सुरां कालिकार्चनायेति। आनीतां तेनेति दृष्ट्वा तस्मै प्राहोत्तमां किंचिन्मे देहीति तस्मै वरुणः प्राह सुरां परीक्षयेति। साभ्यपतद्धस्तात्पात्रं पात्रात्सुरां तस्याः प्रादुरभूवन्निक्षवो वरुणस्तेभ्यो रसं गृहीत्वा राज्ञे प्रायच्छत्सोऽभ्युवाचोत्तमेति **तस्मादैक्षवं सुरास्थाने सुराभावे दीयते** देवतायै सोऽर्चनं प्रावर्तयत तस्य संभाराः सुचन्दनोक्षिता रक्तपुष्पार्चिताः सर्वे रक्तचन्दनेनेषत्स्पृष्टः कुशः स वायुनेरितः पस्पर्श कंचित्पुरुषं स तं प्रक्षिपत्सोऽभ्यपतद्गलत्कुष्ठे स गलत्कुष्ठी दिव्यवपुस्तदैव दिवमाजगाम विज्ञायते एतद्विभ्रतो रक्तचन्दनानुलेपमाहात्म्यं विज्ञाय तस्य पुंसः कोनु वर्णयेन्माहात्म्यं तस्मादेतल्लेपं धारयेच्छाक्तो विद्वान्देवतागारे राज्ञोत्सृष्टे यथोक्ते विशेषार्चनायाहूतं चातुर्वर्ण्यं वेश्यामद्यभक्ष्याकुलं चक्रं समाप्य शान्तिं प्रपठेत् येऽस्य विघ्ना येऽस्य दुष्टा येऽस्य दुरिष्टयस्ते भैरवभ्रंशिता विलुठन्तु भूम्यां येऽस्य वा श्रद्दधानाः प्रभवस्ते भवन्त्वनार्ताः सन्तो भैरवप्रसादाद्विहरन्तु मनुष्यलोके अथो देवलोके प्रसन्नास्त्रिश्चतुर्वा यथासंख्यं वा प्रजपन्ति शान्तिमेनां शान्ताः सन्तस्ते विहरन्ति धीराः। अमृतत्वं योगिभिर्गम्यते यत् लभ्यते तैर्भक्तिपरैः सद्भिः शान्ति प्रपठद्भिरिति पुरस्ताच्छान्तिमर्चनस्य पश्चाच्चेत्यपि वा यत्किंचिदर्चने न्यूनमेतया पूरयति अन्यैः पारानन्दाविरुद्धैः प्रयोगैरर्चनं प्रयुञ्जीतापि वा वैतत्सूत्रोक्तमाचरेदपि वाह्निकोक्तमेवाचरेदपि वा प्रकरणोक्तमेवाचरेदपि चैकसूत्रोक्तमाचरेदपि वा पारानन्दः पारानन्दाविरुद्धं पारानन्दाविरुद्धेन वर्त्मना यत्किंचिद्भक्त्या प्रयुज्यते तेनायं सिद्धिमधिगच्छति **वामतो निवेदनं देवताया इत्येवाधिकं दक्षिणाद्वामे दक्षिणतो निवेदनं देवताया इत्येवाधिकं वामाद्दक्षिणेऽन्यत्सर्वं समानमित्येके मण्डलार्चनं लध्वेतद्यद्देवतावाहनं देवताशक्तिं देवताशक्तिवाहनं** तद्यथा लक्ष्मीगरुडो विष्णुगरुडो लक्ष्मीश्चेति **विष्णोर्मण्डलं**
-
-
 
 कुरुकुल्लासिंहः कालिकासिंहः कुरुकुल्लेति **कालिकायाः** पार्वतीवृषभः शिववृषभः पार्वतीति **शिवस्य** संज्ञाश्वः सूर्याश्वः संज्ञेति **सूर्यस्य** भैरवीश्वा भैरवश्वा भैरवीति **भैरवस्य** पुष्टिमूषको दन्तिमूषकः पुष्टीति **दन्तिनः** ब्राह्मीहंसो ब्रह्महंसो ब्राह्मीति **ब्रह्मणः** समर्चयति तत्तदीयस्तत्तदेवास्य तत्सम्पद्यते ॥८१ ॥
 
@@ -4347,13 +4032,9 @@ Baroda,
 
 —————
 
-
-
 **पारानन्दसूत्रे सप्तममाह्निकम्।**
 
 ** अथ राजधर्मक्रमं वक्ष्यामः** क्षत्रो देवताप्रसादाप्तामितबलपराक्रमारोग्यसौन्दर्यबुद्धिधनादिवैभवो यथा यस्य शरीरे सर्वेषां सर्वाण्यायुधानि मोघानि भवन्त्यजस्राणि च यस्य शस्त्रमस्त्रं वा सर्वत्रामोघं भवति यस्य सर्वे सेनापुरुषा युद्धविजयोपयोगिनो विजयानन्तरं रक्षोपयोगिनः शोभोपयोगिनो वा जीवन्मुक्तो वा स राजोत्तमो मध्यतो मानुषकार्या**कार्यं।** तत्कुलोद्भूतोऽधमः स मानुषकार्यकारी युक्तिप्रयुक्तिबलधनदुर्गादिसमुदायबलस्तेन हीनोऽधमाधमस्तस्य वा एतस्य **राज्ञश्चत्वारो धर्मा दण्डो दानं दमो दयेति तत्र दण्डो विशिष्य**ते वैद्यैरवद्यमहौषधप्रयोगेण प्रजासंस्थान् रोगान् हरेत् अध्यापकप्राचुर्यादविद्वत्तां प्रवासं दानेन दारिद्र्यं प्रजायाः प्रजासंस्थं साधुहृद्दुःखं दुष्टानां दण्डनेन अपि भ्राता सुतोऽर्ध्ये माता पिता उपाध्याय आचार्यो गुरुः परमगुरुर्देवयोनिजो गन्धर्वादिः श्वशुरो मातुलः पितृव्यो वान्यः कश्चिद्यः प्रेमास्पदो यदि यथार्थं दण्ड्यः स्यात्स दण्ड्य एव राज्ञो **नादड्यो नाम राज्ञः कश्चिदस्ति यो धर्माद्विचलितः स्वकादिति** शिरःछेदः सर्वस्वहरणं कशाभिघात आमूर्च्छायाः उपवासो जलादृते षोडश निगडबन्धोऽमान्यता यथोक्तं प्रायश्चित्तकारणं एते दण्डाः पारानन्दशासनसंमता इति नाङ्गेन्द्रियध्वंसः न यावज्जीवन्निगडबन्धः पारानन्दसंमतः। **शिरश्छेद**विधिं वक्ष्ये आनीय स्नातं वध्यं पुरुषं प्राणहरणाद्यागः सन्नद्धादिकं कालिकाग्रे शुचौ समे देशे स्तम्भे ग्रीवां निधाय रज्ज्वादिना संबध्य रक्तचन्दनपुष्पाभ्यां देवतां सिंहं कुरुकुलां कुरुकुल्लासिंहं खड्गं बलिं च संपूज्य स्तम्बं सरज्जुं भूमिं च तदवशिष्टेन घातकं पूजयेत्स्वयं चेद्घातकः स्वमात्मानमादावि**त्येके।** तत उपतिष्ठते ॐ कालिके त्वदग्रे छेदनात्स्वर्गं लोकं त्वेष गच्छतु विरजा विपाप्मा भूत्वा यथायं तथा गच्छेयमहं विरजा विपाप्मा रुधिरेणास्य सिंहौ तृप्तिमेतं येऽन्येऽसृगा स्वास्त्वचास्य ऋषयः पितरः शान्त्या उपायान्तु मोदन्तु क्रव्येणास्य क्रव्यादाः पितरो ये च देवास्त्वदुच्छिष्टेन मोदं प्रयान्तु नीत्या नयेन विनयेन धर्माद्दण्ड्यस्य दण्डस्य तुष्टा सती देहि यजमानाय कामानित्युपस्थाय हुंफडित्युच्चरँश्छित्त्वा शिरः सरुधिरं पात्रे गृहीत्वा देवताग्रे संस्थाप्य पात्रान्तरे जले च ते स्वः स्रुचं तद्रुधिरेण पूर्णां निनयति कालिकाया असृक्पानरतायै स्वाहेति प्रथमां, स्रुचं निनयति, सिंहायासृक्पानरतार्यैतद्रुधिरं हरामि तेनायं तुष्टः प्रददातु यजमानाय कामान्स्वाहेति द्वितीयां, कुरुकुल्लायै रुधिरमेतदाहरामि तुष्टा तेन प्रयच्छतु यजमानाय कामान्स्वाहेति तृतीयां, कुरुकुल्लासिंहोऽरीन् यो नाशयति प्रयुक्तस्तस्मै रुधिरमेतदाहरामि तुष्टस्तेन प्रददातु यजमानाय कामान्स्वाहेति चतुर्थीं, अथ पञ्चमीं स्रुचं रुधिरेण पूर्णां निनयति ये वा रुधिरस्य पिपासवो देवा ऋषयः पितरो मनुष्याः ज्ञाता अज्ञाताः पशवः पिशाचाः
-
-
 
 प्राणिनो ये धर्मपरास्तेभ्य इदमाहरामि त आहरन्तु यजमानाय कामान्स्वाहेति पञ्चमीं, मुण्डे दीपं प्रज्वाल्य खड्गमुपतिष्ठते असिरसि धर्मपालस्तीक्ष्णधारो दुरासदः श्रीगर्भः खङ्गः विजयो विशसनस्त्वमेवासि जगतो हितः। अवध्यानापयस्यैहिकं वध्यानामुष्मिकं सुखम्। अवध्येषु शान्तः शान्तधारोऽसि वध्येषु तीक्ष्णस्तीक्ष्णधारोऽसि वध्यासृग्भिस्तुष्टिमेहि तस्मै ते नमो मा माहिंसीरवध्यांश्चासृक्तुष्टो जयं सुखमारोग्यं अभयं देहि यजमानाय शश्वदित्युपस्थाय पुष्पाञ्जलित्रयोणोक्तमभ्यर्च्यार्चनं समापय**न्त्येष एव वध्यमात्रस्य वधविधिः।**
 
@@ -4375,8 +4056,6 @@ Baroda,
 तेनाधीताः सर्ववेदाः सर्वं तु सुकृतं कृतम्।  
 दत्तानि सर्वदानानि येन वध्यवधः कृतः।
 
-
-
 एवं प्रयच्छन्वध्यानां बलिं स्वर्गं जयत्यसौ।  
 वध्येषु निर्दयो यस्तु सदान्येषु दयाप्लुतः।  
 स एव सर्वदेवानां दयापात्रमुदाहृतम्।  
@@ -4395,8 +4074,6 @@ Baroda,
 
  तस्माद्धन्याद्वध्यान्विद्वान्न भूमिचरांश्चाश्वादीन् समृद्धेभ्यो ब्राह्मणेभ्यो दद्याद्दद्यात्तन्निष्क्रयमि**त्येके** भूमीर्न दद्याद्भूमिपतिस्तस्मादृते तडागारामापरिच्छिन्नाभ्यः कदाचित्क्वचित्कस्मैचिद्दातृप्रतिग्रहीतृवंश्यास्ताम्रपटे भूमिच्छेदोपवर्णनं च प्रलिख्य प्रतिग्रहीत्रे दद्यान्नादद्यात्खदत्ताः परदत्ता वा अन्यायतो **धिग्दण्ड उपवासदण्डो निगडदण्डो वधदण्डः प्रायश्चित्तदण्डश्च यथान्यायं योज्याः।** पुरुषघ्ना राजाज्ञोल्लङ्घका ज्ञानपूर्वं **वधदण्डदण्ड्या**श्चौराश्चे**त्येके** केचिन्निगडदण्डत एवं यथान्यायं दण्डा दण्ड्येषु योज्या व्यस्ताः समस्ता वा स्वप्रभुत्वं दिग्देशं वायुं कालमवकाशमपराधं बलं वयो वित्तं वृत्तिमरुग्णत्वं ज्ञानं च दण्ड्यानां ज्ञात्वा यथान्यायं तेषु दण्डं पातयेत्। रोगिणोऽशक्ताद्यास्त्वदण्ड्याः सर्वेऽपि संख्यया भृत्या राज्ञा संस्थाप्या विजानता तत्राद्ययाद्यया संख्यया मुक्तस्ततः परया परया युक्तमाज्ञापयितुमर्हति दशानां नायकस्त्वेकः स तानाज्ञापयति तदाज्ञया विना न त आजीवकाले व्यवहरन्ति ऋते तत्प्रभूणां घातात्सर्वा आज्ञास्तस्य मान्या अनुष्ठेया अविचारत एतेषां दशानामधीशः शताधीशः। सर्वे तस्य तथा तथाधिगन्तव्यम्। अनेन सहस्राधीशा व्याख्याता न लक्षाधीशा मानुषाः स्युर्ऋते अमानुषकार्यकारिभ्य इति। स तेभ्यो द्विगुणा जीवास्तेभ्यस्ते त्रिगुणा जीवास्तेभ्यस्ते चतुर्गुणा जीवा एवमपराधेषु दण्डश्च व्याख्यातः त्रयो दण्डास्तेषां कशाभिघातः
 
-
-
 पोषणपरित्यागो वधश्चोत्सर्गादानपाचनैरीषत्कालमतिक्रम्य य आज्ञां विदधाति स इत्येवमादिः कशाभिघातदण्ड्य उत्सर्गे मलमूत्रयोरुत्सर्ग आदानमन्नजलयोरादानमैथुननिद्रे पाचनमुत्कोचजीविनः स्वामिनियुक्ते स्वाज्ञापनं ऋते स्वाम्याज्ञायाः। स्वामिनियुक्ताज्ञोल्लङ्घनं ऋते स्वामिवधात्तदुल्लङ्घिनोऽसकृदाज्ञोल्लङ्घिनो ज्ञानपूर्वकमाज्ञोलङ्घिन एवमादयो द्वितीयेन दण्ड्याः। पुरुषघ्नश्च महदाज्ञापनोलङ्घीस्वामिनियुक्तस्य खामिनो वा एवमादिस्तृतीयेन। राजा च न वृथाज्ञः स्यादन्येषां स्वाविरोधि धर्मविद्याधनारोग्यप्राणानां नाशं परस्योद्दिश्य याऽऽज्ञा सैवमाद्या वृथाज्ञास्तांश्चाधीशान्पर्यायेण देशतः कालत आज्ञाप्य गणतश्च पर्याचालयेद्यथा संवत्सरमयनं वाऽमुकदेशेऽमुकगणाध्यक्षस्तिष्ठत्वयमिति सर्वानेवं पर्याचालयेदनुभूतपूर्वपदमुत्तरपदेन नयेन्नानुभूतपूर्वपदं नाप्यधस्तत्रापि कुशलं पञ्चभिर्वर्षैर्दशभिर्वाप्तसर्वोत्कृष्टपदं पदात्तस्मात्प्रच्यावयेदप्राप्त्वा किंचित्पदं यावज्जीवं प्रच्युतं पोषयेत्तदर्धेन यावज्जीवपर्याप्तं समस्यैव वा धनं दद्यात्तत्कालीनपोष्यपर्याप्तं न्यायतः सर्वपदेषु समर्थं क्रमशो नयेदुत्कोचजीविनां द्रव्याहरणं सर्वाणि पदानि द्व्यधिष्ठितानि भवन्ति कालविभागतः परिमितानि कामिन्यन्नपानयानवसनानि परिमितानि भोग्यानि राज्ञा च युद्धभग्नानां यदा लाभस्तदा तेषां हननम् ॥ ८३ ॥
 
  यो वा इमां द्व्यध्यायां विद्यामधिगच्छति चतुर्दशविद्या कल्पाह्निकां पारानन्दीं सोऽमृतत्वं गच्छति॥८४॥
@@ -4412,62 +4089,5 @@ Baroda,
 
 —————
 
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^40]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
-
-
-[^39]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
-
-
-[^38]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"
-
-
-[^37]: "पूर्ववत् इत्यपि पाठः। आह्निक ४ अनाद्यन्तदिव्यशरीरिणमीशमुक्तौ वैषम्यमपीच्छन्ति॥५१॥"

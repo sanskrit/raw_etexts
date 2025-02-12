@@ -2767,9 +2767,9 @@ Zinc may also be purified and incinerated in the same manner as vanga (tin) and 
 
 यशोदस्यानुपानानि ।
 
-**खर्जुरतंडुलीहिमै रक्तातिसारनाशकम्\*[^82]**  
+**खर्जुरतंडुलीहिमै रक्तातिसारनाशकम्\*[^19]**  
 
-[^82]: "अग्रे वङ्गनागप्रकरणद्रष्टव्यम् ।"
+[^19]: "अग्रे वङ्गनागप्रकरणद्रष्टव्यम् ।"
 
 **विनाशयेज् ज्वरं चैव यशोदं मायुजं खलु ॥**  
 
@@ -7094,10 +7094,6 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 
 [^55]: "लोतमिति लवणम् ।"
 
-[^55]: "लोतमिति लवणम् ।"
-
-[^55]: "लोतमिति लवणम् ।"
-
 \(4\) SAUVARCHALA (SALT-PETRE).
 
 It is the same as ushara kshara or salt-petre. It is both an alkali and a salt. For the preparation of salt-petre, see page 268.
@@ -7119,9 +7115,9 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 
  The product may be used as sauvarchala salt, and not as sauvarchala kshara. (N.B.—The salt, thus prepared, may be used in lieu of salt-petre, where the emphasis is laid on the word 'salt', but where there is a stress on the word “kshara", only salt-petre, and not its substitute, should be used.)
 
-**(५) रोमकम्[^56] ।**
+**(५) रोमकम्[^109] ।**
 
-[^56]: "रोमः गर्त्तंजलाशयइत्यर्थः तस्मात् जायते इति रोमकम् ।"
+[^109]: "रोमः गर्त्तंजलाशयइत्यर्थः तस्मात् जायते इति रोमकम् ।"
 
 **अस्य नामानि ।**
 
@@ -7139,10 +7135,6 @@ An equal quantity of powdered swarji (natron) and saindhava (rock-salt) are to b
 आसीत् पुरा पुरी तत्र रोमाख्या हि यशस्वती ।  
 साम्प्रतं वर्त्तते तत्र जयपुराभिधा पुरी ।  
 सम्बरादम्बराख्यां हि लेभे तत्र पुरान्तरम् ॥**
-
-[^55]: "लोतमिति लवणम् ।"
-
-[^55]: "लोतमिति लवणम् ।"
 
 [^55]: "लोतमिति लवणम् ।"
 
@@ -9522,5 +9514,3 @@ Mr. Mookerji's book should attract the attention of all those who are interested
 ![](../../../books_images/1689912028.png)
 
 \]
-
-[^57]: "लोतमिति लवणम् ।"

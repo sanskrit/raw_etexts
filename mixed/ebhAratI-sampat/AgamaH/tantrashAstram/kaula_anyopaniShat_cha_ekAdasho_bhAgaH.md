@@ -435,10 +435,6 @@ it, like the generality of his commentary, deals with the surface of things and 
 
 [^48]: "दधीति पाठः।"
 
-[^48]: "दधीति पाठः।"
-
-[^48]: "दधीति पाठः।"
-
 ![](../books_images/U-IMG-1725291223pic5.jpg)
 
 चक्राणामिह सत्त्वादेव तत्रत्यप्रकटादियोगिनीनवकमपि कोणात्मनेहैव तिष्ठतीति भावः।
@@ -465,10 +461,6 @@ it, like the generality of his commentary, deals with the surface of things and 
 
 **“एका सा आसीत्प्रथमा सा नवासीदासोनविंशदासोनत्रिंशत्॥  
 चत्वारिंशदथ[^48] तिस्रः समिधा उशतीरिव मातरो मा विशन्तु”॥३॥**
-
-[^48]: "दधीति पाठः।"
-
-[^48]: "दधीति पाठः।"
 
 [^48]: "दधीति पाठः।"
 
@@ -1889,5 +1881,3 @@ it, like the generality of his commentary, deals with the surface of things and 
 **![](../books_images/U-IMG-1726073145Screenshot2024-07-08194832.png)**
 
 \]
-
-[^52]: "दधीति पाठः।"

@@ -4779,5 +4779,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODUxNzY0NjUzNDE
 **ओंतत्सत्।**
 
 \]
-
-[^180]: "मेयादिकारिणी इति पाठः ।"

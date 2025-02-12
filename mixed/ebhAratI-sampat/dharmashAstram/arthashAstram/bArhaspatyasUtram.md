@@ -17,16 +17,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk5NzU5MjkzODA
 
 \
 
-
-
-
-
-
-
 THE  
 PUNJAB SANSKRIT SERIES,  
 No. ONE.  
-
 
 **THE**
 
@@ -47,12 +40,6 @@ OF
 **INDIA, EUROPE AND AMERICA.**
 
 **No. I.**
-
-
-
-
-
-
 
 **LAHORE (INDIA.)**
 
@@ -84,8 +71,6 @@ LIBRARIAN, INDIA OFFICE LIBRARY, LONDON.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 THE DEVANAGARI TEXT
 
 PREPARED FROM
@@ -114,21 +99,14 @@ The Punjab Sanskrit Book Depot, Lahore.
 
 1921\.
 
-
-
 LAHORE:  
 PRINTED BY BHAIRO PRASADA AT
 
 THE "VIDYA PRAKASA" PRESS.  
 
-
 ॥ओ३म्॥
 
-
-
 **विश्वानि देव सवितर्दुरितानि परासुव । यद्भद्रं तन्न आसुव \।\।**
-
-
 
 **INTRODUCTORY REMARKS.  
 1. ANTIQUITY OF ARYAN POLITY.**
@@ -239,17 +217,9 @@ we can safely conclude that the original Smriti of Manu was purely in verse.
 
  Again Dhammapada (circa 4th century B.C.) has two verses which are only a Pali version with some change of words of the text of Manu Smriti.
 
-
-
-
-
 [TABLE]
 
-
-
 Kautiliya Arthashástra also as referred to on pages 101-03 and 190 of his "Lectures on the Ancient History of India” by Shri D. R. Bhandarkar has two verses of Manu Smriti with slight changes only.
-
-
 
 [TABLE]
 
@@ -272,8 +242,6 @@ Kautiliya Arthashástra also as referred to on pages 101-03 and 190 of his "Lect
 याजनाध्यापनाद्यौनात्तैश्चान्योऽपि समाचरन् ॥ कौ०पृ०२१९**
 
 †
-
-
 
    Here, Professor D. R. Bhandarkar following the lead of Buhler arrives at the result that the verses(above quoted) were not composed by Kautilya but were utilised by him from some work which was in existence long before he wrote or the (metrical) Manu Smriti was compiled.' This is nothing but a prejudice in order to bring down the date of Manusmriti. First a theory is started—Manusmriti is accepted to belong to a later date,–and then if any work anterior to that date is found containing the verses of Manusmriti, (although not mentioning this fact but still indicating that the verses are not his own) it is said that the work in question and the Manusmriti both utilised a material of a very old period. Both this assumption and conclusion do not seem to be convincing.  
    Last of all we may refer to two verses, to be found in the 18th Sarga of Valmiki Ramayana, where the author of that work explicitly says that the following two shlokas were sung by Manu:—
@@ -308,18 +276,13 @@ VI KAUTILYAAND BRIHASPATI.
 
 VII.THE BARHASPATYA SUTRAM AND ITS DATE.
 
-
-
 The present sûtras even if they do, possess but a very remote connection with the Bárhaspatya shâstra. Even pruned of their sectarian matter, they do not appear to belong to any of the adherents of the original school of Brihaspati. These sūtras may only here and there contain a view of the old Bárhaspatya school.As regards the date of this work, nothing can be said with certainty. The guess of Dr. F. W. Thomas may turn out to be a true one. This much however, is certain that the work is not anterior to the sixth or seventhcentury A. D.\*
 
 -----------------------------------
 
 \* Pandit Jai Deva in the Vedic Magazine already referred to says that the work is posterior to Kalidas, for the reason that in his Meghaduta Kalidas refers to Kankhal alone, while Hardwar or Gangadvara which is a Shaiva tirtha of a recent origin is not at all mentioned by him. This Gangadvara is mentioned in Barhaspatya sutra III. 122. Hence the work is posterior to the recognition of Hardwar as a sacred place.
 
-
-
 **VIII. A BARHASPATYA SAMHITA,**  
-
 
   There is another treatise connected with the name of Brihaspati. It is the Bârhaspatya Samhitā. We find it often quoted in the गजलक्षण प्रकरण ofलक्षण प्रकाश of वीरमित्रोदय. It is in the form of a dialogue between Nahuśha and Brihaspati. The work is in the mixed style of prose and verse. This Samhitâ also, as is apparent from the numerous quotations in the above mentioned work, bears no connection with thepresent sûtras.
 
@@ -330,10 +293,6 @@ IX\. WAS BRIHASPATI A CARVAKA. ?
   No doubt, there was a great atheistic logician Brihaspati by name; but was he the writer on polity? Semadeva Suri (10th century A. D.) says in his Yashastilaka बृहस्पतिनीतय इवादेवमातृका (p. 13 Nirnayasagar 1901) and his commentator Shrutasagar Suri says बृहस्पतिनीतय इव । यथा बृहस्पतिनीतयश्चार्वाकशास्त्राणि देवं सर्वज्ञादिविशेषं न मन्यते।So, according to the commentator the Nîtikâra Brihaspati was the renowned Cârvâka. However, all the previous quotations go against this view, Brihaspati the politian, being connected with Manu and others of the theistic school,was certainly a theist, Somadeva and his commentator confuse the two Brihaspatis.
 
  There have been thus three eminent persons at least known by the name Brihaspati in the literary history of Bhârata. The first and the most well-known was Brihaspati, the writer on polity; secondly Brihaspati, the cârvâka logician, and thirdly the person who wrote the samhitâ.
-
-
-
-
 
 **X. PARALLEL PASSAGES**.
 
@@ -398,7 +357,9 @@ been favoured with a perusal of proof-sheets I was able to draw attention (J. R.
 
 [^6]: "Also cited by Dr G. Oppert in his Weapons, Army Organisation And Political Maxims of the Ancient Hindus, 1880, p 3. B.Datta."
 
-**[एतत्ते](http://॑# "I have introduced here the original shloks for the benefit of the reader. B. Datta.") राजधर्माणां नवनीतं युधिष्ठिर \।**
+**एतत्ते[^233] राजधर्माणां नवनीतं युधिष्ठिर \।**
+
+[^233]: "I have introduced here the original shloks for the benefit of the reader. B. Datta."
 
 **बृहस्पतिर्हि भगवान्नायं धर्मंप्रशंसति ॥ १ ॥**
 
@@ -441,8 +402,6 @@ been favoured with a perusal of proof-sheets I was able to draw attention (J. R.
  To complete this brief sketch we should mention the Shukraniti, no very early work, which has several times (by Oppert at Madras in 1882, by Jivánanda Vidyâsâgara at Calcutta, 1892 etc. etc.) been edited in India and is now accessible in translation (by Prof. Benoy Kumar Sarkar in Sacred Books of the Hin lus Allahabad, 1914 ).
 
  The Agni-puràna has also a section devoted to the subject, which is, further, fully represented in the Mânara Dharmasástra, as well as in the Mahabharata. We need not mention the later and minor treatises in Sanskrit literature.
-
-
 
  The Niti literature of Burma is of a different) character. In the Tibetan, however, where we find also quasi-independent works on government, there are translations of Sanskrit texts in verse ascribed (1) to Masuraksha and (2) to Nagarjuna. The Javanese has, besides a professed translation of the Kámandaki Nitisára,also some minortracts, perhaps representing the late moral anthology which bears the name of Cânakya.
 
@@ -491,10 +450,6 @@ or not, I am unable to demonstrate. That it was in the Grantha character is prov
 
 [TABLE]
 
-
-
-
-
 2. INDEX OF GEOGRAPHICAL NAMES.
 
 |                      |                           |
@@ -526,13 +481,6 @@ or not, I am unable to demonstrate. That it was in the Grantha character is prov
 |     कोशल ३|९४॥      |       मत्स्य ३|९२॥       |
 |                     |        मगध ३|९२॥         |
 
-
-
-
-
-
-
-
 |                          |                        |
 |:------------------------:|:----------------------:|
 |       मलय ३|८१॥       |    शार्दूल ३|१२२॥     |
@@ -554,10 +502,6 @@ or not, I am unable to demonstrate. That it was in the Grantha character is prov
 |   शालग्राम ३|८०,१२०॥    |      हूण ३|१०३॥       |
 
 ![](../books_images/U-IMG-1690208436swat.PNG)  
-
-
-
-
 
 ![](../books_images/U-IMG-1690221545Capture.PNG)
 
@@ -590,8 +534,6 @@ DEVANAGARI CHARACTERS
 ##     The Punjab sanskrit Book Depot,
 
 ##             said mitha,LAHORE,India.
-
-
 
 **ओ३म्**
 
@@ -725,8 +667,6 @@ DEVANAGARI CHARACTERS
 [^28]: " Moक्रे ।"
 
 दूषयेन्न च स्वजातिजीवत्सु \।\।४३\।\।
-
-
 
 अर्थेनानुरागेणाभिजन्मनौदार्येण पूर्वैर्भ\[२ख\]विष्यैरधिकत्व इच्छा कर्त्तव्या ॥४४॥
 
@@ -878,7 +818,7 @@ DEVANAGARI CHARACTERS
 
 सर्वं ज्ञात्वा न कुर्यात् ॥ ८५॥
 
-धर्मगुप्तिः [गृहयात्रागुप्तिः](http://॑॑# " W•यात्रा० । ") कार्यगुप्तिः वैरगुप्तिः यशोभङ्गे सत्यमपि नेति वदेत् ॥८६॥
+धर्मगुप्तिः [गृहयात्रागुप्तिः](॑# " W•यात्रा० । ") कार्यगुप्तिः वैरगुप्तिः यशोभङ्गे सत्यमपि नेति वदेत् ॥८६॥
 
 चिकित्सकज्योति[^57]\[४ख\]षमन्त्रवादिनः संग्रहेत्
 वृत्तशीलसम्पन्नान्[^58] ") \।\।८७॥
@@ -1010,8 +950,6 @@ DEVANAGARI CHARACTERS
 [^78]: "W आभिधन० ।"
 
 यदा चण्डाल उदारसुरामांसादिकामेच्छुस्तदा कापालिकाभिधानपाषण्डी ॥१३॥
-
-
 
 यदा सन्ध्योपासनाद्यग्निहोत्रादि[^79] परिसज्याहिंसाधर्मेच्छुः तदा क्षपणकपा \[ ६ख \]षण्डी ॥१४॥
 
@@ -1206,11 +1144,7 @@ DEVANAGARI CHARACTERS
 
   इति बार्हस्पत्यसूत्रे द्विती \[१०क\] योऽध्यायः ॥
 
-
-
 ![](../books_images/U-IMG-1689933246Screenshot2023-07-21152350.png)
-
-
 
 **\[ तृतीयोऽध्यायः । \]**
 
@@ -1251,8 +1185,6 @@ DEVANAGARI CHARACTERS
 महापथवद्वैष्णवम् ॥१३॥
 
 केवलप्रधानिकमश्वरथयानवत् ॥१४॥
-
-
 
 लौकायतिकक्षपणकबौद्धादि बहुशारदृलदुष्टमृगाकीर्णशून्याटवीगुहामार्गवत् ॥१५॥
 
@@ -1660,8 +1592,6 @@ DEVANAGARI CHARACTERS
 
 ![](../books_images/U-IMG-1689935122Screenshot2023-07-21155507.png)
 
-
-
  \[ चतुर्थोऽध्यायः । \]
 
 ![](../books_images/U-IMG-1689935259Screenshot2023-07-21155729.png)
@@ -1816,11 +1746,7 @@ DEVANAGARI CHARACTERS
 
 इति बार्हस्पत्यसूत्रे चतुर्थोऽध्यायः ।
 
-
-
 ![](../books_images/U-IMG-1689935646Screenshot2023-07-21160345.png)
-
-
 
 **\[ पञ्चमोऽध्यायः । \]**
 
@@ -1844,9 +1770,9 @@ DEVANAGARI CHARACTERS
 
 साम पूर्वंप्रयोक्तव्यम् ॥८॥
 
-\[१९क\] मनसोऽभिप्रायं[^211]") वाचः प्रीतिकर्म च ॥९॥
+\[१९क\] मनसोऽभिप्रायं[^208]") वाचः प्रीतिकर्म च ॥९॥
 
-[^211]: "Sic (neut.
+[^208]: "Sic (neut.
 
 ज्ञातीनां ज्ञातयो व्यसने हृष्यन्ति ॥१०॥
 
@@ -1928,8 +1854,6 @@ DEVANAGARI CHARACTERS
 
 ![](../books_images/U-IMG-1690646132Screenshot2023-07-29212517.png)
 
-
-
 **\[ पष्ठोऽध्यायः । \]**
 
 \[२०ख\] देशकालयोग्यं कर्म नयानयौ च वेदयेत् ॥ १॥
@@ -1971,8 +1895,6 @@ DEVANAGARI CHARACTERS
 इति बार्हस्पत्यसूत्रे षष्ठोऽध्यायः ।
 
 ![](../books_images/U-IMG-1690646476Screenshot2023-07-29213055.png)
-
-
 
 **BRIHASPATI SÛTRA**
 
@@ -2278,8 +2200,6 @@ those who in comparison therewith are inoffensivefeuds of kinsmen are not to be 
 
  103, 110 We might translate 'If between sun and moon there were hostility ..., they would not continue".
 
-
-
 II (DUTIES AND PRINCIPLES)
 
  1 Sovereignty belongs to one possessing advantages.
@@ -2489,11 +2409,7 @@ might even dry the ocean.
 
                      **\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 III (VIDYÁ).
-
-     
 
 1Manliness is the quality of one superior to weakness.
 
@@ -3139,246 +3055,5 @@ So in the *Brihaspati Sûtra* the Sixth Chapter.
 
                        F. W. THOMAS.
 
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^223]: "W वीरान्न । सारैस्सहसा मा Read वीरोऽसारैः सहसा न ? Form and औ(ओ
-
-
-[^203]: " Sic (neut.

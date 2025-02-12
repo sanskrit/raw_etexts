@@ -1042,6 +1042,3 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjY0NjU1Mzc2NTU
 
 \]
 
-[^15]: "सावधाना इत्युत्तरम् ।"
-
-[^17]: "कविना इत्युत्तरम् ।"
