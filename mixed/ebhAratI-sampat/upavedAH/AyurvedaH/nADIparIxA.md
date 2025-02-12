@@ -14,8 +14,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MjIwNTk5MjQ
 
 \[
 
-
-
 [TABLE]
 
 श्रीः
@@ -535,6 +533,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQ1MjIwNTk5MjQ
 
 इति हिंदीटीका सहित नाड़ीपरीक्षा संपूर्ण।  
 ![](../books_images/U-IMG-1703695936Capture.JPG)
-
 
 \]

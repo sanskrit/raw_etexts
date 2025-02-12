@@ -17,20 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5OTQwNDcxNjA
 
 \
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 TRIVANDRUM SANSKRIT SERIES
 
 No. LVI.
@@ -47,15 +33,11 @@ Curator of the Department for the publication of Sanskrit Manuscripts, Trivandru
 
 PUBLISHED UNDER THE AUTHORITY OF THE GOVERNMENT OF HIS HIGHNESS THE MAHARAJAH OF TRAVANCORE
 
-
-
 TRIVANDRUM:
 
 PRINTED BY THE SUPERINTENDENT, GOVERNMENT PRESS
 
 1917\.
-
-
 
 अनन्तशयनसंस्कृतग्रन्थावलिः।
 
@@ -79,8 +61,6 @@ PRINTED BY THE SUPERINTENDENT, GOVERNMENT PRESS
 
 मुद्रयित्वा प्रकाशिता।
 
-
-
 **PREFACE**
 
 Manushyâlayachandrikâ is a treatise on the construction of houses and allied subjects. Works on architecture are generally found to be full of grammatical errors, but this work is free from any such error and is written in various metres.
@@ -100,15 +80,10 @@ The edition of the work is based on the following three palmleaf manuscripts.
 All these manuscripts are in Malayalam characters, The colophon at the end of the manuscript shows that it was copied in the Kollam year 950. The other two manuscripts appear older than the Manuscript ख.
 
 Trivandrum,                              
-                          
 
 18th May 1917
 
 T. GANAPATI SÂSTRÎ
-
-
-
-
 
 **निवेदना**
 
@@ -125,10 +100,6 @@ T. GANAPATI SÂSTRÎ
 १५-५-१९१७.
 
 त. गणपतिशास्त्री.
-
-
-
-
 
 ॥श्रीः॥
 
@@ -366,8 +337,6 @@ T. GANAPATI SÂSTRÎ
 
 १. 'वे' ख. ग. पाठः
 
-
-
 सङ्कीर्णरूपा वसुधात्र वर्णैर्गन्धै रसैश्चाखिलवर्जनीया।
 
 एनामनालक्षितवर्णचिह्नां नक्तं परीक्षेत निमित्ततश्च॥३१॥
@@ -390,8 +359,6 @@ T. GANAPATI SÂSTRÎ
 
 इति मनुष्यालयचन्द्रिकायां भूपरीक्षापरिग्रहो नाम प्रथमोऽध्यायः॥
 
-
-
 **अथ द्वितीयोऽध्यायः।**
 
 यन्त्रेणावनतादिना च निपुणो यद्वाम्बुसम्पूरणे-
@@ -411,8 +378,6 @@ T. GANAPATI SÂSTRÎ
 -------------------------------------
 
 १. 'प्य' क. पाठः
-
-
 
 शङ्कुच्छायाग्रभागे त्ववहितहृदयो वृत्तलग्नेऽङ्कयित्वा
 
@@ -626,11 +591,7 @@ T. GANAPATI SÂSTRÎ
 
 इन्द्रोऽस्य मेढ्रेऽण्डयुगे तु तज्जित्पादद्वये तस्य परे प्रविष्टाः॥३१॥
 
-
-
  २. 'यः' ख. ग. पाठः
-
-
 
 ता देवता वास्तुशरीरसंस्थाः सन्तर्पितास्त्विष्टफलप्रदाः स्युः।
 
@@ -639,8 +600,6 @@ T. GANAPATI SÂSTRÎ
 इति मनुष्यालयचन्द्रिकायां दिङ्निर्णयादिशुभवीथीपरिग्रहवास्तुदेवतानिर्णयो नाम
 
 द्वितीयोऽध्यायः।
-
-
 
 **अथ तृतीयोऽध्यायः।**
 
@@ -906,10 +865,6 @@ T. GANAPATI SÂSTRÎ
 
 इति मनुष्यालयचन्द्रिकायां मानभेदयोन्यायव्ययादिनिर्णयो नाम तृतीयोऽध्यायः।
 
-
-
-
-
 **अथ चतुर्थोऽध्यायः।**
 
 स्वाभीष्टालयदीर्घमङ्गणविधिं तेषां पृथङ् नाहतो
@@ -1129,8 +1084,6 @@ T. GANAPATI SÂSTRÎ
 चार्थाप्तिं प्रवदन्त्यतः क्रमवशाद्याम्यादिकं कल्पयेत्॥२९॥
 
 इति मनुष्यालयचन्द्रिकायां गृहाणामिष्टदीर्घपरिणाहदीर्घविस्तारशालाभेदादिनिर्णयो नाम चतुर्थोऽध्यायः॥
-
-
 
 **अथ पञ्चमोऽध्यायः।**
 
@@ -1420,8 +1373,6 @@ T. GANAPATI SÂSTRÎ
 
 इति मनुष्यालयचन्द्रिकायां पञ्चमोऽध्यायः।
 
-
-
 **अथ षष्ठोऽध्यायः।**
 
 अल्पे धामनि बाह्यमेव महति त्वारूढमप्युत्तरं
@@ -1593,8 +1544,6 @@ T. GANAPATI SÂSTRÎ
 स्थानेष्वप्युत्तराद्यर्पणनियमपदे नीप्रलम्बान्ततोऽपि॥२४॥
 
 इति मनुष्यालयचन्द्रिकायां षष्ठोऽध्यायः।
-
-
 
 **अथ सप्तमोऽध्यायः।**
 
@@ -1922,62 +1871,10 @@ T. GANAPATI SÂSTRÎ
 
 स्वीयैः सार्धं स्वगेहे सुचिरमधिवसेत्पूर्णकामः सुखेन॥४५॥
 
-
-
 इति मनुष्यालयचन्द्रिकायां बाह्यगेहकूपतटाकादिविधानं नाम सप्तमोऽध्यायः॥
 
 **समाप्ता मनुष्यालयचन्द्रिका॥**
 
 शुभं भूयात्।
 
-
-
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^12]: "१.  नुग्रहं  क. ख. पाठः"

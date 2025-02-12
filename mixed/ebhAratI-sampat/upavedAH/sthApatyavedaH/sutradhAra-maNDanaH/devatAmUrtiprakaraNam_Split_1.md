@@ -17,18 +17,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkzNzA4OTI5NTQ
 
 \
 
-
-
-
-
-
-
-
-
-
-
-
-
 **Content after page no. 108 (original page no.) is yet to be proofread.**
 
 CALCUTTA SANSKRIT SERIES
@@ -47,20 +35,10 @@ SŪTRADHĀRA MAṆḌAṆA'S
 
 **RŪPAMAṆḌAṆAM**
 
-
-
-
-
-
-
 कलिकाता-संस्कृत-प्रन्थमाला - १२
 
 सम्पादकः - श्री नरेन्द्रचन्द्र-वेदान्ततीर्थ-एम-ए-  
 वाग्चि भट्टाचार्य - सांख्यतीर्थ मीमांसातीर्थ तत्त्वरत्र शास्त्री
-
-
-
-
 
 **सूत्रधार - मण्डनस्य**
 
@@ -68,26 +46,8 @@ SŪTRADHĀRA MAṆḌAṆA'S
 
 **रूपमण्डनञ्च**
 
-
-
-
-
-
-
 **श्री उपेन्द्रमोहन - सांख्यतीर्थेन**  
 **संस्कृते**
-
-
-
-
-
-
-
-
-
-
-
-
 
 दिविषदुपनिवेशेऽपूर्वपक्केष्टकाभि-
 
@@ -98,12 +58,6 @@ SŪTRADHĀRA MAṆḌAṆA'S
 अयमुपहरतीदं शिल्पिने शाश्वताय ॥
 
 **श्री उपेन्द्रमोहन- देवशर्मा**
-
-
-
-
-
-
 
 **DEVATĀMŪRTIPRAKARAṆAM**  
 **AND**
@@ -129,30 +83,10 @@ CALCUTTA
 
 1936
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Printed & published by  
 SHIBNATH GANGULI,  
 AT METROPOLITAN PRINTING & PUBLISHING HOUSE, LIMITED,  
 56, DHARAMTALA STREET, CALCUTTA.
-
-
-
-
-
-
 
 **PREFACE**
 
@@ -161,12 +95,6 @@ AT METROPOLITAN PRINTING & PUBLISHING HOUSE, LIMITED,
 
     The Devatāmūrtiprakaraṇam is a text on Indian Iconography and Iconometry by Sūtradhara Maṇḍana, who has to his credit, many other works on Indian Architecture and Sculpture. This work has not been published before.  
      The present text has been commented upon for the first time by the editor himself. Along with this has been published in full for the first time the text of the Rūpamaṇḍanam of the same author and treating a kindred subject. It is hoped that the understanding of the principal work will be facilitated by it. The texts have been edited from an original manuscript,
-
-
-
-
-
-
 
 Cat. no. I. G. 89, belonging to the Asiatic Society of Bengal, Calcutta. The editor could not do more than what he did for want of adequate manuscript materials. But though the texts have been edited from a single manuscript, the editor may be said to have done his work fairly well and the learned and lucid commentary of the Devatamurtiprakaranam, which he added for the first time, to explain the text, will, it is hoped, be considered, a useful production.
 
@@ -186,16 +114,6 @@ January, 1936.
 
 Narendra Chandra Bhattacharya
 
-
-
-
-
-
-
-
-
-
-
 **INTRODUCTION**
 
 **1**  
@@ -209,18 +127,13 @@ Narendra Chandra Bhattacharya
 
 [^2]: "Published in the Kavyamala series. Nirnayasigar Press, Bombay."
 
-
-
-
-
-
 the Saṅgīta-mīmāṃsā and the Saṅgīta rāja. He also wrote the Pathyaratnakosa.[^3]. K-(F. Kielhorn: A Catalogue of Sanskrit Mss. existing in the Central Provinces.) 96. (b). P-(F. Kielhorn: Lists of the Sanskrit manuscripts purchased for government during the years 1877-78 & 1869-78, and a list of the manus- cripts purchased from May to November 1881) 15.") Mahārāna Kumbha is said to have constructed the celebrated Tower of Victory at Chitore.[^4]
 
 [^3]: "3. See T. Aufrecht: Catalogus Catalogorum Vol. I, p. 111 ff. (a
 
-     It, therefore, stands to reason that Mahārānā Kumbhakarṇa should be a patron of architects and sculptors, just like King Bhoja of Dhārā धारानगरीपति- महाराजाधिराज श्रीभोजदेव (11th C.) who compiled the Samaraṅganasūtradhāra[^5], Baroda."), a work on architecture and 'to whom are ascribed many other important works, such as, the śrīṅgāraprakāśa (Alaṅkāra) and the Sarasavatī-kānthābharaṇa; or like Someśavaradeva, the Cālukya King (12th C.), the author (or the patron of the scholar) who compiled the encyclopaedic work-the Mānosollāsa or the Abhilaṣitārtha-cintāmaṇi.[^6]; Abhilasitarthacintamani, edited by Dr. R. Shama Sastry. MSS. 60. (1926), Mysore,")
-
 [^4]: "Some scholars have doubts regarding the original purpose of the structure, namely, if it was really a tower raised to commemorate a victory at all. See D. R. Bhandarkar: The Kirttistambha of Maharana Kumbha. Journal of the Indian Soc. of Oriental Art. Cal., Vol. I, 1. Regarding this magnificent structure, Fergusson says:- "
+
+     It, therefore, stands to reason that Mahārānā Kumbhakarṇa should be a patron of architects and sculptors, just like King Bhoja of Dhārā धारानगरीपति- महाराजाधिराज श्रीभोजदेव (11th C.) who compiled the Samaraṅganasūtradhāra[^5], Baroda."), a work on architecture and 'to whom are ascribed many other important works, such as, the śrīṅgāraprakāśa (Alaṅkāra) and the Sarasavatī-kānthābharaṇa; or like Someśavaradeva, the Cālukya King (12th C.), the author (or the patron of the scholar) who compiled the encyclopaedic work-the Mānosollāsa or the Abhilaṣitārtha-cintāmaṇi.[^6]; Abhilasitarthacintamani, edited by Dr. R. Shama Sastry. MSS. 60. (1926), Mysore,")
 
 [^5]: "Samaranganastradhara, edited by Mahamahopadhyaya T. Ganapati Sastri. GOS. XXV & XXXII, 2 Vols. (1924, 25
 
@@ -228,16 +141,11 @@ the Saṅgīta-mīmāṃsā and the Saṅgīta rāja. He also wrote the Pathyara
 
       Sūtradhara-Maṇḍana or simply Mandana seems to have been a prolific writer of treatises on architecture and sculpture. The
 
-
-
-
-
   
 following is a list of works[^7] ascribed to him, and some of them are styled differently in Mss.
 
 [^7]: "See T. Aufrecht: Catalogus Catalogorum Vol. I, pp. 730-31. Also, Prasanna Kumar Acharya: Indian Architecture according to Manasara-Silpasastra. Oxford Univ. Pr., 1927. pp. 103-5."
 
-           
 Devatāmurti-prakaraņa.[^8]
           Vāstuśāstra.  
             Prāsādamaṇḍana.               
@@ -258,16 +166,11 @@ Vāstusāra.
 
 [^10]: "J. Eggeling and E. Windisch: Catalogue of Sanskrit mss. in the Library of the India Office. 3142, 1291; 3147, 2253."
 
-    In the unique library[^12] सर्वविद्यानिधान कवीन्द्राचार्य सरखतीनाम् (ग्रन्थसंग्रहस्य) वेदान्तोको वाग - वरुपीतट-बनारस") of the Sarvavidyanidhana Kavindracārya (17th C.) were stored some Mss. on art (architecture and sculpture), among which the following are worth noting- शिल्पशास्त्रप्रकरण – 2146 राजवल्लभ, 2849 वास्तुमण्डन, 2150 प्रासादमण्डन, 2151 रूपमण्डन, 2152 राजवल्लभशिल्प, 2153 वास्तुशास्त्रशिल्प. This book- lover Kavindräcärya was a Deccan Brahmin and a very learned man, the head of the Pandit community of Benares, of his time,
-
 [^11]: "II. P. K. Acharya: Op. cit., p. 102"
 
+    In the unique library[^12] सर्वविद्यानिधान कवीन्द्राचार्य सरखतीनाम् (ग्रन्थसंग्रहस्य) वेदान्तोको वाग - वरुपीतट-बनारस") of the Sarvavidyanidhana Kavindracārya (17th C.) were stored some Mss. on art (architecture and sculpture), among which the following are worth noting- शिल्पशास्त्रप्रकरण – 2146 राजवल्लभ, 2849 वास्तुमण्डन, 2150 प्रासादमण्डन, 2151 रूपमण्डन, 2152 राजवल्लभशिल्प, 2153 वास्तुशास्त्रशिल्प. This book- lover Kavindräcärya was a Deccan Brahmin and a very learned man, the head of the Pandit community of Benares, of his time,
+
 [^12]: "कवीन्द्राचार्यसूचीपत्रम् Kavindracharya list. Edited with Introduction by R. Anantakrishna Sastry with a Foreword by Dr. Ganganatha Jha. GOS. No. XVII, 1921. (सूची
-
-
-
-
-
 
 and possessed knowledge in all departments of Sanskrit. He was rich, healthy and beautiful. After finishing studies he took to Sannyasa, thus showing his indifference to the world. On his demise his invaluable library was dispersed.
 
@@ -283,16 +186,9 @@ and possessed knowledge in all departments of Sanskrit. He was rich, healthy and
 
 [^15]: "Copious extracts from the Rupa-mandana have been made in TAGoninatha Rao: Elements of Hindu Iconography. Madras."
 
-
-
-
-
-
-
 2. SOURCES OF THE
 
 DEVATĀMŪRTI-PRAKARAṆAM.  
-
 
          For compiling his DmP. Sutradhara Mandana seems either to have chiefly utili sed the South Indian texts, or to have actually based his work on them.
 
@@ -308,12 +204,6 @@ DEVATĀMŪRTI-PRAKARAṆAM.
 
      Repeated invasions and onslaughts of the fierce Turks and Mongols interrupted the normal course of events in Northern, Eastern and Central India. And, the warriors' swords were more in requisition then than the painters' brushes or the stone-masons' lines and pellets.
 
-
-
-
-
-
-
     
 
  Among the Northern Texts, Mandana seems certainly to have utilised the Viiṣṇudharmattaram[^18] p. 580. Śrivisnudharmottaram, or, Visnudharmottara-mahāpuruṇam was edited by Panditas Madhusudana and Madhavaprasada Sarmans from a ms., obtained by Mm. Sudhakara Dvivedin and published (from brivenkatesvara Press, Bombay) in Sumvat 1969, 1834 Saka (A. C. 1911-12). See for Transl. of chapters 2, 27, 35-43, Dr. Stella Kramrisch: The Visnudharmottaram (Part III), A Treatise on Indian Painting. Journal of Letters, Vol. XI. (Univ. Cal, 1924), and The Calculla Review, Feb., 1924, P. 331 ff. A. K. Coomaraswamy: Visnudharmottara (III), 41. JAOS., LII., 1932; Ditto. Transl. Visnudharmottara. Chapt. 43, in Asutosh Commemoration Vol. (Patna Univ.) Ed. by J. N. Camaddar. See, also, Haridas Mitra: Sadasiva Worship in Early Bengal, J. & P., A. S. B., (N. S.) Vol. XXIX. 1933, No. 1. Appendix II, Note 2."), in the first instance. This is, traditionally, said to be a part of the Garuḍa- Puraṇa- more properly the uttara-bhāga of the Garuḍa- Puraṇam[^19] 480. 188a. See Burnell: Classified Index of Skt. Mss. in the palace at Tanjore."). According to another opinion[^20], VP. belongs to the second part of the Viṣṇu-puraṇam.
@@ -326,11 +216,6 @@ DEVATĀMŪRTI-PRAKARAṆAM.
 
       "The Viṣṇudharmottara is occasionally given out as a part of a Purana, namely the Garuḍa- Puraṇa, but generally it is counted an independent Upa-Puraṇa. It is repeatedly quoted by Alberuni as the 'Viiṣṇudharma'. It is a Kashmiri Vaiṣṇava book of ency- clopoædic character in three sections. Section I deals with the usual themes of the PuraṇasSection II deals with law and politics, as well as with medicine, the science of war, astronomy and astrology. There is in it a prose section... Paitāmaha-Siddhānta' as this is an extract from the Brahamā-sphuṭa-siddhānta written by
 
-
-
-
-
-
 Brahmagupta in 628 A. D., the Viṣṇudharmottara must have been compiled between 628 and 1000 A. D. Sect. III, too, is of a very miscellaneous character, treating of dancing, singing and music, sculpture and painting (the making of images of gods) and architecture (construction of temples)."
 
       The Matsya-Puraṇa, the Padma-Puraṇa, the Skanda- Puraṇa and the Brahma-Puraṇa were also used for the (Śiva) Linga and (Viṣṇu) Śālagrāma sections; and passages from the Bṛhat-Saṃhitā, have been quoted verbatim, in the Adbhuta section.
@@ -342,12 +227,6 @@ Brahmagupta in 628 A. D., the Viṣṇudharmottara must have been compiled betwe
        But the work most profusely drawn upon, often verbatim, is certainly the[Rūpa maṇḍana](http://# "T. A. Gopinatha Rao: Elements of Hindu Iconography. Vol. I. Part II."). This may be identical with the text of the same name[^22], the authorship of which is ascribed to Maṇḍana himself.
 
 [^22]: " See Section 1. Supra."
-
-
-
-
-
-
 
 **2**  
 ON THE CANONS OF INDIAN ART.
@@ -388,13 +267,6 @@ The Agni-Puraṇa[^25]. Chap. 39, v. 1-5. There are some different readings, not
 
 नारदीयं च संप्रश्नं शाण्डिल्यं वैश्वकं तथा॥ ३॥
 
-
-
-
-
-
-
-
 सत्योक्तं शौनकं तन्त्रं वासिष्ठं ज्ञानसागरं ।
 
 स्वायम्भुवं कपिलं च तार्क्ष्य नारायणीयकम् ॥ ४ ॥
@@ -426,16 +298,10 @@ Among the Brahmanic masters of Vastu and śilpa-śāstras, the names of Viśvaka
 
 [^28]: "Berthold Laufer: Dokumente der indischen Kunst. Erstes Heft. Maleri: Das Citralaksana'. Leipzig, 1913."
 
-
-
-
-
-
 (āśīrvacanam), the definition of the subject-matter (vastu-nirdeśa) etc., in the regular Kārya style.
 
    An attempt may be made to render these important passages back into rhythmic Sanskrit, from the German translations in Dr. B. Laufer's admirable edition of the text-the original version of which is probably lost, though a Tibetan translation of it has fortunately been preserved.[^29]
 
-  
 आदौ चन्द्रमसं वन्दे महादेवं ततः परं चूडायामिन्दुशकलं मूर्ध्नि यः संविभर्ति वै।
 
 [^29]: "These conjectural reconstructions unsatisfactory though, they might be of interest to those to whom the German and Tibetan editions are inaccessible or not sufficiently intelligible."
@@ -459,13 +325,6 @@ Mānasāra[^30]
 Is the most complete architectural treatise
 
 [^30]: "P. K. Acharya: Minasira. Chapters lxviii, Ixx. i, ii; also, Ibid: Indian Architecture according to Manasara-kilpa-bastra, pp. 164ff. "
-
-
-
-
-
-
-
 
 extant and of this work, we have a critical ed. It gives a list of thirty-two 32 authorities
 
@@ -507,13 +366,6 @@ The list in the Agni-puraṇam as well as in the Manasara is confusing and appar
 
 [^32]: "See Note 30 Supra and text."
 
-
-
-
-
-
-
-
 dubious similar or same names occurring repeatedly. Of some names we are not sure if they are personal names or the titles of works.
 
      The Tibetan text, dpag bsam ljon bzans[^33] of Lama Sum-pa mk'an-po ye-śes dpal-abyor (1702-1775), traces the origin of the art of painting to Nagnajit :-how he painted the figure of a dead Brahmin child and how the god, Brahman invested it with life. Later on the art of painting was propagated through Viśvakarman, and Ṛṣī Ātreya who discovered calligraphy. The latter is known from Tibetan sources, as the author of an iconographic work, which is preserved in translation, in the Tanjur.[^34], Silpa-vidya-sastras.")
@@ -536,12 +388,6 @@ dubious similar or same names occurring repeatedly. Of some names we are not sur
 
 [^37]: "See P. K. Acharya: Indian Architecture according to Manasura- kilbakastra. D. 100. For Mss. of the work, see Orient. Mss. Libr.,"
 
-
-
-
-
-
-
 has as yet come under my subject of sculpture as own observation, is exclusively on the connected with the function of statues ; but it is so diffuse, that if we suppose the whole work to be written in a similar style, it must considerably exceed the volume of Mānāsārā, the largest at present of my collection.[^38] p. 8.  ")"
 
 [^38]: "Ram Raz; Essay on the Architecture of the Hindus, (London, M. DCCC. xxxiv.
@@ -549,12 +395,6 @@ has as yet come under my subject of sculpture as own observation, is exclusively
 There is also, the Sanatkumāra-vāstuśāstra[^39], of Sanat-kumāra, who acknowledges his debt to other Ācārya, among whom are Candra and Yama, Bhārgava, Aṅgīrasa, Manu, Vyāsa, Bhṛgu.
 
 [^39]: " P. K. Acharya: Op. cit., p. 102. For Mss., see Eggeling, III. 3151, 2680; Oppert, Vol. I, No. 8239. In Orient. Mss. Libr., Madras, Cat. Vol. XXII, Nos., 13060-13068, there are nine Mss., mostly fragments."
-
-
-
-
-
-
 
 There is also a Sārasvatīya-śilpa-śāstra[^40]ascribed to Sārasavatī.
 
@@ -581,11 +421,6 @@ There is also a Sārasvatīya-śilpa-śāstra[^40]ascribed to Sārasavatī.
 
 [^47]: "P. K. Acharya: A Dictionary of Hindu Architecture. Appen- dix I. sub. voce. "
 
-
-
-
-
-
      "According to the Mahabharata 9. 37, 14f. there is a sacred place Garga-srotas, "Garga's stream", on the Sarasvati, named after the venerable ascetic Garga, who was famous on account of his knowledge of time", "and the movements of the celestial bodies". "To the same (later) period (of Indian astronomy) belongs also the Gargi-samhita of Garga who was always regarded as a highly distinguished authority on Astronomy; the Vrddha-Garga-samhita, which exists, dealt, it is true, chiefly with astrology but it also contained (discussions on) Astronomy[^48] "  
     The Bṛhat-saṃhitā[^49]of Varāhamihira mentions Garga, Maya, Viśvakarman, Vaiśiṣṭha and Nagnajit, as also, Bhāṣkara and Manu.
 
@@ -600,13 +435,6 @@ There is also a Sārasvatīya-śilpa-śāstra[^40]ascribed to Sārasavatī.
     Bhagavān Gaṇapatī is mentioned, among later writers only by Madhūsudana Sārasavatī in his Prasthāna bhedā[^51], as a master of dramaturgy, Bhārata śāsastram:-
 
 [^51]: "These surprisingly informative and new texts are not to be found in the ordinary edition of the Prasthanabheda by Eri Madhusudana Sarasvati e. g. from Sri Viņivilis Press, Srirangam, 1912. Nor are they to be found in the closely analogous passage in Sri Madhusudana's learned commentary to the SIVA-MAHIMNA-STAVA, edited by Pansikar Laksana Vasudeva, Nirnayasagar Press, Bombay under the most famous and oft-quoted verse ;-"
-
-
-
-
-
-
-
 
 ॥ १८. भरतशास्त्रम् ॥
 
@@ -633,18 +461,9 @@ The same Prasthāna bhedā further informs that Kaśyapa was the author of a vol
 वयीसांख्यं योगः पशुपतिमतं वैष्णवमिति प्रभिन्न प्रस्थाने परमिदमदः पथ्यं हितमिति च।  
 रुचीनां वैचित्र्याद्ऋजुकुटिलनानापथजुषां नृणामेको गम्यस्त्वमसि पयसामर्थंत्र इव॥
 
-
-
         The Prasthunabheda of Sri M. seems to be an elaboration of, if not identical with his elucidations or comments to the passage 'प्रभिन्ने प्रस्थाने' in the above verse, of the Ode-which is one of the gems of Sanskrit Literature. This superb verse may be thus freely rendered into English:-
 
        Diverse are the canons-viz. the three (revealed Vedic Texts) Samkhya, Yoga, the doctrines of the Pasupatas and the Vaisnavas- this one may be supreme, or that one may be salutary and good. People the straight ++++++++++++++++ or circuitous, owing to their different
-
-
-
-
-
-
-
 
 Regarding the Śilpa Sastras, Rám Ráz says[^52] :-
 
@@ -666,13 +485,6 @@ temperaments. But like unto the rivers, which take direct routes or run along ci
 
      As regards the time etc. of Sri Madhusudana Sarasvati, a few words would be not out-of-place. He flourished before Śri Caitanyadeva, in Bengal and was the author of several works of great erudition, among which are Bhaktirasayanam (Ed. Acyutagranthamala, Benares) and Advaitasiddhi (Ed. Rajendra Ghosh, Calcutta).
 
-
-
-
-
-
-
-
 arts on which each work treated, or of the authors of the treatises themselves, the renowned Rishis or holy men, who are said to have flourished in the earlier ages."
 
   The South Indian Agamas are extensive works and deal mostly with Siva. There are twenty-eight recognized Agamas⁵².Some of them incidentally deal with architectural subjects, in great
@@ -690,13 +502,6 @@ arts on which each work treated, or of the authors of the treatises themselves, 
       "The Vaikhānasagama has two chapters on sculpture, one of which deals with the general description of images and the other with the ten tula measures. The Amsumad-bhedagama has a single chapter on the ten tala measures."
 
 P. K. Acharya: Ind. Architecture according to the Manasara, ++++++ The agamas.
-
-
-
-
-
-
-
 
 detail. The oldest Śaivāgama extant the (Uttara) Kamikagama is probably not older than the 5th or 6th century A. C.[^53]
 
@@ -716,13 +521,6 @@ detail. The oldest Śaivāgama extant the (Uttara) Kamikagama is probably not ol
 
 [^57]: "Through the kind help of Bhadanta Mañjuri, very obliging Buddhist Monk who is well grounded in Pali and Sanskrit, I was ableto prepare for my personal use a Nagari transcription of this important Text and its Ceylonese Commentary. This learned monk has also undertaken to transcribe in Nagari, for my use, the two remaining chapters of the Sariputra, as also the Rupivali. I am preparing to publish critical editions of these important Texts of Buddhistic Art in near future."
 
-
-
-
-
-
-
-
      The Buddha-pratima-laksanam is preserved also in a Chinese version.[^58] We thus have three versions of this Śilpa text- the original Sanskrit, the Tibetan and the Chinese Translations, for comparison.
 
 [^58]: "See Haridas Mitra: Op. cit., Appendix: Tsao-siang-tou-leang- king."
@@ -737,11 +535,6 @@ detail. The oldest Śaivāgama extant the (Uttara) Kamikagama is probably not ol
       The Vāstu-śāstras and its subsidiary branch the Śilpaśāstras have been generally included into one of the Uparedas- the Artha-śāstra, by Madhusudana Sarasvati[^61]")" :-
 
 [^61]: "Madhusfidana Sarasvati: Prasthana-bheda. (Ed., T. Subraya Sastri, Mangalore
-
-
-
-
-
 
 अथोपवेदाः ॥ आयुर्वेदो, धनुर्वेदो गान्धर्ववेदोऽर्थशास्त्रं चेति चत्वार उपवेदाः ॥
 
@@ -765,13 +558,6 @@ detail. The oldest Śaivāgama extant the (Uttara) Kamikagama is probably not ol
 The emendations (within brackets) of the Nāgarī Text, are by the present writer, from a comparison of the different editions.  
 "Only in the Black Yajurveda schools of Baudhayana and of Apastamba do we find Kalpasūtras containing all the four kinds of sūtra texts, Śrauta, Grhya, Dharma and Sulva-slitras; and
 
-
-
-
-
-
-
-
   The Śulva-sūtras give directions for construction of the fire Altars, the Vedis and the C'itis etc.  
     From the root cin cayane, to collect ----- ---------- are derived,  
 the three most important terms:-  
@@ -794,11 +580,6 @@ in these cases it can be proved that these works are indeed so interconnected th
 P. 271. "Ritual (Kalpa), which constitutes the chief contents of the Brahmanas, is...the first Vedänga to receive systematic treatment in special manuals, the so-called Kalpasutras. They arose out of the need for compiling the rules for the sacrificial ritual in a shorter, more manageable and connected form for the practical purposes of the priests."  
      P. 275. "The Sulvasūtras, which are directly attached to the śrauta- sütras, should be mentioned in connection with these Kalpasūtras. They
 
-
-
-
-
-
      Indeed, the beginnings of the Vāstu-sāstras and the Śilpa-śāstras are to be traceable to the Vedangie Jyantisa, (Kalpa)Śulva-sūtra[^63] on the one hand, and to the Tantrika ritualistic Yantras and Maṇḍalas[^64] etc., on the other.
 
 [^63]: "See Note 62. Supra."
@@ -811,9 +592,9 @@ P. 271. "Ritual (Kalpa), which constitutes the chief contents of the Brahmanas, 
 
 [^65]: "P. K. Acharya: Ind. Arch, p. 132."
 
-    The Arthasāstra of Kautilya devotes some six or seven chapters to town-planning, the construction of residential buildings and fort, and specially military architecture. The Artha- sastra of Kautilya is an old work but in its present form not older than the 3rd century A.C.[^67], p. 523,")
-
 [^66]: "Narendranath Law: Varta-The ancient Hindu Economics, Ind. Antiq., Vol. XLVII, p. 256."
+
+    The Arthasāstra of Kautilya devotes some six or seven chapters to town-planning, the construction of residential buildings and fort, and specially military architecture. The Artha- sastra of Kautilya is an old work but in its present form not older than the 3rd century A.C.[^67], p. 523,")
 
 [^67]: "M. Winternitz: Geschichte der indischen Litteratur, III Band, (Leipzig. 1922
 
@@ -822,11 +603,6 @@ P. 271. "Ritual (Kalpa), which constitutes the chief contents of the Brahmanas, 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 contain exact rules for the measurement (Sulva means "measuring- string") and the building of the place of sacrifice and the fire-altars, and as the oldest works on Indian Geometry, are of no little importance for the history of science."
-
-
-
-
-
 
      Viśālākṣa-the great-eyed one, is one name of Śiva. And Bāhudantin is another name of Indra.[^68], pp. 507-8 and p. 508 Note 1. Free translation of this Note is given above.")
 In the Matsya Purana, Visalakṣa, Nandin, Indra, Śukra and Bṛhaspati are, all of them, cited as teachers of Śilpa[^69].
@@ -848,28 +624,17 @@ The
 
 [^72]: " M. Winternitz: Op. cit., p. 532 (Free Translation
 
-
-
-
-
-
 it, a forgery. Whether the remnants of an old Arthaśāstra have been preserved in the Śukraniti or not must be investigated first.' The Śukranīti in an older form may be anterior to the Matsya-P., which mentions Śukracārya, as one of the eighteen authorities of architecture-Vāstuśāstropadeśakas[^73], chap. 252. See Note 25. supra."), The Śukranīti deals with architecture and sculpture in chapter IV, sections 4 and 6. There are frequent and casual references to both these subjects in other portions of the treatise as well.[^74]
 
 [^73]: " Matsya-Puranam, (Anandüśram Ed., 1907
 
-      'Varāhamihira's Bṛhatsaṃhitā is one of the most important works of the Indian literature. It is a principal work on natural Astrology. As this subject is of importance in all departments of life, all the varied branches of the public and the private. life have been treated in the work. Hence it partakes to some extent of an encyclopaedic character and is concerned with numerous other arts and sciences'.[^75]; Ed. by Mm. Sudhakara Dvivedin with the Commentary of Bhattotpala (Vizianagram Sanskrit Series); Transl. for the greater part by H. Kern. JRAS. (1870-75). Complete Translation by Chidambaram Iyer (Madura, 1884).")
-
 [^74]: " P. K. Acharya: A Dictionary of Hindu Arch., p. 799; also see Sukraniti Text; and the Engl. Transl. by B. K. Sarkar."
+
+      'Varāhamihira's Bṛhatsaṃhitā is one of the most important works of the Indian literature. It is a principal work on natural Astrology. As this subject is of importance in all departments of life, all the varied branches of the public and the private. life have been treated in the work. Hence it partakes to some extent of an encyclopaedic character and is concerned with numerous other arts and sciences'.[^75]; Ed. by Mm. Sudhakara Dvivedin with the Commentary of Bhattotpala (Vizianagram Sanskrit Series); Transl. for the greater part by H. Kern. JRAS. (1870-75). Complete Translation by Chidambaram Iyer (Madura, 1884).")
 
 [^75]: "M. Winternitz: Geschichte III, p. 567. Brhatsamhita :-Ed. by H. Kern (Bibliotheca Indica
 
         Thus the Bṛhatsaṃhita, usually classed under the astro- nomical and astrological treatises, is but a semi-Purāṇa, dealing, as it does, with heterogeneous subjects like the Purāṇas themselves. ...In this treatise there are but five chapters devoted to both architecture and sculpture. But the subjects have been treated with a master hand....Quite consistently with his sense of proportion Varāhamihira devotes only one chapter to sculpture, in which details of images are described in a scientific manner which is-
-
-
-
-
-
-
 
 distinctly missing in other ancient literatures in his treatise seven architectural authorities are mentioned distinctly."[^76]  
     The authorities of architecture and sculpture, specially mentioned are Maya and Viśvakarman, Garga and Manu, Nagnajit, Vaśiṣtha and Bhāskara.[^77].")
@@ -883,14 +648,7 @@ THE CANONS OF INDIAN ART (Contd.)
 
    While, it is not necessary to make anything more than only passing reference to the Vedic, the Epic (Itihāsa) and the Classical Sanskrit and the Buddhist literatures etc., on subjects like architecture, art etc., these being dealt with, at great lengths by more competent scholars, elsewhere, the Paranas in this connexion call for special notice.[^78]
 
-
 [^78]: "For General information in full, regarding the Puranas, see :-M. Winternitz: A. History of Ind. Lit. Vol. I. Section II; especially, PP. 517-586. About the Silpa sections of the Puranas, see:- P. K. Acharya Ind. Arch. I. General Survey. III. The Epics. V. The Age of Manasura; and also A Dictionary of Hindu Archit. Appendix II.; N. Law: Varta-the Hindu Economics, Ind. Antiq., Vol. XLVII."
-
-
-
-
-
-
 
      Of the eighteen or nineteen Mahā-purāṇas, besides the other Upa-purāṇas[^79], chapt. XV.-ff. Puranas; and see, especially about eighteen Puranas, pp. 513-14 and about eighteen Upa- Puranas, p. 521. Also, M. Winternitz: Op. cit., p. 532-33- "), some nine have special reference to architecture and sculpture etc. Most of the Purāṇas are Vaiṣṇava and as many as fourteen of them are devoted to the worship of Viṣṇu; but they deal with the images of all the three deities, Trimūrti, forming the Triad.  
     1. The Agni-purāṇa has sixteen chapters on Vāstu and śilpa -one of them on town-planning, two on residential buildings and thirteen on sculpture.  
@@ -901,11 +659,6 @@ THE CANONS OF INDIAN ART (Contd.)
   6. The Matsya-purāṇa has eight comprehensive chapters dealing in great detail with architecture and sculpture, constituting
 
 [^79]: "For full lists of the Puranas and the Upa-Puranas: see M. Monier- Williams Indian Wisdom (1893, Lond
-
-
-
-
-
 
 the Vāstu-prakaraṇa i. e., the section on Architecture. In one of these chapters, accounts are given of the eighteen Vāstu- sāstropadeśakas, ancient masters of architecture. One chapter is devoted to columns, two to buildings, one to building-materials. Three chapters are exclusively devoted to sculpture-one being on Tālamāna, iconometry and two others on the Phallus.
 
@@ -918,21 +671,9 @@ the Vāstu-prakaraṇa i. e., the section on Architecture. In one of these chapt
 
 [^80]: "The Matsya-Purana is published in Anandäśram Sanskrit Series No. 54 and transl. into Engl., in SBH. (Panini office, Allahabad
 
-
-
-
-
-
 along is being drawn through the flood by the fish, there takes place between him and Viṣṇu, incarnated as a fish, a conversation which forms the substance of the Purana. Creation is treated in detail, then follow the genealogies. Neither are the usual geographical, astronomical and chronological sections absent, and according to V. A. Smith....the lists of kings in this Purāņa are particularly reliable for the Andhra dynasty. It has very much in common with the Mahabharata and the Harivamsa and there is often literal agreement. There are, however, very numerous later additions and interpolations. For instance,ceremonies at the building of a house (chapts. 252-257), the erection and dedication of statues of deities, temples and palaces (chapts. 258-270)...etc.
 
     "As far as the religious content is concerned, the Matsya- Purāņa might be called Śivaite with just as much reason as it is classed as Vişnuite. Religious festivals of the Vaiṣṇavas are described side by side with those of the śaivas, and both Viṣṇu and Śiva legends are related. In chapter 13 Devi ("the Goddess", Śiva's wife Gauri) enumerates to Dakṣa the one hundred and eight names by which she wishes to be glorified. It is obvious that both sects used the work as a sacred [book.](#)"
-
-
-
-
-
-
-
 
     "The Āgneya or Agni-purāṇa[^81] and Anandāśram Skt. Series, No. 41; Transl. by M. N. Dutt (Cal., 1901)."),is so called because it is supposed to have been communicated to Vaiśiṣṭha by Agni, It describes the incarnations (Avatāras) of Viṣṇu, among them also those as Rāma and Kṛṣṇā, where it confessedly follows the Rāmāyaṇa, Māhabhārata and Harivaṃśa. Although it commences with Viṣṇu,it is yet essentially a śivaite work and deals in detail with the mystic cult of the Liṇga and of Durgā. It also mentions Tāntric rites, gives instructions for the production of images of gods and their consecration and refers to the cult of Gaṇeśa (chapt.71) and the sun-cult (chapt. 73). But the cosmo- logical, geneological and geographical sections peculiar to the Puranas are not missing. The especially distinctive feature of this Purāṇa is, however, its encyclopedic characters. It actually deals with anything and everything. We find sections on Geography, Astronomy and Astrology, on omina and potenta, house building and other occupations of daily life....To which age this remarkable encyclopædia or its separate parts belong, it is impossible to say."
 
@@ -945,15 +686,6 @@ along is being drawn through the flood by the fish, there takes place between hi
 
 [^82]: "The Matsya-puranam. Transl. by A Taluqdar of Oudh. (The Sacred Books of the Hindus. Ed. by Major B. D. Basu. I. M. S. Vol. XVII.
 
-
-
-
-
-
-
-
-
-
 (17) Śukra and (18) Bṛhaspati are the chief eighteen preceptors of the Vāstusāstra. Lord Matsya had explained briefly the Vāstuśāstra to the King Vaivasvata Manu; 2- 4.
 
       Which I will now relate to you."
@@ -965,11 +697,6 @@ along is being drawn through the flood by the fish, there takes place between hi
       "Hayagriva said:-O, Brahman, hear me speak about the consecration of the images of Vishnu and other gods-(1).
 
      I have already dealt with the principles of [Pancharātras](#) and Saptarātra schools of philosophies which are classed by the Munis under twenty-five different heads as discussed in the following books or Tantras, viz.:
-
-
-
-
-
 
     (1) The Hayacirsa Tantram, which is the first and original book of the Pancharatra School, (2) the Trailokya Mohan Tantram, (3) the Baibhabum Tantram, (4) the Pouskaram Tantram, (5) the Prahlad Tantram, (6) the Garga, (7) the Galabum, (8) the Naradiya Tautram, (9) the Sampraenum Tantram, (10) the Sandilya Tantram, (11) the Vaishvakam, (12) the Svatatum, (13) the Shounakum Tantram, (14) the Vashistam, (15) the Gayansagar Tantram, (16) the Shaimbhubam, (17) the Kapil Tantram, (18) the Tarksa Tantram, (19) the Narayanikum, (20) the Atrayaum, (21) the Narasinha Tantram, (22) the Anandaksa, (23) the Arun Tantram, (24) the Boudhayan Tantram, (25) the Arsam or the Bicvoktam tantram which is a synopsis of the preceding one-(2)."
 
@@ -988,11 +715,6 @@ along is being drawn through the flood by the fish, there takes place between hi
 सांख्यं योगः पञ्चरात्रंवेदाः पाशुपतं तथा।  
 आत्मप्रमाणीतानि न हन्तव्यानि हेतुभिः॥
 
-
-
-
-
-
 from loss of traditions in North India, the Āgneya list of the Pāncaratra Āgamas is conclusively proved to be authentic.  
 
       "Now, in the case of the Pañcarātra, tradition mentions one hundred and eight Saṃhitās, and in a few, texts about this number are actually enumerated. Such lists, coquetting with the sacred number 108, are, of course, open to suspicion."  
@@ -1002,11 +724,6 @@ from loss of traditions in North India, the Āgneya list of the Pāncaratra Āga
     A still shorter list, namely that of the apocryphal Nāradiya, has not been taken into account."
 
     The literature of the Pañcarātras, like other sectarian literatures, falls into two broad divisions comprising respectively of works of inspired or divine origin and of human authorship The latter class, treats chiefly what are called vidhi and prayoga and consists of digests, commentaries, extracts and studies on special subjects, and the like. The former class, consists of the Saṃhitās or "compositions" (compendia), that is, metrical works
-
-
-
-
-
 
 dealing, with a number of topics, if not the whole, of the Pañca- rātra system.[^84]  
      "of the principal subjects treated in the Pañcarātra, the scientific student will probably find it best to distinguish the following ten :-  
@@ -1030,12 +747,6 @@ dealing, with a number of topics, if not the whole, of the Pañca- rātra system
 
     Even the Jainas and the Buddhists, did not lag far behind. It will, however, be out of place to make any discussion of the latter sources, here.
 
-
-
-
-
-
-
 CHAPTER IV
 
 THE PRESENT EDITION
@@ -1048,16 +759,6 @@ THE PRESENT EDITION
 
       There, however, prevails an unfortunate and regrettable attitude of mind which looks down upon these hereditary craftsmen and artists who have carried on with love and veneration even when there were no encouragements, the sacred duty of keeping up for generations, the flames of Indian artistic tradition alive. The Brahmanic theologians have cast down the artists and the craftsmens. The Nītiśāstra-kāras have enumerated
 
-
-
-
-
-
-
-
-
-
-
 the musicians along with the cut-throats, charlatans rascals.[^87]
 
     And yet the Śilpa, the Saṅgīta and the Nātya etc., which have all reputed Ṛṣis of hoary antiquity, as their founders, owed their birth to divine inspiration. We have, therefore, here, another set of apparent paradoxes of Indian culture, which should provoke serious enquiry.
@@ -1068,11 +769,6 @@ the musicians along with the cut-throats, charlatans rascals.[^87]
 
 [^88]: "तथा हि- श्रीगोपालभट्टकृते 'श्रीहरिभक्तिविजा से - १८ विलास - श्रीमूयविर्भावमाहात्म 'विष्णुधर्मोत्तरे। देवस्य प्रतिमायान्तु यावन्तः परमाणवः; सावर्षसहस्राणि विश्वलोके महीयते । ' तथा - 'श्री हरि०- १८ विलास --- श्रीमूर्ति प्रतिष्ठामाहाको 'मामा' । प्रतिष्ठायाः सुराणां च देवतार्यानुकीर्त्तनात् । देवयज्ञोवार्खापि बन्धनेन विमुच्यते ॥ तथा- संङ्घाभाषित प्रतिमा लक्षण-विवरण्याम्' यावन्तः परमाणवो भगवतस्तूयेषु विम्वेषु वा। तत्कर्त्तुर्दिवि भूतले च नियतं तावन्ति॥ --संपदोऽखिला भुक्ता च सर्वं सुखम्। प्रान्ते जन्मजराविपत्तिरहितं प्राप्नोति वौद्धं पदम्॥"
 
-
-
-
-
-
 dancing have similarly been glorified[^89], [Natyaprasamsa], l. 7b-11a (and Engl. Transl.). For the Sangita-sastra etc., also, it is possible to give numerous examples, of such eulogy.") although the artists and craftsmen themselves, curiously enough, occupy only degraded positions in society.
 
 [^89]: "Compare Nandikeśvara's Abhinayadarpanam (Critical Ed. of the Text with Introd., Transl., Notes and Illustrations. By Manomohan Ghosh., Cal. Skt. Series, No. V.
@@ -1082,13 +778,6 @@ dancing have similarly been glorified[^89], [Natyaprasamsa], l. 7b-11a (and Engl
 [^90]: "It would not be, out of place, to compare here, for example, the immense help, which the present writer derived, by subjecting the apparently confusing readings to Epigraphic and Palaeographic Tests, elsewhere, while preparing his edition of the important Silpa Text: The Buddhapratima-lakṣaṇam. The Sarasvati Bhavana Sanskrit Texts, No. 48. (Benares, 1933
 
      And when there is a great paucity of materials in the form of Mss., as is the case with the present text Devatā-mūrti-prakaraṇam, it is necessary to formulate some general laws, or, to deduce some principles for future guidance, in preparing a critical edition. Secondly, it is also very urgent to devise ways and means, for interpreting the texts of Silpa, when all extraneous aids are so inaccessible.
-
-
-
-
-
-
-
 
       In close analogy to the rules of interpretations, the Pari- bhāshās of Vyākaraṇa and Mīmāṃsā śāstras, we must formulate some rules, for these śilpa Texts, too.
 
@@ -1115,13 +804,6 @@ Some of the first rules, that should be made, may be as follows:-
 
    Now, we must turn back to the important question of the interpretation of texts. As has been stated before, there is a great paucity of aids to explanation. Commentaries, notes, so far as both the (śilpa) Vāstu and the Tantra śastras are concerned, are
 
-
-
-
-
-
-
-
 very few. Yet these subjects are of so great importance, that some methods must be found out for the correct understanding of these texts.
 
      Speaking from personal experience, the present writer can confidently recommend two very certain methods.
@@ -1140,25 +822,11 @@ very few. Yet these subjects are of so great importance, that some methods must 
 
    II. The second important method of interpretation of obscure passages is to trace these back, if possible, to the Source Books. Especially, when we have to do with compilations, (as is the case, with the present work, the Devatāmurti-prakaraṇa) which are based entirely on earlier texts, this method is very effective; and it is at once corroborative and corrective; for all citations can be thus checked at once and with absolute certainty.
 
-
-
-
-
-
-
-
     By tracing back to their sources, at least about half of the entire text of the Devatāmurti-prakaraṇa could be thus dealt with. The limited time at the disposal of the present writer has unfortunately rendered it impossible to trace and to locate every passage with equal success, though such an eventuality may not be impossible.
 
     Once for all, our lines of action have been determined, and the ways and means devised, we can proceed with greater hopes of success, in preparing the critical edition of the Devatāmurti-prakaraṇa. Though rigorous adherence to these above principles for guidance, and the methods of interpretation, may have drawbacks, conjectures and assumptions without sufficient data will be reduced to minimum. Moreover, imagination has little scope for any outlet in the specialised branches of study. The Muses of archaeology and history are too old to mount the Pegasus.
 
    With these preliminary remarks, it would now be possible, to discuss the readings of the Devatāmurti-prakaraṇa The passages within inverted commas are due to the present writer.
-
-
-
-
-
-
-
 
 CHAPTER V
 
@@ -1199,12 +867,6 @@ Devatāmurtiprakaraṇa (DM.)
 
 \* 'विलैःसन्दूषिता' इति वा पाठः।
 
-
-
-
-
-
-
 Śl. 9 corresponds to विष्णुधर्मोतरम् ३य खण्डम्, २१ - २३ क श्लोकाः ।
 
 "श्चेतश्च पद्मवर्णश्च कुमोपणसन्निभः ॥  
@@ -1239,10 +901,6 @@ BS. (Bibliotheca Indica) अ० ४६ (लिङ्गवैकृते) श�
 
 [^93]: "Unfortunately, this text is not accessible for the present, so quota- tion cannot be given, Sukraniti, Ch. IV, Section 4."
 
-
-
-
-
   
     Śl. 44. मन्येऽत्र, 'वृक्षवैकृतमधिकृत्य किञ्चिदुक्तमासीत् । Of VD. II, Adh. 136, Śl. 4, 5; 6, 40 etc.; and BS. Adh. 46, Śl.25 etc. तथास्य श्लोकस्य प्रथमार्द्धस्य पूरणमेवं भवितुं शक्यते - "स्वदेशध्वंसः स्फोटे भवेत्तथा देवपादपानाम् ॥ ४४ ॥"
 
@@ -1274,13 +932,6 @@ BS. (Bibliotheca Indica) अ० ४६ (लिङ्गवैकृते) श�
 छायादिभ्योऽष्टघ्नमानस्य वृद्धिः  
                     प्रोक्तो हस्तो जैनसंख्याङ्गुलैश्च ॥ १ ॥
 
-
-
-
-
-
-
-
        Śl. 2 corresponds to ŚR. II, Adh. 4.Śl. 51  
      Śl. 4. "कीर्त्तिमुखं त(ता) लमुखम्" इत्यपि पाठो भवितुमर्हति।
 कीर्त्तिमुखं तावत् "नरसिंहमिवापरम्", व्यात्तमुखोऽलङ्करणविशेषः । तस्योत्पत्तिः प्रयोगश्चशिल्पशास्त्रेष्वनु- सन्धेयः ।[^94], No. 1. The Ind. Soc. of Oriental Art, Calcutta.")  
@@ -1306,14 +957,6 @@ Compare MM. Adh7, Śl. 30ff पददेवता विन्यासः ।
                    "समानि यानि भागानि चतुःषष्टिवदाचरेत् ।  
                    असमान्यपि सर्वाणि चैकाशीतिपदोक्तवत् ॥ ३० ॥"  
 इत्यारभ्याध्यायान्तरपर्यन्तं द्रष्टव्यम् ।  
-
-
-
-
-
-
-
-
 
    Śl.18b. "वाक्यभेदो न कर्त्तव्यः" इति मनसि निधायैकवाक्यताञ्च अनुसन्धायैवं संशोधनं कृतम् ॥ १८ ॥  
    Śl. 24-27. \[ देवतास्थापने दिङ्निर्णयः \]  
@@ -1344,12 +987,6 @@ Compare Manasāra, IX, 387 ff. ; also, Vāsturājavallabha, IV, 13.
 
 "दक्षिणाधः करात् स्रष्टा जपमाली तथा स्रुचम् ।  
 पुस्तं कमण्डलुं धत्ते सकूर्चः कमलासनः ॥"  
-
-
-
-
-
-
 
 तेन च, ग्रन्थमध्ये 'त- 'कार- 'न' कारयोरेवम् 'उ'- कार - 'ऋ' कार 'र' काराणां परस्पर- भ्रान्तिदर्शनात् "कूर्च-कलापकैः सार्द्धम्” इति पाठः क्रियते।  
        Śl.. 3, 5, 6, 7. ब्रह्मणो हस्तेषु युगपत् श्रुति (वेद) पुस्तकयोरेकन्नानुपयोगात्, तथा ‘रूपमण्डनीये' पूर्वश्लोके ‘स्रुचमि’तिपाठदर्शनाच्च 'श्रुतिः' 'शुचि 'रिति उभावेवाऽपपाठौ, इत्यस्माकम् आशङ्का । 'स्रुचि 'शब्दः कोऽपि कोषेषु यदि लक्ष्यते, स एव पाठः साधुतर इति मन्ये।
@@ -1386,13 +1023,6 @@ Compare Manasāra, IX, 387 ff. ; also, Vāsturājavallabha, IV, 13.
 
 [^98]: "he Visvakarma-sustra has been quoted by T. A. Gopinatha Rao Op. cit.; the work has been published many times-see Note 27, Supra."
 
-
-
-
-
-
-
-
 भवन्मूर्त्ति। (३२) स्रुचं - • होमजकालिकाम्।भजेत्सा स्यात् पद्म- ॥ (३३) एषा स्याद्- ॥ (३४) सविता दशमस्मृतः ॥ एकादशस्तथा त्वष्टा विष्णुर्द्वादश उच्यते ।  
 अत्र ग्रन्थे 'विश्वकर्मशास्त्रा'त् कुत्र कुत्रचित्पाठभेदो दृश्यते। तेन अस्माकं मते, (२२लोके) सुधा (त्री) तथा (३२) होमज-नीलकम् इति पाठभेदौ भविष्यतः, 'ल'-कार- 'म' कारयोर्भ्रमदर्शनात् ।
 
@@ -1410,14 +1040,6 @@ Compare Manasāra, IX, 387 ff. ; also, Vāsturājavallabha, IV, 13.
 
 Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५अध्यायस्यैते १४१क - १५२ श्लोकाः ।
 
-
-
-
-
-
-
-
-
 कुत्र कुत्रचित् भेदा अपि दृश्यन्ते । तद्यथा-
 
      ( ४८ श्लोके ) पृथुदरीम् । (५०) पुस्तकं - । (५३) ततो शुक्रश्च- ।  
@@ -1434,11 +1056,6 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
 इति पाठभेदाः प्रधानाः, सर्वत्र कारकव्यत्ययश्च ।
 
 इति दश दिक्पालाः ।
-
-
-
-
-
 
 पञ्चमोऽध्यायः । (Chapter V. )
 
@@ -1462,11 +1079,6 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
   इति स्तोकमात्रंग्रन्थान्तरेभ्यो दर्शितम्। मन्ये, आकरग्रन्थानुसन्धानकोविदैः सर्वेऽपि श्लोकाः प्राप्स्यन्ते । समयाभावात, बाहुल्यभिया च, अलमधिकेन।
 
 [^107]: "See PT. P. 357. "
-
-
-
-
-
 
    तथा, 'मत्स्य' संबन्धीय- ५१ श्लोकस्थले 'जनार्दन' संबन्धीय- ५२श्लोकपाठे क्रमभङ्गदोषस्य परिहारो भवेत् ।  
 **   **Śl.64, 65, 67, 68. Taken from the VD. III, Ch. 54. Also, compare Hemadri, Dānakhaṇḍam,[^108], A. S, B,")
@@ -1496,9 +1108,6 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
 
      तथा "यदास्य -- --- ---- ---- ----- ----- ----- ( ६८ क ) " पाठः साधुः ।  
      तदनन्तरं श्लोकार्धःपरित्यक्तः - "\[ न कर्तव्यौ कर्तव्यौ देवपादधरौ। \]" समीचीन-
-
-
-
 
 मेतत् यदा गरुडो विष्णुमुद्वहेत् तदा चास्य पादौ ध्रियेतेति। द्विहस्तस्य गरुडस्य युगपत् छत्रकुम्भधारणं विष्णोर्भारवहनं चहस्तसाहाय्यं विनाऽसम्भवात् तेनैवमन्वयो भवितुमर्हति-  
        'यदास्य पृष्ठे भगवान् भवति, तदा गरुडस्य करौ छन्नकुम्भधरौन कर्तव्यौ' इति।  
@@ -1534,11 +1143,6 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
 (गदां रम्यां ) लिखेचित्रविशारदः ॥
 
 [^114]: "Quoted T.A. G.Rao:op cit."
-
-
-
-
-
 
 Śl.86-90. विष्णुधर्मोत्तरे ३य खण्डे ८१ अध्यायादेते ( श्लोकाः, २---७) गृहीताः ।तत्र पाठभेदाः-  
 
@@ -1577,12 +1181,6 @@ Sl. 47 - 57. 'शिल्परत्ने' उत्तरभागे २५
 
 [^125]: " These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."
 
-
-
-
-
-
-
 (२ क) - - कुण्डलाभ्यामल०-'रूपमण्डने' (२ख) नास्ति ।  
 (२ग) सद्योजातं -- --- ०पाणिकम् ॥ २॥  
 Śl. 3-5 'रूपमण्डने'[^125]
@@ -1610,12 +1208,6 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 
 [^130]: "See the present writer's Monograph, Sadasiva worship in early Bengal : A Study in History, Art and Religion. J. P. 4. S. B. (New Series
 
-
-
-
-
-
-
 (२१) पद्मासनं शिवाच्छायं पञ्चवक्तू अभीःशक्ति० - ॥ (२६) ० सूत्रञ्च
 -।इच्छाज्ञान \[क्रिया\] क्लृप्तb त्रिनेत्रं cज्ञानतोऽर्णवम् ॥
 
@@ -1640,12 +1232,6 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 
 [^133]: "Matsyapuranam (Vangavasi Ed., Cal.
 
-
-
-
-
-
-
  (४२ श्लोके ) 'तनुत्र्येक नि०---'(४४) 'ऋ (ज्वा) मुखगतः[^134] '।  
  (४६) एवंविधोऽयं कर्त्तव्यः-० प्रदः ॥ (४८) ' (मृ) णालोर्द्ध्वे' इत्युचिताः पाठाः स्युः । कारकाणां क्रमभङ्गश्च परिहर्तव्यः।  
     Śl. 52, 53;54, 55. 'रूपमण्डनेऽपि[^135]प्रायशः एवंरूपाः सन्ति । टीकाकृद्भिरपपाठाः शोधिताः ।  
@@ -1667,10 +1253,6 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 [^137]: "See राजनिघण्टसहितो धन्वन्तरीयनिघण्टः । मानन्दाश्रम संस्कृतग्रन्थावलि.ग्रन्थाङ ३३ । शक १८१८ । Aiso see, वनौषधिदर्पण । अभिनवनिघण्टु । राजदेद्य श्रीविरजा चरण गुप्त काव्यतीर्थ कविभूषयात वितीय संस्करण बङ्गाब्द १३२४ ।"
 
 [^138]: "Also quoted in T. A. Gopinatha Rao Op. cit., (bul
-
-
-
-
 
       Śl. 132-133. 'मत्स्यपुराणे'"[^139]. Adlh. 262, Śl. 13-16a")अ० २६२, श्लो० १३-१६क, द्रष्टव्याः ।  
      Śl 134-138. आदर्शपुस्तकं विना यथाशक्ति श्लोकानां पाठशुद्धिः क्रियते, केवलं लिपिशास्त्रं वास्तुशास्त्रं च विचार्य । तद्यथा-  
@@ -1698,10 +1280,6 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
         -- -- तत्पुरुष-- । -- ----॥ १५२ ॥  
   
        Śl. 167b.मन्ये, “वृषभस्य (विभोरन्ते) लिङ्गे दृष्टिं नियोजयेत् ।" इति पाठः कार्यः।
-
-
-
-
 
      Śl. 168. तथा "पादं जानु- --। स्थाननाशं ॥” इति पाठः कार्यः । इति पाठः कार्यः।  
      Śl.169पाठाशुद्धिबहुलस्य श्लोकस्य संशोधनं, प्रतीकस्य वा आदर्शपुस्तकस्य दर्शनं विना सम्यक्ता कर्त्तुं नैव शक्यते । तथापि केवलं लिपिशास्त्रं विचार्य आद्यद्वितीय- पङ्क्तयोरेवं पाठोद्वारः क्रियते "धात \[ -ा \]दिवं प्रति (थोऽ) तः कल्पनेऽस्य रूपं?
@@ -1740,10 +1318,6 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 
 [^143]: "Quoted in T. A. Gopinatha Rao: Op. cit."
 
-
-
-
-
  
 
    Śl. 36-42a. सर्वेऽपि श्लोकाः 'मत्स्यपुराणाद् गृहीताः[^149]. ")अ० २६० श्लोकाः ४५ ख - ५१ तथा 'शिल्परत्ने[^150]' उत्तरभागे अ० २५, १२ ८ख - १३० श्लोकानां कुत्र कुत्रचित् ३६-३८क लोकाः छाया अपि आदधते । 'मत्स्यपुराणात् कुत्रकुत्रपाठभेदाः सन्ति ।तद्यथा-
@@ -1771,12 +1345,6 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
     (६१ख) -षड्भुजा - ॥ (६२) पिङ्गला भूषणोपेता-। --- - स्रुवं--- ॥  
     (६३क) — कुण्ड विभ्रती - । (६४) शुक्लेन्दु० - जूटा शुक्ला – ० सुखप्रदा । --- वरदा-- ।  
     (६५क) शूलघण्टा० -।(६६ख) पताका --- पात्रं-- । (६७) --- --- - घण्टां --- ----कुक्कुटन्त्वधः।
-
-
-
-
-
-
 
 --- -- तीक्ष्णां---- ॥ (६८ख) - गदिमी बिभ्रती चाम्बुज० - ॥ (३९) --
 ---०भयान्वामे सा वेयं -- --- । --- ----महोदरी ॥ (७०ख) - ०भयान्वामे ॥ (७१) --- ----०त्यर्द्ध्व--- --- ।कलशं ? — ॥ (७२ख) दंष्ट्रोग्रा --- ॥ (७३) - कवचं शरम् \। अङ्कुशं - \[ दक्षिणे \] त्वथ - ॥ --- र्दण्डं --- चेति।
@@ -1810,9 +1378,6 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
           (७७ख) 'वीरेश्वर भगवान्- --- जटाधरः ॥  
           (७८क) वीणाहस्तत्रिशूलञ्च वरं चैव प्रका (श) येत्।
 
-
-
-
      Śl. 79; 80a; 81b. 'रूपमण्डने'[^152] वर्तन्ते । तत्र ( ८०क- श्लोके ) 'अक्षाब्जवीणापुस्तकं' इति छन्दोऽनुरोधात् समीचीनः पाठः ।  
      Śl. 84b; 85. अक्षपद्मपुस्तकाऽभयाः हि विन्यासभेदैः महालक्ष्मी महाकाली- महासरस्वतीनामायुधानि। तेन पद्मोत्पलयोरुभयोरेव एकत्र अनुपयोगात् (८४ख-श्लोकार्धे) 'अभयाक्षे' इति पाठो भवितुमुचितः। 'देवीमाहात्म्ये मार्कण्डेयपुराणीये' च देवीत्रयाणां लक्षणानि अनुसन्धेयानि।
 
@@ -1837,8 +1402,6 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
              चारुपीनपयोधरा ॥— — ——
 
 [^159]: "Quoted by T. A. Gopinatha Rao: Op. cit."
-
-
 
             — — — बाहुविंशतिसंयुता ।  
             ——शङ्ख— वाणशक्तिपवीनपि ॥  
@@ -1872,9 +1435,6 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 
 [^160]: "Quoted by T. A. Gopinatha Rao: Op. cit"
 
-
-
-
            ( ९५ख) बेतालः करटश्चैव पिङ्गाक्षो भृकुटिस्तथा ॥  
            (९६ क) धूम्रकः कङ्कदश्वैव रक्ताक्षश्च सुलोचनः ।  
 Śl.101-106. 'हेमाद्रिवतखण्डे '[^161].") " 'विष्णुधर्मोत्तरा' दुद्धृताः । कुत्र कुत्रापि पाठभेदाः सन्ति । केचन श्लोकास्त्यक्ताश्च। तत्र पाठभेदाः-  
@@ -1898,20 +1458,11 @@ Sl. 6-12. 'रूपमण्डने' कुत्रकुत्रभेद�
 
 [^164]: "T. A. Gopinatha Rao: Op. cit"
 
-
-
-
    Śl.119, 120. 'अभिनयदर्पणे[^165] CSS. No. 5, 1. 37 and 247; 36.") नन्दिकेश्वरविरचिते' प्रथमश्लोको द्विरावृत्तोवर्त्तते । तथा द्वितीयार्धपरिवृत्त्या श्लोकान्तरं वारेकमस्ति । श्लोकद्वयस्यैतस्य उद्धारेण अस्मन्मते दाक्षिणात्य मूलकत्वं 'देवतामूर्त्तिप्रकरण 'स्य प्रमाणीभवति, प्रकारान्तरेण ।  
    यथाशक्ति सर्वेषामपि अनेकेषां वा, पाठानां विचारं कृत्वा, ग्रन्थकृतो लिखनरीतिमधि- कृत्य किञ्चित् वक्तव्यमस्ति। 'देवतामूर्त्तिप्रकरणं' सङ्कलनमात्रमेव। यथेच्छं हि ग्रन्थकृता पुस्तकान्तरस्थानां ध्यानानां परिवर्त्तनं परिवर्धनं च कृतम्। तन्न तन्त्रोपासना- शास्त्रादिभिरनु- मोद्यते समर्थ्यते वा। तेनास्मन्मते शिल्पिनां कृते वर्णनमात्राण्येतानि, न तु ध्यानरूपाणि । तेन च सर्वथा नैतानि प्रत्यक्षरं ग्रहणयोग्यानि ।  
    अन्यदपि वक्तव्यमस्ति - आदर्शपुस्तकं प्रतीको वा भूयशः प्रमादबहुलोपपाठपूर्णश्च दृश्यते। मन्ये, द्वितीयस्य आदर्शस्याभावात् पाठोद्धारो न सम्यक्तया सिध्यति ।
 
 [^165]: "Nandikeśvara's Abhinayadarpanam (Ed., Manomohan Ghosh
-
-
-
-
-
-
 
 CHAPTER VI  
 THE CONTENTS OF THE DMP.
@@ -1921,11 +1472,6 @@ THE CONTENTS OF THE DMP.
      Chapter II of DMP., dealing with the pratimā-talanirṇaya, determination of the respective heights for images, consists of 38, thirty-three verses.  
      The first few verses (1-3) give the units for measurement, which increase in multiples of ten. The highest working unit is the tāla.
 
-
-
-
-
-
      Images vary in height from one tāla.to fifteen tālas (śl. 4-13a); no images should be made of longer proportions. The respective proportions are given, of limbs in images of seven tālas (śl. 136-15) in images of seven and a half, 7^(½)talas (Śl. 16-18); in images of eight tālas (śl.19-21) and in images of eight and a half, 8^(½) tālas (śl. 22-24); and lastly in those of nine tälas (Śl. 25-32).  
      Chapter III of 28, twenty-eight verses begins with directions for plotting the ground-plan of buildings (śl.1, 2). The respective positions of the different deities in the general plan, derāta-pada-sthānam, are next given (śl. 3-8). The presiding deities with respective positions in a plan of sixty-four plots, deratā-dṛṣṭi-sthānam, are next given (śl. 9-21). The directions (of the compass) to which the respective deities should face in temples, are next given (śl. 24-27).
 
@@ -1934,11 +1480,6 @@ THE CONTENTS OF THE DMP.
    The nine chief planets, navagrahas are described, next Śl 48-58); as also the ten guardians of quarters, dasa-dik-pālas. Chapter V deals wholly with Visnu and consists of 116, one hundred and sixteen verses.  
     The first few verses (śl. 1-6) show the suitability of particular forms of Visnu for particular castes. The conditions, when mutilated images are to be accepted or rejected, are next given (śl. 7).  
    The next section on the twentyfour forms of Visnu, caturviṃśati-murttayaḥ, enumerates the distribution of the objects, held in hands, for the various forms (śl. 8-13) and the order of distri- bution (śl.14).
-
-
-
-
-
 
      The next is a long section (śl. 15-63) on the examination and selection of sālagrāma stones, sālagrāma-silā-parikṣā; (śl.15) the suitable form and the suitable sizes (śl. 16, 17) for stones are given; as also the unsuitable types (śl. 18-20) with certain modifications (śl. 21); the differences in merit owing to variation in colours (śl. 22); and the respective names according to variation of colours (śl. 23, 24); and the proportion of the discus, cakra- pramāṇam.  
      In the next subsection, calera \[viśeṣa\]-lakṣaṇāni, the parti- cular types of caleras are described (śl. 26-36); the differences in name according to colours and their particular merits (śl.37-40); other kinds of caleras and their resultant merits in worship (śl. 41-43, 45-51) (7. 44); the ten avataras of Visņu are described (śl. 52-60); the banning of exposure of caleras (śl. 61) and of the sales etc., of the same (śl. 62); the glorification of the śālagrāma stone is next given.
@@ -1950,11 +1491,6 @@ THE CONTENTS OF THE DMP.
 
     Next, are described mṛtyuñjaya (śl. 15, 16); Vijaya (śl. 17, 18); Kiraṇākṣa (śl.19); Aghora? (śl. 20); Śrilsantha (śl. 21, 22); Mahadeva (śl. 23, 24), sadāśiva (śl. 25, 26).
 
-
-
-
-
-
      Then are given descriptions, successively, of Ardhanārīśvara (śl. 27-30); and Uma-Maheśvara (śl.31, 32); kṛṣṇa-śaṅkara (śl. 33, 34); Kṛṣṇa-Kartikeya (Śl. 35a); śiva-nārāyaṇa (śl. 36- 41); Hari-Hara-Pitamaha (śl. 42, 43); (Surya?) Hari-Hara- Pitamaha (śl. 44-46); Candranka-Pitamaha (57. 47, 48); Candabhairava (śl. 49-51); Virūpāksa (śl. 52, 53); Tryambaka (śl. 54, 55); Hari-Hara-mūrti (śl. 56, 57).  
       From the union of Sankara and Kṛṣṇa, result 32, thirty- two different varieties of images, which are not described, but are to be known from instructions.  
     The Lingas form the subject of an entire lengthy section (śl. 59-152); eight different metallic substances for making phalluses are first given (śl. 59); the proportions of metallic phalluses (śl. 60) and their varieties (śl. 61) and phalluses of jewels (śl. 62) are given.  
@@ -1964,11 +1500,6 @@ The proportions of phalluses made of timber (67. 63); their varieties (śl. 64);
   The Nāgara-linga, its three classes and proportions (śl. 81-86); the Drāviḍa-linga, its classes and proportions (śl. 87- 88); the Veśara-lingas are next described.  
     The Astrological considerations as regards Temples of the phalluses etc. (śl.90-94); the auspicious signs (śl.95); the clock-wise spiral and the colours which are conducive to happiness (śl. 96); the method of marking lines on any phallus; the shape of the upper parts of phalluses (śl 98, 99); the bad signs of phalluses (śl. 100) and the proportions of crystal and wooden phalluses (śl. 101) follow, successively.
 
-
-
-
-
-
       The next subsection is concerning Bāṇa-lingas. The places of origin of Bāna phalluses (Śl. 102, 103); the selection of Bāṇa- lingas (Śl.. 104); the bad Bāṇa-lingas (Śl.105, 106); the conditions, when even pieces of stone are sacred (Śl. 107); the sacred- ness of Bāṇas, from any place whatsoever (Śl. 108); the shape of Bāṇas which give wealth, etc., (Śl. 109-110); the sacredness of Bāṇas, under all conditions (Śl.111-114); the merits of installing Bāṇas (Śl.. 115-121); the glory of worshipping Bāṇas having one to fourteen asras (Śl.122) are described, in order.  
     The characteristics of sacred tanks attached to śiva shrines (Śl.123); the merits of taking baths in the same (Śl.124a) and the sins for stepping across waters, with which Siva is washed (Śl.124b); the procedure of circumbulating sacred shrines of deities (Śl.125) and special restrictions with regard to Jaina shrines (Śl.126); the directions to which the water conduit, pranala, should face (Śl.127); the characteristics of pedestals etc., (Śl.128, 129) and conduits etc., (Śl.129-132 and 150); and of sluices (Śl.133) are given.
 
@@ -1976,11 +1507,6 @@ The proportions of phalluses made of timber (67. 63); their varieties (śl. 64);
 
      The varieties of Pedestals (Śl.141,142) and the characteristics of the different Pedestals (Śl.142-146) and their special qualities (Śl.147-148); the directions for making Pedestals, to be of the same class with the phalluses (s. 149); the characteristics of Mukha-linga (l. 151) and the names of the different faces (Śl.152) are described.  
    Next, are described, Śiva Temples with one door (Śl.153, 154); and with four doors (Śl.155-157); and the Guardians facing the east (Śl.158, 159), the south (Śl.160, 161), the west (Śl.162, 163) and the north (Śl.164, 165), respectively; and lastly, the positions of the animal vehicles, vahanas for deities (Śl.166, 167); the height of the images, to which, their respective vāhanas should look up (Śl.168).
-
-
-
-
-
 
      Chapter VII, consisting of 74, seventy-four verses gives descriptions of the twentyfour Jaina Tīrthankaras and their attendant yakṣas and yaksinis. The names of the twenty-four Tirthankaras (Śl.1-3); the respective bodily colours (Śl. 4), their Dhrajas, flags (Śl.5, 6) and the Lunar mansions, Bhas of birth (Śl.7-9) for the different Jinas; and their birth-asterisms, Rāśis  (Śl. 10, 11) are given.
 
@@ -1994,13 +1520,6 @@ The proportions of phalluses made of timber (67. 63); their varieties (śl. 64);
     The opening verse (śl.1) gives the general description of the Image Gauri, Gaurī-mūrtināṃa- sāmānya lakṣaṇam; then follow the names of twelve different varieties of Gauri (1, 2), as well as their descriptions (87. 3-14); the deities in a shrine of Gaurt (śl. 15-17), and the attendants to Gauri (l. 18-20) have after- wards been described.
 
    The next section (Śl.21-35) describes Gapesa (Śl. 21) and his different forms, Heramba (Śl. 22, 23), Gajanana (Śl.24), Vakratunda (Śl.25), Ucchista-gaṇapati (Śl.26), Heramba (Śl.27), Kṣipra-gaṇapati (Śl. 28); the deities in a shrine of Gaṇeśa; the attendants of Gaṇeśa (Śl.30-35).
-
-
-
-
-
-
-
 
      The following section (Śl. 36-42) deals with kārtikeya ; his twelve-handed form (Śl. 36-40); the two-handed form (Śl. 41a) and the four-handed form (Śl. 41b, 42) are described.
 
@@ -2017,12 +1536,6 @@ The proportions of phalluses made of timber (67. 63); their varieties (śl. 64);
 
   The use of postures and gestures (Śl.118); and of the movements of the hands and eyes for the purpose of (dramatic) expression (Śl.119); and the special function of the different parts of the body in Dance (Śl.120)-form the closing part. The last two (8, 121-122) verses contain the author's apology for preparing the compilation, and the final benediction.
 
-
-
-
-
-
-
 **CONCLUSION**
 
         As has been clearly pointed out, the Devatāmūrti-prakaraṇam of Sutrabhrt Maṇḍana, the Ātmaja, son of Srikşetra, is a compilation.
@@ -2035,18 +1548,10 @@ The proportions of phalluses made of timber (67. 63); their varieties (śl. 64);
 
    Finally, my thanks are due to the learned Editor and the Publishers of this well-known Series, who invited me to write out this Introduction to the DMP. I have tried to do my work, as best as possible, in spite of the limitations of time and resources etc., at my disposal. I shall be highly gratified if it will be of any service to students of the subject.
 
-
-
 31st Chaitra, 1341 B. E:                      
   
 SANTINIKETAN                             
    HARIDAS MITRA              
-
-
-
-
-
-
 
 **देवतामूर्त्तिप्रकरणस्य**
 
@@ -2054,60 +1559,19 @@ SANTINIKETAN
 
 [TABLE]
 
-
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
 [TABLE]
-
-
-
-
-
-[TABLE]
-
-
-
-
-
-[TABLE]
-
-
-
-
-
-
-
-[TABLE]
-
-
-
-
-
-
 
 ग्रन्थकर्त्तुर्मङ्गलाचरणम्
 
@@ -2120,8 +1584,6 @@ SANTINIKETAN
 योऽसौ सृष्टिकर्त्ता सुरदनुजनरैः सर्पविद्याधराद्यैः ॥ \]
 
 \_\_\_\_\_\_\_\_\_\_
-
-
 
 **देवतामूर्त्तिप्रकरणम्**
 
@@ -2154,8 +1616,6 @@ SANTINIKETAN
 कंसं कस्यच पर्यायशब्दौ । यद्यपि -  
              तालः करतलेऽङ्गुष्ठमध्यमाभ्याञ्च सम्मिते ।  
              गीतकालक्रियामाने तालः खड्गादिमुष्टिषु ॥
-
-
 
 .  
 **देवतामूर्त्तिप्रकरणम्**
@@ -2201,8 +1661,6 @@ SANTINIKETAN
 
  बिम्बमूर्त्तिः शरीराभा विश्वमूर्त्तिस्वरूपकैः ॥
 
-
-
 **प्रथमोऽध्यायः**
 
 षण्ढोपलेन कर्तव्यं (व्ये?) ब्रह्मकूर्माशि ( ले त ?) लैस्तथा।  
@@ -2212,13 +1670,11 @@ SANTINIKETAN
                दृश्यो देवसमाख्यातः .... ....    
 ॥(अ० ३३, १-३ श्लो०)
 
-
     एवं त्रिविधमपि लिङ्गं पुंशिलया कार्यमित्याह - लिङ्गानीति। काश्यपशिल्पे तु 'पुंशिलाभिःकृतं लिङ्गम्' (अ० ४९, ५९ श्लो० ) इत्यविशेषेण लिङ्गमात्रोल्लेखः कृतः । व्यक्तमाह मयमते-
 
 "सकलं निष्कलं मिश्रं कुर्यात् पुंशिलया सुधीः" इति ।
 
 (अ० ३३, १० श्लो०)
-
 
 पीठिकेत्यादि -           पीठिका पिण्डिका गौरीपीठमित्यर्थः, न तु पादशिला,  
                     पुंशिलाभिः कृतं लिङ्गं स्त्रीशिलाभिस्तु पिण्डिका ।  
@@ -2240,8 +1696,6 @@ SANTINIKETAN
                   प्रासादतलकुड्यादिकर्म कुर्याद विचक्षणः। (अ० ३३, ११-१२ श्लो०)
 
    ब्रह्मकूर्मशिले इति तत्तन्नामकपादाधारशिलाद्वयी। तथा चाऽधस्तादुद्धृतयोः काश्यपशिल्परत्न वचनयोः नपुंसकशिलाकर्त्तव्यतया 'पादाधार' इति 'पादशिलार्थ' मिति च यदुक्तं तस्यैवायं व्यास इति मन्तव्यम् । पादशिला हि प्रतिमाधस्तात् स्थापनीया शिला, तस्याश्चब्रह्मशिलेति कर्मशिलेति द्वौ भेदौ। कर्मशिलेत्यत्र 'कर्मशिले 'त्याग्नेय मात्स्यसमराङ्गणसूत्रधारेषु पाठः। तदेतदुभये अपि शिले उपर्यधः क्रमेण पादयोरधः स्थापनीये इति पुराणादिभ्यः समुपलभ्यते । तथा चाग्नेये-
-
-
 
 देवतामूर्त्तिप्रकरणम्
 
@@ -2276,10 +1730,6 @@ SANTINIKETAN
 विपरीतमिति यदुक्तं तदेव विवृण्वन्नाह शिल्परख उत्तरभागे-  
             स्त्रीशिलाकल्पिते लिने राष्ट्र राजा च नश्यति ।  
             पुंशिला कल्पिते पीठे लिङ्गे पीठे व षण्डके॥
-
-
-
-
 
 प्रथमोऽध्यायः
 
@@ -2317,8 +1767,6 @@ SANTINIKETAN
 
 इति, यच्च मयमते कोणायताया अपि शिलायाः प्रतिमार्थं ग्राह्यता प्रतिपादिता 'नैऋर्त्यैशान- 'देशाग्रा' इत्यादिवचनेन, तच्छिल्परत्नवचनविरोधाचिन्त्यमेव;शिल्परत्त्रपूर्वभागे दिगायतायाः शिलाया ग्राह्यत्वं कोणायतायाश्र वर्ज्यत्वमाह । तथा च-  
 
-
-
 देवतामूर्त्तिप्रकरणम्
 
 स्निग्धा शस्त्रसहा गभीरनिनदा दिश्याहिताग्रा शिला ।  
@@ -2351,8 +1799,6 @@ SANTINIKETAN
 
 वृक्षवत् प्रतिमा कार्या प्राग्भागाद्युपलक्षिता ।  
 पादाः पादेषु कर्तव्याः शीर्षमूर्ध्वे तु कारयेत् ॥ इति ।
-
-
 
 प्रथमोऽध्यायः
 
@@ -2397,9 +1843,6 @@ SANTINIKETAN
 
 देवता-२
 
-
-
-
 देवतामूर्त्तिप्रकरणम्  
 \[ त्याज्यशिलाकथनम् \]
 
@@ -2442,8 +1885,6 @@ SANTINIKETAN
 यच्चात्र पद्ये कृष्णशिलाया वर्जनाभिप्रायकं तदनुपादानं तदपि मसीकृष्णापरम्, तत्रैव-
 
 “कृष्णकृष्णा विनाशाय श्वेतकृष्णा तथैव हि” (अ० ४९, ४९ श्लो०)
-
-
 
 प्रथमोऽध्यायः
 
@@ -2496,9 +1937,6 @@ SANTINIKETAN
 
 शुभान्येतानि भौमानि अशुभं विपरीतकम्।
 
-
-
-
 देवतामूर्त्तिप्रकरणं
 
 उल्कापात दिशां दाहंमहावातप्रवर्त्तनम् ।  
@@ -2550,12 +1988,6 @@ SANTINIKETAN
 कर्त्तुरनुकूलदिवसे दैवज्ञविशेषिते शुभनिमित्ते।  
 मङ्गलशकुनैः प्रास्थानिकैश्चवनसम्प्रवेशः स्यात् ॥ इति ।
 
-
-
-
-
-
-
 प्रथमोऽध्यायः
 
 \[ प्रासादमानमोड स्थज्येष्ठप्रतिमालक्षणम् \]
@@ -2586,7 +2018,6 @@ SANTINIKETAN
 अपक्रामन्तु भूतानि यानि वृक्षाश्रितानि हि ।  
 कल्पनं वर्त्तयिष्यामि क्रियतां वासपर्ययः ॥ (अ० १६, २७ लो०)
 
-
    तदेतत् सर्वं शेषतो जिज्ञासुभिः समराङ्गणसूत्रधार - (अ० १६) काश्यपशिल्प- ( अ० ४९ ) मयमत - (अ० ३३) बृहत्संहितासु (५८ वनसम्प्रवेशाध्याये ) द्रष्टव्यम् ।
 
   ११। अथ प्रथमं प्रासादमान स्थायाः (दण्डायमानायाः) प्रतिमायाः प्रमाणम् उच्यते- एकहस्त इत्यादिना। एकहस्ते प्रासादे मूर्त्तिरेकादशाङ्गुला भवेत्। ततो हस्तचतुष्टयं यावत् प्रतिहस्ते दशाङ्गुला वृद्धिः। अर्थात्, द्विहस्ते प्रासादे मूर्त्तिरेकविंशत्यङ्गुला, त्रिहस्ते एकत्रिंशदङ्गुला, चतुर्हस्ते एकचत्वारिंशदङ्गुला भवेत् ।
@@ -2594,12 +2025,6 @@ SANTINIKETAN
 १२। ततो दशहस्तान्ता द्वाङ्गुला वृद्धिः, अर्थात् पञ्चहस्तादिदशहस्तान्तप्रासादेषु प्रतिहस्ते द्व्याङ्गुला वृद्धिः, तेन पञ्चहस्तप्रासादे त्रिचत्वारिंशदङ्गुला प्रतिमा, षड्ढस्तप्रासादे पञ्चचत्वारिंशदङ्गुला, सप्तहस्ते सप्तचत्वारिंशदङ्गुला, अष्टहस्ते ऊनपञ्चाशदङ्गुला नवहस्ते एकपञ्चाशदगुला, दशहस्ते त्रिपञ्चाशदङ्गुला प्रतिमा स्यादित्यर्थः ।
 
   शतार्द्धान्ताङ्गुलस्य च - शतार्द्धान्ता शतार्द्धहस्तान्ता वृद्धिरित्यस्य विशेषणम्। वृद्धिरङ्गुलल्य कालस्य एकादशहस्तादिपञ्चाशदस्तान्वप्रासादेषु प्रतिहस्ते एकैकाकुला वृद्धिरित्यर्थः। तेन च एकादशहस्तप्रासादे चतुःपञ्चाशदङ्गुला प्रतिमा, द्वादशहस्ते पञ्चपञ्चाशदला, त्रयोदशहस्ते
-
-
-
-
-
-
 
      
 
@@ -2640,8 +2065,6 @@ SANTINIKETAN
 २। कास्ताव गौर्या मूर्त्तय इत्यपेक्षायामाह- उमा वेति। अयमासाम् उद्देशः। रूप- मण्डने अयमुद्देशनिर्देशो नास्ति। तत्र 'अथ गौर्याः प्रवक्ष्यामीत्युपक्रम्यैव क्रमेणाऽsसां लक्षणानि लिखितानि।  
 पाठः ।  
 ४। 'अग्निकुण्डोभये पक्षे' इत्यत्र 'पक्षद्वयेऽग्निकुण्डल' इति रूपमण्डने (११२) ऋज्वर्थः
-
-
 
 **अष्टमोऽध्यायः**
 
@@ -2687,8 +2110,6 @@ SANTINIKETAN
 १०। सा रम्भा प्रतीतोद्भवद्रूपा प्रतीतं ख्यातम् उद्भवद् रूपं यस्याः तादृशी, यस्या रूपं प्रतिक्षणमेव नवनवीभूतं सत् प्रख्यायते इत्यर्थः। सोपसर्गेण भवतिना वर्त्तमानकाल- भाविना शन्नाच रूपस्य प्रतिक्षणोत्पद्यमानत्वं लभ्यते। रूपमण्डने-
 
 **देवता - १६**
-
-
 
 अक्षसूत्रंपुस्तकञ्च धत्ते पद्मं कमण्डलुम्।  
 चतुर्वक्त्रातु सा (वि ? स्त्री) श्रोत्रियाणां गृहे हिता॥ ११॥
@@ -2737,9 +2158,6 @@ SANTINIKETAN
 
 १५- १७ ।गौर्यायतनं लक्षयति - त्रक्ष्यामीत्यादिना। वामे इति दक्षिणस्यां दिशि,
 
-
-
-
 कुण्डलाभ्यामलङ्कृता सर्वाभरणभूषिता।  
 मध्ये देवी प्रतिष्ठा ( प्य?प्या ) चेश्वरस्य सदा प्रिया॥ १७॥
 
@@ -2773,9 +2191,6 @@ SANTINIKETAN
 
       १८-१९ । इदानीं गौर्याश्चतसृषु द्वार्षु चतस्रो द्वारपालिका आह—अभयेति । पूर्वादितः प्रादक्षिण्येन (पूर्व-दक्षिण-पश्चिमोत्तरक्रमेण ) प्रतिद्वारं द्वे द्वे द्वारपालिके वामदक्षिणोदुम्बरयोः
 
-
-
-
 दण्डञ्चपरशुं पद्मं मोदकञ्च गजाननम् ।  
 गणेशं मूषकारूढं सिद्धिदं सर्वकामदम् ॥ २१ ॥
 
@@ -2791,15 +2206,11 @@ SANTINIKETAN
 
 मोहिनी  
 
-
 [TABLE]
-
 
 \[कोष्ठमध्ये यथोक्ता आयतनदेवताः। कोष्ठाद् बहिर्द्वयोर्द्वयोरोदुम्बरयोः पूर्वादिक्रमेण यथोक्ता जयाविजयादिद्वारदेवताश्च\]
 
 २१। अथ गणेशमूर्तीराह-दण्डञ्चेति। अन्नाऽऽदर्शे लोकत्रयानन्तरम् ' इति हेरम्बः "  
-
-
 
 **अष्टमोऽध्यायः**
 
@@ -2829,7 +2240,6 @@ SANTINIKETAN
 
                     शुण्डामा हितबीजपूरमुरुकुक्षि श्रीक्षणं संस्मरेत्
 
-                   
 सिन्दूराभमिभास्यमिन्दुशकलायाकल्पमन्जासनम् ॥
 
 ( शि० उ० अ० २५, श्लो०५७)
@@ -2844,9 +2254,6 @@ SANTINIKETAN
 (अ० १, श्लो० १६ ) इति विषमः पाठो विषमा बोभयतः पार्श्वयोरायुधरचना दृश्यते।
 
 २३। पञ्चबक्क्त्रंत्रिनेत्रमिति गणेशहेरम्बयोः साधारणं लक्षणम्, गणेशलक्षणे वक्तूनेत्रयो- नुल्लेखात्, अत एव 'हेरम्बञ्च गणेश्वर' मित्यत्रो भयोरेव विशेष्यपरताऽभ्युपेया न त्वेकस्य विशेषणपरताऽपि ।
-
-
-
 
 लम्बोदरं त्रिनयनं पाशाङ्कुशधरं परम् ।
 
@@ -2895,8 +2302,6 @@ SANTINIKETAN
 
 इति। एवञ्चात्र 'भृङ्गमित्यन्न 'दण्डमिति पाठः कल्पनीयो न वेति सूधीभिश्चिन्तनीयम् ।
 
-
-
 **अष्टमोऽध्यायः**
 
 उत्तरे तु सदा गौरी याम्ये चैव सरस्वती।  
@@ -2943,10 +2348,6 @@ SANTINIKETAN
 
 ३१ । अत्र चतुर्थ चरणे 'दण्डहस्तः वस्रकः' इति रूपमण्डने (अ० १, श्लो० २२) पाठः ।
 
-
-
-
-
 तर्जनीदण्डापसव्ये बलवान्तकदक्षिणे।
 
 तर्जनीवाणचापञ्च दण्डञ्च गजकर्णकः ॥ ३२॥
@@ -2987,8 +2388,6 @@ SANTINIKETAN
 'कमलोदरवर्णाभम्' इत्यत्र'कमलोदरवर्णाभम्' इति रूपमण्डने पाठः (अ० ५, श्लो० २६)। एवञ्च ' तरुणादित्यसप्रभमित्यनेनौज्ज्वल्यम्, 'कमलोदरवर्णाभमित्यनेन च वर्ण- प्रकर्षः प्राप्यते ।
 
 ३७। 'स्थानीयं खेटनगरे ' इत्यत्र 'स्थानीये खेटके वाऽपि' इति शिल्परत्ने 'स्थापनीया- खेटनगरे(?)' इति रूपमण्डने पाठः । गण्डकैश्चि कुरैर्युक्तमिति गण्डदेशविलम्बिभिः केशैः 'गालपाट्टा' इति प्रसिद्धैः शिखण्डकविशेषैर्युक्तमित्यर्थः।
-
-
 
 **अष्टमोऽध्यायः**
 
@@ -3039,9 +2438,6 @@ SANTINIKETAN
 ४२ । तुरीयक इत्यन्त्र तुरीयकमिति रूपमण्डने प्रामादिकः पाठः ।  
 देवता - २०
 
-
-
-
 पञ्चलीलया वक्षयामि शास्त्रभेदेस्तु भेदिताः ।  
 ^((१)) लीलया^((२)) लील? लीला ) ^((३)) लीलाङ्गी ^((४)) ललिता च  
 ^((५)) ( लि?ली ) लावती ॥ ४३ ॥
@@ -3073,10 +2469,6 @@ SANTINIKETAN
   ४६। मृणालयुग्मैरिति हस्तयोर्युग्मं युग्मं मृणालमित्यर्थः, 'पद्मे युग्मे' इति रूपमण्डने पाठः। 'पद्मपुस्तकैरि'ति बहुवचनमविवक्षितम् एवमुत्तरन्न। सर्वत्र विशेषणे तृतीया।
 
   ४७। नवदुर्गा आह— अस्येति। रूपमण्डने महालक्ष्मीक्षेमङ्करी- हर सिद्धयस्तिस्त्र एव लक्षिताः। एताः सर्वाश्चतुर्बाहवः। किमिति बाहव एव केवलं लक्षिता इति न लक्षयामः।
-
-
-
-
 
 (अदो ? आदौ तत्र^((१)) महालक्ष्मी^((२)) (न ? र्न) न्दा ^((३))क्षेमकरी तथा।
 
@@ -3126,10 +2518,6 @@ SANTINIKETAN
 
 ५०१ नागनीलकण्ठयोपादानप्रयोजनमनुसन्धेयम्।
 
-
-
-
-
 खड्गं डमरुखेटपाशं विभ्रती च करोत्तमैः ।
 
 भ्रामणी च तदा नाम भ्रामयेद् दुष्टचेतसः ॥ ५५ ॥
@@ -3177,11 +2565,6 @@ SANTINIKETAN
                 धामे शूलं कपालञ्चमुण्डमालोपवीतकम् ।  
                 करोति (१) कटितोदारसर्पग्रन्थितशेखरः ॥ इति (अ० ५, श्लो० ७४-७२) ।
 
-
-
-
-
-
 अथातः संप्रवक्ष्यामि (मात ? मातृरूपाणि ते (जया ? जय ) ।
 
 तत्र ब्राह्मी चतुर्वक्त्रा(पाठ ? षड् ) भुजा हंससंस्थिता ॥ ६१ ॥
@@ -3221,10 +2604,6 @@ SANTINIKETAN
       ६३ । इयमपि चतुर्भुजा शिल्परखरूपमण्डनयोः ।
 
      ६५ । सार्कलोचनेति। सा अर्कलोचनेतिच्छेदः, अर्कलोचना द्वादशनेत्रा । यद्वा, अर्कलोचनैः सह वर्त्तमानेति विग्रहः । रविबाहुइदशभुजा। इयमपि शिल्परत्न रूपमण्डनयो- श्रतुर्भुजा 
-
-
-
-
 
 वामे चापमधो घ (ण्टा ? ण्टां) कमलं कुक्कु(स्त्व ? न्त्व) धः ।
 
@@ -3274,8 +2653,6 @@ SANTINIKETAN
      ७१ । ऊर्द्ध्वेक्रमेण।  
      ७३ । 'अङ्कशं बिभ्रती खड्गं' इत्यनन्तरं त्रुटितस्थाने 'सव्ये' इति स्यात् ।
 
-
-
 चण्डिका श्वेतवर्णा स्या (त्रावा ? च्छवा) रूढा च षड्भुजा।
 
 जटिला च लसत्त्र्यक्षा वरदा शूलधारिणी ॥ ७४ ॥
@@ -3322,9 +2699,6 @@ SANTINIKETAN
 
      ७९-८० । इदानीं द्वादश सरस्वतीर्लक्षयन् प्रथममासां साधारणं लक्षणमाह-एकवक्त्रा इति। एताः सरस्वत्यो नेतरत्र लभ्यन्ते।यत्र यत्र पुस्तकमिति त्र्यक्षरेण नाम्ना छन्दसोऽपकृतम्, तत्र तत्र पुस्तमिति पाठेऽपि न क्षतिः।
 
-
-
-
 वराक्षपद्मपुस्तकं शुभावहा च भारती ।
 
 \[ इति भारती - ३\]
@@ -3345,7 +2719,6 @@ SANTINIKETAN
 
 \[ इति महाधेनुः - ७ \]
 
-
 वरञ्च पुस्तकं वीणा वेदगर्भा तथाऽम्बुजम् ॥ ८३ ॥
 
 \[ इति वेदगर्भा-८ \]
@@ -3361,7 +2734,6 @@ SANTINIKETAN
 अक्षं पद्मं पुस्तकं च महाकाल्यभयं तथा ।
 
 \[ इति महाकाली - ११\]
-
 
 अक्षपुस्तकमभयं पद्मं महासरस्वती ॥८५ ॥
 
@@ -3379,9 +2751,6 @@ SANTINIKETAN
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
    ८६। आलीढेति। दक्षिणं पादमग्रतः कृत्वा वामपादाकुञ्चनमालीढस्थानम्, तेन सन्तिष्ठत इति आलीढस्थानसंस्था ।
-
-
-
 
 श्रुव(सृचौ ? खुचौ च कर्त्तव्यौ तथा वेदिकमण्डलुः ।
 
@@ -3429,9 +2798,6 @@ SANTINIKETAN
 
 देवता - २१
 
-
-
-
 चण्डिकायतनोक्ता (च ? नां) कथयिष्याम्यनुक्रमम्।
 
 वेतालो वरश्चैव पिङ्गाक्षो भृकुटिस्तथा ॥ ६५ ॥
@@ -3477,9 +2843,6 @@ SANTINIKETAN
 
      ९७ ॥ करटक इति पूर्वं 'वेतालो बरटश्व' इति घोषवद्वर्णनिमित्तक-विसर्गसन्धिदर्शनात् सन्नपि रूपमण्डने 'करट' इति पाठो नोपात्तः, अत्र पुनः 'करट' इति दृश्यते। परमत्र साधकबाधकप्रमाणाभावादेकाक्षरमात्रकृता 'घरटे'ति शुद्धिः शक्यसम्पादनेति मन्यामहे।
 
-
-
-
 अष्टपत्रं महाभाग (ग ? गा ) कर्णिकायान्तु संस्थिता।
 
 विनायकदासीना देवी कार्या महाभुजा॥ १०३ ॥
@@ -3515,9 +2878,6 @@ SANTINIKETAN
        रम्याङ्गी सुप्रसन्ना वितरतु विपुलां सन्ततं श्रीः श्रियं वः ॥
 
 इति शिल्परत्नवचनाच्च (उ० भा० अ० २४ श्लो० ९)। करिद्रयपक्षमध्यनुगृह्णाति-
-
-
-
 
 क्षेत्रे कोल्लापुरादन्ये महालक्ष्मीर्यदाऽचर्यते ।
 
@@ -3568,8 +2928,6 @@ SANTINIKETAN
    १११ । 'नवयौवनसम्पन्नामि ति तृतीयचरणगतो मात्स्ये पाठः ।  
    ११२ । 'सुचारुवनामिति प्रथमपादे 'महिषासुरमर्दिनीमिति चतुर्थपादे मात्स्यानुगतः पाठः।
 
-
-
 अष्टमोऽध्यायः  
 
 त्रिशूलं खड्ग कौ च बाणं शक्तिं च दक्षिणे ।
@@ -3610,11 +2968,6 @@ SANTINIKETAN
 
 ११०। 'भैरवं कारयेत्तत्र नृत्यमानं विकारणम्' (८।७७) इत्यादिपद्ये नृत्यन्मूर्त्ति- दर्शनात्तदुपयोगितयाऽस्थान एव नृत्यसंस्थानं दर्शयितुमाह- भङ्ग भङ्गे इति। नर्त्तने भङ्ग भङ्गे नर्त्तनस्य प्रतिविच्छेद प्रतिपादक्षेपमिति यावत् मुखं हस्तौ दृष्टिञ्च कुर्याद् विदध्यात्, नर्त्तनविषयोपयोगितया सुखादीनि विन्यस्येदित्यर्थः। अथवा तृतीयश्लोके 'आस्येनाऽऽलम्बयेद् गीतम्' इति दर्शनाह गीतस्य भङ्ग भङ्गे मुखं कुर्यात् नृत्ये हस्तौ दृष्टिञ्च कुर्यादित्यर्थः कार्यः।"
 
-
-
-
-
-
 **देवतामूर्त्तिप्रकरणम्**
 
 \[ हस्तादीनां रसाभिव्यञ्जकता \]
@@ -3631,15 +2984,11 @@ SANTINIKETAN
 रसानामथ वक्ष्यामो दृष्टीनां चेह लक्षणम् ।  
 तदायत्तायतश्चिन्नेभावव्यक्तिः प्रजायते ॥ (अ० ८२, श्लो० १)
 
-
 इति चित्रविषयत्वेन भावाभिव्यक्तेरेव चरमफलत्वमुक्तम्। तत्र भावाभिव्यक्तेर्दृष्ट्यायत्तत्वं दृष्टिव्ययत्वम्, रसायत्तत्वं रसानुसारित्वमिति विवेकः ।
 
    सम्प्रति व्याख्यायते- यतो यस्मिन् विषये हस्तः प्रवर्त्तते, हस्तो यं विषयं प्रतिपादयतीत्यर्थः, दृष्टिरपि ततस्तत्रैव भवेत् हस्तानुगुणविषये एव दृशं प्रवर्तयेदित्यर्थः। यत्र दृष्टिस्तत्र मनः, मनोऽपि दृष्ट्यनुकूलविषये निवेशयेदित्यर्थः। यत्र मनस्तत्र भावः तस्य मनोविकाररूपत्वात्; यथोक्तं 'निर्विकारात्मके चित्ते भावः प्रथम विक्रियेति। यत्र भावश्चित्तविक्रिया तत्रैव रसो भवेत्, रसस्य विभावानुभावव्यभिचारिभावव्यङ्गस्थायिभावरूपत्वेन तस्य भावस्य चाविनाभावत्वेन प्रतीतेः। अत्र हस्तदृष्टिमनसां व्यापारः कर्तृ साध्यः, इतरयोस्तु व्यापारः प्रतिबन्धापगममात्रेण यदृच्छयोत्पद्यत इति भेदः, रसस्तु फलीभूत इति न तस्य व्यापारचिन्ता। अत्र भावपदेन स्थायी भाव उच्यते। अत्र च चित्रे रसाभिव्यञ्जनार्थमुपक्षिप्तमिदं पद्यमिति प्रत्यक्षयोर्हस्तदृष्ट्यो- रेवात्रोपयोगो न त्वप्रत्यक्षस्य मनसः, तथाऽप्यस्य दृष्टिप्रेरकत्वेन भावकारणत्वेन चोपन्यासो मानुपयोगमर्हति। एवं यद्यपि चित्रे भावरसयोर्विवेकोऽप्यनतिप्रयोजनीयस्तथाऽपि रसस्य मुख्यफलत्वेऽविसंवादात्तदुपस्थापनञ्चोपयुज्यत इति ज्ञेयम् ।
 
   यस्य खलु चित्रस्य हस्तौ युद्धायोयुक्तौ तस्य कथं भावः स्यात् कथं वा दृष्टिरित्यादि- संशयापस्यर्थमयमारम्भः। तथा च यस्य हस्तौ युद्धध्यातौ तस्य प्रायेणोत्साहो भावो दृष्टे- रुज्वलत्वादिना शिल्पिना प्रतिपाद्येतेत्यर्थः । उक्तञ्च समराङ्गणे-
-
-
-
 
 \[ नृत्ये आस्थादीनां प्रातिस्विकविषयनिरूपणम् \]
 
@@ -3685,11 +3034,6 @@ SANTINIKETAN
 
 १२२ । सम्प्रति ग्रन्थकर्त्ता स्वकृतेरसमप्रत्वमन्यच्छायायोनित्वञ्च प्रत्याययति— श्रीविश्वकर्मण इति। पुराणे मात्स्यानेयविष्णुधर्मोत्तरादौ भरतागमे भरतकृतनाट्यसूत्रादौ च रूपसंख्याऽपि, न केवलं नृत्यगीतादिगतविशेष इत्यपेरर्थः, अनेका अस्ति, मया तु ततो लेशोऽल्पमात्रं लिखितः। आस्तांनाम नृत्यगीतादिविषयके विशेषे न्यूनता तत्रास्माकमनधिकारात, यत्वस्मदधिकृतायां रूपसंख्यायामप्यसामग्र्यंतदेव मां दुःखाकरोतीति भावः।
 
-
-
-
-
-
 कल्पान्तावसरे सुरासुरगणो यस्यां समालीयते
 
 तस्मात् (स्या ? सा ) जगदम्बिकाऽखिलजगद्वन्द्या सुखं यच्छतु ॥ १२२ ॥
@@ -3732,13 +3076,7 @@ SANTINIKETAN
 
          टीकेयं देवतामूर्त्तिगोचरा विहिता मया ॥
 
-
-
-
-
 [TABLE]
-
-
 
 देवतामूर्त्तिप्रकरणस्थ पाठेषु
 
@@ -3787,9 +3125,6 @@ SANTINIKETAN
 
 \+ (५) - (६) इत्यङ्कद्वयं षट्पादश्लोकविषयम्।
 
-
-
-
 ४८ । (४) 'स्तथा' इत्यत्र ' - स्तदा'।  
 ४६ । (१) 'देवतायात्रा -' इत्यत्र 'दैवतयात्र '।  
 ५० । (२)'प्रोद्भूतवैकृतं' इत्यत्र 'प्रोद्भूतं वैकृतम्'।  
@@ -3834,9 +3169,6 @@ SANTINIKETAN
 ६। (१) द्वारादयोऽष्टधा' इत्यत्र 'द्वारोदयोऽष्टधा'।
 
 १६ । षोडशलोको नास्ति।
-
-
-
 
 २१ । (१-२) - रेकनाभिर्जिने' इत्यत्र ' - रेकनाभिजिने'।
 
@@ -3894,11 +3226,6 @@ SANTINIKETAN
 
 ३७ । (४)  'xx श्च' इत्यत्र 'प्राच्यां स्थाप्यश्च' \।
 
-
-
-
-
-
 ३८ । (३) 'भगाम्बिकेशः' इत्यत्र 'भगोऽम्बिकेशाः ' ।
 
 ३६ । अस्य श्लोकस्य पूर्वार्धे-
@@ -3952,8 +3279,6 @@ SANTINIKETAN
 
 ४। (४) 'चाक्रिकाणां ' इत्यत्र 'चक्रिकाणां ।
 
-
-
 ८। अस्य पूर्वार्धे-
 
      'केशवः पद्म-चं-गो मधुसूदनश्च शं-प-गः' इति पाठः ।
@@ -4001,8 +3326,6 @@ SANTINIKETAN
 ४१ । (१)  'एकपद्मान्तिका' इत्यत्र'एक (पद्मकिता ? पद्माङ्किता) '।  
    (२)  'दक्षिणार्त्तसंस्थिता' इत्यत्र 'दक्षिणावर्त्तसंस्थिता'।
 
-
-
 ४२ । (२) 'पद्मनादि य अङ्किता' इत्यत्र'पद्मेन गदयाऽङ्किता' ।  
     (४) 'सप्तसम्पद-' इत्यत्र'सदा सम्पद' ।  
    (५-६) पञ्चम-पष्ठ-पादयोः-
@@ -4044,15 +3367,12 @@ SANTINIKETAN
     'हला ( कुष ? ङ्कुश ) धरं चैव चक्रमध्ये व्यवस्थितम् ।  
     ( बलं भद्रकितं ? बलभद्राङ्कितं ) चक्रं वाञ्छितार्थफलप्रदम् ॥
 
-                                   
     इति पद्यमधिकम्।  
 ५८ । (४) 'सीतायाः' इत्यत्र 'तृतीयः' ।
 
 ५६ । (२) 'घृतरूपिणः' इत्यत्र 'घृतिरूपिणः' ।
 
 (४) '- प्रदञ्चयत्' इत्यन्न 'प्रदं हि तत्' ।
-
-
 
 ६२ । (२) 'यश्चक्रमुद्घाटयेन्नरः' इत्यत्र 'यो मूल्यमुद्घाटयेन्नरः ।
 
@@ -4111,8 +3431,6 @@ SANTINIKETAN
 ११ । (१) 'खद्वाङ्गं चक्रपालभ्य' इत्यत्र 'खट्वाङ्गञ्चकपालञ्च' ।
 
 **२३**
-
-
 
 \* १३ । ( ३-४) 'वामे अक्षसूत्रञ्च' इत्यत्र 'वामेऽक्षसूत्रञ्चैव'।
 
@@ -4173,9 +3491,6 @@ SANTINIKETAN
 
      हरस्कन्ध उमाहस्तो दर्पणं द्वितीये करे ॥ इति स्यात् ।
 
-
-
-
 ५५ । (१)' - खटाङ्गपात्राणि' इत्यत्र 'खट्टाङ्गपाशानि '।
 
 ५६ । (१)  हरिहरस्यापि' इत्यत्र 'हरिहरश्चापि' ।
@@ -4228,9 +3543,6 @@ SANTINIKETAN
 
 ८७ । (१) 'गर्भे त्रिसुप्रभागं" इत्यत्र ' ( भगा ? गर्भा) त्रिसप्तभागे' ।
 
-
-
-
 ८८ । (२) 'चतुरं शतम्' इत्यत्र 'चतुरंशकम्' । (३) 'जयदायि' इत्यत्र 'जयदादि-' ।
 
 ६१ । अस्य श्लोकस्य प्रथमार्धे-
@@ -4281,8 +3593,6 @@ SANTINIKETAN
 १२० । (२)'-वर्धनम्' इत्यत्र 'बन्धनः' । (३) '-करं' इत्यत्र'-करे' ।  
 (४)  '-प्रदम्' इत्यत्र 'प्रदे' ।  
 १२२ । (१) 'एकास्व-' इत्यत्र'एकास्रं' । (२) 'श्रयम्' इत्यत्र 'स्रकम्' ।
-
-
 
 १२३ । (१) 'धातवे' इत्यत्र 'घटे वै'। (३) 'सहस्रहस्ते ' इत्यत्र 'हस्तसाहस्रे'।
 
@@ -4336,9 +3646,6 @@ SANTINIKETAN
 
 १४८ । (३-४) 'सुखाय स्यात्त्रिकोणा' इत्यत्र 'सुखावाप्तैय त्रिकोणा' ।
 
-
-
-
 १५० । 'प्रणालस्या' इत्यत्र'प्रणालस्य' । (३) 'जलमग्राविभाषेण' इत्यत्र 'जल मार्गो विधानेन' ।
 
 (क) अस्मात् श्लोकात् परम्-
@@ -4383,9 +3690,6 @@ SANTINIKETAN
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (क) 'कुन्थारुमल्लयो मुनिसुव्रतः' इत्येव स्यात् । (ख) 'नेमिर्नमिः पार्श्वनाथो' इति स्यात् ।
-
-
-
 
 ६। (२) 'नन्द्यावत' इत्यत्र 'नन्दावर्त्तो' । (४) 'पिह्णो' इत्यत्र 'सिंहो'।
 
@@ -4436,8 +3740,6 @@ SANTINIKETAN
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 (क) 'जिननक्षत्राणि' 'जन्मनक्षत्राणि' वा स्यात्। (ख) अत्रापि पूर्ववत् छन्दो- भेदभीतिरेव मूले सन्धिविच्छेदहेतुर्वष्टव्यः । (ग) 'सुवर्णवर्णा स्यात्' इति स्यात् ।
 
-
-
 **\*** ४० । चत्वारिंशश्लोकात् परम-
 
          प्रचण्डा श्यामवर्णा स्यादश्वारूढा चतुर्भुजा।  
@@ -4484,10 +3786,6 @@ SANTINIKETAN
       + मूले १३८ तम- पृष्ठस्वस्यास्य श्लोकस्य संख्याको भ्रमान्न मुद्रित इति द्रष्टव्यम् ।  
 (क) मूलग्रन्थे उद्देशश्लोके (१६ श्लो०) 'नरदत्तेत्येव नामोपलभ्यत इत्यतो लक्षणनिर्णय- वेलायामपि मूले 'नरदत्ते 'ति नाम्ना भाव्यम्, प्रमादादस्माभिरनुत्प्रेक्षितपाठान्तरं यथाप्राप्तमेव मुद्रितमिति सुधीभिः सोढव्यम् ।
 
-
-
-
-
 ६७ । अस्य श्लोकस्य पूर्वार्ध-
 
        'कैलासमोशरणं सिकाल्लिसदाशिवम्' इति पाठः ।
@@ -4501,7 +3799,6 @@ SANTINIKETAN
 ७४ । (२)'रक्षो गन्धर्वयक्षो' इत्यत्र 'रोगन्धर्वयक्षा' । 'विजग्मुः' इत्यत्र 'प्रजग्मुः ' ।
 
 अष्टमाध्याये-
-
 
  ६ । (४)'सिद्धचामर' इत्यत्र 'सिद्धचारण-' ।
 
@@ -4527,10 +3824,7 @@ SANTINIKETAN
 
        इत्युच्छिष्टगणेशः' इति पाठः ।
 
-
-
 २७ । अस्य श्लोकस्य स्थाने-
-
 
       \* 'सिन्दूराभ(त्रिण ?) त्रिनेत्रञ्चप्रोक्तबीजगणाधिप ( : ) ।[^169]
 
@@ -4544,11 +3838,6 @@ SANTINIKETAN
        दानमये मोदका दण्डमेव च ॥  
        टङ्कंशिशेक्षमाला व मुद्गरं चाङ्कशंतथा ।  
        त्रिशूलं चेति हस्तेषु दधानं कुन्दवत् सितम् ॥' एतावान् पाठः ।
-
-
-
-
-
 
 २८ । (२) 'भृङ्गविभ्रत्' इत्यत्र 'शूलं विभ्रत्' ।
 
@@ -4604,8 +3893,6 @@ SANTINIKETAN
 
 ७८ । (१-२) 'वीणाहस्त त्रिशूलञ्च' इत्यत्र 'वीणाहस्तत्रिशलञ्च' ।
 
-
-
 ८३ । (३) 'वरञ्च पुस्तकं वीणा' इत्यत्र 'वरं पुस्तकं वीणा च' ।
 
 ८४ । (३) 'असप्तं' इत्यत्र'अक्षाभयं ।
@@ -4643,54 +3930,19 @@ SANTINIKETAN
 
 ११६ । (१)'रक्तरक्तिकताङ्गञ्च' इत्यत्र 'रक्तरक्तीकृताङ्गञ्च' । (२) ' - विस्फारिते- ' इत्यत्र'           विस्फुरिते-' ।  
 
-
-
 पाठान्तरं समाप्तम् ।
-
-
 
 **रूपमण्डनम्**
 
-
-
-
-
-
-
-
-
-
-
 **रूपमण्डनस्य विषयानुक्रमणी**
 
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
 
-
-
-
-
-
-
 [TABLE]
-
-
-
-
-
-
-[TABLE]
-
-
-
-
 
 श्रीगणेशाय नमः  
 **रूपमण्डनम्**  
@@ -4732,8 +3984,6 @@ SANTINIKETAN
 सुदिने सुमुहूर्ते च शकुने शान्तचेष्टिते।
 
 प्रतिमागृह काष्ठादिकर्म कुर्यान्न चान्यथा॥ ६॥
-
-
 
 **रूपमण्डने**
 
@@ -4787,8 +4037,6 @@ SANTINIKETAN
 
 (१) '- करवृद्धया' इति स्यात् । (२) 'चतुष्क्याम्' इति स्यात् । (३) 'अतीताब्द- 'शता' इति स्यात् । (४) 'मूर्तिर्या पूज्या' इति स्यात् ।
 
-
-
 प्रथमोऽध्यायः
 
 प्रतिमाकाष्ठ (१) लेपानुमदन्तचित्त्रायसां गृहे ।
@@ -4835,8 +4083,6 @@ SANTINIKETAN
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (१) -लेपारमदण्डचित्रायसां ग्रहे' इति स्यात्। (२) पञ्चासितसुरा' इति स्यात्। (३) ' रूपं ततोऽधिकम्' इति स्यात् । (४) 'कलांशाः' इति स्यात् ।
-
-
 
 **रूपमण्डने**
 
@@ -4888,8 +4134,6 @@ SANTINIKETAN
 
 (१) '-मेढूं' इति स्यात्। (२) 'ऊरू अष्टादशाङ्गुली' इति स्यात्। (३) 'ऊरुः ' इति स्यात् ।
 
-
-
 **प्रथमोऽध्यायः**
 
 मुखस्यापि त्रिभागेण ललाटं नासिका हनुः ।
@@ -4928,10 +4172,7 @@ SANTINIKETAN
 
 इति स्यात् । (४) '- मात्रकः' इति स्यात् । (५) 'नवांशा ना-' इति स्यात् । (६) 'गस्य' इति स्यात् ।
 
-
-
 **द्वितीयोऽध्यायः**
-
 
 **\[ जीर्णोद्वारे विशेषः \]**
 
@@ -4973,13 +4214,9 @@ SANTINIKETAN
 
 चतुर्वक्त्रा तु सावित्री श्रोत्रियाणां गृहे हिता ॥ ८ ॥
 
-
-
 \[ इति सावित्री \]
 
 (१) 'मत्स्यादी'ति स्यात् । (२) 'नैव' इति स्यात् । (३) 'श्रुचम्' इति स्यात् ।
-
-
 
 द्वितीयोऽध्यायः
 
@@ -5033,8 +4270,6 @@ SANTINIKETAN
 
    रूप-२
 
-
-
 रूपमण्डने
 
 \[ सूर्यः \]
@@ -5082,9 +4317,6 @@ SANTINIKETAN
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (१) 'पद्मस्थं' इति स्यात् । (२) 'कृष्णौ' इति स्यात् । (३) 'दंष्ट्रा -' इति स्यात् । (४) 'ग्रहाः' इति स्यात् । (५) 'रत्न-' इति स्यात् । (६) अत्र 'य' इत्यक्षरमधिकं 'ज्ञः' इत्येव स्यात्।
-
-
-
 
 **द्वितीयोऽध्यायः**
 
@@ -5142,8 +4374,6 @@ SANTINIKETAN
 
 (१) 'दण्डैर्दण्डी' इति स्यात्। (२) 'किरणदण्डैः' इति स्यात्। (३) 'दधत् ' इति स्यात्। (४) पद्यमिदं सम्पातायातं स्यात्।(५) 'कुक्कुटं' इति स्यात्। (६) 'कर्तिकां वैरिमस्तकम्' इति स्थात्।
 
-
-
 रूपमण्डने
 
 \[वरुणः\]
@@ -5180,8 +4410,6 @@ SANTINIKETAN
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (१) 'वरपाशोत्पलं' इति स्यात्। (२) 'सौम्यायां' इति स्यात्। (३) 'वृषभा- रूढ' इति स्यात्।
-
-
 
 **तृतीयोऽध्यायः**  
 
@@ -5228,9 +4456,6 @@ SANTINIKETAN
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (१) 'कलि-' इति स्यात् । (२) 'अर्चने शुभौ' इति स्यात् । (३) 'श्रैधरी' इति स्यात् । (४) ' चक्रिक -' इति स्यात् । (५) 'ब्रह्मचार्येक-' इति स्यात् । (६) 'हरि- हिरण्यगर्भश्च' इति स्यात् ।
-
-
-
 
 रूपमण्डने
 
@@ -5285,8 +4510,6 @@ SANTINIKETAN
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (१) 'गदा-शङ्ख-चक्र-पद्म-' इति स्यात् । (२) '-पद्म-' इति स्यात् । (३) 'गदा- कम्बु-' इति स्यात् ।
-
-
 
 **तृतीयोऽध्यायः**
 
@@ -5346,8 +4569,6 @@ SANTINIKETAN
 
 (१) 'चक्रशङ्खगदाम्भोजानि' इति स्यात् ।
 
-
-
 **रूपमण्डने**
 
 कृष्णः कार्त्तिकेयोऽब्जशक्तिखेटककम्बुभिः ।
@@ -5403,8 +4624,6 @@ SANTINIKETAN
 (४) 'जटी बाणधरों' इति स्यात् । (५) 'बुद्धः पद्मासनो' इति स्यात् । (६) 'सुप्तरूपः' इति स्यात् ।
 
 (७) 'दक्षे दण्डो भुजेऽस्य तु' इति स्यात् ।
-
-
 
 **तृतीयोऽध्यायः**
 
@@ -5470,8 +4689,6 @@ SANTINIKETAN
 
 रूप - ३  
 
-
-
 **रूपमण्डने**
 
 वासुदेवं सितं ज्ञेयं रक्तं सङ्कर्षणं मतम् ।
@@ -5534,8 +4751,6 @@ SANTINIKETAN
 
 जानु कटिं यावदर्चायां' इति स्यात् ।  
 
-
-
 **तृतीयोऽध्यायः**
 
 (१) वामाग्रेकुञ्चितः पश्चादन्यपादस्तु जानुना ।
@@ -5596,8 +4811,6 @@ SANTINIKETAN
 
 इति स्यात् । (५) 'विश्वरूपः' इति स्थात् । (६) 'बाणः' इति स्यात् ।
 
-
-
 **रूपमण्डने**
 
 शृङ्गी वामेषु हस्तेषु योगमुद्रा ( ९ ) करद्वयम् ।
@@ -5656,8 +4869,6 @@ SANTINIKETAN
 
 (७)'सव्येऽपसव्ये' इति स्यात्। (८) 'सव्यापसव्य-' इति स्यात् ।  
 
-
-
 \[ शिवमूर्त्तिशिवलिङ्गलक्षणाधिकाराख्यः \]
 
 **चतुर्थोऽध्यायः**
@@ -5703,8 +4914,6 @@ SANTINIKETAN
 अघोररूपकं कुर्यात् कालरूपमिवापरम् ॥ ८ ॥
 
 (१) 'तक्षको मुष्टिकश्चैव' इति स्यात् ।
-
-
 
 **रूपमण्डने**
 
@@ -5764,8 +4973,6 @@ SANTINIKETAN
 
 नानृतभाषिणी स्यात् ।
 
-
-
 **चतुर्थोऽध्यायः**
 
 चित्रवस्त्रधरं कुर्याच्चित्रयज्ञोपवीतिनम् ।
@@ -5816,10 +5023,7 @@ SANTINIKETAN
 
 स्यात् । (५) 'शूलाङ्कुशावक्षसूत्रं' इति स्यात् ।
 
-
-
 **रूपमण्डने**  
-
 
 गदाखट्वाङ्गपात्राणि कार्मुकं तर्जनीघटौ ।
 
@@ -5872,8 +5076,6 @@ SANTINIKETAN
 'कुर्यान्निर्मासं नृत्य-' इति स्यात् ।(५) 'हरिहरश्चापि' इति स्यात् ।(६) 'कुर्यालक्ष्मीं नारायणाश्रिताम्'
 
 इति स्यात्।  
-
-
 
 **चतुर्थोऽध्यायः**
 
@@ -5930,8 +5132,6 @@ SANTINIKETAN
 (७) 'राजतम्' इति स्यात् ।
 
 रूप-४
-
-
 
 **रूपमण्डने**
 
@@ -5991,8 +5191,6 @@ SANTINIKETAN
 
 चिन्तनीयम् । अस्माभिस्तु यथाक्रममेवाङ्का निवेशिताः ।
 
-
-
 **चतुर्थोऽध्यायः**
 
 हस्तादिनवहस्तान्तं शैलं लिङ्गं विधीयते ।
@@ -6047,8 +5245,6 @@ SANTINIKETAN
 
 (६) 'वक्तलिङ्गेषु पार्थिके'इति स्यात् ।(७) ज्येष्ठलिङ्गन्तु वेदांशे षट्त्रिंशे' इति स्यात् ।  
 
-
-
 **रूपमण्डने**
 
 (कृत्वादियुगलत्वान्तं ?) हस्तसंख्ये शिवालये ।
@@ -6100,8 +5296,6 @@ SANTINIKETAN
 \[ इति लिङ्गस्योद्धदिभागाः \]
 
 (१) 'कनिष्ठ -' इति स्यात् । (२) 'खड्गः' इति स्यात् । (३)'दण्डोऽर्धचन्द्रश्च' इत्यन्यत्र । (४) 'मित्याद्यमावर्त्तो' इति स्यात् । (५)'छत्राभमि' ति स्यात् । (७)'सार्धद्यंशे षडंशके' इति स्यात् ।  
-
-
 
 **चतुर्थोऽध्यायः**
 
@@ -6157,8 +5351,6 @@ SANTINIKETAN
 
 (५) 'सर्वत्रततपोदानतीर्थदेवेषु' इति स्यात् ।
 
-
-
 **रूपमण्डने**
 
 शतवारं कुरुक्षेत्रे सहस्रं जाह्नवीजले ।
@@ -6213,8 +5405,6 @@ SANTINIKETAN
 
 (६) 'तदर्धेनाप्रविस्तारं' इति स्यात् । (७) 'नेष्टमन्योन्य-' इति स्यात् । (८) 'नालस्य' इति स्यात् ।
 
-
-
 **चतुर्थोऽध्यायः**
 
 (१) त्रिंशोदंशस्तु पीण्ड्याश्च जगत्याश्च परिक्षिपेत् ।
@@ -6267,8 +5457,6 @@ SANTINIKETAN
 
 (१) 'त्रिंशदंशन्तु पिण्ड्याश्च' इति स्यात् । (२) '-मप्यगोचरम्' इत्यन्यत्र । (३) 'वामे स्नानगृहं' इति स्यात् । (४) त्रुटितस्थाने 'च' 'वै' वा स्यात् । (५) 'ब्रह्मविष्णू तथा रुद्रं’ इति स्यात् । (६) 'कर्णे च आग्नेय्यां' इति स्थात् । (७) 'विघ्नराजोऽस्य' इति स्यात् ।
 
-
-
 **रूपमण्डने**
 
 मातुलिङ्गञ्च नागेन्द्रं डमरुं बीजपूरकम् ।
@@ -6314,8 +5502,6 @@ SANTINIKETAN
 तुर्थोऽध्यायः ॥ ४ ॥
 
 (१) 'सर्पाभरण-' इति स्यात् । (२) 'शिवप्रतीहाराः' इति स्यात् ।
-
-
 
 **पञ्चमोऽध्यायः**
 
@@ -6371,8 +5557,6 @@ SANTINIKETAN
 
 रूप-५
 
-
-
 **रूपमण्डने**
 
 वक्ष्यामि (१) गौर्यायतनं देवतानामनुक्रमात् ।
@@ -6424,8 +5608,6 @@ SANTINIKETAN
 तयोरन्यतरदेव नाम स्यात् ।(६) 'अष्ट' 'अष्टौ'वा स्यात् । (७) 'पश्वधाभये' इति स्यात्, एवञ्चात्र
 
 पर्श्वधशब्दः 'पर्शु'शब्दवत् परशुपर्यायो द्रष्टव्यः । (८) 'कौमोदकीं' इति साधुः ।  
-
-
 
 **पञ्चमोऽध्यायः**
 
@@ -6481,8 +5663,6 @@ SANTINIKETAN
 
 (२) 'तर्जनीपद्माङ्कुशं च' इति देवतामूर्त्तौ( अ० ८, लो० ३३) ।  
 
-
-
 **रूपमण्डने**
 
 गण्डकैश्चिरकैर्युक्तं मयूरवरवाहनम् ।
@@ -6530,8 +5710,6 @@ SANTINIKETAN
 \[ इति महालक्ष्मीः \]
 
 (१) ‘स्थानीयखेट-' इति स्यात् । (२) 'खर्वटे' इति स्यात् ।(३) 'वरदश्चैकहस्तः' इति स्यात् । (४) 'कनकोज्ज्वलाः' इति 'कटकोज्ज्वलाः'इति वा स्यात् । (५) 'खेटकस्ताम्रचूडश्च' इति साधुः । (६) 'द्विभुजस्य' इति स्यात् ।(७) 'कुक्कुटः' इति साधुः । (८) 'दक्षिणः स्यात्तरीयकः' इति स्यात् ।  
-
-
 
 **पञ्चमोऽध्यायः**
 
@@ -6588,8 +5766,6 @@ SANTINIKETAN
 (१) 'डमरु पानपात्रकम्' इति स्यात् ।(२) 'भीमनेला' इति स्यात् ।  
 (३) इदमर्धंसम्पातायातं स्यात् ।  
 
-
-
 **रूपमण्डने**
 
 अथ (१) कात्यायिनीं वक्ष्ये ( २ ) दशहस्तां महुर्भुजाम् ।
@@ -6637,8 +5813,6 @@ SANTINIKETAN
 तर्जनी च त्रिशूलश्चखट्वाङ्गंदण्ड एव च ॥ ५५ ॥
 
 (१) 'कात्यायनीं' इति साधुः । (२) 'दशहस्तां सुदुर्जयाम् इति स्यात् । (३) 'दक्षे' इति स्यात् ।(४) 'वाममङ्गुष्ठं' इति मात्स्ये (२६०/६५) देवतामूर्त्तौच (७।११७) पाठः । (५)'-टास्यः संस्फुर -' इति स्यात् । (६) 'वामेऽपसव्य-' इति स्यात्।
-
-
 
 **पञ्चमोऽध्यायः**
 
@@ -6695,10 +5869,6 @@ SANTINIKETAN
 (१) 'नाम' इति स्यात् । (२) 'वामेऽमृतघट' इति स्यात् । (३) पुरादन्ये'  
 इति स्यात् ।
 
-
-
-
-
 **रूपमण्डने**
 
 कुमाररूपा कौमारी मयूरवरवाहना।
@@ -6753,8 +5923,6 @@ SANTINIKETAN
 
 (१) 'वराह-' इति स्यात् । (२) 'स्याहिभूषणा' इति स्यात् । (३) 'तासां' इति स्यात्।
 
-
-
 **पञ्चमोऽध्यायः**
 
 क्षेत्रपालो विधातव्यो दिग्वासा घण्टभूषितः ।
@@ -6784,8 +5952,6 @@ SANTINIKETAN
 (१) 'करोटिनिकरोदार' इति देवतामूर्ती पाठः ( अ० ८, लो० ६० ) ।
 
 रूप ६
-
-
 
 **षष्ठोऽध्यायः**
 
@@ -6826,8 +5992,6 @@ SANTINIKETAN
 कूर्मो नीलोत्पलं शङ्खः (१७) फाणी सिंहोऽर्हतां ध्वजाः ॥ ६ ॥
 
 (१) '-मवसर्पिण्याम्' इति स्यात् । (२)'-जित'इति स्यात् ।(३) 'सुमति'इति स्यात् । (४) 'प्रभश्च' इति स्यात् । (५) 'सुविधिश्चाथ' इति स्यात् ।(६) 'श्रेयांसो' इति स्यात् । (७) 'कुन्थारयो' इति स्यात् । (८) 'सुव्रतः' इति स्यात् । (९) 'नमि-' इतिस्यात् ।(१०) 'रक्तौ' इति स्यात् । (११)'प्रभवासपूज्यौ'इति स्यात् ।(१२) 'शुक्लौ' इति स्यात् । (१३) 'मुनी च नीलौ' इति स्यात् । (१४) 'श्रीमल्लिपार्श्वौ' इति स्यात् । (१५)श्वः प्लवगः क्रौञ्चोऽब्जः' इति स्यात् । (१६) 'मृगश्छागो' इति साधु । (१७) 'फणी' इति स्यात् ।  
-
-
 
 **षष्ठोऽध्यायः**
 
@@ -6877,8 +6041,6 @@ SANTINIKETAN
 
 (१) मिथुनं' इति स्यात् । (२) 'कन्यके' इति स्यात् । (३) '-कुम्भकौ' इति स्यात् । (४) 'मीनो मीन-' इति स्यात् । (५) अत्र 'यक्षिणी'ति सम्पातायातं स्यात् ; 'स्याद् गोमुखो महायक्ष-' इतिक्रमेण पाठ्यम् । (६) 'र्गोमेघपार्श्वौमातङ्गोऽ-' इति स्यात् । (७) '-र्यनितबला' इति देवतामूत्तौ ( ७।१४) । (८) 'श्यामा' इति स्यात् । (९) 'भृकुटिश्च' इति स्यात्।
 
-
-
 **रूपमण्डने**
 
 कन्दर्पी निर्वाणी बाला धारिणी ( १ ) धरणाप्रिया।
@@ -6926,10 +6088,6 @@ SANTINIKETAN
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \* अत्रैतदनन्तरं नेमिनाथोपासकस्य 'गोमेघ'यक्षस्य लक्षणं लेखकप्रमादात् त्रुटितम् इति सम्भाव्यते। यतोऽत्र ग्रन्थकृता संक्षेपबुद्ध्याजिनोपासकानां यक्षाणां यक्षिणीनाञ्च तावन्ति लक्षणान्यमभिधाय 'चतस्रोऽतिशयैर्युक्तास्तासां पूज्या विशेषतः ' (२५) इत्यग्रिमप्रतिज्ञाग्रन्थानुसारेण आदिनाथ (ऋषभ) -नेमिनाथ- पार्श्वनाथ - महावीराणामुपासकान् गोमुख-गोमेघ-पार्श्व- मातङ्गनान्नोयक्षान्, चक्रेश्वर्यस्त्रिका-पद्मावती-सिद्धायकाख्या यक्षिणीश्चलक्षयितुं प्रवृत्तम् इति विज्ञायते। मास्ति चास्य 'गोमेघ' मलक्षयतः प्रतिज्ञातार्थपरिसमाप्तिरित्यवसेयम्।
-
-
-
-
 
 **षष्टोऽध्यायः**
 
@@ -6987,8 +6145,6 @@ SANTINIKETAN
 
 (१) 'गजारूढः सितो’इति स्यात्। (२) 'सिंहारूढा चतुर्भुजा' इति स्थात्। (३) 'धत्ते' इति स्यात्। (४) 'सर्व सौख्यदाः' इति स्यात्।(५) 'पार्श्वोवीरश्चतुर्थकः' इति स्यात्।(६)'चक्रेश्वर्यत्रिका' इति स्यात् । (७) इन्द्रजय-' इति स्यात् ।  
 
-
-
 **रूपमण्डने**
 
 धरणेन्द्रः पद्मकश्च सर्वे शान्तिकराः स्मृताः ।
@@ -7041,23 +6197,11 @@ SANTINIKETAN
 
 (१) 'शुभोदयाः' इति स्यात् । (२) 'सुनाभो' इति स्यात् । (३) 'नगरादिपुर-' इति स्यात् । (४) '-युतम्' इति स्यात् । (५) 'गोसिंहैः समलंकृताः' इति स्यात् । (६) 'मेद-' इति स्यात् । (७) 'क्षेत्राख्योऽभूत्' इति स्यात् । (८) ' षष्ठोऽध्यायः' इत्येतन्मात्रंसाधु ।
 
-
-
-
-
 **             देवतामूर्त्तौव्याख्यातानां सरूपाणामीषद्विरूपाणाञ्च रूपमण्डनीयपद्यानां निर्देशः**
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
 
 **देवतामूर्तिप्रकरणस्य**
 
@@ -7066,48 +6210,17 @@ SANTINIKETAN
 
 [TABLE]
 
-
-
-
-
-
-
+[TABLE]
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
-
-
-
-[TABLE]
-
-
-
-
 
 **रूपमण्डनस्य**
 
 [TABLE]
 
-
-
-
-
 [TABLE]
-
-
-
-
-
-
 
 **देवतामूर्त्तिप्रकरणस्य टीकायां प्रमाणत्वेनोद्धृतानां ग्रन्थानां नामानि।**
 
@@ -7129,24 +6242,13 @@ SANTINIKETAN
      १६ । जैनपद्मपुराणम्  
      १७ । चतुर्विंशतिजिनस्तुतिसंग्रहः ।
 
-
-
 **शुद्धिपत्रम्**
 
 [TABLE]
 
 [TABLE]
 
-
-
-
-
-
-
-
-
 **Content after page no. 108 (original page no.) is yet to be proofread.**
-
 
 देवतामूर्त्तिप्रकरणम्
 
@@ -7157,7 +6259,6 @@ SANTINIKETAN
 
 [TABLE]
 
-                                  
                    
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -7169,8 +6270,6 @@ SANTINIKETAN
 तदूर्द्ध्वं दशहस्तान्ता त्र्यङ्गुला वृद्धिरिष्यते।  
 एकाङ्गुला भवेद् वृद्धिर्यावत् पञ्चाशहस्तकम्॥१३॥
 
-
-
 [TABLE]
 
      १३। इदानीमासनस्थमूर्त्तीनां परिमाणमुच्यते। षडङ्गुला आसनस्था मूर्त्तिः हस्तादे- रेकहस्ताद्वेदहस्तान्ते चतुर्हस्तपर्यन्तप्रासादे षड्वृद्धिः पट् षट् वृद्धिर्यस्याः प्रतिमायास्तादृशी स्यात्। संख्याशब्दस्य वृत्तिविषये वीप्सार्थत्वं सप्तपर्णादिवदित्युक्ते अर्थात् एकहस्तप्रासादे मूर्तिः षडङ्गुला द्विस्तप्रासादे द्वादशाङ्गुला, त्रिहस्ते अष्टादशाङ्गुला, चतुर्हस्ते चतुर्विंशत्यङ्गुला भवेत्। तदूर्ध्वं पञ्चहस्तप्रासादमारभ्य दशहस्तान्ता त्र्यङ्गुला वृद्धिरिष्यते। तथा हि- पञ्चहस्त- प्रासादे सप्तविंशत्यङ्गुला मूर्त्तिः, पड्ढस्वप्रासादे त्रिंशदङ्गुला, सप्तहस्ते त्रयस्त्रिंशदङ्गुला, अष्टहस्ते षट्त्रिंशदङ्गुला, नवहस्ते ऊनचत्वारिंशदङ्गुला, दशहस्ते द्विचत्वारिंशदङ्गुला मूर्त्तिर्भवेदित्यर्थः।  
@@ -7178,10 +6277,7 @@ SANTINIKETAN
 
 **प्रासादपरिमाणेन आसनस्थप्रतिमापरिमाणम्।**
 
-
-
 [TABLE]
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -7199,8 +6295,6 @@ SANTINIKETAN
    १४। विंशत्येकेति। विंशत्येकत एकविंशत्यङ्गलाद् अधिका द्वाविंशत्यङ्गुलादिपरिमाणा प्रतिमा ज्येष्ठा। विंशत्योना विंशत्याङ्गुलेन हीना कनीयसी प्रतिमा भवतीत्यर्थः। एवञ्च कण्ठतोऽनुक्तमप्यत्र मध्यमप्रतिमापरिमाणं पारिशेष्यादुन्नेयम् ; तथा हि द्वाविंशत्याद्यङ्गुलपरिमाणा ज्येष्ठा, विंशत्योना कनीयसी, विंशैकविंशत्यङ्गुला च मध्यमेति पर्यवसितोऽर्थः।अयञ्चप्रासाद- मानेन प्रतिमापरिमाणनिर्णयप्रकारो ग्रन्थकृदुपज्ञमेव नान्यत्र शिल्पशास्त्र उपलभ्यते।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 \[ द्वारमानेन ज्येष्ठप्रतिमापरिमाणम् \]
 
@@ -7235,7 +6329,6 @@ SANTINIKETAN
 इति यदुत्तमप्रतिमापरिमाणमुक्तं तत् प्रकृतग्रन्थस्य कनिष्ठप्रतिमामानानुरूपम्। तथा कनिष्ठमूर्त्ति परिमाणे-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 देवतामूर्त्तिप्रकरणम्
 
@@ -7277,8 +6370,6 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 \[ गृहपूज्यायाः प्रतिमायाः परिमाणम् \]
 
 **आरभ्यैकाङ्गुलादूङ्ख पर्यन्ते द्वादशाङ्गुलम्।**
@@ -7309,7 +6400,6 @@ SANTINIKETAN
   इदमत्र मनस्यापतति, प्रासादेन विनाऽर्च्चयेदित्यनेन सामान्यत आसां दशहस्तादिप्रतिमानां प्रासादे पूजां निषिध्य क्कतर्हीमाः पूजनीया इत्यपेक्षायां दशादिकरवृद्धेति विशेषोऽभिहितो ग्रन्थ- कृतेति। अत्र च पक्षे 'नवहस्तान्ता' इत्यस्य 'दशहस्तादित' इत्यस्य च यथाश्रुत एवार्थः करणीयः
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 देवतामूर्त्तिप्रकरणम्  
 \[ तत्र विशेषः \]
@@ -7343,8 +6433,6 @@ SANTINIKETAN
  २०। इदानीं गर्भगृहप्रमाणेन प्रतिमापरिमाणं वक्तुमादौ गर्भगृहप्रमाणमाह– चतुरस्रीकृत इति। अन्यथैवभित्त्यादिविधानमाहु बृहत्संहितायाम्, तच्च पूर्वं प्रदर्शितम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 \[ गर्भगेहप्रमाणेन ज्येष्ठादिप्रतिमाकथनम् \]
 
@@ -7381,8 +6469,6 @@ SANTINIKETAN
 वैदूर्यं विद्रुमं पुष्पं विम्बं तथाऽष्टधा॥
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 देवतामूर्त्तिप्रकरणम्
 
@@ -7430,9 +6516,6 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
-
 **धातुरत्नविलेपोत्था व्यङ्गाः संस्कारयोग्यकाः।  
 काष्ठपाषाणजा भग्नाः संस्कारार्हा न देवताः॥२५॥**  
 \[ बहिरायतनस्थाप्या देवताः \]
@@ -7465,8 +6548,6 @@ SANTINIKETAN
 नारसिंहो वराहो वा तथान्येऽपि भयङ्कराः॥ इति। (२५९ अ० १४-१५ श्लो०)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **07/04/2023 start**  
 देवतामूर्त्तिप्रकरणम्
@@ -7530,7 +6611,6 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 देवतामूर्त्तिप्रकरणम्
 
 **अपचारेण नराणामुपसर्गः पापसञ्चयाद् भवति।  
@@ -7567,7 +6647,6 @@ SANTINIKETAN
      ३९। इदानीमुत्पातान् विभजन् दिव्यस्वरूपमाह - दिव्यमिति। ग्रहाणाम् आदित्या-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 \[ भौमाद्भुतम् \]
 
@@ -7608,7 +6687,6 @@ SANTINIKETAN
 ४०। भौममुपातमाह-भौममिति। चरस्थिरभवमिति परेभ्यः स्थिरेभ्यश्च वस्तुभ्यो  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 देवतामूर्त्तिप्रकरणम्
 
 **दिव्यमपि शममुपैति प्रभृतकनकान्न गोमहीदानैः।  
@@ -7639,7 +6717,6 @@ SANTINIKETAN
   रुद्रायतन इति शिवालये। 'भूमेर्गोर्दानादि' त्यपपाठः पूर्वं गोमहीदानस्योक्तत्वात्। यद्वा पूर्वं स्थानानियमेन प्रभूतगवादिदानव्यवस्था कृता, परतश्च स्थानविशेषे अल्पाया अपि भूमे- रेकस्या अपि गोर्दानमभिहितमिति पूर्वार्द्धे प्रभूतपदोपादानादपरार्द्धे भूमेरिति गोरिति चैकवचनो- पादानादवगम्यते। 'रुद्रायतने भूमौ गोदोहादि ति पाठो बृहत्संहितासम्मतः। 'भूमौ गोदोहश्च पात्रंविमा भूमौ गोः स्तनं निष्पीड्य दुग्धोत्सर्ग' इति शब्दकल्पद्रमः।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 \[दैवोत्पाते राज्ञो विशेषः \]
 
@@ -7691,7 +6768,6 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 \[अन्यानि बैकृतानि\]
 
 **भूमिर्यदा नभो याति विशेद् वसुन्धरां नभः।  
@@ -7711,7 +6787,6 @@ SANTINIKETAN
 लिङ्गायतनविप्रेषु तत्र वासं न रोचयेत्॥  
 राज्ञो वा व्यसनं तत्र स च देशो विनश्यति। (अ० २३०, १-२ श्लो०)  
 
-
 इति। सहसेति अनिमित्तमित्यर्थः। विशेषस्तु- प्रकृते लिङ्गाचयतनानामित्युक्तम् अन लिङ्गाचार्यतनविप्राणामिति।
 
    अत्रेदमवधेयम्यं स्थिरस्य चरधर्माक्रान्तिलक्षणो भौम उत्पातः, यदि वा विशिष्ट एव कचिदुत्पातः स्यादुभयथापि विप्रेष्विति न सङ्गच्छते। न हि विप्रः स्थिरो येन तस्य चरधर्मं नर्त्तनादिकमौत्पातिकं भवेत्। विशिष्टोऽपि न सम्भवेत् तादृशोत्पातस्य काप्यश्रवणात्। तस्मा- दन्न वृक्षेष्विति पाठो युज्यते न वेति सुधीभिश्चिन्तनीयम्। अस्ति हि स्थिराणां वृक्षाणां धर्मस्य नर्त्तनादेः प्राप्तिरूप उत्पातो बृहत्संहितादौ निरूपितः। तथा च बृहत्संहितायां वृक्षवैकृतं प्रकृत्य-  
@@ -7725,7 +6800,6 @@ SANTINIKETAN
     ४९। देवतायात्रेत्यादि। देवतायात्रायां देवतोत्सवे शकटस्य प्रकृतोत्सव निर्वाहार्थं समाहृतस्येत्यर्थः। अक्षस्य चक्रमध्यवर्त्तिदण्डस्य च, शकटाक्षस्येत्येकं पदं वा चक्रस्य, युगस्य वाहन-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**\_**
-
 
 देवतामूर्त्तिप्रकरणम्
 
@@ -7752,7 +6826,6 @@ SANTINIKETAN
   ५३। देवकुमारेत्यादि। देवकुमारे यद् वैकृतं तन्नृपकुमारे, एवं कुमारीवनिताप्रैष्येष्वपि बोध्यम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 \[ उत्पातानां फलकालः \]
 
@@ -7784,7 +6857,6 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 देवतामूर्त्तिप्रकरणम्
 
 **वत्सेनात्रिमुखे कुर्याद यात्राद्वारे च वास्तुनः।  
@@ -7795,7 +6867,6 @@ SANTINIKETAN
  एतदन्त उत्पाताध्यायः सर्वथा बृहत्संहितीयोत्पाताध्यायानुरूपः (बृहत्संहिता अ० ४५)। केवलं पञ्चचत्वारिंशश्लोकादुनपञ्चाशश्लोकान्तोऽशस्तत्र न दृश्यते।
 
    १८। वत्से इत्यादि। तथा विकृतपाठः श्लोकोऽयं यथास्य प्रकरणमपि न सुविज्ञानम्। एवमपि द्वारादिपददर्शनात् सन्निवेशविशेषाञ्च द्वारसम्बन्ध्येवायं श्लोक इत्यस्माकं प्रतिभा। दृश्यते हि प्रधानद्वारस्य तैस्तैर्वेथे कर्त्तुरशुभादिवर्णनम्। तथा च बृहत्संहितायाम्-
-
 
 मार्गतरुकोणकूपस्तम्भभ्रमविद्धमशुभदं द्वारम्।  
 उच्छ्रायाद् द्विगुणमतां त्यक्त्वा भूमिं न दोषाय॥ इति। (अ० ५२, ७४ श्लो०)
@@ -7820,7 +6891,6 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 **नक्षत्रयोनिश्च षडष्टकञ्च वर्गाष्टकं नाडिगतञ्च ऋक्षम्।  
 देवादिऋृक्षाणि विशोपकाश्च (?) एते विलोक्याः प्रतिमाविधाने॥ ५६**
 
@@ -7843,7 +6913,6 @@ SANTINIKETAN
 [TABLE]
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 देवतामूर्त्तिप्रकरणम्
 
@@ -7870,12 +6939,9 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 [TABLE]
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 **देवतामूर्त्तिप्रकरणम्**
 
@@ -7894,8 +6960,6 @@ SANTINIKETAN
    पूर्वोक्तनियमानुसारेण प्रत्येकराशौ यावद्रेखापातो भवेत् ता रेखा द्विगुणीकृत्य ततोऽष्टौ वियोजयेत्, ततो यावदवशिष्टं भवेत्, सावदङ्कं तत्तद्वाशिषु रक्षेत्। यद्यद्राशिषु द्विगुणितरेखासमष्टिरष्टाभ्यो न्यूना भवेयुः तत्तद्राशिषु अष्टसंख्यातो यावती न्यूना भवेत् तावतो बिन्दून् स्थापयेत् यद्यद्राशिषु द्विगुणितरेखासमष्टिरष्टौ भवेयुस्तस्मिन् राशौ समं लिखेत्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 **बिन्दुपातस्य रेखापातस्य च नियमः**
 
@@ -8108,7 +7172,6 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 एवञ्च रामादीनां प्रमाणं दश तालास्ते च विंशत्यधिकं शतमङ्गुल्य इत्यायातम्। एतेन-
 
 'उत्तमं दशतालं स्याच्चतुर्विंशच्छताङ्गुलम्'  
@@ -8135,7 +7198,6 @@ SANTINIKETAN
 इति भागमानेन यत् प्रतिमाया मानमुक्तम्, तेनाऽपि विंशत्यधिकशताङ्गुलमेव प्रतिमायाः परिमाणंभवति, भागस्य चातुराङ्गुल्याभिधानात् बृहत्संहितायाञ्च देवप्रतिमाया एव चतुरशीत्यङ्गुल- मानायाः कनीयस्त्वकथनाच्च।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 \[ तालमानेन मूर्तीनां कर्तव्यता \]
 
@@ -8189,7 +7251,6 @@ SANTINIKETAN
    ६। मध्यममिति। प्रथमार्द्धं पञ्चतालकर्त्तव्यत्वेन यः शूकर उद्दिष्टः स मध्यम इति ज्ञेयः नोत्तमो नापि वाऽधमः। एवं तृतीयार्द्धेसप्ततालकर्त्तव्यत्वेन यो वृषभ उद्दिष्टः सोऽपि मध्यम एवेत्यर्थः। सप्ततालकर्त्तव्यस्तृतीयशूकरच मध्यमेतर इति व्याख्येयम्, अन्यथा पौनरुक्त्यापत्तेः। वृषभशूकरयोः साप्ततालिकत्वकथनं मतान्तरेणेति ज्ञेयम्।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 **दशतालैर्भवेद्रामो बलिर्वैरोचन (नि?) स्तथा।  
 सिद्धाश्चैव जितेन्द्राश्च ऊर्द्धास्ते च प्रकीर्तिताः॥ ६॥  
 तात्नाएकादश स्कन्दो हनुमांश्चण्डिका तथा।  
@@ -8228,7 +7289,6 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 **वक्त्रांप्रमाणञ्च ग्रीवा स्यादङ्गुललयम्।  
 सार्द्धसप्ताङ्गुलं वक्षो मध्यं नवभिरङ्गुलैः॥ १४॥  
 सप्तसार्द्ध (-ं?) नाभिमेढ्रमूरू अष्टादश स्मृताः।  
@@ -8260,7 +7320,6 @@ SANTINIKETAN
 देवता – ७  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
         **\[ मध्यमाष्टतालेऽवयवमानम् \]  
 अष्टसार्द्धं प्रवक्ष्यामि गीष्पतेस्ताललक्षणम्।  
 केशान्तञ्च त्रिमात्रन्तु वक्त्रंस्याद्वादशाङ्गुलम्॥२२॥  
@@ -8288,7 +7347,6 @@ SANTINIKETAN
    २८-२९। स्तनगर्भे स्तनयोरन्तरे। ईरितं कथितम्। सङ्ग्राह्येस्तनगर्भा बहिः कक्षे कक्षद्वयं वेदवेदांशे अष्टाङ्गले। तत एकान्तरे एकमात्राव्यवधाने वाहूसप्तसप्ताङ्गुलौविस्तारे एकः सप्ताङ्गुलस्तथा अन्यश्च सप्ताङ्गुलः। करमानान्तरमाह- करोऽष्टादशमात्रः, अग्र अग्रस्य विस्तारः गुणाङ्गुलः षडङ्गलः।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 **मूल एकादशोरू स्याद् जङ्घा प्रान्ते युगाङ्गुला।  
 चतुर्दशाङ्गुलः पादस्ततोऽर्द्धे (स्तदूर्ध्वे) च युगाङ्गुलः॥३१॥  
@@ -8328,7 +7386,6 @@ SANTINIKETAN
 एवं दक्षिणतरस्य तवा ब्रह्मस्थानं प्रकल्पयेत्॥ ( अ० २६३, १६ श्लो०)
 
 इति। ततश्च मयमतीयपाठदर्शनाद् यदस्माभिवमे द्वाशम्' इति पाठः शुद्धत्वेन कल्पितस्तन्मता- न्तरमिति कृत्वेति ज्ञातव्यम्। 'वामे चांशम्' इति पाठस्त्वक्षरसंवादाभावात् स्वसमानतन्त्रान्तरा सम्मतेव न गृहीतः। अन्यच्च-मत्स्यपुराणे ब्रह्मसूत्रस्य हेयांशयो तेषां तद्विगुणं मानमुक्तमिति दृश्यते। तच्च'वामे द्व्यंशम्' इति पाठ एवोपपन्नं भवति, न तु  
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -8383,8 +7440,6 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **त्रयोविंशतिपर्यन्तमेकादि विषमांशके।  
 स्थाया उ (न्यु ?) दुम्बरादूर्द्धं शिवलिङ्गानि धीमता॥१०॥  
 पञ्चविंशे मुखं लिङ्गं द्वेऽ (द्वय?) धिके जलशायिनः।  
@@ -8411,8 +7466,6 @@ SANTINIKETAN
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-  
-
 **चण्ड्याएकोनषष्ट्यं शे भैरवी तद्द्वयाधिके।  
 वेतालस्य त्रिषष्ट्यंशे पदं शून्यं तदर्द्ध(दूर्द्ध्व?) तः॥ १७॥  
 लिङ्गाग्रे नैव कर्त्तव्या ह्यर्चारूपेणदेवताः।  
@@ -8434,7 +7487,6 @@ SANTINIKETAN
   २०-२१। पूर्वं 'ब्रह्माणं ब्रह्मणोऽग्रतः' इति 'विष्णौ विष्णुं जिने जैनम्' इत्युक्तम्, इदानीं तदपवादमाह- ये यस्यापीति ब्रह्मविष्ण्वोरिति च। यस्य देवस्य ये हितावहा हितकारका भवन्ति तेऽपि तदग्रतः स्थाप्या इत्यर्थः।  
    ब्रह्मेत्यादि। एकनाभिः सनाभिः सपिण्डस्तुल्यो वा, ताडशे जिने सम्मुखवर्त्तिनीत्यर्थः, दोषो न विद्यते ब्रह्मणो विष्णोश्राये स्थापितो जिनो दोषाय न भवतीत्यर्थः। एवञ्च जिनस्याप्यग्रेब्रह्मणि विष्णौ वा स्थापिते दोषो न भवतीति लभ्यते न्यायसाम्यात्।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 **एते शिवाश्रये स्थाप्या दृष्टिवेधविवर्जिताः।  
 दृष्टियातहितं यच्च पुराघं न प्ररोहति॥ २३॥  
@@ -8460,7 +7512,6 @@ SANTINIKETAN
   २७। मातृणामिति। एतेन मातरो दक्षिणदिङ्मुखा उत्तरदिङ्मुखा वा कार्या इति
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 देवतामूर्त्तिप्रकरणम्
 
@@ -8492,8 +7543,6 @@ SANTINIKETAN
 
 **इति कमलासनः।**
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 १। अयमध्यायो ब्रह्मादीनां देवानामायुधवर्णवाहनादिनिर्णयार्थ प्रवृत्त इति ज्ञायते एतद्ग्रन्थकृत्यान्तराद्रूपमण्डनात्। तथा च-
@@ -8510,7 +7559,6 @@ SANTINIKETAN
 २-४। एकस्यैव ब्रह्मणो नामभेदेन चत्वारि रूपाणि निरूपयिष्यन्नादौ कमलासनं वक्तं
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 तस्य चतुर्वाहुत्वे चतुर्मुखत्वे च हेतुप्रदर्शनपूर्वकं स्वरूपमाह— ऋग्वेदादीति। ऋगादयश्चत्वारो वेदाः कृतादयश्त्वाचरि युगानि, ब्राह्मणादयश्चत्वारो वर्णाश्चेति यथासम्भवं तत्स्मर्त्तृत्वतत् कर्त्तृत्वादिरूपेण ब्रह्मणोऽपि चत्वारि मुखानि चत्वारो बाहवश्चेत्यर्थः। तत्र कृतं सत्ययुगम्, करे दक्षेइति दक्षाधःकरे, ऊर्द्ध्वत इति दक्षोर्द्ध्वतः, एवं वामेऽपि। द्वितीयकमलासनपदंविशेषणपरम्।
 
@@ -8538,11 +7586,8 @@ SANTINIKETAN
 अक्षसूत्रधरस्त (द्वा ? द्वद् ) मौञ्ज्यामेखलयावृतः॥इति।  
                       (अ० ७७, २-४ श्लो० )**
 
-
-
    शिल्परत्नोत्तरभागेऽपि (अ० २५, १२३-१२७ श्लो०) प्रायेणैवमेव ब्रह्मणो लक्षणमुल्लिखितम्। परं प्रकृतग्रन्थ इव कुत्रापि ब्रह्मणश्चतुर्भेदभिन्नत्वं न दृश्यते। कमलासनः कस्मिन् युगे सुखदायक इति नोपलभ्यते। विरिञ्चिब्रह्माणौ कृते सुखदायकौ, पितामहस्त्रेतायाम्। तत्र पारिशेष्याद् भवतु कमलासनः कलौ वा द्वापरे वा, न तेनैकेन युगद्वयवर्तिनां जनानां सुखं शक्यसम्पादनमिति सुधीभिश्चिन्तनीयम्।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 **असूस्त्रंपुस्तकञ्च श्रुतिश्चैव कमण्डलुः।  
 विरिञ्चि ( ञ्चे?)श्च भवेन्मूर्त्तिः कृते स्यात् सुखदायिनी॥ ५॥  
@@ -8656,7 +7701,6 @@ SANTINIKETAN
 ससप्ताश्वे सैकचक्रे रथे सूर्यो द्विपद्मधृक्।  
 मसीभाजनलेखन्यौ विभ्रत् \*\* \* \*॥ ( अ० ११, १ श्लो० )।
 
-
 इत्यनेन च तन्मूर्तीनां चतुर्बाहुत्वस्य सूचितत्वात्। एतेन काश्यपशिल्पे-
 
 द्विभुजाः पद्महस्ताश्च रक्तपद्मासने स्थिताः।  
@@ -8664,7 +7708,6 @@ SANTINIKETAN
 
 इति यद् द्विकरत्वं भास्करमूर्त्तीनामुक्तं तन्मतान्तरप्रदर्शनमिति कृत्वा सोढव्यम्।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 **दक्षिणे पौष्करा (री?) माला करे वामे कमण्डलुः।  
 पद्माभ्यां शोभितकरौ (रा?) सुधामा (ता ?) प्रथमा स्मृता॥ २२  
@@ -8771,12 +7814,7 @@ SANTINIKETAN
 
 ज्ञानार्थमधः सूर्यायतनं चित्रारूढमुपस्थाप्यते-
 
-
-
                         Upload photo by Review
-
-
-
 
     ३८-३९। पञ्चपादीयं पञ्चानां सूर्यैकदन्ताच्युतशक्तिरुद्राणां क्रमादेकैकप्राथम्येन निर्देशमनु- भवितुं प्रवृत्ता क्रमत्क्रमभ्यां सर्वत्रैकमेवार्थ प्रतिपादयतीति दृभ्यते। किमत्र तात्पर्यमिति प्रश्ने- य इमे देवमुख्यास्तेषामायतनेषु त एव विभक्तविभागेनावस्थिताः फलदायकाः स्युः, तत्रापि यस्यायतनं तस्य प्राङ्निर्देशार्थमयमुद्यम इत्येवास्माकं प्रतिवचनविभवः।  
   श्रीकण्ठेत्यादिश्लोकस्य तु दुष्करः पाठोद्वारः। प्रथमे पादे एवं ह्यर्थः सुस्थितः स्यात्-
@@ -8837,7 +7875,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 **\[ राहुः \]**
 
 **सिंहासनगतं राहुं करालवदनं लिखेत्।  
@@ -8867,7 +7904,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 **           \[ यमः \]**
 
 **लेखनीं पुस्तकं हस्ते कुक्कुटं दण्डमेव च।  
@@ -8892,7 +7928,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
  ६४। यद्यपि 'नलो' इत्यत्र 'मरुद्' इति पाठकल्पनम् एकान्ततः कल्पनैव तथाऽप्यर्थ- वैधुर्यादनन्यगत्या तथा पाठः कल्पितः। निपुणैः शब्दसाम्यमनुबध्य पाठान्तरमनुसन्धातव्यम्।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 **\[ ईशानः \]**
 
@@ -8940,7 +7975,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
    ३। शूद्राणाञ्चेति चकाराद ब्रह्मक्षत्रविशामपि सुखप्रदेत्यनुमीयते। रूपमण्डने पुनः 'शूद्राणां सौख्यदायिनी 'ति पाठः।  
    ४। मेदो म्लेच्छजातिविशेषः, ध्वजः शौण्डिकः। अत्र द्वितीया 'कुम्भकारवणिक्- वैश्यचाक्रिकध्वजिनामपि' इति सुखबोध्यः पाठो रूपमण्डने। एवञ्चैतन्मते वैश्यानां मधुसूदन- विष्णुहृषीकेशाः रूपमण्डनमते त्रिविक्रम वामनहृषीकेशाः सुखाबहाइति स्थितम्।  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 **        \[ अवस्थाभेदेन मूर्त्तीनां ग्राह्माग्राह्यत्वम् \]  
 अङ्गप्रत्यङ्गभग्ना या मूर्त्तिः स्थाप्या विसर्जयेत्।  
@@ -8998,7 +8032,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 **       \[ प्रोक्तानामायुधानां न्यासक्रमः \]  
 अधरं दक्षिणे हस्तमारभ्य सृष्टि (माग्रतः ? मार्गतः)।  
 चतुर्विंशतिमूर्त्तीिनां सर्व (त्रेना? त्रैवा) युधक्रमः॥ १४॥  
@@ -9021,9 +8054,7 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 \[ प्रमाणतो ग्राह्मशिलालक्षणम् \]
-
 
 **तत्राप्यामलकीमाना सूक्ष्मा चातीव या भवेत्।  
 तस्यामेव सदा कृष्णः श्रिया सह वसत्यसौ॥ १६॥  
@@ -9040,8 +8071,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 **खण्डिता स्फुटिता भिन्ना पार्श्वभिन्ना विभेदिका।  
 शा (लि ? ल) ग्रामसमुद्भूता शिला दोषवहा न हि॥ २१॥**
 
-
-
 १८। लोकत्रयं प्राणतोषणीधृतस्कन्दपुराणे किञ्चिद्विकलमुपलभ्यते। तत्र यथा पाठान्तरं तथा श्लोकमध्ये बन्धनीचिह्नान्तर्यथासम्भवं सन्निवेशितम्।  
 रुक्षेति- 'अचिराच्छुष्कतां याति यस्यां लिप्तन्तु चन्दनम्। सा रुक्षेति' शिलाचक्रार्थबोधिनी- घृतप्रयोगपारिजातो- क्तलक्षणेत्यर्थः। अस्थिरेति आसने स्थिरतयाऽवर्त्तमाना। बहुचक्रेति प्रमाणाधिकचक्रशालिनी, यस्याः शिलाया यावन्ति चक्राणि प्रमाणतः प्राप्तानि ततोऽधिकचक्रेति यावत्। एकचक्रति एकं चक्रकं यस्याः सा, यस्या एकमपि चक्र क्षुद्रं तादृशीत्यर्थः। अन्यत्रैचक्रया ग्राह्यत्वश्रवणात्।  
 १९। बद्धचक्रेत्यत्र लग्नचक्रेतिपाठः पुराणे। तत्रापि नास्त्यर्थान्तरम्। बृहच्चक्रेति 'चक्रान्तर्गतचक्रा,  
@@ -9050,7 +8079,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 २१। अन्न प्राणतोषण्यां स्फुटितादिवर्जनीय शिलालक्षणमभिधाय -
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 \[ वर्णभेदात् फलभेदनिरूपणम् \]
 
@@ -9086,7 +8114,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 **अथ चक्र \[ विशेष \] लक्षणानि**  
       **  \[ तत्र वासुदेवः \]**
 
@@ -9118,7 +8145,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 **         \[ त्रिचक्रलक्ष्मीनारायणः \]**
 
 **लक्ष्मीनारायणो देवस्त्रिभिश्चक्रैर्व्यवस्थितः।  
@@ -9148,7 +8174,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 **       \[ वर्णक्रमेण तेषां नामानि \]**  
 **पुण्डरीकः प्रलम्बघ्नोरामो वैकुण्ठ एव च।  
 विष्वक्सेन इति ब्रह्मन् फलञ्चास्यार्चने शृणु।**  
@@ -9167,7 +8192,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
    ३९-४०। द्विचक्रे विशेषमाह - चक्रे त्विति। द्विचक्राणां चक्रे यदि मध्यदेशे स्यातां तदा तेषां परमेष्ठयादिसंज्ञा भवति, फलञ्च राज्यादिकमिति वर्त्तुलार्थः। नानामूर्त्तिरित्यनन्त इत्यस्य विशेषणम्। राज्यमित्यादिद्वितीयान्तपदानां ददातीत्यध्याहृतक्रिययाऽन्वयो द्रष्टव्यः। अत्रेदं विवेक्तव्यम्- प्राणतोषणीधृतपद्मपुराणे 'वर्णचक्रादिभेदेन तानि नामानि मे शृणु' इत्युपक्रम्य, 'शुक्लोरक्तस्तथापीत' इत्यादिसप्तत्रिंशश्लोकादारभ्य 'राज्यं मृत्युम्' इत्यादिचत्वारिंश- श्लोकान्तो भागः क्वचित् किञ्चिदंशस्य योगविप्रयोगाभ्यामविकलो बर्त्तते। परं तत्र वर्णतश्चक्रतश्च भिन्नतया द्विविधानामप्यमूषां शालग्राम शिलानां 'राज्यं मृत्युं विवादञ्चे' त्याद्येकमेव फलं निर्णीत- मुपलभ्यते न तु प्रकृते इव वर्णतो भिन्नानां 'मोक्षं मृत्युं विवादञ्च'त्यादि विविक्तं फलम्। विशेषतः पुनस्तत्र 'राज्यं मृत्युम्' इत्यादिद्वितीयान्तपदानामन्वयसमाप्त्यर्थं 'ददाति पूजितो लोके तस्माद् ज्ञात्वाऽर्चयेन्नरः' इत्यर्धमधिकं वर्त्तते। तदनयोर्वर्णभिन्नभिन्नयोः शालग्रामशिलावर्गयोर्युतफलताऽयुतफलता वेति स्मार्त्तधुरीणा एव समादधत्विति।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 **        ** **\[ चक्रान्तराणि \]**  
 **एक (पद्मान्तिका ? चक्रान्विता) या तु दक्षि (णार्त्त  
@@ -9196,7 +8220,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 ४१-४२॥ या शिला एकचक्रान्विता, दक्षिणावर्त्तसंस्थिता चतुर्लाञ्छनसंयुक्ता च सा भोगमोक्षप्रदेत्यन्वयः। चतुर्लान्छनेत्यस्य विवरणं चक्रेणेत्यादि।
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 
 **         \[ कपिलनृसिंहः \]**  
 **नृसिंहं पीतवर्णाभ-महा (वक्तू ? चक्र ) मुखे गुरुम्।  
@@ -9362,7 +8385,6 @@ afusal च तथा बाहू बिभ्राणौ परिकल्प
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Content after this line is yet to be proofread.**  
-
 
 **कृष्णाजिनोपवीतः स्याच्छली (कृत ? धृत) कमण्डलुः।  
 कुण्डली शिखया युक्तः कुब्जाकारो मनोहरः॥ ७१॥  
@@ -10413,257 +9435,5 @@ ans: शान्तिनाथस्य श्यामः शूकरवा�
 
 ----------
 
-
-
-
-
-
-
-
-
-
 \]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[^157]: "See T. A. Gopinatha Rao: Op. cit."
-
-
-[^154]: "See T. A. Gopinatha Rao: Op. cit."
-
-
-[^148]: "Quoted in T. A. Gopinatha Rao: Op. cit."
-
-
-[^147]: "Quoted in T. A. Gopinatha Rao: Op. cit."
-
-
-[^146]: "Quoted in T. A. Gopinatha Rao: Op. cit."
-
-
-[^145]: "Quoted in T. A. Gopinatha Rao: Op. cit."
-
-
-[^144]: "Quoted in T. A. Gopinatha Rao: Op. cit."
-
-
-[^129]: "These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."
-
-
-[^128]: "These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."
-
-
-[^126]: " These quotations are all from T. A. Gopinatha Rao: Op. cit., which represents the Ripamayana, in another and somewhat different version, apparently."
-
-
-[^124]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
-
-
-[^123]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
-
-
-[^122]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
-
-
-[^121]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
-
-
-[^120]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
-
-
-[^119]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
-
-
-[^118]: "Readings quoted, from the VD. from another and presumably better version, in T. A. G. Rao: Op. cit."
-
-
-[^116]: "Readings quoted, from the printed Ed. of the VD. (Sri Ve.ikajesvara Pr.
-
-
-[^106]: "See Prunatoṣaṇī (PT.
-
-
-[^105]: "See Prunatoṣaṇī (PT.
-
-
-[^104]: "See Prunatoṣaṇī (PT.
-
-
-[^103]: "See Prunatoṣaṇī (PT.
-
-
-[^102]: "See Prunatoṣaṇī (PT.
-
-
-[^101]: "See Prunatoṣaṇī (PT.

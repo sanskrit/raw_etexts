@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNDQ0NzE2ODc
 
 \[
 
-
-
 **चिन्त्यागमः**
 
 **तन्त्रावार पटलः**
@@ -302,7 +300,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNDQ0NzE2ODc
 तन्त्राणामवतारेति मन्त्रोद्धारं ततः शृणु
 
 इति चिन्त्यशास्त्रे तन्त्रावतारविधिर्नाम प्रथमः पटलः  
-  
 
 **मन्त्रोद्धारविधिः**
 
@@ -8209,8 +8206,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNDQ0NzE2ODc
 
 इति चिन्त्यशास्त्रे प्रतिष्ठातन्त्रे अन्त्येष्टिः चतुस्त्रिंशत्पटलः
 
-
-
 **अन्त्येष्टिविधिः**
 
 षट् षट् सूत्रे च मध्ये हृदपदसहितं पीतवर्णं च रक्तं वेदं श्वेतं
@@ -13893,8 +13888,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNDQ0NzE2ODc
 
 निजेत् पूर्वोक्त विधिवत् अस्त्रराजं प्रतिष्ठया २४
 
-
-
 **कौतुकबन्धनप्रायश्चित्तम्**
 
 कौतुकौ बलिबिम्बं च शक्तौ च नृपस्य मरणं शीघ्रं राष्ट्रे चाग्नि भयं भवेत्
@@ -14753,15 +14746,10 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxNDQ0NzE2ODc
 
 **इति चिन्त्यागमे प्रायश्चित्तविधि पटलः**
 
-
-
 **Reference:**  
 Muktabodha Indological Research Institute: The Catalogue and On-Line Digital Library of the Paper Manuscripts of the French Institute of Pondicherry:
 
 **Manuscript no. T 0888,** consisting of 295 folios, comprising 82 Patalas: This transcript is copied from a paper MS belonging to Sambasivasivacarya, Palani.  
 **Manuscript No. : T0014,** consisting of 480 folios, comprising 30 Patalas: This transcript is copied from a MS belonging to Sri Swaminatha Sivacharya of Tiruvavaduturai, Tanjore Dt.
-
-
-
 
 \]

@@ -11,7 +11,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc0OTM1ODc5
 
 \[
 
-
 अध्याय १  
 .नक्षत्रकर्मफल
 
@@ -161,7 +160,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc0OTM1ODc5
 
 ४.३ कृष्णे गोचरशुभदो न शुभं पक्ष(क्षे) शुभमतोन्यत् ॥E३  
 
-
 अध्याय ५.
 
 लग्नविशुद्धि
@@ -185,7 +183,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc0OTM1ODc5
 ५.५ मीने कुटिलो मार्गो भवति तदसेन्य(त्य)शशिलग्ने (पि)।
 
 ५.५ नौयानमाप्यलग्नकार्यं तु तन्नवांशे वा॥E५  
-
 
 अध्याय ६
 
@@ -218,7 +215,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc0OTM1ODc5
 ६.७ लग्नप्रधान(ना) या यात्रा शीलेनैव कुलाङ्गना।
 
 ६.७ भावास्तमन्त्र(नु)हर्तन्ते गुण(णा)रूपमिवोत्तमः(माः)॥E७
-
 
 अध्याय ७.
 
@@ -511,6 +507,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDc0OTM1ODc5
 Eन्दोf टिकनिकयत्र
 
 \\\\Z  
-
 
 \]

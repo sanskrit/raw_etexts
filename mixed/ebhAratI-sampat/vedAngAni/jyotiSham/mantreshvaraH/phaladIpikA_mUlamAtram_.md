@@ -13,24 +13,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **                       
 फलदीपिका**
 
 **         ** प्रथमोऽध्यायः    
  राशिभेद    
-
 
  शुक्लाम्बरधरं देवं शशिवर्णं चतुर्भुजम् ।
 
@@ -149,7 +136,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 अथ समुपचयानि व्योमशौर्यरिलाभा
 
 नवमसुतभयुग्मं स्यात् त्रिकोणं प्रशस्तम् ॥ १८ ॥
-
 
 **द्वितीयोऽध्यायः**  
 ग्रह भेद
@@ -356,7 +342,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 माणिक्यं तरणेः सुधार्यममलं मुक्ताफलं शीतगो  
 
-
 र्माहेयस्य च विदूमं मरकतं सौम्यस्य गारुत्मतम् ।
 
 देवेड्यस्य च पुष्परागमसुरामात्यस्य वज्रं शने
@@ -410,7 +395,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 वागीशः सफलोऽफलः शशिसुतः क्षीरप्रसूनद्रुमौ
 
 शुकेन्दू विधुरोषधिः शनिरसारागश्च सालद्रूमहः॥ ३७॥  
-
 
 ***तृतीयोऽध्यायः***  
 **वर्गविभाग**
@@ -555,7 +539,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 अनुक्रमेणाशुभमेव कुर्युर्नामानुरूपाणि फलानि तेषाम् ॥ २०॥
 
-
 **चतुर्थोऽध्यायः  
 ग्रह बल**
 
@@ -674,7 +657,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 मृर्ष्टाशित्वं च गीता इति नियमवशात्सद्भिरिन्दोरवस्था ॥१६॥
 
 चन्द्रवेलाफल                             
-   
 
 मूर्द्धमयो मुदितता यजनं सुखस्थो
 
@@ -721,7 +703,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 लग्नादिकानामधिपस्य पिण्डे रूपान्विते तद्बलपिण्डमाहुः ।
 
 गृहस्य यस्यां दिशादिग्बलं स्यात्तद्भाववीर्य सहितस्य दृष्ट्या ॥ २४ ॥  
-
 
 **पंचमोऽध्याय  
 कर्माजीव प्रकरण**
@@ -1162,8 +1143,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 स्तद्व्यस्ते सति योगवान्धनपतिर्भूपः सुखी धार्मिकः ॥ ७० ॥
 
-
-
 **सप्तमोऽध्यायः**
 
 **राजयोग**
@@ -1369,7 +1348,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 नीचे यस्तस्य नीचोच्चभेशौ द्वावेक एव वा
 
 केन्द्रस्थश्चेच्चक्रवर्ती भूपः स्याद्भुपवन्दितः ॥३०॥  
-
 
 **अष्टमोऽध्यायः  
 भावाश्रय फल**
@@ -1642,7 +1620,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 न्यूनाधिकांशवशतः फलवृद्धिहसिता वाच्या ॥ ३५ ॥  
 
-
 **नवमोऽध्यायः  
 राशिफल**
 
@@ -1778,7 +1755,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 स्वक्षेत्रगस्योक्तफलानि तद्वत् ॥ २०॥  
 
-
 **दशमोऽध्यायः**
 
 **कलत्र भव**
@@ -1903,7 +1879,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 कलत्रहानी प्रवदन्ति सन्तः ॥१५॥
 
-
 **एकादशमोऽध्यायः**
 
 **स्त्री जातक**
@@ -1991,7 +1966,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 दृष्टेऽस्मिन् गुरुणा निजोपचयगे कुर्यान्निशेकं पुमान्
 
 अत्याज्य समये शुभाधिकयुते पर्वादिकालोज्भिते ॥११॥  
-
 
 **द्वादशोऽध्यायः  
 पुत्रभाव फल**
@@ -2240,7 +2214,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 आधानकालेऽपि च जन्मतुल्यं फलं वदेञ्जन्मविलग्नतश्च ॥३४॥  
 
-
 **त्रयोदशोऽध्यायः  
 आयुर्भाव**
 
@@ -2431,7 +2404,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 सम्यक्स्फुटाभिहतया क्रिययाप्तवाक्या
 
 दायुर्बुधो वदतु भूरिपरीक्षया च ॥ २५ ॥  
-
 
 **चतुर्दशोऽध्यायः**  
 **रोगनिर्णय**
@@ -2649,7 +2621,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 वर्णो गुणस्तस्य खगस्य तुल्यः
 
 संमोदितैरेव वदेत्समस्तम् ॥ २९॥  
-
 
 **पञ्चदशोऽध्यायः  
 भावचिन्ता**
@@ -2882,7 +2853,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 त्रिकोणे वा स्थितिः पञ्चप्रकारो बन्ध ईरितः ॥ ३०॥  
 
-
 **षोडशोऽध्यायः**
 
 **द्वादश भावफल**
@@ -3099,7 +3069,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 ल्लग्नाच्च चन्द्रादपि चिन्तनीयम् ॥ ३५॥  
 
-
 **सप्तदशोऽध्यायः  
 निर्याणप्रकरण**
 
@@ -3255,8 +3224,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 तेषामंशवशाद्वदन्तु निधनं तत्तत्रिकोणेऽपि वा ॥ २८॥
 
-
-
 **अष्टादशोऽध्यायः  
 द्विग्रहयोग**
 
@@ -3399,7 +3366,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 वीर्यान्वितोऽंशकपर्तिनरुणद्धि पूर्वं
 
 राशीक्षणस्य फलमंशफलं ददाति ॥ १७ ॥  
-
 
 **एकोनविंशोऽध्यायः**  
 **दशाफल**
@@ -3614,15 +3580,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 भवति गुरुवियोगो बान्धवातिर्मनोरुक् ॥ २६॥  
 
-
 **विंशोऽध्यायः**  
 **अन्तर्दशाफल**
 
 भावेश्वरेण प्रबलेन येन यद्यत्फलं हीनबलेन येन ।
 
 यदानुभोक्तव्यमनन्यसम्यक्संसूचयिष्यत्यथ संग्रहेण ॥१॥
-
-
 
 लग्ने बलिष्ठे जगति प्रभुत्वं सुखस्थिति देहबलं सुवर्चः ।
 
@@ -3925,7 +3888,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 रन्ध्रेशोऽपि विलग्नपो यदि शुभं कुर्याद्रविर्वा शशी
 
-
 यद्येवं शुभदः पराशरमतं तत्तद्दशायां फलम् ॥ ४१॥
 
 कोणाधीशः केन्द्रगः केन्द्रपो वा
@@ -4047,7 +4009,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 प्रश्नोदयग्रहवशादथ वा स्वजम््म
 राश्यादिना वदतु नास्त्यनयोर्विशेषः ॥ ६३॥  
 
-
 **एकविंशोऽध्यायः  
 प्रत्यन्तर्दशाफल**
 
@@ -4092,7 +4053,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 विषाद्भयं विषयविमूढता पुनः
 
 शिरोदृशोरधिकरुगेव देहिनाम्  
-
 
 अहौ भवेधिमकरायुरन्तरो ॥६॥
 
@@ -4700,7 +4660,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 छायाङ्कवार्तश्रवणानि वा स्युः ॥ ८४ ॥
 
-
 **द्वाविंशोऽध्यायः**  
 **कालचक्र दशा**
 
@@ -5129,8 +5088,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 सुस्थानपश्चेत् स्वोच्चस्थः पापी भावानुकूल्यकृत् ॥ २४॥
 
-
-
 **चतुर्विंशोऽध्यायः  
 प्रष्टकवर्गफल**
 
@@ -5332,7 +5289,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 **गुलिकादि उपग्रह**  
 
-
 नमामि मान्दिं यमकण्टकाख्य
 
 मर्द्धप्रहारं भुवि कालसंङ्यम् ।
@@ -5342,7 +5298,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 उपग्रहानिन्द्रधनुश्च केतून् ॥१॥
 
 चरं रुद्रदास्यं घटं नित्यतानं   
-
 
 खनिर्मान्दनाढ्यः कार्यों
 
@@ -5509,7 +5464,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 रथगजतुरगाणां नायको मारतुल्यो
 
 महितपृथुयशास्स्यान्मेदिनीमङ्डलेन्द्रः ॥ ३० ॥  
-
 
 **षड्विंशोऽध्यायः  
 गोचरफल**
@@ -5854,7 +5808,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 पापवेधा दुःखतरा गोचरेताश्च चित्तयेत् ॥४८॥  
 
-
 सप्तविंशोऽध्यायः  
 प्रव्रज्या योग
 
@@ -5922,7 +5875,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 
 प्रव्रज्यां महितां सताम्भिमतां चेदन्यथा निन्दिताम् ॥८॥  
 
-
 अष्टाविंशोऽध्यायः  
 उपसंहाराध्याय
 
@@ -5967,16 +5919,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODkyOTAyOTYyOTU
 तत्कटाक्षविशेषेण कृता या फलदीपिका ॥६॥
 
 ----------
-
-
-
-
-
-
-
-
-
-
-
 
 \]

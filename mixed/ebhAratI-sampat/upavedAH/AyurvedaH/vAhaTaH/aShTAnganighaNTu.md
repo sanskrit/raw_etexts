@@ -13,19 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkwNTgwOTQyMDE
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 वाहटः आष्टाङ्गनिघण्टु
 
 सर्वज्ञाय नमस्कृत्य द्रव्याणां गूढवाचिनाम् ।  
@@ -843,16 +830,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkwNTgwOTQyMDE
 क्षीरोधिजश्चाब्जयोनिः पायाद्धन्वन्तरिस्तथा ॥ ४०७ ॥  
 नासत्यावश्विनौ दस्रावाश्विनेयौ च तावुभौ ।  
 रक्षतां देवभिषजौ वैद्यपुत्रान् स्वरोचिषा ॥ ४०८ ॥
-
-
-
-
-
-
-
-
-
-
-
 
 \]

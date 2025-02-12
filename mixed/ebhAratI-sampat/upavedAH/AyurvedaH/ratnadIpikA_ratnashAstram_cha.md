@@ -14,33 +14,19 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDIwNDQ0OTYzNDE
 
 \[
 
-
-
-
-
 [TABLE]
 
-
-
 [TABLE]
-
-
 
 **PRINTED AT  
 THE SREEVATHSA PRESS,  
 ROYAPETTAH, MADRAS.**
 
-
-
 [TABLE]
-
-
 
 INTRODUCTION
 
   The Government of Madras took up for consideration the question of publication of the various manuscripts in different languages on subjects like Philosophy, Medicine and Science, etc., early in May 1948. Important Manuscripts libraries in the Madras Presidency were requested to send a list of unpublished manuscripts with them for favour of being considered by the Government for publication. The Honorary Secretary of the Tanjore Maharaja Serfoji's Sarasvathi Mahal Library, Tanjore, alone complied with this request. This list as well as a similar list of unpublished manuscripts in the Government Oriental Manuscripts Library, Madras, were carefully examined and a tentative selection of manuscripts suitable for publication was made. The Government in their Memorandum No. 34913/41-10, Education, dated 4-4-49, constituted an Expert Committee with the Curator of the Government Oriental Manuscripts Library, Madras, as the Secretary, for the final selection of manuscripts suitable for printing and for estimating the cost of publication.
-
-
 
 |                                                   |
 |:-------------------------------------------------:|
@@ -138,7 +124,6 @@ LIBRARY, MADRAS.
 4. Safinat—Al—Najat.
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  
-
 
 **"B" FROM THE TANJORE MAHARAJA SERFOJI'S  
 SARASVATHI MAHAL LIBRARY, TANJORE.  
@@ -249,8 +234,6 @@ Library, Madras,
 4-3-51.                                
 Madras Govt. OrientalSeries.**                  
 
-
-
 श्रीः
 
 **भूमिका**
@@ -353,8 +336,6 @@ Madras Govt. OrientalSeries.**
 
 \_\_\_\_\_\_\_\_\_\_\_
 
-
-
 **॥ रत्नदीपिकाया विषयानुक्रमणी ॥  
 \_\_\_\_\_\_\_\_\_\_\_**
 
@@ -386,8 +367,6 @@ Madras Govt. OrientalSeries.**
 |            वज्रपरीक्षाप्रकारः            |          माणिक्यमूल्यनिरूपणम्          |
 |         वज्रस्य पञ्चविषदोषकथनम्          |                                       |
 
-
-
 |                                       |                                    |
 |:-------------------------------------:|:----------------------------------:|
 |                 विषयः                 |               विषयः                |
@@ -417,8 +396,6 @@ Madras Govt. OrientalSeries.**
 |                                      |           बैदूर्यपरीक्षा           |
 |                                       |          वैदूर्यस्य गुणाः          |
 
-
-
 |                                     |                             |
 |:-----------------------------------:|:---------------------------:|
 |                विषयः                |            विषयः            |
@@ -435,8 +412,6 @@ Madras Govt. OrientalSeries.**
 
 ॥ इति चण्डेश्वरकृतरत्नदीपिकाया विषयानुक्रमणी समाप्ता॥  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
 
 ॥बुद्धभटीयरत्नशास्त्रस्य विषयानुक्रमणी॥  
 \_\_\_\_\_\_\_\_\_\_
@@ -467,8 +442,6 @@ Madras Govt. OrientalSeries.**
 |                     कृत्रिमवज्रस्य संभवप्रकारः                     |                                                             |
 |                      वज्रस्य परीक्षाप्रकाराः                       |                                                             |
 
-
-
 |                                               |                                                          |
 |:---------------------------------------------:|:--------------------------------------------------------:|
 |                     विषयः                     |                          विषयः                           |
@@ -494,8 +467,6 @@ Madras Govt. OrientalSeries.**
 |                                              |                       विषयोपसंहारः                       |
 
 ॥ इति बुद्धभटीयरलशास्त्रविषयानुक्रमणी समाप्ता॥
-
-
 
 श्री चण्डेश्वरकृता
 
@@ -770,14 +741,10 @@ Madras Govt. OrientalSeries.**
 नव दोषा गुणाः पञ्च छायाकान्तिविभागतः।  
 मूल्यं चाष्टविधं प्राह मौक्तिकस्य धनेश्वरः॥ 14
 
- 
-
 अथ दोषाः—
 
 सच्छिद्रं कर्कशं क्षुद्रमारक्तमति चायतम्।  
 मलिनं निष्प्रभं चित्रं भग्नं च मौक्तिकं त्यजेत्॥ 15
-
-
 
  अथ गुणाः—
 
@@ -822,8 +789,6 @@ Madras Govt. OrientalSeries.**
 
 **द्वितीयं ज्योतिः॥  
 \_\_\_\_\_\_\_\_\_**
-
-
 
 —तृतीयं ज्योतिः—
 
@@ -974,8 +939,6 @@ Madras Govt. OrientalSeries.**
 
 **तृतीतं ज्योतिः॥  
 \_\_\_\_\_\_**
-
-
 
 पञ्चमं ज्योतिः  
 ॥अथ मरकतपरीक्षा॥
@@ -1190,8 +1153,6 @@ Madras Govt. OrientalSeries.**
 **सप्तमं ज्योतिः॥  
 \_\_\_\_\_\_\_\_**
 
-
-
 — अष्टमं ज्योतिः —
 
 **॥वैडूर्यपुष्परागमणिगुणकथनम्॥**
@@ -1231,8 +1192,6 @@ Madras Govt. OrientalSeries.**
 
 **अष्टमं ज्योतिः॥  
 \_\_\_\_\_\_\_\_\_\_**
-
-
 
 **— नवमं ज्योतिः —**
 
@@ -1323,8 +1282,6 @@ Madras Govt. OrientalSeries.**
 
 **समाप्ता्॥  
 \_\_\_\_\_\_\_\_\_\_**
-
-
 
 श्रीः
 
@@ -2222,7 +2179,6 @@ Madras Govt. OrientalSeries.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 
-
 ![](../../../../../books_images/U-IMG-1709873582image13.jpg)
 
 अत्र पुलकरुधिराक्षस्फटिकनिरूपणभागे अन्यपात इव लक्ष्यते । पञ्चविंशतितत्वानीत्यारभ्य, तत्राविद्यैव कारणम्, इत्यन्तो भागः प्रकृतासंबद्धो लक्ष्यते । आदर्शे उपलंभान्मुद्रितः॥  
@@ -2278,8 +2234,5 @@ Madras Govt. OrientalSeries.**
 **॥इति बुद्धभटीयं नाम रत्नशास्त्रं  
 समाप्तम्॥  
 \_\_\_\_\_\_\_\_\_\_**
-
-
-
 
 \]

@@ -16,8 +16,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczOTQwMjgxOTQ
 
 \
 
-
-
 ***GAEKWAD'S ORIENTAL SERIES***  
 
 **Published under the authority**
@@ -25,8 +23,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczOTQwMjgxOTQ
 **of the Government of His Highness**
 
 **The Maharaja Gaekwad of Baroda**
-
-
 
 **                                **
 
@@ -36,41 +32,17 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjczOTQwMjgxOTQ
 
 **\_\_\_\_\_\_\_\_\_**  
 
-
-
-
 **No. XXVIII**  
-
-
-
-
-
 
 **MÂNASOLLÂSA**
 
 **VOL. 1**
 
-
-
-
-
-
-
-
-
-
-
 **मानसोल्लास**
 
 **MÂNASOLLÂSA**
 
-
-
 **VOL. I**
-
-
-
-
 
 EDITED BY  
 
@@ -80,55 +52,17 @@ EDITED BY
 
 Sanskrit Librarian, Central Library, BARODA.
 
-
-
-
-
-
-
-
-
-
-
-
-
 **1925**  
 **CENTRAL LIBRARY  
 BARODA**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Printed by Ambalal Vithalbhai Thakkar at the Luhana Mitra Printing Press, Baroda, and published by Newton MohunDutt, Curator of Libraries, on behalf of the Government of His Highness the Maharaja Gaekwad of Baroda at the Central Library Baroda.  
-
-
-
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-
-
 **Price Rs. 2-12-0**
 
-
-
-
-
-
-
 **PREFACE.**  
-
 
  The first instalment of the long-announced Mānasollāsa, otherwise known as the Abhilaṣitārthachintāmaṇi, which purports to have been composed by the great Western Chalukya King Bhūlokamalla Someśvara, son of Vikramāditya VI, is now offered to the public. It is a voluminous work, extending to about 8000 Granthas, and is divided into five Viṃśatis, each containing 20 Adhyȃyas or chapters of unequal length, some chapters again including several sub- sections. The whole work is thus divided into one hundred chapters, dealing with one hundred different topics on the necessities and written for the instruction of the members of royal families. The first volume represents two among the five Viṃśatis, and comprises 40 Adbyȃyas or chapters.
 
@@ -170,9 +104,9 @@ The last three MSS belong to the Bikaner Durbar.
 
 [^3]: "The modern Mâñjrâin the Nizam's dominions also known as Garuḍa Gaṇgā or Garutmatt, a tributary of the Godāvari. (see the 90th. Adhyâya of the Gautamî Mâhâtmya in the Brahma Purâṇa
 
-  The three ślokas treating of Jvara (p. 18, śl. 188-190) are taken from an earlier work on medicine by Vāgbhaṭa, but the other ślokas have not been traced so far. In this Adhyāya and in the Adhyāyas of Aśvavaidyaka and Gajacikitsā it is worth noting that all the medicines mentioned are those prepared from medicinal plants. There is no mention of Bhasma, etc or medicines prepared from metals like iron, gold, etc.
-
 [^4]: "See ślokas 33 and 34 of the 1stAdhyāya of Gautamî Māhātmya in the Brahma Parāṇa: Anandasrama edition p. 190."
+
+  The three ślokas treating of Jvara (p. 18, śl. 188-190) are taken from an earlier work on medicine by Vāgbhaṭa, but the other ślokas have not been traced so far. In this Adhyāya and in the Adhyāyas of Aśvavaidyaka and Gajacikitsā it is worth noting that all the medicines mentioned are those prepared from medicinal plants. There is no mention of Bhasma, etc or medicines prepared from metals like iron, gold, etc.
 
 In the first Viṃśati the longest is the 19th Adhyayā called the Dinānāthabandhubhṛtyapoṣaṇādhyāya. Here the recessity of appointing excellent physicians and free distribution of medicines is emphasized. Someśvara might have realized that people must necessarily love a king who takes care of them when they are in distress.
 
@@ -222,10 +156,7 @@ Sanderson p. 83.
 
 **( अर्चनाविधिप्रकरण śl.3 )**  
 
-
 Among them the Potaki is the chief. The śloka runs thus -
-
-
 
 **यतोऽखिलैः शाकुनशास्त्रविज्ञैः**
 
@@ -243,25 +174,11 @@ Among them the Potaki is the chief. The śloka runs thus -
 
  We take this opportunity of recording our cordial thanks and deep gratitude to HIS EXCELLENCY SIR MANUBHAI N. MEHTA Kt, C.S.I., M.A., L.L.B., Dewan Saheb of Baroda, for the keen interest he takes in the Series, and for the kind help rendered to us by obtaining a loan of the three Bikaner Durbar MSS on his personal responsibility. Our thanks are also due to the Bikaner Durbar for their courtesy in lending us these MSS; to the Bhandarkar Oriental Research Institute, Poona, for giving the loan of their MS; and to Pandit LB. Gandhi of our Library for assistance rendered by him in many directions, such as collating MSS, reading proofs, etc.
 
-
-
-
-
 $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{array} \\right\\}$                       
-                 
 
 **G. K. SHRIGONDEKAR.**
 
-
-
-
-
-
-
-
-
 **अनुक्रमणिका.**  
-
 
 |                                        |
 |:--------------------------------------:|
@@ -286,10 +203,6 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 |         तीर्थस्नानाध्यायः (१८)         |
 | दीनानाथार्तबन्धुभृत्यपोषणाध्यायः (१९) |
 |        शरणागतरक्षाध्यायः ( २० )        |
-
-
-
-
 
 |                                  |
 |:--------------------------------:|
@@ -382,15 +295,9 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 | दण्डभेदाः                   |
 | व्यवहारपदानि                 |
 
-
-
-
-
 ![](../books_images/1680674136.jpg)
 
 **श्रीसोमेश्वरभूपतिविरचितो**
-
-
 
 **मानसोल्लासः।**
 
@@ -1638,8 +1545,6 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 [^20]: "२ B गोतु"
 
-
-
 पितृपक्षसमुद्भूता मातृपक्षसमुद्भवाः ।
 
 आत्मसम्बन्धिनो ये च बान्धवास्ते प्रकीर्तिताः ॥ ३०१ ॥
@@ -1680,17 +1585,11 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 पुण्यौघानामपि च महतां वृद्धये वृ(बु)द्धये च ॥ ३०८ ॥
 
-
-
 इति श्रीमहाराजाधिराजसत्याश्रयकुलतिलक-चालुक्याभरण-श्रीमद्भूलोकमल्ल-
 
 श्रीसोमेश्वरदेवविरचितेऽभिलषितार्थ-चिन्तामणौ मानसोल्लासे
 
 राज्यप्राप्तेर्हेतूपायकथने प्रथमं प्रकरणम् ।
-
-
-
-
 
 ** द्वितीयं प्रकरणम् ।**
 
@@ -7220,11 +7119,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 विंशतिः सोमभूपालः कृतवान् नीतिकोविदः । १३०० ॥
 
-
-
 इति दण्डाध्यायः ॥ २० ॥
-
-
 
 **इति महाराजाधिराज-सत्याश्रयकुलतिलक-चालुक्याभरण-श्रीमद्भूलोकमल्ल-**
 
@@ -7232,116 +7127,7 @@ $\\left. \\begin{array}{r} {BARODA\~\~} \\\\ {September\~19,\~1925.} \\\\ \\end{
 
 **राज्यस्थिरीकरणोपायकथने द्वितीयं प्रकरणम् ॥**
 
-
-
-
-
 **![](../books_images/1680688134.jpg)**
 
-
-
-
-
-
-
-
-
-
 \]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

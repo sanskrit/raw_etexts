@@ -12,8 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4MTY5MDQ4ODc
 
 \[
 
-
-
 ॥ वृत्तमालास्तुतिः ॥  
 वृत्तं सममर्धसमं विषमं चेत्यामनन्ति वागीशः ।  
 त्रिविधं परार्थविधये समासतो व्यासतोऽनन्तम् ॥ १ ॥
@@ -502,7 +500,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDQ4MTY5MDQ4ODc
 ॥ आर्यमञ्जुघोषस्य दुष्करप्रभेदा वृत्तमालास्तुतिः समाप्त ॥  
 ॥ कृतिरियं महापण्डितस्थविरज्ञानश्रीमित्रस्य ॥  
 \\Z  
-
-
 
 \]

@@ -13,20 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2ODg5MzA5MjU
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **षट्पञ्चाशिका**
 
 **श्रीवराहमिहिरात्मजपृथुयशसा विरचिता**
@@ -59,7 +45,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2ODg5MzA5MjU
 
 इति श्रीवराहमिहिरात्मजपृथुयशोविरचितायां षट्पञ्चाशिकायां  
 होराध्यायः प्रथमः  
-
 
 **अध्याय २  
 गमागमाध्यायः**
@@ -117,7 +102,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2ODg5MzA5MjU
 
 इति वराहमिहिरात्मजपृथुयशोविरचितायां षट्पञ्चाशिकायां  
 गमागमाध्यायो द्वितीयः  
-
 
 **अध्याय ३  
 जयपराजयोऽध्यायः**
@@ -245,14 +229,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDA2ODg5MzA5MjU
 इति वराहमिहिरात्मजपृथुयशोविरचितायां षट्पञ्चाशिकायां  
 मिश्रकाध्यायः सप्तमः  
 **षट्पञ्चाशिका समाप्ता**
-
-
-
-
-
-
-
-
-
 
 \]

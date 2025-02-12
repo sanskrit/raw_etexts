@@ -12,14 +12,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgzOTA1NTMz
 
 \[
 
-
-
-
-
-
-
-
-
 १  
 शिवं नत्वा रसेशं चामुण्डः कायस्थवंशभूः ।  
 करोति रससंकेतकलिकामिष्टसिद्धिदाम् ॥ १.१ ॥
@@ -180,9 +172,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgzOTA1NTMz
 पिबेद्वा गोजले सिद्धं मूलं कर्कोटजं शुभम् ॥ १.५० ॥  
 यत्रागारे रसाधीशः पूज्यते बहुभक्तितः ।  
 तदपत्यधनैः पूर्णमाधिव्याधिविवर्जितम् ॥ १.५१ ॥
-
-
-
 
 २
 
@@ -427,9 +416,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgzOTA1NTMz
 क्षाराम्लं द्विदलं वर्ज्यं कर्कोटिकारवेल्लकम् ।  
 वृन्ताकं च करीरं च तैलं चाभ्रकसेवने ॥ २.६५ ॥
 
-
-
-
 ३
 
 \<महारसःः शोधन\>  
@@ -485,9 +471,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgzOTA1NTMz
 \<सिद्धमूलीःः मेदिच्. प्रोपेर्तिएस्\>  
 आह्लादिनी बुद्धिरूपा योगे मन्त्रे च सिद्धिदा ।  
 सर्वरोगहरी कामजननी क्षुत्प्रबोधनी ॥ ३.१६ ॥
-
-
-
 
 ४  
 कियन्तोऽप्यथ वक्ष्यन्ते रसाः प्रत्ययकारकाः ।  
@@ -751,8 +734,6 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgzOTA1NTMz
 आकल्लकं विषं कृष्णं हेमद्रुफलभस्मकम् ।  
 उद्धूलनं स्वेदहरमेकद्वित्र्यष्टभागकैः ॥ ४.१२८ ॥
 
-
-
 ५  
 विषं व्योषं हरिद्राब्दं निम्बपत्रं विडङ्गकम् ।  
 गुटी छागाम्बुना बद्धा स्याज्जया योगवाहिका ॥ ५.१ ॥  
@@ -840,15 +821,5 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NDgzOTA1NTMz
 भ्वग्नितिथिमिते वर्षे चामुण्डो योगिनीपुरे ।  
 रससंकेतकलिकां कृतवानिष्टसिद्धिदाम् ॥ ५.४० ॥  
 \\Z
-
-
-
-
-
-
-
-
-
-
 
 \]

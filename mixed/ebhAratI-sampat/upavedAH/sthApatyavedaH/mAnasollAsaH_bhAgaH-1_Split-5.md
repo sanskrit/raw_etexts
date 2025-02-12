@@ -13,8 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDc5ODg5MzI1MzE
 
 \[
 
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 अध्याय ः २४ \]  
@@ -734,6 +732,5 @@ tet
 प्रथमो भागः समाप्तः ।
 
 ----------
-
 
 \]

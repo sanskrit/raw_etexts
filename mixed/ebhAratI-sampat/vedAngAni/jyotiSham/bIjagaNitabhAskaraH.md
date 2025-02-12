@@ -12,13 +12,9 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxNzkyNjAxODU
 
 \[
 
-
-
 बीजगणित भास्कर
 
-
 \[धनऋणषष्विधम्\]
-
 
 १अ । उत्पादकं यद्प्रवदन्ति बुद्धेसधिष्ठितं सत्पुरुषेण सांख्यास् ।
 
@@ -696,6 +692,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjIxNzkyNjAxODU
 १५०अ । बीजं मतिस्विविधवर्णसहायिनी हि मन्दावबोधविधये विबुधैस्निजऽद्यैस् ।
 
 १५०च् । विस्तारिता
-
 
 \]

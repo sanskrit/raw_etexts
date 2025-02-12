@@ -14,20 +14,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1NTk1MDIzMjY
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 **अथ धनुर्वेदः**
-
 
 ईश्वरोक्ताद्धनुर्वेदाद्व्यासस्यापि सुभाषितात्
 
@@ -983,19 +970,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDE1NTk1MDIzMjY
 **एतम् शिवधनुर्वेदस्य भगवतो व्यासस्य च**
 
 **---------------- -----------------**  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \]

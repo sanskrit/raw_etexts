@@ -15,11 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA
 
 \[
 
-
-
 [TABLE]
-
-
 
 ॥ श्रीः ॥  
 
@@ -133,11 +129,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA
 वैद्यनाथ इति कल्पितनाम्ना  
   नीलमेघभिषजा क्रियते स्म॥
 
-
-
 ![](../books_images/U-IMG-1699344822Screenshot2023-11-07134242.jpg)
-
-
 
 प्रस्तावना  
 
@@ -216,8 +208,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA
 कोट्टयम्  
 
 १ - २ - १९४९
-
-
 
 **अथ युक्तयः**  
 
@@ -414,7 +404,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA
 
   प्रतिज्ञातस्य चार्थस्य दूषकं वचनं पुनः  
   पूर्वपक्ष इति प्रोक्तः—                     
-                   
 
 इति पूर्वपक्षः॥
 
@@ -531,8 +520,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
-
 ^(१)अथ व्याख्याभेदा उच्यन्ते।  
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -637,7 +624,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA
 आप्या जिह्वारसक्लेदा इत्यादौ तु द्वयोर्भवे॥**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-  
 
 **१. आश्रया एकविंशतिरित्युक्तम्। तद्यथा**—१. आदिलोपः। २. मध्यलोपः। ३ अन्तलोपः। ४. उभयलोपः। ५. आदिमध्यान्तलोपः। ६. उपधालोपः। ७ वर्णोपजानं। ८. ऋषिक्लिष्टं। ९. तन्त्रशैली।१०. तन्त्रसंज्ञा। ११. प्रकृताख्यं। १२. समानतन्त्रप्रत्ययः। १३. परतन्त्रप्रत्ययः।१४. हेतुहैतुकः। १५, कार्यकारणधर्मः। १६. आद्यन्तविपर्ययः।१७. शब्दान्यत्वं। १८. प्रत्ययाख्यधर्मः।१९. उपनयः। २०. संभवः। २१. विभवः॥  
 २. उभयलोपस्तु त्रिधा भिद्यते। यथा—आदिमध्यलोप आद्यन्तलोपोमध्यान्तलोप इति। अत्र तु मध्यान्तलोपस्यैवोदाहरणं प्रदर्शितम्॥
@@ -715,7 +701,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-ताच्छील्यादीनि च पुनः कथ्यन्ते [दश पंच च](http://॑ "ताच्छील्यादीनि सप्तदशैव। अत्र तु “दश पंच च")।  
+ताच्छील्यादीनि च पुनः कथ्यन्ते [दश पंच च]("ताच्छील्यादीनि सप्तदशैव। अत्र तु “दश पंच च")।  
 धर्मसादृश्ययुक्तत्वं ताच्छील्यं समुदाहृतम्॥
 
 यथासुप्तेस्तु सादृश्यात् सुतिरित्यभिधीयते।  
@@ -858,8 +844,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA
 
 ![](../books_images/U-IMG-1700063945image_6-removebg-preview.png)
 
-
-
 ^(१)लेशकल्पना।  
 \_\_\_\_\_\_
 
@@ -896,7 +880,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkyMTcxODUzMjA
 रिष्टं न विद्यते पाद्गुणाभावादपायिता॥
 
 ![](../books_images/U-IMG-1700063803image_6-removebg-preview.png)
-
 
 \]
 

@@ -12,12 +12,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY
 
 \[
 
-
-
-
-
-
-
 ** नीतिप्रकाशिका**
 
 **प्रथमोऽध्यायः।**
@@ -252,11 +246,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY
 
 **इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां संगतिप्रदर्शनपूर्वकराजधर्मोपदेशो नाम प्रथमोऽध्यायः।**
 
-
-
 **द्वितीयोऽध्यायः।**
-
-
 
 चतुष्पाच्च धनुर्वेदो रक्तवर्णश्चतुर्मुखः
 
@@ -516,8 +506,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY
 
 इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां धनुर्वेदविवेककथनं नाम द्वितीयोऽध्यायः।
 
-
-
 **तृतीयोऽध्यायः॥**
 
 लोकनाथ नमस्तेऽस्तु सर्वाश्चर्याश्रय प्रभो
@@ -681,8 +669,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY
 ये पठेयुरिमं जय्यं जयं युद्धे लभंति ते ४०
 
 इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां खड्गोत्पत्तिकथनं नाम तृतीयोऽध्यायः।
-
-
 
 चतुर्थोऽध्यायः॥
 
@@ -895,8 +881,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY
 मुक्ता ह्येते समाख्याता नृपामुक्तानथो शृणु ५२
 
 इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां मुक्तायुधनिरूपणं नाम चतुर्थोऽध्यायः।
-
-
 
 **पञ्चमोऽध्यायः॥**
 
@@ -1137,8 +1121,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY
 तुभ्यं शुश्रूषवे धर्मान् किं भूयः कथयाम्यहं ५९
 
 इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायाम् अमुक्तायुधनिरूपणं नाम पञ्चमोऽध्यायः।
-
-
 
 **षष्ठोऽध्यायः।**
 
@@ -1588,8 +1570,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY
 
 इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां सेनानयकथनं नाम षष्ठोऽध्यायः॥
 
-
-
 **सप्तमोऽध्यायः॥**
 
 अथ सैन्यं प्रवक्ष्यामि सेनानयविवृद्धये
@@ -1851,8 +1831,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY
 इष्टं भवेत् क्रतुशतैस्तेन धर्मानुवर्तिना ६४
 
 इति श्रीमन्नीतिशास्त्रे नीतिप्रकाशिकायां सैन्ययोगकथनं नाम सप्तमोऽध्यायः॥
-
-
 
 **अष्टमोऽध्यायः॥**
 
@@ -2262,14 +2240,5 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODgwMzUzNDIzNjY
 
 **-------------------- --------------- ------------------
 --------------**
-
-
-
-
-
-
-
-
-
 
 \]

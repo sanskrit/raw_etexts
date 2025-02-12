@@ -13,18 +13,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjI2NjQ3MTU2OTQ
 
 \[
 
-
-
-
-
-
-
-
-
-
-
-
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 विंशतिः 8 \]  
@@ -709,14 +697,5 @@ AANAA
 AF गो९ A लाल ।
 
 ----------
-
-
-
-
-
-
-
-
-
 
 \]
