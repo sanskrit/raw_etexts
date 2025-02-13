@@ -1,5 +1,5 @@
 +++
-title = "हितोपदेश:"
+title = "हितोपदेशः"
 author = "भट्ट नारायण"
 publisher = "हरिनारायण गोखले"
 "publish year" = "1907"

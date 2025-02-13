@@ -44,37 +44,6 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDYyODM3OTM2OTE
 
 **———————————————————**
 
-[TABLE]
-
-**HITOPADEŚA**
-
-**Publishers:  
-CHAUKHAMBA SANSKRIT PRATISHTHAN**  
-38 U. A., Bungalow Road, Jawahar Nagar  
-Post Box No. 2113  
-Delhi 110007
-
-**Also can be had from :**  
-CHOWKHAMBA VIDYABHAWAN  
-Chowk (Behind The Bank of Baroda Building)  
-Post Box No. 1069  
-Varanasi 221001
-
-CHAUKHAMBA SURBHARATI PRAKASHAN  
-K. 37/117 Gopal Mandir Lane  
-Post Box No. 1129  
-Varanasi 221001
-
-CHAUKHAMBA PUBLISHING HOUSE  
-4697/2, Ground Floor, Street No. 21-A  
-Ansari Road, Darya Ganj  
-New Delhi 110002
-
-Printed by:  
-A. K. Lithographers, Delhi
-
-**—————————**
-
 **भूमिका**
 
  विदित हो कि नीति एक ऐसा शास्त्र है कि जिसको मनुष्यमात्र व्यवहार में लाता है, क्योंकि बिना इसके संसार में सुखपूर्वक निर्वाह नहीं हो सकता, और यदि नीति का अवलम्बन न किया जाय तो मनुष्य को सांसारिक अनेक घटनाओं के अनुकूल कृतकार्य होने में बड़ी कठिनता पड़े, और जो लोग नीति के जानने वाले हैं वे बड़े बड़े दुस्तर और कठिन कार्यों को सहज में शीघ्र कर लेते हैं; परन्तु नीतिहीन मनुष्य छोटे छोटे—से कार्यों में भी मुग्ध हो कर हानिउठाते हैं। नीति दो प्रकारकी है—एक धर्म, दूसरी राजनीति; और इन दोनों नीतियों के लिये भारतवर्ष प्राचीन समय से सुप्रसिद्ध है। सर्वसाधारण को राजनीति से प्रतिदिन काम पड़ता है। अत एव विदेशी विद्वानों ने भारत में आ कर नीतिविद्या सीख ली और अपने देशों में जा कर उसका अनुकरण किया और अपनी अपनी मातृभाषा में उसका अनुवाद कर के देश को लाभ पहुंचाया॥
