@@ -107,7 +107,7 @@ M. RANGACHARYA.
 
 Madras.
 
-ग णि त सा र स ङ् ग्र ह:-
+ग णि त सा र स ङ् ग्र हः-
 
 CONTENTS.
 

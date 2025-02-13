@@ -5968,7 +5968,7 @@ We will now proceed to the consideration of consonantal changes; and first of th
 
 to them in virtue of the general or special laws which regulate the development of human speech. Thus, though they did not receive more words with a softened **क्** from the Prakrits, they have now come to possess a good many. Thus:-
 
-\[Table 49: Medial कsoftened to ग्\]
+\[Table 49: Medial कऽoftened to ग्\]
 
  M. **सगला**, P. **सगरा, सगला,** or **सगल**, H. **सगल** or **सगला**, G. **सगलो**all for whole, Skr. **सकल** or **सकलक**.
 
@@ -15157,7 +15157,7 @@ We will now proceed to the consideration of consonantal changes; and first of th
 
 to them in virtue of the general or special laws which regulate the development of human speech. Thus, though they did not receive more words with a softened **क्** from the Prakrits, they have now come to possess a good many. Thus:-
 
-\[Table 49: Medial कsoftened to ग्\]
+\[Table 49: Medial कऽoftened to ग्\]
 
  M. **सगला**, P. **सगरा, सगला,** or **सगल**, H. **सगल** or **सगला**, G. **सगलो**all for whole, Skr. **सकल** or **सकलक**.
 

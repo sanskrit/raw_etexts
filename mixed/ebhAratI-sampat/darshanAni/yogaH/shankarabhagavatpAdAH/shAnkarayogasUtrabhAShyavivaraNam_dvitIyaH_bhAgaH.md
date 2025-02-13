@@ -7743,7 +7743,7 @@ Text with English trans. and critical notes alongwith the text and
 English trans. of the Patanjala Yogasutras and Vyasabhasya  
 *T.S. Rukmani*  
 
-**Munshiram Manoharlal                       
+**Munshiram Manoharla।                       
 Publishers Pvt. Ltd.  
 New Delhi**  
 www.mrmlbooks.com

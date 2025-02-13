@@ -229,7 +229,7 @@ vowels    * a *     as in b*u*t
                      *h *    as in *h*and  
              
 
-         nasal      
+         nasa।      
 
 ṅ
 

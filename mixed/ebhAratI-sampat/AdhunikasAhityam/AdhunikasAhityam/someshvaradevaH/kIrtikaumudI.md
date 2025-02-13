@@ -3441,7 +3441,7 @@ CANTO IX.
 *strength* was equal. By going up higher, a man stands higher than his equals, but his strength does not increase. Yet this was the case when the minister climbed the Raivataka mountain.  
 **St. 66. विततामपूज्यम्** unless the reading suggested in the footnote is adopted, I cannot translate this verse.  
 **St. 69. असक्तम्** would seem to require some modifying word, such as **अन्यत्र** or **विषयेषु.**  
-**St. 71. जलाञ्चलिर्दत्त:** funeral offering of water was made. Comp.**अन्यथा सिञ्चतं मे तिलोदकम्** Śákuntala Act III.  
+**St. 71. जलाञ्चलिर्दत्तः** funeral offering of water was made. Comp.**अन्यथा सिञ्चतं मे तिलोदकम्** Śákuntala Act III.  
 **St. 72.** An allusion is here made to the story that Râvaṇa cut off his own heads and worshipped Śiva with them.**कन्धराभिश्चिराय विस्रम्**
 would have been much better. It would have clearly explained why the body of Śiva was**विस्र**stinking. As it is, it qualifies **अङ्गारितमीनकेतुः**and may be translated as having the hairy head of the king of Laṅkâ.  
 **St. 78.** The third line is imperfect in all the three manuscripts. Some such word as the one proposed in the text seems to have been omitted in copying.
@@ -4205,7 +4205,7 @@ ERRATA
 | 1\. 16.  |  "  सक्कृप्तं.                                      |  "  स क्कृप्तं.     |
 | 1\. 21.  |  "  घन                                              |  "  धन.             |
 | 1. 9.   | After the first सान्द्रे supply in brackets चान्द्रे. |                        |
-| 1\. 13.  | After the firstनखान्तsupply in bracketsनखान्तः    |                       |
+| 1\. 13.  | After the firstनखान्तऽupply in bracketsनखान्तः    |                       |
 | 1. 6.   | For लेखाख^(०)                                         |  " लेखा ख.          |
 | 1. 1.   |  " विलंघ्य                                         |  " विलङ्घ्य.        |
 | 1\. 12.  |  " तदामदेन                                         |  " तदा मदेन.        |

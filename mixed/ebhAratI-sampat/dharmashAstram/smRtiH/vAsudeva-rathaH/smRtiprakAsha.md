@@ -13,7 +13,7 @@ printer = "उपेन्द्रनाथ-चक्रवर्ती"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODczODUyNTU5OTcyNDE2&pageno=MjI0MjQyNjk5NTk="
 
 +++
-[[स्मृतिप्रकाश:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODczODUyNTU5OTcyNDE2&pageno=MjI0MjQyNjk5NTk=)]]
+[[स्मृतिप्रकाशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=ODczODUyNTU5OTcyNDE2&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
 

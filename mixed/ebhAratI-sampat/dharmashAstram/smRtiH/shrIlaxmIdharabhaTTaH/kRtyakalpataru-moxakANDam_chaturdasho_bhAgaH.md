@@ -290,7 +290,7 @@ digest, which consists of 22 sections, on the *Kṛtya-kalpataru*. He has absorb
 
 [^38]: "खण्डानि चास्मिन् व्रत-दान-तीर्थ- मोक्षभिधानि क्रमशो भवन्ति। यत्पञ्चमं तत्परिशेषखण्डमखण्डितो यत्र विभाति धर्मः॥ (II,i,v.16
 
-[^39]: "व्रतादिमेदांश्च क्रमाद् व्रतदानतीर्थमोक्षपरिशेष पूर्वेषु पञ्चसु खण्डेषु, मोक्षवर्मानि मोक्षोपायाः: is Hemadri's gloss on the above."
+[^39]: "व्रतादिमेदांश्च क्रमाद् व्रतदानतीर्थमोक्षपरिशेष पूर्वेषु पञ्चसु खण्डेषु, मोक्षवर्मानि मोक्षोपायाःः is Hemadri's gloss on the above."
 
 *Mokṣa*, viewed from the standpoint of Dharmaśāstra, of which the earlier is a pioneer. An examination of the list of authorities he cites in the *Mokṣakāṇḍa* shows that Lakṣmīdhara had no predecessor, and establishes his claim to the title.
 

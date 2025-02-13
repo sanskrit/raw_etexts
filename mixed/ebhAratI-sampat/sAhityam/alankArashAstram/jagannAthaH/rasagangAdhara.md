@@ -8,7 +8,7 @@ sub-domain = "अलङ्कारशास्त्रम्"
 source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4NzMwODUy"
 
 +++
-[[रसगङ्गाधर:	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4NzMwODUy)]]
+[[रसगङ्गाधरः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=NjMzMDM2OTk4NzMwODUy)]]
 
 \[
 

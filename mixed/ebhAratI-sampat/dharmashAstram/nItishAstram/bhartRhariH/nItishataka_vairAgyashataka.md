@@ -140,7 +140,7 @@ VEDANTIC OR BUDDHISTIC
 
  The *S'atakas* are said by some to be Buddhistic.There might be some faint traces of Buddhist doctrines, or Buddhist terminoslogy[^13]but that hardly goes to prove conclusively that the S'atakas are the production of Buddhistic intellect. On the contrary the extreme paucity of such passages as bear in whatsoever degree, indications of Buddhism, and the large prependerence of passages referring to the Yoga and the Vedánta philosophies ought to be considered as sufficient evidence to maintain that the S'atakas are not Buddhisticbut Vedantic[^14],On this point Mr. Telang declares
 
-[^13]: "the suspicion that our poet was a Buddhist rests on the authority of a Chinese traveller, but he refers to the author of the Vákyapadiya and not to our poet. See Supra. The Buddhistic traces are very faint and can hardly be detected. See हिंसाशून्यSl. 10, V. S'., स्वानुभूति N. S. 1, &c."
+[^13]: "the suspicion that our poet was a Buddhist rests on the authority of a Chinese traveller, but he refers to the author of the Vákyapadiya and not to our poet. See Supra. The Buddhistic traces are very faint and can hardly be detected. See हिंसाशून्यऽl. 10, V. S'., स्वानुभूति N. S. 1, &c."
 
 [^14]: " There is frequent reference to Vedantic doctrines and to their"
 
@@ -4760,7 +4760,7 @@ is here called collyrium because it sharpens, restores, or preserves the sight o
 
   **Sl. 87. मान** haughtiness. **विविक्तम् —**lonely, solitary p. p. from **विज** with **वि. यमिनाम्—**of those who restrain ( their minds).
 
-**  Sl. 88. जीर्णाः—**have died out. *Cf*. **जीर्णमङ्गे सुभाषितम्Sl. 2.**
+**  Sl. 88. जीर्णाः—**have died out. *Cf*. **जीर्णमङ्गे सुभाषितम्ऽl. 2.**
 
 **बन्ध्यफलतां याताः–** have become sterile, have borne no fruit. **गुणज्ञैविना—**in the absence of appreciators of merit. **कृतान्तः—कृतं अन्तय नीति, कृतोन्तोयेनेति वा, कृतान्तः,** he who destroys things that are made. **अक्षमी.—**unforgiving, unrelenting; **क्षमा न विद्यते भस्व इति। ह्याज्ञातम्—**This is the reading in some copies, in which case separate **हि + आ + ज्ञातम्, था** being taken **स्मरणे** asMr. Telang suggests.
 

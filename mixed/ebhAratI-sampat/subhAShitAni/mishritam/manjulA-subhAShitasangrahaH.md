@@ -1770,7 +1770,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 असुर्या नाम ते लोका,
 
-अन्धेन तमसाऽs
+अन्धेन तमसाऽऽ
 
 वृताः ।
 
@@ -4168,7 +4168,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  (410)
 
-एष सर्वेषु भूतेषु गूढोऽs
+एष सर्वेषु भूतेषु गूढोऽऽ
 
 त्मा न प्रकाशते ।
 
@@ -4202,7 +4202,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  (414)
 
-ऐश्वर्यशालिनमहो महताऽs
+ऐश्वर्यशालिनमहो महताऽऽ
 
 श्रयेण,
 
@@ -4444,7 +4444,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 बुद्धिः कर्मानुसारिणी ।
 
-तथापि सुधियाऽs
+तथापि सुधियाऽऽ
 
 चार्याः सुविचार्यैव कुर्वते ॥
 
@@ -4730,7 +4730,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 कालो ह सर्वस्येश्वरो,
 
-यः पिताऽs
+यः पिताऽऽ
 
 सीत् प्रजापतेः ॥
 
@@ -6912,7 +6912,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 मनसा प्राप्यते त्वात्मा,
 
-ह्यात्माऽs
+ह्यात्माऽऽ
 
 पत्त्या निवर्त्तते ॥
 
@@ -10944,7 +10944,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 असुर्या नाम ते लोका,
 
-अन्धेन तमसाऽs
+अन्धेन तमसाऽऽ
 
 वृताः ।
 
@@ -13342,7 +13342,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  (410)
 
-एष सर्वेषु भूतेषु गूढोऽs
+एष सर्वेषु भूतेषु गूढोऽऽ
 
 त्मा न प्रकाशते ।
 
@@ -13376,7 +13376,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  (414)
 
-ऐश्वर्यशालिनमहो महताऽs
+ऐश्वर्यशालिनमहो महताऽऽ
 
 श्रयेण,
 
@@ -13618,7 +13618,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 बुद्धिः कर्मानुसारिणी ।
 
-तथापि सुधियाऽs
+तथापि सुधियाऽऽ
 
 चार्याः सुविचार्यैव कुर्वते ॥
 
@@ -13904,7 +13904,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 कालो ह सर्वस्येश्वरो,
 
-यः पिताऽs
+यः पिताऽऽ
 
 सीत् प्रजापतेः ॥
 
@@ -16086,7 +16086,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 मनसा प्राप्यते त्वात्मा,
 
-ह्यात्माऽs
+ह्यात्माऽऽ
 
 पत्त्या निवर्त्तते ॥
 
@@ -18866,7 +18866,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 निर्विण्णे निर्विण्णा मुदिते मुदिता,
 
- समाकुलाऽS
+ समाकुलाऽऽ
 
 कुलिते ।
 
@@ -21252,7 +21252,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  (1136)
 
-यथाऽs
+यथाऽऽ
 
 गारं दृढस्थूणं जीर्णं भूत्वोपसीदति ।
 
@@ -21386,7 +21386,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते ।
 
-सर्वत्रावस्थितो देहे तथाऽs
+सर्वत्रावस्थितो देहे तथाऽऽ
 
 त्मा नोपलिप्यते ॥
 
@@ -22286,7 +22286,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  (1239)
 
-राजा राष्ट्रं यथाऽs
+राजा राष्ट्रं यथाऽऽ
 
 पत्सु द्रव्यौधैरपि रक्षति ।
 
@@ -22566,7 +22566,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 लौकिकं वैदिकं वाऽ
 
-पि तथाऽs
+पि तथाऽऽ
 
 ध्यात्मिकमेव च ।
 
@@ -23614,7 +23614,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
  (1355)
 
-व्रतेन दीक्षामप्नोति दीक्षयाऽs
+व्रतेन दीक्षामप्नोति दीक्षयाऽऽ
 
 प्नोति दक्षिणाम् ।
 
@@ -24944,11 +24944,11 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njg2MTgwNTQ1MjM
 
 सर्वासामेव शुद्धीनां मनःशुद्धिः प्रशस्यते ।
 
-अन्यथाऽs
+अन्यथाऽऽ
 
 लिङग्यतेऽ
 
-पत्यमन्यथाऽs
+पत्यमन्यथाऽऽ
 
 लिङग्यते पतिः ॥
 

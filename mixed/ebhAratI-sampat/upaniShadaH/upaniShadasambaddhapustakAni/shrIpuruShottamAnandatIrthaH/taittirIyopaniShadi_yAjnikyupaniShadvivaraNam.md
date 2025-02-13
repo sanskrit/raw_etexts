@@ -2523,7 +2523,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Mjk1OTk4MjgwMDQ
 
 ४०।६
 
-इ।व|: य इदं त्रि ॥।
+इ।व।: य इदं त्रि ॥।
 
 मेधशब्दितयज्ञोऽस्यास्तीति मेधवदुच्यते ।
 

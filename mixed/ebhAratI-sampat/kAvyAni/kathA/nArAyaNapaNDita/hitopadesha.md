@@ -12,7 +12,7 @@ printer = "श्रीराम प्रेस् मद्रास्"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc0MjQ0NTY3OTM5NjE1&pageno=MjI0MjQyNjk5NTk="
 
 +++
-[[हितोपदेश:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc0MjQ0NTY3OTM5NjE1&pageno=MjI0MjQyNjk5NTk=)]]
+[[हितोपदेशः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc0MjQ0NTY3OTM5NjE1&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
 

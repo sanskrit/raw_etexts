@@ -83,7 +83,7 @@ masses)**श्लिष्टकोशावस्था** *f*.
 **अवहर्यतिपीत**  
 
 **palmetto scrub** = **saw palmetto** *Botany*(Serenon serrulata) क्रकचताल *m*.  
-**palm green** (acolour. yellow-green पीतहरि in hue. of low अवsaturation and low
+**palm green** (acolour. yellow-green पीतहरि in hue. of low अवऽaturation and low
 
 निbrilliance)
 
@@ -270,7 +270,7 @@ Panorpidae** *Zoology* **वृश्चिकपतंग-वंश** *m.*
 **pan still भाजन-आसोत्र  
 pansy 1.**(a flowering plant, with pleasant flowers)**हृत्सुख** *m.***heartsease मनस्सुख 2.**(acolour
 
-bluish blue-red रक्तातिनील in hue, of very high अधिsaturation and low नि brilliance) **न्यधिरक्तातिनील**
+bluish blue-red रक्तातिनील in hue, of very high अधिऽaturation and low नि brilliance) **न्यधिरक्तातिनील**
 
 **pansy purple** (a colour, bluish-red रक्तानील in hue, of high उद् saturation and low नि brilliance)
 
@@ -2756,7 +2756,7 @@ brilliance)
 
 pastel grey
 
-(a colour, reddish-yellow पीतारक्त in hue, of low अवsaturation and high प्र brilliance)
+(a colour, reddish-yellow पीतारक्त in hue, of low अवऽaturation and high प्र brilliance)
 
 प्रावपीतारक्त
 
@@ -3187,7 +3187,7 @@ atmosphere)
 
 patina green
 
-(a colour, yellow-greenपीतहरि in hue, of low अवsaturationand high प्र brilliance)
+(a colour, yellow-greenपीतहरि in hue, of low अवऽaturationand high प्र brilliance)
 
 प्रावपीतहरि
 
@@ -3297,7 +3297,7 @@ m\.
 
 (रोच-
 
-for रोचातु vanadium, श- for शुल्बेयsulphide, -इज for खनिज mineral)
+for रोचातु vanadium, श- for शुल्बेयऽulphide, -इज for खनिज mineral)
 
 patronize
 
@@ -3737,7 +3737,7 @@ peace officers शान्ति-अधिकारी
 peace-time शान्ति-समय, शान्ति-काल  
 peace-time** *adj.***शान्ति-कालीन**  
 
-**peach 1.आरुक** *n.***, आड़ू,2.**(a colour, reddish red-yellow पीतातिरक्तin hue, of low अवsaturation and
+**peach 1.आरुक** *n.***, आड़ू,2.**(a colour, reddish red-yellow पीतातिरक्तin hue, of low अवऽaturation and
 
 very high सु brilliance) **स्ववपीतातिरक्त**
 
@@ -3938,7 +3938,7 @@ pecuniary dealing आर्थिक व्यवहार**
 **pecuniary injuryआर्थिक क्षति**  
 **pecuniary interest आर्थिक हित, आर्थिक स्वार्थ**  
 **pecuniary jurisdiction** **आर्थिक क्षेत्राधिकार** (Const.)  
-**pecuniary legacy आर्थिक रिक्थspecific legacy विशिष्ट रिक्थ**  
+**pecuniary legacy आर्थिक रिक्थऽpecific legacy विशिष्ट रिक्थ**  
 **pecuniary liability आर्थिक देयता**  
 **pecuniary loss आर्थिक हानि**  
 **pecuniary obligation आर्थिक दायित्व**  
@@ -4862,7 +4862,7 @@ pentavalent nitrogen morphine पञ्चसंयुज भूयाति प
 pentene** *Chem.***पञ्चेन्य** *n.*  
 **Penthoceryx** *Aves* **राजपट्टिक-प्रजाति** (राजपट्टिक ancient word)  
 **pentine** *Chem.***पञ्ची** *f.*  
-**pentlandite अयोरूपशिज** *m.* (अंयस् iron, रूप- for रूपक nickel, श- for शुल्बेयsulphide, -इज for
+**pentlandite अयोरूपशिज** *m.* (अंयस् iron, रूप- for रूपक nickel, श- for शुल्बेयऽulphide, -इज for
 
 खनिज mineral)
 
@@ -6601,7 +6601,7 @@ Persian long-tailed field-mouse** *Mamm.*
 **पारसीक दीर्घ-पुच्छ क्षेत्र-मूषिका**  
 
 **Persian opium पारस अहिफेन  
-Persian orange** (a colour, red-yellow रक्तपीत in hue, of high उद्saturationand high प्रbrilliance)
+Persian orange** (a colour, red-yellow रक्तपीत in hue, of high उद्ऽaturationand high प्रbrilliance)
 
 **प्रोद्रक्तपीत**
 
@@ -7168,7 +7168,7 @@ Med.
 
 pervenche
 
-(acolour, reddish blue नीलारक्त in hue, of low अवsaturationand low नि brilliance)
+(acolour, reddish blue नीलारक्त in hue, of low अवऽaturationand low नि brilliance)
 
 न्यवनीलारक्त
 
@@ -8909,7 +8909,7 @@ periphloic पर्यधोवाहिक**
 उत् saturation and low नि brilliance) **न्युन्नीलाति-रक्त**
 
 **phloxine** *Col. Ind.***ज्वाली** *f*.  
-**phlox pink** (a colour,blue-red नीलरक्त in hue, of low अवsaturation and high प्र
+**phlox pink** (a colour,blue-red नीलरक्त in hue, of low अवऽaturation and high प्र
 
 brilliance) **प्रावनीलरक्त**
 
@@ -11177,7 +11177,7 @@ piedmont glacier** (at the base of mountains) **गिरिपाद- हिम
 
 **piedmontite चूस्फलोसिज** *m.* (चू-for चूर्णातु calcium, स्फ for स्फटयातु aluminium, लो- for
 
-लोहक manganese, स- for सैकतीयsilicate, -इज for खनिज mineral)
+लोहक manganese, स- for सैकतीयऽilicate, -इज for खनिज mineral)
 
 **pied woodpecker कर्बुर काष्ठकूट  
 pier 1.**(a pillar) **प्रस्तम्भ** *m.***2.**(a landing place) **अवतरणी** *f.* (Hindi उतरना is from Skt. अवतरण)  
@@ -11310,7 +11310,7 @@ pilferer लघुचोर** *m.*
 **pilfering लघुचौर्य***n.***, छोटी मोटी चोरी करना  
 pilgrim तीर्थयात्री** (-इन्)*m.*  
 **pilgrimage तीर्थयात्रा** *f.*(Const.)  
-**pilgrim brown** (a colour, red-yellow रक्तपीत in hue, of low अवsaturation and low नि brilliance)
+**pilgrim brown** (a colour, red-yellow रक्तपीत in hue, of low अवऽaturation and low नि brilliance)
 
 **न्यवरक्तपीत**
 
@@ -11790,7 +11790,7 @@ f.
 
 pistachio = pistachio green
 
-(a colours, yellow-green पीतहरि in hue, of low अवsaturation and
+(a colours, yellow-green पीतहरि in hue, of low अवऽaturation and
 
 high प्र brilliance)
 
@@ -12043,7 +12043,7 @@ spruce प्रसरल, 2.
 
 ( a colour, yellowish-green हर्यापीत in hue, of
 
-low अवsaturation andlow नि brilliance)**न्यव**
+low अवऽaturation andlow नि brilliance)**न्यव**
 
 **हर्यापीत**
 
@@ -14591,7 +14591,7 @@ Pan. चित्रक, Kan. चित्रमूल, Deccan *chitarmul, Munda
 brilliance)**प्रावनीलारक्त**
 
 **plumbago crucible लिखिज-मूषा  
-plumbago grey** (acolour, blue-red नीलरक्त in hue, of low अवsaturation)**अवनीलरक्त  
+plumbago grey** (acolour, blue-red नीलरक्त in hue, of low अवऽaturation)**अवनीलरक्त  
 plumbate** *Chem.* **सीसीय** *n.*  
 **plumb-bob सीस-मुण्ड, सीसगोला  
 plumbean** *adj.* **सीस-सदृश  
@@ -16460,7 +16460,7 @@ polyargyrite पुरुरजतिज** *m.* (पुरु- poly-, रजत 
 **Polyaspidae** *Zool.* **पुरुकवचाः***m.pl.*  
 **polyatomic** *adj.* **पुरुपरमाण्विक  
 polyaxial joint =multiaxial joint** *Anat.* **बह्वक्ष सन्धि  
-polybasite रजांशिज** *m.* (रज-for रजत silver, अं-for अञ्जन antimony, श- for शुल्बेयsulphide, -इज
+polybasite रजांशिज** *m.* (रज-for रजत silver, अं-for अञ्जन antimony, श- for शुल्बेयऽulphide, -इज
 
 for खनिज mineral)
 
@@ -17424,7 +17424,7 @@ Med.
 मुत्सा-पूरण  
 porcelain green
 
-(a colour, bluishgreen हर्यानील in hue, of low अवsaturation)
+(a colour, bluishgreen हर्यानील in hue, of low अवऽaturation)
 
 अवहर्यानील  
 porcelain plug मृत्सा-निग  
@@ -21402,7 +21402,7 @@ prejudicial to के प्रतिकूल
 prejudicial to public interests लोकहित के प्रतिकूल  
 prelate
 
-(acolour, reddish-blue नीलारक्त in hue, of high उत्saturation and
+(acolour, reddish-blue नीलारक्त in hue, of high उत्ऽaturation and
 
 low नि brilliance)
 
@@ -28982,7 +28982,7 @@ pyran** *Chem.* **अग्निन्य** *n.*
 **Pyranose अग्निन्यधु** *n.*  
 **pyranyl** *Chem.* **अग्निन्यल** *n.*  
 
-**pyrargyrite राञ्जशिज** *m.* (र- for रजत silver, अञ्ज-for अञ्जन antimony श- for शुल्बेयsulphide -इज
+**pyrargyrite राञ्जशिज** *m.* (र- for रजत silver, अञ्ज-for अञ्जन antimony श- for शुल्बेयऽulphide -इज
 
 for खनिज mineral)
 
@@ -29171,7 +29171,7 @@ pyrosine** *Col. Ind.* **अग्न्युषसी** *f.*
 **Pyrosomatidae= Pyrosomidae** *Zool.***अग्निकाय-वंश** *m.*  
 **Pyrosomidae= Pyrosomatidae  
 pyrostibite = kermesite  
-pyrostilpnite रजतांशिज***m.* (रजत silver, अं- for अञ्जन antimony, श for शुल्बेयsulphide,
+pyrostilpnite रजतांशिज***m.* (रजत silver, अं- for अञ्जन antimony, श for शुल्बेयऽulphide,
 
 -इज for खनिजmineral)
 
@@ -29189,7 +29189,7 @@ S. American ungulates, some of which were nearly as largeas elephants) **दन�
 pyrotin orange = brilliant orange  
 pyroxene** *Mineral.* (a metasilicate, chiefly of calcium and magnesium)**समसैकिज***m.*
 
-(सम- meta-, सैक- for सैकतीयsilicate, इज- for खनिज mineral)
+(सम- meta-, सैक- for सैकतीयऽilicate, इज- for खनिज mineral)
 
 **pyroxenite समसैकिजाश्म** *m.*  
 **pyroxonium** *Chem.* **अग्निजातातु** *m.*  
@@ -29209,7 +29209,7 @@ the bill and feet brilliantly coloured. The word सुवर्णकाक occ
 **Pyrrhospiza** *Aves* **रक्तवक्षस-प्रजाति  
 pyrrhotite** (it is an iron sulphide andis attracted by the magnet) **चुम्बायः-शिज** *m.*
 
-(चुम्ब- for चुम्बकीय magnetic,अयः- iron, श- for शुल्बेयsulphide,
+(चुम्ब- for चुम्बकीय magnetic,अयः- iron, श- for शुल्बेयऽulphide,
 -इजfor खनिज mineral)
 
 **Pyrrhula** *Aves***कालपुच्छ-प्रजाति** (the birds in this genus are characterized by a black
@@ -29952,7 +29952,7 @@ jasmine)
 
 **quisqueite** *Mineral.* (composed chieflyof carbon and sulphur) **प्रांगशिज** *m.*
 
-**(प्रांग- for प्रांगार carbon, श- for शुल्बारिsulphur, -इज for खनिज mineral)
+**(प्रांग- for प्रांगार carbon, श- for शुल्बारिऽulphur, -इज for खनिज mineral)
 
 **quit** *vb.* **1 उन्मोचन, छोड़ना, 2.**(to meet and satisfy a debt) **निस्तारण, 3.***Law* **संत्यजन**
 
@@ -31165,7 +31165,7 @@ Raman effect** *Optics* (the wave length of some of the scattered rays is change
 **Rameses= Yale blue  
 ramie** (the strong, lustrous fibre, marketed in the form of China grass)**चीनघास-तन्तु** *m.*  
 **ramie fibre चीनघास-तन्तु  
-Ramier blue** (acolour, bluish red-blue रक्तातिनील in hue, of low अवsaturation and low नि
+Ramier blue** (acolour, bluish red-blue रक्तातिनील in hue, of low अवऽaturation and low नि
 
 brilliance)
 
@@ -33274,7 +33274,7 @@ red-rumped green woodpecker** *Aves***रक्त-कटि हरित का
 red rust रक्त गैरिक  
 red rust flour beetle भूरी सुसरी  
 red rust spore** *Plant Pathol.* **रक्त-गैरिक-बीजाणु  
-redruthite ताम्रशिज** *m.*(ताम्र copper, श- for शुल्बेयsulphide, -इज for खनिज mineral)  
+redruthite ताम्रशिज** *m.*(ताम्र copper, श- for शुल्बेयऽulphide, -इज for खनिज mineral)  
 **red sage = Salvia officinalis व्रणप तुलसी-बन्धु** *m.*  
 **red sandalwood** (*Pterocarpus santalinus*) **रक्तचन्दन***m.* (B., N., Ben. Mar.)  
 **red sanders = red sandalwood**  
@@ -33429,7 +33429,7 @@ wood or metal---set in vibration by an air current; विपा is from वि�
 
 **reed bunting शर-भारीट** *m.* (भारीट ancient word)  
 **reed field नड-क्षेत्र  
-reed green** (a colour, greenish-yellowपीताहरि in hue, of low अवsaturationand
+reed green** (a colour, greenish-yellowपीताहरि in hue, of low अवऽaturationand
 
 high प्र brilliance) **प्रावपीताहरि**
 
@@ -39174,7 +39174,7 @@ rose Caroline** (a colour, reddish red-yellow पीतातिरक्त in 
 high प्र brilliance)**प्रावपीतातिरक्त**
 
 **rose Carthame = Carthamus red  
-rose cendre** (a colour, reddish red-yellow पीतातिरक्त in hue of low अवsaturation and very
+rose cendre** (a colour, reddish red-yellow पीतातिरक्त in hue of low अवऽaturation and very
 
 high सु brilliance) **स्ववपीतातिरक्त**
 
@@ -39198,7 +39198,7 @@ effect in stimulating growth of hair) **केशवास** *m.***,2.**(*Sonchu
 **rose morn = peach bloom  
 Rosenbach's bacillus = Bacillus saprogenes  
 Rosenbergia = Cobaea** *Bot.*  
-**rose Neyron** (a colour, red in रक्त in hue, of very high अधिsaturation)**अधिरक्त  
+**rose Neyron** (a colour, red in रक्त in hue, of very high अधिऽaturation)**अधिरक्त  
 rose Nilsson** (a colour, red रक्त in hue, of high उद् saturation) **उद्रक  
 Rosenstiehl green** *Col. Ind.***= manganese green  
 rose of Jericho = Anastatica hierochuntica  

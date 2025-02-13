@@ -20204,7 +20204,7 @@ P. 25. St. 54. उपायनमुद्गणय्य-counting out what is n
 
 P.26. St. 56. स्वःपतिप्रतिकृते who resembled स्वःपति or Indra - the Lord of Heaven.
 
-P.26. St. 60. फलेग्रहिःSee Panini III. 2. 36. फलानि गृह्णाति इति फलेग्रहिः
+P.26. St. 60. फलेग्रहिःऽee Panini III. 2. 36. फलानि गृह्णाति इति फलेग्रहिः
 
 P. 27. St. 75. तेपि तेपि i.e. राजानो मन्त्रिणश्चापि
 
@@ -20285,7 +20285,7 @@ P. 34. St. 64. चन्दनाद्रे राशा is the south हि�
 
 P. 34. St. 65. The intended suggestion is that of the six moral foes of man such as, काम, क्रोध, which are natural but which, when they get powerful, good men put down by the help of
 
-भोगself-restraint.  
+भोगऽelf-restraint.  
 P. 35. St. 68. The kings boldly bearing the brunt of the enemy's
 
    
@@ -20381,7 +20381,7 @@ P. 44.St. 68. चतुरसुरली- the word would seem to beखुरल
 
 **CANTO VI.**
 
-P. 45. St. 6. I cannot explain this verse as it is. I believe the text is corrupt in two points. हृदयप्रदीपःseems to have been corrupted from हृदयप्रदीपम् and कर्मन्दिकल्य from कर्मन्दिकल्प. Thus restored or altered, it can be explained. It contains a comparison between an ascetic (कर्मन्दी) and the hot season (शुचि), founded on double-meauing adjectives. In the first case आषाढवान् means having the staff which forms the badge of ascetism; in the second it means that which includes the month of आषाढ. The collection of the flowers of शिरीष is the bright flame of knowledge which lights the heart of an ascetic. अपास्तकाम applies nearly in the same sense to both - 'one by whom the feeling of love is discarded' and 'one in which amorous desire is absent.' These properties of the hot season, viz., having शिरीष flowers and abating the power of Cupid are described by Kalidasa.- See Sakuntala Act I., v. 4, aud Ritusamhara, v. 1.
+P. 45. St. 6. I cannot explain this verse as it is. I believe the text is corrupt in two points. हृदयप्रदीपःऽeems to have been corrupted from हृदयप्रदीपम् and कर्मन्दिकल्य from कर्मन्दिकल्प. Thus restored or altered, it can be explained. It contains a comparison between an ascetic (कर्मन्दी) and the hot season (शुचि), founded on double-meauing adjectives. In the first case आषाढवान् means having the staff which forms the badge of ascetism; in the second it means that which includes the month of आषाढ. The collection of the flowers of शिरीष is the bright flame of knowledge which lights the heart of an ascetic. अपास्तकाम applies nearly in the same sense to both - 'one by whom the feeling of love is discarded' and 'one in which amorous desire is absent.' These properties of the hot season, viz., having शिरीष flowers and abating the power of Cupid are described by Kalidasa.- See Sakuntala Act I., v. 4, aud Ritusamhara, v. 1.
 
 P 45. St. 8. The idea that the fragrant summer breezes were the breath of nature, relieved by the minister from the oppression of the invader, is a happy one.
 
@@ -20568,7 +20568,7 @@ P. 71. St. 69.असक्तम्would seem to require some modifying word, su
 
 P. 71. St. 71. जलाञ्जलिर्दत्तःfuneral offering of water was made. Comp. अन्यथा सिञ्चतं मेतिलोदकम् Śákuntala Act III.
 
-P. 71. St. 72. Au allusion is here made to the story that Râvaṇa cut off his own heads and worshipped Siva with them. कन्धराभिश्चिरायविस्रम् would have been much better. It would have clearly explained why the body of Śiva was विस्रstinking. As it is, it qualifies अङ्गारितमीनकेतुः and may be translated as having the hairy head of the king of Lańkâ.
+P. 71. St. 72. Au allusion is here made to the story that Râvaṇa cut off his own heads and worshipped Siva with them. कन्धराभिश्चिरायविस्रम् would have been much better. It would have clearly explained why the body of Śiva was विस्रऽtinking. As it is, it qualifies अङ्गारितमीनकेतुः and may be translated as having the hairy head of the king of Lańkâ.
 
 P. 72. St. 78. The third line is imperfect in all the three manuscripts. Some such word as the one proposed in the text seems to have been omitted in copying.
 
@@ -20744,7 +20744,7 @@ APPENDIX A.
 ॥६०॥ वन्दे सरस्वतीं देवीं याति या कविमानसम् ।  
 नीयमाना निर्ज ^(**\***)वै ध (वेश्म) यान (मा) नसवासिना ॥ १॥
 
-यः । न्ति मा न प्य भ. . त्र का |:
+यः । न्ति मा न प्य भ. . त्र का ।:
 
 (यः कान्तिमानप्यपवृत्तकामः) शान्तोपि दीप्तः स्मरनिग्रहाय ।  
 निमीलिताक्षोपि समग्रदर्शी स वः शिवायास्तु शिवातनूजः ॥२॥
@@ -21449,7 +21449,7 @@ For 'Arnorája' read ' Ajayapála.'
 
 'Soreth'- 'Bundelkhund.'
 
-समानैsupply a comma.
+समानैऽupply a comma.
 
 After चाणक्यread ' for contrast.'
 

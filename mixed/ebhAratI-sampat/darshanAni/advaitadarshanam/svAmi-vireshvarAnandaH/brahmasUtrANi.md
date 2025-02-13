@@ -663,7 +663,7 @@ thought,... it projected earth” (Chh. 6. 2. 3-4). Here fire and water aremater
 
 **गौणश्चेत्, न, आत्मशब्दात्॥६॥**
 
- गौणःSecondary (figurative) चेत् if (it be said) न not आत्मशब्दात् because of the word ‘Self’ (Âtman).
+ गौणःऽecondary (figurative) चेत् if (it be said) न not आत्मशब्दात् because of the word ‘Self’ (Âtman).
 
 ** 6. If it be said (that ‘thinking’) is used in a secondary sense (with regard to Sat); (we say) not so, because of the word ‘Self’ (by which the First Cause is referred to in the scriptures).**
 
@@ -3930,7 +3930,7 @@ identical with the person is impossible, and we have to understand that it gets 
 
 **निर्मातारं चैके, पुत्रादयश्च॥२॥**
 
- निर्मातारंCreator चand एकेsome (the followers of particular Sâkhâs of the Vedas) पुत्रादयःsons etc. च and.
+ निर्मातारंCreator चand एकेऽome (the followers of particular Sâkhâs of the Vedas) पुत्रादयःऽons etc. च and.
 
  **2. And some (Sâkhâs or recensions) (state the Self or the Supreme Lord to be) the creator (of objects of desires while we are asleep) and (objects of desires there stand for) sons etc.**
 
@@ -4146,7 +4146,7 @@ in Brih. 2.3.1. and not Brahman Itself.***
 
  **प्रकृतैतावत्त्वं हिप्रतिषेधति ततो व्रवीति च भूयः॥२२॥**
 
- प्रकृत-एतावत्त्व What has been mentioned up to this प्रतिषेधति denies ततो than that भूयःsomething more व्रवीति fa says
+ प्रकृत-एतावत्त्व What has been mentioned up to this प्रतिषेधति denies ततो than that भूयःऽomething more व्रवीति fa says
 
  **22. and. What has been mentioned up to this is denied (by the words 'Not this, not this'), and (the Sruti) says something more than that (afterwards).**
 
@@ -5515,7 +5515,7 @@ means that he will cease to be a Naishthika thereafter.
 
 **उपपूर्वमपि तु एके भावम्, अशनवत्, तदुक्तम् ॥ ४२ ॥**
 
- उपपूर्वम् Prefixed with 'Upa', i.e. an Upapâtaka or a minor sin अपि तु but एकेsome भावम् the existence अशनवत् as in the case of eating तन्this उक्तम् is explained in Purva Mimâmsâ.
+ उपपूर्वम् Prefixed with 'Upa', i.e. an Upapâtaka or a minor sin अपि तु but एकेऽome भावम् the existence अशनवत् as in the case of eating तन्this उक्तम् is explained in Purva Mimâmsâ.
 
  ** 42. But some (consider this transgression on the part of the Naishthika) a minor sin (and therefore claim) the existence (of expiation for it), as in the case of eating (prohibited food by ordinary Brahmachârins). This is explained in Purva Mimâmsâ. **      
  Some, however, think that such lapses on the part of a Naishthika, other than disloyalty to teacher's wife etc., are minor sins and not major ones, and so can be expiated by proper ceremonies, even as ordinary Brahmachârins who take prohibited food are again purified by expiatory ceremonies. The reference to the text denying any such ceremony in his case is meant only to bring home to the Naish- thika Brahmachâri the grave responsibility on his part so that he may struggle with all his soul. Similarly in the case of the recluse and the Sannyâsin. As a matter of fact, the Smriti does prescribe the purificatory ceremony for both the recluse and the Sannyâsin. "The recluse when he has broken his
@@ -6120,7 +6120,7 @@ limited. The Sruti also says, "Even by night the.sun sheds his rays." The result
 
 **अतश्चायनेऽपि दक्षिणे॥२०॥**
 
-अतःFor the same reason चand अयनेduring thesun's course अपिeven दक्षिणेsouthern.
+अतःFor the same reason चand अयनेduring thesun's course अपिeven दक्षिणेऽouthern.
 
 ** 20. And for the same reason (the soulfollows the rays) even during the sun'ssouthern course.**
 
@@ -6321,7 +6321,7 @@ attain Brahmaloka.***
 
 अप्रतीक-आलम्बनान्Those who do not use a symbol
 
-(of Brahman) in their meditations नयति(the superhuman being) leads इति बादरायणःso says Bâdarâyana'उभयथा if this distinction is made अदोषात् there beingno contradiction तत्-क्रतुःas is the meditation on that(so does one become) च and.
+(of Brahman) in their meditations नयति(the superhuman being) leads इति बादरायणःऽo says Bâdarâyana'उभयथा if this distinction is made अदोषात् there beingno contradiction तत्-क्रतुःas is the meditation on that(so does one become) च and.
 
  **15. Bâdarâyana says that (thesuperhuman being; leads (to Brahmalokaonly) those who do not use a symbol (ofBrahman) in their meditations, therebeing no contradiction if this distinctionis made, and (it being construed by theprinciple) as is the meditation on that (sodoes one become).**
 

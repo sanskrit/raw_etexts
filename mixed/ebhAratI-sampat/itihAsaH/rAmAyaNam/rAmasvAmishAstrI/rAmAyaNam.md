@@ -5330,7 +5330,7 @@ demonesses did not understand aright what she said. According to this view, the 
 **हृष्टाः खलु भविष्यन्ति रामस्य परमाः स्त्रियः।  
 अप्रहृष्टा भविष्यन्ति स्नुषास्ते भरतक्षये॥**
 
-Govindaraja explains **स्त्रियः**as meaning **परिचारिका:**(maid-servants), though in commenting on Yuddha, XXI, 3, he says also that the plural **स्त्रियः**may be honorific and may mean only Sita (**पूजायां बहुवचनम्** ). He gives the latter explanation for the plural **स्नुषाः**Theertha says that **स्त्रियः** refers to Sita's friends (**सीतासख्यः**). That Janaka sent many handmaids to accompany and save Sita is stated in Bala, LXXIV, 6. See also Ayodhya, XLII, 15.
+Govindaraja explains **स्त्रियः**as meaning **परिचारिकाः**(maid-servants), though in commenting on Yuddha, XXI, 3, he says also that the plural **स्त्रियः**may be honorific and may mean only Sita (**पूजायां बहुवचनम्** ). He gives the latter explanation for the plural **स्नुषाः**Theertha says that **स्त्रियः** refers to Sita's friends (**सीतासख्यः**). That Janaka sent many handmaids to accompany and save Sita is stated in Bala, LXXIV, 6. See also Ayodhya, XLII, 15.
 
 **यस्सुखेष्वपधानेषु शेते चन्दनरूषितः ।  
 बीज्यमानो महार्हाभिः स्त्रीभिर्ममसुतोत्तमः॥**

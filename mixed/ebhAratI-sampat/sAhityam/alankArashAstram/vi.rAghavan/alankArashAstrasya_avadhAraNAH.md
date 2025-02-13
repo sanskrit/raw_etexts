@@ -1027,7 +1027,7 @@ have an element of Alankāra in them, the expression as a whole being more than 
 | 29. पृच्छा                    | 21. पृच्छा                                          | 35. अनुनीतिः (Once more here प्रसिद्धिः)                                           |
 | 30.सारूप्यम्                | 12.सारूप्यम्                                      | 36. परिदेवनम् (क्षोभः and अनुक्तसिद्धिः) In the 26th प्रियम्, AG. includes भ्रंशः |
 | 31. मनोरथः                    | 17. मनोरथः                                          |                                                                                   |
-| 32. लेशः (लेख:- Śinga.)       |                                                    |                                                                                   |
+| 32. लेशः (लेखः- Śinga.)       |                                                    |                                                                                   |
 | 33. क्षोभः or दोषः            |                                                    |                                                                                   |
 | 34. गुणकीर्तनम्               | 5. गुणकीर्तनम्                                      |                                                                                   |
 | 35. अनुक्तसिद्धिः, or सिद्धिः |                                                    |                                                                                   |
@@ -3028,7 +3028,7 @@ These three, Rīti, Vṛtti and Pravṛtti (speech, action and dress) are all An
 
 [^56]: "See Bhoja. SKA., V, ŚI. 40, p. 477."
 
- Śls. 46-50 describe मन आरम्भानुभावाः, śls. 51-53 (first half), द्वादश वागारम्भाः,śls. 53 (second half), 54 and ch. 340 describe बुद्ध्यारम्भाःand ch. 341, as is said in its first verse, describes शरीरारम्भाःIThese are all Anubhāvas and are called Abhinayas. From the point of view of the four kinds of Abhinaya, these are re-distributed and the study of Anubhāvas closes with śl. 2 of ch. 342, after which some general aspects of Rasa are taken up. Vāgārambha is Vācika; Manaārambha is Sāttvika (Sattva=manas; अनुपहतं हि मनः सत्त्वमुच्यतेsays Bhoja in his Śṛ. Pra., ch. XI) ; Śarīrārambha is Āṅgika
+ Śls. 46-50 describe मन आरम्भानुभावाः, śls. 51-53 (first half), द्वादश वागारम्भाः,śls. 53 (second half), 54 and ch. 340 describe बुद्ध्यारम्भाःand ch. 341, as is said in its first verse, describes शरीरारम्भाःIThese are all Anubhāvas and are called Abhinayas. From the point of view of the four kinds of Abhinaya, these are re-distributed and the study of Anubhāvas closes with śl. 2 of ch. 342, after which some general aspects of Rasa are taken up. Vāgārambha is Vācika; Manaārambha is Sāttvika (Sattva=manas; अनुपहतं हि मनः सत्त्वमुच्यतेऽays Bhoja in his Śṛ. Pra., ch. XI) ; Śarīrārambha is Āṅgika
 
 and Pravṛtti which is one of the three Buddhyārambhas is Āhārya.^(**1**)What about the other two Buddhyārambhas, Rīti and Vṛtti? Vṛtti pertains to all action. Its first variety called Bhārati and the Buddhyārambha called Rīti are Vācikābhinaya and are to be taken along with the Vāgārambhas, Ālāpa etc. According to the traditional meanings, Ārabhaṭī will be Āṅgikābhinaya, Sāṭtvatī Vṛtti will be Sāttvikābhinaya and KaisikīVṛtti will be all Abhinaya that is graceful. But to adopt the more correct meanings of these concepts, as explained in my paper on the Vṛttis in the JOR., Sāttvatī will go with Sāttvikābhinaya and Ārabhaṭī and Kaiśikī will go with all Abhinayas, forceful and graceful respectively.
 

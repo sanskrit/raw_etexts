@@ -3894,7 +3894,7 @@ Makar Samkranta,
 
 Notes.
 
- 1 This ध्यानserves also as a short introduction to the main work.
+ 1 This ध्यानऽerves also as a short introduction to the main work.
 
  2 The Kaurava King of the original Bhagavadgita is taken here as a representative symbol of British Imperialism; while Sanjaya is the king’s chairoteer and adviser.
 

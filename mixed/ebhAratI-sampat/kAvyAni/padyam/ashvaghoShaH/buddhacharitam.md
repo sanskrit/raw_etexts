@@ -4006,7 +4006,7 @@ angry with the officer who was responsible for the clearing ofthe road; at the s
 
 ** 53.** Then after decorating especially the royal road andafter scrutinizing it the King, after changing the charioteerand the chariot, made the prince start abroad.
 
-** 54.** Then while the prince was thus proceeding, thosevery gods (viz. शुद्धाधिवासाःst. 26 and st. 56) created a deadman, whom the charioteer and the prince and no one else sawthere borne on the road by men.
+** 54.** Then while the prince was thus proceeding, thosevery gods (viz. शुद्धाधिवासाःऽt. 26 and st. 56) created a deadman, whom the charioteer and the prince and no one else sawthere borne on the road by men.
 
 ** 55.** Then the prince said to the charioteer, “who isthis, borne by four men, and followed by distressed people,who is decorated, breathless, and is being mourned (*v. l.*भूषितैश्चाप्यघरुद्यते who is helplessly mourned by his ornamentstoo).
 
@@ -4050,7 +4050,7 @@ angry with the officer who was responsible for the clearing ofthe road; at the s
 
 ** 7.** Thus did the ladies merely view him with eyes unaided they did not speak nor smile (or laugh), being constrained by his majesty.
 
-** 8.** On finding them, however, inert and averse from love(Cf. मृगयाविक्लवं चेतःShâk. II) the talented Udâyin, the son ofthe royal family priest, thus addressed them :—
+** 8.** On finding them, however, inert and averse from love(Cf. मृगयाविक्लवं चेतःऽhâk. II) the talented Udâyin, the son ofthe royal family priest, thus addressed them :—
 
 ** 9.** “All of you are well-versed in all the fine arts, skillful in captivating the heart, endowed with beautiful form and*grace* (Cf. लीला**चतुरां**कांतिं भ्रुवोःKumâra I. 47), and gone to thepre-eminent rank through your merits.
 

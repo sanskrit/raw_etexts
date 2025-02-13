@@ -3184,7 +3184,7 @@ else, sought shelter in the middle of the ocean which is the bed fit for Him to 
 
   2. एक...न्ते—एकश्च एकश्च एकैकः; एकैकश्च गुणश्च एकैकगुणः तस्य प्रान्ते (अग्रभागे ) 'even at the outset in describing a single virtue of that God. निगमवन्दिनः The Vedas are here compared to bards whose duty is to proclaim or sing in praise the titles of a king or a great man; यथावत् 'in describing *fully* किमुत 'how much more': मितं पचाः cooking a bottle' *i e.* deficient.
 
- 3. शक्त्या=यथा शक्तिः *i.e. according* to one's ability. Note the force of the instrumental. शौरिःSri Krishna, a descendant
+ 3. शक्त्या=यथा शक्तिः *i.e. according* to one's ability. Note the force of the instrumental. शौरिःऽri Krishna, a descendant
 
 of शूर a Yadava king, father of Vasudeva and grandfather of Sri Krishna. स्थाने, an indecl. 'is proper' अमृतं न मृताभवन्त्यनेन ‘nectar'. लभ्येतand गृह्यते are passive potentials.
 
@@ -3350,7 +3350,7 @@ gem in the middle of the ocean. दनुज दनु was one of the daughters 
 
    90. प्रस्फुरंत Throbbing of the left part of the body is a good omen to women.
 
-   91. जगाद Perf. of गद्. Aor. अगादीत्:
+   91. जगाद Perf. of गद्. Aor. अगादीत्ः
 
   92.पाञ्चजन्य.....the Conch of Vishnu by its resounding appeared to applaud His reply; the Conch is called so, because it was made out of one of the bones of Panchajana, an Asura in the ocean, who was killed by Vishnu. So पाञ्चजन्य...पञ्चजनस्य इदं भव्यया auspicious प्रत्यभाषत Imperfect of भाष् with प्रति. Aor आभाषिष्ट.
 
@@ -3824,7 +3824,7 @@ absence of pleasure; distress, pain, anguish. आयत long, growing.
 
   109. मुर्मुरि-मुर्मुर fire, मुर्मुरित burnt by fire. वैरोचनी—the daughter of विरोचन (son) i.e., the Yamuna.
 
-  114. तार्क्ष्यध्वजं—Krishna तार्क्ष्यं Garuda काकोदराःsnakes; serpents.
+  114. तार्क्ष्यध्वजं—Krishna तार्क्ष्यं Garuda काकोदराःऽnakes; serpents.
 
   117. अम्बुवाह a cloud प्राचेतसो नाग इव like the elephants of Varuna or who presides over the western quarter.
 

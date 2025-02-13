@@ -2808,7 +2808,7 @@ Participle **कर्मणि शानच्**
 **विषकुम्भ** *m* A pot of poison  
 **पयोमुख** *a* Having milk in the mouth  
 **व्यतिषजति** *P*. Joins together  
-**आन्तर** *a* Internal  
+**आन्तर** *a* Interna।  
 **बहिरुपाधि** *m* External attributes  
 **पतड्ग** *m* The sun, also a bird  
 **द्रवति** *P*.Gets melted  

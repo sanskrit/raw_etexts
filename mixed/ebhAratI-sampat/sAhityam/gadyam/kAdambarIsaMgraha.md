@@ -7,7 +7,7 @@ sub-domain = "गद्यम्"
 source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODQzODA1OTk1MjUyMTky"
 
 +++
-[[कादम्बरीसंग्रह:	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQzODA1OTk1MjUyMTky)]]
+[[कादम्बरीसंग्रहः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=ODQzODA1OTk1MjUyMTky)]]
 
 \[
 

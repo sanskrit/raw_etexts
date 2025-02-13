@@ -149,7 +149,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 |            **चलकेतुः**             |
 |            **जलकेतुः**             |
 |       **ऊर्मि- शीत- केतवः**        |
-|        **भटकेतु:- भवकेतुः**        |
+|        **भटकेतुः- भवकेतुः**        |
 | **औद्दालकः श्वेतकेतुः - ककेतुश्च** |
 |           **पद्मकेतुः**            |
 |       **काश्यपः श्वेतकेतुः**       |
@@ -847,7 +847,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 
 **इति चैत्रः।**
 
-**वैशाख:।**
+**वैशाखः।**
 
 **वैशाखे गर्जितं भूरि सलिलं पवनो घनः।  
 शुभाय पंचवर्णं खं विद्युत्पातेखटत्कृतिः॥२१६॥  
@@ -1867,7 +1867,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=ODY5MTc0NjE0MjA
 
 **<MISSING_FIG href="../books_images/U-IMG-1726998384Screenshot2024-09-22151528.png"/>**
 
-**अथ निमित्तध्याय:।**
+**अथ निमित्तध्यायः।**
 
 **<MISSING_FIG href="../books_images/U-IMG-1726999275Screenshot2024-09-22153024.png"/>**
 

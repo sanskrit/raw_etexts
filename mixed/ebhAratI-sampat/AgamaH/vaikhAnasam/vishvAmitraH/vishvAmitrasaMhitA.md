@@ -18,7 +18,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=ODM1MTgwNzky
 
 **  -----\*-----**
 
-**प्रथमोऽध्याय:**
+**प्रथमोऽध्यायः**
 
 अव्यक्तायाप्रमेया विशुद्धज्ञानहेतवे ।
 

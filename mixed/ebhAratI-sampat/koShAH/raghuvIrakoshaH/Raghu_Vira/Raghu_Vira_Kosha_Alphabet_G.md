@@ -498,7 +498,7 @@ garance** (common European madder)**प्रमञ्जिष्ठ***m.*
 **garancine** *Col. Ind.* **प्रमञ्जिष्ठी** *f.*  
 **garb कञ्चुक** (cf. धर्मकञ्चुक-प्रवेशिनः), **वेष** *m.*  
 **garbage आवर्जना** *f.*(Ben.), **उच्छेष***m.,* **अंतड़ियां आदि  
-garbenschiefer** *Petrog.* (with spots resembling caraway प्रजीरseeds— Tyrrell p. 272)
+garbenschiefer** *Petrog.* (with spots resembling caraway प्रजीरऽeeds— Tyrrell p. 272)
 
 **प्रजीरबिन्दुक***m.*(*see*-schiefer)
 
@@ -1694,7 +1694,7 @@ geranine** *Col. Ind.* **पिपीती** *f.*
 **geraniol** *Chem.* (a fragrant oil occurring in oil of geranium) **कषायमूलैल** *n.*  
 **geranium 1.कषायमूल** *m.***2.**( a colour, yellowish-red रक्तापीत in hue and of very high
 
-अधिsaturation)
+अधिऽaturation)
 
 **अधिरक्तापीत.**
 
@@ -1749,7 +1749,7 @@ Gerhardt's ferric chloride test = Gerhardt test अयसिकनीरेय-�
 German chamomile** (*Matricaria chamomilla*) **चन्द्रगन्ध** *m.*  
 **germanic** *adj. Chem.* **सिकतिक  
 germanic acid सिकतिक अम्ल  
-germanite सिकशिज** *m.* (सिक for सिकातु germanium, श- for शुल्बेयsulphide,-इज for खनिज
+germanite सिकशिज** *m.* (सिक for सिकातु germanium, श- for शुल्बेयऽulphide,-इज for खनिज
 
 mineral)
 
@@ -2378,7 +2378,7 @@ glaucodot केयोनेपशिज** *m.* (के-for केत्वा�
 
 saturation and very high प्र brilliance) **प्रावहर्यापीत**
 
-**glaucous blue** (a colour, green-blue हरिनील in hue, of low अवsaturation)**अवहरिनील  
+**glaucous blue** (a colour, green-blue हरिनील in hue, of low अवऽaturation)**अवहरिनील  
 glaucous green**(a colour, yellowish-green इर्यापीत in hue, of low अब saturation and high प्र
 
 brilliance) **प्रावहर्यापीत**
@@ -2846,8 +2846,8 @@ goat willow = sallow** (*Salix capres*) **अजा-नम्रा***f.*
 G.O.B.** (girth over bark)**व. प.** (सबल्क परिधि)  
 **gobba** (*Hibiscus esculentus*) **भेण्डी** *f.*(B.,M.),**भिण्डी  
 Gobelin**(a colour) **= Gobelin blue  
-Gobelin blue** (acolour, bluish green-blue हर्यतिनील in bue, of low अवsaturation) **अवहर्यतिनील  
-Gobelin green** (a colour, yellowish-green हर्यापीत in hue, of low अवsaturation) **अवहर्यापीत  
+Gobelin blue** (acolour, bluish green-blue हर्यतिनील in bue, of low अवऽaturation) **अवहर्यतिनील  
+Gobelin green** (a colour, yellowish-green हर्यापीत in hue, of low अवऽaturation) **अवहर्यापीत  
 Gobiidae** *Zool.* **प्रथशीर्षा-वंश** *m.*  
 **Gobiiformes** (suborder) **प्रथशीर्षानुगण** *m.*  
 **Gobimorphi प्रथशीर्षरूप-गण***m.*
@@ -2965,7 +2965,7 @@ of low नि brilliance) **निरक्तपीत**
 golden cat स्वर्ण-बिडाल  
 golden champa** (*Michelia champaca*)**चम्पक***m.*  
 **golden champak** (*Ochna squarrosa*)**कनकचम्पा** *f.* (Basu)  
-**golden chestnut** (a colour, red-yellow रक्तपीत in hue, of low अवsaturation)**अवरक्तपीत  
+**golden chestnut** (a colour, red-yellow रक्तपीत in hue, of low अवऽaturation)**अवरक्तपीत  
 golden collyrium** (*Colchicum lateum*)**हिरण्यतुत्थ** *n.* (B.,N.), **हिरनतूतिया  
 golden-crested kinglet = goldcrest  
 golden-crested wren = goldcrest दीप्तशिख-कूजिनी** *f.*   
@@ -3271,14 +3271,14 @@ good-wife** (mistress of the house) **गृह-**
 **good will 1.***Com.* **ख्याति** *f.***2.सद्भाव** *m.,* **सद्भावना** *f.*  
 **goodwill mission सद्भावना-मण्डल  
 goodwill profit ख्याति-लाभ  
-goongarrite सीभिदशिज***m.*(सी- for सीस lead, भिद- for भिदातु bismuth, श- for शुल्बेयsuiphide,
+goongarrite सीभिदशिज***m.*(सी- for सीस lead, भिद- for भिदातु bismuth, श- for शुल्बेयऽuiphide,
 
 -इज for खनिज mineral)
 
 **goosander कारण्डव** *m.* (ancient name)  
 **goose हंस** *m.*  
 **goose barnacle** *Zool.* (usually found on the bottoms of vessels) **यान-खण्डावर  
-gooseberry 1.काकबदरी***f.***2.**(a colour, bluish-red रक्तानील in hue, of low अवsaturation and low
+gooseberry 1.काकबदरी***f.***2.**(a colour, bluish-red रक्तानील in hue, of low अवऽaturation and low
 
 नि brilliance) **न्यवरक्तानील**
 
@@ -4083,7 +4083,7 @@ grave cruelty घोर क्रूरता
 grave disorder गम्भीर अव्यवस्था  
 grave emergency गम्भीर आपात, भारी आपात**  
 
-**gravel 1.कर्कर** *m.,* **कंकर 2.**(a colour, red-yollow रक्तपीत in hueof low अवsaturation) **अवरक्तपीत  
+**gravel 1.कर्कर** *m.,* **कंकर 2.**(a colour, red-yollow रक्तपीत in hueof low अवऽaturation) **अवरक्तपीत  
 gravelled road कर्करित रथ्या** (सड़क)  
 **gravelly** *adj.* **कर्करमय, कंकरीला  
 gravel slide** *Geog.* **कर्कर-सर्पण, कंकर का सर्पण  
@@ -4476,7 +4476,7 @@ circulation) **निमुद्राचलन-नियम** (निकृष
 gressorial Orthoptera** *Zool.* **पदचारी ऋजुपक्षाः** *m.pl.*  
 **Gretna green** (a colour, greenish yellow-green पीतातिहरिin hue, of low
 
-अवsaturation) **अवपीतातिहरि**
+अवऽaturation) **अवपीतातिहरि**
 
 **Grevillea** *Bot.* (several species are cultivated for their showy flowers) **शुभपुष्प-प्रजाति  
 Grevillea robusta = silky oak** (silky foliage— Tr. III.798) **कौशेयपर्ण शुभपुष्प  

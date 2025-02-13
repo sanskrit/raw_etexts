@@ -2223,12 +2223,12 @@ XLII**. अल्पम्—**Smallness.
 
 |                                    |                                                 |
 |------------------------------------|-------------------------------------------------|
-| सूक्ष्मात्small                   | अद्यto-day                                     |
+| सूक्ष्मात्ऽmall                   | अद्यto-day                                     |
 | आधेयात्than the object contained. | ते thy                                         |
 | यत् which                          | करे in the hand                                 |
 | आधारस्य of the containant          | मणिमालोर्मिका ring inlaid with precious stones. |
-| सूक्ष्मताsmallness                | जपमालायते becomes a rosary.                     |
-| अल्पम्Smallness                   |                                                |
+| सूक्ष्मताऽmallness                | जपमालायते becomes a rosary.                     |
+| अल्पम्ऽmallness                   |                                                |
 
  Def. When the containant is described as smaller than the object contained which is really very small, it is called Smallness.
 

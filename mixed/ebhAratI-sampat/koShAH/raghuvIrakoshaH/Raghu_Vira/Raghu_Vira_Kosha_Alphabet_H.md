@@ -1459,7 +1459,7 @@ heart pea** *(Cardiospermum halicacabum)* **कर्णरफोटा** *f.* (
 **heart sac** (pericardium) **हृत्स्यून** (परिहृच्छद)  
 **heartsease 1.**(a plant) **मनस्सुम्ब** *m.* **2.= wall-flower** *(Cheiranthus cheiri)* **भित्तिपुष्प** *m.* **3.**(acolour,
 
-bluish blue-red रक्तातिनील in hue, of high उद्saturation and low नि brilliance) **न्युद्रक्तातिनील**
+bluish blue-red रक्तातिनील in hue, of high उद्ऽaturation and low नि brilliance) **न्युद्रक्तातिनील**
 
 **heartseed** *(Cardiospermum halicacabum)* **कर्णस्फोटा** *f.* (B.,N.)  
 **heart shake** *Forestry* (extending from pith outwards—I.F.R.) **सार-विपाट, मज्जक-विपाट** *m.*
@@ -2031,7 +2031,7 @@ hematinic शोणितिक**
 
 hemat., -इज for खनिज mineral)
 
-**hematite red** (acolour, yellowish-red रक्तापीत in hue, of low अवsaturation and low नि
+**hematite red** (acolour, yellowish-red रक्तापीत in hue, of low अवऽaturation and low नि
 
 brilliance) **न्यवरक्तापीत**
 
@@ -3800,7 +3800,7 @@ Romer)(p. 343)
 
 which a man acknowledges that he is the vassal of a lord) **वश्यता-स्वीकृति** *f.*
 
-**homage blue = Scotch blue** (a colour, reddish-blue नीलारक्त in hue, of *low*अवsaturation and
+**homage blue = Scotch blue** (a colour, reddish-blue नीलारक्त in hue, of *low*अवऽaturation and
 
 very
 
@@ -4065,7 +4065,7 @@ honeycomb stitch** *Needlework* **मधुकर-सीवा
 honeycomb stomach = reticulum  
 honeydew 1.**(the saccharine exudate) मधुस्यन्द *m.* 2.(acolour, red-yellow रक्तपीत in hue, of high
 
-उद्saturation and high प्रbrilliance) **प्रोद्रक्तपीत**
+उद्ऽaturation and high प्रbrilliance) **प्रोद्रक्तपीत**
 
 **honeyflower** *Bot.* **मधुपुष्प** *n.*  
 **honey fruit tree** (*Guazuma tomentosa*)**रुद्राक्षी** *f.* (Kan. Tulu)  
@@ -4270,7 +4270,7 @@ F horizon** *Plant Ecol.* (the layer of dead organic matter on the soil which ha
 
 in which organic matter is sufficiently decomposed to have lost all traces of botanical structure— Bor p.105) **ध. संस्तर** (धfor धरण humus)
 
-**horizon blue** (a colour, green हरिin hue, of very low अपsaturation and very high सु
+**horizon blue** (a colour, green हरिin hue, of very low अपऽaturation and very high सु
 
 brilliance)
 
@@ -5259,7 +5259,7 @@ Hume's chat** *Aves* **सिन्धु-अश्वक
 Hume's common babbler** *Aves* **पश्चिम ग्राम-हहोलिका  
 Hume's crested lark** *Aves* **गान्धार तिलक-कण्टक** (गान्धार Afghanistan)  
 **Hume's crow-pheasant** *Aves* **चीनकुक्कुभ  
-Hume's flower-pecker** *Aves***शान-देश पुष्पप्रिय** (शान-देशShan States)  
+Hume's flower-pecker** *Aves***शान-देश पुष्पप्रिय** (शान-देशऽhan States)  
 **Hume's flycatcher** *Aves* **पाण्डु-कण्ठ शलभाश  
 Hume's ground chough** *Aves* **लघु भूकाक  
 Hume's hawfinch** *Aves* **गान्धार मुखरचटक** (गान्धार Afghanistan)  
@@ -5474,7 +5474,7 @@ brilliance)
 
 मध्य)**मध्यपीतातिरक्त**
 
-**hyacinth violet** (acolour, bluish bluered रक्तातिनील in hue, of high उद्saturation and low नि
+**hyacinth violet** (acolour, bluish bluered रक्तातिनील in hue, of high उद्ऽaturation and low नि
 
 brilliance)**न्युद्रक्तातिनील**
 

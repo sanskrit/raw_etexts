@@ -5018,7 +5018,7 @@ elm
 
 elm green
 
-(a colour, yellow-green पीत-हरि in hue, of low अवsaturation and low नि brilliance)
+(a colour, yellow-green पीत-हरि in hue, of low अवऽaturation and low नि brilliance)
 
 न्यवपीतहरि
 
@@ -5787,7 +5787,7 @@ empire free trade साम्राज्य अबाध व्यापार
 
 Empire green
 
-(a colour, yellow-green पीत-हरि in hue, of low अवsaturation and low नि
+(a colour, yellow-green पीत-हरि in hue, of low अवऽaturation and low नि
 
 brilliance)
 
@@ -5893,7 +5893,7 @@ emplastrum saponis = plaster of soap स्वफेन-पटलेप
 
 emplectite ताभिशिज
 
-*m.* (ता- for ताम्र copper, भि-for भिदातु bismuth, श- for शुल्बेयsulphide -इज
+*m.* (ता- for ताम्र copper, भि-for भिदातु bismuth, श- for शुल्बेयऽulphide -इज
 
 for खनिज mineral)
 
@@ -10832,7 +10832,7 @@ ethics 1.**(system of moral practice) **शीलाचार** *m.***2.**(scien
 ethionic acid दक्षुगन्धिक अम्ल  
 Ethiopian region** *Zoogeog.* **काल-प्रदेश***m.* (*Cf.* कालद्वीप Africa)  
 **ethmoid = ethmoidal** *adj. Anat.* **तैतव  
-ethmoid** *n.* (Gk.*ethmos* 'sieve'+*eidos* 'form') *Anat.* **तितवस्थि** *n.* (तितउsieve+अस्थि)  
+ethmoid** *n.* (Gk.*ethmos* 'sieve'+*eidos* 'form') *Anat.* **तितवस्थि** *n.* (तितउऽieve+अस्थि)  
 **ethmoidal = ethmoid** *adj.*  
 **ethmoid lateralis** *Zool.* **तैतव पार्श्वचेता  
 ethmoid plate** *Zool.* **तैतव पट्ट  
@@ -10934,7 +10934,7 @@ selenide, -इज for खनिजmineral)
 
 **eucalyptus** **1.अनुकर्पूर** *m.* (Telugu कर्पुरमु, Tamil करुप्पुरम्, Egypt *kafur*; *see* Sino-Indian Studies
 
-II.70 )**2.***Pharm. **=*eucalypti folium =eucalyptus leaf अनुकर्पूर-पत्र** *n.***3.**(colour)**=eucalyptus green** (a colour, greenish-yellow पीताहरि in hue, of low अवsaturation and high प्र brilliance) **प्रावपीताहरि**
+II.70 )**2.***Pharm. **=*eucalypti folium =eucalyptus leaf अनुकर्पूर-पत्र** *n.***3.**(colour)**=eucalyptus green** (a colour, greenish-yellow पीताहरि in hue, of low अवऽaturation and high प्र brilliance) **प्रावपीताहरि**
 
 **Eucalyptus** *Bot.* **अनुकर्पूर-प्रजाति  
 Eucalyptusacmenoides** (white mahogany) **सित अनुकर्पूर** (Tr. II.568)  

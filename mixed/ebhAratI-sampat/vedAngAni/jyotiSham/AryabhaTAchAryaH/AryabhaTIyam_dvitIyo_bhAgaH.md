@@ -1403,7 +1403,7 @@ Trivandrum,
 |        |       भावाभावाय लोकानां       |           ''           |         ...         |
 |        |  इन्द्राग्नी यत्र हूयेते -'   |          ...           |         ...         |
 |        | अर्काद् विनिस्सृतः प्राचीं '  |          ...           |         ...         |
-|        |   'चतुर्विंशो युगस्यांश:--'   |    सूर्यसिद्धान्तः     |         ...         |
+|        |   'चतुर्विंशो युगस्यांशः--'   |    सूर्यसिद्धान्तः     |         ...         |
 |        |          उत्सर्पिणी'          |      विष्णुपुराणं      |         ...         |
 |        |        विश्वम्भरापवन-         |          ...           |         ...         |
 |        | 'त्रिंशत्कृत्वो युगे भांशै—'  |          ...           |         ...         |
@@ -1414,7 +1414,7 @@ Trivandrum,
 |        |      त्रिभविरहितचन्द्रो       |          ...           |      श्रीपतिः       |
 |        |     छन्दुच्चोनार्ककोटिघ्न     |       लघुमानसम्        |      मुब्जालकः      |
 |        |              ...              |          ...           |       मणिन्थः       |
-|        |    'उक्ता भांशैर्विकृति:-     |    सूर्यसिद्धान्तः     |         ...         |
+|        |    'उक्ता भांशैर्विकृतिः-     |    सूर्यसिद्धान्तः     |         ...         |
 |        |              ...              |           ''           |         ...         |
 |        |              ...              |          ...           |        गर्गः        |
 |        |              ...              |          ...           |       व्यासः        |
@@ -1511,7 +1511,7 @@ Trivandrum,
 |        |    अभिन्नरूपता-,    |          ...           |          ...          |
 |        | 'जीवा क्रमोत्कमा-,  |          ...           |        भास्करः        |
 |        |   'चन्द्रबाहुफल-,   |          ...           |          ...          |
-|        |   'कर्णभुक्ति:- '   |   पारमेश्वरव्याख्या    |          ...          |
+|        |   'कर्णभुक्तिः- '   |   पारमेश्वरव्याख्या    |          ...          |
 |        |         ...         |          ...           | कौषीतकी नेत्र-नारायणः |
 |        |     'छेद्या ते'     |          ...           |     गोविन्दस्वामी     |
 |        |        'चाप'        |    पारमेश्वरभाष्यं     |          ...          |
@@ -1542,7 +1542,7 @@ ukamuni (out of stock). 020
 
 No. 3-**नलाभ्युदयः** **Nalabhyudaya** (Kāvya) by Vāmana Bhatta Bāna (secondedition). 0 4 0
 
-No. 4- **शिवलीलार्णवSivalilarnava** (Kāvya) by Nīlakantha Dīksita (out of stock). 200
+No. 4- **शिवलीलार्णवऽivalilarnava** (Kāvya) by Nīlakantha Dīksita (out of stock). 200
 
 No. 5-**व्यक्तिविवेकVyaktiviveka** (Alaṅkāra
 
@@ -1616,7 +1616,7 @@ No. 49- **गोलदीपिका Goladipika** (Jyotisa) by Paramesvara. 0 4
 No. 50 - **रसार्णवसुधाकरः Rasarnavasudhakara**(Alankara) by Singa Bhupala. 3 0 0  
 No. 51 -**नामलिङ्गानुशासनम् Namalinganusarana** (Kosa) by Amarasimha with the two commentaries, Amarakosodghatana of KsIrasvamin and Tikäsarvasva of Vandyaghatiya Sarvananda (Part III, 2nd Kanda, 7-10 vargas). 2 0 0  
 No. 52 - **नामलिङ्गानुशासनम् Namalinganusasana** (Kosa) by Amarasimha with the com- mentary Tikâsarvasva of Vandya- ghatiya Sarvânanda (Part IV, 3rd Kanda). 1 8 0  
-No. 53- **शाब्दनिर्णयःSabdanirnaya** (Vedanta) by Prakasatmayatindra. 0 12 0  
+No. 53- **शाब्दनिर्णयःऽabdanirnaya** (Vedanta) by Prakasatmayatindra. 0 12 0  
 No. 54 – **स्फोटसिद्धिन्यायविचारः Sphotasiddhinyayavichara** (Vyakarana). 0 4 0  
 No. 55- **मत्तविलासप्रहसनम् Mattavilasaprahasana** (Nataka) by Mahendravikrama- varman. 080  
 No. 56 - **मनुष्यालयचन्द्रिकाManusyalayacandrika** (Silpa) (out of stock). 08 0  
@@ -1661,7 +1661,7 @@ No. 85- **विष्णुसंहिताVisnusamhita** (Tantra) 280
 No. 86- **भरतचरितम् Bharatacarita** (Kavya). by Kṛṣṇakavi. 180  
 No. 87 - **सङ्गीतसमयसारः Sangitasamayasara** (Sangīta) of Sangitakara Pâréva- deva. 120  
 No. 88- **काव्यप्रकाशःKavyaprakasa** (Alankara) of Mammatabhatta with the two com- mentaries the Sampradayaprakasini of Sri Vidyacakravartin and the Sahi- tyacadâmani of Bhattagopala(Part I, 1-5 Ullasās). 3 0 0  
-No. 89- **स्फोटसिद्धिःSphotasiddhi** (Vyakarana) by Bharatamisra. 300  
+No. 89- **स्फोटसिद्धिःऽphotasiddhi** (Vyakarana) by Bharatamisra. 300  
 No. 90 - **मीमांसाश्लोककवार्त्तिकम् Mimamsaslokavartika** with the commentary Kasika of Sucaritamisra (Part I). 280  
 No. 91 — **होराशास्त्रम् Horasastra** of Varahamihir - carya with the Vivarana of Rudra. 300  
 No. 92 - **रसोपनिषत् Rasopanisat. 200**  
@@ -1672,7 +1672,7 @@ No. 95- **रणदीपिका Ranadipika** (Jyotisa) of Kumaraganaka. 0 4 0
 No. 96 - **ऋक्संहिता Rksamhita** with the Bhagya of Skandasvamin and the commentary of Venkatamadhavarya (Part I, 1st Adhyaya in 1st Astaka). 1 80
 
 No. 97 - **नारदीयमनुसंहिता Naradiyamanusamhita**(Smrti) with Bhasya of Bhavasvamin. 200  
-No. 98- **शिल्परत्नम्Silparatna** (Silpa) by Sri kumāra. 2 8 0  
+No. 98- **शिल्परत्नम्ऽilparatna** (Silpa) by Sri kumāra. 2 8 0  
 No. 99 – **मीमांसाश्लोकवार्त्तिकम् Mimamsasloka vartika** (Mimämsä) with the com- mentary Kasika of Sucaritamisra (Part II). 200  
 No. 100- **काव्यप्रकाशः Kavyaprakasa** (Alankara) of Mammatabhatta with the two con- mentaries, Sampradayaprakasini of Srividyacakravartin and Sahitya- cudamani of Bhaṭṭagopala. (Part II, 6-10 Ullasas). 500  
 No. 101- **आर्यभटीयम् Aryabhatiya** (Jyotisa) of Aryabhatacarya with the Bhasya of Nilakanthasomasutyan (Part I. Ganitapada). 28 0  

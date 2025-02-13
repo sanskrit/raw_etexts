@@ -13,7 +13,7 @@ printer = "गंगाविष्णु खेमराजगुप्तः"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDc1NzA0MjYwMjM3MzE3&pageno=MjI0MjQyNjk5NTk="
 
 +++
-[[नवरत्नविवाहपद्दति:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc1NzA0MjYwMjM3MzE3&pageno=MjI0MjQyNjk5NTk=)]]
+[[नवरत्नविवाहपद्दतिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDc1NzA0MjYwMjM3MzE3&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
 

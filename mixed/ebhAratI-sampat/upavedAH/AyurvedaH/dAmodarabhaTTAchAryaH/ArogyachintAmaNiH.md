@@ -267,7 +267,7 @@ vaśāstra with Tricolour Illustrations
 
  We express our thanks to Sri G. Srinivasa Rao of Mysore who kindly lent his manuscript to this Library for transcription, and also to Sri M.S. Vaidyanathan, Śiromaṇi, Pandit of this library, in seeing the work through the press.
 
-Government Oriental                          
+Government Orienta।                          
  **T. CHANDRASEKHARAN**,  
 Manuscripts                              
       *General Editor,*  

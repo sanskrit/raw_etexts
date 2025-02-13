@@ -2765,7 +2765,7 @@ P. **32**.L. 2.—कांदिशीक derived from the interrogative pronou
 
 7.— वृत्तिभङ्गात् 'in consequence of the loss of a livelihood.'
 
-12.—सामादिभिरुपायैः; उपाय is a stratagem or means to be employed by statesmen and others eager for success ; four such means are usually enumerated, viz. भेदsowing dissension,' (among one's enemies), दण्ड
+12.—सामादिभिरुपायैः; उपाय is a stratagem or means to be employed by statesmen and others eager for success ; four such means are usually enumerated, viz. भेदऽowing dissension,' (among one's enemies), दण्ड
 'open force,' सामन् ‘negotiation,' and ' bribery;' cf. p. 69, 18; 90, 10.
 
 13.— S'I. 155-157 form one sentence.
@@ -3329,7 +3329,7 @@ P. **74**. L. 1.— न यास्यन्ति 'which will not go for your 
 
 P. **75**. L. 2. — Supply भवता for गतम् and also for प्राप्तः; 'you are not guilty of his Majesty's पिण्ड(cf. Benfey's Dictionary), i. e. you are not guilty of his death.
 
-4.—प्रणम्योपविष्टःscil. आह च.
+4.—प्रणम्योपविष्टःऽcil. आह च.
 
 7.—तेषां ग्रहणसंभवः 'arising from the taking away of it (i. e. the life of a servant).'
 

@@ -906,7 +906,7 @@ cadmium copper wire मृज्यातु ताम्र तन्तु
 cadmium fluoride मृज्यातु तरस्वेय  
 cadmiumgreen मृज्यातु हरि,
 
-(greenish yellow green पीतातिहरिin hue and of high उत्saturation)
+(greenish yellow green पीतातिहरिin hue and of high उत्ऽaturation)
 
 उत्पीतातिहरि
 
@@ -931,7 +931,7 @@ cadmiumorange 1.मृज्यातु नारंग 2.
 
 (red-yellow रक्तपीत in hue, of
 
-very high अधिsaturation
+very high अधिऽaturation
 
 and high प्र brilliance)
 
@@ -943,7 +943,7 @@ cadmium phosphate मृज्यातु भास्वीय
 cadmiumpotassium iodide मृज्यातु दहातु जम्बेय  
 cadmium purple मृज्यातु नीलारुण,
 
-(yellowish-red रक्तापीत in hue, of high उद्saturation and
+(yellowish-red रक्तापीत in hue, of high उद्ऽaturation and
 
 low निbrilliance)
 
@@ -965,7 +965,7 @@ cadmium vermilion मृज्यातु हिंगुल,
 रुधिर रक्त  
 cadmium yellow 1.मृज्यातु पीत 2.
 
-(red-yellow रक्तपीत in hue, of high उद्saturation and
+(red-yellow रक्तपीत in hue, of high उद्ऽaturation and
 
 high प्र brilliance)
 
@@ -3758,7 +3758,7 @@ cameline
 उष्ट्र-वर्ण  
 camellia
 
-(a colour, red रक्तin hue and of very high अधिsaturation)
+(a colour, red रक्तin hue and of very high अधिऽaturation)
 
 अधिरक्त  
 Camellia
@@ -3863,7 +3863,7 @@ Camelus sivalensis
 
 cameo green
 
-(a colour, yellow-green पीतहरि in hue, of low अवsaturation and high
+(a colour, yellow-green पीतहरि in hue, of low अवऽaturation and high
 
 प्र brilliance)
 
@@ -6475,7 +6475,7 @@ Bot. Tax.
 
 Capri
 
-(a colour, bluish green-blue हर्यतिनीलin hue, of high उद्saturation
+(a colour, bluish green-blue हर्यतिनीलin hue, of high उद्ऽaturation
 
 and low नि brilliance)
 
@@ -6496,7 +6496,7 @@ Capri blue
 
 (blue नील in hue, of very
 
-high अधिsaturation and low नि brilliance) **न्यधिनील**
+high अधिऽaturation and low नि brilliance) **न्यधिनील**
 
 capric acid
 
@@ -6555,7 +6555,7 @@ Aves
 
 m\.
 
-(छिप्पिका ancient name. अनुगणsuborder)  
+(छिप्पिका ancient name. अनुगणऽuborder)  
 
 Caprimulgidae
 
@@ -7854,7 +7854,7 @@ carminaph = oil orange
 carminaph garnet = oil red  
 carminative** *adj.* **वायुहर  
 carminative tincture वायुहर निष्कर्ष  
-carmine** *n.* **1.कीटशोणी** *f.***2.= carmine lake** (acolour, red रक्त in hue, of very high अधिsaturation
+carmine** *n.* **1.कीटशोणी** *f.***2.= carmine lake** (acolour, red रक्त in hue, of very high अधिऽaturation
 
 and low नि brilliance) **न्यधिरक्त**
 
@@ -8986,7 +8986,7 @@ Carthamus red or rose कुसुम्भ रक्त,
 
 (a colour, yellowish redरक्तापीत
 
-in hue, of very high अधिsaturation)
+in hue, of very high अधिऽaturation)
 
 अधिरक्तापीत
 
@@ -9091,7 +9091,7 @@ cartridge buff = putty
 
 (a colour, yellowish red-yellow रक्तातिपीत in hue,
 
-of low अवsaturation and high प्र brilliance)
+of low अवऽaturation and high प्र brilliance)
 
 प्रावरक्तातिपीत
 
@@ -10260,7 +10260,7 @@ sulphate, used as a pigment) **= mineral green**
 porcelain**
 
 **casserole मृत्सा-पिठर  
-2.= rustic brown** (a colour, reddish red-yellow पीतातिरक्तin hue, of low अवsaturation and low निbrilliance)**न्यवपीतातिरक्त**
+2.= rustic brown** (a colour, reddish red-yellow पीतातिरक्तin hue, of low अवऽaturation and low निbrilliance)**न्यवपीतातिरक्त**
 
 **Cassia** *Bot.* **कासमर्द-प्रजाति** (कासमर्द ancient word)  
 **Cassia absus चक्षुष्य कासमर्द** (Basu चक्षुष्य, Hin. चक्षु,Persian *chashmizak*, Arabic *chashmizaj*)  
@@ -10388,9 +10388,9 @@ castigatory** *adj.* (corrective) **शोधी,**(punitive) **दाण्ड�
 castigatory** *n.* (engine formerly used to punish women— Aiyar) **दण्डित्र***n.*  
 **Castilian brown = brown madder** (a colour, yellowish-red
 
-रक्तापीत in hue, of low अवsaturation and low नि brilliance) **न्यवरक्तापीत**
+रक्तापीत in hue, of low अवऽaturation and low नि brilliance) **न्यवरक्तापीत**
 
-**Castilian red** (yellowish-red रक्तापीत in hue and of very high अधिsaturation)**अधिरक्तापीत  
+**Castilian red** (yellowish-red रक्तापीत in hue and of very high अधिऽaturation)**अधिरक्तापीत  
 Castilla** *Bot.* (a genus of trees of the mulberry family yielding Castilla rubber) **घृषितूत-प्रजाति  
 Castilla elastica प्रत्यास्थ घृषितूत  
 Castilla rubber तूतघृषि  
@@ -10419,7 +10419,7 @@ rocking cell) **दोलकोशा-विधा 2.**(manufacture of sodium by
 
 **castor 1.एरण्ड** *n.,* **अण्डी 2.**(acolour, reddish-yellow पीतारक्त
 
-in hue, of low अवsaturation and of lowनि brilliance) **न्यवपीतारक्त**
+in hue, of low अवऽaturation and of lowनि brilliance) **न्यवपीतारक्त**
 
 **Castor = Apollo = *α*Geminorum***Astron.* **प्रथम मिथुन** *n.,* **प्रथम पुनर्वसु** *m.*  
 **Castor** *Zool.* (genus of beavers) **सेतूद्र-प्रजाति  
@@ -11283,7 +11283,7 @@ sists of the thickened flower cluster),**फूलगोभी**
 cauline** *adj. Bot.* **स्तम्भीय  
 cauline** *n. Bot.* (generally) **स्तम्भपत्र** *n.,*(specif.) **स्तम्भाग्रपत्र, स्तम्भरुह, स्तम्भाग्ररुह***n.*  
 **caulk** *vb.* **संस्थगन**  
-**caulocystidium** *Mycol.* (a cystidium on the stipe) **छत्रवृन्तकोष्ठिका** *f.* (छत्रवृन्तstipe)  
+**caulocystidium** *Mycol.* (a cystidium on the stipe) **छत्रवृन्तकोष्ठिका** *f.* (छत्रवृन्तऽtipe)  
 **caulome** *Bot.* (the stem as an abstract entity— Jackson) **प्रस्तम्भ** *m.*  
 **causa 1.कारण** *n.,***हेतु** *m.***2.***Law***वाद** *m.***3.***Logic* **कारण** *n.*  
 **causaaequat effectum कारणं कार्येण समम्, कार्यकारणे समे  
@@ -12076,7 +12076,7 @@ cecidium = gall** (aplant gall generallycaused by an insect but sometimes by a f
 **Cecidomyidae** *Zool.* **द्रुस्फोटदंशुक-वंश** *m.*  
 **cecidomyid fly** (Gk *kekidos* 'gallnut' + *myia* 'fly') **द्रुस्फोटदंशुक** *m.*  
 **Cecydomia (**gall-gnat) **द्रुदंश-प्रजाति  
-cedar 1.देवदारु***m.***2.**(acolour, yellowish-red रक्तापीत in hue, of low अवsaturation and lowनि
+cedar 1.देवदारु***m.***2.**(acolour, yellowish-red रक्तापीत in hue, of low अवऽaturation and lowनि
 
 brilliance) **न्यवरक्तापीत**
 
@@ -12163,7 +12163,7 @@ celerity त्वरा, त्वरितगति** *f.*
 **celery** *Bot.* **प्रयवानी** *f.*  
 **celery-leaved butter-cup** *or* **crowfoot**(*Ranunculus sceleratus*) **कच्छ नवनीत-चष  
 celery seed** *Pharm.* **प्रयवानी-बीज  
-celeste** (a colour, blue नील in hue, of low अवsaturation) **अवनील  
+celeste** (a colour, blue नील in hue, of low अवऽaturation) **अवनील  
 celestial** *adj.***1.***Astron.* **खगोल-, खगोलीय**2.दैव, दिव्य  
 celestial body = heavenly body खगोल-काय  
 celestial equator खगोल-विषुवद्वृत्त  
@@ -14013,7 +14013,7 @@ Ceratopsia
 
 m\.
 
-(अनुगणsuborder)
+(अनुगणऽuborder)
 
 Ceratosa = Keratosa
 
@@ -14581,7 +14581,7 @@ from above the earcoverts)
 
 cerise 1.
 
-(acolour, red रक्त in hue, of very high अधिsaturation and low नि brilliance)
+(acolour, red रक्त in hue, of very high अधिऽaturation and low नि brilliance)
 
 न्यधिरक्त
 
@@ -16925,7 +16925,7 @@ chalazogamy
 
 chalcanthite ताशुल्बिज
 
-*m.*(ता-for ताम्रिक cupric, शुल्ब-for शुल्बीयsulphate, -इज for खनिज
+*m.*(ता-for ताम्रिक cupric, शुल्ब-for शुल्बीयऽulphate, -इज for खनिज
 
 mineral)
 
@@ -17005,7 +17005,7 @@ chalcocite ताम्रशिज
 
 *m.*
 
-(ताम्र- for ताम्र्यcuprous, श-for शुल्बेयsulphide, -इजfor खनिज mineral)
+(ताम्र- for ताम्र्यcuprous, श-for शुल्बेयऽulphide, -इजfor खनिज mineral)
 
 chalcolite = torbernite
 
@@ -19035,7 +19035,7 @@ chasseur
 
 (a colour, greenish yellow-green पीतातिहरि in hue, of low
 
-अवsaturationand low नि brilliance)
+अवऽaturationand low नि brilliance)
 
 न्यवपीतातिहरि
 
@@ -20744,7 +20744,7 @@ cherry red प्रबदर रक्त,
 
 (a colour, yellowish-red रक्तापीत in hue, and of very high
 
-अधिsaturation)
+अधिऽaturation)
 
 अधिरक्तापीत
 
@@ -22276,7 +22276,7 @@ Chinese rouge = Carthamus red
 
 (yellowish-red रक्तापीत in hue and of very high
 
-अधिsaturation)
+अधिऽaturation)
 
 अधिरक्ता-पीत, चीनीयशोण=कुसुम्भरक्त
 
@@ -27688,7 +27688,7 @@ cloudy weather मेघाच्छन्न ऋतु, समेघऋतु**
 
 (a colour, red-yellow रक्तपीत in hue, of low अव saturation and low निbrilliance) **न्यवरक्तपीत**
 
-**clove brown** (a colour, reddish-yellow पीतारक्त in hue, of low अवsaturation and low
+**clove brown** (a colour, reddish-yellow पीतारक्त in hue, of low अवऽaturation and low
 
 नि brilliance)**न्यवपीतारक्त**
 
@@ -27822,7 +27822,7 @@ cnida**
 (-इन्) *m.*
 
 (it causes the sting दंशto project; उद्गामयति causes to come out)  
-**C : N ratio प्र: भू अनुपात  
+**C : N ratio प्रः भू अनुपात  
 C. N. W.**
 
 (Convict Night Watchman) **ब. रा. प्र.**
@@ -28177,7 +28177,7 @@ cobaltblue 1.
 
 (greenish-blue
 
-नीलाहरिin hue and of high उद्saturation)
+नीलाहरिin hue and of high उद्ऽaturation)
 
 cobaltborate केत्वातु टांकीय  
 cobaltbromide केत्वातु दुरेय  
@@ -28252,7 +28252,7 @@ cobaltred 1.
 
 केत्वातु रक्त, उद्रक्तानील
 
-(bluish-red रक्तानील in hue and of high उद्saturation)
+(bluish-red रक्तानील in hue and of high उद्ऽaturation)
 
 cobaltsilicate केत्वातु सैकतीय  
 cobaltspeiss केत्वातु धानेपेय  
@@ -28284,7 +28284,7 @@ cobaltyellow 1.
 
 सूत्पीतारक्त
 
-(reddish-yellow पीतारक्त in hue, of high उत्saturation and of very high सु brilliance)
+(reddish-yellow पीतारक्त in hue, of high उत्ऽaturation and of very high सु brilliance)
 
 cobalti-
 
@@ -28697,7 +28697,7 @@ cochineal 1.इन्द्रगोप** *m.***2.= coccus cacti = coccus** *Pha
 
 **3.= Castilian red** (acolour, yellowish-red रक्तापीत in hue, and of very high
 
-अधिsaturation) **अधिरक्तापीत**
+अधिऽaturation) **अधिरक्तापीत**
 
 **cochineal cactus इन्द्रगोप-नागफण  
 cochineal fig = cochineal cactus  
@@ -28932,7 +28932,7 @@ m.
 
 cocoa brown
 
-(red-yellow रक्तपीत in hue, of low अवsaturation,
+(red-yellow रक्तपीत in hue, of low अवऽaturation,
 
 and low नि brilliance)
 
@@ -28953,7 +28953,7 @@ m.
 
 2.= brown stone
 
-(acolour, red-yellow रक्तपीतin hue,of low अवsaturation and low निbrilliance) **न्य**
+(acolour, red-yellow रक्तपीतin hue,of low अवऽaturation and low निbrilliance) **न्य**
 
 **वरक्तपीत**
 
@@ -29418,7 +29418,7 @@ Coffea liberica** *Bot.* (used medicinally on Gold Coast— Basu) **स्वर
 coffeatus** (coffee-like) **कापेयवत्  
 coffee 1.कापेय** *n.,* **कॉफ़ी 2.**(acolour, red-yellow रक्तपीतin hue, of low
 
-अवsaturation and low नि brilliance)**न्यवरक्तपीत**
+अवऽaturation and low नि brilliance)**न्यवरक्तपीत**
 
 **coffee berry कापेय-बदरी  
 coffee-brown** *adj.* **कापेय-बभ्रु  
@@ -29968,7 +29968,7 @@ collegiate department महाविद्यालय-विभाग
 collegiate officers महाविद्यालय-अधिकारी  
 collegiate scholarship महाविद्यालय-छात्रवृत्ति  
 Collema** *Bot.* (Gk. *kollema*'that which is glued'—thallus gelatinous ) **श्लिष्टा-प्रजाति  
-Collembola** *Zool.* (this order includes spring-tails) **स्कन्दपुच्छ-गण** *m.* (स्कन्दspring, पुच्छ tail, गण
+Collembola** *Zool.* (this order includes spring-tails) **स्कन्दपुच्छ-गण** *m.* (स्कन्दऽpring, पुच्छ tail, गण
 
 order)
 
@@ -30375,7 +30375,7 @@ perfume+-व alcohol)
 
 Cologne brown = Vandyke brown
 
-(acolour, red-yellow रक्तपीत in hue, of low अवsaturation and
+(acolour, red-yellow रक्तपीत in hue, of low अवऽaturation and
 
 low नि brilliance)
 
@@ -35265,7 +35265,7 @@ kuṅkuṅ
 Congo blue कुंकुंग नील  
 Congo brown = asphaltum, bitumen, Antwerp brown कुंकुंग बभ्रु,** (red-yellow रक्तपीत in hue, of
 
-low अवsaturation and low निbrilliance) **न्यवरक्तपीत**
+low अवऽaturation and low निbrilliance) **न्यवरक्तपीत**
 
 **Congo colour कुंकुंग रंग  
 Congo corinth कुंकुंग रोहित  
@@ -37338,7 +37338,7 @@ copartnery = copartnership सहभागिता** *f.*
 
 piperidine and pyridine; piperidine is hexa-hydro-pyridine; similarly copellidine is hexa-hydrocollidine षड्-उद-आस्थी)**षडुदास्थी** *f.*
 
-**copenhagen, copenhagen blue** (a colour, blue नील in hue, of low अवsaturation and low
+**copenhagen, copenhagen blue** (a colour, blue नील in hue, of low अवऽaturation and low
 
 निbrilliance)**न्यवनील**
 
@@ -37850,9 +37850,9 @@ Tel. धन्यालु)
 
 **corinth** (ared dye) **रोहित** *m.*  
 **corinth brown** *Col. Ind.* **रोहित बभ्रु  
-Corinthian pink** (yellowish-red रक्तापीत in hue, of low अवsaturation) **अव-रक्तापीत  
+Corinthian pink** (yellowish-red रक्तापीत in hue, of low अवऽaturation) **अव-रक्तापीत  
 Corinthian purple** (redरक्तin hue, of low नि brilliance) **निरक्त  
-Corinthian red** (yellowish-red रक्तापीत in hue,of low अवsaturation) **अव-रक्तापीत  
+Corinthian red** (yellowish-red रक्तापीत in hue,of low अवऽaturation) **अव-रक्तापीत  
 corioflavine** *Col.Ind.* (used for dying leather) **चर्मपिंगी** *f.*  
 **coriphosphine** *Col. Ind.* **चर्मभास्वी  
 corium = derma चर्म** *n.*  
@@ -38761,7 +38761,7 @@ forked tendrils') **शाखिप्रतान-भूतकेशी**
 
 **Corydalis govaniana सामान्य-भूतकेशी** (B., M., Ben. Hin.भूतकेशीPan.भूतकेश)  
 **Corydalis ramosa** (in Kuram employed in treatment of eye diseases— Basu) **नेत्र-भूतकेशी  
-corydalis green** (a colour, yellow-green पीतहरिin hue, of low अवsaturation and high प्र
+corydalis green** (a colour, yellow-green पीतहरिin hue, of low अवऽaturation and high प्र
 
 brilliance)
 
@@ -38832,7 +38832,7 @@ coryza** *Med.***पीनस***m.*
 **C.O.S.** (Chief Operating Superintendent)*Rly.* **मु.प.अ.** (मुख्य परिवहण अधीक्षक)  
 **C.O.S.** (Controller of Stores) *Rly.* **सं.नि.** (संग्रहागार नियन्त्रक)**, भा.अ.** (भाण्डागाराध्यक्ष )  
 **cos** (cosine) *Trig.* **कोज्या*f.* (कोटिज्या)  
-**cosalite सीसभीशिज** *m.* (सीस lead, भि-for भिदातु bismuth,श- for शुल्बेयsulphide, -इज for खनिज
+**cosalite सीसभीशिज** *m.* (सीस lead, भि-for भिदातु bismuth,श- for शुल्बेयऽulphide, -इज for खनिज
 
 mineral)
 
@@ -38893,7 +38893,7 @@ Cosmos sulphureus** (*sulphureus* 'sulphur-coloured') **शुल्बरिव
 cosmos red extra = Congo red  
 Cosmostigma** *Bot.* **शिखावल्ली-प्रजाति  
 Cosmostigma racemosum सामान्य-शिखावल्ली** (Mar. शेंडवेल)  
-**cossack green** (acolour, yellow-green पीतहरि in hue, of low अवsaturation and low नि
+**cossack green** (acolour, yellow-green पीतहरि in hue, of low अवऽaturation and low नि
 
 brilliance)
 
@@ -39985,7 +39985,7 @@ crack** *adj.* (of superior excellence) **उत्कृष्ट
 cracked** *adj.* **पटित, दीर्ण, चिटका हुआ  
 cracked nipple** *Med.* **दीर्ण चूचुक  
 cracked pot sound** *Acoustics* **पाटपात्रध्वनि  
-cracker 1.पटाका 2.**( a colour reddish-yellow पीतारक्त in hue, of low अवsaturation) **अवपीतारक्त  
+cracker 1.पटाका 2.**( a colour reddish-yellow पीतारक्त in hue, of low अवऽaturation) **अवपीतारक्त  
 cracking 1.***Forestry* **पटन** *n.*
 
 **splitting विपटन**
@@ -40152,7 +40152,7 @@ idiot मूढ**
 
 hue, of low अव saturation and very high सु brilliance) **स्ववपीतारक्त**
 
-**cream beige = sandstone** ( acolour, red-yellow रक्तपीतin hue and low अवsaturation) **अवरक्तपीत  
+**cream beige = sandstone** ( acolour, red-yellow रक्तपीतin hue and low अवऽaturation) **अवरक्तपीत  
 cream black** *adj.* **स्निग्ध श्याम  
 cream buff** (a colour, reddish-yellow पीतारक्त in hue, of low अव saturation and very high सु
 
@@ -40556,7 +40556,7 @@ worms') **कार्मिज** *m.*
 crimson clover शोण रामपर्ण  
 crimson dye कार्मिज रञ्जक  
 crimson horned pheasant** *Aves* **शोण शृंगी जीवक  
-crimson lake 1.कार्मिज लाक्षक 2.**(a colour, red रक्त in hue, of high उत्saturation and low
+crimson lake 1.कार्मिज लाक्षक 2.**(a colour, red रक्त in hue, of high उत्ऽaturation and low
 
 निbrilliance) **न्युद्रक्त**
 
@@ -41391,7 +41391,7 @@ crystal-clear piece स्फटवत्-स्वच्छ खण्ड
 crystal face स्फटानीक  
 crystal formस्फट-आकार  
 crystal glass = flint glass स्फट-काच  
-crystal grey स्फट धूसर,** (red रक्त in hue, of very low अपsaturation) **अपरक्त  
+crystal grey स्फट धूसर,** (red रक्त in hue, of very low अपऽaturation) **अपरक्त  
 crystall- = crystallo-** (crystal)**स्फट-  
 crystal lattice** *Phys.* **स्फट-प्रजाल  
 crystallic** *adj.* **1.**(pertaining to crystals) **स्फाट, स्फट- 2.**(pertaining to crystallization) **स्फटनिक  
@@ -41473,7 +41473,7 @@ crystal-palace blue** (acolour, blue नील in hue, of high उद् saturat
 
 **न्युन्नील**
 
-**crystal-palace green** (a colour, yellow-green पीतहरि in hue, of low अवsaturation and low नि
+**crystal-palace green** (a colour, yellow-green पीतहरि in hue, of low अवऽaturation and low नि
 
 brilliance) **न्यव-पीतहरि**
 
@@ -41569,7 +41569,7 @@ cu.** (cubic) **घ.** (घन)
 **Cu** (cumulus) **पु** (पुञ्जमेघ)  
 **Cu** (cuprum) *Chem.* **ता** (ताम्र)  
 **cub** (a young scout बालचर) **शावक** *m.*  
-**cuba** (acolour, yellowish-red रक्तापीत in hue, of high उद्saturation and low नि brilliance)
+**cuba** (acolour, yellowish-red रक्तापीत in hue, of high उद्ऽaturation and low नि brilliance)
 
 **न्युद्रक्तापीत**
 
@@ -42228,7 +42228,7 @@ withoutcrossing) **तरंगित, लहरियेदार**
 
 **currant 1.***Bot.* (the acid berries of *Ribes*)**पाकबदरी** *f.* **2.**(a colour, red रक्त in hue, of very low
 
-विsaturation) **विरक्त***m.*
+विऽaturation) **विरक्त***m.*
 
 **currency 1.चलार्थ** *m.* (Const.) **2.प्रवर्तनावधि** *m.*
 
@@ -43200,7 +43200,7 @@ cyprus earth** (acolour, yellowish red-yellow रक्तातिपीत in 
 
 brilliance)**न्यवरक्तातिपीत**
 
-**Cyprus green** (yellow-green पीतहरि in hue, of high उत्saturation and high प्र
+**Cyprus green** (yellow-green पीतहरि in hue, of high उत्ऽaturation and high प्र
 
 brilliance)**प्रोत्पीतहरि**
 

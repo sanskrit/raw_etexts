@@ -363,7 +363,7 @@ safflower red = Carthamus red
 safflower seed कुसुम्भ- बीज  
 saffron 1. कुकुम** *n.***2.** (acolour) **= saffron yellow  
 saffron crocus** (*Crocus sativus*) **कुंकुम** *n.*  
-**saffron yellow** (a colour, yellowish red-yellow fasta in hue, of high उद्saturation and high प्र
+**saffron yellow** (a colour, yellowish red-yellow fasta in hue, of high उद्ऽaturation and high प्र
 
 brilliance)**प्रोद्रक्तातिपीत**
 
@@ -1163,7 +1163,7 @@ the U.S.) **पुलिनवलीक**
 sand snake सिकता-सर्प, वालु-सर्प  
 sandstone 1.***Petrog.***वालुकाश्म** *m.,* **बलुआपत्थर 2.**(colour) **= cream beige** (a colour,
 
-red-yellow रक्तपीत in hue, and of low अवsaturation) **अवरक्तपीत**
+red-yellow रक्तपीत in hue, and of low अवऽaturation) **अवरक्तपीत**
 
 **sandstone soil वालुकाश्म-मृदा  
 sand-trap** *Rly.* **वालुग्राही** (-इन्) *m.*  
@@ -2093,9 +2093,9 @@ Schima wallichii** (produces painful irritation when brought into contact with s
 **सामान्य चर्मकोप**
 
 **schindylesis joint** *Anat.* (where abone fits into the slit of another)**छेदग सन्धि  
-schirmerite रसीभिशिज** *m.* (र- for रजतsilver, सी- for सीसं lead, भि for भिदातुbismuth, श- for
+schirmerite रसीभिशिज** *m.* (र- for रजतऽilver, सी- for सीसं lead, भि for भिदातुbismuth, श- for
 
-शुल्वेयsulphide, -इज for खनिज mineral)
+शुल्वेयऽulphide, -इज for खनिज mineral)
 
 **schism संघभेद** *m.*  
 **schist** (Lat. *schistos* 'that cleaveseasily') *Petrog.* **सुभाजा** *f.*  
@@ -2892,11 +2892,11 @@ sea-eagle समुद्र-सुपर्ण** (सुपर्ण ancient wo
 **sea elephant = elephant seal समुद्र-हस्ती  
 sea-fan** *Zool.* **समुद्रव्यजन  
 sea fish समुद्र-मत्स्य, समुद्र की मछली  
-sea-foam green** (a colour, greenish-yellow पीताइरि in hue, of low अबsaturation and very
+sea-foam green** (a colour, greenish-yellow पीताइरि in hue, of low अबऽaturation and very
 
 high brilliance) **स्ववपीताहरि**
 
-**sea-foam yellow** (acolour, greenish-yellow पीताहरि in hue, of low अबsaturation and very
+**sea-foam yellow** (acolour, greenish-yellow पीताहरि in hue, of low अबऽaturation and very
 
 high brilliance) **स्ववपीताहर**
 
@@ -3671,7 +3671,7 @@ the
 
 Cyperaceae)
 
-**मुस्ता** *f.,***3.** (a colour, red-yellow रक्तपीत ni hue, of low a अवsaturation and low नि brilliance) **न्यवरक्तपीत**
+**मुस्ता** *f.,***3.** (a colour, red-yellow रक्तपीत ni hue, of low a अवऽaturation and low नि brilliance) **न्यवरक्तपीत**
 
 **sedge warbler झावु-कूजिनी** (found on *Tamarix indica* झाबु)  
 **sediment 1.अवसाद्***n.*
@@ -6922,7 +6922,7 @@ silicula** *Bot.* (a short siliqua) **कूटपटीका** *f.*
 **silicyl** *Chem.* **सैकतल** *n.*  
 
 **siliqua** *Bot. * (having a false septum= replum कूटपटी) **कूटपटीक** *m.*  
-**Siliquosae** *Bot.* **कूटपठ्यनुकुल** *n.* (अनुकुलsubfamily)  
+**Siliquosae** *Bot.* **कूटपठ्यनुकुल** *n.* (अनुकुलऽubfamily)  
 **silk कौशेय** *n.***, रेशम  
 silk black** *Col. Ind.* **कौशेय काल  
 silk blue** *Col. Ind.* **कौशेय नील  
@@ -7015,7 +7015,7 @@ silver graphite** *Col. Ind.* **रजत-लिखिज
 silver grey** *Col. Ind.* **रजत-धूसर  
 silver green 1.रजत हरि, 2.**(a colour, greenish-yellow पीताहरिin hue, and of low
 
-अवsaturation)**अवपीताहरि**
+अवऽaturation)**अवपीताहरि**
 
 **silver halide रजत नीकुल्येय  
 silvering 1.***Plant Pathol.* **रजताभास** *m.***2.***Photog.* **रजतन** *n.*  
@@ -7597,7 +7597,7 @@ sirocco** (warm wind) **उष्णानिल** *m.*
 **sirpoon tree = Calophyllum elatum केरल-पुन्नाग** *m.*  
 **sir-right सीर अधिकार  
 Sirs** *Corresp.* **श्रीमन्तः  
-sirup** (a colour, yellowish red-yellow रक्तातिपीत in hue, of low अवsaturation) **अवरक्तातिपीत  
+sirup** (a colour, yellowish red-yellow रक्तातिपीत in hue, of low अवऽaturation) **अवरक्तातिपीत  
 sirupus = syrupus** *Pharm.*  
 **sisal = sisal hemp  
 sisal hemp** (a strong durable white fibre) **गौरशण** *m.*  
@@ -7609,7 +7609,7 @@ sisal hemp** (a strong durable white fibre) **गौरशण** *m.*
 
 **sister cell** *Biol.* **स्वसृ-कोशा  
 sister tutor शिक्षक महोपचारिका  
-Sistine** (a colour, greenish-blue नीला-हरि in hue, of low अवsaturation)**अवनीलाहरि  
+Sistine** (a colour, greenish-blue नीला-हरि in hue, of low अवऽaturation)**अवनीलाहरि  
 Sisymbrium** *Bot.* **वन्यसर्षप-प्रजाति  
 Sisymbrium alliaria =Alliaria officinalis  
 Sisymbrium altissimum = tall sisymbrium प्रांशु वन्यसर्षप  
@@ -7835,7 +7835,7 @@ medium मध्य) **मध्यनील**
 
 **sky colour = sky blue  
 Skye terrier** (it has a typically long terrier head) **दीर्घशीर्ष बिलखन  
-sky grey** (acolour, blue नील in hue, of very low अपsaturation and very high सु brilliance)
+sky grey** (acolour, blue नील in hue, of very low अपऽaturation and very high सु brilliance)
 
 **स्वपनील**
 
@@ -7880,12 +7880,12 @@ slap** *n.* **चपेट** *m.***, चपत
 slap** *vb.* **चपत लगाना  
 slash** *n.* **लकड़ी की छीलन  
 slashings** *Forestry* **लकड़ी की कतरन अथवा छीलन  
-slate 1.शिलिका** *f.,* **शिलापट्ट** *m.***2.**(a colour, blue-red नीलरक्त in hue, of very low अपsaturation and
+slate 1.शिलिका** *f.,* **शिलापट्ट** *m.***2.**(a colour, blue-red नीलरक्त in hue, of very low अपऽaturation and
 
 low निbrilliance) **न्यपनीलरक्त**
 
 **slate black** *Col. Ind.* **शिलापट्ट काल  
-slate blue** (a colour, blue नीलin hue, of low अवsaturation and low नि brilliance) **न्यवनील  
+slate blue** (a colour, blue नीलin hue, of low अवऽaturation and low नि brilliance) **न्यवनील  
 slate green** (acolour, greenish yellow-green पीतातिहरि in hue, of low अव saturation)
 
 **अवपीतातिहरि**
@@ -8322,7 +8322,7 @@ as to form a congested head—Basu) **सामान्य गुच्छप�
 
 **Smithia geminiflora युग्मपुष्प गुच्छपर्ण  
 Smithia sensitiva** (pods flattened—Basu)**चिपिटशिम्ब गुच्छपर्ण  
-smithite रनेशिज** *m.* (र- for रजत silver ने- for नेपाली arsenic, श- for शुल्बेयsulphide, -इज for
+smithite रनेशिज** *m.* (र- for रजत silver ने- for नेपाली arsenic, श- for शुल्बेयऽulphide, -इज for
 
 खनिजmineral)
 
@@ -8345,12 +8345,12 @@ smoke brown** (yellow पीतin hue, of very low अप saturation and low न
 smoke-bush = smoke tree  
 smoke candle धूम-वर्ती  
 smoked fish धूमित मत्स्य** (मछली)  
-**smoked pearl** (acolour, blue-red नीलरक्त in hue, of very low अपsaturation) **अपनीलरक्त  
+**smoked pearl** (acolour, blue-red नीलरक्त in hue, of very low अपऽaturation) **अपनीलरक्त  
 smoked plate** *Phys.* **धूमित पट्ट  
 smoke generator धूम-जनित्र  
 smoke glasses** *Ophthalmol.* **धूमोपनेत्र  
 smoke grenade** *Mil.* **धूम-दाडिम  
-smoke grey** (a colour, greenish-yellow पीताहरि in hue, of low अवsaturation and high प्र
+smoke grey** (a colour, greenish-yellow पीताहरि in hue, of low अवऽaturation and high प्र
 
 brilliance)**प्राव-पीताहरि**
 
@@ -8366,7 +8366,7 @@ cels, resembling a cloud of smoke)**धूम्या** *f.* (धूम्य�
 
 **smoke tube** *Rly.* **धूम-नाल  
 smoke tube boiler** *Rly.* **धूमनाल-बाष्पित्र  
-smoke yellow = sand** (reddish-yellow पीतारक्त in hue, of low अवsaturation)**अवपीतारक्त  
+smoke yellow = sand** (reddish-yellow पीतारक्त in hue, of low अवऽaturation)**अवपीतारक्त  
 smokiness धूमिलता** *f.,***धुआंपन  
 smoking 1.धूम्रपान** *n.* (it will include ganja, opium),**2.धूमन, धूमायन** *n.*  
 **smoking car** *Rly.* **धूम्रपान-यान  
@@ -11567,7 +11567,7 @@ sprat** (a small European herring, *Clupeas sprattus*) **क्षुद्र-�
 **spray***vb.* **शोकन, शीकरण, छींटना**  
 **spray** *n.* **1.**(water flying in small drops) **शीकर** *m.,***2.***Forestry* **क्षुद्रशाखा** *f.***, छोटी टहनी, 3.**(a
 
-colour, bluish-green हर्यानील in hue, of low आवsaturation and very high सु brilliance) **स्ववहर्यानील**
+colour, bluish-green हर्यानील in hue, of low आवऽaturation and very high सु brilliance) **स्ववहर्यानील**
 
 **spray-bath शीकर-स्नान  
 spray bellows शीकर-भस्त्रा  
@@ -11651,7 +11651,7 @@ sprouting अंकुरण** *n.*
 **sprout thistle = hare's thistle ** (*Sonchus olcraccus*) **शशकण्ट** *m.*  
 **spruce 1.**(a kind of pine yielding valuable timber) **प्रसरल** *m.,***2.**(a colour, yellowish-green हर्यापीत
 
-in hue, of very low अपsaturation and very low वि brilliance) **व्यपहर्यापीत**
+in hue, of very low अपऽaturation and very low वि brilliance) **व्यपहर्यापीत**
 
 **spruce-gall aphis प्रसरल-स्फोटयूका, प्रसरल-यूका  
 spruce needle-rust प्रसरल-सूचीगैरिक  
@@ -13783,8 +13783,8 @@ Stomatopoda***Zool.* (an order ofHoplocarida) **वर्मेञ्चाक-�
 **Stomias** *Zool.* **अपमीन-प्रजाति  
 Stomias boa अजगराभ अपमीन  
 Stomiatidae अपमीन-वंश** *m.* (वंश family)  
-**Stomiatinae अपमीनानुवंश** *m.* (अनुवंशsubfamily)  
-**Stomiatoidea** (deepsea fishes of veryaberrant अपगामीshape— PH. II.258)**अपमीन-**
+**Stomiatinae अपमीनानुवंश** *m.* (अनुवंशऽubfamily)  
+**Stomiatoidea** (deepsea fishes of veryaberrant अपगामीऽhape— PH. II.258)**अपमीन-**
 
 **अनुगण** *m.* (अनुगण suborder)
 
@@ -14173,7 +14173,7 @@ stratus** (a low foglike cloud of wideextent) **स्तारमेघ** *m.*
 strawberry 1.तृणबदरी,***f.***2.**(a colour, red रक्त in hue of lowनि brilliance) **निरक्त  
 strawberry blite** (*Blitum capitatum*)**तृणबदरी सुरोहिणी  
 strawberry fly तृणबदरी-मक्षी  
-strawberry pink** (acolour, yellowish red रक्तापीत in hue, of high उद्saturation and high
+strawberry pink** (acolour, yellowish red रक्तापीत in hue, of high उद्ऽaturation and high
 
 brilliance)**प्रोद्रक्तापीत**
 
@@ -14681,7 +14681,7 @@ strontianite** *Mineral.* **शोणांगीयिज** *m.*(शोण- for
 for खनिज mineral)
 
 **strontian white शोणक श्वेत  
-strontian yellow 1.शोणक पीत, 2.**(yellow पीत in hue, of high उत्saturation, and very high सु
+strontian yellow 1.शोणक पीत, 2.**(yellow पीत in hue, of high उत्ऽaturation, and very high सु
 
 brilliance)
 
@@ -15824,7 +15824,7 @@ sudorific 1.स्वेदक, 2.स्वेदीय** (as in sudorificrash)
 sudoriparous glands = sudoriferousglands  
 sue** *vb.* **व्यवहार लाना** (Const.), **वाद लाना  
 sue as a pauper अकिञ्चन के रूप में वाद लाना  
-suede** (a colour, yellowish red-yellow रक्तातिपीत in hue of low अवsaturation) **अवरक्तातिपीत  
+suede** (a colour, yellowish red-yellow रक्तातिपीत in hue of low अवऽaturation) **अवरक्तातिपीत  
 suffer** *vb.* **1.सहना, सहन करना, 2.भोगना, 3.**(to allow, permit) **समनुज्ञान, समनुज्ञादेना, करने देना  
 sufferance 1.सहन** *n.,***2.**(permission for shipment of goods)**समनुज्ञा** *f.*  
 **sufferance wharf** (a licensed private wharf where dutiable goods may be kept until the duty
@@ -17366,7 +17366,7 @@ surrender value अध्यर्पण-अर्हा
 surreptitious** *adj.* **प्रच्छन्न, चुपके से, चोरी से  
 surreptitious inspection प्रच्छन्न निरीक्षण  
 surreptitiously प्रच्छन्न, चुपके से, चोरी से  
-Surrey green** (a colour, yellow-green पीतहरि in hue of low अवsaturation and high प्र brilliance)
+Surrey green** (a colour, yellow-green पीतहरि in hue of low अवऽaturation and high प्र brilliance)
 
 **प्रावपीतहरि**
 

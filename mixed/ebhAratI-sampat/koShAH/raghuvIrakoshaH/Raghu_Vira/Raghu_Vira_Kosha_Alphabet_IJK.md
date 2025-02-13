@@ -7569,7 +7569,7 @@ Japanese kestrel** *Aves* **उदयवर्ष रंगणश्येन**
 Japanese quince = Japan quince  
 Japanese red = Indian red 1.**(a colour, reddish red-yellow पीतातिरक्त in hue, of high उत्
 
-saturation and low नि brilliance) **न्युत्पीतातिरक्त, 2.**(acolour, yellowish-red रक्तापीत in hue, of low अवsaturation and
+saturation and low नि brilliance) **न्युत्पीतातिरक्त, 2.**(acolour, yellowish-red रक्तापीत in hue, of low अवऽaturation and
 
 low नि brilliance) **न्यवरक्तापीत**
 

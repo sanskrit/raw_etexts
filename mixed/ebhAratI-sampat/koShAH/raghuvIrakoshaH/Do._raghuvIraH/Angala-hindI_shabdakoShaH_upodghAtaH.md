@@ -1143,7 +1143,7 @@ In Hindi the form used is गरिमा(masculine nom. singular).
 
 **आग्नेय fiery.  
 नादेयof a river.  
-कौशेयsilk** (produced from कोशcocoon)**.**
+कौशेयऽilk** (produced from कोशcocoon)**.**
 
 **(51)** कforms adjectives, diminutives and specialised nouns.
 
@@ -1203,8 +1203,8 @@ In Hindi, forms in मान्(masculine nom, sg.) are used —मधुमा�
 **ग्रैव्यrelating to neck** (ग्रीवा)**.**  
 **सौभाग्य good fortune** (सुभग fortunate)**.**  
 **धूम्या dense smoke** (धूम)**.**  
-**सभ्यcivilised** (सभाsociety)**.**  
-**राज्यstate, kingship** (राजन्)**.**  
+**सभ्यcivilised** (सभाऽociety)**.**  
+**राज्यऽtate, kingship** (राजन्)**.**  
 **कुल्य of noble family** (कुल)**.**  
 **वश्यobedient** (वश)**.**  
 **हिम्य snowy** (हिम)**.**
@@ -1872,7 +1872,7 @@ With, together, completely.
 Good, easy, well.  
 सुगति good condition, सुकुल a noble family, सुकर easy
 
-to be done, सुगsinging well, etc.  
+to be done, सुगऽinging well, etc.  
 **1 सु-दुः**...सुदुःसह, सुदुःस्पर्श.  
 **2 सु-दुः-आ**...सुदुराचार, सुदुराधर्ष, सुदुरासद.  
 **3 सु-दुः-निः** ...सुदुर्निरीक्षण.  
@@ -3117,7 +3117,7 @@ and simultaneous indeterminate equations of the type
 ***ax* + *by* + *cz* + *dw* = *p,*  
 *x* + *y* + *z* + *w*= *q.***
 
-  **SYMBOLS OF OPERATION**— The first syllable of a word, placed before or after the quantity, served the purpose of the symbol. For addition one of the Sanskrit words is युत. It is abbreviated to यु. Similarly the ancient Brahmi क, which is a cross, stands as the symbol of subtraction, being the abbreviation of क्षय. गुabbreviated from गुणनor गुणितstands for multiplication and भाfrom भागor भाजितfor division. Often these symbols are not used. Juxtaposition serves the purpose. The use of these symbols is best illustrated by the Bakhshali manuscript. Bakhshali is a village in the Peshawar district. The manuscript lay between stones. It was discovered by a farmer who was digging in the mounds in 1881. This is the oldest mathematical manuscript yet discovered. It is written in ancient Śāradā script of Kashmir on birch-bark. Its age has been variously estimated, some placing it in the second century (in the days of Kanishka), others as late as the twelfth century A.D.
+  **SYMBOLS OF OPERATION**— The first syllable of a word, placed before or after the quantity, served the purpose of the symbol. For addition one of the Sanskrit words is युत. It is abbreviated to यु. Similarly the ancient Brahmi क, which is a cross, stands as the symbol of subtraction, being the abbreviation of क्षय. गुabbreviated from गुणनor गुणितऽtands for multiplication and भाfrom भागor भाजितfor division. Often these symbols are not used. Juxtaposition serves the purpose. The use of these symbols is best illustrated by the Bakhshali manuscript. Bakhshali is a village in the Peshawar district. The manuscript lay between stones. It was discovered by a farmer who was digging in the mounds in 1881. This is the oldest mathematical manuscript yet discovered. It is written in ancient Śāradā script of Kashmir on birch-bark. Its age has been variously estimated, some placing it in the second century (in the days of Kanishka), others as late as the twelfth century A.D.
 
 |     |     |     |     |
 |:---:|:---:|:---:|:---:|
@@ -3374,7 +3374,7 @@ writing *x* for या, *y* for का and *z* for नी
  लम्ब-कोण right angle, i.e., the angle कोण made by a perpendicular लम्ब. In Hindi and Bengali समकोण is sometimes used for a right angle. It is not a happy word because it means equal.  
  लम्बपूर कोण complementary angle. लम्बपूर is short for लम्बकोण-पूरक that which completes पूरक a right angle लम्ब- कोण.  
   वक्र 'curve' is an ancient word.  
- वर्गsquare,वर्गमूल square root, In ancient usage वर्ग is the square of a number, e.g. पञ्चवर्ग square of five, भिन्नवर्ग square of a fraction. वर्ग and वर्गमूल are widely current in Hindi, Bengali, Marathi, etc.  
+ वर्गऽquare,वर्गमूल square root, In ancient usage वर्ग is the square of a number, e.g. पञ्चवर्ग square of five, भिन्नवर्ग square of a fraction. वर्ग and वर्गमूल are widely current in Hindi, Bengali, Marathi, etc.  
  वर्तुल 'circular' is an ancient word. It is from $\\sqrt{}$वृत् to turn, to revolve. Cf. वृत्त a circle.  
  विकर्ण diagonal. In ancient mathematics कर्ण has been used for hypotenuse and diagonal both, कर्ण has been retained by us for hypotenuse, while the specificatory prefix वि- (here short for विशेष) has been added to कर्ण to designate a diagonal.  
  विकोणमान theodolite. Theodolite is an instrument for measuring horizontal and usually also vertical angles. विकोणमान is literally an instrument which measures मान angles कोण of various kinds वि, वि being short for विविध.  
@@ -3402,7 +3402,7 @@ writing *x* for या, *y* for का and *z* for नी
  संचापारकोण radian. Radian is an angle कोण subtended by an are चापequal सं in length to the radius अर-सत्यापन 'verification' is an ancient word. The verbal form is सत्यापयति verifies.  
  सदिश vector. Vector (from Latin *vehere, vectum*to carry) is a complex entity representative of a directed magnitude. सदिश means 'having a direction दिशा'. Our word is clearer and will be more easily understood by the Indian students.  
  समांग homogeneous, uniform. Homogeneous is alike in nature and therefore, comparable in parts (सम alike + अंग parts).  
- समान्तर श्रेढी arithmetic progression. गुणोत्तर श्रेठी geometric progression. Arithmetic progression is a progression श्रेणीwhose elements progress by a constant (समsame) difference अन्तर (positive or negative) as 1,3,5,7 or a, a <MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386759rb30.png"/>d, a <MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386788rb30.png"/>2d, a<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386817rb30.png"/>3d. 'Arithmetic progression' is not a very intelligible expression. Geometric progression is that in which elements progress by a constant factor, as 1,2,4,8,16, any term is obtained by multiplying the preceding one by the constant factor: गुणोत्तर श्रेढी— गुण multiplication, उत्तर successive, श्रेढी progression.  
+ समान्तर श्रेढी arithmetic progression. गुणोत्तर श्रेठी geometric progression. Arithmetic progression is a progression श्रेणीwhose elements progress by a constant (समऽame) difference अन्तर (positive or negative) as 1,3,5,7 or a, a <MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386759rb30.png"/>d, a <MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386788rb30.png"/>2d, a<MISSING_FIG href="../../../../../../../books_images/U-IMG-1693386817rb30.png"/>3d. 'Arithmetic progression' is not a very intelligible expression. Geometric progression is that in which elements progress by a constant factor, as 1,2,4,8,16, any term is obtained by multiplying the preceding one by the constant factor: गुणोत्तर श्रेढी— गुण multiplication, उत्तर successive, श्रेढी progression.  
  समायत square (figure). समायत is an आयत or rectangle with all the sides सम or equal. In Hindi वर्ग is used to denote a square figure as well as the product of a number or quantity multiplied by itself. We have retained वर्ग for the latter sense and समायतfor the former.  
  समाई 'equivalent'. अर्हाis an ancient word. अर्हा 'value' is derived from the root अर्ह्'to be worthy of'.  
  संपतन or संपात coincidence. The English word is derived from Latin *coincidere*, from *co-* + *incidere* to fall on. संपतन = सं- together + पतन falling.  
@@ -4820,7 +4820,7 @@ The English word *bangle* is Hindi *bangri* which is from वंग.
 **V**
 
  Five other words of Greek extraction, argon, bromine, chromium, iodine and krypton, have been allowed to retain their original connotation in Indian words:  
- Argon \[Greek *argon*, neuter of argos inactive, from anot + ergon work \]—मन्दाति \[मन्दslow, indifferent + वातिgas\].  
+ Argon \[Greek *argon*, neuter of argos inactive, from anot + ergon work \]—मन्दाति \[मन्दऽlow, indifferent + वातिgas\].  
  So named on account of its inertness. No compounds of it are known.  
  मन्द is an all-India word: Kashmiri मोन्दु Hindi मन्द, मांद; Sindhi मन्दो; Bengali, Gujarati, Marathi, Oriya, Kannada मन्द; Tamil, Malayalam मन्दम्; Telugu मंदमु; Singhalese मन्द 'small'.  
 Bromine \[from Greek *bromos* bad smell + -*ine*\]-  
@@ -5287,7 +5287,7 @@ nitric भूयिक, boric टांकिक, cupric ताम्रिक.
 
  This suffix is originally Latin *-is*, plural -*ides,* which is a patronymic suffix, e.g., Nereid 'a daughter of Nereus'.
 
- Our counterpart is -एय, denoting 'origin or descent from, suitable for, etc.', as in कौन्तेय a son of कुन्ती; श्यामेय descended from श्याम; सभेय fit for an assembly सभा; व्रैहेयsown with व्रीहि;शैलेय rocky, produced in rocks शैल, etc. Examples are: antimonide अञ्जनेय, arsenide नेपाल्येय, chloride नीरेय, fluoride तरस्वेय, oxide जारेय, sulphide शुल्बेय, telluride वंगकेय.
+ Our counterpart is -एय, denoting 'origin or descent from, suitable for, etc.', as in कौन्तेय a son of कुन्ती; श्यामेय descended from श्याम; सभेय fit for an assembly सभा; व्रैहेयऽown with व्रीहि;शैलेय rocky, produced in rocks शैल, etc. Examples are: antimonide अञ्जनेय, arsenide नेपाल्येय, chloride नीरेय, fluoride तरस्वेय, oxide जारेय, sulphide शुल्बेय, telluride वंगकेय.
 
 ** -idine** is a compound suffix, -ide + -ine एय + ई = एयी (the final vowel of एय has been assimilated by पररूप).
 
@@ -5699,7 +5699,7 @@ portion of muscle, and the conservation of heat is secured by the nonconducting 
 
  The procedure followed in giving scientific names to birds is a simple one. If there be an ancient name of a species or subspecies, it is made the basis of the name of the genus (प्रजाति, and of the family if that be derived from the genus) to which it belongs, e. g., काक, the Common Indian House-Crow, yields काक-प्रजाति*Corvus*, the genus, and further काक-वंश *Corvidae*, the family.
 
- In the trinomial system the Common Indian House-Crow, itself, is the subspecies *Corvus splendenssplendens* सामान्य भस्मच्छवि काक. *Corvus splendens*, the species, is characterised by the ashy-brown colour of its nape, ear-coverts, head, upper back and breast. भस्म-च्छविsignifies the ashy-brown shade (भस्म ash, छवि colour). *Corvus splendens* भस्मच्छवि काक has four sub-species:*splendens, zugmayeri, insolens* and *protegatus*. The first, being the starting point, is designated by prefixing सामान्य'common' to भस्मच्छवि काक. The second, third and fourth sub-species are distributed over Sindh, Burma and Ceylon respectively and hence are particularised by prefixing सिन्धु, ब्राह्म and लंका respectively. Thus—
+ In the trinomial system the Common Indian House-Crow, itself, is the subspecies *Corvus splendenssplendens* सामान्य भस्मच्छवि काक. *Corvus splendens*, the species, is characterised by the ashy-brown colour of its nape, ear-coverts, head, upper back and breast. भस्म-च्छविऽignifies the ashy-brown shade (भस्म ash, छवि colour). *Corvus splendens* भस्मच्छवि काक has four sub-species:*splendens, zugmayeri, insolens* and *protegatus*. The first, being the starting point, is designated by prefixing सामान्य'common' to भस्मच्छवि काक. The second, third and fourth sub-species are distributed over Sindh, Burma and Ceylon respectively and hence are particularised by prefixing सिन्धु, ब्राह्म and लंका respectively. Thus—
 
 *Corvus splendens spiendens* **सामान्य भस्मच्छवि काक**  
 *Corvus splendens zugmayeri* **सिन्धु भस्मच्छवि काक**  

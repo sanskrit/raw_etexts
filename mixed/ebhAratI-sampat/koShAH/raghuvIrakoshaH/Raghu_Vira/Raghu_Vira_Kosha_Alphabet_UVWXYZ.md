@@ -3267,7 +3267,7 @@ venereal lympho-granuloma रति-लसीका-कणार्बुद
 venery** (act or practics of hunting) **मृगया** *f.*  
 **venesection** *Med.* **नीला-वेध** *m.,* **नीलावेधन** *n.* (cf. the ancient words सिरा-वेध, सिरावेधन)  
 **Venetian blue = cobalt blue  
-Venetian green** (acolour, green हरि in hue, of low अवsaturation and low नि brilliance) **न्यवहरि  
+Venetian green** (acolour, green हरि in hue, of low अवऽaturation and low नि brilliance) **न्यवहरि  
 Venetian lake = crimson lake  
 Venetian pink = blossom  
 Venetian red 1. = iron red, 2.**(3 colour, reddish red-yellow पीतातिरक्त in hue, of low
@@ -3435,7 +3435,7 @@ Juno's-tears, Mercury'smoist blood, persephonion; pigeon's grass, simpler's-joy,
 **verbena =frogfoot** (*Verbena officinalis*) **भेकपद** *m.*  
 **Verbenaceae** *Bot.* **भेकपद-कुल** *n.*  
 **verbena oil**(yielded by *Lippiacitriodora*—Willis p.388) **निम्बुवास-तैल  
-verbena violet** (a colour, reddish-blue नीलारक्त in hue, of low अवsaturation and
+verbena violet** (a colour, reddish-blue नीलारक्त in hue, of low अवऽaturation and
 
 high प्रbrilliance)**प्रावनीलारक्त**
 
@@ -3821,7 +3821,7 @@ veterinary science पशुचिकित्सा-विज्ञान,प�
 **Veterinary Service पशुचिकित्सा-सेवा  
 veterinary surgeon पशु-शल्यचिकित्सक  
 veterinary training पशुचिकित्सा-प्रशिक्षण  
-vetiver green** (a colour, greenish-yellow पीताहरि in hue, of low अबsaturation) **अवपीताहरि  
+vetiver green** (a colour, greenish-yellow पीताहरि in hue, of low अबऽaturation) **अवपीताहरि  
 Vetiveria** *Bot.* **उशीर-प्रजाति  
 Vetiveria zizanioides** (cuscus, khus khus,koosa) **सामान्य उशीर** (B., N., M. उशीर,Arab- *usir*)  
 **veto अभिषेध** *m.*  
@@ -4025,7 +4025,7 @@ saturation and low नि brilliance) **न्यवरक्तातिपी�
 **Vienna green 1.= Paris green 2.= emerald green 3.***Col. Ind.* **= new green  
 Vienna lake 1.=mineral red** *Col. Ind.***2.=carmine** (a colour, red रक्त in hue, of very high
 
-अधिsaturation, and low नि brilliance) **न्यधिरक्त**
+अधिऽaturation, and low नि brilliance) **न्यधिरक्त**
 
 **Vienna lime = Vienna white** *Col. Ind.*(calcium carbonate चूर्णातु प्रांगारीय obtained by exposing
 
@@ -4302,7 +4302,7 @@ Vipera berus** (viper) **सामान्य पृदाकु
 Vipera russelli** (Russell's viper) **मण्डली पुदाक** (मण्डली ancient word)  
 **Viperidae** *Zool.* **पृदाकु-वंश** *m.*  
 **viperiform** *adj.* **पृदाकुरूप  
-Viperinae** *Zool.* **पृदाकु-अनुवंश** *m.* (अनुवंशsubfamily)  
+Viperinae** *Zool.* **पृदाकु-अनुवंश** *m.* (अनुवंशऽubfamily)  
 **viral infection विषाणु-संक्रमण  
 virescens** *Bot. Tax.* (greenish) **आाहरि  
 vir et uxor** (husband and wife) **पति-पत्नी, दम्पती  
@@ -4789,7 +4789,7 @@ volcanic vent ज्वालामुखी-निर्गम
 volcanism ज्वालामुखीयता** *f.*  
 **volcanite** *Mineral. * (contains sulphurand selenium) **मेचगन्धिज** *m.* (मेच-for मेचाग्नि selenium,
 
-गन्ध- for गन्धकsulphur, -इज for खनिज mineral)
+गन्ध- for गन्धकऽulphur, -इज for खनिज mineral)
 
 **volcano ज्वालामुखी** *f.*  
 **volcanologist ज्वालामुखी-विज्ञ** *m.*  
@@ -5217,7 +5217,7 @@ wall-rue fern = wall-rue**
 wall thermometer भित्ति-तापमान  
 wallwort भित्तिरोप** *m.*  
 **walnut अक्षोट** *m.***, अखरोट  
-walnut brown** (a colour, yellowishred-yellow रक्त in hue, of low अवsaturation) **अवरक्तातिपीत  
+walnut brown** (a colour, yellowishred-yellow रक्त in hue, of low अवऽaturation) **अवरक्तातिपीत  
 walnut-wood अक्षोष्ट-काष्ठ, अखरोट की लकड़ी  
 walrus** (allied to the seals) **समुद्र-व्याघ्र** *m.* (seal जल-व्याघ्र)  
 **Walschaert's gear** *Rly.* (valve gear)**उत्केन्द्रचाल कपाट-यन्त्र  
@@ -5654,7 +5654,7 @@ water gauge जलामान** *m.*
 water goggles =marsh marigold**(*Caltha palustris*) **कच्छ-गेन्दुक** *m.*  
 **water gowan = marsh marigold**  
 **water grass जल-वास  
-water green** (a colour, greenish-yellow पीताहरि in hue, of low अवsaturation and high
+water green** (a colour, greenish-yellow पीताहरि in hue, of low अवऽaturation and high
 
 प्र brilliance)**प्रावपीताहरि**
 
@@ -7041,7 +7041,7 @@ mystic will गुप्त इच्छापत्र
 nuncupative will मौखिक इच्छापत्र  
 privileged will विशेषाधिकृत इच्छापत्र  
 separate will पृथग् इच्छापत्र  
-undutiful will = inofficious will  
+undutiful will = inofficious wi॥  
 unprivilcged will अविशेषाधिकृतइच्छापत्र  
 estate at will** (an estate at will iswhere lands and tenements are let by one man to another, tohave and to hold at the will ofthe lessor) **इच्छाश्रित संपदा**
 
@@ -7488,7 +7488,7 @@ witness** *n.* **साक्षी** (-इन्) *m.* (Const.)
 **witness** *vb.* **साक्ष देना  
 witness for defence प्रतिवाद के साक्षी  
 witness memo साक्षि-ज्ञाप  
-wittichenite शुताभिदिज** *m.* (शु- for शुल्वेयsulphide, ता- for ताम्र copper, भिद- forभिदातु bismuth,
+wittichenite शुताभिदिज** *m.* (शु- for शुल्वेयऽulphide, ता- for ताम्र copper, भिद- forभिदातु bismuth,
 
 -इज for खनिज mineral)
 

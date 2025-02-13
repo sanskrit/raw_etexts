@@ -6579,9 +6579,9 @@ XIII\.
 
  आकारसदृशप्रशःwhose intelligence was like (worthy of or suitable to) his form; so is सदृशto be interpreted in the next three lines of the verse.
 
- उदयःsuccess, fulfilment of a desired object. भीमकांतैः भीमेश्च कांतैश्च
+ उदयःऽuccess, fulfilment of a desired object. भीमकांतैः भीमेश्च कांतैश्च
 
- आमनोःsince (the time of) Manu.
+ आमनोःऽince (the time of) Manu.
 
  नियन्तृmeans a ruler or regulator (of men), and also a charioteer.
 
@@ -6759,7 +6759,7 @@ XVII(a).
 
  व्यवसायःप्रतिपत्तिनिष्ठुरःand yet your act of abandoning me) is cruel by reason of its determination. एतावत् only so far, ending here.
 
- करुणार्थग्रथितंstrung with a pathetic or piteous meaning, i. e. lamenting in a piteous manner.
+ करुणार्थग्रथितंऽtrung with a pathetic or piteous meaning, i. e. lamenting in a piteous manner.
 
  शाखारसःthe sap or juice exuding from the branches. तदंत्यमंडनांwhose last decoration was the celestial flowers themselves \[तत् = दिव्यकुसुमं\]. अनलाय विससर्ज consigned to fire.
 
@@ -6783,7 +6783,7 @@ XVIII\.
 
  व्यसनशतशरव्यतामुपगताःbecome the marks of (exposed to) hundreds of calamities.
 
- गुणपक्षंside of merits, representing even vices asvirtues.
+ गुणपक्षंऽide of merits, representing even vices asvirtues.
 
  आप्ततामापादयन्ति consider as their relative.
 
@@ -6813,7 +6813,7 @@ XX\.
 
  वेगेन rashly. उत्थान energy, activity.
 
- स्थानंstability, abiding in the same state.
+ स्थानंऽtability, abiding in the same state.
 
  असांप्रतम् in an improper manner.अभिपातिन् flying or running towards. तथागत adj. of that nature.
 
@@ -6837,7 +6837,7 @@ XXI\.
 
  पंचवर्गेणby the collection of the five, i. e. the five organsof sense.
 
- अन्विच्छेत्should search for.
+ अन्विच्छेत्ऽhould search for.
 
  असंत्यागात्&c. the same punishment awaits (falls to the lot of) those who are sinless, if they keep company with the sinful.
 
@@ -6985,7 +6985,7 @@ XXVI\.
 
  यं सनातनः पितरमुपागमत्स्वयं whom the internal Being (Vishnu) himself accepted as father (यस्य पितृत्वेनावतीर्णः).
 
- जुष्टःserved or waited upon by.
+ जुष्टःऽerved or waited upon by.
 
  इद्धबोधैःof sharp or bright intellect.
 
@@ -7029,7 +7029,7 @@ XXVII\.
 
  अमर्षशून्येन&c. for people do not mind at all whether a person, devoid of anger, friendly or inimical.
 
- रेणुरूषितःsoiled by dust. अकुप्यंconsisting of valuable metal.
+ रेणुरूषितःऽoiled by dust. अकुप्यंconsisting of valuable metal.
 
  अगजौwild, roaming over mountains.
 
@@ -7213,13 +7213,13 @@ XXXI\.
 
  काश्यपी the earth.
 
- अन्याstrange, extraordinary.
+ अन्याऽtrange, extraordinary.
 
  गिरां दवयिः everything of the good is beyond (the scope of) words, i. e. is indescribable.
 
  महाशयचक्रवर्तीthe lord (*i.e*. foremost) of the noble-minded.
 
- काश्मीरजंsaffron. लोकंपृणैःfilling the world.
+ काश्मीरजंऽaffron. लोकंपृणैःfilling the world.
 
  लीलाकुंठित...पुरो in the presence of persons who have easily plundered the plentiful treasures in the town Sarada (the Goddess of learning), i. e. very learned persons. शालावृकाः dogs.
 
@@ -7235,7 +7235,7 @@ XXXI\.
 
  गुणवत्ता, गुणजालैःhere गुण means good qualities and threads, soविवराणि cavities, holes and weak points. ऊर्णायु a spider.
 
- धर्मव्यथां वहतिsuffers the pain of heat.
+ धर्मव्यथां वहतिऽuffers the pain of heat.
 
  वदान्युगुरवे-दातृश्रेष्ठाय. अह्वाmanifestly, clearly.
 
@@ -7315,7 +7315,7 @@ III\.
 
  सुखं हि दुःखान्यनुभूय शोभते happiness, enjoyed after (suffering) miseries, appears pleasant or agreeable; cf. यदेवोपनतं दुःखात्सुखं तद्रसवत्तरं.
 
- प्रणयिजनःsupplicants.
+ प्रणयिजनःऽupplicants.
 
  संशुष्कसांद्रमदलेखं the copious lines of rut on which are driedup.
 
@@ -7359,7 +7359,7 @@ VI\.
 
  लेशतोपि दुर्लक्षां गतिमगमत् was reduced to a state (the nature of which could not be conceived in the least degree.
 
- स्वस्त्रीयःsister's son.
+ स्वस्त्रीयःऽister's son.
 
  दंडावयवthe materials for punishing his enemy (men & money).
 
@@ -7379,7 +7379,7 @@ VI\.
 
  हतजीविताकृष्टाdrawn by the desire of saving her wretchedlife.
 
- निरुपद्रवौsafe, free from injury.
+ निरुपद्रवौऽafe, free from injury.
 
  तत्र वयोवस्थामस्प्रक्ष्येतां would have attained to your age; would have grown as old as you.
 
@@ -7417,7 +7417,7 @@ VIII\.
 
  दक्षात्मजाद्वितयसंभवं born from the two daughters of Daksha (*i. e.*) मुनि and अरिष्टा.
 
- अधिको गुणैःsurpassing in virtues or qualities.
+ अधिको गुणैःऽurpassing in virtues or qualities.
 
  त्र्यंबकप्रतिबिंबकानि the pictures or likenesses of Tryambaka (drawn by Parvati on stones).
 
@@ -7657,7 +7657,7 @@ XIII\.
 
  धैर्यस्खलनविलक्षःashamed by reason of the tottering or failing of his natural strength of mind.
 
- तत्तदशोभनमाशंकमानःsuspecting various evils or calamities befalling him.
+ तत्तदशोभनमाशंकमानःऽuspecting various evils or calamities befalling him.
 
  स्पृहणीय चरितःof an enviable conduct.
 
@@ -7675,7 +7675,7 @@ XIII\.
 
  सुस्थोस्याशीविष &c. you are indeed happy inasmuch as you have not yet fallen within the range of the arrows of love which are as painful as the effect of serpent's poison. सुखं easily.
 
- अयत्नविधृताःsupported or sustained without effort.
+ अयत्नविधृताःऽupported or sustained without effort.
 
  ज्ञानावष्टंभसमयः the time for showing knowledge and restraint of mind प्रतिसंख्यानं consciousness.
 
@@ -7737,7 +7737,7 @@ XIV\.
 
  सौदामिनविलसितप्रतिमान् like (as frail as) the flashing of lightning.
 
- वंशवदाsubject too, under the influence of.
+ वंशवदाऽubject too, under the influence of.
 
  विफलतां व्यतानीत् was found to be fruitless or useless bypoets.
 
@@ -7779,7 +7779,7 @@ XVI\.
 
 **XVIII.**
 
- विरोचनेshines very much.
+ विरोचनेऽhines very much.
 
  अतिक्रमो misuse, abuse. रभसैःwith rash people.
 
@@ -7825,7 +7825,7 @@ XIX\.
 
  हर्ष the younger brother of राज्यवर्धन, the son of प्रभाकरवर्धन भल्लःa missile; an arrow.
 
- विपप्रथेspread, arose.
+ विपप्रथेऽpread, arose.
 
  दुःखासिका a feeling of pain.
 
@@ -7869,7 +7869,7 @@ XX
 
  इयामात्वंगं&c. I fancy your body (to be) in the Syama creepers *i. e*. I imagine those creepers to be like your body on account of their tenderness, suppleness &c., so are the other locatives to be interpreted.
 
- न ते सादृश्यमस्तिstill there is nothing which can bear (perfect) resemblance to you (your beauty is matchless).
+ न ते सादृश्यमस्तिऽtill there is nothing which can bear (perfect) resemblance to you (your beauty is matchless).
 
  प्रणयकुपितांangry through love, pretending to be angry. कर्तुं to draw, paint.
 
@@ -7881,7 +7881,7 @@ XX
 
  दक्षिणेन in a southerly direction.
 
- आत्मानमवलंवेsupport (sustain) myself.
+ आत्मानमवलंवेऽupport (sustain) myself.
 
  बहु विगणयन् thinking variously to myself.
 
@@ -7897,7 +7897,7 @@ XX
 
  स्नेहानाहुः&c. they say (but it is not true) that affections die away during separation; but owing to absence of enjoyment they are turned into a pile of love (grow into intense love), their taste for the desired object being heightened (by separation).
 
- उदग्रstrong, intense. कूटsummit or peak of a mountain.
+ उदग्रऽtrong, intense. कूटऽummit or peak of a mountain.
 
  प्रातः कुंदप्रसव the morning Kunda flower.
 
@@ -8039,7 +8039,7 @@ XXII\.
 
  अविद्याद्रुम the tree of worldly illusion. (माया) (आ upto and अविद्याillusion).
 
- सरणिः line, row. आलंबःsupport, prop.
+ सरणिः line, row. आलंबःऽupport, prop.
 
  स्फुरदलघुगर्वेण (मया) whose great pride is manifest.
 
@@ -8099,7 +8099,7 @@ XXII\.
 
  न्यक्कारःa matter of shame or disgrace.
 
- लोकार्थघटकाःstriving for (or bringing about) the interests of the people.
+ लोकार्थघटकाःऽtriving for (or bringing about) the interests of the people.
 
  प्रणयिनःlonging for, seeking to go to.
 
@@ -8187,9 +8187,9 @@ XXV\.
 
  नागयूथमलिनानिdark like herds of (furious and intoxicated) elephants.
 
- व्यसरत्spread, pervaded.
+ व्यसरत्ऽpread, pervaded.
 
- पटुstrong, thick, intensified (at sunset ).
+ पटुऽtrong, thick, intensified (at sunset ).
 
  अभक्त गुहाःentered the caves.
 
@@ -8199,7 +8199,7 @@ XXV\.
 
  यः= ग्रहगणः द्युतिमगृहीत् obtained lustre, began to shine.
 
- व्यवहितseparated, hidden.
+ व्यवहितऽeparated, hidden.
 
  अप्रकाशदशनंthe teeth of which are invisible.
 
@@ -8275,7 +8275,7 @@ XXVI\.
 
  आश्रयंतिresorting to me; the meaning is that when a person has recourse to desire, he must bid adieu to qualities like
 
-modesty, self-respect, calmness of mind &c. रक्ताक्तsmeared with blood.
+modesty, self-respect, calmness of mind &c. रक्ताक्तऽmeared with blood.
 
  बदरीधिया mistaking it for a jujube.
 
@@ -8571,7 +8571,7 @@ VI\.
 
  क्षेत्रिणं a (nominal) husband.
 
- दूराधिरोहिणिsoaring very high, *i. e*. aspiring to the dignityof his queen.
+ दूराधिरोहिणिऽoaring very high, *i. e*. aspiring to the dignityof his queen.
 
  कृताभिमर्षी सुतामनुमन्यमानः approving of his daughter who had been seduced (with whom you had carnal intercourse).
 
@@ -8641,7 +8641,7 @@ VII\.
 
  अथ तु but if. परपरिग्रह the wife of another.
 
- यदा—तदाsince-because, so—therefore.
+ यदा—तदाऽince-because, so—therefore.
 
  अन्यसंगात्by reason of union with another (wife).
 
@@ -8709,11 +8709,11 @@ X.
 
  संभृतंproduced. नुबंधिthriving, growing apace.
 
- प्रणयापहारिषुsnatching away out of attachment.
+ प्रणयापहारिषुऽnatching away out of attachment.
 
  पापवृत्तये न रूपं a lovely form does not tend to a sinful behaviour.
 
- विकीर्णसप्तर्षिबलिप्रवासिभिःsmiling with the scattered offerings of flowers made by the seven sages.
+ विकीर्णसप्तर्षिबलिप्रवासिभिःऽmiling with the scattered offerings of flowers made by the seven sages.
 
  न मां परं संप्रतिपत्तुमर्हसि you should not look upon me as a stranger.
 
@@ -8723,7 +8723,7 @@ X.
 
  प्रतिपत्तिःcourse of conduct, action.
 
- विचारमार्गप्रहितेनSet a thinking, (lit. set to the course of thought).
+ विचारमार्गप्रहितेनऽet a thinking, (lit. set to the course of thought).
 
  अलभ्यशोकाभिभवा incapable of being affected or subjected bygrief.
 
@@ -8747,7 +8747,7 @@ X.
 
  प्रविश्यhaving penetrated into her inmost thoughts.
 
- विवर्तितानंजननेत्रंso as to turn (towards her) her eyes which were devoid of collyrium.
+ विवर्तितानंजननेत्रंऽo as to turn (towards her) her eyes which were devoid of collyrium.
 
  चतुर्दिगीशान् lords of the four quarters, *i.e.* इंद्र, वरुण, यम &कुबेर.
 
@@ -8877,7 +8877,7 @@ XII\.
 
  स्वांगभंगाय so as to injure their own bodies.
 
- लंघयेयुःshould attack or fall upon.
+ लंघयेयुःऽhould attack or fall upon.
 
  मुक्ताध्वानं being ont of their way.
 
@@ -8963,7 +8963,7 @@ solidified. अग्रयायी leading the way. प्रसविproducin
 
  अपृथगाशयां whose heart (or abode if we accept आश्रय as the reading) was not different from mine. सैनिकa butcher.
 
- स्वैरंslowly, gently.
+ स्वैरंऽlowly, gently.
 
  अपूर्वकर्मचांडालं a Chandala or villain of unprecedented deeds.
 
@@ -9093,7 +9093,7 @@ XVIII\.
 
  श्रुतसंयोगविपर्ययौare known to be subject to union and separation, or rather, subject to the reverse of union, i. e. separation.
 
- बाह्यैर्विषयेर्विरहःseparation from external objects (such as wife, children, wealth etc. ).
+ बाह्यैर्विषयेर्विरहःऽeparation from external objects (such as wife, children, wealth etc. ).
 
 XIX\.
 
@@ -9195,7 +9195,7 @@ XXII\.
 
  आलोकयितुंto greet, express their congratulations.
 
- अवधीरितsurpassed, eclipsed.
+ अवधीरितऽurpassed, eclipsed.
 
  संकटेनुवर्तमानस्यbeing under the collective or simultaneousinfluence of.
 
@@ -9223,7 +9223,7 @@ XXII\.
 
 XXIII\.
 
- निदाघार्ताःscorched by heat.
+ निदाघार्ताःऽcorched by heat.
 
  छायावृक्ष a tree that affords shade. च-च as soon as.
 
@@ -9333,7 +9333,7 @@ enemies, howsoever great, if it tends to his ultimate ruin, but not at their dec
 
  अनीहया अनुपालयतां who slothfully or carelessly neglect.
 
- समृद्धये उत्थितंstriving for elevation or prosperity.
+ समृद्धये उत्थितंऽtriving for elevation or prosperity.
 
  कृतपंचांगविनिर्णयः(employed) in its five parts or divisions.
 
@@ -9369,13 +9369,13 @@ XXVI\.
 
  शोण red.परिपणन plighting, promising.
 
- उपगृहीतsupported, favoured.
+ उपगृहीतऽupported, favoured.
 
  सर्वलोकप्रकाशंin the presence of all people, in such a way as to be seen or heard by all people.
 
  शस्त्रं धारयामिretain office (as minister).
 
- अगृहीते राक्षसेso long as Rakshasa is not won over.
+ अगृहीते राक्षसेऽo long as Rakshasa is not won over.
 
  निरतिशयःunsurpassed, unexcelled.
 
@@ -9459,7 +9459,7 @@ XXVII\.
 
  सखा गरीयान्&c. an artificial friend and an artificial foe are preferable; for they become so by the force of circumstances (i. e. by favours shown or injuries done), whereas natural and ordinary friends and foes may become enemies or friends (as may suit their particular purpose).
 
- संधिःsoil. कार्यः लक्षणं लक्ष्यं should be regarded as the characteristic or distinguishing marks (of the two).
+ संधिःऽoil. कार्यः लक्षणं लक्ष्यं should be regarded as the characteristic or distinguishing marks (of the two).
 
  विप्रकृतःoffended.
 
@@ -9487,7 +9487,7 @@ XXVII\.
 
  कथंकारंin what manner, how?
 
- क्षिप्तscattered, killed.
+ क्षिप्तऽcattered, killed.
 
  मृगलांछनःमृगाधिपः soil इति उच्यते (शत्रौ मार्दवं दुष्कीर्तये पौरुषं तु कीर्तये भवति).
 
@@ -9553,7 +9553,7 @@ XXIX\.
 
  साध्यmeans (1) capable of being vanquished or subdued (as an enemy), and (2) curable (as a disease).
 
- गुणवदगुणवद्वा whether good or bad, (important or not). पर्युषितंstale, not fresh.
+ गुणवदगुणवद्वा whether good or bad, (important or not). पर्युषितंऽtale, not fresh.
 
  उन्मार्गंastray (figuratively also).
 
@@ -9565,7 +9565,7 @@ XXIX\.
 
  अंतर्धनंhidden or secret treasure.
 
- तुष्टेःsoil तैः बद्धं composed.
+ तुष्टेःऽoil तैः बद्धं composed.
 
  तदलघुthat (well-known) and important or great.
 
@@ -9697,7 +9697,7 @@ along with Lakshmi, the moon, deadly poison &c.); चांचल्यमुच
 
  पुष्पवंतौ the sun and the moon.
 
- विश्वानंदोपचयचतुःskilled in adding to the delight of the world.
+ विश्वानंदोपचयचतुःऽkilled in adding to the delight of the world.
 
 ————
 

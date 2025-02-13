@@ -752,7 +752,7 @@ Even if one among the planets Sun, Saturn, Mercury and Venus be placed in the as
 
 1.Compare-(1)षट्पंचशिका Chapter II, Slokas 10 and 8.  
 
-(2)प्रश्नज्ञानSloka 15 to 16.  
+(2)प्रश्नज्ञानऽloka 15 to 16.  
 
 (3)प्रश्नशिरोमणि Chapter 1, Sloka 25.
 

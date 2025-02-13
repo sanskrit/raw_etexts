@@ -8783,7 +8783,7 @@ railway risk संयान-दायित्व
 **own right स्वाधिकार** *m.*  
 **owyheeite रस्यंशिज** *m.* (र- for रजत silver, सी- for सीस lead, अं-for अञ्जन antimony, श- for
 
-शुल्बेयsulphide, -इज for खनिज mineral)
+शुल्बेयऽulphide, -इज for खनिज mineral)
 
 **ox वृषभ** *m.*, **बैल**  
 **ox-, oxal-** (*ox*alic) *Chem.* **तिग्म-**(तिग्मिक)  

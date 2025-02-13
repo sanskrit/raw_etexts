@@ -41,7 +41,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM5MzAxNDQwNzQ
 **"विन्ध्यमन्दरसारोऽयं बालः पद्मदलेक्षणः।  
 गर्भे यया धृतः श्रीमानहो धैर्येहि योषितः॥१२॥"**
 
-of the first Act the sentence "अहो धैर्ये हि योषितः" must be explained by supplying the ellipsis तस्याःsuggested by the word यया. In so doing we have to lose the elegance of the meaning of the sentence denoted by the particle हिthat it is a general enunciation of a case deduced from a particular one: Hence the reading should be ''गर्भेऽनया धृतः''. 'य' might have been ignorantly inserted in the original manuscript by the scribe in the place of 'न'. 'अनया' means 'देवक्या'.
+of the first Act the sentence "अहो धैर्ये हि योषितः" must be explained by supplying the ellipsis तस्याःऽuggested by the word यया. In so doing we have to lose the elegance of the meaning of the sentence denoted by the particle हिthat it is a general enunciation of a case deduced from a particular one: Hence the reading should be ''गर्भेऽनया धृतः''. 'य' might have been ignorantly inserted in the original manuscript by the scribe in the place of 'न'. 'अनया' means 'देवक्या'.
 
 TRIVANDRUM.
 

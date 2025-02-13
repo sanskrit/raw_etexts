@@ -286,7 +286,7 @@ With these preliminary remarks I proceed to aconsideration of individual names f
 
 **अन्यो महान् राजशुकः शतपत्रो निगद्यते--धन्वन्तरि**
 
-No Indian Parrot has red legs and the epitlet **रक्तपाद** for one may be rendered as 'red-marked**पाद :चिह्न: अङ्क--वैजयन्ती**and **विश्व**) and in this senseit should belong to this bird after the conspicuous red wing patches rather than the colour of the feet. The Blossom-headedParoquet also has a small and inconspicuous red spot on the wing but is better named **कृष्णाङ्ग शुक** after its deep purplish-red head. Other poetic names for this birds are **प्राज्ञ, वाग्मिन्, नृपप्रिय**, etc.
+No Indian Parrot has red legs and the epitlet **रक्तपाद** for one may be rendered as 'red-marked**पाद :चिह्नः अङ्क--वैजयन्ती**and **विश्व**) and in this senseit should belong to this bird after the conspicuous red wing patches rather than the colour of the feet. The Blossom-headedParoquet also has a small and inconspicuous red spot on the wing but is better named **कृष्णाङ्ग शुक** after its deep purplish-red head. Other poetic names for this birds are **प्राज्ञ, वाग्मिन्, नृपप्रिय**, etc.
 
 2. The Rose-ringed Paroquet (16") is the commonest and by far the most numerous of all and, as it moves in large flocks, it is the one that is responsible for a major part of the total damage caused to the crops by all the Parrots put together. It is the **बाहुज शुक (बाहुल्येन अतिशयेन जातः**,very prolific?) of the lexicons but its proper name is **काष्ठशुक** (wild or inferior), both according to **वसन्तराज, हंसादिप्रकरण**verse 15, and **केशव** and **सायणाचार्य** is already pointed out above. Its Hindi **कठेल सुआ** is an exact rendering of **काष्ठ-शुक**.
 

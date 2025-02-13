@@ -2144,7 +2144,7 @@ If a fixed sign is rising at the time of Prasna, he will see definite good omens
 
 **चन्द्रं पश्यन्ति पुंखेटास्तेन युक्ता भवन्ति चेत्।**
 
-**तद्भार्या दुर्जनीभूयादितिशास्त्रविदो विदुः॥२९०।।**
+**तद्भार्या दुर्जनीभूयादितिशास्त्रविदो विदुः॥२९०॥**
 
  If male planets are either associated with or aspecting the Moon, the person's wife wil be unchaste. 290
 

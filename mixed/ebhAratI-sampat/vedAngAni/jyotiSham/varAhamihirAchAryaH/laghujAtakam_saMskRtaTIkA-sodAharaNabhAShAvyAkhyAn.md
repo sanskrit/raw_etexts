@@ -206,8 +206,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDkzNTE4MTIzNTE
              ४८  जातक के गुण-वर्णादि
 
                                    
-            ४८  पिता के परोक्ष में जन्म
-
+            ४८  पिता के परोक्ष में जम््म
                                    
             ४९ परजात जन्मयोग
 

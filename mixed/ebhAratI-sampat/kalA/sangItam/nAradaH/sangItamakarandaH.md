@@ -132,7 +132,7 @@ above principle. In that system the Ragas are divided according to the different
 
  Our author seems to have been different from the Narada Rishi of the Purinas as his name is mentioned by our author in the *Mangala* verse 2 on page 1.
 
-  Our author dividessounds musical sounds into five kinds viz 1नखज sound produced by playing Vinâ strings with nails, 2 वायुजsound produced by means of wind through wind instruments, 3 चर्मज produced by means of leather through instruments, such as drums, &c, 4 लोहज sound produced by metal pieces, such as cymbals &c, 5 शारीरज sound produced by the human throat As far as I know none of the punted ancient works introduce this peculiar division of Musical sounds
+  Our author dividessounds musical sounds into five kinds viz 1नखज sound produced by playing Vinâ strings with nails, 2 वायुजऽound produced by means of wind through wind instruments, 3 चर्मज produced by means of leather through instruments, such as drums, &c, 4 लोहज sound produced by metal pieces, such as cymbals &c, 5 शारीरज sound produced by the human throat As far as I know none of the punted ancient works introduce this peculiar division of Musical sounds
 
  The families, castes, colours Dweepas (birth-places), Rishis, deities, Chhandas metres), Gottras, constellations, Rasis (zodiac signs), Grahas (planets) and Rasas (sentiment) of the sevennotes are mentioned m this work[^5]. These are not mentioned in Bharatas *Natya Sastra* But Sarngadeva has extracted all these in his *Sangita Ratnakara,* except the Gottras, constellations, Rasis and planets[^6]
 

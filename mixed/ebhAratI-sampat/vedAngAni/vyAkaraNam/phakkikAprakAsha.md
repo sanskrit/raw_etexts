@@ -8,7 +8,7 @@ language = "संस्कृतम्"
 source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3MjAwODMz"
 
 +++
-[[फक्किकाप्रकाश:	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3MjAwODMz)]]
+[[फक्किकाप्रकाशः	Source: [EB](https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3MjAwODMz)]]
 
 \[
 

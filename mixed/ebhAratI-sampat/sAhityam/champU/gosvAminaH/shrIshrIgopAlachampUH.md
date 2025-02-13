@@ -11778,7 +11778,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc4OTk1NjM2
 
 
 
-। ।१,१६.१२ । । ंईऽSईण्ङ्!
+। ।१,१६.१२ । । ंईऽऽईण्ङ्!
 
 
 
@@ -16242,7 +16242,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc4OTk1NjM2
 
 
 
-। ।१,२१.२७ । । ंईऽSईण्ङ्!
+। ।१,२१.२७ । । ंईऽऽईण्ङ्!
 
 
 
@@ -16344,7 +16344,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc4OTk1NjM2
 
 
 
-। ।१,२१.३४ । । ंईऽSईण्ङ्!
+। ।१,२१.३४ । । ंईऽऽईण्ङ्!
 
 
 
@@ -17590,7 +17590,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc4OTk1NjM2
 
 
 
-। ।१,२२.४५ । । ंईऽSईण्ङ्!
+। ।१,२२.४५ । । ंईऽऽईण्ङ्!
 
 
 
@@ -22296,7 +22296,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc4OTk1NjM2
 
 
 
-। ।१,३१.५० । । ंईऽSईण्ङ्!
+। ।१,३१.५० । । ंईऽऽईण्ङ्!
 
 
 
@@ -23245,7 +23245,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc4OTk1NjM2
 
 
 
-। ।१,३३.४५ । । ंईऽSईण्ङ्!
+। ।१,३३.४५ । । ंईऽऽईण्ङ्!
 
 
 
@@ -24099,7 +24099,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=Njc4OTk1NjM2
 
 
 
-। ।१,३३.९६ । । ंईऽSईण्ङ्!
+। ।१,३३.९६ । । ंईऽऽईण्ङ्!
 
 
 

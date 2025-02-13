@@ -76,7 +76,7 @@ or setting on foot of the enterprise,(2) यत्न effort, (3) प्रा�
 
 [^7]: "अङ्कान्तपात्रैरङ्कास्यं छिन्नाङ्कस्यार्थसूचनात्।."
 
-end of the 3rd Act of the Mal.-Madh. (4)अङ्कावतार[^8]consists in implanting the seed of the subject-matter of an Act in the previous Act before it has drawn to its close, so that the Act following is a continuation of the one preceding; e.g., the sixth Act of the Sâk., the germ of which is cast at the end of the fifth Act; Mâlav.II. and Mâl.Mâd.II, are other instances. (5) For प्रवेशकsee notes Act IV.
+end of the 3rd Act of the Mal.-Madh. (4)अङ्कावतार[^8]consists in implanting the seed of the subject-matter of an Act in the previous Act before it has drawn to its close, so that the Act following is a continuation of the one preceding; e.g., the sixth Act of the Sâk., the germ of which is cast at the end of the fifth Act; Mâlav.II. and Mâl.Mâd.II, are other instances. (5) For प्रवेशकऽee notes Act IV.
 
 [^8]: "अङ्कावतारस्त्वङ्कान्ते पातोङ्कस्याविभागतः। The distinction, however, between an Ankâsya and an Ankâvatâra, is considered by some as merely imaginary. Viśvanâtha actually supplants the latter by Ankamukha which he defines as that where in one Act the substance of all the other Acts is suggested."
 

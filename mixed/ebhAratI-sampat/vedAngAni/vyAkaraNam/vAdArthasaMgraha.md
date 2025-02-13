@@ -8,7 +8,7 @@ language = "संस्कृतम्"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjMwOTg2NTA3NDM2OTMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
-[[वादार्थसंग्रह:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMwOTg2NTA3NDM2OTMz&pageno=MjI0MjQyNjk5NTk=)]]
+[[वादार्थसंग्रहः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=NjMwOTg2NTA3NDM2OTMz&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
 

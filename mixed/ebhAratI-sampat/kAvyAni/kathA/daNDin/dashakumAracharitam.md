@@ -550,7 +550,7 @@ Literature in the domain of Alaṃkâra that we have is to be found in the citat
 
  These two references appear to us to point to a time when Jainism was powerful enough to make converts.
 
- Prof. Wilson also notices (p. 19, Introduction) the incident of the intention to defraud a Yavana merchant of the fair price of a valuable diamond,. (**p. 77, l. 18**). The name of the Yavana merchant in the Bombay recension is Khaniti and it is possibly formed, as hinted in the notes, of the two words खान + इति (खानेति ) which by a slight elongation of the Mâtrâ or mark ove नso as to be joined to the perpendicular mâtrâ after खmight have been copied to look as खनिति. If this was so, then Khâna would clearly be an Arabic or Persian name. In the Southern recension, the name of the Yavana trader is written as असभीति which might be असफ्—इति. In éither case, the reference is not to some Greek but to an Arabic or Persian name.
+ Prof. Wilson also notices (p. 19, Introduction) the incident of the intention to defraud a Yavana merchant of the fair price of a valuable diamond,. (**p. 77, l. 18**). The name of the Yavana merchant in the Bombay recension is Khaniti and it is possibly formed, as hinted in the notes, of the two words खान + इति (खानेति ) which by a slight elongation of the Mâtrâ or mark ove नऽo as to be joined to the perpendicular mâtrâ after खmight have been copied to look as खनिति. If this was so, then Khâna would clearly be an Arabic or Persian name. In the Southern recension, the name of the Yavana trader is written as असभीति which might be असफ्—इति. In éither case, the reference is not to some Greek but to an Arabic or Persian name.
 
  40.Another allusion to a Yavana trader is found in the Sixth Uchchhvâsa **(p. 106, 1. 24)** where Mitragupta is picked up by a Yavana ship of which Râmeshu was the captain. Though the name cannot be connected with any Arabic or Persian name in familiar use, there is no doubt that he was a Persian, since there is a reference in the next sentence to watering a thousand grape-plants (**p. 107, l. 1**). The use of the word Yavana may, moreover, be noted, since according to Sir R. G. Bhandarkar “the Mahomedans were for some time after the conquest of the country by them called Śakas by some of the Sanskrit writers and the name Yavana to designate them came into more general use afterwards,”(Report for the Search of Sanskrit Manuscripts for the years 1887-1891, p. lxviii). Thus the word Yavana stands not for a Greek but for a Mahomedan.
 
@@ -1073,7 +1073,7 @@ the stories in question, however inconsistent with his religious meditations” 
 
 ———————————————————————————————————————————
 
- 1. सहोपगत्य W.,C.—2. समस्त एष W., C.— समुपागतः A., S.—3. ^(°)उपचारमु^(°) S., A^(r).— 4 हर्षकाम्पितपलितं C., S. W. Bhû.; हर्षनिभृततर Ms. W. note; हर्षनिर्भररभसो^(°) G.— 5. सहसोपगूढःS.
+ 1. सहोपगत्य W.,C.—2. समस्त एष W., C.— समुपागतः A., S.—3. ^(°)उपचारमु^(°) S., A^(r).— 4 हर्षकाम्पितपलितं C., S. W. Bhû.; हर्षनिभृततर Ms. W. note; हर्षनिर्भररभसो^(°) G.— 5. सहसोपगूढःऽ.
 
 **।द्वितीय उच्छ्वासः।**
 
@@ -1208,7 +1208,7 @@ the stories in question, however inconsistent with his religious meditations” 
 
 —————————————————————————————————————————
 
- 3. नियतलिखिते W.— 4. यापितायाःW; पुनःपुनःप्रणय^(º) C., S., G.; but wrong on account of आस्वादमास्वादं.— 6. अनुचितकर्मसु S.; उपचित^(º)Bhû.— 7. तदहं G., S.— 9. धूर्तया धात्र्या S.—11. यवावगाह्यS., W., C., G.; we accdg to Bhu andPa^(d); अपिom. W.— 12. घूर्णमानताम्र^(º)G. S.— 16. प्रथिततरं चमया G.,S.— 19. तारयिष्यन्तीति W., G.; ^(º)तीति C.;—20. अवादिषं W .; या त्वं G.  
+ 3. नियतलिखिते W.— 4. यापितायाःW; पुनःपुनःप्रणय^(º) C., S., G.; but wrong on account of आस्वादमास्वादं.— 6. अनुचितकर्मसु S.; उपचित^(º)Bhû.— 7. तदहं G., S.— 9. धूर्तया धात्र्या S.—11. यवावगाह्यऽ., W., C., G.; we accdg to Bhu andPa^(d); अपिom. W.— 12. घूर्णमानताम्र^(º)G. S.— 16. प्रथिततरं चमया G.,S.— 19. तारयिष्यन्तीति W., G.; ^(º)तीति C.;—20. अवादिषं W .; या त्वं G.  
    8 \[D. K. \]
 
 साराभरणापहारादहमद्य निःशल्यमुत्सृजेयं जीवितमिति। सा पुनरुद्धटितज्ञा परमधूर्तासाश्रुगद्गदमुदञ्जलिस्तान्पुरुषान्सप्रणाममासादितवती सामपूर्वं मम पुरस्तादयाचत। भद्रकाः प्रतीक्षध्वं कंचित्कालं यावदस्मादस्मदीयं सर्वं मुषितमर्थजातमवगच्छेयमिति। तथेति तैः प्रति- 5 पन्ने पुनर्मत्समीपमासाद्य सौम्य क्षमस्वास्य दासीजनस्यैकमपराधम्। अस्तु सकामं त्वत्कलत्राभिमर्शी वैरास्पदं धनमित्रः। स्मरंस्तु चिरकृतां ते परिचर्यामनुग्रहीतुमर्हसि दासीं रागमञ्जरीम्।आकल्पसारो हि रूपाजीवोजनः। तद्ब्रूहि क्वनिहितं तस्या भूषणमिति पादयोरपतत्। ततो दयमान इवाहमब्रवम्। भवतु मृत्युहस्तवर्तिनः 10 किं ममामुष्या वैरानुबन्धेनेति। तद्ब्रुवन्निव कर्ण एवैनामशिक्षयमेवमेव प्रतिपत्तव्यमिति। सा तु प्रतिपन्नार्थेव जीव चिरं प्रसीदन्तु ते देवता देवोप्यङ्गराजः पौरुषप्रीतो मोचयतु त्वामेतेऽपि भद्रमुखास्तत्व दयन्तामिति क्षणादपासरत्। आनीये चाहमारक्षिकनायकस्य शासनाच्चारकम्।
@@ -1231,7 +1231,7 @@ the stories in question, however inconsistent with his religious meditations” 
 
 —————————————————————————————————————————
 
-1. कुहरमसक्त^(º)W. C. ; प्रसक्तकुहर S., Bhû. Ah^(d).; कुहर^(º) om. G.; we accdg to Pa^(d); धन्यंमन्यः पुरा W.— 3. संकल्पयेत Pad.—5. सन्दिग्ध^(º) C. W.— 6. ^(º)वरांशुक^(º) S, W.; C; पेटिकां W, Bhû.; Pad, pr. m. वङ्गेलिकां Pa^(d)sec. m.; चङ्गोरिकi Ah^(d); चेकरिकां G.; चांपेटिकां S. pr. m.; चपेटिकां C.—8. च om. W.— 10. तत्प्रार्थितं S.—12. छन्नमेव प्राक्षिपं W; अपाविध्यं C.; अपविद्धानिS.; we accdg, to G. and the three Com.—13. कम्यार्थमित्युपायनानिछन्नमेवप्रक्षिपम् M.— 14 स एव om. W, C, S.— 17. इयं om. W.— 19. उत्सेत्स्यति Pa^(d).
+1. कुहरमसक्त^(º)W. C. ; प्रसक्तकुहर S., Bhû. Ah^(d).; कुहर^(º) om. G.; we accdg to Pa^(d); धन्यंमन्यः पुरा W.— 3. संकल्पयेत Pad.—5. सन्दिग्ध^(º) C. W.— 6. ^(º)वरांशुक^(º) S, W.; C; पेटिकां W, Bhû.; Pad, pr. m. वङ्गेलिकां Pa^(d)sec. m.; चङ्गोरिकi Ah^(d); चेकरिकां G.; चांपेटिकां S. pr. m.; चपेटिकां C.—8. च om. W.— 10. तत्प्रार्थितं S.—12. छन्नमेव प्राक्षिपं W; अपाविध्यं C.; अपविद्धानिऽ.; we accdg, to G. and the three Com.—13. कम्यार्थमित्युपायनानिछन्नमेवप्रक्षिपम् M.— 14 स एव om. W, C, S.— 17. इयं om. W.— 19. उत्सेत्स्यति Pa^(d).
 
 केनचित्तु हस्तवतैकागारिकेण तावतींसुरुङ्गां कारयित्वा प्रविष्टस्योपवनं तवोपरिष्टादस्मदायत्तैव रक्षा।रक्ततरो हि तस्याः परिजनो न रहस्यं भेत्स्यतीति। सोऽब्रवीत्। साधु भद्रे दर्शितम्। अस्ति कश्चित्तस्करः खननकर्मणि सगरसुतानामिवान्यतमः। स चेल्लब्धः क्षणेनै- 5 तत्कर्म साधयिष्यतीति। कतमोसौ किमिति न लभ्यत इति मयोक्ते येन तद्धनमित्रस्य चर्मरत्नं मुषितमिति त्वामेव स निरदिक्षत्। यद्येवमेहि त्वयास्मिन्कर्मणि साधिते चित्रैरुपायैस्त्वामहं मोचयिष्यामीति शपथपूर्वं तेनाभिसंधाय सिद्धेऽर्थे भूयोपि निगडयित्वा योसौ चौरः स सर्वथोपक्रान्तो न तु धार्ष्ट्यभूमिः प्रकृष्टवैरस्तदजिनरत्नं 10 दर्शयिष्यतीति राज्ञे विज्ञाप्य चित्रमेनं हनिष्यसि। तथा च सत्यर्थः सिध्यति रहस्यं च न स्रवतीति मयोक्ते सोऽतिहृष्टः प्रतिपद्य मामेव त्वदुपप्रलोभने नियुज्य बहिरवस्थितः। प्राप्तरूपमतः परं चिन्त्यतामिति।
 
@@ -1308,7 +1308,7 @@ the stories in question, however inconsistent with his religious meditations” 
 
 —————————————————————————————————————————
 
- 3. चामुष्य S, C, W, A^(r).—5. अपि om. S.—6. वृत्तान्तं G.; वृत्तान्तं जातं W.; वृत्तजातं C; we accdg to S. & Pa^(d); त्वयैव बोध्यः Pa^(d).—9. पिचुंमर्दः W, C.—15. मद्यमेकान्ते S. G.— 17. येन देवे C, S, W, A^(r), om. G.—18. च्चित्नतमं W. G. S. sec. m, C.A^(r).—20. भगवानपि —केतरेव W.; एवं न सुकरःS, A^(r); अपि om. C.—21. शक्यमेवं S, W.
+ 3. चामुष्य S, C, W, A^(r).—5. अपि om. S.—6. वृत्तान्तं G.; वृत्तान्तं जातं W.; वृत्तजातं C; we accdg to S. & Pa^(d); त्वयैव बोध्यः Pa^(d).—9. पिचुंमर्दः W, C.—15. मद्यमेकान्ते S. G.— 17. येन देवे C, S, W, A^(r), om. G.—18. च्चित्नतमं W. G. S. sec. m, C.A^(r).—20. भगवानपि —केतरेव W.; एवं न सुकरःऽ, A^(r); अपि om. C.—21. शक्यमेवं S, W.
 
 किं लप्स्यत इति। तयोक्तम्।अम्ब किं ब्रवीमि। शरीरं हृदयं जीवितमिति सर्वमिदमत्पमनर्हं च। ततो न किंचिल्लप्स्यते। न चेदयं विप्रलम्भः स्यादमुष्य दर्शनानुभवेन यथेदं चक्षुश्चरितार्थं भवेत्तथानुग्रहः कार्य इति। भूयोपि मया दृढतरीकर्तुमुपन्यस्तम्। अस्ति 5 कोपि राजसूनुरवरुद्धश्चरन्। अमुष्य वसन्तोत्सवे सह सखीभिर्नगरोपवनविहारिणी रतिरिव विग्रहिणी यदृच्छया दर्शनपथं गतासि। गतश्चासौकामशरैरेकलक्ष्यतां मामन्ववर्तिष्ट। मया च वामन्योन्यानुरूपरैन्यदुर्लभैराकारादिभिर्गुणातिशयैश्चप्रेर्यमाणया तद्रचितैरेव शेखरस्रगनुलेप-नादिभिश्चचिरमुपासितासि। सादृश्यं च स्वमनने स्वय- 10 मेवाभिलिख्य त्वत्समाधिगाढत्वदर्शनाय प्रेषितम्। एष वेदर्थो निश्चितः स्यादमुष्यातिमानुषप्राणसत्त्वप्रज्ञाप्रकर्षस्य न किंचिद्दुष्करं नाम। तमद्यैव दर्शयेयम् \। संकेतो देय इति। तया तु किंचिदिव ध्यात्वा पुनरभिहितम्। अम्ब नैतदिदानीं गोप्यतममतः कथयामि। मम तातस्य राज्ञा प्रहारवर्मणा सह महती प्रीतिरासीन्मातुश्च मे मानवत्याः 15 प्रियवयस्या देवी प्रियंवदासीत्। ताभ्यां पुनरजातापत्याभ्यामेव कृतः समयोभूत्। आवयोः पुत्रवत्याः पुत्राय दुहितृमल्या दुहिता देयेति। तातस्तु मां जातां नष्टापत्या प्रियंवदेति प्रार्थयमानाय विकटवर्मणे दैवाद्दत्तवान्। अयं च निधुरः पितृद्रोही नात्युपपन्नसंस्थानः कामोपचारेष्वलब्धवैचक्षण्यः कलासु काव्यनाटकादिषु मन्दाभिनिवेशः 20 शौर्योन्मादी दुर्विकत्थनोनृतवादी चास्थानवर्षी। नातिरोचते ममैष भर्ता विशेषतश्चैषु वासरेषु। यदयमुद्याने मदन्तरङ्गभूतां पुष्करिकामप्युपान्तवर्तिनीमना-दृत्य मय्याबद्धसापत्न्यमत्सरामनात्मज्ञामात्म-
 
@@ -1344,7 +1344,7 @@ the stories in question, however inconsistent with his religious meditations” 
 
 —————————————————————————————————————————
 
- 1. कदर्थिता Pa^(d), which gives the preceding and following nouns in the nominative instead of in the accusative.— 2. अपाङ्गवीक्षितैः C., S., W, A^(r).—अपाङ्गवृष्टिभिःG.; we acclg toPa^(d).—4. अतिमश्चखुल^(°) W. against all Mss. &Com.—6. संख्यरथ^(º)Ah^(d).—8. मकरकेतुःS., C., W, एष एव C., S.,A^(r).—एष अस्य W.—11. चानङ्ग^(°)om. W.—अनङ्ग^(°) om. C., S.; ^(º)पेशलवि^(º)Pa^(d).—अवसितार्था— अनुभवन्तौ om. W.—16 तदा तदा वियोगकाले समायाते अहं W.; अतिगूढ Pa^(d).—17. "दृष्टिस्ता बृढंपरि^(°) W; भुजलताभ्यां निवडंG.
+ 1. कदर्थिता Pa^(d), which gives the preceding and following nouns in the nominative instead of in the accusative.— 2. अपाङ्गवीक्षितैः C., S., W, A^(r).—अपाङ्गवृष्टिभिःG.; we acclg toPa^(d).—4. अतिमश्चखुल^(°) W. against all Mss. &Com.—6. संख्यरथ^(º)Ah^(d).—8. मकरकेतुःऽ., C., W, एष एव C., S.,A^(r).—एष अस्य W.—11. चानङ्ग^(°)om. W.—अनङ्ग^(°) om. C., S.; ^(º)पेशलवि^(º)Pa^(d).—अवसितार्था— अनुभवन्तौ om. W.—16 तदा तदा वियोगकाले समायाते अहं W.; अतिगूढ Pa^(d).—17. "दृष्टिस्ता बृढंपरि^(°) W; भुजलताभ्यां निवडंG.
 
 संधिराचराविचारं मदुपदिष्टम्। आदर्शय राज्ञे रहासे मत्सादृश्यगर्भं चित्रपटमाचक्ष्व च किमियमाकृतिः पुरुषसौन्दर्यस्यपारमारूढा न वेति। बाढमारूढेति नूनमसौ वक्ष्यति। ब्रूहि भूयो यद्येवमस्ति कापि तापसी देशान्तरभ्रमणलब्धप्रागल्भ्या मम च मातृभूता। तये- 5दमालेख्यरूपं पुरस्कृत्याहमुक्ता। सोस्ति तादृशो मन्त्रो येन त्वमुपोषिता पर्वणि विविक्तायां भूमौ पुरोहितैर्हुतमुक्ते सप्तार्चिषि नक्तमेकाकिनी शतं चन्दनसमिधः शतमगरुसमिधः कर्पूरमुष्टीः पट्टवस्त्राणि च प्रभूतानि हुत्वा भविष्यस्यैवमाकृतिः। अथ चालयिष्यसि घण्टाम्।घण्टापुटक्कणिताहूतश्च भर्ता भवत्यै सर्वं रहस्यजातमाख्याय 10 निमीलिताक्षो यदि त्वामालिङ्गेदियमाकृतिरमुमुपसंक्रामेत्। त्वं तु भविष्यसि यथा पुराकरिव। यदि भवत्यै भवत्प्रियाय चैवं रोचते न चास्मिन्विधी विसंवादः कार्य इति। वपुश्चेदिदं तवाभिमतं सह सुहृन्मन्त्रिभिरनुजैः पौरजानपदैश्चसंप्रधार्य तेषामप्यनुमते कर्मण्यस्मिन्नाभिमुखेन स्थेयमिति। स नियतमभ्युपेष्यति। पुनरस्यामेव प्रमद- 15 वनवीथीशृङ्गाटिकायामाथर्वणिकेन विधिना संज्ञापितपशुनाभिदुत्यं मुक्ते हिरण्यरेतासे तद्धूमशमनेन संप्रविष्टेन मयास्मिन्नेव लतामण्डपे स्थातव्यम्।त्वं पुनः प्रगाढायां प्रदोषवेलायामालपिष्यसि कर्णे कृतनर्मस्मिता विकट वर्माणम्।धूर्तोसि त्वमकृतज्ञश्च। मदनुग्रहलब्धेनापि रूपेण लोकलोचनोत्सवायमानेन मत्सपत्नीरभिरमयिष्यसि। नाहमात्म- 20 विनाशाय वेतालोत्थापनमाचरेयमिति। श्रुत्वेदं त्वद्वचः स यद्वक्ष्यति तन्मह्यमेकाकिन्युपागत्य निवेदयिष्यसि। ततः परमहमेव ज्ञास्यामि।मत्पदचिह्नानि चोपवने पुष्करिकया प्रमार्जयेति। सा तथेति शास्त्रो-
 
@@ -2046,7 +2046,7 @@ too is inconsistent with हतावशेष in the next line. Instead of unde
 
  **P. 7. L. 12.** मदीयदुहितेत्यादि. For this part of the story compare below the Upahâravarmacharita, **Page 66. L. 15-20.** क्रोडमभ्यलीयतisgrammatically a doubtful construction. अभ्यलीयत is according to Wilson ‘3rd Pers. Sing. 1st Pret. Atmanepada from ली verb of the 4th Conjugation,' but ली of that conjugation is intransitive and cannot take an object, and therefore the word क्रोड must be in the locative. Compare for the story **P. 66. L. 15-20.** where the same account is given in slightly different words. \[Bühler\].
 
- **P. 7. L. 24.** दंदशयित्वाsee Kielhorn **S. Gr. S 355 b**. अनेकचरणैः पलायमानम्‘while he flies on all fours' \[Bühler\]. Parab takes अनेकचरणैः with कुक्कुरबालकैः and this is more plausible, since it is very doubtful, if a little child after such perilous adventures could have either the strength or presence of mind to run away on all fours.”
+ **P. 7. L. 24.** दंदशयित्वाऽee Kielhorn **S. Gr. S 355 b**. अनेकचरणैः पलायमानम्‘while he flies on all fours' \[Bühler\]. Parab takes अनेकचरणैः with कुक्कुरबालकैः and this is more plausible, since it is very doubtful, if a little child after such perilous adventures could have either the strength or presence of mind to run away on all fours.”
 
   **P. 8. L. 10.** पक्कणः शबरालयःA. K. \[Bühler\].
 
@@ -2266,7 +2266,7 @@ sinister arts of thieving and gambling find no place in Baṇa's list of the acc
  **P. 28. L. 7.** जातिस्मरत्वम्—Power to remember the incidents of a previous birth. This sort of जातिस्मरत्वाis a favourite device of this author and is taken advantage of in bringing about love marriages. For similar instances, see Ratnaprabhâ Lambaka, Taranga **IX,** verses **154-156** and also Śaktiyaśo Lambaka, Taranga **IX v. 56**, Kathâsaritsagâra.  
  For a wife in a previous birth, see the same Lambaka and Taranga, verse 233.  
  **P. 28. L. 20.** Note the double meaning of राजहंसकुलतिलक as 1st "the best of swans" and 2ndly "an ornament to the family of राजहंस' the father of the hero राजवाहन.  
- **P. 28. L. 22.** मरालमिव कुमारमुद्दिश्यSo also in the Śâkuntala, the heroine when called away by Gautamî in the 3rd Act addresses the bower of creepers in which she was resting.  
+ **P. 28. L. 22.** मरालमिव कुमारमुद्दिश्यऽo also in the Śâkuntala, the heroine when called away by Gautamî in the 3rd Act addresses the bower of creepers in which she was resting.  
  परिवृत्तदीनवदना Cf. आसीद्विवृत्तवदना च विमोचयन्ती &c., Śâkuntala Act **II. v. 13.**  
  **P. 29. L. 1.** बहुलपक्ष the dark half of the month. \[Bühler\]
 
@@ -2325,7 +2325,7 @@ flowers, the place where she had worshipped, the gravel bearing the imprint of h
 <MISSING_FIG href="../books_images/U-IMG-1722320759Screenshot2024-07-30115049.png"/>
 
  **P. 34. L. 1.** श्रुत्वेति। भुवनस्य जगतो वृत्तान्तं रुक्मिण्यादिभिः कृष्णस्येन्द्रस्य गुरोः पितामहस्य शकुन्तलादुष्यन्तादीनां च गान्धर्वविवाहकरणविषयां प्रवृत्तिम्। वार्ताप्रवृत्तिर्वृत्तान्त इत्यमरः। अनेन गान्धर्वविवाहेन परिणीता\[ नां\] पुण्यवत्त्वज्ञानाद्राजवाहनेन सह गान्धर्वविवाहो मम पुण्यवत्त्वं सम्पादयेदिति मतिरुत्पन्ना। तेन च तस्मिन्राजवाहनेतिरागः। अतएव त्रिभुवनसर्गयात्रासंहारस्थिताभिः प्रत्यानीयमानरागपूरामिति \[ **P. 38 L. 1**\] वक्ष्यति Bhû.Paḍ.explains भुवनवृत्तान्तम् by चतुर्दशभुवनवृत्तान्तं पातालवृत्तान्तमित्यर्थः। but wrongly. The use of Purânic tales for purposes similar to those of Râjavâhana, seems to have been very frequent. Compare, e. g., below, **P. 44. L. 3.** \[ Bühler \].  
- **P. 34. L. 6.** सरस्वतीत्यादि। सरस्वत्यामुखग्रहणेनोच्छेषणीकृतउच्छिष्टीकृतो य एष भवदीय इत्यर्थः। दशनच्छदओष्ठः। .......अम्बुजासना लक्ष्मीस्तस्याः स्तनतटोपभुक्तमिदमुरःस्थलं त्वदीयमित्यर्थः॥ Paḍ. Regarding the use of उच्छेषणSee above, note to **P. 31. L. 5.** and translate 'which has been kissed or touched,' Râjavâhana is here compared to Vishṇu, as stated in the Bhûshaṇâ. एतेन विशेषणद्वयेन विष्णुरूपवर्णनाद् भावि सार्वभौमत्वं सूचितम्। वागीशा यस्य वदने लक्ष्मीर्यस्य च वक्षसि। यस्यास्ते हृदये संवित्तं नृसिंहमहं भज इत्यर्थकेन तादृशविशेषणाक्रान्तस्य नृसिंहसूचनादन्यस्त्रीभोगराहित्यंसूचितम्।  
+ **P. 34. L. 6.** सरस्वतीत्यादि। सरस्वत्यामुखग्रहणेनोच्छेषणीकृतउच्छिष्टीकृतो य एष भवदीय इत्यर्थः। दशनच्छदओष्ठः। .......अम्बुजासना लक्ष्मीस्तस्याः स्तनतटोपभुक्तमिदमुरःस्थलं त्वदीयमित्यर्थः॥ Paḍ. Regarding the use of उच्छेषणऽee above, note to **P. 31. L. 5.** and translate 'which has been kissed or touched,' Râjavâhana is here compared to Vishṇu, as stated in the Bhûshaṇâ. एतेन विशेषणद्वयेन विष्णुरूपवर्णनाद् भावि सार्वभौमत्वं सूचितम्। वागीशा यस्य वदने लक्ष्मीर्यस्य च वक्षसि। यस्यास्ते हृदये संवित्तं नृसिंहमहं भज इत्यर्थकेन तादृशविशेषणाक्रान्तस्य नृसिंहसूचनादन्यस्त्रीभोगराहित्यंसूचितम्।  
  **P. 34. L. 7.** चुम्बयितुम् can only be explained as the infinitive of the causal, but there is obviously no need of using the causal at all.  
  **P. 34. L. 8.** आलिङ्गयितुम्। The same as above.
 
@@ -2355,9 +2355,9 @@ flowers, the place where she had worshipped, the gravel bearing the imprint of h
  **P. 35. L. 12**. ब्राह्मणब्रुवः This epithet is in the strict sense inappropriate, since Râjavâhana was not really a Brahmin.  
  एनमनुरक्ता the use of the accusative is doubtful.  
  **P. 35. L. 16.** रेखाम्बुजेत्यादि। रेखा रूपाण्यम्बुजानि रथाङ्गानि चक्राणि लाञ्छनानि यस्मिन्निति Paḍ. See also note **P. 12. L. 3.**  
- **P. 35. L. 17**. सर्वपौरुषातिभूमिः। सर्वपौरुषाणां पुरुषार्थानामतिभूमिरधिष्ठानम्। Paḍ. "Who was possessed in the highest degree of all manly virtues.” See also the Pet. Dict. S. V. अतिभूमि \[Biühler\]. सहिष्णुतैकप्रतिक्रियाम्। सहनशीलतैवैका प्रतिक्रिया प्रतीकारो यस्या इति Paḍ. स्मर तस्या हंसकथायाः for the construction compare Siddhânta Kaumudi I, **P. 279.** (Pan. II. 3, 52) and the exactly identical use of the Latin words meaning ‘to remember.' The story referred to is that told at **P. 27. L. 13-P. 28. L. 8**. \[Bühler \]. The use of स्मृ with the genitive conveys an idea of regret Cf. Ki. V. 28 and Si. VIII 64. **P. 35, L. 20** महादेवीमालवेन्द्रौsee above **P. 22. L. 4** seqq. \[Bühler\]. We must assume that they repaired to the penance forest in the interval between the marriage and the arrest of Râjavahâna.  
+ **P. 35. L. 17**. सर्वपौरुषातिभूमिः। सर्वपौरुषाणां पुरुषार्थानामतिभूमिरधिष्ठानम्। Paḍ. "Who was possessed in the highest degree of all manly virtues.” See also the Pet. Dict. S. V. अतिभूमि \[Biühler\]. सहिष्णुतैकप्रतिक्रियाम्। सहनशीलतैवैका प्रतिक्रिया प्रतीकारो यस्या इति Paḍ. स्मर तस्या हंसकथायाः for the construction compare Siddhânta Kaumudi I, **P. 279.** (Pan. II. 3, 52) and the exactly identical use of the Latin words meaning ‘to remember.' The story referred to is that told at **P. 27. L. 13-P. 28. L. 8**. \[Bühler \]. The use of स्मृ with the genitive conveys an idea of regret Cf. Ki. V. 28 and Si. VIII 64. **P. 35, L. 20** महादेवीमालवेन्द्रौऽee above **P. 22. L. 4** seqq. \[Bühler\]. We must assume that they repaired to the penance forest in the interval between the marriage and the arrest of Râjavahâna.  
  **P. 35. L. 21**. आत्मत्यागोपन्यासेन—आत्मत्यागस्य देहत्यागस्योपन्यासेन वचनेनेत्यर्थःPaḍ. 'By threatening suicide'. \[Bühler\].  
- **P. 35. L. 23.** राजराजगिरौ तपस्यतेsee above **P. 22. L. 7**. संदिश्य "Informing through a messenger". (Bühler).  
+ **P. 35. L. 23.** राजराजगिरौ तपस्यतेऽee above **P. 22. L. 7**. संदिश्य "Informing through a messenger". (Bühler).  
  **P. 35. L. 24.** Regarding the jewel which kept off hunger and thirst, see above **P. 15. L. 11.** \[Bühler \].  
  **P. 36. L. 2.** चम्पा Capital of अङ्ग, situated in the immediate neighbourhood of Bhâgalpur on the right bank of the lower Ganges (Collins' Geogr. Data of Daśak. P. 23). See also below **P. 41. L. 2**. for .तम्पा उद्धरणाय to ‘annihilate '. (Bühler).  
  **P. 36. L. 7.** अदत्तापेक्ष इत्यादि without waiting for the shortly impending arrival of etc'. See below **P. 64. L. 12.**साक्षादित्यादि appearing visibly like pride incarnate.' \[Bühler\]. प्रतिलं शत्रुबलम्Bhû.  
@@ -2556,7 +2556,7 @@ Regarding the formation of the passive of दै See Kielhorn Sk. Gr. SS. 379 C.
  **P. 48. L. 1.** पक्षरचनानैपुणम्। सर्व लोकानां स्वायत्तीकरणे कुशलत्वम्।उच्चावचानि नैकप्रकाराणि प्रलोभनानि मोहनानि......ग्लहः पणः Paḍ. So also Bhû. and Ahḍ. which add, however, ग्लहप्रभेदवर्णनानि पणस्यान्यथाभाववर्णनानि \[Bühler\].  
  **P. 48. L. 2**. अन्तरान्तरा मध्येमध्य इत्यर्थः। अश्लीलप्रायानसह्यबहुलान्। अश्लीलं ग्राम्यभाषणमिति वैजयन्ती। Paḍ.  
  **P. 48. L. 3.** प्रमाददत्तशारे प्रमादेनानवधानतया दत्तः शारः क्षेपकरणं येनेति तस्मिन्निति। Paḍ.  
- **P. 48. L. 6**. व्यत्यषजत् व्यतिषक्तोभूत् Paḍ. He changed (sides) i.e., began to play with me. Regarding the construction of निsee Siddhântakaumudi **I. P. 253.** Kârikâ\[Bühler \].
+ **P. 48. L. 6**. व्यत्यषजत् व्यतिषक्तोभूत् Paḍ. He changed (sides) i.e., began to play with me. Regarding the construction of निऽee Siddhântakaumudi **I. P. 253.** Kârikâ\[Bühler \].
 
  **P. 48. L. 7.** दीनाराणां निष्कानां सुवर्णानामिति यावत्। Paḍ. Compare above, note to **P. 21. L. 4.** \[Bühler\].  
  **P. 48. L. 10**. यन्मूलश्चेत्यादि। "and Vimardaka, the gambler, who was the cause of my playing, became, etc., \[Bühler \]. मे दुरोदरावतारः literally my lighting upon i.e., joining the game of dice.  
@@ -2629,7 +2629,7 @@ for in you covetousness and similar (vices) are not to be found (i.e., each indi
  **P. 53. L. 1**. रङ्गपीठं नृत्यस्थानम् Paḍ.  
  तद्दृष्टि... श्रयः सत्रमाच्छादनम्। सत्रमाच्छादने यज्ञे सदादाने वनेपिचेति विश्वः। तस्मादपगत आश्रयो यस्येति। उत्पलवनसत्रमात्राश्रय इति भावः Paḍ. It is difficult to reconcile Paḍ's. final explanation (सत्रमात्राश्रयः) when in dissolving the compound it plainly says तस्मादपगत आश्रयः। Bühler translates "Cupid, who took refuge in the covering of her coquettish glances, that resembled a forest of blue lotuses." The difficulty is obviated by taking अपाश्रय as a single word (and not a compound) in the sense of a S'hamiânâ. The Kalpadruma gives the following explanation of the word:—( अपाश्रियते आच्छाद्यते अनेन) प्राङ्गावरणं। सामियाना चाँदोया इति भाषा।This meaning suits the text better, since in the sentence immediately preceding, he has spoken of his मनः (mind) as a रङ्गपीठor stage. Wilson takes आपाश्रय in the same sense.  
  **P. 53. L. 2**. भावा विभावादयो रसाः शृङ्गारादयःPaḍ. “Tormented me excessively having gained force as it were, through the multitude of the sentiments, and their externations (which were represented by R.'s singing and dancing). \[Bühler\].The Bhû. gives the following definitions of भाव and रसः—बाह्यार्थालम्बनो यस्तु विकारो मानसो भवेत्। स भावः कथ्यते सद्भिस्तस्योत्कर्षो रसः स्मृतः। भावरस Seems to be a favourite expression of the author.See P. 26. L. 19, where also we have भावरसानां सामप्रया।  
- **P. 53. L. 3.**नगरमोषरोषिताsee ante. **P. 48. L. 20.**लीलाकटाक्षमाला एव शृङ्खलास्ताभिः। नीलोत्पलपलाशानि नीलोत्पलपत्राणि तद्वच्छ्यामलाः। Paḍ. See **P. 46. L. 21,** where also अपाङ्ग is compared to नीलोत्पल.  
+ **P. 53. L. 3.**नगरमोषरोषिताऽee ante. **P. 48. L. 20.**लीलाकटाक्षमाला एव शृङ्खलास्ताभिः। नीलोत्पलपलाशानि नीलोत्पलपत्राणि तद्वच्छ्यामलाः। Paḍ. See **P. 46. L. 21,** where also अपाङ्ग is compared to नीलोत्पल.  
  **P. 53. L. 4.** सिद्धिलाभशोभिनी समृद्धिफलप्राप्तिशोभिनी Paḍ. (" Her beauty being) heightened by the (flush ) of success. " ) \[Bühler\].  
  **P. 53. L. 7.** आरेचितभ्रूलतं वक्रीकृतभ्रूलतमिति क्रियाविशेषणम् Paḍ. See ante, **P. 26. L. 18**, where also we have रेचितभ्रूलतैः.  
  **P. 53. L. 10.** मुक्तैरवयवैः “with limbs outstretched"— or “fully at ease” अतिनिष्णातोतिनिपुणः। मदनतन्त्रे मदनशास्त्रे।Paḍ.  
@@ -2775,11 +2775,11 @@ Paḍ.
  अपाश्रयः शिरोभागः। तथैव वैजयन्ती। निमितं (निमित्त all four Mss. including our Southern Ms. निक्षिप्तम्। डुमिञ्प्रक्षेपणे। Paḍ. Bhû. Ahḍ. The form, though not usual in classical Sanskrit, occurs frequently in the Vedas. (See the Pet. Dict. S.V.). उत्तानतलmust be taken as a Bahuvrihi compound qualifying करकिसलय\[Bühler\]. The readingनिमित्तis certainly better and is supported by all the Mss. but we have retained, निमित्तंbecause the Paḍ. has found an explanation for this very unusual word. Translate "With the concave of the lotus-like hand of her other creeper-like arm slightly curved (so as) to support the extremity of her head.'' निमित्तcan be taken in its ordinary sense andनिमित्त can be derived from माto measure, in which case the arm may be considered to be so curved as to suit the extremity of the head.  
  \[ D. K. 30 \]
 
- **P. 62. L.7.**अतिश्लिष्टेति। चीनांशुकस्य चीनदेशीयवस्त्रस्यान्तरीयमधोवस्त्रम्। Paḍ. चीनांशुकं वस्त्रं। अन्तरीयमधोवस्त्रम्। Bhû. The former explanation is the better one \[Bühler\]. For the word, चिनांशुकsee Śâkuntala Act I verse 33; Kirâtârjuniya IV. 59; Kumâra-Sambhava VII. 3; also Mâlatî-Mâdhava Act VI. P. 202. Bombay Sanskrit series, where Sir R. G. Bhandarkar explains the word as "China cloth.” The word चिणoccurs in conjunction with हुणin verse II. Act. V. Mudrârâkhasa (P. 245. Bombay Sanskrit series) where Khaśas, Magadhas, Gândhâras, Šakas and Kaulûtas are mentioned among the followers of Malayaketu, and an attempt is made by the late Justice Telang toidentify those people. China seems to have been known to the Hindus from the earliest times. चीनभूमिजाः and चीनपट्टाःare mentioned in Bk. III. of the Kautilya (See V. P. 87. Ancient Hindu Polity by Narendranâth Law.)
+ **P. 62. L.7.**अतिश्लिष्टेति। चीनांशुकस्य चीनदेशीयवस्त्रस्यान्तरीयमधोवस्त्रम्। Paḍ. चीनांशुकं वस्त्रं। अन्तरीयमधोवस्त्रम्। Bhû. The former explanation is the better one \[Bühler\]. For the word, चिनांशुकऽee Śâkuntala Act I verse 33; Kirâtârjuniya IV. 59; Kumâra-Sambhava VII. 3; also Mâlatî-Mâdhava Act VI. P. 202. Bombay Sanskrit series, where Sir R. G. Bhandarkar explains the word as "China cloth.” The word चिणoccurs in conjunction with हुणin verse II. Act. V. Mudrârâkhasa (P. 245. Bombay Sanskrit series) where Khaśas, Magadhas, Gândhâras, Šakas and Kaulûtas are mentioned among the followers of Malayaketu, and an attempt is made by the late Justice Telang toidentify those people. China seems to have been known to the Hindus from the earliest times. चीनभूमिजाः and चीनपट्टाःare mentioned in Bk. III. of the Kautilya (See V. P. 87. Ancient Hindu Polity by Narendranâth Law.)
 
  अनतिवलितं नातिप्रव्हम्।Paḍ.
 
- **P. 62. L. 8.** आ ईषत्तिरश्चीनो वक्रोबन्धुरः सुन्दरः। निष्टप्तं तापितम्। तपनीयं सुवर्णम्।...सूत्रं तन्तुः। रुचकोङ्गुलिकामणिः। एवमेव वैजयन्ती। Paḍ. The same explanation of रुचकis given in the Ahḍ. comBut the Bhû. says रुचको मङ्गलद्रव्ये ग्रीवाभरणदन्तयोरितिविश्वप्रकाशः। The second explanation is the better one \[Bühler\]. रुचकseems to have been an ornament for the neck. Cf हारेण च महार्हेण रुचकेन च भूषितम् Bhâgavata, III. 23, 31 where, however, Srâdhara has explained it as मङ्गलद्रव्येण।
+ **P. 62. L. 8.** आ ईषत्तिरश्चीनो वक्रोबन्धुरः सुन्दरः। निष्टप्तं तापितम्। तपनीयं सुवर्णम्।...सूत्रं तन्तुः। रुचकोङ्गुलिकामणिः। एवमेव वैजयन्ती। Paḍ. The same explanation of रुचकis given in the Ahḍ. comBut the Bhû. says रुचको मङ्गलद्रव्ये ग्रीवाभरणदन्तयोरितिविश्वप्रकाशः। The second explanation is the better one \[Bühler\]. रुचकऽeems to have been an ornament for the neck. Cf हारेण च महार्हेण रुचकेन च भूषितम् Bhâgavata, III. 23, 31 where, however, Srâdhara has explained it as मङ्गलद्रव्येण।
 
  **P. 62. L. 9.**अर्धलक्ष्येति। अधरोऽधः। अधस्तादपि चाधर इत्यमरः। Paḍ. अधरकर्णपाशः शय्यालग्नः कर्णः। अध स्ताद्भूतः कर्णपाशः।Bhû. “Theear-ring hid under the beautiful ear which lay under her body, being only half visible." Regarding पाश in the sense of "beautiful, excellent" See the Peter Dict. S. V. \[Bühler\]. According to native grammarians, पाशin composition has three meanings:(1) with words meaning hair, पाशdenotes collection (पाशः पक्षश्च हस्तश्च कलापार्थाः कचात्परे Amara-Kośa II. 3, 98 ). The Śâśvata has खगादिबन्धने पाशः समूहे केशपूर्वकः। कर्णपूर्वोपि शब्दोयंकर्ण वदति शोभनम् 140 शाश्वत कोश (2) after कर्ण it denotes beauty. Kshîrasvâmi quotes a verse from some unknown author, stringing all the meanings of पाश as follows: अग्रतोबाहुपाशेन। केशपाशेन पृष्ठतः। पार्श्वयोः कर्णपाशेन। सर्व तोब्न्धनं प्रिये। Besides these two (3) it has its ordinary meaning of a noose or chain. पाशः केशादिपूर्वः स्यात्तत्सडेःकर्णपूर्वकः। सुकर्णेचेति मेदिनी. Cf. सैवोष्टमुद्रा स च कर्णपाशःUttara. VI 27. This substantive पाशis distinguished from the Taddhita suffix पाशप् under Paṇini's Sûtra (याप्ये पाशप् V. 3. 47) of which भीषकपाश छात्रपाश &c. are instances.
 
@@ -2992,7 +2992,7 @@ Paḍ.
 
  **P. 69. L. 21**. अर्णवनेमिः पृथिवीत्यर्थः। Paḍ.
 
- **P. 69. I. 22.**अथतु। तिष्टत्वित्यर्थः। तिष्ठत्वित्याभिधेयेस्मिन्नास्तामथतुंचाव्ययम्।Bhú. Cf. अथतु वेत्सि शुचि व्रतमात्मनःSâkuntala Act V. 27. रुपानुपेत्यादि। Having skill, character, learning,wisdom, and good fortune befitting the beauty of his person.
+ **P. 69. I. 22.**अथतु। तिष्टत्वित्यर्थः। तिष्ठत्वित्याभिधेयेस्मिन्नास्तामथतुंचाव्ययम्।Bhú. Cf. अथतु वेत्सि शुचि व्रतमात्मनःऽâkuntala Act V. 27. रुपानुपेत्यादि। Having skill, character, learning,wisdom, and good fortune befitting the beauty of his person.
 
  **P. 69. L. 23**.महाकुलीनःOf very noble descent.महाकुलादज्जखज्जौPâṇi. IV. I. 141.
 
@@ -3079,7 +3079,7 @@ Paḍ.
 
  **P. 72. L. 15.** तया वेणुयष्टिकया। शायितया प्रसारितया। स्थापितयोद्धर्वींकृतया च प्राकारं भित्तिमलङ्घयं लङ्घितवानित्यर्थः। Paḍ. Up. laid the Bamboo stick athwart the ditch (horizontally) to cross the ditch and placed it vertically against the wall to climb to the top.
 
-** P. 73. L. 1.**पक्केष्टकचितेन। Regarding the shortening of the last syllable of इष्टकाSee Siddhânta Kaumudi I P. 470.(इष्टकेषिकामालानां चिततूलभारिषु Pâṇini VI. 3. 65). Upahâravarman first ascends the wall with the help of his bambu pole and then descends by the staircase leading from the tower over the gate (गोपुर) into the garden. Such staircases which lie perfectly open and lead to the tops of the walls or of the gate towers are very common in Indian fortifications \[Bühler\].
+** P. 73. L. 1.**पक्केष्टकचितेन। Regarding the shortening of the last syllable of इष्टकाऽee Siddhânta Kaumudi I P. 470.(इष्टकेषिकामालानां चिततूलभारिषु Pâṇini VI. 3. 65). Upahâravarman first ascends the wall with the help of his bambu pole and then descends by the staircase leading from the tower over the gate (गोपुर) into the garden. Such staircases which lie perfectly open and lead to the tops of the walls or of the gate towers are very common in Indian fortifications \[Bühler\].
 
  **P. 73. L. 3.**उत्तराहि 'in a northerly direction.' Regarding the formation of this rare form, see Siddhântakaumudi I. P. 697. (उत्तराच्च V. 3. 38.) \[Bühler\].
 
@@ -3165,7 +3165,7 @@ Paḍ.
 
  **P. 77. L. 19.** गृहपतिर्ग्रामाध्यक्षः। ग्रामाध्यक्षो गृहपतिरिति कोशः(?)। अन्तरङ्गभूत आत्मभूतः। जनपदमहत्तरो देशश्रेष्ठः। 'the Desai' \[Bühler\]. शतहलिः शतं हला यस्येति तथा। Paḍ. Is *Mehtar* in such titles as the Mehtar of Chitral a corruption of महत्तर?
 
- The word शतहलिseems,however,to be a proper name from its use as such in L.17.Page 78.
+ The word शतहलिऽeems,however,to be a proper name from its use as such in L.17.Page 78.
 
  The Paḍ. does not cite the authority for its explanation of गृहपति as ग्रामाध्यक्ष. The vague mention of a कोश is not sufficient when सत्रीand गृहपतिare given as synonyms by Amara and the commentators of that Kośa have explained the word asसदान्नादिदानकर्ता. The verb is in the sing, and we have therefore to take गृहपति, अन्तरङ्गभूतः and जनपदमहत्तरः all as epithets qualifying शतहलि. It is better, therefore, to takeगृहपतिin the sense of "a charitably disposed house-holder." If we take it in the sense of ग्रामाध्यक्ष, we must assume that शतहलि was both "head of the village"and 'minister of the interior.'
 
@@ -3175,7 +3175,7 @@ Paḍ.
 
  **P. 77. L. 22.**अचिरप्रसृतं शीघ्रप्रकान्तम्। Paḍ.
 
- **P. 78. L. 6.** तामेव कल्पसुन्दरीमेव। ऊर्वोरुपपीडायत्रेति क्रियाविशेषणम्। भुजोपपीडं गाढालिङ्गनपूर्वकम्। Paḍ. ऊरूपपीडं ‘सप्तभ्यां चोपपीडरुध' इति णमुंल् Bhû. (Pâṇi. III4,49 Siddh.kau. II 473). Regarding the form उपगुह्यsee the Pet. Dict.underगुह+उप \[Bühler\].
+ **P. 78. L. 6.** तामेव कल्पसुन्दरीमेव। ऊर्वोरुपपीडायत्रेति क्रियाविशेषणम्। भुजोपपीडं गाढालिङ्गनपूर्वकम्। Paḍ. ऊरूपपीडं ‘सप्तभ्यां चोपपीडरुध' इति णमुंल् Bhû. (Pâṇi. III4,49 Siddh.kau. II 473). Regarding the form उपगुह्यऽee the Pet. Dict.underगुह+उप \[Bühler\].
 
  **P. 78. L. 13.** 'Child, the Pundras have not now an abundance of food. They, being overcome by the despair caused through misfortune, and giving themselves up (for lost) might attack our kingdom which has an abundance of food. Therefore, you  
   \[D.K.33\]
@@ -3323,7 +3323,7 @@ shall march against them,when it is possible to spoil their seedcorn or their ri
 
  अलसकेन क्षयेण।क्षयस्त्वलसको मत इति वैजयन्ती। Paḍ. But अलसक is explained in Hindu Medical works as उदररोगविशेषः Its symptoms are described as flatulence, with constipation and wind.
 
- **P. 84. L. 11.** पैशुन्यवादिनःslanderers. अन्तरङ्गभताः confidantes or favourites.
+ **P. 84. L. 11.** पैशुन्यवादिनःऽlanderers. अन्तरङ्गभताः confidantes or favourites.
 
  **P. 84. L. 12.**इत्थमग्राह्यत counselled or advised in this wise.
 
@@ -3491,7 +3491,7 @@ the resuscitation of कामपाल). जातानुतापः 'Repent
 
  **P. 90. L. 6.**द्युतजिताwon in a game of dice.
 
- **P. 90. L. 7.** प्राप्तरूपम्See note ante Pt. I. **P. 61, L. 12.**
+ **P. 90. L. 7.** प्राप्तरूपम्ऽee note ante Pt. I. **P. 61, L. 12.**
 
  **P. 90. L. 11.** जीवग्राहम्caught alive
 
@@ -3533,7 +3533,7 @@ the resuscitation of कामपाल). जातानुतापः 'Repent
 
  **P. 92. L. 12.**समया सौधभित्ति,सौधभित्तेः समीपे।Paḍ. समया निकषा चेति सामीप्ये वर्ततेऽव्ययम्। अभितः परितः समयानिकषाहा प्रतियोगपीति षष्ठ्यर्थे द्वितीया Bhû.
 
- **P. 92. L.13.**चित्रास्तरणशायिनम्sleeping on many-coloured (चित्र) bedding. Does चित्रास्तरण mean carpets of various colours (गालिचा) such as those made in Persia and in Kashmir?
+ **P. 92. L.13.**चित्रास्तरणशायिनम्ऽleeping on many-coloured (चित्र) bedding. Does चित्रास्तरण mean carpets of various colours (गालिचा) such as those made in Persia and in Kashmir?
 
  **P. 92. L. 14.**आदिवराह&c. “(Like the Earth) attached to the cluster of the rays issuing from the grinders of the primeval boar." This is an allusion to Vishnu's third incarnation in which in the form of a Boar he supported the Earth on his tusk. अंसस्रस्त &c. Her white upper garment resembling the milky ocean fallen off her shoulder भयसाध्वसमूच्छिताम् भयमनुरागः। भयं भीत्यनुरागयोरिति कोशः। Paḍ. The Ahḍ. follows the meaning given by the Paḍ. but it may be noted that the Paḍ. cites no authority. The Bhû. explains भयसाध्वसमूच्छिताम् as घोरसाध्वसमूच्छिताम् and quotes भयं प्रतिभयं घोरे from the Viśvaprakâśa. The Śabdakalpadruma givesघोर as a synonym of भय on the authority of the Medinî. The Bhû.'s explanation is preferable.
 
@@ -3686,7 +3686,7 @@ the resuscitation of कामपाल). जातानुतापः 'Repent
 
  **P. 96. L. 19.** वाटःश्रेणी।वाटःपुमान्यथिश्रेणयोः। Bhû. “a company,” “a party.” \[Wilson\]. नारिकेलनातिरेकःकुक्कुटः। द्वितीयः कुक्कुटो बलाकाजातीयः। दीर्घग्रीवः सितवपुर्महाप्राणः स्रवन्मनाः (?)। बलाकाजातिरित्युक्तस्तदन्यो नारिकेलजः। इति वैजयन्ती। Paḍ.
 
- **P. 96. L. 20.** प्रतिविसृष्टःSet against किमज्ञैरेभिर्व्युत्पादितैस्तव। What is the good of your explaining these matters to these fools?
+ **P. 96. L. 20.** प्रतिविसृष्टःऽet against किमज्ञैरेभिर्व्युत्पादितैस्तव। What is the good of your explaining these matters to these fools?
 
  **P. 96. L. 21.**उपहस्तिका ताम्बूलस्थापनाय चर्मपेशी। पूगाद्यावपनी चर्मभस्त्रिका चोपहस्तिकेति वैजयन्ती। उपदस्तिका इति वा पाठः। स एवार्थः। भाषया चञ्ची इति प्रसिद्धा। Paḍ. Note this evidence of the degeneracy to which Brahmins had fallen—viz. that of attending cock-fights and carrying leather pouches for betel-leaf chewing.
 
@@ -3872,7 +3872,7 @@ x     x    ×    x    x    x**
 
  **P. 100. L. 20.**पाञ्चालशर्मा"His name.The carelessway in which it is introduced so abruptly at the end of the episode is to be noted. It must be remembered that Dand in took his stories from older sources, and that he did not finish the Daśakumâracharita." \[Peterson\].
 
- **P. 100. L. 22.** अहीनकालसिध्दीःSpeedy success.
+ **P. 100. L. 22.** अहीनकालसिध्दीःऽpeedy success.
 
  **P. 101. L. 4.** विलासप्रायं विलासबहुलम् Bhú. ऊर्जितम् उन्नतम् Bhú. Exploit or feat of valour.
 
@@ -4048,7 +4048,7 @@ x     x    ×    x    x    x**
 
  **P. 107. L. 12.** किलकिलारवामित्यनुकरणम् Paḍ.
 
- **P. 107. L. 13.** The reading दुर्वहाseems to be better than दुर्वरा of B. and दुर्वारा of W. and our Ms. अननुकूलवा तनुन्ना Driven by adverse winds.
+ **P. 107. L. 13.** The reading दुर्वहाऽeems to be better than दुर्वरा of B. and दुर्वारा of W. and our Ms. अननुकूलवा तनुन्ना Driven by adverse winds.
 
  **P. 107. L. 14.** निबिडमाश्लिष्टवती stuck fast.
 
@@ -4110,7 +4110,7 @@ x     x    ×    x    x    x**
 
  **P. 109. L. 13.** दत्तपश्वाद्वन्धः(His hands) being tied behind.
 
- **P. 109. L. 14.** विकलिकृतोभिमतःSupposed to have beenmaimed. \[Peterson\]. We prefer to take अभिमतःin its ordinary sense of "worthy or esteemed" and consider it an adjective of भिक्षुःIf the author had intended the meaning sought to be given to the expression by Peterson, we should have had विकलीकृतत्वेन or at least विकलीकृत इति (अभिमतः). That the cripple was अभिमत to धन्यक is shown by the word भत्सिंता in L. 5. ante and पर्यश्रुः पादपतितः in L. 16. below. भिक्षुःmay be taken in its ordinary sense of "mendicant"or as one of that (Buddhistic) order". We incline to the latter opinion, because the story in the Kathâ. in the original is a Buddhistic story and the husband ofधूमिनी being a follower of Buddha referred to the cripple by the usual appellation of भिक्षु. Our southern Ms. omits अभिमतः।
+ **P. 109. L. 14.** विकलिकृतोभिमतःऽupposed to have beenmaimed. \[Peterson\]. We prefer to take अभिमतःin its ordinary sense of "worthy or esteemed" and consider it an adjective of भिक्षुःIf the author had intended the meaning sought to be given to the expression by Peterson, we should have had विकलीकृतत्वेन or at least विकलीकृत इति (अभिमतः). That the cripple was अभिमत to धन्यक is shown by the word भत्सिंता in L. 5. ante and पर्यश्रुः पादपतितः in L. 16. below. भिक्षुःmay be taken in its ordinary sense of "mendicant"or as one of that (Buddhistic) order". We incline to the latter opinion, because the story in the Kathâ. in the original is a Buddhistic story and the husband ofधूमिनी being a follower of Buddha referred to the cripple by the usual appellation of भिक्षु. Our southern Ms. omits अभिमतः।
 
  **P. 109. L. 18.**विरुपितमुखी "Whose face was disfigured.'' In the KathâV. 40 we have छिन्ननासिकाम् श्वभ्यः पाचिका पुट पाककत्रीं Paḍ. "a woman of a degraded class"
 
@@ -4353,9 +4353,9 @@ These two ladle-fulls seem to have been intended for what in English is called t
 
  **P. 116. L. 8.** सः कलहकण्टकः।
 
- **P. 116. L. 9.**परिवव्राज उज्जयिनीम्।Went to Oojein. Note the unusual sense of व्रज् with परि. भार्गवो नाम भूत्वा pretending to be an astrologer. भार्गवौशुक्रदैवज्ञाविति वैजयन्ती. For the use of नामsee ante, note P. 85. L. 18.
+ **P. 116. L. 9.**परिवव्राज उज्जयिनीम्।Went to Oojein. Note the unusual sense of व्रज् with परि. भार्गवो नाम भूत्वा pretending to be an astrologer. भार्गवौशुक्रदैवज्ञाविति वैजयन्ती. For the use of नामऽee ante, note P. 85. L. 18.
 
- **P. 116. L. 11.**श्मशानरक्षाम्lit. protection or guarding the burning ground, L. 12. श्रमणिकाम्see Telang'sremarks on the part played by those female ascetics.
+ **P. 116. L. 11.**श्मशानरक्षाम्lit. protection or guarding the burning ground, L. 12. श्रमणिकाम्ऽee Telang'sremarks on the part played by those female ascetics.
 
  **P. 19**. Telang's Introduction to the Mudrârâkhhasa.
 
@@ -4747,7 +4747,7 @@ P. 69. Nirṇaya Sâgar Ed.1907) and after referring to the hermitage of Bhârga
 
 ** P. 131. L. 18.** मानोन्मान°तूलावच्छेद उन्मानो मानः प्रस्थादिभिः कृत, इति वैजयन्ती Paḍ. उन्मानम् is weighing and मानम् measuring.
 
-** P. 131. L. 19.** मुष्टिमर्धमुष्टिं चेति। उभौ परिमाणविशेषौ। शुक्तिभ्यां च पलं ज्ञेयं मुष्टिरष्टमिका तथा। जनपदायव्ययशोधको मुष्टिः। ग्रामस्य शोधकोऽर्धमुष्टिः। Bhû. The Laghu-dîpikâ after explaining the words as परिमाणाविशेषौgives an alternative meaning as under:—अथवा कृत्स्नायव्ययप्रदेशोवशिष्टमात्रगणनायुक्तोर्घमुष्टिः। कृत्स्नावान्तरस्थलविषय आयादिचतुर्विधगणनायुक्तो मुष्टिः। Since the whole passage is a parody of the कौटिलीय, we must interpret मुष्टिमर्धमुष्टिं वाभ्यन्तरीकृत्यin the light of Châṇakya's precepts. Now, Chânakya says दिवसस्याष्टमे भागे रक्षाविधानमायव्ययौ च शृणुयात् (Adhik I. Ch. 19.) So the two things that a king has to attend to in the first three hours of the day is the safe custody and examination of (the ledgers of) Receipts and disbursements. According to the alternative meanings given by Bhû. मुष्टिseems to have been an officer who examined or audited the accounts of a province or district (जनपदायव्ययशोधकः) and अर्धमुष्टिa similar officer for village units. If we accept this interpretation, we must interpretअभ्यन्तरीकृत्यas "taking into confidence" one or other of the officers named above. If we take the alternative meaning suggested by the Laghu-dîpika, मुष्टि seems to be amode of counting the receipts, in which case अभ्यन्तरीकृत्य may mean checking before custody. In  
+** P. 131. L. 19.** मुष्टिमर्धमुष्टिं चेति। उभौ परिमाणविशेषौ। शुक्तिभ्यां च पलं ज्ञेयं मुष्टिरष्टमिका तथा। जनपदायव्ययशोधको मुष्टिः। ग्रामस्य शोधकोऽर्धमुष्टिः। Bhû. The Laghu-dîpikâ after explaining the words as परिमाणाविशेषौgives an alternative meaning as under:—अथवा कृत्स्नायव्ययप्रदेशोवशिष्टमात्रगणनायुक्तोर्घमुष्टिः। कृत्स्नावान्तरस्थलविषय आयादिचतुर्विधगणनायुक्तो मुष्टिः। Since the whole passage is a parody of the कौटिलीय, we must interpret मुष्टिमर्धमुष्टिं वाभ्यन्तरीकृत्यin the light of Châṇakya's precepts. Now, Chânakya says दिवसस्याष्टमे भागे रक्षाविधानमायव्ययौ च शृणुयात् (Adhik I. Ch. 19.) So the two things that a king has to attend to in the first three hours of the day is the safe custody and examination of (the ledgers of) Receipts and disbursements. According to the alternative meanings given by Bhû. मुष्टिऽeems to have been an officer who examined or audited the accounts of a province or district (जनपदायव्ययशोधकः) and अर्धमुष्टिa similar officer for village units. If we accept this interpretation, we must interpretअभ्यन्तरीकृत्यas "taking into confidence" one or other of the officers named above. If we take the alternative meaning suggested by the Laghu-dîpika, मुष्टि seems to be amode of counting the receipts, in which case अभ्यन्तरीकृत्य may mean checking before custody. In  
  \[44 D. K. \]
 
 either caseअभ्यन्तरीकृत्यdoes not seem to mean ''throwing down into (the belly)" a meaning which V. S. Apte has given to the expression. It looks all the more absurd when taken with क्षालिताक्षालितमुखेन as if a king were recommended to eat a handful or so even without washing his face." We have the same expression again (न मामासन्नकार्येष्वभ्यन्तरीकरोति) at P. 134. L. 15. where it clearly has the meaning we have assigned to it.
@@ -4756,7 +4756,7 @@ either caseअभ्यन्तरीकृत्यdoes not seem to mean ''thr
 
 ** P. 131. L. 21.** चत्वारिंशच्चाणक्यºThe precept in the कौटिलीय is तेषां हरणोपायाश्चत्वारिंशत् (II. 8.)
 
-** P. 131. L. 22.** विकल्पयितारःsuggesting as alternatives. द्वितीये The reference is to the original द्वितीये पौरजानपदानां कार्याणि पश्येत् (I. 19.) कष्टं नीवति Has a hard time of it.
+** P. 131. L. 22.** विकल्पयितारःऽuggesting as alternatives. द्वितीये The reference is to the original द्वितीये पौरजानपदानां कार्याणि पश्येत् (I. 19.) कष्टं नीवति Has a hard time of it.
 
 ** P. 131. L. 25.** तृतीये The original is तृतीये स्नानभोजनं सेवेत स्वाध्यायंच कुर्वीत। (1. 19).
 
@@ -4924,7 +4924,7 @@ The reference in this and the next line is to the following lines:—
 
 ** P. 136. L. 13.**अनुत्तराणि विलसितानि sports or dalliances than which there could be none better.
 
-** P. 136. L. 14.**सांग्रामिकत्वम् a readiness to fight. संग्रामे साधु सांग्रामिकम् Paḍ. वाक्पारुष्यं lit. Severity or harshness of language i.e., abuse. दारुणो दण्डःSevere punishments.
+** P. 136. L. 14.**सांग्रामिकत्वम् a readiness to fight. संग्रामे साधु सांग्रामिकम् Paḍ. वाक्पारुष्यं lit. Severity or harshness of language i.e., abuse. दारुणो दण्डःऽevere punishments.
 
 ** P. 136. L. 15.** औपकारिकाणि। उपकारक्षमाणि Paḍ.
 
@@ -5157,7 +5157,7 @@ help us to locate that river. Dr. S. K. Belwalkar in his Marathi translation of 
 
  उपनाय्य Having caused the उपनयन or thread ceremony being performed.
 
-** P. 144. L. 8.** शक्तित्रयायत्तम् Dependent upon the three Śaktis, viz., (1) प्रभुशक्तिः, (2) मन्त्रशक्तिःand (3) उत्साहशक्तिःnamed in the next line परस्परानुगृहीताःsupported by each other.
+** P. 144. L. 8.** शक्तित्रयायत्तम् Dependent upon the three Śaktis, viz., (1) प्रभुशक्तिः, (2) मन्त्रशक्तिःand (3) उत्साहशक्तिःnamed in the next line परस्परानुगृहीताःऽupported by each other.
 
 ** P. 144. L. 10.** पञ्चाङ्गमन्त्रमूलः। (1) सहायाः(2) साधनोपायाः(3- 4) विभागो देशकालयोः। (5) विपत्तेश्च प्रतीकारः सिद्धिः'पञ्चाङ्गमुच्यते' इति कामन्दकः। (XII 36) द्विरूपप्रभावस्कन्धः।अर्थानां पुरुषाणां च समृद्धिः।
 

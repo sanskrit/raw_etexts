@@ -10267,7 +10267,7 @@ ${५०}\\frac{१}{२}$
 
 गजेन्द्रदन्तः श्रीखण्डश्रीपर्ण्यौ[^506]मेषशृङ्गिका॥ ५० ॥
 
-[^506]: "३.'णीं' ख. पाठ: ।"
+[^506]: "३.'णीं' ख. पाठः ।"
 
 शस्ताः पादुकयोः शाकक्षीरिणीचिरबिल्विकाः ।
 
@@ -16024,7 +16024,7 @@ University, with notesIntroduction &o.,
 
 208 Hymns from the Rig Veda- 40 hymns, English
 
-Translation by A. A. Macodonell                    
+Translation by A. A. Macodone॥                    
       2  0 0
 
 209 Rig Veda Repetitions with Critical discussionsand

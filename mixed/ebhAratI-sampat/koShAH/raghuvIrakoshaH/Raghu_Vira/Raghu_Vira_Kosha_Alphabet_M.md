@@ -363,7 +363,7 @@ low नि brilliance) **न्यधिरक्तानील**
 
 **maddercrimson = crimson madder** (acolour, yellowish-red रक्तापीत in hue, of very
 
-high अधिsaturation) **अधिरक्ताणीत**
+high अधिऽaturation) **अधिरक्ताणीत**
 
 **madder lake मञ्जिष्ठा-लाक्षक  
 madder orange = orange madder  
@@ -436,7 +436,7 @@ short conical *beak—*PH. I.670) **चञ्चुपुट-प्रजात�
 Magellania lenticularis वीक्षाकार चञ्चुपुट  
 Magellanic Cloud** *Astron.* **दक्षिण-मेघ  
 magenstrasse** *Anat.* (portion of the lesser curvature of the stomach) **आम-महास्रोतस्** *n.*  
-**magenta 1.धूम्रली** *f.***2.**(reddish blue-red नीलातिरक्त in hue, of very high अधिsaturation and
+**magenta 1.धूम्रली** *f.***2.**(reddish blue-red नीलातिरक्त in hue, of very high अधिऽaturation and
 
 low नि brilliance) **न्यविनीलातिरक्क**
 
@@ -1707,7 +1707,7 @@ Mandalay** (acolour) **= pilgrim brown
 mandamus***Law***परमादेश** *m.* (Const.)  
 **mandarin 1.= mandarin orange 2.= mandarin red  
 mandarin duck** (distributed throughout China चीन) **चीन-हंसक  
-mandarin orange** (red-yellow रक्तपीत in hue and of very high अधिsaturation)
+mandarin orange** (red-yellow रक्तपीत in hue and of very high अधिऽaturation)
 
 **अधिरक्तपीत**
 
@@ -2191,7 +2191,7 @@ yellowish red-yellow रक्तातिपीत in hue, of low अव satura
 
 **maple sugar 1.कुट्टिमदारु-शर्करा 2.**(a colour, yellowish red-yellow रक्तातिपीत in hue, of low
 
-अवsaturation) **अवरक्तातिपीत**
+अवऽaturation) **अवरक्तातिपीत**
 
 **maple wood कुट्टिमदारु-काष्ठ  
 map of formative region = Vogt's maps** *Zool.* **निर्मायिप्रदेश-मानचित्र  
@@ -2210,7 +2210,7 @@ Marantaceae** (arrowroot-family) **शिशुमूल-कुल** *n.*
 Marasmius orcades** (fairy-ring mushroom)**हरिवलय प्रक्षयक  
 marasmus** *Med.* **बालक्षय, बालशोष** *m.*  
 **Maratha Confederacy मराठा-संघ  
-marathon** (acolour, red-yellow रक्तपीत in hue, of very high अधिsaturation) **अधिरक्तपीत  
+marathon** (acolour, red-yellow रक्तपीत in hue, of very high अधिऽaturation) **अधिरक्तपीत  
 Marattia** *Bot.* **पुष्टांग-प्रजाति  
 Marattiafraxinea** (fraxinea resembling
 
@@ -2354,7 +2354,7 @@ margins to be maintained संधार्य अन्तर
 margin stop प्रान्त-विराम  
 margosa oil नीम-का तेल  
 margosa tree** (*Azadirachta indica*)**निम्ब***m.* (B., N., M.)**, नीम  
-Marguerite yellow** (a colour, yellow पीत in hue, of low अवsaturation and very high
+Marguerite yellow** (a colour, yellow पीत in hue, of low अवऽaturation and very high
 
 सुbrilliance)
 
@@ -2608,7 +2608,7 @@ marshalling 1.क्रमबन्धन, क्रमविधान** *n.***2
 **marshalling assets and securities परिसंपत और प्रतिभूतियों का क्रमविधान  
 marshalling securities प्रतिभूतियों का क्रमविधान  
 marshalling siding** *Rly.* **विन्यसन-पथिका  
-Marshall's iora** *Aves* (upper back bright golden yellow पीतstippled with black कृष्ण) **कृष्ण-**
+Marshall's iora** *Aves* (upper back bright golden yellow पीतऽtippled with black कृष्ण) **कृष्ण-**
 
 **पीत शुकिका**
 
@@ -6766,7 +6766,7 @@ milt 1.**(secretion of the male reproductive glands of fishes) **मीनशु
 
 चिरम्भण-प्रजाति (चिरम्भण ancient word. Their call is a loud, shrill squeal, a prolonged
 
-चिरंsound भण)
+चिरंऽound भण)
 
 **Milwaukee brick** (a colour, reddish-yellow पीतारक्त in hue, of low अव saturation and very
 
@@ -6882,7 +6882,7 @@ mineral green 1.***Col. Ind.* **खनिज हरि 2.= copper green** (a col
 
 **mineral grey 1.***Col. Ind.* **खनिज धूसर 2.**(a colour, yellow-green पीतहरि in hue, of very
 
-low अपsaturation and high प्र brilliance) **प्रापपीतहरि**
+low अपऽaturation and high प्र brilliance) **प्रापपीतहरि**
 
 **mineralization** (deposition of minerals) **खनिजायन** *n.*  
 **mineralizer** *Geol.* **खनिजायक** *m.*  
@@ -7447,7 +7447,7 @@ mission in life जीवन-व्रत
 Mississippian period = Eocarboniferous Period उषोंगार-युग  
 mis-spent अपवीत, अपव्यय किया गया  
 mis-statement अशुद्ध कथन** *n.*  
-**mist 1.कूहा***f.***2.**(colour)**= mist grey** (red रक्त in hue, of very low अपsaturation and high
+**mist 1.कूहा***f.***2.**(colour)**= mist grey** (red रक्त in hue, of very low अपऽaturation and high
 
 प्र brilliance) **प्रापरक्त**
 
@@ -7985,7 +7985,7 @@ molecule** (Lat. *moles* 'mass) *Chem.***व्यूहाणु** *m.*
 mole drainage system बिल-प्रणाल-पद्धति  
 mole grey 1.= fashion grey निधूसर** *m.***2.= tau pe** (acolour, yellow पीत in hue, of low
 
-अवsaturation and low नि brilliance) **न्यवपीत**
+अवऽaturation and low नि brilliance) **न्यवपीत**
 
 **mole hill छुछुन्दरी-कूट  
 molengraffite चूक्षारंसिज** *m.* (चू-for चूर्णातु calcium, क्षा- for
@@ -9789,7 +9789,7 @@ multi-wire system बहुतन्तु-पद्धति**
 
 **mummy brown 1.= bay** (red-yellow रक्तपीत in hue, of low अव saturation and low नि
 
-brilliance) **न्यवरक्तपीत 2.**(a colour, yellowish red-yellow रक्तातिपीत in hue, of low अवsaturation and low नि brilliance) **न्यवरक्तातिपीत**
+brilliance) **न्यवरक्तपीत 2.**(a colour, yellowish red-yellow रक्तातिपीत in hue, of low अवऽaturation and low नि brilliance) **न्यवरक्तातिपीत**
 
 **mumps कपोलगण्ड, उपकर्णशोथ** *m.,* **गलसुआ  
 Mundulea** *Bot.* **कटुतुवर-प्रजाति  
@@ -10194,7 +10194,7 @@ myc., myco- कवक-
 mycelial** *adj. Bot.* **कवकजाल-, कवक-जालीय  
 mycelial fungoid growth कवकजालीय कवकाभ वृद्धि  
 mycelium** *Bot.* (a network of hyphae) **कवकजाल** *n.*  
-**Mycerobas** *Aves* **महाचञ्चु-प्रजाति** (distinguished by the great महाsize of the bill चञ्चु )  
+**Mycerobas** *Aves* **महाचञ्चु-प्रजाति** (distinguished by the great महाऽize of the bill चञ्चु )  
 **Mycetes कवकानि** *n.pl.*  
 **Mycetes = Alouatta  
 mycetic = mycetous** *adj.* **कवकीय  

@@ -13653,7 +13653,7 @@ after manumission, the former master may eat at his house he cannot accept gifts
 
 **P.233** गृहीत्वा वेतनं –In the printed मत्स्यपुराण the latter half is वेतनं द्विगुणं दद्याद्दण्डं च द्विगुणं तथ॥ . It may be noted that in अपरार्क p. 800 the 2nd half is: तां धनं दापयेद्दद्यादनूढस्यापि भाटकम्.
 
-**P.233**II. 22–24 पाषण्डाः... विज्ञानेश्वराचार्याः–These are repeated in व्यव. प्र. p. 331 which notes that the मदनरत्न explained नैगमाः as सार्थिका वणिजःSee मिता. on या. II. 192 for विज्ञानेश्वर's explanation of नैगमाः,
+**P.233**II. 22–24 पाषण्डाः... विज्ञानेश्वराचार्याः–These are repeated in व्यव. प्र. p. 331 which notes that the मदनरत्न explained नैगमाः as सार्थिका वणिजःऽee मिता. on या. II. 192 for विज्ञानेश्वर's explanation of नैगमाः,
 
 **P.234**I. 3 विषं भुंक्ष्वेतिवृद्विपरीतलक्षणया – A man may say विषं भुंक्ष्व मा चास्य गृहे भोजनं कुरु.
 

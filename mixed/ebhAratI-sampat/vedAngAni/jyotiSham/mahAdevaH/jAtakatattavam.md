@@ -713,7 +713,7 @@ The females attending on the woman in childbed are as many as there are planets 
 
 **३८. वक्रोच्चसंस्थैस्त्रिगुणाः स्वर्क्षत्र्यंशनवांशे स्थितैर्द्विगुणा नीचास्तगैरर्द्धमिता उपसूतिकाः।**
 
-In calculating the number of female attendants referred to above, planets that are retrograde or in exaltation should be trebled, while those in स्वक्षेत्रSwakshetra or स्वनांश -Swanavamsa, or स्वद्रेक्काण- Swadrekkana should be doubled and those in depression or eclipsed condition should be halved.
+In calculating the number of female attendants referred to above, planets that are retrograde or in exaltation should be trebled, while those in स्वक्षेत्रऽwakshetra or स्वनांश -Swanavamsa, or स्वद्रेक्काण- Swadrekkana should be doubled and those in depression or eclipsed condition should be halved.
 
 **३९. मीनाजाङ्गेद्वे गोघटाङ्गे चतस्रः कर्कहयाङ्गे पञ्चशेषे तिस्रउपसूतिकाः।**
 
@@ -3283,7 +3283,7 @@ If all planets should be posited in the 1st, 12th and 7th houses, the full retin
 
 
 
-**E. अथ सहजविवेकःSahaja Viveka.**
+**E. अथ सहजविवेकःऽahaja Viveka.**
 
 **\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -9304,7 +9304,7 @@ All benefics when they are in the 3rd, the 6th and the 11th houses make the nati
 
 
 
-**S. IV. स्त्रीजातकतत्वम्Stri Jataka Tatva.**
+**S. IV. स्त्रीजातकतत्वम्ऽtri Jataka Tatva.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -9891,7 +9891,7 @@ The three Sutras-Viz. F-38, P-24, 25 find application here. Venus rising with Ju
 
 Benefics are posited in Kendras and malefics (Saturn and Rahu) are in the 3rd and the 11th. (जा.त.N-87.) Mars being a Yogakaraka is not considered as a malefic. Regarding the religious trend of mind of the native, an analysis of the 4th and 9th houses is necessary. Ketu, the Moon and Venus respectively occupy the Vargottamamsas of Meena, Tula and Kataka. The Moon has exchanged place with Venus. The exaltation point of this inferior planet is occupied by Ketu (Revati 4) and thus Ketu finds an internal relationship with the Moon through Venus. This establishes the high ardent devotion which the native had towards the Goddess Chamundeswari. उ.का. V-53. Also फ.दी. II-27
 
-Jupiter, the lord of the 9th house is aspected by Saturn, the lord of the 12th from the 9th, Saturn usually proves extremely malefic for Kataka when he casts his 3rd house glance and for Makara when he casts his 10th house glance. Further, the 9th house is subject to the aspect of Mars who is a पापिन्for Meena. ( उ. का. 2ndकाण्डS1. 96).
+Jupiter, the lord of the 9th house is aspected by Saturn, the lord of the 12th from the 9th, Saturn usually proves extremely malefic for Kataka when he casts his 3rd house glance and for Makara when he casts his 10th house glance. Further, the 9th house is subject to the aspect of Mars who is a पापिन्for Meena. ( उ. का. 2ndकाण्डऽ1. 96).
 
 The Sun, the पितृकारक -Pitrukaraka, is in exact conjunction with Saturn. All these go to prove the अल्पायुस् Alpayus of the father, fixing his death for रा-श-गु(Rahu Dasa Sani Bhukti Guru Antara). The justification for this unhappy event is that Rahu by virtue of his position in the 7th (from the 9th) should prove a मारक-Maraka for the father. The भुक्ति-Bhukti must naturally be ruled by Saturn as he owns the 12th from the 9th. Jupiter rules over the 3577 inasmuch as he is aspected by Saturn.
 

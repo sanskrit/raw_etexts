@@ -8,7 +8,7 @@ language = "संस्कृतम्"
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=Njk0OTE3ODY5NDE5MjMz&pageno=MjI0MjQyNjk5NTk="
 
 +++
-[[माधवीयधातुवृत्तौभ्वादि:	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk0OTE3ODY5NDE5MjMz&pageno=MjI0MjQyNjk5NTk=)]]
+[[माधवीयधातुवृत्तौभ्वादिः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=Njk0OTE3ODY5NDE5MjMz&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
 

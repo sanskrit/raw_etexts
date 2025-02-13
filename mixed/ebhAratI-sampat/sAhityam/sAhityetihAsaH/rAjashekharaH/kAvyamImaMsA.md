@@ -6256,7 +6256,7 @@ P. 89. अस्ति दैत्यो. first verse of हयग्रीव�
 
   
 
-कविसमय of वामन is different from that of राजशेखर. The following quotations will explain the कविसमयshow how far the later writers of कविशिक्षा were indebted to राजशेखर for this,
+कविसमय of वामन is different from that of राजशेखर. The following quotations will explain the कविसमयऽhow how far the later writers of कविशिक्षा were indebted to राजशेखर for this,
 
 कवीनां समयस्त्रेधा निबन्धोप्यसतस्सतः।  
 अनिबन्धस्सजात्यादेर्नियमेन समासतः॥

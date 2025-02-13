@@ -6645,7 +6645,7 @@ XIV\.
 
  आकुलीक्रियमाणः being overcome or overpowered.  
  मानुषतासुलभो लघिमा lightness natural to humanity. कला a very small portion.  
- क्व—क्वshowing disparity between two things.  
+ क्व—क्वऽhowing disparity between two things.  
  अनेकसिद्ध & c. crowded by various gods and demigods.  
  दुर्निवारता irresistible nature, irresistbility.  
  आत्मीयां कुर्वेति make as their own i. e. subdue or overpower (the subject beingव्यसनोपनिपाताः understood) such a form not fit to be affected by them.  

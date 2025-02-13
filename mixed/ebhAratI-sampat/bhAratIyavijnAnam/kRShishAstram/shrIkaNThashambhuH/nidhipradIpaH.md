@@ -2275,7 +2275,7 @@ FOR SALE**
 | 1  |                 **दैवम्Daiva** (Vyākaraṇa) by Deva with Puruṣakāra of Kṛṣṇalīlāśukamuni                 | (out of stock) | 1  |  0  |  0  |
 | 2  | **अभिनवकौस्तुभमाला-दक्षिणामूर्तिस्तवौ Abhinavakaustubhamala and Daksinamurtistava** by Kṛṣṇalīlāśukamuni | (out of stock)  |  0  |  2  |  0  |
 | 3  |              **नलाभ्युदयःNalabhyudaya** (Kāvya) by Vāmana Bhaṭṭa Bāṇa (`second edition`).               |                |  0  |  4  |  0  |
-| 4  |                       **शिवलीलार्णवःSivalilarnava** (Kāvya) by Nīlakaṇṭha Dikṣita                       | (out of stock)  |  2  |  0  |  0  |
+| 4  |                       **शिवलीलार्णवःऽivalilarnava** (Kāvya) by Nīlakaṇṭha Dikṣita                       | (out of stock)  |  2  |  0  |  0  |
 | 5  |                **व्यक्तिविवेकःVyaktiviveka** (Alaṅkāra) by Mahima-Bhaṭṭa with commentary                | (out of stock). |  2  | 12  |  0  |
 | 6  |                        **दुर्घटवृत्तिःDurghatavrtti** (Vyākaraṇa) by Śaraṇadeva                         | (out of stock)  |  2  |  0  |  0  |
 | 7  |            **ब्रह्मतत्त्वप्रकाशिका BrahmatattvaPrakāśikā** (Vedānta) by Sadāśivendrasarasvatī            | (out of stock)  |  2  |  4  |  0  |
@@ -2288,9 +2288,9 @@ FOR SALE**
 |  10  |                            **मातङ्गलीलाMatangalila**(Gajalakṣaṇa). by Nīlakaṇṭha                             |  (out of stock)  |  0  |  8  |  0  |
 |  11  |          **तपतीसंवरणम्Tapatisamvarana**(Nāṭaka) by Kulaśekhara Varma with the commentary of Śivarāma          |  (out of stock)  |  2  |  4  |  0  |
 |  12  |            **परमार्थसारम्Paramarthasara** (Vedānta) by Âdiśeṣa with the commentary of Rāghavānanda             |  (out of stock)  |  0  |  8  |  0  |
-|  13  |      **सुभद्राधनञ्जयम्Subhadradhananjaya**(Nāṭaka) by Kulaśekhara Varma with the commentary of Śivarāma       |  (out of stock)  |  2  |  0  |  0  |
+|  13  |      **सुभद्राधनञ्जयम्ऽubhadradhananjaya**(Nāṭaka) by Kulaśekhara Varma with the commentary of Śivarāma       |  (out of stock)  |  2  |  0  |  0  |
 |  14  |                   **नीतिसारःNitisara** (Nīti) by Kāmandaka, with the commentary of Śankarāya                   |  (out of stock)  |  3  |  8  |  0  |
-|  15  |                            **स्वप्नवासवदत्तम्Svapnavasavadatta**(Nāṭaka) by Bhāsa.                            | (second edition) |  1  |  8  |  0  |
+|  15  |                            **स्वप्नवासवदत्तम्ऽvapnavasavadatta**(Nāṭaka) by Bhāsa.                            | (second edition) |  1  |  8  |  0  |
 |  16  |                       **प्रतिज्ञायौगन्धरायणम्Pratijnayaugandharayana** (Nāṭaka) by Bhāsa                       |  (out of stock)  |  1  |  8  |  0  |
 |  17  |                                 **पञ्चरात्रम् Pancharatra** (Nāṭaka) by Bhāsa                                 |  (out of stock)  |  1  |  0  |  0  |
 |  18  |          **नारायणीयम् Narayaniya** (Stuti) by Nārāyaṇa Bhaṭṭa with the commentary of Deśamangalavārya          |  (out of stock)  |  4  |  0  |  0  |

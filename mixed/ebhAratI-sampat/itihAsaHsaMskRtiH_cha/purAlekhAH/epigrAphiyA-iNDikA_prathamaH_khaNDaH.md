@@ -4772,7 +4772,7 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 तेनैतच्चारुचामीकरकलसलसद्योम धाम व्यधायि  
 भ्राजिष्णु प्रांशुवंशध्वजपट\[पढलां\]दोलितां\[भोज\]वृन्दं।  
 दैत्यारतिस्तुषारक्षितिधरशिखरस्पर्द्धि वर्हिष्णुरागा  
-दृष्टे यात्रासु यत्र तृ(त्रि)दिववसतयोविस्मयन्ते समेता:56[^750]॥—\[42\]  
+दृष्टे यात्रासु यत्र तृ(त्रि)दिववसतयोविस्मयन्ते समेताः56[^750]॥—\[42\]  
 कैलाशा(सा) द्भोटनाथः सुहृदिति च ततः कीरराजः प्रपेदे द्भो
 
 [^750]: "Metre, Sragdharand of the next verse."
@@ -4781,7 +4781,7 @@ L. 1. ओं नमो भगवते वासुदेवाय ॥
 तत्सूनोर्दवपालात्तमथ यहृ हयप \[ते\]: प्राप्य निन्ये प्रतिष्ठां  
 वैकुण्ठं कुण्ठितारिः क्षिति\[धरति\]लकः श्रीयशोवर्मराजः॥ —\[43\]  
 त्रीधङ्गःख स्वभुजप्रसाधितमहोनिर्व्याजराज्यस्थितिस्तस्मादास महोदधेरिवविधुः सूनुर्जनानन्दक्वृत्।  
-युद्धे नश्यदरातिवर्ग्गसुभटप्रस्तयमानस्तुतिर्नित्यं नम्ब(म्ब) म्व्र (म्र)मही होपमौलिगलितस्रक्पूजितांघ्रिदहय:⁵⁸[^751]॥— \[44\]
+युद्धे नश्यदरातिवर्ग्गसुभटप्रस्तयमानस्तुतिर्नित्यं नम्ब(म्ब) म्व्र (म्र)मही होपमौलिगलितस्रक्पूजितांघ्रिदहयः⁵⁸[^751]॥— \[44\]
 
 [^751]: "Metre, Sardûlavikridita and of the next verse"
 
@@ -7185,7 +7185,7 @@ L.1.<MISSING_FIG href="../books_images/U-IMG-1699783339Screenshothh.png"/>²[^11
 **23.    
 <MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/><MISSING_FIG href="../books_images/U-IMG-1699439030Screenshot2023-11-08154019.png"/>\[पर \] मं व्र(ब्र) असायुज्यमाप्ते।  
 शास्तारीणामिति स जयवर्न्मावनीन्द्रेण यत्ना-  
-दात्मसत्तौप्रथितमहिमा प्रातिहार्येनियुक्त:॥–[^1180]\[40\].  
+दात्मसत्तौप्रथितमहिमा प्रातिहार्येनियुक्तः॥–[^1180]\[40\].  
 मौलः सद्दन्शजन्मा[^1181]शचिरमलमतिः शास्त्रविद्दृष्टकर्मा  
 वाग्मी दक्षः प्रगल्भः करितुरगरथारोहविज्ञः कृता\[स्त्र\]:।  
 \[मन्त्रेगूढो?\]ऽनुरागप्रभृतिगुणयुतश्चे–**
@@ -8460,7 +8460,7 @@ L. 1. - \[राजा\] - राजमहाराजतोरमाणषा \
 2.- - - - -'मे मार्गशिरमासशुक्लद्वितीयायाम् चा \[न्द्रमग्र\] -------
 --------गग[^1456]
 
-[^1456]: "The bracketed letters are very doubtful with the exception of the syllable न्द्रsuggested by Mr. Fleet."
+[^1456]: "The bracketed letters are very doubtful with the exception of the syllable न्द्रऽuggested by Mr. Fleet."
 
 **L. 3. - -वर- - शुचिशान्तध्यानाध्ययनमोक्षचित्तानुकूले प्रदि \[ष्ट- - - - - - - -\[न\]- -**
 
@@ -10236,7 +10236,7 @@ L. 1. ओं ॥ ओंगणपतये नमः ।
 
 [^1647]: "Metre, Indravajra."
 
-[^1648]: "Metre, Ŝardûlavikriḍita. Before नयोव्रतमतिःstands a letter which looks likeत्त and before that remnants of a sign like भू. The reading may have been तस्याभूत्तनयोन्नतमतिः, which, as the metre shows, would be a mistake for तस्याभूत्तमयो नयीन्नतमतिः. Complete the second pada by writing सवर्द्यैकरतः."
+[^1648]: "Metre, Ŝardûlavikriḍita. Before नयोव्रतमतिःऽtands a letter which looks likeत्त and before that remnants of a sign like भू. The reading may have been तस्याभूत्तनयोन्नतमतिः, which, as the metre shows, would be a mistake for तस्याभूत्तमयो नयीन्नतमतिः. Complete the second pada by writing सवर्द्यैकरतः."
 
 [^1649]: "Metre, Sârdûlavikridita. The fourth missing pâda is probably that noted in the margin; see below, line 30."
 

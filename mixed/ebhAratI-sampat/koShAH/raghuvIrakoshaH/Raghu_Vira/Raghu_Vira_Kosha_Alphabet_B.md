@@ -3665,7 +3665,7 @@ beef tea गोमांस-पेय**
 
 **beeftongue = beefsteak fungus  
 beefwood 1.**(hard red wood) **ताम्रद्रु** *m.***2.**(trees of the genus *Casuarina* वञ्जुका-प्रजाति) **वञ्जुका** *f.*  
-**beegerite सीभिदशिज** *m.* (सी-for सीस lead, भिद-for भिदातु bismuth, श- for शुल्बेयsulphide, -इजfor
+**beegerite सीभिदशिज** *m.* (सी-for सीस lead, भिद-for भिदातु bismuth, श- for शुल्बेयऽulphide, -इजfor
 
 खनिजmineral)
 
@@ -5076,7 +5076,7 @@ mineral)
 **Bertholletia** **excelsa** ( Brazil-nut tree. The Brazilnut is 3-angled) **त्रिकोण अश्मफल**  
 **berthonite** **सीताभिदशिज** *m.* (सी- for सीस lead, ता- for ताम्रcopper भिद- for भिदातु bismuth, श-for
 
-शुल्बेयsulphide, -इजfor खनिज inineral)
+शुल्बेयऽulphide, -इजfor खनिज inineral)
 
 **berth register** *Rly.* **शायिका-पञ्जी**  
 **berth-reservation** *Rly.* **शायिकारक्षण**  
@@ -6265,8 +6265,8 @@ bismuth oxy-nitrate** *Chem.* **भिदातु जार-भूयीय**
 
 **bismuto-, bismutho-**(bismuth) **भिद-**  
 **bismuto-plagionite भिद-तिर्यक्स्फटिज** *m.*(भिद्र- bismuto-, तिर्यक्स्फटिज plagionite q.v.)  
-**bismuto-smaltite** *Mineral.* **भिद-केनेपिज***m.* (भिद- bismuto-, केनेपिजsmaltite)  
-**bismuto-sphaerite** *Mineral.* **भिद-गोलिज***m.* (भिद- bismuto-गोलिजsphaerite)  
+**bismuto-smaltite** *Mineral.* **भिद-केनेपिज***m.* (भिद- bismuto-, केनेपिजऽmaltite)  
+**bismuto-sphaerite** *Mineral.* **भिद-गोलिज***m.* (भिद- bismuto-गोलिजऽphaerite)  
 **bison 1.गवल** *m.* **2.= Indian bison = gaur गौर** *m.* (Hin. *gaur, gauri gai*)  
 **Bison** *Zool.* **गवल-प्रजाति**  
 **Bison americanus** (American buffalo) **पाताल-गवल**  
@@ -7236,7 +7236,7 @@ saturation)**अधिरक्तापीत, 2.रुधिर-रक्त**
 *m.,***3.**(a mineral that is frequently found as an effloresconce) **कुसुम** *n.,***4.**(a bar of iron or steel formed directly from an ingot पिण्डक) **पिण्डक-शलाका** *f.*
 
 **blooming period पुष्पन-काल**  
-**blossom 1.पुष्पमञ्जरी** *f.,***फूल, बौर,2.**(a colour, yellowish-red रक्तापीत in hue, of low अवsaturation
+**blossom 1.पुष्पमञ्जरी** *f.,***फूल, बौर,2.**(a colour, yellowish-red रक्तापीत in hue, of low अवऽaturation
 
 andhigh प्र brilliance) **प्रावरक्तापीत**
 
@@ -7723,7 +7723,7 @@ blue fire नीलाग्नि
 blue flame नील ज्वाला, नीली ज्वाला  
 blue flax नील उमा  
 blue fly नील मक्षी  
-blue fox 1.** *Zoology***नील लोमशी,2.**(a colour, bluish-red रक्तानील in hue, of low अवsaturation,
+blue fox 1.** *Zoology***नील लोमशी,2.**(a colour, bluish-red रक्तानील in hue, of low अवऽaturation,
 
 and low नि brilliance) **न्यवरक्तानील**
 
@@ -7889,7 +7889,7 @@ blush** *v.i.* **1.लज्जारञ्जन, लज्जा से गा
 **3.खिलना 4.**(to assumea cloudy appearance—said of varnish or lacquer films) **मेघायन**
 
 **blush** *v.t.* **रञ्जन, लाल कर देना  
-blush** *n.***1.लज्जाराग** *m***. 2.**(a colour, red-yollow रक्त-पीत in hue, of low अवsaturation, and high
+blush** *n.***1.लज्जाराग** *m***. 2.**(a colour, red-yollow रक्त-पीत in hue, of low अवऽaturation, and high
 
 प्र brilliance) **प्रावरक्तपीत**
 
@@ -10513,7 +10513,7 @@ broad sense स्थूल अर्थ**
 **broad-zoned kingfisher** *Aves* **रेखि-वक्षसमीनरंक  
 brocage = brokage**  
 
-**broccoli brown** (reddish-yellow पीतारक्त in hue, of low अवsaturation and low नि brilliance)
+**broccoli brown** (reddish-yellow पीतारक्त in hue, of low अवऽaturation and low नि brilliance)
 
 **न्यवपीतारक्त**
 

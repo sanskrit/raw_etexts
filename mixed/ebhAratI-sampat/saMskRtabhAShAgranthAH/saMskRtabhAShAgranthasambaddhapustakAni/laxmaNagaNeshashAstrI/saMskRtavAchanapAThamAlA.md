@@ -2103,7 +2103,7 @@ streaks or mass of thick darkness of infatuation. This and the following four ve
 
 समेत्य—Absolutive of इ with सम् and आ—Having assembled together. In यदयं&c. mark the use of यद् as a relative pronoun standing for a sentence. दारुखण्डमपातयत्—Threw down a log. मिथः संमन्त्र्य—Having
 
-taken counsel together. स आगत एव-आरेभे—Who no sooner arrived among them than he began laying hold of them and devouring them. तस्य वशे व्रजन्ति—They have to submit to him. समीचिनम्a. fit, proper, right.तन्त्रम्—Government, administration. दारु n. wood. आघातः Splash. आसमन्तात् adv. all around. आलोडितम् a. Shaken, agitated. आरात्Ind. near. कतिपय a. some निश्चल, निश्चेष्ट, अचेतन a. Motionless. क्रौचःA curlew, heron. नो चेद् If not. पूर्वावस्था—विधेयाःShould be restored to the former condition. स्थापयति—places. उपालभ्य—a. to be blamed, blamable.
+taken counsel together. स आगत एव-आरेभे—Who no sooner arrived among them than he began laying hold of them and devouring them. तस्य वशे व्रजन्ति—They have to submit to him. समीचिनम्a. fit, proper, right.तन्त्रम्—Government, administration. दारु n. wood. आघातः Splash. आसमन्तात् adv. all around. आलोडितम् a. Shaken, agitated. आरात्Ind. near. कतिपय a. some निश्चल, निश्चेष्ट, अचेतन a. Motionless. क्रौचःA curlew, heron. नो चेद् If not. पूर्वावस्था—विधेयाःऽhould be restored to the former condition. स्थापयति—places. उपालभ्य—a. to be blamed, blamable.
 
 22
 

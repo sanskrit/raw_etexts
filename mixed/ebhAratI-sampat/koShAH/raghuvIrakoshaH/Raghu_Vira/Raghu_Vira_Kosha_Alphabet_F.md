@@ -204,7 +204,7 @@ faculty of hearing श्रवण-शक्ति
 faculty theory** *Taxation* **क्षमता-सिद्धान्त  
 fade** *vb.* **1.म्लान होना, मुरझाना 2.मद्धम पड़ना, कम होना  
 fade away लुप्त होना, मुरझाना  
-faded rose** (acolour) **= ocher red**(yellowish-red रक्तापीत in hue, of low अवsaturation)
+faded rose** (acolour) **= ocher red**(yellowish-red रक्तापीत in hue, of low अवऽaturation)
 
 **अवरक्तापीत**
 
@@ -1452,7 +1452,7 @@ favourite वल्लभ** *m.*
 
 **brown**
 
-(acolour, red-yellow रक्तपीत in hue and of low अवsaturation) **अवरक्तपीत,** (abrown बभ्रु of low अव saturation) **अवबभ्रु**
+(acolour, red-yellow रक्तपीत in hue and of low अवऽaturation) **अवरक्तपीत,** (abrown बभ्रु of low अव saturation) **अवबभ्रु**
 
 **fawn-coloured mouse** *Mamm.* **पिंगल मूषिका  
 fayalite = Eisenglas** (Hey's Index)**अयःकाचिज** *m.* (-इज for खनिज mineral)  
@@ -3285,7 +3285,7 @@ firm** *n. Com.* **सार्थ** *m.*
 
 **partnership firm भगिता-सार्थ**
 
-**firmament blue** (acolour, bluish green-blue हर्यतिनील in hue, of low अवsaturation)
+**firmament blue** (acolour, bluish green-blue हर्यतिनील in hue, of low अवऽaturation)
 
 **अवहर्यतिनील**
 
@@ -3746,7 +3746,7 @@ fittings अन्वायुक्तियां**
 Fizeau's method** *Phys.* **दन्तुरचक्र-रीति  
 fizelyite सीरांशिज** *m.* (सी-for सीस lead, र- for रजत silver, अं-for अञ्चन antimony,
 
-श-for शुल्बेयsulphide, -इज for खनिज mineral)
+श-for शुल्बेयऽulphide, -इज for खनिज mineral)
 
 **fjord = fiord  
 Fl.** (*Flavobacterium*) **पि.वे.** (पिंगवेत्राणुप्रजाति)  
@@ -4005,7 +4005,7 @@ flavourous** *adj.* **सुवास, सुस्वाद, सुरस
 flavoursome = flavourous  
 flavoury = flavourous  
 flaw त्रुटि** *f.,***दोष** *m.,* **छिद्र** *n.***दर***m.* (a crack or breach)  
-**flax 1.उमा** *f.***2.**(a colour, reddish-yellow पीतारक्त in hue, of low अवsaturation and high प्र
+**flax 1.उमा** *f.***2.**(a colour, reddish-yellow पीतारक्त in hue, of low अवऽaturation and high प्र
 
 brilliance)
 
@@ -4026,7 +4026,7 @@ F.L.B.** (EM. II.83) **वि.म.ख.** (F.L.= foreign liquor वि.म. = व
 **fl.dr.** (fluid dram) **त.शा.** (तरल शाण)  
 **flea 1.पिंशु** *m.* (from$\\sqrt{}$पिश्'to hew out'), **पिस्सू 2.**(a colour) **=puce** (a colour, red रक्त in hue, of low
 
-अवsaturation and low नि brilliance) **न्यवरक्त**
+अवऽaturation and low नि brilliance) **न्यवरक्त**
 
 **fleabane 1.**(supposed to drive away fleas) **पिंशुद्रु***m.***2.**(*Artemisia vulgaris*) **नागदमनी** *f.*(ancient
 
@@ -4066,7 +4066,7 @@ Fleming's thermo-milliammeter***Phys.* **वंभि-ताप-सहस्र�
 वंगक-भिदातु मिथुनक)
 
 **Fleming valve = diode** *Phys.* **द्विद्वार** *n.*  
-**flesh 1.मांस** *n.***2.**(a colour, red-yellow रक्तपीत in hue, of very low अपsaturation and high प्र
+**flesh 1.मांस** *n.***2.**(a colour, red-yellow रक्तपीत in hue, of very low अपऽaturation and high प्र
 
 brilliance) **प्रापरक्तपीत**
 
@@ -4280,7 +4280,7 @@ florican तृण-मयूर** *m.* (ancient word)
 **floriculture** (cultivation of flowers)**पुष्पकृषि***f.,* **फूलों की खेती  
 Florida gold = Dutch orange** (a colour, red-yellow रक्तपीतin hue, of
 
-high उद्saturation and high प्र brilliance) **प्रोद्रक्तपीत**
+high उद्ऽaturation and high प्र brilliance) **प्रोद्रक्तपीत**
 
 **Florida red R = fast acid red B  
 Florideae** *Bot.* (comprising all the Rhodophyceae except Bangiales) **अरुणाप्यकाः** *m.pl.*  
@@ -4690,7 +4690,7 @@ womb गर्भाशय**
 **F.O.G.** (full outturn guarantee) **पू.उ.प्र.**(पूर्ण-उत्पत्ति-प्रत्याभूति)  
 **fog 1.धूमिका** *f.***, कुहरा 2.**(a colour) **= fog blue** (a colour, reddish-blue नीलारक्त in hue, of very
 
-low अपsaturation and high प्र brilliance) **प्रापनीलारक्त**
+low अपऽaturation and high प्र brilliance) **प्रापनीलारक्त**
 
 **fog blue = fog** (colour)  
 **foggy weather धूमिका-दिन  
@@ -5480,7 +5480,7 @@ forests generally protected सामान्यतः रक्षित व�
 forest soil वन-मृदा  
 forest spotted owlet** *Aves* **वन पृषत**
 
-**क्षुद्रोलूक** (पृषतspotted)
+**क्षुद्रोलूक** (पृषतऽpotted)
 
 **forest staff वन-कर्मचारिवर्ग  
 forest stamp-vendor वन-मुद्रांक-विक्रेता  
@@ -5580,7 +5580,7 @@ forgetful of the fact यह
 बात भूल कर  
 forget-me-not, forget-me-not blue(a colour, bluish green-blue हर्यतिनील in hue, of low
 
-अवsaturation) **अवहर्यतिनील**
+अवऽaturation) **अवहर्यतिनील**
 
 **forgetting** *Psychol.* **विस्मरण** *n.,* **विस्मृति** *f.***भूलना  
 forgive** *vb.* **क्षमा करना, क्षान्तिकरना  
@@ -6103,7 +6103,7 @@ fowling** (the sport of hunting wild fowl) **कुक्कुटाखेट**
 fowl tick कुक्कुट-चिंचिड  
 fox 1.**(an animal) **लोमशी** *f.,* **लोमड़ी 2.**(a colour, yellowish red-yellow रक्तातिपीत
 
-in hue, of low अवsaturation) **अवरक्तातिपीत**
+in hue, of low अवऽaturation) **अवरक्तातिपीत**
 
 **foxglove = fairy finger = fingerflower अप्सरोंगुलि** *f.*  
 **foxglove blue** *Col. Ind.* **अप्सरोंगुलि नील  
@@ -6602,7 +6602,7 @@ freight to pay देय भाटक
 fremitus** *Med.* (palpable vibration or thrill) **स्पृश्यावेप** *m.* (स्पृश्य palpable + आवेप vibration)
 
 **French bean = kidney bean वृक्कशिम्बी** *f.*  
-**French beige** (a colour, red-yellow रक्तपीत in hue, of low अवsaturation)**अवरक्तपीत**
+**French beige** (a colour, red-yellow रक्तपीत in hue, of low अवऽaturation)**अवरक्तपीत**
 
 **French blue 1.= ultramarine 2.**(acolour, reddish-blue नीलारक्त in hues,of high उत् saturation
 
@@ -6615,7 +6615,7 @@ French curve** (used for drawing non-circular curves) **अघर्तुलक
 French elm = Ulmus carpinifolia  
 French grey** (a colour, green हरि in hue, of very low अप saturation and high प्र brilliance) **प्रापहरि**
 
-**French green** (a colour, greenish yellow-green पीतातिहरि in hue, of low अवsaturation)
+**French green** (a colour, greenish yellow-green पीतातिहरि in hue, of low अवऽaturation)
 
 **अवपीतातिहरि**
 
@@ -6874,7 +6874,7 @@ front of a paper and not the reverse पत्र का अग्रभाग, 
 front o-parietal bone** *Zool.* **ललाट-पार्श्वास्थि  
 front row** (of houses) **पुरः-पंक्ति, अग्र-पंक्ति  
 front scale** *Geom.* **पुरःस्थ श्रेणी  
-front tender buffer** *Rly. Eng.* **जलांगारि-अग्रोपबर्ह**(जलांगारी tender; उपबर्हshort for ताडोपबर्ह)  
+front tender buffer** *Rly. Eng.* **जलांगारि-अग्रोपबर्ह**(जलांगारी tender; उपबर्हऽhort for ताडोपबर्ह)  
 **front truck** *Rly. Eng.* **अग्रोद्वाही** (-इन्)  
 **front truck wheel** *Rly. Eng.* **अग्रोद्वाहीचक्र  
 front wall अग्र-भित्ति  

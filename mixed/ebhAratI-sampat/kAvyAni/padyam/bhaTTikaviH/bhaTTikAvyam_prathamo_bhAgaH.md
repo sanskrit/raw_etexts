@@ -8160,7 +8160,7 @@ of a figure). As it is suggested that Râma beautified Ayodhyâand Ayodhyâ beau
 
 **सद्रत्नमुक्ताफलवज्रभाञ्जि.**
 
-रत्न means a precious stone. मुक्ताफल(pearls) and वज्र(diamonds) are included in रत्न, they being specialkinds of precious stones. ('नीलकं वज्रकं चेति पद्मरागश्च मौक्तिकम्। प्रवालं चेतिविज्ञेयं पञ्चरत्नं मनीषिभिः'); still they are mentioned separately as ब्राह्मणand परिव्राजक in the expression ब्राह्मणपरिव्राजकन्याय, or as गो and बलीवर्दin the expression गोबलीवर्दन्याय. ब्राह्मण and परिव्राजक, गो and बलीवर्दstand in the relation of सामान्य (general) and विशेष (particular).मुक्ताफल and वज्रstand in the same relation with रत्न.
+रत्न means a precious stone. मुक्ताफल(pearls) and वज्र(diamonds) are included in रत्न, they being specialkinds of precious stones. ('नीलकं वज्रकं चेति पद्मरागश्च मौक्तिकम्। प्रवालं चेतिविज्ञेयं पञ्चरत्नं मनीषिभिः'); still they are mentioned separately as ब्राह्मणand परिव्राजक in the expression ब्राह्मणपरिव्राजकन्याय, or as गो and बलीवर्दin the expression गोबलीवर्दन्याय. ब्राह्मण and परिव्राजक, गो and बलीवर्दऽtand in the relation of सामान्य (general) and विशेष (particular).मुक्ताफल and वज्रऽtand in the same relation with रत्न.
 
  The Jaya. notices सद्रत्नमुक्ताफलवज्रयुञ्जि as another reading.
 
@@ -8476,7 +8476,7 @@ says:—'क्रियाकारकसंबन्धोऽपि सर्�
 
 may be taken with the second clause where it is asJaya, takes it. 'त्वयापि धर्मवृद्ध्यै धर्मोपचयाय वयमाप्स्महि प्राप्ताः' (जय०).
 
- वयम् is used in the sense of अहम्. The plural forms of अस्मद् areoptionally used in the sense of the singular or the dual number; butwhen they are qualified by an adjective, the plural is not used, 'सविशेषणस्य प्रतिषेधः' (वा०). पटुरहं ब्रवीमि॥' (सिद्धा० कौ०). It should be notedthat this adjective should be अनुवाद्य (attributive) and not विधेय (predicative). 'अनुवाद्यविशेषणेऽयं निषेधो न विधेये।. It is for this that पदमञ्जरीकारsays:– "कथं 'त्वं राजा वयमप्युपासितगुरुप्रज्ञाभिमानोन्नताः' इति। अत्रोन्नतत्वंविधीयते। न हि विधेयोऽर्थो विशेषणं भवति॥".
+ वयम् is used in the sense of अहम्. The plural forms of अस्मद् areoptionally used in the sense of the singular or the dual number; butwhen they are qualified by an adjective, the plural is not used, 'सविशेषणस्य प्रतिषेधः' (वा०). पटुरहं ब्रवीमि॥' (सिद्धा० कौ०). It should be notedthat this adjective should be अनुवाद्य (attributive) and not विधेय (predicative). 'अनुवाद्यविशेषणेऽयं निषेधो न विधेये।. It is for this that पदमञ्जरीकारऽays:– "कथं 'त्वं राजा वयमप्युपासितगुरुप्रज्ञाभिमानोन्नताः' इति। अत्रोन्नतत्वंविधीयते। न हि विधेयोऽर्थो विशेषणं भवति॥".
 
 **क्षात्रं द्विजत्वं च परस्परार्थम्.**
 
@@ -8492,7 +8492,7 @@ The न् of the conjugational signs of हि 5th conj. Para. and मी 9th c
 
 **विप्रवह्निः.**
 
-Jaya takes it as उपमितसमास. 'विप्रो वह्निरिव। "उपमितम्–"इति समासः' But in this case विप्र becomes the principal word in thecompound and it can not be so well connected with धक्ष्यति as वह्नि. वह्निshould therefore be the principal word in the compound and for thisthe compound should be solved like मयूरव्यंसक. Malli. is therefore moreaccurate than Jaya. in solving the compound as विप्रः एव वह्निः विप्रवह्निः.
+Jaya takes it as उपमितसमास. 'विप्रो वह्निरिव। "उपमितम्–"इति समासः' But in this case विप्र becomes the principal word in thecompound and it can not be so well connected with धक्ष्यति as वह्नि. वह्निऽhould therefore be the principal word in the compound and for thisthe compound should be solved like मयूरव्यंसक. Malli. is therefore moreaccurate than Jaya. in solving the compound as विप्रः एव वह्निः विप्रवह्निः.
 
  
 
@@ -11231,7 +11231,7 @@ Stanza 62—
 
  The stanza, illustrates the Sûtra “पदास्वैरिबाह्यापक्ष्येषु च" ३।१।११९॥which means that ग्रह् takes क्यप् when the word so formed signifies a technical term, a dependent person, something external (in this sense it must be Fem.) and one siding with some one :— *e. g.* प्रगृह्यम्, अवगृह्यम्, गृह्यका (*i.e.*गृहीतका), ग्रामगृह्या सेना, नगरगृह्या सेना (ग्रामनगराभ्यां वहिर्भूता), वासुदेवगृह्याः, अर्जुनगृह्याः (तत्पक्षाश्रिताः).
 
- Dual forms ending in ई, ऊ, and ए, अमी, words ending in शे (ए)which is substituted for case endings in the Vedas, adverbs of one syllable except आङ्, and adverbs ending in ओ, are called प्रगृह्य.There are four cases in which the vowel is optionally called प्रगृह्य. (*vide* Sid. Kau. १.१.१६–१९,).Aप्रगृह्य vowel is not combined with the following vowel ("प्लुतप्रगृह्या अचि नित्यम्" ६।१।१२५॥). Śabarîis compared to a प्रगृह्यपद साध्वीम्, स्पष्टरूपाम्, and अविक्रियाम्shew the properties common to the उपमेय and the उपमान. In connection with शवरी, their sense is clear enough. A प्रगृह्यपद is साधु (good, complete in itself, not mixed with another), स्पष्टरूपम् (having & clear form, its vowel not being mixed up with another, as no Sandhi takes place), and अविक्रियम्(knowing no change caused by Sandhi).
+ Dual forms ending in ई, ऊ, and ए, अमी, words ending in शे (ए)which is substituted for case endings in the Vedas, adverbs of one syllable except आङ्, and adverbs ending in ओ, are called प्रगृह्य.There are four cases in which the vowel is optionally called प्रगृह्य. (*vide* Sid. Kau. १.१.१६–१९,).Aप्रगृह्य vowel is not combined with the following vowel ("प्लुतप्रगृह्या अचि नित्यम्" ६।१।१२५॥). Śabarîis compared to a प्रगृह्यपद साध्वीम्, स्पष्टरूपाम्, and अविक्रियाम्ऽhew the properties common to the उपमेय and the उपमान. In connection with शवरी, their sense is clear enough. A प्रगृह्यपद is साधु (good, complete in itself, not mixed with another), स्पष्टरूपम् (having & clear form, its vowel not being mixed up with another, as no Sandhi takes place), and अविक्रियम्(knowing no change caused by Sandhi).
 
 Stanza 63—
 
@@ -11904,7 +11904,7 @@ means क्रमप्राप्तस्यानतिपातः, *i.e.*
 
  निशोपशायः
 
-. उपशाय is used in the sense of 'sleeping by turns,’ while उपाशयsimply means 'sleeping near.' It does not convey the
+. उपशाय is used in the sense of 'sleeping by turns,’ while उपाशयऽimply means 'sleeping near.' It does not convey the
 
 idea of पर्याय. Similarly विशाय = sleeping by turns, while विशय = संशय (doubt).
 
@@ -12912,7 +12912,7 @@ Because he was blessed by all Gods. The blessings are mentioned in the Râmâya�
 अनेन शिशुना कार्यं कर्त्तव्यं वो भविष्यति।  
 तद्वदध्वं वरान् सर्वे मारुतस्यास्य तुष्टये॥ उत्तरका० ३६. ७-९.
 
- Then they all pronounce blessings upon him. Finally ब्रह्माsays:—
+ Then they all pronounce blessings upon him. Finally ब्रह्माऽays:—
 
 'दीर्घायुश्च महात्मा च ब्रह्मा तं प्राब्रवीद्वचः।  
 सर्वेषां ब्रह्मदण्डानामवध्यत्वं भविष्यति॥' उत्तरका० ३६-२०.

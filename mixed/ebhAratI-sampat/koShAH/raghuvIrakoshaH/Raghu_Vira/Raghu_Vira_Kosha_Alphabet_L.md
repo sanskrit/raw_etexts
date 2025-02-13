@@ -476,7 +476,7 @@ laity** (laymen) **गृहस्थवर्ग** *m.*
 **laka wood** (*Acronychia* *laurifolia*) **व्रणवल्क** *m.*  
 **lake 1.सरस्** *n.,* **झील, 2.***Geog.* **कासार** *m.,***3.**(a pigment; any of coloured insoluble metallic
 
-compounds of dyes) **लाक्षक** *m.,***4.= carmine** (acolour, red रक्त in hue, of very high अधिsaturation and low नि brilliance) **न्यधिरक्त**
+compounds of dyes) **लाक्षक** *m.,***4.= carmine** (acolour, red रक्त in hue, of very high अधिऽaturation and low नि brilliance) **न्यधिरक्त**
 
 **lake black** *Col. Ind.* **लाक्षक काल  
 lake bordeaux** *Col. Ind.* **लाक्षक कपिशक  
@@ -3475,7 +3475,7 @@ liber fibres = bast fibres** *Bot.* **प्रतन्तु** *m.*
 libertine** *n.* (dissolute, profligate) **स्वरैचारी** (-इन्)**, लम्पट** *m.*  
 **liberty 1.स्वाधीनता** (Const.), **उन्मुक्ति** *f.***स्वातन्त्र्य** *n.*
 
-**independence स्वतन्त्रता 2.**(a colour, reddish-blue नीलारक्त in hue, of very high अधिsaturation and low नि brilliance) **न्यधिनीलारक्त  
+**independence स्वतन्त्रता 2.**(a colour, reddish-blue नीलारक्त in hue, of very high अधिऽaturation and low नि brilliance) **न्यधिनीलारक्त  
 absolute liberty परम स्वाधीनता  
 civil liberty नागरिक स्वाधीनता  
 individual liberty वैयक्तिक स्वाधीनता  
@@ -3774,7 +3774,7 @@ light bitter ale हलकी कड़वी यवसुरा
 light blue** *Col. Ind.* **लघु नील  
 light breeze** (4.7 m.p.h.) **मन्द समीर** (*see* Beaufort's Wind Scale)  
 **light Brunswick green** (a colour,yellow-green पीतहरि in hue, of lowनि brilliance) **निपीतहरि  
-light buff** (a colour, yellowish red-yellow रक्तातिपीत in hue, of low अवsaturation and very
+light buff** (a colour, yellowish red-yellow रक्तातिपीत in hue, of low अवऽaturation and very
 
 high brilliance) **स्ववरक्तातिपीत**
 
@@ -3959,7 +3959,7 @@ likh** *Aves* **लघु तृणमयूर** *m.* (तृगमयूर an
 
 प्र brilliance)**प्ररक्तातिनील, 3.**(red रक्त in hue, of low अव saturation and high प्र brilliance) **प्रावरक्त**
 
-**lilac grey** (a colour, blue-red नीलरक्त inhue, of very low अपsaturation andhigh प्र
+**lilac grey** (a colour, blue-red नीलरक्त inhue, of very low अपऽaturation andhigh प्र
 
 brilliance) **प्रापनीलरक्त**
 
@@ -3972,7 +3972,7 @@ Lilium bulbiferum कन्द-नलिनी
 Liliumcandidum** (white lily) **श्वेत-नलिनी** (*candidum* ‘pure white')  
 **Lilium giganteum महा-नलिनी  
 Lilium wallichianum** (leaves narrowlylinear– Basu) **रेखिपत्र-नलिनी  
-lillianite सीभिशिज** *m.* (सी. for सीस lead,भि- for भिदातु bismuth, श- for शुल्बेयsulphide, -इज for
+lillianite सीभिशिज** *m.* (सी. for सीस lead,भि- for भिदातु bismuth, श- for शुल्बेयऽulphide, -इज for
 
 खनिज mineral)
 
@@ -5663,7 +5663,7 @@ Locusta viridissima घास-शलभ
 locust bean** (Ceratonia siliqua) **शलभशिम्ब** *m.*  
 **Locustella** *Aves* **चीरीवाक्-प्रजाति** (the birds have no song but utter an occasional note
 
-वाक्sounding like *chirchirrr* चीरी)
+वाक्ऽounding like *chirchirrr* चीरी)
 
 **locust pod = locust bean  
 locust swarm टिड्डी-दल  

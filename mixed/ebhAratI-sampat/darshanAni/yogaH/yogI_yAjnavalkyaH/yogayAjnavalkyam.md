@@ -1803,7 +1803,7 @@ Vāmana Bhaṭṭa Bāṇa *(second*
 
 *edition)*.   0    4    0
 
-No.4 -**शिवलीलार्णवःSivalilarnava** (Kāvya) by
+No.4 -**शिवलीलार्णवःऽivalilarnava** (Kāvya) by
 
             Nīlakaṇṭa Dīkṣita *(out of stock)*.   2 
   0    0
@@ -1865,7 +1865,7 @@ No. 14 -**नीतिसारःNitisara** (Nīti) by Kāmandaka,
        with the commentary of Sankarārya  
                         * (out of stock).*  
 3    8   0  
-No. 15 - **स्वप्नवासवदत्तम्Svapnavasavadatt**  
+No. 15 - **स्वप्नवासवदत्तम्ऽvapnavasavadatt**  
        (Nāṭaka) by Bhāsa *(second edition).*   1    8 
  0  
 No. 16 - **प्रतिज्ञायौगन्धरायणम् Pratijnayaugandha-  
@@ -2047,7 +2047,7 @@ No. 45 - **प्रपञ्चहृदयम्Prapancahrdaya.   **      1
 No. 46 -**परिभाषावृत्तिःParibhasavrtti** (Vyā-  
            karaṇa) by Nīlakaṇṭa Dīkṣita.      0   
 8     0  
-No. 47 - **सिद्धान्तसिद्धाञ्जनम्Siddhantasiddhanjana**  
+No. 47 - **सिद्धान्तसिद्धाञ्जनम्ऽiddhantasiddhanjana**  
      (Vedānta) by Kṛṣṇānanda Sarasvatī
 
                            (PartI).   
@@ -2082,7 +2082,7 @@ No. 52-**नामलिङ्गानुशासनम् Namalinganusasana**
            ghaṭîya Sarvânanda (Part IV, 3rd  
                                 Kâṇḍa).
  1    8    0  
-No. 53 -**शाब्दनिर्णयSabdanirnaya** (Vedânta) by  
+No. 53 -**शाब्दनिर्णयऽabdanirnaya** (Vedânta) by  
                      Prakâśâtmayatîndra.   0 
 12    0  
 No. 54 -**स्फोटसिद्धिन्यायविचारः Sphotasiddhi -**
@@ -2181,7 +2181,7 @@ No. 74 -**याज्ञवल्क्यस्मृतिःYajnavalkyasmrti
            Viśvarûpâcârya. (Part I - Âcâra  
               and Vyavahâra Adhyâyās).      3   
 4      0  
-No. 75 - **शिल्परत्नम्Silparatna** (Śilpa) by Śrī-
+No. 75 - **शिल्परत्नम्ऽilparatna** (Śilpa) by Śrī-
 
                       kumâra (Part I).     
 2    12     0
@@ -2234,7 +2234,7 @@ No 85 -**विष्णुसंहिता Visnusamhita** (Tantra).      2   
 No. 86 -**भरतचरितम्Bharatacarita** (Kâvya)  
                         by Kṛṣṇakavi.     
 1    8     0  
-No. 87 -**सङ्गीतसमयसारःSangitasamayasara**  
+No. 87 -**सङ्गीतसमयसारःऽangitasamayasara**  
           (Sangīta) of Sangītâkara Pâréva-  
                                deva.  
   1     2    0  
@@ -2246,7 +2246,7 @@ No. 88 -**काव्यप्रकाशःKavyaprakasa** (Alaṅkâra)
 
                    (Part I, 1-5 Ullâsās).    3
     0     0  
-No. 89 -**स्फोटसिद्धिःSphotasiddhi** (Vyākaraṇa)  
+No. 89 -**स्फोटसिद्धिःऽphotasiddhi** (Vyākaraṇa)  
                       by Bharatamiśra.   0 
    8     0  
 No. 90 - **मीमांसाश्लोकवार्तिकम्Mimamsasloka**-  
@@ -2314,7 +2314,7 @@ No. 102 -**दत्तिलम् Dattila** (Saṅgīta) of Dattila-
 No. 103 -**हंससन्देशःHamsasandesa** (Vedānta)  
                      with commentary.    0  
   8     0  
-No. 104 -**साम्बपञ्चाशिकाSambapancasika**  
+No. 104 -**साम्बपञ्चाशिकाऽambapancasika**  
                (Stuti) with commentary.    1   
  0      0  
 No. 105 - **निधिप्रदीपःNidhipradipa** of Siddha-
@@ -2350,12 +2350,12 @@ No. 112 – **कुचेलोपाख्यानम् अजामिल�
            pakhyana** (Sangīta) by H. H.  
          Svāti Śrī Rāma Varma Mahārāja. 0    4    
 0  
-No. 113 -**सङ्गीकृतयःSangitakrtis** (Gāna)
+No. 113 -**सङ्गीकृतयःऽangitakrtis** (Gāna)
 
          of H.H. Svāti Śrī Rāma Varma  
                          Mahārāja. 1   
  0     0  
-No. 114 -**साहित्यमीमांसाSahityamimamsa**  
+No. 114 -**साहित्यमीमांसाऽahityamimamsa**  
                         (Alaṅkāra)  1   
   0     0  
 No. 115 -**ऋक्संहिताRksamhita** (with the  
@@ -2373,7 +2373,7 @@ No. 116 -**वाक्यपदीयम्Vakyapadiya** (Vyākaraṇa)
                                    
    Rs.  As.  P.
 
-No. 117 -**सारस्वतीकण्ठाभरणम्Sarasvatikanta-  
+No. 117 -**सारस्वतीकण्ठाभरणम्ऽarasvatikanta-  
         bharana** (Vyākaraṇa) by Bhojadeva  
            with the commentary of Śrī Nārā-  
                 yaṇa Daṇdanātha. (Part I).  1   8
@@ -2385,7 +2385,7 @@ No. 118 -**बालरामभरतम्Balaramabharata**
 No. 119 – **विवेकमार्ताण्डः Vivekamarthanda**  
               (Vedānta) of Viśvarūpadeva   0    8
   0  
-No. 120 - **शौनकीयम्Saunakiya.** (Smrti)       0    8  
+No. 120 - **शौनकीयम्ऽaunakiya.** (Smrti)       0    8  
 0  
 No 121 - **वैज्ञानसागमःVaikhanasagama**  
                     (Tantra) of Marīci,    2
@@ -2396,7 +2396,7 @@ No. 122 - **प्रबोधचन्द्रोदयम्Prabodhacandroday
              bharaṇa of Śrī Govindāmṛta-  
                            bhagavān.   2
    0    0  
-No. 123 - **सङ्ग्रामविजयोदयःSangramavijayo-  
+No. 123 - **सङ्ग्रामविजयोदयःऽangramavijayo-  
                         daya** (Jyotiṣa).  
 2    0    0  
 No. 124 -**हरमेखलाHaramekhala** (Vaidyaka)  
@@ -2410,7 +2410,7 @@ No. 125 -**कोकसन्देशःKokasandesa** (Kāvya)
 
 No. 126 -**करणपद्धतिःKaranapaddhati** (Jyotiṣa)0    4    0
 
-No. 127 -**सरस्वीकण्ठाभरणम्Sarasvatikanta-**
+No. 127 -**सरस्वीकण्ठाभरणम्ऽarasvatikanta-**
 
 **               bharana** (Vyākaraṇa) by  
          Bhojadeva with the commentary  

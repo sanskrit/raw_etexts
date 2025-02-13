@@ -864,7 +864,7 @@ a perennial tuber, which may reach a very large size— McLean I.939)**कृष
 tan** *vb.* **शल्कन, चर्मसंस्करण  
 tan** *n.* **1. = tanbark 2.**(a tanning substance) **शल्क-द्रव्य** *n.***3.** ( a colour, red-yellow रक्तपीत in
 
-hue, and of high उद्saturation) **उद्रक्तपीत**
+hue, and of high उद्ऽaturation) **उद्रक्तपीत**
 
 **tan** (tangent) *Math.* **स्प** (स्पज्या)
 
@@ -4766,7 +4766,7 @@ thyme 1.पर्णासी** *f.*
 
 
 **basil thyme तुलसी  
-2.पर्णासी-वर्ण** *m.,* **= pitch pine** (a colour, yellowish green हर्यापीतin hue, of low अवsaturation and low नि brilliance) **न्यवहर्यापीत**
+2.पर्णासी-वर्ण** *m.,* **= pitch pine** (a colour, yellowish green हर्यापीतin hue, of low अवऽaturation and low नि brilliance) **न्यवहर्यापीत**
 
 **thyme camphor** *Chem.* **पर्णासी-कर्पूर  
 thym-egol पर्णा-तुल्यव  
@@ -8698,7 +8698,7 @@ tropical wet evergreen** *Forestry* **उष्णदेशीय आर्द�
 tropical year = solar year** *Astron.* **सौरवर्ष, सायन वर्ष** (ancient word)  
 **tropical yellow earth उष्णदेशीय पीत मृदा  
 Tropical zone** *Biogeog.* **उष्ण कटिबन्ध  
-tropic-bird औष्णक** *m.* (so called because it is found throughout the tropical उष्णseas of
+tropic-bird औष्णक** *m.* (so called because it is found throughout the tropical उष्णऽeas of
 
 the world)
 
@@ -9335,14 +9335,14 @@ turkey-buzzard = American vulture
 Turkey oak तुरुष्क बञ्जु  
 Turkey red 1.***Col. Ind.* **तुरुष्क रक्त**
 
-**2.**(acolour, yellowish-red रक्तापीत in hue, of high उद्saturation and low नि brilliance) **न्युदक्तापीत**
+**2.**(acolour, yellowish-red रक्तापीत in hue, of high उद्ऽaturation and low नि brilliance) **न्युदक्तापीत**
 
 **Turkey-red oil तुरुष्क-रक्त तैल  
 Turkey rhubarb = Chinese rhubarb चीनरेच** *m.*  
 **Turkey umber** *Col. Ind.* **तुरुष्क-पत्रुकी  
 Turkish-crescent red** (acolour, reddish red-yellow पीतातिरक्त in hue, of high
 
-उत्saturation and low निbrilliance)**न्युत्पीतातिरक्त**
+उत्ऽaturation and low निbrilliance)**न्युत्पीतातिरक्त**
 
 **Turkish towel** (having rough surface formed by raised loops or a thick pile) **उत्पाश प्रोञ्छ  
 turmeric** (*Curcuma longa*) **हरिद्रा***f.* (B.,N., M.), **हलदी  

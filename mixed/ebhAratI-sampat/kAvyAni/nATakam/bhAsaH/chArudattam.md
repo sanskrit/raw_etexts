@@ -1442,7 +1442,7 @@ Daridra-Cārudatta cannot be the present play for the simple reason that in none
 
 **विदूषकः**-ण खु वसन्तसेणा, वसन्तसेणो पत्तो ।\[ न खलु वसन्त
 
-सेना, वसन्तसेनः प्राप्तः ।।
+सेना, वसन्तसेनः प्राप्तः ॥
 
 **नायकः**-रदनिके ! किमेतत्‌ ।
 
@@ -3422,9 +3422,9 @@ II²². बहुमाणो विअ – बहुमानः is to be regar
 
  In this act the moon is spoken of as setting sometime after mid-night on the eighth day—showing, thereby, that it is the eighth day of the bright half of the month; so that we have to allow the lapse of a fortnight or so between the
 
-first and third act. But from the arrangement between the चेटी and the विदूषक regarding the days on which each was to keep the ornaments, it would appear that only three days must have elapsed between the first and third act. For the चेटी says इअं सुवण्णभण्डं सट्ठीए सत्तमीए परिवट्टामि । अट्ठमी खु अज्ज ।. By introducing the तिथिscheme, therefore, the author of the Cārudatta has involved himself into an inconsistency regarding time-sequence.
+first and third act. But from the arrangement between the चेटी and the विदूषक regarding the days on which each was to keep the ornaments, it would appear that only three days must have elapsed between the first and third act. For the चेटी says इअं सुवण्णभण्डं सट्ठीए सत्तमीए परिवट्टामि । अट्ठमी खु अज्ज ।. By introducing the तिथिऽcheme, therefore, the author of the Cārudatta has involved himself into an inconsistency regarding time-sequence.
 
- P. 35. III. 3²¹. मुह वि धादे—धादेshould be changed into धोदं । परिवेट्ठामि—परिवर्तयामि, निवर्तयामि। Hand over.
+ P. 35. III. 3²¹. मुह वि धादे—धादेऽhould be changed into धोदं । परिवेट्ठामि—परिवर्तयामि, निवर्तयामि। Hand over.
 
  P. 37. III. 5. निर्मुच्यमान इवThe image is employed in the स्वप्नवासवदत्त— निर्मुच्यमानभुजगोदरनिर्मलस्यः etc. iv. 2.
 

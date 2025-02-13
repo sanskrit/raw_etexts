@@ -11847,7 +11847,7 @@ duffin bean** *(Phaseolus lunatus)***चिपिट-शिम्ब** *m.*
 **duffing** *Law* **कूटकरण** *n.*  
 **duffing** *adj.* **कूट  
 duffle = goldengrain** *(Verbascum thapsus)* **स्वर्णधान्य** *m.*  
-**dufrenoysite सीसनेशिज** *m.* (सीस lead, ने- for नेपाली arsenic, श- for शुल्बेयsulphide, -इज for
+**dufrenoysite सीसनेशिज** *m.* (सीस lead, ने- for नेपाली arsenic, श- for शुल्बेयऽulphide, -इज for
 
 खनिज mineral)
 

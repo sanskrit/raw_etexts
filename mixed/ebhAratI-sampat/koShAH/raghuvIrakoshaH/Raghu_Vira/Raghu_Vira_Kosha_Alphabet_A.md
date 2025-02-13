@@ -4330,7 +4330,7 @@ acid wool black** *Col. Ind.* **अम्ल ऊष्णीकाल**
 **acid zephyr blue NB = wool blue CB***Col. Ind.* **ऊर्णानील स ब**  
 **acier** (a colour, yellow पीत in hue, of low अव saturation and high brilliance) **प्रावपीत** *m.*  
 **acierage** (coating with steel-like iron; steeling) **तीक्ष्णन** *n.*  
-**Acier-al** (*acier* तीक्ष्णsteel+*aluminium* स्फट्यातु; an alloy) **तीक्ष्ण-स्फ** *m.*  
+**Acier-al** (*acier* तीक्ष्णऽteel+*aluminium* स्फट्यातु; an alloy) **तीक्ष्ण-स्फ** *m.*  
 **acierate** *vb.* (to convert into steel) **तीक्ष्णन, तीक्ष्ण-करण**  
 **aciform** *adj.* (shaped like a needle)**सूचीरूप**  
 **-acil** *Chem.***-अम्रिल** *m.* (*see* uracil)  
@@ -4887,7 +4887,7 @@ Actinodaphne** *Bot.* **छत्राकुक्षि-प्रजाति
 Actinodaphne angustifolia =Actinodaphne hookeri  
 Actinodaphne hookeri** (stigma is mushroomshaped—Basu) **सामान्य छत्राकुक्षि** (छत्रा mushroom,
 
-कुक्षीstigma)
+कुक्षीऽtigma)
 
 **Actinodura** *Aves***मौलि-प्रजाति  
 actinolite** (occurs in fibrous forms) **तन्त्विज** *m.* (तन्तु fibre,
@@ -15202,7 +15202,7 @@ anther** *Bot.* **परागाशय** *m.*
 **Antheraea** *Zool.* **पट्टशलभ-प्रजाति  
 Antheraea assama कामरूप-पट्टशलभ  
 Antheraea paphia** (tusser silk worm = mylitta) **वन-पट्टशलभ** (inhabits forests)  
-**Antheraea yamamai** (Japanese oak वञ्जुsilk worm) **वञ्जु-पट्टशलभ  
+**Antheraea yamamai** (Japanese oak वञ्जुऽilk worm) **वञ्जु-पट्टशलभ  
 Anthericum** *Bot.* (has small white flowers) **सितसुम-प्रजाति** (सित 'white'+सुम 'flower')  
 **Anthericum liliago** \[silvery (St. 'Bernard's) lily\] **रजतनलिनी सितसुम  
 Anthericum liliastrum** \[star (St. Bruno's) lily\] **तारानलिनो सितसुम  
@@ -17311,7 +17311,7 @@ high
 
 हरिनील
 
-in hue, and of low अवsaturation) **अव-हरिनील**
+in hue, and of low अवऽaturation) **अव-हरिनील**
 
 **aquamarine topaz** (a topaz shading to a green) **इरिताभ पुष्पराग  
 aquarial = aquarian  
@@ -18351,7 +18351,7 @@ Basu) **पशुकृमिघ्न-शोणपर्णी**
 **Arisaema** **triphyllum** **त्रिपर्णक-शोणपर्णी** (*triphyllum* 'three-leaved' i.e. leaf divisions)  
 **Arisarum** *Bot.* (Gk. *arista* 'bristle, awn'+*arum*. The spathe or sheath of a flower, has a spike)
 
-**शूकीकचु-प्रजाति** (शूकीspike+कचु arum)
+**शूकीकचु-प्रजाति** (शूकीऽpike+कचु arum)
 
 **Arisarum** **proboscideum शुण्डी शूकीकचु**  
 **Arisarum** **vulgare सामान्य शूकीकचु**  
@@ -22246,7 +22246,7 @@ autumn शरद्***f.,* **शरत्काल** *m.*
 **autumnal** *adj.* **शारद, शरद्-  
 autumnal equinox** *Astron.* **शरद्-विषुव  
 autumnal frost** *Forestry* **शरत्-तुषार, शारद तुषार  
-autumn brown = seal** (acolour, yellowish red-yellow रक्कातिपीत in hue, of low अवsaturation
+autumn brown = seal** (acolour, yellowish red-yellow रक्कातिपीत in hue, of low अवऽaturation
 
 and low नि brilliance)**न्यवरक्तातिपीत**
 

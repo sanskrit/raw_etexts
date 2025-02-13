@@ -529,7 +529,7 @@ THE Manuscript variants are given separately, and not as foot-notes at the botto
 
 ** 108.** *d* Folio 8*b*ends with **चिक्षि.**
 
-** 110.** *c* After **बह**and **ए** mark of **वो**the letter वstarted and scored and is written after blank for a syllable as leaf is bad for writing.
+** 110.** *c* After **बह**and **ए** mark of **वो**the letter वऽtarted and scored and is written after blank for a syllable as leaf is bad for writing.
 
 ** 111.** *d.* **स्वयंबरे.**
 
