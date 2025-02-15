@@ -124,7 +124,7 @@ All Rights Reserved.\]
 
 **INTRODUCTION.**
 
-  The Nāradiyamani.samhitānow published with Bhāṣya is an important work on Smṛti. The edition of the work is based on the following four manuscripts, about five centuries old.
+  The Nāradiyamani.samhitā now published with Bhāṣya is an important work on Smṛti. The edition of the work is based on the following four manuscripts, about five centuries old.
 
   The first two manuscripts marked क and ख respectively were obtained from Brahmasri Harisvaran Padmanabhan Namburi, Kallampalli, Ettumanur. The first is a complete manuscript while the second runs up to the end of Lekhya-prakaraṇa.
 
@@ -134,7 +134,7 @@ All Rights Reserved.\]
 
   The source of all the four manuscripts is found to be ancient manuscript libraries belonging to Namburi Brahmins of the State of Travancore, a fact evidencing the expert knowledge these Brahmins had in judicial procedure in olden days.
 
- The subject matter of the work is the eighteen titles oflaw¹as in the Vyavahārādhyāya of Yājñavalkya. At the close of the work is tacked on the chapter on ordeals, but this chapter, I think, is not by Nārada, but a summary by a different hand, of the topics dealt with byNārada[^1]"), andit was not a part of the original work. In support of this view
+ The subject matter of the work is the eighteen titles of law¹as in the Vyavahārādhyāya of Yājñavalkya. At the close of the work is tacked on the chapter on ordeals, but this chapter, I think, is not by Nārada, but a summary by a different hand, of the topics dealt with byNārada[^1]"), andit was not a part of the original work. In support of this view
 
 [^1]: "सन्दिग्धेऽर्थेऽभिशस्तानां परीक्षार्थे महात्मना । मारदेन पुरा प्रोक्ताःसत्यानृतविभाजिकाः ॥ (p. 195
 

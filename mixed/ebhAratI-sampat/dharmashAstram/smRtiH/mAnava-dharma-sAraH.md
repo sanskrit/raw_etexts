@@ -15,6 +15,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDIyNDM1NDcxMTQ
 
 \[
 
+TODO: परिष्कार्यम्
 
 
 REVIEW NOT DONE
@@ -14059,17 +14060,6 @@ REVIEW NOT DONE
 
 
 
-
-
-DATE OF ISSUE
-
-This book must be returned within 3, 7, 14 days of its issue. A fine of ONE ANNA per day will be charged if the book is overdue.
-
-
-
-
-
-$294.5     346M
 
           Cop-1
 
