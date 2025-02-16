@@ -45,11 +45,7 @@ FOR HIS PATRONAGE OF ORIENTAL LANGUAGES
 
 **FOREWORD**
 
-  Śrimati V. Bālammāl, daughter of the late Dr. A. R. Vaidyanatha Sastriyar, M.A., M.B. & C.M. of Mysore, is the authoress of this little poetical work in Sanskrit called *Subōdharamacharitam.* It is written in the form of simple Anushṭubh verses and summarises the story of the Rāmāyaṇa. The language throughout is faultless and idiomatic and the style is very simple. Many verses in the work and particularly the Ãryās prefixed to each Kāṇḍa are of considerable poetic worth. Sister V. Bālammāl tells me that she studied Sanskrit, when she was a girl, under one of the most eminent Pandits of Southern India and the foremost of the Court Paṇḍits of Mysore, viz., the late *Mahamahōpādhyāya Brahmaśrī Sundara Sastriar of Pazhavānēri.* I am very favourably impressed with her attainments in Sanskrit and Tamil and
-
-**FOREWORD.**
-
-her behaviour. I need hardly add that her work richly deserves a very favourable reception. and a very generous encouragement at the hands of all those interested in the education of Hindu women in accordance with Hindu ideals.
+  Śrimati V. Bālammāl, daughter of the late Dr. A. R. Vaidyanatha Sastriyar, M.A., M.B. & C.M. of Mysore, is the authoress of this little poetical work in Sanskrit called *Subōdharamacharitam.* It is written in the form of simple Anushṭubh verses and summarises the story of the Rāmāyaṇa. The language throughout is faultless and idiomatic and the style is very simple. Many verses in the work and particularly the Ãryās prefixed to each Kāṇḍa are of considerable poetic worth. Sister V. Bālammāl tells me that she studied Sanskrit, when she was a girl, under one of the most eminent Pandits of Southern India and the foremost of the Court Paṇḍits of Mysore, viz., the late *Mahamahōpādhyāya Brahmaśrī Sundara Sastriar of Pazhavānēri.* I am very favourably impressed with her attainments in Sanskrit and Tamil andher behaviour. I need hardly add that her work richly deserves a very favourable reception. and a very generous encouragement at the hands of all those interested in the education of Hindu women in accordance with Hindu ideals.
 
 S. KUPPUSWAMI SASTRI, M.A., F.M.U.,
 
