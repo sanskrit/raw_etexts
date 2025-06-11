@@ -1,4 +1,4 @@
-+++
+ +++
 "Catalog number" = "M00251"
 "Uniform title" = "niśvāsakārikā"
 "Main title" = "niśvāsakārikātantra"
