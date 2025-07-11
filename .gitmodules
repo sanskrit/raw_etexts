@@ -262,3 +262,6 @@
 	path = mixed/shrIkosha
 	url = https://github.com/Shatakopa/shrikosha.git
 	branch = content
+[submodule "kAvyam/gadyam/adhyeta-data"]
+	path = kAvyam/gadyam/adhyeta-data
+	url = https://github.com/s-i-e-v-e/adhyeta-data.git
