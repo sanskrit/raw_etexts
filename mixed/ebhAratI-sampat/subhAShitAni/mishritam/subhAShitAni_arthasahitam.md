@@ -2003,7 +2003,7 @@ Basemen do not undertake any work apprehending obstacle. Mediocres make a start,
 
 कस्यचित्।  
 
-पतत्येवाधमाँल्लोकान्
+पतत्येवाधमाल्ँलोकान्
 
 यावच्छब्दः
 

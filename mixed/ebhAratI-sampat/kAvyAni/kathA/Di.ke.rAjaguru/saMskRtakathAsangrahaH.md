@@ -358,7 +358,7 @@ made, to make the book more interesting and useful to the students. With this en
 न हि तापयितुं शक्यं सागराम्भस्तृणोल्कया॥६॥**
 
 **यस्यार्थास्तस्य मित्राणि यस्यार्थास्तस्य बान्धवाः।  
-यस्यार्थाः स पुमाँल्लोके यस्यार्थाःस हि पण्डितः॥७॥**
+यस्यार्थाः स पुमाल्ँलोके यस्यार्थाःस हि पण्डितः॥७॥**
 
  **अन्तरम्‌** Difference. **क्षणविध्वंसिन्‌** Perishing in a moment. **कल्पान्तः**The destructionot the universe. **निज** One’s own. परः A stranger. **लघुचेतसाम्‌** Of lowminded persons. **उदारचरितानां** Of noble persons. **दुर्भिक्षं** A famine. **राष्ट्रविप्लवः**A change in the kingdom. **तिष्ठति** Stands by, helps. **परोक्षे** In one’s absence. **कार्यहन्तृ**One who destroys another’s work. **प्रत्यक्षे** Inone’s presence. **विषकुम्भः** A pot containing poison. **पयोमुखम्‌** With milk at the
 

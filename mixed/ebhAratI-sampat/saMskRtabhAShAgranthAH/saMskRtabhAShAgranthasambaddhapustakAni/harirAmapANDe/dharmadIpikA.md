@@ -3540,7 +3540,7 @@ ON JNÁNA YOGA**
 
  Verily there exists nothing in this world as purifying as knowledge. In good time, having reached perfection in Yoga**\*** (i.e. Karma Yoga and Samádhi Yoga as given in the Gítá Books III and VI) one realises that oneself in one's own heart. **Gita IV. 38**
 
-**श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः।  
+**श्रद्धावाल्ँलभते ज्ञानं तत्परः संयतेन्द्रियः।  
 ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥ गीता ४–३९**
 
  The man with Ṣraddhá (faith), the devoted, the master of one's senses, attains (this) knowledge. Having attained knowledge one goes at once to the supreme peace. **Gita IV. 39**

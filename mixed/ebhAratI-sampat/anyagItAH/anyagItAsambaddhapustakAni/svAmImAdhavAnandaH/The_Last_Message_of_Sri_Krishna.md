@@ -305,7 +305,7 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **² *Curse—*This alludes to the curse which some Rishis coming to Dwârakâ gave the Yâdava boys who played a trick with them.\]**
 
 **ततः स्वधाम परमं विशस्व यदि मन्यसे।  
-सलोकाँल्लोकपालान्नः पाहि वैकुण्ठकिंकरान्॥२७॥**
+सलोकाल्ँलोकपालान्नः पाहि वैकुण्ठकिंकरान्॥२७॥**
 
  27. Therefore, if Thou thinkest fit, deign to go back to Thy own supreme abode¹, and protect us, the lords of beings, together with our people,— for we are but servants of Vaikuntha.
 
@@ -675,7 +675,7 @@ offered his head for this purpose and was asked by the Lord to go and live in th
 **यदुरुवाच।**
 
 **कुतो बुद्धिरियं ब्रह्मन्नकर्तुः सुविशारदा।  
-यामासाद्य भवाँल्लोकं विद्वांश्चरति बालवत्॥२६॥**
+यामासाद्य भवाल्ँलोकं विद्वांश्चरति बालवत्॥२६॥**
 
 **Yadu said :**
 
@@ -961,7 +961,7 @@ with his eyes always on the Self, is not affected by those attributes, like the 
 
  62. One day, the pair went in search of food for them, and roamed about for a long time in that forest, with this object.
 
-**द्वष्ट्वाताँल्लुब्धकः कश्चिद्यदृच्छातो वनेचरः।  
+**द्वष्ट्वाताल्ँलुब्धकः कश्चिद्यदृच्छातो वनेचरः।  
 जगृहे जालमातत्य चरतः स्वालयान्तिके॥६३॥**
 
  63. A fowler rambling in the woods at will saw them¹ flying near their nest, and caught them by spreading a trap.
@@ -1412,7 +1412,7 @@ satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, 
  8. As she went on husking, even those two bracelets produced a sound. So she removed one of these also. From the single bracelet there was no more sound.
 
 **अन्वशिक्षमिमं तस्या उपदेशमरिन्दम।  
-लोकाननुचरन्नेताँल्लोकतत्त्वविवित्सया॥९॥**
+लोकाननुचरन्नेताल्ँलोकतत्त्वविवित्सया॥९॥**
 
  9. Roaming¹over the world with a view to know the ways of men, I learnt this lesson from her, O queller of foes:
 
@@ -5153,7 +5153,7 @@ and who is neither disgusted with nor grossly attached to work, the path of Devo
 
 **² *Hell*—Because he has been doing his duties and avoiding evil.\]**
 
-**अस्मिँल्लोके वर्तमानः स्वधर्मस्थोऽनघः शुचिः।  
+**अस्मिल्ँलोके वर्तमानः स्वधर्मस्थोऽनघः शुचिः।  
 ज्ञानं विशुद्धमाप्नोति मद्भक्तिं वा यदृच्छया॥११॥**
 
  11. Such a man, becoming sinless and pure, attains to pure knowledge, or perchance devotion to Me,—remaining in this very world.

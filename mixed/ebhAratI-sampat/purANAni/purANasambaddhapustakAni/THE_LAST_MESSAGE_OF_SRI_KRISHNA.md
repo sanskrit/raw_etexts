@@ -253,7 +253,7 @@ devotees in diverse forms for attaining equal [glories](https://#%C2%A0 "Equal g
  26. O Thou Support of the universe, Thou hast now no more work to do for the gods, and this [line](https://# "This line—i.e. the Yadava line.") also is almost at the point of destruction owing to the Brâhmanas' [curse](https://# "Curse —This alludes to the curse which some Rishis coming to Dwârakâ gave the Yâdava boys who played a trick with them.]").
 
 **ततः स्वधाम परमं विशस्व यदि मन्यसे।  
-सलोकाँल्लोकपालान्नः पाहि वैकुण्ठकिंकरान्॥२७॥**
+सलोकाल्ँलोकपालान्नः पाहि वैकुण्ठकिंकरान्॥२७॥**
 
  27. Therefore, if Thou thinkest fit, deign to go back to Thy own supreme [abode](https://# "[Own . . . abode —i.e. Vaikuntha mentioned in the last line.]"), and protect us, the lords of beings, together with our people,— for we are but servants of Vaikuntha.
 
@@ -567,7 +567,7 @@ devotees in diverse forms for attaining equal [glories](https://#%C2%A0 "Equal g
 **यदुरुवाच।**
 
 **कुतो बुद्धिरियं ब्रह्मन्नकर्तुः सुविशारदा।  
-यामासाद्य भवाँल्लोकं विद्वांश्चरति बालवत्॥२६॥**
+यामासाद्य भवाल्ँलोकं विद्वांश्चरति बालवत्॥२६॥**
 
  Yadusaid:
 
@@ -1166,7 +1166,7 @@ satisfy me, and who can give me wealth;—leaving Him I am courting a puny man, 
  8. As she went on husking, even those two bracelets produced a sound. So she removed one of these also. From the single bracelet there was no more sound.
 
 **अन्वशिक्षमिमं तस्या उपदेशमरिन्दम।  
-लोकाननुचरन्नेताँल्लोकतत्त्वविवित्सया॥९॥**
+लोकाननुचरन्नेताल्ँलोकतत्त्वविवित्सया॥९॥**
 
  9. [Roaming](https://# "[Roaming etc.—This explains how he met that girl.]")over the world with a view to know the ways of men, I learnt this lesson from her, O queller of foes:
 
@@ -4719,7 +4719,7 @@ CHAPTER XV
 
   \[Verses 10 and 11 show how the Karma-Yogin can rise to the level of a Jnaña-Yogin or Bhakti-Yogin.\]
 
-**अस्मिँल्लोके वर्तमानः स्वधर्मस्थोऽनघः शुचिः।  
+**अस्मिल्ँलोके वर्तमानः स्वधर्मस्थोऽनघः शुचिः।  
 ज्ञानं विशुद्धमाप्नोति मद्भक्तिं वा यदृच्छया॥११॥**
 
  11. Such a man, becoming sinless and pure, attains to pure knowledge, or perchance devotion to Me,—remaining in this very world.

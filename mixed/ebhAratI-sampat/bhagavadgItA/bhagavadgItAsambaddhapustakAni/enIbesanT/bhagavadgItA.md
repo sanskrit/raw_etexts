@@ -1490,7 +1490,7 @@ tion, and by service. The wise, the seers of the essence of things, will instruc
 
  Verily there is no purifier in this world like wisdom; he that is perfected in yoga finds it in the SELF in due season.(38)
 
-**श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः।  
+**श्रद्धावाल्ँलभते ज्ञानं तत्परः संयतेन्द्रियः।  
 ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥३९॥**
 
  The man who is full of faith[^112]obtaineth wisdom, and he also who hath mastery over his senses; and, having obtained wisdom, he goeth swiftly to the supreme Peace.(39)

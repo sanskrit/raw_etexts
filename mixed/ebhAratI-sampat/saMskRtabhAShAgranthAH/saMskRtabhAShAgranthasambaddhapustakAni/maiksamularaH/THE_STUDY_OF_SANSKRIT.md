@@ -4842,7 +4842,7 @@ likewise policy this, Sire, through long is fruitful preservation. (43)
 
 Another and, Of the great at a distance-apprehension, in proximity heroism (is) a quality;
 
-**विपत्तौ च महाँल्ल़ोके धीरताम़नुगच्छति॥४४॥**
+**विपत्तौ च महाल्ँल़ोके धीरताम़नुगच्छति॥४४॥**
 
 in adversity and a great man in the world firmness evinces. (44)
 

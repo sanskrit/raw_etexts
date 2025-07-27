@@ -2790,7 +2790,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 ‌)
 
-अस्मँल्लतावितानवलयिते
+अस्मल्ँलतावितानवलयिते
 
 नातिदूरस्थिते
 
@@ -9235,7 +9235,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 किमपि
 
-सँल्लपन्
+सल्ँलपन्
 
 ‌
 
@@ -12496,7 +12496,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MDA4MzIwMzAx
 
 वाचस्पतिना
 
-सँल्लपन्
+सल्ँलपन्
 
 ‌
 

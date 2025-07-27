@@ -1667,7 +1667,7 @@ desires, and allow them to attach themselves only to objects the possession of w
 
  2. Mind is the creative power, and a man becomes that which he thinks.
 
- **अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिँल्लोके पुरुषो भवति तथेतः प्रेत्य भवति।¹**
+ **अथ खलु क्रतुमयः पुरुषो यथाक्रतुरस्मिल्ँलोके पुरुषो भवति तथेतः प्रेत्य भवति।¹**
 
  "Now verily man is thought-formed²; as a man in this world thinks, so, having gone away hence, he becomes."
 

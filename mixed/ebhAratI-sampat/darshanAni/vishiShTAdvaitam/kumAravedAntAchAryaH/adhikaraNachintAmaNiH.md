@@ -31273,7 +31273,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjE3MjAyMzMy
 
 '
 
-इमाँल्लोकान् कामान्नी कामरूप्यनुसञ्चरन्
+इमाल्ँलोकान् कामान्नी कामरूप्यनुसञ्चरन्
 
 '
 

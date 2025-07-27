@@ -1271,7 +1271,7 @@ stitute the group. *Yasmin,* due to which — due to the existence of which supr
 
 **य एष सुप्तेषु जागर्ति कामं कामं पुरुषो निर्मिमाणः।  
 तदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते।  
-तस्मिँल्लोकाः श्रिताः सर्वे तदु नात्येति कश्चन। एतद्वौ तत्‌॥८॥**
+तस्मिल्ँलोकाः श्रिताः सर्वे तदु नात्येति कश्चन। एतद्वौ तत्‌॥८॥**
 
  8. That Purusa indeed, who keeps awake and goes on creating desirable things even when the senses fall asleep, is pure; and He is Brahman, and He is called the Immortal. All the worlds are fixed on Him; none can transcend Him. This indeed is that.
 
@@ -1361,7 +1361,7 @@ variously. Through the various kinds of effulgence in the effects, it is known t
 
 **ऊर्ध्वम्लोवाक्शाख एषोऽश्वत्थः सनातनः।  
 तदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते।  
-तस्मिँल्लोकाः श्रिताःसर्वे तदुनात्येति कश्चन। एतद्वै तत्‌ ॥१॥**
+तस्मिल्ँलोकाः श्रिताःसर्वे तदुनात्येति कश्चन। एतद्वै तत्‌ ॥१॥**
 
  1. This is the beginningless peepul tree that has its roots above and branches down. That (which is its root) is pure, that is Brahman and that is called immortal. On that are fixed all the worlds; none transcends that. This verily is that.
 

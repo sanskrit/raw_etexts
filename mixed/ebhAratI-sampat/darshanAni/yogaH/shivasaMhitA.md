@@ -1565,7 +1565,7 @@ Note. — He should perform 5 *Kumbhakas* at each centre or Chakra.
 
 **संवत्सरकृताऽभ्यासाद्भैरवो भवति ध्रुवम् ।**  
 
-**अणिमादिगुणाँल्लब्ध्वा जितभूतगणःस्वयम् ॥७८॥**
+**अणिमादिगुणाल्ँलब्ध्वा जितभूतगणःस्वयम् ॥७८॥**
 
 78\. If he continues this exercise for a year, hebecomes a Bhairava ; he obtains the powers of *aṇimâ*&c., and conquers all elements and the elementals.
 
@@ -2453,7 +2453,7 @@ A Secret.
  39. The Yogi, who does it even once, verily destroys all sins ; and undoubtedly in him the *vâyus* enter the middle channel.
 
 **एतदभ्यासशीलोयः स योगी देवपूजितः।  
-अणिमादिगुणाँल्लब्ध्वा विचरेद्भुवनत्रये॥४०॥**
+अणिमादिगुणाल्ँलब्ध्वा विचरेद्भुवनत्रये॥४०॥**
 
  
 
@@ -3178,7 +3178,7 @@ The Sacred Triveni (Prayág).
 
  141. If the mind becomes steadily fixed even for half a second at the *Brahmarandhra*, one becomes free from sins and reaches the highest end.
 
-**अस्मिँल्लीनं मनो यस्य स योगी मयि लीयते।  
+**अस्मिल्ँलीनं मनो यस्य स योगी मयि लीयते।  
 अणिमादिगुणान्भुक्ता स्वेच्छया पुरुषोत्तमः॥१४२॥**
 
  142. The holy Yogi whose mind is absorbed in this, is absorbed in me after having enjoyed the powers called *animâ, laghimâ* etc.

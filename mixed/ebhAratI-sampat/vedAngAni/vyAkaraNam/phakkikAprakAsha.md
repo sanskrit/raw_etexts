@@ -30785,7 +30785,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ज
 
-न्तपुँल्लिङ्गप्रकरणम्
+न्तपुल्ँलिङ्गप्रकरणम्
 
 ।
 
@@ -41092,7 +41092,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 ।
 
-पुँल्लिङ्गदिनिर्णायकं
+पुल्ँलिङ्गदिनिर्णायकं
 
 साहचर्यादिकमपि
 
@@ -51009,7 +51009,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 क्रियाशब्दतया
 
-पुँल्लिङ्गे
+पुल्ँलिङ्गे
 
 मुख्या
 
@@ -52571,7 +52571,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 
 
-हलन्तपुँल्लिङ्ग
+हलन्तपुल्ँलिङ्ग
 
 *-स्त्रीलिङ्गप्रकरणम्*
 
@@ -66405,7 +66405,7 @@ source_url = "https://www.ebharatisampat.in/read_chapter.php?bookid=MjY4NzY1OTY3
 
 :
 
-पुँल्लिङ्गा
+पुल्ँलिङ्गा
 
 :
 

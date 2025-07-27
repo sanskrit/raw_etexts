@@ -904,7 +904,7 @@ HUME—
   Nothing is more surprising than the easiness with which the many are governed by the few.
 
 **किमप्यद्भुतं नान्यदस्मादिहास्ति  
-यदल्पे बहुँल्लीलया शासतीति।**
+यदल्पे बहुल्ँलीलया शासतीति।**
 
 — 93 —
 

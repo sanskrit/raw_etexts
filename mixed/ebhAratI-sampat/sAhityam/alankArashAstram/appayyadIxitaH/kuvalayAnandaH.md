@@ -44377,7 +44377,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NDMyMzM5Nzc2MTA
 
 प्रतसंहृतः
 
-स्वस्मँल्लयं
+स्वस्मल्ँलयं
 
 प्रापित
 

@@ -2385,7 +2385,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzMjAyMzE2OTM
 
 परोवरीयो
 
-हैभ्यस्तावदस्मिँल्लोके
+हैभ्यस्तावदस्मिल्ँलोके
 
 जीवनं
 
@@ -2393,7 +2393,7 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzMjAyMzE2OTM
 
 ३
 
-तथामुष्मिँल्लोके
+तथामुष्मिल्ँलोके
 
 लोक
 
@@ -2415,13 +2415,13 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjQzMjAyMzE2OTM
 
 \-
 
-स्यास्मिँल्लोके
+स्यास्मिल्ँलोके
 
 जीवनं
 
 भवति
 
-तथामुष्मिँल्लोके
+तथामुष्मिल्ँलोके
 
 लोक
 

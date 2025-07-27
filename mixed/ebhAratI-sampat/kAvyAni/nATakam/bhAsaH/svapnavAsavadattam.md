@@ -294,7 +294,7 @@ any particular author. Śaktibhadra's *Āścarya Cūḍamaṇi* exhibits exactly
 
 7\.
 
-कपाले मार्जारः पय इति कराँल्लेढि शशिन-  
+कपाले मार्जारः पय इति कराल्ँलेढि शशिन-  
 
 स्तरुच्छिद्रप्रोतान् बिसमिति करेणुः कलयति।  
 रतान्ते तल्पस्थान् हरति वनिताऽप्यंशुकमिति  
@@ -306,7 +306,7 @@ any particular author. Śaktibhadra's *Āścarya Cūḍamaṇi* exhibits exactly
 
  This is cited in *Śārṅgadhara paddhati* also as Bhāsa's (No. 3640 ) with slight variations in the
 
-Pūrvārdha as follows:— कपोले मार्जारी पय इति कराँल्लेढिशशिनस्तरुच्छिद्रप्रोतान्बिसमिति करी संकलयति।
+Pūrvārdha as follows:— कपोले मार्जारी पय इति कराल्ँलेढिशशिनस्तरुच्छिद्रप्रोतान्बिसमिति करी संकलयति।
 
  This is also cited in Vallabhadeva's *Subhāṣitāvalī*(No. 1994 ) as Bhāsa's. But *Sadukti karṇāmṛta* by Śrīdharadāsa ascribes this verse to Rājaśekhara.
 

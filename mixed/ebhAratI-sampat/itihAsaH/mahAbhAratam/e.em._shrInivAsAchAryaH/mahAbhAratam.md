@@ -5818,7 +5818,7 @@ apparent cause (of thedestruction of these warriors).
  Exhibiting his hands' ease (in shooting arrows), Bhishma was seen there (in the army) everywhere like a whirling fire-brand.
 
 **अदर्शयद्वासुदेवो हययाने परं बलम्।  
-मोघान् कुर्वन् शरांस्तस्य मण्डलान्व्यचरँल्लघु॥**
+मोघान् कुर्वन् शरांस्तस्य मण्डलान्व्यचरल्ँलघु॥**
 
  Krishna showed great skill in (directing) the movement of the horses; rendering Bhishma's arrows futile, he made swift circuits (with the chariot).
 

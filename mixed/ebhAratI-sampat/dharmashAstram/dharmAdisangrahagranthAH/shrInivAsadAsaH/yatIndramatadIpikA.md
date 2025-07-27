@@ -2172,7 +2172,7 @@ by them in turn, approaches (the hall known as) Mahāmaṇimaṇḍapa and offer
 
  २४. मुक्तस्य ब्रह्मसाम्यापत्तिश्रुतिस्तु भोगसाम्यमाह। जगद्वयापारवर्जनस्य प्रतिपादनात्। तस्य नानात्वं सर्वलोकसञ्चरणं च सम्भवति।
 
- २५. ननु मुक्तस्य अनावृत्तित्वप्रतिपादनात् अस्मिँल्लोके सञ्चारः कथमिति चेत् न;कर्मकर्तृत्वस्यैव निषेधात् स्वेच्छया
+ २५. ननु मुक्तस्य अनावृत्तित्वप्रतिपादनात् अस्मिल्ँलोके सञ्चारः कथमिति चेत् न;कर्मकर्तृत्वस्यैव निषेधात् स्वेच्छया
 
 suited to all places, all times and all states; in whom (then) the eightfold qualities²⁹ become manifest ; and who becomes established in the communion with Brahman which is devoid of any subsequent limit.
 

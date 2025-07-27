@@ -547,7 +547,7 @@ highest of beings, the one above²the understanding of creatures.
  2. *Above the understanding of creatures*— This expression may appear to contradict the first part of the sentence'Know It'. The contradiction is solved when it is understood that the Knowledge of Brahman is not an intellectual knowledge, nor the knowledge of an object, but the intuition of the Seer above all seeing. It is not knowing a thing, but being and becoming That.\]
 
 **यदर्चिमद् यदणुभ्योऽणु च  
-  यस्मिँल्लोका निहिता लोकिनश्च।  
+  यस्मिल्ँलोका निहिता लोकिनश्च।  
 तदेतदक्षरं ब्रह्म स प्राणस्तदु वाङ्मनः  
   तदेतत् सत्यं तदमृतं तद् वेद्धव्यं सोम्य विद्धि॥२॥**
 
