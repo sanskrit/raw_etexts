@@ -99,11 +99,12 @@ http://gretil.sub.uni-goettingen.de/gretil/gretdiac.pdf
 and  
   
 http://gretil.sub.uni-goettingen.de/gretil/gretdias.pdf  
-  
-  
-  
-  
-  
+
+
+
+
+
+## पाठः
   
 Śrī Śrī-nivāsāya námaḥ  
 Śrī-vaikhānasa-mantra-praśnāṣṭake  
@@ -8810,4 +8811,3 @@ Vaikhānasa-mantra-praśna
   
 
 
-## पाठः
