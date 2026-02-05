@@ -1,0 +1,38 @@
++++
+title = "Index"
++++
+\[
+
+**ARCHAEOLOGICAL SURVEY OF INDIA**
+
+**SOUTH INDIAN INSCRIPTIONS**
+
+**VOLUME XX**
+
+**GENERAL EDITOR**
+
+**DR. D. C. SIRCAR, M.A., PH.D., F.A**.**S.**
+
+**BOMBAY KARNATAKA INSCRIPTIONS**
+
+**VOLUME IV**
+
+**(WITH INTRODUCTORY NOTES IN ENGLISH)**
+
+
+
+**EDITED BY**
+
+**DR. G.S. GAI, PH. D.**
+
+**GOVERNMENT EPIGRAPHIST FOR INDIA **
+
+
+
+
+
+****
+
+[Home Page](https://www.whatisindia.com)
+
+\]

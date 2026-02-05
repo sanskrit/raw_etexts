@@ -1,0 +1,28 @@
++++
+title = "Inscriptionsofthechandellas67"
++++
+\[
+
+**INSCRIPTIONS OF THE CHANDELLAS OF JEJAKABHUKTI**
+
+also allowed me to have a look at the plates. Subsequently, I also compared the text from another set of impressions which I owe to the Chief Epigraphist.
+
+As stated above, the set consists of two plates which are thick and heavy, and each of them bears the writing on one side only. Each of the plates measures 45 by 32 cms. and the inscribed portion on each covers a space about 41∙5 cms. broad by 29 cms. high. All round the rim of each, flat copper-bands about one cm. broad and two cms. thick are fastened by twenty-two copper-rivets on the inscribed side. The band above the right-hand corner of the second plate is slightly broken. In the middle of the bottom of the first and top of the second plate there are corresponding ring-holes, showing a diameter of about 1∙5 cm. and interrupting the writing on both of them. But the ring, which originally held the plates together, is now lost. The continuity of the writing in the first three lines is also disturbed in the middle by a rectangular space about 5∙5 cms. broad by 4 cms. high, which occupies the figure of Gajalakshmī seated on a full-blown lotus with an elephant on either side, sprinkling water over her head. The weight of both the plates together is 6∙96 kilograms.
+
+|     |
+|-----|
+| \>  |
+
+The inscription consists of forty-three lines of writing, of which twenty-two are cut on the first plate and twenty-one on the second. The size of the letters varies from 1 to 1∙2 cms. The letters are well formed but not so deeply engraved as to show through on the other side. But despite all this care, the interiors of many letters show marks of the working of the tool, e.g., the *akshara pa in Parēyī,* l. 14, *pari,* l. 28 ; and *pā in pāshāṇa,* l. 31 is engraved as *sh* and *sphuṭa* in l. 42 as *sphuḍha.* Due to wrong engraving the letters *ta, ga, shṭha* and *pā* all in l. 31 appear as *la, chā, shva and shā,* respectively. Occasional omissions of parts of letters are also to be noted ; for example, *myāṁ in pañchamyāṁ,* l. 14, is cut as gyāṁ, omitting the horizontal stroke distinguishing the two letters. The sign of anusvāra is often very small, and occasionally it is visible only on the plate. However, the mechanical execution is on the whole much better than that of the Augāsī plate which was written and engraved by the same persons as we shall presently see.
+
+The **characters** belong to the Nāgarī alphabet of the twelfth century and show a close resemblance to those of the Augāsī plate of the same king, though more carefully and beautifully formed and engraved. They show that the letters *a, k, ch, dh* and r were in a transitional stage in the region, at the time when the present document was written. The initial a, which occurs about a dozen times in the record, shows its advanced form beginning with a curve only in two or three instances, whereas it retains its older form beginning with a vertical stroke in others, both the forms being visible side by side in *Āṅgirasa-Amvarīsha* in l. 16, and again in l. 19. The letter k, which has assumed its modern Nāgarī form, has in rare cases also retained its form in which the vertical is suddenly bent so as to form the loop, as in *saṁkrāntau,* l. 15, *Ch* also presents two different forms ; the older one with a round loop as in cha, l. 6, and the developed one with an angular loop as in *vācha-,* l. 5. The letter dh appears at least in three different forms ; e.g., in *-dhi-vijaya,* l. 2, it resembles v ; in dhishaṇē, l. 5 and vadhū-, l. 8, it shows a horn on its left limb ; and in *dharma-,* ll. 13 and 40, the horn is so formed as also to serve for the topstroke. R presents at least three different varieties, viz., that with a wedge as in pravara-, l. 17; that with a vertical ending in a hook, as in *paramēśvara ,* l. 2 ; and that with a fully developed tail as in nara-, l. 1. It is also worth noting that in its subscript form, in which it is shown by a serif attached to the lower extremity of the vertical of its superscript, this letter often appears complete and the superscript is half drawn ; e.g., see yatra-, l. 6 and chaitra-, l. 14. Of the other letters, ṅ has not developed its dot, as in jaṅgama-, l. 10 ; the subscript forms of chh and th are almost alike ; see –chchhinna- and sthāvara, both in l. 10 ; and the stroke on the left of bh is sometimes lengthened so as to mark the letter appear as t, as in bhāsvara- and bhaṭṭā-, both in l. 2. Attention may also be drawn to the form of gg vinirggata-, l. 25, etc., where the subscript clearly appears as g and is also endowed with a top-stroke, though there are examples showing it as gn, as we also find in the inscriptions of the time.
+
+The **language** is Sanskrit ; and the record is written in an admixture of prose and verses. The **orthography** shows the usual peculiarities of (1) the use of the sign of v to denote b also with a few exceptions where b is used, e.g., in -labdha-, l. 6 ; (2) the doubling of consonant following r, as in –varmma ll. 2-3 ; (3) the occasional use of s for ś, e.g., in –vasāt-, l. 5, and vice versa in the only instance of –kuśuma-, l. 30; (4) the use of m in place of an anuvāra in samvatsara- and samvat, both in l. 14 ; (5) incorrect change of an anusvāra to denote n in sankrānta, l. 7, and the use of ri for the vowel ṛi in krimi- in l. 37. Occasionally, the vertical stroke is engraved in
+
+[TABLE]
+
+|                                                |
+|------------------------------------------------|
+| **[*Home Page*](https://www.whatisindia.com)** |
+
+\]

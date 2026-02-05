@@ -1,0 +1,28 @@
++++
+title = "No.95 outside north enclosure 1"
++++
+\[
+
+**TANJAVUR Brihadhiswara TEMPLE Inscriptions**
+
+**INSCRIPTIONS ON THE WALLS OF THE CENTRAL SHRINE**
+
+41\. To the shepherd Panangudi Sendan, residing at Karuvugalvallam in Eriy-nadu, (*a* *subdivision*) of Pandyakulasani-valanadu, (*were assigned*) ninety-six ewes in all, (*viz*.) \[sixty\] ewes) equivalent) to the ten she-buffaloes assigned out of the she-buffaloes given by the *Perundaram* Rajakesari-Muvendavelan for the sacred lamps (*which he*) had (*vowed*) to put up â€œ(*in case*) no filth was thrown (*on*) him in the war of the lord Sri-Rajarajadeva at Kori ;â€? twenty-four ewes (*which could be got*) for the eight *kasu* given out of the money deposited by Sembangudaiyan Amudan Tevan *alias* Rajavidyadhara-Virupparaiyan of Sembangudi in Avur-kuram, (*a subdivision*) of Nittavinoda-valanadu, for the sacred lamps (*which he*) had (*vowed*) to put up â€œ(*in case*) no filth was thrown (*on*) him in the war of the lord Sri-Rajarajadeva at Kori ;â€? and twelve ewes (*equivalent*) the six cows assigned out of the cows given by the *senapati* Kuravan Ulagalandan *alias* Rajaraja-Maharajan for sacred lamps. From (*the milk of these ninety-six ewes*) he himself and his dependents, (*viz*.) the shepherd Serumadan Pattan, living at Karuvugalvallam in Eriy-nadu, (*a subdivision*) of Pandyakulasani-valanadu ; the shepherd Vemban Kesuvan, living in the same village ; the shepherd Kunran Eruvan, living in the same village ; and the shepherd Uran Or am ban, living in the same village, have to supply (*one*) *urakku* of ghee per day, for one sacred lamp, by the Adavallan (*measure*).
+
+42\. To the shepherd Ayiravan Kandan, residing at Mangallanallur in Kirsengili-nadu, (*a subdivision*) of Pandyakulasani-valanadu, were assigned forty-eight cows in all, (*viz*.) eleven out of the cows (*surabhi*) of the lord Sri-Rajarajesvaramudaiyar ; and thirty-seven out of the cows given by the *senapati* Kuravan Ulagalandan *alias* Rajaraja-Maharajan for the sacred lamps (*which he*) had (*vowed*) to put up â€œ(*in case*) no filth was thrown (*on*) him in the war of the lord Sri-Rajarajadeva at Kori.â€? From (*the milk of these forty-eight cows*) he himself and his dependent, (*viz*.) his uterine brothers Ayiravan Achchan and Ayiravan Pidaran ; and Maravan Kaliyan and Maravan Karukkilai, the sons of (*his*) fatherâ€™s elder brother, have to supply (*one*) *urakku* of ghee per day, for one sacred lamp by the Adavallan (*measure*).
+
+43\. To the shepherd Kari Tarai, residing at Rajarajapuram in Nallur-nadu, (*a subdivision*) of Nittavinoda-valanadu, were assigned ninety-six ewes out of the ewes given by Rajaraja-Vanogavaraiyan for sacred lamps. From (*the milk of these ninety-six ewes*) he himself land his dependents, (*viz*.) his sons Tarai Karumani and Tarai Tiruvengadam ; and (*his*) uterine brother Kari Narayanan, have to supply (*one*) *urakku* of ghee per day, for one sacred lamp, by the Adavallan (*measure*).
+
+|     |
+|-----|
+| \>  |
+
+44\. To the shepherd Araiyan Paramayan, residing at Uyyakkondan-terinda-tirumanjanattar-velam, outside Tanjavur (*were assigned*) ninety-six ewes in all, (*viz*.) twenty-four ewes (*which* *could be got*) for the eight *kasu* given out of the money deposited by Sembangudaiyan Amudan Tevan *alias* Rajavidyadhara â€“ Virupparaiyan of Sembangudi in Avur-kurram, (*a subdivision*) of Nittavinoda-valanadu, for the sacred lamps (*which he*) had (*vowed*) to put up â€œ(*in case*) no filth was thrown (*on*) him in the war of the lord Sri-Rajarajadeva at Kori ;â€? and seventy-two ewes (*equivalent*) to the thirty-six cows assigned out of the cows given by the *senapati* Kuravan Ulagalandan *alias* Rajaraja-Maharajan for the sacred lamps (*which he*) had (*vowed*) to put up â€œ(*in* *case*) no filth was thrown (*on*) him in the war of the lord Sri-Rajarajadeva at Kori.â€? From (*the milk* *of these ninety-six ewes*) he himself and his dependents, (*viz*.) the shepherd Ti.............. gayan, living at Uyyakkondan-terinda-tirumanjanattar-velam, outside Tanjavur ; the shepherd Suruppan Kandan living in the same *velam* ; the shepherd Kadan Kuttan living in the same *velam* ; and the shepherd Pappan Panaiyan, living at Karuvugalvallam in Eriy-nadu, (*a subdivision*) of Pandyakulasani-valanadu, have to supply (*one*) *urakku* of ghee per day, for one sacred lamp, by the Adavallan (*measure*).
+
+45\. To the shepherd Maran Kuttattari, residing at Kshatriyasikhamanipuram in Kirvengai-nadu, (*a* *subdivision*) of Rajaraja-valanadu, (*were assigned*) ninety-six ewes in all, (*viz*.) sixty-eight ewes (*equivalent*) to the thirty-four cows, and one ewe to the one heifer (*nagukanru)* assigned out of the cows given by the lord Sri-Rajarajadeva for sacred lamps ; twelve ewes (which could be got) for the four *kasu* given out of the money deposited, for sacred lamps, by the royal secretary, Karayil Eduttapadam, the headman of Rajakesarinallur ; and fifteen ewes (*which could be got*) for the five *kasu* given out of the money deposited by the Sonagan (*i.e*. Jonaka) Savur Paranjodi for sacred lamps. From (*the milk of these ninety-six ewes*) he himself and his dependents, (*viz*.) the shepherd Sattan Kari, living at Kshatriyasikhamanipuram in Kirvengai-nadu, (*a subdivision*) of Rajaraja-valanadu ; the shepherd Kamban Tattai, living in the same village ; the shepherd Kulirkoyil Kadan, living in the same village ; and the shepherd Aiyaran Tarivadugan, living in the same village, have to supply (*one*) *urakku* of ghee per day, for one sacred lamp, by the Adavallan (*measure*).
+
+[TABLE]
+
+[TABLE]
+
+\]
