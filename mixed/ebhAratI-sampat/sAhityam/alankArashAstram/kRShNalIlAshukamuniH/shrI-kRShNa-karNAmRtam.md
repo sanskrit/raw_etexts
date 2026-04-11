@@ -6771,6 +6771,12 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE4MDk2MTg2NTA
 श्री-कृष्ण-कर्णामृत-टीका श्री-कृष्ण-वल्लभा समाप्ता ॥
 
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Another name of Prabodhanand Saraswati who is his guru and relative per gauDIya vedAnta vAgIsha.
+</details>
+
+
 
 गोपाल-भट्ट (२) ॒ इति श्री-लीलाशुक-बिल्वमङ्गल-विरचितं श्री-कृष्ण-कर्णामृतं स्तोत्रम् ।
 
