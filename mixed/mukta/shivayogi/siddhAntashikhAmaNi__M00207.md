@@ -1,4 +1,4 @@
-`+++
++++
 "Catalog number" = "M00207"
 "Uniform title" = "siddhāntaśikhāmaṇi"
 "Main title" = "siddhāntaśikhāmaṇi with commentary tattvapradīpika chapters 1-15"
