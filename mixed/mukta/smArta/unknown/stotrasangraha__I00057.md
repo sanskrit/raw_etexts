@@ -588,4 +588,4 @@ accounting of initial images:
 तस्य मृत्युभयं नास्ति सत्यं सत्यं वदाम्यहम् । ... (l.5) सत्यं सत्यं मुच्यते ..पवातकैः वेद... परं नास्ति न दैवं शङ्करात् परः ॥ end of the manuscript bundle. (p.55b end frame picture of the bundle)  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

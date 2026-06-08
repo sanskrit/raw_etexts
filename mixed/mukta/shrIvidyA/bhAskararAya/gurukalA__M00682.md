@@ -980,4 +980,4 @@ Govt. Mss. Lib., Bhandarkar O. R. Institute, Pune (India)
     
 ।। इति खड्गमालाभाष्यं समाप्तम् ।। 6  
     
-E-texts may be viewed only online or downloaded for private study.          
+

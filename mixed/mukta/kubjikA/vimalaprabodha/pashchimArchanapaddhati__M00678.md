@@ -1215,4 +1215,4 @@ blank
 मं यं रम् । इशे लम् । इत्यष्टाविंशतिक्रममण्डलाद्यक्षराणि विलिख्य । वह्निकोणे छङ्काराधः । ऐँ ह्सौँ ऐँ । नैऋत्ये टँकाराधः  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

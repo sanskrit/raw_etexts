@@ -2265,4 +2265,4 @@ upstream_url = "https://muktabodha-digital-library.org/texts/DEV/M00676"
 \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* \* ।  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

@@ -570,4 +570,4 @@ Ponnurekottamana, Perumbavore Travancore state.
 Compared with original ms \* \* 31/05/20  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

@@ -84,4 +84,4 @@ mostly 7 lines in each side
 (incomplete)  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

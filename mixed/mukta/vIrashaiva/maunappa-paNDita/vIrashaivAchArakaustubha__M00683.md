@@ -1089,4 +1089,4 @@ Incomplete
 नक्षत्राणि च पुष्पाणि रुद्राक्षः कुलपर्वताः ।। 57 ।।  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

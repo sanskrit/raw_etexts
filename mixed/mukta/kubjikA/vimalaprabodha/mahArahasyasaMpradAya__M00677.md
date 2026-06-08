@@ -610,4 +610,4 @@ upstream_url = "https://muktabodha-digital-library.org/texts/DEV/M00677"
 राजाधिराजपरमेश्वरपरमभट्टारकश्रीमदरिमल्लदेवस्य विजयेति ।। सं 331 श्रावणशुदि 7 ।।  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

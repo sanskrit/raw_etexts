@@ -1265,4 +1265,4 @@ upstream_url = "https://muktabodha-digital-library.org/texts/DEV/M00679"
 ते सर्व्वे नासमायान्तु मया दत्तेन भूतले ।।  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

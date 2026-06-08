@@ -18215,4 +18215,4 @@ upstream_url = "https://muktabodha-digital-library.org/texts/DEV/M00680"
 सम्वत् 807 माघसुदि ।। ।।  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

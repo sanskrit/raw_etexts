@@ -1639,4 +1639,4 @@ upstream_url = "https://muktabodha-digital-library.org/texts/DEV/M00674"
 ।। सम्पूर्णः ।।  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

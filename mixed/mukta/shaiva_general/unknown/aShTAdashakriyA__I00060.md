@@ -1702,4 +1702,4 @@ l=line
 आकाशतत्वाधिपतये - सूक्ष्माय स्वाहा ।  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

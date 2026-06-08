@@ -614,4 +614,4 @@ p=pdf picture
 । परिसमाप्तम् ।  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+

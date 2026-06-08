@@ -10084,4 +10084,4 @@ upstream_url = "https://muktabodha-digital-library.org/texts/DEV/M00673"
 ॐ नमश्शिवादिभ्यो गुरुभ्यः शिवमस्तु सर्वेषाम् ।। ।।  
     
     
-E-texts may be viewed only online or downloaded for private study.          
+
